@@ -18534,5 +18534,107 @@
     "verdict": "MATCH",
     "reason": "width upgrade: Represents garden with statues, hedges, and mountain backdrop",
     "at": "2026-09-12T21:36:05.168Z"
+  },
+  "avignon-the-bridge-of-avignon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Avignon_France_Bridge_-_Pont_Saint-Benezet_Rhone_River.jpg/3840px-Avignon_France_Bridge_-_Pont_Saint-Benezet_Rhone_River.jpg": {
+    "slug": "avignon-the-bridge-of-avignon",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows Pont d'Avignon bridge over river, representative view",
+    "at": "2026-09-13T07:38:02.637Z"
+  },
+  "palermo-quattro-canti\u0001https://upload.wikimedia.org/wikipedia/commons/c/c2/Quattro_canti_%E2%80%93_Preview_%28Andreas_Mischok_via_Poly_Haven%29.png": {
+    "slug": "palermo-quattro-canti",
+    "verdict": "MATCH",
+    "reason": "publish gate: 360 panorama shows Quattro Canti intersection buildings and fountain",
+    "at": "2026-09-13T07:39:43.500Z"
+  },
+  "kochi-ernakulam-shiva-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ernakulathappan_Temple_West_Gopuram.jpg/1920px-Ernakulathappan_Temple_West_Gopuram.jpg": {
+    "slug": "kochi-ernakulam-shiva-temple",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows temple exterior with Malayalam signage, matches Kochi location",
+    "at": "2026-09-13T07:42:21.848Z"
+  },
+  "palermo-giardino-garibaldi\u0001https://upload.wikimedia.org/wikipedia/commons/5/57/Giardino_Garibaldi_2018_2.jpg": {
+    "slug": "palermo-giardino-garibaldi",
+    "verdict": "MATCH",
+    "reason": "publish gate: Garden path with trees and bench, representative park scene",
+    "at": "2026-09-13T07:45:04.228Z"
+  },
+  "kochi-subhash-bose-park\u0001https://upload.wikimedia.org/wikipedia/commons/9/99/Subhash_Bose_Park_Kochi.jpg": {
+    "slug": "kochi-subhash-bose-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows park entrance sign, pathway, and grounds",
+    "at": "2026-09-13T07:46:31.829Z"
+  },
+  "malaga-museo-carmen-thyssen-malaga\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Eugenio_Lucas_Villaam_-_Two_paintings_in_Museo_Carmen_Thyssen_M%C3%A1laga.jpg/3840px-Eugenio_Lucas_Villaam_-_Two_paintings_in_Museo_Carmen_Thyssen_M%C3%A1laga.jpg": {
+    "slug": "malaga-museo-carmen-thyssen-malaga",
+    "verdict": "MATCH",
+    "reason": "publish gate: Museum interior showing framed paintings, representative of art museum",
+    "at": "2026-09-13T07:47:41.051Z"
+  },
+  "nantes-musee-dobree\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Mus%C3%A9e_Dobr%C3%A9e.JPG/1920px-Mus%C3%A9e_Dobr%C3%A9e.JPG": {
+    "slug": "nantes-musee-dobree",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior view of the historic Musée Dobrée building",
+    "at": "2026-09-13T07:50:37.888Z"
+  },
+  "genoa-galata-museo-del-mare\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Galata_museo_mare_GE.jpg/3840px-Galata_museo_mare_GE.jpg": {
+    "slug": "genoa-galata-museo-del-mare",
+    "verdict": "MATCH",
+    "reason": "publish gate: Interior galley ship exhibit, representative of Galata Museo del Mare",
+    "at": "2026-09-13T07:51:52.925Z"
+  },
+  "makassar-balla-lompoa-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Museum_Balla_Lompoa%2C_Gowa.jpg/3840px-Museum_Balla_Lompoa%2C_Gowa.jpg": {
+    "slug": "makassar-balla-lompoa-museum",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior of traditional wooden museum building with signage",
+    "at": "2026-09-13T07:53:15.540Z"
+  },
+  "taroko-gorge-xiangde-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hsiang_Te_Temple_01.jpg/1920px-Hsiang_Te_Temple_01.jpg": {
+    "slug": "taroko-gorge-xiangde-temple",
+    "verdict": "MATCH",
+    "reason": "publish gate: Aerial view of Xiangde Temple complex in Taroko Gorge",
+    "at": "2026-09-13T07:53:45.295Z"
+  },
+  "varanasi-dashashwamedh-ghat\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dasaswamedh_ghat-varanasi_india-andres_larin.jpg/1920px-Dasaswamedh_ghat-varanasi_india-andres_larin.jpg": {
+    "slug": "varanasi-dashashwamedh-ghat",
+    "verdict": "MATCH",
+    "reason": "publish gate: Aerial view of Varanasi ghat with boats, riverfront, crowds",
+    "at": "2026-09-13T07:54:23.394Z"
+  },
+  "bukit-timah-former-ford-factory\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Former_Ford_Factory%2C_2025_%283%29.jpg/1920px-Former_Ford_Factory%2C_2025_%283%29.jpg": {
+    "slug": "bukit-timah-former-ford-factory",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows exterior building with 'Former Ford Factory' signage clearly",
+    "at": "2026-09-13T07:55:34.676Z"
+  },
+  "annecy-basilique-de-la-visitation\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Basilique_de_la_Visitation_-_208.jpg/3840px-Basilique_de_la_Visitation_-_208.jpg": {
+    "slug": "annecy-basilique-de-la-visitation",
+    "verdict": "MATCH",
+    "reason": "publish gate: Basilica facade detail with cross and carvings, representative",
+    "at": "2026-09-13T07:56:14.181Z"
+  },
+  "nikko-nikko-natural-science-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nikko_Natural_Science_Museum-2.jpg/3840px-Nikko_Natural_Science_Museum-2.jpg": {
+    "slug": "nikko-nikko-natural-science-museum",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior plaza view showing museum building and surroundings",
+    "at": "2026-09-13T07:57:17.892Z"
+  },
+  "harbin-zhaolin-park\u0001https://upload.wikimedia.org/wikipedia/commons/f/f0/Zhaolin_Park_27289-Harbin_%2847077810101%29.jpg": {
+    "slug": "harbin-zhaolin-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Park garden with trees, flowers, plausible for Zhaolin Park",
+    "at": "2026-09-13T07:58:10.894Z"
+  },
+  "chennai-arulmigu-marundeeswarar-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Golden_Chariot_Arulmigu_Marundeeswarar_Temple.jpg/3840px-Golden_Chariot_Arulmigu_Marundeeswarar_Temple.jpg": {
+    "slug": "chennai-arulmigu-marundeeswarar-temple",
+    "verdict": "MATCH",
+    "reason": "publish gate: Temple shrine with deity illuminated, crowd gathered, night festival",
+    "at": "2026-09-13T07:59:19.450Z"
+  },
+  "nantes-place-royale\u0001https://upload.wikimedia.org/wikipedia/commons/9/9f/Nantes_-_fontaine_de_la_Place_Royale.jpg": {
+    "slug": "nantes-place-royale",
+    "verdict": "MATCH",
+    "reason": "publish gate: Fountain with statue at Place Royale, Nantes",
+    "at": "2026-09-13T08:28:42.029Z"
   }
 }

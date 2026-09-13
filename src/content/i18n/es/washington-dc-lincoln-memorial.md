@@ -1,58 +1,58 @@
 ---
 lang: es
 slug: washington-dc-lincoln-memorial
-srcHash: 'c713b7cbb447'
-title: 'Lincoln Memorial: guía de viaje de Washington D. C. (4,8★)'
-description: 'El Lincoln Memorial de Washington D. C. se encuentra en el extremo oeste del National Mall, frente al Reflecting Pool y al Washington Monument. 4,8★ (54.427 reseñas): lo que opinan los visitantes, horarios y consejos.'
-quickAnswer: El Lincoln Memorial de Washington D. C. se encuentra en el extremo oeste del National Mall, frente al Reflecting Pool y al Washington Monument. Está abierto las 24 horas del día y la entrada es gratuita; el momento de menor afluencia es entre las 7:00 y las 9:00, tanto entre semana como el fin de semana, mientras que de 10:00 a 22:00 los fines de semana la afluencia es muy alta. Conviene reservar entre 45 y 60 minutos para subir las escalinatas, ver la estatua y leer los discursos grabados.
+srcHash: '946e4b5d00d1'
+title: 'Lincoln Memorial: Guía de viaje de Washington DC (4.8★)'
+description: 'El Lincoln Memorial, en Washington DC, se alza en el extremo oeste del National Mall, frente al Reflecting Pool y al Washington Monument. 4.8★ (54.427 reseñas): lo que dicen los visitantes, horarios y consejos.'
+quickAnswer: El Lincoln Memorial, en Washington DC, se alza en el extremo oeste del National Mall, frente al Reflecting Pool y al Washington Monument. Permanece abierto las 24 horas del día y la entrada es gratuita; el momento más tranquilo para visitarlo es entre las 7 y las 9 de la mañana, tanto entre semana como los fines de semana, mientras que de 10am a 10pm los fines de semana hay mucha afluencia. Conviene reservar entre 45 y 60 minutos para subir las escalinatas, contemplar la estatua y leer los discursos grabados en piedra.
 faq:
-  - q: ¿Cuál es el horario del Lincoln Memorial?
-    a: Está abierto las 24 horas, todos los días de la semana, sin coste de entrada ni necesidad de ticket.
-  - q: ¿Cuál es el mejor momento para visitarlo con menos gente?
-    a: La afluencia es menor entre las 7:00 y las 9:00, tanto entre semana como el fin de semana. El tramo más concurrido son los fines de semana de 10:00 a 22:00, así que conviene evitar llegar entonces si se busca menos aglomeración.
-  - q: ¿Cómo se llega al Lincoln Memorial sin coche?
-    a: La estación de metro más cercana es Foggy Bottom-GWU, en las líneas Blue, Orange y Silver, a unos 20 minutos a pie. La ruta del National Mall del DC Circulator también para cerca.
-  - q: ¿Cuánto tiempo conviene reservar para la visita?
-    a: La mayoría de los visitantes dedica entre 45 minutos y una hora, tiempo suficiente para leer los dos discursos grabados, ver los murales y hacer fotos desde las escalinatas.
-  - q: ¿Qué más hay cerca?
-    a: El Vietnam Veterans Memorial y el Korean War Veterans Memorial están a poca distancia a pie, y el Martin Luther King Jr. Memorial queda a unos 10 minutos caminando junto al Tidal Basin.
+  - q: ¿Cuál es el horario de apertura del Lincoln Memorial?
+    a: Permanece abierto las 24 horas todos los días de la semana, sin costo de entrada ni necesidad de boleto.
+  - q: ¿Cuál es el mejor momento para visitarlo sin mucha gente?
+    a: La afluencia es menor entre las 7 y las 9 de la mañana, tanto entre semana como los fines de semana. El tramo más concurrido es el de los fines de semana entre las 10am y las 10pm, así que conviene evitarlo si se busca menos gente.
+  - q: ¿Cómo llegar al Lincoln Memorial sin conducir?
+    a: La estación de metro más cercana es Foggy Bottom-GWU, en las líneas Blue, Orange y Silver, a unos 20 minutos a pie. La ruta del National Mall del autobús DC Circulator también tiene una parada cerca.
+  - q: ¿Cuánto tiempo conviene dedicarle a la visita?
+    a: La mayoría de los visitantes pasa entre 45 minutos y una hora, tiempo suficiente para leer los dos discursos grabados, ver los murales y tomar fotografías desde las escalinatas.
+  - q: ¿Qué otros lugares hay cerca?
+    a: El Vietnam Veterans Memorial y el Korean War Veterans Memorial están a poca distancia a pie, y el Martin Luther King Jr. Memorial queda a unos 10 minutos caminando bordeando el Tidal Basin.
 ---
 
 ## Para orientarse
 
-El Lincoln Memorial marca el extremo oeste del National Mall, en Washington D. C., en el número 2 de Lincoln Memorial Cir NW. Mira hacia el este, cruzando el Reflecting Pool en dirección al Washington Monument y, más allá, al Capitolio; esta perspectiva se diseñó deliberadamente cuando el monumento se inauguró en 1922.
+El Lincoln Memorial marca el extremo oeste del National Mall, en Washington DC, en el número 2 de Lincoln Memorial Cir NW. Mira hacia el este, sobre el Reflecting Pool, en dirección al Washington Monument y, más allá, al Capitolio; esta perspectiva se diseñó de manera deliberada cuando el monumento se inauguró en 1922.
 
-El edificio está inspirado en el Partenón: tiene 36 columnas dóricas, una por cada estado de la Unión en el momento de la muerte de Lincoln. La piedra caliza y el mármol, veteados por la mugre acumulada, le dan un peso visual que las fotografías nunca logran captar del todo de cerca.
+El edificio está inspirado en el Partenón: cuenta con 36 columnas dóricas, una por cada estado que formaba la Unión en el momento de la muerte de Lincoln. La piedra caliza y el mármol, veteados por el paso del tiempo, transmiten un peso visual que ninguna fotografía de cerca logra capturar del todo.
 
-## Dentro de la cámara central
+## Dentro de la cámara
 
-La estatua sedente de mármol de Lincoln, obra de Daniel Chester French y de casi seis metros de altura, domina la cámara central. Está formada por 28 bloques encajados con tal precisión que hay que fijarse mucho para encontrar las juntas. En las paredes laterales se han grabado en su totalidad dos discursos del propio Lincoln: el Discurso de Gettysburg al sur y su Segundo Discurso Inaugural al norte.
+En el centro de la sala domina la estatua sedente de Lincoln, obra de Daniel Chester French, tallada en mármol y de casi 6 metros de altura; está ensamblada con tal precisión que resulta difícil distinguir las junturas. En las paredes laterales se han grabado en su totalidad dos discursos del propio Lincoln: el Discurso de Gettysburg, al sur, y su Segundo Discurso Inaugural, al norte.
 
-Sobre cada texto hay murales de tonos apagados pintados por Jules Guerin que representan figuras alegóricas de temas como la Unidad y la Emancipación. Si miras hacia abajo, al noveno escalón contando desde arriba, encontrarás una pequeña placa que señala el lugar exacto donde Martin Luther King Jr. pronunció su discurso "I Have a Dream" en 1963.
+Sobre cada texto, los murales de tonos apagados pintados por Jules Guerin representan figuras alegóricas de temas como la Unidad y la Emancipación. Si se mira hacia las escalinatas, puede verse una pequeña placa que señala el lugar exacto donde Martin Luther King Jr. pronunció su discurso "I Have a Dream" en 1963.
 
 ## Cómo evitar las aglomeraciones
 
-Se trata de uno de los monumentos más visitados del país, así que aquí el momento del día importa más que en lugares menos concurridos. La afluencia es menor entre las 7:00 y las 9:00, tanto entre semana como el fin de semana, antes de que lleguen los autobuses turísticos y los grupos escolares.
+Se trata de uno de los monumentos más visitados del país, así que aquí elegir bien el horario importa más que en sitios menos concurridos. La afluencia es menor entre las 7 y las 9 de la mañana, tanto entre semana como los fines de semana, antes de que lleguen los autobuses turísticos y los grupos escolares.
 
-Si quieres tener las escalinatas y la cámara para ti solo a la hora de hacer fotos, evita presentarte entre las 10:00 y las 22:00 los fines de semana. Como el recinto nunca cierra, una visita temprano por la mañana o después del anochecer también ofrece una luz más suave y un ambiente muy distinto al bullicio del mediodía.
+Para tener las escalinatas y la cámara casi para uno mismo y poder fotografiar con calma, conviene evitar el tramo del mediodía los fines de semana, que es el más concurrido. Como el monumento nunca cierra, visitarlo muy temprano por la mañana o después del anochecer también permite disfrutar de una luz más suave y de un ambiente muy distinto al bullicio del mediodía.
 
 ## Cómo llegar sin coche
 
-- **Metro:** la estación más cercana es Foggy Bottom-GWU (líneas Blue, Orange y Silver), a unos 20 minutos a pie hacia el este atravesando el Mall.
-- **Autobús Circulator:** la ruta del National Mall para a pocos minutos a pie de las escalinatas del monumento.
-- **En coche:** hay aparcamiento limitado en la calle a lo largo de Ohio Drive SW, cerca del Potomac; se llena rápido los fines de semana.
-- **A pie:** desde el Washington Monument, el paseo bordeando el Reflecting Pool lleva entre 20 y 25 minutos aproximadamente.
+- **Metro:** la estación más cercana es Foggy Bottom-GWU (líneas Blue, Orange y Silver), a unos 20 minutos a pie cruzando el Mall hacia el este.
+- **Autobús Circulator:** la ruta del National Mall tiene una parada a pocos minutos a pie de las escalinatas del monumento.
+- **En coche:** hay estacionamiento limitado en la calle a lo largo de Ohio Drive SW, cerca del Potomac, aunque se llena rápido los fines de semana.
+- **A pie:** desde el Washington Monument, el paseo bordeando el Reflecting Pool toma unos 20 a 25 minutos.
 
-La entrada es gratuita y no se necesita ticket ni reserva a ninguna hora.
+La entrada es gratuita y no se necesita boleto ni reserva a ninguna hora.
 
 ## Lo que hacen distinto los residentes
 
-Como este monumento pertenece al grupo de los más populares de Washington D. C., el truco práctico de los residentes no consiste en buscar una entrada secreta, sino simplemente en evitar la hora punta diurna. Quienes traen a familiares de visita suelen ir justo al amanecer o después de que se encienda la iluminación nocturna, momento en el que el resplandor interior de la estatua resulta mucho más impactante contra la penumbra de la cámara.
+Al tratarse de uno de los monumentos más populares de Washington DC, la estrategia de los residentes no consiste en buscar alguna entrada secreta, sino sencillamente en evitar las horas pico del día. Quienes suelen traer aquí a familiares de visita prefieren ir justo al amanecer o después de que se enciende la iluminación nocturna, momento en que el resplandor interior de la estatua resulta mucho más impresionante contra la penumbra de la cámara.
 
-Los baños y una pequeña librería se encuentran en el nivel inferior, bajo la cámara principal, y es fácil pasarlos por alto si no se buscan las escaleras cerca de la base. Los guardaparques (rangers) apostados en el interior ofrecen breves charlas informales a lo largo del día; si te cruzas con una a medias, merece la pena detenerse, ya que no existe un horario de visitas guiadas fijo que planificar.
+En el nivel inferior, bajo la sala principal, hay baños y una pequeña librería que pasan fácilmente desapercibidos si no se busca la escalera cerca de la base. Dentro del recinto, guardas del Servicio de Parques ofrecen a lo largo del día breves charlas informales; si se encuentra alguna en curso, vale la pena detenerse a escuchar, aunque no existe un horario fijo de visitas guiadas que planificar con antelación.
 
 ## Cómo combinarlo con el resto del Mall
 
-La mayoría de los visitantes combinan el monumento con el cercano Vietnam Veterans Memorial y el Korean War Veterans Memorial, ambos a poca distancia a pie, hacia el norte y el sur respectivamente. El Martin Luther King Jr. Memorial se encuentra hacia el sureste, junto al Tidal Basin, a unos 10 minutos a pie.
+La mayoría de los visitantes combina el monumento con el cercano Vietnam Veterans Memorial y el Korean War Veterans Memorial, situados a poca distancia a pie, al norte y al sur respectivamente. El Martin Luther King Jr. Memorial se encuentra apenas al sureste, junto al Tidal Basin, a unos 10 minutos caminando.
 
-Si quieres leer los dos discursos y contemplar los murales, y no solo fotografiar la estatua, reserva entre 45 minutos y una hora para el Lincoln Memorial. Subir la escalinata completa desde el nivel del Reflecting Pool añade unos minutos más, pero regala la vista clásica hacia el Mall.
+Conviene reservar entre 45 minutos y una hora para el Lincoln Memorial en sí si se quiere leer ambos discursos y contemplar los murales, en lugar de limitarse a fotografiar la estatua. Subir toda la escalinata desde el nivel del Reflecting Pool añade unos minutos, pero regala la clásica vista de vuelta hacia el Mall.

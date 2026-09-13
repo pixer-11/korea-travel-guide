@@ -1,52 +1,52 @@
 ---
 lang: es
 slug: lombok-mount-rinjani-national-park
-srcHash: '45bd8fda5ce3'
-title: 'Parque Nacional del Monte Rinjani: guía de viaje de Lombok (4.7★)'
-description: 'El Parque Nacional del Monte Rinjani, en Senaru, en el norte de Lombok, alberga el segundo volcán más alto de Indonesia y es el gran destino de trekking de varios días en la isla; la mejor época para recorrerlo va de abril a diciembre, cuando los senderos están secos y abiertos. 4.7★ (1.816 reseñas): esto es lo que dicen los visitantes, los horarios y algunos consejos.'
-quickAnswer: El Parque Nacional del Monte Rinjani, en Senaru, en el norte de Lombok, alberga el segundo volcán más alto de Indonesia y es el gran destino de trekking de varios días en la isla; la mejor época para recorrerlo va de abril a diciembre, cuando los senderos están secos y abiertos. Las puertas de registro abren todos los días de 7:00 a 19:00 (hasta las 19:30 los lunes), aunque el ascenso final a la cumbre comienza mucho antes del amanecer, sin importar el horario del parque. Hay que reservar entre dos y cuatro días y contratar un guía autorizado, ya que no se permite el trekking en solitario.
+srcHash: '5bd4e385486f'
+title: 'Parque Nacional Monte Rinjani: Guía de Viaje de Lombok (4,7★)'
+description: 'El Parque Nacional Monte Rinjani, en Senaru, al norte de Lombok, alberga el segundo volcán más alto de Indonesia y es el gran destino de trekking de varios días en la isla; conviene recorrerlo entre abril y diciembre, cuando los senderos están secos y transitables. 4,7★ (1.816 reseñas): esto es lo que dicen los visitantes, además de horarios y consejos.'
+quickAnswer: El Parque Nacional Monte Rinjani, en Senaru, al norte de Lombok, alberga el segundo volcán más alto de Indonesia y es el gran destino de trekking de varios días en la isla; conviene recorrerlo entre abril y diciembre, cuando los senderos están secos y transitables. Las puertas de registro abren de 7:00 a 19:00 todos los días (hasta las 19:30 los lunes), aunque el ascenso final a la cumbre arranca mucho antes del amanecer, sin importar el horario del parque. Conviene reservar entre dos y cuatro días y contratar un guía autorizado, ya que no se permite el trekking en solitario.
 faq:
   - q: ¿Cuánto dura el trekking al Monte Rinjani?
-    a: La caminata hasta el borde del cráter de Senaru suele durar 2 días y 1 noche. Llegar a la cumbre y al lago Segara Anak normalmente requiere de 3 a 4 días, con 2 o 3 noches.
-  - q: ¿Necesito un guía para hacer el Rinjani?
-    a: Sí. No se permite el trekking independiente dentro del parque nacional; hay que reservar a través de una agencia de trekking autorizada, que proporciona guía, porteadores y el permiso del parque.
+    a: La caminata hasta el mirador del cráter en Senaru suele hacerse en 2 días y 1 noche. Para llegar a la cumbre y al lago Segara Anak, generalmente se necesitan de 3 a 4 días, con 2 o 3 noches.
+  - q: ¿Necesito un guía para subir al Rinjani?
+    a: Sí. No se permite el trekking independiente dentro del parque nacional; hay que reservar a través de una organizadora de trekking autorizada, que se encarga de proporcionar guía, porteadores y el permiso del parque.
   - q: ¿Cuál es la mejor época para hacer el trekking al Rinjani?
-    a: De abril a diciembre es la temporada seca, el único período en el que las caminatas se realizan con regularidad. El parque suele cerrarse a los excursionistas entre enero y marzo por el riesgo de lluvias y deslizamientos de tierra.
-  - q: ¿Cómo se llega al punto de partida?
-    a: El pueblo de Senaru, el principal punto de partida por el norte, está a unas 2 o 2,5 horas por carretera desde Mataram o desde los muelles del ferry de las islas Gili. Sembalun, el punto de partida por el este, está a unas 3 horas de Mataram.
+    a: De abril a diciembre es la temporada seca y el único periodo en el que las caminatas se realizan con regularidad. Por lo general, el parque permanece cerrado a los excursionistas de enero a marzo debido a las lluvias y al riesgo de deslizamientos.
+  - q: ¿Cómo se llega al punto de partida del sendero?
+    a: La aldea de Senaru, punto de partida principal por el norte, está a unas 2 o 2,5 horas en coche desde Mataram o desde los muelles del ferry a las Islas Gili. Sembalun, el punto de partida por el este, queda a unas 3 horas de Mataram.
   - q: ¿Qué debo llevar para el ascenso final a la cumbre?
-    a: 'Una chaqueta abrigada, una linterna frontal, botas resistentes y bastones de trekking son imprescindibles: el ascenso previo al amanecer atraviesa pedregales volcánicos sueltos con temperaturas cercanas a cero grados, pese a que Lombok es una isla tropical de tierras bajas.'
+    a: 'Una chaqueta de abrigo, linterna frontal, botas resistentes y bastones de trekking son imprescindibles: el ascenso previo al amanecer cruza pedregales volcánicos sueltos con temperaturas cercanas al punto de congelación, a pesar del clima tropical de las tierras bajas de Lombok.'
 ---
 
-## Lo que en realidad se está escalando
+## Qué se sube realmente
 
-El Rinjani alcanza los 3.726 metros de altura, lo que lo convierte en el segundo volcán más alto de Indonesia después del Kerinci. En su cráter se encuentra Segara Anak, un lago con forma de media luna que alberga en su interior un cono más pequeño, el Gunung Baru Jari, todavía humeante. Dos pueblos sirven de puerta de entrada al parque: Senaru, en el lado norte, y Sembalun, en el este.
+El Rinjani alcanza los 3.726 metros de altura, lo que lo convierte en el segundo volcán más alto de Indonesia, después del Kerinci. Dentro de su cráter se encuentra el Segara Anak, un lago con forma de media luna que guarda en su interior un cono más pequeño, el Gunung Baru Jari, siempre humeante. Dos aldeas sirven de puerta de entrada al parque: Senaru, al norte, y Sembalun, al este.
 
 La mayoría de los trekkings de varios días conectan ambos puntos, de modo que el descenso atraviesa un paisaje distinto al de la subida.
 
-La caminata hasta el mirador del cráter de Senaru es una excursión de dos días perfectamente abordable para excursionistas en buena forma física, sin necesidad de experiencia técnica. El trekking completo hasta la cumbre es más largo y empinado, y se realiza de noche para llegar arriba justo al amanecer; en el tramo final, el pedregal volcánico suelto hace que cada dos pasos hacia adelante se convierta en uno hacia atrás.
+La caminata hasta el mirador del cráter de Senaru es un trayecto de dos días perfectamente asequible para excursionistas con una condición física razonable, sin necesidad de experiencia técnica. El trekking completo hasta la cumbre es más largo, más empinado y se realiza de noche para llegar arriba justo al amanecer; en el tramo final, el pedregal volcánico suelto hace que por cada dos pasos hacia delante se retroceda uno.
 
 ## Cuándo están realmente abiertas las puertas
 
-El trekking permanece oficialmente cerrado, aproximadamente, de enero a marzo, la temporada de lluvias en Lombok, cuando los senderos se llenan de barro y el riesgo de deslizamientos obliga a cerrar las rutas. La ventana seca, de abril a diciembre, es cuando se realizan casi todos los trekkings guiados. El horario de entrada al parque figura como de 7:00 a 19:00 todos los días (hasta las 19:30 los lunes), pero eso rige el registro y el acceso durante el día, no el intento de cumbre en sí, que sale del campamento justo a la hora de apertura, las 7:00, para alcanzar la cima al amanecer.
+El trekking permanece oficialmente cerrado, aproximadamente, de enero a marzo, la temporada de lluvias en Lombok, cuando los senderos se convierten en barro y el riesgo de deslizamientos obliga a cerrar las rutas. La ventana seca, de abril a diciembre, es cuando se realizan prácticamente todas las excursiones guiadas. El horario de entrada al parque figura de 7:00 a 19:00 todos los días (hasta las 19:30 los lunes), pero eso rige el registro y el acceso durante el día, no el intento de cumbre en sí, que sale del campamento mucho antes del amanecer, en plena noche, para alcanzar la cima a tiempo para ver salir el sol.
 
-Los meses de mayor afluencia son julio y agosto, además de los días cercanos a los feriados nacionales de Indonesia; conviene reservar guía y porteadores con algunas semanas de antelación si se apunta a esas fechas.
+Los meses de mayor afluencia son julio y agosto, además de los días cercanos a los feriados nacionales de Indonesia; conviene reservar guías y porteadores con unas semanas de antelación si se apunta a esas fechas.
 
 ## Cómo reservar un guía, no un permiso
 
-No está permitido hacer trekking de forma independiente dentro del parque. Toda caminata se organiza a través de una agencia de trekking registrada, que incluye en el paquete un guía autorizado, porteadores, tiendas de campaña, comida y el permiso del parque.
+No se permite el trekking independiente dentro del parque. Toda excursión debe organizarse a través de una operadora de trekking registrada, que incluye en el paquete un guía autorizado, porteadores, carpas, comida y el permiso del parque.
 
-- Conviene comparar dos o tres operadores en los pueblos de Senaru o Sembalun antes de reservar, ya que los precios y la carga que llevan los porteadores varían
-- Un paquete estándar de 2 días y 1 noche cubre solo el borde del cráter de Senaru; los paquetes de 3 días y 2 noches, o de 4 días y 3 noches, incluyen la cumbre y el lago
-- Los porteadores cargan las tiendas, los hornillos y la comida; el excursionista lleva una mochila de día con agua, capas de ropa y una linterna frontal
-- Hay que prepararse para temperaturas cercanas a cero grados en la cumbre, aunque Senaru se encuentre en pleno calor tropical
+- Conviene comparar dos o tres operadoras en la aldea de Senaru o en la de Sembalun antes de reservar, ya que los precios y la carga que llevan los porteadores varían
+- Un paquete estándar de 2D1N cubre únicamente el mirador del cráter de Senaru; los paquetes de 3D2N o 4D3N incluyen la cumbre y el lago
+- Los porteadores cargan con carpas, hornillos y comida; el excursionista lleva una mochila de día con agua, capas de abrigo y una linterna frontal
+- Hay que empacar ropa para temperaturas cercanas al punto de congelación en la cumbre, aunque Senaru se encuentre en pleno calor tropical
 
-El efectivo sigue siendo la norma para dar propina a porteadores y guías al final del trekking; los billetes pequeños de rupia indonesia son los más fáciles de repartir entre todo el equipo.
+El efectivo sigue siendo la norma para dar propina a porteadores y guías al final del trekking; los billetes pequeños de rupias indonesias son los más fáciles de repartir entre el equipo.
 
 ## Cómo llegar y qué llevar
 
-Senaru está a unas 2 o 2,5 horas en coche desde Mataram o desde los puertos de ferry de las islas Gili; Sembalun queda más lejos, a unas 3 horas de Mataram. La mayoría de las agencias de trekking organizan el transporte como parte del paquete o como servicio adicional.
+Senaru queda a unas 2 o 2,5 horas en coche desde Mataram o desde los puertos del ferry a las Islas Gili; Sembalun está algo más lejos, a unas 3 horas de Mataram. La mayoría de las agencias de trekking organizan el transporte, ya sea incluido en el paquete o como servicio adicional.
 
-Conviene llevar botas resistentes, una chaqueta abrigada para el borde del cráter y la cumbre (las temperaturas bajan hasta casi cero grados antes del amanecer), una linterna frontal y una botella de agua reutilizable, ya que los residuos de plástico son un problema real en la montaña. Los bastones de trekking ayudan en el pedregal volcánico cerca de la cima.
+Conviene llevar botas resistentes, una chaqueta de abrigo para el mirador del cráter y la cumbre (las temperaturas caen cerca del punto de congelación antes del amanecer), una linterna frontal y una botella de agua reutilizable, ya que los residuos plásticos son un problema real en la montaña. Los bastones de trekking ayudan en el pedregal volcánico cerca de la cima.
 
-El Rinjani es conocido mucho más allá de Lombok, así que no se trata de un sendero desconocido: hay que esperar encontrarse con otros grupos siguiendo el mismo horario, especialmente en el sendero del borde de Senaru durante los meses de mayor afluencia.
+El Rinjani es conocido mucho más allá de Lombok, así que no se trata de un sendero desconocido: hay que esperar encontrarse con otros grupos siguiendo el mismo horario, sobre todo en la ruta del mirador de Senaru durante los meses de mayor afluencia.

@@ -3702,13 +3702,6 @@
   "worst": "한 시간을 온전히 투자해야 오르는 수고가 진정으로 값어치를 발합니다.",
   "at": "2026-08-15T02:42:01.189Z"
  },
- "ko/venice-venice-international-film-festival-mostra-del-cinema": {
-  "hash": "5f5c1f87bac7",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "상영 종료 후 인파와 겹쳐 리도발 마지막 배편이 줄을 이룰 수 있기 때문이다.",
-  "at": "2026-08-15T02:42:03.463Z"
- },
  "ko/vigan-plaza-padre-jose-burgos": {
   "hash": "d44b3a75342b",
   "score": 1,
@@ -9623,13 +9616,6 @@
   "registerBreak": false,
   "worst": "塔にたどり着く前からその姿は目に入ります——ピアッツァ・デッレ・エルベを囲むどの屋根よりも高くそびえるレンガ造りの塔で",
   "at": "2026-08-15T03:12:18.794Z"
- },
- "ja/verona-arena-di-verona-opera-festival": {
-  "hash": "923707dec216",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "紀元1世紀に建てられた古代ローマの円形闘技場を、フルオーケストラと合唱団の音が満たす体験に匹敵するオペラ体験は、世界を見渡してもそう多くはありません。",
-  "at": "2026-08-15T03:12:20.245Z"
  },
  "ja/vigan-plaza-padre-jose-burgos": {
   "hash": "51a1bb76e0ab",
@@ -15665,26 +15651,12 @@
   "worst": "Caffè Quadri son las opciones más famosas y también más caras, que valen la pena solo por las orquestas",
   "at": "2026-08-15T03:39:32.399Z"
  },
- "es/verona-arena-di-verona-opera-festival": {
-  "hash": "7221e2b3f0e5",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "El pago de las entradas y en la mayoría de los restaurant",
-  "at": "2026-08-15T03:39:34.001Z"
- },
  "es/venice-saint-mark-s-basilica": {
   "hash": "c358dd340818",
   "score": 1,
   "registerBreak": false,
   "worst": "así que conviene planear la visita a media mañana o última hora de la tarde en lugar de...",
   "at": "2026-08-15T03:39:34.055Z"
- },
- "es/venice-venice-international-film-festival-mostra-del-cinema": {
-  "hash": "03dc614fd8b9",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "El pago en el Lido es abrumadoramente con tarjeta o móvil,",
-  "at": "2026-08-15T03:39:34.411Z"
  },
  "es/verona-torre-dei-lamberti": {
   "hash": "a814c6d88ed2",
@@ -18170,13 +18142,6 @@
   "registerBreak": false,
   "worst": "凭借近14,000条评论中4.6分的高评价,这里已牢牢确立为该地区必游景点之一",
   "at": "2026-08-15T03:59:58.833Z"
- },
- "zh/kuala-lumpur-aaron-kwok-iconic-world-tour-2026": {
-  "hash": "2e4ec1d66c7a",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "这足以说明这将是一场配备多套舞台装置、LED视觉设计与编舞的大型体育馆级制作,而非简化版演唱会。",
-  "at": "2026-08-15T04:00:00.551Z"
  },
  "zh/komodo-pink-beach": {
   "hash": "743423efc025",
@@ -20746,13 +20711,6 @@
   "registerBreak": false,
   "worst": "一千年来，商贾世家将最气派的门面直接建在水边，因为对他们而言，唯有从水路抵达才算真正的到访。",
   "at": "2026-08-15T10:55:10.359Z"
- },
- "zh/venice-venice-international-film-festival-mostra-del-cinema": {
-  "hash": "ff61e1481fce",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "如果你的目标是感受氛围而不想被人群挤来挤去,建议选在电影节中段的周二到周四,而非首尾两个周末。",
-  "at": "2026-08-15T04:18:52.403Z"
  },
  "zh/verona-arena-di-verona-opera-festival": {
   "hash": "f79194c5de63",
@@ -24632,13 +24590,6 @@
   "worst": "비치 바의 활기찬 소음에서 거의 나 혼자만 있는 듯한 고요함으로 바뀌는 식입니다.",
   "at": "2026-08-15T10:31:51.325Z"
  },
- "ko/kuala-lumpur-aaron-kwok-iconic-world-tour-2026": {
-  "hash": "d590712b1f7d",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "동남아시아 전역의 팬들에게 이번 쿠알라룸푸르 공연은 홍콩, 타이베이, 싱가포르까지 가지 않고도 관람할 수 있는 몇 안 되는 기회입니다.",
-  "at": "2026-08-15T10:32:07.147Z"
- },
  "ko/mong-kok-beans-cafe": {
   "hash": "58eaa8c00341",
   "score": 1,
@@ -28469,11 +28420,11 @@
   "at": "2026-09-11T07:56:39.185Z"
  },
  "ja/austin-lady-bird-johnson-wildflower-center": {
-  "hash": "f9bd87b40efd",
+  "hash": "dd732c301068",
   "score": 1,
   "registerBreak": false,
-  "worst": "平日は午前9時から午後4時までずっと落ち着いているので、スケジュールが許すなら平日を選ぶほうが楽です。",
-  "at": "2026-09-11T07:56:40.881Z"
+  "worst": "1982年、レディ・バード・ジョンソンとネイティブプランツ(在来植物)を支持する人々が、輸入した芝生や水に頼らなくてもテキサスの景観は美しくなり得ることを証明しようと、この土地を守るために設立しました。",
+  "at": "2026-09-13T08:24:34.737Z"
  },
  "ja/bhubaneswar-lingaraj-temple": {
   "hash": "5f9d8df98f4c",
@@ -28490,11 +28441,11 @@
   "at": "2026-09-11T07:56:46.511Z"
  },
  "ko/austin-lady-bird-johnson-wildflower-center": {
-  "hash": "65a30c4d7530",
+  "hash": "cbed81c91f34",
   "score": 1,
   "registerBreak": false,
-  "worst": "단순히 꽃을 감상하는 곳이 아니라, 설계가 어떻게 작동하는지 눈여겨보길 바라는 곳입니다.",
-  "at": "2026-09-11T07:58:21.000Z"
+  "worst": "레이디 버드 존슨과 자생식물 보호 운동가들은 1982년 이 땅을 따로 보존하며, 텍사스의 풍경이 수입산 잔디나 수입된 물 없이도",
+  "at": "2026-09-13T08:24:58.523Z"
  },
  "ko/bhubaneswar-lingaraj-temple": {
   "hash": "020dfcecdcc8",
@@ -28511,11 +28462,11 @@
   "at": "2026-09-11T07:57:13.060Z"
  },
  "zh/austin-lady-bird-johnson-wildflower-center": {
-  "hash": "dad60f47252b",
+  "hash": "24b34149bb30",
   "score": 1,
   "registerBreak": false,
-  "worst": "礌品店卖的种子包，装的正是园区里实际种植的本土物种——比起大多数植物园卖的纪念品，这个更实用。",
-  "at": "2026-09-11T07:57:14.566Z"
+  "worst": "讲解员带队的导览通常按固定时间在入口附近发团，到了以后最好去问讯处确认一下，不要想当然地以为马上就有一场。",
+  "at": "2026-09-13T08:25:11.344Z"
  },
  "zh/bhubaneswar-lingaraj-temple": {
   "hash": "87c27e4f4ebf",
@@ -28630,11 +28581,11 @@
   "at": "2026-09-12T07:58:50.564Z"
  },
  "zh/avignon-musee-calvet": {
-  "hash": "c094317f701c",
+  "hash": "2a4c784befbd",
   "score": 1,
   "registerBreak": false,
-  "worst": "如果想让某个展厅打开窗板、为画作争取更好的采光，也可以告知工作人员",
-  "at": "2026-09-12T07:58:52.082Z"
+  "worst": "两个半世纪过去，它已经发展成法国地方博物馆中颇具分量的一座，却依然没有获得与其藏品相匹配的关注度。",
+  "at": "2026-09-13T08:25:13.335Z"
  },
  "ko/toledo-sinagoga-de-santa-maria-la-blanca": {
   "hash": "9da2df49674a",
@@ -28677,5 +28628,61 @@
   "registerBreak": false,
   "worst": "对于一处仍在使用中的清真寺建筑群来说，这种安排其实并不常见，值得据此专门规划行程。",
   "at": "2026-09-12T13:04:04.853Z"
+ },
+ "es/abu-dhabi-tamer-hosny-and-tamer-ashour-concert": {
+  "hash": "1c3e3f77967c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El control de seguridad en las puertas de acceso funciona como en un aeropuerto, así que conviene dejar tie",
+  "at": "2026-09-13T08:24:22.750Z"
+ },
+ "es/austin-lady-bird-johnson-wildflower-center": {
+  "hash": "3f977806958c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "...basta con caminar unos 20 minutos para tener el sendero casi para uno solo.",
+  "at": "2026-09-13T08:24:28.573Z"
+ },
+ "es/bali-cocomo-canggu": {
+  "hash": "bc594e6225d7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Según los estándares de muchos visitantes, en esta calle se cena tarde",
+  "at": "2026-09-13T08:24:30.507Z"
+ },
+ "ja/abu-dhabi-tamer-hosny-and-tamer-ashour-concert": {
+  "hash": "f9d77844b906",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "入場ゲートでのセキュリティチェックは空港並みの厳しさなので、開場終了間際の30分以内に到着する場合は...",
+  "at": "2026-09-13T08:24:32.104Z"
+ },
+ "ja/bali-cocomo-canggu": {
+  "hash": "132c8a15af7c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "ヒレ肉のようなシェアプレートがコンセプトの中心を占める店であることを考えると、予約は形式的な手続きというより",
+  "at": "2026-09-13T08:25:59.232Z"
+ },
+ "ko/abu-dhabi-tamer-hosny-and-tamer-ashour-concert": {
+  "hash": "c2e88efc2334",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "첫 소절이 나오기도 전에 모든 가사를 따라 부를 준비가 된 관객들로 가득 찰 만한 조합입니다.",
+  "at": "2026-09-13T08:24:46.954Z"
+ },
+ "ko/bali-cocomo-canggu": {
+  "hash": "627a5d6d2434",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "안심 스테이크 같은 셰어링 플레이트가 이곳 콘셉트의 핵심이라는 점을 고려하면, 예약은 형식적인 절차라기보다 안전한 선택입니다.",
+  "at": "2026-09-13T08:25:07.806Z"
+ },
+ "zh/abu-dhabi-tamer-hosny-and-tamer-ashour-concert": {
+  "hash": "2ae8260cf949",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这样的组合足以让全场观众在第一个音符响起之前，就已经能跟唱每一句歌词。",
+  "at": "2026-09-13T08:25:09.666Z"
  }
 }
