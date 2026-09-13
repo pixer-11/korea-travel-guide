@@ -1,41 +1,49 @@
 ---
-title: "Arulmigu Marundeeswarar Temple: Chennai Travel Guide (4.8★)"
-description: "Arulmigu Marundeeswarar Temple in Thiruvanmiyur, south Chennai, is a Shiva temple famous for its healing associations, open daily 5:30am–12pm and 4–9pm. 4.8★ (14,514 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Chennai"
-category: "attraction"
-pubDate: "2026-09-13T07:59:34.439Z"
+title: 'Arulmigu Marundeeswarar Temple: Chennai Travel Guide (4.8★)'
+description: >-
+  Arulmigu Marundeeswarar Temple in Thiruvanmiyur, south Chennai, is a Shiva
+  temple famous for its healing associations, open daily 5:30am–12pm and 4–9pm.
+  4.8★ (14,517 reviews) — what visitors say, hours, and tips.
+country: India
+region: Chennai
+category: attraction
+pubDate: '2026-09-13T07:59:34.439Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Golden_Chariot_Arulmigu_Marundeeswarar_Temple.jpg/3840px-Golden_Chariot_Arulmigu_Marundeeswarar_Temple.jpg"
-  credit: "Photo: Sankar 1995 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Golden_Chariot_Arulmigu_Marundeeswarar_Temple.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Golden_Chariot_Arulmigu_Marundeeswarar_Temple.jpg/3840px-Golden_Chariot_Arulmigu_Marundeeswarar_Temple.jpg
+  credit: 'Photo: Sankar 1995 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Golden_Chariot_Arulmigu_Marundeeswarar_Temple.jpg
+  via: act
   focus:
     x: 48
-    y: 35
+    'y': 35
 gallery: []
 place:
-  id: "ChIJd90JzmFdUjoRrQtJT5aQRI4"
-  name: "Arulmigu Marundeeswarar Temple"
-  address: "8, W Tank St, Ambedkar Nagar, Lalitha Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041, India"
+  id: ChIJd90JzmFdUjoRrQtJT5aQRI4
+  name: Arulmigu Marundeeswarar Temple
+  address: >-
+    8, W Tank St, Ambedkar Nagar, Lalitha Nagar, Thiruvanmiyur, Chennai, Tamil
+    Nadu 600041, India
   rating: 4.8
-  userRatingsTotal: 14514
-  googleMapsUrl: "https://maps.google.com/?cid=10251477627051772845&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 14517
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10251477627051772845&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 12.984875299999999
   lng: 80.2600357
-  phone: "+91 44 2441 0477"
+  phone: +91 44 2441 0477
   openingHours:
-    - "Monday: 5:30 AM – 12:00 PM, 4:00 – 9:00 PM"
-    - "Tuesday: 5:30 AM – 12:00 PM, 4:00 – 9:00 PM"
-    - "Wednesday: 5:30 AM – 12:00 PM, 4:00 – 9:00 PM"
-    - "Thursday: 5:30 AM – 12:00 PM, 4:00 – 9:00 PM"
-    - "Friday: 5:30 AM – 12:00 PM, 4:00 – 9:00 PM"
-    - "Saturday: 5:30 AM – 12:00 PM, 4:00 – 9:00 PM"
-    - "Sunday: 5:30 AM – 12:00 PM, 4:00 – 9:00 PM"
+    - 'Monday: 5:30 AM – 12:00 PM, 4:00 – 9:00 PM'
+    - 'Tuesday: 5:30 AM – 12:00 PM, 4:00 – 9:00 PM'
+    - 'Wednesday: 5:30 AM – 12:00 PM, 4:00 – 9:00 PM'
+    - 'Thursday: 5:30 AM – 12:00 PM, 4:00 – 9:00 PM'
+    - 'Friday: 5:30 AM – 12:00 PM, 4:00 – 9:00 PM'
+    - 'Saturday: 5:30 AM – 12:00 PM, 4:00 – 9:00 PM'
+    - 'Sunday: 5:30 AM – 12:00 PM, 4:00 – 9:00 PM'
   busyness:
-    updated: 2026-09-13
+    updated: 2026-09-13T00:00:00.000Z
     weekdayBusy:
       - 17
       - 18
@@ -50,24 +58,46 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_344952516135544a745172526f6a5564466d7a4a3039644a496843"
+    venueId: ven_344952516135544a745172526f6a5564466d7a4a3039644a496843
 tags:
-  - "chennai"
-  - "historic site"
-quickAnswer: "Arulmigu Marundeeswarar Temple in Thiruvanmiyur, south Chennai, is a Shiva temple famous for its healing associations, open daily 5:30am–12pm and 4–9pm. Weekends get busy across the whole 8am–9pm stretch, so a weekday morning right at opening is the calmest way to see it. Set aside 45 minutes to an hour, more on a Monday evening when the crowd for Shiva worship swells."
+  - chennai
+  - historic site
+quickAnswer: >-
+  Arulmigu Marundeeswarar Temple in Thiruvanmiyur, south Chennai, is a Shiva
+  temple famous for its healing associations, open daily 5:30am–12pm and 4–9pm.
+  Weekends get busy across the whole 8am–9pm stretch, so a weekday morning right
+  at opening is the calmest way to see it. Set aside 45 minutes to an hour, more
+  on a Monday evening when the crowd for Shiva worship swells.
 faq:
-  - q: "What are the opening hours of Arulmigu Marundeeswarar Temple?"
-    a: "It's open daily 5:30am to 12pm, then again 4pm to 9pm, with the same schedule every day including weekends. There's a midday closure, so don't plan an arrival between 12pm and 4pm."
-  - q: "When is the quietest time to visit?"
-    a: "No exact quiet hours are measured, but weekends stay busy the entire 8am to 9pm stretch, so a weekday visit, ideally right near the 5:30am opening, is the best bet for a calmer visit. Avoid Monday evenings, which draw larger Shiva-worship crowds."
-  - q: "How do I get to the temple?"
-    a: "It's on West Tank Street in Thiruvanmiyur, a short walk from the Thiruvanmiyur suburban rail stop and reachable by city buses along East Coast Road. Autos from Adyar or Besant Nagar take about 15-20 minutes."
-  - q: "How long should I plan for the visit?"
-    a: "A straightforward visit covering the main sanctum and corridor shrines takes about 45 minutes. Budget closer to 90 minutes if you come during a festival day or Pradosham, when rituals run longer and crowds are heavier."
-  - q: "What's nearby?"
-    a: "Thiruvanmiyur beach is about a ten-minute walk east, making it easy to pair a temple visit with time on the sand. The wider Adyar and Besant Nagar areas are also close by for food and shopping."
+  - q: What are the opening hours of Arulmigu Marundeeswarar Temple?
+    a: >-
+      It's open daily 5:30am to 12pm, then again 4pm to 9pm, with the same
+      schedule every day including weekends. There's a midday closure, so don't
+      plan an arrival between 12pm and 4pm.
+  - q: When is the quietest time to visit?
+    a: >-
+      No exact quiet hours are measured, but weekends stay busy the entire 8am
+      to 9pm stretch, so a weekday visit, ideally right near the 5:30am opening,
+      is the best bet for a calmer visit. Avoid Monday evenings, which draw
+      larger Shiva-worship crowds.
+  - q: How do I get to the temple?
+    a: >-
+      It's on West Tank Street in Thiruvanmiyur, a short walk from the
+      Thiruvanmiyur suburban rail stop and reachable by city buses along East
+      Coast Road. Autos from Adyar or Besant Nagar take about 15-20 minutes.
+  - q: How long should I plan for the visit?
+    a: >-
+      A straightforward visit covering the main sanctum and corridor shrines
+      takes about 45 minutes. Budget closer to 90 minutes if you come during a
+      festival day or Pradosham, when rituals run longer and crowds are heavier.
+  - q: What's nearby?
+    a: >-
+      Thiruvanmiyur beach is about a ten-minute walk east, making it easy to
+      pair a temple visit with time on the sand. The wider Adyar and Besant
+      Nagar areas are also close by for food and shopping.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-13'
 ---
 
 You reach Thiruvanmiyur from East Coast Road or from Sardar Patel Road, and the temple's gopuram rises over West Tank Street well before you're close enough to read the carvings on it. This is one of south Chennai's older Shiva temples, built around a shrine associated with medicinal and curative power, which is where the name comes from: Marundeeswarar, roughly "the lord of medicine."

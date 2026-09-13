@@ -1,44 +1,52 @@
 ---
-title: "Mont-Saint-Michel Abbey: Mont Saint-Michel Travel Guide"
-description: "Mont-Saint-Michel Abbey is open daily 9am–6pm, and with well over 15,000 reviews it's one of the most-visited sights in France — so this is not a hidden gem, but a bucket-list stop worth timing carefully."
-country: "France"
-region: "Mont Saint-Michel"
-category: "hidden-gem"
-pubDate: "2026-08-18T08:11:48.832Z"
+title: 'Mont-Saint-Michel Abbey: Mont Saint-Michel Travel Guide'
+description: >-
+  Mont-Saint-Michel Abbey is open daily 9am–6pm, and with well over 15,000
+  reviews it's one of the most-visited sights in France — so this is not a
+  hidden gem, but a bucket-list stop worth timing carefully.
+country: France
+region: Mont Saint-Michel
+category: hidden-gem
+pubDate: '2026-08-18T08:11:48.832Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/FranceNormandieLeMontSaintMichelAbbaye.jpg/1920px-FranceNormandieLeMontSaintMichelAbbaye.jpg"
-  credit: "Photo: Ikmo-ned / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:FranceNormandieLeMontSaintMichelAbbaye.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/FranceNormandieLeMontSaintMichelAbbaye.jpg/1920px-FranceNormandieLeMontSaintMichelAbbaye.jpg
+  credit: 'Photo: Ikmo-ned / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:FranceNormandieLeMontSaintMichelAbbaye.jpg
   focus:
     x: 60
-    y: 30
+    'y': 30
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Clo%C3%AEtre_Abbaye_du_Mont_Saint-Michel_2015-05-28.jpg/3840px-Clo%C3%AEtre_Abbaye_du_Mont_Saint-Michel_2015-05-28.jpg"
-    credit: "Photo: Benh LIEU SONG (Flickr) / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Clo%C3%AEtre_Abbaye_du_Mont_Saint-Michel_2015-05-28.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Clo%C3%AEtre_Abbaye_du_Mont_Saint-Michel_2015-05-28.jpg/3840px-Clo%C3%AEtre_Abbaye_du_Mont_Saint-Michel_2015-05-28.jpg
+    credit: 'Photo: Benh LIEU SONG (Flickr) / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Clo%C3%AEtre_Abbaye_du_Mont_Saint-Michel_2015-05-28.jpg
 place:
-  id: "ChIJHdzEgyGpDkgR4cESJdSzFjU"
-  name: "Mont-Saint-Michel Abbey"
-  address: "L'Abbaye, 50170 Le Mont-Saint-Michel, France"
+  id: ChIJHdzEgyGpDkgR4cESJdSzFjU
+  name: Mont-Saint-Michel Abbey
+  address: 'L''Abbaye, 50170 Le Mont-Saint-Michel, France'
   rating: 4.7
-  userRatingsTotal: 15555
-  googleMapsUrl: "https://maps.google.com/?cid=3825442657234239969&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 15921
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3825442657234239969&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 48.6359569
   lng: -1.5117405
-  phone: "+33 2 33 89 80 00"
+  phone: +33 2 33 89 80 00
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-18
+    updated: 2026-08-18T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 17
@@ -56,24 +64,45 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_556a467a53644a5345633452676b4470477967457a64484a496843"
+    venueId: ven_556a467a53644a5345633452676b4470477967457a64484a496843
 tags:
-  - "mont saint-michel"
-  - "hidden gem"
-quickAnswer: "Mont-Saint-Michel Abbey is open daily 9am–6pm, and with well over 15,000 reviews it's one of the most-visited sights in France — so this is not a hidden gem, but a bucket-list stop worth timing carefully. Arrive right at 9am or after 4pm to dodge the 11am–5pm weekend crush, and budget two to three hours for the climb, cloister, and crypts. Wear real shoes: the cobbled Grande Rue and abbey stairs are steep, uneven, and unforgiving."
+  - mont saint-michel
+  - hidden gem
+quickAnswer: >-
+  Mont-Saint-Michel Abbey is open daily 9am–6pm, and with well over 15,000
+  reviews it's one of the most-visited sights in France — so this is not a
+  hidden gem, but a bucket-list stop worth timing carefully. Arrive right at 9am
+  or after 4pm to dodge the 11am–5pm weekend crush, and budget two to three
+  hours for the climb, cloister, and crypts. Wear real shoes: the cobbled Grande
+  Rue and abbey stairs are steep, uneven, and unforgiving.
 faq:
-  - q: "What are the Mont-Saint-Michel Abbey opening hours?"
-    a: "The abbey is open daily from 9am to 6pm, with no variation across the week — confirm before you go in case of seasonal or holiday changes."
-  - q: "When is the quietest time to visit?"
-    a: "Both weekdays and weekends are calmest right around opening at 9am or in the final hour or two before the 6pm close. On weekends, try to avoid 11am–5pm, when crowds peak."
-  - q: "How long should I spend at the abbey?"
-    a: "Plan on two to three hours to see the church, cloister, and crypts properly, plus extra time if you want to explore the village streets below."
-  - q: "How do I get to Mont Saint-Michel without a car?"
-    a: "Take a train to Rennes or Pontorson, then a connecting bus to the site. From the mainland parking area, a free shuttle or a walk gets you to the base of the Mont."
-  - q: "Is Mont-Saint-Michel Abbey worth the crowds?"
-    a: "Yes — it's genuinely one of France's most significant sights, but go early or late in the day and book tickets ahead where possible to avoid the worst of the queues."
+  - q: What are the Mont-Saint-Michel Abbey opening hours?
+    a: >-
+      The abbey is open daily from 9am to 6pm, with no variation across the week
+      — confirm before you go in case of seasonal or holiday changes.
+  - q: When is the quietest time to visit?
+    a: >-
+      Both weekdays and weekends are calmest right around opening at 9am or in
+      the final hour or two before the 6pm close. On weekends, try to avoid
+      11am–5pm, when crowds peak.
+  - q: How long should I spend at the abbey?
+    a: >-
+      Plan on two to three hours to see the church, cloister, and crypts
+      properly, plus extra time if you want to explore the village streets
+      below.
+  - q: How do I get to Mont Saint-Michel without a car?
+    a: >-
+      Take a train to Rennes or Pontorson, then a connecting bus to the site.
+      From the mainland parking area, a free shuttle or a walk gets you to the
+      base of the Mont.
+  - q: Is Mont-Saint-Michel Abbey worth the crowds?
+    a: >-
+      Yes — it's genuinely one of France's most significant sights, but go early
+      or late in the day and book tickets ahead where possible to avoid the
+      worst of the queues.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-13'
 ---
 
 ## Why go

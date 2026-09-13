@@ -1,27 +1,37 @@
 ---
 title: 'Chhatrapati Shivaji Maharaj Vastu Sangrahalaya: Mumbai Travel Guide'
-description: The Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (formerly the Prince of Wales Museum) sits in a domed Indo-Saracenic building in Fort, a 10-minute walk from Chhatrapati Shivaji Terminus.
+description: >-
+  The Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (formerly the Prince of
+  Wales Museum) sits in a domed Indo-Saracenic building in Fort, a 10-minute
+  walk from Chhatrapati Shivaji Terminus.
 country: India
 region: Mumbai
 category: attraction
 pubDate: '2026-07-26T07:07:12.129Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Mumbai_-_Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya.jpg/1920px-Mumbai_-_Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Mumbai_-_Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya.jpg/1920px-Mumbai_-_Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya.jpg
   credit: 'Photo: P. Hughes / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Mumbai_-_Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Mumbai_-_Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya_%2828790%29.jpg/1920px-Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya_%2828790%29.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya_%2828790%29.jpg/1920px-Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya_%2828790%29.jpg
     credit: 'Photo: DesiBoy101 / Wikimedia Commons (CC BY 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya_(28790).jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya_(28790).jpg
 place:
   id: ChIJJ7H46sPR5zsRU5I-VRAm50Q
   name: Chhatrapati Shivaji Maharaj Vastu Sangrahalaya
-  address: 159-161, Mahatma Gandhi Road, Lion Gate, Fort, Mumbai, Maharashtra 400001, India
+  address: >-
+    159-161, Mahatma Gandhi Road, Lion Gate, Fort, Mumbai, Maharashtra 400001,
+    India
   rating: 4.6
-  userRatingsTotal: 39609
-  googleMapsUrl: https://maps.google.com/?cid=4964978965790757459&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 39872
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4964978965790757459&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 18.9269015
   lng: 72.83269159999999
@@ -37,20 +47,42 @@ place:
 tags:
   - mumbai
   - top attraction
-quickAnswer: The Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (formerly the Prince of Wales Museum) sits in a domed Indo-Saracenic building in Fort, a 10-minute walk from Chhatrapati Shivaji Terminus. Plan on 1.5–2.5 hours to cover the sculpture, decorative arts, and natural history galleries; go on a weekday morning to beat tour-bus crowds, since this is one of Mumbai's most-visited museums, not a quiet find. Confirm current ticket prices and hours before you go, as both change periodically.
+quickAnswer: >-
+  The Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (formerly the Prince of
+  Wales Museum) sits in a domed Indo-Saracenic building in Fort, a 10-minute
+  walk from Chhatrapati Shivaji Terminus. Plan on 1.5–2.5 hours to cover the
+  sculpture, decorative arts, and natural history galleries; go on a weekday
+  morning to beat tour-bus crowds, since this is one of Mumbai's most-visited
+  museums, not a quiet find. Confirm current ticket prices and hours before you
+  go, as both change periodically.
 faq:
   - q: How do I get to the museum by train?
-    a: Take a suburban local or long-distance train to Chhatrapati Shivaji Terminus (CST) on the Central Line, then walk about 10 minutes south along Mahatma Gandhi Road to Lion Gate in Fort.
+    a: >-
+      Take a suburban local or long-distance train to Chhatrapati Shivaji
+      Terminus (CST) on the Central Line, then walk about 10 minutes south along
+      Mahatma Gandhi Road to Lion Gate in Fort.
   - q: How much time should I set aside?
-    a: 'Plan on 1.5 to 2.5 hours: enough to cover the ground-floor sculpture galleries and the upstairs miniature painting rooms without rushing.'
+    a: >-
+      Plan on 1.5 to 2.5 hours: enough to cover the ground-floor sculpture
+      galleries and the upstairs miniature painting rooms without rushing.
   - q: When is the least crowded time to visit?
-    a: Weekday mornings shortly after opening are calmest; afternoons and weekends see heavier footfall from tour groups and families, given this is one of Mumbai's most-visited museums.
+    a: >-
+      Weekday mornings shortly after opening are calmest; afternoons and
+      weekends see heavier footfall from tour groups and families, given this is
+      one of Mumbai's most-visited museums.
   - q: What does it cost to enter?
-    a: Ticket prices are revised periodically, so check the official rate at the counter or the museum's current listings before you go rather than relying on older sources.
+    a: >-
+      Ticket prices are revised periodically, so check the official rate at the
+      counter or the museum's current listings before you go rather than relying
+      on older sources.
   - q: What else is nearby?
-    a: The Gateway of India, Colaba Causeway, and the Kala Ghoda art district are all within easy walking distance, making this museum a good anchor for a half-day South Mumbai heritage walk.
+    a: >-
+      The Gateway of India, Colaba Causeway, and the Kala Ghoda art district are
+      all within easy walking distance, making this museum a good anchor for a
+      half-day South Mumbai heritage walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-13'
 ---
 
 You spot the museum before you reach it, a honey-coloured dome rising above the palm trees and monsoon-stained stone of Fort, looking more like a maharaja's palace than a repository of pottery shards and miniature paintings. That's deliberate. The building was designed in the early 1900s in the Indo-Saracenic style, stitching together Mughal arches, Rajput turrets, and British civic grandeur into one confident, slightly showy structure.

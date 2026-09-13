@@ -1,56 +1,79 @@
 ---
-title: "Museo Carmen Thyssen Málaga: Malaga Travel Guide (4.6★)"
-description: "Museo Carmen Thyssen Málaga sits on Calle Compañía in the Centro Histórico, inside a restored 16th-century palace just off Plaza de la Merced. 4.6★ (10,162 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "Malaga"
-category: "attraction"
-pubDate: "2026-09-13T07:47:46.039Z"
+title: 'Museo Carmen Thyssen Málaga: Malaga Travel Guide (4.6★)'
+description: >-
+  Museo Carmen Thyssen Málaga sits on Calle Compañía in the Centro Histórico,
+  inside a restored 16th-century palace just off Plaza de la Merced. 4.6★
+  (10,164 reviews) — what visitors say, hours, and tips.
+country: Spain
+region: Malaga
+category: attraction
+pubDate: '2026-09-13T07:47:46.039Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Eugenio_Lucas_Villaam_-_Two_paintings_in_Museo_Carmen_Thyssen_M%C3%A1laga.jpg/3840px-Eugenio_Lucas_Villaam_-_Two_paintings_in_Museo_Carmen_Thyssen_M%C3%A1laga.jpg"
-  credit: "Photo: Eugenio Lucas Villaamil / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Eugenio_Lucas_Villaam_-_Two_paintings_in_Museo_Carmen_Thyssen_M%C3%A1laga.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Eugenio_Lucas_Villaam_-_Two_paintings_in_Museo_Carmen_Thyssen_M%C3%A1laga.jpg/3840px-Eugenio_Lucas_Villaam_-_Two_paintings_in_Museo_Carmen_Thyssen_M%C3%A1laga.jpg
+  credit: 'Photo: Eugenio Lucas Villaamil / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Eugenio_Lucas_Villaam_-_Two_paintings_in_Museo_Carmen_Thyssen_M%C3%A1laga.jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJOf4Mkpv3cg0R_y8ez2HSZD8"
-  name: "Museo Carmen Thyssen Málaga"
-  address: "Plaza Carmen Thyssen, Calle Compañía, Distrito Centro, 29008 Málaga, Spain"
+  id: ChIJOf4Mkpv3cg0R_y8ez2HSZD8
+  name: Museo Carmen Thyssen Málaga
+  address: 'Plaza Carmen Thyssen, Calle Compañía, Distrito Centro, 29008 Málaga, Spain'
   rating: 4.6
-  userRatingsTotal: 10162
-  googleMapsUrl: "https://maps.google.com/?cid=4568007239589048319&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 10164
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4568007239589048319&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.7214095
   lng: -4.4229986
-  phone: "+34 952 21 75 11"
+  phone: +34 952 21 75 11
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 8:00 PM"
-    - "Wednesday: 10:00 AM – 8:00 PM"
-    - "Thursday: 10:00 AM – 8:00 PM"
-    - "Friday: 10:00 AM – 8:00 PM"
-    - "Saturday: 10:00 AM – 8:00 PM"
-    - "Sunday: 10:00 AM – 8:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 8:00 PM'
+    - 'Wednesday: 10:00 AM – 8:00 PM'
+    - 'Thursday: 10:00 AM – 8:00 PM'
+    - 'Friday: 10:00 AM – 8:00 PM'
+    - 'Saturday: 10:00 AM – 8:00 PM'
+    - 'Sunday: 10:00 AM – 8:00 PM'
 tags:
-  - "malaga"
-  - "museum"
-quickAnswer: "Museo Carmen Thyssen Málaga sits on Calle Compañía in the Centro Histórico, inside a restored 16th-century palace just off Plaza de la Merced. It's open Tuesday to Sunday, 10am to 8pm (closed Mondays), and given its popularity, aim for the first hour after opening or the last two hours before closing to avoid the biggest tour groups. Budget 90 minutes to two hours for the permanent collection of 19th-century Spanish and Andalusian painting."
+  - malaga
+  - museum
+quickAnswer: >-
+  Museo Carmen Thyssen Málaga sits on Calle Compañía in the Centro Histórico,
+  inside a restored 16th-century palace just off Plaza de la Merced. It's open
+  Tuesday to Sunday, 10am to 8pm (closed Mondays), and given its popularity, aim
+  for the first hour after opening or the last two hours before closing to avoid
+  the biggest tour groups. Budget 90 minutes to two hours for the permanent
+  collection of 19th-century Spanish and Andalusian painting.
 faq:
-  - q: "What are the opening hours for Museo Carmen Thyssen Málaga?"
-    a: "Tuesday to Sunday, 10am to 8pm. It's closed all day Monday, so plan around that if your Málaga time is limited."
-  - q: "How long should I spend at the museum?"
-    a: "Around 90 minutes for the permanent collection alone, closer to two hours if a temporary exhibition is also running."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Right at the 10am opening on a weekday, or the last couple of hours before the 8pm close, tend to be calmer than midday and weekends."
-  - q: "Where is the museum and what's nearby?"
-    a: "It's on Calle Compañía in the Centro Histórico, a short walk from Málaga Cathedral, the Picasso Museum, and Plaza de la Merced."
-  - q: "Should I book tickets in advance?"
-    a: "Booking online ahead is a good idea given how consistently busy the museum runs, especially on weekends and cruise-ship days."
+  - q: What are the opening hours for Museo Carmen Thyssen Málaga?
+    a: >-
+      Tuesday to Sunday, 10am to 8pm. It's closed all day Monday, so plan around
+      that if your Málaga time is limited.
+  - q: How long should I spend at the museum?
+    a: >-
+      Around 90 minutes for the permanent collection alone, closer to two hours
+      if a temporary exhibition is also running.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Right at the 10am opening on a weekday, or the last couple of hours before
+      the 8pm close, tend to be calmer than midday and weekends.
+  - q: Where is the museum and what's nearby?
+    a: >-
+      It's on Calle Compañía in the Centro Histórico, a short walk from Málaga
+      Cathedral, the Picasso Museum, and Plaza de la Merced.
+  - q: Should I book tickets in advance?
+    a: >-
+      Booking online ahead is a good idea given how consistently busy the museum
+      runs, especially on weekends and cruise-ship days.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-13'
 ---
 
 The building itself is worth pausing for before you buy a ticket. The Palacio de Villalón dates to the 1500s, and the museum's renovation kept the original stone courtyard, the wooden ceilings, and the layered brickwork you'd expect from a Renaissance-era Málaga townhouse. Walking in from Calle Compañía, you cross from a narrow pedestrian street into an open patio that immediately resets the pace.

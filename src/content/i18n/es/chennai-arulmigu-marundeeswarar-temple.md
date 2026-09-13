@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: chennai-arulmigu-marundeeswarar-temple
-srcHash: '478b9740f743'
+srcHash: '2fb765767e5b'
 title: 'Templo Arulmigu Marundeeswarar: Guía de viaje de Chennai (4.8★)'
-description: 'El templo Arulmigu Marundeeswarar, en Thiruvanmiyur, al sur de Chennai, es un templo de Shiva célebre por sus propiedades curativas, abierto todos los días de 5:30 a 12:00 y de 16:00 a 21:00. 4.8★ (14.514 reseñas): qué opinan los visitantes, horarios y consejos.'
+description: 'El templo Arulmigu Marundeeswarar, en Thiruvanmiyur, al sur de Chennai, es un templo de Shiva célebre por sus propiedades curativas, abierto todos los días de 5:30 a 12:00 y de 16:00 a 21:00. 4.8★ (14.517 reseñas): qué opinan los visitantes, horarios y consejos.'
 quickAnswer: El templo Arulmigu Marundeeswarar, en Thiruvanmiyur, al sur de Chennai, es un templo de Shiva célebre por sus propiedades curativas, abierto todos los días de 5:30 a 12:00 y de 16:00 a 21:00. Los fines de semana hay mucha afluencia durante todo el tramo de 8:00 a 21:00, así que una mañana entre semana justo a la apertura es el momento más tranquilo para visitarlo. Conviene reservar entre 45 minutos y una hora, más si se va un lunes por la tarde, cuando crece la afluencia de fieles de Shiva.
 faq:
   - q: ¿Cuál es el horario del templo Arulmigu Marundeeswarar?

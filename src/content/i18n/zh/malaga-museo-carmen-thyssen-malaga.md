@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: malaga-museo-carmen-thyssen-malaga
-srcHash: '530afdaebba0'
+srcHash: '9a9664293963'
 title: 马拉加卡门·蒂森博物馆：马拉加旅行指南（4.6★）
-description: 马拉加卡门·蒂森博物馆（Museo Carmen Thyssen Málaga）坐落在历史中心区（Centro Histórico）的孔帕尼亚街（Calle Compañía）上，紧邻美塞德广场（Plaza de la Merced），馆舍是一座修复后的16世纪宫殿。4.6★（10,162条评价）——看看游客怎么说，附开放时间与实用建议。
+description: 马拉加卡门·蒂森博物馆（Museo Carmen Thyssen Málaga）坐落在历史中心区（Centro Histórico）的孔帕尼亚街（Calle Compañía）上，紧邻美塞德广场（Plaza de la Merced），馆舍是一座修复后的16世纪宫殿。4.6★（10,164条评价）——看看游客怎么说，附开放时间与实用建议。
 quickAnswer: 马拉加卡门·蒂森博物馆坐落在历史中心区的孔帕尼亚街上，紧邻美塞德广场，馆舍是一座修复后的16世纪宫殿。开放时间为周二至周日上午10点到晚上8点（周一闭馆），由于人气很高，建议选在开馆后第一小时或闭馆前两小时前往，可以避开人数最多的旅行团。参观19世纪西班牙及安达卢西亚绘画常设展，建议预留90分钟到两小时。
 faq:
   - q: 马拉加卡门·蒂森博物馆的开放时间是几点？

@@ -1,43 +1,50 @@
 ---
-title: "Subhash Bose Park: Kochi Travel Guide (4.5★)"
-description: "Subhash Bose Park sits on Marine Drive in Kochi, right along the Kochi backwaters, and it's the easiest lakefront stop for a walk between boat-jetty errands. 4.5★ (29,643 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Kochi"
-category: "attraction"
-pubDate: "2026-09-13T07:46:35.818Z"
+title: 'Subhash Bose Park: Kochi Travel Guide (4.5★)'
+description: >-
+  Subhash Bose Park sits on Marine Drive in Kochi, right along the Kochi
+  backwaters, and it's the easiest lakefront stop for a walk between boat-jetty
+  errands. 4.5★ (29,648 reviews) — what visitors say, hours, and tips.
+country: India
+region: Kochi
+category: attraction
+pubDate: '2026-09-13T07:46:35.818Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/9/99/Subhash_Bose_Park_Kochi.jpg"
-  credit: "Photo: Shady59 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Subhash_Bose_Park_Kochi.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/99/Subhash_Bose_Park_Kochi.jpg
+  credit: 'Photo: Shady59 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Subhash_Bose_Park_Kochi.jpg'
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/f/fc/Subhash_Bose_Park_Kochi_Northern_side_panorama.jpg"
-    credit: "Photo: Shady59 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Subhash_Bose_Park_Kochi_Northern_side_panorama.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/f/fc/Subhash_Bose_Park_Kochi_Northern_side_panorama.jpg
+    credit: 'Photo: Shady59 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Subhash_Bose_Park_Kochi_Northern_side_panorama.jpg
 place:
-  id: "ChIJX_BU_qxyCDsRWsofCsyeJ6c"
-  name: "Subhash Bose Park"
-  address: "Park Ave, Marine Drive, Kochi, Kerala 682011, India"
+  id: ChIJX_BU_qxyCDsRWsofCsyeJ6c
+  name: Subhash Bose Park
+  address: 'Park Ave, Marine Drive, Kochi, Kerala 682011, India'
   rating: 4.5
-  userRatingsTotal: 29643
-  googleMapsUrl: "https://maps.google.com/?cid=12044770327606053466&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 29648
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12044770327606053466&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 9.971507599999999
   lng: 76.27941179999999
   openingHours:
-    - "Monday: 6:00 – 9:00 AM, 2:00 – 8:30 PM"
-    - "Tuesday: 6:00 – 9:00 AM, 2:00 – 8:30 PM"
-    - "Wednesday: 6:00 – 9:00 AM, 2:00 – 8:30 PM"
-    - "Thursday: 6:00 – 9:00 AM, 2:00 – 8:30 PM"
-    - "Friday: 6:00 – 9:00 AM, 2:00 – 8:30 PM"
-    - "Saturday: 6:00 – 9:00 AM, 2:00 – 8:30 PM"
-    - "Sunday: 6:00 – 9:00 AM, 11:00 AM – 8:30 PM"
+    - 'Monday: 6:00 – 9:00 AM, 2:00 – 8:30 PM'
+    - 'Tuesday: 6:00 – 9:00 AM, 2:00 – 8:30 PM'
+    - 'Wednesday: 6:00 – 9:00 AM, 2:00 – 8:30 PM'
+    - 'Thursday: 6:00 – 9:00 AM, 2:00 – 8:30 PM'
+    - 'Friday: 6:00 – 9:00 AM, 2:00 – 8:30 PM'
+    - 'Saturday: 6:00 – 9:00 AM, 2:00 – 8:30 PM'
+    - 'Sunday: 6:00 – 9:00 AM, 11:00 AM – 8:30 PM'
   busyness:
-    updated: 2026-09-13
+    updated: 2026-09-13T00:00:00.000Z
     weekdayBusy:
       - 15
       - 16
@@ -55,24 +62,44 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_63364a65797343666f7357527344437978715f55425f584a496843"
+    venueId: ven_63364a65797343666f7357527344437978715f55425f584a496843
 tags:
-  - "kochi"
-  - "park"
-quickAnswer: "Subhash Bose Park sits on Marine Drive in Kochi, right along the Kochi backwaters, and it's the easiest lakefront stop for a walk between boat-jetty errands. Go early (6-9am) for a walk with joggers and boat traffic on the water, or on a weekend between 11am and 2pm if you want the lawns to yourself, since afternoons after 2pm get crowded fast. It's free to enter, gated, and open daily except a slightly later Sunday start."
+  - kochi
+  - park
+quickAnswer: >-
+  Subhash Bose Park sits on Marine Drive in Kochi, right along the Kochi
+  backwaters, and it's the easiest lakefront stop for a walk between boat-jetty
+  errands. Go early (6-9am) for a walk with joggers and boat traffic on the
+  water, or on a weekend between 11am and 2pm if you want the lawns to yourself,
+  since afternoons after 2pm get crowded fast. It's free to enter, gated, and
+  open daily except a slightly later Sunday start.
 faq:
-  - q: "Is there an entry fee for Subhash Bose Park?"
-    a: "No, entry is free, though the park is gated and only accessible during its posted opening hours."
-  - q: "What are the opening hours?"
-    a: "Monday to Saturday it's open 6:00-9:00am and again 2:00-8:30pm. Sunday it opens 6:00-9:00am, closes, then reopens 11:00am-8:30pm, later than other days."
-  - q: "When is the quietest time to visit?"
-    a: "Sunday between 11am and 2pm is the calmest window. Avoid weekend afternoons after 2pm, when it gets busiest and stays crowded until around 8pm."
-  - q: "How long should I plan to spend here?"
-    a: "Most visitors spend 20-40 minutes, treating it as one stop on a longer Marine Drive walk rather than a full outing on its own."
-  - q: "What's nearby if I want to extend the visit?"
-    a: "The Marine Drive walkway and boat jetty for backwater ferries and cruises are both within easy walking distance, along with views toward Willingdon Island."
+  - q: Is there an entry fee for Subhash Bose Park?
+    a: >-
+      No, entry is free, though the park is gated and only accessible during its
+      posted opening hours.
+  - q: What are the opening hours?
+    a: >-
+      Monday to Saturday it's open 6:00-9:00am and again 2:00-8:30pm. Sunday it
+      opens 6:00-9:00am, closes, then reopens 11:00am-8:30pm, later than other
+      days.
+  - q: When is the quietest time to visit?
+    a: >-
+      Sunday between 11am and 2pm is the calmest window. Avoid weekend
+      afternoons after 2pm, when it gets busiest and stays crowded until around
+      8pm.
+  - q: How long should I plan to spend here?
+    a: >-
+      Most visitors spend 20-40 minutes, treating it as one stop on a longer
+      Marine Drive walk rather than a full outing on its own.
+  - q: What's nearby if I want to extend the visit?
+    a: >-
+      The Marine Drive walkway and boat jetty for backwater ferries and cruises
+      are both within easy walking distance, along with views toward Willingdon
+      Island.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-13'
 ---
 
 Marine Drive in Kochi is basically a long promenade with the backwaters on one side and a wall of apartment towers and hotels on the other, and Subhash Bose Park is the green pocket where that promenade widens out into actual lawn. It's not a big park by park standards, but it's positioned exactly where you want it: a flat, walkable stretch of grass and paved paths with the water right there, boats moving across it, and benches angled so you're facing the view rather than the traffic behind you.

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: makassar-balla-lompoa-museum
-srcHash: 'fd71de17435e'
+srcHash: '93e959adf955'
 title: 'Museo Balla Lompoa: guía de viaje de Makassar (4.5★)'
-description: 'El Museo Balla Lompoa se encuentra en Sungguminasa, a unos 30-40 minutos al sur del centro de Makassar, en el regencia de Gowa, y abre todos los días de 8:00 a 16:00. 4.5★ (2,297 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Museo Balla Lompoa se encuentra en Sungguminasa, a unos 30-40 minutos al sur del centro de Makassar, en el regencia de Gowa, y abre todos los días de 8:00 a 16:00. 4.5★ (2,296 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Museo Balla Lompoa se encuentra en Sungguminasa, a unos 30-40 minutos al sur del centro de Makassar, en el regencia de Gowa, y abre todos los días de 8:00 a 16:00. Conviene reservar una hora para ver las regalías reales de Gowa y el propio palacio de estilo bugis-makassar, construido sobre pilotes. Si prefiere tener las salas para usted solo, vaya un día laborable por la mañana. Puede combinarlo con el cercano cementerio real de Gowa para completar una salida de medio día fuera de la ciudad.
 faq:
   - q: ¿Cómo se llega al Museo Balla Lompoa desde el centro de Makassar?

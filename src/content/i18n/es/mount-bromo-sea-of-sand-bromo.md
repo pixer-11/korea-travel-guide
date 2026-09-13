@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: mount-bromo-sea-of-sand-bromo
-srcHash: '31ebb79622b5'
+srcHash: 'a4942bbc1c8a'
 title: 'Mar de Arena de Bromo: Guía de viaje al Monte Bromo (4.8★)'
-description: El Mar de Arena (Lautan Pasir) es la llanura volcánica plana y gris que se cruza a pie o en jeep entre el estacionamiento del mirador de Bromo y el cráter mismo. 4.8★ (11,149 reseñas) — lo que dicen los visitantes, horarios y consejos.
+description: El Mar de Arena (Lautan Pasir) es la llanura volcánica plana y gris que se cruza a pie o en jeep entre el estacionamiento del mirador de Bromo y el cráter mismo. 4.8★ (11,195 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: 'El Mar de Arena (Lautan Pasir) es la llanura volcánica plana y gris que se cruza a pie o en jeep entre el estacionamiento del mirador de Bromo y el cráter mismo. Está abierto las 24 horas, pero conviene planear en torno al amanecer: los jeeps pasan en convoy desde aproximadamente las 4am, y la llanura está más concurrida entre las 7am y las 12pm los fines de semana. Ve temprano, usa calzado cerrado y prepárate para un polvo fino que se cuela en todo.'
 faq:
   - q: ¿Cómo llego al Mar de Arena?

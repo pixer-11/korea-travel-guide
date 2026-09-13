@@ -1,52 +1,78 @@
 ---
-title: "Mont Saint-Michel: Travel Guide (4.7★)"
-description: "Mont Saint-Michel's abbey is open daily 9:30am–6:30pm (last entry around an hour before close), and the island itself is free to walk at any time. 4.7★ (122,749 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Mont Saint-Michel"
-category: "attraction"
-pubDate: "2026-08-13T08:58:02.759Z"
+title: 'Mont Saint-Michel: Travel Guide (4.7★)'
+description: >-
+  Mont Saint-Michel's abbey is open daily 9:30am–6:30pm (last entry around an
+  hour before close), and the island itself is free to walk at any time. 4.7★
+  (123,870 reviews) — what visitors say, hours, and tips.
+country: France
+region: Mont Saint-Michel
+category: attraction
+pubDate: '2026-08-13T08:58:02.759Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mont-Saint-Michel_vu_du_ciel.jpg/1920px-Mont-Saint-Michel_vu_du_ciel.jpg"
-  credit: "Photo: Amaustan / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Mont-Saint-Michel_vu_du_ciel.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mont-Saint-Michel_vu_du_ciel.jpg/1920px-Mont-Saint-Michel_vu_du_ciel.jpg
+  credit: 'Photo: Amaustan / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Mont-Saint-Michel_vu_du_ciel.jpg'
 gallery: []
 place:
-  id: "ChIJwccMN0RYBkgRlp_YeSIlOzs"
-  name: "Mont Saint-Michel"
-  address: "L'Abbaye, 50170 Le Mont-Saint-Michel, France"
+  id: ChIJwccMN0RYBkgRlp_YeSIlOzs
+  name: Mont Saint-Michel
+  address: 'L''Abbaye, 50170 Le Mont-Saint-Michel, France'
   rating: 4.7
-  userRatingsTotal: 122749
-  googleMapsUrl: "https://maps.google.com/?cid=4268045901867032470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 123870
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4268045901867032470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 48.635951899999995
   lng: -1.5117429
-  phone: "+33 2 33 60 37 59"
+  phone: +33 2 33 60 37 59
   openingHours:
-    - "Monday: 9:30 AM – 6:30 PM"
-    - "Tuesday: 9:30 AM – 6:30 PM"
-    - "Wednesday: 9:30 AM – 6:30 PM"
-    - "Thursday: 9:30 AM – 6:30 PM"
-    - "Friday: 9:30 AM – 6:30 PM"
-    - "Saturday: 9:30 AM – 6:30 PM"
-    - "Sunday: 9:30 AM – 6:30 PM"
+    - 'Monday: 9:30 AM – 6:30 PM'
+    - 'Tuesday: 9:30 AM – 6:30 PM'
+    - 'Wednesday: 9:30 AM – 6:30 PM'
+    - 'Thursday: 9:30 AM – 6:30 PM'
+    - 'Friday: 9:30 AM – 6:30 PM'
+    - 'Saturday: 9:30 AM – 6:30 PM'
+    - 'Sunday: 9:30 AM – 6:30 PM'
 tags:
-  - "mont saint-michel"
-  - "top attraction"
-quickAnswer: "Mont Saint-Michel's abbey is open daily 9:30am–6:30pm (last entry around an hour before close), and the island itself is free to walk at any time. Come at opening or after 4pm to thin the crowds on the Grande Rue, and check tide tables before you go — this is a very-popular site, so expect company year-round. Give it a half-day minimum: an hour up to the abbey, more if you linger on the ramparts or catch the tide surging in across the bay."
+  - mont saint-michel
+  - top attraction
+quickAnswer: >-
+  Mont Saint-Michel's abbey is open daily 9:30am–6:30pm (last entry around an
+  hour before close), and the island itself is free to walk at any time. Come at
+  opening or after 4pm to thin the crowds on the Grande Rue, and check tide
+  tables before you go — this is a very-popular site, so expect company
+  year-round. Give it a half-day minimum: an hour up to the abbey, more if you
+  linger on the ramparts or catch the tide surging in across the bay.
 faq:
-  - q: "How do I get to Mont Saint-Michel?"
-    a: "Drive or bus to the mainland parking area, then take the free shuttle (about 12 minutes) or walk the causeway (30–40 minutes). Nearest access cities are Rennes and Caen."
-  - q: "What are the opening hours?"
-    a: "The abbey is open daily 9:30am–6:30pm, with last entry roughly an hour before closing. Always confirm current hours before visiting, especially around holidays."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Right at 9:30am opening or after 4pm are the calmest windows. Midday, particularly in summer, draws the heaviest crowds on the Grande Rue."
-  - q: "How long should I plan to spend there?"
-    a: "A half-day covers the essentials — about an hour for the abbey, plus time to walk the ramparts and Grande Rue. Add more if you want a guided tidal walk across the bay."
-  - q: "Is it dangerous to walk on the bay's sand?"
-    a: "Yes, without a guide. Tides can rush in faster than walking pace and there are quicksand patches; always join a licensed guided walk if you want to explore the sand."
+  - q: How do I get to Mont Saint-Michel?
+    a: >-
+      Drive or bus to the mainland parking area, then take the free shuttle
+      (about 12 minutes) or walk the causeway (30–40 minutes). Nearest access
+      cities are Rennes and Caen.
+  - q: What are the opening hours?
+    a: >-
+      The abbey is open daily 9:30am–6:30pm, with last entry roughly an hour
+      before closing. Always confirm current hours before visiting, especially
+      around holidays.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Right at 9:30am opening or after 4pm are the calmest windows. Midday,
+      particularly in summer, draws the heaviest crowds on the Grande Rue.
+  - q: How long should I plan to spend there?
+    a: >-
+      A half-day covers the essentials — about an hour for the abbey, plus time
+      to walk the ramparts and Grande Rue. Add more if you want a guided tidal
+      walk across the bay.
+  - q: Is it dangerous to walk on the bay's sand?
+    a: >-
+      Yes, without a guide. Tides can rush in faster than walking pace and there
+      are quicksand patches; always join a licensed guided walk if you want to
+      explore the sand.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-13'
 ---
 
 ## Why go

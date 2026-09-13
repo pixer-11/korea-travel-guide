@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: avignon-the-bridge-of-avignon
-srcHash: 'eb5ec1996e3b'
+srcHash: '59117443bccc'
 title: 'El Puente de Aviñón: Guía de viaje (4.2★)'
-description: 'El Puente de Aviñón (Pont Saint-Bénézet) se alza sobre el Ródano justo debajo del Palacio de los Papas, y hoy solo sobreviven cuatro de sus arcos originales. 4.2★ (21.250 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Puente de Aviñón (Pont Saint-Bénézet) se alza sobre el Ródano justo debajo del Palacio de los Papas, y hoy solo sobreviven cuatro de sus arcos originales. 4.2★ (21.254 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Puente de Aviñón (Pont Saint-Bénézet) se alza sobre el Ródano justo debajo del Palacio de los Papas, y hoy solo sobreviven cuatro de sus arcos originales. Abre todos los días de 9:00 a 19:00, y el momento más tranquilo para visitarlo es un día de semana entre las 9:00 y las 11:00, antes de que lleguen los grupos turísticos. Calcule entre 30 y 45 minutos, y si piensa visitar también el Palacio de los Papas, conviene comprar la entrada combinada.
 faq:
   - q: ¿Cuánto tiempo se tarda en visitar el Puente de Aviñón?

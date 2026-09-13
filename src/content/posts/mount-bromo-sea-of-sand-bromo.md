@@ -1,40 +1,48 @@
 ---
-title: "Sea of Sand Bromo: Mount Bromo Travel Guide (4.8★)"
-description: "The Sea of Sand (Lautan Pasir) is the flat, grey volcanic plain you cross on foot or by jeep between the Bromo viewpoint parking area and the crater itself. 4.8★ (11,149 reviews) — what visitors say, hours, and tips."
-country: "Indonesia"
-region: "Mount Bromo"
-category: "attraction"
-pubDate: "2026-08-12T09:45:58.489Z"
+title: 'Sea of Sand Bromo: Mount Bromo Travel Guide (4.8★)'
+description: >-
+  The Sea of Sand (Lautan Pasir) is the flat, grey volcanic plain you cross on
+  foot or by jeep between the Bromo viewpoint parking area and the crater
+  itself. 4.8★ (11,195 reviews) — what visitors say, hours, and tips.
+country: Indonesia
+region: Mount Bromo
+category: attraction
+pubDate: '2026-08-12T09:45:58.489Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Tengger_Sand_Sea_1.jpg/3840px-Tengger_Sand_Sea_1.jpg"
-  credit: "Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Tengger_Sand_Sea_1.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Tengger_Sand_Sea_1.jpg/3840px-Tengger_Sand_Sea_1.jpg
+  credit: 'Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Tengger_Sand_Sea_1.jpg'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mount_Batok_from_Bromo_3.jpg/3840px-Mount_Batok_from_Bromo_3.jpg"
-    credit: "Photo: Hugo van den Bos / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Mount_Batok_from_Bromo_3.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mount_Batok_from_Bromo_3.jpg/3840px-Mount_Batok_from_Bromo_3.jpg
+    credit: 'Photo: Hugo van den Bos / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Mount_Batok_from_Bromo_3.jpg'
 place:
-  id: "ChIJCa7Wc1g21i0R2hZIQ0qxwkI"
-  name: "Sea of Sand Bromo"
-  address: "Cemorolawang, Ngadisari, Kec. Sukapura, Kabupaten Probolinggo, Jawa Timur 67254, Indonesia"
+  id: ChIJCa7Wc1g21i0R2hZIQ0qxwkI
+  name: Sea of Sand Bromo
+  address: >-
+    Cemorolawang, Ngadisari, Kec. Sukapura, Kabupaten Probolinggo, Jawa Timur
+    67254, Indonesia
   rating: 4.8
-  userRatingsTotal: 11149
-  googleMapsUrl: "https://maps.google.com/?cid=4810602284499605210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 11195
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4810602284499605210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -7.9291214
   lng: 112.95433440000001
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-12
+    updated: 2026-08-12T00:00:00.000Z
     weekdayBusy:
       - 7
       - 8
@@ -45,24 +53,43 @@ place:
       - 9
       - 10
       - 11
-    venueId: "ven_496b7778713051495a68325230693132673163573761434a496843"
+    venueId: ven_496b7778713051495a68325230693132673163573761434a496843
 tags:
-  - "mount bromo"
-  - "top attraction"
-quickAnswer: "The Sea of Sand (Lautan Pasir) is the flat, grey volcanic plain you cross on foot or by jeep between the Bromo viewpoint parking area and the crater itself. It's open 24 hours, but plan around sunrise — the jeeps roll through in convoy from roughly 4am, and the plain gets busiest between 7am and 12pm on weekends. Go early, wear closed shoes, and expect a fine dust that gets into everything."
+  - mount bromo
+  - top attraction
+quickAnswer: >-
+  The Sea of Sand (Lautan Pasir) is the flat, grey volcanic plain you cross on
+  foot or by jeep between the Bromo viewpoint parking area and the crater
+  itself. It's open 24 hours, but plan around sunrise — the jeeps roll through
+  in convoy from roughly 4am, and the plain gets busiest between 7am and 12pm on
+  weekends. Go early, wear closed shoes, and expect a fine dust that gets into
+  everything.
 faq:
-  - q: "How do I get to the Sea of Sand?"
-    a: "Base yourself in Cemorolawang or Ngadisari and book a jeep tour through your homestay — they collect you before dawn and drive down onto the plain after the sunrise viewpoint stop."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays are calmer overall, and on any day try to be on the sand before 7am — weekends get busiest from 7am to 12pm as sunrise crowds descend."
-  - q: "How long does a visit take?"
-    a: "The full sunrise-viewpoint-to-crater loop typically runs 4 to 6 hours from hotel pickup to drop-off."
-  - q: "Do I need a jeep, or can I walk?"
-    a: "Jeeps are how almost everyone crosses the plain and reach the crater base; walking in is possible but long and very dusty without one."
-  - q: "What should I wear?"
-    a: "Layers — it's cold at the pre-dawn viewpoint and hot and shadeless by mid-morning on the open sand. Closed shoes are essential for the volcanic ash."
+  - q: How do I get to the Sea of Sand?
+    a: >-
+      Base yourself in Cemorolawang or Ngadisari and book a jeep tour through
+      your homestay — they collect you before dawn and drive down onto the plain
+      after the sunrise viewpoint stop.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays are calmer overall, and on any day try to be on the sand before
+      7am — weekends get busiest from 7am to 12pm as sunrise crowds descend.
+  - q: How long does a visit take?
+    a: >-
+      The full sunrise-viewpoint-to-crater loop typically runs 4 to 6 hours from
+      hotel pickup to drop-off.
+  - q: 'Do I need a jeep, or can I walk?'
+    a: >-
+      Jeeps are how almost everyone crosses the plain and reach the crater base;
+      walking in is possible but long and very dusty without one.
+  - q: What should I wear?
+    a: >-
+      Layers — it's cold at the pre-dawn viewpoint and hot and shadeless by
+      mid-morning on the open sand. Closed shoes are essential for the volcanic
+      ash.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-13'
 ---
 
 ## What the Sea of Sand actually is

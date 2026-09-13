@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: malaga-museo-carmen-thyssen-malaga
-srcHash: '530afdaebba0'
+srcHash: '9a9664293963'
 title: 'Museo Carmen Thyssen Málaga: Guía de viaje de Málaga (4,6★)'
-description: 'El Museo Carmen Thyssen Málaga se encuentra en la Calle Compañía, en el Centro Histórico, dentro de un palacio del siglo XVI restaurado, junto a la Plaza de la Merced. 4,6★ (10.162 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Museo Carmen Thyssen Málaga se encuentra en la Calle Compañía, en el Centro Histórico, dentro de un palacio del siglo XVI restaurado, junto a la Plaza de la Merced. 4,6★ (10.164 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Carmen Thyssen Málaga se encuentra en la Calle Compañía, en el Centro Histórico, dentro de un palacio del siglo XVI restaurado, junto a la Plaza de la Merced. Abre de martes a domingo, de 10:00 a 20:00 (cierra los lunes), y dada su popularidad, conviene ir en la primera hora tras la apertura o en las dos últimas horas antes del cierre para evitar los grupos turísticos más numerosos. Calcule entre 90 minutos y dos horas para recorrer la colección permanente de pintura española y andaluza del siglo XIX.
 faq:
   - q: ¿Cuál es el horario del Museo Carmen Thyssen Málaga?

@@ -1,60 +1,88 @@
 ---
-title: "Balla Lompoa Museum: Makassar Travel Guide (4.5★)"
-description: "Balla Lompoa Museum sits in Sungguminasa, about 30–40 minutes south of central Makassar in Gowa regency, and it's open daily from 8am to 4pm. 4.5★ (2,297 reviews) — what visitors say, hours, and tips."
-country: "Indonesia"
-region: "Makassar"
-category: "attraction"
-pubDate: "2026-09-13T07:53:23.528Z"
+title: 'Balla Lompoa Museum: Makassar Travel Guide (4.5★)'
+description: >-
+  Balla Lompoa Museum sits in Sungguminasa, about 30–40 minutes south of central
+  Makassar in Gowa regency, and it's open daily from 8am to 4pm. 4.5★ (2,296
+  reviews) — what visitors say, hours, and tips.
+country: Indonesia
+region: Makassar
+category: attraction
+pubDate: '2026-09-13T07:53:23.528Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Museum_Balla_Lompoa%2C_Gowa.jpg/3840px-Museum_Balla_Lompoa%2C_Gowa.jpg"
-  credit: "Photo: Aniskurniati / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Museum_Balla_Lompoa,_Gowa.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Museum_Balla_Lompoa%2C_Gowa.jpg/3840px-Museum_Balla_Lompoa%2C_Gowa.jpg
+  credit: 'Photo: Aniskurniati / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Museum_Balla_Lompoa,_Gowa.jpg'
+  via: act
   focus:
     x: 45
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Museum_Balla_Lompoa_Gowa.jpg/3840px-Museum_Balla_Lompoa_Gowa.jpg"
-    credit: "Photo: Wanita Hijrah / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Museum_Balla_Lompoa_Gowa.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Museum_Balla_Lompoa_Gowa.jpg/3840px-Museum_Balla_Lompoa_Gowa.jpg
+    credit: 'Photo: Wanita Hijrah / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Museum_Balla_Lompoa_Gowa.jpg'
 place:
-  id: "ChIJUyYblCXivi0R3hCr1lbjR1s"
-  name: "Balla Lompoa Museum"
-  address: "Jl. K. H. Wahid Hasyim No.39, Sungguminasa, Kec. Somba Opu, Kabupaten Gowa, Sulawesi Selatan 92111, Indonesia"
+  id: ChIJUyYblCXivi0R3hCr1lbjR1s
+  name: Balla Lompoa Museum
+  address: >-
+    Jl. K. H. Wahid Hasyim No.39, Sungguminasa, Kec. Somba Opu, Kabupaten Gowa,
+    Sulawesi Selatan 92111, Indonesia
   rating: 4.5
-  userRatingsTotal: 2297
-  googleMapsUrl: "https://maps.google.com/?cid=6577475742906126558&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2296
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6577475742906126558&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -5.207177
   lng: 119.45246799999998
-  phone: "+62 852-4090-9740"
+  phone: +62 852-4090-9740
   openingHours:
-    - "Monday: 8:00 AM – 4:00 PM"
-    - "Tuesday: 8:00 AM – 4:00 PM"
-    - "Wednesday: 8:00 AM – 4:00 PM"
-    - "Thursday: 8:00 AM – 4:00 PM"
-    - "Friday: 8:00 AM – 4:00 PM"
-    - "Saturday: 8:00 AM – 4:00 PM"
-    - "Sunday: 8:00 AM – 4:00 PM"
+    - 'Monday: 8:00 AM – 4:00 PM'
+    - 'Tuesday: 8:00 AM – 4:00 PM'
+    - 'Wednesday: 8:00 AM – 4:00 PM'
+    - 'Thursday: 8:00 AM – 4:00 PM'
+    - 'Friday: 8:00 AM – 4:00 PM'
+    - 'Saturday: 8:00 AM – 4:00 PM'
+    - 'Sunday: 8:00 AM – 4:00 PM'
 tags:
-  - "makassar"
-  - "museum"
-quickAnswer: "Balla Lompoa Museum sits in Sungguminasa, about 30–40 minutes south of central Makassar in Gowa regency, and it's open daily from 8am to 4pm. Budget an hour to see the royal Gowa regalia and the stilted Bugis-Makassar palace structure itself; go on a weekday morning if you want the galleries to yourself. Combine it with the nearby Gowa royal cemetery for a half-day trip out of the city."
+  - makassar
+  - museum
+quickAnswer: >-
+  Balla Lompoa Museum sits in Sungguminasa, about 30–40 minutes south of central
+  Makassar in Gowa regency, and it's open daily from 8am to 4pm. Budget an hour
+  to see the royal Gowa regalia and the stilted Bugis-Makassar palace structure
+  itself; go on a weekday morning if you want the galleries to yourself. Combine
+  it with the nearby Gowa royal cemetery for a half-day trip out of the city.
 faq:
-  - q: "How do I get to Balla Lompoa Museum from central Makassar?"
-    a: "It's in Sungguminasa, Gowa regency, about 10-12 km south of downtown. A Grab or Gojek ride takes roughly 30-40 minutes depending on traffic; public angkot from Mallengkeri terminal also run there but require a transfer."
-  - q: "How much time should I plan for the visit?"
-    a: "About an hour is enough to see the royal hall, the regalia collection, and the crown display. It works well combined with the nearby Gowa royal cemetery for a half-day trip."
-  - q: "What are the opening hours?"
-    a: "The museum is open daily from 8:00 AM to 4:00 PM, with no listed closing day, but it's worth confirming locally since holiday hours can shift."
-  - q: "Is there an entrance fee?"
-    a: "Yes, a small admission fee is charged at the door, typically payable in cash, so bring small rupiah notes."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Weekday mornings tend to be quieter, since the museum is well-known locally and sometimes hosts school groups; weekends can bring more visitors."
+  - q: How do I get to Balla Lompoa Museum from central Makassar?
+    a: >-
+      It's in Sungguminasa, Gowa regency, about 10-12 km south of downtown. A
+      Grab or Gojek ride takes roughly 30-40 minutes depending on traffic;
+      public angkot from Mallengkeri terminal also run there but require a
+      transfer.
+  - q: How much time should I plan for the visit?
+    a: >-
+      About an hour is enough to see the royal hall, the regalia collection, and
+      the crown display. It works well combined with the nearby Gowa royal
+      cemetery for a half-day trip.
+  - q: What are the opening hours?
+    a: >-
+      The museum is open daily from 8:00 AM to 4:00 PM, with no listed closing
+      day, but it's worth confirming locally since holiday hours can shift.
+  - q: Is there an entrance fee?
+    a: >-
+      Yes, a small admission fee is charged at the door, typically payable in
+      cash, so bring small rupiah notes.
+  - q: What's the best time to visit to avoid crowds?
+    a: >-
+      Weekday mornings tend to be quieter, since the museum is well-known
+      locally and sometimes hosts school groups; weekends can bring more
+      visitors.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-13'
 ---
 
 Balla Lompoa means "big house" in Makassarese, and that's exactly what greets you: a raised wooden palace on stout concrete stilts, painted pale yellow, with a steep tiered roof that marks it as Bugis-Makassar royal architecture rather than a purpose-built museum box. It was the residence of the last kings and queens of Gowa before it was converted into a museum, and the building itself is as much the exhibit as anything inside the cases.

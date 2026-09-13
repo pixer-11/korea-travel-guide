@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: kochi-subhash-bose-park
-srcHash: 'd30235d16ec2'
+srcHash: '82518406281c'
 title: 'Parque Subhash Bose: Guía de viaje de Kochi (4,5★)'
-description: 'El parque Subhash Bose se encuentra en Marine Drive, en Kochi, justo junto a los remansos de Kochi (Kochi backwaters), y es la parada junto al agua más sencilla para pasear entre trámites en el embarcadero. 4,5★ (29.643 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El parque Subhash Bose se encuentra en Marine Drive, en Kochi, justo junto a los remansos de Kochi (Kochi backwaters), y es la parada junto al agua más sencilla para pasear entre trámites en el embarcadero. 4,5★ (29.648 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El parque Subhash Bose se encuentra en Marine Drive, en Kochi, justo junto a los remansos de Kochi, y es la parada junto al agua más sencilla para pasear entre trámites en el embarcadero. Conviene ir temprano (de 6 a 9 de la mañana) para caminar entre corredores y el tráfico de barcas sobre el agua, o un fin de semana entre las 11 y las 14 h si se prefiere tener el césped para uno mismo, ya que las tardes después de las 14 h se llenan con rapidez. La entrada es gratuita, el parque está vallado y abre todos los días, salvo los domingos, que empieza un poco más tarde.
 faq:
   - q: ¿Hay que pagar entrada en el parque Subhash Bose?
