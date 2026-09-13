@@ -164,14 +164,45 @@ async function graph(base, path, token, { method = 'GET', params = {} } = {}) {
     // Meta's own error code, so a caller can tell "not ready yet" (9007) from
     // "your token is dead" (190) instead of retrying everything or nothing.
     err.code = body?.error?.code;
+    // Meta labels its own hiccups. A 500 with is_transient means "ask again",
+    // and it is the only thing in this file we are allowed to retry blindly.
+    err.transient = body?.error?.is_transient === true;
     throw err;
   }
   return body;
 }
 
+// Meta's servers hiccup. On 2026-09-14 the daily Threads post died on
+// `POST /me/threads → 500 {"is_transient":true,"code":2}` — Meta's own label
+// for "temporary, retry" — and the whole job exited 1, alarmed the owner in
+// the middle of the night, and left the post to the next morning's run. Every
+// other channel in that same run succeeded.
+//
+// So a transient answer is retried HERE, where it costs seconds. What is NOT
+// retried: anything Meta did not call transient (a dead token must still fail
+// on the first try), and the two PUBLISH calls — a 500 there may mean the post
+// went out and the answer got lost, and two identical posts is worse than one
+// late post. Container creation has no such risk: an orphan container that
+// nobody publishes is invisible.
+const isTransient = (e) => e?.transient === true || e?.code === 2 || (e?.status >= 500 && e?.status < 600);
+
+async function graphTry(base, path, token, opts = {}, { tries = 4, delayMs = 4000 } = {}) {
+  for (let attempt = 1; ; attempt++) {
+    try {
+      return await graph(base, path, token, opts);
+    } catch (e) {
+      if (!isTransient(e) || attempt >= tries) throw e;
+      console.log(`   ↻ meta is having a moment (${e.status ?? '?'}), retrying ${attempt}/${tries - 1}`);
+      await sleep(attempt * delayMs);
+    }
+  }
+}
+
 async function waitFinished(base, id, token, { tries = 20, delayMs = 3000 } = {}) {
   for (let i = 0; i < tries; i++) {
-    const s = await graph(base, `/${id}`, token, { params: { fields: 'status_code,status' } });
+    // A status poll is a GET: asking twice costs nothing, so a hiccup here
+    // must not end the post. Two quick tries, then the loop's own patience.
+    const s = await graphTry(base, `/${id}`, token, { params: { fields: 'status_code,status' } }, { tries: 2, delayMs: 2000 });
     const code = s.status_code || s.status;
     if (code === 'FINISHED') return;
     if (code === 'ERROR') throw new Error(`container ${id} entered ERROR state`);
@@ -181,17 +212,18 @@ async function waitFinished(base, id, token, { tries = 20, delayMs = 3000 } = {}
 }
 
 /** Instagram: single image or carousel (2+). Returns the published media id. */
-export async function igPublish({ token, imageUrls, caption, publishRetryMs = 5000 }) {
-  const me = await graph(IG_GRAPH, '/me', token, { params: { fields: 'user_id,username' } });
+export async function igPublish({ token, imageUrls, caption, publishRetryMs = 5000, transientRetryMs = 4000 }) {
+  const R = { delayMs: transientRetryMs };
+  const me = await graphTry(IG_GRAPH, '/me', token, { params: { fields: 'user_id,username' } }, R);
   const uid = me.user_id || me.id;
   let creationId;
   if (imageUrls.length === 1) {
-    const c = await graph(IG_GRAPH, `/${uid}/media`, token, { method: 'POST', params: { image_url: imageUrls[0], caption } });
+    const c = await graphTry(IG_GRAPH, `/${uid}/media`, token, { method: 'POST', params: { image_url: imageUrls[0], caption } }, R);
     creationId = c.id;
   } else {
     const children = [];
     for (const u of imageUrls.slice(0, 10)) {
-      const c = await graph(IG_GRAPH, `/${uid}/media`, token, { method: 'POST', params: { image_url: u, is_carousel_item: 'true' } });
+      const c = await graphTry(IG_GRAPH, `/${uid}/media`, token, { method: 'POST', params: { image_url: u, is_carousel_item: 'true' } }, R);
       // Wait for the CHILD too. The parent carousel can report FINISHED while a
       // slide is still being fetched, and publishing then fails with 9007
       // "Media ID is not available" — which is what happened on 2026-09-07.
@@ -199,9 +231,9 @@ export async function igPublish({ token, imageUrls, caption, publishRetryMs = 50
       children.push(c.id);
       await sleep(1200);
     }
-    const c = await graph(IG_GRAPH, `/${uid}/media`, token, {
+    const c = await graphTry(IG_GRAPH, `/${uid}/media`, token, {
       method: 'POST', params: { media_type: 'CAROUSEL', children: children.join(','), caption },
-    });
+    }, R);
     creationId = c.id;
   }
   await waitFinished(IG_GRAPH, creationId, token);
@@ -229,23 +261,24 @@ export async function igPublish({ token, imageUrls, caption, publishRetryMs = 50
  * the site's own material guidance says multi-image sets perform best on
  * Threads too. Returns { id, permalink }.
  */
-export async function thPublish({ token, text, imageUrls = [] }) {
+export async function thPublish({ token, text, imageUrls = [], transientRetryMs = 4000 }) {
+  const R = { delayMs: transientRetryMs };
   let container;
   if (imageUrls.length >= 2) {
     const children = [];
     for (const u of imageUrls.slice(0, 20)) {
-      const c = await graph(TH_GRAPH, '/me/threads', token, { method: 'POST', params: { media_type: 'IMAGE', image_url: u, is_carousel_item: 'true' } });
+      const c = await graphTry(TH_GRAPH, '/me/threads', token, { method: 'POST', params: { media_type: 'IMAGE', image_url: u, is_carousel_item: 'true' } }, R);
       children.push(c.id);
       await sleep(1200);
     }
-    container = await graph(TH_GRAPH, '/me/threads', token, {
+    container = await graphTry(TH_GRAPH, '/me/threads', token, {
       method: 'POST', params: { media_type: 'CAROUSEL', children: children.join(','), text },
-    });
+    }, R);
   } else {
     const params = imageUrls[0]
       ? { media_type: 'IMAGE', image_url: imageUrls[0], text }
       : { media_type: 'TEXT', text };
-    container = await graph(TH_GRAPH, '/me/threads', token, { method: 'POST', params });
+    container = await graphTry(TH_GRAPH, '/me/threads', token, { method: 'POST', params }, R);
   }
   // Threads docs recommend waiting for server-side processing before publish.
   // A polling hiccup or a slow container gets a grace wait and one blind try —

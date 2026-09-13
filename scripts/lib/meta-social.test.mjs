@@ -180,3 +180,67 @@ test('인스타 캐러셀: 토큰 오류(190)는 재시도하지 않고 즉시 �
     assert.equal(publishAttempts, 1);
   } finally { globalThis.fetch = realFetch; }
 });
+
+// 2026-09-14: 아침 스레드 게시가 `POST /me/threads → 500
+// {"is_transient":true,"code":2}` 로 죽었다. 메타가 스스로 "일시적"이라 붙인
+// 오류인데 그 한 번에 작업 전체가 실패로 끝나고 새벽에 경보가 갔다.
+// 아래 셋을 고정한다 — ①일시적이면 다시 묻는다 ②죽은 토큰은 그대로 즉시 실패
+// ③게시(publish) 호출은 5xx 라도 재시도하지 않는다(같은 글이 두 번 나갈 위험).
+test('스레드: 메타의 일시적 500 은 다시 시도해서 결국 게시된다', async () => {
+  const realFetch = globalThis.fetch;
+  let creates = 0;
+  globalThis.fetch = async (url) => {
+    const u = String(url);
+    const json = (body, ok = true, status = 200) => ({ ok, status, json: async () => body });
+    if (u.includes('/me/threads_publish')) return json({ id: 'PUB' });
+    if (u.includes('/me/threads')) {
+      creates++;
+      if (creates < 3) return json({ error: { message: 'An unexpected error has occurred.', code: 2, is_transient: true } }, false, 500);
+      return json({ id: 'c1' });
+    }
+    if (u.includes('/PUB')) return json({ permalink: 'https://threads.net/p/1' });
+    return json({ status_code: 'FINISHED' });
+  };
+  try {
+    const out = await thPublish({ token: 't', text: 'hi', imageUrls: [], transientRetryMs: 1 });
+    assert.equal(out.id, 'PUB');
+    assert.equal(creates, 3, '일시적 오류를 재시도하지 않았다');
+  } finally { globalThis.fetch = realFetch; }
+});
+
+test('스레드: 죽은 토큰(190)은 재시도 없이 첫 번에 실패한다', async () => {
+  const realFetch = globalThis.fetch;
+  let creates = 0;
+  globalThis.fetch = async (url) => {
+    const u = String(url);
+    const json = (body, ok = true, status = 200) => ({ ok, status, json: async () => body });
+    if (u.includes('/me/threads')) {
+      creates++;
+      return json({ error: { message: 'Invalid OAuth access token', code: 190 } }, false, 400);
+    }
+    return json({});
+  };
+  try {
+    await assert.rejects(() => thPublish({ token: 't', text: 'hi', imageUrls: [], transientRetryMs: 1 }), /190|Invalid OAuth/);
+    assert.equal(creates, 1, '죽은 토큰을 붙잡고 재시도했다');
+  } finally { globalThis.fetch = realFetch; }
+});
+
+test('스레드: 게시 호출의 500 은 재시도하지 않는다 — 같은 글이 두 번 나가면 더 나쁘다', async () => {
+  const realFetch = globalThis.fetch;
+  let publishes = 0;
+  globalThis.fetch = async (url) => {
+    const u = String(url);
+    const json = (body, ok = true, status = 200) => ({ ok, status, json: async () => body });
+    if (u.includes('/me/threads_publish')) {
+      publishes++;
+      return json({ error: { message: 'server', code: 2, is_transient: true } }, false, 500);
+    }
+    if (u.includes('/me/threads')) return json({ id: 'c1' });
+    return json({ status_code: 'FINISHED' });
+  };
+  try {
+    await assert.rejects(() => thPublish({ token: 't', text: 'hi', imageUrls: [], transientRetryMs: 1 }), /500/);
+    assert.equal(publishes, 1, '게시를 다시 눌렀다 — 중복 게시 위험');
+  } finally { globalThis.fetch = realFetch; }
+});
