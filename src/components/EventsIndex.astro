@@ -9,6 +9,7 @@ import Newsletter from './Newsletter.astro';
 import Flag from './Flag.astro';
 import { SITE } from '../siteConfig';
 import { isEventPast, eventSortValue } from '../lib/eventStatus';
+import { groupUpcomingEvents } from '../lib/eventGroups.mjs';
 import countriesData from '../../data/countries.json';
 import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
 import { fmtEventRange } from '../lib/eventDates.mjs';
@@ -51,11 +52,11 @@ const countryLinks = [...evCount.entries()]
 
 const monthLabel = (d: any) =>
   d ? new Date(d).toLocaleDateString(localeCodes[lang], { month: 'long', year: 'numeric' }) : t('ev.dateTBA');
-const byMonth = new Map<string, any[]>();
-for (const p of upcoming) {
-  const k = p.data.eventStartDate ? monthLabel(p.data.eventStartDate) : t('ev.dateTBA');
-  (byMonth.get(k) || byMonth.set(k, []).get(k)!).push(p);
-}
+const byMonth = groupUpcomingEvents(
+  upcoming,
+  { now: t('ev.nowOn'), tba: t('ev.dateTBA'), month: monthLabel },
+  today,
+);
 
 const cardProps = (post: any) => ({
   href: card.href(post.id),
@@ -124,7 +125,7 @@ const ogPhoto = pickOgPhoto([...all].sort((a, b) =>
     <section class="section"><div class="wrap"><div class="fact-box" style="text-align:center"><p>{t('ev.noneGlobal')}</p></div></div></section>
   )}
 
-  {[...byMonth].map(([month, items]) => (
+  {byMonth.map(([month, items]) => (
     <section class="section">
       <div class="wrap">
         <div class="rule-head"><h2 class="kicker">{month}</h2></div>

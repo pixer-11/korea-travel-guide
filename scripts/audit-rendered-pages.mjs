@@ -107,6 +107,31 @@ const OG_MUST_BE_REAL =
   /^\/(?:[a-z]{2}\/)?(?:tools\/(?:when-to-go|best-time|whats-closed|esim|widget)|itinerary|destinations|regions|events)\/index\.html$/;
 const OG_TAG = /<meta\b(?:[^>"']|"[^"]*"|'[^']*')*property="og:image"(?:[^>"']|"[^"]*"|'[^']*')*>/i;
 
+// ---- rule 6: an events hub heading that names a month already gone ----
+// The hubs filed every card under the month its run STARTS, so a six-month
+// exhibition that opened in June sat under "June 2026" at the top of a page
+// titled "Upcoming events" — in September (2026-09-14). Long museum runs make
+// this the normal case, not an accident.
+//
+// Detecting it in five locales without parsing five date formats: build the
+// exact labels the site itself would print for every month from three years
+// ago to last month, with the same Intl call and the same locale codes, and
+// flag a heading that IS one of them. No parsing, no locale guesswork, and a
+// heading for this month or any future month can never match.
+const EVENTS_PAGE = /^\/(?:[a-z]{2}\/)?events\//;
+const PAST_MONTH_LABELS = (() => {
+  const out = new Set();
+  const now = new Date();
+  for (const code of ['en', 'ko', 'ja', 'es', 'zh-Hans']) {
+    for (let back = 1; back <= 36; back++) {
+      const d = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth() - back, 1));
+      out.add(d.toLocaleDateString(code, { month: 'long', year: 'numeric', timeZone: 'UTC' }));
+    }
+  }
+  return out;
+})();
+const KICKER = /<h2\b(?:[^>"']|"[^"]*"|'[^']*')*class="kicker"(?:[^>"']|"[^"]*"|'[^']*')*>([^<]*)<\/h2>/gi;
+
 // Pages that are fragments by design, not documents.
 const SKIP_DIRS = new Set(['embed', 'wall', '_astro', 'og', 'api']);
 
@@ -140,6 +165,13 @@ function check(page, html) {
   const h1s = (html.match(H1) ?? []).length;
   if (h1s !== 1) record('H1-COUNT', page, `h1 ${h1s}개`);
 
+  if (EVENTS_PAGE.test(page)) {
+    for (const m of body.matchAll(KICKER)) {
+      const label = m[1].trim();
+      if (PAST_MONTH_LABELS.has(label)) record('PAST-MONTH-HEAD', page, label);
+    }
+  }
+
   if (OG_MUST_BE_REAL.test(page)) {
     const tag = html.match(OG_TAG)?.[0] ?? '';
     const url = attr(tag, 'content') ?? '';
@@ -166,6 +198,7 @@ const LABEL = {
   'STALE-DATE': '제휴 링크의 날짜 파라미터가 과거다',
   'H1-COUNT': 'h1 이 정확히 하나가 아니다',
   'OG-DEFAULT': '사진을 공유하기로 한 허브가 브랜드 기본 카드를 공유하고 있다',
+  'PAST-MONTH-HEAD': '예정 이벤트 목록에 이미 지나간 달 제목이 붙어 있다',
 };
 
 let total = 0;

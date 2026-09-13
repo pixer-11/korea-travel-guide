@@ -232,3 +232,51 @@ test('소개·약관·API 같은 페이지는 기본 카드를 써도 통과한�
   rmSync(root, { recursive: true, force: true });
   assert.equal(r.code, 0, r.out);
 });
+
+// ---- rule 6: 지나간 달 제목 (2026-09-14) ----
+// 9월에 열어 본 이벤트 허브 맨 위가 "2026년 6월" 이었다. 6개월짜리 전시가
+// 시작한 달에 걸려 있었기 때문. 라벨은 사이트와 똑같이 Intl 로 만들어 맞춘다.
+const monthLabel = (back, code = 'en') => {
+  const now = new Date();
+  const d = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth() - back, 1));
+  return d.toLocaleDateString(code, { month: 'long', year: 'numeric', timeZone: 'UTC' });
+};
+const hubPage = (label) =>
+  `<!DOCTYPE html><html><head><title>t</title>` +
+  `<meta property="og:image" content="https://wanderatlasguides.com/wall/hoi-an.webp">` +
+  `</head><body><h1>Events</h1>` +
+  `<section><div class="rule-head"><h2 class="kicker">${label}</h2></div></section>` +
+  `</body></html>`;
+
+test('예정 이벤트 허브에 지나간 달 제목이 있으면 막는다', () => {
+  const root = dist({
+    'events/index.html': hubPage(monthLabel(3)),
+    'ko/events/index.html': hubPage(monthLabel(1, 'ko')),
+    'ja/events/vietnam/index.html': hubPage(monthLabel(12, 'ja')),
+  });
+  const r = run(root);
+  rmSync(root, { recursive: true, force: true });
+  assert.equal(r.code, 1, r.out);
+  assert.match(r.out, /PAST-MONTH-HEAD/);
+  assert.match(r.out, /3건/);
+});
+
+test('이번 달·다음 달 제목과 "진행 중" 제목은 통과한다', () => {
+  const root = dist({
+    'events/index.html': hubPage(monthLabel(0)),
+    'ko/events/index.html': hubPage(monthLabel(-2, 'ko')),
+    'es/events/index.html': hubPage('En curso'),
+    'zh/events/index.html': hubPage(monthLabel(-1, 'zh-Hans')),
+  });
+  const r = run(root);
+  rmSync(root, { recursive: true, force: true });
+  assert.equal(r.code, 0, r.out);
+});
+
+test('이벤트 허브가 아닌 페이지의 지난 달 제목은 규칙 밖이다', () => {
+  // 예: 여행기·연표처럼 과거를 말하는 것이 정상인 페이지.
+  const root = dist({ 'destinations/index.html': hubPage(monthLabel(5)) });
+  const r = run(root);
+  rmSync(root, { recursive: true, force: true });
+  assert.equal(r.code, 0, r.out);
+});

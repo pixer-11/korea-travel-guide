@@ -8,6 +8,7 @@ import Flag from './Flag.astro';
 import { hotellookUrl } from '../lib/hotellook.mjs';
 import Emoji from './Emoji.astro';
 import { isEventPast, eventSortValue } from '../lib/eventStatus';
+import { groupUpcomingEvents } from '../lib/eventGroups.mjs';
 import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
 import { fmtEventRange } from '../lib/eventDates.mjs';
 import { localizePlace } from '../i18n/places';
@@ -34,11 +35,11 @@ const past = events
 // Month header, localized by the page's locale (Intl handles the translation).
 const monthLabel = (d: any) =>
   d ? new Date(d).toLocaleDateString(localeCodes[lang], { month: 'long', year: 'numeric' }) : t('ev.dateTBA');
-const byMonth = new Map<string, any[]>();
-for (const p of upcoming) {
-  const k = p.data.eventStartDate ? monthLabel(p.data.eventStartDate) : t('ev.dateTBA');
-  (byMonth.get(k) || byMonth.set(k, []).get(k)!).push(p);
-}
+const byMonth = groupUpcomingEvents(
+  upcoming,
+  { now: t('ev.nowOn'), tba: t('ev.dateTBA'), month: monthLabel },
+  today,
+);
 
 const cardProps = (post: any) => ({
   href: card.href(post.id),
@@ -115,7 +116,7 @@ const ogPhoto = pickOgPhoto([...placePhotos, ...events]);
     </div>
   </section>
 
-  {[...byMonth].map(([month, items]) => (
+  {byMonth.map(([month, items]) => (
     <section class="section">
       <div class="wrap">
         <div class="rule-head"><h2 class="kicker">{month}</h2></div>
