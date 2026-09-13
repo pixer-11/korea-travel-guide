@@ -1,5 +1,21 @@
 {
-  "validate-content": {},
+  "validate-content": {
+    "ENDED-EVENT-ADVICE kuala-lumpur-aaron-kwok-iconic-world-tour-2026.md": {
+      "since": "2026-09-13",
+      "last": "2026-09-13",
+      "seen": 1
+    },
+    "ENDED-EVENT-ADVICE venice-venice-international-film-festival-mostra-del-cinema.md": {
+      "since": "2026-09-13",
+      "last": "2026-09-13",
+      "seen": 1
+    },
+    "ENDED-EVENT-ADVICE verona-arena-di-verona-opera-festival.md": {
+      "since": "2026-09-13",
+      "last": "2026-09-13",
+      "seen": 1
+    }
+  },
   "audit-translations": {},
   "audit-hours-claims": {}
 }
