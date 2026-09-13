@@ -10,11 +10,6 @@ eventEndDate: '2026-10-18'
 eventRecurring: true
 eventVenue: Olympic Park
 eventFactsAsked: true
-heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Olympic_Park_Seoul.jpg/1920px-Olympic_Park_Seoul.jpg'
-  credit: 'Photo: Silas Low / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Olympic_Park_Seoul.jpg'
 gallery: []
 tags:
   - seoul

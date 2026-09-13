@@ -4,10 +4,17 @@
 //
 //   node scripts/audit-design-uniformity.mjs [distRoot]   # after a build
 //   node scripts/audit-design-uniformity.mjs dist --allow-stale
-import { readdirSync, readFileSync, statSync } from 'node:fs';
+import { readdirSync, readFileSync, statSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 
 const ROOT = process.argv.find((a, i) => i >= 2 && !a.startsWith('--')) || 'dist';
+
+// 빌드 전에 돌리면 ENOENT 스택 트레이스가 찍히고, 그건 "스크립트가 고장났다"로
+// 읽힌다. 같은 한 줄 거부를 check-heading-skips 가 2026-09-07 부터 달고 있다.
+if (!existsSync(ROOT)) {
+  console.log(`DESIGN-UNCHECKED: ${ROOT}/ 없음 — 아무것도 검사하지 못했다. 빌드 먼저.`);
+  process.exit(1);
+}
 const ALLOW_STALE = process.argv.includes('--allow-stale');
 let fail = 0;
 const bad = (code, msg) => { fail++; console.log(`  ✗ ${code}: ${msg}`); };

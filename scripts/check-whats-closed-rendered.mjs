@@ -16,6 +16,13 @@ import { readFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 
 const DIST = process.argv[2] || 'dist';
+
+// 빌드 결과가 없으면 "5건 실패" 가 아니라 "검사를 못 했다" 다 — 못 본 것을
+// 결함으로 세면 그 숫자는 사이트가 아니라 실행 환경을 말한다(2026-09-13).
+if (!existsSync(DIST)) {
+  console.log(`WHATS-CLOSED-UNCHECKED: ${DIST}/ 없음 — 아무것도 검사하지 못했다. 빌드 먼저.`);
+  process.exit(1);
+}
 const LANGS = ['', 'ko', 'ja', 'es', 'zh'];
 
 let failed = 0;

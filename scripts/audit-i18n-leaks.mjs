@@ -178,8 +178,12 @@ function main() {
 
   console.log(`\n📋 checked ${checked} page(s) across ${TYPES.length} type(s) × ${LANGS.length} language(s)`);
   if (emptyTypes) console.log(`   ${emptyTypes} type(s) had no pages — verify that is expected.`);
-  if (failures) { console.log(`❌ ${failures} leak(s)/problem(s).`); process.exit(1); }
+  // 🛑 순서가 중요하다. 이 둘이 뒤바뀌어 있어서, 빌드 결과가 없는 실행이
+  // "0 page(s) 검사" 를 찍은 바로 다음 줄에 "4 leak(s)" 를 찍었다 — 그 4는
+  // 누출이 아니라 "언어 4개의 페이지를 못 찾았다" 였다(2026-09-13). 못 본 것을
+  // 결함으로 세면 그 숫자는 사이트가 아니라 실행 환경에 대한 정보다.
   requireExamined(checked, '번역 페이지', 'dist 가 비어 있거나 빌드를 안 돌렸다');
+  if (failures) { console.log(`❌ ${failures} leak(s)/problem(s).`); process.exit(1); }
   console.log('✅ no English leaks in localized pages.');
 }
 

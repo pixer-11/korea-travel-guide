@@ -32,11 +32,6 @@ faq:
     a: Stick to the official Ultra Japan ticketing channel. Resale and unofficial vendors carry a real risk of counterfeit or duplicate QR codes at large festivals like this one.
 aiGenerated: true
 draft: false
-heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Odaiba%2C_Tokyo_Japan.jpg/1920px-Odaiba%2C_Tokyo_Japan.jpg'
-  credit: 'Photo: OiMax''s / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Odaiba,_Tokyo_Japan.jpg'
 ---
 
 Odaiba Ultra Park sits on reclaimed land jutting into Tokyo Bay, with the Rainbow Bridge and the city skyline as a backdrop to the main stage. For one weekend in September, this waterfront park becomes the regional anchor of the global Ultra Music Festival circuit, pulling in electronic music fans from across Asia and beyond.

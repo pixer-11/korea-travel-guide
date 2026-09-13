@@ -261,6 +261,25 @@ jobs:
         if: steps.gate.outputs.on == 'true'
         run: node scripts/fill-event-city-heroes.mjs | tee /tmp/cityhero.log
 
+      # Written 2026-08-15 for the owner's "모든 사진 부분에서 그렇게 되어야지"
+      # and wired into no workflow at all, so it had never run unattended —
+      # the same shape as repair-ended-event-editorial on 2026-09-11.
+      # audit-new-post-identity has been naming the backlog ever since: 13
+      # event heroes with no focal point, which a centre crop turns into a
+      # performer's chin.
+      #
+      # It is cost-aware by construction: a dry pass today measured 103 heroes
+      # and would ask vision about 19 of them, because a wide landscape crops
+      # fine from centre and is recorded as skipped, never re-fetched. The
+      # limit caps a bad day; the store makes every run resume where the last
+      # one stopped, so the backlog drains and then it costs nothing.
+      - name: Give event heroes a focal point
+        if: steps.gate.outputs.on == 'true'
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: FOCUS_LIMIT=25 node scripts/backfill-hero-focus.mjs 2>&1 | tail -4 || true
+
       - name: Commit fixes
         if: steps.gate.outputs.on == 'true'
         run: |
@@ -271,7 +290,7 @@ jobs:
           # were staged, so every night's counts died with the runner (the clock
           # never advanced in CI) and a firing retirement would have shipped the
           # post deletion WITHOUT its redirect: a 404 where a 301 was promised.
-          git add src/content/posts src/content/i18n public/wall data/wall.json data/visual-audit.json data/photo-retry.json data/retired-posts.json data/hero-width-queue.json
+          git add src/content/posts src/content/i18n public/wall data/wall.json data/visual-audit.json data/photo-retry.json data/retired-posts.json data/hero-width-queue.json data/hero-focus.json
           if git diff --staged --quiet; then
             echo "No photo changes."
           else

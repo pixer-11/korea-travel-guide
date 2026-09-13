@@ -32,11 +32,6 @@ faq:
     a: A single day covers highlights, but two days lets you pace exhibitor shopping in the morning and panels or the cosplay contest in the afternoon without rushing.
 aiGenerated: true
 draft: false
-heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Alun-Alun_Periuk%2C_Tangerang.jpg/1920px-Alun-Alun_Periuk%2C_Tangerang.jpg'
-  credit: 'Photo: Vruztazzy / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Alun-Alun_Periuk,_Tangerang.jpg'
 ---
 
 ## What Indonesia Comic Con 2026 actually is
