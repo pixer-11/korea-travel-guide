@@ -15,6 +15,11 @@
 // event that started in the past is by definition still running.
 const dayStr = (d) => d.toISOString().slice(0, 10);
 
+const endValue = (data) => {
+  const t = data?.eventEndDate ? new Date(data.eventEndDate).getTime() : NaN;
+  return Number.isNaN(t) ? Number.MAX_SAFE_INTEGER : t;
+};
+
 export function eventGroupOf(data, today = new Date()) {
   const raw = data?.eventStartDate;
   if (!raw) return { kind: 'tba' };
@@ -44,6 +49,12 @@ export function groupUpcomingEvents(posts, labels, today = new Date()) {
       (months.get(k) || months.set(k, []).get(k)).push(p);
     }
   }
+  // Inside "on now" the caller's sort (soonest start first) puts the longest
+  // run at the top, where it is the least urgent thing on the page. Order it by
+  // what closes first instead: a show with three weeks left is worth a reader's
+  // attention before one that runs until December.
+  now.sort((a, b) => endValue(a?.data) - endValue(b?.data));
+
   return /** @type {Array<[string, any[]]>} */ ([
     ...(now.length ? [[labels.now, now]] : []),
     ...months,

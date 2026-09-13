@@ -49,3 +49,16 @@ test('empty groups produce no heading at all', () => {
   assert.deepEqual(out.map(([k]) => k), ['2026-10']);
   assert.deepEqual(groupUpcomingEvents([], LABELS, TODAY), []);
 });
+
+test('"진행 중" 안에서는 먼저 끝나는 것이 위로 — 6개월 전시가 3주 남은 축제를 가리지 않는다', () => {
+  const out = groupUpcomingEvents(
+    [
+      { id: 'runs-to-december', data: { eventStartDate: '2026-06-25', eventEndDate: '2026-12-15' } },
+      { id: 'closes-this-month', data: { eventStartDate: '2026-08-01', eventEndDate: '2026-09-30' } },
+      { id: 'no-end-date', data: { eventStartDate: '2026-07-01' } },
+    ],
+    LABELS,
+    TODAY,
+  );
+  assert.deepEqual(out[0][1].map((p) => p.id), ['closes-this-month', 'runs-to-december', 'no-end-date']);
+});
