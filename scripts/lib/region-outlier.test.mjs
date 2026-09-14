@@ -272,3 +272,38 @@ test('고정 표본: 09-02 수리 전 24편을 이번 발행분으로 재생하�
   const live = findRegionOutliers(posts).filter((h) => !h.post.inScope).map((h) => h.post.file.replace(/\.md$/, '')).sort();
   assert.deepEqual(live, ['central-man-mo-temple', 'koh-phi-phi-monkey-bay', 'sentosa-flower-dome', 'sheung-wan-graham-street-market']);
 });
+
+// 2026-09-14 발행에서 붙들린 루수이 트레일: 같은 협곡 1.9 km, 주소는 부모 구역(화롄현).
+// 부모 이름 주소는 "그 구역이 더 가깝거나, 절대적으로 멀 때"만 증거다.
+test('Path 1b: 부모 구역 이름 주소라도 제 구역 가까이 있으면 잡지 않는다 — 타이루거 루수이', () => {
+  const taroko = [
+    { file: 'a.md', country: 'Taiwan', region: 'Taroko Gorge', lat: 24.1813654, lng: 121.4940627, address: 'Tianxiang Rd, Xiulin Township, Hualien County' },
+    { file: 'b.md', country: 'Taiwan', region: 'Taroko Gorge', lat: 24.1939246, lng: 121.4906668, address: 'Xiulin Township, Hualien County, Taiwan 972' },
+    { file: 'c.md', country: 'Taiwan', region: 'Taroko Gorge', lat: 24.1794444, lng: 121.4961111, address: 'Fushi Village, Xiulin Township, Hualien County' },
+  ];
+  const hualien = [
+    { file: 'h1.md', country: 'Taiwan', region: 'Hualien', lat: 23.9769, lng: 121.6044, address: 'Hualien City, Hualien County' },
+    { file: 'h2.md', country: 'Taiwan', region: 'Hualien', lat: 23.9912, lng: 121.6110, address: 'Hualien City, Hualien County' },
+    { file: 'h3.md', country: 'Taiwan', region: 'Hualien', lat: 23.9820, lng: 121.6200, address: 'Hualien City, Hualien County' },
+  ];
+  const lushui = { file: 'lushui.md', country: 'Taiwan', region: 'Taroko Gorge', lat: 24.1782881, lng: 121.5127721, address: 'Xiulin Township, Hualien County, Taiwan 972', draft: true };
+  const hits = findRegionOutliers([...taroko, ...hualien, lushui]);
+  assert.equal(hits.find((h) => h.post.file === 'lushui.md'), undefined);
+});
+
+test('Path 1b: 부모 구역에 더 가깝거나 10 km 넘게 떨어졌으면 여전히 잡는다', () => {
+  const alishan = [
+    { file: 'a1.md', country: 'Taiwan', region: 'Alishan', lat: 23.5100, lng: 120.8050, address: 'Alishan Township, Chiayi County' },
+    { file: 'a2.md', country: 'Taiwan', region: 'Alishan', lat: 23.5120, lng: 120.8030, address: 'Alishan Township, Chiayi County' },
+    { file: 'a3.md', country: 'Taiwan', region: 'Alishan', lat: 23.5090, lng: 120.8070, address: 'Alishan Township, Chiayi County' },
+  ];
+  const chiayi = [
+    { file: 'c1.md', country: 'Taiwan', region: 'Chiayi', lat: 23.4800, lng: 120.4490, address: 'East District, Chiayi City' },
+    { file: 'c2.md', country: 'Taiwan', region: 'Chiayi', lat: 23.4790, lng: 120.4410, address: 'West District, Chiayi City' },
+    { file: 'c3.md', country: 'Taiwan', region: 'Chiayi', lat: 23.4830, lng: 120.4530, address: 'East District, Chiayi City' },
+  ];
+  // Minxiong, ~37 km from Alishan and ~14 km from the Chiayi cluster.
+  const arts = { file: 'arts.md', country: 'Taiwan', region: 'Alishan', lat: 23.5570, lng: 120.4280, address: 'Minxiong Township, Chiayi County', draft: true };
+  const hits = findRegionOutliers([...alishan, ...chiayi, arts]);
+  assert.ok(hits.find((h) => h.post.file === 'arts.md'), 'a guide 37 km out whose address names Chiayi must still be held');
+});

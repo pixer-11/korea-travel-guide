@@ -43,6 +43,7 @@ export const DEFAULTS = Object.freeze({
   minKm: 1.5,         // (a) 절대 거리 문턱 (머리말 참조 — 10 은 도시 라벨 보호용이었다)
   spreadFactor: 4,    // (a) 퍼짐 배수 문턱
   clusterKm: 3,       // (b) 다른 구역 무리로 인정할 최대 거리
+  kinMinKm: 10,       // Path 1b: 부모·자식 이름 주소를 증거로 삼는 절대 거리(그 구역이 더 가깝지 않을 때)
   catchAllMinRegions: 2, // 이름이 이만큼의 다른 구역 주소에 들어가면 포괄 라벨
 });
 
@@ -251,8 +252,23 @@ export function findRegionOutliers(posts, opts = {}) {
     // post is far from it. "Chiayi County" in an Alishan address excuses
     // nothing when the post is 40 km from Alishan (the Performing Arts Center
     // in Minxiong, the railway Garage Park at Chiayi Station).
+    //
+    // "Far" here cannot be the dense-city 1.5 km of (a). Taroko Gorge is a
+    // 19 km gorge whose three committed guides share one village (spread
+    // 0.3 km), so the Lushui Trail, 1.9 km up the same gorge, tripped (a) — and
+    // its address names Hualien COUNTY, the gorge's own parent, whose city
+    // cluster is 25 km away. It was held from the 2026-09-14 publish for being
+    // exactly where it is. A kin address is evidence only when the post is
+    // nearer that region than its own, or far in absolute terms.
     const kin = addressNamesOtherRegion(p.address, p.region, [...related].filter((r) => !catchAll.has(r)), new Set());
-    if (kin) { out.push({ post: p, ...hit, evidence: { kind: 'address', region: kin } }); continue; }
+    if (kin) {
+      const kc = regionCentre((groups.get(`${p.country}|${kin}`) ?? []).filter((q) => q !== p));
+      const kinKm = kc ? haversineKm(p.lat, p.lng, kc.lat, kc.lng) : null;
+      if ((kinKm != null && kinKm < hit.distanceKm) || hit.distanceKm > o.kinMinKm) {
+        out.push({ post: p, ...hit, evidence: { kind: 'address', region: kin } });
+        continue;
+      }
+    }
 
     // Path 2 — the coordinates: inside another district's cluster (>= minPeers
     // committed posts, within clusterKm, nearer than its own centre). Not for
