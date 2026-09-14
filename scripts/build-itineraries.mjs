@@ -69,6 +69,7 @@ import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
 import { slugify } from './lib/slugify.mjs';
+import { quietWindowSummary as quietWindowSummaryOf } from './lib/quiet-window.mjs';
 import { buildItinerary, qualifyingPosts, gateFor, closedDaysOf } from '../src/lib/itinerary.mjs';
 import { findProseViolations } from '../src/lib/prose-guard.mjs';
 import { validateItineraryFile } from './validate-itineraries.mjs';
@@ -110,18 +111,9 @@ async function loadPosts() {
 }
 
 // ── closed-world facts we hand the model per stop (nothing else) ───────────
+// lib/quiet-window.mjs: every quiet RUN, never first-hour-to-last-hour.
 function quietWindowSummary(post) {
-  const b = post.data.place?.busyness;
-  if (!b) return null;
-  const range = (hrs) => {
-    if (!Array.isArray(hrs) || !hrs.length) return null;
-    const sorted = [...hrs].sort((a, c) => a - c);
-    return `${sorted[0]}:00-${sorted[sorted.length - 1] + 1}:00`;
-  };
-  const wd = range(b.weekdayQuiet);
-  const we = range(b.weekendQuiet);
-  if (!wd && !we) return null;
-  return ['weekdays ' + wd, we ? 'weekends ' + we : null].filter((x) => x && !x.endsWith('undefined')).join(', ');
+  return quietWindowSummaryOf(post.data.place?.busyness);
 }
 
 function fallbackWhy(post) {
