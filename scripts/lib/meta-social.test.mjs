@@ -244,3 +244,42 @@ test('스레드: 게시 호출의 500 은 재시도하지 않는다 — 같은 �
     assert.equal(publishes, 1, '게시를 다시 눌렀다 — 중복 게시 위험');
   } finally { globalThis.fetch = realFetch; }
 });
+
+// 코덱스 재현(2026-09-14): 상태코드 500 이 메타의 명시적 is_transient:false 를
+// 이겨서 죽은 답 하나에 요청 4번을 보냈다. 메타의 표시가 있으면 그게 우선이다.
+test('스레드: 메타가 is_transient:false 라고 하면 500 이어도 재시도하지 않는다', async () => {
+  const realFetch = globalThis.fetch;
+  let creates = 0;
+  globalThis.fetch = async (url) => {
+    const u = String(url);
+    if (u.includes('/me/threads')) {
+      creates++;
+      return { ok: false, status: 500, json: async () => ({ error: { code: 1, message: 'nope', is_transient: false } }) };
+    }
+    return { ok: true, status: 200, json: async () => ({}) };
+  };
+  try {
+    await assert.rejects(() => thPublish({ token: 't', text: 'hi', imageUrls: [], transientRetryMs: 1 }));
+    assert.equal(creates, 1, '메타가 일시적이 아니라고 했는데 재시도했다');
+  } finally { globalThis.fetch = realFetch; }
+});
+
+test('스레드: 표시가 없는 맨 5xx 는 여전히 재시도한다', async () => {
+  const realFetch = globalThis.fetch;
+  let creates = 0;
+  globalThis.fetch = async (url) => {
+    const u = String(url);
+    const json = (body, ok = true, status = 200) => ({ ok, status, json: async () => body });
+    if (u.includes('/me/threads_publish')) return json({ id: 'PUB' });
+    if (u.includes('/me/threads')) {
+      creates++;
+      return creates < 2 ? json({}, false, 503) : json({ id: 'c1' });
+    }
+    return json({ status_code: 'FINISHED' });
+  };
+  try {
+    const out = await thPublish({ token: 't', text: 'hi', imageUrls: [], transientRetryMs: 1 });
+    assert.equal(out.id, 'PUB');
+    assert.equal(creates, 2);
+  } finally { globalThis.fetch = realFetch; }
+});

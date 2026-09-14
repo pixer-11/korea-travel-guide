@@ -53,4 +53,7 @@ jobs:
           git commit -m "chore: gsc ledgers ($(date -u +%Y-%m-%d))"
           # The shared helper, which rebases with --autostash and retries five
           # times. Its own header documents this exact failure from 2026-08-04.
-          bash scripts/git-push-retry.sh
+          # To the branch this run was started on. The helper defaults to main,
+          # so a manual run from a feature branch would have pushed that branch's
+          # unrelated commits to main along with the ledgers (Codex, 2026-09-14).
+          bash scripts/git-push-retry.sh "${GITHUB_REF_NAME}"

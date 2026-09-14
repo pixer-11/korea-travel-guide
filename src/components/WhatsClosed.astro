@@ -237,15 +237,20 @@ const closures = initial ? closuresInRange(posts, { country: initial, fromISO: t
 
     // The dates in the HTML are the day the site was BUILT, in UTC. A page
     // built yesterday opened on yesterday, and its first answer was a closing
-    // day that had already gone by (live, 2026-09-14). Move a stale window to
-    // the reader's own today and redraw — only when it is stale, so a fresh
-    // page keeps the server's answer and nothing flickers.
+    // day that had already gone by (live, 2026-09-14). Move the window to the
+    // reader's own today and redraw when the two differ.
+    //
+    // "Differ", not "is earlier": a reader west of UTC can be a day BEHIND the
+    // build, and `<` left them starting tomorrow with today's closures missing
+    // (Codex, 2026-09-14). And only while the field still holds the build's
+    // own value — a date the reader picked, restored by the browser on reload,
+    // is theirs and must not be overwritten.
     const pad2 = (n) => String(n).padStart(2, '0');
     const localISO = (d) => d.getFullYear() + '-' + pad2(d.getMonth() + 1) + '-' + pad2(d.getDate());
     const fromEl = document.getElementById('wc-from');
     const toEl = document.getElementById('wc-to');
     const now = new Date();
-    if (fromEl.value && fromEl.value < localISO(now)) {
+    if (fromEl.value && fromEl.value === fromEl.defaultValue && fromEl.value !== localISO(now)) {
       fromEl.value = localISO(now);
       toEl.value = localISO(new Date(now.getFullYear(), now.getMonth(), now.getDate() + 13));
       document.getElementById('wc-form').requestSubmit();

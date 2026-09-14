@@ -129,7 +129,7 @@ jobs:
           # Same helper as everywhere else: rebases with --autostash, so a file
           # another step touched cannot stop the push (2026-09-14 sweep). The
           # `|| true` stays — a verdict log is not worth a red job.
-          bash scripts/git-push-retry.sh || true
+          bash scripts/git-push-retry.sh "${GITHUB_REF_NAME}" || true
 
       - name: Send the answer to Telegram
         if: always()

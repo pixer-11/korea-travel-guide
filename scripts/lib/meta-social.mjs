@@ -166,7 +166,9 @@ async function graph(base, path, token, { method = 'GET', params = {} } = {}) {
     err.code = body?.error?.code;
     // Meta labels its own hiccups. A 500 with is_transient means "ask again",
     // and it is the only thing in this file we are allowed to retry blindly.
-    err.transient = body?.error?.is_transient === true;
+    // Kept as Meta sent it — true, false, or absent — because "false" is an
+    // answer too, and it must beat the status code.
+    err.transient = typeof body?.error?.is_transient === 'boolean' ? body.error.is_transient : undefined;
     throw err;
   }
   return body;
@@ -184,7 +186,17 @@ async function graph(base, path, token, { method = 'GET', params = {} } = {}) {
 // went out and the answer got lost, and two identical posts is worse than one
 // late post. Container creation has no such risk: an orphan container that
 // nobody publishes is invisible.
-const isTransient = (e) => e?.transient === true || e?.code === 2 || (e?.status >= 500 && e?.status < 600);
+//
+// Precedence: Meta's own is_transient wins when it is present, and a dead token
+// (190) is never transient whatever status it arrives with. Only when Meta says
+// nothing do the code-2 and 5xx fallbacks apply. The first version let a bare
+// 5xx override an explicit `is_transient: false` — a Codex review made it send
+// four requests for one dead answer.
+const isTransient = (e) => {
+  if (e?.code === 190) return false;
+  if (typeof e?.transient === 'boolean') return e.transient;
+  return e?.code === 2 || (e?.status >= 500 && e?.status < 600);
+};
 
 async function graphTry(base, path, token, opts = {}, { tries = 4, delayMs = 4000 } = {}) {
   for (let attempt = 1; ; attempt++) {

@@ -53,3 +53,24 @@ test('두 글자 이하 토큰으로는 통과하지 않는다 — 우연한 부
   // on the whole word and a file called "huge_crowd.jpg" must not slip through.
   assert.equal(heroTierReason('https://upload.wikimedia.org/wikipedia/commons/1/11/Random_photo.jpg', { region: 'Hue' }), null);
 });
+
+// 2026-09-14 코덱스 재현: 부분 문자열로 맞추던 첫 판이 남겨 둘 뻔한 남의 사진 셋.
+test('부분 문자열로는 통과하지 않는다 — Hue/Ubud/Nha Trang 오탐', () => {
+  const U = (f) => `https://upload.wikimedia.org/wikipedia/commons/1/11/${f}`;
+  assert.equal(heroTierReason(U('Schuetzenfest_Berlin.jpg'), { region: 'Hue' }), null);
+  assert.equal(heroTierReason(U('Batu_Buddha.jpg'), { region: 'Ubud' }), null);
+  assert.equal(heroTierReason(U('Trang_Thailand.jpg'), { region: 'Nha Trang' }), null, '여러 단어 도시는 전부 있어야 한다');
+});
+
+// 실제로 3순위로 남긴 12장 가운데 모양이 다른 넷 — 엄격하게 바꿔도 그대로 남아야 한다.
+test('실제 배치된 사진은 엄격한 규칙에서도 남는다', () => {
+  const U = (f) => `https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/${f}/1920px-${f}`;
+  assert.ok(heroTierReason(U('BITEC.JPG'), { region: 'Bangkok', eventVenue: 'Bangkok International Trade & Exhibition Centre (BITEC)' }), '괄호 약어');
+  assert.ok(heroTierReason('https://upload.wikimedia.org/wikipedia/commons/5/5c/Qizhong_Stadium.jpg', { region: 'Shanghai', eventVenue: 'Qi Zhong Tennis Center' }), '붙여 쓴 이름');
+  assert.ok(heroTierReason(U('Taipei_Arena_20170813.jpg'), { region: 'Taipei', eventVenue: 'Taipei Arena' }), '행사장 일반명사 제거');
+  assert.ok(heroTierReason(U('Monumen_Nasional%2C_Jakarta%2C_Indonesia.jpg'), { region: 'Jakarta' }), '도시 이름 한 단어');
+});
+
+test('행사장이 일반명사뿐이면 근거가 되지 않는다', () => {
+  assert.equal(heroTierReason('https://upload.wikimedia.org/wikipedia/commons/1/11/Some_Arena.jpg', { region: '', eventVenue: 'Arena' }), null);
+});
