@@ -322,186 +322,179 @@
   "at": "2026-09-14T14:15:45.712Z"
  },
  "ko/bangkok-national-museum-bangkok": {
-  "hash": "c77c24db93b5",
+  "hash": "f26f144732b6",
   "score": 1,
   "registerBreak": false,
-  "worst": "방콕 국립박물관은 1782년 부왕(副王)을 위해 지어진 \"전궁\", 즉 왕나 궁의 옛터에 자리하고 있는데, 이 사실 하나만으로도 발걸음을 옮길 이유가 됩니다",
-  "at": "2026-09-07T13:33:53.891Z"
+  "worst": "방콕 국립박물관은 1782년 부왕(副王)을 위해 지어진 \"전궁\"... 이곳은 목적에 맞게 지어진 전시관이 아니라 실제 왕실 건축물",
+  "at": "2026-09-14T15:43:24.429Z"
  },
  "ko/bangkok-post-malone-the-big-ass-stadium-world-tour": {
-  "hash": "7638260ee990",
+  "hash": "4d20bf54f25b",
   "score": 1,
   "registerBreak": false,
-  "worst": "가방 크기 제한, 외부 음식·음료 반입 금지, 그리고 대부분 재입장 불가 등입니다.",
-  "at": "2026-08-24T08:36:15.509Z"
+  "worst": "태국체육청(Sports Authority of Thailand) 단지 안에 자리하고 있습니다.",
+  "at": "2026-09-14T15:43:25.395Z"
  },
  "ko/bangkok-sea-life-bangkok-ocean-world": {
-  "hash": "e0aba835274b",
+  "hash": "139a94420ddf",
   "score": 1,
   "registerBreak": false,
   "worst": "3만 건이 넘는 리뷰에서 약 4.5점의 평점을 유지하고 있어, 몰 안에 있는 아쿠아리움치고는 드물게...",
-  "at": "2026-08-24T08:36:18.653Z"
+  "at": "2026-09-14T15:43:29.183Z"
  },
  "ko/bangkok-saladaeng": {
-  "hash": "4b384c07538c",
+  "hash": "1499db2b3992",
   "score": 1,
   "registerBreak": false,
-  "worst": "이 지역의 유사한 소셜 클럽들의 형식을 고려하면, 라운지 느낌의 좌석 공간부터 스카이라인이 직접 보이는 개방형 바 구역까지, 분위기가 저마다 다른 구역들을 만나게 될 가능성이 큽니다.",
-  "at": "2026-08-24T08:36:18.666Z"
+  "worst": "이 지역의 유사한 소셜 클럽들의 형식을 고려하면, 라운지 느낌의 좌석 공간부터 개방형 바 구역까지, 분위기가 저마다 다른 구역",
+  "at": "2026-09-14T15:43:30.935Z"
  },
  "ko/bangkok-the-grand-palace": {
-  "hash": "245e5029f076",
-  "score": 1,
+  "hash": "9571c8660165",
+  "score": 0,
   "registerBreak": false,
-  "worst": "이 불상은 이름과 달리 에메랄드가 아니라 하나의 녹색 옥(비취 또는 벽옥) 덩어리로 조각되었으며",
-  "at": "2026-08-24T08:36:22.470Z"
+  "worst": "",
+  "at": "2026-09-14T15:43:31.659Z"
  },
  "ko/bangkok-the-island-bangkok-top-rated-thai-restaurant-bar": {
-  "hash": "5973e3dd2410",
+  "hash": "05d3d4f9dfe1",
   "score": 1,
   "registerBreak": false,
-  "worst": "태국의 대부분 레스토랑과 마찬가지로, 영업시간이나 서비스 요금, 세트 메뉴 가격 등은 음식보다 자주 바뀔 수 있으니",
-  "at": "2026-08-24T08:36:23.325Z"
+  "worst": "이는 프라나콘(Phra Nakhon) 지구의 다른 경쟁 업소들을 압도하는 리뷰 수와 평점입니다.",
+  "at": "2026-09-14T15:43:33.488Z"
  },
  "ko/bangkok-the-reclining-buddha": {
-  "hash": "7d2660302d4c",
+  "hash": "f6b4ed64d88f",
   "score": 1,
   "registerBreak": false,
-  "worst": "금박을 입힌 불상 자체는 길이 약 46미터, 높이 약 15미터에 달하는 거대한 규모로, 발바닥에는 자개 세공으로...",
-  "at": "2026-08-24T08:36:21.685Z"
+  "worst": "금박을 입힌 불상 자체는 길이 약 46미터, 높이 약 15미터에 달하는 거대한 규모로, 발바닥에는...",
+  "at": "2026-09-14T15:43:33.942Z"
  },
  "ko/bangkok-somsak": {
-  "hash": "8b1fa6837230",
+  "hash": "b7c1d37e8db1",
   "score": 1,
   "registerBreak": false,
-  "worst": "솜삭은 이런 공식을 태국 동북부 요리에 그대로 적용하면서, 스코틀랜드에서 큰돈을 벌어 고향으로 돌아온 방콕 택시기사",
-  "at": "2026-08-24T08:36:26.397Z"
+  "worst": "이 콘셉트를 만든 팀은 팻보이 이자카야로, 정통성 있는 음식과 맥시멀리즘 디자인, 파티 같은 분위기를 결합한 곳으로 이미 이름이",
+  "at": "2026-09-14T15:43:38.573Z"
  },
  "ko/bangkok-treehouse-cafe-bar": {
-  "hash": "e0998c9db7a9",
+  "hash": "96da84788f6f",
   "score": 1,
   "registerBreak": false,
   "worst": "이곳의 인스타그램 친화적인 디자인은 특히 주말과 저녁 시간대에 현지 방문객과 사진작가들을 꾸준히 끌어들이기 때문입니다.",
-  "at": "2026-08-24T08:36:24.818Z"
+  "at": "2026-09-14T15:43:39.566Z"
  },
  "ko/bangkok-view-rooftop-bangkok": {
-  "hash": "11de643c6dd1",
+  "hash": "9b53a439d335",
   "score": 1,
   "registerBreak": false,
   "worst": "이곳의 매력은 어느 하나의 압도적인 전망이 아니라, 옆 건물을 올려다볼 필요 없이 도시가 사방으로 펼쳐지는 모습을 딱 적당한 높이에서 감상할 수 있다는 감싸안는 듯한 느낌에 있습니다.",
-  "at": "2026-09-07T13:33:56.717Z"
+  "at": "2026-09-14T15:43:37.508Z"
  },
  "ko/barcelona-basilica-of-the-sagrada-familia": {
-  "hash": "ef4903d6d2fe",
-  "score": 1,
+  "hash": "b9efe261d354",
+  "score": 0,
   "registerBreak": false,
-  "worst": "동쪽에 위치해 카레르 데 마리나(Carrer de Marina)를 마주보는 탄생의 파사드는 가우디가 직접 작업한 부분으로",
-  "at": "2026-08-24T08:36:27.371Z"
+  "worst": "",
+  "at": "2026-09-14T15:43:40.083Z"
  },
  "ko/barcelona-christopher-columbus-monument": {
-  "hash": "3ea9c645d8cf",
+  "hash": "8fbe00cba4f7",
   "score": 1,
   "registerBreak": false,
-  "worst": "기둥 기단 안쪽에는 작은 엘리베이터가 있어 방문객들을 콜럼버스 상 발밑 바로 아래의 전망대까지 태워다 줍니다",
-  "at": "2026-09-07T13:34:01.051Z"
+  "worst": "그때 눈앞에 나타나는 것이 바로 이 기둥입니다: 짙은 붉은빛의 코린트식 홈이 파인 원형 기둥이...",
+  "at": "2026-09-14T15:43:41.909Z"
  },
  "ko/barcelona-casa-batllo": {
-  "hash": "0ea62ca6f1dc",
+  "hash": "7f09b114b2bb",
   "score": 1,
   "registerBreak": false,
-  "worst": "안토니 가우디는 1904년에서 1906년 사이에 이 아파트 건물을 재설계했는데, 건물 전체가 마치 열병에 걸린 꿈을 돌과 유리로 옮겨놓은 듯합니다",
-  "at": "2026-09-07T13:33:59.180Z"
+  "worst": "지어졌다기보다 아이싱을 입힌 듯한 외벽에는 파랑, 초록, 보라 빛깔의 깨진 도자기 조각들이 촘촘히 박혀 있어",
+  "at": "2026-09-14T15:43:41.522Z"
  },
  "ko/barcelona-ciutadella-park": {
-  "hash": "463c439a0920",
+  "hash": "33d6375e5fd9",
   "score": 1,
   "registerBreak": false,
-  "worst": "그래서 평범한 잔디밭 위의 오후 풍경 사이로 연철 대문이나 장식용 분수, 성처럼 생긴 붉은 벽돌 건물을 우연히 발견하게 되는 것이죠.",
-  "at": "2026-09-07T13:34:02.043Z"
+  "worst": "이 공원은 시우타트 베야(Ciutat Vella) 지구, 고딕 지구(Gothic Quarter)와 엘 본(El Born) 바로 북동쪽에 위치해 있으며",
+  "at": "2026-09-14T15:43:43.096Z"
  },
  "ko/barcelona-gloria-osteria": {
-  "hash": "7f0b7964fe24",
+  "hash": "eebfcc328610",
   "score": 1,
   "registerBreak": false,
-  "worst": "조용하고 촛불이 켜진 트라토리아를 기대하고 가신다면 오산입니다.",
-  "at": "2026-08-15T06:01:03.194Z"
+  "worst": "이곳이 그만한 수고를 들일 가치가 있는 이유는 단순히 새롭다는 점 때문만은 아닙니다.",
+  "at": "2026-09-14T15:43:43.375Z"
  },
  "ko/barcelona-la-pedrera-casa-mila": {
-  "hash": "c2981df6b251",
+  "hash": "3fba56ee97c1",
   "score": 1,
   "registerBreak": false,
-  "worst": "측정된 유동 인구 패턴은 꽤 일관적인데, 개장 직후와 저녁 시간에는 한산하지만 주말 오전...",
-  "at": "2026-09-07T13:34:07.834Z"
+  "worst": "측정된 유동 인구 패턴은 꽤 일관적인데, 개장 직후와 저녁 시간에는 한산하지만 주말 오전 11시부터",
+  "at": "2026-09-14T15:43:45.955Z"
  },
  "ko/barcelona-la-merce-festival": {
-  "hash": "249389008b0c",
+  "hash": "4645f14f3df4",
   "score": 1,
   "registerBreak": false,
   "worst": "이 외에도 죽마 같은 틀 위에 세워진 거대한 채색 인형 게간츠(gegants)가 고딕 지구를 행진하고",
-  "at": "2026-08-24T08:36:30.223Z"
+  "at": "2026-09-14T15:43:44.554Z"
  },
  "ko/barcelona-la-rambla": {
-  "hash": "59211f5dee2e",
+  "hash": "9e586fa886aa",
   "score": 1,
   "registerBreak": false,
   "worst": "각 구간은 18세기에 이 대로가 옛 계절천(아랍어로 \"ramla\") 위에 포장되기 전, 그 자리에 있던 것들의 이름을 따서 붙여졌습니다.",
-  "at": "2026-09-07T13:34:05.389Z"
+  "at": "2026-09-14T15:43:45.639Z"
  },
  "ko/barcelona-mercat-de-la-boqueria": {
-  "hash": "40c6c5937e9c",
+  "hash": "9e7dfff2a2e3",
   "score": 1,
   "registerBreak": false,
-  "worst": "이곳은 바르셀로나에서 가장 많이 찾는 식료품 시장 중 하나이니, 조용한 숨은 명소를 기대하기보다는 인파를 예상하고 그 인파를 피하기보다 앞서가는 전략을 세우는 편이 낫다.",
-  "at": "2026-09-07T13:34:06.204Z"
+  "worst": "안쪽과 옆쪽 통로에는 이 시장에서 다들 알지만 딱히 비밀도 아닌 최고의 명소가 숨어 있는데",
+  "at": "2026-09-14T15:43:45.467Z"
  },
  "ko/barcelona-museu-d-art-contemporani-de-barcelona": {
-  "hash": "c486701097a7",
+  "hash": "1192dd1175ef",
   "score": 1,
   "registerBreak": false,
-  "worst": "이 건물은 지금도 하나의 건축적 선언문처럼 읽힙니다.",
-  "at": "2026-09-07T13:34:11.684Z"
+  "worst": "스케이트보더들을 지나치게 될 텐데, 이는 이 광장의 일상적인 풍경 중 하나입니다.",
+  "at": "2026-09-14T15:43:49.289Z"
  },
  "ko/barcelona-park-guell": {
-  "hash": "976aab4479b6",
+  "hash": "75f26baf7513",
   "score": 1,
   "registerBreak": false,
-  "worst": "이곳은 세계적으로 유명하고 방문객이 매우 많은 명소이기 때문에, 메인 테라스에서 조용한 숨은 공간을 기대하기는 어렵습니다.",
-  "at": "2026-09-07T13:34:08.655Z"
+  "worst": "십중팔구 그렇게 될 겁니다.",
+  "at": "2026-09-14T15:43:48.301Z"
  },
  "ko/barcelona-parada-torres": {
-  "hash": "3ee5234e0081",
+  "hash": "d1bd0893dcc7",
   "score": 1,
   "registerBreak": false,
-  "worst": "이런 시장 지향적 구조는 의도된 것으로, 시장 안에 우연히 자리한 레스토랑이 아니라 산타 카테리나 시장의 일상적 리듬을",
-  "at": "2026-08-24T08:36:42.976Z"
+  "worst": "이런 시장 지향적 구조는 의도된 것으로, 시장 안에 우연히 자리한 레스토랑이 아니라 산타 카테리나 시장의 일상적 리듬을 그대로 연장한 공간처럼 느껴지도록 만들어졌습니다.",
+  "at": "2026-09-14T15:43:48.165Z"
  },
  "ko/barcelona-mirador-torre-glories": {
-  "hash": "8256a4ab8692",
+  "hash": "666166a1a045",
   "score": 1,
   "registerBreak": false,
-  "worst": "경치는 별로지만 그 랜드마크와 함께 묶어 방문하기엔 편리합니다.",
-  "at": "2026-09-07T13:34:06.861Z"
+  "worst": "처음엔 방향감을 잡기가 꽤 어려우니 유용합니다.",
+  "at": "2026-09-14T15:43:47.303Z"
  },
  "ko/barcelona-museu-nacional-d-art-de-catalunya": {
-  "hash": "327d9e690791",
+  "hash": "a4fab771c836",
   "score": 1,
   "registerBreak": false,
   "worst": "대부분의 방문객은 이 전망을 보려고 계속 뒤돌아보다가 미술관 정문에 등을 대고 부딪힐 뻔합니다.",
-  "at": "2026-09-07T13:34:08.502Z"
+  "at": "2026-09-14T15:43:47.582Z"
  },
  "ko/beijing-temple-of-heaven": {
-  "hash": "0d83ca895b9f",
+  "hash": "563cfe3bb5eb",
   "score": 1,
   "registerBreak": false,
   "worst": "둥청구(Dongcheng District)의 교통 소음은 어느새 저 멀리 사라집니다.",
-  "at": "2026-09-07T13:34:16.124Z"
- },
- "ko/beijing-prince-gong-mansion": {
-  "hash": "eda532207f5c",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "바로 이 점이 궁왕푸를 베이징의 대표적인 관광지들과 다르게 만드는 요소입니다.",
-  "at": "2026-09-07T13:34:17.260Z"
+  "at": "2026-09-14T15:44:01.777Z"
  },
  "ko/bhubaneswar-regional-museum-of-natural-history": {
   "hash": "14a5a1832a1a",
@@ -5607,11 +5600,11 @@
   "at": "2026-08-15T02:51:51.083Z"
  },
  "ja/granada-nasrid-palaces": {
-  "hash": "65689e24ae10",
+  "hash": "61fb982e6b92",
   "score": 1,
   "registerBreak": false,
-  "worst": "「勝者は神のみ(There is no victor but God)」という言葉が刻まれています。",
-  "at": "2026-08-15T02:51:53.033Z"
+  "worst": "何より重要なのは次の一点です。チケットにはナスル宮殿入場のための30分刻みの時間枠が記載されており",
+  "at": "2026-09-14T15:41:23.198Z"
  },
  "ja/guangzhou-chen-clan-ancestral-hall": {
   "hash": "da0c905d570c",
@@ -5768,11 +5761,11 @@
   "at": "2026-08-15T02:52:32.623Z"
  },
  "ja/hiroshima-mitaki-temple": {
-  "hash": "9c8b7a4190c5",
+  "hash": "b39fa5304d27",
   "score": 1,
   "registerBreak": false,
-  "worst": "人出データによると、平日・週末を問わず午前8時から午後6時の間は概ね静かで、これは紅葉シーズンの観光地としては日本では実に珍しいことです。",
-  "at": "2026-08-15T02:52:34.525Z"
+  "worst": "人出のデータによると、平日・週末を問わず午前8時から午後5時の間は落ち着いた状態が保たれており、これは日本の紅葉シーズンの観光地としては実に珍しいことです。",
+  "at": "2026-09-14T15:41:25.216Z"
  },
  "ja/hiroshima-peace-memorial-park-hiroshima": {
   "hash": "aa188139b794",
@@ -11760,11 +11753,11 @@
   "at": "2026-08-15T03:21:41.993Z"
  },
  "es/hiroshima-mitaki-temple": {
-  "hash": "cc4735b55d19",
+  "hash": "e0d5c1c6b11c",
   "score": 1,
   "registerBreak": false,
-  "worst": "...nunca suben la colina hasta Mitaki-ji, y precisamente por eso se siente tan diferente cuando lo haces.",
-  "at": "2026-08-15T03:21:42.238Z"
+  "worst": "El salón principal (Hondo), con su pesado tejado de estilo de paja, se encuentra a media pendiente",
+  "at": "2026-09-14T15:41:21.110Z"
  },
  "es/ho-chi-minh-city-hai-s-restaurant": {
   "hash": "b0eca1a39ff3",
@@ -17185,11 +17178,11 @@
   "at": "2026-08-15T12:03:10.512Z"
  },
  "zh/granada-nasrid-palaces": {
-  "hash": "85ce62e084d5",
+  "hash": "cad12bf05568",
   "score": 1,
   "registerBreak": false,
-  "worst": "无论工作日还是周末,清晨都是宫殿内人最少的时段,这一点很明显。",
-  "at": "2026-08-15T03:51:44.481Z"
+  "worst": "比起任何一块说明牌，它更能道出纳斯里德王朝在格拉纳达那段长达250年、却始终摇摇欲坠的统治史。",
+  "at": "2026-09-14T15:43:13.953Z"
  },
  "zh/goa-naval-aviation-museum": {
   "hash": "2257ca2e81e6",
@@ -17339,11 +17332,11 @@
   "at": "2026-08-15T03:53:22.571Z"
  },
  "zh/hiroshima-mitaki-temple": {
-  "hash": "485392dbdec2",
+  "hash": "d28ced0c00b7",
   "score": 1,
   "registerBreak": false,
-  "worst": "人流数据显示，无论工作日还是周末，早上8点到晚上6点这段时间寺内都相对安静",
-  "at": "2026-08-15T03:53:24.354Z"
+  "worst": "人流数据显示，无论是工作日还是周末，早8点到下午5点这段时间寺内都相对清静——对于日本一处赏枫季的景点来说",
+  "at": "2026-09-14T15:42:02.963Z"
  },
  "zh/harbin-harbin-ice-snow-world": {
   "hash": "742410bbebef",
@@ -20706,25 +20699,25 @@
   "at": "2026-09-14T08:03:13.340Z"
  },
  "ko/barcelona-placa-nova": {
-  "hash": "49609d0d0172",
+  "hash": "736794dbb526",
   "score": 1,
   "registerBreak": false,
-  "worst": "대성당 계단 자체에 비하면 여전히 비교적 덜 알려진 곳이기에, 플라사 노바는 그냥 지나치지 않고 잠깐이라도 멈춰 서는 사람에게 보답을 해준다.",
-  "at": "2026-09-07T13:34:09.115Z"
+  "worst": "플라사 노바는 목적지가 아니라 잠시 멈춰가는 곳으로 대하는 게 좋다 — 실제로 그렇게 즐기는 게 가장 잘 어울린다.",
+  "at": "2026-09-14T15:43:53.011Z"
  },
  "ko/beijing-forbidden-city": {
-  "hash": "0f6664df5867",
+  "hash": "25c7a25472cd",
   "score": 1,
   "registerBreak": false,
-  "worst": "오문 앞에 서면 성벽처럼 둘러싼 양쪽 날개가 마치 돌로 만든 포옹처럼 당신을 감싸고...",
-  "at": "2026-09-07T13:34:13.388Z"
+  "worst": "오문(午門) 앞에 서면 성벽처럼 둘러싼 양쪽 날개가 마치 돌로 만든 포옹처럼 당신을 감싸고...",
+  "at": "2026-09-14T15:43:55.221Z"
  },
  "ko/bengaluru-aquarium-paradise": {
-  "hash": "78b57e910e07",
+  "hash": "868432cdc4d7",
   "score": 1,
   "registerBreak": false,
-  "worst": "박물관처럼 관람용으로 꾸며진 '명소'는 아닙니다. 매표소도 없고, 전시 설명판도 없습니다.",
-  "at": "2026-09-07T13:34:18.177Z"
+  "worst": "전시된 모든 것을 파는 작은 대중 수족관 같은 느낌을 줍니다.",
+  "at": "2026-09-14T15:44:03.475Z"
  },
  "ko/bologna-basilica-of-san-domenico": {
   "hash": "fe03e79c0254",
@@ -21168,11 +21161,11 @@
   "at": "2026-08-15T06:06:20.026Z"
  },
  "ko/hiroshima-mitaki-temple": {
-  "hash": "88630a6f94eb",
+  "hash": "a86dfd5e73c1",
   "score": 1,
   "registerBreak": false,
-  "worst": "법당에서 쉽게 벗고 신을 수 있는 신발을 신고 가시고, 입구 근처에서 현지 과자를 파는 작은 찻집을 위해 약간의 현금도",
-  "at": "2026-08-15T08:30:20.955Z"
+  "worst": "방문객 흐름 데이터에 따르면 이 사찰은 평일과 주말 모두 오전 8시부터 오후 5시까지 대체로 한산한 편인데",
+  "at": "2026-09-14T15:43:11.832Z"
  },
  "ko/hiroshima-peace-memorial-park-hiroshima": {
   "hash": "eee02668ac6f",
@@ -23408,11 +23401,11 @@
   "at": "2026-09-08T14:37:40.515Z"
  },
  "ko/bangkok-wat-arun-ratchawararam-ratchawaramahawihan": {
-  "hash": "2d277a772e4e",
+  "hash": "fd36d19089fa",
   "score": 1,
   "registerBreak": false,
   "worst": "거의 45,000개에 달하는 리뷰에서 평점 4.7을 기록하며, 방콕 최고의 사원 방문지 중 하나로 꾸준히 꼽히고 있습니다.",
-  "at": "2026-08-24T08:36:27.145Z"
+  "at": "2026-09-14T15:43:44.269Z"
  },
  "ko/florence-palazzo-vecchio": {
   "hash": "d134458431f6",
@@ -23996,11 +23989,11 @@
   "at": "2026-08-15T09:10:03.434Z"
  },
  "es/granada-nasrid-palaces": {
-  "hash": "1688d971ae95",
+  "hash": "0f5f1b471dff",
   "score": 1,
   "registerBreak": false,
-  "worst": "El Patio de los Arrayanes, con su largo estanque reflectante y la Torre de Comares... duplicada en el agua",
-  "at": "2026-08-15T09:10:13.498Z"
+  "worst": "tomar el minibús C3, que sube en bucle desde la Plaza Nueva y la Plaza Isabel",
+  "at": "2026-09-14T15:41:18.476Z"
  },
  "es/barcelona-the-grill-barcelona": {
   "hash": "0579c34f4423",
@@ -25375,25 +25368,25 @@
   "at": "2026-09-14T08:03:13.224Z"
  },
  "ko/bengaluru-lalbagh-botanical-garden": {
-  "hash": "5b2cee3175fb",
+  "hash": "b78033fb930c",
   "score": 1,
   "registerBreak": false,
   "worst": "약 30억 년 된 것으로 추정되는 회색빛 민둥 바위로, 지구상에서 가장 오래된 암석 지층 중 하나입니다.",
-  "at": "2026-09-07T13:34:20.239Z"
+  "at": "2026-09-14T15:44:07.082Z"
  },
  "ko/bengaluru-manchanabele-dam": {
-  "hash": "4abc9cd56754",
+  "hash": "37dcdc16ba30",
   "score": 1,
   "registerBreak": false,
-  "worst": "수위는 몬순 시기에 따라 크게 달라집니다. 우기 직후에 방문하면 저수지가 가득 차 있어 장관을 이루지만...",
-  "at": "2026-09-07T13:34:20.117Z"
+  "worst": "오히려 소박하고 수수하며, 우연히 존재하는 듯한 느낌마저 드는데, 바로 그 점이 이곳의 매력입니다.",
+  "at": "2026-09-14T15:44:07.696Z"
  },
  "ko/bengaluru-museum-of-art-photography-map": {
-  "hash": "fce1b4d46b5c",
+  "hash": "c112bb44b8d3",
   "score": 1,
   "registerBreak": false,
   "worst": "MAP는 인도 박물관 중에서도 드물게, 기존 식민지 시대 건물을 개조한 것이 아니라 상설 컬렉션을 위해",
-  "at": "2026-09-07T13:34:25.565Z"
+  "at": "2026-09-14T15:44:12.977Z"
  },
  "ko/chengdu-anshun-bridge": {
   "hash": "3ef11727542b",
@@ -25676,11 +25669,11 @@
   "at": "2026-09-14T14:15:18.123Z"
  },
  "ko/beijing-national-museum-of-china": {
-  "hash": "980646cd4ec5",
+  "hash": "2962ddd1cc78",
   "score": 1,
   "registerBreak": false,
-  "worst": "입장이 무료이다 보니 굳이 이곳을 건너뛸 금전적 이유가 없고, 바로 그래서 시간대별 예약 제도가 존재하는 것입니다.",
-  "at": "2026-09-07T13:34:19.099Z"
+  "worst": "박물관은 동창안제(東長安街) 16번지에 있으며, 톈안먼 광장의 동쪽 벽을 이룹니다.",
+  "at": "2026-09-14T15:43:59.414Z"
  },
  "ko/central-cupping-room-central": {
   "hash": "8b9343298675",
@@ -26663,11 +26656,11 @@
   "at": "2026-08-22T09:28:35.194Z"
  },
  "ko/battambang-bamboo-train-battambang": {
-  "hash": "04331701d734",
+  "hash": "d9a3d4ec2879",
   "score": 1,
   "registerBreak": false,
-  "worst": "단선 철로이다 보니, 맞은편에서 오는 노리와 마주쳤을 때 어떻게든 길을 터야 합니다.",
-  "at": "2026-09-07T13:34:10.911Z"
+  "worst": "이런 탈것은 세상 어디에도 없습니다.",
+  "at": "2026-09-14T15:43:53.168Z"
  },
  "zh/battambang-bamboo-train-battambang": {
   "hash": "c4cb60d9293b",
@@ -26803,11 +26796,11 @@
   "at": "2026-09-14T14:15:08.029Z"
  },
  "ko/bangkok-roast8ry-bangkok": {
-  "hash": "22d6a321ed50",
+  "hash": "f4050c279d25",
   "score": 1,
   "registerBreak": false,
-  "worst": "특히 해 지기 한 시간 전 햇빛이 숍하우스 정면을 정면으로 비출 때가 가장 아름답습니다.",
-  "at": "2026-08-24T08:36:22.869Z"
+  "worst": "세계 챔피언의 기술이 한 잔의 커피에 어떤 차이를 만드는지 직접 맛보는 것, 그것이 이곳을 찾는 진짜 이유이기 때",
+  "at": "2026-09-14T15:43:30.221Z"
  },
  "ko/boryeong-national-museum-of-korea": {
   "hash": "de1d8caa244d",
@@ -27034,11 +27027,11 @@
   "at": "2026-08-26T09:49:34.207Z"
  },
  "ko/battambang-banan-temple": {
-  "hash": "43876289dd76",
+  "hash": "f4a0fe8eb02b",
   "score": 1,
   "registerBreak": false,
-  "worst": "무리하지 말고 물을 챙기며 지그재그로 꺾이는 계단 참에서 잠시 쉬어가세요.",
-  "at": "2026-09-07T13:34:11.132Z"
+  "worst": "마치 앙코르 와트의 작고 조용한 사촌뻘 유적이 세월의 풍파에 그대로 방치된 듯한 모습입니다.",
+  "at": "2026-09-14T15:43:52.327Z"
  },
  "ko/kampot-green-cathedral": {
   "hash": "041b127b3ddc",
@@ -27130,13 +27123,6 @@
   "registerBreak": false,
   "worst": "ザービールの地上230メートル、2棟のタワーの間に浮かび、ガラス一枚を隔てて街並みと向き合いながらいただく特別な一皿なのです。",
   "at": "2026-08-28T09:07:53.032Z"
- },
- "ko/beijing-arabica-baitasi-store": {
-  "hash": "92727bcf4593",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "석탄 온기가 밴 벽돌, 후통 골목에서 날리는 흙먼지, 그리고... 향 냄새가 그것입니다.",
-  "at": "2026-08-28T09:08:04.094Z"
  },
  "ko/clarke-quay-fort-canning-park": {
   "hash": "87984f3942d9",
@@ -27873,13 +27859,6 @@
   "worst": "어스 하우스는 미안해하지 않는 플랜트 기반 요리로 명성을 쌓았습니다.",
   "at": "2026-09-14T14:15:44.318Z"
  },
- "ko/bangkok-suan-luang-rama-ix": {
-  "hash": "7137b22ca156",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "방콕의 습도는 어느 공원에 있든 봐주지 않습니다.",
-  "at": "2026-09-07T13:33:58.733Z"
- },
  "ko/beijing-china-open-tennis": {
   "hash": "0b92005b9550",
   "score": 1,
@@ -27888,25 +27867,18 @@
   "at": "2026-09-07T13:34:12.649Z"
  },
  "ko/beijing-summer-palace": {
-  "hash": "f8a3937adf8c",
+  "hash": "3e87948f1e70",
   "score": 1,
   "registerBreak": false,
-  "worst": "동궁문을 지나면 인파를 따라 여러 개의 정원을 차례로 지나게 되는데, 검은 목조 건물과 붉은 기둥으로 이루어진",
-  "at": "2026-09-07T13:34:15.633Z"
+  "worst": "그 사이를 120만 제곱미터(약 300에이커)에 달하는 누각과 다리, 회랑들이 촘촘히 이어 줍니다.",
+  "at": "2026-09-14T15:44:04.331Z"
  },
  "ko/beijing-the-palace-museum": {
-  "hash": "08bddd001954",
+  "hash": "e602c8335c85",
   "score": 1,
   "registerBreak": false,
-  "worst": "왔던 길로 그대로 되돌아 나가는 단체 관광객들은 대부분 놓치는 보상 같은 순간입니다.",
-  "at": "2026-09-07T13:34:17.404Z"
- },
- "ko/bengaluru-bengaluru-fort": {
-  "hash": "ea9635846d0a",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "주소는 XH7G+49C, Krishna Rajendra Road, New Tharagupet, Bengaluru 560002이며...",
-  "at": "2026-09-07T13:34:19.486Z"
+  "worst": "결제는 현금보다 거의 전적으로 모바일 앱(알리페이나 위챗페이)으로 이루어지므로, 방문 전에 미리 설정해두세요.",
+  "at": "2026-09-14T15:44:03.459Z"
  },
  "es/kolkata-biswa-bangla-gate": {
   "hash": "290d3fca5283",
@@ -28657,20 +28629,6 @@
   "worst": "쓰레기통은 마련되어 있지만, 통에 넣을 수 없는 쓰레기는 직접 되가져가고 손으로 먹이를 주는 일이 없도록...",
   "at": "2026-09-14T14:14:55.076Z"
  },
- "ko/arlington-bts-world-tour-arlington": {
-  "hash": "d39a8956521d",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "두 차례 공연은 2026년 8월 15일과 16일 AT&T 스타디움에서 열릴 예정이었으며...",
-  "at": "2026-09-14T14:14:58.801Z"
- },
- "ko/austin-radha-madhav-dham": {
-  "hash": "a50e7251dfb2",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "드리핑 스프링스 지역을 도는 더 넓은 여행 일정에 포함시키는 것을, 단독 방문보다는 추천합니다.",
-  "at": "2026-09-14T14:14:59.200Z"
- },
  "ko/avignon-the-bridge-of-avignon": {
   "hash": "cfff005400ae",
   "score": 0,
@@ -28684,20 +28642,6 @@
   "registerBreak": false,
   "worst": "이 축제는 1980년대에 어려운 경제 상황에 맞서기 위한 시민들의 의도적인 대응, 즉 고난 속",
   "at": "2026-09-14T14:15:12.193Z"
- },
- "ko/bali-bingin-uluwatu-pak-gula": {
-  "hash": "660a1cec837c",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "레스토랑은 2층 구조로 되어 있어 층마다 분위기가 다른데, 1층은 워크인 손님을 위한 다소 차분한 공간이고, 2층은 그룹 모임과 저녁 술자리에 어울리는 좀 더 활기찬 공간일 것으로 예상됩니다.",
-  "at": "2026-09-14T14:15:16.712Z"
- },
- "ko/bali-oryn": {
-  "hash": "76506e503dc7",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "오랜 기간 쌓인 평판 때문이 아니라요.",
-  "at": "2026-09-14T14:15:20.598Z"
  },
  "ko/bali-motel-mexicola-uluwatu": {
   "hash": "e3d8d936240a",
@@ -28726,5 +28670,138 @@
   "registerBreak": false,
   "worst": "이곳은 실패할 확률이 낮은 좋은 선택입니다.",
   "at": "2026-09-14T14:15:33.961Z"
+ },
+ "ko/granada-nasrid-palaces": {
+  "hash": "3a64d7fc5557",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "그라나다 주민들과 재방문객들은 이 티켓 예약이야말로 전체 방문 과정에서 가장 어려운 부분이라는 것을, 걷는 것보다 더 어렵다는 것을 잘 알고 있습니다.",
+  "at": "2026-09-14T15:43:09.974Z"
+ },
+ "ko/al-ain-ethr-al-ain-oasis": {
+  "hash": "4d39219805fd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이런 매장들은 대체로 오아시스 전망이나 야자수 줄기와 관개수로로 둘러싸인 안뜰을 살려서...",
+  "at": "2026-09-14T15:43:18.792Z"
+ },
+ "ko/austin-formula-1-united-states-grand-prix": {
+  "hash": "72b2496adf95",
+  "score": 2,
+  "registerBreak": false,
+  "worst": "오스틴 주민들은 자주 이 대회를 찾을수록 금요일 연습 주행을 노립니다.",
+  "at": "2026-09-14T15:43:20.381Z"
+ },
+ "ko/andong-talbing-go": {
+  "hash": "711be9d51787",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "'탈빙고'라는 이름 자체가 이 지역의 '탈' 유산을 가리키는데, 탈박물관 소장품의 그늘 아래 서 있는",
+  "at": "2026-09-14T15:43:21.498Z"
+ },
+ "ko/bali-cure-bali": {
+  "hash": "f098bacf3804",
+  "score": 2,
+  "registerBreak": false,
+  "worst": "큐어 발리는 리젠트 발리 창구 안에 자리하고 있는데, 이곳은 이 지역에서 가장 최근에 문을 연 5성급 호텔 중 하나로...",
+  "at": "2026-09-14T15:43:21.565Z"
+ },
+ "ko/bangkok-kodaline-farewell-tour": {
+  "hash": "99af7db877d8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이는 태국 내 팬층이 얼마나 깊은지를 보여주는 대목이었습니다.",
+  "at": "2026-09-14T15:43:23.361Z"
+ },
+ "ko/bangkok-david-byrne-live-in-bangkok": {
+  "hash": "4956de7d30aa",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "공연은 **2026년 8월 10일 월요일**, 방콕에서 손꼽히는 대형 실내 공연 전용 아레나인 **UOB 라이브**에서 열릴 예정이었습니다.",
+  "at": "2026-09-14T15:43:23.459Z"
+ },
+ "ko/avignon-musee-calvet": {
+  "hash": "546be3f24d4a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "인도까지 늘어선 줄도, 암표상도 없이 그저 연철 대문이 달린 옅은 색의 18세기 저택과 안뜰이 있을 뿐이고...",
+  "at": "2026-09-14T15:43:26.972Z"
+ },
+ "ko/abu-dhabi-middle-east-film-comic-con-mefcc-2026": {
+  "hash": "2a260e6cbc93",
+  "score": 2,
+  "registerBreak": false,
+  "worst": "홀 배정과 일별 개장 시간은 제3자가 아닌 주최 측이 직접 주말 일정에 맞춰 정한 정보였습니다.",
+  "at": "2026-09-14T15:43:27.410Z"
+ },
+ "ko/bangkok-piscari": {
+  "hash": "066d328ddb70",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "분위기도 달라지고 손님층도 아마 다를 것입니다.",
+  "at": "2026-09-14T15:43:32.429Z"
+ },
+ "ko/bangkok-the-temple-of-the-emerald-buddha": {
+  "hash": "c70bcb3aaad6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 8시 30분~9시 30분 구간은 주말에도 동일하게 적용됩니다.",
+  "at": "2026-09-14T15:43:34.452Z"
+ },
+ "ko/banlung-virachey-national-park": {
+  "hash": "3d2119aa026e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이렇게 외지고 미개발된 공원치고는 특별할 것 없이, 전체적인 방문객 수는 늘 적은 편입니다.",
+  "at": "2026-09-14T15:43:39.157Z"
+ },
+ "ko/bangkok-the-weeknd-after-hours-til-dawn-tour": {
+  "hash": "cb3681100ca5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 사실만으로도 더 위켄드가 방콕에 들고 오는 무대의 규모를 짐작할 수 있습니다.",
+  "at": "2026-09-14T15:43:40.885Z"
+ },
+ "ko/barcelona-la-colmena": {
+  "hash": "49f794c987bd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "무게(\"cent grams\", 즉 100그램이 흔히 요청하는 단위입니다)나 작은 상자를 말하면 됩니다.",
+  "at": "2026-09-14T15:43:43.120Z"
+ },
+ "ko/barcelona-the-grill-barcelona": {
+  "hash": "9940d2f90b9c",
+  "score": 1,
+  "registerBreak": true,
+  "worst": "바르셀로나에서 가장 사진이 많이 찍히는 광장 중 하나에 자리한 곳이다 보니, 방문객들이 가장 많이 저지르는 실수는...",
+  "at": "2026-09-14T15:43:50.266Z"
+ },
+ "ko/barcelona-romo": {
+  "hash": "299ae10e8e1d",
+  "score": 2,
+  "registerBreak": false,
+  "worst": "무게 단위로 잘라 파는 사각형의 로마식 \"피자 알 탈리오\"를 먹어본 적이 있든, 앉아서 먹는 둥글고 얇은 버전을 먹어본 적이 있든, 어느 쪽이든",
+  "at": "2026-09-14T15:43:58.145Z"
+ },
+ "ko/barcelona-the-weeknd-live-in-concert": {
+  "hash": "7f43da1f6378",
+  "score": 2,
+  "registerBreak": false,
+  "worst": "바르셀로나 공연 날짜는 2026년 9월 1일로, 그의 월드 투어 일정 중 하나였습니다.",
+  "at": "2026-09-14T15:44:05.432Z"
+ },
+ "ko/bengaluru-bengaluru-palace": {
+  "hash": "d2aca59560ad",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "1880년대 와디야르(Wadiyar) 왕실을 위해 지어졌고 윈저성을 의식적으로 본떠 설계된 이 궁전은...",
+  "at": "2026-09-14T15:44:05.665Z"
+ },
+ "ko/bengaluru-chet-faker-a-love-for-strangers-tour": {
+  "hash": "34c012ee8161",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "벵갈루루 공연의 정확한 장소는 이 글에서 함부로 추정할 사안이 아닙니다.",
+  "at": "2026-09-14T15:44:15.260Z"
  }
 }

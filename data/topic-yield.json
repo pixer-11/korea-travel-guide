@@ -26,7 +26,7 @@
    "hits": 6
   },
   "waterfront": {
-   "attempts": 22,
+   "attempts": 30,
    "hits": 3
   },
   "museum": {
@@ -34,7 +34,7 @@
    "hits": 117
   },
   "noodles": {
-   "attempts": 32,
+   "attempts": 43,
    "hits": 0
   },
   "old quarter": {
@@ -50,7 +50,7 @@
    "hits": 0
   },
   "seafood": {
-   "attempts": 58,
+   "attempts": 60,
    "hits": 2
   },
   "hidden gem": {
@@ -78,7 +78,7 @@
    "hits": 0
   },
   "vegetarian": {
-   "attempts": 6,
+   "attempts": 10,
    "hits": 0
   },
   "concept cafe": {
@@ -178,5 +178,5 @@
    "hits": 0
   }
  },
- "updated": "2026-09-14T08:16:11.812Z"
+ "updated": "2026-09-14T15:39:25.876Z"
 }
