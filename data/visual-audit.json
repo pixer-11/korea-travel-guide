@@ -16967,8 +16967,8 @@
  "little-india-former-house-of-tan-teng-niah\u0001https://fastly.4sqi.net/img/general/original/58563680_9ZCugZu4LqvzpKjyZGIn8k1lQBv17Sjro6AqDSH0VXY.jpg": {
   "slug": "little-india-former-house-of-tan-teng-niah",
   "verdict": "MATCH",
-  "reason": "patrol replace: Colorful Chinese heritage building in Little India, Singapor",
-  "at": "2026-09-12T21:34:11.655Z"
+  "reason": "patrol replace: Colorful heritage building, Little India Singapore architect",
+  "at": "2026-09-14T22:39:27.486Z"
  },
  "seoul-2026-coupang-play-series-manchester-city-vs-atletico-madrid\u0001https://upload.wikimedia.org/wikipedia/commons/c/c4/The_Tallest_Man_on_Earth-8_%2828937100811%29.jpg": {
   "slug": "seoul-2026-coupang-play-series-manchester-city-vs-atletico-madrid",
@@ -19068,5 +19068,17 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior shrine building, plausible Ikuta Shrine main hall view",
   "at": "2026-09-14T08:16:11.789Z"
+ },
+ "tainan-yu-dao\u0001https://fastly.4sqi.net/img/general/original/12977487_u8xDBPkZn_T_OU8T5tg7e6L4mcSPvw27eJHrs4bD6Yw.jpg": {
+  "slug": "tainan-yu-dao",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Hotel bedroom shown, not a restaurant",
+  "at": "2026-09-14T22:41:21.780Z"
+ },
+ "tainan-yu-dao\u0001https://fastly.4sqi.net/img/general/original/18555337_YiDj5p_-OXArGv4gNf5nq-4iHaeiZ3QLtFlmO6UV1nY.jpg": {
+  "slug": "tainan-yu-dao",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Hotel bedroom, not a restaurant venue",
+  "at": "2026-09-14T22:41:23.921Z"
  }
 }
