@@ -70,6 +70,41 @@ for (const lang of LANGS) {
   } else {
     console.log(`  ✓ ${label}: ${rows.length} dated row(s) rendered`);
   }
+
+  // The two renderers must name a place the same way. On 2026-09-14 the live
+  // Korean page opened on "Siem Reap Art Center Night Market" — the server list
+  // skipped the translated-title step — while the island carried
+  // "시엠립 아트센터 나이트마켓" for the same slug, so the name changed under
+  // the reader the moment they pressed the button.
+  const disagreements = namesThatDisagree(html);
+  if (disagreements.length) {
+    console.log(`  ❌ ${label}: server list and island name ${disagreements.length} place(s) differently — e.g. ${disagreements[0]}`);
+    failed++;
+  }
+}
+
+/**
+ * Venue names in the server-rendered closure list that differ from the
+ * island's name for the same slug. Exported shape kept tiny so the rule can
+ * be read at a glance; the island is the reference because it is the list the
+ * reader ends up with after any interaction.
+ */
+function namesThatDisagree(html) {
+  const island = new Map();
+  for (const m of html.matchAll(/"slug":"([^"]+)","name":"((?:[^"\\]|\\.)*)"/g)) {
+    try { island.set(m[1], JSON.parse(`"${m[2]}"`)); } catch { /* unreadable entry: not ours to judge */ }
+  }
+  const start = html.search(/id="wc-closure-list"/);
+  const end = html.search(/id="wc-closure-empty"/);
+  if (start < 0 || end < start) return [];
+  const out = [];
+  const decode = (s) => s.replace(/&amp;/g, '&').replace(/&#39;/g, "'").replace(/&quot;/g, '"').replace(/&lt;/g, '<').replace(/&gt;/g, '>');
+  for (const m of html.slice(start, end).matchAll(/<a\b[^>]*href="[^"]*\/posts\/([^"/]+)\/?"[^>]*>([^<]*)<\/a>/g)) {
+    const want = island.get(m[1]);
+    const got = decode(m[2]).trim();
+    if (want !== undefined && want !== got) out.push(`${m[1]}: "${got}" ≠ "${want}"`);
+  }
+  return out;
 }
 
 if (failed) {
