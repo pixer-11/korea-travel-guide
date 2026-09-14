@@ -105,8 +105,10 @@ for (const f of files) {
       const tallish = m.height >= m.width * 0.85; // portrait or near-square
       if ((isEvent || tallish) && client && !DRY) {
         const subject = d.place?.name || d.title;
-        rec.focus = await askFocus(buf, subject);
+        // Counted BEFORE the call: a call that throws (a truncated reply) was
+        // still paid for, and the summary must say so.
         asked++;
+        rec.focus = await askFocus(buf, subject);
         await sleep(200);
       } else if (!isEvent && !tallish) {
         skippedWide++;
@@ -128,6 +130,10 @@ for (const f of files) {
     if (!DRY && (measured + done) % 50 === 0) await writeFile(STATE, JSON.stringify(state, null, 1) + '\n');
   } catch (e) {
     failed++;
+    // A failed uncached hero used this run's budget too. Without this, a
+    // reply that keeps truncating skipped `done++`, so FOCUS_LIMIT=25 made 26+
+    // paid calls and every later night repeated them (Codex, 2026-09-14).
+    if (!cached) done++;
     console.log(`  ⚠ ${slug}: ${e.message.slice(0, 60)}`);
   }
 }

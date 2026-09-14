@@ -77,13 +77,21 @@ const IMG = TAG('img');
 // value three ways — "double", 'single', unquoted — and also allows a bare
 // attribute with no value, which means the empty string. Astro renders alt=""
 // as a bare `alt`; until 2026-09-14 this reader called that "missing" and
-// flagged 260 correctly decorative placeholder images. The leading \s keeps
-// data-alt="…" from counting as alt.
+// flagged 260 correctly decorative placeholder images.
+//
+// The tag is read attribute by attribute, each quoted value consumed whole, so
+// a word INSIDE a value is never taken for an attribute name. The first version
+// of this fix searched for " alt" anywhere in the tag, and a Codex review showed
+// it reading src="" out of title="Use src for the image" and alt="" out of
+// src="/photos/the alt view.webp" (2026-09-14). data-alt is its own name.
+const ATTRS = /\s([^\s"'>\/=]+)(?:\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\s"'>]+)))?/g;
 const attr = (tag, name) => {
-  const re = new RegExp(`\\s${name}(?:\\s*=\\s*(?:"([^"]*)"|'([^']*)'|([^\\s"'>]+)))?(?=[\\s/>])`, 'i');
-  const m = tag.match(re);
-  if (!m) return null;
-  return m[1] ?? m[2] ?? m[3] ?? '';
+  const inner = String(tag).replace(/^<[^\s>\/]+/, '').replace(/\/?>$/, '');
+  const want = name.toLowerCase();
+  for (const m of inner.matchAll(ATTRS)) {
+    if (m[1].toLowerCase() === want) return m[2] ?? m[3] ?? m[4] ?? '';
+  }
+  return null;
 };
 
 // ---- rule 3: affiliate date parameters that have gone stale ----

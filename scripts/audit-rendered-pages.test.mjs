@@ -313,3 +313,17 @@ test('값 없는 alt 는 빈 alt 로 읽고, data-alt 만 있는 img 는 여전�
   assert.equal(r2.code, 1, r2.out);
   assert.match(r2.out, /IMG-NO-ALT/);
 });
+
+// 코덱스 재현(2026-09-14): 따옴표 안의 단어를 속성 이름으로 읽으면 안 된다.
+test('속성값 안의 단어는 속성이 아니다 — title 안의 src, src 안의 alt', () => {
+  const okRoot = dist({ 'a/index.html': ok('<img title="Use src for the image" src="/x.webp" alt="Place">') });
+  const r1 = run(okRoot);
+  rmSync(okRoot, { recursive: true, force: true });
+  assert.equal(r1.code, 0, r1.out);
+
+  const badRoot = dist({ 'b/index.html': ok('<img src="/photos/the alt view.webp">') });
+  const r2 = run(badRoot);
+  rmSync(badRoot, { recursive: true, force: true });
+  assert.equal(r2.code, 1, r2.out);
+  assert.match(r2.out, /IMG-NO-ALT/);
+});
