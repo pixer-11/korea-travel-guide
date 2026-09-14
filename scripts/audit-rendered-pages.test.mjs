@@ -294,3 +294,22 @@ test('<main> 이 둘이면 막고, 하나면 통과한다', () => {
   rmSync(one, { recursive: true, force: true });
   assert.equal(r2.code, 0, r2.out);
 });
+
+// 2026-09-14: Astro 는 alt="" 를 값 없는 `alt` 로 쓴다. HTML 에서 둘은 같은 뜻
+// (장식용 이미지)인데, 검사기가 `alt=` 만 알아봐서 사진 없는 카드 260장을
+// "alt 없음"으로 잡았다. 값 없는 속성은 빈 값이다. data-alt 는 alt 가 아니다.
+test('값 없는 alt 는 빈 alt 로 읽고, data-alt 만 있는 img 는 여전히 잡는다', () => {
+  const okRoot = dist({
+    'a/index.html': ok('<img src="/images/placeholder-market.svg" alt width="600" height="400">'),
+    'b/index.html': ok("<img src='/x.webp' alt='Seoul'>"),
+  });
+  const r1 = run(okRoot);
+  rmSync(okRoot, { recursive: true, force: true });
+  assert.equal(r1.code, 0, r1.out);
+
+  const badRoot = dist({ 'c/index.html': ok('<img src="/x.webp" data-alt="Seoul">') });
+  const r2 = run(badRoot);
+  rmSync(badRoot, { recursive: true, force: true });
+  assert.equal(r2.code, 1, r2.out);
+  assert.match(r2.out, /IMG-NO-ALT/);
+});

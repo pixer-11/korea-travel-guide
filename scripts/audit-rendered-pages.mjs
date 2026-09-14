@@ -73,9 +73,17 @@ const PLACEHOLDER = /\{[a-z][a-zA-Z0-9_]{0,20}\}/g;
 
 // ---- rule 2: images ----
 const IMG = TAG('img');
+// An attribute's value, or null when the tag does not carry it. HTML spells a
+// value three ways — "double", 'single', unquoted — and also allows a bare
+// attribute with no value, which means the empty string. Astro renders alt=""
+// as a bare `alt`; until 2026-09-14 this reader called that "missing" and
+// flagged 260 correctly decorative placeholder images. The leading \s keeps
+// data-alt="…" from counting as alt.
 const attr = (tag, name) => {
-  const m = tag.match(new RegExp(name + '\\s*=\\s*"([^"]*)"', 'i'));
-  return m ? m[1] : null;
+  const re = new RegExp(`\\s${name}(?:\\s*=\\s*(?:"([^"]*)"|'([^']*)'|([^\\s"'>]+)))?(?=[\\s/>])`, 'i');
+  const m = tag.match(re);
+  if (!m) return null;
+  return m[1] ?? m[2] ?? m[3] ?? '';
 };
 
 // ---- rule 3: affiliate date parameters that have gone stale ----
