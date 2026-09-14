@@ -44,10 +44,10 @@ jobs:
           # data/gsc-page-performance.json unstaged, and `git pull --rebase`
           # refuses to start with unstaged changes — which is how this job died
           # on 2026-09-14 after doing all of its work. It also meant the
-          # performance ledger, refreshed here every day and read by
+          # performance ledger, refreshed by this weekly run and read by
           # backfill-photos-alt to queue photos in earnings order, was thrown
-          # away with the runner: the committed copy had stood still since
-          # 2026-09-07.
+          # away with the runner every Monday: the bot had never committed it,
+          # and the only copy in the repo was a hand commit from 2026-09-07.
           git add data/impression-cohort.json data/gsc-page-performance.json
           git diff --staged --quiet && exit 0
           git commit -m "chore: gsc ledgers ($(date -u +%Y-%m-%d))"
