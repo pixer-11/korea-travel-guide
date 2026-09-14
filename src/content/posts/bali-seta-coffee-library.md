@@ -22,7 +22,7 @@ faq:
     a: The Blanco Renaissance Museum, the Pengosekan art village galleries, and the Ubud Monkey Forest are all within easy reach on or near Jl. Raya Pengosekan.
 aiGenerated: true
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/6213138_MCjvhQvy2cEzrg5PXoOIuoFVE4NCzBPNZZNOrsbVeI4.jpg
+  url: https://fastly.4sqi.net/img/general/original/59922063_I7LPuvVFvnu9WUqUPoCT-ysM6WHTVk1MFCX_r_QTPpc.jpg
   credit: 'Photo: Foursquare user content (Seta Coffee Library)'
   license: foursquare
   source: https://foursquare.com/v/692964e1bf46a365235131a4

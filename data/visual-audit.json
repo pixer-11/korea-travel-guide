@@ -18948,5 +18948,11 @@
     "verdict": "MATCH",
     "reason": "width upgrade: Busy historic Palermo street plausibly near Quattro Canti crossroads",
     "at": "2026-09-13T21:36:46.235Z"
+  },
+  "bali-seta-coffee-library\u0001https://fastly.4sqi.net/img/general/original/59922063_I7LPuvVFvnu9WUqUPoCT-ysM6WHTVk1MFCX_r_QTPpc.jpg": {
+    "slug": "bali-seta-coffee-library",
+    "verdict": "MATCH",
+    "reason": "hand-reviewed: the venue interior — lounge chairs, rug, art, lamp; chosen over the previous hero, whose frame was mostly a visitor's leg (2026-09-14)",
+    "at": "2026-09-14T02:12:07.014Z"
   }
 }
