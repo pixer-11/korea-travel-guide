@@ -51,7 +51,17 @@ const CUES = [
   'calificación', 'calificaciones', 'puntuación', 'valoración', 'estrella', 'estrellas',
   'reseña', 'reseñas', 'sobre', 'media',
 ];
-const CUE_RE = new RegExp(CUES.map((c) => c.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|'), 'i');
+// Latin cues must be whole words; CJK cues attach to their neighbours, so they
+// stay substring matches. As a bare substring, "rated" fired inside
+// "regenerated": the new Rifle Range guide's "a stretch of regenerated forest.
+// Budget 1.5 to 2 hours" was reported as a prose rating of 1.5 against the live
+// 4.7 on the day it was published (2026-09-14), and "star" sat inside "restart"
+// the same way.
+const escapeRe = (c) => c.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+const CUE_RE = new RegExp(
+  CUES.map((c) => (/^[a-záéíóúñü]+$/i.test(c) ? `(?<![\\p{L}])${escapeRe(c)}(?![\\p{L}])` : escapeRe(c))).join('|'),
+  'iu',
+);
 
 // A rating suffix welded to the digits is proof on its own — "4.7分", "4.4星",
 // "4.8점", "4.6★". It outranks the unit veto below, because 分 and 点 are the
@@ -64,6 +74,13 @@ const RATING_SUFFIX = /^\s?(?:★|星|점|分|点|스타|\/\s*5\b)/;
 // This vetoes even when a cue sits elsewhere in the window, because "a 4.8 km
 // walk from the 4.6-star hotel" is the sentence that would otherwise corrupt.
 const UNIT_RE = /^\s*(?:km|kms|m|mi|miles?|kg|%|℃|°|\$|€|£|₫|¥|원|USD|EUR|VND|THB|시간|분|時間|公里|米|元|块|ha|acres?|hours?|hrs?|days?|min|minutes?|billion|million|만|억)\b/i;
+// The same, when the number opens a RANGE: "1.5 to 2 hours", "1.5–2 km",
+// "1.5~2시간", "1,5 a 2 horas". The unit follows the second number, so the
+// check above never saw it.
+const RANGE_UNIT_RE = new RegExp(
+  String.raw`^\s*(?:to|-|–|—|~|〜|a|al|至|到)\s*\d+(?:[.,]\d+)?` + UNIT_RE.source.slice(1).replace(/^\\s\*/, String.raw`\s*`),
+  'i',
+);
 
 // CJK packs a clause into a few characters; Spanish spends forty on the same
 // thought ("ha logrado una calificación inusualmente alta de 4.8"). One window
@@ -118,7 +135,7 @@ export function findRatings(text, value) {
   const out = [];
   for (const m of s.matchAll(re)) {
     const after = s.slice(m.index + m[0].length, m.index + m[0].length + RIGHT);
-    if (!RATING_SUFFIX.test(after) && UNIT_RE.test(after)) continue;
+    if (!RATING_SUFFIX.test(after) && (UNIT_RE.test(after) || RANGE_UNIT_RE.test(after))) continue;
     const before = s.slice(Math.max(0, m.index - LEFT), m.index);
     if (!CUE_RE.test(before) && !CUE_RE.test(after)) continue;
     out.push({ index: m.index, raw: m[0], hedge: hedgeAt(s, m.index, m[0].length) });

@@ -130,3 +130,19 @@ test('a prose edit riding along with the number refuses the re-stamp', () => {
   const after = 'verified visitor ratings put it at 4.7 stars, though the queues have grown';
   assert.equal(differsOnlyInRating(before, after, 4.8, 4.7), false);
 });
+
+// 2026-09-14: published that afternoon and reported as a stale rating the same
+// day. "rated" was matched inside "regenerated", and the unit came after the
+// range's second number where the veto never looked.
+test('a duration range next to a word that merely CONTAINS a cue is not a rating', () => {
+  const body = 'enough to see the ponds and a stretch of regenerated forest. Budget 1.5 to 2 hours if you plan to continue.';
+  assert.deepEqual(ratingClaimProblems(body, 4.7), []);
+  assert.deepEqual(findRatings('Restart the loop at 4.2 if the gate is shut.', 4.2), []);
+  assert.deepEqual(findRatings('With glowing reviews, the ridge walk is 4.6–5 km long.', 4.6), []);
+});
+
+test('whole-word cues still find a real claim, in English and CJK', () => {
+  assert.equal(ratingClaimProblems('It is rated 4.5 by visitors.', 4.7).length, 1);
+  assert.equal(ratingClaimProblems('visitors give it a 4.5-star average', 4.7).length, 1);
+  assert.equal(ratingClaimProblems('평점 4.5점으로 인기가 많다', 4.7).length, 1);
+});
