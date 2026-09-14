@@ -54,8 +54,7 @@ faq:
   - q: "What else is nearby?"
     a: "Swallow Grotto (Yanzikou) and Cimu Bridge are both a short drive away and pair well with a Lushui visit."
 aiGenerated: true
-draft: true
-heldReason: wrong-region
+draft: false
 ---
 
 ## Why this trail stands out
