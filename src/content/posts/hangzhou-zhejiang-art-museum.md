@@ -35,6 +35,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 30.231088999999997
   lng: 120.155673
+  phone: '+86 571 8707 8700'
 tags:
   - hangzhou
   - museum

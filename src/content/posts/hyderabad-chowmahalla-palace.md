@@ -39,6 +39,7 @@ place:
     - 'Friday: Closed'
     - 'Saturday: 10:00 AM – 5:00 PM'
     - 'Sunday: 10:00 AM – 5:00 PM'
+  phone: '+91 40 2452 2032'
 tags:
   - hyderabad
   - top attraction

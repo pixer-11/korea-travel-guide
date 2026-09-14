@@ -1,49 +1,35 @@
 ---
-title: 'Nasrid Palaces: Granada Travel Guide (4.9★)'
-description: >-
-  The Nasrid Palaces (Palacios Nazaríes) are the heart of Granada's Alhambra —
-  the 14th-century royal residence of the Nasrid sultans, famous for the Court
-  of the Lions, the Court of the Myrtles, and ceiling after ceiling of carved
-  stucco and tiled walls. 4.9★ (33,116 reviews) — what visitors say, hours, and
-  tips.
+title: "Nasrid Palaces: Granada Travel Guide (4.9★)"
+description: The Nasrid Palaces (Palacios Nazaríes) are the heart of Granada's Alhambra — the 14th-century royal residence of the Nasrid sultans, famous for the Court of the Lions, the Court of the Myrtles, and ceiling after ceiling of carved stucco and tiled walls. 4.9★ (33,116 reviews) — what visitors say, hours, and tips.
 country: Spain
 region: Granada
 category: attraction
-pubDate: '2026-08-05T11:44:29.647Z'
+pubDate: "2026-08-05T11:44:29.647Z"
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nasrid_Palaces_and_Palace_of_Charles_V._Alhambra%2C_Granada._Spain.jpg/1920px-Nasrid_Palaces_and_Palace_of_Charles_V._Alhambra%2C_Granada._Spain.jpg
-  credit: 'Photo: Ввласенко / Wikimedia Commons (CC BY-SA 3.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nasrid_Palaces_and_Palace_of_Charles_V._Alhambra%2C_Granada._Spain.jpg/1920px-Nasrid_Palaces_and_Palace_of_Charles_V._Alhambra%2C_Granada._Spain.jpg
+  credit: "Photo: Ввласенко / Wikimedia Commons (CC BY-SA 3.0)"
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Nasrid_Palaces_and_Palace_of_Charles_V._Alhambra,_Granada._Spain.jpg
+  source: https://commons.wikimedia.org/wiki/File:Nasrid_Palaces_and_Palace_of_Charles_V._Alhambra,_Granada._Spain.jpg
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Nasrid_Palaces_-_The_Alhambra_-_Granada_-_Patio_de_Machuca_%2814623269125%29.jpg/3840px-Nasrid_Palaces_-_The_Alhambra_-_Granada_-_Patio_de_Machuca_%2814623269125%29.jpg
-    credit: >-
-      Photo: Elliott Brown from Birmingham, United Kingdom / Wikimedia Commons
-      (CC BY-SA 2.0)
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Nasrid_Palaces_-_The_Alhambra_-_Granada_-_Patio_de_Machuca_%2814623269125%29.jpg/3840px-Nasrid_Palaces_-_The_Alhambra_-_Granada_-_Patio_de_Machuca_%2814623269125%29.jpg
+    credit: "Photo: Elliott Brown from Birmingham, United Kingdom / Wikimedia Commons (CC BY-SA 2.0)"
     license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:Nasrid_Palaces_-_The_Alhambra_-_Granada_-_Patio_de_Machuca_(14623269125).jpg
+    source: https://commons.wikimedia.org/wiki/File:Nasrid_Palaces_-_The_Alhambra_-_Granada_-_Patio_de_Machuca_(14623269125).jpg
 place:
   id: ChIJ2-XEuLf8cQ0RBLrtcEivoDw
   name: Nasrid Palaces
-  address: 'C. Real de la Alhambra, s/n, Centro, 18009 Granada, Spain'
+  address: C. Real de la Alhambra, s/n, Centro, 18009 Granada, Spain
   rating: 4.9
   userRatingsTotal: 33116
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=4368684364216515076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=4368684364216515076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 37.177413699999995
   lng: -3.5896794
   busyness:
     updated: 2026-08-05T00:00:00.000Z
     weekdayQuiet:
-      - 8
       - 18
       - 19
-      - 20
     weekdayBusy:
       - 11
       - 12
@@ -51,11 +37,9 @@ place:
       - 14
       - 15
     weekendQuiet:
-      - 8
       - 9
       - 18
       - 19
-      - 20
     weekendBusy:
       - 11
       - 12
@@ -65,47 +49,35 @@ place:
       - 16
       - 17
     venueId: ven_77446f7669456374724c425230516338664c7545582d324a496843
+  phone: +34 958 02 79 71
+  openingHours:
+    - "Monday: 8:30 AM – 8:00 PM"
+    - "Tuesday: 8:30 AM – 8:00 PM"
+    - "Wednesday: 8:30 AM – 8:00 PM"
+    - "Thursday: 8:30 AM – 8:00 PM"
+    - "Friday: 8:30 AM – 8:00 PM"
+    - "Saturday: 8:30 AM – 8:00 PM"
+    - "Sunday: 8:30 AM – 8:00 PM"
 tags:
   - granada
   - historic site
-quickAnswer: >-
-  The Nasrid Palaces (Palacios Nazaríes) are the heart of Granada's Alhambra —
-  the 14th-century royal residence of the Nasrid sultans, famous for the Court
-  of the Lions, the Court of the Myrtles, and ceiling after ceiling of carved
-  stucco and tiled walls. You need a timed-entry ticket booked well in advance,
-  ideally weeks ahead, and you must arrive at the exact half-hour printed on it.
-  Go right at opening or in the early morning slots if you can — the palaces are
-  calmest in the 8am hour, before the 11am–6pm crush that fills the courtyards
-  on weekends.
+quickAnswer: The Nasrid Palaces (Palacios Nazaríes) are the heart of Granada's Alhambra — the 14th-century royal residence of the Nasrid sultans, famous for the Court of the Lions, the Court of the Myrtles, and ceiling after ceiling of carved stucco and tiled walls. You need a timed-entry ticket booked well in advance, ideally weeks ahead, and you must arrive at the exact half-hour printed on it. Go right at opening or in the early morning slots if you can — the palaces are calmest in the 8:30am hour, before the 11am–6pm crush that fills the courtyards on weekends.
 faq:
   - q: Do I need a separate ticket for the Nasrid Palaces?
-    a: >-
-      Yes. General Alhambra admission includes access, but you're assigned a
-      specific half-hour entry slot for the Nasrid Palaces that you must arrive
-      for on time — being late can mean forfeiting that part of the visit.
+    a: Yes. General Alhambra admission includes access, but you're assigned a specific half-hour entry slot for the Nasrid Palaces that you must arrive for on time — being late can mean forfeiting that part of the visit.
   - q: How far in advance should I book?
-    a: >-
-      Book as soon as you have confirmed travel dates. Palace entry slots are
-      limited and commonly sell out weeks ahead, especially spring, summer, and
-      autumn weekends.
+    a: Book as soon as you have confirmed travel dates. Palace entry slots are limited and commonly sell out weeks ahead, especially spring, summer, and autumn weekends.
   - q: When is the quietest time to visit?
-    a: >-
-      Early in the day, around the 8am opening, is consistently calmer on both
-      weekdays and weekends. Weekends get busiest from 11am to 6pm, so avoid
-      that window if you can choose your slot.
+    a: Early in the day, around the 8:30am opening, is consistently calmer on both weekdays and weekends. Weekends get busiest from 11am to 6pm, so avoid that window if you can choose your slot.
   - q: How long should I plan to spend inside?
-    a: >-
-      About an hour for the palace rooms themselves, or up to two hours if you
-      include the adjoining Partal gardens right after.
+    a: About an hour for the palace rooms themselves, or up to two hours if you include the adjoining Partal gardens right after.
   - q: How do I get to the Alhambra entrance from central Granada?
-    a: >-
-      Walk up from Plaza Nueva via Cuesta de Gomérez (roughly 20–25 minutes,
-      uphill), or catch the C3 minibus from Plaza Nueva or Plaza Isabel la
-      Católica, which stops near the main gate.
+    a: Walk up from Plaza Nueva via Cuesta de Gomérez (roughly 20–25 minutes, uphill), or catch the C3 minibus from Plaza Nueva or Plaza Isabel la Católica, which stops near the main gate.
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-02'
+updatedDate: "2026-09-02"
 ---
+
 You come through a plain stone doorway off a gravel path, past a guard checking tickets against passports, and the noise of the Alhambra's gardens falls away. Inside, the Mexuar hall is dim and cool, its wooden ceiling blackened with age, and it takes a second for your eyes to adjust before you notice the inscriptions running around the walls, repeating bands of Arabic script that read, over and over, "There is no victor but God."
 
 That single phrase, carved into plaster thousands of times across the complex, tells you more about the Nasrid dynasty's precarious 250-year hold on Granada than any placard could.
@@ -128,7 +100,7 @@ Give the palaces a focused hour, though most visitors linger 90 minutes to two h
 
 ## When to go
 
-Early morning is measurably the quietest time to be inside, on both weekdays and weekends. The crush builds through the late morning and holds steady from about 11am to 6pm on weekends, when tour groups move through in waves and the narrow rooms of the Comares Palace can back up. If your ticket options allow it, choose an 8am or early slot, or alternatively a late afternoon entry as the day-trip groups clear out before evening.
+Early morning is measurably the quietest time to be inside, on both weekdays and weekends. The crush builds through the late morning and holds steady from about 11am to 6pm on weekends, when tour groups move through in waves and the narrow rooms of the Comares Palace can back up. If your ticket options allow it, choose an 8:30am or early slot, or alternatively a late afternoon entry as the day-trip groups clear out before evening.
 
 ## How to visit like a local
 

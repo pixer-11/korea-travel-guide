@@ -37,6 +37,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.1624608
   lng: -3.6068027
+  phone: '+34 958 13 19 00'
+  openingHours:
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 7:00 PM'
+    - 'Wednesday: 10:00 AM – 7:00 PM'
+    - 'Thursday: 10:00 AM – 7:00 PM'
+    - 'Friday: 10:00 AM – 7:00 PM'
+    - 'Saturday: 10:00 AM – 7:00 PM'
+    - 'Sunday: 10:00 AM – 3:00 PM'
 tags:
   - granada
   - museum

@@ -35,14 +35,8 @@ place:
   lng: 129.2278919
   busyness:
     updated: 2026-08-05T00:00:00.000Z
-    weekdayQuiet:
-      - 10
-      - 17
-      - 18
-    weekendQuiet:
-      - 18
-      - 19
-      - 20
+    weekdayQuiet: [10, 17]
+    weekendQuiet: [18, 19]
     weekendBusy:
       - 11
       - 12
@@ -52,6 +46,15 @@ place:
       - 16
       - 17
     venueId: ven_34676e537a346e77422d5652556a5a4f4e306a527761524a496843
+  phone: '+82 54-740-7500'
+  openingHours:
+    - 'Monday: 10:00 AM – 6:00 PM'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 8:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
 tags:
   - gyeongju
   - museum

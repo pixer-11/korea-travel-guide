@@ -1,31 +1,32 @@
 Places 예산: backfill 몫 25회 (오늘 사용 17/100)
 Priority: 164 itinerary stop(s) queued first
-  – jurong-singapore-discovery-centre.md: nothing new (resting 60d)
-  – boston-public-garden.md: nothing new (resting 60d)
-  – bukhara-kalan-mosque.md: nothing new (resting 60d)
-  – chiang-rai-king-mangrai-monument.md: nothing new (resting 60d)
-  – chicago-cloud-gate.md: nothing new (resting 60d)
-  ✓ chicago-field-museum.md +phone +7h hours
+  – genoa-porta-soprana.md: nothing new (resting 60d)
+  – goa-fort-aguada.md: nothing new (resting 60d)
+  ✓ granada-nasrid-palaces.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 8,20h (venue not open then); weekendQuiet: dropped 8,20h (venue not open then)
+  ✓ granada-parque-de-las-ciencias.md +phone +7h hours
+  – guangzhou-guangzhou-tv-tower.md: nothing new (resting 60d)
+  – guangzhou-huacheng-square.md: nothing new (resting 60d)
+  – guangzhou-tianzi-wharf.md: nothing new (resting 60d)
+  – guangzhou-yuexiu-park.md: nothing new (resting 60d)
+  – guilin-reed-flute-cave.md: nothing new (resting 60d)
+  ✓ gyeongju-gyeongju-national-museum.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 18h (venue not open then); weekendQuiet: dropped 20h (venue not open then)
+  – ha-long-bay-halong-bay.md: nothing new (resting 60d)
+  – hangzhou-xi-lake.md: nothing new (resting 60d)
+  ✓ hangzhou-zhejiang-art-museum.md +phone
+  – hanoi-hanoi-old-quarter.md: nothing new (resting 60d)
+  – harbin-jile-temple.md: nothing new (resting 60d)
+  – harbin-zhaolin-park.md: nothing new (resting 60d)
+  ✓ hiroshima-hiroshima-peace-memorial-museum.md +phone +7h hours
+  ✓ hiroshima-mitaki-temple.md +phone +7h hours
     ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 17h (venue not open then); weekendQuiet: dropped 17h (venue not open then)
-  – chicago-medinah-temple.md: nothing new (resting 60d)
-  – clarke-quay-cq-clarke-quay.md: nothing new (resting 60d)
-  – colmar-parc-saint-francois-xavier.md: nothing new (resting 60d)
-  – colmar-vieille-ville-de-colmar.md: nothing new (resting 60d)
-  – da-nang-ba-na-hills.md: nothing new (resting 60d)
-  – davao-people-s-park.md: nothing new (resting 60d)
-  – deira-abra-dubai.md: nothing new (resting 60d)
-  – dubai-dubai-old-city.md: nothing new (resting 60d)
-  – dubai-marina-dubai-marina-walk.md: nothing new (resting 60d)
-  – dumaguete-silliman-hall.md: nothing new (resting 60d)
-  – el-nido-cadlao-lagoon.md: nothing new (resting 60d)
-  – el-nido-matinloc-shrine.md: nothing new (resting 60d)
-  – el-nido-taraw-cliff.md: nothing new (resting 60d)
-  – fergana-al-farg-oniy-haykali.md: nothing new (resting 60d)
-  ✓ florence-galleria-dell-accademia-di-firenze.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekendQuiet: dropped 8h (venue not open then) — nothing left
-  – fujairah-al-bithnah-fort.md: nothing new (resting 60d)
-  – fujairah-fujairah-museum.md: nothing new (resting 60d)
-  – gangneung-gyeongpo-lake.md: nothing new (resting 60d)
-  – genting-highlands-resorts-world-genting.md: nothing new (resting 60d)
+  – ho-chi-minh-city-saigon-skydeck.md: nothing new (resting 60d)
+  – ho-chi-minh-city-tao-dan-park.md: nothing new (resting 60d)
+  – hoi-an-japanese-bridge.md: nothing new (resting 60d)
+  – hong-kong-victoria-peak-lookout-point.md: nothing new (resting 60d)
+  – hua-hin-khao-hin-lek-fai.md: nothing new (resting 60d)
+  – hue-thien-mu-pagoda.md: nothing new (resting 60d)
+  ✓ hyderabad-chowmahalla-palace.md +phone
 
-BACKFILL RESULT: updated 2, backlog-updated 2, already-complete 577, no-new-data 231, no-place 247, closed-quarantined 0, quota-429 0, api-error 0, api-calls 25, remaining-askable 245 (APPLIED).
+BACKFILL RESULT: updated 7, backlog-updated 7, already-complete 615, no-new-data 249, no-place 261, closed-quarantined 0, quota-429 0, api-error 0, api-calls 25, remaining-askable 226 (APPLIED).
