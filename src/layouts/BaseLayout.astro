@@ -56,6 +56,12 @@ const t = useTranslations(lang);
 const availableLangs: Lang[] = localizedLangs ?? (localized ? ['en', 'ko', 'ja', 'es', 'zh'] : ['en']);
 const htmlLang = localeCodes[lang];
 const canonical = new URL(Astro.url.pathname, Astro.site);
+// The not-found page is served for every wrong URL, so it has no address of its
+// own. It used to declare one — canonical and og:url both /404/, a URL that
+// itself answers 404 — and its "English" switcher link pointed there too: the
+// only broken internal target in a sweep of 13,160 pages and a million links
+// (2026-09-14). No canonical here, and the switcher goes to homepages.
+const isNotFound = /^\/404\/?$/.test(Astro.url.pathname);
 // hreflang alternates (localized pages only). x-default points to English.
 const canonicalPath = stripLocale(Astro.url.pathname);
 // Built from availableLangs, NOT from a hardcoded five. The list above already
@@ -240,7 +246,7 @@ const orgLd = {
         the same thing in every language. */}
     <title>{title.includes(siteName) ? title : (fitsWidth(`${title} · ${siteName}`, 60) ? `${title} · ${siteName}` : title)}</title>
     <meta name="description" content={description} />
-    <link rel="canonical" href={canonical} />
+    {!isNotFound && <link rel="canonical" href={canonical} />}
     {alternates.map((a) => <link rel="alternate" hreflang={a.hreflang} href={a.href} />)}
     {localized && <link rel="alternate" hreflang="x-default" href={siteHref(localizePath(canonicalPath, 'en'), Astro.site)} />}
     <!-- Allow large image previews (required for Google Discover cards) -->
@@ -251,7 +257,7 @@ const orgLd = {
     <meta property="og:type" content={article ? 'article' : 'website'} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta property="og:url" content={canonical} />
+    {!isNotFound && <meta property="og:url" content={canonical} />}
     <meta property="og:site_name" content={siteName} />
     <meta property="og:image" content={ogImage} />
     {/* Dimensions let an unfurler reserve the card before the image loads; the
@@ -310,7 +316,7 @@ const orgLd = {
         re-traverses the whole header on each navigation — and when the mobile
         menu bug made the header unreachable, there was no way past it at all. */}
     <a class="skip-link" href="#main">{t('a11y.skipToContent')}</a>
-    <Header availableLangs={availableLangs} />
+    <Header availableLangs={isNotFound ? [] : availableLangs} />
     <main id="main" tabindex="-1">
       <slot />
     </main>
