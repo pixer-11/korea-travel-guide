@@ -384,7 +384,9 @@ const jsonLd = {
   /* Must stay identical to WhenToGoIndex.astro's dark block — see the note
      there for why the warm pair inverts in dark. */
   @media (prefers-color-scheme: dark) {
-    .b-good  { background: #6e8247; color: #f0f6e2; border-color: #85995b; }
+    /* #5f7340, not #6e8247: the pale month label on the lighter green measured
+       3.84:1 — under AA for 12px text on 118 chips (2026-09-14). Now 4.73. */
+    .b-good  { background: #5f7340; color: #f0f6e2; border-color: #85995b; }
     .b-fine  { background: #3f4a35; color: #d3e0c1; border-color: #526043; }
     .b-fair  { background: #b4763f; color: #2a1608; border-color: #c78d56; }
     .b-harsh { background: #8c3f16; color: #ffe6d5; border-color: #a5522a; }

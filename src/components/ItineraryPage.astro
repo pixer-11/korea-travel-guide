@@ -669,7 +669,7 @@ const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
     padding: 0.4rem 0.9rem; border-radius: var(--r-pill); font-weight: 600; font-size: 0.88rem;
     color: var(--ink-soft); border: 1px solid var(--line); text-decoration: none; transition: background .15s, color .15s;
   }
-  .itin-day-nav a:hover, .itin-day-nav a:focus-visible { background: var(--accent); color: #fff; border-color: var(--accent); }
+  .itin-day-nav a:hover, .itin-day-nav a:focus-visible { background: var(--accent-fill); color: #fff; border-color: var(--accent-fill); }
 
   .itin-day { margin: 2.2rem 0; scroll-margin-top: 4.5rem; }
   .itin-day-title { font-family: var(--font-display); margin-bottom: 0.3rem; }
@@ -700,11 +700,11 @@ const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
   .chip { display: inline-flex; align-items: center; gap: 0.3rem; font-size: 0.78rem; font-weight: 600; padding: 0.28rem 0.6rem; border-radius: var(--r-pill); border: 1px solid var(--line); background: var(--surface-2); color: var(--ink-soft); }
   .chip[hidden] { display: none; }
   /* Closed-day chip is the feature's headline differentiator — render it loud. */
-  .chip-closed { background: var(--accent-soft); border-color: color-mix(in srgb, var(--accent) 35%, var(--line)); color: var(--accent-deep); font-weight: 700; }
+  .chip-closed { background: var(--accent-soft); border-color: color-mix(in srgb, var(--accent) 35%, var(--line)); color: var(--accent-text); font-weight: 700; }
   .chip-quiet { background: color-mix(in srgb, var(--gold) 14%, var(--surface-2)); border-color: color-mix(in srgb, var(--gold) 35%, var(--line)); color: var(--ink); }
   /* Arrival-date awareness: a stop's OWN closed-day data says today is a closed
      day — flipped in by the script, never guessed. */
-  .chip-closed-warning { background: var(--accent); border-color: var(--accent-deep); color: #fff; font-weight: 800; }
+  .chip-closed-warning { background: var(--accent-fill); border-color: var(--accent-deep); color: #fff; font-weight: 800; }
   /* Party=family/seniors advisory — same visual family as chip-quiet (gold),
      kept distinct from the red closed-warning so the two can't be confused. */
   .chip-advisory { background: color-mix(in srgb, var(--gold) 18%, var(--surface-2)); border: 1px dashed color-mix(in srgb, var(--gold) 45%, var(--line)); color: var(--ink); }

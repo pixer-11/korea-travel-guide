@@ -45,9 +45,13 @@ const ended = isEventPast({ category, eventEndDate });
   <div class="thumb">
     {/* alt uses regionLabel, not the English region: the localized label is
         right there, and the card's own visible label already uses it. */}
+    {/* A guide with no photograph shows a drawn placeholder, and describing
+        that drawing as "<the place> — <city>" tells a screen reader there is a
+        photo of the place when there is not. It is decoration: empty alt, the
+        card's own title already names the place (2026-09-14). */}
     <img
       src={src}
-      alt={`${title} — ${regionLabel}`}
+      alt={image ? `${title} — ${regionLabel}` : ''}
       width="600"
       height="400"
       loading={priority ? 'eager' : 'lazy'}

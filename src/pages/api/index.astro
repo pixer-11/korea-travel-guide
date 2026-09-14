@@ -148,5 +148,9 @@ const jsonLd = {
   .api-docs .dek { font-size: 1.05rem; color: var(--ink-soft); }
   .api-docs pre { overflow-x: auto; background: var(--paper-deep, rgba(0,0,0,0.04)); padding: 1rem; border-radius: 8px; font-size: 0.82rem; line-height: 1.5; }
   .api-docs code { font-size: 0.9em; }
+  /* The endpoint URL is one unbroken word, and on a 375px phone it pushed the
+     whole page 16px sideways (measured 2026-09-14). Inline code may break
+     anywhere; the example block keeps its own horizontal scroll. */
+  .api-docs :not(pre) > code { overflow-wrap: anywhere; }
   .api-docs h2 { margin-top: 2.2rem; }
 </style>
