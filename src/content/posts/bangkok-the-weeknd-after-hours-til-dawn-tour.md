@@ -17,6 +17,11 @@ heroImage:
   credit: 'Photo: David Hwang / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:The_Weeknd_by_David_Hwang.jpg'
+  focus:
+    x: 35
+    y: 23
+    top: 8
+    bottom: 38
 tags:
   - bangkok
   - event

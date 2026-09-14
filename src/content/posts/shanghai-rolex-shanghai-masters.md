@@ -20,6 +20,9 @@ heroImage:
   credit: 'Photo: Curt Smith from Bellevue, WA, USA / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Qizhong_Stadium.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - shanghai

@@ -12,6 +12,9 @@ heroImage:
   credit: 'Photo: Zheng Zhou / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Wuhan_Yangtze_River_Bridge_in_2020.jpg'
+  focus:
+    x: 50
+    y: 45
 tags:
   - wuhan
   - event

@@ -12,6 +12,9 @@ heroImage:
   credit: 'Photo: *angys* / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Axiata_Arena,_Bukit_Jalil_(220713).jpg'
+  focus:
+    x: 50
+    y: 45
 tags:
   - kuala lumpur
   - event

@@ -14,6 +14,9 @@ heroImage:
   credit: 'Photo: Leonard J. DeFrancisci / wikimedia (BY-SA)'
   license: openverse-cc
   source: 'https://commons.wikimedia.org/w/index.php?curid=10020351'
+  focus:
+    x: 50
+    y: 50
 gallery:
   - url: >-
       https://upload.wikimedia.org/wikipedia/commons/6/68/Korea-Gyeongju-Seongdong_Market-Matsutake_shop-01E.jpg

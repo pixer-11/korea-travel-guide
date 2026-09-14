@@ -17,6 +17,9 @@ heroImage:
   credit: 'Photo: Hullian111 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:My_Chemical_Romance_@_Wembley_Stadium,_11_July_2026_B-Stage_03.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - singapore

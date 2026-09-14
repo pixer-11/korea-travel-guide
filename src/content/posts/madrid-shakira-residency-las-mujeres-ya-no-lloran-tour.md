@@ -22,6 +22,11 @@ heroImage:
   credit: 'Photo: Andres Arranz / Wikimedia Commons (CC BY 2.5)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Shakira_Rio_07.jpg'
+  focus:
+    x: 50
+    y: 33
+    top: 15
+    bottom: 50
 gallery: []
 tags:
   - madrid

@@ -19,6 +19,9 @@ heroImage:
   credit: 'Photo: NKSTTSSHNVN / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Hanoi_Skyline_-_NKS.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - hanoi

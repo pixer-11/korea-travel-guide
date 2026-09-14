@@ -22,6 +22,11 @@ heroImage:
   credit: 'Photo: Kayla Johnson from Seattle, United States / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:The_Weeknd_at_Bumbershoot_2015_(21367628469).jpg'
+  focus:
+    x: 35
+    y: 27
+    top: 8
+    bottom: 45
 gallery: []
 tags:
   - goyang

@@ -14,6 +14,9 @@ heroImage:
   credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Jakarta_Indonesia_Colonial-houses-in-Kota-Jakarta-02.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - jakarta

@@ -35,6 +35,9 @@ heroImage:
   credit: 'Photo: Visola Tangirova / Wikimedia Commons (CC0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Mustaqillik_maydoni._2024.jpg'
+  focus:
+    x: 50
+    y: 40
 ---
 ## What Independence Day actually is
 

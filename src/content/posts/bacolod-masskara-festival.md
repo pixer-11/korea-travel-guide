@@ -21,6 +21,11 @@ heroImage:
   credit: 'Photo: Mhlayson / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Masskara_Festival_in_Bacolod_(2).jpg'
+  focus:
+    x: 50
+    y: 40
+    top: 15
+    bottom: 65
 gallery: []
 tags:
   - bacolod

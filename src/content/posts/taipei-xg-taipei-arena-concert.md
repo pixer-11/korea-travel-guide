@@ -18,6 +18,9 @@ heroImage:
   credit: 'Photo: Solomon203 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Taipei_Arena_20170813.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - taipei

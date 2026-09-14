@@ -10,6 +10,9 @@ heroImage:
   credit: "Photo: Foursquare user content (North Pattaya Beach)"
   license: foursquare
   source: https://foursquare.com/v/537ba766498eeca2266be38e
+  focus:
+    x: 50
+    y: 35
 gallery: []
 place:
   id: ChIJsejiuTO9AjERnTBniNqKjII

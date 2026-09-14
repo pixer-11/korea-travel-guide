@@ -37,6 +37,9 @@ heroImage:
   credit: 'Photo: OiMax''s / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Odaiba,_Tokyo_Japan.jpg'
+  focus:
+    x: 50
+    y: 45
 ---
 
 Odaiba Ultra Park sits on reclaimed land jutting into Tokyo Bay, with the Rainbow Bridge and the city skyline as a backdrop to the main stage. For one weekend in September, this waterfront park becomes the regional anchor of the global Ultra Music Festival circuit, pulling in electronic music fans from across Asia and beyond.

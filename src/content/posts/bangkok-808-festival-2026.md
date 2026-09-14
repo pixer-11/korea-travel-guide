@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: Pescov / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:BITEC.JPG'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - bangkok

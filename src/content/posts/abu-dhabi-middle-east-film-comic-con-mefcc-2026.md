@@ -20,6 +20,9 @@ heroImage:
   credit: 'Photo: InformaAE / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:MEFCC_AUH_2023_-_Crowd_Shot.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - abu dhabi

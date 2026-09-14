@@ -22,6 +22,11 @@ heroImage:
   credit: 'Photo: Benchmark ksa / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Tamer_Hosny''s_NYE_Concert_(2025).png'
+  focus:
+    x: 50
+    y: 32
+    top: 8
+    bottom: 55
 gallery: []
 tags:
   - abu dhabi

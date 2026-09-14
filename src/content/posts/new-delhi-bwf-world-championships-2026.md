@@ -12,6 +12,9 @@ heroImage:
   credit: 'Photo: Griff88 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:TOTAL_BWF_World_Champs_2015_Day_2_Lin_Dan.jpg'
+  focus:
+    x: 50
+    y: 50
 tags:
   - new delhi
   - event

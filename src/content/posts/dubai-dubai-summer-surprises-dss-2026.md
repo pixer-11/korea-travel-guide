@@ -12,6 +12,9 @@ heroImage:
   credit: 'Photo: Guilhem Vellut from Annecy, France / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Dubai_Fountain_@_Dubai_Mall_(15878618845).jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - dubai

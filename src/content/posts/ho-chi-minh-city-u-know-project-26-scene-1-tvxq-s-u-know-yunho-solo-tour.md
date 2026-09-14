@@ -17,6 +17,11 @@ heroImage:
   credit: 'Photo: K-POPIT 케이팝잇 / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:20230818_YUNHO_(유노윤호).jpg'
+  focus:
+    x: 50
+    y: 32
+    top: 8
+    bottom: 55
 gallery: []
 tags:
   - ho chi minh city

@@ -12,6 +12,11 @@ heroImage:
   credit: 'Photo: SBS Radio / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:LeeHi_2021.png'
+  focus:
+    x: 50
+    y: 32
+    top: 8
+    bottom: 55
 tags:
   - jakarta
   - event

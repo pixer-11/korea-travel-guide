@@ -15,6 +15,9 @@ heroImage:
   credit: 'Photo: Silas Low / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Olympic_Park_Seoul.jpg'
+  focus:
+    x: 15
+    y: 25
 gallery: []
 tags:
   - seoul

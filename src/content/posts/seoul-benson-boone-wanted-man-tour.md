@@ -20,6 +20,11 @@ heroImage:
   credit: 'Photo: Drew de F Fawkes / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Benson_Boone_(Nov_2024).jpg'
+  focus:
+    x: 45
+    y: 18
+    top: 8
+    bottom: 28
 gallery: []
 tags:
   - seoul

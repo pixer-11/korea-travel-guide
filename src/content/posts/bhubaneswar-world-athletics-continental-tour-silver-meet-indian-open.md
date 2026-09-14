@@ -36,6 +36,9 @@ heroImage:
   credit: 'Photo: Subhrasingh / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Kalinga_Stadium,_Bhubaneswar.jpg'
+  focus:
+    x: 50
+    y: 40
 ---
 ## Why this meet matters
 

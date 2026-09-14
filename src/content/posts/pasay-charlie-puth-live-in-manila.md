@@ -20,6 +20,11 @@ heroImage:
   credit: 'Photo: JohannesEngvall / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Charlie_Puth,_Idol_2022.jpg'
+  focus:
+    x: 50
+    y: 22
+    top: 12
+    bottom: 32
 gallery: []
 tags:
   - pasay

@@ -12,6 +12,9 @@ heroImage:
   credit: 'Photo: Ramayoni / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Monumen_Nasional,_Jakarta,_Indonesia.jpg'
+  focus:
+    x: 50
+    y: 45
 tags:
   - jakarta
   - event

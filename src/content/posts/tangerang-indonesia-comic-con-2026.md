@@ -37,6 +37,9 @@ heroImage:
   credit: 'Photo: Vruztazzy / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Alun-Alun_Periuk,_Tangerang.jpg'
+  focus:
+    x: 50
+    y: 50
 ---
 
 ## What Indonesia Comic Con 2026 actually is

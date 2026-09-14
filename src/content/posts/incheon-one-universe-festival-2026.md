@@ -12,6 +12,9 @@ heroImage:
   credit: 'Photo: Fleetham / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Songdo_IBD_Incheon_2014_HDR.jpg'
+  focus:
+    x: 65
+    y: 45
 tags:
   - incheon
   - event

@@ -18,6 +18,11 @@ heroImage:
   credit: 'Photo: Anna Hanks / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Chet_Faker,_Positivus_Music_Festival,_Latvia_2014.jpg'
+  focus:
+    x: 35
+    y: 27
+    top: 8
+    bottom: 45
 gallery: []
 tags:
   - bengaluru

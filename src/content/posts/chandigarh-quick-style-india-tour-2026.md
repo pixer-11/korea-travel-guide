@@ -13,6 +13,9 @@ heroImage:
   credit: 'Photo: duncid / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Palace_of_Assembly_Chandigarh_2006.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - chandigarh

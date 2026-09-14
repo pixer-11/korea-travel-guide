@@ -53,8 +53,15 @@ async function fetchHero(url) {
 async function askFocus(buf, subject) {
   // Downscale for the model: 800px is plenty to locate a face, and cheap.
   const small = await sharp(buf).resize({ width: 800, withoutEnlargement: true }).jpeg({ quality: 80 }).toBuffer();
+  // 200, not 60. The head-box answer (subject + focus + four edges, which the
+  // model wraps in a code fence) runs about 74 tokens. At 60 every reply was
+  // cut before its closing brace, parsed as nothing, and cached as
+  // `focus: null` — "no subject" for The Weeknd, Yunho and Lee Hi alike. A
+  // cached URL is never asked again, so each of those portraits was left to a
+  // centre crop for good. Reproduced 2026-09-14: 60 → stop max_tokens, null;
+  // 200 → end_turn, a correct box.
   const msg = await client.messages.create({
-    model: 'claude-haiku-4-5-20251001', max_tokens: 60,
+    model: 'claude-haiku-4-5-20251001', max_tokens: 200,
     messages: [{ role: 'user', content: [
       { type: 'image', source: { type: 'base64', media_type: 'image/jpeg', data: small.toString('base64') } },
       // Same head-box question as the live gate (lib/head-box.mjs) — two
@@ -63,6 +70,10 @@ async function askFocus(buf, subject) {
     ] }],
   });
   const t = msg.content.filter((b) => b.type === 'text').map((b) => b.text).join('');
+  // A cut-off reply is a failure to measure, not an answer of "nothing here":
+  // throw, so the hero counts as failed and is asked again next run instead of
+  // being cached as null (same rule as lib/vision-check.mjs).
+  if (msg.stop_reason === 'max_tokens') throw new Error('focus reply truncated at max_tokens');
   const j = JSON.parse(t.match(/\{[\s\S]*\}/)?.[0] ?? 'null');
   return focusFromReply(j);
 }
@@ -114,11 +125,15 @@ for (const f of files) {
       if (out !== raw) { await writeFile(p, out, 'utf8'); written++; }
       else console.log(`  ⚠ ${slug}: could not splice focus`);
     }
-    if ((measured + done) % 50 === 0) await writeFile(STATE, JSON.stringify(state, null, 1) + '\n');
+    if (!DRY && (measured + done) % 50 === 0) await writeFile(STATE, JSON.stringify(state, null, 1) + '\n');
   } catch (e) {
     failed++;
     console.log(`  ⚠ ${slug}: ${e.message.slice(0, 60)}`);
   }
 }
-await writeFile(STATE, JSON.stringify(state, null, 1) + '\n');
+// DRY must not write the cache. It used to: a dry run recorded every hero it
+// measured as {w,h} with no focus, and since a cached URL is never asked again,
+// the next REAL run skipped those event heroes for good — performer photos left
+// to a centre crop. Caught 2026-09-14, when one dry run added 93 such records.
+if (!DRY) await writeFile(STATE, JSON.stringify(state, null, 1) + '\n');
 console.log(`\nHERO_FOCUS_SUMMARY measured=${measured} asked=${asked} written=${written} skippedWide=${skippedWide} failed=${failed}${DRY ? ' (dry)' : ''}`);
