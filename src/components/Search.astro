@@ -45,6 +45,11 @@ const labels = JSON.stringify({
         index = await res.json();
       } catch { index = []; }
       loading = false;
+      // The index (50–80 KB) is fetched on focus, and render() does nothing
+      // until it arrives. A reader who typed "교토" inside that window saw no
+      // results until they pressed another key — on a slow phone, often never
+      // (2026-09-14). Answer whatever is in the box the moment the index lands.
+      if (input.value.trim()) render(input.value);
     }
 
     function render(q: string) {
@@ -73,7 +78,9 @@ const labels = JSON.stringify({
     }
 
     input.addEventListener('focus', load);
-    input.addEventListener('input', () => render(input.value));
+    // load() too: text can arrive without a focus event first (autofill, a
+    // restored value on back-navigation), and then nothing ever fetched.
+    input.addEventListener('input', () => { load(); render(input.value); });
     input.addEventListener('keydown', (e) => {
       if (e.key === 'Enter') {
         const first = panel.querySelector('a') as HTMLAnchorElement | null;
