@@ -6,19 +6,10 @@ region: "Paris"
 category: "attraction"
 pubDate: "2026-09-09T07:36:40.507Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Interior_of_Sainte_Chapelle%2C_Vincennes_140308_1.jpg/3840px-Interior_of_Sainte_Chapelle%2C_Vincennes_140308_1.jpg"
-  credit: "Photo: DXR / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Interior_of_Sainte_Chapelle,_Vincennes_140308_1.jpg"
-  via: "act"
-  focus:
-    x: 50
-    y: 35
-gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sainte_Chapelle_Interior_Stained_Glass.jpg/3840px-Sainte_Chapelle_Interior_Stained_Glass.jpg"
-    credit: "Photo: Oldmanisold / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Sainte_Chapelle_Interior_Stained_Glass.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sainte_Chapelle_Interior_Stained_Glass.jpg/1920px-Sainte_Chapelle_Interior_Stained_Glass.jpg
+  credit: 'Photo: Oldmanisold / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Sainte_Chapelle_Interior_Stained_Glass.jpg
 place:
   id: "ChIJR3122B9u5kcRaCck3PlB9DM"
   name: "Sainte-Chapelle"

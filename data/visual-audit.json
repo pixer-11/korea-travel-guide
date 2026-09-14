@@ -16214,9 +16214,9 @@
   },
   "boryeong-national-museum-of-korea\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Early_Iron_Age%2C_Korea._Black_Burnished_Pottery._Buyeo_National_Museum.jpg/1920px-Early_Iron_Age%2C_Korea._Black_Burnished_Pottery._Buyeo_National_Museum.jpg": {
     "slug": "boryeong-national-museum-of-korea",
-    "verdict": "MATCH",
-    "reason": "patrol replace: Ancient Korean pottery vessels in museum display",
-    "at": "2026-09-02T21:59:53.691Z"
+    "verdict": "MISMATCH",
+    "reason": "hand-reviewed: a pottery artifact photographed at the Buyeo National Museum, a different museum from the National Museum of Korea in Seoul (2026-09-14)",
+    "at": "2026-09-14T02:36:57.651Z"
   },
   "lombok-bukit-merese\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Merese.jpg/1920px-Merese.jpg": {
     "slug": "lombok-bukit-merese",
@@ -17362,9 +17362,9 @@
   },
   "paris-sainte-chapelle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Interior_of_Sainte_Chapelle%2C_Vincennes_140308_1.jpg/3840px-Interior_of_Sainte_Chapelle%2C_Vincennes_140308_1.jpg": {
     "slug": "paris-sainte-chapelle",
-    "verdict": "MATCH",
-    "reason": "publish gate: Gothic stained-glass interior matches Sainte-Chapelle upper chapel",
-    "at": "2026-09-09T07:36:40.524Z"
+    "verdict": "MISMATCH",
+    "reason": "hand-reviewed: the interior of the Sainte-Chapelle at Vincennes (Chateau de Vincennes), a different chapel from the one in Paris this guide is about (2026-09-14)",
+    "at": "2026-09-14T02:36:57.651Z"
   },
   "paris-jardin-du-luxembourg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LuxembourgMontparnasse.JPG/1920px-LuxembourgMontparnasse.JPG": {
     "slug": "paris-jardin-du-luxembourg",
@@ -18954,5 +18954,17 @@
     "verdict": "MATCH",
     "reason": "hand-reviewed: the venue interior — lounge chairs, rug, art, lamp; chosen over the previous hero, whose frame was mostly a visitor's leg (2026-09-14)",
     "at": "2026-09-14T02:12:07.014Z"
+  },
+  "boryeong-national-museum-of-korea\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/National_Museum_of_Korea_%284%29.jpg/1920px-National_Museum_of_Korea_%284%29.jpg": {
+    "slug": "boryeong-national-museum-of-korea",
+    "verdict": "MATCH",
+    "reason": "hand-reviewed: the National Museum of Korea building, Yongsan; Commons category National Museum of Korea (2026-09-14)",
+    "at": "2026-09-14T02:36:57.651Z"
+  },
+  "paris-sainte-chapelle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sainte_Chapelle_Interior_Stained_Glass.jpg/1920px-Sainte_Chapelle_Interior_Stained_Glass.jpg": {
+    "slug": "paris-sainte-chapelle",
+    "verdict": "MATCH",
+    "reason": "hand-reviewed: the upper chapel of the Sainte-Chapelle, Paris; Commons category Stained-glass windows of the Sainte-Chapelle (Paris), Quality image (2026-09-14)",
+    "at": "2026-09-14T02:36:57.651Z"
   }
 }
