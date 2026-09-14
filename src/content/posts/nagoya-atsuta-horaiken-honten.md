@@ -1,40 +1,56 @@
 ---
 title: 'Atsuta Hōraiken Honten: Where to Eat in Nagoya'
-description: Atsuta Hōraiken Honten, near Atsuta Jingu shrine in Nagoya, is the birthplace of hitsumabushi — grilled, soy-glazed eel served over rice and eaten three ways.
+description: >-
+  Atsuta Hōraiken Honten, near Atsuta Jingu shrine in Nagoya, is the birthplace
+  of hitsumabushi — grilled, soy-glazed eel served over rice and eaten three
+  ways.
 country: Japan
 region: Nagoya
 category: restaurant
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/162728783_5ws4Xui2phicBAup-0aAQB_OR6KxsWQfkg1fSUH4EDQ.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/162728783_5ws4Xui2phicBAup-0aAQB_OR6KxsWQfkg1fSUH4EDQ.jpg
   credit: 'Photo: Foursquare user content (Atsuta Horaiken (あつた蓬莱軒 本店))'
   license: foursquare
-  source: https://foursquare.com/v/4b5e68ddf964a5207a8d29e3
+  source: 'https://foursquare.com/v/4b5e68ddf964a5207a8d29e3'
   focus:
     x: 65
-    y: 55
+    'y': 55
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/1402300050_KpYMubG7dMPedGiUkruvgb1bOiytBUyYLMGRzJKtrjQ.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/1402300050_KpYMubG7dMPedGiUkruvgb1bOiytBUyYLMGRzJKtrjQ.jpg
     credit: 'Photo: Foursquare user content (Atsuta Horaiken (あつた蓬莱軒 本店))'
     license: foursquare
-    source: https://foursquare.com/v/4b5e68ddf964a5207a8d29e3
+    source: 'https://foursquare.com/v/4b5e68ddf964a5207a8d29e3'
 place:
   id: ChIJJRIRWR96A2AR1pCxwc4H298
   name: Atsuta Hōraiken Honten
-  address: 503 Gōdochō, Atsuta Ward, Nagoya, Aichi 456-0043, Japan
+  address: '503 Gōdochō, Atsuta Ward, Nagoya, Aichi 456-0043, Japan'
   rating: 4.5
-  userRatingsTotal: 7650
+  userRatingsTotal: 7787
   priceLevel: 3
-  googleMapsUrl: https://maps.google.com/?cid=16130495074951860438&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16130495074951860438&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 35.120168899999996
   lng: 136.9068979
   busyness:
     updated: '2026-07-23'
-    weekdayBusy: [12, 13, 17, 18, 19]
-    weekendBusy: [12, 13, 17, 18, 19]
+    weekdayBusy:
+      - 12
+      - 13
+      - 17
+      - 18
+      - 19
+    weekendBusy:
+      - 12
+      - 13
+      - 17
+      - 18
+      - 19
     venueId: ven_383932483463777843703152413241363952575249524a4a496843
-  phone: '+81 52-671-8686'
+  phone: +81 52-671-8686
   openingHours:
     - 'Monday: 11:30 AM – 2:00 PM, 4:30 – 8:30 PM'
     - 'Tuesday: 11:30 AM – 2:00 PM, 4:30 – 8:30 PM'
@@ -46,19 +62,42 @@ place:
 tags:
   - nagoya
   - local restaurant
-quickAnswer: Atsuta Hōraiken Honten, near Atsuta Jingu shrine in Nagoya, is the birthplace of hitsumabushi — grilled, soy-glazed eel served over rice and eaten three ways. Expect a wait (no reservations for lunch at the honten), a bill in the ¥5,000–7,000 range per person, and roughly 45–60 minutes for the full meal. Go hungry, go early, and pair the visit with a stroll through Atsuta Jingu.
+quickAnswer: >-
+  Atsuta Hōraiken Honten, near Atsuta Jingu shrine in Nagoya, is the birthplace
+  of hitsumabushi — grilled, soy-glazed eel served over rice and eaten three
+  ways. Expect a wait (no reservations for lunch at the honten), a bill in the
+  ¥5,000–7,000 range per person, and roughly 45–60 minutes for the full meal. Go
+  hungry, go early, and pair the visit with a stroll through Atsuta Jingu.
 faq:
   - q: Do I need a reservation?
-    a: The Atsuta honten typically does not take reservations for lunch, so arrive at or before opening to minimize the wait; dinner may allow reservations depending on the season, so it's worth calling ahead or checking with your accommodation.
+    a: >-
+      The Atsuta honten typically does not take reservations for lunch, so
+      arrive at or before opening to minimize the wait; dinner may allow
+      reservations depending on the season, so it's worth calling ahead or
+      checking with your accommodation.
   - q: How much does a meal cost?
-    a: Plan for roughly ¥5,000–7,000 per person for a hitsumabushi set with rice, soup, and pickles, given the restaurant's mid-to-upper price level; exact prices vary by portion size and season, so confirm current menu pricing on arrival.
+    a: >-
+      Plan for roughly ¥5,000–7,000 per person for a hitsumabushi set with rice,
+      soup, and pickles, given the restaurant's mid-to-upper price level; exact
+      prices vary by portion size and season, so confirm current menu pricing on
+      arrival.
   - q: How do I get there without a car?
-    a: Take the Meitetsu Nagoya Main Line to Jingu-mae Station or the Meijo subway line to Jingu Nishi Station, both a short walk from Atsuta Jingu and the restaurant, roughly 10–15 minutes from central Nagoya Station.
+    a: >-
+      Take the Meitetsu Nagoya Main Line to Jingu-mae Station or the Meijo
+      subway line to Jingu Nishi Station, both a short walk from Atsuta Jingu
+      and the restaurant, roughly 10–15 minutes from central Nagoya Station.
   - q: How long should I budget for the visit?
-    a: Expect 30–60 minutes of waiting for a table (longer on weekends), plus 45–60 minutes to eat, so budgeting about two hours total, including a walk through nearby Atsuta Jingu, works well.
+    a: >-
+      Expect 30–60 minutes of waiting for a table (longer on weekends), plus
+      45–60 minutes to eat, so budgeting about two hours total, including a walk
+      through nearby Atsuta Jingu, works well.
   - q: What's the best time of year to visit?
-    a: Spring and autumn tend to have shorter waits; midsummer, especially around the day of the ox in late July, is the traditional eel-eating season and the busiest, priciest time to go.
+    a: >-
+      Spring and autumn tend to have shorter waits; midsummer, especially around
+      the day of the ox in late July, is the traditional eel-eating season and
+      the busiest, priciest time to go.
 aiGenerated: true
+updatedDate: '2026-09-14'
 ---
 
 ## Why go

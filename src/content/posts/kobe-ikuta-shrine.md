@@ -1,44 +1,50 @@
 ---
-title: "Ikuta Shrine: Kobe Travel Guide (4.3★)"
-description: "Ikuta Shrine sits at 1-chōme-2-1 Shimoyamatedōri in Chuo Ward, a five-minute walk north of Sannomiya Station, Kobe's main downtown hub. 4.3★ (12,452 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Kobe"
-category: "attraction"
-pubDate: "2026-09-14T08:16:11.770Z"
+title: 'Ikuta Shrine: Kobe Travel Guide (4.3★)'
+description: >-
+  Ikuta Shrine sits at 1-chōme-2-1 Shimoyamatedōri in Chuo Ward, a five-minute
+  walk north of Sannomiya Station, Kobe's main downtown hub. 4.3★ (12,453
+  reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Kobe
+category: attraction
+pubDate: '2026-09-14T08:16:11.770Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ikuta_Shrine_honden.jpg/1920px-Ikuta_Shrine_honden.jpg"
-  credit: "Photo: Wikimedia Commons contributor / Wikimedia Commons (CC BY 2.5)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ikuta_Shrine_honden.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ikuta_Shrine_honden.jpg/1920px-Ikuta_Shrine_honden.jpg
+  credit: 'Photo: Wikimedia Commons contributor / Wikimedia Commons (CC BY 2.5)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Ikuta_Shrine_honden.jpg'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ikuta_jinja_kobe_15.jpg/3840px-Ikuta_jinja_kobe_15.jpg"
-    credit: "Photo: Hyppolyte de Saint-Rambert / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Ikuta_jinja_kobe_15.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ikuta_jinja_kobe_15.jpg/3840px-Ikuta_jinja_kobe_15.jpg
+    credit: 'Photo: Hyppolyte de Saint-Rambert / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Ikuta_jinja_kobe_15.jpg'
 place:
-  id: "ChIJweCflOOOAGARSAhXB35rPCY"
-  name: "Ikuta Shrine"
-  address: "1-chōme-2-1 Shimoyamatedōri, Chuo Ward, Kobe, Hyogo 650-0011, Japan"
+  id: ChIJweCflOOOAGARSAhXB35rPCY
+  name: Ikuta Shrine
+  address: '1-chōme-2-1 Shimoyamatedōri, Chuo Ward, Kobe, Hyogo 650-0011, Japan'
   rating: 4.3
-  userRatingsTotal: 12452
-  googleMapsUrl: "https://maps.google.com/?cid=2755195261077096520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 12453
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2755195261077096520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.6947159
   lng: 135.1907243
-  phone: "+81 78-321-3851"
+  phone: +81 78-321-3851
   openingHours:
-    - "Monday: 7:00 AM – 4:30 PM"
-    - "Tuesday: 7:00 AM – 4:30 PM"
-    - "Wednesday: 7:00 AM – 4:30 PM"
-    - "Thursday: 7:00 AM – 4:30 PM"
-    - "Friday: 7:00 AM – 4:30 PM"
-    - "Saturday: 7:00 AM – 4:30 PM"
-    - "Sunday: 7:00 AM – 4:30 PM"
+    - 'Monday: 7:00 AM – 4:30 PM'
+    - 'Tuesday: 7:00 AM – 4:30 PM'
+    - 'Wednesday: 7:00 AM – 4:30 PM'
+    - 'Thursday: 7:00 AM – 4:30 PM'
+    - 'Friday: 7:00 AM – 4:30 PM'
+    - 'Saturday: 7:00 AM – 4:30 PM'
+    - 'Sunday: 7:00 AM – 4:30 PM'
   busyness:
-    updated: 2026-09-14
+    updated: 2026-09-14T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -53,24 +59,45 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_5943507235334258684153524147414f4f4f6c664365774a496843"
+    venueId: ven_5943507235334258684153524147414f4f4f6c664365774a496843
 tags:
-  - "kobe"
-  - "historic site"
-quickAnswer: "Ikuta Shrine sits at 1-chōme-2-1 Shimoyamatedōri in Chuo Ward, a five-minute walk north of Sannomiya Station, Kobe's main downtown hub. It's open daily 7am–4:30pm and, being one of the most visited shrines in the city, is calmest between 7am and 9am; from 9am to 4pm on weekends it fills up fast. Budget 30–45 minutes, longer if you want to sit at the shrine's own café or browse the forested grounds behind the main hall."
+  - kobe
+  - historic site
+quickAnswer: >-
+  Ikuta Shrine sits at 1-chōme-2-1 Shimoyamatedōri in Chuo Ward, a five-minute
+  walk north of Sannomiya Station, Kobe's main downtown hub. It's open daily
+  7am–4:30pm and, being one of the most visited shrines in the city, is calmest
+  between 7am and 9am; from 9am to 4pm on weekends it fills up fast. Budget
+  30–45 minutes, longer if you want to sit at the shrine's own café or browse
+  the forested grounds behind the main hall.
 faq:
-  - q: "How do I get to Ikuta Shrine?"
-    a: "It's about a 5-minute walk north from Sannomiya Station (JR, Hankyu, Hanshin, and subway lines all converge there) through the Ikuta-shinmichi arcade. It's also roughly a 10-minute walk from Kobe's Motomachi area."
-  - q: "What are the opening hours?"
-    a: "Ikuta Shrine is open daily from 7:00 AM to 4:30 PM, with no variation across the week. Check for special extended hours around New Year, when shrines nationwide often adjust schedules."
-  - q: "When is it least crowded?"
-    a: "Both weekdays and weekends are quietest between 7am and 9am, right after opening. Weekend afternoons, especially 9am to 4pm, get busy, so arrive early if you want the grounds to yourself."
-  - q: "How long should I plan to spend there?"
-    a: "A quick visit to the main hall takes about 10 minutes, but budget 30–45 minutes to also walk the small forest loop behind the hall, browse the sub-shrines, and stop by the on-site café."
-  - q: "Is there an entry fee?"
-    a: "No, entry to the shrine grounds is free. Small optional costs apply if you buy an omikuji fortune slip or an ema plaque."
+  - q: How do I get to Ikuta Shrine?
+    a: >-
+      It's about a 5-minute walk north from Sannomiya Station (JR, Hankyu,
+      Hanshin, and subway lines all converge there) through the Ikuta-shinmichi
+      arcade. It's also roughly a 10-minute walk from Kobe's Motomachi area.
+  - q: What are the opening hours?
+    a: >-
+      Ikuta Shrine is open daily from 7:00 AM to 4:30 PM, with no variation
+      across the week. Check for special extended hours around New Year, when
+      shrines nationwide often adjust schedules.
+  - q: When is it least crowded?
+    a: >-
+      Both weekdays and weekends are quietest between 7am and 9am, right after
+      opening. Weekend afternoons, especially 9am to 4pm, get busy, so arrive
+      early if you want the grounds to yourself.
+  - q: How long should I plan to spend there?
+    a: >-
+      A quick visit to the main hall takes about 10 minutes, but budget 30–45
+      minutes to also walk the small forest loop behind the hall, browse the
+      sub-shrines, and stop by the on-site café.
+  - q: Is there an entry fee?
+    a: >-
+      No, entry to the shrine grounds is free. Small optional costs apply if you
+      buy an omikuji fortune slip or an ema plaque.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-14'
 ---
 
 Most visitors reach Ikuta Shrine by walking straight up the covered arcade from Sannomiya, and the transition is abrupt: neon and department stores give way, within a couple of blocks, to a vermilion torii gate and a gravel forecourt. That contrast is the whole point of the place. This is claimed to be one of Japan's oldest shrines, with roots traced to the early 3rd century, sitting only a few minutes' walk from Kobe's busiest train station.

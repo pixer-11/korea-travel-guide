@@ -1,52 +1,85 @@
 ---
-title: "Santa Iglesia Catedral Basílica de la Encarnación de Málaga: Malaga Travel Guide"
-description: "The Santa Iglesia Catedral Basílica de la Encarnación de Málaga, known locally as \"La Manquita\" (the one-armed lady) because its second tower was never finished, sits on Calle Molina Lario in the Distrito Centro. 4.6★ (36,946 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "Malaga"
-category: "attraction"
-pubDate: "2026-09-14T07:42:01.312Z"
+title: >-
+  Santa Iglesia Catedral Basílica de la Encarnación de Málaga: Malaga Travel
+  Guide
+description: >-
+  The Santa Iglesia Catedral Basílica de la Encarnación de Málaga, known locally
+  as "La Manquita" (the one-armed lady) because its second tower was never
+  finished, sits on Calle Molina Lario in the Distrito Centro. 4.6★ (36,955
+  reviews) — what visitors say, hours, and tips.
+country: Spain
+region: Malaga
+category: attraction
+pubDate: '2026-09-14T07:42:01.312Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/7/7c/2002-10-26_11-15_Andalusien%2C_Lissabon_016_M%C3%A1laga%2C_Santa_Iglesia_Catedral_Bas%C3%ADlica_de_la_Encarnaci%C3%B3n_%283167856974%29.jpg"
-  credit: "Photo: Allie_Caulfield / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:2002-10-26_11-15_Andalusien,_Lissabon_016_M%C3%A1laga,_Santa_Iglesia_Catedral_Bas%C3%ADlica_de_la_Encarnaci%C3%B3n_(3167856974).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/7c/2002-10-26_11-15_Andalusien%2C_Lissabon_016_M%C3%A1laga%2C_Santa_Iglesia_Catedral_Bas%C3%ADlica_de_la_Encarnaci%C3%B3n_%283167856974%29.jpg
+  credit: 'Photo: Allie_Caulfield / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:2002-10-26_11-15_Andalusien,_Lissabon_016_M%C3%A1laga,_Santa_Iglesia_Catedral_Bas%C3%ADlica_de_la_Encarnaci%C3%B3n_(3167856974).jpg
+  via: act
   focus:
     x: 55
-    y: 30
+    'y': 30
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/c/c5/2002-10-26_11-15_%28Andalusien_%26_Lissabon_009%29_M%C3%A1laga%2C_Santa_Iglesia_Catedral_Bas%C3%ADlica_de_la_Encarnaci%C3%B3n.jpg"
-    credit: "Photo: Allie_Caulfield / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:2002-10-26_11-15_(Andalusien_%26_Lissabon_009)_M%C3%A1laga,_Santa_Iglesia_Catedral_Bas%C3%ADlica_de_la_Encarnaci%C3%B3n.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/c/c5/2002-10-26_11-15_%28Andalusien_%26_Lissabon_009%29_M%C3%A1laga%2C_Santa_Iglesia_Catedral_Bas%C3%ADlica_de_la_Encarnaci%C3%B3n.jpg
+    credit: 'Photo: Allie_Caulfield / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:2002-10-26_11-15_(Andalusien_%26_Lissabon_009)_M%C3%A1laga,_Santa_Iglesia_Catedral_Bas%C3%ADlica_de_la_Encarnaci%C3%B3n.jpg
 place:
-  id: "ChIJjanOEZX3cg0R-hlvsHnCw_w"
-  name: "Santa Iglesia Catedral Basílica de la Encarnación de Málaga"
-  address: "C. Molina Lario, 9, Distrito Centro, 29015 Málaga, Spain"
+  id: ChIJjanOEZX3cg0R-hlvsHnCw_w
+  name: Santa Iglesia Catedral Basílica de la Encarnación de Málaga
+  address: 'C. Molina Lario, 9, Distrito Centro, 29015 Málaga, Spain'
   rating: 4.6
-  userRatingsTotal: 36946
-  googleMapsUrl: "https://maps.google.com/?cid=18213615145923320314&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 36955
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=18213615145923320314&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.7201678
   lng: -4.419310600000001
-  phone: "+34 617 50 05 82"
+  phone: +34 617 50 05 82
 tags:
-  - "malaga"
-  - "historic site"
-quickAnswer: "The Santa Iglesia Catedral Basílica de la Encarnación de Málaga, known locally as \"La Manquita\" (the one-armed lady) because its second tower was never finished, sits on Calle Molina Lario in the Distrito Centro. It's one of the most visited sites in Malaga, so arrive close to opening to beat tour groups and cruise-ship crowds. Budget an hour for the nave and choir stalls, longer if you climb the rooftop terraces."
+  - malaga
+  - historic site
+quickAnswer: >-
+  The Santa Iglesia Catedral Basílica de la Encarnación de Málaga, known locally
+  as "La Manquita" (the one-armed lady) because its second tower was never
+  finished, sits on Calle Molina Lario in the Distrito Centro. It's one of the
+  most visited sites in Malaga, so arrive close to opening to beat tour groups
+  and cruise-ship crowds. Budget an hour for the nave and choir stalls, longer
+  if you climb the rooftop terraces.
 faq:
-  - q: "How do I get to the Malaga Cathedral?"
-    a: "It's in the pedestrian centre of Malaga at Calle Molina Lario 9, about a 10-12 minute walk from the Muelle Uno waterfront and steps from Plaza del Obispo and the Alcazaba."
-  - q: "How long should I spend there?"
-    a: "Plan on about an hour for the nave, choir stalls and chapels. Add 45 minutes if you book the rooftop terrace tour, plus 10-15 minutes for the small museum."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Arrive in the first hour after opening on a weekday. This is one of the most visited sites in Malaga, and cruise and coach tour groups tend to fill it up by midday."
-  - q: "Why is it called 'La Manquita'?"
-    a: "It's the local nickname, meaning 'the one-armed woman,' because the south tower was never completed and the cathedral has stood with one finished tower for centuries."
-  - q: "What's nearby if I want to combine the visit?"
-    a: "Plaza de la Constitución and the Alcazaba fortress are both within easy walking distance, making it simple to fold the cathedral into a single morning of sightseeing in Distrito Centro."
+  - q: How do I get to the Malaga Cathedral?
+    a: >-
+      It's in the pedestrian centre of Malaga at Calle Molina Lario 9, about a
+      10-12 minute walk from the Muelle Uno waterfront and steps from Plaza del
+      Obispo and the Alcazaba.
+  - q: How long should I spend there?
+    a: >-
+      Plan on about an hour for the nave, choir stalls and chapels. Add 45
+      minutes if you book the rooftop terrace tour, plus 10-15 minutes for the
+      small museum.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Arrive in the first hour after opening on a weekday. This is one of the
+      most visited sites in Malaga, and cruise and coach tour groups tend to
+      fill it up by midday.
+  - q: Why is it called 'La Manquita'?
+    a: >-
+      It's the local nickname, meaning 'the one-armed woman,' because the south
+      tower was never completed and the cathedral has stood with one finished
+      tower for centuries.
+  - q: What's nearby if I want to combine the visit?
+    a: >-
+      Plaza de la Constitución and the Alcazaba fortress are both within easy
+      walking distance, making it simple to fold the cathedral into a single
+      morning of sightseeing in Distrito Centro.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-14'
 ---
 
 Locals call it La Manquita, "the one-armed woman," because the south tower stops abruptly at the roofline while the north tower rises to over 80 metres. Money meant for finishing it reportedly went to help American colonists fight the British in the 1780s, or so the popular story goes. Either way, the lopsided silhouette is now the thing people photograph from Calle Molina Lario before they've even bought a ticket.

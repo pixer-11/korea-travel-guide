@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: chennai-thiru-vi-ka-park
-srcHash: '213ff93e3c5d'
+srcHash: '2eea85ce6472'
 title: 'Parque Thiru Vi Ka: guía de viaje de Chennai (4,5★)'
-description: 'El parque Thiru Vi Ka, en Shenoy Nagar (Chennai), es un parque vecinal vallado que solo abre en dos franjas diarias: de 5 a 9 de la mañana y de 5 a 9 de la tarde. 4,5★ (2.093 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El parque Thiru Vi Ka, en Shenoy Nagar (Chennai), es un parque vecinal vallado que solo abre en dos franjas diarias: de 5 a 9 de la mañana y de 5 a 9 de la tarde. 4,5★ (2.094 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El parque Thiru Vi Ka, en Shenoy Nagar (Chennai), es un parque vecinal vallado que solo abre en dos franjas diarias: de 5 a 9 de la mañana y de 5 a 9 de la tarde. Conviene ir en el turno de la mañana para caminar con tranquilidad por la pista antes de que llegue el gentío; por las tardes se llena de familias y de gente que sale a correr. No parece haber tarifa de entrada, pero conviene confirmar los horarios vigentes antes de salir hacia allí.'
 faq:
   - q: ¿Cuál es el horario del parque Thiru Vi Ka?

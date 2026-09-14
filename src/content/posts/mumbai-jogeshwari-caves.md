@@ -1,43 +1,49 @@
 ---
-title: "Jogeshwari Caves: Mumbai Travel Guide (4.4★)"
-description: "Jogeshwari Caves, tucked in Jogeshwari East in Mumbai's northern suburbs, are among the oldest rock-cut cave temples in India, dating to the mid-1st century. 4.4★ (3,233 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Mumbai"
-category: "attraction"
-pubDate: "2026-08-26T08:06:27.424Z"
+title: 'Jogeshwari Caves: Mumbai Travel Guide (4.4★)'
+description: >-
+  Jogeshwari Caves, tucked in Jogeshwari East in Mumbai's northern suburbs, are
+  among the oldest rock-cut cave temples in India, dating to the mid-1st
+  century. 4.4★ (3,241 reviews) — what visitors say, hours, and tips.
+country: India
+region: Mumbai
+category: attraction
+pubDate: '2026-08-26T08:06:27.424Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Jogeshwari_Caves_inside.jpg/1920px-Jogeshwari_Caves_inside.jpg"
-  credit: "Photo: Himanshu Sarpotdar / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Jogeshwari_Caves_inside.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Jogeshwari_Caves_inside.jpg/1920px-Jogeshwari_Caves_inside.jpg
+  credit: 'Photo: Himanshu Sarpotdar / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Jogeshwari_Caves_inside.jpg'
   focus:
     x: 40
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/76820637_R4OwQrdmfK7nOuwmTZ84K_L_4alz5lCxNcnHXK5ULKs.jpg"
-    credit: "Photo: Foursquare user content (Jogeshwari Caves)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4b0587d2f964a5200fa322e3"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/76820637_R4OwQrdmfK7nOuwmTZ84K_L_4alz5lCxNcnHXK5ULKs.jpg
+    credit: 'Photo: Foursquare user content (Jogeshwari Caves)'
+    license: foursquare
+    source: 'https://foursquare.com/v/4b0587d2f964a5200fa322e3'
 place:
-  id: "ChIJ4UEIPtK35zsRBXw609ScSPg"
-  name: "Jogeshwari Caves"
-  address: "Gupha Tekdi, Jogeshwari East, Mumbai, Maharashtra 400060, India"
+  id: ChIJ4UEIPtK35zsRBXw609ScSPg
+  name: Jogeshwari Caves
+  address: 'Gupha Tekdi, Jogeshwari East, Mumbai, Maharashtra 400060, India'
   rating: 4.4
-  userRatingsTotal: 3233
-  googleMapsUrl: "https://maps.google.com/?cid=17890721957620120581&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3241
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17890721957620120581&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 19.138962499999998
   lng: 72.8571719
   openingHours:
-    - "Monday: 6:00 AM – 1:00 PM, 4:30 – 9:00 PM"
-    - "Tuesday: 6:00 AM – 1:00 PM, 4:30 – 9:00 PM"
-    - "Wednesday: 6:00 AM – 1:00 PM, 4:30 – 9:00 PM"
-    - "Thursday: 6:00 AM – 1:00 PM, 4:30 – 9:00 PM"
-    - "Friday: 6:00 AM – 1:00 PM, 4:30 – 9:00 PM"
-    - "Saturday: 6:00 AM – 1:00 PM, 4:30 – 9:00 PM"
-    - "Sunday: 6:00 AM – 1:00 PM, 4:30 – 9:00 PM"
+    - 'Monday: 6:00 AM – 1:00 PM, 4:30 – 9:00 PM'
+    - 'Tuesday: 6:00 AM – 1:00 PM, 4:30 – 9:00 PM'
+    - 'Wednesday: 6:00 AM – 1:00 PM, 4:30 – 9:00 PM'
+    - 'Thursday: 6:00 AM – 1:00 PM, 4:30 – 9:00 PM'
+    - 'Friday: 6:00 AM – 1:00 PM, 4:30 – 9:00 PM'
+    - 'Saturday: 6:00 AM – 1:00 PM, 4:30 – 9:00 PM'
+    - 'Sunday: 6:00 AM – 1:00 PM, 4:30 – 9:00 PM'
   busyness:
-    updated: 2026-08-26
+    updated: 2026-08-26T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekdayBusy:
@@ -51,24 +57,43 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_675053635339303677584252737a35334b7450494555344a496843"
+    venueId: ven_675053635339303677584252737a35334b7450494555344a496843
 tags:
-  - "mumbai"
-  - "historic site"
-quickAnswer: "Jogeshwari Caves, tucked in Jogeshwari East in Mumbai's northern suburbs, are among the oldest rock-cut cave temples in India, dating to the mid-1st century. They're open daily 6am–1pm and 4:30–9pm, and the calmest window to visit is 7am–8am on any day of the week. Skip weekend evenings between 5pm and 9pm, when the temple crowd peaks."
+  - mumbai
+  - historic site
+quickAnswer: >-
+  Jogeshwari Caves, tucked in Jogeshwari East in Mumbai's northern suburbs, are
+  among the oldest rock-cut cave temples in India, dating to the mid-1st
+  century. They're open daily 6am–1pm and 4:30–9pm, and the calmest window to
+  visit is 7am–8am on any day of the week. Skip weekend evenings between 5pm and
+  9pm, when the temple crowd peaks.
 faq:
-  - q: "What are the opening hours for Jogeshwari Caves?"
-    a: "Daily from 6:00 AM to 1:00 PM, then again from 4:30 PM to 9:00 PM. The caves are closed to visitors between 1pm and 4:30pm, so plan your visit around that gap."
-  - q: "How do I get to Jogeshwari Caves?"
-    a: "Take the Western Railway suburban line to Jogeshwari station, then walk or take a short auto-rickshaw ride (10-15 minutes) to Gupha Tekdi. There's no dedicated parking, so the train is the most reliable option."
-  - q: "When is the quietest time to visit?"
-    a: "Both weekdays and weekends are calmest between 7am and 8am. Avoid weekend evenings from 5pm to 9pm, when local worshippers crowd the shrine after work hours."
-  - q: "How long should I spend at the caves?"
-    a: "Most visitors need 30-45 minutes to see the main hall, shrine, and carvings. Bring a small torch since the interior lighting is dim in parts."
-  - q: "Is there an entry fee?"
-    a: "There's no formal ticket booth; visitors typically leave a small cash donation at the shrine. Keep small denomination notes or coins on hand."
+  - q: What are the opening hours for Jogeshwari Caves?
+    a: >-
+      Daily from 6:00 AM to 1:00 PM, then again from 4:30 PM to 9:00 PM. The
+      caves are closed to visitors between 1pm and 4:30pm, so plan your visit
+      around that gap.
+  - q: How do I get to Jogeshwari Caves?
+    a: >-
+      Take the Western Railway suburban line to Jogeshwari station, then walk or
+      take a short auto-rickshaw ride (10-15 minutes) to Gupha Tekdi. There's no
+      dedicated parking, so the train is the most reliable option.
+  - q: When is the quietest time to visit?
+    a: >-
+      Both weekdays and weekends are calmest between 7am and 8am. Avoid weekend
+      evenings from 5pm to 9pm, when local worshippers crowd the shrine after
+      work hours.
+  - q: How long should I spend at the caves?
+    a: >-
+      Most visitors need 30-45 minutes to see the main hall, shrine, and
+      carvings. Bring a small torch since the interior lighting is dim in parts.
+  - q: Is there an entry fee?
+    a: >-
+      There's no formal ticket booth; visitors typically leave a small cash
+      donation at the shrine. Keep small denomination notes or coins on hand.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-14'
 ---
 You'd walk past the entrance without knowing it's there. Jogeshwari Caves sit below street level, reached down a narrow lane off the main road in Jogeshwari East, hemmed in on all sides by apartment blocks that have crept right up to the cave mouth over the decades.
 

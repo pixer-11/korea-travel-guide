@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: mumbai-leopold-cafe
-srcHash: '464e955ad4c5'
+srcHash: '8cd292ab1108'
 title: 'Leopold Cafe: Guía de viaje de Mumbai (4.2★)'
-description: 'Leopold Cafe es el histórico bar-restaurante de 1871 situado en Colaba Causeway, abierto todos los días de 7:30 a. m. a 12:30 a. m., donde se sirve de todo, desde tortillas hasta butter chicken y cerveza fría, bajo ventiladores de techo que giran despacio y paredes cubiertas de espejos. 4.2★ (32,717 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Leopold Cafe es el histórico bar-restaurante de 1871 situado en Colaba Causeway, abierto todos los días de 7:30 a. m. a 12:30 a. m., donde se sirve de todo, desde tortillas hasta butter chicken y cerveza fría, bajo ventiladores de techo que giran despacio y paredes cubiertas de espejos. 4.2★ (32,901 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Leopold Cafe es el histórico bar-restaurante de 1871 situado en Colaba Causeway, abierto todos los días de 7:30 a. m. a 12:30 a. m., donde se sirve de todo, desde tortillas hasta butter chicken y cerveza fría, bajo ventiladores de techo que giran despacio y paredes cubiertas de espejos. Los fines de semana, de 3 p. m. a 11 p. m., es cuando más gente hay, así que si quieres conseguir mesa sin esperar, ve entre las 7:30 a. m. y el mediodía, cualquier día de la semana. Calcula entre 45 y 90 minutos para la visita, o más si te instalas con una bebida a observar el ir y venir de Colaba Causeway.
 faq:
   - q: ¿Cómo llego a Leopold Cafe desde las estaciones de tren de Mumbai?

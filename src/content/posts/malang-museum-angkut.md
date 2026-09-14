@@ -1,44 +1,53 @@
 ---
-title: "Museum Angkut: Malang Travel Guide (4.7★)"
-description: "Museum Angkut in Batu, near Malang, is a transport-and-movie-set theme museum where classic cars, tanks and mopeds sit inside full-scale Hollywood, European and Las Vegas-style backdrops. 4.7★ (58,465 reviews) — what visitors say, hours, and tips."
-country: "Indonesia"
-region: "Malang"
-category: "attraction"
-pubDate: "2026-09-14T07:49:51.271Z"
+title: 'Museum Angkut: Malang Travel Guide (4.7★)'
+description: >-
+  Museum Angkut in Batu, near Malang, is a transport-and-movie-set theme museum
+  where classic cars, tanks and mopeds sit inside full-scale Hollywood, European
+  and Las Vegas-style backdrops. 4.7★ (58,467 reviews) — what visitors say,
+  hours, and tips.
+country: Indonesia
+region: Malang
+category: attraction
+pubDate: '2026-09-14T07:49:51.271Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Museum_angkut.jpg"
-  credit: "Photo: Fathiya Rahmani / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Museum_angkut.jpg"
+  url: 'https://upload.wikimedia.org/wikipedia/commons/a/ad/Museum_angkut.jpg'
+  credit: 'Photo: Fathiya Rahmani / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Museum_angkut.jpg'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Inside_Museum_Angkut_%28Transport_Museum%29%2C_Batu%2C_Malang_Indonesia_02.jpg/3840px-Inside_Museum_Angkut_%28Transport_Museum%29%2C_Batu%2C_Malang_Indonesia_02.jpg"
-    credit: "Photo: Jfkjaya / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Inside_Museum_Angkut_(Transport_Museum),_Batu,_Malang_Indonesia_02.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Inside_Museum_Angkut_%28Transport_Museum%29%2C_Batu%2C_Malang_Indonesia_02.jpg/3840px-Inside_Museum_Angkut_%28Transport_Museum%29%2C_Batu%2C_Malang_Indonesia_02.jpg
+    credit: 'Photo: Jfkjaya / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Inside_Museum_Angkut_(Transport_Museum),_Batu,_Malang_Indonesia_02.jpg
 place:
-  id: "ChIJEyzN0y2HeC4ROB080owDlTI"
-  name: "Museum Angkut"
-  address: "Jl. Sultan Agung No.2, Ngaglik, Kec. Batu, Kota Batu, Jawa Timur 65314, Indonesia"
+  id: ChIJEyzN0y2HeC4ROB080owDlTI
+  name: Museum Angkut
+  address: >-
+    Jl. Sultan Agung No.2, Ngaglik, Kec. Batu, Kota Batu, Jawa Timur 65314,
+    Indonesia
   rating: 4.7
-  userRatingsTotal: 58465
-  googleMapsUrl: "https://maps.google.com/?cid=3644823376783744312&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 58467
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3644823376783744312&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -7.8790651999999985
   lng: 112.5187151
-  phone: "+62 811-3115-0077"
+  phone: +62 811-3115-0077
   openingHours:
-    - "Monday: 12:00 – 8:00 PM"
-    - "Tuesday: 12:00 – 8:00 PM"
-    - "Wednesday: 12:00 – 8:00 PM"
-    - "Thursday: 12:00 – 8:00 PM"
-    - "Friday: 12:00 – 8:00 PM"
-    - "Saturday: 12:00 – 8:00 PM"
-    - "Sunday: 12:00 – 8:00 PM"
+    - 'Monday: 12:00 – 8:00 PM'
+    - 'Tuesday: 12:00 – 8:00 PM'
+    - 'Wednesday: 12:00 – 8:00 PM'
+    - 'Thursday: 12:00 – 8:00 PM'
+    - 'Friday: 12:00 – 8:00 PM'
+    - 'Saturday: 12:00 – 8:00 PM'
+    - 'Sunday: 12:00 – 8:00 PM'
   busyness:
-    updated: 2026-09-14
+    updated: 2026-09-14T00:00:00.000Z
     weekdayQuiet:
       - 12
       - 13
@@ -54,24 +63,41 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_49546c44776f303830424f52344365483279304e7a79454a496843"
+    venueId: ven_49546c44776f303830424f52344365483279304e7a79454a496843
 tags:
-  - "malang"
-  - "museum"
-quickAnswer: "Museum Angkut in Batu, near Malang, is a transport-and-movie-set theme museum where classic cars, tanks and mopeds sit inside full-scale Hollywood, European and Las Vegas-style backdrops. It's open daily from noon to 8pm, and the calmest stretch is right after opening on weekdays; weekend crowds build fast between 2pm and 7pm. Budget three to four hours, and go in the evening for the neon-lit Vegas Land section."
+  - malang
+  - museum
+quickAnswer: >-
+  Museum Angkut in Batu, near Malang, is a transport-and-movie-set theme museum
+  where classic cars, tanks and mopeds sit inside full-scale Hollywood, European
+  and Las Vegas-style backdrops. It's open daily from noon to 8pm, and the
+  calmest stretch is right after opening on weekdays; weekend crowds build fast
+  between 2pm and 7pm. Budget three to four hours, and go in the evening for the
+  neon-lit Vegas Land section.
 faq:
-  - q: "How long should I spend at Museum Angkut?"
-    a: "Plan on three to four hours to cover the vehicle halls and the themed movie-set zones like Hollywood and Las Vegas Land without rushing."
-  - q: "What is the quietest time to visit?"
-    a: "Weekdays are calm across the whole noon-to-8pm opening window. On weekends, the last hour, 7pm to 8pm, is the quietest stretch."
-  - q: "When should I avoid going?"
-    a: "Skip weekend afternoons between 2pm and 7pm if possible; that's when tour groups and families create the longest waits at photo spots."
-  - q: "How do I get there from Malang city?"
-    a: "It's about 20 to 25 minutes by car or ride-hail app (Grab/Gojek) from central Malang to the museum's address in Ngaglik, Kota Batu."
-  - q: "Is there anything else to combine it with nearby?"
-    a: "Yes, Jatim Park 1 and 2 and the Selecta gardens are all in Batu, close enough to fold into the same day trip."
+  - q: How long should I spend at Museum Angkut?
+    a: >-
+      Plan on three to four hours to cover the vehicle halls and the themed
+      movie-set zones like Hollywood and Las Vegas Land without rushing.
+  - q: What is the quietest time to visit?
+    a: >-
+      Weekdays are calm across the whole noon-to-8pm opening window. On
+      weekends, the last hour, 7pm to 8pm, is the quietest stretch.
+  - q: When should I avoid going?
+    a: >-
+      Skip weekend afternoons between 2pm and 7pm if possible; that's when tour
+      groups and families create the longest waits at photo spots.
+  - q: How do I get there from Malang city?
+    a: >-
+      It's about 20 to 25 minutes by car or ride-hail app (Grab/Gojek) from
+      central Malang to the museum's address in Ngaglik, Kota Batu.
+  - q: Is there anything else to combine it with nearby?
+    a: >-
+      Yes, Jatim Park 1 and 2 and the Selecta gardens are all in Batu, close
+      enough to fold into the same day trip.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-14'
 ---
 
 Most museums ask you to look at vehicles behind rope. This one drops a full-size Boeing fuselage, a New York fire truck and a Batmobile replica into painted street sets, then lets you walk right up and pose. Museum Angkut in Batu, just outside Malang, is built for photographs first and history second, and it owns that completely.

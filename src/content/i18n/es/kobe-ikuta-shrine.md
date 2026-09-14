@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: kobe-ikuta-shrine
-srcHash: '48e8afb5da13'
+srcHash: '8db0edc0c73e'
 title: 'Santuario Ikuta: Guía de viaje de Kobe (4,3★)'
-description: 'El santuario Ikuta se encuentra en 1-chōme-2-1 Shimoyamatedōri, en el distrito de Chuo, a cinco minutos a pie al norte de la estación de Sannomiya, el principal núcleo del centro de Kobe. 4,3★ (12.452 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El santuario Ikuta se encuentra en 1-chōme-2-1 Shimoyamatedōri, en el distrito de Chuo, a cinco minutos a pie al norte de la estación de Sannomiya, el principal núcleo del centro de Kobe. 4,3★ (12.453 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El santuario Ikuta se encuentra en 1-chōme-2-1 Shimoyamatedōri, en el distrito de Chuo, a cinco minutos a pie al norte de la estación de Sannomiya, el principal núcleo del centro de Kobe. Abre todos los días de 7:00 a 16:30 y, al ser uno de los santuarios más visitados de la ciudad, el momento más tranquilo es entre las 7:00 y las 9:00; los fines de semana, entre las 9:00 y las 16:00, se llena rápidamente. Conviene reservar entre 30 y 45 minutos, más si se quiere pasar por el café del propio santuario o recorrer el bosque que hay detrás del edificio principal.
 faq:
   - q: ¿Cómo se llega al santuario Ikuta?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: malaga-santa-iglesia-catedral-basilica-de-la-encarnacion-de-malaga
-srcHash: '811d4f137aa6'
+srcHash: '6c9ce676bc33'
 title: 'Santa Iglesia Catedral Basílica de la Encarnación de Málaga: Guía de viaje de Málaga'
-description: 'La Santa Iglesia Catedral Basílica de la Encarnación de Málaga, conocida popularmente como "La Manquita" porque su segunda torre nunca se terminó, se encuentra en la calle Molina Lario, en el Distrito Centro. 4,6★ (36.946 opiniones): lo que dicen los visitantes, horarios y consejos.'
+description: 'La Santa Iglesia Catedral Basílica de la Encarnación de Málaga, conocida popularmente como "La Manquita" porque su segunda torre nunca se terminó, se encuentra en la calle Molina Lario, en el Distrito Centro. 4,6★ (36.955 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Santa Iglesia Catedral Basílica de la Encarnación de Málaga, conocida popularmente como "La Manquita" porque su segunda torre nunca se terminó, se encuentra en la calle Molina Lario, en el Distrito Centro. Es uno de los monumentos más visitados de Málaga, así que conviene llegar cerca de la hora de apertura para adelantarse a los grupos turísticos y a las oleadas de cruceristas. Calcule una hora para recorrer la nave y el coro, y algo más si sube a las terrazas de la azotea.
 faq:
   - q: ¿Cómo se llega a la Catedral de Málaga?

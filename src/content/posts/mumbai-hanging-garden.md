@@ -1,44 +1,52 @@
 ---
-title: "Hanging Garden: Mumbai Travel Guide (4.2★)"
-description: "Hanging Garden (also called Pherozeshah Mehta Gardens) sits atop Malabar Hill in Mumbai, open daily 5am–9pm, and it's best visited early morning or right after sunrise for cool air and clear Arabian Sea views. 4.2★ (37,903 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Mumbai"
-category: "attraction"
-pubDate: "2026-08-26T08:18:48.697Z"
+title: 'Hanging Garden: Mumbai Travel Guide (4.2★)'
+description: >-
+  Hanging Garden (also called Pherozeshah Mehta Gardens) sits atop Malabar Hill
+  in Mumbai, open daily 5am–9pm, and it's best visited early morning or right
+  after sunrise for cool air and clear Arabian Sea views. 4.2★ (37,943 reviews)
+  — what visitors say, hours, and tips.
+country: India
+region: Mumbai
+category: attraction
+pubDate: '2026-08-26T08:18:48.697Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Mumbai_03-2016_22_Hanging_Garden.jpg/3840px-Mumbai_03-2016_22_Hanging_Garden.jpg"
-  credit: "Photo: A.Savin / Wikimedia Commons (FAL)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_22_Hanging_Garden.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Mumbai_03-2016_22_Hanging_Garden.jpg/3840px-Mumbai_03-2016_22_Hanging_Garden.jpg
+  credit: 'Photo: A.Savin / Wikimedia Commons (FAL)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_22_Hanging_Garden.jpg'
+  via: act
   focus:
     x: 25
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Mumbai_03-2016_23_Hanging_Garden.jpg/3840px-Mumbai_03-2016_23_Hanging_Garden.jpg"
-    credit: "Photo: A.Savin / Wikimedia Commons (FAL)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_23_Hanging_Garden.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Mumbai_03-2016_23_Hanging_Garden.jpg/3840px-Mumbai_03-2016_23_Hanging_Garden.jpg
+    credit: 'Photo: A.Savin / Wikimedia Commons (FAL)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_23_Hanging_Garden.jpg
 place:
-  id: "ChIJn3Q-5QnO5zsRmouUzzMGp5Q"
-  name: "Hanging Garden"
-  address: "Ridge Rd, Simla Nagar, Malabar Hill, Mumbai, Maharashtra 400006, India"
+  id: ChIJn3Q-5QnO5zsRmouUzzMGp5Q
+  name: Hanging Garden
+  address: 'Ridge Rd, Simla Nagar, Malabar Hill, Mumbai, Maharashtra 400006, India'
   rating: 4.2
-  userRatingsTotal: 37903
-  googleMapsUrl: "https://maps.google.com/?cid=10711537058319731610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 37943
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10711537058319731610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 18.9565598
   lng: 72.80498659999999
   openingHours:
-    - "Monday: 5:00 AM – 9:00 PM"
-    - "Tuesday: 5:00 AM – 9:00 PM"
-    - "Wednesday: 5:00 AM – 9:00 PM"
-    - "Thursday: 5:00 AM – 9:00 PM"
-    - "Friday: 5:00 AM – 9:00 PM"
-    - "Saturday: 5:00 AM – 9:00 PM"
-    - "Sunday: 5:00 AM – 9:00 PM"
+    - 'Monday: 5:00 AM – 9:00 PM'
+    - 'Tuesday: 5:00 AM – 9:00 PM'
+    - 'Wednesday: 5:00 AM – 9:00 PM'
+    - 'Thursday: 5:00 AM – 9:00 PM'
+    - 'Friday: 5:00 AM – 9:00 PM'
+    - 'Saturday: 5:00 AM – 9:00 PM'
+    - 'Sunday: 5:00 AM – 9:00 PM'
   busyness:
-    updated: 2026-08-26
+    updated: 2026-08-26T00:00:00.000Z
     weekdayBusy:
       - 18
       - 19
@@ -49,24 +57,40 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_513570474d7a7a55756f6d52737a354f6e51352d51336e4a496843"
+    venueId: ven_513570474d7a7a55756f6d52737a354f6e51352d51336e4a496843
 tags:
-  - "mumbai"
-  - "park"
-quickAnswer: "Hanging Garden (also called Pherozeshah Mehta Gardens) sits atop Malabar Hill in Mumbai, open daily 5am–9pm, and it's best visited early morning or right after sunrise for cool air and clear Arabian Sea views. Avoid weekend afternoons — 3pm–9pm is when it's busiest. Entry is free and a visit takes about 45 minutes to an hour."
+  - mumbai
+  - park
+quickAnswer: >-
+  Hanging Garden (also called Pherozeshah Mehta Gardens) sits atop Malabar Hill
+  in Mumbai, open daily 5am–9pm, and it's best visited early morning or right
+  after sunrise for cool air and clear Arabian Sea views. Avoid weekend
+  afternoons — 3pm–9pm is when it's busiest. Entry is free and a visit takes
+  about 45 minutes to an hour.
 faq:
-  - q: "What are Hanging Garden's opening hours?"
-    a: "It's open every day from 5:00 AM to 9:00 PM, so both sunrise and sunset visits are possible."
-  - q: "Is there an entry fee?"
-    a: "Entry has generally been free, though small charges for parking or cameras can apply — confirm at the gate since these details can change."
-  - q: "When is the quietest time to visit?"
-    a: "Early morning right after opening is calmest. Avoid weekend afternoons between 3pm and 9pm, when crowds are heaviest."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 45 minutes to an hour, longer if you pair it with Kamala Nehru Park just across the road."
-  - q: "How do I get to Hanging Garden?"
-    a: "There's no direct train station — take a taxi or app-cab up Malabar Hill's Ridge Road, since autorickshaws aren't permitted on this stretch."
+  - q: What are Hanging Garden's opening hours?
+    a: >-
+      It's open every day from 5:00 AM to 9:00 PM, so both sunrise and sunset
+      visits are possible.
+  - q: Is there an entry fee?
+    a: >-
+      Entry has generally been free, though small charges for parking or cameras
+      can apply — confirm at the gate since these details can change.
+  - q: When is the quietest time to visit?
+    a: >-
+      Early morning right after opening is calmest. Avoid weekend afternoons
+      between 3pm and 9pm, when crowds are heaviest.
+  - q: How long should I plan to spend there?
+    a: >-
+      Most visitors spend 45 minutes to an hour, longer if you pair it with
+      Kamala Nehru Park just across the road.
+  - q: How do I get to Hanging Garden?
+    a: >-
+      There's no direct train station — take a taxi or app-cab up Malabar Hill's
+      Ridge Road, since autorickshaws aren't permitted on this stretch.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-14'
 ---
 ## Why go
 

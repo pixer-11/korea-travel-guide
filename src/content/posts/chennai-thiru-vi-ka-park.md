@@ -1,55 +1,82 @@
 ---
-title: "Thiru Vi Ka Park: Chennai Travel Guide (4.5★)"
-description: "Thiru Vi Ka Park in Shenoy Nagar, Chennai, is a fenced neighbourhood park open only during two windows: 5–9am and 5–9pm daily. 4.5★ (2,093 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Chennai"
-category: "attraction"
-pubDate: "2026-09-14T07:43:39.159Z"
+title: 'Thiru Vi Ka Park: Chennai Travel Guide (4.5★)'
+description: >-
+  Thiru Vi Ka Park in Shenoy Nagar, Chennai, is a fenced neighbourhood park open
+  only during two windows: 5–9am and 5–9pm daily. 4.5★ (2,094 reviews) — what
+  visitors say, hours, and tips.
+country: India
+region: Chennai
+category: attraction
+pubDate: '2026-09-14T07:43:39.159Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/JatinSanghvi-Thiruvika-Welcome.jpg/1920px-JatinSanghvi-Thiruvika-Welcome.jpg"
-  credit: "Photo: Jatin071178 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:JatinSanghvi-Thiruvika-Welcome.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/JatinSanghvi-Thiruvika-Welcome.jpg/1920px-JatinSanghvi-Thiruvika-Welcome.jpg
+  credit: 'Photo: Jatin071178 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:JatinSanghvi-Thiruvika-Welcome.jpg'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJt2RVR4JmUjoRAqI1m0puNPs"
-  name: "Thiru Vi Ka Park"
-  address: "No 13, Thuru vi ka Park, Shanoy Nagar, Shenoy Nagar, Chennai, Tamil Nadu 600030, India"
+  id: ChIJt2RVR4JmUjoRAqI1m0puNPs
+  name: Thiru Vi Ka Park
+  address: >-
+    No 13, Thuru vi ka Park, Shanoy Nagar, Shenoy Nagar, Chennai, Tamil Nadu
+    600030, India
   rating: 4.5
-  userRatingsTotal: 2093
-  googleMapsUrl: "https://maps.google.com/?cid=18101214069019484674&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2094
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=18101214069019484674&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 13.0786161
   lng: 80.2251643
-  phone: "+91 99415 45985"
+  phone: +91 99415 45985
   openingHours:
-    - "Monday: 5:00 – 9:00 AM, 5:00 – 9:00 PM"
-    - "Tuesday: 5:00 – 9:00 AM, 5:00 – 9:00 PM"
-    - "Wednesday: 5:00 – 9:00 AM, 5:00 – 9:00 PM"
-    - "Thursday: 5:00 – 9:00 AM, 5:00 – 9:00 PM"
-    - "Friday: 5:00 – 9:00 AM, 5:00 – 9:00 PM"
-    - "Saturday: 5:00 – 9:00 AM, 5:00 – 9:00 PM"
-    - "Sunday: 5:00 – 9:00 AM, 5:00 – 9:00 PM"
+    - 'Monday: 5:00 – 9:00 AM, 5:00 – 9:00 PM'
+    - 'Tuesday: 5:00 – 9:00 AM, 5:00 – 9:00 PM'
+    - 'Wednesday: 5:00 – 9:00 AM, 5:00 – 9:00 PM'
+    - 'Thursday: 5:00 – 9:00 AM, 5:00 – 9:00 PM'
+    - 'Friday: 5:00 – 9:00 AM, 5:00 – 9:00 PM'
+    - 'Saturday: 5:00 – 9:00 AM, 5:00 – 9:00 PM'
+    - 'Sunday: 5:00 – 9:00 AM, 5:00 – 9:00 PM'
 tags:
-  - "chennai"
-  - "park"
-quickAnswer: "Thiru Vi Ka Park in Shenoy Nagar, Chennai, is a fenced neighbourhood park open only during two windows: 5–9am and 5–9pm daily. Go in the early slot for a calm walk on the track before the morning crowd builds; evenings get busy with families and joggers. There's no entry fee to check, but confirm current opening times before you head out."
+  - chennai
+  - park
+quickAnswer: >-
+  Thiru Vi Ka Park in Shenoy Nagar, Chennai, is a fenced neighbourhood park open
+  only during two windows: 5–9am and 5–9pm daily. Go in the early slot for a
+  calm walk on the track before the morning crowd builds; evenings get busy with
+  families and joggers. There's no entry fee to check, but confirm current
+  opening times before you head out.
 faq:
-  - q: "What are the opening hours of Thiru Vi Ka Park?"
-    a: "It opens twice daily, every day: 5:00–9:00 AM and 5:00–9:00 PM. It's closed outside these two windows, including the whole midday and late-night period."
-  - q: "Is there an entry fee?"
-    a: "Most neighbourhood parks of this type in Chennai are free or charge a token nominal fee, but this isn't officially confirmed here, so check the signboard at the gate when you arrive."
-  - q: "How do I get to Thiru Vi Ka Park?"
-    a: "It's in Shenoy Nagar, Chennai; the nearest Chennai Metro stop is Shenoy Nagar station on the Blue Line, a short auto or taxi ride from the park gate."
-  - q: "When is the best time to visit?"
-    a: "Early morning, right after the 5am opening, is calmest and coolest for walking the track. Evenings after 5pm get busier with families and after-work crowds."
-  - q: "How long should I spend here?"
-    a: "45 minutes to an hour covers a full walk around the track and time to sit by the pond area."
+  - q: What are the opening hours of Thiru Vi Ka Park?
+    a: >-
+      It opens twice daily, every day: 5:00–9:00 AM and 5:00–9:00 PM. It's
+      closed outside these two windows, including the whole midday and
+      late-night period.
+  - q: Is there an entry fee?
+    a: >-
+      Most neighbourhood parks of this type in Chennai are free or charge a
+      token nominal fee, but this isn't officially confirmed here, so check the
+      signboard at the gate when you arrive.
+  - q: How do I get to Thiru Vi Ka Park?
+    a: >-
+      It's in Shenoy Nagar, Chennai; the nearest Chennai Metro stop is Shenoy
+      Nagar station on the Blue Line, a short auto or taxi ride from the park
+      gate.
+  - q: When is the best time to visit?
+    a: >-
+      Early morning, right after the 5am opening, is calmest and coolest for
+      walking the track. Evenings after 5pm get busier with families and
+      after-work crowds.
+  - q: How long should I spend here?
+    a: >-
+      45 minutes to an hour covers a full walk around the track and time to sit
+      by the pond area.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-14'
 ---
 
 ## What this park actually is

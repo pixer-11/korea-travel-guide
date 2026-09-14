@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: malang-museum-angkut
-srcHash: '7ff69c52d1fd'
+srcHash: '7f84363d6f45'
 title: 'Museum Angkut: Guía de viaje de Malang (4,7★)'
-description: 'El Museum Angkut, en Batu, cerca de Malang, es un museo temático de transporte y decorados de cine donde coches clásicos, tanques y motocicletas conviven con escenografías a escala real de Hollywood, Europa y Las Vegas. 4,7★ (58.465 opiniones): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Museum Angkut, en Batu, cerca de Malang, es un museo temático de transporte y decorados de cine donde coches clásicos, tanques y motocicletas conviven con escenografías a escala real de Hollywood, Europa y Las Vegas. 4,7★ (58.467 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museum Angkut, en Batu, cerca de Malang, es un museo temático de transporte y decorados de cine donde coches clásicos, tanques y motocicletas conviven con escenografías a escala real de Hollywood, Europa y Las Vegas. Abre todos los días de 12 del mediodía a 8 de la tarde, y el momento más tranquilo es justo después de la apertura entre semana; los fines de semana, la afluencia crece rápido entre las 14:00 y las 19:00. Reserva entre tres y cuatro horas, y ve por la tarde-noche para disfrutar de la zona de Vegas Land iluminada con neones.
 faq:
   - q: ¿Cuánto tiempo debería dedicar al Museum Angkut?

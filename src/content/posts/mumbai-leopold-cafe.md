@@ -1,24 +1,32 @@
 ---
 title: 'Leopold Cafe: Mumbai Travel Guide (4.2★)'
-description: Leopold Cafe is the landmark 1871 bar-restaurant on Colaba Causeway, open daily 7:30am–12:30am, serving everything from omelettes to butter chicken to cold beer under slow ceiling fans and mirrored walls. 4.2★ (32,717 reviews) — what visitors say, hours, and tips.
+description: >-
+  Leopold Cafe is the landmark 1871 bar-restaurant on Colaba Causeway, open
+  daily 7:30am–12:30am, serving everything from omelettes to butter chicken to
+  cold beer under slow ceiling fans and mirrored walls. 4.2★ (32,901 reviews) —
+  what visitors say, hours, and tips.
 country: India
 region: Mumbai
 category: trendy
 pubDate: '2026-08-03T11:02:29.373Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LeopoldCafe_gobeirne.jpg/1920px-LeopoldCafe_gobeirne.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LeopoldCafe_gobeirne.jpg/1920px-LeopoldCafe_gobeirne.jpg
   credit: 'Photo: Photograph by Greg O''Beirne / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:LeopoldCafe_gobeirne.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:LeopoldCafe_gobeirne.jpg'
 gallery: []
 place:
   id: ChIJqSNr-8DR5zsRosXwmBExzRw
   name: Leopold Cafe
-  address: Shahid Bhagat Singh Road, Police Station, Colaba Causeway, near Colaba, Apollo Bandar, Colaba, Mumbai, Maharashtra 400001, India
+  address: >-
+    Shahid Bhagat Singh Road, Police Station, Colaba Causeway, near Colaba,
+    Apollo Bandar, Colaba, Mumbai, Maharashtra 400001, India
   rating: 4.2
-  userRatingsTotal: 32717
-  priceLevel: 3
-  googleMapsUrl: https://maps.google.com/?cid=2075368954937787810&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 32901
+  priceLevel: 2
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2075368954937787810&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 18.9227947
   lng: 72.83166589999999
@@ -33,11 +41,19 @@ place:
     - 'Sunday: 7:30 AM – 12:30 AM'
   busyness:
     updated: 2026-08-03T00:00:00.000Z
-    weekdayQuiet: [8, 9, 10, 11]
+    weekdayQuiet:
+      - 8
+      - 9
+      - 10
+      - 11
     weekdayBusy:
       - 19
       - 20
-    weekendQuiet: [8, 9, 10, 11]
+    weekendQuiet:
+      - 8
+      - 9
+      - 10
+      - 11
     weekendBusy:
       - 15
       - 16
@@ -51,20 +67,43 @@ place:
 tags:
   - mumbai
   - trendy cafe
-quickAnswer: Leopold Cafe is the landmark 1871 bar-restaurant on Colaba Causeway, open daily 7:30am–12:30am, serving everything from omelettes to butter chicken to cold beer under slow ceiling fans and mirrored walls. It's busiest from 3pm to 11pm on weekends, so go between 7:30am and noon (any day) if you want a table without a wait. Budget 45–90 minutes, more if you camp out with a drink and watch the Causeway go by.
+quickAnswer: >-
+  Leopold Cafe is the landmark 1871 bar-restaurant on Colaba Causeway, open
+  daily 7:30am–12:30am, serving everything from omelettes to butter chicken to
+  cold beer under slow ceiling fans and mirrored walls. It's busiest from 3pm to
+  11pm on weekends, so go between 7:30am and noon (any day) if you want a table
+  without a wait. Budget 45–90 minutes, more if you camp out with a drink and
+  watch the Causeway go by.
 faq:
   - q: How do I get to Leopold Cafe from Mumbai's train stations?
-    a: It's about a 15–20 minute taxi or auto-rickshaw ride from both Churchgate and CST stations, since Colaba itself isn't on the suburban rail network. It's a short walk from the Gateway of India and Taj Mahal Palace hotel.
+    a: >-
+      It's about a 15–20 minute taxi or auto-rickshaw ride from both Churchgate
+      and CST stations, since Colaba itself isn't on the suburban rail network.
+      It's a short walk from the Gateway of India and Taj Mahal Palace hotel.
   - q: When is the quietest time to visit?
-    a: Between 7:30am and 12pm, whether on a weekday or weekend, based on measured foot-traffic patterns. Avoid weekend afternoons and evenings, roughly 3pm to 11pm, when it's consistently busiest.
+    a: >-
+      Between 7:30am and 12pm, whether on a weekday or weekend, based on
+      measured foot-traffic patterns. Avoid weekend afternoons and evenings,
+      roughly 3pm to 11pm, when it's consistently busiest.
   - q: How much time should I plan for a visit?
-    a: Budget 45–90 minutes for a meal or drinks. It works well as a breakfast stop, a lunch break mid-sightseeing, or a longer evening sit with cocktails.
+    a: >-
+      Budget 45–90 minutes for a meal or drinks. It works well as a breakfast
+      stop, a lunch break mid-sightseeing, or a longer evening sit with
+      cocktails.
   - q: What's nearby that I can combine with a visit?
-    a: The Gateway of India, the Taj Mahal Palace hotel, the CSMVS (Prince of Wales) Museum, and the shops and market stalls along Colaba Causeway are all within a five- to ten-minute walk.
+    a: >-
+      The Gateway of India, the Taj Mahal Palace hotel, the CSMVS (Prince of
+      Wales) Museum, and the shops and market stalls along Colaba Causeway are
+      all within a five- to ten-minute walk.
   - q: Is Leopold Cafe expensive?
-    a: It sits in the mid-range to slightly pricier bracket for Mumbai dining, reflecting its location and history rather than being a budget eatery — expect to pay more than at a local dhaba but less than at a five-star hotel restaurant.
+    a: >-
+      It sits in the mid-range to slightly pricier bracket for Mumbai dining,
+      reflecting its location and history rather than being a budget eatery —
+      expect to pay more than at a local dhaba but less than at a five-star
+      hotel restaurant.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-14'
 ---
 You smell Leopold Cafe before you fully clock its sign (toasted bread, frying batter, the sweetish tang of Kingfisher on tap) drifting out onto Colaba Causeway where taxi horns and tailors touting "good price, sir" compete for your attention. Push through the door and the street noise drops half a register. Inside it's high-ceilinged and cavernous, all wood-paneled booths, ceiling fans turning lazily overhead, and mirrors that have watched three generations of Mumbai regulars, backpackers, and off-duty sailors argue over the check.
 

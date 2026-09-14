@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: malaga-santa-iglesia-catedral-basilica-de-la-encarnacion-de-malaga
-srcHash: '811d4f137aa6'
+srcHash: '6c9ce676bc33'
 title: 马拉加圣化主教座堂（Santa Iglesia Catedral Basílica de la Encarnación de Málaga）：马拉加旅行指南
-description: 马拉加圣化主教座堂坐落在市中心区（Distrito Centro）的莫利纳拉里奥街（Calle Molina Lario）上，当地人称它"独臂女士"（La Manquita），因为它的第二座钟塔始终没有完工。4.6★（36,946条点评）——看看游客怎么说、开放时间及游览贴士。
+description: 马拉加圣化主教座堂坐落在市中心区（Distrito Centro）的莫利纳拉里奥街（Calle Molina Lario）上，当地人称它"独臂女士"（La Manquita），因为它的第二座钟塔始终没有完工。4.6★（36,955条点评）——看看游客怎么说、开放时间及游览贴士。
 quickAnswer: 马拉加圣化主教座堂坐落在市中心区（Distrito Centro）的莫利纳拉里奥街（Calle Molina Lario）上，当地人称它"独臂女士"（La Manquita），因为它的第二座钟塔始终没有完工。这里是马拉加最热门的景点之一，建议尽量赶在开门后不久前往，避开旅行团和邮轮游客的人潮。参观主殿和唱诗席大约需要一小时，如果再登上屋顶露台，时间会更长。
 faq:
   - q: 怎么去马拉加大教堂？
