@@ -126,8 +126,10 @@ jobs:
           git config user.email "bot@users.noreply.github.com"
           git add data/logs/cf-token-check.txt
           git diff --cached --quiet || git commit -m "chore: cloudflare token check verdict"
-          git pull --rebase --quiet || true
-          git push || true
+          # Same helper as everywhere else: rebases with --autostash, so a file
+          # another step touched cannot stop the push (2026-09-14 sweep). The
+          # `|| true` stays — a verdict log is not worth a red job.
+          bash scripts/git-push-retry.sh || true
 
       - name: Send the answer to Telegram
         if: always()

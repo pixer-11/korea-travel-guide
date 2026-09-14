@@ -33,15 +33,24 @@ jobs:
 
       # The ledger is the point: a few months of these turn the alarm thresholds
       # from one observation into a measured baseline.
-      - name: commit the cohort ledger
+      - name: commit the two gsc ledgers
         run: |
           git config user.name  "content-bot"
           git config user.email "bot@users.noreply.github.com"
           # Absent only if the script bailed on a missing secret; adding it then
           # would fail the job over nothing.
           [ -f data/impression-cohort.json ] || exit 0
-          git add data/impression-cohort.json
+          # BOTH ledgers this job writes. Staging only the cohort one left
+          # data/gsc-page-performance.json unstaged, and `git pull --rebase`
+          # refuses to start with unstaged changes — which is how this job died
+          # on 2026-09-14 after doing all of its work. It also meant the
+          # performance ledger, refreshed here every day and read by
+          # backfill-photos-alt to queue photos in earnings order, was thrown
+          # away with the runner: the committed copy had stood still since
+          # 2026-09-07.
+          git add data/impression-cohort.json data/gsc-page-performance.json
           git diff --staged --quiet && exit 0
-          git commit -m "chore: impression cohort ledger ($(date -u +%Y-%m-%d))"
-          git pull --rebase origin main
-          git push
+          git commit -m "chore: gsc ledgers ($(date -u +%Y-%m-%d))"
+          # The shared helper, which rebases with --autostash and retries five
+          # times. Its own header documents this exact failure from 2026-08-04.
+          bash scripts/git-push-retry.sh
