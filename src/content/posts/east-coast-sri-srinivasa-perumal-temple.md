@@ -1,8 +1,8 @@
 ---
-title: "Sri Srinivasa Perumal Temple: East Coast Travel Guide (4.8★)"
-description: "Sri Srinivasa Perumal Temple sits on Serangoon Road in Little India, not the East Coast proper, and it's one of Singapore's most visited Hindu temples thanks to its towering, brightly painted rajagopuram. 4.8★ (5,576 reviews) — what visitors say, hours, and tips."
+title: "Sri Srinivasa Perumal Temple: Little India Travel Guide (4.8★)"
+description: "Sri Srinivasa Perumal Temple sits on Serangoon Road in Little India, and it's one of Singapore's most visited Hindu temples thanks to its towering, brightly painted rajagopuram. 4.8★ (5,576 reviews) — what visitors say, hours, and tips."
 country: "Singapore"
-region: "East Coast"
+region: "Little India"
 category: "attraction"
 pubDate: "2026-09-04T10:46:09.097Z"
 heroImage:
@@ -49,9 +49,9 @@ place:
       - 20
     venueId: "ven_38515f5753694c6774655552456a325a384d594c4a34534a496843"
 tags:
-  - "east coast"
+  - "little india"
   - "historic site"
-quickAnswer: "Sri Srinivasa Perumal Temple sits on Serangoon Road in Little India, not the East Coast proper, and it's one of Singapore's most visited Hindu temples thanks to its towering, brightly painted rajagopuram. Come between 6am and 12pm or 6pm and 9pm, when it's open, and expect it busiest on weekends from 8am to 9pm. Set aside 30-45 minutes, more during the annual Thaipusam procession that starts here."
+quickAnswer: "Sri Srinivasa Perumal Temple sits on Serangoon Road in Little India, and it's one of Singapore's most visited Hindu temples thanks to its towering, brightly painted rajagopuram. Come between 6am and 12pm or 6pm and 9pm, when it's open, and expect it busiest on weekends from 8am to 9pm. Set aside 30-45 minutes, more during the annual Thaipusam procession that starts here."
 faq:
   - q: "Where exactly is Sri Srinivasa Perumal Temple?"
     a: "It's at 397 Serangoon Rd, Singapore, in the Little India district, a short walk from Little India MRT station."

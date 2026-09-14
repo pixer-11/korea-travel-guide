@@ -15,6 +15,7 @@
   "damyang-dodamsambong-peaks",
   "dempsey-hill-pasar-geylang-serai",
   "east-coast-national-museum-of-singapore",
+  "east-coast-sri-srinivasa-perumal-temple",
   "fujairah-shees-park",
   "goyang-gyeongdong-market",
   "izmir-ephesus-ancient-city",
@@ -40,8 +41,13 @@
   "sentosa-flower-dome",
   "sha-tin-hong-kong-science-museum",
   "sheung-wan-graham-street-market",
+  "termez-eco-park",
   "tiong-bahru-national-gallery-singapore",
   "xian-ancient-city-wall",
   "xian-emperor-qinshihuang-s-mausoleum-site-museum"
- ]
+ ],
+ "notes": {
+  "termez-eco-park": "2026-09-14: region corrected Termez -> Tashkent. The venue (address, coordinates, Google place, photo) was always Eco Park in Tashkent; the prose had invented a Termez setting. Slug kept so the live URL does not break.",
+  "east-coast-sri-srinivasa-perumal-temple": "2026-09-14: region corrected East Coast -> Little India (397 Serangoon Rd). Slug kept so the live URL does not break."
+ }
 }
