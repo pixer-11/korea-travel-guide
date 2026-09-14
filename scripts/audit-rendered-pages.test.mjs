@@ -280,3 +280,17 @@ test('이벤트 허브가 아닌 페이지의 지난 달 제목은 규칙 밖이
   rmSync(root, { recursive: true, force: true });
   assert.equal(r.code, 0, r.out);
 });
+
+// ---- rule 7: <main> 중복 (2026-09-14) ----
+test('<main> 이 둘이면 막고, 하나면 통과한다', () => {
+  const two = dist({ 'guide/index.html': ok('<main id="main"><main class="wc"><p>x</p></main></main>') });
+  const r1 = run(two);
+  rmSync(two, { recursive: true, force: true });
+  assert.equal(r1.code, 1, r1.out);
+  assert.match(r1.out, /MAIN-COUNT/);
+
+  const one = dist({ 'guide/index.html': ok('<main id="main"><div class="wc"><p>x</p></div></main>') });
+  const r2 = run(one);
+  rmSync(one, { recursive: true, force: true });
+  assert.equal(r2.code, 0, r2.out);
+});

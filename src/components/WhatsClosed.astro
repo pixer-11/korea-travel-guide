@@ -129,7 +129,11 @@ const closures = initial ? closuresInRange(posts, { country: initial, fromISO: t
     head must carry hreflang alternates. Without this the live Korean button on
     /tools/whats-closed/ sent readers to the homepage (caught 2026-09-06). */}
 <BaseLayout image={heroOf(posts, TOOL_OG.whatsClosed)} title={t('wc.title')} description={t('wc.dek')} lang={lang} localized={true}>
-  <main class="wc">
+  {/* A div, not <main>: BaseLayout already wraps every page in <main id="main">,
+      and this was the one page on the site with a second one inside it — two
+      main landmarks, which a screen reader announces as two pages. */}
+  <div class="wc wrap">
+    <p class="kicker gold">{t('tool.kicker')}</p>
     <h1>{t('wc.title')}</h1>
     <p class="wc-dek">{t('wc.dek')}</p>
 
@@ -148,14 +152,15 @@ const closures = initial ? closuresInRange(posts, { country: initial, fromISO: t
       </label>
       <label>{t('wc.from')} <input type="date" id="wc-from" value={today} /></label>
       <label>{t('wc.to')} <input type="date" id="wc-to" value={in14} /></label>
-      <button type="submit">{t('wc.check')}</button>
+      <button type="submit" class="btn btn-primary">{t('wc.check')}</button>
     </form>
 
+    <div class="wc-results">
     <section id="wc-holidays" class="wc-section">
       <h2>{t('wc.holidaysHeading')}</h2>
       <ul id="wc-holiday-list" class="wc-list">
         {holidays.map((h: any) => (
-          <li><time datetime={h.date}>{fmtDay(h.date)}</time> — {holidayLabel(initial, h.localName, h.name, lang)}</li>
+          <li><time datetime={h.date}>{fmtDay(h.date)}</time><span class="wc-hol">{holidayLabel(initial, h.localName, h.name, lang)}</span></li>
         ))}
       </ul>
       <p id="wc-holiday-empty" hidden={holidays.length > 0}>{t('wc.noHolidays')}</p>
@@ -178,9 +183,10 @@ const closures = initial ? closuresInRange(posts, { country: initial, fromISO: t
       </ul>
       <p id="wc-closure-empty" hidden={closures.length > 0}>{t('wc.noClosures')}</p>
       <p class="wc-caveat">{t('wc.hoursSource')}</p>
-      <p><a href={localizePath('/tools/best-time', lang)}>{t('wc.quietLink')} →</a></p>
     </section>
-  </main>
+    </div>
+    <p class="wc-next"><a class="btn btn-ghost" href={localizePath('/tools/best-time', lang)}>{t('wc.quietLink')} →</a></p>
+  </div>
 
   <script is:inline define:vars={{ island, postBase: localizePath('/posts', lang), localeCode: localeCodes[lang] }}>
     // Client filter over the same island the server view was built from.
@@ -210,7 +216,7 @@ const closures = initial ? closuresInRange(posts, { country: initial, fromISO: t
 
       const hs = data.holidays.filter((h) => span.includes(h.date));
       document.getElementById('wc-holiday-list').innerHTML =
-        hs.map((h) => '<li><time datetime="' + h.date + '">' + esc(fmtDay(h.date)) + '</time> — ' + esc(h.label) + '</li>').join('');
+        hs.map((h) => '<li><time datetime="' + h.date + '">' + esc(fmtDay(h.date)) + '</time><span class="wc-hol">' + esc(h.label) + '</span></li>').join('');
       document.getElementById('wc-holiday-empty').hidden = hs.length > 0;
 
       const byDay = {};
@@ -259,27 +265,70 @@ const closures = initial ? closuresInRange(posts, { country: initial, fromISO: t
 </BaseLayout>
 
 <style>
-  .wc { max-width: 46rem; margin: 0 auto; padding: 2rem 1rem 4rem; }
-  .wc-dek { color: var(--muted, #555); margin-bottom: 1.5rem; }
-  .wc-form { display: flex; flex-wrap: wrap; gap: 0.75rem 1rem; align-items: end; margin-bottom: 2rem; }
-  .wc-form label { display: flex; flex-direction: column; gap: 0.25rem; font-size: 0.9rem; }
-  .wc-form select, .wc-form input { padding: 0.45rem 0.5rem; font: inherit; }
-  .wc-form button { padding: 0.5rem 1rem; font: inherit; cursor: pointer; }
-  .wc-section { margin-bottom: 2.5rem; }
+  /* The same vocabulary as the crowd tool beside it (BestTimeTool.astro): gold
+     kicker, display h1, a soft filter panel with labelled controls, and the
+     answer in raised cards. Until 2026-09-14 this page drew the browser's own
+     unstyled select, date fields and grey button — the one tool on the site
+     that looked unfinished. */
+  .wc { max-width: 60rem; padding-block: clamp(1.75rem, 4vh, 3rem) 4rem; }
+  .wc h1 { font-size: clamp(1.9rem, 4vw, 2.7rem); margin: 0.2rem 0 0.5rem; letter-spacing: -0.01em; }
+  .wc-dek { color: var(--ink-soft); max-width: 62ch; font-size: 1.05rem; line-height: 1.6; margin: 0; }
+
+  .wc-form {
+    display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: end;
+    margin: 1.75rem 0 1.25rem; padding: 1rem;
+    background: var(--surface-2); border: 1px solid var(--line-soft); border-radius: var(--r-lg);
+  }
+  .wc-form label {
+    display: flex; flex-direction: column; gap: 0.3rem;
+    font-size: 0.72rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted);
+  }
+  .wc-form select, .wc-form input {
+    padding: 0.6rem 0.75rem; border: 1px solid var(--line-strong); border-radius: var(--r-md);
+    background: var(--surface); color: var(--ink); font: inherit; font-size: 0.95rem;
+    text-transform: none; letter-spacing: normal; font-weight: 400; min-height: 2.75rem;
+  }
+  .wc-form select { min-width: 12rem; cursor: pointer; }
+  .wc-form select:focus-visible, .wc-form input:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+  .wc-form .btn { min-height: 2.75rem; }
+
+  .wc-results { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.25fr); gap: 1rem; align-items: start; }
+  .wc-section {
+    padding: 1.2rem 1.35rem; background: var(--surface);
+    border: 1px solid var(--line-soft); border-radius: var(--r-lg);
+  }
+  .wc-section h2 { font-size: 1.05rem; margin: 0 0 0.75rem; }
+
   /* A date with the places under it was a bullet inside a bullet — two marker
      columns and a reader counting indents to see which day they were on. The
      date is now a heading-ish line and the places sit as plain rows beneath
      it, which is the shape the list actually has (2026-09-13). */
-  .wc-list { line-height: 1.7; list-style: none; padding: 0; margin: 0; }
-  .wc-list > li { padding: 0.5rem 0; border-bottom: 1px solid var(--line-soft, #eee); }
-  .wc-list > li:last-child { border-bottom: 0; }
-  .wc-list > li > time { display: block; font-weight: 700; font-size: 0.92rem;
-    font-variant-numeric: tabular-nums; }
-  .wc-list ul { list-style: none; margin: 0.15rem 0 0; padding: 0;
-    display: flex; flex-wrap: wrap; gap: 0.15rem 0.9rem; }
-  .wc-list ul li { font-size: 0.94rem; color: var(--ink-soft, #333); }
-  /* The holidays list is a single line per row, so it keeps its marker. */
-  #wc-holiday-list > li { display: flex; gap: 0.5rem; align-items: baseline; }
-  #wc-holiday-list > li > time { flex: none; }
-  .wc-caveat { font-size: 0.88rem; color: var(--muted, #555); margin-top: 0.75rem; }
+  /* Rows are drawn twice: by the server, and again by the script below when
+     the reader presses the button. Astro scopes this file's CSS with an
+     attribute the server adds to every element — innerHTML rows never get it,
+     so until 2026-09-14 the redrawn list lost its bold dates and ran each
+     holiday name into its date. Everything below the list itself is :global,
+     anchored on the scoped list, so both renderers get the same look. */
+  .wc-list { line-height: 1.6; list-style: none; padding: 0; margin: 0; }
+  .wc-list > :global(li) { padding: 0.6rem 0; border-bottom: 1px solid var(--line-soft); }
+  .wc-list > :global(li:first-child) { padding-top: 0; }
+  .wc-list > :global(li:last-child) { border-bottom: 0; }
+  .wc-list > :global(li > time) { display: block; font-weight: 700; font-size: 0.9rem; font-variant-numeric: tabular-nums; }
+  .wc-list :global(ul) { list-style: none; margin: 0.2rem 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.2rem 0.9rem; }
+  .wc-list :global(ul li) { font-size: 0.94rem; color: var(--ink-soft); }
+  /* Date above, holiday name below — the same shape as the closures card, and
+     no dangling dash when the name wraps onto its own line on a phone. */
+  .wc-list :global(.wc-hol) { display: block; color: var(--ink-soft); font-size: 0.94rem; }
+  #wc-holiday-empty, #wc-closure-empty { color: var(--muted); margin: 0; }
+  .wc-caveat { font-size: 0.82rem; color: var(--muted); margin: 0.9rem 0 0; line-height: 1.55; }
+  .wc-next { margin: 1.25rem 0 0; }
+
+  @media (max-width: 52rem) {
+    .wc-results { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 34rem) {
+    .wc-form { flex-direction: column; align-items: stretch; }
+    .wc-form select, .wc-form input, .wc-form .btn { width: 100%; min-width: 0; }
+    .wc-form .btn { justify-content: center; }
+  }
 </style>

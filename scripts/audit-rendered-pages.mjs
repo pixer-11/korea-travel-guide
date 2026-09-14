@@ -165,6 +165,14 @@ function check(page, html) {
   const h1s = (html.match(H1) ?? []).length;
   if (h1s !== 1) record('H1-COUNT', page, `h1 ${h1s}개`);
 
+  // ---- rule 7: at most one <main> ----
+  // BaseLayout wraps every page in <main id="main">. The "What's closed" tool
+  // opened a second <main> inside it (found 2026-09-14): two main landmarks,
+  // which assistive technology announces as two separate pages. Counted in the
+  // code-stripped body so a "<main" inside a script string cannot trip it.
+  const mains = (body.match(/<main\b/gi) ?? []).length;
+  if (mains > 1) record('MAIN-COUNT', page, `main ${mains}개`);
+
   if (EVENTS_PAGE.test(page)) {
     for (const m of body.matchAll(KICKER)) {
       const label = m[1].trim();
@@ -199,6 +207,7 @@ const LABEL = {
   'H1-COUNT': 'h1 이 정확히 하나가 아니다',
   'OG-DEFAULT': '사진을 공유하기로 한 허브가 브랜드 기본 카드를 공유하고 있다',
   'PAST-MONTH-HEAD': '예정 이벤트 목록에 이미 지나간 달 제목이 붙어 있다',
+  'MAIN-COUNT': '한 페이지에 <main> 이 둘 이상 있다',
 };
 
 let total = 0;
