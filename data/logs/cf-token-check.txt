@@ -1,6 +1,6 @@
 # Cloudflare token check — written by .github/workflows/cf-token-check.yml
 # Secrets are masked in place; lines are never dropped (see workflow header).
-checked_at: 2026-09-14T00:25:55Z
+checked_at: 2026-09-14T01:23:51Z
 
 배포 가능: 토큰에 Workers·R2 권한이 모두 있습니다.
 
