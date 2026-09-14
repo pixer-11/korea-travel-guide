@@ -1,11 +1,5 @@
 {
-  "validate-content": {
-    "STALE-RATING bukit-timah-rifle-range-nature-park.md": {
-      "since": "2026-09-14",
-      "last": "2026-09-14",
-      "seen": 1
-    }
-  },
+  "validate-content": {},
   "audit-translations": {},
   "audit-hours-claims": {}
 }
