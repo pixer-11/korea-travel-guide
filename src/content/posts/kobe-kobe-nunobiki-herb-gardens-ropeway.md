@@ -1,41 +1,47 @@
 ---
-title: "Kobe Nunobiki Herb Gardens & Ropeway: Travel Guide (4.5★)"
-description: "Kobe Nunobiki Herb Gardens & Ropeway sits on the slopes of Mt. Rokko above Shin-Kobe Station, reached by a ropeway gondola that climbs in about ten minutes. 4.5★ (6,956 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Kobe"
-category: "attraction"
-pubDate: "2026-09-15T07:37:40.065Z"
+title: 'Kobe Nunobiki Herb Gardens & Ropeway: Travel Guide (4.5★)'
+description: >-
+  Kobe Nunobiki Herb Gardens & Ropeway sits on the slopes of Mt. Rokko above
+  Shin-Kobe Station, reached by a ropeway gondola that climbs in about ten
+  minutes. 4.5★ (6,958 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Kobe
+category: attraction
+pubDate: '2026-09-15T07:37:40.065Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kobe_Nunobiki_Herb_Garden_Ropeway_-_panoramio.jpg/3840px-Kobe_Nunobiki_Herb_Garden_Ropeway_-_panoramio.jpg"
-  credit: "Photo: Daniel Gerhard / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Kobe_Nunobiki_Herb_Garden_Ropeway_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kobe_Nunobiki_Herb_Garden_Ropeway_-_panoramio.jpg/3840px-Kobe_Nunobiki_Herb_Garden_Ropeway_-_panoramio.jpg
+  credit: 'Photo: Daniel Gerhard / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Kobe_Nunobiki_Herb_Garden_Ropeway_-_panoramio.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJWapiVtGOAGARVY9nvX-kXII"
-  name: "Kobe Nunobiki Herb Gardens & Ropeway"
-  address: "1-chōme-4-3 Kitanochō, Chuo Ward, Kobe, Hyogo 650-0002, Japan"
+  id: ChIJWapiVtGOAGARVY9nvX-kXII
+  name: Kobe Nunobiki Herb Gardens & Ropeway
+  address: '1-chōme-4-3 Kitanochō, Chuo Ward, Kobe, Hyogo 650-0002, Japan'
   rating: 4.5
-  userRatingsTotal: 6956
-  googleMapsUrl: "https://maps.google.com/?cid=9393563791333494613&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6958
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9393563791333494613&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.70442750000001
   lng: 135.1938755
-  phone: "+81 78-271-1160"
+  phone: +81 78-271-1160
   openingHours:
-    - "Monday: 9:30 AM – 4:45 PM"
-    - "Tuesday: 9:30 AM – 4:45 PM"
-    - "Wednesday: 9:30 AM – 4:45 PM"
-    - "Thursday: 9:30 AM – 4:45 PM"
-    - "Friday: 9:30 AM – 4:45 PM"
-    - "Saturday: 9:30 AM – 8:15 PM"
-    - "Sunday: 9:30 AM – 8:15 PM"
+    - 'Monday: 9:30 AM – 4:45 PM'
+    - 'Tuesday: 9:30 AM – 4:45 PM'
+    - 'Wednesday: 9:30 AM – 4:45 PM'
+    - 'Thursday: 9:30 AM – 4:45 PM'
+    - 'Friday: 9:30 AM – 4:45 PM'
+    - 'Saturday: 9:30 AM – 8:15 PM'
+    - 'Sunday: 9:30 AM – 8:15 PM'
   busyness:
-    updated: 2026-09-15
+    updated: 2026-09-15T00:00:00.000Z
     weekendQuiet:
       - 17
       - 18
@@ -47,24 +53,42 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_4949586b2d58766e395956524147414f477456697061574a496843"
+    venueId: ven_4949586b2d58766e395956524147414f477456697061574a496843
 tags:
-  - "kobe"
-  - "park"
-quickAnswer: "Kobe Nunobiki Herb Gardens & Ropeway sits on the slopes of Mt. Rokko above Shin-Kobe Station, reached by a ropeway gondola that climbs in about ten minutes. Weekend crowds thicken 10am–4pm; if you're going Saturday or Sunday, aim for 5pm–8pm when the gardens stay open late and gondolas thin out. Budget two to three hours including the ride up and down."
+  - kobe
+  - park
+quickAnswer: >-
+  Kobe Nunobiki Herb Gardens & Ropeway sits on the slopes of Mt. Rokko above
+  Shin-Kobe Station, reached by a ropeway gondola that climbs in about ten
+  minutes. Weekend crowds thicken 10am–4pm; if you're going Saturday or Sunday,
+  aim for 5pm–8pm when the gardens stay open late and gondolas thin out. Budget
+  two to three hours including the ride up and down.
 faq:
-  - q: "How do I get to Kobe Nunobiki Herb Gardens & Ropeway?"
-    a: "Walk from Shin-Kobe Station (Shinkansen and subway) to the ropeway base station, a few minutes on foot. The gondola then climbs to the gardens in about ten minutes."
-  - q: "What's the quietest time to visit on weekends?"
-    a: "5pm-8pm is the calmest window on Saturdays and Sundays, when the gardens stay open until 8:15pm. Avoid 10am-4pm, the busiest stretch."
-  - q: "How long should I plan for a visit?"
-    a: "Two to three hours covers the ropeway ride, a walk through the main garden areas, and a coffee or meal at the top."
-  - q: "Can I walk instead of taking the ropeway?"
-    a: "Yes, a trail past Nunobiki Falls climbs to the gardens in 30-40 minutes. Many visitors walk up and ride the ropeway back down, or vice versa."
-  - q: "What's nearby if I have extra time?"
-    a: "Shin-Kobe Station and the Kitano foreign residences district (Kitanochō) are both within easy walking or short transit distance for a combined half-day."
+  - q: How do I get to Kobe Nunobiki Herb Gardens & Ropeway?
+    a: >-
+      Walk from Shin-Kobe Station (Shinkansen and subway) to the ropeway base
+      station, a few minutes on foot. The gondola then climbs to the gardens in
+      about ten minutes.
+  - q: What's the quietest time to visit on weekends?
+    a: >-
+      5pm-8pm is the calmest window on Saturdays and Sundays, when the gardens
+      stay open until 8:15pm. Avoid 10am-4pm, the busiest stretch.
+  - q: How long should I plan for a visit?
+    a: >-
+      Two to three hours covers the ropeway ride, a walk through the main garden
+      areas, and a coffee or meal at the top.
+  - q: Can I walk instead of taking the ropeway?
+    a: >-
+      Yes, a trail past Nunobiki Falls climbs to the gardens in 30-40 minutes.
+      Many visitors walk up and ride the ropeway back down, or vice versa.
+  - q: What's nearby if I have extra time?
+    a: >-
+      Shin-Kobe Station and the Kitano foreign residences district (Kitanochō)
+      are both within easy walking or short transit distance for a combined
+      half-day.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-15'
 ---
 
 ## Getting up the mountain

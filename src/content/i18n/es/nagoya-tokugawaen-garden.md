@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: nagoya-tokugawaen-garden
-srcHash: 'e09bafd93787'
+srcHash: '266c07ee1568'
 title: 'Jardín Tokugawaen: Guía de viaje de Nagoya (4,3★)'
-description: 'El jardín Tokugawaen, en el distrito de Higashi (Higashi Ward), Nagoya, es un jardín paisajístico de estilo Edo construido alrededor de un gran estanque, puentes de piedra y casas de té, abierto todos los días excepto los lunes de 9:30 a 17:30. 4,3★ (6.681 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El jardín Tokugawaen, en el distrito de Higashi (Higashi Ward), Nagoya, es un jardín paisajístico de estilo Edo construido alrededor de un gran estanque, puentes de piedra y casas de té, abierto todos los días excepto los lunes de 9:30 a 17:30. 4,3★ (6.695 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El jardín Tokugawaen, en el distrito de Higashi (Higashi Ward), Nagoya, es un jardín paisajístico de estilo Edo construido alrededor de un gran estanque, puentes de piedra y casas de té, abierto todos los días excepto los lunes de 9:30 a 17:30. Es un lugar muy popular, así que los fines de semana entre las 10:00 y las 17:00 son cuando más gente se concentra; conviene llegar a la apertura para disfrutar de un paseo más tranquilo. Calcule entre una hora y noventa minutos de visita, y combínelo con el vecino Museo de Arte Tokugawa para completar una mañana entera.
 faq:
   - q: ¿Cuál es el horario de apertura del jardín Tokugawaen?

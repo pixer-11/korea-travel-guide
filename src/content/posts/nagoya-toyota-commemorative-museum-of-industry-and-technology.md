@@ -1,44 +1,53 @@
 ---
-title: "Toyota Commemorative Museum of Industry and Technology: Nagoya Travel Guide"
-description: "The Toyota Commemorative Museum of Industry and Technology sits in Nagoya's Nishi Ward, inside a red-brick former Toyoda spinning mill near Sako Station. 4.6★ (13,806 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Nagoya"
-category: "attraction"
-pubDate: "2026-08-25T08:04:37.781Z"
+title: 'Toyota Commemorative Museum of Industry and Technology: Nagoya Travel Guide'
+description: >-
+  The Toyota Commemorative Museum of Industry and Technology sits in Nagoya's
+  Nishi Ward, inside a red-brick former Toyoda spinning mill near Sako Station.
+  4.6★ (13,915 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Nagoya
+category: attraction
+pubDate: '2026-08-25T08:04:37.781Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Toyota_tecno_museum.jpg/1920px-Toyota_tecno_museum.jpg"
-  credit: "Photo: Bariston / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Toyota_tecno_museum.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Toyota_tecno_museum.jpg/1920px-Toyota_tecno_museum.jpg
+  credit: 'Photo: Bariston / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Toyota_tecno_museum.jpg'
   focus:
     x: 45
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Toyota_Commemorative_Museum_of_Industry_and_Technology_-_3.jpg/3840px-Toyota_Commemorative_Museum_of_Industry_and_Technology_-_3.jpg"
-    credit: "Photo: KKPCW（Kyu3） / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Toyota_Commemorative_Museum_of_Industry_and_Technology_-_3.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Toyota_Commemorative_Museum_of_Industry_and_Technology_-_3.jpg/3840px-Toyota_Commemorative_Museum_of_Industry_and_Technology_-_3.jpg
+    credit: 'Photo: KKPCW（Kyu3） / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Toyota_Commemorative_Museum_of_Industry_and_Technology_-_3.jpg
 place:
-  id: "ChIJ____05N2A2ARK1ejw7VH1KM"
-  name: "Toyota Commemorative Museum of Industry and Technology"
-  address: "Japan, 〒451-0051 Aichi, Nagoya, Nishi Ward, Noritakeshinmachi, 4-chōme−1−３５ 産業技術記念館内"
+  id: ChIJ____05N2A2ARK1ejw7VH1KM
+  name: Toyota Commemorative Museum of Industry and Technology
+  address: >-
+    Japan, 〒451-0051 Aichi, Nagoya, Nishi Ward, Noritakeshinmachi, 4-chōme−1−３５
+    産業技術記念館内
   rating: 4.6
-  userRatingsTotal: 13806
-  googleMapsUrl: "https://maps.google.com/?cid=11805139369241827115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 13915
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11805139369241827115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.182564
   lng: 136.87598459999998
-  phone: "+81 52-551-6115"
+  phone: +81 52-551-6115
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:30 AM – 5:00 PM"
-    - "Wednesday: 9:30 AM – 5:00 PM"
-    - "Thursday: 9:30 AM – 5:00 PM"
-    - "Friday: 9:30 AM – 5:00 PM"
-    - "Saturday: 9:30 AM – 5:00 PM"
-    - "Sunday: 9:30 AM – 5:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:30 AM – 5:00 PM'
+    - 'Wednesday: 9:30 AM – 5:00 PM'
+    - 'Thursday: 9:30 AM – 5:00 PM'
+    - 'Friday: 9:30 AM – 5:00 PM'
+    - 'Saturday: 9:30 AM – 5:00 PM'
+    - 'Sunday: 9:30 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-25
+    updated: 2026-08-25T00:00:00.000Z
     weekdayBusy:
       - 11
       - 12
@@ -52,24 +61,45 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_4d4b31485637776a65314b52413241324e35305f5f5f5f4a496843"
+    venueId: ven_4d4b31485637776a65314b52413241324e35305f5f5f5f4a496843
 tags:
-  - "nagoya"
-  - "museum"
-quickAnswer: "The Toyota Commemorative Museum of Industry and Technology sits in Nagoya's Nishi Ward, inside a red-brick former Toyoda spinning mill near Sako Station. It's open Tuesday to Sunday, 9:30am–5pm, closed Mondays, and gets busiest 10am–5pm on weekends, so aim for a weekday morning. Budget two to three hours to see the working textile looms and the origins of the car company that grew from them."
+  - nagoya
+  - museum
+quickAnswer: >-
+  The Toyota Commemorative Museum of Industry and Technology sits in Nagoya's
+  Nishi Ward, inside a red-brick former Toyoda spinning mill near Sako Station.
+  It's open Tuesday to Sunday, 9:30am–5pm, closed Mondays, and gets busiest
+  10am–5pm on weekends, so aim for a weekday morning. Budget two to three hours
+  to see the working textile looms and the origins of the car company that grew
+  from them.
 faq:
-  - q: "How do I get to the Toyota Commemorative Museum of Industry and Technology?"
-    a: "Take the Meitetsu Nagoya Line or JR Tokaido Line to Sako Station, then walk about 5 minutes from the north exit. It's roughly one or two stops from Nagoya Station."
-  - q: "What are the opening hours?"
-    a: "Tuesday to Sunday, 9:30am–5pm. It's closed all day Monday, so plan around that if you're building a Nagoya itinerary."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings right after the 9:30am opening are calmest. Weekends see heavy crowds between 10am and 5pm, so avoid that window if possible."
-  - q: "How long should I spend there?"
-    a: "Plan for two to three hours to see both the textile and automobile halls properly, including at least one live loom demonstration."
-  - q: "What else is nearby?"
-    a: "Noritake Garden, the ceramics maker's former factory site turned public park, is an easy walk away and makes a good pairing for a half-day out in Nishi Ward."
+  - q: >-
+      How do I get to the Toyota Commemorative Museum of Industry and
+      Technology?
+    a: >-
+      Take the Meitetsu Nagoya Line or JR Tokaido Line to Sako Station, then
+      walk about 5 minutes from the north exit. It's roughly one or two stops
+      from Nagoya Station.
+  - q: What are the opening hours?
+    a: >-
+      Tuesday to Sunday, 9:30am–5pm. It's closed all day Monday, so plan around
+      that if you're building a Nagoya itinerary.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings right after the 9:30am opening are calmest. Weekends see
+      heavy crowds between 10am and 5pm, so avoid that window if possible.
+  - q: How long should I spend there?
+    a: >-
+      Plan for two to three hours to see both the textile and automobile halls
+      properly, including at least one live loom demonstration.
+  - q: What else is nearby?
+    a: >-
+      Noritake Garden, the ceramics maker's former factory site turned public
+      park, is an easy walk away and makes a good pairing for a half-day out in
+      Nishi Ward.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-15'
 ---
 ## Why go
 

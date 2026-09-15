@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: malang-badut-temple
-srcHash: 'fe0e9288ef01'
+srcHash: 'ed38bf6a451d'
 title: 'Templo de Badut: Guía de viaje de Malang (4,5★)'
-description: 'El Templo de Badut se encuentra en la aldea de Karangwidoro, distrito de Dau, unos 20 minutos al oeste del centro de Malang, en Java. 4,5★ (1.768 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Templo de Badut se encuentra en la aldea de Karangwidoro, distrito de Dau, unos 20 minutos al oeste del centro de Malang, en Java. 4,5★ (1.769 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Templo de Badut se encuentra en la aldea de Karangwidoro, distrito de Dau, unos 20 minutos al oeste del centro de Malang, en Java. Es uno de los templos hindúes más antiguos que se conocen en Java: fue descubierto en 1921 y restaurado en 1927, y la entrada tiene un costo simbólico. Conviene reservar entre 30 y 45 minutos para la visita, ya que se trata de una parada tranquila y sencilla, no de un lugar concurrido.'
 faq:
   - q: ¿Cómo se llega al Templo de Badut desde la ciudad de Malang?

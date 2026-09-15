@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: kobe-kobe-nunobiki-herb-gardens-ropeway
-srcHash: '8806253030cf'
+srcHash: 'cab8bdeab979'
 title: 'Jardines de Hierbas Nunobiki de Kobe y su teleférico: guía de viaje (4,5★)'
-description: 'Los Jardines de Hierbas Nunobiki de Kobe, junto con su teleférico, se asientan en las laderas del monte Rokko, sobre la estación de Shin-Kobe, a la que se llega en una cabina que sube en unos diez minutos. 4,5★ (6.956 opiniones): lo que dicen los visitantes, horarios y consejos.'
+description: 'Los Jardines de Hierbas Nunobiki de Kobe, junto con su teleférico, se asientan en las laderas del monte Rokko, sobre la estación de Shin-Kobe, a la que se llega en una cabina que sube en unos diez minutos. 4,5★ (6.958 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Los Jardines de Hierbas Nunobiki de Kobe y su teleférico se asientan en las laderas del monte Rokko, sobre la estación de Shin-Kobe, a la que se llega en una cabina que sube en unos diez minutos. Los fines de semana la afluencia aumenta entre las 10:00 y las 16:00; si vas un sábado o domingo, conviene apuntar a la franja de 17:00 a 20:00, cuando los jardines permanecen abiertos hasta más tarde y hay menos gente en el teleférico. Calcula entre dos y tres horas para la visita, incluyendo la subida y la bajada.
 faq:
   - q: ¿Cómo se llega a los Jardines de Hierbas Nunobiki de Kobe y su teleférico?

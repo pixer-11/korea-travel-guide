@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: hsinchu-leofoo-village-theme-park
-srcHash: 'a6c120f76d3b'
+srcHash: 'd10b016f78b6'
 title: 'Leofoo Village Theme Park: Guía de viaje de Hsinchu (4,6★)'
-description: 'Leofoo Village Theme Park, en el municipio de Guanxi, condado de Hsinchu, es el parque temático más grande de Taiwán, dividido en seis zonas temáticas que van de Arabia al Viejo Oeste, con un safari africano recorrible en vehículo como atracción estrella. 4,6★ (57.139 reseñas): qué dicen los visitantes, horarios y consejos.'
+description: 'Leofoo Village Theme Park, en el municipio de Guanxi, condado de Hsinchu, es el parque temático más grande de Taiwán, dividido en seis zonas temáticas que van de Arabia al Viejo Oeste, con un safari africano recorrible en vehículo como atracción estrella. 4,6★ (57.141 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: Leofoo Village Theme Park, en el municipio de Guanxi, condado de Hsinchu, es el parque temático más grande de Taiwán, dividido en seis zonas temáticas que van de Arabia al Viejo Oeste, con un safari africano recorrible en vehículo como atracción estrella. De lunes a viernes abre de 9:30 a 17:00; los sábados y domingos el horario se extiende de 9:00 a 19:30, casi tres horas más para quienes visiten el parque en fin de semana. Es un lugar muy concurrido, así que conviene llegar a la apertura y subirse primero a las atracciones más populares.
 faq:
   - q: ¿Cómo se llega a Leofoo Village Theme Park desde Hsinchu?

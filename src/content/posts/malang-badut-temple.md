@@ -1,46 +1,72 @@
 ---
-title: "Badut Temple: Malang Travel Guide (4.5★)"
-description: "Badut Temple sits in Karangwidoro village, Dau district, about 20 minutes west of central Malang, Java. 4.5★ (1,768 reviews) — what visitors say, hours, and tips."
-country: "Indonesia"
-region: "Malang"
-category: "attraction"
-pubDate: "2026-09-15T07:40:01.533Z"
+title: 'Badut Temple: Malang Travel Guide (4.5★)'
+description: >-
+  Badut Temple sits in Karangwidoro village, Dau district, about 20 minutes west
+  of central Malang, Java. 4.5★ (1,769 reviews) — what visitors say, hours, and
+  tips.
+country: Indonesia
+region: Malang
+category: attraction
+pubDate: '2026-09-15T07:40:01.533Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/039_Stairway_to_Inner_Sanctum%2C_Candi_Badut_%2840417064281%29.jpg/1920px-039_Stairway_to_Inner_Sanctum%2C_Candi_Badut_%2840417064281%29.jpg"
-  credit: "Photo: Anandajoti Bhikkhu from Sadao, Thailand / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:039_Stairway_to_Inner_Sanctum,_Candi_Badut_(40417064281).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/039_Stairway_to_Inner_Sanctum%2C_Candi_Badut_%2840417064281%29.jpg/1920px-039_Stairway_to_Inner_Sanctum%2C_Candi_Badut_%2840417064281%29.jpg
+  credit: >-
+    Photo: Anandajoti Bhikkhu from Sadao, Thailand / Wikimedia Commons (CC BY
+    2.0)
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:039_Stairway_to_Inner_Sanctum,_Candi_Badut_(40417064281).jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJXanRI2eCeC4RUU37IEzz_ZU"
-  name: "Badut Temple"
-  address: "Jl. Raya Candi V No.5D, Doro, Karangwidoro, Kec. Dau, Kabupaten Malang, Jawa Timur 65151, Indonesia"
+  id: ChIJXanRI2eCeC4RUU37IEzz_ZU
+  name: Badut Temple
+  address: >-
+    Jl. Raya Candi V No.5D, Doro, Karangwidoro, Kec. Dau, Kabupaten Malang, Jawa
+    Timur 65151, Indonesia
   rating: 4.5
-  userRatingsTotal: 1768
-  googleMapsUrl: "https://maps.google.com/?cid=10808062189055462737&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1769
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10808062189055462737&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -7.9578375999999995
   lng: 112.5985719
 tags:
-  - "malang"
-  - "historic site"
-quickAnswer: "Badut Temple sits in Karangwidoro village, Dau district, about 20 minutes west of central Malang, Java. It's one of the oldest known Hindu temples on Java, unearthed in 1921 and restored by 1927, and admission is a token entrance fee. Plan on 30-45 minutes here; it's a quiet, low-key stop rather than a crowd magnet."
+  - malang
+  - historic site
+quickAnswer: >-
+  Badut Temple sits in Karangwidoro village, Dau district, about 20 minutes west
+  of central Malang, Java. It's one of the oldest known Hindu temples on Java,
+  unearthed in 1921 and restored by 1927, and admission is a token entrance fee.
+  Plan on 30-45 minutes here; it's a quiet, low-key stop rather than a crowd
+  magnet.
 faq:
-  - q: "How do I get to Badut Temple from Malang city?"
-    a: "It's about 20-30 minutes by car, motorbike, or ride-hailing app heading west into Dau district; there's no direct public bus or train."
-  - q: "How much does it cost to enter?"
-    a: "There's a small entrance donation collected on site, typically paid in cash rupiah; confirm the current amount at the gate since it can change."
-  - q: "How long should I plan for the visit?"
-    a: "Most visitors spend 30-45 minutes here; it's a single small stone structure on an open lawn, not a sprawling complex."
-  - q: "Is Badut Temple crowded?"
-    a: "No, it sees far fewer visitors than Malang's bigger temple sites despite its strong rating, so expect a quiet, low-traffic visit most days."
-  - q: "What else is nearby to combine with this stop?"
-    a: "Pair it with other Dau-area or Batu highland attractions, or the city center's Ijen Boulevard, since Badut itself is a short visit."
+  - q: How do I get to Badut Temple from Malang city?
+    a: >-
+      It's about 20-30 minutes by car, motorbike, or ride-hailing app heading
+      west into Dau district; there's no direct public bus or train.
+  - q: How much does it cost to enter?
+    a: >-
+      There's a small entrance donation collected on site, typically paid in
+      cash rupiah; confirm the current amount at the gate since it can change.
+  - q: How long should I plan for the visit?
+    a: >-
+      Most visitors spend 30-45 minutes here; it's a single small stone
+      structure on an open lawn, not a sprawling complex.
+  - q: Is Badut Temple crowded?
+    a: >-
+      No, it sees far fewer visitors than Malang's bigger temple sites despite
+      its strong rating, so expect a quiet, low-traffic visit most days.
+  - q: What else is nearby to combine with this stop?
+    a: >-
+      Pair it with other Dau-area or Batu highland attractions, or the city
+      center's Ijen Boulevard, since Badut itself is a short visit.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-15'
 ---
 
 ## What you're looking at

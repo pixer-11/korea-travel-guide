@@ -1,27 +1,35 @@
 ---
 title: 'Noritake Garden: Nagoya Travel Guide'
-description: Noritake Garden is a redeveloped ceramics-factory site in Nishi Ward, about a 10-minute walk from Kamejima Station on the Higashiyama subway line, offering a small museum, a working kiln chimney, craft workshops, gardens, and a shop selling Noritake tableware.
+description: >-
+  Noritake Garden is a redeveloped ceramics-factory site in Nishi Ward, about a
+  10-minute walk from Kamejima Station on the Higashiyama subway line, offering
+  a small museum, a working kiln chimney, craft workshops, gardens, and a shop
+  selling Noritake tableware.
 country: Japan
 region: Nagoya
 category: hidden-gem
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Noritake_Garden02%2C_Nishi_Ward_Nagoya_2014.jpg/1280px-Noritake_Garden02%2C_Nishi_Ward_Nagoya_2014.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Noritake_Garden02%2C_Nishi_Ward_Nagoya_2014.jpg/1280px-Noritake_Garden02%2C_Nishi_Ward_Nagoya_2014.jpg
   credit: 'Photo: Tomio344456 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Noritake_Garden02,_Nishi_Ward_Nagoya_2014.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Noritake_Garden02,_Nishi_Ward_Nagoya_2014.jpg
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/24392102_9SEqf-gJDLrxrMBpdMUubIxzUcar2eT87SkuMTWDDvc.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/24392102_9SEqf-gJDLrxrMBpdMUubIxzUcar2eT87SkuMTWDDvc.jpg
     credit: 'Photo: Foursquare user content (Noritake Garden (ノリタケの森))'
     license: foursquare
-    source: https://foursquare.com/v/4bb6e386ef159c7452a876f7
+    source: 'https://foursquare.com/v/4bb6e386ef159c7452a876f7'
 place:
   id: ChIJkVqv3Op2A2AR0laSdx5UWOA
   name: Noritake Garden
-  address: 3-chōme-1-36 Noritakeshinmachi, Nishi Ward, Nagoya, Aichi 451-8501, Japan
+  address: '3-chōme-1-36 Noritakeshinmachi, Nishi Ward, Nagoya, Aichi 451-8501, Japan'
   rating: 4.1
-  userRatingsTotal: 7997
-  googleMapsUrl: https://maps.google.com/?cid=16165763352278226642&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 8076
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16165763352278226642&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 35.1791153
   lng: 136.8812176
@@ -37,19 +45,44 @@ place:
 tags:
   - nagoya
   - hidden gem
-quickAnswer: Noritake Garden is a redeveloped ceramics-factory site in Nishi Ward, about a 10-minute walk from Kamejima Station on the Higashiyama subway line, offering a small museum, a working kiln chimney, craft workshops, gardens, and a shop selling Noritake tableware. Budget about 1.5–2 hours, and go on a weekday morning to see the studio artisans at work without crowds. Entry to the gardens themselves is typically free or low-cost, with a separate small fee for the museum/craft center — confirm current prices before you go.
+quickAnswer: >-
+  Noritake Garden is a redeveloped ceramics-factory site in Nishi Ward, about a
+  10-minute walk from Kamejima Station on the Higashiyama subway line, offering
+  a small museum, a working kiln chimney, craft workshops, gardens, and a shop
+  selling Noritake tableware. Budget about 1.5–2 hours, and go on a weekday
+  morning to see the studio artisans at work without crowds. Entry to the
+  gardens themselves is typically free or low-cost, with a separate small fee
+  for the museum/craft center — confirm current prices before you go.
 faq:
   - q: How do I get to Noritake Garden from Nagoya Station?
-    a: Take the Higashiyama subway line one stop to Kamejima Station, then walk about 10–15 minutes following the visible brick chimney. It's also walkable directly from Nagoya Station in about 20–25 minutes, or a short taxi ride.
+    a: >-
+      Take the Higashiyama subway line one stop to Kamejima Station, then walk
+      about 10–15 minutes following the visible brick chimney. It's also
+      walkable directly from Nagoya Station in about 20–25 minutes, or a short
+      taxi ride.
   - q: How much time should I budget?
-    a: About 1.5 to 2 hours covers the museum, gardens, and shop at a relaxed pace. Add 30–60 minutes if you want to try a hands-on painting or pottery workshop at the Craft Center.
+    a: >-
+      About 1.5 to 2 hours covers the museum, gardens, and shop at a relaxed
+      pace. Add 30–60 minutes if you want to try a hands-on painting or pottery
+      workshop at the Craft Center.
   - q: Is there an entry fee?
-    a: The garden and grounds are generally free or very low-cost to walk through, while the museum and craft workshops usually charge separate small fees. Prices and hours can change, so confirm at the entrance or official site before visiting.
+    a: >-
+      The garden and grounds are generally free or very low-cost to walk
+      through, while the museum and craft workshops usually charge separate
+      small fees. Prices and hours can change, so confirm at the entrance or
+      official site before visiting.
   - q: What's the best time of year to visit?
-    a: Spring (late March–early April) for cherry blossoms and autumn (November) for foliage are the prettiest, but many attractions are indoors, so it's also a solid rainy-day option any season.
+    a: >-
+      Spring (late March–early April) for cherry blossoms and autumn (November)
+      for foliage are the prettiest, but many attractions are indoors, so it's
+      also a solid rainy-day option any season.
   - q: What else is nearby worth combining with this visit?
-    a: The Toyota Commemorative Museum of Industry and Technology is a short walk or taxi ride away and makes for a natural pairing on an industrial-heritage-themed half-day in Nagoya.
+    a: >-
+      The Toyota Commemorative Museum of Industry and Technology is a short walk
+      or taxi ride away and makes for a natural pairing on an
+      industrial-heritage-themed half-day in Nagoya.
 aiGenerated: true
+updatedDate: '2026-09-15'
 ---
 
 ## Why go

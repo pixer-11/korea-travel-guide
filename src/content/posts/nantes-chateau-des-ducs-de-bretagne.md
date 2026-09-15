@@ -1,30 +1,39 @@
 ---
 title: 'Château des ducs de Bretagne: Nantes Travel Guide (4.5★)'
-description: The Château des ducs de Bretagne sits right in central Nantes at 4 Pl. Marc Elder, open daily 10am–7pm. 4.5★ (24,636 reviews) — what visitors say, hours, and tips.
+description: >-
+  The Château des ducs de Bretagne sits right in central Nantes at 4 Pl. Marc
+  Elder, open daily 10am–7pm. 4.5★ (24,811 reviews) — what visitors say, hours,
+  and tips.
 country: France
 region: Nantes
 category: attraction
 pubDate: '2026-08-15T07:53:37.443Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/1075060_lO4oz9ElJdADkiHyoqS5VpPXiFm_jtiurNBXMDlV-xE.jpg
-  credit: 'Photo: Foursquare user content (Castle of the Dukes of Brittany (Château des Ducs de Bretagne))'
+  url: >-
+    https://fastly.4sqi.net/img/general/original/1075060_lO4oz9ElJdADkiHyoqS5VpPXiFm_jtiurNBXMDlV-xE.jpg
+  credit: >-
+    Photo: Foursquare user content (Castle of the Dukes of Brittany (Château des
+    Ducs de Bretagne))
   license: foursquare
-  source: https://foursquare.com/v/4b890db2f964a520361a32e3
+  source: 'https://foursquare.com/v/4b890db2f964a520361a32e3'
   focus:
     x: 45
     'y': 45
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ch%C3%A2teau_des_ducs_de_Bretagne_-_armoiries_Louis_XIV.jpg/1920px-Ch%C3%A2teau_des_ducs_de_Bretagne_-_armoiries_Louis_XIV.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ch%C3%A2teau_des_ducs_de_Bretagne_-_armoiries_Louis_XIV.jpg/1920px-Ch%C3%A2teau_des_ducs_de_Bretagne_-_armoiries_Louis_XIV.jpg
     credit: 'Photo: Eusebius / Wikimedia Commons (CC BY 3.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_des_ducs_de_Bretagne_-_armoiries_Louis_XIV.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_des_ducs_de_Bretagne_-_armoiries_Louis_XIV.jpg
 place:
   id: ChIJJ1aA2qTuBUgREHFXS52q1Cg
   name: Château des ducs de Bretagne
-  address: 4 Pl. Marc Elder, 44000 Nantes, France
+  address: '4 Pl. Marc Elder, 44000 Nantes, France'
   rating: 4.5
-  userRatingsTotal: 24636
-  googleMapsUrl: https://maps.google.com/?cid=2942164049130385680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 24811
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2942164049130385680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 47.2162991
   lng: -1.5487716
@@ -56,20 +65,39 @@ place:
 tags:
   - nantes
   - top attraction
-quickAnswer: The Château des ducs de Bretagne sits right in central Nantes at 4 Pl. Marc Elder, open daily 10am–7pm. Walk the free courtyard and ramparts anytime, but if you're paying for the history museum inside, go on a weekday or after 6pm on weekends to dodge the crowds. Budget 1.5–2 hours for the museum, less if you're just doing the walls and moat.
+quickAnswer: >-
+  The Château des ducs de Bretagne sits right in central Nantes at 4 Pl. Marc
+  Elder, open daily 10am–7pm. Walk the free courtyard and ramparts anytime, but
+  if you're paying for the history museum inside, go on a weekday or after 6pm
+  on weekends to dodge the crowds. Budget 1.5–2 hours for the museum, less if
+  you're just doing the walls and moat.
 faq:
   - q: How much time should I budget for the château?
-    a: Plan on 1.5–2 hours if you're visiting the history museum inside. If you're only walking the free courtyard and ramparts, 30–40 minutes is enough.
+    a: >-
+      Plan on 1.5–2 hours if you're visiting the history museum inside. If
+      you're only walking the free courtyard and ramparts, 30–40 minutes is
+      enough.
   - q: Is it free to visit?
-    a: The courtyard, moat walk, and ramparts are free to enter. Only the Nantes History Museum and any temporary exhibitions require a paid ticket.
+    a: >-
+      The courtyard, moat walk, and ramparts are free to enter. Only the Nantes
+      History Museum and any temporary exhibitions require a paid ticket.
   - q: When is the quietest time to visit?
-    a: Weekdays are calm throughout the full 10am–7pm opening window. On weekends, avoid 11am–6pm when it's busiest, and instead go in the last hour before closing, 6–7pm.
+    a: >-
+      Weekdays are calm throughout the full 10am–7pm opening window. On
+      weekends, avoid 11am–6pm when it's busiest, and instead go in the last
+      hour before closing, 6–7pm.
   - q: How do I get there by public transport?
-    a: Take tram line 1 or 2 to the Duchesse Anne stop, which sits right beside the château's moat. It's also a 15–20 minute walk from Nantes train station.
+    a: >-
+      Take tram line 1 or 2 to the Duchesse Anne stop, which sits right beside
+      the château's moat. It's also a 15–20 minute walk from Nantes train
+      station.
   - q: What's nearby if I want to make a day of it?
-    a: The Passage Pommeraye covered arcade, Nantes Cathedral, and the Machines de l'île mechanical elephant are all within easy walking or tram distance.
+    a: >-
+      The Passage Pommeraye covered arcade, Nantes Cathedral, and the Machines
+      de l'île mechanical elephant are all within easy walking or tram distance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-15'
 ---
 ## Why go
 

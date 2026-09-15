@@ -1,59 +1,85 @@
 ---
-title: "Leofoo Village Theme Park: Hsinchu Travel Guide (4.6★)"
-description: "Leofoo Village Theme Park in Guanxi Township, Hsinchu County, is Taiwan's largest theme park, split into six themed zones from Arabia to the Wild West, with an African Safari drive-through as its signature feature. 4.6★ (57,139 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Hsinchu"
-category: "attraction"
-pubDate: "2026-09-15T07:55:08.486Z"
+title: 'Leofoo Village Theme Park: Hsinchu Travel Guide (4.6★)'
+description: >-
+  Leofoo Village Theme Park in Guanxi Township, Hsinchu County, is Taiwan's
+  largest theme park, split into six themed zones from Arabia to the Wild West,
+  with an African Safari drive-through as its signature feature. 4.6★ (57,141
+  reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: Hsinchu
+category: attraction
+pubDate: '2026-09-15T07:55:08.486Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/LeofooVillage_MainEntrance_Back.jpg/1920px-LeofooVillage_MainEntrance_Back.jpg"
-  credit: "Photo: Rico Shen / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:LeofooVillage_MainEntrance_Back.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/LeofooVillage_MainEntrance_Back.jpg/1920px-LeofooVillage_MainEntrance_Back.jpg
+  credit: 'Photo: Rico Shen / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:LeofooVillage_MainEntrance_Back.jpg'
   focus:
     x: 50
-    y: 30
+    'y': 30
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/9/93/Flying_Horses_Leofoo_Village_Theme_Park.jpg"
-    credit: "Photo: milst1 / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Flying_Horses_Leofoo_Village_Theme_Park.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/9/93/Flying_Horses_Leofoo_Village_Theme_Park.jpg
+    credit: 'Photo: milst1 / Wikimedia Commons (CC BY-SA 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Flying_Horses_Leofoo_Village_Theme_Park.jpg
 place:
-  id: "ChIJV-Ai7AQ8aDQRU-Dpi0F7gUE"
-  name: "Leofoo Village Theme Park"
-  address: "仁安里拱子溝 60 號, Guanxi Township, Hsinchu County, Taiwan 306"
+  id: ChIJV-Ai7AQ8aDQRU-Dpi0F7gUE
+  name: Leofoo Village Theme Park
+  address: '仁安里拱子溝 60 號, Guanxi Township, Hsinchu County, Taiwan 306'
   rating: 4.6
-  userRatingsTotal: 57139
-  googleMapsUrl: "https://maps.google.com/?cid=4720189405911441491&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 57141
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4720189405911441491&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 24.8252617
   lng: 121.1806044
-  phone: "+886 3 547 5665"
+  phone: +886 3 547 5665
   openingHours:
-    - "Monday: 9:30 AM – 5:00 PM"
-    - "Tuesday: 9:30 AM – 5:00 PM"
-    - "Wednesday: 9:30 AM – 5:00 PM"
-    - "Thursday: 9:30 AM – 5:00 PM"
-    - "Friday: 9:30 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 7:30 PM"
-    - "Sunday: 9:00 AM – 7:30 PM"
+    - 'Monday: 9:30 AM – 5:00 PM'
+    - 'Tuesday: 9:30 AM – 5:00 PM'
+    - 'Wednesday: 9:30 AM – 5:00 PM'
+    - 'Thursday: 9:30 AM – 5:00 PM'
+    - 'Friday: 9:30 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 7:30 PM'
+    - 'Sunday: 9:00 AM – 7:30 PM'
 tags:
-  - "hsinchu"
-  - "park"
-quickAnswer: "Leofoo Village Theme Park in Guanxi Township, Hsinchu County, is Taiwan's largest theme park, split into six themed zones from Arabia to the Wild West, with an African Safari drive-through as its signature feature. Weekdays run 9:30am–5pm; Saturdays and Sundays stretch to 9am–7:30pm, so a weekend visit buys nearly three extra hours. It's very popular, so arrive at opening and tackle headline rides first."
+  - hsinchu
+  - park
+quickAnswer: >-
+  Leofoo Village Theme Park in Guanxi Township, Hsinchu County, is Taiwan's
+  largest theme park, split into six themed zones from Arabia to the Wild West,
+  with an African Safari drive-through as its signature feature. Weekdays run
+  9:30am–5pm; Saturdays and Sundays stretch to 9am–7:30pm, so a weekend visit
+  buys nearly three extra hours. It's very popular, so arrive at opening and
+  tackle headline rides first.
 faq:
-  - q: "How do I get to Leofoo Village Theme Park from Hsinchu?"
-    a: "Take a shuttle bus from Hsinchu HSR Station, or drive via National Highway 3; there's no direct rail line to the park, and on-site parking is available for those driving."
-  - q: "What are the opening hours?"
-    a: "Monday to Friday it's 9:30am–5pm; Saturday and Sunday hours extend to 9am–7:30pm, giving weekend visitors nearly three extra hours."
-  - q: "How long should I plan to spend there?"
-    a: "Budget six to eight hours to see the African Safari, ride two or three headline attractions, and catch one animal show."
-  - q: "Is it worth visiting on a weekday versus weekend?"
-    a: "Weekdays close earlier (5pm) but have thinner crowds; weekends run until 7:30pm but draw much bigger lines, especially on the marquee coasters."
-  - q: "What's the park's standout feature?"
-    a: "The African Safari, a drive-through wildlife zone with lions, giraffes and zebras, viewed by tram or car depending on the day."
+  - q: How do I get to Leofoo Village Theme Park from Hsinchu?
+    a: >-
+      Take a shuttle bus from Hsinchu HSR Station, or drive via National Highway
+      3; there's no direct rail line to the park, and on-site parking is
+      available for those driving.
+  - q: What are the opening hours?
+    a: >-
+      Monday to Friday it's 9:30am–5pm; Saturday and Sunday hours extend to
+      9am–7:30pm, giving weekend visitors nearly three extra hours.
+  - q: How long should I plan to spend there?
+    a: >-
+      Budget six to eight hours to see the African Safari, ride two or three
+      headline attractions, and catch one animal show.
+  - q: Is it worth visiting on a weekday versus weekend?
+    a: >-
+      Weekdays close earlier (5pm) but have thinner crowds; weekends run until
+      7:30pm but draw much bigger lines, especially on the marquee coasters.
+  - q: What's the park's standout feature?
+    a: >-
+      The African Safari, a drive-through wildlife zone with lions, giraffes and
+      zebras, viewed by tram or car depending on the day.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-15'
 ---
 
 ## What's actually inside

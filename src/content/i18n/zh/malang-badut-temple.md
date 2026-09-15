@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: malang-badut-temple
-srcHash: 'fe0e9288ef01'
+srcHash: 'ed38bf6a451d'
 title: 巴杜寺（Badut Temple）：玛琅（Malang）旅游指南（4.5★）
-description: 巴杜寺位于爪哇玛琅市中心以西约20分钟车程的道乌县（Dau district）卡朗维多罗村（Karangwidoro village）。评分4.5★（1,768条点评）——游客怎么说、开放时间与实用建议一并奉上。
+description: 巴杜寺位于爪哇玛琅市中心以西约20分钟车程的道乌县（Dau district）卡朗维多罗村（Karangwidoro village）。评分4.5★（1,769条点评）——游客怎么说、开放时间与实用建议一并奉上。
 quickAnswer: 巴杜寺坐落在爪哇玛琅市中心以西约20分钟车程的道乌县（Dau district）卡朗维多罗村（Karangwidoro village），是爪哇岛上已知历史最早的印度教寺庙之一，1921年重新出土、1927年完成修复，门票只需支付象征性的费用。这里适合停留30到45分钟，是个安静低调的小景点，并非游客云集之地。
 faq:
   - q: 从玛琅市区怎么去巴杜寺（Badut Temple）？

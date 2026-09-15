@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: nagoya-osu-kannon
-srcHash: 'fb3f27be09b6'
+srcHash: 'b7d669320fb4'
 title: 'Osu Kannon: Guía de viaje de Nagoya (4.2★)'
-description: 'Osu Kannon es un templo budista del siglo XIV, reconstruido tras un incendio, situado en el barrio de Osu, en el distrito de Naka, Nagoya, justo en el límite de la galería comercial de Osu Shopping District. 4.2★ (12.290 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Osu Kannon es un templo budista del siglo XIV, reconstruido tras un incendio, situado en el barrio de Osu, en el distrito de Naka, Nagoya, justo en el límite de la galería comercial de Osu Shopping District. 4.2★ (12.321 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Osu Kannon es un templo budista del siglo XIV reconstruido, ubicado en el barrio de Osu, en el distrito de Naka, Nagoya, justo en el límite de la galería comercial de Osu Shopping District. Abre todos los días de 6:00 a 19:00 y la entrada es gratuita; las visitas más tranquilas son a primera hora de la mañana, antes de que lleguen los puestos del mercado y los compradores. Conviene combinarlo con una o dos horas paseando por las galerías cubiertas de los alrededores para hacerse una idea completa de la zona.
 faq:
   - q: ¿Es gratis visitar Osu Kannon?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: nantes-chateau-des-ducs-de-bretagne
-srcHash: '155120850921'
+srcHash: '1c59b7ef0bfa'
 title: 'Castillo de los Duques de Bretaña: guía de viaje de Nantes (4,5★)'
-description: 'El Castillo de los Duques de Bretaña se encuentra en pleno centro de Nantes, en 4 Pl. Marc Elder, abierto todos los días de 10:00 a 19:00. 4,5★ (24.636 reseñas): lo que opinan los visitantes, horarios y consejos.'
+description: 'El Castillo de los Duques de Bretaña se encuentra en pleno centro de Nantes, en 4 Pl. Marc Elder, abierto todos los días de 10:00 a 19:00. 4,5★ (24.811 reseñas): lo que opinan los visitantes, horarios y consejos.'
 quickAnswer: El Castillo de los Duques de Bretaña se encuentra en pleno centro de Nantes, en 4 Pl. Marc Elder, abierto todos los días de 10:00 a 19:00. El patio y las murallas son gratuitos y se pueden recorrer en cualquier momento, pero si vas a pagar la entrada al museo de historia que hay dentro, conviene ir un día entre semana o después de las 18:00 los fines de semana para evitar las aglomeraciones. Calcula entre 1,5 y 2 horas para el museo, o menos si solo vas a ver las murallas y el foso.
 faq:
   - q: ¿Cuánto tiempo debo reservar para visitar el castillo?
