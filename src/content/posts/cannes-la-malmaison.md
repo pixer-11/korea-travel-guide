@@ -54,8 +54,7 @@ faq:
   - q: "Is it crowded compared to other Cannes attractions?"
     a: "No, it stays well under the radar compared with the Croisette outside, so even in peak season it's rarely busy, though that could shift depending on which exhibition is showing."
 aiGenerated: true
-draft: true
-heldReason: hours
+draft: false
 ---
 
 La Malmaison sits mid-Croisette, sandwiched between the seafront hotels and the beach clubs, in a building that used to be an actual hotel annex before the town took it over for art. That history shows in the bones of the place: high ceilings, tall shuttered windows facing the Mediterranean, and rooms that were clearly built for guests rather than galleries, which gives the exhibitions an oddly domestic scale.

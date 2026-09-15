@@ -67,8 +67,7 @@ faq:
   - q: "Can I watch the Dubai Fountain show from Burj Park?"
     a: "Yes, the park's island position gives a clear view across the lake toward the fountain and tower, generally with less congestion than the mall-side boardwalk directly below."
 aiGenerated: true
-draft: true
-heldReason: wrong-region
+draft: false
 ---
 
 Burj Park is the patch of grass everyone photographs the Burj Khalifa from without realizing it has a name. It's a small, landscaped island wrapped by a walking path, positioned so the tower rises directly behind the Dubai Fountain lake with nothing blocking the shot.
