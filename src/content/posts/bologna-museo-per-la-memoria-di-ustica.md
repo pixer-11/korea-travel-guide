@@ -1,58 +1,57 @@
 ---
-title: "Museo per la Memoria di Ustica: Bologna Travel Guide (4.8★)"
-description: "Museo per la Memoria di Ustica sits in the Bolognina district of Bologna, inside a converted former tram depot on Via di Saliceto. 4.8★ (1,799 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Bologna"
-category: "attraction"
-pubDate: "2026-09-15T08:00:11.726Z"
+title: 'Museo per la Memoria di Ustica: Bologna Travel Guide (4.8★)'
+description: Museo per la Memoria di Ustica sits in the Bolognina district of Bologna, inside a converted former tram depot on Via di Saliceto. 4.8★ (1,799 reviews) — what visitors say, hours, and tips.
+country: Italy
+region: Bologna
+category: attraction
+pubDate: '2026-09-15T08:00:11.726Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Museo_per_la_Memoria_di_Ustica_e_Parco_della_Zucca.jpg"
-  credit: "Photo: Marcheselli Giacomo / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Museo_per_la_Memoria_di_Ustica_e_Parco_della_Zucca.jpg"
-  via: "act"
+  url: https://fastly.4sqi.net/img/general/original/26086739_9Rf_WIr3VGdU55oQ77J5ju5QmKCjt9uDPifvDrQwOHk.jpg
+  credit: 'Photo: Foursquare user content (Museo per la Memoria di Ustica)'
+  license: foursquare
+  source: https://foursquare.com/v/4c2f0f75452620a173e21c0f
   focus:
-    x: 50
-    y: 45
+    x: 40
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/8/87/Museo_per_la_Memoria_di_Ustica_au%C3%9Fen.jpg"
-    credit: "Photo: Harvey Kneeslapper / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Museo_per_la_Memoria_di_Ustica_au%C3%9Fen.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/8/87/Museo_per_la_Memoria_di_Ustica_au%C3%9Fen.jpg
+    credit: 'Photo: Harvey Kneeslapper / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Museo_per_la_Memoria_di_Ustica_au%C3%9Fen.jpg
 place:
-  id: "ChIJnwWauGDTf0cRlZh-n35eRoM"
-  name: "Museo per la Memoria di Ustica"
-  address: "Via di Saliceto, 3/22, 40128 Bologna BO, Italy"
+  id: ChIJnwWauGDTf0cRlZh-n35eRoM
+  name: Museo per la Memoria di Ustica
+  address: Via di Saliceto, 3/22, 40128 Bologna BO, Italy
   rating: 4.8
   userRatingsTotal: 1799
-  googleMapsUrl: "https://maps.google.com/?cid=9459351965273069717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=9459351965273069717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 44.513321399999995
   lng: 11.3500511
-  phone: "+39 051 219 6070"
+  phone: +39 051 219 6070
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: Closed"
-    - "Wednesday: Closed"
-    - "Thursday: Closed"
-    - "Friday: 5:00 – 8:00 PM"
-    - "Saturday: 5:00 – 8:00 PM"
-    - "Sunday: 5:00 – 8:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: Closed'
+    - 'Thursday: Closed'
+    - 'Friday: 5:00 – 8:00 PM'
+    - 'Saturday: 5:00 – 8:00 PM'
+    - 'Sunday: 5:00 – 8:00 PM'
 tags:
-  - "bologna"
-  - "museum"
-quickAnswer: "Museo per la Memoria di Ustica sits in the Bolognina district of Bologna, inside a converted former tram depot on Via di Saliceto. It's only open Friday, Saturday and Sunday, 5:00 to 8:00 PM, so plan around that narrow window rather than a weekday visit. Give it 45 minutes to an hour; the reconstructed fuselage and Christian Boltanski's sound-and-light installation are the whole point."
+  - bologna
+  - museum
+quickAnswer: Museo per la Memoria di Ustica sits in the Bolognina district of Bologna, inside a converted former tram depot on Via di Saliceto. It's only open Friday, Saturday and Sunday, 5:00 to 8:00 PM, so plan around that narrow window rather than a weekday visit. Give it 45 minutes to an hour; the reconstructed fuselage and Christian Boltanski's sound-and-light installation are the whole point.
 faq:
-  - q: "What are the opening hours for Museo per la Memoria di Ustica?"
-    a: "Friday, Saturday and Sunday only, 5:00 to 8:00 PM. It's closed Monday through Thursday, so weekday visits aren't possible."
-  - q: "How do I get to the museum from central Bologna?"
-    a: "It's in the Bolognina district on Via di Saliceto, about a 15-20 minute walk north from Bologna Centrale station, or accessible by local bus."
-  - q: "How long should I plan to spend there?"
-    a: "Around 45 minutes to an hour. It's a single main installation hall plus introductory panels, not a sprawling museum."
-  - q: "Is the museum worth visiting if I don't know the Ustica crash story?"
-    a: "Yes. Entrance panels explain the background of the 1980 DC-9 crash and the decades-long investigation before you enter the main hall."
-  - q: "What's nearby to combine with a visit?"
-    a: "The Bolognina neighborhood has everyday local trattorias and is close to MAMbo (Museum of Modern Art Bologna), making it easy to pair with an evening art stop."
+  - q: What are the opening hours for Museo per la Memoria di Ustica?
+    a: Friday, Saturday and Sunday only, 5:00 to 8:00 PM. It's closed Monday through Thursday, so weekday visits aren't possible.
+  - q: How do I get to the museum from central Bologna?
+    a: It's in the Bolognina district on Via di Saliceto, about a 15-20 minute walk north from Bologna Centrale station, or accessible by local bus.
+  - q: How long should I plan to spend there?
+    a: Around 45 minutes to an hour. It's a single main installation hall plus introductory panels, not a sprawling museum.
+  - q: Is the museum worth visiting if I don't know the Ustica crash story?
+    a: Yes. Entrance panels explain the background of the 1980 DC-9 crash and the decades-long investigation before you enter the main hall.
+  - q: What's nearby to combine with a visit?
+    a: The Bolognina neighborhood has everyday local trattorias and is close to MAMbo (Museum of Modern Art Bologna), making it easy to pair with an evening art stop.
 aiGenerated: true
 draft: false
 ---

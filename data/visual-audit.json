@@ -3433,7 +3433,7 @@
     "slug": "little-india-former-house-of-tan-teng-niah",
     "verdict": "MATCH",
     "reason": "patrol replace: Colorful heritage building in Little India, Singapore",
-    "at": "2026-09-13T21:34:36.792Z"
+    "at": "2026-09-15T22:24:17.299Z"
   },
   "little-india-veera-flavours\u0001https://fastly.4sqi.net/img/general/original/1399700747_U-zVoXbUmjz123smC6Z2h-pdOxpZZcw5DtGgYSdMaZs.jpg": {
     "slug": "little-india-veera-flavours",
@@ -19182,5 +19182,11 @@
     "verdict": "MATCH",
     "reason": "publish gate: Downtown Dubai skyline, water, and bridge match Burj Park area",
     "at": "2026-09-15T08:14:26.075Z"
+  },
+  "bologna-museo-per-la-memoria-di-ustica\u0001https://fastly.4sqi.net/img/general/original/26086739_9Rf_WIr3VGdU55oQ77J5ju5QmKCjt9uDPifvDrQwOHk.jpg": {
+    "slug": "bologna-museo-per-la-memoria-di-ustica",
+    "verdict": "MATCH",
+    "reason": "width upgrade: Shows the actual wreckage installation inside Ustica memorial museum",
+    "at": "2026-09-15T22:25:42.104Z"
   }
 }
