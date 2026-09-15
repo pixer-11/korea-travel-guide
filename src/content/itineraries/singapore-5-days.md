@@ -6,7 +6,7 @@ title: '5-Day Singapore Itinerary: Gardens, Rainforest, Sentosa, Jurong & the Ea
 description: A 5-day Singapore itinerary moving from Marina Bay's gardens and Kampong Glam's heritage streets through Bukit Timah's rainforest, Sentosa's fort and southern ridge, Jurong's lakes and gardens, and Katong's coastal parks and markets.
 quickAnswer: This 5-day Singapore itinerary covers Marina Bay and Kampong Glam on day one, Bukit Timah's nature reserves on day two, Sentosa and the southern ridge parks on day three, Jurong's attractions and gardens on day four, and Katong's coastline and markets on day five, mixing hidden-gem parks, big-name attractions, and local food stops.
 pubDate: '2026-08-13T00:36:52.182Z'
-stopsHash: 718be19ce4257a39cc06774f3acf94176eaf8d06
+stopsHash: 8747f0aa0e1fe5c3ed2e9e147a52ebe2519f8fdf
 packedAvailable: true
 faq:
   - q: How should I get around for this 5-day Singapore itinerary?
@@ -85,7 +85,7 @@ itinerary:
         why: Sitting at the base of the hill near the nature reserve, this temple offers a low-key, contemplative close to a day spent outdoors.
         dwellMin: 30
         walkToNext: null
-    rainSwapSlug: null
+    rainSwapSlug: bukit-timah-former-ford-factory
   - label: Sentosa's fort to the southern ridge
     intro: The morning is spent at Fort Siloso on Sentosa's Siloso Road, exploring the restored coastal fort. The afternoon then crosses to Telok Blangah Hill Park on the southern ridge for skyline views, before finishing at HortPark in Tiong Bahru among its themed demonstration gardens.
     stops:
@@ -144,25 +144,25 @@ itinerary:
         why: This long stretch of reclaimed beachfront opens the day with room to walk, cycle, or simply take in the coast.
         dwellMin: 150
         walkToNext:
-          km: 3
-          minutes: null
-          transit: true
-      - slug: dempsey-hill-pasar-geylang-serai
+          km: 1.6
+          minutes: 21
+          transit: false
+      - slug: katong-sri-senpaga-vinayagar-temple
         slot: afternoon
+        why: A attraction rated 4.8 by visitors, included as a stop on this route.
+        dwellMin: 38
+        walkToNext:
+          km: 1.7
+          minutes: 23
+          transit: false
+      - slug: dempsey-hill-pasar-geylang-serai
+        slot: evening
         why: This wet market and hawker centre in Geylang Serai gives an afternoon taste of local daily life and food away from the more touristed sights.
         dwellMin: 90
-        walkToNext:
-          km: 3.4
-          minutes: null
-          transit: true
-      - slug: katong-katong-park
-        slot: evening
-        why: This small, leafy park built around the last remnant of old Fort Tomahawk offers a short, easy wind-down between Katong's shophouses and the coast.
-        dwellMin: 38
         walkToNext: null
-    rainSwapSlug: null
+    rainSwapSlug: kampong-glam-malay-heritage-centre
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-14T14:18:38.525Z'
+updatedDate: '2026-09-15T08:10:03.639Z'
 ---
 

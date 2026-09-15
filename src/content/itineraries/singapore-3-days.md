@@ -6,7 +6,7 @@ title: '3-Day Singapore Itinerary: Marina Bay, Jurong Gardens & East Coast'
 description: A 3-day Singapore itinerary moving from Marina Bay's gardens and heritage streets to Jurong's lakes and gardens, then out to the beaches and markets of the east coast.
 quickAnswer: 'This is a 3-day Singapore itinerary: day one covers Marina Bay''s gardens, a Marina Bay Sands dining stop, and Kampong Glam''s Bussorah Street; day two spends the day in Jurong''s gardens and lakes; day three moves along the east coast from a beachfront park to a wet market and a neighborhood park in Katong.'
 pubDate: '2026-08-13T00:35:14.044Z'
-stopsHash: 380c7d18bcd9ffae4d285945c648e5afd300fc17
+stopsHash: 33f3835f63170bf34cb63f470fe9d7a5a8d7017f
 packedAvailable: true
 faq:
   - q: How should I get around for this 3-day Singapore itinerary?
@@ -94,25 +94,25 @@ itinerary:
         why: A long beachfront stretch is ideal for a relaxed morning by bike, on skates, or over a seafood meal.
         dwellMin: 150
         walkToNext:
-          km: 3
-          minutes: null
-          transit: true
-      - slug: dempsey-hill-pasar-geylang-serai
+          km: 1.6
+          minutes: 21
+          transit: false
+      - slug: katong-sri-senpaga-vinayagar-temple
         slot: afternoon
+        why: A attraction rated 4.8 by visitors, included as a stop on this route.
+        dwellMin: 38
+        walkToNext:
+          km: 1.7
+          minutes: 23
+          transit: false
+      - slug: dempsey-hill-pasar-geylang-serai
+        slot: evening
         why: This wet market and hawker centre offers a change of pace, best browsed while the stalls and food centre are still running.
         dwellMin: 90
-        walkToNext:
-          km: 3.4
-          minutes: null
-          transit: true
-      - slug: katong-katong-park
-        slot: evening
-        why: A small, leafy park built around a historic fort remnant is a fitting, unhurried way to end the day between Katong's shophouses and the coast.
-        dwellMin: 38
         walkToNext: null
     rainSwapSlug: kampong-glam-malay-heritage-centre
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-14T08:06:30.671Z'
+updatedDate: '2026-09-15T08:10:03.557Z'
 ---
 
