@@ -57,6 +57,15 @@ place:
       - 16
       - 17
     venueId: ven_38746845744249416d526152555444564d7a654f4766584a496843
+  phone: '+82 64-762-2190'
+  openingHours:
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
   - jeju
   - Olle trail
