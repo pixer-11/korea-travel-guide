@@ -1,5 +1,11 @@
 {
-  "validate-content": {},
+  "validate-content": {
+    "DUPLICATE downtown-dubai-burj-park.md": {
+      "since": "2026-09-15",
+      "last": "2026-09-15",
+      "seen": 1
+    }
+  },
   "audit-translations": {},
   "audit-hours-claims": {}
 }
