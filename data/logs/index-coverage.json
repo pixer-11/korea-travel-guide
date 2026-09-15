@@ -1,17 +1,17 @@
 {
-  "at": "2026-09-08T00:01:25.853Z",
+  "at": "2026-09-15T00:16:50.843Z",
   "results": [
     {
       "key": "when-to-go",
       "programmatic": true,
-      "pool": 216,
+      "pool": 217,
       "sampled": 60,
-      "indexed": 49,
+      "indexed": 52,
       "failed": 0,
       "denied": false,
       "causes": {
-        "notCrawled": 4,
-        "crawledOut": 1,
+        "notCrawled": 2,
+        "crawledOut": 0,
         "unknown": 6,
         "other": 0
       }
@@ -19,13 +19,13 @@
     {
       "key": "itinerary",
       "programmatic": true,
-      "pool": 12,
-      "sampled": 12,
+      "pool": 13,
+      "sampled": 13,
       "indexed": 2,
       "failed": 0,
       "denied": false,
       "causes": {
-        "notCrawled": 1,
+        "notCrawled": 2,
         "crawledOut": 0,
         "unknown": 9,
         "other": 0
@@ -49,16 +49,16 @@
     {
       "key": "posts",
       "programmatic": false,
-      "pool": 1383,
+      "pool": 1538,
       "sampled": 60,
-      "indexed": 27,
+      "indexed": 15,
       "failed": 0,
       "denied": false,
       "causes": {
-        "notCrawled": 28,
+        "notCrawled": 30,
         "crawledOut": 0,
-        "unknown": 5,
-        "other": 0
+        "unknown": 14,
+        "other": 1
       }
     }
   ]
