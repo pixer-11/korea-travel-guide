@@ -434,6 +434,13 @@ function regionRedirects() {
     // longer-indexed URL (the earlier pubDate) wins.
     ['kuala-lumpur-aaron-kwok-iconic-world-tour-2026-live-in-malaysia', 'kuala-lumpur-aaron-kwok-iconic-world-tour-2026'],
     ['tokushima-tokushima-awa-odori-festival', 'tokushima-tokushima-awa-odori'],
+    // Not an event, but the same disease on 2026-09-15: Burj Park written twice
+    // under two Google place.ids. The first copy was filed under Dubai Marina and
+    // held; refiling it to Downtown Dubai made it the twin of the post generated
+    // 16 minutes later. Neither was indexed yet, so the rankings rule does not
+    // decide it: KEPT the one with the correct slug and a hero of the park itself
+    // (the gone twin showed the tower from Safa Park).
+    ['dubai-marina-burj-park', 'downtown-dubai-burj-park'],
   ];
   // Resolve one hop at build time: when the KEPT twin is itself quarantined,
   // pointing at it produced a 301→301 chain ending wherever the draft rule
