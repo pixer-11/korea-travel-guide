@@ -18,7 +18,7 @@
    "hits": 7
   },
   "art gallery": {
-   "attempts": 47,
+   "attempts": 48,
    "hits": 7
   },
   "night view": {
@@ -58,7 +58,7 @@
    "hits": 19
   },
   "breakfast": {
-   "attempts": 29,
+   "attempts": 41,
    "hits": 2
   },
   "trendy cafe": {
@@ -78,7 +78,7 @@
    "hits": 0
   },
   "vegetarian": {
-   "attempts": 12,
+   "attempts": 22,
    "hits": 0
   },
   "concept cafe": {
@@ -90,7 +90,7 @@
    "hits": 2
   },
   "grill": {
-   "attempts": 4,
+   "attempts": 6,
    "hits": 0
   },
   "design shop": {
@@ -178,5 +178,5 @@
    "hits": 0
   }
  },
- "updated": "2026-09-15T08:14:26.229Z"
+ "updated": "2026-09-15T14:18:13.463Z"
 }
