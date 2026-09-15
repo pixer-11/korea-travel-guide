@@ -116,6 +116,13 @@ export function hoursProblems(raw) {
       // Same sentence, no full stop between: the time and its consequence.
       const after = prose.slice(m.index + m[0].length, m.index + m[0].length + 90);
       if (/^[^.]*\b(means|leaves you|finds?|meets?|greets?|and you'?ll (find|hit|face)|only to find|will (find|be met|face))\b[^.]*\b(locked|closed|shut|gate|nothing open|no one|nobody|empty|dark|turned away|waiting)\b/i.test(after)) continue;
+      // The frustrated-expectation shape: "If you arrive at 1:15pm expecting to
+      // walk straight in, you'll be standing on the Croisette instead." A
+      // correct warning about La Malmaison's lunch closure, held on publish day
+      // 2026-09-14 and then retried by the prose fixer, which had nothing to fix.
+      // Needs BOTH the expectation and its reversal in the same sentence; a bare
+      // "arrive at 7pm expecting a short queue" is still advice and still checked.
+      if (/^[^.]*\bexpecting\b[^.]*\b(instead|outside|turned away|locked|closed|shut)\b/i.test(after)) continue;
       seen.add(min);
       const ok = open.some((p) => inAnyRange(min, p.ranges));
       if (!ok) found.push(`prose says ${m[0]}, outside every day's hours (${lines[0]} … )`);

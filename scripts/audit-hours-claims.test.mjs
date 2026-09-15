@@ -139,6 +139,13 @@ const cases = [
   ['FP-closed-the-whole-weekend (should be CLEAN)', post(['Monday: 10:00 AM – 6:00 PM', 'Tuesday: 10:00 AM – 6:00 PM', 'Wednesday: 10:00 AM – 6:00 PM',
      'Thursday: 10:00 AM – 6:00 PM', 'Friday: 10:00 AM – 6:00 PM', 'Saturday: Closed', 'Sunday: Closed'],
     'It runs Monday to Friday, 10am to 6pm, and is closed the whole weekend.'), 0],
+  // 09-14 칸 라 말메종: "1:15pm 에 바로 들어갈 거라 기대하고 가면 거리에 서 있게 된다" —
+  // 점심 휴관을 경고하는 정확한 문장. 기대 + 반전이 한 문장에 있을 때만 통과시킨다.
+  ['FP-frustrated-expectation (should be CLEAN)', post(SPLIT_DAY,
+    "The midday closure catches people off guard. If you arrive at 1pm expecting to walk straight in, you'll be standing outside instead."), 0],
+  // 역방향: 반전 없는 "expecting" 은 여전히 권유다.
+  ['TP-expecting-without-reversal (must FLAG)', post(SPLIT_DAY,
+    'Arrive at 1pm expecting a short queue and an easy wander through the courtyard.'), 1],
   // 역방향: 사실상자가 주말에 열려 있는데 본문이 closed all weekend 라면 계속 잡아야 한다.
   ['TP-closed-all-weekend-but-open (must FLAG)', post(WEEK_OPEN_MON,
     'The market is closed all weekend, so come on a weekday morning instead.'), 1],

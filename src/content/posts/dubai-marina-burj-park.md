@@ -1,8 +1,8 @@
 ---
-title: "Burj Park: Dubai Marina Travel Guide (4.8★)"
-description: "Burj Park sits at the base of the Burj Khalifa in Downtown Dubai, not Dubai Marina itself, despite the region tag; it's a small landscaped island with the best unobstructed sightline for Burj Khalifa and the Dubai Fountain shows. 4.8★ (62,208 reviews) — what visitors say, hours, and tips."
+title: "Burj Park: Downtown Dubai Travel Guide (4.8★)"
+description: "Burj Park sits at the base of the Burj Khalifa in Downtown Dubai; it's a small landscaped island with the best unobstructed sightline for Burj Khalifa and the Dubai Fountain shows. 4.8★ (62,208 reviews) — what visitors say, hours, and tips."
 country: "United Arab Emirates"
-region: "Dubai Marina"
+region: "Downtown Dubai"
 category: "attraction"
 pubDate: "2026-09-15T07:58:18.547Z"
 heroImage:
@@ -52,12 +52,12 @@ place:
       - 22
     venueId: "ven_346b58337270745f7a696e52347a586f704364376e65324a496843"
 tags:
-  - "dubai marina"
+  - "downtown dubai"
   - "park"
-quickAnswer: "Burj Park sits at the base of the Burj Khalifa in Downtown Dubai, not Dubai Marina itself, despite the region tag; it's a small landscaped island with the best unobstructed sightline for Burj Khalifa and the Dubai Fountain shows. It's open daily from 9am to 11pm, and it's calmest on weekdays between 9am and 10am or weekend mornings before 2pm. Skip the 5pm–11pm weekend crush unless you're there specifically for the illuminated fountain shows."
+quickAnswer: "Burj Park sits at the base of the Burj Khalifa in Downtown Dubai; it's a small landscaped island with the best unobstructed sightline for Burj Khalifa and the Dubai Fountain shows. It's open daily from 9am to 11pm, and it's calmest on weekdays between 9am and 10am or weekend mornings before 2pm. Skip the 5pm–11pm weekend crush unless you're there specifically for the illuminated fountain shows."
 faq:
-  - q: "Is Burj Park in Dubai Marina or Downtown Dubai?"
-    a: "It's in Downtown Dubai, at the base of the Burj Khalifa, despite sometimes being filed under the Dubai Marina region in listings. Expect a 25-35 minute taxi or metro ride from the actual Marina."
+  - q: "Where exactly is Burj Park?"
+    a: "In Downtown Dubai, at the base of the Burj Khalifa, off Burj Khalifa Boulevard. From Dubai Marina, allow a 25-35 minute taxi or metro ride."
   - q: "Is there an entry fee for Burj Park?"
     a: "No, the park is free and open to walk into via the pedestrian bridge across the fountain lake, daily from 9am to 11pm."
   - q: "When is Burj Park least crowded?"
@@ -73,7 +73,7 @@ heldReason: wrong-region
 
 Burj Park is the patch of grass everyone photographs the Burj Khalifa from without realizing it has a name. It's a small, landscaped island wrapped by a walking path, positioned so the tower rises directly behind the Dubai Fountain lake with nothing blocking the shot.
 
-Despite showing up under "Dubai Marina" in some listings, this park is in Downtown Dubai, right off Burj Khalifa Boulevard at the foot of the tower itself. If you're coming from the Marina, budget 25 to 35 minutes by taxi or metro depending on traffic.
+The park is in Downtown Dubai, right off Burj Khalifa Boulevard at the foot of the tower itself. If you're coming from Dubai Marina, budget 25 to 35 minutes by taxi or metro depending on traffic.
 
 ## Finding the island
 
