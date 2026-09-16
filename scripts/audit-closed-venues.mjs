@@ -38,6 +38,22 @@ const field = (head, key) => {
   return '';
 };
 
+// Exterior-only heritage landmarks: Google's status describes a BUSINESS, and
+// some of these addresses have no business to describe. 37 Kerbau Road is the
+// last Chinese villa in Little India — a painted facade you photograph from the
+// street, never enter — and Google files it CLOSED_TEMPORARILY because the
+// shophouse tenant behind the facade is between occupants. The building is
+// there, the street is public, and the visit is unchanged; holding the guide
+// tells a reader a landmark has shut when it has not (2026-09-16).
+//
+// Keyed by place.id, never by slug, so a place record swapped underneath us
+// falls back out of the exemption. Each entry needs a dated reason: this list
+// is the one way a non-OPERATIONAL venue reaches readers, so it stays short and
+// covers only places whose VISIT does not depend on a business being open.
+const ALWAYS_VISITABLE = new Map([
+  ['ChIJX0z5sbgZ2jERbP7t9-0hs_E', '2026-09-16: Former House of Tan Teng Niah — exterior-only heritage facade on a public street; Google tracks the tenancy behind it'],
+]);
+
 const files = readdirSync(DIR).filter((f) => f.endsWith('.md'));
 const found = [];
 for (const f of files) {
@@ -49,6 +65,7 @@ for (const f of files) {
   if (isDraft && !includeDrafts) continue;
   const status = field(head, 'businessStatus');
   if (!status || status === 'OPERATIONAL') continue;
+  if (ALWAYS_VISITABLE.has(field(head, 'id'))) continue;
   found.push({ f, status, isDraft });
 }
 
