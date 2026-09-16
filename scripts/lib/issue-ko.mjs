@@ -251,6 +251,7 @@ export function koIssueLine(raw) {
     [/^GARBLED place\.name/, () => '장소 이름이 검색어 덤프처럼 저장됨'],
     [/^DUPLICATE image/, () => '두 글이 같은 대표사진을 씀'],
     [/^DUPLICATE place\.id/, () => '같은 장소가 두 글로 발행됨'],
+    [/^RATING BELOW FLOOR/, () => '평점이 기준(4.0) 아래인데 공개돼 있음'],
     [/^DUPLICATE topic/, () => '같은 주제(같은 장소)의 글이 두 편 발행됨'],
     [/^DUPLICATE event coverage/, () => '같은 행사를 두 글이 다룸'],
     [/^CONTRADICTORY event dates/, () => '같은 행사인데 글마다 날짜가 다름'],

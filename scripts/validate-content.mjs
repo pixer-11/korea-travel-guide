@@ -363,6 +363,17 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10),
   // An event with no machine-readable start date can't sort, expire, or emit Event
   // schema — the date is usually sitting in the prose.
   if (p.category === 'event' && !p.eventStart) issues.push(`EVENT missing eventStartDate: ${p.f}`);
+  // /methodology promises every venue guide is a place rated 4.0 or better;
+  // the generator enforces it at selection (lib/guardrails.mjs MIN_RATING) and
+  // the gate quarantines a newcomer that slips under. Nothing re-read the
+  // number afterwards, so tokyo-smith-wollensky sat LIVE at 3.9 from 2026-07-24
+  // with a heldFinal note explaining a hold that had never been applied — the
+  // promise broken on the live site while the nightly report called it decided.
+  // A rating Google moves under a published post lands here too, which is the
+  // point: it is a promise about what readers are sent to, not a birth check.
+  if (p.rating && p.rating > 0 && p.rating < 4.0 && p.category !== 'event') {
+    issues.push(`RATING BELOW FLOOR: ${p.f} — ${p.rating}, under the 4.0 the methodology page promises`);
+  }
   // 35 Korean posts shipped with no country at all. Nothing crashed — the field
   // just read `undefined`, so they were skipped by the climate backfill, missing
   // from country hubs, and the Instagram card printed "Busan, undefined".
