@@ -35,25 +35,26 @@ place:
   lng: 99.9944804
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 9
-      - 17
-      - 18
+    weekdayQuiet: [9, 17]
     weekdayBusy:
       - 12
       - 13
       - 14
-    weekendQuiet:
-      - 9
-      - 10
-      - 17
-      - 18
+    weekendQuiet: [9, 10, 17]
     weekendBusy:
       - 12
       - 13
       - 14
       - 15
     venueId: ven_736a55455a6d5359385363524144567a6e5042323733334a496843
+  openingHours:
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
 tags:
   - koh samui
   - top attraction
