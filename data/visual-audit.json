@@ -10877,59 +10877,11 @@
     "reason": "patrol reject: audit: Concert performer, not Jakarta venue imagery",
     "at": "2026-08-20T20:04:50.663Z"
   },
-  "jakarta-the-sounds-project-2026\u0001https://upload.wikimedia.org/wikipedia/commons/4/46/Sounds_from_the_Willamette_-_DPLA_-_d51c41e948e98ed7dd949e91ca2cb540_%28page_8%29.jpg": {
-    "slug": "jakarta-the-sounds-project-2026",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: Sheet music scan, not a photo of the event",
-    "at": "2026-08-20T20:05:05.918Z"
-  },
-  "jakarta-the-sounds-project-2026\u0001https://upload.wikimedia.org/wikipedia/commons/d/d6/Sounds_from_the_Willamette_-_DPLA_-_d51c41e948e98ed7dd949e91ca2cb540_%28page_5%29.jpg": {
-    "slug": "jakarta-the-sounds-project-2026",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: Sheet music image, not a photo of the event",
-    "at": "2026-08-20T20:05:09.186Z"
-  },
-  "jakarta-the-sounds-project-2026\u0001https://upload.wikimedia.org/wikipedia/commons/e/e8/Sounds_from_the_Willamette_-_DPLA_-_d51c41e948e98ed7dd949e91ca2cb540_%28page_7%29.jpg": {
-    "slug": "jakarta-the-sounds-project-2026",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: Sheet music image, not a photo of an event",
-    "at": "2026-08-20T20:05:12.359Z"
-  },
-  "jakarta-the-sounds-project-2026\u0001https://upload.wikimedia.org/wikipedia/commons/2/2e/Sounds_from_the_Willamette_-_DPLA_-_d51c41e948e98ed7dd949e91ca2cb540_%28page_1%29.jpg": {
-    "slug": "jakarta-the-sounds-project-2026",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: This is old sheet music cover, not the 2026 event",
-    "at": "2026-08-20T20:05:15.368Z"
-  },
-  "jakarta-the-sounds-project-2026\u0001https://upload.wikimedia.org/wikipedia/commons/2/20/Sounds_from_the_Willamette_-_DPLA_-_d51c41e948e98ed7dd949e91ca2cb540_%28page_4%29.jpg": {
-    "slug": "jakarta-the-sounds-project-2026",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: Sheet music image, not a photo of an event",
-    "at": "2026-08-20T20:05:20.298Z"
-  },
-  "jakarta-the-sounds-project-2026\u0001https://upload.wikimedia.org/wikipedia/commons/5/53/Sounds_from_the_Willamette_-_DPLA_-_d51c41e948e98ed7dd949e91ca2cb540_%28page_2%29.jpg": {
-    "slug": "jakarta-the-sounds-project-2026",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: Sheet music image, not a photo of event/performer",
-    "at": "2026-08-20T20:05:23.612Z"
-  },
   "jeonju-hidden-gem\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/St_Marys_RC_Church_The_Hidden_Gem.jpg/3840px-St_Marys_RC_Church_The_Hidden_Gem.jpg": {
     "slug": "jeonju-hidden-gem",
     "verdict": "MISMATCH",
     "reason": "patrol reject: Western-style church interior, not Jeonju hidden gem",
     "at": "2026-08-20T20:05:33.971Z"
-  },
-  "kuala-lumpur-f-forever-world-tour-kuala-lumpur\u0001https://upload.wikimedia.org/wikipedia/commons/0/05/BOYS_FOREVER_%2830107906573%29.jpg": {
-    "slug": "kuala-lumpur-f-forever-world-tour-kuala-lumpur",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: audit: Concert performer, not venue or Kuala Lumpur setting",
-    "at": "2026-08-20T20:06:04.105Z"
-  },
-  "kuala-lumpur-f-forever-world-tour-kuala-lumpur\u0001https://upload.wikimedia.org/wikipedia/commons/5/5f/BOYS_FOREVER_%2830107775783%29.jpg": {
-    "slug": "kuala-lumpur-f-forever-world-tour-kuala-lumpur",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: audit: Concert performer, not venue/food/setting depiction",
-    "at": "2026-08-20T20:06:08.319Z"
   },
   "kuala-lumpur-honne-10-year-anniversary-world-tour-kuala-lumpur\u0001https://upload.wikimedia.org/wikipedia/commons/8/8d/Honne_fra_lufta.jpg": {
     "slug": "kuala-lumpur-honne-10-year-anniversary-world-tour-kuala-lumpur",
@@ -11550,54 +11502,6 @@
     "reason": "patrol reject: Male beach volleyball, not women's indoor EuroVolley",
     "at": "2026-08-21T19:53:54.845Z"
   },
-  "jakarta-lalala-fest-2026\u0001https://upload.wikimedia.org/wikipedia/commons/6/64/Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_020.jpg": {
-    "slug": "jakarta-lalala-fest-2026",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: audit: Musician performance, not Jakarta festival venue",
-    "at": "2026-08-21T19:54:22.025Z"
-  },
-  "jakarta-lalala-fest-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_016.jpg/3840px-Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_016.jpg": {
-    "slug": "jakarta-lalala-fest-2026",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: identity: Commons places this in France, post says Indonesia",
-    "at": "2026-08-21T19:54:25.794Z"
-  },
-  "jakarta-lalala-fest-2026\u0001https://upload.wikimedia.org/wikipedia/commons/1/11/Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_013.jpg": {
-    "slug": "jakarta-lalala-fest-2026",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: identity: Commons places this in France, post says Indonesia",
-    "at": "2026-08-21T19:54:31.321Z"
-  },
-  "jakarta-lalala-fest-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_008.jpg/3840px-Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_008.jpg": {
-    "slug": "jakarta-lalala-fest-2026",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: identity: Commons places this in France, post says Indonesia",
-    "at": "2026-08-21T19:54:34.979Z"
-  },
-  "jakarta-lalala-fest-2026\u0001https://upload.wikimedia.org/wikipedia/commons/5/53/Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli-_007.jpg": {
-    "slug": "jakarta-lalala-fest-2026",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: audit: Concert performer, not festival venue/setting",
-    "at": "2026-08-21T19:54:40.512Z"
-  },
-  "jakarta-the-sounds-project-2026\u0001https://upload.wikimedia.org/wikipedia/commons/9/90/Sounds_from_the_Willamette_-_DPLA_-_d51c41e948e98ed7dd949e91ca2cb540_%28page_3%29.jpg": {
-    "slug": "jakarta-the-sounds-project-2026",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: Sheet music page, not a photo of the event",
-    "at": "2026-08-21T19:55:10.367Z"
-  },
-  "jakarta-the-sounds-project-2026\u0001https://upload.wikimedia.org/wikipedia/commons/a/ad/Sounds_from_the_Willamette_-_DPLA_-_d51c41e948e98ed7dd949e91ca2cb540_%28page_9%29.jpg": {
-    "slug": "jakarta-the-sounds-project-2026",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: Sheet music scan, not a photo of event or performer",
-    "at": "2026-08-21T19:55:12.302Z"
-  },
-  "kuala-lumpur-f-forever-world-tour-kuala-lumpur\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jacob_Forever_2019--06-09.jpg/1920px-Jacob_Forever_2019--06-09.jpg": {
-    "slug": "kuala-lumpur-f-forever-world-tour-kuala-lumpur",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: audit: Concert performer, not venue/food/setting",
-    "at": "2026-08-21T19:55:51.013Z"
-  },
   "nonthaburi-f-forever-1st-world-tour-in-bangkok\u0001https://upload.wikimedia.org/wikipedia/commons/a/af/BOYS_FOREVER_%2830442716360%29.jpg": {
     "slug": "nonthaburi-f-forever-1st-world-tour-in-bangkok",
     "verdict": "MISMATCH",
@@ -12114,30 +12018,6 @@
     "reason": "patrol reject: It's a classical painting, not a photo of XG concert",
     "at": "2026-08-22T19:50:52.902Z"
   },
-  "jakarta-lalala-fest-2026\u0001https://upload.wikimedia.org/wikipedia/commons/b/b5/Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli-_006.jpg": {
-    "slug": "jakarta-lalala-fest-2026",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: identity: Commons places this in France, post says Indonesia",
-    "at": "2026-08-22T19:51:41.449Z"
-  },
-  "jakarta-lalala-fest-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_011.jpg/3840px-Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_011.jpg": {
-    "slug": "jakarta-lalala-fest-2026",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: identity: Commons places this in France, post says Indonesia",
-    "at": "2026-08-22T19:51:52.739Z"
-  },
-  "jakarta-lalala-fest-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_015.jpg/3840px-Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_015.jpg": {
-    "slug": "jakarta-lalala-fest-2026",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: identity: Commons places this in France, post says Indonesia",
-    "at": "2026-08-22T19:51:56.449Z"
-  },
-  "jakarta-lalala-fest-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli-_004.jpg/3840px-Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli-_004.jpg": {
-    "slug": "jakarta-lalala-fest-2026",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: identity: Commons places this in France, post says Indonesia",
-    "at": "2026-08-22T19:52:05.694Z"
-  },
   "jakarta-lee-hi-808-hi-recordings-world-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/1/19/Lee_Hi.jpg": {
     "slug": "jakarta-lee-hi-808-hi-recordings-world-tour-2026",
     "verdict": "MISMATCH",
@@ -12149,18 +12029,6 @@
     "verdict": "MISMATCH",
     "reason": "patrol reject: Shows a man, not performer Lee Hi",
     "at": "2026-08-22T19:52:30.335Z"
-  },
-  "kuala-lumpur-f-forever-world-tour-kuala-lumpur\u0001https://upload.wikimedia.org/wikipedia/commons/a/af/BOYS_FOREVER_%2830442716360%29.jpg": {
-    "slug": "kuala-lumpur-f-forever-world-tour-kuala-lumpur",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: Unrelated musician at Rough Trade, not this tour",
-    "at": "2026-08-22T19:53:41.876Z"
-  },
-  "kuala-lumpur-f-forever-world-tour-kuala-lumpur\u0001https://upload.wikimedia.org/wikipedia/commons/c/cf/BOYS_FOREVER_%2830107907333%29.jpg": {
-    "slug": "kuala-lumpur-f-forever-world-tour-kuala-lumpur",
-    "verdict": "MATCH",
-    "reason": "patrol replace: Female performer with guitar at concert venue",
-    "at": "2026-08-22T19:53:46.301Z"
   },
   "nonthaburi-f-forever-1st-world-tour-in-bangkok\u0001https://upload.wikimedia.org/wikipedia/commons/5/5f/BOYS_FOREVER_%2830107775783%29.jpg": {
     "slug": "nonthaburi-f-forever-1st-world-tour-in-bangkok",
@@ -12606,12 +12474,6 @@
     "reason": "patrol reject: Isolated plated dish, packshot-style, not showing venue",
     "at": "2026-08-24T20:03:27.679Z"
   },
-  "jakarta-the-sounds-project-2026\u0001https://upload.wikimedia.org/wikipedia/commons/9/9f/Sounds_from_the_Willamette_-_DPLA_-_d51c41e948e98ed7dd949e91ca2cb540_%28page_6%29.jpg": {
-    "slug": "jakarta-the-sounds-project-2026",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: Sheet music scan, not a photo of event",
-    "at": "2026-08-24T20:04:58.622Z"
-  },
   "paris-restaurant-by-anne-sophie-pic-at-fondation-cartier\u0001https://fastly.4sqi.net/img/general/original/5611443_Ca-r0lNBcwIaI_6N4gGS75jiAHFSGhPq7kCw_UYVXL8.jpg": {
     "slug": "paris-restaurant-by-anne-sophie-pic-at-fondation-cartier",
     "verdict": "MISMATCH",
@@ -12911,18 +12773,6 @@
     "verdict": "MISMATCH",
     "reason": "patrol reject: Shows car interior and dashboard, not venue",
     "at": "2026-08-26T22:25:33.123Z"
-  },
-  "jakarta-lalala-fest-2026\u0001https://upload.wikimedia.org/wikipedia/commons/e/e1/Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_018.jpg": {
-    "slug": "jakarta-lalala-fest-2026",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: identity: Commons places this in France, post says Indonesia",
-    "at": "2026-08-26T22:32:29.782Z"
-  },
-  "jakarta-lalala-fest-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_017.jpg/3840px-Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_017.jpg": {
-    "slug": "jakarta-lalala-fest-2026",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: identity: Commons places this in France, post says Indonesia",
-    "at": "2026-08-26T22:32:38.721Z"
   },
   "tokyo-smith-wollensky-ginza\u0001https://fastly.4sqi.net/img/general/original/7852602_TlZNoVCGj2GeuDWzsiNgUxrZdMnK9ZLfG9OmHkwpivw.jpg": {
     "slug": "tokyo-smith-wollensky-ginza",
@@ -13444,12 +13294,6 @@
     "verdict": "MISMATCH",
     "reason": "patrol reject: Close-up of hand and object, not event or venue",
     "at": "2026-08-28T23:39:57.640Z"
-  },
-  "jakarta-lalala-fest-2026\u0001https://upload.wikimedia.org/wikipedia/commons/2/2c/Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_014.jpg": {
-    "slug": "jakarta-lalala-fest-2026",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: identity: Commons places this in France, post says Indonesia",
-    "at": "2026-08-28T23:44:52.530Z"
   },
   "paris-celine-dion-paris-residency\u0001https://upload.wikimedia.org/wikipedia/commons/2/2b/Celine_Dion_2018.jpg": {
     "slug": "paris-celine-dion-paris-residency",
@@ -14077,12 +13921,6 @@
     "reason": "patrol reject: Painting, not a photo of XG concert",
     "at": "2026-08-31T23:28:09.204Z"
   },
-  "jakarta-lalala-fest-2026\u0001https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_016.jpg/3840px-Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_016.jpg": {
-    "slug": "jakarta-lalala-fest-2026",
-    "verdict": "MATCH",
-    "reason": "patrol replace: Live music performance at festival venue",
-    "at": "2026-08-31T23:29:27.982Z"
-  },
   "jakarta-lee-hi-808-hi-recordings-world-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/2/2d/Lee_Tae-min_at_24th_Dream_Concert_11.png": {
     "slug": "jakarta-lee-hi-808-hi-recordings-world-tour-2026",
     "verdict": "MISMATCH",
@@ -14106,12 +13944,6 @@
     "verdict": "MISMATCH",
     "reason": "patrol reject: Wrong performer; this is not Lee Hi",
     "at": "2026-08-31T23:30:08.185Z"
-  },
-  "jakarta-the-sounds-project-2026\u0001https://upload.wikimedia.org/wikipedia/commons/a/a1/Souljah_at_The_Sounds_Project%2C_August_2025.jpg": {
-    "slug": "jakarta-the-sounds-project-2026",
-    "verdict": "MATCH",
-    "reason": "patrol replace: Live concert performance at large festival venue",
-    "at": "2026-08-31T23:30:37.145Z"
   },
   "jeonju-hidden-gem\u0001https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/St_Marys_RC_Church_The_Hidden_Gem.jpg/3840px-St_Marys_RC_Church_The_Hidden_Gem.jpg": {
     "slug": "jeonju-hidden-gem",
@@ -15009,12 +14841,6 @@
     "reason": "patrol reject: Different performer, not Lee Hi, generic concert photo",
     "at": "2026-09-08T22:07:55.325Z"
   },
-  "jakarta-the-sounds-project-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Souljah_at_The_Sounds_Project%2C_August_2025.jpg/1280px-Souljah_at_The_Sounds_Project%2C_August_2025.jpg": {
-    "slug": "jakarta-the-sounds-project-2026",
-    "verdict": "MATCH",
-    "reason": "patrol replace: Live concert performance at large festival venue",
-    "at": "2026-08-31T23:30:37.145Z"
-  },
   "jakarta-vagabond\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Vagabond.png/1920px-Vagabond.png": {
     "slug": "jakarta-vagabond",
     "verdict": "MISMATCH",
@@ -15213,12 +15039,6 @@
     "verdict": "MATCH",
     "reason": "patrol replace: Concert performance at music venue event",
     "at": "2026-08-16T20:11:19.881Z"
-  },
-  "kuala-lumpur-f-forever-world-tour-kuala-lumpur\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BOYS_FOREVER_%2830107907333%29.jpg/1280px-BOYS_FOREVER_%2830107907333%29.jpg": {
-    "slug": "kuala-lumpur-f-forever-world-tour-kuala-lumpur",
-    "verdict": "MATCH",
-    "reason": "patrol replace: Female performer with guitar at concert venue",
-    "at": "2026-08-22T19:53:46.301Z"
   },
   "kuala-lumpur-islamic-arts-museum-malaysia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Islamic_Arts_Museum_Malaysia_Exterior_%28May_2022%29_-_img_02.jpg/1280px-Islamic_Arts_Museum_Malaysia_Exterior_%28May_2022%29_-_img_02.jpg": {
     "slug": "kuala-lumpur-islamic-arts-museum-malaysia",
@@ -17119,12 +16939,6 @@
     "verdict": "MATCH",
     "reason": "publish gate: Clear iconic exterior of Buddha Tooth Relic Temple",
     "at": "2026-09-07T10:41:30.463Z"
-  },
-  "chinatown-chinese-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/20090510_Shanghai_Yuyan_6689.jpg/1920px-20090510_Shanghai_Yuyan_6689.jpg": {
-    "slug": "chinatown-chinese-garden",
-    "verdict": "MATCH",
-    "reason": "publish gate: Chinese garden with pavilion, water, rockery, plausible representative view",
-    "at": "2026-09-07T10:48:42.753Z"
   },
   "tokyo-ultra-japan-2026\u0001https://upload.wikimedia.org/wikipedia/commons/c/c2/Japanese_ultra-left_activists_at_Yasukuni_Shrine.jpg": {
     "slug": "tokyo-ultra-japan-2026",
