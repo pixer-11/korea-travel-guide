@@ -6,14 +6,14 @@ region: "Genoa"
 category: "attraction"
 pubDate: "2026-09-14T07:39:54.655Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Porta_Soprana_Exterior_Close_Genoa_Italy_Sep23_A7C_06588.jpg/3840px-Porta_Soprana_Exterior_Close_Genoa_Italy_Sep23_A7C_06588.jpg"
-  credit: "Photo: This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but please mention me as the author. I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information. Please contact me before commercial use. Please do not upload an edited image here without consulting me. I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Porta_Soprana_Exterior_Close_Genoa_Italy_Sep23_A7C_06588.jpg"
-  via: "act"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Porta_Soprana_Exterior_Close_Genoa_Italy_Sep23_A7C_06588.jpg/3840px-Porta_Soprana_Exterior_Close_Genoa_Italy_Sep23_A7C_06588.jpg
+  credit: 'Photo: Timothy A / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Porta_Soprana_Exterior_Close_Genoa_Italy_Sep23_A7C_06588.jpg
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
   - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Porta_Soprana_%28Genoa%29_at_night_01.jpg/3840px-Porta_Soprana_%28Genoa%29_at_night_01.jpg"
     credit: "Photo: John Samuel / Wikimedia Commons (CC BY-SA 4.0)"

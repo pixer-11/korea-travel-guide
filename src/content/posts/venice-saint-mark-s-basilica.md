@@ -12,7 +12,7 @@ heroImage:
   source: https://commons.wikimedia.org/wiki/File:Venezia_Basilica_di_San_Marco_Fassade_2.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/San_Alipio_facade_door_of_Saint_Mark%27s_Basilica_of_Venice.jpg/1920px-San_Alipio_facade_door_of_Saint_Mark%27s_Basilica_of_Venice.jpg
-    credit: 'Photo: This photo was taken by Roman Bonnefoy ( Romanceor [parlons-en]). Feel free to use my pictures, but please credit me as the author (as required by the license). An email or a message would be welcome. More free-licensed pictures on my french Wikipedia account. My website : www.romanceor.net. / Wikimedia Commons (CC BY-SA 4.0)'
+    credit: 'Photo: Roman Bonnefoy / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:San_Alipio_facade_door_of_Saint_Mark%27s_Basilica_of_Venice.jpg
 place:

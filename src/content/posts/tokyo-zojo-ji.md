@@ -6,13 +6,13 @@ region: "Tokyo"
 category: "attraction"
 pubDate: "2026-09-10T07:49:33.480Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Z%C5%8Dj%C5%8D-ji_20241021.jpg/1920px-Z%C5%8Dj%C5%8D-ji_20241021.jpg"
-  credit: "Photo: This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Z%C5%8Dj%C5%8D-ji_20241021.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Z%C5%8Dj%C5%8D-ji_20241021.jpg/1920px-Z%C5%8Dj%C5%8D-ji_20241021.jpg
+  credit: 'Photo: Supanut Arunoprayote / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Z%C5%8Dj%C5%8D-ji_20241021.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
   - url: "https://upload.wikimedia.org/wikipedia/commons/8/84/Tokyo_Z%C5%8Dj%C5%8D-ji_Main_Hall_and_Tokyo_Tower.jpg"
     credit: "Photo: Ymblanter / Wikimedia Commons (CC BY-SA 4.0)"

@@ -6,13 +6,13 @@ region: "Penang"
 category: "attraction"
 pubDate: "2026-08-18T08:59:26.997Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pinang_Peranakan_Mansion_%28I%29.jpg/1920px-Pinang_Peranakan_Mansion_%28I%29.jpg"
-  credit: "Photo: This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Pinang_Peranakan_Mansion_(I).jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pinang_Peranakan_Mansion_%28I%29.jpg/1920px-Pinang_Peranakan_Mansion_%28I%29.jpg
+  credit: 'Photo: Supanut Arunoprayote / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Pinang_Peranakan_Mansion_(I).jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
   id: "ChIJCWvz3I_DSjAR5hveCXjdfIs"

@@ -7,7 +7,7 @@ category: restaurant
 pubDate: '2026-08-02T09:53:34.259Z'
 heroImage:
   url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Interno_Mercato_Centrale_Torino.jpg/1920px-Interno_Mercato_Centrale_Torino.jpg
-  credit: 'Photo: Ivan Ruggiero I''d appreciate if you could mail me (ivanrugg+credit@gmail.com) if you want to use this picture out of the Wikimedia project scope. Please attribute as: Ivan Ruggiero (Wikimedia) / Wikimedia Commons (CC BY-SA 4.0)'
+  credit: 'Photo: Ivan Ruggiero / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Interno_Mercato_Centrale_Torino.jpg
 gallery: []

@@ -7,7 +7,7 @@ category: attraction
 pubDate: '2026-08-06T10:32:29.820Z'
 heroImage:
   url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Barcelona_Christopher_Columbus_Monument_22.jpg/1920px-Barcelona_Christopher_Columbus_Monument_22.jpg
-  credit: 'Photo: Ad Meskens You are free to use this picture for any purpose as long as you credit its author, Ad Meskens. Example: © Ad Meskens / Wikimedia Commons If you use this work outside of the Wikimedia projects, a message or a copy is very much appreciated. This image is not in the public domain. A statement such as "From Wikimedia Commons" or similar is not by itself sufficient. If you do not provide clear attribution to the author you do not comply with the terms of the file''s license and you may not use this file. If you are unable or unwilling to provide attribution you should contact Ad Meskens to negotiate a different license. / Wikimedia Commons (CC BY-SA 4.0)'
+  credit: 'Photo: Ad Meskens / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Barcelona_Christopher_Columbus_Monument_22.jpg
   focus:

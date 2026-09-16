@@ -6,14 +6,14 @@ region: "Marina Bay"
 category: "attraction"
 pubDate: "2026-09-02T10:44:58.353Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flower_Dome_%28II%29.jpg/3840px-Flower_Dome_%28II%29.jpg"
-  credit: "Photo: This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Flower_Dome_(II).jpg"
-  via: "act"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flower_Dome_%28II%29.jpg/3840px-Flower_Dome_%28II%29.jpg
+  credit: 'Photo: Supanut Arunoprayote / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Flower_Dome_(II).jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
   - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flower_Dome_y_Gardens_by_the_Bay%2C_Marina_Bay%2C_Singapur%2C_2023-08-17%2C_DD_29.jpg/3840px-Flower_Dome_y_Gardens_by_the_Bay%2C_Marina_Bay%2C_Singapur%2C_2023-08-17%2C_DD_29.jpg"
     credit: "Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)"

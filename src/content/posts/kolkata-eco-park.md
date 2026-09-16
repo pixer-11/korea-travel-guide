@@ -10,29 +10,18 @@ region: Kolkata
 category: attraction
 pubDate: '2026-08-17T08:10:34.759Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Eco_Park_Promenade_%2825_February_2024%29.jpg/1920px-Eco_Park_Promenade_%2825_February_2024%29.jpg
-  credit: >-
-    Photo: This photograph is created by Sbb1413. All photographs created by him
-    are released under the {{CC-BY 4.0}} license unless otherwise noted. Derived
-    works are released under the same license as original. / Wikimedia Commons
-    (CC BY 4.0)
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Eco_Park_Promenade_%2825_February_2024%29.jpg/1920px-Eco_Park_Promenade_%2825_February_2024%29.jpg
+  credit: 'Photo: This photograph is created by Sbb1413. / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Eco_Park_Promenade_(25_February_2024).jpg
+  source: https://commons.wikimedia.org/wiki/File:Eco_Park_Promenade_(25_February_2024).jpg
   focus:
     x: 50
     'y': 50
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Eco_Park_%2825_February_2024%29.jpg/1920px-Eco_Park_%2825_February_2024%29.jpg
-    credit: >-
-      Photo: This photograph is created by Sbb1413. All photographs created by
-      him are released under the {{CC-BY 4.0}} license unless otherwise noted.
-      Derived works are released under the same license as original. / Wikimedia
-      Commons (CC BY 4.0)
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Eco_Park_%2825_February_2024%29.jpg/1920px-Eco_Park_%2825_February_2024%29.jpg
+    credit: 'Photo: This photograph is created by Sbb1413. / Wikimedia Commons (CC BY 4.0)'
     license: wikimedia
-    source: 'https://commons.wikimedia.org/wiki/File:Eco_Park_(25_February_2024).jpg'
+    source: https://commons.wikimedia.org/wiki/File:Eco_Park_(25_February_2024).jpg
 place:
   id: ChIJb1sq4kR1AjoRZefrzpDLKvI
   name: Eco Park

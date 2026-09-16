@@ -5,6 +5,7 @@
 // are content-addressed and permanent, so they're safe to hotlink from a static
 // site. CC-BY/BY-SA require attribution, which we render under the image.
 import { politeFetch } from './polite-fetch.mjs';
+import { shortArtist } from './photo-credit.mjs';
 import { isUsedImage } from './hero-url.mjs';
 
 const UA =
@@ -283,7 +284,7 @@ export async function commonsCandidates(query, limit = 10, subject = '', near = 
       if (!ii || !/image\/(jpe?g|png)/i.test(ii.mime || '')) return null;
       const em = ii.extmetadata || {};
       const license = stripHtml(em.LicenseShortName?.value) || '';
-      const artist = stripHtml(em.Artist?.value) || 'Wikimedia Commons contributor';
+      const artist = shortArtist(stripHtml(em.Artist?.value)) || 'Wikimedia Commons contributor';
       const assessment = stripHtml(em.Assessments?.value).toLowerCase();
       const title = (p.title || '').replace(/^File:/, '').replace(/\.(jpe?g|png)$/i, '');
       return {
@@ -432,7 +433,7 @@ export async function wikipediaLeadImage(name, { used, minWidth = 1200, near = n
   if (w && h && w < h * 0.95) return null; // heroes need a landscape banner
   const url = cleanCommonsUrl(ii.thumburl || ii.url);
   if (!url || isUsedImage(used, url)) return null;
-  const artist = stripHtml(em.Artist?.value) || 'Wikimedia Commons contributor';
+  const artist = shortArtist(stripHtml(em.Artist?.value)) || 'Wikimedia Commons contributor';
   return {
     title: page.pageimage.replace(/\.(jpe?g|png)$/i, ''),
     url,

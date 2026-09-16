@@ -6,19 +6,19 @@ region: "Kochi"
 category: "attraction"
 pubDate: "2026-09-12T07:49:44.118Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/2025_-_Kerala_Folklore_Museum_-_08.jpg/3840px-2025_-_Kerala_Folklore_Museum_-_08.jpg"
-  credit: "Photo: This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here. / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:2025_-_Kerala_Folklore_Museum_-_08.jpg"
-  via: "act"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/2025_-_Kerala_Folklore_Museum_-_08.jpg/3840px-2025_-_Kerala_Folklore_Museum_-_08.jpg
+  credit: 'Photo: Oleg Yunakov / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:2025_-_Kerala_Folklore_Museum_-_08.jpg
+  via: act
   focus:
     x: 45
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/2025_-_Kerala_Folklore_Museum_-_22.jpg/3840px-2025_-_Kerala_Folklore_Museum_-_22.jpg"
-    credit: "Photo: This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here. / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:2025_-_Kerala_Folklore_Museum_-_22.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/2025_-_Kerala_Folklore_Museum_-_22.jpg/3840px-2025_-_Kerala_Folklore_Museum_-_22.jpg
+    credit: 'Photo: Oleg Yunakov / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:2025_-_Kerala_Folklore_Museum_-_22.jpg
 place:
   id: "ChIJhUQZzfVyCDsRcZx34VDFxWE"
   name: "Kerala Folklore Museum"

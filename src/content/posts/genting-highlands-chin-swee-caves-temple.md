@@ -9,16 +9,10 @@ region: Genting Highlands
 category: attraction
 pubDate: '2026-08-20T08:11:11.753Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Chin_Swee_Caves_Temple_combined.jpg/1920px-Chin_Swee_Caves_Temple_combined.jpg
-  credit: >-
-    Photo: File:Chin Swee Caves Temple KL17.JPG: Gryffindor File:Chin Swee Caves
-    Temple KL18.JPG: Gryffindor File:Chin Swee Caves Temple KL19.JPG: Gryffindor
-    File:Chin Swee Caves Temple KL20.JPG: Gryffindor File:Chin Swee Caves Temple
-    KL21.JPG: Gryffindor File:Chin Swee Caves Temple KL22.JPG: Gryffindor
-    derivative work: Justass (talk) / Wikimedia Commons (CC BY-SA 3.0)
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Chin_Swee_Caves_Temple_combined.jpg/1920px-Chin_Swee_Caves_Temple_combined.jpg
+  credit: 'Photo: Gryffindor / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_combined.jpg'
+  source: https://commons.wikimedia.org/wiki/File:Chin_Swee_Caves_Temple_combined.jpg
   focus:
     x: 65
     'y': 55

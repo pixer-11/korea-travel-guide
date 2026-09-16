@@ -10,22 +10,10 @@ region: Annecy
 category: attraction
 pubDate: '2026-09-13T07:56:26.171Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Basilique_de_la_Visitation_-_208.jpg/3840px-Basilique_de_la_Visitation_-_208.jpg
-  credit: >-
-    Photo: Another one of my pictures: This photograph was taken by Medium69
-    (William Crochot) and released under the license stated below. You are free
-    to use it for any purpose as long as you credit the author (William
-    Crochot), the Source (Wikimedia Commons) and the license (CC-BY-SA 4.0) in
-    close relation to the image. Please do not upload an updated image here
-    without consultation with the Author. The author would like to make
-    corrections only at his own source RAW. This ensures that the changes are
-    preserved.Please if you think that any changes should be required, please
-    inform the author.Otherwise you can upload a new image with a new name.
-    Please use one of the templates derivative or extract. / Wikimedia Commons
-    (CC BY-SA 4.0)
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Basilique_de_la_Visitation_-_208.jpg/3840px-Basilique_de_la_Visitation_-_208.jpg
+  credit: 'Photo: Medium69 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Basilique_de_la_Visitation_-_208.jpg'
+  source: https://commons.wikimedia.org/wiki/File:Basilique_de_la_Visitation_-_208.jpg
   via: act
   focus:
     x: 50
@@ -81,117 +69,7 @@ place:
 tags:
   - annecy
   - historic site
-quickAnswer: >-
-  The Basilique de la Visitation sits on a wooded hill above Annecy's old town,
-  a steep 15-20 minute walk from the lakeshore, and its bell tower terrace is
-  the reason to come: a free panorama over the rooftops, Lake Annecy and the
-  Bornes mountains. It's open daily (7:15am–6:30pm most days, 9am–5:30pm
-  Sunday), and the quietest window is 8am–11am on weekdays. Avoid weekend
-  afternoons between noon and 6pm, when coach groups and walkers
-  converge.</quickAnswer>
-
-  <parameter name="body">You climb to reach it, and that's the point. The
-  Basilique de la Visitation stands on the Colline de la Visitation, a hill just
-  east of Annecy's old town, and every route up involves stairs, switchbacks or
-  both. By the time the twin-towered facade appears through the trees, the town
-  below has already dropped away.
-
-
-  Built between 1909 and 1930, the basilica is younger than it looks. Its
-  architects drew on Romanesque and Byzantine models, which is why the interior
-  feels older than a century: heavy stone arches, a barrel-vaulted nave, mosaics
-  catching what light comes through the small windows. It houses the tombs of
-  Saint Francis de Sales and Saint Jane de Chantal, founders of the Visitation
-  order, and remains an active place of worship, not a museum piece.
-
-
-  ## The climb up
-
-
-  Two main paths lead here from the old town. One is a paved road for cars and
-  the more determined walkers; the other is a series of stepped lanes through
-  residential streets, steeper but faster and shaded by chestnut trees.
-
-
-  Either way, budget 20 to 30 minutes uphill from the canals and arcades of
-  Vieil Annecy. There's a small car park near the basilica for those who'd
-  rather drive, though spaces fill quickly on weekends.
-
-
-  ## What's actually worth seeing
-
-
-  The nave itself is free to enter and takes only a few minutes to appreciate
-  properly. The real draw is the bell tower, which you can usually climb for a
-  small fee, giving you a platform above the treeline.
-
-
-  From up there you get the layout of the lake in one glance: the old town's
-  clustered roofs, the water's turquoise shading to deep blue further out, and
-  the jagged line of the Bornes and Aravis ranges behind. On a clear day the
-  view stretches well past the lake's southern end.
-
-
-  - Nave and tombs of Saint Francis de Sales and Saint Jane de Chantal: free
-
-  - Bell tower climb: small entrance fee, cash is safest to bring
-
-  - Gift shop and small chapel displays near the entrance
-
-  - Benches and a terrace area just outside for resting before the walk back
-  down
-
-
-  ## Timing the visit around the crowds
-
-
-  Weekdays between 8am and 11am are the calmest stretch, before tour groups and
-  day-trippers arrive. On weekends, that quiet window narrows to 8am–10am.
-
-
-  Try not to arrive on a Saturday or Sunday afternoon between noon and 6pm.
-  That's when the site fills with coach parties and families out for a lakeside
-  walk who detour up the hill, and both the nave and the tower stairwell can
-  feel congested.
-
-
-  Sunday hours are shorter than the rest of the week, 9am to 5:30pm rather than
-  7:15am to 6:30pm, so plan a Sunday visit earlier in the day rather than
-  assuming evening light will still be available.
-
-
-  ## Behaving well inside an active church
-
-
-  This is a working basilica, not a viewpoint with a church attached, and the
-  etiquette follows from that. Keep voices low inside the nave, especially if a
-  service or private prayer is underway, and dress modestly, covering shoulders
-  and avoiding beachwear if you're coming straight from the lake.
-
-
-  Photography is generally tolerated in the nave but avoid using flash near the
-  altar or during any liturgy. If the bell tower has a ticket desk, expect it to
-  be cash-friendly rather than card-only, since it's a small parish operation
-  rather than a commercial attraction.
-
-
-  There's no need to book ahead for the basilica itself; it operates on a
-  walk-in basis during opening hours.
-
-
-  ## Making it part of a longer walk
-
-
-  Most visitors combine the basilica with a wider loop rather than treating it
-  as a stand-alone stop. The path continues past the hill into wooded areas with
-  further viewpoints, and some walkers loop back down through different streets
-  to see more of the residential quarters above the old town.
-
-
-  Pair the visit with an early lakeside coffee before the climb, then reward
-  yourself with lunch in the old town after descending, when the morning crowds
-  down there have thinned. The whole detour, walk up, tower, walk down,
-  comfortably fits into two hours.
+quickAnswer: "The Basilique de la Visitation sits on a wooded hill above Annecy's old town, a steep 15-20 minute walk from the lakeshore, and its bell tower terrace is the reason to come: a free panorama over the rooftops, Lake Annecy and the Bornes mountains. It's open daily (7:15am–6:30pm most days, 9am–5:30pm Sunday), and the quietest window is 8am–11am on weekdays. Avoid weekend afternoons between noon and 6pm, when coach groups and walkers converge."
 faq:
   - q: How do you get to the Basilique de la Visitation from central Annecy?
     a: >-
@@ -216,9 +94,108 @@ faq:
       Allow around two hours total if you're walking up from the old town,
       visiting the nave and tower, and walking back down.
 aiGenerated: true
-draft: true
-heldReason: content
 updatedDate: '2026-09-13'
 ---
 
+You climb to reach it, and that's the point. The
+Basilique de la Visitation stands on the Colline de la Visitation, a hill just
+east of Annecy's old town, and every route up involves stairs, switchbacks or
+both. By the time the twin-towered facade appears through the trees, the town
+below has already dropped away.
 
+
+Built between 1909 and 1930, the basilica is younger than it looks. Its
+architects drew on Romanesque and Byzantine models, which is why the interior
+feels older than a century: heavy stone arches, a barrel-vaulted nave, mosaics
+catching what light comes through the small windows. It houses the tombs of
+Saint Francis de Sales and Saint Jane de Chantal, founders of the Visitation
+order, and remains an active place of worship, not a museum piece.
+
+
+## The climb up
+
+
+Two main paths lead here from the old town. One is a paved road for cars and
+the more determined walkers; the other is a series of stepped lanes through
+residential streets, steeper but faster and shaded by chestnut trees.
+
+
+Either way, budget 20 to 30 minutes uphill from the canals and arcades of
+Vieil Annecy. There's a small car park near the basilica for those who'd
+rather drive, though spaces fill quickly on weekends.
+
+
+## What's actually worth seeing
+
+
+The nave itself is free to enter and takes only a few minutes to appreciate
+properly. The real draw is the bell tower, which you can usually climb for a
+small fee, giving you a platform above the treeline.
+
+
+From up there you get the layout of the lake in one glance: the old town's
+clustered roofs, the water's turquoise shading to deep blue further out, and
+the jagged line of the Bornes and Aravis ranges behind. On a clear day the
+view stretches well past the lake's southern end.
+
+
+- Nave and tombs of Saint Francis de Sales and Saint Jane de Chantal: free
+
+- Bell tower climb: small entrance fee, cash is safest to bring
+
+- Gift shop and small chapel displays near the entrance
+
+- Benches and a terrace area just outside for resting before the walk back
+down
+
+
+## Timing the visit around the crowds
+
+
+Weekdays between 8am and 11am are the calmest stretch, before tour groups and
+day-trippers arrive. On weekends, that quiet window narrows to 8am–10am.
+
+
+Try not to arrive on a Saturday or Sunday afternoon between noon and 6pm.
+That's when the site fills with coach parties and families out for a lakeside
+walk who detour up the hill, and both the nave and the tower stairwell can
+feel congested.
+
+
+Sunday hours are shorter than the rest of the week, 9am to 5:30pm rather than
+7:15am to 6:30pm, so plan a Sunday visit earlier in the day rather than
+assuming evening light will still be available.
+
+
+## Behaving well inside an active church
+
+
+This is a working basilica, not a viewpoint with a church attached, and the
+etiquette follows from that. Keep voices low inside the nave, especially if a
+service or private prayer is underway, and dress modestly, covering shoulders
+and avoiding beachwear if you're coming straight from the lake.
+
+
+Photography is generally tolerated in the nave but avoid using flash near the
+altar or during any liturgy. If the bell tower has a ticket desk, expect it to
+be cash-friendly rather than card-only, since it's a small parish operation
+rather than a commercial attraction.
+
+
+There's no need to book ahead for the basilica itself; it operates on a
+walk-in basis during opening hours.
+
+
+## Making it part of a longer walk
+
+
+Most visitors combine the basilica with a wider loop rather than treating it
+as a stand-alone stop. The path continues past the hill into wooded areas with
+further viewpoints, and some walkers loop back down through different streets
+to see more of the residential quarters above the old town.
+
+
+Pair the visit with an early lakeside coffee before the climb, then reward
+yourself with lunch in the old town after descending, when the morning crowds
+down there have thinned. The whole detour, walk up, tower, walk down,
+comfortably fits into two hours.
