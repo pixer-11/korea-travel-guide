@@ -24941,11 +24941,11 @@
   "at": "2026-08-15T10:49:25.280Z"
  },
  "zh/nantes-chateau-des-ducs-de-bretagne": {
-  "hash": "78c53407a7e6",
+  "hash": "1d9699fa75cb",
   "score": 1,
   "registerBreak": false,
-  "worst": "这可不是一处围栏后面的废墟——你可以直接免费走进庭院，对于一座如此重要的古迹来说，这样的开放程度相当难得。",
-  "at": "2026-08-15T10:51:06.471Z"
+  "worst": "这也意味着你有整整九个小时的时间窗口可以自由支配，而不是一段狭窄的时间段。",
+  "at": "2026-09-16T07:57:30.760Z"
  },
  "zh/new-delhi-bwf-world-championships-2026": {
   "hash": "be2f93811b58",
@@ -28831,5 +28831,82 @@
   "registerBreak": false,
   "worst": "这里既没有售票处，也没有公示的开放时间，最好把它当作一处露天的建筑观赏点，而不是有固定参观流程的正式景点。",
   "at": "2026-09-15T08:07:40.357Z"
+ },
+ "zh/nagoya-toyota-commemorative-museum-of-industry-and-technology": {
+  "hash": "372020d14406",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "如果对机械特别感兴趣、想把每块说明牌都读一遍，则需要更长时间。",
+  "at": "2026-09-16T07:57:28.936Z"
+ },
+ "es/aberdeen-tin-hau-temple-aberdeen": {
+  "hash": "1e3a95bf121b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Aberdeen fue un puerto pesquero mucho antes de convertirse en un intercambiador de autobuses",
+  "at": "2026-09-16T07:57:33.065Z"
+ },
+ "es/bologna-basilica-di-san-petronio": {
+  "hash": "07a6443ce851",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Las terrazas ofrecen una vista poco habitual, a la altura de la calle, sobre los tejados",
+  "at": "2026-09-16T07:58:41.843Z"
+ },
+ "es/bologna-giardini-margherita": {
+  "hash": "4afcba1bf659",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Las mañanas... también suelen ser más tranquilas, aunque no se dispone de datos específicos para esos días.",
+  "at": "2026-09-16T07:57:49.571Z"
+ },
+ "ja/aberdeen-tin-hau-temple-aberdeen": {
+  "hash": "60621229d365",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "廟自体の見学には15分から20分あれば十分ですが、屋根の梁を漂う線香の煙をゆっくり眺めたい場合はもう少し時間をとってもよいでしょう。",
+  "at": "2026-09-16T07:57:51.616Z"
+ },
+ "ja/bologna-basilica-di-san-petronio": {
+  "hash": "507420b70780",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "テラスからはマッジョーレ広場の屋根並みを見渡せる、街並みレベルでは貴重な景色が楽しめます",
+  "at": "2026-09-16T07:57:57.683Z"
+ },
+ "ja/bologna-giardini-margherita": {
+  "hash": "2fde08dc4013",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "平日の朝や午後の早い時間帯も比較的落ち着いている傾向がありますが、平日についての具体的なデータはここにはありません。",
+  "at": "2026-09-16T07:57:59.951Z"
+ },
+ "ko/aberdeen-tin-hau-temple-aberdeen": {
+  "hash": "b0eda12a34f2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "참배를 마친 뒤에는 이 사원이 자리한 입지 자체가 나머지를 채워줍니다.",
+  "at": "2026-09-16T07:58:01.317Z"
+ },
+ "ko/bologna-basilica-di-san-petronio": {
+  "hash": "c01f3c7173a5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이슬람 예언자를 지옥에 그려 넣은 이탈리아 최초의 작품 중 하나로, 2002년에는 이로 인해 미수에 그친 테러 계획이 있었고",
+  "at": "2026-09-16T07:58:03.696Z"
+ },
+ "ko/bologna-giardini-margherita": {
+  "hash": "d32529039ada",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이는 어디에나 붙어 있는 규정이라기보다 현지인들의 관습에 가깝습니다.",
+  "at": "2026-09-16T07:58:05.206Z"
+ },
+ "zh/aberdeen-tin-hau-temple-aberdeen": {
+  "hash": "9bcf3672e08d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这里不收门票，也没有纪念品店，说到底，它首先是一处礼佛敬神的场所。",
+  "at": "2026-09-16T07:58:43.514Z"
  }
 }
