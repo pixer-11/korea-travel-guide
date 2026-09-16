@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: chiba-naritasan-shinsho-ji
-srcHash: '19e5135ba47c'
+srcHash: 'a793f2c7e592'
 title: 'Naritasan Shinsho-ji: Guía de viaje de Chiba (4,5★)'
-description: 'Naritasan Shinsho-ji, en la ciudad de Narita, Chiba, es un extenso complejo de templos budistas Shingon del siglo X, célebre por su pagoda de tres pisos, su Salón Principal y la calle comercial tradicional que conduce hasta él. 4,5★ (20.119 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Naritasan Shinsho-ji, en la ciudad de Narita, Chiba, es un extenso complejo de templos budistas Shingon del siglo X, célebre por su pagoda de tres pisos, su Salón Principal y la calle comercial tradicional que conduce hasta él. 4,5★ (20.120 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Naritasan Shinsho-ji, en la ciudad de Narita, Chiba, es un extenso complejo de templos budistas Shingon del siglo X, célebre por su pagoda de tres pisos, su Salón Principal y la calle comercial tradicional que conduce hasta él. Abre todos los días de 8:00 a 16:00, la entrada es gratuita (la Gran Pagoda de la Paz y algunas salas interiores tienen tarifa aparte) y se llena los fines de semana entre las 9:00 y las 15:00, así que las mañanas de los días de semana dentro de ese mismo horario de 8:00 a 16:00 son la opción más tranquila. Reserva medio día, incluyendo la calle de acceso, y combínalo con una escala en Narita si vas a volar desde el aeropuerto internacional cercano.
 faq:
   - q: ¿Cuánto cuesta entrar a Naritasan Shinsho-ji?

@@ -1,25 +1,33 @@
 ---
 title: 'Museo Archeologico Nazionale di Napoli: Naples Travel Guide'
-description: The Museo Archeologico Nazionale di Napoli (MANN), just north of Naples' historic center at Piazza Museo 19, holds the finest collection of art recovered from Pompeii and Herculaneum anywhere in the world. 4.6★ (37,292 reviews) — what visitors say, hours, and tips.
+description: >-
+  The Museo Archeologico Nazionale di Napoli (MANN), just north of Naples'
+  historic center at Piazza Museo 19, holds the finest collection of art
+  recovered from Pompeii and Herculaneum anywhere in the world. 4.6★ (37,654
+  reviews) — what visitors say, hours, and tips.
 country: Italy
 region: Naples
 category: attraction
 pubDate: '2026-08-05T11:08:07.569Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/28986758_GYMVw7m2IEeZ9e1bhqRBBc9V5osQ-MgHk0u_eP-qIoc.jpg
-  credit: 'Photo: Foursquare user content (National Archeological Museum (Museo Archeologico Nazionale))'
+  url: >-
+    https://fastly.4sqi.net/img/general/original/28986758_GYMVw7m2IEeZ9e1bhqRBBc9V5osQ-MgHk0u_eP-qIoc.jpg
+  credit: >-
+    Photo: Foursquare user content (National Archeological Museum (Museo
+    Archeologico Nazionale))
   license: foursquare
-  source: https://foursquare.com/v/4c1907a2d4d9c9282d53f029
+  source: 'https://foursquare.com/v/4c1907a2d4d9c9282d53f029'
   focus:
     x: 55
     'y': 30
 place:
   id: ChIJI0DJ4mcIOxMRmHwFiRXPjrQ
   name: Museo Archeologico Nazionale di Napoli
-  address: Piazza Museo, 19, 80135 Napoli NA, Italy
+  address: 'Piazza Museo, 19, 80135 Napoli NA, Italy'
   rating: 4.6
-  userRatingsTotal: 37292
-  googleMapsUrl: https://maps.google.com/?cid=13010564064920042648&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 37654
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13010564064920042648&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 40.8535985
   lng: 14.250525399999999
@@ -55,20 +63,39 @@ place:
 tags:
   - naples
   - museum
-quickAnswer: The Museo Archeologico Nazionale di Napoli (MANN), just north of Naples' historic center at Piazza Museo 19, holds the finest collection of art recovered from Pompeii and Herculaneum anywhere in the world. It's open daily except Tuesday, 9am–6:30pm; give yourself two to three hours, and go right at 9am opening if you visit on a weekend, since 10am–6pm is when crowds peak. Reach it via Cavour or Museo stations on Metro Line 1, both a short walk away.
+quickAnswer: >-
+  The Museo Archeologico Nazionale di Napoli (MANN), just north of Naples'
+  historic center at Piazza Museo 19, holds the finest collection of art
+  recovered from Pompeii and Herculaneum anywhere in the world. It's open daily
+  except Tuesday, 9am–6:30pm; give yourself two to three hours, and go right at
+  9am opening if you visit on a weekend, since 10am–6pm is when crowds peak.
+  Reach it via Cavour or Museo stations on Metro Line 1, both a short walk away.
 faq:
   - q: How long should I spend at the Museo Archeologico Nazionale di Napoli?
-    a: Budget at least two hours for the highlights (Farnese Marbles, Alexander Mosaic, Pompeii frescoes); three or more if you want to also cover the Egyptian collection and Secret Cabinet.
+    a: >-
+      Budget at least two hours for the highlights (Farnese Marbles, Alexander
+      Mosaic, Pompeii frescoes); three or more if you want to also cover the
+      Egyptian collection and Secret Cabinet.
   - q: What's the best time to visit to avoid crowds?
-    a: Arrive right at 9am opening, especially on weekends — foot traffic data shows Saturdays and Sundays are busiest from 10am to 6pm.
+    a: >-
+      Arrive right at 9am opening, especially on weekends — foot traffic data
+      shows Saturdays and Sundays are busiest from 10am to 6pm.
   - q: How do I get there by metro?
-    a: Take Metro Line 1 to either Museo or Cavour station; both are about a 5-minute walk from the entrance at Piazza Museo 19.
+    a: >-
+      Take Metro Line 1 to either Museo or Cavour station; both are about a
+      5-minute walk from the entrance at Piazza Museo 19.
   - q: Is the museum closed on any day of the week?
-    a: Yes, it's closed all day Tuesday. It's open 9am–6:30pm every other day of the week, including weekends.
+    a: >-
+      Yes, it's closed all day Tuesday. It's open 9am–6:30pm every other day of
+      the week, including weekends.
   - q: Should I visit before or after Pompeii?
-    a: Either works — many visitors pair a Pompeii or Herculaneum day trip with the museum since the best frescoes, mosaics and bronzes from those sites are housed here, not on-site.
+    a: >-
+      Either works — many visitors pair a Pompeii or Herculaneum day trip with
+      the museum since the best frescoes, mosaics and bronzes from those sites
+      are housed here, not on-site.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-16'
 ---
 ## Why go
 

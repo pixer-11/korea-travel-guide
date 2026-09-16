@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: bologna-giardini-margherita
-srcHash: 'aa5f403331b3'
+srcHash: '532e123b7205'
 title: 玛格丽塔花园：博洛尼亚旅行指南（4.6★）
-description: 玛格丽塔花园（Giardini Margherita）是博洛尼亚市区最大的公共公园，位于市中心东南边缘，靠近圣斯特凡诺门（Porta Santo Stefano）和卡斯蒂廖内门（Porta Castiglione）。4.6★（17,907条评价）——看看游客怎么说，附开放时间与实用建议。
+description: 玛格丽塔花园（Giardini Margherita）是博洛尼亚市区最大的公共公园，位于市中心东南边缘，靠近圣斯特凡诺门（Porta Santo Stefano）和卡斯蒂廖内门（Porta Castiglione）。4.6★（17,908条评价）——看看游客怎么说，附开放时间与实用建议。
 quickAnswer: 玛格丽塔花园是博洛尼亚市区最大的公共公园，坐落在市中心东南边缘，靠近圣斯特凡诺门和卡斯蒂廖内门。公园全年每天24小时开放，免费入场，周末上午11点到晚上9点人流最多，如果想独享环湖小径，最好选在周六或周日早上7点到8点前往。这里没有什么非看不可的单一景点，倒是随处可见慢跑的人、遛狗的人、带孩子在游乐区玩耍的一家人，以及一圈被悬铃木环绕的湖水。
 faq:
   - q: 玛格丽塔花园在哪里？附近有什么标志性景点？

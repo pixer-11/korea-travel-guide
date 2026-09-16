@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: jurong-chinese-garden
-srcHash: '31b6b42096e0'
+srcHash: '460b075c6bf4'
 title: 'Chinese Garden: guía de viaje por Jurong (4,4★)'
-description: 'Chinese Garden es un extenso parque ajardinado junto a Boon Lay Way, en el oeste de Singapur, construido alrededor del lago Jurong y con acceso directo desde la estación de MRT Chinese Garden (línea East-West). 4,4★ (3.572 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Chinese Garden es un extenso parque ajardinado junto a Boon Lay Way, en el oeste de Singapur, construido alrededor del lago Jurong y con acceso directo desde la estación de MRT Chinese Garden (línea East-West). 4,4★ (3.580 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Chinese Garden es un extenso parque ajardinado junto a Boon Lay Way, en el oeste de Singapur, construido alrededor del lago Jurong y con acceso directo desde la estación de MRT Chinese Garden (línea East-West). Conviene ir temprano en un día entre semana, de 7:00 a 8:00, para recorrer los puentes y las pagodas sin aglomeraciones. Calcule entre 1,5 y 2 horas para completar el recorrido.
 faq:
   - q: ¿Chinese Garden está conectado con el Chinatown de Singapur?

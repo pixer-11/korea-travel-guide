@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: nantes-musee-dobree
-srcHash: '5be6b8bcd181'
+srcHash: '4989c4567ded'
 title: 'Museo Dobrée: Guía de viaje de Nantes (4,5★)'
-description: 'El Museo Dobrée se encuentra en la Place Jean V, en pleno centro de Nantes, un palacio decimonónico de muros de granito construido para albergar la colección privada de arte medieval, manuscritos y monedas del armador Thomas Dobrée. 4,5★ (1.025 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Museo Dobrée se encuentra en la Place Jean V, en pleno centro de Nantes, un palacio decimonónico de muros de granito construido para albergar la colección privada de arte medieval, manuscritos y monedas del armador Thomas Dobrée. 4,5★ (1.030 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'El Museo Dobrée se encuentra en la Place Jean V, en pleno centro de Nantes: un palacio decimonónico de muros de granito construido para albergar la colección privada de arte medieval, manuscritos y monedas del armador Thomas Dobrée. Abre de miércoles a domingo, de 10:00 a 18:00, permanece cerrado los lunes y martes, y registra más afluencia los fines de semana entre las 11:00 y las 18:00, por lo que una mañana entre semana es el momento más tranquilo para visitarlo. Conviene reservar entre 90 minutos y dos horas, y aprovechar para combinarlo con la vecina Catedral de San Pedro y San Pablo (Cathédrale Saint-Pierre-et-Saint-Paul), a cinco minutos a pie.'
 faq:
   - q: ¿Cuál es el horario del Museo Dobrée?

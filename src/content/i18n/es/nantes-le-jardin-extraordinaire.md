@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: nantes-le-jardin-extraordinaire
-srcHash: 'f60c8e564aaa'
+srcHash: '08e4eb82ec2e'
 title: 'Le Jardin Extraordinaire: guía de viaje de Nantes (4,4★)'
-description: 'Le Jardin Extraordinaire se encuentra en el barrio de Malakoff, en Nantes, construido dentro de una antigua cantera con paredes de roca, palmeras, bananeros y una cascada artificial. 4,4★ (4.835 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Le Jardin Extraordinaire se encuentra en el barrio de Malakoff, en Nantes, construido dentro de una antigua cantera con paredes de roca, palmeras, bananeros y una cascada artificial. 4,4★ (4.839 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Le Jardin Extraordinaire se encuentra en el barrio de Malakoff, en Nantes, construido dentro de una antigua cantera con paredes de roca, palmeras, bananeros y una cascada artificial. Abre todos los días de 8:30 a 20:00 y la entrada es gratuita. Conviene ir un día laborable entre las 9:00 y las 10:00 para tener casi para uno solo la cascada y los senderos de la cantera; los sábados y domingos por la tarde, entre las 13:00 y las 19:00, es cuando más gente se concentra.
 faq:
   - q: ¿Cuánto cuesta visitar Le Jardin Extraordinaire?

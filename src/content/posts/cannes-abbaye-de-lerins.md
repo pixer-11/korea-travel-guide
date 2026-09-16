@@ -1,44 +1,52 @@
 ---
-title: "Abbaye de Lérins: Cannes Travel Guide (4.7★)"
-description: "Abbaye de Lérins sits on Île Saint-Honorat, the smaller of Cannes' two Lérins islands, reachable only by a 15-20 minute ferry from Cannes' Vieux Port. 4.7★ (1,402 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Cannes"
-category: "attraction"
-pubDate: "2026-09-16T07:41:42.626Z"
+title: 'Abbaye de Lérins: Cannes Travel Guide (4.7★)'
+description: >-
+  Abbaye de Lérins sits on Île Saint-Honorat, the smaller of Cannes' two Lérins
+  islands, reachable only by a 15-20 minute ferry from Cannes' Vieux Port. 4.7★
+  (1,403 reviews) — what visitors say, hours, and tips.
+country: France
+region: Cannes
+category: attraction
+pubDate: '2026-09-16T07:41:42.626Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/%D0%9B%D0%B5%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0_%D0%B8_%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2_%D0%AD%D1%81%D1%82%D0%B5%D1%80%D0%B5%D0%BB%D1%8C.jpg/1920px-%D0%9B%D0%B5%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0_%D0%B8_%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2_%D0%AD%D1%81%D1%82%D0%B5%D1%80%D0%B5%D0%BB%D1%8C.jpg"
-  credit: "Photo: И. Максим Массалитин / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B5%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0_%D0%B8_%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2_%D0%AD%D1%81%D1%82%D0%B5%D1%80%D0%B5%D0%BB%D1%8C.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/%D0%9B%D0%B5%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0_%D0%B8_%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2_%D0%AD%D1%81%D1%82%D0%B5%D1%80%D0%B5%D0%BB%D1%8C.jpg/1920px-%D0%9B%D0%B5%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0_%D0%B8_%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2_%D0%AD%D1%81%D1%82%D0%B5%D1%80%D0%B5%D0%BB%D1%8C.jpg
+  credit: 'Photo: И. Максим Массалитин / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B5%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0_%D0%B8_%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2_%D0%AD%D1%81%D1%82%D0%B5%D1%80%D0%B5%D0%BB%D1%8C.jpg
   focus:
     x: 65
-    y: 70
+    'y': 70
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/3/3c/Porche_d%27entr%C3%A9e_Abbaye_de_L%C3%A9rins.JPG"
-    credit: "Photo: Florian Pépellin / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Porche_d%27entr%C3%A9e_Abbaye_de_L%C3%A9rins.JPG"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/3/3c/Porche_d%27entr%C3%A9e_Abbaye_de_L%C3%A9rins.JPG
+    credit: 'Photo: Florian Pépellin / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Porche_d%27entr%C3%A9e_Abbaye_de_L%C3%A9rins.JPG
 place:
-  id: "ChIJ1WllfiiBzhIRFej7pRVN3JQ"
-  name: "Abbaye de Lérins"
-  address: "Cannes - Île Saint-Honorat, 06414 Cannes, France"
+  id: ChIJ1WllfiiBzhIRFej7pRVN3JQ
+  name: Abbaye de Lérins
+  address: 'Cannes - Île Saint-Honorat, 06414 Cannes, France'
   rating: 4.7
-  userRatingsTotal: 1402
-  googleMapsUrl: "https://maps.google.com/?cid=10726533167864080405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1403
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10726533167864080405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.50652350000001
   lng: 7.0472839
-  phone: "+33 4 92 99 54 20"
+  phone: +33 4 92 99 54 20
   openingHours:
-    - "Monday: 9:00 AM – 6:30 PM"
-    - "Tuesday: 9:00 AM – 6:30 PM"
-    - "Wednesday: 9:00 AM – 6:30 PM"
-    - "Thursday: 9:00 AM – 6:30 PM"
-    - "Friday: 9:00 AM – 6:30 PM"
-    - "Saturday: 9:00 AM – 6:30 PM"
-    - "Sunday: 9:00 AM – 6:30 PM"
+    - 'Monday: 9:00 AM – 6:30 PM'
+    - 'Tuesday: 9:00 AM – 6:30 PM'
+    - 'Wednesday: 9:00 AM – 6:30 PM'
+    - 'Thursday: 9:00 AM – 6:30 PM'
+    - 'Friday: 9:00 AM – 6:30 PM'
+    - 'Saturday: 9:00 AM – 6:30 PM'
+    - 'Sunday: 9:00 AM – 6:30 PM'
   busyness:
-    updated: 2026-09-16
+    updated: 2026-09-16T00:00:00.000Z
     weekdayQuiet:
       - 9
     weekdayBusy:
@@ -55,24 +63,42 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_514a334e565270376a65465249687a426969666c6c57314a496843"
+    venueId: ven_514a334e565270376a65465249687a426969666c6c57314a496843
 tags:
-  - "cannes"
-  - "historic site"
-quickAnswer: "Abbaye de Lérins sits on Île Saint-Honorat, the smaller of Cannes' two Lérins islands, reachable only by a 15-20 minute ferry from Cannes' Vieux Port. Monks have lived here since the 5th century and the current fortified monastery dates largely from the 11th century. Aim for the 9am-10am window on weekdays, the quietest stretch, since weekend crowds build fast between 11am and 5pm."
+  - cannes
+  - historic site
+quickAnswer: >-
+  Abbaye de Lérins sits on Île Saint-Honorat, the smaller of Cannes' two Lérins
+  islands, reachable only by a 15-20 minute ferry from Cannes' Vieux Port. Monks
+  have lived here since the 5th century and the current fortified monastery
+  dates largely from the 11th century. Aim for the 9am-10am window on weekdays,
+  the quietest stretch, since weekend crowds build fast between 11am and 5pm.
 faq:
-  - q: "How do I get to Abbaye de Lérins?"
-    a: "Take the Planète Croisières ferry from Cannes' Vieux Port to Île Saint-Honorat, a 15-20 minute crossing. There's no other way to reach the island."
-  - q: "What are the opening hours?"
-    a: "The abbey is open daily, including weekends, from 9:00 AM to 6:30 PM year-round."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 9am and 10am are calmest. Weekends stay crowded from opening through 6:30pm, with the busiest stretch between 11am and 5pm."
-  - q: "How long should I plan for the visit?"
-    a: "Budget two to three hours to walk the island's flat perimeter path (about 1.5km) and see the cloister, chapels, and fortified tower."
-  - q: "Is there anywhere to eat or buy things on the island?"
-    a: "There's a small shop run by the monks selling their own wine and a herbal liqueur called Lerina. Bring cash or card for the ferry; there's no ATM on the island."
+  - q: How do I get to Abbaye de Lérins?
+    a: >-
+      Take the Planète Croisières ferry from Cannes' Vieux Port to Île
+      Saint-Honorat, a 15-20 minute crossing. There's no other way to reach the
+      island.
+  - q: What are the opening hours?
+    a: >-
+      The abbey is open daily, including weekends, from 9:00 AM to 6:30 PM
+      year-round.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays between 9am and 10am are calmest. Weekends stay crowded from
+      opening through 6:30pm, with the busiest stretch between 11am and 5pm.
+  - q: How long should I plan for the visit?
+    a: >-
+      Budget two to three hours to walk the island's flat perimeter path (about
+      1.5km) and see the cloister, chapels, and fortified tower.
+  - q: Is there anywhere to eat or buy things on the island?
+    a: >-
+      There's a small shop run by the monks selling their own wine and a herbal
+      liqueur called Lerina. Bring cash or card for the ferry; there's no ATM on
+      the island.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-16'
 ---
 
 ## Getting to the island

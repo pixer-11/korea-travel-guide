@@ -1,49 +1,80 @@
 ---
 title: 'City view: Naples Travel Guide (4.8★)'
-description: '"City view" is a small, little-visited lookout point on Via Tito Angelini in the Vomero district, up on the hill behind the Castel Sant''Elmo and San Martino monastery complex. 4.8★ (199 reviews) — what visitors say, hours, and tips.'
+description: >-
+  "City view" is a small, little-visited lookout point on Via Tito Angelini in
+  the Vomero district, up on the hill behind the Castel Sant'Elmo and San
+  Martino monastery complex. 4.8★ (207 reviews) — what visitors say, hours, and
+  tips.
 country: Italy
 region: Naples
 category: attraction
 pubDate: '2026-08-06T10:19:55.332Z'
 heroImage:
-  url: https://live.staticflickr.com/2864/11590590754_6e810fbed9_b.jpg
+  url: 'https://live.staticflickr.com/2864/11590590754_6e810fbed9_b.jpg'
   credit: 'Photo: Nicola since 1972 / flickr (BY)'
   license: openverse-cc
-  source: https://www.flickr.com/photos/15216811@N06/11590590754
+  source: 'https://www.flickr.com/photos/15216811@N06/11590590754'
   focus:
     x: 60
     'y': 45
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Piazza_Sannazzaro%2C_Naples_-_City_Sightseeing_Napoli_%287592947440%29.jpg/3840px-Piazza_Sannazzaro%2C_Naples_-_City_Sightseeing_Napoli_%287592947440%29.jpg
-    credit: 'Photo: Elliott Brown from Birmingham, United Kingdom / Wikimedia Commons (CC BY 2.0)'
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Piazza_Sannazzaro%2C_Naples_-_City_Sightseeing_Napoli_%287592947440%29.jpg/3840px-Piazza_Sannazzaro%2C_Naples_-_City_Sightseeing_Napoli_%287592947440%29.jpg
+    credit: >-
+      Photo: Elliott Brown from Birmingham, United Kingdom / Wikimedia Commons
+      (CC BY 2.0)
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Piazza_Sannazzaro,_Naples_-_City_Sightseeing_Napoli_(7592947440).jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Piazza_Sannazzaro,_Naples_-_City_Sightseeing_Napoli_(7592947440).jpg
 place:
   id: ChIJqcC8Y0IJOxMRGH8gBhPdR8A
   name: City view
-  address: Via Tito Angelini, 20, 80129 Napoli NA, Italy
+  address: 'Via Tito Angelini, 20, 80129 Napoli NA, Italy'
   rating: 4.8
-  userRatingsTotal: 199
-  googleMapsUrl: https://maps.google.com/?cid=13855285852405530392&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 207
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13855285852405530392&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 40.8444518
   lng: 14.2400156
 tags:
   - naples
   - viewpoint
-quickAnswer: '"City view" is a small, little-visited lookout point on Via Tito Angelini in the Vomero district, up on the hill behind the Castel Sant''Elmo and San Martino monastery complex. It rewards a short uphill walk (or a quick funicular ride) with an open, uncluttered panorama over the rooftops of Naples to the bay and Vesuvius — best at golden hour when the light softens and the crowds from the monastery terraces have thinned. Budget 20-30 minutes, bring no expectations of facilities, and pair it with a wander through Vomero.'
+quickAnswer: >-
+  "City view" is a small, little-visited lookout point on Via Tito Angelini in
+  the Vomero district, up on the hill behind the Castel Sant'Elmo and San
+  Martino monastery complex. It rewards a short uphill walk (or a quick
+  funicular ride) with an open, uncluttered panorama over the rooftops of Naples
+  to the bay and Vesuvius — best at golden hour when the light softens and the
+  crowds from the monastery terraces have thinned. Budget 20-30 minutes, bring
+  no expectations of facilities, and pair it with a wander through Vomero.
 faq:
   - q: How do I get to City view in Naples?
-    a: Take the Montesanto or Centrale funicular up to Vomero, then walk 5-10 minutes uphill to Via Tito Angelini, near Castel Sant'Elmo's main entrance. There's no direct bus stop, so the last stretch is on foot.
+    a: >-
+      Take the Montesanto or Centrale funicular up to Vomero, then walk 5-10
+      minutes uphill to Via Tito Angelini, near Castel Sant'Elmo's main
+      entrance. There's no direct bus stop, so the last stretch is on foot.
   - q: Is there an entrance fee?
-    a: No — it's an open roadside viewpoint with no ticket, gate, or set opening hours, unlike the paid terraces at Castel Sant'Elmo or San Martino nearby.
+    a: >-
+      No — it's an open roadside viewpoint with no ticket, gate, or set opening
+      hours, unlike the paid terraces at Castel Sant'Elmo or San Martino nearby.
   - q: What's the best time of day to go?
-    a: Late afternoon, an hour or two before sunset, when the haze over the bay tends to clear and the light turns the rooftops golden. Midday can be hazier and there's little shade.
+    a: >-
+      Late afternoon, an hour or two before sunset, when the haze over the bay
+      tends to clear and the light turns the rooftops golden. Midday can be
+      hazier and there's little shade.
   - q: How long should I spend here?
-    a: 20-30 minutes is enough for the view itself; most visitors combine it with a longer stop at Castel Sant'Elmo, the Certosa di San Martino, or a walk through Vomero's cafés and shops.
+    a: >-
+      20-30 minutes is enough for the view itself; most visitors combine it with
+      a longer stop at Castel Sant'Elmo, the Certosa di San Martino, or a walk
+      through Vomero's cafés and shops.
   - q: Is it worth it if I've already seen the view from Castel Sant'Elmo?
-    a: Yes if you want the same panorama without the ticket line or crowds — it's a genuinely under-visited alternative just a few minutes' walk from the fortress.
+    a: >-
+      Yes if you want the same panorama without the ticket line or crowds — it's
+      a genuinely under-visited alternative just a few minutes' walk from the
+      fortress.
 aiGenerated: true
+updatedDate: '2026-09-16'
 ---
 
 ## Why this view, and not the famous one

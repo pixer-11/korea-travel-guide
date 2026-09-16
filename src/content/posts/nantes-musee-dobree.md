@@ -1,44 +1,52 @@
 ---
-title: "Musée Dobrée: Nantes Travel Guide (4.5★)"
-description: "Musée Dobrée sits on Place Jean V in central Nantes, a granite-walled 19th-century palace built to house shipowner Thomas Dobrée's private collection of medieval art, manuscripts and coins. 4.5★ (1,025 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Nantes"
-category: "attraction"
-pubDate: "2026-09-13T07:50:43.878Z"
+title: 'Musée Dobrée: Nantes Travel Guide (4.5★)'
+description: >-
+  Musée Dobrée sits on Place Jean V in central Nantes, a granite-walled
+  19th-century palace built to house shipowner Thomas Dobrée's private
+  collection of medieval art, manuscripts and coins. 4.5★ (1,030 reviews) — what
+  visitors say, hours, and tips.
+country: France
+region: Nantes
+category: attraction
+pubDate: '2026-09-13T07:50:43.878Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Mus%C3%A9e_Dobr%C3%A9e.JPG/1920px-Mus%C3%A9e_Dobr%C3%A9e.JPG"
-  credit: "Photo: Jibi44 / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_Dobr%C3%A9e.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Mus%C3%A9e_Dobr%C3%A9e.JPG/1920px-Mus%C3%A9e_Dobr%C3%A9e.JPG
+  credit: 'Photo: Jibi44 / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_Dobr%C3%A9e.JPG'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Mus%C3%A9e_Thomas_Dobr%C3%A9e_Nantes.jpg"
-    credit: "Photo: ThimGui / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_Thomas_Dobr%C3%A9e_Nantes.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/6/6b/Mus%C3%A9e_Thomas_Dobr%C3%A9e_Nantes.jpg
+    credit: 'Photo: ThimGui / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_Thomas_Dobr%C3%A9e_Nantes.jpg
 place:
-  id: "ChIJ060GRAPsBUgR5NWQ0Zhg_nY"
-  name: "Musée Dobrée"
-  address: "1 Pl. Jean V, 44000 Nantes, France"
+  id: ChIJ060GRAPsBUgR5NWQ0Zhg_nY
+  name: Musée Dobrée
+  address: '1 Pl. Jean V, 44000 Nantes, France'
   rating: 4.5
-  userRatingsTotal: 1025
-  googleMapsUrl: "https://maps.google.com/?cid=8574396950027228644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1030
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8574396950027228644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 47.2121491
   lng: -1.5664379
-  phone: "+33 2 42 45 50 50"
+  phone: +33 2 42 45 50 50
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: Closed"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-09-13
+    updated: 2026-09-13T00:00:00.000Z
     weekdayBusy:
       - 12
       - 14
@@ -52,24 +60,45 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_596e5f67685a3051574e355267554273504152473036304a496843"
+    venueId: ven_596e5f67685a3051574e355267554273504152473036304a496843
 tags:
-  - "nantes"
-  - "museum"
-quickAnswer: "Musée Dobrée sits on Place Jean V in central Nantes, a granite-walled 19th-century palace built to house shipowner Thomas Dobrée's private collection of medieval art, manuscripts and coins. It's open Wednesday to Sunday, 10am to 6pm, closed Monday and Tuesday, and busiest on weekends between 11am and 6pm, so a weekday morning is the calmest time to go. Budget 90 minutes to two hours, and pair it with the neighbouring Cathédrale Saint-Pierre-et-Saint-Paul, a five-minute walk away."
+  - nantes
+  - museum
+quickAnswer: >-
+  Musée Dobrée sits on Place Jean V in central Nantes, a granite-walled
+  19th-century palace built to house shipowner Thomas Dobrée's private
+  collection of medieval art, manuscripts and coins. It's open Wednesday to
+  Sunday, 10am to 6pm, closed Monday and Tuesday, and busiest on weekends
+  between 11am and 6pm, so a weekday morning is the calmest time to go. Budget
+  90 minutes to two hours, and pair it with the neighbouring Cathédrale
+  Saint-Pierre-et-Saint-Paul, a five-minute walk away.
 faq:
-  - q: "What are Musée Dobrée's opening hours?"
-    a: "Wednesday to Sunday, 10am to 6pm. It's closed Monday and Tuesday, so plan around those two days."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings, right around the 10am opening, are calmest. Weekends get busy from 11am to 6pm, so avoid that window if you want the rooms to yourself."
-  - q: "How long should I spend at the museum?"
-    a: "Plan on 90 minutes to two hours to see the collection properly, including the coin cabinet and manuscript rooms."
-  - q: "Is Musée Dobrée near other Nantes attractions?"
-    a: "Yes. Cathédrale Saint-Pierre-et-Saint-Paul is about five minutes on foot, and the Château des Ducs de Bretagne is roughly ten minutes away, making it easy to combine all three in one outing."
-  - q: "Are the exhibits labeled in English?"
-    a: "Labeling is mainly in French. Staff at the entrance can usually point out highlights in English, but it helps to read a little about Thomas Dobrée's collection beforehand."
+  - q: What are Musée Dobrée's opening hours?
+    a: >-
+      Wednesday to Sunday, 10am to 6pm. It's closed Monday and Tuesday, so plan
+      around those two days.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings, right around the 10am opening, are calmest. Weekends get
+      busy from 11am to 6pm, so avoid that window if you want the rooms to
+      yourself.
+  - q: How long should I spend at the museum?
+    a: >-
+      Plan on 90 minutes to two hours to see the collection properly, including
+      the coin cabinet and manuscript rooms.
+  - q: Is Musée Dobrée near other Nantes attractions?
+    a: >-
+      Yes. Cathédrale Saint-Pierre-et-Saint-Paul is about five minutes on foot,
+      and the Château des Ducs de Bretagne is roughly ten minutes away, making
+      it easy to combine all three in one outing.
+  - q: Are the exhibits labeled in English?
+    a: >-
+      Labeling is mainly in French. Staff at the entrance can usually point out
+      highlights in English, but it helps to read a little about Thomas Dobrée's
+      collection beforehand.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-16'
 ---
 
 ## What you're actually walking into

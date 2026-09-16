@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: nantes-place-royale
-srcHash: 'f7e8cd58ecb5'
+srcHash: 'e162ea9e784a'
 title: 'Place Royale: Guía de viaje de Nantes (4,6★)'
-description: 'Place Royale es una plaza peatonal en el centro de Nantes, a poca distancia del barrio de Bouffay y del Passage Pommeraye, construida alrededor de una fuente de piedra que personifica el Loira y sus afluentes. 4,6★ (2.691 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Place Royale es una plaza peatonal en el centro de Nantes, a poca distancia del barrio de Bouffay y del Passage Pommeraye, construida alrededor de una fuente de piedra que personifica el Loira y sus afluentes. 4,6★ (2.695 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Place Royale es una plaza peatonal en el centro de Nantes, a poca distancia del barrio de Bouffay y del Passage Pommeraye, construida alrededor de una fuente de piedra que personifica el Loira y sus afluentes. Se puede visitar a cualquier hora del día y de forma gratuita, así que lo mejor es acercarse temprano en lugar de enfrentarse a la aglomeración del fin de semana entre el mediodía y las 20:00. Las mañanas de fin de semana entre las 7:00 y las 8:00 son el momento más tranquilo si se quiere disfrutar de la plaza en soledad.
 faq:
   - q: ¿Dónde está exactamente Place Royale en Nantes?

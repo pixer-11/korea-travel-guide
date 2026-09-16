@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bologna-basilica-di-san-petronio
-srcHash: '97cee49895e3'
+srcHash: '98753d2d0014'
 title: 'Basílica de San Petronio: guía de viaje de Bolonia (4,5★)'
-description: 'La Basílica de San Petronio se encuentra en la Piazza Maggiore, en pleno centro de Bolonia, y abre todos los días de 10:00 a 18:00. 4,5★ (6.265 reseñas): lo que dicen los visitantes, horarios y consejos prácticos.'
+description: 'La Basílica de San Petronio se encuentra en la Piazza Maggiore, en pleno centro de Bolonia, y abre todos los días de 10:00 a 18:00. 4,5★ (6.269 reseñas): lo que dicen los visitantes, horarios y consejos prácticos.'
 quickAnswer: 'La Basílica de San Petronio se encuentra en la Piazza Maggiore, en pleno centro de Bolonia, y abre todos los días de 10:00 a 18:00. Es el templo más visitado de Bolonia, así que conviene organizar la visita en función de las multitudes: tanto entre semana como los fines de semana, la franja más tranquila va de 14:00 a 15:00, mientras que los sábados y domingos se mantiene concurrida de 10:00 a 18:00. La entrada a la nave principal es gratuita; calcule entre 30 y 45 minutos, más si decide pagar el pequeño suplemento para acceder a las capillas o a las terrazas.'
 faq:
   - q: ¿Es gratuita la entrada a la Basílica de San Petronio?

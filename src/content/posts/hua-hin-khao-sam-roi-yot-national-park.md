@@ -1,55 +1,80 @@
 ---
-title: "Khao Sam Roi Yot National Park: Hua Hin Travel Guide (4.6★)"
-description: "Khao Sam Roi Yot National Park sits about an hour south of Hua Hin, straddling Kui Buri and Sam Roi Yot districts on Prachuap Khiri Khan's coast. 4.6★ (4,257 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Hua Hin"
-category: "attraction"
-pubDate: "2026-09-16T07:47:32.022Z"
+title: 'Khao Sam Roi Yot National Park: Hua Hin Travel Guide (4.6★)'
+description: >-
+  Khao Sam Roi Yot National Park sits about an hour south of Hua Hin, straddling
+  Kui Buri and Sam Roi Yot districts on Prachuap Khiri Khan's coast. 4.6★ (4,258
+  reviews) — what visitors say, hours, and tips.
+country: Thailand
+region: Hua Hin
+category: attraction
+pubDate: '2026-09-16T07:47:32.022Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/7/7d/Harbour_Bang_Pu.jpg"
-  credit: "Photo: Ahoerstemeier / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Harbour_Bang_Pu.jpg"
+  url: 'https://upload.wikimedia.org/wikipedia/commons/7/7d/Harbour_Bang_Pu.jpg'
+  credit: 'Photo: Ahoerstemeier / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Harbour_Bang_Pu.jpg'
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJxcOqF1HM_TARAM3YPyzgbio"
-  name: "Khao Sam Roi Yot National Park"
-  address: "4XH3+CFX, Khao Daeng, Kui Buri District, Prachuap Khiri Khan, Thailand"
+  id: ChIJxcOqF1HM_TARAM3YPyzgbio
+  name: Khao Sam Roi Yot National Park
+  address: '4XH3+CFX, Khao Daeng, Kui Buri District, Prachuap Khiri Khan, Thailand'
   rating: 4.6
-  userRatingsTotal: 4257
-  googleMapsUrl: "https://maps.google.com/?cid=3057627677685501184&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4258
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3057627677685501184&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 12.128617
   lng: 99.9537428
-  phone: "+66 32 821 568"
+  phone: +66 32 821 568
   openingHours:
-    - "Monday: 8:00 AM – 4:30 PM"
-    - "Tuesday: 8:00 AM – 4:30 PM"
-    - "Wednesday: 8:00 AM – 4:30 PM"
-    - "Thursday: 8:00 AM – 4:30 PM"
-    - "Friday: 8:00 AM – 4:30 PM"
-    - "Saturday: 8:00 AM – 4:30 PM"
-    - "Sunday: 8:00 AM – 4:30 PM"
+    - 'Monday: 8:00 AM – 4:30 PM'
+    - 'Tuesday: 8:00 AM – 4:30 PM'
+    - 'Wednesday: 8:00 AM – 4:30 PM'
+    - 'Thursday: 8:00 AM – 4:30 PM'
+    - 'Friday: 8:00 AM – 4:30 PM'
+    - 'Saturday: 8:00 AM – 4:30 PM'
+    - 'Sunday: 8:00 AM – 4:30 PM'
 tags:
-  - "hua hin"
-  - "park"
-quickAnswer: "Khao Sam Roi Yot National Park sits about an hour south of Hua Hin, straddling Kui Buri and Sam Roi Yot districts on Prachuap Khiri Khan's coast. The park opens daily 8:00 AM–4:30 PM; go early to climb to Phraya Nakhon Cave before the midday heat and boat traffic build up at Bang Pu pier. Budget a half or full day: the cave hike, Sam Phraya beach and the limestone lookout at Khao Daeng can fill four to six hours."
+  - hua hin
+  - park
+quickAnswer: >-
+  Khao Sam Roi Yot National Park sits about an hour south of Hua Hin, straddling
+  Kui Buri and Sam Roi Yot districts on Prachuap Khiri Khan's coast. The park
+  opens daily 8:00 AM–4:30 PM; go early to climb to Phraya Nakhon Cave before
+  the midday heat and boat traffic build up at Bang Pu pier. Budget a half or
+  full day: the cave hike, Sam Phraya beach and the limestone lookout at Khao
+  Daeng can fill four to six hours.
 faq:
-  - q: "How do you get to Khao Sam Roi Yot from Hua Hin?"
-    a: "It's about an hour's drive south on Highway 4. There's no direct public bus, so most people rent a car, hire a driver, or book a day tour from Hua Hin."
-  - q: "How much time do you need at the park?"
-    a: "Plan a half to full day. The Phraya Nakhon Cave boat ride and climb alone take 2-3 hours round trip; add a beach stop or the Khao Daeng viewpoint for a full day."
-  - q: "What's the best time to visit Phraya Nakhon Cave?"
-    a: "Arrive at Bang Pu pier at opening, 8:00 AM, and aim to be inside the cave by 10:30 AM to noon, when sunlight through the collapsed roof best lights the pavilion."
-  - q: "Is the hike to the cave difficult?"
-    a: "It's a steep, uneven 430-meter climb over rock steps, taking 20-30 minutes each way. Sturdy shoes are essential; sandals aren't recommended."
-  - q: "What else is near the park?"
-    a: "Sam Phraya beach for a swim after the hike, and Khao Daeng near the southern entrance for an estuary viewpoint and birdwatching, best November to March."
+  - q: How do you get to Khao Sam Roi Yot from Hua Hin?
+    a: >-
+      It's about an hour's drive south on Highway 4. There's no direct public
+      bus, so most people rent a car, hire a driver, or book a day tour from Hua
+      Hin.
+  - q: How much time do you need at the park?
+    a: >-
+      Plan a half to full day. The Phraya Nakhon Cave boat ride and climb alone
+      take 2-3 hours round trip; add a beach stop or the Khao Daeng viewpoint
+      for a full day.
+  - q: What's the best time to visit Phraya Nakhon Cave?
+    a: >-
+      Arrive at Bang Pu pier at opening, 8:00 AM, and aim to be inside the cave
+      by 10:30 AM to noon, when sunlight through the collapsed roof best lights
+      the pavilion.
+  - q: Is the hike to the cave difficult?
+    a: >-
+      It's a steep, uneven 430-meter climb over rock steps, taking 20-30 minutes
+      each way. Sturdy shoes are essential; sandals aren't recommended.
+  - q: What else is near the park?
+    a: >-
+      Sam Phraya beach for a swim after the hike, and Khao Daeng near the
+      southern entrance for an estuary viewpoint and birdwatching, best November
+      to March.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-16'
 ---
 
 ## Getting there and getting oriented

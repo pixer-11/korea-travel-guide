@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: hua-hin-khao-sam-roi-yot-national-park
-srcHash: '86684b524dd8'
+srcHash: '9ac4e23ba647'
 title: 'Parque Nacional Khao Sam Roi Yot: guía de viaje desde Hua Hin (4,6★)'
-description: 'El Parque Nacional Khao Sam Roi Yot se encuentra a una hora al sur de Hua Hin, entre los distritos de Kui Buri y Sam Roi Yot, en la costa de Prachuap Khiri Khan. 4,6★ (4.257 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Parque Nacional Khao Sam Roi Yot se encuentra a una hora al sur de Hua Hin, entre los distritos de Kui Buri y Sam Roi Yot, en la costa de Prachuap Khiri Khan. 4,6★ (4.258 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Parque Nacional Khao Sam Roi Yot se encuentra a una hora al sur de Hua Hin, entre los distritos de Kui Buri y Sam Roi Yot, en la costa de Prachuap Khiri Khan. El parque abre todos los días de 8:00 a 16:30; conviene llegar temprano para subir a la cueva de Phraya Nakhon antes de que aprieten el calor del mediodía y el tráfico de embarcaciones en el muelle de Bang Pu. Reserve medio día o una jornada completa: la caminata a la cueva, la playa de Sam Phraya y el mirador calizo de Khao Daeng pueden ocupar entre cuatro y seis horas.'
 faq:
   - q: ¿Cómo se llega a Khao Sam Roi Yot desde Hua Hin?

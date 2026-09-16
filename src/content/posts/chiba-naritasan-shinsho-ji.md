@@ -1,41 +1,48 @@
 ---
-title: "Naritasan Shinsho-ji: Chiba Travel Guide (4.5★)"
-description: "Naritasan Shinsho-ji, in the town of Narita, Chiba, is a sprawling 10th-century Shingon Buddhist temple complex famous for its three-story pagoda, Great Main Hall, and the traditional shopping street leading up to it. 4.5★ (20,119 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Chiba"
-category: "attraction"
-pubDate: "2026-09-16T08:01:14.335Z"
+title: 'Naritasan Shinsho-ji: Chiba Travel Guide (4.5★)'
+description: >-
+  Naritasan Shinsho-ji, in the town of Narita, Chiba, is a sprawling
+  10th-century Shingon Buddhist temple complex famous for its three-story
+  pagoda, Great Main Hall, and the traditional shopping street leading up to it.
+  4.5★ (20,120 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Chiba
+category: attraction
+pubDate: '2026-09-16T08:01:14.335Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/e/e7/Naritasan_Shinsh%C5%8D-ji_Temple_%2815254133392%29.jpg"
-  credit: "Photo: Charles Nadeau from San Mateo, CA / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Naritasan_Shinsh%C5%8D-ji_Temple_(15254133392).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/e/e7/Naritasan_Shinsh%C5%8D-ji_Temple_%2815254133392%29.jpg
+  credit: 'Photo: Charles Nadeau from San Mateo, CA / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Naritasan_Shinsh%C5%8D-ji_Temple_(15254133392).jpg
+  via: act
   focus:
     x: 65
-    y: 35
+    'y': 35
 gallery: []
 place:
-  id: "ChIJJ6XDoxqLImAR3cOipbe3fN4"
-  name: "Naritasan Shinsho-ji"
-  address: "1 Narita, Chiba 286-0023, Japan"
+  id: ChIJJ6XDoxqLImAR3cOipbe3fN4
+  name: Naritasan Shinsho-ji
+  address: '1 Narita, Chiba 286-0023, Japan'
   rating: 4.5
-  userRatingsTotal: 20119
-  googleMapsUrl: "https://maps.google.com/?cid=16031890772917928925&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 20120
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16031890772917928925&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.7860511
   lng: 140.31824849999998
-  phone: "+81 476-22-2111"
+  phone: +81 476-22-2111
   openingHours:
-    - "Monday: 8:00 AM – 4:00 PM"
-    - "Tuesday: 8:00 AM – 4:00 PM"
-    - "Wednesday: 8:00 AM – 4:00 PM"
-    - "Thursday: 8:00 AM – 4:00 PM"
-    - "Friday: 8:00 AM – 4:00 PM"
-    - "Saturday: 8:00 AM – 4:00 PM"
-    - "Sunday: 8:00 AM – 4:00 PM"
+    - 'Monday: 8:00 AM – 4:00 PM'
+    - 'Tuesday: 8:00 AM – 4:00 PM'
+    - 'Wednesday: 8:00 AM – 4:00 PM'
+    - 'Thursday: 8:00 AM – 4:00 PM'
+    - 'Friday: 8:00 AM – 4:00 PM'
+    - 'Saturday: 8:00 AM – 4:00 PM'
+    - 'Sunday: 8:00 AM – 4:00 PM'
   busyness:
-    updated: 2026-09-16
+    updated: 2026-09-16T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -47,24 +54,49 @@ place:
       - 12
       - 13
       - 14
-    venueId: "ven_344e6633656270694f633352416d494c71786f4458364a4a496843"
+    venueId: ven_344e6633656270694f633352416d494c71786f4458364a4a496843
 tags:
-  - "chiba"
-  - "historic site"
-quickAnswer: "Naritasan Shinsho-ji, in the town of Narita, Chiba, is a sprawling 10th-century Shingon Buddhist temple complex famous for its three-story pagoda, Great Main Hall, and the traditional shopping street leading up to it. It's open daily 8am to 4pm, is free to enter (the Great Pagoda of Peace and some inner halls have separate fees), and gets busy on weekends between 9am and 3pm, so weekday mornings inside that same 8am-4pm window are your calmest bet. Budget half a day, including the approach street, and combine it with Narita for a stopover if you're flying through the nearby international airport."
+  - chiba
+  - historic site
+quickAnswer: >-
+  Naritasan Shinsho-ji, in the town of Narita, Chiba, is a sprawling
+  10th-century Shingon Buddhist temple complex famous for its three-story
+  pagoda, Great Main Hall, and the traditional shopping street leading up to it.
+  It's open daily 8am to 4pm, is free to enter (the Great Pagoda of Peace and
+  some inner halls have separate fees), and gets busy on weekends between 9am
+  and 3pm, so weekday mornings inside that same 8am-4pm window are your calmest
+  bet. Budget half a day, including the approach street, and combine it with
+  Narita for a stopover if you're flying through the nearby international
+  airport.
 faq:
-  - q: "How much does it cost to enter Naritasan Shinsho-ji?"
-    a: "The main temple grounds, Main Hall and pagoda are free to enter. The separate Great Pagoda of Peace and a few inner exhibits charge a small admission, usually payable in cash on site."
-  - q: "What time should I go to avoid crowds?"
-    a: "Arrive right at opening, 8am, on a weekday. Weekends between 9am and 3pm are the busiest window, so a weekday morning inside the 8am-4pm hours gives you the calmest visit."
-  - q: "How do I get to Naritasan Shinsho-ji from Narita Airport?"
-    a: "Take the Keisei or JR line from the airport to Narita Station, about a 10-minute ride, then walk roughly 10 to 15 minutes downhill through the Omotesando shopping street to the temple gate."
-  - q: "How long should I plan to spend here?"
-    a: "Budget two to three hours for the Main Hall, pagoda and Naritasan Park gardens. Add another hour if you want to walk the full approach street and eat at one of the eel restaurants."
-  - q: "Is this a good stop for a layover at Narita Airport?"
-    a: "Yes. Given the roughly 10-minute train ride and short walk from the station, it works well as a half-day stopover between flights, not just a full day trip from Tokyo."
+  - q: How much does it cost to enter Naritasan Shinsho-ji?
+    a: >-
+      The main temple grounds, Main Hall and pagoda are free to enter. The
+      separate Great Pagoda of Peace and a few inner exhibits charge a small
+      admission, usually payable in cash on site.
+  - q: What time should I go to avoid crowds?
+    a: >-
+      Arrive right at opening, 8am, on a weekday. Weekends between 9am and 3pm
+      are the busiest window, so a weekday morning inside the 8am-4pm hours
+      gives you the calmest visit.
+  - q: How do I get to Naritasan Shinsho-ji from Narita Airport?
+    a: >-
+      Take the Keisei or JR line from the airport to Narita Station, about a
+      10-minute ride, then walk roughly 10 to 15 minutes downhill through the
+      Omotesando shopping street to the temple gate.
+  - q: How long should I plan to spend here?
+    a: >-
+      Budget two to three hours for the Main Hall, pagoda and Naritasan Park
+      gardens. Add another hour if you want to walk the full approach street and
+      eat at one of the eel restaurants.
+  - q: Is this a good stop for a layover at Narita Airport?
+    a: >-
+      Yes. Given the roughly 10-minute train ride and short walk from the
+      station, it works well as a half-day stopover between flights, not just a
+      full day trip from Tokyo.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-16'
 ---
 
 Ten minutes on foot from Narita Station, the shops selling grilled eel and pickled vegetables start to thin out and the road tips downhill toward a set of stone steps. That's the moment you know you've arrived at Naritasan Shinsho-ji, and it still surprises people that a temple this size sits so close to one of the world's busiest airports.

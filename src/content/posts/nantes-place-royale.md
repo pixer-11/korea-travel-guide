@@ -1,44 +1,53 @@
 ---
-title: "Place Royale: Nantes Travel Guide (4.6★)"
-description: "Place Royale is a pedestrian square in central Nantes, a short walk from the Bouffay district and Passage Pommeraye, built around a stone fountain that personifies the Loire and its tributaries. 4.6★ (2,691 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Nantes"
-category: "attraction"
-pubDate: "2026-09-13T08:28:42.011Z"
+title: 'Place Royale: Nantes Travel Guide (4.6★)'
+description: >-
+  Place Royale is a pedestrian square in central Nantes, a short walk from the
+  Bouffay district and Passage Pommeraye, built around a stone fountain that
+  personifies the Loire and its tributaries. 4.6★ (2,695 reviews) — what
+  visitors say, hours, and tips.
+country: France
+region: Nantes
+category: attraction
+pubDate: '2026-09-13T08:28:42.011Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/9/9f/Nantes_-_fontaine_de_la_Place_Royale.jpg"
-  credit: "Photo: Eusebius / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Nantes_-_fontaine_de_la_Place_Royale.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/9f/Nantes_-_fontaine_de_la_Place_Royale.jpg
+  credit: 'Photo: Eusebius / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Nantes_-_fontaine_de_la_Place_Royale.jpg
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/c/c9/Nantes_-_fontaine_de_la_Place_Royale_-_Loire_1.jpg"
-    credit: "Photo: Eusebius / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Nantes_-_fontaine_de_la_Place_Royale_-_Loire_1.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/c/c9/Nantes_-_fontaine_de_la_Place_Royale_-_Loire_1.jpg
+    credit: 'Photo: Eusebius / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Nantes_-_fontaine_de_la_Place_Royale_-_Loire_1.jpg
 place:
-  id: "ChIJh3quncDvBUgR660S7IcoZ-Q"
-  name: "Place Royale"
-  address: "5 Pl. Félix Fournier, 44000 Nantes, France"
+  id: ChIJh3quncDvBUgR660S7IcoZ-Q
+  name: Place Royale
+  address: '5 Pl. Félix Fournier, 44000 Nantes, France'
   rating: 4.6
-  userRatingsTotal: 2691
-  googleMapsUrl: "https://maps.google.com/?cid=16458167927495110123&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2695
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16458167927495110123&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 47.2144085
   lng: -1.5585860999999999
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-09-13
+    updated: 2026-09-13T00:00:00.000Z
     weekdayBusy:
       - 14
       - 15
@@ -56,24 +65,44 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_512d5a6f63493753303636526755427644636e757133684a496843"
+    venueId: ven_512d5a6f63493753303636526755427644636e757133684a496843
 tags:
-  - "nantes"
-  - "historic site"
-quickAnswer: "Place Royale is a pedestrian square in central Nantes, a short walk from the Bouffay district and Passage Pommeraye, built around a stone fountain that personifies the Loire and its tributaries. It's open around the clock and free to visit, so the best plan is to swing by early rather than fight the weekend crush between noon and 8pm. Weekend mornings between 7am and 8am are the calmest stretch if you want the square to yourself."
+  - nantes
+  - historic site
+quickAnswer: >-
+  Place Royale is a pedestrian square in central Nantes, a short walk from the
+  Bouffay district and Passage Pommeraye, built around a stone fountain that
+  personifies the Loire and its tributaries. It's open around the clock and free
+  to visit, so the best plan is to swing by early rather than fight the weekend
+  crush between noon and 8pm. Weekend mornings between 7am and 8am are the
+  calmest stretch if you want the square to yourself.
 faq:
-  - q: "Where exactly is Place Royale in Nantes?"
-    a: "It's at 5 Place Félix Fournier in central Nantes, one tram stop from Commerce station on lines 1, 2 or 3, and a short walk from Rue Crébillon and the Passage Pommeraye."
-  - q: "Is there an entrance fee?"
-    a: "No, it's a public pedestrian square, open 24 hours every day with free access at all times."
-  - q: "When is Place Royale least crowded?"
-    a: "Weekend mornings between 7am and 8am are the quietest window. Weekends from around noon to 8pm are busiest, when the surrounding shopping streets are at their peak."
-  - q: "How long should I spend there?"
-    a: "Ten to fifteen minutes covers the square and fountain; allow half an hour if you want to sit at a nearby café terrace as well."
-  - q: "Is Place Royale worth visiting if I only have a day in Nantes?"
-    a: "It's best treated as a stop on a walking route between the Château des Ducs de Bretagne and Place Graslin rather than a standalone destination, since it's a small square rather than a major sight in itself."
+  - q: Where exactly is Place Royale in Nantes?
+    a: >-
+      It's at 5 Place Félix Fournier in central Nantes, one tram stop from
+      Commerce station on lines 1, 2 or 3, and a short walk from Rue Crébillon
+      and the Passage Pommeraye.
+  - q: Is there an entrance fee?
+    a: >-
+      No, it's a public pedestrian square, open 24 hours every day with free
+      access at all times.
+  - q: When is Place Royale least crowded?
+    a: >-
+      Weekend mornings between 7am and 8am are the quietest window. Weekends
+      from around noon to 8pm are busiest, when the surrounding shopping streets
+      are at their peak.
+  - q: How long should I spend there?
+    a: >-
+      Ten to fifteen minutes covers the square and fountain; allow half an hour
+      if you want to sit at a nearby café terrace as well.
+  - q: Is Place Royale worth visiting if I only have a day in Nantes?
+    a: >-
+      It's best treated as a stop on a walking route between the Château des
+      Ducs de Bretagne and Place Graslin rather than a standalone destination,
+      since it's a small square rather than a major sight in itself.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-16'
 ---
 
 Place Royale sits at the point where Nantes' medieval core meets its 18th-century rebuild, a flat expanse of pale stone framed by symmetrical facades with wrought-iron balconies. It was laid out under Louis XV and rebuilt after wartime bombing damaged it in 1943, so what you're looking at is a careful postwar restoration of an 18th-century design rather than an untouched original. That doesn't make it feel fake; the proportions and the mansard roofs still read as classic Nantes.

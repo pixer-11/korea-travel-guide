@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: cannes-abbaye-de-lerins
-srcHash: '32806964cc4f'
+srcHash: 'adc787045544'
 title: 'Abadía de Lérins: Guía de Viaje de Cannes (4.7★)'
-description: 'La Abadía de Lérins se encuentra en la Isla de San Honorato (Île Saint-Honorat), la más pequeña de las dos islas de Lérins frente a Cannes, a la que solo se puede llegar en un ferry de 15-20 minutos desde el Vieux Port de Cannes. 4.7★ (1.402 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'La Abadía de Lérins se encuentra en la Isla de San Honorato (Île Saint-Honorat), la más pequeña de las dos islas de Lérins frente a Cannes, a la que solo se puede llegar en un ferry de 15-20 minutos desde el Vieux Port de Cannes. 4.7★ (1.403 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La Abadía de Lérins se encuentra en la Isla de San Honorato (Île Saint-Honorat), la más pequeña de las dos islas de Lérins frente a Cannes, a la que solo se puede llegar en un ferry de 15-20 minutos desde el Vieux Port de Cannes. Los monjes viven allí desde el siglo V, y el monasterio fortificado actual data en gran parte del siglo XI. Conviene ir entre las 9:00 y las 10:00 de la mañana entre semana, el momento más tranquilo, ya que los fines de semana la afluencia crece rápido entre las 11:00 y las 17:00.
 faq:
   - q: ¿Cómo se llega a la Abadía de Lérins?

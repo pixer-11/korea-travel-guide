@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: annecy-basilique-de-la-visitation
-srcHash: '0a5ed37ac519'
+srcHash: '4be4f07d35c8'
 title: 'Basílica de la Visitación: Guía de viaje de Annecy (4,5★)'
-description: 'La Basílica de la Visitación se alza en una colina boscosa sobre el casco antiguo de Annecy, a 15-20 minutos de subida empinada desde la orilla del lago, y su terraza del campanario es el motivo para visitarla: un panorama gratuito sobre los tejados, el lago de Annecy y las montañas de Bornes. 4,5★ (1.921 reseñas): qué dicen los visitantes, horarios y consejos.'
+description: 'La Basílica de la Visitación se alza en una colina boscosa sobre el casco antiguo de Annecy, a 15-20 minutos de subida empinada desde la orilla del lago, y su terraza del campanario es el motivo para visitarla: un panorama gratuito sobre los tejados, el lago de Annecy y las montañas de Bornes. 4,5★ (1.922 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: 'La Basílica de la Visitación se alza en una colina boscosa sobre el casco antiguo de Annecy, a 15-20 minutos de subida empinada desde la orilla del lago, y su terraza del campanario es el motivo para visitarla: un panorama gratuito sobre los tejados, el lago de Annecy y las montañas de Bornes. Abre todos los días (de 7:15 a 18:30 la mayoría de días, y de 9:00 a 17:30 los domingos), y el momento más tranquilo es entre las 8:00 y las 11:00 de lunes a viernes. Conviene evitar las tardes de fin de semana entre el mediodía y las 18:00, cuando coinciden los grupos en autobús y los paseantes.'
 faq:
   - q: ¿Cómo se llega a la Basílica de la Visitación desde el centro de Annecy?

@@ -1,22 +1,28 @@
 ---
 title: 'Archaeological Park of Pompeii: Naples Travel Guide'
-description: The Archaeological Park of Pompeii is a full ancient Roman city buried by Mount Vesuvius in 79 AD, located in the town of Pompei about 30 minutes by train from Naples.
+description: >-
+  The Archaeological Park of Pompeii is a full ancient Roman city buried by
+  Mount Vesuvius in 79 AD, located in the town of Pompei about 30 minutes by
+  train from Naples.
 country: Italy
 region: Naples
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Amphitheatre%2C_Archaeological_Park_of_Pompeii%2C_Italy_%28PPL2-Enhanced%29_julesvernex2.jpg/1920px-Amphitheatre%2C_Archaeological_Park_of_Pompeii%2C_Italy_%28PPL2-Enhanced%29_julesvernex2.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Amphitheatre%2C_Archaeological_Park_of_Pompeii%2C_Italy_%28PPL2-Enhanced%29_julesvernex2.jpg/1920px-Amphitheatre%2C_Archaeological_Park_of_Pompeii%2C_Italy_%28PPL2-Enhanced%29_julesvernex2.jpg
   credit: 'Photo: Jules Verne Times Two / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Amphitheatre,_Archaeological_Park_of_Pompeii,_Italy_(PPL2-Enhanced)_julesvernex2.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Amphitheatre,_Archaeological_Park_of_Pompeii,_Italy_(PPL2-Enhanced)_julesvernex2.jpg
 place:
   id: ChIJg-rRh728OxMRNZtSjoBipHw
   name: Archaeological Park of Pompeii
-  address: 80045 Pompei, Metropolitan City of Naples, Italy
+  address: '80045 Pompei, Metropolitan City of Naples, Italy'
   rating: 4.7
-  userRatingsTotal: 85024
-  googleMapsUrl: https://maps.google.com/?cid=8981411861166725941&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 86640
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8981411861166725941&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 40.7512189
   lng: 14.4886761
@@ -46,19 +52,42 @@ place:
 tags:
   - naples
   - Pompeii Ruins
-quickAnswer: The Archaeological Park of Pompeii is a full ancient Roman city buried by Mount Vesuvius in 79 AD, located in the town of Pompei about 30 minutes by train from Naples. Plan on 3-4 hours minimum (a full day if you're a history buff), enter through Porta Marina, and go early morning to beat both crowds and summer heat. Wear real walking shoes — the original Roman paving stones are uneven and there's little shade.
+quickAnswer: >-
+  The Archaeological Park of Pompeii is a full ancient Roman city buried by
+  Mount Vesuvius in 79 AD, located in the town of Pompei about 30 minutes by
+  train from Naples. Plan on 3-4 hours minimum (a full day if you're a history
+  buff), enter through Porta Marina, and go early morning to beat both crowds
+  and summer heat. Wear real walking shoes — the original Roman paving stones
+  are uneven and there's little shade.
 faq:
   - q: How do I get to Pompeii from Naples?
-    a: Take the Circumvesuviana train from Napoli Centrale toward Sorrento and get off at 'Pompei Scavi – Villa dei Misteri,' about 30-40 minutes away and right at the site entrance. Avoid the separate 'Pompei' stop on the regional Naples–Salerno line, which is farther from the ruins.
+    a: >-
+      Take the Circumvesuviana train from Napoli Centrale toward Sorrento and
+      get off at 'Pompei Scavi – Villa dei Misteri,' about 30-40 minutes away
+      and right at the site entrance. Avoid the separate 'Pompei' stop on the
+      regional Naples–Salerno line, which is farther from the ruins.
   - q: How much time should I plan for a visit?
-    a: Budget a minimum of 3-4 hours to see the highlights (Forum, Casa dei Vettii, Amphitheatre, plaster casts). History enthusiasts often spend a full day, especially if combining it with nearby Herculaneum.
+    a: >-
+      Budget a minimum of 3-4 hours to see the highlights (Forum, Casa dei
+      Vettii, Amphitheatre, plaster casts). History enthusiasts often spend a
+      full day, especially if combining it with nearby Herculaneum.
   - q: What's the best time of day and year to visit?
-    a: Go right at opening time to avoid crowds and heat. Spring and early autumn offer the mildest weather; the site has very little shade, so midsummer afternoons can be exhausting.
+    a: >-
+      Go right at opening time to avoid crowds and heat. Spring and early autumn
+      offer the mildest weather; the site has very little shade, so midsummer
+      afternoons can be exhausting.
   - q: Do I need to book tickets in advance?
-    a: It's recommended, especially in high season — lines at the entrances can be long. Combined tickets covering Pompeii, Herculaneum, and other Vesuvian sites are often available.
+    a: >-
+      It's recommended, especially in high season — lines at the entrances can
+      be long. Combined tickets covering Pompeii, Herculaneum, and other
+      Vesuvian sites are often available.
   - q: Can I visit Pompeii and Herculaneum in one day?
-    a: Yes, both are on the Circumvesuviana line, but they're each large sites — pairing them in one day means moving briskly and possibly skipping some minor buildings at each.
+    a: >-
+      Yes, both are on the Circumvesuviana line, but they're each large sites —
+      pairing them in one day means moving briskly and possibly skipping some
+      minor buildings at each.
 aiGenerated: true
+updatedDate: '2026-09-16'
 ---
 
 ## Why go

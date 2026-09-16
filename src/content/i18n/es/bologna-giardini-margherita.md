@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bologna-giardini-margherita
-srcHash: 'aa5f403331b3'
+srcHash: '532e123b7205'
 title: 'Giardini Margherita: guía de viaje de Bolonia (4,6★)'
-description: 'Los Giardini Margherita son el parque público más grande de Bolonia, situado en el extremo sureste del centro de la ciudad, cerca de Porta Santo Stefano y Porta Castiglione. 4,6★ (17.907 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Los Giardini Margherita son el parque público más grande de Bolonia, situado en el extremo sureste del centro de la ciudad, cerca de Porta Santo Stefano y Porta Castiglione. 4,6★ (17.908 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Los Giardini Margherita son el parque público más grande de Bolonia y se extienden por el extremo sureste del centro de la ciudad, cerca de Porta Santo Stefano y Porta Castiglione. Permanecen abiertos las 24 horas todos los días, la entrada es gratuita y el momento de mayor afluencia es el fin de semana entre las 11:00 y las 21:00, así que si quiere tener el camino del lago para usted solo, vaya entre las 7:00 y las 8:00 un sábado o domingo. Lo que encontrará no es un monumento único que visitar, sino corredores, paseadores de perros, familias con niños en los parques infantiles y un lago rodeado de plátanos de sombra.
 faq:
   - q: ¿Dónde están los Giardini Margherita y cuál es el punto de referencia más cercano?

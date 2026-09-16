@@ -1,45 +1,53 @@
 ---
-title: "Le Jardin Extraordinaire: Nantes Travel Guide (4.4★)"
-description: "Le Jardin Extraordinaire sits in the Malakoff district of Nantes, built into a disused quarry with cliff walls, palms, banana trees and a man-made waterfall. 4.4★ (4,835 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Nantes"
-category: "attraction"
-pubDate: "2026-09-14T07:38:49.067Z"
+title: 'Le Jardin Extraordinaire: Nantes Travel Guide (4.4★)'
+description: >-
+  Le Jardin Extraordinaire sits in the Malakoff district of Nantes, built into a
+  disused quarry with cliff walls, palms, banana trees and a man-made waterfall.
+  4.4★ (4,839 reviews) — what visitors say, hours, and tips.
+country: France
+region: Nantes
+category: attraction
+pubDate: '2026-09-14T07:38:49.067Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nantes_-_Jardin_Extraordinaire_-_01.jpg/3840px-Nantes_-_Jardin_Extraordinaire_-_01.jpg"
-  credit: "Photo: François de Dijon / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Nantes_-_Jardin_Extraordinaire_-_01.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nantes_-_Jardin_Extraordinaire_-_01.jpg/3840px-Nantes_-_Jardin_Extraordinaire_-_01.jpg
+  credit: 'Photo: François de Dijon / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Nantes_-_Jardin_Extraordinaire_-_01.jpg
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Nantes_-_Jardin_Extraordinaire_-_14.jpg/3840px-Nantes_-_Jardin_Extraordinaire_-_14.jpg"
-    credit: "Photo: François de Dijon / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Nantes_-_Jardin_Extraordinaire_-_14.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Nantes_-_Jardin_Extraordinaire_-_14.jpg/3840px-Nantes_-_Jardin_Extraordinaire_-_14.jpg
+    credit: 'Photo: François de Dijon / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Nantes_-_Jardin_Extraordinaire_-_14.jpg
 place:
-  id: "ChIJZae-LYvrBUgRsMxX5eUBz50"
-  name: "Le Jardin Extraordinaire"
-  address: "1 Rue Joseph Cholet, 44100 Nantes, France"
+  id: ChIJZae-LYvrBUgRsMxX5eUBz50
+  name: Le Jardin Extraordinaire
+  address: '1 Rue Joseph Cholet, 44100 Nantes, France'
   rating: 4.4
-  userRatingsTotal: 4835
-  googleMapsUrl: "https://maps.google.com/?cid=11371309671040666800&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4839
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11371309671040666800&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 47.2002722
   lng: -1.5808065000000002
-  phone: "+33 2 40 41 90 00"
+  phone: +33 2 40 41 90 00
   openingHours:
-    - "Monday: 8:30 AM – 8:00 PM"
-    - "Tuesday: 8:30 AM – 8:00 PM"
-    - "Wednesday: 8:30 AM – 8:00 PM"
-    - "Thursday: 8:30 AM – 8:00 PM"
-    - "Friday: 8:30 AM – 8:00 PM"
-    - "Saturday: 8:30 AM – 8:00 PM"
-    - "Sunday: 8:30 AM – 8:00 PM"
+    - 'Monday: 8:30 AM – 8:00 PM'
+    - 'Tuesday: 8:30 AM – 8:00 PM'
+    - 'Wednesday: 8:30 AM – 8:00 PM'
+    - 'Thursday: 8:30 AM – 8:00 PM'
+    - 'Friday: 8:30 AM – 8:00 PM'
+    - 'Saturday: 8:30 AM – 8:00 PM'
+    - 'Sunday: 8:30 AM – 8:00 PM'
   busyness:
-    updated: 2026-09-14
+    updated: 2026-09-14T00:00:00.000Z
     weekdayQuiet:
       - 9
     weekendBusy:
@@ -49,24 +57,40 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_30357a4255653558784d73526755427276594c2d65615a4a496843"
+    venueId: ven_30357a4255653558784d73526755427276594c2d65615a4a496843
 tags:
-  - "nantes"
-  - "park"
-quickAnswer: "Le Jardin Extraordinaire sits in the Malakoff district of Nantes, built into a disused quarry with cliff walls, palms, banana trees and a man-made waterfall. It's open daily from 8:30am to 8pm and free to enter. Go on a weekday between 9am and 10am to have the cascade and quarry paths largely to yourself; Saturday and Sunday afternoons between 1pm and 7pm draw the biggest crowds."
+  - nantes
+  - park
+quickAnswer: >-
+  Le Jardin Extraordinaire sits in the Malakoff district of Nantes, built into a
+  disused quarry with cliff walls, palms, banana trees and a man-made waterfall.
+  It's open daily from 8:30am to 8pm and free to enter. Go on a weekday between
+  9am and 10am to have the cascade and quarry paths largely to yourself;
+  Saturday and Sunday afternoons between 1pm and 7pm draw the biggest crowds.
 faq:
-  - q: "How much does it cost to visit Le Jardin Extraordinaire?"
-    a: "Entry is free. There's no ticket booth or booking required."
-  - q: "What are the opening hours?"
-    a: "It's open every day from 8:30am to 8pm, with no variation by day of the week."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings between 9am and 10am see the fewest visitors. Saturday and Sunday from 1pm to 7pm are the busiest, so avoid that window if you can."
-  - q: "How long should I plan for a visit?"
-    a: "Most people spend 45 minutes to an hour walking the full loop of upper and lower paths; a quick look at the cascade alone takes less."
-  - q: "How do I get there?"
-    a: "The garden is at 1 Rue Joseph Cholet in the Malakoff district, south of central Nantes near the Loire. Check current tram routes and stops before your trip, or reach it by bike along the riverside paths."
+  - q: How much does it cost to visit Le Jardin Extraordinaire?
+    a: Entry is free. There's no ticket booth or booking required.
+  - q: What are the opening hours?
+    a: >-
+      It's open every day from 8:30am to 8pm, with no variation by day of the
+      week.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings between 9am and 10am see the fewest visitors. Saturday
+      and Sunday from 1pm to 7pm are the busiest, so avoid that window if you
+      can.
+  - q: How long should I plan for a visit?
+    a: >-
+      Most people spend 45 minutes to an hour walking the full loop of upper and
+      lower paths; a quick look at the cascade alone takes less.
+  - q: How do I get there?
+    a: >-
+      The garden is at 1 Rue Joseph Cholet in the Malakoff district, south of
+      central Nantes near the Loire. Check current tram routes and stops before
+      your trip, or reach it by bike along the riverside paths.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-16'
 ---
 
 Nantes has plenty of formal gardens, but this one is built inside a hole in the ground. Le Jardin Extraordinaire occupies a former quarry in the Malakoff neighbourhood, and the granite walls that were cut away for building stone now form a natural amphitheatre around the plants.

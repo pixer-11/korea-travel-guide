@@ -1,9 +1,9 @@
 ---
 lang: ja
 slug: naples-museo-archeologico-nazionale-di-napoli
-srcHash: '9ae99fd4314e'
+srcHash: '9c8123e2ea8c'
 title: ナポリ国立考古学博物館(Museo Archeologico Nazionale di Napoli):ナポリ旅行ガイド
-description: ナポリ国立考古学博物館(MANN)は、ナポリ歴史地区のすぐ北、Piazza Museo 19にあり、ポンペイとヘルクラネウムから発掘された美術品としては世界最高峰のコレクションを誇ります。4.6★(37,292件のレビュー) — 訪問者の声、営業時間、訪問のコツをご紹介します。
+description: ナポリ国立考古学博物館(MANN)は、ナポリ歴史地区のすぐ北、Piazza Museo 19にあり、ポンペイとヘルクラネウムから発掘された美術品としては世界最高峰のコレクションを誇ります。4.6★(37,654件のレビュー) — 訪問者の声、営業時間、訪問のコツをご紹介します。
 quickAnswer: ナポリ国立考古学博物館(MANN)は、ナポリ歴史地区のすぐ北、Piazza Museo 19にあり、ポンペイとヘルクラネウムから発掘された美術品としては世界最高峰のコレクションを誇ります。火曜日を除く毎日9:00〜18:30に開館しており、見学には2〜3時間ほど見ておくとよいでしょう。週末に訪れる場合は、10:00〜18:00が最も混雑するため、開館直後の9時に行くのがおすすめです。メトロ1号線のCavour駅またはMuseo駅からいずれも徒歩すぐです。
 faq:
   - q: ナポリ国立考古学博物館(Museo Archeologico Nazionale di Napoli)にはどれくらい時間をかけるべきですか?

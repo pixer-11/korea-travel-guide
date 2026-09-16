@@ -1,40 +1,47 @@
 ---
-title: "Chinese Garden: Jurong Travel Guide (4.4★)"
-description: "Chinese Garden is a large landscaped park off Boon Lay Way in Singapore's west, built around Jurong Lake and reachable directly via Chinese Garden MRT station (East-West Line). 4.4★ (3,572 reviews) — what visitors say, hours, and tips."
-country: "Singapore"
-region: "Jurong"
-category: "attraction"
-pubDate: "2026-09-07T10:48:42.736Z"
+title: 'Chinese Garden: Jurong Travel Guide (4.4★)'
+description: >-
+  Chinese Garden is a large landscaped park off Boon Lay Way in Singapore's
+  west, built around Jurong Lake and reachable directly via Chinese Garden MRT
+  station (East-West Line). 4.4★ (3,580 reviews) — what visitors say, hours, and
+  tips.
+country: Singapore
+region: Jurong
+category: attraction
+pubDate: '2026-09-07T10:48:42.736Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Pagoda_in_Chinese_Garden_Singapore.jpg/1920px-Pagoda_in_Chinese_Garden_Singapore.jpg"
-  credit: "Photo: Jukkabrother / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Pagoda_in_Chinese_Garden_Singapore.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Pagoda_in_Chinese_Garden_Singapore.jpg/1920px-Pagoda_in_Chinese_Garden_Singapore.jpg
+  credit: 'Photo: Jukkabrother / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Pagoda_in_Chinese_Garden_Singapore.jpg
   focus:
     x: 60
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJuZ4kdB0Q2jERdp1SrojDF_I"
-  name: "Chinese Garden"
-  address: "Boon Lay Way, Singapore 619795"
+  id: ChIJuZ4kdB0Q2jERdp1SrojDF_I
+  name: Chinese Garden
+  address: 'Boon Lay Way, Singapore 619795'
   rating: 4.4
-  userRatingsTotal: 3572
-  googleMapsUrl: "https://maps.google.com/?cid=17444626673450524022&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3580
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17444626673450524022&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.3385395999999998
   lng: 103.7303578
-  phone: "+65 1800 471 7300"
+  phone: +65 1800 471 7300
   openingHours:
-    - "Monday: 5:30 AM – 12:00 AM"
-    - "Tuesday: 5:30 AM – 12:00 AM"
-    - "Wednesday: 5:30 AM – 12:00 AM"
-    - "Thursday: 5:30 AM – 12:00 AM"
-    - "Friday: 5:30 AM – 12:00 AM"
-    - "Saturday: 5:30 AM – 12:00 AM"
-    - "Sunday: 5:30 AM – 12:00 AM"
+    - 'Monday: 5:30 AM – 12:00 AM'
+    - 'Tuesday: 5:30 AM – 12:00 AM'
+    - 'Wednesday: 5:30 AM – 12:00 AM'
+    - 'Thursday: 5:30 AM – 12:00 AM'
+    - 'Friday: 5:30 AM – 12:00 AM'
+    - 'Saturday: 5:30 AM – 12:00 AM'
+    - 'Sunday: 5:30 AM – 12:00 AM'
   busyness:
-    updated: 2026-09-07
+    updated: 2026-09-07T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekendBusy:
@@ -50,23 +57,38 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_495f46446a6f725331706452456a32513042646b345a754a496843"
+    venueId: ven_495f46446a6f725331706452456a32513042646b345a754a496843
 tags:
-  - "jurong"
-  - "park"
-quickAnswer: "Chinese Garden is a large landscaped park off Boon Lay Way in Singapore's west, built around Jurong Lake and reachable directly via Chinese Garden MRT station (East-West Line). Go early on a weekday, 7am–8am, to walk the bridges and pagodas without crowds. Give yourself 1.5–2 hours for a full loop."
+  - jurong
+  - park
+quickAnswer: >-
+  Chinese Garden is a large landscaped park off Boon Lay Way in Singapore's
+  west, built around Jurong Lake and reachable directly via Chinese Garden MRT
+  station (East-West Line). Go early on a weekday, 7am–8am, to walk the bridges
+  and pagodas without crowds. Give yourself 1.5–2 hours for a full loop.
 faq:
-  - q: "Is Chinese Garden connected to Singapore's Chinatown?"
-    a: "No. It is a standalone park in Jurong, in the west of Singapore; the name refers to its Song dynasty-style landscaping, not to the historic Chinatown district."
-  - q: "How do I get to Chinese Garden?"
-    a: "Take the East-West Line (green) MRT to Chinese Garden station and exit at Exit A; the park entrance is a short walk away."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "Weekday mornings between 7am and 8am are quietest. Weekends stay busy from 10am to 10pm, so avoid Saturday and Sunday afternoons if you want fewer people."
-  - q: "How long should I plan for a visit?"
-    a: "About 1.5 to 2 hours covers the pagodas, bridges and bonsai garden at a relaxed pace. The park is open 5:30am to midnight daily."
-  - q: "Is there an entry fee?"
-    a: "No, entry to Chinese Garden is free."
+  - q: Is Chinese Garden connected to Singapore's Chinatown?
+    a: >-
+      No. It is a standalone park in Jurong, in the west of Singapore; the name
+      refers to its Song dynasty-style landscaping, not to the historic
+      Chinatown district.
+  - q: How do I get to Chinese Garden?
+    a: >-
+      Take the East-West Line (green) MRT to Chinese Garden station and exit at
+      Exit A; the park entrance is a short walk away.
+  - q: What's the best time to visit to avoid crowds?
+    a: >-
+      Weekday mornings between 7am and 8am are quietest. Weekends stay busy from
+      10am to 10pm, so avoid Saturday and Sunday afternoons if you want fewer
+      people.
+  - q: How long should I plan for a visit?
+    a: >-
+      About 1.5 to 2 hours covers the pagodas, bridges and bonsai garden at a
+      relaxed pace. The park is open 5:30am to midnight daily.
+  - q: Is there an entry fee?
+    a: 'No, entry to Chinese Garden is free.'
 aiGenerated: true
+updatedDate: '2026-09-16'
 ---
 
 ## What you're actually visiting

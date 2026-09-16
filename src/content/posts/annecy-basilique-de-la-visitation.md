@@ -4,7 +4,7 @@ description: >-
   The Basilique de la Visitation sits on a wooded hill above Annecy's old town,
   a steep 15-20 minute walk from the lakeshore, and its bell tower terrace is
   the reason to come: a free panorama over the rooftops, Lake Annecy and the
-  Bornes mountains. 4.5★ (1,921 reviews) — what visitors say, hours, and tips.
+  Bornes mountains. 4.5★ (1,922 reviews) — what visitors say, hours, and tips.
 country: France
 region: Annecy
 category: attraction
