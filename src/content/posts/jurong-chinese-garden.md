@@ -1,15 +1,15 @@
 ---
-title: "Chinese Garden: Chinatown Travel Guide (4.4★)"
-description: "Chinese Garden in Singapore isn't actually in Chinatown district; it's a large landscaped park off Boon Lay Way in the west, built around Jurong Lake and reachable directly via Chinese Garden MRT station (East-West Line). 4.4★ (3,572 reviews) — what visitors say, hours, and tips."
+title: "Chinese Garden: Jurong Travel Guide (4.4★)"
+description: "Chinese Garden is a large landscaped park off Boon Lay Way in Singapore's west, built around Jurong Lake and reachable directly via Chinese Garden MRT station (East-West Line). 4.4★ (3,572 reviews) — what visitors say, hours, and tips."
 country: "Singapore"
-region: "Chinatown"
+region: "Jurong"
 category: "attraction"
 pubDate: "2026-09-07T10:48:42.736Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/20090510_Shanghai_Yuyan_6689.jpg/1920px-20090510_Shanghai_Yuyan_6689.jpg"
-  credit: "Photo: Jakub Hałun / Wikimedia Commons (CC BY-SA 3.0)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Pagoda_in_Chinese_Garden_Singapore.jpg/1920px-Pagoda_in_Chinese_Garden_Singapore.jpg"
+  credit: "Photo: Jukkabrother / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:20090510_Shanghai_Yuyan_6689.jpg"
+  source: "https://commons.wikimedia.org/wiki/File:Pagoda_in_Chinese_Garden_Singapore.jpg"
   focus:
     x: 60
     y: 45
@@ -52,12 +52,12 @@ place:
       - 21
     venueId: "ven_495f46446a6f725331706452456a32513042646b345a754a496843"
 tags:
-  - "chinatown"
+  - "jurong"
   - "park"
-quickAnswer: "Chinese Garden in Singapore isn't actually in Chinatown district; it's a large landscaped park off Boon Lay Way in the west, built around Jurong Lake and reachable directly via Chinese Garden MRT station (East-West Line). Go early on a weekday, 7am–8am, to walk the bridges and pagodas without crowds. Give yourself 1.5–2 hours for a full loop."
+quickAnswer: "Chinese Garden is a large landscaped park off Boon Lay Way in Singapore's west, built around Jurong Lake and reachable directly via Chinese Garden MRT station (East-West Line). Go early on a weekday, 7am–8am, to walk the bridges and pagodas without crowds. Give yourself 1.5–2 hours for a full loop."
 faq:
-  - q: "Is Chinese Garden actually in Chinatown, Singapore?"
-    a: "No. It's a standalone park in Jurong, in the west of Singapore, unrelated to the historic Chinatown district. The name refers to its Chinese-style landscaping, not its location."
+  - q: "Is Chinese Garden connected to Singapore's Chinatown?"
+    a: "No. It is a standalone park in Jurong, in the west of Singapore; the name refers to its Song dynasty-style landscaping, not to the historic Chinatown district."
   - q: "How do I get to Chinese Garden?"
     a: "Take the East-West Line (green) MRT to Chinese Garden station and exit at Exit A; the park entrance is a short walk away."
   - q: "What's the best time to visit to avoid crowds?"
@@ -67,14 +67,11 @@ faq:
   - q: "Is there an entry fee?"
     a: "No, entry to Chinese Garden is free."
 aiGenerated: true
-draft: true
-heldReason: content
-heldFinal: Chinese Garden is in Jurong (1.3385, 103.7303), 12 km from Chinatown, and the body says so itself; the hero is also Yu Garden in SHANGHAI (20090510_Shanghai_Yuyan_6689.jpg). It needs a refile to region Jurong plus a real photo — two decisions, not a repair
 ---
 
 ## What you're actually visiting
 
-Chinese Garden sits on Boon Lay Way in Jurong, a good 30 minutes from the historic Chinatown district by MRT. Despite the name overlap, this is a separate 13.5-hectare park built in 1975 around Jurong Lake, designed in the style of Song dynasty gardens. Expect pagodas, arched stone bridges, courtyards and water features rather than shophouses and incense shops.
+Chinese Garden sits on Boon Lay Way in Jurong, in the west of Singapore. Despite the name, it has nothing to do with the historic Chinatown district downtown: this is a 13.5-hectare park built in 1975 around Jurong Lake, designed in the style of Song dynasty gardens. Expect pagodas, arched stone bridges, courtyards and water features rather than shophouses and incense shops.
 
 ## Layout and what to see
 
@@ -93,7 +90,7 @@ The park runs 5:30am to midnight daily, one of the longer opening windows of any
 
 ## Getting there and moving through it
 
-Chinese Garden MRT station (East-West Line, green line) sits right at the park's edge; take Exit A and you're at the entrance within a few minutes' walk. There's no separate Chinatown MRT connection here, so don't try to combine this with a Chinatown-district visit in one MRT hop.
+Chinese Garden MRT station (East-West Line, green line) sits right at the park's edge; take Exit A and you're at the entrance within a few minutes' walk. It is about 30 minutes from the city centre, so treat it as its own outing rather than a stop between downtown sights.
 
 - Entry is free; the park has no gate fee
 - Bring water and a hat: shade is patchy past the bonsai section
