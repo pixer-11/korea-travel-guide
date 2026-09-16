@@ -1,8 +1,8 @@
 ---
-title: "Hong Kong Palace Museum: North Point Travel Guide (4.4★)"
-description: "The Hong Kong Palace Museum sits in the West Kowloon Cultural District in Tsim Sha Tsui, not North Point, despite how this guide is filed; it's a short walk from Kowloon Station or the Star Ferry pier. 4.4★ (5,151 reviews) — what visitors say, hours, and tips."
+title: "Hong Kong Palace Museum: Tsim Sha Tsui Travel Guide (4.4★)"
+description: "The Hong Kong Palace Museum sits in the West Kowloon Cultural District, a short walk from Kowloon Station or the Star Ferry pier. 4.4★ (5,151 reviews) — what visitors say, hours, and tips."
 country: "Hong Kong"
-region: "North Point"
+region: "Tsim Sha Tsui"
 category: "attraction"
 pubDate: "2026-09-16T07:51:30.985Z"
 heroImage:
@@ -52,12 +52,12 @@ place:
       - 18
     venueId: "ven_63514b4e6668536364596c5251444242417053387979514a496843"
 tags:
-  - "north point"
+  - "tsim sha tsui"
   - "museum"
-quickAnswer: "The Hong Kong Palace Museum sits in the West Kowloon Cultural District in Tsim Sha Tsui, not North Point, despite how this guide is filed; it's a short walk from Kowloon Station or the Star Ferry pier. It's open daily except Tuesday, with late nights until 8pm on Friday and Saturday, and it's genuinely busy, so aim for the 6pm–7pm window on any open day if you want the galleries to yourself. Budget two to three hours, more if you want to see all nine exhibition halls."
+quickAnswer: "The Hong Kong Palace Museum sits in the West Kowloon Cultural District, a short walk from Kowloon Station or the Star Ferry pier. It's open daily except Tuesday, with late nights until 8pm on Friday and Saturday, and it's genuinely busy, so aim for the 6pm–7pm window on any open day if you want the galleries to yourself. Budget two to three hours, more if you want to see all nine exhibition halls."
 faq:
-  - q: "Is the Hong Kong Palace Museum actually in North Point?"
-    a: "No. It's in the West Kowloon Cultural District in Tsim Sha Tsui, Kowloon, across the harbour from North Point on Hong Kong Island."
+  - q: "Where exactly is the Hong Kong Palace Museum?"
+    a: "On Museum Drive in the West Kowloon Cultural District, next to M+, about a 10 to 15 minute walk from Kowloon or Austin MTR stations."
   - q: "What are the opening hours?"
     a: "10am to 6pm Wednesday, Thursday and Sunday; 10am to 8pm Friday and Saturday; 10am to 6pm Monday; closed all day Tuesday."
   - q: "When is it quietest?"
@@ -67,13 +67,11 @@ faq:
   - q: "How do I get there without a car?"
     a: "Walk 10 to 15 minutes from Kowloon or Austin MTR stations, or take the Star Ferry from Central or Wan Chai and walk or taxi the rest of the way."
 aiGenerated: true
-draft: true
-heldReason: wrong-region
 ---
 
 ## Getting your bearings
 
-The Hong Kong Palace Museum stands on Museum Drive in the West Kowloon Cultural District, a stretch of reclaimed harbourfront in Tsim Sha Tsui, Kowloon. It has no direct link to North Point on Hong Kong Island; if you're coming from there, plan on a ferry or MTR ride across the harbour.
+The Hong Kong Palace Museum stands on Museum Drive in the West Kowloon Cultural District, a stretch of reclaimed harbourfront on the Tsim Sha Tsui side of Kowloon. Coming from Hong Kong Island, it is one MTR stop or a Star Ferry ride across the harbour.
 
 The building itself is a clue to what's inside: a squared-off tower of pale gold panels, inspired by the vertical proportions of Beijing's Forbidden City gates, sitting right on the water with the Hong Kong Island skyline as backdrop.
 

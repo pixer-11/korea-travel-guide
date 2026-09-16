@@ -183,6 +183,24 @@ test('전체 말뭉치: 다른 구역 무리 한가운데 앉은 글은 주소�
   assert.equal(hits[0].evidence.region, 'Marina Bay');
 });
 
+test('전체 말뭉치: 주소가 자기 구역을 직접 말하면 좌표 무리만으로 잡지 않는다 (홍콩고궁문화박물관)', () => {
+  const HKP = (file, extra) => ({ file, country: 'Hong Kong', draft: false, inScope: false, ...extra });
+  const posts = [
+    HKP('t-1.md', { region: 'Tsim Sha Tsui', lat: 22.2940, lng: 114.1720, address: 'Tsim Sha Tsui, Kowloon, Hong Kong' }),
+    HKP('t-2.md', { region: 'Tsim Sha Tsui', lat: 22.2935, lng: 114.1735, address: 'Tsim Sha Tsui, Kowloon, Hong Kong' }),
+    HKP('t-3.md', { region: 'Tsim Sha Tsui', lat: 22.2945, lng: 114.1710, address: 'Tsim Sha Tsui, Kowloon, Hong Kong' }),
+    HKP('j-1.md', { region: 'Jordan', lat: 22.3050, lng: 114.1710, address: 'Jordan, Kowloon, Hong Kong' }),
+    HKP('j-2.md', { region: 'Jordan', lat: 22.3060, lng: 114.1705, address: 'Jordan, Kowloon, Hong Kong' }),
+    HKP('j-3.md', { region: 'Jordan', lat: 22.3045, lng: 114.1720, address: 'Jordan, Kowloon, Hong Kong' }),
+    // 구글 주소가 Tsim Sha Tsui 를 직접 말한다 — 좌표는 매립지라 Jordan 무리에 더 가깝다.
+    HKP('tsim-sha-tsui-hong-kong-palace-museum.md', { region: 'Tsim Sha Tsui', lat: 22.3018, lng: 114.1560, address: '8 Museum Drive West Kowloon, Tsim Sha Tsui, Kowloon, Hong Kong' }),
+  ];
+  assert.deepEqual(findRegionOutliers(posts), []);
+
+  // 거꾸로: 같은 좌표라도 주소가 자기 구역을 말하지 않으면 그대로 잡힌다.
+  const mis = posts.slice(0, 6).concat([HKP('tsim-sha-tsui-mystery.md', { region: 'Tsim Sha Tsui', lat: 22.3018, lng: 114.1560, address: '1 Some Street, Kowloon, Hong Kong' })]);
+  assert.deepEqual(findRegionOutliers(mis).map((h) => h.post.file), ['tsim-sha-tsui-mystery.md']);
+});
 test('전체 말뭉치: 자기 region 이 포괄 라벨이면 판정하지 않는다 (디즈니랜드/Hong Kong)', () => {
   const posts = [
     ...TST.map((p, i) => HK(`tst-${i}.md`, { ...p, address: `Tsim Sha Tsui, Kowloon, Hong Kong` })),

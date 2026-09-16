@@ -275,6 +275,15 @@ export function findRegionOutliers(posts, opts = {}) {
     // a region too thin to measure: in a dense city a legitimate Bugis post
     // sits 0.5 km from the Kampong Glam cluster, so proximity alone would hold
     // every post of every one-post district (29 false holds, 09-03 trial).
+    // …unless the official address NAMES the post's own region. The Hong Kong
+    // Palace Museum is addressed "8 Museum Drive West Kowloon, Tsim Sha Tsui,
+    // Kowloon" and filed under Tsim Sha Tsui, but the reclaimed land it stands
+    // on puts it 2.3 km from that district's guides and 1.7 km from Jordan's,
+    // so the coordinates alone held it from the 2026-09-16 publish. Google's
+    // own address beats a centroid drawn from five posts: a real mis-filing
+    // (Burj Park under Dubai Marina, addressed Downtown Dubai) never names the
+    // region it is filed under, so this veto does not cover one.
+    if (mentions(p.address, p.region)) continue;
     let best = null;
     for (const r of live) {
       if (r === p.region || related.has(r)) continue;
