@@ -1,4 +1,5 @@
 ---
+heldFinal: "2026-09-16: no photo exists to find (Commons has nothing for Futura or Via Panisperna; the venue patrol gave up after seven nights) and the post carries no place block, so its hours, price and menu were never confirmed. A rewrite from a visit, not a repair."
 title: Futura in Rome
 description: Futura is a tiny, 20-seat contemporary restaurant that opened in 2025 on Via Panisperna in Monti, run by chef Anastasia Paris, with an open-air kitchen and chef's table that puts you right next to the cooking action.
 country: Italy

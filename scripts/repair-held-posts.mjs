@@ -126,9 +126,16 @@ const finalHeld = readdirSync(DIR)
   .map((f) => f.replace(/\.md$/, ''))
   .map((slug) => [slug, finalNote(readFileSync(join(DIR, `${slug}.md`), 'utf8'))])
   .filter(([, note]) => note !== '');
+// The decision itself lives in each file's heldFinal line, and it does not
+// change: printing all eleven of them in full every night buried the two or
+// three lines that were actually about tonight. The names are enough to look
+// one up; a NEW decision is called out, because that one is news.
 if (finalHeld.length) {
-  console.log(`영구 격리 ${finalHeld.length}편 (재시도 안 함): ` +
-    finalHeld.map(([slug, note]) => `${slug} — ${note}`).join(' · '));
+  const today = new Date().toISOString().slice(0, 10);
+  const fresh = finalHeld.filter(([, note]) => note.includes(today));
+  console.log(`영구 격리 ${finalHeld.length}편 (재시도 안 함, 사유는 각 글의 heldFinal): ` +
+    finalHeld.map(([slug]) => slug).join(', '));
+  for (const [slug, note] of fresh) console.log(`  · 오늘 결정: ${slug} — ${note}`);
 }
 
 const before = [...flagged, ...healed];

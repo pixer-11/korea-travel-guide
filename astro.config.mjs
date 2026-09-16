@@ -441,6 +441,14 @@ function regionRedirects() {
     // decide it: KEPT the one with the correct slug and a hero of the park itself
     // (the gone twin showed the tower from Safa Park).
     ['dubai-marina-burj-park', 'downtown-dubai-burj-park'],
+    // Three duplicate EVENT drafts, quarantined since August and reported every
+    // night as unrepairable: each is the second write-up of a festival or tour
+    // date that already has a published guide. The events have ended, so there
+    // is nothing left to merge — the losing files are deleted and their URLs
+    // point at the twin that kept the coverage (2026-09-16).
+    ['jakarta-lalala-fest-2026', 'jakarta-lalala-festival-2026'],
+    ['jakarta-the-sounds-project-2026', 'jakarta-the-sounds-project-vol-9'],
+    ['kuala-lumpur-f-forever-world-tour-kuala-lumpur', 'kuala-lumpur-f-forever-1st-world-tour'],
   ];
   // Resolve one hop at build time: when the KEPT twin is itself quarantined,
   // pointing at it produced a 301→301 chain ending wherever the draft rule

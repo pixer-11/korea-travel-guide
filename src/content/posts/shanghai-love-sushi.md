@@ -1,4 +1,5 @@
 ---
+heldFinal: "2026-09-16: no photo exists to find. Seven nights of venue-photo search and a Commons search both come back empty, and a named restaurant may not publish photoless — that policy is events-only."
 title: 'Love Sushi: Where to Eat in Shanghai'
 description: 'Love Sushi in Shanghai, China — a new/trending spot: what it is, where it is, and how to visit.'
 country: China

@@ -1,4 +1,5 @@
 ---
+heldFinal: "2026-09-16: no photo exists to find. The venue patrol gave up after seven nights (Foursquare has none, Commons returns 17th-century manuscripts for the name), and a named restaurant may not publish photoless — that policy is events-only. Nothing for a tool to retry."
 title: 'Jo''s Burger: Where to Eat in Marseille'
 description: 'Jo''s Burger in Marseille, France — a new/trending spot: what it is, where it is, and how to visit.'
 country: France
