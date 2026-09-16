@@ -6,7 +6,7 @@ title: '3-Day Siem Reap Itinerary: Angkor Temples, Museum & Old Market'
 description: A 3-day Siem Reap itinerary moving through Angkor Thom's temples, the Angkor National Museum and riverside Old Market, and further-out sites like Ta Prohm, Pre Rup, and Banteay Srei.
 quickAnswer: 'This is a 3-day Siem Reap itinerary: day one circles the temples of Angkor Thom and ends at sunset on Phnom Bakheng, day two shifts into central Siem Reap for the Angkor National Museum, Royal Independence Gardens, Wat Bo, and the Old Market, and day three ranges further into the Angkor Archaeological Park across Preah Khan, Ta Prohm, Pre Rup, and Banteay Srei.'
 pubDate: '2026-09-09T14:43:17.839Z'
-stopsHash: 5a46dd5d96ab6bbc70e4220ebd9b9a72ec4c6de0
+stopsHash: 96279aff6e0e34c87fcb1a082ec7dc65addca2b7
 packedAvailable: true
 faq:
   - q: How should I get around Siem Reap for this itinerary?
@@ -94,12 +94,12 @@ itinerary:
         dwellMin: 53
         walkToNext:
           km: 0.2
-          minutes: 3
+          minutes: 2
           transit: false
-      - slug: siem-reap-siem-reap-art-center-night-market
+      - slug: siem-reap-pub-street
         slot: evening
-        why: A hidden-gem rated 4.2 by visitors, included as a stop on this route.
-        dwellMin: 90
+        why: A attraction rated 4.4 by visitors, included as a stop on this route.
+        dwellMin: 120
         walkToNext: null
     rainSwapSlug: null
   - label: Jungle ruins and a countryside sunset
@@ -137,6 +137,6 @@ itinerary:
     rainSwapSlug: null
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-10T08:04:19.280Z'
+updatedDate: '2026-09-16T13:42:46.504Z'
 ---
 

@@ -18,12 +18,12 @@
    "hits": 7
   },
   "art gallery": {
-   "attempts": 48,
+   "attempts": 59,
    "hits": 7
   },
   "night view": {
-   "attempts": 43,
-   "hits": 6
+   "attempts": 45,
+   "hits": 7
   },
   "waterfront": {
    "attempts": 30,
@@ -90,7 +90,7 @@
    "hits": 2
   },
   "grill": {
-   "attempts": 6,
+   "attempts": 18,
    "hits": 0
   },
   "design shop": {
@@ -178,5 +178,5 @@
    "hits": 0
   }
  },
- "updated": "2026-09-16T08:01:13.370Z"
+ "updated": "2026-09-16T13:40:08.696Z"
 }

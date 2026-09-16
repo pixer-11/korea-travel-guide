@@ -28922,5 +28922,33 @@
   "registerBreak": false,
   "worst": "整座建筑是一座方正的塔形结构，外墙覆以浅金色板材，灵感来自北京故宫城门那种竖直比例，就矗立在水边，背景是香港岛的天际线。",
   "at": "2026-09-16T12:39:40.314Z"
+ },
+ "es/siem-reap-pub-street": {
+  "hash": "c66e217462a1",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Dado que Pub Street tiene una calificación muy popular y un carácter claramente turístico",
+  "at": "2026-09-16T13:41:44.131Z"
+ },
+ "ja/siem-reap-pub-street": {
+  "hash": "5d53be44e50b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "それでもカンボジアのどこよりも、1平方メートルあたりのネオンと喧騒が詰まった場所になっています。",
+  "at": "2026-09-16T13:42:42.903Z"
+ },
+ "ko/siem-reap-pub-street": {
+  "hash": "cb2366e9b2f7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "제곱미터당 네온 불빛과 소음의 밀도로 따지면 캄보디아 어디에도 이만한 곳이 없습니다.",
+  "at": "2026-09-16T13:42:00.504Z"
+ },
+ "zh/siem-reap-pub-street": {
+  "hash": "02c83b788909",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "街上几家标志性酒吧撑起了这条街的招牌，比如Angkor What?、Temple Club和Miss Wong，此外还有各种一美元啤酒摊和披萨店",
+  "at": "2026-09-16T13:42:03.718Z"
  }
 }
