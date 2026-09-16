@@ -15,6 +15,7 @@
 //  Usage: node scripts/pinterest-publish.mjs
 // ─────────────────────────────────────────────────────────────
 import './lib/env.mjs';
+import { pinDescription } from './lib/pin-description.mjs';
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
@@ -296,8 +297,8 @@ async function main() {
 
       const boardId = await ensureBoard(post.country, state);
       const link = `${SITE_URL}/posts/${post.slug}/`;
-      const description = `${post.description || post.title}`.slice(0, 460) +
-        ` | ${post.region}, ${post.country} — full guide on Wander Atlas.`;
+      // Written for Pinterest search, not for Google (lib/pin-description.mjs).
+      const description = pinDescription(post);
       const pin = await api('/pins', {
         method: 'POST',
         body: JSON.stringify({
