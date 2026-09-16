@@ -6,13 +6,13 @@ region: Kuala Lumpur
 category: trendy
 pubDate: '2026-07-29'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/87850848_Ms8OKvvC1bTw_dHOuL-FmF4mx5QKpGd9sjF4g5aThNA.jpg
+  url: https://fastly.4sqi.net/img/general/original/8047627_4LRYabjKvKORsMAMtOvVLWpWLBsv13znzlcePtlPEao.jpg
   credit: 'Photo: Foursquare user content (Jalinan)'
   license: foursquare
   source: https://foursquare.com/v/6a3131345f747975527bac49
   focus:
-    x: 50
-    'y': 50
+    x: 45
+    'y': 65
 tags:
   - kuala lumpur
   - new & trending
@@ -29,7 +29,6 @@ faq:
   - q: What's the best time to visit?
     a: Dinner and evening drinks suit the concept best. Since it's a recent opening, confirm the actual hours and any closed days directly before you go, as schedules can shift in the early months.
 aiGenerated: true
-draft: true
 ---
 
 ## Why Jalinan is worth your evening

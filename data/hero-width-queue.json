@@ -1469,7 +1469,6 @@
   "tokyo-zojo-ji\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Z%C5%8Dj%C5%8D-ji_20241021.jpg/1920px-Z%C5%8Dj%C5%8D-ji_20241021.jpg": 1920,
   "verona-castelvecchio-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Verona%2C_castelvecchio%2C_museo_01.jpg/1920px-Verona%2C_castelvecchio%2C_museo_01.jpg": 1920,
   "zamboanga-city-zamboanga-hermosa-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Hermosa_Festival_of_Zamboanga.jpg/3840px-Hermosa_Festival_of_Zamboanga.jpg": 3840,
-  "tokyo-smith-wollensky\u0001https://fastly.4sqi.net/img/general/original/7395498_vw5wVFT2tzY_OMW_7gjP9Ro5r1BDrDCc4vTUq0Mja8Y.jpg": 1440,
   "bangkok-bangkok-international-festival-of-dance-music\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Thailand_Cultural_Centre_2.jpg/1920px-Thailand_Cultural_Centre_2.jpg": 1920,
   "bangkok-the-weeknd-after-hours-til-dawn-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/The_Weeknd_by_David_Hwang.jpg/1920px-The_Weeknd_by_David_Hwang.jpg": 1920,
   "bhubaneswar-lingaraj-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lingaraj_Temple%2C_Bhubaneswar%2C_Odisha_2.jpg/3840px-Lingaraj_Temple%2C_Bhubaneswar%2C_Odisha_2.jpg": 3840,
@@ -1560,7 +1559,6 @@
   "nikko-nikko-tamozawa-imperial-villa-memorial-park\u0001https://upload.wikimedia.org/wikipedia/commons/3/3c/Nikko_former_imperial_villa_Tamozawa.jpg": 3264,
   "taroko-gorge-lushui-trail\u0001https://upload.wikimedia.org/wikipedia/commons/8/81/Lushui_-_Wenshan_trail%2C_Taiwan_%2850653413188%29.jpg": 3368,
   "davao-malagos-garden-resort\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Malagos_Garden_Resort_Aviary_%2849483553792%29.jpg/1920px-Malagos_Garden_Resort_Aviary_%2849483553792%29.jpg": 1920,
-  "bologna-museo-per-la-memoria-di-ustica\u0001https://upload.wikimedia.org/wikipedia/commons/b/b5/Museo_per_la_Memoria_di_Ustica_e_Parco_della_Zucca.jpg": 800,
   "cannes-la-malmaison\u0001https://upload.wikimedia.org/wikipedia/commons/b/b7/La_Malmaison_%28Cannes%29_en_avril_2023.JPG": 2409,
   "guilin-elephant-trunk-hill\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Xiangshan_Scenic_Area_89468-Guilin_%2831130832628%29.jpg/1920px-Xiangshan_Scenic_Area_89468-Guilin_%2831130832628%29.jpg": 1920,
   "downtown-dubai-burj-park\u0001https://upload.wikimedia.org/wikipedia/commons/1/1b/Burj_Khalifa_Park_-1_%285373761159%29.jpg": 2048,
@@ -1575,7 +1573,32 @@
   "putrajaya-putra-mosque\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Masjid_Putra%2C_Putrajaya%2C_Malaysia.jpg/1920px-Masjid_Putra%2C_Putrajaya%2C_Malaysia.jpg": 1920,
   "siena-palazzo-salimbeni\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Palazzo_Salimbeni%2C_Siena%2C_Headquarters_of_Monte_dei_Paschi_di_Siena%2C_the_worlds_oldest_surviving_bank.jpg/1920px-Palazzo_Salimbeni%2C_Siena%2C_Headquarters_of_Monte_dei_Paschi_di_Siena%2C_the_worlds_oldest_surviving_bank.jpg": 1920,
   "kumamoto-suizenji-jojuen-garden\u0001https://upload.wikimedia.org/wikipedia/commons/f/f4/Suizenji_Joju_Garden_9.JPG": 3235,
-  "siena-santa-maria-della-scala\u0001https://upload.wikimedia.org/wikipedia/commons/3/32/Chapel_of_the_Relics_-_Santa_Maria_della_Scala_-_Siena_2016.jpg": 2394
+  "siena-santa-maria-della-scala\u0001https://upload.wikimedia.org/wikipedia/commons/3/32/Chapel_of_the_Relics_-_Santa_Maria_della_Scala_-_Siena_2016.jpg": 2394,
+  "aberdeen-tin-hau-temple-aberdeen\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Aberdeen_Tin_Hau_Temple_24-02-2026.jpg/3840px-Aberdeen_Tin_Hau_Temple_24-02-2026.jpg": 3840,
+  "annecy-basilique-de-la-visitation\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Basilique_de_la_Visitation_-_208.jpg/3840px-Basilique_de_la_Visitation_-_208.jpg": 3840,
+  "bologna-basilica-di-san-petronio\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bologna_Italy_San_Petronio_from_Asinelli.jpg/1920px-Bologna_Italy_San_Petronio_from_Asinelli.jpg": 1920,
+  "bologna-giardini-margherita\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Giardini_margherita_bologna_italy.jpg/1920px-Giardini_margherita_bologna_italy.jpg": 1920,
+  "cannes-abbaye-de-lerins\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/%D0%9B%D0%B5%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0_%D0%B8_%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2_%D0%AD%D1%81%D1%82%D0%B5%D1%80%D0%B5%D0%BB%D1%8C.jpg/1920px-%D0%9B%D0%B5%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0_%D0%B8_%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2_%D0%AD%D1%81%D1%82%D0%B5%D1%80%D0%B5%D0%BB%D1%8C.jpg": 1920,
+  "chiba-national-museum-of-japanese-history\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/National_Museum_of_Japanese_History_2008.jpg/1920px-National_Museum_of_Japanese_History_2008.jpg": 1920,
+  "bologna-museo-per-la-memoria-di-ustica\u0001https://fastly.4sqi.net/img/general/original/26086739_9Rf_WIr3VGdU55oQ77J5ju5QmKCjt9uDPifvDrQwOHk.jpg": 1920,
+  "guilin-yangshuo-park\u0001https://upload.wikimedia.org/wikipedia/commons/e/e6/Yangshuo_Park_-_panoramio.jpg": 2625,
+  "cannes-croix-des-gardes\u0001https://upload.wikimedia.org/wikipedia/commons/0/05/Parc_de_la_Croix-des-Gardes%2C_Cannes_%282014%29.JPG": 2044,
+  "chiba-naritasan-shinsho-ji\u0001https://upload.wikimedia.org/wikipedia/commons/e/e7/Naritasan_Shinsh%C5%8D-ji_Temple_%2815254133392%29.jpg": 1024,
+  "hua-hin-wat-hua-hin\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hua_Hin%2C_Wat_Isukato_-_panoramio.jpg/3840px-Hua_Hin%2C_Wat_Isukato_-_panoramio.jpg": 3840,
+  "jurong-chinese-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Pagoda_in_Chinese_Garden_Singapore.jpg/1920px-Pagoda_in_Chinese_Garden_Singapore.jpg": 1920,
+  "kuala-lumpur-jalinan\u0001https://fastly.4sqi.net/img/general/original/8047627_4LRYabjKvKORsMAMtOvVLWpWLBsv13znzlcePtlPEao.jpg": 1440,
+  "little-india-former-house-of-tan-teng-niah\u0001https://fastly.4sqi.net/img/general/original/1608906_BP7rP1M3Vv9A4npYC4s_fdA_ZuUUfS0wvaIJ6MRFIi8.jpg": 1920,
+  "monza-giardini-della-villa-reale\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/AUTUNNO_NEI_GIARDINI_REALI_DELLA_VILLA_REALE_DI_MONZA.jpg/3840px-AUTUNNO_NEI_GIARDINI_REALI_DELLA_VILLA_REALE_DI_MONZA.jpg": 3840,
+  "monza-palazzo-dell-arengario\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Arengario_Milano_Museo_900.jpg/1920px-Arengario_Milano_Museo_900.jpg": 1920,
+  "pisa-battistero-di-san-giovanni\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Pisa%2C_battistero_di_San_Giovanni_%2836%29.jpg/3840px-Pisa%2C_battistero_di_San_Giovanni_%2836%29.jpg": 3840,
+  "hua-hin-khao-sam-roi-yot-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/7/7d/Harbour_Bang_Pu.jpg": 1700,
+  "seattle-ba-bar-green\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Seattle_in_October_2022_-_094.jpg/1920px-Seattle_in_October_2022_-_094.jpg": 1920,
+  "siem-reap-pub-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Pub_Street%2C_Siem_Reap.jpg/3840px-Pub_Street%2C_Siem_Reap.jpg": 3840,
+  "siena-horti-leonini\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Horti_Leonini_ingresso_2.jpg/3840px-Horti_Leonini_ingresso_2.jpg": 3840,
+  "tokyo-smith-wollensky\u0001https://fastly.4sqi.net/img/general/original/528907406_D_WjAKAGwdGuN9wplSAp2z36tEmwvyQirXoA71I_s34.jpg": 1912,
+  "tsim-sha-tsui-hong-kong-palace-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hong_Kong_Palace_Museum_2022.jpg/1920px-Hong_Kong_Palace_Museum_2022.jpg": 1920,
+  "ubud-ubud-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Ubud_Palace_%282022%29.jpg/1920px-Ubud_Palace_%282022%29.jpg": 1920,
+  "putrajaya-putra-perdana-park\u0001https://upload.wikimedia.org/wikipedia/commons/1/1f/Panorama_of_Taman_Putra_Perdana%2C_Putrajaya_-_panoramio.jpg": 2857
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -1699,8 +1722,8 @@
   },
   "bali-oryn": {
    "width": 1080,
-   "attempts": 4,
-   "nextTry": "2026-09-16",
+   "attempts": 5,
+   "nextTry": "2026-09-23",
    "flaggedAt": "2026-08-19",
    "lastResult": "no-wider"
   },
@@ -1776,8 +1799,8 @@
   },
   "nagoya-asian-games-2026": {
    "width": 960,
-   "attempts": 2,
-   "nextTry": "2026-09-16",
+   "attempts": 3,
+   "nextTry": "2026-09-23",
    "flaggedAt": "2026-09-02",
    "lastResult": "no-wider"
   },
@@ -1866,5 +1889,5 @@
    "lastResult": "no-wider"
   }
  },
- "updated": "2026-09-15T22:25:42.113Z"
+ "updated": "2026-09-16T22:17:27.472Z"
 }

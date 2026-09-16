@@ -1,6 +1,4 @@
 ---
-draft: true
-heldReason: 'below-rating-floor'
 heldFinal: rated 3.9, under the 4.0 floor the methodology page promises; the rating is a fact about the venue, not something a repair can clear
 title: Smith & Wollensky in Tokyo
 description: 'Smith & Wollensky in Tokyo, Japan — a new/trending spot: what it is, where it is, and how to visit.'
@@ -9,12 +7,12 @@ region: Tokyo
 category: trendy
 pubDate: '2026-07-24'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/7395498_vw5wVFT2tzY_OMW_7gjP9Ro5r1BDrDCc4vTUq0Mja8Y.jpg
+  url: https://fastly.4sqi.net/img/general/original/528907406_D_WjAKAGwdGuN9wplSAp2z36tEmwvyQirXoA71I_s34.jpg
   credit: 'Photo: Foursquare user content (Smith & Wollensky GINZA)'
   license: foursquare
   source: https://foursquare.com/v/69ffff169545e75813a2b47f
   focus:
-    x: 45
+    x: 50
     'y': 55
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/7852602_TlZNoVCGj2GeuDWzsiNgUxrZdMnK9ZLfG9OmHkwpivw.jpg

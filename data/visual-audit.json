@@ -6482,9 +6482,8 @@
   "tokyo-smith-wollensky\u0001https://fastly.4sqi.net/img/general/original/528907406_D_WjAKAGwdGuN9wplSAp2z36tEmwvyQirXoA71I_s34.jpg": {
     "slug": "tokyo-smith-wollensky",
     "verdict": "MATCH",
-    "reason": "Smith & Wollensky storefront signage clearly visible",
-    "reasonKo": "스미스앤울렌스키 간판 명확히 표시",
-    "at": "2026-08-07T09:21:14.300Z"
+    "reason": "patrol replace: Storefront signage clearly shows Smith & Wollensky",
+    "at": "2026-09-16T22:16:02.498Z"
   },
   "abu-dhabi-christina-aguilera-live\u0001https://upload.wikimedia.org/wikipedia/commons/5/5d/Christina_Aguilera_-_Genie_In_A_Bottle_%28Live_%40_Rio_de_Janeiro%29_2025_03.jpg": {
     "slug": "abu-dhabi-christina-aguilera-live",
@@ -19122,5 +19121,23 @@
     "verdict": "MATCH",
     "reason": "publish gate: Street view with Pub Street signage, tuk-tuks, matches venue",
     "at": "2026-09-16T13:40:01.749Z"
+  },
+  "kuala-lumpur-jalinan\u0001https://fastly.4sqi.net/img/general/original/8047627_AxaF2atD47cvS3ug3bk5V2LlquQzx6b7nSB10b3eayQ.jpg": {
+    "slug": "kuala-lumpur-jalinan",
+    "verdict": "MISMATCH",
+    "reason": "patrol reject: Isolated plated dish shot, not showing venue setting",
+    "at": "2026-09-16T22:16:16.343Z"
+  },
+  "kuala-lumpur-jalinan\u0001https://fastly.4sqi.net/img/general/original/8047627_4LRYabjKvKORsMAMtOvVLWpWLBsv13znzlcePtlPEao.jpg": {
+    "slug": "kuala-lumpur-jalinan",
+    "verdict": "MATCH",
+    "reason": "patrol replace: Plated modern Asian cuisine with edible flowers, trendy styl",
+    "at": "2026-09-16T22:16:19.424Z"
+  },
+  "chiba-naritasan-shinsho-ji\u0001https://fastly.4sqi.net/img/general/original/2591245_VF7UFAcR1RAF4s-xwFPkRyJ6jpTARSZKoi9O_StTpz0.jpg": {
+    "slug": "chiba-naritasan-shinsho-ji",
+    "verdict": "MATCH",
+    "reason": "width upgrade: Main temple hall exterior, representative view of Naritasan Shinsho-ji",
+    "at": "2026-09-16T22:17:27.465Z"
   }
 }
