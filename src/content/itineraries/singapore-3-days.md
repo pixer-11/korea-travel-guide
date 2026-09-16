@@ -6,7 +6,7 @@ title: '3-Day Singapore Itinerary: Marina Bay, Jurong Gardens & East Coast'
 description: A 3-day Singapore itinerary moving from Marina Bay's gardens and heritage streets to Jurong's lakes and gardens, then out to the beaches and markets of the east coast.
 quickAnswer: 'This is a 3-day Singapore itinerary: day one covers Marina Bay''s gardens, a Marina Bay Sands dining stop, and Kampong Glam''s Bussorah Street; day two spends the day in Jurong''s gardens and lakes; day three moves along the east coast from a beachfront park to a wet market and a neighborhood park in Katong.'
 pubDate: '2026-08-13T00:35:14.044Z'
-stopsHash: 33f3835f63170bf34cb63f470fe9d7a5a8d7017f
+stopsHash: 20cb7ff1524f31599f69fadabd5625ca008c6c23
 packedAvailable: true
 faq:
   - q: How should I get around for this 3-day Singapore itinerary?
@@ -76,14 +76,6 @@ itinerary:
         slot: afternoon
         why: This quiet, traditionally landscaped garden is still under-the-radar, making it a peaceful way to close out the day.
         dwellMin: 68
-        walkToNext:
-          km: 7.4
-          minutes: null
-          transit: true
-      - slug: bukit-timah-murugan-hill-temple
-        slot: evening
-        why: A attraction rated 4.7 by visitors, included as a stop on this route.
-        dwellMin: 30
         walkToNext: null
     rainSwapSlug: bukit-timah-former-ford-factory
   - label: East coast to Katong
@@ -113,6 +105,6 @@ itinerary:
     rainSwapSlug: kampong-glam-malay-heritage-centre
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-15T08:10:03.557Z'
+updatedDate: '2026-09-16T12:39:42.147Z'
 ---
 

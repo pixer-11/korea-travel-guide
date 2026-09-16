@@ -6,8 +6,8 @@ title: 'Tokyo in 3 Days: Shrines, Digital Art, Markets, and Temples'
 description: A 3-day Tokyo itinerary moving through Shibuya and Shinjuku City, then Koto City and Minato City, then Minato City and Taito City, mixing shrines, gardens, digital art, markets, and temples.
 quickAnswer: 'This is a 3-day Tokyo itinerary: day one covers Shibuya and Shinjuku City with a shrine, a garden, and a famous crossing; day two moves from Koto City''s digital art museum to a market lunch and Minato City''s tower views; day three covers Minato City and Taito City with temples and a major museum in between.'
 pubDate: '2026-07-28T01:22:55.600Z'
-stopsHash: 431a036e4169a857f4efc9592e8c27aa31739922
-packedAvailable: true
+stopsHash: f2b1bde870758a690784dba40583348f9e1ca0b6
+packedAvailable: false
 faq:
   - q: How much walking is involved in this itinerary?
     a: Some stops are within walking distance of each other, like the shrine and garden on day one, while others, such as the museum-to-tower or market-to-tower connections, are listed as beyond walking distance and better covered by transit.
@@ -36,17 +36,9 @@ itinerary:
         why: The outer market's grid of stalls and small eateries serves fresh sashimi, grilled skewers, and tamagoyaki, making it a natural lunch stop full of variety.
         dwellMin: 105
         walkToNext:
-          km: 1.1
+          km: 2.8
           minutes: null
           transit: true
-      - slug: tokyo-hamarikyu-gardens
-        slot: afternoon
-        why: A attraction rated 4.5 by visitors, included as a stop on this route.
-        dwellMin: 75
-        walkToNext:
-          km: 1.8
-          minutes: 24
-          transit: false
       - slug: tokyo-zojo-ji
         slot: afternoon
         why: Zojo-ji's wooden Sanmon gate framed against Tokyo Tower makes this a striking, low-key morning temple visit.
@@ -89,12 +81,12 @@ itinerary:
   - label: Temples, treasures, and Asakusa lanes
     intro: Day three begins at Minato City's Zojo-ji temple, crosses to Taito City for the deep collections of the Tokyo National Museum, and ends among the gates and lanes of Sensō-ji in Asakusa. It's a day anchored in Tokyo's temple culture and museum-grade history.
     stops:
-      - slug: tokyo-senso-ji
+      - slug: tokyo-hamarikyu-gardens
         slot: morning
-        why: Sensō-ji, Tokyo's oldest temple, anchors the evening with its Nakamise-dōri approach, Five-Story Pagoda, and neighboring Asakusa Shrine.
-        dwellMin: 105
+        why: A attraction rated 4.5 by visitors, included as a stop on this route.
+        dwellMin: 75
         walkToNext:
-          km: 2.4
+          km: 8.7
           minutes: null
           transit: true
       - slug: tokyo-tokyo-national-museum
@@ -102,17 +94,17 @@ itinerary:
         why: As a five-building complex holding Japan's largest collection of Japanese art and antiquities, this museum rewards a longer, unhurried afternoon.
         dwellMin: 150
         walkToNext:
-          km: 7.2
+          km: 2.4
           minutes: null
           transit: true
-      - slug: tokyo-smith-wollensky
+      - slug: tokyo-senso-ji
         slot: evening
-        why: A trendy rated 3.9 by visitors, included as a stop on this route.
-        dwellMin: 90
+        why: Sensō-ji, Tokyo's oldest temple, anchors the evening with its Nakamise-dōri approach, Five-Story Pagoda, and neighboring Asakusa Shrine.
+        dwellMin: 105
         walkToNext: null
     rainSwapSlug: tokyo-ise-sueyoshi
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-11T08:00:06.378Z'
+updatedDate: '2026-09-16T12:39:41.688Z'
 ---
 

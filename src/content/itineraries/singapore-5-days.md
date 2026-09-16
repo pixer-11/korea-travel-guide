@@ -6,7 +6,7 @@ title: '5-Day Singapore Itinerary: Gardens, Rainforest, Sentosa, Jurong & the Ea
 description: A 5-day Singapore itinerary moving from Marina Bay's gardens and Kampong Glam's heritage streets through Bukit Timah's rainforest, Sentosa's fort and southern ridge, Jurong's lakes and gardens, and Katong's coastal parks and markets.
 quickAnswer: This 5-day Singapore itinerary covers Marina Bay and Kampong Glam on day one, Bukit Timah's nature reserves on day two, Sentosa and the southern ridge parks on day three, Jurong's attractions and gardens on day four, and Katong's coastline and markets on day five, mixing hidden-gem parks, big-name attractions, and local food stops.
 pubDate: '2026-08-13T00:36:52.182Z'
-stopsHash: 8747f0aa0e1fe5c3ed2e9e147a52ebe2519f8fdf
+stopsHash: d8fb1735e717cee05ae6ceec1aea053fc321b4b4
 packedAvailable: true
 faq:
   - q: How should I get around for this 5-day Singapore itinerary?
@@ -127,13 +127,13 @@ itinerary:
         why: As Singapore's largest park outside the city centre, this lakeside green space anchors the afternoon with its wetland boardwalk, playgrounds, and open-air scenery.
         dwellMin: 240
         walkToNext:
-          km: 0.7
-          minutes: 9
-          transit: false
-      - slug: jurong-japanese-garden
+          km: 0.8
+          minutes: null
+          transit: true
+      - slug: jurong-chinese-garden
         slot: evening
-        why: This quiet, traditionally landscaped island park with ponds and stone lanterns offers a calm, under-the-radar close to the Jurong day.
-        dwellMin: 68
+        why: A attraction rated 4.4 by visitors, included as a stop on this route.
+        dwellMin: 120
         walkToNext: null
     rainSwapSlug: bugis-lee-kong-chian-natural-history-museum-singapore
   - label: East Coast sands to Katong's quiet corners
@@ -163,6 +163,6 @@ itinerary:
     rainSwapSlug: kampong-glam-malay-heritage-centre
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-15T08:10:03.639Z'
+updatedDate: '2026-09-16T12:39:42.209Z'
 ---
 
