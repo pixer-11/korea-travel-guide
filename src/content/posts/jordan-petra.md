@@ -73,7 +73,7 @@ aiGenerated: true
 draft: true
 heldReason: wrong-country
 updatedDate: '2026-09-05'
-heldFinal: the place data is Petra in Jordan the COUNTRY (30.328, 35.444) but the post is filed under Hong Kong region Jordan, and Jordan is not one of our countries; publishing it means adding a country, which is a decision, not a repair
+heldFinal: "the place data is Petra in Jordan the COUNTRY (30.328, 35.444) but the post is filed under Hong Kong region Jordan. DECIDED 2026-09-16: Jordan is not added. Adding a country is the full relay — hubs, itineraries, when-to-go, eSIM, a seed batch and five languages — and the site's bottleneck is not content volume: Google has not indexed a new page since 2026-07-25, so 20 active countries already outrun what search will read. One post about Petra does not change that arithmetic. The file stays a draft because its URL was live once and the draft rule 301s it to a real page; if Jordan is ever added deliberately, this post is the seed to regenerate from."
 ---
 
 ## Why Petra stops you in your tracks
