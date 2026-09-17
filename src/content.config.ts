@@ -115,6 +115,10 @@ const posts = defineCollection({
         userRatingsTotal: z.number().optional(),
         priceLevel: z.number().optional(),
         googleMapsUrl: z.string().optional(),
+        // The venue's OWN site. Filled by hand only, from the operator or from a
+        // source that names the venue — never scraped, because a wrong official
+        // link is worse than none (added 2026-09-17 at a Koh Samui owner's request).
+        website: z.string().url().optional(),
         businessStatus: z.string().optional(),
         lat: z.number().optional(),
         lng: z.number().optional(),

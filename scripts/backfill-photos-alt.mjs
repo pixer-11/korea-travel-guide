@@ -671,7 +671,13 @@ for (const f of files) {
     const closed = wasDraft && !!data.place?.businessStatus
       && data.place.businessStatus !== 'OPERATIONAL';
     if (closed) data.heldReason = data.heldReason || 'closed';
-    if (wasDraft && !heldByGate && !twinLive && !closed) {
+    // A post carrying heldFinal is a DECISION someone wrote down — "rated 3.9,
+    // under the floor", "the show was cancelled", "no photo of this venue
+    // exists". Reason names keep being invented and this patrol keeps learning
+    // them one incident at a time; heldFinal needs no list. A machine never
+    // lifts a decision, whatever it just found (2026-09-17).
+    const decided = wasDraft && Boolean(data.heldFinal);
+    if (wasDraft && !heldByGate && !twinLive && !closed && !decided) {
       delete data.draft;
       // A photo-class hold (wrong-venue-photo etc.) IS lifted by a verified
       // new hero — clear its marker too, or it lingers as a false alarm.
@@ -686,6 +692,7 @@ for (const f of files) {
       out = `---\n${yaml.dump(data, { lineWidth: -1, noRefs: true, sortKeys: false })}---\n${content}`;
     }
     if (heldByGate) console.log(`   ${slug}: hero replaced, but the post stays held (heldReason: ${data.heldReason})`);
+    if (decided) console.log(`   ${slug}: hero replaced, but the post stays held — heldFinal records a decision`);
     if (twinLive) console.log(`   ${slug}: hero replaced, but the post stays held — an event already live covers the same show`);
     await writeFile(path, out, 'utf8');
     markUsedImage(used, cand.url);

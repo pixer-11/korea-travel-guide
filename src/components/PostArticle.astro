@@ -446,6 +446,7 @@ if (p?.name) {
     // SHOW the rating on-page, clearly attributed to Google.
     priceRange: typeof p.priceLevel === 'number' ? priceLabelsSchema[p.priceLevel] : undefined,
     telephone: p.phone || undefined,
+    url: p.website || undefined,
     hasMap: p.googleMapsUrl,
   });
 }
@@ -855,6 +856,9 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
           )}
           {ticketable && p.name && (
             <a class="fact-ticket" href={klookPlace} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> {t('post.ticketsFor').replace('{place}', placeLabel)}</a>
+          )}
+          {p.website && (
+            <a class="map-link" href={p.website} target="_blank" rel="noopener"><Emoji name="globe-showing-asia-australia" /> {t('post.officialSite')}</a>
           )}
           {p.googleMapsUrl && (
             <a class="map-link" href={p.googleMapsUrl} target="_blank" rel="noopener"><Emoji name="round-pushpin" /> {t('post.openMaps')}</a>

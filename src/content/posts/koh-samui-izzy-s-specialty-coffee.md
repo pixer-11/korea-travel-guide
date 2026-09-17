@@ -1,10 +1,11 @@
 ---
 title: 'Izzy s Specialty Coffee: Koh Samui Travel Guide'
 description: >-
-  Izzy's Specialty Coffee is a small-batch café tucked into the old shophouse
-  lanes of Fisherman's Village in Bo Put, on Koh Samui's north coast — go before
-  10am to snag a seat and try a slow-bar pour-over alongside their house-roasted
-  beans.
+  Izzy's Specialty Coffee is a standalone, air-conditioned café with
+  floor-to-ceiling glass a two-minute walk from Fisherman's Village in Bo Put,
+  on Koh Samui's north coast — go before 10am for a seat and order what they are
+  built around: espresso drinks, from a ristretto-based flat white to their
+  Latte Cloud.
 country: Thailand
 region: Koh Samui
 category: trendy
@@ -12,7 +13,7 @@ pubDate: '2026-07-22T09:19:32.395Z'
 heroImage:
   url: >-
     https://fastly.4sqi.net/img/general/original/484654207_oFgLeRnDuY4OFGvva22jdWwCpYbT3U5Ec3UiADFO2Fs.jpg
-  credit: 'Photo: Foursquare user content (Izzy‘s Coffee)'
+  credit: 'Photo: Foursquare user content — Izzy‘s as the open-air kiosk it was before the 2026 rebuild'
   license: foursquare
   source: 'https://foursquare.com/v/64950fd7be119a7c0e7f7ca9'
   focus:
@@ -27,6 +28,8 @@ place:
     Surat Thani 84320, Thailand
   rating: 5
   userRatingsTotal: 1137
+  website: 'https://izzyscoffeesamui.com'
+
   googleMapsUrl: >-
     https://maps.google.com/?cid=4873430113301987544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
@@ -46,18 +49,19 @@ tags:
   - koh samui
   - trendy cafe
 quickAnswer: >-
-  Izzy's Specialty Coffee is a small-batch café tucked into the old shophouse
-  lanes of Fisherman's Village in Bo Put, on Koh Samui's north coast — go before
-  10am to snag a seat and try a slow-bar pour-over alongside their house-roasted
-  beans. It's walkable from the Fisherman's Village Walking Street and pairs
+  Izzy's Specialty Coffee is a standalone, air-conditioned café with
+  floor-to-ceiling glass a two-minute walk from Fisherman's Village in Bo Put,
+  on Koh Samui's north coast — go before 10am for a seat and order what they are
+  built around: espresso drinks, from a ristretto-based flat white to their
+  Latte Cloud. It's walkable from the Fisherman's Village Walking Street and pairs
   well with a beach morning at Bo Put Pier. Budget 30-45 minutes; it gets busy
   by midday given its 1,000+ near-perfect reviews.
 faq:
   - q: Where exactly is Izzy's Specialty Coffee located?
     a: >-
-      It's inside Fisherman's Village in Bo Put, on Koh Samui's north coast,
-      within the pedestrian shophouse lanes near the walking street — about
-      15-20 minutes by car from Chaweng.
+      It's in Bo Put on Koh Samui's north coast, a two-minute walk from
+      Fisherman's Village — a standalone glass-fronted café under a
+      hundred-year-old mango tree, about 15-20 minutes by car from Chaweng.
   - q: How do I get there without a rental car?
     a: >-
       Arrange a taxi or app-based ride from your hotel (agree on price
@@ -65,9 +69,9 @@ faq:
       since many guesthouses there are within easy walking distance.
   - q: How long should I plan to stay?
     a: >-
-      30-45 minutes for a coffee and light bite is typical; seating is limited
-      given the shophouse-sized space, so it suits solo travelers or couples
-      more easily than large groups.
+      30-45 minutes for a coffee and light bite is typical. It is a small
+      room rather than a sprawling café, so solo travellers and couples find a
+      table more easily than large groups — and the shop is dog-friendly.
   - q: What's the best time of day to visit?
     a: >-
       Early morning, before roughly 10-11am, avoids both the crowds and the
@@ -84,25 +88,25 @@ updatedDate: '2026-09-07'
 
 ## Why Izzy's Stands Out
 
-Fisherman's Village in Bo Put is Koh Samui's most walkable, photogenic strip, a former Chinese-Thai fishing settlement turned boutique-shopping and café corridor of restored wooden shophouses. Izzy's Specialty Coffee has become one of its anchor addresses, holding a rare 5-star average across more than 1,000 reviews, a signal that this isn't just another beach-town coffee stop riding on location alone.
+Fisherman's Village in Bo Put is Koh Samui's most walkable, photogenic strip, a former Chinese-Thai fishing settlement turned boutique-shopping and café corridor of restored wooden shophouses. Izzy's sits two minutes' walk from that strip and holds a rare 5-star average across more than 1,000 reviews. It is not one of the village shophouses: it opened as an outdoor kiosk in 2022 and was rebuilt in a 2026 renovation into a fully enclosed, air-conditioned room with floor-to-ceiling glass and a mid-century-modern interior, under a hundred-year-old mango tree.
 
-The draw is specialty-grade sourcing and a visible roasting/brewing operation, in a destination where decent espresso used to mean a resort lobby markup. For travelers who care about their coffee as much as their view, it's become something of a pilgrimage stop on the island's north shore.
+The draw is espresso done properly in a place where decent espresso used to mean a resort lobby markup: single-origin Arabica custom-roasted for the shop by MPresso in Bangkok, pulled into signatures like a flat white built on a ristretto shot, and the Latte Cloud. The café is named after Izzy, the owners' rescue dog and the shop's mascot, and dogs are welcome — which is not a footnote here, it is the house character.
 
 ## Getting There
 
-Izzy's sits within Fisherman's Village itself, on Tambon Bo Put, on Koh Samui's northern coastline, roughly a 15-20 minute drive from Chaweng and about 10 minutes from the Big Buddha Temple (Wat Phra Yai) area. There's no rail or metro system on Samui, so the practical options are:
+Izzy's sits just outside Fisherman's Village, in Tambon Bo Put on Koh Samui's northern coastline, roughly a 15-20 minute drive from Chaweng and about 10 minutes from the Big Buddha Temple (Wat Phra Yai) area. There's no rail or metro system on Samui, so the practical options are:
 
 - **Taxi/Grab-style ride**: Most hotels in Chaweng, Bophut, or Choeng Mon can arrange a car in under 15 minutes; agree on a price beforehand since meters aren't standard on the island.
 - **Rental scooter or car**: Bo Put is well signposted from the ring road (Route 4171). Park along the village's side streets, as the main walking street itself is pedestrian-focused, especially in the evening.
 - **On foot**: If staying in Bophut/Bo Put itself (a popular boutique-hotel base), the café is walkable from most beachfront guesthouses in the area.
 
-The exact pin (H26c+jh6) drops you right into the village's grid of narrow lanes, so it's easiest to walk the last stretch once you're in the neighborhood rather than relying on a car to pull up directly outside.
+The exact pin (H26c+jh6) drops you beside the village; the café is the glass-fronted building near Pizzeria Sorte, a couple of minutes' walk from the walking street.
 
 ## What to Order and What to Expect
 
-Expect a genuine specialty-coffee setup rather than a generic café menu: filter/pour-over options, single-origin beans (often rotating), and a flat white or cortado built on well-pulled espresso. Baristas here tend to be knowledgeable about origin and roast profile, so it's worth asking what's fresh that week rather than defaulting to the familiar. Many visitors pair a coffee with a light breakfast or pastry, portions and setup favor a relaxed sit-down rather than a grab-and-go stop, though takeaway is available for those continuing along the walking street.
+Order espresso here. The flat white is built on a ristretto shot rather than a standard double, and the Latte Cloud is the other signature; the beans are single-origin Arabica roasted to the shop's own spec by MPresso in Bangkok, so it is worth asking which lot is on. Filter is available, but it is not what the bar is designed around. Many visitors pair a coffee with a light breakfast or pastry, portions and setup favor a relaxed sit-down rather than a grab-and-go stop, though takeaway is available for those continuing along the walking street.
 
-Seating is limited and highly sought after, consistent with its shophouse-scale footprint. This is an intimate space, not a large café, so solo travelers and couples will have an easier time finding a table than large groups.
+Seating is limited and highly sought after: the room is small and fully enclosed, so the air conditioning is a real advantage in the middle of the day, but solo travellers and couples will find a table more easily than large groups. Dogs are welcome inside.
 
 ## When to Go
 
@@ -113,7 +117,7 @@ Avoid the midday heat lull between roughly noon and 3pm if you want a relaxed si
 ## Nearby & Tips
 
 - **Bo Put Pier**: A short walk away, good for sunrise views over to Ko Pha Ngan.
-- **Fisherman's Village Walking Street**: The café sits within this same strip of restored shophouses turned boutiques, seafood restaurants, and bars.
+- **Fisherman's Village Walking Street**: Two minutes away on foot — restored shophouses turned boutiques, seafood restaurants, and bars.
 - **Big Buddha Temple (Wat Phra Yai)**: About 10 minutes by car, easily combined with a coffee stop beforehand or after.
 - Confirm current opening hours before visiting, as small independent cafés on Samui sometimes adjust seasonally around low-tourist months (April-May, October-November).
 - Cash and cards are both generally accepted at established cafés in the village, but carrying some baht is still sensible for smaller vendors nearby.
