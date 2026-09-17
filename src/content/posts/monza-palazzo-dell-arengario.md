@@ -6,10 +6,10 @@ region: "Monza"
 category: "attraction"
 pubDate: "2026-09-16T07:48:38.617Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Arengario_Milano_Museo_900.jpg/1920px-Arengario_Milano_Museo_900.jpg"
-  credit: "Photo: Fred Romero / Wikimedia Commons (CC BY 2.0)"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Monza_Palazzo_dell%27Arengario_2.jpg/1920px-Monza_Palazzo_dell%27Arengario_2.jpg"
+  credit: "Photo: Zairon / Wikimedia Commons (CC BY-SA 4.0)"
   license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Arengario_Milano_Museo_900.jpg"
+  source: "https://commons.wikimedia.org/wiki/File:Monza_Palazzo_dell%27Arengario_2.jpg"
   focus:
     x: 50
     y: 40

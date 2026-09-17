@@ -29,6 +29,8 @@
   "kep-angkor-national-museum",
   "lantau-island-sheung-yiu-folk-museum",
   "multiple-cities-la-vuelta-a-espana-2026",
+  "new-taipei-museum-of-contemporary-art-taipei",
+  "new-taipei-national-palace-museum",
   "orchard-road-maxwell-food-centre",
   "pasay-city-honne-10th-anniversary-tour",
   "pasay-city-lalala-fest-manila-2026",
@@ -48,6 +50,8 @@
  ],
  "notes": {
   "termez-eco-park": "2026-09-14: region corrected Termez -> Tashkent. The venue (address, coordinates, Google place, photo) was always Eco Park in Tashkent; the prose had invented a Termez setting. Slug kept so the live URL does not break.",
-  "east-coast-sri-srinivasa-perumal-temple": "2026-09-14: region corrected East Coast -> Little India (397 Serangoon Rd). Slug kept so the live URL does not break."
+  "east-coast-sri-srinivasa-perumal-temple": "2026-09-14: region corrected East Coast -> Little India (397 Serangoon Rd). Slug kept so the live URL does not break.",
+  "new-taipei-national-palace-museum": "2026-09-17: region corrected New Taipei -> Taipei (the museum is in Taipei City proper — Shilin / Datong). Slug kept so the live URL does not break.",
+  "new-taipei-museum-of-contemporary-art-taipei": "2026-09-17: region corrected New Taipei -> Taipei (the museum is in Taipei City proper — Shilin / Datong). Slug kept so the live URL does not break."
  }
 }

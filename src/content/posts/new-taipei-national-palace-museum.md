@@ -1,8 +1,8 @@
 ---
-title: 'National Palace Museum: New Taipei Travel Guide (4.6★)'
-description: The National Palace Museum sits in Taipei's Shilin District (address given as New Taipei/Taipei border area), open Tuesday–Sunday 9am–5pm and closed Mondays. 4.6★ (62,130 reviews) — what visitors say, hours, and tips.
+title: 'National Palace Museum: Taipei Travel Guide (4.6★)'
+description: The National Palace Museum sits in Taipei's Shilin District, open Tuesday–Sunday 9am–5pm and closed Mondays. 4.6★ (62,130 reviews) — what visitors say, hours, and tips.
 country: Taiwan
-region: New Taipei
+region: Taipei
 category: attraction
 pubDate: '2026-08-19T09:20:51.417Z'
 heroImage:
@@ -52,9 +52,9 @@ place:
       - 16
     venueId: ven_3056627768524f366c517752516a517371547a417055664a496843
 tags:
-  - new taipei
+  - taipei
   - museum
-quickAnswer: The National Palace Museum sits in Taipei's Shilin District (address given as New Taipei/Taipei border area), open Tuesday–Sunday 9am–5pm and closed Mondays. It's genuinely huge and genuinely crowded — weekends from 10am to 5pm draw the thickest lines — so aim for a weekday morning right at opening. Budget at least two to three hours, more if you want to see the famous Jadeite Cabbage and Meat-shaped Stone up close.
+quickAnswer: The National Palace Museum sits in Taipei's Shilin District, open Tuesday–Sunday 9am–5pm and closed Mondays. It's genuinely huge and genuinely crowded — weekends from 10am to 5pm draw the thickest lines — so aim for a weekday morning right at opening. Budget at least two to three hours, more if you want to see the famous Jadeite Cabbage and Meat-shaped Stone up close.
 faq:
   - q: What are the National Palace Museum's opening hours?
     a: It's open Tuesday through Sunday, 9:00 AM to 5:00 PM, and closed all day Monday. Confirm current hours before visiting since museums occasionally adjust for holidays.

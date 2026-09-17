@@ -103,6 +103,14 @@ for attempt in 1 2 3 4 5; do
     fi
   fi
   if [ "$rebased" = "1" ]; then
+    # 2026-09-17: 커밋 전 검사는 REBASE 이전 트리를 본다. 그날 내 커밋과 밤 작업의
+    # 커밋은 각자 멀쩡했는데 rebase 로 합쳐진 트리에서 place 블록의 키가 중복돼
+    # 프론트매터가 깨졌고, 배포가 그 커밋에서 멈췄다. 합쳐진 결과를 밀기 직전에
+    # 1초짜리 파싱 검사를 한 번 더 한다 — 깨졌으면 밀지 않는다.
+    if [ -f scripts/audit-frontmatter-parse.mjs ] && ! node scripts/audit-frontmatter-parse.mjs; then
+      echo "::error::rebase 결과의 프론트매터가 깨졌다 — 푸시하지 않는다 (위 목록의 파일을 고칠 것)"
+      exit 1
+    fi
     if git push origin "HEAD:$BRANCH"; then
       echo "pushed (attempt $attempt)"
       exit 0

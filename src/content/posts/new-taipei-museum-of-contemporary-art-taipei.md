@@ -1,8 +1,8 @@
 ---
-title: "Museum of Contemporary Art Taipei: New Taipei Travel Guide"
-description: "The Museum of Contemporary Art Taipei (MOCA Taipei) sits in Datong District at No. 39, Chang'an W Rd, in a red-brick former school building dating to the early 1900s — not actually in New Taipei City proper, but a short trip from it via the Taipei MRT. 4.4★ (7,443 reviews) — what visitors say, hours, and tips."
+title: "Museum of Contemporary Art (MOCA): Taipei Travel Guide"
+description: "The Museum of Contemporary Art Taipei (MOCA Taipei) sits in Datong District at No. 39, Chang'an W Rd, in a red-brick former school building dating to the early 1900s, a few minutes' walk from Zhongshan MRT. 4.4★ (7,443 reviews) — what visitors say, hours, and tips."
 country: "Taiwan"
-region: "New Taipei"
+region: "Taipei"
 category: "attraction"
 pubDate: "2026-08-23T08:11:05.774Z"
 heroImage:
@@ -49,12 +49,12 @@ place:
       - 17
     venueId: "ven_5137394b6c65376845382d52516a517079575378542d634a496843"
 tags:
-  - "new taipei"
+  - "taipei"
   - "art gallery"
-quickAnswer: "The Museum of Contemporary Art Taipei (MOCA Taipei) sits in Datong District at No. 39, Chang'an W Rd, in a red-brick former school building dating to the early 1900s — not actually in New Taipei City proper, but a short trip from it via the Taipei MRT. It's closed Mondays and open 10am–6pm the rest of the week, with weekends busiest from 11am to 6pm. Budget 90 minutes to two hours, and go on a weekday morning if you want the galleries to yourself."
+quickAnswer: "The Museum of Contemporary Art Taipei (MOCA Taipei) sits in Datong District at No. 39, Chang'an W Rd, in a red-brick former school building dating to the early 1900s, a few minutes' walk from Zhongshan MRT. It's closed Mondays and open 10am–6pm the rest of the week, with weekends busiest from 11am to 6pm. Budget 90 minutes to two hours, and go on a weekday morning if you want the galleries to yourself."
 faq:
-  - q: "Is the Museum of Contemporary Art Taipei actually in New Taipei City?"
-    a: "No — it's in Datong District, Taipei City proper, at No. 39 Chang'an W Rd. It's easily reached from New Taipei via the MRT, which is why it's often included in greater Taipei visit plans."
+  - q: "Where exactly is MOCA Taipei?"
+    a: "In Datong District, Taipei City, at No. 39 Chang'an W Rd — a few minutes on foot from Zhongshan MRT station on the Red and Green lines."
   - q: "How do I get to MOCA Taipei by MRT?"
     a: "Take the Red or Green Line to Zhongshan Station, then walk about 5 minutes east along Chang'an West Road to the brick building."
   - q: "What are the opening hours?"
@@ -74,7 +74,7 @@ You're walking through a red-brick schoolhouse built in the early 1900s under Ja
 
 ## Getting there
 
-MOCA Taipei sits at No. 39, Chang'an West Road in Datong District, technically Taipei City, though it's an easy add-on if you're staying anywhere in the greater Taipei/New Taipei area.
+MOCA Taipei sits at No. 39, Chang'an West Road in Datong District, an easy add-on if you're staying anywhere in the greater Taipei area.
 
 The nearest stop is Zhongshan Station on the Red and Green MRT lines, about a 5-minute walk. Exit toward Chang'an W Road and head east; the brick facade and arched windows make it unmistakable once you're on the block. Taxis and YouBike docks are also plentiful nearby if you're coming from further out.
 
