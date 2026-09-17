@@ -19,7 +19,7 @@
 // arbitrary A-Z sweep reaching them eventually. Only the ORDER changes: skip
 // rules, --limit, and the quota-streak stop are untouched.
 import './lib/env.mjs'; // MUST be first — loads .env before places.mjs reads the API key
-import { editFrontmatter, DELETE } from './lib/frontmatter-edit.mjs';
+import { editFrontmatter, readFrontmatter, DELETE } from './lib/frontmatter-edit.mjs';
 import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -179,15 +179,24 @@ async function main() {
     const priorNoData = noDataLog[id];
     if (priorNoData && (Date.now() - Date.parse(priorNoData.at)) < NODATA_REST_DAYS * 864e5) { noData++; continue; }
 
-    const hasPhone = /^[ ]{2}phone:/m.test(placeBody);
+    // Read what the post already has from the PARSED frontmatter, not from the
+    // regex slice above: that slice is a run of two-space lines and it STOPS at
+    // the first blank line inside the block. On 2026-09-17 a hand edit left one
+    // blank line in the Koh Samui café's place block, so the slice ended early,
+    // this test read "no phone" on a post that had one, and the run appended a
+    // SECOND phone key. Duplicate mapping keys are fatal to js-yaml: four hours
+    // later the fill/generate job died on that file and lost the night's posts.
+    const parsedPlace = readFrontmatter(t)?.place ?? null;
+    const hasPhone = parsedPlace ? parsedPlace.phone != null : /^[ ]{2}phone:/m.test(placeBody);
     // hoursOmitted counts as having hours: it marks a post whose hours are
     // absent ON PURPOSE — Google filed a different entity's schedule under the
     // attraction (Bromo, 2026-08-14: the park office's weekday desk hours on a
     // pre-dawn sunrise site; the gate held the post and the hours fixer could
     // only make the prose more wrong). Both the skip rule and the inject below
     // read this flag, so neither can resurrect the wrong schedule.
-    const hasHours = /^[ ]{2}openingHours:/m.test(placeBody)
-      || /^[ ]{2}hoursOmitted:/m.test(placeBody);
+    const hasHours = parsedPlace
+      ? (Array.isArray(parsedPlace.openingHours) || parsedPlace.hoursOmitted != null)
+      : (/^[ ]{2}openingHours:/m.test(placeBody) || /^[ ]{2}hoursOmitted:/m.test(placeBody));
     if (hasPhone && hasHours) { already++; continue; }
 
     processed++;
@@ -274,7 +283,21 @@ async function main() {
         out = clamp.raw;
         console.log(`    ⏰ busyness clamped to the new hours: ${clamp.notes.join('; ')}`);
       }
-      if (out !== t) await writeFile(p, out, 'utf8');
+      // Last gate before the write: the result must still parse. This script
+      // edits frontmatter as TEXT, and text surgery on someone else's file can
+      // always land somewhere unexpected — better to skip one post and say so
+      // than to commit a file that stops the pipeline (2026-09-17).
+      if (out !== t) {
+        try {
+          readFrontmatter(out);
+          if (!readFrontmatter(out)?.place) throw new Error('place block lost');
+        } catch (e) {
+          console.log(`  ⚠ ${f}: refusing to write — the edit would not parse (${e.message})`);
+          updated--;
+          continue;
+        }
+        await writeFile(p, out, 'utf8');
+      }
     }
   }
 

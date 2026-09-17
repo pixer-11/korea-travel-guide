@@ -29,16 +29,6 @@ place:
   rating: 5
   userRatingsTotal: 1137
   website: 'https://izzyscoffeesamui.com'
-  phone: '+66 63 269 1525'
-  openingHours:
-    - 'Monday: 9:00 AM – 5:00 PM'
-    - 'Tuesday: Closed'
-    - 'Wednesday: 9:00 AM – 5:00 PM'
-    - 'Thursday: 9:00 AM – 5:00 PM'
-    - 'Friday: 9:00 AM – 5:00 PM'
-    - 'Saturday: 9:00 AM – 5:00 PM'
-    - 'Sunday: 9:00 AM – 5:00 PM'
-
   googleMapsUrl: >-
     https://maps.google.com/?cid=4873430113301987544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
