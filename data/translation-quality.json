@@ -28950,5 +28950,89 @@
   "registerBreak": false,
   "worst": "街上几家标志性酒吧撑起了这条街的招牌，比如Angkor What?、Temple Club和Miss Wong，此外还有各种一美元啤酒摊和披萨店",
   "at": "2026-09-16T13:42:03.718Z"
+ },
+ "zh/cebu-twist-buckle": {
+  "hash": "9fa5759a670a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "暖心美食配菜的存在是为了让这顿饭更完整，但终究只是配角。",
+  "at": "2026-09-17T07:57:48.519Z"
+ },
+ "zh/new-york-tcs-new-york-city-marathon": {
+  "hash": "e328412643b0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "跑者随后经由皇后区大桥（Queensboro Bridge）几乎悄无声息地进入曼哈顿——由于大桥本身是封闭结构",
+  "at": "2026-09-17T08:00:04.170Z"
+ },
+ "es/andong-hahoe-mask-museum": {
+  "hash": "e3e39d888c3e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "con el tramo de más calma extendiéndose durante todo el horario de 10:00 a 18:00",
+  "at": "2026-09-17T07:58:04.695Z"
+ },
+ "es/bordeaux-musee-d-aquitaine": {
+  "hash": "09cc596f9026",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "útiles para quien quiera profundizar tras la visita pero no domine el idioma con fluidez",
+  "at": "2026-09-17T07:58:09.971Z"
+ },
+ "es/chiang-rai-mae-fah-luang-garden": {
+  "hash": "69f7e07a09cb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El conjunto recuerda menos a un jardín palaciego formal y más a una gran huerta de ladera a escala mayor",
+  "at": "2026-09-17T07:58:12.000Z"
+ },
+ "ja/andong-hahoe-mask-museum": {
+  "hash": "b862fdc73717",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "チケットを買う前から、建物自体がテーマを物語っています。",
+  "at": "2026-09-17T07:58:13.775Z"
+ },
+ "ja/bordeaux-musee-d-aquitaine": {
+  "hash": "f9b4df1f14e8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "訪問後にさらに深く知りたいけれどフランス語をすらすら読めないという場合には、あまり実用的ではないので",
+  "at": "2026-09-17T07:58:15.368Z"
+ },
+ "ja/chiang-rai-mae-fah-luang-garden": {
+  "hash": "643f240597d5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "故プミポン国王の母君(プーミポン国王の母)による開発プロジェクトのもとで再生させた場所なのです。",
+  "at": "2026-09-17T08:00:10.500Z"
+ },
+ "ko/andong-hahoe-mask-museum": {
+  "hash": "ca58ab80b183",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "박물관은 낙동강이 휘돌아 나가는 지점에 초가와 기와집이 어우러진 유네스코 등재 마을, 하회마을로 들어가는 길목에",
+  "at": "2026-09-17T07:58:25.974Z"
+ },
+ "ko/bordeaux-musee-d-aquitaine": {
+  "hash": "d7e9e1071df7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이런 유형의 프랑스 시립 박물관은 상설 전시가 전통적으로 무료였으나, 특별전 요금은 방문 전 최신 정보를 확인하시기 바랍니다",
+  "at": "2026-09-17T08:00:12.424Z"
+ },
+ "ko/chiang-rai-mae-fah-luang-garden": {
+  "hash": "bd76d570123a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "격식을 갖춘 궁정 정원이라기보다는 규모를 키운 산비탈 마을 텃밭에 가까운 느낌인데, 이는 이곳의 유래와도 맞닿아",
+  "at": "2026-09-17T07:58:40.541Z"
+ },
+ "zh/andong-hahoe-mask-museum": {
+  "hash": "b2c1185b9089",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "先逛博物馆，再进村，能为之后看到村里的假面舞演出场地提前打好背景基础。",
+  "at": "2026-09-17T07:58:56.626Z"
  }
 }

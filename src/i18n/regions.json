@@ -8654,5 +8654,32 @@
       "getting": "大多数游客选择乘飞机抵达乌尔根奇国际机场(UGC),该机场有飞往塔什干的国内航班,以及数量不断增加的地区和国际航线;也有人选择从塔什干或布哈拉搭乘乌兹别克斯坦铁路的夜班火车,抵达乌尔根奇火车站。无论是从机场还是火车站出发,乘出租车或接驳车前往希瓦大约只需30分钟车程。",
       "days": "乌尔根奇本身很少需要停留超过几个小时,通常只是中转或路过之地,因为游客大多会以附近的希瓦为落脚点,住上1到2天,专程游览那里的古城老城区。"
     }
+  },
+  "Takayama": {
+    "en": {
+      "blurb": "Takayama is a small mountain city in Gifu Prefecture prized for its beautifully preserved Edo-era old town, sake breweries and morning markets set against the backdrop of the Japan Alps. It sits far from the coast in a landlocked prefecture, giving it a quieter, more traditional feel than Japan's larger tourist hubs.",
+      "getting": "Most travellers reach Takayama by rail via Nagoya, taking a Shinkansen or regular train to Nagoya Station and then switching to the JR Limited Express \"Hida\" line, a journey of roughly ~2 to 2.5 hours from Nagoya on the scenic Takayama Main Line. There is no major airport in the town itself, so those flying in typically arrive via Chubu Centrair Airport (NGO) near Nagoya and continue by train or bus, with Toyama Airport also usable for the coastal approach through Toyama Station.",
+      "days": "Plan for ~2 to 3 days, enough to explore the old town, sample the morning markets, and use Takayama as a base for day trips to nearby Shirakawa-go or the Hida countryside."
+    },
+    "ko": {
+      "blurb": "다카야마는 기후현에 자리한 작은 산악 도시로, 아름답게 보존된 에도 시대의 옛 거리, 사케 양조장, 그리고 일본 알프스를 배경으로 열리는 아침 시장으로 잘 알려져 있습니다. 바다와 멀리 떨어진 내륙 지역에 위치해 있어, 일본의 대형 관광 도시들과는 다른 한층 조용하고 전통적인 분위기를 간직하고 있습니다.",
+      "getting": "대부분의 여행자는 나고야를 거쳐 기차로 다카야마에 도착합니다. 신칸센이나 일반 열차를 타고 나고야역까지 이동한 뒤, JR 특급 열차 \"히다(Hida)\"로 환승하면 됩니다. 경치가 아름다운 다카야마 본선을 따라 나고야에서 약 2~2.5시간 정도 소요됩니다. 다카야마 시내에는 대형 공항이 없기 때문에, 비행기로 이동하는 경우 보통 나고야 인근의 주부 국제공항(NGO)을 이용한 뒤 기차나 버스로 갈아탑니다. 도야마 공항을 통해 도야마역을 거쳐 해안 쪽에서 접근하는 방법도 있습니다.",
+      "days": "약 2~3일 정도 일정을 잡는 것이 좋습니다. 옛 거리를 둘러보고 아침 시장을 구경하기에 충분한 시간이며, 다카야마를 거점 삼아 인근의 시라카와고나 히다 지역 시골 마을로 당일치기 여행을 다녀오기에도 좋습니다."
+    },
+    "ja": {
+      "blurb": "高山は岐阜県にある小さな山あいの町で、江戸時代の面影を色濃く残す古い町並み、酒蔵、そして朝市で知られ、背後には日本アルプスの雄大な山々がそびえています。海のない内陸県に位置しているため、日本の主要な観光都市に比べて静かで、どこか懐かしい風情が漂います。",
+      "getting": "高山へは、名古屋経由で鉄道を利用するのが一般的です。新幹線または在来線で名古屋駅まで行き、そこからJR特急「ひだ」に乗り換えます。名古屋から高山本線の車窓を楽しみながら、所要時間はおよそ2〜2.5時間です。町自体には大きな空港がないため、飛行機を利用する場合は名古屋近郊の中部国際空港(NGO)を経由し、そこから鉄道やバスで向かうのが一般的です。また、富山空港を利用して富山駅経由で海側からアクセスすることも可能です。",
+      "days": "滞在日数の目安は2〜3日です。古い町並みの散策や朝市めぐりを楽しみつつ、高山を拠点に白川郷や飛騨の田園地帯へ日帰り旅行するのにもちょうど良い長さです。"
+    },
+    "es": {
+      "blurb": "Takayama es una pequeña ciudad de montaña en la prefectura de Gifu, apreciada por su casco antiguo de la era Edo maravillosamente conservado, sus fábricas de sake y sus mercados matutinos, todo ello enmarcado por los Alpes japoneses. Al encontrarse lejos de la costa, en una prefectura sin salida al mar, tiene un ambiente más tranquilo y tradicional que los grandes centros turísticos de Japón.",
+      "getting": "La mayoría de los viajeros llegan a Takayama en tren pasando por Nagoya: se toma un Shinkansen o un tren regular hasta la estación de Nagoya y luego se hace transbordo al tren limitado express JR \"Hida\", un trayecto de aproximadamente 2 a 2,5 horas desde Nagoya por la pintoresca línea principal de Takayama. La ciudad no cuenta con un aeropuerto propio, por lo que quienes llegan en avión suelen entrar por el aeropuerto de Chubu Centrair (NGO), cerca de Nagoya, y continuar en tren o autobús; el aeropuerto de Toyama también es una opción para quienes prefieren el acceso desde la costa a través de la estación de Toyama.",
+      "days": "Se recomienda destinar entre 2 y 3 días, tiempo suficiente para recorrer el casco antiguo, disfrutar de los mercados matutinos y usar Takayama como base para excursiones de un día a Shirakawa-go o a la campiña de Hida."
+    },
+    "zh": {
+      "blurb": "高山是岐阜县的一座山间小城,以保存完好的江户时代老街、清酒酒坊和晨市而闻名,背靠日本阿尔卑斯山,风景秀丽。由于地处内陆、远离海岸,这里比日本的大型旅游都市更显静谧,也更具传统韵味。",
+      "getting": "大多数游客经由名古屋乘坐铁路前往高山:先坐新干线或普通列车到名古屋站,再换乘JR特急\"飞骛号\"(Hida),沿着风景优美的高山本线行驶约2到2.5小时即可抵达。高山本地没有大型机场,因此乘飞机前来的旅客通常会先抵达名古屋附近的中部国际机场(NGO),再转乘火车或巴士前往;若从沿海方向出发,也可以选择富山机场,经富山站转乘列车前往高山。",
+      "days": "建议安排2到3天的行程,足以逛遍老街、体验晨市,并以高山为据点,前往邻近的白川乡或飞驒乡间进行一日游。"
+    }
   }
 }

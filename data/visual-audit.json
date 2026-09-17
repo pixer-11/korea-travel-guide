@@ -19139,5 +19139,113 @@
     "verdict": "MATCH",
     "reason": "width upgrade: Main temple hall exterior, representative view of Naritasan Shinsho-ji",
     "at": "2026-09-16T22:17:27.465Z"
+  },
+  "chiba-aobanomori-park\u0001https://upload.wikimedia.org/wikipedia/commons/8/87/Aobanomori_Park_Art_and_Culture_Hall_02.jpg": {
+    "slug": "chiba-aobanomori-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior building view plausible for park cultural center",
+    "at": "2026-09-17T07:36:55.094Z"
+  },
+  "ubud-bali-bird-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Balibirdpark.jpg/1920px-Balibirdpark.jpg": {
+    "slug": "ubud-bali-bird-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Family feeding colorful lorikeets, matches bird park experience",
+    "at": "2026-09-17T07:37:36.586Z"
+  },
+  "mount-bromo-pura-luhur-poten-gunung-bromo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Pura_Luhur_Poten_Gunung_Bromo_%28temple_near_Mount_Bromo_East_Java%2C_Indonesia%29_%2850364924231%29.jpg/3840px-Pura_Luhur_Poten_Gunung_Bromo_%28temple_near_Mount_Bromo_East_Java%2C_Indonesia%29_%2850364924231%29.jpg": {
+    "slug": "mount-bromo-pura-luhur-poten-gunung-bromo",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows temple pavilion with Bromo mountain backdrop, representative view",
+    "at": "2026-09-17T07:39:20.173Z"
+  },
+  "wan-chai-wan-chai-pak-tai-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Wan_Chai_Pak_Tai_Temple_in_October_2025.jpg/1920px-Wan_Chai_Pak_Tai_Temple_in_October_2025.jpg": {
+    "slug": "wan-chai-wan-chai-pak-tai-temple",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior of temple with dragons, matches venue type",
+    "at": "2026-09-17T07:40:04.389Z"
+  },
+  "sukhothai-ramkhamhaeng-national-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ramkhamhaeng_Museum%2C_Sukhothai_%2846732645695%29.jpg/3840px-Ramkhamhaeng_Museum%2C_Sukhothai_%2846732645695%29.jpg": {
+    "slug": "sukhothai-ramkhamhaeng-national-museum",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior view of museum building, representative hero shot",
+    "at": "2026-09-17T07:41:15.022Z"
+  },
+  "miami-perez-art-museum-miami\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/PAMM_MRD_27.jpg/1920px-PAMM_MRD_27.jpg": {
+    "slug": "miami-perez-art-museum-miami",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior view of PAMM building with palms and sculpture",
+    "at": "2026-09-17T07:42:04.449Z"
+  },
+  "stanley-stanley-tin-hau-temple\u0001https://upload.wikimedia.org/wikipedia/commons/3/35/HK_Stanley_Main_Street_Tin_Hau_Temple_rain_Nov-2012.JPG": {
+    "slug": "stanley-stanley-tin-hau-temple",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows temple exterior with Chinese architecture and signage",
+    "at": "2026-09-17T07:43:05.232Z"
+  },
+  "andong-hahoe-mask-museum\u0001https://upload.wikimedia.org/wikipedia/commons/b/b8/Hahoe_World_Mask_Museum_06.jpg": {
+    "slug": "andong-hahoe-mask-museum",
+    "verdict": "MATCH",
+    "reason": "publish gate: Hahoe masks with Korean labels, representative museum display",
+    "at": "2026-09-17T07:43:51.774Z"
+  },
+  "jiufen-jiufen-qingyun-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Jiufen_Qingyun_Temple_20240913.jpg/3840px-Jiufen_Qingyun_Temple_20240913.jpg": {
+    "slug": "jiufen-jiufen-qingyun-temple",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows temple complex on hillside, representative of Qingyun temple",
+    "at": "2026-09-17T07:44:32.396Z"
+  },
+  "strasbourg-strasbourg-museum-of-modern-and-contemporary-art\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Strasbourg_18.jpg/1920px-Strasbourg_18.jpg": {
+    "slug": "strasbourg-strasbourg-museum-of-modern-and-contemporary-art",
+    "verdict": "MATCH",
+    "reason": "publish gate: Interior atrium with stained glass, plausible modern art museum",
+    "at": "2026-09-17T07:45:48.722Z"
+  },
+  "chicago-garfield-park-conservatory\u0001https://upload.wikimedia.org/wikipedia/commons/d/d5/Garfield_Park_Conservatory%2C_aerial_view.jpg": {
+    "slug": "chicago-garfield-park-conservatory",
+    "verdict": "MATCH",
+    "reason": "publish gate: Aerial view of Garfield Park Conservatory glass building, representative",
+    "at": "2026-09-17T07:46:36.668Z"
+  },
+  "hualien-farglory-ocean-park\u0001https://upload.wikimedia.org/wikipedia/commons/c/c7/Jumping_dolphins_at_Dolphin_Lagoon%2C_Farglory_Ocean_Park_20090615a.jpg": {
+    "slug": "hualien-farglory-ocean-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Dolphin show at Farglory Ocean Park, representative venue view",
+    "at": "2026-09-17T07:47:52.932Z"
+  },
+  "san-francisco-golden-gate-park\u0001https://upload.wikimedia.org/wikipedia/commons/6/66/California-06241_-_In_front_of_museum_%2820449897948%29.jpg": {
+    "slug": "san-francisco-golden-gate-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Aerial view of Golden Gate Park with music concourse",
+    "at": "2026-09-17T07:48:43.565Z"
+  },
+  "bordeaux-musee-d-aquitaine\u0001https://upload.wikimedia.org/wikipedia/commons/6/6d/Mus%C3%A9e_Aquitaine.JPG": {
+    "slug": "bordeaux-musee-d-aquitaine",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior view of Musée d'Aquitaine building, representative facade",
+    "at": "2026-09-17T07:49:45.798Z"
+  },
+  "chiang-rai-mae-fah-luang-garden\u0001https://upload.wikimedia.org/wikipedia/commons/e/ea/%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%84%E0%B8%A1%E0%B9%89%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%95%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B8%95%E0%B8%B8%E0%B8%87_%2C_%40_Mae_Fah_Luang_Garden_-_panoramio.jpg": {
+    "slug": "chiang-rai-mae-fah-luang-garden",
+    "verdict": "MATCH",
+    "reason": "publish gate: Garden with sculpture, flowers, trees matches attraction",
+    "at": "2026-09-17T07:50:20.338Z"
+  },
+  "kyoto-kyoto-national-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/260214_Kyoto_National_Museum_Kyoto_Japan04bs4.jpg/1920px-260214_Kyoto_National_Museum_Kyoto_Japan04bs4.jpg": {
+    "slug": "kyoto-kyoto-national-museum",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior view of Kyoto National Museum building with pond",
+    "at": "2026-09-17T07:51:35.157Z"
+  },
+  "jiufen-golden-waterfall\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Jiufen_Golden_Waterfall_08.jpg/1920px-Jiufen_Golden_Waterfall_08.jpg": {
+    "slug": "jiufen-golden-waterfall",
+    "verdict": "MATCH",
+    "reason": "publish gate: Golden mineral waterfall with terraced rocks matches attraction",
+    "at": "2026-09-17T08:02:34.050Z"
+  },
+  "bordeaux-grosse-cloche\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Grosse_cloche_de_Bordeaux_11_August_2019.jpg/3840px-Grosse_cloche_de_Bordeaux_11_August_2019.jpg": {
+    "slug": "bordeaux-grosse-cloche",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows Grosse Cloche tower with clock, recognizable landmark",
+    "at": "2026-09-17T08:03:18.292Z"
   }
 }
