@@ -5480,5 +5480,45 @@
  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sainte_Chapelle_Interior_Stained_Glass.jpg/1920px-Sainte_Chapelle_Interior_Stained_Glass.jpg": {
   "w": 1920,
   "h": 1280
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/c/ce/Goyang_montage.JPG": {
+  "w": 636,
+  "h": 647,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/South_Korea%2C_Incheon%2C_Songdo_%2801%29%2C_street_scene.jpg/3840px-South_Korea%2C_Incheon%2C_Songdo_%2801%29%2C_street_scene.jpg": {
+  "w": 3840,
+  "h": 2998,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Observation_deck_at_Kyoto_Tower_with_staff_cleaning_the_windows%2C_Japan.jpg/3840px-Observation_deck_at_Kyoto_Tower_with_staff_cleaning_the_windows%2C_Japan.jpg": {
+  "w": 3840,
+  "h": 2560,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Vista_de_Madrid_desde_la_catedral_de_la_Almudena%2C_Espa%C3%B1a%2C_2014-12-27%2C_DD_23.JPG/3840px-Vista_de_Madrid_desde_la_catedral_de_la_Almudena%2C_Espa%C3%B1a%2C_2014-12-27%2C_DD_23.JPG": {
+  "w": 3840,
+  "h": 2281,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/El_Hemisf%C3%A9rico%2C_Ciudad_de_las_Artes_y_las_Ciencias%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_71.JPG/3840px-El_Hemisf%C3%A9rico%2C_Ciudad_de_las_Artes_y_las_Ciencias%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_71.JPG": {
+  "w": 3840,
+  "h": 2160,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
  }
 }

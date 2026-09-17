@@ -5,7 +5,6 @@ country: Turkey
 region: Istanbul
 category: trendy
 pubDate: '2026-09-16'
-gallery: []
 tags:
   - istanbul
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What's nearby if I want to make an evening of it?
     a: Galata Tower and Galata Bridge are both a short walk away, Karaköy's coffee shops and design stores suit a pre-dinner wander, and the Karaköy ferry terminal is minutes away if you want to cross to the Asian side afterward.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/1402308174_R4efqtR002rKTL-Y0xalLRaDJcxXBK3wDN7585V90Ow.jpg
+  credit: 'Photo: Foursquare user content (Sa Va Anatolian Breakfast House)'
+  license: foursquare
+  source: https://foursquare.com/v/608327d030d4f65bd31bd8a0
+  focus:
+    x: 50
+    'y': 50
 ---
 
 Karaköy has spent the last decade turning from a district of ship chandlers and hardware stores into one of the more interesting places to eat in Istanbul, and Lina Anatolian is one of the newer names in that shift. It occupies a spot with a direct line of sight over the Bosphorus, which is not a small thing in a neighbourhood where views usually belong to the rooftop bars charging accordingly.

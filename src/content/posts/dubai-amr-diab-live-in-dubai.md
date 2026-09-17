@@ -15,7 +15,6 @@ eventPerformer:
   name: Amr Diab
   kind: person
 eventFactsAsked: true
-gallery: []
 tags:
   - dubai
   - event
@@ -33,6 +32,16 @@ faq:
     a: City Walk itself has extensive dining options, from casual counters to sit-down restaurants, best booked before rather than after the show. Downtown Dubai and Business Bay hotels are a short drive away for anyone staying overnight.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/b/b6/Arash_Mohseni%2C_Amr_Diab.jpg
+  credit: 'Photo: Arash Mohseni / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Arash_Mohseni,_Amr_Diab.jpg
+  focus:
+    x: 66
+    'y': 15
+    top: 6
+    bottom: 24
 ---
 
 Amr Diab does not need much of an introduction across the Arab world, and Dubai has long been one of his most reliable stops outside Cairo. On November 7, 2026, he brings a full-scale production to Coca-Cola Arena, mixing the newer singles that keep him on regional radio with the decades-old tracks that made him a household name from the Gulf to the Maghreb.

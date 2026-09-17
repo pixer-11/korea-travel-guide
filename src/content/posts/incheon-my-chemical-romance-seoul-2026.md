@@ -13,6 +13,14 @@ eventPerformer:
   name: My Chemical Romance
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/South_Korea%2C_Incheon%2C_Songdo_%2801%29%2C_street_scene.jpg/3840px-South_Korea%2C_Incheon%2C_Songdo_%2801%29%2C_street_scene.jpg'
+  credit: 'Photo: Vincent van Zeijst / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:South_Korea,_Incheon,_Songdo_(01),_street_scene.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - incheon

@@ -5,7 +5,6 @@ country: Hong Kong
 region: Hong Kong
 category: restaurant
 pubDate: '2026-09-16'
-gallery: []
 tags:
   - hong kong
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Are prices and hours confirmed?
     a: No specific prices or hours are set here since the menu just launched; check directly with Ankôma before visiting to confirm current information.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/2573088_7jxM3SmE74vRH5ckqCiTW65CfRlSg56apzwNr8m6Jm8.jpg
+  credit: 'Photo: Foursquare user content (Ankôma)'
+  license: foursquare
+  source: https://foursquare.com/v/644a6f64f4022a0a633e753c
+  focus:
+    x: 45
+    'y': 45
 ---
 
 Frankie Wong doesn't need much of an introduction anymore. He picked up the 2025 Michelin Young Chef Award, and instead of coasting on that, he's just rolled out an entirely new 10-course tasting menu at Ankôma. That's the context worth knowing before you book: this isn't a restaurant resting on an old format, it's one actively rewriting itself.

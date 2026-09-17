@@ -5,7 +5,6 @@ country: Uzbekistan
 region: Tashkent
 category: trendy
 pubDate: '2026-09-16'
-gallery: []
 tags:
   - tashkent
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: How do I pay and is tipping expected?
     a: Card payment is standard, but keep some cash (som) as backup. Tipping isn't mandatory but rounding up or leaving a small amount is appreciated.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/18892600_pekzcUlCRUCctzB96xxb9qcQehJltz0a491C9_bed9c.jpg
+  credit: 'Photo: Foursquare user content (Socials Cafeteria)'
+  license: foursquare
+  source: https://foursquare.com/v/5ca8833116ef67003919c044
+  focus:
+    x: 40
+    'y': 30
 ---
 
 Tashkent's cafe scene has shifted fast over the past few years, moving from Soviet-style canteens and teahouses toward spaces built around design and social media. Socials sits squarely in that new wave: a full-day menu, a dessert case built for photos, and a room that reads as a hangout first, a restaurant second.

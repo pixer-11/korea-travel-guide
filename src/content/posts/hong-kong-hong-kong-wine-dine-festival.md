@@ -15,7 +15,6 @@ eventOrganizer:
 eventOffers:
   url: https://www.discoverhongkong.com/eng/events/wine-dine-festival.html
 eventFactsAsked: true
-gallery: []
 tags:
   - hong kong
   - event
@@ -33,6 +32,14 @@ faq:
     a: The Hong Kong Convention and Exhibition Centre and the Wan Chai waterfront promenade are both a short walk away, and Star Ferry connects you to Central in under 10 minutes for a harbour-view finish to the day.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/3/3c/HK_%E4%B8%AD%E7%92%B0_Central_night_%E9%A6%99%E6%B8%AF%E7%BE%8E%E9%85%92%E4%BD%B3%E9%A4%9A%E5%B7%A1%E7%A6%AE_10th_Hong_Kong_Wine_%26_Dine_Festival_balls_October_2018_IX2.jpg
+  credit: 'Photo: Shuem Hongai / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:HK_%E4%B8%AD%E7%92%B0_Central_night_%E9%A6%99%E6%B8%AF%E7%BE%8E%E9%85%92%E4%BD%B3%E9%A4%9A%E5%B7%A1%E7%A6%AE_10th_Hong_Kong_Wine_%26_Dine_Festival_balls_October_2018_IX2.jpg
+  focus:
+    x: 45
+    'y': 45
 ---
 
 The Central Harbourfront is a strip of reclaimed land facing Victoria Harbour, normally used for exhibitions, concerts and the odd temporary carnival. For four days in late October and early November, it fills with rows of white marquee tents, folding tables and standing bars, each one rented out to a wine producer, a distillery, or a restaurant group pouring and plating for the crowd. That is the Hong Kong Wine & Dine Festival, and it is the largest event of its kind in the city.

@@ -5,7 +5,6 @@ country: Turkey
 region: Istanbul
 category: trendy
 pubDate: '2026-09-16'
-gallery: []
 tags:
   - istanbul
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: How should I get to Zorlu Center?
     a: Metro access plus mall parking and valet are available; confirm the nearest metro stop and current transit options before you go since infrastructure around the complex can change.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/1406201890_zEbR0IJLAg-0i0_8RYtamlRJCuxYmf-7LDA-sdC7qUA.jpg
+  credit: 'Photo: Foursquare user content (Sakhalin)'
+  license: foursquare
+  source: https://foursquare.com/v/6540d43cdb2b6d4ca401b619
+  focus:
+    x: 47
+    'y': 60
 ---
 
 ## What Sakhalin actually is

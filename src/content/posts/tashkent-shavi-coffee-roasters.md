@@ -5,14 +5,20 @@ country: Uzbekistan
 region: Tashkent
 category: trendy
 pubDate: '2026-09-16'
-gallery: []
 tags:
   - tashkent
   - new & trending
 quickAnswer: Shavi Coffee Roasters in Tashkent is the new outpost of the Tbilisi coffee chain on Bukhara Street, and it's already one of the busiest coffee counters in the city since opening. There's no verified crowd data yet, so aim for a weekday mid-morning if you want a seat, and confirm current hours before you go since a spot this new can still be adjusting its schedule. Expect a short wait even outside peak times given how fast it's caught on.
 faq: []
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/567567212_UiVOIhQIFG5Ihmi_KSDXgBVw1I76svzgwmalKtioVHA.jpg
+  credit: 'Photo: Foursquare user content (Shavi Coffee Roasters)'
+  license: foursquare
+  source: https://foursquare.com/v/69c533fdf59ba947fe219c49
+  focus:
+    x: 45
+    'y': 45
 ---
 
 Bukhara Street in Tashkent has turned into a corridor of new cafes and design-forward storefronts over the past couple of years, and Shavi Coffee Roasters is the newest name pulling people off the sidewalk. It's a transplant from Tbilisi, part of a small Georgian roasting chain that has been expanding fast enough to open a location in Washington DC around the same time it landed here.

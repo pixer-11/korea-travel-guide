@@ -5,7 +5,6 @@ country: Taiwan
 region: Taichung
 category: hidden-gem
 pubDate: '2026-09-16'
-gallery: []
 tags:
   - taichung
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What else is nearby in Taichung worth combining with a visit?
     a: Taichung's city center has a mix of night markets, museums and older Japanese-era architecture within a short taxi or bus ride, so it's easy to build a full day around a Sur dinner reservation.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/1976647_TEz5hMsa3KPbyV78GiUG0A7e3fGMpALxqIIuEz5KMh0.jpg
+  credit: 'Photo: Foursquare user content (澀 Sur-)'
+  license: foursquare
+  source: https://foursquare.com/v/64ccd4833f9d5c0af63a1132
+  focus:
+    x: 50
+    'y': 40
 ---
 
 Most diners hear "Michelin" and picture a stiff room with a wine list thicker than the menu. Sur works differently. It earned its spot in the 2026 MICHELIN Guide not through the usual star system but through the Green Star, a separate distinction the guide hands to restaurants that build sustainability into how they actually operate, not just how they market themselves.

@@ -5,7 +5,6 @@ country: United States
 region: New York
 category: hidden-gem
 pubDate: '2026-09-16'
-gallery: []
 tags:
   - new york
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What's nearby if I arrive early or need to wait?
     a: Chinatown's core streets, Mott, Mulberry and Grand, are within walking distance and packed with bakeries, tea shops and markets worth a wander before your table's ready.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/18132497_amhFsfiAaf_tjvRemKB0Oj0HaxXzTv0Nqa0EfOoQ5cc.jpg
+  credit: 'Photo: Foursquare user content (Lei)'
+  license: foursquare
+  source: https://foursquare.com/v/68439cdac3976d525658a711
+  focus:
+    x: 55
+    'y': 55
 ---
 
 Chinatown has hundreds of restaurants that have been doing the same thing for forty years, which is exactly why Lei stands out. It's a wine bar built around Chinese home cooking, the kind of food that rarely gets a proper wine pairing anywhere in New York, let alone a James Beard nod for doing it.

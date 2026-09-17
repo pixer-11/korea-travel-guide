@@ -22,13 +22,13 @@ faq:
     a: Eixample Esquerra is an easy walk from Passeig de Gracia's Gaudi landmarks, Placa Universitat, and the Sant Antoni market, making Romo a solid dinner anchor before or after exploring those areas.
 aiGenerated: true
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/5091439_uks7GWHaZYHCTBoIfATp1tFBhUpQK9lraBKAe6zRdOk.jpg
+  url: https://fastly.4sqi.net/img/general/original/11572176_Rp6QFipU158_LrzLEG7d8vmipDInwUDDMvMko3yrWp4.jpg
   credit: 'Photo: Foursquare user content (Romo)'
   license: foursquare
   source: https://foursquare.com/v/69eca096987dc95202d198c4
   focus:
-    x: 50
-    'y': 60
+    x: 45
+    'y': 55
 ---
 
 Eixample Esquerra isn't the part of Barcelona people think of first for pizza. It's grid-plan blocks, modernist facades, small design studios and neighbourhood bakeries, not the tourist-heavy lanes around the Sagrada Familia. Romo landed here quietly and has been getting louder ever since.

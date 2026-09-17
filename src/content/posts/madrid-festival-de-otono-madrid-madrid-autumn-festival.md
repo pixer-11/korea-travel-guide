@@ -10,6 +10,14 @@ eventEndDate: '2026-11-26'
 eventRecurring: true
 eventVenue: Various venues, Madrid
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Vista_de_Madrid_desde_la_catedral_de_la_Almudena%2C_Espa%C3%B1a%2C_2014-12-27%2C_DD_23.JPG/3840px-Vista_de_Madrid_desde_la_catedral_de_la_Almudena%2C_Espa%C3%B1a%2C_2014-12-27%2C_DD_23.JPG'
+  credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Vista_de_Madrid_desde_la_catedral_de_la_Almudena,_Espa%C3%B1a,_2014-12-27,_DD_23.JPG'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - madrid

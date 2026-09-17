@@ -5,7 +5,6 @@ country: Singapore
 region: Singapore
 category: restaurant
 pubDate: '2026-09-16'
-gallery: []
 tags:
   - singapore
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What's nearby if I arrive early?
     a: Scotts Square and Royal Plaza on Scotts are right next door, and ION Orchard is a few minutes' walk further down Orchard Road if you want to browse before your seating.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/136816523_lt-OryHUk5B-ZkDV4P0kyRvNNZCAztPaBSW1YHdbyQw.jpg
+  credit: 'Photo: Foursquare user content (Jiin Omakase)'
+  license: foursquare
+  source: https://foursquare.com/v/69d106e19b9cb047f6e67c10
+  focus:
+    x: 55
+    'y': 50
 ---
 
 Shaw Centre isn't the address you'd guess for a serious omakase counter. It's a 1970s office-and-retail block on Scotts Road at the top of Orchard Road, better known for cinema-goers and shoppers cutting through to Scotts Square. Jiin sits inside that ordinariness deliberately, another Les Amis Group project tucked among the group's cluster of fine-dining rooms rather than announced from the street.

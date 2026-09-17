@@ -5,7 +5,6 @@ country: Singapore
 region: Singapore
 category: trendy
 pubDate: '2026-09-16'
-gallery: []
 tags:
   - singapore
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Should I check hours before going?
     a: Yes. As a recently opened spot, hours and reservation policies aren't fully settled yet, so verify same-day via their official channels.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/128419718_hBEfHVhcXIpS14FsNPnsw786xhOSUbhQTmJhQTIgyxs.jpg
+  credit: 'Photo: Foursquare user content (Hi Stranger)'
+  license: foursquare
+  source: https://foursquare.com/v/6a47cd82e2ffe96ca6ff6e4a
+  focus:
+    x: 50
+    'y': 60
 ---
 
 Most new cocktail bars lean on a signature drink. Hi Stranger leans on a signature surface: molten, lava-toned visuals that ripple across the walls and bar top, catching every reflective edge in the room. It reads less like a bar you sip in and more like an installation you happen to be drinking inside.

@@ -5,14 +5,20 @@ country: Cambodia
 region: Siem Reap
 category: restaurant
 pubDate: '2026-09-16'
-gallery: []
 tags:
   - siem reap
   - new & trending
 quickAnswer: 1932 (Raffles Grand Hotel d'Angkor) is the signature restaurant inside the Raffles Grand Hotel d'Angkor, a short walk from Angkor National Museum in central Siem Reap, and it's currently the one to book for its four new Khmer tasting menus. Go for dinner if you want the full tasting-menu format, and reserve ahead since the hotel has just landed fresh recognition and tables are filling faster than usual. Confirm current hours, seating times and menu pricing directly with the hotel before you go, as these details shift.
 faq: []
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/42918260_PV0NqTlf3uQParuRBxyAom1u_0KsrdqCfMYSziXmrEw.jpg
+  credit: 'Photo: Foursquare user content (Raffles Grand Hotel d''Angkor)'
+  license: foursquare
+  source: https://foursquare.com/v/4d5e5d4d5c39b1f7637cea49
+  focus:
+    x: 50
+    'y': 45
 ---
 
 Named for the year the Grand Hotel d'Angkor first opened its doors, 1932 sits inside what is now the Raffles Grand Hotel d'Angkor, a colonial-era property built to house the earliest wave of Angkor Wat visitors. The restaurant occupies part of that original building, in central Siem Reap near the Royal Residence gardens and a short tuk-tuk ride from the Angkor National Museum. It's the hotel's flagship dining room, distinct from its bars and poolside outlets.

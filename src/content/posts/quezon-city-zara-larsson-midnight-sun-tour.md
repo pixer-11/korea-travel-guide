@@ -15,7 +15,6 @@ eventPerformer:
   name: Zara Larsson
   kind: person
 eventFactsAsked: true
-gallery: []
 tags:
   - quezon city
   - event
@@ -33,6 +32,16 @@ faq:
     a: Gateway Mall and Ali Mall are both within the Araneta City complex, offering food and shopping options before the show.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/c/c0/Zara_Larsson_%40_The_Observatory_OC_05_02_2019_%2848498569766%29.jpg
+  credit: 'Photo: Justin Higuchi from Los Angeles, CA, USA / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Zara_Larsson_@_The_Observatory_OC_05_02_2019_(48498569766).jpg
+  focus:
+    x: 82
+    'y': 19
+    top: 8
+    bottom: 30
 ---
 
 ## What's confirmed so far

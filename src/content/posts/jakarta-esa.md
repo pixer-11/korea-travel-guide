@@ -5,7 +5,6 @@ country: Indonesia
 region: Jakarta
 category: restaurant
 pubDate: '2026-09-16'
-gallery: []
 tags:
   - jakarta
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Can Esa accommodate dietary restrictions?
     a: Contact the restaurant when booking, since tasting menus are set sequences that are easier to adjust in advance than at the table.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/572639565_vgBDPsgGfiWgojq6KmnZ2UQKjA8M736mKj7grFAMS0s.jpg
+  credit: 'Photo: Foursquare user content (Esa)'
+  license: foursquare
+  source: https://foursquare.com/v/65eb11f207971f08e3a867f3
+  focus:
+    x: 35
+    'y': 60
 ---
 
 ## What Esa actually is

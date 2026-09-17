@@ -5,7 +5,6 @@ country: Malaysia
 region: Kuala Lumpur
 category: trendy
 pubDate: '2026-09-16'
-gallery: []
 tags:
   - kuala lumpur
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Is it good for a full day out?
     a: Yes. The Exchange TRX is a large mall with plenty of other shops and restaurants, so you can easily pair the burger with a few hours of browsing or a backup meal if the wait is long.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/894698_LEoTOS4xYrifdLCFjY4Qy3rov5s4rUQxW9HNQ4FyMn4.jpg
+  credit: 'Photo: Foursquare user content (Bobby’s Burgers)'
+  license: foursquare
+  source: https://foursquare.com/v/69bb7d69ec64fd25b6471608
+  focus:
+    x: 45
+    'y': 75
 ---
 
 ## What Bobby's Burgers actually is

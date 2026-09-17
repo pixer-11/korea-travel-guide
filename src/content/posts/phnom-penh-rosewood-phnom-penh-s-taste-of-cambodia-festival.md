@@ -5,7 +5,6 @@ country: Cambodia
 region: Phnom Penh
 category: trendy
 pubDate: '2026-09-16'
-gallery: []
 tags:
   - phnom penh
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What else can I do nearby to experience Cambodian food?
     a: Combine your visit with Central Market (Phsar Thmei) or the food stalls along Sisowath Quay for a street-level contrast to the hotel's refined take on the same cuisine.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/1923031_20-ZuHQa3DmWgeoLTAHYl22gA2uluzAdLAmpKoaTZv4.jpg
+  credit: 'Photo: Foursquare user content (Rosewood Phnom Penh)'
+  license: foursquare
+  source: https://foursquare.com/v/5ab9b291b04056778b5904f6
+  focus:
+    x: 50
+    'y': 60
 ---
 
 Phnom Penh has plenty of restaurants that put "Cambodian" on the menu almost as an afterthought, wedged between pad thai and pizza. This festival does the opposite: for a run of days, Rosewood Phnom Penh turns its dining spaces over entirely to Cambodian cuisine, treating it as the main event rather than a nod to location.

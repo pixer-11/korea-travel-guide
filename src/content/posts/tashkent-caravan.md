@@ -5,14 +5,20 @@ country: Uzbekistan
 region: Tashkent
 category: restaurant
 pubDate: '2026-09-16'
-gallery: []
 tags:
   - tashkent
   - new & trending
 quickAnswer: Caravan is a multi-story Uzbek restaurant in Tashkent known for serving two distinct styles of plov alongside grand wooden Eastern-style dining rooms and summer terraces. It draws a mix of well-heeled locals, visiting celebrities and tourists chasing the city's best-regarded plov, so book ahead and confirm hours before you go. Come hungry and plan to linger; this is a sit-down affair, not a quick lunch stop.
 faq: []
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/4848437_iFCAhw4haGiiI89O820LjABwptJFGMTJi7uMBdlLjFY.jpg
+  credit: 'Photo: Foursquare user content (Caravan)'
+  license: foursquare
+  source: https://foursquare.com/v/4dd4cdebb0fb7a332e71ae01
+  focus:
+    x: 45
+    'y': 65
 ---
 
 Tashkent has hundreds of places serving plov, but Caravan is the one people mention first when the conversation turns to where to get it done properly. The restaurant occupies a large, multi-level building built around the idea of Eastern hospitality on a grand scale: carved wooden ceilings, low seating nooks, and dining rooms that feel more like a merchant's house than a modern restaurant.

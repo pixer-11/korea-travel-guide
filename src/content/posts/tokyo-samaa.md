@@ -5,7 +5,6 @@ country: Japan
 region: Tokyo
 category: hidden-gem
 pubDate: '2026-09-16'
-gallery: []
 tags:
   - tokyo
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Is it easy to find without a fixed address in hand?
     a: Not really. Kamiuma has no single landmark to navigate by, so pull up the exact address or a recent map pin before you set out rather than trying to stumble on it.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/20239681_RIXbZAM_i3KyUo1vXCiUtnVzi-IMqu1AvFYiM7I3uVA.jpg
+  credit: 'Photo: Foursquare user content (SAMAA)'
+  license: foursquare
+  source: https://foursquare.com/v/68de4f7f80e52e2c89c6e993
+  focus:
+    x: 40
+    'y': 55
 ---
 
 Sangenjaya doesn't announce itself the way Shibuya or Shimokitazawa do. It's a residential grid of narrow lanes, laundry poles over balconies, and small shopfronts that have been there for decades. SAMAA_ sits in the Kamiuma stretch of this neighborhood, inside a building that's been standing for about seventy years and was restored with a light touch rather than gutted and rebuilt.

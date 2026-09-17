@@ -5,14 +5,20 @@ country: Spain
 region: Barcelona
 category: hidden-gem
 pubDate: '2026-09-16'
-gallery: []
 tags:
   - barcelona
   - new & trending
 quickAnswer: Bar Super is a natural-wine bar in Barcelona's El Born neighbourhood, tucked right by the Santa Caterina market, pairing low-intervention wines with Italian-Catalan small plates. It's small, recently opened, and already pulling a loyal local crowd, so go early or book ahead rather than turning up at peak dinner hours. Best treated as a pre-dinner stop or a late, unhurried one, not a place to rush.
 faq: []
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/566395797_Wipy2z8mYJd8ikuleU6UDb6Wh53MbyyXhzpsIktNe-M.jpg
+  credit: 'Photo: Foursquare user content (Bar Super)'
+  license: foursquare
+  source: https://foursquare.com/v/67e412595cf5aa798a44f445
+  focus:
+    x: 45
+    'y': 65
 ---
 
 El Born has no shortage of wine bars, but Bar Super earns its name by doing one thing with real focus: natural wine, poured by people who clearly taste everything before it goes on the list. It sits close enough to the Santa Caterina market that the kitchen leans on what the stalls are selling that week, which shows up on the plate rather than on some laminated menu.

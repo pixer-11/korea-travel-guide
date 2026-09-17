@@ -1,6 +1,8 @@
 ---
 title: 'Jidai Matsuri: Dates, Tickets & Venue (Kyoto)'
-description: Jidai Matsuri in Kyoto, Japan — October 22, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Jidai Matsuri in Kyoto, Japan — October 22, 2026. What it is, when and where,
+  and how to plan around it.
 country: Japan
 region: Kyoto
 category: event
@@ -14,29 +16,50 @@ eventOffers:
   currency: JPY
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/c/ca/Jidai_Matsuri-Yoshino_Period_1.jpg
-  credit: 'Photo: Cookie4869 / Wikimedia Commons (CC BY 2.5)'
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Observation_deck_at_Kyoto_Tower_with_staff_cleaning_the_windows%2C_Japan.jpg/3840px-Observation_deck_at_Kyoto_Tower_with_staff_cleaning_the_windows%2C_Japan.jpg'
+  credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Jidai_Matsuri-Yoshino_Period_1.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Observation_deck_at_Kyoto_Tower_with_staff_cleaning_the_windows,_Japan.jpg'
   focus:
-    x: 40
-    'y': 55
+    x: 50
+    y: 45
 gallery: []
 tags:
   - kyoto
   - event
-quickAnswer: Jidai Matsuri 2026 in Kyoto is scheduled for October 22, 2026, with the parade running from the Imperial Palace to Heian Shrine. Free viewing spots line the route (Karasuma-dori, Oike-dori, Kawaramachi-dori); paid reserved seating is sold separately near the start. Confirm timing and tickets on the official site before you plan your day.
+quickAnswer: >-
+  Jidai Matsuri 2026 in Kyoto is scheduled for October 22, 2026, with the parade
+  running from the Imperial Palace to Heian Shrine. Free viewing spots line the
+  route (Karasuma-dori, Oike-dori, Kawaramachi-dori); paid reserved seating is
+  sold separately near the start. Confirm timing and tickets on the official
+  site before you plan your day.
 faq:
   - q: What are the dates for Jidai Matsuri 2026?
-    a: The parade is scheduled for October 22, 2026, running from the Kyoto Imperial Palace grounds to Heian Shrine. Confirm timing on the official site, since weather-related rescheduling has happened in past years.
+    a: >-
+      The parade is scheduled for October 22, 2026, running from the Kyoto
+      Imperial Palace grounds to Heian Shrine. Confirm timing on the official
+      site, since weather-related rescheduling has happened in past years.
   - q: Do I need a ticket to watch Jidai Matsuri?
-    a: No ticket is needed for standing views along most of the route on Karasuma-dori, Oike-dori, and Kawaramachi-dori. Paid reserved grandstand seating is available near the start of the route through the Kyoto City Tourism Association for those who want a seat.
+    a: >-
+      No ticket is needed for standing views along most of the route on
+      Karasuma-dori, Oike-dori, and Kawaramachi-dori. Paid reserved grandstand
+      seating is available near the start of the route through the Kyoto City
+      Tourism Association for those who want a seat.
   - q: Which station should I use to reach the parade?
-    a: For the start near the Imperial Palace, use Marutamachi or Imadegawa station on the Karasuma subway line. For the finish at Heian Shrine, use Higashiyama or Jingu-Marutamachi station on the Tozai line.
+    a: >-
+      For the start near the Imperial Palace, use Marutamachi or Imadegawa
+      station on the Karasuma subway line. For the finish at Heian Shrine, use
+      Higashiyama or Jingu-Marutamachi station on the Tozai line.
   - q: How long does the parade take to watch?
-    a: The full procession runs for several hours from late morning into early afternoon, but most visitors watch from one spot for one to two hours rather than following the whole route.
+    a: >-
+      The full procession runs for several hours from late morning into early
+      afternoon, but most visitors watch from one spot for one to two hours
+      rather than following the whole route.
   - q: What else can I do nearby after the parade?
-    a: Heian Shrine sits right at the finish line, and the surrounding Okazaki area has canal paths and museums, including the Kyoto Municipal Museum of Art, making it an easy add-on for the rest of the afternoon.
+    a: >-
+      Heian Shrine sits right at the finish line, and the surrounding Okazaki
+      area has canal paths and museums, including the Kyoto Municipal Museum of
+      Art, making it an easy add-on for the rest of the afternoon.
 aiGenerated: true
 draft: false
 ---
