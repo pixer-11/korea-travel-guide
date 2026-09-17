@@ -14,7 +14,7 @@
     "seed:dummy": "cross-env DUMMY=1 POSTS_PER_RUN=25 node scripts/generate.mjs",
     "refresh": "node scripts/refresh.mjs",
     "test": "node --test",
-    "ci": "node scripts/lint-deps.mjs && node scripts/lint-undeclared.mjs && node scripts/check-writer-safety.mjs && node scripts/audit-checkers.mjs && astro check --minimumSeverity error && node --test"
+    "ci": "node scripts/lint-deps.mjs && node scripts/lint-undeclared.mjs && node scripts/check-writer-safety.mjs && node scripts/audit-checkers.mjs && node scripts/audit-frontmatter-parse.mjs && astro check --minimumSeverity error && node --test"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.30.1",
