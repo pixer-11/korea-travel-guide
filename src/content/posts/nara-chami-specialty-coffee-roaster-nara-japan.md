@@ -1,38 +1,49 @@
 ---
 title: 'CHAMI - Specialty Coffee Roaster - Nara, JAPAN: Travel Guide'
-description: CHAMI is a specialty coffee roaster in Nara's old town, a short walk from Nara Park and Yanagi-Chaya Station, known for single-origin pour-overs and a minimalist, design-forward space.
+description: >-
+  CHAMI is a specialty coffee roaster in Nara's old town, a short walk from Nara
+  Park and Yanagi-Chaya Station, known for single-origin pour-overs and a
+  minimalist, design-forward space.
 country: Japan
 region: Nara
 category: trendy
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/445641_WpjJVSFA2RBwHl1ck--DlvkzJKwMBQHgNtXJXjv9ols.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/445641_WpjJVSFA2RBwHl1ck--DlvkzJKwMBQHgNtXJXjv9ols.jpg
   credit: 'Photo: Foursquare user content (CHAMI)'
   license: foursquare
-  source: https://foursquare.com/v/5dbd0fc66c2a1c00082fafd2
+  source: 'https://foursquare.com/v/5dbd0fc66c2a1c00082fafd2'
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/525323437_kQ1pJ1sH_N1UMLrVSiSvWQH1ttBvmuGBtJyuZmgF9Ws.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/525323437_kQ1pJ1sH_N1UMLrVSiSvWQH1ttBvmuGBtJyuZmgF9Ws.jpg
     credit: 'Photo: Foursquare user content (CHAMI)'
     license: foursquare
-    source: https://foursquare.com/v/5dbd0fc66c2a1c00082fafd2
+    source: 'https://foursquare.com/v/5dbd0fc66c2a1c00082fafd2'
 place:
   id: ChIJUffCkl47AWARy6BKw4o3RXY
-  name: CHAMI - Specialty Coffee Roaster - Nara, JAPAN
-  address: 6-2 Tsunofurishinyachō, Nara, 630-8223, Japan
+  name: 'CHAMI - Specialty Coffee Roaster - Nara, JAPAN'
+  address: '6-2 Tsunofurishinyachō, Nara, 630-8223, Japan'
   rating: 4.7
-  userRatingsTotal: 1738
-  googleMapsUrl: https://maps.google.com/?cid=8522278938989994187&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 1774
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8522278938989994187&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 34.6817762
   lng: 135.82765229999998
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet: [8, 18]
+    weekdayQuiet:
+      - 8
+      - 18
     weekdayBusy:
       - 11
       - 12
       - 13
-    weekendQuiet: [8, 17, 18]
+    weekendQuiet:
+      - 8
+      - 17
+      - 18
     weekendBusy:
       - 11
       - 12
@@ -40,7 +51,7 @@ place:
       - 14
       - 15
     venueId: ven_595852336f34774b4236795241574137346c6b436666554a496843
-  phone: '+81 742-31-1393'
+  phone: +81 742-31-1393
   openingHours:
     - 'Monday: 7:30 AM – 7:00 PM'
     - 'Tuesday: 7:30 AM – 7:00 PM'
@@ -49,22 +60,45 @@ place:
     - 'Friday: 7:30 AM – 7:00 PM'
     - 'Saturday: 7:30 AM – 7:00 PM'
     - 'Sunday: 7:30 AM – 7:00 PM'
+  priceLevel: 2
 tags:
   - nara
   - trendy cafe
-quickAnswer: CHAMI is a specialty coffee roaster in Nara's old town, a short walk from Nara Park and Yanagi-Chaya Station, known for single-origin pour-overs and a minimalist, design-forward space. Go on a weekday morning to avoid queues, budget 30-45 minutes, and pair it with a stroll through the nearby Naramachi merchant district. Cash and card are typically both accepted, but confirm hours before visiting since roasters occasionally close for roasting days.
+quickAnswer: >-
+  CHAMI is a specialty coffee roaster in Nara's old town, a short walk from Nara
+  Park and Yanagi-Chaya Station, known for single-origin pour-overs and a
+  minimalist, design-forward space. Go on a weekday morning to avoid queues,
+  budget 30-45 minutes, and pair it with a stroll through the nearby Naramachi
+  merchant district. Cash and card are typically both accepted, but confirm
+  hours before visiting since roasters occasionally close for roasting days.
 faq:
   - q: How do I get to CHAMI from central Nara?
-    a: Walk about 15-20 minutes from Kintetsu Nara Station through the Naramachi old town, or use Yanagi-Chaya Station on the Kintetsu line, which sits a bit closer to the address at 6-2 Tsunofurishinyachō.
+    a: >-
+      Walk about 15-20 minutes from Kintetsu Nara Station through the Naramachi
+      old town, or use Yanagi-Chaya Station on the Kintetsu line, which sits a
+      bit closer to the address at 6-2 Tsunofurishinyachō.
   - q: How much time should I budget for a visit?
-    a: Around 30-45 minutes if you're sitting down for a pour-over and chatting about bean origins; 10-15 minutes if you're grabbing an espresso to go or just buying roasted beans.
+    a: >-
+      Around 30-45 minutes if you're sitting down for a pour-over and chatting
+      about bean origins; 10-15 minutes if you're grabbing an espresso to go or
+      just buying roasted beans.
   - q: Is CHAMI easy to combine with temple sightseeing?
-    a: Yes — it's within a 20-30 minute walk of Nara Park, Todai-ji, and Kasuga Taisha, so it works well as a coffee break before or after a temple loop.
+    a: >-
+      Yes — it's within a 20-30 minute walk of Nara Park, Todai-ji, and Kasuga
+      Taisha, so it works well as a coffee break before or after a temple loop.
   - q: What's the best time to visit to avoid crowds?
-    a: Weekday mornings, ideally right after opening. Weekends and the cherry blossom (late March-early April) and autumn foliage (November) seasons bring the heaviest crowds to nearby Nara Park, which spills into Naramachi cafes.
+    a: >-
+      Weekday mornings, ideally right after opening. Weekends and the cherry
+      blossom (late March-early April) and autumn foliage (November) seasons
+      bring the heaviest crowds to nearby Nara Park, which spills into Naramachi
+      cafes.
   - q: Can I buy the coffee beans to take home?
-    a: As a roaster, CHAMI typically sells bagged beans of its rotating single-origin selection, making it a good spot to pick up a distinctive souvenir — bring a bag or tote if you plan to buy some.
+    a: >-
+      As a roaster, CHAMI typically sells bagged beans of its rotating
+      single-origin selection, making it a good spot to pick up a distinctive
+      souvenir — bring a bag or tote if you plan to buy some.
 aiGenerated: true
+updatedDate: '2026-09-17'
 ---
 
 ## Why CHAMI stands out

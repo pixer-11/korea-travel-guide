@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: jiufen-golden-waterfall
-srcHash: 'c13d85f79c93'
+srcHash: '5546e9952371'
 title: 'Cascada Dorada: guía de viaje de Jiufen (4,4★)'
-description: 'La Cascada Dorada (vecina del Mar Yin Yang, en la carretera Jinshui, distrito de Ruifang) es una cascada junto a la carretera, cerca de Jiufen, donde los residuos minerales de las antiguas minas de Jinguashi tiñen las rocas y el agua de tonos naranjas y óxido. 4,4★ (13.732 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'La Cascada Dorada (vecina del Mar Yin Yang, en la carretera Jinshui, distrito de Ruifang) es una cascada junto a la carretera, cerca de Jiufen, donde los residuos minerales de las antiguas minas de Jinguashi tiñen las rocas y el agua de tonos naranjas y óxido. 4,4★ (13.733 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Cascada Dorada (vecina del Mar Yin Yang, en la carretera Jinshui, distrito de Ruifang) es una cascada junto a la carretera, cerca de Jiufen, donde los residuos minerales de las antiguas minas de Jinguashi tiñen las rocas y el agua de tonos naranjas y óxido. Está abierta las 24 horas y se puede ver gratis desde la carretera, así que la mejor estrategia no es preocuparse por el horario, sino elegir bien el momento para evitar la avalancha de autobuses turísticos. Combínala con el cercano Mar Yin Yang y las ruinas de la fundición de Shuinandong para completar una excursión de medio día por la costa.
 faq:
   - q: ¿Dónde está exactamente la Cascada Dorada y cómo llego desde Taipéi?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: nashville-cheekwood
-srcHash: '09953fdcead4'
+srcHash: '6500419160a1'
 title: 'Cheekwood: Guía de viaje de Nashville (4.7★)'
-description: 'Cheekwood, la finca de los años 30 con jardín botánico en la zona de Forest Hills en Nashville, abre de martes a domingo, de 9:00 a 17:00, y cierra los lunes. 4.7★ (6,144 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Cheekwood, la finca de los años 30 con jardín botánico en la zona de Forest Hills en Nashville, abre de martes a domingo, de 9:00 a 17:00, y cierra los lunes. 4.7★ (6,153 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Cheekwood, la finca de los años 30 con jardín botánico en la zona de Forest Hills en Nashville, abre de martes a domingo, de 9:00 a 17:00, y cierra los lunes. Los fines de semana, entre las 10:00 y las 17:00, recibe muchísimas visitas, así que conviene ir un día entre semana justo a la apertura. Para recorrer con calma la mansión, el museo de arte y los jardines, hay que reservar entre dos y cuatro horas.
 faq:
   - q: ¿Cuál es el horario de Cheekwood?

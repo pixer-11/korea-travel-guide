@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: hualien-farglory-ocean-park
-srcHash: '858fc31b5570'
+srcHash: 'e86761c85631'
 title: 'Farglory Ocean Park: guía de viaje de Hualien (4,4★)'
-description: 'Farglory Ocean Park, en el municipio de Shoufeng, justo al norte de la ciudad de Hualien, combina un acuario, un parque temático con espectáculos de animales y un teleférico construido alrededor de un muelle de estilo británico del siglo XIX. 4,4★ (28.085 opiniones): lo que dicen los visitantes, horarios y consejos.'
+description: 'Farglory Ocean Park, en el municipio de Shoufeng, justo al norte de la ciudad de Hualien, combina un acuario, un parque temático con espectáculos de animales y un teleférico construido alrededor de un muelle de estilo británico del siglo XIX. 4,4★ (28.086 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Farglory Ocean Park, en el municipio de Shoufeng, justo al norte de la ciudad de Hualien, combina un acuario, un parque temático con espectáculos de animales y un teleférico, todo ello construido alrededor de un muelle que imita los del Reino Unido del siglo XIX. Abre todos los días de 9:30 a 17:00, así que conviene planificar una jornada completa en lugar de una visita corta. La afluencia es mayor los fines de semana, por lo que visitarlo en día de semana deja más espacio para moverse entre los pabellones del acuario y las atracciones.
 faq:
   - q: ¿Cómo se llega a Farglory Ocean Park desde la ciudad de Hualien?

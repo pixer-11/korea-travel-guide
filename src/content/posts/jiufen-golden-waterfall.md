@@ -1,54 +1,83 @@
 ---
-title: "Golden Waterfall: Jiufen Travel Guide (4.4★)"
-description: "Golden Waterfall (Yin Yang Hai's neighbour on Jinshui Road, Ruifang District) is a roadside waterfall near Jiufen where mineral runoff from the old Jinguashi mines stains the rocks and water shades of orange and rust. 4.4★ (13,732 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Jiufen"
-category: "attraction"
-pubDate: "2026-09-17T08:02:34.038Z"
+title: 'Golden Waterfall: Jiufen Travel Guide (4.4★)'
+description: >-
+  Golden Waterfall (Yin Yang Hai's neighbour on Jinshui Road, Ruifang District)
+  is a roadside waterfall near Jiufen where mineral runoff from the old
+  Jinguashi mines stains the rocks and water shades of orange and rust. 4.4★
+  (13,733 reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: Jiufen
+category: attraction
+pubDate: '2026-09-17T08:02:34.038Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Jiufen_Golden_Waterfall_08.jpg/1920px-Jiufen_Golden_Waterfall_08.jpg"
-  credit: "Photo: Zairon / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Jiufen_Golden_Waterfall_08.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Jiufen_Golden_Waterfall_08.jpg/1920px-Jiufen_Golden_Waterfall_08.jpg
+  credit: 'Photo: Zairon / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Jiufen_Golden_Waterfall_08.jpg'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJV6Smh_xEXTQR8GdS0X6lqds"
-  name: "Golden Waterfall"
-  address: "Jinshui Rd, Ruifang District, New Taipei City, Taiwan 224"
+  id: ChIJV6Smh_xEXTQR8GdS0X6lqds
+  name: Golden Waterfall
+  address: 'Jinshui Rd, Ruifang District, New Taipei City, Taiwan 224'
   rating: 4.4
-  userRatingsTotal: 13732
-  googleMapsUrl: "https://maps.google.com/?cid=15828364329466619888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 13733
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15828364329466619888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.1171278
   lng: 121.8614895
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "jiufen"
-  - "park"
-quickAnswer: "Golden Waterfall (Yin Yang Hai's neighbour on Jinshui Road, Ruifang District) is a roadside waterfall near Jiufen where mineral runoff from the old Jinguashi mines stains the rocks and water shades of orange and rust. It's open 24 hours and free to view from the road, so the best strategy is simply timing your visit around the tour-bus crush rather than worrying about opening hours. Pair it with the nearby Yin Yang Sea and Shuinandong Smelter ruins for a half-day loop by the coast."
+  - jiufen
+  - park
+quickAnswer: >-
+  Golden Waterfall (Yin Yang Hai's neighbour on Jinshui Road, Ruifang District)
+  is a roadside waterfall near Jiufen where mineral runoff from the old
+  Jinguashi mines stains the rocks and water shades of orange and rust. It's
+  open 24 hours and free to view from the road, so the best strategy is simply
+  timing your visit around the tour-bus crush rather than worrying about opening
+  hours. Pair it with the nearby Yin Yang Sea and Shuinandong Smelter ruins for
+  a half-day loop by the coast.
 faq:
-  - q: "Where exactly is Golden Waterfall and how do I get there from Taipei?"
-    a: "It's on Jinshui Road in Ruifang District, New Taipei City, between Jiufen and the coastal town of Shuinandong. From Taipei, take a train or bus to Ruifang Station, then a Keelung Bus toward Jinguashi/Jiufen; it's also a standard stop on shared Jiufen/Northeast Coast day tours."
-  - q: "Is there an entrance fee?"
-    a: "No, it's a roadside natural feature with free public access via a short path, open 24 hours since there's no gate or ticket booth."
-  - q: "How long should I spend there?"
-    a: "Most visitors spend five to fifteen minutes here; it's a photo and quick-look stop best combined with nearby Yin Yang Sea and Jiufen Old Street rather than a standalone destination."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Tour buses cluster here in late morning and early afternoon after groups finish Jiufen Old Street. Arriving before 9am or visiting late afternoon generally means fewer buses and easier parking."
-  - q: "Can I swim or touch the water?"
-    a: "It's not meant for swimming or wading; the orange colour comes from mineral runoff (iron and copper) from old mining operations, so it's a look-and-photograph stop rather than a recreational one."
+  - q: Where exactly is Golden Waterfall and how do I get there from Taipei?
+    a: >-
+      It's on Jinshui Road in Ruifang District, New Taipei City, between Jiufen
+      and the coastal town of Shuinandong. From Taipei, take a train or bus to
+      Ruifang Station, then a Keelung Bus toward Jinguashi/Jiufen; it's also a
+      standard stop on shared Jiufen/Northeast Coast day tours.
+  - q: Is there an entrance fee?
+    a: >-
+      No, it's a roadside natural feature with free public access via a short
+      path, open 24 hours since there's no gate or ticket booth.
+  - q: How long should I spend there?
+    a: >-
+      Most visitors spend five to fifteen minutes here; it's a photo and
+      quick-look stop best combined with nearby Yin Yang Sea and Jiufen Old
+      Street rather than a standalone destination.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Tour buses cluster here in late morning and early afternoon after groups
+      finish Jiufen Old Street. Arriving before 9am or visiting late afternoon
+      generally means fewer buses and easier parking.
+  - q: Can I swim or touch the water?
+    a: >-
+      It's not meant for swimming or wading; the orange colour comes from
+      mineral runoff (iron and copper) from old mining operations, so it's a
+      look-and-photograph stop rather than a recreational one.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-17'
 ---
 
 ## What's actually turning the water gold

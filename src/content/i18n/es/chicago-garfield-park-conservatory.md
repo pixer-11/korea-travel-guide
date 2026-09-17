@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: chicago-garfield-park-conservatory
-srcHash: '5997768051e6'
+srcHash: 'b402640eadc2'
 title: 'Garfield Park Conservatory: Guía de viaje de Chicago (4.8★)'
-description: 'El Garfield Park Conservatory se encuentra en el West Side de Chicago, en el 300 N Central Park Ave, dentro del extenso Garfield Park de 184 acres. 4.8★ (10,659 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Garfield Park Conservatory se encuentra en el West Side de Chicago, en el 300 N Central Park Ave, dentro del extenso Garfield Park de 184 acres. 4.8★ (10,658 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Garfield Park Conservatory se encuentra en el West Side de Chicago, en el 300 N Central Park Ave, dentro del extenso Garfield Park de 184 acres. Permanece cerrado los lunes y martes, abre de 10am a 8pm los miércoles y de 10am a 5pm de jueves a domingo, y la entrada es gratuita. Los fines de semana entre las 10am y las 5pm son cuando más gente se concentra, así que una visita entre semana o un miércoles por la tarde después de las 4pm es la mejor opción para disfrutar de las salas con tranquilidad.
 faq:
   - q: ¿La entrada al Garfield Park Conservatory es gratuita?

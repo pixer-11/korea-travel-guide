@@ -1,56 +1,84 @@
 ---
-title: "Mizuya Chaya: Where to Eat in Nara"
-description: Mizuya Chaya is a rustic teahouse-restaurant tucked in the forest along the approach to Kasuga Taisha in Nara Park, best known for its warabimochi and simple udon/somen set meals served in a traditional thatched-roof setting.
+title: 'Mizuya Chaya: Where to Eat in Nara'
+description: >-
+  Mizuya Chaya is a rustic teahouse-restaurant tucked in the forest along the
+  approach to Kasuga Taisha in Nara Park, best known for its warabimochi and
+  simple udon/somen set meals served in a traditional thatched-roof setting.
 country: Japan
 region: Nara
 category: restaurant
-pubDate: "2026-07-22T09:03:25.722Z"
+pubDate: '2026-07-22T09:03:25.722Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/10469860_Cjxy4-AuDDr7n4Mt2gDsEiSrcmi8s7I2q38wWYSWTcw.jpg
-  credit: "Photo: Foursquare user content (Mizuya-Chaya (水谷茶屋))"
+  url: >-
+    https://fastly.4sqi.net/img/general/original/10469860_Cjxy4-AuDDr7n4Mt2gDsEiSrcmi8s7I2q38wWYSWTcw.jpg
+  credit: 'Photo: Foursquare user content (Mizuya-Chaya (水谷茶屋))'
   license: foursquare
-  source: https://foursquare.com/v/4be11821a7380f475b4a19b0
+  source: 'https://foursquare.com/v/4be11821a7380f475b4a19b0'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chaya_%28teahouse%29_in_Nara_Park.jpg/1920px-Chaya_%28teahouse%29_in_Nara_Park.jpg
-    credit: "Photo: MichaelMaggs / Wikimedia Commons (CC BY-SA 3.0)"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chaya_%28teahouse%29_in_Nara_Park.jpg/1920px-Chaya_%28teahouse%29_in_Nara_Park.jpg
+    credit: 'Photo: MichaelMaggs / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Chaya_(teahouse)_in_Nara_Park.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Chaya_(teahouse)_in_Nara_Park.jpg'
 place:
   id: ChIJj9LYfJU5AWARbAtuh3oHDSc
   name: Mizuya Chaya
-  address: 30 Kasuganochō, Nara, 630-8212, Japan
+  address: '30 Kasuganochō, Nara, 630-8212, Japan'
   rating: 4.7
-  userRatingsTotal: 1228
+  userRatingsTotal: 1252
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=2813913565015968620&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2813913565015968620&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 34.6834713
   lng: 135.8468033
   phone: +81 742-22-0627
   openingHours:
-    - "Monday: 11:00 AM – 3:30 PM"
-    - "Tuesday: Closed"
-    - "Wednesday: Closed"
-    - "Thursday: 11:00 AM – 3:30 PM"
-    - "Friday: 11:00 AM – 3:30 PM"
-    - "Saturday: 11:00 AM – 3:30 PM"
-    - "Sunday: 11:00 AM – 3:30 PM"
+    - 'Monday: 11:00 AM – 3:30 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: Closed'
+    - 'Thursday: 11:00 AM – 3:30 PM'
+    - 'Friday: 11:00 AM – 3:30 PM'
+    - 'Saturday: 11:00 AM – 3:30 PM'
+    - 'Sunday: 11:00 AM – 3:30 PM'
 tags:
   - nara
   - street food
-quickAnswer: Mizuya Chaya is a rustic teahouse-restaurant tucked in the forest along the approach to Kasuga Taisha in Nara Park, best known for its warabimochi and simple udon/somen set meals served in a traditional thatched-roof setting. Go on foot from Kasuga Taisha's main approach, expect a short wait at busy lunch hours, and budget 30–45 minutes for a meal or tea break amid the park's wandering deer.
+quickAnswer: >-
+  Mizuya Chaya is a rustic teahouse-restaurant tucked in the forest along the
+  approach to Kasuga Taisha in Nara Park, best known for its warabimochi and
+  simple udon/somen set meals served in a traditional thatched-roof setting. Go
+  on foot from Kasuga Taisha's main approach, expect a short wait at busy lunch
+  hours, and budget 30–45 minutes for a meal or tea break amid the park's
+  wandering deer.
 faq:
   - q: How do I get to Mizuya Chaya?
-    a: Walk into Nara Park from Kintetsu Nara Station (about 25–30 minutes) or JR Nara Station (a bit longer), heading toward Kasuga Taisha. The teahouse sits directly on the approach path, among the stone lanterns, just before the shrine itself.
+    a: >-
+      Walk into Nara Park from Kintetsu Nara Station (about 25–30 minutes) or JR
+      Nara Station (a bit longer), heading toward Kasuga Taisha. The teahouse
+      sits directly on the approach path, among the stone lanterns, just before
+      the shrine itself.
   - q: What should I order?
-    a: The warabimochi (bracken-starch mochi with kinako soybean powder and black sugar syrup) is the signature dish. For a fuller meal, go with the udon or somen noodle sets.
+    a: >-
+      The warabimochi (bracken-starch mochi with kinako soybean powder and black
+      sugar syrup) is the signature dish. For a fuller meal, go with the udon or
+      somen noodle sets.
   - q: How much does it cost?
-    a: It's a moderate price level, generally in the ¥1,000–2,000 range per person for a light meal or sweets set — inexpensive by Western restaurant standards but a step above a street snack.
+    a: >-
+      It's a moderate price level, generally in the ¥1,000–2,000 range per
+      person for a light meal or sweets set — inexpensive by Western restaurant
+      standards but a step above a street snack.
   - q: How long should I plan to stay?
-    a: 30–45 minutes is typical for a tea and sweets break; a bit longer if you order a full noodle set and want to linger over the forest view.
+    a: >-
+      30–45 minutes is typical for a tea and sweets break; a bit longer if you
+      order a full noodle set and want to linger over the forest view.
   - q: What else is nearby?
-    a: Kasuga Taisha is a five-minute walk further up the path, and Todai-ji, Nara Park's deer meadows, and the Nara National Museum are all within a 15–20 minute walk back toward central Nara.
+    a: >-
+      Kasuga Taisha is a five-minute walk further up the path, and Todai-ji,
+      Nara Park's deer meadows, and the Nara National Museum are all within a
+      15–20 minute walk back toward central Nara.
 aiGenerated: true
+updatedDate: '2026-09-17'
 ---
 
 ## Why go

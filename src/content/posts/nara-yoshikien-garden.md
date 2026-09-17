@@ -1,27 +1,36 @@
 ---
 title: 'Yoshikien Garden: Nara Travel Guide (4.6★)'
-description: Yoshikien Garden is a quiet three-in-one strolling garden right next to Nara Park, open daily 9am–5pm, and it's genuinely underrated compared to its famous neighbors Todai-ji and Isuien. 4.6★ (1,210 reviews) — what visitors say, hours, and tips.
+description: >-
+  Yoshikien Garden is a quiet three-in-one strolling garden right next to Nara
+  Park, open daily 9am–5pm, and it's genuinely underrated compared to its famous
+  neighbors Todai-ji and Isuien. 4.6★ (1,221 reviews) — what visitors say,
+  hours, and tips.
 country: Japan
 region: Nara
 category: attraction
 pubDate: '2026-08-08T08:16:43.040Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Yoshikien_garden%2C_Nara_-_Mar_13%2C_2022.jpg/1920px-Yoshikien_garden%2C_Nara_-_Mar_13%2C_2022.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Yoshikien_garden%2C_Nara_-_Mar_13%2C_2022.jpg/1920px-Yoshikien_garden%2C_Nara_-_Mar_13%2C_2022.jpg
   credit: 'Photo: coniferconifer / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Yoshikien_garden,_Nara_-_Mar_13,_2022.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Yoshikien_garden,_Nara_-_Mar_13,_2022.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Yoshikien_Garden_in_Nara_-_panoramio.jpg/1280px-Yoshikien_Garden_in_Nara_-_panoramio.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Yoshikien_Garden_in_Nara_-_panoramio.jpg/1280px-Yoshikien_Garden_in_Nara_-_panoramio.jpg
     credit: 'Photo: Tomi Mäkitalo / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Yoshikien_Garden_in_Nara_-_panoramio.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Yoshikien_Garden_in_Nara_-_panoramio.jpg
 place:
   id: ChIJVVXR5I85AWARNCgUmaCemHE
   name: Yoshikien Garden
-  address: 60-1 Noboriōjichō, Nara, 630-8213, Japan
+  address: '60-1 Noboriōjichō, Nara, 630-8213, Japan'
   rating: 4.6
-  userRatingsTotal: 1210
-  googleMapsUrl: https://maps.google.com/?cid=8185466735346067508&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 1221
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8185466735346067508&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 34.685476099999995
   lng: 135.8363105
@@ -46,20 +55,38 @@ place:
 tags:
   - nara
   - park
-quickAnswer: Yoshikien Garden is a quiet three-in-one strolling garden right next to Nara Park, open daily 9am–5pm, and it's genuinely underrated compared to its famous neighbors Todai-ji and Isuien. Foreign visitors currently get in free. Weekends are calmest between 4pm and 5pm and busiest from noon to 3pm, so aim for late afternoon.
+quickAnswer: >-
+  Yoshikien Garden is a quiet three-in-one strolling garden right next to Nara
+  Park, open daily 9am–5pm, and it's genuinely underrated compared to its famous
+  neighbors Todai-ji and Isuien. Foreign visitors currently get in free.
+  Weekends are calmest between 4pm and 5pm and busiest from noon to 3pm, so aim
+  for late afternoon.
 faq:
   - q: Is Yoshikien Garden free to visit?
-    a: Yes, for international visitors — overseas tourists currently get free admission with ID, while Japanese domestic visitors pay a small entry fee at the gate. Policies can change, so confirm on arrival.
+    a: >-
+      Yes, for international visitors — overseas tourists currently get free
+      admission with ID, while Japanese domestic visitors pay a small entry fee
+      at the gate. Policies can change, so confirm on arrival.
   - q: How do I get to Yoshikien Garden from Nara Station?
-    a: It's about a 20–25 minute walk from JR Nara or Kintetsu Nara Station, heading through Nara Park past the deer meadows toward Todai-ji, with the garden just beyond Isuien Garden.
+    a: >-
+      It's about a 20–25 minute walk from JR Nara or Kintetsu Nara Station,
+      heading through Nara Park past the deer meadows toward Todai-ji, with the
+      garden just beyond Isuien Garden.
   - q: When is the quietest time to visit?
-    a: On weekends, 4pm–5pm is calmest, right before closing. Avoid weekend midday, especially 12pm–3pm, when it's busiest with day-trippers.
+    a: >-
+      On weekends, 4pm–5pm is calmest, right before closing. Avoid weekend
+      midday, especially 12pm–3pm, when it's busiest with day-trippers.
   - q: How long should I spend at Yoshikien?
-    a: Plan for 30–45 minutes to walk all three gardens and sit at the teahouse veranda; add more if you're pairing it with Isuien next door.
+    a: >-
+      Plan for 30–45 minutes to walk all three gardens and sit at the teahouse
+      veranda; add more if you're pairing it with Isuien next door.
   - q: What's the best season to see Yoshikien?
-    a: Late November for peak autumn maple color is the standout season, though spring's fresh greenery and occasional blossoms are also worth seeing.
+    a: >-
+      Late November for peak autumn maple color is the standout season, though
+      spring's fresh greenery and occasional blossoms are also worth seeing.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-17'
 ---
 You almost walk past the entrance without noticing it. Yoshikien sits tucked beside its more famous neighbor, Isuien Garden, on a quiet lane near Nara Park's northern edge, and there's rarely a crowd at the gate to tip you off.
 

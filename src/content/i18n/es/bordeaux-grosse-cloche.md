@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bordeaux-grosse-cloche
-srcHash: 'c821010f7944'
+srcHash: 'cbab0bab9131'
 title: 'Grosse Cloche: guía de viaje de Burdeos (4,6★)'
-description: 'La Grosse Cloche se alza sobre la Rue Saint-James, en Burdeos, como una puerta de dos torreones que atraviesa la calle y alberga en su interior una campana de 7,75 toneladas. 4,6★ (6.522 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'La Grosse Cloche se alza sobre la Rue Saint-James, en Burdeos, como una puerta de dos torreones que atraviesa la calle y alberga en su interior una campana de 7,75 toneladas. 4,6★ (6.523 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'La Grosse Cloche se alza sobre la Rue Saint-James, en Burdeos, como una puerta de dos torreones que atraviesa la calle y alberga en su interior una campana de 7,75 toneladas. Es un monumento muy visitado, pero el acceso al interior está muy limitado: solo los lunes por la tarde y los sábados por la mañana, en breves franjas de 30 minutos. Conviene comprobar los horarios exactos antes de planear la visita, ya que el resto de la semana las puertas permanecen cerradas.'
 faq:
   - q: ¿Cuál es el horario de apertura de la Grosse Cloche?

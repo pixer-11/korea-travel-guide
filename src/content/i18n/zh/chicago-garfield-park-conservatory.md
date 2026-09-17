@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: chicago-garfield-park-conservatory
-srcHash: '5997768051e6'
+srcHash: 'b402640eadc2'
 title: 加菲尔德公园温室：芝加哥旅行指南（4.8★）
-description: 加菲尔德公园温室（Garfield Park Conservatory）坐落在芝加哥西区的300 N Central Park Ave，位于占地184英亩的加菲尔德公园之内。4.8★（10,659条评价）——游客怎么说、开放时间和实用小贴士。
+description: 加菲尔德公园温室（Garfield Park Conservatory）坐落在芝加哥西区的300 N Central Park Ave，位于占地184英亩的加菲尔德公园之内。4.8★（10,658条评价）——游客怎么说、开放时间和实用小贴士。
 quickAnswer: 加菲尔德公园温室坐落在芝加哥西区的300 N Central Park Ave，位于占地184英亩的加菲尔德公园之内。这里周一、周二闭馆，周三开放时间为上午10点至晚上8点，周四至周日为上午10点至下午5点，且免费入场。周末上午10点到下午5点这段时间人流量最大，所以想避开人群的话，工作日前来，或者选在周三下午4点后的傍晚时段，是最稳妥的选择。
 faq:
   - q: 加菲尔德公园温室免费参观吗？

@@ -1,44 +1,52 @@
 ---
-title: "Cheekwood: Nashville Travel Guide (4.7★)"
-description: "Cheekwood, the 1930s estate and botanical garden in the Forest Hills area of Nashville, is open Tuesday through Sunday, 9am to 5pm, and closed Mondays. 4.7★ (6,144 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Nashville"
-category: "attraction"
-pubDate: "2026-09-10T07:42:02.142Z"
+title: 'Cheekwood: Nashville Travel Guide (4.7★)'
+description: >-
+  Cheekwood, the 1930s estate and botanical garden in the Forest Hills area of
+  Nashville, is open Tuesday through Sunday, 9am to 5pm, and closed Mondays.
+  4.7★ (6,153 reviews) — what visitors say, hours, and tips.
+country: United States
+region: Nashville
+category: attraction
+pubDate: '2026-09-10T07:42:02.142Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/WTN_PeepHoles_082.JPG/1920px-WTN_PeepHoles_082.JPG"
-  credit: "Photo: Wikimedia Commons contributor / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:WTN_PeepHoles_082.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/WTN_PeepHoles_082.JPG/1920px-WTN_PeepHoles_082.JPG
+  credit: 'Photo: Wikimedia Commons contributor / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:WTN_PeepHoles_082.JPG'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/124090706__ROAGXhptIPH7Fmy_5vbVSRY4BWI9HSRN7o9mRxudLQ.jpg"
-    credit: "Photo: Foursquare user content (Cheekwood Botanical Garden and Museum of Art)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4b05866af964a5203c6122e3"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/124090706__ROAGXhptIPH7Fmy_5vbVSRY4BWI9HSRN7o9mRxudLQ.jpg
+    credit: >-
+      Photo: Foursquare user content (Cheekwood Botanical Garden and Museum of
+      Art)
+    license: foursquare
+    source: 'https://foursquare.com/v/4b05866af964a5203c6122e3'
 place:
-  id: "ChIJa4wvovBiZIgRI6Lt_1xPLsI"
-  name: "Cheekwood"
-  address: "1200 Forrest Park Dr, Nashville, TN 37205, USA"
+  id: ChIJa4wvovBiZIgRI6Lt_1xPLsI
+  name: Cheekwood
+  address: '1200 Forrest Park Dr, Nashville, TN 37205, USA'
   rating: 4.7
-  userRatingsTotal: 6144
-  googleMapsUrl: "https://maps.google.com/?cid=13992208353136058915&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6153
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13992208353136058915&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.088447099999996
   lng: -86.8759749
-  phone: "+1 615-356-8000"
+  phone: +1 615-356-8000
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-09-10
+    updated: 2026-09-10T00:00:00.000Z
     weekendBusy:
       - 10
       - 11
@@ -47,24 +55,38 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_49734c5078315f744c36495267495a6942766f767734614a496843"
+    venueId: ven_49734c5078315f744c36495267495a6942766f767734614a496843
 tags:
-  - "nashville"
-  - "park"
-quickAnswer: "Cheekwood, the 1930s estate and botanical garden in the Forest Hills area of Nashville, is open Tuesday through Sunday, 9am to 5pm, and closed Mondays. It draws heavy crowds on weekends from 10am to 5pm, so aim for a weekday morning right at opening. Plan on two to four hours to cover the mansion, art museum, and gardens properly."
+  - nashville
+  - park
+quickAnswer: >-
+  Cheekwood, the 1930s estate and botanical garden in the Forest Hills area of
+  Nashville, is open Tuesday through Sunday, 9am to 5pm, and closed Mondays. It
+  draws heavy crowds on weekends from 10am to 5pm, so aim for a weekday morning
+  right at opening. Plan on two to four hours to cover the mansion, art museum,
+  and gardens properly.
 faq:
-  - q: "What are Cheekwood's hours?"
-    a: "Tuesday through Sunday, 9am to 5pm. Closed all day Monday."
-  - q: "When is Cheekwood least crowded?"
-    a: "Weekday mornings right at 9am opening are typically calmer. Weekends from 10am to 5pm are the busiest window, so avoid that stretch if you can."
-  - q: "How long should I plan for a visit?"
-    a: "Two to four hours covers the mansion's art museum, the main gardens, and the sculpture trail without rushing."
-  - q: "Is parking available on-site?"
-    a: "Yes, free parking is available at the property, though the lot can fill during peak spring and fall weekends."
-  - q: "What's nearby in Nashville?"
-    a: "Cheekwood is in the Forest Hills area southwest of downtown, roughly a 20-minute drive from Music Row and downtown Nashville attractions."
+  - q: What are Cheekwood's hours?
+    a: 'Tuesday through Sunday, 9am to 5pm. Closed all day Monday.'
+  - q: When is Cheekwood least crowded?
+    a: >-
+      Weekday mornings right at 9am opening are typically calmer. Weekends from
+      10am to 5pm are the busiest window, so avoid that stretch if you can.
+  - q: How long should I plan for a visit?
+    a: >-
+      Two to four hours covers the mansion's art museum, the main gardens, and
+      the sculpture trail without rushing.
+  - q: Is parking available on-site?
+    a: >-
+      Yes, free parking is available at the property, though the lot can fill
+      during peak spring and fall weekends.
+  - q: What's nearby in Nashville?
+    a: >-
+      Cheekwood is in the Forest Hills area southwest of downtown, roughly a
+      20-minute drive from Music Row and downtown Nashville attractions.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-17'
 ---
 ## What you're actually seeing
 

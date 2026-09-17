@@ -1,44 +1,52 @@
 ---
-title: "Garfield Park Conservatory: Chicago Travel Guide (4.8★)"
-description: "Garfield Park Conservatory sits on the West Side of Chicago at 300 N Central Park Ave, inside the larger 184-acre Garfield Park. 4.8★ (10,659 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Chicago"
-category: "attraction"
-pubDate: "2026-09-17T07:46:46.661Z"
+title: 'Garfield Park Conservatory: Chicago Travel Guide (4.8★)'
+description: >-
+  Garfield Park Conservatory sits on the West Side of Chicago at 300 N Central
+  Park Ave, inside the larger 184-acre Garfield Park. 4.8★ (10,658 reviews) —
+  what visitors say, hours, and tips.
+country: United States
+region: Chicago
+category: attraction
+pubDate: '2026-09-17T07:46:46.661Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Garfield_Park_Conservatory%2C_aerial_view.jpg"
-  credit: "Photo: Steven Vance / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Garfield_Park_Conservatory,_aerial_view.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/d5/Garfield_Park_Conservatory%2C_aerial_view.jpg
+  credit: 'Photo: Steven Vance / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Garfield_Park_Conservatory,_aerial_view.jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/5/51/Garfield_Park_Conservatory_Structure.jpg"
-    credit: "Photo: Richie D. / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Garfield_Park_Conservatory_Structure.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/5/51/Garfield_Park_Conservatory_Structure.jpg
+    credit: 'Photo: Richie D. / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Garfield_Park_Conservatory_Structure.jpg
 place:
-  id: "ChIJaQUY87cyDogRqoNIaIN0IdI"
-  name: "Garfield Park Conservatory"
-  address: "300 N Central Park Ave, Chicago, IL 60624, USA"
+  id: ChIJaQUY87cyDogRqoNIaIN0IdI
+  name: Garfield Park Conservatory
+  address: '300 N Central Park Ave, Chicago, IL 60624, USA'
   rating: 4.8
-  userRatingsTotal: 10659
-  googleMapsUrl: "https://maps.google.com/?cid=15141511529935438762&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 10658
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15141511529935438762&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.8862729
   lng: -87.7172554
-  phone: "+1 773-638-1766"
+  phone: +1 773-638-1766
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: Closed"
-    - "Wednesday: 10:00 AM – 8:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 10:00 AM – 8:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-09-17
+    updated: 2026-09-17T00:00:00.000Z
     weekdayBusy:
       - 13
       - 14
@@ -51,24 +59,43 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_496449304e4961494e6f7152676f4479633738595551614a496843"
+    venueId: ven_496449304e4961494e6f7152676f4479633738595551614a496843
 tags:
-  - "chicago"
-  - "park"
-quickAnswer: "Garfield Park Conservatory sits on the West Side of Chicago at 300 N Central Park Ave, inside the larger 184-acre Garfield Park. It's closed Monday and Tuesday, open 10am–8pm Wednesday and 10am–5pm Thursday through Sunday, and admission is free. Weekends between 10am and 5pm draw the biggest crowds, so a weekday visit or a Wednesday evening after 4pm is your best shot at quiet rooms."
+  - chicago
+  - park
+quickAnswer: >-
+  Garfield Park Conservatory sits on the West Side of Chicago at 300 N Central
+  Park Ave, inside the larger 184-acre Garfield Park. It's closed Monday and
+  Tuesday, open 10am–8pm Wednesday and 10am–5pm Thursday through Sunday, and
+  admission is free. Weekends between 10am and 5pm draw the biggest crowds, so a
+  weekday visit or a Wednesday evening after 4pm is your best shot at quiet
+  rooms.
 faq:
-  - q: "Is Garfield Park Conservatory free to visit?"
-    a: "Yes, admission is free and funded by donations. A suggested-donation box is near the entrance, but there's no ticket required."
-  - q: "What are the opening hours?"
-    a: "It's closed Monday and Tuesday. Wednesday it stays open late, 10am to 8pm. Thursday through Sunday it runs 10am to 5pm."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings at opening, or Wednesday evenings after 4pm when the extended hours thin out the crowd. Avoid weekends between 10am and 5pm, the busiest window."
-  - q: "How do I get there without driving?"
-    a: "Take the CTA Green Line to the Conservatory–Central Park Drive stop, which is a short walk from the main entrance."
-  - q: "How much time should I plan for?"
-    a: "Most visitors spend 60–90 minutes walking through the main rooms, plus extra time if you linger in the Fern Room or explore the surrounding 184-acre park."
+  - q: Is Garfield Park Conservatory free to visit?
+    a: >-
+      Yes, admission is free and funded by donations. A suggested-donation box
+      is near the entrance, but there's no ticket required.
+  - q: What are the opening hours?
+    a: >-
+      It's closed Monday and Tuesday. Wednesday it stays open late, 10am to 8pm.
+      Thursday through Sunday it runs 10am to 5pm.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings at opening, or Wednesday evenings after 4pm when the
+      extended hours thin out the crowd. Avoid weekends between 10am and 5pm,
+      the busiest window.
+  - q: How do I get there without driving?
+    a: >-
+      Take the CTA Green Line to the Conservatory–Central Park Drive stop, which
+      is a short walk from the main entrance.
+  - q: How much time should I plan for?
+    a: >-
+      Most visitors spend 60–90 minutes walking through the main rooms, plus
+      extra time if you linger in the Fern Room or explore the surrounding
+      184-acre park.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-17'
 ---
 
 Under nearly two acres of glass, Garfield Park Conservatory grows a jungle in the middle of a city that spends five months a year below freezing. It opened in 1908, designed by Jens Jensen to look like a haystack rather than the ornate Victorian glasshouses common at the time, and the low, curved roofline still reads that way from the park outside.
