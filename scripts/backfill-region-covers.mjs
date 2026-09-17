@@ -11,8 +11,9 @@
 // hero wins over this table automatically.
 //
 //   node scripts/backfill-region-covers.mjs           # fill missing regions
-import { readFileSync, writeFileSync, existsSync } from 'node:fs';
+import { readFileSync, writeFileSync, existsSync, readdirSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
+import { join } from 'node:path';
 import { cleanCommonsUrl } from './lib/commons.mjs';
 
 const OUT = fileURLToPath(new URL('../data/region-covers.json', import.meta.url));
@@ -47,6 +48,9 @@ const TARGETS = {
   // 'New York City' removed 2026-08-09: it was a spelling-twin of the real
   // "New York" region (18 posts, plenty of photos) — the post was re-tagged.
   'Pasay City': ['Mall of Asia Pasay', 'SM Mall of Asia Manila Bay', 'Pasay skyline'],
+  // 2026-09-17: 이 도시의 유일한 라이브 글이 사진 없는 공연 글(Zara Larsson)이라 타일이 검게 났다.
+  // 랜드마크 먼저 — Bacolod·Gardena 교훈(도시명 단독 검색은 사람 얼굴이나 엉뚱한 곳을 물어온다).
+  'Quezon City': ['Quezon Memorial Shrine', 'Quezon City Hall Philippines', 'University of the Philippines Diliman Oblation', 'Araneta Coliseum Quezon City'],
   'Saint-Cloud': ['Parc de Saint-Cloud fountain', 'Domaine national de Saint-Cloud', 'Saint-Cloud Seine'],
   'Shenzhen': ['Shenzhen skyline', 'Shenzhen Ping An Finance Centre'],
   'Taitung': ['Sanxiantai Taitung', 'Taitung coastline Taiwan', 'Taitung County'],
@@ -57,6 +61,43 @@ const TARGETS = {
 };
 
 const table = existsSync(OUT) ? JSON.parse(readFileSync(OUT, 'utf8')) : {};
+
+// A hand-written TARGETS table cannot keep up with the tour calendar. Every
+// time the event discovery adds a concert city whose only guide is a photoless
+// show, that city's tile goes black and the design audit asks a human to come
+// and add three search terms — Quezon City on 2026-09-17 was the sixth. So the
+// script now finds the dark tiles itself: any region with live posts, no post
+// hero among them, and no entry here yet. The queries are the safest general
+// shape we know (landmark words first, bare city name last), and every pick
+// still has to pass the same identity, date, medium and licence checks below.
+// TARGETS stays, and wins, because a hand-picked landmark beats a guess.
+function darkRegions() {
+  const DIR = 'src/content/posts';
+  const byRegion = new Map();
+  for (const f of readdirSync(DIR)) {
+    if (!f.endsWith('.md')) continue;
+    const raw = readFileSync(join(DIR, f), 'utf8');
+    const head = raw.slice(0, raw.indexOf('\n---', 3));
+    if (/^draft:\s*true/m.test(head)) continue;
+    const region = head.match(/^region:\s*["']?(.+?)["']?\s*$/m)?.[1];
+    if (!region) continue;
+    const country = head.match(/^country:\s*["']?(.+?)["']?\s*$/m)?.[1] || '';
+    const r = byRegion.get(region) || { hero: false, country };
+    if (/^\s+url:\s*\S/m.test(head.split(/^heroImage:/m)[1] || '')) r.hero = true;
+    byRegion.set(region, r);
+  }
+  const out = {};
+  for (const [region, r] of byRegion) {
+    if (r.hero || table[region] || TARGETS[region]) continue;
+    out[region] = [
+      `${region} ${r.country} landmark`,
+      `${region} ${r.country} city hall`,
+      `${region} ${r.country} skyline`,
+      `${region} ${r.country}`,
+    ];
+  }
+  return out;
+}
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 // Wikimedia's UA policy wants a CONTACT in the string; the bare
 // 'WanderAtlasBot/1.0 (region-covers)' UA earned a sustained 429 ban on
@@ -79,7 +120,9 @@ const get = async (params) => {
   return null;
 };
 
-for (const [region, queries] of Object.entries(TARGETS)) {
+const auto = darkRegions();
+if (Object.keys(auto).length) console.log(`auto-discovered dark tile(s): ${Object.keys(auto).join(', ')}`);
+for (const [region, queries] of Object.entries({ ...TARGETS, ...auto })) {
   if (table[region]) { console.log(`= ${region} (already set)`); continue; }
   let picked = null;
   for (const q of queries) {
