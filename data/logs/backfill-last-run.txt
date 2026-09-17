@@ -1,30 +1,30 @@
 Places 예산: backfill 몫 25회 (오늘 사용 18/100)
 Priority: 164 itinerary stop(s) queued first
-  – cannes-croix-des-gardes.md: nothing new (resting 60d)
-  – hua-hin-wat-hua-hin.md: nothing new (resting 60d)
-  – kampong-cham-nokor-bachey-temple.md: nothing new (resting 60d)
-  – kampot-bokor-hill-station.md: nothing new (resting 60d)
-  – kampot-green-cathedral.md: nothing new (resting 60d)
-  – kanazawa-higashi-chaya-district.md: nothing new (resting 60d)
-  – kaohsiung-kaohsiung-central-park.md: nothing new (resting 60d)
-  – kaohsiung-shoushan-love-lookout.md: nothing new (resting 60d)
-  – kas-kas-old-town.md: nothing new (resting 60d)
-  – kas-kas.md: nothing new (resting 60d)
-  – kas-patara-ancient-city.md: nothing new (resting 60d)
-  – kenting-hengchun-south-gate.md: nothing new (resting 60d)
-  – kep-kep-national-park.md: nothing new (resting 60d)
-  – kep-wat-sampov-pram.md: nothing new (resting 60d)
-  – khiva-juma-mosque.md: nothing new (resting 60d)
-  – khiva-khiva-ichan-kala.md: nothing new (resting 60d)
-  – khiva-kuhna-ark.md: nothing new (resting 60d)
-  – khiva-toshhovli-palace.md: nothing new (resting 60d)
-  – kochi-mattancherry-palace.md: nothing new (resting 60d)
-  – kochi-subhash-bose-park.md: nothing new (resting 60d)
-  – koh-phi-phi-monkey-bay.md: nothing new (resting 60d)
-  – koh-rong-long-beach.md: nothing new (resting 60d)
-  ✓ koh-samui-tarnim-magic-garden.md +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 18h (venue not open then); weekendQuiet: dropped 18h (venue not open then)
-  – koh-samui-wat-phra-yai.md: nothing new (resting 60d)
-  – koh-tao-chalok-baan-kao-bay.md: nothing new (resting 60d)
+  – siem-reap-pub-street.md: nothing new (resting 60d)
+  ✓ koh-samui-izzy-s-specialty-coffee.md +phone +7h hours
+  – chiang-rai-mae-fah-luang-garden.md: nothing new (resting 60d)
+  – jiufen-golden-waterfall.md: nothing new (resting 60d)
+  – koh-samui-tarnim-magic-garden.md: nothing new (resting 60d)
+  – kolkata-eco-park.md: nothing new (resting 60d)
+  – kolkata-howrah-bridge.md: nothing new (resting 60d)
+  – komodo-komodo-national-park.md: nothing new (resting 60d)
+  – konya-alaaddin-hill-park.md: nothing new (resting 60d)
+  – konya-tomb-of-mevlana-rumi.md: nothing new (resting 60d)
+  – krabi-railay-beach.md: nothing new (resting 60d)
+  ✓ krabi-wat-kaew-korawaram.md +phone +7h hours
+  ✓ krabi-wat-tham-suea.md +phone +7h hours
+  – kuala-lumpur-klcc-park.md: nothing new (resting 60d)
+  – kuala-lumpur-merdeka-square.md: nothing new (resting 60d)
+  – kuching-kubah-national-park.md: nothing new (resting 60d)
+  – kuching-malaysia-china-friendship-park.md: nothing new (resting 60d)
+  ✓ kyoto-arashiyama-bamboo-forest.md +7h hours
+  ✓ kyoto-fushimi-inari-taisha.md +phone +7h hours
+  ✓ kyoto-kinkaku-ji.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 17h (venue not open then); weekendQuiet: dropped 17h (venue not open then)
+  – labuan-bajo-bena-traditional-village-thatched-roof-village.md: nothing new (resting 60d)
+  – labuan-bajo-pondok-pohon-tanjung-bunga.md: nothing new (resting 60d)
+  – langkawi-dataran-lang.md: nothing new (resting 60d)
+  – las-vegas-las-vegas-strip.md: nothing new (resting 60d)
+  ✓ las-vegas-old-las-vegas-mormon-fort-state-historic-park.md +phone +7h hours
 
-BACKFILL RESULT: updated 1, backlog-updated 1, already-complete 690, no-new-data 296, no-place 279, closed-quarantined 0, quota-429 0, api-error 0, api-calls 25, remaining-askable 187 (APPLIED).
+BACKFILL RESULT: updated 7, backlog-updated 7, already-complete 717, no-new-data 314, no-place 328, closed-quarantined 0, quota-429 0, api-error 0, api-calls 25, remaining-askable 168 (APPLIED).

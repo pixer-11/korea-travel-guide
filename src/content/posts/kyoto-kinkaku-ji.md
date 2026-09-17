@@ -33,19 +33,22 @@ place:
   lng: 135.7292431
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 9
-      - 16
-      - 17
-    weekendQuiet:
-      - 9
-      - 16
-      - 17
+    weekdayQuiet: [9, 16]
+    weekendQuiet: [9, 16]
     weekendBusy:
       - 12
       - 13
       - 14
     venueId: ven_3441356e73434869513258524157416f434377726255764a496843
+  phone: '+81 75-461-0013'
+  openingHours:
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
 tags:
   - kyoto
   - Kinkaku-ji Golden Pavilion

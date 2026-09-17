@@ -29,6 +29,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 36.1806609
   lng: -115.13355100000001
+  phone: '+1 702-486-3511'
+  openingHours:
+    - 'Monday: Closed'
+    - 'Tuesday: 8:00 AM – 4:00 PM'
+    - 'Wednesday: 8:00 AM – 4:00 PM'
+    - 'Thursday: 8:00 AM – 4:00 PM'
+    - 'Friday: 8:00 AM – 4:00 PM'
+    - 'Saturday: 8:00 AM – 4:00 PM'
+    - 'Sunday: Closed'
 tags:
   - las vegas
   - historic site

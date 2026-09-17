@@ -64,6 +64,14 @@ place:
       - 15
       - 16
     venueId: ven_735f6e38765876577a58335241574172752d76637459724a496843
+  openingHours:
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
   - kyoto
   - Arashiyama Bamboo Grove

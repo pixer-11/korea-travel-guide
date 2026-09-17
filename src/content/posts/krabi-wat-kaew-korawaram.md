@@ -36,6 +36,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 8.0632606
   lng: 98.9141363
+  phone: '+66 93 648 2206'
+  openingHours:
+    - 'Monday: 8:00 AM – 4:30 PM'
+    - 'Tuesday: 8:00 AM – 4:30 PM'
+    - 'Wednesday: 8:00 AM – 4:30 PM'
+    - 'Thursday: 8:00 AM – 4:30 PM'
+    - 'Friday: 8:00 AM – 4:30 PM'
+    - 'Saturday: Closed'
+    - 'Sunday: Closed'
 tags:
   - krabi
   - historic site

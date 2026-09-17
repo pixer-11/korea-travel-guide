@@ -31,6 +31,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 8.1239259
   lng: 98.92513100000001
+  phone: '+66 88 792 6519'
+  openingHours:
+    - 'Monday: 6:00 AM – 6:00 PM'
+    - 'Tuesday: 6:00 AM – 6:00 PM'
+    - 'Wednesday: 6:00 AM – 6:00 PM'
+    - 'Thursday: 6:00 AM – 6:00 PM'
+    - 'Friday: 6:00 AM – 6:00 PM'
+    - 'Saturday: 6:00 AM – 6:00 PM'
+    - 'Sunday: 6:00 AM – 6:00 PM'
 tags:
   - krabi
   - top attraction

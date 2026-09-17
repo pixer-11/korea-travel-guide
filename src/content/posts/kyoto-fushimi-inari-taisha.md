@@ -63,6 +63,15 @@ place:
       - 16
       - 17
     venueId: ven_736e474b7a5264364965365241574150555250753057494a496843
+  phone: '+81 75-641-7331'
+  openingHours:
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
   - kyoto
   - Fushimi Inari Shrine
