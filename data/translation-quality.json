@@ -29034,5 +29034,75 @@
   "registerBreak": false,
   "worst": "先逛博物馆，再进村，能为之后看到村里的假面舞演出场地提前打好背景基础。",
   "at": "2026-09-17T07:58:56.626Z"
+ },
+ "zh/jiufen-golden-waterfall": {
+  "hash": "2978d64e3a57",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "在黄金博物园区附近下车；从那里步行下坡约15到20分钟即可到达瑞芳。",
+  "at": "2026-09-18T08:05:01.287Z"
+ },
+ "es/andong-dosan-seowon": {
+  "hash": "4f0af90b383a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El invierno es la temporada más tranquila y desnuda, con los pabellones de madera sin calefacción",
+  "at": "2026-09-18T08:05:03.236Z"
+ },
+ "es/barcelona-bar-super": {
+  "hash": "e5e68f203915",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El Born tiene de sobra bares de vino que juegan la carta del ladrillo visto y una etiqueta vaga",
+  "at": "2026-09-18T08:05:04.923Z"
+ },
+ "es/bordeaux-jardin-public": {
+  "hash": "10420419c7b7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Las mañanas entre semana y las primeras horas de la tarde después de las 18:00 son notablem",
+  "at": "2026-09-18T08:05:13.240Z"
+ },
+ "ja/andong-dosan-seowon": {
+  "hash": "3133cc34a335",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "退渓の教えについて今日わかっていることの多くは、こうした保管建物が400年にわたってその役目を果たし続けてきたおかげです。",
+  "at": "2026-09-18T08:07:03.815Z"
+ },
+ "ja/bordeaux-jardin-public": {
+  "hash": "2430c2062ea2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "子ども向けの遊び場やカルーセルは公園の縁のあたりに位置し、湖畔とは違って家族連れを引き寄せています。",
+  "at": "2026-09-18T08:05:35.400Z"
+ },
+ "ko/andong-dosan-seowon": {
+  "hash": "ff22b686bf7e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "주요 건물 위에 걸린 현판에는 그 건물의 용도를 나타내는 서예 글씨가 새겨져 있어서, 번역 없이도 현판의 위치만으로 어느 건물이 가장 중요한지 짐작할 수 있습니다.",
+  "at": "2026-09-18T08:05:37.334Z"
+ },
+ "ko/causeway-bay-east-coast-park-precinct": {
+  "hash": "19d4f16d852b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "리뷰 800개에 가까운 평점 4.4점을 받고 있음에도 아직 잘 알려지지 않은 곳으로 평가되는 만큼",
+  "at": "2026-09-18T08:05:59.574Z"
+ },
+ "zh/andong-dosan-seowon": {
+  "hash": "a56c2c935719",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这片江景本就是原始设计的一部分，绝非地理上的巧合。",
+  "at": "2026-09-18T08:06:07.660Z"
+ },
+ "zh/barcelona-bar-super": {
+  "hash": "0337d4168ebd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El Born区不缺靠裸砖墙和模糊的\"自然酒\"标签撑场面、却没什么实质内容的酒吧。",
+  "at": "2026-09-18T08:06:10.244Z"
  }
 }

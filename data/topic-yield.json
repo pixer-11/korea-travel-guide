@@ -6,12 +6,12 @@
    "hits": 1
   },
   "historic site": {
-   "attempts": 126,
-   "hits": 78
+   "attempts": 131,
+   "hits": 82
   },
   "park": {
-   "attempts": 118,
-   "hits": 71
+   "attempts": 134,
+   "hits": 82
   },
   "viewpoint": {
    "attempts": 63,
@@ -30,8 +30,8 @@
    "hits": 3
   },
   "museum": {
-   "attempts": 116,
-   "hits": 70
+   "attempts": 117,
+   "hits": 71
   },
   "noodles": {
    "attempts": 43,
@@ -50,7 +50,7 @@
    "hits": 0
   },
   "seafood": {
-   "attempts": 60,
+   "attempts": 61,
    "hits": 2
   },
   "hidden gem": {
@@ -90,7 +90,7 @@
    "hits": 2
   },
   "grill": {
-   "attempts": 20,
+   "attempts": 21,
    "hits": 0
   },
   "design shop": {
@@ -178,5 +178,5 @@
    "hits": 0
   }
  },
- "updated": "2026-09-17T08:03:18.311Z"
+ "updated": "2026-09-18T07:52:33.230Z"
 }

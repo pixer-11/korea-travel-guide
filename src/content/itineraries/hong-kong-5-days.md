@@ -6,7 +6,7 @@ title: '5-Day Hong Kong Itinerary: Harbourfront, Temples, Lantau and Sai Kung'
 description: A 5-day Hong Kong itinerary moving from Kowloon's waterfront and Kowloon's temples and gardens to Lantau Island's Big Buddha, Sai Kung's coast and country park, and Causeway Bay's harbourfront and temples.
 quickAnswer: This is a 5-day Hong Kong itinerary that moves from Kowloon's waterfront and Sha Tin's temples and gardens, to Lantau Island's Big Buddha, out to Sai Kung's coast and country park, and finally through Causeway Bay's harbourfront to a temple in the New Territories.
 pubDate: '2026-08-20T09:34:29.981Z'
-stopsHash: b70f073648b43ebe62be85f4e9608849a5582613
+stopsHash: 2ab6f3444e0de591106bfd4fff74d3da7ffae872
 packedAvailable: true
 faq:
   - q: How much walking does this 5-day Hong Kong itinerary involve?
@@ -118,7 +118,7 @@ itinerary:
         why: A small neighbourhood park in Tai Kok Tsui, useful as a short breather after a long day on Lantau.
         dwellMin: 30
         walkToNext: null
-    rainSwapSlug: central-cupping-room-central
+    rainSwapSlug: sheung-wan-liang-yi-museum
   - label: Sai Kung coast and country park
     intro: Day four moves from the boats and seafood tanks at Sai Kung Public Pier out to the trails and reservoir views of Sai Kung East Country Park, then back into Sai Kung Town for the evening among its waterfront restaurants.
     stops:
@@ -152,17 +152,9 @@ itinerary:
         why: A small neighbourhood shrine near Causeway Bay's shopping streets, best visited early for a quiet look.
         dwellMin: 30
         walkToNext:
-          km: 1
-          minutes: 13
+          km: 1.6
+          minutes: 22
           transit: false
-      - slug: causeway-bay-fashion-walk-food-street
-        slot: lunch
-        why: An open-air restaurant cluster in Causeway Bay, easygoing and less packed than the nearby malls.
-        dwellMin: 30
-        walkToNext:
-          km: 2.2
-          minutes: null
-          transit: true
       - slug: hong-kong-east-coast-boardwalk
         slot: afternoon
         why: A waterfront path beneath the Island Eastern Corridor with harbour views toward Kowloon and Kai Tak.
@@ -176,7 +168,15 @@ itinerary:
         why: An under-the-radar strip of harbourfront in North Point with skyline views and few crowds.
         dwellMin: 38
         walkToNext:
-          km: 12.4
+          km: 2.1
+          minutes: null
+          transit: true
+      - slug: north-point-quarry-bay-park
+        slot: afternoon
+        why: A attraction rated 4.2 by visitors, included as a stop on this route.
+        dwellMin: 30
+        walkToNext:
+          km: 10.3
           minutes: null
           transit: true
       - slug: sai-kung-tin-hau-temple-joss-house-bay
@@ -187,6 +187,6 @@ itinerary:
     rainSwapSlug: sha-tin-hong-kong-science-museum
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-09T08:00:03.128Z'
+updatedDate: '2026-09-18T08:08:06.932Z'
 ---
 
