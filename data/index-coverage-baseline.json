@@ -78,22 +78,27 @@
    "actionTaken": "2026-09-09 - publish-throttle.json restored to postsPerRun 16 / backfillPerRun 25 (the ramp re-entered by hand at its first step, not -1). Verified live: 16 posts published 2026-09-09, backfill ran.",
    "whatIsLeft": "Google fetches ~81 pages/day from a site offering ~12,000 URLs. No publishing rate fixes that. The constraint is authority: 2 referring domains, 1 of them nofollow (measured 2026-09-09)."
   },
-  "recheckCoverageAfter": "2026-09-25",
-  "recheckWhy": "Confirm the coverage axis once GSC data actually covers the verdict window. This changes no decision already taken; it only closes the record.",
   "coverageAxisConfirmed": {
-   "status": "awaitingExport",
-   "attemptedOn": "2026-09-18",
-   "latestExportAvailable": "wanderatlasguides.com-Coverage-2026-09-09.zip (데이터 마지막 날짜 2026-09-04)",
-   "judgeOutput": "tooEarly — 데이터가 판정일 2026-09-10 이전이라 커버리지 축은 여전히 결론을 낼 수 없다.",
-   "numbersFromThatExport": {
-    "indexed": 5207,
-    "notIndexed": 9549,
-    "since0821": "색인 -1.43/일 · 미색인 +72.9/일"
+   "status": "confirmed",
+   "confirmedOn": "2026-09-18",
+   "export": "wanderatlasguides.com-Coverage-2026-09-18.zip (데이터 마지막 날짜 2026-09-14 — 판정일 09-10을 넘겼다)",
+   "numbers": {
+    "indexed": 5202,
+    "notIndexed": 10535,
+    "indexedSince0821": -27,
+    "notIndexedSince0821": 2542
    },
-   "whyNotDone": "~/Downloads 및 홈 전체를 훑었으나 09-09 이후의 GSC 커버리지 내보내기가 없다. 커버리지 내보내기는 픽서님이 Search Console에서 직접 받아 주셔야 하고 API로는 못 얻는다.",
-   "changesNothing": "판정(backfired)은 크롤 축으로 이미 확정됐고 조치(스로틀 복구)도 09-09에 끝났다. 이 항목은 기록을 닫는 일일 뿐이다.",
-   "nextAttempt": "2026-09-25"
-  }
+   "slopePerDaySince0821": {
+    "indexed": -1.07,
+    "notIndexed": 106.9
+   },
+   "machineKey": "throttleNotApplied",
+   "whatTheCoverageAxisActuallySays": "primary 축은 indexed 였고 win 기준은 5,300 이었다. 5,202 — 넘지 못했다. 색인은 07-25의 5,232 평지를 끝내 떠나지 않았다. 커버리지 축도 크롤 축과 같은 말을 한다: 발행량은 제약이 아니었다.",
+   "whyTheMachineKeyIsNotTheAnswer": "throttleNotApplied 는 notIndexed > 10000 이라는 절대값으로 쓰였는데, 실제 기울기는 162.4/일에서 106.9/일로 오히려 낮아졌다(스로틀은 먹혔다). 게다가 관측창 마지막 6일(09-09~09-14)은 09-09에 스로틀을 이미 푼 뒤라, 스로틀이 적용됐는가를 묻는 이 키는 이 창에 대해 성립하지 않는다. 사전 등록 임계값 넷 중 어느 것도 이 창에 깔끔히 맞지 않는다 — 임계값을 절대값으로 쓴 것이 설계 결함이었다. 다음 실험에서는 기울기로 쓸 것.",
+   "crawlAxisNotReRead": "크롤 요청 수는 이번에 넣지 않았다. 크롤 축은 09-10에 backfired 로 이미 확정됐고 조치도 끝났다. 09-09 복구 이후 크롤이 회복되는지는 10-07 정기 점검에서 본다.",
+   "changesNothing": "판정(backfired)과 조치(스로틀 복구 09-09)는 그대로. 이 항목은 기록을 닫은 것뿐이다."
+  },
+  "coverageAxisClosedOn": "2026-09-18"
  },
  "crawlStats": {
   "capturedOn": "2026-08-27",
