@@ -11,6 +11,8 @@ import StickyBook from './StickyBook.astro';
 import Emoji from './Emoji.astro';
 import { slugifyRegion } from '../lib/slug';
 import { buildDayTrips } from '../lib/dayTrips';
+import { eligibleCountries } from '../lib/when-to-go.mjs';
+import countryFactsData from '../../data/country-facts.json';
 import { useTranslations, localizePath, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { getRegionInfo } from '../i18n/regions';
@@ -41,6 +43,13 @@ const countryLabel = localizePlace(country, lang);
 // missing from the middle. Falls back to no country link if we do not publish
 // that country as a destination, rather than linking a 404.
 const countrySlug = countriesData.countries.find((c: any) => c.name === country)?.slug ?? null;
+// A crawl path into the when-to-go cluster. 2026-09-18: its country hubs come
+// back from the URL inspector as "URL is unknown to Google" — the only links in
+// were the nav and one 263-link index — while these region hubs ARE crawled.
+// Guarded by eligibleCountries so it can never mint a 404.
+const wtgCountryHref = (countrySlug && eligibleCountries(countryFactsData).includes(country))
+  ? localizePath(`/tools/when-to-go/${countrySlug}/`, lang)
+  : null;
 
 const info = getRegionInfo(region, lang);
 
@@ -309,6 +318,9 @@ const dayTripHub = buildDayTrips(allPosts).find((h) => h.city === region) ?? nul
           <Tours city={region} />
           <Hotels city={region} country={country} />
           <PlanTrip city={region} country={country} />
+          {wtgCountryHref && (
+            <p class="region-wtg-link"><a href={wtgCountryHref}>{t('wtg.countryGuideLink').replace('{country}', countryLabel)} →</a></p>
+          )}
         </>
       )}
 

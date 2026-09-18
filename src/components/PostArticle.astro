@@ -124,6 +124,31 @@ const wtgMonthLabel = wtgMonthHref
       .replace('{month}', new Date(d.eventStartDate).toLocaleDateString(localeCodes[lang], { month: 'long' }))
   : null;
 
+// Every OTHER post links its country's when-to-go page. Measured 2026-09-18:
+// the tool cluster is 1,025 pages and four weeks of Search Console show 22 of
+// them with any impression at all, average position 75 — and the country hub
+// /tools/when-to-go/japan/ comes back from the URL inspector as "URL is unknown
+// to Google". It is in the sitemap and it serves 200; Google has simply never
+// walked to it, because the only paths in were the site-wide nav and one index
+// page carrying 263 links. Posts ARE crawled (2,204 impressions over the same
+// four weeks), so a contextual link from each post is the shortest real path
+// into the cluster. Event posts keep their sharper month link instead.
+const wtgCountryHref = (!wtgMonthHref && eligibleCountries(countryFactsData).includes(country))
+  ? localizePath(`/tools/when-to-go/${countrySlug}/`, lang)
+  : null;
+const wtgCountryLabel = wtgCountryHref
+  ? t('wtg.countryGuideLink').replace('{country}', localizePlace(country, lang))
+  : null;
+// The finished-event CTA is a different block with its own buttons, so it needs
+// its own copy of the country link (the two above are computed for the live
+// block and one of them is always null there).
+const wtgPastEventHref = eligibleCountries(countryFactsData).includes(country)
+  ? localizePath(`/tools/when-to-go/${countrySlug}/`, lang)
+  : null;
+const wtgPastEventLabel = wtgPastEventHref
+  ? t('wtg.countryGuideLink').replace('{country}', localizePlace(country, lang))
+  : null;
+
 // Peak-intent affiliate links for the top "Book this trip" band (city-specific,
 // correct attribution, work regardless of flight/hotel program approval).
 // Mapped city → curated destination page; a specific PLACE (below) keeps the
@@ -727,6 +752,14 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
           <a class="book-btn book-btn-primary" href="/events"><Emoji name="admission-tickets" /> {t('post.upcomingEvents')}</a>
           <a class="book-btn" href="#newsletter"><Emoji name="wrapped-gift" /> {t('post.eventUpdates')}</a>
         </div>
+        {/* A finished event is still a crawled page — 90 of them, and events are
+            where this site's impressions live. The reader who arrives after the
+            show is planning a future trip, so the country's month-by-month page
+            is the honest next click, and it is a crawl path into a cluster
+            Google has not discovered (2026-09-18). */}
+        {wtgPastEventHref && (
+          <p class="cta-month-link"><a href={wtgPastEventHref}>{wtgPastEventLabel} →</a></p>
+        )}
       </div>
     ) : (
       <div class="book-cta">
@@ -744,6 +777,9 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
         </div>
         {wtgMonthHref && (
           <p class="cta-month-link"><a href={wtgMonthHref}>{wtgMonthLabel} →</a></p>
+        )}
+        {wtgCountryHref && (
+          <p class="cta-month-link"><a href={wtgCountryHref}>{wtgCountryLabel} →</a></p>
         )}
         {/* Trust signal beside the FIRST ask (authority bias): the fact box proving
             the data is real sits far below, so restate it where the click happens. */}
