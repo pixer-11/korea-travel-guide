@@ -57,6 +57,19 @@ function fetchFailure(e) {
 }
 
 async function fetchAsBase64(url) {
+  // A self-hosted hero (/venue-photos/…, /editor-photos/…) lives in this repo
+  // BEFORE it lives on the site. Fetching the live URL for one that has not
+  // deployed yet returns 404, which reads as "image unusable" — and on
+  // 2026-09-18 that is exactly how the patrol threw away photos the owner of a
+  // Koh Samui café had just sent us and put the old kiosk photo back. Read the
+  // file from public/ when it is there; fall back to the live URL otherwise.
+  if (url.startsWith('/')) {
+    try {
+      const local = new URL(`../../public${url}`, import.meta.url);
+      const buf = await _rf(local);
+      return (await sharp(buf).resize(1024, 1024, { fit: 'inside', withoutEnlargement: true }).jpeg({ quality: 80 }).toBuffer()).toString('base64');
+    } catch { /* not on disk (a different checkout, or already deployed) — use the URL */ }
+  }
   const abs = url.startsWith('/') ? `https://wanderatlasguides.com${url}` : url;
   // upload.wikimedia.org throttles publish-time bursts with 429; one such
   // answer used to fail the candidate outright ("candidate unusable"), which

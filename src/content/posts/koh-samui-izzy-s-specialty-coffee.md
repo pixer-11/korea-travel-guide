@@ -1,36 +1,35 @@
 ---
 title: 'Izzy s Specialty Coffee: Koh Samui Travel Guide'
-description: >-
-  Izzy's Specialty Coffee is a standalone, air-conditioned café with
-  floor-to-ceiling glass a two-minute walk from Fisherman's Village in Bo Put,
-  on Koh Samui's north coast — go before 10am for a seat and order what they are
-  built around: espresso drinks, from a ristretto-based flat white to their
-  Latte Cloud.
+description: 'Izzy''s Specialty Coffee is a standalone, air-conditioned café with floor-to-ceiling glass a two-minute walk from Fisherman''s Village in Bo Put, on Koh Samui''s north coast — go before 10am for a seat and order what they are built around: espresso drinks, from a ristretto-based flat white to their Latte Cloud.'
 country: Thailand
 region: Koh Samui
 category: trendy
 pubDate: '2026-07-22T09:19:32.395Z'
 heroImage:
-  url: >-
-    https://fastly.4sqi.net/img/general/original/484654207_oFgLeRnDuY4OFGvva22jdWwCpYbT3U5Ec3UiADFO2Fs.jpg
-  credit: 'Photo: Foursquare user content — Izzy‘s as the open-air kiosk it was before the 2026 rebuild'
-  license: foursquare
-  source: 'https://foursquare.com/v/64950fd7be119a7c0e7f7ca9'
+  url: /venue-photos/koh-samui-izzy-s-specialty-coffee-interior.jpg
+  credit: 'Photo: Izzy''s Specialty Coffee (supplied by the owner)'
+  license: owner
+  source: https://izzyscoffeesamui.com
   focus:
     x: 50
-    'y': 45
-gallery: []
+    'y': 50
+gallery:
+  - url: /venue-photos/koh-samui-izzy-s-specialty-coffee-exterior.jpg
+    credit: 'Photo: Izzy''s Specialty Coffee (supplied by the owner)'
+    license: owner
+    source: https://izzyscoffeesamui.com
+  - url: /venue-photos/koh-samui-izzy-s-specialty-coffee-izzy.jpg
+    credit: 'Photo: Izzy''s Specialty Coffee (supplied by the owner)'
+    license: owner
+    source: https://izzyscoffeesamui.com
 place:
   id: ChIJszhAI4DxVDAR2IAOFd7moUM
   name: Izzy’s Specialty Coffee
-  address: >-
-    H26c+jh6 Fisherman’s Village, Tambon Bo Put, Amphoe Ko Samui, Chang Wat
-    Surat Thani 84320, Thailand
+  address: H26c+jh6 Fisherman’s Village, Tambon Bo Put, Amphoe Ko Samui, Chang Wat Surat Thani 84320, Thailand
   rating: 5
   userRatingsTotal: 1137
-  website: 'https://izzyscoffeesamui.com'
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=4873430113301987544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  website: https://izzyscoffeesamui.com
+  googleMapsUrl: https://maps.google.com/?cid=4873430113301987544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 9.5614575
   lng: 100.0211369
@@ -47,40 +46,18 @@ place:
 tags:
   - koh samui
   - trendy cafe
-quickAnswer: >-
-  Izzy's Specialty Coffee is a standalone, air-conditioned café with
-  floor-to-ceiling glass a two-minute walk from Fisherman's Village in Bo Put,
-  on Koh Samui's north coast — go before 10am for a seat and order what they are
-  built around: espresso drinks, from a ristretto-based flat white to their
-  Latte Cloud. It's walkable from the Fisherman's Village Walking Street and pairs
-  well with a beach morning at Bo Put Pier. Budget 30-45 minutes; it gets busy
-  by midday given its 1,000+ near-perfect reviews.
+quickAnswer: 'Izzy''s Specialty Coffee is a standalone, air-conditioned café with floor-to-ceiling glass a two-minute walk from Fisherman''s Village in Bo Put, on Koh Samui''s north coast — go before 10am for a seat and order what they are built around: espresso drinks, from a ristretto-based flat white to their Latte Cloud. It''s walkable from the Fisherman''s Village Walking Street and pairs well with a beach morning at Bo Put Pier. Budget 30-45 minutes; it gets busy by midday given its 1,000+ near-perfect reviews.'
 faq:
   - q: Where exactly is Izzy's Specialty Coffee located?
-    a: >-
-      It's in Bo Put on Koh Samui's north coast, a two-minute walk from
-      Fisherman's Village — a standalone glass-fronted café under a
-      hundred-year-old mango tree, about 15-20 minutes by car from Chaweng.
+    a: It's in Bo Put on Koh Samui's north coast, a two-minute walk from Fisherman's Village — a standalone glass-fronted café under a hundred-year-old mango tree, about 15-20 minutes by car from Chaweng.
   - q: How do I get there without a rental car?
-    a: >-
-      Arrange a taxi or app-based ride from your hotel (agree on price
-      beforehand, as meters aren't standard), or stay in Bophut itself and walk,
-      since many guesthouses there are within easy walking distance.
+    a: Arrange a taxi or app-based ride from your hotel (agree on price beforehand, as meters aren't standard), or stay in Bophut itself and walk, since many guesthouses there are within easy walking distance.
   - q: How long should I plan to stay?
-    a: >-
-      30-45 minutes for a coffee and light bite is typical. It is a small
-      room rather than a sprawling café, so solo travellers and couples find a
-      table more easily than large groups — and the shop is dog-friendly.
+    a: 30-45 minutes for a coffee and light bite is typical. It is a small room rather than a sprawling café, so solo travellers and couples find a table more easily than large groups — and the shop is dog-friendly.
   - q: What's the best time of day to visit?
-    a: >-
-      Early morning, before roughly 10-11am, avoids both the crowds and the
-      midday heat; the village is also worth returning to in the evening,
-      especially on walking street market nights.
+    a: Early morning, before roughly 10-11am, avoids both the crowds and the midday heat; the village is also worth returning to in the evening, especially on walking street market nights.
   - q: What else can I combine with a visit?
-    a: >-
-      Bo Put Pier for sunrise views, the Fisherman's Village Walking Street
-      shops and seafood restaurants, and Big Buddha Temple (Wat Phra Yai), about
-      10 minutes away by car.
+    a: Bo Put Pier for sunrise views, the Fisherman's Village Walking Street shops and seafood restaurants, and Big Buddha Temple (Wat Phra Yai), about 10 minutes away by car.
 aiGenerated: true
 updatedDate: '2026-09-07'
 ---

@@ -87,6 +87,13 @@ const ALLOWED_IMAGE_LICENSES = new Set([
   'placeholder', // our own generated placeholder
   'foursquare', // Foursquare Places photos, used under API terms with attribution
   'flickr-cc', // Flickr — Creative Commons / no-known-restrictions ONLY (filtered at query)
+  // 'owner': the venue itself sent the photo and gave permission in writing.
+  // First use 2026-09-18, Izzy's Specialty Coffee (Koh Samui): the owner wrote
+  // in to correct the guide, sent photos of the rebuilt shop and said "you have
+  // our permission to use the images". Self-hosted under /venue-photos/ like
+  // any other permanent hero, credited to the business by name. NEVER set this
+  // for a photo a patrol found on its own — it means a person granted it.
+  'owner',
 ]);
 
 export function isImageAllowed(image) {

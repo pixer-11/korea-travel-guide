@@ -70,7 +70,7 @@ const posts = defineCollection({
         // 'editor': shot in person by the site's editor (first two: Yakiuo
         // Ishikawa + La Scène, HCMC, 2026-08-15). Served from /editor-photos/,
         // identity proven by the photograph itself, credit "Photo: Pixer".
-        license: z.enum(['google-places', 'unsplash', 'wikimedia', 'kto-open', 'placeholder', 'foursquare', 'flickr-cc', 'openverse-cc', 'editor']),
+        license: z.enum(['google-places', 'unsplash', 'wikimedia', 'kto-open', 'placeholder', 'foursquare', 'flickr-cc', 'openverse-cc', 'editor', 'owner']),
         source: z.string(),
         // Where the subject IS, as % from top-left — reported by the vision
         // gate when it approves the photo, consumed as object-position by the
@@ -100,7 +100,7 @@ const posts = defineCollection({
           // 'editor': shot in person by the site's editor (first two: Yakiuo
         // Ishikawa + La Scène, HCMC, 2026-08-15). Served from /editor-photos/,
         // identity proven by the photograph itself, credit "Photo: Pixer".
-        license: z.enum(['google-places', 'unsplash', 'wikimedia', 'kto-open', 'placeholder', 'foursquare', 'flickr-cc', 'openverse-cc', 'editor']),
+        license: z.enum(['google-places', 'unsplash', 'wikimedia', 'kto-open', 'placeholder', 'foursquare', 'flickr-cc', 'openverse-cc', 'editor', 'owner']),
           source: z.string(),
         })
       )
