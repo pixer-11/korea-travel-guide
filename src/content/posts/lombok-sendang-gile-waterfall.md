@@ -40,6 +40,14 @@ place:
   businessStatus: OPERATIONAL
   lat: -8.306241199999999
   lng: 116.4083416
+  openingHours:
+    - 'Monday: 7:00 AM – 5:00 PM'
+    - 'Tuesday: 7:00 AM – 5:00 PM'
+    - 'Wednesday: Closed'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: 7:00 AM – 5:00 PM'
+    - 'Sunday: 7:00 AM – 5:00 PM'
 tags:
   - lombok
   - top attraction

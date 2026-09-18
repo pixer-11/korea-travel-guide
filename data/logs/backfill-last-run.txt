@@ -1,30 +1,33 @@
-Places 예산: backfill 몫 25회 (오늘 사용 18/100)
-Priority: 164 itinerary stop(s) queued first
-  – siem-reap-pub-street.md: nothing new (resting 60d)
-  ✓ koh-samui-izzy-s-specialty-coffee.md +phone +7h hours
-  – chiang-rai-mae-fah-luang-garden.md: nothing new (resting 60d)
+Places 예산: backfill 몫 25회 (오늘 사용 16/100)
+Priority: 165 itinerary stop(s) queued first
+  – bordeaux-jardin-public.md: nothing new (resting 60d)
+  – causeway-bay-east-coast-park-precinct.md: nothing new (resting 60d)
   – jiufen-golden-waterfall.md: nothing new (resting 60d)
-  – koh-samui-tarnim-magic-garden.md: nothing new (resting 60d)
-  – kolkata-eco-park.md: nothing new (resting 60d)
-  – kolkata-howrah-bridge.md: nothing new (resting 60d)
-  – komodo-komodo-national-park.md: nothing new (resting 60d)
-  – konya-alaaddin-hill-park.md: nothing new (resting 60d)
-  – konya-tomb-of-mevlana-rumi.md: nothing new (resting 60d)
-  – krabi-railay-beach.md: nothing new (resting 60d)
-  ✓ krabi-wat-kaew-korawaram.md +phone +7h hours
-  ✓ krabi-wat-tham-suea.md +phone +7h hours
-  – kuala-lumpur-klcc-park.md: nothing new (resting 60d)
-  – kuala-lumpur-merdeka-square.md: nothing new (resting 60d)
-  – kuching-kubah-national-park.md: nothing new (resting 60d)
-  – kuching-malaysia-china-friendship-park.md: nothing new (resting 60d)
-  ✓ kyoto-arashiyama-bamboo-forest.md +7h hours
-  ✓ kyoto-fushimi-inari-taisha.md +phone +7h hours
-  ✓ kyoto-kinkaku-ji.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 17h (venue not open then); weekendQuiet: dropped 17h (venue not open then)
-  – labuan-bajo-bena-traditional-village-thatched-roof-village.md: nothing new (resting 60d)
-  – labuan-bajo-pondok-pohon-tanjung-bunga.md: nothing new (resting 60d)
-  – langkawi-dataran-lang.md: nothing new (resting 60d)
-  – las-vegas-las-vegas-strip.md: nothing new (resting 60d)
-  ✓ las-vegas-old-las-vegas-mormon-fort-state-historic-park.md +phone +7h hours
+  – kyoto-arashiyama-bamboo-forest.md: nothing new (resting 60d)
+  ✓ las-vegas-the-mob-museum.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 21h (venue not open then); weekendQuiet: dropped 21h (venue not open then)
+  – lijiang-blue-moon-valley.md: nothing new (resting 60d)
+  – lijiang-old-town-of-lijiang.md: nothing new (resting 60d)
+  🚫 little-india-former-house-of-tan-teng-niah.md: CLOSED_TEMPORARILY — quarantined (draft), not backfilled
+  – lombok-mount-rinjani-national-park.md: nothing new (resting 60d)
+  – lombok-pura-lingsar.md: nothing new (resting 60d)
+  ✓ lombok-sendang-gile-waterfall.md +7h hours
+  ✓ los-angeles-griffith-observatory.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 7,8,9,10,11,22h (venue not open then) — nothing left; weekendQuiet: dropped 22h (venue not open then) — nothing left
+  – lyon-lyon-botanical-garden.md: nothing new (resting 60d)
+  – lyon-quais-de-saone-a-lyon.md: nothing new (resting 60d)
+  – madrid-el-retiro-park.md: nothing new (resting 60d)
+  ✓ madrid-museo-nacional-del-prado.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 20h (venue not open then); weekendQuiet: dropped 20h (venue not open then)
+  ✓ madrid-national-museum-of-archaeology.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 20h (venue not open then) — nothing left; weekendQuiet: dropped 9,20h (venue not open then)
+  – madrid-plaza-mayor.md: nothing new (resting 60d)
+  – makassar-fort-somba-opu.md: nothing new (resting 60d)
+  – makassar-pantai-losari.md: nothing new (resting 60d)
+  – malaga-alcazaba.md: nothing new (resting 60d)
+  – malaga-jardines-de-pedro-luis-alonso.md: nothing new (resting 60d)
+  ✓ malaga-santa-iglesia-catedral-basilica-de-la-encarnacion-de-malaga.md +7h hours
+  – malang-arema-blue-village.md: nothing new (resting 60d)
+  – malang-badut-temple.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 7, backlog-updated 7, already-complete 717, no-new-data 314, no-place 328, closed-quarantined 0, quota-429 0, api-error 0, api-calls 25, remaining-askable 168 (APPLIED).
+BACKFILL RESULT: updated 6, backlog-updated 6, already-complete 743, no-new-data 331, no-place 335, closed-quarantined 1, quota-429 0, api-error 0, api-calls 25, remaining-askable 153 (APPLIED).

@@ -35,13 +35,8 @@ place:
   lng: -3.6921270999999996
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 10
-      - 20
-    weekendQuiet:
-      - 10
-      - 19
-      - 20
+    weekdayQuiet: [10]
+    weekendQuiet: [10, 19]
     weekendBusy:
       - 12
       - 13
@@ -51,6 +46,15 @@ place:
       - 17
       - 18
     venueId: ven_41426c7733336b74696f57523067516f30705a594c61374a496843
+  phone: '+34 913 30 28 00'
+  openingHours:
+    - 'Monday: 10:00 AM – 8:00 PM'
+    - 'Tuesday: 10:00 AM – 8:00 PM'
+    - 'Wednesday: 10:00 AM – 8:00 PM'
+    - 'Thursday: 10:00 AM – 8:00 PM'
+    - 'Friday: 10:00 AM – 8:00 PM'
+    - 'Saturday: 10:00 AM – 8:00 PM'
+    - 'Sunday: 10:00 AM – 7:00 PM'
 tags:
   - madrid
   - Prado Museum

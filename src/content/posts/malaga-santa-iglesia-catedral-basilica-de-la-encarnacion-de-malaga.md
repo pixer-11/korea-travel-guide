@@ -41,6 +41,14 @@ place:
   lat: 36.7201678
   lng: -4.419310600000001
   phone: +34 617 50 05 82
+  openingHours:
+    - 'Monday: 10:30 AM – 8:00 PM'
+    - 'Tuesday: 10:30 AM – 8:00 PM'
+    - 'Wednesday: 10:30 AM – 8:00 PM'
+    - 'Thursday: 10:30 AM – 8:00 PM'
+    - 'Friday: 10:30 AM – 8:00 PM'
+    - 'Saturday: 10:30 AM – 6:00 PM'
+    - 'Sunday: 2:00 – 6:00 PM'
 tags:
   - malaga
   - historic site
