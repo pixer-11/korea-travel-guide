@@ -1027,7 +1027,7 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
 
     <ShareRow url={pageUrl} title={title} lang={lang} />
 
-    {(relatedPosts.length > 0 || prevInCity || nextInCity) && (
+    {(relatedPosts.length > 0 || prevInCity || nextInCity || nearby.length > 0) && (
       <section class="related">
         <h2>{t('post.related')}</h2>
         {relatedPosts.length > 0 && (
@@ -1046,19 +1046,39 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
           </div>
         )}
         {(prevInCity || nextInCity) && (
-          <nav class="related-nav" aria-label={t('post.related')}>
+          <nav class:list={['related-nav', { 'related-nav--one': !prevInCity || !nextInCity }]} aria-label={t('post.related')}>
             {prevInCity ? (
               <a class="related-nav-prev" href={postHref(prevInCity.id)}>
                 <span class="related-nav-k">{t('post.prevInCity').replace('{city}', regionLabel)}</span>
                 <span class="related-nav-t">{postTitle(prevInCity)}</span>
               </a>
-            ) : <span />}
+            ) : null}
             {nextInCity && (
               <a class="related-nav-next" href={postHref(nextInCity.id)}>
                 <span class="related-nav-k">{t('post.nextInCity').replace('{city}', regionLabel)}</span>
                 <span class="related-nav-t">{postTitle(nextInCity)}</span>
               </a>
             )}
+          </nav>
+        )}
+        {/* The city's other guides. This shipped as a bare paragraph BELOW the
+            newsletter box — past the point where the reader's eye leaves the
+            page — so nobody saw it (owner, with a screenshot, 2026-09-19). It is
+            one of the few internal-link surfaces a post has, so it now sits in
+            the reading flow with the pager and looks like something to click. */}
+        {nearby.length > 0 && (
+          <nav class="nearby-links" aria-label={t('post.related')}>
+            <span class="nearby-label">{t('post.moreGuides').replace('{region}', regionLabel).replace(/[::]\s*$/, '')}</span>
+            <span class="nearby-chips">
+              {/* Translated title FIRST: place.name is the raw English Google name, so
+                  preferring it printed "Gyeongbokgung Palace" on the Korean page. */}
+              {nearby.map(({ r, km }) => (
+                <a class="nearby-chip" href={postHref(r.id)}>
+                  <span class="nearby-chip-t">{postTitle(r).split(/[:—]/)[0].trim() || r.data.place?.name}</span>
+                  {kmLabel(km) && <span class="nearby-km">{kmLabel(km)}</span>}
+                </a>
+              ))}
+            </span>
           </nav>
         )}
       </section>
@@ -1084,16 +1104,6 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
       </section>
     )}
 
-    {nearby.length > 0 && (
-      <p class="nearby-links">
-        {t('post.moreGuides').replace('{region}', regionLabel)}{' '}
-        {/* Translated title FIRST: place.name is the raw English Google name, so
-            preferring it printed "Gyeongbokgung Palace" on the Korean page. */}
-        {nearby.map(({ r, km }, i) => (
-          <>{i > 0 && <span aria-hidden="true"> · </span>}<a href={postHref(r.id)}>{postTitle(r).split(/[:—]/)[0].trim() || r.data.place?.name}</a>{kmLabel(km) && <span class="nearby-km"> {kmLabel(km)}</span>}</>
-        ))}
-      </p>
-    )}
 
   </article>
 

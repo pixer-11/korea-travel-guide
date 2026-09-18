@@ -1279,7 +1279,21 @@ html[lang^='zh'] .cover-inner h1 {
 
 .related { margin-top: 3rem; border-top: 1px solid var(--line); padding-top: 1.5rem; }
 .related h2 { font-size: 1.25rem; margin-bottom: 0.9rem; }
-.nearby-km { font-size: 0.78rem; color: var(--muted); white-space: nowrap; }
+/* "Other guides in <city>" — the nearest published guides, by distance.
+   Until 2026-09-19 this was an unstyled paragraph sitting BELOW the newsletter
+   box: plain body text, no border, after the point where the reader's eye has
+   left the article. It now lives with the pager inside the related block and
+   reads as a row of tappable chips. */
+.nearby-links { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.5rem 0.7rem; margin-top: 1.1rem; }
+.nearby-label { font-size: 0.74rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.04em; }
+.nearby-chips { display: flex; flex-wrap: wrap; gap: 0.45rem; }
+.nearby-chip { display: inline-flex; align-items: baseline; gap: 0.35rem; padding: 0.4rem 0.7rem;
+               border: 1px solid var(--line); border-radius: 999px; background: var(--surface);
+               color: var(--ink); text-decoration: none; font-size: 0.88rem; font-weight: 600;
+               transition: border-color .15s ease, transform .15s ease; }
+.nearby-chip:hover { border-color: var(--accent); transform: translateY(-1px); }
+.nearby-chip-t { line-height: 1.25; }
+.nearby-km { font-size: 0.78rem; color: var(--muted); white-space: nowrap; font-weight: 500; }
 /* 2026-08-23: four text lines under the newsletter → three PostCard tiles
    above it, plus a same-city previous/next pair. (The old .related a rules
    are gone on purpose: they would have restyled the cards' own anchors.) */
@@ -1290,6 +1304,13 @@ html[lang^='zh'] .cover-inner h1 {
                  background: var(--surface); text-decoration: none; color: var(--ink); transition: border-color .15s ease, transform .15s ease; }
 .related-nav a:hover { border-color: var(--accent); transform: translateY(-1px); }
 .related-nav-next { text-align: right; align-items: flex-end; }
+/* One card, full width. With a two-column grid and an empty cell beside it, a
+   post that has only a NEXT guide printed a card floating in the right half of
+   the page with nothing to balance it (owner, with a screenshot, 2026-09-19).
+   The placeholder span is gone; the single card now fills the row and reads
+   left-to-right like everything else. */
+.related-nav--one { grid-template-columns: 1fr; }
+.related-nav--one .related-nav-next { text-align: left; align-items: flex-start; }
 .related-nav-k { font-size: 0.74rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.04em; }
 .related-nav-t { font-weight: 650; font-size: 0.95rem; line-height: 1.3; }
 @media (max-width: 520px) {
