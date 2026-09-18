@@ -1,49 +1,49 @@
 ---
 lang: es
 slug: los-angeles-griffith-observatory
-srcHash: '0a253bcbd959'
-title: 'Observatorio Griffith: Guía de viaje de Los Ángeles'
-description: El Observatorio Griffith (Griffith Observatory), situado en la ladera sur del monte Hollywood en Griffith Park, tiene entrada gratuita y abre de miércoles a domingo por la tarde hasta la noche (cerrado lunes y martes); lo único que se paga es la función del planetario y el estacionamiento.
-quickAnswer: El Observatorio Griffith (Griffith Observatory), situado en la ladera sur del monte Hollywood en Griffith Park, tiene entrada gratuita y abre de miércoles a domingo por la tarde hasta la noche (cerrado lunes y martes); lo único que se paga es la función del planetario y el estacionamiento. Ve cerca de la puesta de sol para disfrutar de la mejor combinación de vistas del horizonte, el letrero de Hollywood y observación con telescopio después del anochecer, y calcula entre 2 y 3 horas, incluyendo la subida caminando y la espera para estacionar.
+srcHash: '0b5af296a0e8'
+title: 'Observatorio Griffith: guía de viaje de Los Ángeles'
+description: El Observatorio Griffith, situado en la ladera sur del monte Hollywood dentro de Griffith Park, tiene entrada gratuita y abre por las tardes hasta el anochecer de martes a domingo (cierra los lunes); lo único que se paga son la función del planetario y el aparcamiento.
+quickAnswer: El Observatorio Griffith, situado en la ladera sur del monte Hollywood dentro de Griffith Park, tiene entrada gratuita y abre por las tardes hasta el anochecer de martes a domingo (cierra los lunes); lo único que se paga son la función del planetario y el aparcamiento. Conviene ir cerca del atardecer para disfrutar de la mejor combinación de vistas del horizonte de la ciudad, el letrero de Hollywood y observación con telescopio ya de noche, y hay que reservar entre 2 y 3 horas contando la caminata de subida y la espera para aparcar.
 faq:
-  - q: ¿La entrada al Observatorio Griffith es gratuita?
-    a: Sí, el acceso al edificio, las exhibiciones y los terrenos es gratuito. Lo único que se paga es el boleto para la función del Planetario Samuel Oschin, que se compra en el lugar.
-  - q: ¿Cómo llego sin auto?
-    a: Toma el Metro hasta la zona de Vermont/Sunset y conecta con el shuttle estacional DASH Observatory los fines de semana y días festivos, o sube caminando por los senderos Charlie Turner o Berlin Forest desde la entrada de Fern Dell.
+  - q: ¿Es gratis visitar el Observatorio Griffith?
+    a: Sí, el acceso al edificio, las exposiciones y los jardines es gratuito. Lo único que se paga es la entrada a la función del Planetario Samuel Oschin, que se compra en el propio lugar.
+  - q: ¿Cómo llego sin coche?
+    a: Se puede tomar el metro hasta la zona de Vermont/Sunset y conectar con la lanzadera estacional DASH Observatory los fines de semana y festivos, o subir a pie por los senderos Charlie Turner o Berlin Forest desde la entrada de Fern Dell.
   - q: ¿Cuál es el mejor momento para ir por las vistas y los telescopios?
-    a: Llega una hora antes de la puesta del sol para ver las exhibiciones diurnas y las vistas del horizonte, y luego quédate después del anochecer para la observación gratuita con telescopios junto a astrónomos voluntarios, si el clima lo permite.
-  - q: ¿Cuánto tiempo debo planear pasar allí?
-    a: 'Calcula entre 2 y 3 horas: tiempo para estacionar o subir caminando, recorrer las exhibiciones y los terrenos y, si lo deseas, asistir a una función del planetario o a una sesión nocturna de telescopios.'
-  - q: ¿Es difícil estacionar?
-    a: Sí, el estacionamiento del lugar se llena rápido los fines de semana y días festivos. Llega temprano, prepárate para dar vueltas buscando lugar en la calle a lo largo de los caminos de acceso, o usa el shuttle DASH en su lugar.
+    a: Conviene llegar aproximadamente una hora antes del atardecer para ver las exposiciones de día y las vistas del horizonte, y luego quedarse ya anochecido para la observación pública gratuita con telescopios, guiada por astrónomos voluntarios, si el clima lo permite.
+  - q: ¿Cuánto tiempo debería planear pasar allí?
+    a: 'Conviene reservar entre 2 y 3 horas: el tiempo de aparcar o subir a pie, recorrer las exposiciones y los jardines y, si se desea, asistir a una función del planetario o a una sesión nocturna de telescopios.'
+  - q: ¿Es difícil aparcar?
+    a: Sí, el aparcamiento propio del lugar se llena rápido los fines de semana y festivos. Lo mejor es llegar temprano, estar dispuesto a dar vueltas buscando sitio en las calles cercanas a las vías de acceso, o usar la lanzadera DASH.
 ---
 
 ## Por qué ir
 
-Inaugurado en 1935, este emblemático edificio Art Decó en la cara sur del monte Hollywood fue construido como observatorio público, uno de los primeros del mundo pensado para visitantes comunes y no solo para astrónomos investigadores, y la entrada al edificio y a los terrenos ha sido gratuita desde entonces. Se ha ganado un público fiel (4.7 estrellas en más de 18,500 reseñas), no solo por la astronomía, sino por su papel como ícono de Los Ángeles: su exterior de cúpula de cobre ha aparecido en *Rebel Without a Cause*, *La La Land* y en incontables postales del horizonte de la ciudad que se extiende hacia el Pacífico.
+Inaugurado en 1935, este hito de estilo Art Decó en la ladera sur del monte Hollywood se construyó como observatorio público, uno de los primeros del mundo pensado para visitantes comunes y no para astrónomos profesionales, y desde entonces la entrada al edificio y a los jardines ha seguido siendo gratuita. Se ha ganado un público fiel (4,7 estrellas en más de 18.500 reseñas) no solo por la astronomía, sino por su papel como icono de Los Ángeles: su exterior de cúpula de cobre ha aparecido en *Rebelde sin causa*, *La La Land* y en innumerables postales del horizonte de la ciudad extendiéndose hacia el Pacífico.
 
-Más allá de las vistas, el propio edificio merece una mirada atenta: relieves de bronce, un friso con pioneros de la astronomía y el péndulo de Foucault que oscila en la rotonda bajo los murales de Hugo Ballin.
+Más allá de las vistas, el propio edificio merece una mirada atenta: relieves en bronce, un friso con pioneros de la astronomía y el péndulo de Foucault que se mece en la rotonda bajo los murales de Hugo Ballin.
 
 ## Cómo llegar
 
-La dirección es 2800 E Observatory Rd, Los Angeles, CA 90027, dentro de Griffith Park. No hay salida directa desde la autopista; la mayoría de los visitantes suben por Vermont Avenue o Western Canyon Road, ambas serpenteando por el parque hasta el pequeño estacionamiento del observatorio, que se llena rápido los fines de semana y días festivos; conviene llegar temprano o estar preparado para dar vueltas buscando lugar, o estacionar más abajo en la colina, sobre el borde de la carretera.
+La dirección es 2800 E Observatory Rd, Los Angeles, CA 90027, dentro de Griffith Park. No hay una salida directa desde la autopista; la mayoría de los visitantes sube por Vermont Avenue o por Western Canyon Road, ambas serpenteando a través del parque hasta el pequeño aparcamiento del observatorio, que se llena rápido los fines de semana y festivos. Conviene llegar temprano, o de lo contrario habrá que dar vueltas buscando sitio o aparcar más abajo, en el arcén de la carretera.
 
-Una mejor opción para los días concurridos es el shuttle estacional DASH Observatory (fines de semana y días festivos) desde la zona de la estación Vermont/Sunset del Metro Red Line, que evita por completo el problema del estacionamiento. Los excursionistas también pueden llegar al observatorio a pie por el Charlie Turner Trail o el Berlin Forest Trail desde la entrada de Fern Dell, en Los Feliz Boulevard, una caminata de subida de unos 20–30 minutos que funciona como un mini entrenamiento con una vista de recompensa al final.
+Una mejor opción para los días concurridos es la lanzadera estacional DASH Observatory (fines de semana y festivos), que sale de la zona de la estación de metro Vermont/Sunset (línea roja) y evita por completo el problema del aparcamiento. Los senderistas también pueden llegar a pie al observatorio por el sendero Charlie Turner o por el sendero Berlin Forest, desde la entrada de Fern Dell, junto a Los Feliz Boulevard; son unos 20-30 minutos de subida que funcionan casi como un pequeño entrenamiento, con una vista como recompensa.
 
 ## Qué ver y hacer
 
-En el interior, el planetario Samuel Oschin (Samuel Oschin Planetarium) ofrece varias funciones diarias en una gigantesca pantalla de cúpula: programas narrados de astronomía que constituyen el único boleto pagado del observatorio (se compra en persona; suelen agotarse los fines de semana, así que conviene conseguir una entrada con horario poco después de llegar). En la planta principal, las exhibiciones Hall of the Eye y Cosmic Connection explican el funcionamiento de los telescopios y muestran el sistema solar a escala, mientras que en el nivel inferior la exhibición Edge of Space —que rodea el péndulo de Foucault— aborda la cohetería y la Era Espacial con equipos reales en exhibición.
+En el interior, el Planetario Samuel Oschin ofrece varias funciones diarias en una pantalla de cúpula gigante, con programas narrados de astronomía que constituyen el único ticket de pago del observatorio (se compra en persona, y se agota los fines de semana, así que conviene conseguir una entrada con horario asignado poco después de llegar). En la planta principal, las exposiciones Hall of the Eye y Cosmic Connection explican el funcionamiento de los telescopios y ponen a escala el sistema solar, mientras que en el nivel del sótano, la exposición Edge of Space, dispuesta alrededor del péndulo de Foucault, aborda la cohetería y la era espacial con piezas reales en exhibición.
 
-Para muchos, el verdadero atractivo es la observación gratuita con telescopios en la azotea y el jardín delantero después del anochecer, atendida por astrónomos voluntarios casi todas las noches despejadas en que el edificio está abierto. El telescopio refractor Zeiss de 12 pulgadas en la cúpula este es el instrumento original de 1935 y se dice que ha sido usado por más personas que cualquier otro telescopio en la historia.
+Para muchos, el verdadero atractivo es la observación pública gratuita con telescopios en la azotea y en el jardín delantero después del anochecer, atendida por astrónomos voluntarios casi todas las noches despejadas en que el edificio permanece abierto. El telescopio refractor Zeiss de 12 pulgadas, en la cúpula este, es el instrumento original de 1935 y se dice que ha sido observado a través de él por más personas que cualquier otro telescopio en la historia.
 
-Afuera, el jardín oeste y la terraza orientada al sur ofrecen la panorámica clásica: el horizonte del centro de Los Ángeles, el Pacífico en un día despejado y, al voltear, el letrero de Hollywood enmarcado en la colina de fondo.
+En el exterior, el jardín del oeste y la terraza orientada al sur ofrecen el panorama clásico: el horizonte del centro de Los Ángeles, el Pacífico en un día claro y, al girarse, el letrero de Hollywood enmarcado en la colina de enfrente.
 
 ## Cuándo ir
 
-Las tardes entre semana son notablemente más tranquilas que los fines de semana. Para fotografiar y disfrutar de la vista más famosa, llega una hora antes del atardecer, observa cómo se encienden las luces de la ciudad y quédate para la observación con telescopio una vez que haya oscurecido por completo; esta única visita cubre las exhibiciones diurnas, las vistas de la hora dorada y el cielo nocturno en un solo recorrido.
+Las tardes de entre semana son notablemente más tranquilas que los fines de semana. Para la fotografía y la vista famosa, conviene llegar una hora antes del atardecer, ver cómo se encienden las luces de la ciudad y luego quedarse para la observación con telescopios una vez que ya ha oscurecido del todo; en una sola visita se combinan las exposiciones diurnas, las vistas de la hora dorada y el cielo nocturno.
 
-El Observatorio Griffith cierra los lunes y martes; confirma el horario vigente antes de subir, ya que varía ligeramente según la temporada. La capa marina y la neblina son comunes a finales de la primavera, por lo que el otoño y el invierno suelen ofrecer las vistas de larga distancia más despejadas.
+El Observatorio Griffith suele cerrar los lunes; conviene confirmar los días y horarios de apertura vigentes antes de subir, ya que varían ligeramente según la temporada. La bruma marina y la neblina son habituales a finales de primavera, así que el otoño y el invierno suelen ofrecer las vistas de largo alcance más despejadas.
 
 ## Cerca de allí y consejos
 
-El letrero de Hollywood en sí es accesible mediante senderos cercanos (Mount Lee) para quienes quieran verlo de cerca, y el Greek Theatre se encuentra cuesta abajo, dentro del mismo parque. Lleva una chaqueta incluso en verano: la ubicación en la cima de la colina atrapa el viento y se enfría rápido después de la puesta del sol. Las opciones de comida en el observatorio se limitan a una pequeña cafetería, así que muchos visitantes comen antes en Los Feliz o llevan un picnic para disfrutar en el jardín. Baños, bebederos y una tienda/librería de regalos completan las comodidades dentro del edificio principal.
+El propio letrero de Hollywood se puede alcanzar por senderos cercanos (monte Lee) para quienes quieran verlo de cerca, y el Greek Theatre se encuentra justo cuesta abajo, dentro del mismo parque. Conviene llevar chaqueta incluso en verano, ya que la ubicación en lo alto de la colina atrapa el viento y se enfría rápido después del atardecer. Las opciones de comida en el observatorio se limitan a una pequeña cafetería, así que muchos visitantes comen antes en Los Feliz o llevan un picnic para disfrutar en el jardín. Baños, fuentes de agua y una librería-tienda de regalos completan los servicios disponibles dentro del edificio principal.

@@ -22,7 +22,7 @@
    "hits": 7
   },
   "night view": {
-   "attempts": 45,
+   "attempts": 54,
    "hits": 7
   },
   "waterfront": {
@@ -82,7 +82,7 @@
    "hits": 1
   },
   "concept cafe": {
-   "attempts": 2,
+   "attempts": 11,
    "hits": 0
   },
   "top attraction": {
@@ -178,5 +178,5 @@
    "hits": 0
   }
  },
- "updated": "2026-09-18T07:52:33.230Z"
+ "updated": "2026-09-18T13:45:09.200Z"
 }
