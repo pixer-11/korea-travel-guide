@@ -16,8 +16,7 @@ Busan, South Korea — 13 qualifying post(s), variants: 3
 
 Hong Kong, Hong Kong — 76 qualifying post(s), variants: 3, 5
   = Hong Kong 3d — unchanged, skipping
-  ~ Hong Kong 5d — minor structure change (2 slug diff), keeping existing prose
-  ✅ Hong Kong 5d — updated
+  = Hong Kong 5d — unchanged, skipping
 
 Los Angeles, United States — 16 qualifying post(s), variants: 3
   = Los Angeles 3d — unchanged, skipping
@@ -38,7 +37,7 @@ Singapore, Singapore — 70 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
   = Singapore 5d — unchanged, skipping
 
-Done.
+Done. Nothing changed.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0
