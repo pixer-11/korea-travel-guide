@@ -1,44 +1,51 @@
 ---
-title: "Shri Laxmi Narayan Temple (Birla Mandir): New Delhi Travel Guide"
-description: "Birla Mandir (Shri Laxmi Narayan Temple) sits on Mandir Marg near Gole Market, open daily 4:30–9pm with a midday break from 1:30–2:30pm. 4.6★ (17,963 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "New Delhi"
-category: "attraction"
-pubDate: "2026-08-17T08:07:24.921Z"
+title: 'Shri Laxmi Narayan Temple (Birla Mandir): New Delhi Travel Guide'
+description: >-
+  Birla Mandir (Shri Laxmi Narayan Temple) sits on Mandir Marg near Gole Market,
+  open daily 4:30–9pm with a midday break from 1:30–2:30pm. 4.6★ (18,038
+  reviews) — what visitors say, hours, and tips.
+country: India
+region: New Delhi
+category: attraction
+pubDate: '2026-08-17T08:07:24.921Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Shri_Laxmi_Narayan_Temple_%28Birla_Mandir%29%2C_New_Delhi.jpg/3840px-Shri_Laxmi_Narayan_Temple_%28Birla_Mandir%29%2C_New_Delhi.jpg"
-  credit: "Photo: Shivansh Mishra 017 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Shri_Laxmi_Narayan_Temple_(Birla_Mandir),_New_Delhi.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Shri_Laxmi_Narayan_Temple_%28Birla_Mandir%29%2C_New_Delhi.jpg/3840px-Shri_Laxmi_Narayan_Temple_%28Birla_Mandir%29%2C_New_Delhi.jpg
+  credit: 'Photo: Shivansh Mishra 017 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Shri_Laxmi_Narayan_Temple_(Birla_Mandir),_New_Delhi.jpg
   focus:
     x: 45
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Birla_Mandir_of_New_Delhi_05.jpg/3840px-Birla_Mandir_of_New_Delhi_05.jpg"
-    credit: "Photo: Goutam1962 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Birla_Mandir_of_New_Delhi_05.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Birla_Mandir_of_New_Delhi_05.jpg/3840px-Birla_Mandir_of_New_Delhi_05.jpg
+    credit: 'Photo: Goutam1962 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Birla_Mandir_of_New_Delhi_05.jpg'
 place:
-  id: "ChIJFdt-qrr8DDkRbn-qUmvHLS0"
-  name: "Shri Laxmi Narayan Temple (Birla Mandir)"
-  address: "Mandir Marg, near Gole Market, Gole Market, New Delhi, Delhi 110001, India"
+  id: ChIJFdt-qrr8DDkRbn-qUmvHLS0
+  name: Shri Laxmi Narayan Temple (Birla Mandir)
+  address: 'Mandir Marg, near Gole Market, Gole Market, New Delhi, Delhi 110001, India'
   rating: 4.6
-  userRatingsTotal: 17963
-  googleMapsUrl: "https://maps.google.com/?cid=3255477369421070190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 18038
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3255477369421070190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 28.6326666
   lng: 77.19899629999999
-  phone: "+91 88102 21907"
+  phone: +91 88102 21907
   openingHours:
-    - "Monday: 4:30 AM – 1:30 PM, 2:30 – 9:00 PM"
-    - "Tuesday: 4:30 AM – 1:30 PM, 2:30 – 9:00 PM"
-    - "Wednesday: 4:30 AM – 1:30 PM, 2:30 – 9:00 PM"
-    - "Thursday: 4:30 AM – 1:30 PM, 2:30 – 9:00 PM"
-    - "Friday: 4:30 AM – 1:30 PM, 2:30 – 9:00 PM"
-    - "Saturday: 4:30 AM – 1:30 PM, 2:30 – 9:00 PM"
-    - "Sunday: 4:30 AM – 1:30 PM, 2:30 – 9:00 PM"
+    - 'Monday: 4:30 AM – 1:30 PM, 2:30 – 9:00 PM'
+    - 'Tuesday: 4:30 AM – 1:30 PM, 2:30 – 9:00 PM'
+    - 'Wednesday: 4:30 AM – 1:30 PM, 2:30 – 9:00 PM'
+    - 'Thursday: 4:30 AM – 1:30 PM, 2:30 – 9:00 PM'
+    - 'Friday: 4:30 AM – 1:30 PM, 2:30 – 9:00 PM'
+    - 'Saturday: 4:30 AM – 1:30 PM, 2:30 – 9:00 PM'
+    - 'Sunday: 4:30 AM – 1:30 PM, 2:30 – 9:00 PM'
   busyness:
-    updated: 2026-08-17
+    updated: 2026-08-17T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -54,24 +61,42 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_30534c48766d55712d6e62526b4444387272712d7464464a496843"
+    venueId: ven_30534c48766d55712d6e62526b4444387272712d7464464a496843
 tags:
-  - "new delhi"
-  - "historic site"
-quickAnswer: "Birla Mandir (Shri Laxmi Narayan Temple) sits on Mandir Marg near Gole Market, open daily 4:30–9pm with a midday break from 1:30–2:30pm. It's calmest on weekday mornings between 7am and 9am; weekends stay busy from 10am straight through to closing, so an early start is worth it. Budget 45–60 minutes, wear easily removable shoes, and expect to leave them at a free counter near the entrance."
+  - new delhi
+  - historic site
+quickAnswer: >-
+  Birla Mandir (Shri Laxmi Narayan Temple) sits on Mandir Marg near Gole Market,
+  open daily 4:30–9pm with a midday break from 1:30–2:30pm. It's calmest on
+  weekday mornings between 7am and 9am; weekends stay busy from 10am straight
+  through to closing, so an early start is worth it. Budget 45–60 minutes, wear
+  easily removable shoes, and expect to leave them at a free counter near the
+  entrance.
 faq:
-  - q: "What are the opening hours for Birla Mandir?"
-    a: "It's open daily from 4:30am to 1:30pm, then again from 2:30pm to 9pm. The temple closes for that hour in between, so time your visit around it."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings between 7am and 9am are calmest. Weekends stay busy from 10am all the way to closing, so avoid that stretch if you want space to explore."
-  - q: "How do I get there by metro?"
-    a: "Take the Blue Line to RK Ashram Marg or Jhandewalan station, both about a 15–20 minute walk from the temple on Mandir Marg."
-  - q: "Is there an entry fee?"
-    a: "No, entry is free. Donation boxes are placed around the complex if you'd like to contribute, but it's entirely optional."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 45–60 minutes, but arriving early lets you slow down and explore the gardens and side shrines over 90 minutes without crowds."
+  - q: What are the opening hours for Birla Mandir?
+    a: >-
+      It's open daily from 4:30am to 1:30pm, then again from 2:30pm to 9pm. The
+      temple closes for that hour in between, so time your visit around it.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings between 7am and 9am are calmest. Weekends stay busy from
+      10am all the way to closing, so avoid that stretch if you want space to
+      explore.
+  - q: How do I get there by metro?
+    a: >-
+      Take the Blue Line to RK Ashram Marg or Jhandewalan station, both about a
+      15–20 minute walk from the temple on Mandir Marg.
+  - q: Is there an entry fee?
+    a: >-
+      No, entry is free. Donation boxes are placed around the complex if you'd
+      like to contribute, but it's entirely optional.
+  - q: How long should I plan to spend there?
+    a: >-
+      Most visitors spend 45–60 minutes, but arriving early lets you slow down
+      and explore the gardens and side shrines over 90 minutes without crowds.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-18'
 ---
 
 ## Why go

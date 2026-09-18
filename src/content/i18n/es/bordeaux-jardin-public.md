@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bordeaux-jardin-public
-srcHash: '5c978be367d8'
+srcHash: '66e75a2ef9e6'
 title: 'Jardin public: Guía de viaje de Burdeos (4,6★)'
-description: 'El Jardin public es el gran parque de estilo inglés de Burdeos, situado en el extremo norte del barrio de Chartrons, abierto todos los días de 7:00 a 20:00. 4,6★ (14.636 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Jardin public es el gran parque de estilo inglés de Burdeos, situado en el extremo norte del barrio de Chartrons, abierto todos los días de 7:00 a 20:00. 4,6★ (14.637 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Jardin public es el gran parque de estilo inglés de Burdeos, situado en el extremo norte del barrio de Chartrons, abierto todos los días de 7:00 a 20:00. Se trata de un lugar muy visitado, así que las mañanas resultan más tranquilas que las tardes de fin de semana. Merece la pena acercarse por el lago, los senderos del arboreto y el museo de historia natural que alberga, y conviene reservar una hora o dos para la visita.
 faq:
   - q: ¿Cuál es el horario de apertura del Jardin public?

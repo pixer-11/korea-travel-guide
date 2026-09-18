@@ -1,15 +1,20 @@
 ---
 title: 'Yamuna Ghat: New Delhi Travel Guide (4.1★)'
-description: Yamuna Ghat, near Kashmere Gate, is the riverside staircase where Delhi comes to feed thousands of migratory seagulls at sunrise and where priests perform daily aarti along the water. 4.1★ (5,856 reviews) — what visitors say, hours, and tips.
+description: >-
+  Yamuna Ghat, near Kashmere Gate, is the riverside staircase where Delhi comes
+  to feed thousands of migratory seagulls at sunrise and where priests perform
+  daily aarti along the water. 4.1★ (5,874 reviews) — what visitors say, hours,
+  and tips.
 country: India
 region: New Delhi
 category: attraction
 pubDate: '2026-08-17T08:21:44.329Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Peace_Yamuna_Ghat_%28259710365%29.jpeg/1920px-Peace_Yamuna_Ghat_%28259710365%29.jpeg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Peace_Yamuna_Ghat_%28259710365%29.jpeg/1920px-Peace_Yamuna_Ghat_%28259710365%29.jpeg
   credit: 'Photo: Mirza / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Peace_Yamuna_Ghat_(259710365).jpeg
+  source: 'https://commons.wikimedia.org/wiki/File:Peace_Yamuna_Ghat_(259710365).jpeg'
   focus:
     x: 50
     'y': 45
@@ -17,10 +22,11 @@ gallery: []
 place:
   id: ChIJP42tbAL9DDkROEV2hk9VaSo
   name: Yamuna Ghat
-  address: Kashmere Gate, New Delhi, Delhi, 110006, India
+  address: 'Kashmere Gate, New Delhi, Delhi, 110006, India'
   rating: 4.1
-  userRatingsTotal: 5856
-  googleMapsUrl: https://maps.google.com/?cid=3056067622194267448&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 5874
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3056067622194267448&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 28.6644866
   lng: 77.23888269999999
@@ -56,20 +62,41 @@ place:
 tags:
   - new delhi
   - waterfront
-quickAnswer: Yamuna Ghat, near Kashmere Gate, is the riverside staircase where Delhi comes to feed thousands of migratory seagulls at sunrise and where priests perform daily aarti along the water. Go right after sunrise (roughly 7-9am, winter months best for the gulls), and skip the 7am-10pm weekend crush if you want breathing room — weekend evenings around 9-10pm are calmest. Bring bread or puffed rice for the birds and expect crowds, boat touts, and a distinctly unglamorous stretch of the Yamuna itself.
+quickAnswer: >-
+  Yamuna Ghat, near Kashmere Gate, is the riverside staircase where Delhi comes
+  to feed thousands of migratory seagulls at sunrise and where priests perform
+  daily aarti along the water. Go right after sunrise (roughly 7-9am, winter
+  months best for the gulls), and skip the 7am-10pm weekend crush if you want
+  breathing room — weekend evenings around 9-10pm are calmest. Bring bread or
+  puffed rice for the birds and expect crowds, boat touts, and a distinctly
+  unglamorous stretch of the Yamuna itself.
 faq:
   - q: What's the best time to see the seagulls at Yamuna Ghat?
-    a: Winter mornings, roughly November through February, right around sunrise, when thousands of migratory gulls flock to feed. Bring bread or puffed rice to feed them.
+    a: >-
+      Winter mornings, roughly November through February, right around sunrise,
+      when thousands of migratory gulls flock to feed. Bring bread or puffed
+      rice to feed them.
   - q: How do I get to Yamuna Ghat?
-    a: Take the metro to Kashmere Gate station (Red, Yellow, or Violet Line), then a short auto-rickshaw ride to the ghat — drivers recognize it as 'Yamuna Ghat' or 'Seagull Point.'
+    a: >-
+      Take the metro to Kashmere Gate station (Red, Yellow, or Violet Line),
+      then a short auto-rickshaw ride to the ghat — drivers recognize it as
+      'Yamuna Ghat' or 'Seagull Point.'
   - q: When is Yamuna Ghat least crowded?
-    a: Weekends are busy from 7am to 10pm. The quietest window is 9pm–10pm on weekends, though the gulls and daylight will be gone by then.
+    a: >-
+      Weekends are busy from 7am to 10pm. The quietest window is 9pm–10pm on
+      weekends, though the gulls and daylight will be gone by then.
   - q: Is Yamuna Ghat open 24 hours?
-    a: Most days, yes, but hours vary — Thursday it's open 1:30am–8pm, and Friday–Saturday 7am–9pm. Check the current schedule before a late-night or early visit.
+    a: >-
+      Most days, yes, but hours vary — Thursday it's open 1:30am–8pm, and
+      Friday–Saturday 7am–9pm. Check the current schedule before a late-night or
+      early visit.
   - q: Is the river itself clean or swimmable?
-    a: No — this stretch of the Yamuna is heavily polluted. Visitors come for the seagull spectacle and religious ceremonies, not for the water quality.
+    a: >-
+      No — this stretch of the Yamuna is heavily polluted. Visitors come for the
+      seagull spectacle and religious ceremonies, not for the water quality.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-18'
 ---
 ## Why go
 

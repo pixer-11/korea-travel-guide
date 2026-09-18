@@ -1,43 +1,51 @@
 ---
-title: "Lodhi Garden: New Delhi Travel Guide (4.5★)"
-description: "Lodhi Garden is a 90-acre park in central Delhi scattered with 15th and 16th-century Sayyid and Lodhi-era tombs, best visited right at opening (5am–8am) to beat the heat and the crowds. 4.5★ (57,928 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "New Delhi"
-category: "attraction"
-pubDate: "2026-08-17T08:11:34.284Z"
+title: 'Lodhi Garden: New Delhi Travel Guide (4.5★)'
+description: >-
+  Lodhi Garden is a 90-acre park in central Delhi scattered with 15th and
+  16th-century Sayyid and Lodhi-era tombs, best visited right at opening
+  (5am–8am) to beat the heat and the crowds. 4.5★ (58,185 reviews) — what
+  visitors say, hours, and tips.
+country: India
+region: New Delhi
+category: attraction
+pubDate: '2026-08-17T08:11:34.284Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/PXL_20231130_055916240_Sikandar_Lodhi_Tomb_Lodhi_Gardens%2C_Lodhi_Estate%2C_New_Delhi%2C_Delhi_110003_04.jpg/3840px-PXL_20231130_055916240_Sikandar_Lodhi_Tomb_Lodhi_Gardens%2C_Lodhi_Estate%2C_New_Delhi%2C_Delhi_110003_04.jpg"
-  credit: "Photo: Sourabh.biswas003 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:PXL_20231130_055916240_Sikandar_Lodhi_Tomb_Lodhi_Gardens,_Lodhi_Estate,_New_Delhi,_Delhi_110003_04.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/PXL_20231130_055916240_Sikandar_Lodhi_Tomb_Lodhi_Gardens%2C_Lodhi_Estate%2C_New_Delhi%2C_Delhi_110003_04.jpg/3840px-PXL_20231130_055916240_Sikandar_Lodhi_Tomb_Lodhi_Gardens%2C_Lodhi_Estate%2C_New_Delhi%2C_Delhi_110003_04.jpg
+  credit: 'Photo: Sourabh.biswas003 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:PXL_20231130_055916240_Sikandar_Lodhi_Tomb_Lodhi_Gardens,_Lodhi_Estate,_New_Delhi,_Delhi_110003_04.jpg
   focus:
     x: 45
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Lodhi_Garden_Tomb_2019.jpg/3840px-Lodhi_Garden_Tomb_2019.jpg"
-    credit: "Photo: Tarun Kumar Sambhariya / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Lodhi_Garden_Tomb_2019.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Lodhi_Garden_Tomb_2019.jpg/3840px-Lodhi_Garden_Tomb_2019.jpg
+    credit: 'Photo: Tarun Kumar Sambhariya / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Lodhi_Garden_Tomb_2019.jpg'
 place:
-  id: "ChIJNS7J7OziDDkR6ksNHEt2wIY"
-  name: "Lodhi Garden"
-  address: "Lodhi Rd, Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India"
+  id: ChIJNS7J7OziDDkR6ksNHEt2wIY
+  name: Lodhi Garden
+  address: 'Lodhi Rd, Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India'
   rating: 4.5
-  userRatingsTotal: 57928
-  googleMapsUrl: "https://maps.google.com/?cid=9709890861576047594&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 58185
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9709890861576047594&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 28.593095899999998
   lng: 77.21967939999999
   openingHours:
-    - "Monday: 5:00 AM – 8:00 PM"
-    - "Tuesday: 5:00 AM – 8:00 PM"
-    - "Wednesday: 5:00 AM – 8:00 PM"
-    - "Thursday: 5:00 AM – 8:00 PM"
-    - "Friday: 5:00 AM – 8:00 PM"
-    - "Saturday: 5:00 AM – 8:00 PM"
-    - "Sunday: 5:00 AM – 8:00 PM"
+    - 'Monday: 5:00 AM – 8:00 PM'
+    - 'Tuesday: 5:00 AM – 8:00 PM'
+    - 'Wednesday: 5:00 AM – 8:00 PM'
+    - 'Thursday: 5:00 AM – 8:00 PM'
+    - 'Friday: 5:00 AM – 8:00 PM'
+    - 'Saturday: 5:00 AM – 8:00 PM'
+    - 'Sunday: 5:00 AM – 8:00 PM'
   busyness:
-    updated: 2026-08-17
+    updated: 2026-08-17T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -52,24 +60,38 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_594977327445484e736b36526b4444697a4f374a37534e4a496843"
+    venueId: ven_594977327445484e736b36526b4444697a4f374a37534e4a496843
 tags:
-  - "new delhi"
-  - "park"
-quickAnswer: "Lodhi Garden is a 90-acre park in central Delhi scattered with 15th and 16th-century Sayyid and Lodhi-era tombs, best visited right at opening (5am–8am) to beat the heat and the crowds. It's open daily 5am–8pm and free to enter. On weekdays the calmest window is 7am–10am; on weekends things fill up fast after 1pm, so an early start is worth planning around."
+  - new delhi
+  - park
+quickAnswer: >-
+  Lodhi Garden is a 90-acre park in central Delhi scattered with 15th and
+  16th-century Sayyid and Lodhi-era tombs, best visited right at opening
+  (5am–8am) to beat the heat and the crowds. It's open daily 5am–8pm and free to
+  enter. On weekdays the calmest window is 7am–10am; on weekends things fill up
+  fast after 1pm, so an early start is worth planning around.
 faq:
-  - q: "Is there an entry fee for Lodhi Garden?"
-    a: "No, entry is free and open to everyone during park hours."
-  - q: "What are Lodhi Garden's opening hours?"
-    a: "It's open daily from 5:00 AM to 8:00 PM, with no variation between weekdays and weekends."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 7am and 10am are calmest. On weekends, the quiet window is shorter — only 7am to 8am — before crowds build through the afternoon."
-  - q: "How do I get to Lodhi Garden by metro?"
-    a: "Jorbagh station on the Yellow Line is closest, about a 15-20 minute walk, followed by Khan Market station on the Violet Line."
-  - q: "How much time should I plan for a visit?"
-    a: "Around 1.5 to 2 hours is enough to see the main tombs, the rose garden, the bonsai section and the lake at an unhurried pace."
+  - q: Is there an entry fee for Lodhi Garden?
+    a: 'No, entry is free and open to everyone during park hours.'
+  - q: What are Lodhi Garden's opening hours?
+    a: >-
+      It's open daily from 5:00 AM to 8:00 PM, with no variation between
+      weekdays and weekends.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays between 7am and 10am are calmest. On weekends, the quiet window
+      is shorter — only 7am to 8am — before crowds build through the afternoon.
+  - q: How do I get to Lodhi Garden by metro?
+    a: >-
+      Jorbagh station on the Yellow Line is closest, about a 15-20 minute walk,
+      followed by Khan Market station on the Violet Line.
+  - q: How much time should I plan for a visit?
+    a: >-
+      Around 1.5 to 2 hours is enough to see the main tombs, the rose garden,
+      the bonsai section and the lake at an unhurried pace.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-18'
 ---
 
 ## Why go

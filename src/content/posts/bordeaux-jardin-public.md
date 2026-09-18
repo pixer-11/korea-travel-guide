@@ -1,59 +1,79 @@
 ---
-title: "Jardin public: Bordeaux Travel Guide (4.6★)"
-description: "Jardin public is Bordeaux's grand English-style park at the northern edge of the Chartrons district, open daily 7am–8pm. 4.6★ (14,636 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Bordeaux"
-category: "attraction"
-pubDate: "2026-09-18T07:38:12.992Z"
+title: 'Jardin public: Bordeaux Travel Guide (4.6★)'
+description: >-
+  Jardin public is Bordeaux's grand English-style park at the northern edge of
+  the Chartrons district, open daily 7am–8pm. 4.6★ (14,637 reviews) — what
+  visitors say, hours, and tips.
+country: France
+region: Bordeaux
+category: attraction
+pubDate: '2026-09-18T07:38:12.992Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/3/35/Bordeaux_Jardin_Public_R02.jpg"
-  credit: "Photo: Marc Ryckaert (MJJR) / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Bordeaux_Jardin_Public_R02.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/3/35/Bordeaux_Jardin_Public_R02.jpg
+  credit: 'Photo: Marc Ryckaert (MJJR) / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Bordeaux_Jardin_Public_R02.jpg'
+  via: act
   focus:
     x: 55
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/1/1e/XDSC_7599-jardin-public-de-Bordeaux.jpg"
-    credit: "Photo: Pline / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:XDSC_7599-jardin-public-de-Bordeaux.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/1/1e/XDSC_7599-jardin-public-de-Bordeaux.jpg
+    credit: 'Photo: Pline / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:XDSC_7599-jardin-public-de-Bordeaux.jpg
 place:
-  id: "ChIJ8e10Wd8nVQ0RrFcYO9RxtnQ"
-  name: "Jardin public"
-  address: "Rue du Jardin public, 33000 Bordeaux, France"
+  id: ChIJ8e10Wd8nVQ0RrFcYO9RxtnQ
+  name: Jardin public
+  address: 'Rue du Jardin public, 33000 Bordeaux, France'
   rating: 4.6
-  userRatingsTotal: 14636
-  googleMapsUrl: "https://maps.google.com/?cid=8410034510499436460&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 14637
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8410034510499436460&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 44.849536
   lng: -0.5800812
   openingHours:
-    - "Monday: 7:00 AM – 8:00 PM"
-    - "Tuesday: 7:00 AM – 8:00 PM"
-    - "Wednesday: 7:00 AM – 8:00 PM"
-    - "Thursday: 7:00 AM – 8:00 PM"
-    - "Friday: 7:00 AM – 8:00 PM"
-    - "Saturday: 7:00 AM – 8:00 PM"
-    - "Sunday: 7:00 AM – 8:00 PM"
+    - 'Monday: 7:00 AM – 8:00 PM'
+    - 'Tuesday: 7:00 AM – 8:00 PM'
+    - 'Wednesday: 7:00 AM – 8:00 PM'
+    - 'Thursday: 7:00 AM – 8:00 PM'
+    - 'Friday: 7:00 AM – 8:00 PM'
+    - 'Saturday: 7:00 AM – 8:00 PM'
+    - 'Sunday: 7:00 AM – 8:00 PM'
 tags:
-  - "bordeaux"
-  - "park"
-quickAnswer: "Jardin public is Bordeaux's grand English-style park at the northern edge of the Chartrons district, open daily 7am–8pm. It's a well-visited spot, so mornings are calmer than weekend afternoons. Come for the lake, the arboretum paths, and the natural history museum on site, and plan on an hour or two."
+  - bordeaux
+  - park
+quickAnswer: >-
+  Jardin public is Bordeaux's grand English-style park at the northern edge of
+  the Chartrons district, open daily 7am–8pm. It's a well-visited spot, so
+  mornings are calmer than weekend afternoons. Come for the lake, the arboretum
+  paths, and the natural history museum on site, and plan on an hour or two.
 faq:
-  - q: "What are the opening hours for Jardin public?"
-    a: "It's open daily, 7:00 AM to 8:00 PM, with no variation by day of the week."
-  - q: "Is there an entrance fee?"
-    a: "No, the park is free and open, with several street entrances around its perimeter."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Go right at opening, around 7am, or after 6pm on weekdays. Weekend afternoons draw the biggest crowds."
-  - q: "How long should I plan to spend there?"
-    a: "An hour covers the lake and arboretum walk; add 45 minutes to an hour if you visit the natural history museum too."
-  - q: "What's nearby if I want food or other sights?"
-    a: "The park borders the Chartrons district, known for antique shops, bakeries and wine bars, an easy walk from any of the park's entrances."
+  - q: What are the opening hours for Jardin public?
+    a: 'It''s open daily, 7:00 AM to 8:00 PM, with no variation by day of the week.'
+  - q: Is there an entrance fee?
+    a: >-
+      No, the park is free and open, with several street entrances around its
+      perimeter.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Go right at opening, around 7am, or after 6pm on weekdays. Weekend
+      afternoons draw the biggest crowds.
+  - q: How long should I plan to spend there?
+    a: >-
+      An hour covers the lake and arboretum walk; add 45 minutes to an hour if
+      you visit the natural history museum too.
+  - q: What's nearby if I want food or other sights?
+    a: >-
+      The park borders the Chartrons district, known for antique shops, bakeries
+      and wine bars, an easy walk from any of the park's entrances.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-18'
 ---
 
 Bordeaux laid out this park in 1746 as a formal French garden, then remade it in the 1850s in the English landscape style that survives today: curving gravel paths, a lake with a small island, and lawns instead of parterres. That history is why it feels less like a square and more like a countryside estate dropped into the city.

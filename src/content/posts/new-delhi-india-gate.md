@@ -1,27 +1,33 @@
 ---
 title: 'India Gate: New Delhi Travel Guide'
-description: India Gate is New Delhi's 42-metre sandstone war memorial on Kartavya Path, best seen at sunset or after dark when the fountains and floodlights come on and the heat breaks.
+description: >-
+  India Gate is New Delhi's 42-metre sandstone war memorial on Kartavya Path,
+  best seen at sunset or after dark when the fountains and floodlights come on
+  and the heat breaks.
 country: India
 region: New Delhi
 category: attraction
 pubDate: '2026-07-26T08:33:34.565Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/India_Gate%2C_New_Delhi_from_West.jpg/1920px-India_Gate%2C_New_Delhi_from_West.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/India_Gate%2C_New_Delhi_from_West.jpg/1920px-India_Gate%2C_New_Delhi_from_West.jpg
   credit: 'Photo: Nikhilb239 / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:India_Gate,_New_Delhi_from_West.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:India_Gate,_New_Delhi_from_West.jpg'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/India_Gate%2C_New_Delhi.jpg/1920px-India_Gate%2C_New_Delhi.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/India_Gate%2C_New_Delhi.jpg/1920px-India_Gate%2C_New_Delhi.jpg
     credit: 'Photo: Yann / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:India_Gate,_New_Delhi.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:India_Gate,_New_Delhi.jpg'
 place:
   id: ChIJC03rqdriDDkRXT6SJRGXFwc
   name: India Gate
-  address: Kartavya Path, India Gate, New Delhi, Delhi 110001, India
+  address: 'Kartavya Path, India Gate, New Delhi, Delhi 110001, India'
   rating: 4.6
-  userRatingsTotal: 286041
-  googleMapsUrl: https://maps.google.com/?cid=511043182630420061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 287015
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=511043182630420061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 28.612911999999998
   lng: 77.2295097
@@ -29,20 +35,41 @@ place:
 tags:
   - new delhi
   - top attraction
-quickAnswer: India Gate is New Delhi's 42-metre sandstone war memorial on Kartavya Path, best seen at sunset or after dark when the fountains and floodlights come on and the heat breaks. It's free to walk around, always open, and busiest on weekend evenings, so aim for a weekday early morning or arrive right after sunset on a weekday for breathing room. Give it 45 minutes to an hour, longer if you linger on the lawns.
+quickAnswer: >-
+  India Gate is New Delhi's 42-metre sandstone war memorial on Kartavya Path,
+  best seen at sunset or after dark when the fountains and floodlights come on
+  and the heat breaks. It's free to walk around, always open, and busiest on
+  weekend evenings, so aim for a weekday early morning or arrive right after
+  sunset on a weekday for breathing room. Give it 45 minutes to an hour, longer
+  if you linger on the lawns.
 faq:
   - q: How do I get to India Gate by metro?
-    a: Take the Yellow or Violet Line to Central Secretariat station, then walk about 15–20 minutes or grab a short auto-rickshaw ride. Khan Market and Pragati Maidan on the Blue Line are alternatives about 2 km away.
+    a: >-
+      Take the Yellow or Violet Line to Central Secretariat station, then walk
+      about 15–20 minutes or grab a short auto-rickshaw ride. Khan Market and
+      Pragati Maidan on the Blue Line are alternatives about 2 km away.
   - q: Is there an entry fee for India Gate?
-    a: No, it's a public monument with free access at all times — be cautious of anyone offering to sell you tickets.
+    a: >-
+      No, it's a public monument with free access at all times — be cautious of
+      anyone offering to sell you tickets.
   - q: How long should I spend there?
-    a: Most visitors spend 45 minutes to an hour walking the arch and lawns; add extra time if you plan to picnic on the grass or walk toward the National War Memorial nearby.
+    a: >-
+      Most visitors spend 45 minutes to an hour walking the arch and lawns; add
+      extra time if you plan to picnic on the grass or walk toward the National
+      War Memorial nearby.
   - q: When is the best time to visit to avoid crowds?
-    a: Weekday mornings are noticeably quieter than weekend evenings, which is when families and photographers pack the lawns for the sunset floodlighting.
+    a: >-
+      Weekday mornings are noticeably quieter than weekend evenings, which is
+      when families and photographers pack the lawns for the sunset
+      floodlighting.
   - q: What's the best time of year to go?
-    a: October to March offers cooler, more comfortable weather for standing outdoors; if visiting April to June, aim for early morning or after sunset to avoid the midday heat.
+    a: >-
+      October to March offers cooler, more comfortable weather for standing
+      outdoors; if visiting April to June, aim for early morning or after sunset
+      to avoid the midday heat.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-18'
 ---
 
 ## Why go

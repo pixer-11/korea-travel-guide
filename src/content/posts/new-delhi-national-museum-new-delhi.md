@@ -1,44 +1,55 @@
 ---
-title: "National Museum: New Delhi Travel Guide (4.6★)"
-description: "The National Museum on Janpath is open 10am–6pm every day except Monday, and it's worth a full two to three hours to cover the Harappan seals, Central Asian antiquities, and Mughal miniatures without rushing. 4.6★ (21,134 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "New Delhi"
-category: "attraction"
-pubDate: "2026-08-16T09:00:46.583Z"
+title: 'National Museum: New Delhi Travel Guide (4.6★)'
+description: >-
+  The National Museum on Janpath is open 10am–6pm every day except Monday, and
+  it's worth a full two to three hours to cover the Harappan seals, Central
+  Asian antiquities, and Mughal miniatures without rushing. 4.6★ (21,272
+  reviews) — what visitors say, hours, and tips.
+country: India
+region: New Delhi
+category: attraction
+pubDate: '2026-08-16T09:00:46.583Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/National_Museum%2C_New_Delhi_building.jpg/3840px-National_Museum%2C_New_Delhi_building.jpg"
-  credit: "Photo: DesiBoy101 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:National_Museum,_New_Delhi_building.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/National_Museum%2C_New_Delhi_building.jpg/3840px-National_Museum%2C_New_Delhi_building.jpg
+  credit: 'Photo: DesiBoy101 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:National_Museum,_New_Delhi_building.jpg
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Mahakala_-_National_Museum%2C_New_Delhi.jpg/3840px-Mahakala_-_National_Museum%2C_New_Delhi.jpg"
-    credit: "Photo: Amrit Sufi / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Mahakala_-_National_Museum,_New_Delhi.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Mahakala_-_National_Museum%2C_New_Delhi.jpg/3840px-Mahakala_-_National_Museum%2C_New_Delhi.jpg
+    credit: 'Photo: Amrit Sufi / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Mahakala_-_National_Museum,_New_Delhi.jpg
 place:
-  id: "ChIJ6_Afx1L9DDkRz-6lLymfQiA"
-  name: "National Museum, New Delhi"
-  address: "Janpath Rd, Central Secretariat, Kartavya Path, New Delhi, Delhi 110011, India"
+  id: ChIJ6_Afx1L9DDkRz-6lLymfQiA
+  name: 'National Museum, New Delhi'
+  address: >-
+    Janpath Rd, Central Secretariat, Kartavya Path, New Delhi, Delhi 110011,
+    India
   rating: 4.6
-  userRatingsTotal: 21134
-  googleMapsUrl: "https://maps.google.com/?cid=2324595356918476495&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 21272
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2324595356918476495&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 28.6119078
   lng: 77.21929089999999
-  phone: "+91 11 2301 9272"
+  phone: +91 11 2301 9272
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 6:00 PM"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-16
+    updated: 2026-08-16T00:00:00.000Z
     weekdayBusy:
       - 12
       - 13
@@ -53,24 +64,39 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_416951666d794c6c362d7a526b4444394c317866415f364a496843"
+    venueId: ven_416951666d794c6c362d7a526b4444394c317866415f364a496843
 tags:
-  - "new delhi"
-  - "museum"
-quickAnswer: "The National Museum on Janpath is open 10am–6pm every day except Monday, and it's worth a full two to three hours to cover the Harappan seals, Central Asian antiquities, and Mughal miniatures without rushing. Weekend afternoons (11am–6pm) draw the biggest crowds, so come right at opening or later on a weekday. Nearest metro is Central Secretariat on the Yellow or Violet Line, a short walk away."
+  - new delhi
+  - museum
+quickAnswer: >-
+  The National Museum on Janpath is open 10am–6pm every day except Monday, and
+  it's worth a full two to three hours to cover the Harappan seals, Central
+  Asian antiquities, and Mughal miniatures without rushing. Weekend afternoons
+  (11am–6pm) draw the biggest crowds, so come right at opening or later on a
+  weekday. Nearest metro is Central Secretariat on the Yellow or Violet Line, a
+  short walk away.
 faq:
-  - q: "What are the National Museum's opening hours?"
-    a: "10am to 6pm every day except Monday, when it's closed."
-  - q: "How do I get to the National Museum by metro?"
-    a: "Take the Yellow or Violet Line to Central Secretariat station; the museum is a short walk from there on Janpath Road."
-  - q: "How long should I plan for a visit?"
-    a: "Budget two to three hours to see the main galleries properly; half a day if you want to explore in depth."
-  - q: "When is it least crowded?"
-    a: "Weekday mornings are calmest. Weekend afternoons between 11am and 6pm see the heaviest crowds, so avoid that window if you can."
-  - q: "Is photography allowed inside?"
-    a: "Generally yes in most galleries, though some sections restrict it — look for posted signage on entry."
+  - q: What are the National Museum's opening hours?
+    a: '10am to 6pm every day except Monday, when it''s closed.'
+  - q: How do I get to the National Museum by metro?
+    a: >-
+      Take the Yellow or Violet Line to Central Secretariat station; the museum
+      is a short walk from there on Janpath Road.
+  - q: How long should I plan for a visit?
+    a: >-
+      Budget two to three hours to see the main galleries properly; half a day
+      if you want to explore in depth.
+  - q: When is it least crowded?
+    a: >-
+      Weekday mornings are calmest. Weekend afternoons between 11am and 6pm see
+      the heaviest crowds, so avoid that window if you can.
+  - q: Is photography allowed inside?
+    a: >-
+      Generally yes in most galleries, though some sections restrict it — look
+      for posted signage on entry.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-18'
 ---
 
 ## Why go

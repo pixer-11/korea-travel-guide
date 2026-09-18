@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: gili-islands-gili-trawangan-sunset-beach
-srcHash: '40a53c68213a'
+srcHash: 'f8fd68d63712'
 title: 'Playa del Atardecer de Gili Trawangan: Guía de Viaje a las Islas Gili'
-description: 'La Playa del Atardecer de Gili Trawangan se extiende por la costa oeste de Gili Trawangan, la mayor de las islas Gili de Indonesia, y permanece abierta las 24 horas, sin puertas ni entradas. 4.7★ (574 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'La Playa del Atardecer de Gili Trawangan se extiende por la costa oeste de Gili Trawangan, la mayor de las islas Gili de Indonesia, y permanece abierta las 24 horas, sin puertas ni entradas. 4.7★ (575 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Playa del Atardecer de Gili Trawangan se extiende por la costa oeste de Gili Trawangan, la mayor de las islas Gili de Indonesia, y permanece abierta las 24 horas, sin puertas ni entradas. El mejor momento para visitarla es la hora previa a la puesta de sol, cuando el cielo sobre el monte Agung, en Bali, recorta la silueta de los barcos pesqueros que se ven en el horizonte. Es más tranquila que la franja del puerto de la isla, así que conviene llegar temprano y elegir un lugar en la arena en lugar de un puf frente a algún bar.
 faq:
   - q: ¿Cómo se llega a la Playa del Atardecer de Gili Trawangan?

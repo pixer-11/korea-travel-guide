@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: nashville-the-parthenon
-srcHash: 'c9eceb9b818b'
+srcHash: 'c62fee793157'
 title: 'El Partenón: guía de viaje de Nashville (4,6★)'
-description: 'El Partenón se alza en el centro del Centennial Park, justo al oeste del centro de Nashville, y abre todos los días (9:00–16:30 h de lunes a sábado, 12:30–16:30 h los domingos). 4,6★ (15.262 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Partenón se alza en el centro del Centennial Park, justo al oeste del centro de Nashville, y abre todos los días (9:00–16:30 h de lunes a sábado, 12:30–16:30 h los domingos). 4,6★ (15.363 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Partenón se alza en el centro del Centennial Park, justo al oeste del centro de Nashville, y abre todos los días (9:00–16:30 h de lunes a sábado, 12:30–16:30 h los domingos). Conviene reservar entre 45 y 75 minutos para ver la estatua de Atenea Partenos y las galerías de arte del piso superior. Se trata de un lugar realmente concurrido, no un secreto, así que las mañanas entre semana, justo a la apertura, son el mejor momento para contemplar la estatua con tranquilidad.
 faq:
   - q: ¿Cuánto tiempo conviene dedicarle al Partenón?

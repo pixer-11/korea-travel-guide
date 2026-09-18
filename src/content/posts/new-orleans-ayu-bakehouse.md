@@ -1,28 +1,36 @@
 ---
 title: 'Ayu Bakehouse: New Orleans Travel Guide (4.7★)'
-description: Ayu Bakehouse is a small Vietnamese-French bakery on Frenchmen Street in New Orleans, best known for laminated pastries with Southeast Asian twists — think pandan croissants and kouign-amann. 4.7★ (878 reviews) — what visitors say, hours, and tips.
+description: >-
+  Ayu Bakehouse is a small Vietnamese-French bakery on Frenchmen Street in New
+  Orleans, best known for laminated pastries with Southeast Asian twists — think
+  pandan croissants and kouign-amann. 4.7★ (892 reviews) — what visitors say,
+  hours, and tips.
 country: United States
 region: New Orleans
 category: trendy
 pubDate: '2026-08-08T08:06:14.083Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/4254309_KUhG1IiHcwCB9gLJZWR90jaM-JDHgWNUZ9tRL1A24HU.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/4254309_KUhG1IiHcwCB9gLJZWR90jaM-JDHgWNUZ9tRL1A24HU.jpg
   credit: 'Photo: Foursquare user content (Ayu Bakehouse)'
   license: foursquare
-  source: https://foursquare.com/v/62fd10d8d0af8f20f3c48430
+  source: 'https://foursquare.com/v/62fd10d8d0af8f20f3c48430'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Ayu_Bakehouse%2C_Frenchmen_Street%2C_New_Orleans_12_March_2026_-_1.jpg/3840px-Ayu_Bakehouse%2C_Frenchmen_Street%2C_New_Orleans_12_March_2026_-_1.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Ayu_Bakehouse%2C_Frenchmen_Street%2C_New_Orleans_12_March_2026_-_1.jpg/3840px-Ayu_Bakehouse%2C_Frenchmen_Street%2C_New_Orleans_12_March_2026_-_1.jpg
     credit: 'Photo: Infrogmation / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Ayu_Bakehouse,_Frenchmen_Street,_New_Orleans_12_March_2026_-_1.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Ayu_Bakehouse,_Frenchmen_Street,_New_Orleans_12_March_2026_-_1.jpg
 place:
   id: ChIJcZCKslinIIYRRebPp7wa4Zs
   name: Ayu Bakehouse
-  address: 801 Frenchmen St, New Orleans, LA 70117, USA
+  address: '801 Frenchmen St, New Orleans, LA 70117, USA'
   rating: 4.7
-  userRatingsTotal: 878
+  userRatingsTotal: 892
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=11232288343210321477&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11232288343210321477&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 29.9656621
   lng: -90.05779969999999
@@ -51,19 +59,37 @@ place:
 tags:
   - new orleans
   - bakery
-quickAnswer: Ayu Bakehouse is a small Vietnamese-French bakery on Frenchmen Street in New Orleans, best known for laminated pastries with Southeast Asian twists — think pandan croissants and kouign-amann. It's open mornings only (8am–2 or 3:30pm depending on the day), and it stays fairly calm on weekdays; weekend mornings from 9am–2pm draw the biggest crowds.
+quickAnswer: >-
+  Ayu Bakehouse is a small Vietnamese-French bakery on Frenchmen Street in New
+  Orleans, best known for laminated pastries with Southeast Asian twists — think
+  pandan croissants and kouign-amann. It's open mornings only (8am–2 or 3:30pm
+  depending on the day), and it stays fairly calm on weekdays; weekend mornings
+  from 9am–2pm draw the biggest crowds.
 faq:
   - q: What are Ayu Bakehouse's hours?
-    a: Monday and Tuesday, 8am–2pm; Wednesday through Sunday, 8am–3:30pm. It's morning-and-early-afternoon only, so there's no lunch or dinner service.
+    a: >-
+      Monday and Tuesday, 8am–2pm; Wednesday through Sunday, 8am–3:30pm. It's
+      morning-and-early-afternoon only, so there's no lunch or dinner service.
   - q: When is the quietest time to visit?
-    a: Weekdays between 8am and 3pm are the calmest window. Weekends get busy, especially 9am–2pm, so arrive right at 8am if you want to avoid a line.
+    a: >-
+      Weekdays between 8am and 3pm are the calmest window. Weekends get busy,
+      especially 9am–2pm, so arrive right at 8am if you want to avoid a line.
   - q: How do I get there?
-    a: It's at 801 Frenchmen St in the Faubourg Marigny, a 5–10 minute walk from Jackson Square and the French Quarter. Street parking exists but fills up; rideshare is easy given the wide corner location.
+    a: >-
+      It's at 801 Frenchmen St in the Faubourg Marigny, a 5–10 minute walk from
+      Jackson Square and the French Quarter. Street parking exists but fills up;
+      rideshare is easy given the wide corner location.
   - q: How much should I expect to spend?
-    a: It's mid-range for a bakery — a couple of pastries and coffee typically lands in the moderate price bracket rather than cheap or splurge territory.
+    a: >-
+      It's mid-range for a bakery — a couple of pastries and coffee typically
+      lands in the moderate price bracket rather than cheap or splurge
+      territory.
   - q: Is it good for a sit-down breakfast or more grab-and-go?
-    a: Both work, but there's limited seating, mostly a few outdoor tables. If you want to sit, arrive early on a weekday for the best shot at a spot.
+    a: >-
+      Both work, but there's limited seating, mostly a few outdoor tables. If
+      you want to sit, arrive early on a weekday for the best shot at a spot.
 aiGenerated: true
+updatedDate: '2026-09-18'
 ---
 
 ## Why Ayu Bakehouse is worth the detour

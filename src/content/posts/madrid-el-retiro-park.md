@@ -1,44 +1,52 @@
 ---
-title: "El Retiro Park: Madrid Travel Guide (4.8★)"
-description: "El Retiro Park sits in Madrid's Retiro district, a 15-minute walk east of Sol and steps from the Prado. 4.8★ (215,630 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "Madrid"
-category: "attraction"
-pubDate: "2026-09-18T07:51:58.492Z"
+title: 'El Retiro Park: Madrid Travel Guide (4.8★)'
+description: >-
+  El Retiro Park sits in Madrid's Retiro district, a 15-minute walk east of Sol
+  and steps from the Prado. 4.8★ (215,657 reviews) — what visitors say, hours,
+  and tips.
+country: Spain
+region: Madrid
+category: attraction
+pubDate: '2026-09-18T07:51:58.492Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Madrid-_Dixie_in_El_Retiro_park_%2834409171706%29.jpg/3840px-Madrid-_Dixie_in_El_Retiro_park_%2834409171706%29.jpg"
-  credit: "Photo: David Short from Windsor, UK / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Madrid-_Dixie_in_El_Retiro_park_(34409171706).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Madrid-_Dixie_in_El_Retiro_park_%2834409171706%29.jpg/3840px-Madrid-_Dixie_in_El_Retiro_park_%2834409171706%29.jpg
+  credit: 'Photo: David Short from Windsor, UK / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Madrid-_Dixie_in_El_Retiro_park_(34409171706).jpg
+  via: act
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Cherry_Blossom_in_El_Retiro_Park%2C_Madrid%2C_Spain.jpg/3840px-Cherry_Blossom_in_El_Retiro_Park%2C_Madrid%2C_Spain.jpg"
-    credit: "Photo: Satdeep Gill / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Cherry_Blossom_in_El_Retiro_Park,_Madrid,_Spain.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Cherry_Blossom_in_El_Retiro_Park%2C_Madrid%2C_Spain.jpg/3840px-Cherry_Blossom_in_El_Retiro_Park%2C_Madrid%2C_Spain.jpg
+    credit: 'Photo: Satdeep Gill / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Cherry_Blossom_in_El_Retiro_Park,_Madrid,_Spain.jpg
 place:
-  id: "ChIJe4IR9Z8oQg0RrqMktRYnbJ4"
-  name: "El Retiro Park"
-  address: "Retiro, 28009 Madrid, Spain"
+  id: ChIJe4IR9Z8oQg0RrqMktRYnbJ4
+  name: El Retiro Park
+  address: 'Retiro, 28009 Madrid, Spain'
   rating: 4.8
-  userRatingsTotal: 215630
-  googleMapsUrl: "https://maps.google.com/?cid=11415542133959205806&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 215657
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11415542133959205806&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.415258
   lng: -3.6834656999999997
   openingHours:
-    - "Monday: 6:00 AM – 12:00 AM"
-    - "Tuesday: 6:00 AM – 12:00 AM"
-    - "Wednesday: 6:00 AM – 12:00 AM"
-    - "Thursday: 6:00 AM – 12:00 AM"
-    - "Friday: 6:00 AM – 12:00 AM"
-    - "Saturday: 6:00 AM – 12:00 AM"
-    - "Sunday: 6:00 AM – 12:00 AM"
+    - 'Monday: 6:00 AM – 12:00 AM'
+    - 'Tuesday: 6:00 AM – 12:00 AM'
+    - 'Wednesday: 6:00 AM – 12:00 AM'
+    - 'Thursday: 6:00 AM – 12:00 AM'
+    - 'Friday: 6:00 AM – 12:00 AM'
+    - 'Saturday: 6:00 AM – 12:00 AM'
+    - 'Sunday: 6:00 AM – 12:00 AM'
   busyness:
-    updated: 2026-09-18
+    updated: 2026-09-18T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -64,24 +72,41 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_344a626e5952746b4d7172523067516f385a39524934654a496843"
+    venueId: ven_344a626e5952746b4d7172523067516f385a39524934654a496843
 tags:
-  - "madrid"
-  - "park"
-quickAnswer: "El Retiro Park sits in Madrid's Retiro district, a 15-minute walk east of Sol and steps from the Prado. It's open daily from 6am to midnight and free to enter, with the calmest hours running 7am to 11pm on weekdays and weekends alike, before the 12pm–10pm weekend crush of families, rollerbladers and street musicians sets in. Give it at least two hours, longer if you want to row a boat on the lake."
+  - madrid
+  - park
+quickAnswer: >-
+  El Retiro Park sits in Madrid's Retiro district, a 15-minute walk east of Sol
+  and steps from the Prado. It's open daily from 6am to midnight and free to
+  enter, with the calmest hours running 7am to 11pm on weekdays and weekends
+  alike, before the 12pm–10pm weekend crush of families, rollerbladers and
+  street musicians sets in. Give it at least two hours, longer if you want to
+  row a boat on the lake.
 faq:
-  - q: "What are El Retiro Park's opening hours?"
-    a: "It's open every day from 6am to midnight, all week, with no variation by day."
-  - q: "When is the quietest time to visit El Retiro?"
-    a: "Both weekdays and weekends stay calm from 7am to 11pm; the real crowd surge is confined to weekends between 12pm and 10pm."
-  - q: "How do I get to El Retiro Park by metro?"
-    a: "Take Line 2 to Retiro station or Line 9 to Ibiza, both of which put you right at the park's edge. It's also a 15-minute walk from Puerta del Sol."
-  - q: "How long should I spend at El Retiro?"
-    a: "Plan on at least two hours to see the lake, Crystal Palace and Rose Garden; add extra time if you want to rent a rowboat."
-  - q: "Is El Retiro Park free to enter?"
-    a: "Yes, the park itself is free. Only extras like rowboat rentals and occasional ticketed exhibitions at the Palacio de Velázquez carry a cost."
+  - q: What are El Retiro Park's opening hours?
+    a: >-
+      It's open every day from 6am to midnight, all week, with no variation by
+      day.
+  - q: When is the quietest time to visit El Retiro?
+    a: >-
+      Both weekdays and weekends stay calm from 7am to 11pm; the real crowd
+      surge is confined to weekends between 12pm and 10pm.
+  - q: How do I get to El Retiro Park by metro?
+    a: >-
+      Take Line 2 to Retiro station or Line 9 to Ibiza, both of which put you
+      right at the park's edge. It's also a 15-minute walk from Puerta del Sol.
+  - q: How long should I spend at El Retiro?
+    a: >-
+      Plan on at least two hours to see the lake, Crystal Palace and Rose
+      Garden; add extra time if you want to rent a rowboat.
+  - q: Is El Retiro Park free to enter?
+    a: >-
+      Yes, the park itself is free. Only extras like rowboat rentals and
+      occasional ticketed exhibitions at the Palacio de Velázquez carry a cost.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-18'
 ---
 
 Madrid's biggest park doesn't hide from you. It runs for 350 acres along the eastern edge of the old city, bordered by the Prado Museum on one side and a grid of 19th-century apartment blocks on the other, and on any given afternoon it looks like half the city has walked over to sit in it.

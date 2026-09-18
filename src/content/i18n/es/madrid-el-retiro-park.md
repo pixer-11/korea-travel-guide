@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: madrid-el-retiro-park
-srcHash: '79e752e16c52'
+srcHash: '381a90ab430e'
 title: 'Parque del Retiro: guía de viaje de Madrid (4,8★)'
-description: 'El Parque del Retiro se encuentra en el distrito madrileño de Retiro, a 15 minutos a pie al este de Sol y a un paso del Prado. 4,8★ (215.630 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Parque del Retiro se encuentra en el distrito madrileño de Retiro, a 15 minutos a pie al este de Sol y a un paso del Prado. 4,8★ (215.657 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Parque del Retiro se encuentra en el distrito madrileño de Retiro, a 15 minutos a pie al este de Sol y a un paso del Prado. Abre todos los días de 6:00 a 00:00 y la entrada es gratuita; las horas más tranquilas van de 7:00 a 23:00 tanto entre semana como los fines de semana, antes de que llegue la avalancha de familias, patinadores y músicos callejeros de los fines de semana entre las 12:00 y las 22:00. Conviene reservar al menos dos horas, más si se quiere remar en el lago.
 faq:
   - q: ¿Cuál es el horario del Parque del Retiro?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: nashville-johnny-cash-museum
-srcHash: '7032465902aa'
+srcHash: '4106649d24e9'
 title: 'Museo de Johnny Cash: Guía de viaje de Nashville (4.6★)'
-description: 'El Museo de Johnny Cash se encuentra en la 3rd Avenue South, en el centro de Nashville, en el nivel inferior de un edificio de ladrillo rojo a pocos pasos de los honky-tonks de Broadway. 4.6★ (11,386 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Museo de Johnny Cash se encuentra en la 3rd Avenue South, en el centro de Nashville, en el nivel inferior de un edificio de ladrillo rojo a pocos pasos de los honky-tonks de Broadway. 4.6★ (11,406 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo de Johnny Cash se encuentra en la 3rd Avenue South, en el centro de Nashville, en el nivel inferior de un edificio de ladrillo rojo a pocos pasos de los honky-tonks de Broadway. Abre todos los días de 9am a 7pm y es realmente popular, así que si visitas el fin de semana conviene apuntar a la franja de 9am a 10am para recorrer las salas sin hacer cola. Calcula entre 60 y 90 minutos, y confirma los precios de las entradas en línea antes de ir, ya que cambian con más frecuencia que las exhibiciones.
 faq:
   - q: ¿Dónde está exactamente el Museo de Johnny Cash?
