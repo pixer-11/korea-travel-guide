@@ -19605,5 +19605,117 @@
   "verdict": "MATCH",
   "reason": "patrol re-check: Genuine cafe interior with seating, plants, plausible venue",
   "at": "2026-09-18T07:32:51.231Z"
+ },
+ "andong-dosan-seowon\u0001https://upload.wikimedia.org/wikipedia/commons/6/6b/Dosanseowon1.jpg": {
+  "slug": "andong-dosan-seowon",
+  "verdict": "MATCH",
+  "reason": "Traditional Korean architecture, forest setting, Andong styl",
+  "reasonKo": "전통 한옥, 숲 속 배경, 안동 양식",
+  "at": "2026-09-18T16:41:36.414Z"
+ },
+ "bordeaux-jardin-public\u0001https://upload.wikimedia.org/wikipedia/commons/3/35/Bordeaux_Jardin_Public_R02.jpg": {
+  "slug": "bordeaux-jardin-public",
+  "verdict": "MATCH",
+  "reason": "Ornamental bridge over pond in lush garden setting",
+  "reasonKo": "정원 연못 위의 우아한 다리",
+  "at": "2026-09-18T16:41:38.341Z"
+ },
+ "causeway-bay-east-coast-park-precinct\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/East_Coast_Park_Precinct%2C_Fortress_Hill_07-01-2023%286%29.jpg/3840px-East_Coast_Park_Precinct%2C_Fortress_Hill_07-01-2023%286%29.jpg": {
+  "slug": "causeway-bay-east-coast-park-precinct",
+  "verdict": "MATCH",
+  "reason": "Hong Kong waterfront, Causeway Bay skyline visible",
+  "reasonKo": "홍콩 해안 풍경, 코즈웨이베이 스카이라인",
+  "at": "2026-09-18T16:41:39.763Z"
+ },
+ "gili-islands-gili-trawangan-sunset-beach\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sunset_on_Gili_Trawangan_-_panoramio_%282%29.jpg/3840px-Sunset_on_Gili_Trawangan_-_panoramio_%282%29.jpg": {
+  "slug": "gili-islands-gili-trawangan-sunset-beach",
+  "verdict": "MATCH",
+  "reason": "Sunset beach scene, horse rider, Gili Islands setting",
+  "reasonKo": "길리섬 해변 석양, 말 탄 사람, 적절한 배경",
+  "at": "2026-09-18T16:41:41.491Z"
+ },
+ "kanchanaburi-sai-yok-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/1/10/River_Khwae_View_-_Sai_Yok_National_Park.jpg": {
+  "slug": "kanchanaburi-sai-yok-national-park",
+  "verdict": "MATCH",
+  "reason": "River settlement, jungle, Thai vernacular architecture",
+  "reasonKo": "강 유역, 정글, 태국 전통 건축",
+  "at": "2026-09-18T16:41:42.597Z"
+ },
+ "lijiang-blue-moon-valley\u0001https://upload.wikimedia.org/wikipedia/commons/3/3d/%E7%8E%89%E9%BE%99%E9%9B%AA%E5%B1%B1_%E8%93%9D%E6%9C%88%E8%B0%B7_Blue_Moon_Valley_-_panoramio.jpg": {
+  "slug": "lijiang-blue-moon-valley",
+  "verdict": "MATCH",
+  "reason": "Alpine mountain landscape matches Lijiang region",
+  "reasonKo": "리장 지역의 고산 풍경과 일치",
+  "at": "2026-09-18T16:41:43.852Z"
+ },
+ "madrid-el-retiro-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Madrid-_Dixie_in_El_Retiro_park_%2834409171706%29.jpg/3840px-Madrid-_Dixie_in_El_Retiro_park_%2834409171706%29.jpg": {
+  "slug": "madrid-el-retiro-park",
+  "verdict": "MATCH",
+  "reason": "Street musicians performing in El Retiro Park, Madrid",
+  "reasonKo": "마드리드 레티로 공원의 거리 음악가 공연",
+  "at": "2026-09-18T16:41:45.348Z"
+ },
+ "miami-fairchild-tropical-botanic-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bailey_Palm_Glade_%285752321428%29.jpg/1920px-Bailey_Palm_Glade_%285752321428%29.jpg": {
+  "slug": "miami-fairchild-tropical-botanic-garden",
+  "verdict": "MATCH",
+  "reason": "Botanical garden with palms, manicured lawn, water view.",
+  "reasonKo": "야자수, 정원, 수로가 있는 식물원",
+  "at": "2026-09-18T16:41:46.668Z"
+ },
+ "north-point-quarry-bay-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Quarry_Bay_Park_1.JPG/1920px-Quarry_Bay_Park_1.JPG": {
+  "slug": "north-point-quarry-bay-park",
+  "verdict": "MATCH",
+  "reason": "Modern park with pergola, playground, Hong Kong skyline",
+  "reasonKo": "홍콩 스카이라인 배경의 현대적 공원",
+  "at": "2026-09-18T16:41:48.158Z"
+ },
+ "orchard-road-sri-temasek\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sri_Temasek.jpg/3840px-Sri_Temasek.jpg": {
+  "slug": "orchard-road-sri-temasek",
+  "verdict": "MISMATCH",
+  "reason": "Colonial mansion, not Orchard Road shopping district",
+  "reasonKo": "쇼핑가 아닌 식민지 저택",
+  "at": "2026-09-18T16:41:49.925Z"
+ },
+ "seoul-sema-seoul-museum-of-art\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Seoul_Museum_of_Art_%28SeMA%29.jpg/3840px-Seoul_Museum_of_Art_%28SeMA%29.jpg": {
+  "slug": "seoul-sema-seoul-museum-of-art",
+  "verdict": "MATCH",
+  "reason": "Seoul Museum of Art exterior and plaza depicted",
+  "reasonKo": "서울미술관 외관과 광장 정확히 표현",
+  "at": "2026-09-18T16:41:51.390Z"
+ },
+ "strasbourg-parc-de-l-orangerie\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Strasbourg_%28Bas-Rhin%29_-_Neustadt_-_Parc_de_l%27Orangerie_-_52314133303.jpg/3840px-Strasbourg_%28Bas-Rhin%29_-_Neustadt_-_Parc_de_l%27Orangerie_-_52314133303.jpg": {
+  "slug": "strasbourg-parc-de-l-orangerie",
+  "verdict": "MATCH",
+  "reason": "Spring flowers, manicured lawn, park setting in Strasbourg",
+  "reasonKo": "스트라스부르 공원, 봄꽃, 정원 풍경",
+  "at": "2026-09-18T16:41:53.180Z"
+ },
+ "strasbourg-temple-de-l-amour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Temple_de_l%27amour_de_l%27Orangerie_%2841587313605%29.jpg/3840px-Temple_de_l%27amour_de_l%27Orangerie_%2841587313605%29.jpg": {
+  "slug": "strasbourg-temple-de-l-amour",
+  "verdict": "MATCH",
+  "reason": "Iconic neoclassical temple in Strasbourg park setting",
+  "reasonKo": "스트라스부르그 공원의 신고전주의 사원",
+  "at": "2026-09-18T16:41:54.538Z"
+ },
+ "sukhothai-ramkhamhaeng-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Khao_Phra_Mae_Ya_Summit.jpg/1920px-Khao_Phra_Mae_Ya_Summit.jpg": {
+  "slug": "sukhothai-ramkhamhaeng-national-park",
+  "verdict": "MATCH",
+  "reason": "Hill landscape typical of Ramkhamhaeng National Park",
+  "reasonKo": "람캄향 국립공원 전형적 산림경관",
+  "at": "2026-09-18T16:41:55.728Z"
+ },
+ "sukhothai-wat-si-chum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sukhothai_-_Wat_Si_Chum_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%8A%E0%B8%B8%E0%B8%A1_%E0%B8%AA%E0%B8%B8%E0%B9%82%E0%B8%82%E0%B8%97%E0%B8%B1%E0%B8%A2_%282025%29_-_img_06.jpg/3840px-Sukhothai_-_Wat_Si_Chum_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%8A%E0%B8%B8%E0%B8%A1_%E0%B8%AA%E0%B8%B8%E0%B9%82%E0%B8%82%E0%B8%97%E0%B8%B1%E0%B8%A2_%282025%29_-_img_06.jpg": {
+  "slug": "sukhothai-wat-si-chum",
+  "verdict": "MATCH",
+  "reason": "Ancient temple ruins with large tree, Sukhothai style",
+  "reasonKo": "수코타이 양식 고대 사원 유적",
+  "at": "2026-09-18T16:41:57.068Z"
+ },
+ "wan-chai-wan-chai-temporary-promenade\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Wan_Chai_Temporary_Promenade_2009.jpg/1920px-Wan_Chai_Temporary_Promenade_2009.jpg": {
+  "slug": "wan-chai-wan-chai-temporary-promenade",
+  "verdict": "MATCH",
+  "reason": "Waterfront promenade in Wan Chai with harbor view",
+  "reasonKo": "완차이 해변 산책로, 항구 전망",
+  "at": "2026-09-18T16:41:58.744Z"
  }
 }

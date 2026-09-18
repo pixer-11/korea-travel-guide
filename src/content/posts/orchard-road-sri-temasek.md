@@ -1,47 +1,47 @@
 ---
-title: "Sri Temasek: Orchard Road Travel Guide (4.4★)"
-description: "Sri Temasek sits inside the Istana grounds on Orchard Road, and it's only ever open to the public on a handful of designated open-house days each year, usually tied to public holidays like Hari Raya, Deepavali or Chinese New Year. 4.4★ (311 reviews) — what visitors say, hours, and tips."
-country: "Singapore"
-region: "Orchard Road"
-category: "attraction"
-pubDate: "2026-09-18T07:51:05.580Z"
+title: 'Sri Temasek: Orchard Road Travel Guide (4.4★)'
+description: Sri Temasek sits inside the Istana grounds on Orchard Road, and it's only ever open to the public on a handful of designated open-house days each year, usually tied to public holidays like Hari Raya, Deepavali or Chinese New Year. 4.4★ (311 reviews) — what visitors say, hours, and tips.
+country: Singapore
+region: Orchard Road
+category: attraction
+pubDate: '2026-09-18T07:51:05.580Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sri_Temasek.jpg/3840px-Sri_Temasek.jpg"
-  credit: "Photo: Kbseah / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Sri_Temasek.jpg"
-  via: "act"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sri_Temasek.jpg/3840px-Sri_Temasek.jpg
+  credit: 'Photo: Kbseah / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Sri_Temasek.jpg
+  via: act
   focus:
     x: 55
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJ9b9GaZUZ2jERXYC0mqmhMdA"
-  name: "Sri Temasek"
-  address: "Orchard Rd, Singapore 238823"
+  id: ChIJ9b9GaZUZ2jERXYC0mqmhMdA
+  name: Sri Temasek
+  address: Orchard Rd, Singapore 238823
   rating: 4.4
   userRatingsTotal: 311
-  googleMapsUrl: "https://maps.google.com/?cid=15001949583564898397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=15001949583564898397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.3037414999999999
   lng: 103.8430612
 tags:
-  - "orchard road"
-  - "historic site"
-quickAnswer: "Sri Temasek sits inside the Istana grounds on Orchard Road, and it's only ever open to the public on a handful of designated open-house days each year, usually tied to public holidays like Hari Raya, Deepavali or Chinese New Year. There's no walk-in access otherwise: check the Istana's official announcements ahead of time for the exact open-house dates and free timed-entry ticket process. Arriving early in the visiting window is the simplest way to avoid the longest queues at the security checkpoints."
+  - orchard road
+  - historic site
+quickAnswer: 'Sri Temasek sits inside the Istana grounds on Orchard Road, and it''s only ever open to the public on a handful of designated open-house days each year, usually tied to public holidays like Hari Raya, Deepavali or Chinese New Year. There''s no walk-in access otherwise: check the Istana''s official announcements ahead of time for the exact open-house dates and free timed-entry ticket process. Arriving early in the visiting window is the simplest way to avoid the longest queues at the security checkpoints.'
 faq:
-  - q: "When can you visit Sri Temasek?"
-    a: "Only on select open-house days tied to public holidays such as Chinese New Year, Hari Raya Puasa, Deepavali and National Day. There's no regular walk-in access; check the Istana's official announcements for the year's confirmed dates."
-  - q: "How much does it cost to enter?"
-    a: "Entry on open-house days is free, though you typically need to register for timed tickets in advance for the interior visit portion."
-  - q: "How do you get to Sri Temasek on Orchard Road?"
-    a: "Walk from Dhoby Ghaut MRT (North-South, North East, Circle lines) or Somerset MRT (North-South line), both about 10-15 minutes on foot. Expect road closures near the gates on open-house days, so public transport beats driving."
-  - q: "How long should you spend there?"
-    a: "Plan for at least half a day once you factor in queueing and security screening, plus time to walk the grounds and see the peacocks and gardens, not just the building exterior."
-  - q: "What else is nearby?"
-    a: "Istana Park sits right outside the gates, and the main Orchard Road shopping stretch, from Somerset to Orchard MRT, is a five-to-ten-minute walk away for lunch or shopping afterward."
+  - q: When can you visit Sri Temasek?
+    a: Only on select open-house days tied to public holidays such as Chinese New Year, Hari Raya Puasa, Deepavali and National Day. There's no regular walk-in access; check the Istana's official announcements for the year's confirmed dates.
+  - q: How much does it cost to enter?
+    a: Entry on open-house days is free, though you typically need to register for timed tickets in advance for the interior visit portion.
+  - q: How do you get to Sri Temasek on Orchard Road?
+    a: Walk from Dhoby Ghaut MRT (North-South, North East, Circle lines) or Somerset MRT (North-South line), both about 10-15 minutes on foot. Expect road closures near the gates on open-house days, so public transport beats driving.
+  - q: How long should you spend there?
+    a: Plan for at least half a day once you factor in queueing and security screening, plus time to walk the grounds and see the peacocks and gardens, not just the building exterior.
+  - q: What else is nearby?
+    a: Istana Park sits right outside the gates, and the main Orchard Road shopping stretch, from Somerset to Orchard MRT, is a five-to-ten-minute walk away for lunch or shopping afterward.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 Most people walking down Orchard Road have no idea that the building set far back behind the trees, past the black-and-gold gates near Istana Park, is the official residence of Singapore's prime minister. Sri Temasek isn't the main Istana building itself; it's the smaller colonial-era house on the same grounds, and for 364 days a year it's simply not accessible. That's exactly what makes the open-house days worth planning around.
