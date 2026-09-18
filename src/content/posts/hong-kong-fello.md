@@ -5,7 +5,6 @@ country: Hong Kong
 region: Hong Kong
 category: trendy
 pubDate: '2026-08-27'
-gallery: []
 tags:
   - hong kong
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: When is the best time to visit?
     a: Early evening on a weeknight is calmer and better for actually tasting the cocktails. Central's Soho area gets busiest from around 9pm Thursday to Saturday.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/84453337_MqwdMfg4AacDfXOq391taN-vGTufYuCw3ZPpK2GqnnY.jpg
+  credit: 'Photo: Foursquare user content (Fello)'
+  license: foursquare
+  source: https://foursquare.com/v/6a6c87b3fee4590dbb208c18
+  focus:
+    x: 40
+    'y': 65
 ---
 
 ## Why Fello stands out

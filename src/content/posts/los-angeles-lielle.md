@@ -22,13 +22,13 @@ faq:
     a: It suits one well given the multi-course format and current buzz, but plan for a full evening rather than a quick pre-show dinner, and mention any dietary restrictions when booking since the menu is set by the kitchen.
 aiGenerated: true
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/496805_u0_KFq_ZnQkHqOrx9tjv3EYPj7MYJo-0gvu9c9G04rw.jpg
+  url: https://fastly.4sqi.net/img/general/original/127562934_WxrarXmKAs43vyk_CR_tf8nSBvZFcLtccGQTbC1BW_s.jpg
   credit: 'Photo: Foursquare user content (Lielle)'
   license: foursquare
   source: https://foursquare.com/v/69cdc07aa105000396451582
   focus:
-    x: 50
-    y: 45
+    x: 45
+    'y': 45
 ---
 
 ## Why Lielle matters right now
