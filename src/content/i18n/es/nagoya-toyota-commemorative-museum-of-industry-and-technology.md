@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: nagoya-toyota-commemorative-museum-of-industry-and-technology
-srcHash: 'e324778d404b'
+srcHash: 'ff264bf76bad'
 title: 'Museo Conmemorativo Toyota de Industria y Tecnología: Guía de Viaje de Nagoya'
 description: 'El Museo Conmemorativo Toyota de Industria y Tecnología se encuentra en el barrio de Nishi, en Nagoya, dentro de una antigua hilandería Toyoda de ladrillo rojo cerca de la estación de Sako. 4,6★ (13.915 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo Conmemorativo Toyota de Industria y Tecnología se encuentra en el barrio de Nishi, en Nagoya, dentro de una antigua hilandería Toyoda de ladrillo rojo cerca de la estación de Sako. Abre de martes a domingo, de 9:30 a 17:00, permanece cerrado los lunes y registra más afluencia entre las 10:00 y las 17:00 los fines de semana, así que conviene visitarlo un día laborable por la mañana. Calcule entre dos y tres horas para ver los telares textiles en funcionamiento y conocer los orígenes de la empresa automovilística que surgió de ellos.

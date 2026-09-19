@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kanazawa-kanazawa-castle-park
-srcHash: 'bc79248f05e6'
+srcHash: 'ea35f7d189e8'
 title: 'Parque del Castillo de Kanazawa: Guía de Viaje (4.3★)'
 description: 'El Parque del Castillo de Kanazawa está justo al lado del Jardín Kenrokuen, en pleno centro de Kanazawa, y abre todos los días de 7:00 a 18:00. 4.3★ (12.012 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Parque del Castillo de Kanazawa está justo al lado del Jardín Kenrokuen, en pleno centro de Kanazawa, y abre todos los días de 7:00 a 18:00. Se trata de un castillo reconstruido del siglo XVI muy visitado, así que conviene llegar a la hora de apertura o después de las 16:00 para evitar la aglomeración de los fines de semana entre las 11:00 y las 16:00. Calcule entre 60 y 90 minutos para recorrer los terrenos y las torretas, y más tiempo si visita el interior.

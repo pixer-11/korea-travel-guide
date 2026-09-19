@@ -80,7 +80,9 @@ The exact pin (H26c+jh6) drops you beside the village; the café is the glass-fr
 
 ## What to Order and What to Expect
 
-Order espresso here. The flat white is built on a ristretto shot rather than a standard double, and the Latte Cloud is the other signature; the beans are single-origin Arabica roasted to the shop's own spec by MPresso in Bangkok, so it is worth asking which lot is on. Filter is available, but it is not what the bar is designed around. Many visitors pair a coffee with a light breakfast or pastry, portions and setup favor a relaxed sit-down rather than a grab-and-go stop, though takeaway is available for those continuing along the walking street.
+Order espresso here. The flat white is built on a ristretto shot rather than a standard double, and the Latte Cloud is the other signature; the beans are single-origin Arabica roasted to the shop's own spec by MPresso in Bangkok, so it is worth asking which lot is on. Filter is available, but it is not what the bar is designed around.
+
+Many visitors pair a coffee with a light breakfast or pastry, portions and setup favor a relaxed sit-down rather than a grab-and-go stop, though takeaway is available for those continuing along the walking street.
 
 Seating is limited and highly sought after: the room is small and fully enclosed, so the air conditioning is a real advantage in the middle of the day, but solo travellers and couples will find a table more easily than large groups. Dogs are welcome inside.
 

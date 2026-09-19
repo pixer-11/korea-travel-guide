@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: nonthaburi-f-forever-1st-world-tour-in-bangkok
-srcHash: 'cdd2d5cf11d6'
+srcHash: 'b16bfce33cbb'
 title: F✦FOREVER 1st World Tour バンコク公演ガイド(ノンタブリー)
 description: 2026年8月1日・2日、タイ・ノンタブリーで開催されるF✦FOREVER 1st World Tourバンコク公演について、公演内容から日時・会場、当日の動き方までまとめました。
 quickAnswer: F✦FOREVERとは、「流星花園(メテオガーデン)」でF4として知られる台湾の3人組、ジェリー・イェン(言承旭)、ヴァネス・ウー(吳建豪)、ヴィック・チョウ(周渝民)が再結成したグループで、今回はメイデイ(五月天)のアシン(阿信)が名誉メンバーとして加わります。彼らは1st World Tourの一環として、2026年8月1日・2日の2日間、ノンタブリーのIMPACTアリーナで公演を行います。スタジアム規模の再結成公演となるため、ムアントンタニー(Muang Thong Thani)/チェンワタナ(Chaeng Watthana)エリアの航空券やホテルは早めに手配し、正確な日程・開場時間・チケット区分については、渡航前に公式ツアーサイトとIMPACTアリーナのチャンネルで必ず確認してください。

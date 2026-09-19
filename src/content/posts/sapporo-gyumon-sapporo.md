@@ -55,22 +55,32 @@ draft: true
 
 ## Why GYUMON stands out
 
-Sapporo has no shortage of yakiniku counters, but a 4.9 average across more than 3,100 reviews puts GYUMON in rare territory for a city known just as much for ramen and seafood as for beef. The restaurant sits below street level in the N・グランデビル building on Minami 5 Jōnishi, in the heart of Susukino — Hokkaido's largest nightlife and dining district. The basement setting keeps things intimate: expect a tight, smoke-managed grilling room rather than a sprawling banquet hall, which is part of why the experience feels more considered than the average tabehodai (all-you-can-eat) yakiniku joint nearby.
+Sapporo has no shortage of yakiniku counters, but a 4.9 average across more than 3,100 reviews puts GYUMON in rare territory for a city known just as much for ramen and seafood as for beef. The restaurant sits below street level in the N・グランデビル building on Minami 5 Jōnishi, in the heart of Susukino — Hokkaido's largest nightlife and dining district.
+
+The basement setting keeps things intimate: expect a tight, smoke-managed grilling room rather than a sprawling banquet hall, which is part of why the experience feels more considered than the average tabehodai (all-you-can-eat) yakiniku joint nearby.
 
 The draw is Hokkaido beef itself. The island's cooler climate and pastureland produce cattle prized for a cleaner, slightly sweeter fat than beef from further south, and GYUMON builds its reputation on showcasing cuts like sirloin, short rib, and tongue at their best — often with a chef or server guiding you on grill timing rather than leaving you to guess.
 
 ## Getting there
 
-GYUMON is in Chuo Ward, on Minami 5 Jōnishi, 3-chōme, a short walk from Susukino Station on the Sapporo Municipal Subway Namboku Line — the same line that runs up to Sapporo Station and Odori. From Susukino Station, head toward the Minami 5-jo / Susukino crossing area; the restaurant is on the basement level ("地下1階") of the N・グランデビル building, so look for building signage rather than a street-facing storefront. If you're coming from Odori Station instead, it's a walkable 10–15 minutes south through the Susukino entertainment blocks, passing plenty of izakayas and ramen shops along the way. Taxis from Sapporo Station take roughly 10 minutes depending on traffic.
+GYUMON is in Chuo Ward, on Minami 5 Jōnishi, 3-chōme, a short walk from Susukino Station on the Sapporo Municipal Subway Namboku Line — the same line that runs up to Sapporo Station and Odori. From Susukino Station, head toward the Minami 5-jo / Susukino crossing area; the restaurant is on the basement level ("地下1階") of the N・グランデビル building, so look for building signage rather than a street-facing storefront.
+
+If you're coming from Odori Station instead, it's a walkable 10–15 minutes south through the Susukino entertainment blocks, passing plenty of izakayas and ramen shops along the way. Taxis from Sapporo Station take roughly 10 minutes depending on traffic.
 
 ## What to order
 
-Yakiniku here typically runs as either à la carte cuts or a set course, and with a place this consistently rated, the course menu is the easier way to sample the range without over-ordering. Expect a progression from leaner cuts (loin, rump) into richer ones (short rib, ribeye), often finishing with a beef-topped rice bowl or a light noodle dish to close the meal — standard yakiniku sequencing designed to avoid palate fatigue from fat-heavy cuts. Tongue (gyutan) and offal cuts, if offered, are worth trying since Hokkaido yakiniku spots often source them fresh rather than frozen. As with most serious yakiniku restaurants, resist the urge to over-char premium cuts — a few seconds per side on a hot grill is usually enough for the well-marbled pieces.
+Yakiniku here typically runs as either à la carte cuts or a set course, and with a place this consistently rated, the course menu is the easier way to sample the range without over-ordering. Expect a progression from leaner cuts (loin, rump) into richer ones (short rib, ribeye), often finishing with a beef-topped rice bowl or a light noodle dish to close the meal — standard yakiniku sequencing designed to avoid palate fatigue from fat-heavy cuts.
+
+Tongue (gyutan) and offal cuts, if offered, are worth trying since Hokkaido yakiniku spots often source them fresh rather than frozen. As with most serious yakiniku restaurants, resist the urge to over-char premium cuts — a few seconds per side on a hot grill is usually enough for the well-marbled pieces.
 
 ## When to go and how long to plan
 
-Weeknight early seatings (opening through around 7 pm) are the most reliable window for walking in without a long wait; Friday and Saturday nights in Susukino get busy across the entire district, not just at this restaurant, so a reservation is the safer move if your dates are fixed. Plan for 90 minutes to two hours if you're doing a full course — grilling at your own pace, plus the natural rhythm of ordering in rounds, takes longer than a quick sit-down meal. Winter (December–February) is peak tourist season in Sapporo thanks to the Snow Festival, which also means restaurant demand spikes citywide, so book a few days out if visiting then.
+Weeknight early seatings (opening through around 7 pm) are the most reliable window for walking in without a long wait; Friday and Saturday nights in Susukino get busy across the entire district, not just at this restaurant, so a reservation is the safer move if your dates are fixed. Plan for 90 minutes to two hours if you're doing a full course — grilling at your own pace, plus the natural rhythm of ordering in rounds, takes longer than a quick sit-down meal.
+
+Winter (December–February) is peak tourist season in Sapporo thanks to the Snow Festival, which also means restaurant demand spikes citywide, so book a few days out if visiting then.
 
 ## Nearby and practical tips
 
-Because GYUMON is underground, cell signal can be patchy — screenshot your reservation confirmation rather than relying on pulling it up live. Susukino itself is walkable to Nijo Market (fresh seafood and produce stalls) and the Susukino ramen alley, so pairing an early yakiniku dinner with a late-night ramen chaser is a common Sapporo move, though portion sizes here may leave less room than expected. Prices for premium wagyu courses in this category of restaurant typically run mid-to-high for Sapporo dining, so confirm current menu pricing directly with the restaurant or via their listed booking channel before visiting, since course offerings and seasonal cuts can shift.
+Because GYUMON is underground, cell signal can be patchy — screenshot your reservation confirmation rather than relying on pulling it up live. Susukino itself is walkable to Nijo Market (fresh seafood and produce stalls) and the Susukino ramen alley, so pairing an early yakiniku dinner with a late-night ramen chaser is a common Sapporo move, though portion sizes here may leave less room than expected.
+
+Prices for premium wagyu courses in this category of restaurant typically run mid-to-high for Sapporo dining, so confirm current menu pricing directly with the restaurant or via their listed booking channel before visiting, since course offerings and seasonal cuts can shift.

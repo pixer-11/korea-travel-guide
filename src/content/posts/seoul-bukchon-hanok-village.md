@@ -93,6 +93,8 @@ Spring (cherry blossoms) and autumn (foliage against the tiled roofs) are the vi
 
 Come at opening. The 10–11am window isn't just quieter for you (it's quieter for the residents, who've asked visitors repeatedly to keep noise down before 10am and after sunset, since this is still someone's front door. Speak softly in the residential lanes; loud group photo sessions right outside a gate are the single biggest source of local complaints. Skip the idea of "must-see stops" and instead pick two or three connecting alleys and walk them slowly) Bukchon rewards wandering more than checklist-ticking.
 
-If you want the hanbok photos, rent from a shop near Anguk Station rather than hauling a bulky outfit uphill. There's no admission fee and nothing to book, so budget-wise this is essentially free beyond whatever tea, hanbok rental, or workshop you choose to pay for, all cash- or card-friendly like the rest of Seoul. Because this is a very-visited landmark rather than an undiscovered corner, the real "local" move isn't finding a secret street. It's timing: go early, avoid the noon-to-5pm weekend crush, and treat the private homes with the same restraint you'd want shown at your own front gate.
+If you want the hanbok photos, rent from a shop near Anguk Station rather than hauling a bulky outfit uphill. There's no admission fee and nothing to book, so budget-wise this is essentially free beyond whatever tea, hanbok rental, or workshop you choose to pay for, all cash- or card-friendly like the rest of Seoul. Because this is a very-visited landmark rather than an undiscovered corner, the real "local" move isn't finding a secret street.
+
+It's timing: go early, avoid the noon-to-5pm weekend crush, and treat the private homes with the same restraint you'd want shown at your own front gate.
 
 Pair the visit with nearby Gyeongbokgung or Changdeokgung on the same trip, since both are close enough to fold into a single morning.

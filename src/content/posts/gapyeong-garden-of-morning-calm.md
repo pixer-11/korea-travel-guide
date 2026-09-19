@@ -91,7 +91,9 @@ Many visitors combine the trip with Nami Island, which is nearby and often bundl
 
 ## What to see
 
-The garden unfolds as a series of rooms rather than one open space. The Sky Garden and the Central Garden near the entrance give you manicured lawns and topiary; deeper in, the Green Path and the Water Garden slow the pace with ponds and reflective pools. In spring, the Royal Garden's tulip and flower beds are the draw; by summer the greenery thickens into deep shade; and from late autumn into winter, the garden transforms for its Lighting Festival, when hundreds of thousands of small lights turn the paths into something closer to a light sculpture park than a botanical one. This is now arguably its biggest draw, running from around November into March, though hours and exact dates shift year to year, so check ahead.
+The garden unfolds as a series of rooms rather than one open space. The Sky Garden and the Central Garden near the entrance give you manicured lawns and topiary; deeper in, the Green Path and the Water Garden slow the pace with ponds and reflective pools. In spring, the Royal Garden's tulip and flower beds are the draw; by summer the greenery thickens into deep shade; and from late autumn into winter, the garden transforms for its Lighting Festival, when hundreds of thousands of small lights turn the paths into something closer to a light sculpture park than a botanical one.
+
+This is now arguably its biggest draw, running from around November into March, though hours and exact dates shift year to year, so check ahead.
 
 Plan for two to three hours to walk the full network of paths at an unhurried pace, more if you're stopping constantly for photos, which most people do.
 

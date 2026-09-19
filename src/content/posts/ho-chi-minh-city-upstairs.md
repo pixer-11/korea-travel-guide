@@ -32,11 +32,15 @@ draft: true
 
 ## Why go
 
-Upstairs isn't chasing hype (it earned it. In the space of just 18 months, this compact tasting-menu restaurant went from newcomer to first-time MICHELIN Star holder in the 2026 guide, a rare and fast trajectory for Ho Chi Minh City's fine-dining scene. The kitchen builds its menu around central Vietnamese cuisine) the region famous for Hue's imperial-court dishes, Hoi An's market cooking, and a more assertive, complex flavor profile than the sweeter southern style most visitors encounter first. For travelers who've already worked through banh mi carts and pho stalls, Upstairs is the next chapter: a chance to see how a chef reframes those regional building blocks into a structured, multi-course narrative.
+Upstairs isn't chasing hype (it earned it. In the space of just 18 months, this compact tasting-menu restaurant went from newcomer to first-time MICHELIN Star holder in the 2026 guide, a rare and fast trajectory for Ho Chi Minh City's fine-dining scene. The kitchen builds its menu around central Vietnamese cuisine) the region famous for Hue's imperial-court dishes, Hoi An's market cooking, and a more assertive, complex flavor profile than the sweeter southern style most visitors encounter first.
+
+For travelers who've already worked through banh mi carts and pho stalls, Upstairs is the next chapter: a chance to see how a chef reframes those regional building blocks into a structured, multi-course narrative.
 
 ## What to expect
 
-Details on the exact tasting menu, pricing, and seating structure aren't fixed points you should rely on secondhand (restaurants at this level tend to revise their menus seasonally, and Upstairs is young enough that its format may still be evolving. What is consistent with its concept: expect a chef's-choice tasting progression rather than an a la carte menu, portions and courses designed to showcase technique alongside central Vietnamese ingredients, and a room small enough that service is personal rather than assembly-line. Given the MICHELIN recognition, plan for a multi-hour seating rather than a quick meal) this is destination dining, not a stop between sightseeing.
+Details on the exact tasting menu, pricing, and seating structure aren't fixed points you should rely on secondhand (restaurants at this level tend to revise their menus seasonally, and Upstairs is young enough that its format may still be evolving. What is consistent with its concept: expect a chef's-choice tasting progression rather than an a la carte menu, portions and courses designed to showcase technique alongside central Vietnamese ingredients, and a room small enough that service is personal rather than assembly-line.
+
+Given the MICHELIN recognition, plan for a multi-hour seating rather than a quick meal) this is destination dining, not a stop between sightseeing.
 
 ## Getting there
 
@@ -52,4 +56,8 @@ Two things separate Upstairs from the broader wave of new Ho Chi Minh City tasti
 
 ## How to visit like a local
 
-Ho Chi Minh City diners treat a MICHELIN-starred tasting menu as an event, not a casual dinner, and you should plan the same way: book your table first, then build the rest of your evening's schedule around it, rather than trying to walk in. Payment at this tier of restaurant is almost always by card, and a service charge may already be built into the bill (check before adding an additional cash tip, since stacking tips on top of an included service charge is a common visitor misstep in Vietnam's upper-end restaurants. Dress a notch smarter than typical Ho Chi Minh City street-level dining calls for; smart-casual is a safe baseline. If you want the calmest version of the experience, a weekday seating rather than a Friday or Saturday night is likely to feel less rushed, since weekend demand at a newly starred restaurant tends to spike hardest. Confirm cancellation policies when you book) small tasting-menu rooms often hold tables tightly and may have strict no-show or late-cancellation terms given how few covers they turn each night. Above all, reconfirm hours, reservation policy, and exact location directly with the restaurant close to your visit date, since all of these details can shift quickly for a restaurant still finding its footing after a big award.
+Ho Chi Minh City diners treat a MICHELIN-starred tasting menu as an event, not a casual dinner, and you should plan the same way: book your table first, then build the rest of your evening's schedule around it, rather than trying to walk in. Payment at this tier of restaurant is almost always by card, and a service charge may already be built into the bill (check before adding an additional cash tip, since stacking tips on top of an included service charge is a common visitor misstep in Vietnam's upper-end restaurants.
+
+Dress a notch smarter than typical Ho Chi Minh City street-level dining calls for; smart-casual is a safe baseline. If you want the calmest version of the experience, a weekday seating rather than a Friday or Saturday night is likely to feel less rushed, since weekend demand at a newly starred restaurant tends to spike hardest. Confirm cancellation policies when you book) small tasting-menu rooms often hold tables tightly and may have strict no-show or late-cancellation terms given how few covers they turn each night.
+
+Above all, reconfirm hours, reservation policy, and exact location directly with the restaurant close to your visit date, since all of these details can shift quickly for a restaurant still finding its footing after a big award.

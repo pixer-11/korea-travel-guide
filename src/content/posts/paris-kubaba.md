@@ -33,11 +33,15 @@ aiGenerated: true
 
 ## Why go
 
-Kubaba is the kind of opening Paris tends to produce every few years: a design-forward restaurant from an established hospitality group that turns a meal into a stage set. This one comes from Dalia Group's Benjamin Cohen and Julien Casbas, the team behind several of the city's more theatrical dining rooms, and it leans hard into Levantine cuisine and North African-inflected decor. Spread across three floors and 360 square metres of a former butcher's shop, the space was reimagined by designer Laleh Amir Assefi with leopard-print carpeting and khaïma-tent motifs — the kind of look built for both dinner and phone cameras. With 140 seats across the building, it's large enough to anchor a night out but styled enough that it already ranks among the most talked-about restaurant launches in the 1st arrondissement for 2026.
+Kubaba is the kind of opening Paris tends to produce every few years: a design-forward restaurant from an established hospitality group that turns a meal into a stage set. This one comes from Dalia Group's Benjamin Cohen and Julien Casbas, the team behind several of the city's more theatrical dining rooms, and it leans hard into Levantine cuisine and North African-inflected decor.
+
+Spread across three floors and 360 square metres of a former butcher's shop, the space was reimagined by designer Laleh Amir Assefi with leopard-print carpeting and khaïma-tent motifs — the kind of look built for both dinner and phone cameras. With 140 seats across the building, it's large enough to anchor a night out but styled enough that it already ranks among the most talked-about restaurant launches in the 1st arrondissement for 2026.
 
 ## Where it is and how to get there
 
-The restaurant sits near Place du Marché Saint-Honoré, a pedestrianized square in the 1st arrondissement known for its glass-and-steel covered market building and a cluster of restaurants and boutiques. This puts Kubaba within easy walking distance of the Louvre, the Jardin des Tuileries, and Place Vendôme — making it a natural dinner stop after an afternoon in that museum-and-shopping corridor. The closest metro stations are Pyramides (Line 7) and Tuileries (Line 1), both a short walk away, with Palais Royal–Musée du Louvre (Lines 1 and 7) also within reach if you're coming from the museum side. Given the density of one-way streets around the Marché Saint-Honoré, arriving by metro or on foot is generally simpler than trying to park nearby.
+The restaurant sits near Place du Marché Saint-Honoré, a pedestrianized square in the 1st arrondissement known for its glass-and-steel covered market building and a cluster of restaurants and boutiques. This puts Kubaba within easy walking distance of the Louvre, the Jardin des Tuileries, and Place Vendôme — making it a natural dinner stop after an afternoon in that museum-and-shopping corridor.
+
+The closest metro stations are Pyramides (Line 7) and Tuileries (Line 1), both a short walk away, with Palais Royal–Musée du Louvre (Lines 1 and 7) also within reach if you're coming from the museum side. Given the density of one-way streets around the Marché Saint-Honoré, arriving by metro or on foot is generally simpler than trying to park nearby.
 
 ## What to eat and see
 

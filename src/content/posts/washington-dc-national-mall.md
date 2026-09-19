@@ -65,17 +65,23 @@ aiGenerated: true
 
 ## Why go
 
-Few public spaces pack in as much American history per square foot as the National Mall. Rated 4.8 by nearly 140,000 visitors, this is the ceremonial heart of Washington DC: a long, open lawn running roughly from the U.S. Capitol to the Lincoln Memorial, with the Washington Monument's 555-foot obelisk marking the center. Along the way you'll find memorials to Lincoln, FDR, Martin Luther King Jr., and the veterans of WWII and Vietnam, plus most of the free Smithsonian museums lining the sides. It's less a single "attraction" than an outdoor museum district — expect to walk a lot, and plan for at least half a day if you want to do it justice.
+Few public spaces pack in as much American history per square foot as the National Mall. Rated 4.8 by nearly 140,000 visitors, this is the ceremonial heart of Washington DC: a long, open lawn running roughly from the U.S. Capitol to the Lincoln Memorial, with the Washington Monument's 555-foot obelisk marking the center. Along the way you'll find memorials to Lincoln, FDR, Martin Luther King Jr., and the veterans of WWII and Vietnam, plus most of the free Smithsonian museums lining the sides.
+
+It's less a single "attraction" than an outdoor museum district — expect to walk a lot, and plan for at least half a day if you want to do it justice.
 
 ## Getting there
 
-The Mall is served by several Metro stations, so pick the entry point closest to what you want to see first. Smithsonian station (Blue/Orange/Silver lines) drops you right at the center of the lawn, near the Smithsonian Castle. Federal Triangle and Archives–Navy Memorial stations sit a few blocks north, convenient for the museum-heavy eastern half. For the Lincoln Memorial and West Potomac Park end, Foggy Bottom (Blue/Orange/Silver) is the closest station, though it's still a 15–20 minute walk. There's very limited street parking and no dedicated lots, so driving in isn't recommended — the Metro or a bike-share dock (Capital Bikeshare stations are scattered every few blocks along the Mall) is far easier.
+The Mall is served by several Metro stations, so pick the entry point closest to what you want to see first. Smithsonian station (Blue/Orange/Silver lines) drops you right at the center of the lawn, near the Smithsonian Castle. Federal Triangle and Archives–Navy Memorial stations sit a few blocks north, convenient for the museum-heavy eastern half. For the Lincoln Memorial and West Potomac Park end, Foggy Bottom (Blue/Orange/Silver) is the closest station, though it's still a 15–20 minute walk.
+
+There's very limited street parking and no dedicated lots, so driving in isn't recommended — the Metro or a bike-share dock (Capital Bikeshare stations are scattered every few blocks along the Mall) is far easier.
 
 ## What to see
 
 Walking east to west: the Capitol Reflecting Pool and the National Gallery of Art anchor the eastern end. Moving west along the lawn you'll pass the Smithsonian museums — the National Museum of Natural History and National Gallery on the north side, the National Museum of African American History and Culture and the Hirshhorn on the south. The Washington Monument sits roughly at the midpoint; timed entry tickets (free, released via recreation.gov) let you ride to the top observation deck, though the grounds and views from the base are worth a stop even without one.
 
-West of the Monument, the World War II Memorial's fountains and pillars lead toward the Lincoln Memorial Reflecting Pool. The Lincoln Memorial itself, with its 36 Doric columns representing the states at the time of Lincoln's death, is arguably the Mall's most photographed spot, especially at sunrise or after dark when it's lit and far less crowded. Just south, the MLK Jr. Memorial sits on the edge of the Tidal Basin (a good detour in late March/early April for cherry blossoms), while the Vietnam Veterans Memorial's black granite wall and the Korean War Veterans Memorial are tucked into the trees just north of the Lincoln Memorial. The FDR Memorial, a series of outdoor "rooms" tracing his four terms, sits further south along the Tidal Basin path — a quieter, often-skipped stop worth the extra 15-minute walk.
+West of the Monument, the World War II Memorial's fountains and pillars lead toward the Lincoln Memorial Reflecting Pool. The Lincoln Memorial itself, with its 36 Doric columns representing the states at the time of Lincoln's death, is arguably the Mall's most photographed spot, especially at sunrise or after dark when it's lit and far less crowded. Just south, the MLK Jr.
+
+Memorial sits on the edge of the Tidal Basin (a good detour in late March/early April for cherry blossoms), while the Vietnam Veterans Memorial's black granite wall and the Korean War Veterans Memorial are tucked into the trees just north of the Lincoln Memorial. The FDR Memorial, a series of outdoor "rooms" tracing his four terms, sits further south along the Tidal Basin path — a quieter, often-skipped stop worth the extra 15-minute walk.
 
 ## When to go
 
@@ -83,4 +89,6 @@ Spring (late March–April) brings cherry blossoms around the Tidal Basin but al
 
 ## Nearby & tips
 
-Everything on the Mall is free, including all Smithsonian museums — no tickets needed except for the Washington Monument and occasionally the African American History Museum. There's minimal food on the Mall itself beyond seasonal vendor carts, so eat before you arrive or plan a stop in Penn Quarter or near L'Enfant Plaza. Wear layers; the open lawn offers zero shade in July and biting wind in January. Given the distances involved (Capitol to Lincoln Memorial is about 2 miles), a bike or the free DC Circulator bus can save considerable time if you're trying to cover the whole stretch in one visit.
+Everything on the Mall is free, including all Smithsonian museums — no tickets needed except for the Washington Monument and occasionally the African American History Museum. There's minimal food on the Mall itself beyond seasonal vendor carts, so eat before you arrive or plan a stop in Penn Quarter or near L'Enfant Plaza. Wear layers; the open lawn offers zero shade in July and biting wind in January.
+
+Given the distances involved (Capitol to Lincoln Memorial is about 2 miles), a bike or the free DC Circulator bus can save considerable time if you're trying to cover the whole stretch in one visit.

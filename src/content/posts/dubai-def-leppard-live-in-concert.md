@@ -49,7 +49,9 @@ Plenty of concertgoers simply take a taxi or Careem straight to the venue, thoug
 
 ## What to expect inside
 
-Coca-Cola Arena is Dubai's flagship indoor venue, built for exactly this kind of touring rock act, a fully enclosed, air-conditioned bowl that holds around 17,000, which matters enormously in August when outdoor temperatures in Dubai routinely sit in the mid-40s Celsius. Shows here follow a familiar rhythm once security is cleared: a support act or walk-in music while the floor and tiers fill, then house lights dropping hard right before the headliner takes the stage. Def Leppard's touring sets lean on the hits from "Hysteria" and "Adrenalize," built around their instantly recognizable guitar riffs and Joe Elliott's still-powerful vocals.
+Coca-Cola Arena is Dubai's flagship indoor venue, built for exactly this kind of touring rock act, a fully enclosed, air-conditioned bowl that holds around 17,000, which matters enormously in August when outdoor temperatures in Dubai routinely sit in the mid-40s Celsius. Shows here follow a familiar rhythm once security is cleared: a support act or walk-in music while the floor and tiers fill, then house lights dropping hard right before the headliner takes the stage.
+
+Def Leppard's touring sets lean on the hits from "Hysteria" and "Adrenalize," built around their instantly recognizable guitar riffs and Joe Elliott's still-powerful vocals.
 
 Concourses circle the bowl with food and drink stalls, so nobody needs to turn up starving, though the queues at the bars thicken fast once doors open.
 

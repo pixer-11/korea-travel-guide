@@ -90,7 +90,9 @@ There's no dedicated metro in central Florence, so most visitors arrive on foot 
 
 ## When to go
 
-This is consistently one of the most-visited museums in Italy, and the queue on Via Ricasoli without a reservation can run well over an hour, especially in spring and summer. The measured crowd pattern backs this up: weekends stay busy from 10am right through to 6pm, so the calm window is early, between 8:15am and 9am at opening. Arriving right when the doors open is the single best move you can make here. You'll often have the Prisoners hall nearly to yourself before the tour groups arrive. Outside peak season (roughly November through February, excluding holidays), the whole museum breathes easier all day.
+This is consistently one of the most-visited museums in Italy, and the queue on Via Ricasoli without a reservation can run well over an hour, especially in spring and summer. The measured crowd pattern backs this up: weekends stay busy from 10am right through to 6pm, so the calm window is early, between 8:15am and 9am at opening. Arriving right when the doors open is the single best move you can make here.
+
+You'll often have the Prisoners hall nearly to yourself before the tour groups arrive. Outside peak season (roughly November through February, excluding holidays), the whole museum breathes easier all day.
 
 ## How to visit like a local
 

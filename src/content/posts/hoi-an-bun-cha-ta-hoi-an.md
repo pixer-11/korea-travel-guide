@@ -93,20 +93,32 @@ updatedDate: '2026-09-19'
 
 ## Why go
 
-Bun cha is a Hanoi export — grilled pork (patties, sometimes belly slices) served in a bowl of warm, sweet-sour-savory fish sauce broth alongside a mountain of rice vermicelli and fresh herbs — but Bun Cha Ta has become one of Hoi An's most consistently praised spots for it, holding a 4.7 rating across more than 1,100 reviews. That kind of volume and score in a small riverside town is notable: this isn't a hidden gem so much as a well-known local institution that happens to still feel unpretentious. It's a useful antidote to the tourist-priced restaurants clustered inside the Old Town's UNESCO core, offering the kind of home-style cooking locals actually eat.
+Bun cha is a Hanoi export — grilled pork (patties, sometimes belly slices) served in a bowl of warm, sweet-sour-savory fish sauce broth alongside a mountain of rice vermicelli and fresh herbs — but Bun Cha Ta has become one of Hoi An's most consistently praised spots for it, holding a 4.7 rating across more than 1,100 reviews. That kind of volume and score in a small riverside town is notable: this isn't a hidden gem so much as a well-known local institution that happens to still feel unpretentious.
+
+It's a useful antidote to the tourist-priced restaurants clustered inside the Old Town's UNESCO core, offering the kind of home-style cooking locals actually eat.
 
 ## Getting there
 
-The address is 197 Nguyễn Duy Hiệu, which puts it just east of the Old Town, across the An Hoi peninsula area and past the Cam Nam side of the river. From the Japanese Covered Bridge or central Old Town, it's roughly a 15-20 minute walk, or about 5-10 minutes by bicycle, motorbike, or taxi/Grab — the latter is easiest given Hoi An's flat streets and cheap short rides. Nguyễn Duy Hiệu is a fairly major thoroughfare connecting the Old Town to the newer parts of the city toward An Bang, so it's easy for a driver or bike-taxi to find even if you don't speak Vietnamese; just have the address written down or pulled up on your phone.
+The address is 197 Nguyễn Duy Hiệu, which puts it just east of the Old Town, across the An Hoi peninsula area and past the Cam Nam side of the river. From the Japanese Covered Bridge or central Old Town, it's roughly a 15-20 minute walk, or about 5-10 minutes by bicycle, motorbike, or taxi/Grab — the latter is easiest given Hoi An's flat streets and cheap short rides.
+
+Nguyễn Duy Hiệu is a fairly major thoroughfare connecting the Old Town to the newer parts of the city toward An Bang, so it's easy for a driver or bike-taxi to find even if you don't speak Vietnamese; just have the address written down or pulled up on your phone.
 
 ## What to eat
 
-The namesake dish, bun cha, is the reason to come: grilled pork patties (often mixed with a bit of fat for char and flavor) served in a bowl of diluted fish sauce with pickled green papaya and carrot, alongside a plate of rice noodles and a basket of fresh herbs — perilla, mint, lettuce — for wrapping or mixing in. The format rewards building your own bite: dunk noodles and herbs into the broth, add pork, adjust with chili or extra lime if offered. Many similar bun cha spots in Vietnam also serve nem (fried spring rolls) as an add-on, which is worth ordering if available, since the crunch pairs well with the soft noodles. Portions are generous by most accounts, and given the price level, a full meal — noodles, pork, herbs, and a drink — typically runs a very small amount by international standards, often under the cost of a coffee back home. As with any market-style or family-run eatery in Vietnam, exact prices can shift, so treat any number you see online as a rough guide rather than gospel.
+The namesake dish, bun cha, is the reason to come: grilled pork patties (often mixed with a bit of fat for char and flavor) served in a bowl of diluted fish sauce with pickled green papaya and carrot, alongside a plate of rice noodles and a basket of fresh herbs — perilla, mint, lettuce — for wrapping or mixing in.
+
+The format rewards building your own bite: dunk noodles and herbs into the broth, add pork, adjust with chili or extra lime if offered. Many similar bun cha spots in Vietnam also serve nem (fried spring rolls) as an add-on, which is worth ordering if available, since the crunch pairs well with the soft noodles. Portions are generous by most accounts, and given the price level, a full meal — noodles, pork, herbs, and a drink — typically runs a very small amount by international standards, often under the cost of a coffee back home.
+
+As with any market-style or family-run eatery in Vietnam, exact prices can shift, so treat any number you see online as a rough guide rather than gospel.
 
 ## When to go and what to expect
 
-This is a lunch-hour destination more than a dinner one — bun cha in Vietnam is traditionally a midday dish, and the grill and broth are at their best when the kitchen is in full swing, generally late morning through early afternoon. Expect simple plastic stools or basic seating, an open-air or semi-open dining area, and a brisk, functional pace rather than lingering ambience — this is about the food, not the setting. Because it draws both locals and increasingly aware travelers, midday can mean a short wait or a bit of a squeeze for tables; going slightly before or after the core 12-1pm rush can smooth things out.
+This is a lunch-hour destination more than a dinner one — bun cha in Vietnam is traditionally a midday dish, and the grill and broth are at their best when the kitchen is in full swing, generally late morning through early afternoon. Expect simple plastic stools or basic seating, an open-air or semi-open dining area, and a brisk, functional pace rather than lingering ambience — this is about the food, not the setting.
+
+Because it draws both locals and increasingly aware travelers, midday can mean a short wait or a bit of a squeeze for tables; going slightly before or after the core 12-1pm rush can smooth things out.
 
 ## Nearby & tips
 
-After eating, it's easy to walk back toward the river and the Old Town's lantern-lit streets, or continue further east/south toward Cam Nam Island, which has a quieter, more local feel with a few cafes overlooking the water. If you're cycling, this part of Hoi An is flat and easy to combine with a loop past the market and riverside promenade. Bring small-denomination Vietnamese dong, as spots like this are typically cash-based and won't necessarily run card payments. Confirm current hours before making a special trip, since small family-run restaurants in Hoi An can shift their schedule seasonally or close for a rest day without much notice online.
+After eating, it's easy to walk back toward the river and the Old Town's lantern-lit streets, or continue further east/south toward Cam Nam Island, which has a quieter, more local feel with a few cafes overlooking the water. If you're cycling, this part of Hoi An is flat and easy to combine with a loop past the market and riverside promenade.
+
+Bring small-denomination Vietnamese dong, as spots like this are typically cash-based and won't necessarily run card payments. Confirm current hours before making a special trip, since small family-run restaurants in Hoi An can shift their schedule seasonally or close for a rest day without much notice online.

@@ -32,15 +32,21 @@ draft: true
 
 ## Why Run Fun stands out
 
-Hanoi's fine-dining scene has quietly built an international reputation over the past decade, and chef Hoang Tung has been one of its most talked-about names, first through T.U.N.G Dining and later the more experimental Å by TUNG. Run Fun – The Eating Room is his deliberate swing in the opposite direction: same culinary brain, none of the formality. Instead of multi-course tasting menus and hushed dining rooms, the concept trades white tablecloths for a livelier, more social room where Vietnamese ingredients still get the playful, surprising treatment Tung is known for, just served faster and looser. For visitors who've read about Hanoi's high-end tasting-menu boom but don't want to commit an entire evening (or budget) to it, this is the accessible entry point to that same kitchen sensibility.
+Hanoi's fine-dining scene has quietly built an international reputation over the past decade, and chef Hoang Tung has been one of its most talked-about names, first through T.U.N.G Dining and later the more experimental Å by TUNG. Run Fun – The Eating Room is his deliberate swing in the opposite direction: same culinary brain, none of the formality. Instead of multi-course tasting menus and hushed dining rooms, the concept trades white tablecloths for a livelier, more social room where Vietnamese ingredients still get the playful, surprising treatment Tung is known for, just served faster and looser.
+
+For visitors who've read about Hanoi's high-end tasting-menu boom but don't want to commit an entire evening (or budget) to it, this is the accessible entry point to that same kitchen sensibility.
 
 ## What to expect at the table
 
-Because this is a recently opened venture, exact dishes and pricing shift as the menu is refined, so it's worth checking current offerings and any set-menu options directly before you go rather than relying on secondhand menu descriptions. What's consistent with Tung's style across his restaurants is a focus on Vietnamese produce and street-food DNA reimagined with fine-dining technique—expect familiar flavors presented in unexpected forms rather than a straightforward reproduction of classic dishes. Portions and format at a "casual eating room" concept like this tend to favor sharing plates over individual courses, so going with two or more people lets you sample more of the range in one sitting.
+Because this is a recently opened venture, exact dishes and pricing shift as the menu is refined, so it's worth checking current offerings and any set-menu options directly before you go rather than relying on secondhand menu descriptions. What's consistent with Tung's style across his restaurants is a focus on Vietnamese produce and street-food DNA reimagined with fine-dining technique—expect familiar flavors presented in unexpected forms rather than a straightforward reproduction of classic dishes.
+
+Portions and format at a "casual eating room" concept like this tend to favor sharing plates over individual courses, so going with two or more people lets you sample more of the range in one sitting.
 
 ## Getting there and setting expectations
 
-Run Fun is located in Hanoi, in keeping with the rest of Tung's restaurant group, which has built its reputation squarely in the capital rather than expanding to Ho Chi Minh City or elsewhere. Given how quickly buzzy new openings in Hanoi can shift their hours, walk-in policy, or reservation system in the first months, it's worth double-checking the current operating hours, exact address, and booking process shortly before your visit—treat any older listing or review as a starting point, not gospel. If you're already planning to visit T.U.N.G Dining or Å by TUNG on the same trip, Run Fun makes a useful contrast: the same culinary point of view, dialed down to weekday-casual.
+Run Fun is located in Hanoi, in keeping with the rest of Tung's restaurant group, which has built its reputation squarely in the capital rather than expanding to Ho Chi Minh City or elsewhere. Given how quickly buzzy new openings in Hanoi can shift their hours, walk-in policy, or reservation system in the first months, it's worth double-checking the current operating hours, exact address, and booking process shortly before your visit—treat any older listing or review as a starting point, not gospel.
+
+If you're already planning to visit T.U.N.G Dining or Å by TUNG on the same trip, Run Fun makes a useful contrast: the same culinary point of view, dialed down to weekday-casual.
 
 ## Who it's for
 
@@ -48,7 +54,11 @@ This isn't the place for a quiet, romantic tasting menu—that's what Tung's oth
 
 ## How to visit like a local
 
-Since this is a new and fast-trending opening, the calmest windows are typically early in the service—arriving right at opening or for an early dinner tends to beat the peak crowd that builds as word spreads on social media and through Hanoi's food-forward crowd. Book ahead if a reservation system is available rather than risking a walk-in on a Friday or Saturday night; trending restaurants in Hanoi fill up fast once local food media and Instagram pick them up. Payment at most contemporary Hanoi restaurants in this bracket is by card or increasingly by mobile/QR payment apps like MoMo, though it's sensible to carry some cash as backup. Tipping isn't obligatory in Vietnam the way it is in North America, but rounding up or leaving a small discretionary tip for good service is appreciated and increasingly common at this type of venue. The most common mistake visitors make at buzzy, chef-driven spots like this is treating it like a quick bite between sightseeing stops—budget real time, share dishes rather than ordering individually, and ask staff what's new or seasonal, since kitchens like Tung's tend to rotate dishes based on what's fresh. Order confidently in English (staff at this caliber of restaurant are generally comfortable with international visitors), but learning to say "Xin chào" and "Cảm ơn" goes a long way as a courtesy.
+Since this is a new and fast-trending opening, the calmest windows are typically early in the service—arriving right at opening or for an early dinner tends to beat the peak crowd that builds as word spreads on social media and through Hanoi's food-forward crowd. Book ahead if a reservation system is available rather than risking a walk-in on a Friday or Saturday night; trending restaurants in Hanoi fill up fast once local food media and Instagram pick them up.
+
+Payment at most contemporary Hanoi restaurants in this bracket is by card or increasingly by mobile/QR payment apps like MoMo, though it's sensible to carry some cash as backup. Tipping isn't obligatory in Vietnam the way it is in North America, but rounding up or leaving a small discretionary tip for good service is appreciated and increasingly common at this type of venue.
+
+The most common mistake visitors make at buzzy, chef-driven spots like this is treating it like a quick bite between sightseeing stops—budget real time, share dishes rather than ordering individually, and ask staff what's new or seasonal, since kitchens like Tung's tend to rotate dishes based on what's fresh. Order confidently in English (staff at this caliber of restaurant are generally comfortable with international visitors), but learning to say "Xin chào" and "Cảm ơn" goes a long way as a courtesy.
 
 ## Before you go
 

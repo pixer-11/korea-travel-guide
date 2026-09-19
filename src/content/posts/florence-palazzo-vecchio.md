@@ -104,7 +104,9 @@ Push further and you can descend into the Roman and Etruscan foundations beneath
 
 ## Getting there
 
-Palazzo Vecchio sits on Piazza della Signoria in the heart of Florence's pedestrianized historic core, a five-minute walk from the Duomo and directly beside the Uffizi Gallery. There's no metro in central Florence; the nearest train station is Firenze Santa Maria Novella, about a 12–15 minute walk south-east through Via de' Panzani and Via de' Cerretani. The square itself is the real landmark. You'll recognize it by the copy of Michelangelo's David standing guard at the palace entrance (the original lives in the Accademia) and the open-air Loggia dei Lanzi with its collection of Renaissance sculpture.
+Palazzo Vecchio sits on Piazza della Signoria in the heart of Florence's pedestrianized historic core, a five-minute walk from the Duomo and directly beside the Uffizi Gallery. There's no metro in central Florence; the nearest train station is Firenze Santa Maria Novella, about a 12–15 minute walk south-east through Via de' Panzani and Via de' Cerretani. The square itself is the real landmark.
+
+You'll recognize it by the copy of Michelangelo's David standing guard at the palace entrance (the original lives in the Accademia) and the open-air Loggia dei Lanzi with its collection of Renaissance sculpture.
 
 ## When to go
 

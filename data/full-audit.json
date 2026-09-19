@@ -155,18 +155,6 @@
       "carriedFrom": "2026-09-12T20:55:47.771Z"
     },
     {
-      "slug": "bukhara-ismail-samani-mausoleum",
-      "category": "attraction",
-      "region": "Bukhara",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Crowd data shows the calmest window is 8–9am on weekdays and 8–10am on weekends"
-        }
-      ],
-      "carriedFrom": "2026-09-12T20:55:42.365Z"
-    },
-    {
       "slug": "bukhara-labi-hovuz",
       "category": "attraction",
       "region": "Bukhara",
@@ -177,18 +165,6 @@
         }
       ],
       "carriedFrom": "2026-09-12T20:55:48.443Z"
-    },
-    {
-      "slug": "can-tho-ninh-kieu-wharf",
-      "category": "attraction",
-      "region": "Can Tho",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "Foot traffic peaks between 5pm and 11pm on Saturdays and Sundays"
-        }
-      ],
-      "carriedFrom": "2026-09-12T20:55:40.911Z"
     },
     {
       "slug": "cebu-casa-gorordo-museum",
@@ -213,30 +189,6 @@
         }
       ],
       "carriedFrom": "2026-09-12T20:55:35.801Z"
-    },
-    {
-      "slug": "chuncheon-chuncheon-national-museum",
-      "category": "attraction",
-      "region": "Chuncheon",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Weekends draw the heaviest crowds between 10am and 6pm"
-        }
-      ],
-      "carriedFrom": "2026-09-12T20:54:58.287Z"
-    },
-    {
-      "slug": "cinque-terre-parco-naturale-regionale-di-porto-venere",
-      "category": "attraction",
-      "region": "Cinque Terre",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Weekends run heaviest from 11am to 7pm"
-        }
-      ],
-      "carriedFrom": "2026-09-12T20:54:28.347Z"
     },
     {
       "slug": "clarke-quay-artscience-museum",
@@ -283,18 +235,6 @@
       "carriedFrom": "2026-09-12T20:55:32.071Z"
     },
     {
-      "slug": "daegu-donghwasa",
-      "category": "attraction",
-      "region": "Daegu",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "9am to 6pm on Saturdays and Sundays is when the complex is busiest"
-        }
-      ],
-      "carriedFrom": "2026-09-12T20:55:28.824Z"
-    },
-    {
       "slug": "dempsey-hill-pasar-geylang-serai",
       "category": "hidden-gem",
       "region": "Singapore",
@@ -337,18 +277,6 @@
         }
       ],
       "carriedFrom": "2026-09-12T20:55:00.775Z"
-    },
-    {
-      "slug": "el-nido-cadlao-lagoon",
-      "category": "attraction",
-      "region": "El Nido",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "before the 9am rush"
-        }
-      ],
-      "carriedFrom": "2026-09-12T20:55:44.468Z"
     },
     {
       "slug": "el-nido-matinloc-shrine",
@@ -494,30 +422,6 @@
       "carriedFrom": "2026-09-12T20:55:57.203Z"
     },
     {
-      "slug": "istanbul-hagia-sophia-grand-mosque",
-      "category": "attraction",
-      "region": "Istanbul",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "weekdays between 7am and 9am are the calmest stretch"
-        }
-      ],
-      "carriedFrom": "2026-09-12T20:55:10.519Z"
-    },
-    {
-      "slug": "jakarta-national-museum-of-indonesia",
-      "category": "attraction",
-      "region": "Jakarta",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "On weekdays, the calmest hour is actually late in the day, between 6pm and 7pm, if you're visiting on a Friday when it stays open into the evening."
-        }
-      ],
-      "carriedFrom": "2026-09-12T20:55:25.873Z"
-    },
-    {
       "slug": "jakarta-selamat-datang-monument",
       "category": "attraction",
       "region": "Jakarta",
@@ -544,18 +448,6 @@
         }
       ],
       "carriedFrom": "2026-09-12T20:55:27.060Z"
-    },
-    {
-      "slug": "jurong-singapore-discovery-centre",
-      "category": "attraction",
-      "region": "Jurong",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "weekends, 11am to 1pm is the calm patch"
-        }
-      ],
-      "carriedFrom": "2026-09-12T20:54:27.008Z"
     },
     {
       "slug": "kampong-glam-telok-blangah-hill-park",
@@ -710,18 +602,6 @@
       "carriedFrom": "2026-09-12T20:55:55.078Z"
     },
     {
-      "slug": "kuching-malaysia-china-friendship-park",
-      "category": "attraction",
-      "region": "Kuching",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Weekdays between 7am and 3pm are consistently the calmest stretch"
-        }
-      ],
-      "carriedFrom": "2026-09-12T20:55:44.528Z"
-    },
-    {
       "slug": "kumamoto-kumamoto-castle",
       "category": "hidden-gem",
       "region": "Kumamoto",
@@ -729,37 +609,9 @@
         {
           "type": "other-glaring",
           "quote": "The quietest window measured is any time during the 9am–5pm weekday stretch."
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "the busiest stretch running 10am to 4pm"
         }
       ],
       "carriedFrom": "2026-09-12T20:55:32.545Z"
-    },
-    {
-      "slug": "lantau-island-lantau-south-country-park",
-      "category": "attraction",
-      "region": "Lantau Island",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Weekends between 9am and 4pm are the busiest window"
-        }
-      ],
-      "carriedFrom": "2026-09-12T20:55:06.895Z"
-    },
-    {
-      "slug": "manila-baluarte-de-san-diego",
-      "category": "hidden-gem",
-      "region": "Manila",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "The measured quiet windows are 8am–9am on weekdays and 8am–10am on weekends"
-        }
-      ],
-      "carriedFrom": "2026-09-12T20:55:42.188Z"
     },
     {
       "slug": "manila-jose-rizal-monument",
@@ -772,18 +624,6 @@
         }
       ],
       "carriedFrom": "2026-09-12T20:55:54.119Z"
-    },
-    {
-      "slug": "mumbai-hanging-garden",
-      "category": "attraction",
-      "region": "Mumbai",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "crowds build steadily from 3pm to 9pm"
-        }
-      ],
-      "carriedFrom": "2026-09-12T20:55:22.830Z"
     },
     {
       "slug": "mumbai-jogeshwari-caves",
@@ -817,10 +657,6 @@
         {
           "type": "broken-markdown",
           "quote": "the machines themselves (dozens of them, still running. Staff demonstrate century-old power looms"
-        },
-        {
-          "type": "other-glaring",
-          "quote": "Weekends get busy between 10am and 5pm"
         }
       ],
       "carriedFrom": "2026-09-12T20:55:29.516Z"
@@ -844,30 +680,6 @@
         }
       ],
       "carriedFrom": "2026-09-12T20:55:41.056Z"
-    },
-    {
-      "slug": "new-taipei-national-palace-museum",
-      "category": "attraction",
-      "region": "New Taipei",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "Weekends between 10am and 5pm are the museum's busiest measured stretch"
-        }
-      ],
-      "carriedFrom": "2026-09-12T20:55:57.598Z"
-    },
-    {
-      "slug": "new-taipei-old-place-airplane-observation-deck",
-      "category": "attraction",
-      "region": "New Taipei",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Weekends between 7am and 6pm are the busiest stretch by far"
-        }
-      ],
-      "carriedFrom": "2026-09-12T20:55:35.395Z"
     },
     {
       "slug": "nha-trang-long-son-pagoda",
@@ -946,18 +758,6 @@
       "carriedFrom": "2026-09-12T20:55:26.756Z"
     },
     {
-      "slug": "paris-musee-de-l-orangerie",
-      "category": "attraction",
-      "region": "Paris",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Weekends between 11am and 6pm are the peak stretch"
-        }
-      ],
-      "carriedFrom": "2026-09-12T20:54:55.365Z"
-    },
-    {
       "slug": "pattaya-nongnooch-pattaya-garden",
       "category": "attraction",
       "region": "Pattaya",
@@ -1008,18 +808,6 @@
         }
       ],
       "carriedFrom": "2026-09-12T20:55:33.708Z"
-    },
-    {
-      "slug": "portland-omsi",
-      "category": "attraction",
-      "region": "Portland",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "The busiest stretch on weekends runs from 11am straight through to 6pm"
-        }
-      ],
-      "carriedFrom": "2026-09-12T20:54:40.097Z"
     },
     {
       "slug": "portland-portland-japanese-garden",
@@ -1084,18 +872,6 @@
         }
       ],
       "carriedFrom": "2026-09-12T20:54:32.296Z"
-    },
-    {
-      "slug": "seattle-the-museum-of-flight",
-      "category": "attraction",
-      "region": "Seattle",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Avoid 11am to 4pm on weekends, the museum's busiest window"
-        }
-      ],
-      "carriedFrom": "2026-09-12T20:55:00.629Z"
     },
     {
       "slug": "sen-monorom-tuol-sleng-genocide-museum",
@@ -1172,18 +948,6 @@
       "carriedFrom": "2026-09-12T20:55:29.463Z"
     },
     {
-      "slug": "siem-reap-phnom-bakheng-temple",
-      "category": "attraction",
-      "region": "Siem Reap",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "busiest window on weekends runs from around 4pm to 7pm"
-        }
-      ],
-      "carriedFrom": "2026-09-12T20:54:38.528Z"
-    },
-    {
       "slug": "siem-reap-preah-khan-temple",
       "category": "attraction",
       "region": "Siem Reap",
@@ -1256,18 +1020,6 @@
       "carriedFrom": "2026-09-12T20:55:55.621Z"
     },
     {
-      "slug": "taipei-taipei-botanical-garden",
-      "category": "attraction",
-      "region": "Taipei",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "crowds build steadily from 9am and stay heavy right through to 6pm"
-        }
-      ],
-      "carriedFrom": "2026-09-12T20:55:46.210Z"
-    },
-    {
       "slug": "taiping-taiping-lake-garden",
       "category": "attraction",
       "region": "Taiping",
@@ -1327,18 +1079,6 @@
       "carriedFrom": "2026-09-05T20:36:00.198Z"
     },
     {
-      "slug": "verona-castelvecchio-museum",
-      "category": "attraction",
-      "region": "Verona",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Weekends get busy between 11am and 6pm"
-        }
-      ],
-      "carriedFrom": "2026-09-12T20:54:34.558Z"
-    },
-    {
       "slug": "washington-dc-smithsonian-national-museum-of-natural-history",
       "category": "attraction",
       "region": "Washington DC",
@@ -1357,18 +1097,6 @@
         }
       ],
       "carriedFrom": "2026-09-12T20:55:28.542Z"
-    },
-    {
-      "slug": "yilan-fushan-botanical-garden",
-      "category": "attraction",
-      "region": "Yilan",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "the 9am–1pm stretch drawing the heaviest foot traffic"
-        }
-      ],
-      "carriedFrom": "2026-09-12T20:55:39.841Z"
     },
     {
       "slug": "yilan-yilan-museum-of-art",
@@ -1406,17 +1134,6 @@
       ]
     },
     {
-      "slug": "hiroshima-hiroshima-botanical-garden",
-      "category": "attraction",
-      "region": "Hiroshima",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "Weekends between 10am and 4pm are the busiest stretch"
-        }
-      ]
-    },
-    {
       "slug": "beijing-lama-temple",
       "category": "attraction",
       "region": "Beijing",
@@ -1428,17 +1145,6 @@
         {
           "type": "invented-specifics",
           "quote": "an 18-meter sandalwood Maitreya Buddha carved from a single tree trunk"
-        }
-      ]
-    },
-    {
-      "slug": "kyoto-kiyomizu-dera",
-      "category": "attraction",
-      "region": "Kyoto",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "Measured foot traffic shows the calmest window is 7am to 9am, on weekdays and weekends alike."
         }
       ]
     },
@@ -1471,10 +1177,6 @@
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "Weekends get heaviest between 11am and 8pm"
-        },
-        {
-          "type": "invented-specifics",
           "quote": "restored after a 1904 fire"
         },
         {
@@ -1502,10 +1204,6 @@
         {
           "type": "invented-specifics",
           "quote": "7am to 8am on weekdays and 7am to 9am on weekends"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "Weekends get busy from around 9am right through to 11pm"
         },
         {
           "type": "invented-specifics",
@@ -1544,21 +1242,6 @@
       ]
     },
     {
-      "slug": "causeway-bay-east-coast-park-precinct",
-      "category": "attraction",
-      "region": "Causeway Bay",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Weekday mornings between 7am and 8am are the quietest window"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "busy from 9am through 9pm on Saturdays and Sundays"
-        }
-      ]
-    },
-    {
       "slug": "strasbourg-parc-de-l-orangerie",
       "category": "attraction",
       "region": "Strasbourg",
@@ -1566,21 +1249,6 @@
         {
           "type": "other-glaring",
           "quote": "busiest stretch, with families, picnickers, and stroller traffic filling the main lawns near the lake"
-        }
-      ]
-    },
-    {
-      "slug": "wan-chai-wan-chai-temporary-promenade",
-      "category": "attraction",
-      "region": "Wan Chai",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "quietest between 7am and 8am"
-        },
-        {
-          "type": "other-glaring",
-          "quote": "the calm window stretches much longer, from 7am through to around noon"
         }
       ]
     },
@@ -1637,10 +1305,6 @@
         {
           "type": "invented-specifics",
           "quote": "opened in 1897"
-        },
-        {
-          "type": "other-glaring",
-          "quote": "quietest hour is 5pm to 6pm"
         }
       ]
     },
@@ -1751,10 +1415,6 @@
         },
         {
           "type": "invented-specifics",
-          "quote": "the quietest stretch on weekdays runs from 9pm to 11pm"
-        },
-        {
-          "type": "invented-specifics",
           "quote": "on weekends it narrows to 10pm to 11pm"
         }
       ]
@@ -1801,10 +1461,6 @@
       "category": "attraction",
       "region": "Aberdeen",
       "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Weekends are busiest from 8am to 3pm"
-        },
         {
           "type": "invented-specifics",
           "quote": "The building sits at 182 Aberdeen Main Road"
@@ -2251,28 +1907,6 @@
       ]
     },
     {
-      "slug": "nikko-nikko-tamozawa-imperial-villa-memorial-park",
-      "category": "attraction",
-      "region": "Nikko",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "heaviest traffic runs from 10am to 4pm on Saturdays and Sundays"
-        }
-      ]
-    },
-    {
-      "slug": "genoa-villa-durazzo-pallavicini",
-      "category": "attraction",
-      "region": "Genoa",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "the 10am to 7pm stretch on Saturday and Sunday consistently the busiest window"
-        }
-      ]
-    },
-    {
       "slug": "malaga-jardines-de-pedro-luis-alonso",
       "category": "attraction",
       "region": "Malaga",
@@ -2329,17 +1963,6 @@
       ]
     },
     {
-      "slug": "annecy-parc-animalier-de-la-grande-jeanne",
-      "category": "attraction",
-      "region": "Annecy",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "quietest stretch on weekend mornings between 7am and 9am"
-        }
-      ]
-    },
-    {
       "slug": "urgench-ulli-hovli",
       "category": "attraction",
       "region": "Urgench",
@@ -2347,10 +1970,6 @@
         {
           "type": "invented-specifics",
           "quote": "peak anywhere from 11am to 11pm"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "The calm window is 7am to 9am on weekends"
         }
       ]
     },
@@ -2392,25 +2011,10 @@
       ]
     },
     {
-      "slug": "annecy-basilique-de-la-visitation",
-      "category": "attraction",
-      "region": "Annecy",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "weekends, that quiet window narrows to 8am–10am"
-        }
-      ]
-    },
-    {
       "slug": "taroko-gorge-xiangde-temple",
       "category": "attraction",
       "region": "Taroko Gorge",
       "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "Weekends get busiest between 10am and 2pm"
-        },
         {
           "type": "invented-specifics",
           "quote": "Bring cash coins for the incense if you want to make an offering"
@@ -2518,17 +2122,6 @@
       ]
     },
     {
-      "slug": "toledo-puy-du-fou-espana",
-      "category": "attraction",
-      "region": "Toledo",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "busy day, with crowds building steadily from 10am through to 11pm"
-        }
-      ]
-    },
-    {
       "slug": "boston-the-paul-revere-house",
       "category": "attraction",
       "region": "Boston",
@@ -2562,17 +2155,6 @@
       ]
     },
     {
-      "slug": "austin-lady-bird-johnson-wildflower-center",
-      "category": "attraction",
-      "region": "Austin",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "peaks between 10am and 3pm"
-        }
-      ]
-    },
-    {
       "slug": "phnom-penh-central-market",
       "category": "hidden-gem",
       "region": "Phnom Penh",
@@ -2602,10 +2184,6 @@
         {
           "type": "invented-specifics",
           "quote": "Senzu Kannon or sometimes described as memorials for miscarried and stillborn children"
-        },
-        {
-          "type": "other-glaring",
-          "quote": "Busiest stretch: 11am-4pm on weekends"
         }
       ]
     },
@@ -2657,10 +2235,6 @@
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "Weekends between 10am and 5pm draw the heaviest foot traffic"
-        },
-        {
-          "type": "invented-specifics",
           "quote": "the last hour before closing, from 7pm to 8pm, is noticeably quieter"
         }
       ]
@@ -2710,17 +2284,6 @@
       ]
     },
     {
-      "slug": "hue-thien-mu-pagoda",
-      "category": "attraction",
-      "region": "Hue",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "Both weekdays and weekends are calmest from 7am to 9am, right at opening"
-        }
-      ]
-    },
-    {
       "slug": "jurong-chinese-garden",
       "category": "attraction",
       "region": "Jurong",
@@ -2732,17 +2295,6 @@
         {
           "type": "invented-specifics",
           "quote": "a full walking loop takes about 90 minutes without stops"
-        }
-      ]
-    },
-    {
-      "slug": "chinatown-buddha-tooth-relic-temple",
-      "category": "attraction",
-      "region": "Chinatown",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Weekends get busiest from 11am to 4pm"
         }
       ]
     },
@@ -2909,17 +2461,6 @@
       ]
     },
     {
-      "slug": "yilan-lanyang-museum",
-      "category": "attraction",
-      "region": "Yilan",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "the busiest stretch running from 10am to 5pm on Saturdays and Sundays"
-        }
-      ]
-    },
-    {
       "slug": "kanazawa-higashi-chaya-district",
       "category": "attraction",
       "region": "Kanazawa",
@@ -3041,17 +2582,6 @@
       ]
     },
     {
-      "slug": "cappadocia-uchisar-castle",
-      "category": "attraction",
-      "region": "Cappadocia",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "Weekend visits get busy between 10am and 7pm."
-        }
-      ]
-    },
-    {
       "slug": "kota-kinabalu-atkinson-clock-tower",
       "category": "attraction",
       "region": "Kota Kinabalu",
@@ -3070,17 +2600,6 @@
         {
           "type": "invented-specifics",
           "quote": "aim for the window from 7am to 10pm on quieter weekdays"
-        }
-      ]
-    },
-    {
-      "slug": "da-nang-my-son",
-      "category": "attraction",
-      "region": "Da Nang",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "Crowd data shows weekends get genuinely busy between 9am and 1pm"
         }
       ]
     },
@@ -3218,17 +2737,6 @@
       "proseError": "Unexpected non-whitespace character after JSON at position 8"
     },
     {
-      "slug": "jordan-australia-dairy-company",
-      "category": "restaurant",
-      "region": "Jordan",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Weekends are consistently busy from 10am through 9pm"
-        }
-      ]
-    },
-    {
       "slug": "ha-long-bay-quang-ninh-museum",
       "category": "attraction",
       "region": "Ha Long Bay",
@@ -3273,17 +2781,6 @@
         {
           "type": "invented-specifics",
           "quote": "Pay at the counter"
-        }
-      ]
-    },
-    {
-      "slug": "khiva-kalta-minor-minaret",
-      "category": "hidden-gem",
-      "region": "Khiva",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Weekends get busy from 10am straight through to 11pm"
         }
       ]
     },
@@ -3492,17 +2989,6 @@
       ]
     },
     {
-      "slug": "baguio-oh-my-gulay",
-      "category": "restaurant",
-      "region": "Baguio",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "aim for a weekday evening between 7pm and 8pm, the quietest window by a clear margin"
-        }
-      ]
-    },
-    {
       "slug": "guangzhou-temple-of-the-six-banyan-trees",
       "category": "attraction",
       "region": "Guangzhou",
@@ -3660,17 +3146,6 @@
       ]
     },
     {
-      "slug": "sukhothai-sukhothai-buddha-park",
-      "category": "attraction",
-      "region": "Sukhothai",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "On weekdays, it's calmest between 11am and 3pm."
-        }
-      ]
-    },
-    {
       "slug": "phong-nha-phong-nha-ke-bang-national-park",
       "category": "hidden-gem",
       "region": "Phong Nha",
@@ -3688,17 +3163,6 @@
       ]
     },
     {
-      "slug": "portland-pittock-mansion",
-      "category": "attraction",
-      "region": "Portland",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "Crowd data shows weekdays stay quiet all day, from opening at 9am through to close."
-        }
-      ]
-    },
-    {
       "slug": "jurong-japanese-garden",
       "category": "hidden-gem",
       "region": "Jurong",
@@ -3706,17 +3170,6 @@
         {
           "type": "other-glaring",
           "quote": "aim for a weekday morning or slip in after dinner for a quiet evening walk"
-        }
-      ]
-    },
-    {
-      "slug": "goa-shri-nageshi-temple",
-      "category": "attraction",
-      "region": "Goa",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "quietest between 7am and 9am, right after opening"
         }
       ]
     },

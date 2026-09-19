@@ -19,13 +19,17 @@ faq:
 
 ## Qué es Sabato's
 
-Sabato's es el animado restaurante ítalo-americano ubicado dentro del Kimpton Naluria, el hotel Kimpton que da anclaje al distrito financiero de Tun Razak Exchange (TRX) en Kuala Lumpur. El concepto apuesta fuerte por un ambiente neoyorquino de los años 70 —piensa en la energía de la era disco, la señalética retro y un menú de salsa roja pensado para compartir en lugar de la alta cocina recargada—. Es el tipo de lugar diseñado para ser ruidoso, nostálgico y abiertamente social, lo que lo distingue de los comedores más contenidos y minimalistas que dominan la escena gastronómica de alta gama de KL.
+Sabato's es el animado restaurante ítalo-americano ubicado dentro del Kimpton Naluria, el hotel Kimpton que da anclaje al distrito financiero de Tun Razak Exchange (TRX) en Kuala Lumpur. El concepto apuesta fuerte por un ambiente neoyorquino de los años 70 —piensa en la energía de la era disco, la señalética retro y un menú de salsa roja pensado para compartir en lugar de la alta cocina recargada—.
+
+Es el tipo de lugar diseñado para ser ruidoso, nostálgico y abiertamente social, lo que lo distingue de los comedores más contenidos y minimalistas que dominan la escena gastronómica de alta gama de KL.
 
 Dado que los hoteles Kimpton son conocidos por sus propiedades boutique, de diseño vanguardista y con un toque lúdico, Sabato's encaja con ese ADN: es menos un "restaurante de hotel" y más un destino independiente que da la casualidad de estar dentro de uno. Espera una banda sonora y un interior que cuentan gran parte de la historia por sí mismos: iluminación de inspiración vintage, guiños a la bola de discoteca y un comedor construido para sentirse como un supper club del centro de Nueva York más que como un discreto restaurante de lobby de hotel en KL.
 
 ## Cómo llegar
 
-TRX es uno de los distritos comerciales y de estilo de vida más nuevos de Kuala Lumpur, construido a propósito con su propio intercambiador de MRT: la estación TRX MRT, en la línea Kajang, que además conecta con la línea Circle (MRT2), lo que la convierte en uno de los destinos de los nuevos desarrollos más fáciles de alcanzar sin coche. Desde la estación, el Kimpton Naluria y el complejo comercial TRX Exchange TRX mall están a un corto y bien señalizado paseo a través de las pasarelas elevadas del desarrollo, algo útil durante los frecuentes aguaceros vespertinos de KL. Si llegas en coche o pidiendo un servicio (Grab es la aplicación estándar en la zona), el hotel cuenta con una zona de acceso techada (porte-cochère) para dejar pasajeros, y TRX dispone de varios estacionamientos de pago vinculados al centro comercial.
+TRX es uno de los distritos comerciales y de estilo de vida más nuevos de Kuala Lumpur, construido a propósito con su propio intercambiador de MRT: la estación TRX MRT, en la línea Kajang, que además conecta con la línea Circle (MRT2), lo que la convierte en uno de los destinos de los nuevos desarrollos más fáciles de alcanzar sin coche.
+
+Desde la estación, el Kimpton Naluria y el complejo comercial TRX Exchange TRX mall están a un corto y bien señalizado paseo a través de las pasarelas elevadas del desarrollo, algo útil durante los frecuentes aguaceros vespertinos de KL. Si llegas en coche o pidiendo un servicio (Grab es la aplicación estándar en la zona), el hotel cuenta con una zona de acceso techada (porte-cochère) para dejar pasajeros, y TRX dispone de varios estacionamientos de pago vinculados al centro comercial.
 
 Dado que Sabato's se encuentra dentro de un hotel en un distrito todavía en desarrollo, vale la pena confirmar la entrada exacta y si se accede al restaurante desde el lobby del hotel o por una entrada independiente a nivel de calle, ya que la señalización en los desarrollos más nuevos de KL a veces va por detrás del entusiasmo por la apertura.
 
@@ -43,4 +47,6 @@ Se recomienda encarecidamente reservar en una apertura de moda como esta; llama 
 
 ## Alrededores y consejos
 
-TRX en sí merece ser el eje de una velada: el distrito incluye el TRX Park, un espacio verde elevado, y el centro comercial de TRX City, así que es fácil incluir un paseo antes o después de la cena. La zona también está a un corto trayecto en MRT de KLCC y Bukit Bintang, por si quieres complementar la cena con la vida nocturna o las compras más consolidadas de KL. El código de vestimenta probablemente sea smart-casual, dado el concepto de lounge retro, pero confírmalo con el hotel si planeas una visita para una ocasión especial.
+TRX en sí merece ser el eje de una velada: el distrito incluye el TRX Park, un espacio verde elevado, y el centro comercial de TRX City, así que es fácil incluir un paseo antes o después de la cena. La zona también está a un corto trayecto en MRT de KLCC y Bukit Bintang, por si quieres complementar la cena con la vida nocturna o las compras más consolidadas de KL.
+
+El código de vestimenta probablemente sea smart-casual, dado el concepto de lounge retro, pero confírmalo con el hotel si planeas una visita para una ocasión especial.

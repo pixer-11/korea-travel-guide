@@ -66,15 +66,21 @@ draft: true
 
 ## Why go
 
-Yogyakarta's dining scene is dominated by gudeg, angkringan carts, and Javanese warungs, so a restaurant built entirely around Hong Kong street-food staples stands out. Hong Kong Street Foods has built a strong local reputation (4.7 stars across nearly 1,200 reviews) without yet becoming a fixture on international tourist itineraries — which means you can walk in on most weeknights and actually get a table. The appeal is straightforward: char siu (barbecued pork) with that glossy caramelized edge, wonton noodle soup with thin egg noodles and springy shrimp-pork dumplings, and other Cantonese-style snacks that are hard to find elsewhere in the city.
+Yogyakarta's dining scene is dominated by gudeg, angkringan carts, and Javanese warungs, so a restaurant built entirely around Hong Kong street-food staples stands out. Hong Kong Street Foods has built a strong local reputation (4.7 stars across nearly 1,200 reviews) without yet becoming a fixture on international tourist itineraries — which means you can walk in on most weeknights and actually get a table.
+
+The appeal is straightforward: char siu (barbecued pork) with that glossy caramelized edge, wonton noodle soup with thin egg noodles and springy shrimp-pork dumplings, and other Cantonese-style snacks that are hard to find elsewhere in the city.
 
 ## Where it is and getting there
 
-The restaurant sits on Jl. A.M. Sangaji No. 88, in Karangwaru, Kecamatan Tegalrejo — a district just north of the old city core, roughly a 10–15 minute drive (or Grab/Gojek ride) from Malioboro Street and Tugu Yogyakarta, the iconic monument-roundabout landmark. Jl. A.M. Sangaji is a main thoroughfare connecting Tugu Station to the northern ring road, so it's easy to find via any ride-hailing app; drivers know the street well since it's lined with other eateries and shops. If you're coming from Tugu Station (Yogyakarta's main train station), it's a short hop north — cheaper and faster by motorbike taxi than by car given the area's narrow side streets.
+The restaurant sits on Jl. A.M. Sangaji No. 88, in Karangwaru, Kecamatan Tegalrejo — a district just north of the old city core, roughly a 10–15 minute drive (or Grab/Gojek ride) from Malioboro Street and Tugu Yogyakarta, the iconic monument-roundabout landmark. Jl. A.M. Sangaji is a main thoroughfare connecting Tugu Station to the northern ring road, so it's easy to find via any ride-hailing app; drivers know the street well since it's lined with other eateries and shops.
+
+If you're coming from Tugu Station (Yogyakarta's main train station), it's a short hop north — cheaper and faster by motorbike taxi than by car given the area's narrow side streets.
 
 ## What to eat
 
-Expect a menu built around Hong Kong cha chaan teng (tea restaurant) staples rather than fine-dining dim sum. Priority orders: char siu rice or char siu noodles, wonton mee (wonton noodle soup), and any siu mai or dumpling appetizers on offer. Many dishes lean toward comfort-food portions rather than delicate small plates, so it suits a full sit-down meal rather than a grazing snack stop. Because the restaurant trades on being a "street foods" concept, dishes are generally fast-fired and served quickly — don't expect a long, leisurely tasting menu format.
+Expect a menu built around Hong Kong cha chaan teng (tea restaurant) staples rather than fine-dining dim sum. Priority orders: char siu rice or char siu noodles, wonton mee (wonton noodle soup), and any siu mai or dumpling appetizers on offer. Many dishes lean toward comfort-food portions rather than delicate small plates, so it suits a full sit-down meal rather than a grazing snack stop.
+
+Because the restaurant trades on being a "street foods" concept, dishes are generally fast-fired and served quickly — don't expect a long, leisurely tasting menu format.
 
 ## When to go
 
@@ -82,8 +88,14 @@ Lunch (roughly midday) and early dinner tend to be calmer than peak dinner hours
 
 ## How to visit like a local
 
-Order at your table or at a counter (practice varies by casual restaurants of this type in Yogyakarta) and expect to pay by cash or via QRIS, Indonesia's near-universal QR mobile payment system — most local eateries now accept it even if they look informal, and it's usually faster than counting out small bills. Tipping is not customary in Indonesian restaurants of this category; rounding up the bill is a friendly optional gesture rather than an expectation. Since this restaurant is still relatively under-the-radar and not yet a bucket-list tourist stop, it draws a genuine mix of nearby residents and Chinese-Indonesian diners rather than tour groups — arriving without an English-forward menu expectation and simply pointing at photos of char siu or wonton noodles works fine if there's a language gap. The most common mistake visitors make is treating it like an upscale dim sum brunch: it's closer in spirit to a Hong Kong street-side noodle shop, so come hungry for hearty single dishes rather than expecting a shared multi-course spread. Because portions are generous, it's easy to share two mains between two people if you also want to sample a side dish or drink like Hong Kong-style milk tea, which pairs naturally with the char siu.
+Order at your table or at a counter (practice varies by casual restaurants of this type in Yogyakarta) and expect to pay by cash or via QRIS, Indonesia's near-universal QR mobile payment system — most local eateries now accept it even if they look informal, and it's usually faster than counting out small bills. Tipping is not customary in Indonesian restaurants of this category; rounding up the bill is a friendly optional gesture rather than an expectation.
+
+Since this restaurant is still relatively under-the-radar and not yet a bucket-list tourist stop, it draws a genuine mix of nearby residents and Chinese-Indonesian diners rather than tour groups — arriving without an English-forward menu expectation and simply pointing at photos of char siu or wonton noodles works fine if there's a language gap. The most common mistake visitors make is treating it like an upscale dim sum brunch: it's closer in spirit to a Hong Kong street-side noodle shop, so come hungry for hearty single dishes rather than expecting a shared multi-course spread.
+
+Because portions are generous, it's easy to share two mains between two people if you also want to sample a side dish or drink like Hong Kong-style milk tea, which pairs naturally with the char siu.
 
 ## Nearby to combine with your visit
 
-Tugu Yogyakarta and Tugu Station are close enough to combine with a meal here — visit the monument in late afternoon light, then head to Jl. A.M. Sangaji for dinner. Malioboro Street, with its shopping and street performers, is a further short ride south and makes sense as a bookend for an evening that starts or ends with a Hong Kong-style meal in Tegalrejo. Given the restaurant's residential-adjacent location, there aren't major tourist attractions immediately next door, so treat it as a deliberate food-focused detour rather than a stop you'll stumble upon while sightseeing.
+Tugu Yogyakarta and Tugu Station are close enough to combine with a meal here — visit the monument in late afternoon light, then head to Jl. A.M. Sangaji for dinner. Malioboro Street, with its shopping and street performers, is a further short ride south and makes sense as a bookend for an evening that starts or ends with a Hong Kong-style meal in Tegalrejo.
+
+Given the restaurant's residential-adjacent location, there aren't major tourist attractions immediately next door, so treat it as a deliberate food-focused detour rather than a stop you'll stumble upon while sightseeing.

@@ -42,7 +42,9 @@ On the food side, podi edamame, edamame tossed in South Indian gunpowder spice, 
 
 ## Getting there
 
-Kadamba sits in Madhapur, on the edge of Durgam Cheruvu, in the heart of Hyderabad's HITEC City / Gachibowli tech corridor. This is the same stretch of the city that includes Jubilee Hills and Kondapur, so if you're staying near those neighborhoods or around Banjara Hills, it's a short drive of roughly 15–25 minutes depending on traffic. The Hyderabad Metro's Blue Line has a Durgam Cheruvu station, built specifically to serve the lake precinct with a rooftop view deck of its own. It's the most direct public transport option, leaving a walkable distance to the lakeside bars and cafés that have sprung up in the area.
+Kadamba sits in Madhapur, on the edge of Durgam Cheruvu, in the heart of Hyderabad's HITEC City / Gachibowli tech corridor. This is the same stretch of the city that includes Jubilee Hills and Kondapur, so if you're staying near those neighborhoods or around Banjara Hills, it's a short drive of roughly 15–25 minutes depending on traffic. The Hyderabad Metro's Blue Line has a Durgam Cheruvu station, built specifically to serve the lake precinct with a rooftop view deck of its own.
+
+It's the most direct public transport option, leaving a walkable distance to the lakeside bars and cafés that have sprung up in the area.
 
 Autos and ride-hailing apps are the easier fallback if you're coming from further out, since parking near the lake can be tight on weekend evenings.
 

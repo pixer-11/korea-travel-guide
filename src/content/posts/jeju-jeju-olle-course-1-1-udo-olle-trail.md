@@ -107,11 +107,15 @@ updatedDate: '2026-09-05'
 
 ## Why go
 
-Course 1-1 is a spur of Jeju's famous Olle Trail network, laid out entirely on Udo (literally "Cow Island"), a small volcanic islet a short ferry ride from Jeju's east coast. Unlike the mainland Jeju routes, this one circles an island within an island (roughly 11.5km of coastal path taking in black basalt shorelines, turquoise shallows, grazing cattle in open pasture, and a lighthouse-topped hill with sweeping views back toward Seongsan Ilchulbong, Jeju's iconic tuff cone. It's popular precisely because Udo packs an outsized variety of scenery) beach, cliff, farmland, fishing village, into an island you can circle in a few hours. With a 4.5 rating across local reviews, it's consistently rated as one of the more rewarding Olle detours, especially for visitors who want a lower-key alternative to Jeju's more crowded main-island hikes.
+Course 1-1 is a spur of Jeju's famous Olle Trail network, laid out entirely on Udo (literally "Cow Island"), a small volcanic islet a short ferry ride from Jeju's east coast. Unlike the mainland Jeju routes, this one circles an island within an island (roughly 11.5km of coastal path taking in black basalt shorelines, turquoise shallows, grazing cattle in open pasture, and a lighthouse-topped hill with sweeping views back toward Seongsan Ilchulbong, Jeju's iconic tuff cone.
+
+It's popular precisely because Udo packs an outsized variety of scenery) beach, cliff, farmland, fishing village, into an island you can circle in a few hours. With a 4.5 rating across local reviews, it's consistently rated as one of the more rewarding Olle detours, especially for visitors who want a lower-key alternative to Jeju's more crowded main-island hikes.
 
 ## Getting there
 
-Udo is reached by ferry from Seongsan Port (Seongsan-ri, Seongsan-eup) on Jeju's northeastern coast, roughly 40–50 minutes by car or bus from Jeju City. Ferries run frequently during daylight hours, crossings take about 15 minutes, and both passenger ferries and car ferries operate, though most visitors leave vehicles on the mainland and get around Udo on foot, bicycle, or rented electric scooter/cart. There's also a smaller departure point at Jongdal Port nearby with limited sailings. Buy ferry tickets at the port counter with ID in hand (Udo requires a basic passenger manifest); schedules shift with weather and season, so it's worth confirming the day's timetable locally rather than relying on old timetables, since strong winds can suspend service.
+Udo is reached by ferry from Seongsan Port (Seongsan-ri, Seongsan-eup) on Jeju's northeastern coast, roughly 40–50 minutes by car or bus from Jeju City. Ferries run frequently during daylight hours, crossings take about 15 minutes, and both passenger ferries and car ferries operate, though most visitors leave vehicles on the mainland and get around Udo on foot, bicycle, or rented electric scooter/cart.
+
+There's also a smaller departure point at Jongdal Port nearby with limited sailings. Buy ferry tickets at the port counter with ID in hand (Udo requires a basic passenger manifest); schedules shift with weather and season, so it's worth confirming the day's timetable locally rather than relying on old timetables, since strong winds can suspend service.
 
 ## What to see and do
 
@@ -130,4 +134,6 @@ Late spring (April–June) brings green barley and canola fields inland and comf
 
 ## Nearby & tips
 
-Pair the trip with Seongsan Ilchulbong itself, visible from Udo and climbable back on the mainland (many visitors do both in a single day, ferry over to Udo in the morning and hike Ilchulbong in the late afternoon. Bring cash in small denominations for bike/scooter rental deposits and beachside food stalls, and check the last return ferry time before setting off, since missing it means an overnight stay on a small island with limited lodging. Sun protection matters more than expected on the exposed hilltop and beach stretches) there's little shade along most of the loop.
+Pair the trip with Seongsan Ilchulbong itself, visible from Udo and climbable back on the mainland (many visitors do both in a single day, ferry over to Udo in the morning and hike Ilchulbong in the late afternoon. Bring cash in small denominations for bike/scooter rental deposits and beachside food stalls, and check the last return ferry time before setting off, since missing it means an overnight stay on a small island with limited lodging.
+
+Sun protection matters more than expected on the exposed hilltop and beach stretches) there's little shade along most of the loop.

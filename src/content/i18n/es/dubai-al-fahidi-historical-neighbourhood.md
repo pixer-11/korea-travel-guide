@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: dubai-al-fahidi-historical-neighbourhood
-srcHash: 'eabb635fea8e'
+srcHash: '2565771f753d'
 title: 'Barrio Histórico de Al Fahidi: Guía de Viaje de Dubái'
 description: El Barrio Histórico de Al Fahidi, en el lado de Bur Dubai del Creek cerca de la estación de metro Al Fahidi (línea verde), es el casco antiguo mejor conservado de Dubái.
 quickAnswer: 'El Barrio Histórico de Al Fahidi, en el lado de Bur Dubai del Creek cerca de la estación de metro Al Fahidi (línea verde), es el casco antiguo mejor conservado de Dubái: un laberinto de casas de coral y yeso con torres de viento, hoy repleto de museos, galerías y cafés. Reserva entre 2 y 3 horas, ve en las horas más frescas de la mañana o después del atardecer, y combínalo con un paseo hasta el Zoco Textil y un paseo en abra cruzando el Creek.'

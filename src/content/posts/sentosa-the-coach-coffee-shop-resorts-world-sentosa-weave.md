@@ -51,15 +51,21 @@ draft: true
 
 ## Why go
 
-The Coach Coffee Shop sits inside WEAVE, the newer lifestyle-and-dining cluster at Resorts World Sentosa (RWS), and it has built a loyal following fast — a 4.9 rating from over 4,100 reviews is unusually high for a resort café. The name and interior riff on old-world coach travel: think tactile textures, warm wood, and travel-trunk styling that photograph well without tipping into gimmick territory. It works equally as a coffee stop between Sentosa attractions or as a sit-down brunch destination in its own right, which is why it draws both theme-park day-trippers and people making a dedicated visit.
+The Coach Coffee Shop sits inside WEAVE, the newer lifestyle-and-dining cluster at Resorts World Sentosa (RWS), and it has built a loyal following fast — a 4.9 rating from over 4,100 reviews is unusually high for a resort café. The name and interior riff on old-world coach travel: think tactile textures, warm wood, and travel-trunk styling that photograph well without tipping into gimmick territory.
+
+It works equally as a coffee stop between Sentosa attractions or as a sit-down brunch destination in its own right, which is why it draws both theme-park day-trippers and people making a dedicated visit.
 
 ## Getting there
 
-The address is 26 Sentosa Gateway, #01-224/225/226, Singapore 098138 — inside the WEAVE building at RWS, on Sentosa island. The simplest route from mainland Singapore is the Sentosa Express monorail from Vivocity (Level 3, above HarbourFront MRT interchange, served by the North East Line and Circle Line); alight at Waterfront Station, which puts you within a short walk of WEAVE. Alternatively, walk across the Sentosa Boardwalk from HarbourFront if you don't mind a 15–20 minute stroll, or take a taxi/ride-hail directly to RWS, where WEAVE is signposted among the resort's dining precincts. If you're combining the visit with Universal Studios Singapore, S.E.A. Aquarium, or the Waterfront promenade, the café makes a natural pause point since it's centrally placed within RWS rather than tucked off to one side.
+The address is 26 Sentosa Gateway, #01-224/225/226, Singapore 098138 — inside the WEAVE building at RWS, on Sentosa island. The simplest route from mainland Singapore is the Sentosa Express monorail from Vivocity (Level 3, above HarbourFront MRT interchange, served by the North East Line and Circle Line); alight at Waterfront Station, which puts you within a short walk of WEAVE.
+
+Alternatively, walk across the Sentosa Boardwalk from HarbourFront if you don't mind a 15–20 minute stroll, or take a taxi/ride-hail directly to RWS, where WEAVE is signposted among the resort's dining precincts. If you're combining the visit with Universal Studios Singapore, S.E.A. Aquarium, or the Waterfront promenade, the café makes a natural pause point since it's centrally placed within RWS rather than tucked off to one side.
 
 ## What to see / eat
 
-Expect a menu built around specialty coffee (espresso-based drinks alongside pour-over or single-origin options depending on the day) paired with an all-day brunch and light-meal menu — think egg dishes, toasts, and pastries that suit either a quick espresso stop or a slower sit-down meal. The interior itself is worth the visit: coach-and-travel motifs, warm lighting, and considered furniture make it one of the more design-forward cafés on Sentosa, distinct from the theme-park food-court energy nearby. Give it 45 minutes for a coffee-and-pastry stop, or up to 75–90 minutes if you're settling in for brunch. Because RWS is a self-contained resort, plan to explore WEAVE's other dining and retail units either before or after — it's designed as a walkable cluster, not a single standalone shop.
+Expect a menu built around specialty coffee (espresso-based drinks alongside pour-over or single-origin options depending on the day) paired with an all-day brunch and light-meal menu — think egg dishes, toasts, and pastries that suit either a quick espresso stop or a slower sit-down meal. The interior itself is worth the visit: coach-and-travel motifs, warm lighting, and considered furniture make it one of the more design-forward cafés on Sentosa, distinct from the theme-park food-court energy nearby.
+
+Give it 45 minutes for a coffee-and-pastry stop, or up to 75–90 minutes if you're settling in for brunch. Because RWS is a self-contained resort, plan to explore WEAVE's other dining and retail units either before or after — it's designed as a walkable cluster, not a single standalone shop.
 
 ## When to go
 
@@ -67,5 +73,9 @@ Weekday mornings (roughly opening time through mid-morning) are the calmest wind
 
 ## How to visit like a local
 
-This is a well-known, well-reviewed café rather than an under-the-radar find, so treat it accordingly: expect a queue or a wait for seating at peak meal times, and don't count on walking straight in around midday on a weekend. Payment across RWS venues is overwhelmingly cashless — card and mobile payment (PayNow, Apple Pay, Google Pay) are standard, and tipping is not customary in Singapore since a service charge is typically already added to the bill, so there's no need to leave extra. If you want a table without a wait, arrive right at opening or aim for the post-lunch lull around 2:30–4:30pm. The most common visitor mistake is treating WEAVE like a quick pass-through between attractions and rushing the order — the café rewards a slower visit, and going mid-morning on a weekday lets you actually enjoy the design details instead of eating standing up. If you're only after coffee to go, ordering at the counter rather than waiting for table service is faster and perfectly normal here.
+This is a well-known, well-reviewed café rather than an under-the-radar find, so treat it accordingly: expect a queue or a wait for seating at peak meal times, and don't count on walking straight in around midday on a weekend. Payment across RWS venues is overwhelmingly cashless — card and mobile payment (PayNow, Apple Pay, Google Pay) are standard, and tipping is not customary in Singapore since a service charge is typically already added to the bill, so there's no need to leave extra.
+
+If you want a table without a wait, arrive right at opening or aim for the post-lunch lull around 2:30–4:30pm. The most common visitor mistake is treating WEAVE like a quick pass-through between attractions and rushing the order — the café rewards a slower visit, and going mid-morning on a weekday lets you actually enjoy the design details instead of eating standing up.
+
+If you're only after coffee to go, ordering at the counter rather than waiting for table service is faster and perfectly normal here.
 

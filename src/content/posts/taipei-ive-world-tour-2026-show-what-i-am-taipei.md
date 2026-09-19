@@ -48,7 +48,9 @@ An IVE arena night tends to announce itself before you see the building. Lightst
 
 ## Why this stop mattered
 
-IVE's SHOW WHAT I AM World Tour was built around the group's run of chart-topping singles, and Taipei's inclusion as a multi-night stop signaled how deep their fanbase runs in Taiwan. "After Like" and "Love Dive", two of the most inescapable K-pop tracks of the past few years, were expected to anchor the setlist alongside material from their newer EP. A three-night booking at an arena this size is not a small commitment for a touring act, and it put Taipei in the same tier of stops as the tour's other major Asian cities.
+IVE's SHOW WHAT I AM World Tour was built around the group's run of chart-topping singles, and Taipei's inclusion as a multi-night stop signaled how deep their fanbase runs in Taiwan. "After Like" and "Love Dive", two of the most inescapable K-pop tracks of the past few years, were expected to anchor the setlist alongside material from their newer EP.
+
+A three-night booking at an arena this size is not a small commitment for a touring act, and it put Taipei in the same tier of stops as the tour's other major Asian cities.
 
 ## Getting to Taipei Arena
 

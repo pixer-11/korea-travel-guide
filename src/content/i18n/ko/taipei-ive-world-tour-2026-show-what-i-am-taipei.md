@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: taipei-ive-world-tour-2026-show-what-i-am-taipei
-srcHash: '33e03382de1e'
+srcHash: '1361f82058ec'
 title: '아이브 월드투어 2026 ''SHOW WHAT I AM'' 타이베이 공연: 미리 알아두면 좋은 것들 (타이베이)'
 description: 아이브의 월드투어 'SHOW WHAT I AM'은 2026년 9월 11일부터 13일까지 타이베이 아레나에서 사흘간 열릴 예정이었습니다. 발표된 내용과 공연장, 주변 지역 정보를 정리했습니다.
 quickAnswer: 아이브의 월드투어 'SHOW WHAT I AM'은 2026년 9월 11일부터 13일까지 쑹산구(Songshan District)에 위치한 타이베이 아레나에서 사흘간 열릴 예정이었습니다. 이번 아레나 공연에서는 'After Like', 'Love Dive'와 새 EP 수록곡들이 핵심 곡으로 발표되었습니다. 날짜 외에 티켓 판매 세부사항, 정확한 입장 시간, 세트리스트에 관한 구체적인 내용은 발표에 포함되지 않았습니다.

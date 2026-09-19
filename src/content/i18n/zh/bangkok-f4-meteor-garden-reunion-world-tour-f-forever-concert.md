@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bangkok-f4-meteor-garden-reunion-world-tour-f-forever-concert
-srcHash: '332fce5252c6'
+srcHash: '1852ff394218'
 title: F4（流星花园）重聚世界巡演——F-Forever演唱会：曼谷场必知信息
 description: F4（流星花园）重聚世界巡演——F-Forever演唱会，泰国曼谷站，2026年8月1日至2日。演出内容、时间地点，以及行程规划建议。
 quickAnswer: F4——言承旭（Jerry Yan）、吴建豪（Vanness Wu）、周渝民（Vic Chou），这三人在21世纪初凭借《流星花园》红遍整个亚洲——将于2026年8月1日至2日在曼谷IMPACT Arena重聚两晚同台演出，五月天主唱阿信也将作为特别嘉宾登台。这是他们重聚世界巡演的首站，预计将吸引来自东南亚、台湾及中国大陆的大量歌迷关注；订机票、订酒店前，请务必在官方巡演渠道及IMPACT Arena官方信息中确认具体演出时间、票价档位及开售日期。

@@ -84,11 +84,15 @@ Arabian Tea House is one of the most talked-about places to eat in Sharjah, and 
 
 ## Getting there
 
-The restaurant sits inside Souq Al Shanasiyah on Corniche Street in Al Merijah, within the Heart of Sharjah heritage quarter — the emirate's restored old town near the Sharjah Creek (Khalid Lagoon) waterfront. This puts it walking distance from other Heart of Sharjah landmarks such as the Sharjah Heritage Museum, Al Shanasiyah's traditional wind-tower buildings, and the Sharjah Art Museum area a little further along. If you're coming from Dubai, the drive along Sheikh Mohammed Bin Zayed Road or the coastal route typically takes 25–40 minutes depending on traffic; from central Sharjah, a short taxi or rideshare from the Central Souq (Blue Souq) area is usually the easiest option, since the surrounding heritage streets are pedestrian-friendly but not well served by bus routes. There's limited street parking nearby, so many visitors park near the Corniche and walk in.
+The restaurant sits inside Souq Al Shanasiyah on Corniche Street in Al Merijah, within the Heart of Sharjah heritage quarter — the emirate's restored old town near the Sharjah Creek (Khalid Lagoon) waterfront. This puts it walking distance from other Heart of Sharjah landmarks such as the Sharjah Heritage Museum, Al Shanasiyah's traditional wind-tower buildings, and the Sharjah Art Museum area a little further along.
+
+If you're coming from Dubai, the drive along Sheikh Mohammed Bin Zayed Road or the coastal route typically takes 25–40 minutes depending on traffic; from central Sharjah, a short taxi or rideshare from the Central Souq (Blue Souq) area is usually the easiest option, since the surrounding heritage streets are pedestrian-friendly but not well served by bus routes. There's limited street parking nearby, so many visitors park near the Corniche and walk in.
 
 ## What to eat
 
-Start with karak — the spiced, condensed-milk tea that's practically the house signature — alongside chebab bread (a slightly sweet, pancake-like flatbread) or regag, a paper-thin crepe often folded with cheese or egg. For something more substantial, look for machboos (spiced rice with chicken or lamb), harees (a wheat-and-meat porridge slow-cooked to a smooth consistency), and balaleet, the sweet-savory vermicelli-and-egg dish traditionally eaten at breakfast. The menu also runs through mezze staples — hummus, moutabal, and fattoush — for those who want a lighter, shareable spread. Portions are generally sized for sharing, so ordering a few small plates across the table works better than one dish per person.
+Start with karak — the spiced, condensed-milk tea that's practically the house signature — alongside chebab bread (a slightly sweet, pancake-like flatbread) or regag, a paper-thin crepe often folded with cheese or egg. For something more substantial, look for machboos (spiced rice with chicken or lamb), harees (a wheat-and-meat porridge slow-cooked to a smooth consistency), and balaleet, the sweet-savory vermicelli-and-egg dish traditionally eaten at breakfast.
+
+The menu also runs through mezze staples — hummus, moutabal, and fattoush — for those who want a lighter, shareable spread. Portions are generally sized for sharing, so ordering a few small plates across the table works better than one dish per person.
 
 ## When to go
 
@@ -96,7 +100,9 @@ Breakfast and mid-morning (roughly 8–11 am) is when the traditional Emirati di
 
 ## How to visit like a local
 
-Given how popular this spot has become, the practical move is timing rather than trying to find it "undiscovered" — it isn't, and weekend evenings routinely mean a wait for a table. Arrive right at opening or in the early afternoon lull between lunch and dinner service to skip the queue. Payment is by cash or card as at most UAE restaurants, and there's no real tipping obligation, though rounding up or leaving small change is common practice. Order karak "with less sugar" (less-sukkar) if you prefer it less sweet — the default brew is quite sugary. Dress is casual but modest, in keeping with the heritage-district setting. The most common visitor mistake is treating it as a quick coffee stop and rushing through — the courtyard seating and slow tea service are the actual point, so building in real time to linger is what makes the visit worthwhile.
+Given how popular this spot has become, the practical move is timing rather than trying to find it "undiscovered" — it isn't, and weekend evenings routinely mean a wait for a table. Arrive right at opening or in the early afternoon lull between lunch and dinner service to skip the queue. Payment is by cash or card as at most UAE restaurants, and there's no real tipping obligation, though rounding up or leaving small change is common practice.
+
+Order karak "with less sugar" (less-sukkar) if you prefer it less sweet — the default brew is quite sugary. Dress is casual but modest, in keeping with the heritage-district setting. The most common visitor mistake is treating it as a quick coffee stop and rushing through — the courtyard seating and slow tea service are the actual point, so building in real time to linger is what makes the visit worthwhile.
 
 ## Nearby to pair with your visit
 

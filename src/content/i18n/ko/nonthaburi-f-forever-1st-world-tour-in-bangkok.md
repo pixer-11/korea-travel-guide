@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: nonthaburi-f-forever-1st-world-tour-in-bangkok
-srcHash: 'cdd2d5cf11d6'
+srcHash: 'b16bfce33cbb'
 title: F✦FOREVER 1st World Tour 방콕 공연 총정리 (논타부리)
 description: 2026년 8월 1~2일 태국 논타부리에서 열리는 F✦FOREVER 1st World Tour 방콕 공연에 대한 안내입니다. 공연이 무엇인지, 언제 어디서 열리는지, 어떻게 일정을 짜야 하는지 알려드립니다.
 quickAnswer: F✦FOREVER은 대만 3인조 그룹으로, "꽃보다 남자(메이저 가든)"의 F4로 잘 알려진 저리 옌(Jerry Yan), 비니 우(Van Ness Wu), 빅 저우(Vic Chou)가 재결합한 팀입니다. 여기에 마이데이(Mayday)의 아신(Ashin)이 명예 네 번째 멤버로 합류해, 2026년 8월 1일과 2일 이틀간 논타부리(Nonthaburi)의 IMPACT 아레나에서 1st World Tour의 일환으로 공연을 엽니다. 대규모 재결합 공연이니만큼 므앙통타니(Muang Thong Thani)/쨍왓타나(Chaeng Watthana) 지역의 항공권과 숙소는 서둘러 예약하시고, 정확한 날짜와 입장 시간, 티켓 등급은 여행 전에 공식 투어 채널과 IMPACT 아레나 채널에서 반드시 확인하시기 바랍니다.

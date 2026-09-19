@@ -100,7 +100,9 @@ The forest was planted in the mid-20th century, part of a reforestation effort u
 
 ## Getting there
 
-Bilar Man-Made Forest sits on the Loay Interior Road in the town of Bilar, inland Bohol, about 45 to 55 minutes by car or habal-habal (motorbike taxi) from Tagbilaran City, and roughly 15-20 minutes past the Loboc River area if you're coming from the coast. Most visitors reach it as a stop on a chartered van or tricycle countryside tour that also covers the Chocolate Hills, the Tarsier Sanctuary, and Loboc. There's no public jeepney that conveniently drops you right at the viewing deck, so a private vehicle, rented scooter, or organized tour is the practical way in.
+Bilar Man-Made Forest sits on the Loay Interior Road in the town of Bilar, inland Bohol, about 45 to 55 minutes by car or habal-habal (motorbike taxi) from Tagbilaran City, and roughly 15-20 minutes past the Loboc River area if you're coming from the coast. Most visitors reach it as a stop on a chartered van or tricycle countryside tour that also covers the Chocolate Hills, the Tarsier Sanctuary, and Loboc.
+
+There's no public jeepney that conveniently drops you right at the viewing deck, so a private vehicle, rented scooter, or organized tour is the practical way in.
 
 The road itself runs straight through the forest, so even if your itinerary doesn't list it as a stop, you'll pass through it on the way to or from the Chocolate Hills.
 

@@ -93,7 +93,9 @@ The crypt, also a paid add-on, holds the church's foundations and a quieter, coo
 
 ## When to go
 
-Weekdays are calmer throughout the day, but the real trick is timing weekends carefully: foot traffic data for the square shows it's genuinely quiet only between 7am and 10am on Saturdays and Sundays, before climbing steadily until it peaks between 11am and 9pm. If you're set on a weekend visit, arriving at or near opening is the single best move. You'll get the steps and the terrace nearly to yourself, plus softer morning light for photos of the dome. On weekdays, the crowd stays manageable across most of the day, from 7am until closer to 10pm.
+Weekdays are calmer throughout the day, but the real trick is timing weekends carefully: foot traffic data for the square shows it's genuinely quiet only between 7am and 10am on Saturdays and Sundays, before climbing steadily until it peaks between 11am and 9pm. If you're set on a weekend visit, arriving at or near opening is the single best move.
+
+You'll get the steps and the terrace nearly to yourself, plus softer morning light for photos of the dome. On weekdays, the crowd stays manageable across most of the day, from 7am until closer to 10pm.
 
 ## How to visit like a local
 

@@ -1,7 +1,7 @@
 ---
 lang: ja
 slug: bangkok-f4-meteor-garden-reunion-world-tour-f-forever-concert
-srcHash: '332fce5252c6'
+srcHash: '1852ff394218'
 title: F4(『流星花園』)再結成ワールドツアー「F-Forever コンサート」バンコク公演で知っておくべきこと
 description: 2026年8月1日~2日、タイ・バンコクで開催されるF4(『流星花園』)再結成ワールドツアー「F-Forever コンサート」について。公演内容や開催日時・場所、事前に押さえておきたいポイントを解説します。
 quickAnswer: F4――ジェリー・イェン(Jerry Yan)、ヴァネス・ウー(Vanness Wu)、ヴィック・チョウ(Vic Chou)という、2000年代初頭に『流星花園(Meteor Garden)』でアジア全域を席巻したトリオが、2026年8月1日~2日の2夜にわたってバンコクのIMPACT Arenaで再結成します。特別ゲストとしてMayday(五月天)のアシン(Ashin)も参加。今回が再結成ワールドツアーの初開催地となるため、東南アジア、台湾、中国など各地のファンによる強い需要が見込まれます。フライトやホテルを予約する前に、正式な開演時間、チケット区分、発売日については公式ツアーおよびIMPACT Arenaのチャンネルで必ず確認してください。

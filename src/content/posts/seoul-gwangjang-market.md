@@ -93,7 +93,9 @@ Either way, follow the crowds and the smell of sesame oil. The food alley is imp
 
 The signature dish is bindaetteok, a thick, crispy mung bean pancake fried on flat communal griddles right in front of you, order it plain or with kimchi and pork mixed in. Equally iconic is mayak gimbap, literally "narcotic gimbap," tiny bite-sized seaweed rice rolls served with a mustard-soy dipping sauce, named for being supposedly addictive rather than containing anything illicit.
 
-For something heartier, look for yukhoe, Korean-style raw beef tartare mixed with pear, egg yolk, and sesame, a specialty of a handful of long-running stalls in the market's interior. Other staples worth grabbing include soft tofu (sundubu), mung bean sprout bibimbap, and the market's own version of tteokbokki. Most vendors serve small, shareable portions, so the standard approach is to graze across four or five stalls rather than commit to one meal. A reasonable full circuit runs somewhere in the ₩15,000-25,000 range per person, though prices vary by stall and have crept up in recent years.
+For something heartier, look for yukhoe, Korean-style raw beef tartare mixed with pear, egg yolk, and sesame, a specialty of a handful of long-running stalls in the market's interior. Other staples worth grabbing include soft tofu (sundubu), mung bean sprout bibimbap, and the market's own version of tteokbokki. Most vendors serve small, shareable portions, so the standard approach is to graze across four or five stalls rather than commit to one meal.
+
+A reasonable full circuit runs somewhere in the ₩15,000-25,000 range per person, though prices vary by stall and have crept up in recent years.
 
 ## When to Go
 

@@ -111,15 +111,21 @@ updatedDate: '2026-09-19'
 
 ## Why go
 
-Joe's Café sits inside the Fashion Avenue wing of Dubai Mall, the section built to connect the mall's luxury retail corridor to the Burj Khalifa and Downtown Dubai. It's less a hidden find than a mall-dining institution: with a 4.9 rating across more than 25,000 reviews, it's one of the most consistently praised sit-down spots inside one of the world's busiest malls. The appeal is straightforward — a genuinely photogenic, greenery-lined dining room (think hanging plants, marble-look floors, and skylights) serving all-day breakfast, brunch, and Mediterranean-leaning café food to a mix of shoppers, tourists, and Downtown residents taking a break from the heat.
+Joe's Café sits inside the Fashion Avenue wing of Dubai Mall, the section built to connect the mall's luxury retail corridor to the Burj Khalifa and Downtown Dubai. It's less a hidden find than a mall-dining institution: with a 4.9 rating across more than 25,000 reviews, it's one of the most consistently praised sit-down spots inside one of the world's busiest malls.
+
+The appeal is straightforward — a genuinely photogenic, greenery-lined dining room (think hanging plants, marble-look floors, and skylights) serving all-day breakfast, brunch, and Mediterranean-leaning café food to a mix of shoppers, tourists, and Downtown residents taking a break from the heat.
 
 ## Getting there
 
-The café is on the first floor of Dubai Mall, in the Fashion Avenue extension, near the Star Atrium and closest to Gate 6, which links directly to the Burj Khalifa/Downtown Dubai side of the mall. If arriving by metro, take the Red Line to Burj Khalifa/Dubai Mall Station and use the air-conditioned pedestrian bridge that feeds into the mall's lower level — from there, follow signage toward Fashion Avenue and the Burj Khalifa entrance rather than the Dubai Aquarium side, which is a 10–15 minute walk in the opposite direction. Taxis and ride-hail cars can drop off at the Fashion Avenue entrance directly, which is the fastest route if you're coming from Downtown hotels like Address Downtown or Vida Downtown.
+The café is on the first floor of Dubai Mall, in the Fashion Avenue extension, near the Star Atrium and closest to Gate 6, which links directly to the Burj Khalifa/Downtown Dubai side of the mall. If arriving by metro, take the Red Line to Burj Khalifa/Dubai Mall Station and use the air-conditioned pedestrian bridge that feeds into the mall's lower level — from there, follow signage toward Fashion Avenue and the Burj Khalifa entrance rather than the Dubai Aquarium side, which is a 10–15 minute walk in the opposite direction.
+
+Taxis and ride-hail cars can drop off at the Fashion Avenue entrance directly, which is the fastest route if you're coming from Downtown hotels like Address Downtown or Vida Downtown.
 
 ## What to see and eat
 
-Fashion Avenue itself is worth building time around: it's Dubai Mall's designer wing, home to flagship boutiques and a striking domed atrium, so a coffee stop here doubles as an architecture break from shopping. At Joe's, expect an extensive all-day menu spanning eggs benedict and shakshuka-style breakfasts, avocado toast, salads, pastas, burgers, and a dedicated dessert and specialty coffee list — the kind of menu built for lingering over brunch rather than a quick bite. Portions and presentation lean toward the Instagram-friendly, which partly explains the review volume. After eating, it's a short walk to the Burj Khalifa At the Top entrance and the outdoor promenade overlooking the Dubai Fountain, best timed around dusk when the fountain shows begin.
+Fashion Avenue itself is worth building time around: it's Dubai Mall's designer wing, home to flagship boutiques and a striking domed atrium, so a coffee stop here doubles as an architecture break from shopping. At Joe's, expect an extensive all-day menu spanning eggs benedict and shakshuka-style breakfasts, avocado toast, salads, pastas, burgers, and a dedicated dessert and specialty coffee list — the kind of menu built for lingering over brunch rather than a quick bite.
+
+Portions and presentation lean toward the Instagram-friendly, which partly explains the review volume. After eating, it's a short walk to the Burj Khalifa At the Top entrance and the outdoor promenade overlooking the Dubai Fountain, best timed around dusk when the fountain shows begin.
 
 ## When to go
 
@@ -127,7 +133,9 @@ Dubai Mall as a whole is at its most crowded on Thursday and Friday evenings (th
 
 ## How to visit like a local
 
-This is a genuinely busy, well-reviewed restaurant rather than an under-the-radar spot, so the smart move is timing rather than assuming a quiet corner. Aim for a late breakfast around 9:30–10:30am on a weekday, or mid-afternoon (around 3–4pm) between the lunch and dinner rushes, when tables turn over faster. Weekend and evening waits can run long since walk-ins are common and the café doesn't always guarantee immediate seating for large groups; if you're set on a specific time, calling ahead or checking with mall staff on same-day availability is worth it. Payment is standard UAE mall practice — cards and tap-to-pay (Apple Pay/Google Pay) are widely accepted and preferred over cash, and a service charge may already be added to the bill, so check before adding an extra tip; rounding up or leaving 10% is customary if service isn't included. Dress is smart-casual, in keeping with the Fashion Avenue setting, and it's polite to vacate your table promptly during peak hours rather than lingering when a queue is visible — the most common visitor mistake here is treating it like a quiet neighborhood café rather than a high-turnover destination restaurant inside one of the world's busiest shopping malls.
+This is a genuinely busy, well-reviewed restaurant rather than an under-the-radar spot, so the smart move is timing rather than assuming a quiet corner. Aim for a late breakfast around 9:30–10:30am on a weekday, or mid-afternoon (around 3–4pm) between the lunch and dinner rushes, when tables turn over faster. Weekend and evening waits can run long since walk-ins are common and the café doesn't always guarantee immediate seating for large groups; if you're set on a specific time, calling ahead or checking with mall staff on same-day availability is worth it.
+
+Payment is standard UAE mall practice — cards and tap-to-pay (Apple Pay/Google Pay) are widely accepted and preferred over cash, and a service charge may already be added to the bill, so check before adding an extra tip; rounding up or leaving 10% is customary if service isn't included. Dress is smart-casual, in keeping with the Fashion Avenue setting, and it's polite to vacate your table promptly during peak hours rather than lingering when a queue is visible — the most common visitor mistake here is treating it like a quiet neighborhood café rather than a high-turnover destination restaurant inside one of the world's busiest shopping malls.
 
 ## Nearby to pair with your visit
 

@@ -27,11 +27,14 @@ faq:
     a: Weekday lunchtime avoids crowds; late spring and autumn are less congested than the summer beach season and pair well with a Seoraksan hike.
 aiGenerated: true
 draft: true
+country: South Korea
 ---
 
 ## Why Sokcho's local restaurants are worth seeking out
 
-Sokcho sits on Korea's northeastern coast, a former fishing town that's become a gateway to Seoraksan National Park and a weekend beach escape from Seoul. Its food identity is shaped by geography: cold East Sea waters bring in squid, pollock, and crab, while the region's mountain buckwheat fields gave rise to *makguksu*, a chewy cold noodle dish that Sokcho and neighboring Goseong claim as their own. Eating at a small, local restaurant here — rather than a chain or a hotel dining room — is the difference between tasting a menu item and tasting the actual place.
+Sokcho sits on Korea's northeastern coast, a former fishing town that's become a gateway to Seoraksan National Park and a weekend beach escape from Seoul. Its food identity is shaped by geography: cold East Sea waters bring in squid, pollock, and crab, while the region's mountain buckwheat fields gave rise to *makguksu*, a chewy cold noodle dish that Sokcho and neighboring Goseong claim as their own.
+
+Eating at a small, local restaurant here — rather than a chain or a hotel dining room — is the difference between tasting a menu item and tasting the actual place.
 
 ## Where the local spots cluster
 
@@ -51,9 +54,13 @@ Three areas do the heavy lifting for authentic food in Sokcho:
 
 ## Getting there and getting around
 
-Sokcho has no train station; the practical way in is by intercity or express bus from Seoul's Dong Seoul Bus Terminal (roughly 2 to 2.5 hours) to the Sokcho Express Bus Terminal, or by car via the Seoul-Yangyang Expressway. From the bus terminal, Jungang Market and the beach area are reachable by local bus or a 15–20 minute taxi ride. To reach Abai Village, take a bus or taxi to Sokcho Beach, then cross via the small manual ferry that locals still use daily — it costs a small fixed fare and takes only a minute or two.
+Sokcho has no train station; the practical way in is by intercity or express bus from Seoul's Dong Seoul Bus Terminal (roughly 2 to 2.5 hours) to the Sokcho Express Bus Terminal, or by car via the Seoul-Yangyang Expressway. From the bus terminal, Jungang Market and the beach area are reachable by local bus or a 15–20 minute taxi ride.
+
+To reach Abai Village, take a bus or taxi to Sokcho Beach, then cross via the small manual ferry that locals still use daily — it costs a small fixed fare and takes only a minute or two.
 
 ## When to go and practical tips
 
-Weekday lunch (11:30am–1pm) avoids the worst crowds, especially in market alleys where seating is limited. Summer (July–August) brings heavy beach tourist traffic; late spring and autumn are quieter and pair well with a Seoraksan hike beforehand, since many visitors eat in Sokcho after a day on the mountain. Cash is still useful at smaller stalls, though most restaurants now accept cards. Menus at the most local spots are often Korean-only with photos, so pointing at another table's dish or a market vendor's display is a normal and accepted way to order.
+Weekday lunch (11:30am–1pm) avoids the worst crowds, especially in market alleys where seating is limited. Summer (July–August) brings heavy beach tourist traffic; late spring and autumn are quieter and pair well with a Seoraksan hike beforehand, since many visitors eat in Sokcho after a day on the mountain. Cash is still useful at smaller stalls, though most restaurants now accept cards.
+
+Menus at the most local spots are often Korean-only with photos, so pointing at another table's dish or a market vendor's display is a normal and accepted way to order.
 

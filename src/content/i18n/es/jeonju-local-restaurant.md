@@ -23,7 +23,9 @@ Jeonju ha sido sinónimo de la cocina coreana durante siglos: es la cuna del bib
 
 ## Cómo llegar y moverse por la ciudad
 
-Jeonju no cuenta con sistema de metro, así que la mayoría de los visitantes llega en KTX o en autobús interurbano. La Estación de Jeonju conecta con la Estación Yongsan en Seúl en menos de dos horas en KTX. Desde la Estación de Jeonju, la Aldea Hanok y su zona de restaurantes quedan a unos 15–20 minutos en taxi (aproximadamente ₩6,000–8,000) o a 25 minutos en los autobuses urbanos 79, 12, o 79-1. Además, muchos visitantes primerizos se alojan cerca de la propia Aldea Hanok, ya que las calles gastronómicas más conocidas se pueden recorrer a pie desde allí. El Mercado Nambu, otro destino gastronómico imprescindible, se encuentra justo al sur de la Aldea Hanok, cruzando el arroyo de Jeonju, a solo 10 minutos caminando.
+Jeonju no cuenta con sistema de metro, así que la mayoría de los visitantes llega en KTX o en autobús interurbano. La Estación de Jeonju conecta con la Estación Yongsan en Seúl en menos de dos horas en KTX. Desde la Estación de Jeonju, la Aldea Hanok y su zona de restaurantes quedan a unos 15–20 minutos en taxi (aproximadamente ₩6,000–8,000) o a 25 minutos en los autobuses urbanos 79, 12, o 79-1. Además, muchos visitantes primerizos se alojan cerca de la propia Aldea Hanok, ya que las calles gastronómicas más conocidas se pueden recorrer a pie desde allí.
+
+El Mercado Nambu, otro destino gastronómico imprescindible, se encuentra justo al sur de la Aldea Hanok, cruzando el arroyo de Jeonju, a solo 10 minutos caminando.
 
 ## Qué comer y dónde
 
@@ -37,8 +39,12 @@ Jeonju no cuenta con sistema de metro, así que la mayoría de los visitantes ll
 
 ## Cuándo ir y cuánto tiempo dedicarle
 
-Los almuerzos entre semana (11:30am–1pm) y las cenas tempranas evitan lo peor de la avalancha de grupos turísticos, ya que los restaurantes de la Aldea Hanok se llenan mucho los fines de semana y en fechas festivas coreanas como Chuseok y el Año Nuevo Lunar. Calcula entre 1 y 1.5 horas para una comida sentado de bibimbap o gukbap, pero reserva más de 2 horas si vas a recorrer varias casas de makgeolli, ya que los platos compartidos invitan a quedarse más tiempo. La primavera (abril–mayo) y el otoño (octubre) traen el clima más agradable para combinar una comida con un paseo por los tejados hanok.
+Los almuerzos entre semana (11:30am–1pm) y las cenas tempranas evitan lo peor de la avalancha de grupos turísticos, ya que los restaurantes de la Aldea Hanok se llenan mucho los fines de semana y en fechas festivas coreanas como Chuseok y el Año Nuevo Lunar. Calcula entre 1 y 1.5 horas para una comida sentado de bibimbap o gukbap, pero reserva más de 2 horas si vas a recorrer varias casas de makgeolli, ya que los platos compartidos invitan a quedarse más tiempo.
+
+La primavera (abril–mayo) y el otoño (octubre) traen el clima más agradable para combinar una comida con un paseo por los tejados hanok.
 
 ## Alrededores y consejos prácticos
 
-Después de comer, camina para bajar la comida en Omokdae e Imokdae, pabellones en la colina con vistas a los tejados de tejas de la Aldea Hanok, o visita la Iglesia Católica de Jeondong, una llamativa catedral de ladrillo de principios del siglo XX a pocos minutos de la entrada de la aldea. El efectivo todavía es útil en los restaurantes y puestos de mercado más pequeños y antiguos, aunque la aceptación de tarjetas ha mejorado notablemente en los últimos años. Los precios de una comida completa de bibimbap o gukbap suelen rondar los ₩10,000–15,000, mientras que las teteras de makgeolli con una buena variedad de acompañamientos cuestan más: confirma los precios actuales en el lugar, ya que varían según la temporada y el costo de los ingredientes.
+Después de comer, camina para bajar la comida en Omokdae e Imokdae, pabellones en la colina con vistas a los tejados de tejas de la Aldea Hanok, o visita la Iglesia Católica de Jeondong, una llamativa catedral de ladrillo de principios del siglo XX a pocos minutos de la entrada de la aldea. El efectivo todavía es útil en los restaurantes y puestos de mercado más pequeños y antiguos, aunque la aceptación de tarjetas ha mejorado notablemente en los últimos años.
+
+Los precios de una comida completa de bibimbap o gukbap suelen rondar los ₩10,000–15,000, mientras que las teteras de makgeolli con una buena variedad de acompañamientos cuestan más: confirma los precios actuales en el lugar, ya que varían según la temporada y el costo de los ingredientes.

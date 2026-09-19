@@ -38,11 +38,15 @@ What makes it more than just another restaurant opening is the pedigree behind i
 
 ## Getting there
 
-MULJIL is located at The Five, a dining and lifestyle building in Damansara Heights, one of Kuala Lumpur's more affluent, low-key residential-meets-commercial enclaves just west of the city center. Damansara Heights isn't directly served by an LRT or MRT station, so the most practical way in is by car or e-hailing (Grab is the standard app in KL); expect a roughly 15–20 minute ride from the KLCC or Bukit Bintang areas depending on traffic. The Five building typically houses a cluster of restaurants and cafés, so it's worth treating a visit here as an evening out in a small dining precinct rather than a single stand-alone stop. Look around after your meal for a coffee or dessert spot to extend the outing.
+MULJIL is located at The Five, a dining and lifestyle building in Damansara Heights, one of Kuala Lumpur's more affluent, low-key residential-meets-commercial enclaves just west of the city center. Damansara Heights isn't directly served by an LRT or MRT station, so the most practical way in is by car or e-hailing (Grab is the standard app in KL); expect a roughly 15–20 minute ride from the KLCC or Bukit Bintang areas depending on traffic.
+
+The Five building typically houses a cluster of restaurants and cafés, so it's worth treating a visit here as an evening out in a small dining precinct rather than a single stand-alone stop. Look around after your meal for a coffee or dessert spot to extend the outing.
 
 ## What to expect
 
-Because this is a recently-opened concept, exact menu items, price points, and set hours weren't confirmed at the time of writing. Avoid relying on secondhand menu photos or early reviews for pricing, since new restaurants often adjust offerings in their first months. What can be said with confidence: expect a seafood- and coastal-region-driven interpretation of Korean cuisine, likely spanning raw preparations, broths, and shared plates designed to be different from the grilled meats most diners associate with Korean restaurants abroad. Given the collaborative pedigree of Maljiro and Taan Korean Steakhouse, service and plating are likely to be considered and design-conscious rather than casual canteen-style.
+Because this is a recently-opened concept, exact menu items, price points, and set hours weren't confirmed at the time of writing. Avoid relying on secondhand menu photos or early reviews for pricing, since new restaurants often adjust offerings in their first months. What can be said with confidence: expect a seafood- and coastal-region-driven interpretation of Korean cuisine, likely spanning raw preparations, broths, and shared plates designed to be different from the grilled meats most diners associate with Korean restaurants abroad.
+
+Given the collaborative pedigree of Maljiro and Taan Korean Steakhouse, service and plating are likely to be considered and design-conscious rather than casual canteen-style.
 
 Call ahead or check MULJIL's social media / reservation platforms (such as Chope or the restaurant's own Instagram, if active) before heading over, both to confirm it's open that day and to secure a table, new, buzzed-about openings in KL tend to fill up quickly on weekends.
 

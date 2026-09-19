@@ -19,7 +19,9 @@ faq:
 
 ## Por qué el cerdo negro de Jeju es diferente
 
-El cerdo negro nativo de Jeju (heuk-dwaeji) es una raza autóctona criada en la isla desde hace siglos, apreciada por su mordida más firme, su piel más gruesa y una capa de grasa que se derrite lentamente en la parrilla en lugar de volverse grasienta. Los habitantes de la isla lo distinguen claramente del cerdo rosado común, y los menús que sirven el auténtico suelen indicarlo explícitamente — "제주 흑돼지" (Jeju heuk-dwaeji) en lugar de un genérico "돼지고기" (dwaeji-gogi). Como el cerdo negro certificado cuesta más criarlo, es normal encontrar un precio notablemente más alto que en el BBQ coreano continental; esto es habitual y no un engaño.
+El cerdo negro nativo de Jeju (heuk-dwaeji) es una raza autóctona criada en la isla desde hace siglos, apreciada por su mordida más firme, su piel más gruesa y una capa de grasa que se derrite lentamente en la parrilla en lugar de volverse grasienta. Los habitantes de la isla lo distinguen claramente del cerdo rosado común, y los menús que sirven el auténtico suelen indicarlo explícitamente — "제주 흑돼지" (Jeju heuk-dwaeji) en lugar de un genérico "돼지고기" (dwaeji-gogi).
+
+Como el cerdo negro certificado cuesta más criarlo, es normal encontrar un precio notablemente más alto que en el BBQ coreano continental; esto es habitual y no un engaño.
 
 ## Dónde encontrarlo
 
@@ -40,7 +42,9 @@ Como Jeju no tiene metro, llegar a cualquiera de las dos zonas implica taxi, coc
 
 ## Cuándo ir y cuánto tiempo quedarse
 
-La cena es el momento natural — la mayoría de los restaurantes de cerdo negro cobran vida entre las 18:00 y las 21:00 aproximadamente, y asar es por naturaleza una comida más pausada y social, así que calcula un mínimo de 60 a 90 minutos para una comida completa con guarniciones. Existe servicio de almuerzo, pero a veces con menús y raciones reducidos. Las noches entre semana son más fáciles para ir sin reserva; las cenas de fin de semana en la calle del cerdo negro de Jeju City pueden implicar espera, así que llegar justo a la apertura o reservar cuando sea posible vale la pena en temporada alta (verano y fechas cercanas a festividades coreanas como el Chuseok).
+La cena es el momento natural — la mayoría de los restaurantes de cerdo negro cobran vida entre las 18:00 y las 21:00 aproximadamente, y asar es por naturaleza una comida más pausada y social, así que calcula un mínimo de 60 a 90 minutos para una comida completa con guarniciones. Existe servicio de almuerzo, pero a veces con menús y raciones reducidos.
+
+Las noches entre semana son más fáciles para ir sin reserva; las cenas de fin de semana en la calle del cerdo negro de Jeju City pueden implicar espera, así que llegar justo a la apertura o reservar cuando sea posible vale la pena en temporada alta (verano y fechas cercanas a festividades coreanas como el Chuseok).
 
 ## Consejos prácticos
 

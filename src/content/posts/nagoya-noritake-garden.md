@@ -112,6 +112,8 @@ Spring (cherry blossoms along the garden paths, roughly late March–early April
 
 ## Nearby & practical tips
 
-The Toyota Commemorative Museum of Industry and Technology, which covers the origins of the Toyota Group (itself connected historically to Noritake's founders), is within easy walking or short-taxi distance and pairs naturally with a Noritake visit for an industrial-heritage half-day. Nagoya Station's shopping and dining towers are close enough to combine with an afternoon here. Note that admission structures can change. The garden grounds are often free to enter while the museum and hands-on craft experiences charge separate small fees, so check official signage or the ticket counter on arrival rather than assuming one price covers everything.
+The Toyota Commemorative Museum of Industry and Technology, which covers the origins of the Toyota Group (itself connected historically to Noritake's founders), is within easy walking or short-taxi distance and pairs naturally with a Noritake visit for an industrial-heritage half-day. Nagoya Station's shopping and dining towers are close enough to combine with an afternoon here. Note that admission structures can change.
+
+The garden grounds are often free to enter while the museum and hands-on craft experiences charge separate small fees, so check official signage or the ticket counter on arrival rather than assuming one price covers everything.
 
 Comfortable shoes help since the grounds cover a fair amount of ground, and the shop area alone can easily absorb 20–30 minutes for anyone interested in ceramics.

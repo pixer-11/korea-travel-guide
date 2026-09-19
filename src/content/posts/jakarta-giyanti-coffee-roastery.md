@@ -132,7 +132,9 @@ Weekday mornings, roughly 9–11am, tend to be the calmest window before lunch c
 
 This is a well-known, well-reviewed cafe rather than a hidden find, so expect steady foot traffic. Plan around that rather than expecting an empty room. The most effective way to beat the crowd is timing: arrive right at opening on a weekday, or visit in the late afternoon lull after lunch service winds down but before evening regulars arrive.
 
-Payment is typically by card or e-wallet (QRIS is widely accepted across Jakarta cafes), though carrying some cash is still sensible for the antiques market stalls outside, where bargaining is normal and cash is preferred. Tipping isn't obligatory or heavily practiced at Indonesian cafes; rounding up or leaving small change is appreciated but not expected. If you want to sound like you know your coffee, ask specifically for the origin and processing method (washed, natural, honey) rather than just "the special". Staff are used to explaining the differences and it's the fastest way into a more interesting conversation about what's in your cup.
+Payment is typically by card or e-wallet (QRIS is widely accepted across Jakarta cafes), though carrying some cash is still sensible for the antiques market stalls outside, where bargaining is normal and cash is preferred. Tipping isn't obligatory or heavily practiced at Indonesian cafes; rounding up or leaving small change is appreciated but not expected. If you want to sound like you know your coffee, ask specifically for the origin and processing method (washed, natural, honey) rather than just "the special".
+
+Staff are used to explaining the differences and it's the fastest way into a more interesting conversation about what's in your cup.
 
 The most common visitor mistake is treating this purely as a photo-op stop and rushing through; the better use of a visit is slowing down over one well-made pour-over and asking what's currently in the roaster.
 

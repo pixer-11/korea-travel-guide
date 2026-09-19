@@ -51,11 +51,15 @@ draft: true
 
 ## Why go
 
-Sokcho has become one of Korea's most-photographed coastal escapes, thanks to its combination of East Sea beaches, Seoraksan National Park nearby, and a wave of design-forward cafés and restaurants that have opened along its coastal roads in the past few years. Huindajeong (248 Subok-ro, Sokcho-si, Gangwon-do) is part of that new generation of spots — a 4.3-rated venue with 336 reviews that draws both regional travelers and Seoul weekenders looking for a scenic, unhurried stop between the city's main sights. It's not a historic landmark or a decades-old institution; the appeal is contemporary — clean architecture, sea-facing windows or terrace seating, and a menu built around the kind of relaxed, photogenic dining that's become Sokcho's signature.
+Sokcho has become one of Korea's most-photographed coastal escapes, thanks to its combination of East Sea beaches, Seoraksan National Park nearby, and a wave of design-forward cafés and restaurants that have opened along its coastal roads in the past few years. Huindajeong (248 Subok-ro, Sokcho-si, Gangwon-do) is part of that new generation of spots — a 4.3-rated venue with 336 reviews that draws both regional travelers and Seoul weekenders looking for a scenic, unhurried stop between the city's main sights.
+
+It's not a historic landmark or a decades-old institution; the appeal is contemporary — clean architecture, sea-facing windows or terrace seating, and a menu built around the kind of relaxed, photogenic dining that's become Sokcho's signature.
 
 ## Getting there
 
-Sokcho doesn't have a train station (the nearest KTX/rail hub is Yangyang or Gangneung), so most visitors arrive by intercity bus from Seoul's Dong-Seoul Terminal — the ride takes roughly 2 to 2.5 hours depending on traffic and express bus schedule. From Sokcho's bus terminal, Subok-ro is a short taxi ride, generally under 15 minutes, since Sokcho's coastal neighborhoods are compact. If you're driving from Seoul, the Seoul-Yangyang Expressway is the most direct route and typically takes about 2 hours outside of peak holiday weekends. Because Huindajeong sits along a residential-coastal stretch rather than a dense commercial strip, having a car or arranging a taxi is more reliable than relying on local buses, which run less frequently than in bigger cities.
+Sokcho doesn't have a train station (the nearest KTX/rail hub is Yangyang or Gangneung), so most visitors arrive by intercity bus from Seoul's Dong-Seoul Terminal — the ride takes roughly 2 to 2.5 hours depending on traffic and express bus schedule. From Sokcho's bus terminal, Subok-ro is a short taxi ride, generally under 15 minutes, since Sokcho's coastal neighborhoods are compact.
+
+If you're driving from Seoul, the Seoul-Yangyang Expressway is the most direct route and typically takes about 2 hours outside of peak holiday weekends. Because Huindajeong sits along a residential-coastal stretch rather than a dense commercial strip, having a car or arranging a taxi is more reliable than relying on local buses, which run less frequently than in bigger cities.
 
 ## What to see and eat
 
@@ -71,4 +75,6 @@ Sokcho's compact size makes it easy to pair Huindajeong with other coastal highl
 
 ## How to visit like a local
 
-Locals and repeat visitors treat Sokcho's café scene as a slow, unhurried activity rather than a quick stop — the mistake first-time tourists make is treating it like a 15-minute photo op and then rushing off, when the point is to linger over the view. Go on a weekday if your schedule allows; Sokcho's coastal cafés see their heaviest crowds on Saturday and Sunday afternoons, especially during holiday weekends when Seoul traffic spills into town. Payment is overwhelmingly cashless in Korea now — card and mobile pay (Naver Pay, Kakao Pay) are standard, and tipping isn't expected anywhere in South Korea, including here. If it's busy, expect a queue system rather than a host seating you immediately; check for a waitlist sign-in at the entrance rather than hovering near tables. Since the address is residential-adjacent, keep noise down outside if you're waiting curbside, as a courtesy to neighbors.
+Locals and repeat visitors treat Sokcho's café scene as a slow, unhurried activity rather than a quick stop — the mistake first-time tourists make is treating it like a 15-minute photo op and then rushing off, when the point is to linger over the view. Go on a weekday if your schedule allows; Sokcho's coastal cafés see their heaviest crowds on Saturday and Sunday afternoons, especially during holiday weekends when Seoul traffic spills into town.
+
+Payment is overwhelmingly cashless in Korea now — card and mobile pay (Naver Pay, Kakao Pay) are standard, and tipping isn't expected anywhere in South Korea, including here. If it's busy, expect a queue system rather than a host seating you immediately; check for a waitlist sign-in at the entrance rather than hovering near tables. Since the address is residential-adjacent, keep noise down outside if you're waiting curbside, as a courtesy to neighbors.

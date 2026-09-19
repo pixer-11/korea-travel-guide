@@ -23,11 +23,15 @@ Si buscaste "dónde comer cerca de Sentosa" y llegaste a Lau Pa Sat, vale la pen
 
 ## Por qué ir
 
-Lau Pa Sat (que en malayo significa "mercado viejo") ocupa una estructura victoriana de hierro fundido reconstruida, erigida originalmente en 1894, uno de los pocos ejemplos que sobreviven de arquitectura victoriana de filigrana en el sudeste asiático. La estructura octagonal y la torre del reloj fueron prefabricadas en Glasgow y enviadas a Singapur, lo que hace que el propio edificio sea tan buena razón para visitarlo como la comida. En su interior, decenas de puestos sirven platos chinos, malayos, indios y peranakan bajo un imponente techo de hierro y cristal, un auténtico muestrario de la cultura hawker de Singapur en un solo espacio que se recorre a pie.
+Lau Pa Sat (que en malayo significa "mercado viejo") ocupa una estructura victoriana de hierro fundido reconstruida, erigida originalmente en 1894, uno de los pocos ejemplos que sobreviven de arquitectura victoriana de filigrana en el sudeste asiático. La estructura octagonal y la torre del reloj fueron prefabricadas en Glasgow y enviadas a Singapur, lo que hace que el propio edificio sea tan buena razón para visitarlo como la comida.
+
+En su interior, decenas de puestos sirven platos chinos, malayos, indios y peranakan bajo un imponente techo de hierro y cristal, un auténtico muestrario de la cultura hawker de Singapur en un solo espacio que se recorre a pie.
 
 ## Cómo llegar desde Sentosa
 
-Desde Sentosa, la ruta más rápida es tomar el monorriel Sentosa Express hasta VivoCity y luego hacer transbordo a la North-East Line en la estación HarbourFront. Viaja hasta la estación Raffles Place MRT (estación de intercambio de las líneas North-South y East-West) y toma la salida H o I, que te deja casi justo en la entrada del centro de comida. Todo el trayecto dura entre 25 y 35 minutos aproximadamente, según las conexiones. Los taxis o apps de transporte desde Sentosa suelen tardar entre 15 y 20 minutos fuera de las horas pico, cruzando Keppel Road hacia el distrito financiero.
+Desde Sentosa, la ruta más rápida es tomar el monorriel Sentosa Express hasta VivoCity y luego hacer transbordo a la North-East Line en la estación HarbourFront. Viaja hasta la estación Raffles Place MRT (estación de intercambio de las líneas North-South y East-West) y toma la salida H o I, que te deja casi justo en la entrada del centro de comida.
+
+Todo el trayecto dura entre 25 y 35 minutos aproximadamente, según las conexiones. Los taxis o apps de transporte desde Sentosa suelen tardar entre 15 y 20 minutos fuera de las horas pico, cruzando Keppel Road hacia el distrito financiero.
 
 ## Qué comer
 
@@ -39,8 +43,14 @@ Como los puestos rotan y los vendedores cambian con el tiempo, recorre todo el s
 
 ## Cuándo ir
 
-El almuerzo (aproximadamente de 12 a 2 p.m.) atrae a la multitud de oficinistas del CBD y se llena rápido y se pone ruidoso, ya que Lau Pa Sat se encuentra en la base del distrito de rascacielos de Singapur. La cena temprana también es concurrida. Para una comida más tranquila y sentada dentro del salón, procura ir a media tarde (3–5 p.m.), antes de que abran siquiera los puestos de satay en Boon Tat Street. Si buscas específicamente el ambiente de la calle del satay —humo, chisporroteo, mesas al aire libre—, ve después de las 7 p.m., aunque debes esperar mesa los fines de semana.
+El almuerzo (aproximadamente de 12 a 2 p.m.) atrae a la multitud de oficinistas del CBD y se llena rápido y se pone ruidoso, ya que Lau Pa Sat se encuentra en la base del distrito de rascacielos de Singapur. La cena temprana también es concurrida. Para una comida más tranquila y sentada dentro del salón, procura ir a media tarde (3–5 p.m.), antes de que abran siquiera los puestos de satay en Boon Tat Street.
+
+Si buscas específicamente el ambiente de la calle del satay —humo, chisporroteo, mesas al aire libre—, ve después de las 7 p.m., aunque debes esperar mesa los fines de semana.
 
 ## Cómo visitarlo como un local
 
-Este es uno de los sitios hawker más visitados de Singapur, así que el objetivo no es encontrar un secreto tranquilo, sino calcular bien el momento de tu visita en función de las multitudes. Evita por completo la hora del almuerzo si puedes; los oficinistas de las torres cercanas inundan el lugar justo al mediodía. La forma de pago varía según el puesto: muchos ya aceptan tarjeta o PayNow (el sistema de pago móvil de Singapur) además de efectivo, pero llevar billetes y monedas pequeñas en SGD agiliza las cosas en los puestos más antiguos que solo aceptan efectivo. No se espera propina en los centros hawker. En cuanto a la etiqueta, "reserva" tu asiento ("chope"): los locales dejan un paquete de pañuelos o un paraguas sobre la mesa para reservarla mientras piden comida, y esto se respeta, no se considera de mala educación. Pide en cada puesto por separado y paga en cada uno, en vez de esperar una sola cuenta al final. El error más común de los visitantes es tratar Lau Pa Sat como una parada rápida de 15 minutos; el edificio recompensa una visita con más calma: recorre todo el octágono primero para explorar las opciones y luego regresa sobre tus pasos. Además, calcula tiempo extra para el regreso a Sentosa, ya que el trayecto de vuelta implica el mismo transbordo de MRT a monorriel, pero en sentido inverso.
+Este es uno de los sitios hawker más visitados de Singapur, así que el objetivo no es encontrar un secreto tranquilo, sino calcular bien el momento de tu visita en función de las multitudes. Evita por completo la hora del almuerzo si puedes; los oficinistas de las torres cercanas inundan el lugar justo al mediodía. La forma de pago varía según el puesto: muchos ya aceptan tarjeta o PayNow (el sistema de pago móvil de Singapur) además de efectivo, pero llevar billetes y monedas pequeñas en SGD agiliza las cosas en los puestos más antiguos que solo aceptan efectivo.
+
+No se espera propina en los centros hawker. En cuanto a la etiqueta, "reserva" tu asiento ("chope"): los locales dejan un paquete de pañuelos o un paraguas sobre la mesa para reservarla mientras piden comida, y esto se respeta, no se considera de mala educación. Pide en cada puesto por separado y paga en cada uno, en vez de esperar una sola cuenta al final.
+
+El error más común de los visitantes es tratar Lau Pa Sat como una parada rápida de 15 minutos; el edificio recompensa una visita con más calma: recorre todo el octágono primero para explorar las opciones y luego regresa sobre tus pasos. Además, calcula tiempo extra para el regreso a Sentosa, ya que el trayecto de vuelta implica el mismo transbordo de MRT a monorriel, pero en sentido inverso.

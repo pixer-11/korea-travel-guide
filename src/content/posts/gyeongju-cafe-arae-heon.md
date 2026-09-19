@@ -88,7 +88,9 @@ City buses running toward Bulguksa Temple pass through the general area; if you'
 
 ## What to see / eat
 
-The building itself is the main attraction: exposed wooden beams, low-slung eaves, and oversized windows that turn the surrounding hills and garden into a living backdrop. Photographers gravitate toward the window-side seats and any outdoor terrace or courtyard space, especially in the late afternoon when light angles through the hanok structure. On the menu, expect café standards with a Korean twist. Look for options built around Gyeongju's local specialty ingredients, alongside espresso drinks, teas, and traditional-style rice cakes or pastries that lean into the hanok aesthetic rather than a generic coffee-shop menu.
+The building itself is the main attraction: exposed wooden beams, low-slung eaves, and oversized windows that turn the surrounding hills and garden into a living backdrop. Photographers gravitate toward the window-side seats and any outdoor terrace or courtyard space, especially in the late afternoon when light angles through the hanok structure. On the menu, expect café standards with a Korean twist.
+
+Look for options built around Gyeongju's local specialty ingredients, alongside espresso drinks, teas, and traditional-style rice cakes or pastries that lean into the hanok aesthetic rather than a generic coffee-shop menu.
 
 Portions and exact pricing shift with the season, so treat any menu board as the reference point on the day rather than something to plan around in advance.
 

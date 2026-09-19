@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: nonthaburi-f-forever-1st-world-tour-in-bangkok
-srcHash: 'cdd2d5cf11d6'
+srcHash: 'b16bfce33cbb'
 title: F✦FOREVER首次世界巡演曼谷站攻略（佛统府/暖武里）
 description: F✦FOREVER首次世界巡演曼谷站，地点在泰国暖武里，时间为2026年8月1日至2日。这场演唱会是什么、何时何地举行，以及该如何提前规划行程。
 quickAnswer: F✦FOREVER是由言承旭（Jerry Yan）、吴建豪（Van Ness Wu）、周渝民（Vic Chou）三人重组而成的台湾组合（也就是当年因《流星花园》红遍亚洲的F4），此次五月天主唱阿信将以荣誉第四人的身份加入演出。作为首次世界巡演的一站，他们将于2026年8月1日至2日一连两晚在暖武里的IMPACT体育馆（IMPACT Arena）开唱。这是一场体育馆级别的重聚演出，因此建议尽早预订往返机票和Muang Thong Thani/Chaeng Watthana一带的酒店，并在出发前通过巡演官方渠道和IMPACT Arena官方渠道确认具体日期、入场时间和票档信息。

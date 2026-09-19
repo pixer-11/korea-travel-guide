@@ -42,7 +42,9 @@ eventFactsAsked: true
 ---
 ## Why go
 
-Every August, the UNESCO World Heritage core of George Town stops being just a beautifully preserved backdrop of pastel shophouses, ornate clan jetties, and pre-war godowns, and becomes a working stage. That's the premise of the George Town Festival, now in its 17th edition, and the 2026 edition was set for August 1 to 9 under the theme "Beyond Boundaries". Over 40 international arts, theatre, dance, and music programmes were announced, spread through the historic enclave rather than boxed into a single venue, the festival essentially annexing the streets, courtyards, and old buildings a visitor would already be wandering.
+Every August, the UNESCO World Heritage core of George Town stops being just a beautifully preserved backdrop of pastel shophouses, ornate clan jetties, and pre-war godowns, and becomes a working stage. That's the premise of the George Town Festival, now in its 17th edition, and the 2026 edition was set for August 1 to 9 under the theme "Beyond Boundaries".
+
+Over 40 international arts, theatre, dance, and music programmes were announced, spread through the historic enclave rather than boxed into a single venue, the festival essentially annexing the streets, courtyards, and old buildings a visitor would already be wandering.
 
 You come for the performances, but you stay because the setting does half the work: a five-foot-way turned into a queue for a theatre piece, a converted warehouse humming with a sound installation, laundry still hanging above an alley where a brass band is warming up.
 

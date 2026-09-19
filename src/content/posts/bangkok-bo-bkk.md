@@ -32,17 +32,23 @@ draft: true
 
 ## Why Bo.bkk stands out
 
-Bangkok's café scene is dense with polished, Instagram-ready coffee shops, but Bo.bkk carves out a different niche: it's a hangout first and a café second. The people behind it also run Meep Meep Run Club, one of Bangkok's more visible community running crews, and that DNA shows in how the space functions. Rather than a quiet solo-work café, Bo.bkk leans into being a gathering point — a place where a weekend run ends with bagels and coffee rather than a place designed purely for photogenic lattes. For visitors who want a slice of how young, active, internationally-minded Bangkokians actually socialize, this is a more honest entry point than a rooftop bar or a mall food court.
+Bangkok's café scene is dense with polished, Instagram-ready coffee shops, but Bo.bkk carves out a different niche: it's a hangout first and a café second. The people behind it also run Meep Meep Run Club, one of Bangkok's more visible community running crews, and that DNA shows in how the space functions. Rather than a quiet solo-work café, Bo.bkk leans into being a gathering point — a place where a weekend run ends with bagels and coffee rather than a place designed purely for photogenic lattes.
+
+For visitors who want a slice of how young, active, internationally-minded Bangkokians actually socialize, this is a more honest entry point than a rooftop bar or a mall food court.
 
 Its location matters too. Sathorn is one of Bangkok's central business and expat-residential districts, and Bo.bkk sits in the ground-floor space of an apartment building rather than a standalone shopfront — the kind of low-key, almost hidden setup that's become a hallmark of Bangkok's current wave of trendy cafés. Finding it feels a little like being let in on a local secret, even though it's increasingly well known among the city's café-hopping crowd.
 
 ## Getting there
 
-Bo.bkk's Sathorn location puts it within reach of the BTS Silom Line and the Sathorn/Sala Daeng area, both of which serve the Lumphini Park side of the district. Lumphini Park itself — Bangkok's largest and most famous central green space, popular for morning jogging, outdoor aerobics, and paddleboat rentals on its lake — is the easiest landmark to navigate by. If you're coming from Sukhumvit or the river side of the city, a ride via the BTS to Sala Daeng or the MRT to Lumphini station, followed by a short walk or a quick Grab/taxi hop, is the most straightforward route. Given that the café is inside a residential building rather than street-facing retail, it's worth pulling up the exact pin in a map app or messaging ahead, since street-level signage for this type of spot is often minimal by design.
+Bo.bkk's Sathorn location puts it within reach of the BTS Silom Line and the Sathorn/Sala Daeng area, both of which serve the Lumphini Park side of the district. Lumphini Park itself — Bangkok's largest and most famous central green space, popular for morning jogging, outdoor aerobics, and paddleboat rentals on its lake — is the easiest landmark to navigate by.
+
+If you're coming from Sukhumvit or the river side of the city, a ride via the BTS to Sala Daeng or the MRT to Lumphini station, followed by a short walk or a quick Grab/taxi hop, is the most straightforward route. Given that the café is inside a residential building rather than street-facing retail, it's worth pulling up the exact pin in a map app or messaging ahead, since street-level signage for this type of spot is often minimal by design.
 
 ## What to expect
 
-The headline draws are bagels and coffee — a simple, focused menu rather than an expansive café spread. That simplicity is part of the appeal: it's built for grab-and-go or linger-a-while sociability rather than a full brunch production. The bigger draw for many visitors, though, is the weekend group run tied to Meep Meep Run Club. These runs turn the café into a meeting point and post-run refuel spot, giving outsiders a rare, low-barrier way to join a local social scene rather than just observe it from a table. Even if running isn't on your itinerary, showing up on a weekend morning means you'll likely catch the space at its liveliest.
+The headline draws are bagels and coffee — a simple, focused menu rather than an expansive café spread. That simplicity is part of the appeal: it's built for grab-and-go or linger-a-while sociability rather than a full brunch production. The bigger draw for many visitors, though, is the weekend group run tied to Meep Meep Run Club. These runs turn the café into a meeting point and post-run refuel spot, giving outsiders a rare, low-barrier way to join a local social scene rather than just observe it from a table.
+
+Even if running isn't on your itinerary, showing up on a weekend morning means you'll likely catch the space at its liveliest.
 
 ## When to go
 
@@ -50,4 +56,6 @@ Weekend mornings are the obvious sweet spot, both for the run-club energy and be
 
 ## Practical tips
 
-Because this is a recently opened, fast-trending spot, treat specifics as fluid: confirm current opening hours, whether the weekend run is open to drop-ins or requires advance notice, and whether seating requires a reservation, especially on weekend mornings when it may fill with regulars. Bring cash or a Thai-compatible payment app as backup, since small independent cafés in residential buildings don't always default to card payments. Combine the visit with a stroll through Lumphini Park and, if time allows, the nearby Silom and Sathorn business district, which has its own cluster of cafés and lunch spots worth exploring on foot.
+Because this is a recently opened, fast-trending spot, treat specifics as fluid: confirm current opening hours, whether the weekend run is open to drop-ins or requires advance notice, and whether seating requires a reservation, especially on weekend mornings when it may fill with regulars. Bring cash or a Thai-compatible payment app as backup, since small independent cafés in residential buildings don't always default to card payments.
+
+Combine the visit with a stroll through Lumphini Park and, if time allows, the nearby Silom and Sathorn business district, which has its own cluster of cafés and lunch spots worth exploring on foot.

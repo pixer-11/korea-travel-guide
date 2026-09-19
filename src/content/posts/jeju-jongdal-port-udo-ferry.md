@@ -74,6 +74,7 @@ faq:
 aiGenerated: true
 draft: true
 updatedDate: '2026-09-19'
+country: South Korea
 ---
 
 ## Why go via Jongdal Port
@@ -82,17 +83,23 @@ Most visitors to Udo, the small volcanic island famous for its peanut ice cream,
 
 ## Getting there
 
-Jongdal Port sits at 484-7 Jongdal-ri, Gujwa-eup, on Jeju's northeastern shoreline. There's no subway on Jeju, so most travelers arrive by rental car or taxi; the port has an on-site parking area, which is one of its practical advantages over the often-packed lots near Seongsan. If you're relying on public buses, intercity routes running along the coastal road (Jeju's 201 or regional buses connecting Jeju City and Seongsan) stop in Jongdal-ri, though schedules are infrequent, so a car is strongly recommended if your day includes multiple stops. From Jeju City, the drive along the coastal road (Route 1132) takes roughly 40-50 minutes; from Seongsan, it's about 15 minutes.
+Jongdal Port sits at 484-7 Jongdal-ri, Gujwa-eup, on Jeju's northeastern shoreline. There's no subway on Jeju, so most travelers arrive by rental car or taxi; the port has an on-site parking area, which is one of its practical advantages over the often-packed lots near Seongsan. If you're relying on public buses, intercity routes running along the coastal road (Jeju's 201 or regional buses connecting Jeju City and Seongsan) stop in Jongdal-ri, though schedules are infrequent, so a car is strongly recommended if your day includes multiple stops.
+
+From Jeju City, the drive along the coastal road (Route 1132) takes roughly 40-50 minutes; from Seongsan, it's about 15 minutes.
 
 ## Taking the ferry to Udo
 
-Ferries to Udo depart from Jongdal Port at regular intervals, typically every 20 to 30 minutes from early morning until late afternoon, with the exact last departure shifting by season. The crossing itself is short, around 10 to 15 minutes, landing at Cheonjin Port on Udo's western side. At the ticket counter you'll need a passport or Korean ID for the manifest, since Korean ferry operators are required to log passenger identities. Tickets are usually sold as a round-trip fare, and there's typically a separate small entry fee for Udo itself, collected either at the port or built into the ticket price. Because prices and schedules shift year to year, confirm the current fare board and departure times on-site or with your accommodation before planning your day around a specific sailing.
+Ferries to Udo depart from Jongdal Port at regular intervals, typically every 20 to 30 minutes from early morning until late afternoon, with the exact last departure shifting by season. The crossing itself is short, around 10 to 15 minutes, landing at Cheonjin Port on Udo's western side. At the ticket counter you'll need a passport or Korean ID for the manifest, since Korean ferry operators are required to log passenger identities.
+
+Tickets are usually sold as a round-trip fare, and there's typically a separate small entry fee for Udo itself, collected either at the port or built into the ticket price. Because prices and schedules shift year to year, confirm the current fare board and departure times on-site or with your accommodation before planning your day around a specific sailing.
 
 Once on Udo, most visitors rent an electric scooter, bicycle, or small buggy near Cheonjin Port to loop the island's roughly 17-kilometer perimeter road, stopping at Seobinbaeksa Beach, Hagosudong Beach, and the Udo Lighthouse Park (Udobong Peak) for coastal views back toward Seongsan Ilchulbong.
 
 ## When to go and how long to spend
 
-Early morning departures (before 9-10 a.m.) tend to be calmest and least crowded, and they give you a full day on Udo before the last return sailings in the late afternoon or early evening. Plan for at least 3-4 hours on the island if you want to circle it by scooter and stop for food; a rushed visit of under 2 hours only allows time for the beach nearest the port. Spring and early autumn bring the most comfortable weather for cycling or scooter rides, while summer is peak season with the heaviest ferry traffic. Ferries can be suspended or delayed during high winds or rough seas, which happens more often in winter, so it's worth checking the forecast and having a backup plan for that day.
+Early morning departures (before 9-10 a.m.) tend to be calmest and least crowded, and they give you a full day on Udo before the last return sailings in the late afternoon or early evening. Plan for at least 3-4 hours on the island if you want to circle it by scooter and stop for food; a rushed visit of under 2 hours only allows time for the beach nearest the port.
+
+Spring and early autumn bring the most comfortable weather for cycling or scooter rides, while summer is peak season with the heaviest ferry traffic. Ferries can be suspended or delayed during high winds or rough seas, which happens more often in winter, so it's worth checking the forecast and having a backup plan for that day.
 
 ## Nearby & tips
 

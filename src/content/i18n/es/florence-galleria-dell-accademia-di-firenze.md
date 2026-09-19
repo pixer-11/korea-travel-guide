@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: florence-galleria-dell-accademia-di-firenze
-srcHash: '55cb27f4372c'
+srcHash: '7183423036a1'
 title: 'Galleria dell''Accademia de Florencia: Guía de Viaje'
 description: 'El gran atractivo de la Accademia es el David de Miguel Ángel, situado al final de una larga galería flanqueada por sus inacabados "Prisioneros"; la visita completa dura entre 60 y 90 minutos. 4,6★ (57.520 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El gran atractivo de la Accademia es el David de Miguel Ángel, situado al final de una larga galería flanqueada por sus inacabados "Prisioneros"; la visita completa dura entre 60 y 90 minutos. Conviene reservar con antelación una entrada con horario fijo por internet para evitar la temida cola sin reserva en Via Ricasoli, y si va a visitarla en fin de semana, lo mejor es apuntar a la franja de apertura de 8:15 a 9:00, ya que la afluencia aumenta sin parar desde las 10:00 hasta las 18:00.

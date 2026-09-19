@@ -92,11 +92,15 @@ The appeal is the format as much as the flavor. You get a thick-cut beef cutlet,
 
 ## Getting there
 
-The restaurant sits in the basement level (B2F, unit B202) of Fukuoka Parco's new building (Shinkan) in Tenjin, 2-chōme, Chuo Ward — right in the heart of Fukuoka's main shopping district. Tenjin Station, served by both the Fukuoka City Subway Kūkō (Airport) Line and the Nishitetsu Tenjin Ōmuta Line, is the closest station, an easy walk of a few minutes through Tenjin's underground and street-level shopping arcades. Tenjin Minami Station on the subway's Nanakuma Line is also within comfortable walking distance. Because Parco's basement level connects to Tenjin's sprawling underground passages, you can walk from the station to the restaurant largely undercover, which is a genuine advantage on Fukuoka's hot, humid summer days or during rain.
+The restaurant sits in the basement level (B2F, unit B202) of Fukuoka Parco's new building (Shinkan) in Tenjin, 2-chōme, Chuo Ward — right in the heart of Fukuoka's main shopping district. Tenjin Station, served by both the Fukuoka City Subway Kūkō (Airport) Line and the Nishitetsu Tenjin Ōmuta Line, is the closest station, an easy walk of a few minutes through Tenjin's underground and street-level shopping arcades.
+
+Tenjin Minami Station on the subway's Nanakuma Line is also within comfortable walking distance. Because Parco's basement level connects to Tenjin's sprawling underground passages, you can walk from the station to the restaurant largely undercover, which is a genuine advantage on Fukuoka's hot, humid summer days or during rain.
 
 ## What to eat
 
-The standard move is the gyukatsu set (teishoku), which typically comes with rice, cabbage, miso soup, and a dipping sauce or two — usually a savory tonkatsu-style sauce and a citrusy ponzu, plus often a raw egg or wasabi option to mix in. Portion sizes are usually offered in gradations (e.g., a standard cut versus a heartier one), so if you're hungry after a day of walking Tenjin's shops, size up. Because the cutlet is served rare by default, resist the urge to over-sear it on the stone — a light touch keeps the center tender rather than pushing it toward well-done and chewy. Rice and cabbage refills are commonly available at gyukatsu chains, so ask if you're still hungry rather than ordering a second set outright.
+The standard move is the gyukatsu set (teishoku), which typically comes with rice, cabbage, miso soup, and a dipping sauce or two — usually a savory tonkatsu-style sauce and a citrusy ponzu, plus often a raw egg or wasabi option to mix in. Portion sizes are usually offered in gradations (e.g., a standard cut versus a heartier one), so if you're hungry after a day of walking Tenjin's shops, size up.
+
+Because the cutlet is served rare by default, resist the urge to over-sear it on the stone — a light touch keeps the center tender rather than pushing it toward well-done and chewy. Rice and cabbage refills are commonly available at gyukatsu chains, so ask if you're still hungry rather than ordering a second set outright.
 
 ## When to go
 
@@ -104,4 +108,6 @@ Lunchtime (roughly 11:30am–1:30pm) and dinner (around 6–8pm) are when Parco'
 
 ## Nearby & tips
 
-Being inside Fukuoka Parco means you're steps from the rest of Tenjin's core shopping and dining — Tenjin Underground Shopping Mall (Tenchika), Iwataya department store, and Nishitetsu Grand Hotel's surrounding streets are all within a short walk, making this an easy stop to slot between shopping errands. If you want to extend the outing, Fukuoka's famous yatai (street food stalls) cluster in the evenings not far away near Nakasu and Tenjin's canal side, offering a completely different, open-air contrast to the mall setting. Note the price level here sits in the moderate range for Japan — not cheap-eats territory, but well short of a splurge — so it's a reasonable option for a satisfying one-off meal without derailing a food budget.
+Being inside Fukuoka Parco means you're steps from the rest of Tenjin's core shopping and dining — Tenjin Underground Shopping Mall (Tenchika), Iwataya department store, and Nishitetsu Grand Hotel's surrounding streets are all within a short walk, making this an easy stop to slot between shopping errands. If you want to extend the outing, Fukuoka's famous yatai (street food stalls) cluster in the evenings not far away near Nakasu and Tenjin's canal side, offering a completely different, open-air contrast to the mall setting.
+
+Note the price level here sits in the moderate range for Japan — not cheap-eats territory, but well short of a splurge — so it's a reasonable option for a satisfying one-off meal without derailing a food budget.

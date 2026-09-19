@@ -52,15 +52,21 @@ draft: true
 
 ## Why go
 
-Ramen Yokocho, the alley where Sapporo Ramen Haruka sits, is where the city's miso ramen identity was essentially born in the 1950s, when a cluster of stalls started serving butter- and corn-topped miso broth to workers and late-night crowds. Haruka has become one of the standouts in that lineup, pulling a 4.8 rating across more than 4,000 reviews — a remarkable number for a shop with only a handful of counter seats. The appeal isn't decor (there isn't much) but the concentration of flavor: a pork-and-vegetable-based broth built on fermented miso, finished with a knob of butter that melts into the soup tableside, plus firm, slightly curly noodles designed to hold up to the thick broth. Gyoza and cold beer round out the menu, making it a legitimate dinner stop rather than just a quick bowl.
+Ramen Yokocho, the alley where Sapporo Ramen Haruka sits, is where the city's miso ramen identity was essentially born in the 1950s, when a cluster of stalls started serving butter- and corn-topped miso broth to workers and late-night crowds. Haruka has become one of the standouts in that lineup, pulling a 4.8 rating across more than 4,000 reviews — a remarkable number for a shop with only a handful of counter seats.
+
+The appeal isn't decor (there isn't much) but the concentration of flavor: a pork-and-vegetable-based broth built on fermented miso, finished with a knob of butter that melts into the soup tableside, plus firm, slightly curly noodles designed to hold up to the thick broth. Gyoza and cold beer round out the menu, making it a legitimate dinner stop rather than just a quick bowl.
 
 ## Getting there
 
-The restaurant is in Chuo Ward, Minami 5 Jonishi, 3-chome, inside the "元祖さっぽろラーメン横丁" (Ganso Sapporo Ramen Yokocho) alley — the original ramen alley, as distinct from a newer one that opened later near Sapporo Station. The nearest stop is Susukino Station on the Sapporo Municipal Subway Namboku Line; take Exit 3 and walk roughly 3-5 minutes south into the entertainment district. The alley entrance is marked by a narrow, lantern-lit lane easy to miss from the main street — look for a cluster of small illuminated signs and a covered passage rather than a storefront. If arriving from Odori Station, it's about a 10-12 minute walk south through Susukino.
+The restaurant is in Chuo Ward, Minami 5 Jonishi, 3-chome, inside the "元祖さっぽろラーメン横丁" (Ganso Sapporo Ramen Yokocho) alley — the original ramen alley, as distinct from a newer one that opened later near Sapporo Station. The nearest stop is Susukino Station on the Sapporo Municipal Subway Namboku Line; take Exit 3 and walk roughly 3-5 minutes south into the entertainment district.
+
+The alley entrance is marked by a narrow, lantern-lit lane easy to miss from the main street — look for a cluster of small illuminated signs and a covered passage rather than a storefront. If arriving from Odori Station, it's about a 10-12 minute walk south through Susukino.
 
 ## What to see / eat
 
-Order the classic miso ramen first — it's the shop's reason for being and the dish the alley itself is famous for citywide. Ask for butter corn miso ramen if you want the full Hokkaido experience; the sweet corn and melting butter are regional signatures, not gimmicks. Portions are moderate, so pairing a half-order of gyoza is common practice among regulars. Price level sits in the mid-range for ramen (roughly ¥1,000-1,300 for a standard bowl based on typical Yokocho pricing), though menu prices should be confirmed on-site since they shift year to year. Seating is limited to a single counter, so solo diners and pairs fit best; larger groups may need to split up or wait.
+Order the classic miso ramen first — it's the shop's reason for being and the dish the alley itself is famous for citywide. Ask for butter corn miso ramen if you want the full Hokkaido experience; the sweet corn and melting butter are regional signatures, not gimmicks. Portions are moderate, so pairing a half-order of gyoza is common practice among regulars.
+
+Price level sits in the mid-range for ramen (roughly ¥1,000-1,300 for a standard bowl based on typical Yokocho pricing), though menu prices should be confirmed on-site since they shift year to year. Seating is limited to a single counter, so solo diners and pairs fit best; larger groups may need to split up or wait.
 
 ## When to go
 
@@ -68,4 +74,6 @@ Lunch (11:30am-1:30pm) draws steady traffic from local office workers, but dinne
 
 ## Nearby & tips
 
-Ramen Yokocho sits inside Susukino, Sapporo's largest entertainment and dining district, so pairing a bowl at Haruka with a stroll past the neon signage and izakaya rows afterward is the natural move. The Susukino ramen alley is compact — expect roughly a dozen or so competing shops packed into one narrow lane, so if there's a line at Haruka, it's worth noting the name and looping back rather than settling for a random alternative, given how much its reputation stands out from neighbors. Cash is still commonly preferred at small counter shops like this even though card and IC-card payment has spread in recent years, so carry some yen as backup. Because seating is tight, solo travelers often have the easiest time getting a stool quickly.
+Ramen Yokocho sits inside Susukino, Sapporo's largest entertainment and dining district, so pairing a bowl at Haruka with a stroll past the neon signage and izakaya rows afterward is the natural move. The Susukino ramen alley is compact — expect roughly a dozen or so competing shops packed into one narrow lane, so if there's a line at Haruka, it's worth noting the name and looping back rather than settling for a random alternative, given how much its reputation stands out from neighbors.
+
+Cash is still commonly preferred at small counter shops like this even though card and IC-card payment has spread in recent years, so carry some yen as backup. Because seating is tight, solo travelers often have the easiest time getting a stool quickly.

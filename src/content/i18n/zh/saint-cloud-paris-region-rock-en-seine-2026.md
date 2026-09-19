@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: saint-cloud-paris-region-rock-en-seine-2026
-srcHash: '40e2eb3f02f4'
+srcHash: '2f79ae8f3d93'
 title: 2026年巴黎塞纳摇滚音乐节须知（法国圣克卢）
 description: 2026年巴黎塞纳摇滚音乐节原定于2026年8月26日至30日在巴黎近郊的圣克卢国家园林举办，压轴阵容包括治疗乐队（The Cure）、尼克·凯夫（Nick Cave）和泰勒大帝（Tyler, the Creator）。
 quickAnswer: 2026年巴黎塞纳摇滚音乐节原定于2026年8月26日至30日在巴黎西郊的圣克卢国家园林举办。公布的阵容中，治疗乐队（The Cure）、尼克·凯夫与坏种子乐团（Nick Cave & The Bad Seeds）以及泰勒大帝（Tyler, the Creator）担纲压轴，同台阵容还包括迪福托斯乐队（Deftones）、特恩斯泰尔乐队（Turnstile）等。从巴黎市中心出发前往园区并不远：乘坐RER C线可到圣克卢站，出站后步行或搭乘接驳车上坡即可抵达园区；地铁9号线到塞夫勒桥站（Pont de Sèvres）则可以从园区南侧进入。

@@ -28,11 +28,14 @@ faq:
   - q: How can I tell if the pork is genuine Jeju black pork?
     a: Menus should explicitly say 'Jeju heuk-dwaeji' rather than a generic pork label, and many restaurants display a certification sticker or sign referencing the island's black pig grading system.
 aiGenerated: true
+country: South Korea
 ---
 
 ## Why Jeju Black Pork Is Different
 
-Jeju's native black pig (heuk-dwaeji) is a heritage breed raised on the island for centuries, prized for a firmer bite, thicker skin, and a layer of fat that renders slowly on the grill instead of turning greasy. Locals distinguish it clearly from ordinary pink pork, and menus that serve the real thing usually say so explicitly — "제주 흑돼지" (Jeju heuk-dwaeji) rather than a generic "돼지고기" (dwaeji-gogi). Because certified black pork costs more to raise, expect a noticeably higher price than mainland Korean BBQ; this is normal and not a rip-off.
+Jeju's native black pig (heuk-dwaeji) is a heritage breed raised on the island for centuries, prized for a firmer bite, thicker skin, and a layer of fat that renders slowly on the grill instead of turning greasy. Locals distinguish it clearly from ordinary pink pork, and menus that serve the real thing usually say so explicitly — "제주 흑돼지" (Jeju heuk-dwaeji) rather than a generic "돼지고기" (dwaeji-gogi).
+
+Because certified black pork costs more to raise, expect a noticeably higher price than mainland Korean BBQ; this is normal and not a rip-off.
 
 ## Where to Find It
 

@@ -73,11 +73,15 @@ Habun Restaurant has quietly earned one of the strongest review scores of any ea
 
 ## Getting there
 
-Ras Al Khaimah doesn't have a metro or extensive public bus network reaching every neighborhood, so the practical way to reach Habun Restaurant is by taxi, ride-hailing app, or rental car. Khuzam is an inland residential and mixed-use district, a reasonable drive from the RAK Corniche and from the main hotel clusters along Al Marjan Island and Mina Al Arab. If you're staying at a beach resort, budget 15–25 minutes depending on traffic and exact location within the emirate. Punch "Habun Restaurant, Grove Village, Khuzam" directly into your maps app rather than searching for the neighborhood alone — Grove Village is a specific development within Khuzam and street naming in this part of RAK can be inconsistent.
+Ras Al Khaimah doesn't have a metro or extensive public bus network reaching every neighborhood, so the practical way to reach Habun Restaurant is by taxi, ride-hailing app, or rental car. Khuzam is an inland residential and mixed-use district, a reasonable drive from the RAK Corniche and from the main hotel clusters along Al Marjan Island and Mina Al Arab.
+
+If you're staying at a beach resort, budget 15–25 minutes depending on traffic and exact location within the emirate. Punch "Habun Restaurant, Grove Village, Khuzam" directly into your maps app rather than searching for the neighborhood alone — Grove Village is a specific development within Khuzam and street naming in this part of RAK can be inconsistent.
 
 ## What to expect on the menu
 
-Restaurants with this kind of sustained, high-volume rating in the UAE typically build their name on a tight, well-executed menu rather than an overstuffed one — expect the kitchen to have a handful of signature dishes it's genuinely known for, with grilled meats, regional specialties, and fresh mezze-style starters being the common backbone of restaurants in this category and region. Given the name and setting, it's worth asking staff directly what the house specialty is and ordering that rather than working from assumption — a restaurant that has earned nearly 650 reviews at this rating is almost always doing a small number of things exceptionally well. Portions at popular local spots in the UAE tend to be generous and designed for sharing, so go in a small group if you can and order a spread of starters alongside the mains.
+Restaurants with this kind of sustained, high-volume rating in the UAE typically build their name on a tight, well-executed menu rather than an overstuffed one — expect the kitchen to have a handful of signature dishes it's genuinely known for, with grilled meats, regional specialties, and fresh mezze-style starters being the common backbone of restaurants in this category and region.
+
+Given the name and setting, it's worth asking staff directly what the house specialty is and ordering that rather than working from assumption — a restaurant that has earned nearly 650 reviews at this rating is almost always doing a small number of things exceptionally well. Portions at popular local spots in the UAE tend to be generous and designed for sharing, so go in a small group if you can and order a spread of starters alongside the mains.
 
 ## When to go
 
@@ -85,7 +89,11 @@ Evenings are the natural time to visit, as is standard for full-service dining i
 
 ## How to visit like a local
 
-Book ahead if the restaurant offers reservations, or plan to arrive right at opening if it operates first-come, first-served — a 4.8 rating from 642 reviews means demand is real even if the crowd skews local rather than tourist. The calmest window is typically early-to-mid evening on a weeknight, before the after-9pm rush that's common across the region once the day's heat has fully lifted. Payment across RAK restaurants is overwhelmingly by card or mobile wallet at this point, though it's sensible to carry some cash (UAE dirhams) as backup, since not every smaller or family-run establishment processes every card network smoothly. Tipping isn't legally mandated in the UAE but is customary and appreciated — rounding up or leaving roughly 10% in cash directly with staff is the norm, since service charges on the bill don't always reach servers directly. The most common mistake visitors make with under-the-radar local favorites like this one is treating it as a quick stop between attractions; instead, treat the meal itself as the destination, ask staff what they'd recommend rather than defaulting to familiar dishes, and allow a full hour or more to actually enjoy it the way regular guests do.
+Book ahead if the restaurant offers reservations, or plan to arrive right at opening if it operates first-come, first-served — a 4.8 rating from 642 reviews means demand is real even if the crowd skews local rather than tourist. The calmest window is typically early-to-mid evening on a weeknight, before the after-9pm rush that's common across the region once the day's heat has fully lifted.
+
+Payment across RAK restaurants is overwhelmingly by card or mobile wallet at this point, though it's sensible to carry some cash (UAE dirhams) as backup, since not every smaller or family-run establishment processes every card network smoothly. Tipping isn't legally mandated in the UAE but is customary and appreciated — rounding up or leaving roughly 10% in cash directly with staff is the norm, since service charges on the bill don't always reach servers directly.
+
+The most common mistake visitors make with under-the-radar local favorites like this one is treating it as a quick stop between attractions; instead, treat the meal itself as the destination, ask staff what they'd recommend rather than defaulting to familiar dishes, and allow a full hour or more to actually enjoy it the way regular guests do.
 
 ## Nearby to pair with your visit
 

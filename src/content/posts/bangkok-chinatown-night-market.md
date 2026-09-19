@@ -65,11 +65,15 @@ updatedDate: '2026-08-28'
 
 ## Why Go
 
-Bangkok's Chinatown, known locally as Yaowarat, has been a center of Chinese-Thai commerce and street food since the late 18th century, when Chinese merchants settled along the Chao Phraya River. Today the Chinatown Night Market (centered around Maha Chak Road and Yaowarat Road, Samphanthawong district) is one of the most concentrated stretches of street-food stalls in the city, with a Google rating of 4.5 from nearly 3,900 reviews, a strong signal for a destination with no fixed menu and constantly rotating vendors. This isn't a curated food hall; it's a living, chaotic market where woks fire up after dark and the smell of charcoal-grilled seafood mixes with incense from nearby shrines.
+Bangkok's Chinatown, known locally as Yaowarat, has been a center of Chinese-Thai commerce and street food since the late 18th century, when Chinese merchants settled along the Chao Phraya River. Today the Chinatown Night Market (centered around Maha Chak Road and Yaowarat Road, Samphanthawong district) is one of the most concentrated stretches of street-food stalls in the city, with a Google rating of 4.5 from nearly 3,900 reviews, a strong signal for a destination with no fixed menu and constantly rotating vendors.
+
+This isn't a curated food hall; it's a living, chaotic market where woks fire up after dark and the smell of charcoal-grilled seafood mixes with incense from nearby shrines.
 
 ## Getting There
 
-The easiest approach is the MRT Blue Line to **Wat Mangkon station**, using **Exit 1**, which drops you directly onto Charoen Krung Road within a five-minute walk of Yaowarat Road. If coming from the river side, take a Chao Phraya Express Boat to Ratchawong Pier, then walk east about 10 minutes into the market streets. Taxis are an option but traffic through Chinatown after 6pm is notoriously slow, so the MRT is the more reliable choice. The market itself sits at 148 Maha Chak Road, in the Chakkrawat sub-district, a short walk from the Odeon Circle Gate, a good landmark to orient yourself before diving into the smaller sois.
+The easiest approach is the MRT Blue Line to **Wat Mangkon station**, using **Exit 1**, which drops you directly onto Charoen Krung Road within a five-minute walk of Yaowarat Road. If coming from the river side, take a Chao Phraya Express Boat to Ratchawong Pier, then walk east about 10 minutes into the market streets. Taxis are an option but traffic through Chinatown after 6pm is notoriously slow, so the MRT is the more reliable choice.
+
+The market itself sits at 148 Maha Chak Road, in the Chakkrawat sub-district, a short walk from the Odeon Circle Gate, a good landmark to orient yourself before diving into the smaller sois.
 
 ## What to Eat
 
@@ -91,4 +95,6 @@ The market comes alive after **6pm** and runs until around midnight, with the pe
 
 ## Nearby & Tips
 
-Wat Traimit, home to the 5.5-ton Golden Buddha, is a 10-minute walk south and worth combining with an early evening visit before the market gets crowded. Sampeng Lane, a narrow wholesale market street, runs parallel and is worth a daytime detour if you're in the area before dark. Bring small cash denominations in Thai baht. Most stalls don't take cards, and change for large notes can be hard to come by from cart vendors. Finally, treat this as a walking meal: wear something you don't mind smelling like charcoal smoke afterward, and pace yourself between stalls rather than committing to the first queue you see.
+Wat Traimit, home to the 5.5-ton Golden Buddha, is a 10-minute walk south and worth combining with an early evening visit before the market gets crowded. Sampeng Lane, a narrow wholesale market street, runs parallel and is worth a daytime detour if you're in the area before dark. Bring small cash denominations in Thai baht. Most stalls don't take cards, and change for large notes can be hard to come by from cart vendors.
+
+Finally, treat this as a walking meal: wear something you don't mind smelling like charcoal smoke afterward, and pace yourself between stalls rather than committing to the first queue you see.

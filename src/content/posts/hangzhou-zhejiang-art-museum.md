@@ -105,7 +105,9 @@ Plan on 45 minutes for a quick pass through one or two galleries, or up to 90 mi
 
 Go on a weekday morning, right after opening if you can manage it (locals treat this stretch of Nanshan Road as an early lap around the lake before the tour groups arrive, and the museum benefits from the same lull. Bring a passport or ID, since Chinese museums typically require it for entry even when admission is free, and don't assume you can just walk in with a bag) larger bags often need to go through a checkpoint or storage.
 
-Payment for any café or shop on site will be almost entirely mobile (WeChat Pay/Alipay) rather than cash, so have a Chinese payment app set up beforehand if you plan to buy anything. Dress and behave as you would in any quiet gallery: voices low, no flash photography near works on paper, and no touching scrolls or frames. The mistake first-time visitors make is treating this as a five-minute photo-op between West Lake sights. The galleries are calm enough that rushing through defeats the point; better to treat it as the deliberate slow beat in an otherwise fast day of sightseeing.
+Payment for any café or shop on site will be almost entirely mobile (WeChat Pay/Alipay) rather than cash, so have a Chinese payment app set up beforehand if you plan to buy anything. Dress and behave as you would in any quiet gallery: voices low, no flash photography near works on paper, and no touching scrolls or frames. The mistake first-time visitors make is treating this as a five-minute photo-op between West Lake sights.
+
+The galleries are calm enough that rushing through defeats the point; better to treat it as the deliberate slow beat in an otherwise fast day of sightseeing.
 
 ## Nearby to combine
 

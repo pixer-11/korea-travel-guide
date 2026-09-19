@@ -48,7 +48,9 @@ The Bol d'Or is the oldest and most storied round of the FIM Endurance World Cha
 
 ## Getting there
 
-Circuit Paul Ricard sits inland from the Mediterranean coast near Le Castellet, in the Var department of Provence, roughly midway between Marseille and Toulon. Marseille Provence Airport is the most practical international gateway; from there it's a drive of well under an hour to the circuit. If you're coming by train, Marseille-Saint-Charles or Toulon stations connect to the wider TGV network, but there's no direct rail line to the track itself, so you'll need a rental car, taxi, or one of the shuttle services that race organizers typically run from nearby towns during the event. Check the official Bol d'Or site closer to the date for shuttle details, since these are arranged fresh each year.
+Circuit Paul Ricard sits inland from the Mediterranean coast near Le Castellet, in the Var department of Provence, roughly midway between Marseille and Toulon. Marseille Provence Airport is the most practical international gateway; from there it's a drive of well under an hour to the circuit. If you're coming by train, Marseille-Saint-Charles or Toulon stations connect to the wider TGV network, but there's no direct rail line to the track itself, so you'll need a rental car, taxi, or one of the shuttle services that race organizers typically run from nearby towns during the event.
+
+Check the official Bol d'Or site closer to the date for shuttle details, since these are arranged fresh each year.
 
 If you're driving, expect local traffic restrictions and dedicated event parking areas around the circuit; arriving early on race day is the only reliable way to avoid a long crawl in.
 

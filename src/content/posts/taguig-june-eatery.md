@@ -27,7 +27,9 @@ draft: true
 
 ## Why June Eatery is worth seeking out
 
-BGC has no shortage of concept restaurants chasing the next big opening, but June Eatery arrives with a pedigree that makes it easy to trust: it's from the same team behind Bibio, one of the neighborhood's more talked-about dining projects, and it's led in the kitchen by executive chef Kier Ibañez. What sets it apart on paper is its structure. This isn't a lunch-only café or a dinner-only tasting room, but a genuine all-day operation designed to work whether you walk in for a mid-morning coffee and eggs or a shared spread of small plates after work.
+BGC has no shortage of concept restaurants chasing the next big opening, but June Eatery arrives with a pedigree that makes it easy to trust: it's from the same team behind Bibio, one of the neighborhood's more talked-about dining projects, and it's led in the kitchen by executive chef Kier Ibañez. What sets it apart on paper is its structure.
+
+This isn't a lunch-only café or a dinner-only tasting room, but a genuine all-day operation designed to work whether you walk in for a mid-morning coffee and eggs or a shared spread of small plates after work.
 
 The menu leans globally-influenced and shareable, meaning the format encourages ordering across categories and passing plates around the table rather than everyone locking into their own single dish.
 

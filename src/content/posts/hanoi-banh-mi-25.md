@@ -97,15 +97,21 @@ updatedDate: '2026-09-03'
 
 ## Why go
 
-Banh Mi 25 has built a reputation (nearly 17,000 Google reviews and a 4.5 rating) as one of the most reliable banh mi stops in Hanoi's Old Quarter. It's not a polished restaurant; it's a street-side stall doing one thing at high volume: stuffing crusty Vietnamese baguettes with an extensive range of fillings, from classic pâté-and-pork combos to grilled meats, eggs, and cold cuts. For visitors trying to understand why banh mi became a global fast-food export, this is a solid, unfussy place to taste the original format done at scale.
+Banh Mi 25 has built a reputation (nearly 17,000 Google reviews and a 4.5 rating) as one of the most reliable banh mi stops in Hanoi's Old Quarter. It's not a polished restaurant; it's a street-side stall doing one thing at high volume: stuffing crusty Vietnamese baguettes with an extensive range of fillings, from classic pâté-and-pork combos to grilled meats, eggs, and cold cuts.
+
+For visitors trying to understand why banh mi became a global fast-food export, this is a solid, unfussy place to taste the original format done at scale.
 
 ## Getting there
 
-The address is 25 Phố Hàng Cá, in the Hoàn Kiếm district, right in the heart of the Old Quarter's tangle of "Hang" streets (each historically named for the trade once concentrated there, Hang Ca means "fish street"). It's an easy walk from Hoan Kiem Lake, roughly 10–15 minutes on foot heading north through the Old Quarter's grid. There's no metro line serving the Old Quarter yet, so most visitors arrive on foot from a nearby hotel, by taxi/Grab (traffic and one-way streets make this slower than walking short distances), or by rented bicycle. If you're coming from Hanoi's train station (Ga Hà Nội), it's about a 20–25 minute walk or a short taxi ride.
+The address is 25 Phố Hàng Cá, in the Hoàn Kiếm district, right in the heart of the Old Quarter's tangle of "Hang" streets (each historically named for the trade once concentrated there, Hang Ca means "fish street"). It's an easy walk from Hoan Kiem Lake, roughly 10–15 minutes on foot heading north through the Old Quarter's grid. There's no metro line serving the Old Quarter yet, so most visitors arrive on foot from a nearby hotel, by taxi/Grab (traffic and one-way streets make this slower than walking short distances), or by rented bicycle.
+
+If you're coming from Hanoi's train station (Ga Hà Nội), it's about a 20–25 minute walk or a short taxi ride.
 
 ## What to eat
 
-The draw here is the sheer range of the menu (this isn't a one-sandwich stall. Expect options built around Vietnamese cold cuts (cha lua), grilled or roasted pork, pate, fried egg, and the usual banh mi architecture: a light, thin-crusted baguette split and packed with pickled daikon and carrot, cucumber, fresh herbs (usually cilantro), a smear of pate or mayonnaise, and a few dashes of soy or chili sauce. Ask for it "cay" if you want it spicy. Portions are generous for the price, and this is very much a low-cost stop) priced at the cheap end even by Hanoi street food standards, typically just a small number of dollars per sandwich. Bring small denomination Vietnamese dong, since stalls like this move fast and don't linger over card payments or big bills.
+The draw here is the sheer range of the menu (this isn't a one-sandwich stall. Expect options built around Vietnamese cold cuts (cha lua), grilled or roasted pork, pate, fried egg, and the usual banh mi architecture: a light, thin-crusted baguette split and packed with pickled daikon and carrot, cucumber, fresh herbs (usually cilantro), a smear of pate or mayonnaise, and a few dashes of soy or chili sauce.
+
+Ask for it "cay" if you want it spicy. Portions are generous for the price, and this is very much a low-cost stop) priced at the cheap end even by Hanoi street food standards, typically just a small number of dollars per sandwich. Bring small denomination Vietnamese dong, since stalls like this move fast and don't linger over card payments or big bills.
 
 ## Where to sit
 

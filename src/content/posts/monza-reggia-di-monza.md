@@ -111,11 +111,15 @@ Give the interior two hours minimum, and don't skip the chapel, tucked into one 
 
 ## When to go
 
-The palace opening hours are unusual and worth double-checking before you plan around them: it's shut entirely on Mondays and Tuesdays, with different hours on the remaining days of the week, and weekends tending to run longer than weekdays. Because weekends draw steady crowds from roughly 10am to 7pm, a weekday afternoon visit is the calmer option if your schedule allows it. You'll have more room to actually look up at the ceilings instead of shuffling past them. If a weekend is your only option, go right at opening rather than mid-afternoon.
+The palace opening hours are unusual and worth double-checking before you plan around them: it's shut entirely on Mondays and Tuesdays, with different hours on the remaining days of the week, and weekends tending to run longer than weekdays. Because weekends draw steady crowds from roughly 10am to 7pm, a weekday afternoon visit is the calmer option if your schedule allows it.
+
+You'll have more room to actually look up at the ceilings instead of shuffling past them. If a weekend is your only option, go right at opening rather than mid-afternoon.
 
 ## How to visit like a local
 
-This is a well-known landmark, not a hidden corner, so the smart move is timing rather than secrecy. Wednesday to Friday afternoons are consistently quieter than weekends, and if you can only come on a Saturday or Sunday, aim to arrive right at opening, before the midday crowds build. Tickets are typically sold both online and at the door, but buying ahead online avoids any queue at the entrance on busy weekends. Check the official Reggia di Monza site for current prices and whether a guided tour slot is required, since access to some apartments has at times been guided-tour-only.
+This is a well-known landmark, not a hidden corner, so the smart move is timing rather than secrecy. Wednesday to Friday afternoons are consistently quieter than weekends, and if you can only come on a Saturday or Sunday, aim to arrive right at opening, before the midday crowds build. Tickets are typically sold both online and at the door, but buying ahead online avoids any queue at the entrance on busy weekends.
+
+Check the official Reggia di Monza site for current prices and whether a guided tour slot is required, since access to some apartments has at times been guided-tour-only.
 
 Payment at the ticket office and park cafés is by card as readily as cash. Italians visiting treat the grounds as public park space as much as a monument, you'll see joggers and dog walkers cutting through even outside museum hours, so don't feel you need to whisper through the gardens the way you might inside the apartments.
 

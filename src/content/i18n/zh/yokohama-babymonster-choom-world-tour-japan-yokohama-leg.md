@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: yokohama-babymonster-choom-world-tour-japan-yokohama-leg
-srcHash: 'f1747a06f1cd'
+srcHash: '4452af43a9cd'
 title: BABYMONSTER“Choom”世界巡演——日本站（横滨场）：出行须知（横滨）
 description: 2026年8月1日至2日，BABYMONSTER“Choom”世界巡演将来到日本横滨。本文介绍演出详情、时间地点，以及行程规划要点。
 quickAnswer: BABYMONSTER“Choom”世界巡演将于2026年8月1日至2日登陆横滨Pia Arena MM，这是她们日本六城十一场巡演中的一站。购票信息、开场时间和演出详情需通过组合官方YG/BABYMONSTER渠道及场馆官网获取。Pia Arena MM位于港未来（Minato Mirai）海滨区，从港未来站步行即可抵达。

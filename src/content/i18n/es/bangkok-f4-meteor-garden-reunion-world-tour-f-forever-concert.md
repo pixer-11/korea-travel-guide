@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bangkok-f4-meteor-garden-reunion-world-tour-f-forever-concert
-srcHash: '332fce5252c6'
+srcHash: '1852ff394218'
 title: 'Gira mundial de reencuentro de F4 (Meteor Garden) – Concierto F-Forever: lo que hay que saber (Bangkok)'
 description: Gira mundial de reencuentro de F4 (Meteor Garden) – Concierto F-Forever en Bangkok, Tailandia — 1 y 2 de agosto de 2026. Qué es, cuándo y dónde, y cómo planificar tu visita.
 quickAnswer: F4 —Jerry Yan, Vanness Wu y Vic Chou, el trío que convirtió Meteor Garden en un fenómeno panasiático a principios de los 2000— se reúne durante dos noches en el IMPACT Arena de Bangkok, del 1 al 2 de agosto de 2026, con Ashin, de Mayday, como invitado especial. Esta es la primera parada de su gira mundial de reencuentro, así que se espera una fuerte demanda regional por parte de fans de todo el Sudeste Asiático, Taiwán y China; confirma los horarios exactos, las categorías de entradas y las fechas de venta en los canales oficiales de la gira y del IMPACT Arena antes de reservar vuelos u hoteles.

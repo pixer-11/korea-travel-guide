@@ -110,7 +110,9 @@ Because the exact dishes and prices aren't fixed publicly in detail and can shif
 
 ## Getting there and visiting Cappadocia
 
-Babayan Evi sits within the wider Cappadocia region, most commonly accessed from the towns of Göreme, Ürgüp, or Uçhisar, which serve as the main tourist bases. Cappadocia itself is reached via Nevşehir Kapadokya Airport (NAV) or Kayseri Erkilet Airport (ASR), both roughly 40–70 minutes by road from the main towns, with shuttle transfers widely available for hotel guests. Since Cappadocia's towns are spread across a valley landscape rather than a walkable single center, plan on a taxi, rental car, or hotel transfer to reach the restaurant. Ask your accommodation for the exact address and drive time, since exact directions weren't part of the restaurant's public listing details.
+Babayan Evi sits within the wider Cappadocia region, most commonly accessed from the towns of Göreme, Ürgüp, or Uçhisar, which serve as the main tourist bases. Cappadocia itself is reached via Nevşehir Kapadokya Airport (NAV) or Kayseri Erkilet Airport (ASR), both roughly 40–70 minutes by road from the main towns, with shuttle transfers widely available for hotel guests. Since Cappadocia's towns are spread across a valley landscape rather than a walkable single center, plan on a taxi, rental car, or hotel transfer to reach the restaurant.
+
+Ask your accommodation for the exact address and drive time, since exact directions weren't part of the restaurant's public listing details.
 
 ## When to go and how to plan
 

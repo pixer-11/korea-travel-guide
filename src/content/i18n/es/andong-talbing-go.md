@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: andong-talbing-go
-srcHash: '0999f8a38d74'
+srcHash: '5b88b20317af'
 title: 'Talbing-Go: dónde comer en Andong'
 description: Talbing-Go es un restaurante informal pegado al Museo de las Máscaras de Hahoe (Hahoe Mask Museum), en el borde de la Aldea Folclórica de Hahoe (Hahoe Folk Village) en Andong, y es el lugar más práctico para comer bien justo después de recorrer las máscaras y las casas de techo de paja.
 quickAnswer: Talbing-Go es un restaurante informal pegado al Museo de las Máscaras de Hahoe, en el borde de la Aldea Folclórica de Hahoe en Andong, y es el lugar más práctico para comer bien justo después de recorrer las máscaras y las casas de techo de paja. Conviene ir por la comida típica de Andong (guisos emparentados con el jjimdak y platos de fideos propios de la zona) a precios moderados, idealmente justo después de que cierre el museo o antes de que lleguen las multitudes a la aldea. Reserve entre 45 y 60 minutos, y combínelo con un paseo por la propia Aldea de Hahoe.

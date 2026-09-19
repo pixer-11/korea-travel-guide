@@ -27,6 +27,7 @@ faq:
     a: Nambu Market (especially its Friday–Saturday night market), Omokdae and Imokdae hillside pavilions, and Jeondong Catholic Church are all within a short walk of the main restaurant streets.
 aiGenerated: true
 draft: true
+country: South Korea
 ---
 
 ## Why Jeonju Is Korea's Food Capital
@@ -35,7 +36,9 @@ Jeonju has been synonymous with Korean cuisine for centuries — it's the birthp
 
 ## Getting There and Getting Around
 
-Jeonju doesn't have a subway system, so most visitors arrive by KTX or intercity bus. Jeonju Station connects to Yongsan Station in Seoul in under two hours by KTX. From Jeonju Station, the Hanok Village and its restaurant cluster are about a 15–20 minute taxi ride (roughly ₩6,000–8,000) or a 25-minute ride on city buses 79, 12, or What's more, many first-time visitors base themselves near the Hanok Village itself, since the best-known eating streets are walkable from there. Nambu Market, another essential food destination, sits just south of the Hanok Village across the Jeonju stream, an easy 10-minute walk.
+Jeonju doesn't have a subway system, so most visitors arrive by KTX or intercity bus. Jeonju Station connects to Yongsan Station in Seoul in under two hours by KTX. From Jeonju Station, the Hanok Village and its restaurant cluster are about a 15–20 minute taxi ride (roughly ₩6,000–8,000) or a 25-minute ride on city buses 79, 12, or What's more, many first-time visitors base themselves near the Hanok Village itself, since the best-known eating streets are walkable from there.
+
+Nambu Market, another essential food destination, sits just south of the Hanok Village across the Jeonju stream, an easy 10-minute walk.
 
 ## What to Eat and Where
 

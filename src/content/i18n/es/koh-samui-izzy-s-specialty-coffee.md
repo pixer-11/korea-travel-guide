@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: koh-samui-izzy-s-specialty-coffee
-srcHash: '4d0f546a7dd3'
+srcHash: '5bbe3282d21c'
 title: 'Izzy''s Specialty Coffee: Guía de Viaje de Koh Samui'
 description: 'Izzy''s Specialty Coffee es una cafetería independiente y climatizada, con ventanales de suelo a techo, a dos minutos a pie de Fisherman''s Village, en Bo Put, en la costa norte de Koh Samui. Conviene llegar antes de las 10:00 para conseguir mesa y pedir aquello en lo que se especializan: cafés de espresso, desde un flat white a base de ristretto hasta su Latte Cloud.'
 quickAnswer: 'Izzy''s Specialty Coffee es una cafetería independiente y climatizada, con ventanales de suelo a techo, a dos minutos a pie de Fisherman''s Village, en Bo Put, en la costa norte de Koh Samui. Conviene llegar antes de las 10:00 para conseguir mesa y pedir aquello en lo que se especializan: cafés de espresso, desde un flat white a base de ristretto hasta su Latte Cloud. Se puede llegar caminando desde la calle peatonal de Fisherman''s Village, y combina bien con una mañana de playa en el muelle de Bo Put (Bo Put Pier). Conviene reservar entre 30 y 45 minutos, ya que hacia el mediodía se llena, algo lógico dadas sus más de 1.000 reseñas casi perfectas.'

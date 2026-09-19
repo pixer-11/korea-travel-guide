@@ -60,7 +60,9 @@ Alamo Square sits in the Western Addition, roughly between the Haight and Japant
 
 ## What you'll actually see and do
 
-The postcard shot is taken from the sidewalk on Alamo Square's east side, near Steiner and Hayes, looking across the grass at the houses with downtown skyscrapers behind them. Most visitors spend twenty to thirty minutes here: find the classic angle, take photos, maybe walk the perimeter path for a slightly different vantage. The park itself is worth lingering in beyond the photo op. It's a genuine neighborhood green space with sweeping views west toward the Haight and Twin Peaks, and it's common to see locals picnicking, walking dogs, or doing yoga on the lawn.
+The postcard shot is taken from the sidewalk on Alamo Square's east side, near Steiner and Hayes, looking across the grass at the houses with downtown skyscrapers behind them. Most visitors spend twenty to thirty minutes here: find the classic angle, take photos, maybe walk the perimeter path for a slightly different vantage. The park itself is worth lingering in beyond the photo op.
+
+It's a genuine neighborhood green space with sweeping views west toward the Haight and Twin Peaks, and it's common to see locals picnicking, walking dogs, or doing yoga on the lawn.
 
 If you want a longer outing, the square connects easily to a walking route through Hayes Valley, a few blocks east, which is dense with boutiques, cafés, and places to eat.
 

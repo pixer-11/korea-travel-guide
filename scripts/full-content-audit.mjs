@@ -11,6 +11,7 @@
 //  Env: ANTHROPIC_API_KEY. LIMIT, CONCURRENCY (default 6), START (slug offset).
 // ─────────────────────────────────────────────────────────────
 import './lib/env.mjs';
+import { crowdClaimSupported } from './lib/crowd-claim.mjs';
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import { createHash } from 'node:crypto';
@@ -190,7 +191,18 @@ async function main() {
       } catch (e) { r.imageError = e.message.slice(0, 60); }
       try {
         const issues = await editorCheck(p);
-        if (issues.length) { r.prose = issues; proseBad++; }
+        // The model does not get a vote on numbers we measured. It is handed
+        // the crowd hours (verifiedBlock) and STILL reports a sentence quoting
+        // them as invented: on the 2026-09-19 queue, 157 findings quoted a
+        // clock time and 141 sat on a post whose own busyness covers those
+        // hours. Each one would have cost a repair call that waters down the
+        // one fact this site has and others do not. Checked against the
+        // numbers here, in the direction the sentence claims, so a genuinely
+        // wrong claim ("quietest" at a measured-busy hour) still stands.
+        const kept = issues.filter((i) => !crowdClaimSupported(i.quote, p.data.place?.busyness));
+        const vetoed = issues.length - kept.length;
+        if (vetoed) console.log(`    · ${p.slug}: ${vetoed} crowd claim(s) match the measured hours — not a finding`);
+        if (kept.length) { r.prose = kept; proseBad++; }
       } catch (e) { r.proseError = e.message.slice(0, 60); }
       const bad = r.image || r.prose || r.imageError || r.proseError;
       if (bad) results.push(r);

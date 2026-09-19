@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: dubai-al-fahidi-historical-neighbourhood
-srcHash: 'eabb635fea8e'
+srcHash: '2565771f753d'
 title: 阿法伊迪历史街区：迪拜旅行指南
 description: 阿法伊迪历史街区位于河湾（Creek）的布尔迪拜（Bur Dubai）一侧，紧邻阿法伊迪地铁站（绿线），是迪拜保存最完好的老城区——珊瑚石与石膏建成的风塔屋鳞次栉比，如今遍布博物馆、画廊与咖啡馆。
 quickAnswer: 阿法伊迪历史街区位于河湾（Creek）的布尔迪拜（Bur Dubai）一侧，紧邻阿法伊迪地铁站（绿线），是迪拜保存最完好的老城区——珊瑚石与石膏建成的风塔屋鳞次栉比，如今遍布博物馆、画廊与咖啡馆。建议留出2-3小时游览，最好选在清晨凉爽时段或日落之后前往，还可以顺路走一走纺织品市场，再乘阿布拉（abra）小船横渡河湾。

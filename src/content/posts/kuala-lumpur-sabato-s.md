@@ -38,7 +38,9 @@ Since Kimpton hotels are known for boutique, design-forward properties with a pl
 
 ## Getting there
 
-TRX is one of Kuala Lumpur's newest business and lifestyle districts, purpose-built with its own MRT interchange — TRX MRT station on the Kajang Line, which also connects to the Circle Line (MRT2), making it one of the more straightforward new-development destinations to reach without a car. From the station, Kimpton Naluria and the TRX Exchange TRX mall complex are a short, well-signed walk through the development's elevated walkways, which is useful during KL's frequent afternoon downpours. If arriving by car or e-hailing (Grab is the standard app locally), the hotel has porte-cochère drop-off, and TRX has multiple paid parking structures tied to the mall.
+TRX is one of Kuala Lumpur's newest business and lifestyle districts, purpose-built with its own MRT interchange — TRX MRT station on the Kajang Line, which also connects to the Circle Line (MRT2), making it one of the more straightforward new-development destinations to reach without a car. From the station, Kimpton Naluria and the TRX Exchange TRX mall complex are a short, well-signed walk through the development's elevated walkways, which is useful during KL's frequent afternoon downpours.
+
+If arriving by car or e-hailing (Grab is the standard app locally), the hotel has porte-cochère drop-off, and TRX has multiple paid parking structures tied to the mall.
 
 Because Sabato's sits within a hotel in a still-developing district, it's worth confirming the exact entrance and whether the restaurant is accessed from the hotel lobby or a separate street-level entry — signage in newer KL developments can lag behind opening buzz.
 

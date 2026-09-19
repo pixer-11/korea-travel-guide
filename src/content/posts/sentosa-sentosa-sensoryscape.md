@@ -81,7 +81,9 @@ Alternatively, walk across Sentosa Boardwalk from VivoCity (about 15–20 minute
 
 ## What to see and do
 
-The installation is designed as a series of themed zones rather than one static display. Expect a canopy of sculptural, tree-like light structures that illuminate after dark, interactive water and mist features that respond to movement or touch, and quieter garden pockets with seating for resting mid-walk. Because it functions as a connector between the beach and the rest of Sentosa, it works well as a slow amble rather than a fixed "attraction visit". Walk one direction toward Siloso Beach for sand, food kiosks, and sunset views, or the other way toward Beach Station and the boardwalk back to VivoCity.
+The installation is designed as a series of themed zones rather than one static display. Expect a canopy of sculptural, tree-like light structures that illuminate after dark, interactive water and mist features that respond to movement or touch, and quieter garden pockets with seating for resting mid-walk. Because it functions as a connector between the beach and the rest of Sentosa, it works well as a slow amble rather than a fixed "attraction visit".
+
+Walk one direction toward Siloso Beach for sand, food kiosks, and sunset views, or the other way toward Beach Station and the boardwalk back to VivoCity.
 
 Photographers should note the light installations are most striking about 30 minutes after sunset, once ambient daylight has faded but the sky still holds some color.
 

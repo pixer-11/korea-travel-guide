@@ -32,7 +32,9 @@ draft: true
 
 ## Why Seasee, why now
 
-Bandra doesn't need another restaurant, but it keeps getting them anyway, and Seasee is the kind of arrival that makes sense of that appetite. It comes from the team behind Mirai, one of the city's more talked-about kitchens, and instead of repeating that formula, they've turned toward the street stalls of Bangkok, Jakarta and Kuala Lumpur. The result isn't a pan-Asian menu trying to please everyone. It's a specific, researched take on Southeast Asian street food, anchored by dishes like Tom Yum, a sharp, herbaceous Thai Mango Salad, and a Singapore Chilli Crab Lajiao that leans into the sweet-hot, tomato-and-chilli lacquer the dish is known for.
+Bandra doesn't need another restaurant, but it keeps getting them anyway, and Seasee is the kind of arrival that makes sense of that appetite. It comes from the team behind Mirai, one of the city's more talked-about kitchens, and instead of repeating that formula, they've turned toward the street stalls of Bangkok, Jakarta and Kuala Lumpur. The result isn't a pan-Asian menu trying to please everyone.
+
+It's a specific, researched take on Southeast Asian street food, anchored by dishes like Tom Yum, a sharp, herbaceous Thai Mango Salad, and a Singapore Chilli Crab Lajiao that leans into the sweet-hot, tomato-and-chilli lacquer the dish is known for.
 
 ## What the room feels like
 

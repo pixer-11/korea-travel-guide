@@ -48,7 +48,9 @@ For visitors, the appeal isn't just the music. It's seeing a top-tier lineup ins
 
 ## Getting there
 
-The festival grounds sit in Saint-Cloud, a leafy commune just west of Paris on the edge of the Bois de Boulogne side of the Seine, which makes the site an easy day-trip or evening-out from central Paris rather than a destination requiring a hotel change. The most straightforward route from central Paris is Transilien line L from Paris Saint-Lazare (or line U from La Défense) to Gare de Saint-Cloud, followed by a signposted walk or a festival shuttle bus up into the domaine. The grounds are elevated above the town, so the approach is uphill or a short shuttle ride rather than a flat stroll.
+The festival grounds sit in Saint-Cloud, a leafy commune just west of Paris on the edge of the Bois de Boulogne side of the Seine, which makes the site an easy day-trip or evening-out from central Paris rather than a destination requiring a hotel change. The most straightforward route from central Paris is Transilien line L from Paris Saint-Lazare (or line U from La Défense) to Gare de Saint-Cloud, followed by a signposted walk or a festival shuttle bus up into the domaine.
+
+The grounds are elevated above the town, so the approach is uphill or a short shuttle ride rather than a flat stroll.
 
 Paris Métro Line 9 also reaches Pont de Sèvres, a station used by some attendees as an alternative approach on the south side of the park. Rock en Seine draws large evening crowds, and transit around headliner sets typically runs slower than usual, with the station walk adding time for anyone coming in for an early-afternoon start.
 

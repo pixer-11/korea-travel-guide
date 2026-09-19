@@ -21,21 +21,31 @@ faq:
 
 ## Por qué ir vía el puerto de Jongdal
 
-La mayoría de los visitantes de Udo, la pequeña isla volcánica famosa por su helado de cacahuete, su costa de lava negra y la playa de arena de conchas de Seobinbaeksa, pasan por el puerto de Seongsan porque está junto a Seongsan Ilchulbong (Pico del Amanecer). El puerto de Jongdal, unos pocos kilómetros al norte en Gujwa-eup, es la alternativa más tranquila. Se trata de un puerto pesquero en activo más que de un centro turístico, por lo que hay menos aglomeración en la taquilla y en el aparcamiento, y encaja de forma natural en un itinerario por el noreste de Jeju que incluya Hado-ri, la playa de Sehwa y las rutas costeras del Sendero Olle de Jeju (el Sendero Olle 21 pasa justo por este tramo de costa).
+La mayoría de los visitantes de Udo, la pequeña isla volcánica famosa por su helado de cacahuete, su costa de lava negra y la playa de arena de conchas de Seobinbaeksa, pasan por el puerto de Seongsan porque está junto a Seongsan Ilchulbong (Pico del Amanecer). El puerto de Jongdal, unos pocos kilómetros al norte en Gujwa-eup, es la alternativa más tranquila.
+
+Se trata de un puerto pesquero en activo más que de un centro turístico, por lo que hay menos aglomeración en la taquilla y en el aparcamiento, y encaja de forma natural en un itinerario por el noreste de Jeju que incluya Hado-ri, la playa de Sehwa y las rutas costeras del Sendero Olle de Jeju (el Sendero Olle 21 pasa justo por este tramo de costa).
 
 ## Cómo llegar
 
-El puerto de Jongdal se encuentra en 484-7 Jongdal-ri, Gujwa-eup, en la costa noreste de Jeju. Como en Jeju no hay metro, la mayoría de los viajeros llega en coche de alquiler o taxi; el puerto cuenta con una zona de aparcamiento propia, una de sus ventajas prácticas frente a los aparcamientos, a menudo abarrotados, cerca de Seongsan. Si dependes del autobús público, las rutas interurbanas que circulan por la carretera costera (la línea 201 de Jeju o autobuses regionales que conectan la ciudad de Jeju y Seongsan) paran en Jongdal-ri, aunque los horarios son poco frecuentes, por lo que se recomienda encarecidamente un coche si tu día incluye varias paradas. Desde la ciudad de Jeju, el trayecto por la carretera costera (Ruta 1132) dura aproximadamente 40-50 minutos; desde Seongsan, unos 15 minutos.
+El puerto de Jongdal se encuentra en 484-7 Jongdal-ri, Gujwa-eup, en la costa noreste de Jeju. Como en Jeju no hay metro, la mayoría de los viajeros llega en coche de alquiler o taxi; el puerto cuenta con una zona de aparcamiento propia, una de sus ventajas prácticas frente a los aparcamientos, a menudo abarrotados, cerca de Seongsan. Si dependes del autobús público, las rutas interurbanas que circulan por la carretera costera (la línea 201 de Jeju o autobuses regionales que conectan la ciudad de Jeju y Seongsan) paran en Jongdal-ri, aunque los horarios son poco frecuentes, por lo que se recomienda encarecidamente un coche si tu día incluye varias paradas.
+
+Desde la ciudad de Jeju, el trayecto por la carretera costera (Ruta 1132) dura aproximadamente 40-50 minutos; desde Seongsan, unos 15 minutos.
 
 ## Tomar el ferry a Udo
 
-Los ferris a Udo salen del puerto de Jongdal a intervalos regulares, normalmente cada 20 a 30 minutos desde primera hora de la mañana hasta última hora de la tarde, con la hora exacta de la última salida variando según la temporada. La travesía en sí es corta, de unos 10 a 15 minutos, y desembarca en el puerto de Cheonjin, en el lado occidental de Udo. En la taquilla necesitarás un pasaporte o documento de identidad coreano para el registro de pasajeros, ya que los operadores de ferris coreanos están obligados a registrar la identidad de los pasajeros. Los billetes suelen venderse como tarifa de ida y vuelta, y normalmente hay una pequeña tarifa de entrada aparte para la propia Udo, que se cobra en el puerto o se incluye en el precio del billete. Como los precios y horarios cambian de un año a otro, confirma el tablón de tarifas actual y las horas de salida en el lugar o con tu alojamiento antes de planificar tu día en torno a una salida concreta.
+Los ferris a Udo salen del puerto de Jongdal a intervalos regulares, normalmente cada 20 a 30 minutos desde primera hora de la mañana hasta última hora de la tarde, con la hora exacta de la última salida variando según la temporada. La travesía en sí es corta, de unos 10 a 15 minutos, y desembarca en el puerto de Cheonjin, en el lado occidental de Udo.
+
+En la taquilla necesitarás un pasaporte o documento de identidad coreano para el registro de pasajeros, ya que los operadores de ferris coreanos están obligados a registrar la identidad de los pasajeros. Los billetes suelen venderse como tarifa de ida y vuelta, y normalmente hay una pequeña tarifa de entrada aparte para la propia Udo, que se cobra en el puerto o se incluye en el precio del billete.
+
+Como los precios y horarios cambian de un año a otro, confirma el tablón de tarifas actual y las horas de salida en el lugar o con tu alojamiento antes de planificar tu día en torno a una salida concreta.
 
 Una vez en Udo, la mayoría de los visitantes alquila un patinete eléctrico, una bicicleta o un pequeño buggy cerca del puerto de Cheonjin para recorrer la carretera perimetral de la isla, de unos 17 kilómetros, parando en la playa de Seobinbaeksa, la playa de Hagosudong y el Parque del Faro de Udo (Pico Udobong) para disfrutar de vistas costeras hacia Seongsan Ilchulbong.
 
 ## Cuándo ir y cuánto tiempo dedicarle
 
-Las salidas de primera hora de la mañana (antes de las 9-10 a. m.) suelen ser las más tranquilas y con menos gente, y te dan un día completo en Udo antes de las últimas salidas de regreso a última hora de la tarde o al anochecer. Reserva al menos 3-4 horas en la isla si quieres recorrerla en patinete y parar a comer; una visita apresurada de menos de 2 horas solo da tiempo para la playa más cercana al puerto. La primavera y principios de otoño ofrecen el clima más agradable para pasear en bicicleta o patinete, mientras que el verano es temporada alta con el mayor tráfico de ferris. Los ferris pueden suspenderse o retrasarse con vientos fuertes o mar agitado, algo que ocurre con más frecuencia en invierno, así que conviene consultar el pronóstico y tener un plan alternativo para ese día.
+Las salidas de primera hora de la mañana (antes de las 9-10 a. m.) suelen ser las más tranquilas y con menos gente, y te dan un día completo en Udo antes de las últimas salidas de regreso a última hora de la tarde o al anochecer. Reserva al menos 3-4 horas en la isla si quieres recorrerla en patinete y parar a comer; una visita apresurada de menos de 2 horas solo da tiempo para la playa más cercana al puerto.
+
+La primavera y principios de otoño ofrecen el clima más agradable para pasear en bicicleta o patinete, mientras que el verano es temporada alta con el mayor tráfico de ferris. Los ferris pueden suspenderse o retrasarse con vientos fuertes o mar agitado, algo que ocurre con más frecuencia en invierno, así que conviene consultar el pronóstico y tener un plan alternativo para ese día.
 
 ## Alrededores y consejos
 

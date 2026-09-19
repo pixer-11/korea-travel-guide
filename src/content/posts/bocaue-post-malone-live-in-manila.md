@@ -88,7 +88,9 @@ Sound tends to carry well given the building's design, though if you're seated f
 
 ## Nearby things worth knowing
 
-Bocaue itself is a quiet town outside concert season, better known regionally for freshwater fish and small local eateries than for tourist infrastructure, so don't expect a dense cluster of hotels right at the Arena's doorstep. Most visitors base themselves in Quezon City or elsewhere in Metro Manila and treat the concert as a day trip out and back. If you want to stretch the visit, the Bulacan area has a handful of heritage churches and local markets worth a look earlier in the day, but the main event here is the Arena itself. There isn't a built-out "concert district" to wander before or after the show the way there might be near a downtown venue.
+Bocaue itself is a quiet town outside concert season, better known regionally for freshwater fish and small local eateries than for tourist infrastructure, so don't expect a dense cluster of hotels right at the Arena's doorstep. Most visitors base themselves in Quezon City or elsewhere in Metro Manila and treat the concert as a day trip out and back. If you want to stretch the visit, the Bulacan area has a handful of heritage churches and local markets worth a look earlier in the day, but the main event here is the Arena itself.
+
+There isn't a built-out "concert district" to wander before or after the show the way there might be near a downtown venue.
 
 ## How to visit like a local
 

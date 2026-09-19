@@ -91,7 +91,9 @@ For visitors who've done the rounds of Uluwatu's clifftop lounges and want a cha
 
 ## Where it is and how to get there
 
-AVLI sits directly on Jalan Labuansait, the main artery running through Uluwatu village toward the famous surf break and Single Fin. This road is the spine of the area's dining and nightlife strip, so AVLI is easy to fold into an evening that also takes in nearby cafés, surf shops, and sunset spots. There's no public transport network to speak of on the Bukit. The standard approach is by scooter, private car, or a ride-hailing app (Gojek/Grab both operate in the area, though pickup can be slower than in central Kuta or Seminyak due to traffic on the peninsula's narrow roads).
+AVLI sits directly on Jalan Labuansait, the main artery running through Uluwatu village toward the famous surf break and Single Fin. This road is the spine of the area's dining and nightlife strip, so AVLI is easy to fold into an evening that also takes in nearby cafés, surf shops, and sunset spots. There's no public transport network to speak of on the Bukit.
+
+The standard approach is by scooter, private car, or a ride-hailing app (Gojek/Grab both operate in the area, though pickup can be slower than in central Kuta or Seminyak due to traffic on the peninsula's narrow roads).
 
 If you're staying in Uluwatu or Bingin, it's a short ride; from Seminyak or Canggu, budget 45 minutes to over an hour depending on traffic, especially around sunset when everyone converges on the Bukit's clifftop bars.
 

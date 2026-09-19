@@ -64,7 +64,9 @@ The Arboretum is a federal research facility run by the USDA, which is why it fe
 
 ## Getting there
 
-The honest downside first: there's no direct Metro access. The nearest stations are Stadium-Armory (Blue/Orange/Silver) and Minnesota Ave (Orange/Silver), both roughly a 20-25 minute walk or short bus/rideshare away, so most visitors arrive by car, bike, or taxi. There's free parking on-site near the R Street NE entrance and at the Administration Building, and honestly, having a car (or at least a bike) lets you actually cover ground. The property is big enough that the Azalea Collections, the National Grove of State Trees, and the bonsai museum can each feel like separate destinations.
+The honest downside first: there's no direct Metro access. The nearest stations are Stadium-Armory (Blue/Orange/Silver) and Minnesota Ave (Orange/Silver), both roughly a 20-25 minute walk or short bus/rideshare away, so most visitors arrive by car, bike, or taxi. There's free parking on-site near the R Street NE entrance and at the Administration Building, and honestly, having a car (or at least a bike) lets you actually cover ground.
+
+The property is big enough that the Azalea Collections, the National Grove of State Trees, and the bonsai museum can each feel like separate destinations.
 
 ## What to see
 

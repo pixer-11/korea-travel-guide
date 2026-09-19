@@ -71,23 +71,35 @@ draft: true
 
 ## Why go
 
-Kuta Lombok has grown fast over the last decade, evolving from a sleepy surf outpost into southern Lombok's main traveler hub, and Kenza Cafe & Restaurant has become one of the area's dependable names — a 4.6 rating from more than 3,600 reviews is a meaningful signal in a town with plenty of competing warungs and beach cafes. The draw here is the trendy-but-relaxed format: all-day breakfasts, smoothie bowls, fresh juices, and a menu that blends Indonesian standards with Western comfort food, aimed squarely at surfers, digital nomads, and beach-hoppers refueling between activities. It's a mid-range spot (price level 2), so it sits comfortably above basic street warungs but well below resort dining prices.
+Kuta Lombok has grown fast over the last decade, evolving from a sleepy surf outpost into southern Lombok's main traveler hub, and Kenza Cafe & Restaurant has become one of the area's dependable names — a 4.6 rating from more than 3,600 reviews is a meaningful signal in a town with plenty of competing warungs and beach cafes. The draw here is the trendy-but-relaxed format: all-day breakfasts, smoothie bowls, fresh juices, and a menu that blends Indonesian standards with Western comfort food, aimed squarely at surfers, digital nomads, and beach-hoppers refueling between activities.
+
+It's a mid-range spot (price level 2), so it sits comfortably above basic street warungs but well below resort dining prices.
 
 ## Getting there
 
-Kenza sits directly on Jl. Raya Kuta No.5B, in Kuta village, Kecamatan Pujut, Lombok Tengah — the main strip that runs through the heart of Kuta town, so it's walkable from most guesthouses and hotels clustered around the village center. If you're coming from Lombok International Airport (Bandara Internasional Lombok, BIL) in Praya, the drive is short — roughly 20–25 minutes by car or taxi, since Kuta sits just south of the airport, making this one of the more accessible trendy cafes on the island for arriving travelers. Grab (ride-hailing) coverage in Kuta can be inconsistent, so many visitors rely on hotel shuttles, rented scooters, or a pre-arranged driver. If you're staying near Kuta Beach itself, expect a 5–10 minute walk inland to reach the restaurant.
+Kenza sits directly on Jl. Raya Kuta No.5B, in Kuta village, Kecamatan Pujut, Lombok Tengah — the main strip that runs through the heart of Kuta town, so it's walkable from most guesthouses and hotels clustered around the village center. If you're coming from Lombok International Airport (Bandara Internasional Lombok, BIL) in Praya, the drive is short — roughly 20–25 minutes by car or taxi, since Kuta sits just south of the airport, making this one of the more accessible trendy cafes on the island for arriving travelers.
+
+Grab (ride-hailing) coverage in Kuta can be inconsistent, so many visitors rely on hotel shuttles, rented scooters, or a pre-arranged driver. If you're staying near Kuta Beach itself, expect a 5–10 minute walk inland to reach the restaurant.
 
 ## What to see / eat
 
-Expect an all-day menu built around smoothie bowls, egg breakfasts, burgers, pasta, and Indonesian plates like nasi goreng or gado-gado, plus specialty coffee and fresh juices — the kind of cross-cultural menu that's become the norm in Lombok's surf towns. Portions and presentation tend to lean toward the photogenic, open-air, plant-filled aesthetic that defines the "trendy cafe" category across Southeast Asia. Budget for a mid-range meal rather than street-food prices, consistent with its price level 2 positioning. Pair a visit with nearby Kuta Beach itself, a five-to-ten-minute walk away, or combine it with a look at Kuta's small central market and surf shops before or after eating.
+Expect an all-day menu built around smoothie bowls, egg breakfasts, burgers, pasta, and Indonesian plates like nasi goreng or gado-gado, plus specialty coffee and fresh juices — the kind of cross-cultural menu that's become the norm in Lombok's surf towns. Portions and presentation tend to lean toward the photogenic, open-air, plant-filled aesthetic that defines the "trendy cafe" category across Southeast Asia.
+
+Budget for a mid-range meal rather than street-food prices, consistent with its price level 2 positioning. Pair a visit with nearby Kuta Beach itself, a five-to-ten-minute walk away, or combine it with a look at Kuta's small central market and surf shops before or after eating.
 
 ## When to go
 
-Mornings are the natural fit here, both for the breakfast-and-smoothie-bowl menu and for beating the midday heat that builds up across southern Lombok's dry, sun-exposed landscape. Kuta's high season generally runs from roughly May through September (dry season, and prime surf swells), which is also when cafes like this one see their heaviest foot traffic; the shoulder months of April and October can offer a similar climate with a slightly thinner crowd. If you're set on a specific dish or want a quieter table, avoid rolling in right at the classic noon lunch rush.
+Mornings are the natural fit here, both for the breakfast-and-smoothie-bowl menu and for beating the midday heat that builds up across southern Lombok's dry, sun-exposed landscape. Kuta's high season generally runs from roughly May through September (dry season, and prime surf swells), which is also when cafes like this one see their heaviest foot traffic; the shoulder months of April and October can offer a similar climate with a slightly thinner crowd.
+
+If you're set on a specific dish or want a quieter table, avoid rolling in right at the classic noon lunch rush.
 
 ## How to visit like a local
 
-This is a well-known, well-reviewed restaurant, not a quiet find — arrive expecting other travelers, especially at breakfast and lunch peak hours (roughly 9–11am and 12–2pm). The most useful move is to shift your visit slightly off those windows — a late breakfast around 8am or a mid-afternoon coffee run tends to mean faster service and easier seating. Walking in rather than expecting a formal reservation system is standard for casual Kuta cafes, though it's worth calling ahead if you're part of a larger group. Card payment is increasingly accepted at established Kuta restaurants, but carrying some rupiah cash is still the safer bet in case of connectivity issues or card machine downtime — Kuta's infrastructure, while improving, isn't as consistent as Bali's tourist hubs. Tipping isn't obligatory in Indonesia the way it is in Western countries; rounding up the bill or leaving small change is appreciated but not expected. The mistake most first-time visitors make is treating Kuta like a quick day trip from Senggigi or Mataram — the drive is long enough that it undersells both the beach and the food scene here, so budget at least a half-day, or better, an overnight stay, to actually enjoy a sit-down meal without rushing back.
+This is a well-known, well-reviewed restaurant, not a quiet find — arrive expecting other travelers, especially at breakfast and lunch peak hours (roughly 9–11am and 12–2pm). The most useful move is to shift your visit slightly off those windows — a late breakfast around 8am or a mid-afternoon coffee run tends to mean faster service and easier seating. Walking in rather than expecting a formal reservation system is standard for casual Kuta cafes, though it's worth calling ahead if you're part of a larger group.
+
+Card payment is increasingly accepted at established Kuta restaurants, but carrying some rupiah cash is still the safer bet in case of connectivity issues or card machine downtime — Kuta's infrastructure, while improving, isn't as consistent as Bali's tourist hubs. Tipping isn't obligatory in Indonesia the way it is in Western countries; rounding up the bill or leaving small change is appreciated but not expected.
+
+The mistake most first-time visitors make is treating Kuta like a quick day trip from Senggigi or Mataram — the drive is long enough that it undersells both the beach and the food scene here, so budget at least a half-day, or better, an overnight stay, to actually enjoy a sit-down meal without rushing back.
 
 ## Nearby to combine
 

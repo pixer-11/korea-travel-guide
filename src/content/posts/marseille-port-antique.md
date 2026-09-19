@@ -99,7 +99,9 @@ It's a small site, so temper expectations: this isn't Ephesus. But for anyone wh
 
 ## Getting there
 
-The garden sits at 2 Rue Henri Barbusse, in the 1st arrondissement, wedged between the Centre Bourse mall and Rue de la République. The closest metro stop is Vieux-Port–Hôtel de Ville, a few minutes' walk south, or Colbert–Hôtel de Région on Line 1, both putting you within easy reach. If you're already wandering between the Vieux-Port and Le Panier, you'll likely pass within a block of it without trying. The entrance is easy to miss the first time since it's set below street level, so look for the railings and the dip in the pavement rather than a grand gate.
+The garden sits at 2 Rue Henri Barbusse, in the 1st arrondissement, wedged between the Centre Bourse mall and Rue de la République. The closest metro stop is Vieux-Port–Hôtel de Ville, a few minutes' walk south, or Colbert–Hôtel de Région on Line 1, both putting you within easy reach. If you're already wandering between the Vieux-Port and Le Panier, you'll likely pass within a block of it without trying.
+
+The entrance is easy to miss the first time since it's set below street level, so look for the railings and the dip in the pavement rather than a grand gate.
 
 ## What to see
 

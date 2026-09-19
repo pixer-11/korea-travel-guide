@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: bali-bukit-peninsula-uluwatu-avli
-srcHash: 'ba400f1cc78e'
+srcHash: '698fe5ba5518'
 title: AVLI in Bali（巴厘岛AVLI希腊餐厅）
 description: AVLI是一家全新的现代希腊餐厅，占地700平方米，坐落在巴厘岛武吉半岛乌鲁瓦图的拉布安塞特路（Jalan Labuansait）上，这条街正通向乌鲁瓦图的冲浪点和悬崖俱乐部聚集区。
 quickAnswer: AVLI是一家全新的现代希腊餐厅，占地700平方米，坐落在巴厘岛武吉半岛（Bukit Peninsula）乌鲁瓦图（Uluwatu）的拉布安塞特路（Jalan Labuansait）上，这条街正通向乌鲁瓦图的冲浪点和悬崖俱乐部聚集区。餐厅由建筑事务所DA Bureau操刀设计，在巴厘岛竞争激烈的高端餐饮市场中，是少数专注地中海／希腊料理的餐厅之一，显得颇为独特。由于是新近开业，前往之前最好先确认最新的营业时间、菜单内容，以及是否需要预约。

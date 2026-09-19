@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: da-nang-airtime-asia-2026
-srcHash: '3e4bab24453b'
+srcHash: 'c6b4b846ec6a'
 title: 2026年Airtime Asia音乐节指南（岘港）
 description: 2026年8月13日至16日，Airtime Asia音乐节将在越南岘港举行。这里介绍活动概况、时间地点，以及如何提前规划行程。
 quickAnswer: Airtime Asia 2026将于8月13日至16日在越南岘港（Da Nang）和会安（Hoi An）两地举行，超过40位艺人将在两座城市的15个以上场地轮番登场，内容涵盖俱乐部之夜、白日派对、主题座谈和电台直播。建议提前订好飞往岘港国际机场（DAD）的航班，并尽早安排好两地之一的住宿——由于具体场地和完整阵容仍在官方渠道确认中，购票或排行程之前最好先去查看最新信息。

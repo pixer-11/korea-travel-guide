@@ -19,7 +19,9 @@ faq:
 
 ## Por qué vale la pena buscar los restaurantes locales de Sokcho
 
-Sokcho se encuentra en la costa noreste de Corea, un antiguo pueblo pesquero que se ha convertido en la puerta de entrada al Parque Nacional de Seoraksan (Seoraksan National Park) y en una escapada de fin de semana a la playa desde Seúl. Su identidad gastronómica está determinada por la geografía: las frías aguas del mar del Este traen calamar, abadejo y cangrejo, mientras que los campos de trigo sarraceno de las montañas de la región dieron origen al *makguksu*, un plato de fideos fríos y elásticos que tanto Sokcho como la vecina Goseong reivindican como propio. Comer en un pequeño restaurante local aquí —en lugar de en una cadena o en el comedor de un hotel— marca la diferencia entre probar un plato del menú y probar el lugar en sí mismo.
+Sokcho se encuentra en la costa noreste de Corea, un antiguo pueblo pesquero que se ha convertido en la puerta de entrada al Parque Nacional de Seoraksan (Seoraksan National Park) y en una escapada de fin de semana a la playa desde Seúl. Su identidad gastronómica está determinada por la geografía: las frías aguas del mar del Este traen calamar, abadejo y cangrejo, mientras que los campos de trigo sarraceno de las montañas de la región dieron origen al *makguksu*, un plato de fideos fríos y elásticos que tanto Sokcho como la vecina Goseong reivindican como propio.
+
+Comer en un pequeño restaurante local aquí —en lugar de en una cadena o en el comedor de un hotel— marca la diferencia entre probar un plato del menú y probar el lugar en sí mismo.
 
 ## Dónde se concentran los locales auténticos
 
@@ -39,8 +41,12 @@ Tres zonas concentran la mejor comida auténtica de Sokcho:
 
 ## Cómo llegar y moverse
 
-Sokcho no tiene estación de tren; la manera práctica de llegar es en autobús interurbano o exprés desde la Terminal de Autobuses de Dong Seoul (Dong Seoul Bus Terminal), en Seúl (aproximadamente 2 a 2,5 horas), hasta la Terminal de Autobuses Exprés de Sokcho (Sokcho Express Bus Terminal), o en coche por la autopista Seúl-Yangyang (Seoul-Yangyang Expressway). Desde la terminal de autobuses, se puede llegar al mercado Jungang y a la zona de la playa en autobús local o en taxi (15-20 minutos). Para llegar al pueblo de Abai, toma un autobús o un taxi hasta la playa de Sokcho y luego cruza en el pequeño ferry manual que los lugareños todavía usan a diario; cuesta una tarifa fija reducida y el trayecto dura solo uno o dos minutos.
+Sokcho no tiene estación de tren; la manera práctica de llegar es en autobús interurbano o exprés desde la Terminal de Autobuses de Dong Seoul (Dong Seoul Bus Terminal), en Seúl (aproximadamente 2 a 2,5 horas), hasta la Terminal de Autobuses Exprés de Sokcho (Sokcho Express Bus Terminal), o en coche por la autopista Seúl-Yangyang (Seoul-Yangyang Expressway). Desde la terminal de autobuses, se puede llegar al mercado Jungang y a la zona de la playa en autobús local o en taxi (15-20 minutos).
+
+Para llegar al pueblo de Abai, toma un autobús o un taxi hasta la playa de Sokcho y luego cruza en el pequeño ferry manual que los lugareños todavía usan a diario; cuesta una tarifa fija reducida y el trayecto dura solo uno o dos minutos.
 
 ## Cuándo ir y consejos prácticos
 
-El almuerzo entre semana (11:30-13:00) evita lo peor de las multitudes, especialmente en los callejones del mercado, donde el número de asientos es limitado. El verano (julio-agosto) trae un intenso tráfico turístico de playa; finales de primavera y otoño son más tranquilos y combinan bien con una excursión al Seoraksan previa, ya que muchos visitantes comen en Sokcho después de un día en la montaña. El efectivo sigue siendo útil en los puestos más pequeños, aunque la mayoría de los restaurantes ya aceptan tarjeta. Los menús de los locales más auténticos suelen estar solo en coreano, a veces con fotos, así que señalar el plato de otra mesa o el mostrador de un puesto del mercado es una forma normal y aceptada de pedir.
+El almuerzo entre semana (11:30-13:00) evita lo peor de las multitudes, especialmente en los callejones del mercado, donde el número de asientos es limitado. El verano (julio-agosto) trae un intenso tráfico turístico de playa; finales de primavera y otoño son más tranquilos y combinan bien con una excursión al Seoraksan previa, ya que muchos visitantes comen en Sokcho después de un día en la montaña.
+
+El efectivo sigue siendo útil en los puestos más pequeños, aunque la mayoría de los restaurantes ya aceptan tarjeta. Los menús de los locales más auténticos suelen estar solo en coreano, a veces con fotos, así que señalar el plato de otra mesa o el mostrador de un puesto del mercado es una forma normal y aceptada de pedir.

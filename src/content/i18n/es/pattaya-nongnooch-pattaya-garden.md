@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: pattaya-nongnooch-pattaya-garden
-srcHash: '9293001b99b6'
+srcHash: '6a158dd6406d'
 title: 'Nongnooch Pattaya Garden: Guía de viaje (4.6★)'
 description: 'El Nongnooch Pattaya Garden, un parque botánico de 500 hectáreas situado en Na Chom Thian, distrito de Sattahip, al sur del centro de Pattaya, abre todos los días de 8am a 6pm y conviene visitarlo justo a la apertura. 4.6★ (44.349 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Nongnooch Pattaya Garden, un parque botánico de 500 hectáreas situado en Na Chom Thian, distrito de Sattahip, al sur del centro de Pattaya, abre todos los días de 8am a 6pm y lo mejor es visitarlo justo a la apertura. Los fines de semana se llena entre las 11am y las 4pm, así que llegar temprano te permite recorrer con tranquilidad los jardines de topiarios y cactus antes de que lleguen los autobuses de turistas. Si además quieres ver el espectáculo de elefantes y las funciones culturales, reserva al menos medio día.

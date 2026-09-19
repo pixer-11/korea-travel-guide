@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: bangkok-f4-meteor-garden-reunion-world-tour-f-forever-concert
-srcHash: '332fce5252c6'
+srcHash: '1852ff394218'
 title: 'F4(꽃보다 남자) 재결합 월드투어 – F-Forever 콘서트: 알아둘 것 (방콕)'
 description: 태국 방콕에서 열리는 F4(꽃보다 남자) 재결합 월드투어 – F-Forever 콘서트, 2026년 8월 1-2일. 공연 개요, 일시와 장소, 그리고 관람 계획을 세우는 방법을 안내합니다.
 quickAnswer: F4 — 제리 옌(Jerry Yan), 바네스 우(Vanness Wu), 빅 조우(Vic Chou), 2000년대 초 <꽃보다 남자(Meteor Garden)>를 아시아 전역의 신드롬으로 만든 이 세 멤버가 재결합해 2026년 8월 1일부터 2일까지 이틀간 방콕 IMPACT 아레나(IMPACT Arena) 무대에 선다. 마이데이(Mayday)의 아신(Ashin)이 스페셜 게스트로 함께한다. 재결합 월드투어의 첫 스타트를 끊는 공연인 만큼 동남아시아, 대만, 중국 등 지역 팬들의 수요가 강할 것으로 예상되므로, 항공권이나 숙소를 예약하기 전에 공식 투어 채널과 IMPACT 아레나 채널에서 정확한 공연 시간, 티켓 등급, 예매 오픈일을 반드시 확인하자.

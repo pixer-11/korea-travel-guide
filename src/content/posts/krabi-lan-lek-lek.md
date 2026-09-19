@@ -85,11 +85,17 @@ Lan Lek Lek has built its reputation the old-fashioned way: consistently good, c
 
 ## Getting there
 
-The restaurant sits at 25 Soi Maharaj 10, in Tambon Pak Nam, the old town core of Amphoe Mueang Krabi. This puts it within easy reach of Krabi Town's main visitor hub: the Maharaj Road riverside strip, Krabi Town Clock Tower, and the Chao Fah Pier night market are all a short walk or a few minutes by tuk-tuk or songthaew. If you're staying along Utarakit Road or near the Krabi River promenade, walking is realistic — expect 10–15 minutes depending on your starting point. Grab (Southeast Asia's ride-hailing app) works reliably in Krabi Town and is the easiest way to pin the exact soi if you're coming from further out, such as Ao Nang (roughly a 25–30 minute drive away). There's no BTS/MRT equivalent here — Krabi Town is compact and taxi/tuk-tuk or a rented scooter are the standard ways to get around.
+The restaurant sits at 25 Soi Maharaj 10, in Tambon Pak Nam, the old town core of Amphoe Mueang Krabi. This puts it within easy reach of Krabi Town's main visitor hub: the Maharaj Road riverside strip, Krabi Town Clock Tower, and the Chao Fah Pier night market are all a short walk or a few minutes by tuk-tuk or songthaew.
+
+If you're staying along Utarakit Road or near the Krabi River promenade, walking is realistic — expect 10–15 minutes depending on your starting point. Grab (Southeast Asia's ride-hailing app) works reliably in Krabi Town and is the easiest way to pin the exact soi if you're coming from further out, such as Ao Nang (roughly a 25–30 minute drive away).
+
+There's no BTS/MRT equivalent here — Krabi Town is compact and taxi/tuk-tuk or a rented scooter are the standard ways to get around.
 
 ## What to eat
 
-This is a classic Thai "rice-and-curry-shop" style operation — priced at the lower end (price level 1), meaning dishes are inexpensive by international standards, cash-friendly, and meant to be ordered in multiples for sharing. Expect the backbone of everyday Thai cooking: khao pad (fried rice) variations, pad kra pao (stir-fried minced meat with holy basil, usually served with a fried egg on top), tom yum in either clear (nam sai) or creamy (nam khon) style, and likely a rotating tray of pre-made curries and stir-fries displayed at the counter — a common and efficient setup at beloved local eateries in this price bracket. Portions tend to be generous relative to cost, and the kitchen's speed is part of the appeal: this isn't a sit-and-linger tasting menu, it's fast, satisfying, everyday Thai food done well.
+This is a classic Thai "rice-and-curry-shop" style operation — priced at the lower end (price level 1), meaning dishes are inexpensive by international standards, cash-friendly, and meant to be ordered in multiples for sharing. Expect the backbone of everyday Thai cooking: khao pad (fried rice) variations, pad kra pao (stir-fried minced meat with holy basil, usually served with a fried egg on top), tom yum in either clear (nam sai) or creamy (nam khon) style, and likely a rotating tray of pre-made curries and stir-fries displayed at the counter — a common and efficient setup at beloved local eateries in this price bracket.
+
+Portions tend to be generous relative to cost, and the kitchen's speed is part of the appeal: this isn't a sit-and-linger tasting menu, it's fast, satisfying, everyday Thai food done well.
 
 Since the specific daily specials aren't fixed, the best strategy is to watch what's coming out of the kitchen to other tables, or ask staff what's freshest that day — a normal and welcomed approach at busy local spots like this.
 
@@ -99,4 +105,6 @@ Aim for lunch (roughly 11:30 AM–1:30 PM) or an early dinner (around 5:30–7 P
 
 ## Nearby & tips
 
-Pair a meal here with a stroll along the Krabi River promenade, a visit to the Chao Fah Pier night market for dessert or drinks, or a wander through Krabi Town Clock Tower roundabout, one of the town's low-key landmarks. Because this is a small, high-turnover local restaurant rather than a tourist-oriented one, don't expect air conditioning, an extensive English menu, or a leisurely lounge-and-linger vibe — the reward is flavor and value that consistently outshines flashier riverside restaurants nearby. As with any small, cash-driven Thai eatery, confirm current opening hours locally or via a map app before setting out, since hours at family-run kitchens can shift seasonally.
+Pair a meal here with a stroll along the Krabi River promenade, a visit to the Chao Fah Pier night market for dessert or drinks, or a wander through Krabi Town Clock Tower roundabout, one of the town's low-key landmarks. Because this is a small, high-turnover local restaurant rather than a tourist-oriented one, don't expect air conditioning, an extensive English menu, or a leisurely lounge-and-linger vibe — the reward is flavor and value that consistently outshines flashier riverside restaurants nearby.
+
+As with any small, cash-driven Thai eatery, confirm current opening hours locally or via a map app before setting out, since hours at family-run kitchens can shift seasonally.

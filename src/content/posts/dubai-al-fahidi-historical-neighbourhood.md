@@ -93,7 +93,9 @@ With a 4.6 rating across nearly 17,000 reviews, it's one of the most consistentl
 
 ## Getting there
 
-The neighbourhood sits in Al Souq Al Kabeer / Bur Dubai, on the southern bank of Dubai Creek. The closest metro stop is **Al Fahidi Station on the Green Line**; from there it's roughly a 10-15 minute walk east through Bur Dubai's side streets, or a short taxi/ride-share hop if the heat is heavy. Coming from Deira across the Creek, an **abra** (traditional wooden ferry) from the Deira Old Souk Abra Station to Bur Dubai Abra Station drops you a few minutes' walk from the quarter. The crossing costs a token fare and is itself one of the city's most atmospheric short trips. Street parking and paid lots exist nearby but fill quickly, so metro or abra is the more reliable option.
+The neighbourhood sits in Al Souq Al Kabeer / Bur Dubai, on the southern bank of Dubai Creek. The closest metro stop is **Al Fahidi Station on the Green Line**; from there it's roughly a 10-15 minute walk east through Bur Dubai's side streets, or a short taxi/ride-share hop if the heat is heavy. Coming from Deira across the Creek, an **abra** (traditional wooden ferry) from the Deira Old Souk Abra Station to Bur Dubai Abra Station drops you a few minutes' walk from the quarter.
+
+The crossing costs a token fare and is itself one of the city's most atmospheric short trips. Street parking and paid lots exist nearby but fill quickly, so metro or abra is the more reliable option.
 
 ## What to see and do
 

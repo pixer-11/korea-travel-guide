@@ -42,7 +42,9 @@ eventFactsAsked: true
 ---
 ## Why go
 
-Pentaport is South Korea's longest-running large-scale rock festival, held annually in Incheon since the mid-2000s, and it's one of the few Korean festivals that consistently books major international rock acts alongside a deep bench of domestic indie and rock talent. The 2026 edition was set for July 31–August 2 at Songdo Moonlight Festival Park, with the Pixies, one of alternative rock's most influential bands, announced at the top of the bill. Korean acts hyukoh (a fixture of the Korean indie scene, known for blending dream-pop and rock) and LEE SEUNG YOON were also on the lineup.
+Pentaport is South Korea's longest-running large-scale rock festival, held annually in Incheon since the mid-2000s, and it's one of the few Korean festivals that consistently books major international rock acts alongside a deep bench of domestic indie and rock talent. The 2026 edition was set for July 31–August 2 at Songdo Moonlight Festival Park, with the Pixies, one of alternative rock's most influential bands, announced at the top of the bill.
+
+Korean acts hyukoh (a fixture of the Korean indie scene, known for blending dream-pop and rock) and LEE SEUNG YOON were also on the lineup.
 
 Unlike Korea's K-pop-centric festival circuit, Pentaport draws a mixed crowd of local rock fans, expats, and international festival-hoppers who come specifically for guitar music, making it a good entry point for visitors who want a Korean festival experience without a K-pop focus.
 
