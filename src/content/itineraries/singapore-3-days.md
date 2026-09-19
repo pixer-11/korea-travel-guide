@@ -91,7 +91,7 @@ itinerary:
           transit: false
       - slug: katong-sri-senpaga-vinayagar-temple
         slot: afternoon
-        why: A attraction rated 4.8 by visitors, included as a stop on this route.
+        why: An attraction rated 4.8 by visitors, included as a stop on this route.
         dwellMin: 38
         walkToNext:
           km: 1.7

@@ -57,7 +57,7 @@ itinerary:
           transit: true
       - slug: siem-reap-srah-srang
         slot: evening
-        why: A attraction rated 4.4 by visitors, included as a stop on this route.
+        why: An attraction rated 4.4 by visitors, included as a stop on this route.
         dwellMin: 30
         walkToNext: null
     rainSwapSlug: null
@@ -98,7 +98,7 @@ itinerary:
           transit: false
       - slug: siem-reap-pub-street
         slot: evening
-        why: A attraction rated 4.4 by visitors, included as a stop on this route.
+        why: An attraction rated 4.4 by visitors, included as a stop on this route.
         dwellMin: 120
         walkToNext: null
     rainSwapSlug: null

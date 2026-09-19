@@ -83,7 +83,7 @@ itinerary:
     stops:
       - slug: tokyo-hamarikyu-gardens
         slot: morning
-        why: A attraction rated 4.5 by visitors, included as a stop on this route.
+        why: An attraction rated 4.5 by visitors, included as a stop on this route.
         dwellMin: 75
         walkToNext:
           km: 8.7

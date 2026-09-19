@@ -116,11 +116,17 @@ function quietWindowSummary(post) {
   return quietWindowSummaryOf(post.data.place?.busyness);
 }
 
+// "A attraction rated 4.7 by visitors" shipped on every itinerary whose stop
+// fell back to this sentence (8 stops across 6 itineraries, 2026-09-19). The
+// category is interpolated, so the article has to agree with whatever word
+// lands there — attraction, event, esim… — not with the letter 'A'.
+const article = (word) => (/^[aeiou]/i.test(String(word)) ? 'An' : 'A');
+
 function fallbackWhy(post) {
   const cat = post?.data?.category || 'stop';
   const rating = post?.data?.place?.rating;
   return rating
-    ? `A ${cat} rated ${rating} by visitors, included as a stop on this route.`
+    ? `${article(cat)} ${cat} rated ${rating} by visitors, included as a stop on this route.`
     : `A recommended ${cat} stop on this route.`;
 }
 

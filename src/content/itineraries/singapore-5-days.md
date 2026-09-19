@@ -132,7 +132,7 @@ itinerary:
           transit: true
       - slug: jurong-chinese-garden
         slot: evening
-        why: A attraction rated 4.4 by visitors, included as a stop on this route.
+        why: An attraction rated 4.4 by visitors, included as a stop on this route.
         dwellMin: 120
         walkToNext: null
     rainSwapSlug: bugis-lee-kong-chian-natural-history-museum-singapore
@@ -149,7 +149,7 @@ itinerary:
           transit: false
       - slug: katong-sri-senpaga-vinayagar-temple
         slot: afternoon
-        why: A attraction rated 4.8 by visitors, included as a stop on this route.
+        why: An attraction rated 4.8 by visitors, included as a stop on this route.
         dwellMin: 38
         walkToNext:
           km: 1.7

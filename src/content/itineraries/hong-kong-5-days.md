@@ -173,7 +173,7 @@ itinerary:
           transit: true
       - slug: north-point-quarry-bay-park
         slot: afternoon
-        why: A attraction rated 4.2 by visitors, included as a stop on this route.
+        why: An attraction rated 4.2 by visitors, included as a stop on this route.
         dwellMin: 30
         walkToNext:
           km: 10.3

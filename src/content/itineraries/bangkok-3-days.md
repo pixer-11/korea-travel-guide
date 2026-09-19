@@ -25,7 +25,7 @@ itinerary:
     stops:
       - slug: bangkok-wat-arun-ratchawararam-ratchawaramahawihan
         slot: morning
-        why: A attraction rated 4.7 by visitors, included as a stop on this route.
+        why: An attraction rated 4.7 by visitors, included as a stop on this route.
         dwellMin: 75
         walkToNext:
           km: 0.6
