@@ -952,15 +952,16 @@ body:has(#img-lightbox[open]) { overflow: hidden; }
      제목 굵기를 780으로 올린 뒤(08-08) 두 번째 줄이 밝은 사진까지 뻗어 묻혀서
      페이드 끝점을 66% → 84% 로 늘렸다. 사진 벽은 여전히 보인다. */
   background: linear-gradient(to right,
-    rgba(12,9,6,0.88) 0%, rgba(12,9,6,0.76) 30%, rgba(12,9,6,0.52) 48%,
-    rgba(12,9,6,0.18) 66%, transparent 80%);
+    rgba(12,9,6,0.86) 0%, rgba(12,9,6,0.66) 26%, rgba(12,9,6,0.34) 46%,
+    rgba(12,9,6,0.1) 62%, transparent 74%);
 }
-/* The headline carries its own text-shadow, but the two lines UNDER it do not:
-   the dek and the "20 countries · updated daily" line are small, light and sat
-   at 0.34 scrim over whatever photo scrolled past, which on a bright market
-   shot was barely readable (2026-09-19). The stops above hold ≥0.5 across the
-   text column, and these two lines get a shadow of their own for the frames
-   where a white wall slides under them. */
+/* 2026-09-19: I darkened these stops to help the two small lines under the
+   headline, then found the record — the scrim was pushed once before (to 84%),
+   it covered the photo wall, and it was deliberately returned to 74% because
+   the wall is the part of this page the owner cares about. Reverted to those
+   values. The legibility problem is real but it is not the scrim's to solve:
+   the two lines get a shadow of their own instead, which darkens the letters
+   without dimming a single photo. */
 .cover-dek, .cover-scale { text-shadow: 0 1px 12px rgba(0,0,0,0.6); }
 /* 좁은 화면에서는 제목이 화면 폭을 거의 다 쓰므로 가로 페이드로는 오른쪽 끝 글자가
    밝은 사진에 걸린다(08-08 모바일 확인). 폰에서는 전면을 고르게 덮는다. */
@@ -994,18 +995,18 @@ html[lang^='zh'] .cover-inner h1 {
 /* Hero: endlessly flowing photo wall */
 .hero-wall { position: relative; height: min(88vh, 720px); min-height: 460px; display: flex; align-items: center; overflow: hidden; background: #17130f; }
 .wall-rows { position: absolute; inset: 0; display: flex; flex-direction: column; justify-content: center; gap: 0.85rem; }
-/* The two rows FILL the hero. Their images used to be sized off the viewport
-   (clamp(150px, 24vh, 236px)) while the hero itself is capped at 720px, so on
-   a normal desktop two 216px rows sat inside a 720px band and left ~270px of
-   flat black above and below the photos — the header read as an unfinished
-   dark box (owner, with a screenshot, 2026-09-19). Sizing each row to half the
-   hero keeps the wall edge-to-edge at every window size; the images are wider
-   at the same 3:2 ratio, and six duplicated tiles per row still overflow the
-   widest screen, so the marquee never shows a gap. */
-.wall-row { display: flex; gap: 0.85rem; width: max-content; will-change: transform; flex: 1 1 0; min-height: 0; }
+/* The rows are sized off the VIEWPORT, not the hero, so two 216px rows sit
+   inside a 720px hero with dark space above and below. That band is not a bug:
+   it is what the headline sits on. I filled the hero edge-to-edge on
+   2026-09-19 and photographed both at 1280x760 — with the wall filling, the
+   headline lands on a bright sky and a lit shopfront, and a sign inside one
+   photo ("MARDI GRAS WORLD") competes with our own type. The banded version
+   reads calmer and keeps the wall legible as a strip. Reverted, and recorded
+   here so the next pass does not "fix" it again. */
+.wall-row { display: flex; gap: 0.85rem; width: max-content; will-change: transform; }
 .wall-row.r1 { animation: wall-l 70s linear infinite; }
 .wall-row.r2 { animation: wall-r 92s linear infinite; }
-.wall-row img { height: 100%; width: auto; aspect-ratio: 3 / 2; object-fit: cover; border-radius: 12px; flex: none; }
+.wall-row img { height: clamp(150px, 24vh, 236px); width: auto; aspect-ratio: 3 / 2; object-fit: cover; border-radius: 12px; flex: none; }
 @keyframes wall-l { from { transform: translateX(0); } to { transform: translateX(-50%); } }
 @keyframes wall-r { from { transform: translateX(-50%); } to { transform: translateX(0); } }
 .cover-cta-row { display: flex; flex-wrap: wrap; gap: 1rem 1.8rem; align-items: center; }
