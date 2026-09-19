@@ -1,981 +1,34 @@
 {
-  "audited": 413,
+  "audited": 746,
   "checkedNow": 400,
-  "skipped": 13,
-  "at": "2026-09-12T20:55:58.504Z",
-  "imgBad": 6,
-  "proseBad": 166,
+  "skipped": 346,
+  "at": "2026-09-19T20:59:36.276Z",
+  "imgBad": 9,
+  "proseBad": 291,
   "results": [
     {
-      "slug": "shanghai-rolex-shanghai-masters",
-      "category": "event",
-      "region": "Shanghai",
-      "image": "NO HERO",
-      "carriedFrom": "2026-09-05T20:35:58.612Z"
-    },
-    {
-      "slug": "tokyo-ultra-japan-2026",
-      "category": "event",
-      "region": "Tokyo",
-      "image": "NO HERO",
-      "carriedFrom": "2026-09-05T20:36:00.198Z"
-    },
-    {
-      "slug": "bukhara-kalan-mosque",
+      "slug": "abu-dhabi-khalifa-park",
       "category": "attraction",
-      "region": "Bukhara",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "big enough historically to hold 10,000 worshippers"
-        }
-      ]
-    },
-    {
-      "slug": "kochi-kerala-folklore-museum",
-      "category": "attraction",
-      "region": "Kochi",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "The shop near the entrance takes card payments as well as cash"
-        }
-      ]
-    },
-    {
-      "slug": "jurong-singapore-discovery-centre",
-      "category": "attraction",
-      "region": "Jurong",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "weekends, 11am to 1pm is the calm patch"
-        }
-      ]
-    },
-    {
-      "slug": "mont-saint-michel-tour-gabriel",
-      "category": "attraction",
-      "region": "Mont Saint-Michel",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "The tower is at 7 Chemin de la Montée aux Poulains"
-        },
-        {
-          "type": "other-glaring",
-          "quote": "a angle most day-trippers never bother to find"
-        }
-      ]
-    },
-    {
-      "slug": "avignon-musee-calvet",
-      "category": "attraction",
-      "region": "Avignon",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "Weekends between 11am and 5pm are the busiest stretch"
-        }
-      ]
-    },
-    {
-      "slug": "pingxi-lingjiao-waterfall",
-      "category": "attraction",
-      "region": "Pingxi",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "the busiest stretch runs from 9am until as late as 11pm"
-        }
-      ]
-    },
-    {
-      "slug": "cinque-terre-parco-naturale-regionale-di-porto-venere",
-      "category": "attraction",
-      "region": "Cinque Terre",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Weekends run heaviest from 11am to 7pm"
-        }
-      ]
-    },
-    {
-      "slug": "toulouse-jardin-royal",
-      "category": "attraction",
-      "region": "Toulouse",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "On weekdays it stays relatively calm across the whole stretch from 9am to 9pm, so there isn't a sharp rush hour to dodge."
-        }
-      ]
-    },
-    {
-      "slug": "toledo-puy-du-fou-espana",
-      "category": "attraction",
-      "region": "Toledo",
-      "proseError": "Unexpected non-whitespace character after JSON at position 1"
-    },
-    {
-      "slug": "boston-the-paul-revere-house",
-      "category": "attraction",
-      "region": "Boston",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Cash and card are both accepted at the desk."
-        }
-      ]
-    },
-    {
-      "slug": "toledo-sinagoga-de-santa-maria-la-blanca",
-      "category": "attraction",
-      "region": "Toledo",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "a Almohad-style detail"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "Almeric, a Mudejar architect"
-        }
-      ]
-    },
-    {
-      "slug": "boston-public-garden",
-      "category": "attraction",
-      "region": "Boston",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "a memorial to nurse Boston has been quietly proud of for a century"
-        },
-        {
-          "type": "other-glaring",
-          "quote": "a memorial to nurse Boston has been quietly proud of for a century"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "the quietest stretch of all is late at night, between 10pm and 11pm"
-        }
-      ]
-    },
-    {
-      "slug": "tokyo-hamarikyu-gardens",
-      "category": "attraction",
-      "region": "Tokyo",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "you pay at the counter before sitting, cash or card depending on the till that day, and take a numbered seat facing the water"
-        }
-      ]
-    },
-    {
-      "slug": "toulouse-musee-des-augustins",
-      "category": "attraction",
-      "region": "Toulouse",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "right at the noon opening on Monday, Thursday or Friday, is the more comfortable option"
-        }
-      ]
-    },
-    {
-      "slug": "segovia-catedral-de-segovia",
-      "category": "attraction",
-      "region": "Segovia",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "9am to 9pm on weekdays and weekends alike is the calm stretch"
-        }
-      ]
-    },
-    {
-      "slug": "boston-museum-of-fine-arts-boston",
-      "category": "attraction",
-      "region": "Boston",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "Weekends between 11am and 5pm draw the heaviest traffic"
-        }
-      ]
-    },
-    {
-      "slug": "santiago-de-compostela-parque-de-galeras",
-      "category": "attraction",
-      "region": "Santiago de Compostela",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Between noon and 10pm on Saturdays and Sundays"
-        }
-      ]
-    },
-    {
-      "slug": "santiago-de-compostela-mosteiro-de-san-martino-pinario",
-      "category": "attraction",
-      "region": "Santiago de Compostela",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Give the church 20 minutes, the museum another 25 to 30."
-        }
-      ]
-    },
-    {
-      "slug": "phnom-penh-central-market",
-      "category": "hidden-gem",
-      "region": "Phnom Penh",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "arkoun, som ta mun mtong"
-        }
-      ]
-    },
-    {
-      "slug": "austin-lady-bird-johnson-wildflower-center",
-      "category": "attraction",
-      "region": "Austin",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "peaks between 10am and 3pm"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "The gift shop sells seed packets of the actual native species grown on site"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "Photography is allowed throughout, including in the working greenhouse areas near the research building"
-        }
-      ]
-    },
-    {
-      "slug": "philadelphia-independence-hall",
-      "category": "attraction",
-      "region": "Philadelphia",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "Weekday mornings are consistently calm right through the day"
-        }
-      ]
-    },
-    {
-      "slug": "bhubaneswar-odisha-state-museum",
-      "category": "attraction",
-      "region": "Bhubaneswar",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "weekend foot traffic runs heavy from opening at 10am straight through to 5pm, with no real lull"
-        }
-      ]
-    },
-    {
-      "slug": "verona-castelvecchio-museum",
-      "category": "attraction",
-      "region": "Verona",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Weekends get busy between 11am and 6pm"
-        }
-      ]
-    },
-    {
-      "slug": "tokyo-zojo-ji",
-      "category": "attraction",
-      "region": "Tokyo",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Daiden: rebuilt 1974, active worship hall"
-        }
-      ]
-    },
-    {
-      "slug": "santiago-de-compostela-museo-de-historia-natural-usc",
-      "category": "attraction",
-      "region": "Santiago de Compostela",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Admission has historically been free or close to it for a university museum like this"
-        }
-      ]
-    },
-    {
-      "slug": "philadelphia-philadelphia-museum-of-art",
-      "category": "attraction",
-      "region": "Philadelphia",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "facing straight down toward City Hall"
-        }
-      ]
-    },
-    {
-      "slug": "austin-blanton-museum-of-art",
-      "category": "attraction",
-      "region": "Austin",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "weekend visits are calmest in the 10am to 6pm window before the after-dinner crowd arrives"
-        }
-      ]
-    },
-    {
-      "slug": "colmar-parc-saint-francois-xavier",
-      "category": "attraction",
-      "region": "Colmar",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "the calm stretch is 8am-12pm on Saturdays and Sundays"
-        }
-      ]
-    },
-    {
-      "slug": "nashville-cheekwood",
-      "category": "attraction",
-      "region": "Nashville",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "with last entry typically before closing"
-        }
-      ]
-    },
-    {
-      "slug": "portland-crystal-springs-rhododendron-garden",
-      "category": "attraction",
-      "region": "Portland",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "A small entrance fee applies Thursday through Monday during peak season (typically spring/summer); Tuesdays and Wednesdays are usually free"
-        }
-      ]
-    },
-    {
-      "slug": "portland-the-grotto",
-      "category": "attraction",
-      "region": "Portland",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "reached by a 10-story elevator ride"
-        }
-      ]
-    },
-    {
-      "slug": "lombok-mount-rinjani-national-park",
-      "category": "attraction",
-      "region": "Lombok",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "which leaves camp right at opening, 7am, to catch sunrise from the top"
-        }
-      ]
-    },
-    {
-      "slug": "siem-reap-siem-reap-art-center-night-market",
-      "category": "hidden-gem",
-      "region": "Siem Reap",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "counter at roughly half the first quote and meet in the middle"
-        }
-      ]
-    },
-    {
-      "slug": "siem-reap-phnom-bakheng-temple",
-      "category": "attraction",
-      "region": "Siem Reap",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "busiest window on weekends runs from around 4pm to 7pm"
-        }
-      ]
-    },
-    {
-      "slug": "siem-reap-srah-srang",
-      "category": "attraction",
-      "region": "Siem Reap",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "dug in the 12th century to supply water and mark royal ceremony, not to be photographed by crowds"
-        },
-        {
-          "type": "other-glaring",
-          "quote": "The reservoir was built during the reign of Rajendravarman in the 10th century and later rebuilt under Jayavarman VII in the 12th"
-        }
-      ]
-    },
-    {
-      "slug": "siem-reap-preah-khan-temple",
-      "category": "attraction",
-      "region": "Siem Reap",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "manageable crowds any time between 8am and 6pm"
-        }
-      ]
-    },
-    {
-      "slug": "little-india-sri-veeramakaliamman-temple",
-      "category": "attraction",
-      "region": "Little India",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "Weekends between 9am and 9pm are the busiest stretch"
-        }
-      ]
-    },
-    {
-      "slug": "portland-omsi",
-      "category": "attraction",
-      "region": "Portland",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "The busiest stretch on weekends runs from 11am straight through to 6pm"
-        }
-      ]
-    },
-    {
-      "slug": "san-diego-botanical-building",
-      "category": "attraction",
-      "region": "San Diego",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "Foot traffic peaks between noon and 4pm on Saturdays and Sundays"
-        }
-      ]
-    },
-    {
-      "slug": "osaka-nakanoshima-park",
-      "category": "attraction",
-      "region": "Osaka",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "worth 45 minutes if you care about celadon and white porcelain"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "Around 3,700 bushes across more than 90 varieties"
-        }
-      ]
-    },
-    {
-      "slug": "paris-sainte-chapelle",
-      "category": "attraction",
-      "region": "Paris",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "Weekends run heaviest from 1pm to 5pm"
-        }
-      ]
-    },
-    {
-      "slug": "bali-cocomo-canggu",
-      "category": "trendy",
-      "region": "Bali",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "butter-aged Angus tenderloin"
-        }
-      ]
-    },
-    {
-      "slug": "abu-dhabi-tamer-hosny-and-tamer-ashour-concert",
-      "category": "event",
       "region": "Abu Dhabi",
       "prose": [
         {
-          "type": "invented-specifics",
-          "quote": "18,000-capacity"
+          "type": "other-glaring",
+          "quote": "On weekends, the quieter window runs from 10am to 11am"
         }
-      ]
+      ],
+      "carriedFrom": "2026-09-12T20:55:44.984Z"
     },
     {
-      "slug": "bangkok-808-festival-2026",
-      "category": "event",
-      "region": "Bangkok",
-      "image": "Shows BITEC building, not 808 Festival event itself",
+      "slug": "abu-dhabi-louvre-abu-dhabi",
+      "category": "attraction",
+      "region": "Abu Dhabi",
       "prose": [
         {
           "type": "other-glaring",
-          "quote": "The BTS runs until midnight on standard schedule"
+          "quote": "arrive right at 10am on a Saturday or Sunday, before the crowds build"
         }
-      ]
-    },
-    {
-      "slug": "bangkok-the-weeknd-after-hours-til-dawn-tour",
-      "category": "event",
-      "region": "Bangkok",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "nearly two-and-a-half-hour set"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "arrive with at least 90 minutes to spare"
-        }
-      ]
-    },
-    {
-      "slug": "dubai-nancy-ajram-live-in-dubai",
-      "category": "event",
-      "region": "Dubai",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "a stage production scaled for a 17,000-capacity room"
-        }
-      ]
-    },
-    {
-      "slug": "hong-kong-socio",
-      "category": "hidden-gem",
-      "region": "Hong Kong",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "nearby kititchens"
-        }
-      ]
-    },
-    {
-      "slug": "bengaluru-chet-faker-a-love-for-strangers-tour",
-      "category": "event",
-      "region": "Bengaluru",
-      "image": "Visible photographer watermark overlaid on image",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Areas like Indiranagar and Koramangala keep kitchens open past midnight on weekends"
-        }
-      ]
-    },
-    {
-      "slug": "hanoi-gitex-vietnam",
-      "category": "event",
-      "region": "Hanoi",
-      "image": "Cityscape/bridge photo, unrelated to tech event GITEX"
-    },
-    {
-      "slug": "istanbul-akbank-jazz-festival",
-      "category": "event",
-      "region": "Istanbul",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "shows tend to start after 8pm"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "Arrive 30-45 minutes before doors for popular headline shows"
-        }
-      ]
-    },
-    {
-      "slug": "istanbul-boris-brejcha-reflections-tour",
-      "category": "event",
-      "region": "Istanbul",
-      "prose": [
-        {
-          "type": "broken-markdown",
-          "quote": "Küçük�çiftlik Park is a large open-air event ground"
-        }
-      ]
-    },
-    {
-      "slug": "seoul-grand-mint-festival-2026",
-      "category": "event",
-      "region": "Seoul",
-      "image": "Olympic Park sign, unrelated to Grand Mint Festival music event"
-    },
-    {
-      "slug": "taipei-xg-taipei-arena-concert",
-      "category": "event",
-      "region": "Taipei",
-      "imageError": "vision unavailable (image fetch 429) — not measured"
-    },
-    {
-      "slug": "paris-musee-de-l-orangerie",
-      "category": "attraction",
-      "region": "Paris",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Weekends between 11am and 6pm are the peak stretch"
-        }
-      ]
-    },
-    {
-      "slug": "san-diego-san-diego-natural-history-museum",
-      "category": "attraction",
-      "region": "San Diego",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "museum is quiet from opening until around 11am, then fills up steadily from noon through closing"
-        }
-      ]
-    },
-    {
-      "slug": "osaka-nakanoshima-museum-of-art-osaka-nakka",
-      "category": "attraction",
-      "region": "Osaka",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "expect steady crowds from 11am to 5pm on Saturdays and Sundays"
-        },
-        {
-          "type": "other-glaring",
-          "quote": "Osaka Museum of Natural History's older sibling institutions"
-        }
-      ]
-    },
-    {
-      "slug": "shanghai-jade-buddha-temple",
-      "category": "attraction",
-      "region": "Shanghai",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "sit down for a plate of mock-meat noodles afterward"
-        }
-      ]
-    },
-    {
-      "slug": "hue-thien-mu-pagoda",
-      "category": "attraction",
-      "region": "Hue",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "a bronze bell cast in 1710"
-        }
-      ]
-    },
-    {
-      "slug": "chinatown-buddha-tooth-relic-temple",
-      "category": "attraction",
-      "region": "Chinatown",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "nearly 320 kilograms of gold"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "Weekends get busiest from 11am to 4pm"
-        }
-      ]
-    },
-    {
-      "slug": "zamboanga-city-zamboanga-hermosa-festival",
-      "category": "event",
-      "region": "Zamboanga City",
-      "imageError": "vision unavailable (image fetch 429) — not measured",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Zamboanga City is the world's largest speaking population of Chavacano"
-        }
-      ]
-    },
-    {
-      "slug": "bandung-gedung-sate",
-      "category": "attraction",
-      "region": "Bandung",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Give yourself roughly 45 minutes for the museum and another 20 to 30 minutes"
-        }
-      ]
-    },
-    {
-      "slug": "chuncheon-chuncheon-national-museum",
-      "category": "attraction",
-      "region": "Chuncheon",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Weekends draw the heaviest crowds between 10am and 6pm"
-        }
-      ]
-    },
-    {
-      "slug": "seattle-le-panier",
-      "category": "trendy",
-      "region": "Seattle",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "a Seattle-specific signature that isn't part of classic French bakery repertoire"
-        },
-        {
-          "type": "other-glaring",
-          "quote": "Weekdays run steady but manageable through the entire day, making any weekday hour a reasonably safe bet."
-        }
-      ]
-    },
-    {
-      "slug": "tiong-bahru-hortpark",
-      "category": "attraction",
-      "region": "Tiong Bahru",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Weekdays run quiet from 7am right through to closing at 11pm"
-        }
-      ]
-    },
-    {
-      "slug": "washington-dc-lincoln-memorial",
-      "category": "attraction",
-      "region": "Washington DC",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "ninth step from the top"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "assembled from 28 interlocking blocks"
-        },
-        {
-          "type": "other-glaring",
-          "quote": "Avoid rolling up between 10am and 10pm on weekends"
-        }
-      ]
-    },
-    {
-      "slug": "ibiza-dalt-vila",
-      "category": "attraction",
-      "region": "Ibiza",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "weekends do get busier between 1pm and 2pm"
-        },
-        {
-          "type": "other-glaring",
-          "quote": "return between 7pm and 9pm on a weekend evening"
-        }
-      ]
-    },
-    {
-      "slug": "seattle-the-museum-of-flight",
-      "category": "attraction",
-      "region": "Seattle",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Avoid 11am to 4pm on weekends, the museum's busiest window"
-        }
-      ]
-    },
-    {
-      "slug": "east-coast-sri-srinivasa-perumal-temple",
-      "category": "attraction",
-      "region": "East Coast",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "busy from 8am right through to 9pm"
-        }
-      ]
-    },
-    {
-      "slug": "san-sebastian-san-telmo-museum",
-      "category": "attraction",
-      "region": "San Sebastian",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Budget around 90 minutes to two hours if you want to see most of the permanent collection without rushing."
-        }
-      ]
-    },
-    {
-      "slug": "sheung-wan-liang-yi-museum",
-      "category": "attraction",
-      "region": "Sheung Wan",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "most visitors say the contrast is what stays with them"
-        }
-      ]
-    },
-    {
-      "slug": "tiong-bahru-thian-hock-keng-temple",
-      "category": "attraction",
-      "region": "Tiong Bahru",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Weekdays: quiet fairly evenly from 8am to 5pm"
-        }
-      ]
-    },
-    {
-      "slug": "sapporo-hokkaido-jingu",
-      "category": "attraction",
-      "region": "Sapporo",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "On weekdays, the whole day from 7am to 5pm stays relatively calm, so there's no need to rush."
-        }
-      ]
-    },
-    {
-      "slug": "bugis-kwan-im-thong-hood-cho-temple",
-      "category": "attraction",
-      "region": "Bugis",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "Weekdays stay manageable throughout"
-        }
-      ]
-    },
-    {
-      "slug": "izmir-scappi",
-      "category": "restaurant",
-      "region": "Izmir",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "in 2024"
-        }
-      ]
-    },
-    {
-      "slug": "sentosa-fort-siloso",
-      "category": "attraction",
-      "region": "Sentosa",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "weekday visits any time between 9am and 6pm tend to stay quiet throughout"
-        }
-      ]
-    },
-    {
-      "slug": "busan-busan-international-film-festival-biff",
-      "category": "event",
-      "region": "Busan",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "316 films from 59 countries"
-        }
-      ]
-    },
-    {
-      "slug": "jumeirah-dubai-old-village",
-      "category": "attraction",
-      "region": "Dubai",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "before the 1966 oil discovery changed everything"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "Allow 45 minutes to an hour"
-        }
-      ]
-    },
-    {
-      "slug": "sai-kung-tin-hau-temple-joss-house-bay",
-      "category": "attraction",
-      "region": "Sai Kung",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "steady footfall from 9am to 4pm"
-        }
-      ]
-    },
-    {
-      "slug": "lantau-island-lantau-south-country-park",
-      "category": "attraction",
-      "region": "Lantau Island",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Weekends between 9am and 4pm are the busiest window"
-        }
-      ]
-    },
-    {
-      "slug": "nha-trang-long-son-pagoda",
-      "category": "attraction",
-      "region": "Nha Trang",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "weekends between 8am and 6pm bring steady tour groups"
-        }
-      ]
-    },
-    {
-      "slug": "lantau-island-big-buddha",
-      "category": "attraction",
-      "region": "Lantau Island",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "268 steps"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "the statue's 1993 construction"
-        }
-      ]
-    },
-    {
-      "slug": "sai-kung-hong-kong-space-museum",
-      "category": "attraction",
-      "region": "Tsim Sha Tsui",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "Saturdays and Sundays get busiest between 12pm and 7pm, which covers most of the day's opening window."
-        }
-      ]
+      ],
+      "carriedFrom": "2026-09-12T20:55:55.939Z"
     },
     {
       "slug": "agra-tomb-of-akbar",
@@ -986,295 +39,44 @@
           "type": "invented-specifics",
           "quote": "weekends between 7am and 11am"
         }
-      ]
+      ],
+      "carriedFrom": "2026-09-12T20:55:08.371Z"
     },
     {
-      "slug": "jeonju-deokjin-park",
+      "slug": "austin-blanton-museum-of-art",
       "category": "attraction",
-      "region": "Jeonju",
+      "region": "Austin",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "weekend visits are calmest in the 10am to 6pm window before the after-dinner crowd arrives"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:54:36.043Z"
+    },
+    {
+      "slug": "baguio-baguio-botanical-garden",
+      "category": "attraction",
+      "region": "Baguio",
       "prose": [
         {
           "type": "other-glaring",
-          "quote": "aim for 7am–9am on a Saturday or Sunday instead"
+          "quote": "Weekends are a different story. Crowds build fast after 8am and stay heavy from 9am to 5pm"
         }
-      ]
+      ],
+      "carriedFrom": "2026-09-12T20:55:39.856Z"
     },
     {
-      "slug": "banlung-virachey-national-park",
+      "slug": "baguio-bencab-museum",
       "category": "attraction",
-      "region": "Banlung",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "Weekends stay relatively quiet, per recent visitor patterns, which is unusual for a named national park this size."
-        }
-      ]
-    },
-    {
-      "slug": "singapore-merlion-park",
-      "category": "attraction",
-      "region": "Singapore",
+      "region": "Baguio",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "nearly 8.6 metres tall"
+          "quote": "Pay at the entrance counter."
         }
-      ]
-    },
-    {
-      "slug": "pattaya-nongnooch-pattaya-garden",
-      "category": "attraction",
-      "region": "Pattaya",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "both weekdays and early weekend hours run 8am to 6pm quietly"
-        }
-      ]
-    },
-    {
-      "slug": "singapore-sri-mariamman-temple",
-      "category": "attraction",
-      "region": "Singapore",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "with crowds building steadily from 7am through to 9pm"
-        }
-      ]
-    },
-    {
-      "slug": "istanbul-hagia-sophia-grand-mosque",
-      "category": "attraction",
-      "region": "Istanbul",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "weekdays between 7am and 9am are the calmest stretch"
-        }
-      ]
-    },
-    {
-      "slug": "suwon-hwaseong-haenggung",
-      "category": "attraction",
-      "region": "Suwon",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "sells combined tickets covering the palace and fortress wall walk"
-        }
-      ]
-    },
-    {
-      "slug": "singapore-asian-civilisations-museum",
-      "category": "attraction",
-      "region": "Singapore",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "a 9th-century Arab dhow found off Indonesia"
-        }
-      ]
-    },
-    {
-      "slug": "clarke-quay-fort-canning-park",
-      "category": "attraction",
-      "region": "Clarke Quay",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Give yourself roughly 60 to 90 minutes to see the main clusters of sights at an easy pace"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "5 to 10 minute walk from Clarke Quay itself"
-        }
-      ]
-    },
-    {
-      "slug": "kanazawa-kanazawa-castle-park",
-      "category": "attraction",
-      "region": "Kanazawa",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Crowd data shows no quiet weekday or weekend window separate from opening hours themselves; the whole day sees traffic."
-        }
-      ]
-    },
-    {
-      "slug": "kampong-glam-telok-blangah-hill-park",
-      "category": "attraction",
-      "region": "Singapore",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Crowds pick up steadily from mid-morning and into the evening on weekends"
-        },
-        {
-          "type": "other-glaring",
-          "quote": "the restaurant near the park's edge"
-        }
-      ]
-    },
-    {
-      "slug": "kep-wat-sampov-pram",
-      "category": "attraction",
-      "region": "Kep",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "a modest 671 reviews"
-        }
-      ]
-    },
-    {
-      "slug": "beijing-arabica-baitasi-store",
-      "category": "trendy",
-      "region": "Beijing",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "a matcha option at most locations"
-        }
-      ]
-    },
-    {
-      "slug": "dubai-richard-marx",
-      "category": "event",
-      "region": "Dubai",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "Doors typically open well before the advertised set time, giving you room to grab a drink or snack at the concourse stalls before finding your seat."
-        }
-      ]
-    },
-    {
-      "slug": "abu-dhabi-middle-east-film-comic-con-mefcc-2026",
-      "category": "event",
-      "region": "Abu Dhabi",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "weekday mornings"
-        }
-      ]
-    },
-    {
-      "slug": "siem-reap-banteay-srei-temple",
-      "category": "attraction",
-      "region": "Siem Reap",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "Weekdays are noticeably calmer across the entire opening period, from 7:30am to 5:30pm."
-        }
-      ]
-    },
-    {
-      "slug": "fukuoka-ohori-park-japanese-garden",
-      "category": "attraction",
-      "region": "Fukuoka",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Built in 1985"
-        }
-      ]
-    },
-    {
-      "slug": "okinawa-ocean-expo-park",
-      "category": "attraction",
-      "region": "Okinawa",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Arrive before 9:30am on weekends to avoid circling for a space"
-        }
-      ]
-    },
-    {
-      "slug": "mumbai-hanging-garden",
-      "category": "attraction",
-      "region": "Mumbai",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "crowds build steadily from 3pm to 9pm"
-        }
-      ]
-    },
-    {
-      "slug": "yogyakarta-prambanan-temple",
-      "category": "attraction",
-      "region": "Yogyakarta",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "On weekends, that window shrinks to 7am–8am before crowds build fast."
-        }
-      ]
-    },
-    {
-      "slug": "sha-tin-sha-tin-che-kung-temple",
-      "category": "attraction",
-      "region": "Sha Tin",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "stays heavy from 10am to 5pm"
-        }
-      ]
-    },
-    {
-      "slug": "kanazawa-higashi-chaya-district",
-      "category": "attraction",
-      "region": "Kanazawa",
-      "proseError": "Unexpected non-whitespace character after JSON at position 7"
-    },
-    {
-      "slug": "mumbai-jogeshwari-caves",
-      "category": "attraction",
-      "region": "Mumbai",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "carved sometime in the mid-1st century"
-        }
-      ]
-    },
-    {
-      "slug": "jakarta-selamat-datang-monument",
-      "category": "attraction",
-      "region": "Jakarta",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Jl. Kebon Melati 1 No. 5"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "weekday rush hour (roughly 7-9am and 5-7pm)"
-        }
-      ]
-    },
-    {
-      "slug": "jakarta-national-museum-of-indonesia",
-      "category": "attraction",
-      "region": "Jakarta",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "On weekdays, the calmest hour is actually late in the day, between 6pm and 7pm, if you're visiting on a Friday when it stays open into the evening."
-        }
-      ]
-    },
-    {
-      "slug": "surabaya-siola-surabaya-museum",
-      "category": "attraction",
-      "region": "Surabaya",
-      "proseError": "Unexpected non-whitespace character after JSON at position 9"
+      ],
+      "carriedFrom": "2026-09-12T20:55:49.807Z"
     },
     {
       "slug": "bali-museum-pasifika-bali",
@@ -1285,130 +87,32 @@
           "type": "invented-specifics",
           "quote": "give it the full 1.5–2 hours it deserves"
         }
-      ]
+      ],
+      "carriedFrom": "2026-09-12T20:55:26.732Z"
     },
     {
-      "slug": "okinawa-okinawa-prefectural-peace-memorial-museum",
+      "slug": "beijing-arabica-baitasi-store",
+      "category": "trendy",
+      "region": "Beijing",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "a matcha option at most locations"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:14.578Z"
+    },
+    {
+      "slug": "bhubaneswar-odisha-state-museum",
       "category": "attraction",
-      "region": "Okinawa",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "moving to witness, but not the day for a quiet, reflective visit"
-        }
-      ]
-    },
-    {
-      "slug": "jordan-hong-kong-heritage-museum",
-      "category": "attraction",
-      "region": "Sha Tin",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "Take the MTR from Jordan Station, changing lines as needed, and get off at Che Kung Temple Station."
-        }
-      ]
-    },
-    {
-      "slug": "mumbai-paradox-museum-mumbai",
-      "category": "attraction",
-      "region": "Mumbai",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "That's when the rooms fill up and you'll be queuing for the popular shots."
-        }
-      ]
-    },
-    {
-      "slug": "washington-dc-smithsonian-national-museum-of-natural-history",
-      "category": "attraction",
-      "region": "Washington DC",
+      "region": "Bhubaneswar",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "standing on a base that's been there since 1959"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "finished in 1911"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "a 45-foot North Atlantic right whale model"
+          "quote": "weekend foot traffic runs heavy from opening at 10am straight through to 5pm, with no real lull"
         }
-      ]
-    },
-    {
-      "slug": "clarke-quay-artscience-museum",
-      "category": "attraction",
-      "region": "Marina Bay",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Payment inside is cashless, cards and mobile pay (PayNow, Apple Pay, Google Pay) are standard"
-        },
-        {
-          "type": "other-glaring",
-          "quote": "Since it's not a locals'-favorite spot so much as a major visitor attraction"
-        }
-      ]
-    },
-    {
-      "slug": "daegu-donghwasa",
-      "category": "attraction",
-      "region": "Daegu",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "9am to 6pm on Saturdays and Sundays is when the complex is busiest"
-        }
-      ]
-    },
-    {
-      "slug": "siem-reap-bayon-temple",
-      "category": "hidden-gem",
-      "region": "Siem Reap",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "weekends get genuinely packed between 9am and 4pm"
-        }
-      ]
-    },
-    {
-      "slug": "nagoya-toyota-commemorative-museum-of-industry-and-technology",
-      "category": "attraction",
-      "region": "Nagoya",
-      "prose": [
-        {
-          "type": "broken-markdown",
-          "quote": "the machines themselves (dozens of them, still running. Staff demonstrate century-old power looms"
-        },
-        {
-          "type": "other-glaring",
-          "quote": "Weekends get busy between 10am and 5pm"
-        }
-      ]
-    },
-    {
-      "slug": "kanazawa-omicho-market",
-      "category": "hidden-gem",
-      "region": "Kanazawa",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "close to 300 years"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "about 170 stalls"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "before 10am"
-        }
-      ]
+      ],
+      "carriedFrom": "2026-09-12T20:54:34.496Z"
     },
     {
       "slug": "boryeong-national-museum-of-korea",
@@ -1423,7 +127,172 @@
           "type": "invented-specifics",
           "quote": "arrive in the last hour before closing on Saturday, when things tend to be calmer"
         }
-      ]
+      ],
+      "carriedFrom": "2026-09-12T20:55:31.278Z"
+    },
+    {
+      "slug": "bukhara-bolo-hauz-mosque",
+      "category": "attraction",
+      "region": "Bukhara",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The wood is elm, brought from Russia"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:46.926Z"
+    },
+    {
+      "slug": "bukhara-bukhara-tower",
+      "category": "hidden-gem",
+      "region": "Bukhara",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Crowds build steadily and peak between 9am and 5pm"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:47.771Z"
+    },
+    {
+      "slug": "bukhara-ismail-samani-mausoleum",
+      "category": "attraction",
+      "region": "Bukhara",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Crowd data shows the calmest window is 8–9am on weekdays and 8–10am on weekends"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:42.365Z"
+    },
+    {
+      "slug": "bukhara-labi-hovuz",
+      "category": "attraction",
+      "region": "Bukhara",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Prices here run mid-range by Uzbek standards"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:48.443Z"
+    },
+    {
+      "slug": "can-tho-ninh-kieu-wharf",
+      "category": "attraction",
+      "region": "Can Tho",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Foot traffic peaks between 5pm and 11pm on Saturdays and Sundays"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:40.911Z"
+    },
+    {
+      "slug": "cebu-casa-gorordo-museum",
+      "category": "attraction",
+      "region": "Cebu",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Bring small bills. The ticket booth and gift shop are more comfortable with cash than card"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:58.501Z"
+    },
+    {
+      "slug": "central-hong-kong-zoological-and-botanical-gardens",
+      "category": "attraction",
+      "region": "Central",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "mildly frowns-upon"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:35.801Z"
+    },
+    {
+      "slug": "chuncheon-chuncheon-national-museum",
+      "category": "attraction",
+      "region": "Chuncheon",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Weekends draw the heaviest crowds between 10am and 6pm"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:54:58.287Z"
+    },
+    {
+      "slug": "cinque-terre-parco-naturale-regionale-di-porto-venere",
+      "category": "attraction",
+      "region": "Cinque Terre",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Weekends run heaviest from 11am to 7pm"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:54:28.347Z"
+    },
+    {
+      "slug": "clarke-quay-artscience-museum",
+      "category": "attraction",
+      "region": "Marina Bay",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Payment inside is cashless, cards and mobile pay (PayNow, Apple Pay, Google Pay) are standard"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "Since it's not a locals'-favorite spot so much as a major visitor attraction"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:28.794Z"
+    },
+    {
+      "slug": "clarke-quay-fort-canning-park",
+      "category": "attraction",
+      "region": "Clarke Quay",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Give yourself roughly 60 to 90 minutes to see the main clusters of sights at an easy pace"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "5 to 10 minute walk from Clarke Quay itself"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:12.311Z"
+    },
+    {
+      "slug": "daegu-daegu-national-museum",
+      "category": "attraction",
+      "region": "Daegu",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "A taxi from downtown Daegu (Dongseongno or Banwoldang) typically runs 15–20 minutes depending on traffic."
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:32.071Z"
+    },
+    {
+      "slug": "daegu-donghwasa",
+      "category": "attraction",
+      "region": "Daegu",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "9am to 6pm on Saturdays and Sundays is when the complex is busiest"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:28.824Z"
     },
     {
       "slug": "dempsey-hill-pasar-geylang-serai",
@@ -1442,59 +311,92 @@
           "type": "foreign-fragment",
           "quote": "nasi padang, satu"
         }
-      ]
+      ],
+      "carriedFrom": "2026-09-12T20:55:31.819Z"
     },
     {
-      "slug": "portland-portland-japanese-garden",
-      "category": "hidden-gem",
-      "region": "Portland",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Umami Café"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "hand-built in Japan and reassembled here"
-        }
-      ]
-    },
-    {
-      "slug": "daegu-daegu-national-museum",
-      "category": "attraction",
-      "region": "Daegu",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "A taxi from downtown Daegu (Dongseongno or Banwoldang) typically runs 15–20 minutes depending on traffic."
-        }
-      ]
-    },
-    {
-      "slug": "kumamoto-kumamoto-castle",
-      "category": "hidden-gem",
-      "region": "Kumamoto",
+      "slug": "dubai-richard-marx",
+      "category": "event",
+      "region": "Dubai",
       "prose": [
         {
           "type": "other-glaring",
-          "quote": "The quietest window measured is any time during the 9am–5pm weekday stretch."
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "the busiest stretch running 10am to 4pm"
+          "quote": "Doors typically open well before the advertised set time, giving you room to grab a drink or snack at the concourse stalls before finding your seat."
         }
-      ]
+      ],
+      "carriedFrom": "2026-09-12T20:55:15.254Z"
     },
     {
-      "slug": "sen-monorom-tuol-sleng-genocide-museum",
+      "slug": "east-coast-sri-srinivasa-perumal-temple",
       "category": "attraction",
-      "region": "Phnom Penh",
+      "region": "East Coast",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "Give yourself 1.5 to 2.5 hours."
+          "quote": "busy from 8am right through to 9pm"
         }
-      ]
+      ],
+      "carriedFrom": "2026-09-12T20:55:00.775Z"
+    },
+    {
+      "slug": "el-nido-cadlao-lagoon",
+      "category": "attraction",
+      "region": "El Nido",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "before the 9am rush"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:44.468Z"
+    },
+    {
+      "slug": "el-nido-matinloc-shrine",
+      "category": "attraction",
+      "region": "El Nido",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "20-30 minutes"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:50.151Z"
+    },
+    {
+      "slug": "fujairah-fujairah-museum",
+      "category": "attraction",
+      "region": "Fujairah",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Bring small cash for the entry fee, card readers aren't always reliable at smaller Fujairah heritage sites, and fees here are modest"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:49.943Z"
+    },
+    {
+      "slug": "fujairah-shees-park",
+      "category": "attraction",
+      "region": "Sharjah",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "small entry or parking fees at parks like this are typically collected in cash"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:44.737Z"
+    },
+    {
+      "slug": "fukuoka-ohori-park-japanese-garden",
+      "category": "attraction",
+      "region": "Fukuoka",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Built in 1985"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:22.694Z"
     },
     {
       "slug": "goyang-gyeongdong-market",
@@ -1509,37 +411,27 @@
           "type": "invented-specifics",
           "quote": "Bindaetteok (mung bean pancakes)"
         }
-      ]
+      ],
+      "carriedFrom": "2026-09-12T20:55:33.509Z"
     },
     {
-      "slug": "poipet-national-museum-of-cambodia",
-      "category": "attraction",
-      "region": "Phnom Penh",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "heavy from 10am to 4pm on weekends"
-        },
-        {
-          "type": "other-glaring",
-          "quote": "treating it as a quiet cultural stop rather than an all-day outing, worth copying if you want to beat the crowds"
-        }
-      ]
+      "slug": "hanoi-gitex-vietnam",
+      "category": "event",
+      "region": "Hanoi",
+      "image": "Cityscape/bridge photo, unrelated to tech event GITEX",
+      "carriedFrom": "2026-09-12T20:54:48.369Z"
     },
     {
-      "slug": "tashkent-central-park-tashkent",
+      "slug": "hanoi-temple-of-literature",
       "category": "attraction",
-      "region": "Tashkent",
+      "region": "Hanoi",
       "prose": [
         {
-          "type": "invented-specifics",
-          "quote": "Weekend mornings, from 11am to 4pm, are also noticeably calmer than the evening rush"
-        },
-        {
           "type": "other-glaring",
-          "quote": "Give it the full two hours"
+          "quote": "the quiet behind the crowds near the entrance"
         }
-      ]
+      ],
+      "carriedFrom": "2026-09-12T20:55:55.834Z"
     },
     {
       "slug": "hanoi-the-hanoi-cafe",
@@ -1554,103 +446,8 @@
           "type": "invented-specifics",
           "quote": "Give yourself 45 minutes to an hour if you're having a full meal"
         }
-      ]
-    },
-    {
-      "slug": "yilan-yilan-museum-of-art",
-      "category": "attraction",
-      "region": "Yilan",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "small museums like this in Taiwan typically accept cash and often mobile payment"
-        }
-      ]
-    },
-    {
-      "slug": "kaohsiung-kaohsiung-museum-of-fine-arts",
-      "category": "attraction",
-      "region": "Kaohsiung",
-      "prose": [
-        {
-          "type": "foreign-fragment",
-          "quote": "高雄市立美術館"
-        }
-      ]
-    },
-    {
-      "slug": "new-taipei-old-place-airplane-observation-deck",
-      "category": "attraction",
-      "region": "New Taipei",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Weekends between 7am and 6pm are the busiest stretch by far"
-        }
-      ]
-    },
-    {
-      "slug": "central-hong-kong-zoological-and-botanical-gardens",
-      "category": "attraction",
-      "region": "Central",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "mildly frowns-upon"
-        }
-      ]
-    },
-    {
-      "slug": "kaohsiung-shoushan-love-lookout",
-      "category": "attraction",
-      "region": "Kaohsiung",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "foot traffic stays heavy from around 9am until 11pm"
-        }
-      ]
-    },
-    {
-      "slug": "kep-kep-national-park",
-      "category": "attraction",
-      "region": "Kep",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "the busiest stretch runs from 9am to 11pm"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "Opened in 1993"
-        }
-      ]
-    },
-    {
-      "slug": "khiva-khiva-ichan-kala",
-      "category": "attraction",
-      "region": "Khiva",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "construction stopped in 1855"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "213 carved wooden columns, some dating to the 10th century"
-        }
-      ]
-    },
-    {
-      "slug": "phnom-penh-royal-palace-of-cambodia",
-      "category": "attraction",
-      "region": "Phnom Penh",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "named for its silver-tiled floor, much of it now covered by carpet to protect it"
-        }
-      ]
+      ],
+      "carriedFrom": "2026-09-12T20:55:34.070Z"
     },
     {
       "slug": "hanoi-thong-nhat-park",
@@ -1661,250 +458,8 @@
           "type": "invented-specifics",
           "quote": "Give yourself an hour for a walk around the lake, or half a day if you want to linger with a coffee and people-watch."
         }
-      ]
-    },
-    {
-      "slug": "yilan-fushan-botanical-garden",
-      "category": "attraction",
-      "region": "Yilan",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "the 9am–1pm stretch drawing the heaviest foot traffic"
-        }
-      ]
-    },
-    {
-      "slug": "baguio-baguio-botanical-garden",
-      "category": "attraction",
-      "region": "Baguio",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "Weekends are a different story. Crowds build fast after 8am and stay heavy from 9am to 5pm"
-        }
-      ]
-    },
-    {
-      "slug": "can-tho-ninh-kieu-wharf",
-      "category": "attraction",
-      "region": "Can Tho",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "Foot traffic peaks between 5pm and 11pm on Saturdays and Sundays"
-        }
-      ]
-    },
-    {
-      "slug": "new-taipei-dalongdong-baoan-temple",
-      "category": "attraction",
-      "region": "New Taipei",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "carved in 1804"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "by renowned artist Pan Li-shui"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "UNESCO recognized its restoration with an Asia-Pacific Heritage Award in 2003"
-        }
-      ]
-    },
-    {
-      "slug": "manila-baluarte-de-san-diego",
-      "category": "hidden-gem",
-      "region": "Manila",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "The measured quiet windows are 8am–9am on weekdays and 8am–10am on weekends"
-        }
-      ]
-    },
-    {
-      "slug": "bukhara-ismail-samani-mausoleum",
-      "category": "attraction",
-      "region": "Bukhara",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Crowd data shows the calmest window is 8–9am on weekdays and 8–10am on weekends"
-        }
-      ]
-    },
-    {
-      "slug": "nukus-cake-bumer",
-      "category": "trendy",
-      "region": "Nukus",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Т. Кайыпбергенов 54"
-        }
-      ]
-    },
-    {
-      "slug": "taiping-taiping-lake-garden",
-      "category": "attraction",
-      "region": "Taiping",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "tuk-tuk ride from the old shophouse district"
-        }
-      ]
-    },
-    {
-      "slug": "el-nido-cadlao-lagoon",
-      "category": "attraction",
-      "region": "El Nido",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "before the 9am rush"
-        }
-      ]
-    },
-    {
-      "slug": "kuching-malaysia-china-friendship-park",
-      "category": "attraction",
-      "region": "Kuching",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Weekdays between 7am and 3pm are consistently the calmest stretch"
-        }
-      ]
-    },
-    {
-      "slug": "fujairah-shees-park",
-      "category": "attraction",
-      "region": "Sharjah",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "small entry or parking fees at parks like this are typically collected in cash"
-        }
-      ]
-    },
-    {
-      "slug": "abu-dhabi-khalifa-park",
-      "category": "attraction",
-      "region": "Abu Dhabi",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "On weekends, the quieter window runs from 10am to 11am"
-        }
-      ]
-    },
-    {
-      "slug": "taipei-taipei-botanical-garden",
-      "category": "attraction",
-      "region": "Taipei",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "crowds build steadily from 9am and stay heavy right through to 6pm"
-        }
-      ]
-    },
-    {
-      "slug": "bukhara-bolo-hauz-mosque",
-      "category": "attraction",
-      "region": "Bukhara",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "The wood is elm, brought from Russia"
-        }
-      ]
-    },
-    {
-      "slug": "samarkand-afrasiyab-museum",
-      "category": "attraction",
-      "region": "Samarkand",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Pay in cash (Uzbek som); card readers are unreliable this far from the tourist core."
-        }
-      ]
-    },
-    {
-      "slug": "bukhara-bukhara-tower",
-      "category": "hidden-gem",
-      "region": "Bukhara",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Crowds build steadily and peak between 9am and 5pm"
-        }
-      ]
-    },
-    {
-      "slug": "bukhara-labi-hovuz",
-      "category": "attraction",
-      "region": "Bukhara",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Prices here run mid-range by Uzbek standards"
-        }
-      ]
-    },
-    {
-      "slug": "baguio-bencab-museum",
-      "category": "attraction",
-      "region": "Baguio",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Pay at the entrance counter."
-        }
-      ]
-    },
-    {
-      "slug": "fujairah-fujairah-museum",
-      "category": "attraction",
-      "region": "Fujairah",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "Bring small cash for the entry fee, card readers aren't always reliable at smaller Fujairah heritage sites, and fees here are modest"
-        }
-      ]
-    },
-    {
-      "slug": "el-nido-matinloc-shrine",
-      "category": "attraction",
-      "region": "El Nido",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "20-30 minutes"
-        }
-      ]
-    },
-    {
-      "slug": "north-point-mak-kee",
-      "category": "restaurant",
-      "region": "North Point",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "say the dish name (\"wonton min\" for wonton noodles, \"hah tsi min\" for shrimp roe noodles)"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "Weekends get busy between noon and 8pm"
-        }
-      ]
+      ],
+      "carriedFrom": "2026-09-12T20:55:39.450Z"
     },
     {
       "slug": "ho-chi-minh-city-tao-dan-park",
@@ -1923,106 +478,8 @@
           "type": "other-glaring",
           "quote": "expect it busy anywhere from 9am to 10pm, with only a narrow lull between 1pm and 3pm"
         }
-      ]
-    },
-    {
-      "slug": "ninh-binh-hoa-lu-ancient-capital",
-      "category": "attraction",
-      "region": "Ninh Binh",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Weekday visits stay comfortably calm across the whole 7am–5pm window"
-        }
-      ]
-    },
-    {
-      "slug": "manila-jose-rizal-monument",
-      "category": "attraction",
-      "region": "Manila",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "If you want breathing room, go on a weekday morning instead."
-        }
-      ]
-    },
-    {
-      "slug": "kas-patara-ancient-city",
-      "category": "attraction",
-      "region": "Kas",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "close to the 8am opening"
-        }
-      ]
-    },
-    {
-      "slug": "taichung-taichung-second-market",
-      "category": "hidden-gem",
-      "region": "Taichung",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "a translucent rice-flour dumbling stuffed with pork"
-        }
-      ]
-    },
-    {
-      "slug": "kuala-lumpur-thean-hou-temple",
-      "category": "attraction",
-      "region": "Kuala Lumpur",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "stay heavy until closing at 8pm"
-        }
-      ]
-    },
-    {
-      "slug": "taipei-national-taiwan-museum",
-      "category": "attraction",
-      "region": "Taipei",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "last entry typically around 4:30pm"
-        }
-      ]
-    },
-    {
-      "slug": "hanoi-temple-of-literature",
-      "category": "attraction",
-      "region": "Hanoi",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "the quiet behind the crowds near the entrance"
-        }
-      ]
-    },
-    {
-      "slug": "abu-dhabi-louvre-abu-dhabi",
-      "category": "attraction",
-      "region": "Abu Dhabi",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "arrive right at 10am on a Saturday or Sunday, before the crowds build"
-        }
-      ]
-    },
-    {
-      "slug": "kuala-lumpur-islamic-arts-museum-malaysia",
-      "category": "attraction",
-      "region": "Kuala Lumpur",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "reconstructed carved wooden ceiling salvaged from a Syrian house"
-        }
-      ]
+      ],
+      "carriedFrom": "2026-09-12T20:55:52.220Z"
     },
     {
       "slug": "iloilo-national-museum-of-the-philippines-iloilo",
@@ -2033,7 +490,360 @@
           "type": "invented-specifics",
           "quote": "Entry has historically been free at National Museum branches across the Philippines"
         }
-      ]
+      ],
+      "carriedFrom": "2026-09-12T20:55:57.203Z"
+    },
+    {
+      "slug": "istanbul-hagia-sophia-grand-mosque",
+      "category": "attraction",
+      "region": "Istanbul",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "weekdays between 7am and 9am are the calmest stretch"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:10.519Z"
+    },
+    {
+      "slug": "jakarta-national-museum-of-indonesia",
+      "category": "attraction",
+      "region": "Jakarta",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "On weekdays, the calmest hour is actually late in the day, between 6pm and 7pm, if you're visiting on a Friday when it stays open into the evening."
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:25.873Z"
+    },
+    {
+      "slug": "jakarta-selamat-datang-monument",
+      "category": "attraction",
+      "region": "Jakarta",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Jl. Kebon Melati 1 No. 5"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "weekday rush hour (roughly 7-9am and 5-7pm)"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:25.438Z"
+    },
+    {
+      "slug": "jordan-hong-kong-heritage-museum",
+      "category": "attraction",
+      "region": "Sha Tin",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Take the MTR from Jordan Station, changing lines as needed, and get off at Che Kung Temple Station."
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:27.060Z"
+    },
+    {
+      "slug": "jurong-singapore-discovery-centre",
+      "category": "attraction",
+      "region": "Jurong",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "weekends, 11am to 1pm is the calm patch"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:54:27.008Z"
+    },
+    {
+      "slug": "kampong-glam-telok-blangah-hill-park",
+      "category": "attraction",
+      "region": "Singapore",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Crowds pick up steadily from mid-morning and into the evening on weekends"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "the restaurant near the park's edge"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:12.603Z"
+    },
+    {
+      "slug": "kanazawa-kanazawa-castle-park",
+      "category": "attraction",
+      "region": "Kanazawa",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Crowd data shows no quiet weekday or weekend window separate from opening hours themselves; the whole day sees traffic."
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:12.409Z"
+    },
+    {
+      "slug": "kanazawa-omicho-market",
+      "category": "hidden-gem",
+      "region": "Kanazawa",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "close to 300 years"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "about 170 stalls"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "before 10am"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:31.047Z"
+    },
+    {
+      "slug": "kaohsiung-kaohsiung-museum-of-fine-arts",
+      "category": "attraction",
+      "region": "Kaohsiung",
+      "prose": [
+        {
+          "type": "foreign-fragment",
+          "quote": "高雄市立美術館"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:35.285Z"
+    },
+    {
+      "slug": "kaohsiung-shoushan-love-lookout",
+      "category": "attraction",
+      "region": "Kaohsiung",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "foot traffic stays heavy from around 9am until 11pm"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:36.527Z"
+    },
+    {
+      "slug": "kas-patara-ancient-city",
+      "category": "attraction",
+      "region": "Kas",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "close to the 8am opening"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:54.466Z"
+    },
+    {
+      "slug": "kep-kep-national-park",
+      "category": "attraction",
+      "region": "Kep",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "the busiest stretch runs from 9am to 11pm"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Opened in 1993"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:37.135Z"
+    },
+    {
+      "slug": "kep-wat-sampov-pram",
+      "category": "attraction",
+      "region": "Kep",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "a modest 671 reviews"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:13.159Z"
+    },
+    {
+      "slug": "khiva-khiva-ichan-kala",
+      "category": "attraction",
+      "region": "Khiva",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "construction stopped in 1855"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "213 carved wooden columns, some dating to the 10th century"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:38.360Z"
+    },
+    {
+      "slug": "kuala-lumpur-islamic-arts-museum-malaysia",
+      "category": "attraction",
+      "region": "Kuala Lumpur",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "reconstructed carved wooden ceiling salvaged from a Syrian house"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:56.562Z"
+    },
+    {
+      "slug": "kuala-lumpur-thean-hou-temple",
+      "category": "attraction",
+      "region": "Kuala Lumpur",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "stay heavy until closing at 8pm"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:55.078Z"
+    },
+    {
+      "slug": "kuching-malaysia-china-friendship-park",
+      "category": "attraction",
+      "region": "Kuching",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Weekdays between 7am and 3pm are consistently the calmest stretch"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:44.528Z"
+    },
+    {
+      "slug": "kumamoto-kumamoto-castle",
+      "category": "hidden-gem",
+      "region": "Kumamoto",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "The quietest window measured is any time during the 9am–5pm weekday stretch."
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "the busiest stretch running 10am to 4pm"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:32.545Z"
+    },
+    {
+      "slug": "lantau-island-lantau-south-country-park",
+      "category": "attraction",
+      "region": "Lantau Island",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Weekends between 9am and 4pm are the busiest window"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:06.895Z"
+    },
+    {
+      "slug": "manila-baluarte-de-san-diego",
+      "category": "hidden-gem",
+      "region": "Manila",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The measured quiet windows are 8am–9am on weekdays and 8am–10am on weekends"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:42.188Z"
+    },
+    {
+      "slug": "manila-jose-rizal-monument",
+      "category": "attraction",
+      "region": "Manila",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "If you want breathing room, go on a weekday morning instead."
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:54.119Z"
+    },
+    {
+      "slug": "mumbai-hanging-garden",
+      "category": "attraction",
+      "region": "Mumbai",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "crowds build steadily from 3pm to 9pm"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:22.830Z"
+    },
+    {
+      "slug": "mumbai-jogeshwari-caves",
+      "category": "attraction",
+      "region": "Mumbai",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "carved sometime in the mid-1st century"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:25.219Z"
+    },
+    {
+      "slug": "mumbai-paradox-museum-mumbai",
+      "category": "attraction",
+      "region": "Mumbai",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "That's when the rooms fill up and you'll be queuing for the popular shots."
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:27.695Z"
+    },
+    {
+      "slug": "nagoya-toyota-commemorative-museum-of-industry-and-technology",
+      "category": "attraction",
+      "region": "Nagoya",
+      "prose": [
+        {
+          "type": "broken-markdown",
+          "quote": "the machines themselves (dozens of them, still running. Staff demonstrate century-old power looms"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "Weekends get busy between 10am and 5pm"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:29.516Z"
+    },
+    {
+      "slug": "new-taipei-dalongdong-baoan-temple",
+      "category": "attraction",
+      "region": "New Taipei",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "carved in 1804"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "by renowned artist Pan Li-shui"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "UNESCO recognized its restoration with an Asia-Pacific Heritage Award in 2003"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:41.056Z"
     },
     {
       "slug": "new-taipei-national-palace-museum",
@@ -2044,16 +854,3000 @@
           "type": "other-glaring",
           "quote": "Weekends between 10am and 5pm are the museum's busiest measured stretch"
         }
-      ]
+      ],
+      "carriedFrom": "2026-09-12T20:55:57.598Z"
     },
     {
-      "slug": "cebu-casa-gorordo-museum",
+      "slug": "new-taipei-old-place-airplane-observation-deck",
       "category": "attraction",
-      "region": "Cebu",
+      "region": "New Taipei",
       "prose": [
         {
           "type": "invented-specifics",
-          "quote": "Bring small bills. The ticket booth and gift shop are more comfortable with cash than card"
+          "quote": "Weekends between 7am and 6pm are the busiest stretch by far"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:35.395Z"
+    },
+    {
+      "slug": "nha-trang-long-son-pagoda",
+      "category": "attraction",
+      "region": "Nha Trang",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "weekends between 8am and 6pm bring steady tour groups"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:06.982Z"
+    },
+    {
+      "slug": "ninh-binh-hoa-lu-ancient-capital",
+      "category": "attraction",
+      "region": "Ninh Binh",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Weekday visits stay comfortably calm across the whole 7am–5pm window"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:52.674Z"
+    },
+    {
+      "slug": "north-point-mak-kee",
+      "category": "restaurant",
+      "region": "North Point",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "say the dish name (\"wonton min\" for wonton noodles, \"hah tsi min\" for shrimp roe noodles)"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Weekends get busy between noon and 8pm"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:50.758Z"
+    },
+    {
+      "slug": "nukus-cake-bumer",
+      "category": "trendy",
+      "region": "Nukus",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Т. Кайыпбергенов 54"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:43.312Z"
+    },
+    {
+      "slug": "okinawa-ocean-expo-park",
+      "category": "attraction",
+      "region": "Okinawa",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Arrive before 9:30am on weekends to avoid circling for a space"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:22.697Z"
+    },
+    {
+      "slug": "okinawa-okinawa-prefectural-peace-memorial-museum",
+      "category": "attraction",
+      "region": "Okinawa",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "moving to witness, but not the day for a quiet, reflective visit"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:26.756Z"
+    },
+    {
+      "slug": "paris-musee-de-l-orangerie",
+      "category": "attraction",
+      "region": "Paris",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Weekends between 11am and 6pm are the peak stretch"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:54:55.365Z"
+    },
+    {
+      "slug": "pattaya-nongnooch-pattaya-garden",
+      "category": "attraction",
+      "region": "Pattaya",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "both weekdays and early weekend hours run 8am to 6pm quietly"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:09.793Z"
+    },
+    {
+      "slug": "phnom-penh-royal-palace-of-cambodia",
+      "category": "attraction",
+      "region": "Phnom Penh",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "named for its silver-tiled floor, much of it now covered by carpet to protect it"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:39.401Z"
+    },
+    {
+      "slug": "pingxi-lingjiao-waterfall",
+      "category": "attraction",
+      "region": "Pingxi",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "the busiest stretch runs from 9am until as late as 11pm"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:54:28.310Z"
+    },
+    {
+      "slug": "poipet-national-museum-of-cambodia",
+      "category": "attraction",
+      "region": "Phnom Penh",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "heavy from 10am to 4pm on weekends"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "treating it as a quiet cultural stop rather than an all-day outing, worth copying if you want to beat the crowds"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:33.708Z"
+    },
+    {
+      "slug": "portland-omsi",
+      "category": "attraction",
+      "region": "Portland",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The busiest stretch on weekends runs from 11am straight through to 6pm"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:54:40.097Z"
+    },
+    {
+      "slug": "portland-portland-japanese-garden",
+      "category": "hidden-gem",
+      "region": "Portland",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Umami Café"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "hand-built in Japan and reassembled here"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:32.005Z"
+    },
+    {
+      "slug": "sai-kung-tin-hau-temple-joss-house-bay",
+      "category": "attraction",
+      "region": "Sai Kung",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "steady footfall from 9am to 4pm"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:06.729Z"
+    },
+    {
+      "slug": "samarkand-afrasiyab-museum",
+      "category": "attraction",
+      "region": "Samarkand",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Pay in cash (Uzbek som); card readers are unreliable this far from the tourist core."
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:47.198Z"
+    },
+    {
+      "slug": "san-diego-san-diego-natural-history-museum",
+      "category": "attraction",
+      "region": "San Diego",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "museum is quiet from opening until around 11am, then fills up steadily from noon through closing"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:54:55.752Z"
+    },
+    {
+      "slug": "santiago-de-compostela-parque-de-galeras",
+      "category": "attraction",
+      "region": "Santiago de Compostela",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Between noon and 10pm on Saturdays and Sundays"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:54:32.296Z"
+    },
+    {
+      "slug": "seattle-the-museum-of-flight",
+      "category": "attraction",
+      "region": "Seattle",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Avoid 11am to 4pm on weekends, the museum's busiest window"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:00.629Z"
+    },
+    {
+      "slug": "sen-monorom-tuol-sleng-genocide-museum",
+      "category": "attraction",
+      "region": "Phnom Penh",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Give yourself 1.5 to 2.5 hours."
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:33.452Z"
+    },
+    {
+      "slug": "sentosa-fort-siloso",
+      "category": "attraction",
+      "region": "Sentosa",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "weekday visits any time between 9am and 6pm tend to stay quiet throughout"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:05.306Z"
+    },
+    {
+      "slug": "seoul-grand-mint-festival-2026",
+      "category": "event",
+      "region": "Seoul",
+      "image": "Olympic Park sign, unrelated to Grand Mint Festival music event",
+      "carriedFrom": "2026-09-12T20:54:53.135Z"
+    },
+    {
+      "slug": "sha-tin-sha-tin-che-kung-temple",
+      "category": "attraction",
+      "region": "Sha Tin",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "stays heavy from 10am to 5pm"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:24.280Z"
+    },
+    {
+      "slug": "shanghai-rolex-shanghai-masters",
+      "category": "event",
+      "region": "Shanghai",
+      "image": "NO HERO",
+      "carriedFrom": "2026-09-05T20:35:58.612Z"
+    },
+    {
+      "slug": "siem-reap-banteay-srei-temple",
+      "category": "attraction",
+      "region": "Siem Reap",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Weekdays are noticeably calmer across the entire opening period, from 7:30am to 5:30pm."
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:20.518Z"
+    },
+    {
+      "slug": "siem-reap-bayon-temple",
+      "category": "hidden-gem",
+      "region": "Siem Reap",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "weekends get genuinely packed between 9am and 4pm"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:29.463Z"
+    },
+    {
+      "slug": "siem-reap-phnom-bakheng-temple",
+      "category": "attraction",
+      "region": "Siem Reap",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "busiest window on weekends runs from around 4pm to 7pm"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:54:38.528Z"
+    },
+    {
+      "slug": "siem-reap-preah-khan-temple",
+      "category": "attraction",
+      "region": "Siem Reap",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "manageable crowds any time between 8am and 6pm"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:54:38.813Z"
+    },
+    {
+      "slug": "singapore-asian-civilisations-museum",
+      "category": "attraction",
+      "region": "Singapore",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "a 9th-century Arab dhow found off Indonesia"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:11.032Z"
+    },
+    {
+      "slug": "singapore-sri-mariamman-temple",
+      "category": "attraction",
+      "region": "Singapore",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "with crowds building steadily from 7am through to 9pm"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:10.374Z"
+    },
+    {
+      "slug": "suwon-hwaseong-haenggung",
+      "category": "attraction",
+      "region": "Suwon",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "sells combined tickets covering the palace and fortress wall walk"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:10.862Z"
+    },
+    {
+      "slug": "taichung-taichung-second-market",
+      "category": "hidden-gem",
+      "region": "Taichung",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "a translucent rice-flour dumbling stuffed with pork"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:54.672Z"
+    },
+    {
+      "slug": "taipei-national-taiwan-museum",
+      "category": "attraction",
+      "region": "Taipei",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "last entry typically around 4:30pm"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:55.621Z"
+    },
+    {
+      "slug": "taipei-taipei-botanical-garden",
+      "category": "attraction",
+      "region": "Taipei",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "crowds build steadily from 9am and stay heavy right through to 6pm"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:46.210Z"
+    },
+    {
+      "slug": "taiping-taiping-lake-garden",
+      "category": "attraction",
+      "region": "Taiping",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "tuk-tuk ride from the old shophouse district"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:43.602Z"
+    },
+    {
+      "slug": "tashkent-central-park-tashkent",
+      "category": "attraction",
+      "region": "Tashkent",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Weekend mornings, from 11am to 4pm, are also noticeably calmer than the evening rush"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "Give it the full two hours"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:34.047Z"
+    },
+    {
+      "slug": "tiong-bahru-hortpark",
+      "category": "attraction",
+      "region": "Tiong Bahru",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Weekdays run quiet from 7am right through to closing at 11pm"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:54:59.312Z"
+    },
+    {
+      "slug": "tiong-bahru-thian-hock-keng-temple",
+      "category": "attraction",
+      "region": "Tiong Bahru",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Weekdays: quiet fairly evenly from 8am to 5pm"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:02.481Z"
+    },
+    {
+      "slug": "tokyo-ultra-japan-2026",
+      "category": "event",
+      "region": "Tokyo",
+      "image": "NO HERO",
+      "carriedFrom": "2026-09-05T20:36:00.198Z"
+    },
+    {
+      "slug": "verona-castelvecchio-museum",
+      "category": "attraction",
+      "region": "Verona",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Weekends get busy between 11am and 6pm"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:54:34.558Z"
+    },
+    {
+      "slug": "washington-dc-smithsonian-national-museum-of-natural-history",
+      "category": "attraction",
+      "region": "Washington DC",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "standing on a base that's been there since 1959"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "finished in 1911"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "a 45-foot North Atlantic right whale model"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:28.542Z"
+    },
+    {
+      "slug": "yilan-fushan-botanical-garden",
+      "category": "attraction",
+      "region": "Yilan",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "the 9am–1pm stretch drawing the heaviest foot traffic"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:39.841Z"
+    },
+    {
+      "slug": "yilan-yilan-museum-of-art",
+      "category": "attraction",
+      "region": "Yilan",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "small museums like this in Taiwan typically accept cash and often mobile payment"
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:34.811Z"
+    },
+    {
+      "slug": "yogyakarta-prambanan-temple",
+      "category": "attraction",
+      "region": "Yogyakarta",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "On weekends, that window shrinks to 7am–8am before crowds build fast."
+        }
+      ],
+      "carriedFrom": "2026-09-12T20:55:23.282Z"
+    },
+    {
+      "slug": "yokohama-harbor-view-park",
+      "category": "attraction",
+      "region": "Yokohama",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "The observatory deck faces north over Yokohama Bay"
+        }
+      ]
+    },
+    {
+      "slug": "hiroshima-hiroshima-botanical-garden",
+      "category": "attraction",
+      "region": "Hiroshima",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Weekends between 10am and 4pm are the busiest stretch"
+        }
+      ]
+    },
+    {
+      "slug": "beijing-lama-temple",
+      "category": "attraction",
+      "region": "Beijing",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "with last entry typically around 4:30pm"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "an 18-meter sandalwood Maitreya Buddha carved from a single tree trunk"
+        }
+      ]
+    },
+    {
+      "slug": "kyoto-kiyomizu-dera",
+      "category": "attraction",
+      "region": "Kyoto",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Measured foot traffic shows the calmest window is 7am to 9am, on weekdays and weekends alike."
+        }
+      ]
+    },
+    {
+      "slug": "chiang-mai-royal-park-rajapruek",
+      "category": "attraction",
+      "region": "Chiang Mai",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Weekends stay busy the entire day"
+        }
+      ]
+    },
+    {
+      "slug": "marina-bay-marina-bay-sands-singapore",
+      "category": "attraction",
+      "region": "Marina Bay",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "one floor below"
+        }
+      ]
+    },
+    {
+      "slug": "seoul-deoksugung-palace",
+      "category": "attraction",
+      "region": "Seoul",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Weekends get heaviest between 11am and 8pm"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "restored after a 1904 fire"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Entry tickets are bought at the small booth beside the gate, cash and card both accepted"
+        }
+      ]
+    },
+    {
+      "slug": "north-point-quarry-bay-park",
+      "category": "attraction",
+      "region": "North Point",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Monday-to-Sunday farmers' market crowd"
+        }
+      ]
+    },
+    {
+      "slug": "orchard-road-istana-park",
+      "category": "attraction",
+      "region": "Orchard Road",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "7am to 8am on weekdays and 7am to 9am on weekends"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Weekends get busy from around 9am right through to 11pm"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "a small on-site cafe for a coffee break mid-walk"
+        }
+      ]
+    },
+    {
+      "slug": "seoul-sema-seoul-museum-of-art",
+      "category": "attraction",
+      "region": "Seoul",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Seodaemun Station (Line 5)"
+        }
+      ]
+    },
+    {
+      "slug": "madrid-el-retiro-park",
+      "category": "attraction",
+      "region": "Madrid",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "The calm window runs from 7am to 11pm on both weekdays and weekends"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "That crunch lands on weekends between 12pm and 10pm"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Renting a boat costs a modest per-30-minutes fee"
+        }
+      ]
+    },
+    {
+      "slug": "causeway-bay-east-coast-park-precinct",
+      "category": "attraction",
+      "region": "Causeway Bay",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Weekday mornings between 7am and 8am are the quietest window"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "busy from 9am through 9pm on Saturdays and Sundays"
+        }
+      ]
+    },
+    {
+      "slug": "strasbourg-parc-de-l-orangerie",
+      "category": "attraction",
+      "region": "Strasbourg",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "busiest stretch, with families, picnickers, and stroller traffic filling the main lawns near the lake"
+        }
+      ]
+    },
+    {
+      "slug": "wan-chai-wan-chai-temporary-promenade",
+      "category": "attraction",
+      "region": "Wan Chai",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "quietest between 7am and 8am"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "the calm window stretches much longer, from 7am through to around noon"
+        }
+      ]
+    },
+    {
+      "slug": "sukhothai-wat-si-chum",
+      "category": "attraction",
+      "region": "Sukhothai",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "roughly 49 feet tall"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "fifteen stories of stone"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "a flat, shaded ride of roughly 15–20 minutes"
+        }
+      ]
+    },
+    {
+      "slug": "bordeaux-grosse-cloche",
+      "category": "attraction",
+      "region": "Bordeaux",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The bell itself weighs 7.75 tons and dates to the 18th century"
+        }
+      ]
+    },
+    {
+      "slug": "miami-fairchild-tropical-botanic-garden",
+      "category": "attraction",
+      "region": "Miami",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "covers the full property in about 20-25 minutes"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Weekday visits stay quiet across the entire 10am–5pm span"
+        }
+      ]
+    },
+    {
+      "slug": "kyoto-kyoto-national-museum",
+      "category": "attraction",
+      "region": "Kyoto",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "opened in 1897"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "quietest hour is 5pm to 6pm"
+        }
+      ]
+    },
+    {
+      "slug": "san-francisco-golden-gate-park",
+      "category": "attraction",
+      "region": "San Francisco",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Because the park is rated among the most visited attractions in the city"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "Because the park sits at \"very popular\" status among San Francisco attractions"
+        }
+      ]
+    },
+    {
+      "slug": "strasbourg-strasbourg-museum-of-modern-and-contemporary-art",
+      "category": "attraction",
+      "region": "Strasbourg",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "designed by Adrien Fainsilber and opened in 1998"
+        }
+      ]
+    },
+    {
+      "slug": "chicago-garfield-park-conservatory",
+      "category": "attraction",
+      "region": "Chicago",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "184 acres to wander"
+        }
+      ]
+    },
+    {
+      "slug": "jiufen-jiufen-qingyun-temple",
+      "category": "attraction",
+      "region": "Jiufen",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Weekdays are calm for the entire opening period"
+        }
+      ]
+    },
+    {
+      "slug": "hualien-farglory-ocean-park",
+      "category": "attraction",
+      "region": "Hualien",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Address: 福德189號, Shoufeng Township, Hualien County"
+        }
+      ]
+    },
+    {
+      "slug": "andong-hahoe-mask-museum",
+      "category": "attraction",
+      "region": "Andong",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "calmest stretch running the full 10am to 6pm window"
+        }
+      ]
+    },
+    {
+      "slug": "wan-chai-wan-chai-pak-tai-temple",
+      "category": "attraction",
+      "region": "Wan Chai",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Ming dynasty bronze statue of Pak Tai"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "added during a 19th-century restoration"
+        }
+      ]
+    },
+    {
+      "slug": "siem-reap-pub-street",
+      "category": "attraction",
+      "region": "Siem Reap",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "shuttered shutters"
+        }
+      ]
+    },
+    {
+      "slug": "chiba-aobanomori-park",
+      "category": "attraction",
+      "region": "Chiba",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "weekends from 9am to 6pm are when the park fills up"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "the quietest stretch on weekdays runs from 9pm to 11pm"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "on weekends it narrows to 10pm to 11pm"
+        }
+      ]
+    },
+    {
+      "slug": "monza-giardini-della-villa-reale",
+      "category": "attraction",
+      "region": "Monza",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "quiet from 7am to 9am, then steadily busier until it peaks between 11am and 7pm"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Budget 45 minutes for the gardens alone"
+        }
+      ]
+    },
+    {
+      "slug": "tsim-sha-tsui-hong-kong-palace-museum",
+      "category": "attraction",
+      "region": "Tsim Sha Tsui",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "weekends run heavy traffic from noon straight through to 7pm"
+        }
+      ]
+    },
+    {
+      "slug": "ubud-ubud-palace",
+      "category": "attraction",
+      "region": "Ubud",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "typically starting around 4pm"
+        }
+      ]
+    },
+    {
+      "slug": "aberdeen-tin-hau-temple-aberdeen",
+      "category": "attraction",
+      "region": "Aberdeen",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Weekends are busiest from 8am to 3pm"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "The building sits at 182 Aberdeen Main Road"
+        }
+      ]
+    },
+    {
+      "slug": "chiba-national-museum-of-japanese-history",
+      "category": "attraction",
+      "region": "Chiba",
+      "prose": [
+        {
+          "type": "foreign-fragment",
+          "quote": "a Edo-era townscape"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "it takes 20 to 30 minutes to walk"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "plan closer to three hours if you want all six galleries"
+        }
+      ]
+    },
+    {
+      "slug": "monza-palazzo-dell-arengario",
+      "category": "attraction",
+      "region": "Monza",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Things ease off from 1pm through to closing at 8pm on weekends"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Payment inside, if there's a ticketed exhibition running, is typically by card as well as cash"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "it has been standing on this spot since the late 1200s"
+        }
+      ]
+    },
+    {
+      "slug": "cannes-croix-des-gardes",
+      "category": "attraction",
+      "region": "Cannes",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "164-metre summit"
+        }
+      ]
+    },
+    {
+      "slug": "seattle-ba-bar-green",
+      "category": "restaurant",
+      "region": "Seattle",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "lemongrass \"chicken\" or grilled mushroom"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "marinated tofu, seitan or mushroom depending on the version you pick"
+        }
+      ]
+    },
+    {
+      "slug": "cannes-abbaye-de-lerins",
+      "category": "attraction",
+      "region": "Cannes",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Weekends stay busy nearly all day, with the heaviest crowds between 11am and 5pm."
+        }
+      ]
+    },
+    {
+      "slug": "putrajaya-putra-perdana-park",
+      "category": "attraction",
+      "region": "Putrajaya",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "peaking between 6pm and 11pm"
+        }
+      ]
+    },
+    {
+      "slug": "bologna-basilica-di-san-petronio",
+      "category": "attraction",
+      "region": "Bologna",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "a 66.8-metre sundial built in 1655 by astronomer Gian Domenico Cassini"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "Busiest: weekends, 10am to 6pm straight through"
+        }
+      ]
+    },
+    {
+      "slug": "goyang-charlie-puth-seoul-2026",
+      "category": "event",
+      "region": "Goyang",
+      "image": "hero is only 636px wide — unusable as a banner",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "any big Gyeongsam or Gyeonggi-area stadium event"
+        }
+      ]
+    },
+    {
+      "slug": "hong-kong-ankoma",
+      "category": "restaurant",
+      "region": "Hong Kong",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "go in expecting a proper two-to-three-hour sitting"
+        }
+      ]
+    },
+    {
+      "slug": "dubai-najwa-karam-live-in-dubai",
+      "category": "event",
+      "region": "Dubai",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Prices for concerts here typically span several tiers, from general floor or upper-level seating to premium seated categories closer to the stage"
+        }
+      ]
+    },
+    {
+      "slug": "hong-kong-the-weeknd-after-hours-til-dawn-tour",
+      "category": "event",
+      "region": "Hong Kong",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "October 24 and 25 land midweek into Saturday"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "October 30 and 31 fall on the following Friday and Saturday"
+        }
+      ]
+    },
+    {
+      "slug": "kyoto-jidai-matsuri",
+      "category": "event",
+      "region": "Kyoto",
+      "image": "Tower observation deck unrelated to Jidai Matsuri festival",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "step away before the crowd context"
+        }
+      ]
+    },
+    {
+      "slug": "incheon-my-chemical-romance-seoul-2026",
+      "category": "event",
+      "region": "Incheon",
+      "image": "Street scene, unrelated to concert or band"
+    },
+    {
+      "slug": "madrid-festival-de-otono-madrid-madrid-autumn-festival",
+      "category": "event",
+      "region": "Madrid",
+      "image": "Generic Madrid skyline, not depicting the festival event"
+    },
+    {
+      "slug": "las-vegas-metallica-life-burns-faster-sphere-las-vegas-residency",
+      "category": "event",
+      "region": "Las Vegas",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "167,000-speaker audio system"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "The closest transit option is the Las Vegas Monorail's Las Vegas Convention Center station, a walkable distance from the venue."
+        }
+      ]
+    },
+    {
+      "slug": "paris-fete-des-vendanges-de-montmartre-montmartre-grape-harvest-festival",
+      "category": "event",
+      "region": "Paris",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Lamarck-Caulaincourt (Line 12) or Abbesses (Line 12)"
+        }
+      ]
+    },
+    {
+      "slug": "tashkent-shavi-coffee-roasters",
+      "category": "trendy",
+      "region": "Tashkent",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "pastries baked to sell out by early afternoon"
+        }
+      ]
+    },
+    {
+      "slug": "tokyo-samaa",
+      "category": "hidden-gem",
+      "region": "Tokyo",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "A short WhatsApp-free spontaneous walk past the door"
+        }
+      ]
+    },
+    {
+      "slug": "downtown-dubai-burj-park",
+      "category": "attraction",
+      "region": "Downtown Dubai",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Given the current under-the-radar standing, it's a reasonable bet for anyone who wants the money shot of Burj Khalifa without fighting for a foothold."
+        }
+      ]
+    },
+    {
+      "slug": "takayama-takayama-autumn-festival-hachiman-matsuri",
+      "category": "event",
+      "region": "Takayama",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Nine or eleven floats typically appear depending on the year and weather"
+        }
+      ]
+    },
+    {
+      "slug": "bologna-museo-per-la-memoria-di-ustica",
+      "category": "attraction",
+      "region": "Bologna",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Budget the full 45 minutes"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "last entry is typically earlier than closing"
+        }
+      ]
+    },
+    {
+      "slug": "valencia-medio-maraton-valencia-trinidad-alfonso-zurich-valencia-half-marathon",
+      "category": "event",
+      "region": "Valencia",
+      "image": "Building architecture, not a marathon race event",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Cafes near the finish line fill up fast after 10am"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "bakeries near the route often open earlier than usual"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Elite fields regularly use it as a proving ground for sub-59 and sub-66 minute times"
+        }
+      ]
+    },
+    {
+      "slug": "pisa-natural-history-museum-of-the-university-of-pisa",
+      "category": "attraction",
+      "region": "Pisa",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "free parking near the monastery gates"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "roughly 20 minutes from Pisa"
+        }
+      ]
+    },
+    {
+      "slug": "katong-sri-senpaga-vinayagar-temple",
+      "category": "attraction",
+      "region": "Katong",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Weekends draw a steady stream of visitors and worshippers from 8am right through to 9pm"
+        }
+      ]
+    },
+    {
+      "slug": "downtown-dubai-zabeel-palace",
+      "category": "attraction",
+      "region": "Downtown Dubai",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "most visitors spend 10 to 20 minutes here"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Budget the palace as a 15-minute add-on"
+        }
+      ]
+    },
+    {
+      "slug": "siena-santa-maria-della-scala",
+      "category": "attraction",
+      "region": "Siena",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "the quietest stretch runs from 12pm to 5pm"
+        }
+      ]
+    },
+    {
+      "slug": "guilin-elephant-trunk-hill",
+      "category": "attraction",
+      "region": "Guilin",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Because it's currently under the radar compared to giants like Reed Flute Cave"
+        }
+      ]
+    },
+    {
+      "slug": "putrajaya-putra-mosque",
+      "category": "attraction",
+      "region": "Putrajaya",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "it can hold around 15,000 worshippers at once"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "A 116-metre minaret stands beside it, styled after the Sheikh Omar Mosque in Baghdad"
+        }
+      ]
+    },
+    {
+      "slug": "kumamoto-suizenji-jojuen-garden",
+      "category": "attraction",
+      "region": "Kumamoto",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Weekdays are consistently calmer across the entire day, from 9am to closing at 5pm."
+        }
+      ]
+    },
+    {
+      "slug": "hua-hin-mrigadayavan-palace",
+      "category": "attraction",
+      "region": "Hua Hin",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "elevated about three meters"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Corridors run for hundreds of meters"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "famous for the phrase \"Phra Ruen Rublom\" translating loosely to \"hall that catches the wind.\""
+        }
+      ]
+    },
+    {
+      "slug": "malang-badut-temple",
+      "category": "attraction",
+      "region": "Malang",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "a caretaker or local attendant typically collects a small entrance donation at a gate hut"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Cash in small Indonesian rupiah notes covers the entrance donation"
+        }
+      ]
+    },
+    {
+      "slug": "amritsar-ramgarhia-bunga",
+      "category": "attraction",
+      "region": "Amritsar",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "It's a five to seven minute walk from the langar hall, under twenty minutes from the main sanctum if you're coming straight off the parikrama."
+        }
+      ]
+    },
+    {
+      "slug": "kobe-kobe-nunobiki-herb-gardens-ropeway",
+      "category": "attraction",
+      "region": "Kobe",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "fit maybe eight riders comfortably"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "cash and IC cards (Suica, ICOCA) both work at most kiosks in the area"
+        }
+      ]
+    },
+    {
+      "slug": "taiyuan-yingze-park",
+      "category": "attraction",
+      "region": "Taiyuan",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "The busiest stretch on weekends runs from 2pm to 8pm"
+        }
+      ]
+    },
+    {
+      "slug": "nikko-nikko-tamozawa-imperial-villa-memorial-park",
+      "category": "attraction",
+      "region": "Nikko",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "heaviest traffic runs from 10am to 4pm on Saturdays and Sundays"
+        }
+      ]
+    },
+    {
+      "slug": "genoa-villa-durazzo-pallavicini",
+      "category": "attraction",
+      "region": "Genoa",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "the 10am to 7pm stretch on Saturday and Sunday consistently the busiest window"
+        }
+      ]
+    },
+    {
+      "slug": "malaga-jardines-de-pedro-luis-alonso",
+      "category": "attraction",
+      "region": "Malaga",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Busiest weekend stretch: 9am-10pm"
+        }
+      ]
+    },
+    {
+      "slug": "bukit-timah-murugan-hill-temple",
+      "category": "attraction",
+      "region": "Bukit Timah",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Offerings of flowers, fruit, or coconuts are sold by vendors near temples like this if you want to make one"
+        }
+      ]
+    },
+    {
+      "slug": "malaga-santa-iglesia-catedral-basilica-de-la-encarnacion-de-malaga",
+      "category": "attraction",
+      "region": "Malaga",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "42 individual figures of saints"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "terrace route is guided and takes about 45 minutes"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Give the museum ten to fifteen minutes"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "working bell dating to the 18th century"
+        }
+      ]
+    },
+    {
+      "slug": "genoa-porta-soprana",
+      "category": "attraction",
+      "region": "Genoa",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "a informal hangout spot"
+        }
+      ]
+    },
+    {
+      "slug": "annecy-parc-animalier-de-la-grande-jeanne",
+      "category": "attraction",
+      "region": "Annecy",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "quietest stretch on weekend mornings between 7am and 9am"
+        }
+      ]
+    },
+    {
+      "slug": "urgench-ulli-hovli",
+      "category": "attraction",
+      "region": "Urgench",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "peak anywhere from 11am to 11pm"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "The calm window is 7am to 9am on weekends"
+        }
+      ]
+    },
+    {
+      "slug": "chennai-thiru-vi-ka-park",
+      "category": "attraction",
+      "region": "Chennai",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Thuru Vi Ka Park Road in Shenoy Nagar"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Pair a morning visit here with breakfast at one of the small idli-and-filter-coffee stalls that dot the surrounding residential streets"
+        }
+      ]
+    },
+    {
+      "slug": "harbin-zhaolin-park",
+      "category": "attraction",
+      "region": "Harbin",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "377 Sen Lin Jie, Daoli District"
+        }
+      ]
+    },
+    {
+      "slug": "varanasi-dashashwamedh-ghat",
+      "category": "attraction",
+      "region": "Varanasi",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Seven young priests on a raised platform"
+        }
+      ]
+    },
+    {
+      "slug": "annecy-basilique-de-la-visitation",
+      "category": "attraction",
+      "region": "Annecy",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "weekends, that quiet window narrows to 8am–10am"
+        }
+      ]
+    },
+    {
+      "slug": "taroko-gorge-xiangde-temple",
+      "category": "attraction",
+      "region": "Taroko Gorge",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Weekends get busiest between 10am and 2pm"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Bring cash coins for the incense if you want to make an offering"
+        }
+      ]
+    },
+    {
+      "slug": "genoa-galata-museo-del-mare",
+      "category": "attraction",
+      "region": "Genoa",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "That alone takes 20-30 minutes."
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "last entry usually an hour before close"
+        }
+      ]
+    },
+    {
+      "slug": "bukhara-kalan-mosque",
+      "category": "attraction",
+      "region": "Bukhara",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "288 small domes"
+        }
+      ]
+    },
+    {
+      "slug": "mont-saint-michel-tour-gabriel",
+      "category": "attraction",
+      "region": "Mont Saint-Michel",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "a Museum-classified site off the main pedestrian spine"
+        }
+      ]
+    },
+    {
+      "slug": "palermo-quattro-canti",
+      "category": "attraction",
+      "region": "Palermo",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Vicenzo Vila"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "finished around 1620"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "then continue toward the Vucciria market for lunch"
+        }
+      ]
+    },
+    {
+      "slug": "avignon-musee-calvet",
+      "category": "attraction",
+      "region": "Avignon",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "expect a modest fee well below what the Palais des Papes charges"
+        }
+      ]
+    },
+    {
+      "slug": "avignon-the-bridge-of-avignon",
+      "category": "attraction",
+      "region": "Avignon",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Once the Rhône crossing was in place, the city became the key link between Provence and the Comtat Venaissin"
+        }
+      ]
+    },
+    {
+      "slug": "toulouse-jardin-royal",
+      "category": "attraction",
+      "region": "Toulouse",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "but from 2pm to 7pm the garden fills up with families and picnickers"
+        }
+      ]
+    },
+    {
+      "slug": "boston-public-garden",
+      "category": "attraction",
+      "region": "Boston",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "weekend mornings before 11am are your best window; the park stays comparatively open from 7am onward on Saturdays and Sundays before the midday surge"
+        }
+      ]
+    },
+    {
+      "slug": "toledo-puy-du-fou-espana",
+      "category": "attraction",
+      "region": "Toledo",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "busy day, with crowds building steadily from 10am through to 11pm"
+        }
+      ]
+    },
+    {
+      "slug": "boston-the-paul-revere-house",
+      "category": "attraction",
+      "region": "Boston",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "On weekdays, traffic stays fairly even across the whole day"
+        }
+      ]
+    },
+    {
+      "slug": "toledo-sinagoga-de-santa-maria-la-blanca",
+      "category": "attraction",
+      "region": "Toledo",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "roughly 20 meters deep"
+        }
+      ]
+    },
+    {
+      "slug": "segovia-catedral-de-segovia",
+      "category": "attraction",
+      "region": "Segovia",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "window after window dated to the 1300s"
+        }
+      ]
+    },
+    {
+      "slug": "austin-lady-bird-johnson-wildflower-center",
+      "category": "attraction",
+      "region": "Austin",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "peaks between 10am and 3pm"
+        }
+      ]
+    },
+    {
+      "slug": "phnom-penh-central-market",
+      "category": "hidden-gem",
+      "region": "Phnom Penh",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "a friendly counter-offer at 40 to 50 percent of the asking price is a normal starting point"
+        }
+      ]
+    },
+    {
+      "slug": "philadelphia-independence-hall",
+      "category": "attraction",
+      "region": "Philadelphia",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Independence Hall anchors the west end of Independence National Historical Park"
+        }
+      ]
+    },
+    {
+      "slug": "tokyo-zojo-ji",
+      "category": "attraction",
+      "region": "Tokyo",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Senzu Kannon or sometimes described as memorials for miscarried and stillborn children"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "Busiest stretch: 11am-4pm on weekends"
+        }
+      ]
+    },
+    {
+      "slug": "nashville-cheekwood",
+      "category": "attraction",
+      "region": "Nashville",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "built in the early 1930s with the Maxwell House coffee fortune"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Eleven distinct garden areas surround the mansion"
+        }
+      ]
+    },
+    {
+      "slug": "siem-reap-siem-reap-art-center-night-market",
+      "category": "hidden-gem",
+      "region": "Siem Reap",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "After 9:30pm, vendors start discounting slow-moving stock to avoid packing it back up"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Arrive right at the 4pm opening for the loosest aisles and first pick of stock"
+        }
+      ]
+    },
+    {
+      "slug": "siem-reap-srah-srang",
+      "category": "attraction",
+      "region": "Siem Reap",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "built in stages during the Angkor period, with its sandstone terrace added later, which is the era that gives it its current stone terrace"
+        }
+      ]
+    },
+    {
+      "slug": "portland-the-grotto",
+      "category": "attraction",
+      "region": "Portland",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Weekends between 10am and 5pm draw the heaviest foot traffic"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "the last hour before closing, from 7pm to 8pm, is noticeably quieter"
+        }
+      ]
+    },
+    {
+      "slug": "bali-cocomo-canggu",
+      "category": "trendy",
+      "region": "Bali",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "sharing plates like the tenderloin"
+        }
+      ]
+    },
+    {
+      "slug": "paris-sainte-chapelle",
+      "category": "attraction",
+      "region": "Paris",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Weekends run heavy throughout the day; the calmest hours are the same 9am–7pm window on quieter weekdays"
+        }
+      ]
+    },
+    {
+      "slug": "bengaluru-chet-faker-a-love-for-strangers-tour",
+      "category": "event",
+      "region": "Bengaluru",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Thinking In Textures days"
+        }
+      ]
+    },
+    {
+      "slug": "osaka-nakanoshima-museum-of-art-osaka-nakka",
+      "category": "attraction",
+      "region": "Osaka",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "expect steady crowds from 11am to 5pm on Saturdays and Sundays"
+        }
+      ]
+    },
+    {
+      "slug": "hue-thien-mu-pagoda",
+      "category": "attraction",
+      "region": "Hue",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Both weekdays and weekends are calmest from 7am to 9am, right at opening"
+        }
+      ]
+    },
+    {
+      "slug": "jurong-chinese-garden",
+      "category": "attraction",
+      "region": "Jurong",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "crowds building steadily from 10am through to 10pm"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "a full walking loop takes about 90 minutes without stops"
+        }
+      ]
+    },
+    {
+      "slug": "chinatown-buddha-tooth-relic-temple",
+      "category": "attraction",
+      "region": "Chinatown",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Weekends get busiest from 11am to 4pm"
+        }
+      ]
+    },
+    {
+      "slug": "seattle-le-panier",
+      "category": "trendy",
+      "region": "Seattle",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "the lavender shortbread, the bakery's own specialty"
+        }
+      ]
+    },
+    {
+      "slug": "ibiza-dalt-vila",
+      "category": "attraction",
+      "region": "Ibiza",
+      "proseError": "Unexpected non-whitespace character after JSON at position 4"
+    },
+    {
+      "slug": "bugis-kwan-im-thong-hood-cho-temple",
+      "category": "attraction",
+      "region": "Bugis",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "arrive shortly after opening on a weekend before the queues build"
+        }
+      ]
+    },
+    {
+      "slug": "busan-busan-international-film-festival-biff",
+      "category": "event",
+      "region": "Busan",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Arrive at least 20-30 minutes before any screening"
+        }
+      ]
+    },
+    {
+      "slug": "sapporo-hokkaido-jingu",
+      "category": "attraction",
+      "region": "Sapporo",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "It was built to bless Japan's colonization-era development of Hokkaido"
+        }
+      ]
+    },
+    {
+      "slug": "sheung-wan-liang-yi-museum",
+      "category": "attraction",
+      "region": "Sheung Wan",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Fitted interiors held powder, lipstick, a comb, sometimes a tiny clock, all behind an enamelled or gem-set lid."
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Plan roughly 1 to 1.5 hours for a full visit"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "roughly a 10 to 12 minute walk uphill"
+        }
+      ]
+    },
+    {
+      "slug": "sai-kung-hong-kong-space-museum",
+      "category": "attraction",
+      "region": "Tsim Sha Tsui",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "with both cash and card accepted"
+        }
+      ]
+    },
+    {
+      "slug": "hong-kong-fello",
+      "category": "trendy",
+      "region": "Hong Kong",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "currently ranked No. 36 on Asia's 50 Best Bars for 2026"
+        }
+      ]
+    },
+    {
+      "slug": "singapore-merlion-park",
+      "category": "attraction",
+      "region": "Singapore",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The Merlion was designed in 1964 as a logo for the national tourism board"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "arriving 15–20 minutes early to claim railing space"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "the Marina Bay Sands light and laser show, Spectra, runs from the opposite shore"
+        }
+      ]
+    },
+    {
+      "slug": "abu-dhabi-middle-east-film-comic-con-mefcc-2026",
+      "category": "event",
+      "region": "Abu Dhabi",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Hall assignments and daily opening hours came from the organizers, who set them for the weekend rather than leaving them to third parties."
+        },
+        {
+          "type": "other-glaring",
+          "quote": "MEFCC announced the specific guest list, panel schedule and ticket pricing tiers for the weekend."
+        },
+        {
+          "type": "other-glaring",
+          "quote": "Tickets were sold online in advance through the official site"
+        }
+      ]
+    },
+    {
+      "slug": "surabaya-siola-surabaya-museum",
+      "category": "attraction",
+      "region": "Surabaya",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "no single quiet hour has been consistently measured, arriving soon after the 8am opening is a safe bet"
+        }
+      ]
+    },
+    {
+      "slug": "new-taipei-museum-of-contemporary-art-taipei",
+      "category": "attraction",
+      "region": "Taipei",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "especially from 11am to 6pm"
+        }
+      ]
+    },
+    {
+      "slug": "termez-eco-park",
+      "category": "attraction",
+      "region": "Tashkent",
+      "prose": [
+        {
+          "type": "symbol-in-prose",
+          "quote": "holds a 4.6★ rating"
+        }
+      ]
+    },
+    {
+      "slug": "yilan-lanyang-museum",
+      "category": "attraction",
+      "region": "Yilan",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "the busiest stretch running from 10am to 5pm on Saturdays and Sundays"
+        }
+      ]
+    },
+    {
+      "slug": "kanazawa-higashi-chaya-district",
+      "category": "attraction",
+      "region": "Kanazawa",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "things stay calm from 7am to 11pm on both weekdays and weekends"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "weekends between 10am and 6pm are when tour buses and day-trippers fill the main lane"
+        }
+      ]
+    },
+    {
+      "slug": "konya-tomb-of-mevlana-rumi",
+      "category": "attraction",
+      "region": "Konya",
+      "prose": [
+        {
+          "type": "broken-markdown",
+          "quote": "You spot the dome before you spot the entrance (a ribbed cone of turquoise tile rising above Karatay's rooftops, catching the light differently depending on whether it's 9am haze or late-afternoon sun. That's the Kubbe-i Hadra, the \"Green Dome,\" and it marks the resting place of Jalal ad-Din Muhammad Rumi, the 13th-century poet and mystic whose followers founded the Mevlevi order) the \"whirling dervishes.\""
+        }
+      ]
+    },
+    {
+      "slug": "kenting-national-museum-of-marine-biology-aquarium",
+      "category": "attraction",
+      "region": "Kenting",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Both weekdays and weekends are calmest right at opening through the full day if you avoid that midday weekend window"
+        }
+      ]
+    },
+    {
+      "slug": "cameron-highlands-lavender-garden-cameron-lavender",
+      "category": "attraction",
+      "region": "Cameron Highlands",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "It's addressed simply as 59, Tanah Rata, 39000 Brinchang."
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "most people move through it in under 90 minutes"
+        }
+      ]
+    },
+    {
+      "slug": "sun-moon-lake-formosan-aboriginal-culture-village",
+      "category": "attraction",
+      "region": "Sun Moon Lake",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Crowd data shows weekdays between 10am and 5pm stay noticeably calmer than weekends."
+        }
+      ]
+    },
+    {
+      "slug": "phu-quoc-phu-quoc-prison-history-museum",
+      "category": "attraction",
+      "region": "Phu Quoc",
+      "proseError": "Unexpected non-whitespace character after JSON at position 9"
+    },
+    {
+      "slug": "izmir-temple-of-domitian",
+      "category": "attraction",
+      "region": "Selcuk",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "a good four times life size"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Budget 5-10 minutes at the temple itself, but 2.5-3 hours for the full Ephesus site."
+        }
+      ]
+    },
+    {
+      "slug": "central-man-mo-temple",
+      "category": "attraction",
+      "region": "Sheung Wan",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "aim for the 8–9am window right at opening instead"
+        }
+      ]
+    },
+    {
+      "slug": "kaohsiung-kaohsiung-city-temple-of-confucius",
+      "category": "attraction",
+      "region": "Kaohsiung",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "there's no burning incense here, Confucian ritual keeps things spare"
+        }
+      ]
+    },
+    {
+      "slug": "johor-bahru-legoland-malaysia",
+      "category": "attraction",
+      "region": "Johor Bahru",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "a full Kuala Lumpur skyline in Miniland"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "scaled LEGO replicas of Southeast Asian landmarks"
+        }
+      ]
+    },
+    {
+      "slug": "cappadocia-uchisar-castle",
+      "category": "attraction",
+      "region": "Cappadocia",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Weekend visits get busy between 10am and 7pm."
+        }
+      ]
+    },
+    {
+      "slug": "kota-kinabalu-atkinson-clock-tower",
+      "category": "attraction",
+      "region": "Kota Kinabalu",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Weekends:** crowd patterns stay steady and manageable across the whole 7am–7pm window, though the busiest stretch is generally 9am to 6pm."
+        }
+      ]
+    },
+    {
+      "slug": "taichung-taichung-lecheng-temple",
+      "category": "attraction",
+      "region": "Taichung",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "aim for the window from 7am to 10pm on quieter weekdays"
+        }
+      ]
+    },
+    {
+      "slug": "da-nang-my-son",
+      "category": "attraction",
+      "region": "Da Nang",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Crowd data shows weekends get genuinely busy between 9am and 1pm"
+        }
+      ]
+    },
+    {
+      "slug": "penang-kek-lok-si-temple",
+      "category": "attraction",
+      "region": "Penang",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "which is cheap and simple for most visitors"
+        }
+      ]
+    },
+    {
+      "slug": "jordan-yat-tung-heen-eaton-hk",
+      "category": "restaurant",
+      "region": "Jordan",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "pu-erh and oolong are safe, classic choices"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "two hours for a proper dim sum lunch"
+        }
+      ]
+    },
+    {
+      "slug": "mong-kok-one-dim-sum",
+      "category": "restaurant",
+      "region": "Mong Kok",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "most dishes land in the budget-to-mid-range bracket for Hong Kong dim sum"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "siu mai and har gow are typically 3-4 pieces per order"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "Weekends are calmer only very early, from 9am, before the crowds build."
+        }
+      ]
+    },
+    {
+      "slug": "honolulu-aloha-festivals",
+      "category": "event",
+      "region": "Honolulu",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "TheBus and the Skyline rail connect the airport, downtown, and Waikīkī"
+        }
+      ]
+    },
+    {
+      "slug": "mumbai-flint",
+      "category": "trendy",
+      "region": "Mumbai",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The dish everyone mentions first is a brunch dish built around big, spicy flavors."
+        },
+        {
+          "type": "other-glaring",
+          "quote": "look for cocktails that experiment with unusual local ingredients"
+        }
+      ]
+    },
+    {
+      "slug": "saitama-the-weeknd-after-hours-til-dawn-tour",
+      "category": "event",
+      "region": "Saitama",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "rapper R-Shitei and DJ Matsunaga"
+        }
+      ]
+    },
+    {
+      "slug": "singapore-itzy-3rd-world-tour-tunnel-vision",
+      "category": "event",
+      "region": "Singapore",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "September 30, 2026 marks their first Singapore date since their previous visit"
+        }
+      ]
+    },
+    {
+      "slug": "da-nang-da-nang-museum-of-cham-sculpture",
+      "category": "attraction",
+      "region": "Da Nang",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The Thap Mam room holds fiercer, more stylized guardian figures and mythical beasts from the 12th–13th centuries."
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "a bronze figure blending Cham and Indian influences"
+        }
+      ]
+    },
+    {
+      "slug": "bohol-national-museum-of-the-philippines-bohol",
+      "category": "attraction",
+      "region": "Bohol",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "aim for the 9am–5pm window, which measured foot traffic shows is the calmer stretch"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "Pay at the entrance"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Philippine national museums typically use a simple ticket or logbook system at the door"
+        }
+      ]
+    },
+    {
+      "slug": "sha-tin-dab-pa-modern-chinese-cuisine",
+      "category": "restaurant",
+      "region": "Sha Tin",
+      "proseError": "Unexpected non-whitespace character after JSON at position 8"
+    },
+    {
+      "slug": "jordan-australia-dairy-company",
+      "category": "restaurant",
+      "region": "Jordan",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Weekends are consistently busy from 10am through 9pm"
+        }
+      ]
+    },
+    {
+      "slug": "ha-long-bay-quang-ninh-museum",
+      "category": "attraction",
+      "region": "Ha Long Bay",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "expect a steady flow of visitors from 9am straight through to closing at 5pm, with no real lull"
+        }
+      ]
+    },
+    {
+      "slug": "langkawi-langkawi-sky-bridge",
+      "category": "attraction",
+      "region": "Langkawi",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "the steepest cable car incline in the world at this scale"
+        }
+      ]
+    },
+    {
+      "slug": "tiong-bahru-tiong-bahru-market",
+      "category": "restaurant",
+      "region": "Tiong Bahru",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "roughly 7:30–9am"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "roughly 2–4pm"
+        }
+      ]
+    },
+    {
+      "slug": "penang-pinang-peranakan-mansion",
+      "category": "attraction",
+      "region": "Penang",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Pay at the counter"
+        }
+      ]
+    },
+    {
+      "slug": "khiva-kalta-minor-minaret",
+      "category": "hidden-gem",
+      "region": "Khiva",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Weekends get busy from 10am straight through to 11pm"
+        }
+      ]
+    },
+    {
+      "slug": "nashville-the-parthenon",
+      "category": "hidden-gem",
+      "region": "Nashville",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "including work from the Cowan collection"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Pay by card; cash isn't necessary and lines move faster with tapped payment"
+        }
+      ]
+    },
+    {
+      "slug": "mont-saint-michel-mont-saint-michel-abbey",
+      "category": "hidden-gem",
+      "region": "Mont Saint-Michel",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Both weekday and weekend visits are calmest right at opening or in the final couple of hours before closing."
+        }
+      ]
+    },
+    {
+      "slug": "sha-tin-the-alchemist-cafe-shatin",
+      "category": "trendy",
+      "region": "Sha Tin",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "aim for after 8pm when the crowd data suggests things finally thin out"
+        }
+      ]
+    },
+    {
+      "slug": "jordan-the-astor",
+      "category": "trendy",
+      "region": "Jordan",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "between 7am and 11am on weekends"
+        }
+      ]
+    },
+    {
+      "slug": "bukhara-toqi-zargaron",
+      "category": "hidden-gem",
+      "region": "Bukhara",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "roughly mid-morning to early evening"
+        }
+      ]
+    },
+    {
+      "slug": "bugis-albert-centre-market-food-centre",
+      "category": "restaurant",
+      "region": "Bugis",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "270 Queen St, #01-53"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "an easy 5-8 minute walk from Bugis MRT station"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "foot traffic stays heavy from 11am straight through to 7pm, with no real lull"
+        }
+      ]
+    },
+    {
+      "slug": "hua-hin-rajabhakti-park",
+      "category": "hidden-gem",
+      "region": "Hua Hin",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Weekends get busy from 9am straight through to 6pm"
+        }
+      ]
+    },
+    {
+      "slug": "avignon-place-du-palais",
+      "category": "hidden-gem",
+      "region": "Avignon",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Early morning, before the ticket booths open, the square belongs mostly to locals cutting through on their way to work"
+        }
+      ]
+    },
+    {
+      "slug": "toulouse-basilique-saint-sernin-de-toulouse",
+      "category": "hidden-gem",
+      "region": "Toulouse",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "which typically requires a separate small fee"
+        }
+      ]
+    },
+    {
+      "slug": "new-delhi-yamuna-ghat",
+      "category": "attraction",
+      "region": "New Delhi",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "visit later in the evening instead, when the crowds and vendors have largely cleared out"
+        }
+      ]
+    },
+    {
+      "slug": "udaipur-eklingji-temple",
+      "category": "attraction",
+      "region": "Udaipur",
+      "prose": [
+        {
+          "type": "broken-markdown",
+          "quote": "This isn't a ruin or a photo backdrop (it's a living temple the Mewar royal family has worshipped at for over a thousand years."
+        },
+        {
+          "type": "broken-markdown",
+          "quote": "locals still call him a \"diwan\") a mere custodian ruling on the god's behalf."
+        }
+      ]
+    },
+    {
+      "slug": "mong-kok-dim-dim-sum-mong-kok",
+      "category": "restaurant",
+      "region": "Mong Kok",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Baked char siu polo bun, a signature here, sweet crust over savory filling"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "A 10% service charge is often already added to the bill"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Mong Kok MTR station (Tsuen Wan, Kwun Tong and East Rail lines)"
+        }
+      ]
+    },
+    {
+      "slug": "udaipur-pichola-lake-udaipur",
+      "category": "attraction",
+      "region": "Udaipur",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "arrive by 5pm to secure a boat slot before the last rides fill up"
+        }
+      ]
+    },
+    {
+      "slug": "guangzhou-guangzhou-tv-tower",
+      "category": "attraction",
+      "region": "Guangzhou",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "since this attraction still flies under the radar compared to bigger-name towers elsewhere in China"
+        }
+      ]
+    },
+    {
+      "slug": "new-delhi-lodhi-garden",
+      "category": "attraction",
+      "region": "New Delhi",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "dating to the Sayyid dynasty of the 1440s"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "An arched Athpula bridge from Akbar's reign, at the garden's eastern edge"
+        }
+      ]
+    },
+    {
+      "slug": "new-delhi-shri-laxmi-narayan-temple-birla-mandir",
+      "category": "attraction",
+      "region": "New Delhi",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "RK Ashram Marg and Jhandewalan, both on the Blue Line"
+        }
+      ]
+    },
+    {
+      "slug": "baguio-oh-my-gulay",
+      "category": "restaurant",
+      "region": "Baguio",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "aim for a weekday evening between 7pm and 8pm, the quietest window by a clear margin"
+        }
+      ]
+    },
+    {
+      "slug": "guangzhou-temple-of-the-six-banyan-trees",
+      "category": "attraction",
+      "region": "Guangzhou",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "nine-story octagonal tower that actually has 17 internal levels"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "cast during the Qing dynasty"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Founded in 537 (with roots going back to 510)"
+        }
+      ]
+    },
+    {
+      "slug": "new-delhi-national-museum-new-delhi",
+      "category": "attraction",
+      "region": "New Delhi",
+      "prose": [
+        {
+          "type": "broken-markdown",
+          "quote": "rushing means missing the Central Asian manuscripts entirely, since that gallery sits slightly apart from the main tourist flow. Because this is a heavily visited, well-known institution rather than an insider spot, the real local trick isn't finding it) it's timing it"
+        }
+      ]
+    },
+    {
+      "slug": "lantau-island-po-lin-monastery-restaurant",
+      "category": "restaurant",
+      "region": "Lantau Island",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Buy your meal ticket at the counter near the restaurant entrance rather than expecting table service and a menu."
+        },
+        {
+          "type": "other-glaring",
+          "quote": "Because this spot isn't especially crowded relative to the main attraction, a late-morning arrival right after the cable car opens tends to beat the worst of the group-tour rush."
+        }
+      ]
+    },
+    {
+      "slug": "guangzhou-guangdong-museum",
+      "category": "attraction",
+      "region": "Guangzhou",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Guangzhou Opera House and the Guangzhou Library, they form a cultural cluster"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "Dress comfortably, the galleries span several floors with limited seating."
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "entry registration is typically required"
+        }
+      ]
+    },
+    {
+      "slug": "bengaluru-museum-of-art-photography-map",
+      "category": "attraction",
+      "region": "Bengaluru",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "any weekday afternoon before the after-work crowd"
+        }
+      ]
+    },
+    {
+      "slug": "chengdu-people-s-park",
+      "category": "attraction",
+      "region": "Chengdu",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Payment is simple and cheap"
+        }
+      ]
+    },
+    {
+      "slug": "bengaluru-lalbagh-botanical-garden",
+      "category": "attraction",
+      "region": "Bengaluru",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "It hosts flower shows twice a year, in January and August"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "a bare grey boulder estimated at roughly 3,000 million years old"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "Foot traffic is lightest on weekdays between 7am and 11am"
+        }
+      ]
+    },
+    {
+      "slug": "bengaluru-bengaluru-fort",
+      "category": "attraction",
+      "region": "Bengaluru",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "built under Hyder Ali and expanded by Tipu Sultan"
+        }
+      ]
+    },
+    {
+      "slug": "mong-kok-beans-cafe",
+      "category": "trendy",
+      "region": "Mong Kok",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Avoid weekend early-afternoon prime shopping hours (1pm–8pm) if you want space to breathe"
+        }
+      ]
+    },
+    {
+      "slug": "bengaluru-visvesvaraya-industrial-technological-museum",
+      "category": "attraction",
+      "region": "Bengaluru",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "weekend afternoons from noon to 6pm are the peak crush"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "carry small cash as a backup even though card payment is generally accepted"
+        }
+      ]
+    },
+    {
+      "slug": "bukit-timah-bukit-timah-nature-reserve-visitor-centre",
+      "category": "hidden-gem",
+      "region": "Bukit Timah",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "over 800 plant species"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Give the summit hike at least 90 minutes round trip"
+        }
+      ]
+    },
+    {
+      "slug": "sukhothai-sukhothai-buddha-park",
+      "category": "attraction",
+      "region": "Sukhothai",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "On weekdays, it's calmest between 11am and 3pm."
+        }
+      ]
+    },
+    {
+      "slug": "phong-nha-phong-nha-ke-bang-national-park",
+      "category": "hidden-gem",
+      "region": "Phong Nha",
+      "proseError": "Unexpected non-whitespace character after JSON at position 1"
+    },
+    {
+      "slug": "kumamoto-kato-shrine",
+      "category": "attraction",
+      "region": "Kumamoto",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "a few hundred yen each"
+        }
+      ]
+    },
+    {
+      "slug": "portland-pittock-mansion",
+      "category": "attraction",
+      "region": "Portland",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Crowd data shows weekdays stay quiet all day, from opening at 9am through to close."
+        }
+      ]
+    },
+    {
+      "slug": "jurong-japanese-garden",
+      "category": "hidden-gem",
+      "region": "Jurong",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "aim for a weekday morning or slip in after dinner for a quiet evening walk"
+        }
+      ]
+    },
+    {
+      "slug": "goa-shri-nageshi-temple",
+      "category": "attraction",
+      "region": "Goa",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "quietest between 7am and 9am, right after opening"
+        }
+      ]
+    },
+    {
+      "slug": "goa-naval-aviation-museum",
+      "category": "attraction",
+      "region": "Goa",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "entry fees are modest and typically paid in cash at the ticket counter"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Budget the full 90 minutes"
+        }
+      ]
+    },
+    {
+      "slug": "genoa-porto-antico",
+      "category": "hidden-gem",
+      "region": "Genoa",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "the biggest aquarium in Italy and one of the largest in Europe"
+        }
+      ]
+    },
+    {
+      "slug": "mui-ne-mui-ne-fishing-village",
+      "category": "hidden-gem",
+      "region": "Mui Ne",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "Boats typically return between 5:30am and 7am"
+        }
+      ]
+    },
+    {
+      "slug": "jordan-spicy-salt-hk",
+      "category": "restaurant",
+      "region": "Jordan",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "The measured quiet window is 4pm–9pm on weekends, and the crowd data flags 7pm–11pm as the peak crush"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "7pm to 11pm on weekends is when it fills up"
+        }
+      ]
+    },
+    {
+      "slug": "komodo-pink-beach",
+      "category": "hidden-gem",
+      "region": "Komodo",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "visibility that regularly stretches many meters on calm days"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Spend 45 minutes to an hour and a half here"
+        }
+      ]
+    },
+    {
+      "slug": "wan-chai-kam-s-roast-goose",
+      "category": "restaurant",
+      "region": "Wan Chai",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "the founder trained at Yung Kee before striking out on his own"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "On weekends, the calmest window measured runs from noon through 9pm"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "Weekday lunch (12pm–2pm) and early weekend dinner tend to be the busiest stretches."
+        }
+      ]
+    },
+    {
+      "slug": "causeway-bay-fashion-walk-food-street",
+      "category": "restaurant",
+      "region": "Causeway Bay",
+      "prose": [
+        {
+          "type": "invented-specifics",
+          "quote": "foot traffic drops noticeably from 4pm to 10pm on weekdays"
+        }
+      ]
+    },
+    {
+      "slug": "tiong-bahru-national-gallery-singapore",
+      "category": "attraction",
+      "region": "Civic District",
+      "prose": [
+        {
+          "type": "broken-markdown",
+          "quote": "**Siapa Nama Kamu?**"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "survey of Singapore art from the 1800s onward anchor the old Supreme Court wing"
+        },
+        {
+          "type": "invented-specifics",
+          "quote": "dating to 1929"
+        }
+      ]
+    },
+    {
+      "slug": "cinque-terre-sentiero-monterosso-vernazza",
+      "category": "hidden-gem",
+      "region": "Cinque Terre",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "the crowd thins out noticeably between 4pm and 5pm"
+        },
+        {
+          "type": "other-glaring",
+          "quote": "Weekend mornings before 8am are also relatively calm before the day-trippers arrive."
         }
       ]
     }
