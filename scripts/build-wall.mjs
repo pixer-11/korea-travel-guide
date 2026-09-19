@@ -67,6 +67,18 @@ async function heroUrls() {
 
 async function main() {
   if (!existsSync(OUT_DIR)) await mkdir(OUT_DIR, { recursive: true });
+
+  // SWEEP FIRST, THEN BUILD. The sweep used to run at the end, and a thumb it
+  // deleted in one run could not be rebuilt in that same run: the build treats
+  // an existing file as cached, so when a hero was swapped BACK to a photo
+  // whose thumb had been pruned while it was unused, the build said "cached"
+  // against a file that was about to be — or had already been — removed. The
+  // Tan Teng Niah guide shipped a blank card that way on 2026-09-18 (patrol
+  // swapped its hero at 21:46, this script reported "2 made" at 21:50, and the
+  // thumb it needed was in neither the commit nor the deploy). Sweeping first
+  // means the build always sees the truth: anything missing gets made.
+  await import('./prune-wall-thumbs.mjs');
+
   const urls = await heroUrls();
   console.log(`\n🖼️  Wall pool: ${urls.length} source images\n`);
 
@@ -170,7 +182,7 @@ async function main() {
   // 2026-08-04 — more than half of everything being deployed. Running it here
   // rather than in the seven workflows that call this script stops the two
   // halves of one job from drifting apart.
-  await import('./prune-wall-thumbs.mjs');
+  // (The sweep now runs BEFORE the build — see the top of main().)
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });
