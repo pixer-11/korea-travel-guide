@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: las-vegas-bellagio-conservatory-botanical-gardens
-srcHash: '3268137f7645'
+srcHash: '52face69d2d0'
 title: 'Jardín Botánico y Conservatorio del Bellagio: guía de viaje a Las Vegas'
-description: 'El Jardín Botánico y Conservatorio del Bellagio se encuentra justo al pasar el vestíbulo principal del Bellagio, en el Strip de Las Vegas, y es gratuito y abierto las 24 horas, aunque solo merece la pena verlo de día o al anochecer, cuando los tragaluces y la iluminación hacen su efecto. 4,8★ (41.788 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Jardín Botánico y Conservatorio del Bellagio se encuentra justo al pasar el vestíbulo principal del Bellagio, en el Strip de Las Vegas, y es gratuito y abierto las 24 horas, aunque solo merece la pena verlo de día o al anochecer, cuando los tragaluces y la iluminación hacen su efecto. 4,8★ (41.791 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Jardín Botánico y Conservatorio del Bellagio se encuentra justo al pasar el vestíbulo principal del Bellagio, en el Strip de Las Vegas, y es gratuito y abierto las 24 horas, aunque solo merece la pena verlo de día o al anochecer, cuando los tragaluces y la iluminación hacen su efecto. Conviene ir entre las 7:00 y las 9:00, cualquier día de la semana, para verlo casi vacío; los fines de semana, a partir de las 11:00, el paso se llena y sigue concurrido hasta cerca de las 23:00. Cada instalación de temporada dura entre varias semanas y un par de meses, así que lo que se ve en marzo ya no estará en junio.
 faq:
   - q: ¿Es gratis el Conservatorio del Bellagio?

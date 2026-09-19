@@ -1,44 +1,50 @@
 ---
-title: "Kiyomizu-dera: Kyoto Travel Guide (4.6★)"
-description: "Kiyomizu-dera, the wooden temple on Mount Otowa in Kyoto's Higashiyama Ward, opens daily from 6am to 6pm and rewards an early arrival. 4.6★ (72,492 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Kyoto"
-category: "attraction"
-pubDate: "2026-09-19T07:39:54.618Z"
+title: 'Kiyomizu-dera: Kyoto Travel Guide (4.6★)'
+description: >-
+  Kiyomizu-dera, the wooden temple on Mount Otowa in Kyoto's Higashiyama Ward,
+  opens daily from 6am to 6pm and rewards an early arrival. 4.6★ (72,507
+  reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Kyoto
+category: attraction
+pubDate: '2026-09-19T07:39:54.618Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/3/3c/Kiyomizu.jpg"
-  credit: "Photo: Jordy Meow / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Kiyomizu.jpg"
+  url: 'https://upload.wikimedia.org/wikipedia/commons/3/3c/Kiyomizu.jpg'
+  credit: 'Photo: Jordy Meow / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Kiyomizu.jpg'
   focus:
     x: 55
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Four_ladies_wearing_a_yukata_in_front_of_the_North_Gate_of_Kiyomizu-dera_temple_Kyoto_Japan.jpg/3840px-Four_ladies_wearing_a_yukata_in_front_of_the_North_Gate_of_Kiyomizu-dera_temple_Kyoto_Japan.jpg"
-    credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Four_ladies_wearing_a_yukata_in_front_of_the_North_Gate_of_Kiyomizu-dera_temple_Kyoto_Japan.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Four_ladies_wearing_a_yukata_in_front_of_the_North_Gate_of_Kiyomizu-dera_temple_Kyoto_Japan.jpg/3840px-Four_ladies_wearing_a_yukata_in_front_of_the_North_Gate_of_Kiyomizu-dera_temple_Kyoto_Japan.jpg
+    credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Four_ladies_wearing_a_yukata_in_front_of_the_North_Gate_of_Kiyomizu-dera_temple_Kyoto_Japan.jpg
 place:
-  id: "ChIJB_vchdMIAWARujTEUIZlr2I"
-  name: "Kiyomizu-dera"
-  address: "1-chōme-294 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862, Japan"
+  id: ChIJB_vchdMIAWARujTEUIZlr2I
+  name: Kiyomizu-dera
+  address: '1-chōme-294 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862, Japan'
   rating: 4.6
-  userRatingsTotal: 72492
-  googleMapsUrl: "https://maps.google.com/?cid=7111013964196361402&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 72507
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7111013964196361402&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 34.9946662
   lng: 135.784661
-  phone: "+81 75-551-1234"
+  phone: +81 75-551-1234
   openingHours:
-    - "Monday: 6:00 AM – 6:00 PM"
-    - "Tuesday: 6:00 AM – 6:00 PM"
-    - "Wednesday: 6:00 AM – 6:00 PM"
-    - "Thursday: 6:00 AM – 6:00 PM"
-    - "Friday: 6:00 AM – 6:00 PM"
-    - "Saturday: 6:00 AM – 6:00 PM"
-    - "Sunday: 6:00 AM – 6:00 PM"
+    - 'Monday: 6:00 AM – 6:00 PM'
+    - 'Tuesday: 6:00 AM – 6:00 PM'
+    - 'Wednesday: 6:00 AM – 6:00 PM'
+    - 'Thursday: 6:00 AM – 6:00 PM'
+    - 'Friday: 6:00 AM – 6:00 PM'
+    - 'Saturday: 6:00 AM – 6:00 PM'
+    - 'Sunday: 6:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-09-19
+    updated: 2026-09-19T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -58,24 +64,48 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_4932726c5a495545546a7552415741494d646863765f424a496843"
+    venueId: ven_4932726c5a495545546a7552415741494d646863765f424a496843
 tags:
-  - "kyoto"
-  - "historic site"
-quickAnswer: "Kiyomizu-dera, the wooden temple on Mount Otowa in Kyoto's Higashiyama Ward, opens daily from 6am to 6pm and rewards an early arrival. The quietest window is 7am–9am on both weekdays and weekends; after 10am the approach lanes and main veranda fill fast, staying busy until around 5pm. Budget 90 minutes for the temple grounds and another hour if you're walking up through the Higashiyama lanes."
+  - kyoto
+  - historic site
+quickAnswer: >-
+  Kiyomizu-dera, the wooden temple on Mount Otowa in Kyoto's Higashiyama Ward,
+  opens daily from 6am to 6pm and rewards an early arrival. The quietest window
+  is 7am–9am on both weekdays and weekends; after 10am the approach lanes and
+  main veranda fill fast, staying busy until around 5pm. Budget 90 minutes for
+  the temple grounds and another hour if you're walking up through the
+  Higashiyama lanes.
 faq:
-  - q: "What time should I arrive at Kiyomizu-dera to avoid crowds?"
-    a: "Aim for 7am–9am; that's the quietest window on both weekdays and weekends. The temple opens at 6am daily, and things get busy from 10am through 5pm, especially on weekends."
-  - q: "How do I get to Kiyomizu-dera?"
-    a: "Walk about 20 minutes uphill from Kiyomizu-Gojo Station on the Keihan Line, or take city bus 100 or 206 to the Kiyomizu-michi or Gojo-zaka stop, then walk 10 minutes up Chawan-zaka. There's no direct train station or car park at the temple."
-  - q: "How long should I plan to spend there?"
-    a: "Budget about 90 minutes for the main temple grounds, including the veranda, Otowa Waterfall and Jishu Shrine. Add another hour if you walk up through the Higashiyama lanes and continue on to Sannenzaka and Ninenzaka afterward."
-  - q: "What's the significance of Otowa Waterfall?"
-    a: "Its three streams are said to grant longevity, success in studies, or a good love life. Drink from only one stream using the provided metal cups; taking water from all three is considered greedy."
-  - q: "Is Kiyomizu-dera worth visiting if I only have one day in Kyoto?"
-    a: "Yes, but go right at 6am opening if your schedule allows only one visit. Combine it with a walk down through Sannenzaka and Ninenzaka toward Kodaiji or Gion to make the most of the Higashiyama area in one trip."
+  - q: What time should I arrive at Kiyomizu-dera to avoid crowds?
+    a: >-
+      Aim for 7am–9am; that's the quietest window on both weekdays and weekends.
+      The temple opens at 6am daily, and things get busy from 10am through 5pm,
+      especially on weekends.
+  - q: How do I get to Kiyomizu-dera?
+    a: >-
+      Walk about 20 minutes uphill from Kiyomizu-Gojo Station on the Keihan
+      Line, or take city bus 100 or 206 to the Kiyomizu-michi or Gojo-zaka stop,
+      then walk 10 minutes up Chawan-zaka. There's no direct train station or
+      car park at the temple.
+  - q: How long should I plan to spend there?
+    a: >-
+      Budget about 90 minutes for the main temple grounds, including the
+      veranda, Otowa Waterfall and Jishu Shrine. Add another hour if you walk up
+      through the Higashiyama lanes and continue on to Sannenzaka and Ninenzaka
+      afterward.
+  - q: What's the significance of Otowa Waterfall?
+    a: >-
+      Its three streams are said to grant longevity, success in studies, or a
+      good love life. Drink from only one stream using the provided metal cups;
+      taking water from all three is considered greedy.
+  - q: Is Kiyomizu-dera worth visiting if I only have one day in Kyoto?
+    a: >-
+      Yes, but go right at 6am opening if your schedule allows only one visit.
+      Combine it with a walk down through Sannenzaka and Ninenzaka toward
+      Kodaiji or Gion to make the most of the Higashiyama area in one trip.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-19'
 ---
 
 Kiyomizu-dera sits partway up Mount Otowa, and you feel the climb before you see the temple: the approach runs through Kiyomizu-zaka and Chawan-zaka, two steep, narrow lanes lined with shops selling pottery, pickles and yatsuhashi cinnamon sweets. By the time the Niomon gate appears, red and looming over a flight of stone steps, you've already earned the view.

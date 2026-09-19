@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: chiang-mai-royal-park-rajapruek
-srcHash: 'ad5533d98836'
+srcHash: '2f7e96001668'
 title: 'Royal Park Rajapruek: Guía de Viaje de Chiang Mai (4.6★)'
-description: Royal Park Rajapruek se ubica en Tambon Mae Hia, en el extremo suroeste de Chiang Mai, y abre todos los días de 8:00 a 18:00. Con 4.6★ (8,315 reseñas), esta guía reúne lo que dicen los visitantes, los horarios y consejos prácticos.
+description: Royal Park Rajapruek se ubica en Tambon Mae Hia, en el extremo suroeste de Chiang Mai, y abre todos los días de 8:00 a 18:00. Con 4.6★ (8,317 reseñas), esta guía reúne lo que dicen los visitantes, los horarios y consejos prácticos.
 quickAnswer: Royal Park Rajapruek se encuentra en Tambon Mae Hia, en el extremo suroeste de Chiang Mai, y abre todos los días de 8:00 a 18:00. Se trata de un extenso parque ajardinado construido para una exposición real de horticultura, que hoy reúne jardines temáticos de distintos países, un pabellón real y una capilla conmemorativa. Los fines de semana el parque se mantiene concurrido durante todo el horario de 8:00 a 18:00, así que conviene llegar justo a la apertura si se quiere recorrer los senderos sin aglomeraciones.
 faq:
   - q: ¿Cuánto tiempo debo reservar para visitar Royal Park Rajapruek?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: florence-basilica-of-santa-maria-novella
-srcHash: '2375dcfd3ef5'
+srcHash: 'ebcb4f3df738'
 title: 'Basílica de Santa Maria Novella: guía de viaje de Florencia'
-description: 'La Basílica de Santa Maria Novella ocupa su propia plaza en Florencia, a poca distancia a pie de la estación de tren de Santa Maria Novella, y conviene visitarla justo a la apertura entre semana, entre las 9:00 y las 10:00, antes de que lleguen los grupos turísticos. 4.7★ (32.363 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'La Basílica de Santa Maria Novella ocupa su propia plaza en Florencia, a poca distancia a pie de la estación de tren de Santa Maria Novella, y conviene visitarla justo a la apertura entre semana, entre las 9:00 y las 10:00, antes de que lleguen los grupos turísticos. 4.7★ (32.368 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La Basílica de Santa Maria Novella ocupa su propia plaza en Florencia, a poca distancia a pie de la estación de tren de Santa Maria Novella, y conviene visitarla justo a la apertura entre semana, entre las 9:00 y las 10:00, antes de que lleguen los grupos turísticos. La entrada es de pago e incluye la iglesia, los claustros y el museo; ten en cuenta que los viernes (11:00–17:30) y los domingos (13:00–17:00) el horario es más reducido. Calcula entre 45 y 60 minutos solo para los frescos, y más tiempo si añades el Claustro Verde y la Capilla Española.
 faq:
   - q: ¿Cómo se llega a la Basílica de Santa Maria Novella?

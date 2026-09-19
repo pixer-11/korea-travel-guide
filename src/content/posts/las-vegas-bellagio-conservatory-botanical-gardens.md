@@ -1,45 +1,57 @@
 ---
-title: "Bellagio Conservatory & Botanical Gardens: Las Vegas Travel Guide"
-description: "The Bellagio Conservatory & Botanical Gardens sits just past the front lobby of the Bellagio on the Las Vegas Strip, and it's free and open 24 hours, though the display itself is only worth seeing during daylight or evening hours when the skylights and lighting do their work. 4.8★ (41,788 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Las Vegas"
-category: "attraction"
-pubDate: "2026-09-19T07:44:55.522Z"
+title: 'Bellagio Conservatory & Botanical Gardens: Las Vegas Travel Guide'
+description: >-
+  The Bellagio Conservatory & Botanical Gardens sits just past the front lobby
+  of the Bellagio on the Las Vegas Strip, and it's free and open 24 hours,
+  though the display itself is only worth seeing during daylight or evening
+  hours when the skylights and lighting do their work. 4.8★ (41,791 reviews) —
+  what visitors say, hours, and tips.
+country: United States
+region: Las Vegas
+category: attraction
+pubDate: '2026-09-19T07:44:55.522Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bellagio_Conservatory_and_Botanical_Gardens_-_9.jpg/3840px-Bellagio_Conservatory_and_Botanical_Gardens_-_9.jpg"
-  credit: "Photo: Andrew and Annemarie / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Bellagio_Conservatory_and_Botanical_Gardens_-_9.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bellagio_Conservatory_and_Botanical_Gardens_-_9.jpg/3840px-Bellagio_Conservatory_and_Botanical_Gardens_-_9.jpg
+  credit: 'Photo: Andrew and Annemarie / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Bellagio_Conservatory_and_Botanical_Gardens_-_9.jpg
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Bellagio_Conservatory_%26_Botanical_Gardens_%2814482253185%29.jpg"
-    credit: "Photo: Tomás Del Coro from Las Vegas, Nevada, USA / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Bellagio_Conservatory_%26_Botanical_Gardens_(14482253185).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/e/e0/Bellagio_Conservatory_%26_Botanical_Gardens_%2814482253185%29.jpg
+    credit: >-
+      Photo: Tomás Del Coro from Las Vegas, Nevada, USA / Wikimedia Commons (CC
+      BY-SA 2.0)
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Bellagio_Conservatory_%26_Botanical_Gardens_(14482253185).jpg
 place:
-  id: "ChIJSYKEyTrEyIARJZPSoDxr_MY"
-  name: "Bellagio Conservatory & Botanical Gardens"
-  address: "Bellagio Hotel & Casino, 3600 S Las Vegas Blvd, Las Vegas, NV 89109, USA"
+  id: ChIJSYKEyTrEyIARJZPSoDxr_MY
+  name: Bellagio Conservatory & Botanical Gardens
+  address: 'Bellagio Hotel & Casino, 3600 S Las Vegas Blvd, Las Vegas, NV 89109, USA'
   rating: 4.8
-  userRatingsTotal: 41788
-  googleMapsUrl: "https://maps.google.com/?cid=14338453221781181221&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 41791
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14338453221781181221&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.1119912
   lng: -115.1765648
-  phone: "+1 702-693-7111"
+  phone: +1 702-693-7111
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-09-19
+    updated: 2026-09-19T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -68,24 +80,47 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_594d5f7278446f53505a4a5241497945725479454b59534a496843"
+    venueId: ven_594d5f7278446f53505a4a5241497945725479454b59534a496843
 tags:
-  - "las vegas"
-  - "park"
-quickAnswer: "The Bellagio Conservatory & Botanical Gardens sits just past the front lobby of the Bellagio on the Las Vegas Strip, and it's free and open 24 hours, though the display itself is only worth seeing during daylight or evening hours when the skylights and lighting do their work. Go between 7am and 9am on any day of the week to see it nearly empty; by 11am on weekends the walkway fills up and stays crowded until around 11pm. Each seasonal installation runs several weeks to a couple of months, so what you see in March won't be there in June."
+  - las vegas
+  - park
+quickAnswer: >-
+  The Bellagio Conservatory & Botanical Gardens sits just past the front lobby
+  of the Bellagio on the Las Vegas Strip, and it's free and open 24 hours,
+  though the display itself is only worth seeing during daylight or evening
+  hours when the skylights and lighting do their work. Go between 7am and 9am on
+  any day of the week to see it nearly empty; by 11am on weekends the walkway
+  fills up and stays crowded until around 11pm. Each seasonal installation runs
+  several weeks to a couple of months, so what you see in March won't be there
+  in June.
 faq:
-  - q: "Is the Bellagio Conservatory free?"
-    a: "Yes, there's no admission fee and no ticket required. It's a public walkway inside the Bellagio hotel, open to anyone passing through."
-  - q: "When is the quietest time to visit?"
-    a: "Between 7am and 9am, on both weekdays and weekends, based on measured crowd patterns. After 11am on weekends it gets noticeably busier and stays that way until around 11pm."
-  - q: "How long should I spend there?"
-    a: "Most people walk through in 15 to 20 minutes. Give it closer to 30 minutes if you want to study the seasonal details and any moving elements like the dragon or carousel."
-  - q: "How do I get to the Conservatory from the Strip?"
-    a: "Enter the Bellagio through its main doors on Las Vegas Boulevard and walk straight back through the lobby; the glass-ceilinged Conservatory is just past the front desks."
-  - q: "How often does the display change?"
-    a: "The Conservatory is rebuilt roughly five times a year for Chinese New Year, Spring, Summer, Fall and Winter/Holiday, so the scene you see depends heavily on when you visit."
+  - q: Is the Bellagio Conservatory free?
+    a: >-
+      Yes, there's no admission fee and no ticket required. It's a public
+      walkway inside the Bellagio hotel, open to anyone passing through.
+  - q: When is the quietest time to visit?
+    a: >-
+      Between 7am and 9am, on both weekdays and weekends, based on measured
+      crowd patterns. After 11am on weekends it gets noticeably busier and stays
+      that way until around 11pm.
+  - q: How long should I spend there?
+    a: >-
+      Most people walk through in 15 to 20 minutes. Give it closer to 30 minutes
+      if you want to study the seasonal details and any moving elements like the
+      dragon or carousel.
+  - q: How do I get to the Conservatory from the Strip?
+    a: >-
+      Enter the Bellagio through its main doors on Las Vegas Boulevard and walk
+      straight back through the lobby; the glass-ceilinged Conservatory is just
+      past the front desks.
+  - q: How often does the display change?
+    a: >-
+      The Conservatory is rebuilt roughly five times a year for Chinese New
+      Year, Spring, Summer, Fall and Winter/Holiday, so the scene you see
+      depends heavily on when you visit.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-19'
 ---
 
 You reach it by walking straight through the Bellagio's main lobby, past the reception desks, and the ceiling opens up into glass overhead as the air turns noticeably more humid. There's no ticket booth, no turnstile, just a wide marble walkway that curves through beds of living plants arranged like a stage set that changes four or five times a year.

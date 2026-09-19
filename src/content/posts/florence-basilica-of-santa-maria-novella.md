@@ -1,44 +1,53 @@
 ---
-title: "Basilica of Santa Maria Novella: Florence Travel Guide"
-description: "The Basilica of Santa Maria Novella sits on its own piazza in Florence, a short walk from Santa Maria Novella train station, and is best visited right at opening on a weekday, between 9am and 10am, before tour groups arrive. 4.7★ (32,363 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Florence"
-category: "attraction"
-pubDate: "2026-09-19T07:47:42.147Z"
+title: 'Basilica of Santa Maria Novella: Florence Travel Guide'
+description: >-
+  The Basilica of Santa Maria Novella sits on its own piazza in Florence, a
+  short walk from Santa Maria Novella train station, and is best visited right
+  at opening on a weekday, between 9am and 10am, before tour groups arrive. 4.7★
+  (32,368 reviews) — what visitors say, hours, and tips.
+country: Italy
+region: Florence
+category: attraction
+pubDate: '2026-09-19T07:47:42.147Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Florence%2C_Santa_Maria_Novella%2C_facade.jpg/1920px-Florence%2C_Santa_Maria_Novella%2C_facade.jpg"
-  credit: "Photo: Armin Kleiner / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Florence,_Santa_Maria_Novella,_facade.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Florence%2C_Santa_Maria_Novella%2C_facade.jpg/1920px-Florence%2C_Santa_Maria_Novella%2C_facade.jpg
+  credit: 'Photo: Armin Kleiner / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Florence,_Santa_Maria_Novella,_facade.jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Plaza_de_Santa_Mar%C3%ADa_Novella%2C_Florencia%2C_Italia%2C_2022-09-19%2C_DD_44.jpg/3840px-Plaza_de_Santa_Mar%C3%ADa_Novella%2C_Florencia%2C_Italia%2C_2022-09-19%2C_DD_44.jpg"
-    credit: "Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Plaza_de_Santa_Mar%C3%ADa_Novella,_Florencia,_Italia,_2022-09-19,_DD_44.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Plaza_de_Santa_Mar%C3%ADa_Novella%2C_Florencia%2C_Italia%2C_2022-09-19%2C_DD_44.jpg/3840px-Plaza_de_Santa_Mar%C3%ADa_Novella%2C_Florencia%2C_Italia%2C_2022-09-19%2C_DD_44.jpg
+    credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Plaza_de_Santa_Mar%C3%ADa_Novella,_Florencia,_Italia,_2022-09-19,_DD_44.jpg
 place:
-  id: "ChIJYZMhdalWKhMRsm6GSXl05YU"
-  name: "Basilica of Santa Maria Novella"
-  address: "P.za di Santa Maria Novella, 18, 50123 Firenze FI, Italy"
+  id: ChIJYZMhdalWKhMRsm6GSXl05YU
+  name: Basilica of Santa Maria Novella
+  address: 'P.za di Santa Maria Novella, 18, 50123 Firenze FI, Italy'
   rating: 4.7
-  userRatingsTotal: 32363
-  googleMapsUrl: "https://maps.google.com/?cid=9648245840984567474&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 32368
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9648245840984567474&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.774634600000006
   lng: 11.2493859
-  phone: "+39 055 219257"
+  phone: +39 055 219257
   openingHours:
-    - "Monday: 9:00 AM – 5:30 PM"
-    - "Tuesday: 9:00 AM – 5:30 PM"
-    - "Wednesday: 9:00 AM – 5:30 PM"
-    - "Thursday: 9:00 AM – 5:30 PM"
-    - "Friday: 11:00 AM – 5:30 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 1:00 – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:30 PM'
+    - 'Tuesday: 9:00 AM – 5:30 PM'
+    - 'Wednesday: 9:00 AM – 5:30 PM'
+    - 'Thursday: 9:00 AM – 5:30 PM'
+    - 'Friday: 11:00 AM – 5:30 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 1:00 – 5:00 PM'
   busyness:
-    updated: 2026-09-19
+    updated: 2026-09-19T00:00:00.000Z
     weekdayQuiet:
       - 9
     weekendBusy:
@@ -47,24 +56,47 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_555935306c585347366d73524d684b576c6164684d5a594a496843"
+    venueId: ven_555935306c585347366d73524d684b576c6164684d5a594a496843
 tags:
-  - "florence"
-  - "historic site"
-quickAnswer: "The Basilica of Santa Maria Novella sits on its own piazza in Florence, a short walk from Santa Maria Novella train station, and is best visited right at opening on a weekday, between 9am and 10am, before tour groups arrive. Entry is ticketed and covers the church, cloisters and museum; note the shorter Friday (11am–5:30pm) and Sunday (1pm–5pm) hours. Budget 45–60 minutes for the frescoes alone, longer if you add the Green Cloister and Spanish Chapel."
+  - florence
+  - historic site
+quickAnswer: >-
+  The Basilica of Santa Maria Novella sits on its own piazza in Florence, a
+  short walk from Santa Maria Novella train station, and is best visited right
+  at opening on a weekday, between 9am and 10am, before tour groups arrive.
+  Entry is ticketed and covers the church, cloisters and museum; note the
+  shorter Friday (11am–5:30pm) and Sunday (1pm–5pm) hours. Budget 45–60 minutes
+  for the frescoes alone, longer if you add the Green Cloister and Spanish
+  Chapel.
 faq:
-  - q: "How do I get to the Basilica of Santa Maria Novella?"
-    a: "It's on Piazza di Santa Maria Novella, a two-minute walk from Firenze Santa Maria Novella train station, and easily reached on foot from the Duomo or the Uffizi in about 10-15 minutes."
-  - q: "What is the quietest time to visit?"
-    a: "Weekdays between 9am and 10am, right after opening, is the calmest window. Weekends stay busy from 11am until closing, so avoid midday Saturday if you can."
-  - q: "How long should I spend inside?"
-    a: "Plan on 45-60 minutes for the nave and main frescoes, or up to 90 minutes if you also visit the Green Cloister, Spanish Chapel and museum, which are covered by the same ticket."
-  - q: "Are the opening hours the same every day?"
-    a: "No. Monday to Thursday it's open 9am-5:30pm, Friday it opens later at 11am-5:30pm, Saturday runs 9am-5pm, and Sunday it's open afternoon only, 1pm-5pm."
-  - q: "What's nearby if I have extra time?"
-    a: "The Officina Profumo-Farmaceutica di Santa Maria Novella, a historic pharmacy and perfumery, is just around the corner, and the Mercato Centrale food hall is a short walk northeast."
+  - q: How do I get to the Basilica of Santa Maria Novella?
+    a: >-
+      It's on Piazza di Santa Maria Novella, a two-minute walk from Firenze
+      Santa Maria Novella train station, and easily reached on foot from the
+      Duomo or the Uffizi in about 10-15 minutes.
+  - q: What is the quietest time to visit?
+    a: >-
+      Weekdays between 9am and 10am, right after opening, is the calmest window.
+      Weekends stay busy from 11am until closing, so avoid midday Saturday if
+      you can.
+  - q: How long should I spend inside?
+    a: >-
+      Plan on 45-60 minutes for the nave and main frescoes, or up to 90 minutes
+      if you also visit the Green Cloister, Spanish Chapel and museum, which are
+      covered by the same ticket.
+  - q: Are the opening hours the same every day?
+    a: >-
+      No. Monday to Thursday it's open 9am-5:30pm, Friday it opens later at
+      11am-5:30pm, Saturday runs 9am-5pm, and Sunday it's open afternoon only,
+      1pm-5pm.
+  - q: What's nearby if I have extra time?
+    a: >-
+      The Officina Profumo-Farmaceutica di Santa Maria Novella, a historic
+      pharmacy and perfumery, is just around the corner, and the Mercato
+      Centrale food hall is a short walk northeast.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-19'
 ---
 
 Most visitors arrive at this piazza already tired, dragging suitcases from the train station two minutes away, and almost walk past the church without looking up. That would be a mistake: the marble facade in front of you is one of the clearest lessons in Renaissance geometry in the city, and the paintings inside rival anything in the Uffizi.

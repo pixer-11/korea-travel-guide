@@ -1,22 +1,28 @@
 ---
 title: 'Jeonpo Cafe Street: Busan Travel Guide'
-description: "Jeonpo Cafe Street (전포카페거리) is a dense cluster of design-forward cafes, bakeries, and small bars along Dongcheon-ro in Busanjin District, best reached via Seomyeon Station (Lines 1 and 2) on foot in about 10-15 minutes."
+description: >-
+  Jeonpo Cafe Street (전포카페거리) is a dense cluster of design-forward cafes,
+  bakeries, and small bars along Dongcheon-ro in Busanjin District, best reached
+  via Seomyeon Station (Lines 1 and 2) on foot in about 10-15 minutes.
 region: Busan
 category: trendy
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burimun_gate_and_pine_under_blue_sky_at_Beomeosa_temple_in_Busan%2C_South_Korea.jpg/1920px-Burimun_gate_and_pine_under_blue_sky_at_Beomeosa_temple_in_Busan%2C_South_Korea.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burimun_gate_and_pine_under_blue_sky_at_Beomeosa_temple_in_Busan%2C_South_Korea.jpg/1920px-Burimun_gate_and_pine_under_blue_sky_at_Beomeosa_temple_in_Busan%2C_South_Korea.jpg
   credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Burimun_gate_and_pine_under_blue_sky_at_Beomeosa_temple_in_Busan,_South_Korea.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Burimun_gate_and_pine_under_blue_sky_at_Beomeosa_temple_in_Busan,_South_Korea.jpg
 gallery: []
 place:
   id: ChIJYeuKwGTraDUR-U5PAfT2Uoo
   name: Jeonpo Cafe Street
-  address: 92 Dongcheon-ro, Busanjin District, Busan, South Korea
+  address: '92 Dongcheon-ro, Busanjin District, Busan, South Korea'
   rating: 4.2
-  userRatingsTotal: 2013
-  googleMapsUrl: https://maps.google.com/?cid=9967300453178756857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 2029
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9967300453178756857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 35.155398999999996
   lng: 129.0673266
@@ -54,20 +60,40 @@ place:
 tags:
   - busan
   - Jeonpo cafe street
-quickAnswer: Jeonpo Cafe Street (전포카페거리) is a dense cluster of design-forward cafes, bakeries, and small bars along Dongcheon-ro in Busanjin District, best reached via Seomyeon Station (Lines 1 and 2) on foot in about 10-15 minutes. Plan for a leisurely 2-3 hours in the afternoon or evening, hopping between a few cafes rather than trying to see it all. Weekday afternoons are noticeably calmer than weekend evenings, when the narrow streets fill with young locals.
+quickAnswer: >-
+  Jeonpo Cafe Street (전포카페거리) is a dense cluster of design-forward cafes,
+  bakeries, and small bars along Dongcheon-ro in Busanjin District, best reached
+  via Seomyeon Station (Lines 1 and 2) on foot in about 10-15 minutes. Plan for
+  a leisurely 2-3 hours in the afternoon or evening, hopping between a few cafes
+  rather than trying to see it all. Weekday afternoons are noticeably calmer
+  than weekend evenings, when the narrow streets fill with young locals.
 faq:
   - q: How do I get to Jeonpo Cafe Street by subway?
-    a: Take Line 1 or Line 2 to Seomyeon Station, then walk about 10-15 minutes east into Busanjin District toward Dongcheon-ro. There's no single main entrance, so following a map app from the station is easiest.
+    a: >-
+      Take Line 1 or Line 2 to Seomyeon Station, then walk about 10-15 minutes
+      east into Busanjin District toward Dongcheon-ro. There's no single main
+      entrance, so following a map app from the station is easiest.
   - q: How much time should I plan for a visit?
-    a: Two to three hours is typical for wandering, browsing a few cafes, and stopping for coffee or dessert without rushing.
+    a: >-
+      Two to three hours is typical for wandering, browsing a few cafes, and
+      stopping for coffee or dessert without rushing.
   - q: When is the best time to visit to avoid crowds?
-    a: Weekday afternoons, roughly 2-5 PM, are noticeably quieter than weekend evenings, when the street fills with young locals and lines form outside popular cafes.
+    a: >-
+      Weekday afternoons, roughly 2-5 PM, are noticeably quieter than weekend
+      evenings, when the street fills with young locals and lines form outside
+      popular cafes.
   - q: Is Jeonpo Cafe Street good for a nighttime visit too?
-    a: Yes — after early evening, several cafes give way to small bars and terrace spots, making it a low-key nightlife area popular with Busan's younger crowd.
+    a: >-
+      Yes — after early evening, several cafes give way to small bars and
+      terrace spots, making it a low-key nightlife area popular with Busan's
+      younger crowd.
   - q: What's nearby if I want to combine this with shopping?
-    a: Seomyeon, Busan's major shopping and dining district with Lotte Department Store and underground arcades, is just a short walk from the cafe street.
+    a: >-
+      Seomyeon, Busan's major shopping and dining district with Lotte Department
+      Store and underground arcades, is just a short walk from the cafe street.
 aiGenerated: true
 draft: true
+updatedDate: '2026-09-19'
 ---
 
 ## Why go
