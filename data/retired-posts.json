@@ -15,39 +15,14 @@
   "country": "Indonesia"
  },
  {
-  "slug": "bandung-sudirman-street-day-and-night-market",
-  "region": "Bandung",
-  "country": "Indonesia"
- },
- {
-  "slug": "bangkok-bo-bkk",
-  "region": "Bangkok",
-  "country": "Thailand"
- },
- {
-  "slug": "beijing-mutianyu-great-wall-scenic-area-ticket-office",
-  "region": "Beijing",
-  "country": "China"
- },
- {
   "slug": "bologna-taste-bologna-bologna-food-tour",
   "region": "Bologna",
   "country": "Italy"
  },
  {
-  "slug": "busan-jeonpo-cafe-street",
-  "region": "Busan",
-  "country": "South Korea"
- },
- {
   "slug": "chuncheon-dakgalbi-street",
   "region": "Chuncheon",
   "country": "South Korea"
- },
- {
-  "slug": "da-nang-bep-cuon-a-nang-michelin-selected-2025-2026",
-  "region": "Da Nang",
-  "country": "Vietnam"
  },
  {
   "slug": "daegu-local-restaurant",
@@ -65,29 +40,14 @@
   "country": "United Arab Emirates"
  },
  {
-  "slug": "dubai-joe-s-cafe-dubai",
-  "region": "Dubai",
-  "country": "United Arab Emirates"
- },
- {
   "slug": "dubai-shinobi",
   "region": "Dubai",
   "country": "United Arab Emirates"
  },
  {
-  "slug": "fukuoka-gyukatsu-motomura-fukuoka-parco-branch",
-  "region": "Fukuoka",
-  "country": "Japan"
- },
- {
   "slug": "gapyeong-nami-island-k-drama",
   "region": "Gapyeong",
   "country": "South Korea"
- },
- {
-  "slug": "ha-long-bay-chill-beach-bar-ha-long",
-  "region": "Ha Long Bay",
-  "country": "Vietnam"
  },
  {
   "slug": "ha-long-bay-sun-world-halong-park",
@@ -100,28 +60,8 @@
   "country": "Vietnam"
  },
  {
-  "slug": "hanoi-onvit",
-  "region": "Hanoi",
-  "country": "Vietnam"
- },
- {
-  "slug": "hanoi-run-fun-the-eating-room",
-  "region": "Hanoi",
-  "country": "Vietnam"
- },
- {
-  "slug": "hiroshima-nagataya",
-  "region": "Hiroshima",
-  "country": "Japan"
- },
- {
   "slug": "ho-chi-minh-city-tales-by-chapter",
   "region": "Ho Chi Minh City",
-  "country": "Vietnam"
- },
- {
-  "slug": "hoi-an-bun-cha-ta-hoi-an",
-  "region": "Hoi An",
   "country": "Vietnam"
  },
  {
@@ -135,17 +75,7 @@
   "country": "South Korea"
  },
  {
-  "slug": "jeju-black-pork",
-  "region": "Jeju",
-  "country": "South Korea"
- },
- {
   "slug": "jeju-gozip-dol-wooluck-jeju-airport-branch",
-  "region": "Jeju",
-  "country": "South Korea"
- },
- {
-  "slug": "jeju-jongdal-port-udo-ferry",
   "region": "Jeju",
   "country": "South Korea"
  },
@@ -153,26 +83,6 @@
   "slug": "jeju-nature",
   "region": "Jeju",
   "country": "South Korea"
- },
- {
-  "slug": "jeonju-local-restaurant",
-  "region": "Jeonju",
-  "country": "South Korea"
- },
- {
-  "slug": "krabi-lan-lek-lek",
-  "region": "Krabi",
-  "country": "Thailand"
- },
- {
-  "slug": "kuala-lumpur-sabato-s",
-  "region": "Kuala Lumpur",
-  "country": "Malaysia"
- },
- {
-  "slug": "lombok-kenza-cafe-restaurant-kuta-lombok",
-  "region": "Lombok",
-  "country": "Indonesia"
  },
  {
   "slug": "madrid-club-metropolis",
@@ -195,11 +105,6 @@
   "country": "Philippines"
  },
  {
-  "slug": "marina-bay-ps-cafe-marina-bay-sands",
-  "region": "Marina Bay",
-  "country": "Singapore"
- },
- {
   "slug": "metro-manila-bar-principal",
   "region": "Manila",
   "country": "Philippines"
@@ -220,11 +125,6 @@
   "country": "India"
  },
  {
-  "slug": "mumbai-fielia",
-  "region": "Mumbai",
-  "country": "India"
- },
- {
   "slug": "new-york-city-rolo-s",
   "region": "New York",
   "country": "United States"
@@ -233,11 +133,6 @@
   "slug": "nha-trang-street-food-nha-trang",
   "region": "Nha Trang",
   "country": "Vietnam"
- },
- {
-  "slug": "osaka-oko-fun-okonomiyaki-bar",
-  "region": "Osaka",
-  "country": "Japan"
  },
  {
   "slug": "paris-eskal",
@@ -250,34 +145,9 @@
   "country": "France"
  },
  {
-  "slug": "paris-kubaba",
-  "region": "Paris",
-  "country": "France"
- },
- {
-  "slug": "ras-al-khaimah-habun-restaurant",
-  "region": "Ras Al Khaimah",
-  "country": "United Arab Emirates"
- },
- {
   "slug": "rome-nomos-ante",
   "region": "Rome",
   "country": "Italy"
- },
- {
-  "slug": "sapporo-sapporo-ramen-haruka",
-  "region": "Sapporo",
-  "country": "Japan"
- },
- {
-  "slug": "sentosa-lau-pa-sat",
-  "region": "Sentosa",
-  "country": "Singapore"
- },
- {
-  "slug": "sentosa-the-coach-coffee-shop-resorts-world-sentosa-weave",
-  "region": "Sentosa",
-  "country": "Singapore"
  },
  {
   "slug": "seoul-seoul-art-space-mullae",
@@ -295,32 +165,12 @@
   "country": "China"
  },
  {
-  "slug": "sharjah-arabian-fish-house-restaurant-cafe-al-hirah-beach-sharjah",
-  "region": "Sharjah",
-  "country": "United Arab Emirates"
- },
- {
-  "slug": "sharjah-arabian-tea-house-restaurant-cafe-sharjah",
-  "region": "Sharjah",
-  "country": "United Arab Emirates"
- },
- {
   "slug": "singapore-sabor",
   "region": "Singapore",
   "country": "Singapore"
  },
  {
   "slug": "sokcho-abai-village",
-  "region": "Sokcho",
-  "country": "South Korea"
- },
- {
-  "slug": "sokcho-local-restaurant",
-  "region": "Sokcho",
-  "country": "South Korea"
- },
- {
-  "slug": "sokcho-yeonggeumjeong-sunrise-pavilion",
   "region": "Sokcho",
   "country": "South Korea"
  },
@@ -335,11 +185,6 @@
   "country": "Taiwan"
  },
  {
-  "slug": "washington-dc-national-mall",
-  "region": "Washington DC",
-  "country": "United States"
- },
- {
   "slug": "yeosu-local-restaurant",
   "region": "Yeosu",
   "country": "South Korea"
@@ -348,10 +193,5 @@
   "slug": "yeosu-top-attraction",
   "region": "Yeosu",
   "country": "South Korea"
- },
- {
-  "slug": "yogyakarta-hong-kong-street-foods",
-  "region": "Yogyakarta",
-  "country": "Indonesia"
  }
 ]

@@ -35,44 +35,11 @@ import { join } from 'node:path';
 const DIR = 'src/content/posts';
 const LIST = process.argv.includes('--list');
 
-// Each entry was counted in the corpus before it was added. A phrase nobody
-// writes is not worth a rule, and a phrase people legitimately write is worth
-// leaving alone.
-export const TELLS = {
-  'in the heart of': /\bin the heart of\b/gi,
-  "isn't just…it's": /\b(?:isn't|is not) just\b[^.]{0,60}\bit(?:'s| is)\b/gi,
-  'must-visit/see': /\bmust[- ](?:visit|see|try|do)\b/gi,
-  'whether you…or': /\bwhether you(?:'re| are)?\b[^.]{0,80}\bor\b/gi,
-  iconic: /\biconic\b/gi,
-  'hidden gem': /\bhidden gems?\b/gi,
-  'not just…but': /\bnot just\b[^.]{0,60}\bbut\b/gi,
-  bustling: /\bbustling\b/gi,
-  nestled: /\bnestled\b/gi,
-  unwind: /\bunwind\b/gi,
-  vibrant: /\bvibrant\b/gi,
-  tapestry: /\btapestry\b/gi,
-  'testament to': /\btestament to\b/gi,
-  delve: /\bdelve\b/gi,
-  'a myriad of': /\ba myriad of\b/gi,
-  plethora: /\bplethora\b/gi,
-  breathtaking: /\bbreathtaking\b/gi,
-  'immerse yourself': /\bimmerse yourself\b/gi,
-  'when it comes to': /\bwhen it comes to\b/gi,
-  'in conclusion': /\bin conclusion\b/gi,
-  "it's worth noting": /\bit(?:'s| is) worth noting\b/gi,
-  'rich history/culture': /\brich (?:history|culture|heritage)\b/gi,
-  'foodie paradise': /\b(?:foodie|shopper's|traveller?'s) (?:paradise|haven|dream)\b/gi,
-};
-
-/** Count the tells in one article body. Exported for the test. */
-export function countTells(body) {
-  const found = {};
-  for (const [name, re] of Object.entries(TELLS)) {
-    const n = (body.match(re) || []).length;
-    if (n) found[name] = n;
-  }
-  return found;
-}
+// The list and the counter now live in lib/ai-tells.mjs so the WRITER can use
+// the same ones at birth (2026-09-19). Re-exported here because this file is
+// the one the tests and the weekly audit know by name.
+export { TELLS, countTells } from './lib/ai-tells.mjs';
+import { TELLS, countTells } from './lib/ai-tells.mjs';
 
 const totals = {};
 const perPost = [];

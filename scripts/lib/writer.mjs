@@ -5,6 +5,7 @@
 // The model is forbidden from inventing facts or claiming a personal visit,
 // which keeps 2026 AI-search / E-E-A-T signals working in our favor.
 import Anthropic from '@anthropic-ai/sdk';
+import { firstTell } from './ai-tells.mjs';
 import { reflow } from '../../src/lib/paragraphs.mjs';
 import { FUTURE_PROMISE } from '../../src/lib/ended-event-claims.mjs';
 
@@ -141,6 +142,26 @@ export function timelessRetryMessages(userPrompt, firstMsg, toolUseId, residue) 
   ];
 }
 
+/**
+ * Same conversation shape as timelessRetryMessages, for a machine-sounding
+ * phrase. The prompt has banned these since 2026-09-08 and nine guides
+ * published after that date carried one anyway (five were "whether you're X
+ * or Y"), so the draft is checked and one rewrite is asked for by name.
+ */
+export function tellRetryMessages(userPrompt, firstMsg, toolUseId, tell) {
+  return [
+    { role: 'user', content: userPrompt },
+    { role: 'assistant', content: firstMsg.content },
+    {
+      role: 'user',
+      content: [
+        { type: 'tool_result', tool_use_id: toolUseId, content: 'Draft received. Revision requested below.' },
+        { type: 'text', text: 'Your draft contains "' + tell + '". That phrase is on the banned list because readers have learned to read it as machine-written. Rewrite the sentences that use it so they say the same thing in plain words, change nothing else, and resubmit the whole guide through submit_guide.' },
+      ],
+    },
+  ];
+}
+
 /** First forward-looking phrase in a written guide's fields, or null when clean. */
 export function eventFuturePromise(out) {
   const fields = [out?.quickAnswer, out?.body, ...(Array.isArray(out?.faq) ? out.faq.map((f) => f?.a) : [])];
@@ -215,6 +236,26 @@ ${JSON.stringify(facts, null, 2)}`;
       if (left) console.log('  (event draft still says "' + left + '" after retry - shipping; the validator flags it when the event ends)');
     }
   }
+  // Born-clean gate for machine-sounding phrases, the same shape as the event
+  // one above: one retry naming the exact phrase, then ship with a log line.
+  // Measured 2026-09-19: 9 of the 198 guides carrying a tell were published
+  // AFTER the ban went into the prompt, so the prompt alone does not hold.
+  const tell = firstTell([out?.body, out?.quickAnswer].join(' '));
+  if (tell) {
+    console.log('  (draft uses "' + tell + '" - asking for a plain-words rewrite)');
+    const again = await client.messages.create({
+      model: MODEL, max_tokens: 5000, system: SYSTEM, tools: [TOOL],
+      tool_choice: { type: 'tool', name: 'submit_guide' },
+      messages: tellRetryMessages(userPrompt, msg, toolUse.id, tell),
+    });
+    const second = again.content.find((b) => b.type === 'tool_use');
+    if (second) {
+      out = second.input;
+      const left = firstTell([out?.body, out?.quickAnswer].join(' '));
+      if (left) console.log('  (draft still says "' + left + '" after retry - shipping; the weekly audit counts it)');
+    }
+  }
+
   // The prompt asks for paragraphs under 70 words. Across 792 published guides
   // it was ignored 88% of the time — an instruction about shape is the first
   // thing a model drops when it is also juggling facts, hours and honesty
