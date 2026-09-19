@@ -302,11 +302,7 @@
     "bodyHash": "8606b367d981",
     "rules": "editor-v1-2026-08-17",
     "at": "2026-09-05T20:35:58.612Z",
-    "result": {
-      "category": "event",
-      "region": "Shanghai",
-      "image": "NO HERO"
-    }
+    "result": null
   },
   "shanghai-panyu-lu-organ-rice-noodle-spot": {
     "bodyHash": "352c5a3d25dd",
@@ -330,11 +326,7 @@
     "bodyHash": "682518fa66cc",
     "rules": "editor-v1-2026-08-17",
     "at": "2026-09-05T20:36:00.198Z",
-    "result": {
-      "category": "event",
-      "region": "Tokyo",
-      "image": "NO HERO"
-    }
+    "result": null
   },
   "saint-denis-jay-z-stade-de-france-2026": {
     "bodyHash": "e978c5c5da1c",
@@ -4553,11 +4545,7 @@
     "bodyHash": "fa0309da085b",
     "rules": "editor-v1-2026-08-17",
     "at": "2026-09-12T20:54:48.369Z",
-    "result": {
-      "category": "event",
-      "region": "Hanoi",
-      "image": "Cityscape/bridge photo, unrelated to tech event GITEX"
-    }
+    "result": null
   },
   "istanbul-akbank-jazz-festival": {
     "bodyHash": "71e1479f15df",
@@ -4629,11 +4617,7 @@
     "bodyHash": "3dd9617a291b",
     "rules": "editor-v1-2026-08-17",
     "at": "2026-09-12T20:54:53.135Z",
-    "result": {
-      "category": "event",
-      "region": "Seoul",
-      "image": "Olympic Park sign, unrelated to Grand Mint Festival music event"
-    }
+    "result": null
   },
   "tashkent-restaurant-caravan": {
     "bodyHash": "b79dbccc738b",
@@ -5616,7 +5600,6 @@
     "result": {
       "category": "event",
       "region": "Goyang",
-      "image": "hero is only 636px wide — unusable as a banner",
       "prose": [
         {
           "type": "other-glaring",
@@ -5735,7 +5718,6 @@
     "result": {
       "category": "event",
       "region": "Kyoto",
-      "image": "Tower observation deck unrelated to Jidai Matsuri festival",
       "prose": [
         {
           "type": "other-glaring",
@@ -5754,11 +5736,7 @@
     "bodyHash": "49ee2a98a579",
     "rules": "editor-v1-2026-08-17",
     "at": "2026-09-19T20:58:21.182Z",
-    "result": {
-      "category": "event",
-      "region": "Incheon",
-      "image": "Street scene, unrelated to concert or band"
-    }
+    "result": null
   },
   "manila-5sos-everyone-s-a-star-world-tour": {
     "bodyHash": "5d6ffb5e45ca",
@@ -5770,11 +5748,7 @@
     "bodyHash": "f50fdecc6516",
     "rules": "editor-v1-2026-08-17",
     "at": "2026-09-19T20:58:22.264Z",
-    "result": {
-      "category": "event",
-      "region": "Madrid",
-      "image": "Generic Madrid skyline, not depicting the festival event"
-    }
+    "result": null
   },
   "las-vegas-metallica-life-burns-faster-sphere-las-vegas-residency": {
     "bodyHash": "7002acadd9d0",
@@ -5974,7 +5948,6 @@
     "result": {
       "category": "event",
       "region": "Valencia",
-      "image": "Building architecture, not a marathon race event",
       "prose": [
         {
           "type": "invented-specifics",

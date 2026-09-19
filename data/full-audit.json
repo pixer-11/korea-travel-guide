@@ -343,13 +343,6 @@
       "carriedFrom": "2026-09-12T20:55:33.509Z"
     },
     {
-      "slug": "hanoi-gitex-vietnam",
-      "category": "event",
-      "region": "Hanoi",
-      "image": "Cityscape/bridge photo, unrelated to tech event GITEX",
-      "carriedFrom": "2026-09-12T20:54:48.369Z"
-    },
-    {
       "slug": "hanoi-temple-of-literature",
       "category": "attraction",
       "region": "Hanoi",
@@ -898,13 +891,6 @@
       "carriedFrom": "2026-09-12T20:55:05.306Z"
     },
     {
-      "slug": "seoul-grand-mint-festival-2026",
-      "category": "event",
-      "region": "Seoul",
-      "image": "Olympic Park sign, unrelated to Grand Mint Festival music event",
-      "carriedFrom": "2026-09-12T20:54:53.135Z"
-    },
-    {
       "slug": "sha-tin-sha-tin-che-kung-temple",
       "category": "attraction",
       "region": "Sha Tin",
@@ -915,13 +901,6 @@
         }
       ],
       "carriedFrom": "2026-09-12T20:55:24.280Z"
-    },
-    {
-      "slug": "shanghai-rolex-shanghai-masters",
-      "category": "event",
-      "region": "Shanghai",
-      "image": "NO HERO",
-      "carriedFrom": "2026-09-05T20:35:58.612Z"
     },
     {
       "slug": "siem-reap-banteay-srei-temple",
@@ -1070,13 +1049,6 @@
         }
       ],
       "carriedFrom": "2026-09-12T20:55:02.481Z"
-    },
-    {
-      "slug": "tokyo-ultra-japan-2026",
-      "category": "event",
-      "region": "Tokyo",
-      "image": "NO HERO",
-      "carriedFrom": "2026-09-05T20:36:00.198Z"
     },
     {
       "slug": "washington-dc-smithsonian-national-museum-of-natural-history",
@@ -1572,7 +1544,6 @@
       "slug": "goyang-charlie-puth-seoul-2026",
       "category": "event",
       "region": "Goyang",
-      "image": "hero is only 636px wide — unusable as a banner",
       "prose": [
         {
           "type": "other-glaring",
@@ -1621,25 +1592,12 @@
       "slug": "kyoto-jidai-matsuri",
       "category": "event",
       "region": "Kyoto",
-      "image": "Tower observation deck unrelated to Jidai Matsuri festival",
       "prose": [
         {
           "type": "other-glaring",
           "quote": "step away before the crowd context"
         }
       ]
-    },
-    {
-      "slug": "incheon-my-chemical-romance-seoul-2026",
-      "category": "event",
-      "region": "Incheon",
-      "image": "Street scene, unrelated to concert or band"
-    },
-    {
-      "slug": "madrid-festival-de-otono-madrid-madrid-autumn-festival",
-      "category": "event",
-      "region": "Madrid",
-      "image": "Generic Madrid skyline, not depicting the festival event"
     },
     {
       "slug": "las-vegas-metallica-life-burns-faster-sphere-las-vegas-residency",
@@ -1730,7 +1688,6 @@
       "slug": "valencia-medio-maraton-valencia-trinidad-alfonso-zurich-valencia-half-marathon",
       "category": "event",
       "region": "Valencia",
-      "image": "Building architecture, not a marathon race event",
       "prose": [
         {
           "type": "invented-specifics",

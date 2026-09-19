@@ -11,6 +11,8 @@
 //  Env: ANTHROPIC_API_KEY. LIMIT, CONCURRENCY (default 6), START (slug offset).
 // ─────────────────────────────────────────────────────────────
 import './lib/env.mjs';
+import { heroTierReason } from './lib/event-hero-tier.mjs';
+import regionCovers from '../data/region-covers.json' with { type: 'json' };
 import { crowdClaimSupported } from './lib/crowd-claim.mjs';
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
@@ -144,7 +146,21 @@ async function main() {
     const unchanged = !AUDIT_ALL && prev && prev.bodyHash === bodyHash && prev.rules === RULES;
     if (unchanged) {
       // Guard 2: re-report what the last pass found here.
-      if (prev.result) carried.push({ ...prev.result, carriedFrom: prev.at });
+      if (prev.result) {
+        // An image finding is carried by BODY hash, which says nothing about
+        // the photo: four of this week's nine "photo failed" lines were banked
+        // on 09-05 and 09-12 and kept being re-sent after the daily patrol had
+        // already judged those very heroes CITY-TIER on 09-13 — the third-tier
+        // city photo the owner approved on 2026-09-11. Re-read the store.
+        const carriedRow = { ...prev.result, carriedFrom: prev.at };
+        const heroNow = p.data.heroImage?.url;
+        const v = heroNow ? vision[`${p.slug}\x01${heroNow}`] : null;
+        if (carriedRow.image && v && v.verdict !== 'MISMATCH') {
+          console.log(`    · ${p.slug}: photo since judged ${v.verdict} — dropping the carried finding`);
+          delete carriedRow.image;
+        }
+        if (carriedRow.image || carriedRow.prose || carriedRow.imageError || carriedRow.proseError) carried.push(carriedRow);
+      }
       continue;
     }
     p.bodyHash = bodyHash;
@@ -186,6 +202,14 @@ async function main() {
           // A download or API failure is not an image defect; as imageError it
           // is retried next week instead of banked as a finding (2026-09-02).
           if (!vis.ok && /vision unavailable|no-api-key|vision check failed/i.test(vis.reason || '')) r.imageError = vis.reason.slice(0, 60);
+          else if (!vis.ok && p.data.category === 'event' && heroTierReason(p.data.heroImage.url, p.data, regionCovers)) {
+            // Third tier (owner rule 2026-09-11): an event with no photograph
+            // of its own may wear a verified photo of its host city. The gate
+            // and audit-event-heroes both allow it; this audit used to report
+            // it as a failure, which is how "9 photos failed" arrived in the
+            // owner's Saturday message with nothing for a patrol to do.
+            console.log(`    · ${p.slug}: city photo on an event — third tier, not a failure`);
+          }
           else if (!vis.ok) { r.image = vis.reason; imgBad++; }
         }
       } catch (e) { r.imageError = e.message.slice(0, 60); }
