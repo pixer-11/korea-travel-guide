@@ -1,6 +1,6 @@
 ---
 title: 'Gyukatsu Motomura Fukuoka Parco Branch: Where to Eat'
-description: Gyukatsu Motomura is a breaded, seared beef-cutlet specialist tucked in the basement (B2F) of Fukuoka Parco's new building in Tenjin — a fast, affordable
+description: "Gyukatsu Motomura is a breaded, seared beef-cutlet specialist tucked in the basement (B2F) of Fukuoka Parco's new building in Tenjin — a fast, affordable sit-down meal (price level ¥¥, roughly a lunch-set budget) that consistently pulls near-perfect ratings from almost 15,000 reviewers."
 country: Japan
 region: Fukuoka
 category: restaurant

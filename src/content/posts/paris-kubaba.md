@@ -1,6 +1,6 @@
 ---
 title: Kubaba in Paris
-description: Kubaba is a splashy new Levantine restaurant from Dalia Group's Benjamin Cohen and Julien Casbas, occupying a 360-square-metre former butcher's shop near
+description: "Kubaba is a splashy new Levantine restaurant from Dalia Group's Benjamin Cohen and Julien Casbas, occupying a 360-square-metre former butcher's shop near Place du Marché Saint-Honoré in the 1st arrondissement."
 country: France
 region: Paris
 category: trendy

@@ -1,6 +1,6 @@
 ---
 title: 'Sapporo Ramen Haruka: Where to Eat'
-description: Sapporo Ramen Haruka is a small, highly-rated miso ramen shop tucked into the historic Ramen Yokocho (Ramen Alley) in Minami 5 Jonishi, Chuo Ward — a
+description: "Sapporo Ramen Haruka is a small, highly-rated miso ramen shop tucked into the historic Ramen Yokocho (Ramen Alley) in Minami 5 Jonishi, Chuo Ward — a two-minute walk from Susukino Station."
 country: Japan
 region: Sapporo
 category: restaurant

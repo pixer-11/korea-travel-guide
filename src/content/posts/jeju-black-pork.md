@@ -1,6 +1,6 @@
 ---
 title: Black Pork in Jeju
-description: Jeju black pork (heuk-dwaeji) is best eaten grilled tabletop-style, thick-cut, in the "black pork street" districts of Jeju City (near Jungang
+description: "Jeju black pork (heuk-dwaeji) is best eaten grilled tabletop-style, thick-cut, in the \"black pork street\" districts of Jeju City (near Jungang Rotary/Gwandeokjeong) or in Seogwipo's Jungmun and Seogwi-dong areas."
 region: Jeju
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z

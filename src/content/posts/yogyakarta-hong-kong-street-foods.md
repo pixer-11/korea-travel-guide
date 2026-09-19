@@ -1,6 +1,6 @@
 ---
 title: 'Hong Kong Street Foods: Where to Eat in Yogyakarta'
-description: Hong Kong Street Foods is a Chinese-street-food restaurant on Jl. A.M. Sangaji No.
+description: "Hong Kong Street Foods is a Chinese-street-food restaurant on Jl. A.M."
 country: Indonesia
 region: Yogyakarta
 category: restaurant

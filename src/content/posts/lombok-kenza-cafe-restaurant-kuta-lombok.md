@@ -1,6 +1,6 @@
 ---
 title: 'Kenza Cafe & Restaurant Kuta: Lombok Travel Guide'
-description: Kenza Cafe & Restaurant is a well-known, mid-priced (price level 2) spot on Jl.
+description: "Kenza Cafe & Restaurant is a well-known, mid-priced (price level 2) spot on Jl. Raya Kuta No.5B in Kuta, Lombok Tengah — a short walk or quick scooter ride from Kuta Beach."
 country: Indonesia
 region: Lombok
 category: trendy

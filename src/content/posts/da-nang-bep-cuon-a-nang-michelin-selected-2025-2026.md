@@ -1,6 +1,6 @@
 ---
 title: 'Bếp Cuốn Đà Nẵng: Where to Eat in Da Nang'
-description: Bếp Cuốn Đà Nẵng, a Michelin Selected restaurant for 2025-2026, specializes in Vietnamese \"cuốn\" (fresh rolls and wrap-your-own dishes) at 31-33 Trần Bạch
+description: "Bếp Cuốn Đà Nẵng, a Michelin Selected restaurant for 2025-2026, specializes in Vietnamese \"cuốn\" (fresh rolls and wrap-your-own dishes) at 31-33 Trần Bạch Đằng in the An Hải area on the east bank of the Han River."
 country: Vietnam
 region: Da Nang
 category: restaurant

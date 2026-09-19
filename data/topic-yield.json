@@ -6,12 +6,12 @@
    "hits": 1
   },
   "historic site": {
-   "attempts": 131,
-   "hits": 82
+   "attempts": 139,
+   "hits": 88
   },
   "park": {
-   "attempts": 134,
-   "hits": 82
+   "attempts": 145,
+   "hits": 90
   },
   "viewpoint": {
    "attempts": 63,
@@ -30,11 +30,11 @@
    "hits": 3
   },
   "museum": {
-   "attempts": 117,
-   "hits": 71
+   "attempts": 132,
+   "hits": 73
   },
   "noodles": {
-   "attempts": 43,
+   "attempts": 44,
    "hits": 0
   },
   "old quarter": {
@@ -82,7 +82,7 @@
    "hits": 1
   },
   "concept cafe": {
-   "attempts": 11,
+   "attempts": 12,
    "hits": 0
   },
   "top attraction": {
@@ -178,5 +178,5 @@
    "hits": 0
   }
  },
- "updated": "2026-09-18T13:45:09.200Z"
+ "updated": "2026-09-19T07:50:48.782Z"
 }

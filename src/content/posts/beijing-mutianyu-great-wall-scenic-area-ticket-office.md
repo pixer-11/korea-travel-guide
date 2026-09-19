@@ -1,6 +1,6 @@
 ---
 title: 'Mutianyu Great Wall Scenic Area Ticket Office: Beijing Travel Guide'
-description: The Mutianyu Great Wall Scenic Area Ticket Office, in Huairou District about 70-80km northeast of central Beijing, is where you buy entry tickets and cable
+description: "The Mutianyu Great Wall Scenic Area Ticket Office, in Huairou District about 70-80km northeast of central Beijing, is where you buy entry tickets and cable car/toboggan combo tickets before hiking one of the best-preserved and least crowded major sections of the Great Wall."
 country: China
 region: Beijing
 category: attraction

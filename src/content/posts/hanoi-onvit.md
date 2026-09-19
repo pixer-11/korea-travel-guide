@@ -1,6 +1,6 @@
 ---
 title: ONVIT in Hanoi
-description: ONVIT is a Korean fine-dining restaurant inside the Grand Plaza Hanoi Hotel on Tran Duy Hung street, Cau Giay district, notable as the first Korean
+description: "ONVIT is a Korean fine-dining restaurant inside the Grand Plaza Hanoi Hotel on Tran Duy Hung street, Cau Giay district, notable as the first Korean restaurant in Vietnam to receive a Michelin Star (2026)."
 country: Vietnam
 region: Hanoi
 category: restaurant

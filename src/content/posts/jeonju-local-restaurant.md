@@ -1,6 +1,6 @@
 ---
 title: Local Restaurant in Jeonju
-description: For an authentic local meal in Jeonju, head to the Hanok Village and Nambu Market area, where family-run restaurants serve the city's signature dishes
+description: "For an authentic local meal in Jeonju, head to the Hanok Village and Nambu Market area, where family-run restaurants serve the city's signature dishes — bibimbap, kongnamul gukbap (bean sprout soup), and makgeolli with a spread of free side dishes."
 region: Jeonju
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z

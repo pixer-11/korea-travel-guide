@@ -19760,5 +19760,101 @@
     "verdict": "MATCH",
     "reason": "width upgrade: Plated dish shown in real restaurant setting, not studio shot",
     "at": "2026-09-18T21:49:15.673Z"
+  },
+  "orchard-road-istana-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Istana_Park%2C_2026_02.jpg/1920px-Istana_Park%2C_2026_02.jpg": {
+    "slug": "orchard-road-istana-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows Istana Park entrance sign, gardens, and pathway representatively",
+    "at": "2026-09-19T07:36:48.837Z"
+  },
+  "marina-bay-marina-bay-sands-singapore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Marina_Bay_Sands_and_illuminated_polyhedral_building_Louis_Vuitton_over_the_water_at_blue_hour_with_pink_clouds_in_Singapore.jpg/3840px-Marina_Bay_Sands_and_illuminated_polyhedral_building_Louis_Vuitton_over_the_water_at_blue_hour_with_pink_clouds_in_Singapore.jpg": {
+    "slug": "marina-bay-marina-bay-sands-singapore",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows Marina Bay Sands iconic towers and skyline clearly",
+    "at": "2026-09-19T07:37:27.940Z"
+  },
+  "seoul-deoksugung-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/%EB%8D%95%EC%88%98%EA%B6%81_%EC%A0%84%EA%B2%BD_%282013%29.jpg/1920px-%EB%8D%95%EC%88%98%EA%B6%81_%EC%A0%84%EA%B2%BD_%282013%29.jpg": {
+    "slug": "seoul-deoksugung-palace",
+    "verdict": "MATCH",
+    "reason": "publish gate: Aerial view shows Deoksugung palace grounds with Seoul skyline",
+    "at": "2026-09-19T07:38:01.605Z"
+  },
+  "chiang-mai-royal-park-rajapruek\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ho_Kum_Luang_%28I%29.jpg/1920px-Ho_Kum_Luang_%28I%29.jpg": {
+    "slug": "chiang-mai-royal-park-rajapruek",
+    "verdict": "MATCH",
+    "reason": "publish gate: Royal pavilion at Royal Park Rajapruek, Chiang Mai",
+    "at": "2026-09-19T07:39:07.023Z"
+  },
+  "kyoto-kiyomizu-dera\u0001https://upload.wikimedia.org/wikipedia/commons/3/3c/Kiyomizu.jpg": {
+    "slug": "kyoto-kiyomizu-dera",
+    "verdict": "MATCH",
+    "reason": "publish gate: Iconic exterior view of Kiyomizu-dera temple with visitors",
+    "at": "2026-09-19T07:39:50.629Z"
+  },
+  "xi-an-bell-tower-of-xi-an\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Xi%27an_Bell_Tower_2024.10.jpg/1920px-Xi%27an_Bell_Tower_2024.10.jpg": {
+    "slug": "xi-an-bell-tower-of-xi-an",
+    "verdict": "MATCH",
+    "reason": "publish gate: Clear representative exterior view of Xi'an Bell Tower",
+    "at": "2026-09-19T07:40:26.130Z"
+  },
+  "rome-galleria-borghese\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Galleria_borghese_facade.jpg/3840px-Galleria_borghese_facade.jpg": {
+    "slug": "rome-galleria-borghese",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior view of Galleria Borghese building, representative hero shot",
+    "at": "2026-09-19T07:41:35.632Z"
+  },
+  "kuantan-sungai-lembing-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Sungai_Lembing_1.jpg/3840px-Sungai_Lembing_1.jpg": {
+    "slug": "kuantan-sungai-lembing-museum",
+    "verdict": "MATCH",
+    "reason": "publish gate: Museum sign with building visible, representative hero shot",
+    "at": "2026-09-19T07:42:52.795Z"
+  },
+  "chiayi-chiayi-botanical-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Shanzihding_Botanical_Garden_ecology_pond%2C_Chiayi_City_%28Taiwan%29.jpg/1920px-Shanzihding_Botanical_Garden_ecology_pond%2C_Chiayi_City_%28Taiwan%29.jpg": {
+    "slug": "chiayi-chiayi-botanical-garden",
+    "verdict": "MATCH",
+    "reason": "publish gate: Pond, walkway, and lush trees fit botanical garden",
+    "at": "2026-09-19T07:43:37.847Z"
+  },
+  "las-vegas-bellagio-conservatory-botanical-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bellagio_Conservatory_and_Botanical_Gardens_-_9.jpg/3840px-Bellagio_Conservatory_and_Botanical_Gardens_-_9.jpg": {
+    "slug": "las-vegas-bellagio-conservatory-botanical-gardens",
+    "verdict": "MATCH",
+    "reason": "publish gate: Calla lily floral display plausible for conservatory garden",
+    "at": "2026-09-19T07:44:46.532Z"
+  },
+  "dumaguete-balinsasayao-twin-lakes-natural-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/LakeDanaoNearBais.jpg/1920px-LakeDanaoNearBais.jpg": {
+    "slug": "dumaguete-balinsasayao-twin-lakes-natural-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Lake surrounded by forested mountains matches natural park scenery",
+    "at": "2026-09-19T07:45:45.110Z"
+  },
+  "yokohama-harbor-view-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Harbor_View_Park_%28Yokohama%29_Observation_deck.jpg/3840px-Harbor_View_Park_%28Yokohama%29_Observation_deck.jpg": {
+    "slug": "yokohama-harbor-view-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Plausible park view with bridge, garden, and pergolas",
+    "at": "2026-09-19T07:46:44.263Z"
+  },
+  "florence-basilica-of-santa-maria-novella\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Florence%2C_Santa_Maria_Novella%2C_facade.jpg/1920px-Florence%2C_Santa_Maria_Novella%2C_facade.jpg": {
+    "slug": "florence-basilica-of-santa-maria-novella",
+    "verdict": "MATCH",
+    "reason": "publish gate: Recognizable facade of Santa Maria Novella basilica, Florence",
+    "at": "2026-09-19T07:47:30.157Z"
+  },
+  "hiroshima-hiroshima-botanical-garden\u0001https://upload.wikimedia.org/wikipedia/commons/5/59/Hiroshima_Botanical_Garden.jpg": {
+    "slug": "hiroshima-hiroshima-botanical-garden",
+    "verdict": "MATCH",
+    "reason": "publish gate: Glass conservatory building with garden steps, plausible botanical garden",
+    "at": "2026-09-19T07:48:37.777Z"
+  },
+  "beijing-lama-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/65618-Beijing-Lama-Temple_%2828098480603%29.jpg/1920px-65618-Beijing-Lama-Temple_%2828098480603%29.jpg": {
+    "slug": "beijing-lama-temple",
+    "verdict": "MATCH",
+    "reason": "publish gate: Traditional temple building with visitors, matches Lama Temple",
+    "at": "2026-09-19T07:49:45.595Z"
+  },
+  "marseille-parc-borely\u0001https://upload.wikimedia.org/wikipedia/commons/b/b4/Ch%C3%A2teau_Bor%C3%A9ly.JPG": {
+    "slug": "marseille-parc-borely",
+    "verdict": "MATCH",
+    "reason": "publish gate: Château Borély with gardens and fountain, representative view",
+    "at": "2026-09-19T07:50:48.757Z"
   }
 }

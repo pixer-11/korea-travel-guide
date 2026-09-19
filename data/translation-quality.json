@@ -7112,11 +7112,11 @@
   "at": "2026-08-15T02:59:46.664Z"
  },
  "ja/madrid-national-museum-of-archaeology": {
-  "hash": "af98c4f14831",
+  "hash": "40da1130be42",
   "score": 1,
   "registerBreak": false,
-  "worst": "これは意図的なものです—建物は1860年代に王室コレクションを収蔵するために建てられ、今なお19世紀の「学問の殿堂」らしい...",
-  "at": "2026-08-15T02:59:47.720Z"
+  "worst": "地元の人々はこの博物館を、午前ではなくむしろ夕方に訪れる場所として扱っています。",
+  "at": "2026-09-19T07:57:27.464Z"
  },
  "ja/makassar-pantai-losari": {
   "hash": "77d53557d887",
@@ -29104,5 +29104,82 @@
   "registerBreak": false,
   "worst": "El Born区不缺靠裸砖墙和模糊的\"自然酒\"标签撑场面、却没什么实质内容的酒吧。",
   "at": "2026-09-18T08:06:10.244Z"
+ },
+ "ko/new-delhi-shri-laxmi-narayan-temple-birla-mandir": {
+  "hash": "5e1294ef56f1",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "내부의 조각과 벽화는 힌두 신화와 경전을 소재로 하며, 타일과 석조 세공의 규모는 빠르게 한 바퀴 도는 것보다 천천히 걸을 때 진가가 드러납니다.",
+  "at": "2026-09-19T07:57:30.277Z"
+ },
+ "zh/bordeaux-jardin-public": {
+  "hash": "2ddf261bc4c4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "波尔多在1746年按照法式规整园林的样式建起这座公园，到19世纪50年代又将其改造为英式自然风景园",
+  "at": "2026-09-19T07:57:32.376Z"
+ },
+ "zh/gili-islands-gili-trawangan-sunset-beach": {
+  "hash": "c0e55ec956ad",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "由于这里没有关闭时间，天黑之后也可以再回来走走，届时四周主要靠一串串酒吧灯光照明，而非路灯，因为岛上到了午夜之后，部分区域的供电本就有限。",
+  "at": "2026-09-19T07:57:34.446Z"
+ },
+ "zh/new-delhi-lodhi-garden": {
+  "hash": "b0bf689595ff",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "来的时候穿得适合走路而不是刻意打扮去观光，带上一本书，或者什么都不带，让这个地方本身的节奏，带着你慢慢走。",
+  "at": "2026-09-19T07:57:36.153Z"
+ },
+ "es/beijing-lama-temple": {
+  "hash": "44008b4a6243",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Ese linaje imperial explica las tejas de vidriado amarillo del techo, normalmente reservadas al pa",
+  "at": "2026-09-19T07:57:38.151Z"
+ },
+ "es/chiang-mai-royal-park-rajapruek": {
+  "hash": "cf208bde01eb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "suelen cambiar de vez en cuando",
+  "at": "2026-09-19T07:57:41.186Z"
+ },
+ "es/chiayi-chiayi-botanical-garden": {
+  "hash": "b80f4ddd3119",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El jardín es lo bastante compacto como para recorrerlo en menos de una hora, pero...",
+  "at": "2026-09-19T07:57:46.406Z"
+ },
+ "ja/beijing-lama-temple": {
+  "hash": "94173b186d99",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "雍和宮の線香の香りに満ちた信仰の熱気と、隣接する孔子廟の静かで学術的な中庭との対比は、余分な30分をかけてでも",
+  "at": "2026-09-19T07:57:59.099Z"
+ },
+ "ja/chiang-mai-royal-park-rajapruek": {
+  "hash": "800684de8c2e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "公園はチェンマイ市中心部の南側、チェンマイ大学メーヒアキャンパスの近くに位置しています。",
+  "at": "2026-09-19T07:58:00.546Z"
+ },
+ "ko/beijing-lama-temple": {
+  "hash": "457252e305e7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "향 연기 자욱한 용허궁의 신앙적 분위기와 바로 옆 공자묘의 고요하고 학구적인 마당이 대비를 이루는데",
+  "at": "2026-09-19T07:59:25.522Z"
+ },
+ "ko/chiang-mai-royal-park-rajapruek": {
+  "hash": "22e9c6973d20",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "치앙마이의 무더운 건기(3~5월)에는 정원 구역 사이 그늘 없는 구간이 한낮에 꽤 불편하게 느껴질 수 있습니다.",
+  "at": "2026-09-19T07:58:27.619Z"
  }
 }

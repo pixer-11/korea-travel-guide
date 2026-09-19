@@ -1,6 +1,6 @@
 ---
 title: Fielia in Mumbai
-description: Fielia is an invite-only "Cocktail Cinema" bar designed by Gauri Khan inside a century-old mill building at Mahalaxmi Race Course in Mumbai, and it's
+description: "Fielia is an invite-only \"Cocktail Cinema\" bar designed by Gauri Khan inside a century-old mill building at Mahalaxmi Race Course in Mumbai, and it's currently one of the hardest reservations in the city."
 country: India
 region: Mumbai
 category: trendy

@@ -1,6 +1,6 @@
 ---
 title: 'Nagataya: Where to Eat in Hiroshima'
-description: Nagataya is a long-running okonomiyaki counter-and-teppan restaurant in Otemachi, Naka Ward, a short walk from the Peace Memorial Park — order the classic
+description: "Nagataya is a long-running okonomiyaki counter-and-teppan restaurant in Otemachi, Naka Ward, a short walk from the Peace Memorial Park — order the classic Hiroshima-style \"soba-iri\" okonomiyaki with pork and egg, or ask about the vegan/vegetarian version."
 country: Japan
 region: Hiroshima
 category: restaurant
