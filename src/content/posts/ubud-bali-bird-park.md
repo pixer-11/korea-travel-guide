@@ -15,7 +15,11 @@ heroImage:
     y: 52
     top: 43
     bottom: 60
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/39037031_4sBr-L5QfXQUY-dTrVIY40a92h9mG5TvkJFPeiuUlCs.jpg"
+    credit: "Photo: Foursquare user content (Bali Bird Park)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bb2c83414cfd13af76e15ab"
 place:
   id: "ChIJD0zF-k4-0i0RLDhW9qwgiV8"
   name: "Bali Bird Park"

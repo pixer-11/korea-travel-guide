@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/4081843_K3AV6Zkru0aTPpKo6Ykt5UfEpzmL6w6r9pJAbJLRlr0.jpg"
+    credit: "Photo: Foursquare user content (Palazzo Salimbeni - Monte dei Paschi di Siena)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/50a6175ae4b00084f2530774"
 place:
   id: "ChIJP2MjMbgsKhMRraAEJ52cYBI"
   name: "Palazzo Salimbeni"

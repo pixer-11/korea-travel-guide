@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/502260255_3ODUwEWLQOXrWD4twvR7bE_JelKrkqlBwtEJ5F7ttUM.jpg"
+    credit: "Photo: Foursquare user content (Mrigadayavan Palace (พระราชนิเวศน์มฤคทายวัน))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b9c4b2bf964a520c45c36e3"
 place:
   id: "ChIJl1PqzM8D_TARM2T7rQHienU"
   name: "Mrigadayavan Palace"

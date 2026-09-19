@@ -18,7 +18,11 @@ heroImage:
   focus:
     x: 50
     'y': 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/63799132_bP5zO1GHpsVMynoC6Vv3HdoTJkXj2WDqejIII8egvuk.jpg"
+    credit: "Photo: Foursquare user content (Giardini Margherita)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4baf584df964a52047f93be3"
 place:
   id: ChIJLwKOhMXUf0cRiLrCD6oTfS0
   name: Giardini Margherita

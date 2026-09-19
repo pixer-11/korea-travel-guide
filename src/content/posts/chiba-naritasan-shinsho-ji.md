@@ -5,6 +5,11 @@ country: Japan
 region: Chiba
 category: attraction
 pubDate: '2026-09-16T08:01:14.335Z'
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/e/e7/Naritasan_Shinsh%C5%8D-ji_Temple_%2815254133392%29.jpg"
+    credit: "Photo: Charles Nadeau from San Mateo, CA / Wikimedia Commons (CC BY 2.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Naritasan_Shinsh%C5%8D-ji_Temple_(15254133392).jpg"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/89054255_n5cTOcCZr5x_yjUBHIDJ2eDrVt2NQ1TvTfUt3Okhsbo.jpg
   credit: 'Photo: Foursquare user content (Naritasan Shinshoji Temple (成田山 新勝寺))'

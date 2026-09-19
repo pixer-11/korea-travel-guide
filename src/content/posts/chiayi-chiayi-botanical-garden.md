@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 55
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/4492675_32RouW2yNAmJsWaZ8IGhta3iWROpMILvMuUvU4Kn_TI.jpg"
+    credit: "Photo: Foursquare user content (山子頂植物園 Shanzihding Botanical Garden)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/533e5d11498e0f2084992501"
 place:
   id: "ChIJo3zp5bKVbjQRFj-k43VK2Mg"
   name: "Chiayi Botanical Garden"

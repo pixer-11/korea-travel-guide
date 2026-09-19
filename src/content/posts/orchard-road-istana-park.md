@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 20
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/235502_ALRF0ivimRQMKFkrfuNaJiT5iryfx1mY-2wGp0PR8UI.jpg"
+    credit: "Photo: Foursquare user content (Istana Park)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bd926192e6f0f4724e80908"
 place:
   id: "ChIJGeWzwMUZ2jERUmSzZCF_59M"
   name: "Istana Park"

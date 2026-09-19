@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 45
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ramkhamhaeng_National_Park_Statue.jpg/3840px-Ramkhamhaeng_National_Park_Statue.jpg"
+    credit: "Photo: Douglas Perkins / Wikimedia Commons (CC BY 4.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Ramkhamhaeng_National_Park_Statue.jpg"
 place:
   id: "ChIJQav4DjBf3jAR63iiJz_qKOE"
   name: "Ramkhamhaeng National Park"

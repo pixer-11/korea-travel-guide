@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 65
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/45315891_Lk_F2Fjr7WUG7gFF1cQ-v05Gt0Urm5KljM2KBI3pheY.jpg"
+    credit: "Photo: Foursquare user content (Golden Gate Park)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/445e36bff964a520fb321fe3"
 place:
   id: "ChIJY_dFYHKHhYARMKc772iLvnE"
   name: "Golden Gate Park"

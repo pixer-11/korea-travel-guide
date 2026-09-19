@@ -20,7 +20,11 @@ heroImage:
   focus:
     x: 50
     'y': 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/65619701_s-LfaUXQ8niIJ2g2-OnzWE1Aw_FBA4vIhTUNpKI22D0.jpg"
+    credit: "Photo: Foursquare user content (Candi Badut)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4c1dd9128b3aa59354409b5f"
 place:
   id: ChIJXanRI2eCeC4RUU37IEzz_ZU
   name: Badut Temple

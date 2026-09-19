@@ -18,7 +18,11 @@ heroImage:
   focus:
     x: 50
     'y': 45
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Jiufen_Golden_Waterfall_04.jpg/3840px-Jiufen_Golden_Waterfall_04.jpg"
+    credit: "Photo: Zairon / Wikimedia Commons (CC BY-SA 4.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Jiufen_Golden_Waterfall_04.jpg"
 place:
   id: ChIJV6Smh_xEXTQR8GdS0X6lqds
   name: Golden Waterfall

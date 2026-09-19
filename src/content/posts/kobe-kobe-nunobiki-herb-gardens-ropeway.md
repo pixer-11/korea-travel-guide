@@ -19,7 +19,11 @@ heroImage:
   focus:
     x: 50
     'y': 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/43224847_RB0_GoFD6MlOxW8FweeMt2ObzKKNI16wZXCeUdNK7oc.jpg"
+    credit: "Photo: Foursquare user content (Kobe Nunobiki Ropeway Bottom Station (ハーブ園山麓駅))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4dbf500c4df0f8fd6b846653"
 place:
   id: ChIJWapiVtGOAGARVY9nvX-kXII
   name: Kobe Nunobiki Herb Gardens & Ropeway

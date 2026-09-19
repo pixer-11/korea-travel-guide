@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 55
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1726257_8WdQaMoinGqv4TKDwLkP9dhJnZcs7Qrw0Lb6p9_26ls.jpg"
+    credit: "Photo: Foursquare user content (Sri Senpaga Vinayagar Temple)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bd11f4acaff9521864fd0f0"
 place:
   id: "ChIJb66Ge20Y2jERt_57IWk0X8w"
   name: "Sri Senpaga Vinayagar Temple"

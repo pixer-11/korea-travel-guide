@@ -19,7 +19,11 @@ heroImage:
   focus:
     x: 50
     'y': 45
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bologna_-_Basilica_di_San_Petronio_-_Crocifisso_dell%27Altare_Maggiore_-_HDR_-_GT_04_-_2025-09-27_12-42-25_001.jpg/3840px-Bologna_-_Basilica_di_San_Petronio_-_Crocifisso_dell%27Altare_Maggiore_-_HDR_-_GT_04_-_2025-09-27_12-42-25_001.jpg"
+    credit: "Photo: Terragio67 / Wikimedia Commons (CC BY-SA 4.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Bologna_-_Basilica_di_San_Petronio_-_Crocifisso_dell%27Altare_Maggiore_-_HDR_-_GT_04_-_2025-09-27_12-42-25_001.jpg"
 place:
   id: ChIJt0YDhpXUf0cRpbAGeVhxfaE
   name: Basilica di San Petronio

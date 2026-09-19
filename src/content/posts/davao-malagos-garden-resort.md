@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/76746882_2PAwlxr4AoEJ2f-FePVxDhUqqJFOGWNheZZxURVTxmg.jpg"
+    credit: "Photo: Foursquare user content (Malagos Garden Resort)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4d3795c1d60c6dcb00946fbc"
 place:
   id: "ChIJVVVVVVUR-TIR0EkZ5Mt-GRM"
   name: "Malagos Garden Resort"

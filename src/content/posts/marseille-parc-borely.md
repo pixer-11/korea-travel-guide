@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/42252242_QrIaTQvoiSlLqovs_iLbhba_M20babme7nbdccStaNM.jpg"
+    credit: "Photo: Foursquare user content (Parc Borély)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4ba62366f964a5203f3639e3"
 place:
   id: "ChIJK9u8AWnHyRIR1NMVwyL4ytM"
   name: "Parc Borély"

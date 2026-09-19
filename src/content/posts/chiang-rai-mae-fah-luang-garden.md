@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 55
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/10689845_bZOB-7LI8Rh0gKzKu041QrAGPbGC2atEcoxfY5VzSyY.jpg"
+    credit: "Photo: Foursquare user content (Mae Fah Luang Garden (สวนแม่ฟ้าหลวง))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4baee728f964a520b6e03be3"
 place:
   id: "ChIJ-Yfu4NTw1jARmoTGCwY1TZA"
   name: "Mae Fah Luang Garden สวนแม่ฟ้าหลวง"

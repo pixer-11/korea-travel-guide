@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 25
     y: 30
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/ArtScience_Museum%2C_Marina_Bay_Sands%2C_Singapore.jpg/3840px-ArtScience_Museum%2C_Marina_Bay_Sands%2C_Singapore.jpg"
+    credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:ArtScience_Museum,_Marina_Bay_Sands,_Singapore.jpg"
 place:
   id: "ChIJA5LATO4Z2jER111V-v6abAI"
   name: "Marina Bay Sands Singapore"

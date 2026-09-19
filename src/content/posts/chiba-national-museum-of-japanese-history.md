@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 60
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/48986812_ysb_6pSoipKFhwEf_1XTK_ncwQB752zdJ2JWkpPi4AM.jpg"
+    credit: "Photo: Foursquare user content (National Museum of Japanese History (国立歴史民俗博物館))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bdbd4f663c5c9b6ebcd2968"
 place:
   id: "ChIJdVT5StGIImAR6tuWjvHyExk"
   name: "National Museum of Japanese History"

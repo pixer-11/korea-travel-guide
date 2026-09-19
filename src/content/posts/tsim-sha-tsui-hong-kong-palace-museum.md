@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/11807627_EZyrpZKNTeaTevlSJXlTLs2ON1VnRY9MVU5l4UOUAzQ.jpg"
+    credit: "Photo: Foursquare user content (Hong Kong Palace Museum (香港故宮文化博物館))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/62c297504abc4e04b46c050e"
 place:
   id: "ChIJQyy8SpABBDQRlYdcShfNKQc"
   name: "Hong Kong Palace Museum"

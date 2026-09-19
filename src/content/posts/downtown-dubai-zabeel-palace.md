@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/85142592_FjdmA2LdPV5Pl8YSaskMv2usz94V20Q_b2y89aR77U8.jpg"
+    credit: "Photo: Foursquare user content (Sheikh Mohammed Palace)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4ce21589db125481178145ce"
 place:
   id: "ChIJWQnUnqVCXz4RuFhIAP-PUGE"
   name: "Zabeel Palace"

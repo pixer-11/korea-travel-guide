@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/7936650_Yc2-D2A5QL4GZp8_hy5wv71tW1Qu7ZJOJYLP9HxHmvc.jpg"
+    credit: "Photo: Foursquare user content (Santa Maria della Scala)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4e02f800d4c07481580d551b"
 place:
   id: "ChIJ_ZZssbssKhMRJaOGlf_gbXM"
   name: "Santa Maria della Scala"

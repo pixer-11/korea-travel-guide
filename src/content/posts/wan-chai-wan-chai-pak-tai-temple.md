@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 45
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Wan_Chai_Pak_Tai_Temple_Sam_Po_Temple_in_October_2025.jpg/3840px-Wan_Chai_Pak_Tai_Temple_Sam_Po_Temple_in_October_2025.jpg"
+    credit: "Photo: 姒姓賢寧 / Wikimedia Commons (CC BY 4.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Wan_Chai_Pak_Tai_Temple_Sam_Po_Temple_in_October_2025.jpg"
 place:
   id: "ChIJYbOXaGmqBjQR_V8OjzFJPlk"
   name: "Wan Chai Pak Tai Temple"

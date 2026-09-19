@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/7617_Q7xC6Iexffg5kBrCkcDnb7ox9R2aBY67qLeGMYbdryw.jpg"
+    credit: "Photo: Foursquare user content (Quarry Bay Park (鰂魚涌公園))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4cfb81af7f2db1f735f92dd4"
 place:
   id: "ChIJB1uK0nIBBDQRZL1mrXTvlVQ"
   name: "Quarry Bay Park"

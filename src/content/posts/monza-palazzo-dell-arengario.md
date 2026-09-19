@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Monza_Palazzo_dell%27Arengario_1.jpg/3840px-Monza_Palazzo_dell%27Arengario_1.jpg"
+    credit: "Photo: Zairon / Wikimedia Commons (CC BY-SA 4.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Monza_Palazzo_dell%27Arengario_1.jpg"
 place:
   id: "ChIJD7OuVZ-5hkcROsIgUqUSSjA"
   name: "Palazzo dell'Arengario"

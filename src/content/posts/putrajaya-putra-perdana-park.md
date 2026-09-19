@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/2783455_3Ouu4Mncd1ZL5704QpoFBusdQpArUElAqJHKmB5PvQE.jpg"
+    credit: "Photo: Foursquare user content (Taman Putra Perdana)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b9da596f964a52002b836e3"
 place:
   id: "ChIJAVt0dhu2zTERFjAR_FtXvDk"
   name: "Putra Perdana Park"

@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 49
     y: 35
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/32553675_aHZwSKoJaQvTD9THQIUqPH5xIXTwokI83GEPHtGRhdw.jpg"
+    credit: "Photo: Foursquare user content (Wat Hua Hin (วัดหัวหิน))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4c6549da94160f4742ef2e17"
 place:
   id: "ChIJF5-4f7Kr_TARbHyBM6I7s_g"
   name: "Wat Hua Hin"

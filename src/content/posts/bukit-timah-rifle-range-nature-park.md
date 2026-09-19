@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 45
     y: 55
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Rifle_Range_Nature_Park.jpg/3840px-Rifle_Range_Nature_Park.jpg"
+    credit: "Photo: HongSama112 / Wikimedia Commons (CC BY-SA 4.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Rifle_Range_Nature_Park.jpg"
 place:
   id: "ChIJR9wDuIwQ2jERp5g9l0m9MQ0"
   name: "Rifle Range Nature Park"

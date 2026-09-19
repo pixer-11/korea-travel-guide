@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 45
     y: 55
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/132872865_BQSKUT5EtIW3aeeoxScbyM-hH_paGX0xFv0U_0vipNo.jpg"
+    credit: "Photo: Foursquare user content (Kobe City Museum (神戸市立博物館))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bc7ce96af07a59318fe7f2d"
 place:
   id: "ChIJTcIyavmOAGARAUlKgKzyqPE"
   name: "Kobe City Museum"
