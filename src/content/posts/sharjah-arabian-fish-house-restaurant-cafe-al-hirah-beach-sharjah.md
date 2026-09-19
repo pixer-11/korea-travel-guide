@@ -1,16 +1,18 @@
 ---
 title: 'Arabian Fish House Restaurant & Cafe - Al Hirah Beach: Where to Eat in Sharjah'
-description: "Arabian Fish House on Al Hirah (Al Heera) Beach is a casual, waterfront seafood restaurant known for whole grilled fish sold by weight, priced mid-range (price level 2) and rated an exceptional 4.9 from nearly 8,000 reviews."
+description: Arabian Fish House on Al Hirah (Al Heera) Beach is a casual, waterfront seafood restaurant known for whole grilled fish sold by weight, priced mid-range (price level 2) and rated an exceptional 4.9 from nearly 8,000 reviews.
 country: United Arab Emirates
 region: Sharjah
 category: restaurant
 pubDate: '2026-07-23T07:50:46.922Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sharjah_Al_Khan_-_Sharafeldin_1.jpg/1920px-Sharjah_Al_Khan_-_Sharafeldin_1.jpg
-  credit: 'Photo: Sharaf01 / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Sharjah_Al_Khan_-_Sharafeldin_1.jpg
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/1384270787_l2omdHRK_M-TgyMyJKvW-DH-TbKlrWPuCjhk6-xv6Pg.jpg
+  credit: 'Photo: Foursquare user content (Arabian Fish House)'
+  license: foursquare
+  source: https://foursquare.com/v/63ba5dfc2938e574aadbf869
+  focus:
+    x: 50
+    'y': 80
 place:
   id: ChIJZcbdH-JZXz4RioZKuXpfEKA
   name: Arabian Fish House Restaurant & Cafe - Al Hirah Beach, Sharjah
@@ -47,7 +49,7 @@ place:
       - 21
       - 22
     venueId: ven_414b45667058754b5a6f6952347a585a4a2d486462635a4a496843
-  phone: '+971 6 534 9183'
+  phone: +971 6 534 9183
   openingHours:
     - 'Monday: 6:00 AM – 1:00 AM'
     - 'Tuesday: 6:00 AM – 1:00 AM'
@@ -72,7 +74,6 @@ faq:
   - q: How long should I plan to stay, and what's nearby?
     a: Budget around 60-90 minutes for a full seafood meal. The restaurant's location right on Al Hirah Beach makes it easy to pair with a stroll along the corniche or a longer visit to Sharjah's waterfront and nearby city attractions.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

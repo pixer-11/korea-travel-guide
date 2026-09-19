@@ -1,16 +1,18 @@
 ---
 title: Kubaba in Paris
-description: "Kubaba is a splashy new Levantine restaurant from Dalia Group's Benjamin Cohen and Julien Casbas, occupying a 360-square-metre former butcher's shop near Place du Marché Saint-Honoré in the 1st arrondissement."
+description: Kubaba is a splashy new Levantine restaurant from Dalia Group's Benjamin Cohen and Julien Casbas, occupying a 360-square-metre former butcher's shop near Place du Marché Saint-Honoré in the 1st arrondissement.
 country: France
 region: Paris
 category: trendy
 pubDate: '2026-07-23'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Au_Vieux_Paris_d%27Arcole%2C_1_May_2018.jpg/1920px-Au_Vieux_Paris_d%27Arcole%2C_1_May_2018.jpg
-  credit: 'Photo: Pedro Szekely from Los Angeles, USA / Wikimedia Commons (CC BY-SA 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Au_Vieux_Paris_d%27Arcole,_1_May_2018.jpg
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/340651150__oE0Mn237pUeFfqfFHv1wfpyS_V30Umzf6F1exglkFw.jpg
+  credit: 'Photo: Foursquare user content (Kubaba)'
+  license: foursquare
+  source: https://foursquare.com/v/69be7a72b5277d10b8e3574a
+  focus:
+    x: 50
+    'y': 50
 tags:
   - paris
   - new & trending
@@ -27,7 +29,6 @@ faq:
   - q: What's nearby if I want to make a day of it?
     a: The Louvre, Jardin des Tuileries, and Place Vendôme are all within a 10-15 minute walk, making it easy to combine with sightseeing before dinner.
 aiGenerated: true
-draft: true
 ---
 
 ## Why go

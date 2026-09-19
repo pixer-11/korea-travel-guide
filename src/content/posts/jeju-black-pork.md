@@ -1,15 +1,17 @@
 ---
 title: Black Pork in Jeju
-description: "Jeju black pork (heuk-dwaeji) is best eaten grilled tabletop-style, thick-cut, in the \"black pork street\" districts of Jeju City (near Jungang Rotary/Gwandeokjeong) or in Seogwipo's Jungmun and Seogwi-dong areas."
+description: Jeju black pork (heuk-dwaeji) is best eaten grilled tabletop-style, thick-cut, in the "black pork street" districts of Jeju City (near Jungang Rotary/Gwandeokjeong) or in Seogwipo's Jungmun and Seogwi-dong areas.
 region: Jeju
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://images.unsplash.com/photo-1616798249081-30877e213b16?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8SmVqdSUyMFNvdXRoJTIwS29yZWF8ZW58MHwwfHx8MTc4NDYwODAwNHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max
-  credit: Photo by N Riazi on Unsplash
-  license: unsplash
-  source: https://unsplash.com/@electriclime?utm_source=korea_travel_guide&utm_medium=referral
-gallery: []
+  url: https://fastly.4sqi.net/img/general/original/5931716_nacmrAYzGDLIxpvFJ5equT5MKrp3c4XEok5YdtbHjks.jpg
+  credit: 'Photo: Foursquare user content (Black Pork Street (흑돼지거리))'
+  license: foursquare
+  source: https://foursquare.com/v/4fade192e4b0664ab767126d
+  focus:
+    x: 40
+    'y': 35
 tags:
   - jeju
   - black pork
@@ -26,7 +28,6 @@ faq:
   - q: How can I tell if the pork is genuine Jeju black pork?
     a: Menus should explicitly say 'Jeju heuk-dwaeji' rather than a generic pork label, and many restaurants display a certification sticker or sign referencing the island's black pig grading system.
 aiGenerated: true
-draft: true
 ---
 
 ## Why Jeju Black Pork Is Different
