@@ -29181,5 +29181,26 @@
   "registerBreak": false,
   "worst": "치앙마이의 무더운 건기(3~5월)에는 정원 구역 사이 그늘 없는 구간이 한낮에 꽤 불편하게 느껴질 수 있습니다.",
   "at": "2026-09-19T07:58:27.619Z"
+ },
+ "es/phnom-penh-riverside-walk-street": {
+  "hash": "23edca7fbbb3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Al ser una franja de jardín y no un mercado gastronómico ni una hilera de bares, resulta...",
+  "at": "2026-09-19T13:28:56.448Z"
+ },
+ "ko/phnom-penh-riverside-walk-street": {
+  "hash": "3e6e8eb2e15b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "토요일과 일요일에만 운영된다는 사실 하나만 기억하면, 방문의 성패가 갈립니다.",
+  "at": "2026-09-19T13:29:13.624Z"
+ },
+ "zh/phnom-penh-riverside-walk-street": {
+  "hash": "b147b3659beb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "如果你在某个周二兴冲冲地跑来，期待一场无车漫步，看到的只会是一条普通的滨江公路。",
+  "at": "2026-09-19T13:29:15.968Z"
  }
 }
