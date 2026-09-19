@@ -22,6 +22,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 43.0549506
   lng: 141.3542979
+  phone: '+81 11-551-8700'
+  openingHours:
+    - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM'
+    - 'Saturday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM'
+    - 'Sunday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM'
 tags:
   - sapporo
   - street food

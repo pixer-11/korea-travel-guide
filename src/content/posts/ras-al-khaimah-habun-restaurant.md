@@ -39,6 +39,15 @@ place:
       - 21
       - 22
     venueId: ven_5941487632336567544c5052346a397868705a665253434a496843
+  phone: '+971 52 684 9549'
+  openingHours:
+    - 'Monday: 9:00 AM – 12:00 AM'
+    - 'Tuesday: 9:00 AM – 12:00 AM'
+    - 'Wednesday: 9:00 AM – 12:00 AM'
+    - 'Thursday: 9:00 AM – 12:00 AM'
+    - 'Friday: 9:00 AM – 1:00 AM'
+    - 'Saturday: 9:00 AM – 1:00 AM'
+    - 'Sunday: 9:00 AM – 12:00 AM'
 tags:
   - ras al khaimah
   - local restaurant

@@ -24,8 +24,6 @@ place:
   lng: 132.454485
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 20
     weekdayBusy:
       - 12
       - 13
@@ -34,8 +32,6 @@ place:
       - 16
       - 17
       - 18
-    weekendQuiet:
-      - 20
     weekendBusy:
       - 11
       - 12
@@ -47,6 +43,15 @@ place:
       - 18
       - 19
     venueId: ven_513170695066304264523552556a57693277476a57614f4a496843
+  phone: '+81 82-247-0787'
+  openingHours:
+    - 'Monday: 11:00 AM – 8:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:00 AM – 8:00 PM'
+    - 'Thursday: 11:00 AM – 8:00 PM'
+    - 'Friday: 11:00 AM – 8:00 PM'
+    - 'Saturday: 11:00 AM – 8:00 PM'
+    - 'Sunday: 11:00 AM – 8:00 PM'
 tags:
   - hiroshima
   - street food

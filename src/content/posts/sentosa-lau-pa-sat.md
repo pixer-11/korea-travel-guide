@@ -49,6 +49,15 @@ place:
       - 21
       - 22
     venueId: ven_307636546a49444b304c5952456a325a3051346c3659354a496843
+  phone: '+65 6220 2138'
+  openingHours:
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
   - sentosa
   - street food

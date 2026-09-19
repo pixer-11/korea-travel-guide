@@ -47,6 +47,15 @@ place:
       - 21
       - 22
     venueId: ven_414b45667058754b5a6f6952347a585a4a2d486462635a4a496843
+  phone: '+971 6 534 9183'
+  openingHours:
+    - 'Monday: 6:00 AM – 1:00 AM'
+    - 'Tuesday: 6:00 AM – 1:00 AM'
+    - 'Wednesday: 6:00 AM – 1:00 AM'
+    - 'Thursday: 6:00 AM – 1:00 AM'
+    - 'Friday: 6:00 AM – 1:00 AM'
+    - 'Saturday: 6:00 AM – 1:00 AM'
+    - 'Sunday: 6:00 AM – 1:00 AM'
 tags:
   - sharjah
   - local restaurant

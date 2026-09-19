@@ -23,16 +23,8 @@ place:
   lng: 107.04832239999999
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 10
-      - 11
-      - 12
-      - 13
-      - 14
-    weekendQuiet:
-      - 10
-      - 11
-      - 12
+    weekdayQuiet: [11, 12, 13, 14]
+    weekendQuiet: [11, 12]
     weekendBusy:
       - 15
       - 16
@@ -44,6 +36,15 @@ place:
       - 22
     venueId: ven_5166707748457a6b45656252456a535a4a596b424531544a496843
   priceLevel: 2
+  phone: '+84 946 642 288'
+  openingHours:
+    - 'Monday: 10:30 AM – 11:00 PM'
+    - 'Tuesday: 10:30 AM – 11:00 PM'
+    - 'Wednesday: 10:30 AM – 11:00 PM'
+    - 'Thursday: 10:30 AM – 11:00 PM'
+    - 'Friday: 10:30 AM – 11:00 PM'
+    - 'Saturday: 10:30 AM – 11:00 PM'
+    - 'Sunday: 10:30 AM – 11:00 PM'
 tags:
   - ha long bay
   - local restaurant

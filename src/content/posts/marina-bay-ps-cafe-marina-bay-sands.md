@@ -22,6 +22,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 1.2827307
   lng: 103.8579269
+  phone: '+65 6708 9288'
+  openingHours:
+    - 'Monday: 10:30 AM – 10:00 PM'
+    - 'Tuesday: 10:30 AM – 10:00 PM'
+    - 'Wednesday: 10:30 AM – 10:00 PM'
+    - 'Thursday: 10:30 AM – 10:00 PM'
+    - 'Friday: 10:30 AM – 11:00 PM'
+    - 'Saturday: 10:30 AM – 11:00 PM'
+    - 'Sunday: 10:30 AM – 10:00 PM'
 tags:
   - marina bay
   - trendy cafe

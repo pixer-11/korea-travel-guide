@@ -50,6 +50,15 @@ place:
       - 21
       - 22
     venueId: ven_45753765524c61536f795852347a5862744b70597730374a496843
+  phone: '+971 6 561 2686'
+  openingHours:
+    - 'Monday: 7:00 AM – 11:00 PM'
+    - 'Tuesday: 7:00 AM – 11:00 PM'
+    - 'Wednesday: 7:00 AM – 11:00 PM'
+    - 'Thursday: 7:00 AM – 11:00 PM'
+    - 'Friday: 7:00 AM – 11:00 PM'
+    - 'Saturday: 7:00 AM – 11:00 PM'
+    - 'Sunday: 7:00 AM – 11:00 PM'
 tags:
   - sharjah
   - street food

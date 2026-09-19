@@ -22,6 +22,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 8.0653706
   lng: 98.9161211
+  phone: '+66 81 891 1958'
+  openingHours:
+    - 'Monday: 10:30 AM – 10:00 PM'
+    - 'Tuesday: 10:30 AM – 10:00 PM'
+    - 'Wednesday: 10:30 AM – 10:00 PM'
+    - 'Thursday: 10:30 AM – 10:00 PM'
+    - 'Friday: 10:30 AM – 10:00 PM'
+    - 'Saturday: 10:30 AM – 10:00 PM'
+    - 'Sunday: 10:30 AM – 10:00 PM'
 tags:
   - krabi
   - street food

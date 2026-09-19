@@ -24,22 +24,25 @@ place:
   lng: 108.3385285
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 8
-      - 9
-      - 22
+    weekdayQuiet: [8, 9]
     weekdayBusy:
       - 18
       - 19
-    weekendQuiet:
-      - 8
-      - 9
-      - 22
+    weekendQuiet: [8, 9]
     weekendBusy:
       - 18
       - 19
       - 20
     venueId: ven_414f63367a5a367052796f52456a514e516e42457a36584a496843
+  phone: '+84 962 864 589'
+  openingHours:
+    - 'Monday: 8:00 AM – 10:00 PM'
+    - 'Tuesday: 8:00 AM – 10:00 PM'
+    - 'Wednesday: 8:00 AM – 10:00 PM'
+    - 'Thursday: 8:00 AM – 10:00 PM'
+    - 'Friday: 8:00 AM – 10:00 PM'
+    - 'Saturday: 8:00 AM – 10:00 PM'
+    - 'Sunday: 8:00 AM – 10:00 PM'
 tags:
   - hoi an
   - street food

@@ -23,15 +23,11 @@ place:
   lng: 110.3684557
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 22
     weekdayBusy:
       - 17
       - 18
       - 19
       - 20
-    weekendQuiet:
-      - 22
     weekendBusy:
       - 16
       - 17
@@ -40,6 +36,15 @@ place:
       - 20
       - 21
     venueId: ven_6f307849493336313654675234696566644e747179656c4a496843
+  phone: '+62 897-3469-988'
+  openingHours:
+    - 'Monday: 11:30 AM – 10:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 11:30 AM – 10:00 PM'
+    - 'Thursday: 11:30 AM – 10:00 PM'
+    - 'Friday: 11:30 AM – 10:00 PM'
+    - 'Saturday: 11:30 AM – 10:00 PM'
+    - 'Sunday: 11:30 AM – 10:00 PM'
 tags:
   - yogyakarta
   - street food

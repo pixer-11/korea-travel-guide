@@ -41,6 +41,15 @@ place:
       - 21
       - 22
     venueId: ven_675f48506d527a455a6577523443616d6a514a337454614a496843
+  phone: '+62 811-222-516'
+  openingHours:
+    - 'Monday: 10:00 AM – 11:00 PM'
+    - 'Tuesday: 10:00 AM – 11:00 PM'
+    - 'Wednesday: 10:00 AM – 11:00 PM'
+    - 'Thursday: 10:00 AM – 11:00 PM'
+    - 'Friday: 10:00 AM – 11:00 PM'
+    - 'Saturday: 11:00 AM – 11:30 PM'
+    - 'Sunday: 10:00 AM – 11:00 PM'
 tags:
   - bandung
   - street food

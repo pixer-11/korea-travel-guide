@@ -24,22 +24,24 @@ place:
   lng: 108.2451505
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 10
-      - 11
-      - 15
-      - 21
+    weekdayQuiet: [11, 15]
     weekdayBusy:
       - 18
       - 19
-    weekendQuiet:
-      - 10
-      - 21
     weekendBusy:
       - 13
       - 18
       - 19
     venueId: ven_774e4663764e704854544a52456a5158515f596e67552d4a496843
+  phone: '+84 702 689 989'
+  openingHours:
+    - 'Monday: 10:30 AM – 9:00 PM'
+    - 'Tuesday: 10:30 AM – 9:00 PM'
+    - 'Wednesday: 10:30 AM – 9:00 PM'
+    - 'Thursday: 10:30 AM – 9:00 PM'
+    - 'Friday: 10:30 AM – 9:00 PM'
+    - 'Saturday: 10:30 AM – 9:00 PM'
+    - 'Sunday: 10:30 AM – 9:00 PM'
 tags:
   - da nang
   - local restaurant

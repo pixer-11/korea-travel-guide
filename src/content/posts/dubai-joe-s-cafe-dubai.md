@@ -48,6 +48,15 @@ place:
       - 22
     venueId: ven_6b4d3970614f42637a4a7552347a586f68434d414151414a496843
   priceLevel: 2
+  phone: '+971 4 320 0040'
+  openingHours:
+    - 'Monday: 9:00 AM – 11:30 PM'
+    - 'Tuesday: 9:00 AM – 11:30 PM'
+    - 'Wednesday: 9:00 AM – 11:30 PM'
+    - 'Thursday: 9:00 AM – 11:30 PM'
+    - 'Friday: 9:00 AM – 12:30 AM'
+    - 'Saturday: 9:00 AM – 12:30 AM'
+    - 'Sunday: 9:00 AM – 12:30 AM'
 tags:
   - dubai
   - trendy cafe

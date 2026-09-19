@@ -36,6 +36,15 @@ place:
       - 20
       - 21
     venueId: ven_5557486f41796e34724c555238463238367731705156754a496843
+  phone: '+82 33-639-2365'
+  openingHours:
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
   - sokcho
   - hidden gem

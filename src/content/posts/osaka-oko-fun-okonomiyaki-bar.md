@@ -32,6 +32,15 @@ place:
       - 20
       - 21
     venueId: ven_67765371567043536f5177524147416e3375726836574a4a496843
+  phone: '+81 90-5897-3366'
+  openingHours:
+    - 'Monday: 11:30 AM – 1:30 PM, 6:00 – 11:00 PM'
+    - 'Tuesday: 11:30 AM – 1:30 PM, 6:00 – 11:00 PM'
+    - 'Wednesday: 11:30 AM – 1:30 PM, 6:00 – 11:00 PM'
+    - 'Thursday: 11:30 AM – 1:30 PM, 6:00 – 11:00 PM'
+    - 'Friday: 11:30 AM – 1:30 PM, 6:00 – 11:00 PM'
+    - 'Saturday: 11:30 AM – 1:30 PM, 6:00 – 11:00 PM'
+    - 'Sunday: 11:30 AM – 1:30 PM, 6:00 – 11:00 PM'
 tags:
   - osaka
   - local restaurant

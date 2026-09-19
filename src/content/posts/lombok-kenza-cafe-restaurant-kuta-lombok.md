@@ -41,6 +41,15 @@ place:
       - 20
       - 21
     venueId: ven_676a644173526e35514d595230537a6f7543577749556a4a496843
+  phone: '+62 823-2204-2010'
+  openingHours:
+    - 'Monday: 7:00 AM – 11:00 PM'
+    - 'Tuesday: 7:00 AM – 11:00 PM'
+    - 'Wednesday: 7:00 AM – 11:00 PM'
+    - 'Thursday: 7:00 AM – 11:00 PM'
+    - 'Friday: 7:00 AM – 11:00 PM'
+    - 'Saturday: 7:00 AM – 11:00 PM'
+    - 'Sunday: 7:00 AM – 11:00 PM'
 tags:
   - lombok
   - trendy cafe
