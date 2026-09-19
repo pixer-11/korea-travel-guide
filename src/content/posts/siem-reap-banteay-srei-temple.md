@@ -72,7 +72,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why Banteay Srei stands apart
 
 Most Angkor temples are grey sandstone, weathered and mossy. Banteay Srei is pink.
@@ -105,7 +104,7 @@ Bring a zoom lens or binoculars if you have them. Some of the finest carving sit
 
 Weekends bring the heaviest crowds, with foot traffic peaking between 9am and 4pm on Saturdays and Sundays. Try to avoid that window if you can.
 
-Weekdays are noticeably calmer across the entire opening period, from 7:30am to 5:30pm. There's no single "secret hour" here. The site stays manageable most of a weekday, which takes the pressure off an early alarm.
+Weekdays are noticeably calmer than weekends throughout the day. There's no single "secret hour" here. The site stays manageable most of a weekday, which takes the pressure off an early alarm.
 
 That said, arriving close to opening still gets you softer light on the pink sandstone and fewer tour groups clustered at the main pediments.
 
@@ -126,4 +125,3 @@ The most common mistake is treating Banteay Srei like a quick photo stop. Becaus
 Toilets and a small cluster of drink and snack stalls sit near the parking area, useful given the distance back to town.
 
 There's little shade directly on-site, so bring water and sun protection regardless of season. Cambodia's dry season, roughly November through February, offers the most comfortable temperatures for the longer drive and the walk around the enclosure.
-

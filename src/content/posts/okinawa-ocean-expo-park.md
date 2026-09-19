@@ -56,7 +56,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why Ocean Expo Park anchors a trip to northern Okinawa
 
 You come here for the Churaumi Aquarium, but the park is bigger than that one building. It sprawls across a former 1975 World's Fair site on the Motobu Peninsula, mixing a beach, botanical gardens, and an open-air museum of traditional Okinawan houses into one free-to-enter park.
@@ -73,7 +72,6 @@ Parking is plentiful and free, spread across several numbered lots. Lot targets:
 
 - Lot P7 or P8 for the Churaumi Aquarium entrance
 - Lot P2 for the Tropical Dream Center and gardens
-- Arrive before 9:30am on weekends to avoid circling for a space
 
 ## What to see beyond the aquarium
 
@@ -107,4 +105,3 @@ Don't rush straight to the whale sharks and leave. The mistake most first-timers
 Pack a swimsuit if you're visiting in warmer months; Emerald Beach is free and uncrowded compared to the aquarium queues. Sunscreen and a hat matter more than most visitors expect. There's a lot of open, shadeless walking between the gardens and the museum village.
 
 Lastly, check the aquarium's night-viewing hours if you're around at closing time. The tanks take on a different, calmer character as the crowds thin toward 6pm.
-

@@ -85,10 +85,9 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-06'
 ---
-
 ## Why go
 
-Kep National Park is not a jungle epic. It's a compact ridge of forest rising straight from the Gulf of Thailand. Opened in 1993, it covers the hill behind Kep town, and the whole loop trail can be walked in a couple of hours. What makes it worth the detour is the payoff: gaps in the tree cover open onto sudden views of the coastline, Rabbit Island, and on clear days the hazy outline of Vietnam's Phu Quoc.
+Kep National Park is not a jungle epic. It's a compact ridge of forest rising straight from the Gulf of Thailand. It covers the hill behind Kep town, and the whole loop trail can be walked in a couple of hours. What makes it worth the detour is the payoff: gaps in the tree cover open onto sudden views of the coastline, Rabbit Island, and on clear days the hazy outline of Vietnam's Phu Quoc.
 
 ## Getting there
 
@@ -127,4 +126,3 @@ There's no ticket booth drama and no fixed schedule to plan around here. It's an
 - Combine the walk with Kep's crab market or beach for the rest of the day. The park itself is a half-day stop, not a full-day destination.
 
 The mistake most first-time visitors make is underestimating the heat and skipping water, assuming tree cover means shade the whole way. It doesn't. The viewpoints are deliberately cleared, and that's exactly where the sun hits hardest. Go early, carry more water than feels necessary, and treat the pagoda stop as your natural turnaround point if you're short on time.
-

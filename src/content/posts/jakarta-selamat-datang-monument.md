@@ -46,7 +46,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 You spot it before you even reach street level, a bronze man and woman, arms raised, frozen mid-wave above a ring of spraying fountains. This is the Selamat Datang Monument, and it sits in the middle of Bundaran HI, the roundabout that has anchored Jakarta's skyline since the early 1960s.
 
 ## Why it matters
@@ -55,7 +54,7 @@ Built for the 1962 Asian Games, the monument was Jakarta's first major public sc
 
 ## Getting there
 
-The monument sits at Jl. Kebon Melati 1 No. 5 in Menteng, Central Jakarta, right where Jalan MH Thamrin meets Jalan Kebon Kacang.
+The monument sits in Menteng, Central Jakarta, right where Jalan MH Thamrin meets Jalan Kebon Kacang.
 
 - **MRT**: Bundaran HI Station (the northern terminus of Jakarta's MRT line) puts you steps from the roundabout.
 - **TransJakarta**: Bundaran HI Bus Shelter serves several corridors and connects directly to the pedestrian bridge overlooking the fountain.
@@ -83,7 +82,7 @@ This is one of Jakarta's most-visited landmarks, so treat it as a quick, high-tr
 
 - **Best viewpoint**: the elevated pedestrian bridge near Bundaran HI MRT station gives an unobstructed, elevated view without dodging traffic.
 - **Payment**: there's nothing to buy at the monument itself, save cash or your e-wallet (GoPay, OVO) for street vendors nearby.
-- **Avoid**: weekday rush hour (roughly 7-9am and 5-7pm), when the roundabout is loudest and most congested with traffic.
+- **Avoid**: weekday rush hour, when the roundabout is loudest and most congested with traffic.
 - **Mistake tourists make**: trying to walk right up to the statue. It sits inside a live fountain surrounded by moving traffic, view it from the pavement or bridge instead.
 - **Etiquette**: this is a functioning traffic roundabout and civic space, not a fenced monument park, stay on marked pedestrian areas and crossings.
 

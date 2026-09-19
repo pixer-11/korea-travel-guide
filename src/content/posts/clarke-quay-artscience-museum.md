@@ -146,8 +146,8 @@ Book exhibition tickets online in advance. This is a very popular attraction, an
 
 Arrive right at 10am if you want the galleries closer to empty. The quiet window closes fast once weekend crowds arrive. Weekday mornings between 10am and noon are your best bet for breathing room around the interactive exhibits.
 
-Payment inside is cashless, cards and mobile pay (PayNow, Apple Pay, Google Pay) are standard across Singapore attractions, so don't expect to need cash.
+Payment inside is cashless, cards and mobile pay are standard across Singapore attractions, so don't expect to need cash.
 
 Don't rush Future World. It's designed to be walked through slowly, ideally without a phone glued to your face for the first pass, the projections respond to movement, so hanging back to watch how a room evolves over a minute or two is worth more than a quick photo lap.
 
-Since it's not a locals'-favorite spot so much as a major visitor attraction, treat it like one: go early, book ahead, and save the leisurely wandering for right after opening.
+Since it's a major visitor attraction rather than a locals'-favorite spot, treat it like one: go early, book ahead, and save the leisurely wandering for right after opening.

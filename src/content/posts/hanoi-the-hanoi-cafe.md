@@ -90,7 +90,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-03'
 ---
-
 ## Finding It
 
 The Hanoi Cafe hides on P. Yên Thái, a lane so narrow you'll wonder if your map is wrong. It isn't. Keep walking past the motorbikes wedged against the walls.
@@ -141,4 +140,4 @@ A few practical notes:
 - **Pacing**: treat egg coffee as a slow drink, not something to gulp. It's meant to be eaten with a spoon as much as sipped.
 - **Common mistake**: tourists often stop at the doorway confused by the alley entrance and turn back. Walk in, the lane openings in the Old Quarter almost always lead somewhere.
 
-Give yourself 45 minutes to an hour if you're having a full meal alongside the coffee, less if you're just stopping for the cà phê trứng itself.
+Give yourself enough time to enjoy a full meal alongside the coffee, less if you're just stopping for the cà phê trứng itself.

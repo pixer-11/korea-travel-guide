@@ -114,7 +114,7 @@ The lagoon is open 24 hours, but boats only run during daylight, so timing reall
 
 Weekdays tend to be quieter overall, with fewer boats making the trip out. On weekends, boat traffic picks up as more visitors head out for the day.
 
-If you can, aim for an early morning departure, before the 9am rush and before the sun climbs high enough to flatten the color contrast in the water.
+If you can, aim for an early morning departure, before the late-morning rush and before the sun climbs high enough to flatten the color contrast in the water.
 
 ## How to visit like a local
 

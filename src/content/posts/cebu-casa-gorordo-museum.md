@@ -84,7 +84,6 @@ The museum runs 9am to 5pm Monday through Saturday and is closed all day Sunday,
 Casa Gorordo is well-known on the Cebu heritage circuit, but it doesn't get the crush that hits Fort San Pedro or Basilica del Santo Niño, so you rarely need to fight for space. That said, a few habits make the visit smoother.
 
 - Arrive early on a weekday morning to get a guide's full attention rather than joining a bunched-up group
-- Bring small bills. The ticket booth and gift shop are more comfortable with cash than card
 - Ask your guide questions; most are local heritage enthusiasts and go well beyond the standard script if you engage
 - Wear socks-friendly shoes, some rooms restrict certain footwear to protect original flooring
 - Save time for the café afterward rather than treating it as an afterthought; it's set in the old azotea and is genuinely one of the nicer quiet spots downtown

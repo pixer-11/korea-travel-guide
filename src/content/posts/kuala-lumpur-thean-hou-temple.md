@@ -138,7 +138,7 @@ Budget 20–30 minutes travel time from central KL depending on traffic, and con
 
 The temple opens daily from 8am to 8pm, with no variation across the week according to its posted hours.
 
-Weekday mornings and early afternoons stay comparatively calm right through to 7pm. Weekends are a different story: crowds build fast after 10am and stay heavy until closing at 8pm.
+Weekday mornings and early afternoons stay comparatively calm right through to 7pm. Weekends are a different story: crowds build fast after 10am and remain busy until closing at 8pm.
 
 If you're set on a weekend visit, arrive right at 8am, that first hour before 9am is the one quiet window before the tour groups and family visitors arrive. Sunset is popular for the skyline view, but expect company.
 

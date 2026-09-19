@@ -56,7 +56,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why go
 
 Nukus isn't a city overflowing with polished cafés, which is exactly why Cake "Bumer" stands out. Walk in and you're met with glass cabinets stacked with layered cakes, glossy fruit tarts, and trays of pastries still warm from the oven. It's the kind of place where the smell of butter and sugar hits before you've even reached the counter.
@@ -77,7 +76,7 @@ The interior tends toward bright, modern décor, clean lines, good lighting, the
 
 ## Getting there
 
-The address is Т. Кайыпбергенов 54, in Nukus, Republic of Karakalpakstan. Nukus is compact enough that most central hotels and the main square are a short taxi or walk away.
+The bakery is located in Nukus, Republic of Karakalpakstan. Nukus is compact enough that most central hotels and the main square are a short taxi or walk away.
 
 Taxis and ride-hailing apps are the easiest way to get around Nukus, since street signage can be inconsistent for visitors unfamiliar with Karakalpak or Russian script. Show the driver the address written in Cyrillic if you can.
 

@@ -46,7 +46,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why go
 
 You don't visit Matinloc Shrine for the building itself, you visit for the feeling of finding it.
@@ -76,7 +75,7 @@ Look for:
 - Faded interior murals and the old altar area
 - Panoramic views back toward the boat channel and nearby islands
 
-Most tours pair this stop with nearby spots like Secret Beach or Hidden Beach, so you're rarely spending more than 20-30 minutes here before the boat moves on.
+Most tours pair this stop with nearby spots like Secret Beach or Hidden Beach, so you're rarely spending long here before the boat moves on.
 
 ## When to go
 
@@ -98,4 +97,3 @@ Matinloc Shrine still flies under the radar compared to El Nido's bigger-name st
 - **Respect the space.** It's still a religious site to some Filipino visitors, so keep noise down and don't climb on unstable structural elements.
 
 If your boatman offers extra time to linger, take it. This is one stop on the route where lingering, rather than rushing to the next photo spot, is the whole reward.
-

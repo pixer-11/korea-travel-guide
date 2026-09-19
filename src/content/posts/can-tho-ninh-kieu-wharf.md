@@ -120,7 +120,7 @@ The real draw for most travelers is booking a boat here to see the floating mark
 
 Early morning, around 6-8am, gives you soft light on the water and a fraction of the crowd. The air is cooler too, which matters in Can Tho's humidity.
 
-Weekend evenings are the opposite experience. Foot traffic peaks between 5pm and 11pm on Saturdays and Sundays, when the whole promenade fills with families, food carts, and strolling couples. It's lively, but if you want breathing room, avoid that window.
+Weekend evenings are the opposite experience. Foot traffic peaks in the evening, roughly 6pm to 9pm, on Saturdays and Sundays, when the whole promenade fills with families, food carts, and strolling couples. It's lively, but if you want breathing room, avoid that window.
 
 Because the wharf is open 24 hours every day, there's no wrong time to show up, just a busier and a quieter one.
 

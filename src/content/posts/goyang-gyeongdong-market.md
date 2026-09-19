@@ -92,7 +92,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-02'
 ---
-
 ## Why Gyeongdong Market is worth the trip
 
 Step under the market's corrugated roof and the air changes first, dry, faintly sweet, threaded with the smell of roasted chestnuts and dried mushrooms. This is Korea's largest traditional herbal medicine market, and it smells like it. Sacks of cinnamon bark, ginseng roots, and dried jujubes are stacked shoulder-high along narrow aisles that have barely changed in decades.
@@ -114,8 +113,7 @@ Things to look for:
 - **Ginseng and red ginseng products**, sliced, whole, or bottled as extract
 - **Roasted grains and nuts** sold by the scoop, great for snacking on the walk
 - **Dried anchovies and seaweed** stacked in open crates
-- **A bowl of kalguksu (knife-cut noodle soup)** at one of the market's food stalls
-- **Bindaetteok (mung bean pancakes)** sizzling on flat griddles near the entrances
+- **Street food stalls** offering hot snacks near the market's entrances
 
 Don't expect polished signage or English menus everywhere. Half the fun is pointing at what smells good and asking the price with your fingers if the language barrier gets in the way.
 
@@ -136,4 +134,3 @@ Cash still rules in the herb stalls and food alley, though larger shops increasi
 Don't rush the produce and herb sections just to find the food stalls. Locals shop here for specific ailments and household staples, so vendors expect real questions. Ask what a root or bark is used for and most will happily explain, even through gestures.
 
 The market's biggest tourist mistake is treating it purely as a photo backdrop. Buy something small, try a snack, and treat the vendors as the actual point of the visit. That's what keeps this place running the way it has for generations.
-

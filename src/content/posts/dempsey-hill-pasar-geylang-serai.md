@@ -55,7 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A market that plays by its own rules
 
 This market sits in Geylang Serai, the historic Malay heartland near Paya Lebar, a good twenty-minute drive or MRT ride from the city centre.
@@ -74,7 +73,7 @@ It's rated well by those who do find it, and it stays refreshingly under the rad
 
 Come hungry, because the upstairs food centre is the real draw for most visitors.
 
-- **Nasi padang** stalls with trays of rendang, sambal egg, and beef liver
+- **Nasi padang** stalls with a variety of dishes
 - **Mee rebus** and **soto ayam** for something brothy
 - **Kueh** stalls selling colourful glutinous rice snacks by the piece
 - Fresh **durian** in season from vendors just outside
@@ -91,7 +90,7 @@ If you're coming from Dempsey Hill, factor in the crosstown trip: a taxi or ride
 
 Listed hours show the building itself open 24 hours, but that refers to the structure and some access points, not the stalls.
 
-Realistically, the wet market and most food stalls operate from early morning, around 6am or 7am, through early afternoon. By mid-afternoon many vendors have packed up and the fish counters are hosed down and closed.
+Realistically, the wet market and most food stalls operate from early morning through early afternoon. By mid-afternoon many vendors have packed up and the fish counters are hosed down and closed.
 
 Go on a weekday morning if you want the market at its most functional and least crowded. Weekends, especially during the Ramadan bazaar season when Geylang Serai hosts one of Singapore's largest Hari Raya markets nearby, bring far heavier foot traffic.
 
@@ -102,7 +101,7 @@ Arrive early, by 8am the fishmongers have the best selection and the hawker stal
 Bring small cash. Many stalls, especially the older fabric and spice vendors, still don't take cards, though some hawker counters now accept PayNow or card payments.
 
 - Don't haggle aggressively at the wet market. A polite ask for a small discount is fine, loud bargaining is not the local style here
-- Order food in short, direct phrases ("nasi padang, satu", one nasi padang) rather than over-explaining
+- Order food in short, direct phrases ("one nasi padang") rather than over-explaining
 - Skip the queue stress: if a stall has a long line, it's usually because the food is worth the wait, not because it's a tourist trap
 - Wear shoes you don't mind getting a little wet. The market floor is hosed down regularly
 

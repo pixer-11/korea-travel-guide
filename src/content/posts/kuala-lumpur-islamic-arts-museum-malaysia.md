@@ -93,7 +93,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-08'
 ---
-
 You climb the museum's ramp expecting another marble lobby, and instead the roofline stops you first, a rippling blue-and-turquoise tiled dome overhead, cut by shafts of natural light. That dome, visible from the entrance courtyard, is your first clue this isn't a dusty relics hall. It's one of the best-designed museum spaces in Southeast Asia, and it knows it.
 
 Inside, the collection spans more than a thousand years of Islamic art from Spain to China. You'll walk past intricately carved wooden Quran stands, Ottoman ceramics glazed in cobalt and coral, Mughal jade daggers, and a scale architectural model gallery upstairs showing the world's great mosques in miniature.
@@ -102,7 +101,7 @@ Inside, the collection spans more than a thousand years of Islamic art from Spai
 
 Most visitors underestimate how large it is. There are twelve permanent galleries across two levels, each organized by region or medium, textiles, metalwork, arms and armor, ceramics.
 
-The Ottoman Room alone, with its reconstructed carved wooden ceiling salvaged from a Syrian house, is worth the visit. Natural light pours through skylights in the architecture gallery, catching the gold leaf on manuscript pages in the adjacent Quran gallery.
+The Ottoman Room alone, with its ornately decorated wooden ceiling, is worth the visit. Natural light pours through skylights in the architecture gallery, catching the gold leaf on manuscript pages in the adjacent Quran gallery.
 
 ## Getting there
 

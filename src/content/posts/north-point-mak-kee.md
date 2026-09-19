@@ -94,7 +94,7 @@ Closing time is 9:30pm every night of the week, so this isn't a place for a late
 
 Treat the counter the way regulars do: sit down, order quickly, eat, and free up the seat.
 
-- **Ordering**: point at the menu board or say the dish name ("wonton min" for wonton noodles, "hah tsi min" for shrimp roe noodles) staff are used to quick transactions, not lingering conversation.
+- **Ordering**: point at the menu board or name the dish you want; staff are used to quick transactions, not lingering conversation.
 - **Payment**: cash is the safest bet at a shop this size, though it's worth having a card as backup; don't assume mobile payment apps are guaranteed.
 - **Seating**: there's no reservation system. You wait, you get a stool, you eat. Groups larger than two or three may need to split up or wait longer.
 - **Timing mistake**: tourists often show up right at the Saturday lunch peak, not realizing the shop is busiest from noon onward on weekends. Shifting even an hour earlier avoids most of the wait.

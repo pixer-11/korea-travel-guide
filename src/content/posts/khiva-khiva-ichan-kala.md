@@ -77,7 +77,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-07'
 ---
-
 ## Why Ichan Kala is worth the journey
 
 Khiva sits far out in the Khorazm oasis, closer to the Turkmen border than to Uzbekistan's other Silk Road cities. That distance is exactly why Ichan Kala feels different.
@@ -96,9 +95,9 @@ A single combined ticket usually covers entry to the walled city and most of the
 
 Give yourself unhurried time here. A single lap takes 15-20 minutes, but the sites deserve hours.
 
-- **Kalta Minor Minaret**, the squat, turquoise-tiled tower that was meant to be Central Asia's tallest minaret before construction stopped in 1855
+- **Kalta Minor Minaret**, the squat, turquoise-tiled tower that was meant to be Central Asia's tallest minaret before construction was left unfinished
 - **Kunya-Ark**, the khan's old fortress and residence, with a working sundial in its courtyard
-- **Juma Mosque**, dim and cool inside, held up by 213 carved wooden columns, some dating to the 10th century
+- **Juma Mosque**, dim and cool inside, held up by rows of carved wooden columns, some of them very old
 - **Islom-Xo'ja Minaret**, Khiva's tallest, with a viewing platform reached by a narrow spiral stair
 - **Tosh-Hovli Palace**, a maze of tiled courtyards and reception rooms built for the khan's wives and guests
 
@@ -121,4 +120,3 @@ Ichan Kala is still under-the-radar compared to Samarkand or Bukhara, so treatin
 - Don't rush the smaller museums tucked into former madrasas. They're where you'll dodge the crowds entirely
 
 Most visitors treat Ichan Kala as a half-day stop between train connections. Locals and long-stay travelers know the real reward is staying overnight inside or just outside the walls, so you catch the town lit by lamplight after the day-trippers have gone and the walls glow orange at dawn before anyone else is up.
-

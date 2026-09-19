@@ -30,6 +30,9 @@ heroImage:
     x: 55
     'y': 45
 ---
+Don't expect a big menu or an elaborate food program, % Arabica worldwide keeps things tight: espresso, lattes, minimal seating. The draw here is less about variety and more about the fifteen minutes you spend holding a cup in that courtyard, watching light move across old brick.
+
+Wait, I need to provide the full document.
 
 You smell the neighborhood before you see the cafe: coal-warmed brick, dust off the hutong lanes, the faint incense drift from White Stupa Temple's courtyard a few minutes' walk away. Then you turn a corner and the gray brick gives way to a clean white "%" logo, glass, and pale wood, % Arabica's signature look, dropped almost jarringly into one of Beijing's oldest surviving neighborhoods.
 
@@ -51,7 +54,7 @@ That makes % Arabica less a standalone destination and more one stop on a walk. 
 
 ## What to expect inside
 
-Don't expect a big menu or an elaborate food program, % Arabica worldwide keeps things tight: espresso, lattes, a matcha option at most locations, minimal seating. The draw here is less about variety and more about the fifteen minutes you spend holding a cup in that courtyard, watching light move across old brick.
+Don't expect a big menu or an elaborate food program, % Arabica worldwide keeps things tight: espresso, lattes, minimal seating. The draw here is less about variety and more about the fifteen minutes you spend holding a cup in that courtyard, watching light move across old brick.
 
 Seating is limited, as it tends to be at every % Arabica location. On a clear afternoon the open-air courtyard fills fast with people as interested in the architecture as the coffee.
 

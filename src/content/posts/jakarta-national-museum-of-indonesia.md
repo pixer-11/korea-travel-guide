@@ -144,7 +144,7 @@ The museum is closed every Monday, so don't build that into your Jakarta itinera
 
 Crowds build steadily through the day, with weekends typically busier than weekdays as tour groups and families pack the courtyard.
 
-If you're visiting on a weekend, arrive right at opening. The 8am to 9am window is noticeably quieter. On weekdays, the calmest hour is actually late in the day, between 6pm and 7pm, if you're visiting on a Friday when it stays open into the evening.
+If you're visiting on a weekend, arrive right at opening. The 8am to 9am window is noticeably quieter. On weekdays, aim for late afternoon, closer to closing time, when the crowds have thinned out.
 
 ## How to visit like a local
 

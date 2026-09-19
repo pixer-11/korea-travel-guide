@@ -128,7 +128,7 @@ The museum runs 11am to 8pm most weekdays, and stays open until 8:30pm on Saturd
 
 Crowd patterns are fairly predictable here. Weekday hours overall run quieter throughout, while weekends see a genuine lull only in that first hour after opening, from 11am to noon.
 
-If you're visiting on a Saturday or Sunday, try not to arrive between 2pm and 7pm. That's when the rooms fill up and you'll be queuing for the popular shots.
+If you're visiting on a Saturday or Sunday, try not to arrive between 2pm and 7pm. That's when the rooms fill up and you'll be queuing for the popular spots.
 
 Weekday afternoons remain your safest bet for having a room mostly to yourself between takes.
 

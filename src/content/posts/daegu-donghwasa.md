@@ -100,7 +100,7 @@ If your schedule allows it, a weekday morning is the sweet spot, light traffic o
 
 Donghwasa is a well-known stop on the Daegu temple circuit, not a hidden find, so the way to enjoy it calmly is timing, not secrecy.
 
-- **Avoid weekend afternoons**, 9am to 6pm on Saturdays and Sundays is when the complex is busiest; a weekday visit or early weekend morning avoids the crush.
+- **Avoid weekend afternoons**, Saturday and Sunday afternoons are when the complex is busiest; a weekday visit or early weekend morning avoids the crush.
 - **Dress modestly**, shoulders and knees covered, as this is an active place of worship, not just a sightseeing stop.
 - **Keep your voice low** near the halls, and remove shoes if a sign or attendant indicates it for a particular building.
 - **Bring small cash** for candle or incense offerings, though most visitors simply observe rather than participate.

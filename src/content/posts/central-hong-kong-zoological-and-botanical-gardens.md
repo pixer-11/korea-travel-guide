@@ -78,7 +78,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-30'
 ---
-
 ## Why bother with a zoo you've never heard of
 
 You won't find this place on many "top Hong Kong attractions" lists, and that's exactly its appeal. It's a genuine slice of colonial-era Central, tucked on the slope above Garden Road, doing exactly what it was built to do since 1864: give office workers, dog walkers and elderly tai chi groups a patch of green to breathe in.
@@ -118,7 +117,7 @@ Locals treat this as a cut-through and a breathing space, not a destination to l
 - Enter from the Garden Road side in the morning; it's quieter and shadier than the Albany Road entrance.
 - No ticket, no app, no reservation, just walk in during opening hours.
 - Keep voices down near the aviaries; the birds react to noise, and the regulars notice.
-- Don't feed the animals or the wild birds that wander in. It's discouraged and mildly frowns-upon among the tai chi regulars who consider this their patch.
+- Don't feed the animals or the wild birds that wander in. It's discouraged and frowned upon among the tai chi regulars who consider this their patch.
 - Bring water; there are few vending options once you're inside.
 
 The mistake most first-time visitors make is treating it like a half-day zoo trip. It's small. You can walk both halves in under an hour, so slot it between Central sightseeing rather than building a morning around it.

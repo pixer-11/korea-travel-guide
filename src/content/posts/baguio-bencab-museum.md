@@ -78,7 +78,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-28'
 ---
-
 The museum announces itself before you even reach the entrance. Coming up Asin Road, the pine-covered hills fall away into a deep valley on your left, and the building itself (low, dark-timbered, half-buried into the slope) appears almost camouflaged against the ridge.
 
 This is the museum of Benedicto "BenCab" Cabrera, one of the most significant painters the Philippines has produced. He built it not just to house his own work but to give the Cordillera region's art and material culture a permanent home.
@@ -117,7 +116,7 @@ Weekday mornings, shortly after opening, tend to be calmest before school groups
 BenCab Museum is well-known on the Baguio circuit, so it draws steady crowds rather than being any kind of secret find. Plan around that rather than expecting solitude.
 
 - **Arrive early on a weekday.** Mornings right after the 9am opening are quietest, especially midweek.
-- **Pay at the entrance counter.** Cash is the safest bet; card acceptance at rural Philippine attractions can be inconsistent, so don't rely on it.
+- **Bring cash.** Card acceptance at rural Philippine attractions can be inconsistent, so don't rely on it.
 - **Don't rush the outdoor eco-trail.** Tourists often stick to the indoor galleries and miss the pond and valley-view paths. That's half the site.
 - **Photography etiquette:** most galleries allow personal photos without flash, but check posted signs in each room, as rules can vary by exhibit.
 - **Wear a light jacket.** Even midday, Tuba's elevation keeps the museum's outdoor spaces breezy and noticeably cooler than lowland Philippines.

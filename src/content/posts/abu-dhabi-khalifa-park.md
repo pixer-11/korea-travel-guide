@@ -71,7 +71,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-23'
 ---
-
 ## Why go
 
 Khalifa Park is Abu Dhabi's answer to a proper city park, not a patch of grass with a bench, but a genuinely designed landscape with water features, palm-lined walkways, and enough shade structures to make a midday walk bearable.
@@ -100,7 +99,7 @@ None of these will fill a whole day on their own, but together they make the par
 
 The park runs 10am to 10pm Monday, Tuesday, Wednesday and Sunday, and stretches to 11pm Thursday through Saturday. Given Abu Dhabi's climate, evenings are the natural time to visit almost any time of year, the museum and library work fine at any hour they're open, but the grounds themselves are far more pleasant after the sun drops.
 
-Measured foot-traffic shows the calmest stretch on weekdays is 10pm to 11pm, right near closing. On weekends, the quieter window runs from 10am to 11am, early, before families arrive for evening barbecues. If you're weekend-only, that late-morning slot is your best bet for space to yourself.
+Measured foot-traffic shows the calmest stretch on weekdays is 10pm to 11pm, right near closing. On weekends, the quieter window falls in the first hour after opening, before families arrive for evening barbecues. If you're weekend-only, that early slot is your best bet for space to yourself.
 
 ## How to visit like a local
 
@@ -114,4 +113,3 @@ This is a well-visited park, not a hidden corner of the city, so plan around the
 - **Don't rush the museum**: it's small enough that groups tend to breeze through it, but the pearl-diving exhibits reward a slower pace
 
 The most common visitor mistake is treating this as a quick 20-minute stop. The park rewards a slower visit, grab a bench near the fountains, let the kids do a train loop, and treat the museum as a bonus rather than the main event.
-

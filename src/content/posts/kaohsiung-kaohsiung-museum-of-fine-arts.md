@@ -88,7 +88,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-06'
 ---
-
 ## Why go
 
 You come to Kaohsiung Museum of Fine Arts for more than the galleries. The building sits inside a 41-hectare park of lakes, lawns and shade trees, so the art experience spills outside the walls before you even step in.
@@ -99,7 +98,7 @@ Inside, the collection leans into Taiwanese and broader Asian contemporary work:
 
 The museum sits in Gushan District, northwest of downtown Kaohsiung, a bit removed from the MRT network. Most visitors arrive by taxi, scooter, or city bus, since the nearest MRT stations (Aozihdi or Kaisyuan on the Red Line) are still a fair walk or short bus ride away.
 
-If you're driving or riding a YouBike, the park has multiple entrances and bike paths threading through it, plugging "高雄市立美術館" (Kaohsiung Museum of Fine Arts) into a map app or taxi driver's GPS is the simplest way in.
+If you're driving or riding a YouBike, the park has multiple entrances and bike paths threading through it, plugging "Kaohsiung Museum of Fine Arts" into a map app or taxi driver's GPS is the simplest way in.
 
 ## What to see
 

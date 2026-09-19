@@ -65,7 +65,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why go
 
 You come here for one wall. The rest of the museum is prelude.
@@ -107,7 +106,6 @@ Because it's under-the-radar compared to Samarkand's headline sites, even a mode
 Treat this as a 45-minute stop, not a half-day museum crawl. The collection is small and focused, and lingering past that mostly means re-reading the same captions.
 
 - Arrive right at 9am on a weekday for the emptiest fresco room.
-- Pay in cash (Uzbek som); card readers are unreliable this far from the tourist core.
 - Head upstairs first if you only have limited time. The fresco is the reason to come, and it's easy to run out of energy for it after the ground floor.
 - Ask at the desk about English-language placards; captions vary in detail, and a guide or app can fill gaps on the coin and ceramic cases.
 - Walk the mound itself afterward, even briefly. It's free, unmarked in most itineraries, and gives you the scale of the vanished city the museum only sketches indoors.

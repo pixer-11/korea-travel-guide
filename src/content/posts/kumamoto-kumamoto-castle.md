@@ -94,7 +94,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-08'
 ---
-
 ## Why Kumamoto Castle still stops people in their tracks
 
 The first view hits you from the moat road below: black-and-white walls stacked on a stone base that curves outward like a wave frozen mid-break. Locals call that curve *musha-gaeshi*, "warrior repeller", because the overhang made the walls nearly impossible to scale. Even now, with scaffolding gone from the 2016 earthquake repairs, the main keep looks less built than grown out of the hill.
@@ -121,7 +120,7 @@ Outside, follow the elevated walkway that was built as part of the earthquake re
 
 ## When to go
 
-Weekday mornings and afternoons are consistently calmer. The quietest window measured is any time during the 9am–5pm weekday stretch. Weekends compress visitors into the middle of the day, with the busiest stretch running 10am to 4pm.
+Weekday mornings and afternoons are consistently calmer. The castle's hours run 9am–5pm every day, and weekdays stay quiet throughout that window. Weekends compress visitors into the middle of the day, with the busiest stretch running 10am to 4pm.
 
 If you're set on a weekend trip, arrive right at opening or in the last hour before closing to dodge the thickest crowds. Cherry blossom season, late March into April, draws the heaviest weekend traffic of the year, when the castle grounds fill with pink alongside the black keep.
 
@@ -136,4 +135,3 @@ Kumamoto Castle is one of the most-visited landmarks in the region, so don't exp
 - Skip the direct main gate rush by entering through the Sakuranobaba Josaien side, which lets you eat first and beat the mid-morning crowd surge
 
 The most common tourist mistake is treating this as a quick photo stop. Give the museum floors time, the earthquake recovery exhibits, in particular, are what separate this castle from a simple postcard shot.
-

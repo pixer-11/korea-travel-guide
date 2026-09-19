@@ -43,7 +43,6 @@ heroImage:
     top: 8
     bottom: 30
 ---
-
 You've probably had "Right Here Waiting" or "Hazard" stuck in your head since you saw the announcement, and now you're wondering what a Richard Marx night in Dubai actually looks like. Here's the practical rundown.
 
 ## Why this show matters
@@ -68,7 +67,7 @@ Confirm timing and tickets on the official Coca-Cola Arena site or its authorize
 
 ## What to expect on the night
 
-Coca-Cola Arena holds around 17,000 people, but for a seated singer-songwriter show like this, expect a more intimate configuration than you'd see for a stadium pop act. Doors typically open well before the advertised set time, giving you room to grab a drink or snack at the concourse stalls before finding your seat.
+Coca-Cola Arena holds around 17,000 people, but for a seated singer-songwriter show like this, expect a more intimate configuration than you'd see for a stadium pop act. Doors typically open well before the advertised show time, giving you room to grab a drink or snack at the concourse stalls before finding your seat.
 
 Richard Marx is known for storytelling between songs. Expect banter about the writing behind hits like "Should've Known Better" or "Don't Mean Nothing" alongside the music itself. Sets from artists of this era commonly run 90 minutes to two hours, often without a support act, though that's worth verifying once the show's own details are published.
 

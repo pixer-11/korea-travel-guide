@@ -96,7 +96,7 @@ You step through a plain wooden gate off the main park path, and the traffic noi
 
 ## Why this garden, and why now
 
-Built in 1985, this is a proper *karesansui*-and-pond style Japanese garden, not a Western-style flower park. It sits inside the much larger Ohori Park, itself built around a former moat of Fukuoka Castle.
+This is a proper *karesansui*-and-pond style Japanese garden, not a Western-style flower park. It sits inside the much larger Ohori Park, itself built around a former moat of Fukuoka Castle.
 
 The contrast is the point. One minute you're beside a wide public lake with joggers and paddleboats, the next you're inside a walled garden built for quiet contemplation.
 

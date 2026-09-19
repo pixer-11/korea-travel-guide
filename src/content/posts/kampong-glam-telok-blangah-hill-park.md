@@ -132,7 +132,7 @@ Wear shoes you don't mind sweating in. Even shaded sections stay warm and humid 
 
 The park is open 24 hours, every day, so there's no gate to time your visit around. On weekends, mornings tend to be quieter, before the day's heat and the walking groups build up.
 
-Crowds pick up steadily from mid-morning and into the evening on weekends, since the boardwalks and viewing decks are lit and popular with evening joggers and photographers. If you want the Sky Garden view without other tripods in your shot, early morning is your best bet.
+Weekend crowds tend to build up later in the day, since the boardwalks and viewing decks are lit and popular with evening joggers and photographers. If you want the Sky Garden view without other tripods in your shot, early morning is your best bet.
 
 Midweek mornings tend to be calmer still, though exact quiet hours on weekdays aren't tracked as precisely as weekends.
 
@@ -141,7 +141,7 @@ Midweek mornings tend to be calmer still, though exact quiet hours on weekdays a
 Singaporeans use this park for exercise more than sightseeing, so the etiquette follows fitness-park norms rather than tourist-site ones.
 
 - Keep to the left on shared boardwalks; joggers and cyclists move fast on the connector paths.
-- Bring your own water. Vending and food options are sparse until you reach the restaurant near the park's edge or amenities closer to Mount Faber.
+- Bring your own water. Vending and food options are sparse until you reach the edge of the park or amenities closer to Mount Faber.
 - Don't expect food stalls mid-trail; this isn't a hawker-adjacent park like those closer to housing estates.
 - Check the weather before setting out. Afternoon thunderstorms are common and the canopy offers only partial cover.
 

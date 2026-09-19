@@ -87,7 +87,7 @@ You can still see traces of this layered past. Look for the old Fort Gate, remna
 
 Most visitors enter from River Valley Road, Hill Street near the National Museum, or the stairs and lift near Fort Canning MRT. Each route brings you up through different terrain, so don't worry about picking the "correct" path.
 
-Give yourself roughly 60 to 90 minutes to see the main clusters of sights at an easy pace. Add extra time if you want to sit in the shade or explore the smaller garden pockets tucked off the main paths.
+Give yourself a comfortable stretch of time to see the main clusters of sights at an easy pace. Add extra time if you want to sit in the shade or explore the smaller garden pockets tucked off the main paths.
 
 Key things worth seeking out as you wander:
 
@@ -123,6 +123,6 @@ Tourists' most common mistake is treating it as a quick 15-minute photo stop. Th
 
 ## Getting there and what's nearby
 
-Fort Canning MRT station (Downtown Line) sits almost directly beneath the park, with a lift and stairs leading up into the grounds. It's also an easy 5 to 10 minute walk from Clarke Quay itself, making it simple to combine a riverside dinner with an evening walk up the hill.
+Fort Canning MRT station (Downtown Line) sits almost directly beneath the park, with a lift and stairs leading up into the grounds. It's also within easy walking distance of Clarke Quay itself, making it simple to combine a riverside dinner with an evening walk up the hill.
 
 The National Museum of Singapore and the Peranakan Museum are both a short walk downhill, so many visitors pair a morning at the park with an afternoon indoors. Clarke Quay's restaurants and riverboat rides are close enough for a natural end to the day once you've come back down.

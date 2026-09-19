@@ -70,7 +70,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A capital landmark
 
 The National Museum of Cambodia sits on Preah Ang Eng Street in Phnom Penh, tucked beside the Royal Palace complex.
@@ -105,7 +104,7 @@ If your schedule allows any flexibility, arriving at 8am sharp is the single bes
 
 ## How to visit like a local
 
-Cambodians visiting the museum tend to come early and move briskly through, treating it as a quiet cultural stop rather than an all-day outing, worth copying if you want to beat the crowds.
+Cambodians visiting the museum tend to come early and move briskly through, treating it as a quick cultural stop rather than an all-day outing—a habit worth copying if you want to beat the crowds.
 
 - Arrive at 8am opening; it's the quietest hour on both weekdays and weekends
 - Avoid the 10am-4pm weekend window, when tour buses cluster

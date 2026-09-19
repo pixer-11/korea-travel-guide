@@ -74,10 +74,9 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why go
 
-You come here for craftsmanship, not just worship. Dalongdong Baoan Temple, completed in 1831, is one of Taiwan's finest surviving examples of southern Fujian temple architecture, and UNESCO recognized its restoration with an Asia-Pacific Heritage Award in 2003.
+You come here for craftsmanship, not just worship. Dalongdong Baoan Temple, completed in 1831, is one of Taiwan's finest surviving examples of southern Fujian temple architecture.
 
 The moment you step past the front hall, the air changes, thick with sandalwood incense, murmured chanting, and the low clack of divination blocks hitting the stone floor. Look up before you look ahead. The roofline is crowded with jiaozhi ceramic figures and cut-porcelain mosaics depicting opera scenes and legends, each one still holding its original color after nearly two centuries.
 
@@ -85,7 +84,7 @@ The moment you step past the front hall, the air changes, thick with sandalwood 
 
 The temple is dedicated to Baosheng Dadi, a deified Song-dynasty physician, and the layout unfolds in three halls connected by open courtyards.
 
-Don't rush past the front hall's stone dragon column, carved in 1804, it predates the temple's completion and is considered one of the finest Qing-era dragon columns still in place. Inside the main hall, gilded wood carvings and painted door gods (by renowned artist Pan Li-shui) cover nearly every surface.
+Don't rush past the front hall's stone dragon column, it predates the temple's completion and is considered one of the finest Qing-era dragon columns still in place. Inside the main hall, gilded wood carvings and painted door gods cover nearly every surface.
 
 - Stone dragon and tiger reliefs flanking the entrance steps
 - Jiaozhi ceramic roof figures, best viewed from the courtyard at midday light
@@ -121,4 +120,3 @@ Cash offerings go into marked boxes, not into monks' or attendants' hands direct
 Plan 45 minutes to an hour for the temple itself, longer if you linger over the roof carvings or catch a ceremony.
 
 Confucius Temple sits immediately next door, sharing the same plaza, and makes a natural add-on. Expect another 30–45 minutes there. Taipei Fine Arts Museum and the riverside Dadaocheng Wharf are both within a 15-minute walk, making this a solid half-day cluster if you start early and beat the heat and crowds together.
-

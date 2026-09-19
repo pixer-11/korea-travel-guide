@@ -73,12 +73,11 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-07'
 ---
-
 ## Why go
 
 Wat Sampov Pram sits on a low hill just outside central Kep, its name translating roughly to "five boats," a nod to a local legend about boats turned to stone. You come here less for grandeur and more for atmosphere: gilded stupas catching the light, frangipani trees dropping petals on the concrete, and views that stretch toward the Gulf of Thailand's haze.
 
-Unlike Angkor-scale temples, this one stays low-key. With a 4.5-star rating from a modest 671 reviews, it's clearly loved by the people who find it, but it hasn't become a coach-tour stop. That's exactly its appeal.
+Unlike Angkor-scale temples, this one stays low-key. With a 4.5-star rating from visitors, it's clearly loved by the people who find it, but it hasn't become a coach-tour stop. That's exactly its appeal.
 
 ## What you'll see
 

@@ -95,7 +95,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-03'
 ---
-
 You pass through the Great Portico first, its curved tile roof and stone dragons framing the noise of Quốc Tử Giám street behind you. Inside, the traffic drops away almost instantly. Five walled courtyards unfold one after another, each gate a little more hushed than the last.
 
 This is Văn Miếu, the Temple of Literature, founded in 1070 and dedicated to Confucius, scholars, and sages. In 1076 it became Vietnam's first national university, training the mandarins who ran the imperial court for the next seven centuries.
@@ -140,4 +139,4 @@ Dress modestly, shoulders and knees covered, as this remains an active site of w
 
 Tickets are bought at a counter just inside the entrance; card and cash are both generally accepted, though having small dong notes on hand speeds things up. There's rarely a need to book ahead, queues move quickly outside peak weekend hours.
 
-A common tourist mistake is treating this as a quick photo stop at the front gate and skipping the rear courtyards, where the sanctuary and stelae actually sit. Walk the full length back to the fifth courtyard; that's where the temple's real weight is felt, in the quiet behind the crowds near the entrance.
+A common tourist mistake is treating this as a quick photo stop at the front gate and skipping the rear courtyards, where the sanctuary and stelae actually sit. Walk the full length back to the fifth courtyard; that's where the temple's real weight is felt, in the quiet, away from the entrance crowds.

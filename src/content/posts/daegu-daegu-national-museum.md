@@ -96,7 +96,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-01'
 ---
-
 ## Why go
 
 Daegu National Museum tells the story of the Yeongnam region, the old name for the area around Daegu and North Gyeongsang, through objects rather than text panels alone. You walk past Bronze Age daggers, Silla-era gold ornaments, and Buddhist stone pagodas that once stood in open fields for a thousand years.
@@ -118,7 +117,7 @@ Budget 90 minutes for a solid pass through the main halls, or two hours if you l
 
 The museum sits at 321 Cheongho-ro in Suseong District, on the eastern side of Daegu. It's a bit removed from the subway network, so most visitors combine a taxi or bus with a short walk.
 
-Buses serving the museum stop directly outside the grounds. Check current routes before you go, since bus numbers shift over time. A taxi from downtown Daegu (Dongseongno or Banwoldang) typically runs 15–20 minutes depending on traffic.
+Buses serving the museum stop directly outside the grounds. Check current routes before you go, since bus numbers shift over time. A taxi from downtown Daegu is also an option; ask your driver for an estimated time, since it will vary with traffic.
 
 ## When to go
 
@@ -145,4 +144,3 @@ Combine your visit with nearby Suseong Lake, a short ride away, for a walk aroun
 Start with the prehistoric and Bronze Age galleries first, they set context for everything that follows. Save the outdoor stone pagoda courtyard for last, ideally in decent daylight, since natural light changes how the carved reliefs read.
 
 If you're traveling with kids, the dome-house reconstructions tend to be the most memorable exhibit. They're walk-through scale models rather than glass-case displays. English-language signage is present throughout, though not as extensive as at Korea's largest national museums, so a little pre-reading on Silla and Gaya history helps deepen the visit.
-

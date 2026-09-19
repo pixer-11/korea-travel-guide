@@ -105,7 +105,7 @@ updatedDate: '2026-09-15'
 
 This isn't a car showroom with shiny concept vehicles under spotlights. It's a working history lesson, housed in the actual red-brick factory where Sakichi Toyoda built automatic looms before his son Kiichiro pivoted the family business into cars.
 
-You come for the machines themselves (dozens of them, still running. Staff demonstrate century-old power looms clattering at full speed, shuttles snapping back and forth so fast you flinch the first time. The noise, the oil smell, the vibration in the floorboards) this is industrial heritage you feel, not just read about.
+You come for the machines themselves—dozens of them, still running. Staff demonstrate century-old power looms clattering at full speed, shuttles snapping back and forth so fast you flinch the first time. The noise, the oil smell, the vibration in the floorboards—this is industrial heritage you feel, not just read about.
 
 ## Getting there
 
@@ -128,7 +128,7 @@ Signage is in Japanese and English throughout, and the live demonstrations are t
 
 ## When to go
 
-The museum is closed every Monday, open Tuesday through Sunday from 9:30am to 5pm. Weekends get busy between 10am and 5pm, with families and tour groups filling the textile hall by late morning.
+The museum is closed every Monday, open Tuesday through Sunday from 9:30am to 5pm. Weekends get busy, with families and tour groups filling the textile hall by late morning.
 
 If you can, come on a weekday and arrive close to opening. You'll get the loom demonstrations with more room to actually see the machinery, rather than craning over shoulders. Plan for two to three hours, longer if you're mechanically inclined and want to read every panel.
 

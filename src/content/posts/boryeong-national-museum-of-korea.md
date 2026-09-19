@@ -91,7 +91,7 @@ Hours vary by day, so check before you plan around them:
 
 The extended evening hours on Wednesday and Saturday are your best move if you want space to actually look at things. Weekday visits between 10am and 6pm tend to be quieter than weekends.
 
-Weekends are a different story. Between noon and 6pm on Saturday and Sunday, the main halls fill with families and school groups, and the pagoda atrium can feel more like a train platform. If you're set on a weekend trip, arrive in the last hour before closing on Saturday, when things tend to be calmer.
+Weekends are a different story. Between noon and 6pm on Saturday and Sunday, the main halls fill with families and school groups, and the pagoda atrium can feel more like a train platform. If you're set on a weekend trip, aim for the later evening hours on Saturday, when crowds tend to thin out.
 
 ## How to visit like a local
 

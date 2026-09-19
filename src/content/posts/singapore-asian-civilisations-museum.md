@@ -77,7 +77,7 @@ Inside, the ceilings are high and the light is cool and even, the kind museums u
 
 The collection is organized loosely around trade, faith, and material culture rather than country by country.
 
-- Ceramics and cargo from the Tang Shipwreck, a 9th-century Arab dhow found off Indonesia
+- Ceramics and cargo from the Tang Shipwreck
 - Textiles, jewelry and ceremonial objects from South and Southeast Asia
 - Chinese scholarly objects, calligraphy and export porcelain
 - Religious sculpture spanning Hindu, Buddhist and Islamic traditions

@@ -97,10 +97,9 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-06'
 ---
-
 ## Why Omicho Market is worth the detour
 
-Kanazawa built its wealth on the Sea of Japan's cold currents, and Omicho Market is where that wealth still lands every morning. Ice-packed crates of snow crab, glossy discs of botan shrimp, and fat scallops in their shells crowd the stalls. Vendors in rubber boots call out prices in a Kanazawa dialect that rolls faster than you'd expect. This has functioned as the city's kitchen for close to 300 years, and it still feels like one.
+Kanazawa built its wealth on the Sea of Japan's cold currents, and Omicho Market is where that wealth still lands every morning. Ice-packed crates of snow crab, glossy discs of botan shrimp, and fat scallops in their shells crowd the stalls. Vendors in rubber boots call out prices in a Kanazawa dialect that rolls faster than you'd expect. This has functioned as the city's kitchen for centuries, and it still feels like one.
 
 ## Getting there and getting oriented
 

@@ -101,7 +101,7 @@ Look for the bronze Qilin statues near the entrance, rubbing them is a local rit
 
 The temple opens daily from 8am to 6pm, with no day off, so scheduling around it is easy. Weekdays stay manageable pretty much all day, but weekends are a different story.
 
-On Saturdays and Sundays, the crowd swells fast after opening and stays heavy from 10am to 5pm. If you want the courtyard to yourself, or close to it, come right at 8am to 9am on a weekend before the tour groups and worshippers arrive in force.
+On Saturdays and Sundays, the crowd swells fast after opening and stays heavy through the afternoon. If you want the courtyard to yourself, or close to it, come right at 8am to 9am on a weekend before the tour groups and worshippers arrive in force.
 
 Outside of that window, expect shoulder-to-shoulder crowds near the incense burners and a queue to spin the giant windmill.
 

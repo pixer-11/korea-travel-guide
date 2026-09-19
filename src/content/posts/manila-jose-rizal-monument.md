@@ -135,7 +135,7 @@ The monument is open 24 hours every day, so there's no gate schedule to work aro
 - **Early morning (6-8am):** Cooler air, joggers circling the park, softer light for photos.
 - **Midday:** Direct sun with little shade. Bring water and a hat.
 - **Sunset:** The bay-facing side glows orange, and the crowd thins as day-trippers head out.
-- **Weekends:** This is the busiest stretch, with families, tour groups, and vendors filling the plaza. If you want breathing room, go on a weekday morning instead.
+- **Weekends:** This is the busiest stretch, with families, tour groups, and vendors filling the plaza. If you want breathing room, aim for a weekday morning instead.
 
 ## How to visit like a local
 

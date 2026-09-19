@@ -94,7 +94,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-28'
 ---
-
 ## Why go
 
 You come here for the pines, not a single showpiece attraction. Baguio Botanical Garden is a sloped, forested park where mossy stone steps wind between towering pines and beds of begonias, marigolds, and hydrangeas.
@@ -122,7 +121,7 @@ Wear shoes with grip. The stone paths get slick after Baguio's frequent afternoo
 
 The garden is open every day from 6am to 6pm, so early mornings are your best window before tour groups arrive. Weekdays stay relatively calm all day, from opening to close.
 
-Weekends are a different story. Crowds build fast after 8am and stay heavy from 9am to 5pm, when families and day-trippers pack the main paths and hut area. If you want the quiet version of the garden on a Saturday or Sunday, arrive right at 7am. You'll have barely an hour before it fills in.
+Weekends are a different story. Crowds build fast before 8am and stay heavy through the late afternoon, when families and day-trippers pack the main paths and hut area. If you want the quiet version of the garden on a Saturday or Sunday, arrive right at 7am. You'll have barely an hour before it fills in.
 
 Baguio's cool climate means midday visits are comfortable even in the dry season, but bring a light jacket for early mornings, when temperatures can dip into the mid-teens Celsius.
 
@@ -137,4 +136,3 @@ This is a very popular stop on the Baguio circuit, not a hidden find, so plan ar
 - **Combine your trip**: pair it with a walk down to Wright Park or a stop at Mansion House, both a few minutes away on foot, so you're not making a special trip just for the garden
 
 The common tourist mistake is treating this as a five-minute photo stop. Slow down, take the stairway loop to the top, and it earns the visit.
-

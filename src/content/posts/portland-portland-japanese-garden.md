@@ -66,7 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why this garden, not just any garden
 
 You come around a bend in the path and the city noise just stops. That's the effect Portland Japanese Garden is built for, 5.5 acres tucked into the forested hillside of Washington Park, designed to feel like a world sealed off from Portland entirely.
@@ -77,9 +76,9 @@ It's often called one of the most authentic Japanese gardens outside Japan, and 
 
 Start at the Flat Garden, where white sand is raked into patterns that shift with the seasons. From there, paths climb past a real waterfall into the Natural Garden's mossy, uneven terrain.
 
-The Tea Garden holds a working teahouse, hand-built in Japan and reassembled here. The Strolling Pond Garden is the postcard shot, arched moon bridges, slow koi, maples that go incandescent red in October.
+The Tea Garden holds a working teahouse. The Strolling Pond Garden is the postcard shot, arched moon bridges, slow koi, maples that go incandescent red in October.
 
-Don't skip the Umami Café near the entrance. Don't rush past the Garden House either. It's got sweeping views over the treetops toward Mount Hood on a clear day.
+Don't skip the café near the entrance. Don't rush past the Garden House either. It's got sweeping views over the treetops toward Mount Hood on a clear day.
 
 ## Getting there
 
@@ -105,4 +104,4 @@ This garden draws visitors from well beyond Portland, so don't expect a quiet, u
 - **Move slowly and stay on the gravel paths.** The moss gardens are fragile, and stepping off-path is the single most common thing staff have to correct visitors on.
 - **Bring a layer.** The hillside setting means it's often a few degrees cooler and breezier than downtown Portland.
 
-Give yourself a full 90 minutes minimum, longer if you want to sit with tea at the Umami Café and just watch the koi for a while.
+Give yourself a full 90 minutes minimum, longer if you want to sit with tea at the café and just watch the koi for a while.

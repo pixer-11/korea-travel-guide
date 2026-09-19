@@ -101,10 +101,9 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-03'
 ---
-
 ## Why go
 
-Tao Dan Park is where District 1 comes to breathe. Wedged between busy streets a short walk from Ben Thanh Market, it's a canopy of century-old tропical trees (tamarind, banyan, and towering dầu) that drops the temperature and the noise level the moment you step under the gate.
+Tao Dan Park is where District 1 comes to breathe. Wedged between busy streets a short walk from Ben Thanh Market, it's a canopy of century-old tropical trees (tamarind, banyan, and towering dầu) that drops the temperature and the noise level the moment you step under the gate.
 
 Locals call it simply "Tao Đàn," and it functions less like a tourist attraction and more like the city's shared backyard. You'll see badminton games, tai chi circles, and old men hunched over Chinese chess boards on stone tables, all within a few minutes of arriving.
 
@@ -132,7 +131,7 @@ The park has multiple gates around its perimeter, so just aim for whichever entr
 
 The park is open daily from 7am to 10pm, so there's a wide window to work with. Mornings are genuinely the best time. The air is cooler and you'll catch the exercise crowd in full swing.
 
-On weekdays, it stays calm right through from 7am to 3pm, which makes for an easy, unhurried stroll. Weekends are different: expect it busy anywhere from 9am to 10pm, with only a narrow lull between 1pm and 3pm.
+On weekdays, it stays relatively calm from morning until around 3pm, which makes for an easy, unhurried stroll. Weekends are different: expect it to be busy from 9am to 10pm, aside from a narrow lull between 1pm and 3pm.
 
 If you're visiting on a Saturday or Sunday, aim for that early-afternoon window if you want the paths to yourself. Evenings, especially after 6pm, bring out families, joggers, and street food carts near the gates, lively, but crowded.
 

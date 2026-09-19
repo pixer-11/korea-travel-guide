@@ -101,7 +101,7 @@ That's the first thing that hits you: this isn't a fenced-off monument on a hill
 
 ## Why Jogeshwari Caves matter
 
-These caves predate Elephanta and the Ajanta-Ellora complexes further inland, carved sometime in the mid-1st century. They were originally both Hindu and Buddhist in use, which shows in the mix of carvings inside.
+These caves predate Elephanta and the Ajanta-Ellora complexes further inland, among the oldest rock-cut cave sites in the Mumbai area. They were originally both Hindu and Buddhist in use, which shows in the mix of carvings inside.
 
 The main hall centers on a shrine to Jogeshwari, a form of the goddess Durga, still actively worshipped today. Massive stone pillars hold up a ceiling blackened by centuries of oil lamps and incense smoke.
 

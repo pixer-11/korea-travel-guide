@@ -70,7 +70,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why go
 
 Second Market isn't a polished night-market spectacle. It's where Taichung actually eats breakfast and lunch. Built during the Japanese colonial era, the market still runs through the same octagonal covered hall, with narrow lanes radiating out from a central hub lined with butchers, produce sellers and dry-goods stalls.
@@ -79,7 +78,7 @@ You come here for the food stalls tucked among the produce sellers, not for phot
 
 ## What to eat
 
-The market's signature dish is meatball soup, gawan (肉丸), a translucent rice-flour dumbling stuffed with pork, served in a light broth or fried and doused in sweet-savory sauce. Several stalls compete for the "original" title, and locals argue about which is best.
+The market's signature dish is meatball soup, gawan (肉丸), a translucent rice-flour dumpling stuffed with pork, served in a light broth or fried and doused in sweet-savory sauce. Several stalls compete for the "original" title, and locals argue about which is best.
 
 Beyond gawan, look for:
 - Braised pork rice (滷肉飯) from tiny counter stalls
@@ -118,4 +117,3 @@ The most common tourist mistake is treating this like a night market with hours 
 ## Nearby to pair with your visit
 
 Second Market sits close to Taichung's older commercial core, within walking distance of Zhongshan Road's shophouses and a short ride from the Taichung Confucius Temple and Baojue Temple. If you're spending the morning here, it pairs naturally with a wider wander through Central District's older streets before the afternoon heat sets in.
-

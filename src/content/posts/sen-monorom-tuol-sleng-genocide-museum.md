@@ -63,7 +63,6 @@ faq:
     a: Many visitors pair the museum with Choeung Ek Killing Fields (about 40 minutes away) via the same tuk-tuk hire, then decompress along the Tonle Sap riverfront or Royal Palace area back in central Phnom Penh.
 aiGenerated: true
 ---
-
 ## Why this place, and why it's hard
 
 Tuol Sleng Genocide Museum was once Security Prison 21, the Khmer Rouge's central interrogation center between 1975 and 1979. Before that, it was a high school. You can still see the classroom windows, now laced with barbed wire, and that contrast is what makes the site so disorienting from the moment you walk in.
@@ -85,7 +84,7 @@ The complex spans four buildings arranged around a former schoolyard, and each o
 - **Building C**: the tiny brick and wood cells where prisoners were held between interrogations
 - **Building D**: instruments of torture, and testimony from the small number of known survivors
 
-Give yourself 1.5 to 2.5 hours. An audio guide is available at the entrance and worth the small extra cost. The photographs alone don't convey the context without it.
+Give yourself plenty of time to move through all four buildings. An audio guide is available at the entrance and worth the small extra cost. The photographs alone don't convey the context without it.
 
 ## When to go
 

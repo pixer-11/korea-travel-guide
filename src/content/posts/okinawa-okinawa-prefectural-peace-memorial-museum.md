@@ -71,7 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why this place matters
 
 You arrive expecting a typical war museum. You leave with something heavier and more specific: a room-by-room account of what happened to Okinawan civilians in 1945, told largely in their own words.
@@ -116,7 +115,7 @@ The museum is open daily, 9am to 5pm, with no weekly closing day listed, but alw
 
 If you want the exhibition halls to yourself, arrive between 9am and 11am. That's the quietest window on both weekdays and weekends. Weekend afternoons, especially 12pm to 4pm, draw the heaviest crowds, including school groups and tour buses. Plan around that window if you can.
 
-June 23rd, Okinawa's Memorial Day (Irei no Hi), draws large crowds and a formal ceremony in the park, moving to witness, but not the day for a quiet, reflective visit.
+June 23rd, Okinawa's Memorial Day (Irei no Hi), draws large crowds and a formal ceremony in the park, moving to witness, but this isn't the day for a quiet, reflective visit.
 
 ## How to visit like a local
 

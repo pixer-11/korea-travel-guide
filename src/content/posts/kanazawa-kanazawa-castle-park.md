@@ -120,7 +120,7 @@ The park connects directly to Kenrokuen Garden via a bridge, so most visitors co
 
 The park keeps the same 7am–6pm hours every day of the week, with no seasonal shortening listed.
 
-Crowd data shows no quiet weekday or weekend window separate from opening hours themselves; the whole day sees traffic. Arriving right at 7am or after 4pm gives you noticeably more breathing room, especially for photos at Ishikawa-mon.
+Arriving right at 7am or after 4pm gives you noticeably more breathing room, especially for photos at Ishikawa-mon.
 
 ## How to visit like a local
 

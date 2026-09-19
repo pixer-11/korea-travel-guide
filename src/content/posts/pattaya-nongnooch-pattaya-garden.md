@@ -94,7 +94,7 @@ Trams shuttle visitors between zones; walking the full grounds on foot in Pattay
 
 ## Timing your visit
 
-Gates open at 8am and close at 6pm, seven days a week, with no seasonal variation listed. Crowd patterns here are stark: both weekdays and early weekend hours run 8am to 6pm quietly, but weekend crowds swell hard between 11am and 4pm as day-trip buses from Pattaya and Bangkok arrive. Show up at opening on a Saturday or Sunday and you'll have the French Garden almost to yourself for the first hour.
+Gates open at 8am and close at 6pm, seven days a week, with no seasonal variation listed. Crowd patterns here are stark: weekdays stay quiet throughout, and early weekend mornings are quiet too, but weekend crowds swell hard between 11am and 4pm as day-trip buses from Pattaya and Bangkok arrive. Show up at opening on a Saturday or Sunday and you'll have the French Garden almost to yourself for the first hour.
 
 If you can only come on a weekday, the crowding is milder throughout, but the 11am–4pm window is still the busiest stretch even then.
 

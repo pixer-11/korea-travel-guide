@@ -84,7 +84,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-29'
 ---
-
 ## Why go
 
 Labi Hovuz means "edge of the pool" in Tajik, and that's exactly what you're getting: a rectangular stone-lined basin dug in 1620, still the social heart of old Bukhara. Mulberry trees planted generations ago lean over the water, their shade dappling the surface where ducks paddle past reflections of carved wood balconies.
@@ -123,7 +122,7 @@ Spring (April-May) and autumn (September-October) bring mild temperatures for li
 
 The pool's edge is lined with open-air restaurants and teahouses, several with elevated wooden platforms (*tapchan*) where you sit cross-legged around a low table. Order a pot of green tea and a plate of *shashlik* or plov, and you can watch the square without ever standing up.
 
-Prices here run mid-range by Uzbek standards, a notch above a neighborhood chaikhana, reflecting the location rather than anything fancy on the plate. Nobody rushes you out; a two-hour tea stop is normal, not eccentric.
+Prices reflect the location rather than anything fancy on the plate. Nobody rushes you out; a two-hour tea stop is normal, not eccentric.
 
 ## How to visit like a local
 
@@ -136,4 +135,3 @@ Skip the restaurant terraces immediately at the pool's edge if you want a cheape
 - Evenings bring informal folk-music performances near the teahouses; hover at the edge rather than pushing to the front, which is how locals watch too
 
 The most common tourist mistake is treating Labi Hovuz as a five-minute photo stop between bigger monuments. Locals treat it as a destination in itself. Budget real time to just sit.
-

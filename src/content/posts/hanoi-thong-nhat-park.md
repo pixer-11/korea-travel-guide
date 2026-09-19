@@ -95,7 +95,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-03'
 ---
-
 ## Why go
 
 You come here to watch Hanoi breathe. Thong Nhat Park is the city's lungs, a sprawling green buffer of lakes, shade trees, and gravel paths where the roar of motorbikes fades within a few steps of the gate.
@@ -124,8 +123,6 @@ Beyond the water, look for:
 - Flower gardens that rotate with the seasons, especially lively around Tet
 
 The park has long hosted community events and fairs, so don't be surprised to stumble across a temporary exhibition or festival setup near the main entrances.
-
-Give yourself an hour for a walk around the lake, or half a day if you want to linger with a coffee and people-watch.
 
 ## When to go
 

@@ -78,7 +78,7 @@ Tuk-tuks are the easiest option if you're coming from further out, drivers all k
 The complex is really a walled city-within-a-city, and you move through it as a loop rather than a single building.
 
 - **Throne Hall**, the soaring, cross-shaped centerpiece, still used for coronations and state ceremonies
-- **Silver Pagoda**, named for its silver-tiled floor, much of it now covered by carpet to protect it, housing a jewel-encrusted Emerald Buddha
+- **Silver Pagoda**, named for its silver-tiled floor, most of which is now covered by carpet to protect it, housing a jewel-encrusted Emerald Buddha
 - **Napoleon III Villa**, a cast-iron pavilion gifted by France, oddly elegant against the Khmer rooftops
 - **Royal gardens**, manicured lawns and frangipani trees between the main structures, good for catching your breath
 

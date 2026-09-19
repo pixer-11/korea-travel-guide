@@ -82,7 +82,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-04'
 ---
-
 ## Why go
 
 This isn't a crowded, roped-off museum experience. It's a calm, well-curated walk through Panay's deep past, and you'll likely share the galleries with only a handful of other visitors.
@@ -117,7 +116,7 @@ Pair it with a stroll along the Iloilo River Esplanade right outside, or continu
 
 Treat it the way Ilonggos treat their smaller heritage sites, as a quiet detour, not a checklist stop.
 
-- **Cost**: Entry has historically been free at National Museum branches across the Philippines; bring a valid ID in case sign-in is required at the door.
+- **Cost**: Check current admission details before you go; bring a valid ID in case sign-in is required at the door.
 - **Timing**: Arrive right at 9am on a weekday. You'll likely have the ground floor to yourself for the first half hour.
 - **Etiquette**: Photography is generally allowed without flash, but ask staff before shooting in any temporary exhibit, rules vary by show.
 - **Pace yourself**: Start upstairs with the revolution-era exhibits, then work down to archaeology. Most visitors do it in reverse and rush the good stuff at the end.
@@ -126,4 +125,3 @@ Treat it the way Ilonggos treat their smaller heritage sites, as a quiet detour,
 The mistake most tourists make is folding this into a rushed loop with Molo Church and Jaro Cathedral and giving it fifteen minutes. Give it the full hour-plus it deserves. You're one of relatively few visitors on any given day, and the galleries reward slow, unhurried reading rather than a quick pass-through.
 
 Since it's free and low-traffic, it also works well as a rainy-day fallback or a midday break between other Iloilo City Proper stops, when the heat outside makes an air-conditioned gallery genuinely welcome.
-
