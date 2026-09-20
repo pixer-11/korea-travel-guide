@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: marina-bay-marina-bay-sands-singapore
-srcHash: '006c06bc4995'
+srcHash: '52dd76818dcb'
 title: 'Marina Bay Sands Singapur: Guía de Viaje (4,7★)'
-description: 'En el distrito de Marina Bay, el Marina Bay Sands es el hotel de tres torres coronado por el SkyPark y su famosa piscina infinita, célebre por las postales del perfil de Singapur. 4,7★ (64.698 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el distrito de Marina Bay, el Marina Bay Sands es el hotel de tres torres coronado por el SkyPark y su famosa piscina infinita, célebre por las postales del perfil de Singapur. 4,7★ (64.711 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el distrito de Marina Bay, el Marina Bay Sands es el hotel de tres torres coronado por el SkyPark y su famosa piscina infinita, célebre por las postales del perfil de Singapur. El acceso a la piscina de la azotea está reservado a los huéspedes del hotel, aunque el Observatorio del SkyPark vende entradas independientes para todo el público. Conviene ir al atardecer para disfrutar de la mejor luz sobre el perfil de Marina Bay y encontrar menos gente junto a la baranda del mirador.
 faq:
   - q: ¿Pueden los no huéspedes acceder a la piscina infinita de la azotea?

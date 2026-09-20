@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: new-orleans-cochon-butcher
-srcHash: '7f8da18d339c'
+srcHash: '43efe3370a95'
 title: 'Cochon Butcher: dónde comer en Nueva Orleans (4,8★)'
-description: 'Cochon Butcher es la versión informal, especializada en sándwiches y charcutería, del restaurante Cochon, escondida en un callejón del distrito de los almacenes (Warehouse District), cerca de Tchoupitoulas Street. 4,8★ (2.631 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Cochon Butcher es la versión informal, especializada en sándwiches y charcutería, del restaurante Cochon, escondida en un callejón del distrito de los almacenes (Warehouse District), cerca de Tchoupitoulas Street. 4,8★ (2.674 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Cochon Butcher es la versión informal, especializada en sándwiches y charcutería, del restaurante Cochon, escondida en un callejón del distrito de los almacenes (Warehouse District), cerca de Tchoupitoulas Street. Lo mejor es pedir la muffuletta o el cubano de panceta de cerdo en el mostrador, aunque hay que contar con esperar en las horas punta del almuerzo. Abre todos los días de 11:00 a 22:00, así que una visita a media tarde (14:00–16:00) es la mejor opción para conseguir mesa sin hacer cola.
 faq:
   - q: ¿Cómo se llega a Cochon Butcher?

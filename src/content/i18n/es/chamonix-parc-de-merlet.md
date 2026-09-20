@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: chamonix-parc-de-merlet
-srcHash: '6020e74f9dd1'
+srcHash: '0beb40387d9f'
 title: 'Parc de Merlet: guía de viaje de Chamonix (4,6★)'
-description: 'El Parc de Merlet es una reserva de senderismo y fauna en la ladera sobre Les Houches, en el lado sur del valle de Chamonix, abierta de martes a domingo de 10:00 a 18:00 (cerrado los lunes). 4,6★ (4.097 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Parc de Merlet es una reserva de senderismo y fauna en la ladera sobre Les Houches, en el lado sur del valle de Chamonix, abierta de martes a domingo de 10:00 a 18:00 (cerrado los lunes). 4,6★ (4.101 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Parc de Merlet es una reserva de senderismo y fauna en la ladera sobre Les Houches, en el lado sur del valle de Chamonix, abierta de martes a domingo de 10:00 a 18:00 (cerrado los lunes). Merece la pena por sus marmotas, gamuzas y ciervos en semilibertad, con el Mont Blanc como telón de fondo; conviene reservar entre 1,5 y 2,5 horas para recorrer los senderos circulares. Llegue a primera o última hora del horario de apertura para evitar los grupos en autocar.
 faq:
   - q: ¿Dónde se encuentra exactamente el Parc de Merlet?

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: florence-boboli-gardens
-srcHash: '847d3d81a796'
+srcHash: '9a01e59cb16f'
 title: 波波利花园：佛罗伦萨旅行指南（4.2★）
-description: 波波利花园（Boboli Gardens）位于佛罗伦萨阿尔诺河对岸（Oltrarno）的碧提宫（Pitti Palace）后方，每日8:15至19:10开放。4.2★（30,902条评价）——游客怎么说、开放时间与实用建议，一并奉上。
+description: 波波利花园（Boboli Gardens）位于佛罗伦萨阿尔诺河对岸（Oltrarno）的碧提宫（Pitti Palace）后方，每日8:15至19:10开放。4.2★（30,913条评价）——游客怎么说、开放时间与实用建议，一并奉上。
 quickAnswer: 波波利花园位于佛罗伦萨阿尔诺河对岸的碧提宫后方，每日8:15至19:10开放。工作日最清静的时段是17:00到19:00；周末则全天人流相对平稳，不过11:00到17:00这段时间游客最为集中。若想不慌不忙地走到上层露台和咖啡馆（Kaffeehaus），建议至少留出90分钟。
 faq:
   - q: 在波波利花园应该待多久？

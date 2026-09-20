@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: granada-jardines-del-triunfo
-srcHash: '4eb25eea78a8'
+srcHash: 'ba2b7910facd'
 title: 凯旋花园（Jardines del Triunfo）：格拉纳达旅行指南（4.6★）
-description: 凯旋花园是格拉纳达阿尔拜辛区（Albaicín）边缘的一座大型公共公园，坐落在卡普奇诺斯大街（C. Ancha de Capuchinos）与古老的埃尔维拉门（Puerta de Elvira）交汇处。4.6★（9,327条评价）——游客评价、开放时间与实用建议。
+description: 凯旋花园是格拉纳达阿尔拜辛区（Albaicín）边缘的一座大型公共公园，坐落在卡普奇诺斯大街（C. Ancha de Capuchinos）与古老的埃尔维拉门（Puerta de Elvira）交汇处。4.6★（9,328条评价）——游客评价、开放时间与实用建议。
 quickAnswer: 凯旋花园是格拉纳达阿尔拜辛区边缘的一座大型公共公园，坐落在卡普奇诺斯大街与古老的埃尔维拉门交汇处。这里每天早上8点开放至凌晨1点，无论工作日还是周末，早上8点到10点都是人最少的时段；而周末上午11点到晚上10点则是人流最集中的时候。来这里，值得看的是入口处残存的阿拉伯时期城墙遗迹和树荫下的座椅，而不是那种五分钟拍照走人的打卡点。
 faq:
   - q: 凯旋花园的开放时间是怎样的？

@@ -1,60 +1,84 @@
 ---
-title: "Parc de Merlet: Chamonix Travel Guide (4.6★)"
-description: "Parc de Merlet is a hillside animal park and hiking reserve above Les Houches, on the Chamonix valley's south side, open Tuesday to Sunday from 10am to 6pm (closed Mondays). 4.6★ (4,097 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Chamonix"
-category: "attraction"
-pubDate: "2026-09-20T07:50:05.781Z"
+title: 'Parc de Merlet: Chamonix Travel Guide (4.6★)'
+description: >-
+  Parc de Merlet is a hillside animal park and hiking reserve above Les Houches,
+  on the Chamonix valley's south side, open Tuesday to Sunday from 10am to 6pm
+  (closed Mondays). 4.6★ (4,101 reviews) — what visitors say, hours, and tips.
+country: France
+region: Chamonix
+category: attraction
+pubDate: '2026-09-20T07:50:05.781Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/7/7d/Parc_de_Merlet_et_Massif_du_Mont-Blanc_%28juin_2022%29.JPG"
-  credit: "Photo: Florian Pépellin / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Parc_de_Merlet_et_Massif_du_Mont-Blanc_(juin_2022).JPG"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/7d/Parc_de_Merlet_et_Massif_du_Mont-Blanc_%28juin_2022%29.JPG
+  credit: 'Photo: Florian Pépellin / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Parc_de_Merlet_et_Massif_du_Mont-Blanc_(juin_2022).JPG
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Myosotis_en_fleurs_au_Parc_Merlet_aux_Houches_%28juin_2022%29.JPG"
-    credit: "Photo: Florian Pépellin / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Myosotis_en_fleurs_au_Parc_Merlet_aux_Houches_(juin_2022).JPG"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/c/c0/Myosotis_en_fleurs_au_Parc_Merlet_aux_Houches_%28juin_2022%29.JPG
+    credit: 'Photo: Florian Pépellin / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Myosotis_en_fleurs_au_Parc_Merlet_aux_Houches_(juin_2022).JPG
 place:
-  id: "ChIJCaYNGsFRiUcRdoSNZlguMPs"
-  name: "Parc de Merlet"
-  address: "2495 Chem. de Merlet, 74310 Les Houches, France"
+  id: ChIJCaYNGsFRiUcRdoSNZlguMPs
+  name: Parc de Merlet
+  address: '2495 Chem. de Merlet, 74310 Les Houches, France'
   rating: 4.6
-  userRatingsTotal: 4097
-  googleMapsUrl: "https://maps.google.com/?cid=18100017859614573686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4101
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=18100017859614573686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.907368299999995
   lng: 6.8186984
-  phone: "+33 7 67 22 82 69"
+  phone: +33 7 67 22 82 69
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 6:00 PM"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
 tags:
-  - "chamonix"
-  - "park"
-quickAnswer: "Parc de Merlet is a hillside animal park and hiking reserve above Les Houches, on the Chamonix valley's south side, open Tuesday to Sunday from 10am to 6pm (closed Mondays). Come for semi-free-roaming marmots, chamois and deer against Mont Blanc views, and allow 1.5 to 2.5 hours for the loop trails. Arrive early or late in the opening window to avoid coach groups."
+  - chamonix
+  - park
+quickAnswer: >-
+  Parc de Merlet is a hillside animal park and hiking reserve above Les Houches,
+  on the Chamonix valley's south side, open Tuesday to Sunday from 10am to 6pm
+  (closed Mondays). Come for semi-free-roaming marmots, chamois and deer against
+  Mont Blanc views, and allow 1.5 to 2.5 hours for the loop trails. Arrive early
+  or late in the opening window to avoid coach groups.
 faq:
-  - q: "Where exactly is Parc de Merlet?"
-    a: "At 2495 Chemin de Merlet, above the village of Les Houches, on the south side of the Chamonix valley facing Mont Blanc."
-  - q: "What are the opening hours?"
-    a: "Tuesday to Sunday, 10am to 6pm. Closed all day Monday, with no shortened hours on any other day."
-  - q: "How long should I plan for a visit?"
-    a: "Budget 1.5 to 2.5 hours to walk the full trail network through meadow and forest enclosures."
-  - q: "How do I get there without a car?"
-    a: "Take the Mont Blanc Express train to Les Houches station, then a taxi for the final climb up Chemin de Merlet; there's no direct bus to the gate."
-  - q: "When is it quietest?"
-    a: "Right at the 10am opening or in the last couple of hours before 6pm closing, before mid-morning tour groups arrive and after they've left."
+  - q: Where exactly is Parc de Merlet?
+    a: >-
+      At 2495 Chemin de Merlet, above the village of Les Houches, on the south
+      side of the Chamonix valley facing Mont Blanc.
+  - q: What are the opening hours?
+    a: >-
+      Tuesday to Sunday, 10am to 6pm. Closed all day Monday, with no shortened
+      hours on any other day.
+  - q: How long should I plan for a visit?
+    a: >-
+      Budget 1.5 to 2.5 hours to walk the full trail network through meadow and
+      forest enclosures.
+  - q: How do I get there without a car?
+    a: >-
+      Take the Mont Blanc Express train to Les Houches station, then a taxi for
+      the final climb up Chemin de Merlet; there's no direct bus to the gate.
+  - q: When is it quietest?
+    a: >-
+      Right at the 10am opening or in the last couple of hours before 6pm
+      closing, before mid-morning tour groups arrive and after they've left.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-20'
 ---
 
 ## What you're actually visiting

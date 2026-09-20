@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: kyoto-kyoto-botanical-gardens
-srcHash: 'e3a2818ccafb'
+srcHash: '567a4668fb02'
 title: 'Jardín Botánico de Kioto: Guía de viaje (4,4★)'
-description: 'El Jardín Botánico de Kioto se encuentra en Shimogamo, distrito de Sakyo, a poca distancia a pie del río Kamo, y abre todos los días del año de 9:00 a 17:00. 4,4★ (7.539 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Jardín Botánico de Kioto se encuentra en Shimogamo, distrito de Sakyo, a poca distancia a pie del río Kamo, y abre todos los días del año de 9:00 a 17:00. 4,4★ (7.540 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Jardín Botánico de Kioto se encuentra en Shimogamo, distrito de Sakyo, a poca distancia a pie del río Kamo, y abre todos los días del año de 9:00 a 17:00. Atrae a grandes multitudes durante la floración de los cerezos en primavera y el follaje otoñal, por lo que se trata de un lugar muy visitado y no de un secreto local tranquilo. Conviene reservar de dos a tres horas, más si el invernadero y la rosaleda coinciden en temporada.
 faq:
   - q: ¿Cómo se llega al Jardín Botánico de Kioto?

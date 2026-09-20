@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: florence-boboli-gardens
-srcHash: '847d3d81a796'
+srcHash: '9a01e59cb16f'
 title: 'Jardines de Bóboli: guía de viaje de Florencia (4,2★)'
-description: 'Los Jardines de Bóboli se extienden detrás del Palacio Pitti, en el lado del Oltrarno de Florencia, y abren todos los días de 8:15 a 19:10. 4,2★ (30.902 reseñas): opiniones de los visitantes, horarios y consejos prácticos.'
+description: 'Los Jardines de Bóboli se extienden detrás del Palacio Pitti, en el lado del Oltrarno de Florencia, y abren todos los días de 8:15 a 19:10. 4,2★ (30.913 reseñas): opiniones de los visitantes, horarios y consejos prácticos.'
 quickAnswer: Los Jardines de Bóboli se extienden detrás del Palacio Pitti, en el lado del Oltrarno de Florencia, y abren todos los días de 8:15 a 19:10. Entre semana, el momento más tranquilo es de 17:00 a 19:00; los fines de semana el flujo de visitantes es más constante durante todo el día, aunque entre las 11:00 y las 17:00 se concentra la mayor afluencia. Conviene reservar al menos 90 minutos para llegar sin prisas hasta las terrazas superiores y el Kaffeehaus.
 faq:
   - q: ¿Cuánto tiempo conviene dedicar a los Jardines de Bóboli?

@@ -1,44 +1,51 @@
 ---
-title: "Jardines del Triunfo: Granada Travel Guide (4.6★)"
-description: "Jardines del Triunfo is a large public park at the edge of Granada's Albaicín, where C. Ancha de Capuchinos meets the old Puerta de Elvira gateway. 4.6★ (9,327 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "Granada"
-category: "attraction"
-pubDate: "2026-09-20T07:44:51.305Z"
+title: 'Jardines del Triunfo: Granada Travel Guide (4.6★)'
+description: >-
+  Jardines del Triunfo is a large public park at the edge of Granada's Albaicín,
+  where C. Ancha de Capuchinos meets the old Puerta de Elvira gateway. 4.6★
+  (9,328 reviews) — what visitors say, hours, and tips.
+country: Spain
+region: Granada
+category: attraction
+pubDate: '2026-09-20T07:44:51.305Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/a/a7/Jardines_del_Triunfo_%28Granada%29.jpg"
-  credit: "Photo: Tony Bowden / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Jardines_del_Triunfo_(Granada).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/a7/Jardines_del_Triunfo_%28Granada%29.jpg
+  credit: 'Photo: Tony Bowden / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Jardines_del_Triunfo_(Granada).jpg'
+  via: act
   focus:
     x: 68
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Jardines_del_Triunfo_de_Granada%2C_julio_de_2017%2C_foto_02.jpg/3840px-Jardines_del_Triunfo_de_Granada%2C_julio_de_2017%2C_foto_02.jpg"
-    credit: "Photo: Eunostos / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Jardines_del_Triunfo_de_Granada,_julio_de_2017,_foto_02.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Jardines_del_Triunfo_de_Granada%2C_julio_de_2017%2C_foto_02.jpg/3840px-Jardines_del_Triunfo_de_Granada%2C_julio_de_2017%2C_foto_02.jpg
+    credit: 'Photo: Eunostos / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Jardines_del_Triunfo_de_Granada,_julio_de_2017,_foto_02.jpg
 place:
-  id: "ChIJ5TXW-On8cQ0Rh-w9saVYfbk"
-  name: "Jardines del Triunfo"
-  address: "C. Ancha de Capuchinos, s/n, Albaicín, 18012 Granada, Spain"
+  id: ChIJ5TXW-On8cQ0Rh-w9saVYfbk
+  name: Jardines del Triunfo
+  address: 'C. Ancha de Capuchinos, s/n, Albaicín, 18012 Granada, Spain'
   rating: 4.6
-  userRatingsTotal: 9327
-  googleMapsUrl: "https://maps.google.com/?cid=13365936737771973767&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 9328
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13365936737771973767&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.183933499999995
   lng: -3.6019278000000003
   openingHours:
-    - "Monday: 8:00 AM – 1:00 AM"
-    - "Tuesday: 8:00 AM – 1:00 AM"
-    - "Wednesday: 8:00 AM – 1:00 AM"
-    - "Thursday: 8:00 AM – 1:00 AM"
-    - "Friday: 8:00 AM – 1:00 AM"
-    - "Saturday: 8:00 AM – 1:00 AM"
-    - "Sunday: 8:00 AM – 1:00 AM"
+    - 'Monday: 8:00 AM – 1:00 AM'
+    - 'Tuesday: 8:00 AM – 1:00 AM'
+    - 'Wednesday: 8:00 AM – 1:00 AM'
+    - 'Thursday: 8:00 AM – 1:00 AM'
+    - 'Friday: 8:00 AM – 1:00 AM'
+    - 'Saturday: 8:00 AM – 1:00 AM'
+    - 'Sunday: 8:00 AM – 1:00 AM'
   busyness:
-    updated: 2026-09-20
+    updated: 2026-09-20T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -55,24 +62,40 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_6b62665956617339772d6852305163386e4f2d575854354a496843"
+    venueId: ven_6b62665956617339772d6852305163386e4f2d575854354a496843
 tags:
-  - "granada"
-  - "park"
-quickAnswer: "Jardines del Triunfo is a large public park at the edge of Granada's Albaicín, where C. Ancha de Capuchinos meets the old Puerta de Elvira gateway. It's open daily from 8am to 1am, with the calmest hours 8am–10am on both weekdays and weekends; weekends from 11am to 10pm draw the biggest crowds. Come for the fragments of Arabic-era fortification at the entrance and the shaded benches, not for a quick five-minute photo stop."
+  - granada
+  - park
+quickAnswer: >-
+  Jardines del Triunfo is a large public park at the edge of Granada's Albaicín,
+  where C. Ancha de Capuchinos meets the old Puerta de Elvira gateway. It's open
+  daily from 8am to 1am, with the calmest hours 8am–10am on both weekdays and
+  weekends; weekends from 11am to 10pm draw the biggest crowds. Come for the
+  fragments of Arabic-era fortification at the entrance and the shaded benches,
+  not for a quick five-minute photo stop.
 faq:
-  - q: "What are the opening hours for Jardines del Triunfo?"
-    a: "It's open every day from 8:00 AM to 1:00 AM, one of the longer daily schedules of any park in Granada."
-  - q: "When is the quietest time to visit?"
-    a: "Both weekdays and weekends are calmest between 8am and 10am. Weekends from 11am to 10pm are the busiest stretch, so avoid that window if you want space."
-  - q: "Is there an entry fee?"
-    a: "No, it's a free public park with open access at all hours."
-  - q: "How do I get there from central Granada?"
-    a: "It's roughly a 15 to 20 minute walk from Plaza Nueva or the cathedral, and several buses along Gran Vía de Colón stop close by."
-  - q: "What's nearby worth combining with a visit?"
-    a: "The Puerta de Elvira gateway sits right across the road, and the park is a natural starting point before walking up into the Albaicín."
+  - q: What are the opening hours for Jardines del Triunfo?
+    a: >-
+      It's open every day from 8:00 AM to 1:00 AM, one of the longer daily
+      schedules of any park in Granada.
+  - q: When is the quietest time to visit?
+    a: >-
+      Both weekdays and weekends are calmest between 8am and 10am. Weekends from
+      11am to 10pm are the busiest stretch, so avoid that window if you want
+      space.
+  - q: Is there an entry fee?
+    a: 'No, it''s a free public park with open access at all hours.'
+  - q: How do I get there from central Granada?
+    a: >-
+      It's roughly a 15 to 20 minute walk from Plaza Nueva or the cathedral, and
+      several buses along Gran Vía de Colón stop close by.
+  - q: What's nearby worth combining with a visit?
+    a: >-
+      The Puerta de Elvira gateway sits right across the road, and the park is a
+      natural starting point before walking up into the Albaicín.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-20'
 ---
 
 ## What you're actually looking at

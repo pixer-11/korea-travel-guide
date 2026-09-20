@@ -1,60 +1,88 @@
 ---
-title: "Kyoto Botanical Gardens: Travel Guide (4.4★)"
-description: "Kyoto Botanical Gardens sits in Shimogamo, Sakyo Ward, a short walk from the Kamo River, and it's open daily from 9am to 5pm year-round. 4.4★ (7,539 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Kyoto"
-category: "attraction"
-pubDate: "2026-09-20T07:39:27.729Z"
+title: 'Kyoto Botanical Gardens: Travel Guide (4.4★)'
+description: >-
+  Kyoto Botanical Gardens sits in Shimogamo, Sakyo Ward, a short walk from the
+  Kamo River, and it's open daily from 9am to 5pm year-round. 4.4★ (7,540
+  reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Kyoto
+category: attraction
+pubDate: '2026-09-20T07:39:27.729Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Round_fountain_surrounded_by_trees_under_a_stormy_sky_in_Kyoto_Botanical_Garden_Japan.jpg/3840px-Round_fountain_surrounded_by_trees_under_a_stormy_sky_in_Kyoto_Botanical_Garden_Japan.jpg"
-  credit: "Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Round_fountain_surrounded_by_trees_under_a_stormy_sky_in_Kyoto_Botanical_Garden_Japan.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Round_fountain_surrounded_by_trees_under_a_stormy_sky_in_Kyoto_Botanical_Garden_Japan.jpg/3840px-Round_fountain_surrounded_by_trees_under_a_stormy_sky_in_Kyoto_Botanical_Garden_Japan.jpg
+  credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Round_fountain_surrounded_by_trees_under_a_stormy_sky_in_Kyoto_Botanical_Garden_Japan.jpg
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kyoto_Botanical_Garden_Hdsr_IMG_8253.jpg/3840px-Kyoto_Botanical_Garden_Hdsr_IMG_8253.jpg"
-    credit: "Photo: Hyppolyte de Saint-Rambert / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Kyoto_Botanical_Garden_Hdsr_IMG_8253.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kyoto_Botanical_Garden_Hdsr_IMG_8253.jpg/3840px-Kyoto_Botanical_Garden_Hdsr_IMG_8253.jpg
+    credit: 'Photo: Hyppolyte de Saint-Rambert / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Kyoto_Botanical_Garden_Hdsr_IMG_8253.jpg
 place:
-  id: "ChIJ1e95GRsIAWARxYokwoFuups"
-  name: "Kyoto Botanical Gardens"
-  address: "Shimogamo Hangicho, Sakyo Ward, Kyoto, 606-0823, Japan"
+  id: ChIJ1e95GRsIAWARxYokwoFuups
+  name: Kyoto Botanical Gardens
+  address: 'Shimogamo Hangicho, Sakyo Ward, Kyoto, 606-0823, Japan'
   rating: 4.4
-  userRatingsTotal: 7539
-  googleMapsUrl: "https://maps.google.com/?cid=11221402925134023365&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 7540
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11221402925134023365&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.048617199999995
   lng: 135.7630378
-  phone: "+81 75-701-0141"
+  phone: +81 75-701-0141
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
 tags:
-  - "kyoto"
-  - "park"
-quickAnswer: "Kyoto Botanical Gardens sits in Shimogamo, Sakyo Ward, a short walk from the Kamo River, and it's open daily from 9am to 5pm year-round. It draws big crowds for spring cherry blossoms and autumn foliage, so this is a well-visited spot rather than a quiet local secret. Plan on two to three hours, more if the conservatory and rose garden are both in season."
+  - kyoto
+  - park
+quickAnswer: >-
+  Kyoto Botanical Gardens sits in Shimogamo, Sakyo Ward, a short walk from the
+  Kamo River, and it's open daily from 9am to 5pm year-round. It draws big
+  crowds for spring cherry blossoms and autumn foliage, so this is a
+  well-visited spot rather than a quiet local secret. Plan on two to three
+  hours, more if the conservatory and rose garden are both in season.
 faq:
-  - q: "How do I get to Kyoto Botanical Gardens?"
-    a: "Take the Karasuma subway line to Kitayama Station (main north entrance, exit 3) or Kitaoji Station, one stop south, for a second entrance. Both are a short walk from the ticket gates."
-  - q: "What are the opening hours?"
-    a: "The gardens are open daily, including weekends, from 9:00 AM to 5:00 PM year-round, with no shortened or closed days listed."
-  - q: "Is the greenhouse included in general admission?"
-    a: "No. The conservatory (greenhouse) requires a separate ticket bought at its own entrance about a five-minute walk from the main gate; check current combined pricing at the gate."
-  - q: "When is the best time to visit for cherry blossoms or autumn colour?"
-    a: "Late March to early April for the cherry grove, mid-to-late November for the maples around the pond garden. Both are the garden's busiest periods, so weekday mornings right at opening are calmer than weekend afternoons."
-  - q: "How long should I plan for a visit?"
-    a: "Budget two to three hours for a full loop of the 24-hectare grounds, more if you're adding the conservatory or planning a picnic on the central lawn."
+  - q: How do I get to Kyoto Botanical Gardens?
+    a: >-
+      Take the Karasuma subway line to Kitayama Station (main north entrance,
+      exit 3) or Kitaoji Station, one stop south, for a second entrance. Both
+      are a short walk from the ticket gates.
+  - q: What are the opening hours?
+    a: >-
+      The gardens are open daily, including weekends, from 9:00 AM to 5:00 PM
+      year-round, with no shortened or closed days listed.
+  - q: Is the greenhouse included in general admission?
+    a: >-
+      No. The conservatory (greenhouse) requires a separate ticket bought at its
+      own entrance about a five-minute walk from the main gate; check current
+      combined pricing at the gate.
+  - q: When is the best time to visit for cherry blossoms or autumn colour?
+    a: >-
+      Late March to early April for the cherry grove, mid-to-late November for
+      the maples around the pond garden. Both are the garden's busiest periods,
+      so weekday mornings right at opening are calmer than weekend afternoons.
+  - q: How long should I plan for a visit?
+    a: >-
+      Budget two to three hours for a full loop of the 24-hectare grounds, more
+      if you're adding the conservatory or planning a picnic on the central
+      lawn.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-20'
 ---
 
 Most first-time visitors expect a small municipal park and instead find themselves walking for twenty minutes without reaching the far fence. Kyoto Botanical Gardens covers over 24 hectares in the Shimogamo area of Sakyo Ward, making it one of the largest botanical gardens in Japan, and the scale changes how you should plan the visit.

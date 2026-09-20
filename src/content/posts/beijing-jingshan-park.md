@@ -1,37 +1,46 @@
 ---
-title: "Jingshan Park: Beijing Travel Guide (4.6★)"
-description: "Jingshan Park sits directly north of the Forbidden City in Xicheng District, Beijing, and its central hill is the single best vantage point over the palace's golden roofs. 4.6★ (1,526 reviews) — what visitors say, hours, and tips."
-country: "China"
-region: "Beijing"
-category: "attraction"
-pubDate: "2026-09-20T07:43:52.116Z"
+title: 'Jingshan Park: Beijing Travel Guide (4.6★)'
+description: >-
+  Jingshan Park sits directly north of the Forbidden City in Xicheng District,
+  Beijing, and its central hill is the single best vantage point over the
+  palace's golden roofs. 4.6★ (1,527 reviews) — what visitors say, hours, and
+  tips.
+country: China
+region: Beijing
+category: attraction
+pubDate: '2026-09-20T07:43:52.116Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Beijing_Jingshan_Park_Pavilion_%2810553761515%29.jpg/3840px-Beijing_Jingshan_Park_Pavilion_%2810553761515%29.jpg"
-  credit: "Photo: Gary Todd from Xinzheng, China / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Beijing_Jingshan_Park_Pavilion_(10553761515).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Beijing_Jingshan_Park_Pavilion_%2810553761515%29.jpg/3840px-Beijing_Jingshan_Park_Pavilion_%2810553761515%29.jpg
+  credit: 'Photo: Gary Todd from Xinzheng, China / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Beijing_Jingshan_Park_Pavilion_(10553761515).jpg
+  via: act
   focus:
     x: 55
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/View_over_Forbidden_City_to_Jingshan_Park%2C_Beijing%2C_in_smog.jpg/3840px-View_over_Forbidden_City_to_Jingshan_Park%2C_Beijing%2C_in_smog.jpg"
-    credit: "Photo: Daniel Case / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:View_over_Forbidden_City_to_Jingshan_Park,_Beijing,_in_smog.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/View_over_Forbidden_City_to_Jingshan_Park%2C_Beijing%2C_in_smog.jpg/3840px-View_over_Forbidden_City_to_Jingshan_Park%2C_Beijing%2C_in_smog.jpg
+    credit: 'Photo: Daniel Case / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:View_over_Forbidden_City_to_Jingshan_Park,_Beijing,_in_smog.jpg
 place:
-  id: "ChIJiaRNz-BS8DURW2N_nAufVJU"
-  name: "Jingshan Park"
-  address: "44 Jing Shan Xi Jie, 景山 Xi Cheng Qu, Bei Jing Shi, China, 100009"
+  id: ChIJiaRNz-BS8DURW2N_nAufVJU
+  name: Jingshan Park
+  address: '44 Jing Shan Xi Jie, 景山 Xi Cheng Qu, Bei Jing Shi, China, 100009'
   rating: 4.6
-  userRatingsTotal: 1526
-  googleMapsUrl: "https://maps.google.com/?cid=10760400281914008411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1527
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10760400281914008411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 39.9250988
   lng: 116.39684329999999
-  phone: "+86 10 6403 8098"
+  phone: +86 10 6403 8098
   busyness:
-    updated: 2026-09-20
+    updated: 2026-09-20T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -62,24 +71,44 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_554a566675416e5f4e32575255443853422d7a4e5261694a496843"
+    venueId: ven_554a566675416e5f4e32575255443853422d7a4e5261694a496843
 tags:
-  - "beijing"
-  - "park"
-quickAnswer: "Jingshan Park sits directly north of the Forbidden City in Xicheng District, Beijing, and its central hill is the single best vantage point over the palace's golden roofs. It's calmest on weekdays and weekends alike between 7am and 11am; avoid noon to 10pm on weekends when the paths fill up. Budget 45–60 minutes for the climb and viewing pavilion."
+  - beijing
+  - park
+quickAnswer: >-
+  Jingshan Park sits directly north of the Forbidden City in Xicheng District,
+  Beijing, and its central hill is the single best vantage point over the
+  palace's golden roofs. It's calmest on weekdays and weekends alike between 7am
+  and 11am; avoid noon to 10pm on weekends when the paths fill up. Budget 45–60
+  minutes for the climb and viewing pavilion.
 faq:
-  - q: "How do I get to Jingshan Park?"
-    a: "Walk north from the Forbidden City's Shenwumen (North Gate); the park's south gate faces it directly. By subway, Line 6's Beihai North station is about a 10-minute walk, Line 8's Shichahai station about 15 minutes."
-  - q: "What is the best time to visit for the view and fewest crowds?"
-    a: "7am to 11am on either a weekday or weekend is consistently the quietest window. Weekends get busy from noon through 10pm, so avoid arriving midday if you can."
-  - q: "How long does a visit take?"
-    a: "Most people spend 45–60 minutes: the climb to Wanchun Pavilion, time at the top for photos, and a walk back down through one of the side gardens."
-  - q: "Is there an entrance fee?"
-    a: "Yes, a small fee is charged at all gates (south, north, east, west); most visitors pay by mobile QR code (Alipay/WeChat Pay), though cash is generally accepted too."
-  - q: "What else is nearby?"
-    a: "The Forbidden City is immediately south, Beihai Park is a short walk west, and the Shichahai lake district with its hutongs is about 15 minutes on foot."
+  - q: How do I get to Jingshan Park?
+    a: >-
+      Walk north from the Forbidden City's Shenwumen (North Gate); the park's
+      south gate faces it directly. By subway, Line 6's Beihai North station is
+      about a 10-minute walk, Line 8's Shichahai station about 15 minutes.
+  - q: What is the best time to visit for the view and fewest crowds?
+    a: >-
+      7am to 11am on either a weekday or weekend is consistently the quietest
+      window. Weekends get busy from noon through 10pm, so avoid arriving midday
+      if you can.
+  - q: How long does a visit take?
+    a: >-
+      Most people spend 45–60 minutes: the climb to Wanchun Pavilion, time at
+      the top for photos, and a walk back down through one of the side gardens.
+  - q: Is there an entrance fee?
+    a: >-
+      Yes, a small fee is charged at all gates (south, north, east, west); most
+      visitors pay by mobile QR code (Alipay/WeChat Pay), though cash is
+      generally accepted too.
+  - q: What else is nearby?
+    a: >-
+      The Forbidden City is immediately south, Beihai Park is a short walk west,
+      and the Shichahai lake district with its hutongs is about 15 minutes on
+      foot.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-20'
 ---
 
 Jingshan Park is an artificial hill built from the earth dug out to create the Forbidden City's moats, piled up directly behind the palace's north gate. That's the whole trick of the place: climb roughly 45 meters and the entire Forbidden City unrolls below in a straight axis of yellow roof tiles.

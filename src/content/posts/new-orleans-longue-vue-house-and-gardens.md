@@ -1,37 +1,42 @@
 ---
-title: "Longue Vue House and Gardens: New Orleans Travel Guide"
-description: "Longue Vue House and Gardens is an 8-acre 1940s estate near City Park, mixing a decorative-arts mansion with fountains, ponds and formal gardens. 4.7★ (819 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "New Orleans"
-category: "attraction"
-pubDate: "2026-08-08T08:08:02.203Z"
+title: 'Longue Vue House and Gardens: New Orleans Travel Guide'
+description: >-
+  Longue Vue House and Gardens is an 8-acre 1940s estate near City Park, mixing
+  a decorative-arts mansion with fountains, ponds and formal gardens. 4.7★ (824
+  reviews) — what visitors say, hours, and tips.
+country: United States
+region: New Orleans
+category: attraction
+pubDate: '2026-08-08T08:08:02.203Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Longue_Vue_House_and_Gardens.jpg/1920px-Longue_Vue_House_and_Gardens.jpg"
-  credit: "Photo: Navin75 / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Longue_Vue_House_and_Gardens.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Longue_Vue_House_and_Gardens.jpg/1920px-Longue_Vue_House_and_Gardens.jpg
+  credit: 'Photo: Navin75 / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Longue_Vue_House_and_Gardens.jpg'
 gallery: []
 place:
-  id: "ChIJR9tn_4ivIIYRb66xF_fdRQs"
-  name: "Longue Vue House and Gardens"
-  address: "7 Bamboo Rd, New Orleans, LA 70124, USA"
+  id: ChIJR9tn_4ivIIYRb66xF_fdRQs
+  name: Longue Vue House and Gardens
+  address: '7 Bamboo Rd, New Orleans, LA 70124, USA'
   rating: 4.7
-  userRatingsTotal: 819
-  googleMapsUrl: "https://maps.google.com/?cid=812299361134423663&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 824
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=812299361134423663&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 29.977113000000003
   lng: -90.1227756
-  phone: "+1 504-488-5488"
+  phone: +1 504-488-5488
   openingHours:
-    - "Monday: 8:00 AM – 5:00 PM"
-    - "Tuesday: 8:00 AM – 5:00 PM"
-    - "Wednesday: 8:00 AM – 5:00 PM"
-    - "Thursday: 8:00 AM – 5:00 PM"
-    - "Friday: 8:00 AM – 5:00 PM"
-    - "Saturday: 8:00 AM – 5:00 PM"
-    - "Sunday: 8:00 AM – 5:00 PM"
+    - 'Monday: 8:00 AM – 5:00 PM'
+    - 'Tuesday: 8:00 AM – 5:00 PM'
+    - 'Wednesday: 8:00 AM – 5:00 PM'
+    - 'Thursday: 8:00 AM – 5:00 PM'
+    - 'Friday: 8:00 AM – 5:00 PM'
+    - 'Saturday: 8:00 AM – 5:00 PM'
+    - 'Sunday: 8:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-08
+    updated: 2026-08-08T00:00:00.000Z
     weekdayQuiet:
       - 8
     weekendQuiet:
@@ -43,24 +48,42 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_73515264665f4678363662525949497669345f6e7439524a496843"
+    venueId: ven_73515264665f4678363662525949497669345f6e7439524a496843
 tags:
-  - "new orleans"
-  - "historic site"
-quickAnswer: "Longue Vue House and Gardens is an 8-acre 1940s estate near City Park, mixing a decorative-arts mansion with fountains, ponds and formal gardens. It's quiet and under-visited compared to the city's big-name sights — go right at opening (8-9am on weekdays) for the emptiest paths. Budget 90 minutes to two hours for house plus gardens."
+  - new orleans
+  - historic site
+quickAnswer: >-
+  Longue Vue House and Gardens is an 8-acre 1940s estate near City Park, mixing
+  a decorative-arts mansion with fountains, ponds and formal gardens. It's quiet
+  and under-visited compared to the city's big-name sights — go right at opening
+  (8-9am on weekdays) for the emptiest paths. Budget 90 minutes to two hours for
+  house plus gardens.
 faq:
-  - q: "How long should I plan for a visit?"
-    a: "Budget 90 minutes to two hours: about 45-60 minutes for a guided house tour and another 45-60 minutes to walk the 8 acres of gardens at your own pace."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays from 8am to 9am are the calmest hour of the week. On weekends, arrive between 8am and 10am before the 9am-to-4pm rush builds."
-  - q: "Do I need a car to get there?"
-    a: "It's easiest with a car, rideshare, or taxi — there's no direct public transit stop, but free on-site parking is available at 7 Bamboo Rd."
-  - q: "Can I just visit the gardens without the house tour?"
-    a: "Yes, the gardens are open for self-guided walking, while the interior is typically seen via docent-led tour — check the day's tour timing when you arrive."
-  - q: "What's nearby if I want to combine visits?"
-    a: "City Park, the New Orleans Museum of Art, and the Botanical Garden are all just minutes away, making Longue Vue an easy add-on to a City Park day."
+  - q: How long should I plan for a visit?
+    a: >-
+      Budget 90 minutes to two hours: about 45-60 minutes for a guided house
+      tour and another 45-60 minutes to walk the 8 acres of gardens at your own
+      pace.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays from 8am to 9am are the calmest hour of the week. On weekends,
+      arrive between 8am and 10am before the 9am-to-4pm rush builds.
+  - q: Do I need a car to get there?
+    a: >-
+      It's easiest with a car, rideshare, or taxi — there's no direct public
+      transit stop, but free on-site parking is available at 7 Bamboo Rd.
+  - q: Can I just visit the gardens without the house tour?
+    a: >-
+      Yes, the gardens are open for self-guided walking, while the interior is
+      typically seen via docent-led tour — check the day's tour timing when you
+      arrive.
+  - q: What's nearby if I want to combine visits?
+    a: >-
+      City Park, the New Orleans Museum of Art, and the Botanical Garden are all
+      just minutes away, making Longue Vue an easy add-on to a City Park day.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-20'
 ---
 You turn off a residential street near City Park and the city noise just stops. Live oaks lean over the drive, clipped hedges line up in tidy rows, and there's no line, no ticket-scanning crowd, just a gravel path and the sound of a fountain somewhere ahead.
 

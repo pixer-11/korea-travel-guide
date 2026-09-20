@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: granada-jardines-del-triunfo
-srcHash: '4eb25eea78a8'
+srcHash: 'ba2b7910facd'
 title: 'Jardines del Triunfo: Guía de viaje de Granada (4,6★)'
-description: 'Los Jardines del Triunfo son un amplio parque público situado en el límite del Albaicín de Granada, justo donde la C. Ancha de Capuchinos se encuentra con la antigua puerta de Elvira. 4,6★ (9.327 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Los Jardines del Triunfo son un amplio parque público situado en el límite del Albaicín de Granada, justo donde la C. Ancha de Capuchinos se encuentra con la antigua puerta de Elvira. 4,6★ (9.328 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Los Jardines del Triunfo son un amplio parque público situado en el límite del Albaicín de Granada, justo donde la C. Ancha de Capuchinos se encuentra con la antigua puerta de Elvira. Abren todos los días de 8:00 a 1:00, y las horas más tranquilas son de 8:00 a 10:00 tanto entre semana como los fines de semana; los fines de semana, de 11:00 a 22:00, es cuando se concentra más gente. Merece la pena venir por los restos de la fortificación de época árabe que hay en la entrada y por los bancos a la sombra, no como una parada rápida de cinco minutos para hacer una foto.
 faq:
   - q: ¿Cuál es el horario de los Jardines del Triunfo?

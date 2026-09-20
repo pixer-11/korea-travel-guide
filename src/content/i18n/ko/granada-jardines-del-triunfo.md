@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: granada-jardines-del-triunfo
-srcHash: '4eb25eea78a8'
+srcHash: 'ba2b7910facd'
 title: '하르디네스 델 트리운포: 그라나다 여행 가이드 (4.6★)'
-description: 하르디네스 델 트리운포(Jardines del Triunfo)는 그라나다 알바이신(Albaicín) 초입, 안차 데 카푸치노스 거리(C. Ancha de Capuchinos)와 옛 엘비라 성문(Puerta de Elvira)이 만나는 지점에 자리한 대형 공공 공원입니다. 4.6★(리뷰 9,327건) — 방문객들의 후기와 운영시간, 팁을 소개합니다.
+description: 하르디네스 델 트리운포(Jardines del Triunfo)는 그라나다 알바이신(Albaicín) 초입, 안차 데 카푸치노스 거리(C. Ancha de Capuchinos)와 옛 엘비라 성문(Puerta de Elvira)이 만나는 지점에 자리한 대형 공공 공원입니다. 4.6★(리뷰 9,328건) — 방문객들의 후기와 운영시간, 팁을 소개합니다.
 quickAnswer: 하르디네스 델 트리운포는 그라나다 알바이신 초입, 안차 데 카푸치노스 거리와 옛 엘비라 성문이 만나는 지점에 있는 대형 공공 공원입니다. 매일 오전 8시부터 새벽 1시까지 문을 열며, 평일과 주말 모두 오전 8시~10시가 가장 한산한 시간대입니다. 주말 오전 11시부터 밤 10시까지는 사람이 가장 많이 몰립니다. 5분 만에 사진 찍고 떠나는 곳이 아니라, 입구의 아랍 시대 성벽 흔적과 그늘진 벤치를 즐기러 가는 곳입니다.
 faq:
   - q: 하르디네스 델 트리운포의 운영시간은 어떻게 되나요?
