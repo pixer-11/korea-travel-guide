@@ -37,7 +37,7 @@ const ampm = (h) => {
   return `${hour}${suffix}`;
 };
 export function friendlyHours(summary) {
-  if (!summary) return null;
+  if (typeof summary !== 'string' || !summary) return null;
   return summary.replace(/(\d{1,2}):00-(\d{1,2}):00/g, (_, a, b) => {
     const from = ampm(a);
     const to = ampm(b);
@@ -50,17 +50,26 @@ export function friendlyHours(summary) {
 // Every rung is a fact already in the post's frontmatter. Nothing is inferred,
 // nothing is rounded into a promise, and no rung may carry a money amount.
 const SYMBOL = String.raw`[$€£¥₩฿₫₹]`;
-const CODE = String.raw`(?:usd|eur|gbp|jpy|krw|thb|vnd|idr|php|myr|sgd|hkd|twd|cny|rmb|inr|aed|sar|aud|nzd|cad|chf|try|rub|baht|won|yen|yuan|rupees?|rupiah|dirhams?|ringgit|pesos?|euros?|dollars?|pounds?)`;
-// A price can read "$12", "12 USD" or "USD 12" — all three keep a pin out.
-// Codex found the third shape walking straight through the old pattern, which
-// only looked for a code AFTER a number (2026-09-21).
+// ISO codes are matched CASE-SENSITIVELY, because several of them are ordinary
+// English words: a lowercase "try", "won", "cad" or "rub" is a verb, not money.
+// Blocking "Try 3 walking routes" is not a safe failure — it costs a good hook
+// for nothing (Codex, second pass 2026-09-21).
+const CODE = 'USD|EUR|GBP|JPY|KRW|THB|VND|IDR|PHP|MYR|SGD|HKD|TWD|CNY|RMB|INR|AED|SAR|AUD|NZD|CAD|CHF|TRY|RUB';
+// Spelled-out currencies are safe in lower case — no English homograph.
+const WORD = 'baht|won|yen|yuan|rupees?|rupiah|dirhams?|ringgit|pesos?|euros?|dollars?|pounds?|riyals?';
+// A price reads "$12", "12 USD", "USD 12", "20 €" or "USD  20" — all of them
+// keep a pin out. The symbol side needs no word boundary (€ is not a word
+// character, so \b next to it never matches what you expect).
 const MONEY = new RegExp(
   [
-    String.raw`${SYMBOL}\s?\d`,
-    String.raw`\b\d+([.,]\d+)?\s?(${CODE}|${SYMBOL})\b`,
-    String.raw`\b${CODE}\s?\d`,
-  ].join('|'),
-  'i');
+    String.raw`${SYMBOL}\s*\d`,
+    String.raw`\d\s*${SYMBOL}`,
+    String.raw`\b\d+([.,]\d+)?\s*(${CODE})\b`,
+    String.raw`\b(${CODE})\s*\d`,
+  ].join('|'))
+  ;
+const MONEY_WORD = new RegExp(String.raw`\b\d+([.,]\d+)?\s*(${WORD})\b`, 'i');
+const hasMoney = (text) => MONEY.test(String(text)) || MONEY_WORD.test(String(text));
 
 const DAYS = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
 
@@ -84,6 +93,16 @@ export function tidyClock(text) {
  * "Sunday : Closed" slipped past the day parser and the complement then
  * ANNOUNCED Sunday as open, and seven copies of Monday read as a full week.
  */
+// A value is only understood if it is the word Closed or a clock range. Codex's
+// second pass showed why the day NAMES were never the real risk: "Sunday:
+// Closed (temporarily)" parsed fine, was not the exact word "Closed", and so
+// the complement advertised Sunday as OPEN. Seven lines of "Hours unavailable"
+// printed "Open daily Hours unavailable." Anything not on this whitelist means
+// the venue's week is unknown, and an unknown week earns silence.
+const CLOSED_VALUE = /^closed$/i;
+const CLOCK_VALUE = /^\d{1,2}(:\d{2})?\s*[AP]M\s*[–—-]\s*\d{1,2}(:\d{2})?\s*[AP]M$/i;
+const OPEN_ALL_DAY = /^open 24 hours$/i;
+
 export function parseDayLines(lines) {
   if (!Array.isArray(lines) || lines.length !== 7) return null;
   const byDay = new Map();
@@ -92,7 +111,9 @@ export function parseDayLines(lines) {
     if (!m) return null;
     const day = m[1][0].toUpperCase() + m[1].slice(1).toLowerCase();
     if (!DAYS.includes(day) || byDay.has(day)) return null;
-    byDay.set(day, m[2].trim());
+    const value = m[2].trim();
+    if (!CLOSED_VALUE.test(value) && !CLOCK_VALUE.test(value) && !OPEN_ALL_DAY.test(value)) return null;
+    byDay.set(day, value);
   }
   return byDay.size === 7 ? byDay : null;
 }
@@ -114,6 +135,7 @@ const listOf = (xs) => (xs.length > 1 ? `${xs.slice(0, -1).join(', ')} and ${xs.
  * year already behind us. Pins are permanent, so perishable lines stay out.
  */
 export function isPerishable(text, now = new Date()) {
+  if (!(now instanceof Date) || Number.isNaN(now.getTime())) now = new Date();
   const t = String(text);
   if (/\b(was|were)\s+(set|scheduled|held|due|planned)\b|took place|has (ended|closed|wrapped)|\bended\b|\bran from\b/i.test(t)) return true;
   const thisYear = now.getFullYear();
@@ -124,26 +146,47 @@ export function isPerishable(text, now = new Date()) {
     if (y < thisYear && y >= thisYear - 5) return true;
   }
   // A date in the CURRENT year can already be behind us — "runs September
-  // 11-13, 2026" read on the 21st is a dead pin (Codex found this).
-  const MONTHS = ['january', 'february', 'march', 'april', 'may', 'june', 'july',
-    'august', 'september', 'october', 'november', 'december'];
-  for (const m of t.matchAll(/\b([A-Z][a-z]+)\s+(\d{1,2})(?:\s*[-–—]\s*(\d{1,2}))?(?:,\s*(\d{4}))?/g)) {
-    const month = MONTHS.indexOf(m[1].toLowerCase());
-    if (month < 0) continue;
-    const year = m[4] ? Number(m[4]) : thisYear;
-    if (year !== thisYear) continue;
-    const end = new Date(Date.UTC(year, month, Number(m[3] || m[2]), 23, 59, 59));
+  // 11-13, 2026" read on the 21st is a dead pin. Reading dates out of prose is
+  // where the second Codex pass found four false positives, so the rule is
+  // deliberately narrow now:
+  //   • the day number must be a real 1-31 that is NOT part of a longer number
+  //     ("May 1998" was being read as May the 19th)
+  //   • a year attached to the date wins, comma or no comma; a future one means
+  //     the sentence is not stale
+  //   • only the LAST date in a range decides ("September 11-October 13" is
+  //     still running on the 21st)
+  const MONTH = String.raw`(january|february|march|april|may|june|july|august|september|october|november|december)`;
+  const DAY = String.raw`(\d{1,2})(?!\d)`;
+  const RANGE = String.raw`(?:\s*[-–—]\s*(?:${MONTH}\s+)?${DAY})?`;
+  const YEAR = String.raw`(?:,?\s*(\d{4}))?`;
+  const dated = new RegExp(`\\b${MONTH}\\s+${DAY}${RANGE}${YEAR}`, 'gi');
+  for (const m of t.matchAll(dated)) {
+    const [, month1, day1, month2, day2, year] = m;
+    const y = year ? Number(year) : thisYear;
+    if (y !== thisYear) continue;            // other years are handled above
+    const monthName = (month2 || month1).toLowerCase();
+    const month = MONTHS.indexOf(monthName);
+    const day = Number(day2 || day1);
+    if (month < 0 || !(day >= 1 && day <= 31)) continue;
+    // "May" is also a verb: "May 20 people join each tour?" is not a date. Only
+    // treat a bare May as one when the sentence dates it — a range or a year.
+    if (month1.toLowerCase() === 'may' && !year && !day2) continue;
+    const end = new Date(Date.UTC(y, month, day, 23, 59, 59));
     if (end < now) return true;
   }
   return false;
 }
 
+const MONTHS = ['january', 'february', 'march', 'april', 'may', 'june', 'july',
+  'august', 'september', 'october', 'november', 'december'];
+
 /**
  * The opening sentence: the first rung that holds.
  * @returns {{text: string, kind: 'quiet'|'closed'|'hours'|'answer'} | null}
  */
-export function openingHook(post = {}) {
-  const place = post.place || {};
+export function openingHook(post) {
+  const place = (post && post.place) || {};
+  post = post || {};
 
   const quiet = friendlyHours(quietWindowSummary(place.busyness));
   if (quiet) return { text: `Quietest ${quiet}.`, kind: 'quiet' };
@@ -163,7 +206,7 @@ export function openingHook(post = {}) {
   }
 
   const daily = uniformHours(place.openingHours);
-  if (daily && !MONEY.test(daily)) return { text: `Open daily ${daily}.`, kind: 'hours' };
+  if (daily && !hasMoney(daily)) return { text: `Open daily ${daily}.`, kind: 'hours' };
 
   // The guide's own opening answer — already fact-checked at publish time.
   // A pin outlives the page it points at: Pinterest never re-reads a
@@ -172,7 +215,7 @@ export function openingHook(post = {}) {
   // and as a dead pin forever after — and the ended-event rewrites put that
   // past tense into the corpus on purpose.
   const first = String(post.quickAnswer || '').split(/(?<=[.!?])\s/)[0];
-  if (first && first.length >= 40 && first.length <= 220 && !MONEY.test(first) && !isPerishable(first)) {
+  if (first && first.length >= 40 && first.length <= 220 && !hasMoney(first) && !isPerishable(first)) {
     return { text: first.trim(), kind: 'answer' };
   }
   return null;
@@ -181,17 +224,25 @@ export function openingHook(post = {}) {
 // What the guide actually contains — claimed only when the body shows it, so a
 // pin never advertises a section the reader will not find (40% of guides have
 // no getting-there passage, and every pin used to promise one).
-export function offersLine(body = '', { hoursShown = false, hasHours = false } = {}) {
-  const text = String(body);
+// Two rounds of keyword guessing produced "how to get TICKETS" → a way there,
+// "paintings donated by taxi drivers" → a way there, and "less crowded than the
+// main hall" → crowd timing. Guessing from prose was the wrong question. Our
+// guides carry real headings — "Getting there" on 68% of them and "When to go"
+// on 72% — so the pin now claims a section only when the guide HAS that
+// section, which is what the sentence was always meant to say.
+const HEADING = /^#{2,4}\s*(.+)$/gm;
+const SECTIONS = [
+  { label: 'how to get there', match: /^(getting (there|around)|how to (get there|reach))/i },
+  { label: 'when to go to beat the crowds', match: /^(when to (go|visit)|best time)/i },
+];
+
+export function offersLine(body = '', opts = {}) {
+  const { hoursShown = false, hasHours = false } = opts || {};
+  const headings = [...String(body).matchAll(HEADING)].map((m) => m[1].trim());
   const offers = [];
   if (hasHours && !hoursShown) offers.push('opening hours');
-  // "how to get TICKETS" is not a way there (Codex found this).
-  if (/getting (there|around)|how to get to\b|nearest (station|stop)|take the (subway|metro|bus|train)|\bby (subway|metro|bus|train|taxi)\b/i.test(text)) {
-    offers.push('how to get there');
-  }
-  // …and a "quiet courtyard" is not a crowd-timing section.
-  if (/when to (go|visit)|best time to|beat the crowds|quiet(est)? (time|hour|window|moment)|less crowded|avoid the crowds/i.test(text)) {
-    offers.push('when to go to beat the crowds');
+  for (const { label, match } of SECTIONS) {
+    if (headings.some((h) => match.test(h))) offers.push(label);
   }
   if (!offers.length) return null;
   const s = listOf(offers);
@@ -205,7 +256,8 @@ export function offersLine(body = '', { hoursShown = false, hasHours = false } =
  *                       busyness, openingHours }
  * @param {string} body  the guide's markdown, so the pin only claims what is in it
  */
-export function pinDescription(post = {}, body = '') {
+export function pinDescription(post, body = '') {
+  post = post || {};
   const region = post.region || '';
   const country = post.country || '';
   const place = post.place || {};
@@ -241,8 +293,8 @@ export function pinDescription(post = {}, body = '') {
   // Same bar as every rung: the Google meta description does not get to skip
   // the money and perishability checks just because it arrives last.
   if (bits.length <= 2 && post.description) {
-    const firstSentence = String(post.description).split(/(?<=[.!?])s/)[0];
-    if (firstSentence && !MONEY.test(firstSentence) && !isPerishable(firstSentence)) {
+    const firstSentence = String(post.description).split(/(?<=[.!?])\s/)[0];
+    if (firstSentence && !hasMoney(firstSentence) && !isPerishable(firstSentence)) {
       bits.splice(1, 0, firstSentence);
     }
   }

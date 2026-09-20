@@ -22,7 +22,13 @@ test('한산한 시간이 맨 앞에 온다 — 우리만 가진 사실', () => 
 
 // The publisher always hands the guide's body over; these assertions do too,
 // because what the pin offers is now read out of the body (2026-09-21).
-const BODY = 'Getting there: Inari Station is two minutes away. When to go: before 8am the gates are empty.';
+const BODY = [
+  '## Getting there',
+  'Inari Station is two minutes away.',
+  '',
+  '## When to go',
+  'Before 8am the gates are empty.',
+].join('\n');
 
 test('장소·지역·평점·실용 정보가 순서대로 들어간다', () => {
   const d = pinDescription(POST, BODY);
@@ -104,16 +110,16 @@ test('지나간 이벤트 문장은 훅으로 쓰지 않는다 — 핀은 영구
 
 test('핀은 글에 없는 섹션을 약속하지 않는다', () => {
   const post = { title: 'Somewhere', region: 'Aberdeen', country: 'Hong Kong', place: { name: 'Somewhere', openingHours: ['Monday: 9:00 AM – 5:00 PM'] } };
-  const withDirections = pinDescription(post, 'Getting there: take the MTR to Aberdeen. When to go: mornings are quiet.');
+  const withDirections = pinDescription(post, ['## Getting there', 'Take the MTR to Aberdeen.', '', '## When to go', 'Mornings are quiet.'].join('\n'));
   assert.match(withDirections, /how to get there/);
-  const without = pinDescription(post, 'A seafront promenade. When to go: mornings are quiet.');
+  const without = pinDescription(post, ['A seafront promenade.', '', '## When to go', 'Mornings are quiet.'].join('\n'));
   assert.doesNotMatch(without, /how to get there/);
 });
 
 test('훅이 이미 영업시간을 말했으면 끝 문장에서 되풀이하지 않는다', () => {
   const hours = Array.from({ length: 7 }, (_, i) =>
     `${['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'][i]}: 9:00 AM – 7:00 PM`);
-  const d = pinDescription({ title: 'Museum', region: 'Pisa', country: 'Italy', place: { name: 'Museum', openingHours: hours } }, 'When to go: early. Getting there: bus 21.');
+  const d = pinDescription({ title: 'Museum', region: 'Pisa', country: 'Italy', place: { name: 'Museum', openingHours: hours } }, ['## When to go', 'Early.', '', '## Getting there', 'Bus 21.'].join('\n'));
   assert.doesNotMatch(d, /Opening hours/);
   assert.match(d, /^Open daily/);
 });
@@ -164,7 +170,7 @@ test('올해 안이라도 이미 지난 날짜면 훅으로 쓰지 않는다', (
 test('본문에 우연히 걸린 낱말은 섹션이 아니다', () => {
   assert.equal(offersLine('Learn how to get tickets online.'), null);
   assert.equal(offersLine('The quiet courtyard contains a bronze statue.'), null);
-  assert.equal(offersLine('Getting there: take the metro. When to go: mornings are quietest.'),
+  assert.equal(offersLine(['## Getting there', 'Take the metro.', '', '## When to go', 'Mornings are quietest.'].join('\n')),
     'How to get there and when to go to beat the crowds.');
 });
 
@@ -191,4 +197,67 @@ test('이상한 프론트매터에도 죽지 않는다', () => {
   assert.doesNotThrow(() => pinDescription({ place: null }, null));
   assert.doesNotThrow(() => pinDescription({ place: { openingHours: 'Monday: 9-5' } }, ''));
   assert.doesNotThrow(() => pinDescription({ place: { busyness: { weekdayQuiet: 'nonsense' } } }, ''));
+});
+
+// ── 2026-09-21, third pass: what the second Codex review found ───────────────
+// Three of these were regressions I introduced while fixing the first six —
+// patching regexes one at a time is how that happens. The fixes below move the
+// checks off keyword-guessing: section claims read the guide's HEADINGS, and an
+// opening-hours value must be a clock or the word Closed, nothing else.
+
+test('돈: 영어 낱말과 겹치는 통화코드로 멀쩡한 문장을 막지 않는다', () => {
+  // "Try" is not Turkish lira; "May" is not money either.
+  assert.ok(openingHook({ quickAnswer: 'Try 3 walking routes through the palace gardens before visiting the old museum.' }));
+  assert.ok(openingHook({ quickAnswer: 'Visitors may bring 20 guests to the museum on any weekday afternoon here.' }));
+});
+
+test('돈: 기호가 뒤에 오거나 공백이 둘이어도 막는다', () => {
+  assert.equal(openingHook({ quickAnswer: 'Admission costs 20 € for adults visiting the palace and its walled gardens.' }), null);
+  assert.equal(openingHook({ quickAnswer: 'Admission costs USD  20 for adults visiting the palace and its walled gardens.' }), null);
+});
+
+test('날짜: 진행 중인 기간·미래 연도를 지났다고 하지 않는다', () => {
+  const now = new Date('2026-09-21T12:00:00Z');
+  assert.equal(isPerishable('The festival runs September 11-October 13, 2026.', now), false);
+  assert.equal(isPerishable('The festival runs September 11-13 2027.', now), false);
+  assert.equal(isPerishable('The museum opened in May 1998 and retains its original courtyard.', now), false);
+  assert.equal(isPerishable('May 20 people join each guided tour of the permanent collection?', now), false);
+  // 소문자로 써도 지난 날짜는 지난 날짜다
+  assert.equal(isPerishable('The festival runs september 11-13, 2026.', now), true);
+});
+
+test('영업시간 값은 시계이거나 Closed여야 한다 — 그 외엔 아무 말도 하지 않는다', () => {
+  const odd = ['Monday: Closed', 'Tuesday: Closed', 'Wednesday: Closed', 'Thursday: Closed',
+    'Friday: 9:00 AM – 5:00 PM', 'Saturday: 9:00 AM – 5:00 PM', 'Sunday: Closed (temporarily)'];
+  const hook = openingHook({ place: { openingHours: odd } });
+  assert.equal(hook, null, '일요일이 휴무인데 영업일로 광고하면 안 된다');
+  const unknown = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+    .map((d) => `${d}: Hours unavailable`);
+  assert.equal(openingHook({ place: { openingHours: unknown } }), null);
+});
+
+test('섹션 약속은 본문 헤딩에서만 나온다 (낱말 추측 금지)', () => {
+  assert.equal(offersLine('The collection includes paintings donated by taxi drivers.'), null);
+  assert.equal(offersLine('This courtyard is less crowded than the main hall.'), null);
+  assert.equal(offersLine('The best time to photograph the facade is sunset.'), null);
+  assert.equal(offersLine('## Getting there\nTake the metro.\n\n## When to go\nMornings are quietest.'),
+    'How to get there and when to go to beat the crowds.');
+  assert.equal(offersLine('## Why go\nIt is beautiful.'), null);
+});
+
+test('폴백 문장 자르기가 살아 있다 (백슬래시 소실 회귀)', () => {
+  const d = pinDescription({
+    title: 'Garden', region: 'Kyoto', country: 'Japan',
+    description: 'A peaceful garden beside the river. Entry costs USD 20.',
+  }, '## Why go\nIt is lovely.');
+  assert.match(d, /A peaceful garden beside the river\./);
+  assert.doesNotMatch(d, /USD 20/);
+});
+
+test('이상한 인자에도 던지지 않는다', () => {
+  assert.doesNotThrow(() => friendlyHours(42));
+  assert.doesNotThrow(() => openingHook(null));
+  assert.doesNotThrow(() => pinDescription(null, null));
+  assert.doesNotThrow(() => offersLine('', null));
+  assert.doesNotThrow(() => isPerishable('', null));
 });
