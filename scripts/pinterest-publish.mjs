@@ -298,7 +298,11 @@ async function main() {
       const boardId = await ensureBoard(post.country, state);
       const link = `${SITE_URL}/posts/${post.slug}/`;
       // Written for Pinterest search, not for Google (lib/pin-description.mjs).
-      const description = pinDescription(post);
+      // The body rides along so the pin only advertises sections the guide has
+      // — four pins in ten used to promise a getting-there passage the post
+      // never had (measured 2026-09-21).
+      const { content: body } = matter(await readFile(join(POSTS_DIR, `${post.slug}.md`), 'utf8'));
+      const description = pinDescription(post, body);
       const pin = await api('/pins', {
         method: 'POST',
         body: JSON.stringify({
