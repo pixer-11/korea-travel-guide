@@ -20205,12 +20205,6 @@
     "reason": "publish gate: Exterior view of the Chinese-style temple building",
     "at": "2026-09-20T07:41:09.562Z"
   },
-  "provence-parc-national-du-mercantour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Parc_Natural_du_Mercantour_Col_de_la_Bonette_%282025-08-22%29.jpg/3840px-Parc_Natural_du_Mercantour_Col_de_la_Bonette_%282025-08-22%29.jpg": {
-    "slug": "provence-parc-national-du-mercantour",
-    "verdict": "MATCH",
-    "reason": "publish gate: Mountain landscape representative of Mercantour National Park",
-    "at": "2026-09-20T07:42:45.189Z"
-  },
   "beijing-jingshan-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Beijing_Jingshan_Park_Pavilion_%2810553761515%29.jpg/3840px-Beijing_Jingshan_Park_Pavilion_%2810553761515%29.jpg": {
     "slug": "beijing-jingshan-park",
     "verdict": "MATCH",
@@ -20270,5 +20264,12 @@
     "verdict": "MATCH",
     "reason": "publish gate: Equestrian statue in park, matches Tashkent landmark",
     "at": "2026-09-20T12:33:34.402Z"
+  },
+  "nice-parc-national-du-mercantour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Parc_Natural_du_Mercantour_Col_de_la_Bonette_%282025-08-22%29.jpg/3840px-Parc_Natural_du_Mercantour_Col_de_la_Bonette_%282025-08-22%29.jpg": {
+    "slug": "nice-parc-national-du-mercantour",
+    "verdict": "MATCH",
+    "reason": "Alpine mountain landscape consistent with Mercantour Nationa",
+    "reasonKo": "머캉투르 국립공원의 산악 경관과 일치",
+    "at": "2026-09-20T16:27:09.888Z"
   }
 }
