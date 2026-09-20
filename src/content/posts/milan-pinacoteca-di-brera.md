@@ -1,44 +1,34 @@
 ---
-title: 'Pinacoteca di Brera: Milan Travel Guide (4.7★)'
-description: >-
-  The Pinacoteca di Brera is Milan's great Renaissance picture gallery, tucked
-  on the upper floor of a 17th-century palazzo in the Brera district, a short
-  walk from Montenapoleone or Lanza metro (Line 2). 4.7★ (35,279 reviews) — what
-  visitors say, hours, and tips.
+title: "Pinacoteca di Brera: Milan Travel Guide (4.7★)"
+description: The Pinacoteca di Brera is Milan's great Renaissance picture gallery, tucked on the upper floor of a 17th-century palazzo in the Brera district, a short walk from Montenapoleone or Lanza metro (Line 2). 4.7★ (35,279 reviews) — what visitors say, hours, and tips.
 country: Italy
 region: Milan
 category: attraction
-pubDate: '2026-08-05T11:29:02.440Z'
+pubDate: "2026-08-05T11:29:02.440Z"
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Milan_-_Pinacoth%C3%A8que_de_Brera_-_Cour_int%C3%A9rieure.jpg/1920px-Milan_-_Pinacoth%C3%A8que_de_Brera_-_Cour_int%C3%A9rieure.jpg
-  credit: 'Photo: Jean-Christophe BENOIST / Wikimedia Commons (CC BY 3.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Milan_-_Pinacoth%C3%A8que_de_Brera_-_Cour_int%C3%A9rieure.jpg/1920px-Milan_-_Pinacoth%C3%A8que_de_Brera_-_Cour_int%C3%A9rieure.jpg
+  credit: "Photo: Jean-Christophe BENOIST / Wikimedia Commons (CC BY 3.0)"
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Milan_-_Pinacoth%C3%A8que_de_Brera_-_Cour_int%C3%A9rieure.jpg
+  source: https://commons.wikimedia.org/wiki/File:Milan_-_Pinacoth%C3%A8que_de_Brera_-_Cour_int%C3%A9rieure.jpg
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Pinacoteca_di_Brera_0100_01.jpg/3840px-Pinacoteca_di_Brera_0100_01.jpg
-    credit: 'Photo: FrDr / Wikimedia Commons (CC BY-SA 4.0)'
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Pinacoteca_di_Brera_0100_01.jpg/3840px-Pinacoteca_di_Brera_0100_01.jpg
+    credit: "Photo: FrDr / Wikimedia Commons (CC BY-SA 4.0)"
     license: wikimedia
-    source: 'https://commons.wikimedia.org/wiki/File:Pinacoteca_di_Brera_0100_01.jpg'
+    source: https://commons.wikimedia.org/wiki/File:Pinacoteca_di_Brera_0100_01.jpg
 place:
   id: ChIJH05-WBHuhkcRNjexLI56Nhs
   name: Pinacoteca di Brera
-  address: 'Via Brera, 28, 20121 Milano MI, Italy'
+  address: Via Brera, 28, 20121 Milano MI, Italy
   rating: 4.7
   userRatingsTotal: 35279
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=1960889438820185910&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=1960889438820185910&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 45.471954499999995
   lng: 9.1878145
   busyness:
     updated: 2026-08-05T00:00:00.000Z
     weekdayQuiet:
-      - 8
       - 18
-      - 19
     weekdayBusy:
       - 12
       - 13
@@ -46,9 +36,7 @@ place:
       - 15
       - 16
     weekendQuiet:
-      - 8
       - 18
-      - 19
     weekendBusy:
       - 10
       - 11
@@ -59,45 +47,34 @@ place:
       - 16
       - 17
     venueId: ven_73684e3635494c78656a4e52636b68754842572d3530484a496843
+  openingHours:
+    - "Monday: Closed"
+    - "Tuesday: 8:30 AM – 7:15 PM"
+    - "Wednesday: 8:30 AM – 7:15 PM"
+    - "Thursday: 8:30 AM – 7:15 PM"
+    - "Friday: 8:30 AM – 7:15 PM"
+    - "Saturday: 8:30 AM – 7:15 PM"
+    - "Sunday: 8:30 AM – 7:15 PM"
 tags:
   - milan
   - museum
-quickAnswer: >-
-  The Pinacoteca di Brera is Milan's great Renaissance picture gallery, tucked
-  on the upper floor of a 17th-century palazzo in the Brera district, a short
-  walk from Montenapoleone or Lanza metro (Line 2). Expect Mantegna's
-  foreshortened "Dead Christ," Piero della Francesca's Montefeltro altarpiece
-  and Raphael's "Marriage of the Virgin" in two hours or so. Go right at opening
-  or after 6pm to skip the weekend crush that builds 10am–6pm.
+quickAnswer: The Pinacoteca di Brera is Milan's great Renaissance picture gallery, tucked on the upper floor of a 17th-century palazzo in the Brera district, a short walk from Montenapoleone or Lanza metro (Line 2). Expect Mantegna's foreshortened "Dead Christ," Piero della Francesca's Montefeltro altarpiece and Raphael's "Marriage of the Virgin" in two hours or so. Go right at opening or after 6pm to skip the weekend crush that builds 10am–6pm.
 faq:
   - q: How do I get to the Pinacoteca di Brera by public transport?
-    a: >-
-      Take the M2 (green) line to Montenapoleone or Lanza, or the M1 (red) line
-      to Cairoli, then walk 10–15 minutes into the Brera district to Via Brera
-      28. Trams 1 and 12 also stop close by on Via Pontaccio.
+    a: Take the M2 (green) line to Montenapoleone or Lanza, or the M1 (red) line to Cairoli, then walk 10–15 minutes into the Brera district to Via Brera 28. Trams 1 and 12 also stop close by on Via Pontaccio.
   - q: How long should I plan for a visit?
-    a: >-
-      Most visitors spend 90 minutes to 2 hours; the collection is compact
-      enough to see thoroughly without a full-day commitment.
+    a: Most visitors spend 90 minutes to 2 hours; the collection is compact enough to see thoroughly without a full-day commitment.
   - q: When is the quietest time to visit?
-    a: >-
-      Foot-traffic data shows both weekdays and weekends run calmer across the
-      8am–8pm hours in general, but weekends see a real crowd build-up between
-      10am and 6pm — arrive near opening or after 6pm to avoid it.
+    a: Foot-traffic data shows both weekdays and weekends run calmer across the 8:30am–7:15pm hours in general, but weekends see a real crowd build-up between 10am and 6pm — arrive near opening or after 6pm to avoid it.
   - q: What are the must-see works?
-    a: >-
-      Mantegna's 'Dead Christ,' Piero della Francesca's Montefeltro Altarpiece,
-      Raphael's 'Marriage of the Virgin,' Caravaggio's 'Supper at Emmaus,' and
-      Hayez's 'The Kiss' are the highlights most visitors seek out first.
+    a: Mantegna's 'Dead Christ,' Piero della Francesca's Montefeltro Altarpiece, Raphael's 'Marriage of the Virgin,' Caravaggio's 'Supper at Emmaus,' and Hayez's 'The Kiss' are the highlights most visitors seek out first.
   - q: What else is nearby?
-    a: >-
-      The Brera district's artisan streets, Sforza Castle (a short walk via
-      Cairoli), and the Duomo (about 15–20 minutes on foot) all pair well with a
-      Pinacoteca visit.
+    a: The Brera district's artisan streets, Sforza Castle (a short walk via Cairoli), and the Duomo (about 15–20 minutes on foot) all pair well with a Pinacoteca visit.
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-12'
+updatedDate: "2026-09-12"
 ---
+
 ## Why go
 
 You climb a wide stone staircase off a quiet courtyard, past a bronze Napoleon posing as a nude Mars, and you're already somewhere unlike the rest of Milan. The Pinacoteca di Brera isn't a sprawling, exhausting museum. It's a tight, curated run of rooms that happens to hold some of the most important paintings of the Italian Renaissance, especially from the Veneto and Lombardy.

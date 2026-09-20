@@ -1,78 +1,59 @@
 ---
-title: 'Duomo di Milano: Milan Travel Guide'
-description: >-
-  The Duomo di Milano, Milan's Gothic cathedral on Piazza del Duomo, is best
-  visited early morning (before 9:30am) to beat crowds, with a rooftop terrace
-  ticket for skyline views of the Alps on clear days.
+title: "Duomo di Milano: Milan Travel Guide"
+description: The Duomo di Milano, Milan's Gothic cathedral on Piazza del Duomo, is best visited early morning (before 9:30am) to beat crowds, with a rooftop terrace ticket for skyline views of the Alps on clear days.
 country: Italy
 region: Milan
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/View_west_along_Duomo_roof%2C_Milan.jpg/1920px-View_west_along_Duomo_roof%2C_Milan.jpg
-  credit: 'Photo: Daniel Case / Wikimedia Commons (CC BY-SA 3.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/View_west_along_Duomo_roof%2C_Milan.jpg/1920px-View_west_along_Duomo_roof%2C_Milan.jpg
+  credit: "Photo: Daniel Case / Wikimedia Commons (CC BY-SA 3.0)"
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:View_west_along_Duomo_roof,_Milan.jpg
+  source: https://commons.wikimedia.org/wiki/File:View_west_along_Duomo_roof,_Milan.jpg
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Milano_-_Duomo_di_Milano_-_Monumento_a_Vittorio_Emanuele_II_-_Museo_del_Novecento_-_2023-09-12_18-18-40_001.jpg/1920px-Milano_-_Duomo_di_Milano_-_Monumento_a_Vittorio_Emanuele_II_-_Museo_del_Novecento_-_2023-09-12_18-18-40_001.jpg
-    credit: 'Photo: Terragio67 / Wikimedia Commons (CC BY-SA 4.0)'
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Milano_-_Duomo_di_Milano_-_Monumento_a_Vittorio_Emanuele_II_-_Museo_del_Novecento_-_2023-09-12_18-18-40_001.jpg/1920px-Milano_-_Duomo_di_Milano_-_Monumento_a_Vittorio_Emanuele_II_-_Museo_del_Novecento_-_2023-09-12_18-18-40_001.jpg
+    credit: "Photo: Terragio67 / Wikimedia Commons (CC BY-SA 4.0)"
     license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:Milano_-_Duomo_di_Milano_-_Monumento_a_Vittorio_Emanuele_II_-_Museo_del_Novecento_-_2023-09-12_18-18-40_001.jpg
+    source: https://commons.wikimedia.org/wiki/File:Milano_-_Duomo_di_Milano_-_Monumento_a_Vittorio_Emanuele_II_-_Museo_del_Novecento_-_2023-09-12_18-18-40_001.jpg
 place:
   id: ChIJoTZGw67GhkcREy4aECdOf6s
   name: Duomo di Milano
-  address: 'P.za del Duomo, 20122 Milano MI, Italy'
+  address: P.za del Duomo, 20122 Milano MI, Italy
   rating: 4.8
   userRatingsTotal: 208512
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=12357681832208772627&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=12357681832208772627&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 45.464097599999995
   lng: 9.1919265
+  phone: +39 02 361691
+  openingHours:
+    - "Monday: 9:00 AM – 7:00 PM"
+    - "Tuesday: 9:00 AM – 7:00 PM"
+    - "Wednesday: 9:00 AM – 7:00 PM"
+    - "Thursday: 9:00 AM – 7:00 PM"
+    - "Friday: 9:00 AM – 7:00 PM"
+    - "Saturday: 9:00 AM – 7:00 PM"
+    - "Sunday: 9:00 AM – 7:00 PM"
 tags:
   - milan
   - Milan Cathedral Duomo
-quickAnswer: >-
-  The Duomo di Milano, Milan's Gothic cathedral on Piazza del Duomo, is best
-  visited early morning (before 9:30am) to beat crowds, with a rooftop terrace
-  ticket for skyline views of the Alps on clear days. Budget 1.5–2 hours for the
-  cathedral and roof, more if you add the Museo del Duomo. Book tickets online
-  in advance — this is one of the most-visited sites in Italy and lines for
-  walk-up tickets can stretch over an hour.
+quickAnswer: The Duomo di Milano, Milan's Gothic cathedral on Piazza del Duomo, is best visited early morning (before 9:30am) to beat crowds, with a rooftop terrace ticket for skyline views of the Alps on clear days. Budget 1.5–2 hours for the cathedral and roof, more if you add the Museo del Duomo. Book tickets online in advance — this is one of the most-visited sites in Italy and lines for walk-up tickets can stretch over an hour.
 faq:
   - q: How do I get to the Duomo di Milano?
-    a: >-
-      Take Metro Line 1 (red) or Line 3 (yellow) to the Duomo stop, which opens
-      directly onto the piazza. From Milano Centrale, it's about 15 minutes on
-      the M3 yellow line with no transfers.
+    a: Take Metro Line 1 (red) or Line 3 (yellow) to the Duomo stop, which opens directly onto the piazza. From Milano Centrale, it's about 15 minutes on the M3 yellow line with no transfers.
   - q: How much time should I plan for a visit?
-    a: >-
-      Allow 1.5–2 hours for the cathedral interior and rooftop terrace combined.
-      Add 30–45 minutes if you also visit the adjacent Museo del Duomo.
+    a: Allow 1.5–2 hours for the cathedral interior and rooftop terrace combined. Add 30–45 minutes if you also visit the adjacent Museo del Duomo.
   - q: Is it worth paying extra for rooftop access?
-    a: >-
-      Yes — the rooftop terrace among the spires offers close-up views of the
-      statuary and, on clear days, sightlines to the Alps. It's the most
-      memorable part of the visit for many travelers, though it involves stairs
-      or a paid lift and uneven walking surfaces.
+    a: Yes — the rooftop terrace among the spires offers close-up views of the statuary and, on clear days, sightlines to the Alps. It's the most memorable part of the visit for many travelers, though it involves stairs or a paid lift and uneven walking surfaces.
   - q: Do I need to book tickets in advance?
-    a: >-
-      It's strongly recommended. Given the volume of visitors, walk-up lines for
-      entry and especially rooftop access can exceed an hour; booking timed
-      tickets online avoids most of the wait.
+    a: It's strongly recommended. Given the volume of visitors, walk-up lines for entry and especially rooftop access can exceed an hour; booking timed tickets online avoids most of the wait.
   - q: What's nearby if I have extra time?
-    a: >-
-      The Galleria Vittorio Emanuele II shopping arcade connects the piazza to
-      La Scala opera house, and Palazzo Reale next door houses the Museo del
-      Duomo with original cathedral statuary and construction models.
+    a: The Galleria Vittorio Emanuele II shopping arcade connects the piazza to La Scala opera house, and Palazzo Reale next door houses the Museo del Duomo with original cathedral statuary and construction models.
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-12'
+updatedDate: "2026-09-12"
 ---
+
 ## Why go
 
 The Duomo di Milano is one of the largest cathedrals on earth and took roughly six centuries to complete, from its start in 1386 under Gian Galeazzo Visconti to the final touches on the facade in the early 20th century. The result is an almost overwhelming forest of white marble spires, 135 of them, topped with more than 3,400 statues, including the gilded Madonnina that has watched over the city from the highest spire since 1774.
@@ -95,7 +76,7 @@ Just outside, the Galleria Vittorio Emanuele II, Italy's opulent 19th-century gl
 
 ## When to go
 
-Arrive at opening (typically around 8am) or in the last hour before closing to avoid the worst crowds and tour groups, which peak from mid-morning through early afternoon. Spring (April–May) and early autumn (September–October) bring comfortable temperatures for the rooftop walk without summer's midday heat radiating off the marble. Midweek visits tend to be calmer than weekends, when both tourists and locals converge on the piazza. Security lines can be substantial regardless of season, so build in extra time.
+Arrive at opening (typically around 9am) or in the last hour before closing to avoid the worst crowds and tour groups, which peak from mid-morning through early afternoon. Spring (April–May) and early autumn (September–October) bring comfortable temperatures for the rooftop walk without summer's midday heat radiating off the marble. Midweek visits tend to be calmer than weekends, when both tourists and locals converge on the piazza. Security lines can be substantial regardless of season, so build in extra time.
 
 ## Nearby & tips
 

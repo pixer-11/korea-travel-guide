@@ -40,14 +40,17 @@ place:
       - 12
       - 13
       - 14
-    weekendBusy:
-      - 11
-      - 12
-      - 13
-      - 14
-      - 15
-      - 16
+    weekendBusy: [11, 12, 13, 14, 15]
     venueId: ven_67505974536f44645453345267593232323154716a35454a496843
+  phone: '+1 305-250-9133'
+  openingHours:
+    - 'Monday: 9:30 AM – 4:30 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 9:30 AM – 4:30 PM'
+    - 'Thursday: 9:30 AM – 4:30 PM'
+    - 'Friday: 9:30 AM – 4:30 PM'
+    - 'Saturday: 9:30 AM – 4:30 PM'
+    - 'Sunday: 9:30 AM – 4:30 PM'
 tags:
   - miami
   - top attraction

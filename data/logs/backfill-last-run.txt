@@ -1,34 +1,34 @@
-Places 예산: backfill 몫 25회 (오늘 사용 16/100)
+Places 예산: backfill 몫 25회 (오늘 사용 17/100)
 Priority: 165 itinerary stop(s) queued first
-  ✓ bandung-sudirman-street-day-and-night-market.md +phone +7h hours
-  ✓ busan-jeonpo-cafe-street.md +7h hours
-  ✓ da-nang-bep-cuon-a-nang-michelin-selected-2025-2026.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 10,21h (venue not open then); weekendQuiet: dropped 10,21h (venue not open then) — nothing left
-  ✓ dubai-joe-s-cafe-dubai.md +phone +7h hours
-  ✓ fukuoka-gyukatsu-motomura-fukuoka-parco-branch.md +phone +7h hours
-  ✓ ha-long-bay-chill-beach-bar-ha-long.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 10h (venue not open then); weekendQuiet: dropped 10h (venue not open then)
-  ✓ hiroshima-nagataya.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 20h (venue not open then) — nothing left; weekendQuiet: dropped 20h (venue not open then) — nothing left
-  ✓ hoi-an-bun-cha-ta-hoi-an.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 22h (venue not open then); weekendQuiet: dropped 22h (venue not open then)
-  ✓ krabi-lan-lek-lek.md +phone +7h hours
-  ✓ lombok-kenza-cafe-restaurant-kuta-lombok.md +phone +7h hours
-  ✓ marina-bay-ps-cafe-marina-bay-sands.md +phone +7h hours
-  ✓ osaka-oko-fun-okonomiyaki-bar.md +phone +7h hours
-  ✓ ras-al-khaimah-habun-restaurant.md +phone +7h hours
-  ✓ sapporo-sapporo-ramen-haruka.md +phone +7h hours
-  ✓ sentosa-lau-pa-sat.md +phone +7h hours
-  ✓ sentosa-the-coach-coffee-shop-resorts-world-sentosa-weave.md +phone +7h hours
-  ✓ sharjah-arabian-fish-house-restaurant-cafe-al-hirah-beach-sharjah.md +phone +7h hours
-  ✓ sharjah-arabian-tea-house-restaurant-cafe-sharjah.md +phone +7h hours
-  ✓ yogyakarta-hong-kong-street-foods.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 22h (venue not open then) — nothing left; weekendQuiet: dropped 22h (venue not open then) — nothing left
-  ✓ sokcho-yeonggeumjeong-sunrise-pavilion.md +phone +7h hours
-  – beijing-mutianyu-great-wall-scenic-area-ticket-office.md: nothing new (resting 60d)
-  – bordeaux-jardin-public.md: nothing new (resting 60d)
-  – dumaguete-balinsasayao-twin-lakes-natural-park.md: nothing new (resting 60d)
-  – jeju-jongdal-port-udo-ferry.md: nothing new (resting 60d)
+  – busan-jeonpo-cafe-street.md: nothing new (resting 60d)
+  – beijing-jingshan-park.md: nothing new (resting 60d)
+  – granada-jardines-del-triunfo.md: nothing new (resting 60d)
   🚫 little-india-former-house-of-tan-teng-niah.md: CLOSED_TEMPORARILY — quarantined (draft), not backfilled
+  – lombok-sendang-gile-waterfall.md: nothing new (resting 60d)
+  – madrid-el-retiro-park.md: nothing new (resting 60d)
+  – manila-fort-santiago.md: nothing new (resting 60d)
+  – manila-jose-rizal-monument.md: nothing new (resting 60d)
+  – marina-bay-marina-bay-sands-singapore.md: nothing new (resting 60d)
+  ✓ marseille-museum-of-european-and-mediterranean-civilisations.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 19,20h (venue not open then); weekendQuiet: dropped 19,20h (venue not open then)
+  ✓ marseille-notre-dame-de-la-garde.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 18h (venue not open then); weekendQuiet: dropped 18h (venue not open then)
+  ✓ marseille-palais-longchamp.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 19,20,21h (venue not open then); weekendQuiet: dropped 19,20,21h (venue not open then)
+  – medan-taman-cadika-pramuka.md: nothing new (resting 60d)
+  ✓ miami-vizcaya-museum-gardens.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekendBusy: dropped 16h (venue not open then)
+  – milan-colonne-di-san-lorenzo.md: nothing new (resting 60d)
+  ✓ milan-duomo-di-milano.md +phone +7h hours
+  – milan-parco-sempione.md: nothing new (resting 60d)
+  – milan-piazza-del-duomo.md: nothing new (resting 60d)
+  ✓ milan-pinacoteca-di-brera.md +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 8,19h (venue not open then); weekendQuiet: dropped 8,19h (venue not open then)
+  – mont-saint-michel-tour-gabriel.md: nothing new (resting 60d)
+  – mount-bromo-pura-luhur-poten-gunung-bromo.md: nothing new (resting 60d)
+  – mount-bromo-sea-of-sand-bromo.md: nothing new (resting 60d)
+  – mui-ne-red-sand-dunes.md: nothing new (resting 60d)
+  – mumbai-hanging-garden.md: nothing new (resting 60d)
+  – mumbai-jogeshwari-caves.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 20, backlog-updated 20, already-complete 738, no-new-data 322, no-place 338, closed-quarantined 1, quota-429 0, api-error 0, api-calls 25, remaining-askable 158 (APPLIED).
+BACKFILL RESULT: updated 6, backlog-updated 6, already-complete 796, no-new-data 351, no-place 351, closed-quarantined 1, quota-429 0, api-error 0, api-calls 25, remaining-askable 144 (APPLIED).

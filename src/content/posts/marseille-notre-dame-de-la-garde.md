@@ -39,15 +39,8 @@ place:
   lng: 5.3712377
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 7
-      - 8
-      - 9
-      - 18
-    weekendQuiet:
-      - 7
-      - 8
-      - 18
+    weekdayQuiet: [7, 8, 9]
+    weekendQuiet: [7, 8]
     weekendBusy:
       - 10
       - 11
@@ -57,6 +50,15 @@ place:
       - 15
       - 16
     venueId: ven_6b594a50565a747533533752495279416e736434325a394a496843
+  phone: '+33 4 91 13 40 80'
+  openingHours:
+    - 'Monday: 7:00 AM – 6:00 PM'
+    - 'Tuesday: 7:00 AM – 6:00 PM'
+    - 'Wednesday: 7:00 AM – 6:00 PM'
+    - 'Thursday: 7:00 AM – 6:00 PM'
+    - 'Friday: 7:00 AM – 6:00 PM'
+    - 'Saturday: 7:00 AM – 6:00 PM'
+    - 'Sunday: 7:00 AM – 6:00 PM'
 tags:
   - marseille
   - Notre-Dame de la Garde
