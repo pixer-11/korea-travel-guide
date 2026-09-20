@@ -100,3 +100,24 @@ test('workflows outside the manifest are left alone', async () => {
   });
   assert.deepEqual({ active: v.active, served: v.served }, { active: false, served: false });
 });
+
+// ── 배선까지 고정한다 (2026-09-20) ────────────────────────────
+// 가드를 generate.mjs 안에만 두면 글만 지켜진다. 늦게 온 크론이 나머지 39개
+// 단계를 85분 동안 다시 돌던 자리라, publish.yml 의 본 작업이 이 가드의 답에
+// 매달려 있는지를 테스트가 지킨다 — 워크플로를 손보다 조건이 빠지면 여기서 깨진다.
+test('publish.yml 의 본 작업은 슬롯 가드 결과에 걸려 있다', async () => {
+  const { readFileSync } = await import('node:fs');
+  const yaml = (await import('js-yaml')).default;
+  const doc = yaml.load(readFileSync('.github/workflows/publish.yml', 'utf8'));
+  const slot = doc.jobs?.slot;
+  assert.ok(slot, 'slot 잡이 없다');
+  assert.match(String(slot.outputs?.served ?? ''), /steps\.check\.outputs\.served/);
+  assert.ok(
+    JSON.stringify(slot.steps).includes('slot-served-output.mjs'),
+    'slot 잡이 가드 스크립트를 부르지 않는다',
+  );
+  const gen = doc.jobs?.generate;
+  assert.ok(gen, 'generate 잡이 없다');
+  assert.equal(gen.needs, 'slot');
+  assert.match(String(gen.if ?? ''), /needs\.slot\.outputs\.served\s*!=\s*'true'/);
+});

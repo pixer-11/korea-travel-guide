@@ -72,7 +72,34 @@ permissions:
   actions: read
 
 jobs:
+  # GitHub delivers this workflow's own cron about five hours late (measured
+  # 2026-09-20: median 304 minutes), so the Cloudflare alarm clock dispatches
+  # the real run at 16:35 KST and the scheduled one arrives around 21:00 to
+  # find the day already done. generate.mjs has recognised that since 08-30 and
+  # written no posts — but the other thirty-nine steps ran anyway, 84 to 87
+  # minutes of photo backfills, translations, essentials, social posts and
+  # audits repeating a day that was already finished. The question moves out in
+  # front of the work. Fails open, and never fires on a dispatch.
+  slot:
+    runs-on: ubuntu-latest
+    outputs:
+      served: ${{ steps.check.outputs.served }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+      - id: check
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
+        run: node scripts/slot-served-output.mjs publish.yml
+
   generate:
+    needs: slot
+    if: needs.slot.outputs.served != 'true'
     runs-on: ubuntu-latest
     steps:
       # ref: main, not the dispatch-time SHA — a run that queued or arrived

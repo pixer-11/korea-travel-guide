@@ -102,12 +102,43 @@ concurrency:
   group: build-check
   cancel-in-progress: false
 
+# Reading this workflow's own run list is what lets a superseded run stand
+# down (scripts/newer-run-exists.mjs). Nothing here writes to the repository.
+permissions:
+  contents: read
+  actions: read
+
 jobs:
+  # Three pushes inside one build used to mean three builds of the SAME tree:
+  # every run checks out `ref: main`, and a build of this site runs 69-171
+  # minutes (median 88 over the twelve deploys before 2026-09-20). A run that
+  # can see a newer sibling now stands down GREEN instead — not cancelled,
+  # because a cancellation is reported as a failure and that noise is exactly
+  # what the concurrency comment above refuses to create. The newest run never
+  # sees anything newer than itself, so the tip is always shipped.
+  newer:
+    runs-on: ubuntu-latest
+    outputs:
+      superseded: ${{ steps.check.outputs.superseded }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+      - id: check
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
+        run: node scripts/newer-run-exists.mjs build-check.yml
+
   build:
+    needs: newer
     runs-on: ubuntu-latest
     # A producer that failed or was cancelled pushed nothing worth shipping;
     # pushes and manual runs are unaffected by this condition.
-    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
+    if: ${{ needs.newer.outputs.superseded != 'true' && (github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success') }}
     steps:
       - uses: actions/checkout@v5
         with:
