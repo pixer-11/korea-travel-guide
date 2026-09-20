@@ -19,9 +19,15 @@
 //  The night the patrol finds a photo, the page is live again at the URL
 //  Google already ranks.
 //
-//    node scripts/restore-retired-posts.mjs slug-a,slug-b [--from=0a3bf776^] [--dry]
+//  되살아난 파일은 은퇴 이전 커밋의 것이라, 그 뒤로 고쳐온 번역 결함을 그대로
+//  안고 돌아온다. 그런데 되살아난 글은 초안이고, 일일 번역 감사는 초안을 건너뛴다 —
+//  그래서 그 결함은 몇 주 뒤 사진 순찰이 글을 공개한 **다음 날 아침** 순찰 경고로
+//  처음 보였다. 만든 자리에서 잰다: 복원 직후 되살린 슬러그만 감사하고(--slugs 는
+//  초안도 본다), 나온 키를 재번역 기계에 그대로 넘긴다. 깨끗한 날엔 공짜다.
+//
+//    node scripts/restore-retired-posts.mjs slug-a,slug-b [--from=0a3bf776^] [--dry] [--no-repair]
 // ─────────────────────────────────────────────────────────────
-import { execFileSync } from 'node:child_process';
+import { execFileSync, spawnSync } from 'node:child_process';
 import { editFrontmatter, DELETE } from './lib/frontmatter-edit.mjs';
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
@@ -31,6 +37,8 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const arg = (k) => process.argv.find((a) => a.startsWith(`--${k}=`))?.split('=')[1];
 const FROM = arg('from') || '0a3bf776^';
 const DRY = process.argv.includes('--dry');
+// 번역 결함이 나와도 재번역은 부르지 않는다(키만 찍는다) — API 를 쓰고 싶지 않은 날.
+const NO_REPAIR = process.argv.includes('--no-repair');
 const slugs = (process.argv[2] || '').split(',').map((s) => s.trim()).filter(Boolean);
 if (!slugs.length) { console.error('usage: node scripts/restore-retired-posts.mjs slug-a,slug-b [--from=REV] [--dry]'); process.exit(1); }
 
@@ -51,6 +59,7 @@ const RETRY = join(ROOT, 'data', 'photo-retry.json');
 const retired = JSON.parse(readFileSync(RETIRED, 'utf8'));
 const retry = existsSync(RETRY) ? JSON.parse(readFileSync(RETRY, 'utf8')) : {};
 let restored = 0, translations = 0, skipped = 0;
+const restoredSlugs = [];
 const keep = [];
 for (const slug of slugs) {
   const en = show(`src/content/posts/${slug}.md`);
@@ -68,6 +77,7 @@ for (const slug of slugs) {
     delete retry[slug];
   }
   restored++; translations += tl;
+  restoredSlugs.push(slug);
   console.log(`  ✓ ${slug}: draft restored + ${tl} translations${retired.some((r) => r.slug === slug) ? ', off the retired list' : ''}`);
 }
 if (!DRY) {
@@ -75,4 +85,40 @@ if (!DRY) {
   writeFileSync(RETIRED, JSON.stringify(retired.filter((r) => !wanted.has(r.slug)), null, 1) + '\n');
   writeFileSync(RETRY, JSON.stringify(retry, null, 1) + '\n');
 }
-console.log(`\nRESTORE_SUMMARY restored=${restored} translations=${translations} skipped=${skipped}${DRY ? ' (dry)' : ''}`);
+// ── 되살린 번역을 그 자리에서 검사하고, 결함이 있으면 다시 번역한다 ──────────
+// 일일 감사는 초안을 건너뛰므로 여기서 --slugs 로 물어야만 보인다. 감사는 결함을
+// 찾으면 exit 1 이라, 상태코드로 성패를 가르지 않는다 — 읽는 것은 TRANSLATION-DEFECT
+// 줄이다. 다만 감사가 아무것도 못 본 경우(exit 2)는 "깨끗하다"가 아니라 "못 쟀다"로
+// 남긴다: 그걸 통과로 읽으면 이 배선이 생기기 전과 똑같아진다.
+let defects = 0;
+if (!DRY && restoredSlugs.length) {
+  const audit = spawnSync(
+    process.execPath,
+    [join(ROOT, 'scripts', 'audit-translations.mjs'), `--slugs=${restoredSlugs.join(',')}`],
+    { cwd: ROOT, encoding: 'utf8', maxBuffer: 16 * 1024 * 1024 },
+  );
+  const out = `${audit.stdout || ''}${audit.stderr || ''}`;
+  const keys = [...out.matchAll(/^TRANSLATION-DEFECT: (\S+)$/gm)].map((m) => m[1]);
+  defects = keys.length;
+  if (audit.error || audit.status === 2) {
+    console.log(`\n⚠ 번역 감사가 아무것도 재지 못했습니다 — 되살린 번역은 미검사 상태입니다.`);
+    console.log(out.trim().split('\n').slice(-3).join('\n'));
+  } else if (!keys.length) {
+    console.log(`\n✓ 번역 감사: 되살린 번역 ${translations}건에 결함 없음.`);
+  } else {
+    console.log(`\n🌐 번역 결함 ${keys.length}건: ${keys.join(' ')}`);
+    if (NO_REPAIR) {
+      console.log(`  --no-repair — 직접 돌리려면: KEYS="${keys.join(' ')}" node scripts/repair-flagged-translations.mjs`);
+    } else {
+      // 같은 안전장치를 쓴다: 작은 묶음으로 지우고 즉시 다시 채우고, 실패하면 되돌린다.
+      const fix = spawnSync(process.execPath, [join(ROOT, 'scripts', 'repair-flagged-translations.mjs')], {
+        cwd: ROOT,
+        stdio: 'inherit',
+        env: { ...process.env, KEYS: keys.join(' '), LIMIT: String(keys.length), BATCH: '6' },
+      });
+      if (fix.status !== 0) console.log(`  ⚠ 재번역이 ${fix.status} 로 끝났습니다 — 위 출력을 확인하세요.`);
+    }
+  }
+}
+
+console.log(`\nRESTORE_SUMMARY restored=${restored} translations=${translations} skipped=${skipped} defects=${defects}${DRY ? ' (dry)' : ''}`);

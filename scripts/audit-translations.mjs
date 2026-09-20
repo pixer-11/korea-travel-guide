@@ -35,6 +35,20 @@ const ROOTS = [
   ['src/content/static-pages-i18n', 'static'],
 ];
 const VERBOSE = process.argv.includes('--verbose');
+// --slugs=a,b — 특정 글의 번역만, **초안이어도** 본다.
+// restore-retired-posts 는 은퇴한 글을 초안으로 되살린다. 기본 모드는 초안을 통째로
+// 건너뛰므로(아래 auditFrontmatter), 되살아난 글이 안고 돌아온 낡은 번역 결함은
+// 복원 시점엔 아무도 보지 않았다 — 몇 주 뒤 사진 순찰이 그 글을 공개한 다음 날
+// 아침, 순찰 경고로 처음 나타났다. 되살리는 쪽이 그 자리에서 물어볼 수 있게 하는 문.
+// 출력은 사람이 읽는 줄 + 수리 기계가 읽는 TRANSLATION-DEFECT: <lang>/<slug>
+// (repair-flagged-translations 의 KEYS 와 같은 형식).
+const SLUGS = new Set(
+  (process.argv.find((a) => a.startsWith('--slugs='))?.slice('--slugs='.length) || '')
+    .split(',')
+    .map((s) => s.trim().replace(/\.md$/, ''))
+    .filter(Boolean),
+);
+const ASKED = SLUGS.size > 0;
 
 // Where a translation root's ENGLISH source lives, so a translated file can be
 // compared against the fields the source actually had.
@@ -49,7 +63,7 @@ const SPILL = /<\/?(description|quickAnswer|title|body|faq|parameter|function_ca
 
 const fmField = (fm, key) => new RegExp(`^${key}:`, 'm').test(fm);
 
-async function auditFrontmatter(root, lang, file, fm, body = '') {
+async function auditFrontmatter(root, lang, file, fm, body = '', includeDrafts = false) {
   const flags = [];
   if (!fm) return flags;
 
@@ -71,7 +85,9 @@ async function auditFrontmatter(root, lang, file, fm, body = '') {
   // published, because that flips this flag. Signals the caller to skip the
   // body checks too — otherwise a draft still gets flagged, just by a different
   // rule.
-  if (/^draft:\s*true\s*$/m.test(srcFm)) return null;
+  // --slugs 로 콕 집어 물었을 때만 초안도 본다: 물은 쪽은 "이건 곧 공개된다"를
+  // 아는 자리(복원 도구)다. 그 밖에는 종전대로 건너뛴다.
+  if (!includeDrafts && /^draft:\s*true\s*$/m.test(srcFm)) return null;
 
   if (SPILL.test(fm)) flags.push(['TOOL-SPILL', fm.match(SPILL)[0]]);
   // quickAnswer, description and FAQ answers are rendered as plain text, so a
@@ -146,12 +162,16 @@ function auditBody(lang, body) {
 
 let files = 0, flagged = 0, drafts = 0;
 const report = [];
+const keys = [];
 for (const [root, label] of ROOTS) {
+  // 슬러그를 물었으면 글 번역만 본다 — essentials·topics·static 에는 슬러그가 없다.
+  if (ASKED && root !== 'src/content/i18n') continue;
   let langs = [];
   try { langs = await readdir(root); } catch { continue; }
   for (const lang of langs) {
     if (!['ko', 'ja', 'es', 'zh'].includes(lang)) continue;
     for (const f of (await readdir(join(root, lang))).filter((f) => f.endsWith('.md'))) {
+      if (ASKED && !SLUGS.has(f.replace(/\.md$/, ''))) continue;
       files++;
       // Windows checkouts (core.autocrlf) hand us CRLF, and `\r\n\r\n` never
       // matches the `\n{2,}` paragraph split — the whole body becomes ONE
@@ -165,12 +185,13 @@ for (const [root, label] of ROOTS) {
       // `quickAnswer` missing entirely, which makes the page render the ENGLISH
       // quick answer on a translated page. That is exactly the failure this
       // audit exists to catch, so it has to look at the frontmatter too.
-      const fmFlags = await auditFrontmatter(root, lang, f, fmEnd === -1 ? '' : raw.slice(4, fmEnd), body);
+      const fmFlags = await auditFrontmatter(root, lang, f, fmEnd === -1 ? '' : raw.slice(4, fmEnd), body, ASKED);
       if (fmFlags === null) { drafts++; continue; } // unpublished — nothing renders
       const flags = [...auditBody(lang, body), ...fmFlags];
       if (flags.length) {
         flagged++;
         report.push(`${label}/${lang}/${f}: ${flags.map(([t]) => t).join(', ')}`);
+        keys.push(`${lang}/${f.replace(/.md$/, '')}`);
         if (VERBOSE) for (const [t, p] of flags) report.push(`    [${t}] ${p.slice(0, 140)}`);
       }
     }
@@ -184,7 +205,19 @@ console.log(
 if (report.length) {
   console.log(`❌ ${flagged} file(s) flagged:\n`);
   for (const r of report) console.log(`  • ${r}`);
+  // 수리 기계가 읽는 줄 — repair-flagged-translations 의 KEYS 와 같은 형식.
+  if (ASKED) { console.log(''); for (const k of keys) console.log(`TRANSLATION-DEFECT: ${k}`); }
   process.exit(1);
+}
+if (ASKED) {
+  // 검사기 계약: “못 본 것”을 “깨끗한 것”으로 보고하지 않는다. 슬러그 오타나 번역이
+  // 아직 한 장도 없는 글을 ✅ 로 답하면, 복원 도구가 안심하고 넘어간다.
+  if (!files) {
+    console.error(`✗ asked about ${SLUGS.size} slug(s) and examined 0 translation(s) — nothing was measured.`);
+    process.exit(2);
+  }
+  console.log(`✓ ${files} translation(s) of ${SLUGS.size} slug(s) are clean.`);
+  process.exit(0);
 }
 requireExamined(files, '번역 파일', 'src/content/i18n 이 비어 있나?');
 console.log('✓ no wrong-language content found in any translation.');
