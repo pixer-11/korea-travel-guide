@@ -1,5 +1,9 @@
 ---
-import { getCollection, render } from 'astro:content';
+import { render } from 'astro:content';
+import {
+  postsInCountry, postsInRegion, cityPostsSorted,
+  translatedTitles, translationsOf, itinerariesCiting, linkTargetsFor,
+} from '../lib/post-index.mjs';
 import { siteHref } from '../lib/urls.mjs';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Newsletter from './Newsletter.astro';
@@ -310,8 +314,8 @@ const distKm = (a: any, b: any) => {
   return 2 * R * Math.asin(Math.sqrt(s));
 };
 const thisCountry = d.country ?? 'South Korea';
-const related = (await getCollection('posts', ({ data }) => !data.draft))
-  .filter((r) => r.id !== post.id && (r.data.country ?? 'South Korea') === thisCountry)
+const related = (await postsInCountry(thisCountry))
+  .filter((r) => r.id !== post.id)
   .map((r) => {
     const km = distKm(d.place, r.data.place);
     const sameCity = r.data.region === d.region;
@@ -338,19 +342,13 @@ const relatedPosts = related.map((x) => x.r);
 // point at the localized URL — but only when that translation actually exists,
 // otherwise fall back to the English page rather than linking to a 404.
 const sameLangTitles =
-  lang === defaultLang
-    ? new Map<string, string>()
-    : new Map(
-        (await getCollection('postI18n', ({ data }) => data.lang === lang)).map((e) => [e.data.slug, e.data.title])
-      );
+  lang === defaultLang ? new Map<string, string>() : await translatedTitles(lang);
 const postHref = (id: string) => (sameLangTitles.has(id) ? `/${lang}/posts/${id}/` : `/posts/${id}/`);
 const postTitle = (r: any) => sameLangTitles.get(r.id) ?? r.data.title;
 
 // Which languages THIS post exists in — English always, plus each language it's
 // been translated into — so the switcher only offers real, non-404 links.
-const translatedLangs = new Set(
-  (await getCollection('postI18n', ({ data }) => data.slug === post.id)).map((e) => e.data.lang)
-);
+const translatedLangs = await translationsOf(post.id);
 const availableLangs = (['en', 'ko', 'ja', 'es', 'zh'] as const).filter(
   (l) => l === 'en' || translatedLangs.has(l)
 );
@@ -361,16 +359,15 @@ const relatedIds = new Set(relatedPosts.map((r) => r.id));
 // related list sat below the newsletter as four lines of text; it is now
 // thumbnail cards above it, plus a fixed pair of neighbours in the same city
 // so there is always a "next" even when the scorer finds little.
-const cityPosts = (await getCollection('posts', ({ data }) => !data.draft && data.region === d.region && (data.country ?? 'South Korea') === thisCountry))
-  .sort((a, b) => a.id.localeCompare(b.id));
+const cityPosts = await cityPostsSorted(d.region, thisCountry);
 const cityIdx = cityPosts.findIndex((r) => r.id === post.id);
 const prevInCity = cityIdx > 0 ? cityPosts[cityIdx - 1] : null;
 const nextInCity = cityIdx >= 0 && cityIdx < cityPosts.length - 1 ? cityPosts[cityIdx + 1] : null;
 // Nearest first when both sides have coordinates (2026-08-23): "More Genoa
 // guides" used to be the first six by file name; now it is the six closest,
 // each with its distance, so the line reads as a map rather than a list.
-const nearby = (await getCollection('posts', ({ data }) => !data.draft))
-  .filter((r) => r.id !== post.id && r.data.region === d.region && !relatedIds.has(r.id))
+const nearby = (await postsInRegion(d.region))
+  .filter((r) => r.id !== post.id && !relatedIds.has(r.id))
   .map((r) => ({ r, km: distKm(d.place, r.data.place) }))
   .sort((a, b) => a.km - b.km || a.r.id.localeCompare(b.r.id))
   .slice(0, 6);
@@ -382,32 +379,20 @@ const kmLabel = (km: number) => (Number.isFinite(km) ? (km < 1 ? `${Math.max(1, 
 // ONE body link against an event guide's six (UX audit 2026-08-23). Names
 // are the localised title heads, so a Korean page links Korean mentions.
 const ownHead = postTitle(post).split(/[:—|]/)[0].trim().toLowerCase();
-const linkTargets = (await getCollection('posts', ({ data }) => !data.draft))
-  .filter((r) => r.id !== post.id && (r.data.country ?? 'South Korea') === thisCountry)
-  .map((r) => ({ name: postTitle(r).split(/[:—|]/)[0].trim(), href: postHref(r.id) }))
-  // Korean/Japanese/Chinese names are short ("경복궁" is three characters);
-  // the five-character floor is for Latin names, where "Bar" would link noise.
-  .filter((x) => x.name.length >= (/[぀-鿿가-힯]/.test(x.name) ? 2 : 5) && x.name.toLowerCase() !== ownHead);
+// The names and hrefs are identical for every page of this country in this
+// language, so lib/post-index builds that list once and this drops the two
+// things that are particular to this page.
+const linkTargets = (await linkTargetsFor(thisCountry, lang, { title: postTitle, href: postHref }))
+  .filter((x) => x.id !== post.id && x.lower !== ownHead);
 const linkedHtml = linkMentions(renderedHtml, linkTargets, { max: 4, minLen: 2 });
 proseParts = splitProse(linkedHtml);
 
 // Itinerary flywheel (spec §3): if this post is a stop in a published itinerary,
-// link back to it — "This spot is Day N of our City X-day itinerary". Computed
-// ONCE as a slug→itinerary map (not per-post work inside a loop) so N posts
-// cost one getCollection call + one pass over itineraries, not N passes.
-const itinerariesForBacklinks = await getCollection('itineraries', ({ data }) => !data.draft);
-const itinBacklinksBySlug = new Map<string, { itineraryId: string; city: string; days: number; dayNumber: number }[]>();
-for (const it of itinerariesForBacklinks) {
-  it.data.itinerary.forEach((day: any, di: number) => {
-    for (const stop of day.stops) {
-      const list = itinBacklinksBySlug.get(stop.slug) ?? [];
-      list.push({ itineraryId: it.id, city: it.data.city, days: it.data.days, dayNumber: di + 1 });
-      itinBacklinksBySlug.set(stop.slug, list);
-    }
-  });
-}
+// link back to it — "This spot is Day N of our City X-day itinerary". The map
+// is built once per BUILD, in lib/post-index. It used to say "computed ONCE"
+// right here, in the body of a component that runs on every page.
 // A post could theoretically appear in more than one itinerary — show at most 2.
-const itineraryBacklinks = (itinBacklinksBySlug.get(post.id) ?? []).slice(0, 2);
+const itineraryBacklinks = (await itinerariesCiting(post.id)).slice(0, 2);
 const itineraryHref = (id: string) => localizePath(`/itinerary/${id}`, lang);
 
 // A RECURRING event (annual festival, GP, championship, film festival…) keeps

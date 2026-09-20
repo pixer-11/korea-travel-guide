@@ -43,16 +43,36 @@ const inRoundup = (post, cfg) =>
  * Every (region, roundup) pair that qualifies, with its ranked items.
  * Both routes build their paths from this, so they can never disagree.
  */
+// Memoised the way buildDayTrips already is, and for a much sharper reason.
+// The old shape walked EVERY post once per (region, roundup) pair — roughly
+// 300 regions x 5 roundups x 1,700 posts — and RegionHub called it on every
+// page it rendered. That was 170ms of the 12,400-page build, 1,551 times over.
+// Grouping by region first makes each post visited five times instead of
+// fifteen hundred, and the region order is unchanged: a Map keeps insertion
+// order, and regions are inserted in the same first-appearance order the old
+// `new Set(posts.map(…))` produced.
+/** @type {{key: number, out: any[]} | null} */
+let memo = null;
+
 export function buildRoundups(posts) {
-  const regions = [...new Set(posts.map((p) => p.data.region))].filter((r) => r && !r.includes('/'));
+  if (memo && memo.key === posts.length) return memo.out;
+  const byRegion = new Map();
+  for (const p of posts) {
+    const region = p.data.region;
+    if (!region || region.includes('/')) continue;
+    const list = byRegion.get(region);
+    if (list) list.push(p);
+    else byRegion.set(region, [p]);
+  }
   const out = [];
-  for (const region of regions) {
+  for (const [region, inRegion] of byRegion) {
     for (const [key, cfg] of Object.entries(ROUNDUPS)) {
-      const items = posts
-        .filter((p) => p.data.region === region && inRoundup(p, cfg))
+      const items = inRegion
+        .filter((p) => inRoundup(p, cfg))
         .sort((a, b) => score(b) - score(a));
       if (items.length >= MIN_ITEMS) out.push({ region, key, cfg, items });
     }
   }
+  memo = { key: posts.length, out };
   return out;
 }
