@@ -1,39 +1,30 @@
 ---
 title: 'Farglory Ocean Park: Hualien Travel Guide (4.4★)'
-description: >-
-  Farglory Ocean Park, in Shoufeng Township just north of Hualien City, is a
-  combined aquarium, animal-show theme park and gondola ride built around a mock
-  19th-century British pier. 4.4★ (28,086 reviews) — what visitors say, hours,
-  and tips.
+description: Farglory Ocean Park, in Shoufeng Township just north of Hualien City, is a combined aquarium, animal-show theme park and gondola ride built around a mock 19th-century British pier. 4.4★ (28,086 reviews) — what visitors say, hours, and tips.
 country: Taiwan
 region: Hualien
 category: attraction
 pubDate: '2026-09-17T07:48:03.924Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/c/c7/Jumping_dolphins_at_Dolphin_Lagoon%2C_Farglory_Ocean_Park_20090615a.jpg
-  credit: 'Photo: pan vanessa / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Jumping_dolphins_at_Dolphin_Lagoon,_Farglory_Ocean_Park_20090615a.jpg
+  url: https://fastly.4sqi.net/img/general/original/69053463_bCwcPlk_17hSxFMVXA2uAE7L2AAqQMI8p6x74mXhAeg.jpg
+  credit: 'Photo: Foursquare user content (遠雄海洋公園 Hualien Farglory Ocean Park)'
+  license: foursquare
+  source: https://foursquare.com/v/4bb57059ef159c7443cd74f7
   focus:
-    x: 50
+    x: 55
     'y': 40
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/c/cd/Farglory_Ocean_Park_dolphin_show_stage_20150411.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/c/cd/Farglory_Ocean_Park_dolphin_show_stage_20150411.jpg
     credit: 'Photo: 何等幸福平面攝影工作室 / Wikimedia Commons (CC BY-SA 2.0)'
     license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:Farglory_Ocean_Park_dolphin_show_stage_20150411.jpg
+    source: https://commons.wikimedia.org/wiki/File:Farglory_Ocean_Park_dolphin_show_stage_20150411.jpg
 place:
   id: ChIJ-Qdkbe2gaDQRCtLcEau0bi8
   name: Farglory Ocean Park
-  address: '974, Taiwan, Hualien County, Shoufeng Township, Yanliao Village, 福德189號'
+  address: 974, Taiwan, Hualien County, Shoufeng Township, Yanliao Village, 福德189號
   rating: 4.4
   userRatingsTotal: 28086
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=3417867814052876810&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=3417867814052876810&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 23.9012596
   lng: 121.6035363
@@ -63,38 +54,18 @@ place:
 tags:
   - hualien
   - park
-quickAnswer: >-
-  Farglory Ocean Park, in Shoufeng Township just north of Hualien City, is a
-  combined aquarium, animal-show theme park and gondola ride built around a mock
-  19th-century British pier. It opens daily at 9:30am and closes at 5pm, so plan
-  on a full day rather than a half-day stop. Crowds are heaviest on weekends, so
-  a weekday visit gives you more room to move between the aquarium halls and
-  rides.
+quickAnswer: Farglory Ocean Park, in Shoufeng Township just north of Hualien City, is a combined aquarium, animal-show theme park and gondola ride built around a mock 19th-century British pier. It opens daily at 9:30am and closes at 5pm, so plan on a full day rather than a half-day stop. Crowds are heaviest on weekends, so a weekday visit gives you more room to move between the aquarium halls and rides.
 faq:
   - q: How do I get to Farglory Ocean Park from Hualien City?
-    a: >-
-      It's about a 20-minute drive north along the coast road to Shoufeng
-      Township. There's no direct train station nearby, so most visitors use a
-      rental car, scooter, or a pre-booked shuttle or tour bus.
+    a: It's about a 20-minute drive north along the coast road to Shoufeng Township. There's no direct train station nearby, so most visitors use a rental car, scooter, or a pre-booked shuttle or tour bus.
   - q: What are the opening hours?
-    a: >-
-      The park is open daily from 9:30am to 5:00pm, with no variation by day of
-      the week. Confirm on official channels before visiting in case of holiday
-      adjustments.
+    a: The park is open daily from 9:30am to 5:00pm, with no variation by day of the week. Confirm on official channels before visiting in case of holiday adjustments.
   - q: When is the quietest time to visit?
-    a: >-
-      Weekdays are calmer than weekends, with the 10am–5pm window being the
-      quietest stretch. That same window on weekends is the busiest time of the
-      week, so avoid Saturday and Sunday if you can.
+    a: Weekdays are calmer than weekends, with the 10am–5pm window being the quietest stretch. That same window on weekends is the busiest time of the week, so avoid Saturday and Sunday if you can.
   - q: How long should I plan to spend there?
-    a: >-
-      Plan on a full day, roughly 5-6 hours, to cover the gondola ride, aquarium
-      halls, and animal shows without rushing.
+    a: Plan on a full day, roughly 5-6 hours, to cover the gondola ride, aquarium halls, and animal shows without rushing.
   - q: What's the signature ride or attraction?
-    a: >-
-      The gondola that lifts visitors up the hillside from the pier-front
-      entrance is the park's best-known feature, offering wide views over the
-      coast and the park's mock-Victorian buildings below.
+    a: The gondola that lifts visitors up the hillside from the pier-front entrance is the park's best-known feature, offering wide views over the coast and the park's mock-Victorian buildings below.
 aiGenerated: true
 draft: false
 updatedDate: '2026-09-17'

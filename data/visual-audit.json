@@ -16785,8 +16785,8 @@
   "little-india-former-house-of-tan-teng-niah\u0001https://fastly.4sqi.net/img/general/original/58563680_9ZCugZu4LqvzpKjyZGIn8k1lQBv17Sjro6AqDSH0VXY.jpg": {
     "slug": "little-india-former-house-of-tan-teng-niah",
     "verdict": "MATCH",
-    "reason": "patrol replace: Iconic colorful heritage building in Little India, Singapore",
-    "at": "2026-09-18T21:46:58.324Z"
+    "reason": "patrol replace: Distinctive colorful heritage building in Little India, Sing",
+    "at": "2026-09-20T21:45:04.332Z"
   },
   "seoul-2026-coupang-play-series-manchester-city-vs-atletico-madrid\u0001https://upload.wikimedia.org/wikipedia/commons/c/c4/The_Tallest_Man_on_Earth-8_%2828937100811%29.jpg": {
     "slug": "seoul-2026-coupang-play-series-manchester-city-vs-atletico-madrid",
@@ -19535,20 +19535,20 @@
   "tokyo-the-kura\u0001https://live.staticflickr.com/44/138262874_720f18db21_k.jpg": {
     "slug": "tokyo-the-kura",
     "verdict": "MISMATCH",
-    "reason": "patrol reject: Dark isolated architectural fragment, not representative venue hero",
-    "at": "2026-09-19T21:41:36.652Z"
+    "reason": "patrol reject: Dark architectural fragment, not representative venue hero shot",
+    "at": "2026-09-20T21:48:12.373Z"
   },
   "tokyo-the-kura\u0001https://live.staticflickr.com/51/138267530_ab1a874ed4_k.jpg": {
     "slug": "tokyo-the-kura",
     "verdict": "MISMATCH",
-    "reason": "patrol reject: Incidental lamp fixture, not representative venue hero shot",
-    "at": "2026-09-19T21:41:39.003Z"
+    "reason": "patrol reject: Isolated lantern/wall fragment, not representative venue view",
+    "at": "2026-09-20T21:48:15.530Z"
   },
   "tokyo-the-kura\u0001https://live.staticflickr.com/55/138267469_42ed6054f3_k.jpg": {
     "slug": "tokyo-the-kura",
     "verdict": "MISMATCH",
-    "reason": "patrol reject: audit: Traditional Japanese architecture, but lacks identifying ven",
-    "at": "2026-09-19T21:41:42.877Z"
+    "reason": "patrol reject: audit: Traditional Japanese architecture, but appears to be a museu",
+    "at": "2026-09-20T21:48:20.070Z"
   },
   "tokyo-the-kura\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kura_River_in_the_central_part_of_Tbilisi%2C_2007-09-28.jpg/3840px-Kura_River_in_the_central_part_of_Tbilisi%2C_2007-09-28.jpg": {
     "slug": "tokyo-the-kura",
@@ -19753,7 +19753,7 @@
     "verdict": "MISMATCH",
     "reason": "hero is only 636px wide — unusable as a banner",
     "reasonKo": "사진이 636px로 너무 작음",
-    "at": "2026-09-19T21:42:09.324Z"
+    "at": "2026-09-20T21:48:38.550Z"
   },
   "los-angeles-lielle\u0001https://fastly.4sqi.net/img/general/original/127562934_WxrarXmKAs43vyk_CR_tf8nSBvZFcLtccGQTbC1BW_s.jpg": {
     "slug": "los-angeles-lielle",
@@ -19878,8 +19878,8 @@
   "bandung-sudirman-street-day-and-night-market\u0001https://fastly.4sqi.net/img/general/original/3241183_m4KoVuKKD25Grgle6hbpjA27CrN9OZbFGFGqyk79XHI.jpg": {
     "slug": "bandung-sudirman-street-day-and-night-market",
     "verdict": "MATCH",
-    "reason": "patrol replace: Pinky Porky pork martabak stall, Bandung street food",
-    "at": "2026-09-19T21:37:19.825Z"
+    "reason": "patrol replace: Pinky Porky pork martabak stall interior, Bandung",
+    "at": "2026-09-20T21:45:10.399Z"
   },
   "paris-kubaba\u0001https://fastly.4sqi.net/img/general/original/340651150__oE0Mn237pUeFfqfFHv1wfpyS_V30Umzf6F1exglkFw.jpg": {
     "slug": "paris-kubaba",
@@ -19944,8 +19944,8 @@
   "hiroshima-nagataya\u0001https://live.staticflickr.com/4725/25072241838_3dbb9bc808_b.jpg": {
     "slug": "hiroshima-nagataya",
     "verdict": "MATCH",
-    "reason": "patrol replace: Okonomiyaki dish typical of Hiroshima cuisine",
-    "at": "2026-09-19T21:38:52.578Z"
+    "reason": "patrol replace: Okonomiyaki with noodles, typical Hiroshima dish",
+    "at": "2026-09-20T21:46:27.802Z"
   },
   "hoi-an-bun-cha-ta-hoi-an\u0001https://fastly.4sqi.net/img/general/original/451218967_Ju9RCjFw6VmurqI3sbRaXaRvqwtcWOVL9jmPm5TiajM.jpg": {
     "slug": "hoi-an-bun-cha-ta-hoi-an",
@@ -20271,5 +20271,23 @@
     "reason": "Alpine mountain landscape consistent with Mercantour Nationa",
     "reasonKo": "머캉투르 국립공원의 산악 경관과 일치",
     "at": "2026-09-20T16:27:09.888Z"
+  },
+  "marina-bay-ps-cafe-marina-bay-sands\u0001https://fastly.4sqi.net/img/general/original/1709131_MuPw2uljCyo9kCp9Rre_pRxpMITTHfp2EsETLoRBvOk.jpg": {
+    "slug": "marina-bay-ps-cafe-marina-bay-sands",
+    "verdict": "MISMATCH",
+    "reason": "patrol reject: audit: Architecture photo, not venue interior or food",
+    "at": "2026-09-20T21:47:13.314Z"
+  },
+  "hualien-farglory-ocean-park\u0001https://fastly.4sqi.net/img/general/original/69053463_bCwcPlk_17hSxFMVXA2uAE7L2AAqQMI8p6x74mXhAeg.jpg": {
+    "slug": "hualien-farglory-ocean-park",
+    "verdict": "MATCH",
+    "reason": "width upgrade: Whimsical marine-themed sculptures representative of ocean park decor",
+    "at": "2026-09-20T21:48:53.797Z"
+  },
+  "kuala-lumpur-bobby-s-burgers\u0001https://fastly.4sqi.net/img/general/original/8599841_upXMZHY0r9YnaZ0p7pHD_KEmc3CyeQ24XhvHfuMZia0.jpg": {
+    "slug": "kuala-lumpur-bobby-s-burgers",
+    "verdict": "MATCH",
+    "reason": "width upgrade: Actual food served at venue table, not studio shot",
+    "at": "2026-09-20T21:49:11.714Z"
   }
 }
