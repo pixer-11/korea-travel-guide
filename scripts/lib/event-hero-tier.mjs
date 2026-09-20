@@ -93,3 +93,31 @@ export function heroTierReason(url, data, covers = {}) {
   if (sameImage(covers?.[region]?.url, url)) return `${region} 의 검증된 지역 커버`;
   return fileNames(region, fileWords) ? `파일명이 도시(${region})를 가리킨다` : null;
 }
+
+/**
+ * Does the filename name the EVENT itself — the act, the tour, the race — as
+ * opposed to the city or the venue it happens in?
+ *
+ * This exists so the archive-year rule can tell two very different photos
+ * apart. "Palace_of_Assembly_Chandigarh_2006.jpg" on a 2026 dance-tour guide
+ * is a photograph of a building Le Corbusier finished in 1962; the year in its
+ * name dates the exposure, not the event, and the building looks the same
+ * today. "Quick_Style_Chandigarh_2006.jpg" would be a photograph of the act
+ * twenty years before the night being written about, which is exactly the
+ * defect the rule was built for (a 1986 paddock photo on the 2026 Misano
+ * MotoGP page, owner 2026-08-15).
+ *
+ * City and venue words are removed first, or every third-tier city photo would
+ * "name the event" through the city it shares its name with.
+ *
+ * @param {string} url    the hero's URL
+ * @param {any} data      the post's frontmatter
+ * @returns {boolean}
+ */
+export function fileNamesTheEvent(url, data) {
+  if (!url) return false;
+  const fileWords = new Set(wordsOf(baseName(url).replace(/\.[a-z0-9]+$/, '')));
+  const place = new Set([...wordsOf(data?.region), ...wordsOf(data?.eventVenue), ...wordsOf(data?.country)]);
+  const distinct = wordsOf(data?.title).filter((w) => !GENERIC.has(w) && !place.has(w) && !/^\d+$/.test(w));
+  return distinct.some((w) => fileWords.has(w));
+}

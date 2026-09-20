@@ -2,7 +2,7 @@
 //   node --test scripts/lib/event-hero-tier.test.mjs
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { heroTierReason } from './event-hero-tier.mjs';
+import { heroTierReason, fileNamesTheEvent } from './event-hero-tier.mjs';
 
 const COVERS = { Hanoi: { url: 'https://upload.wikimedia.org/wikipedia/commons/a/a1/Hoan_Kiem_at_dusk.jpg' } };
 
@@ -73,4 +73,34 @@ test('실제 배치된 사진은 엄격한 규칙에서도 남는다', () => {
 
 test('행사장이 일반명사뿐이면 근거가 되지 않는다', () => {
   assert.equal(heroTierReason('https://upload.wikimedia.org/wikipedia/commons/1/11/Some_Arena.jpg', { region: '', eventVenue: 'Arena' }), null);
+});
+
+
+// ── 파일명이 "행사 자체"를 가리키는가 (기록사진 규칙의 면제 조건) ──
+const QUICK_STYLE = {
+  title: 'Quick Style India Tour 2026: What to Know (Chandigarh)',
+  region: 'Chandigarh',
+  country: 'India',
+};
+
+test('도시 랜드마크 사진은 연도가 박혀 있어도 행사를 가리키지 않는다', () => {
+  const url = 'https://upload.wikimedia.org/wikipedia/commons/1/1a/Palace_of_Assembly_Chandigarh_2006.jpg';
+  assert.equal(fileNamesTheEvent(url, QUICK_STYLE), false);
+  // 그리고 3순위(도시)로는 인정된다 — 두 조건이 같이 성립해야 면제된다.
+  assert.ok(heroTierReason(url, QUICK_STYLE));
+});
+
+test('같은 도시 이름이 붙어 있어도 출연자 이름이 있으면 면제되지 않는다', () => {
+  const url = 'https://upload.wikimedia.org/wikipedia/commons/1/1a/Quick_Style_Chandigarh_2006.jpg';
+  assert.equal(fileNamesTheEvent(url, QUICK_STYLE), true);
+});
+
+test('도시·행사장·나라·연도는 "행사 이름"으로 치지 않는다', () => {
+  const url = 'https://upload.wikimedia.org/wikipedia/commons/5/5c/Chandigarh_India_2026.jpg';
+  assert.equal(fileNamesTheEvent(url, QUICK_STYLE), false);
+});
+
+test('빈 입력에 죽지 않는다', () => {
+  assert.equal(fileNamesTheEvent('', QUICK_STYLE), false);
+  assert.equal(fileNamesTheEvent('https://x/y.jpg', null), false);
 });

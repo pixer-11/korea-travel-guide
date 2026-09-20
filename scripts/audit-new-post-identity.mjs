@@ -23,6 +23,7 @@ import { execSync } from 'node:child_process';
 import matter from 'gray-matter';
 import { commonsTitle, fetchCommonsMeta, judgeIdentity, judgeFoursquareCredit, loadWorld } from './lib/commons-identity.mjs';
 import { archiveYearProblem } from './lib/commons.mjs';
+import { heroTierReason, fileNamesTheEvent } from './lib/event-hero-tier.mjs';
 
 const DIR = 'src/content/posts';
 const since = (process.argv.find((a) => a.startsWith('--since=')) || '').slice(8);
@@ -96,7 +97,14 @@ for (const f of files) {
     // Recurring festivals look the same every year — Palio, Awa Odori,
     // Tomatina — and an older photo of the same festival is the right one.
     const recurring = new RegExp(String.raw`festival|matsuri|palio|tomatina|carnival|parade|fireworks|basho|odori|fair\b`, 'i').test(String(data.title));
-    if (a && !recurring) say('ARCHIVE-PHOTO', f, `이벤트 대표사진이 ${a.replace('archive-', '')}년 사진`);
+    // A third-tier photo — the city, or the venue — is excused. Its year dates
+    // the exposure, not the event: Palace_of_Assembly_Chandigarh_2006.jpg on a
+    // 2026 dance-tour guide is Le Corbusier's building, which has not changed,
+    // and the owner's 2026-09-11 rule puts a city photo there on purpose when no
+    // photo of the act exists. The excuse is withdrawn the moment the filename
+    // names the act itself, which is the real defect (lib/event-hero-tier.mjs).
+    const cityTier = Boolean(heroTierReason(hero.url, data)) && !fileNamesTheEvent(hero.url, data);
+    if (a && !recurring && !cityTier) say('ARCHIVE-PHOTO', f, `이벤트 대표사진이 ${a.replace('archive-', '')}년 사진`);
   }
 
   // 4) Commons: ask the uploader where this photo is. Queue for batch fetch.
