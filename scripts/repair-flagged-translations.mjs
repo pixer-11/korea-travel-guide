@@ -87,13 +87,17 @@ for (let i = 0; i < targets.length; i += BATCH) {
   try {
   for (const j of batch) await unlink(j.file);
 
-  // translate-posts fills whatever is missing SITE-WIDE, so a batch of twelve can
-  // be crowded out by other gaps and come back with three of its own files still
-  // absent (seen 2026-09-07). Run it again while any of this batch is missing, and
-  // only then fall back to restoring.
+  // translate-posts used to be called bare, and it fills whatever is missing
+  // SITE-WIDE: a batch of twelve could be crowded out by other gaps and come back
+  // with three of its own files still absent (seen 2026-09-07). Name the batch
+  // instead. That also reaches the one case a bare run could never fix — a post
+  // held as a draft keeps its old translation, and only an explicitly named slug
+  // gets a draft re-translated (lib/translate-scope.mjs). ja/mumbai-fielia sat
+  // unrepairable for exactly that reason until 2026-09-20.
+  const only = `--only=${batch.map((j) => j.key).join(',')}`;
   let summary = '(no summary)';
   for (let attempt = 1; attempt <= 3; attempt++) {
-    const run = spawnSync(process.execPath, ['scripts/translate-posts.mjs'], {
+    const run = spawnSync(process.execPath, ['scripts/translate-posts.mjs', only], {
       encoding: 'utf8', stdio: ['ignore', 'pipe', 'pipe'], maxBuffer: 5e7,
     });
     summary = /TRANSLATE_SUMMARY .*/.exec([run.stdout, run.stderr].join('\n'))?.[0] ?? '(no summary)';

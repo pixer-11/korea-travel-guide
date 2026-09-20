@@ -34,6 +34,7 @@ import { koMangledSyllables } from './lib/ko-syllables.mjs';
 // SAME rules — a detector the writer does not consult is a warning, not a gate.
 import { scriptLeakFlags } from './lib/translation-leak.mjs';
 import { findToolSpill } from './lib/tool-spill.mjs';
+import { namedIds, translatable } from './lib/translate-scope.mjs';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const OUT = fileURLToPath(new URL('../src/content/i18n/', import.meta.url));
@@ -55,6 +56,8 @@ const ONLY = (arg('only') || '')
   .filter(Boolean);
 const onlyPairs = new Set(ONLY.filter((s) => s.includes('/')));
 const onlySlugs = new Set(ONLY.filter((s) => !s.includes('/')));
+// Slugs the caller pointed at by name; these override the draft skip below.
+const NAMED_IDS = namedIds(ONLY);
 const wanted = (lang, id) =>
   !ONLY.length || onlySlugs.has(id) || onlyPairs.has(`${lang}/${id}`);
 
@@ -499,7 +502,9 @@ for (const f of files) {
   const end = raw.indexOf('\n---', 3);
   let fm;
   try { fm = yaml.load(raw.slice(4, end)); } catch { continue; }
-  if (!fm || fm.draft) continue;
+  // Drafts are skipped unless the caller named this slug — see lib/translate-scope.mjs
+  // for why (a photo-held draft kept a broken translation nothing could repair).
+  if (!translatable(fm, id, NAMED_IDS)) continue;
   const body = raw.slice(end + 4).trim();
   if (!body) continue;
 
