@@ -201,6 +201,13 @@ export function isPerishable(text, now = new Date()) {
 const MONTHS = ['january', 'february', 'march', 'april', 'may', 'june', 'july',
   'august', 'september', 'october', 'november', 'december'];
 
+/** A calendar date of any kind — a month with a day number, or a bare year. */
+export function hasSpecificDate(text) {
+  const t = String(text);
+  const month = String.raw`(?:jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?`;
+  return new RegExp(String.raw`\b${month}\s+\d{1,2}\b|\b\d{1,2}\s+${month}\b|\b(19|20)\d{2}\b`, 'i').test(t);
+}
+
 /**
  * The opening sentence: the first rung that holds.
  * @returns {{text: string, kind: 'quiet'|'closed'|'hours'|'answer'} | null}
@@ -235,8 +242,12 @@ export function openingHook(post) {
   // hook. "MEFCC 2026 was set for September 11-13" reads as news for a week
   // and as a dead pin forever after — and the ended-event rewrites put that
   // past tense into the corpus on purpose.
+  // A FUTURE date is no safer than a past one here, only slower: "GITEX Vietnam
+  // runs October 1-2, 2026" is true for ten more days and then wrong forever,
+  // and nothing ever rewrites that pin. Dated sentences are not hooks at all.
   const first = String(post.quickAnswer || '').split(/(?<=[.!?])\s/)[0];
-  if (first && first.length >= 40 && first.length <= 220 && !hasMoney(first) && !isPerishable(first)) {
+  if (first && first.length >= 40 && first.length <= 220
+    && !hasMoney(first) && !isPerishable(first) && !hasSpecificDate(first)) {
     return { text: first.trim(), kind: 'answer' };
   }
   return null;
@@ -288,9 +299,14 @@ export function pinDescription(post, body = '') {
   const hook = openingHook(post);
   if (hook) bits.push(hook.text);
 
-  // 2. What it is and where, in the words people search.
+  // 2. What it is and where, in the words people search. When there is no
+  // Places name, the post title stands in — but a title carries our SEO tail
+  // ("MassKara Festival: Dates, Tickets & Venue (Bacolod)"), and printing that
+  // whole thing is how a pin said "MassKara Festival … MassKara Festival in
+  // Bacolod" in consecutive sentences.
   const where = [region, country].filter(Boolean).join(', ');
-  const name = place.name || post.title || '';
+  const titleName = String(post.title || '').split(':')[0].replace(/\s*\([^)]*\)\s*$/, '').trim();
+  const name = place.name || titleName;
   if (hook?.kind !== 'answer') {
     if (name && where) bits.push(`${name} in ${where}.`);
     else if (where) bits.push(`${where}.`);
@@ -313,11 +329,21 @@ export function pinDescription(post, body = '') {
   // 5. Fallback: a post with no place data still needs a sentence of substance.
   // Same bar as every rung: the Google meta description does not get to skip
   // the money and perishability checks just because it arrives last.
-  if (bits.length <= 2 && post.description) {
+  // …and it is not needed at all when the hook is already a full sentence from
+  // the guide: GITEX Vietnam read "…runs October 1-2, 2026. GITEX Vietnam in
+  // Hanoi, Vietnam — October 1-2, 2026. Hanoi, Vietnam." — the same fact three
+  // times, because the fallback fired on top of an answer hook.
+  if (bits.length <= 2 && post.description && hook?.kind !== 'answer') {
     const firstSentence = String(post.description).split(/(?<=[.!?])\s/)[0];
-    if (firstSentence && !hasMoney(firstSentence) && !isPerishable(firstSentence)) {
-      bits.splice(1, 0, firstSentence);
-    }
+    const usable = firstSentence
+      && !hasMoney(firstSentence)
+      && !isPerishable(firstSentence)
+      // The fallback is the last way a date can reach a pin, and it took it:
+      // 34 queued pins carried an event's dates in through here.
+      && !hasSpecificDate(firstSentence)
+      // …and it must not simply restate the sentence beside it.
+      && !(name && firstSentence.startsWith(name));
+    if (usable) bits.splice(1, 0, firstSentence);
   }
 
   // Pinterest turns any "#word" in a description into a hashtag, so a Singapore

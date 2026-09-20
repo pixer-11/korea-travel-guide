@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { pinDescription, friendlyHours, openingHook, isPerishable, tidyClock, uniformHours, offersLine, parseDayLines } from './pin-description.mjs';
+import { pinDescription, friendlyHours, openingHook, isPerishable, tidyClock, uniformHours, offersLine, parseDayLines, hasSpecificDate } from './pin-description.mjs';
 
 const POST = {
   title: 'Fushimi Inari Taisha: Kyoto Travel Guide (4.7★)',
@@ -315,4 +315,20 @@ test('본문 속 우물정자는 해시태그가 아니다 (싱가포르 유닛�
   for (const tag of d.match(/#\S+/g) || []) {
     assert.ok(/^#[A-Z]/.test(tag), `junk hashtag: ${tag}`);
   }
+});
+
+test('날짜가 박힌 문장은 미래라도 훅이 아니다 — 핀은 영구적이다', () => {
+  const q = 'GITEX Vietnam (officially GITEX AI Vietnam) runs October 1-2, 2026 in Hanoi, part of the global network.';
+  assert.equal(openingHook({ quickAnswer: q }), null);
+  assert.equal(hasSpecificDate('runs October 1-2, 2026 in Hanoi'), true);
+  assert.equal(hasSpecificDate('The night market runs every Friday evening along the old canal.'), false);
+});
+
+test('answer 훅 위에 메타 설명을 겹쳐 쓰지 않는다', () => {
+  const d = pinDescription({
+    region: 'Hanoi', country: 'Vietnam',
+    quickAnswer: 'Tran Quoc Pagoda is the oldest Buddhist temple in Hanoi, standing on a small islet in West Lake since the sixth century.',
+    description: 'Tran Quoc Pagoda in Hanoi, Vietnam — the oldest Buddhist temple in the city.',
+  }, '## When to go\nEarly morning.');
+  assert.equal((d.match(/Tran Quoc Pagoda/g) || []).length, 1, '같은 사실이 두 번 나오면 안 된다');
 });
