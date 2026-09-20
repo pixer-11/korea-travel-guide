@@ -21,7 +21,9 @@
 // Nothing here may invent a fact; money amounts are refused outright (the
 // 2026-09-20 fabricated-price class stays out of Pinterest too).
 import { quietWindowSummary } from './quiet-window.mjs';
-import { closedDaysOf } from '../../src/lib/itinerary.mjs';
+// NOTE: the itineraries' closedDaysOf() is deliberately NOT used here. It is
+// forgiving by design (a line it cannot read is simply not closed), which is
+// right for a page that can be rebuilt and wrong for a pin that cannot.
 
 const MAX = 480; // Pinterest allows 500; leave room for the tail
 
@@ -47,7 +49,18 @@ export function friendlyHours(summary) {
 // ── the hook ladder ──────────────────────────────────────────
 // Every rung is a fact already in the post's frontmatter. Nothing is inferred,
 // nothing is rounded into a promise, and no rung may carry a money amount.
-const MONEY = /[$€£¥₩฿]\s?\d|\b\d+([.,]\d+)?\s?(usd|eur|gbp|jpy|krw|thb|vnd|idr|php|baht|won|yen|euros?|dollars?|pounds?)\b/i;
+const SYMBOL = String.raw`[$€£¥₩฿₫₹]`;
+const CODE = String.raw`(?:usd|eur|gbp|jpy|krw|thb|vnd|idr|php|myr|sgd|hkd|twd|cny|rmb|inr|aed|sar|aud|nzd|cad|chf|try|rub|baht|won|yen|yuan|rupees?|rupiah|dirhams?|ringgit|pesos?|euros?|dollars?|pounds?)`;
+// A price can read "$12", "12 USD" or "USD 12" — all three keep a pin out.
+// Codex found the third shape walking straight through the old pattern, which
+// only looked for a code AFTER a number (2026-09-21).
+const MONEY = new RegExp(
+  [
+    String.raw`${SYMBOL}\s?\d`,
+    String.raw`\b\d+([.,]\d+)?\s?(${CODE}|${SYMBOL})\b`,
+    String.raw`\b${CODE}\s?\d`,
+  ].join('|'),
+  'i');
 
 const DAYS = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
 
@@ -64,11 +77,30 @@ export function tidyClock(text) {
 }
 
 /** Google weekdayDescriptions where all seven days read the same → that one range. */
-export function uniformHours(lines) {
+/**
+ * Google's weekdayDescriptions, parsed strictly: seven lines, one per weekday,
+ * each "Day: value". Anything else returns null and the caller must stay quiet.
+ * Codex found both halves of why this has to be strict (2026-09-21):
+ * "Sunday : Closed" slipped past the day parser and the complement then
+ * ANNOUNCED Sunday as open, and seven copies of Monday read as a full week.
+ */
+export function parseDayLines(lines) {
   if (!Array.isArray(lines) || lines.length !== 7) return null;
-  const times = lines.map((l) => (/^\w+:\s*(.+)$/.exec(String(l).trim()) || [])[1]).filter(Boolean);
-  if (times.length !== 7) return null;
-  const set = new Set(times.map((t) => t.trim()));
+  const byDay = new Map();
+  for (const line of lines) {
+    const m = /^\s*([A-Za-z]+)\s*:\s*(\S.*)$/.exec(String(line));
+    if (!m) return null;
+    const day = m[1][0].toUpperCase() + m[1].slice(1).toLowerCase();
+    if (!DAYS.includes(day) || byDay.has(day)) return null;
+    byDay.set(day, m[2].trim());
+  }
+  return byDay.size === 7 ? byDay : null;
+}
+
+export function uniformHours(lines) {
+  const byDay = parseDayLines(lines);
+  if (!byDay) return null;
+  const set = new Set([...byDay.values()]);
   if (set.size !== 1) return null;
   const only = [...set][0];
   if (/closed/i.test(only) || /24\s*hours/i.test(only)) return null;
@@ -91,6 +123,18 @@ export function isPerishable(text, now = new Date()) {
     const y = Number(m[0]);
     if (y < thisYear && y >= thisYear - 5) return true;
   }
+  // A date in the CURRENT year can already be behind us — "runs September
+  // 11-13, 2026" read on the 21st is a dead pin (Codex found this).
+  const MONTHS = ['january', 'february', 'march', 'april', 'may', 'june', 'july',
+    'august', 'september', 'october', 'november', 'december'];
+  for (const m of t.matchAll(/\b([A-Z][a-z]+)\s+(\d{1,2})(?:\s*[-–—]\s*(\d{1,2}))?(?:,\s*(\d{4}))?/g)) {
+    const month = MONTHS.indexOf(m[1].toLowerCase());
+    if (month < 0) continue;
+    const year = m[4] ? Number(m[4]) : thisYear;
+    if (year !== thisYear) continue;
+    const end = new Date(Date.UTC(year, month, Number(m[3] || m[2]), 23, 59, 59));
+    if (end < now) return true;
+  }
   return false;
 }
 
@@ -104,11 +148,16 @@ export function openingHook(post = {}) {
   const quiet = friendlyHours(quietWindowSummary(place.busyness));
   if (quiet) return { text: `Quietest ${quiet}.`, kind: 'quiet' };
 
-  const closed = closedDaysOf(place.openingHours);
-  if (closed.length && closed.length <= 2) {
+  // Both the closed days and the open ones come out of the SAME parse. Reading
+  // "closed" with one parser and announcing "open" from another is how "Sunday
+  // : Closed" became "Open Sundays" — one space, and the pin says the opposite
+  // of the truth (Codex, 2026-09-21).
+  const byDay = parseDayLines(place.openingHours);
+  const closed = byDay ? DAYS.filter((d) => /^closed$/i.test(byDay.get(d) || '')) : [];
+  if (byDay && closed.length && closed.length <= 2) {
     return { text: `Closed ${listOf(closed.map((d) => `${d}s`))}.`, kind: 'closed' };
   }
-  if (closed.length >= 3 && closed.length <= 5) {
+  if (byDay && closed.length >= 3 && closed.length <= 5) {
     const open = DAYS.filter((d) => !closed.includes(d));
     if (open.length) return { text: `Open ${listOf(open.map((d) => `${d}s`))} only.`, kind: 'closed' };
   }
@@ -136,10 +185,14 @@ export function offersLine(body = '', { hoursShown = false, hasHours = false } =
   const text = String(body);
   const offers = [];
   if (hasHours && !hoursShown) offers.push('opening hours');
-  if (/getting (there|around)|how to get|nearest (station|stop)|take the (subway|metro|bus|train)/i.test(text)) {
+  // "how to get TICKETS" is not a way there (Codex found this).
+  if (/getting (there|around)|how to get to\b|nearest (station|stop)|take the (subway|metro|bus|train)|\bby (subway|metro|bus|train|taxi)\b/i.test(text)) {
     offers.push('how to get there');
   }
-  if (/when to (go|visit)|best time|quiet|crowd/i.test(text)) offers.push('when to go to beat the crowds');
+  // …and a "quiet courtyard" is not a crowd-timing section.
+  if (/when to (go|visit)|best time to|beat the crowds|quiet(est)? (time|hour|window|moment)|less crowded|avoid the crowds/i.test(text)) {
+    offers.push('when to go to beat the crowds');
+  }
   if (!offers.length) return null;
   const s = listOf(offers);
   return s[0].toUpperCase() + s.slice(1) + '.';
@@ -185,7 +238,14 @@ export function pinDescription(post = {}, body = '') {
   if (offers) bits.push(offers);
 
   // 5. Fallback: a post with no place data still needs a sentence of substance.
-  if (bits.length <= 2 && post.description) bits.splice(1, 0, String(post.description).split(/(?<=[.!?])\s/)[0]);
+  // Same bar as every rung: the Google meta description does not get to skip
+  // the money and perishability checks just because it arrives last.
+  if (bits.length <= 2 && post.description) {
+    const firstSentence = String(post.description).split(/(?<=[.!?])s/)[0];
+    if (firstSentence && !MONEY.test(firstSentence) && !isPerishable(firstSentence)) {
+      bits.splice(1, 0, firstSentence);
+    }
+  }
 
   let out = bits.join(' ').replace(/\s+/g, ' ').trim();
   if (out.length > MAX) out = out.slice(0, MAX).replace(/\s\S*$/, '');

@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { pinDescription, friendlyHours, openingHook, isPerishable, tidyClock, uniformHours } from './pin-description.mjs';
+import { pinDescription, friendlyHours, openingHook, isPerishable, tidyClock, uniformHours, offersLine, parseDayLines } from './pin-description.mjs';
 
 const POST = {
   title: 'Fushimi Inari Taisha: Kyoto Travel Guide (4.7★)',
@@ -121,7 +121,74 @@ test('훅이 이미 영업시간을 말했으면 끝 문장에서 되풀이하�
 test('시계 표기와 균일 영업시간 판정', () => {
   assert.equal(tidyClock('9:00 AM – 7:00 PM'), '9am-7pm');
   assert.equal(tidyClock('10:30 AM – 6:00 PM'), '10:30am-6pm');
-  assert.equal(uniformHours(Array(7).fill('Monday: 9:00 AM – 5:00 PM')), '9am-5pm');
-  assert.equal(uniformHours(Array(7).fill('Monday: Closed')), null);
+  // Seven real weekdays — not seven copies of Monday, which is what this test
+  // used to pass in until Codex pointed out it is not a week (2026-09-21).
+  const days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
+  assert.equal(uniformHours(days.map((d) => `${d}: 9:00 AM – 5:00 PM`)), '9am-5pm');
+  assert.equal(uniformHours(days.map((d) => `${d}: Closed`)), null);
   assert.equal(uniformHours(['Monday: 9:00 AM – 5:00 PM']), null);
+});
+
+// ── 2026-09-21, second pass: the six defects Codex found in the ladder ───────
+// Every one of them let a pin state something that was not true, and a pin is
+// permanent. Each is pinned down here in both directions.
+
+const WEEK = (f) => ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'].map(f);
+
+test('돈: 통화가 숫자 앞에 와도 막는다 ("USD 20" · "50 AED")', () => {
+  for (const q of [
+    'Entry costs USD 20 for adults visiting the palace and its walled gardens.',
+    'Entry costs 20 USD for adults visiting the palace and its walled gardens.',
+    'Entry costs 50 AED for adults visiting the palace and its walled gardens.',
+    'Entry costs 300 baht for adults visiting the palace and its walled gardens.',
+  ]) assert.equal(openingHook({ quickAnswer: q }), null, q);
+  // 시간·거리 숫자는 막지 않는다
+  assert.ok(openingHook({ quickAnswer: 'A 30 minute walk from the station brings you to the main gate of the old town.' }));
+});
+
+test('구글 메타 설명 폴백도 같은 검사를 받는다', () => {
+  const d = pinDescription({
+    title: 'Museum', region: 'Pisa', country: 'Italy',
+    description: 'Admission costs $20 for adults.',
+    place: { busyness: { weekdayQuiet: [9] } },
+  }, 'The museum opened in 1867.');
+  assert.doesNotMatch(d, /\$20/);
+});
+
+test('올해 안이라도 이미 지난 날짜면 훅으로 쓰지 않는다', () => {
+  const now = new Date('2026-09-21T12:00:00Z');
+  assert.equal(isPerishable('The festival runs September 11-13, 2026, at the city exhibition centre.', now), true);
+  assert.equal(isPerishable('The festival runs October 11-13, 2026, at the city exhibition centre.', now), false);
+});
+
+test('본문에 우연히 걸린 낱말은 섹션이 아니다', () => {
+  assert.equal(offersLine('Learn how to get tickets online.'), null);
+  assert.equal(offersLine('The quiet courtyard contains a bronze statue.'), null);
+  assert.equal(offersLine('Getting there: take the metro. When to go: mornings are quietest.'),
+    'How to get there and when to go to beat the crowds.');
+});
+
+test('읽을 수 없는 요일 줄을 영업일로 단정하지 않는다 ("Sunday : Closed")', () => {
+  const odd = ['Monday: Closed', 'Tuesday: Closed', 'Wednesday: Closed',
+    'Thursday: 9:00 AM – 5:00 PM', 'Friday: 9:00 AM – 5:00 PM', 'Saturday: 9:00 AM – 5:00 PM',
+    'Sunday : Closed'];
+  const hook = openingHook({ place: { openingHours: odd } });
+  assert.match(hook.text, /^Open Thursdays, Fridays and Saturdays only\.$/);
+  assert.doesNotMatch(hook.text, /Sunday/, 'a closed Sunday must never be announced as open');
+});
+
+test('요일 7줄이라고 한 주가 아니다 — 같은 요일 반복은 거부', () => {
+  assert.equal(parseDayLines(Array(7).fill('Monday: 9:00 AM – 5:00 PM')), null);
+  assert.equal(openingHook({ place: { openingHours: Array(7).fill('Monday: 9:00 AM – 5:00 PM') } }), null);
+  assert.equal(parseDayLines(WEEK((d) => `${d}: 9:00 AM – 5:00 PM`)).size, 7);
+  assert.equal(openingHook({ place: { openingHours: WEEK((d) => `${d}: 9:00 AM – 5:00 PM`) } }).text, 'Open daily 9am-5pm.');
+  assert.equal(parseDayLines(WEEK((d) => `${d}: 9:00 AM – 5:00 PM`).slice(0, 6)), null);
+  assert.equal(parseDayLines(null), null);
+});
+
+test('이상한 프론트매터에도 죽지 않는다', () => {
+  assert.doesNotThrow(() => pinDescription({}, ''));
+  assert.doesNotThrow(() => pinDescription({ place: null }, null));
+  assert.doesNotThrow(() => pinDescription({ place: { openingHours: 'Monday: 9-5' } }, ''));
+  assert.doesNotThrow(() => pinDescription({ place: { busyness: { weekdayQuiet: 'nonsense' } } }, ''));
 });
