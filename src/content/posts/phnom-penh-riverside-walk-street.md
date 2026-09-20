@@ -49,8 +49,7 @@ faq:
   - q: "Is it crowded like the main riverfront strip?"
     a: "No, it's currently a quieter, under-the-radar stretch of garden compared to the busier restaurant-and-bar section of Sisowath Quay further south, though weekend evenings do bring local families and walkers."
 aiGenerated: true
-draft: true
-heldReason: hours
+draft: false
 ---
 
 Phnom Penh's riverfront runs for kilometers, but the stretch officially designated Riverside Walk Street is a specific closed-to-traffic segment near the confluence of the Tonle Sap and Mekong rivers, close to the Royal Palace and Wat Ounalom. It's a garden-lined promenade rather than a market or a monument, which is exactly the point: it exists so people can walk here without dodging tuk-tuks.

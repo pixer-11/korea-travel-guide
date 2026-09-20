@@ -1,8 +1,8 @@
 ---
-title: "Parc national du Mercantour: Provence Travel Guide (4.7★)"
-description: "Parc national du Mercantour spans 67,900 hectares along the Provence-Alps border, and the administrative office at 23 Rue d'Italie in Nice is where to start for maps and trail advice, not the park itself. 4.7★ (12,867 reviews) — what visitors say, hours, and tips."
+title: 'Parc national du Mercantour: Nice Travel Guide (4.7★)'
+description: Parc national du Mercantour spans 67,900 hectares of valleys along the Italian border north of Nice, and the administrative office at 23 Rue d'Italie in Nice is where to start for maps and trail advice, not the park itself. 4.7★ (12,867 reviews) — what visitors say, hours, and tips.
 country: "France"
-region: "Provence"
+region: Nice
 category: "attraction"
 pubDate: "2026-09-20T07:42:52.175Z"
 heroImage:
@@ -65,8 +65,6 @@ faq:
   - q: "Do I need to book anything in advance?"
     a: "Mountain refuges fill fast in July and August and should be booked ahead, since there's no cell signal on most trails to arrange it last minute."
 aiGenerated: true
-draft: true
-heldReason: wrong-region
 ---
 
 Mercantour is not one gate you walk through. It's a chain of valleys stacked along the Italian border north of Nice, each with its own access road, car parks and rangers' huts. Established in 1979, it covers 67,900 hectares of granite peaks, glacial lakes and gorges, and it's the only French Alpine park that touches the Mediterranean climate zone. That mix is why summer visitors find snowfields above 2,500m and lavender scrub in the same day.

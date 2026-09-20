@@ -45,8 +45,6 @@ faq:
   - q: "What should I wear or bring?"
     a: "Closed shoes for the loose volcanic sand, a scarf for windblown dust, and your own water, since there's no shade or vendors at the temple itself."
 aiGenerated: true
-draft: true
-heldReason: content
 ---
 
 Most people driving across the Sea of Sand are aiming for the base of Bromo's crater steps, eyes on the volcano, and they barely register the temple until they're almost on top of it. Pura Luhur Poten sits by itself on the grey volcanic plain, walled in black stone, with the cone of Bromo smoking gently behind it. There's no village around it, no row of stalls pressing in. Just sand, wind, and a temple that looks like it grew out of the ash rather than being built on it.

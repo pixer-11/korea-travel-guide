@@ -69,8 +69,7 @@ faq:
   - q: "What's nearby?"
     a: "The Phillip and Patricia Frost Museum of Science sits in the same Museum Park complex, making the two an easy pairing in one day."
 aiGenerated: true
-draft: true
-heldReason: hours
+draft: false
 ---
 
 ## What's actually inside
