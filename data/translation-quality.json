@@ -1463,11 +1463,11 @@
   "at": "2026-08-15T02:26:14.332Z"
  },
  "ko/marseille-museum-of-european-and-mediterranean-civilisations": {
-  "hash": "336690920e9b",
+  "hash": "303701e49dd1",
   "score": 1,
   "registerBreak": false,
-  "worst": "검은 콘크리트 레이스 스크린이 정육면체 건물을 마치 철망을 두른 화물 컨테이너처럼 감싸고 있고...",
-  "at": "2026-08-15T02:26:17.049Z"
+  "worst": "검은 콘크리트 레이스 스크린이 정육면체 모양 건물을 감싸고 있는 모습은 마치 철망을 두른 컨테이너 같고...",
+  "at": "2026-09-20T12:37:00.978Z"
  },
  "ko/marina-bay-skypark-observation-deck": {
   "hash": "b7265b06c6a7",
@@ -1498,11 +1498,11 @@
   "at": "2026-08-15T02:26:22.786Z"
  },
  "ko/marseille-palais-longchamp": {
-  "hash": "5a57ad5103d0",
+  "hash": "85e9f1a184f7",
   "score": 1,
   "registerBreak": false,
-  "worst": "석재가 따뜻한 빛을 아름답게 받아들이고, 그 시간대엔 대개 인파도 많이 줄어 있습니다.",
-  "at": "2026-08-15T02:26:34.686Z"
+  "worst": "경사진 길을 걷고 싶지 않다면 롱샹 대로 근처에 버스 정류장도 있습니다.",
+  "at": "2026-09-20T12:37:02.850Z"
  },
  "ko/miami-lafayette-miami": {
   "hash": "f9ded0ef6776",
@@ -1533,11 +1533,11 @@
   "at": "2026-08-15T08:34:58.561Z"
  },
  "ko/milan-duomo-di-milano": {
-  "hash": "477f1a0550ac",
+  "hash": "17a3dc231348",
   "score": 1,
   "registerBreak": false,
-  "worst": "수십만 명의 방문객이 밀라노 최고의 명소 중 하나로 꼽는 이곳은 도시를 대표하는 놓칠 수 없는 랜드마크이자...",
-  "at": "2026-08-15T02:26:47.459Z"
+  "worst": "수십만 명의 방문객으로부터 밀라노 최고의 명소로 꼽히는 두오모는 이 도시에서 절대 놓쳐서는 안 될 핵심 볼거리이자",
+  "at": "2026-09-20T12:37:10.461Z"
  },
  "ko/milan-galleria-vittorio-emanuele-ii": {
   "hash": "2aa6a31bed3f",
@@ -7224,18 +7224,18 @@
   "at": "2026-08-15T03:00:10.641Z"
  },
  "ja/marseille-museum-of-european-and-mediterranean-civilisations": {
-  "hash": "1c41209d099f",
+  "hash": "a92cec22b95c",
   "score": 1,
   "registerBreak": false,
-  "worst": "J4building上層階を年代順・テーマ別に巡る構成になっており",
-  "at": "2026-08-15T03:00:12.119Z"
+  "worst": "地元の人にとってMuCEMは、端から端まで見て回る博物館というより、歩き回ったり外に座ったりする場所という側面も強く",
+  "at": "2026-09-20T12:38:30.001Z"
  },
  "ja/marseille-palais-longchamp": {
-  "hash": "9b4b5faeb158",
+  "hash": "416d3de78433",
   "score": 1,
   "registerBreak": false,
-  "worst": "最も簡単なのはメトロを利用する方法で、1号線（Line 1）のCinq Avenues Longchamp駅で降りれば、ほぼ正門の目の前です。",
-  "at": "2026-08-15T03:00:14.022Z"
+  "worst": "早朝の時間帯に行けない場合は、golden hour(日没前後の黄金時間帯)を狙うとよいでしょう。",
+  "at": "2026-09-20T12:36:53.335Z"
  },
  "ja/marseille-port-antique": {
   "hash": "8ed35df4bed9",
@@ -7280,11 +7280,11 @@
   "at": "2026-08-15T03:00:36.283Z"
  },
  "ja/milan-duomo-di-milano": {
-  "hash": "85a5acdb07dc",
+  "hash": "f9a1d22a16d6",
   "score": 1,
   "registerBreak": false,
-  "worst": "ミラノ中心部のあらゆる道がこの広場へと通じているようなものです。",
-  "at": "2026-08-15T03:00:38.119Z"
+  "worst": "大聖堂のファサードが、自然と目を引く中心的な存在になります。",
+  "at": "2026-09-20T12:36:58.738Z"
  },
  "ja/milan-colonne-di-san-lorenzo": {
   "hash": "e59023835705",
@@ -13188,11 +13188,11 @@
   "at": "2026-08-15T06:38:47.294Z"
  },
  "es/marseille-museum-of-european-and-mediterranean-civilisations": {
-  "hash": "84167787ea48",
+  "hash": "c4d0c7a0ea8e",
   "score": 1,
   "registerBreak": false,
-  "worst": "Ves el MuCEM antes de llegar a él.",
-  "at": "2026-08-15T03:27:55.707Z"
+  "worst": "Los locales suelen tratar el MuCEM tanto como un lugar por el que pasear y sentarse al a",
+  "at": "2026-09-20T12:36:35.017Z"
  },
  "es/marseille-notre-dame-de-la-garde": {
   "hash": "b3155eebe857",
@@ -13237,11 +13237,11 @@
   "at": "2026-08-15T03:28:18.643Z"
  },
  "es/marseille-palais-longchamp": {
-  "hash": "8bd7428b312f",
+  "hash": "a731476e078c",
   "score": 1,
   "registerBreak": false,
-  "worst": "Las multitudes se comportan de forma distinta entre semana y los fines de semana, aunque...",
-  "at": "2026-08-15T06:38:48.695Z"
+  "worst": "para uno mismo y hacer fotos, conviene llegar hacia las 8h. Además, la l",
+  "at": "2026-09-20T12:36:36.905Z"
  },
  "es/miami-talkin-tacos-brickell": {
   "hash": "5b8136c89867",
@@ -13251,11 +13251,11 @@
   "at": "2026-08-15T06:38:50.530Z"
  },
  "es/milan-duomo-di-milano": {
-  "hash": "896ddc9133b1",
+  "hash": "6abe6ea1828b",
   "score": 1,
   "registerBreak": false,
-  "worst": "todas las calles del centro de Milán parecen converger hacia ella",
-  "at": "2026-08-15T03:28:26.143Z"
+  "worst": "Las colas para comprar la entrada en el momento, especialmente para acceder a la azotea, pueden superar co",
+  "at": "2026-09-20T12:36:38.414Z"
  },
  "es/milan-galleria-vittorio-emanuele-ii": {
   "hash": "6d71ab2d5e52",
@@ -18557,18 +18557,18 @@
   "at": "2026-08-15T04:03:31.377Z"
  },
  "zh/marseille-museum-of-european-and-mediterranean-civilisations": {
-  "hash": "14876816ec59",
+  "hash": "cb89c4ca37c1",
   "score": 1,
   "registerBreak": false,
-  "worst": "仿佛一只被浸染过的集装箱，整座建筑漂浮在J4广场的边缘，三面临海",
-  "at": "2026-09-12T07:58:02.655Z"
+  "worst": "这也是全城最有\"免费福利\"感的观景点之一：步道桥凌空跨越海面，两侧能同时望见大教堂和守护圣母圣殿",
+  "at": "2026-09-20T12:37:17.202Z"
  },
  "zh/marseille-palais-longchamp": {
-  "hash": "5ba81f59bb95",
+  "hash": "5e324d4927ce",
   "score": 1,
   "registerBreak": false,
-  "worst": "这里工作日与周末的人流规律有所不同,但无论哪天,都有一个共同的清静时段值得留意",
-  "at": "2026-08-15T04:03:38.650Z"
+  "worst": "在一片住宅区中央出现这样一幕奇特而戏剧化的景象，其实正是设计者的用意所在——它本就是为了被人观赏而建。",
+  "at": "2026-09-20T12:37:24.869Z"
  },
  "zh/marseille-parc-national-des-calanques": {
   "hash": "84f0d3fe14ce",
@@ -18599,11 +18599,11 @@
   "at": "2026-08-15T04:03:55.632Z"
  },
  "zh/milan-duomo-di-milano": {
-  "hash": "4c4c964e311f",
+  "hash": "baf9d9b22849",
   "score": 1,
   "registerBreak": false,
-  "worst": "从1386年在吉安·加莱亚佐·维斯孔蒂统治下开工,到20世纪初立面的最后修饰完成,大约耗费了六个世纪才建成。",
-  "at": "2026-08-15T04:04:03.375Z"
+  "worst": "数十万游客将它评为米兰最不容错过的景点之一，它不仅是这座城市当仁不让的核心地标",
+  "at": "2026-09-20T12:37:35.292Z"
  },
  "zh/milan-galleria-vittorio-emanuele-ii": {
   "hash": "03385b26d641",

@@ -20264,5 +20264,11 @@
     "verdict": "MATCH",
     "reason": "publish gate: Iconic Villa Borghese gate entrance, representative of the site",
     "at": "2026-09-20T07:59:05.831Z"
+  },
+  "tashkent-amir-temur-xiyoboni\u0001https://upload.wikimedia.org/wikipedia/commons/1/1e/Amir_Temur_statue_%28Tashkent%29_-_blackout.jpg": {
+    "slug": "tashkent-amir-temur-xiyoboni",
+    "verdict": "MATCH",
+    "reason": "publish gate: Equestrian statue in park, matches Tashkent landmark",
+    "at": "2026-09-20T12:33:34.402Z"
   }
 }

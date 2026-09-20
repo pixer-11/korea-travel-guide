@@ -38,8 +38,8 @@
    "hits": 0
   },
   "old quarter": {
-   "attempts": 7,
-   "hits": 2
+   "attempts": 15,
+   "hits": 3
   },
   "local market": {
    "attempts": 45,
@@ -78,7 +78,7 @@
    "hits": 0
   },
   "vegetarian": {
-   "attempts": 28,
+   "attempts": 36,
    "hits": 1
   },
   "concept cafe": {
@@ -94,7 +94,7 @@
    "hits": 0
   },
   "design shop": {
-   "attempts": 16,
+   "attempts": 17,
    "hits": 0
   },
   "Sisowath Quay Riverside": {
@@ -178,5 +178,5 @@
    "hits": 0
   }
  },
- "updated": "2026-09-20T07:59:05.847Z"
+ "updated": "2026-09-20T12:34:19.457Z"
 }
