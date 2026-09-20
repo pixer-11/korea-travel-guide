@@ -827,6 +827,12 @@ jobs:
           # the languages Bing sends most of our traffic from. translate-posts
           # now retries on it; this is the census of what already shipped.
           node scripts/audit-latin-drops.mjs
+          # 우리가 받는 가격 정보는 구글의 priceLevel(1~4)뿐이고 금액은 한 번도
+          # 주어지지 않는다. 그러니 글에 적힌 통화 금액은 전부 모델이 지어낸 것이다 —
+          # 대조할 데이터가 필요 없으므로 모델 호출 없이, 공짜로, 발행 시점에 내린다.
+          # 2026-09-21 에 86건(34편)이 라이브였고, 지어낸 사실을 잡던 유일한 장치는
+          # 주 1회 모델 감사였다(틀린 글이 최대 7일 라이브였다는 뜻).
+          node scripts/audit-money-claims.mjs
           # The vision gate asks "is this a concert photo?" and a photo of some
           # OTHER concert says yes. Twelve event guides were carrying a picture of
           # a different event entirely (2026-09-08) — a Mexican jazz festival on
