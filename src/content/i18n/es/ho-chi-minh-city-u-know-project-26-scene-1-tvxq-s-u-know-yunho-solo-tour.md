@@ -1,55 +1,55 @@
 ---
 lang: es
 slug: ho-chi-minh-city-u-know-project-26-scene-1-tvxq-s-u-know-yunho-solo-tour
-srcHash: '50083c319fcd'
-title: 'U-KNOW Project 26: SCENE#1 (gira en solitario de U-Know Yunho de TVXQ): lo que hay que saber (Ciudad Ho Chi Minh)'
-description: 'U-KNOW Project 26: SCENE#1 (gira en solitario de U-Know Yunho de TVXQ) en Ciudad Ho Chi Minh, Vietnam — 19 de septiembre de 2026. Qué es, cuándo y dónde es, y cómo organizar tu visita.'
-quickAnswer: La gira en solitario de U-Know Yunho, "SCENE#1", se presenta en el Military Zone 7 Indoor Stadium de Ciudad Ho Chi Minh, en el distrito de Tan Binh, el 19 de septiembre de 2026. Reserva un taxi con taxímetro o un Grab con bastante antelación al horario del show (el tráfico y las tarifas dinámicas son casi seguros), y verifica la fecha, los horarios de apertura de puertas y los detalles de las entradas en los canales oficiales antes de viajar, ya que nada de eso se ha confirmado públicamente todavía.
+srcHash: '8062aff2e9b7'
+title: 'U-KNOW Project 26: SCENE#1 (gira en solitario de U-Know Yunho, de TVXQ): lo que se sabía (Ciudad Ho Chi Minh)'
+description: La gira en solitario "SCENE#1" de U-Know Yunho tenía previsto pasar por el Military Zone 7 Indoor Stadium de Ciudad Ho Chi Minh el 19 de septiembre de 2026. Esto es lo que se anunció.
+quickAnswer: La gira en solitario "SCENE#1" de U-Know Yunho tenía prevista una fecha en el Military Zone 7 Indoor Stadium, en el distrito de Tan Binh, Ciudad Ho Chi Minh, para el 19 de septiembre de 2026. El recinto queda fuera del área central del Distrito 1, por lo que los coches de Grab y los taxis con taxímetro son la forma habitual de llegar; el tráfico y las tarifas dinámicas suelen ser parte normal de las noches de concierto en la ciudad.
 faq:
-  - q: ¿Dónde es exactamente el concierto?
-    a: En el Military Zone 7 Indoor Stadium, en el distrito de Tan Binh, Ciudad Ho Chi Minh — un gran recinto usado para los conciertos itinerantes más importantes, un poco alejado de la zona turística central del Distrito 1.
-  - q: ¿Cómo llego desde el centro de Ciudad Ho Chi Minh?
-    a: Lo más fácil es tomar un taxi o un Grab (auto o moto); calcula entre 30 y 45 minutos desde el Distrito 1/3, más en caso de tráfico. Acuerda con tu conductor un punto de referencia cercano para bajar, ya que la puerta exacta puede ser difícil de ubicar en una noche de concierto muy concurrida.
+  - q: ¿Dónde queda exactamente el concierto?
+    a: 'En el Military Zone 7 Indoor Stadium, en el distrito de Tan Binh, Ciudad Ho Chi Minh: un gran recinto usado para los conciertos itinerantes más importantes, algo alejado de la zona turística central del Distrito 1.'
+  - q: ¿Cómo se llega desde el centro de Ciudad Ho Chi Minh?
+    a: Lo más sencillo es tomar un taxi o un coche/moto de Grab; el trayecto dura entre 30 y 45 minutos desde el Distrito 1 o 3, más tiempo si hay tráfico. Los conductores suelen usar como punto de bajada algún lugar de referencia cercano, ya que la puerta exacta puede ser difícil de ubicar en una noche de concierto con mucha gente.
   - q: ¿Cuánto cuestan las entradas y cuándo salen a la venta?
-    a: Los precios y las fechas de venta aún no se han anunciado. Revisa los canales oficiales de redes sociales de Yunho o el promotor vietnamita autorizado más cerca de la fecha, en lugar de recurrir a revendedores.
+    a: El anuncio inicial de la fecha en Ciudad Ho Chi Minh no incluyó precios ni fechas de venta.
   - q: ¿Es un concierto de TVXQ o un show en solitario?
-    a: Es la gira mundial en solitario de Yunho (SCENE#1), independiente de las actividades grupales de TVXQ, aunque él se presenta como una de las dos partes de TVXQ junto a Changmin.
-  - q: ¿Qué debería hacer después del show dado la ubicación del recinto?
-    a: Tan Binh tiene poca vida nocturna justo alrededor del estadio, así que la mayoría de los fans regresan hacia el Distrito 1 para comer algo por la noche, o comen antes cerca de la zona del Aeropuerto Tan Son Nhat. Prevé largas esperas para conseguir un taxi/Grab justo después del show debido al tráfico de salida.
+    a: Se trata de la gira mundial en solitario de Yunho (SCENE#1), separada de las actividades grupales de TVXQ, aunque él forma parte del dúo junto a Changmin.
+  - q: ¿Qué se puede hacer después del show, dada la ubicación del recinto?
+    a: Tan Binh tiene poca vida nocturna en los alrededores inmediatos del estadio, así que la mayoría de los fans suele volver hacia el Distrito 1 para comer algo a altas horas de la noche, o cenar antes cerca de la zona del aeropuerto de Tan Son Nhat. Justo después del show, las esperas para conseguir un taxi o un Grab son largas debido al tráfico de salida.
 ---
 
-## Qué es realmente este show
+## De qué se trataba realmente este show
 
-U-Know Yunho no necesita presentación para nadie que haya seguido a TVXQ, el grupo masculino de K-pop más longevo, desde mediados de los años 2000. "U-KNOW Project 26: SCENE#1" es su gira mundial en solitario, y la fecha en Ciudad Ho Chi Minh (Ho Chi Minh City) cae el 19 de septiembre de 2026 en el Military Zone 7 Indoor Stadium, el mismo recinto de gran tamaño que suele albergar los conciertos itinerantes más importantes de la ciudad y eventos de deportes de combate.
+U-Know Yunho no necesita presentación para quien haya seguido a TVXQ, el grupo masculino de K-pop con la trayectoria más larga, desde mediados de la década de 2000. "U-KNOW Project 26: SCENE#1" era su gira mundial en solitario, y la parada en Ciudad Ho Chi Minh estaba prevista para el 19 de septiembre de 2026, en el Military Zone 7 Indoor Stadium, el mismo recinto de grandes dimensiones que suele albergar los conciertos itinerantes más importantes de la ciudad y también eventos de deportes de combate.
 
-No se trata de un show del dúo TVXQ; es Yunho presentándose solo, como parte de una gira que también pasa por Seúl, Macao, Singapur, Bangkok, Taipéi y Yakarta. Para los fans vietnamitas y de la región, es una oportunidad poco común de verlo en formato solista en lugar de compartir escenario con su compañero de grupo Changmin.
+No se trataba de un show del dúo TVXQ, sino de Yunho actuando en solitario, dentro de una gira que también pasaba por Seúl, Macao, Singapur, Bangkok, Taipéi y Yakarta. Para los fans vietnamitas y de la región, se presentaba como una oportunidad poco frecuente de verlo en formato solista, en lugar de compartir el escenario con su compañero de banda Changmin.
 
 ## Cómo llegar al Military Zone 7 Indoor Stadium
 
-El recinto está ubicado en el distrito de Tan Binh, un poco alejado del núcleo mochilero del Distrito 1, así que calcula tiempo real de traslado dentro de tu noche. Toma taxis con taxímetro (Vinasun o Mai Linh) o reserva un Grab (auto o moto) con bastante antelación a la apertura de puertas: las tarifas dinámicas y los embotellamientos son casi seguros en una noche de concierto, especialmente con miles de fans convergiendo desde toda la ciudad y las provincias vecinas.
+El recinto se encuentra en el distrito de Tan Binh, algo alejado del núcleo mochilero del Distrito 1. Los taxis con taxímetro (Vinasun o Mai Linh) y los coches o motos de Grab son las opciones habituales para llegar, y tanto las tarifas dinámicas como los atascos de tráfico suelen ser algo común en las noches de concierto.
 
-Si vienes del Distrito 1 o 3, calcula entre 30 y 45 minutos según el tráfico, más durante la hora pico de la tarde. Los conductores de apps de transporte a veces tienen dificultades para ubicar exactamente la puerta del estadio durante grandes eventos, así que acuerda con tu conductor un punto de referencia cercano para bajar en lugar del recinto mismo, y prevé una caminata corta a través de los controles de seguridad una vez que estés cerca.
+Desde el Distrito 1 o el 3, el trayecto dura entre 30 y 45 minutos según el tráfico, y más tiempo aún durante la hora punta de la tarde. A los conductores de aplicaciones de transporte les puede costar ubicar con precisión las puertas del estadio durante los grandes eventos que se celebran en este recinto, por lo que lo habitual es acordar como punto de bajada algún lugar de referencia cercano en lugar del recinto mismo, y luego caminar un tramo corto hasta los controles de seguridad.
 
 ## Entradas, apertura de puertas y qué esperar
 
-La logística del día del concierto —horarios de apertura de puertas, mapas de asientos, políticas sobre bolsos— aún no se ha publicado con tanta antelación, y los precios de giras como esta normalmente no se confirman hasta que se acerca la fecha de venta. Considera provisional todo lo que veas por ahora. Es de esperar una combinación de secciones de pie/general en la pista y asientos numerados, típico de los shows de K-pop en estadios de todo el Sudeste Asiático, con puestos de mercancía oficial que suelen abrir horas antes de las puertas y largas filas tanto para la mercancía como para el ingreso.
+La logística del día del concierto —horarios de apertura de puertas, mapas de asientos, políticas sobre bolsos— no formaba parte del anuncio inicial, y los precios de giras como esta suelen definirse recién cerca de la fecha de venta. Los shows de K-pop en recintos grandes del Sudeste Asiático suelen combinar sectores de pie o de acceso general con asientos numerados; los puestos de merchandising suelen abrir horas antes de que se abran las puertas, y tanto las filas para el merchandising como para el ingreso suelen ser largas.
 
-Lleva tu entrada física o digital exactamente como lo indique el vendedor oficial: las entradas de reventa compradas fuera de canales autorizados representan un riesgo real en los shows de K-pop en Vietnam, donde códigos QR falsificados o duplicados ya han perjudicado a fans anteriormente.
+Las entradas para shows de este tipo son emitidas, físicas o digitales, por el vendedor oficial. Comprar entradas de reventa fuera de los canales autorizados es un riesgo conocido en los shows de K-pop en Vietnam, donde antes ya se han dado casos de códigos QR falsificados o duplicados que han perjudicado a los fans.
 
 ## Antes y después del show
 
-Tan Binh no es un centro de vida nocturna, así que la mayoría de los fans consideran el concierto en sí como el evento principal, sin planear una noche alrededor del barrio. Si quieres comer bien antes, dirígete hacia las zonas más animadas cerca del Aeropuerto Tan Son Nhat, o regresa al Distrito 1 después para comer pho, banh mi callejero, o relajarte en un bar en la terraza tras el show.
+Tan Binh no es un polo de vida nocturna, así que el propio concierto es el plato fuerte, más que el barrio que lo rodea. Para comer algo decente antes del show, los tramos con más movimiento cerca del aeropuerto de Tan Son Nhat son una buena opción, mientras que volver hacia el Distrito 1 después permite disfrutar de pho a altas horas de la noche, puestos de banh mi y bares en azoteas.
 
-Dada la distancia del estadio respecto a la zona turística principal, muchos fans internacionales se alojan en el centro y tratan la noche del concierto como una salida dedicada: llega temprano, come antes, y no cuentes con mucho que esté abierto cerca del recinto una vez que termine el show.
+Dada la distancia del estadio respecto a la principal franja turística, los fans internacionales solían alojarse en zonas céntricas y planear la noche del concierto como una salida aparte, dedicada exclusivamente a eso.
 
 ## Cómo vivirlo como un local
 
-La cultura del fandom vietnamita en torno a los conciertos de K-pop funciona a base de coordinación grupal: los fan clubs y los grupos no oficiales de lightsticks/pancartas suelen organizar encuentros afuera del estadio horas antes de la apertura de puertas, y unirte a un grupo de chat de la comunidad de fans local con antelación (a menudo en Facebook o Zalo) te dirá mucho más sobre la formación de filas y la asignación de puertas que cualquier señalización oficial.
+La cultura del fandom vietnamita en torno a los conciertos de K-pop funciona a base de coordinación grupal: los fanclubs y los grupos no oficiales de lightsticks o pancartas suelen organizar encuentros fuera del estadio, horas antes de la apertura de puertas, y los chats de las comunidades locales de fans (a menudo en Facebook o Zalo) suelen aportar más detalles sobre la formación de filas y la asignación de puertas que la señalización oficial.
 
-El efectivo sigue siendo el rey para la comida callejera y los pequeños vendedores cerca de los puntos de transporte, aunque las apps de transporte y las tarjetas funcionan bien para moverte y para la mercancía oficial. No esperes que los anuncios en inglés sean extensos dentro del recinto: las instrucciones del personal son principalmente en vietnamita, así que si no hablas el idioma, quédate cerca de otros fans internacionales o de un contacto local para que te traduzcan durante las transiciones y el control de multitudes.
+El efectivo sigue siendo el rey para la comida callejera y los pequeños vendedores cerca de los puntos de transporte, aunque las aplicaciones de transporte y las tarjetas funcionan sin problema para movilizarse y para comprar merchandising oficial.
 
-El error más grande que cometen los visitantes es subestimar el tráfico a la salida: miles de fans y vehículos intentan salir simultáneamente de las estrechas calles que rodean Tan Binh, así que calcula bastante tiempo extra (a veces más de una hora) para conseguir realmente un taxi o Grab, o simplemente planea caminar primero hasta una vía principal.
+Los anuncios dentro del recinto se hacen mayormente en vietnamita, con inglés limitado, por lo que quienes no hablan vietnamita suelen mantenerse cerca de otros fans internacionales o de algún contacto local para que les traduzca durante los cambios de actividad y el control de multitudes. El otro factor constante es el tráfico de salida: miles de fans y vehículos abandonando a la vez las calles estrechas que rodean Tan Binh pueden sumar una hora o más a la espera de un taxi o un Grab, y caminar primero hacia una vía principal suele ser la solución habitual.
 
-## Confirma antes de reservar
+## Fechas y venta de entradas
 
-Las fechas de gira, los recintos y las ventas de entradas de las giras de K-pop son notoriamente propensos a cambiar incluso después del anuncio inicial. Antes de reservar vuelos u hoteles en torno al 19 de septiembre de 2026, verifica la fecha, el recinto y los detalles de venta de entradas directamente a través de los canales oficiales de Yunho/SM Entertainment o del promotor vietnamita autorizado del show. Considera todo esto como un punto de partida para planificar, no como un itinerario final.
+Las fechas de gira, los recintos y la venta de entradas de las giras de K-pop son notoriamente propensos a cambiar incluso después de un anuncio inicial. Para esta gira, la fecha en Ciudad Ho Chi Minh era el 19 de septiembre de 2026, en el Military Zone 7 Indoor Stadium, con la discográfica de Yunho, SM Entertainment, y el promotor vietnamita autorizado del show a cargo de la venta de entradas.

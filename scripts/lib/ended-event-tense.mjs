@@ -43,3 +43,25 @@ export const UPCOMING = {
   es: [/se celebrará/gi, /tendrá lugar/gi, /se llevará a cabo/gi, /se celebra del/gi, /se celebra el/gi],
   zh: [/将于/g, /将在/g, /即将/g, /(?<![原前])定于/g, /(?<![原前])确定于/g, /将担任/g],
 };
+
+// The text of a translated post that the UPCOMING vocabulary may be run over.
+//
+// FAQ QUESTIONS are left out, on purpose. The English rules keep a question in
+// the present tense — the editorial repair on 2026-09-20 rewrote all five
+// ANSWERS of the Hanoi Jazztival guide and deliberately left "Where does Hanoi
+// Jazztival 2026 take place?" alone, because a question about a past event
+// still reads that way. The Spanish translator mirrored it faithfully as
+// "¿Dónde se celebra el Hanoi Jazztival 2026?", the guard matched "se celebra
+// el", and the file failed three attempts in a row over a sentence the English
+// is allowed to have.
+//
+// audit-ended-event-tense-i18n has skipped q: lines since it was written, for
+// the same reason. The guard inside translate-posts said it used "the same
+// vocabulary the audit uses, so the two cannot drift apart" — and then drifted
+// on scope rather than vocabulary. This is the one place that decides scope.
+export function upcomingText(out) {
+  const answers = Array.isArray(out?.faq) ? out.faq.map((f) => f?.a).filter(Boolean) : [];
+  return [out?.title, out?.description, out?.quickAnswer, out?.body, ...answers]
+    .filter(Boolean)
+    .join('\n');
+}

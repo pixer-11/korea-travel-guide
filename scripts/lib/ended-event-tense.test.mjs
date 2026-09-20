@@ -6,7 +6,7 @@
 // 그래서 이 테스트는 **모든 항목이 실제 문장에서 발화하는지**를 검사한다.
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { UPCOMING } from './ended-event-tense.mjs';
+import { UPCOMING, upcomingText } from './ended-event-tense.mjs';
 
 // 각 패턴이 실제로 잡아야 하는 문장. 새 패턴을 넣으면 여기에도 넣어야 한다.
 const FIRES = {
@@ -73,4 +73,32 @@ test('🛑 과거형 문장은 잡지 않는다 — 수리 결과가 다시 걸�
         `${lang}: 과거형 문장이 "${re.source}" 에 걸렸다 — 수리해도 계속 걸린다`);
     }
   }
+});
+
+test('검사 범위: FAQ 질문은 빼고 답변은 넣는다', () => {
+  const out = {
+    title: 'Hanoi Jazztival 2026',
+    description: 'El Hanoi Jazztival 2026 se celebró del 17 al 19 de septiembre.',
+    quickAnswer: 'Estaba previsto del 17 al 19 de septiembre de 2026.',
+    body: 'El festival se celebró en cuatro sedes.',
+    faq: [{ q: '¿Dónde se celebra el Hanoi Jazztival 2026?', a: 'Se celebró en la Ópera de Hanói.' }],
+  };
+  const text = upcomingText(out);
+  assert.ok(!text.includes('¿Dónde se celebra el'), '질문은 검사 대상이 아니다');
+  assert.ok(text.includes('Se celebró en la Ópera'), '답변은 검사한다');
+  // 질문만 현재형인 파일은 통과해야 한다 — 2026-09-20 에 스페인어가 3번 연속 실패한 자리
+  assert.equal(UPCOMING.es.flatMap((re) => text.match(re) ?? []).length, 0);
+});
+
+test('검사 범위: 답변에 남은 미래형은 여전히 잡힌다', () => {
+  const out = { faq: [{ q: '¿Cuándo es?', a: 'El festival se celebrará en septiembre.' }] };
+  const text = upcomingText(out);
+  assert.deepEqual(UPCOMING.es.flatMap((re) => text.match(re) ?? []), ['se celebrará']);
+});
+
+test('검사 범위: faq 가 없거나 이상해도 죽지 않는다', () => {
+  assert.equal(upcomingText({ title: 'x' }), 'x');
+  assert.equal(upcomingText({ title: 'x', faq: null }), 'x');
+  assert.equal(upcomingText({ title: 'x', faq: [null, { q: 'q' }] }), 'x');
+  assert.equal(upcomingText(null), '');
 });
