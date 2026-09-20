@@ -293,6 +293,17 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: FOCUS_LIMIT=25 node scripts/backfill-hero-focus.mjs 2>&1 | tail -4 || true
 
+      # Last word before the commit. The thumbnail step further up runs before
+      # four steps that each mint a NEW hero (release-photoless-events,
+      # reresolve-dupe-heroes, fill-event-city-heroes, stamp-event-focus), so
+      # anything they place shipped with a blank card until some later run
+      # happened to rebuild the wall. Incremental: a run that changed no hero
+      # finds every thumb cached.
+      - name: Wall thumbnails for heroes placed after the first pass
+        if: steps.gate.outputs.on == 'true'
+        continue-on-error: true
+        run: node scripts/build-wall.mjs
+
       - name: Commit fixes
         if: steps.gate.outputs.on == 'true'
         run: |

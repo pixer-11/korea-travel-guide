@@ -37,6 +37,13 @@ const PALACE = [
   'Thursday: 8:30 AM – 4:30 PM', 'Friday: 8:30 AM – 4:30 PM', 'Saturday: 8:30 AM – 4:30 PM', 'Sunday: 8:30 AM – 4:30 PM',
 ];
 
+// 페레즈미술관 실데이터: 화·수 휴관, 목요일만 9시까지.
+const PAMM = [
+  'Monday: 11:00 AM - 6:00 PM', 'Tuesday: Closed', 'Wednesday: Closed',
+  'Thursday: 11:00 AM - 9:00 PM', 'Friday: 11:00 AM - 6:00 PM',
+  'Saturday: 11:00 AM - 6:00 PM', 'Sunday: 11:00 AM - 6:00 PM',
+];
+
 const cases = [
   ['FP-vegas (should be CLEAN)', post(VEGAS,
     'open 9am to 4pm Monday, Thursday, Friday, Saturday, and Sunday, and closed entirely on Tuesday and Wednesday. Arrive at opening.'), 0],
@@ -149,6 +156,25 @@ const cases = [
   // 역방향: 사실상자가 주말에 열려 있는데 본문이 closed all weekend 라면 계속 잡아야 한다.
   ['TP-closed-all-weekend-but-open (must FLAG)', post(WEEK_OPEN_MON,
     'The market is closed all weekend, so come on a weekday morning instead.'), 1],
+  // 09-20 페레즈미술관: 불릿 "- Tuesday and Wednesday: closed entirely" 바로 다음
+  // 문단이 "Weekends draw the heaviest crowds…" 로 시작한다. 부사 구간이 줄바꿈을
+  // 넘어가는 바람에 주말 치환이 붙어 "closed … Saturday and Sunday" 가 됐고,
+  // 사실상자와 완벽히 일치하는 글이 격리됐다. 주장은 줄을 넘지 않는다.
+  ['FP-closed-bullet-then-new-paragraph-weekends (should be CLEAN)', post(PAMM,
+    ['- Monday, Friday, Saturday, Sunday: 11am-6pm',
+     '- Tuesday and Wednesday: closed entirely',
+     '',
+     'Weekends draw the heaviest crowds, with 11am to 6pm on Saturday and Sunday consistently busy.'].join(String.fromCharCode(10))), 0],
+  // 역방향: 같은 줄에 붙어 있으면 그건 진짜 주말 휴무 주장이다.
+  ['TP-closed-weekends-same-line (must FLAG)', post(WEEK_OPEN_MON,
+    'The hall is closed entirely weekends, so plan a weekday visit.'), 1],
+  // 09-20 프놈펜 리버사이드: "closed to cars" 는 차량 통제이지 영업시간이 아니다.
+  // 토·일에 열려 있다고 말하는 문장이 토·일 휴무 주장으로 읽혔다.
+  ['FP-closed-to-cars (should be CLEAN)', post(WEEK_OPEN_MON,
+    "On a Saturday or Sunday you'll find the section that's closed to cars."), 0],
+  // 역방향: "closed to the public" 은 진짜 휴무 주장이다.
+  ['TP-closed-to-the-public (must FLAG)', post(WEEK_OPEN_MON,
+    'The garden is closed to the public on Sunday, so come another day.'), 1],
 ];
 
 let fail = 0;

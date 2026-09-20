@@ -575,6 +575,16 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node scripts/repair-held-posts.mjs 2>&1 | tee -a /tmp/gate.log
 
+      # A post this patrol un-holds is a post with a hero the wall has never
+      # seen — both build-wall steps above already ran. On 2026-09-20 the
+      # Tan Teng Niah house came back at 15:02 and the validation step one
+      # minute later telegrammed "카드 썸네일이 없어 빈 카드로 보임". Same class
+      # as the replacement-posts comment above: whatever mints a hero last has
+      # to be followed by the thumbnail build, not preceded by it.
+      - name: Wall thumbnails for republished posts
+        continue-on-error: true
+        run: node scripts/build-wall.mjs
+
       - name: Report held-back posts (Korean)
         if: always()
         env:

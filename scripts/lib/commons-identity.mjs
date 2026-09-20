@@ -44,7 +44,32 @@ export function commonsTitle(url) {
   try { return decodeURIComponent(m[1]); } catch { return m[1]; }
 }
 
-const strip = (s) => String(s ?? '').replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
+// A Commons record is not prose written for us. Two things in it look like
+// places and are not, and both have to go before any country name is read out
+// of it.
+//
+// 1. The markup arrives HTML-ESCAPED (&lt;a href=…&gt;), so removing tags did
+//    nothing and the href survived into the text.
+// 2. Inside that href sits the photographer's handle. On 2026-09-20 the whole
+//    description of the Pura Luhur Poten photograph was
+//    "www.instagram.com/sasha_india/" — the author is Sasha India, of Irpin,
+//    Ukraine — and the identity check read "India", found no "Indonesia"
+//    anywhere in the record, and reported a temple at Mount Bromo as a photo
+//    of the wrong country. The file's own name says "temple near Mount Bromo
+//    East Java, Indonesia".
+//
+// With both gone the record here is empty, and "cannot tell" is the honest
+// verdict — which is what this module was built to say.
+export const cleanRecordText = (s) => String(s ?? '')
+  .replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"')
+  .replace(/&#0?39;|&apos;/g, "'").replace(/&nbsp;/g, ' ')
+  .replace(/<[^>]*>/g, ' ')
+  .replace(/\b(?:https?:\/\/|www\.)\S+/gi, ' ')
+  .replace(/&amp;/g, '&')
+  .replace(/\s+/g, ' ')
+  .trim();
+
+const strip = (s) => cleanRecordText(s);
 
 /**
  * @param {string[]} titles bare file names, without the "File:" prefix
@@ -137,9 +162,14 @@ const mentionsAsPlace = (segments, needle) => {
  */
 export function judgeIdentity(meta, claim, world) {
   if (!meta) return { verdict: 'unknown', why: 'no Commons metadata' };
-  const hay = `${meta.description} ${meta.categories.join(' ')}`.trim();
+  // Cleaned again here, not only in the fetcher: judgeIdentity is called with
+  // stored records and with metadata other callers assembled, and the rule
+  // above has to hold for every one of them.
+  const description = cleanRecordText(meta.description);
+  const categories = (meta.categories ?? []).map(cleanRecordText).filter(Boolean);
+  const hay = `${description} ${categories.join(' ')}`.trim();
   if (!hay) return { verdict: 'unknown', why: 'Commons record is empty' };
-  const fields = [meta.description, ...meta.categories];
+  const fields = [description, ...categories];
 
   const namesRegion = Boolean(claim.region) && mentions(hay, claim.region);
   const namesCountry = Boolean(claim.country) && mentions(hay, claim.country);

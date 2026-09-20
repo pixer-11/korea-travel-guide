@@ -231,6 +231,64 @@ for (const [f, src] of sources) {
     }
   } catch { /* a workflow that does not parse is CANCELLED-RUN's problem, not this rule's */ }
 
+  // ── BLANK-CARD ────────────────────────────────────────────
+  // Every card on the site is a 640px self-hosted thumbnail named after its
+  // hero URL. A post whose hero the wall has never seen renders as an empty
+  // rectangle. So the thumbnail build has to be the LAST thing a job does to
+  // its heroes, and twice now it was not:
+  //
+  //   · publish.yml generated replacement posts after it (the comment above
+  //     that step still says so — bordeaux-miroir-d-eau, first gated run);
+  //   · and again on 2026-09-20, when repair-held-posts republished the Tan
+  //     Teng Niah house at 15:02 and the validation step telegrammed a blank
+  //     card one minute later.
+  //
+  // Both times the fix was to add another build-wall and both times nothing
+  // stopped the next step from being added below it. The list is the scripts
+  // whose job is to put a NEW hero on a post; if one is ever missing from it
+  // the cost is a warning we fail to raise, never a false one.
+  const HERO_PLACERS = [
+    'npm run generate', 'generate.mjs', 'repair-held-posts.mjs',
+    'release-photoless-events.mjs', 'release-photoless-earners.mjs',
+    'release-verified-quarantine.mjs', 'reresolve-dupe-heroes.mjs',
+    'reresolve-dupe-photos.mjs', 'reresolve-images.mjs', 'refresh-images.mjs',
+    'fill-event-city-heroes.mjs', 'upgrade-hero-width.mjs', 'repair-images.mjs',
+    'backfill-photos-alt.mjs', 'backfill-venue-photos.mjs',
+    'attach-placeless-photos.mjs', 'fix-placeholder-images.mjs',
+    'normalize-wikimedia-heroes.mjs',
+  ];
+  try {
+    const doc = yaml.load(src);
+    for (const job of Object.values(doc?.jobs ?? {})) {
+      const steps = Array.isArray(job?.steps) ? job.steps : [];
+      // Joined, so a single run: block with the wall build ABOVE a placer is
+      // caught the same way a later step is.
+      // Shell COMMENT lines are dropped first. publish.yml explains itself at
+      // length, and two of those explanations name generate.mjs hundreds of
+      // lines below the last wall build — a rule that reads prose as a call
+      // reports a defect that is not there, and a checker people stop trusting
+      // is a checker that is not running.
+      const runs = steps
+        .map((st) => String(st?.run ?? ''))
+        .join(String.fromCharCode(10))
+        .split(String.fromCharCode(10))
+        .filter((line) => !/^\s*#/.test(line))
+        .join(String.fromCharCode(10));
+      if (!/git commit/.test(runs) || !runs.includes('src/content/posts')) continue;
+      const wall = runs.lastIndexOf('build-wall.mjs');
+      if (wall === -1) continue;   // a job that never builds the wall is another rule's problem
+      let placer = -1, which = '';
+      for (const name of HERO_PLACERS) {
+        const at = runs.lastIndexOf(name);
+        if (at > placer) { placer = at; which = name; }
+      }
+      if (placer > wall) {
+        add('BLANK-CARD', f,
+          `\`${which}\` can put a new hero on a post and runs AFTER the last \`build-wall.mjs\` in this job, so anything it places is committed with no thumbnail and renders as an empty card. Move the wall build below it (it is incremental — a run that changed no hero finds every thumb cached).`);
+      }
+    }
+  } catch { /* a workflow that does not parse is CANCELLED-RUN's problem */ }
+
   // ── SWALLOWED ─────────────────────────────────────────────
   // `|| true` on a line that writes a file, where nothing afterwards checks
   // that the file has content. This is how a dead crawler stays invisible.
@@ -264,7 +322,7 @@ for (const [f, src] of sources) {
 }
 
 // ── report ──────────────────────────────────────────────────
-const order = ['UNGATED-COMMIT', 'EMPTY-PASS', 'CANCELLED-RUN', 'CONCURRENCY-CANCEL', 'HEREDOC-GLUE', 'MUTED-CHECK', 'SILENT-JOB', 'SWALLOWED', 'PUSH-NO-WRITE'];
+const order = ['UNGATED-COMMIT', 'BLANK-CARD', 'EMPTY-PASS', 'CANCELLED-RUN', 'CONCURRENCY-CANCEL', 'HEREDOC-GLUE', 'MUTED-CHECK', 'SILENT-JOB', 'SWALLOWED', 'PUSH-NO-WRITE'];
 findings.sort((a, b) => order.indexOf(a.kind) - order.indexOf(b.kind) || a.file.localeCompare(b.file));
 for (const x of findings) console.log(`${x.kind.padEnd(13)} ${x.file}\n              ${x.detail}\n`);
 

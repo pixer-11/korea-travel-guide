@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { commonsTitle, judgeIdentity, judgeCandidate, loadWorld } from './commons-identity.mjs';
+import { commonsTitle, judgeIdentity, judgeCandidate, loadWorld, cleanRecordText } from './commons-identity.mjs';
 
 // judgeCandidate 의 Foursquare 경로는 world 를 쓰지 않는다 — 빈 것으로 충분하다.
 const EMPTY_WORLD = { countries: [], regions: [], regionCountry: new Map() };
@@ -290,4 +290,31 @@ test('진짜 대문자 Central 지명은 여전히 잡는다', () => {
     { description: 'Tai Kwun compound in Central, seen from the street.', categories: [] },
     { country: 'Turkey', region: 'Selcuk' }, world);
   assert.equal(v.verdict, 'contradicts');
+});
+
+// ── 기록 속 URL·핸들은 장소 증거가 아니다 (2026-09-20) ────────────
+test("사진가 핸들 속 나라 이름을 촬영지로 읽지 않는다 — 'sasha_india' 가 브로모를 인도로 만들었다", () => {
+  // Commons 가 돌려준 설명 전체가 이 한 줄이다(HTML 이스케이프된 앵커).
+  const meta = {
+    description: '&lt;a href="https://www.instagram.com/sasha_india/" rel="noreferrer nofollow"&gt;www.instagram.com/sasha_india/&lt;/a&gt;',
+    categories: ['Files with coordinates missing SDC location of creation', 'Flickr images reviewed by FlickreviewR 2'],
+  };
+  const r = judgeIdentity(meta, { country: 'Indonesia', region: 'Mount Bromo' }, WORLD);
+  assert.notEqual(r.verdict, 'contradicts', r.why);
+});
+
+test('역방향: URL 밖에 적힌 나라 이름은 그대로 증거다', () => {
+  const meta = {
+    description: 'Taken in India. Photographer page: &lt;a href="https://example.com/x"&gt;example.com/x&lt;/a&gt;',
+    categories: [],
+  };
+  const r = judgeIdentity(meta, { country: 'Indonesia', region: 'Mount Bromo' }, WORLD);
+  assert.equal(r.verdict, 'contradicts', r.why);
+  assert.match(r.why, /India/);
+});
+
+test('cleanRecordText: 태그·URL 만 남은 기록은 빈 문자열이 된다', () => {
+  assert.equal(cleanRecordText('&lt;a href="https://www.instagram.com/sasha_india/"&gt;www.instagram.com/sasha_india/&lt;/a&gt;'), '');
+  assert.equal(cleanRecordText('Pura Luhur Poten, East Java'), 'Pura Luhur Poten, East Java');
+  assert.equal(cleanRecordText(null), '');
 });

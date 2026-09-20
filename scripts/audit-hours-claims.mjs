@@ -153,7 +153,15 @@ export function hoursProblems(raw) {
   // 발행 게이트에 격리됐다 — 본문과 사실상자가 완전히 일치하는 글이었고, 수리기는
   // 고칠 것을 못 찾아 매일 밤 '수리 후에도 모순 남음' 한 줄을 다시 찍었다.
   // 'the whole/entire weekend' 도 같은 구멍이라 함께 막았다.
-  const ADV = `(?:entirely\\s+|completely\\s+|both\\s+|every\\s+|all\\s+day\\s+|all\\s+|the\\s+(?:whole|entire)\\s+|on\\s+|to\\s+the\\s+public\\s+)*`;
+  // Horizontal space only. `\s` crosses a line break, and on 2026-09-20 that
+  // let "- Tuesday and Wednesday: closed entirely" reach into the NEXT
+  // paragraph — "Weekends draw the heaviest crowds…" — so the weekend rewrite
+  // below turned a sentence about crowds into a closure claim and quarantined
+  // the Pérez Art Museum for prose that matched its fact box exactly. The
+  // pairing rule further down has forbidden newlines since the Lyon case for
+  // the same reason; the adverb run had not caught up.
+  const H = `[^\\S\\n]`;
+  const ADV = `(?:entirely${H}+|completely${H}+|both${H}+|every${H}+|all${H}+day${H}+|all${H}+|the${H}+(?:whole|entire)${H}+|on${H}+|to${H}+the${H}+public${H}+)*`;
   // A day name directly followed by one of these nouns is not the subject of a
   // closure — it modifies a new noun phrase, which starts a new claim.
   // "closed on Mondays, and Sunday hours tend to be shorter" (MNAC, 2026-08-08)
@@ -163,6 +171,14 @@ export function hoursProblems(raw) {
   // box only knows whole days, so a half-day claim cannot contradict it.
   const SCOPE_SHIFT = `(?!\\s+(?:hours?|times?|schedules?|openings?|closings?|mornings?|afternoons?|evenings?|nights?|crowds?|visitors?|queues?|lines?|tickets?|entry|admission|prices?|rates?|brunch|lunch|dinner|traffic|services?)\\b)`;
   const claimsClosedOn = (d, text) => {
+    // "closed TO something" is an access restriction, not an opening hour. The
+    // Phnom Penh riverside promenade is a car-free walking street: "on a
+    // Saturday or Sunday you'll find the section that's closed to cars" says
+    // the place is OPEN and pleasant on exactly the two days its fact box
+    // agrees it is open, and it was quarantined for saying so (2026-09-20).
+    // "closed to the public" is left alone — that one really is a closure, and
+    // ADV above already reads it.
+    text = text.replace(/closed[\s-]+(?:off[\s-]+)?to[\s-]+(?!the[\s-]+public\b)[a-z-]+/gi, ' ');
     // "closed weekends" is a closure claim about Saturday and Sunday, but the
     // word is invisible to every day-aware rule here — so in "…4:30pm on
     // Fridays) and is closed weekends…" the strip left "closed" standing and
@@ -184,7 +200,7 @@ export function hoursProblems(raw) {
     // so only the adjacent form is rewritten. "closed Mondays and weekends" is
     // knowingly left undetected — a missed flag costs a warning, a false one
     // costs an LLM rewrite of a healthy article and a quarantined post.
-    text = text.replace(new RegExp(`(closed\\s+${ADV})weekends?\\b`, 'gi'), '$1Saturday and Sunday');
+    text = text.replace(new RegExp(`(closed${H}+${ADV})weekends?\\b`, 'gi'), '$1Saturday and Sunday');
     // "closed Sundays" — the day AFTER the word owns the claim. Checked first,
     // because "3–10pm on Saturdays, and closed Sundays" otherwise reads as a
     // claim about Saturday: the gap between "Saturdays" and "closed" is just

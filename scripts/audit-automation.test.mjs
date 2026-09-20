@@ -389,6 +389,44 @@ t('🛑 수리 커밋은 잡지 않는다 — 잘못된 사진 제거는 게이�
 });
 
 
+// ── BLANK-CARD: 썸네일 빌드가 히어로를 바꾸는 단계보다 위에 있는가 ──
+const blankCard = (r) => /BLANK-CARD=[1-9]/.test(r.out);
+const wallJob = (body) => 'name: Publish' + NL + 'jobs:' + NL + '  a:' + NL + '    steps:' + NL + body;
+const NL = String.fromCharCode(10);
+
+t('썸네일 빌드 뒤에 히어로를 새로 얹는 단계가 오면 잡는다', () => {
+  const r = audit({ 'x.yml': wallJob(
+    '      - run: node scripts/build-wall.mjs' + NL +
+    '      - run: node scripts/repair-held-posts.mjs' + NL +
+    '      - run: git commit -m x src/content/posts' + NL) });
+  return blankCard(r) ? null : `빈 카드를 만드는 순서를 통과시켰다: ${r.out}`;
+});
+
+t('썸네일 빌드가 마지막이면 통과한다 (역방향)', () => {
+  const r = audit({ 'x.yml': wallJob(
+    '      - run: node scripts/repair-held-posts.mjs' + NL +
+    '      - run: node scripts/build-wall.mjs' + NL +
+    '      - run: git commit -m x src/content/posts' + NL) });
+  return blankCard(r) ? `올바른 순서를 잡았다: ${r.out}` : null;
+});
+
+t('🛑 주석 속 스크립트 이름은 호출이 아니다', () => {
+  const r = audit({ 'x.yml': wallJob(
+    '      - run: node scripts/build-wall.mjs' + NL +
+    '      - run: |' + NL +
+    '          # generate.mjs 가 왜 그렇게 하는지에 대한 설명' + NL +
+    '          git commit -m x src/content/posts' + NL) });
+  return blankCard(r) ? `주석을 호출로 읽었다: ${r.out}` : null;
+});
+
+t('🛑 글을 커밋하지 않는 워크플로는 이 규칙의 대상이 아니다', () => {
+  const r = audit({ 'x.yml': wallJob(
+    '      - run: node scripts/build-wall.mjs' + NL +
+    '      - run: node scripts/repair-held-posts.mjs' + NL +
+    '      - run: git commit -m x data/published.json' + NL) });
+  return blankCard(r) ? `대상이 아닌 워크플로를 잡았다: ${r.out}` : null;
+});
+
 for (const [name, fn] of cases) {
   let err;
   try { err = fn(); } catch (e) { err = `threw: ${e.message}`; }
