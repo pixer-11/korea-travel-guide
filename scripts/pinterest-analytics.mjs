@@ -56,6 +56,30 @@ export function extractSummary(body) {
 }
 
 // Korean weekly digest. Kept small and pure so the wording is testable.
+// Totals alone cannot answer the question this ledger exists for. Pins written
+// the old way stay in the account forever, so a rewrite shows up only if the
+// pins made AFTER it are counted on their own. decision.cohort.firstSlug marks
+// where the current wording starts, and rows arrive in the order pins were
+// created, so everything from that slug on is the new cohort.
+export function totalsOf(xs) {
+  return {
+    pins: xs.length,
+    impressions: xs.reduce((n, p) => n + (p.impressions || 0), 0),
+    saves: xs.reduce((n, p) => n + (p.saves || 0), 0),
+    outboundClicks: xs.reduce((n, p) => n + (p.outboundClicks || 0), 0),
+  };
+}
+
+export function weeklyRow(rows, { end, firstSlug } = {}) {
+  const week = { at: end, ...totalsOf(rows) };
+  const cut = firstSlug ? rows.findIndex((r) => r.slug === firstSlug) : -1;
+  if (cut > 0) {
+    week.before = totalsOf(rows.slice(0, cut));
+    week.after = totalsOf(rows.slice(cut));
+  }
+  return week;
+}
+
 export function summarize(pins, { start, end } = {}) {
   const tot = (k) => pins.reduce((n, p) => n + (p[k] || 0), 0);
   const seen = pins.filter((p) => p.impressions > 0);
@@ -139,13 +163,7 @@ async function main() {
   out.at = new Date().toISOString();
   out.window = { start, end };
   out.pins = rows;
-  out.weeks = [...(out.weeks || []), {
-    at: end,
-    pins: rows.length,
-    impressions: rows.reduce((n, p) => n + p.impressions, 0),
-    saves: rows.reduce((n, p) => n + p.saves, 0),
-    outboundClicks: rows.reduce((n, p) => n + p.outboundClicks, 0),
-  }].slice(-52);
+  out.weeks = [...(out.weeks || []), weeklyRow(rows, { end, firstSlug: out.decision?.cohort?.firstSlug })].slice(-52);
   await writeFile(OUT_FILE, JSON.stringify(out, null, 1) + '\n', 'utf8');
 
   const digest = summarize(rows, { start, end });

@@ -1409,6 +1409,17 @@
   "executedOn": "2026-09-16",
   "executedKey": "pinIsNotEarningIt (a only)",
   "executedNote": "Owner handed the call back (\"니가 제대로 판단해서 합리적으로 결정하고 실행해\", 2026-09-16). Read in the pre-registered order: saves 0 for a fourth week is the number that decides, and the branch written for it is pinIsNotEarningIt. Its literal wording said \"impressions/pin still near 2\" and the figure rose to 3.2 — but 3.2 impressions per pin is still no distribution, and the reason the branch exists (four weeks, 135 pins, nobody saved one) is met exactly. EXECUTED (a): pin descriptions are now written for Pinterest search — the quiet window first, then place, rating and the planner checklist, then search-word hashtags (lib/pin-description.mjs). NOT executed (b) board consolidation, deliberately: running both at once makes the four-week re-measure unreadable, and moving 135 live pins between boards is an irreversible change to the owner's public account. If saves are still 0 on 2026-10-14, (b) runs then with (a) already known.",
-  "reMeasureOn": "2026-10-14"
+  "reMeasureOn": "2026-10-19",
+  "cohort": {
+   "firstSlug": "florence-boboli-gardens",
+   "since": "2026-09-21",
+   "why": "First pin written with the hook ladder. Pins made before it keep their old wording forever, so weekly rows carry before/after from here on and the re-measure reads `after` only."
+  },
+  "followUp": [
+   "2026-09-21: audited what change (a) actually shipped. The 09-16 rewrite had ONE hook — the quiet window — and it resolved on 10 of the 40 newest pins, so three pins in four still opened with the venue name. Change (a) had reached a quarter of the pins, and a 10-14 re-measure would have judged a change that was barely made.",
+   "2026-09-21: hook is a ladder now (quiet hours -> closed days -> uniform opening hours -> the guide quickAnswer). Coverage across the 1,475 queued posts: 93% (quiet 39, answer 29, hours 15, closed 11), up from 25%. Money amounts and perishable sentences are refused. The closing line now reads the guide body instead of promising a getting-there passage 40% of guides do not have.",
+   "2026-09-21: re-measure moved 10-14 -> 10-19, four weeks after the wording that is actually live. Judge `after` (the cohort from florence-boboli-gardens on), not the totals: 241 pins carry the old wording and will drown the signal.",
+   "Change (b), board consolidation, is STILL not done. Two wording changes in one month is already one experiment too many, and consolidating boards moves pins that are the only baseline we have. It waits for the 10-19 read."
+  ]
  }
 }
