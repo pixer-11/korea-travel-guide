@@ -24,7 +24,7 @@ faq:
   - q: What's the best dish to order for a first try?
     a: Ogyeopsal (five-layer grilled belly with extra skin) is the signature order. For something lighter, try dombegogi, boiled sliced pork served on a wooden board with fermented shrimp sauce.
   - q: What time should I go and how long does a meal take?
-    a: Dinner, roughly 6-9pm, is when most restaurants are busiest and grills are fully staffed. Plan for 60-90 minutes since grilling and eating in courses is a slower, shared meal.
+    a: Dinner is the natural sitting. Most black pork restaurants run their grills from around 6pm onward, with full kitchen staff. Plan for 60-90 minutes since grilling and eating in courses is a slower, shared meal.
   - q: How can I tell if the pork is genuine Jeju black pork?
     a: Menus should explicitly say 'Jeju heuk-dwaeji' rather than a generic pork label, and many restaurants display a certification sticker or sign referencing the island's black pig grading system.
 aiGenerated: true
