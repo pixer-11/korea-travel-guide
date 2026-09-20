@@ -20162,5 +20162,107 @@
     "verdict": "CITY-TIER",
     "reason": "third tier (owner rule 2026-09-11): 파일명이 도시(Valencia)를 가리킨다",
     "at": "2026-09-20T06:36:36.825Z"
+  },
+  "qingdao-zhanshan-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/%E9%9D%92%E5%B2%9B%E6%B9%9B%E5%B1%B1%E5%AF%BA%E5%B1%B1%E9%97%A8_2018-08-11.jpg/1920px-%E9%9D%92%E5%B2%9B%E6%B9%9B%E5%B1%B1%E5%AF%BA%E5%B1%B1%E9%97%A8_2018-08-11.jpg": {
+    "slug": "qingdao-zhanshan-temple",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows temple gate entrance with signage, representative hero shot",
+    "at": "2026-09-20T07:37:03.923Z"
+  },
+  "xi-an-xingqinggong-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/%E5%85%B4%E5%BA%86%E5%AE%AB%E5%85%AC%E5%9B%AD%E4%B8%9C%E9%97%A8_the_east_gate_-_panoramio.jpg/1920px-%E5%85%B4%E5%BA%86%E5%AE%AB%E5%85%AC%E5%9B%AD%E4%B8%9C%E9%97%A8_the_east_gate_-_panoramio.jpg": {
+    "slug": "xi-an-xingqinggong-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows park's traditional gate building, representative of venue",
+    "at": "2026-09-20T07:37:53.071Z"
+  },
+  "rome-pantheon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rome_%28IT%29%2C_Pantheon_--_2013_--_3572.jpg/3840px-Rome_%28IT%29%2C_Pantheon_--_2013_--_3572.jpg": {
+    "slug": "rome-pantheon",
+    "verdict": "MATCH",
+    "reason": "publish gate: Close view of Pantheon's exterior dome and cornice detail",
+    "at": "2026-09-20T07:38:28.533Z"
+  },
+  "kyoto-kyoto-botanical-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Round_fountain_surrounded_by_trees_under_a_stormy_sky_in_Kyoto_Botanical_Garden_Japan.jpg/3840px-Round_fountain_surrounded_by_trees_under_a_stormy_sky_in_Kyoto_Botanical_Garden_Japan.jpg": {
+    "slug": "kyoto-kyoto-botanical-gardens",
+    "verdict": "MATCH",
+    "reason": "publish gate: Fountain in garden setting plausible for botanical gardens hero",
+    "at": "2026-09-20T07:39:24.743Z"
+  },
+  "paju-bogwangsa\u0001https://upload.wikimedia.org/wikipedia/commons/5/5b/Bogwangsa%2C_Paju.jpg": {
+    "slug": "paju-bogwangsa",
+    "verdict": "MATCH",
+    "reason": "publish gate: Korean temple with lanterns, matches Bogwangsa attraction",
+    "at": "2026-09-20T07:39:59.544Z"
+  },
+  "kennedy-town-lo-pan-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lo_Pan_Temple_-_May_2026.jpg/1920px-Lo_Pan_Temple_-_May_2026.jpg": {
+    "slug": "kennedy-town-lo-pan-temple",
+    "verdict": "MATCH",
+    "reason": "publish gate: Full temple facade shown, representative hero shot",
+    "at": "2026-09-20T07:40:41.248Z"
+  },
+  "medan-maha-vihara-maitreya\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Vihara_Maitreya.jpg/1920px-Vihara_Maitreya.jpg": {
+    "slug": "medan-maha-vihara-maitreya",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior view of the Chinese-style temple building",
+    "at": "2026-09-20T07:41:09.562Z"
+  },
+  "provence-parc-national-du-mercantour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Parc_Natural_du_Mercantour_Col_de_la_Bonette_%282025-08-22%29.jpg/3840px-Parc_Natural_du_Mercantour_Col_de_la_Bonette_%282025-08-22%29.jpg": {
+    "slug": "provence-parc-national-du-mercantour",
+    "verdict": "MATCH",
+    "reason": "publish gate: Mountain landscape representative of Mercantour National Park",
+    "at": "2026-09-20T07:42:45.189Z"
+  },
+  "beijing-jingshan-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Beijing_Jingshan_Park_Pavilion_%2810553761515%29.jpg/3840px-Beijing_Jingshan_Park_Pavilion_%2810553761515%29.jpg": {
+    "slug": "beijing-jingshan-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Chinese pavilion with visitors, matches Jingshan Park scenery",
+    "at": "2026-09-20T07:43:44.131Z"
+  },
+  "granada-jardines-del-triunfo\u0001https://upload.wikimedia.org/wikipedia/commons/a/a7/Jardines_del_Triunfo_%28Granada%29.jpg": {
+    "slug": "granada-jardines-del-triunfo",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows gardens, fountains, monument, and building matching venue",
+    "at": "2026-09-20T07:44:42.320Z"
+  },
+  "udaipur-gulab-bagh\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/GulabBagh_Entrancec.jpg/1920px-GulabBagh_Entrancec.jpg": {
+    "slug": "udaipur-gulab-bagh",
+    "verdict": "MATCH",
+    "reason": "publish gate: Ornate entrance gate to Gulab Bagh, Udaipur",
+    "at": "2026-09-20T07:45:20.693Z"
+  },
+  "venice-giardini-papadopoli\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Giardini_Papadopoli_-_Rio_Novo.jpg/1920px-Giardini_Papadopoli_-_Rio_Novo.jpg": {
+    "slug": "venice-giardini-papadopoli",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows Venice canal, bridge, and gardens area plausibly",
+    "at": "2026-09-20T07:46:10.173Z"
+  },
+  "seville-palacio-de-las-duenas\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Entrada_al_Palacio_de_las_Due%C3%B1as%2C_Sevilla.jpg/1920px-Entrada_al_Palacio_de_las_Due%C3%B1as%2C_Sevilla.jpg": {
+    "slug": "seville-palacio-de-las-duenas",
+    "verdict": "MATCH",
+    "reason": "publish gate: Entrance gate of the palace, representative view",
+    "at": "2026-09-20T07:47:03.417Z"
+  },
+  "florence-boboli-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Jard%C3%ADn_de_B%C3%B3boli%2C_Florencia%2C_Italia%2C_2022-09-19%2C_DD_26.jpg/1920px-Jard%C3%ADn_de_B%C3%B3boli%2C_Florencia%2C_Italia%2C_2022-09-19%2C_DD_26.jpg": {
+    "slug": "florence-boboli-gardens",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows Boboli Gardens lawn, obelisk, and Pitti Palace facade",
+    "at": "2026-09-20T07:47:51.656Z"
+  },
+  "medan-taman-cadika-pramuka\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Taman_Hutan_Kota_Cadika_2.jpg/3840px-Taman_Hutan_Kota_Cadika_2.jpg": {
+    "slug": "medan-taman-cadika-pramuka",
+    "verdict": "MATCH",
+    "reason": "publish gate: Entrance sign of Taman Cadika park, representative view",
+    "at": "2026-09-20T07:49:08.083Z"
+  },
+  "chamonix-parc-de-merlet\u0001https://upload.wikimedia.org/wikipedia/commons/7/7d/Parc_de_Merlet_et_Massif_du_Mont-Blanc_%28juin_2022%29.JPG": {
+    "slug": "chamonix-parc-de-merlet",
+    "verdict": "MATCH",
+    "reason": "publish gate: Mountain wildlife park landscape near Chamonix, plausible representative view",
+    "at": "2026-09-20T07:49:50.794Z"
+  },
+  "rome-villa-borghese\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ingresso_monumentale_di_Villa_Borghese_a_Roma_su_piazzale_Flaminio_2018-02.jpg/1920px-Ingresso_monumentale_di_Villa_Borghese_a_Roma_su_piazzale_Flaminio_2018-02.jpg": {
+    "slug": "rome-villa-borghese",
+    "verdict": "MATCH",
+    "reason": "publish gate: Iconic Villa Borghese gate entrance, representative of the site",
+    "at": "2026-09-20T07:59:05.831Z"
   }
 }

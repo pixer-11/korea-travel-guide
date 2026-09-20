@@ -6,12 +6,12 @@
    "hits": 1
   },
   "historic site": {
-   "attempts": 139,
-   "hits": 88
+   "attempts": 154,
+   "hits": 94
   },
   "park": {
-   "attempts": 145,
-   "hits": 90
+   "attempts": 162,
+   "hits": 101
   },
   "viewpoint": {
    "attempts": 63,
@@ -30,7 +30,7 @@
    "hits": 4
   },
   "museum": {
-   "attempts": 132,
+   "attempts": 133,
    "hits": 73
   },
   "noodles": {
@@ -82,7 +82,7 @@
    "hits": 1
   },
   "concept cafe": {
-   "attempts": 17,
+   "attempts": 18,
    "hits": 0
   },
   "top attraction": {
@@ -94,7 +94,7 @@
    "hits": 0
   },
   "design shop": {
-   "attempts": 15,
+   "attempts": 16,
    "hits": 0
   },
   "Sisowath Quay Riverside": {
@@ -178,5 +178,5 @@
    "hits": 0
   }
  },
- "updated": "2026-09-19T13:32:14.206Z"
+ "updated": "2026-09-20T07:59:05.847Z"
 }

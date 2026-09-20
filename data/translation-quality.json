@@ -29202,5 +29202,75 @@
   "registerBreak": false,
   "worst": "如果你在某个周二兴冲冲地跑来，期待一场无车漫步，看到的只会是一条普通的滨江公路。",
   "at": "2026-09-19T13:29:15.968Z"
+ },
+ "zh/sharjah-arabian-fish-house-restaurant-cafe-al-hirah-beach-sharjah": {
+  "hash": "899ecc7f4c50",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "从沙迦市中心的滨海长廊区域以及沙迦国际机场出发，车程大约 15-20 分钟（视交通状况而定），无论你住在沙迦市区还是从迪拜北部郊区过来都很方便",
+  "at": "2026-09-20T07:55:30.210Z"
+ },
+ "es/chamonix-parc-de-merlet": {
+  "hash": "be614890cff9",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Ningún otro día de la semana tiene un horario reducido, así que cualquier visita entre martes",
+  "at": "2026-09-20T07:55:45.358Z"
+ },
+ "es/florence-boboli-gardens": {
+  "hash": "512882792e73",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El horario de entrada es orientativo y no una franja estricta, así que no pasa nada si se llega",
+  "at": "2026-09-20T07:55:46.899Z"
+ },
+ "ja/chamonix-parc-de-merlet": {
+  "hash": "e2b5f00353a7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "マーモットより距離を保つシャモアやアイベックスを見るには双眼鏡が役立ちます",
+  "at": "2026-09-20T07:56:06.008Z"
+ },
+ "ja/florence-boboli-gardens": {
+  "hash": "cb70ef278b93",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "イゾロットは、そこまで歩く必要があるという理由だけで、明らかに人が少なくなります。",
+  "at": "2026-09-20T07:56:16.867Z"
+ },
+ "ko/beijing-jingshan-park": {
+  "hash": "5511d7affa40",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "경사가 꽤 가팔라서 방문 중 유일한 운동거리라 할 만합니다.",
+  "at": "2026-09-20T07:56:18.958Z"
+ },
+ "ko/chamonix-parc-de-merlet": {
+  "hash": "4e76e334fa0f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "자동차로 갈 경우, 레 우슈에서 표지판을 따라 좁은 슈맹 드 메를레 도로를 올라가면 됩니다.",
+  "at": "2026-09-20T07:56:21.323Z"
+ },
+ "ko/florence-boboli-gardens": {
+  "hash": "60b2b2fe245e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "입구에서 가장 멀리 떨어져 있다는 이유만으로도, 대체로 이곳이 가장 한적한 구역입니다.",
+  "at": "2026-09-20T07:56:23.165Z"
+ },
+ "zh/beijing-jingshan-park": {
+  "hash": "44afef31da82",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "公园占地57公顷，以中央的山丘为中心呈对称布局。",
+  "at": "2026-09-20T07:56:24.550Z"
+ },
+ "zh/chamonix-parc-de-merlet": {
+  "hash": "43fe85b7dbce",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这里评分4.6星，评价数超过4,000条，是个颇有名气的地方，谈不上小众冷门。",
+  "at": "2026-09-20T07:56:26.952Z"
  }
 }
