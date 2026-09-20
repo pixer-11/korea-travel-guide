@@ -38,7 +38,18 @@ const API = process.env.PINTEREST_API_BASE || 'https://api.pinterest.com/v5';
 // + data/pinterest-token.enc) — resolved in main().
 let TOKEN = process.env.PINTEREST_ACCESS_TOKEN;
 const PINS_PER_RUN = Number(process.env.PINS_PER_RUN ?? 8);
-const DRY = process.env.DRY === '1';
+
+// Running this on a laptop publishes REAL pins and rotates the refresh token
+// that only the workflow can commit back — which is exactly what happened on
+// 2026-09-21, when a dry run was attempted as DRY_RUN=1 (the variable is DRY)
+// and four pins went out. Outside CI the script is dry unless the operator says
+// otherwise in so many words.
+const IN_CI = process.env.GITHUB_ACTIONS === 'true';
+const FORCED_LOCAL = process.env.PINTEREST_PUBLISH_FOR_REAL === 'yes-publish-and-rotate-the-token';
+const DRY = process.env.DRY === '1' || (!IN_CI && !FORCED_LOCAL);
+if (!IN_CI && !FORCED_LOCAL && process.env.DRY !== '1') {
+  console.log('🔒 local run → dry by default. Real pins need PINTEREST_PUBLISH_FOR_REAL=yes-publish-and-rotate-the-token');
+}
 
 async function api(path, opts = {}) {
   const res = await fetch(`${API}${path}`, {

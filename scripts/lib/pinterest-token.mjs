@@ -74,6 +74,17 @@ export async function exchangeCode(code) {
 }
 
 export async function getAccessToken() {
+  // Every call spends the stored refresh token: Pinterest rotates it and the
+  // old one stops being the one that works. Only the workflow can commit the
+  // replacement back to main, so a call from a laptop leaves the repository —
+  // and therefore the cron — holding a spent token. That is what happened on
+  // 2026-09-21. Local callers must say so explicitly and then push the file.
+  if (process.env.GITHUB_ACTIONS !== 'true' && process.env.PINTEREST_TOKEN_ALLOW_LOCAL !== 'yes') {
+    throw new Error(
+      'refusing to spend the Pinterest refresh token outside CI — it rotates on use and only the '
+      + 'workflow can commit the new one. Run the workflow instead, or set '
+      + 'PINTEREST_TOKEN_ALLOW_LOCAL=yes and commit data/pinterest-token.enc afterwards.');
+  }
   const stored = decrypt(await readFile(TOKEN_FILE, 'utf8'));
   const tokens = await oauth({ grant_type: 'refresh_token', refresh_token: stored.refresh_token });
   // Continuous refresh: Pinterest may rotate the refresh token — keep the newest.
