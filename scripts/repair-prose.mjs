@@ -50,6 +50,8 @@ const RULES = {
     'This span has markdown that will not render where it sits (bold inside a link, stray asterisks, nesting the file cannot express). Fix the markup so it renders, changing no words.',
   'foreign-fragment':
     'This span leaves an untranslated fragment (a floor number, a local-script street address) inside English prose. Either render it in English or remove it — the full address already lives in the fact box.',
+  'ai-tell':
+    'This span is a phrase the owner banned on 2026-09-08 because it reads as machine-written travel copy ("hidden gem", "in the heart of", "must-visit", "isn\'t just X, it\'s Y", "rich history", "foodie paradise"). Rewrite the SENTENCE it sits in so the phrase is gone and the sentence says something concrete a visitor could act on, or simply cut the phrase if the sentence stands without it. Invent no new facts: use only what the sentence already claims.',
   'other-glaring':
     'This span contains an obvious writing error — broken grammar, a contradiction, a nonsense claim. Fix it minimally.',
 };

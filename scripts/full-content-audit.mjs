@@ -14,8 +14,9 @@ import './lib/env.mjs';
 import { heroTierReason } from './lib/event-hero-tier.mjs';
 import regionCovers from '../data/region-covers.json' with { type: 'json' };
 import { crowdClaimSupported } from './lib/crowd-claim.mjs';
+import { tellSpans } from './lib/ai-tells.mjs';
 import { readFile, writeFile, readdir } from 'node:fs/promises';
-import { existsSync } from 'node:fs';
+import { existsSync, readFileSync } from 'node:fs';
 import { createHash } from 'node:crypto';
 import matter from 'gray-matter';
 import Anthropic from '@anthropic-ai/sdk';
@@ -253,6 +254,66 @@ async function main() {
   // It must NOT be hardcoded to the corpus size — that would report full
   // coverage from an empty store and silently disarm the guard forever (this
   // exact mistake made it into the first draft of this change).
+  // ── the banned phrases, for every live post ───────────────────
+  // The owner banned these on 2026-09-08; writer.mjs refuses to write one now,
+  // but 208 were already published across 199 guides and the weekly count of
+  // them went to Telegram and nowhere else. A number nobody can act on is not
+  // a check, so they become rows in this queue and repair-prose drains them at
+  // its existing sixty a week.
+  //
+  // Deliberately OUTSIDE the model's queue. Finding them costs no API call, and
+  // on 2026-09-20 exactly 3 of 1,719 posts counted as "unchanged" — the em-dash
+  // sweep and the tense repairs had touched almost every body since it was last
+  // audited — so riding along with the audit would have spread a backlog that
+  // needs no model over months of model calls.
+  const rowBySlug = new Map(results.map((r) => [r.slug, r]));
+  let tellSpanCount = 0;
+  for (const p of posts) {
+    const tells = tellSpans(p.content);
+    if (!tells.length) continue;
+    tellSpanCount += tells.length;
+    let row = rowBySlug.get(p.slug);
+    if (!row) {
+      row = { slug: p.slug, category: p.data.category, region: p.data.region };
+      results.push(row);
+      rowBySlug.set(p.slug, row);
+    }
+    const hadProse = Boolean(row.prose?.length);
+    const already = new Set((row.prose ?? []).map((f) => f.quote));
+    const add = tells.filter((t) => !already.has(t.quote));
+    if (add.length) row.prose = [...(row.prose ?? []), ...add];
+    if (!hadProse && row.prose?.length) proseBad++;
+  }
+  if (tellSpanCount) {
+    const posts_ = results.filter((r) => (r.prose ?? []).some((f) => f.type === 'ai-tell')).length;
+    console.log(`🚫 금지 표현 ${tellSpanCount}건 · ${posts_}편 — 모델 호출 없이 큐에 실었다`);
+  }
+
+  // ── keep what this run did not look at ────────────────────────
+  // The queue was rewritten from scratch on every run, so a run that examined
+  // few posts silently DELETED everyone else's outstanding findings. Proven on
+  // 2026-09-20: one LIMIT=0 run cut it from 353 findings to 1, and the work
+  // came back only because a backup happened to exist. A post this run neither
+  // examined nor carried still has whatever was outstanding against it.
+  // A post that was examined and came back clean is dropped, as it should be,
+  // and so is a row for a slug that is no longer published.
+  const examined = new Set(todo.map((p) => p.slug));
+  const live = new Set(posts.map((p) => p.slug));
+  let keptRows = 0;
+  if (existsSync(OUT)) {
+    try {
+      for (const row of JSON.parse(readFileSync(OUT, 'utf8')).results ?? []) {
+        if (!row?.slug || examined.has(row.slug) || rowBySlug.has(row.slug) || !live.has(row.slug)) continue;
+        results.push(row);
+        rowBySlug.set(row.slug, row);
+        keptRows++;
+        if (row.prose?.length) proseBad++;
+        if (row.image) imgBad++;
+      }
+    } catch { /* an unreadable queue must not cost this run its own findings */ }
+  }
+  if (keptRows) console.log(`   ↩ 이번 실행이 보지 않은 ${keptRows}편의 지적을 그대로 유지`);
+
   const covered = todo.length + skipped;
   await writeFile(OUT, JSON.stringify({ audited: covered, checkedNow: todo.length, skipped, at: new Date().toISOString(), imgBad, proseBad, results }, null, 2) + '\n', 'utf8');
   console.log(`\n📦 AUDIT DONE — ${covered} posts | image FAIL ${imgBad} | prose issues ${proseBad} → ${OUT}`);

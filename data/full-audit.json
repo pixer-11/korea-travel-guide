@@ -1,11 +1,2450 @@
 {
-  "audited": 746,
-  "checkedNow": 400,
-  "skipped": 346,
-  "at": "2026-09-19T20:59:36.276Z",
-  "imgBad": 9,
-  "proseBad": 291,
+  "audited": 3,
+  "checkedNow": 0,
+  "skipped": 3,
+  "at": "2026-09-20T10:44:25.295Z",
+  "imgBad": 0,
+  "proseBad": 427,
   "results": [
+    {
+      "category": "hidden-gem",
+      "region": "Avignon",
+      "prose": [
+        {
+          "type": "other-glaring",
+          "quote": "Early morning, before the ticket booths open, the square belongs mostly to locals cutting through on their way to work"
+        }
+      ],
+      "carriedFrom": "2026-09-19T20:59:17.788Z"
+    },
+    {
+      "slug": "alcaniz-motogp-aragon-grand-prix",
+      "category": "event",
+      "region": "Alcañiz",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "ankara-an-tkabir",
+      "category": "hidden-gem",
+      "region": "Ankara",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "isn't just a tomb, it's",
+          "tell": "isn't just…it's"
+        }
+      ]
+    },
+    {
+      "slug": "antalya-duden-waterfalls",
+      "category": "attraction",
+      "region": "Antalya",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "must-see",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "austin-formula-1-united-states-grand-prix",
+      "category": "event",
+      "region": "Austin",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "whether you leave at lap 50 or",
+          "tell": "whether you…or"
+        }
+      ]
+    },
+    {
+      "slug": "ayutthaya-ayutthaya-historical-park",
+      "category": "attraction",
+      "region": "Ayutthaya",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "iconic",
+          "tell": "iconic"
+        }
+      ]
+    },
+    {
+      "slug": "ayutthaya-wat-mahathat",
+      "category": "attraction",
+      "region": "Ayutthaya",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "iconic",
+          "tell": "iconic"
+        }
+      ]
+    },
+    {
+      "slug": "baguio-bencab-museum",
+      "category": "attraction",
+      "region": "Baguio",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "not just to house his own work but",
+          "tell": "not just…but"
+        }
+      ]
+    },
+    {
+      "slug": "baguio-oh-my-gulay",
+      "category": "restaurant",
+      "region": "Baguio",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "bali-bali-botanical-garden",
+      "category": "attraction",
+      "region": "Bali",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "iconic",
+          "tell": "iconic"
+        }
+      ]
+    },
+    {
+      "slug": "bali-bingin-uluwatu-pak-gula",
+      "category": "trendy",
+      "region": "Bali",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "bangkok-khlong-toei-market",
+      "category": "hidden-gem",
+      "region": "Bangkok",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "must-see",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "bangkok-king-power-mahanakhon",
+      "category": "attraction",
+      "region": "Bangkok",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "isn't just an architectural gimmick: it's",
+          "tell": "isn't just…it's"
+        }
+      ]
+    },
+    {
+      "slug": "barcelona-csio-barcelona",
+      "category": "event",
+      "region": "Barcelona",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "iconic",
+          "tell": "iconic"
+        }
+      ]
+    },
+    {
+      "slug": "beijing-china-open-tennis",
+      "category": "event",
+      "region": "Beijing",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "whether you want stadium seating or",
+          "tell": "whether you…or"
+        }
+      ]
+    },
+    {
+      "slug": "bengaluru-lalbagh-botanical-garden",
+      "category": "attraction",
+      "region": "Bengaluru",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "bengaluru-visvesvaraya-industrial-technological-museum",
+      "category": "attraction",
+      "region": "Bengaluru",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "bhubaneswar-regional-museum-of-natural-history",
+      "category": "hidden-gem",
+      "region": "Bhubaneswar",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "hidden gem",
+          "tell": "hidden gem"
+        }
+      ]
+    },
+    {
+      "slug": "bilbao-cafe-bar-bilbao",
+      "category": "trendy",
+      "region": "Bilbao",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "hidden gem",
+          "tell": "hidden gem"
+        }
+      ]
+    },
+    {
+      "slug": "bilbao-guggenheim-museum-bilbao",
+      "category": "attraction",
+      "region": "Bilbao",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "isn't just a container for art; it's",
+          "tell": "isn't just…it's"
+        }
+      ]
+    },
+    {
+      "slug": "bordeaux-tour-pey-berland",
+      "category": "attraction",
+      "region": "Bordeaux",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "bukhara-kalan-minaret",
+      "category": "attraction",
+      "region": "Bukhara",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "busan-huinnyeoul-culture-village",
+      "category": "hidden-gem",
+      "region": "Busan",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "hidden gem",
+          "tell": "hidden gem"
+        }
+      ]
+    },
+    {
+      "slug": "can-tho-can-tho-museum",
+      "category": "attraction",
+      "region": "Can Tho",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "causeway-bay-fashion-walk-food-street",
+      "category": "restaurant",
+      "region": "Causeway Bay",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "chengdu-chengdu-museum",
+      "category": "attraction",
+      "region": "Chengdu",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "chengdu-chengdu-research-base-of-giant-panda-breeding",
+      "category": "attraction",
+      "region": "Chengdu",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "must-do",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "chiang-mai-best-khao-soi-chang-mai",
+      "category": "restaurant",
+      "region": "Chiang Mai",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "chiang-mai-hidden-village-chiang-mai",
+      "category": "hidden-gem",
+      "region": "Chiang Mai",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "must-see",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "chiba-chiba-park",
+      "category": "attraction",
+      "region": "Chiba",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        },
+        {
+          "type": "ai-tell",
+          "quote": "must-see",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "chicago-illinois-lollapalooza-2026",
+      "category": "event",
+      "region": "Chicago",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "chinatown-buddha-tooth-relic-temple",
+      "category": "attraction",
+      "region": "Chinatown",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "chinatown-chinatown-complex",
+      "category": "restaurant",
+      "region": "Chinatown",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "chinatown-my-awesome-cafe",
+      "category": "trendy",
+      "region": "Chinatown",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "clarke-quay-artscience-museum",
+      "category": "attraction",
+      "region": "Marina Bay",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "whether you want one show or",
+          "tell": "whether you…or"
+        }
+      ]
+    },
+    {
+      "slug": "clarke-quay-cq-clarke-quay",
+      "category": "attraction",
+      "region": "Clarke Quay",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "whether you're after cocktails, seafood, or",
+          "tell": "whether you…or"
+        }
+      ]
+    },
+    {
+      "slug": "colmar-parc-du-champ-de-mars",
+      "category": "hidden-gem",
+      "region": "Colmar",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "unwind",
+          "tell": "unwind"
+        }
+      ]
+    },
+    {
+      "slug": "daegu-nazar-kebab",
+      "category": "restaurant",
+      "region": "Daegu",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "davao-philippine-eagle-center",
+      "category": "hidden-gem",
+      "region": "Davao",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "not just Philippine eagles but",
+          "tell": "not just…but"
+        }
+      ]
+    },
+    {
+      "slug": "dempsey-hill-singapore-botanic-gardens",
+      "category": "attraction",
+      "region": "Dempsey Hill",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "unwind",
+          "tell": "unwind"
+        }
+      ]
+    },
+    {
+      "slug": "downtown-dubai-the-dubai-fountain",
+      "category": "hidden-gem",
+      "region": "Downtown Dubai",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "florence-palazzo-vecchio",
+      "category": "attraction",
+      "region": "Florence",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "florence-uffizi-galleries",
+      "category": "attraction",
+      "region": "Florence",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "isn't just a museum, it's",
+          "tell": "isn't just…it's"
+        },
+        {
+          "type": "ai-tell",
+          "quote": "must-see",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "fukuoka-dazaifu-tenmangu-shrine",
+      "category": "hidden-gem",
+      "region": "Fukuoka",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "hidden gem",
+          "tell": "hidden gem"
+        }
+      ]
+    },
+    {
+      "slug": "genoa-royal-palace-museum",
+      "category": "attraction",
+      "region": "Genoa",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "goyang-bigbang-2026-2027-world-tour-xx-cosmos-goyang-opening-shows",
+      "category": "event",
+      "region": "Goyang",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "iconic",
+          "tell": "iconic"
+        }
+      ]
+    },
+    {
+      "slug": "guangzhou-guangdong-museum",
+      "category": "attraction",
+      "region": "Guangzhou",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "guangzhou-huacheng-square",
+      "category": "attraction",
+      "region": "Guangzhou",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        },
+        {
+          "type": "ai-tell",
+          "quote": "must-see",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "gyeongju-woljeonggyo-bridge",
+      "category": "attraction",
+      "region": "Gyeongju",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "whether you're passing through at noon or",
+          "tell": "whether you…or"
+        }
+      ]
+    },
+    {
+      "slug": "hanoi-banh-mi-25",
+      "category": "restaurant",
+      "region": "Hanoi",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "hanoi-bigbang-2026-2027-world-tour-in-hanoi",
+      "category": "event",
+      "region": "Hanoi",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "unwind",
+          "tell": "unwind"
+        }
+      ]
+    },
+    {
+      "slug": "hanoi-hidden-gem-cafe-hanoi",
+      "category": "hidden-gem",
+      "region": "Hanoi",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "Hidden Gem",
+          "tell": "hidden gem"
+        }
+      ]
+    },
+    {
+      "slug": "hanoi-temple-of-literature",
+      "category": "attraction",
+      "region": "Hanoi",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "iconic",
+          "tell": "iconic"
+        }
+      ]
+    },
+    {
+      "slug": "hiroshima-atomic-bomb-dome",
+      "category": "hidden-gem",
+      "region": "Hiroshima",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "iconic",
+          "tell": "iconic"
+        }
+      ]
+    },
+    {
+      "slug": "hiroshima-hiroshima-peace-memorial-museum",
+      "category": "attraction",
+      "region": "Hiroshima",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "iconic",
+          "tell": "iconic"
+        }
+      ]
+    },
+    {
+      "slug": "hiroshima-peace-memorial-park-hiroshima",
+      "category": "attraction",
+      "region": "Hiroshima",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "bustling",
+          "tell": "bustling"
+        }
+      ]
+    },
+    {
+      "slug": "ho-chi-minh-city-hai-s-restaurant",
+      "category": "restaurant",
+      "region": "Ho Chi Minh City",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "hidden gem",
+          "tell": "hidden gem"
+        }
+      ]
+    },
+    {
+      "slug": "ho-chi-minh-city-saigon-skydeck",
+      "category": "attraction",
+      "region": "Ho Chi Minh City",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "ho-chi-minh-city-yakiuo-ishikawa",
+      "category": "trendy",
+      "region": "Ho Chi Minh City",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "must-try",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "hoi-an-hoi-an-night-market",
+      "category": "hidden-gem",
+      "region": "Hoi An",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "hidden gem",
+          "tell": "hidden gem"
+        }
+      ]
+    },
+    {
+      "slug": "hoi-an-nhan-s-kitchen",
+      "category": "restaurant",
+      "region": "Hoi An",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "iconic",
+          "tell": "iconic"
+        }
+      ]
+    },
+    {
+      "slug": "hoi-an-quan-cong-temple",
+      "category": "attraction",
+      "region": "Hoi An",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "hong-kong-fello",
+      "category": "trendy",
+      "region": "Hong Kong",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "hue-maison-trang",
+      "category": "restaurant",
+      "region": "Hue",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "iconic",
+          "tell": "iconic"
+        }
+      ]
+    },
+    {
+      "slug": "ibiza-castle-of-ibiza",
+      "category": "hidden-gem",
+      "region": "Ibiza",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "isn't just about crowds, it's",
+          "tell": "isn't just…it's"
+        }
+      ]
+    },
+    {
+      "slug": "incheon-edc-korea-electric-daisy-carnival",
+      "category": "event",
+      "region": "Incheon",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "whether you're coming from Gangnam, Hongdae, or",
+          "tell": "whether you…or"
+        }
+      ]
+    },
+    {
+      "slug": "incheon-incheon-grand-park",
+      "category": "attraction",
+      "region": "Incheon",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "whether you're an early riser or",
+          "tell": "whether you…or"
+        }
+      ]
+    },
+    {
+      "slug": "istanbul-egyptian-bazaar",
+      "category": "hidden-gem",
+      "region": "Istanbul",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "vibrant",
+          "tell": "vibrant"
+        }
+      ]
+    },
+    {
+      "slug": "istanbul-hagia-sophia-grand-mosque",
+      "category": "attraction",
+      "region": "Istanbul",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "not just a monument\r\n- Photography is fine in most areas, but",
+          "tell": "not just…but"
+        }
+      ]
+    },
+    {
+      "slug": "istanbul-kinu",
+      "category": "trendy",
+      "region": "Istanbul",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "isn't just selling drinks, it's",
+          "tell": "isn't just…it's"
+        }
+      ]
+    },
+    {
+      "slug": "izmir-agora-of-smyrna",
+      "category": "hidden-gem",
+      "region": "Izmir",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "hidden gem",
+          "tell": "hidden gem"
+        }
+      ]
+    },
+    {
+      "slug": "jordan-jordan-valley-park",
+      "category": "hidden-gem",
+      "region": "Hong Kong",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "must-see",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "jordan-the-astor",
+      "category": "trendy",
+      "region": "Jordan",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "not just for lighter crowds but",
+          "tell": "not just…but"
+        }
+      ]
+    },
+    {
+      "slug": "jumeirah-dubai-old-village",
+      "category": "attraction",
+      "region": "Dubai",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "hidden gem",
+          "tell": "hidden gem"
+        }
+      ]
+    },
+    {
+      "slug": "kampong-glam-sultan-mosque",
+      "category": "attraction",
+      "region": "Kampong Glam",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "must-see",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "kanazawa-kenroku-en",
+      "category": "attraction",
+      "region": "Kanazawa",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "iconic",
+          "tell": "iconic"
+        }
+      ]
+    },
+    {
+      "slug": "kaohsiung-kaohsiung-central-park",
+      "category": "attraction",
+      "region": "Kaohsiung",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "must-see",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "khiva-islam-khoja-minaret",
+      "category": "attraction",
+      "region": "Khiva",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "must-see",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "kokand-palace-of-khudayar-khan",
+      "category": "attraction",
+      "region": "Kokand",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "bustling",
+          "tell": "bustling"
+        }
+      ]
+    },
+    {
+      "slug": "konya-alaaddin-hill-park",
+      "category": "attraction",
+      "region": "Konya",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "must-see",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "konya-tomb-of-mevlana-rumi",
+      "category": "attraction",
+      "region": "Konya",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "isn't just a tomb; it's",
+          "tell": "isn't just…it's"
+        }
+      ]
+    },
+    {
+      "slug": "krabi-wat-tham-suea",
+      "category": "attraction",
+      "region": "Krabi",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "must-see",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "kuala-lumpur-aaron-kwok-iconic-world-tour-2026",
+      "category": "event",
+      "region": "Kuala Lumpur",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "ICONIC",
+          "tell": "iconic"
+        }
+      ]
+    },
+    {
+      "slug": "kuala-lumpur-post-malone-live-in-malaysia",
+      "category": "event",
+      "region": "Kuala Lumpur",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "not just from Malaysia but",
+          "tell": "not just…but"
+        }
+      ]
+    },
+    {
+      "slug": "kuching-malaysia-china-friendship-park",
+      "category": "attraction",
+      "region": "Kuching",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "must-see",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "kyoto-fushimi-inari-taisha",
+      "category": "attraction",
+      "region": "Kyoto",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "isn't just the age; it's",
+          "tell": "isn't just…it's"
+        }
+      ]
+    },
+    {
+      "slug": "kyoto-imaya-kyoto-coffee",
+      "category": "trendy",
+      "region": "Kyoto",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "must-see",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "langkawi-kilim-geoforest-park",
+      "category": "hidden-gem",
+      "region": "Langkawi",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "must-do",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "lantau-island-silvermine-bay-beach",
+      "category": "hidden-gem",
+      "region": "Lantau Island",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "whether you catch the ordinary or",
+          "tell": "whether you…or"
+        },
+        {
+          "type": "ai-tell",
+          "quote": "unwind",
+          "tell": "unwind"
+        }
+      ]
+    },
+    {
+      "slug": "little-india-super-deluxe-kitchen",
+      "category": "restaurant",
+      "region": "Little India",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "los-angeles-griffith-observatory",
+      "category": "attraction",
+      "region": "Los Angeles",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "not just for astronomy but",
+          "tell": "not just…but"
+        }
+      ]
+    },
+    {
+      "slug": "los-angeles-regalade",
+      "category": "trendy",
+      "region": "Los Angeles",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "whether you're building a midday break into a shopping afternoon or",
+          "tell": "whether you…or"
+        }
+      ]
+    },
+    {
+      "slug": "los-angeles-santa-monica-pier",
+      "category": "attraction",
+      "region": "Los Angeles",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "bustling",
+          "tell": "bustling"
+        }
+      ]
+    },
+    {
+      "slug": "los-angeles-the-getty",
+      "category": "attraction",
+      "region": "Los Angeles",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "whether you're coming from the Valley or",
+          "tell": "whether you…or"
+        }
+      ]
+    },
+    {
+      "slug": "los-angeles-wilmington-waterfront-park",
+      "category": "attraction",
+      "region": "Los Angeles",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "whether you're an early walker or",
+          "tell": "whether you…or"
+        }
+      ]
+    },
+    {
+      "slug": "lyon-boulangerie-du-palais",
+      "category": "trendy",
+      "region": "Lyon",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "bustling",
+          "tell": "bustling"
+        }
+      ]
+    },
+    {
+      "slug": "lyon-les-grands-buffets-lyonnais",
+      "category": "restaurant",
+      "region": "Lyon",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "lyon-les-ventres-jaunes",
+      "category": "restaurant",
+      "region": "Lyon",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "lyon-marche-saint-antoine",
+      "category": "hidden-gem",
+      "region": "Lyon",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "must-see",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "lyon-quais-de-saone-a-lyon",
+      "category": "attraction",
+      "region": "Lyon",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "not just passing through Lyon but",
+          "tell": "not just…but"
+        }
+      ]
+    },
+    {
+      "slug": "lyon-temple-du-change",
+      "category": "attraction",
+      "region": "Lyon",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "must-see",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "lyon-vieux-lyon",
+      "category": "hidden-gem",
+      "region": "Lyon",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "hidden gem",
+          "tell": "hidden gem"
+        }
+      ]
+    },
+    {
+      "slug": "madrid-mache",
+      "category": "trendy",
+      "region": "Madrid",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "isn't just the food, it's",
+          "tell": "isn't just…it's"
+        }
+      ]
+    },
+    {
+      "slug": "madrid-museo-nacional-del-prado",
+      "category": "attraction",
+      "region": "Madrid",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "tapestry",
+          "tell": "tapestry"
+        }
+      ]
+    },
+    {
+      "slug": "malang-arema-blue-village",
+      "category": "attraction",
+      "region": "Malang",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "bustling",
+          "tell": "bustling"
+        }
+      ]
+    },
+    {
+      "slug": "manila-legazpi-sunday-market",
+      "category": "hidden-gem",
+      "region": "Manila",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "not just for freshness, but",
+          "tell": "not just…but"
+        }
+      ]
+    },
+    {
+      "slug": "marina-bay-skypark-observation-deck",
+      "category": "attraction",
+      "region": "Marina Bay",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "must-do",
+          "tell": "must-visit/see"
+        },
+        {
+          "type": "ai-tell",
+          "quote": "iconic",
+          "tell": "iconic"
+        }
+      ]
+    },
+    {
+      "slug": "marseille-museum-of-european-and-mediterranean-civilisations",
+      "category": "attraction",
+      "region": "Marseille",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "not just France, but",
+          "tell": "not just…but"
+        }
+      ]
+    },
+    {
+      "slug": "medan-tjong-a-fie-mansion",
+      "category": "attraction",
+      "region": "Medan",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "unwind",
+          "tell": "unwind"
+        }
+      ]
+    },
+    {
+      "slug": "milan-pinacoteca-di-brera",
+      "category": "attraction",
+      "region": "Milan",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "must-see",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "mong-kok-beans-cafe",
+      "category": "trendy",
+      "region": "Mong Kok",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "hidden gem",
+          "tell": "hidden gem"
+        }
+      ]
+    },
+    {
+      "slug": "mong-kok-dim-dim-sum-mong-kok",
+      "category": "restaurant",
+      "region": "Mong Kok",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "whether you're shopping at 11am or",
+          "tell": "whether you…or"
+        }
+      ]
+    },
+    {
+      "slug": "mong-kok-paradise-dynasty",
+      "category": "restaurant",
+      "region": "Mong Kok",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "bustling",
+          "tell": "bustling"
+        }
+      ]
+    },
+    {
+      "slug": "mont-saint-michel-tour-gabriel",
+      "category": "attraction",
+      "region": "Mont Saint-Michel",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "isn't just the history, it's",
+          "tell": "isn't just…it's"
+        }
+      ]
+    },
+    {
+      "slug": "monza-parco-di-monza",
+      "category": "attraction",
+      "region": "Monza",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "whether you want the crowds and atmosphere or",
+          "tell": "whether you…or"
+        }
+      ]
+    },
+    {
+      "slug": "mumbai-kanheri-caves",
+      "category": "hidden-gem",
+      "region": "Mumbai",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "must-see",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "nantes-douves-du-chateau",
+      "category": "hidden-gem",
+      "region": "Nantes",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "hidden gem",
+          "tell": "hidden gem"
+        }
+      ]
+    },
+    {
+      "slug": "nara-nara-park",
+      "category": "attraction",
+      "region": "Nara",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "nara-todai-ji",
+      "category": "attraction",
+      "region": "Nara",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "iconic",
+          "tell": "iconic"
+        }
+      ]
+    },
+    {
+      "slug": "new-delhi-national-museum-new-delhi",
+      "category": "attraction",
+      "region": "New Delhi",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "new-orleans-ayu-bakehouse",
+      "category": "trendy",
+      "region": "New Orleans",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "isn't just the pastry, it's",
+          "tell": "isn't just…it's"
+        }
+      ]
+    },
+    {
+      "slug": "new-orleans-cochon-butcher",
+      "category": "restaurant",
+      "region": "New Orleans",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "not just a lunch counter\r\n- Cash or card both work fine, but",
+          "tell": "not just…but"
+        }
+      ]
+    },
+    {
+      "slug": "new-orleans-french-quarter",
+      "category": "hidden-gem",
+      "region": "New Orleans",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "hidden gem",
+          "tell": "hidden gem"
+        }
+      ]
+    },
+    {
+      "slug": "new-taipei-museum-of-contemporary-art-taipei",
+      "category": "attraction",
+      "region": "Taipei",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "must-see",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "new-york-ocean-prime",
+      "category": "restaurant",
+      "region": "New York",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "new-york-statue-of-liberty",
+      "category": "attraction",
+      "region": "New York",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "not just for the statue itself but",
+          "tell": "not just…but"
+        }
+      ]
+    },
+    {
+      "slug": "new-york-the-channel-gardens",
+      "category": "attraction",
+      "region": "New York",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "new-york-the-metropolitan-museum-of-art",
+      "category": "attraction",
+      "region": "New York",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "isn't just big, it's",
+          "tell": "isn't just…it's"
+        }
+      ]
+    },
+    {
+      "slug": "new-york-top-of-the-rock",
+      "category": "hidden-gem",
+      "region": "New York",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "nice-cascade-du-chateau",
+      "category": "hidden-gem",
+      "region": "Nice",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "must-see",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "nice-promenade-des-anglais",
+      "category": "attraction",
+      "region": "Nice",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "must-do",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "ninh-binh-hoa-lu-ancient-capital",
+      "category": "attraction",
+      "region": "Ninh Binh",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "whether you plan it or",
+          "tell": "whether you…or"
+        }
+      ]
+    },
+    {
+      "slug": "okinawa-chatan-steam-seafood",
+      "category": "restaurant",
+      "region": "Okinawa",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "okinawa-southeast-botanical-gardens",
+      "category": "attraction",
+      "region": "Okinawa",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "must-see",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "osaka-shitenno-ji",
+      "category": "attraction",
+      "region": "Osaka",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "whether you want just the grounds or",
+          "tell": "whether you…or"
+        }
+      ]
+    },
+    {
+      "slug": "pattaya-pattaya-international-fireworks-festival-2026",
+      "category": "event",
+      "region": "Pattaya",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "pattaya-prince-of-chumphon-monument",
+      "category": "attraction",
+      "region": "Pattaya",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "whether you go on a weekday or",
+          "tell": "whether you…or"
+        }
+      ]
+    },
+    {
+      "slug": "penang-pinang-peranakan-mansion",
+      "category": "attraction",
+      "region": "Penang",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "phnom-penh-choeung-ek-genocidal-center",
+      "category": "attraction",
+      "region": "Phnom Penh",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "whether you visit on a weekday or",
+          "tell": "whether you…or"
+        }
+      ]
+    },
+    {
+      "slug": "phong-nha-paradise-cave",
+      "category": "attraction",
+      "region": "Phong Nha",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "whether you like it or",
+          "tell": "whether you…or"
+        }
+      ]
+    },
+    {
+      "slug": "phu-quoc-dinh-cau",
+      "category": "attraction",
+      "region": "Phu Quoc",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "phuket-day-night-of-phuket",
+      "category": "restaurant",
+      "region": "Phuket",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "provence-abbaye-notre-dame-de-senanque",
+      "category": "hidden-gem",
+      "region": "Provence",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "isn't just about crowds inside, it's",
+          "tell": "isn't just…it's"
+        }
+      ]
+    },
+    {
+      "slug": "putrajaya-putra-perdana-park",
+      "category": "attraction",
+      "region": "Putrajaya",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "whether you're here purely for the skywalk or",
+          "tell": "whether you…or"
+        }
+      ]
+    },
+    {
+      "slug": "rome-colosseum",
+      "category": "attraction",
+      "region": "Rome",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "rome-saint-peter-s-basilica",
+      "category": "attraction",
+      "region": "Rome",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "isn't just a church, it's",
+          "tell": "isn't just…it's"
+        }
+      ]
+    },
+    {
+      "slug": "samarkand-chess-olympiad-2026",
+      "category": "event",
+      "region": "Samarkand",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "bustling",
+          "tell": "bustling"
+        }
+      ]
+    },
+    {
+      "slug": "samarkand-siyob-bozori",
+      "category": "hidden-gem",
+      "region": "Samarkand",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "whether you're coming on a weekday or",
+          "tell": "whether you…or"
+        }
+      ]
+    },
+    {
+      "slug": "san-diego-balboa-park",
+      "category": "attraction",
+      "region": "San Diego",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "iconic",
+          "tell": "iconic"
+        }
+      ]
+    },
+    {
+      "slug": "san-diego-mormon-battalion-historic-site",
+      "category": "attraction",
+      "region": "San Diego",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "whether you're a family with young kids or",
+          "tell": "whether you…or"
+        },
+        {
+          "type": "ai-tell",
+          "quote": "not just what happened but",
+          "tell": "not just…but"
+        }
+      ]
+    },
+    {
+      "slug": "san-francisco-tartine-bakery",
+      "category": "trendy",
+      "region": "San Francisco",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "san-francisco-the-buena-vista",
+      "category": "trendy",
+      "region": "San Francisco",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "whether you plan to or",
+          "tell": "whether you…or"
+        }
+      ]
+    },
+    {
+      "slug": "san-francisco-the-happy-crane",
+      "category": "trendy",
+      "region": "San Francisco",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "must-try",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "sapa-sapa-park",
+      "category": "attraction",
+      "region": "Sapa",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "sapporo-mermaid-coffee-roasters",
+      "category": "trendy",
+      "region": "Sapporo",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "whether you prefer bright/acidic or",
+          "tell": "whether you…or"
+        }
+      ]
+    },
+    {
+      "slug": "sapporo-shiroi-koibito-park",
+      "category": "hidden-gem",
+      "region": "Sapporo",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "hidden gem",
+          "tell": "hidden gem"
+        }
+      ]
+    },
+    {
+      "slug": "seattle-pike-place-market",
+      "category": "restaurant",
+      "region": "Seattle",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "iconic",
+          "tell": "iconic"
+        }
+      ]
+    },
+    {
+      "slug": "seattle-the-gum-wall",
+      "category": "attraction",
+      "region": "Seattle",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "whether you like it or",
+          "tell": "whether you…or"
+        }
+      ]
+    },
+    {
+      "slug": "sentosa-fiamma",
+      "category": "restaurant",
+      "region": "Sentosa",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "unwind",
+          "tell": "unwind"
+        }
+      ]
+    },
+    {
+      "slug": "sentosa-sentosa-sensoryscape",
+      "category": "hidden-gem",
+      "region": "Sentosa",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "must-do",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "seoul-bukchon-hanok-village",
+      "category": "hidden-gem",
+      "region": "Seoul",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "isn't just quieter for you (it's",
+          "tell": "isn't just…it's"
+        },
+        {
+          "type": "ai-tell",
+          "quote": "must-see",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "seoul-euljiro",
+      "category": "hidden-gem",
+      "region": "Seoul",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        },
+        {
+          "type": "ai-tell",
+          "quote": "hidden gem",
+          "tell": "hidden gem"
+        }
+      ]
+    },
+    {
+      "slug": "seoul-gwangjang-market",
+      "category": "hidden-gem",
+      "region": "Seoul",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "iconic",
+          "tell": "iconic"
+        }
+      ]
+    },
+    {
+      "slug": "seoul-london-bagel-museum",
+      "category": "trendy",
+      "region": "Seoul",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "iconic",
+          "tell": "iconic"
+        }
+      ]
+    },
+    {
+      "slug": "seoul-plant-cafe-seoul-yeonnam",
+      "category": "trendy",
+      "region": "Seoul",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "seoul-sanchon",
+      "category": "restaurant",
+      "region": "Seoul",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "seville-la-giralda",
+      "category": "attraction",
+      "region": "Seville",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "must-do",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "sha-tin-dab-pa-modern-chinese-cuisine",
+      "category": "restaurant",
+      "region": "Sha Tin",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "bustling",
+          "tell": "bustling"
+        }
+      ]
+    },
+    {
+      "slug": "sha-tin-shing-mun-river-promenade-garden-no-1",
+      "category": "attraction",
+      "region": "Sha Tin",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "must-see",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "sha-tin-ten-thousand-buddhas-monastery",
+      "category": "hidden-gem",
+      "region": "Sha Tin",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "not just a viewpoint\r\n- Photography is generally fine outdoors, but",
+          "tell": "not just…but"
+        }
+      ]
+    },
+    {
+      "slug": "shanghai-goodbai-cafe",
+      "category": "trendy",
+      "region": "Shanghai",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "must-see",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "shanghai-shanghai-tower",
+      "category": "attraction",
+      "region": "Shanghai",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "isn't just about height, it's",
+          "tell": "isn't just…it's"
+        }
+      ]
+    },
+    {
+      "slug": "shanghai-vice",
+      "category": "restaurant",
+      "region": "Shanghai",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "sharjah-arabian-fish-house-restaurant-cafe-al-hirah-beach-sharjah",
+      "category": "restaurant",
+      "region": "Sharjah",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "whether you're staying in Sharjah city or",
+          "tell": "whether you…or"
+        }
+      ]
+    },
+    {
+      "slug": "sharjah-sharjah-museum-of-islamic-civilization",
+      "category": "attraction",
+      "region": "Sharjah",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "whether you're an early riser or",
+          "tell": "whether you…or"
+        }
+      ]
+    },
+    {
+      "slug": "siena-siena-cathedral",
+      "category": "attraction",
+      "region": "Siena",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "singapore-milli",
+      "category": "trendy",
+      "region": "Singapore",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "isn't just glass towers; it's",
+          "tell": "isn't just…it's"
+        }
+      ]
+    },
+    {
+      "slug": "singapore-singapore-flyer",
+      "category": "attraction",
+      "region": "Singapore",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "whether you want the quick, standard rotation or",
+          "tell": "whether you…or"
+        }
+      ]
+    },
+    {
+      "slug": "singapore-sri-mariamman-temple",
+      "category": "attraction",
+      "region": "Singapore",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "strasbourg-musee-de-l-uvre-notre-dame",
+      "category": "attraction",
+      "region": "Strasbourg",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "sukhothai-sukhothai-historical-park",
+      "category": "hidden-gem",
+      "region": "Sukhothai",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "whether you want just the Central Zone or",
+          "tell": "whether you…or"
+        }
+      ]
+    },
+    {
+      "slug": "sukhothai-wat-si-chum",
+      "category": "attraction",
+      "region": "Sukhothai",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "whether you're chasing morning or",
+          "tell": "whether you…or"
+        }
+      ]
+    },
+    {
+      "slug": "suncheon-suncheon-bay-national-garden",
+      "category": "hidden-gem",
+      "region": "Suncheon",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "iconic",
+          "tell": "iconic"
+        }
+      ]
+    },
+    {
+      "slug": "surabaya-black-owl-surabaya",
+      "category": "restaurant",
+      "region": "Surabaya",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "whether you're staying near the old city, Gubeng, or",
+          "tell": "whether you…or"
+        }
+      ]
+    },
+    {
+      "slug": "taichung-guangfu-new-village",
+      "category": "hidden-gem",
+      "region": "Taichung",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "must-see",
+          "tell": "must-visit/see"
+        }
+      ]
+    },
+    {
+      "slug": "taichung-sur",
+      "category": "hidden-gem",
+      "region": "Taichung",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "not just whether a table is available but",
+          "tell": "not just…but"
+        }
+      ]
+    },
+    {
+      "slug": "taipei-aufglet",
+      "category": "trendy",
+      "region": "Taipei",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "isn't just about the dessert case; it's",
+          "tell": "isn't just…it's"
+        }
+      ]
+    },
+    {
+      "slug": "taipei-official-hige-dandism-asia-tour-2026-taipei",
+      "category": "event",
+      "region": "Taipei",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "unwind",
+          "tell": "unwind"
+        }
+      ]
+    },
+    {
+      "slug": "taiping-bukit-larut",
+      "category": "hidden-gem",
+      "region": "Taiping",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "isn't just for sunrise chasers; it's",
+          "tell": "isn't just…it's"
+        }
+      ]
+    },
+    {
+      "slug": "tiong-bahru-tiong-bahru-market",
+      "category": "restaurant",
+      "region": "Tiong Bahru",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "tokyo-oxomoco",
+      "category": "trendy",
+      "region": "Tokyo",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "not just for proteins but",
+          "tell": "not just…but"
+        }
+      ]
+    },
+    {
+      "slug": "tokyo-senso-ji",
+      "category": "attraction",
+      "region": "Tokyo",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "iconic",
+          "tell": "iconic"
+        }
+      ]
+    },
+    {
+      "slug": "tokyo-teamlab-planets-tokyo-dmm",
+      "category": "trendy",
+      "region": "Tokyo",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "hidden gem",
+          "tell": "hidden gem"
+        }
+      ]
+    },
+    {
+      "slug": "turin-mole-antonelliana",
+      "category": "hidden-gem",
+      "region": "Turin",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "turin-museo-egizio",
+      "category": "attraction",
+      "region": "Turin",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "turin-royal-palace-of-turin",
+      "category": "attraction",
+      "region": "Turin",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "tapestry",
+          "tell": "tapestry"
+        }
+      ]
+    },
+    {
+      "slug": "valencia-la-lonja-de-la-seda-de-valencia",
+      "category": "attraction",
+      "region": "Valencia",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "verona-arena-di-verona-opera-festival",
+      "category": "event",
+      "region": "Verona",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "washington-dc-old-ebbitt-grill",
+      "category": "restaurant",
+      "region": "Washington DC",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "in the heart of",
+          "tell": "in the heart of"
+        }
+      ]
+    },
+    {
+      "slug": "yogyakarta-blanco-coffee-and-books",
+      "category": "trendy",
+      "region": "Yogyakarta",
+      "prose": [
+        {
+          "type": "ai-tell",
+          "quote": "iconic",
+          "tell": "iconic"
+        }
+      ]
+    },
     {
       "slug": "abu-dhabi-khalifa-park",
       "category": "attraction",
@@ -65,18 +2504,6 @@
         }
       ],
       "carriedFrom": "2026-09-12T20:55:39.856Z"
-    },
-    {
-      "slug": "baguio-bencab-museum",
-      "category": "attraction",
-      "region": "Baguio",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Pay at the entrance counter."
-        }
-      ],
-      "carriedFrom": "2026-09-12T20:55:49.807Z"
     },
     {
       "slug": "bali-museum-pasifika-bali",
@@ -189,22 +2616,6 @@
         }
       ],
       "carriedFrom": "2026-09-12T20:55:35.801Z"
-    },
-    {
-      "slug": "clarke-quay-artscience-museum",
-      "category": "attraction",
-      "region": "Marina Bay",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Payment inside is cashless, cards and mobile pay (PayNow, Apple Pay, Google Pay) are standard"
-        },
-        {
-          "type": "other-glaring",
-          "quote": "Since it's not a locals'-favorite spot so much as a major visitor attraction"
-        }
-      ],
-      "carriedFrom": "2026-09-12T20:55:28.794Z"
     },
     {
       "slug": "clarke-quay-fort-canning-park",
@@ -341,18 +2752,6 @@
         }
       ],
       "carriedFrom": "2026-09-12T20:55:33.509Z"
-    },
-    {
-      "slug": "hanoi-temple-of-literature",
-      "category": "attraction",
-      "region": "Hanoi",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "the quiet behind the crowds near the entrance"
-        }
-      ],
-      "carriedFrom": "2026-09-12T20:55:55.834Z"
     },
     {
       "slug": "hanoi-the-hanoi-cafe",
@@ -687,18 +3086,6 @@
       "carriedFrom": "2026-09-12T20:55:06.982Z"
     },
     {
-      "slug": "ninh-binh-hoa-lu-ancient-capital",
-      "category": "attraction",
-      "region": "Ninh Binh",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Weekday visits stay comfortably calm across the whole 7am–5pm window"
-        }
-      ],
-      "carriedFrom": "2026-09-12T20:55:52.674Z"
-    },
-    {
       "slug": "north-point-mak-kee",
       "category": "restaurant",
       "region": "North Point",
@@ -949,18 +3336,6 @@
         }
       ],
       "carriedFrom": "2026-09-12T20:55:11.032Z"
-    },
-    {
-      "slug": "singapore-sri-mariamman-temple",
-      "category": "attraction",
-      "region": "Singapore",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "with crowds building steadily from 7am through to 9pm"
-        }
-      ],
-      "carriedFrom": "2026-09-12T20:55:10.374Z"
     },
     {
       "slug": "suwon-hwaseong-haenggung",
@@ -1221,25 +3596,6 @@
         {
           "type": "other-glaring",
           "quote": "busiest stretch, with families, picnickers, and stroller traffic filling the main lawns near the lake"
-        }
-      ]
-    },
-    {
-      "slug": "sukhothai-wat-si-chum",
-      "category": "attraction",
-      "region": "Sukhothai",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "roughly 49 feet tall"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "fifteen stories of stone"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "a flat, shaded ride of roughly 15–20 minutes"
         }
       ]
     },
@@ -1511,17 +3867,6 @@
         {
           "type": "other-glaring",
           "quote": "Weekends stay busy nearly all day, with the heaviest crowds between 11am and 5pm."
-        }
-      ]
-    },
-    {
-      "slug": "putrajaya-putra-perdana-park",
-      "category": "attraction",
-      "region": "Putrajaya",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "peaking between 6pm and 11pm"
         }
       ]
     },
@@ -2005,17 +4350,6 @@
       ]
     },
     {
-      "slug": "mont-saint-michel-tour-gabriel",
-      "category": "attraction",
-      "region": "Mont Saint-Michel",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "a Museum-classified site off the main pedestrian spine"
-        }
-      ]
-    },
-    {
       "slug": "palermo-quattro-canti",
       "category": "attraction",
       "region": "Palermo",
@@ -2336,17 +4670,6 @@
       ]
     },
     {
-      "slug": "hong-kong-fello",
-      "category": "trendy",
-      "region": "Hong Kong",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "currently ranked No. 36 on Asia's 50 Best Bars for 2026"
-        }
-      ]
-    },
-    {
       "slug": "singapore-merlion-park",
       "category": "attraction",
       "region": "Singapore",
@@ -2396,17 +4719,6 @@
       ]
     },
     {
-      "slug": "new-taipei-museum-of-contemporary-art-taipei",
-      "category": "attraction",
-      "region": "Taipei",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "especially from 11am to 6pm"
-        }
-      ]
-    },
-    {
       "slug": "termez-eco-park",
       "category": "attraction",
       "region": "Tashkent",
@@ -2429,17 +4741,6 @@
         {
           "type": "invented-specifics",
           "quote": "weekends between 10am and 6pm are when tour buses and day-trippers fill the main lane"
-        }
-      ]
-    },
-    {
-      "slug": "konya-tomb-of-mevlana-rumi",
-      "category": "attraction",
-      "region": "Konya",
-      "prose": [
-        {
-          "type": "broken-markdown",
-          "quote": "You spot the dome before you spot the entrance (a ribbed cone of turquoise tile rising above Karatay's rooftops, catching the light differently depending on whether it's 9am haze or late-afternoon sun. That's the Kubbe-i Hadra, the \"Green Dome,\" and it marks the resting place of Jalal ad-Din Muhammad Rumi, the 13th-century poet and mystic whose followers founded the Mevlevi order) the \"whirling dervishes.\""
         }
       ]
     },
@@ -2688,12 +4989,6 @@
       ]
     },
     {
-      "slug": "sha-tin-dab-pa-modern-chinese-cuisine",
-      "category": "restaurant",
-      "region": "Sha Tin",
-      "proseError": "Unexpected non-whitespace character after JSON at position 8"
-    },
-    {
       "slug": "ha-long-bay-quang-ninh-museum",
       "category": "attraction",
       "region": "Ha Long Bay",
@@ -2712,32 +5007,6 @@
         {
           "type": "invented-specifics",
           "quote": "the steepest cable car incline in the world at this scale"
-        }
-      ]
-    },
-    {
-      "slug": "tiong-bahru-tiong-bahru-market",
-      "category": "restaurant",
-      "region": "Tiong Bahru",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "roughly 7:30–9am"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "roughly 2–4pm"
-        }
-      ]
-    },
-    {
-      "slug": "penang-pinang-peranakan-mansion",
-      "category": "attraction",
-      "region": "Penang",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Pay at the counter"
         }
       ]
     },
@@ -2775,17 +5044,6 @@
         {
           "type": "invented-specifics",
           "quote": "aim for after 8pm when the crowd data suggests things finally thin out"
-        }
-      ]
-    },
-    {
-      "slug": "jordan-the-astor",
-      "category": "trendy",
-      "region": "Jordan",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "between 7am and 11am on weekends"
         }
       ]
     },
@@ -2879,25 +5137,6 @@
       ]
     },
     {
-      "slug": "mong-kok-dim-dim-sum-mong-kok",
-      "category": "restaurant",
-      "region": "Mong Kok",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Baked char siu polo bun, a signature here, sweet crust over savory filling"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "A 10% service charge is often already added to the bill"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "Mong Kok MTR station (Tsuen Wan, Kwun Tong and East Rail lines)"
-        }
-      ]
-    },
-    {
       "slug": "udaipur-pichola-lake-udaipur",
       "category": "attraction",
       "region": "Udaipur",
@@ -2965,17 +5204,6 @@
       ]
     },
     {
-      "slug": "new-delhi-national-museum-new-delhi",
-      "category": "attraction",
-      "region": "New Delhi",
-      "prose": [
-        {
-          "type": "broken-markdown",
-          "quote": "rushing means missing the Central Asian manuscripts entirely, since that gallery sits slightly apart from the main tourist flow. Because this is a heavily visited, well-known institution rather than an insider spot, the real local trick isn't finding it) it's timing it"
-        }
-      ]
-    },
-    {
       "slug": "lantau-island-po-lin-monastery-restaurant",
       "category": "restaurant",
       "region": "Lantau Island",
@@ -2987,25 +5215,6 @@
         {
           "type": "other-glaring",
           "quote": "Because this spot isn't especially crowded relative to the main attraction, a late-morning arrival right after the cable car opens tends to beat the worst of the group-tour rush."
-        }
-      ]
-    },
-    {
-      "slug": "guangzhou-guangdong-museum",
-      "category": "attraction",
-      "region": "Guangzhou",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "Guangzhou Opera House and the Guangzhou Library, they form a cultural cluster"
-        },
-        {
-          "type": "other-glaring",
-          "quote": "Dress comfortably, the galleries span several floors with limited seating."
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "entry registration is typically required"
         }
       ]
     },
@@ -3032,25 +5241,6 @@
       ]
     },
     {
-      "slug": "bengaluru-lalbagh-botanical-garden",
-      "category": "attraction",
-      "region": "Bengaluru",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "It hosts flower shows twice a year, in January and August"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "a bare grey boulder estimated at roughly 3,000 million years old"
-        },
-        {
-          "type": "other-glaring",
-          "quote": "Foot traffic is lightest on weekdays between 7am and 11am"
-        }
-      ]
-    },
-    {
       "slug": "bengaluru-bengaluru-fort",
       "category": "attraction",
       "region": "Bengaluru",
@@ -3058,32 +5248,6 @@
         {
           "type": "other-glaring",
           "quote": "built under Hyder Ali and expanded by Tipu Sultan"
-        }
-      ]
-    },
-    {
-      "slug": "mong-kok-beans-cafe",
-      "category": "trendy",
-      "region": "Mong Kok",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "Avoid weekend early-afternoon prime shopping hours (1pm–8pm) if you want space to breathe"
-        }
-      ]
-    },
-    {
-      "slug": "bengaluru-visvesvaraya-industrial-technological-museum",
-      "category": "attraction",
-      "region": "Bengaluru",
-      "prose": [
-        {
-          "type": "other-glaring",
-          "quote": "weekend afternoons from noon to 6pm are the peak crush"
-        },
-        {
-          "type": "invented-specifics",
-          "quote": "carry small cash as a backup even though card payment is generally accepted"
         }
       ]
     },
@@ -3213,17 +5377,6 @@
         {
           "type": "invented-specifics",
           "quote": "Weekday lunch (12pm–2pm) and early weekend dinner tend to be the busiest stretches."
-        }
-      ]
-    },
-    {
-      "slug": "causeway-bay-fashion-walk-food-street",
-      "category": "restaurant",
-      "region": "Causeway Bay",
-      "prose": [
-        {
-          "type": "invented-specifics",
-          "quote": "foot traffic drops noticeably from 4pm to 10pm on weekdays"
         }
       ]
     },

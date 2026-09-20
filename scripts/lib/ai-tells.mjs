@@ -65,3 +65,38 @@ export function firstTell(body) {
   }
   return best ? best.text : null;
 }
+
+/**
+ * Every tell in an article, as work the prose repair can act on.
+ *
+ * writer.mjs stops these at birth — a draft carrying one is re-requested — but
+ * 208 of them were already published across 199 guides when that gate was
+ * built, and nothing ever read the weekly count. A number nobody acts on is
+ * not a check. These become rows in the same queue repair-prose already drains
+ * at sixty a week, which ends the backlog in about a month and costs the audit
+ * nothing: no model call is involved in finding them.
+ *
+ * `quote` is the EXACT matched text, because repair-prose only acts on a span
+ * it can still find verbatim in the body. The sentence around it is the
+ * repair's business, not this function's.
+ *
+ * @param {string} body
+ * @returns {{type: 'ai-tell', quote: string, tell: string}[]}
+ */
+export function tellSpans(body) {
+  const s = String(body ?? '');
+  const out = [];
+  const seen = new Set();
+  const SEP = String.fromCharCode(0);
+  for (const [name, re] of Object.entries(TELLS)) {
+    const flags = re.flags.includes('g') ? re.flags : `${re.flags}g`;
+    for (const m of s.matchAll(new RegExp(re.source, flags))) {
+      const quote = m[0];
+      const key = `${name}${SEP}${quote.toLowerCase()}`;
+      if (seen.has(key)) continue;
+      seen.add(key);
+      out.push({ type: 'ai-tell', quote, tell: name });
+    }
+  }
+  return out;
+}

@@ -684,6 +684,19 @@ jobs:
             echo "ended-event tense: re-translating $(echo $TENSE_KEYS | wc -w) translation(s)"
             KEYS="$TENSE_KEYS" LIMIT=24 BATCH=8 node scripts/repair-flagged-translations.mjs 2>&1 | tail -6 || true
           fi
+          # An English word standing where a CJK word belongs — 観光 coming back
+          # as "observation". The census for this runs further down and has since
+          # 2026-09-07; nothing ever acted on it. ja/mumbai-fielia sat in the report
+          # for days because the post is a photo-held draft and the translator
+          # skipped drafts outright, so the repair deleted the file and the refill
+          # never came. That gap is closed (lib/translate-scope.mjs), and this audit
+          # has carried a `--list` flag labelled "for a repair run" since the day it
+          # was written. This is that run. A clean day costs nothing.
+          DROP_KEYS=$(node scripts/audit-latin-drops.mjs --list 2>/dev/null | grep -E '^LATIN-DROP: [a-z]{2}/' | awk '{print $2}' | tr '\n' ' ' || true)
+          if [ -n "$DROP_KEYS" ]; then
+            echo "latin drops: re-translating $(echo $DROP_KEYS | wc -w) translation(s)"
+            KEYS="$DROP_KEYS" LIMIT=12 BATCH=6 node scripts/repair-flagged-translations.mjs 2>&1 | tail -6 || true
+          fi
           node scripts/repair-cjk-bold.mjs 2>&1 | tail -3 || true
           # --fix-truncated-only: repair descriptions that were clipped mid-
           # sentence and touch nothing else. Without the flag the same script
