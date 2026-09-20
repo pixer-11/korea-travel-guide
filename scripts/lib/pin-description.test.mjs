@@ -261,3 +261,58 @@ test('이상한 인자에도 던지지 않는다', () => {
   assert.doesNotThrow(() => offersLine('', null));
   assert.doesNotThrow(() => isPerishable('', null));
 });
+
+// ── 2026-09-21, fourth pass: Codex on the rewritten rules ────────────────────
+// Two of these came out of the real corpus, not from invented inputs.
+
+test('영업시간: 구글이 실제로 쓰는 15가지 표기를 전부 읽는다', () => {
+  const week = (v) => ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'].map((d) => `${d}: ${v}`);
+  for (const v of ['9:00 AM - 5:00 PM', '9:00 AM – 5:00 PM', '12:00 - 14:00', '12:00 – 9:00 PM',
+    '5:00 PM – 12:00 AM', '11:00 AM – 2:00 PM, 5:00 – 9:00 PM', 'Open 24 hours']) {
+    assert.ok(parseDayLines(week(v)), `should parse: ${v}`);
+  }
+  // Cure Bali: Monday closed, split sessions the rest of the week.
+  const cure = ['Monday: Closed', 'Tuesday: 5:00 PM – 12:00 AM', 'Wednesday: 5:00 PM – 12:00 AM',
+    'Thursday: 5:00 PM – 12:00 AM', 'Friday: 5:00 PM – 12:00 AM', 'Saturday: 5:00 PM – 12:00 AM',
+    'Sunday: 12:00 – 9:00 PM'];
+  assert.equal(openingHook({ place: { openingHours: cure } }).text, 'Closed Mondays.');
+  // …but an unreadable value still buys silence.
+  assert.equal(parseDayLines(week('Hours unavailable')), null);
+  assert.equal(parseDayLines(week('Closed (temporarily)')), null);
+});
+
+test('날짜: 월 약어와 문장 속 미래 연도', () => {
+  const now = new Date('2026-09-21T12:00:00Z');
+  assert.equal(isPerishable('The festival runs Sept 11-13, 2026, at the city exhibition centre.', now), true);
+  assert.equal(isPerishable('The festival runs Sep. 11-13, 2026, at the city exhibition centre.', now), true);
+  assert.equal(isPerishable('The festival runs September 11-13 and October 11-13, 2027.', now), false);
+});
+
+test('주소 속 숫자를 가격으로 오인하지 않는다 (사자림 23 Yuan Lin Lu)', () => {
+  const q = 'Lion Grove Garden (Shizi Lin), at 23 Yuan Lin Lu in Gusu District, is one of Suzhou\'s classical UNESCO-listed gardens, famous for a maze of grey limestone rockeries.';
+  assert.ok(openingHook({ quickAnswer: q }), '주소는 가격이 아니다');
+  // 진짜 금액은 여전히 막는다
+  assert.equal(openingHook({ quickAnswer: 'Entry costs 300 baht for adults visiting the palace and its walled gardens.' }), null);
+  assert.equal(openingHook({ quickAnswer: 'Entry costs ¥30 for adults visiting the palace and its walled gardens today.' }), null);
+});
+
+test('500자에서 해시태그가 반 토막 나지 않는다', () => {
+  const d = pinDescription({ region: 'Kyoto', country: 'Japan', description: 'garden '.repeat(61) });
+  assert.ok(d.length <= 500, `length ${d.length}`);
+  // Whatever survives the cut must be a WHOLE tag: a half tag is a different
+  // tag that nobody searches ("#ThingsToDoInKyot").
+  for (const tag of d.match(/#\S+/g) || []) {
+    assert.ok(['#Kyoto', '#Japan', '#ThingsToDoInKyoto'].includes(tag), `truncated hashtag: ${tag}`);
+  }
+});
+
+test('본문 속 우물정자는 해시태그가 아니다 (싱가포르 유닛번호 #01-84)', () => {
+  const d = pinDescription({
+    region: 'Marina Bay', country: 'Singapore',
+    quickAnswer: 'Le Noir sits at #01-84 in the Esplanade Mall, a riverside bar with live music every night of the week.',
+  }, '## When to go\nEvenings.');
+  assert.match(d, /01-84/);
+  for (const tag of d.match(/#\S+/g) || []) {
+    assert.ok(/^#[A-Z]/.test(tag), `junk hashtag: ${tag}`);
+  }
+});

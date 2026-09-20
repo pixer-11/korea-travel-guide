@@ -55,8 +55,10 @@ const SYMBOL = String.raw`[$€£¥₩฿₫₹]`;
 // Blocking "Try 3 walking routes" is not a safe failure — it costs a good hook
 // for nothing (Codex, second pass 2026-09-21).
 const CODE = 'USD|EUR|GBP|JPY|KRW|THB|VND|IDR|PHP|MYR|SGD|HKD|TWD|CNY|RMB|INR|AED|SAR|AUD|NZD|CAD|CHF|TRY|RUB';
-// Spelled-out currencies are safe in lower case — no English homograph.
-const WORD = 'baht|won|yen|yuan|rupees?|rupiah|dirhams?|ringgit|pesos?|euros?|dollars?|pounds?|riyals?';
+// Spelled-out currencies, minus the ones that are also ordinary words or place
+// names: "23 Yuan Lin Lu" is Lion Grove Garden's street address, not a price,
+// and "won" is a verb. Both currencies still get caught as ¥/₩/CNY/KRW.
+const WORD = 'baht|rupees?|rupiah|dirhams?|ringgit|pesos?|euros?|dollars?|pounds?|riyals?';
 // A price reads "$12", "12 USD", "USD 12", "20 €" or "USD  20" — all of them
 // keep a pin out. The symbol side needs no word boundary (€ is not a word
 // character, so \b next to it never matches what you expect).
@@ -99,9 +101,18 @@ export function tidyClock(text) {
 // the complement advertised Sunday as OPEN. Seven lines of "Hours unavailable"
 // printed "Open daily Hours unavailable." Anything not on this whitelist means
 // the venue's week is unknown, and an unknown week earns silence.
+// The whitelist is not guesswork: all 8,953 hour lines in the corpus reduce to
+// fifteen shapes, and they share one grammar — one or more spans of
+// "H[:MM][ AM|PM] – H[:MM][ AM|PM]", or the words Closed / Open 24 hours. The
+// first version of this whitelist demanded AM/PM on both sides of a single
+// span, which silently threw away ~700 real lines: "12:00 – 9:00 PM" and
+// "11:00 AM – 2:00 PM, 5:00 – 9:00 PM" are Google's own formats (Codex found
+// Cure Bali losing its "Closed Mondays" hook this way).
 const CLOSED_VALUE = /^closed$/i;
-const CLOCK_VALUE = /^\d{1,2}(:\d{2})?\s*[AP]M\s*[–—-]\s*\d{1,2}(:\d{2})?\s*[AP]M$/i;
-const OPEN_ALL_DAY = /^open 24 hours$/i;
+const OPEN_ALL_DAY = /^open\s*24\s*hours$/i;
+const TIME = String.raw`\d{1,2}(?::\d{2})?(?:\s*[AP]M)?`;
+const SPAN = String.raw`${TIME}\s*[–—-]\s*${TIME}`;
+const CLOCK_VALUE = new RegExp(String.raw`^${SPAN}(?:\s*,\s*${SPAN})*$`, 'i');
 
 export function parseDayLines(lines) {
   if (!Array.isArray(lines) || lines.length !== 7) return null;
@@ -155,17 +166,27 @@ export function isPerishable(text, now = new Date()) {
   //     the sentence is not stale
   //   • only the LAST date in a range decides ("September 11-October 13" is
   //     still running on the 21st)
-  const MONTH = String.raw`(january|february|march|april|may|june|july|august|september|october|november|december)`;
+  //   • month abbreviations count: "Sept 11-13, 2026" is the same dead pin as
+  //     the spelled-out version (Codex, third pass)
+  //   • if the sentence names ANY future year, none of its dates are stale —
+  //     "September 11-13 and October 11-13, 2027" only attaches the year to the
+  //     second range, and judging the first one on its own killed a good hook
+  const MONTH = String.raw`(jan(?:uary)?|feb(?:ruary)?|mar(?:ch)?|apr(?:il)?|may|jun(?:e)?|jul(?:y)?|aug(?:ust)?|sep(?:t|tember)?|oct(?:ober)?|nov(?:ember)?|dec(?:ember)?)\.?`;
   const DAY = String.raw`(\d{1,2})(?!\d)`;
   const RANGE = String.raw`(?:\s*[-–—]\s*(?:${MONTH}\s+)?${DAY})?`;
   const YEAR = String.raw`(?:,?\s*(\d{4}))?`;
   const dated = new RegExp(`\\b${MONTH}\\s+${DAY}${RANGE}${YEAR}`, 'gi');
+  const futureYear = [...t.matchAll(/\b(19|20)\d{2}\b/g)].some((m) => Number(m[0]) > thisYear);
+  if (futureYear) return false;
   for (const m of t.matchAll(dated)) {
     const [, month1, day1, month2, day2, year] = m;
     const y = year ? Number(year) : thisYear;
     if (y !== thisYear) continue;            // other years are handled above
-    const monthName = (month2 || month1).toLowerCase();
-    const month = MONTHS.indexOf(monthName);
+    // Abbreviations resolve by their first three letters — "sept" and
+    // "september" are the same month, and MONTHS.indexOf() only knew the long
+    // spelling, so every abbreviated date quietly counted as "not a date".
+    const monthName = (month2 || month1).toLowerCase().slice(0, 3);
+    const month = MONTHS.findIndex((name) => name.startsWith(monthName));
     const day = Number(day2 || day1);
     if (month < 0 || !(day >= 1 && day <= 31)) continue;
     // "May" is also a verb: "May 20 people join each tour?" is not a date. Only
@@ -299,7 +320,10 @@ export function pinDescription(post, body = '') {
     }
   }
 
-  let out = bits.join(' ').replace(/\s+/g, ' ').trim();
+  // Pinterest turns any "#word" in a description into a hashtag, so a Singapore
+  // unit number ("#01-84") or a "Scene #1" becomes a junk tag beside the real
+  // keyword tags. The hash goes; the number stays and still reads correctly.
+  let out = bits.join(' ').replace(/#(?=\S)/g, '').replace(/\s+/g, ' ').trim();
   if (out.length > MAX) out = out.slice(0, MAX).replace(/\s\S*$/, '');
 
   // 6. Search words as a tail. Pinterest reads hashtags as keywords, and these
@@ -313,5 +337,9 @@ export function pinDescription(post, body = '') {
     .join('');
   const tags = [region, country, region && `Things to do in ${region}`].filter(Boolean).map(tag);
   const tail = ` Free guide on Wander Atlas. ${[...new Set(tags)].join(' ')}`.trimEnd();
-  return (out + tail).slice(0, 500);
+  const full = out + tail;
+  if (full.length <= 500) return full;
+  // A hashtag cut in half is worse than a missing one: "#ThingsToDoInKyot" is a
+  // different tag that nobody searches. Drop whole words instead.
+  return full.slice(0, 500).replace(/\s\S*$/, '');
 }
