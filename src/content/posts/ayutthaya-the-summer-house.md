@@ -60,40 +60,18 @@ place:
 tags:
   - ayutthaya
   - trendy cafe
-quickAnswer: >-
-  The Summer House is a riverside café-restaurant on Ko Rian island in
-  Ayutthaya, mixing Thai comfort food with French pastries in a leafy garden
-  setting on the Chao Phraya/Pa Sak riverbank. Go for a late breakfast or sunset
-  dinner, budget roughly 300-600 THB per person, and pair it with a visit to
-  nearby Wat Chaiwatthanaram, which sits a short drive or longtail-boat ride
-  away. Reservations are recommended on weekends given its popularity (4.5 stars
-  from over 3,000 reviews).
+quickAnswer: The Summer House is a riverside café-restaurant on Ko Rian island in Ayutthaya, mixing Thai comfort food with French pastries in a leafy garden setting on the Chao Phraya/Pa Sak riverbank. Go for a late breakfast or sunset dinner, expect a mid-range price level for the city, and pair it with a visit to nearby Wat Chaiwatthanaram, which sits a short drive or longtail-boat ride away. Reservations are recommended on weekends given its popularity (4.5 stars from over 3,000 reviews).
 faq:
   - q: How do I get to The Summer House without a car?
-    a: >-
-      Take a train or minivan from Bangkok to Ayutthaya, then hire a tuk-tuk,
-      songthaew, or app-based ride for the final 15–20 minute leg to Ko Rian,
-      since the café is across the river from the main historical park.
+    a: Take a train or minivan from Bangkok to Ayutthaya, then hire a tuk-tuk, songthaew, or app-based ride for the final 15–20 minute leg to Ko Rian, since the café is across the river from the main historical park.
   - q: How much does a meal cost?
-    a: >-
-      With a mid-range price level, expect around 300–600 THB per person for a
-      Thai main plus a pastry or coffee; exact menu prices should be confirmed
-      on-site as they can shift over time.
+    a: With a mid-range price level, expect a Thai main plus a pastry or coffee to be moderately priced for the area; exact menu prices should be confirmed on-site as they can shift over time.
   - q: What's the best time of day to visit?
-    a: >-
-      Late morning for a quiet garden breakfast, or late afternoon into sunset
-      for cooler temperatures and golden light over the river — both are
-      considered peak experience windows.
+    a: Late morning for a quiet garden breakfast, or late afternoon into sunset for cooler temperatures and golden light over the river — both are considered peak experience windows.
   - q: How long should I plan to stay?
-    a: >-
-      Most visitors spend 45 minutes to 1.5 hours here, enjoying the garden
-      setting as a relaxed break between temple visits rather than rushing
-      through.
+    a: Most visitors spend 45 minutes to 1.5 hours here, enjoying the garden setting as a relaxed break between temple visits rather than rushing through.
   - q: What else is nearby?
-    a: >-
-      Wat Chaiwatthanaram, Wat Mahathat, and Wat Phra Si Sanphet are all within
-      a short drive, making it easy to combine a meal here with a half-day of
-      temple sightseeing.
+    a: Wat Chaiwatthanaram, Wat Mahathat, and Wat Phra Si Sanphet are all within a short drive, making it easy to combine a meal here with a half-day of temple sightseeing.
 aiGenerated: true
 updatedDate: '2026-08-16'
 ---

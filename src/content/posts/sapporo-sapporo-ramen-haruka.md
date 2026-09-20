@@ -34,12 +34,12 @@ place:
 tags:
   - sapporo
   - street food
-quickAnswer: Sapporo Ramen Haruka is a small, highly-rated miso ramen shop tucked into the historic Ramen Yokocho (Ramen Alley) in Minami 5 Jonishi, Chuo Ward — a two-minute walk from Susukino Station. Expect a bowl of rich miso ramen with butter and corn for around ¥1,000-1,300, a short counter with limited seats, and a wait during dinner peak hours (7-9pm), so aim for an early lunch or late-night visit instead.
+quickAnswer: Sapporo Ramen Haruka is a small, highly-rated miso ramen shop tucked into the historic Ramen Yokocho (Ramen Alley) in Minami 5 Jonishi, Chuo Ward — a two-minute walk from Susukino Station. Expect a bowl of rich miso ramen with butter and corn at a mid-range price for the city, a short counter with limited seats, and a wait during dinner peak hours (7-9pm), so aim for an early lunch or late-night visit instead.
 faq:
   - q: How do I get to Sapporo Ramen Haruka?
     a: Take the Namboku Line subway to Susukino Station, use Exit 3, and walk about 3-5 minutes south into the Ganso Sapporo Ramen Yokocho alley in Chuo Ward.
   - q: How much does a bowl of ramen cost?
-    a: Expect roughly ¥1,000-1,300 for a standard miso ramen, placing it in the mid-range price tier; confirm current prices at the shop since they can change.
+    a: A standard miso ramen sits in the mid-range price tier for the city; confirm current prices at the shop since they can change.
   - q: How long should I plan to spend there?
     a: Most visits run 20-40 minutes given the counter seating and quick service typical of ramen alley shops; add time if there's a queue during peak dinner hours.
   - q: What's the best time to visit to avoid a wait?
@@ -49,7 +49,6 @@ faq:
 aiGenerated: true
 draft: true
 ---
-
 ## Why go
 
 Ramen Yokocho, the alley where Sapporo Ramen Haruka sits, is where the city's miso ramen identity was essentially born in the 1950s, when a cluster of stalls started serving butter- and corn-topped miso broth to workers and late-night crowds. Haruka has become one of the standouts in that lineup, pulling a 4.8 rating across more than 4,000 reviews — a remarkable number for a shop with only a handful of counter seats.
@@ -66,7 +65,7 @@ The alley entrance is marked by a narrow, lantern-lit lane easy to miss from the
 
 Order the classic miso ramen first — it's the shop's reason for being and the dish the alley itself is famous for citywide. Ask for butter corn miso ramen if you want the full Hokkaido experience; the sweet corn and melting butter are regional signatures, not gimmicks. Portions are moderate, so pairing a half-order of gyoza is common practice among regulars.
 
-Price level sits in the mid-range for ramen (roughly ¥1,000-1,300 for a standard bowl based on typical Yokocho pricing), though menu prices should be confirmed on-site since they shift year to year. Seating is limited to a single counter, so solo diners and pairs fit best; larger groups may need to split up or wait.
+Price level sits in the mid-range for ramen, though menu prices should be confirmed on-site since they shift year to year. Seating is limited to a single counter, so solo diners and pairs fit best; larger groups may need to split up or wait.
 
 ## When to go
 

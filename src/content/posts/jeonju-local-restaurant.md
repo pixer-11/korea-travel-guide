@@ -13,14 +13,14 @@ gallery: []
 tags:
   - jeonju
   - local restaurant
-quickAnswer: For an authentic local meal in Jeonju, head to the Hanok Village and Nambu Market area, where family-run restaurants serve the city's signature dishes — bibimbap, kongnamul gukbap (bean sprout soup), and makgeolli with a spread of free side dishes. Go early or late to dodge tour-bus crowds, budget ₩10,000–20,000 per person, and pair the meal with a walk through Nambu Market's night food stalls (Fri–Sat evenings).
+quickAnswer: For an authentic local meal in Jeonju, head to the Hanok Village and Nambu Market area, where family-run restaurants serve the city's signature dishes — bibimbap, kongnamul gukbap (bean sprout soup), and makgeolli with a spread of free side dishes. Go early or late to dodge tour-bus crowds, and pair the meal with a walk through Nambu Market's night food stalls (Fri–Sat evenings).
 faq:
   - q: How do I get to Jeonju's restaurant district from Seoul?
     a: Take the KTX from Yongsan Station to Jeonju Station (under 2 hours), then a 15–20 minute taxi or city bus to the Hanok Village area, where most well-known restaurants cluster.
   - q: What's the one dish I shouldn't leave Jeonju without trying?
     a: Jeonju-style bibimbap, made with raw beef, a raw egg yolk, and an unusually wide mix of seasoned vegetables — it's the dish that put the city on Korea's culinary map.
   - q: How much should a meal cost?
-    a: Expect roughly ₩10,000–15,000 per person for bibimbap or gukbap at a sit-down restaurant, and somewhat more for a shared makgeolli-house spread. Confirm current prices, as they vary by restaurant and season.
+    a: Expect a mid-range, budget-friendly price for bibimbap or gukbap at a sit-down restaurant, and somewhat more for a shared makgeolli-house spread. Confirm current prices on the menu, as they vary by restaurant and season.
   - q: When is the best time to visit to avoid crowds?
     a: Weekday lunches or early dinners are calmer than weekends and Korean holidays, when Hanok Village restaurants and Nambu Market fill up quickly.
   - q: What else is nearby worth combining with a meal?
@@ -29,14 +29,13 @@ aiGenerated: true
 draft: true
 country: South Korea
 ---
-
 ## Why Jeonju Is Korea's Food Capital
 
 Jeonju has been synonymous with Korean cuisine for centuries — it's the birthplace of bibimbap and sits at the center of Jeolla Province, a region famous nationwide for generous, well-seasoned banchan (side dishes) and deep fermentation traditions (gochujang, doenjang, and rice wine). UNESCO named Jeonju a "City of Gastronomy" in 2012, and the honor is well earned: even modest neighborhood restaurants here tend to outperform fancier spots elsewhere in Korea, because local competition and pride in regional ingredients keep standards high.
 
 ## Getting There and Getting Around
 
-Jeonju doesn't have a subway system, so most visitors arrive by KTX or intercity bus. Jeonju Station connects to Yongsan Station in Seoul in under two hours by KTX. From Jeonju Station, the Hanok Village and its restaurant cluster are about a 15–20 minute taxi ride (roughly ₩6,000–8,000) or a 25-minute ride on city buses 79, 12, or What's more, many first-time visitors base themselves near the Hanok Village itself, since the best-known eating streets are walkable from there.
+Jeonju doesn't have a subway system, so most visitors arrive by KTX or intercity bus. Jeonju Station connects to Yongsan Station in Seoul in under two hours by KTX. From Jeonju Station, the Hanok Village and its restaurant cluster are about a 15–20 minute taxi ride, budget-friendly for the distance, or a 25-minute ride on city buses 79, 12, or What's more, many first-time visitors base themselves near the Hanok Village itself, since the best-known eating streets are walkable from there.
 
 Nambu Market, another essential food destination, sits just south of the Hanok Village across the Jeonju stream, an easy 10-minute walk.
 
@@ -56,4 +55,4 @@ Weekday lunches (11:30am–1pm) and early dinners avoid the worst of the tour-gr
 
 ## Nearby & Practical Tips
 
-After eating, walk off the meal at Omokdae and Imokdae, hillside pavilions overlooking the tiled roofs of the Hanok Village, or visit Jeondong Catholic Church, a striking early-1900s brick cathedral a few minutes from the village entrance. Cash still helps at smaller, older restaurants and market stalls, though card acceptance has improved significantly in recent years. Prices for a full bibimbap or gukbap meal generally run ₩10,000–15,000, while makgeolli kettles with a full side-dish spread run higher — confirm current prices on-site, as they shift seasonally and with ingredient costs.
+After eating, walk off the meal at Omokdae and Imokdae, hillside pavilions overlooking the tiled roofs of the Hanok Village, or visit Jeondong Catholic Church, a striking early-1900s brick cathedral a few minutes from the village entrance. Cash still helps at smaller, older restaurants and market stalls, though card acceptance has improved significantly in recent years. A full bibimbap or gukbap meal is generally budget-friendly, while makgeolli kettles with a full side-dish spread run higher — confirm current prices on-site, as they shift seasonally and with ingredient costs.

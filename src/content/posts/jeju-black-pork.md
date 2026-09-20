@@ -15,12 +15,12 @@ heroImage:
 tags:
   - jeju
   - black pork
-quickAnswer: Jeju black pork (heuk-dwaeji) is best eaten grilled tabletop-style, thick-cut, in the "black pork street" districts of Jeju City (near Jungang Rotary/Gwandeokjeong) or in Seogwipo's Jungmun and Seogwi-dong areas. Look for restaurants that specify "Jeju heuk-dwaeji" (not just "dwaeji-gogi") and show a black pig certification mark or photo, since genuine Jeju black pork is a protected, pricier product distinct from regular pork. Budget roughly 20,000–30,000 KRW per person for grilled meat plus sides, and go at dinner when grills are in full use.
+quickAnswer: Jeju black pork (heuk-dwaeji) is best eaten grilled tabletop-style, thick-cut, in the "black pork street" districts of Jeju City (near Jungang Rotary/Gwandeokjeong) or in Seogwipo's Jungmun and Seogwi-dong areas. Look for restaurants that specify "Jeju heuk-dwaeji" (not just "dwaeji-gogi") and show a black pig certification mark or photo, since genuine Jeju black pork is a protected, pricier product distinct from regular pork. Expect to pay on the pricier side for grilled meat plus sides, and go at dinner when grills are in full use.
 faq:
   - q: How do I get to Jeju's black pork restaurant street?
     a: The main cluster near Jungang Rotary and Gwandeokjeong in Jeju City is about a 10-15 minute taxi ride from Jeju International Airport. If you're staying in Seogwipo or near Jungmun, look for grill houses in Seogwi-dong instead rather than crossing the island.
   - q: How much does a black pork meal cost?
-    a: Expect roughly 20,000-30,000 KRW per person for grilled meat plus banchan, since certified Jeju black pork costs more than regular pork. Exact prices vary by cut and restaurant, so check the posted per-100g or per-portion pricing before ordering.
+    a: Expect a meal on the pricier side for grilled meat plus banchan, since certified Jeju black pork costs more than regular pork. Exact prices vary by cut and restaurant, so check the posted per-100g or per-portion pricing before ordering.
   - q: What's the best dish to order for a first try?
     a: Ogyeopsal (five-layer grilled belly with extra skin) is the signature order. For something lighter, try dombegogi, boiled sliced pork served on a wooden board with fermented shrimp sauce.
   - q: What time should I go and how long does a meal take?

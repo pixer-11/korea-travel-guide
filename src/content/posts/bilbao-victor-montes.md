@@ -38,40 +38,18 @@ place:
 tags:
   - bilbao
   - local restaurant
-quickAnswer: >-
-  Víctor Montes sits on Plaza Nueva (Plaza Berria) in Bilbao's Casco Viejo, in a
-  handsome former market building with a painted facade—come for classic Basque
-  pintxos at the bar and a mid-range sit-down menu in back. It's genuinely
-  popular (4.4 stars, over 5,000 reviews), so aim for a weekday lunch around 1pm
-  or an early evening pintxo run before 8pm to dodge the crush. Budget €3-5 per
-  pintxo standing at the bar, more for a seated meal.
+quickAnswer: Víctor Montes sits on Plaza Nueva (Plaza Berria) in Bilbao's Casco Viejo, in a handsome former market building with a painted facade—come for classic Basque pintxos at the bar and a mid-range sit-down menu in back. It's genuinely popular (4.4 stars, over 5,000 reviews), so aim for a weekday lunch around 1pm or an early evening pintxo run before 8pm to dodge the crush. Pintxos at the bar are budget-friendly; a seated meal costs more.
 faq:
   - q: How do I get to Víctor Montes?
-    a: >-
-      It's on Plaza Nueva (Plaza Berria) in Casco Viejo. The nearest metro stop
-      is Casco Viejo (Lines 1 and 2), about a 5-minute walk, or a scenic
-      20-minute riverside walk from the Guggenheim area.
+    a: It's on Plaza Nueva (Plaza Berria) in Casco Viejo. The nearest metro stop is Casco Viejo (Lines 1 and 2), about a 5-minute walk, or a scenic 20-minute riverside walk from the Guggenheim area.
   - q: What's the best time to visit to avoid crowds?
-    a: >-
-      Weekday lunch before 1pm is calmer. Avoid weekends and anytime after 8pm
-      on weekdays, when the counter gets three-deep with people waiting for
-      pintxos.
+    a: Weekday lunch before 1pm is calmer. Avoid weekends and anytime after 8pm on weekdays, when the counter gets three-deep with people waiting for pintxos.
   - q: How much should I budget?
-    a: >-
-      It's mid-range for Bilbao. Standing pintxos with a drink run roughly €3-5
-      each, while a full seated meal in the dining room costs considerably more
-      per person.
+    a: It's mid-range for Bilbao. Standing pintxos with a drink are budget-friendly, while a full seated meal in the dining room costs considerably more per person.
   - q: Should I eat at the bar or book a table?
-    a: >-
-      For a quick pintxos sampling, just walk up to the counter and grab a
-      plate—no reservation needed. For the sit-down menu in the back dining
-      room, especially on weekend evenings, it's worth asking ahead about a
-      table.
+    a: For a quick pintxos sampling, just walk up to the counter and grab a plate—no reservation needed. For the sit-down menu in the back dining room, especially on weekend evenings, it's worth asking ahead about a table.
   - q: What should I order?
-    a: >-
-      Start with the tortilla de patata, bacalao pintxos, and jamón-topped
-      bread, paired with a glass of txakoli or a caña of beer. The seasonal
-      specials on the chalkboard near the register are also worth trying.
+    a: Start with the tortilla de patata, bacalao pintxos, and jamón-topped bread, paired with a glass of txakoli or a caña of beer. The seasonal specials on the chalkboard near the register are also worth trying.
 aiGenerated: true
 updatedDate: '2026-08-29'
 ---

@@ -51,30 +51,15 @@ quickAnswer: >-
   all-day destination.
 faq:
   - q: How much time should I budget for the Old Las Vegas Mormon Fort?
-    a: >-
-      About 45 minutes to an hour is enough to see the visitor center exhibits
-      and walk the small outdoor courtyard and adobe wall.
+    a: About 45 minutes to an hour is enough to see the visitor center exhibits and walk the small outdoor courtyard and adobe wall.
   - q: How do I get there from the Las Vegas Strip?
-    a: >-
-      It's roughly a 10-minute drive or rideshare (around $10-15) from the
-      Strip. From downtown/Fremont Street it's an easy 15-20 minute walk or a
-      short bus ride up Las Vegas Boulevard.
+    a: It's roughly a 10-minute drive or rideshare from the Strip. From downtown/Fremont Street it's an easy 15-20 minute walk or a short bus ride up Las Vegas Boulevard.
   - q: What's the best time of day and year to visit?
-    a: >-
-      Weekday mornings are quietest and most comfortable. Visit October through
-      April for mild temperatures, or arrive right at opening in summer to avoid
-      the afternoon heat, which regularly tops 100°F (38°C) May through
-      September.
+    a: Weekday mornings are quietest and most comfortable. Visit October through April for mild temperatures, or arrive right at opening in summer to avoid the afternoon heat, which regularly tops 100°F (38°C) May through September.
   - q: Is it worth visiting if I'm not a history buff?
-    a: >-
-      Yes, briefly — it's the site where Las Vegas itself began, thanks to the
-      artesian spring that once flowed here, and the exhibits explain that story
-      clearly in a small, easy-to-digest space even for casual visitors.
+    a: Yes, briefly — it's the site where Las Vegas itself began, thanks to the artesian spring that once flowed here, and the exhibits explain that story clearly in a small, easy-to-digest space even for casual visitors.
   - q: What else is nearby?
-    a: >-
-      The Springs Preserve is about a 10-minute drive away and expands on the
-      same natural-spring history. Downtown's Fremont Street Experience, the
-      Neon Museum, and the Arts District are all a short drive or walk south.
+    a: The Springs Preserve is about a 10-minute drive away and expands on the same natural-spring history. Downtown's Fremont Street Experience, the Neon Museum, and the Arts District are all a short drive or walk south.
 aiGenerated: true
 draft: false
 updatedDate: '2026-09-08'

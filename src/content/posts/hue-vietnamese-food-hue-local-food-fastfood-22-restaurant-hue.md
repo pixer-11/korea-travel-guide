@@ -54,12 +54,7 @@ place:
 tags:
   - hue
   - street food
-quickAnswer: >-
-  Head to 22 Trần Huy Liệu in Phú Xuân ward, a few minutes' walk from Hue's
-  Citadel, for cheap, high-volume Vietnamese and Hue-style local food (rated 4.9
-  from over 2,000 reviews). Budget under 100,000 VND for a full meal of Hue
-  specialties like bún bò Huế, bánh khoái, or com hen, and go at lunch or early
-  evening when turnover keeps everything fresh.
+quickAnswer: Head to 22 Trần Huy Liệu in Phú Xuân ward, a few minutes' walk from Hue's Citadel, for cheap, high-volume Vietnamese and Hue-style local food (rated 4.9 from over 2,000 reviews). It's a budget-friendly spot for a full meal of Hue specialties like bún bò Huế, bánh khoái, or com hen, and go at lunch or early evening when turnover keeps everything fresh.
 faq:
   - q: Where exactly is this restaurant located?
     a: >-

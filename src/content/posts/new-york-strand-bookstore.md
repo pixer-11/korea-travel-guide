@@ -61,11 +61,10 @@ faq:
   - q: How long should I plan to spend there?
     a: An hour is enough for a focused loop through new releases and the carts outside. Serious browsers often spend two to three hours across all floors, including the basement Rare Book Room.
   - q: Is Strand good for gifts and souvenirs?
-    a: Yes — the ground floor stocks its well-known canvas totes, pins, and bookish gifts, and the $1–$5 sidewalk carts are worth a dig for cheap paperbacks.
+    a: Yes — the ground floor stocks its well-known canvas totes, pins, and bookish gifts, and the sidewalk carts are worth a dig for budget-friendly paperbacks.
 aiGenerated: true
 draft: false
 ---
-
 ## Why Strand still matters
 
 You smell it before you see the far wall: that dry, papery mustiness of old bindings mixed with fresh ink. Strand has occupied this stretch of Broadway since 1957, and the building still feels like it's straining to hold everything inside it.
@@ -85,7 +84,7 @@ The ground floor handles new releases, bestsellers, and the tote bags and pins t
 - Basement: the Rare Book Room, with first editions and signed copies behind glass
 - Third floor: art, photography, and design books, plus a quieter reading nook
 - Ground floor: new fiction, staff picks, and the famous canvas totes
-- Sidewalk carts: $1–$5 used paperbacks, restocked constantly
+- Sidewalk carts: budget-friendly used paperbacks, restocked constantly
 
 Set aside real time here. An hour covers a fast loop; three hours is easy to lose if you're a genuine browser.
 

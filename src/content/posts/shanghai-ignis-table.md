@@ -11,7 +11,7 @@ tags:
 quickAnswer: Ignis Table is a newly opened chef's table restaurant in Zhonghua Mansion, led by chef Julien Xu (ex-Ultraviolet, ex-Rêver), serving a single ¥1,880 tasting menu built around premium seafood. Seats are limited and it's booking up fast as word spreads, so reserve well ahead and confirm the current hours directly with the restaurant before you go.
 faq:
   - q: How much does a meal at Ignis Table cost?
-    a: The set menu is currently priced at ¥1,880 per person. Confirm whether this includes service or drinks when you reserve, as that can vary.
+    a: The set menu sits on the pricier side for the city. Confirm the current price, and whether it includes service or drinks, directly with the restaurant when you reserve.
   - q: Do I need a reservation?
     a: Yes. It's a chef's table format with limited seating built around a single tasting menu, so walk-ins aren't realistic — book ahead, especially for weekends.
   - q: Where exactly is it located?

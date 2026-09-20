@@ -70,36 +70,18 @@ quickAnswer: >-
   hungry, go early, and pair the visit with a stroll through Atsuta Jingu.
 faq:
   - q: Do I need a reservation?
-    a: >-
-      The Atsuta honten typically does not take reservations for lunch, so
-      arrive at or before opening to minimize the wait; dinner may allow
-      reservations depending on the season, so it's worth calling ahead or
-      checking with your accommodation.
+    a: The Atsuta honten typically does not take reservations for lunch, so arrive at or before opening to minimize the wait; dinner may allow reservations depending on the season, so it's worth calling ahead or checking with your accommodation.
   - q: How much does a meal cost?
-    a: >-
-      Plan for roughly ¥5,000–7,000 per person for a hitsumabushi set with rice,
-      soup, and pickles, given the restaurant's mid-to-upper price level; exact
-      prices vary by portion size and season, so confirm current menu pricing on
-      arrival.
+    a: Plan for a hitsumabushi set with rice, soup, and pickles to sit on the pricier side, given the restaurant's mid-to-upper price level; exact prices vary by portion size and season, so confirm current menu pricing on arrival.
   - q: How do I get there without a car?
-    a: >-
-      Take the Meitetsu Nagoya Main Line to Jingu-mae Station or the Meijo
-      subway line to Jingu Nishi Station, both a short walk from Atsuta Jingu
-      and the restaurant, roughly 10–15 minutes from central Nagoya Station.
+    a: Take the Meitetsu Nagoya Main Line to Jingu-mae Station or the Meijo subway line to Jingu Nishi Station, both a short walk from Atsuta Jingu and the restaurant, roughly 10–15 minutes from central Nagoya Station.
   - q: How long should I budget for the visit?
-    a: >-
-      Expect 30–60 minutes of waiting for a table (longer on weekends), plus
-      45–60 minutes to eat, so budgeting about two hours total, including a walk
-      through nearby Atsuta Jingu, works well.
+    a: Expect 30–60 minutes of waiting for a table (longer on weekends), plus 45–60 minutes to eat, so budgeting about two hours total, including a walk through nearby Atsuta Jingu, works well.
   - q: What's the best time of year to visit?
-    a: >-
-      Spring and autumn tend to have shorter waits; midsummer, especially around
-      the day of the ox in late July, is the traditional eel-eating season and
-      the busiest, priciest time to go.
+    a: Spring and autumn tend to have shorter waits; midsummer, especially around the day of the ox in late July, is the traditional eel-eating season and the busiest, priciest time to go.
 aiGenerated: true
 updatedDate: '2026-09-14'
 ---
-
 ## Why go
 
 Hōraiken is credited with inventing hitsumabushi, Nagoya's signature eel dish, and the Atsuta honten (main shop) is the original location, operating in a traditional wooden building near Atsuta Jingu since the late 19th century. Unlike a standard unagi-don, hitsumabushi divides grilled eel and rice into four portions in a lacquered wooden tub (ohachi), so you eat it a different way each time, first plain, then with condiments like scallion, wasabi and nori, then with dashi poured over as a broth, and finally however you liked it best.
@@ -116,11 +98,11 @@ If arriving from Nagoya Station, the Meitetsu line is the more direct route (aro
 
 Order the hitsumabushi, it comes in size tiers (often labeled by portion count or price grade), so choose based on appetite; the eel is butterflied, deboned, grilled over charcoal with a soy-mirin glaze, and layered over rice in a large wooden tub meant for two to three people to share and then divide. The classic ritual: scoop a quarter into your bowl and eat it unadorned to taste the eel and glaze; scoop another quarter and add the condiment tray (scallions, wasabi, nori, sesame); a third quarter gets ochazuke-style dashi poured over it, eaten more like a savory soup; the last quarter is eaten however you preferred the first three.
 
-Portions run on the smaller side individually but the ritual and richness of the glaze make it filling. Given the price level (mid-to-upper range for Nagoya dining), expect a per-person cost roughly in the ¥5,000–7,000 range for a full set with rice, pickles, and often a clear soup, though menu prices shift, so treat this as a planning estimate rather than a quote.
+Portions run on the smaller side individually but the ritual and richness of the glaze make it filling. Given the price level (mid-to-upper range for Nagoya dining), expect a full set with rice, pickles, and often a clear soup to land on the pricier side, though menu prices shift, so confirm current pricing on the menu at the restaurant.
 
 ## When to go
 
-Arrive right at opening or slightly before for lunch, since the honten doesn't typically take reservations for lunch service and lines form quickly, especially on weekends and holidays, waits of 30–60 minutes are common. Dinner can be marginally calmer but still busy. Eel is traditionally associated with summer in Japan, particularly the midsummer day of the ox (doyo no ushi no hi, typically late July), when demand and prices both spike; visiting in shoulder seasons (spring or autumn) tends to mean shorter waits. Plan for about 45–60 minutes for the meal itself once seated, plus wait time.
+Arrive right at opening or slightly before for lunch, since the honten doesn't typically take reservations for lunch service and lines form quickly, especially on weekends and holidays, waits of 30–60 minutes are common. Dinner can be marginally calmer but still busy. Eel is traditionally associated with summer in Japan, particularly the midsummer day of the ox (doyo no ushi no hi, typically late July), when demand spikes and prices climb; visiting in shoulder seasons (spring or autumn) tends to mean shorter waits. Plan for about 45–60 minutes for the meal itself once seated, plus wait time.
 
 ## Nearby & tips
 

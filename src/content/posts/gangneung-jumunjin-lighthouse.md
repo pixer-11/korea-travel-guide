@@ -63,7 +63,6 @@ faq:
 aiGenerated: true
 updatedDate: '2026-09-02'
 ---
-
 ## Why go
 
 Jumunjin Lighthouse sits on a modest bluff overlooking Jumunjin Port, one of Gangwon-do's busiest fishing harbors, roughly 25 minutes north of downtown Gangneung. The lighthouse itself is unassuming, a squat white tower first built in 1918 to guide fishing boats along Korea's east coast, but the real draw is the panorama from its base: a sweeping view of the harbor's fishing fleet, the open East Sea, and, on clear days, the rocky coastline stretching toward Sokcho.
@@ -72,7 +71,7 @@ It's become a minor pop-culture pilgrimage spot too, since the surrounding cliff
 
 ## Getting there
 
-The address is 24-7 Yetdeungdae-gil, Jumunjin-eup, Gangneung, Gangwon-do. From Gangneung's Intercity Bus Terminal or Gangneung Station, the most reliable option is a taxi (about 20–25 minutes, roughly ₩20,000–25,000 depending on traffic) or driving yourself, since parking is available near the base of the hill. City buses do run from central Gangneung to Jumunjin-eup, but the lighthouse hill itself sits a steep 10–15 minute walk uphill from the nearest bus stop, so budget extra time if you're relying on public transit.
+The address is 24-7 Yetdeungdae-gil, Jumunjin-eup, Gangneung, Gangwon-do. From Gangneung's Intercity Bus Terminal or Gangneung Station, the most reliable option is a taxi (about 20–25 minutes, with the fare shown on the meter) or driving yourself, since parking is available near the base of the hill. City buses do run from central Gangneung to Jumunjin-eup, but the lighthouse hill itself sits a steep 10–15 minute walk uphill from the nearest bus stop, so budget extra time if you're relying on public transit.
 
 Many visitors combine the trip with a rental car day covering Gyeongpo Beach and Anmok Beach on the way north.
 
@@ -80,7 +79,7 @@ Many visitors combine the trip with a rental car day covering Gyeongpo Beach and
 
 The main path is a short, well-paved staircase and walkway leading up from the port to the lighthouse platform. Expect 5–10 minutes of climbing, more if you stop for photos. At the top, the lighthouse compound has a small deck area and photo spots overlooking the breakwater and fishing boats below. Look for the "Goblin" filming marker near the cliffside staircase, a popular photo backdrop for drama fans.
 
-Down at sea level, Jumunjin Port itself is worth a wander before or after the climb: this is one of the largest squid and fish landing ports on the east coast, and the adjacent Jumunjin Fish Market sells fresh and dried seafood, including the region's well-known dried squid (ojingeo) and semi-dried fish (gwamegi in season). Grabbing a bowl of fish stew or fresh sashimi at one of the harbor-front restaurants pairs naturally with the visit.
+Down at sea level, Jumunjin Port itself is worth a wander before or after the climb: this is one of the largest squid and fish landing ports on the east coast, and the adjacent Jumunjin Fish Market sells fresh and dried seafood, including the region's well-known dried squid (ojingeo) and semi-dried fish (gwamegi in season). Grabbing a bowl of fish stew or fresh sashimi at one of the harbor-front restaurants pairs naturally with the visit, and prices at these spots are generally budget-friendly for the region.
 
 ## When to go
 

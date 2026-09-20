@@ -57,14 +57,14 @@ place:
 tags:
   - taipei
   - seafood
-quickAnswer: Addiction Aquatic Development (地下海鮮 / 上引水產) is a sprawling seafood market-cum-restaurant in Zhongshan District, open daily 7am–10:30pm, where you grab a tray at the sushi bar, self-serve grilled seafood, or sit down for a full meal. It's genuinely busy — weekends from 9am–3pm see the longest lines — so aim for a weekday morning or after 9pm to move through quickly. Budget roughly NT$500–1,000 per person depending on how much fresh sashimi and seafood you pile on.
+quickAnswer: Addiction Aquatic Development (地下海鮮 / 上引水產) is a sprawling seafood market-cum-restaurant in Zhongshan District, open daily 7am–10:30pm, where you grab a tray at the sushi bar, self-serve grilled seafood, or sit down for a full meal. It's genuinely busy — weekends from 9am–3pm see the longest lines — so aim for a weekday morning or after 9pm to move through quickly. It's mid-range for the city, depending on how much fresh sashimi and seafood you pile on.
 faq:
   - q: How do I get to Addiction Aquatic Development without a car?
     a: Take the MRT to Zhongshan or Minquan W. Road station (Red or Green line), then a short taxi ride of about 10–15 minutes — the market is down a lane off Minzu E Road and isn't a direct walk from either station.
   - q: What's the best time to go to avoid crowds?
     a: Weekday mornings are calmest all day. If you can only go on a weekend, aim for 9pm–10pm before the 10:30pm close — busiest weekend hours run from 9am to 3pm.
   - q: How much does a meal cost?
-    a: 'It''s mid-range and pay-as-you-go: you buy from each counter separately, so a satisfying spread of sashimi, grilled seafood, and an oyster or two typically runs somewhere between NT$500 and NT$1,000 per person.'
+    a: 'It''s mid-range and pay-as-you-go: you buy from each counter separately, so a satisfying spread of sashimi, grilled seafood, and an oyster or two adds up per person depending on what you choose.'
   - q: Do I need a reservation?
     a: No reservations for the market counters (sushi bar, grill, oyster bar) — you queue on the spot. The sit-down restaurant section may take groups, but the counters are first-come, first-served.
   - q: How long should I plan to spend there?

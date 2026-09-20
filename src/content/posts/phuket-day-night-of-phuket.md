@@ -1,6 +1,6 @@
 ---
 title: 'Day & Night Of Phuket: Where to Eat'
-description: Day & Night Of Phuket is a casual, high-volume Thai restaurant in Talat Yai, Phuket Old Town, best known for southern Thai and seafood dishes at moderate prices (Google's price level 2, roughly 150–500 baht a plate).
+description: Day & Night Of Phuket is a casual, high-volume Thai restaurant in Talat Yai, Phuket Old Town, best known for southern Thai and seafood dishes at moderate, mid-range prices for the city (Google's price level 2).
 country: Thailand
 region: Phuket
 category: restaurant
@@ -60,7 +60,7 @@ place:
 tags:
   - phuket
   - local restaurant
-quickAnswer: Day & Night Of Phuket is a casual, high-volume Thai restaurant in Talat Yai, Phuket Old Town, best known for southern Thai and seafood dishes at moderate prices (Google's price level 2, roughly 150–500 baht a plate). With a 4.7 rating from over 4,700 reviews, it's a reliable pick for both a quick lunch after exploring the Sino-Portuguese shophouses and a longer dinner before hitting the night market. Go early evening (around 5:30–6:30 pm) to avoid the dinner rush and to still catch daylight on Old Town's colorful streets.
+quickAnswer: Day & Night Of Phuket is a casual, high-volume Thai restaurant in Talat Yai, Phuket Old Town, best known for southern Thai and seafood dishes at moderate, mid-range prices for the city (Google's price level 2). With a 4.7 rating from over 4,700 reviews, it's a reliable pick for both a quick lunch after exploring the Sino-Portuguese shophouses and a longer dinner before hitting the night market. Go early evening (around 5:30–6:30 pm) to avoid the dinner rush and to still catch daylight on Old Town's colorful streets.
 faq:
   - q: Where exactly is Day & Night Of Phuket located?
     a: It's in Talat Yai, within Mueang Phuket District — the neighborhood commonly called Phuket Old Town, known for Sino-Portuguese shophouses and the Sunday Lard Yai walking street.

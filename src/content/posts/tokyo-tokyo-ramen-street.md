@@ -44,7 +44,7 @@ faq:
   - q: Do I need a train ticket to get there?
     a: No. Ramen Street is in the free-access shopping concourse of Tokyo Station, so you can walk in without a valid rail ticket.
   - q: How much does a bowl of ramen cost?
-    a: Most bowls fall in the ¥900-¥1,400 range, with extras like ajitama egg or extra chashu pork priced separately at the ticket machine.
+    a: Bowls are budget-friendly for the city, with extras like ajitama egg or extra chashu pork priced separately at the ticket machine.
   - q: How long should I plan to spend there?
     a: Budget 20-30 minutes to eat once seated, plus up to 20-40 minutes of queuing if you go during lunch (12-1:30pm) or dinner (6:30-8:30pm) peak hours.
   - q: What's nearby if I want to combine this with other stops?
@@ -52,7 +52,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why go
 
 Tokyo Ramen Street isn't a single restaurant but a curated lineup of roughly eight standalone ramen shops packed into one underground corridor beneath Tokyo Station. The concept, run as part of the Tokyo Station Ichibangai shopping arcade, rotates in some of Japan's most decorated ramen names, shops that have won awards at regional ramen expos or built cult followings elsewhere in the country, so first-time visitors get a crash course in Japan's regional ramen diversity (shoyu, miso, tonkotsu, tsukemen dipping noodles) without leaving one hallway.
@@ -69,7 +68,7 @@ Since it's inside the ticket-gate-free area of the station complex, you don't ne
 
 Each shop specializes in one style, so the strategy is to pick a broth rather than browse a single menu. Shops rotate periodically, but the lineup typically includes a tonkotsu (pork bone) specialist, a niboshi (dried sardine) shoyu shop, a miso-focused Hokkaido-style counter, and at least one tsukemen (dipping noodle) specialist where noodles and concentrated broth arrive separately for dunking.
 
-Portions are compact by design (most bowls run in the ¥900–¥1,400 range) precisely so travelers can realistically try two shops in one visit if hunger and schedule allow. Ordering is almost universally done at a vending-style ticket machine by the entrance: select your bowl (and add-ons like extra chashu pork, ajitama marinated egg, or menma bamboo shoots), pay first, then hand the ticket to staff. Counter seating dominates, so solo travelers fit in easily; groups may need to sit split up or wait longer.
+Portions are compact by design, budget-friendly for the city, precisely so travelers can realistically try two shops in one visit if hunger and schedule allow. Ordering is almost universally done at a vending-style ticket machine by the entrance: select your bowl (and add-ons like extra chashu pork, ajitama marinated egg, or menma bamboo shoots), pay first, then hand the ticket to staff. Counter seating dominates, so solo travelers fit in easily; groups may need to sit split up or wait longer.
 
 ## When to go
 

@@ -53,34 +53,18 @@ quickAnswer: >-
   wandering deer.
 faq:
   - q: How do I get to Mizuya Chaya?
-    a: >-
-      Walk into Nara Park from Kintetsu Nara Station (about 25–30 minutes) or JR
-      Nara Station (a bit longer), heading toward Kasuga Taisha. The teahouse
-      sits directly on the approach path, among the stone lanterns, just before
-      the shrine itself.
+    a: Walk into Nara Park from Kintetsu Nara Station (about 25–30 minutes) or JR Nara Station (a bit longer), heading toward Kasuga Taisha. The teahouse sits directly on the approach path, among the stone lanterns, just before the shrine itself.
   - q: What should I order?
-    a: >-
-      The warabimochi (bracken-starch mochi with kinako soybean powder and black
-      sugar syrup) is the signature dish. For a fuller meal, go with the udon or
-      somen noodle sets.
+    a: The warabimochi (bracken-starch mochi with kinako soybean powder and black sugar syrup) is the signature dish. For a fuller meal, go with the udon or somen noodle sets.
   - q: How much does it cost?
-    a: >-
-      It's a moderate price level, generally in the ¥1,000–2,000 range per
-      person for a light meal or sweets set — inexpensive by Western restaurant
-      standards but a step above a street snack.
+    a: It's a moderate price level for a light meal or sweets set — inexpensive by Western restaurant standards but a step above a street snack.
   - q: How long should I plan to stay?
-    a: >-
-      30–45 minutes is typical for a tea and sweets break; a bit longer if you
-      order a full noodle set and want to linger over the forest view.
+    a: 30–45 minutes is typical for a tea and sweets break; a bit longer if you order a full noodle set and want to linger over the forest view.
   - q: What else is nearby?
-    a: >-
-      Kasuga Taisha is a five-minute walk further up the path, and Todai-ji,
-      Nara Park's deer meadows, and the Nara National Museum are all within a
-      15–20 minute walk back toward central Nara.
+    a: Kasuga Taisha is a five-minute walk further up the path, and Todai-ji, Nara Park's deer meadows, and the Nara National Museum are all within a 15–20 minute walk back toward central Nara.
 aiGenerated: true
 updatedDate: '2026-09-17'
 ---
-
 ## Why go
 
 Mizuya Chaya sits deep inside Nara Park's cedar forest, on the stone-paved path leading up to Kasuga Taisha, one of Japan's most important Shinto shrines and a UNESCO World Heritage Site. The restaurant occupies a weathered, thatched-roof building that feels closer to a mountain teahouse than a city restaurant, low wooden benches, sliding screens, and views onto moss and stone lanterns.
@@ -97,7 +81,7 @@ Follow the signed path toward Kasuga Taisha, Mizuya Chaya appears on the left al
 
 The signature order here is warabimochi (bracken-starch mochi dusted in roasted soybean powder (kinako), and often served with kuromitsu (black sugar syrup). It's a classic Nara-Kyoto regional sweet, and Mizuya Chaya's version, eaten on a wooden bench overlooking the forest, is the reason many visitors detour here. Beyond sweets, the menu runs to simple noodle dishes) chilled somen in summer, warm udon in cooler months, and set meals that pair noodles with small side dishes, the kind of unfussy food meant to refuel walkers rather than headline a food itinerary.
 
-Price level is moderate (roughly ¥1,000–2,000 per person for a typical order), consistent with a casual teahouse rather than a formal restaurant. Seating is mostly outdoor or semi-outdoor on wooden platforms, so it's weather-dependent, lovely in spring and autumn, muggy in peak summer.
+Price level is moderate, consistent with a casual teahouse rather than a formal restaurant. Seating is mostly outdoor or semi-outdoor on wooden platforms, so it's weather-dependent, lovely in spring and autumn, muggy in peak summer.
 
 ## When to go
 

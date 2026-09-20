@@ -55,12 +55,7 @@ place:
 tags:
   - hoi an
   - street food
-quickAnswer: >-
-  Bun Cha Ta is a no-frills local favorite at 197 Nguyễn Duy Hiệu, a 15-20
-  minute walk (or 5-minute taxi/bike ride) east of Hoi An's Old Town. Go for
-  grilled pork patties over rice noodles with a tangy fish-sauce broth, expect
-  to pay well under $5 for a full meal, and arrive at lunchtime (11am-1pm) when
-  it's busiest and the grill is going strong.
+quickAnswer: Bun Cha Ta is a no-frills local favorite at 197 Nguyễn Duy Hiệu, a 15-20 minute walk (or 5-minute taxi/bike ride) east of Hoi An's Old Town. Go for grilled pork patties over rice noodles with a tangy fish-sauce broth, expect a budget-friendly meal, and arrive at lunchtime (11am-1pm) when it's busiest and the grill is going strong.
 faq:
   - q: How do I get to Bun Cha Ta from the Old Town?
     a: >-

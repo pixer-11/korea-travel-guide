@@ -73,37 +73,19 @@ quickAnswer: >-
   and a snack, longer if you order brunch; arrive before 10am or after 2pm to
   skip the busiest window.
 faq:
-  - q: >-
-      How do I get to Curio Espresso and Vintage Design Café from Kanazawa
-      Station?
-    a: >-
-      It's about a 15–20 minute walk from the station's east exit, or a short
-      ride on the Kanazawa Loop Bus to the Omicho Market stop followed by a few
-      minutes on foot into Yasuechō.
+  - q: How do I get to Curio Espresso and Vintage Design Café from Kanazawa Station?
+    a: It's about a 15–20 minute walk from the station's east exit, or a short ride on the Kanazawa Loop Bus to the Omicho Market stop followed by a few minutes on foot into Yasuechō.
   - q: How much does a coffee and snack cost?
-    a: >-
-      Prices are moderate for Kanazawa — roughly ¥1,500–2,500 for coffee plus a
-      light dish, though exact menu prices can change, so check current pricing
-      on-site.
+    a: Prices are moderate for Kanazawa — coffee plus a light dish is mid-range for the city, though exact menu prices can change, so check current pricing on-site.
   - q: How long should I plan to spend there?
-    a: >-
-      Budget 20–40 minutes for coffee and a pastry, or up to an hour if you
-      order a full brunch plate, since the space is small and seating can take
-      time during busy periods.
+    a: Budget 20–40 minutes for coffee and a pastry, or up to an hour if you order a full brunch plate, since the space is small and seating can take time during busy periods.
   - q: When is the best time to visit to avoid crowds?
-    a: >-
-      Go right at opening or after 2pm; late morning to early afternoon on
-      weekends is the busiest window given the café's popularity with both
-      locals and travelers.
+    a: Go right at opening or after 2pm; late morning to early afternoon on weekends is the busiest window given the café's popularity with both locals and travelers.
   - q: What's nearby if I want to combine this with sightseeing?
-    a: >-
-      Omicho Market is a couple of minutes away, and Higashi Chaya District,
-      Kanazawa Castle Park, and Kenroku-en Garden are all within a 10–25 minute
-      walk.
+    a: Omicho Market is a couple of minutes away, and Higashi Chaya District, Kanazawa Castle Park, and Kenroku-en Garden are all within a 10–25 minute walk.
 aiGenerated: true
 updatedDate: '2026-09-06'
 ---
-
 ## Why Curio Stands Out in Kanazawa
 
 Kanazawa is a city built around lacquerware, gold leaf, and Edo-era teahouses, so a café obsessed with mid-century furniture, single-origin espresso, and analog design feels almost defiantly modern. Curio Espresso and Vintage Design Café has built a loyal following (rated 4.6 from over 1,100 reviews) precisely because it doesn't try to be a traditional Kanazawa experience. It's a deliberate palate and pace change between temple visits and lacquerware shops.
@@ -118,7 +100,7 @@ Because the address sits in a quieter residential-commercial pocket rather than 
 
 ## What to Order
 
-Espresso is the anchor here. Expect proper flat whites, cortados, and pour-over options rather than the sweetened, milk-heavy coffee drinks more common in mainstream Japanese cafés. The food menu leans Western brunch: thick-cut toast with seasonal jam, granola bowls with yogurt, and egg-forward plates that rotate seasonally. Portions are generous for a café rather than a full restaurant, and prices sit in the moderate range for Kanazawa (a coffee and a light dish typically lands in the ¥1,500–2,500 territory, though menus and prices shift, so treat this as a rough guide rather than a quote).
+Espresso is the anchor here. Expect proper flat whites, cortados, and pour-over options rather than the sweetened, milk-heavy coffee drinks more common in mainstream Japanese cafés. The food menu leans Western brunch: thick-cut toast with seasonal jam, granola bowls with yogurt, and egg-forward plates that rotate seasonally. Portions are generous for a café rather than a full restaurant, and prices sit in the moderate range for Kanazawa, though menus and prices shift, so check current pricing on the menu.
 
 Baked goods (scones, muffins, banana bread) are usually available for a quicker visit if you don't have time for a full brunch sitting.
 

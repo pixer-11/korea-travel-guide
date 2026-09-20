@@ -66,13 +66,7 @@ place:
 tags:
   - nara
   - top attraction
-quickAnswer: >-
-  Nara Park is a sprawling public park in central Nara famous for over 1,000
-  free-roaming, bowing sika deer and the temples that ring its edges — Todai-ji,
-  Kasuga Taisha, and Kofuku-ji. Plan a half-day to full day on foot, buy a stack
-  of shika senbei (deer crackers) for around ¥200, and go early morning to avoid
-  tour-bus crowds. It's a 5-minute walk from Kintetsu Nara Station or about 20
-  minutes from JR Nara Station.
+quickAnswer: Nara Park is a sprawling public park in central Nara famous for over 1,000 free-roaming, bowing sika deer and the temples that ring its edges — Todai-ji, Kasuga Taisha, and Kofuku-ji. Plan a half-day to full day on foot, buy a stack of shika senbei (deer crackers) which are budget-friendly, and go early morning to avoid tour-bus crowds. It's a 5-minute walk from Kintetsu Nara Station or about 20 minutes from JR Nara Station.
 faq:
   - q: How do I get to Nara Park?
     a: >-

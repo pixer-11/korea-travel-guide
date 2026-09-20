@@ -9,10 +9,10 @@ gallery: []
 tags:
   - barcelona
   - new & trending
-quickAnswer: Melós is a tasting-counter restaurant in Barcelona's Dreta de l'Eixample, opened by chef Miquel Pardo as his first solo project and already one of the most talked-about tables to open in the city in 2026. Evening tasting menus run roughly €80-€130, seats are limited, and reservations should be made well ahead. Confirm exact hours and pricing directly with the restaurant before you go, since both can shift as a new opening settles in.
+quickAnswer: Melós is a tasting-counter restaurant in Barcelona's Dreta de l'Eixample, opened by chef Miquel Pardo as his first solo project and already one of the most talked-about tables to open in the city in 2026. Evening tasting menus sit on the pricier side for the city, seats are limited, and reservations should be made well ahead. Confirm exact hours and pricing directly with the restaurant before you go, since both can shift as a new opening settles in.
 faq:
   - q: How much does a meal at Melós cost?
-    a: Evening tasting menus run roughly €80-€130 per person, not including wine pairings unless stated. Confirm current pricing when you book, as it can shift for a recently opened restaurant.
+    a: Evening tasting menus sit on the pricier side for the city, not including wine pairings unless stated. Confirm current pricing when you book, as it can shift for a recently opened restaurant.
   - q: Do I need a reservation?
     a: Yes. Melós is one of the most talked-about new openings in Barcelona for 2026, and tables go quickly, especially on weekends. Book as far in advance as the restaurant allows.
   - q: Where exactly is Melós located?
@@ -24,7 +24,6 @@ faq:
 aiGenerated: true
 draft: true
 ---
-
 Every few years Barcelona produces a restaurant that the local food press can't stop mentioning, and for 2026 that restaurant is Melós. It sits in Dreta de l'Eixample, the grid of wide sidewalks and Modernista facades east of Passeig de Gràcia, in a neighborhood better known for design shops and quiet residential blocks than headline openings.
 
 ## Who's cooking
@@ -35,12 +34,12 @@ The food is Catalan at its core but treated with some freedom, built around a ta
 
 ## What a meal here looks like
 
-Melós runs on tasting menus rather than plates ordered piecemeal. In the evening, expect to pay somewhere in the €80-€130 range depending on the menu length and any wine pairing you add.
+Melós runs on tasting menus rather than plates ordered piecemeal. Evening menus sit on the pricier side for the city, with the exact figure depending on the menu length and any wine pairing you add.
 
-That price bracket puts it solidly in special-occasion territory rather than a casual weeknight stop. Because tasting menus depend on a kitchen's daily sourcing, the exact dishes change with the season, so don't go in expecting to look up tonight's plates in advance.
+That puts it solidly in special-occasion territory rather than a casual weeknight stop. Because tasting menus depend on a kitchen's daily sourcing, the exact dishes change with the season, so don't go in expecting to look up tonight's plates in advance.
 
 - Format: multi-course tasting menu, evening service
-- Price range: roughly €80-€130 per person
+- Price range: on the pricier side for the city
 - Style: contemporary Catalan, chef-driven
 - Setting: counter-style dining typical of newer tasting-menu openings
 

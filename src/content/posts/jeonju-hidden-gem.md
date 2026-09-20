@@ -29,14 +29,13 @@ faq:
 aiGenerated: true
 draft: true
 ---
-
 ## Why Jeonju's real charm hides just off the main path
 
 Jeonju Hanok Village draws the crowds to its central thoroughfares, but the district actually spans a much larger footprint than most day-trippers realize. The genuinely rewarding experience is walking the perimeter, the quieter residential lanes where families still live in hanok houses, rather than the souvenir-and-hanbok-rental strip that dominates photos of the area. This is where you get a sense of Jeonju as a living city, not a theme park.
 
 ## Getting there
 
-Jeonju is most easily reached by train (KTX or ITX from Yongsan Station in Seoul, roughly 2–2.5 hours) or by intercity bus from Seoul's Central City Terminal (around 3 hours). From Jeonju Station or the bus terminal, city buses (79, 79-1, and several others) run to the Hanok Village area in about 15–20 minutes; a taxi costs roughly ₩6,000–8,000 depending on traffic.
+Jeonju is most easily reached by train (KTX or ITX from Yongsan Station in Seoul, roughly 2–2.5 hours) or by intercity bus from Seoul's Central City Terminal (around 3 hours). From Jeonju Station or the bus terminal, city buses (79, 79-1, and several others) run to the Hanok Village area in about 15–20 minutes; a taxi is budget-friendly depending on traffic.
 
 There's no subway system in Jeonju itself, so buses and taxis are the default. Once you're near the village, everything described below is walkable. The hidden pockets are literally a few streets over from the main gate area near Pungnammun Gate.
 

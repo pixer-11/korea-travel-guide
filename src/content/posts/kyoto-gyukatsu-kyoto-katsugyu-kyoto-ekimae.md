@@ -58,38 +58,18 @@ place:
 tags:
   - kyoto
   - local restaurant
-quickAnswer: >-
-  GYUKATSU Kyoto Katsugyu Kyoto Ekimae is a breaded, deep-fried beef cutlet
-  (gyukatsu) specialist steps from Kyoto Station, best eaten for lunch when
-  queues are shorter. Order the set menu, cook your slices on the individual
-  tabletop stone to your preferred doneness, and expect to spend roughly
-  ¥1,500–¥2,500 for a satisfying meal (Google's price level 2). Budget 15–30
-  minutes of wait outside peak lunch or dinner rush.
+quickAnswer: GYUKATSU Kyoto Katsugyu Kyoto Ekimae is a breaded, deep-fried beef cutlet (gyukatsu) specialist steps from Kyoto Station, best eaten for lunch when queues are shorter. Order the set menu, cook your slices on the individual tabletop stone to your preferred doneness, and expect a mid-range meal for the city (Google's price level 2). Budget 15–30 minutes of wait outside peak lunch or dinner rush.
 faq:
   - q: How do I get to GYUKATSU Kyoto Katsugyu Kyoto Ekimae?
-    a: >-
-      It's in Maoyachō, Shimogyo Ward, an easy walk from Kyoto Station's
-      central/north exits — reachable via JR lines, the Karasuma subway line, or
-      the city bus terminal at the station.
+    a: It's in Maoyachō, Shimogyo Ward, an easy walk from Kyoto Station's central/north exits — reachable via JR lines, the Karasuma subway line, or the city bus terminal at the station.
   - q: How much does a meal cost?
-    a: >-
-      Google lists it at price level 2 (moderate); expect roughly ¥1,500–¥2,500
-      per person for a standard gyukatsu set with rice, miso soup, and cabbage.
-  - q: 'How long does a meal take, including waiting?'
-    a: >-
-      Plan for 45–75 minutes total: 15–30 minutes waiting during peak lunch
-      (12:00–13:30) or dinner (18:30–20:00), plus 30-40 minutes to eat and sear
-      the beef at your own pace.
+    a: Google lists it at price level 2 (moderate); expect a mid-range meal for the city for a standard gyukatsu set with rice, miso soup, and cabbage.
+  - q: How long does a meal take, including waiting?
+    a: 'Plan for 45–75 minutes total: 15–30 minutes waiting during peak lunch (12:00–13:30) or dinner (18:30–20:00), plus 30-40 minutes to eat and sear the beef at your own pace.'
   - q: What should I order?
-    a: >-
-      Start with the standard gyukatsu set (teishoku), which includes rice, miso
-      soup, and cabbage; try the beef with the soy-based tare, wasabi, and salt
-      before deciding on one sauce.
+    a: Start with the standard gyukatsu set (teishoku), which includes rice, miso soup, and cabbage; try the beef with the soy-based tare, wasabi, and salt before deciding on one sauce.
   - q: What's nearby if I have extra time?
-    a: >-
-      Kyoto Tower, Higashi Hongan-ji temple, and Isetan's basement food hall are
-      all within a 10–15 minute walk, making it easy to combine the meal with
-      light sightseeing near the station.
+    a: Kyoto Tower, Higashi Hongan-ji temple, and Isetan's basement food hall are all within a 10–15 minute walk, making it easy to combine the meal with light sightseeing near the station.
 aiGenerated: true
 updatedDate: '2026-09-08'
 ---

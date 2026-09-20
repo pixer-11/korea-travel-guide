@@ -9,14 +9,14 @@ pubDate: 2026-07-20T00:00:00.000Z
 tags:
   - gangneung
   - local restaurant
-quickAnswer: 'For an honest sense of Gangneung''s food culture, head to the alleys around Jungang Market (Jungang-dong) and the Gangmun tidal flat near Gyeongpo Beach, where small family-run spots specialize in the city''s signature dishes: chodang sundubu (uncoagulated tofu simmered in seawater brine), fresh grilled or raw fish from the East Sea, and makguksu (cold buckwheat noodles). Plan on 40,000–60,000 KRW for two people at a mid-range seafood or tofu house, and go at lunch when local eateries are busiest and freshest.'
+quickAnswer: 'For an honest sense of Gangneung''s food culture, head to the alleys around Jungang Market (Jungang-dong) and the Gangmun tidal flat near Gyeongpo Beach, where small family-run spots specialize in the city''s signature dishes: chodang sundubu (uncoagulated tofu simmered in seawater brine), fresh grilled or raw fish from the East Sea, and makguksu (cold buckwheat noodles). Expect a mid-range cost for two people at a typical seafood or tofu house, and go at lunch when local eateries are busiest and freshest.'
 faq:
   - q: How do I get to Gangneung's local restaurant areas from Seoul?
     a: Take the KTX Gangneung Line from Seoul Station or Cheongnyangni Station (about 2 hours), then taxi or bus to Jungang Market, Chodang Village, or the Gyeongpo/Gangmun area.
   - q: What dish is Gangneung most famous for?
     a: Chodang sundubu — soft tofu coagulated with seawater — is the city's signature dish, best sampled in Chodang Village near Gyeongpo Beach.
   - q: How much should I budget for a meal?
-    a: Expect roughly 40,000–60,000 KRW for two people at a typical sundubu or seafood restaurant; market stalls are cheaper. Prices vary, so confirm menus on-site.
+    a: Expect a mid-range cost for two people at a typical sundubu or seafood restaurant; market stalls are cheaper. Prices vary, so confirm menus on-site.
   - q: How long should I spend exploring the food scene?
     a: A half-day is enough to eat at one or two spots and browse Jungang Market; a full day lets you add Chodang Village, Gyeongpo Beach, and Anmok Coffee Street.
   - q: Is English spoken or menus translated?

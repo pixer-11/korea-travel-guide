@@ -63,37 +63,18 @@ place:
 tags:
   - fukuoka
   - trendy cafe
-quickAnswer: >-
-  Manly is an Australian-themed all-day café in Imaizumi, a short walk south of
-  Tenjin, best known for fluffy ricotta hotcakes, all-day breakfast plates, and
-  meat pies. Go on a weekday morning or mid-afternoon to snag one of the small
-  outdoor tables and avoid the weekend brunch queue; budget around 1,500–2,500
-  yen per person and 45–75 minutes for a relaxed sit-down meal.
+quickAnswer: Manly is an Australian-themed all-day café in Imaizumi, a short walk south of Tenjin, best known for fluffy ricotta hotcakes, all-day breakfast plates, and meat pies. Go on a weekday morning or mid-afternoon to snag one of the small outdoor tables and avoid the weekend brunch queue; it's mid-range for the city, and plan on 45–75 minutes for a relaxed sit-down meal.
 faq:
   - q: How do I get to Manly in Fukuoka?
-    a: >-
-      Walk about 5–7 minutes east from Tenjin Minami Station (Nanakuma Line)
-      into Imaizumi, or about 10–12 minutes south from Tenjin/Nishitetsu Fukuoka
-      Station through the Imaizumi shopping streets.
+    a: Walk about 5–7 minutes east from Tenjin Minami Station (Nanakuma Line) into Imaizumi, or about 10–12 minutes south from Tenjin/Nishitetsu Fukuoka Station through the Imaizumi shopping streets.
   - q: What is Manly known for?
-    a: >-
-      It's an Australian-themed café known for ricotta hotcakes, meat pies, and
-      hearty all-day breakfast plates, served in a rustic interior with outdoor
-      seating — a change of pace from Fukuoka's typical souffle-pancake cafés.
+    a: It's an Australian-themed café known for ricotta hotcakes, meat pies, and hearty all-day breakfast plates, served in a rustic interior with outdoor seating — a change of pace from Fukuoka's typical souffle-pancake cafés.
   - q: How much does a meal cost?
-    a: >-
-      It's mid-range for a Fukuoka café, roughly 1,500–2,500 yen per person for
-      a full brunch plate and drink; confirm current menu prices on-site as they
-      can change.
+    a: It's mid-range for a Fukuoka café; confirm current menu prices on-site as they can change.
   - q: How long should I plan to stay?
-    a: >-
-      Most visits run 45–75 minutes for a full sit-down meal, longer if you're
-      claiming an outdoor table on a nice day.
+    a: Most visits run 45–75 minutes for a full sit-down meal, longer if you're claiming an outdoor table on a nice day.
   - q: When is the best time to visit to avoid crowds?
-    a: >-
-      Weekday mornings right at opening (11am) through noon are calmer; weekend
-      brunch hours, especially Saturday midday, are the busiest given its strong
-      local following.
+    a: Weekday mornings right at opening (11am) through noon are calmer; weekend brunch hours, especially Saturday midday, are the busiest given its strong local following.
 aiGenerated: true
 updatedDate: '2026-09-02'
 ---
@@ -113,7 +94,7 @@ Imaizumi itself is known as a slightly more low-key, fashion-and-café district 
 
 The signature dish is the ricotta hotcake stack, thick, custardy pancakes served with butter and syrup, closer to an American-Australian diner style than Japan's jiggly souffle pancakes. Beyond sweets, Manly's savory Australian menu is the real point of difference: expect meat pies with flaky pastry, big all-day breakfast plates with eggs, bacon, and grilled tomato, and brunch classics like avocado toast.
 
-Portions run generous for a Fukuoka café, and the price level is mid-range. Plan on roughly 1,500–2,500 yen per person for a full plate plus a drink, though menu prices should be confirmed on-site since they can shift. Coffee and tea are solid but secondary to the food here; this is a café built around a proper sit-down meal, not a quick espresso stop.
+Portions run generous for a Fukuoka café, and the price level is mid-range. Menu prices should be confirmed on-site since they can shift. Coffee and tea are solid but secondary to the food here; this is a café built around a proper sit-down meal, not a quick espresso stop.
 
 ## When to go
 

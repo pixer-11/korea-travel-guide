@@ -44,46 +44,21 @@ place:
 tags:
   - hue
   - trendy cafe
-quickAnswer: >-
-  PhinHolic is a stylish Vietnamese phin-coffee café at 65 Bến Nghé, in Hue's
-  Thuận Hóa ward on the south bank of the Perfume River, a short walk or cyclo
-  ride from Dong Ba Market and the main hotel strip along Le Loi and Hung Vuong.
-  Go mid-morning or late afternoon, order a phin-filtered ca phe sua da or the
-  trendy salted-cream coffee, and budget 45–60 minutes to sit, work, or
-  people-watch. Expect to pay roughly 25,000–55,000 VND (about $1–2.50) per
-  drink, cash or QR transfer.
+quickAnswer: PhinHolic is a stylish Vietnamese phin-coffee café at 65 Bến Nghé, in Hue's Thuận Hóa ward on the south bank of the Perfume River, a short walk or cyclo ride from Dong Ba Market and the main hotel strip along Le Loi and Hung Vuong. Go mid-morning or late afternoon, order a phin-filtered ca phe sua da or the trendy salted-cream coffee, and budget 45–60 minutes to sit, work, or people-watch. Expect a moderate price for the city, payable by cash or QR transfer.
 faq:
   - q: How do I get to PhinHolic from central Hue?
-    a: >-
-      It's at 65 Bến Nghé in Thuận Hóa ward on the south bank of the Perfume
-      River, about a 10–15 minute walk from Dong Ba Market and Trang Tien
-      Bridge. From the Citadel side, cross the river and continue south, or take
-      a short Grab/taxi ride.
+    a: It's at 65 Bến Nghé in Thuận Hóa ward on the south bank of the Perfume River, about a 10–15 minute walk from Dong Ba Market and Trang Tien Bridge. From the Citadel side, cross the river and continue south, or take a short Grab/taxi ride.
   - q: How much does a coffee cost at PhinHolic?
-    a: >-
-      It's a moderately priced café by Vietnamese standards, with most
-      phin-brewed drinks and specialty items typically falling in the
-      25,000–55,000 VND range (roughly $1–2.50 USD). Cash and QR bank transfer
-      are both commonly accepted.
+    a: It's a moderately priced café by Vietnamese standards, with most phin-brewed drinks and specialty items sitting in the mid-range for the city. Cash and QR bank transfer are both commonly accepted.
   - q: What should I order?
-    a: >-
-      Start with the classic ca phe sua da (phin-filtered coffee with condensed
-      milk over ice), and try the salted cream coffee variation if available — a
-      modern spin on a style associated with Hue.
+    a: Start with the classic ca phe sua da (phin-filtered coffee with condensed milk over ice), and try the salted cream coffee variation if available — a modern spin on a style associated with Hue.
   - q: What's the best time to visit?
-    a: >-
-      Late morning (10–11am) or late afternoon (4–6pm) avoids Hue's midday heat
-      and, in the rainy months of October–December, reduces the chance of
-      getting caught in a downpour. Weekday visits are quieter than weekends.
+    a: Late morning (10–11am) or late afternoon (4–6pm) avoids Hue's midday heat and, in the rainy months of October–December, reduces the chance of getting caught in a downpour. Weekday visits are quieter than weekends.
   - q: What else is nearby?
-    a: >-
-      Dong Ba Market and the Perfume River promenade are both within a 10–15
-      minute walk, making PhinHolic an easy midday stop between a Citadel visit
-      and an evening river walk or night market browse.
+    a: Dong Ba Market and the Perfume River promenade are both within a 10–15 minute walk, making PhinHolic an easy midday stop between a Citadel visit and an evening river walk or night market browse.
 aiGenerated: true
 updatedDate: '2026-09-04'
 ---
-
 ## Why PhinHolic Matters in Hue's Café Scene
 
 Hue is better known for imperial tombs and citadel walls than for coffee culture, but a new generation of cafés is changing that, and PhinHolic, on Bến Nghé street, is one of the names locals and young Vietnamese travelers now mention first. The name is a pun on "phin," the small metal drip filter that is the backbone of Vietnamese coffee, and it signals the concept: traditional slow-drip brewing dressed up in a design-forward space.
@@ -92,7 +67,7 @@ With a 4.5 rating across nearly 900 reviews, it has become a reliable stop for t
 
 ## Getting There
 
-PhinHolic sits at 65 Bến Nghé, in Thuận Hóa ward, on the south side of the Perfume River, the newer, more commercial half of Hue where most mid-range hotels cluster. It's roughly a 10–15 minute walk from Dong Ba Market and the Trang Tien Bridge, and about the same distance from the Le Loi hotel corridor. If you're staying near the Citadel on the north bank, cross via Trang Tien or Phu Xuan Bridge and continue south for 10–15 minutes on foot, or take a short Grab (Vietnam's ride-hailing app) or metered taxi ride, which should run only a few minutes and a small fare given how compact central Hue is.
+PhinHolic sits at 65 Bến Nghé, in Thuận Hóa ward, on the south side of the Perfume River, the newer, more commercial half of Hue where most mid-range hotels cluster. It's roughly a 10–15 minute walk from Dong Ba Market and the Trang Tien Bridge, and about the same distance from the Le Loi hotel corridor. If you're staying near the Citadel on the north bank, cross via Trang Tien or Phu Xuan Bridge and continue south for 10–15 minutes on foot, or take a short Grab (Vietnam's ride-hailing app) or metered taxi ride, given how compact central Hue is.
 
 Cycling is also common here, many hotels rent bicycles, and Bến Nghé's street layout is flat and easy to navigate.
 
@@ -100,7 +75,7 @@ Cycling is also common here, many hotels rent bicycles, and Bến Nghé's street
 
 The signature draw is phin-brewed coffee served the traditional way, with the metal filter still perched on the glass so you watch it drip. Order the classic ca phe sua da (iced coffee with condensed milk) for the baseline experience, or try one of the shop's trendier riffs, salted cream coffee (an update on the "cà phê muối" style that originated in Hue itself) or coconut-coffee blends are typical of this genre of café and worth asking about by name.
 
-Price level is moderate for Vietnam (most drinks have recently fallen in the 25,000–55,000 VND range, though prices drift, so treat that as a ballpark), and payment by cash or bank QR transfer is standard. The space itself leans into clean, photogenic interiors: exposed materials, greenery, and seating arranged for both solo laptop use and small groups, which explains its popularity with younger domestic tourists and the social-media crowd.
+Price level is moderate for Vietnam, and payment by cash or bank QR transfer is standard. The space itself leans into clean, photogenic interiors: exposed materials, greenery, and seating arranged for both solo laptop use and small groups, which explains its popularity with younger domestic tourists and the social-media crowd.
 
 Plan for 45 minutes to an hour if you're just having a drink, longer if you want to work or linger.
 

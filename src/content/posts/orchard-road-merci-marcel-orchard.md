@@ -69,12 +69,12 @@ place:
 tags:
   - orchard road
   - local restaurant
-quickAnswer: MERCI MARCEL ORCHARD is a French all-day café-restaurant tucked into Palais Renaissance at 390 Orchard Road, a short walk from Orchard MRT (Exits A or E). Go for weekday lunch or an early weeknight dinner to avoid the wait, expect mid-range pricing (mains roughly S$20–35), and budget 1–1.5 hours for a proper meal. It's a well-known, well-reviewed spot (4.7 stars, 4,000+ reviews) rather than a hidden find, so book ahead or arrive right at opening.
+quickAnswer: MERCI MARCEL ORCHARD is a French all-day café-restaurant tucked into Palais Renaissance at 390 Orchard Road, a short walk from Orchard MRT (Exits A or E). Go for weekday lunch or an early weeknight dinner to avoid the wait, expect mid-range pricing for the city, and budget 1–1.5 hours for a proper meal. It's a well-known, well-reviewed spot (4.7 stars, 4,000+ reviews) rather than a hidden find, so book ahead or arrive right at opening.
 faq:
   - q: How do I get to MERCI MARCEL ORCHARD by MRT?
     a: Take the North-South Line to Orchard MRT and walk about 5–8 minutes west along Orchard Road toward Palais Renaissance at 390 Orchard Road. Somerset MRT is a slightly longer alternative walk.
   - q: How much does a meal cost?
-    a: It sits in the mid-range price bracket for Orchard Road — expect mains roughly S$20–35 and coffee or pastries in the S$8–15 range. Confirm current menu prices on-site since they can shift.
+    a: It sits in the mid-range price bracket for Orchard Road. Check current menu prices on-site since they can shift.
   - q: Do I need a reservation?
     a: It's not essential on quiet weekday afternoons, but booking ahead is strongly recommended for weekend brunch (11am–2pm) and Friday/Saturday dinner, when it's busiest.
   - q: How long should I plan to stay?
@@ -83,7 +83,6 @@ faq:
     a: Palais Renaissance itself has boutique shopping, and ION Orchard, Ngee Ann City, and Wisma Atria are all within a 5–10 minute walk.
 aiGenerated: true
 ---
-
 ## Why go
 
 MERCI MARCEL is a French import. The Singapore branch sits inside Palais Renaissance, one of the older low-rise shopping arcades on Orchard Road, sandwiched between the glass towers of ION Orchard and Delfi Orchard. The brand built its reputation in Paris and Nice on a relaxed, plant-filled "eat all day" concept: croissants and coffee in the morning, salads and tartines at lunch, wine and bistro plates by evening.
@@ -98,7 +97,7 @@ Palais Renaissance itself is a smaller, boutique-heavy mall (Miu Miu, Balenciaga
 
 ## What to eat
 
-Expect a French bistro-meets-café menu: think eggs Benedict and granola bowls for brunch, niçoise salad, steak tartare, burrata, and a rotating fish or steak frites main for lunch and dinner. Baked goods and coffee are strong points given the brand's café roots, so it works equally well for a mid-shopping pastry stop as for a full sit-down dinner. Price level sits in the mid-range bracket for Orchard Road, figure on mains in the S$20s to mid-S$30s and coffee/pastry a more casual S$8–15, not cheap, but in line with other Western casual-dining options nearby rather than fine-dining territory.
+Expect a French bistro-meets-café menu: think eggs Benedict and granola bowls for brunch, niçoise salad, steak tartare, burrata, and a rotating fish or steak frites main for lunch and dinner. Baked goods and coffee are strong points given the brand's café roots, so it works equally well for a mid-shopping pastry stop as for a full sit-down dinner. Price level sits in the mid-range bracket for Orchard Road, in line with other Western casual-dining options nearby rather than fine-dining territory.
 
 ## When to go
 

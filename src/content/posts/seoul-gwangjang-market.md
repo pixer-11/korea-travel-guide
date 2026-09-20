@@ -62,21 +62,20 @@ tags:
   - street food
   - market
   - budget
-quickAnswer: Gwangjang Market in Jongno-gu is Seoul's oldest traditional market (opened 1905) and a legendary street food destination — head straight for the food alley for bindaetteok (mung bean pancakes), mayak gimbap ("drug" gimbap), and yukhoe (Korean beef tartare). Go via Jongno 5(o)-ga Station (Line 1, Exit 8) and arrive by late morning to beat both lunch crowds and dinner tour groups. Budget 1-2 hours and roughly ₩15,000-25,000 for a full tasting circuit, cash-friendly but most stalls now take cards.
+quickAnswer: Gwangjang Market in Jongno-gu is Seoul's oldest traditional market (opened 1905) and a legendary street food destination — head straight for the food alley for bindaetteok (mung bean pancakes), mayak gimbap ("drug" gimbap), and yukhoe (Korean beef tartare). Go via Jongno 5(o)-ga Station (Line 1, Exit 8) and arrive by late morning to beat both lunch crowds and dinner tour groups. Budget 1-2 hours for a full tasting circuit, which is mid-range for the city; cash-friendly but most stalls now take cards.
 faq:
   - q: How do I get to Gwangjang Market by subway?
     a: Take Line 1 to Jongno 5(o)-ga Station and use Exit 8; the market is about a one-minute walk away. Line 2 or 5 to Euljiro 4-ga Station, Exit 4, is a nearby alternative.
   - q: What food should I try first?
     a: Start with bindaetteok (mung bean pancake) and mayak gimbap, then add yukhoe (raw beef tartare) or sundubu if you want something more substantial. Portions are small, so plan to try several stalls.
   - q: How much does a visit cost?
-    a: A full tasting circuit across 4-5 stalls typically runs about ₩15,000-25,000 per person, though exact prices vary by vendor and have risen in recent years.
+    a: A full tasting circuit across 4-5 stalls is mid-range for the city per person, though exact prices vary by vendor and have risen in recent years.
   - q: What's the best time to visit to avoid crowds?
     a: Aim for late morning on a weekday, around 10:30-11:30am, before the lunch rush and well ahead of the evening tour-group crowds.
   - q: How long should I spend there, and is anything else nearby?
     a: Plan on 1-2 hours for eating and browsing. Cheonggyecheon Stream is a few minutes' walk south, and Dongdaemun Design Plaza is about 15-20 minutes away on foot.
 aiGenerated: true
 ---
-
 ## Why Gwangjang Market Matters
 
 Opened in 1905, Gwangjang is widely considered Seoul's first permanent standing market, built to trade textiles and household goods along the Cheonggyecheon stream. It still functions as a working fabric and hanbok wholesale market by day, but since the 2010s its food alley has become the city's most famous street-food destination, drawing both elderly regulars who've eaten there for decades and a steady stream of international visitors chasing viral videos of sizzling pancakes and hand-rolled gimbap.
@@ -95,7 +94,7 @@ The signature dish is bindaetteok, a thick, crispy mung bean pancake fried on fl
 
 For something heartier, look for yukhoe, Korean-style raw beef tartare mixed with pear, egg yolk, and sesame, a specialty of a handful of long-running stalls in the market's interior. Other staples worth grabbing include soft tofu (sundubu), mung bean sprout bibimbap, and the market's own version of tteokbokki. Most vendors serve small, shareable portions, so the standard approach is to graze across four or five stalls rather than commit to one meal.
 
-A reasonable full circuit runs somewhere in the ₩15,000-25,000 range per person, though prices vary by stall and have crept up in recent years.
+A full circuit is mid-range for the city per person, though prices vary by stall and have crept up in recent years.
 
 ## When to Go
 

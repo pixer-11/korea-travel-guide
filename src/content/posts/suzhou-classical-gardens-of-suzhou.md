@@ -64,7 +64,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Why go
 
 Suzhou's classical gardens are the reference point for Chinese garden design, the template that Beijing's imperial gardens and countless private courtyards across East Asia borrowed from. Built by scholar-officials and wealthy merchants between the 11th and 19th centuries, they compress mountains, rivers, forests, and architecture into walled spaces sometimes no larger than a city block, using techniques like borrowed scenery (jiejing), winding covered walkways, and framed "moon gates" to make a few acres feel like an entire landscape.
@@ -85,7 +84,7 @@ Given the distances between sites, many visitors base themselves in the old city
 
 ## When to go
 
-Each garden sells individual admission tickets, generally in the range of ¥40–90 depending on the site and season, confirm current prices and hours on official Suzhou tourism channels before visiting, as they're adjusted periodically. Spring and autumn offer the most comfortable weather and the best light for photography among the rockeries and reflecting ponds; summer brings heat and humidity but also lush greenery, while winter thins the crowds considerably. Arrive at opening time, especially at the Humble Administrator's Garden, since domestic tour groups arrive in large numbers by mid-morning.
+Each garden sells individual admission tickets, priced at a mid-range level for the city and varying by site and season; confirm current prices and hours on official Suzhou tourism channels before visiting, as they're adjusted periodically. Spring and autumn offer the most comfortable weather and the best light for photography among the rockeries and reflecting ponds; summer brings heat and humidity but also lush greenery, while winter thins the crowds considerably. Arrive at opening time, especially at the Humble Administrator's Garden, since domestic tour groups arrive in large numbers by mid-morning.
 
 ## Nearby & tips
 

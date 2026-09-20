@@ -66,43 +66,21 @@ place:
 tags:
   - jakarta
   - local restaurant
-quickAnswer: >-
-  Social House Grand Indonesia is a lush, greenery-filled all-day restaurant and
-  wine bar on the ground floor of East Mall Grand Indonesia in Menteng, Central
-  Jakarta — best reached via Bundaran HI MRT Station (Exit 1/2, connected by a
-  covered pedestrian bridge). Expect an extensive international menu, roughly
-  300 wine labels by the glass or bottle, and a mid-to-upper price bracket
-  (Rp150,000–400,000+ per person). It's genuinely popular, so aim for an early
-  lunch or a weeknight dinner before 7pm to skip the wait.
+quickAnswer: Social House Grand Indonesia is a lush, greenery-filled all-day restaurant and wine bar on the ground floor of East Mall Grand Indonesia in Menteng, Central Jakarta — best reached via Bundaran HI MRT Station (Exit 1/2, connected by a covered pedestrian bridge). Expect an extensive international menu, roughly 300 wine labels by the glass or bottle, and prices on the pricier side for the city. It's genuinely popular, so aim for an early lunch or a weeknight dinner before 7pm to skip the wait.
 faq:
   - q: How do I get to Social House Grand Indonesia by public transport?
-    a: >-
-      Take the Jakarta MRT to Bundaran HI Station and use the connected
-      pedestrian bridge into Grand Indonesia; Social House is on the ground
-      floor (Lt. 1) of East Mall.
+    a: Take the Jakarta MRT to Bundaran HI Station and use the connected pedestrian bridge into Grand Indonesia; Social House is on the ground floor (Lt. 1) of East Mall.
   - q: How much does a meal cost?
-    a: >-
-      It's priced in the mid-to-upper range for Jakarta — figure roughly
-      Rp150,000–400,000 per person depending on how many wine glasses or shared
-      plates you order.
+    a: It's priced on the pricier side for Jakarta, depending on how many wine glasses or shared plates you order. Check the menu at the venue for current prices.
   - q: Do I need a reservation?
-    a: >-
-      Walk-ins work on quieter weekdays, but weekend dinners get busy given its
-      4.8-star reputation, so booking ahead (by phone or a platform like Chope)
-      is recommended for groups.
+    a: Walk-ins work on quieter weekdays, but weekend dinners get busy given its 4.8-star reputation, so booking ahead (by phone or a platform like Chope) is recommended for groups.
   - q: What is Social House known for?
-    a: >-
-      An international comfort-food menu (pizza, pasta, burgers, Asian fusion
-      plates) paired with an extensive wine list of about 300 labels, served in
-      a plant-filled, semi-outdoor-feeling dining room.
+    a: An international comfort-food menu (pizza, pasta, burgers, Asian fusion plates) paired with an extensive wine list of about 300 labels, served in a plant-filled, semi-outdoor-feeling dining room.
   - q: What's a good time to visit to avoid crowds?
-    a: >-
-      Weekday lunch around noon or an early dinner before 6:30pm tends to be
-      calmer than weekend evenings, when it doubles as a post-work wine bar.
+    a: Weekday lunch around noon or an early dinner before 6:30pm tends to be calmer than weekend evenings, when it doubles as a post-work wine bar.
 aiGenerated: true
 updatedDate: '2026-09-05'
 ---
-
 ## Why go
 
 Social House built its reputation on doing two things well at once: a serious, 300-label wine list and a comfort-food-heavy international menu that ranges from pastas and burgers to Asian-leaning small plates. The design leans into an "asri" (lush, garden-like) atmosphere (think plant walls, warm wood, and a semi-outdoor terrace feel despite being tucked inside a mall), which is part of why it reads more like a standalone lifestyle restaurant than a typical food-court stop.
@@ -119,7 +97,7 @@ From there it's a short walk to the ground floor. If arriving by car or ride-hai
 
 The kitchen's strength is Western comfort food executed for a broad, international palate. Expect items like truffle fries, wood-fired pizzas, pasta, steaks, and burgers alongside a rotating selection of Asian fusion plates. The bigger draw for many regulars is the wine program: around 300 labels spanning Old and New World producers, available by the glass, so it's a reasonable spot to try something unfamiliar without committing to a full bottle.
 
-Cocktails and a weekend brunch menu also show up frequently in visitor discussion. With a price level in the mid-to-upper range for Jakarta (expect roughly Rp150,000–400,000 per person depending on how much wine is involved), it sits above casual mall dining but below the city's fine-dining tier.
+Cocktails and a weekend brunch menu also show up frequently in visitor discussion. It sits on the pricier side for Jakarta dining, above casual mall dining but below the city's fine-dining tier.
 
 ## When to go
 
@@ -131,7 +109,7 @@ Always confirm current opening hours directly with the venue or mall directory b
 
 Because this is a consistently busy, well-reviewed restaurant rather than a hidden find, the smartest move is timing, not secrecy. Walk-ins are common but weekend dinner waits can stretch, calling ahead or booking through the restaurant's reservation line (or a platform like Chope, commonly used for Jakarta restaurant bookings) removes the guesswork for groups of four or more. Payment is almost universally by card or e-wallet (GoPay, OVO, QRIS) in Jakarta's mall restaurants; cash is accepted but rarely necessary.
 
-A service charge and government tax are typically already added to the bill, so additional tipping is optional and not expected the way it might be elsewhere. When ordering wine by the glass, ask staff for that day's pour list, since not all 300 labels are open at once. The most common visitor mistake is treating this as a quick mall bite and underestimating both the queue and the bill. It's priced and paced more like a destination restaurant than a food-court stop, so budget the time and money accordingly.
+A service charge and government tax are typically already added to the bill, so additional tipping is optional and not expected the way it might be elsewhere. When ordering wine by the glass, ask staff for that day's pour list, since not all 300 labels are open at once. The most common visitor mistake is treating this as a quick mall bite and underestimating both the queue and the bill. It's priced and paced more like a destination restaurant than a food-court stop, so budget the time accordingly.
 
 ## Nearby to pair with your visit
 

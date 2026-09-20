@@ -59,35 +59,15 @@ quickAnswer: >-
   River, and a ticket typically also covers a few nearby royal museums.
 faq:
   - q: How much does it cost to enter the Grand Palace?
-    a: >-
-      Foreign visitors pay a set entrance fee (historically around 500 THB),
-      which usually bundles entry to Wat Phra Kaew and a couple of nearby royal
-      museums. Prices and inclusions shift occasionally, so confirm the current
-      fee on the official palace website or at the ticket counter before you go.
+    a: Foreign visitors pay a set entrance fee, which is on the pricier side for a Bangkok attraction, and it usually bundles entry to Wat Phra Kaew and a couple of nearby royal museums. Prices and inclusions shift occasionally, so confirm the current fee on the official palace website or at the ticket counter before you go.
   - q: What's the nearest station to the Grand Palace?
-    a: >-
-      MRT Blue Line to Sanam Chai station, then about a 10-15 minute walk, is
-      the most direct rail option. The Chao Phraya Express Boat to Tha Chang
-      Pier (N9) followed by a short walk is the classic river route and pairs
-      well with sightseeing along the water.
+    a: MRT Blue Line to Sanam Chai station, then about a 10-15 minute walk, is the most direct rail option. The Chao Phraya Express Boat to Tha Chang Pier (N9) followed by a short walk is the classic river route and pairs well with sightseeing along the water.
   - q: How long should I plan to spend there?
-    a: >-
-      Most visitors need 2-3 hours to see Wat Phra Kaew, the throne halls, and
-      the surrounding galleries at a comfortable pace. Add extra time if you're
-      combining it with Wat Pho and Wat Arun, which are within easy walking or
-      ferry distance.
+    a: Most visitors need 2-3 hours to see Wat Phra Kaew, the throne halls, and the surrounding galleries at a comfortable pace. Add extra time if you're combining it with Wat Pho and Wat Arun, which are within easy walking or ferry distance.
   - q: What should I wear?
-    a: >-
-      Cover your shoulders and knees and wear closed or secure footwear;
-      sleeveless tops, shorts, and flip-flops can get you turned away or asked
-      to rent cover-up clothing at the gate. Bringing a light scarf or sarong of
-      your own saves time versus queuing for a loaner.
+    a: Cover your shoulders and knees and wear closed or secure footwear; sleeveless tops, shorts, and flip-flops can get you turned away or asked to rent cover-up clothing at the gate. Bringing a light scarf or sarong of your own saves time versus queuing for a loaner.
   - q: Is the Grand Palace ever closed to visitors?
-    a: >-
-      Yes — since it's an active royal site, it occasionally closes for state
-      functions or ceremonies without much advance public notice. If your trip
-      dates are fixed, check the day before, and be skeptical of anyone outside
-      the gates claiming it's closed as a pretext to redirect you elsewhere.
+    a: Yes — since it's an active royal site, it occasionally closes for state functions or ceremonies without much advance public notice. If your trip dates are fixed, check the day before, and be skeptical of anyone outside the gates claiming it's closed as a pretext to redirect you elsewhere.
 aiGenerated: true
 draft: false
 updatedDate: '2026-08-28'

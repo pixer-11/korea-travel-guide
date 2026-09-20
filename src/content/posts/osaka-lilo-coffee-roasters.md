@@ -54,12 +54,12 @@ place:
 tags:
   - osaka
   - trendy cafe
-quickAnswer: LiLo Coffee Roasters is a small, highly-rated specialty coffee bar in Nishishinsaibashi, Chuo Ward — about a 5–8 minute walk from Shinsaibashi or Yotsubashi stations. Go for a single-origin pour-over or their signature latte, expect to spend around ¥600–900, and plan on 20–40 minutes given it's a compact, standing/counter-friendly space with a devoted local following (4.8 rating from 2,400+ reviews).
+quickAnswer: LiLo Coffee Roasters is a small, highly-rated specialty coffee bar in Nishishinsaibashi, Chuo Ward — about a 5–8 minute walk from Shinsaibashi or Yotsubashi stations. Go for a single-origin pour-over or their signature latte, expect prices in the moderate range for specialty coffee in Japan (check the menu on-site), and plan on 20–40 minutes given it's a compact, standing/counter-friendly space with a devoted local following (4.8 rating from 2,400+ reviews).
 faq:
   - q: How do I get to LiLo Coffee Roasters by train?
     a: Walk from Shinsaibashi Station (Midosuji Line, about 7–8 minutes) or Yotsubashi Station (Yotsubashi Line, about 5–7 minutes). Both are in central Osaka's Minami district.
   - q: How much does a coffee cost there?
-    a: Expect roughly ¥500–900 for most drinks based on its moderate price level, though the menu can shift with seasonal bean availability — worth confirming prices on-site.
+    a: Prices sit in the moderate range for specialty coffee in Japan, though the menu can shift with seasonal bean availability — worth confirming prices on-site.
   - q: How long should I plan to spend at LiLo?
     a: The space is small and cosy, so 20–40 minutes is typical for a sit-down coffee; grab-and-go visits can be quicker.
   - q: What's the best time to visit to avoid crowds?
@@ -82,7 +82,7 @@ The address is 1-chōme-10-28, Nishishinsaibashi, Chuo Ward, Osaka, on the groun
 
 LiLo's core identity is the in-house roasting, beans are roasted on-site or nearby and rotate seasonally, so ask staff what's freshest that week rather than defaulting to a house blend. The espresso-based drinks (latte, cappuccino) are well-balanced and popular with regulars, but the pour-over single origins are where the roasting quality really shows, especially if you're curious about Ethiopian or Central American lots when they're in stock.
 
-Price level sits in the moderate range for specialty coffee in Japan. Expect somewhere around ¥500–900 for most drinks, though exact prices should be confirmed on-site since menus shift with bean availability. The space itself is small and cosy rather than sprawling, so this isn't the spot for a long laptop session during peak hours; mid-morning on a weekday tends to be calmer than weekend afternoons, when local coffee enthusiasts and visitors following review recommendations both show up.
+Price level sits in the moderate range for specialty coffee in Japan. Exact prices should be confirmed on-site since menus shift with bean availability. The space itself is small and cosy rather than sprawling, so this isn't the spot for a long laptop session during peak hours; mid-morning on a weekday tends to be calmer than weekend afternoons, when local coffee enthusiasts and visitors following review recommendations both show up.
 
 ## When to go
 

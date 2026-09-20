@@ -1,10 +1,6 @@
 ---
 title: 'Cheaper & Better Street Food: Where to Eat in Bangkok'
-description: >-
-  Head to Soi Silom 20 (Silom Soi 20), a narrow lunchtime alley off Silom Road
-  in Bang Rak, for a cluster of stalls including the highly rated "Cheaper &
-  Better Street Food" spot — expect plastic stools, one-plate meals under 100
-  baht, and a mostly local office-worker crowd.
+description: Head to Soi Silom 20 (Silom Soi 20), a narrow lunchtime alley off Silom Road in Bang Rak, for a cluster of stalls including the highly rated "Cheaper & Better Street Food" spot — expect plastic stools, budget-friendly one-plate meals, and a mostly local office-worker crowd.
 country: Thailand
 region: Bangkok
 category: restaurant
@@ -73,38 +69,18 @@ place:
 tags:
   - bangkok
   - street food
-quickAnswer: >-
-  Head to Soi Silom 20 (Silom Soi 20), a narrow lunchtime alley off Silom Road
-  in Bang Rak, for a cluster of stalls including the highly rated "Cheaper &
-  Better Street Food" spot — expect plastic stools, one-plate meals under 100
-  baht, and a mostly local office-worker crowd. Go between 12pm and 1:30pm on a
-  weekday, when the soi is at its busiest and freshest, and bring small bills.
-  Nearest access is Sala Daeng BTS or Silom MRT, about a 5-8 minute walk.
+quickAnswer: Head to Soi Silom 20 (Silom Soi 20), a narrow lunchtime alley off Silom Road in Bang Rak, for a cluster of stalls including the highly rated "Cheaper & Better Street Food" spot — expect plastic stools, budget-friendly one-plate meals, and a mostly local office-worker crowd. Go between 12pm and 1:30pm on a weekday, when the soi is at its busiest and freshest, and bring small bills. Nearest access is Sala Daeng BTS or Silom MRT, about a 5-8 minute walk.
 faq:
   - q: How do I get to Soi Silom 20?
-    a: >-
-      Take the BTS to Sala Daeng station or the MRT to Silom station (they
-      connect via a walkway), then walk south on Silom Road about 5-8 minutes to
-      the soi entrance.
+    a: Take the BTS to Sala Daeng station or the MRT to Silom station (they connect via a walkway), then walk south on Silom Road about 5-8 minutes to the soi entrance.
   - q: How much does a meal cost?
-    a: >-
-      Expect roughly 40-80 baht per dish at most stalls, consistent with the
-      area's budget, no-frills street food scene — confirm current prices
-      on-site since they shift with ingredient costs.
+    a: Expect budget-friendly, no-frills street food pricing at most stalls — confirm current prices on-site since they shift with ingredient costs.
   - q: What's the best time to visit?
-    a: >-
-      Weekday lunch, roughly 12:00pm to 1:30pm, when nearby offices break and
-      stalls are at peak output; the crowd thins by mid-afternoon, but stalls
-      stay open into the evening until around 11pm.
+    a: Weekday lunch, roughly 12:00pm to 1:30pm, when nearby offices break and stalls are at peak output; the crowd thins by mid-afternoon, but stalls stay open into the evening until around 11pm.
   - q: How long should I plan to spend there?
-    a: >-
-      30-45 minutes is enough for a meal; it's a fast, functional lunch stop
-      rather than a leisurely sit-down experience.
+    a: 30-45 minutes is enough for a meal; it's a fast, functional lunch stop rather than a leisurely sit-down experience.
   - q: What else is nearby?
-    a: >-
-      Patpong night market is a short walk north, and Lumphini Park is about
-      10-15 minutes on foot to the east, making this an easy add-on to a
-      Silom-area itinerary.
+    a: Patpong night market is a short walk north, and Lumphini Park is about 10-15 minutes on foot to the east, making this an easy add-on to a Silom-area itinerary.
 aiGenerated: true
 updatedDate: '2026-08-28'
 ---
@@ -124,7 +100,7 @@ Taxis can drop you at the mouth of the soi, but Silom Road traffic is often slow
 
 This is lunch territory as much as it is an all-day stop, though the office lunch rush is still when things are busiest. Expect the classic Bangkok street-stall repertoire: stir-fried dishes over rice (pad kaprao with minced pork or chicken, topped with a fried egg), noodle soups, som tam (green papaya salad), and grilled skewers. Portions are single-serving, and the format is fast, order, sit on a plastic stool or narrow counter, eat, go.
 
-Given the name and price level, expect single dishes to fall in the 40-80 baht range, though street prices shift with ingredient costs, so treat any figure as a rough guide rather than a promise.
+Given the name and price level, this is budget-friendly street food, though prices shift with ingredient costs, so check what's posted at the stall rather than assuming.
 
 If you have room after, Silom and the parallel Convent Road area have more stalls and small cafés, so this soi works well as one stop in a short crawl rather than a single destination.
 

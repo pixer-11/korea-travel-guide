@@ -57,7 +57,7 @@ place:
 tags:
   - bali
   - trendy cafe
-quickAnswer: Livingstone is a large, plant-filled café-restaurant on Jl. Petitenget in Kerobokan, one of the Seminyak-Canggu corridor's most consistently packed all-day spots (4.8 stars, 14,000+ reviews). Go on a weekday morning to actually get a table without a wait, expect mid-range prices (roughly 100,000–180,000 IDR for mains, cocktails a bit more), and book ahead for dinner or weekends.
+quickAnswer: Livingstone is a large, plant-filled café-restaurant on Jl. Petitenget in Kerobokan, one of the Seminyak-Canggu corridor's most consistently packed all-day spots (4.8 stars, 14,000+ reviews). Go on a weekday morning to actually get a table without a wait, expect mid-range prices, and book ahead for dinner or weekends.
 faq:
   - q: Do I need a reservation at Livingstone?
     a: It's not always required for small groups at off-peak hours, but given its popularity (4.8 rating, 14,000+ reviews), booking ahead is strongly recommended for dinner, weekends, and larger parties.
