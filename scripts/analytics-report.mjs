@@ -4,6 +4,7 @@
 // comes back empty is reported, not fatal; a send Telegram refused IS fatal,
 // or the job goes green on a report nobody received.
 import { exitIfSlotServed } from './lib/slot-served.mjs';
+import { botSurge } from './lib/bot-surge.mjs';
 import { sendTelegram } from './lib/telegram.mjs';
 
 // The report went out twice on 2026-08-29 (watchdog rescue 12:22, GitHub's
@@ -327,8 +328,17 @@ async function main() {
 
   // Headline volume: Cloudflare when available (blocker-proof), else Plausible.
   if (cfOk) {
-    L.push(`👥 방문 ${cf.visits.toLocaleString()}명 · 페이지뷰 ${cf.pageviews.toLocaleString()}`);
+    // A bot wave reads as a record day unless the line says otherwise. On
+    // 2026-09-18/19 this headline said 7,498 and 6,125 while the behaviour line
+    // underneath stayed at 41 and 34 — the owner had to ask whether any of it
+    // was real. When the two disagree by this much AND every session views one
+    // page, the headline is labelled where it is read (lib/bot-surge.mjs).
+    const surge = plOk ? botSurge(cf, pl) : { suspect: false };
+    L.push(`👥 방문 ${cf.visits.toLocaleString()}명 · 페이지뷰 ${cf.pageviews.toLocaleString()}${surge.suspect ? ' ⚠️ 봇 의심' : ''}`);
     if (plOk) L.push(`   └ 행동 추적 가능분: ${pl.visitors.toLocaleString()}명 (광고차단 사용자는 제외됨)`);
+    if (surge.suspect) {
+      L.push(`   └ ⚠️ 위 방문 수는 봇으로 부풀려졌을 가능성이 높습니다 (${surge.why}) — 실제 규모는 아래 "행동 추적 가능분"으로 보세요`);
+    }
   } else {
     L.push(`👥 방문 ${pl.visitors.toLocaleString()}명 · 페이지뷰 ${pl.pageviews.toLocaleString()}`);
     L.push(`   └ ⚠️ 전체 집계(Cloudflare) 실패 — 실제 방문은 이보다 많습니다`);
