@@ -20078,5 +20078,89 @@
     "verdict": "MATCH",
     "reason": "width upgrade: Garden pond with giant water lilies fits conservatory grounds",
     "at": "2026-09-19T21:42:41.548Z"
+  },
+  "barcelona-csio-barcelona\u0001https://upload.wikimedia.org/wikipedia/commons/1/11/CSIO_Barcelona_2013_-_01.JPG": {
+    "slug": "barcelona-csio-barcelona",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Shows CSIO Barcelona event entrance signage clearly",
+    "at": "2026-09-20T06:35:56.593Z"
+  },
+  "dubai-najwa-karam-live-in-dubai\u0001https://upload.wikimedia.org/wikipedia/commons/1/12/Najwa_Karam%2C_New_Year%27s_Eve_%281%29.jpg": {
+    "slug": "dubai-najwa-karam-live-in-dubai",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Performer photo, valid for concert event hero",
+    "at": "2026-09-20T06:35:59.165Z"
+  },
+  "hong-kong-bigbang-xx-cosmos-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/5/53/BIGBANG_Concert_0.TO.10_in_Seoul_-_10.jpg": {
+    "slug": "hong-kong-bigbang-xx-cosmos-world-tour",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Concert stage with lights and crowd, matches event type",
+    "at": "2026-09-20T06:36:01.476Z"
+  },
+  "hong-kong-the-weeknd-after-hours-til-dawn-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/The_Weeknd_Universal_Studios_Hollywood.jpg/3840px-The_Weeknd_Universal_Studios_Hollywood.jpg": {
+    "slug": "hong-kong-the-weeknd-after-hours-til-dawn-tour",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Event-branded entrance signage for The Weeknd bar/tour",
+    "at": "2026-09-20T06:36:04.221Z"
+  },
+  "incheon-my-chemical-romance-seoul-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/South_Korea%2C_Incheon%2C_Songdo_%2801%29%2C_street_scene.jpg/3840px-South_Korea%2C_Incheon%2C_Songdo_%2801%29%2C_street_scene.jpg": {
+    "slug": "incheon-my-chemical-romance-seoul-2026",
+    "verdict": "CITY-TIER",
+    "reason": "third tier (owner rule 2026-09-11): 파일명이 도시(Incheon)를 가리킨다",
+    "at": "2026-09-20T06:36:06.862Z"
+  },
+  "kyoto-jidai-matsuri\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Observation_deck_at_Kyoto_Tower_with_staff_cleaning_the_windows%2C_Japan.jpg/3840px-Observation_deck_at_Kyoto_Tower_with_staff_cleaning_the_windows%2C_Japan.jpg": {
+    "slug": "kyoto-jidai-matsuri",
+    "verdict": "CITY-TIER",
+    "reason": "third tier (owner rule 2026-09-11): 파일명이 도시(Kyoto)를 가리킨다",
+    "at": "2026-09-20T06:36:10.647Z"
+  },
+  "las-vegas-metallica-life-burns-faster-sphere-las-vegas-residency\u0001https://upload.wikimedia.org/wikipedia/commons/8/81/Metallica_March_2024.jpg": {
+    "slug": "las-vegas-metallica-life-burns-faster-sphere-las-vegas-residency",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Photo of Metallica band members, valid performer hero image",
+    "at": "2026-09-20T06:36:13.336Z"
+  },
+  "madrid-festival-de-otono-madrid-madrid-autumn-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Vista_de_Madrid_desde_la_catedral_de_la_Almudena%2C_Espa%C3%B1a%2C_2014-12-27%2C_DD_23.JPG/3840px-Vista_de_Madrid_desde_la_catedral_de_la_Almudena%2C_Espa%C3%B1a%2C_2014-12-27%2C_DD_23.JPG": {
+    "slug": "madrid-festival-de-otono-madrid-madrid-autumn-festival",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Madrid cityscape rooftop view, plausible festival hero image",
+    "at": "2026-09-20T06:36:16.637Z"
+  },
+  "manila-5sos-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/5sos-NZ4A4323.jpg/3840px-5sos-NZ4A4323.jpg": {
+    "slug": "manila-5sos-everyone-s-a-star-world-tour",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Photo of band 5SOS, correct performer hero image",
+    "at": "2026-09-20T06:36:19.475Z"
+  },
+  "new-york-tcs-new-york-city-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/7/73/New_York_City_Marathon_2014_%2815082977714%29.jpg": {
+    "slug": "new-york-tcs-new-york-city-marathon",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Marathon runners on bridge, matches event type",
+    "at": "2026-09-20T06:36:23.777Z"
+  },
+  "paris-fete-des-vendanges-de-montmartre-montmartre-grape-harvest-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/F%C3%AAte_des_vendanges_de_Montmartre_2017.jpg/3840px-F%C3%AAte_des_vendanges_de_Montmartre_2017.jpg": {
+    "slug": "paris-fete-des-vendanges-de-montmartre-montmartre-grape-harvest-festival",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Montmartre street market crowd, matches festival setting",
+    "at": "2026-09-20T06:36:26.666Z"
+  },
+  "takayama-takayama-autumn-festival-hachiman-matsuri\u0001https://upload.wikimedia.org/wikipedia/commons/4/4d/20131009_09_Takayama_-_Autumn_festival_%2810477356645%29.jpg": {
+    "slug": "takayama-takayama-autumn-festival-hachiman-matsuri",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Shows festival performers/lion costumes at shrine, matches event type",
+    "at": "2026-09-20T06:36:30.744Z"
+  },
+  "tokyo-ezra-collective-tokyo\u0001https://upload.wikimedia.org/wikipedia/commons/b/b7/Ezra_Collective_18.jpg": {
+    "slug": "tokyo-ezra-collective-tokyo",
+    "verdict": "MATCH",
+    "reason": "event-mode back-audit: Live drummer performing, consistent with concert event",
+    "at": "2026-09-20T06:36:33.435Z"
+  },
+  "valencia-medio-maraton-valencia-trinidad-alfonso-zurich-valencia-half-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/El_Hemisf%C3%A9rico%2C_Ciudad_de_las_Artes_y_las_Ciencias%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_71.JPG/3840px-El_Hemisf%C3%A9rico%2C_Ciudad_de_las_Artes_y_las_Ciencias%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_71.JPG": {
+    "slug": "valencia-medio-maraton-valencia-trinidad-alfonso-zurich-valencia-half-marathon",
+    "verdict": "CITY-TIER",
+    "reason": "third tier (owner rule 2026-09-11): 파일명이 도시(Valencia)를 가리킨다",
+    "at": "2026-09-20T06:36:36.825Z"
   }
 }
