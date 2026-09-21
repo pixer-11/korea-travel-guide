@@ -6,22 +6,6 @@
       "seen": 1
     }
   },
-  "audit-translations": {
-    "TRUNCATED-DESCRIPTION posts/es/bandung-sudirman-street-day-and-night-market.md": {
-      "since": "2026-09-21",
-      "last": "2026-09-21",
-      "seen": 1
-    },
-    "TRUNCATED-DESCRIPTION posts/es/hiroshima-nagataya.md": {
-      "since": "2026-09-21",
-      "last": "2026-09-21",
-      "seen": 1
-    },
-    "TRUNCATED-DESCRIPTION posts/ko/hiroshima-nagataya.md": {
-      "since": "2026-09-21",
-      "last": "2026-09-21",
-      "seen": 1
-    }
-  },
+  "audit-translations": {},
   "audit-hours-claims": {}
 }
