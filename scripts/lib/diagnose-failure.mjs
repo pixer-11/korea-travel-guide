@@ -40,6 +40,17 @@ const SIGNATURES = [
     selfHeals: true,
   },
   {
+    // 2026-09-21: 이 관문이 태어난 날 첫 실행에서 실패했는데, 알림은 "대부분
+    // 일시적 오류라 다음 실행에서 저절로 회복됩니다"라고 말했다. 정반대다 —
+    // 개인정보는 그 줄을 빼기 전까지 영원히 실패하고, 그사이 공개 저장소에
+    // 그대로 남아 있다. 기다리라는 조언이 가장 해로운 종류의 실패다.
+    id: 'pii-in-repo',
+    re: /PII_AUDIT_FAIL count=[1-9]/,
+    cause: (m) => `공개 저장소에 개인 식별 정보가 들어왔습니다(${String(m[0]).split('=')[1]}곳). 저절로 풀리지 않으므로 해당 줄을 빼야 합니다.` +
+      ' 위치는 실행 로그에 파일:줄로 있고, 값 자체는 가려져 있습니다.',
+    selfHeals: false,
+  },
+  {
     id: 'git-push-denied',
     re: /Permission to [^\s]+ denied|remote: Write access to repository not granted|fatal: Authentication failed/,
     cause: () => '깃허브 푸시 권한이 거부됐습니다. 토큰 만료·권한 축소일 수 있어 사람이 확인해야 합니다.',

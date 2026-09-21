@@ -54,6 +54,8 @@ console.log(`\n🕵️ 개인 식별 정보 감사 — 추적 파일 ${scanned}�
 if (hits.length) {
   console.log(`❌ ${hits.length}곳:\n`);
   for (const h of hits) console.log(`  • ${h.file}:${h.line} [${h.kind}]\n      ${h.excerpt}`);
+  // 실패 알림이 이 줄을 보고 "저절로 난는 고장"과 구별한다(lib/diagnose-failure.mjs).
+  console.log(`PII_AUDIT_FAIL count=${hits.length}`);
   console.log('\n이 저장소는 공개다. 커밋하면 파일에서 지워도 이력에 남는다 — 커밋 전에 빼라.');
   console.log('필명 정책: 바이라인·문서·초안 모두 "Pixer" 로 쓴다. 실명이 꼭 필요한 곳(계정 복구 등)은 저장소 밖에 둔다.');
   requireExamined(scanned, '추적 파일', 'git ls-files 가 비어 있나?');

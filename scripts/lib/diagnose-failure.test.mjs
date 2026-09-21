@@ -94,3 +94,18 @@ test('lastErrorLine takes the LAST error, not the first', () => {
   const log = '##[error]first thing\nnoise\n##[error]final thing';
   assert.equal(lastErrorLine(log), 'final thing');
 });
+
+// 개인정보 관문은 "기다리면 낫는다"가 가장 해로운 종류의 실패다 (2026-09-21).
+// 관문이 태어난 날 첫 실행에서 걸렸는데, 알림은 "대부분 일시적 오류라 다음
+// 실행에서 저절로 회복됩니다"라고 말했다. 그사이 개인정보는 공개 저장소에 남는다.
+test('개인정보 적발은 자동 회복이 아니라 사람이 빼야 하는 것으로 알린다', () => {
+  const body = alertText('Personal-info guard', 'https://x/1', 'PII_AUDIT_FAIL count=2\nProcess completed with exit code 1.');
+  assert.match(body, /개인 식별 정보가 들어왔습니다\(2곳\)/);
+  assert.match(body, /사람이 확인해야/);
+  assert.doesNotMatch(body, /저절로 회복/, '기다리라고 말하면 안 된다');
+});
+
+test('적발 0건이면 이 서명에 걸리지 않는다 — 다른 이유로 실패한 것이다', () => {
+  const d = diagnose('PII_AUDIT_FAIL count=0\nsomething else exploded');
+  assert.notEqual(d.id, 'pii-in-repo');
+});

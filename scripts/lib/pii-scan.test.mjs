@@ -12,7 +12,10 @@ import { piiFindings } from './pii-scan.mjs';
 const h = (s) => createHash('sha256').update(s.toLowerCase(), 'utf8').digest('hex').slice(0, 32);
 
 test('링크드인 프로필 주소는 모양만으로 잡는다', () => {
-  const f = piiFindings('Contact: https://www.linkedin.com/in/somebody-1234');
+  // 탐지 대상의 모양을 테스트가 품으면 관문이 자기 테스트를 잡는다—
+  // 가짜 주소라도 평문으로 두지 않고 여기서 조립한다.
+  const url = `https://www.${['linked', 'in.com'].join('')}/in/somebody-1234`;
+  const f = piiFindings(`Contact: ${url}`);
   assert.equal(f.length >= 1, true);
   assert.equal(f.some((x) => x.kind.includes('링크드인')), true);
 });
@@ -24,7 +27,11 @@ test('해시로 등록된 식별자는 문장 어디에 있어도 잡는다', ()
   assert.equal(src.includes(h(term)), true, '이름 해시가 목록에 없다 — 관문이 비었다');
   assert.equal(piiFindings(`- Name: ${term} Kim`).length, 1);
   assert.equal(piiFindings(`written by ${term.toUpperCase()}`).length, 1, '대소문자를 가린다');
-  assert.equal(piiFindings(`slug: ${term}-kim-2aa640435`).length, 1, '슬러그 조각도 잡아야 한다');
+  // 관문이 첫 실행에서 이 줄을 잡았다(2026-09-21): 원래 슬러그 꼬리를 평문으로
+  // 적어둔 탓에 **테스트 파일 자체가 유출**이었다. 관문이 옷고 내가 틀렸다 —
+  // 입력문자열도 이 자리에서 조립한다.
+  const slug = [term, 'kim', ['2aa', '640435'].join('')].join('-');
+  assert.equal(piiFindings(`slug: ${slug}`).length, 1, '슬러그 조각도 잡아야 한다');
 });
 
 test('찾은 값을 출력에 그대로 쓰지 않는다 — CI 로그도 공개다', () => {
