@@ -39,6 +39,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.57311920000001
   lng: 126.99034250000001
+draft: true
 ---
 
 ## Why everyone's talking about it
