@@ -30,6 +30,12 @@ on:
         description: 'Optional: stop each country at this many guides (blank = no cap)'
         required: false
         default: ''
+      city:
+        # 5일 일정표 문턱은 도시당 적격 글 24개인데 2026-09-21 기준 넘은 도시가 0곳이다
+        # (방콕 20·서울 20). 국가로 겨냥하면 부산·전주로 흩어져 깊이가 안 생긴다.
+        description: 'Optional: fill ONE city only, e.g. Seoul (uses the region field in targets.json)'
+        required: false
+        default: ''
   # backfill.yml calls THIS workflow instead of keeping its own copy of the
   # pipeline. It used to be a parallel copy that generated and committed posts
   # without any of the steps below it — no content validation, no itinerary
@@ -49,6 +55,10 @@ on:
         type: string
       target:
         description: 'Per-country guide cap (TARGET_PER_COUNTRY)'
+        required: false
+        type: string
+      city:
+        description: 'Fill ONE city only (CITY)'
         required: false
         type: string
       label:
@@ -162,6 +172,7 @@ jobs:
           # the whole day's quota, so the bulk run got 429 on its first query.
           PLACES_JOB: ${{ inputs.label == 'Backfill' && 'fill' || 'publish' }}
           COUNTRY: ${{ inputs.country }}
+          CITY: ${{ inputs.city }}
           # Blank on the daily run (no cap); the bulk caller passes 58 so each
           # country stops at the target instead of the biggest one running away.
           TARGET_PER_COUNTRY: ${{ inputs.target }}
@@ -576,6 +587,7 @@ jobs:
           BESTTIME_API_KEY: ${{ secrets.BESTTIME_API_KEY }}
           POSTS_PER_RUN: ${{ steps.gate.outputs.held }}
           COUNTRY: ${{ inputs.country }}
+          CITY: ${{ inputs.city }}
           TARGET_PER_COUNTRY: ${{ inputs.target }}
           MIN_RATING: '4.0'
           MIN_REVIEWS: '50'

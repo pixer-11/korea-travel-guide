@@ -321,7 +321,9 @@ async function main() {
   // Measured per-topic yield (data/topic-yield.json): orders the queue so the
   // day's searches go to the kinds of target that actually produce a post.
   const yieldLedger = await loadYield();
-  const queue = buildRotatedQueue(targets, done, activeCountries, seasonal, { capPerCountry, countryCounts, regionCatCounts, regionQualifyingCounts, itineraryCityStates, yieldLedger });
+  const onlyCity = (process.env.CITY || '').trim(); // optional: fill ONE city (targets carry `region`)
+  const queue = buildRotatedQueue(targets, done, activeCountries, seasonal, { capPerCountry, onlyRegion: onlyCity, countryCounts, regionCatCounts, regionQualifyingCounts, itineraryCityStates, yieldLedger });
+  if (onlyCity && !queue.length) console.log(`⚠️  CITY "${onlyCity}" matched no queued target — check data/targets.json regions, or that they are not all already published.`);
   if (USE_PLACES && !DUMMY) console.log(describeYield(yieldLedger));
 
   const mode = DUMMY ? 'DUMMY' : USE_PLACES ? 'LIVE + Places' : 'LIVE (no Places)';
@@ -517,6 +519,12 @@ async function main() {
 export function buildRotatedQueue(targets, done, countries, seasonal = [], opts = {}) {
   const {
     capPerCountry = Infinity,
+    // 도시 한 곳만 채운다. 5일 일정표 문턱(도시당 적격 글 24개)은 넓이가 아니라
+    // 깊이를 요구하는데, 이 생성기는 국가 단위로만 겨냥할 수 있었다 — 서울 4편을
+    // 얻으려고 한국을 채우면 부산·전주·강릉으로 흩어진다. 2026-07-28 에 "선행 과제"로
+    // 적히고 8주간 비어 있던 자리다. 큐가 완성된 뒤 거르므로 손으로 고른 타깃이든
+    // 자동 생성분이든 똑같이 걸린다.
+    onlyRegion = '',
     countryCounts = new Map(),
     regionCatCounts = new Map(),
     regionQualifyingCounts = new Map(),
@@ -696,7 +704,13 @@ export function buildRotatedQueue(targets, done, countries, seasonal = [], opts 
   // restaurant/cafe, the 4 %-yield topics — so without this the day's searches
   // went to them first and the 55 % landmarks waited behind the budget.
   const yieldOrdered = yieldLedger ? orderByYield(gateBoosted, yieldLedger) : gateBoosted;
-  const queueOut = [...seasonalQueue, ...yieldOrdered];
+  let queueOut = [...seasonalQueue, ...yieldOrdered];
+  if (onlyRegion) {
+    const want = String(onlyRegion).trim().toLowerCase();
+    const before = queueOut.length;
+    queueOut = queueOut.filter((t) => String(t.region || '').trim().toLowerCase() === want);
+    console.log(`CITY="${onlyRegion}" → queue ${before} → ${queueOut.length}`);
+  }
   if (process.env.QUEUE_DEBUG === '1') {
     console.log('[QUEUE_DEBUG] first 20:');
     for (const t of queueOut.slice(0, Number(process.env.QUEUE_DEBUG_N ?? 20))) console.log(`  ${t.country ?? 'South Korea'} / ${t.region} / ${t.category} / ${t.topic ?? "-"}`);

@@ -125,3 +125,55 @@ test('hasBodyDisclosure still recognises the legacy line', () => {
   // below goes quietly green on a corpus that still has 922 of them.
   assert.equal(hasBodyDisclosure('> **How this guide was made:** x [editorial policy](/about).\n'), true);
 });
+
+// ── 도시 지정 (2026-09-21) ──────────────────────────────────
+// 5일 일정표 문턱은 도시당 적격 글 24개인데, 오늘 그걸 넘은 도시가 0곳이다
+// (방콕 20 · 서울 20). 글은 매달 400편 가까이 느는데 최근 30일 신규 397편이
+// 192개 도시로 흩어졌고 서울·방콕에 간 건 5편뿐이었다 — 넓이는 늘고 깊이는
+// 제자리다. 국가 단위로만 겨냥할 수 있었던 게 원인이라, 도시 필터를 넣었다.
+test('CITY 를 주면 그 도시의 타깃만 남는다', () => {
+  const targets = [
+    { region: 'Seoul', query: 'a', category: 'attraction', country: 'South Korea' },
+    { region: 'Busan', query: 'b', category: 'attraction', country: 'South Korea' },
+    { region: 'Seoul', query: 'c', category: 'restaurant', country: 'South Korea' },
+  ];
+  const countries = [{ name: 'South Korea', slug: 'south-korea', active: true, regions: ['Seoul', 'Busan'] }];
+  const q = buildRotatedQueue(targets, new Set(), countries, [], { onlyRegion: 'Seoul' });
+  assert.equal(q.length > 0, true, '서울 타깃이 하나도 안 남았다');
+  assert.equal(q.every((t) => t.region === 'Seoul'), true, '다른 도시가 섞였다');
+});
+
+test('대소문자와 앞뒤 공백은 무시한다', () => {
+  const targets = [{ region: 'Seoul', query: 'a', category: 'attraction', country: 'South Korea' }];
+  const countries = [{ name: 'South Korea', slug: 'south-korea', active: true, regions: ['Seoul'] }];
+  assert.equal(buildRotatedQueue(targets, new Set(), countries, [], { onlyRegion: '  seoul ' }).length > 0, true);
+});
+
+test('CITY 가 없으면 종전과 똑같이 전부 돈다 — 기본 동작을 바꾸지 않는다', () => {
+  const targets = [
+    { region: 'Seoul', query: 'a', category: 'attraction', country: 'South Korea' },
+    { region: 'Busan', query: 'b', category: 'attraction', country: 'South Korea' },
+  ];
+  const countries = [{ name: 'South Korea', slug: 'south-korea', active: true, regions: ['Seoul', 'Busan'] }];
+  const all = buildRotatedQueue(targets, new Set(), countries, []);
+  assert.equal(new Set(all.map((t) => t.region)).size, 2, '도시 지정이 없는데 한 도시로 좁혀졌다');
+});
+
+test('없는 도시를 주면 빈 큐 — 조용히 전부 돌지 않는다', () => {
+  const targets = [{ region: 'Seoul', query: 'a', category: 'attraction', country: 'South Korea' }];
+  const countries = [{ name: 'South Korea', slug: 'south-korea', active: true, regions: ['Seoul'] }];
+  assert.equal(buildRotatedQueue(targets, new Set(), countries, [], { onlyRegion: 'Atlantis' }).length, 0);
+});
+
+// 배선까지 고정한다. 기능만 있고 워크플로가 안 넘기면 손으로 못 쓴다 —
+// 08주간 "선행 과제"로만 적혀 있던 게 정확히 이 모양이었다.
+test('publish 워크플로가 city 입력을 받아 CITY 로 넘긴다', async () => {
+  const { readFileSync } = await import('node:fs');
+  const yaml = (await import('js-yaml')).default;
+  const raw = readFileSync('.github/workflows/publish.yml', 'utf8');
+  const doc = yaml.load(raw);
+  assert.ok(doc.on.workflow_dispatch.inputs.city, 'dispatch 에 city 입력이 없다');
+  assert.ok(doc.on.workflow_call.inputs.city, 'call 에 city 입력이 없다');
+  const passes = raw.match(/CITY: \$\{\{ inputs\.city \}\}/g) || [];
+  assert.equal(passes.length, 2, `CITY 를 넘기는 자리가 ${passes.length}곳 — COUNTRY 와 같은 2곳이어야 한다`);
+});
