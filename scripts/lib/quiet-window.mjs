@@ -1,4 +1,4 @@
-import { quietDayGroups } from '../../src/lib/hours.mjs';
+import { quietDayGroups, dayGroupKind } from '../../src/lib/busyness.mjs';
 // The quiet-hours fact the itinerary writer is handed for each stop.
 //
 // It is a CLOSED-WORLD fact: the model is told to use nothing else, so whatever
@@ -53,18 +53,16 @@ export function quietWindowSummary(busyness) {
 // Nothing true is dropped; a fact that was hiding behind the word "weekdays"
 // gets said out loud instead.
 
-const DAY_NAMES = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
 const listOf = (xs) => (xs.length > 1 ? `${xs.slice(0, -1).join(', ')} and ${xs.at(-1)}` : xs[0]);
 
-/** What to call a set of days: null when it is the whole week and needs no name. */
+/** The English name for a set of days: null when it is the whole week. */
 export function dayGroupLabel(days) {
-  const ds = DAY_NAMES.filter((d) => days.includes(d));
-  if (ds.length === 7) return null;
-  if (ds.length === 5 && DAY_NAMES.slice(0, 5).every((d) => ds.includes(d))) return 'weekdays';
-  if (ds.length === 2 && DAY_NAMES.slice(5).every((d) => ds.includes(d))) return 'weekends';
-  // Naming the one exception beats reciting six days.
-  if (ds.length === 6) return `every day but ${DAY_NAMES.find((d) => !ds.includes(d))}s`;
-  return listOf(ds.map((d) => `${d}s`));
+  const k = dayGroupKind(days);
+  if (k.kind === 'daily') return null;
+  if (k.kind === 'weekdays') return 'weekdays';
+  if (k.kind === 'weekends') return 'weekends';
+  if (k.kind === 'except') return `every day but ${k.day}s`;
+  return listOf(k.days.map((d) => `${d}s`));
 }
 
 /**
@@ -80,7 +78,7 @@ export function quietWindowSummaryWithinHours(busyness, openingHours) {
   const labels = [];
   for (const g of groups) {
     if (parts.length >= 2) break;
-    const runs = hourRuns24(g.hours);
+    const runs = hourRuns24(g.quiet);
     if (!runs) continue;
     const label = dayGroupLabel(g.days);
     // A second group is only worth adding when neither name carries a comma of

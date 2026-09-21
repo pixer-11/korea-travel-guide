@@ -20,7 +20,7 @@ import { isEventPast } from '../lib/eventStatus';
 import { eventSchemaName } from '../lib/eventName';
 import { eventLocation } from '../lib/eventLocation.mjs';
 import { isRecurringEvent as resolveRecurring } from '../lib/eventRecurrence.mjs';
-import { resolveBusyness } from '../lib/busyness.mjs';
+import { resolveBusyness, busynessDayGroups, quietDayGroups, busyDayGroups, perDayBusyness, dayGroupText, DAY_NAMES } from '../lib/busyness.mjs';
 import { hotellookUrl } from '../lib/hotellook.mjs';
 import { slugifyRegion } from '../lib/slug';
 import { getLangFromUrl, useTranslations, localeCodes, defaultLang, localizePath, klookLocale } from '../i18n/utils';
@@ -248,9 +248,40 @@ const fmtHourRanges = (hours: number[] | undefined) => formatHourRanges(hours, {
 // 9am-5pm / busy 11am-7pm" on the same card reads as a broken page. Busy wins;
 // the rule and the reasoning live in lib/busyness, shared with the crowd API.
 const bz = resolveBusyness(p?.busyness);
-const quietWd = fmtHourRanges(bz.weekdayQuiet), quietWe = fmtHourRanges(bz.weekendQuiet);
-const busyWd = fmtHourRanges(bz.weekdayBusy), busyWe = fmtHourRanges(bz.weekendBusy);
-const hasBusyness = !!(quietWd || quietWe || busyWd || busyWe);
+// "Weekdays" and "weekends" are BestTime's two buckets, not the venue's. The
+// days inside one often keep different hours, and this block was announcing the
+// bucket: 77 places said "quiet weekends 11am-2pm" at a gate shut 9am-2pm every
+// Saturday. busynessDayGroups keeps the hours per day and groups the days that
+// agree, so the label names exactly the days the line is true on — and the
+// Met's Friday-and-Saturday late night gets said instead of thrown away.
+const dayGroups = busynessDayGroups(p?.busyness, p?.openingHours);
+const bzLines = (dayGroups ?? [
+  { days: DAY_NAMES.slice(0, 5), quiet: bz.weekdayQuiet, busy: bz.weekdayBusy },
+  { days: DAY_NAMES.slice(5), quiet: bz.weekendQuiet, busy: bz.weekendBusy },
+])
+  .filter((g: any) => g.quiet.length || g.busy.length)
+  .map((g: any) => ({
+    label: dayGroupText(g.days, t),
+    quiet: g.quiet as number[],
+    busy: g.busy as number[],
+  }));
+// The two sentences group INDEPENDENTLY of the bar and of each other. Grouping
+// on quiet and busy together is right for the bar, whose every cell is a claim,
+// and wrong for a sentence: it split the Met into four rows, none of which was
+// about the thing the line is for.
+const sentence = (groups: any, fallback: any, key: 'quiet' | 'busy'): { label: string; text: string }[] =>
+  (groups ?? fallback)
+    .map((g: any) => ({ label: dayGroupText(g.days, t), text: fmtHourRanges(g[key]) }))
+    .filter((r: any) => r.text);
+const quietSentence = sentence(
+  quietDayGroups(p?.busyness, p?.openingHours),
+  [{ days: DAY_NAMES.slice(0, 5), quiet: bz.weekdayQuiet }, { days: DAY_NAMES.slice(5), quiet: bz.weekendQuiet }],
+  'quiet');
+const busySentence = sentence(
+  busyDayGroups(p?.busyness, p?.openingHours),
+  [{ days: DAY_NAMES.slice(0, 5), busy: bz.weekdayBusy }, { days: DAY_NAMES.slice(5), busy: bz.weekendBusy }],
+  'busy');
+const hasBusyness = bzLines.length > 0;
 
 // The hour bar, on the guide itself.
 //
@@ -273,10 +304,9 @@ const bzCells = (quiet?: number[], busy?: number[]) => {
 };
 // Only draw a row we actually measured. An all-"mid" row is not a finding
 // about the venue, it is a row with no data behind it.
-const bzRows = [
-  { label: t('post.weekdays'), cells: bzCells(bz.weekdayQuiet, bz.weekdayBusy) },
-  { label: t('post.weekends'), cells: bzCells(bz.weekendQuiet, bz.weekendBusy) },
-].filter((r) => r.cells.some((c) => c !== 'mid'));
+const bzRows = bzLines
+  .map((r) => ({ label: r.label, cells: bzCells(r.quiet, r.busy) }))
+  .filter((r) => r.cells.some((c) => c !== 'mid'));
 
 // Map our category to a schema.org place type (helps travel AI results).
 const placeType =
@@ -601,7 +631,22 @@ const saveHours = (p?.openingHours ?? []).map((l: string) =>
 );
 // Weekday and weekend quiet windows differ at 15 of the 26 venues that have both,
 // so both travel and /my-trip shows whichever matches today.
-const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
+// /my-trip picks one of these by whether TODAY is a weekday, so each must hold
+// on every day of its half of the week — Saturday's hours cannot speak for
+// Sunday's. Narrowed to the intersection rather than labelled, because the
+// saved card has room for one line and no room for a caveat.
+const perDay = perDayBusyness(p?.busyness, p?.openingHours);
+const sharedQuiet = (days: string[]) => {
+  if (!perDay) return undefined;
+  const lists = days.map((d) => perDay.get(d)!.quiet);
+  return lists[0].filter((h) => lists.every((l) => l.includes(h)));
+};
+const saveQuiet = perDay
+  ? {
+      wd: fmtHourRanges(sharedQuiet(DAY_NAMES.slice(0, 5))) || '',
+      we: fmtHourRanges(sharedQuiet(DAY_NAMES.slice(5))) || '',
+    }
+  : { wd: fmtHourRanges(bz.weekdayQuiet) || '', we: fmtHourRanges(bz.weekendQuiet) || '' };
 
 ---
 
@@ -802,14 +847,18 @@ const saveQuiet = { wd: quietWd || '', we: quietWe || '' };
         {hasBusyness && (
           <div class="busyness">
             <span class="bz-title"><Emoji name="chart-increasing" /> {t('post.bestTime')}</span>
-            {(quietWd || quietWe) && (
+            {quietSentence.length > 0 && (
               <div class="bz-row"><span class="bz-k">{t('post.quietest')}</span><span class="bz-v">
-                {quietWd && <><b>{t('post.weekdays')}</b> {quietWd}</>}{quietWd && quietWe ? ' · ' : ''}{quietWe && <><b>{t('post.weekends')}</b> {quietWe}</>}
+                {quietSentence.map((r, i) => (
+                  <>{i ? ' · ' : ''}<b>{r.label}</b> {r.text}</>
+                ))}
               </span></div>
             )}
-            {(busyWd || busyWe) && (
+            {busySentence.length > 0 && (
               <div class="bz-row"><span class="bz-k">{t('post.busiest')}</span><span class="bz-v">
-                {busyWd && <><b>{t('post.weekdays')}</b> {busyWd}</>}{busyWd && busyWe ? ' · ' : ''}{busyWe && <><b>{t('post.weekends')}</b> {busyWe}</>}
+                {busySentence.map((r, i) => (
+                  <>{i ? ' · ' : ''}<b>{r.label}</b> {r.text}</>
+                ))}
               </span></div>
             )}
             {/* The bar carries no information the two lines above do not already

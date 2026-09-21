@@ -2,7 +2,8 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { pinDescription, friendlyHours, openingHook, isPerishable, tidyClock, uniformHours, offersLine, parseDayLines, hasSpecificDate } from './pin-description.mjs';
 import { quietWindowSummaryWithinHours, dayGroupLabel } from './quiet-window.mjs';
-import { openHourSetsByDay, quietDayGroups } from '../../src/lib/hours.mjs';
+import { openHourSetsByDay } from '../../src/lib/hours.mjs';
+import { quietDayGroups } from '../../src/lib/busyness.mjs';
 
 const POST = {
   title: 'Fushimi Inari Taisha: Kyoto Travel Guide (4.7★)',

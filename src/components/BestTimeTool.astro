@@ -11,7 +11,7 @@ import { getCollection } from 'astro:content';
 import { heroOf, TOOL_OG } from '../lib/toolOgPhoto.mjs';
 import { useTranslations, localizePath, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
-import { resolveBusyness } from '../lib/busyness.mjs';
+import { resolveBusyness, quietDayGroups, dayGroupKind, dayGroupText } from '../lib/busyness.mjs';
 import { formatHour, formatHourRanges } from '../lib/hours.mjs';
 import { createHash } from 'node:crypto';
 import { existsSync } from 'node:fs';
@@ -80,10 +80,17 @@ const index = posts
     // card could read "quiet 9am-5pm" while its own cells showed 11-16 red. Same
     // shared rule as the crowd API and the post page now.
     const rb = resolveBusyness(p.data.place?.busyness);
-    const wq = rb.weekdayQuiet;
-    const weq = rb.weekendQuiet;
-    const web = rb.weekendBusy;
-    const quiet = new Set([...wq, ...weq]);
+    // A card has room for one claim, so it shows the biggest group of days that
+    // agree — and says which days those are unless it is the whole week. The
+    // old card unioned weekday and weekend quiet hours into one set, which is
+    // how a Saturday-shut 11am became part of a "quiet 11am-2pm" label.
+    const groups = quietDayGroups(p.data.place?.busyness, p.data.place?.openingHours);
+    const g = groups?.[0];
+    const wq = groups ? (g?.quiet ?? []) : (rb.weekdayQuiet.length ? rb.weekdayQuiet : rb.weekendQuiet);
+    const web = groups ? (g?.busy ?? []) : rb.weekendBusy;
+    const dayLabel = g && dayGroupKind(g.days).kind !== 'daily' ? dayGroupText(g.days, t) : '';
+    const withDays = (s: string | null) => (s && dayLabel ? `${dayLabel} ${s}` : s);
+    const quiet = new Set(wq);
     const busy = new Set(web);
     return {
       s: slug,
@@ -93,8 +100,8 @@ const index = posts
       c: localizePlace(country, lang),
       cat: p.data.category,
       b: wallFor(p.data.heroImage?.url),
-      quietLabel: range(wq) || range(weq),
-      busyLabel: range(web),
+      quietLabel: withDays(range(wq)),
+      busyLabel: withDays(range(web)),
       cells: HOURS.map((h) => (busy.has(h) ? 'busy' : quiet.has(h) ? 'quiet' : 'mid')),
     };
   })

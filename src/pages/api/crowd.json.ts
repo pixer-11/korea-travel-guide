@@ -1,5 +1,5 @@
 import { getCollection } from 'astro:content';
-import { resolveBusyness } from '../../lib/busyness.mjs';
+import { resolveBusyness, busynessDayGroups } from '../../lib/busyness.mjs';
 
 // PUBLIC CROWD-DATA API — the site's one genuinely uncopyable asset, served as data.
 //
@@ -80,6 +80,15 @@ export async function GET() {
         weekdayBusy: b.weekdayBusy,
         weekendQuiet: b.weekendQuiet,
         weekendBusy: b.weekendBusy,
+        // The four fields above are BestTime's two buckets, and a bucket's two
+        // or five days often keep DIFFERENT opening hours — Subhash Bose Park
+        // is shut 9am-2pm every Saturday but open from 11am on Sunday, so its
+        // weekendQuiet names hours that hold on one of the two days. Existing
+        // integrations keep reading those fields unchanged; `days` is the same
+        // measurement split by the days it actually holds on, with anything
+        // outside that day's own opening hours removed. null when we have no
+        // readable opening hours to check against.
+        days: busynessDayGroups(p.data.place!.busyness as Busy, p.data.place?.openingHours),
         measured: day((p.data.place!.busyness as Busy)?.updated),
         url: `${SITE}/posts/${p.id.replace(/\.md$/, '')}/`,
       };

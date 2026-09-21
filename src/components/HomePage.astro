@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { quietDayGroups } from '../lib/busyness.mjs';
 import { pickFeatured } from '../lib/featuredItineraries.mjs';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from './PostCard.astro';
@@ -192,8 +193,13 @@ const demoHours = Array.from({ length: 16 }, (_, i) => i + 7);
 const demoCells = crowdDemo
   ? (() => {
       const b = crowdDemo.data.place!.busyness!;
-      const q = new Set([...(b.weekdayQuiet ?? []), ...(b.weekendQuiet ?? [])]);
-      const busy = new Set(b.weekendBusy ?? []);
+      // The demo bar is a sample of the real thing, so it obeys the same rule:
+      // one group of days that agree, never a union of the two buckets — which
+      // painted an hour quiet when only one half of the week was open for it.
+      const groups = quietDayGroups(b, crowdDemo.data.place?.openingHours);
+      const g = groups?.[0];
+      const q = new Set(groups ? (g?.quiet ?? []) : [...(b.weekdayQuiet ?? []), ...(b.weekendQuiet ?? [])]);
+      const busy = new Set(groups ? (g?.busy ?? []) : (b.weekendBusy ?? []));
       return demoHours.map((h) => (busy.has(h) ? 'busy' : q.has(h) ? 'quiet' : 'mid'));
     })()
   : [];

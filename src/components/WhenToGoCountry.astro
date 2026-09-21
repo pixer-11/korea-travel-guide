@@ -8,6 +8,7 @@ import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/u
 import { localizePlace } from '../i18n/places';
 import { shortPlaceLabel } from '../lib/placeLabel.mjs';
 import { formatHourRanges } from '../lib/hours.mjs';
+import { quietDayGroups, dayGroupKind, dayGroupText } from '../lib/busyness.mjs';
 import { loadCardTranslations, cardHelpers } from '../i18n/cards';
 import { MONTHS, monthSlug, monthComfort } from '../lib/when-to-go.mjs';
 import { pickOgPhoto } from '../lib/ogPhoto.mjs';
@@ -77,7 +78,15 @@ const quietFor = (p: any) => {
   // lang matters: hours.mjs puts the meridiem FIRST in ko/ja/zh (오전 7시).
   // Without it the page read 「7–8 오전」, which is backwards (2026-09-10).
   const labels = { am: t('post.am'), pm: t('post.pm'), lang };
-  return formatHourRanges(bz.weekdayQuiet, labels) || formatHourRanges(bz.weekendQuiet, labels);
+  // The days that agree, not the bucket: printing weekdayQuiet whole told a
+  // reader a venue was quiet at an hour it locks its gate on the Monday.
+  const groups = quietDayGroups(bz, p?.data?.place?.openingHours);
+  if (!groups) return formatHourRanges(bz.weekdayQuiet, labels) || formatHourRanges(bz.weekendQuiet, labels);
+  const g = groups.find((x: any) => x.quiet.length);
+  if (!g) return null;
+  const hours = formatHourRanges(g.quiet, labels);
+  if (!hours) return null;
+  return dayGroupKind(g.days).kind === 'daily' ? hours : `${dayGroupText(g.days, t)} ${hours}`;
 };
 
 const quietVenues = first.quietVenues ?? [];

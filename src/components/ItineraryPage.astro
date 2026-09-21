@@ -1,5 +1,6 @@
 ---
 import ShareRow from './ShareRow.astro';
+import { perDayBusyness, DAY_NAMES } from '../lib/busyness.mjs';
 import { siteHref } from '../lib/urls.mjs';
 // Shared itinerary view for BOTH the English page (/itinerary/<slug>) and the
 // localized pages (/ko/itinerary/<slug> etc). One template, same pattern as
@@ -125,7 +126,13 @@ function fmtHourRanges(xs: number[]): string {
   return formatHourRanges(xs, { am: t('post.am'), pm: t('post.pm'), lang }) ?? '';
 }
 function quietWindowFor(post: any, slot: string): string | null {
-  const q = post.data.place?.busyness?.weekdayQuiet;
+  // An itinerary does not know which weekday the reader will walk it, so the
+  // hour has to hold on ALL of them. Printing weekdayQuiet whole promised a
+  // quiet 9am at a museum that opens at ten on the Monday.
+  const perDay = perDayBusyness(post.data.place?.busyness, post.data.place?.openingHours);
+  const q = perDay
+    ? DAY_NAMES.slice(0, 5).map((day: string) => perDay.get(day)!.quiet).reduce((a, b) => a.filter((h) => b.includes(h)))
+    : post.data.place?.busyness?.weekdayQuiet;
   if (!Array.isArray(q) || !q.length) return null;
   const [lo, hi] = SLOT_HOURS[slot] ?? [0, 24];
   const hours = [...new Set(q)].filter((h: number) => Number.isInteger(h) && h >= lo && h <= hi).sort((a: number, b: number) => a - b);

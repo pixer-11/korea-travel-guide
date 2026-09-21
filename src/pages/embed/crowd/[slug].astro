@@ -6,6 +6,12 @@
 import { getCollection } from 'astro:content';
 import { siteHref } from '../../../lib/urls.mjs';
 import { SITE } from '../../../siteConfig';
+import { quietDayGroups, dayGroupKind, dayGroupText } from '../../../lib/busyness.mjs';
+import { useTranslations } from '../../../i18n/utils';
+
+// The embed is English-only by design (no site chrome, no locale routing), but
+// the day names still come from the same table every other surface uses.
+const t = useTranslations('en');
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts', ({ data }) => !data.draft);
@@ -41,10 +47,19 @@ const span = (a?: number[]) => {
   return runs.map(([a2, b2]) => `${hr(a2)}–${hr(b2 + 1)}`).join(', ');
 };
 
-const quiet = new Set([...(b.weekdayQuiet ?? []), ...(b.weekendQuiet ?? [])]);
-const busy = new Set([...(b.weekdayBusy ?? []), ...(b.weekendBusy ?? [])]);
+// Other people's sites show this card, so it must not overstate. Unioning the
+// weekday and weekend sets marked an hour quiet when only one half of the week
+// was open for it; the card now shows the biggest group of days that agree and
+// names them unless it is the whole week. Going through quietDayGroups also
+// gets this card the busy-wins rule it never had.
+const groups = quietDayGroups(b, d.place?.openingHours);
+const g = groups?.[0];
+const quiet = new Set(groups ? (g?.quiet ?? []) : [...(b.weekdayQuiet ?? []), ...(b.weekendQuiet ?? [])]);
+const busy = new Set(groups ? (g?.busy ?? []) : [...(b.weekdayBusy ?? []), ...(b.weekendBusy ?? [])]);
 const hours = Array.from({ length: 16 }, (_, i) => i + 7); // 7am–10pm
-const quietLabel = span(b.weekdayQuiet) || span(b.weekendQuiet);
+const quietSpan = span([...quiet]);
+const dayLabel = g && dayGroupKind(g.days).kind !== 'daily' ? dayGroupText(g.days, t) : '';
+const quietLabel = quietSpan && (dayLabel ? `${dayLabel} ${quietSpan}` : quietSpan);
 const venue = d.place?.name || String(d.title).split(':')[0];
 ---
 <!doctype html>

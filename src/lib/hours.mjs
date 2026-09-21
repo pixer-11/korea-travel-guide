@@ -191,6 +191,15 @@ export function openHourSetsByGroup(lines) {
 // Intersect stored BestTime hours with the venue's real opening hours. BestTime
 // measures the pavement, which does not stop when the doors do — unclamped, a
 // 6 PM-closing folk village advertised "weekend quiet: 6–7 PM" on the live page.
+//
+// This clamp is deliberately per-GROUP (a union across the days in each half of
+// the week), not per-day, and it STAYS that way. Narrowing the stored arrays to
+// what holds on every day of a bucket would delete facts that are true: the
+// Met's stored 5pm is real, on the Friday and Saturday it stays open until 9,
+// and an intersection would erase it with no way to get it back. The stored
+// arrays are the measurement; deciding which days a claim may name belongs to
+// whoever reads them, which is what busyness.mjs's perDayBusyness() does for
+// every surface that puts an hour in front of a reader (2026-09-21).
 // Returns the four clamped arrays + `changed`, or null when the opening hours
 // are absent/unparseable (caller keeps the data exactly as it was).
 export function clampBusynessHours(busyness, lines) {
@@ -208,40 +217,4 @@ export function clampBusynessHours(busyness, lines) {
   out.changed = ['weekdayQuiet', 'weekdayBusy', 'weekendQuiet', 'weekendBusy']
     .some((k) => (busyness[k] ?? []).length !== out[k].length);
   return out;
-}
-
-/**
- * The quiet hours a venue really has, grouped by the days they hold on.
- *
- * The stored split is weekday/weekend, so "quiet weekends 11am-2pm" is one
- * claim about two days — and the two days often keep different hours. Subhash
- * Bose Park in Kochi is shut 9am-2pm on Saturday and opens at 11am on Sunday,
- * so that sentence sent a reader to a locked gate on one of the days it named.
- *
- * Intersecting the bucket would be truthful but throws the fact away: the Met's
- * 5pm IS quiet, on the Friday and Saturday it stays open until 9. So the hours
- * are kept per day and the days that agree are grouped, which loses nothing and
- * says something better — a museum's late night is worth naming.
- *
- * @returns {{days: string[], hours: number[]}[] | null} biggest group first;
- *   null when there is no readable week to check against (caller keeps the
- *   stored split as-is); [] when no quiet hour survives.
- */
-export function quietDayGroups(busyness, lines) {
-  const byDay = openHourSetsByDay(lines);
-  if (!byDay || !busyness) return null;
-  const groups = new Map();
-  for (const day of DAY_NAMES) {
-    const stored = DAY_NAMES.indexOf(day) < 5 ? busyness.weekdayQuiet : busyness.weekendQuiet;
-    const open = byDay.get(day);
-    const hours = (Array.isArray(stored) ? stored : [])
-      .filter((h) => Number.isInteger(h) && open.has(((h % 24) + 24) % 24))
-      .sort((a, b) => a - b);
-    if (!hours.length) continue;
-    const key = hours.join(',');
-    if (!groups.has(key)) groups.set(key, { days: [], hours });
-    groups.get(key).days.push(day);
-  }
-  return [...groups.values()]
-    .sort((a, b) => b.days.length - a.days.length || b.hours.length - a.hours.length);
 }
