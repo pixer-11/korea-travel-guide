@@ -35,6 +35,7 @@ const deslug = (s) => s.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase
 import { readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { bingSplit } from './lib/bing-dead-queries.mjs';
 const readJson = (rel) => {
   try { return JSON.parse(readFileSync(fileURLToPath(new URL(rel, import.meta.url)), 'utf8')); }
   catch { return {}; }
@@ -293,17 +294,20 @@ async function bingReport() {
     if (!rows.length) return { error: 'Bing 응답에 검색어가 없다' };
     // The API returns a rolling window, not one day — say so rather than let the
     // number read as "today", which is how a 3-month total becomes a daily brag.
-    const imp = rows.reduce((a, x) => a + (x.Impressions ?? 0), 0);
-    const clicks = rows.reduce((a, x) => a + (x.Clicks ?? 0), 0);
-    const top = [...rows]
+    // 2026-09-21: 노출의 79%가 클릭 0인 검색어 8개에서 왔다(하나는 3위에서 6,147회).
+    // 그걸 섞어 세면 CTR 1.7%로 보이지만 실질은 8.4%다. lib/bing-dead-queries.mjs 참조.
+    const split = bingSplit(rows);
+    const top = [...split.live]
       .sort((a, b) => (b.Impressions ?? 0) - (a.Impressions ?? 0))
       .slice(0, 3)
       .map((x) => `${String(x.Query).slice(0, 24)} ${x.Impressions}회·${Math.round(x.AvgImpressionPosition ?? 0)}위`);
-    // Where we already sit on page one is the only place a better title or
-    // description can earn anything; deeper than that, position is the problem.
-    const pageOne = rows.filter((x) => (x.AvgImpressionPosition ?? 99) <= 5);
-    const pageOneImp = pageOne.reduce((a, x) => a + (x.Impressions ?? 0), 0);
-    return { queries: rows.length, imp, clicks, top: top.join(' · '), pageOne: pageOne.length, pageOneImp };
+    const pageOneImp = split.pageOne.reduce((a, x) => a + (x.Impressions ?? 0), 0);
+    return {
+      queries: rows.length,
+      imp: split.live.imp, clicks: split.live.clicks, ctr: split.live.ctr,
+      dead: split.dead, byLang: split.byLang,
+      top: top.join(' · '), pageOne: split.pageOne.length, pageOneImp,
+    };
   } catch (e) {
     return { error: e.message.slice(0, 80) };
   }
@@ -359,7 +363,13 @@ async function main() {
   // Bing sends this site more search traffic than Google does. Its own numbers
   // are a rolling window from the Webmaster API, so they are labelled as such.
   if (bing && !bing.error) {
-    L.push('', `🅱️ 빙 검색 (최근 구간 누적): 노출 ${bing.imp.toLocaleString()} · 클릭 ${bing.clicks} · 검색어 ${bing.queries}개`);
+    L.push('', `🅱️ 빙 검색 (최근 구간 누적): 실질 노출 ${bing.imp.toLocaleString()} · 클릭 ${bing.clicks} · CTR ${(bing.ctr * 100).toFixed(1)}%`);
+    if (bing.dead?.n) {
+      L.push(`   └ ⚠️ 클릭 0 인 대형 검색어 ${bing.dead.n}개(노출 ${bing.dead.imp.toLocaleString()})를 제외한 수치입니다 — 3위에서 수천 번 보이고 한 번도 안 눌리는 것은 사람이 본 흔적이 아닙니다`);
+    }
+    if (bing.byLang?.length) {
+      L.push(`   └ 언어별 CTR: ${bing.byLang.map((x) => `${x.lang} ${(x.ctr * 100).toFixed(1)}%`).join(' · ')} — 위가 높은 쪽이 번역층이 값을 하는 자리입니다`);
+    }
     L.push(`   └ 5위 안 검색어 ${bing.pageOne}개(노출 ${bing.pageOneImp.toLocaleString()}) — 제목·설명이 값을 하는 자리는 여기뿐입니다`);
     if (bing.top) L.push(`   └ 상위: ${bing.top}`);
   } else if (bing?.error) {
