@@ -1,10 +1,4 @@
-ATTACHED: seoul-artist-bakery.md ← Artist Bakery
-ATTACHED: seoul-bar-cham.md ← Bar Cham
-SKIPPED (closed (businessStatus=CLOSED_PERMANENTLY)): seoul-cafe-3-stripes-seoul.md
-SKIPPED (closed (businessStatus=CLOSED_PERMANENTLY)): seoul-hakusi.md
-ATTACHED: seoul-kurarie.md ← 쿠라리에 (KURARIE)
-ATTACHED: seoul-mil-toast.md ← Mil Toast Ikseon
-SKIPPED (name mismatch — "Seongsu Cafes" vs result name "Highline"): seoul-seongsu-cafes.md
-ATTACHED: seoul-zest.md ← ZEST SEOUL
+ATTACHED: bangkok-piscari.md ← Piscari
+ATTACHED: bangkok-roast8ry-bangkok.md ← Roast8ry BKK
 
-GEOCODE RESULT: attached 5, skipped 3 of 8
+GEOCODE RESULT: attached 2, skipped 0 of 2

@@ -29,6 +29,16 @@ heroImage:
   focus:
     x: 45
     'y': 40
+place:
+  id: ChIJOYctlj6f4jARFlgY9nC_buU
+  name: Piscari
+  address: 23rd Floor, Andaz, One Bangkok 201 ถ. วิทยุ แขวงลุมพินี เขตปทุมวัน กรุงเทพมหานคร 10330, Thailand
+  rating: 4.8
+  userRatingsTotal: 218
+  googleMapsUrl: https://maps.google.com/?cid=16532361774009702422&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 13.7275567
+  lng: 100.5454584
 ---
 
 ## What Piscari actually is

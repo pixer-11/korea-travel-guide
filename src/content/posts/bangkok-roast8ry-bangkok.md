@@ -29,6 +29,16 @@ heroImage:
   focus:
     x: 55
     'y': 55
+place:
+  id: ChIJO1ryWQCZ4jARGn3i_r2EWIE
+  name: Roast8ry BKK
+  address: 25, 1 Anuwong Rd, Khwaeng Chakkrawat, Khet Samphanthawong, Krung Thep Maha Nakhon 10100, Thailand
+  rating: 4.8
+  userRatingsTotal: 112
+  googleMapsUrl: https://maps.google.com/?cid=9320345380403182874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 13.7401804
+  lng: 100.50445219999999
 ---
 
 ## Why Roast8ry is worth the detour
