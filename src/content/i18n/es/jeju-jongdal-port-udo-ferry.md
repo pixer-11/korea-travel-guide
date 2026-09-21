@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: jeju-jongdal-port-udo-ferry
+srcHash: 'baf85147efad'
 title: 'Puerto de Jongdal (ferry a Udo): guía de viaje de Jeju'
 description: El puerto de Jongdal, en la costa noreste de Jeju, en Gujwa-eup, es uno de los dos puntos de salida de los ferris hacia Udo (el otro es el puerto de Seongsan).
 quickAnswer: El puerto de Jongdal, en la costa noreste de Jeju, en Gujwa-eup, es uno de los dos puntos de salida de los ferris hacia Udo (el otro es el puerto de Seongsan). Los ferris salen aproximadamente cada 20-30 minutos durante las horas de luz, la travesía dura unos 10-15 minutos, y hay menos aglomeraciones que en Seongsan, lo que lo convierte en una buena opción si vas conduciendo por la carretera costera o te alojas cerca de Hado/Sehwa. Lleva tu pasaporte o documento de identidad, cuenta con un billete de ida y vuelta más una pequeña tarifa de entrada a Udo, y consulta el horario del día y las condiciones del mar antes de salir, ya que las salidas pueden suspenderse con vientos fuertes.

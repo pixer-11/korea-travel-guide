@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: sharjah-arabian-tea-house-restaurant-cafe-sharjah
+srcHash: 'd54ab5255ec8'
 title: 'Arabian Tea House Restaurant & Cafe: dónde comer en Sharjah'
 description: Arabian Tea House Restaurant & Cafe, en el distrito Heart of Sharjah, sirve desayunos tradicionales emiratíes y árabes, té karak y platos regionales cocinados a fuego lento.
 quickAnswer: Arabian Tea House Restaurant & Cafe, en el distrito Heart of Sharjah de Sharjah, sirve desayunos tradicionales emiratíes y árabes, té karak y platos regionales cocinados a fuego lento en un patio dentro del restaurado souq de Al Shanasiyah. Es muy popular (calificación de 4.7, más de 6,350 reseñas) y de precio medio, así que conviene ir a desayunar entre semana o visitarlo a última hora de la tarde para evitar las horas de más afluencia. Calcula entre 45 y 90 minutos y combínalo con un paseo por la zona patrimonial de Heart of Sharjah.

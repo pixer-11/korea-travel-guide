@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: ras-al-khaimah-habun-restaurant
+srcHash: 'dcacf09929ad'
 title: '하분 레스토랑(Habun Restaurant): 라스 알 카이마 맛집 안내'
 description: 하분 레스토랑(Habun Restaurant)은 코니시에서 내륙으로 들어간 라스 알 카이마 시내 주택가, 쿠잠(Khuzam)의 그로브 빌리지(Grove Village)에 자리하고 있으며, 4.8점의 평점을 쌓아왔습니다.
 quickAnswer: 하분 레스토랑(Habun Restaurant)은 코니시에서 내륙으로 들어간 라스 알 카이마 시내 주택가, 쿠잠(Khuzam)의 그로브 빌리지(Grove Village)에 자리하고 있으며, 관광지화되지 않은 채 642개의 리뷰로 4.8점이라는 평점을 쌓아왔습니다. 택시나 렌터카로 찾아가는 저녁 식사 장소로 접근하는 것이 가장 좋으며, 다이닝룸이 한산하고 주방에서 메뉴를 여유 있게 설명해 줄 수 있는 평일 저녁이 이상적입니다.

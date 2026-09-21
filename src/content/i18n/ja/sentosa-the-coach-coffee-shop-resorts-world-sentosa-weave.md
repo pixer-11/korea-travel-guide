@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: sentosa-the-coach-coffee-shop-resorts-world-sentosa-weave
+srcHash: '54c5e7ec065d'
 title: The Coach Coffee Shop（リゾート・ワールド・セントーサ WEAVE）旅行ガイド
 description: The Coach Coffee Shopは、セントーサ島(Sentosa)の26 Sentosa Gatewayにあるリゾート・ワールド・セントーサ(Resorts World Sentosa)のWEAVEエリア内にあるカフェで、セントーサ・エクスプレス(Sentosa Express)でのアクセスが便利です。
 quickAnswer: The Coach Coffee Shopは、セントーサ島(Sentosa)の26 Sentosa Gatewayにあるリゾート・ワールド・セントーサ(Resorts World Sentosa)のWEAVEエリア内にあるカフェです。セントーサ・エクスプレス(Sentosa Express、Waterfront駅下車)を利用するか、ヴィボシティ(Vivocity)のセントーサ・ボードウォーク(Sentosa Boardwalk)から徒歩で行くのが一番便利です。馬車・ヴィンテージトラベルをテーマにしたデザインと、スペシャルティコーヒー、終日楽しめるブランチプレートで知られています。所要時間の目安は45〜75分で、週末の混雑を避けるなら平日の午前中がおすすめです。4,100件以上のレビューで評価4.9と、実際によく利用されているカフェなので、静かな穴場を期待するのではなく、ランチやディナーのピーク時間を避けて計画するのが賢明です。

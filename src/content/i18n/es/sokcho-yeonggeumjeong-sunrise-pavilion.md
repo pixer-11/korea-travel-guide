@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: sokcho-yeonggeumjeong-sunrise-pavilion
+srcHash: '429960ec4b49'
 title: 'Pabellón del Amanecer de Yeonggeumjeong: Guía de viaje de Sokcho'
 description: Yeonggeumjeong es un pabellón de dos plantas de estilo hanok, encaramado sobre un peñasco rocoso en el barrio de Dongmyeong-dong de Sokcho, al que se llega por un breve puente peatonal que se ilumina después
 quickAnswer: Yeonggeumjeong es un pabellón de dos plantas de estilo hanok, encaramado sobre un peñasco rocoso en el barrio de Dongmyeong-dong de Sokcho, al que se llega por un breve puente peatonal que se ilumina al caer la noche. Ve al amanecer (unos 30-45 minutos antes de la salida oficial del sol) o para disfrutar del espectáculo de luces nocturno en el puente; en cualquier caso, calcula 20-30 minutos en el lugar, además del tiempo para recorrer el rompeolas y el puerto contiguos. La entrada es gratuita y está abierto las 24 horas, lo que lo convierte en un complemento fácil para una visita a la playa de Sokcho o al mercado de mariscos.

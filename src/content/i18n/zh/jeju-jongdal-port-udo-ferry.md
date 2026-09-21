@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: jeju-jongdal-port-udo-ferry
+srcHash: 'baf85147efad'
 title: 终达港（牛岛渡轮）：济州岛旅行指南
 description: 终达港（Jongdal Port）位于济州岛东北海岸的舊左邑（Gujwa-eup），是前往牛岛（Udo）渡轮的两个出发点之一（另一个是城山港）。
 quickAnswer: 终达港（Jongdal Port）位于济州岛东北海岸的舊左邑（Gujwa-eup），是前往牛岛（Udo）渡轮的两个出发点之一（另一个是城山港）。渡轮在白天时段大约每20-30分钟一班，航程约10-15分钟，而且比城山港人少一些，如果你正沿海岸公路自驾，或住在下道（Hado）、细花（Sehwa）附近，这里是不错的选择。请携带护照或身份证件，票价通常为往返票外加一小笔牛岛入岛费，出发前请务必确认当天的班次时间和海况，因为大风天气可能会导致停航。

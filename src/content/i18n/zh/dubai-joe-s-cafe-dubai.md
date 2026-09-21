@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: dubai-joe-s-cafe-dubai
+srcHash: '5856396c9544'
 title: Joe's Café:迪拜旅行指南
 description: Joe's Café 迪拜店是一家明亮、绿植环绕的全天候咖啡馆,位于迪拜购物中心(Dubai Mall)Fashion Avenue 扩建区一楼,靠近 Star Atrium 和 6 号门/哈利法塔(Burj Khalifa)入口。
 quickAnswer: Joe's Café 迪拜店是一家明亮、绿植环绕的全天候咖啡馆,位于迪拜购物中心(Dubai Mall)Fashion Avenue 扩建区一楼,靠近 Star Atrium 和 6 号门/哈利法塔(Burj Khalifa)入口。这里从早餐到晚餐都能悠闲用餐——班尼迪克蛋、牛油果吐司、意面和特色咖啡一应俱全,人气极高、几乎全天都很热闹(4.9 分评分,评论数超过 25,000 条),所以最好选在刚开门或午后时段前往以避开排队高峰。建议预留 60–90 分钟,之后不妨顺路去外面的哈利法塔喷泉散步。

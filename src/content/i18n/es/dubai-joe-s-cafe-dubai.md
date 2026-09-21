@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: dubai-joe-s-cafe-dubai
+srcHash: '5856396c9544'
 title: 'Joe''s Café: Guía de viaje de Dubái'
 description: Joe's Café Dubái es una cafetería luminosa y llena de plantas, abierta todo el día, en la primera planta de la extensión Fashion Avenue de Dubai Mall, cerca del Star Atrium y la Puerta 6/Burj
 quickAnswer: Joe's Café Dubái es una cafetería luminosa y llena de plantas, abierta todo el día, en la primera planta de la extensión Fashion Avenue de Dubai Mall, cerca del Star Atrium y la entrada de la Puerta 6/Burj Khalifa. Está pensada para comer desde el desayuno hasta la cena — huevos benedictinos, tostadas de aguacate, pastas y café de especialidad — y atrae a un público muy numeroso y casi constante (valoración de 4,9 con más de 25.000 reseñas), así que conviene ir justo a la apertura o a media tarde para evitar la espera. Calcula entre 60 y 90 minutos y combínalo con un paseo junto a las fuentes del Burj Khalifa, justo al lado.

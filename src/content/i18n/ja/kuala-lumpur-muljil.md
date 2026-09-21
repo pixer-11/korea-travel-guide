@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: kuala-lumpur-muljil
+srcHash: 'fae349b19d69'
 title: MULJIL(クアラルンプール)
 description: MULJILは、クアラルンプールのダマンサラハイツ(Damansara Heights)にあるThe Five内の新しい韓国海鮮料理レストランで、Maljiro(マルジロ)とTaan Korean Steakhouse(タアン・コリアン・ステーキハウス)のコラボレーションから生まれました。
 quickAnswer: MULJILは、クアラルンプールのダマンサラハイツ(Damansara Heights)にあるThe Five内の新しい韓国海鮮料理レストランで、Maljiro(マルジロ)とTaan Korean Steakhouse(タアン・コリアン・ステーキハウス)のコラボレーションから生まれました。バーベキューやフライドチキン以外の韓国料理を求めるなら訪れる価値があります――海鮮や沿岸地域にインスパイアされた料理を、デザイン性の高い空間で楽しめます。新しくオープンしたばかりで話題の店なので、事前予約をし、訪問前に現在の営業時間を確認しておきましょう。

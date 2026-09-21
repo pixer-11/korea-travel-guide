@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: dubai-street-food-traffic-restaurant-llc
+srcHash: '2f6117dde194'
 title: Street Food Traffic Restaurant LLC：迪拜美食推荐
 description: Street Food Traffic Restaurant LLC 是一家轻松随性、好评如潮（4.7星，688条评价）的街头美食小店，坐落于 Midtown by Deyaar 综合体内（Shop 1, AFNAN 01）
 quickAnswer: Street Food Traffic Restaurant LLC 是一家轻松随性、好评如潮（4.7星，688条评价）的街头美食小店，坐落于迪拜制作城（Dubai Production City，简称DPC）Midtown by Deyaar 综合体内（Shop 1, AFNAN 01），靠近阿尔弗贾（Al Furjan）和迪拜朱美拉村庄环（Jumeirah Village Circle）。这里最适合远离游客扎堆的地段，轻松实惠地享用一顿南亚/中东风味的烧烤及街头风味美食——建议安排45–75分钟的用餐时间，现金和刷卡通常都可以，选择工作日晚上前往可以避开住宅社区的晚餐高峰。

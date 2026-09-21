@@ -1,54 +1,55 @@
 ---
 lang: es
 slug: ajman-yemeni-corner-restaurant
-title: 'Restaurante Yemeni Corner: dónde comer en Ajman'
-description: 'El restaurante Yemeni Corner (مطعم الركن اليمني للمندي), en Al Zahir Street, en Ajman, es una parada obligada para probar el mandi: cordero o pollo tierno, cocinado lentamente al humo sobre arroz especiado.'
-quickAnswer: 'El restaurante Yemeni Corner (مطعم الركن اليمني للمندي), en Al Zahir Street, en Ajman, es una parada obligada para probar el mandi: cordero o pollo tierno, cocinado lentamente al humo sobre arroz especiado, preparado en un horno tradicional bajo tierra. Con una calificación de 4.8 basada en más de 2,100 reseñas, es una de las casas de mandi más elogiadas de Ajman. Ve con hambre, prepárate para compartir una fuente, y llega temprano al almuerzo o a la cena para evitar la espera.'
+srcHash: 'f67d0e963f85'
+title: 'Restaurante Yemeni Corner: dónde comer en Ayman'
+description: 'El restaurante Yemeni Corner (مطعم الركن اليمني للمندي), en la calle Al Zahir de Ayman, es una parada obligada para probar el mandi: cordero o pollo tierno, ahumado lentamente, servido sobre arroz especiado y cocinado en un horno tradicional bajo tierra.'
+quickAnswer: 'El restaurante Yemeni Corner (مطعم الركن اليمني للمندي), en la calle Al Zahir de Ayman, es una parada obligada para probar el mandi: cordero o pollo tierno, ahumado lentamente, servido sobre arroz especiado y cocinado en un horno tradicional bajo tierra. Con una calificación de 4.8 basada en más de 2100 reseñas, es una de las casas de mandi más elogiadas de Ayman. Vaya con hambre, prepárese para compartir una fuente y llegue temprano al almuerzo o a la cena para evitar la espera.'
 faq:
-  - q: ¿Cómo llego al restaurante Yemeni Corner sin auto?
-    a: Ajman no tiene metro, así que los taxis o las aplicaciones de transporte (Careem, Uber) son la forma más práctica de llegar a Al Zahir Street. Si vienes desde Dubái o Sharjah, calcula entre 20 y 40 minutos según el tráfico.
-  - q: ¿Qué debería pedir en mi primera visita?
-    a: Empieza con la fuente de mandi de cordero o pollo para compartir entre dos o más personas, acompañada del caldo maraq y la salsa daqoos aparte para añadir sabor mientras comes.
-  - q: ¿Hay mucha gente, y cuál es el mejor momento para ir?
-    a: 'Sí: con una calificación de 4.8 y más de 2,100 reseñas, es un nombre muy conocido en Ajman, por lo que las horas pico de almuerzo y cena pueden estar concurridas. Un almuerzo temprano o una cena más tardía suelen ser más tranquilos, y los viernes suelen ser el día de mayor afluencia.'
-  - q: ¿Cuánto debería gastar aproximadamente?
-    a: Las fuentes de mandi suelen ser económicas y están pensadas para compartir, pero los precios exactos del menú pueden cambiar, así que es mejor confirmar los precios actuales en el lugar o a través del contacto indicado del restaurante antes de ir.
+  - q: ¿Cómo llego al restaurante Yemeni Corner sin coche?
+    a: Ayman no tiene metro, así que los taxis o las aplicaciones de transporte privado (Careem, Uber) son la forma más práctica de llegar a la calle Al Zahir. Si se viene desde Dubái o Sharjah, hay que calcular entre 20 y 40 minutos según el tráfico.
+  - q: ¿Qué pedir en una primera visita?
+    a: Lo mejor es empezar con la fuente de mandi de cordero o pollo para compartir entre dos o más personas, acompañada del caldo maraq y la salsa daqoos aparte para añadir sabor mientras se come.
+  - q: ¿Suele haber mucha gente? ¿Cuál es el mejor momento para ir?
+    a: 'Sí: con una calificación de 4.8 y más de 2100 reseñas, es un nombre muy conocido en Ayman, por lo que los picos de almuerzo y cena pueden estar concurridos. Un almuerzo temprano o una cena más tardía suelen ser momentos más tranquilos, y los viernes suelen ser el día de mayor afluencia.'
+  - q: ¿Cuánto se debe gastar aproximadamente?
+    a: Las fuentes de mandi suelen ser asequibles y están pensadas para compartir, aunque los precios exactos del menú pueden variar, así que conviene consultar los precios vigentes en el propio local o a través del contacto indicado por el restaurante antes de ir.
   - q: ¿Qué más hay cerca?
-    a: La ubicación del restaurante en Al Zahir Street está a poca distancia en auto del Ajman Corniche, lo que facilita combinar una comida de mandi con un paseo por el malecón.
+    a: El restaurante, ubicado en la calle Al Zahir, está a poca distancia en coche de la Corniche de Ayman, lo que facilita combinar una comida de mandi con un paseo por el frente marítimo.
 ---
 
 ## Por qué ir
 
-El mandi es uno de los grandes platos comunitarios de la península arábiga: arroz cocinado con el jugo y el caldo de la carne, coronado con cordero o pollo cocido lentamente en un horno sellado bajo tierra (o en una versión moderna a gas) hasta que se desprende del hueso. El restaurante Yemeni Corner se ha ganado su reputación haciendo esto bien y de manera constante, algo que se refleja en su calificación de 4.8 en más de 2,100 reseñas, un volumen y una puntuación que lo sitúan firmemente entre los restaurantes informales más comentados de Ajman.
+El mandi es uno de los grandes platos comunales de la península arábiga: arroz cocinado en el jugo y el caldo de la carne, coronado con cordero o pollo que se cuece lentamente en un horno subterráneo sellado (o en su versión moderna a gas) hasta que la carne se desprende del hueso. El restaurante Yemeni Corner ha construido su reputación haciendo esto bien y de forma constante, algo que se refleja en su calificación de 4.8 con más de 2100 reseñas, un volumen y una puntuación que lo colocan firmemente entre los restaurantes informales más comentados de Ayman.
 
-No se trata de un lugar escondido; es un nombre muy conocido que tanto locales como visitantes mencionan cuando la conversación gira hacia dónde conseguir un buen mandi en el emirato.
+No se trata de un hallazgo secreto, sino de un nombre muy conocido que tanto locales como visitantes mencionan cuando la conversación gira hacia dónde comer un buen mandi en el emirato.
 
 ## Cómo llegar
 
-El restaurante se encuentra en Al Zahir Street, en Ajman, una ciudad lo suficientemente compacta como para que la mayoría de las zonas residenciales y hoteleras estén a poca distancia en auto. Ajman no cuenta con un sistema de metro, así que las opciones prácticas son el taxi, las aplicaciones de transporte o el auto propio. Si vienes desde Dubái o Sharjah, puedes llegar a Ajman por Sheikh Mohammed Bin Zayed Road (E311) o por Emirates Road, ambas conectan con las principales arterias de la ciudad en 20 a 40 minutos, según el tráfico y el punto de partida.
+El restaurante se encuentra en la calle Al Zahir, en Ayman, una ciudad lo bastante compacta como para que la mayoría de las zonas residenciales y hoteleras queden a poca distancia en coche. Ayman no cuenta con metro, así que las opciones más prácticas son el taxi, las aplicaciones de transporte privado o el automóvil propio. Si se viene desde Dubái o Sharjah, se puede llegar a Ayman por la carretera Sheikh Mohammed Bin Zayed (E311) o por Emirates Road, ambas conectadas con las arterias principales de la ciudad, con un trayecto de entre 20 y 40 minutos según el tráfico y el punto de partida.
 
-En esta zona de Ajman es común encontrar estacionamiento en la calle y en lotes cercanos, aunque los espacios pueden llenarse en las horas pico de comida, así que conviene reservar unos minutos extra para estacionar.
+En esta zona de Ayman es habitual encontrar estacionamiento en la calle o en lotes cercanos, aunque los espacios pueden llenarse en las horas pico de comida, por lo que conviene reservar unos minutos adicionales para aparcar.
 
 ## Qué comer
 
-El mandi es el plato estrella: pídelo con cordero (*lahm*) o pollo (*dajaj*) y espera una generosa fuente para compartir, cubierta con arroz basmati, pasas y a menudo un ligero toque de especias como cardamomo, comino y clavo. Las porciones suelen estar pensadas para compartir entre dos o más personas, así que conviene ir acompañado o estar listo para llevarse las sobras.
+El mandi es el plato estrella: puede pedirse con cordero (*lahm*) o pollo (*dajaj*), y viene en una generosa fuente para compartir, cubierta de arroz basmati, pasas y, a menudo, un ligero toque de especias como cardamomo, comino y clavo. Las porciones suelen estar pensadas para compartir entre dos o más personas, así que conviene ir acompañado o estar dispuesto a llevarse las sobras.
 
-Junto al mandi, busca los acompañamientos habituales yemeníes y del Golfo: un caldo *maraq* (a base de tomate) o sopa *shorba* que se vierte sobre el arroz para darle más jugosidad, una salsa *daqoos* (de tomate y chile especiado) aparte, y una ensalada fresca para contrarrestar lo contundente del plato. Muchas casas de mandi de la región también ofrecen *haneeth* (un estilo similar de carne cocida lentamente) y pollo a la parrilla como alternativas si buscas algo más ligero que la fuente completa de arroz.
+Junto al mandi, es habitual encontrar los acompañamientos típicos yemeníes y del Golfo: un caldo *maraq* a base de tomate o una sopa *shorba* que se vierte sobre el arroz para darle más jugosidad, una salsa *daqoos* (de tomate y chile especiado) aparte con un toque picante, y ensalada fresca para contrarrestar la untuosidad del plato. Muchas casas de mandi de la región también ofrecen *haneeth* (un estilo de carne igualmente cocinada a fuego lento) y pollo a la parrilla como alternativas más ligeras frente a la fuente completa de arroz.
 
 ## Cuándo ir
 
-El servicio de almuerzo (aproximadamente de mediodía a primera hora de la tarde) y el de cena (desde la noche en adelante) son los dos momentos de mayor afluencia, y ambos suelen atraer bastante gente dada la popularidad del restaurante; se trata de un lugar muy conocido, no de uno discreto, así que hay que esperar compañía. Si tu horario es flexible, un almuerzo temprano (justo al abrir el servicio) o una cena más tardía, después de las 9 de la noche, tienden a ser más tranquilos que las horas de mayor movimiento.
+El servicio de almuerzo (aproximadamente de mediodía a primera hora de la tarde) y el de cena (desde el anochecer en adelante) son los dos momentos de mayor afluencia, y ambos suelen atraer bastante público dada la popularidad del restaurante. Este es un lugar bien conocido, no un secreto poco frecuentado, así que hay que contar con compañía. Si el horario es flexible, un almuerzo temprano (justo al abrir el servicio) o una cena tardía, después de las 21:00, suelen ser momentos más tranquilos que las horas de mayor ajetreo.
 
-El viernes, inicio del fin de semana en los Emiratos, suele ser el día de mayor afluencia para grupos familiares, así que conviene tenerlo en cuenta si prefieres una comida más tranquila.
+El viernes, inicio del fin de semana en los Emiratos Árabes Unidos, suele ser el día más concurrido por los grupos familiares, así que conviene tenerlo en cuenta si se prefiere una comida más tranquila.
 
 ## Cómo visitarlo como un local
 
-Las casas de mandi como esta están pensadas para compartir, no para comer solo, así que ve acompañado de al menos otra persona para poder pedir una fuente completa y probar bien tanto la carne como el caldo. Pedir suele ser sencillo: eliges tu proteína (cordero o pollo), a veces un tamaño, y el arroz y las salsas vienen incluidos en la fuente.
+Las casas de mandi como esta están pensadas para compartir, no para comer en solitario, así que conviene ir acompañado de al menos una persona más para poder pedir una fuente completa y probar bien tanto la carne como el caldo. Pedir suele ser sencillo: se elige la proteína (cordero o pollo), a veces el tamaño de la porción, y el arroz y las salsas vienen incluidos como parte de la fuente.
 
-En restaurantes informales emiratíes y yemeníes el pago suele hacerse con tarjeta o en efectivo, y la propina no es obligatoria: redondear la cuenta o dejar el cambio se agradece, pero no se espera. Como este restaurante es genuinamente popular y no un secreto tranquilo, la mejor estrategia para evitar las aglomeraciones es elegir bien el horario: evita el centro exacto de las horas pico de almuerzo y cena, y prepárate para una breve espera en los momentos de mayor afluencia en lugar de dar por hecho que siempre podrás entrar directamente.
+En los restaurantes informales emiratíes y yemeníes el pago suele hacerse con tarjeta o en efectivo, y la propina no es obligatoria: redondear la cuenta o dejar el cambio se agradece, pero no se espera. Dado que este restaurante es genuinamente popular y no un secreto tranquilo, la mejor estrategia para evitar las aglomeraciones es la del horario: conviene evitar el punto exacto de mayor afluencia en el almuerzo y la cena, y estar preparado para una espera breve en las horas pico en lugar de dar por hecho que se podrá entrar directamente.
 
-El error más común entre los recién llegados es pedir platos individuales en lugar de una fuente para compartir: las porciones de mandi son grandes, y el formato de comida comunitaria (a veces servida todavía en una gran bandeja para comer entre todos) forma parte de la experiencia, no un inconveniente. Si no estás seguro de qué tan picante es la salsa daqoos, pregunta antes de servírtela generosamente sobre el arroz.
+El error más común entre quienes visitan el lugar por primera vez es pedir platos individuales en lugar de una fuente para compartir: las porciones de mandi son grandes, y el formato de comida comunal (que a veces todavía se sirve en una gran bandeja de la que se come en conjunto) forma parte de la experiencia, no es un inconveniente. Si hay dudas sobre el nivel de picante de la salsa daqoos, lo mejor es preguntar antes de servirla generosamente sobre el arroz.
 
-## Bueno saber sobre los alrededores
+## Qué más hay cerca
 
-Al Zahir Street se encuentra dentro del tejido urbano central de Ajman, a poca distancia del Ajman Corniche y de la zona costera de la ciudad, lo que facilita combinar un almuerzo de mandi con un paseo junto al Golfo después. Como con cualquier restaurante, los horarios de apertura, los precios exactos y los detalles del menú pueden cambiar con el tiempo, así que conviene confirmar los horarios actuales antes de salir, especialmente en torno a las horas de oración o los días festivos, cuando los horarios pueden ajustarse.
+La calle Al Zahir se encuentra dentro del tejido urbano central de Ayman, a poca distancia de la Corniche de Ayman y de la zona costera de la ciudad, lo que permite combinar fácilmente un almuerzo de mandi con un paseo junto al Golfo. Como en cualquier restaurante, los horarios de apertura, los precios exactos y los detalles del menú pueden cambiar con el tiempo, por lo que conviene confirmar el horario vigente antes de salir, especialmente en torno a los horarios de oración o los días festivos, cuando los horarios pueden verse modificados.

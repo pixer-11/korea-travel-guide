@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: jeju-jeju-olle-course-1-1-udo-olle-trail
+srcHash: '70448c61d378'
 title: 'Curso Olle 1-1 de Jeju (ruta Olle de Udo): Guía de viaje'
 description: El Curso Olle 1-1 es una ruta circular de 11,5 km alrededor de Udo, la pequeña isla frente a la punta noreste de Jeju, que combina costa de lava negra, playas de arena blanca y
 quickAnswer: El Curso Olle 1-1 es una ruta circular de 11,5 km alrededor de Udo, la pequeña isla frente a la punta noreste de Jeju, que combina costa de lava negra, playas de arena blanca y acantilados cubiertos de hierba. Se llega en ferry desde el puerto de Seongsan (Seongsan Port), y en Udo se puede alquilar una bicicleta o un patinete eléctrico; conviene reservar entre medio día y un día completo, incluyendo la travesía en ferry. Ve una mañana despejada para disfrutar de la mejor luz sobre Seongsan Ilchulbong al otro lado del agua y evitar las multitudes de autobuses turísticos por la tarde.

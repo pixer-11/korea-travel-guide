@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: sentosa-the-coach-coffee-shop-resorts-world-sentosa-weave
+srcHash: '54c5e7ec065d'
 title: The Coach Coffee Shop（圣淘沙名胜世界 WEAVE）旅行指南
 description: The Coach Coffee Shop是一家位于圣淘沙名胜世界（Resorts World Sentosa）WEAVE街区内的咖啡馆，地址为26 Sentosa Gateway，坐落于圣淘沙岛上，最佳到达方式是搭乘圣淘沙捷运（Sentosa Express）。
 quickAnswer: The Coach Coffee Shop是一家位于圣淘沙名胜世界（Resorts World Sentosa）WEAVE街区内的咖啡馆，地址为26 Sentosa Gateway，坐落于圣淘沙岛上，最佳到达方式是搭乘圣淘沙捷运（Sentosa Express，在滨海站/Waterfront Station下车）,或从怡丰城（Vivocity）的圣淘沙海滨栈道（Sentosa Boardwalk）步行前往。这里以马车/复古旅行风格的装潢设计、精品咖啡和全天供应的brunch餐点闻名——建议预留45-75分钟，并选择平日早上前往，以避开度假村周末的人潮。凭借4,100多条评价中4.9的评分，这里确实人气很旺，因此最好避开午餐和晚餐高峰时段前往，而不要指望能找到一处清静之地。

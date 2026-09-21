@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: hanoi-run-fun-the-eating-room
+srcHash: '76c366e7b446'
 title: 런 펀 – 더 이팅 룸(Run Fun – The Eating Room) 하노이 방문 가이드
 description: 베트남 하노이의 새로운 화제의 장소, 런 펀 – 더 이팅 룸(Run Fun – The Eating Room)을 소개합니다 — 어떤 곳인지, 어디에 있는지, 어떻게 방문하면 되는지 알아봅니다.
 quickAnswer: 런 펀 – 더 이팅 룸(Run Fun – The Eating Room)은 셰프 호앙 뚱(Hoang Tung)이 그의 유명한 T.U.N.G Dining과 Å by TUNG에 이어 선보이는 캐주얼하고 활기찬 후속작으로, 베트남 요리에 대한 그의 유쾌하고 재료 중심적인 접근 방식을 화이트 테이블보 없는 편안한 하노이의 공간으로 옮겨온 곳입니다. 테이스팅 메뉴에 얽매이지 않으면서도 창의적인 음식을 즐기고 싶은 여행자에게 가장 잘 맞으며, 소규모 그룹으로 배고픈 상태로 방문하고, 새로 문을 연 빠르게 입소문 나는 곳인 만큼 방문 전 영업시간과 예약 필요 여부를 꼭 확인하는 것이 좋습니다.

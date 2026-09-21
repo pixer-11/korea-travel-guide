@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: hiroshima-gyumon-hiroshima
+srcHash: '28b0d9791276'
 title: GYUMON：广岛美食推荐
 description: GYUMON广岛店是一家高评分烧肉（烤牛肉）餐厅，位于中区本通商店街HM本通会馆大楼4楼。
 quickAnswer: GYUMON广岛店是一家高评分烧肉（烤牛肉）餐厅，位于中区（Naka Ward）本通（Hondori）商店街HM本通会馆（HM Hondori Kaikan）大楼4楼，从Astram Line的本通站（Hondori Station）以及广岛电铁（Hiroshima Electric Railway，市内电车）在Chuden-mae／Kamiyacho一带的站点步行几分钟即可到达。在这里你可以在桌边亲手炙烤上等日本和牛及黑毛和牛（Kuroge Wagyu）肉品，建议预留1.5-2小时用餐时间，并提前预订——毕竟这里坐拥4.9星、1200+条评论的超高人气。建议选择晚餐时段前往，因为这个价位的烧肉餐厅通常更适合作为晚间套餐体验，而非快捷的午餐选择。

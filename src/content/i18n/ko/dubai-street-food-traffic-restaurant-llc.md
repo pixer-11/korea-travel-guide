@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: dubai-street-food-traffic-restaurant-llc
+srcHash: '2f6117dde194'
 title: 'Street Food Traffic Restaurant LLC: 두바이에서 뭘 먹을까'
 description: Street Food Traffic Restaurant LLC는 Midtown by Deyaar 단지(Shop 1, AFNAN 01) 안에 자리한, 평점 4.7점(리뷰 688개)의 캐주얼한 스트리트 푸드 맛집입니다.
 quickAnswer: Street Food Traffic Restaurant LLC는 두바이 프로덕션 시티(Dubai Production City, DPC), 알 푸르잔(Al Furjan)과 주메이라 빌리지 서클(Jumeirah Village Circle) 인근의 Midtown by Deyaar 단지(Shop 1, AFNAN 01) 안에 자리한, 평점 4.7점(리뷰 688개)의 캐주얼한 스트리트 푸드 맛집입니다. 관광지에서 벗어나 그릴 요리와 스트리트 스타일의 남아시아/중동 음식을 편안하고 부담 없는 가격에 즐기기에 좋은 곳으로, 방문에는 45~75분 정도를 예상하면 되고, 현금과 카드 모두 대체로 사용 가능하며, 주거 지역 특유의 저녁 식사 러시를 피하려면 평일 저녁에 방문하는 것이 좋습니다.

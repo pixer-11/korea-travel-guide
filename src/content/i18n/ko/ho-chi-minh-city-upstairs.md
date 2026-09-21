@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: ho-chi-minh-city-upstairs
+srcHash: '59e3d7dfa8b0'
 title: '호치민시 어퍼스테어즈(Upstairs): 방문자 가이드'
 description: 베트남 호치민시(Ho Chi Minh City)의 떠오르는 신규 맛집, 어퍼스테어즈(Upstairs) — 어떤 곳인지, 어디에 있는지, 어떻게 방문하면 좋을지 안내합니다.
 quickAnswer: 어퍼스테어즈(Upstairs)는 호치민시에 위치한 예약제 소규모 파인다이닝 레스토랑으로, 베트남 중부 요리에 뿌리를 둔 모던 베트남 테이스팅 메뉴를 선보입니다. 오픈한 지 불과 18개월 만에 2026년 가이드에서 첫 미쉐린 스타(MICHELIN Star)를 받았습니다. 예약은 최대한 서둘러 하고, 시간에 맞춰 도착하며, 테이스팅 메뉴 경험을 위해 저녁 시간을 통째로(대략 2~3시간) 비워두는 것이 좋습니다.

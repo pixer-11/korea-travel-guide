@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: sharjah-arabian-tea-house-restaurant-cafe-sharjah
+srcHash: 'd54ab5255ec8'
 title: Arabian Tea House Restaurant & Cafe：沙迦美食推荐
 description: Arabian Tea House Restaurant & Cafe 位于沙迦(Sharjah)的沙迦心脏区(Heart of Sharjah)，供应传统阿联酋及阿拉伯风味早餐、卡拉克茶(karak tea)，以及慢炖地道菜肴。
 quickAnswer: Arabian Tea House Restaurant & Cafe 位于沙迦(Sharjah)沙迦心脏区(Heart of Sharjah)，坐落在修复后的沙纳西亚集市(Al Shanasiyah souq)内的庭院中，供应传统阿联酋及阿拉伯风味早餐、卡拉克茶(karak tea)，以及慢炖地道菜肴。这里人气很高（评分4.7，超过6,350条评论），价格中等，建议选择工作日早餐时段或傍晚较晚时分前往，以避开人流高峰。预留45到90分钟时间，并可顺道漫步沙迦心脏区的历史街区。

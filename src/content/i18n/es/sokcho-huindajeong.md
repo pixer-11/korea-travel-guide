@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: sokcho-huindajeong
+srcHash: '9d9994bed85e'
 title: 'Huindajeong: Guía de viaje de Sokcho'
 description: Huindajeong es una parada con estilo de café y marisco en la zona de Subok-ro, en Sokcho, conocida sobre todo por sus asientos con vista al mar y su ambiente relajado frente al Mar del Este, más que por un plato imprescindible.
 quickAnswer: Huindajeong es una parada con estilo de café y marisco en la zona de Subok-ro, en Sokcho, conocida sobre todo por sus asientos con vista al mar y su ambiente relajado frente al Mar del Este, más que por un plato imprescindible. Calcula entre 1 y 1,5 horas, ve un día entre semana por la mañana o a última hora de la tarde para evitar las aglomeraciones del fin de semana, y combínalo con un paseo por la playa cercana o una excursión en coche hasta los mercados del puerto de Sokcho.

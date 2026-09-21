@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: yogyakarta-hong-kong-street-foods
+srcHash: '31397d0d0651'
 title: Hong Kong Street Foods:ジョグジャカルタで食べるべき味
 description: Hong Kong Street Foodsは、ジョグジャカルタのJl. A.M. Sangaji No. 88にある香港風ストリートフードのレストランです。
 quickAnswer: Hong Kong Street Foodsは、ジョグジャカルタ中北部のトゥガルレジョ(Tegalrejo)、Jl. A.M. Sangaji No. 88にある香港風ストリートフードのレストランで、1,100件以上のレビューで4.7の評価を獲得しています。チャーシューやワンタン麺、点心に近い軽食など、香港の屋台料理を専門にしており、カジュアルな雰囲気の中でトゥグ(Tugu)/マリオボロ(Malioboro)エリアからのランチや夕食に立ち寄るのにぴったりです。週末の混雑を避けるなら平日の夜がおすすめですが、まだ外国人観光客にはあまり知られていないため、平日でも多少の待ち時間は覚悟しておきましょう。

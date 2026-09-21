@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: kuala-lumpur-sabato-s
+srcHash: '58132bacf895'
 title: Sabato's en Kuala Lumpur
 description: Sabato's es un animado restaurante ítalo-americano dentro del Kimpton Naluria en Tun Razak Exchange (TRX), en Kuala Lumpur, inspirado en la temática de las discotecas neoyorquinas de los años 70.
 quickAnswer: 'Sabato''s es un animado restaurante ítalo-americano dentro del Kimpton Naluria en Tun Razak Exchange (TRX), en Kuala Lumpur, inspirado en la temática de las discotecas neoyorquinas de los años 70 y en contundentes clásicos de salsa roja. Es ideal para una cena animada en grupo más que para una comida tranquila: ve entre semana si quieres intentar entrar sin reserva; de lo contrario, reserva con antelación. Combínalo con un paseo por el parque y el centro comercial de TRX, y confirma directamente con el hotel el horario y la política de reservas vigentes antes de ir.'

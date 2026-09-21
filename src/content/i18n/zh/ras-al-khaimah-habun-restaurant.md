@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: ras-al-khaimah-habun-restaurant
+srcHash: 'dcacf09929ad'
 title: Habun餐厅：拉斯海玛的美食去处
 description: Habun餐厅坐落于Khuzam的Grove Village，是拉斯海玛市内陆的一处住宅区，远离科尼什海滨大道，却凭借实力积累起了4.8星的口碑。
 quickAnswer: Habun餐厅坐落于Khuzam的Grove Village，是拉斯海玛市内陆的一处住宅区，远离科尼什海滨大道（Corniche），凭借642条评价获得了4.8星的好口碑，却始终没有变成热门旅游打卡地。最好把它当作一顿晚餐目的地，乘出租车或自驾前往，最好选在工作日晚上前去，那时用餐区安静从容，厨房也有时间为你细细介绍菜单。

@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: kuala-lumpur-muljil
+srcHash: 'fae349b19d69'
 title: MULJIL——吉隆坡新开的韩式海岸料理餐厅
 description: MULJIL 是吉隆坡孟沙岭（Damansara Heights）The Five 内新开的韩式海岸料理餐厅，由 Maljiro 与 Taan Korean 合作打造。
 quickAnswer: MULJIL 是吉隆坡孟沙岭（Damansara Heights）The Five 内新开的韩式海岸料理餐厅，由 Maljiro 与 Taan Korean Steakhouse 携手打造。如果你想尝试烤肉和炸鸡之外的韩式料理——以海鲜和沿海地区风味为灵感、设计感十足的用餐体验——这里非常值得一去。由于是刚开业、热度正高的新概念餐厅，建议提前订位，并在前往前确认最新营业时间。

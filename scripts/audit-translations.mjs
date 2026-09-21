@@ -89,6 +89,11 @@ async function auditFrontmatter(root, lang, file, fm, body = '', includeDrafts =
   // 아는 자리(복원 도구)다. 그 밖에는 종전대로 건너뛴다.
   if (!includeDrafts && /^draft:\s*true\s*$/m.test(srcFm)) return null;
 
+  // srcHash 가 없으면 translate-posts 는 그 파일을 **최신으로 간주**한다
+  // (원문이 바뀜어도 재번역 큐에 안 들어간다). 2026-08-01 일괄 스탬프가 189편을
+  // 빠뜨렸고, 그중 59편은 원문이 그 뒤 바뀌었는데도 7주간 아무도 모르고 있었다.
+  // 즌 잘린 요약문 3건이 그 증상으로 매일 아침 경고로 나왔다(2026-09-21).
+  if (!/^srcHash:/m.test(fm)) flags.push(['MISSING-SRCHASH', 'srcHash']);
   if (SPILL.test(fm)) flags.push(['TOOL-SPILL', fm.match(SPILL)[0]]);
   // quickAnswer, description and FAQ answers are rendered as plain text, so a
   // `**` in them is not bold — it is two asterisks on the page. zh/visa carried

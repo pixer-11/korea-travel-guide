@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: jeju-aewol-cafes
+srcHash: 'be7b09b03a41'
 title: Cafeterías de Aewol en Jeju
 description: La franja de cafeterías de Aewol se extiende a lo largo de la carretera costera (Aewollo/Haean-ro) en la costa noroeste de Jeju, a unos 30–40 minutos en coche o autobús desde la ciudad de Jeju.
 quickAnswer: La franja de cafeterías de Aewol se extiende a lo largo de la carretera costera (Aewollo/Haean-ro) en la costa noroeste de Jeju, a unos 30–40 minutos en coche o autobús desde la ciudad de Jeju. Instálate por la zona de la playa de Gwakji (Gwakji Beach) y Hansu-ri, donde cafeterías de dos y tres plantas con terrazas en la azotea y ventanales de suelo a techo miran al mar. Ve un día entre semana por la mañana o justo antes del atardecer para evitar lo peor de las aglomeraciones y el caos de aparcamiento.

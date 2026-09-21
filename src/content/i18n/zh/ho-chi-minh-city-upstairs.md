@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: ho-chi-minh-city-upstairs
+srcHash: '59e3d7dfa8b0'
 title: 胡志明市 Upstairs 餐厅：游览指南
 description: 介绍越南胡志明市新晋热门餐厅 Upstairs：这是一家怎样的餐厅、地址在哪里，以及如何前往用餐。
 quickAnswer: Upstairs 是胡志明市一家仅接受预订的小型精致餐厅，供应扎根于越南中部菜系的现代越南品鉴菜单——开业仅18个月后，便在2026年指南中摘得首颗米其林星星。请务必提前预订、准时抵达，并预留一整个晚上（大约两到三个小时）来体验这套品鉴菜单。

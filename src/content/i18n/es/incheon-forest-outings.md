@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: incheon-forest-outings
+srcHash: 'b02e531f42bf'
 title: 'Forest Outings: Guía de viaje de Incheon'
 description: Forest Outings es un gran complejo de café-restaurante repleto de plantas ubicado en 145 Cheongnyang-ro, en Yeonsu-gu, Incheon, conocido sobre todo por sus salones estilo invernadero
 quickAnswer: Forest Outings es un gran complejo de café-restaurante repleto de plantas ubicado en 145 Cheongnyang-ro, en Yeonsu-gu, Incheon, conocido sobre todo por sus salones estilo invernadero y su fotogénico "bosque" interior. Ve entre semana por la mañana o a primera hora de la tarde (11am–1pm) para evitar las multitudes de fin de semana que atrae su reputación de 4.4 estrellas y más de 2,000 reseñas. Calcula un presupuesto medio-alto (₩₩₩) para una comida completa más postre, y reserva entre 1.5 y 2 horas para comer y explorar la vegetación.

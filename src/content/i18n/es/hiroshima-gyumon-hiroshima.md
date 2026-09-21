@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: hiroshima-gyumon-hiroshima
+srcHash: '28b0d9791276'
 title: 'GYUMON: Dónde comer en Hiroshima'
 description: GYUMON Hiroshima es un restaurante de yakiniku (carne a la parrilla) muy bien valorado, ubicado en el 4º piso del edificio HM Hondori Kaikan, en la galería comercial de Hondori, en el distrito de Naka.
 quickAnswer: GYUMON Hiroshima es un restaurante de yakiniku (carne a la parrilla) muy bien valorado, ubicado en el 4º piso del edificio HM Hondori Kaikan, en la galería comercial de Hondori, en el distrito de Naka, a pocos minutos a pie de la estación de Hondori en la línea Astram y de las paradas del tranvía de Hiroshima (Hiroshima Electric Railway) cerca de Chuden-mae/Kamiyacho. Aquí podrás asar tú mismo en la mesa cortes premium de wagyu japonés y Kuroge Wagyu, así que calcula entre 1,5 y 2 horas y reserva con antelación, dada su reputación de 4,9 estrellas con más de 1.200 reseñas. Ve a cenar, ya que los restaurantes de yakiniku en esta gama de precios suelen brillar más como una experiencia de menú por cortes durante la noche que como una parada rápida para el almuerzo.

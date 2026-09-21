@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: gyeongju-sugyeongsa-gyeongju-restaurant-gyeongju-vegan-hwangridan-gil-vegetarian
+srcHash: 'b2553ef5e3df'
 title: 'Sugyeongsa: dónde comer en Gyeongju'
 description: Sugyeongsa (수경사) es un pequeño restaurante vegano/vegetariano muy bien valorado cerca de Hwangridan-gil, en la zona de Sajeong-dong de Gyeongju, conocido por sus platos de estilo coreano
 quickAnswer: 'Sugyeongsa (수경사) es un pequeño restaurante vegano/vegetariano muy bien valorado, cerca de Hwangridan-gil, en la zona de Sajeong-dong de Gyeongju, popular por sus menús al estilo de la comida de templo coreana (temple food), elaborados con tofu, setas y verduras de temporada. Con una calificación de 4.9 basada en 268 reseñas, merece un pequeño desvío desde la calle turística principal: planifica ir a almorzar, llega temprano o reserva si es posible, y espera un comedor sencillo y tranquilo, no uno llamativo.'

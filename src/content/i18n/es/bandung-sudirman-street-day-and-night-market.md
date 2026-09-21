@@ -1,54 +1,61 @@
 ---
 lang: es
 slug: bandung-sudirman-street-day-and-night-market
-title: 'Sudirman Street Day and Night Market: dónde comer en Bandung'
-description: Sudirman Street Day and Night Market (Jl. Sudirman No.107, Karanganyar, Astanaanyar) es un extenso y muy popular patio de comidas en el oeste de Bandung que mezcla
-quickAnswer: 'Sudirman Street Day and Night Market (Jl. Sudirman No.107, Karanganyar, Astanaanyar) es un extenso y muy popular patio de comidas en el oeste de Bandung que combina bocadillos callejeros chino-indonesios con puestos halal, uno al lado del otro. Ve un día entre semana, hacia las 5–7pm, para evitar la avalancha del fin de semana, lleva efectivo en billetes pequeños y ve picando de varios puestos en lugar de sentarte a comer un solo plato grande: la gracia está en probar varios puestos. Calcula entre una hora y 90 minutos, y combínalo con un paseo previo por las antiguas casas-tienda (shophouses) de Jl. Sudirman.'
+srcHash: '353fdeaf0225'
+title: 'Mercado Diurno y Nocturno de la Calle Sudirman: dónde comer en Bandung'
+description: El Mercado Diurno y Nocturno de la Calle Sudirman (Jl. Sudirman No.107, Karanganyar, Astanaanyar) es un extenso y muy popular patio de comidas en el oeste de Bandung, donde los bocados callejeros chino-indonesios convivan con puestos halal.
+quickAnswer: El Mercado Diurno y Nocturno de la Calle Sudirman (Jl. Sudirman No.107, Karanganyar, Astanaanyar) es un extenso y muy popular patio de comidas en el oeste de Bandung, donde los bocados callejeros chino-indonesios convivan con puestos halal. Conviene ir un día de semana, entre las 17:00 y las 19:00, para evitar la avalancha del fin de semana; conviene llevar efectivo en billetes pequeños y probar un poco de varios puestos en lugar de sentarse a comer un solo plato grande, ya que la idea es ir picando de aquí y de allá. Basta con reservar entre una hora y noventa minutos, y conviene combinar la visita con un paseo previo por las antiguas casas-tienda de Jl. Sudirman.
 faq:
-  - q: ¿Cómo llego a Sudirman Street Day and Night Market?
-    a: Está en Jl. Sudirman No.107, en Astanaanyar, a unos 10–15 minutos en taxi o en Gojek/Grab desde la Stasiun Bandung. No hay conexión ferroviaria directa, así que las apps de transporte son la opción más fácil.
-  - q: ¿Cuánto cuesta comer ahí?
-    a: 'Es un lugar de comida callejera de precio económico a moderado (nivel de precios 2 de 4): la mayoría de los platos son baratos por puesto, y la estrategia es pedir varios platos pequeños en distintos puestos en lugar de un solo plato grande.'
-  - q: ¿Cuál es el mejor momento para visitarlo y evitar las multitudes?
-    a: Las primeras horas de la noche entre semana, más o menos entre las 5 y las 7pm, son más tranquilas que las noches de viernes y sábado, que atraen a las mayores multitudes. El mercado funciona de día y de noche, pero es de noche cuando la mayoría de los puestos están en pleno apogeo.
+  - q: ¿Cómo se llega al Mercado Diurno y Nocturno de la Calle Sudirman?
+    a: Se encuentra en Jl. Sudirman No.107, en Astanaanyar, a unos 10-15 minutos en taxi o en Gojek/Grab desde la Estación de Bandung (Stasiun Bandung). No hay conexión ferroviaria directa, así que las aplicaciones de transporte con conductor son la opción más práctica.
+  - q: ¿Cuánto cuesta comer allí?
+    a: 'Es un lugar de comida callejera de precio económico a moderado (nivel 2 de 4): la mayoría de los platos son baratos en cada puesto, y la estrategia recomendada es pedir varias porciones pequeñas en distintos vendedores en lugar de una sola comida grande.'
+  - q: ¿Cuál es el mejor momento para ir y evitar las multitudes?
+    a: Las primeras horas de la noche entre semana, aproximadamente de 17:00 a 19:00, son más tranquilas que las noches de viernes y sábado, cuando se concentra la mayor cantidad de gente. El mercado funciona de día y de noche, pero es por la noche cuando la mayoría de los puestos están en pleno apogeo.
   - q: ¿Hay comida halal disponible?
-    a: Sí, hay puestos halal que funcionan junto a otros no halal que venden platos chino-indonesios con cerdo. Pregunta en cada puesto o revisa la señalización si la certificación halal es importante para ti.
-  - q: ¿Cuánto tiempo debería planear pasar ahí?
-    a: Entre una hora y 90 minutos es suficiente para recorrer la hilera de puestos, probar algunos y tomar algo de beber; es un mercado para picar e ir avanzando, no un lugar para una cena sentada de varios tiempos.
+    a: Sí, los puestos halal funcionan junto a los que no lo son, estos últimos con platos chino-indonesios que incluyen cerdo. Si la certificación halal es importante para usted, conviene preguntar directamente en cada puesto o buscar los carteles indicativos.
+  - q: ¿Cuánto tiempo conviene planear para la visita?
+    a: Entre una hora y noventa minutos son suficientes para recorrer la fila de puestos, probar algunos platos y tomar algo de beber. No es un lugar para una cena de varios tiempos sentado a la mesa, sino un mercado para ir picando mientras se camina.
 ---
 
 ## Por qué ir
 
-Jl. Sudirman, en el distrito de Astanaanyar en Bandung, ha sido durante mucho tiempo una de las calles con mayor concentración de comida callejera chino-indonesia de la ciudad, y el Sudirman Street Day and Night Market es su expresión más concentrada: decenas de puestos bajo un mismo techo (o toldo continuo), con una calificación de 4.5 basada en más de 17,000 reseñas.
+Jl. Sudirman, en el distrito de Astanaanyar de Bandung, es desde hace tiempo una de las calles con mayor concentración de comida callejera chino-indonesia de la ciudad, y el Mercado Diurno y Nocturno de la Calle Sudirman representa su expresión más condensada: decenas de puestos bajo un mismo techo (o bajo una hilera de toldos), con una calificación de 4,5 sobre más de 17.000 reseñas.
 
-El atractivo no es un solo plato, sino la variedad: clásicos chino-bandungueses como siomay, bakpia, kwetiau goreng y bakmi conviven con bocadillos callejeros sundaneses e indonesios en general, con puestos halal claramente disponibles junto a los no halal. Es un "patio de comidas" en el sentido más laxo del término, más parecido a un bazar nocturno techado que a la zona de comidas de un centro comercial, así que la energía, el ruido y el humo de las parrillas son parte de la experiencia.
+El atractivo no está en un solo plato, sino en la variedad: clásicos chino-bandungueses como el siomay, el bakpia, el kwetiau goreng y el bakmi conviven con bocados sundaneses y otros snacks callejeros indonesios más generales, y entre los puestos no halal hay también puestos halal claramente disponibles.
+
+Se trata de un patio de comidas en el sentido más laxo del término, más parecido a un bazar nocturno techado que a la zona de comida de un centro comercial, así que la energía, el ruido y el humo de las parrillas forman parte de la experiencia.
 
 ## Cómo llegar
 
-El mercado se encuentra en Jl. Sudirman No.107, en Karanganyar, Kecamatan Astanaanyar, en la parte suroeste más antigua del centro de Bandung, no lejos de Jl. Pecinan Lama y del distrito comercial de Pasar Baru, cercanos al barrio chino. Está a unos 10–15 minutos en taxi o en apps de transporte (Gojek/Grab) desde la estación de tren principal de Bandung, la Stasiun Bandung, y a una distancia similar de la plaza Alun-Alun Bandung.
+El mercado se ubica en Jl. Sudirman No.107, en Karanganyar, dentro del distrito (Kecamatan) de Astanaanyar, en la zona más antigua del suroeste del centro de Bandung, no lejos de Jl. Pecinan Lama y del distrito comercial de Pasar Baru, próximos al antiguo barrio chino. El trayecto en taxi o en aplicaciones de transporte con conductor (Gojek/Grab) desde la Estación de Bandung (Stasiun Bandung) dura aproximadamente entre 10 y 15 minutos, y la distancia desde la plaza Alun-Alun Bandung es similar.
 
-No hay conexión directa de tren o metro (Bandung no cuenta con sistema de metro), así que las apps de transporte o un taxi con taxímetro son las opciones prácticas; el tráfico en la propia Jl. Sudirman puede ser intenso al inicio de la noche, así que conviene calcular tiempo extra para llegar hasta la puerta, aunque el mercado en sí quede cerca.
+No existe conexión ferroviaria ni de metro directa —Bandung no cuenta con sistema de metro—, de modo que las aplicaciones de transporte con conductor o un taxi con taxímetro son las opciones más prácticas. El tráfico en la propia Jl. Sudirman puede ser intenso a primera hora de la noche, así que conviene calcular tiempo adicional para llegar hasta la puerta, aunque el mercado en sí quede cerca.
 
 ## Qué comer
 
-Llega con hambre y planea compartir platos entre varios puestos en lugar de llenarte en uno solo. Busca siomay (empanadillas de pescado al vapor con salsa de cacahuate), pasteles estilo bakpia, kwetiau y bakmi goreng, y bocadillos chino-indonesios a la parrilla o fritos que hicieron famoso este tramo de Sudirman mucho antes de que el mercado se formalizara. Equilibra los platos fritos más pesados con algo ácido o fresco, como rujak o una simple bebida con hielo, ya que muchos puestos se inclinan hacia sabores fritos y a la parrilla.
+Conviene llegar con hambre y planear compartir platos entre varios puestos en lugar de saciarse en uno solo. Vale la pena buscar el siomay (empanadillas de pescado al vapor con salsa de cacahuate), pastelillos estilo bakpia, kwetiau y bakmi goreng, y los bocados chino-indonesios a la parrilla o fritos que hicieron famoso este tramo de Sudirman mucho antes de que el mercado se formalizara.
 
-Los puestos halal están mezclados con los no halal que venden platos chinos a base de cerdo, así que si la certificación halal te importa, pregunta directamente en el puesto o busca la señalización en lugar de suponerlo.
+Es recomendable equilibrar los platos fritos, más pesados, con algo ácido o fresco, como un rujak o una simple bebida con hielo, ya que muchos puestos se inclinan hacia sabores fritos y a la parrilla.
+
+Los puestos halal se mezclan con los que no lo son, estos últimos con platos chinos a base de cerdo, así que si la certificación halal le importa, lo mejor es preguntar directamente en el puesto o buscar los carteles indicativos en lugar de darlo por sentado.
 
 ## Cuándo ir
 
-El mercado funciona tanto de día como de noche, pero es en el horario nocturno —aproximadamente desde el inicio de la tarde en adelante— cuando la oferta completa de puestos, la iluminación y la energía de la multitud están en su mejor momento; algunos vendedores especializados en platos a la parrilla hechos al momento solo encienden sus brasas más avanzado el día.
+El mercado funciona tanto de día como de noche, pero es en las horas nocturnas —aproximadamente desde el atardecer en adelante— cuando la oferta completa de puestos, la iluminación y la energía de la multitud alcanzan su mejor momento; algunos vendedores especializados en platos a la parrilla preparados al momento solo encienden sus brasas más tarde. Las noches entre semana son más tranquilas que las de viernes y sábado, cuando la calle se llena tanto de locales como de visitantes y pueden formarse pequeñas filas en los puestos.
 
-Las noches entre semana son más tranquilas que las de viernes y sábado, cuando la calle se llena tanto de locales como de visitantes y puede haber filas cortas en los puestos. Dado el clima tropical de Bandung, un mercado al aire libre o semicubierto como este también resulta más cómodo una vez que baja el calor de la tarde, lo que hace de la noche la opción tanto más práctica como más animada.
+Dado el clima tropical de Bandung, un mercado al aire libre o semicubierto como este resulta también más cómodo una vez que se disipa el calor de la tarde, lo que convierte a la noche tanto en la opción más práctica como en la más animada.
 
 ## Cómo visitarlo como un local
 
-Este es un lugar genuinamente concurrido y conocido, no un hallazgo secreto y poco frecuentado, así que la estrategia más inteligente es escoger bien el horario en lugar de buscar una hora tranquila y secreta que en realidad no existe. Apunta a visitarlo un día entre semana, entre las 5 y las 7pm aproximadamente: después de que baje el tráfico de la salida del trabajo, pero antes de que llegue el pico de la hora de la cena, cuando los puestos están más saturados.
+Este es un lugar genuinamente concurrido y conocido, no un hallazgo secreto y poco frecuentado, así que la estrategia más inteligente pasa por elegir bien el horario y no por buscar una hora tranquila que en realidad no existe. Conviene apuntar a una visita entre semana, aproximadamente entre las 17:00 y las 19:00, cuando ya bajó el tráfico de la salida del trabajo pero todavía no llega el pico de la hora de la cena, el momento en que los puestos están más saturados.
 
-Lleva rupias en billetes pequeños; la mayoría de los vendedores en este tipo de mercado callejero solo aceptan efectivo o lo prefieren, y tener el cambio exacto agiliza los pedidos cuando los puestos están a tope. Pide con frases cortas y directas ("siomay satu, ya" o simplemente señalando y levantando los dedos para indicar la cantidad); los menús elaborados en inglés no son lo habitual aquí.
+Es aconsejable llevar rupias en billetes de denominación pequeña, ya que la mayoría de los vendedores de este tipo de mercado callejero solo aceptan efectivo o lo prefieren, y tener el cambio exacto agiliza los pedidos cuando los puestos están a tope.
 
-No esperes servicio de mesa ni un área de asientos fija ligada a un solo vendedor: consigue un lugar, pide en los puestos que quieras y cuenta con que las mesas se compartan. El error más común de los visitantes es tratarlo como un restaurante para sentarse y hacer un solo pedido grande; el mejor enfoque, y el que permite aprovechar más el mercado, es recorrer primero toda la hilera, ver qué está fresco y qué puestos tienen más movimiento (una fila en un puesto suele ser buena señal) y luego volver a pedir en dos o tres de tus favoritos.
+Lo mejor es pedir con frases cortas y directas ("siomay satu, ya" o simplemente señalando y levantando los dedos para indicar la cantidad), ya que aquí no es habitual encontrar menús elaborados en inglés. No hay que esperar servicio de mesa ni un lugar fijo asignado a un solo vendedor: se busca un sitio, se pide en los puestos que uno quiera y es normal compartir mesa con otros comensales.
 
-## Qué visitar cerca para complementar tu visita
+El error más común entre los visitantes es tratar el lugar como un restaurante tradicional y hacer un solo pedido grande; el mejor enfoque, y el que permite sacarle más partido al mercado, es recorrer primero toda la hilera de puestos, observar qué está fresco y qué puesto tiene más movimiento (una fila en un puesto suele ser buena señal) y luego volver sobre los pasos para pedir en dos o tres de los favoritos.
 
-Jl. Sudirman y la zona de Astanaanyar que la rodea están cerca de las antiguas calles comerciales de influencia china de Bandung y de Pasar Baru, un mercado textil y de mercancías de varios pisos que vale la pena recorrer brevemente antes o después de comer. Si vienes desde puntos emblemáticos del centro de Bandung como el Gedung Sate o los edificios de la época colonial de Jl. Braga, el mercado es una parada lógica para cenar en el camino de regreso hacia la Stasiun Bandung.
+## Qué visitar cerca para completar el paseo
+
+Jl. Sudirman y la zona circundante de Astanaanyar están cerca de las antiguas calles comerciales de influencia china de Bandung y de Pasar Baru, un mercado textil y de mercancías de varios pisos que vale la pena recorrer brevemente antes o después de comer. Para quienes lleguen desde puntos emblemáticos del centro de Bandung, como el Gedung Sate o los edificios de la época colonial de Jl. Braga, el mercado resulta una parada lógica para cenar en el camino de vuelta hacia la Estación de Bandung (Stasiun Bandung).

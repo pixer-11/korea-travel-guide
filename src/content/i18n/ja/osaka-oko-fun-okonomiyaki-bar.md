@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: osaka-oko-fun-okonomiyaki-bar
+srcHash: '4132389ae02c'
 title: OKO - Fun Okonomiyaki Bar:大阪でのおすすめグルメ
 description: OKO - Fun Okonomiyaki Barは、大阪の運河沿いの繁華街、道頓堀(Dotonbori)にあるお手頃価格のお好み焼きカウンター店で、2,500件を超えるレビューで4.7の評価を獲得しています。
 quickAnswer: OKO - Fun Okonomiyaki Barは、大阪の運河沿いの繁華街、道頓堀(Dotonbori)にあるお手頃価格のお好み焼きカウンター店で、2,500件を超えるレビューで4.7の評価を獲得しています。目の前の鉄板で焼き上げる出来立てのお好み焼きやねぎ焼きが目当てで、ディナーのピーク時間帯には多少の待ち時間を見込んでおくと良いでしょう。訪れた後は道頓堀の運河沿いを散策するのもおすすめです。

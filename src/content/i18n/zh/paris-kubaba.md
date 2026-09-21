@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: paris-kubaba
+srcHash: '3e5241a67381'
 title: Kubaba 巴黎餐厅
 description: Kubaba 是由 Dalia Group 的 Benjamin Cohen 与 Julien Casbas 打造的新晋黎凡特风味餐厅，坐落在 Place du Marché Saint-Honoré 附近一间面积达 360 平方米的旧肉铺内。
 quickAnswer: Kubaba 是由 Dalia Group 的 Benjamin Cohen 与 Julien Casbas 打造的新晋黎凡特风味餐厅，坐落在第一区 Place du Marché Saint-Honoré 附近，占据一间面积达 360 平方米的旧肉铺。冲着豹纹地毯、khaïma 帐篷风的戏剧感装潢，以及诸如佐以豆蔻开心果黄油的 malka 面包、tanjia 风味小牛肉等菜品前来吧——这是 2026 年巴黎最受瞩目的开业之一，位子非常抢手，务必提前预订。前往之前请直接向餐厅确认最新营业时间及订位政策。

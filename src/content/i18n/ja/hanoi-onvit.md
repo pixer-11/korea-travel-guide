@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: hanoi-onvit
+srcHash: '721011f8230d'
 title: ハノイのONVIT
 description: ONVITは、カウザイ区(Cau Giay)チャンズイフン通り(Tran Duy Hung)にあるグランド・プラザ・ハノイ・ホテル(Grand Plaza Hanoi Hotel)内の韓国料理高級レストランで、ベトナムで初めてミシュランの星を獲得した韓国料理店として知られています。
 quickAnswer: ONVITは、カウザイ区(Cau Giay)チャンズイフン通り(Tran Duy Hung)にあるグランド・プラザ・ハノイ・ホテル(Grand Plaza Hanoi Hotel)内の韓国料理高級レストランで、ベトナムで初めてミシュランの星(2026年)を獲得した韓国料理店として知られています。韓国とベトナムの融合を感じさせるテイスティングメニューを提供しており、事前予約が必須です。訪問前には必ずレストランまたはホテルのコンシェルジュに最新の営業時間を確認してください。

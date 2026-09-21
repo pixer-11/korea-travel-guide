@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: washington-dc-national-mall
+srcHash: '1065a8660729'
 title: 国家广场（National Mall）：华盛顿特区旅游指南
 description: 国家广场是美国国会大厦与林肯纪念堂之间长达2英里的绿地长廊。
 quickAnswer: 国家广场（National Mall）是美国国会大厦（U.S. Capitol）与林肯纪念堂（Lincoln Memorial）之间长达2英里的绿地长廊，华盛顿纪念碑（Washington Monument）坐落其中，两侧分布着史密森尼博物馆群（Smithsonian museums）以及二战、朝鲜战争、越战老兵、马丁·路德·金（MLK）和富兰克林·罗斯福（FDR）纪念园。这里免费开放，全天24小时不打烊，最适合花半天或一整天时间步行或骑行游览。建议一大早从林肯纪念堂或国会大厦一端出发，以避开人流和高温。

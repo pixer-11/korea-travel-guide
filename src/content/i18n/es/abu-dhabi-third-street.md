@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: abu-dhabi-third-street
+srcHash: '1d16d1794396'
 title: 'Third Street: dónde comer en Abu Dabi'
 description: Third Street es un food court en Mohamed Bin Zayed City (MBZ City), Zona Z4, bien al sur del corredor turístico del centro de Abu Dabi — vale la pena el desvío si buscas
 quickAnswer: Third Street es un food court en Mohamed Bin Zayed City (MBZ City), Zona Z4, bien al sur del corredor turístico del centro de Abu Dabi — vale la pena el desvío si buscas una muestra honesta y sin pretensiones de la cultura gastronómica cotidiana del barrio, en lugar de un restaurante con vistas a la marina. Tiene una sólida calificación de 4.7 con poco más de 100 reseñas, señal de una pequeña pero verdaderamente fiel base de seguidores locales. Ve con hambre, lleva efectivo y cambio a mano, y planea picar en varios puestos en lugar de sentarte a una única gran comida.

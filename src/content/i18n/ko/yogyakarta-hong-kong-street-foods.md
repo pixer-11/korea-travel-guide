@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: yogyakarta-hong-kong-street-foods
+srcHash: '31397d0d0651'
 title: '홍콩 스트리트 푸드(Hong Kong Street Foods): 족자카르타 맛집 탐방'
 description: 홍콩 스트리트 푸드(Hong Kong Street Foods)는 Jl. A.M. Sangaji No. 88에 위치한 중국식 길거리 음식 레스토랑입니다.
 quickAnswer: 홍콩 스트리트 푸드(Hong Kong Street Foods)는 족자카르타(Yogyakarta) 중북부 트갈레조(Tegalrejo)의 Jl. A.M. Sangaji No. 88에 위치한 중국식 길거리 음식 레스토랑으로, 1,100개 이상의 리뷰에서 4.7점의 평점을 받았습니다. 차슈, 완탄면, 딤섬과 비슷한 간식 등 홍콩식 노점 음식을 전문으로 하며, 투구(Tugu)/말리오보로(Malioboro) 지역에서 잠깐 들러 점심이나 저녁을 즐기기 좋은 캐주얼한 분위기입니다. 주말 인파를 피하려면 평일 저녁에 방문하는 것이 좋지만, 아직 외국인 관광객들에게는 잘 알려지지 않은 곳이라 그때도 약간의 대기 시간은 있을 수 있습니다.

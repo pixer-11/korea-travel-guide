@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: hanoi-run-fun-the-eating-room
+srcHash: '76c366e7b446'
 title: Run Fun – The Eating Room 河内探店指南
 description: Run Fun – The Eating Room 位于越南河内，是一家新晋热门餐厅——本文介绍它是什么、位于何处，以及如何前往用餐。
 quickAnswer: Run Fun – The Eating Room 是名厨 Hoang Tung 继他备受赞誉的 T.U.N.G Dining 和 Å by TUNG 之后推出的又一力作，风格轻松随性、活力十足，将他那种充满创意、以食材为核心的越南料理理念带入了一个不铺白桌布的休闲空间。这里最适合那些想尝试创意料理、又不想被套餐（tasting menu）束缚的旅行者——建议约上三五好友一起前往，空腹而来，出发前务必确认营业时间以及是否需要预订，毕竟这是一家刚开业、人气正在迅速攀升的新店。

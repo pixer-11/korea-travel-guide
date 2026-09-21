@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: incheon-forest-outings
+srcHash: 'b02e531f42bf'
 title: 森林外出（Forest Outings）：仁川旅行指南
 description: 森林外出（Forest Outings）是位于仁川延寿区（Yeonsu-gu）青凉路（Cheongnyang-ro）145号的一家大型植物主题咖啡餐厅综合体，以温室风格的用餐空间著称。
 quickAnswer: 森林外出（Forest Outings）是位于仁川延寿区（Yeonsu-gu）青凉路（Cheongnyang-ro）145号的一家大型植物主题咖啡餐厅综合体，最为人称道的是其温室风格的用餐空间和适合拍照的室内“森林”景观。建议选在工作日上午或下午早些时候（11am–1pm）前往，以避开周末人潮——凭借4.4星、2,000+条评价的高人气，周末常常十分拥挤。预算方面属于中高档（₩₩₩），可以享用一整套正餐加甜点，建议留出1.5–2小时用餐并逛逛绿植区域。

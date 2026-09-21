@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: sentosa-lau-pa-sat
+srcHash: '2e77494f0747'
 title: 'Lau Pa Sat: dónde comer cerca de Sentosa'
 description: Lau Pa Sat es un mercado de comida (hawker hall) de estructura victoriana de hierro fundido ubicado en 18 Raffles Quay, en el Downtown Core/CBD, no en la isla de Sentosa, así que calcula unos 20-30 minutos de trayecto.
 quickAnswer: Lau Pa Sat es un mercado de comida (hawker hall) de estructura victoriana de hierro fundido ubicado en 18 Raffles Quay, en el Downtown Core/CBD, no en la isla de Sentosa, así que calcula unos 20-30 minutos de trayecto desde Sentosa. Ve a comer satay en Boon Tat Street al caer la noche, o almuerza un día de semana dentro del salón octagonal para probar clásicos locales como laksa, char kway teow y arroz con pollo hainanés. Procura ir en horas de menor afluencia (media tarde o después de las 9 p.m.), ya que tiene una calificación de 4.4 con más de 38,000 reseñas y se llena mucho a la hora del almuerzo y de la cena.

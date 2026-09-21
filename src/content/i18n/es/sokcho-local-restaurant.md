@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: sokcho-local-restaurant
+srcHash: 'aa225447817a'
 title: Restaurantes locales en Sokcho
 description: Para comer como un local en Sokcho, dirígete al mercado Jungang de Sokcho o a los callejones cercanos al puerto de Daepo y la playa de Sokcho, donde pequeños restaurantes familiares
 quickAnswer: 'Para comer como un local en Sokcho, dirígete al mercado Jungang de Sokcho (Sokcho Jungang Market) o a los callejones cercanos al puerto de Daepo (Daepo Port) y la playa de Sokcho (Sokcho Beach), donde pequeños restaurantes familiares se especializan en los platos emblemáticos de la ciudad: ojingeo sundae (calamar relleno de arroz y verduras), *dak-galbi* y *makguksu* (fideos de trigo sarraceno), y pescado crudo fresco del mar del Este. Ve a la hora del almuerzo entre semana para evitar lo peor de las multitudes de turistas, y no esperes menús en inglés en los locales más auténticos: señalar lo que están comiendo los lugareños funciona perfectamente.'

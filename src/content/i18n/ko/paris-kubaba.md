@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: paris-kubaba
+srcHash: '3e5241a67381'
 title: 파리의 쿠바바(Kubaba)
 description: 쿠바바는 달리아 그룹(Dalia Group)의 뱅자맹 코엔(Benjamin Cohen)과 쥘리앵 카스바(Julien Casbas)가 선보이는 화려한 신규 레반트 레스토랑으로, 1구 근처의 옛 정육점 자리 360제곱미터 공간을 차지하고 있다.
 quickAnswer: 쿠바바는 달리아 그룹(Dalia Group)의 뱅자맹 코엔(Benjamin Cohen)과 쥘리앵 카스바(Julien Casbas)가 선보이는 화려한 신규 레반트 레스토랑으로, 1구(1st arrondissement) 플라스 뒤 마르셰 생토노레(Place du Marché Saint-Honoré) 근처의 옛 정육점 자리 360제곱미터 공간을 차지하고 있다. 표범무늬 카펫과 카이마(khaïma) 텐트풍 연출, 카다멈-피스타치오 버터를 곁들인 말카 빵, 탄지아 스타일 송아지고기 같은 메뉴를 보러 가볼 만하지만 예약은 필수다 — 2026년 파리에서 가장 화제가 된 오픈 중 하나라 테이블 잡기가 쉽지 않다. 방문 전 현재 영업시간과 예약 정책은 레스토랑에 직접 확인할 것.

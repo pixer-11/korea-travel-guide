@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: bangkok-bo-bkk
+srcHash: '9e161d203971'
 title: 曼谷 Bo.bkk 咖啡馆
 description: Bo.bkk 是一家藏身于沙吞（Sathorn）某公寓楼下的贝果咖啡馆，靠近伦披尼公园（Lumphini Park），由 Meep Meep Run Club 跑团团队经营。
 quickAnswer: Bo.bkk 是一家藏身于沙吞（Sathorn）某公寓楼下的贝果咖啡馆，靠近伦披尼公园（Lumphini Park），由 Meep Meep Run Club 跑团团队经营。与其说它是适合坐下来正式用餐的目的地，不如说它更像一个社区聚会场所——去这里喝杯咖啡、吃个贝果，如果恰逢周末早晨到访，还可以加入（或围观）在此集合的跑团活动。由于这是一家新开业不久的店，具体营业时间、菜单以及是否需要预约都可能随时变动，前往之前请务必先确认最新信息。

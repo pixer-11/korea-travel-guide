@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: jakarta-metropolitan-fine-dining
+srcHash: 'f874842100c5'
 title: 'Restaurantes de Alta Cocina en Jakarta: Guía del Visitante para Metropolitan Fine Dining'
 description: 'Metropolitan Fine Dining en Jakarta, Indonesia — un lugar nuevo y de moda: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Metropolitan Fine Dining es un restaurante de cocina europea moderna recién inaugurado en el SCBD (Sudirman Central Business District) de Jakarta, conocido por sus interiores de mármol, sus vistas del horizonte de piso a techo y una creciente popularidad entre el público ejecutivo de la ciudad desde su apertura a principios de julio de 2026. Es ideal para una cena elegante o un almuerzo de negocios, con reserva previa recomendada; conviene confirmar directamente el horario actual y el menú antes de ir, ya que, al tratarse de un local recién abierto, aún se están definiendo varios detalles.

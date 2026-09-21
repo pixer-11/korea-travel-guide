@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: krabi-lan-lek-lek
+srcHash: '53e874757dac'
 title: 兰莱莱(Lan Lek Lek):甲米美食推荐
 description: 兰莱莱(Lan Lek Lek)是甲米镇(Krabi Town)Soi Maharaj 10巷内一家朴实无华、价格亲民的泰式小吃店,从Chao Fah Pier夜市步行或搭乘嘟嘟车即可到达。
 quickAnswer: 兰莱莱(Lan Lek Lek)是甲米镇(Krabi Town)Soi Maharaj 10巷内一家朴实无华、价格亲民的泰式小吃店,从Chao Fah Pier夜市一带步行或搭乘嘟嘟车都能轻松到达。最适合在午餐或早点的晚餐时段前往,这时厨房出品最新鲜、排队人也较少——店内座位简单,点餐吃饭的节奏很快,评分也是全城平价餐厅中数一数二的高(4.8分,超过1,200条评价)。记得空腹前往、备好现金,菜单不会有太完整的英文说明——直接指着别人正在吃的菜点单就行。

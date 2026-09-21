@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: hanoi-run-fun-the-eating-room
+srcHash: '76c366e7b446'
 title: ラン・ファン(Run Fun) – The Eating Room in ハノイ:訪問ガイド
 description: ベトナム・ハノイの新進気鋭スポット、ラン・ファン(Run Fun) – The Eating Room を紹介——どんな店で、どこにあり、どう訪れればいいか。
 quickAnswer: ラン・ファン(Run Fun) – The Eating Room は、名店T.U.N.G DiningやÅ by TUNGで知られるシェフ、ホアン・トゥン(Hoang Tung)によるカジュアルで活気ある新業態です。白いテーブルクロスのない、リラックスした空間で、素材を生かした遊び心あふれるベトナム料理という彼のスタイルを楽しめます。テイスティングメニューに縛られず独創的な料理を味わいたい旅行者に最適で、少人数のグループで空腹の状態で訪れるのがおすすめです。新規オープンで急速に話題を集めているスポットのため、営業時間や予約の要否は事前に確認してください。

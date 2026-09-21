@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: sentosa-the-coach-coffee-shop-resorts-world-sentosa-weave
+srcHash: '54c5e7ec065d'
 title: '더 코치 커피숍 (리조트 월드 센토사 WEAVE): 여행 가이드'
 description: 더 코치 커피숍(The Coach Coffee Shop)은 센토사 섬(Sentosa) 26 Sentosa Gateway에 위치한 리조트 월드 센토사(Resorts World Sentosa) WEAVE 구역 안에 있는 카페로, 센토사 익스프레스를 이용해 가는 것이 가장 좋습니다
 quickAnswer: 더 코치 커피숍(The Coach Coffee Shop)은 센토사 섬(Sentosa) 26 Sentosa Gateway에 위치한 리조트 월드 센토사(Resorts World Sentosa) WEAVE 구역 안에 있는 카페로, 센토사 익스프레스(Waterfront Station)를 이용하거나 비보시티(Vivocity)의 센토사 보드워크(Sentosa Boardwalk)를 따라 걸어서 가는 것이 가장 좋습니다. 마차·빈티지 여행을 테마로 한 인테리어와 스페셜티 커피, 종일 브런치 메뉴로 잘 알려져 있으며, 방문에는 45~75분 정도를 예상하면 되고 주말 리조트 혼잡을 피하려면 평일 오전에 가는 것이 좋습니다. 4,100개 이상의 리뷰에서 평점 4.9를 기록할 만큼 실제로 방문객이 많은 곳이므로, 한적한 숨은 명소를 기대하기보다는 점심·저녁 피크 시간대를 피해 일정을 짜는 것이 좋습니다.

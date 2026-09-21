@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: sentosa-the-coach-coffee-shop-resorts-world-sentosa-weave
+srcHash: '54c5e7ec065d'
 title: 'The Coach Coffee Shop (Resorts World Sentosa WEAVE): Guía de viaje'
 description: The Coach Coffee Shop es una cafetería dentro del recinto WEAVE de Resorts World Sentosa, en 26 Sentosa Gateway, en la isla de Sentosa, a la que se llega mejor mediante el Sentosa Express
 quickAnswer: The Coach Coffee Shop es una cafetería dentro del recinto WEAVE de Resorts World Sentosa, en 26 Sentosa Gateway, en la isla de Sentosa, a la que se llega mejor mediante el Sentosa Express (estación Waterfront) o caminando desde el Sentosa Boardwalk de Vivocity. Es conocida por su temática de diseño inspirada en los viajes en carruaje/estilo vintage, su café de especialidad y sus platos de brunch disponibles todo el día — calcula entre 45 y 75 minutos, y ve un día de semana por la mañana para evitar las multitudes de fin de semana del resort. Con una calificación de 4.9 en más de 4,100 reseñas, es un lugar genuinamente concurrido, así que planifica en torno a las horas pico de almuerzo y cena en lugar de esperar encontrarlo tranquilo.

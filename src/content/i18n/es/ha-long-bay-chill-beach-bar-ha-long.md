@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: ha-long-bay-chill-beach-bar-ha-long
+srcHash: '37b806710c5f'
 title: 'Chill Beach Bar - Hạ Long: Dónde comer en la bahía de Ha Long'
 description: Chill Beach Bar está justo en la playa de Bãi Cháy, en la ciudad de Ha Long, a poca distancia a pie de la Sun Wheel y del paseo marítimo — ideal para ir a última hora de la tarde.
 quickAnswer: 'Chill Beach Bar está justo en la playa de Bãi Cháy (Bãi Cháy Beach), en la ciudad de Ha Long, a poca distancia a pie de la Sun Wheel y del paseo marítimo — ve a última hora de la tarde para ver la puesta de sol sobre la bahía y quédate hasta la noche, cuando se encienden las luces de la zona. Es un bar-restaurante informal, no de alta cocina: piensa en marisco a la parrilla, cerveza fría, cócteles y tumbonas de playa con los pies prácticamente en la arena. Calcula entre 1,5 y 2 horas, y llega antes de las 5pm los fines de semana para conseguir un lugar en primera línea frente al agua.'

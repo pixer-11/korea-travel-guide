@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: sokcho-huindajeong
+srcHash: '9d9994bed85e'
 title: 束草喜茵茶亭（Huindajeong）旅游指南
 description: 喜茵茶亭（Huindajeong）是束草水福路（Subok-ro）一带一家时尚的海鲜咖啡厅，以海景座位和悠闲的东海氛围著称，而非以某道招牌菜出名。
 quickAnswer: 喜茵茶亭（Huindajeong）是束草水福路（Subok-ro）一带一家时尚的海鲜咖啡厅，以海景座位和悠闲的东海氛围著称，而非以某道招牌菜出名。建议安排1—1.5小时游览，选在工作日上午或傍晚前往可避开周末人潮，并可与附近的海滩散步或前往束草港口市场的自驾游结合起来。

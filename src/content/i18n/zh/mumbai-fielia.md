@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: mumbai-fielia
+srcHash: '95433e3165e5'
 title: Fielia in孟买(Mumbai)
 description: Fielia是一家仅限受邀入场的"鸡尾酒电影院"酒吧，由高丽·汗（Gauri Khan）操刀设计，坐落于孟买马哈拉克希米赛马场（Mahalaxmi Race Course）内一座有百年历史的磨坊建筑中，目前是这座城市中最难预订的场所之一。
 quickAnswer: Fielia是一家仅限受邀入场的"鸡尾酒电影院"酒吧，由高丽·汗（Gauri Khan）操刀设计，坐落于孟买马哈拉克希米赛马场（Mahalaxmi Race Course）内一座有百年历史的磨坊建筑中，目前是这座城市中最难预订的场所之一。由于入场受限，大多数访客需要通过私人关系、酒店礼宾服务，或场地自身渠道发出的邀请，而非直接上门预订。由于这类新晋热门场所的相关信息变化很快，请在计划出行前直接确认最新的入场政策和营业时间。

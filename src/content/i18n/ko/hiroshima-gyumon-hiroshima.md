@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: hiroshima-gyumon-hiroshima
+srcHash: '28b0d9791276'
 title: 'GYUMON: 히로시마 맛집 탐방'
 description: GYUMON 히로시마는 나카구(Naka Ward) 혼도리(Hondori) 상점가에 위치한 HM 혼도리 카이칸(HM Hondori Kaikan) 건물 4층에 자리한 평점 높은 야키니쿠(구운 소고기) 레스토랑입니다.
 quickAnswer: GYUMON 히로시마는 나카구(Naka Ward) 혼도리(Hondori) 상점가에 위치한 HM 혼도리 카이칸(HM Hondori Kaikan) 건물 4층에 자리한 평점 높은 야키니쿠(구운 소고기) 레스토랑으로, 아스트램 라인(Astram Line) 혼도리역(Hondori Station)과 히로시마 전철(노면전차, Hiroshima Electric Railway) 추덴마에(Chuden-mae)/가미야초(Kamiyacho) 인근 정류장에서 도보 몇 분 거리에 있습니다. 고급 일본산 와규와 구로게 와규(Kuroge Wagyu) 부위를 테이블에서 직접 구워 먹는 곳이니 1.5~2시간 정도 여유를 두고, 4.9점에 1,200개 이상의 리뷰를 받은 인기 매장인 만큼 미리 예약하는 것이 좋습니다. 이 가격대의 야키니쿠 레스토랑은 간단한 점심보다는 저녁 코스 요리로 진가를 발휘하는 경우가 많으니 저녁 시간에 방문하는 것을 추천합니다.

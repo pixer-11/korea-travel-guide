@@ -32,7 +32,7 @@ function fixture({ draft = true, koBody = '이것은 한국어 문단입니다.\
   );
   writeFileSync(
     join(dir, 'src', 'content', 'i18n', 'ko', 'ghost-cafe.md'),
-    `---\ntitle: "유령 카페"\ndescription: "카페입니다."\n---\n\n${koBody}`,
+    `---\ntitle: "유령 카페"\ndescription: "카페입니다."\nsrcHash: aaaaaaaaaaaa\n---\n\n${koBody}`,
   );
   return dir;
 }
@@ -66,7 +66,7 @@ test('깨끗한 번역이면 --slugs 모드도 조용히 통과한다', () => {
     );
     writeFileSync(
       join(dir, 'src', 'content', 'i18n', 'ko', 'ghost-cafe.md'),
-      '---\ntitle: "유령 카페"\ndescription: "카페입니다."\n---\n\n이것은 한국어 문단입니다.\n',
+      '---\ntitle: "유령 카페"\ndescription: "카페입니다."\nsrcHash: aaaaaaaaaaaa\n---\n\n이것은 한국어 문단입니다.\n',
     );
     const r = run(dir, ['--slugs=ghost-cafe']);
     assert.equal(r.status, 0, r.stdout + r.stderr);

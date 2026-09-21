@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: busan-jeonpo-cafe-street
+srcHash: 'f99fad8669d1'
 title: 'Jeonpo Cafe Street: Guía de viaje de Busan'
 description: Jeonpo Cafe Street (전포카페거리) es una densa concentración de cafeterías, panaderías y pequeños bares de diseño a lo largo de Dongcheon-ro, en el distrito de Busanjin, a la que se llega mejor a través de
 quickAnswer: Jeonpo Cafe Street (전포카페거리) es una densa concentración de cafeterías, panaderías y pequeños bares de diseño a lo largo de Dongcheon-ro, en el distrito de Busanjin, a la que se llega mejor caminando desde la estación de Seomyeon (Seomyeon Station, líneas 1 y 2) en unos 10-15 minutos. Conviene reservar entre 2 y 3 horas tranquilas por la tarde o por la noche, recorriendo unas pocas cafeterías en lugar de intentar verlo todo. Las tardes entre semana son notablemente más tranquilas que las noches de fin de semana, cuando las calles estrechas se llenan de jóvenes locales.

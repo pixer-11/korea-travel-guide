@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: jakarta-metropolitan-fine-dining
+srcHash: 'f874842100c5'
 title: 雅加达高端餐厅指南：Metropolitan Fine Dining 探店攻略
 description: Metropolitan Fine Dining 是印尼雅加达（Jakarta）新晋热门餐厅——本文介绍它是什么、位于何处，以及如何前往探访。
 quickAnswer: Metropolitan Fine Dining 是一家全新的现代欧式餐厅，位于雅加达的 SCBD（苏迪曼中央商务区，Sudirman Central Business District），以大理石内饰、落地窗天际线景观著称，自2026年7月初开业以来迅速在城中高管圈层中积累了大批拥趸。这里最适合安排一场盛装出席的晚餐或商务午餐，建议提前预订——由于是新开业场所，具体营业时间和菜单细节仍在调整中，出发前请直接与餐厅确认最新信息。

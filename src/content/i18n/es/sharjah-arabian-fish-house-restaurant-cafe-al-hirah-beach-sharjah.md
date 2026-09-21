@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: sharjah-arabian-fish-house-restaurant-cafe-al-hirah-beach-sharjah
+srcHash: 'a8cfe8ef548c'
 title: 'Arabian Fish House Restaurant & Cafe - Playa de Al Hirah: Dónde comer en Sharjah'
 description: Arabian Fish House, en la playa de Al Hirah (Al Heera), es un restaurante de mariscos informal frente al mar, conocido por su pescado entero a la parrilla vendido por peso, con precios de rango medio.
 quickAnswer: 'Arabian Fish House, en la playa de Al Hirah (Al Heera), es un restaurante de mariscos informal frente al mar, conocido por su pescado entero a la parrilla vendido por peso, con precios de rango medio (nivel de precio 2) y una calificación excepcional de 4.9 basada en casi 8,000 reseñas. Es realmente popular, así que procura ir a cenar temprano (antes de las 7pm) o a almorzar entre semana para evitar las filas, y ve con hambre: las porciones y el entorno junto al mar son el gran atractivo.'

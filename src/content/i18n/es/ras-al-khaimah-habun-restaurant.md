@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: ras-al-khaimah-habun-restaurant
+srcHash: 'dcacf09929ad'
 title: 'Restaurante Habun: dónde comer en Ras Al Khaimah'
 description: El restaurante Habun se encuentra en Grove Village, Khuzam, una zona residencial de la ciudad de Ras Al Khaimah tierra adentro desde la Corniche, y se ha ganado una reputación de 4,8 estrellas
 quickAnswer: El restaurante Habun se encuentra en Grove Village, Khuzam, una zona residencial de la ciudad de Ras Al Khaimah tierra adentro desde la Corniche, y se ha ganado una reputación de 4,8 estrellas a partir de 642 reseñas sin convertirse en una parada turística. Lo mejor es planteárselo como un destino para cenar, al que se llega en taxi o coche de alquiler, idealmente en una noche entre semana, cuando el comedor está tranquilo y la cocina tiene tiempo de guiarte por el menú.

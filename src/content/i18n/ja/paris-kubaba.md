@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: paris-kubaba
+srcHash: '3e5241a67381'
 title: パリのクババ(Kubaba)
 description: クババは、Dalia GroupのBenjamin CohenとJulien Casbasによる話題の新しいレバント料理レストランで、360平方メートルの元精肉店を改装した空間が特徴です。
 quickAnswer: クババは、Dalia GroupのBenjamin CohenとJulien Casbasによる話題の新しいレバント料理レストランで、1区のPlace du Marché Saint-Honoré近くにある360平方メートルの元精肉店を改装した空間で営業しています。豹柄カーペットやキャイマ(khaïma)テント風の演出、カルダモン・ピスタチオバターを添えたマルカ(malka)パンやタンジア(tanjia)風仔牛肉といった料理が見どころですが、予約は必須です——パリで最も話題の2026年オープン店のひとつとして、席の確保は簡単ではありません。訪問前に必ず営業時間と予約方針を直接レストランに確認してください。

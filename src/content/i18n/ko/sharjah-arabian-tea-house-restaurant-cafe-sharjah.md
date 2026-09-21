@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: sharjah-arabian-tea-house-restaurant-cafe-sharjah
+srcHash: 'd54ab5255ec8'
 title: '아라비안 티 하우스 레스토랑 & 카페: 샤르자 맛집 가이드'
 description: 샤르자(Sharjah) 헤리티지 지구(Heart of Sharjah)에 위치한 아라비안 티 하우스 레스토랑 & 카페는 전통 에미라티 및 아라비안 스타일의 아침 식사, 카락 티(karak tea), 그리고 오래 조리한 지역 요리를 선보입니다.
 quickAnswer: 샤르자 헤리티지 지구(Heart of Sharjah) 안에 위치한 아라비안 티 하우스 레스토랑 & 카페는 복원된 알 샤나시야 수크(Al Shanasiyah souq) 내 안뜰 좌석에서 전통 에미라티 및 아라비안 스타일 아침 식사, 카락 티, 그리고 오래 조리한 지역 요리를 선보입니다. 매우 인기가 많으며(평점 4.7, 리뷰 6,350개 이상) 가격대는 중간 수준이므로, 가장 붐비는 시간대를 피하려면 평일 아침이나 늦은 오후 방문을 추천합니다. 45~90분 정도 시간을 잡고, 헤리티지 지구 산책과 함께 즐기기 좋습니다.

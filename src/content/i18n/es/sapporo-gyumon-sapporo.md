@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: sapporo-gyumon-sapporo
+srcHash: '00ab1ea87d36'
 title: 'GYUMON: Dónde comer en Sapporo'
 description: GYUMON Sapporo es un restaurante de yakiniku (carne a la parrilla al estilo japonés) ubicado en un sótano del distrito de Susukino, en el barrio de Chuo, especializado en wagyu premium de Hokkaido
 quickAnswer: 'GYUMON Sapporo es un restaurante de yakiniku (carne a la parrilla al estilo japonés) ubicado en un sótano del distrito de Susukino, en el barrio de Chuo, especializado en wagyu premium de Hokkaido y menús de carne que se asan directamente en la mesa. Cuenta con una calificación excepcionalmente alta de 4.9 en más de 3,100 reseñas, así que conviene reservar con antelación: presentarse sin reserva las noches de fin de semana es arriesgado. Calcula al menos entre 90 minutos y dos horas para disfrutar de una experiencia completa de varios tiempos a la parrilla.'

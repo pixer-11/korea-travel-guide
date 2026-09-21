@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: washington-dc-national-mall
+srcHash: '1065a8660729'
 title: '내셔널 몰: 워싱턴 D.C. 여행 가이드'
 description: 내셔널 몰은 미국 국회의사당과 링컨 기념관 사이에 펼쳐진 약 2마일 길이의 잔디 광장 지대입니다.
 quickAnswer: 내셔널 몰(National Mall)은 국회의사당(U.S. Capitol)과 링컨 기념관(Lincoln Memorial) 사이에 펼쳐진 2마일 길이의 잔디 광장 지대로, 워싱턴 기념탑(Washington Monument)을 중심으로 스미스소니언(Smithsonian) 박물관들과 2차 세계대전, 한국전쟁, 베트남전 참전용사, 마틴 루터 킹(MLK), FDR 기념관들이 양옆으로 늘어서 있습니다. 무료이며 24시간 개방되어 있고, 반나절이나 하루 코스로 도보나 자전거로 둘러보기 좋습니다. 인파와 더위를 피하려면 링컨 기념관이나 국회의사당 쪽 끝에서 이른 시간에 출발하세요.

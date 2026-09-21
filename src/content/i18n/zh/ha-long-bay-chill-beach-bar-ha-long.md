@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: ha-long-bay-chill-beach-bar-ha-long
+srcHash: '37b806710c5f'
 title: Chill Beach Bar - 下龙:下龙湾美食去处推荐
 description: Chill Beach Bar 就坐落在下龙市(Ha Long City)的鸡笼海滩(Bãi Cháy Beach)边上,距太阳轮(Sun Wheel)和海滨长廊仅几步之遥——傍晚时分前来,可欣赏海湾日落美景。
 quickAnswer: Chill Beach Bar 就坐落在下龙市(Ha Long City)的鸡笼海滩(Bãi Cháy Beach)边上,距太阳轮(Sun Wheel)和海滨长廊仅几步之遥——傍晚时分前来可欣赏海湾日落美景,夜幕降临后整条海滩灯光亮起,氛围更佳,不妨多待一会儿。这里是一家休闲酒吧餐厅,而非精致餐厅:烤海鲜、冰啤酒、鸡尾酒,再加上几乎能踩到沙滩的沙滩躺椅。建议预留1.5-2小时,周末最好在下午5点前抵达,才能占到面朝大海的前排座位。

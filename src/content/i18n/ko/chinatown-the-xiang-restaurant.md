@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: chinatown-the-xiang-restaurant
+srcHash: 'e77ea70b9304'
 title: '샹 레스토랑(The Xiang Restaurant): 차이나타운 맛집 탐방'
 description: 스미스 스트리트(Smith Street) 8번지, 차이나타운 푸드 스트리트(Chinatown Food Street) 안쪽에 자리한 샹 레스토랑(湘厨湖南菜)은 매콤하고 훈연 향 가득한 쿠민 향신료 요리로 유명한 후난식 중국 음식점이다.
 quickAnswer: 스미스 스트리트(Smith Street) 8번지에 위치한 샹 레스토랑(The Xiang Restaurant, 湘厨湖南菜)은 차이나타운 푸드 스트리트(Chinatown Food Street) 한켠에 자리한 후난식 중국 레스토랑으로, 이 지역을 장악하고 있는 흔한 광둥식·차오저우식 요리 대신 맵고 훈연 향 가득한 쿠민 풍미 요리로 사랑받는 곳이다. 거의 1,000개에 달하는 리뷰에서 4.8점의 평점을 기록하고 있어, 우연히 발견하기보다는 일부러 찾아갈 만한 가치가 있다. 배를 든든히 비우고 여럿이서 가서 다양한 메뉴를 시켜보길 추천하며, 순화된 버전이 아닌 진짜 후난식 매운맛을 각오해야 한다.

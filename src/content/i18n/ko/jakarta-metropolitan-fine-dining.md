@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: jakarta-metropolitan-fine-dining
+srcHash: 'f874842100c5'
 title: 자카르타 메트로폴리탄 파인 다이닝 방문 가이드
 description: 인도네시아 자카르타(Jakarta)의 새롭게 떠오르는 명소, 메트로폴리탄 파인 다이닝(Metropolitan Fine Dining) — 어떤 곳인지, 위치는 어디인지, 방문 방법은 무엇인지 안내합니다.
 quickAnswer: 메트로폴리탄 파인 다이닝은 자카르타 SCBD(수디르만 중심업무지구, Sudirman Central Business District)에 새로 문을 연 모던 유러피언 레스토랑으로, 대리석 인테리어와 바닥부터 천장까지 이어지는 스카이라인 전망으로 유명하며 2026년 7월 초 개업 이후 도시 임원층 사이에서 빠르게 팬층을 넓혀가고 있습니다. 격식 있는 저녁 식사나 비즈니스 오찬에 방문하기 좋으며, 예약을 미리 해두는 것이 좋습니다 — 신규 개장 매장이라 세부 사항이 아직 정비 중이므로 방문 전 현재 영업시간과 메뉴를 직접 확인하세요.

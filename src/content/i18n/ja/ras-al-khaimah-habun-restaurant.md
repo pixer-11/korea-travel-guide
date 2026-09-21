@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: ras-al-khaimah-habun-restaurant
+srcHash: 'dcacf09929ad'
 title: Habun Restaurant:ラス・アル・ハイマでの食事はここで
 description: Habun Restaurantは、コルニッシュから内陸に入ったラス・アル・ハイマ市の住宅街クザム(Khuzam)にあるグローブ・ビレッジ(Grove Village)に位置し、4.8つ星の評価を築いています。
 quickAnswer: Habun Restaurantは、コルニッシュから内陸に入ったラス・アル・ハイマ市の住宅街クザム(Khuzam)にあるグローブ・ビレッジ(Grove Village)に位置し、観光地化することなく642件のレビューから4.8つ星という評価を築き上げてきました。タクシーやレンタカーで訪れるディナー先として捉えるのがベストで、ダイニングルームが落ち着いていてキッチンスタッフがメニューをじっくり説明してくれる平日の夜がおすすめです。

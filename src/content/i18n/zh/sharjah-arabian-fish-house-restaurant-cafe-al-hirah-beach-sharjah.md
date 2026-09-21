@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: sharjah-arabian-fish-house-restaurant-cafe-al-hirah-beach-sharjah
+srcHash: 'a8cfe8ef548c'
 title: Arabian Fish House 海鲜餐厅与咖啡馆 - Al Hirah 海滩：沙迦美食推荐
 description: Arabian Fish House 位于 Al Hirah（Al Heera）海滩，是一家轻松惬意的滨海海鲜餐厅，以按重量出售的整条烤鱼闻名，价格中等（消费等级 2）。
 quickAnswer: Arabian Fish House 位于 Al Hirah（Al Heera）海滩，是一家轻松惬意的滨海海鲜餐厅，以按重量出售的整条烤鱼闻名，价格中等（消费等级 2），近 8,000 条评价给出了高达 4.9 分的超高评分。这里人气很旺，建议尽量选择较早的晚餐时段（7点前）或工作日午餐时间前往，以避开排队；同时最好空腹前来——丰盛的分量和滨海环境正是这里的魅力所在。

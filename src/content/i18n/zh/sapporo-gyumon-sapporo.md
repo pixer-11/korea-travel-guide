@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: sapporo-gyumon-sapporo
+srcHash: '00ab1ea87d36'
 title: GYUMON:札幌美食推荐
 description: GYUMON札幌店是位于中央区薄野（Susukino）地区的一家地下烧肉餐厅，主打北海道顶级和牛及餐桌现烤牛肉套餐。
 quickAnswer: GYUMON札幌店是位于中央区薄野（Susukino）地区的一家地下烧肉餐厅，主打北海道顶级和牛及餐桌现烤牛肉套餐。该店在3100多条点评中保持了4.9分的超高评分，因此建议提前预约——周末夜晚临时到店用餐风险较大。若想体验完整的多道式烤肉套餐，请预留至少90分钟到两小时的用餐时间。

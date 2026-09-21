@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: osaka-oko-fun-okonomiyaki-bar
+srcHash: '4132389ae02c'
 title: OKO - Fun Okonomiyaki Bar：大阪美食推荐
 description: OKO - Fun Okonomiyaki Bar是位于大阪运河边娱乐区道顿堀（Dotonbori）的平价御好烧小店，在超过2,500条评价中获得4.7分好评。
 quickAnswer: OKO - Fun Okonomiyaki Bar是位于大阪运河边娱乐区道顿堀（Dotonbori）的平价御好烧小店，在超过2,500条评价中获得4.7分好评。来这里可以品尝在你面前的铁板上现做的御好烧和葱烧（negiyaki），晚餐高峰时段要有短暂排队的心理准备，用餐后不妨沿着道顿堀运河散散步。

@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: gyeongju-sugyeongsa-gyeongju-restaurant-gyeongju-vegan-hwangridan-gil-vegetarian
+srcHash: 'b2553ef5e3df'
 title: 水晶寺(音译:sugyeongsa):庆州美食指南
 description: 水晶寺(수경사)是庆州皇理团街(Hwangridan-gil)附近沙正洞(Sajeong-dong)一带一家小巧却评价极高的纯素/素食餐厅,以韩式风格的套餐广受欢迎。
 quickAnswer: 水晶寺(수경사)是庆州皇理团街(Hwangridan-gil)附近沙正洞(Sajeong-dong)一带一家小巧却评价极高的纯素/素食餐厅,以豆腐、菌菇和时令蔬菜为基础的韩式寺院料理风格套餐广受欢迎。凭借268条评价中4.9的高分,这里值得从主要旅游街区稍作绕行——建议安排在午餐时段前往,尽量早到或提前预订,店内环境朴素、氛围悠闲,并不算装潢华丽。

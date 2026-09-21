@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: chinatown-the-xiang-restaurant
+srcHash: 'e77ea70b9304'
 title: 'The Xiang Restaurant: dónde comer en Chinatown'
 description: The Xiang Restaurant (湘厨湖南菜), en 8 Smith Street, es un restaurante chino de estilo Hunan escondido en Chinatown Food Street, apreciado por sus platos picantes, ahumados y con toques de comino
 quickAnswer: 'The Xiang Restaurant (湘厨湖南菜), en 8 Smith Street, es un restaurante chino de estilo Hunan escondido en Chinatown Food Street, apreciado por sus platos picantes, ahumados y con toques de comino, en lugar de la típica comida cantonesa/teochew que domina la zona. Con una calificación de 4.8 en casi 1,000 reseñas, vale la pena buscarlo a propósito en lugar de encontrarlo por casualidad: ve con hambre, ve en grupo para poder pedir variedad, y espera el picante auténtico de Hunan, no la versión suavizada.'

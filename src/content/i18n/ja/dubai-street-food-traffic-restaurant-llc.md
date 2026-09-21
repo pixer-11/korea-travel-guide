@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: dubai-street-food-traffic-restaurant-llc
+srcHash: '2f6117dde194'
 title: Street Food Traffic Restaurant LLC:ドバイで食事するならここ
 description: Street Food Traffic Restaurant LLCは、Midtown by Deyaarの複合施設内(Shop 1, AFNAN 01)にひっそりと佇む、カジュアルながら高評価(4.7★、688件のレビュー)なストリートフードの名店です。
 quickAnswer: Street Food Traffic Restaurant LLCは、ドバイ・プロダクション・シティ(Dubai Production City、DPC)内、Al FurjanとJumeirah Village Circleの近くにあるMidtown by Deyaarの複合施設(Shop 1, AFNAN 01)にひっそりと佇む、カジュアルながら高評価(4.7★、688件のレビュー)なストリートフードの名店です。観光地から離れた場所で、グリル料理や南アジア・中東系のストリートフードの定番メニューを、リラックスした雰囲気で予算を抑えて楽しむのに最適な場所です。滞在時間の目安は45〜75分、現金・カードどちらも概ね利用可能で、住宅街ならではのディナータイムの混雑を避けるなら平日の夜がおすすめです。

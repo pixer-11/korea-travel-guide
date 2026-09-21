@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: ho-chi-minh-city-upstairs
+srcHash: '59e3d7dfa8b0'
 title: 'Upstairs en Ciudad Ho Chi Minh: guía para visitantes'
 description: 'Upstairs en Ciudad Ho Chi Minh (Ho Chi Minh City), Vietnam — un local nuevo y en auge: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Upstairs es un pequeño restaurante de alta cocina, solo con reserva, en Ciudad Ho Chi Minh que ofrece un menú degustación de cocina vietnamita moderna con raíces en la cocina del centro de Vietnam. Obtuvo su primera Estrella MICHELIN en la guía 2026 después de tan solo 18 meses abierto. Reserva con mucha antelación, llega puntual y reserva toda una velada (entre dos y tres horas aproximadamente) para la experiencia del menú degustación.

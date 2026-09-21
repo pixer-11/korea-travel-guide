@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: chinatown-the-xiang-restaurant
+srcHash: 'e77ea70b9304'
 title: 湘厨湖南菜:牛车水美食街的用餐去处
 description: 湘厨湖南菜（The Xiang Restaurant）位于史密斯街8号（8 Smith Street），是牛车水美食街上一家湖南风味中餐馆，以火辣、烟熏、孜然味浓郁的菜肴著称
 quickAnswer: 湘厨湖南菜（The Xiang Restaurant）位于史密斯街8号（8 Smith Street），是牛车水美食街（Chinatown Food Street）上一家湖南风味中餐馆，以火辣、烟熏、孜然味浓郁的菜肴见长，风格迥异于这一带常见的粤菜或潮州菜。凭借近1,000条评价、4.8分的高评分，这家店值得专程前往，而非随意路过发现——最好空着肚子、结伴而来，这样能多点几道菜，也要做好准备品尝真正的湖南辣，而非改良清淡版。

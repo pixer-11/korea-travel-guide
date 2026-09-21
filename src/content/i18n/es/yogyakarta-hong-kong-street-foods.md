@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: yogyakarta-hong-kong-street-foods
+srcHash: '31397d0d0651'
 title: 'Hong Kong Street Foods: dónde comer en Yogyakarta'
 description: Hong Kong Street Foods es un restaurante de comida callejera china en Jl. A.M. Sangaji No. 88.
 quickAnswer: Hong Kong Street Foods es un restaurante de comida callejera china en Jl. A.M. Sangaji No. 88, en Tegalrejo, en el centro-norte de Yogyakarta, con una calificación de 4.7 basada en más de 1,100 reseñas. Se especializa en platos al estilo de los puestos callejeros de Hong Kong —piensa en char siu, fideos con wonton y bocados cercanos al dim sum— servidos en un ambiente informal, ideal para un almuerzo rápido o una parada para cenar cerca de la zona de Tugu/Malioboro. Ve un día de semana por la noche para evitar el ajetreo del fin de semana, aunque incluso así hay que esperar un poco, ya que todavía pasa bastante desapercibido para los turistas extranjeros.

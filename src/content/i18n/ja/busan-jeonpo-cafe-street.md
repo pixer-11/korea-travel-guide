@@ -1,6 +1,7 @@
 ---
 lang: ja
 slug: busan-jeonpo-cafe-street
+srcHash: 'f99fad8669d1'
 title: 全浦カフェ通り(チョンポカペゴリ):釜山旅行ガイド
 description: |-
   全浦カフェ通り(전포카페거리)は、釜山鎮区(プサンジンク)のトンチョン路(Dongcheon-ro)沿いに、デザイン性の高いカフェやベーカリー、小さなバーが密集するエリア。ソミョン駅(Seomyeon Station、1号線・2号線)から徒歩で訪れるのがおすすめです。</description>

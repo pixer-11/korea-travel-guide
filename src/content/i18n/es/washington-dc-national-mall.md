@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: washington-dc-national-mall
+srcHash: '1065a8660729'
 title: 'National Mall: Guía de viaje de Washington DC'
 description: El National Mall es el corredor verde de 2 millas entre el Capitolio de EE. UU.
 quickAnswer: El National Mall es el corredor verde de 2 millas entre el Capitolio de EE. UU. (U.S. Capitol) y el Lincoln Memorial, con el Washington Monument como eje central y flanqueado por los museos Smithsonian y los memoriales de la Segunda Guerra Mundial, la Guerra de Corea, los Veteranos de Vietnam, MLK y FDR. Es gratuito, está abierto las 24 horas, y se recorre mejor a pie o en bicicleta en medio día o un día completo. Empieza temprano por el extremo del Lincoln Memorial o del Capitolio para evitar multitudes y el calor.

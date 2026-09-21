@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: bangkok-bo-bkk
+srcHash: '9e161d203971'
 title: Bo.bkk en Bangkok
 description: Bo.bkk es una cafetería de bagels y café escondida en la planta baja de un edificio de apartamentos en Sathorn, cerca del parque Lumphini, gestionada por el equipo detrás de Meep Meep Run Club.
 quickAnswer: 'Bo.bkk es una cafetería de bagels y café escondida en la planta baja de un edificio de apartamentos en Sathorn, cerca del parque Lumphini, gestionada por el equipo detrás de Meep Meep Run Club. No es tanto un destino para sentarse a comer como un punto de encuentro comunitario: ve por un café y un bagel, y si estás por la zona un fin de semana por la mañana, únete (o mira) la carrera grupal que se reúne allí. Confirma el horario actual, el menú y si se necesitan reservas antes de ir, ya que los detalles pueden cambiar rápido en un lugar recién abierto.'

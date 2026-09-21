@@ -1,6 +1,7 @@
 ---
 lang: zh
 slug: yogyakarta-hong-kong-street-foods
+srcHash: '31397d0d0651'
 title: Hong Kong Street Foods：日惹美食何处寻
 description: Hong Kong Street Foods 是一家位于 Jl. A.M. Sangaji No. 88 的港式街头小吃餐厅。
 quickAnswer: Hong Kong Street Foods 是一家位于日惹中北部 Tegalrejo 区 Jl. A.M. Sangaji No. 88 的港式街头小吃餐厅，在超过1,100条评价中获得4.7分的高评分。这里主打港式大排档风味——叉烧、云吞面，以及类似点心的小吃，用餐环境轻松随意，很适合作为从 Tugu/Malioboro 一带出发的午餐或晚餐小插曲。建议工作日晚上前往，可以避开周末人潮；不过即便如此，通常仍需稍候片刻，因为它目前还不太为外国游客所熟知。

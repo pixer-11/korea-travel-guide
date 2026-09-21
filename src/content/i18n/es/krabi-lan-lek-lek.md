@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: krabi-lan-lek-lek
+srcHash: '53e874757dac'
 title: 'Lan Lek Lek: dónde comer en Krabi'
 description: Lan Lek Lek es un restaurante tailandés sencillo y económico en Soi Maharaj 10, en Krabi Town, a poca distancia a pie o en tuk-tuk del mercado nocturno de Chao Fah Pier.
 quickAnswer: 'Lan Lek Lek es un restaurante tailandés sencillo y económico en Soi Maharaj 10, en Krabi Town, a poca distancia a pie o en tuk-tuk de la zona del mercado nocturno de Chao Fah Pier. Es mejor visitarlo a la hora del almuerzo o para una cena temprana, cuando la cocina está en su mejor momento y las colas son más cortas; espera un local con mesas sencillas, un ritmo rápido de pedir y comer, y algunas de las calificaciones más altas (4.8 sobre más de 1.200 reseñas) de cualquier local económico de la ciudad. Ve con hambre, lleva efectivo y no esperes un menú en inglés muy extenso: señalar lo que otros están comiendo funciona perfectamente bien.'

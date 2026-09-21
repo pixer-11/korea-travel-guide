@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: osaka-oko-fun-okonomiyaki-bar
+srcHash: '4132389ae02c'
 title: 'OKO - Fun Okonomiyaki Bar: Dónde comer en Osaka'
 description: OKO - Fun Okonomiyaki Bar es una barra de okonomiyaki económica en Dotonbori, el barrio de ocio junto al canal de Osaka, con una calificación de 4.7 basada en más de 2,500 reseñas.
 quickAnswer: OKO - Fun Okonomiyaki Bar es una barra de okonomiyaki económica en Dotonbori, el barrio de ocio junto al canal de Osaka, con una calificación de 4.7 basada en más de 2,500 reseñas. Ve a probar okonomiyaki y negiyaki preparados al momento en una plancha teppan justo frente a ti, cuenta con una espera corta en las horas pico de la cena, y complementa la visita con un paseo por el canal de Dotonbori después de comer.

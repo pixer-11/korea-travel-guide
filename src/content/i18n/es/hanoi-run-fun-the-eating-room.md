@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: hanoi-run-fun-the-eating-room
+srcHash: '76c366e7b446'
 title: 'Run Fun – The Eating Room en Hanói: guía para visitantes'
 description: 'Run Fun – The Eating Room en Hanói, Vietnam — un local nuevo y en tendencia: qué es, dónde está y cómo visitarlo.'
 quickAnswer: 'Run Fun – The Eating Room es la propuesta desenfadada y enérgica del chef Hoang Tung, continuación de sus reconocidos T.U.N.G Dining y Å by TUNG, que traslada su enfoque juguetón y centrado en el ingrediente a la cocina vietnamita en un ambiente relajado, sin manteles blancos, en Hanói. Es ideal para viajeros que buscan platos creativos sin el compromiso de un menú degustación: ve en grupo pequeño, llega con hambre y confirma el horario y si necesitas reserva antes de acercarte, ya que se trata de un local recién inaugurado y de rápido crecimiento en popularidad.'

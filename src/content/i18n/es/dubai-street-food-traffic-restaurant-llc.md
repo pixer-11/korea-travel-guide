@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: dubai-street-food-traffic-restaurant-llc
+srcHash: '2f6117dde194'
 title: 'Street Food Traffic Restaurant LLC: Dónde comer en Dubái'
 description: Street Food Traffic Restaurant LLC es un local informal de comida callejera muy bien valorado (4.7★, 688 reseñas), escondido en el complejo Midtown by Deyaar (Shop 1, AFNAN 01)
 quickAnswer: Street Food Traffic Restaurant LLC es un local informal de comida callejera muy bien valorado (4.7★, 688 reseñas), escondido en el complejo Midtown by Deyaar (Shop 1, AFNAN 01) en Dubai Production City (DPC), cerca de Al Furjan y Jumeirah Village Circle. Es ideal para una comida relajada y económica de platos callejeros a la parrilla del sur de Asia y Oriente Medio, lejos de la ruta turística — calcula entre 45 y 75 minutos de visita, tanto efectivo como tarjeta suelen aceptarse sin problema, y ve un día entre semana por la noche para evitar la hora punta de cenas de la comunidad residencial.

@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: osaka-oko-fun-okonomiyaki-bar
+srcHash: '4132389ae02c'
 title: 'OKO - Fun Okonomiyaki Bar: 오사카 맛집 추천'
 description: OKO - Fun Okonomiyaki Bar는 오사카의 운하변 유흥가인 도톤보리(Dotonbori)에 위치한 가성비 좋은 오코노미야키 전문점으로, 2,500개 이상의 리뷰에서 4.7점의 평점을 받았습니다.
 quickAnswer: OKO - Fun Okonomiyaki Bar는 오사카의 운하변 유흥가인 도톤보리(Dotonbori)에 위치한 가성비 좋은 오코노미야키 전문점으로, 2,500개 이상의 리뷰에서 4.7점의 평점을 받았습니다. 눈앞의 철판에서 즉석으로 구워주는 오코노미야키와 네기야키를 맛보러 가보세요. 저녁 피크 시간대에는 약간의 대기가 있을 수 있으니 참고하시고, 방문 후에는 도톤보리 운하를 따라 산책을 곁들이면 좋습니다.

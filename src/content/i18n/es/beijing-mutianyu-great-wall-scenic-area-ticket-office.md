@@ -1,6 +1,7 @@
 ---
 lang: es
 slug: beijing-mutianyu-great-wall-scenic-area-ticket-office
+srcHash: '5b6e99229017'
 title: 'Taquilla de la Zona Escénica de la Gran Muralla de Mutianyu: Guía de Viaje de Pekín'
 description: La taquilla de la Zona Escénica de la Gran Muralla de Mutianyu, en el distrito de Huairou, a unos 70-80 km al noreste del centro de Pekín, es donde se compran las entradas y los boletos combinados de teleférico y tobogán.
 quickAnswer: La taquilla de la Zona Escénica de la Gran Muralla de Mutianyu, en el distrito de Huairou, a unos 70-80 km al noreste del centro de Pekín, es donde se compran las entradas y los boletos combinados de teleférico y tobogán antes de recorrer uno de los tramos mejor conservados y menos concurridos de la Gran Muralla. Reserva entre medio día y un día completo, compra las entradas en línea o en el lugar, y toma el teleférico para evitar la subida inicial más empinada. Con una calificación de 4.8 sobre casi 1,500 reseñas, es constantemente uno de los puntos de acceso más cómodos para los visitantes de la Muralla.

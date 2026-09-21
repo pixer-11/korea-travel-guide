@@ -1,50 +1,51 @@
 ---
 lang: es
 slug: jeonju-local-restaurant
+srcHash: 'b9a2d93da1bd'
 title: Restaurantes locales en Jeonju
-description: Para una comida local auténtica en Jeonju, dirígete a la zona de la Aldea Hanok (Hanok Village) y el Mercado Nambu (Nambu Market), donde restaurantes familiares sirven los platos emblemáticos de la ciudad
-quickAnswer: 'Para una comida local auténtica en Jeonju, dirígete a la zona de la Aldea Hanok (Hanok Village) y el Mercado Nambu (Nambu Market), donde restaurantes familiares sirven los platos emblemáticos de la ciudad: bibimbap, kongnamul gukbap (sopa de brotes de soja) y makgeolli acompañado de una buena variedad de banchan gratuitos. Ve temprano o tarde para evitar las multitudes de los autobuses turísticos, calcula un presupuesto de ₩10,000–20,000 por persona, y complementa la comida con un paseo por los puestos de comida nocturnos del Mercado Nambu (viernes y sábado por la noche).'
+description: 'Para comer como un local en Jeonju, dirígete a la zona de la Aldea Hanok (Hanok Village) y el Mercado Nambu, donde restaurantes familiares sirven los platos emblemáticos de la ciudad: bibimbap, kongnamul gukbap (sopa de brotes de soja) y makgeolli acompañado de una generosa tanda de guarniciones gratuitas.'
+quickAnswer: 'Para comer como un local en Jeonju, dirígete a la zona de la Aldea Hanok (Hanok Village) y el Mercado Nambu, donde restaurantes familiares sirven los platos emblemáticos de la ciudad: bibimbap, kongnamul gukbap (sopa de brotes de soja) y makgeolli acompañado de una generosa tanda de guarniciones gratuitas. Conviene ir temprano o tarde para evitar las aglomeraciones de grupos turísticos, y aprovechar la visita para pasear por los puestos de comida nocturnos del Mercado Nambu (viernes y sábados por la noche).'
 faq:
-  - q: ¿Cómo llego a la zona de restaurantes de Jeonju desde Seúl?
-    a: Toma el KTX desde la Estación Yongsan hasta la Estación de Jeonju (menos de 2 horas), y luego un taxi o autobús urbano de 15–20 minutos hasta la zona de la Aldea Hanok, donde se concentran la mayoría de los restaurantes más conocidos.
-  - q: ¿Cuál es el único plato que no debo dejar de probar en Jeonju?
-    a: 'El bibimbap al estilo de Jeonju, elaborado con carne de res cruda, una yema de huevo cruda y una mezcla inusualmente amplia de vegetales sazonados: es el plato que puso a la ciudad en el mapa culinario de Corea.'
-  - q: ¿Cuánto debería costar una comida?
-    a: Calcula entre ₩10,000 y ₩15,000 por persona por un bibimbap o gukbap en un restaurante con mesas, y algo más por una comida compartida en una casa de makgeolli. Confirma los precios actuales, ya que varían según el restaurante y la temporada.
+  - q: ¿Cómo se llega desde Seúl a la zona de restaurantes de Jeonju?
+    a: Toma el KTX desde la estación de Yongsan hasta la estación de Jeonju (menos de 2 horas) y, desde allí, un taxi de 15-20 minutos o un autobús urbano hasta la zona de la Aldea Hanok, donde se concentran los restaurantes más conocidos.
+  - q: ¿Cuál es el plato que no se puede dejar de probar en Jeonju?
+    a: El bibimbap al estilo de Jeonju, preparado con carne de ternera cruda, una yema de huevo cruda y una mezcla inusualmente amplia de vegetales sazonados. Es el plato que puso a la ciudad en el mapa culinario de Corea.
+  - q: ¿Cuánto cuesta comer allí?
+    a: En un restaurante con servicio de mesa, el bibimbap o el gukbap suelen tener un precio económico y de rango medio, mientras que un surtido compartido en una casa de makgeolli resulta algo más caro. Conviene confirmar los precios actuales en el menú, ya que varían según el restaurante y la temporada.
   - q: ¿Cuál es el mejor momento para visitar y evitar las multitudes?
-    a: Los almuerzos entre semana o las cenas tempranas son más tranquilos que los fines de semana y los feriados coreanos, cuando los restaurantes de la Aldea Hanok y el Mercado Nambu se llenan rápidamente.
-  - q: ¿Qué más hay cerca que valga la pena combinar con una comida?
-    a: El Mercado Nambu (especialmente su mercado nocturno de viernes a sábado), los pabellones en la colina de Omokdae e Imokdae, y la Iglesia Católica de Jeondong están todos a poca distancia a pie de las principales calles de restaurantes.
+    a: Los almuerzos entre semana o las cenas tempranas son más tranquilos que los fines de semana y los días festivos coreanos, cuando los restaurantes de la Aldea Hanok y el Mercado Nambu se llenan rápidamente.
+  - q: ¿Qué otros lugares cercanos se pueden combinar con la comida?
+    a: El Mercado Nambu (especialmente su mercado nocturno de viernes y sábado), los pabellones de la colina Omokdae e Imokdae, y la Catedral Católica de Jeondong se encuentran todos a poca distancia a pie de las calles principales de restaurantes.
 ---
 
 ## Por qué Jeonju es la capital gastronómica de Corea
 
-Jeonju ha sido sinónimo de la cocina coreana durante siglos: es la cuna del bibimbap y se encuentra en el centro de la provincia de Jeolla (Jeolla Province), una región famosa en todo el país por sus banchan (acompañamientos) generosos y bien sazonados, y por sus profundas tradiciones de fermentación (gochujang, doenjang y vino de arroz). La UNESCO nombró a Jeonju "Ciudad de la Gastronomía" en 2012, y el reconocimiento está bien merecido: incluso los restaurantes de barrio más modestos suelen superar a locales más elegantes en otras partes de Corea, porque la competencia local y el orgullo por los ingredientes de la región mantienen altos los estándares.
+Jeonju lleva siglos siendo sinónimo de la cocina coreana: aquí nació el bibimbap, y la ciudad ocupa un lugar central en la provincia de Jeolla, célebre en todo el país por sus generosos y bien sazonados banchan (guarniciones) y por su arraigada tradición de fermentación (gochujang, doenjang y vino de arroz). En 2012, la UNESCO designó a Jeonju "Ciudad de la Gastronomía", un reconocimiento bien merecido: incluso los restaurantes de barrio más modestos suelen superar en calidad a locales más sofisticados de otras partes de Corea, gracias a la fuerte competencia local y al orgullo por los ingredientes de la región, que mantienen el nivel siempre alto.
 
-## Cómo llegar y moverse por la ciudad
+## Cómo llegar y moverse por la zona
 
-Jeonju no cuenta con sistema de metro, así que la mayoría de los visitantes llega en KTX o en autobús interurbano. La Estación de Jeonju conecta con la Estación Yongsan en Seúl en menos de dos horas en KTX. Desde la Estación de Jeonju, la Aldea Hanok y su zona de restaurantes quedan a unos 15–20 minutos en taxi (aproximadamente ₩6,000–8,000) o a 25 minutos en los autobuses urbanos 79, 12, o 79-1. Además, muchos visitantes primerizos se alojan cerca de la propia Aldea Hanok, ya que las calles gastronómicas más conocidas se pueden recorrer a pie desde allí.
+Jeonju no cuenta con metro, así que la mayoría de los visitantes llega en KTX o en autobús interurbano. La estación de Jeonju conecta con la estación de Yongsan, en Seúl, en menos de dos horas de KTX. Desde la estación de Jeonju, la Aldea Hanok y su concentración de restaurantes quedan a unos 15-20 minutos en taxi (un trayecto económico para la distancia) o a 25 minutos en los autobuses urbanos 79, 12 o 79-1. Además, muchos visitantes que llegan por primera vez optan por alojarse cerca de la propia Aldea Hanok, ya que las calles gastronómicas más conocidas quedan a poca distancia a pie.
 
-El Mercado Nambu, otro destino gastronómico imprescindible, se encuentra justo al sur de la Aldea Hanok, cruzando el arroyo de Jeonju, a solo 10 minutos caminando.
+El Mercado Nambu, otro destino gastronómico imprescindible, se encuentra justo al sur de la Aldea Hanok, al otro lado del arroyo Jeonju, a solo 10 minutos caminando.
 
 ## Qué comer y dónde
 
-**El bibimbap** es el punto de partida obvio: las versiones al estilo Jeonju suelen incluir carne de res cruda, una yema de huevo cruda y una variedad más amplia de vegetales sazonados (helecho, brotes de soja, rábano) que las versiones que se encuentran en otras partes de Corea. Busca los restaurantes agrupados en las calles justo dentro y alrededor de las puertas principales de la Aldea Hanok; muchos llevan varias generaciones sirviendo el plato.
+**El bibimbap** es el punto de partida obligado: la versión de Jeonju suele incluir carne de ternera cruda, una yema de huevo cruda y una variedad de vegetales sazonados (helecho, brotes de soja, rábano) más amplia que en otras regiones de Corea. Conviene buscar los restaurantes agrupados en las calles que rodean las puertas principales de la Aldea Hanok, muchos de los cuales llevan generaciones sirviendo este plato.
 
-**El kongnamul gukbap** (sopa de brotes de soja con arroz) es el remedio para la resaca y el desayuno favorito de la ciudad, tradicionalmente servido con un huevo crudo cascado en el caldo y una guarnición de calamar frito crujiente (ojingeo-twigim). La zona alrededor del Mercado Nambu y las calles cercanas a Gaeksa (la antigua casa de huéspedes provincial) cuentan con varios especialistas en gukbap de larga trayectoria que abren temprano.
+**El kongnamul gukbap** (sopa de arroz con brotes de soja) es el remedio para la resaca y el desayuno preferido de la ciudad. Tradicionalmente se sirve con un huevo crudo que se rompe directamente en el caldo, acompañado de crujientes buñuelos de calamar (ojingeo-twigim). En la zona del Mercado Nambu y en las calles cercanas a Gaeksa (la antigua casa de huéspedes provincial) hay varios especialistas en gukbap con larga trayectoria que abren desde temprano.
 
-**El Mercado Nambu** en sí merece una visita, tengas hambre o no: durante el día muestra su lado de mercado tradicional (productos frescos, pastas fermentadas, alimentos secos), mientras que los viernes y sábados por la noche se transforma en un mercado nocturno gestionado por jóvenes, con decenas de pequeños puestos que venden comida callejera coreana modernizada, makgeolli y bocadillos de fusión, un buen contraste con los restaurantes más tradicionales de la zona hanok.
+**El propio Mercado Nambu** merece una visita independientemente del apetito: durante el día se puede ver el lado más tradicional del mercado, con productos frescos, pastas fermentadas y alimentos secos, mientras que los viernes y sábados por la noche se transforma en un mercado nocturno gestionado por jóvenes, con decenas de puestos que venden comida callejera coreana modernizada, makgeolli y bocados de fusión. Es un buen contraste frente a los restaurantes más tradicionales de la zona hanok.
 
-**Las casas de makgeolli** (makgeolli-jip) son una institución propia de Jeonju: pides una tetera de este lechoso vino de arroz y la mesa se llena automáticamente con una rotación de pequeños platos —jeon (panqueques), jjim (carnes estofadas) y mariscos— a un precio fijo por tetera en lugar de por plato. Las zonas de Samcheon-dong y Gaeksa-gil tienen varios callejones de makgeolli ya establecidos.
+**Las casas de makgeolli** (makgeolli-jip) son una institución propia de Jeonju: se pide una tetera de este lechoso vino de arroz y, automáticamente, la mesa se llena con un desfile rotativo de pequeños platos —jeon (tortitas), jjim (carnes braseadas) y mariscos— a un precio fijo por tetera y no por plato. Los barrios de Samcheon-dong y Gaeksa-gil cuentan con varios callejones consolidados dedicados al makgeolli.
 
 ## Cuándo ir y cuánto tiempo dedicarle
 
-Los almuerzos entre semana (11:30am–1pm) y las cenas tempranas evitan lo peor de la avalancha de grupos turísticos, ya que los restaurantes de la Aldea Hanok se llenan mucho los fines de semana y en fechas festivas coreanas como Chuseok y el Año Nuevo Lunar. Calcula entre 1 y 1.5 horas para una comida sentado de bibimbap o gukbap, pero reserva más de 2 horas si vas a recorrer varias casas de makgeolli, ya que los platos compartidos invitan a quedarse más tiempo.
+Los almuerzos entre semana (11:30-13:00) y las cenas tempranas permiten evitar lo peor de las aglomeraciones de grupos turísticos, ya que los restaurantes de la Aldea Hanok se llenan mucho los fines de semana y en fechas festivas coreanas como el Chuseok o el Año Nuevo Lunar. Para una comida sentada de bibimbap o gukbap conviene calcular entre 1 y 1,5 horas, pero si se planea una ronda por varias casas de makgeolli es mejor reservar más de 2 horas, ya que las guarniciones compartidas invitan a alargar la sobremesa.
 
-La primavera (abril–mayo) y el otoño (octubre) traen el clima más agradable para combinar una comida con un paseo por los tejados hanok.
+La primavera (abril-mayo) y el otoño (octubre) ofrecen el clima más agradable para combinar una comida con un paseo entre los tejados de la aldea hanok.
 
 ## Alrededores y consejos prácticos
 
-Después de comer, camina para bajar la comida en Omokdae e Imokdae, pabellones en la colina con vistas a los tejados de tejas de la Aldea Hanok, o visita la Iglesia Católica de Jeondong, una llamativa catedral de ladrillo de principios del siglo XX a pocos minutos de la entrada de la aldea. El efectivo todavía es útil en los restaurantes y puestos de mercado más pequeños y antiguos, aunque la aceptación de tarjetas ha mejorado notablemente en los últimos años.
+Después de comer, es buena idea caminar hasta los pabellones de Omokdae e Imokdae, situados en una colina con vistas a los tejados de tejas de la Aldea Hanok, o visitar la Catedral Católica de Jeondong, un llamativo edificio de ladrillo de principios del siglo XX a pocos minutos de la entrada de la aldea. En los restaurantes más pequeños y antiguos, así como en los puestos del mercado, todavía conviene llevar efectivo, aunque la aceptación de tarjetas ha mejorado mucho en los últimos años.
 
-Los precios de una comida completa de bibimbap o gukbap suelen rondar los ₩10,000–15,000, mientras que las teteras de makgeolli con una buena variedad de acompañamientos cuestan más: confirma los precios actuales en el lugar, ya que varían según la temporada y el costo de los ingredientes.
+Una comida completa de bibimbap o gukbap suele tener un precio económico, mientras que las teteras de makgeolli con un surtido completo de guarniciones resultan algo más caras. Conviene confirmar los precios in situ, ya que varían según la temporada y el coste de los ingredientes.

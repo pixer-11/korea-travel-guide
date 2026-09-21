@@ -1,6 +1,7 @@
 ---
 lang: ko
 slug: bangkok-bo-bkk
+srcHash: '9e161d203971'
 title: 방콕의 보(Bo.bkk)
 description: 보(Bo.bkk)는 방콕 사톤(Sathorn), 룸피니 공원(Lumphini Park) 근처 아파트 건물 지하에 자리한 베이글 커피숍으로, 밉밉 런 클럽(Meep Meep Run Club) 팀이 운영한다.
 quickAnswer: |-
