@@ -1,53 +1,59 @@
 ---
 lang: es
 slug: nara-nara-park
-srcHash: 'a47621001f5c'
+srcHash: '87d9986e9b42'
 title: 'Parque de Nara: Guía de viaje'
-description: 'El Parque de Nara es un extenso parque público en el centro de Nara, famoso por sus más de 1000 ciervos sika que campan a sus anchas y hacen reverencias, y por los templos que lo rodean: Todai-ji, Kasuga Taisha y Kofuku-ji.'
-quickAnswer: 'El Parque de Nara es un extenso parque público en el centro de Nara, famoso por sus más de 1000 ciervos sika que campan a sus anchas y hacen reverencias, y por los templos que lo rodean: Todai-ji, Kasuga Taisha y Kofuku-ji. Reserva entre medio día y un día completo a pie, compra un paquete de shika senbei (galletas para ciervos) por unos ¥200, y ve temprano por la mañana para evitar las aglomeraciones de autobuses turísticos. Está a 5 minutos a pie de la estación de Kintetsu Nara o unos 20 minutos desde la estación JR Nara.'
+description: 'El Parque de Nara es un extenso parque público en el centro de Nara, célebre por sus más de 1.000 ciervos sika que hacen reverencias en libertad y por los templos que lo rodean: Todai-ji, Kasuga Taisha y Kofuku-ji.'
+quickAnswer: 'El Parque de Nara es un extenso parque público en el centro de Nara, célebre por sus más de 1.000 ciervos sika que hacen reverencias en libertad y por los templos que lo rodean: Todai-ji, Kasuga Taisha y Kofuku-ji. Conviene reservar entre media jornada y un día completo para recorrerlo a pie, comprar varios shika senbei (galletas para ciervos), que son muy económicas, e ir a primera hora de la mañana para evitar las aglomeraciones de autobuses turísticos. Se llega en 5 minutos a pie desde la estación de Kintetsu Nara o en unos 20 minutos desde la estación de JR Nara.'
 faq:
-  - q: ¿Cómo llego al Parque de Nara?
-    a: Camina unos 5 minutos hacia el este desde la estación de Kintetsu Nara, o unos 20 minutos desde la estación JR Nara (también circulan autobuses por las rutas principales del parque). Desde Kioto u Osaka, el trayecto en tren dura aproximadamente entre 40 y 50 minutos.
-  - q: ¿La entrada al Parque de Nara es gratuita?
-    a: Sí, el parque en sí es gratuito y está abierto a todas horas. Los sitios individuales dentro de él, como el Salón del Gran Buda de Todai-ji y el Museo Nacional de Nara, cobran entrada por separado.
-  - q: ¿Cuánto tiempo debería pasar allí?
-    a: Medio día alcanza para las zonas de los ciervos y Todai-ji; un día completo te permite sumar Kasuga Taisha, Kofuku-ji, el Museo Nacional y un paseo por la cercana Naramachi.
+  - q: ¿Cómo se llega al Parque de Nara?
+    a: Camine unos 5 minutos hacia el este desde la estación de Kintetsu Nara, o unos 20 minutos desde la estación de JR Nara (también hay autobuses que circulan por las rutas principales del parque). Desde Kioto u Osaka, el trayecto en tren dura entre 40 y 50 minutos aproximadamente.
+  - q: ¿Es gratuita la entrada al Parque de Nara?
+    a: Sí, el parque en sí es gratuito y permanece abierto a todas horas. Algunos lugares concretos dentro de él, como el Salón del Gran Buda de Todai-ji y el Museo Nacional de Nara, cobran entrada aparte.
+  - q: ¿Cuánto tiempo conviene dedicarle?
+    a: Media jornada basta para ver las zonas de ciervos y Todai-ji; un día completo permite añadir Kasuga Taisha, Kofuku-ji, el Museo Nacional y un paseo por el cercano barrio de Naramachi.
   - q: ¿Es seguro acercarse a los ciervos?
-    a: 'Generalmente sí: están acostumbrados a la gente y hacen reverencias a cambio de galletas, pero pueden morder, empujar o dar cabezazos si tienes comida en la mano y dudas, así que entrégales las galletas con prontitud y mantén el resto de la comida fuera de la vista.'
-  - q: ¿Cuál es la mejor época para visitar?
-    a: Temprano por la mañana para evitar aglomeraciones; noviembre por el follaje otoñal alrededor de Todai-ji y Kasuga Taisha; y de finales de marzo a principios de abril por los cerezos en flor.
+    a: 'Por lo general sí: están acostumbrados a la gente y hacen reverencias a cambio de galletas. Sin embargo, pueden dar mordiscos, empujones o cabezazos si llevas comida y titubeas, así que entrega las galletas sin demora y mantén cualquier otro alimento fuera de su vista.'
+  - q: ¿Cuál es el mejor momento para visitarlo?
+    a: Por la mañana temprano hay menos gente; noviembre ofrece el follaje otoñal alrededor de Todai-ji y Kasuga Taisha; y de finales de marzo a principios de abril se pueden ver los cerezos en flor.
 ---
 
 ## Por qué ir
 
-El Parque de Nara (Nara Kōen) es más un distrito verde salpicado de templos —que cubre unas 500 hectáreas al pie del monte Wakakusa— que una atracción única. Tiene una calificación de 4.6 en decenas de miles de reseñas, y la razón es doble: los ciervos y la densidad de sitios patrimoniales de talla mundial reunidos a poca distancia a pie unos de otros.
+El Parque de Nara (Nara Kōen) es, más que una atracción puntual, todo un distrito verde salpicado de templos que se extiende a lo largo de unas 500 hectáreas a los pies del monte Wakakusa. Con una valoración de 4,6 entre decenas de miles de reseñas, su atractivo se debe a dos motivos: los ciervos y la enorme concentración de sitios patrimoniales de primer nivel, todos a poca distancia a pie entre sí.
 
-Los ciervos sika de aquí —más de 1000— se consideran, según la tradición local, mensajeros sagrados de los dioses sintoístas, descendientes de un ciervo que, se dice, llevó a una deidad hasta el cercano Kasuga Taisha sobre un venado blanco. Siglos de contacto con visitantes los han vuelto lo suficientemente mansos como para hacer reverencias a cambio de galletas, aunque siguen siendo animales salvajes y pueden dar mordiscos o cabezazos si tardas en entregarles la comida.
+Los ciervos sika que habitan aquí (más de 1.000) son considerados, según la tradición sintoísta local, mensajeros sagrados de los dioses, descendientes de un ciervo que, según la leyenda, transportó a una deidad hasta el cercano santuario de Kasuga Taisha sobre un venado blanco.
+
+Siglos de contacto con los visitantes los han vuelto lo bastante mansos como para hacer reverencias a cambio de galletas, aunque siguen siendo animales salvajes y pueden morder o dar cabezazos si tardas en entregarles la comida.
 
 ## Cómo llegar
 
-El parque se encuentra en el corazón de la ciudad de Nara. Desde la **estación de Kintetsu Nara**, son unos 5 minutos a pie hacia el este por Sanjo-dori hasta llegar al borde del parque. Desde la **estación JR Nara**, son unos 20 minutos a pie, o un breve trayecto en autobús (los autobuses circulan con frecuencia hacia Todai-ji/Kasuga Taisha y paran justo en los caminos principales del parque).
+El parque se encuentra en el corazón de la ciudad de Nara. Desde la **estación de Kintetsu Nara**, se llega andando en unos 5 minutos hacia el este por la calle Sanjo-dori hasta el borde del parque. Desde la **estación de JR Nara**, el trayecto a pie dura unos 20 minutos, aunque también existe un breve recorrido en autobús (los autobuses circulan con frecuencia hacia Todai-ji y Kasuga Taisha, con paradas justo en los senderos principales del parque).
 
-Nara es una excursión de un día fácil desde Kioto (unos 45 minutos en el limited express de Kintetsu) u Osaka (entre 40 y 50 minutos en JR o Kintetsu), que es como llegan la mayoría de los visitantes internacionales —pocos se quedan a pasar la noche, aunque un paseo vespertino por el parque con menos gente vale la pena considerarlo si te quedas—.
+Nara es una excursión de un día muy sencilla desde Kioto (unos 45 minutos en el tren limited express de Kintetsu) o desde Osaka (entre 40 y 50 minutos en JR o Kintetsu), que es como llega la mayoría de los visitantes internacionales. Pocos se quedan a pasar la noche, aunque, si decides hacerlo, vale la pena considerar un paseo vespertino por el parque, cuando hay menos gente.
 
 ## Qué ver y hacer
 
-Calcula medio día como mínimo, o un día completo si quieres ver los templos con calma y no solo los prados de los ciervos.
+Conviene reservar como mínimo media jornada, o un día completo si se quiere visitar los templos con detenimiento y no solo los prados donde pastan los ciervos.
 
-- **Todai-ji**: El eje del parque, sede del Daibutsuden (Salón del Gran Buda), uno de los edificios de madera más grandes del mundo, que alberga una estatua de Buda de bronce de 15 metros fundida en el siglo VIII. Calcula de 45 a 60 minutos.
-- **Kasuga Taisha**: Un santuario sintoísta bermellón famoso por sus miles de faroles de bronce y piedra que flanquean el camino de acceso a través de un bosque de cedros; los faroles se encienden dos veces al año durante los festivales Mantoro (principios de febrero y mediados de agosto).
-- **Kofuku-ji**: Reconocible por su pagoda de cinco pisos, la segunda más alta de Japón, y por un salón de tesoros nacionales con estatuaria budista histórica.
-- **Museo Nacional de Nara**: Centrado en el arte budista, con una sólida colección de estatuas y objetos rituales; una buena opción para los días de lluvia.
-- **Dar de comer a los ciervos**: Los shika senbei (galletas de salvado de arroz) se venden en carritos por todo el parque, normalmente por un par de cientos de yenes el paquete. Los ciervos hacen una reverencia si los haces esperar un instante antes de darles de comer, un comportamiento aprendido, no cortesía.
+- **Todai-ji**: El gran eje del parque. Aquí se encuentra el Daibutsuden (Salón del Gran Buda), uno de los edificios de madera más grandes del mundo, que alberga una estatua de bronce de Buda de 15 metros fundida en el siglo VIII. Hay que reservar entre 45 y 60 minutos para la visita.
+- **Kasuga Taisha**: Un santuario sintoísta de color bermellón, famoso por los miles de faroles de bronce y piedra que flanquean el sendero de acceso a través de un bosque de cedros. Los faroles se encienden dos veces al año durante los festivales Mantoro (a principios de febrero y a mediados de agosto).
+- **Kofuku-ji**: Fácilmente reconocible por su pagoda de cinco pisos, la segunda más alta de Japón, y por un salón de tesoros nacionales con esculturas budistas de gran valor histórico.
+- **Museo Nacional de Nara**: Centrado en el arte budista, cuenta con una notable colección de estatuas y objetos rituales; es una buena opción para los días de lluvia.
+- **Dar de comer a los ciervos**: Por todo el parque hay carritos que venden shika senbei (galletas de salvado de arroz), normalmente por unos pocos cientos de yenes el paquete. Los ciervos hacen una reverencia si se les hace esperar un instante antes de darles de comer, un gesto aprendido y no un signo de cortesía.
 
-Wakakusayama, la colina cubierta de hierba en el extremo oriental del parque, es un desvío que vale la pena por sus vistas panorámicas, y suele estar abierta para subir excepto durante los cierres invernales por prevención de incendios.
+Wakakusayama, la colina de hierba situada en el extremo oriental del parque, merece un desvío por sus vistas panorámicas y suele estar abierta para subir, salvo durante los cierres invernales por prevención de incendios.
 
 ## Cuándo ir
 
-La mañana temprano (antes de las 9:00) es el momento más tranquilo, tanto para los encuentros con los ciervos como para adelantarse a los grupos turísticos en Todai-ji. El otoño (noviembre) trae un llamativo color de los arces alrededor de Todai-ji y Kasuga Taisha; la primavera (finales de marzo-principios de abril) atrae multitudes por los cerezos en flor a lo largo de los caminos del parque.
+Las primeras horas de la mañana (antes de las 9:00) son las más tranquilas, tanto para observar a los ciervos sin agobios como para adelantarse a los grupos turísticos en Todai-ji. El otoño (noviembre) trae un llamativo colorido de arces alrededor de Todai-ji y Kasuga Taisha, mientras que la primavera (de finales de marzo a principios de abril) atrae multitudes que vienen a ver los cerezos en flor a lo largo de los senderos del parque.
 
-Los ciervos mudan la cornamenta y paren a finales de primavera/verano, y las hembras con crías se mantienen en un recinto separado durante la temporada de partos por seguridad; conviene revisar la señalización vigente. Evita las sesiones de alimentación al mediodía en temporada alta si te molestan las aglomeraciones; los ciervos se concentran sobre todo cerca de los vendedores de galletas y el acceso a Todai-ji.
+A finales de primavera y en verano, los ciervos mudan la cornamenta y llega la temporada de partos; por seguridad, las hembras con crías se mantienen en un recinto separado durante esta época. Conviene consultar la señalización vigente en el lugar.
+
+Si las multitudes resultan molestas, es mejor evitar las horas de alimentación en torno al mediodía durante la temporada alta, ya que los ciervos se concentran especialmente cerca de los vendedores de galletas y del acceso a Todai-ji.
 
 ## Alrededores y consejos prácticos
 
-Naramachi, el antiguo barrio de comerciantes con callejuelas estrechas, casas machiya y pequeños cafés, está a un corto paseo al sur del parque y combina bien con una tarde aquí. Mantén la comida (incluidos los snacks en bolsas) bien guardada con cierre: los ciervos irán tras cualquier cosa que huela a comestible, incluidos los mapas de papel. La entrada al parque en sí es gratuita; sitios individuales como el Daibutsuden de Todai-ji y el Museo Nacional cobran entrada aparte, que conviene confirmar en los sitios oficiales antes de visitar, ya que cambian periódicamente. Usa calzado que no te importe quitarte, ya que varios interiores de templos lo exigen.
+Naramachi, el antiguo barrio comercial de callejuelas estrechas, casas machiya y pequeños cafés, se encuentra a poca distancia a pie al sur del parque y combina muy bien con una tarde aquí. Es recomendable llevar bien cerrada la comida, incluidos los tentempiés guardados en bolsas, ya que los ciervos van tras cualquier cosa que huela a comestible, incluidos los mapas de papel.
+
+La entrada al parque en sí es gratuita; algunos lugares concretos, como el Daibutsuden de Todai-ji y el Museo Nacional, cobran entrada aparte, y conviene confirmar las tarifas en los sitios oficiales antes de la visita, ya que cambian de forma periódica. Se recomienda llevar calzado que sea fácil de quitar, puesto que en varios templos es obligatorio descalzarse para entrar.

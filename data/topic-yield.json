@@ -14,19 +14,19 @@
    "hits": 101
   },
   "viewpoint": {
-   "attempts": 63,
+   "attempts": 64,
    "hits": 7
   },
   "art gallery": {
-   "attempts": 59,
-   "hits": 7
+   "attempts": 60,
+   "hits": 8
   },
   "night view": {
-   "attempts": 55,
-   "hits": 7
+   "attempts": 56,
+   "hits": 8
   },
   "waterfront": {
-   "attempts": 42,
+   "attempts": 43,
    "hits": 4
   },
   "museum": {
@@ -34,23 +34,23 @@
    "hits": 73
   },
   "noodles": {
-   "attempts": 44,
+   "attempts": 45,
    "hits": 0
   },
   "old quarter": {
-   "attempts": 15,
+   "attempts": 16,
    "hits": 3
   },
   "local market": {
-   "attempts": 45,
-   "hits": 10
+   "attempts": 46,
+   "hits": 11
   },
   "bookshop": {
-   "attempts": 4,
+   "attempts": 5,
    "hits": 0
   },
   "seafood": {
-   "attempts": 61,
+   "attempts": 62,
    "hits": 2
   },
   "hidden gem": {
@@ -58,7 +58,7 @@
    "hits": 19
   },
   "breakfast": {
-   "attempts": 41,
+   "attempts": 42,
    "hits": 2
   },
   "trendy cafe": {
@@ -70,19 +70,19 @@
    "hits": 5
   },
   "bakery": {
-   "attempts": 33,
+   "attempts": 34,
    "hits": 1
   },
   "bar": {
-   "attempts": 33,
+   "attempts": 34,
    "hits": 0
   },
   "vegetarian": {
-   "attempts": 36,
+   "attempts": 37,
    "hits": 1
   },
   "concept cafe": {
-   "attempts": 18,
+   "attempts": 19,
    "hits": 0
   },
   "top attraction": {
@@ -90,11 +90,11 @@
    "hits": 2
   },
   "grill": {
-   "attempts": 21,
+   "attempts": 22,
    "hits": 0
   },
   "design shop": {
-   "attempts": 17,
+   "attempts": 18,
    "hits": 0
   },
   "Sisowath Quay Riverside": {
@@ -178,5 +178,5 @@
    "hits": 0
   }
  },
- "updated": "2026-09-20T12:34:19.457Z"
+ "updated": "2026-09-21T03:23:13.808Z"
 }

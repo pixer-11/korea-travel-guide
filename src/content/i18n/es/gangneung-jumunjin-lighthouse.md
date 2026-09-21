@@ -1,51 +1,55 @@
 ---
 lang: es
 slug: gangneung-jumunjin-lighthouse
-srcHash: 'fef223cea49f'
-title: 'Faro de Jumunjin (주문진등대): Guía de viaje de Gangneung'
-description: El faro de Jumunjin (주문진등대) es un pequeño faro blanco construido en 1918 y encaramado en una colina sobre el puerto de Jumunjin, en Gangneung, ideal para visitar al final de la tarde.
-quickAnswer: El faro de Jumunjin (주문진등대) es un pequeño faro blanco construido en 1918, encaramado en una colina sobre el puerto de Jumunjin, en Gangneung, ideal para visitar al final de la tarde y disfrutar de la puesta de sol sobre el mar del Este. Calcula entre 30 y 45 minutos para la colina en sí, y combina la visita con el famoso mercado de pescado de Jumunjin y la playa que aparece en la serie "Goblin" (Dokkaebi), justo debajo. Subir es gratis, tiene una valoración de 4.4 sobre 766 reseñas, y lo más práctico es llegar en taxi o coche, ya que el transporte público hasta la colina es limitado.
+srcHash: 'a8714b1c6bac'
+title: 'Faro de Jumunjin (주문진등대): guía de viaje de Gangneung'
+description: El faro de Jumunjin (주문진등대) es una pequeña torre blanca construida en 1918 sobre una colina que domina el puerto de Jumunjin, en Gangneung, y su mejor momento de visita es al final de la tarde, cuando ofrece vistas de la puesta de sol sobre el mar del Este.
+quickAnswer: El faro de Jumunjin (주문진등대) es una pequeña torre blanca construida en 1918 sobre una colina que domina el puerto de Jumunjin, en Gangneung. Lo mejor es visitarlo al final de la tarde, cuando el atardecer ilumina el mar del Este. Conviene reservar entre 30 y 45 minutos para la colina y aprovechar para combinar la visita con el famoso mercado de pescado de Jumunjin y la playa donde se rodó "Goblin" (Dokkaebi), situada justo debajo. Subir es gratuito, el lugar tiene una valoración de 4.4 sobre 766 reseñas, y la forma más sencilla de llegar es en taxi o coche, ya que el transporte público hasta la colina es limitado.
 faq:
-  - q: ¿Cómo llego al faro de Jumunjin desde Gangneung sin coche?
-    a: Toma un autobús urbano o un taxi hasta Jumunjin-eup; en taxi son unos 20-25 minutos desde el centro de Gangneung. Desde la parada de autobús cercana al puerto, hay una caminata cuesta arriba de 10-15 minutos hasta el faro.
+  - q: ¿Cómo se llega al faro de Jumunjin desde Gangneung sin coche?
+    a: Se puede tomar un autobús urbano o un taxi hasta Jumunjin-eup; en taxi el trayecto dura unos 20-25 minutos desde el centro de Gangneung. Desde la parada de autobús cercana al puerto, hay que caminar entre 10 y 15 minutos cuesta arriba hasta llegar al faro.
   - q: ¿Hay que pagar entrada?
-    a: No, subir hasta la plataforma del faro es gratis. Es un espacio al aire libre y de acceso abierto, no una atracción con entrada.
-  - q: ¿Cuánto tiempo hay que dedicarle?
-    a: Calcula entre 30 y 45 minutos para el faro y el mirador, además de otra hora si quieres recorrer el mercado de pescado de Jumunjin y probar marisco en el puerto.
+    a: No, subir a la plataforma del faro es gratuito. Se trata de un espacio al aire libre de acceso abierto, no de una atracción con boletos.
+  - q: ¿Cuánto tiempo conviene dedicarle?
+    a: Se recomienda reservar entre 30 y 45 minutos para el faro y el mirador, además de una hora adicional si se quiere explorar el mercado de pescado de Jumunjin y comer marisco en el puerto.
   - q: ¿Cuál es el mejor momento del día para visitarlo?
-    a: El final de la tarde, hasta la puesta de sol, ofrece la mejor luz sobre el puerto y el mar; las mañanas son más tranquilas y frescas para hacer fotos sin contraluz.
+    a: El final de la tarde hasta la puesta de sol ofrece la mejor luz sobre el puerto y el mar; las mañanas son más tranquilas y frescas para hacer fotos sin problemas de contraluz.
   - q: ¿Qué más hay cerca?
-    a: El puerto y el mercado de pescado de Jumunjin están justo al pie de la colina, y la playa de Jumunjin queda a poca distancia en coche, ofreciendo una alternativa más tranquila que la playa de Gyeongpo, en el centro de Gangneung.
+    a: El puerto y el mercado de pescado de Jumunjin están justo al pie de la colina, y la playa de Jumunjin queda a poca distancia en coche, ofreciendo una alternativa más tranquila que la playa de Gyeongpo en el centro de Gangneung.
 ---
 
 ## Por qué ir
 
-El faro de Jumunjin se alza sobre un modesto acantilado con vistas al puerto de Jumunjin, uno de los puertos pesqueros más concurridos de la provincia de Gangwon-do, a unos 25 minutos al norte del centro de Gangneung. El faro en sí es sencillo —una torre blanca y achaparrada construida originalmente en 1918 para guiar a los barcos pesqueros por la costa este de Corea—, pero el verdadero atractivo es la panorámica desde su base: una vista amplia de la flota pesquera del puerto, el mar del Este abierto y, en días despejados, la costa rocosa que se extiende hacia Sokcho.
+El faro de Jumunjin se alza sobre un modesto acantilado con vistas al puerto de Jumunjin, uno de los puertos pesqueros más activos de la provincia de Gangwon-do, unos 25 minutos al norte del centro de Gangneung. El faro en sí es sencillo: una torre blanca y achaparrada construida originalmente en 1918 para guiar a los barcos pesqueros por la costa este de Corea.
 
-También se ha convertido en un pequeño destino de peregrinación pop, ya que los acantilados y la escalera que lo rodean aparecieron en la exitosa serie coreana "Goblin" (Guardian: The Lonely and Great God), lo que ha mantenido un flujo constante de visitantes subiendo la colina, aunque el faro es un siglo anterior a la serie.
+Sin embargo, el verdadero atractivo está en el panorama que se contempla desde su base, con una vista amplia de la flota pesquera del puerto, el mar del Este abierto y, en los días despejados, la costa rocosa que se extiende hacia Sokcho.
+
+El lugar también se ha convertido en un pequeño punto de peregrinación para los aficionados a la cultura pop, ya que los acantilados y la escalera cercanos aparecieron en el exitoso drama coreano "Goblin" (Guardián: el dios solitario y grande). Esto ha mantenido un flujo constante de visitantes que suben la colina, aunque el faro es un siglo anterior a la serie.
 
 ## Cómo llegar
 
-La dirección es 24-7 Yetdeungdae-gil, Jumunjin-eup, Gangneung, Gangwon-do. Desde la Terminal de Autobuses Interurbanos de Gangneung o la Estación de Gangneung, la opción más fiable es tomar un taxi (unos 20-25 minutos, aproximadamente ₩20,000-25,000 según el tráfico) o conducir uno mismo, ya que hay aparcamiento disponible cerca de la base de la colina. Los autobuses urbanos sí conectan el centro de Gangneung con Jumunjin-eup, pero la colina del faro queda a una caminata empinada de 10-15 minutos desde la parada más cercana, así que conviene reservar tiempo extra si dependes del transporte público.
+La dirección es 24-7 Yetdeungdae-gil, Jumunjin-eup, Gangneung, Gangwon-do. Desde la Terminal Intercity de Autobuses de Gangneung o desde la estación de Gangneung, la opción más fiable es tomar un taxi (unos 20–25 minutos, con la tarifa marcada por el taxímetro) o conducir uno mismo, ya que hay aparcamiento disponible cerca de la base de la colina. También circulan autobuses urbanos desde el centro de Gangneung hasta Jumunjin-eup, pero la colina del faro queda a una pronunciada caminata de 10 a 15 minutos cuesta arriba desde la parada más cercana, así que conviene calcular tiempo extra si se depende del transporte público.
 
-Muchos visitantes combinan la excursión con un día de coche de alquiler que incluye la playa de Gyeongpo y la playa de Anmok camino al norte.
+Muchos visitantes combinan esta excursión con un día de coche de alquiler que incluye la playa de Gyeongpo y la playa de Anmok en el trayecto hacia el norte.
 
 ## Qué ver y hacer
 
-El camino principal es una escalera y pasarela corta y bien pavimentada que sube desde el puerto hasta la plataforma del faro; hay que contar entre 5 y 10 minutos de subida, más si te detienes a hacer fotos. En lo alto, el recinto del faro cuenta con una pequeña zona de mirador y puntos fotográficos con vistas al rompeolas y a los barcos pesqueros de abajo.
+El camino principal es una escalera y un paseo bien pavimentados que suben desde el puerto hasta la plataforma del faro. Hay que contar entre 5 y 10 minutos de subida, más si se hacen paradas para fotos. En la parte superior, el recinto del faro cuenta con una pequeña zona de mirador y varios puntos fotográficos con vistas al rompeolas y a los barcos pesqueros de abajo.
 
-Busca el marcador de rodaje de "Goblin" cerca de la escalera del acantilado, un fondo muy popular entre los fans de la serie. A nivel del mar, el propio puerto de Jumunjin merece un paseo antes o después de la subida: es uno de los puertos pesqueros de calamar y pescado más grandes de la costa este, y el mercado de pescado de Jumunjin, justo al lado, vende marisco fresco y seco, incluido el famoso calamar seco (ojingeo) de la región y el pescado semiseco (gwamegi, en temporada).
+Vale la pena buscar el cartel conmemorativo del rodaje de "Goblin" cerca de la escalera junto al acantilado, un fondo muy popular entre los fans de la serie para hacerse fotos.
 
-Tomar un guiso de pescado o sashimi fresco en alguno de los restaurantes frente al puerto es un complemento natural de la visita.
+Al nivel del mar, el propio puerto de Jumunjin merece un paseo antes o después de la subida: se trata de uno de los puertos de desembarco de calamar y pescado más grandes de la costa este, y el mercado de pescado de Jumunjin, situado justo al lado, vende marisco fresco y seco, incluido el famoso calamar seco (ojingeo) de la región y el pescado semiseco (gwamegi, en temporada).
+
+Tomar un guiso de pescado o sashimi fresco en alguno de los restaurantes frente al puerto combina de maravilla con la visita, y los precios en estos locales suelen ser bastante asequibles para la zona.
 
 ## Cuándo ir
 
-El final de la tarde hasta la puesta de sol es el mejor momento: el faro está orientado al mar de forma que capta una luz dorada muy favorecedora, y la actividad del puerto suele intensificarse cuando los barcos regresan al anochecer. Las mañanas son más tranquilas y frescas, ideales si quieres evitar las multitudes y fotografiar sin problemas de contraluz.
+El mejor momento es a última hora de la tarde, hasta la puesta de sol: el faro está orientado hacia el mar de tal manera que la luz dorada del atardecer resulta especialmente favorecedora, y la actividad del puerto suele intensificarse al anochecer, cuando regresan los barcos. Las mañanas son más tranquilas y frescas, ideales para quienes quieran evitar aglomeraciones y fotografiar sin problemas de contraluz.
 
-La primavera y el otoño ofrecen el clima más agradable para la subida; las visitas en verano son viables, pero la escalera, expuesta al sol y con poca sombra, puede calentarse mucho al mediodía. El invierno puede ser ventoso y frío por la exposición costera, así que conviene vestir por capas si se visita entre diciembre y febrero.
+La primavera y el otoño ofrecen el clima más agradable para la subida; en verano también se puede visitar, aunque la escalera, muy expuesta y con poca sombra, se calienta bastante al mediodía. En invierno puede hacer viento y frío debido a la exposición costera, así que conviene vestir por capas si se visita entre diciembre y febrero.
 
-## Cerca de allí y consejos
+## Alrededores y consejos
 
-Subir al faro es gratuito, y el lugar suele estar abierto a los visitantes durante todo el año, aunque conviene confirmar los horarios de acceso vigentes localmente, ya que las instalaciones costeras a veces se ajustan por mantenimiento o mal tiempo. Además del puerto y el mercado, la playa de Jumunjin está a poca distancia en coche y ofrece una alternativa más tranquila que la más concurrida playa de Gyeongpo, cerca del centro de Gangneung.
+Subir al faro es gratuito, y el lugar suele estar abierto a los visitantes todo el año, aunque conviene confirmar localmente el horario de acceso vigente, ya que las instalaciones costeras a veces lo ajustan por mantenimiento o por condiciones meteorológicas. Además del puerto y el mercado, la playa de Jumunjin se encuentra a poca distancia en coche y ofrece una alternativa más tranquila que la más concurrida playa de Gyeongpo, cerca del centro de Gangneung.
 
-Si el tiempo lo permite, el trayecto en coche entre Jumunjin y el centro de Gangneung pasa por varios pueblos pesqueros más pequeños que merece la pena visitar brevemente para tomar un café; este tramo de costa se ha hecho conocido por sus cafeterías pintorescas con ventanales frente al mar. Usa calzado con buen agarre para la escalera, especialmente después de la lluvia, y consulta la marea y el pronóstico del tiempo si planeas combinar la visita al faro con un rato de playa.
+Si el tiempo lo permite, el trayecto en coche entre Jumunjin y el centro de Gangneung pasa por varios pueblos pesqueros más pequeños que merecen una parada rápida para tomar un café; este tramo de costa se ha hecho conocido por sus cafeterías panorámicas con ventanales frente al mar. Conviene llevar calzado con buen agarre para la escalera, especialmente después de la lluvia, y consultar la marea y el pronóstico del tiempo si se planea combinar la visita al faro con un rato de playa.

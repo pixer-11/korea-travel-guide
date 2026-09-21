@@ -1,57 +1,57 @@
 ---
 lang: es
 slug: hue-vietnamese-food-hue-local-food-fastfood-22-restaurant-hue
-srcHash: 'bdfb020c40d1'
-title: 'Comida Vietnamita - Restaurante Local y Fastfood Hue 22: Dónde comer'
-description: Dirígete a 22 Trần Huy Liệu, en el barrio de Phú Xuân, a pocos minutos a pie de la Ciudadela de Hue, para disfrutar de comida vietnamita y platos locales al estilo de Hue, económicos y en gran cantidad (calificación de 4.9 con más de 2,000 reseñas).
-quickAnswer: Dirígete a 22 Trần Huy Liệu, en el barrio de Phú Xuân, a pocos minutos a pie de la Ciudadela de Hue, para disfrutar de comida vietnamita y platos locales al estilo de Hue, económicos y en gran cantidad (calificación de 4.9 con más de 2,000 reseñas). Presupuesta menos de 100,000 VND para una comida completa de especialidades de Hue como bún bò Huế, bánh khoái o com hen, y ve a la hora del almuerzo o al principio de la tarde, cuando la alta rotación mantiene todo fresco.
+srcHash: '04cb2a1b53bf'
+title: 'Comida Vietnamita - Restaurante Hue Local Food & FastFood 22 (Huế): Dónde comer'
+description: Dirígete al número 22 de la calle Trần Huy Liệu, en el barrio de Phú Xuân, a pocos minutos a pie de la Ciudadela de Huế, para probar comida vietnamita y local de estilo Huế, barata y de gran volumen (calificación de 4.9 sobre más de 2,000 reseñas).
+quickAnswer: Dirígete al número 22 de la calle Trần Huy Liệu, en el barrio de Phú Xuân, a pocos minutos a pie de la Ciudadela de Huế, para probar comida vietnamita y local de estilo Huế, barata y de gran volumen (calificación de 4.9 sobre más de 2,000 reseñas). Es un lugar económico ideal para disfrutar de una comida completa con especialidades de Huế como el bún bò Huế, el bánh khoái o el com hen; conviene ir a la hora del almuerzo o a primera hora de la noche, cuando la alta rotación mantiene todo fresco.
 faq:
-  - q: ¿Dónde está exactamente ubicado este restaurante?
-    a: En 22 Trần Huy Liệu, en el barrio de Phú Xuân, en el lado de la Ciudadela (norte) del río Perfume en Hue; a un corto trayecto en taxi o Grab desde la mayoría de los hoteles del centro histórico.
-  - q: ¿Cuánto debería esperar gastar?
-    a: Está clasificado como un restaurante de nivel económico, por lo que una comida completa con varias especialidades de Hue para una o dos personas suele costar mucho menos que en un restaurante turístico tradicional; confirma los precios actuales en el lugar, ya que los costos del menú cambian.
+  - q: ¿Dónde exactamente se encuentra este restaurante?
+    a: En el número 22 de la calle Trần Huy Liệu, en el barrio de Phú Xuân, en la orilla norte del río Perfume (el lado de la Ciudadela) en Huế, a un corto trayecto en taxi o Grab desde la mayoría de los hoteles del centro histórico.
+  - q: ¿Cuánto debería gastar aproximadamente?
+    a: Está clasificado como un restaurante de nivel económico, por lo que una comida completa con varias especialidades de Huế para una o dos personas suele costar mucho menos que en un restaurante turístico formal; conviene confirmar los precios actuales en el propio local, ya que el menú puede variar.
   - q: ¿Qué debería pedir?
-    a: Prueba el bún bò Huế (sopa de fideos con res picante), el bánh khoái (panqueque crujiente), el nem lụi (brochetas de cerdo a la parrilla) y el com hen (arroz con almejas), los platos por los que Hue es más conocida.
-  - q: ¿Cuál es el mejor momento para visitar?
-    a: El almuerzo (11:30am–1:30pm) o la cena temprana (6–7pm) para obtener la comida más fresca y esperas más cortas, dado que el restaurante abre a diario de 9am a 7pm; en cuanto a la temporada, los meses secos de marzo a agosto son los más adecuados para explorar Hue en general.
+    a: 'Prueba el bún bò Huế (sopa de fideos con res, de sabor picante), el bánh khoái (crepe crujiente), el nem lụi (brochetas de cerdo a la parrilla) y el com hen (arroz con almejas): los platos por los que Huế es más conocida.'
+  - q: ¿Cuál es el mejor momento para ir?
+    a: El almuerzo (11:30 a 13:30) o una cena temprana (18:00 a 19:00) son los mejores momentos para comer lo más fresco posible y esperar menos tiempo, ya que el restaurante abre todos los días de 9:00 a 19:00. En cuanto a la temporada, los meses secos de marzo a agosto son, en general, los más adecuados para recorrer Huế.
   - q: ¿Qué más hay cerca?
-    a: La Ciudad Imperial (Ciudadela de Hue) y el mercado Dong Ba están ambos cerca, en la misma orilla del río, lo que facilita combinar una comida aquí con actividades turísticas.
+    a: Tanto la Ciudad Imperial (la Ciudadela de Huế) como el mercado de Dong Ba están muy cerca, en la misma orilla del río, lo que facilita combinar una comida aquí con una jornada de turismo.
 ---
 
 ## Por qué ir
 
-La escena gastronómica de Hue se define por platos que no encontrarás fácilmente fuera del centro de Vietnam: bún bò Huế (sopa de fideos con res picante y limoncillo), bánh khoái (panqueque crujiente de cúrcuma), nem lụi (brochetas de cerdo a la parrilla envueltas en papel de arroz) y com hen (arroz con almejas pequeñas, una especialidad de Hue vinculada al río Perfume).
+La gastronomía de Huế se distingue por platos que no es fácil encontrar fuera del centro de Vietnam: el bún bò Huế (sopa de fideos con res y hierba limón, de sabor picante), el bánh khoái (crepe crujiente de cúrcuma), el nem lụi (brochetas de cerdo a la parrilla envueltas en papel de arroz) y el com hen (arroz con almejas pequeñas, una especialidad de Huế vinculada al río Perfume).
 
-Vietnamese Food - Hue Local Food & FastFood 22 Restaurant, en 22 Trần Huy Liệu, se ha ganado una reputación inusualmente sólida entre los viajeros por ofrecer estos platos a precios bajos y con calidad constante: una calificación de 4.9 en más de 2,000 reseñas es una combinación poco común en una ciudad llena de establecimientos orientados al turismo cerca de la Ciudadela.
+El restaurante Comida Vietnamita - Hue Local Food & FastFood 22, ubicado en el número 22 de la calle Trần Huy Liệu, se ha ganado una reputación poco común entre los viajeros por ofrecer estos platos a precios bajos y con una calidad constante. Una calificación de 4.9 sobre más de 2,000 reseñas es una combinación rara en una ciudad llena de locales orientados al turismo cerca de la Ciudadela.
 
-El nivel de precios se ubica en el rango económico, lo que lo convierte en una parada sólida para quien quiera iniciarse en la cocina de la era imperial de Hue sin comprometerse con un restaurante formal y más caro.
+El nivel de precios se ubica en la gama económica, lo que lo convierte en una parada sólida para quienes quieren iniciarse en la cocina de la era imperial de Huế sin comprometerse con un restaurante formal y más caro.
 
 ## Cómo llegar
 
-El restaurante se encuentra en el barrio de Phú Xuân, en el lado de la Ciudadela (norte) del río Perfume, el corazón histórico de Hue, donde se ubican la antigua Ciudad Imperial y la Puerta Ngo Mon. Trần Huy Liệu es una calle residencial más pequeña, por lo que llegar en taxi, en Grab (la aplicación de transporte dominante en Vietnam) o en bicicleta/motocicleta de alquiler resulta más práctico que intentar llegar a pie desde el otro lado del río, a menos que ya te alojes en la zona de la Ciudadela.
+El restaurante se encuentra en el barrio de Phú Xuân, en la orilla norte del río Perfume (el lado de la Ciudadela), el corazón histórico de Huế donde se ubican la antigua Ciudad Imperial y la Puerta Ngo Mon. Trần Huy Liệu es una calle residencial de menor tamaño, por lo que llegar en taxi, en Grab (la aplicación de transporte más usada en Vietnam) o en bicicleta o motocicleta de alquiler resulta más práctico que intentar cruzar a pie desde la otra orilla del río, salvo que ya te alojes en la zona de la Ciudadela.
 
-La mayoría de los hoteles en la zona de Phú Xuân/Phú Hoà están a 10-15 minutos a pie o a un trayecto muy corto. Si vienes desde la orilla sur, más orientada al turismo (cerca de la calle Le Loi y la estación de trenes), calcula unos 10 minutos en auto cruzando el puente Trang Tien o el puente Phu Xuan.
+La mayoría de los hoteles en la zona de Phú Xuân/Phú Hoà están a 10 o 15 minutos a pie o a un trayecto muy corto en vehículo. Si vienes desde la orilla sur, la más frecuentada por turistas (cerca de la calle Le Loi y la estación de trenes), calcula unos 10 minutos en auto cruzando el puente Trang Tien o el puente Phu Xuan.
 
 ## Qué comer
 
-Ve con hambre y pide varios platos en lugar de uno solo; ese es el sentido de comer al estilo de Hue, donde las porciones son tradicionalmente pequeñas y variadas. Busca:
+Ve con hambre y pide varios platos para compartir en lugar de uno solo; ese es precisamente el sentido de comer al estilo de Huế, donde las porciones son tradicionalmente pequeñas y variadas. Estos son los platos que no debes dejar de probar:
 
-- **Bún bò Huế** — la sopa de fideos insignia de la ciudad, más picante y compleja que su versión al estilo de Saigón, elaborada con un caldo de res y cerdo, limoncillo y aceite de chile.
-- **Bánh khoái** — un panqueque crujiente de harina de arroz relleno de camarón, cerdo y brotes de soja, que se come envuelto en lechuga y remojado en una salsa espesa de cacahuate y hoisin exclusiva de Hue.
-- **Nem lụi** — brochetas de cerdo a la parrilla servidas con papel de arroz, hierbas y la misma salsa característica.
-- **Com hen** — un plato frío de arroz cubierto con pequeñas almejas de río, cacahuates triturados, chicharrón de cerdo y hierbas, tradicionalmente un desayuno popular de Hue.
-- **Bánh bèo, bánh nam, bánh lọc** — el trío de pequeños pasteles de arroz al vapor servidos en platitos, a menudo pedidos juntos como muestra combinada.
+- **Bún bò Huế**, la sopa de fideos emblemática de la ciudad, más picante y compleja que su prima de estilo Saigón, preparada con un caldo de res y cerdo, hierba limón y aceite de chile.
+- **Bánh khoái**, un crepe crujiente de harina de arroz relleno de camarón, cerdo y brotes de soja, que se come envuelto en lechuga y bañado en una espesa salsa de cacahuate y hoisin exclusiva de Huế.
+- **Nem lụi**, brochetas de cerdo a la parrilla que se sirven con papel de arroz, hierbas frescas y la misma salsa característica.
+- **Com hen**, un plato de arroz frío coronado con pequeñas almejas de río, cacahuates triturados, chicharrón de cerdo y hierbas, tradicionalmente el desayuno de la clase trabajadora de Huế.
+- **Bánh bèo, bánh nam y bánh lọc**, el trío de pastelitos de arroz al vapor servidos en platos pequeños, que suelen pedirse juntos a modo de degustación.
 
-Dado el nivel de precios económico, una comida generosa de varios platos para dos personas suele quedar muy por debajo de lo que costaría un solo plato principal en un restaurante de hotel; sin embargo, los precios del menú cambian, así que trata cualquier cifra que te den en el lugar como el dato real, en lugar de basarte en estimaciones externas.
+Dado el nivel de precios económico, una comida abundante de varios platos para dos personas suele costar mucho menos que un solo plato principal en el restaurante de un hotel. Aun así, los precios del menú pueden cambiar, así que conviene tomar como referencia real la cifra que te indiquen en el lugar y no las estimaciones externas.
 
 ## Cuándo ir
 
-El almuerzo y el inicio de la cena suelen ser las franjas más seguras para asegurar frescura y esperas más cortas, ya que un lugar de alta rotación y gran volumen como este cocina de manera continua durante el servicio en lugar de mantener la comida preparada. El restaurante funciona con un horario continuo, sin cierre a mediodía, así que no es necesario planear la visita en función de una pausa del mediodía.
+El almuerzo y la primera hora de la noche suelen ser las franjas más seguras en cuanto a frescura y tiempos de espera más cortos, ya que un lugar de alto volumen y rotación constante como este cocina de forma continua durante el servicio, en lugar de mantener la comida preparada de antemano. El restaurante funciona en un horario continuo, sin cierre a media jornada, así que no es necesario planear la visita evitando una pausa del mediodía.
 
-El clima de Hue es un factor real a considerar al planificar: la temporada seca, aproximadamente de marzo a agosto, es calurosa pero estable, mientras que de octubre a diciembre llegan las lluvias más intensas de la región y ocasionales inundaciones; planifica en consecuencia si hay asientos en la calle o al aire libre, y presta atención al clima si visitas en otoño.
+El clima de Huế es un factor real a la hora de planificar: la temporada seca, que va aproximadamente de marzo a agosto, es calurosa pero estable, mientras que de octubre a diciembre llegan las lluvias más intensas de la región y ocasionales inundaciones. Ten esto en cuenta si el lugar tiene asientos en la calle o al aire libre, y presta atención al pronóstico si visitas la zona en otoño.
 
 ## Cerca de aquí y consejos
 
-Combina una comida aquí con un paseo por la Ciudad Imperial (la Ciudadela de Hue, declarada Patrimonio de la Humanidad por la UNESCO) o una visita al mercado Dong Ba, el mercado principal de la ciudad para bocadillos locales, productos secos y sombreros conicos, ambos en la misma orilla del río. Como el restaurante se orienta más a un servicio local y de comida rápida informal que a una experiencia de mantel blanco, espera asientos sencillos, servicio rápido y un menú en inglés que puede ser limitado; señalar fotos o nombres de platos es una práctica común y totalmente normal aquí.
+Combina una comida aquí con un paseo por la Ciudad Imperial (la Ciudadela de Huế, declarada Patrimonio de la Humanidad por la UNESCO) o una visita al mercado de Dong Ba, el principal mercado de la ciudad para bocadillos locales, productos secos y sombreros cónicos; ambos se encuentran en la misma orilla del río. Como el restaurante se orienta más hacia un servicio local e informal que hacia una experiencia de mantel blanco, espera asientos sencillos, servicio rápido y un menú en inglés que puede ser limitado. Señalar fotos o nombres de platos con el dedo es una práctica común y perfectamente normal aquí.
 
-Confirma el horario actual antes de salir, especialmente cerca de festivos vietnamitas como el Tet, cuando muchos negocios familiares ajustan sus horarios o cierran durante varios días.
+Confirma el horario vigente antes de salir, especialmente en fechas cercanas a festivos nacionales vietnamitas como el Tet, cuando muchos locales familiares ajustan sus horarios o cierran durante varios días.

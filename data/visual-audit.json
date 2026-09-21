@@ -20289,5 +20289,23 @@
     "verdict": "MATCH",
     "reason": "width upgrade: Actual food served at venue table, not studio shot",
     "at": "2026-09-20T21:49:11.714Z"
+  },
+  "seoul-namdaemun-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Namdaemun_market_restaurants_street.JPG/3840px-Namdaemun_market_restaurants_street.JPG": {
+    "slug": "seoul-namdaemun-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Authentic Korean market alley with shops, signage, food stalls",
+    "at": "2026-09-21T03:20:30.889Z"
+  },
+  "seoul-leeum-museum-of-art\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Leeum%2C_Samsung_Museum_of_Art.jpg/1920px-Leeum%2C_Samsung_Museum_of_Art.jpg": {
+    "slug": "seoul-leeum-museum-of-art",
+    "verdict": "MATCH",
+    "reason": "publish gate: Interior view showing Leeum Museum sign and space",
+    "at": "2026-09-21T03:21:36.004Z"
+  },
+  "seoul-n-seoul-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/N_Seoul_Tower_and_Raemian_Caelitus.jpg/3840px-N_Seoul_Tower_and_Raemian_Caelitus.jpg": {
+    "slug": "seoul-n-seoul-tower",
+    "verdict": "MATCH",
+    "reason": "publish gate: N Seoul Tower visible on hilltop amid skyline",
+    "at": "2026-09-21T03:22:30.771Z"
   }
 }
