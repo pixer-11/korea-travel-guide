@@ -465,6 +465,19 @@ function regionRedirects() {
     // reflected in the glass. Retiring it clears that defect for free: the kept
     // post needs no body edit, so nothing re-translates.
     ['tokyo-samaa', 'tokyo-samaa-samaa'],
+    // Dubai Marina Walk, written twice two days apart — the pair the
+    // repeat-collapsing topic key surfaced the moment it landed. Both copies
+    // describe the same 7km canal promenade; Google just files it under a
+    // second listing, "Marina Walk", whose address is the Marina Mall CAR
+    // PARK and whose 116 reviews are the car park's. The retired post wore
+    // that listing: its title advertised (4.7★) from a parking entry, it was
+    // filed as a hidden-gem, and its own body admits the anchor ("listed as
+    // the address anchor for this stretch"). KEPT the 08-11 copy on the real
+    // listing — 28,608 reviews, category attraction, the promenade's own
+    // address. Neither URL is indexed and neither has had an impression in 30
+    // days, so the 08-07 rankings rule has nothing to decide with; the data
+    // being right decides it instead.
+    ['dubai-marina-marina-walk', 'dubai-marina-dubai-marina-walk'],
   ];
   // Resolve one hop at build time: when the KEPT twin is itself quarantined,
   // pointing at it produced a 301→301 chain ending wherever the draft rule
