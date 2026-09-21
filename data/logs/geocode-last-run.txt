@@ -1,10 +1,5 @@
-ATTACHED: tokyo-bar-satoyama-spirits-tokyo.md ← SATOYAMA SPIRITS TOKYO
-SKIPPED (name mismatch — "Chiikawa Ramen Buta" vs result name "Chikawa Ramen Pork"): tokyo-chiikawa-ramen-buta.md
-ATTACHED: tokyo-pres-de-l-as.md ← Prés de L’AS
-ATTACHED: tokyo-samaa-samaa.md ← SAMAA_
-ATTACHED: tokyo-samaa.md ← SAMAA_
-ATTACHED: tokyo-smith-wollensky-ginza.md ← Smith & Wollensky GINZA
-ATTACHED: tokyo-tofrom-yaesu.md ← TOFROM YAESU TOWER
-ATTACHED: tokyo-vannelli-coffee.md ← Vannelli Coffee
+SKIPPED (closed (businessStatus=CLOSED_PERMANENTLY)): seoul-cafe-3-stripes-seoul.md
+SKIPPED (closed (businessStatus=CLOSED_PERMANENTLY)): seoul-hakusi.md
+SKIPPED (name mismatch — "Seongsu Cafes" vs result name "Highline"): seoul-seongsu-cafes.md
 
-GEOCODE RESULT: attached 7, skipped 1 of 8
+GEOCODE RESULT: attached 0, skipped 3 of 3
