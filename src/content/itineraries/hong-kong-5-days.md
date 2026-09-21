@@ -6,7 +6,7 @@ title: '5-Day Hong Kong Itinerary: Harbourfront, Temples, Lantau and Sai Kung'
 description: A 5-day Hong Kong itinerary moving from Kowloon's waterfront and Kowloon's temples and gardens to Lantau Island's Big Buddha, Sai Kung's coast and country park, and Causeway Bay's harbourfront and temples.
 quickAnswer: This is a 5-day Hong Kong itinerary that moves from Kowloon's waterfront and Sha Tin's temples and gardens, to Lantau Island's Big Buddha, out to Sai Kung's coast and country park, and finally through Causeway Bay's harbourfront to a temple in the New Territories.
 pubDate: '2026-08-20T09:34:29.981Z'
-stopsHash: 2ab6f3444e0de591106bfd4fff74d3da7ffae872
+stopsHash: bfd5ece2df5d397bddbc729bec5150bfe369b24d
 packedAvailable: true
 faq:
   - q: How much walking does this 5-day Hong Kong itinerary involve?
@@ -44,13 +44,13 @@ itinerary:
         why: The harbour view from the Admiralty side captures Hong Kong's skyline and sets up the nightly Symphony of Lights.
         dwellMin: 60
         walkToNext:
-          km: 0.9
+          km: 1.1
           minutes: null
           transit: true
-      - slug: tsim-sha-tsui-tsim-sha-tsui-waterfront-park
+      - slug: tsim-sha-tsui-kowloon-park
         slot: evening
-        why: This Tsim Sha Tsui East promenade closes the day with the postcard skyline view as the Symphony of Lights begins.
-        dwellMin: 75
+        why: An attraction rated 4.4 by visitors, included as a stop on this route.
+        dwellMin: 45
         walkToNext: null
     rainSwapSlug: hong-kong-hong-kong-museum-of-art
   - label: Temples and gardens, Kowloon to Sha Tin
@@ -187,6 +187,6 @@ itinerary:
     rainSwapSlug: sha-tin-hong-kong-science-museum
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-18T08:08:06.932Z'
+updatedDate: '2026-09-21T08:10:39.945Z'
 ---
 

@@ -20307,5 +20307,113 @@
     "verdict": "MATCH",
     "reason": "publish gate: N Seoul Tower visible on hilltop amid skyline",
     "at": "2026-09-21T03:22:30.771Z"
+  },
+  "pai-huai-nam-dang-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/e/ec/Huai_Nam_Dang_National_Park.jpg": {
+    "slug": "pai-huai-nam-dang-national-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Mountain viewpoint scene matches park's scenic overlook attraction",
+    "at": "2026-09-21T07:37:22.367Z"
+  },
+  "koh-tao-view-point-resort\u0001https://upload.wikimedia.org/wikipedia/commons/0/0c/View_Point_resort_view_-_panoramio.jpg": {
+    "slug": "koh-tao-view-point-resort",
+    "verdict": "MATCH",
+    "reason": "publish gate: Infinity pool with ocean view, matches viewpoint resort",
+    "at": "2026-09-21T07:38:06.094Z"
+  },
+  "tsim-sha-tsui-kowloon-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/2013-08-06_06-44-02_Wikimania.jpg/1920px-2013-08-06_06-44-02_Wikimania.jpg": {
+    "slug": "tsim-sha-tsui-kowloon-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows Kowloon Park garden area with skyline, plausible representative view",
+    "at": "2026-09-21T07:38:54.207Z"
+  },
+  "washington-dc-baked-wired\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Baked_%26_Wired_-_Georgetown_%2855264711438%29.jpg/1920px-Baked_%26_Wired_-_Georgetown_%2855264711438%29.jpg": {
+    "slug": "washington-dc-baked-wired",
+    "verdict": "MATCH",
+    "reason": "publish gate: Storefront exterior with visible sign, representative view",
+    "at": "2026-09-21T07:40:01.188Z"
+  },
+  "seville-alamillo-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Avenida_alamillo.JPG/1920px-Avenida_alamillo.JPG": {
+    "slug": "seville-alamillo-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Park path with distinctive Alamillo bridge cable visible",
+    "at": "2026-09-21T07:40:37.874Z"
+  },
+  "goyang-bukhansanseong-fortress\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Korea-Bukhansan-04.jpg/1920px-Korea-Bukhansan-04.jpg": {
+    "slug": "goyang-bukhansanseong-fortress",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows fortress wall along mountain ridge, representative view",
+    "at": "2026-09-21T07:41:35.263Z"
+  },
+  "bali-badung-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Badung_Market.jpg/3840px-Badung_Market.jpg": {
+    "slug": "bali-badung-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows Badung Market building with canal, plausible venue exterior",
+    "at": "2026-09-21T07:42:31.515Z"
+  },
+  "bali-bajra-sandhi-monument\u0001https://upload.wikimedia.org/wikipedia/commons/f/f8/Aerial_view_of_Bajra_Sandhi_Monument_Denpasar_Bali_Indonesia.jpg": {
+    "slug": "bali-bajra-sandhi-monument",
+    "verdict": "MATCH",
+    "reason": "publish gate: Aerial view of Bajra Sandhi Monument, representative hero shot",
+    "at": "2026-09-21T07:43:43.261Z"
+  },
+  "seattle-pike-place-fish-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Pike_Place_Fish_1.jpg/1920px-Pike_Place_Fish_1.jpg": {
+    "slug": "seattle-pike-place-fish-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows iconic Pike Place Fish Co seafood display and signage",
+    "at": "2026-09-21T07:44:47.674Z"
+  },
+  "san-francisco-ferry-building\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/San_Francisco_Ferry_Building_%28cropped%29.jpg/3840px-San_Francisco_Ferry_Building_%28cropped%29.jpg": {
+    "slug": "san-francisco-ferry-building",
+    "verdict": "MATCH",
+    "reason": "publish gate: Iconic exterior view of San Francisco Ferry Building",
+    "at": "2026-09-21T07:45:29.730Z"
+  },
+  "phuket-chillva-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chillva_Market_Stage.jpg/3840px-Chillva_Market_Stage.jpg": {
+    "slug": "phuket-chillva-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows venue entrance with clear signage, representative of market",
+    "at": "2026-09-21T07:46:20.589Z"
+  },
+  "chiang-mai-night-bazaar-chiang-mai\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Chiang_Mai_Night_Bazaar_in_2018.jpg/3840px-Chiang_Mai_Night_Bazaar_in_2018.jpg": {
+    "slug": "chiang-mai-night-bazaar-chiang-mai",
+    "verdict": "MATCH",
+    "reason": "publish gate: Interior market aisle with stalls, matches night bazaar setting",
+    "at": "2026-09-21T07:47:09.421Z"
+  },
+  "paris-rue-mouffetard-market\u0001https://upload.wikimedia.org/wikipedia/commons/4/4f/Rue_Mouffetard_food_market%2C_Paris_8_May_2012.jpg": {
+    "slug": "paris-rue-mouffetard-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Authentic Parisian street market scene with shops and pedestrians",
+    "at": "2026-09-21T07:47:41.119Z"
+  },
+  "istanbul-bosphorus-view-point\u0001https://upload.wikimedia.org/wikipedia/commons/b/be/Bosphorus_-_View_from_Rumelihisari_%283501789921%29.jpg": {
+    "slug": "istanbul-bosphorus-view-point",
+    "verdict": "MATCH",
+    "reason": "publish gate: Fortress towers framing Bosphorus water view, representative scene",
+    "at": "2026-09-21T07:48:35.617Z"
+  },
+  "dubai-waterfront-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Home_image_WATERFRONT_MARKET.jpg/1920px-Home_image_WATERFRONT_MARKET.jpg": {
+    "slug": "dubai-waterfront-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Interior market view with produce stalls, matches venue type",
+    "at": "2026-09-21T07:49:17.160Z"
+  },
+  "gyeongju-cheomseongdae-observatory\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Cheomseongdae_Observatory_under_blue_sky_in_Gyeongju_South_Korea.jpg/3840px-Cheomseongdae_Observatory_under_blue_sky_in_Gyeongju_South_Korea.jpg": {
+    "slug": "gyeongju-cheomseongdae-observatory",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows Cheomseongdae Observatory structure in Gyeongju setting",
+    "at": "2026-09-21T07:50:08.261Z"
+  },
+  "washington-dc-eastern-market\u0001https://upload.wikimedia.org/wikipedia/commons/4/40/Eastern_Market_-_facade.JPG": {
+    "slug": "washington-dc-eastern-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior of Eastern Market building with vendor stalls",
+    "at": "2026-09-21T08:13:55.904Z"
+  },
+  "abu-dhabi-abu-dhabi-dates-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Date_shop_at_Abu_Dhabi_Vegetable_Market.JPG/3840px-Date_shop_at_Abu_Dhabi_Vegetable_Market.JPG": {
+    "slug": "abu-dhabi-abu-dhabi-dates-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows actual dates market storefront with signage in Abu Dhabi",
+    "at": "2026-09-21T08:14:24.459Z"
   }
 }

@@ -6,16 +6,16 @@
    "hits": 1
   },
   "historic site": {
-   "attempts": 154,
-   "hits": 94
+   "attempts": 156,
+   "hits": 95
   },
   "park": {
-   "attempts": 162,
-   "hits": 101
+   "attempts": 174,
+   "hits": 105
   },
   "viewpoint": {
-   "attempts": 64,
-   "hits": 7
+   "attempts": 66,
+   "hits": 9
   },
   "art gallery": {
    "attempts": 60,
@@ -30,7 +30,7 @@
    "hits": 4
   },
   "museum": {
-   "attempts": 133,
+   "attempts": 134,
    "hits": 73
   },
   "noodles": {
@@ -38,15 +38,15 @@
    "hits": 0
   },
   "old quarter": {
-   "attempts": 21,
-   "hits": 3
+   "attempts": 23,
+   "hits": 4
   },
   "local market": {
-   "attempts": 46,
-   "hits": 11
+   "attempts": 58,
+   "hits": 20
   },
   "bookshop": {
-   "attempts": 8,
+   "attempts": 10,
    "hits": 0
   },
   "seafood": {
@@ -70,8 +70,8 @@
    "hits": 5
   },
   "bakery": {
-   "attempts": 34,
-   "hits": 1
+   "attempts": 35,
+   "hits": 2
   },
   "bar": {
    "attempts": 34,
@@ -94,7 +94,7 @@
    "hits": 0
   },
   "design shop": {
-   "attempts": 18,
+   "attempts": 19,
    "hits": 0
   },
   "Sisowath Quay Riverside": {
@@ -178,5 +178,5 @@
    "hits": 0
   }
  },
- "updated": "2026-09-21T04:16:37.795Z"
+ "updated": "2026-09-21T08:14:24.472Z"
 }

@@ -1,39 +1,39 @@
 ---
 lang: es
 slug: seoul-3-days
-sourceHash: 7d05d8a64eb27ed79bb22f0dce778d3c3e218f8a
-title: 'Itinerario de 3 días por Seúl: mercados, palacios, Namsan y los callejones de arte de Mullae'
-description: Un itinerario de 3 días por Seúl que recorre los mercados, la comida de templo y los callejones hanok del distrito de Jongno y del distrito de Jung, una jornada de Namsan a Cheonggyecheon, y un cierre desde Yeouido hasta Mapo-gu por los callejones creativos de Mullae.
-quickAnswer: 'Este es un itinerario de 3 días por Seúl: el primer día abarca el distrito de Jongno y el distrito de Jung con mercados, comida de templo y callejones hanok; el segundo día avanza desde la Torre Namsan, en el distrito de Yongsan, pasando por el mercado y el palacio del distrito de Jung, hasta un paseo junto al arroyo en el distrito de Jongno; el tercer día se traslada al parque ribereño del distrito de Yeongdeungpo y a la escena de cafés de Mapo-gu, antes de cerrar de nuevo en Mullae-dong, en el distrito de Yeongdeungpo.'
+sourceHash: bf8868501dcdf0245199d481adec02147e85b2d3
+title: 'Itinerario de 3 días en Seúl: mercados, palacios, Namsan y Mullae-dong'
+description: Un itinerario de 3 días en Seúl que recorre los mercados y callejones de hanok de Jongno, las vistas de Namsan y los palacios del distrito de Jung, y un día que va desde el río hasta un pueblo de arte industrial en Yeongdeungpo y Mapo-gu.
+quickAnswer: 'Este es un itinerario de 3 días en Seúl: el primer día abarca los mercados y callejones de artesanía del distrito de Jongno, con una incursión en la escena de bares newtro del distrito de Jung; el segundo día va desde el monte Namsan, en el distrito de Yongsan, hasta el mercado y el palacio del distrito de Jung, y termina en un bar de Gangnam; el tercer día es más ligero y combina el parque ribereño del distrito de Yeongdeungpo y el pueblo de arte de Mullae-dong con una parada en una cafetería de Mapo-gu.'
 faq:
-  - q: ¿Cuánto se camina en este itinerario de 3 días por Seúl?
-    a: Cada día combina caminatas cortas entre paradas cercanas con algunos trayectos más largos en transporte, como los tramos que superan la distancia caminable del segundo y tercer día, así que conviene llevar calzado cómodo en todo momento.
-  - q: ¿Cuál es la mejor manera de moverse entre las paradas?
-    a: La mayoría de las paradas dentro de un mismo día están lo bastante cerca como para ir a pie, pero algunas transiciones, como de Euljiro a la Aldea Hanok de Bukchon o a través de Yeouido hasta Yeonnam-dong, se señalan como mejor hacerlas en transporte público.
-  - q: ¿Es flexible este itinerario si llueve?
-    a: El primer y el segundo día incluyen cada uno una alternativa para días de lluvia que puede sustituir el recorrido al aire libre de esa jornada si el clima cambia.
-  - q: ¿En qué días hay visitas a mercados?
-    a: El primer día incluye el Mercado Gwangjang por la mañana y el segundo día incluye el Mercado Namdaemun por la tarde, de modo que hay bastante tiempo para recorrer puestos sin repetir el mismo mercado dos veces.
-  - q: ¿Es necesario reservar en alguna de estas paradas?
-    a: Dallas Pizza, en el tercer día, funciona solo con reserva, y en Sanchon, el primer día, conviene reservar con antelación si es posible dado su formato de varios platos sin prisas.
+  - q: ¿Cómo debería moverme para este itinerario?
+    a: Las paradas se extienden por varios distritos, entre ellos Jongno, Jung, Yongsan, Yeongdeungpo y Mapo-gu, así que conviene combinar caminatas para los trayectos cercanos con transporte público para los cruces más largos, especialmente en los días dos y tres, donde algunas paradas se señalan como fuera de distancia a pie.
+  - q: ¿Cuál es el día más relajado?
+    a: El día tres es el más ligero, y gira en torno al Parque Yeouido, una pausa para café en Mapo-gu y la cena en el distrito de arte de Mullae-dong.
+  - q: ¿Este itinerario tiene mucho enfoque en la comida?
+    a: La comida y la cultura de mercado tienen un papel importante el primer día, con el Mercado Gwangjang y el menú de comida de templo de Sanchon, y de nuevo el segundo día con el Mercado Namdaemun, pero el tercer día se centra más en parques y paseos por el barrio.
+  - q: ¿Necesito reserva en algún lugar?
+    a: Tanto Zest como Dallas Pizza se benefician de reservar con antelación dado su formato, así que conviene planificarlos con tiempo en lugar de presentarse sin aviso.
+  - q: ¿Qué pasa si llueve durante el viaje?
+    a: Cada día incluye una alternativa para días de lluvia, que sustituye las paradas al aire libre o en la calle por una opción interior que se ajusta al mismo momento del día.
 days:
-  - label: Mercados, comida de templo y callejones hanok
-    intro: El primer día recorre los rincones más antiguos del distrito de Jongno antes de cruzar al distrito de Jung para una escapada retro de bares. Empieza con un recorrido de comida de calle por un mercado centenario, tómate un momento con un almuerzo de comida de templo en Insadong, y luego camina desde los callejones de Euljiro de vuelta al distrito de Jongno para terminar entre los techos hanok de Bukchon.
-  - label: Vistas desde la torre, mercados y un paseo junto al río
-    intro: 'El segundo día empieza en las alturas de la ciudad, en el distrito de Yongsan, y desciende hacia el distrito de Jung para recorrer el mercado y los jardines del palacio, antes de terminar junto a un arroyo en el distrito de Jongno. Es un día de contrastes: una vista desde la cima de una montaña, un mercado extenso, un palacio amurallado y un tranquilo paseo junto al agua para cerrar la jornada.'
-  - label: Parques, plantas y los callejones traseros de Mullae
-    intro: El tercer día cambia los palacios por zonas verdes y barrios creativos, empezando en el parque ribereño del distrito de Yeongdeungpo antes de cruzar a Mapo-gu para una parada en un café, y luego volviendo al Mullae-dong, el antiguo barrio industrial hoy convertido en zona artística del distrito de Yeongdeungpo, para cenar.
+  - label: Mercados, comida de templo y callejones retro
+    intro: El primer día recorre el antiguo mercado y las calles de artesanía del distrito de Jongno antes de cruzar hacia la escena de bares newtro del distrito de Jung, para luego volver a Jongno y terminar con bagels. Se puede esperar comida de calle, un almuerzo pausado de estilo monástico y un cambio del bullicio diurno al paseo nocturno por los callejones.
+  - label: De las vistas de Namsan a una copa nocturna en Gangnam
+    intro: El segundo día comienza en el monte Namsan, en el distrito de Yongsan, y luego se instala en el distrito de Jung para un buen rato de mercado y paseo por el palacio, antes de dirigirse a un bar de cócteles en Gangnam para cerrar la noche. Es una mezcla de turismo al aire libre y pausas más tranquilas en interiores.
+  - label: Del parque ribereño al pueblo de arte industrial
+    intro: El tercer día comienza en el parque ribereño del distrito de Yeongdeungpo, cruza hacia Mapo-gu para una pausa en una cafetería llena de plantas, y luego regresa a Yeongdeungpo para cenar en el distrito de arte de Mullae-dong. Es el día más ligero del viaje, centrado en espacios verdes y paseos por el barrio.
 whys:
-  seoul-gwangjang-market: Al ser el mercado tradicional más antiguo de Seúl, es el lugar natural para empezar el primer día con un recorrido de degustación por el callejón de comida probando bindaetteok, mayak gimbap y yukhoe.
-  seoul-sanchon: Escondido en un callejón junto a Insadong-gil, su menú fijo de comida de templo ofrece un contrapunto pausado y sin prisas al recorrido matutino por el mercado.
-  seoul-euljiro: Este antiguo barrio de imprentas y ferreterías, con sus callejones estrechos y bares newtro, resulta un paseo lleno de ambiente para el atardecer entre el almuerzo y Bukchon.
-  seoul-bukchon-hanok-village: Sus callejuelas en la colina, con casas hanok de madera de siglos de antigüedad y vistas de tejados de tejas, ofrecen un cierre apropiado y más tranquilo para el primer día.
-  seoul-n-seoul-tower: Situada en la cima del monte Namsan, es una primera parada natural para el segundo día, con mañanas de semana más tranquilas ideales para evitar las multitudes.
-  seoul-namdaemun-market: Al ser el mercado tradicional más antiguo y más grande de la ciudad, sus callejones de ropa, utensilios de cocina y comida de calle ofrecen un buen recorrido para el mediodía.
-  seoul-deoksugung-palace: Justo frente al Ayuntamiento, su sendero junto al muro de piedra y su ceremonia de guardias ofrecen un contrapunto más calmado al mercado antes de que termine el día.
-  seoul-cheonggyecheon: Este arroyo restaurado y hundido es un paseo corto bordeado de sauces que resulta una forma sencilla y relajada de cerrar el segundo día.
-  seoul-yeouido-park: Este parque ribereño sin autos, con céspedes, estanques y senderos para bicicleta, es una manera relajada de abrir el tercer día.
-  seoul-plant-cafe-seoul-yeonnam: Un café con estilo de invernadero en Yeonnam-dong, es el tipo de lugar en el que conviene quedarse un rato después del paseo matutino por el parque.
-  seoul-dallas-pizza: Escondido en un callejón junto a un taller metalúrgico en Mullae-dong, combina bien con un paseo por el pueblo artístico de murales del barrio para cerrar la noche del viaje.
+  seoul-gwangjang-market: Es el mercado tradicional más antiguo de Seúl y un destino legendario de comida de calle, lo que lo convierte en un inicio natural para un día centrado en la cultura gastronómica y de mercado del distrito de Jongno.
+  seoul-sanchon: Un menú fijo de comida de templo en un callejón cerca de Insadong-gil ofrece un contraste tranquilo y sin carne con la comida de calle de la mañana, y su ubicación combina bien con una tarde entre las tiendas de artesanía de Insadong.
+  seoul-euljiro: Este antiguo distrito de imprentas y ferreterías, hoy convertido en escena de bares newtro, se disfruta mejor al atardecer, cuando los talleres cierran y los letreros de los bares se encienden, lo que lo convierte en un punto de transición ideal entre la tarde y la noche.
+  seoul-london-bagel-museum: Como la panadería más comentada de Seúl, cerca de la Aldea Hanok de Bukchon, es una parada final adecuada para un día que comenzó en las históricas calles de mercado de Jongno.
+  seoul-n-seoul-tower: En lo alto del monte Namsan, ofrece una forma tranquila y panorámica de comenzar el día antes de que los mercados y calles de la ciudad se llenen de gente.
+  seoul-namdaemun-market: Como el mercado tradicional más antiguo y grande de la ciudad, es una parada completa e inmersiva para la tarde, con callejones de ropa, utensilios de cocina y comida de calle.
+  seoul-deoksugung-palace: Justo frente al Ayuntamiento, en el distrito de Jung, su camino junto al muro de piedra y su ceremonia de guardias lo convierten en una siguiente parada natural después del mercado.
+  seoul-zest: Un bar de cócteles de desperdicio cero conocido por sus licores y sodas de elaboración propia, es una copa nocturna tranquila y apropiada para cerrar el día.
+  seoul-yeouido-park: Este corredor verde sin autos, abierto las 24 horas en la isla de Yeouido, es una manera sencilla y sin prisas de comenzar un día más ligero.
+  seoul-plant-cafe-seoul-yeonnam: Una cafetería de estilo invernadero en Yeonnam-dong, es una parada relajada para quedarse un rato durante una pausa por la tarde entre el parque y la cena.
+  seoul-dallas-pizza: Ubicada en el distrito de arte de Mullae-dong junto a un taller de metal en funcionamiento, ofrece una cena singular combinada con un paseo por el pueblo de arte cubierto de murales.
 rainWhys: {}
 ---
