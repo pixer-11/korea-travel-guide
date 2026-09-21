@@ -21,7 +21,7 @@ export const DAY_MIN_MINUTES = 240;
 const LUNCH_DETOUR_KM = 2.5;     // a lunch stop may not bend the day's route by more than this
 
 export function qualifyingPosts(posts) {
-  return posts.filter((p) => {
+  const eligible = posts.filter((p) => {
     const d = p.data;
     if (d.draft || d.category === 'event') return false;
     const pl = d.place || {};
@@ -29,6 +29,43 @@ export function qualifyingPosts(posts) {
     if (String(pl.businessStatus || '').startsWith('CLOSED')) return false;
     return true;
   });
+
+  // One venue, one stop. The generator already refuses to publish a place it
+  // has published before (USED_PLACE_IDS in scripts/generate.mjs) — but that
+  // ledger is built from `place.id`, and a PLACELESS post has no place block
+  // to be found by, so it is invisible to the check. Publish a venue while its
+  // first write-up is placeless and you get two posts for it; attach
+  // coordinates later (scripts/geocode-placeless.mjs) and both become
+  // itinerary candidates at the same lat/lng. Tokyo's SAMAA_ did exactly that
+  // — 2026-09-09 and 2026-09-16, both resolving to ChIJO5u-SQ_1GGAR… — and the
+  // solver could not see it, because its own de-duplication is by post id
+  // (slug). The day would have carried the same bar twice with a 0-minute walk
+  // between them, and the gate count would have counted one venue as two.
+  //
+  // Earliest pubDate wins so the choice is stable across runs and independent
+  // of directory order; post id breaks a tie for the same reason. Posts with
+  // no place.id are never merged — a missing id is not a shared identity.
+  const byPlace = new Map();
+  for (const p of eligible) {
+    const id = p.data.place?.id;
+    if (!id) continue;
+    const prev = byPlace.get(id);
+    if (!prev || isEarlierPost(p, prev)) byPlace.set(id, p);
+  }
+  return eligible.filter((p) => {
+    const id = p.data.place?.id;
+    return !id || byPlace.get(id) === p;
+  });
+}
+
+function isEarlierPost(a, b) {
+  const t = (p) => {
+    const v = new Date(p.data.pubDate ?? 0).getTime();
+    return Number.isFinite(v) ? v : 0;
+  };
+  const ta = t(a), tb = t(b);
+  if (ta !== tb) return ta < tb;
+  return String(a.id) < String(b.id);
 }
 
 export function gateFor(n) {

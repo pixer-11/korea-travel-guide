@@ -18,6 +18,29 @@ test('qualifying excludes drafts, events, closed, coordless', () => {
   assert.deepEqual(qualifyingPosts(posts).map((p) => p.id), ['a']);
 });
 
+// ── 한 장소에 글이 두 편이면 정류장도 두 개가 된다 ────────────────────
+// 발행기는 place.id 로 중복을 막지만(USED_PLACE_IDS), **좌표 없는 글은 그
+// 목록에 안 보인다.** 그래서 같은 가게가 두 번 발행될 수 있고(도쿄 SAMAA_:
+// 09-09 와 09-16, 같은 ChIJO5u-SQ_1GGAR...), 나중에 좌표가 붙는 순간 일정표
+// 후보에 **같은 좌표의 정류장 2개**로 들어온다. 솔버의 중복 제거는 slug
+// 기준이라 이걸 못 본다 — 하루에 같은 술집이 두 번 들어가고 그 사이 도보
+// 구간은 0분이 된다. 문턱 계수도 한 곳을 두 번 세게 된다.
+test('qualifying: two posts for the SAME place count once (earliest wins)', () => {
+  const posts = [
+    P('later', 35.6, 139.6, 'hidden-gem', { place: { lat: 35.6, lng: 139.6, businessStatus: 'OPERATIONAL', id: 'PLACE_X' }, pubDate: '2026-09-16' }),
+    P('earlier', 35.6, 139.6, 'hidden-gem', { place: { lat: 35.6, lng: 139.6, businessStatus: 'OPERATIONAL', id: 'PLACE_X' }, pubDate: '2026-09-09' }),
+    P('other', 35.7, 139.7, 'attraction', { place: { lat: 35.7, lng: 139.7, businessStatus: 'OPERATIONAL', id: 'PLACE_Y' } }),
+  ];
+  assert.deepEqual(qualifyingPosts(posts).map((p) => p.id).sort(), ['earlier', 'other']);
+});
+
+test('qualifying: posts with no place.id are never merged with each other', () => {
+  // A missing id is not a shared identity — two coordless-but-geocoded posts
+  // (or fixtures without ids, like most of this file's) must all survive.
+  const posts = [P('a', 37.5, 127.0), P('b', 37.6, 127.1)];
+  assert.deepEqual(qualifyingPosts(posts).map((p) => p.id).sort(), ['a', 'b']);
+});
+
 test('closedDaysOf parses Places weekday strings', () => {
   assert.deepEqual(closedDaysOf(['Monday: 9:00 AM – 6:00 PM', 'Tuesday: Closed']), ['Tuesday']);
   assert.deepEqual(closedDaysOf(undefined), []);

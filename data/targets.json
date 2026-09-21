@@ -1496,6 +1496,104 @@
       "topic": "Otres Beach",
       "category": "attraction",
       "query": "Otres Beach Sihanoukville Cambodia"
+    },
+    {
+      "country": "Thailand",
+      "region": "Bangkok",
+      "topic": "Wat Saket Golden Mount",
+      "category": "attraction",
+      "query": "Wat Saket Golden Mount Bangkok Thailand"
+    },
+    {
+      "country": "Thailand",
+      "region": "Bangkok",
+      "topic": "Jim Thompson House",
+      "category": "attraction",
+      "query": "Jim Thompson House Museum Bangkok Thailand"
+    },
+    {
+      "country": "Thailand",
+      "region": "Bangkok",
+      "topic": "Wat Benchamabophit",
+      "category": "attraction",
+      "query": "Wat Benchamabophit Marble Temple Bangkok Thailand"
+    },
+    {
+      "country": "Thailand",
+      "region": "Bangkok",
+      "topic": "Lumphini Park",
+      "category": "attraction",
+      "query": "Lumphini Park Bangkok Thailand"
+    },
+    {
+      "country": "Thailand",
+      "region": "Bangkok",
+      "topic": "Wat Traimit Golden Buddha",
+      "category": "attraction",
+      "query": "Wat Traimit Golden Buddha Bangkok Thailand"
+    },
+    {
+      "country": "Thailand",
+      "region": "Bangkok",
+      "topic": "Erawan Shrine",
+      "category": "attraction",
+      "query": "Erawan Shrine Bangkok Thailand"
+    },
+    {
+      "country": "Japan",
+      "region": "Tokyo",
+      "topic": "Tokyo Skytree",
+      "category": "attraction",
+      "query": "Tokyo Skytree Sumida Tokyo Japan"
+    },
+    {
+      "country": "Japan",
+      "region": "Tokyo",
+      "topic": "Ueno Park",
+      "category": "attraction",
+      "query": "Ueno Park Tokyo Japan"
+    },
+    {
+      "country": "Japan",
+      "region": "Tokyo",
+      "topic": "Imperial Palace East Gardens",
+      "category": "attraction",
+      "query": "Imperial Palace East Gardens Tokyo Japan"
+    },
+    {
+      "country": "Japan",
+      "region": "Tokyo",
+      "topic": "Yoyogi Park",
+      "category": "attraction",
+      "query": "Yoyogi Park Shibuya Tokyo Japan"
+    },
+    {
+      "country": "Japan",
+      "region": "Tokyo",
+      "topic": "Rikugien Garden",
+      "category": "attraction",
+      "query": "Rikugien Garden Bunkyo Tokyo Japan"
+    },
+    {
+      "country": "Japan",
+      "region": "Tokyo",
+      "topic": "Koishikawa Korakuen",
+      "category": "attraction",
+      "query": "Koishikawa Korakuen Garden Tokyo Japan"
+    },
+    {
+      "country": "Japan",
+      "region": "Tokyo",
+      "topic": "Nezu Museum",
+      "category": "attraction",
+      "query": "Nezu Museum Minato Tokyo Japan"
+    },
+    {
+      "country": "Japan",
+      "region": "Tokyo",
+      "topic": "Toyosu Market",
+      "category": "restaurant",
+      "query": "Toyosu Market Tokyo Japan"
     }
   ]
 }
