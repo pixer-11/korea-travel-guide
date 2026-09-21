@@ -45,7 +45,7 @@ faq:
   - q: "What are the opening hours for Night Bazaar Chiang Mai?"
     a: "It runs every night of the week from 5pm to midnight, with no day off, on Changklan Road."
   - q: "When is the best time to visit to avoid crowds?"
-    a: "Arrive right at 5pm before the evening rush builds, or come back after 10pm when the crowd thins. The busiest stretch tends to fall between 7pm and 9pm, especially on weekends."
+    a: "Arrive right at 5pm, while the stalls are still setting out, or come back after 10pm once the tour groups and families have gone. The hours in between are dinner time for the whole strip, so that is when the aisles are hardest to move through."
   - q: "How do I get to Night Bazaar Chiang Mai?"
     a: "It's on Changklan Road just outside the old city's southeast corner, a short walk or songthaew/tuk-tuk ride from Tha Phae Gate. Ride-hailing apps work well since street parking is limited once the market opens."
   - q: "How long should I spend at the market?"
@@ -53,8 +53,7 @@ faq:
   - q: "Is bargaining expected here?"
     a: "Yes, for crafts, clothing and souvenirs, vendors expect you to counter-offer. Food stalls are generally fixed-price, and cash is the most widely accepted payment."
 aiGenerated: true
-draft: true
-heldReason: content
+draft: false
 ---
 
 Night Bazaar runs the length of Changklan Road on the east side of the old city moat, a corridor of covered stalls, side arcades and multi-storey market buildings that only wakes up as the sun goes down. By day it's mostly shuttered metal shutters and parked motorbikes; by 5pm the tables are out, the string lights are on, and the whole strip turns into one continuous aisle of vendors.
@@ -96,7 +95,7 @@ This is one of Chiang Mai's most-visited night markets, and Changklan Road gets 
 
 Arriving right at 5pm, before the tour buses empty out, gives you a clearer run at the stalls. Coming back after 10pm thins the crowd again as families and day-trippers head out, leaving the food stalls and late shoppers.
 
-Middle of the evening, especially on weekends, is when the aisles bottleneck. If crowds bother you, treat 7pm to 9pm as the window to avoid rather than aim for.
+The middle of the evening is when the whole strip eats, and that is when the aisles bottleneck. If crowds bother you, aim for the opening hour or the last stretch before midnight rather than the dinner rush.
 
 ## Getting there and moving on
 

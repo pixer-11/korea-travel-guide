@@ -246,7 +246,11 @@ for (const [f, why] of reasons) {
     const reason = [
       whys.some((w) => /영업시간|hours/i.test(w)) && 'hours',
       whys.some((w) => /지역 태그|region/i.test(w)) && 'wrong-region',
-      whys.some((w) => !/영업시간|hours|지역 태그|region/i.test(w)) && 'content',
+      // 2026-09-21: 혼잡 주장은 전용 검사기(audit-crowd-claims)가 있는데
+      // 'content' 로 뭉뚱그려 적히는 바람에, 그 검사기로 풀 수 있는 사유가
+      // "사람이 볼 자리"(validate-content 는 초안을 안 본다) 로 넘어갔다.
+      whys.some((w) => /혼잡|crowd/i.test(w)) && 'crowd-claims',
+      whys.some((w) => !/영업시간|hours|지역 태그|region|혼잡|crowd/i.test(w)) && 'content',
     ].filter(Boolean).join('+') || 'content';
     // 보류 사유가 이미 있으면 덮어쓰지 않는다 — 먼저 기록된 사유가 더 구체적이다.
     const already = readFrontmatter(raw)?.heldReason;

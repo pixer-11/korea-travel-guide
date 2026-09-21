@@ -23,6 +23,7 @@ import { join } from 'node:path';
 import { requireExamined } from './lib/examined.mjs';
 
 const dirArg = process.argv.find((a) => a.startsWith('--dir='));
+const DRAFTS = process.argv.includes('--drafts');
 const DIR = dirArg ? dirArg.slice(6) : 'src/content/posts';
 
 // 측정을 암시하는 문구 — 데이터가 없으면 이 말들은 전부 지어낸 것이다.
@@ -125,7 +126,10 @@ for (const f of readdirSync(DIR)) {
   const fmEnd = raw.indexOf('---', 3);
   const fm = fmEnd > 0 ? raw.slice(0, fmEnd) : '';
   const body = fmEnd > 0 ? raw.slice(fmEnd + 3) : raw;
-  if (/^draft:\s*true\s*$/m.test(fm)) continue;             // 초안은 게이트 대상 아님
+  // 2026-09-21: 격리된 글은 초안이다. 그런데 수리 순찰이 격리를 풀려면
+  // 바로 그 초안을 다시 봐야 한다 — 안 보면 고쳐도 영영 안 풀린다.
+  // (repair-held-posts.mjs 의 CHECKERS 는 전부 --drafts 를 요구한다.)
+  if (!DRAFTS && /^draft:\s*true\s*$/m.test(fm)) continue;   // 평시엔 초안은 게이트 대상 아님
   // 실측 보유 — 주장 자격 있음. 실제 스키마에서 busyness는 place: 아래
   // 들여쓰여 있다(최상위 busyness:는 옛 테스트 픽스처에만 있던 형태).
   // 08-28 첫 실전이 ^busyness:로 그 차이를 놓쳐 데이터 보유 글 전체를

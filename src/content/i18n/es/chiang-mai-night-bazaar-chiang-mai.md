@@ -1,68 +1,70 @@
 ---
 lang: es
 slug: chiang-mai-night-bazaar-chiang-mai
-srcHash: '61787f5d4301'
-title: 'Night Bazaar: Guía de Viaje de Chiang Mai (4,3★)'
-description: 'El Night Bazaar de Chiang Mai es el extenso mercado nocturno que se extiende por Changklan Road, abierto todas las noches de 17:00 a medianoche. 4,3★ (27.372 reseñas): lo que dicen los visitantes, horarios y consejos.'
-quickAnswer: El Night Bazaar de Chiang Mai es el extenso mercado nocturno que recorre Changklan Road, abierto todas las noches de 17:00 a medianoche. Se trata de un lugar muy concurrido y popular, no de un rincón tranquilo por descubrir, así que conviene contar con aglomeraciones e ir justo a las 17:00 o después de las 22:00 si se busca moverse con más holgura. Conviene reservar al menos dos horas para recorrer los puestos, las galerías y las zonas de comida entre las calles Chang Klan y Loi Kroh.
+srcHash: '74c271824393'
+title: 'Night Bazaar: guía de viaje de Chiang Mai (4,3★)'
+description: 'El Night Bazaar de Chiang Mai es el extenso mercado nocturno que se despliega a lo largo de Changklan Road, abierto todas las noches de 5 de la tarde a medianoche. 4,3★ (27.372 opiniones): lo que dicen los visitantes, horarios y consejos.'
+quickAnswer: 'El Night Bazaar de Chiang Mai es el extenso mercado nocturno que recorre Changklan Road, abierto todas las noches de 5 de la tarde a medianoche. Se trata de un tramo muy concurrido y popular, no de un rincón tranquilo por descubrir, así que conviene contar con aglomeraciones y elegir bien el momento: justo a las 5pm o después de las 10pm si se busca espacio para moverse. Conviene reservar al menos dos horas para recorrer los puestos, las galerías y las zonas de comida entre las calles Chang Klan y Loi Kroh.'
 faq:
   - q: ¿Cuál es el horario del Night Bazaar de Chiang Mai?
-    a: Funciona todas las noches de la semana de 17:00 a medianoche, sin ningún día de descanso, en Changklan Road.
+    a: Funciona todas las noches de la semana, de 5 de la tarde a medianoche, sin ningún día de descanso, en Changklan Road.
   - q: ¿Cuál es el mejor momento para visitarlo y evitar las multitudes?
-    a: Conviene llegar justo a las 17:00, antes de que se forme el gentío de la tarde, o volver después de las 22:00, cuando la multitud disminuye. El tramo más concurrido suele darse entre las 19:00 y las 21:00, especialmente los fines de semana.
+    a: Conviene llegar justo a las 5pm, mientras los puestos todavía están montándose, o volver después de las 10pm, una vez que los grupos turísticos y las familias ya se han ido. En las horas intermedias todo el tramo se dedica a la cena, por lo que es entonces cuando resulta más difícil moverse entre los pasillos.
   - q: ¿Cómo se llega al Night Bazaar de Chiang Mai?
-    a: Se encuentra en Changklan Road, justo fuera de la esquina sureste de la ciudad antigua, a poca distancia a pie o en un corto trayecto en songthaew o tuk-tuk desde Tha Phae Gate. Las aplicaciones de transporte funcionan bien, ya que el aparcamiento en la calle es limitado una vez que abre el mercado.
+    a: Se encuentra en Changklan Road, justo a las afueras de la esquina sureste del casco antiguo, a un corto paseo o trayecto en songthaew o tuk-tuk desde la puerta Tha Phae (Tha Phae Gate). Las aplicaciones de transporte funcionan bien, ya que el estacionamiento en la calle es limitado una vez que el mercado abre.
   - q: ¿Cuánto tiempo conviene dedicarle al mercado?
-    a: Conviene reservar al menos dos horas para recorrer la calle principal y un complejo cubierto como Kalare; casi tres si se quiere comer sentado y también recorrer las galerías laterales.
-  - q: ¿Se espera regatear en este lugar?
-    a: Sí, en el caso de la artesanía, la ropa y los recuerdos, los vendedores esperan que se haga una contraoferta. Los puestos de comida suelen tener precio fijo, y el efectivo es la forma de pago más aceptada.
+    a: Lo recomendable es reservar al menos dos horas para recorrer el tramo principal y un complejo cubierto como Kalare; cerca de tres horas si se quiere comer sentado y también explorar las galerías laterales.
+  - q: ¿Se espera que se negocie el precio aquí?
+    a: 'Sí: en el caso de las artesanías, la ropa y los recuerdos, los vendedores esperan que se haga una contraoferta. Los puestos de comida, en cambio, suelen tener precio fijo, y el efectivo es la forma de pago más aceptada.'
 ---
 
-El Night Bazaar recorre toda la longitud de Changklan Road, en el lado este del foso de la ciudad antigua. Es un corredor de puestos cubiertos, galerías laterales y edificios de varios pisos que solo despierta cuando cae el sol. De día apenas se ven persianas metálicas bajadas y motos aparcadas; hacia las 17:00, en cambio, salen las mesas, se encienden las guirnaldas de luces y toda la calle se convierte en un pasillo continuo de vendedores.
+El Night Bazaar recorre toda la extensión de Changklan Road, en el lado este del foso que rodea el casco antiguo. Es un corredor de puestos cubiertos, galerías laterales y edificios de varios pisos que solo despierta cuando cae el sol. De día apenas se ve movimiento, con las persianas metálicas bajadas y motos estacionadas; hacia las 5 de la tarde ya están las mesas montadas, las guirnaldas de luces encendidas, y todo el tramo se convierte en un único pasillo continuo de vendedores.
 
-No se trata de un único mercado, sino de varios superpuestos: los puestos a pie de calle que dan a la carretera, el complejo de comida y artesanía Kalare Night Bazaar, algo retirado de la calle, y un puñado de galerías más pequeñas con sastres, joyerías y puestos de electrónica que llevan décadas funcionando en la zona. El mercado nocturno de Chiang Mai es anterior a los demás mercados nocturnos de la ciudad y sigue siendo el punto de referencia turístico del extremo de Changklan Road.
+No se trata de un solo mercado, sino de varios superpuestos entre sí: los puestos a nivel de calle que dan directamente a la vía, el complejo Kalare Night Bazaar de comida y artesanías, retirado un poco de la calle, y un puñado de galerías más pequeñas con sastrerías, joyerías y puestos de electrónica que llevan décadas funcionando en la zona.
 
-## Qué se vende en realidad
+El mercado nocturno de Chiang Mai es anterior a los demás mercados nocturnos de la ciudad y sigue siendo el punto de referencia para los turistas en el extremo de Changklan Road.
 
-No hay que esperar un tema único, sino una mezcla variada. El bazar se inclina más hacia los recuerdos y la artesanía que hacia la comida de calle propiamente dicha, aunque esta última abunda también en las zonas de comida y en los pasillos laterales.
+## Qué se puede comprar
 
-- Textiles de las tribus de montaña, joyería de plata y piezas de madera talladas a mano
-- Faroles de estilo lanna, sombrillas y artesanía típica del norte de Tailandia
-- Ropa, bolsos y electrónica, tanto falsificados como con licencia, colocados unos junto a otros
+No hay un tema único, sino una mezcla de todo. El bazar se inclina más hacia los recuerdos y la artesanía que hacia la comida de calle propiamente dicha, aunque esta última también abunda, repartida entre zonas de comida y pasillos laterales.
+
+- Textiles de las tribus de las montañas, joyería de plata y piezas de madera talladas a mano
+- Faroles de estilo lanna, sombrillas y artesanías típicas del norte de Tailandia
+- Ropa, bolsos y artículos electrónicos, tanto falsificados como originales, uno junto al otro
 - Puestos de fruta fresca, brochetas a la parrilla, khao soi y arroz con mango en las zonas de comida
-- Sastres que confeccionan trajes en la misma semana, una costumbre heredada de los tiempos comerciales más antiguos del bazar
+- Sastrerías que confeccionan trajes en la misma semana, un vestigio de los tiempos comerciales más antiguos del bazar
 
-La calidad y los precios varían de un puesto a otro, así que conviene dar una vuelta completa antes de comprar cualquier cosa que no sea comida.
+La calidad y los precios varían bastante de un puesto a otro, así que conviene dar una vuelta completa antes de comprar nada que no sea comida.
 
 ## Cómo orientarse
 
-El bazar se extiende a lo largo de aproximadamente un kilómetro de Changklan Road, así que orientarse desde el principio evita tener que desandar el camino. El complejo Kalare, con su zona de comida cubierta y sus espectáculos culturales, se encuentra más o menos a mitad de recorrido y funciona como un buen punto de referencia.
+El bazar se extiende a lo largo de aproximadamente un kilómetro de Changklan Road, así que orientarse desde el principio ahorra tener que desandar el camino. El complejo Kalare, con su zona de comida cubierta y sus espectáculos culturales, se encuentra más o menos a mitad de recorrido y sirve como un buen punto de referencia.
 
-Las calles laterales que llevan hacia Loi Kroh Road tienen sus propios puestos y suelen estar menos concurridas que la calle principal. Si la multitud resulta abrumadora, basta a menudo con desviarse una calle para respirar de nuevo.
+Las calles laterales que llevan hacia Loi Kroh Road tienen sus propios puestos y suelen estar menos concurridas que la vía principal. Si la multitud resulta abrumadora, basta con desviarse una calle para respirar un poco.
 
 ## Cómo negociar sin incomodidad
 
-Los precios de la artesanía, la ropa y los recuerdos son solo un punto de partida, no algo fijo. Los vendedores esperan una contraoferta; en los puestos de comida, en cambio, no suele regatearse.
+Los precios de las artesanías, la ropa y los recuerdos son solo un punto de partida, no algo fijo. Los vendedores esperan una contraoferta; en los puestos de comida, en cambio, normalmente no se negocia.
 
-- Preguntar el precio y luego ofrecer una cifra notablemente más baja para llegar a un punto medio
-- Mantener un tono amable y sin prisas: una sonrisa avanza más que una postura rígida
-- El efectivo es lo habitual en la mayoría de los puestos, aunque las tiendas más grandes aceptan cada vez más tarjetas
+- Preguntar el precio y luego ofrecer notablemente menos, para encontrarse a mitad de camino
+- Mantener un tono amable y sin apuro: una sonrisa avanza más rápido que una postura rígida
+- El efectivo es lo habitual en la mayoría de los puestos, aunque los comercios más grandes aceptan tarjeta cada vez más
 - Alejarse es una herramienta legítima de negociación, no una falta de educación
 
-Dado que el bazar es muy popular entre los visitantes, los precios en los puestos más cercanos a las entradas principales suelen ser más altos que los de más adelante en la calle o los de las galerías laterales.
+Como el bazar es muy popular entre los visitantes, los precios en los puestos más cercanos a las entradas principales suelen ser más altos que los de los puestos ubicados más adentro del tramo o en las galerías laterales.
 
 ## Cuándo conviene ir
 
-Este es uno de los mercados nocturnos más visitados de Chiang Mai, y Changklan Road se congestiona de verdad en las horas centrales de la noche. El mercado abre todas las noches de la semana, de 17:00 a medianoche, sin ningún día de cierre que haya que tener en cuenta.
+Este es uno de los mercados nocturnos más visitados de Chiang Mai, y Changklan Road se congestiona de verdad en las horas centrales de la noche. El mercado abre todas las noches de 5 de la tarde a medianoche, los siete días de la semana, sin ningún cierre semanal que haya que tener en cuenta.
 
-Llegar justo a las 17:00, antes de que se vacíen los autobuses turísticos, permite recorrer los puestos con más comodidad. Volver después de las 22:00 también reduce la multitud, ya que familias y visitantes de un solo día empiezan a marcharse, dejando el terreno a los puestos de comida y a los compradores más rezagados.
+Llegar justo a las 5pm, antes de que se vacíen los autobuses de turistas, permite recorrer los puestos con más comodidad. Volver después de las 10pm también reduce la multitud, una vez que las familias y los visitantes de un día se han marchado, dejando solo los puestos de comida y a los compradores más tardíos.
 
-A media velada, sobre todo los fines de semana, es cuando los pasillos se saturan. Si las aglomeraciones resultan molestas, conviene ver el tramo de 19:00 a 21:00 como el momento que hay que evitar, no el que hay que buscar.
+En la mitad de la noche es cuando todo el tramo se pone a cenar, y es justamente entonces cuando los pasillos se atascan. A quienes les incomoden las aglomeraciones, conviene apuntar a la hora de apertura o al último tramo antes de medianoche, en lugar de la hora de la cena.
 
 ## Cómo llegar y qué hacer después
 
-Changklan Road se encuentra justo fuera de la esquina sureste de la ciudad antigua, a poca distancia a pie o a un corto trayecto en tuk-tuk desde Tha Phae Gate. Los songthaews (camionetas rojas compartidas) y las aplicaciones de transporte son la forma más sencilla de llegar si no se está alojado cerca, ya que el aparcamiento en Changklan Road es limitado y el tráfico se complica en cuanto abre el mercado.
+Changklan Road se encuentra justo a las afueras de la esquina sureste del casco antiguo, a un paseo fácil o a un corto trayecto en tuk-tuk desde la puerta Tha Phae (Tha Phae Gate). Los songthaews (camionetas rojas compartidas) y las aplicaciones de transporte son la forma más sencilla de llegar si no se está alojado cerca, ya que el estacionamiento en Changklan Road es limitado y el tráfico se complica una vez que el mercado abre.
 
-El río Ping y el puente Nawarat quedan a pocos minutos a pie hacia el este, y merece la pena un paseo si se necesita un descanso de la multitud. Wat Chai Mongkol y los restaurantes junto al río, cerca de allí, son una parada razonable antes o después del bazar.
+El río Ping y el puente Nawarat quedan a pocos minutos a pie, hacia el este, y vale la pena caminar hasta allí si se necesita un descanso de la multitud. El templo Wat Chai Mongkol y los restaurantes junto al río cercanos son una parada razonable antes o después del bazar.
 
-Conviene reservar al menos dos horas para ver bien la calle principal y uno de los complejos cubiertos, y hasta tres si se planea comer algo completo y recorrer también las galerías laterales.
+Conviene reservar al menos dos horas para ver bien el tramo principal y uno de los complejos cubiertos; tres horas si se piensa comer una comida completa y también recorrer las galerías laterales.

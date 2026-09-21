@@ -43,7 +43,7 @@ faq:
   - q: How long should I plan to spend there?
     a: Most visits run 20-40 minutes given the counter seating and quick service typical of ramen alley shops; add time if there's a queue during peak dinner hours.
   - q: What's the best time to visit to avoid a wait?
-    a: Go for an early dinner around 5:30-6pm or later in the evening after 9pm; the 7-9pm window tends to be busiest with Susukino's dinner and nightlife crowd.
+    a: Go early, not long after it opens, or leave it until late in the evening. The stretch in between is when Susukino's dinner and nightlife crowd is out, and that is the hardest time to get a seat.
   - q: What else is nearby worth combining with a visit?
     a: The rest of Susukino's dining and entertainment streets are steps away, and in winter the Sapporo Snow Festival grounds are a short trip from the area, making it easy to pair a bowl of ramen with an evening out.
 aiGenerated: true

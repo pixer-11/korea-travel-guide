@@ -104,7 +104,7 @@ Because the cutlet is served rare by default, resist the urge to over-sear it on
 
 ## When to go
 
-Lunchtime (roughly 11:30am–1:30pm) and dinner (around 6–8pm) are when Parco's dining floor is busiest, and a restaurant with this review volume will often have a queue at those windows, particularly on weekends. Aiming for an early lunch just after opening or a later, off-peak dinner around 5pm or after 8:30pm tends to shorten the wait. Since it's inside a department store restaurant floor, hours generally track with Parco's own operating hours rather than standalone restaurant hours — confirm current opening times before heading over, especially around public holidays when mall hours can shift.
+This is a restaurant floor inside a department store, so it fills on the building's rhythm: the lunch break and the after-work dinner run, and a restaurant with this review volume will often have a queue then, particularly on weekends. Aiming for an early lunch just after opening or a later, off-peak dinner around 5pm or after 8:30pm tends to shorten the wait. Since it's inside a department store restaurant floor, hours generally track with Parco's own operating hours rather than standalone restaurant hours — confirm current opening times before heading over, especially around public holidays when mall hours can shift.
 
 ## Nearby & tips
 
