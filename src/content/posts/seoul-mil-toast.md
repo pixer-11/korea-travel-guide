@@ -40,6 +40,7 @@ place:
   lat: 37.57311920000001
   lng: 126.99034250000001
 draft: true
+heldReason: rating
 ---
 
 ## Why everyone's talking about it

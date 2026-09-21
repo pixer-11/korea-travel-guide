@@ -30,6 +30,7 @@ import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import matter from 'gray-matter';
+import { belowFloor, FLOOR } from './lib/rating-floor.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const POSTS_DIR = join(__dirname, '..', 'src', 'content', 'posts');
@@ -131,6 +132,18 @@ async function main() {
       changed = true;
       unpublished++;
       console.log(`  🚫  unpublished (${fresh.businessStatus}): ${file}`);
+    }
+
+    // 2026-09-22: 방법론 페이지가 독자에게 "평점 4.0 이상"을 약속하는데,
+    // 그 약속을 지키는 장치가 없었다 — 생성기는 태어날 때만 보고, 이후 평점이
+    // 떨어져도 아무것도 내리지 않았다. 폐업과 같은 경로로 내리되, heldReason 을 남겨
+    // 평점이 회복하면 수리 순찰이 다시 올릴 수 있게 한다(lib/rating-floor.mjs 의 떨림 방지).
+    if (!parsed.data.draft && belowFloor(parsed.data.place?.rating)) {
+      parsed.data.draft = true;
+      parsed.data.heldReason = 'rating';
+      changed = true;
+      unpublished++;
+      console.log(`  ⭐  unpublished (rating ${parsed.data.place.rating} < ${FLOOR}): ${file}`);
     }
 
     if (changed) {

@@ -845,6 +845,10 @@ jobs:
           # 2026-09-21 에 86건(34편)이 라이브였고, 지어낸 사실을 잡던 유일한 장치는
           # 주 1회 모델 감사였다(틀린 글이 최대 7일 라이브였다는 뜻).
           node scripts/audit-money-claims.mjs
+          # 방법론 페이지가 "평점 4.0 이상"을 약속하는데 그걸 지키는 장치가 없었다.
+          # 생성기는 태어날 때만 보고, 그 뒤 평점이 떨어져도 폐업 외에는 아무것도 내리지
+          # 않았다. 저장된 평점만 읽어 쿼터를 쓰지 않는다.
+          node scripts/audit-rating-floor.mjs
           # The vision gate asks "is this a concert photo?" and a photo of some
           # OTHER concert says yes. Twelve event guides were carrying a picture of
           # a different event entirely (2026-09-08) — a Mexican jazz festival on
