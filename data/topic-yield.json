@@ -46,8 +46,8 @@
    "hits": 20
   },
   "bookshop": {
-   "attempts": 10,
-   "hits": 0
+   "attempts": 18,
+   "hits": 1
   },
   "seafood": {
    "attempts": 62,
@@ -82,7 +82,7 @@
    "hits": 1
   },
   "concept cafe": {
-   "attempts": 19,
+   "attempts": 23,
    "hits": 0
   },
   "top attraction": {
@@ -90,7 +90,7 @@
    "hits": 2
   },
   "grill": {
-   "attempts": 30,
+   "attempts": 34,
    "hits": 0
   },
   "design shop": {
@@ -178,5 +178,5 @@
    "hits": 0
   }
  },
- "updated": "2026-09-21T08:14:24.472Z"
+ "updated": "2026-09-21T14:23:09.380Z"
 }

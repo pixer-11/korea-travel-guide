@@ -20415,5 +20415,11 @@
     "verdict": "MATCH",
     "reason": "publish gate: Shows actual dates market storefront with signage in Abu Dhabi",
     "at": "2026-09-21T08:14:24.459Z"
+  },
+  "namangan-yangi-o-zbekiston-yoshlar-ziyo-maskani\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Yangi_O%CA%BBzbekiston_-_Yoshlar_Ziyo_Maskani.jpg/3840px-Yangi_O%CA%BBzbekiston_-_Yoshlar_Ziyo_Maskani.jpg": {
+    "slug": "namangan-yangi-o-zbekiston-yoshlar-ziyo-maskani",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior building with matching name signage on entrance",
+    "at": "2026-09-21T14:22:28.158Z"
   }
 }

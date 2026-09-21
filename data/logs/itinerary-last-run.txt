@@ -2,11 +2,8 @@ SKIP new city "Paris" — weekly new-city cap (2/7d) reached
 SKIP new city "Seattle" — weekly new-city cap (2/7d) reached
 
 Seoul, South Korea — 28 qualifying post(s), variants: 3, 5
-  ~ Seoul 3d — structure changed by 4 slug(s), regenerating prose
-  ✅ Seoul 3d — updated
-  ⚠ Seoul 5d — validator found 3 prose-fixable issue(s); correcting once
-VALIDATE-FAILED seoul-5-days.md — 1 issue(s):
-  • AREA-CLAIM-UNSUPPORTED: seoul-5-days.md — day 2 names "Han-side Museums" but no stop of that day attests it
+  = Seoul 3d — unchanged, skipping
+ERROR processing Seoul: model output missing faq array
 
 Tokyo, Japan — 14 qualifying post(s), variants: 3
   = Tokyo 3d — unchanged, skipping
@@ -15,8 +12,7 @@ Bangkok, Thailand — 20 qualifying post(s), variants: 3
   = Bangkok 3d — unchanged, skipping
 
 Bali, Indonesia — 13 qualifying post(s), variants: 3
-  ⚠ Bali 3d — guard found 1 hours/price + 0 rain-leak issue(s) on first pass; retrying once
-NEW_ITINERARY: Bali 3d
+  = Bali 3d — unchanged, skipping
 
 Barcelona, Spain — 15 qualifying post(s), variants: 3
   = Barcelona 3d — unchanged, skipping
@@ -26,8 +22,7 @@ Busan, South Korea — 13 qualifying post(s), variants: 3
 
 Hong Kong, Hong Kong — 78 qualifying post(s), variants: 3, 5
   = Hong Kong 3d — unchanged, skipping
-  ~ Hong Kong 5d — minor structure change (2 slug diff), keeping existing prose
-  ✅ Hong Kong 5d — updated
+  = Hong Kong 5d — unchanged, skipping
 
 Los Angeles, United States — 16 qualifying post(s), variants: 3
   = Los Angeles 3d — unchanged, skipping
@@ -48,7 +43,7 @@ Singapore, Singapore — 71 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
   = Singapore 5d — unchanged, skipping
 
-Done.
+Done. Nothing changed.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0

@@ -343,11 +343,11 @@
   "at": "2026-09-14T15:43:30.935Z"
  },
  "ko/bangkok-the-grand-palace": {
-  "hash": "9571c8660165",
-  "score": 0,
+  "hash": "3316fa870423",
+  "score": 1,
   "registerBreak": false,
-  "worst": "",
-  "at": "2026-09-14T15:43:31.659Z"
+  "worst": "약 79,000개의 리뷰에서 평균 4.6점을 기록할 만큼 꾸준히 높은 평가를 받는 곳이기도 합니다.",
+  "at": "2026-09-21T14:26:21.163Z"
  },
  "ko/bangkok-the-island-bangkok-top-rated-thai-restaurant-bar": {
   "hash": "05d3d4f9dfe1",
@@ -854,18 +854,18 @@
   "at": "2026-09-21T08:02:41.029Z"
  },
  "ko/chiba-chiba-park": {
-  "hash": "aec019b2f61e",
+  "hash": "71390a90bdfd",
   "score": 1,
   "registerBreak": false,
-  "worst": "이곳의 중심은 커다란 연못으로, 따뜻한 계절이면 로우보트나 백조 모양의 페달보트를 빌려 연잎 사이를 유유히 떠다닐 수 있습니다",
-  "at": "2026-08-31T15:21:39.806Z"
+  "worst": "방문객들이 가장 자주 하는 실수는 이곳을 도쿄에서 특별히 시간을 내어 찾아갈 만한 단일 '필수 방문지'로 여기는",
+  "at": "2026-09-21T14:26:33.400Z"
  },
  "ko/chicago-billy-goat-tavern-the-original": {
-  "hash": "fe2420eaef3a",
+  "hash": "9313139474db",
   "score": 1,
   "registerBreak": false,
-  "worst": "실측된 유동인구 데이터에 따르면 가장 조용한 시간대는 평일 오전 7시~10시, 즉 점심시간 직장인 무리와 투어",
-  "at": "2026-08-15T02:15:44.135Z"
+  "worst": "실측된 유동인구 데이터에 따르면 가장 조용한 시간대는 평일 오전 7시~10시, 즉 점심시간 직장인 무리와 투어 그",
+  "at": "2026-09-21T14:26:42.070Z"
  },
  "ko/chiang-rai-king-mangrai-monument": {
   "hash": "1a9531521e58",
@@ -882,144 +882,116 @@
   "at": "2026-09-13T14:55:58.328Z"
  },
  "ko/chicago-medinah-temple": {
-  "hash": "a1dc05799e26",
+  "hash": "b9422c5dbfd1",
   "score": 1,
   "registerBreak": false,
-  "worst": "이곳은 인도를 걷다가 문득 리버 노스의 평범한 상점가 위로... 건물이 불쑥 솟아오르는, 그 놀라운 순간을 경험하기 위해 찾는 곳입니다.",
-  "at": "2026-08-15T02:15:52.261Z"
+  "worst": "이곳은 인도를 걷다가 문득 리버 노스(River North)의 평범한 상점가 위로 양파 모양의 돔과...",
+  "at": "2026-09-21T14:26:46.564Z"
  },
  "ko/chicago-navy-pier": {
-  "hash": "02fa13132b0f",
+  "hash": "270f39e0f96f",
   "score": 1,
   "registerBreak": false,
-  "worst": "인파가 점점 두꺼워지고, 호수 바람이 강해지며, 등 뒤로 스카이라인이 펼쳐지는 동시에",
-  "at": "2026-08-15T02:15:58.840Z"
+  "worst": "1916년 화물 및 레크리에이션용 부두로 건설되었고, 이후 두 차례 세계대전 동안에는 해군 훈련 시설로도 쓰였는데",
+  "at": "2026-09-21T14:26:48.689Z"
  },
  "ko/chicago-illinois-lollapalooza-2026": {
-  "hash": "512b7ae7b876",
+  "hash": "691060728e62",
   "score": 1,
   "registerBreak": false,
-  "worst": "입장·퇴장이 몰리는 시간대에는 금세 자전거가 바닥날 것으로 예상하세요.",
-  "at": "2026-08-15T02:16:03.598Z"
+  "worst": "과거 회차에서는 현장 예술 설치물, 브랜드 체험 부스, 어린이 동반 가족을 위한 키자팔루자(Kidzapalooza) 구역, 그리고...",
+  "at": "2026-09-21T14:26:45.762Z"
  },
  "ko/chinatown-chinatown-complex": {
-  "hash": "e2508eb012f0",
+  "hash": "fb7c2322537c",
   "score": 1,
   "registerBreak": false,
-  "worst": "장날 단골손님들 외에도 관광객 유입이 상당하기 때문에, 현실적인 현지인 팁은 은밀함이 아니라 타이밍입니다.",
-  "at": "2026-08-15T02:16:05.504Z"
+  "worst": "실제로 운영되는 웻마켓 위에 대규모 호커센터가 층층이 쌓여 있는 곳이며, 바로 그 점이 매력입니다.",
+  "at": "2026-09-21T14:26:51.135Z"
  },
  "ko/chicago-360-chicago": {
-  "hash": "9c63382df5e6",
+  "hash": "1054bae14220",
   "score": 1,
   "registerBreak": false,
-  "worst": "티켓 요금이나 바 이용 요금은 미국의 다른 주요 명소들과 마찬가지로 결제하시면 되며, 카드 결제가 일반적이고...",
-  "at": "2026-08-15T02:16:10.538Z"
- },
- "ko/chinatown-chinatown-heritage-centre": {
-  "hash": "132433f90d7a",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "이곳은 잘 알려지지 않은 숨은 명소라기보다는 이미 유명하고 리뷰가 많은 박물관이기 때문에, 유용한 현지 전략은 비밀스러운 정보가 아니라 타이밍입니다.",
-  "at": "2026-08-15T02:16:10.744Z"
- },
- "ko/chicago-sawada-coffee": {
-  "hash": "fc068e5631ce",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "간판을 보기도 전에 에스프레소 향이 먼저 코를 자극한다 — 그린 스트리트에 자리한 좁은 매장은...",
-  "at": "2026-08-15T02:16:14.156Z"
+  "worst": "티켓 요금이나 바 이용 요금은 미국의 다른 주요 명소들과 마찬가지로 결제하시면 되며, 카드 결제가 일반적이고",
+  "at": "2026-09-21T14:26:48.495Z"
  },
  "ko/chuncheon-nami-island": {
-  "hash": "0f095969cb89",
+  "hash": "7f1d0de366fe",
   "score": 1,
   "registerBreak": false,
-  "worst": "방문객들이 가장 흔히 저지르는 실수는 남이섬을 잠깐 들르는 포토스팟 정도로 여기는 것입니다",
-  "at": "2026-08-15T02:16:16.256Z"
+  "worst": "타조와 다람쥐, 공작새가 중앙 잔디밭 근처를 자유롭게 돌아다니는 모습은 처음 방문하는 사람들에게는 뜻밖의 놀라움을 줍니다",
+  "at": "2026-09-21T14:26:55.875Z"
  },
  "ko/chuncheon-1-5-dakgalbi": {
-  "hash": "a3f9573f8666",
+  "hash": "26d266ca2dd4",
   "score": 1,
   "registerBreak": false,
-  "worst": "이 식당은 강원도 춘천의 유명한 닭갈비 식당가 안, 후만로(Human-ro) 77에 위치해 있습니다.",
-  "at": "2026-08-15T02:16:17.069Z"
- },
- "ko/clarke-quay-clarke-quay-jetty": {
-  "hash": "3a59eb23465a",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "클락 키 선착장은 그 자체로는 여전히 비교적 잘 알려지지 않은 명소이며, 대부분의 사람들이 이곳을 정거장이",
-  "at": "2026-08-15T02:16:18.968Z"
+  "worst": "닭갈비 없는 춘천은 비빔밥 없는 전주와 같습니다 — 그것이 없다면 굳이 이곳을 찾아갈 이유가 없다는 뜻이죠.",
+  "at": "2026-09-21T14:26:54.532Z"
  },
  "ko/clarke-quay-cq-clarke-quay": {
-  "hash": "bd1f0adc90dd",
+  "hash": "d3af91060f57",
   "score": 1,
   "registerBreak": false,
   "worst": "거의 4만 6천 건에 달하는 리뷰에서 4.5점의 평점을 기록하고 있는 만큼, 조용히 숨겨진 명소라기보다는...",
-  "at": "2026-08-15T02:16:21.373Z"
- },
- "ko/cinque-terre-sentiero-monterosso-vernazza": {
-  "hash": "e6669c971efa",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "오르기 시작하기 전에 미리 구매하거나 다운로드해두세요, 중간에 하는 것이 아니라요.",
-  "at": "2026-08-15T02:16:22.628Z"
+  "at": "2026-09-21T14:27:05.124Z"
  },
  "ko/chinatown-my-awesome-cafe": {
-  "hash": "89230317dee1",
+  "hash": "a24b4b1a6106",
   "score": 1,
   "registerBreak": false,
-  "worst": "방문객들이 가장 흔히 하는 실수는 이곳을 잠깐 들르는 커피숍 정도로 생각하고 대기 시간을 고려하지 않은 채 서둘러 오는 것입니다",
-  "at": "2026-08-15T02:16:24.877Z"
+  "worst": "메뉴는 수제 샐러드와 샌드위치를 중심으로 하며 와인과 주류 리스트가 계속 바뀌는데, 이 때문에...",
+  "at": "2026-09-21T14:26:51.440Z"
  },
  "ko/colmar-la-petite-venise": {
-  "hash": "74dde5d3fc9b",
+  "hash": "92969272c9a0",
   "score": 1,
   "registerBreak": false,
-  "worst": "콜마르의 라 프티트 베니스는 알자스에서 가장 많이 찾는 명소 중 하나이므로, 인파가 없는 척하기보다는 이를 감안해 계획을 세우는 것이 좋습니다.",
-  "at": "2026-08-15T02:16:27.023Z"
+  "worst": "방문객들이 가장 흔히 저지르는 실수는 이 부두를 5분짜리 사진 촬영지로만 여기는 것입니다.",
+  "at": "2026-09-21T14:27:08.788Z"
  },
  "ko/cordoba-torre-de-la-calahorra": {
-  "hash": "d69926913e9c",
+  "hash": "7c52eb3222df",
   "score": 1,
   "registerBreak": false,
-  "worst": "방문객들이 가장 흔히 저지르는 실수는 다리 위에서 사진만 찍고 정작 탑에 올라가지 않는 것입니다.",
-  "at": "2026-09-01T10:47:48.264Z"
+  "worst": "",
+  "at": "2026-09-21T14:27:13.159Z"
  },
  "ko/chuncheon-gangchon-rail-park": {
-  "hash": "0ac458f4f542",
+  "hash": "79eaae807f87",
   "score": 1,
   "registerBreak": false,
-  "worst": "라이딩 자체는 왕복 셔틀을 포함해도 문에서 문까지 보통 두어 시간을 넘기지 않으니",
-  "at": "2026-08-15T02:16:34.257Z"
+  "worst": "코스 자체는 편도 약 8km에 이르며, 페달을 얼마나 밟는지 혹은 내리막에서 얼마나 관성에 몸을 맡기는지에 따라",
+  "at": "2026-09-21T14:26:54.378Z"
  },
  "ko/coron-kayangan-lake": {
-  "hash": "82ae34206691",
+  "hash": "55c6f5856394",
   "score": 1,
   "registerBreak": false,
   "worst": "이곳의 물빛은 보정한 것처럼 보이지만 실제로 그렇습니다.",
-  "at": "2026-08-15T02:16:37.903Z"
+  "at": "2026-09-21T14:27:12.708Z"
  },
  "ko/coron-twin-lagoon": {
-  "hash": "90f7419d6ddd",
+  "hash": "e0c2a8bad618",
   "score": 1,
   "registerBreak": false,
-  "worst": "물속으로 직접 뛰어들어 즐기는 경험, 그것이 바로 이곳의 핵심입니다.",
-  "at": "2026-08-15T02:16:39.532Z"
+  "worst": "카양간 호수는 더 많은 인파와 더 긴 대기 줄을 부르는 곳이죠.",
+  "at": "2026-09-21T14:27:13.807Z"
  },
  "ko/da-nang-an-thoi": {
-  "hash": "ae2dfb7685fb",
+  "hash": "d623ad9be513",
   "score": 1,
   "registerBreak": false,
   "worst": "변동성이 큰 가격 정보가 흔히 그렇듯, 정확한 메뉴 가격은 참고용으로만 보고 현장에서 확인하세요.",
-  "at": "2026-08-15T02:16:43.476Z"
+  "at": "2026-09-21T14:27:14.358Z"
  },
  "ko/cinque-terre-parco-nazionale-delle-cinque-terre": {
-  "hash": "d0a5123e67cb",
+  "hash": "db87e372db2b",
   "score": 1,
   "registerBreak": false,
-  "worst": "평일 오전은 확실한 데이터는 없지만, 대체로 비슷하게 한산한 편입니다.",
-  "at": "2026-08-15T06:02:31.847Z"
+  "worst": "그리고 이 조합은 놀랍도록 잘 작동합니다.",
+  "at": "2026-09-21T14:27:07.540Z"
  },
  "ko/da-nang-the-marble-mountains": {
   "hash": "fc58a1c0a25c",
@@ -1036,11 +1008,11 @@
   "at": "2026-08-15T02:16:48.555Z"
  },
  "ko/clarke-quay-home-dawn-cafe-clarke-quay": {
-  "hash": "a5391e65d3c4",
+  "hash": "3603a58f869a",
   "score": 1,
   "registerBreak": false,
-  "worst": "거의 900개에 달하는 리뷰에서 평점 4.5를 기록하며 꾸준한 단골층을 쌓아왔으면서도 흔한 클락키 바 투어 코스에는 포함되지 않아",
-  "at": "2026-08-15T06:02:16.707Z"
+  "worst": "이는 싱가포르의 열대 기후에서 야외를 걸어 다닐 때 흔히 권장되는 요령이기도 합니다.",
+  "at": "2026-09-21T14:27:08.506Z"
  },
  "ko/damyang-bamboo-forest": {
   "hash": "97ec72cbb345",
@@ -15015,11 +14987,11 @@
   "at": "2026-08-15T03:37:04.753Z"
  },
  "es/suzhou-classical-gardens-of-suzhou": {
-  "hash": "2cd1df050dbf",
-  "score": 1,
+  "hash": "a2f35e8adc42",
+  "score": 0,
   "registerBreak": false,
-  "worst": "Los jardines clásicos de Suzhou son el punto de referencia del diseño de jardi",
-  "at": "2026-08-15T03:37:05.403Z"
+  "worst": "",
+  "at": "2026-09-21T14:24:47.004Z"
  },
  "es/suwon-hwaseong-fortress": {
   "hash": "4ef5a76ebdfa",
@@ -20650,11 +20622,11 @@
   "at": "2026-09-21T03:37:22.666Z"
  },
  "ko/chicago-cloud-gate": {
-  "hash": "786fb9da99f9",
+  "hash": "1c69276ad16f",
   "score": 1,
   "registerBreak": false,
-  "worst": "이는 2006년 헌정식 전까지 2년 넘게 걸린 제작 과정의 결실입니다.",
-  "at": "2026-08-15T06:02:13.876Z"
+  "worst": "클라우드 게이트는 문을 닫지 않고 입장료도 없기 때문에, 방문 시간을 정할 때 고려할 것은 개장 시간이 아니라 인파와 빛입니다.",
+  "at": "2026-09-21T14:26:41.653Z"
  },
  "ko/causeway-bay-fashion-walk-food-street": {
   "hash": "3b7e055f7486",
@@ -23758,11 +23730,11 @@
   "at": "2026-08-15T08:47:32.805Z"
  },
  "ko/chiba-hiyodori-zaka": {
-  "hash": "16ac75f0fb47",
+  "hash": "f658c92ec984",
   "score": 1,
   "registerBreak": false,
   "worst": "이곳은 체크리스트를 하나씩 지워나가는 방식보다는 느긋함이 보상받는 장소다.",
-  "at": "2026-08-31T15:21:47.135Z"
+  "at": "2026-09-21T14:26:35.670Z"
  },
  "ko/florence-basilica-of-santa-croce-in-florence": {
   "hash": "42af89e679c4",
@@ -24227,18 +24199,18 @@
   "at": "2026-09-21T08:02:10.040Z"
  },
  "ko/colmar-parc-du-champ-de-mars": {
-  "hash": "7056d9e6874c",
+  "hash": "ed3bf1bb3e2e",
   "score": 1,
   "registerBreak": false,
-  "worst": "조사된 바로는 평일 오전 7시~8시가 가장 조용한 시간대이며, 주말도 7시~9시로 크게 다르지 않습니다.",
-  "at": "2026-08-15T10:30:03.086Z"
+  "worst": "",
+  "at": "2026-09-21T14:27:09.417Z"
  },
  "ko/cordoba-alcazar-de-los-reyes-cristianos": {
-  "hash": "3e6e38f2ad37",
+  "hash": "c874667bc867",
   "score": 1,
   "registerBreak": false,
-  "worst": "코르도바에서 가장 많은 사람이 찾는 명소 중 하나이다 보니, 여기서는 인파를 피하는 전략이 그 무엇보다 중요합니다.",
-  "at": "2026-08-15T10:30:05.167Z"
+  "worst": "탑 위에서는 정원과 과달키비르강, 그리고 몇 블록 떨어진 메스키타-카테드랄의 종탑까지 옥상에서 파노라마로 펼쳐집니다.",
+  "at": "2026-09-21T14:27:15.844Z"
  },
  "ko/chengdu-chengdu-museum": {
   "hash": "45f974403e18",
@@ -24941,11 +24913,11 @@
   "at": "2026-09-14T08:02:50.912Z"
  },
  "ko/clarke-quay-malayan-settlement": {
-  "hash": "6ea738f4e229",
+  "hash": "61a562180b75",
   "score": 1,
   "registerBreak": false,
-  "worst": "첫 방문이라면 그릴 메인 요리 하나, 퓨전 접근 방식이 어떻게 다르게 적용되는지 볼 수 있는 파스타나 라이스 요리 하나...",
-  "at": "2026-08-15T11:53:41.280Z"
+  "worst": "양과 가격대는 클락 키의 정식 레스토랑답게 중상급 수준이라, 가볍게 먹는 끼니보다는 제대로 된 저녁 식사에 어울린다.",
+  "at": "2026-09-21T14:27:08.202Z"
  },
  "ko/florence-galleria-dell-accademia-di-firenze": {
   "hash": "d03b63e60e46",
@@ -26838,11 +26810,11 @@
   "at": "2026-09-14T14:15:30.404Z"
  },
  "ko/clarke-quay-tan-si-chong-su-temple": {
-  "hash": "2998e6dfb55a",
+  "hash": "590ba3fb6764",
   "score": 1,
   "registerBreak": false,
-  "worst": "화강암 기둥과 조각된 처마가 최근에 지어진 건물들 사이에서 거의 불쑥 나타나듯 눈에 들어옵니다.",
-  "at": "2026-08-26T08:30:07.541Z"
+  "worst": "이곳을 찾는 현지인들은 대개 조상 위패를 참배하러 온 종친회 후손들이므로, 혹시 마주치더라도 예의를 지키며...",
+  "at": "2026-09-21T14:27:09.052Z"
  },
  "zh/bali-bali-botanical-garden": {
   "hash": "7c29eba91358",
@@ -27006,11 +26978,11 @@
   "at": "2026-08-28T09:07:53.032Z"
  },
  "ko/clarke-quay-fort-canning-park": {
-  "hash": "87984f3942d9",
+  "hash": "7019ac5d012c",
   "score": 1,
   "registerBreak": false,
-  "worst": "관광객들이 가장 흔히 저지르는 실수는 이곳을 15분짜리 사진 촬영 코스 정도로 여기는 것입니다.",
-  "at": "2026-08-28T09:08:07.924Z"
+  "worst": "싱가포르 이 일대에서 식민지 시대의 역사와 고대 왕실 전설, 그리고 순수한 녹지가 한 언덕 위에 겹쳐진 몇 안 되는 장소 중 하나입니다.",
+  "at": "2026-09-21T14:27:06.882Z"
  },
  "ko/dubai-nobu-the-link-one-za-abeel": {
   "hash": "4c7377adc7a5",
@@ -27636,11 +27608,11 @@
   "at": "2026-09-14T14:15:36.824Z"
  },
  "ko/chinatown-buddha-tooth-relic-temple": {
-  "hash": "bcceca91d71e",
+  "hash": "8da2590e97c7",
   "score": 1,
   "registerBreak": false,
-  "worst": "1층과 옥상을 잇는 통로쯔음으로 여기고 서둘러 지나치기보다는 이곳에서 충분히 시간을 들여 보시는 것이 좋습니다.",
-  "at": "2026-09-07T10:44:34.326Z"
+  "worst": "어느 하나 서둘러 채워 넣은 느낌 없이, 갤러리 형식으로 전시실이 구성되어 있고 영어 안내문도 함께 붙어",
+  "at": "2026-09-21T14:26:48.949Z"
  },
  "ko/koh-samui-mu-ko-ang-thong-national-marine-park": {
   "hash": "b034f37f942f",
@@ -28000,11 +27972,11 @@
   "at": "2026-09-21T03:37:03.467Z"
  },
  "ko/colmar-parc-saint-francois-xavier": {
-  "hash": "63493794e3d6",
+  "hash": "16572a432b05",
   "score": 1,
   "registerBreak": false,
-  "worst": "특별한 대표 명소가 없는 공원인데도 리뷰 215개에서 평균 4.5점을 받은 것은 상당히 높은 수치입니다.",
-  "at": "2026-09-10T07:59:31.663Z"
+  "worst": "이렇다 할 대표 명소가 없는 공원치고 리뷰 215개에 평균 4.5점이라는 평점은 상당히 높은 수치입니다.",
+  "at": "2026-09-21T14:27:14.770Z"
  },
  "zh/portland-the-grotto": {
   "hash": "35a3b2f75176",
@@ -28462,11 +28434,11 @@
   "at": "2026-09-14T08:00:19.109Z"
  },
  "ko/ajman-yemeni-corner-restaurant": {
-  "hash": "618da07b2c0b",
+  "hash": "bd58778996fc",
   "score": 1,
   "registerBreak": false,
-  "worst": "이 정도의 리뷰 수와 평점은 아즈만에서 가장 많이 회자되는 캐주얼 식당 중 하나임을 분명히 보여준다.",
-  "at": "2026-09-14T08:02:41.404Z"
+  "worst": "이런 만디 전문점은 혼자 식사하는 곳이 아니라 여럿이 나눠 먹는 것을 기본으로 하는 곳입니다.",
+  "at": "2026-09-21T14:26:21.187Z"
  },
  "ko/alishan-alishan-national-forest-recreation-area": {
   "hash": "e0aeebe4baba",
@@ -29175,13 +29147,6 @@
   "worst": "불, 훈연, 그을림, 향신료를 정면에 내세우고 이 세 가지를 받쳐줄 스피릿 리스트까지 갖춘 레스토랑 겸 바이기 때문입니다.",
   "at": "2026-09-21T03:36:43.772Z"
  },
- "ko/bandung-sudirman-street-day-and-night-market": {
-  "hash": "dc96c1d854ca",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "넓은 의미에서 푸드코트라기보다는, 쇼핑몰 안의 푸드홀보다는 지붕이 덮인 야시장에 가까운 형태이기 때문에",
-  "at": "2026-09-21T03:36:45.960Z"
- },
  "ko/beijing-arabica-baitasi-store": {
   "hash": "f0e43b84b063",
   "score": 1,
@@ -29258,27 +29223,6 @@
   "registerBreak": false,
   "worst": "광장 남쪽에 우뚝 서 있는, 놓칠 수 없는 벽이 바로 산 페트로니오 대성당(Basilica di San Petronio)입니다.",
   "at": "2026-09-21T04:20:25.823Z"
- },
- "ko/bali-seta-coffee-library": {
-  "hash": "a9792e18eee0",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "카운터에서 주문하고, 책장 사이 자리를 찾아 앉아, 잠깐 들른 이유가 아니라 눌러앉게 되는 이유로 커피가 자리 잡게 두시면 됩니다.",
-  "at": "2026-09-21T04:20:28.672Z"
- },
- "ko/bohol-national-museum-of-the-philippines-bohol": {
-  "hash": "7596674b959a",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "두꺼운 기둥과 넓은 계단을 갖춘 낮고 단단한 식민지 시대풍 주청사 건물, 한때는 지방 행정을 이끌었지만 이제는 조용히",
-  "at": "2026-09-21T04:20:30.641Z"
- },
- "ko/abu-dhabi-middle-east-film-comic-con-mefcc-2026": {
-  "hash": "577045bbdea6",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "전시홀 배정과 일일 개장 시간은 제3자가 아닌 주최 측이 직접 주말 일정에 맞춰 정한 사항이었습니다.",
-  "at": "2026-09-21T04:20:31.388Z"
  },
  "ko/bali-this-is-bali-balinese-food-desserts": {
   "hash": "1b7ee317231b",
@@ -29435,11 +29379,11 @@
   "at": "2026-09-21T07:58:41.900Z"
  },
  "zh/chiang-mai-night-bazaar-chiang-mai": {
-  "hash": "0018dfef04eb",
+  "hash": "6e66bdb9d9f0",
   "score": 1,
   "registerBreak": false,
-  "worst": "",
-  "at": "2026-09-21T07:58:49.327Z"
+  "worst": "严格来说这不是一个市场，而是好几层叠在一起：面朝大路的路边摊位、稍稍退到路后面的卡拉雷夜市",
+  "at": "2026-09-21T14:24:51.719Z"
  },
  "ko/barcelona-romo": {
   "hash": "e05b505e8aea",
@@ -29554,11 +29498,11 @@
   "at": "2026-09-21T08:02:24.933Z"
  },
  "ko/chiang-mai-night-bazaar-chiang-mai": {
-  "hash": "ef89ecfa75af",
-  "score": 2,
+  "hash": "1c8d012b734b",
+  "score": 1,
   "registerBreak": false,
-  "worst": "서두르지 말고 friendly하게, 미소를 지으면 딱딱하게 버티는 것보다 협상이 더 빨리 풀립니다",
-  "at": "2026-09-21T08:02:27.321Z"
+  "worst": "관광버스가 손님들을 내려놓기 전인 오후 5시 정각에 도착하면 비교적 여유 있게 노점을 둘러볼 수 있습니다.",
+  "at": "2026-09-21T14:26:37.187Z"
  },
  "ko/chiayi-chiayi-botanical-garden": {
   "hash": "d871a9beacd8",
@@ -29587,5 +29531,208 @@
   "registerBreak": false,
   "worst": "많은 도심 공원들이 시도하지만 좀처럼 성공하지 못하는 일을 해냅니다.",
   "at": "2026-09-21T08:02:47.555Z"
+ },
+ "zh/bandung-sudirman-street-day-and-night-market": {
+  "hash": "03ec0722b4f9",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "如果你是从万隆中心地标——如萨特大楼（Gedung Sate）或布拉加街——过来，这个市场正好可以作为返程前往万隆火车站途中的一顿合适晚餐。",
+  "at": "2026-09-21T14:26:11.622Z"
+ },
+ "zh/incheon-haesong-ssambap": {
+  "hash": "4d17e21f1a39",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这家店的实用价值远超一般的“打卡新鲜感”，不少旅客会特意赶在飞机起飞前，或者刚落地不久，抽时间来这里吃",
+  "at": "2026-09-21T14:25:05.505Z"
+ },
+ "es/namangan-yangi-o-zbekiston-yoshlar-ziyo-maskani": {
+  "hash": "cd6484b07ee0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El horario es sencillo, pero conviene confirmarlo antes de ir:",
+  "at": "2026-09-21T14:25:07.467Z"
+ },
+ "ja/namangan-yangi-o-zbekiston-yoshlar-ziyo-maskani": {
+  "hash": "59a2a84d74a4",
+  "score": 2,
+  "registerBreak": false,
+  "worst": "5万件のレビューを持つ観光名所とは、根本的に性質の異なる評価であり、そのように読み取る価値があります。",
+  "at": "2026-09-21T14:26:17.702Z"
+ },
+ "ko/namangan-yangi-o-zbekiston-yoshlar-ziyo-maskani": {
+  "hash": "8b0fb46ff07d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이는 리뷰 5만 건이 달린 명소가 지닌 것과는 본질적으로 다른 종류의 신뢰이며, 그런 관점에서 읽을 필요가 있습니다.",
+  "at": "2026-09-21T14:25:22.001Z"
+ },
+ "ko/abu-dhabi-abu-dhabi-dates-market": {
+  "hash": "e62c0554552e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 지역 시장에서는 현금과 카드 모두 대체로 잘 통용되지만, 주변 작은 노점들을 위해 현금을 조금 챙겨가시는 것도 여전히 현명한 선택입니다.",
+  "at": "2026-09-21T14:26:21.553Z"
+ },
+ "ko/cannes-vue-depuis-le-suquet": {
+  "hash": "93b17292b768",
+  "score": 1,
+  "registerBreak": true,
+  "worst": "바닥을 잘 붙잡아주는 신발을 신으시기 바랍니다.",
+  "at": "2026-09-21T14:26:23.534Z"
+ },
+ "ko/cappadocia-pigeon-valley": {
+  "hash": "f1fb0c6bf2da",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "여름철에는 오전 9시 이전이나 일몰 전 두 시간이 한낮의 더위와 일출 열기구를 보기 위해 전망대에 몰리는 인파를 모두 피할 수 있는 최적의",
+  "at": "2026-09-21T14:26:23.918Z"
+ },
+ "ko/causeway-bay-tin-hau-temple-causeway-bay": {
+  "hash": "1e4824ae6e93",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "운영시간은 매일 오전 9시부터 오후 4시까지이니, 이 시간대 안에서 방문 계획을 세우시기 바랍니다.",
+  "at": "2026-09-21T14:26:24.069Z"
+ },
+ "ko/bengaluru-chet-faker-a-love-for-strangers-tour": {
+  "hash": "c39816e0aaab",
+  "score": 2,
+  "registerBreak": false,
+  "worst": "공연장 위치는 도시 내 어느 지역을 거점으로 삼는 것이 합리적인지를 결정짓는 요소입니다.",
+  "at": "2026-09-21T14:26:28.447Z"
+ },
+ "ko/chiang-mai-garden-to-table-chiangmai": {
+  "hash": "8f2574d70954",
+  "score": 2,
+  "registerBreak": false,
+  "worst": "가격대는 부담 없는 수준(priceLevel 1)이라 큰맘 먹고 가야 하는 곳은 아닙니다.",
+  "at": "2026-09-21T14:26:29.441Z"
+ },
+ "ko/central-cupping-room-central": {
+  "hash": "ffb108da19cb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "리뷰 1,000개가 넘는 가운데 평점 4.0을 꾸준히 유지하고 있는데, 이는 모든 유행을 좇기보다",
+  "at": "2026-09-21T14:26:31.352Z"
+ },
+ "ko/chiayi-hinoki-village": {
+  "hash": "9ea2e08db09a",
+  "score": 2,
+  "registerBreak": false,
+  "worst": "히노키무라에 도착하면 눈으로 보기도 전에 향으로 먼저 느끽 됩니다.",
+  "at": "2026-09-21T14:26:31.791Z"
+ },
+ "ko/central-central-mid-levels-escalators": {
+  "hash": "7b5e22b46b47",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 에스컬레이터를 타는 것은 사실 홍콩섬의 사회적 층위를 가로지르는 움직이는 단면도와 같아서",
+  "at": "2026-09-21T14:26:37.903Z"
+ },
+ "ko/chiba-naritasan-shinsho-ji": {
+  "hash": "433fa2d77091",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "8시 정각에 맞춰 가는 보람은 완전한 고요함이라기보다는 숨 쉴 틈, 즉 뒤에서 밀려드는 인파 없이...",
+  "at": "2026-09-21T14:26:39.345Z"
+ },
+ "ko/chiba-tokyo-game-show-2026-tgs": {
+  "hash": "3c27e472c3be",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "자가용 이용도 가능하지만 일반 공개일에는 주차 공간이 금방 차기 때문에, 실질적으로는 기차가 더 나은 선택입니다.",
+  "at": "2026-09-21T14:26:39.921Z"
+ },
+ "ko/chiba-national-museum-of-japanese-history": {
+  "hash": "31706be83773",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "평일 방문은 예상대로 전반적으로 훨씨 한산한데, 이는 박물관을 찾는 학생 단체들이 꾸준히 오는 게 아니라 정해진 일정에",
+  "at": "2026-09-21T14:26:41.667Z"
+ },
+ "ko/chicago-gingie": {
+  "hash": "8f18d1655740",
+  "score": 2,
+  "registerBreak": false,
+  "worst": "이렇게 유명한 사업가들이 뒤를 받치는 셰프의 데뷔 프로젝트인 만큼, 징지의 인기는 당분간 계속될 것으로 보입니다.",
+  "at": "2026-09-21T14:26:43.913Z"
+ },
+ "ko/chiba-tokyo-and-osaka-summer-sonic-2026": {
+  "hash": "e3e6ce6fd4aa",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이곳은 그늘과 냉방이 더 잘 갖춰져 있어 8월 중순의 습한 날씨 속에서 체감상 큰 차이를 만드는 요소였습니다.",
+  "at": "2026-09-21T14:26:45.876Z"
+ },
+ "ko/chicago-garfield-park-conservatory": {
+  "hash": "d638c7335506",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "각 방마다 고유한 기후와 저마다 발걸음을 늦출 이유를 갖추고 있습니다.",
+  "at": "2026-09-21T14:26:52.816Z"
+ },
+ "ko/cinque-terre-parco-naturale-regionale-di-porto-venere": {
+  "hash": "158ba881328e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "오르는 길은 짧지만 경사가 가팔라서, 사진을 얼마나 찍으며 쉬어가느냐에 따라 항구에서 10~15분 정도 걸립니다.",
+  "at": "2026-09-21T14:26:57.339Z"
+ },
+ "ko/chuncheon-chuncheon-national-museum": {
+  "hash": "4fa6b69304c3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "부지 내에 무료 주차장이 있어 대부분의 방문객에게는 렌터카나 택시를 이용하는 편이 더 간편합니다.",
+  "at": "2026-09-21T14:26:59.023Z"
+ },
+ "ko/cinque-terre-castello-san-giorgio": {
+  "hash": "ed2df01daa87",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "산 조르조 성은 친퀘 테레를 찾는 여행객 대부분이 어차피 거쳐 가는 교통 요지, 라 스페치아 위쪽 언덕에",
+  "at": "2026-09-21T14:27:01.319Z"
+ },
+ "ko/clarke-quay-artscience-museum": {
+  "hash": "c5ab8364d6e7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "연꽃 모양의 건물만으로도 걸어갈 가치가 있습니다.",
+  "at": "2026-09-21T14:27:06.992Z"
+ },
+ "ko/colmar-vieille-ville-de-colmar": {
+  "hash": "da8774954acf",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이는 1층 바닥 면적에 매기는 세금을 아끼려 했던 중세 건축 방식에서 비롯된 것입니다.",
+  "at": "2026-09-21T14:27:11.037Z"
+ },
+ "ko/cordoba-templo-romano": {
+  "hash": "05d04f257aa9",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이런 인기 덕분에 성수기 한낮에는 단체 관광객들이 전망대 앞에 모여 사진을 찍는 모습을 종종 볼 수 있습니다.",
+  "at": "2026-09-21T14:27:11.562Z"
+ },
+ "ko/da-nang-ba-na-hills": {
+  "hash": "5e0f66246342",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이끼로 뒤덮인 거대한 두 손이 산기슭에서 솟아오른 듯한 모습으로, 150미터 길이의 보행자 다리를 떠받치고 있습니다.",
+  "at": "2026-09-21T14:27:15.975Z"
+ },
+ "ko/da-nang-da-nang-museum-of-cham-sculpture": {
+  "hash": "49059c66cbfd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "따뜻한 테라코타 톤의 벽과 높은 천장, 은은하게 퍼지는 자연광이 유럽의 웬만한 대성당보다도 오래된, 풍화된 돌 위로 내려앉습니다.",
+  "at": "2026-09-21T14:27:16.796Z"
+ },
+ "ko/da-nang-my-son": {
+  "hash": "5cc259fc29f0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "미썬은 인기가 매우 높은 곳이라 주말 오전 중반에 도착하면 그 인기를 몸소 체감하게 될 것입니다.",
+  "at": "2026-09-21T14:27:18.344Z"
  }
 }

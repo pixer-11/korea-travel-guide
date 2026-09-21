@@ -8708,5 +8708,27 @@
       "getting": "大多数游客经尼诺伊·阿基诺国际机场(NAIA/MNL)抵达,再转乘陆路交通前往市区:从机场出发,可乘坐吉普尼(jeepney)或Grab/出租车接驳至MRT-3或LRT-1线,这些线路可直达奎松市,途经奎松大道站(Quezon Avenue)、北大道站(North Avenue)等站点。由于机场本身没有直达轻轨,进入市区后,MRT-3和LRT-2线路,以及吉普尼和网约车,便是市内出行的主要方式。",
       "days": "建议安排约2-3天游览主要景点,从奎松纪念环岛(Quezon Memorial Circle)、菲律宾大学迪利曼分校(University of the Philippines Diliman),到库巴奥(Cubao)和东城区(Eastwood City)的商场与夜生活,都不容错过。"
     }
+  },
+  "Namangan": {
+    "en": {
+      "blurb": "Namangan sits in the fertile Fergana Valley, less than 30 km from the Kyrgyz border, and has thrived as a craft and trade centre since the 17th century. Today it feels less like a tourist stop and more like a working city, with a huge bazaar, Soviet-built factories and light industry giving it a grittier, more authentic edge than Samarkand or Bukhara.",
+      "getting": "Namangan Airport (NMA) connects to Tashkent and a small range of regional and Russian cities; most overland travellers instead take the direct train from Tashkent to Namangan station (~5 hours) or a shared taxi over the Kamchik Pass.",
+      "days": "Most visitors allow ~1-2 days, enough to cover the bazaar, old madrasas and Bobur Park before moving on elsewhere in the Fergana Valley."
+    },
+    "ja": {
+      "blurb": "ナマンガンは肥沃なフェルガナ盆地に位置し、キルギスとの国境から30km足らずという場所にあり、17世紀以来、手工業と貿易の中心地として栄えてきた。今日では観光地というよりも、実働する都市という趣が強く、巨大なバザール、ソビエト時代に建てられた工場群、軽工業が立ち並ぶことで、サマルカンドやブハラよりも荒削りで、より本物らしい雰囲気を漂わせている。",
+      "getting": "ナマンガン空港（NMA）はタシケントおよびロシアや周辺地域の一部の都市と結ばれているが、陸路で訪れる旅行者の多くは、タシケントからナマンガン駅まで直通列車（約5時間）を利用するか、カムチク峠を越える乗り合いタクシーを利用する。",
+      "days": "多くの旅行者は1～2日程度の滞在を予定しており、バザールや古いマドラサ、ボブル公園を巡るには十分な時間で、その後フェルガナ盆地の他の場所へと移動していく。"
+    },
+    "es": {
+      "blurb": "Namangán se encuentra en el fértil valle de Fergana, a menos de 30 km de la frontera con Kirguistán, y ha florecido como centro artesanal y comercial desde el siglo XVII. Hoy en día se percibe menos como una parada turística y más como una ciudad de trabajo, con un enorme bazar, fábricas de la época soviética e industria ligera que le dan un carácter más crudo y auténtico que el de Samarcanda o Bujará.",
+      "getting": "El aeropuerto de Namangán (NMA) tiene conexiones con Taskent y un pequeño número de ciudades regionales y rusas; sin embargo, la mayoría de los viajeros por tierra prefieren tomar el tren directo desde Taskent hasta la estación de Namangán (unas 5 horas) o un taxi compartido que cruza el paso de Kamchik.",
+      "days": "La mayoría de los visitantes dedican entre 1 y 2 días, tiempo suficiente para recorrer el bazar, las antiguas madrasas y el parque Bobur antes de continuar hacia otros destinos del valle de Fergana."
+    },
+    "zh": {
+      "blurb": "纳曼干位于肥沃的费尔干纳盆地,距吉尔吉斯斯坦边境不到30公里,自17世纪以来一直是繁荣的手工艺和贸易中心。如今的它,少了几分旅游气息,更像一座实实在在的工业城市——巨大的集市、苏联时期建造的工厂和轻工业,赋予它比撒马尔罕或布哈拉更粗犷、更真实的一面。",
+      "getting": "纳曼干机场(NMA)有航班往来塔什干及少数地区和俄罗斯城市;不过大多数陆路旅行者更倾向于搭乘从塔什干直达纳曼干火车站的列车(约5小时),或乘坐共享出租车翻越卡姆奇克山口前往。",
+      "days": "大多数游客会安排1-2天的行程,足以逛逛集市、参观古老的伊斯兰经学院并游览博博尔公园,然后再前往费尔干纳盆地的其他地方继续行程。"
+    }
   }
 }
