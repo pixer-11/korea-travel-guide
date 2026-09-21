@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: new-orleans-oak-alley-plantation
-srcHash: 'cdc33c2a88d9'
+srcHash: '9efe4b4c809f'
 title: 'Oak Alley Plantation: Guía de viaje de Nueva Orleans (4.6★)'
-description: Oak Alley Plantation está a una hora al oeste de Nueva Orleans, en la LA-18, en Vacherie, conocida por su túnel de un cuarto de milla formado por robles centenarios de 300 años que conduce a una mansión de estilo Greek Revival. 4.6★ (10,738 reseñas) — lo que dicen los visitantes, horarios y consejos.
+description: Oak Alley Plantation está a una hora al oeste de Nueva Orleans, en la LA-18, en Vacherie, conocida por su túnel de un cuarto de milla formado por robles centenarios de 300 años que conduce a una mansión de estilo Greek Revival. 4.6★ (10,792 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: Oak Alley Plantation está a una hora al oeste de Nueva Orleans, en la LA-18, en Vacherie, conocida por su túnel de un cuarto de milla formado por robles centenarios de 300 años que conduce a una mansión de estilo Greek Revival. Abre todos los días de 8:30am a 4:45pm; llega justo a la apertura (de 8:30am a 10am es cuando hay menos gente) para evitar los autobuses turísticos que llegan en masa antes del mediodía. Reserva medio día, incluyendo el trayecto en coche, y combínalo con Whitney Plantation, cerca de allí, para tener una visión más completa de la historia de la región.
 faq:
   - q: ¿Cuánto tiempo dura la visita?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: new-orleans-octavia-books
-srcHash: '17034bdbb9db'
+srcHash: '00810519e673'
 title: 'Octavia Books: Guía de viaje de Nueva Orleans (4.8★)'
-description: Octavia Books es una pequeña librería independiente y cuidada al detalle en el barrio Uptown de Nueva Orleans (New Orleans), cerca de la línea del tranvía y a poca distancia a pie del Garden District. 4.8★ (460 reseñas) — lo que dicen los visitantes, horarios y consejos.
+description: Octavia Books es una pequeña librería independiente y cuidada al detalle en el barrio Uptown de Nueva Orleans (New Orleans), cerca de la línea del tranvía y a poca distancia a pie del Garden District. 4.8★ (464 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: Octavia Books es una pequeña librería independiente y cuidada al detalle en el barrio Uptown de Nueva Orleans, cerca de la línea del tranvía y a poca distancia a pie del Garden District. Está más tranquila entre semana de 10am a 11am, o los fines de semana de 4pm a 6pm — evita el sábado y domingo de mediodía a 4pm, cuando hay más gente. Calcula entre 30 y 45 minutos, más si hay algún evento con autores.
 faq:
   - q: ¿Cómo llego a Octavia Books sin coche?

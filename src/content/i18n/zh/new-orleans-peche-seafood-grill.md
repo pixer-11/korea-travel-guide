@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: new-orleans-peche-seafood-grill
-srcHash: 'fcd89a445643'
+srcHash: '28cca38e1e2e'
 title: Pêche Seafood Grill：新奥尔良美食指南（4.6★）
-description: Pêche Seafood Grill 位于仓库区（Warehouse District）800 Magazine St，是新奥尔良品尝炭烤全鱼、生蚝和墨西哥湾海鲜的好去处，用餐环境走质朴的原木风格。4.6★（5,714条评价）——看看游客怎么说，以及营业时间和实用建议。
+description: Pêche Seafood Grill 位于仓库区（Warehouse District）800 Magazine St，是新奥尔良品尝炭烤全鱼、生蚝和墨西哥湾海鲜的好去处，用餐环境走质朴的原木风格。4.6★（5,771条评价）——看看游客怎么说，以及营业时间和实用建议。
 quickAnswer: Pêche Seafood Grill 位于仓库区（Warehouse District）800 Magazine St，是新奥尔良品尝炭烤全鱼、生蚝和墨西哥湾海鲜的好去处，用餐环境走质朴的原木风格。餐厅每天11am–10pm营业；建议11am到1pm之间前往以避开人群，周末5–9pm则尽量避开，那时排队会很长。价位属中高档，大多数晚上店内都比较嘈杂、客满。
 faq:
   - q: 在Pêche Seafood Grill用餐需要预订吗？

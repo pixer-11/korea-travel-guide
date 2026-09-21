@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: chiang-mai-night-bazaar-chiang-mai
-srcHash: '74c271824393'
+srcHash: '39959c63ad66'
 title: 清迈夜市（Night Bazaar）旅行指南（4.3★）
-description: 清迈夜市（Night Bazaar）是沿昌卡兰路（Changklan Road）延伸的大型夜间市集，每晚5点至午夜营业。4.3★（27,372条评价）——看看游客怎么说，附营业时间与实用建议。
+description: 清迈夜市（Night Bazaar）是沿昌卡兰路（Changklan Road）延伸的大型夜间市集，每晚5点至午夜营业。4.3★（27,379条评价）——看看游客怎么说，附营业时间与实用建议。
 quickAnswer: 清迈夜市沿昌卡兰路铺展开来，是一整条夜间营业的市集街区，每晚5点开到午夜。这里人气很旺，游客络绎不绝，称不上清静小众，所以要提前做好人多的心理准备。如果想要宽松一点的逛街空间，最好选在5点开市那一刻，或者10点以后再来。从昌卡兰路到罗央路（Loi Kroh Road）之间的摊位、廊街和美食广场，逛完至少要留两个小时。
 faq:
   - q: 清迈夜市的营业时间是几点到几点？

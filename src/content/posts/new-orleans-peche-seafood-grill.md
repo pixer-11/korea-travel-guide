@@ -1,38 +1,44 @@
 ---
-title: "Pêche Seafood Grill: Where to Eat in New Orleans (4.6★)"
-description: "Pêche Seafood Grill, at 800 Magazine St in the Warehouse District, is the place in New Orleans for whole coal-grilled fish, oysters, and gulf seafood in a rustic, weathered-wood dining room. 4.6★ (5,714 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "New Orleans"
-category: "restaurant"
-pubDate: "2026-08-07T09:04:35.583Z"
+title: 'Pêche Seafood Grill: Where to Eat in New Orleans (4.6★)'
+description: >-
+  Pêche Seafood Grill, at 800 Magazine St in the Warehouse District, is the
+  place in New Orleans for whole coal-grilled fish, oysters, and gulf seafood in
+  a rustic, weathered-wood dining room. 4.6★ (5,771 reviews) — what visitors
+  say, hours, and tips.
+country: United States
+region: New Orleans
+category: restaurant
+pubDate: '2026-08-07T09:04:35.583Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/New_Orleans_CBD_1_Oct_2016_24.jpg/1920px-New_Orleans_CBD_1_Oct_2016_24.jpg"
-  credit: "Photo: Infrogmation of New Orleans / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:New_Orleans_CBD_1_Oct_2016_24.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/New_Orleans_CBD_1_Oct_2016_24.jpg/1920px-New_Orleans_CBD_1_Oct_2016_24.jpg
+  credit: 'Photo: Infrogmation of New Orleans / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:New_Orleans_CBD_1_Oct_2016_24.jpg'
 gallery: []
 place:
-  id: "ChIJv2VvX3GmIIYRlCIIn4WtIYY"
-  name: "Pêche Seafood Grill"
-  address: "800 Magazine St, New Orleans, LA 70130, USA"
+  id: ChIJv2VvX3GmIIYRlCIIn4WtIYY
+  name: Pêche Seafood Grill
+  address: '800 Magazine St, New Orleans, LA 70130, USA'
   rating: 4.6
-  userRatingsTotal: 5714
+  userRatingsTotal: 5771
   priceLevel: 3
-  googleMapsUrl: "https://maps.google.com/?cid=9665197064724161172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9665197064724161172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 29.945214499999995
   lng: -90.0691312
-  phone: "+1 504-522-1744"
+  phone: +1 504-522-1744
   openingHours:
-    - "Monday: 11:00 AM – 10:00 PM"
-    - "Tuesday: 11:00 AM – 10:00 PM"
-    - "Wednesday: 11:00 AM – 10:00 PM"
-    - "Thursday: 11:00 AM – 10:00 PM"
-    - "Friday: 11:00 AM – 10:00 PM"
-    - "Saturday: 11:00 AM – 10:00 PM"
-    - "Sunday: 11:00 AM – 10:00 PM"
+    - 'Monday: 11:00 AM – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 10:00 PM'
+    - 'Thursday: 11:00 AM – 10:00 PM'
+    - 'Friday: 11:00 AM – 10:00 PM'
+    - 'Saturday: 11:00 AM – 10:00 PM'
+    - 'Sunday: 11:00 AM – 10:00 PM'
   busyness:
-    updated: 2026-08-07
+    updated: 2026-08-07T00:00:00.000Z
     weekdayQuiet:
       - 11
     weekdayBusy:
@@ -46,24 +52,43 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_5959497457346e4949436c525949496d473358765632764a496843"
+    venueId: ven_5959497457346e4949436c525949496d473358765632764a496843
 tags:
-  - "new orleans"
-  - "seafood"
-quickAnswer: "Pêche Seafood Grill, at 800 Magazine St in the Warehouse District, is the place in New Orleans for whole coal-grilled fish, oysters, and gulf seafood in a rustic, weathered-wood dining room. It's open daily 11am–10pm; go between 11am and 1pm to skip the crowds, and avoid 5–9pm on weekends when the wait stacks up. Expect mid-to-upper-range pricing and a loud, packed room most evenings."
+  - new orleans
+  - seafood
+quickAnswer: >-
+  Pêche Seafood Grill, at 800 Magazine St in the Warehouse District, is the
+  place in New Orleans for whole coal-grilled fish, oysters, and gulf seafood in
+  a rustic, weathered-wood dining room. It's open daily 11am–10pm; go between
+  11am and 1pm to skip the crowds, and avoid 5–9pm on weekends when the wait
+  stacks up. Expect mid-to-upper-range pricing and a loud, packed room most
+  evenings.
 faq:
-  - q: "Do I need a reservation at Pêche Seafood Grill?"
-    a: "Not strictly, but weekend dinners (5pm–9pm) get busy fast. Reserve ahead for Friday/Saturday nights, or plan to walk in right at 5pm."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays from 11am to noon, or weekends from 11am to 1pm — both are well before the evening rush."
-  - q: "How much does a meal cost at Pêche?"
-    a: "It's mid-to-upper-range for New Orleans, with whole grilled fish and raw bar items priced by the piece — expect the bill to add up if you order broadly."
-  - q: "How do I get to Pêche from the French Quarter?"
-    a: "It's about a 10-15 minute walk or a short rideshare into the Warehouse District at 800 Magazine St, near the Convention Center and National WWII Museum."
-  - q: "How long should I plan to stay?"
-    a: "Budget 75-90 minutes for a full shared meal of raw bar, grilled fish, and sides — service moves at a relaxed, sit-down pace."
+  - q: Do I need a reservation at Pêche Seafood Grill?
+    a: >-
+      Not strictly, but weekend dinners (5pm–9pm) get busy fast. Reserve ahead
+      for Friday/Saturday nights, or plan to walk in right at 5pm.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays from 11am to noon, or weekends from 11am to 1pm — both are well
+      before the evening rush.
+  - q: How much does a meal cost at Pêche?
+    a: >-
+      It's mid-to-upper-range for New Orleans, with whole grilled fish and raw
+      bar items priced by the piece — expect the bill to add up if you order
+      broadly.
+  - q: How do I get to Pêche from the French Quarter?
+    a: >-
+      It's about a 10-15 minute walk or a short rideshare into the Warehouse
+      District at 800 Magazine St, near the Convention Center and National WWII
+      Museum.
+  - q: How long should I plan to stay?
+    a: >-
+      Budget 75-90 minutes for a full shared meal of raw bar, grilled fish, and
+      sides — service moves at a relaxed, sit-down pace.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-21'
 ---
 ## Why Pêche is worth the wait
 

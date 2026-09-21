@@ -1,56 +1,83 @@
 ---
-title: "Abu Dhabi Dates Market: Travel Guide (4.4★)"
-description: "The Abu Dhabi Dates Market sits inside Mina Zayed's Mina Market area, right by Zayed Port, and it's a small shop packed floor to ceiling with dried fruit, nuts and sweets rather than an open-air souk. 4.4★ (10,739 reviews) — what visitors say, hours, and tips."
-country: "United Arab Emirates"
-region: "Abu Dhabi"
-category: "hidden-gem"
-pubDate: "2026-09-21T08:14:25.449Z"
+title: 'Abu Dhabi Dates Market: Travel Guide (4.4★)'
+description: >-
+  The Abu Dhabi Dates Market sits inside Mina Zayed's Mina Market area, right by
+  Zayed Port, and it's a small shop packed floor to ceiling with dried fruit,
+  nuts and sweets rather than an open-air souk. 4.4★ (10,741 reviews) — what
+  visitors say, hours, and tips.
+country: United Arab Emirates
+region: Abu Dhabi
+category: hidden-gem
+pubDate: '2026-09-21T08:14:25.449Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Date_shop_at_Abu_Dhabi_Vegetable_Market.JPG/3840px-Date_shop_at_Abu_Dhabi_Vegetable_Market.JPG"
-  credit: "Photo: Jpbowen / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Date_shop_at_Abu_Dhabi_Vegetable_Market.JPG"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Date_shop_at_Abu_Dhabi_Vegetable_Market.JPG/3840px-Date_shop_at_Abu_Dhabi_Vegetable_Market.JPG
+  credit: 'Photo: Jpbowen / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Date_shop_at_Abu_Dhabi_Vegetable_Market.JPG
+  via: act
   focus:
     x: 45
-    y: 55
+    'y': 55
 gallery: []
 place:
-  id: "ChIJv1UDjOVmXj4R9SK4YdmuC-U"
-  name: "Abu Dhabi Dates Market"
-  address: "Zayed Port, Near Mina Market, Mina Zayed - Zayed Port - Harbour - Abu Dhabi - United Arab Emirates"
+  id: ChIJv1UDjOVmXj4R9SK4YdmuC-U
+  name: Abu Dhabi Dates Market
+  address: >-
+    Zayed Port, Near Mina Market, Mina Zayed - Zayed Port - Harbour - Abu Dhabi
+    - United Arab Emirates
   rating: 4.4
-  userRatingsTotal: 10739
-  googleMapsUrl: "https://maps.google.com/?cid=16504477508099908341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 10741
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16504477508099908341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 24.5159074
   lng: 54.37993
-  phone: "+971 55 508 8214"
+  phone: +971 55 508 8214
   openingHours:
-    - "Monday: 7:00 AM – 12:00 AM"
-    - "Tuesday: 7:00 AM – 12:00 AM"
-    - "Wednesday: 7:00 AM – 12:00 AM"
-    - "Thursday: 7:00 AM – 12:00 AM"
-    - "Friday: 7:00 AM – 12:00 AM"
-    - "Saturday: 7:00 AM – 12:00 AM"
-    - "Sunday: 7:00 AM – 12:00 AM"
+    - 'Monday: 7:00 AM – 12:00 AM'
+    - 'Tuesday: 7:00 AM – 12:00 AM'
+    - 'Wednesday: 7:00 AM – 12:00 AM'
+    - 'Thursday: 7:00 AM – 12:00 AM'
+    - 'Friday: 7:00 AM – 12:00 AM'
+    - 'Saturday: 7:00 AM – 12:00 AM'
+    - 'Sunday: 7:00 AM – 12:00 AM'
 tags:
-  - "abu dhabi"
-  - "local market"
-quickAnswer: "The Abu Dhabi Dates Market sits inside Mina Zayed's Mina Market area, right by Zayed Port, and it's a small shop packed floor to ceiling with dried fruit, nuts and sweets rather than an open-air souk. It's open daily 7am to midnight, and with well over 10,000 reviews it draws steady crowds, so this isn't an undiscovered spot. Go for the sheer variety of date types and free tasting, not for a quiet browse."
+  - abu dhabi
+  - local market
+quickAnswer: >-
+  The Abu Dhabi Dates Market sits inside Mina Zayed's Mina Market area, right by
+  Zayed Port, and it's a small shop packed floor to ceiling with dried fruit,
+  nuts and sweets rather than an open-air souk. It's open daily 7am to midnight,
+  and with well over 10,000 reviews it draws steady crowds, so this isn't an
+  undiscovered spot. Go for the sheer variety of date types and free tasting,
+  not for a quiet browse.
 faq:
-  - q: "Where exactly is the Abu Dhabi Dates Market?"
-    a: "It's in the Mina Market area near Zayed Port in Mina Zayed, Abu Dhabi's harbour district, alongside the port's fish and produce markets."
-  - q: "What are the opening hours?"
-    a: "It's open every day from 7:00 AM to 12:00 AM (midnight), with no listed weekly closing day."
-  - q: "What should I buy there?"
-    a: "Dates are the main draw, in multiple varieties including Medjool, plus dried fruit, nuts and boxed Arabic sweets aimed at gifting."
-  - q: "Is it a hidden gem or a busy spot?"
-    a: "It's well known and heavily visited, with over 10,000 reviews, so expect company rather than a quiet browse."
-  - q: "How do I get there without a car?"
-    a: "A taxi is the most practical option since the Mina Zayed port district isn't well served by public transit; consider combining the trip with the nearby fish and produce markets."
+  - q: Where exactly is the Abu Dhabi Dates Market?
+    a: >-
+      It's in the Mina Market area near Zayed Port in Mina Zayed, Abu Dhabi's
+      harbour district, alongside the port's fish and produce markets.
+  - q: What are the opening hours?
+    a: >-
+      It's open every day from 7:00 AM to 12:00 AM (midnight), with no listed
+      weekly closing day.
+  - q: What should I buy there?
+    a: >-
+      Dates are the main draw, in multiple varieties including Medjool, plus
+      dried fruit, nuts and boxed Arabic sweets aimed at gifting.
+  - q: Is it a hidden gem or a busy spot?
+    a: >-
+      It's well known and heavily visited, with over 10,000 reviews, so expect
+      company rather than a quiet browse.
+  - q: How do I get there without a car?
+    a: >-
+      A taxi is the most practical option since the Mina Zayed port district
+      isn't well served by public transit; consider combining the trip with the
+      nearby fish and produce markets.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-21'
 ---
 
 ## What you're walking into

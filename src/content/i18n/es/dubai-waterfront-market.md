@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: dubai-waterfront-market
-srcHash: '0b0eae548670'
+srcHash: '4aa374d99a6b'
 title: 'Waterfront Market: guía de viaje de Dubái (4,5★)'
-description: 'Waterfront Market, en Deira (Dubái), es el mercado cubierto de pescado y productos frescos de la ciudad, situado en Al Khaleej Street, dentro del Deira Enrichment Project, junto al Corniche. 4,5★ (43.039 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Waterfront Market, en Deira (Dubái), es el mercado cubierto de pescado y productos frescos de la ciudad, situado en Al Khaleej Street, dentro del Deira Enrichment Project, junto al Corniche. 4,5★ (43.040 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Waterfront Market, en Deira (Dubái), es el mercado cubierto de pescado y productos frescos de la ciudad, situado en Al Khaleej Street, dentro del Deira Enrichment Project, junto al Corniche. Abre las 24 horas todos los días, pero para comprar y recorrerlo con tranquilidad conviene ir entre las 7:00 y las 10:00 en días laborables, o entre las 7:00 y las 8:00 los fines de semana, antes de que las naves se llenen. Es un lugar muy visitado, con muchas más de 40.000 reseñas, así que elegir bien el horario importa más que buscar una entrada secreta.
 faq:
   - q: ¿Dónde está exactamente Waterfront Market?

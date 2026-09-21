@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: new-orleans-oak-alley-plantation
-srcHash: 'cdc33c2a88d9'
+srcHash: '9efe4b4c809f'
 title: 橡树园种植园（Oak Alley Plantation）：新奥尔良旅行指南（4.6★）
-description: 橡树园种植园（Oak Alley Plantation）位于新奥尔良以西约一小时车程处的 Vacherie 镇 LA-18 公路旁，以一条长约四分之一英里、种满树龄300年橡树的林荫道著称，尽头是一座希腊复兴风格的庄园大宅。4.6★（10,738条评价）——游客怎么说、开放时间与实用建议。
+description: 橡树园种植园（Oak Alley Plantation）位于新奥尔良以西约一小时车程处的 Vacherie 镇 LA-18 公路旁，以一条长约四分之一英里、种满树龄300年橡树的林荫道著称，尽头是一座希腊复兴风格的庄园大宅。4.6★（10,792条评价）——游客怎么说、开放时间与实用建议。
 quickAnswer: 橡树园种植园（Oak Alley Plantation）位于新奥尔良以西约一小时车程处的 Vacherie 镇 LA-18 公路旁，以一条长约四分之一英里、种满树龄300年橡树的林荫道著称，尽头是一座希腊复兴风格的庄园大宅。这里每天8:30am–4:45pm开放；建议一开门就到（8:30am–10am人最少），以避开中午蜂拥而至的旅游大巴。安排半天时间（含往返车程），并可顺路参观附近的惠特尼种植园（Whitney Plantation），能更全面地了解这一地区的历史。
 faq:
   - q: 参观一次需要多长时间？

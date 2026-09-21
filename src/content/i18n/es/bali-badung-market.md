@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bali-badung-market
-srcHash: '6e1e65009dd2'
+srcHash: 'c7f816d0ff99'
 title: 'Mercado de Badung: Guía de Viaje de Bali (4,5★)'
-description: 'El Mercado de Badung (Pasar Badung), en Denpasar, es el mercado tradicional más grande de Bali: abierto las 24 horas todos los días y repartido en varios pisos junto al río Badung, en Dauh Puri Kangin. 4,5★ (18.488 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Mercado de Badung (Pasar Badung), en Denpasar, es el mercado tradicional más grande de Bali: abierto las 24 horas todos los días y repartido en varios pisos junto al río Badung, en Dauh Puri Kangin. 4,5★ (18.489 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Mercado de Badung (Pasar Badung), en Denpasar, es el mercado tradicional más grande de Bali: abre las 24 horas todos los días y se extiende en varios pisos junto al río Badung, en Dauh Puri Kangin. Los fines de semana, el momento más tranquilo es entre las 12 y las 14 h; conviene evitar la franja de 16 a 23 h, cuando se llena de gente por la tarde y la noche. Basta con dedicarle entre 45 minutos y una hora, y conviene combinarlo con el mercado de Kumbasari y el mercado de pájaros de Satria, al otro lado del río.'
 faq:
   - q: ¿Cuál es el horario del Mercado de Badung?

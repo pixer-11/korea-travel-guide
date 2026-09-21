@@ -1,40 +1,47 @@
 ---
-title: "Badung Market: Bali Travel Guide (4.5★)"
-description: "Badung Market (Pasar Badung) in Denpasar is Bali's largest traditional market, open 24 hours every day, spread over several floors along the Badung River in Dauh Puri Kangin. 4.5★ (18,488 reviews) — what visitors say, hours, and tips."
-country: "Indonesia"
-region: "Bali"
-category: "hidden-gem"
-pubDate: "2026-09-21T07:42:37.502Z"
+title: 'Badung Market: Bali Travel Guide (4.5★)'
+description: >-
+  Badung Market (Pasar Badung) in Denpasar is Bali's largest traditional market,
+  open 24 hours every day, spread over several floors along the Badung River in
+  Dauh Puri Kangin. 4.5★ (18,489 reviews) — what visitors say, hours, and tips.
+country: Indonesia
+region: Bali
+category: hidden-gem
+pubDate: '2026-09-21T07:42:37.502Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Badung_Market.jpg/3840px-Badung_Market.jpg"
-  credit: "Photo: Sasha India / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Badung_Market.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Badung_Market.jpg/3840px-Badung_Market.jpg
+  credit: 'Photo: Sasha India / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Badung_Market.jpg'
+  via: act
   focus:
     x: 45
-    y: 25
+    'y': 25
 gallery: []
 place:
-  id: "ChIJEcsIC6JA0i0RXn4iHsIOYMA"
-  name: "Badung Market"
-  address: "Jl. Sulawesi, Dauh Puri Kangin, Kec. Denpasar Bar., Kota Denpasar, Bali 80112, Indonesia"
+  id: ChIJEcsIC6JA0i0RXn4iHsIOYMA
+  name: Badung Market
+  address: >-
+    Jl. Sulawesi, Dauh Puri Kangin, Kec. Denpasar Bar., Kota Denpasar, Bali
+    80112, Indonesia
   rating: 4.5
-  userRatingsTotal: 18488
-  googleMapsUrl: "https://maps.google.com/?cid=13862095879938408030&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 18489
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13862095879938408030&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -8.6564332
   lng: 115.21248989999998
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-09-21
+    updated: 2026-09-21T00:00:00.000Z
     weekdayBusy:
       - 17
       - 18
@@ -52,24 +59,42 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_414d594f49734869346e5852306930414a3643497363454a496843"
+    venueId: ven_414d594f49734869346e5852306930414a3643497363454a496843
 tags:
-  - "bali"
-  - "local market"
-quickAnswer: "Badung Market (Pasar Badung) in Denpasar is Bali's largest traditional market, open 24 hours every day, spread over several floors along the Badung River in Dauh Puri Kangin. Weekends are quietest between 12pm and 2pm; avoid 4pm to 11pm when the evening crowds pack the aisles. Give it 45 minutes to an hour, and combine it with the Kumbasari market and Satria bird market across the river."
+  - bali
+  - local market
+quickAnswer: >-
+  Badung Market (Pasar Badung) in Denpasar is Bali's largest traditional market,
+  open 24 hours every day, spread over several floors along the Badung River in
+  Dauh Puri Kangin. Weekends are quietest between 12pm and 2pm; avoid 4pm to
+  11pm when the evening crowds pack the aisles. Give it 45 minutes to an hour,
+  and combine it with the Kumbasari market and Satria bird market across the
+  river.
 faq:
-  - q: "What are Badung Market's opening hours?"
-    a: "It runs 24 hours a day, every day of the week, though the produce and dry-goods stalls are most active from early morning through early evening."
-  - q: "When is Badung Market least crowded?"
-    a: "On weekends, the quiet window is 12pm to 2pm. Avoid weekend afternoons and evenings from 4pm to 11pm, when it's busiest."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors need 45 minutes to an hour to cover the main floors; longer if you plan to bargain for souvenirs or textiles."
-  - q: "Is bargaining expected at Badung Market?"
-    a: "Yes, prices aren't fixed outside packaged goods. Politely counter-offering is normal, and cash is the only payment method most vendors accept."
-  - q: "What else is nearby?"
-    a: "Pasar Kumbasari (textiles and crafts) sits just across the Badung River, and the Satria bird market and Denpasar's old town are within walking distance."
+  - q: What are Badung Market's opening hours?
+    a: >-
+      It runs 24 hours a day, every day of the week, though the produce and
+      dry-goods stalls are most active from early morning through early evening.
+  - q: When is Badung Market least crowded?
+    a: >-
+      On weekends, the quiet window is 12pm to 2pm. Avoid weekend afternoons and
+      evenings from 4pm to 11pm, when it's busiest.
+  - q: How long should I plan to spend there?
+    a: >-
+      Most visitors need 45 minutes to an hour to cover the main floors; longer
+      if you plan to bargain for souvenirs or textiles.
+  - q: Is bargaining expected at Badung Market?
+    a: >-
+      Yes, prices aren't fixed outside packaged goods. Politely counter-offering
+      is normal, and cash is the only payment method most vendors accept.
+  - q: What else is nearby?
+    a: >-
+      Pasar Kumbasari (textiles and crafts) sits just across the Badung River,
+      and the Satria bird market and Denpasar's old town are within walking
+      distance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-21'
 ---
 
 Three or four floors of concrete stalls, fluorescent light, and stacked produce crates: this is Denpasar's main supply market, not a tourist stage set. Traders here sell to other Balinese, which shapes everything from the piled offering baskets to the sacks of rice and dried chilies.

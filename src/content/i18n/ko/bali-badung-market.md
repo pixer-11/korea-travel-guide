@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: bali-badung-market
-srcHash: '6e1e65009dd2'
+srcHash: 'c7f816d0ff99'
 title: '바둥 시장: 발리 여행 가이드 (4.5★)'
-description: 덴파사르(Denpasar)의 바둥 시장(Pasar Badung)은 발리 최대 규모의 전통 시장으로, 다우 푸리 캉인(Dauh Puri Kangin) 지역 바둥강을 따라 여러 층에 걸쳐 자리하며 연중무휴 24시간 운영됩니다. 4.5★(리뷰 18,488개) — 방문객들의 후기, 운영시간, 이용 팁을 소개합니다.
+description: 덴파사르(Denpasar)의 바둥 시장(Pasar Badung)은 발리 최대 규모의 전통 시장으로, 다우 푸리 캉인(Dauh Puri Kangin) 지역 바둥강을 따라 여러 층에 걸쳐 자리하며 연중무휴 24시간 운영됩니다. 4.5★(리뷰 18,489개) — 방문객들의 후기, 운영시간, 이용 팁을 소개합니다.
 quickAnswer: 덴파사르(Denpasar)의 바둥 시장(Pasar Badung)은 발리 최대 규모의 전통 시장으로, 다우 푸리 캉인(Dauh Puri Kangin) 지역 바둥강을 따라 여러 층에 걸쳐 자리하며 연중무휴 24시간 운영됩니다. 주말 중에서는 낮 12시부터 오후 2시 사이가 가장 한산하며, 오후 4시부터 밤 11시까지는 저녁 인파가 통로를 가득 메우니 피하는 것이 좋습니다. 둘러보는 데는 45분에서 1시간 정도면 충분하며, 강 건너편의 쿰바사리 시장(Kumbasari market)과 사트리아 조류 시장(Satria bird market)까지 함께 묶어 방문하는 것을 추천합니다.
 faq:
   - q: 바둥 시장의 운영 시간은 어떻게 되나요?

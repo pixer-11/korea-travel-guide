@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: abu-dhabi-abu-dhabi-dates-market
-srcHash: 'ebb3e44c5bcd'
+srcHash: '115114ec5637'
 title: 'Mercado de Dátiles de Abu Dabi: Guía de Viaje (4,4★)'
-description: 'El Mercado de Dátiles de Abu Dabi se encuentra dentro de la zona de Mina Market, en Mina Zayed, justo al lado del Puerto Zayed, y es una tienda pequeña repleta de suelo a techo de frutos secos, frutas deshidratadas y dulces, más que un zoco al aire libre. 4,4★ (10.739 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Mercado de Dátiles de Abu Dabi se encuentra dentro de la zona de Mina Market, en Mina Zayed, justo al lado del Puerto Zayed, y es una tienda pequeña repleta de suelo a techo de frutos secos, frutas deshidratadas y dulces, más que un zoco al aire libre. 4,4★ (10.741 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Mercado de Dátiles de Abu Dabi se encuentra dentro de la zona de Mina Market, en Mina Zayed, justo al lado del Puerto Zayed, y es una tienda pequeña repleta de suelo a techo de frutos secos, frutas deshidratadas y dulces, más que un zoco al aire libre. Abre todos los días de 7:00 a 24:00, y con más de 10.000 reseñas atrae multitudes constantes, así que no se trata de un lugar sin descubrir. Vale la pena ir por la enorme variedad de tipos de dátiles y las degustaciones gratuitas, no por una visita tranquila y sin bullicio.
 faq:
   - q: ¿Dónde está exactamente el Mercado de Dátiles de Abu Dabi?

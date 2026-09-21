@@ -1,52 +1,80 @@
 ---
-title: "Riverwalk Outlets: New Orleans Travel Guide (4.4★)"
-description: "Riverwalk Outlets is a mile-long, glass-covered outlet mall hugging the Mississippi River, steps from the Ernest N. 4.4★ (9,376 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "New Orleans"
-category: "attraction"
-pubDate: "2026-08-08T08:10:59.035Z"
+title: 'Riverwalk Outlets: New Orleans Travel Guide (4.4★)'
+description: >-
+  Riverwalk Outlets is a mile-long, glass-covered outlet mall hugging the
+  Mississippi River, steps from the Ernest N. 4.4★ (9,448 reviews) — what
+  visitors say, hours, and tips.
+country: United States
+region: New Orleans
+category: attraction
+pubDate: '2026-08-08T08:10:59.035Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Outlet_Collection_Riverwalk_-_New_Orleans_November_2025.jpg/1920px-Outlet_Collection_Riverwalk_-_New_Orleans_November_2025.jpg"
-  credit: "Photo: Jeremy Thompson / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Outlet_Collection_Riverwalk_-_New_Orleans_November_2025.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Outlet_Collection_Riverwalk_-_New_Orleans_November_2025.jpg/1920px-Outlet_Collection_Riverwalk_-_New_Orleans_November_2025.jpg
+  credit: 'Photo: Jeremy Thompson / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Outlet_Collection_Riverwalk_-_New_Orleans_November_2025.jpg
 gallery: []
 place:
-  id: "ChIJMYnKEVmnIIYRC8Un0CUxUuk"
-  name: "Riverwalk Outlets"
-  address: "500 Port of New Orleans Pl, New Orleans, LA 70130, USA"
+  id: ChIJMYnKEVmnIIYRC8Un0CUxUuk
+  name: Riverwalk Outlets
+  address: '500 Port of New Orleans Pl, New Orleans, LA 70130, USA'
   rating: 4.4
-  userRatingsTotal: 9376
-  googleMapsUrl: "https://maps.google.com/?cid=16812554397403301131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 9448
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16812554397403301131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 29.9449714
   lng: -90.0622812
-  phone: "+1 504-522-1555"
+  phone: +1 504-522-1555
   openingHours:
-    - "Monday: 10:00 AM – 7:00 PM"
-    - "Tuesday: 10:00 AM – 7:00 PM"
-    - "Wednesday: 10:00 AM – 7:00 PM"
-    - "Thursday: 10:00 AM – 7:00 PM"
-    - "Friday: 10:00 AM – 7:00 PM"
-    - "Saturday: 10:00 AM – 7:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: 10:00 AM – 7:00 PM'
+    - 'Tuesday: 10:00 AM – 7:00 PM'
+    - 'Wednesday: 10:00 AM – 7:00 PM'
+    - 'Thursday: 10:00 AM – 7:00 PM'
+    - 'Friday: 10:00 AM – 7:00 PM'
+    - 'Saturday: 10:00 AM – 7:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
 tags:
-  - "new orleans"
-  - "waterfront"
-quickAnswer: "Riverwalk Outlets is a mile-long, glass-covered outlet mall hugging the Mississippi River, steps from the Ernest N. Morial Convention Center and an easy walk or streetcar ride from the French Quarter. It's open 10am–7pm daily (10am–6pm Sunday) and busiest midday on weekends, so aim for a morning visit. Budget one to two hours, more if you want to linger on the riverfront boardwalk outside."
+  - new orleans
+  - waterfront
+quickAnswer: >-
+  Riverwalk Outlets is a mile-long, glass-covered outlet mall hugging the
+  Mississippi River, steps from the Ernest N. Morial Convention Center and an
+  easy walk or streetcar ride from the French Quarter. It's open 10am–7pm daily
+  (10am–6pm Sunday) and busiest midday on weekends, so aim for a morning visit.
+  Budget one to two hours, more if you want to linger on the riverfront
+  boardwalk outside.
 faq:
-  - q: "What are the opening hours?"
-    a: "10am–7pm Monday through Saturday, and 10am–6pm on Sunday. Double-check ahead of major holidays or convention weeks, since Convention Center events can affect traffic."
-  - q: "How do I get to Riverwalk Outlets without a car?"
-    a: "The RTA Riverfront streetcar stops right outside, linking it to the French Quarter and Warehouse District for a couple of dollars each way. It's also an easy 15–20 minute walk from the Quarter along the river."
-  - q: "When is it least crowded?"
-    a: "Weekday mornings shortly after the 10am opening are quietest. Weekend afternoons draw the biggest crowds, especially when cruise ships or conventions are in town."
-  - q: "How much time should I plan for?"
-    a: "One to two hours covers the stores comfortably. Add extra time if you want to walk the riverfront boardwalk or ride the streetcar to nearby Spanish Plaza."
-  - q: "Is this a good spot for an authentic New Orleans experience?"
-    a: "Not really — it's a national outlet mall with a river view rather than a local cultural stop. Great for discount shopping and a scenic break, but save deeper local flavor for the French Quarter or Garden District."
+  - q: What are the opening hours?
+    a: >-
+      10am–7pm Monday through Saturday, and 10am–6pm on Sunday. Double-check
+      ahead of major holidays or convention weeks, since Convention Center
+      events can affect traffic.
+  - q: How do I get to Riverwalk Outlets without a car?
+    a: >-
+      The RTA Riverfront streetcar stops right outside, linking it to the French
+      Quarter and Warehouse District for a couple of dollars each way. It's also
+      an easy 15–20 minute walk from the Quarter along the river.
+  - q: When is it least crowded?
+    a: >-
+      Weekday mornings shortly after the 10am opening are quietest. Weekend
+      afternoons draw the biggest crowds, especially when cruise ships or
+      conventions are in town.
+  - q: How much time should I plan for?
+    a: >-
+      One to two hours covers the stores comfortably. Add extra time if you want
+      to walk the riverfront boardwalk or ride the streetcar to nearby Spanish
+      Plaza.
+  - q: Is this a good spot for an authentic New Orleans experience?
+    a: >-
+      Not really — it's a national outlet mall with a river view rather than a
+      local cultural stop. Great for discount shopping and a scenic break, but
+      save deeper local flavor for the French Quarter or Garden District.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-21'
 ---
 ## Why go
 

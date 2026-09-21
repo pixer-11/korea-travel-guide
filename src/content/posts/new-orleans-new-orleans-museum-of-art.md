@@ -1,52 +1,77 @@
 ---
-title: "New Orleans Museum of Art: Travel Guide (4.7★)"
-description: "NOMA sits at the edge of City Park in Mid-City, a Beaux-Arts building holding over 40,000 works from Fabergé eggs to Japanese Edo-era screens. 4.7★ (5,370 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "New Orleans"
-category: "attraction"
-pubDate: "2026-08-08T08:10:12.910Z"
+title: 'New Orleans Museum of Art: Travel Guide (4.7★)'
+description: >-
+  NOMA sits at the edge of City Park in Mid-City, a Beaux-Arts building holding
+  over 40,000 works from Fabergé eggs to Japanese Edo-era screens. 4.7★ (5,398
+  reviews) — what visitors say, hours, and tips.
+country: United States
+region: New Orleans
+category: attraction
+pubDate: '2026-08-08T08:10:12.910Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/New_Orleans_Museum_of_Art_%2855143750313%29.jpg/1920px-New_Orleans_Museum_of_Art_%2855143750313%29.jpg"
-  credit: "Photo: ajay_suresh / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:New_Orleans_Museum_of_Art_(55143750313).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/New_Orleans_Museum_of_Art_%2855143750313%29.jpg/1920px-New_Orleans_Museum_of_Art_%2855143750313%29.jpg
+  credit: 'Photo: ajay_suresh / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:New_Orleans_Museum_of_Art_(55143750313).jpg
 gallery: []
 place:
-  id: "ChIJYRCgqEKvIIYR8SRec2onF50"
-  name: "New Orleans Museum of Art"
-  address: "1 Collins Diboll Cir, New Orleans, LA 70124, USA"
+  id: ChIJYRCgqEKvIIYR8SRec2onF50
+  name: New Orleans Museum of Art
+  address: '1 Collins Diboll Cir, New Orleans, LA 70124, USA'
   rating: 4.7
-  userRatingsTotal: 5370
-  googleMapsUrl: "https://maps.google.com/?cid=11319559526574597361&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 5398
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11319559526574597361&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 29.9864722
   lng: -90.09344999999999
-  phone: "+1 504-658-4100"
+  phone: +1 504-658-4100
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 12:00 – 7:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 12:00 – 7:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
 tags:
-  - "new orleans"
-  - "art gallery"
-quickAnswer: "NOMA sits at the edge of City Park in Mid-City, a Beaux-Arts building holding over 40,000 works from Fabergé eggs to Japanese Edo-era screens. Give it two to three hours, then walk straight into the adjoining Sydom and Besthoff Sculpture Garden. It's closed Mondays; go on a Tuesday or Thursday morning to beat the weekend crowds."
+  - new orleans
+  - art gallery
+quickAnswer: >-
+  NOMA sits at the edge of City Park in Mid-City, a Beaux-Arts building holding
+  over 40,000 works from Fabergé eggs to Japanese Edo-era screens. Give it two
+  to three hours, then walk straight into the adjoining Sydom and Besthoff
+  Sculpture Garden. It's closed Mondays; go on a Tuesday or Thursday morning to
+  beat the weekend crowds.
 faq:
-  - q: "How much time should I budget for NOMA?"
-    a: "Plan for two to three hours for the museum galleries, plus another 45 minutes to an hour if you walk through the adjoining Sydney and Walda Besthoff Sculpture Garden."
-  - q: "Is NOMA open every day?"
-    a: "It's closed Mondays. Tuesday, Thursday, Friday, Saturday, and Sunday it runs 10am–5pm, and Wednesday it stays open later, until 7pm."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings, especially Tuesday or Thursday right at opening, are calmer than weekends, when the museum's popularity brings heavier afternoon crowds."
-  - q: "Is the sculpture garden free?"
-    a: "Yes — the Besthoff Sculpture Garden behind the museum is free to enter and doesn't require a museum ticket, though the galleries inside NOMA do."
-  - q: "How do I get to NOMA without a car?"
-    a: "Take the RTA Canal Streetcar to the City Park/Museum terminus, then walk a few minutes through City Park to the museum entrance at 1 Collins Diboll Circle."
+  - q: How much time should I budget for NOMA?
+    a: >-
+      Plan for two to three hours for the museum galleries, plus another 45
+      minutes to an hour if you walk through the adjoining Sydney and Walda
+      Besthoff Sculpture Garden.
+  - q: Is NOMA open every day?
+    a: >-
+      It's closed Mondays. Tuesday, Thursday, Friday, Saturday, and Sunday it
+      runs 10am–5pm, and Wednesday it stays open later, until 7pm.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings, especially Tuesday or Thursday right at opening, are
+      calmer than weekends, when the museum's popularity brings heavier
+      afternoon crowds.
+  - q: Is the sculpture garden free?
+    a: >-
+      Yes — the Besthoff Sculpture Garden behind the museum is free to enter and
+      doesn't require a museum ticket, though the galleries inside NOMA do.
+  - q: How do I get to NOMA without a car?
+    a: >-
+      Take the RTA Canal Streetcar to the City Park/Museum terminus, then walk a
+      few minutes through City Park to the museum entrance at 1 Collins Diboll
+      Circle.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-21'
 ---
 ## Why go
 

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: new-orleans-peche-seafood-grill
-srcHash: 'fcd89a445643'
+srcHash: '28cca38e1e2e'
 title: 'Pêche Seafood Grill: dónde comer en Nueva Orleans (4,6★)'
-description: 'En el 800 de Magazine St, en el Warehouse District, Pêche Seafood Grill es la referencia en Nueva Orleans para pescado entero a la brasa de carbón, ostras y mariscos del golfo, servidos en un comedor rústico de madera envejecida. 4,6★ (5.714 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el 800 de Magazine St, en el Warehouse District, Pêche Seafood Grill es la referencia en Nueva Orleans para pescado entero a la brasa de carbón, ostras y mariscos del golfo, servidos en un comedor rústico de madera envejecida. 4,6★ (5.771 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el 800 de Magazine St, en el Warehouse District, Pêche Seafood Grill es la referencia en Nueva Orleans para pescado entero a la brasa de carbón, ostras y mariscos del golfo, servidos en un comedor rústico de madera envejecida. Abre todos los días de 11:00 a 22:00; conviene ir entre las 11:00 y la 1:00 p. m. para evitar las multitudes, y evitar el horario de 17:00 a 21:00 los fines de semana, cuando la espera se dispara. Hay que contar con precios de rango medio-alto y un ambiente ruidoso y lleno la mayoría de las noches.
 faq:
   - q: ¿Hace falta reserva para ir a Pêche Seafood Grill?

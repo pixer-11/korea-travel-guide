@@ -1,9 +1,9 @@
 ---
 lang: ja
 slug: new-orleans-new-orleans-botanical-garden
-srcHash: 'a2c0c3944760'
+srcHash: '84ea83d0ff55'
 title: ニューオーリンズ植物園:旅行ガイド(4.7★)
-description: ニューオーリンズ植物園(New Orleans Botanical Garden)はシティパーク(City Park)内の5 Victory Aveにあり、火曜〜日曜の午前10時から午後4時30分まで開園(月曜休園)。4.7★(1,595件のレビュー)—訪問者の声、営業時間、訪問のコツをご紹介します。
+description: ニューオーリンズ植物園(New Orleans Botanical Garden)はシティパーク(City Park)内の5 Victory Aveにあり、火曜〜日曜の午前10時から午後4時30分まで開園(月曜休園)。4.7★(1,602件のレビュー)—訪問者の声、営業時間、訪問のコツをご紹介します。
 quickAnswer: ニューオーリンズ植物園(New Orleans Botanical Garden)はシティパーク(City Park)内の5 Victory Aveにあり、火曜〜日曜の午前10時から午後4時30分まで開園しています(月曜休園)。アールデコ様式の遊歩道、蘭の温室、サボテンコレクションを巡るには、90分〜2時間ほど見ておくとよいでしょう。週末の午前10時から午後4時の時間帯が最も混み合うため、可能であれば平日の午前中を狙うのがおすすめです。
 faq:
   - q: 開園時間は何時ですか?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: chiang-mai-night-bazaar-chiang-mai
-srcHash: '74c271824393'
+srcHash: '39959c63ad66'
 title: 'Night Bazaar: guía de viaje de Chiang Mai (4,3★)'
-description: 'El Night Bazaar de Chiang Mai es el extenso mercado nocturno que se despliega a lo largo de Changklan Road, abierto todas las noches de 5 de la tarde a medianoche. 4,3★ (27.372 opiniones): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Night Bazaar de Chiang Mai es el extenso mercado nocturno que se despliega a lo largo de Changklan Road, abierto todas las noches de 5 de la tarde a medianoche. 4,3★ (27.379 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Night Bazaar de Chiang Mai es el extenso mercado nocturno que recorre Changklan Road, abierto todas las noches de 5 de la tarde a medianoche. Se trata de un tramo muy concurrido y popular, no de un rincón tranquilo por descubrir, así que conviene contar con aglomeraciones y elegir bien el momento: justo a las 5pm o después de las 10pm si se busca espacio para moverse. Conviene reservar al menos dos horas para recorrer los puestos, las galerías y las zonas de comida entre las calles Chang Klan y Loi Kroh.'
 faq:
   - q: ¿Cuál es el horario del Night Bazaar de Chiang Mai?

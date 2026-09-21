@@ -1,6 +1,8 @@
 ---
 title: 'Roast8ry: Bangkok Travel Guide'
-description: 'Roast8ry Bangkok in Bangkok, Thailand — a new/trending spot: what it is, where it is, and how to visit.'
+description: >-
+  Roast8ry Bangkok in Bangkok, Thailand — a new/trending spot: what it is, where
+  it is, and how to visit.
 country: Thailand
 region: Bangkok
 category: trendy
@@ -8,37 +10,65 @@ pubDate: '2026-08-19'
 tags:
   - bangkok
   - new & trending
-quickAnswer: Roast8ry Bangkok is the first Bangkok outpost of the acclaimed Chiang Mai specialty-coffee brand founded by 2017 World Latte Art Champion Arnon Thitiprasert, tucked into the old shophouse streets near Song Wat in Chinatown. Go for competition-grade espresso and pour-over, and expect latte art sharp enough to photograph before you drink it. Confirm current hours before heading over, as new openings shift their schedules often in the first months.
+quickAnswer: >-
+  Roast8ry Bangkok is the first Bangkok outpost of the acclaimed Chiang Mai
+  specialty-coffee brand founded by 2017 World Latte Art Champion Arnon
+  Thitiprasert, tucked into the old shophouse streets near Song Wat in
+  Chinatown. Go for competition-grade espresso and pour-over, and expect latte
+  art sharp enough to photograph before you drink it. Confirm current hours
+  before heading over, as new openings shift their schedules often in the first
+  months.
 faq:
   - q: How do I get to Roast8ry Bangkok?
-    a: Take the Chao Phraya Express boat to Ratchawong Pier and walk in, or take the MRT to Hua Lamphong and walk about 10–15 minutes toward Song Wat Road. Grab is a reliable backup option.
+    a: >-
+      Take the Chao Phraya Express boat to Ratchawong Pier and walk in, or take
+      the MRT to Hua Lamphong and walk about 10–15 minutes toward Song Wat Road.
+      Grab is a reliable backup option.
   - q: What is Roast8ry known for?
-    a: It's the Bangkok branch of a celebrated Chiang Mai specialty coffee brand founded by Arnon Thitiprasert, the 2017 World Latte Art Champion, known for competition-grade espresso, filter coffee, and precise latte art.
+    a: >-
+      It's the Bangkok branch of a celebrated Chiang Mai specialty coffee brand
+      founded by Arnon Thitiprasert, the 2017 World Latte Art Champion, known
+      for competition-grade espresso, filter coffee, and precise latte art.
   - q: When is the best time to visit?
-    a: Weekday mornings tend to be calmer. Weekend afternoons get busy as Chinatown fills with visitors heading toward Yaowarat, so avoid that window if you want counter space.
+    a: >-
+      Weekday mornings tend to be calmer. Weekend afternoons get busy as
+      Chinatown fills with visitors heading toward Yaowarat, so avoid that
+      window if you want counter space.
   - q: Should I check hours before going?
-    a: Yes — as a recently opened location, hours and any reservation policy may still be settling in. Check Roast8ry's official social media or Google listing on the day you plan to visit.
+    a: >-
+      Yes — as a recently opened location, hours and any reservation policy may
+      still be settling in. Check Roast8ry's official social media or Google
+      listing on the day you plan to visit.
   - q: What else is nearby?
-    a: Song Wat Road itself is worth a walk for its shophouse cafés and river glimpses, and Yaowarat's night food stalls are a short walk away for later in the evening.
+    a: >-
+      Song Wat Road itself is worth a walk for its shophouse cafés and river
+      glimpses, and Yaowarat's night food stalls are a short walk away for later
+      in the evening.
 aiGenerated: true
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/15669126_wL-mhDRXkZB7-K01fyVAaKljGDuWN0RxbKm4yP-SriQ.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/15669126_wL-mhDRXkZB7-K01fyVAaKljGDuWN0RxbKm4yP-SriQ.jpg
   credit: 'Photo: Foursquare user content (Roast8ry)'
   license: foursquare
-  source: https://foursquare.com/v/69804136e6a2e93e1017843e
+  source: 'https://foursquare.com/v/69804136e6a2e93e1017843e'
   focus:
     x: 55
     'y': 55
 place:
   id: ChIJO1ryWQCZ4jARGn3i_r2EWIE
   name: Roast8ry BKK
-  address: 25, 1 Anuwong Rd, Khwaeng Chakkrawat, Khet Samphanthawong, Krung Thep Maha Nakhon 10100, Thailand
+  address: >-
+    25, 1 Anuwong Rd, Khwaeng Chakkrawat, Khet Samphanthawong, Krung Thep Maha
+    Nakhon 10100, Thailand
   rating: 4.8
   userRatingsTotal: 112
-  googleMapsUrl: https://maps.google.com/?cid=9320345380403182874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9320345380403182874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 13.7401804
   lng: 100.50445219999999
+  priceLevel: 1
+updatedDate: '2026-09-21'
 ---
 
 ## Why Roast8ry is worth the detour

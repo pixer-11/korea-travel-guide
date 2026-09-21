@@ -1,10 +1,11 @@
 {
  "date": "2026-09-21",
- "spent": 51,
+ "spent": 71,
  "byJob": {
   "publish": 22,
   "backfill": 25,
-  "quality": 4
+  "quality": 4,
+  "refresh": 20
  },
  "search": {
   "spent": 83,
@@ -13,5 +14,5 @@
    "fill": 32
   }
  },
- "updated": "2026-09-21T14:45:34.469Z"
+ "updated": "2026-09-21T22:47:01.979Z"
 }

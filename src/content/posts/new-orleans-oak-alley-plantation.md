@@ -1,30 +1,37 @@
 ---
 title: 'Oak Alley Plantation: New Orleans Travel Guide (4.6★)'
-description: Oak Alley Plantation sits about an hour west of New Orleans on LA-18 in Vacherie, best known for its quarter-mile tunnel of 300-year-old live oaks leading to a Greek Revival mansion. 4.6★ (10,738 reviews) — what visitors say, hours, and tips.
+description: >-
+  Oak Alley Plantation sits about an hour west of New Orleans on LA-18 in
+  Vacherie, best known for its quarter-mile tunnel of 300-year-old live oaks
+  leading to a Greek Revival mansion. 4.6★ (10,792 reviews) — what visitors say,
+  hours, and tips.
 country: United States
 region: New Orleans
 category: hidden-gem
 pubDate: '2026-08-07T08:46:33.100Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/a/aa/Oak_Alley_Plantation_01.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/aa/Oak_Alley_Plantation_01.jpg
   credit: 'Photo: Jeffreyareed / Wikimedia Commons (Public domain)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Oak_Alley_Plantation_01.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Oak_Alley_Plantation_01.jpg'
   focus:
     x: 50
     'y': 55
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Oak_Alley_Plantation_01.jpg/1920px-Oak_Alley_Plantation_01.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Oak_Alley_Plantation_01.jpg/1920px-Oak_Alley_Plantation_01.jpg
     credit: 'Photo: Jeffreyareed / Wikimedia Commons (Public domain)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Oak_Alley_Plantation_01.jpg
+    source: 'https://commons.wikimedia.org/wiki/File:Oak_Alley_Plantation_01.jpg'
 place:
   id: ChIJH7xquEUwIYYRMGRIw2Uk41U
   name: Oak Alley Plantation
-  address: 3645 LA-18, Vacherie, LA 70090, USA
+  address: '3645 LA-18, Vacherie, LA 70090, USA'
   rating: 4.6
-  userRatingsTotal: 10738
-  googleMapsUrl: https://maps.google.com/?cid=6188830332423791664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 10792
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6188830332423791664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 30.0042359
   lng: -90.77599719999999
@@ -55,20 +62,37 @@ place:
 tags:
   - new orleans
   - old quarter
-quickAnswer: Oak Alley Plantation sits about an hour west of New Orleans on LA-18 in Vacherie, best known for its quarter-mile tunnel of 300-year-old live oaks leading to a Greek Revival mansion. It's open daily 8:30am–4:45pm; arrive right at opening (8:30am–10am is quietest) to beat the tour buses that flood in by noon. Budget half a day including the drive, and pair it with the Whitney Plantation nearby for a fuller picture of the region's history.
+quickAnswer: >-
+  Oak Alley Plantation sits about an hour west of New Orleans on LA-18 in
+  Vacherie, best known for its quarter-mile tunnel of 300-year-old live oaks
+  leading to a Greek Revival mansion. It's open daily 8:30am–4:45pm; arrive
+  right at opening (8:30am–10am is quietest) to beat the tour buses that flood
+  in by noon. Budget half a day including the drive, and pair it with the
+  Whitney Plantation nearby for a fuller picture of the region's history.
 faq:
   - q: How long does a visit take?
-    a: 'Plan on two to three hours: about 45 minutes for the guided mansion tour plus time to walk the oak alley and self-guided exhibits.'
+    a: >-
+      Plan on two to three hours: about 45 minutes for the guided mansion tour
+      plus time to walk the oak alley and self-guided exhibits.
   - q: When is the quietest time to visit?
-    a: Foot-traffic data shows 8:30am–10am is calmest, both on weekdays and weekends. Avoid noon–3pm on weekends, when tour buses peak.
+    a: >-
+      Foot-traffic data shows 8:30am–10am is calmest, both on weekdays and
+      weekends. Avoid noon–3pm on weekends, when tour buses peak.
   - q: How do I get there from New Orleans?
-    a: It's about an hour's drive west via River Road (LA-18); there's no direct public transit, so most visitors rent a car or join a guided van tour.
+    a: >-
+      It's about an hour's drive west via River Road (LA-18); there's no direct
+      public transit, so most visitors rent a car or join a guided van tour.
   - q: Is Oak Alley open every day?
-    a: Yes, it's open daily from 8:30am to 4:45pm with no weekly closing day, though it's worth confirming hours before a special trip.
+    a: >-
+      Yes, it's open daily from 8:30am to 4:45pm with no weekly closing day,
+      though it's worth confirming hours before a special trip.
   - q: Is there anywhere to eat on site?
-    a: Yes, there's a restaurant on the property serving Louisiana comfort food, handy if you're spending a full day along River Road.
+    a: >-
+      Yes, there's a restaurant on the property serving Louisiana comfort food,
+      handy if you're spending a full day along River Road.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-21'
 ---
 ## Why go
 

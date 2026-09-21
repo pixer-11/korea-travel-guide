@@ -1,24 +1,30 @@
 ---
 title: 'Napoleon House: Where to Eat in New Orleans'
-description: Napoleon House, at 500 Chartres St in the French Quarter, is the spot for a muffaletta and a Pimm's Cup in a crumbling, sepia-toned courtyard that's been serving since 1914.
+description: >-
+  Napoleon House, at 500 Chartres St in the French Quarter, is the spot for a
+  muffaletta and a Pimm's Cup in a crumbling, sepia-toned courtyard that's been
+  serving since 1914.
 country: United States
 region: New Orleans
 category: restaurant
 pubDate: '2026-07-30T10:03:14.522Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/The_Napoleon_House_-_New_Orleans_February_2026.jpg/1920px-The_Napoleon_House_-_New_Orleans_February_2026.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/The_Napoleon_House_-_New_Orleans_February_2026.jpg/1920px-The_Napoleon_House_-_New_Orleans_February_2026.jpg
   credit: 'Photo: ajay_suresh / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:The_Napoleon_House_-_New_Orleans_February_2026.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:The_Napoleon_House_-_New_Orleans_February_2026.jpg
 gallery: []
 place:
   id: ChIJZYGmBhKmIIYRPBmyGfELFTs
   name: Napoleon House
-  address: 500 Chartres St, New Orleans, LA 70130, USA
+  address: '500 Chartres St, New Orleans, LA 70130, USA'
   rating: 4.6
-  userRatingsTotal: 7571
+  userRatingsTotal: 7682
   priceLevel: 2
-  googleMapsUrl: https://maps.google.com/?cid=4257322152894798140&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4257322152894798140&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 29.955875399999996
   lng: -90.065056
@@ -52,20 +58,42 @@ place:
 tags:
   - new orleans
   - local restaurant
-quickAnswer: Napoleon House, at 500 Chartres St in the French Quarter, is the spot for a muffaletta and a Pimm's Cup in a crumbling, sepia-toned courtyard that's been serving since 1914. It's open daily (11am–9pm most nights, till 10pm Fri–Sat), and since it's genuinely busy, aim for an early lunch on a weekday rather than the 3pm–8pm weekend crush. Budget an hour to linger — this is a place you sit in, not just eat at.
+quickAnswer: >-
+  Napoleon House, at 500 Chartres St in the French Quarter, is the spot for a
+  muffaletta and a Pimm's Cup in a crumbling, sepia-toned courtyard that's been
+  serving since 1914. It's open daily (11am–9pm most nights, till 10pm Fri–Sat),
+  and since it's genuinely busy, aim for an early lunch on a weekday rather than
+  the 3pm–8pm weekend crush. Budget an hour to linger — this is a place you sit
+  in, not just eat at.
 faq:
   - q: What's the best time to visit to avoid crowds?
-    a: Go right at opening (11am) any day, or in the early evening on a weekday. The busiest window is 3pm–8pm on weekends, so steer clear of that stretch if you want a courtyard table.
+    a: >-
+      Go right at opening (11am) any day, or in the early evening on a weekday.
+      The busiest window is 3pm–8pm on weekends, so steer clear of that stretch
+      if you want a courtyard table.
   - q: Do I need a reservation?
-    a: No — Napoleon House operates mainly as a walk-in restaurant. If there's a wait for the courtyard, you can put your name down and explore the block while you wait.
+    a: >-
+      No — Napoleon House operates mainly as a walk-in restaurant. If there's a
+      wait for the courtyard, you can put your name down and explore the block
+      while you wait.
   - q: What should I order?
-    a: The muffaletta (warm, if possible) and a Pimm's Cup are the two things to get. The traditional po'boys and gumbo are reliable if you want something beyond the signature sandwich.
+    a: >-
+      The muffaletta (warm, if possible) and a Pimm's Cup are the two things to
+      get. The traditional po'boys and gumbo are reliable if you want something
+      beyond the signature sandwich.
   - q: How long should I plan to stay?
-    a: Budget at least an hour. The appeal is as much the courtyard and the building as the food, so it's worth treating as a sit-down stop rather than a quick bite.
+    a: >-
+      Budget at least an hour. The appeal is as much the courtyard and the
+      building as the food, so it's worth treating as a sit-down stop rather
+      than a quick bite.
   - q: How do I get there without a car?
-    a: It's at 500 Chartres St, about a 10-minute walk from Jackson Square and the French Market, so most visitors simply walk in from elsewhere in the French Quarter.
+    a: >-
+      It's at 500 Chartres St, about a 10-minute walk from Jackson Square and
+      the French Market, so most visitors simply walk in from elsewhere in the
+      French Quarter.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-21'
 ---
 ## Why go
 

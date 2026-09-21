@@ -1,40 +1,47 @@
 ---
-title: "Waterfront Market: Dubai Travel Guide (4.5★)"
-description: "Waterfront Market in Deira, Dubai, is the city's covered fish and produce market on Al Khaleej Street, part of the Deira Enrichment Project on the Corniche. 4.5★ (43,039 reviews) — what visitors say, hours, and tips."
-country: "United Arab Emirates"
-region: "Dubai"
-category: "hidden-gem"
-pubDate: "2026-09-21T07:49:31.148Z"
+title: 'Waterfront Market: Dubai Travel Guide (4.5★)'
+description: >-
+  Waterfront Market in Deira, Dubai, is the city's covered fish and produce
+  market on Al Khaleej Street, part of the Deira Enrichment Project on the
+  Corniche. 4.5★ (43,040 reviews) — what visitors say, hours, and tips.
+country: United Arab Emirates
+region: Dubai
+category: hidden-gem
+pubDate: '2026-09-21T07:49:31.148Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Home_image_WATERFRONT_MARKET.jpg/1920px-Home_image_WATERFRONT_MARKET.jpg"
-  credit: "Photo: Ithra Dubai / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Home_image_WATERFRONT_MARKET.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Home_image_WATERFRONT_MARKET.jpg/1920px-Home_image_WATERFRONT_MARKET.jpg
+  credit: 'Photo: Ithra Dubai / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Home_image_WATERFRONT_MARKET.jpg'
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJxZJBUlhbXz4Rjjx_NKAl8h0"
-  name: "Waterfront Market"
-  address: "Deira Enrichment Project - Al Khaleej St - Corniche Deira - Deira - Dubai - United Arab Emirates"
+  id: ChIJxZJBUlhbXz4Rjjx_NKAl8h0
+  name: Waterfront Market
+  address: >-
+    Deira Enrichment Project - Al Khaleej St - Corniche Deira - Deira - Dubai -
+    United Arab Emirates
   rating: 4.5
-  userRatingsTotal: 43039
-  googleMapsUrl: "https://maps.google.com/?cid=2157828541469637774&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 43040
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2157828541469637774&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.291484999999998
   lng: 55.3234788
-  phone: "+971 800 627538"
+  phone: +971 800 627538
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-09-21
+    updated: 2026-09-21T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -58,24 +65,44 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_3068386c414b4e5f786a6a52347a5862686c55424a5a784a496843"
+    venueId: ven_3068386c414b4e5f786a6a52347a5862686c55424a5a784a496843
 tags:
-  - "dubai"
-  - "local market"
-quickAnswer: "Waterfront Market in Deira, Dubai, is the city's covered fish and produce market on Al Khaleej Street, part of the Deira Enrichment Project on the Corniche. It runs 24 hours daily, but for actual shopping and browsing, go 7am–10am on weekdays or 7am–8am on weekends before the halls fill. It's a well-visited spot, well over 40,000 reviews, so timing your visit matters more than finding a secret entrance."
+  - dubai
+  - local market
+quickAnswer: >-
+  Waterfront Market in Deira, Dubai, is the city's covered fish and produce
+  market on Al Khaleej Street, part of the Deira Enrichment Project on the
+  Corniche. It runs 24 hours daily, but for actual shopping and browsing, go
+  7am–10am on weekdays or 7am–8am on weekends before the halls fill. It's a
+  well-visited spot, well over 40,000 reviews, so timing your visit matters more
+  than finding a secret entrance.
 faq:
-  - q: "Where exactly is Waterfront Market located?"
-    a: "On Al Khaleej Street in Deira, Dubai, within the Deira Enrichment Project area along the Corniche, easily reached by taxi from central Dubai or a walk from Deira's waterfront."
-  - q: "What's the quietest time to visit?"
-    a: "Weekdays between 7am and 10am are calmest. On weekends the quiet window is shorter, just 7am to 8am, before crowds build."
-  - q: "What time does Waterfront Market open and close?"
-    a: "It's open 24 hours, every day of the week, though the fish and produce vendors are most active during standard daytime and morning hours."
-  - q: "What should I buy or do there?"
-    a: "Browse the fresh fish hall, check the dried and salted fish counters, and pick up produce. Some nearby stalls will cook your fish for you if you ask before purchasing."
-  - q: "Is it worth visiting if it's always crowded?"
-    a: "Yes, it's one of Dubai's most-reviewed markets and the crowds reflect real local demand. Just avoid weekend afternoons and evenings (11am–11pm), the busiest stretch, and go early instead."
+  - q: Where exactly is Waterfront Market located?
+    a: >-
+      On Al Khaleej Street in Deira, Dubai, within the Deira Enrichment Project
+      area along the Corniche, easily reached by taxi from central Dubai or a
+      walk from Deira's waterfront.
+  - q: What's the quietest time to visit?
+    a: >-
+      Weekdays between 7am and 10am are calmest. On weekends the quiet window is
+      shorter, just 7am to 8am, before crowds build.
+  - q: What time does Waterfront Market open and close?
+    a: >-
+      It's open 24 hours, every day of the week, though the fish and produce
+      vendors are most active during standard daytime and morning hours.
+  - q: What should I buy or do there?
+    a: >-
+      Browse the fresh fish hall, check the dried and salted fish counters, and
+      pick up produce. Some nearby stalls will cook your fish for you if you ask
+      before purchasing.
+  - q: Is it worth visiting if it's always crowded?
+    a: >-
+      Yes, it's one of Dubai's most-reviewed markets and the crowds reflect real
+      local demand. Just avoid weekend afternoons and evenings (11am–11pm), the
+      busiest stretch, and go early instead.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-21'
 ---
 
 ## What you're walking into

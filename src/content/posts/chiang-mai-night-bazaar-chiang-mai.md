@@ -1,59 +1,89 @@
 ---
-title: "Night Bazaar: Chiang Mai Travel Guide (4.3★)"
-description: "Night Bazaar Chiang Mai is the sprawling evening market strip along Changklan Road, open nightly from 5pm to midnight. 4.3★ (27,372 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Chiang Mai"
-category: "hidden-gem"
-pubDate: "2026-09-21T07:47:20.409Z"
+title: 'Night Bazaar: Chiang Mai Travel Guide (4.3★)'
+description: >-
+  Night Bazaar Chiang Mai is the sprawling evening market strip along Changklan
+  Road, open nightly from 5pm to midnight. 4.3★ (27,379 reviews) — what visitors
+  say, hours, and tips.
+country: Thailand
+region: Chiang Mai
+category: hidden-gem
+pubDate: '2026-09-21T07:47:20.409Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Chiang_Mai_Night_Bazaar_in_2018.jpg/3840px-Chiang_Mai_Night_Bazaar_in_2018.jpg"
-  credit: "Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Chiang_Mai_Night_Bazaar_in_2018.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Chiang_Mai_Night_Bazaar_in_2018.jpg/3840px-Chiang_Mai_Night_Bazaar_in_2018.jpg
+  credit: 'Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Chiang_Mai_Night_Bazaar_in_2018.jpg'
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/4/43/CHIANG_MAI_NIGHT_BAZAAR_THAILAND_FEB_2012_%286869571256%29.jpg"
-    credit: "Photo: calflier001 / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:CHIANG_MAI_NIGHT_BAZAAR_THAILAND_FEB_2012_(6869571256).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/4/43/CHIANG_MAI_NIGHT_BAZAAR_THAILAND_FEB_2012_%286869571256%29.jpg
+    credit: 'Photo: calflier001 / Wikimedia Commons (CC BY-SA 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:CHIANG_MAI_NIGHT_BAZAAR_THAILAND_FEB_2012_(6869571256).jpg
 place:
-  id: "ChIJW0qnDKY62jARHbAmfwD1Lgs"
-  name: "Night Bazaar Chiang Mai"
-  address: "Changklan Rd, Tambon Chang Moi, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50100, Thailand"
+  id: ChIJW0qnDKY62jARHbAmfwD1Lgs
+  name: Night Bazaar Chiang Mai
+  address: >-
+    Changklan Rd, Tambon Chang Moi, Amphoe Mueang Chiang Mai, Chang Wat Chiang
+    Mai 50100, Thailand
   rating: 4.3
-  userRatingsTotal: 27372
-  googleMapsUrl: "https://maps.google.com/?cid=805850765827944477&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 27379
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=805850765827944477&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 18.7852244
   lng: 99.0002986
   openingHours:
-    - "Monday: 5:00 PM – 12:00 AM"
-    - "Tuesday: 5:00 PM – 12:00 AM"
-    - "Wednesday: 5:00 PM – 12:00 AM"
-    - "Thursday: 5:00 PM – 12:00 AM"
-    - "Friday: 5:00 PM – 12:00 AM"
-    - "Saturday: 5:00 PM – 12:00 AM"
-    - "Sunday: 5:00 PM – 12:00 AM"
+    - 'Monday: 5:00 PM – 12:00 AM'
+    - 'Tuesday: 5:00 PM – 12:00 AM'
+    - 'Wednesday: 5:00 PM – 12:00 AM'
+    - 'Thursday: 5:00 PM – 12:00 AM'
+    - 'Friday: 5:00 PM – 12:00 AM'
+    - 'Saturday: 5:00 PM – 12:00 AM'
+    - 'Sunday: 5:00 PM – 12:00 AM'
 tags:
-  - "chiang mai"
-  - "local market"
-quickAnswer: "Night Bazaar Chiang Mai is the sprawling evening market strip along Changklan Road, open nightly from 5pm to midnight. It's a well-visited, very popular stretch, not a quiet find, so plan for crowds and go either right at 5pm or after 10pm if you want room to move. Give it at least two hours to cover the stalls, arcades and food courts between Chang Klan and Loi Kroh roads."
+  - chiang mai
+  - local market
+quickAnswer: >-
+  Night Bazaar Chiang Mai is the sprawling evening market strip along Changklan
+  Road, open nightly from 5pm to midnight. It's a well-visited, very popular
+  stretch, not a quiet find, so plan for crowds and go either right at 5pm or
+  after 10pm if you want room to move. Give it at least two hours to cover the
+  stalls, arcades and food courts between Chang Klan and Loi Kroh roads.
 faq:
-  - q: "What are the opening hours for Night Bazaar Chiang Mai?"
-    a: "It runs every night of the week from 5pm to midnight, with no day off, on Changklan Road."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Arrive right at 5pm, while the stalls are still setting out, or come back after 10pm once the tour groups and families have gone. The hours in between are dinner time for the whole strip, so that is when the aisles are hardest to move through."
-  - q: "How do I get to Night Bazaar Chiang Mai?"
-    a: "It's on Changklan Road just outside the old city's southeast corner, a short walk or songthaew/tuk-tuk ride from Tha Phae Gate. Ride-hailing apps work well since street parking is limited once the market opens."
-  - q: "How long should I spend at the market?"
-    a: "Plan on at least two hours to cover the main strip and one indoor complex like Kalare; closer to three if you want a sit-down meal and time in the side arcades."
-  - q: "Is bargaining expected here?"
-    a: "Yes, for crafts, clothing and souvenirs, vendors expect you to counter-offer. Food stalls are generally fixed-price, and cash is the most widely accepted payment."
+  - q: What are the opening hours for Night Bazaar Chiang Mai?
+    a: >-
+      It runs every night of the week from 5pm to midnight, with no day off, on
+      Changklan Road.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Arrive right at 5pm, while the stalls are still setting out, or come back
+      after 10pm once the tour groups and families have gone. The hours in
+      between are dinner time for the whole strip, so that is when the aisles
+      are hardest to move through.
+  - q: How do I get to Night Bazaar Chiang Mai?
+    a: >-
+      It's on Changklan Road just outside the old city's southeast corner, a
+      short walk or songthaew/tuk-tuk ride from Tha Phae Gate. Ride-hailing apps
+      work well since street parking is limited once the market opens.
+  - q: How long should I spend at the market?
+    a: >-
+      Plan on at least two hours to cover the main strip and one indoor complex
+      like Kalare; closer to three if you want a sit-down meal and time in the
+      side arcades.
+  - q: Is bargaining expected here?
+    a: >-
+      Yes, for crafts, clothing and souvenirs, vendors expect you to
+      counter-offer. Food stalls are generally fixed-price, and cash is the most
+      widely accepted payment.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-21'
 ---
 
 Night Bazaar runs the length of Changklan Road on the east side of the old city moat, a corridor of covered stalls, side arcades and multi-storey market buildings that only wakes up as the sun goes down. By day it's mostly shuttered metal shutters and parked motorbikes; by 5pm the tables are out, the string lights are on, and the whole strip turns into one continuous aisle of vendors.
