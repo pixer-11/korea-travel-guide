@@ -62,6 +62,15 @@ place:
       - 19
       - 20
     venueId: ven_516c766c4c3274374f6f31524132417752644b696e35544a496843
+  phone: '+81 52-962-1011'
+  openingHours:
+    - 'Monday: 6:00 AM – 11:00 PM'
+    - 'Tuesday: 6:00 AM – 11:00 PM'
+    - 'Wednesday: 6:00 AM – 11:00 PM'
+    - 'Thursday: 6:00 AM – 11:00 PM'
+    - 'Friday: 6:00 AM – 11:00 PM'
+    - 'Saturday: 6:00 AM – 11:00 PM'
+    - 'Sunday: 6:00 AM – 11:00 PM'
 tags:
   - nagoya
   - top attraction

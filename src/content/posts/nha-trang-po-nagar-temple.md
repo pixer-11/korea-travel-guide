@@ -38,6 +38,14 @@ place:
       - 10
       - 11
     venueId: ven_45785876645a3876324266524544636e785959344b66554a496843
+  openingHours:
+    - 'Monday: 6:00 AM – 6:00 PM'
+    - 'Tuesday: 6:00 AM – 6:00 PM'
+    - 'Wednesday: 6:00 AM – 6:00 PM'
+    - 'Thursday: 6:00 AM – 6:00 PM'
+    - 'Friday: 6:00 AM – 6:00 PM'
+    - 'Saturday: 6:00 AM – 6:00 PM'
+    - 'Sunday: 6:00 AM – 6:00 PM'
 tags:
   - nha trang
   - top attraction

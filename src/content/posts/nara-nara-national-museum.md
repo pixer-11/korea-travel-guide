@@ -1,50 +1,37 @@
 ---
-title: 'Nara National Museum: Travel Guide (4.4★)'
-description: >-
-  Visit the Nara National Museum for its Buddhist sculpture collection,
-  especially the atmospheric basement gallery of gilt-bronze and wooden Buddhas
-  in the Nara Buddhist Sculpture Hall. 4.4★ (5,478 reviews) — what visitors say,
-  hours, and tips.
+title: "Nara National Museum: Travel Guide (4.4★)"
+description: Visit the Nara National Museum for its Buddhist sculpture collection, especially the atmospheric basement gallery of gilt-bronze and wooden Buddhas in the Nara Buddhist Sculpture Hall. 4.4★ (5,478 reviews) — what visitors say, hours, and tips.
 country: Japan
 region: Nara
 category: attraction
-pubDate: '2026-08-05T11:21:25.446Z'
+pubDate: "2026-08-05T11:21:25.446Z"
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/140927_Nara_National_Museum_Nara_Japan03bs5.jpg/1920px-140927_Nara_National_Museum_Nara_Japan03bs5.jpg
-  credit: 'Photo: 663highland / Wikimedia Commons (CC BY 2.5)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/140927_Nara_National_Museum_Nara_Japan03bs5.jpg/1920px-140927_Nara_National_Museum_Nara_Japan03bs5.jpg
+  credit: "Photo: 663highland / Wikimedia Commons (CC BY 2.5)"
   license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:140927_Nara_National_Museum_Nara_Japan03bs5.jpg
+  source: https://commons.wikimedia.org/wiki/File:140927_Nara_National_Museum_Nara_Japan03bs5.jpg
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/140927_Nara_National_Museum_Nara_Japan01bs5.jpg/3840px-140927_Nara_National_Museum_Nara_Japan01bs5.jpg
-    credit: 'Photo: 663highland / Wikimedia Commons (CC BY 2.5)'
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/140927_Nara_National_Museum_Nara_Japan01bs5.jpg/3840px-140927_Nara_National_Museum_Nara_Japan01bs5.jpg
+    credit: "Photo: 663highland / Wikimedia Commons (CC BY 2.5)"
     license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:140927_Nara_National_Museum_Nara_Japan01bs5.jpg
+    source: https://commons.wikimedia.org/wiki/File:140927_Nara_National_Museum_Nara_Japan01bs5.jpg
 place:
   id: ChIJ0St27JE5AWAR7acBmY9MU4Y
   name: Nara National Museum
-  address: '50 Noboriōjichō, Nara, 630-8213, Japan'
+  address: 50 Noboriōjichō, Nara, 630-8213, Japan
   rating: 4.4
   userRatingsTotal: 5478
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=9679164203780384749&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=9679164203780384749&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 34.6831318
   lng: 135.8383055
   busyness:
     updated: 2026-08-05T00:00:00.000Z
-    weekdayQuiet:
-      - 17
     weekdayBusy:
       - 11
       - 12
       - 13
       - 14
-    weekendQuiet:
-      - 17
     weekendBusy:
       - 11
       - 12
@@ -52,44 +39,33 @@ place:
       - 14
       - 15
     venueId: ven_5934554d39596d426361375241574135454a37327453304a496843
+  phone: +81 50-5542-8600
+  openingHours:
+    - "Monday: Closed"
+    - "Tuesday: 9:30 AM – 5:00 PM"
+    - "Wednesday: 9:30 AM – 5:00 PM"
+    - "Thursday: 9:30 AM – 5:00 PM"
+    - "Friday: 9:30 AM – 5:00 PM"
+    - "Saturday: 9:30 AM – 5:00 PM"
+    - "Sunday: 9:30 AM – 5:00 PM"
 tags:
   - nara
   - museum
-quickAnswer: >-
-  Visit the Nara National Museum for its Buddhist sculpture collection,
-  especially the atmospheric basement gallery of gilt-bronze and wooden Buddhas
-  in the Nara Buddhist Sculpture Hall. It sits inside Nara Park, a 5–10 minute
-  walk from Kintetsu Nara Station, and is easily paired with Todai-ji and Kasuga
-  Taisha. Weekend crowds peak 11am–4pm, so aim for the last hour or two before
-  closing (5pm–6pm) for the calmest visit.
+quickAnswer: Visit the Nara National Museum for its Buddhist sculpture collection, especially the atmospheric basement gallery of gilt-bronze and wooden Buddhas in the Nara Buddhist Sculpture Hall. It sits inside Nara Park, a 5–10 minute walk from Kintetsu Nara Station, and is easily paired with Todai-ji and Kasuga Taisha. Weekend crowds peak 11am–4pm, so aim for the last hour before closing (4pm–5pm) for the calmest visit.
 faq:
   - q: How do I get to the Nara National Museum?
-    a: >-
-      It's about a 5–10 minute walk from Kintetsu Nara Station through Nara
-      Park, or roughly 20 minutes on foot (or a short bus ride) from JR Nara
-      Station.
+    a: It's about a 5–10 minute walk from Kintetsu Nara Station through Nara Park, or roughly 20 minutes on foot (or a short bus ride) from JR Nara Station.
   - q: How long should I spend at the museum?
-    a: >-
-      Plan on 90 minutes to two hours for a proper visit, or about an hour if
-      you're focusing only on the Buddhist Sculpture Hall.
+    a: Plan on 90 minutes to two hours for a proper visit, or about an hour if you're focusing only on the Buddhist Sculpture Hall.
   - q: When is the quietest time to visit?
-    a: >-
-      Both weekdays and weekends are calmest between 5pm and 6pm. Try to avoid
-      11am–4pm on weekends, when the museum sees its heaviest foot traffic.
+    a: Both weekdays and weekends are calmest between 4pm and 5pm, right before closing. Try to avoid 11am–4pm on weekends, when the museum sees its heaviest foot traffic.
   - q: Can I combine this with other Nara Park sights?
-    a: >-
-      Yes — Todai-ji's Great Buddha Hall and Kasuga Taisha are both roughly a
-      10-minute walk away, making a natural half- to full-day loop through the
-      park.
+    a: Yes — Todai-ji's Great Buddha Hall and Kasuga Taisha are both roughly a 10-minute walk away, making a natural half- to full-day loop through the park.
   - q: Are there special exhibitions worth planning around?
-    a: >-
-      The museum typically runs special loan exhibitions of Buddhist art in
-      spring and autumn; these can be crowded and may temporarily change which
-      permanent galleries are accessible, so check the museum's schedule before
-      visiting.
+    a: The museum typically runs special loan exhibitions of Buddhist art in spring and autumn; these can be crowded and may temporarily change which permanent galleries are accessible, so check the museum's schedule before visiting.
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-17'
+updatedDate: "2026-09-17"
 ---
 
 ## Why go
@@ -114,7 +90,7 @@ The adjoining galleries hold sutra scrolls, ritual bronzes, and mandala painting
 
 Give yourself 90 minutes to two hours if you want to actually read the object labels rather than skim; an hour is enough for a focused pass through the Sculpture Hall alone. Crowd patterns here are telling: weekends get busiest between 11am and 4pm, exactly when tour groups doing the Nara Park circuit (deer, Todai-ji, museum, Kasuga Taisha) all funnel through at once.
 
-Both weekdays and weekends are quietest in the late afternoon, specifically the 5pm–6pm window, when the tour buses have moved on and the light outside starts to soften over the park. If your schedule allows it, save the museum for the tail end of your Nara day rather than the middle.
+Both weekdays and weekends are quietest in the late afternoon, specifically the 4pm–5pm window, right before closing, when the tour buses have moved on and the light outside starts to soften over the park. If your schedule allows it, save the museum for the tail end of your Nara day rather than the middle.
 
 ## How to visit like a local
 

@@ -35,19 +35,12 @@ place:
   lng: 135.8398158
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 7
-      - 8
-      - 9
-      - 17
+    weekdayQuiet: [8, 9]
     weekdayBusy:
       - 12
       - 13
       - 14
-    weekendQuiet:
-      - 7
-      - 8
-      - 17
+    weekendQuiet: [8]
     weekendBusy:
       - 11
       - 12
@@ -55,6 +48,15 @@ place:
       - 14
       - 15
     venueId: ven_67506b732d546e567a7a6a5241574135417065495958334a496843
+  phone: '+81 742-22-5511'
+  openingHours:
+    - 'Monday: 7:30 AM – 5:30 PM'
+    - 'Tuesday: 7:30 AM – 5:30 PM'
+    - 'Wednesday: 7:30 AM – 5:30 PM'
+    - 'Thursday: 7:30 AM – 5:30 PM'
+    - 'Friday: 7:30 AM – 5:30 PM'
+    - 'Saturday: 7:30 AM – 5:30 PM'
+    - 'Sunday: 7:30 AM – 5:30 PM'
 tags:
   - nara
   - Nara Park

@@ -1,13 +1,13 @@
 ---
-title: 'Conservatory Garden: New York Travel Guide (4.8★)'
-description: Enter Central Park at 5th Avenue and 105th Street through the wrought-iron Vanderbilt Gate and you're in the Conservatory Garden, a six-acre formal garden split into Italian, French, and English sections, open 8am until dusk. 4.8★ (2,944 reviews) — what visitors say, hours, and tips.
+title: "Conservatory Garden: New York Travel Guide (4.8★)"
+description: Enter Central Park at 5th Avenue and 105th Street through the wrought-iron Vanderbilt Gate and you're in the Conservatory Garden, a six-acre formal garden split into Italian, French, and English sections, open 8am until 8pm. 4.8★ (2,944 reviews) — what visitors say, hours, and tips.
 country: United States
 region: New York
 category: attraction
-pubDate: '2026-08-05T11:02:32.929Z'
+pubDate: "2026-08-05T11:02:32.929Z"
 heroImage:
   url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Central_Park_23.jpg/1920px-Central_Park_23.jpg
-  credit: 'Photo: Summ / Wikimedia Commons (CC BY-SA 3.0)'
+  credit: "Photo: Summ / Wikimedia Commons (CC BY-SA 3.0)"
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Central_Park_23.jpg
 gallery: []
@@ -27,12 +27,10 @@ place:
       - 14
       - 15
       - 19
-      - 20
     weekendQuiet:
       - 13
       - 14
       - 15
-      - 20
     weekendBusy:
       - 8
       - 10
@@ -40,17 +38,26 @@ place:
       - 16
       - 18
     venueId: ven_733950504e644550574537526b6f77327a42506e3037684a496843
+  phone: +1 212-310-6600
+  openingHours:
+    - "Monday: 8:00 AM – 8:00 PM"
+    - "Tuesday: 8:00 AM – 8:00 PM"
+    - "Wednesday: 8:00 AM – 8:00 PM"
+    - "Thursday: 8:00 AM – 8:00 PM"
+    - "Friday: 8:00 AM – 8:00 PM"
+    - "Saturday: 8:00 AM – 8:00 PM"
+    - "Sunday: 8:00 AM – 8:00 PM"
 tags:
   - new york
   - park
-quickAnswer: Enter Central Park at 5th Avenue and 105th Street through the wrought-iron Vanderbilt Gate and you're in the Conservatory Garden, a six-acre formal garden split into Italian, French, and English sections, open 8am until dusk. It's one of the calmest corners of the park — crowd data shows weekdays from 2pm–9pm and weekends from 1pm–9pm are quietest, so aim for a mid-afternoon visit rather than a summer weekend morning. Give it 45 minutes to an hour, longer if you linger by the fountains.
+quickAnswer: Enter Central Park at 5th Avenue and 105th Street through the wrought-iron Vanderbilt Gate and you're in the Conservatory Garden, a six-acre formal garden split into Italian, French, and English sections, open 8am until 8pm. It's one of the calmest corners of the park — crowd data shows weekdays from 2pm–8pm and weekends from 1pm–8pm are quietest, so aim for a mid-afternoon visit rather than a summer weekend morning. Give it 45 minutes to an hour, longer if you linger by the fountains.
 faq:
   - q: How do I get to the Conservatory Garden?
     a: Enter Central Park at 5th Avenue and 105th Street through the Vanderbilt Gate. By subway, take the 6 train to 103rd Street (walk north) or the 2/3 to Central Park North–110th Street.
   - q: Is there an admission fee?
-    a: No, entry is free — the garden is open to the public daily from 8am until dusk, same as the rest of Central Park.
+    a: No, entry is free — the garden is open to the public daily from 8am until 8pm, same as the rest of Central Park.
   - q: When is the quietest time to visit?
-    a: Weekdays it's calmest from 2pm to 9pm, and on weekends from 1pm to 9pm. Weekends before 7pm tend to be the busiest window, so avoid a Saturday or Sunday morning if you want it peaceful.
+    a: Weekdays it's calmest from 2pm to 8pm, and on weekends from 1pm to 8pm. Weekends before 7pm tend to be the busiest window, so avoid a Saturday or Sunday morning if you want it peaceful.
   - q: How long should I spend there?
     a: Most visitors spend 45 minutes to an hour walking through all three garden sections — Italian, French, and English. Add extra time if you plan to sit by the fountains or lily pond.
   - q: What's nearby worth combining with a visit?
@@ -77,9 +84,9 @@ To the north, the **English Garden** is looser and more romantic: curving paths,
 
 ## When to go
 
-The garden is open 8am until dusk daily, and the crowd patterns are worth planning around. Weekends get busiest from 8am to 7pm, when the fountains and blooming beds draw photographers, dog walkers, and picnicking families, so if you want the place closer to how it feels on an ordinary weekday afternoon, aim for after 1pm, quietest hours on weekends run 1pm–9pm.
+The garden is open 8am until 8pm daily, and the crowd patterns are worth planning around. Weekends get busiest from 8am to 7pm, when the fountains and blooming beds draw photographers, dog walkers, and picnicking families, so if you want the place closer to how it feels on an ordinary weekday afternoon, aim for after 1pm, quietest hours on weekends run 1pm–8pm.
 
-On weekdays it's calmest from 2pm–9pm, making a late-afternoon visit, after the morning joggers and before dusk, the sweet spot. Weekday mornings and midday hours tend to be busier by comparison.
+On weekdays it's calmest from 2pm–8pm, making a late-afternoon visit, after the morning joggers and before closing, the sweet spot. Weekday mornings and midday hours tend to be busier by comparison.
 
 ## How to visit like a local
 
@@ -88,4 +95,3 @@ There's no entry fee and no ticket booth, you just walk in, so there's nothing t
 The etiquette here is simple but real. This is one of the few spots in Central Park where picnicking on the grass isn't really the norm; stick to the paths and benches, and keep voices down, since hush is the whole point of the place. The mistake most first-time visitors make is treating it as a five-minute photo stop on the way to the Conservatory Water or the Guggenheim; slow down instead, walk all three gardens in sequence (Italian, then French, then English, or reverse), and you'll notice the transition in mood from formal to wild.
 
 There's no food or drink sold inside, so grab something beforehand from one of the delis along Madison or 5th Avenue. Payment isn't a factor anywhere inside the garden itself, so there's nothing to carry but yourself.
-

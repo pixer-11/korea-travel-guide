@@ -28,20 +28,14 @@ place:
   lng: 14.4886761
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 17
-      - 18
-      - 19
+    weekdayQuiet: [17, 18]
     weekdayBusy:
       - 10
       - 11
       - 12
       - 13
       - 14
-    weekendQuiet:
-      - 17
-      - 18
-      - 19
+    weekendQuiet: [17, 18]
     weekendBusy:
       - 10
       - 11
@@ -49,6 +43,15 @@ place:
       - 13
       - 14
     venueId: ven_77487069426f6a53745a4e524d784f3832376852722d674a496843
+  phone: '+39 081 857 5347'
+  openingHours:
+    - 'Monday: 9:00 AM – 7:00 PM'
+    - 'Tuesday: 9:00 AM – 7:00 PM'
+    - 'Wednesday: 9:00 AM – 7:00 PM'
+    - 'Thursday: 9:00 AM – 7:00 PM'
+    - 'Friday: 9:00 AM – 7:00 PM'
+    - 'Saturday: 9:00 AM – 7:00 PM'
+    - 'Sunday: 9:00 AM – 7:00 PM'
 tags:
   - naples
   - Pompeii Ruins
