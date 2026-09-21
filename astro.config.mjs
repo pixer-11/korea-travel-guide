@@ -449,6 +449,22 @@ function regionRedirects() {
     ['jakarta-lalala-fest-2026', 'jakarta-lalala-festival-2026'],
     ['jakarta-the-sounds-project-2026', 'jakarta-the-sounds-project-vol-9'],
     ['kuala-lumpur-f-forever-world-tour-kuala-lumpur', 'kuala-lumpur-f-forever-1st-world-tour'],
+    // Not an event either: SAMAA_, a Sangenjaya coffee bar, written twice six
+    // days apart. The first copy shipped PLACELESS, so it carried no place.id
+    // for the publish de-dupe to see, and the topic key — the layer that is
+    // supposed to cover exactly that hole — missed it because Google returned
+    // the venue as "Samaa (SAMAA_)" and then as "SAMAA_": the alias repeats the
+    // name, and the key sorted tokens without collapsing repeats (fixed in
+    // scripts/lib/topic-key.mjs alongside this line). Neither URL is indexed
+    // ("Discovered - currently not indexed", both, 09-22), so the rankings rule
+    // does not decide it. KEPT the 09-09 copy: its hero shows the restored
+    // 70-year-old interior the piece is actually about, no paragraph runs past
+    // 70 words, and the quality audit has nothing on it — where the 09-16 copy
+    // carries a logged "other-glaring" line ("A short WhatsApp-free spontaneous
+    // walk past the door") and a storefront photo with the photographer
+    // reflected in the glass. Retiring it clears that defect for free: the kept
+    // post needs no body edit, so nothing re-translates.
+    ['tokyo-samaa', 'tokyo-samaa-samaa'],
   ];
   // Resolve one hop at build time: when the KEPT twin is itself quarantined,
   // pointing at it produced a 301→301 chain ending wherever the draft rule
