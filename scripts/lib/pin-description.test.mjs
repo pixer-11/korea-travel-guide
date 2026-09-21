@@ -364,7 +364,7 @@ test('✅ 금·토 야간개장이 "평일 5시"라는 거짓 대신 진짜 사�
 test('🛑 토요일 6시 폐관·일요일 10시30분 개관을 약속하지 않는다 — Sagrada Família', () => {
   const openingHours = week('9:00 AM – 8:00 PM', '9:00 AM – 6:00 PM', '10:30 AM – 8:00 PM');
   const hook = openingHook({ place: { busyness: { weekdayQuiet: [9, 18, 19], weekendQuiet: [9, 18, 19] }, openingHours } });
-  assert.equal(hook.text, 'Quietest weekdays 9-10am and 6-8pm, Sundays 6-8pm.');
+  assert.equal(hook.text, 'Quietest weekdays 9-10am and 6-8pm · Sundays 6-8pm.');
 });
 
 test('✅ 일주일이 똑같으면 요일 이름을 붙이지 않는다', () => {
@@ -410,8 +410,8 @@ test('묶음이 셋 이상이면 큰 것 둘만 말한다 — 한 문장에 담�
     'Thursday: 9:00 AM – 8:00 PM', 'Friday: 9:00 AM – 8:00 PM',
     'Saturday: 9:00 AM – 6:00 PM', 'Sunday: 11:00 AM – 8:00 PM'];
   const s = quietWindowSummaryWithinHours({ weekdayQuiet: [9, 18], weekendQuiet: [9, 18] }, openingHours);
-  // 라벨이 콤마를 품으면 둘째 묶음은 붙이지 않는다 — 읽히지 않는 문장이 된다.
-  assert.equal(s, 'Mondays, Wednesdays, Thursdays and Fridays 9:00-10:00 and 18:00-19:00');
+  // 묶음 구분자가 '·' 이라 라벨 안의 콤마와 섞이지 않는다 — 둘 다 말할 수 있다.
+  assert.equal(s, 'Mondays, Wednesdays, Thursdays and Fridays 9:00-10:00 and 18:00-19:00 · Tuesdays and Saturdays 9:00-10:00');
 });
 
 test('quietDayGroups 계약 — 읽을 수 없으면 null, 남는 시간이 없으면 빈 배열', () => {

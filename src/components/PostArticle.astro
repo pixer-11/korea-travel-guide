@@ -866,11 +866,14 @@ const saveQuiet = perDay
                 read out as sixteen unlabelled cells per row. */}
             {bzRows.length > 0 && (
               <div class="bz-chart" aria-hidden="true">
+                {/* No per-row wrapper: label and bar are direct children of the
+                    one grid, so every row's label column is the same width and
+                    that width is the longest label's, not a guess. */}
                 {bzRows.map((r) => (
-                  <div class="bz-line">
+                  <>
                     <span class="bz-day">{r.label}</span>
                     <div class="bz-bar">{r.cells.map((c, i) => <i class={c} title={bzHour(BZ_HOURS[i])}></i>)}</div>
-                  </div>
+                  </>
                 ))}
                 <div class="bz-scale"><span>{bzHour(7)}</span><span>{bzHour(14)}</span><span>{bzHour(22)}</span></div>
                 <p class="bz-legend">

@@ -27,10 +27,14 @@ export function hourRuns24(hours) {
     prev = h;
   }
   runs.push([start, prev]);
-  return runs.map(([a, b]) => `${a}:00-${b + 1}:00`).join(' and ');
+  // "A, B and C", not "A and B and C". Three runs in one window is rare (14
+  // guides) but it reads like a child listing toys, and the comma is free now
+  // that groups are separated by "·" instead of by a comma of their own.
+  const spans = runs.map(([a, b]) => `${a}:00-${b + 1}:00`);
+  return spans.length > 1 ? `${spans.slice(0, -1).join(', ')} and ${spans.at(-1)}` : spans[0];
 }
 
-/** "weekdays 7:00-8:00 and 19:00-23:00, weekends 9:00-11:00", or null. */
+/** "weekdays 7:00-8:00 and 19:00-23:00 · weekends 9:00-11:00", or null. */
 export function quietWindowSummary(busyness) {
   if (!busyness) return null;
   const parts = [];
@@ -38,7 +42,7 @@ export function quietWindowSummary(busyness) {
   const we = hourRuns24(busyness.weekendQuiet);
   if (wd) parts.push(`weekdays ${wd}`);
   if (we) parts.push(`weekends ${we}`);
-  return parts.length ? parts.join(', ') : null;
+  return parts.length ? parts.join(' · ') : null;
 }
 
 // ── the days the quiet hours actually hold on ────────────────
@@ -69,27 +73,20 @@ export function dayGroupLabel(days) {
  * quietWindowSummary, but each run labelled with the days it is true on.
  * Falls back to the stored weekday/weekend split when there is no readable
  * week to check against — there is nothing to contradict then.
- * At most two groups: a third is a schedule too fiddly to put in one sentence.
+ * At most two groups: a third is a schedule too fiddly for one sentence. The
+ * groups are separated by "·", not a comma, so a label that lists days of its
+ * own ("Mondays, Wednesdays and Fridays") still reads as one claim.
  */
 export function quietWindowSummaryWithinHours(busyness, openingHours) {
   const groups = quietDayGroups(busyness, openingHours);
   if (groups === null) return quietWindowSummary(busyness);
   const parts = [];
-  const labels = [];
   for (const g of groups) {
     if (parts.length >= 2) break;
     const runs = hourRuns24(g.quiet);
     if (!runs) continue;
     const label = dayGroupLabel(g.days);
-    // A second group is only worth adding when neither name carries a comma of
-    // its own. "Mondays, Wednesdays, Thursdays and Fridays 9-10am and 6-7pm,
-    // Tuesdays and Saturdays 9-10am" is accurate and unreadable — the commas
-    // stop marking where one claim ends and the next begins. One clear fact
-    // beats two tangled ones.
-    const plain = (l) => l === null || !l.includes(',');
-    if (parts.length === 1 && !(plain(labels[0]) && plain(label))) break;
     parts.push(label ? `${label} ${runs}` : runs);
-    labels.push(label);
   }
-  return parts.length ? parts.join(', ') : null;
+  return parts.length ? parts.join(' · ') : null;
 }

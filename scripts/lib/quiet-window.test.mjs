@@ -20,7 +20,7 @@ test('주말 자료만 있으면 "weekdays null" 이 아니라 주말만 말한�
 test('둘 다 있으면 둘 다, 없으면 null', () => {
   assert.equal(
     quietWindowSummary({ weekdayQuiet: [7, 19], weekendQuiet: [8] }),
-    'weekdays 7:00-8:00 and 19:00-20:00, weekends 8:00-9:00',
+    'weekdays 7:00-8:00 and 19:00-20:00 · weekends 8:00-9:00',
   );
   assert.equal(quietWindowSummary({ weekdayQuiet: [], weekendQuiet: [] }), null);
   assert.equal(quietWindowSummary(null), null);
