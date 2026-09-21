@@ -1,3 +1,4 @@
+import { quietDayGroups } from '../../src/lib/hours.mjs';
 // The quiet-hours fact the itinerary writer is handed for each stop.
 //
 // It is a CLOSED-WORLD fact: the model is told to use nothing else, so whatever
@@ -40,100 +41,57 @@ export function quietWindowSummary(busyness) {
   return parts.length ? parts.join(', ') : null;
 }
 
-// ── does the venue's own schedule agree? ─────────────────────
-// A quiet hour is only worth naming if the doors are open during it. BestTime
-// buckets the week into "weekdays" and "weekends"; opening hours do not, and
-// the two days inside a bucket often differ. Subhash Bose Park in Kochi is shut
-// 9am-2pm on Saturday and opens at 11am on Sunday, so "quietest weekends
-// 11am-2pm" sent a reader to a locked gate on one of the two days it named.
-// Codex found it on 2026-09-21; 77 of the 634 quiet pins that have hours
-// carried the same contradiction (Sagrada Família promised 6-8pm on a Saturday
-// that closes at 6, Daegu National Museum 8am on a Saturday that opens at 9).
+// ── the days the quiet hours actually hold on ────────────────
+// "Weekends" is one bucket to BestTime and two different days to a venue.
+// Subhash Bose Park in Kochi is shut 9am-2pm on Saturday and opens at 11am on
+// Sunday, so "quietest weekends 11am-2pm" sent a reader to a locked gate on one
+// of the two days it named (Codex, 2026-09-21; 77 of 634 quiet pins).
 //
-// The rule: an hour survives only when EVERY day of its bucket is open for the
-// whole of it. A line we hold but cannot read counts as NOT open — a schedule
-// we cannot parse is not permission to guess.
+// Intersecting the bucket would be truthful and lossy — the Met's 5pm really is
+// quiet, on the Friday and Saturday it stays open until 9. So quietDayGroups()
+// keeps the hours per day and groups the days that agree, and this names them.
+// Nothing true is dropped; a fact that was hiding behind the word "weekdays"
+// gets said out loud instead.
 
 const DAY_NAMES = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
-const WEEKDAYS = DAY_NAMES.slice(0, 5);
-const WEEKEND = DAY_NAMES.slice(5);
+const listOf = (xs) => (xs.length > 1 ? `${xs.slice(0, -1).join(', ')} and ${xs.at(-1)}` : xs[0]);
 
-/**
- * One Google hours value → the open spans as hours past midnight, or null when
- * the line cannot be read. "Closed" is an empty list: readable, and never open.
- * @param {string} value e.g. "6:00 – 9:00 AM, 2:00 – 8:30 PM"
- */
-export function openIntervals(value) {
-  const v = String(value == null ? '' : value).trim();
-  if (/^closed$/i.test(v)) return [];
-  if (/^open\s*24\s*hours$/i.test(v)) return [[0, 24]];
-  if (!v) return null;
-  const spans = [];
-  for (const span of v.split(',')) {
-    const m = /^\s*(\d{1,2})(?::(\d{2}))?\s*(AM|PM)?\s*[–—-]\s*(\d{1,2})(?::(\d{2}))?\s*(AM|PM)?\s*$/i.exec(span);
-    if (!m) return null;
-    const [, h1, min1, ap1, h2, min2, ap2] = m;
-    // Google writes the meridiem once when both ends share it ("6:00 – 9:00
-    // AM") and on the closing side alone for an afternoon span ("2:00 – 8:30
-    // PM"), so a missing one is inherited — unless inheriting would invert the
-    // span, which means the open side belongs to the morning.
-    const to24 = (h, ap) => {
-      const n = Number(h);
-      if (!ap || !(n >= 1 && n <= 12)) return null;
-      return ap.toUpperCase() === 'AM' ? (n === 12 ? 0 : n) : (n === 12 ? 12 : n + 12);
-    };
-    let a = to24(h1, ap1);
-    let b = to24(h2, ap2);
-    if (a === null && b === null) return null;
-    if (a === null) {
-      const inherited = to24(h1, ap2);
-      a = inherited !== null && inherited <= b ? inherited : to24(h1, 'AM');
-    }
-    if (b === null) {
-      const inherited = to24(h2, ap1);
-      b = inherited !== null && inherited >= a ? inherited : to24(h2, 'PM');
-    }
-    if (a === null || b === null) return null;
-    a += Number(min1 || 0) / 60;
-    b += Number(min2 || 0) / 60;
-    // "11:00 AM – 3:00 AM" and "7:00 AM – 12:00 AM" run past midnight. Reading
-    // those as a backwards span made every late-night venue look shut all day.
-    if (b <= a) b += 24;
-    spans.push([a, b]);
-  }
-  return spans.length ? spans : null;
+/** What to call a set of days: null when it is the whole week and needs no name. */
+export function dayGroupLabel(days) {
+  const ds = DAY_NAMES.filter((d) => days.includes(d));
+  if (ds.length === 7) return null;
+  if (ds.length === 5 && DAY_NAMES.slice(0, 5).every((d) => ds.includes(d))) return 'weekdays';
+  if (ds.length === 2 && DAY_NAMES.slice(5).every((d) => ds.includes(d))) return 'weekends';
+  // Naming the one exception beats reciting six days.
+  if (ds.length === 6) return `every day but ${DAY_NAMES.find((d) => !ds.includes(d))}s`;
+  return listOf(ds.map((d) => `${d}s`));
 }
 
-/** The seven weekdayDescriptions as day → spans (null where unreadable). */
-function openHoursByDay(openingHours) {
-  if (!Array.isArray(openingHours) || !openingHours.length) return null;
-  const byDay = new Map(DAY_NAMES.map((d) => [d, null]));
-  for (const line of openingHours) {
-    const m = /^\s*([A-Za-z]+)\s*:\s*(\S.*)$/.exec(String(line));
-    if (!m) continue;
-    const day = m[1][0].toUpperCase() + m[1].slice(1).toLowerCase();
-    if (byDay.has(day)) byDay.set(day, openIntervals(m[2]));
-  }
-  return byDay;
-}
-
-/** Open for the whole of the hour starting at `h`? Unknown counts as no. */
-const opensFor = (spans, h) => Array.isArray(spans)
-  && spans.some(([a, b]) => (a <= h && h + 1 <= b) || (a <= h + 24 && h + 25 <= b));
-
 /**
- * quietWindowSummary, minus every hour the venue is shut for on any day of the
- * bucket that would name it. With no schedule to check against there is nothing
- * to contradict, so the plain summary stands.
+ * quietWindowSummary, but each run labelled with the days it is true on.
+ * Falls back to the stored weekday/weekend split when there is no readable
+ * week to check against — there is nothing to contradict then.
+ * At most two groups: a third is a schedule too fiddly to put in one sentence.
  */
 export function quietWindowSummaryWithinHours(busyness, openingHours) {
-  const byDay = openHoursByDay(openingHours);
-  if (!byDay) return quietWindowSummary(busyness);
-  if (!busyness) return null;
-  const keep = (hours, days) => (Array.isArray(hours) ? hours : [])
-    .filter((h) => Number.isInteger(h) && days.every((d) => opensFor(byDay.get(d), h)));
-  return quietWindowSummary({
-    weekdayQuiet: keep(busyness.weekdayQuiet, WEEKDAYS),
-    weekendQuiet: keep(busyness.weekendQuiet, WEEKEND),
-  });
+  const groups = quietDayGroups(busyness, openingHours);
+  if (groups === null) return quietWindowSummary(busyness);
+  const parts = [];
+  const labels = [];
+  for (const g of groups) {
+    if (parts.length >= 2) break;
+    const runs = hourRuns24(g.hours);
+    if (!runs) continue;
+    const label = dayGroupLabel(g.days);
+    // A second group is only worth adding when neither name carries a comma of
+    // its own. "Mondays, Wednesdays, Thursdays and Fridays 9-10am and 6-7pm,
+    // Tuesdays and Saturdays 9-10am" is accurate and unreadable — the commas
+    // stop marking where one claim ends and the next begins. One clear fact
+    // beats two tangled ones.
+    const plain = (l) => l === null || !l.includes(',');
+    if (parts.length === 1 && !(plain(labels[0]) && plain(label))) break;
+    parts.push(label ? `${label} ${runs}` : runs);
+    labels.push(label);
+  }
+  return parts.length ? parts.join(', ') : null;
 }

@@ -122,17 +122,40 @@ function addOpenHoursFromLine(line, set) {
   if (/open 24 hours/i.test(s)) { for (let h = 0; h < 24; h++) set.add(h); return; }
   if (/closed/i.test(s)) return;
   for (const m of s.matchAll(re)) {
-    let a = to24(m[1], m[3] || m[6]);
-    // A partially-open first hour is not a recommendable hour. Closing already
-    // works this way (h < b drops the 7:00–7:30 sliver of "closes 7:30 PM"),
-    // but opening kept it: "9:30 AM" counted hour 9 as open, the quiet-hour 9
-    // survived the clamp, and the writer told readers "come at 9–10am" to a
-    // door that opens 9:30 (nice-parc-ph-nix, held at the gate 2026-08-08).
-    if (m[2] && Number(m[2]) > 0) a += 1;
-    let b = to24(m[4], m[6]);
-    if (b <= a) b += 24;                       // closes after midnight
-    for (let h = a; h < b; h++) set.add(h % 24);
+    // Opening and closing are compared with their MINUTES, not by the hour
+    // alone. Rounding the opening hour up first and only then asking "does this
+    // close before it opens?" made "4:30 – 5:30 PM" look like an overnight
+    // shift (17 to 17) and marked the venue open all twenty-four hours, which
+    // silently disabled the clamp for every line under an hour long
+    // (austin-radha-madhav-dham, bordeaux-grosse-cloche, 2026-09-21).
+    const start = to24(m[1], m[3] || m[6]) + Number(m[2] || 0) / 60;
+    let end = to24(m[4], m[6]) + Number(m[5] || 0) / 60;
+    if (end <= start) end += 24;               // closes after midnight
+    // A partially-open hour is not a recommendable hour, at either end: a door
+    // that opens 9:30 does not make hour 9 visitable (nice-parc-ph-nix, held at
+    // the gate 2026-08-08), and one that shuts at 7:30 does not make hour 7.
+    for (let h = Math.ceil(start); h + 1 <= end; h++) set.add(((h % 24) + 24) % 24);
   }
+}
+
+// The same week, kept day by day. openHourSet unions the whole week and
+// openHourSetsByGroup unions each half of it, which is why "quiet on weekends
+// 11am-2pm" survived at a park shut 9am-2pm every Saturday: the hour was open
+// on the Sunday, and a union only asks whether SOME day was open.
+const DAY_NAMES = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
+export function openHourSetsByDay(lines) {
+  if (!Array.isArray(lines) || !lines.length) return null;
+  const byDay = new Map();
+  for (const line of lines) {
+    const m = /^\s*([A-Za-z]+)\s*:\s*(\S.*)$/.exec(String(line));
+    if (!m) continue;
+    const day = m[1][0].toUpperCase() + m[1].slice(1).toLowerCase();
+    if (!DAY_NAMES.includes(day) || byDay.has(day)) continue;
+    const set = new Set();
+    addOpenHoursFromLine(String(line), set);
+    byDay.set(day, set);
+  }
+  return byDay.size === 7 ? byDay : null;
 }
 
 export function openHourSet(lines) {
@@ -185,4 +208,40 @@ export function clampBusynessHours(busyness, lines) {
   out.changed = ['weekdayQuiet', 'weekdayBusy', 'weekendQuiet', 'weekendBusy']
     .some((k) => (busyness[k] ?? []).length !== out[k].length);
   return out;
+}
+
+/**
+ * The quiet hours a venue really has, grouped by the days they hold on.
+ *
+ * The stored split is weekday/weekend, so "quiet weekends 11am-2pm" is one
+ * claim about two days — and the two days often keep different hours. Subhash
+ * Bose Park in Kochi is shut 9am-2pm on Saturday and opens at 11am on Sunday,
+ * so that sentence sent a reader to a locked gate on one of the days it named.
+ *
+ * Intersecting the bucket would be truthful but throws the fact away: the Met's
+ * 5pm IS quiet, on the Friday and Saturday it stays open until 9. So the hours
+ * are kept per day and the days that agree are grouped, which loses nothing and
+ * says something better — a museum's late night is worth naming.
+ *
+ * @returns {{days: string[], hours: number[]}[] | null} biggest group first;
+ *   null when there is no readable week to check against (caller keeps the
+ *   stored split as-is); [] when no quiet hour survives.
+ */
+export function quietDayGroups(busyness, lines) {
+  const byDay = openHourSetsByDay(lines);
+  if (!byDay || !busyness) return null;
+  const groups = new Map();
+  for (const day of DAY_NAMES) {
+    const stored = DAY_NAMES.indexOf(day) < 5 ? busyness.weekdayQuiet : busyness.weekendQuiet;
+    const open = byDay.get(day);
+    const hours = (Array.isArray(stored) ? stored : [])
+      .filter((h) => Number.isInteger(h) && open.has(((h % 24) + 24) % 24))
+      .sort((a, b) => a - b);
+    if (!hours.length) continue;
+    const key = hours.join(',');
+    if (!groups.has(key)) groups.set(key, { days: [], hours });
+    groups.get(key).days.push(day);
+  }
+  return [...groups.values()]
+    .sort((a, b) => b.days.length - a.days.length || b.hours.length - a.hours.length);
 }
