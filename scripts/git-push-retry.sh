@@ -88,6 +88,46 @@ finish_rebase() {
   return 0
 }
 
+# rebase 로 합쳐진 트리의 프론트매터를 밀기 직전에 한 번 더 본다.
+#
+# 2026-09-17: 커밋 전 검사는 REBASE 이전 트리를 본다. 그날 내 커밋과 밤 작업의
+# 커밋은 각자 멀쩡했는데 rebase 로 합쳐진 트리에서 place 블록의 키가 중복돼
+# 프론트매터가 깨졌고, 배포가 그 커밋에서 멈췄다. 그래서 1초짜리 파싱 검사를
+# 여기 걸었다.
+#
+# 2026-09-21: 그 검사가 엉뚱한 여섯 작업을 세웠다. gsc-report 와 performance-log
+# 는 `data/*.json` 만 커밋하는 가벼운 잡이라 **npm ci 를 돌리지 않는다**. 검사기는
+# gray-matter 를 import 하므로 node_modules 없이 ERR_MODULE_NOT_FOUND 로 죽었고,
+# 이 자리는 그 비-0 종료를 "프론트매터가 깨졌다"로 읽어 푸시를 막았다. 실제로는
+# 프론트매터를 **한 글자도 보지 못한** 것이다 — 못 잰 것을 판정으로 적은 셈.
+# (해당 6개: cf-token-check · gsc-report · performance-log · pinterest-analytics ·
+#  pinterest-auth · remind-pinterest-upgrade — 전부 data/ 만 커밋한다.)
+#
+# 그래서 두 가지를 가른다:
+#  ① 이 푸시가 콘텐츠 마크다운을 건드리지 않으면 이 검사는 이 실행과 무관하다 →
+#     건너뛴다. 09-17 사고는 내 커밋이 프론트매터를 건드렸기 때문에 났다.
+#  ② 건드리는데 검사기를 **실행할 수 없으면** 통과도 실패도 아니다 → 판정 없이
+#     밀지 않되, 이유를 "깨졌다"가 아니라 "못 쟀다"로 말한다.
+frontmatter_ok_to_push() {
+  [ -f scripts/audit-frontmatter-parse.mjs ] || return 0
+
+  if ! git diff --name-only "origin/$BRANCH" HEAD -- src/content 2>/dev/null | grep -qE '\.md$'; then
+    echo "  ↳ 프론트매터 검사 건너뜀 — 이 푸시는 콘텐츠 마크다운을 건드리지 않는다"
+    return 0
+  fi
+
+  if [ ! -d node_modules/gray-matter ]; then
+    echo "::error::프론트매터 검사기를 실행할 수 없다(node_modules 없음 — 이 워크플로에 npm ci 가 빠졌다). 콘텐츠를 건드리는 푸시라, 재지 못한 채로는 밀지 않는다."
+    return 1
+  fi
+
+  if ! node scripts/audit-frontmatter-parse.mjs; then
+    echo "::error::rebase 결과의 프론트매터가 깨졌다 — 푸시하지 않는다 (위 목록의 파일을 고칠 것)"
+    return 1
+  fi
+  return 0
+}
+
 for attempt in 1 2 3 4 5; do
   git fetch origin "$BRANCH" || true
   rebased=0
@@ -103,14 +143,7 @@ for attempt in 1 2 3 4 5; do
     fi
   fi
   if [ "$rebased" = "1" ]; then
-    # 2026-09-17: 커밋 전 검사는 REBASE 이전 트리를 본다. 그날 내 커밋과 밤 작업의
-    # 커밋은 각자 멀쩡했는데 rebase 로 합쳐진 트리에서 place 블록의 키가 중복돼
-    # 프론트매터가 깨졌고, 배포가 그 커밋에서 멈췄다. 합쳐진 결과를 밀기 직전에
-    # 1초짜리 파싱 검사를 한 번 더 한다 — 깨졌으면 밀지 않는다.
-    if [ -f scripts/audit-frontmatter-parse.mjs ] && ! node scripts/audit-frontmatter-parse.mjs; then
-      echo "::error::rebase 결과의 프론트매터가 깨졌다 — 푸시하지 않는다 (위 목록의 파일을 고칠 것)"
-      exit 1
-    fi
+    if ! frontmatter_ok_to_push; then exit 1; fi
     if git push origin "HEAD:$BRANCH"; then
       echo "pushed (attempt $attempt)"
       exit 0
