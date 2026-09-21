@@ -1,4 +1,10 @@
-ATTACHED: bangkok-piscari.md ← Piscari
-ATTACHED: bangkok-roast8ry-bangkok.md ← Roast8ry BKK
+ATTACHED: tokyo-bar-satoyama-spirits-tokyo.md ← SATOYAMA SPIRITS TOKYO
+SKIPPED (name mismatch — "Chiikawa Ramen Buta" vs result name "Chikawa Ramen Pork"): tokyo-chiikawa-ramen-buta.md
+ATTACHED: tokyo-pres-de-l-as.md ← Prés de L’AS
+ATTACHED: tokyo-samaa-samaa.md ← SAMAA_
+ATTACHED: tokyo-samaa.md ← SAMAA_
+ATTACHED: tokyo-smith-wollensky-ginza.md ← Smith & Wollensky GINZA
+ATTACHED: tokyo-tofrom-yaesu.md ← TOFROM YAESU TOWER
+ATTACHED: tokyo-vannelli-coffee.md ← Vannelli Coffee
 
-GEOCODE RESULT: attached 2, skipped 0 of 2
+GEOCODE RESULT: attached 7, skipped 1 of 8

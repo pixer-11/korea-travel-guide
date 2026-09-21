@@ -29,6 +29,16 @@ heroImage:
   focus:
     x: 45
     'y': 40
+place:
+  id: ChIJT2PlwQiLGGARaqMGjRpEHtY
+  name: SATOYAMA SPIRITS TOKYO
+  address: Japan, 〒150-0021 Tokyo, Shibuya, Ebisunishi, 1-chōme−13−２ Sanki Bldg., 2F
+  rating: 5
+  userRatingsTotal: 38
+  googleMapsUrl: https://maps.google.com/?cid=15428844254243758954&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 35.6475137
+  lng: 139.7080107
 ---
 
 ## What makes this bar different

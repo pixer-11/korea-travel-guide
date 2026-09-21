@@ -29,6 +29,16 @@ heroImage:
   focus:
     x: 40
     'y': 55
+place:
+  id: ChIJO5u-SQ_1GGAR8o9XhMxfyPU
+  name: SAMAA_
+  address: 1-chōme-33-7 Kamiuma, Setagaya City, Tokyo 154-0011, Japan
+  rating: 4.2
+  userRatingsTotal: 100
+  googleMapsUrl: https://maps.google.com/?cid=17710510866632773618&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 35.6390552
+  lng: 139.6683278
 ---
 
 Sangenjaya doesn't announce itself the way Shibuya or Shimokitazawa do. It's a residential grid of narrow lanes, laundry poles over balconies, and small shopfronts that have been there for decades. SAMAA_ sits in the Kamiuma stretch of this neighborhood, inside a building that's been standing for about seventy years and was restored with a light touch rather than gutted and rebuilt.

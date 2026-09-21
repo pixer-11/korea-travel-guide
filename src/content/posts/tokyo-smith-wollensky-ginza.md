@@ -29,6 +29,16 @@ heroImage:
   focus:
     x: 50
     'y': 40
+place:
+  id: ChIJYYYAAwCLGGARNV_QjU_B4Js
+  name: Smith & Wollensky GINZA
+  address: Japan, 〒104-0061 Tokyo, Chuo City, Ginza, 5-chōme−8−１５ 12階
+  rating: 4.1
+  userRatingsTotal: 139
+  googleMapsUrl: https://maps.google.com/?cid=11232190018087837493&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 35.6702584
+  lng: 139.7643725
 ---
 ## Why go
 

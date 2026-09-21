@@ -29,6 +29,16 @@ heroImage:
   focus:
     x: 45
     'y': 45
+place:
+  id: ChIJDcvdXACNGGARXYaUEV2ReXw
+  name: Prés de L’AS
+  address: Japan, 〒150-0001 Tokyo, Shibuya, Jingūmae, 1-chōme−13−１４ 原宿クエスト 6階
+  rating: 3.9
+  userRatingsTotal: 75
+  googleMapsUrl: https://maps.google.com/?cid=8969359961797985885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 35.6696945
+  lng: 139.703747
 ---
 
 ## What Prés de L'AS actually is
