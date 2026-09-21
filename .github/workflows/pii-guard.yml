@@ -1,0 +1,37 @@
+name: Personal-info guard
+
+# 이 저장소는 PUBLIC 이다. 2026-09-21 에 운영자 실명과 링크드인 주소가 초안 문서에
+# 실려 공개 커밋으로 나갔다(01754fbc7). 같은 날 파일에서 지웠지만 깃은 지워도
+# 이력에 남는다 — 그 커밋은 지금도 열린다.
+#
+# 왜 Tests 워크플로에 얹지 않고 따로 두는가. 그게 이번 사고의 핵심이다:
+# tests.yml 은 `paths:` 로 scripts/·src/·worker/ 만 지켜보고 **루트 문서(*.md)는
+# 목록에 없다.** 유출 커밋은 루트에 .md 한 장을 추가한 문서 커밋이었고, 그래서
+# 테스트를 **한 번도 돌리지 않았다.** 경로로 거르는 관문은 이 부류를 못 잡는다.
+#
+# 그래서 이 워크플로는 **모든 브랜치·모든 경로**에서 돈다. 비용은 거의 없다:
+# 검사기는 외부 의존성이 없어 `npm ci` 없이 수 초 안에 끝난다(오늘 아침 푸시
+# 관문이 gray-matter 를 못 찾아 "프론트매터가 깨졌다"로 오진한 것과 같은 함정을
+# 피하려고 일부러 무의존으로 짰다).
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: pii-${{ github.ref }}
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+      # 의존성 설치 없음 — 검사기는 node 내장 모듈만 쓴다.
+      - run: node scripts/audit-pii.mjs

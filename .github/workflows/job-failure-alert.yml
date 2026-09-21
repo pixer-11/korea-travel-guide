@@ -38,6 +38,7 @@ on:
       - 'Daily analytics report (Telegram)'
       - 'Discover current events (web search)'
       - 'Pinterest auto-pin'
+      - 'Personal-info guard'
       - 'Quality audit (intl venues)'
       - 'Refresh country facts (climate + holidays)'
       - 'Refresh essentials (web check)'
