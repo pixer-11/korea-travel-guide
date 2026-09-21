@@ -22,13 +22,13 @@ faq:
     a: Card or mobile pay (Naver Pay, Kakao Pay) is standard at Seoul cafés, and tipping isn't customary anywhere in Korea, including here.
 aiGenerated: true
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/574345888_2e30UlBiS1xXQeIiwn8JPo1Ov_Q_cyPF4w0LuYPXf_w.jpg
-  credit: 'Photo: Foursquare user content (Mil Toast House (밀토스트))'
+  url: https://fastly.4sqi.net/img/general/original/1407264291_RPcNRpTlHJ5suSBL4K-sHRTKFTKj-tF6dNx7VJX_tX8.jpg
+  credit: 'Photo: Foursquare user content (Mil Toast Ikseon)'
   license: foursquare
-  source: https://foursquare.com/v/5b699aa8628c83002c8f495f
+  source: https://foursquare.com/v/685c9fec83dabb364732a21c
   focus:
-    x: 50
-    'y': 35
+    x: 55
+    'y': 65
 place:
   id: ChIJrRhDycujfDURGQzRahFxTdM
   name: Mil Toast Ikseon
@@ -39,8 +39,6 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.57311920000001
   lng: 126.99034250000001
-draft: true
-heldReason: rating
 ---
 
 ## Why everyone's talking about it

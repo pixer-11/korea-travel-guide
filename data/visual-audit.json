@@ -3431,8 +3431,8 @@
   "little-india-former-house-of-tan-teng-niah\u0001https://fastly.4sqi.net/img/general/original/1608906_BP7rP1M3Vv9A4npYC4s_fdA_ZuUUfS0wvaIJ6MRFIi8.jpg": {
     "slug": "little-india-former-house-of-tan-teng-niah",
     "verdict": "MATCH",
-    "reason": "patrol replace: Colorful heritage building in Little India, Singapore",
-    "at": "2026-09-19T21:37:06.276Z"
+    "reason": "patrol replace: Colorful heritage building matches Little India Singapore.",
+    "at": "2026-09-21T22:44:20.932Z"
   },
   "little-india-veera-flavours\u0001https://fastly.4sqi.net/img/general/original/1399700747_U-zVoXbUmjz123smC6Z2h-pdOxpZZcw5DtGgYSdMaZs.jpg": {
     "slug": "little-india-veera-flavours",
@@ -19517,20 +19517,20 @@
   "tokyo-the-kura\u0001https://live.staticflickr.com/44/138262874_720f18db21_k.jpg": {
     "slug": "tokyo-the-kura",
     "verdict": "MISMATCH",
-    "reason": "patrol reject: Dark architectural fragment, not representative venue hero shot",
-    "at": "2026-09-20T21:48:12.373Z"
+    "reason": "patrol reject: Just a window/facade fragment, not representative venue view",
+    "at": "2026-09-21T22:46:39.822Z"
   },
   "tokyo-the-kura\u0001https://live.staticflickr.com/51/138267530_ab1a874ed4_k.jpg": {
     "slug": "tokyo-the-kura",
     "verdict": "MISMATCH",
-    "reason": "patrol reject: Isolated lantern/wall fragment, not representative venue view",
-    "at": "2026-09-20T21:48:15.530Z"
+    "reason": "patrol reject: Just a lantern fixture fragment, not representative venue view",
+    "at": "2026-09-21T22:46:41.806Z"
   },
   "tokyo-the-kura\u0001https://live.staticflickr.com/55/138267469_42ed6054f3_k.jpg": {
     "slug": "tokyo-the-kura",
     "verdict": "MISMATCH",
-    "reason": "patrol reject: audit: Traditional Japanese architecture, but appears to be a museu",
-    "at": "2026-09-20T21:48:20.070Z"
+    "reason": "patrol reject: audit: Historic building facade, not a restaurant interior/food",
+    "at": "2026-09-21T22:46:45.354Z"
   },
   "tokyo-the-kura\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kura_River_in_the_central_part_of_Tbilisi%2C_2007-09-28.jpg/3840px-Kura_River_in_the_central_part_of_Tbilisi%2C_2007-09-28.jpg": {
     "slug": "tokyo-the-kura",
@@ -19735,7 +19735,7 @@
     "verdict": "MISMATCH",
     "reason": "hero is only 636px wide — unusable as a banner",
     "reasonKo": "사진이 636px로 너무 작음",
-    "at": "2026-09-20T21:48:38.550Z"
+    "at": "2026-09-21T22:47:02.466Z"
   },
   "los-angeles-lielle\u0001https://fastly.4sqi.net/img/general/original/127562934_WxrarXmKAs43vyk_CR_tf8nSBvZFcLtccGQTbC1BW_s.jpg": {
     "slug": "los-angeles-lielle",
@@ -20403,5 +20403,29 @@
     "verdict": "MATCH",
     "reason": "publish gate: Exterior building with matching name signage on entrance",
     "at": "2026-09-21T14:22:28.158Z"
+  },
+  "seoul-mil-toast\u0001https://fastly.4sqi.net/img/general/original/559892200_dHRfWqmxoLzHYNYQVvsb6cs0pRoeAnubyPsSIr5XUWs.jpg": {
+    "slug": "seoul-mil-toast",
+    "verdict": "MISMATCH",
+    "reason": "patrol reject: audit: Generic Seoul alley, not Mil Toast venue",
+    "at": "2026-09-21T22:46:19.258Z"
+  },
+  "seoul-mil-toast\u0001https://fastly.4sqi.net/img/general/original/565059780_wh97KYas_ZEIDBSL5qQ8sCo9HWaTRKwOAHCrD4XcnsI.jpg": {
+    "slug": "seoul-mil-toast",
+    "verdict": "MISMATCH",
+    "reason": "patrol reject: audit: European storefront, not Seoul Korea architecture",
+    "at": "2026-09-21T22:46:22.659Z"
+  },
+  "seoul-mil-toast\u0001https://fastly.4sqi.net/img/general/original/1407264291_RPcNRpTlHJ5suSBL4K-sHRTKFTKj-tF6dNx7VJX_tX8.jpg": {
+    "slug": "seoul-mil-toast",
+    "verdict": "MATCH",
+    "reason": "patrol replace: Japanese tea ceremony space, fits trendy Seoul venue",
+    "at": "2026-09-21T22:46:25.637Z"
+  },
+  "busan-seafood\u0001https://fastly.4sqi.net/img/general/original/22125934_j78eB_Vc33tOwEeAjO5Io9U9C9-67U4NihShdBoJjhA.jpg": {
+    "slug": "busan-seafood",
+    "verdict": "MATCH",
+    "reason": "width upgrade: Seafood dish in pot at actual restaurant table",
+    "at": "2026-09-21T22:47:47.851Z"
   }
 }

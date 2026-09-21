@@ -6,12 +6,12 @@ country: South Korea
 category: restaurant
 pubDate: 2026-07-20T00:00:00.000Z
 heroImage:
-  url: https://live.staticflickr.com/2669/5809132822_aa4f84bdeb_b.jpg
-  credit: 'Photo: seafaringwoman / flickr (BY)'
-  license: openverse-cc
-  source: https://www.flickr.com/photos/27284887@N03/5809132822
+  url: https://fastly.4sqi.net/img/general/original/22125934_j78eB_Vc33tOwEeAjO5Io9U9C9-67U4NihShdBoJjhA.jpg
+  credit: 'Photo: Foursquare user content (Jacky''s Seafood (돼지초밥))'
+  license: foursquare
+  source: https://foursquare.com/v/4cfe1525dccef04dddbbc89c
   focus:
-    x: 45
+    x: 50
     'y': 45
 tags:
   - busan
