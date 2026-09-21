@@ -38,7 +38,7 @@
    "hits": 0
   },
   "old quarter": {
-   "attempts": 16,
+   "attempts": 21,
    "hits": 3
   },
   "local market": {
@@ -46,7 +46,7 @@
    "hits": 11
   },
   "bookshop": {
-   "attempts": 5,
+   "attempts": 8,
    "hits": 0
   },
   "seafood": {
@@ -90,7 +90,7 @@
    "hits": 2
   },
   "grill": {
-   "attempts": 22,
+   "attempts": 30,
    "hits": 0
   },
   "design shop": {
@@ -178,5 +178,5 @@
    "hits": 0
   }
  },
- "updated": "2026-09-21T03:23:13.808Z"
+ "updated": "2026-09-21T04:16:37.795Z"
 }

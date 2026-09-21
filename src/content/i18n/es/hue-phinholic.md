@@ -1,53 +1,53 @@
 ---
 lang: es
 slug: hue-phinholic
-srcHash: '0d56b4e214d6'
-title: 'PhinHolic: Guía de viaje de Hue'
-description: PhinHolic es una cafetería vietnamita con estilo especializada en café de filtro phin, ubicada en 65 Bến Nghé, en el barrio Thuận Hóa de Hue, en la orilla sur del río de los Perfumes, a poca distancia a pie o en cyclo del mercado Dong Ba y de la franja hotelera principal a lo largo de Le Loi y Hung Vuong.
-quickAnswer: PhinHolic es una cafetería vietnamita con estilo especializada en café de filtro phin, ubicada en 65 Bến Nghé, en el barrio Thuận Hóa de Hue, en la orilla sur del río de los Perfumes, a poca distancia a pie o en cyclo del mercado Dong Ba y de la franja hotelera principal a lo largo de Le Loi y Hung Vuong. Ve a media mañana o al final de la tarde, pide un ca phe sua da con filtro phin o el popular café de crema salada, y calcula entre 45 y 60 minutos para sentarte, trabajar o observar a la gente. El precio ronda los 25.000–55.000 VND (entre 1 y 2,50 dólares) por bebida, en efectivo o por transferencia con código QR.
+srcHash: 'c1f656d69b47'
+title: 'PhinHolic: Guía de Viaje de Hue'
+description: PhinHolic es una cafetería vietnamita de estilo phin situada en 65 Bến Nghé, en el barrio de Thuận Hóa de Hue, en la orilla sur del río de los Perfumes, a poca distancia a pie o en cyclo del mercado Dong Ba y de la principal franja hotelera de las calles Le Loi y Hung Vuong.
+quickAnswer: PhinHolic es una cafetería vietnamita con mucho estilo, especializada en café phin, ubicada en 65 Bến Nghé, en el barrio de Thuận Hóa de Hue, en la orilla sur del río de los Perfumes, a poca distancia a pie o en cyclo del mercado Dong Ba y de la principal franja hotelera de las calles Le Loi y Hung Vuong. Conviene ir a media mañana o a última hora de la tarde, pedir un ca phe sua da filtrado con phin o el popular café de crema salada, y reservar entre 45 y 60 minutos para sentarse, trabajar o simplemente observar el ambiente. El precio es moderado para la ciudad, y se puede pagar en efectivo o por transferencia QR.
 faq:
-  - q: ¿Cómo llego a PhinHolic desde el centro de Hue?
-    a: Está en 65 Bến Nghé, en el barrio Thuận Hóa, en la orilla sur del río de los Perfumes, a unos 10–15 minutos a pie del mercado Dong Ba y del puente Trang Tien. Desde el lado de la Ciudadela, cruza el río y continúa hacia el sur, o toma un breve trayecto en Grab/taxi.
+  - q: ¿Cómo se llega a PhinHolic desde el centro de Hue?
+    a: Se encuentra en 65 Bến Nghé, en el barrio de Thuận Hóa, en la orilla sur del río de los Perfumes, a unos 10-15 minutos a pie del mercado Dong Ba y del puente Trang Tien. Desde el lado de la Ciudadela, hay que cruzar el río y seguir hacia el sur, o bien tomar un breve trayecto en Grab o taxi.
   - q: ¿Cuánto cuesta un café en PhinHolic?
-    a: Es una cafetería de precio moderado para los estándares vietnamitas, con la mayoría de las bebidas de filtro phin y los productos especiales generalmente entre 25.000 y 55.000 VND (aproximadamente 1–2,50 USD). Se aceptan tanto el efectivo como la transferencia bancaria por código QR.
-  - q: ¿Qué debería pedir?
-    a: Empieza con el clásico ca phe sua da (café de filtro phin con leche condensada sobre hielo), y prueba la variante de café con crema salada si está disponible — una versión moderna de un estilo asociado con Hue.
-  - q: ¿Cuál es el mejor momento para ir?
-    a: La media mañana (10–11 h) o el final de la tarde (16–18 h) permiten evitar el calor del mediodía de Hue y, en los meses lluviosos de octubre a diciembre, reducen la probabilidad de que te sorprenda un aguacero. Las visitas entre semana son más tranquilas que los fines de semana.
-  - q: ¿Qué más hay cerca?
-    a: El mercado Dong Ba y el paseo junto al río de los Perfumes están ambos a 10–15 minutos a pie, lo que convierte a PhinHolic en una parada fácil al mediodía entre una visita a la Ciudadela y un paseo nocturno junto al río o por el mercado nocturno.
+    a: 'Es una cafetería de precio moderado para los estándares vietnamitas: la mayoría de las bebidas preparadas con phin y las especialidades de la casa se sitúan en un rango medio para la ciudad. Tanto el efectivo como la transferencia bancaria por QR son formas de pago habituales.'
+  - q: ¿Qué se recomienda pedir?
+    a: Lo ideal es empezar con el clásico ca phe sua da (café filtrado con phin y leche condensada sobre hielo) y, si está disponible, probar la variante de café con crema salada, una versión moderna de un estilo asociado precisamente a Hue.
+  - q: ¿Cuál es el mejor momento para visitar?
+    a: A última hora de la mañana (10:00-11:00) o a última hora de la tarde (16:00-18:00) se evita el calor del mediodía en Hue y, durante los meses lluviosos de octubre a diciembre, disminuye el riesgo de quedar atrapado en un aguacero. Las visitas en días de semana son más tranquilas que los fines de semana.
+  - q: ¿Qué otros lugares hay cerca?
+    a: El mercado Dong Ba y el paseo junto al río de los Perfumes están a 10-15 minutos a pie, lo que convierte a PhinHolic en una parada fácil a media jornada entre una visita a la Ciudadela y un paseo vespertino junto al río o por el mercado nocturno.
 ---
 
-## Por qué PhinHolic es relevante en la escena cafetera de Hue
+## Por qué PhinHolic importa en la escena cafetera de Hue
 
-Hue es más conocida por sus tumbas imperiales y las murallas de su ciudadela que por su cultura del café, pero una nueva generación de cafeterías está cambiando eso — y PhinHolic, en la calle Bến Nghé, es uno de los nombres que hoy mencionan primero tanto los locales como los jóvenes viajeros vietnamitas. El nombre es un juego de palabras con "phin", el pequeño filtro metálico de goteo que es la base del café vietnamita, y anticipa el concepto: el clásico método de goteo lento presentado en un espacio de diseño moderno.
+Hue es más conocida por sus tumbas imperiales y las murallas de su ciudadela que por su cultura del café, pero una nueva generación de cafeterías está cambiando esa percepción. PhinHolic, en la calle Bến Nghé, es uno de los nombres que hoy mencionan primero tanto los habitantes locales como los jóvenes viajeros vietnamitas. El nombre juega con la palabra "phin", el pequeño filtro metálico de goteo que constituye la base del café vietnamita, y ya desde ahí anuncia el concepto: la tradicional preparación lenta por goteo presentada en un espacio de diseño moderno.
 
-Con una calificación de 4.5 en casi 900 reseñas, se ha convertido en una parada confiable para quienes buscan un descanso de los templos sin renunciar a la calidad ni al ambiente.
+Con una calificación de 4.5 sobre casi 900 reseñas, se ha convertido en una parada fiable para los viajeros que buscan un descanso del recorrido por templos sin renunciar ni a la calidad ni al ambiente.
 
 ## Cómo llegar
 
-PhinHolic se encuentra en 65 Bến Nghé, en el barrio Thuận Hóa, en la orilla sur del río de los Perfumes — la mitad más nueva y comercial de Hue, donde se concentran la mayoría de los hoteles de gama media. Está a unos 10–15 minutos a pie del mercado Dong Ba y del puente Trang Tien, y a una distancia similar del corredor hotelero de Le Loi.
+PhinHolic se encuentra en 65 Bến Nghé, en el barrio de Thuận Hóa, en el lado sur del río de los Perfumes, la mitad más nueva y comercial de Hue, donde se concentran la mayoría de los hoteles de gama media. Está a unos 10-15 minutos a pie del mercado Dong Ba y del puente Trang Tien, y a una distancia similar del corredor hotelero de la calle Le Loi.
 
-Si te hospedas cerca de la Ciudadela, en la orilla norte, cruza por el puente Trang Tien o Phu Xuan y sigue hacia el sur otros 10–15 minutos a pie, o toma un breve viaje en Grab (la app de transporte de Vietnam) o en taxi con taxímetro, que debería costarte apenas unos minutos y una tarifa mínima, dado lo compacto que es el centro de Hue.
+Si se aloja cerca de la Ciudadela, en la orilla norte, puede cruzar por el puente Trang Tien o el puente Phu Xuan y continuar hacia el sur unos 10-15 minutos a pie, o bien tomar un breve trayecto en Grab (la aplicación vietnamita de transporte) o en taxi con taxímetro, dado lo compacto que es el centro de Hue.
 
-Andar en bicicleta también es común aquí — muchos hoteles las alquilan, y el trazado de las calles alrededor de Bến Nghé es plano y fácil de recorrer.
+También es habitual moverse en bicicleta por esta zona: muchos hoteles las alquilan, y el trazado de las calles alrededor de Bến Nghé es llano y fácil de recorrer.
 
 ## Qué pedir y qué esperar
 
-El gran atractivo es el café preparado con el método phin tradicional, servido con el filtro metálico todavía sobre el vaso para que puedas ver caer las gotas. Pide el clásico ca phe sua da (café helado con leche condensada) para la experiencia básica, o prueba alguna de las variantes más modernas de la casa — el café de crema salada (una versión actualizada del estilo "cà phê muối" que se originó precisamente en Hue) o las mezclas de café con coco son típicas de este tipo de cafetería y vale la pena pedirlas por nombre.
+El gran atractivo es el café preparado con phin al modo tradicional, con el filtro metálico todavía colocado sobre el vaso mientras se observa cómo cae, gota a gota. Para una primera experiencia, lo recomendable es pedir el clásico ca phe sua da (café helado con leche condensada), aunque también vale la pena probar alguna de las versiones más modernas de la casa: el café de crema salada (una actualización del estilo "cà phê muối", que se originó precisamente en Hue) o las mezclas de café con coco, típicas de este tipo de cafeterías, y que conviene pedir por su nombre.
 
-El nivel de precios es moderado para Vietnam — la mayoría de las bebidas rondan los 25.000–55.000 VND — y el pago en efectivo o por transferencia con código QR bancario es lo habitual. El espacio en sí apuesta por interiores limpios y fotogénicos: materiales a la vista, plantas y una disposición de asientos pensada tanto para trabajar solo con la laptop como para grupos pequeños, lo que explica su popularidad entre los turistas domésticos más jóvenes y el público de redes sociales.
+El precio es moderado para Vietnam, y lo habitual es pagar en efectivo o mediante transferencia bancaria por QR. El local apuesta por un interior limpio y muy fotogénico, con materiales expuestos, plantas y una disposición de asientos pensada tanto para quienes trabajan solos con el portátil como para grupos pequeños, lo que explica su popularidad entre los turistas jóvenes locales y el público de redes sociales.
 
-Calcula entre 45 minutos y una hora si solo vas a tomar algo, más si quieres trabajar o quedarte un rato.
+Conviene calcular entre 45 minutos y una hora si solo se va a tomar algo, y más tiempo si la idea es trabajar o quedarse un rato.
 
 ## Cuándo ir
 
-El clima de Hue es cálido y húmedo durante gran parte del año, con una temporada de lluvias marcada aproximadamente de octubre a diciembre, así que la media mañana (10–11 h) o la tarde más avanzada (alrededor de 16–18 h) suelen ser las franjas más agradables, evitando tanto el calor del mediodía como el riesgo de aguacero. Las mañanas de días laborables son notablemente más tranquilas que las tardes de fin de semana, cuando estudiantes locales y grupos llenan las mesas.
+El clima de Hue es cálido y húmedo durante buena parte del año, con una temporada de lluvias marcada aproximadamente entre octubre y diciembre. Por eso, tanto a última hora de la mañana (10:00-11:00) como a última hora de la tarde (alrededor de las 16:00-18:00) suele ser el momento más cómodo, ya que se evita tanto el calor del mediodía como el riesgo de aguacero.
 
-Si quieres fotos del espacio sin gente, apunta a la hora de apertura; conviene verificar el horario vigente en el lugar, ya que las pequeñas cafeterías de Hue a veces lo ajustan según la temporada.
+Las mañanas de días de semana son notablemente más tranquilas que las tardes de fin de semana, cuando estudiantes y grupos locales llenan las mesas. Para fotografiar el espacio sin aglomeraciones, conviene ir justo a la hora de apertura; es recomendable confirmar los horarios vigentes localmente, ya que las cafeterías pequeñas de Hue a veces los ajustan según la temporada.
 
 ## Alrededores y consejos prácticos
 
-Combina la visita con el mercado Dong Ba (a 10–15 minutos) para recorrer sus puestos de productos frescos, artículos secos y comida callejera, o camina por el paseo junto al río de los Perfumes al atardecer, antes o después de tu café. Como Thuận Hóa es la orilla sur y comercial, también estás a poca distancia de la zona del mercado nocturno de Hue y de los muelles de los cruceros por el río, si quieres armar un recorrido de medio día: la ciudadela por la mañana, PhinHolic como pausa al mediodía, y mercado y paseo junto al río por la noche.
+Esta parada combina bien con una visita al mercado Dong Ba (a 10-15 minutos), ideal para recorrer puestos de productos frescos, artículos secos y comida de calle, o con un paseo al atardecer por la orilla del río de los Perfumes, antes o después del café. Como Thuận Hóa es la orilla sur y comercial de la ciudad, también se está cerca de la franja del mercado nocturno de Hue y de los muelles de los cruceros fluviales, lo que permite armar un recorrido de media jornada: la Ciudadela por la mañana, una pausa en PhinHolic al mediodía, y mercado más paseo junto al río por la tarde.
 
-Como ocurre con la mayoría de las cafeterías independientes de Hue, los horarios exactos y los precios del menú pueden variar, así que conviene confirmar los detalles en el lugar o mediante una app de mapas antes de convertirlo en el punto central de tu itinerario.
+Como ocurre con la mayoría de las cafeterías independientes de Hue, los horarios exactos y los precios del menú pueden variar, así que conviene confirmar los detalles in situ o a través de una aplicación de mapas antes de convertirla en el eje central del itinerario.
