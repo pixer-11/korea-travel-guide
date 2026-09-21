@@ -253,3 +253,42 @@ test('live itinerary with matching hash stays silent', () => {
     { slug: 'tokyo-3-days', sourceHash: 'SAME' }, new Map([['tokyo-3-days', source]]));
   assert.equal(issues.filter((i) => i.startsWith('STALE-TRANSLATION')).length, 0);
 });
+
+// ── 왜 하루 제목은 문장형(sentence case)이어야 하는가 ─────────────────
+// AREA-CLAIM-UNSUPPORTED 는 "대문자로 시작하는 단어 2개 이상이 연달아 나오면
+// 그건 지역 이름 주장"이라는 휴리스틱이다. 그 전제는 산문이 문장형일 때만
+// 성립한다 — 제목형(Title Case)으로 쓰면 "Riverside Museums" 같은 평범한
+// 묘사구가 전부 지어낸 지역명으로 읽힌다. 서울 5일 일정표가 2026-09-21
+// 하루에 두 번 이 이유로 거절됐고("Han-side Museums", "Riverside Museums",
+// "Industrial Alleyways"), 살아남아 배포된 51개 라벨은 전부 문장형이었다.
+// 즉 생존편향이었지 규칙이 아니었다 — 이 테스트가 그 결합을 고정한다.
+const caseFixture = (label) => ({
+  city: 'Seoul', country: 'South Korea', days: 1,
+  title: 't', description: 'd', quickAnswer: 'q', faq: [],
+  itinerary: [{
+    label, intro: 'A day among the city\'s collections.',
+    stops: [
+      { slug: 'a', slot: 'morning', why: 'w', dwellMin: 120, walkToNext: null },
+      { slug: 'b', slot: 'lunch', why: 'w', dwellMin: 60, walkToNext: null },
+      { slug: 'c', slot: 'evening', why: 'w', dwellMin: 120, walkToNext: null },
+    ],
+    rainSwapSlug: null,
+  }],
+  aiGenerated: true, draft: false,
+});
+const museumPosts = new Map(['a', 'b', 'c'].map((slug) => [slug, {
+  data: { title: `Stop ${slug}`, description: 'One of the riverside museums along the Han.', place: { address: 'Yongsan-gu, Seoul' } },
+  body: 'A museum by the river.',
+}]));
+
+test('AREA-CLAIM: a Title-Cased descriptive day label reads as an invented area name', () => {
+  const issues = validateItineraryData('seoul-5-days.md', caseFixture('Namsan Heights to Riverside Museums'), museumPosts, []);
+  const area = issues.filter((i) => i.startsWith('AREA-CLAIM-UNSUPPORTED'));
+  assert.equal(area.length, 1, issues.join('\n'));
+  assert.match(area[0], /Riverside Museums/);
+});
+
+test('AREA-CLAIM: the same label in sentence case is clean (the house style, now prompted for)', () => {
+  const issues = validateItineraryData('seoul-5-days.md', caseFixture('Namsan heights to riverside museums'), museumPosts, []);
+  assert.deepEqual(issues.filter((i) => i.startsWith('AREA-CLAIM-UNSUPPORTED')), []);
+});

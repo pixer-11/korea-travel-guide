@@ -34,8 +34,12 @@
 //  immediately, same as before. Either way, a final failure logs
 //  "VALIDATE-FAILED <id>", deletes the temp file, leaves the existing target
 //  (if any) untouched, and sets a failing exit code. Model-call budget per
-//  variant is capped at 3: up to 2 for the prose guard (generateProse) plus
-//  at most 1 more for this correction pass.
+//  variant is 3 calls of WORK: up to 2 for the prose guard (generateProse)
+//  plus at most 1 more for this correction pass. Each of those may be asked
+//  a second time if the reply comes back MALFORMED (withShapeRetry), so the
+//  worst case is 6 — but that ceiling is only ever reached by a run that was
+//  already failing, and a malformed reply used to cost the whole city its
+//  day (2026-09-21, Seoul 5d, "model output missing faq array").
 //
 //  Prompt payload (per stop): title, category, VERIFIED ADDRESS (place.address,
 //  plus place.name when it differs from the title), quickAnswer, closedDays,
@@ -79,6 +83,15 @@ const POSTS_DIR = fileURLToPath(new URL('../src/content/posts/', import.meta.url
 const OUT_DIR = fileURLToPath(new URL('../src/content/itineraries/', import.meta.url));
 const STATE_FILE = fileURLToPath(new URL('../data/itineraries-state.json', import.meta.url));
 const MODEL = process.env.ITINERARY_MODEL || 'claude-sonnet-5';
+// One knob for both model calls (generation and the correction pass), so the
+// budget can be read off and moved in one place. A 5-day variant asks for
+// roughly twice the prose of a 3-day one — five labels+intros and ~20 per-stop
+// whys instead of three and ~10 — against the same figure, which made a budget
+// overrun the obvious suspect for Seoul's 5-day failures. Measured, it wasn't:
+// three consecutive 5-day calls came back at out=2708/2582/2642 of 4000, a
+// third of the budget unspent every time (2026-09-21). Left at 4000 on that
+// evidence rather than raised on the hunch.
+const MAX_TOKENS = Number(process.env.ITINERARY_MAX_TOKENS || 4000);
 
 const LAUNCH_CITIES = ['Seoul', 'Tokyo', 'Bangkok'];
 const MAX_NEW_CITIES_PER_WEEK = 2;
@@ -278,6 +291,30 @@ const EXTRA_GUARDRAILS =
   'currency amount anywhere. Avoid the words "open", "opens", "close", "closes", or "opening ' +
   'hours" entirely, even in a non-schedule sense (say "wraps up" instead of "closes out", for example).';
 
+// The accuracy validator reads "two or more capitalized words in a row" as a
+// claimed place name (AREA-CLAIM-UNSUPPORTED). That premise only holds while
+// the prose is sentence case — in Title Case an ordinary descriptive phrase
+// like "Riverside Museums" or "Industrial Alleyways" is indistinguishable from
+// an invented neighbourhood, and gets rejected on sight.
+//
+// Nothing ever said so. The prompt only DEMONSTRATED sentence case, in one
+// example label, and the model title-cased some fraction of the time. All 51
+// day labels shipped so far are sentence case, which looked like a house style
+// but was survivorship — the title-cased ones were killed by the validator and
+// never reached disk. A 5-day variant rolls five labels instead of three, so
+// Seoul's first 5-day build lost that coin flip twice in one day (2026-09-21:
+// "Han-side Museums", then "Riverside Museums" + "Industrial Alleyways" on the
+// local reproduction).
+//
+// Stated as a rule, the validator keeps its full strength: a genuinely invented
+// area name is a proper noun and stays capitalized.
+const DAY_LABEL_CASE_RULE =
+  'CAPITALIZATION: write every day label and day intro in sentence case — capitalize the first word ' +
+  'and real proper nouns (place names, venue names) ONLY. Never use Title Case For Ordinary Words: ' +
+  'write "Namsan heights to riverside museums", not "Namsan Heights to Riverside Museums". A ' +
+  'capitalized multi-word phrase is read as a claim that a place by that name exists and that the ' +
+  'day\'s stops are all in it.';
+
 // Added after a fact-verification pass on real generated prose (2026-07-28)
 // found two defect classes the guard above never checked: (1) generalizing
 // one stop's neighbourhood to a whole day it doesn't share (Tokyo: Ise
@@ -294,7 +331,8 @@ const LOCATION_ACCURACY_RULES =
   'lists more than one area, name the movement between them (e.g. \'starts in X, then crosses to Y\'). ' +
   'Neighbourhood, district, and "near X" claims count as facts just like prices or hours: they must come ' +
   'from a stop\'s given address, that stop\'s own quick answer text, or the day\'s "Areas covered" list — ' +
-  'never from outside knowledge or by generalizing one stop\'s area to the whole day.';
+  'never from outside knowledge or by generalizing one stop\'s area to the whole day.\n' +
+  DAY_LABEL_CASE_RULE;
 
 // Added after the same fact-verification pass found the model asserting
 // structural facts (stop counts) it was never given and getting them wrong
@@ -318,7 +356,7 @@ const STRUCTURE_AND_DURATION_RULES =
   'wording in prose ("about an hour", "a couple of hours", "the whole afternoon") must be consistent ' +
   'with that number, never vaguer or larger than it suggests.';
 
-function buildPrompt({ city, country, days, daysArr, bySlug, retryIssues }) {
+export function buildPrompt({ city, country, days, daysArr, bySlug, retryIssues }) {
   const blocks = daysArr.map((d, i) => dayBlock(d, i, bySlug, city)).join('\n\n');
   let prompt = `You are writing connective prose for a ${days}-day travel itinerary in ${city}, ${country}, for a travel website.
 
@@ -439,18 +477,68 @@ export function validateAiOutput(out, daysArr) {
   }
 }
 
+// "model output missing faq array" says nothing about WHY the reply came back
+// a field short, and the two explanations want opposite fixes. A forced
+// tool_use response that runs out of budget arrives as a PARTIAL input object
+// whose LAST schema field (faq) is simply absent — and claude-sonnet-5 reasons
+// by default, spending those tokens BEFORE any answer text, so a bigger
+// variant genuinely is likelier to be cut off. An ordinary malformed reply
+// looks identical from here. Seoul's first 5-day build died on this line on
+// 2026-09-21 with no way to tell which it was; stop_reason and the token split
+// now ride along on every model-shape failure, and they said tool_use with a
+// third of the budget to spare, which is what ruled truncation out.
+function modelStopDetail(msg) {
+  const u = msg?.usage || {};
+  const parts = [`stop_reason=${msg?.stop_reason ?? 'unknown'}`];
+  if (u.input_tokens != null) parts.push(`in=${u.input_tokens}`);
+  if (u.output_tokens != null) parts.push(`out=${u.output_tokens}/${MAX_TOKENS}`);
+  return parts.join(' ');
+}
+
+function parseModelReply(msg, daysArr) {
+  if (process.env.ITINERARY_DEBUG_USAGE) console.log(`   · model call: ${modelStopDetail(msg)}`);
+  const out = msg.content.find((c) => c.type === 'tool_use')?.input;
+  try {
+    validateAiOutput(out, daysArr);
+  } catch (e) {
+    throw new Error(`${e.message} (${modelStopDetail(msg)})`);
+  }
+  return out;
+}
+
+// A reply whose SHAPE is wrong gets asked once more, and only once.
+//
+// On 2026-09-21 Seoul's first-ever 5-day build died on
+// `model output missing faq array` and took the whole city down with it
+// (the `ERROR processing Seoul` path aborts every remaining variant). It was
+// not truncation — the reproduction measured out=2708/4000, two-thirds of the
+// budget unspent — just a reply that came back a field short. Asking again
+// costs one call; not asking costs the city its day, every day, while still
+// paying for the call that failed.
+//
+// Strictly one retry: a model that answers the same prompt wrongly twice is
+// not going to be talked round on the third, and this runs unattended.
+export async function withShapeRetry(attempt, { variantId }) {
+  try {
+    return await attempt();
+  } catch (e) {
+    console.log(`  ⚠ ${variantId} — model reply was malformed (${e.message}); asking once more`);
+    return attempt();
+  }
+}
+
 async function callClaude({ city, country, days, daysArr, bySlug, retryIssues }) {
   const msg = await client.messages.create({
     model: MODEL,
-    max_tokens: 4000,
+    max_tokens: MAX_TOKENS,
     tools: [TOOL],
     tool_choice: { type: 'tool', name: 'submit_itinerary' },
     messages: [{ role: 'user', content: buildPrompt({ city, country, days, daysArr, bySlug, retryIssues }) }],
   });
-  const out = msg.content.find((c) => c.type === 'tool_use')?.input;
-  validateAiOutput(out, daysArr);
-  return out;
+  return parseModelReply(msg, daysArr);
 }
+
+const callClaudeWithRetry = (args) => withShapeRetry(() => callClaude(args), { variantId: args.variantId });
 
 // ── prose guards (pure, no IO — used both at generation time and by tests) ──
 function collectProseFields(aiOut) {
@@ -573,13 +661,13 @@ export function fixRainFaqIfStale(aiOut, daysArr, droppedDayIdx) {
 // day's rainSwapSlug is dropped to null (mutating daysArr in place) rather
 // than shipping the leak, and any stale rain-FAQ answer is fixed to match.
 async function generateProse({ city, country, days, daysArr, bySlug, variantId }) {
-  let out = await callClaude({ city, country, days, daysArr, bySlug });
+  let out = await callClaudeWithRetry({ city, country, days, daysArr, bySlug, variantId });
   let proseIssues = scanAiOutputProse(out);
   let rainIssues = findRainSwapLeaks(out, daysArr, bySlug, city);
 
   if (proseIssues.length || rainIssues.length) {
     console.log(`  ⚠ ${variantId} — guard found ${proseIssues.length} hours/price + ${rainIssues.length} rain-leak issue(s) on first pass; retrying once`);
-    out = await callClaude({ city, country, days, daysArr, bySlug, retryIssues: [...proseIssues, ...rainIssues] });
+    out = await callClaudeWithRetry({ city, country, days, daysArr, bySlug, variantId, retryIssues: [...proseIssues, ...rainIssues] });
     proseIssues = scanAiOutputProse(out);
     rainIssues = findRainSwapLeaks(out, daysArr, bySlug, city);
   }
@@ -673,6 +761,19 @@ export function contextForIssue(fm, issue) {
   return [];
 }
 
+// Restated here, not just in the base prompt, for the reason the clock-time
+// rules were: the correction call is focused on the listed issues and drops
+// everything it isn't looking at. Measured on the 2026-09-21 Seoul 5-day
+// reproduction, one correction pass fixed its single issue and invented TWO
+// new title-cased day labels on the way out — the base prompt's capitalization
+// rule was in the message and still lost to the issue list right above it.
+export const CORRECTION_PROSE_RULES =
+  `ABSOLUTE PROSE RULES (violating any of these gets this answer rejected too):\n` +
+  `- NO clock times anywhere in prose, intros or FAQ answers — no "9am", "18:00", "around noon arrivals at 11:30". Times live in structured data only; write "early morning", "late afternoon", "in the evening".\n` +
+  `- NO opening-hours claims ("opens at", "closes on", "closed on Mondays", "open until late", "last entry").\n` +
+  `- NO prices with currency symbols or codes.\n` +
+  `- Day labels and day intros in SENTENCE CASE — capitalize the first word and real proper nouns only. "Namsan heights to riverside museums", never "Namsan Heights to Riverside Museums"; a capitalized multi-word phrase is read as a claimed place name and rejected.\n\n`;
+
 // The ONE extra correction call (see cap note at the top of the file). Reuses
 // buildPrompt's base (same closed-world venue data) and appends the
 // validator's exact issues plus each one's current field text, asking for a
@@ -695,22 +796,17 @@ async function callClaudeForCorrection({ city, country, days, daysArr, bySlug, f
     // Seoul itinerary could not regenerate at all. The guard's rules were in
     // the main prompt but not restated here, where the model is focused on the
     // listed issues.
-    `ABSOLUTE PROSE RULES (violating any of these gets this answer rejected too):\n` +
-    `- NO clock times anywhere in prose, intros or FAQ answers — no "9am", "18:00", "around noon arrivals at 11:30". Times live in structured data only; write "early morning", "late afternoon", "in the evening".\n` +
-    `- NO opening-hours claims ("opens at", "closes on", "closed on Mondays", "open until late", "last entry").\n` +
-    `- NO prices with currency symbols or codes.\n\n` +
+    CORRECTION_PROSE_RULES +
     `Resubmit a complete, corrected answer (every field, not just the fixed ones).`;
 
   const msg = await client.messages.create({
     model: MODEL,
-    max_tokens: 4000,
+    max_tokens: MAX_TOKENS,
     tools: [TOOL],
     tool_choice: { type: 'tool', name: 'submit_itinerary' },
     messages: [{ role: 'user', content: prompt }],
   });
-  const out = msg.content.find((c) => c.type === 'tool_use')?.input;
-  validateAiOutput(out, daysArr);
-  return out;
+  return parseModelReply(msg, daysArr);
 }
 
 // ── frontmatter assembly ─────────────────────────────────────────────────
@@ -917,7 +1013,10 @@ async function processVariant({ city, country, days, cityPosts, packedAvailable 
     console.log(`  ⚠ ${variantId} — validator found ${preflightIssues.length} prose-fixable issue(s); correcting once`);
     let correctedOut;
     try {
-      correctedOut = await callClaudeForCorrection({ city, country, days, daysArr: result.days, bySlug, fm, issues: preflightIssues });
+      correctedOut = await withShapeRetry(
+        () => callClaudeForCorrection({ city, country, days, daysArr: result.days, bySlug, fm, issues: preflightIssues }),
+        { variantId },
+      );
     } catch (e) {
       // Malformed/incomplete correction response — treat exactly like "the
       // correction attempt didn't fix it": delete the temp, leave any

@@ -20,6 +20,9 @@ import {
   symmetricDiffSize,
   stopSlugSet,
   commitOrRejectTemp,
+  buildPrompt,
+  CORRECTION_PROSE_RULES,
+  withShapeRetry,
 } from './build-itineraries.mjs';
 
 // findProseViolations tests now live in src/lib/prose-guard.mjs's own test
@@ -535,4 +538,59 @@ test('commitOrRejectTemp: a clean temp file is renamed over the target', async (
     assert.ok(!existsSync(tmpPath), 'temp file must be gone after a successful rename');
     assert.ok(existsSync(filePath), 'target file must exist after a successful commit');
   });
+});
+
+// ── 하루 라벨/인트로는 문장형으로 쓰게 한다 (2026-09-21 서울 5일) ──────────
+// 검사기의 AREA-CLAIM-UNSUPPORTED 는 "연속된 대문자 단어 2개 = 지역명 주장"
+// 이라는 전제 위에 서 있다(scripts/validate-itineraries.test.mjs 에 그 결합을
+// 고정해 뒀다). 프롬프트는 예시로만 문장형을 보여줬을 뿐 규칙으로 말한 적이
+// 없어서, 모델이 제목형을 굴릴 때마다 평범한 묘사구가 지어낸 지역명으로 읽혀
+// 거절됐다 — 5일은 라벨이 5개라 3일보다 그 확률이 그만큼 높다. 배포된 라벨
+// 51개가 전부 문장형인 것은 규칙이 아니라 생존편향이었다.
+test('buildPrompt: states the sentence-case rule for day labels and intros', () => {
+  const prompt = buildPrompt({
+    city: 'Seoul', country: 'South Korea', days: 5,
+    daysArr: [dayFixture([stopFixture('a', 'morning')])],
+    bySlug: new Map([['a', { data: { title: 'A', place: { address: 'Jongno-gu, Seoul' } } }]]),
+  });
+  assert.match(prompt, /sentence case/i);
+  assert.match(prompt, /proper nouns?/i);
+});
+
+test('CORRECTION_PROSE_RULES: restates the sentence-case rule where the correction pass can see it', () => {
+  // 시계 시각 규칙이 여기 다시 적힌 것과 같은 이유다 — 교정 호출은 지적된
+  // 항목에만 집중하느라 본 프롬프트의 규칙을 흘린다. 실제로 교정 1회가
+  // 항목 1개를 고치면서 제목형 라벨 2개를 새로 만들어 냈다(09-21 재현).
+  assert.match(CORRECTION_PROSE_RULES, /sentence case/i);
+});
+
+// ── 모양이 깨진 모델 응답은 한 번 다시 물어본다 ────────────────────────
+// 2026-09-21 서울 5일은 `model output missing faq array` 하나로 그날 도시
+// 전체가 중단됐다(ERROR processing Seoul). 토큰 잘림은 아니었다 — 실측
+// out=2708/4000 로 여유가 컸다. 그냥 한 번 어긋난 응답이고, 다시 물어보는
+// 값이 하루를 통째로 잃는 값보다 싸다. 재시도는 정확히 1회.
+test('withShapeRetry: a malformed first reply is asked once more, and the good one wins', async () => {
+  let calls = 0;
+  const out = await withShapeRetry(async () => {
+    calls += 1;
+    if (calls === 1) throw new Error('model output missing faq array (stop_reason=tool_use)');
+    return { ok: true };
+  }, { variantId: 'Seoul 5d' });
+  assert.equal(calls, 2);
+  assert.deepEqual(out, { ok: true });
+});
+
+test('withShapeRetry: a good first reply costs exactly one call', async () => {
+  let calls = 0;
+  await withShapeRetry(async () => { calls += 1; return { ok: true }; }, { variantId: 'Seoul 5d' });
+  assert.equal(calls, 1);
+});
+
+test('withShapeRetry: gives up after the one retry (never loops)', async () => {
+  let calls = 0;
+  await assert.rejects(
+    () => withShapeRetry(async () => { calls += 1; throw new Error('model output missing faq array'); }, { variantId: 'Seoul 5d' }),
+    /missing faq array/,
+  );
+  assert.equal(calls, 2);
 });

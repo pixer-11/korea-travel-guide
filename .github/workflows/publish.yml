@@ -502,7 +502,25 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           set -o pipefail
+          set +e
           node scripts/build-itineraries.mjs 2>&1 | tee /tmp/itin.log
+          RC=$?
+          set -e
+          # A rejected variant used to be visible ONLY inside the log file that
+          # gets committed afterwards. The one Telegram notice below greps for
+          # NEW_ITINERARY — a SUCCESS marker — and the later
+          # validate-itineraries gate reads COMMITTED files, which a rejected
+          # variant never becomes. So Seoul's first-ever 5-day build failed
+          # twice on 2026-09-21, burned a model call each time, and nobody was
+          # told either time. Failure markers now report themselves.
+          BAD=$(grep -cE '^(VALIDATE-FAILED|ERROR processing)' /tmp/itin.log || true)
+          if [ "${BAD:-0}" -gt 0 ]; then
+            echo "── 일정표 거부 ──"
+            grep -E '^(VALIDATE-FAILED|ERROR processing)' /tmp/itin.log | head -5
+            echo "일정표 생성 ${BAD}건 거부" >> /tmp/soft-fail.txt
+          elif [ "$RC" -ne 0 ]; then
+            echo "일정표 생성 (종료코드 $RC)" >> /tmp/soft-fail.txt
+          fi
 
       # AFTER the builder, on purpose. Parking an itinerary whose stop got
       # quarantined is correct; the missing half was the way back. Un-parking
