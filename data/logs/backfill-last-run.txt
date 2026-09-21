@@ -1,33 +1,4 @@
-Places 예산: backfill 몫 25회 (오늘 사용 3/100)
-Priority: 167 itinerary stop(s) queued first
-  – tashkent-amir-temur-xiyoboni.md: nothing new (resting 60d)
-  – beijing-jingshan-park.md: nothing new (resting 60d)
-  – granada-jardines-del-triunfo.md: nothing new (resting 60d)
-  🚫 little-india-former-house-of-tan-teng-niah.md: CLOSED_TEMPORARILY — quarantined (draft), not backfilled
-  – marina-bay-marina-bay-sands-singapore.md: nothing new (resting 60d)
-  – milan-pinacoteca-di-brera.md: nothing new (resting 60d)
-  ✓ nagoya-oasis-21.md +phone +7h hours
-  – nantes-place-royale.md: nothing new (resting 60d)
-  ✓ naples-archaeological-park-of-pompeii.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 19h (venue not open then); weekendQuiet: dropped 19h (venue not open then)
-  – naples-city-view.md: nothing new (resting 60d)
-  ✓ nara-nara-national-museum.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 17h (venue not open then) — nothing left; weekendQuiet: dropped 17h (venue not open then) — nothing left
-  ✓ nara-nara-park.md +phone +7h hours
-  ✓ nara-todai-ji.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 7,17h (venue not open then); weekendQuiet: dropped 7,17h (venue not open then)
-  – new-delhi-india-gate.md: nothing new (resting 60d)
-  – new-delhi-lodhi-garden.md: nothing new (resting 60d)
-  – new-delhi-safdarjung-tomb-delhi.md: nothing new (resting 60d)
-  – new-delhi-yamuna-ghat.md: nothing new (resting 60d)
-  – new-taipei-old-place-airplane-observation-deck.md: nothing new (resting 60d)
-  – new-taipei-shilin-residence-park.md: nothing new (resting 60d)
-  – new-taipei-yangmingshan-national-park.md: nothing new (resting 60d)
-  ✓ new-york-conservatory-garden.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 20h (venue not open then); weekendQuiet: dropped 20h (venue not open then)
-  – nha-trang-long-son-pagoda.md: nothing new (resting 60d)
-  ✓ nha-trang-po-nagar-temple.md +7h hours
-  – nice-parc-national-du-mercantour.md: nothing new (resting 60d)
-  – nice-place-massena.md: nothing new (resting 60d)
+Places 예산: backfill 몫 0회 (오늘 사용 46/100)
+Priority: 179 itinerary stop(s) queued first
 
-BACKFILL RESULT: updated 7, backlog-updated 7, already-complete 827, no-new-data 365, no-place 358, closed-quarantined 1, quota-429 0, api-error 0, api-calls 25, remaining-askable 125 (APPLIED).
+BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 0, no-new-data 0, no-place 0, closed-quarantined 0, quota-429 0, api-error 0, api-calls 0, remaining-askable 137 (APPLIED).
