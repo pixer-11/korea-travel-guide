@@ -8469,12 +8469,6 @@
     "reasonKo": "두바이 분수 야경과 도심 스카이라인",
     "at": "2026-08-13T14:03:51.698Z"
   },
-  "dubai-marina-marina-walk\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dubai_Marina%2C_the_Walk_03.jpg/3840px-Dubai_Marina%2C_the_Walk_03.jpg": {
-    "slug": "dubai-marina-marina-walk",
-    "verdict": "MATCH",
-    "reason": "patrol re-check: Fountain plaza with palm trees and buildings, matches Marina Walk",
-    "at": "2026-08-13T20:19:34.692Z"
-  },
   "fethiye-gemiler-island\u0001https://upload.wikimedia.org/wikipedia/commons/3/35/Gemiler_Adas%C4%B1_kal%C4%B1nt%C4%B1lar%C4%B1.jpg": {
     "slug": "fethiye-gemiler-island",
     "verdict": "MATCH",
@@ -19513,18 +19507,6 @@
     "verdict": "MATCH",
     "reason": "patrol replace: Trendy café exterior in Tashkent, florist decorated entrance",
     "at": "2026-09-17T22:25:44.337Z"
-  },
-  "tokyo-samaa\u0001https://fastly.4sqi.net/img/general/original/20239681_vBdgWb9b1qF3Cnyj5Jfn47ccNuJzdyMeOBHbKP9Wlo4.jpg": {
-    "slug": "tokyo-samaa",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: audit: Interior construction site, not restaurant venue",
-    "at": "2026-09-17T22:25:52.273Z"
-  },
-  "tokyo-samaa\u0001https://fastly.4sqi.net/img/general/original/20239681_RIXbZAM_i3KyUo1vXCiUtnVzi-IMqu1AvFYiM7I3uVA.jpg": {
-    "slug": "tokyo-samaa",
-    "verdict": "MATCH",
-    "reason": "patrol replace: Modern Tokyo venue, minimalist design, authentic setting",
-    "at": "2026-09-17T22:25:55.399Z"
   },
   "tokyo-the-kura\u0001https://live.staticflickr.com/3366/3510567229_9254c81a58_b.jpg": {
     "slug": "tokyo-the-kura",
