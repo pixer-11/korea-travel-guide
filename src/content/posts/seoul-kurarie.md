@@ -29,6 +29,16 @@ heroImage:
   focus:
     x: 40
     'y': 45
+place:
+  id: ChIJ44SjcCWjfDURRClfUasb4I8
+  name: 쿠라리에 (KURARIE)
+  address: South Korea, Seoul, Gangnam District, Eonju-ro, 842 1층
+  rating: 4.2
+  userRatingsTotal: 34
+  googleMapsUrl: https://maps.google.com/?cid=10367316764825430340&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 37.5253431
+  lng: 127.03382419999998
 ---
 
 ## Why Kurarie stands out

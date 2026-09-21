@@ -28,7 +28,17 @@ heroImage:
   source: https://foursquare.com/v/5b699aa8628c83002c8f495f
   focus:
     x: 50
-    y: 35
+    'y': 35
+place:
+  id: ChIJrRhDycujfDURGQzRahFxTdM
+  name: Mil Toast Ikseon
+  address: 30-3 Supyo-ro 28-gil, Jongno District, Seoul, South Korea
+  rating: 3.9
+  userRatingsTotal: 1248
+  googleMapsUrl: https://maps.google.com/?cid=15225950234829982745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 37.57311920000001
+  lng: 126.99034250000001
 ---
 
 ## Why everyone's talking about it

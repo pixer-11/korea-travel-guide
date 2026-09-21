@@ -10,6 +10,16 @@ heroImage:
   credit: 'Photo: Foursquare user content (Artist Bakery (아티스트베이커리))'
   license: foursquare
   source: https://foursquare.com/v/69ce0d3a931d8e6bfaee69df
+place:
+  id: ChIJp1npFq-jfDURtn6eZYt-FZY
+  name: Artist Bakery
+  address: 167 Anguk-dong, Jongno District, Seoul, South Korea
+  rating: 4.3
+  userRatingsTotal: 1067
+  googleMapsUrl: https://maps.google.com/?cid=10814689217370554038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 37.576219
+  lng: 126.984271
 tags:
   - seoul
   - new & trending

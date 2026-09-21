@@ -29,6 +29,16 @@ heroImage:
   focus:
     x: 50
     'y': 45
+place:
+  id: ChIJxWShw9-jfDURS80cyKrrVI4
+  name: Bar Cham
+  address: 34 Jahamun-ro 7-gil, Jongno District, Seoul, South Korea
+  rating: 4.7
+  userRatingsTotal: 444
+  googleMapsUrl: https://maps.google.com/?cid=10256081370163760459&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 37.5791709
+  lng: 126.97038509999999
 ---
 
 You find Bar Cham by half-losing yourself first. Seochon's streets don't run in a grid, they bend around old roof lines and dead-end into someone's gate, and the bar itself gives little away from outside. No neon, no sandwich board, just a hanok's tiled roof and a wooden door that could belong to a private house.

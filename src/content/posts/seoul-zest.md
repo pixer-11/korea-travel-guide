@@ -29,6 +29,16 @@ heroImage:
   focus:
     x: 45
     'y': 45
+place:
+  id: ChIJ9eN6-_GlfDUR5SGWDB7YNkw
+  name: ZEST SEOUL
+  address: South Korea, Seoul, Gangnam District, Dosan-daero 55-gil, 26 하늘빌딩 1층
+  rating: 4.8
+  userRatingsTotal: 536
+  googleMapsUrl: https://maps.google.com/?cid=5491814419196682725&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
+  lat: 37.5252611
+  lng: 127.04077799999999
 ---
 ## Why Zest matters right now
 
