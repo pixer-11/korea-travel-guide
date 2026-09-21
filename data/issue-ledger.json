@@ -1,5 +1,11 @@
 {
-  "validate-content": {},
+  "validate-content": {
+    "RATING seoul-mil-toast.md": {
+      "since": "2026-09-21",
+      "last": "2026-09-21",
+      "seen": 1
+    }
+  },
   "audit-translations": {
     "TRUNCATED-DESCRIPTION posts/es/bandung-sudirman-street-day-and-night-market.md": {
       "since": "2026-09-21",
