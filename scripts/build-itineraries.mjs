@@ -69,7 +69,7 @@ import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
 import { slugify } from './lib/slugify.mjs';
-import { quietWindowSummary as quietWindowSummaryOf } from './lib/quiet-window.mjs';
+import { quietWindowSummaryWithinHours } from './lib/quiet-window.mjs';
 import { buildItinerary, qualifyingPosts, gateFor, closedDaysOf } from '../src/lib/itinerary.mjs';
 import { findProseViolations } from '../src/lib/prose-guard.mjs';
 import { validateItineraryFile } from './validate-itineraries.mjs';
@@ -111,9 +111,13 @@ async function loadPosts() {
 }
 
 // ── closed-world facts we hand the model per stop (nothing else) ───────────
-// lib/quiet-window.mjs: every quiet RUN, never first-hour-to-last-hour.
+// lib/quiet-window.mjs: every quiet RUN, never first-hour-to-last-hour, and
+// never an hour the venue is shut for. "Weekends" is one bucket to BestTime but
+// two different days to a venue: a stop quiet 11am-2pm on Sunday can be locked
+// at 11am on Saturday, and the model is told to trust this line as fact
+// (2026-09-21, the same defect Codex found in 77 pins).
 function quietWindowSummary(post) {
-  return quietWindowSummaryOf(post.data.place?.busyness);
+  return quietWindowSummaryWithinHours(post.data.place?.busyness, post.data.place?.openingHours);
 }
 
 // "A attraction rated 4.7 by visitors" shipped on every itinerary whose stop

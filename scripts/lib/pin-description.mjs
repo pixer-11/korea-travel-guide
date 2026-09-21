@@ -20,7 +20,7 @@
 //   quiet hours → closed days → opening hours → the guide's own quickAnswer.
 // Nothing here may invent a fact; money amounts are refused outright (the
 // 2026-09-20 fabricated-price class stays out of Pinterest too).
-import { quietWindowSummary } from './quiet-window.mjs';
+import { quietWindowSummaryWithinHours } from './quiet-window.mjs';
 // NOTE: the itineraries' closedDaysOf() is deliberately NOT used here. It is
 // forgiving by design (a line it cannot read is simply not closed), which is
 // right for a page that can be rebuilt and wrong for a pin that cannot.
@@ -216,7 +216,9 @@ export function openingHook(post) {
   const place = (post && post.place) || {};
   post = post || {};
 
-  const quiet = friendlyHours(quietWindowSummary(place.busyness));
+  // Checked against the venue's own week: a quiet hour it is shut for is not a
+  // hook, it is a locked gate (2026-09-21, 77 pins).
+  const quiet = friendlyHours(quietWindowSummaryWithinHours(place.busyness, place.openingHours));
   if (quiet) return { text: `Quietest ${quiet}.`, kind: 'quiet' };
 
   // Both the closed days and the open ones come out of the SAME parse. Reading

@@ -1,6 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { pinDescription, friendlyHours, openingHook, isPerishable, tidyClock, uniformHours, offersLine, parseDayLines, hasSpecificDate } from './pin-description.mjs';
+import { openIntervals, quietWindowSummaryWithinHours } from './quiet-window.mjs';
 
 const POST = {
   title: 'Fushimi Inari Taisha: Kyoto Travel Guide (4.7★)',
@@ -331,4 +332,68 @@ test('answer 훅 위에 메타 설명을 겹쳐 쓰지 않는다', () => {
     description: 'Tran Quoc Pagoda in Hanoi, Vietnam — the oldest Buddhist temple in the city.',
   }, '## When to go\nEarly morning.');
   assert.equal((d.match(/Tran Quoc Pagoda/g) || []).length, 1, '같은 사실이 두 번 나오면 안 된다');
+});
+
+// ── 한산한 시간 × 영업시간 (2026-09-21, 코덱스 최종 검토) ────────
+// "weekends"는 토·일을 한 덩어리로 묶지만 영업시간은 그렇지 않다. 두 날의
+// 시간표가 다르면 한쪽엔 잠긴 문 앞으로 보내게 된다. 막아야 할 입력과
+// 막으면 안 되는 입력을 함께 건다.
+const week = (mon, sat = mon, sun = mon) => [
+  `Monday: ${mon}`, `Tuesday: ${mon}`, `Wednesday: ${mon}`, `Thursday: ${mon}`,
+  `Friday: ${mon}`, `Saturday: ${sat}`, `Sunday: ${sun}`,
+];
+
+test('🛑 묶음 안의 하루라도 닫혀 있으면 그 시간은 훅이 아니다 — Subhash Bose Park', () => {
+  // 토요일은 9시-14시 닫혀 있고 일요일만 11시에 연다.
+  const openingHours = week('6:00 – 9:00 AM, 2:00 – 8:30 PM', undefined, '6:00 – 9:00 AM, 11:00 AM – 8:30 PM');
+  const busyness = { weekendQuiet: [11, 12, 13] };
+  assert.equal(quietWindowSummaryWithinHours(busyness, openingHours), null);
+  assert.equal(openingHook({ place: { busyness, openingHours } }), null);
+});
+
+test('🛑 토요일에 문 닫는 시간은 빠지고, 평일은 그대로 남는다 — Sagrada Família', () => {
+  const openingHours = week('9:00 AM – 8:00 PM', '9:00 AM – 6:00 PM', '10:30 AM – 8:00 PM');
+  const busyness = { weekdayQuiet: [9, 18, 19], weekendQuiet: [9, 18, 19] };
+  const hook = openingHook({ place: { busyness, openingHours } });
+  assert.equal(hook.text, 'Quietest weekdays 9-10am and 6-8pm.');
+  assert.doesNotMatch(hook.text, /weekends/, '토요일 18시 폐관·일요일 10시30분 개관을 약속하면 안 된다');
+});
+
+test('✅ 두 날 모두 열려 있으면 한산한 시간은 살아남는다', () => {
+  const openingHours = week('9:00 AM – 8:00 PM');
+  const busyness = { weekdayQuiet: [9], weekendQuiet: [9, 18] };
+  assert.equal(quietWindowSummaryWithinHours(busyness, openingHours),
+    'weekdays 9:00-10:00, weekends 9:00-10:00 and 18:00-19:00');
+});
+
+test('✅ 자정을 넘기는 영업시간이 멀쩡한 훅을 지우면 안 된다', () => {
+  // "7:00 AM – 12:00 AM"과 "11:00 AM – 3:00 AM"은 역순 범위가 아니라 심야 영업이다.
+  assert.equal(quietWindowSummaryWithinHours({ weekdayQuiet: [7, 8, 9] }, week('7:00 AM – 12:00 AM')),
+    'weekdays 7:00-10:00');
+  // hourRuns24는 오름차순으로 정렬하므로 심야 시간은 앞에 온다 — 기존 동작.
+  assert.equal(quietWindowSummaryWithinHours({ weekendQuiet: [23, 1] }, week('11:00 AM – 3:00 AM')),
+    'weekends 1:00-2:00 and 23:00-24:00');
+});
+
+test('✅ 영업시간 자체가 없으면 검사할 것이 없다 — 기존 훅 유지', () => {
+  assert.equal(quietWindowSummaryWithinHours({ weekdayQuiet: [7, 8] }, undefined), 'weekdays 7:00-9:00');
+  assert.equal(quietWindowSummaryWithinHours({ weekdayQuiet: [7, 8] }, []), 'weekdays 7:00-9:00');
+});
+
+test('🛑 읽을 수 없는 요일 한 줄은 "열려 있다"로 치지 않는다', () => {
+  const openingHours = week('9:00 AM – 8:00 PM', 'Hours unavailable');
+  assert.equal(quietWindowSummaryWithinHours({ weekendQuiet: [10] }, openingHours), null);
+  // 평일은 읽히므로 그대로 남는다 — 전부 아니면 전무가 되면 안 된다.
+  assert.equal(quietWindowSummaryWithinHours({ weekdayQuiet: [10], weekendQuiet: [10] }, openingHours),
+    'weekdays 10:00-11:00');
+});
+
+test('영업시간 한 줄 파싱 — 실제 코퍼스의 15종 문법', () => {
+  assert.deepEqual(openIntervals('Closed'), []);
+  assert.deepEqual(openIntervals('Open 24 hours'), [[0, 24]]);
+  assert.deepEqual(openIntervals('6:00 – 9:00 AM, 2:00 – 8:30 PM'), [[6, 9], [14, 20.5]]);
+  assert.deepEqual(openIntervals('12:00 – 9:00 PM'), [[12, 21]]);
+  assert.deepEqual(openIntervals('11:00 AM – 3:00 AM'), [[11, 27]]);
+  assert.equal(openIntervals('Hours unavailable'), null);
+  assert.equal(openIntervals(''), null);
 });
