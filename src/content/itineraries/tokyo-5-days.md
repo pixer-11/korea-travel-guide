@@ -4,7 +4,7 @@ country: Japan
 days: 5
 title: '5-Day Tokyo Itinerary: Temples, Towers, Gardens & Trendy Cafes'
 description: A 5-day Tokyo itinerary moving from Minato City's temples and towers through Sumida and Taito's Skytree-to-Asakusa stretch, Koto and Chuo's art-and-garden day, Shinjuku and Shibuya's alleys and shrine forest, and a final Shibuya-to-Setagaya loop of crossings and cafes.
-quickAnswer: This 5-day Tokyo itinerary moves through Minato City (temple, tower, coffee, dinner), Sumida and Taito City (Skytree, Sensō-ji, Ameyoko), Koto and Chuo City (digital art, fish market, gardens), Shinjuku and Shibuya (Golden-Gai, Shinjuku Gyoen, Meiji Jingu), and finally Shibuya and Setagaya City (Shibuya Crossing, a Sangenjaya cafe, Fuglen), pacing each day from morning sights into evening food and drink."
+quickAnswer: This 5-day Tokyo itinerary moves through Minato City (temple, tower, coffee, dinner), Sumida and Taito City (Skytree, Sensō-ji, Ameyoko), Koto and Chuo City (digital art, fish market, gardens), Shinjuku and Shibuya (Golden-Gai, Shinjuku Gyoen, Meiji Jingu), and finally Shibuya and Setagaya City (Shibuya Crossing, a Sangenjaya cafe, Fuglen), pacing each day from morning sights into evening food and drink.
 pubDate: '2026-09-22T00:58:38.905Z'
 stopsHash: bd6ea2e9a9fc0cdac360ea043c158783c49d92d2
 packedAvailable: true
