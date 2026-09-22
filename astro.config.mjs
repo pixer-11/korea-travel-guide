@@ -478,6 +478,34 @@ function regionRedirects() {
     // days, so the 08-07 rankings rule has nothing to decide with; the data
     // being right decides it instead.
     ['dubai-marina-marina-walk', 'dubai-marina-dubai-marina-walk'],
+    // The four QUARANTINED twins, found the same day by the check that now
+    // refuses to release one (scripts/lib/live-twin.mjs). Each was a second
+    // write-up of a venue the site already covered, held for an unrelated
+    // reason — so only one page rendered and nothing flagged the pair. A
+    // patrol clearing the hold would have published the duplicate.
+    //
+    // Lau Pa Sat: the draft was filed under Sentosa, which is not where the
+    // hawker centre is (18 Raffles Quay is Downtown Core). Its twin is indexed.
+    ['sentosa-lau-pa-sat', 'singapore-lau-pa-sat'],
+    // El Campero: the draft is placeless and titled "El Campero Madrid in
+    // Madrid". Neither URL is indexed as a post; the live one wins by being
+    // the one with a page.
+    ['madrid-el-campero-madrid', 'madrid-el-campero'],
+    // House of Tan Yeok Nee, written twice with the tenant businesses spelled
+    // out in brackets the second time. Both placeless; the live one wins.
+    ['singapore-house-of-tan-yeok-nee-loca-niru-bar-kap-jing-studio', 'singapore-house-of-tan-yeok-nee'],
+    // Smith & Wollensky Ginza — the one pair where the LIVE post loses. The
+    // quarantined twin is "Submitted and indexed" and ranks at position 1.67;
+    // the live one is "URL unknown to Google". Retiring the indexed URL would
+    // hand a ranking to a page Google has never seen, which is the 08-07
+    // lesson exactly. So the indexed slug survives and keeps its hold: the
+    // venue is recorded at 3.9 with a heldFinal saying the 4.0 floor is a fact
+    // about the venue, and the ONLY reason it was on the site anyway was this
+    // duplicate, published a month later with a refreshed 4.1 that nobody
+    // reconciled against the hold. One venue, one URL, and the floor decision
+    // is applied instead of quietly bypassed. When the refresh re-reads the
+    // rating the page comes back on the URL that already ranks.
+    ['tokyo-smith-wollensky-ginza', 'tokyo-smith-wollensky'],
   ];
   // Resolve one hop at build time: when the KEPT twin is itself quarantined,
   // pointing at it produced a 301→301 chain ending wherever the draft rule
