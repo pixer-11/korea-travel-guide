@@ -1,33 +1,40 @@
 ---
 draft: true
-heldReason: 'below-rating-floor'
-heldFinal: rated 3.9, under the 4.0 floor the methodology page promises; the rating is a fact about the venue, not something a repair can clear
+heldReason: below-rating-floor
+heldFinal: >-
+  rated 3.9, under the 4.0 floor the methodology page promises; the rating is a
+  fact about the venue, not something a repair can clear
 title: Smith & Wollensky in Tokyo
-description: 'Smith & Wollensky in Tokyo, Japan — a new/trending spot: what it is, where it is, and how to visit.'
+description: >-
+  Smith & Wollensky in Tokyo, Japan — a new/trending spot: what it is, where it
+  is, and how to visit.
 country: Japan
 region: Tokyo
 category: trendy
 pubDate: '2026-07-24'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/528907406_D_WjAKAGwdGuN9wplSAp2z36tEmwvyQirXoA71I_s34.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/528907406_D_WjAKAGwdGuN9wplSAp2z36tEmwvyQirXoA71I_s34.jpg
   credit: 'Photo: Foursquare user content (Smith & Wollensky GINZA)'
   license: foursquare
-  source: https://foursquare.com/v/69ffff169545e75813a2b47f
+  source: 'https://foursquare.com/v/69ffff169545e75813a2b47f'
   focus:
     x: 50
     'y': 55
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/7852602_TlZNoVCGj2GeuDWzsiNgUxrZdMnK9ZLfG9OmHkwpivw.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/7852602_TlZNoVCGj2GeuDWzsiNgUxrZdMnK9ZLfG9OmHkwpivw.jpg
     credit: 'Photo: Foursquare user content (Smith & Wollensky GINZA)'
     license: foursquare
-    source: https://foursquare.com/v/69ffff169545e75813a2b47f
+    source: 'https://foursquare.com/v/69ffff169545e75813a2b47f'
 place:
   id: ChIJYYYAAwCLGGARNV_QjU_B4Js
   name: Smith & Wollensky GINZA
-  address: Japan, 〒104-0061 Tokyo, Chuo City, Ginza, 5-chōme−8−１５ 12階
-  rating: 3.9
-  userRatingsTotal: 83
-  googleMapsUrl: https://maps.google.com/?cid=11232190018087837493&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  address: 'Japan, 〒104-0061 Tokyo, Chuo City, Ginza, 5-chōme−8−１５ 12階'
+  rating: 4.1
+  userRatingsTotal: 139
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11232190018087837493&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 35.6702584
   lng: 139.7643725
@@ -40,22 +47,49 @@ place:
     - 'Friday: 11:00 AM – 11:00 PM'
     - 'Saturday: 11:00 AM – 11:00 PM'
     - 'Sunday: 11:00 AM – 11:00 PM'
+  priceLevel: 4
 tags:
   - tokyo
   - new & trending
-quickAnswer: Smith & Wollensky, the legendary New York steakhouse, has opened its first Japan location in Ginza, spread across three floors and serving USDA Prime dry-aged steaks with the brand's signature American hospitality. It's a trending, reservation-worthy spot best visited for dinner on a weeknight or for a quieter weekend lunch — book ahead and confirm current hours before you go, since details can shift in the first months after an opening of this scale.
+quickAnswer: >-
+  Smith & Wollensky, the legendary New York steakhouse, has opened its first
+  Japan location in Ginza, spread across three floors and serving USDA Prime
+  dry-aged steaks with the brand's signature American hospitality. It's a
+  trending, reservation-worthy spot best visited for dinner on a weeknight or
+  for a quieter weekend lunch — book ahead and confirm current hours before you
+  go, since details can shift in the first months after an opening of this
+  scale.
 faq:
   - q: Do I need a reservation at Smith & Wollensky Tokyo?
-    a: Yes, booking ahead is strongly recommended, especially for dinner. As a newly opened, high-profile debut in Ginza, prime time slots are likely to fill quickly — reserve through the restaurant's official site or by phone once you've confirmed current contact details.
+    a: >-
+      Yes, booking ahead is strongly recommended, especially for dinner. As a
+      newly opened, high-profile debut in Ginza, prime time slots are likely to
+      fill quickly — reserve through the restaurant's official site or by phone
+      once you've confirmed current contact details.
   - q: How do I get to Smith & Wollensky in Ginza?
-    a: The easiest access is via Ginza Station, served by the Ginza, Marunouchi, and Hibiya subway lines, or nearby Higashi-Ginza and Yurakucho stations. Confirm the exact building and entrance ahead of time since Ginza has many similar upscale storefronts.
+    a: >-
+      The easiest access is via Ginza Station, served by the Ginza, Marunouchi,
+      and Hibiya subway lines, or nearby Higashi-Ginza and Yurakucho stations.
+      Confirm the exact building and entrance ahead of time since Ginza has many
+      similar upscale storefronts.
   - q: What should I order there?
-    a: The signature draw is USDA Prime dry-aged steak, the specialty that built the Smith & Wollensky brand in New York. Exact menu items and prices aren't confirmed for the Tokyo location, so check the current menu directly before visiting.
+    a: >-
+      The signature draw is USDA Prime dry-aged steak, the specialty that built
+      the Smith & Wollensky brand in New York. Exact menu items and prices
+      aren't confirmed for the Tokyo location, so check the current menu
+      directly before visiting.
   - q: What's the best time to visit to avoid crowds?
-    a: Weekday lunches or early weeknight dinners tend to be calmer than Friday and Saturday evenings, which typically see the heaviest demand at Ginza's top steakhouses, particularly a buzzy new opening like this one.
+    a: >-
+      Weekday lunches or early weeknight dinners tend to be calmer than Friday
+      and Saturday evenings, which typically see the heaviest demand at Ginza's
+      top steakhouses, particularly a buzzy new opening like this one.
   - q: What else is nearby if I want to make a day of it?
-    a: Ginza's department stores and the Kabukiza Theatre are within walking distance, and Hibiya Park, the Imperial Palace grounds, and Tsukiji Outer Market are all short trips away for pairing with your meal.
+    a: >-
+      Ginza's department stores and the Kabukiza Theatre are within walking
+      distance, and Hibiya Park, the Imperial Palace grounds, and Tsukiji Outer
+      Market are all short trips away for pairing with your meal.
 aiGenerated: true
+updatedDate: '2026-09-22'
 ---
 
 ## Why Smith & Wollensky in Tokyo Is a Big Deal
