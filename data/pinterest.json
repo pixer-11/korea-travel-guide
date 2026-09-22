@@ -268,7 +268,10 @@
     "medan-maha-vihara-maitreya": "1103100502527297054",
     "abu-dhabi-abu-dhabi-dates-market": "1103100502527336447",
     "washington-dc-eastern-market": "1103100502527336448",
-    "gyeongju-cheomseongdae-observatory": "1103100502527336453"
+    "gyeongju-cheomseongdae-observatory": "1103100502527336453",
+    "tokyo-ueno-park": "1103100502527379881",
+    "tokyo-tokyo-skytree": "1103100502527379883",
+    "tokyo-shinjuku-golden-gai": "1103100502527379885"
   },
   "magnetPinned": {
     "magnet:itinerary:bangkok-3-days": "1103100502524165822",
@@ -284,6 +287,7 @@
     "magnet:itinerary:los-angeles-3-days": "1103100502524889774",
     "magnet:itinerary:new-orleans-3-days": "1103100502525602632",
     "magnet:itinerary:siem-reap-3-days": "1103100502526377741",
-    "magnet:itinerary:bali-3-days": "1103100502527336444"
+    "magnet:itinerary:bali-3-days": "1103100502527336444",
+    "magnet:itinerary:seoul-5-days": "1103100502527379880"
   }
 }
