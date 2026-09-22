@@ -2,7 +2,17 @@
   "validate-content": {
     "RATING seoul-mil-toast.md": {
       "since": "2026-09-21",
-      "last": "2026-09-21",
+      "last": "2026-09-22",
+      "seen": 2
+    },
+    "RATING tokyo-pres-de-l-as.md": {
+      "since": "2026-09-22",
+      "last": "2026-09-22",
+      "seen": 1
+    },
+    "RATING tokyo-tofrom-yaesu.md": {
+      "since": "2026-09-22",
+      "last": "2026-09-22",
       "seen": 1
     }
   },
