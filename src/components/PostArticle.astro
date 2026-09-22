@@ -218,6 +218,15 @@ const placeLabel = (lang === defaultLang
 // Same trick for an event: the localized title's leading segment is the event's
 // name in the reader's language. On the English page the article suffix comes
 // off with the shared helper instead.
+// The plate wants the name on the sign, not a headline. placeLabel's
+// "leading segment of the localized title" trick returns the WHOLE title when
+// that title has no colon or dash ("서울 달라스 피자(Dallas Pizza) 방문 가이드"),
+// so a plate would shout a sentence. In that case fall back to the venue's
+// own (English) name — the one painted over its door.
+const plateName = (placeLabel && placeLabel !== String(title).trim() && placeLabel.length <= 40)
+  ? placeLabel
+  : (placeName || placeLabel);
+
 const eventLabel = (lang === defaultLang
   ? eventSchemaName(post.data.title)
   : String(title).split(/[:—]/)[0].trim()) || eventSchemaName(post.data.title);
@@ -712,6 +721,25 @@ const saveQuiet = perDay
         </div>
       )}
     </div>
+
+    {/* 2026-09-22: 사진 없이 공개된 글은 타이틀 바로 본문이 시작돼, 모든 다른 가이드가
+        사진으로 열리는 사이트에서 페이지가 깨진 것처럼 보였다. 이 아홉 편은 일부러 그렇게
+        내보낸 것이다(265a063e5) — 자유 이용 사진이 없는 작은 가게들이고, 격리해 두면
+        검색해 온 사람이 도시 허브로 튀겨난다. 그래서 **없는 사진을 지어내는 대신**, 이미
+        가진 사실(장소명·지역·분류·평점)로 표지를 짜는다. 새 번역 문구를 만들지 않는다 —
+        여기 쓰는 값은 전부 이미 현지화된 것이다. 사진 순찰은 이 글들을 계속 노리고 있고
+        (lib/patrol-target.mjs 의 isPhotolessLive), 진짜 사진이 나타나면 이 표지는 사라진다. */}
+    {!d.heroImage && (
+      <figure class="article-hero article-hero--typeset" aria-hidden="true">
+        <div class="typeset-plate">
+          <span class="typeset-kicker">{t(`cat.${d.category}` as any) || d.category.replace('-', ' ')}</span>
+          <strong class="typeset-name">{plateName}</strong>
+          <span class="typeset-meta">
+            {regionLabel}{p?.rating ? <> &middot; &#9733; {p.rating.toFixed(1)}</> : null}
+          </span>
+        </div>
+      </figure>
+    )}
 
     {d.heroImage && (
       <figure class="article-hero">

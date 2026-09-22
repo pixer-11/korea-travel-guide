@@ -772,6 +772,22 @@ img[data-portrait] { object-position: 50% 20%; }
 
 /* Image lightbox: article photos open enlarged in a native <dialog>. */
 .article-hero img, .gallery img { cursor: zoom-in; }
+/* 사진 없이 공개된 글의 표지 (2026-09-22).
+   아홉 편은 자유 이용 사진이 없어 일부러 사진 없이 내보낸 것이다(265a063e5).
+   히어로 자리를 통째로 비우면 다른 모든 가이드가 사진으로 열리는 사이트에서
+   페이지가 깨진 것처럼 보인다. 없는 사진을 지어내는 대신 이미 가진 사실로
+   표지를 짠다 — 장소명·지역·평점, 전부 현지화된 값이다.
+   16/9 를 그대로 써서 사진이 들어오는 날 레이아웃이 튀지 않는다. */
+.article-hero--typeset { aspect-ratio: 16 / 9; display: grid; place-items: center; text-align: center;
+  background: var(--bg-tint); background-image: var(--pattern); border: 1px solid var(--line);
+  box-shadow: none; padding: 1.5rem; }
+.typeset-plate { display: grid; gap: 0.55rem; max-width: 34ch; }
+.typeset-kicker { font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
+.typeset-name { font-family: var(--font-display, inherit); font-size: clamp(1.4rem, 4.2vw, 2.1rem);
+  line-height: 1.2; color: var(--ink); font-weight: 700; }
+.typeset-meta { font-size: 0.92rem; color: var(--ink-soft); }
+@media (max-width: 520px) { .article-hero--typeset { aspect-ratio: 4 / 3; } }
+
 /* margin:auto is what centres an open <dialog> — the browser's own UA stylesheet
    sets it, and our `* { margin: 0 }` reset (line ~103) was silently winning, so
    every enlarged photo opened pinned to the top-left corner instead of the
