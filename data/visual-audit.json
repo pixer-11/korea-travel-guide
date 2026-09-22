@@ -1046,12 +1046,6 @@
     "reason": "Manhole cover, not venue-specific imagery",
     "at": "2026-07-25T02:46:17.289Z"
   },
-  "madrid-el-campero-madrid\u0001https://images.unsplash.com/photo-1539037116277-4db20889f2d4?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8TWFkcmlkJTIwU3BhaW58ZW58MHwwfHx8MTc4NDkyMzA2NHww&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
-    "slug": "madrid-el-campero-madrid",
-    "verdict": "MISMATCH",
-    "reason": "release check: Generic Madrid cityscape, not the specific restaurant venue",
-    "at": "2026-08-11T04:13:11.376Z"
-  },
   "madrid-museo-nacional-del-prado\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Maja_desnuda_%28museo_del_Prado%29.jpg/1920px-Maja_desnuda_%28museo_del_Prado%29.jpg": {
     "slug": "madrid-museo-nacional-del-prado",
     "verdict": "MATCH",
@@ -11325,18 +11319,6 @@
     "reason": "patrol reject: Named 'Ramen Afro Beats', not 'Chiikawa Ramen Buta'",
     "at": "2026-08-20T20:16:31.734Z"
   },
-  "tokyo-smith-wollensky-ginza\u0001https://fastly.4sqi.net/img/general/original/7339227_UCZvRS-R0xJc6tsZI9hDWSVmqh9_sbgTQyWVIQ_SOog.jpg": {
-    "slug": "tokyo-smith-wollensky-ginza",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: Isolated seafood platter shot, not showing venue setting",
-    "at": "2026-08-20T20:16:38.195Z"
-  },
-  "tokyo-smith-wollensky-ginza\u0001https://fastly.4sqi.net/img/general/original/7339227_m5d1jPOzRmBs3L0cRKViTe6tjAfuHCNPNNDa4bK59gs.jpg": {
-    "slug": "tokyo-smith-wollensky-ginza",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: Isolated plated dish, packshot-style close-up, not venue setting",
-    "at": "2026-08-20T20:16:40.707Z"
-  },
   "yokohama-babymonster-choom-world-tour-japan-yokohama-leg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Babymonster_Seattle.jpg/3840px-Babymonster_Seattle.jpg": {
     "slug": "yokohama-babymonster-choom-world-tour-japan-yokohama-leg",
     "verdict": "MISMATCH",
@@ -11553,12 +11535,6 @@
     "verdict": "MISMATCH",
     "reason": "patrol reject: Focuses on menu signboards, not the venue itself",
     "at": "2026-08-21T20:01:56.611Z"
-  },
-  "tokyo-smith-wollensky-ginza\u0001https://fastly.4sqi.net/img/general/original/7339227_hpFA9yWAnXsJB752-IJ8pixHmnWNk3QUOFqgcZAtJUU.jpg": {
-    "slug": "tokyo-smith-wollensky-ginza",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: Isolated plated food shot, no venue context shown",
-    "at": "2026-08-21T20:02:02.256Z"
   },
   "el-nido-cadlao-lagoon\u0001https://fastly.4sqi.net/img/general/original/125542906_Mo31fgMNRtyAUxSCI4bHSS2J0uwf98yz7zrJ0vhJiQ0.jpg": {
     "slug": "el-nido-cadlao-lagoon",
@@ -12472,18 +12448,6 @@
     "reason": "patrol reject: Fashion exhibit, not a restaurant venue",
     "at": "2026-08-24T20:09:06.557Z"
   },
-  "tokyo-smith-wollensky-ginza\u0001https://fastly.4sqi.net/img/general/original/505187443__grXQ5snHdMVLrySx_NXAPxXRZCfLtMgp3DFyEZaliY.jpg": {
-    "slug": "tokyo-smith-wollensky-ginza",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: Isolated dessert close-up, not venue interior/exterior",
-    "at": "2026-08-24T20:11:44.861Z"
-  },
-  "tokyo-smith-wollensky-ginza\u0001https://fastly.4sqi.net/img/general/original/7852602_v6tbrnfxZlSE8N8obg7H98ccxd-_bGQPHAF_XCMuMKk.jpg": {
-    "slug": "tokyo-smith-wollensky-ginza",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: Isolated plated food shot, not the venue itself",
-    "at": "2026-08-24T20:11:48.001Z"
-  },
   "tokyo-tyler-the-creator-chromakopia-the-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/7/71/Tyler_the_Creator_%2852163761341%29_%28cropped%29.jpg": {
     "slug": "tokyo-tyler-the-creator-chromakopia-the-world-tour",
     "verdict": "MATCH",
@@ -12765,12 +12729,6 @@
     "verdict": "MISMATCH",
     "reason": "patrol reject: Shows car interior and dashboard, not venue",
     "at": "2026-08-26T22:25:33.123Z"
-  },
-  "tokyo-smith-wollensky-ginza\u0001https://fastly.4sqi.net/img/general/original/7852602_TlZNoVCGj2GeuDWzsiNgUxrZdMnK9ZLfG9OmHkwpivw.jpg": {
-    "slug": "tokyo-smith-wollensky-ginza",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: Isolated plated dessert shot, not showing venue",
-    "at": "2026-08-26T22:41:03.133Z"
   },
   "siem-reap-royal-independence-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Royal_Independence_Gardens_Siem_Reap.jpg/3840px-Royal_Independence_Gardens_Siem_Reap.jpg": {
     "slug": "siem-reap-royal-independence-gardens",
@@ -13131,18 +13089,6 @@
     "verdict": "MISMATCH",
     "reason": "patrol reject: Chinese Shanghai Restaurant, not Soy Restaurant Tashkent",
     "at": "2026-08-28T03:55:29.509Z"
-  },
-  "tokyo-smith-wollensky-ginza\u0001https://fastly.4sqi.net/img/general/original/7395498_sZcLrYQpdapbczgza59mNaryJCvP4nYlns1qDm2lREM.jpg": {
-    "slug": "tokyo-smith-wollensky-ginza",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: Isolated studio-style food shot, no venue context shown",
-    "at": "2026-08-28T03:55:39.974Z"
-  },
-  "tokyo-smith-wollensky-ginza\u0001https://fastly.4sqi.net/img/general/original/7395498_ORXNm3aG93QupN7B6lJ4uvBtHbGRbLTENHtZ2qnS_Nc.jpg": {
-    "slug": "tokyo-smith-wollensky-ginza",
-    "verdict": "MATCH",
-    "reason": "patrol replace: Restaurant place setting with Smith & Wollensky branding vis",
-    "at": "2026-08-28T03:55:43.748Z"
   },
   "dubai-richard-marx\u0001https://upload.wikimedia.org/wikipedia/commons/d/d4/Richard_Marx_in_2024.png": {
     "slug": "dubai-richard-marx",
@@ -19868,30 +19814,6 @@
     "verdict": "MATCH",
     "reason": "patrol replace: Trendy Paris bar/restaurant, modern interior design",
     "at": "2026-09-19T21:37:27.947Z"
-  },
-  "sentosa-lau-pa-sat\u0001https://fastly.4sqi.net/img/general/original/477690_g7BE1prV0Xf6vxoggyft9xkgw-w8zehcBJwlKJOOj4s.jpg": {
-    "slug": "sentosa-lau-pa-sat",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: Sign and menu photos, not the actual venue",
-    "at": "2026-09-19T21:37:34.914Z"
-  },
-  "sentosa-lau-pa-sat\u0001https://fastly.4sqi.net/img/general/original/11923212_SBOk7HXE8_IsmoslxkpxCfwBRtAyW0Pagrx-wnT52Gs.jpg": {
-    "slug": "sentosa-lau-pa-sat",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: Wrong venue - Hainanese chicken rice stall, not Lau Pa Sat",
-    "at": "2026-09-19T21:37:37.571Z"
-  },
-  "sentosa-lau-pa-sat\u0001https://fastly.4sqi.net/img/general/original/69169598_PqJFZcNz47zGhCVTLC9wgZM36tArurAhdC54ta6Hyxk.jpg": {
-    "slug": "sentosa-lau-pa-sat",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: Photo of an informational sign/screen, not the venue",
-    "at": "2026-09-19T21:37:39.476Z"
-  },
-  "sentosa-lau-pa-sat\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Lau_Pa_Sat%2C_October_2024.jpg/3840px-Lau_Pa_Sat%2C_October_2024.jpg": {
-    "slug": "sentosa-lau-pa-sat",
-    "verdict": "MISMATCH",
-    "reason": "patrol reject: Lau Pa Sat is in downtown, not Sentosa; street/traffic focus",
-    "at": "2026-09-19T21:37:41.950Z"
   },
   "bangkok-bo-bkk\u0001https://fastly.4sqi.net/img/general/original/4173036_nLdrnGGDgG35jN-qATEP1x88RtegBn842vLqIHehghU.jpg": {
     "slug": "bangkok-bo-bkk",
