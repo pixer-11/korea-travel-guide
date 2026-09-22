@@ -69,6 +69,7 @@ const jsonLd = {
                 title={p.data.title}
                 description={p.data.description}
                 rating={p.data.place?.rating}
+                placeName={p.data.place?.name}
                 region={localizePlace(p.data.region, lang)}
                 category={p.data.category}
                 image={thumbOr(p.data.heroImage?.url)}

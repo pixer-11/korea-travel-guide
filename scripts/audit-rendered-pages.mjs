@@ -149,6 +149,10 @@ const PAST_MONTH_LABELS = (() => {
 const KICKER = /<h2\b(?:[^>"']|"[^"]*"|'[^']*')*class="kicker"(?:[^>"']|"[^"]*"|'[^']*')*>([^<]*)<\/h2>/gi;
 
 // Pages that are fragments by design, not documents.
+// A guide page, in any language. Roundups and hubs live elsewhere.
+const POST_PAGE = /^\/(?:[a-z]{2}\/)?posts\//;
+const ARTICLE_HERO = /class="article-hero\b/;
+
 const SKIP_DIRS = new Set(['embed', 'wall', '_astro', 'og', 'api']);
 
 const findings = [];
@@ -196,6 +200,16 @@ function check(page, html) {
     }
   }
 
+  // ---- rule 8: a guide opens with a hero, photo or not ----
+  // Nine guides are live with no photograph on purpose, and until 2026-09-22
+  // they opened with the title and then straight into the body — on a site
+  // where every other guide opens with a picture, that read as a page that had
+  // failed to load. They now wear a typeset plate (TypesetPlate.astro). Both
+  // shapes carry `article-hero`, so a guide page with neither means the
+  // fallback was dropped somewhere and the empty slot is back — which no unit
+  // test can see, because it only exists once the template has run.
+  if (POST_PAGE.test(page) && !ARTICLE_HERO.test(body)) record('POST-NO-HERO', page, '(사진도 표지도 없다)');
+
   if (OG_MUST_BE_REAL.test(page)) {
     const tag = html.match(OG_TAG)?.[0] ?? '';
     const url = attr(tag, 'content') ?? '';
@@ -224,6 +238,7 @@ const LABEL = {
   'OG-DEFAULT': '사진을 공유하기로 한 허브가 브랜드 기본 카드를 공유하고 있다',
   'PAST-MONTH-HEAD': '예정 이벤트 목록에 이미 지나간 달 제목이 붙어 있다',
   'MAIN-COUNT': '한 페이지에 <main> 이 둘 이상 있다',
+  'POST-NO-HERO': '가이드가 사진도 활자 표지도 없이 제목 바로 본문으로 시작한다',
 };
 
 let total = 0;

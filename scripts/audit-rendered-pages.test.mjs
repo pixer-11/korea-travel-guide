@@ -327,3 +327,34 @@ test('속성값 안의 단어는 속성이 아니다 — title 안의 src, src �
   assert.equal(r2.code, 1, r2.out);
   assert.match(r2.out, /IMG-NO-ALT/);
 });
+
+// 2026-09-22 — 사진 없이 공개한 가이드는 활자 표지로 연다. 표지가 사라지면
+// 페이지가 "제목 다음 바로 본문"으로 돌아가는데, 그건 템플릿이 돌아야만
+// 보이는 결함이라 단위 테스트로는 안 잡힌다.
+test('사진 없는 가이드가 표지 없이 나가면 잡는다', () => {
+  const root = dist({ 'posts/seoul-dallas-pizza/index.html': ok('<p>Tucked in Mullae-dong.</p>') });
+  const r = run(root);
+  rmSync(root, { recursive: true, force: true });
+  assert.equal(r.code, 1, r.out);
+  assert.match(r.out, /POST-NO-HERO/);
+});
+
+test('사진 히어로로도 활자 표지로도 통과한다 — 번역본 포함', () => {
+  const root = dist({
+    'posts/a/index.html': ok('<figure class="article-hero"><img src="/wall/a.webp" alt="A"></figure>'),
+    'ko/posts/b/index.html': ok('<figure class="article-hero article-hero--typeset"><div class="typeset typeset--hero"><strong class="typeset-name">Dallas Pizza</strong></div></figure>'),
+  });
+  const r = run(root);
+  rmSync(root, { recursive: true, force: true });
+  assert.equal(r.code, 0, r.out);
+});
+
+test('가이드가 아닌 페이지는 히어로를 요구하지 않는다', () => {
+  const root = dist({
+    'regions/seoul/index.html': ok('<p>Seoul hub.</p>'),
+    'itinerary/seoul-3-days/index.html': ok('<p>Three days.</p>'),
+  });
+  const r = run(root);
+  rmSync(root, { recursive: true, force: true });
+  assert.equal(r.code, 0, r.out);
+});

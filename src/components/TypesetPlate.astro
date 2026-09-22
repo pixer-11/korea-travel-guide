@@ -1,0 +1,35 @@
+---
+/* The cover a guide wears when it has no photograph.
+
+   Nine live guides are published photoless on purpose (small venues with no
+   free-to-use photo, 2026-09-08), and drafts waiting on a photo look the same
+   way in previews. On a site where everything else opens with a picture, the
+   empty slot read as a broken page — and in card grids it was a drawn market
+   scene that had nothing to do with the venue. So the slot is set in type
+   instead, from facts we already hold: category, the name on the sign, region,
+   rating. No invented image, no new translation strings.
+
+   `size` picks the scale: "hero" for the article opener, "card" for the
+   thumbnails (PostCard, itinerary stops, home tiles). It fills whatever box it
+   is placed in, so the layout does not move on the day a real photo lands —
+   the photo patrol is still hunting for these posts, and the plate disappears
+   the moment one does. */
+interface Props {
+  /** Small uppercase line above the name — usually the localized category. */
+  kicker?: string;
+  /** The name on the sign. Already localized by the caller. */
+  name: string;
+  /** Region, and the rating when there is one. */
+  meta?: string;
+  size?: 'hero' | 'card';
+}
+const { kicker, name, meta, size = 'card' } = Astro.props;
+---
+
+<div class:list={['typeset', `typeset--${size}`]} aria-hidden="true">
+  <div class="typeset-plate">
+    {kicker && <span class="typeset-kicker">{kicker}</span>}
+    <strong class="typeset-name">{name}</strong>
+    {meta && <span class="typeset-meta">{meta}</span>}
+  </div>
+</div>

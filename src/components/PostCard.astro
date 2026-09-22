@@ -3,6 +3,7 @@ import { isEventPast } from '../lib/eventStatus';
 import { getLangFromUrl, useTranslations } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { thumbOr } from '../lib/wall';
+import TypesetPlate from './TypesetPlate.astro';
 interface Props {
   href: string;
   title: string;
@@ -16,6 +17,9 @@ interface Props {
   region: string;
   category: string;
   image?: string;
+  /** The venue's own name, for the typeset cover a photoless guide wears
+      (2026-09-22). Falls back to the card title when a caller has none. */
+  placeName?: string;
   eventEndDate?: Date | string | null;
   /** Set on the first card of a grid: it is usually the LCP element. */
   priority?: boolean;
@@ -24,13 +28,13 @@ interface Props {
       headers (UX audit 2026-08-23). */
   dateLabel?: string;
 }
-const { href, title, description, rating, region, category, image, eventEndDate, priority = false, dateLabel } = Astro.props;
+const { href, title, description, rating, region, category, image, placeName, eventEndDate, priority = false, dateLabel } = Astro.props;
 // Cards were rendering the remote hero at full size — 1920px Wikimedia originals
 // and w=1600 Unsplash, drawn at 325 CSS px. One city roundup shipped 3.49 MB of
 // images for seven thumbnails. Every published hero already has a 640px WebP
 // (~40 KB) from build-wall.mjs; this uses it, falling back to the original when a
 // hero is newer than the last wall build.
-const src = thumbOr(image) || '/images/placeholder-market.svg';
+const src = thumbOr(image);
 // Card labels follow the page's language (cards appear on localized hubs too).
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
@@ -45,19 +49,26 @@ const ended = isEventPast({ category, eventEndDate });
   <div class="thumb">
     {/* alt uses regionLabel, not the English region: the localized label is
         right there, and the card's own visible label already uses it. */}
-    {/* A guide with no photograph shows a drawn placeholder, and describing
-        that drawing as "<the place> — <city>" tells a screen reader there is a
-        photo of the place when there is not. It is decoration: empty alt, the
-        card's own title already names the place (2026-09-14). */}
-    <img
-      src={src}
-      alt={image ? `${title} — ${regionLabel}` : ''}
-      width="600"
-      height="400"
-      loading={priority ? 'eager' : 'lazy'}
-      fetchpriority={priority ? 'high' : undefined}
-      decoding="async"
-    />
+    {/* A guide with no photograph used to show a drawn placeholder — a market
+        scene, whatever the venue actually was. Since 2026-09-22 it wears the
+        same typeset cover the article itself opens with: category, the name on
+        the sign, region, rating. Decoration either way (aria-hidden inside the
+        plate, empty alt on the drawing before it): the card's own title
+        already names the place, so describing the art as a photo of it would
+        lie to a screen reader (2026-09-14). */}
+    {src ? (
+      <img
+        src={src}
+        alt={`${title} — ${regionLabel}`}
+        width="600"
+        height="400"
+        loading={priority ? 'eager' : 'lazy'}
+        fetchpriority={priority ? 'high' : undefined}
+        decoding="async"
+      />
+    ) : (
+      <TypesetPlate name={placeName || title} />
+    )}
     {ended ? <span class="badge badge-ended">{t('card.ended')}</span> : dateLabel ? <span class="badge badge-date">{dateLabel}</span> : <span class="badge">{label}</span>}
   </div>
   <div class="card-body">

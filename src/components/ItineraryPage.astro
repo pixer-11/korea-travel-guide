@@ -22,6 +22,7 @@ import { thumbOr } from '../lib/wall';
 import { getLangFromUrl, useTranslations, localeCodes, localizePath, klookLocale, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { shortPlaceLabel } from '../lib/placeLabel.mjs';
+import TypesetPlate from './TypesetPlate.astro';
 import { formatHourRanges } from '../lib/hours.mjs';
 import { klookCityDest } from '../lib/klookCities';
 import { closedDaysOf } from '../lib/itinerary.mjs';
@@ -448,6 +449,12 @@ const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
                   data-dwell={stop.dwellMin}
                 >
                   <div class="itin-stop-thumb">
+                    {/* No photo: the typeset cover, not an empty beige box
+                        (owner report, 2026-09-22 — a stop with no hero read as
+                        a failed image load). */}
+                    {!post.data.heroImage && (
+                      <TypesetPlate name={p.name || stopLabel} />
+                    )}
                     {post.data.heroImage && (
                       /* thumbOr, not the raw hero. These render at 300×200 and were
                          pulling the 1920px Wikimedia originals — 602KB and 701KB for

@@ -1,4 +1,5 @@
 ---
+import TypesetPlate from './TypesetPlate.astro';
 import { render } from 'astro:content';
 import {
   postsInCountry, postsInRegion, cityPostsSorted,
@@ -226,6 +227,8 @@ const placeLabel = (lang === defaultLang
 const plateName = (placeLabel && placeLabel !== String(title).trim() && placeLabel.length <= 40)
   ? placeLabel
   : (placeName || placeLabel);
+
+const plateMeta = `${regionLabel}${p?.rating ? ` · ★ ${p.rating.toFixed(1)}` : ''}`;
 
 const eventLabel = (lang === defaultLang
   ? eventSchemaName(post.data.title)
@@ -730,14 +733,13 @@ const saveQuiet = perDay
         여기 쓰는 값은 전부 이미 현지화된 것이다. 사진 순찰은 이 글들을 계속 노리고 있고
         (lib/patrol-target.mjs 의 isPhotolessLive), 진짜 사진이 나타나면 이 표지는 사라진다. */}
     {!d.heroImage && (
-      <figure class="article-hero article-hero--typeset" aria-hidden="true">
-        <div class="typeset-plate">
-          <span class="typeset-kicker">{t(`cat.${d.category}` as any) || d.category.replace('-', ' ')}</span>
-          <strong class="typeset-name">{plateName}</strong>
-          <span class="typeset-meta">
-            {regionLabel}{p?.rating ? <> &middot; &#9733; {p.rating.toFixed(1)}</> : null}
-          </span>
-        </div>
+      <figure class="article-hero article-hero--typeset">
+        <TypesetPlate
+          size="hero"
+          kicker={t(`cat.${d.category}` as any) || d.category.replace('-', ' ')}
+          name={plateName}
+          meta={plateMeta}
+        />
       </figure>
     )}
 
@@ -1105,6 +1107,7 @@ const saveQuiet = perDay
                 category={r.data.category}
                 image={r.data.heroImage?.url}
                 rating={r.data.place?.rating}
+                placeName={r.data.place?.name}
                 eventEndDate={r.data.eventEndDate}
               />
             ))}

@@ -1,4 +1,5 @@
 ---
+import TypesetPlate from './TypesetPlate.astro';
 import { getCollection } from 'astro:content';
 import { quietDayGroups } from '../lib/busyness.mjs';
 import { pickFeatured } from '../lib/featuredItineraries.mjs';
@@ -290,7 +291,11 @@ const fmtEventDates = (p: any) => {
           {monthlyPicks.map((p) => (
             <a class="story" href={localizePath(`/posts/${p.id}`, lang)}>
               <div class="story-thumb">
-                <img src={tileSize(p.data.heroImage?.url ?? '')} alt={eventSchemaName(p.data.title)} loading="lazy" width="600" height="400" />
+                {p.data.heroImage ? (
+                  <img src={tileSize(p.data.heroImage.url)} alt={eventSchemaName(p.data.title)} loading="lazy" width="600" height="400" />
+                ) : (
+                  <TypesetPlate name={lang === 'en' ? eventSchemaName(p.data.title) : card.title(p.id, p.data.title)} />
+                )}
               </div>
               <span class="kicker gold">{fmtEventDates(p)}</span>
               <h3>{lang === 'en' ? eventSchemaName(p.data.title) : card.title(p.id, p.data.title)}</h3>
@@ -394,7 +399,11 @@ const fmtEventDates = (p: any) => {
           {latest.map((post) => (
             <a class="story" href={localizePath(`/posts/${post.id}`, lang)}>
               <div class="story-thumb">
-                <img src={tileSize(post.data.heroImage?.url ?? '/images/placeholder-market.svg')} alt={post.data.place?.name ?? post.data.title} loading="lazy" width="600" height="400" />
+                {post.data.heroImage ? (
+                  <img src={tileSize(post.data.heroImage.url)} alt={post.data.place?.name ?? post.data.title} loading="lazy" width="600" height="400" />
+                ) : (
+                  <TypesetPlate name={post.data.place?.name ?? card.title(post.id, post.data.title)} />
+                )}
               </div>
               <span class="kicker gold">{t(`cat.${post.data.category}` as any)}</span>
               <h3>{card.title(post.id, post.data.title)}</h3>
@@ -521,6 +530,7 @@ const fmtEventDates = (p: any) => {
               href={localizePath(`/posts/${post.id}`, lang)}
               title={card.title(post.id, post.data.title)}
               rating={post.data.place?.rating}
+              placeName={post.data.place?.name}
               region={post.data.region}
               category={post.data.category}
               image={post.data.heroImage?.url}

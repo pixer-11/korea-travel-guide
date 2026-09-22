@@ -778,15 +778,44 @@ img[data-portrait] { object-position: 50% 20%; }
    페이지가 깨진 것처럼 보인다. 없는 사진을 지어내는 대신 이미 가진 사실로
    표지를 짠다 — 장소명·지역·평점, 전부 현지화된 값이다.
    16/9 를 그대로 써서 사진이 들어오는 날 레이아웃이 튀지 않는다. */
-.article-hero--typeset { aspect-ratio: 16 / 9; display: grid; place-items: center; text-align: center;
-  background: var(--bg-tint); background-image: var(--pattern); border: 1px solid var(--line);
-  box-shadow: none; padding: 1.5rem; }
-.typeset-plate { display: grid; gap: 0.55rem; max-width: 34ch; }
-.typeset-kicker { font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
-.typeset-name { font-family: var(--font-display, inherit); font-size: clamp(1.4rem, 4.2vw, 2.1rem);
-  line-height: 1.2; color: var(--ink); font-weight: 700; }
-.typeset-meta { font-size: 0.92rem; color: var(--ink-soft); }
-@media (max-width: 520px) { .article-hero--typeset { aspect-ratio: 4 / 3; } }
+.article-hero--typeset { aspect-ratio: 16 / 9; border: 1px solid var(--line); box-shadow: none; }
+/* TypesetPlate.astro — one plate, two scales. The article opener is set large
+   enough to read as a cover (owner, 2026-09-22: the first version was too
+   timid); the card scale fits a 300x200 thumbnail. The plate fills whatever
+   box it is put in, so nothing moves on the day a real photo arrives. */
+.typeset { display: grid; place-items: center; text-align: center; width: 100%; height: 100%;
+  box-sizing: border-box; background: var(--bg-tint); background-image: var(--pattern); }
+.typeset--hero { padding: 1.5rem; }
+.typeset--card { padding: 0.7rem; }
+.typeset-plate { display: grid; gap: 0.6rem; max-width: 30ch; }
+.typeset-kicker { font-size: 0.8rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--muted); }
+.typeset-name { font-family: var(--font-display, inherit); font-size: clamp(1.9rem, 5.4vw, 3rem);
+  line-height: 1.15; color: var(--ink); font-weight: 700; overflow-wrap: anywhere; }
+.typeset-meta { font-size: 1.05rem; color: var(--ink-soft); }
+.typeset--card .typeset-plate { gap: 0.25rem; max-width: 22ch; }
+.typeset--card .typeset-kicker { font-size: 0.6rem; letter-spacing: 0.12em; }
+.typeset--card .typeset-name { font-size: 1.05rem; line-height: 1.22;
+  display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; }
+.typeset--card .typeset-meta { font-size: 0.78rem; }
+/* The card plate lands in boxes from 140x93 (an itinerary stop at 1280px) to
+   325x216 (a hub card), so it measures itself against its OWN box, not the
+   viewport — the first version used one rem size and the stop thumbnails, which
+   clip, swallowed the meta line by 25px. A box too short for the full plate
+   drops the kicker and the meta first; the name is line-clamped so no length of
+   venue name can spill past the crop. */
+.typeset--card { container-type: size; min-height: 5rem; }
+.typeset--card .typeset-name { font-size: clamp(0.9rem, 13cqw, 1.7rem); }
+@container (max-height: 130px) {
+  .typeset--card .typeset-kicker, .typeset--card .typeset-meta { display: none; }
+  /* With the kicker and meta gone the name gets the whole plate, so it is set
+     larger here than in the roomier card — the point of the cover is that the
+     venue's name is legible at a glance. */
+  .typeset--card .typeset-name { font-size: clamp(0.95rem, 15cqw, 1.3rem); }
+}
+@media (max-width: 520px) {
+  .article-hero--typeset { aspect-ratio: 4 / 3; }
+  .typeset-name { font-size: clamp(1.7rem, 7.5vw, 2.3rem); }
+}
 
 /* margin:auto is what centres an open <dialog> — the browser's own UA stylesheet
    sets it, and our `* { margin: 0 }` reset (line ~103) was silently winning, so
