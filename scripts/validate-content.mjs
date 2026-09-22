@@ -20,6 +20,8 @@ import { unsplashNum } from './lib/images.mjs';
 import { imageIdentity } from './lib/hero-url.mjs';
 import { offTopicToken } from './lib/offtopic.mjs';
 import { topicKey, FILLER } from './lib/topic-key.mjs';
+import { liveTwinOf, noteLive } from './lib/live-twin.mjs';
+import { readFrontmatter } from './lib/frontmatter-edit.mjs';
 import { keyToken } from './lib/commons.mjs';
 import { identityRejection } from './lib/photo-verdict.mjs';
 import { clampBusynessHours } from '../src/lib/hours.mjs';
@@ -671,9 +673,18 @@ export function photoVerificationProblems(posts, store, { today = new Date().toI
 async function main() {
   const files = (await readdir(DIR)).filter((f) => f.endsWith('.md'));
   const posts = [];
+  // Quarantined posts are not on the site, so every rule below skips them —
+  // which is also why a draft sitting on the same venue as a LIVE post was
+  // invisible here until the day a patrol released it and made it a live
+  // duplicate. Kept aside now, read from the same pass, no extra I/O.
+  const drafts = [];
   for (const f of files) {
-    const p = parsePost(f, await readFile(join(DIR, f), 'utf8'));
-    if (p) posts.push(p);
+    const raw = await readFile(join(DIR, f), 'utf8');
+    const p = parsePost(f, raw);
+    if (p) { posts.push(p); continue; }
+    let fm = null;
+    try { fm = readFrontmatter(raw); } catch { /* parsePost already recorded it */ }
+    if (fm?.draft === true) drafts.push({ f, fm });
   }
 
   const issues = [];
@@ -827,6 +838,25 @@ async function main() {
       (p) => (p.placeId && byId.get(p.placeId) > 1 ? '' : topicKey(p.title, p.region)),
       'DUPLICATE topic (near-identical post)',
     );
+  }
+
+  // The same question one step earlier: a QUARANTINED post whose venue is
+  // already live. It is not a duplicate today — one of the two renders no
+  // page — but it is one quarantine release away from being one, and the
+  // release paths are patrols that run unattended. scripts/lib/live-twin.mjs
+  // now refuses the release; this line is so the pair is visible before a
+  // machine has to refuse anything, because deciding WHICH of the two to
+  // keep is an editorial call, not a patrol call.
+  {
+    const live = { byPlaceId: new Map(), byTopic: new Map() };
+    for (const p of posts) {
+      noteLive(live, p.f.replace(/[.]md$/, ''), { place: { id: p.placeId }, title: p.title, region: p.region });
+    }
+    for (const d of drafts) {
+      const slug = d.f.replace(/[.]md$/, '');
+      const twin = liveTwinOf(slug, d.fm, live);
+      if (twin) issues.push(`QUARANTINED TWIN: ${d.f} — ${twin}.md is live and covers the same venue`);
+    }
   }
 
   // Essentials completeness — each non-draft country guide must carry all 6 H2

@@ -42,6 +42,7 @@ import { verifyHeroImage, auditHeroImage } from './lib/vision-check.mjs';
 import { hoursProblems } from './audit-hours-claims.mjs';
 import { isPatrolTarget, isPhotolessLive, NON_PHOTO_HOLD } from './lib/patrol-target.mjs';
 import { twinIndex } from './lib/live-event-twins.mjs';
+import { liveTwinIndex, liveTwinOf, noteLive } from './lib/live-twin.mjs';
 import { judgeCandidate, loadWorld } from './lib/commons-identity.mjs';
 import { identityRejection } from './lib/photo-verdict.mjs';
 import { imageIdentity, isUsedImage, markUsedImage, unmarkUsedImage, heroKeeper } from './lib/hero-url.mjs';
@@ -151,6 +152,9 @@ const files = orderPhotoQueue(rawFiles, Object.fromEntries(
 // this path never asked the question release-photoless-events has been asking
 // since 08-16. Same index, same rule, one file: lib/live-event-twins.mjs.
 const liveEvents = twinIndex();
+// The same question for everything that is not an event: is a post covering
+// this venue already live? Built once here, kept current by noteLive below.
+const LIVE_TWINS = liveTwinIndex();
 // One photo, one live page. `used` stops a NEW pick from landing on a photo
 // another post wears — but a post whose CURRENT hero is already worn elsewhere
 // was never a target here: vision approved the (correct) photo and the "keep
@@ -659,7 +663,14 @@ for (const f of files) {
     // for one show. The photo fix still lands (the post keeps the better hero
     // for whoever resolves the pair), but the draft flag stays, now with the
     // reason recorded so no other path has to work it out again.
-    const twinLive = wasDraft && data.category === 'event' && liveEvents.alreadyLive(data);
+    const eventTwin = wasDraft && data.category === 'event' && liveEvents.alreadyLive(data);
+    // Venues had no such check at all — the anchor rule above is event-only.
+    // On 2026-09-22 four quarantined venue posts were one release away from
+    // standing beside their own twin (two on a shared place.id, two placeless
+    // and matched by title+region). A better photo must not be what decides
+    // which of two pages for one venue the site publishes.
+    const venueTwin = wasDraft && !eventTwin ? liveTwinOf(slug, data, LIVE_TWINS) : null;
+    const twinLive = Boolean(eventTwin || venueTwin);
     if (twinLive) data.heldReason = 'duplicate';
     // The refresh drafts a post whose venue stopped being OPERATIONAL, and it
     // writes no heldReason — so to the test above a closed shop looked exactly
@@ -679,6 +690,7 @@ for (const f of files) {
     const decided = wasDraft && Boolean(data.heldFinal);
     if (wasDraft && !heldByGate && !twinLive && !closed && !decided) {
       delete data.draft;
+      noteLive(LIVE_TWINS, slug, data); // now live — the next draft must see it
       // A photo-class hold (wrong-venue-photo etc.) IS lifted by a verified
       // new hero — clear its marker too, or it lingers as a false alarm.
       if (data.heldReason) delete data.heldReason;
@@ -693,7 +705,7 @@ for (const f of files) {
     }
     if (heldByGate) console.log(`   ${slug}: hero replaced, but the post stays held (heldReason: ${data.heldReason})`);
     if (decided) console.log(`   ${slug}: hero replaced, but the post stays held — heldFinal records a decision`);
-    if (twinLive) console.log(`   ${slug}: hero replaced, but the post stays held — an event already live covers the same show`);
+    if (twinLive) console.log(`   ${slug}: hero replaced, but the post stays held — ${venueTwin ? `${venueTwin} already covers this venue` : 'an event already live covers the same show'}`);
     await writeFile(path, out, 'utf8');
     markUsedImage(used, cand.url);
     fixed++;

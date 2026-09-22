@@ -93,3 +93,50 @@ test('repeat-collapsing keeps different venues in one city apart', () => {
     topicKey('Marina Bay Street Circuit: Travel Guide', 'Marina Bay'),
   );
 });
+
+// 2026-09-22: the same colonial house, written twice — once with its three
+// tenant businesses spelled out in brackets. Eight bracketed tokens joined
+// the sort and the two titles keyed nowhere near each other, so the draft sat
+// one quarantine-release away from standing next to its own twin.
+test('a parenthetical alias does not change the key', () => {
+  assert.equal(
+    topicKey('House of Tan Yeok Nee: Singapore Travel Guide', 'Singapore'),
+    topicKey('House of Tan Yeok Nee (Loca Niru, Bar Kap & Jing Studio): Singapore Travel Guide', 'Singapore'),
+  );
+});
+
+// The brackets are dropped, not treated as invisible: two venues that differ
+// ONLY outside them stay apart, or a chain's branches would all be one post.
+test('venues that differ outside the brackets stay apart', () => {
+  assert.notEqual(
+    topicKey('Blue Bottle Coffee (Shibuya): Tokyo Travel Guide', 'Tokyo'),
+    topicKey('Fuglen Coffee (Shibuya): Tokyo Travel Guide', 'Tokyo'),
+  );
+});
+
+// 2026-09-22, caught by the new quarantined-twin report on its first run: the
+// key stripped every non-ASCII character, so a Vietnamese name came apart into
+// fragments under three letters and NOTHING of it survived. What was left was
+// the region — and two unrelated Da Nang restaurants, a kilometre and two
+// Google place ids apart, keyed identically.
+test('Vietnamese names survive as words, and different ones stay different', () => {
+  const bep = topicKey('Bếp Cuốn Đà Nẵng: Where to Eat in Da Nang', 'Da Nang');
+  const an = topicKey('Ăn Thôi: Where to Eat in Da Nang', 'Da Nang');
+  assert.match(bep, /bep/);
+  assert.notEqual(bep, an);
+});
+
+test('the same diacritic name spelled bare collapses to one key', () => {
+  assert.equal(
+    topicKey('Bếp Cuốn Đà Nẵng: Where to Eat in Da Nang', 'Da Nang'),
+    topicKey('Bep Cuon Da Nang: Where to Eat in Da Nang', 'Da Nang'),
+  );
+});
+
+// A name in a script this key cannot read leaves nothing behind. A key of just
+// the region would mean "same city", which is not a duplicate — it is the
+// whole city. Callers read an empty key as "cannot judge".
+test('a name that leaves no readable word yields NO key', () => {
+  assert.equal(topicKey('浅草寺: Where to Eat in Tokyo', 'Tokyo'), '');
+  assert.equal(topicKey('서울숲: Where to Eat in Seoul', 'Seoul'), '');
+});

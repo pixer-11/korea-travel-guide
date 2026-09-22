@@ -40,6 +40,7 @@ import { join } from 'node:path';
 import matter from 'gray-matter';
 import yaml from 'js-yaml';
 import { GIVE_UP_AFTER } from './lib/photo-queue-order.mjs';
+import { liveTwinIndex, liveTwinOf, noteLive } from './lib/live-twin.mjs';
 
 const DIR = 'src/content/posts';
 const APPLY = process.argv.includes('--apply');
@@ -58,6 +59,11 @@ const retry = existsSync('data/photo-retry.json')
 
 const picked = [];
 const why = [];
+// Earning impressions from quarantine is a reason to publish a post, not a
+// reason to publish the site a SECOND page for one venue. The heldReason
+// check below catches a hold someone wrote down ('duplicate'); this catches
+// the ones nobody has written down yet (2026-09-22).
+const LIVE_TWINS = liveTwinIndex(DIR);
 const unreadable = [];
 
 for (const f of readdirSync(DIR).filter((f) => f.endsWith('.md'))) {
@@ -84,6 +90,9 @@ for (const f of readdirSync(DIR).filter((f) => f.endsWith('.md'))) {
   // A stated hold is a decision someone made for a reason that is not the
   // photo — cancelled, duplicate, wrong region. Never overridden here.
   if (fm.data?.heldReason) continue;
+
+  const liveTwin = liveTwinOf(slug, fm.data, LIVE_TWINS);
+  if (liveTwin) { why.push(`${slug}: ${liveTwin} already covers this venue`); continue; }
 
   const p = perf[slug];
   if (!p) continue;
@@ -193,6 +202,7 @@ for (const r of picked) {
     continue;
   }
   writeFileSync(r.file, out, 'utf8');
+  noteLive(LIVE_TWINS, r.slug, r.fm.data); // live now — the next candidate must see it
   console.log(`  ✅ ${r.slug} — hero removed, published`);
   done++;
 }

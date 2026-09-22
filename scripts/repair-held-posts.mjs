@@ -21,7 +21,8 @@
 //
 //   node scripts/repair-held-posts.mjs           (used by publish.yml, after the gate)
 import { readFileSync, writeFileSync, readdirSync } from 'fs';
-import { editFrontmatter, DELETE } from './lib/frontmatter-edit.mjs';
+import { editFrontmatter, readFrontmatter, DELETE } from './lib/frontmatter-edit.mjs';
+import { liveTwinIndex, liveTwinOf, noteLive } from './lib/live-twin.mjs';
 import { join } from 'path';
 import { execSync } from 'child_process';
 
@@ -171,9 +172,20 @@ const recheck = (reason) => {
 
 const repaired = [];
 const elsewhere = [];
+// 고친 결함은 발행 허가가 아니다. 같은 장소를 다룬 글이 이미 공개 중이면 이 글을
+// 되살리는 순간 한 가게에 두 페이지가 된다 — 2026-09-22 에 네 편이 그 한 걸음
+// 앞에 서 있었다. 발행 게이트가 쓰는 두 열쇠(place.id, 제목+지역)를 그대로 쓴다.
+const LIVE_TWINS = liveTwinIndex(DIR);
+const twinned = [];
 for (const slug of before) {
   const p = join(DIR, `${slug}.md`);
   const raw = readFileSync(p, 'utf8');
+  const liveTwin = liveTwinOf(slug, readFrontmatter(raw), LIVE_TWINS);
+  if (liveTwin) {
+    twinned.push(`${slug} — ${liveTwin}`);
+    console.log(`  ✗ ${slug} — 같은 장소의 글 ${liveTwin} 이 이미 공개 중, 격리 유지`);
+    continue;
+  }
   // A post the hours audit flagged but that carries no marker (legacy hold)
   // is judged on hours alone, as before.
   const reasons = reasonsOf(raw);
@@ -199,6 +211,7 @@ for (const slug of before) {
     continue;
   }
   writeFileSync(p, next);
+  noteLive(LIVE_TWINS, slug, readFrontmatter(next)); // 이제 공개 — 다음 초안이 봐야 한다
   repaired.push(slug);
   console.log(`  ✓ ${slug} — 수리 완료(${toClear.join('+')} 전부 통과), 재발행`);
 }
@@ -209,6 +222,12 @@ if (repaired.length) {
   const targets = repaired.flatMap((s) => ['ko', 'ja', 'es', 'zh'].map((l) => `${l}/${s}`)).join(',');
   run(`node scripts/translate-posts.mjs --force --only=${targets}`);
   console.log(`번역 4개 언어 갱신: ${repaired.length}편`);
+}
+
+if (twinned.length) {
+  console.log(`
+같은 장소의 글이 이미 공개 중이라 격리를 유지한 ${twinned.length}편 — 어느 쪽을 남길지는 편집 판단이다:`);
+  for (const t of twinned) console.log(`  · ${t}`);
 }
 
 if (elsewhere.length) {

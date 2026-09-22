@@ -28,12 +28,17 @@ const FLAG_CLOSED = `node -e "console.log(\\\\"NON-OPERATIONAL-VENUE: fixture.md
 // 스크립트 사본을 임시 저장소(빈 posts 폴더 + fixture 1편)에서 돌린다. 진짜
 // 검사기·수리기·번역기는 전부 가짜 명령으로 바꾼다 — 작은따옴표는 쓰지 않는다
 // (스크립트의 명령 문자열이 작은따옴표라 사본이 SyntaxError 로 죽는다).
-function runWith({ heldReason, region = NOOP, hours = NOOP, closed = NOOP }) {
+function runWith({ heldReason, region = NOOP, hours = NOOP, closed = NOOP, liveTwin = false }) {
   const root = mkdtempSync(join(tmpdir(), 'repair-held-'));
   const dir = join(root, 'src', 'content', 'posts');
   mkdirSync(dir, { recursive: true });
   const fixture = join(dir, 'fixture.md');
-  writeFileSync(fixture, `---\ndraft: true\nheldReason: ${heldReason}\ntitle: X\n---\nbody\n`, 'utf8');
+  writeFileSync(fixture, `---\ndraft: true\nheldReason: ${heldReason}\ntitle: Kissa Sakaiki\nregion: Tokyo\n---\nbody\n`, 'utf8');
+  // 같은 장소를 이미 다루고 있는 공개글. 이게 있으면 결함이 다 고쳐져도
+  // 해제하면 안 된다 — 한 가게에 두 페이지가 되기 때문이다.
+  if (liveTwin) {
+    writeFileSync(join(dir, 'twin.md'), `---\ntitle: Kissa Sakaiki\nregion: Tokyo\n---\nbody\n`, 'utf8');
+  }
   try {
     let src = readFileSync(SCRIPT, 'utf8');
     const swap = (from, to) => {
@@ -47,6 +52,8 @@ function runWith({ heldReason, region = NOOP, hours = NOOP, closed = NOOP }) {
     // 경로로 가리킨다 — 그래야 그 모듈의 node_modules 해석도 함께 산다.
     swap("from './lib/frontmatter-edit.mjs'",
       `from ${JSON.stringify(pathToFileURL(join(process.cwd(), 'scripts', 'lib', 'frontmatter-edit.mjs')).href)}`);
+    swap("from './lib/live-twin.mjs'",
+      `from ${JSON.stringify(pathToFileURL(join(process.cwd(), 'scripts', 'lib', 'live-twin.mjs')).href)}`);
     src = src.replace(/node scripts\/fix-hours-claims\.mjs[^`']*/g, NOOP);
     src = src.replace(/node scripts\/translate-posts\.mjs[^`']*/g, NOOP);
     const p = join(root, 'repair.mjs');
@@ -91,6 +98,20 @@ test('검사기가 결과 없이 죽으면 통과가 아니다 (fail closed)', (
   const r = runWith({ heldReason: 'hours+wrong-region', region: CRASH });
   stillHeld(r, 'hours+wrong-region');
   assert.match(r.out, /wrong-region 검사기가 결과 없이 죽음/);
+});
+
+// 2026-09-22 신설. 차단기는 양쪽을 다 재야 한다: 아래 두 테스트가 "막는다" 와
+// "정상까지 막진 않는다" 를 한 쌍으로 본다.
+test('결함이 다 고쳐져도 같은 장소의 공개글이 있으면 해제하지 않는다', () => {
+  const r = runWith({ heldReason: 'hours+wrong-region', liveTwin: true });
+  assert.match(r.file, /^draft: true$/m, `해제됨:\n${r.out}`);
+  assert.match(r.out, /이미 공개 중/);
+});
+
+test('같은 장소의 공개글이 없으면 평소대로 해제한다', () => {
+  const r = runWith({ heldReason: 'hours+wrong-region', liveTwin: false });
+  assert.match(r.file, /^draft: false$/m, `해제 안 됨:\n${r.out}`);
+  assert.doesNotMatch(r.out, /이미 공개 중/);
 });
 
 test('두 사유가 모두 풀리면 해제한다', () => {
