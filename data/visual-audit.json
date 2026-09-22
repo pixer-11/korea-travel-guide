@@ -16725,8 +16725,8 @@
   "little-india-former-house-of-tan-teng-niah\u0001https://fastly.4sqi.net/img/general/original/58563680_9ZCugZu4LqvzpKjyZGIn8k1lQBv17Sjro6AqDSH0VXY.jpg": {
     "slug": "little-india-former-house-of-tan-teng-niah",
     "verdict": "MATCH",
-    "reason": "patrol replace: Distinctive colorful heritage building in Little India, Sing",
-    "at": "2026-09-20T21:45:04.332Z"
+    "reason": "patrol replace: Colorful heritage building, Little India Singapore architect",
+    "at": "2026-09-22T22:22:34.329Z"
   },
   "seoul-2026-coupang-play-series-manchester-city-vs-atletico-madrid\u0001https://upload.wikimedia.org/wikipedia/commons/c/c4/The_Tallest_Man_on_Earth-8_%2828937100811%29.jpg": {
     "slug": "seoul-2026-coupang-play-series-manchester-city-vs-atletico-madrid",
@@ -19463,20 +19463,20 @@
   "tokyo-the-kura\u0001https://live.staticflickr.com/44/138262874_720f18db21_k.jpg": {
     "slug": "tokyo-the-kura",
     "verdict": "MISMATCH",
-    "reason": "patrol reject: Just a window/facade fragment, not representative venue view",
-    "at": "2026-09-21T22:46:39.822Z"
+    "reason": "patrol reject: Isolated architectural detail, not representative venue view",
+    "at": "2026-09-22T22:24:56.800Z"
   },
   "tokyo-the-kura\u0001https://live.staticflickr.com/51/138267530_ab1a874ed4_k.jpg": {
     "slug": "tokyo-the-kura",
     "verdict": "MISMATCH",
-    "reason": "patrol reject: Just a lantern fixture fragment, not representative venue view",
-    "at": "2026-09-21T22:46:41.806Z"
+    "reason": "patrol reject: Incidental fragment: lamp and wall, not representative venue view",
+    "at": "2026-09-22T22:24:59.016Z"
   },
   "tokyo-the-kura\u0001https://live.staticflickr.com/55/138267469_42ed6054f3_k.jpg": {
     "slug": "tokyo-the-kura",
     "verdict": "MISMATCH",
-    "reason": "patrol reject: audit: Historic building facade, not a restaurant interior/food",
-    "at": "2026-09-21T22:46:45.354Z"
+    "reason": "patrol reject: audit: Historic building, not trendy Tokyo venue",
+    "at": "2026-09-22T22:25:02.155Z"
   },
   "tokyo-the-kura\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kura_River_in_the_central_part_of_Tbilisi%2C_2007-09-28.jpg/3840px-Kura_River_in_the_central_part_of_Tbilisi%2C_2007-09-28.jpg": {
     "slug": "tokyo-the-kura",
@@ -19681,7 +19681,7 @@
     "verdict": "MISMATCH",
     "reason": "hero is only 636px wide — unusable as a banner",
     "reasonKo": "사진이 636px로 너무 작음",
-    "at": "2026-09-21T22:47:02.466Z"
+    "at": "2026-09-22T22:25:21.956Z"
   },
   "los-angeles-lielle\u0001https://fastly.4sqi.net/img/general/original/127562934_WxrarXmKAs43vyk_CR_tf8nSBvZFcLtccGQTbC1BW_s.jpg": {
     "slug": "los-angeles-lielle",
@@ -20394,9 +20394,10 @@
   },
   "dubai-books-kinokuniya-dubai\u0001https://upload.wikimedia.org/wikipedia/commons/5/5c/Massive_Kinokuniya_bookstore_in_Dubai.jpg": {
     "slug": "dubai-books-kinokuniya-dubai",
-    "verdict": "MATCH",
-    "reason": "publish gate: Bookstore interior with genre signage, plausible for Kinokuniya Dubai",
-    "at": "2026-09-22T07:40:26.833Z"
+    "verdict": "MISMATCH",
+    "reason": "hero is only 612px wide — unusable as a banner",
+    "reasonKo": "사진이 612px로 너무 작음",
+    "at": "2026-09-22T22:25:21.957Z"
   },
   "daegu-seomun-market\u0001https://upload.wikimedia.org/wikipedia/commons/f/fd/10%EA%B2%BD_%EC%84%9C%EB%AC%B8%EC%8B%9C%EC%9E%A5.jpg": {
     "slug": "daegu-seomun-market",
@@ -20436,9 +20437,10 @@
   },
   "ayutthaya-chao-phrom-market\u0001https://upload.wikimedia.org/wikipedia/commons/e/ed/%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%A1_%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%A2%E0%B8%B8%E0%B8%98%E0%B8%A2%E0%B8%B2_-_panoramio.jpg": {
     "slug": "ayutthaya-chao-phrom-market",
-    "verdict": "MATCH",
-    "reason": "publish gate: Street view of market storefronts, plausible for Chao Phrom Market",
-    "at": "2026-09-22T07:48:00.581Z"
+    "verdict": "MISMATCH",
+    "reason": "hero is only 600px wide — unusable as a banner",
+    "reasonKo": "사진이 600px로 너무 작음",
+    "at": "2026-09-22T22:25:21.951Z"
   },
   "hiroshima-hondori-shopping-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hiroshima-Hondori_Shopping_Street_at_night.jpg/3840px-Hiroshima-Hondori_Shopping_Street_at_night.jpg": {
     "slug": "hiroshima-hondori-shopping-street",
@@ -20469,5 +20471,17 @@
     "verdict": "MATCH",
     "reason": "publish gate: Chinatown Singapore street market scene with crowds and signage",
     "at": "2026-09-22T07:52:28.080Z"
+  },
+  "sentosa-the-coach-coffee-shop-resorts-world-sentosa-weave\u0001https://fastly.4sqi.net/img/general/original/1205674_OQu8JGthYnx44r1_Nc-8s7bktAvlwBWSki-NczBwL8E.jpg": {
+    "slug": "sentosa-the-coach-coffee-shop-resorts-world-sentosa-weave",
+    "verdict": "MISMATCH",
+    "reason": "patrol reject: Movie promo banner, unrelated to coffee shop venue",
+    "at": "2026-09-22T22:24:39.098Z"
+  },
+  "taichung-national-taiwan-museum-of-fine-arts\u0001https://fastly.4sqi.net/img/general/original/187671373_pKi6hEaBedrXJ8K489KZomnXYcLEDXQgKFuv2hzg4Mw.jpg": {
+    "slug": "taichung-national-taiwan-museum-of-fine-arts",
+    "verdict": "MATCH",
+    "reason": "width upgrade: Interior view of museum with escalator and exhibition banner",
+    "at": "2026-09-22T22:25:53.489Z"
   }
 }

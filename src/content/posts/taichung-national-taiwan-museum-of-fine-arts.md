@@ -1,40 +1,39 @@
 ---
-title: "National Taiwan Museum of Fine Arts: Taichung Travel Guide"
-description: "The National Taiwan Museum of Fine Arts sits on Wuquan W Rd in Taichung's West District, open Tuesday–Sunday (closed Monday), with free admission to the permanent galleries. 4.6★ (25,759 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Taichung"
-category: "attraction"
-pubDate: "2026-08-18T09:08:32.212Z"
+title: 'National Taiwan Museum of Fine Arts: Taichung Travel Guide'
+description: The National Taiwan Museum of Fine Arts sits on Wuquan W Rd in Taichung's West District, open Tuesday–Sunday (closed Monday), with free admission to the permanent galleries. 4.6★ (25,759 reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: Taichung
+category: attraction
+pubDate: '2026-08-18T09:08:32.212Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/b/bd/NTMOFA6.jpg"
-  credit: "Photo: Jeanette / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:NTMOFA6.jpg"
+  url: https://fastly.4sqi.net/img/general/original/187671373_pKi6hEaBedrXJ8K489KZomnXYcLEDXQgKFuv2hzg4Mw.jpg
+  credit: 'Photo: Foursquare user content (National Taiwan Museum of Fine Arts (國立台灣美術館))'
+  license: foursquare
+  source: https://foursquare.com/v/4bdbce8363c5c9b64bbd2968
   focus:
-    x: 40
-    y: 55
-gallery: []
+    x: 50
+    'y': 50
 place:
-  id: "ChIJyVHkNqY9aTQRDilsyqDVfbg"
-  name: "National Taiwan Museum of Fine Arts"
-  address: "No. 2號, Section 1, Wuquan W Rd, Gongmin Village, West District, Taichung City, Taiwan 403"
+  id: ChIJyVHkNqY9aTQRDilsyqDVfbg
+  name: National Taiwan Museum of Fine Arts
+  address: No. 2號, Section 1, Wuquan W Rd, Gongmin Village, West District, Taichung City, Taiwan 403
   rating: 4.6
   userRatingsTotal: 25759
-  googleMapsUrl: "https://maps.google.com/?cid=13294016561635141902&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=13294016561635141902&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 24.1411864
   lng: 120.6633131
-  phone: "+886 4 2372 3552"
+  phone: +886 4 2372 3552
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-18
+    updated: 2026-08-18T00:00:00.000Z
     weekdayBusy:
       - 14
       - 15
@@ -47,22 +46,22 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_67626656447179736c6944525154613959714e6b4856794a496843"
+    venueId: ven_67626656447179736c6944525154613959714e6b4856794a496843
 tags:
-  - "taichung"
-  - "museum"
-quickAnswer: "The National Taiwan Museum of Fine Arts sits on Wuquan W Rd in Taichung's West District, open Tuesday–Sunday (closed Monday), with free admission to the permanent galleries. Go on a weekday morning if you can — weekends from 10am to 6pm are the busiest stretch. Budget two to three hours for the galleries plus the outdoor sculpture park."
+  - taichung
+  - museum
+quickAnswer: The National Taiwan Museum of Fine Arts sits on Wuquan W Rd in Taichung's West District, open Tuesday–Sunday (closed Monday), with free admission to the permanent galleries. Go on a weekday morning if you can — weekends from 10am to 6pm are the busiest stretch. Budget two to three hours for the galleries plus the outdoor sculpture park.
 faq:
-  - q: "Is the National Taiwan Museum of Fine Arts free to enter?"
-    a: "Yes, the permanent collection is free. Some special ticketed exhibitions may charge a separate admission — check entrance signage on arrival."
-  - q: "What are the opening hours?"
-    a: "The museum is closed Mondays. Tuesday to Friday it's open 9am–5pm, and on Saturday and Sunday it stays open later, from 9am to 6pm."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Weekday mornings right at the 9am opening are calmest. Weekends from 10am to 6pm are the busiest stretch, so avoid that window if you can."
-  - q: "How do I get there without the MRT?"
-    a: "Taichung has no MRT yet, so take a bus, taxi, or rideshare to Wuquan W Road in the West District, or walk in from the nearby Calligraphy Greenway area if you're staying downtown."
-  - q: "How long should I plan to spend there?"
-    a: "Budget two to three hours: about ninety minutes for the permanent galleries and special exhibitions, plus time to walk the outdoor sculpture park."
+  - q: Is the National Taiwan Museum of Fine Arts free to enter?
+    a: Yes, the permanent collection is free. Some special ticketed exhibitions may charge a separate admission — check entrance signage on arrival.
+  - q: What are the opening hours?
+    a: The museum is closed Mondays. Tuesday to Friday it's open 9am–5pm, and on Saturday and Sunday it stays open later, from 9am to 6pm.
+  - q: When is the best time to visit to avoid crowds?
+    a: Weekday mornings right at the 9am opening are calmest. Weekends from 10am to 6pm are the busiest stretch, so avoid that window if you can.
+  - q: How do I get there without the MRT?
+    a: Taichung has no MRT yet, so take a bus, taxi, or rideshare to Wuquan W Road in the West District, or walk in from the nearby Calligraphy Greenway area if you're staying downtown.
+  - q: How long should I plan to spend there?
+    a: 'Budget two to three hours: about ninety minutes for the permanent galleries and special exhibitions, plus time to walk the outdoor sculpture park.'
 aiGenerated: true
 draft: false
 ---

@@ -1,43 +1,43 @@
 ---
-title: "Chao Phrom Market: Ayutthaya Travel Guide (4.2★)"
-description: "Chao Phrom Market sits on Thanon Uthong on the east bank of the Ayutthaya \"island,\" a few minutes' walk from the ferry pier and the backpacker guesthouse strip. 4.2★ (4,710 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Ayutthaya"
-category: "hidden-gem"
-pubDate: "2026-09-22T07:48:10.568Z"
+title: 'Chao Phrom Market: Ayutthaya Travel Guide (4.2★)'
+description: Chao Phrom Market sits on Thanon Uthong on the east bank of the Ayutthaya "island," a few minutes' walk from the ferry pier and the backpacker guesthouse strip. 4.2★ (4,710 reviews) — what visitors say, hours, and tips.
+country: Thailand
+region: Ayutthaya
+category: hidden-gem
+pubDate: '2026-09-22T07:48:10.568Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/e/ed/%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%A1_%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%A2%E0%B8%B8%E0%B8%98%E0%B8%A2%E0%B8%B2_-_panoramio.jpg"
-  credit: "Photo: obarber in thailand / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%A1_%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%A2%E0%B8%B8%E0%B8%98%E0%B8%A2%E0%B8%B2_-_panoramio.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/e/ed/%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%A1_%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%A2%E0%B8%B8%E0%B8%98%E0%B8%A2%E0%B8%B2_-_panoramio.jpg
+  credit: 'Photo: obarber in thailand / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%A1_%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%A2%E0%B8%B8%E0%B8%98%E0%B8%A2%E0%B8%B2_-_panoramio.jpg
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Chao_Phrom_Market%2C_Ayutthaya%2C_Thailand_%285257580772%29.jpg/3840px-Chao_Phrom_Market%2C_Ayutthaya%2C_Thailand_%285257580772%29.jpg"
-    credit: "Photo: yeowatzup / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Chao_Phrom_Market,_Ayutthaya,_Thailand_(5257580772).jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Chao_Phrom_Market%2C_Ayutthaya%2C_Thailand_%285257580772%29.jpg/3840px-Chao_Phrom_Market%2C_Ayutthaya%2C_Thailand_%285257580772%29.jpg
+    credit: 'Photo: yeowatzup / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Chao_Phrom_Market,_Ayutthaya,_Thailand_(5257580772).jpg
 place:
-  id: "ChIJCboAx7N14jARP11Fjq7sFNM"
-  name: "Chao Phrom Market"
-  address: "3 9 Thanon Uthong, Tambon Ho Rattanachai, Amphoe Phra Nakhon Si Ayutthaya, Chang Wat Phra Nakhon Si Ayutthaya 13000, Thailand"
+  id: ChIJCboAx7N14jARP11Fjq7sFNM
+  name: Chao Phrom Market
+  address: 3 9 Thanon Uthong, Tambon Ho Rattanachai, Amphoe Phra Nakhon Si Ayutthaya, Chang Wat Phra Nakhon Si Ayutthaya 13000, Thailand
   rating: 4.2
   userRatingsTotal: 4710
-  googleMapsUrl: "https://maps.google.com/?cid=15210042075992382783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=15210042075992382783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 14.358806500000002
   lng: 100.57947159999999
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 3:00 AM – 6:00 PM"
-    - "Wednesday: 3:00 AM – 6:00 PM"
-    - "Thursday: 3:00 AM – 6:00 PM"
-    - "Friday: 3:00 AM – 6:00 PM"
-    - "Saturday: 3:00 AM – 6:00 PM"
-    - "Sunday: 3:00 AM – 6:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 3:00 AM – 6:00 PM'
+    - 'Wednesday: 3:00 AM – 6:00 PM'
+    - 'Thursday: 3:00 AM – 6:00 PM'
+    - 'Friday: 3:00 AM – 6:00 PM'
+    - 'Saturday: 3:00 AM – 6:00 PM'
+    - 'Sunday: 3:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-09-22
+    updated: 2026-09-22T00:00:00.000Z
     weekdayBusy:
       - 7
       - 8
@@ -49,24 +49,24 @@ place:
       - 9
       - 10
       - 11
-    venueId: "ven_4d4e467337716a4631315052416a34314e3778416f62434a496843"
+    venueId: ven_4d4e467337716a4631315052416a34314e3778416f62434a496843
 tags:
-  - "ayutthaya"
-  - "local market"
-quickAnswer: "Chao Phrom Market sits on Thanon Uthong on the east bank of the Ayutthaya \"island,\" a few minutes' walk from the ferry pier and the backpacker guesthouse strip. It runs every day except Monday from 3am to 6pm, and it's busiest between 7am and noon on weekends, so an afternoon or an early weekday visit is calmer. Come for the wet market stalls, the cheap cooked-food alley, and a cross-section of everyday Ayutthaya life rather than a curated tourist experience."
+  - ayutthaya
+  - local market
+quickAnswer: Chao Phrom Market sits on Thanon Uthong on the east bank of the Ayutthaya "island," a few minutes' walk from the ferry pier and the backpacker guesthouse strip. It runs every day except Monday from 3am to 6pm, and it's busiest between 7am and noon on weekends, so an afternoon or an early weekday visit is calmer. Come for the wet market stalls, the cheap cooked-food alley, and a cross-section of everyday Ayutthaya life rather than a curated tourist experience.
 faq:
-  - q: "What are the opening hours for Chao Phrom Market?"
-    a: "It runs Tuesday through Sunday from 3am to 6pm and is closed all day Monday. The early opening is mainly for wholesale trade; regular browsing and eating is best from morning onward."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Weekend mornings between 7am and noon are the busiest stretch, so aim for a weekday visit or come in the early-to-mid afternoon before the 6pm close."
-  - q: "How do I get to Chao Phrom Market from central Ayutthaya?"
-    a: "It's on Thanon Uthong near the Chao Phrom ferry pier, about a 10-15 minute walk from the guesthouse area around Naresuan Road, or a short tuk-tuk ride from anywhere on the historic island."
-  - q: "Is English spoken at the market?"
-    a: "Not widely. Most vendors deal mainly with local shoppers, so pointing at items, using simple numbers, and carrying small cash notes gets you further than trying to converse."
-  - q: "What should I eat there?"
-    a: "Head to the prepared-food section for khanom jeen with curry sauce, grilled or fried fish sold by the piece, peeled fresh fruit, and coconut-based Thai desserts, best eaten standing or on a stool rather than at a sit-down table."
+  - q: What are the opening hours for Chao Phrom Market?
+    a: It runs Tuesday through Sunday from 3am to 6pm and is closed all day Monday. The early opening is mainly for wholesale trade; regular browsing and eating is best from morning onward.
+  - q: When is the best time to visit to avoid crowds?
+    a: Weekend mornings between 7am and noon are the busiest stretch, so aim for a weekday visit or come in the early-to-mid afternoon before the 6pm close.
+  - q: How do I get to Chao Phrom Market from central Ayutthaya?
+    a: It's on Thanon Uthong near the Chao Phrom ferry pier, about a 10-15 minute walk from the guesthouse area around Naresuan Road, or a short tuk-tuk ride from anywhere on the historic island.
+  - q: Is English spoken at the market?
+    a: Not widely. Most vendors deal mainly with local shoppers, so pointing at items, using simple numbers, and carrying small cash notes gets you further than trying to converse.
+  - q: What should I eat there?
+    a: Head to the prepared-food section for khanom jeen with curry sauce, grilled or fried fish sold by the piece, peeled fresh fruit, and coconut-based Thai desserts, best eaten standing or on a stool rather than at a sit-down table.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## What you're actually walking into
