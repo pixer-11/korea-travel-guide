@@ -38,12 +38,12 @@
    "hits": 0
   },
   "old quarter": {
-   "attempts": 23,
-   "hits": 4
+   "attempts": 24,
+   "hits": 5
   },
   "local market": {
-   "attempts": 58,
-   "hits": 20
+   "attempts": 59,
+   "hits": 21
   },
   "bookshop": {
    "attempts": 18,
@@ -176,7 +176,19 @@
   "Phare Cambodian Circus": {
    "attempts": 1,
    "hits": 0
+  },
+  "Toyosu Market": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Tokyo Skytree": {
+   "attempts": 1,
+   "hits": 1
+  },
+  "Ueno Park": {
+   "attempts": 1,
+   "hits": 1
   }
  },
- "updated": "2026-09-21T14:23:09.380Z"
+ "updated": "2026-09-22T00:44:13.920Z"
 }

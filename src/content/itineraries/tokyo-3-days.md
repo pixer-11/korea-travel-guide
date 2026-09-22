@@ -2,30 +2,88 @@
 city: Tokyo
 country: Japan
 days: 3
-title: 'Tokyo in 3 Days: Shrines, Digital Art, Markets, and Temples'
-description: A 3-day Tokyo itinerary moving through Shibuya and Shinjuku City, then Koto City and Minato City, then Minato City and Taito City, mixing shrines, gardens, digital art, markets, and temples.
-quickAnswer: 'This is a 3-day Tokyo itinerary: day one covers Shibuya and Shinjuku City with a shrine, a garden, and a famous crossing; day two moves from Koto City''s digital art museum to a market lunch and Minato City''s tower views; day three covers Minato City and Taito City with temples and a major museum in between.'
+title: 'Tokyo in 3 days: shrines, Skytree, and teamLab itinerary'
+description: A 3-day Tokyo itinerary moving from Shibuya's shrine forest and Shinjuku's gardens to Skytree and Asakusa, then teamLab Planets and Tsukiji's market stalls.
+quickAnswer: 'This is a 3-day Tokyo itinerary: day one covers Shibuya and Shinjuku City with a shrine, garden, and evening café; day two moves through Sumida City and Taito City for a tower, temple, and market; day three crosses Koto City and Chuo City for digital art, a fish market lunch, a garden, and dinner in the evening.'
 pubDate: '2026-07-28T01:22:55.600Z'
-stopsHash: f2b1bde870758a690784dba40583348f9e1ca0b6
-packedAvailable: false
+stopsHash: 18373b01a3a79da1c21d858b9a7bde56518be339
+packedAvailable: true
 faq:
-  - q: How much walking is involved in this itinerary?
-    a: Some stops are within walking distance of each other, like the shrine and garden on day one, while others, such as the museum-to-tower or market-to-tower connections, are listed as beyond walking distance and better covered by transit.
-  - q: What's the best way to get between stops each day?
-    a: Most cross-area connections, such as from Koto City to Minato City on day two or Minato City to Taito City on day three, are beyond walking distance, so plan on public transit for those legs.
-  - q: Should I plan around any particular days of the week?
-    a: Shinjuku Gyoen National Garden and the Tokyo National Museum both have a day they don't operate, so it's worth checking the itinerary's day one and day three slots against your travel dates before you go.
-  - q: Is this itinerary heavy on museums and indoor sights, or mostly outdoors?
-    a: 'It''s a mix: day one and day three lean toward temples, shrines, and gardens, while day two adds an indoor digital art museum and a market, so you get a blend of open-air and indoor stops.'
-  - q: How long should I budget at each stop?
-    a: Dwell times vary by stop, from shorter visits like the temple or crossing to longer ones like the digital art museum or national museum, so pacing naturally slows down or speeds up across the three days.
+  - q: How should I get around for this itinerary?
+    a: Each day is grouped by area, Shibuya and Shinjuku City on day one, Sumida City and Taito City on day two, and Koto City and Chuo City on day three, with transit needed between stops noted as beyond walking distance.
+  - q: Should I book anything in advance?
+    a: Yes. Prés de L'AS and teamLab Planets both call for advance booking given how quickly tables and timed tickets fill, and Oxomoco is a reservation-hungry spot worth booking ahead too.
+  - q: What's the best time of day to visit the busier attractions?
+    a: Early morning or weekday visits help at spots like Meiji Jingu, Tokyo Skytree, Sensō-ji, Ameyoko market, teamLab Planets, and Tsukiji Outer Market, all of which draw heavier crowds later in the day or on weekends.
+  - q: How is the pacing across the three days?
+    a: Day one and day three are fuller days, while day two is a lighter day, giving more breathing room around Skytree, Sensō-ji, and Ameyoko market.
+  - q: What if it rains during the trip?
+    a: Day one, day two, and day three each have a rain-day alternative listed, so an indoor swap is available on any of the three days if the weather turns.
 itinerary:
-  - label: Shrine forest to scramble crossing
-    intro: Day one moves from Shibuya's shrine forest to Shinjuku City's garden grounds before returning to Shibuya for the neon rush of its famous crossing. It's a day that pairs quiet, green spaces with one of the city's most energetic urban scenes.
+  - label: Shrine forest to garden calm
+    intro: The day opens in Shibuya at Meiji Jingu's forested grounds before a relaxed lunch nearby in Harajuku. From there it heads to Shinjuku City for a long, unhurried walk through Shinjuku Gyoen's gardens, then back to Shibuya for coffee and cocktails at Fuglen in the evening.
+    stops:
+      - slug: tokyo-meiji-jingu
+        slot: morning
+        why: Meiji Jingu offers a wide, forested approach that makes for a calm, atmospheric start to the day before the city's crowds build.
+        dwellMin: 75
+        walkToNext:
+          km: 1.1
+          minutes: 15
+          transit: false
+      - slug: tokyo-pres-de-l-as
+        slot: lunch
+        why: This Harajuku offshoot offers a shorter, relaxed omakase-style course, a fitting lunch stop after a morning at the shrine.
+        dwellMin: 60
+        walkToNext:
+          km: 2.4
+          minutes: null
+          transit: true
+      - slug: tokyo-shinjuku-gyoen-national-garden
+        slot: afternoon
+        why: Shinjuku Gyoen's blend of French, English, and Japanese garden styles gives a long, unhurried afternoon of green space after the morning's walking.
+        dwellMin: 150
+        walkToNext:
+          km: 3.4
+          minutes: null
+          transit: true
+      - slug: tokyo-fuglen-tokyo
+        slot: evening
+        why: Fuglen Tokyo shifts from coffee and pastries by day to an inventive cocktail menu at night, making it a fitting close to the evening in a cozy, vintage-furnished room.
+        dwellMin: 90
+        walkToNext: null
+    rainSwapSlug: tokyo-vannelli-coffee
+  - label: Tower views to old Asakusa streets
+    intro: Day two starts in Sumida City with sweeping views from Tokyo Skytree, then crosses to Taito City for the historic grounds of Sensō-ji in Asakusa. It wraps up nearby at Ameyoko market for browsing stalls between Ueno and Okachimachi.
+    stops:
+      - slug: tokyo-tokyo-skytree
+        slot: morning
+        why: Tokyo Skytree's observation decks give a broadcasting-tower view over the city to open the day.
+        dwellMin: 90
+        walkToNext:
+          km: 1.8
+          minutes: 24
+          transit: false
+      - slug: tokyo-senso-ji
+        slot: afternoon
+        why: Sensō-ji is Tokyo's oldest temple, with its Nakamise-dōri approach, pagoda, and neighboring shrine making for a full afternoon in Asakusa.
+        dwellMin: 105
+        walkToNext:
+          km: 2.7
+          minutes: null
+          transit: true
+      - slug: tokyo-ameyoko-market
+        slot: evening
+        why: Ameyoko market's dense run of stalls between Ueno and Okachimachi make for an easy, browsable close to the day.
+        dwellMin: 83
+        walkToNext: null
+    rainSwapSlug: tokyo-tokyo-national-museum
+  - label: Digital art to bayside dining
+    intro: The final day begins in Koto City with the immersive teamLab Planets, then crosses to Chuo City for a market lunch at Tsukiji Outer Market and garden time at Hamarikyu. The evening closes out with dinner at Oxomoco.
     stops:
       - slug: tokyo-teamlab-planets-tokyo-dmm
         slot: morning
-        why: This barefoot, water-and-light digital art museum in Toyosu is a striking, immersive way to start the day with a fresh, hands-on experience.
+        why: teamLab Planets' barefoot, water-and-light installations make an immersive, unusual start to the final day.
         dwellMin: 105
         walkToNext:
           km: 3.2
@@ -33,78 +91,28 @@ itinerary:
           transit: true
       - slug: tokyo-fish-market-tsukiji-outer-market
         slot: lunch
-        why: The outer market's grid of stalls and small eateries serves fresh sashimi, grilled skewers, and tamagoyaki, making it a natural lunch stop full of variety.
+        why: Tsukiji Outer Market's stalls and sit-down counters make for a hands-on lunch of fresh sashimi and grilled skewers.
         dwellMin: 105
         walkToNext:
-          km: 2.8
+          km: 1.1
           minutes: null
           transit: true
-      - slug: tokyo-zojo-ji
-        slot: afternoon
-        why: Zojo-ji's wooden Sanmon gate framed against Tokyo Tower makes this a striking, low-key morning temple visit.
-        dwellMin: 53
-        walkToNext:
-          km: 0.4
-          minutes: 5
-          transit: false
-      - slug: tokyo-tokyo-tower
-        slot: evening
-        why: Tokyo Tower's Eiffel-Tower-inspired silhouette and skyline views make it a fitting, scenic way to end the day.
-        dwellMin: 75
-        walkToNext: null
-    rainSwapSlug: tokyo-oxomoco
-  - label: Digital art, market bites, tower views
-    intro: Day two starts in Koto City with immersive digital art, then heads to the market stalls of the outer fish market for lunch, before finishing in Minato City with skyline views from Tokyo Tower. Expect a shift from quiet morning crowds to a lively, food-forward midday and a scenic wind-down.
-    stops:
-      - slug: tokyo-meiji-jingu
-        slot: morning
-        why: Meiji Jingu offers a forested, gravel-path approach to a grand Shinto shrine, making it a calm and atmospheric way to start the day before crowds build.
-        dwellMin: 75
-        walkToNext:
-          km: 1.8
-          minutes: 24
-          transit: false
-      - slug: tokyo-shinjuku-gyoen-national-garden
-        slot: afternoon
-        why: This 144-acre former imperial estate blends French, English, and Japanese garden styles, giving the afternoon a slower, green counterpoint to the shrine visit.
-        dwellMin: 150
-        walkToNext:
-          km: 3.9
-          minutes: null
-          transit: true
-      - slug: tokyo-shibuya-crossing
-        slot: afternoon
-        why: As the huge scramble intersection outside Shibuya Station, this is the classic burst of city energy to close out the day.
-        dwellMin: 30
-        walkToNext: null
-    rainSwapSlug: tokyo-fuglen-tokyo
-  - label: Temples, treasures, and Asakusa lanes
-    intro: Day three begins at Minato City's Zojo-ji temple, crosses to Taito City for the deep collections of the Tokyo National Museum, and ends among the gates and lanes of Sensō-ji in Asakusa. It's a day anchored in Tokyo's temple culture and museum-grade history.
-    stops:
       - slug: tokyo-hamarikyu-gardens
-        slot: morning
-        why: An attraction rated 4.5 by visitors, included as a stop on this route.
+        slot: afternoon
+        why: Hamarikyu Gardens' shogunal-era grounds on Tokyo Bay offer a quieter, scenic wind-down after the market.
         dwellMin: 75
         walkToNext:
-          km: 8.7
+          km: 4.1
           minutes: null
           transit: true
-      - slug: tokyo-tokyo-national-museum
-        slot: afternoon
-        why: As a five-building complex holding Japan's largest collection of Japanese art and antiquities, this museum rewards a longer, unhurried afternoon.
-        dwellMin: 150
-        walkToNext:
-          km: 2.4
-          minutes: null
-          transit: true
-      - slug: tokyo-senso-ji
+      - slug: tokyo-oxomoco
         slot: evening
-        why: Sensō-ji, Tokyo's oldest temple, anchors the evening with its Nakamise-dōri approach, Five-Story Pagoda, and neighboring Asakusa Shrine.
-        dwellMin: 105
+        why: Oxomoco's wood-fired, modern Mexican menu and energetic room make for a polished final stop in Roppongi Hills.
+        dwellMin: 90
         walkToNext: null
-    rainSwapSlug: tokyo-ise-sueyoshi
+    rainSwapSlug: tokyo-smith-wollensky
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-16T12:39:41.688Z'
+updatedDate: '2026-09-22T00:58:05.602Z'
 ---
 

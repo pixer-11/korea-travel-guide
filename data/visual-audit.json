@@ -20427,5 +20427,29 @@
     "verdict": "MATCH",
     "reason": "width upgrade: Seafood dish in pot at actual restaurant table",
     "at": "2026-09-21T22:47:47.851Z"
+  },
+  "tokyo-ameyoko-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Vibrant_Ameyoko_street_Market%2C_%E3%82%A2%E3%83%A1%E6%A8%AA_%286156024678%29.jpg/3840px-Vibrant_Ameyoko_street_Market%2C_%E3%82%A2%E3%83%A1%E6%A8%AA_%286156024678%29.jpg": {
+    "slug": "tokyo-ameyoko-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Crowded market street with signage matches Ameyoko in Tokyo",
+    "at": "2026-09-22T00:42:05.186Z"
+  },
+  "tokyo-shinjuku-golden-gai\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2024-10-20_Shinjuku_Golden_Gai_at_night.jpg/3840px-2024-10-20_Shinjuku_Golden_Gai_at_night.jpg": {
+    "slug": "tokyo-shinjuku-golden-gai",
+    "verdict": "MATCH",
+    "reason": "publish gate: Narrow neon-lit alley matches Golden-Gai's authentic atmosphere",
+    "at": "2026-09-22T00:42:51.198Z"
+  },
+  "tokyo-tokyo-skytree\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Worm%27s-eye_view_of_Tokyo_Skytree_with_vertical_symmetry_impression%2C_a_sunny_day%2C_in_Japan.jpg/3840px-Worm%27s-eye_view_of_Tokyo_Skytree_with_vertical_symmetry_impression%2C_a_sunny_day%2C_in_Japan.jpg": {
+    "slug": "tokyo-tokyo-skytree",
+    "verdict": "MATCH",
+    "reason": "publish gate: Recognizable Tokyo Skytree tower structure from below",
+    "at": "2026-09-22T00:43:32.990Z"
+  },
+  "tokyo-ueno-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ueno_park.jpg/1920px-Ueno_park.jpg": {
+    "slug": "tokyo-ueno-park",
+    "verdict": "MATCH",
+    "reason": "publish gate: Cherry blossoms and crowds, representative of Ueno Park",
+    "at": "2026-09-22T00:44:13.903Z"
   }
 }

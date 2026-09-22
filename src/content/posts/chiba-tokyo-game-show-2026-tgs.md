@@ -1,6 +1,6 @@
 ---
 title: 'Tokyo Game Show 2026 (TGS): Dates, Tickets & Venue (Chiba)'
-description: Tokyo Game Show 2026 (TGS) in Chiba, Japan — September 17-21, 2026. What it is, when and where, and how to plan around it.
+description: Tokyo Game Show 2026 in Chiba, Japan was set for September 17-21, 2026 — the 30th-anniversary edition at Makuhari Messe.
 country: Japan
 region: Chiba
 category: event
@@ -26,47 +26,46 @@ heroImage:
 tags:
   - chiba
   - event
-quickAnswer: Tokyo Game Show 2026 (TGS) runs September 17-21 at Makuhari Messe in Chiba, its 30th-anniversary edition and the longest in the show's history. The first two days are business/trade only; public days are September 19-21. Confirm timing and tickets on the official Tokyo Game Show site before you book trains or hotels.
+quickAnswer: Tokyo Game Show 2026 (TGS) was set for September 17-21 at Makuhari Messe in Chiba, the 30th-anniversary edition and the longest in the show's history. The first two days were business and trade only; public days were September 19-21, with tickets sold through the official Tokyo Game Show ticketing channels.
 faq:
   - q: What are the exact dates for Tokyo Game Show 2026?
-    a: September 17-21, 2026, with business days on the 17th-18th and public days on the 19th-21st. Confirm exact scheduling on the official TGS site.
+    a: September 17-21, 2026, with business days on the 17th-18th and public days on the 19th-21st. That five-day format was the longest in the show's history.
   - q: Where is Tokyo Game Show held?
     a: Makuhari Messe in Mihama Ward, Chiba, reachable via Kaihin-Makuhari Station on the JR Keiyo Line, about a 5-minute walk from the venue.
   - q: How do I buy tickets?
-    a: Public-day tickets are sold through the official Tokyo Game Show ticketing channels, with limited same-day sales sometimes available at the venue. Confirm current pricing and availability on the official site.
+    a: Public-day tickets were sold through the official Tokyo Game Show ticketing channels, with limited same-day sales sometimes available at the venue. Pricing and sales windows shift from year to year.
   - q: Can the public attend all five days?
-    a: No. September 17-18 are business/trade days requiring industry credentials; only September 19-21 are open to the general public.
+    a: No. September 17-18 were business and trade days requiring industry credentials; only September 19-21 were open to the general public.
   - q: What's nearby if I want to extend the trip?
     a: Makuhari Messe is close to Kaihin-Makuhari's shopping and hotel district, and Tokyo Disney Resort is a short train ride away via JR Maihama Station.
 aiGenerated: true
 draft: false
 ---
-
 ## What's happening and when
 
-Tokyo Game Show turns 30 in 2026, and organizers have stretched it to five days, its longest run yet. Dates are September 17-21 at Makuhari Messe, the same convention complex that has hosted TGS for decades.
+Tokyo Game Show 2026 was set for September 17-21 at Makuhari Messe, the same convention complex that has hosted TGS for decades. Organizers extended the 30th-anniversary edition to five days, the longest run in the show's history.
 
-The first two days, September 17-18, are business days: press, industry, and trade visitors only. Public days are September 19-21, when the show floor opens to anyone with a ticket. Expect major Japanese and international publishers, hands-on playable demos, esports stages, and indie developer booths across Makuhari Messe's halls.
+The first two days, September 17-18, were business days: press, industry, and trade visitors only. Public days were September 19-21, open to anyone with a ticket. The floor plan was built around major Japanese and international publishers, hands-on playable demos, esports stages, and indie developer booths across Makuhari Messe's halls.
 
 ## Getting to Makuhari Messe
 
 Makuhari Messe sits in Mihama Ward, Chiba, about 30-40 minutes from central Tokyo by train. The closest station is Kaihin-Makuhari on the JR Keiyo Line, roughly a 5-minute walk from the venue.
 
-From Tokyo Station, take the JR Keiyo Line direct to Kaihin-Makuhari; no transfers needed. If you're coming from Narita Airport, a train plus one transfer usually gets you there in under an hour. Driving is possible but parking fills fast on public days, so trains are the practical choice.
+From Tokyo Station, the JR Keiyo Line goes direct to Kaihin-Makuhari with no transfers. From Narita Airport, a train plus one transfer usually takes under an hour. Driving is possible, but parking fills fast on public days, so trains are the practical choice.
 
 ## Tickets and cost
 
-TGS ticketing typically runs through an official advance-sale system, with same-day tickets sometimes sold at the venue in limited numbers on public days. Business-day access requires industry credentials, not a public ticket. Pricing and sales windows shift year to year, so don't rely on old numbers.
+TGS ticketing typically works through an official advance-sale system, with same-day tickets sometimes sold at the venue in limited numbers on public days. Business-day access requires industry credentials, not a public ticket. Pricing and sales windows shift from year to year.
 
-- Confirm timing and tickets on the official Tokyo Game Show site before traveling.
+- Tickets were sold through the official Tokyo Game Show ticketing channels.
 - Business days (Sept 17-18): trade/press only.
 - Public days (Sept 19-21): general admission tickets required.
-- Advance purchase is generally cheaper and more reliable than hoping for same-day sales.
+- Advance purchase is generally cheaper and more reliable than same-day sales.
 
 ## Making the most of the show floor
 
-Makuhari Messe is large, split across multiple exhibition halls linked by corridors, so plan a rough route before you arrive rather than wandering cold. Popular publisher booths draw long queues within the first hour of doors opening on public days, especially for playable demos of high-profile titles.
+Makuhari Messe is large, split across multiple exhibition halls linked by corridors, so a rough route through the halls is worth more than wandering cold. Popular publisher booths draw long queues within the first hour of doors opening on public days, especially for playable demos of high-profile titles.
 
-Arriving right when doors open on a public day is the simplest way to beat the worst of the queues later in the morning. Bring a portable charger: you'll be scanning tickets, checking event apps, and taking photos all day, and outlets near the halls are scarce. Coin lockers near the main entrances fill up early, so stow bags before you head deep into the halls.
+Queues at a show like this are shortest right at opening and build through the morning. A portable charger earns its weight: ticket scanning, event apps, and photos drain a phone quickly, and outlets near the halls are scarce. Coin lockers near the main entrances fill up early.
 
-Food inside the venue is convention-priced and lines get long at midday; eating a bit earlier or later than the noon rush saves time. Cash and IC cards (Suica/Pasmo) both work for transit and most vendors, but keep some cash on hand for smaller stalls. If you want autographs or stage-event seating, check the official schedule for stage locations and arrive well before the listed start.
+Food inside the venue is convention-priced and lines get long at midday; eating a bit earlier or later than the noon rush saves time. Cash and IC cards (Suica/Pasmo) both work for transit and most vendors, though smaller stalls often want cash. Autograph sessions and stage events are run to a published schedule, with seating claimed well before the listed start time.
