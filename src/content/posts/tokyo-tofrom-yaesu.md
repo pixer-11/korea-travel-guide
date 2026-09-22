@@ -39,6 +39,8 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.681281999999996
   lng: 139.77072049999998
+draft: true
+heldReason: rating
 ---
 
 Tokyo Station has always been a place people pass through, not linger in. Tofrom Yaesu is the district's attempt to flip that: a purpose-built complex fused to the station's Yaesu side, holding 68 restaurants and shops behind one address, opening September 10, 2026.

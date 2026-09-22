@@ -866,6 +866,10 @@ jobs:
           # 방법론 페이지가 "평점 4.0 이상"을 약속하는데 그걸 지키는 장치가 없었다.
           # 생성기는 태어날 때만 보고, 그 뒤 평점이 떨어져도 폐업 외에는 아무것도 내리지
           # 않았다. 저장된 평점만 읽어 쿼터를 쓰지 않는다.
+          # 감사만 두면 목록만 쌓인다 — 2026-09-22 에 geocode 가 평점을 드러낸
+          # 세 건이 공개 상태로 남았고, refresh 의 순번은 최대 12주 뒤였다.
+          # 수리를 먼저 돌려 내리고, 그다음 감사로 남았는지 확인한다.
+          node scripts/repair-rating-floor.mjs
           node scripts/audit-rating-floor.mjs
           # The vision gate asks "is this a concert photo?" and a photo of some
           # OTHER concert says yes. Twelve event guides were carrying a picture of

@@ -39,6 +39,8 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.6696945
   lng: 139.703747
+draft: true
+heldReason: rating
 ---
 
 ## What Prés de L'AS actually is

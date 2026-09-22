@@ -63,3 +63,28 @@ test('사진 순찰은 평점 보류를 두 철자 모두에서 건드리지 않
   const { NON_PHOTO_HOLD } = await import('./patrol-target.mjs');
   for (const r of ['rating', 'below-rating-floor']) assert.equal(NON_PHOTO_HOLD.test(r), true, r);
 });
+
+// 감사만으로는 아무 일도 일어나지 않는다 (2026-09-22).
+// geocode 가 서울·도쿄의 좌표 없던 글에 평점을 붙이자 4.0 미만 3편이 드러났는데,
+// refresh 의 기준선 검사는 그날 갱신하는 40편 안에서만 돌아 셋 다 공개로 남았다.
+// 순번은 최대 12주 뒤였고, 감사는 매일 찾아내고만 있었다.
+test('수리 도구가 존재하고 파이프라인이 감사보다 먼저 그것을 부른다', async () => {
+  const { readFileSync, existsSync } = await import('node:fs');
+  assert.equal(existsSync('scripts/repair-rating-floor.mjs'), true, '수리 도구가 없다');
+  const repair = readFileSync('scripts/repair-rating-floor.mjs', 'utf8');
+  // 판정과 철자는 한 곳에서만 온다 — 09-22 의 '두 철자' 사고가 그래서 났다.
+  assert.match(repair, /from '\.\/lib\/rating-floor\.mjs'/);
+  assert.match(repair, /HOLD_REASON/, '사유를 남기지 않으면 되올릴 수 없다');
+  assert.match(repair, /editFrontmatter/, '프론트매터는 공용 편집기로만 고친다');
+  const yml = readFileSync('.github/workflows/publish.yml', 'utf8');
+  const iRepair = yml.indexOf('node scripts/repair-rating-floor.mjs');
+  const iAudit = yml.indexOf('node scripts/audit-rating-floor.mjs');
+  assert.equal(iRepair > -1 && iAudit > -1, true, '둘 다 발행 파이프라인에 있어야 한다');
+  assert.equal(iRepair < iAudit, true, '수리가 감사보다 먼저 돌아야 감사가 남은 것만 보고한다');
+});
+
+test('이미 내려간 글과 이벤트는 건드리지 않는다', async () => {
+  const { readFileSync } = await import('node:fs');
+  const repair = readFileSync('scripts/repair-rating-floor.mjs', 'utf8');
+  assert.match(repair, /d\.draft \|\| d\.category === 'event'/, '초안·이벤트 제외가 없다');
+});
