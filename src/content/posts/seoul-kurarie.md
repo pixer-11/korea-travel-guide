@@ -39,6 +39,14 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.5253431
   lng: 127.03382419999998
+  openingHours:
+    - 'Monday: 10:30 AM – 8:30 PM'
+    - 'Tuesday: 10:30 AM – 8:30 PM'
+    - 'Wednesday: 10:30 AM – 8:30 PM'
+    - 'Thursday: 10:30 AM – 8:30 PM'
+    - 'Friday: 10:30 AM – 8:30 PM'
+    - 'Saturday: 10:30 AM – 8:30 PM'
+    - 'Sunday: 10:30 AM – 8:30 PM'
 ---
 
 ## Why Kurarie stands out

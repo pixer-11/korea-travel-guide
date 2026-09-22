@@ -39,6 +39,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 13.7275567
   lng: 100.5454584
+  phone: '+66 2 483 1234'
+  openingHours:
+    - 'Monday: 5:00 PM – 12:00 AM'
+    - 'Tuesday: 5:00 PM – 12:00 AM'
+    - 'Wednesday: 5:00 PM – 12:00 AM'
+    - 'Thursday: 5:00 PM – 12:00 AM'
+    - 'Friday: 5:00 PM – 12:00 AM'
+    - 'Saturday: 5:00 PM – 12:00 AM'
+    - 'Sunday: 5:00 PM – 12:00 AM'
 ---
 
 ## What Piscari actually is

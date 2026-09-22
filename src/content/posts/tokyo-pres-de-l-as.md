@@ -39,6 +39,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.6696945
   lng: 139.703747
+  phone: '+81 3-6804-3842'
+  openingHours:
+    - 'Monday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Tuesday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Wednesday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Thursday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Friday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Saturday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
+    - 'Sunday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM'
 draft: true
 heldReason: rating
 ---

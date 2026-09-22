@@ -68,6 +68,15 @@ place:
   lat: 13.7401804
   lng: 100.50445219999999
   priceLevel: 1
+  phone: '+66 95 447 4638'
+  openingHours:
+    - 'Monday: 9:00 AM – 5:30 PM'
+    - 'Tuesday: 9:00 AM – 5:30 PM'
+    - 'Wednesday: 9:00 AM – 5:30 PM'
+    - 'Thursday: 9:00 AM – 5:30 PM'
+    - 'Friday: 9:00 AM – 5:30 PM'
+    - 'Saturday: 9:00 AM – 5:30 PM'
+    - 'Sunday: 9:00 AM – 5:30 PM'
 updatedDate: '2026-09-21'
 ---
 

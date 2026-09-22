@@ -39,6 +39,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.5791709
   lng: 126.97038509999999
+  phone: '+82 2-6402-4750'
+  openingHours:
+    - 'Monday: 6:00 PM – 1:00 AM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 6:00 PM – 1:00 AM'
+    - 'Thursday: 6:00 PM – 1:00 AM'
+    - 'Friday: 6:00 PM – 1:00 AM'
+    - 'Saturday: 6:00 PM – 1:00 AM'
+    - 'Sunday: 6:00 PM – 1:00 AM'
 ---
 
 You find Bar Cham by half-losing yourself first. Seochon's streets don't run in a grid, they bend around old roof lines and dead-end into someone's gate, and the bar itself gives little away from outside. No neon, no sandwich board, just a hanok's tiled roof and a wooden door that could belong to a private house.

@@ -1,4 +1,29 @@
-Places 예산: backfill 몫 0회 (오늘 사용 46/100)
-Priority: 179 itinerary stop(s) queued first
+Places 예산: backfill 몫 25회 (오늘 사용 5/100)
+Priority: 195 itinerary stop(s) queued first
+  – bali-badung-market.md: nothing new (resting 60d)
+  ✓ seoul-kurarie.md +7h hours
+  ✓ seoul-mil-toast.md +phone +7h hours
+  ✓ seoul-zest.md +phone +7h hours
+  – tokyo-ameyoko-market.md: nothing new (resting 60d)
+  ✓ tokyo-bar-satoyama-spirits-tokyo.md +phone +7h hours
+  ✓ tokyo-pres-de-l-as.md +phone +7h hours
+  ✓ tokyo-samaa-samaa.md +7h hours
+  ✓ tokyo-vannelli-coffee.md +7h hours
+  – tsim-sha-tsui-kowloon-park.md: nothing new (resting 60d)
+  ✓ bangkok-piscari.md +phone +7h hours
+  ✓ bangkok-roast8ry-bangkok.md +phone +7h hours
+  – tokyo-tofrom-yaesu.md: nothing new (resting 60d)
+  – chiang-mai-night-bazaar-chiang-mai.md: nothing new (resting 60d)
+  – paris-rue-mouffetard-market.md: nothing new (resting 60d)
+  ✓ seoul-artist-bakery.md +7h hours
+  ✓ seoul-bar-cham.md +phone +7h hours
+  – goyang-bukhansanseong-fortress.md: nothing new (resting 60d)
+  – gyeongju-cheomseongdae-observatory.md: nothing new (resting 60d)
+  – istanbul-bosphorus-view-point.md: nothing new (resting 60d)
+  🚫 little-india-former-house-of-tan-teng-niah.md: CLOSED_TEMPORARILY — quarantined (draft), not backfilled
+  – nha-trang-po-nagar-temple.md: nothing new (resting 60d)
+  – nice-promenade-des-anglais.md: nothing new (resting 60d)
+  – ninh-binh-hoa-lu-ancient-capital.md: nothing new (resting 60d)
+  – ninh-binh-tam-coc-bich-dong.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 0, no-new-data 0, no-place 0, closed-quarantined 0, quota-429 0, api-error 0, api-calls 0, remaining-askable 137 (APPLIED).
+BACKFILL RESULT: updated 11, backlog-updated 11, already-complete 852, no-new-data 376, no-place 342, closed-quarantined 1, quota-429 0, api-error 0, api-calls 25, remaining-askable 125 (APPLIED).

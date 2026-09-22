@@ -39,6 +39,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.5252611
   lng: 127.04077799999999
+  phone: '+82 10-3177-8801'
+  openingHours:
+    - 'Monday: 6:30 PM – 2:00 AM'
+    - 'Tuesday: 6:30 PM – 2:00 AM'
+    - 'Wednesday: 6:30 PM – 2:00 AM'
+    - 'Thursday: 6:30 PM – 2:00 AM'
+    - 'Friday: 6:30 PM – 2:00 AM'
+    - 'Saturday: 3:00 PM – 2:00 AM'
+    - 'Sunday: 3:00 PM – 2:00 AM'
 ---
 ## Why Zest matters right now
 

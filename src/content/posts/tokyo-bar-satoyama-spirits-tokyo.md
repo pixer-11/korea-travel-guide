@@ -39,6 +39,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 35.6475137
   lng: 139.7080107
+  phone: '+81 3-6416-9380'
+  openingHours:
+    - 'Monday: 6:00 PM – 2:00 AM'
+    - 'Tuesday: 6:00 PM – 2:00 AM'
+    - 'Wednesday: 6:00 PM – 2:00 AM'
+    - 'Thursday: 6:00 PM – 2:00 AM'
+    - 'Friday: 6:00 PM – 2:00 AM'
+    - 'Saturday: 6:00 PM – 2:00 AM'
+    - 'Sunday: Closed'
 ---
 
 ## What makes this bar different
