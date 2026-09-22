@@ -17093,13 +17093,6 @@
   "worst": "여러 시대가 층층이 쌓인 타임라인 같은 곳입니다.",
   "at": "2026-09-21T08:02:41.029Z"
  },
- "ko/chiayi-hinoki-village": {
-  "hash": "9ea2e08db09a",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "히노키무라에 도착하면 눈으로 보기도 전에 향으로 먼저 느끽 됩니다.",
-  "at": "2026-09-21T14:26:31.791Z"
- },
  "ko/chiayi-southern-branch-of-the-national-palace-museum": {
   "hash": "edd65f75a710",
   "score": 1,
@@ -17183,13 +17176,6 @@
   "registerBreak": false,
   "worst": "각 방마다 고유한 기후와 저마다 발걸음을 늦출 이유를 갖추고 있습니다.",
   "at": "2026-09-21T14:26:52.816Z"
- },
- "ko/chicago-gingie": {
-  "hash": "8f18d1655740",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "이렇게 유명한 사업가들이 뒤를 받치는 셰프의 데뷔 프로젝트인 만큼, 징지의 인기는 당분간 계속될 것으로 보입니다.",
-  "at": "2026-09-21T14:26:43.913Z"
  },
  "ko/chicago-illinois-lollapalooza-2026": {
   "hash": "691060728e62",
@@ -29748,5 +29734,82 @@
   "registerBreak": false,
   "worst": "이곳은 다른 어떤 명소보다도 날씨가 방문의 만족도를 좌우합니다. 여름철 도쿄는 뿌연 안개가 흔하기 때문입니다.",
   "at": "2026-09-22T00:47:27.949Z"
+ },
+ "es/al-ain-al-ain-central-market": {
+  "hash": "f5a5ee32416a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Los números arábigos en las pantallas de las básculas pueden resultar confusos si no está familiar",
+  "at": "2026-09-22T07:58:18.936Z"
+ },
+ "es/ayutthaya-chao-phrom-market": {
+  "hash": "53248b8f2fdb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "es de esperar lo habitual en cualquier mercado tailandés",
+  "at": "2026-09-22T07:58:20.561Z"
+ },
+ "es/bandung-floating-market-lembang": {
+  "hash": "212a8cb6b3ba",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Los sábados duran tres horas más que los días de semana, lo cual dice mucho sobre...",
+  "at": "2026-09-22T07:58:22.798Z"
+ },
+ "ja/al-ain-al-ain-central-market": {
+  "hash": "d8883629b7c2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "はかりのデジタル表示に使われるアラビア数字は、慣れていないと読み取りにくいことがあるので",
+  "at": "2026-09-22T08:00:34.200Z"
+ },
+ "ja/ayutthaya-chao-phrom-market": {
+  "hash": "4144038f2207",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "チャオプロムは、観光客にとって物珍しい場所である以前に、まず地元の生活を支える市場です。",
+  "at": "2026-09-22T07:58:45.922Z"
+ },
+ "ja/bandung-floating-market-lembang": {
+  "hash": "3bec06ffbe26",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "何か一つの伝説的な料理が目当てというより、ボートを呼び止め、それが滑るように近づいてくるのを待ち",
+  "at": "2026-09-22T07:58:55.059Z"
+ },
+ "ko/al-ain-al-ain-central-market": {
+  "hash": "5f3967feb846",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "일상적인 시장으로서 거의 1,200건에 달하는 리뷰에서 4.4점을 받은 것은 상당히 높은 평가입니다.",
+  "at": "2026-09-22T08:00:36.789Z"
+ },
+ "ko/ayutthaya-chao-phrom-market": {
+  "hash": "19c48669bdb6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "통로는 좁고, 상인들은 일하는 중이며, 장바구니를 든 현지인들과 오토바이들은 각자 가야 할 곳이 있습니다.",
+  "at": "2026-09-22T07:59:09.963Z"
+ },
+ "zh/al-ain-al-ain-central-market": {
+  "hash": "250d08eb744a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这在一个不少商铺都会因祈祷或午休而歇业数小时的城市里，实属难得。",
+  "at": "2026-09-22T07:59:28.246Z"
+ },
+ "zh/ayutthaya-chao-phrom-market": {
+  "hash": "9262eece8402",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "份量也是照着本地人赶路时随手吃午饭的标准来的，不是给人慢慢享用的。",
+  "at": "2026-09-22T07:59:30.461Z"
+ },
+ "zh/bandung-floating-market-lembang": {
+  "hash": "c0d57ac1ba8f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "如果选在周六前往，要清楚这本来就是设计好的一周中人最多、时间最长的一天，不是偶然，所以对码头边能有多少个人空间不要抱太高期望。",
+  "at": "2026-09-22T08:00:53.715Z"
  }
 }

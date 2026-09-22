@@ -20451,5 +20451,101 @@
     "verdict": "MATCH",
     "reason": "publish gate: Cherry blossoms and crowds, representative of Ueno Park",
     "at": "2026-09-22T00:44:13.903Z"
+  },
+  "hong-kong-central-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Central_Market_entry_26-06-2023.jpg/3840px-Central_Market_entry_26-06-2023.jpg": {
+    "slug": "hong-kong-central-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior entrance showing venue name and storefront",
+    "at": "2026-09-22T07:37:40.000Z"
+  },
+  "mumbai-fashion-street\u0001https://upload.wikimedia.org/wikipedia/commons/e/e8/Fs1.jpg": {
+    "slug": "mumbai-fashion-street",
+    "verdict": "MATCH",
+    "reason": "publish gate: Busy market street with shoe stalls, crowd, matches locale",
+    "at": "2026-09-22T07:38:20.443Z"
+  },
+  "pai-pai-walking-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Pai_Walking_Street_5.jpg/3840px-Pai_Walking_Street_5.jpg": {
+    "slug": "pai-pai-walking-street",
+    "verdict": "MATCH",
+    "reason": "publish gate: Night street scene with shops matches Pai Walking Street",
+    "at": "2026-09-22T07:39:30.102Z"
+  },
+  "dubai-books-kinokuniya-dubai\u0001https://upload.wikimedia.org/wikipedia/commons/5/5c/Massive_Kinokuniya_bookstore_in_Dubai.jpg": {
+    "slug": "dubai-books-kinokuniya-dubai",
+    "verdict": "MATCH",
+    "reason": "publish gate: Bookstore interior with genre signage, plausible for Kinokuniya Dubai",
+    "at": "2026-09-22T07:40:26.833Z"
+  },
+  "daegu-seomun-market\u0001https://upload.wikimedia.org/wikipedia/commons/f/fd/10%EA%B2%BD_%EC%84%9C%EB%AC%B8%EC%8B%9C%EC%9E%A5.jpg": {
+    "slug": "daegu-seomun-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Iconic entrance sign and street view of Seomun Market",
+    "at": "2026-09-22T07:41:14.006Z"
+  },
+  "ha-long-bay-ha-long-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Local_merchants_in_Ha_Long_Bay.jpg/3840px-Local_merchants_in_Ha_Long_Bay.jpg": {
+    "slug": "ha-long-bay-ha-long-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Vendor boat on Ha Long Bay, plausible market scene",
+    "at": "2026-09-22T07:41:58.646Z"
+  },
+  "yokohama-yokohama-red-brick-warehouse\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Akarenga_Yokohama_2012.jpg/1920px-Akarenga_Yokohama_2012.jpg": {
+    "slug": "yokohama-yokohama-red-brick-warehouse",
+    "verdict": "MATCH",
+    "reason": "publish gate: Aerial view of Yokohama Red Brick Warehouse complex",
+    "at": "2026-09-22T07:42:49.173Z"
+  },
+  "da-nang-con-market\u0001https://upload.wikimedia.org/wikipedia/commons/3/3b/Con_Market_across_intersection.JPG": {
+    "slug": "da-nang-con-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Street view of Da Nang building plausibly showing Con Market area",
+    "at": "2026-09-22T07:43:35.279Z"
+  },
+  "bandung-floating-market-lembang\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Floating_Market_Lembang_-_including_selfie_alays_%2827126485005%29.jpg/3840px-Floating_Market_Lembang_-_including_selfie_alays_%2827126485005%29.jpg": {
+    "slug": "bandung-floating-market-lembang",
+    "verdict": "MATCH",
+    "reason": "publish gate: Panoramic view of Floating Market Lembang with signage and lake",
+    "at": "2026-09-22T07:45:27.222Z"
+  },
+  "miami-bayside-marketplace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bayside%2C_Miami%2C_Florida_June_2021_-_03.jpg/1920px-Bayside%2C_Miami%2C_Florida_June_2021_-_03.jpg": {
+    "slug": "miami-bayside-marketplace",
+    "verdict": "MATCH",
+    "reason": "publish gate: Bayside Marketplace with Ferris wheel and boat, Miami",
+    "at": "2026-09-22T07:46:29.620Z"
+  },
+  "ayutthaya-chao-phrom-market\u0001https://upload.wikimedia.org/wikipedia/commons/e/ed/%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%A1_%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%A2%E0%B8%B8%E0%B8%98%E0%B8%A2%E0%B8%B2_-_panoramio.jpg": {
+    "slug": "ayutthaya-chao-phrom-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Street view of market storefronts, plausible for Chao Phrom Market",
+    "at": "2026-09-22T07:48:00.581Z"
+  },
+  "hiroshima-hondori-shopping-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hiroshima-Hondori_Shopping_Street_at_night.jpg/3840px-Hiroshima-Hondori_Shopping_Street_at_night.jpg": {
+    "slug": "hiroshima-hondori-shopping-street",
+    "verdict": "MATCH",
+    "reason": "publish gate: Covered shopping arcade street view, representative of Hondori",
+    "at": "2026-09-22T07:48:49.365Z"
+  },
+  "chicago-the-mart\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Rooftop_-_Chicago_Merchandise_Mart_%2843590422992%29.jpg/3840px-Rooftop_-_Chicago_Merchandise_Mart_%2843590422992%29.jpg": {
+    "slug": "chicago-the-mart",
+    "verdict": "MATCH",
+    "reason": "publish gate: Rooftop terrace view of THE MART building in Chicago",
+    "at": "2026-09-22T07:50:07.441Z"
+  },
+  "al-ain-al-ain-central-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Al-Ain_Central_Market_-_goats.jpg/3840px-Al-Ain_Central_Market_-_goats.jpg": {
+    "slug": "al-ain-al-ain-central-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Livestock market pens, plausible representative view of Al Ain market",
+    "at": "2026-09-22T07:50:44.765Z"
+  },
+  "naples-mercato-pignasecca\u0001https://upload.wikimedia.org/wikipedia/commons/6/60/Fish_at_Mercato_Pignasecca_%284122802618%29.jpg": {
+    "slug": "naples-mercato-pignasecca",
+    "verdict": "MATCH",
+    "reason": "publish gate: Fresh fish market display, representative of Pignasecca stalls",
+    "at": "2026-09-22T07:51:47.355Z"
+  },
+  "chinatown-chinatown-street-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Chinese_New_Year_market_in_Singapore_Chinatown_horizontal.jpg/3840px-Chinese_New_Year_market_in_Singapore_Chinatown_horizontal.jpg": {
+    "slug": "chinatown-chinatown-street-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Chinatown Singapore street market scene with crowds and signage",
+    "at": "2026-09-22T07:52:28.080Z"
   }
 }

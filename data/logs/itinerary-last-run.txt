@@ -1,14 +1,13 @@
+SKIP new city "Lyon" — weekly new-city cap (2/7d) reached
 SKIP new city "Paris" — weekly new-city cap (2/7d) reached
 SKIP new city "Seattle" — weekly new-city cap (2/7d) reached
 
 Seoul, South Korea — 27 qualifying post(s), variants: 3, 5
-  ~ Seoul 3d — minor structure change (2 slug diff), keeping existing prose
-  ✅ Seoul 3d — updated
+  = Seoul 3d — unchanged, skipping
   = Seoul 5d — unchanged, skipping
 
 Tokyo, Japan — 22 qualifying post(s), variants: 3
-  ~ Tokyo 3d — minor structure change (2 slug diff), keeping existing prose
-  ✅ Tokyo 3d — updated
+  = Tokyo 3d — unchanged, skipping
 
 Bangkok, Thailand — 22 qualifying post(s), variants: 3
   = Bangkok 3d — unchanged, skipping
@@ -22,15 +21,15 @@ Barcelona, Spain — 15 qualifying post(s), variants: 3
 Busan, South Korea — 13 qualifying post(s), variants: 3
   = Busan 3d — unchanged, skipping
 
-Hong Kong, Hong Kong — 78 qualifying post(s), variants: 3, 5
+Dubai, United Arab Emirates — 12 qualifying post(s), variants: 3
+NEW_ITINERARY: Dubai 3d
+
+Hong Kong, Hong Kong — 79 qualifying post(s), variants: 3, 5
   = Hong Kong 3d — unchanged, skipping
   = Hong Kong 5d — unchanged, skipping
 
 Los Angeles, United States — 16 qualifying post(s), variants: 3
   = Los Angeles 3d — unchanged, skipping
-
-Lyon, France — 15 qualifying post(s), variants: 3
-  · Lyon 3d — skipped: day 2 totals only 219 min (floor 240) and no further sight can be added to it
 
 New Orleans, United States — 17 qualifying post(s), variants: 3
   = New Orleans 3d — unchanged, skipping
@@ -41,7 +40,7 @@ New York, United States — 16 qualifying post(s), variants: 3
 Siem Reap, Cambodia — 16 qualifying post(s), variants: 3
   = Siem Reap 3d — unchanged, skipping
 
-Singapore, Singapore — 71 qualifying post(s), variants: 3, 5
+Singapore, Singapore — 72 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
   = Singapore 5d — unchanged, skipping
 
