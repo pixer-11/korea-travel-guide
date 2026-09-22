@@ -1,9 +1,4 @@
 ---
-draft: true
-heldReason: below-rating-floor
-heldFinal: >-
-  rated 3.9, under the 4.0 floor the methodology page promises; the rating is a
-  fact about the venue, not something a repair can clear
 title: Smith & Wollensky in Tokyo
 description: >-
   Smith & Wollensky in Tokyo, Japan — a new/trending spot: what it is, where it
