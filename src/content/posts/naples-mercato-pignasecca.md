@@ -1,51 +1,78 @@
 ---
-title: "Mercato Pignasecca: Naples Travel Guide (4.4★)"
-description: "Mercato Pignasecca is Naples' oldest open-air market, tucked between the Quartieri Spagnoli and Via Toledo in the Montesanto area. 4.4★ (320 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Naples"
-category: "hidden-gem"
-pubDate: "2026-09-22T07:52:01.342Z"
+title: 'Mercato Pignasecca: Naples Travel Guide (4.4★)'
+description: >-
+  Mercato Pignasecca is Naples' oldest open-air market, tucked between the
+  Quartieri Spagnoli and Via Toledo in the Montesanto area. 4.4★ (321 reviews) —
+  what visitors say, hours, and tips.
+country: Italy
+region: Naples
+category: hidden-gem
+pubDate: '2026-09-22T07:52:01.342Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/6/60/Fish_at_Mercato_Pignasecca_%284122802618%29.jpg"
-  credit: "Photo: Paul Asman and Jill Lenoble / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Fish_at_Mercato_Pignasecca_(4122802618).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/60/Fish_at_Mercato_Pignasecca_%284122802618%29.jpg
+  credit: 'Photo: Paul Asman and Jill Lenoble / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Fish_at_Mercato_Pignasecca_(4122802618).jpg
+  via: act
   focus:
     x: 40
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Napoli_mercato_Pignasecca.jpg"
-    credit: "Photo: Fiore Silvestro Barbato / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Napoli_mercato_Pignasecca.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/5/5d/Napoli_mercato_Pignasecca.jpg
+    credit: 'Photo: Fiore Silvestro Barbato / Wikimedia Commons (CC BY-SA 2.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Napoli_mercato_Pignasecca.jpg'
 place:
-  id: "ChIJcw7c_NMJOxMRlrkHF2kT0JA"
-  name: "Mercato Pignasecca"
-  address: "Piazza Pignasecca, 3, 80134 Napoli NA, Italy"
+  id: ChIJcw7c_NMJOxMRlrkHF2kT0JA
+  name: Mercato Pignasecca
+  address: 'Piazza Pignasecca, 3, 80134 Napoli NA, Italy'
   rating: 4.4
-  userRatingsTotal: 320
-  googleMapsUrl: "https://maps.google.com/?cid=10434861678696315286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 321
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10434861678696315286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.8463918
   lng: 14.247711899999999
 tags:
-  - "naples"
-  - "local market"
-quickAnswer: "Mercato Pignasecca is Naples' oldest open-air market, tucked between the Quartieri Spagnoli and Via Toledo in the Montesanto area. It's a working neighbourhood market rather than a tourist stop, so go in the morning when the stalls are fullest and the fish is freshest. Budget half an hour to wander, longer if you stop to eat at one of the fry stalls along the way."
+  - naples
+  - local market
+quickAnswer: >-
+  Mercato Pignasecca is Naples' oldest open-air market, tucked between the
+  Quartieri Spagnoli and Via Toledo in the Montesanto area. It's a working
+  neighbourhood market rather than a tourist stop, so go in the morning when the
+  stalls are fullest and the fish is freshest. Budget half an hour to wander,
+  longer if you stop to eat at one of the fry stalls along the way.
 faq:
-  - q: "Where exactly is Mercato Pignasecca?"
-    a: "It's centred on Piazza Pignasecca, 3, in the Montesanto district of Naples, between Via Toledo and the Quartieri Spagnoli."
-  - q: "How do I get to Mercato Pignasecca?"
-    a: "The easiest route is to the Montesanto station, served by the Cumana and Circumflegrea railways, the Montesanto funicular, and Naples' Line 2 metro, all about a two-minute walk from the market."
-  - q: "What's the best time to visit?"
-    a: "Go in the morning through early afternoon when the fish and produce stalls are fully stocked. Many vendors close by mid-afternoon and on Sundays, so avoid planning a visit for those hours."
-  - q: "What should I eat there?"
-    a: "Look for the fry stalls along Via Pignasecca and the piazza selling pizza fritta, arancini, and frittatine di pasta, eaten standing up straight from the paper wrapping."
-  - q: "Is Mercato Pignasecca touristy?"
-    a: "Not really. It's a working neighbourhood market with a solid but modest reputation locally, so you'll see far more Neapolitans doing their shopping than tour groups."
+  - q: Where exactly is Mercato Pignasecca?
+    a: >-
+      It's centred on Piazza Pignasecca, 3, in the Montesanto district of
+      Naples, between Via Toledo and the Quartieri Spagnoli.
+  - q: How do I get to Mercato Pignasecca?
+    a: >-
+      The easiest route is to the Montesanto station, served by the Cumana and
+      Circumflegrea railways, the Montesanto funicular, and Naples' Line 2
+      metro, all about a two-minute walk from the market.
+  - q: What's the best time to visit?
+    a: >-
+      Go in the morning through early afternoon when the fish and produce stalls
+      are fully stocked. Many vendors close by mid-afternoon and on Sundays, so
+      avoid planning a visit for those hours.
+  - q: What should I eat there?
+    a: >-
+      Look for the fry stalls along Via Pignasecca and the piazza selling pizza
+      fritta, arancini, and frittatine di pasta, eaten standing up straight from
+      the paper wrapping.
+  - q: Is Mercato Pignasecca touristy?
+    a: >-
+      Not really. It's a working neighbourhood market with a solid but modest
+      reputation locally, so you'll see far more Neapolitans doing their
+      shopping than tour groups.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-22'
 ---
 
 Naples has three big historic markets and Pignasecca is the one closest to the centre, wedged into the streets between Via Toledo and the Quartieri Spagnoli. Unlike the souvenir stretch of Via Toledo two minutes away, this is where people from Montesanto actually buy dinner.

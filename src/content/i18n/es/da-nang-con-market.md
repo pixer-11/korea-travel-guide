@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: da-nang-con-market
-srcHash: '92102ef718db'
+srcHash: 'ca498007687c'
 title: 'Mercado Con: Guía de Viaje de Da Nang (4.3★)'
-description: 'El Mercado Con (Chợ Cồn) es el gran mercado cubierto del distrito de Hải Châu, en el centro de Da Nang, ubicado en 90 Hùng Vương y abierto todos los días de 7:00 a 19:00. 4.3★ (23.058 opiniones): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Mercado Con (Chợ Cồn) es el gran mercado cubierto del distrito de Hải Châu, en el centro de Da Nang, ubicado en 90 Hùng Vương y abierto todos los días de 7:00 a 19:00. 4.3★ (23.071 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Mercado Con (Chợ Cồn) es el gran mercado cubierto del distrito de Hải Châu, en el centro de Da Nang, ubicado en 90 Hùng Vương y abierto todos los días de 7:00 a 19:00. Es uno de los mercados más visitados de la ciudad, así que conviene ir justo a las 7:00 o después de las 17:00 si se quiere caminar con soltura en lugar de abrirse paso entre la multitud. Vale la pena acercarse por los puestos de comida de la planta baja, el marisco seco y las plantas superiores de ropa y artículos para el hogar.
 faq:
   - q: ¿Cuál es el horario del Mercado Con?

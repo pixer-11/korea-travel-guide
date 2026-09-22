@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: chinatown-chinatown-street-market
-srcHash: '9fff3acdc344'
+srcHash: 'e5025e738008'
 title: 'Mercado callejero de Chinatown: guía de viaje (4,4★)'
-description: 'El mercado callejero de Chinatown se extiende por Smith Street y los callejones de casas tienda que la rodean, en el barrio chino de Singapur, abierto todos los días de 9:00 a 22:00. 4,4★ (2.648 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El mercado callejero de Chinatown se extiende por Smith Street y los callejones de casas tienda que la rodean, en el barrio chino de Singapur, abierto todos los días de 9:00 a 22:00. 4,4★ (2.649 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El mercado callejero de Chinatown se extiende por Smith Street y los callejones de casas tienda que la rodean, en el barrio chino de Singapur, y abre todos los días de 9:00 a 22:00. El momento más tranquilo es en las mañanas de días de semana, entre las 9:00 y el mediodía; los fines de semana, en cambio, se llena desde el mediodía hasta el cierre. Ve con hambre: esta zona es de puestos de comida callejera y recuerdos, no un centro comercial con mesas para sentarse.'
 faq:
   - q: ¿Dónde está exactamente el mercado callejero de Chinatown?

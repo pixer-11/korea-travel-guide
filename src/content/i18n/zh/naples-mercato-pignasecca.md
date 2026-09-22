@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: naples-mercato-pignasecca
-srcHash: '9984d61ca275'
+srcHash: 'c31ab429c404'
 title: 佩尼亚塞卡市场：那不勒斯旅行指南（4.4★）
-description: 佩尼亚塞卡市场（Mercato Pignasecca）是那不勒斯历史最悠久的露天市场，坐落于蒙特桑托（Montesanto）区，夹在西班牙区（Quartieri Spagnoli）与托莱多大道（Via Toledo）之间。4.4★（320条评价）——游客怎么说、营业时间与实用建议，一次看懂。
+description: 佩尼亚塞卡市场（Mercato Pignasecca）是那不勒斯历史最悠久的露天市场，坐落于蒙特桑托（Montesanto）区，夹在西班牙区（Quartieri Spagnoli）与托莱多大道（Via Toledo）之间。4.4★（321条评价）——游客怎么说、营业时间与实用建议，一次看懂。
 quickAnswer: 佩尼亚塞卡市场是那不勒斯历史最悠久的露天市场，位于蒙特桑托区，夹在西班牙区与托莱多大道之间。这里是当地人真正买菜的社区市场，而非旅游景点，所以最好选在早上前往，那时摊位最齐全，鱼也最新鲜。逛一圈大概需要半小时，如果中途在炸物摊前停下来吃点东西，时间自然会更长。
 faq:
   - q: 佩尼亚塞卡市场具体在哪里？

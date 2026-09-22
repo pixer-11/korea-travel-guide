@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: naples-mercato-pignasecca
-srcHash: '9984d61ca275'
+srcHash: 'c31ab429c404'
 title: 'Mercato Pignasecca: guía de viaje de Nápoles (4,4★)'
-description: 'El Mercato Pignasecca es el mercado al aire libre más antiguo de Nápoles, encajado entre los Quartieri Spagnoli y Via Toledo, en la zona de Montesanto. 4,4★ (320 reseñas): qué dicen los visitantes, horarios y consejos.'
+description: 'El Mercato Pignasecca es el mercado al aire libre más antiguo de Nápoles, encajado entre los Quartieri Spagnoli y Via Toledo, en la zona de Montesanto. 4,4★ (321 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: El Mercato Pignasecca es el mercado al aire libre más antiguo de Nápoles, encajado entre los Quartieri Spagnoli y Via Toledo, en la zona de Montesanto. Se trata de un mercado de barrio pensado para el día a día de los vecinos, no una parada turística, así que conviene ir por la mañana, cuando los puestos están más llenos y el pescado más fresco. Calcule media hora para recorrerlo, más si se detiene a comer en alguno de los puestos de fritura del camino.
 faq:
   - q: ¿Dónde está exactamente el Mercato Pignasecca?

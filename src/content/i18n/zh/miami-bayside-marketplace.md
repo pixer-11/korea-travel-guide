@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: miami-bayside-marketplace
-srcHash: 'e128e18e5b58'
+srcHash: '053ad77172c4'
 title: 湾畔市场：迈阿密旅游指南（4.5★）
-description: 湾畔市场（Bayside Marketplace）是位于迈阿密市中心比斯坎湾（Biscayne Bay）畔的露天购物餐饮综合体，地址为401 Biscayne Blvd，正好夹在湾滨公园（Bayfront Park）和美国航空球馆之间。4.5★（80,089条点评）——看看游客怎么说，附营业时间与游玩建议。
+description: 湾畔市场（Bayside Marketplace）是位于迈阿密市中心比斯坎湾（Biscayne Bay）畔的露天购物餐饮综合体，地址为401 Biscayne Blvd，正好夹在湾滨公园（Bayfront Park）和美国航空球馆之间。4.5★（80,099条点评）——看看游客怎么说，附营业时间与游玩建议。
 quickAnswer: 湾畔市场是位于迈阿密市中心比斯坎湾畔的露天购物餐饮综合体，地址为401 Biscayne Blvd，正好夹在湾滨公园和美国航空球馆之间。这里游客众多，并非小众秘境，如果想独享码头和步道的清静，建议工作日上午10点开门后立刻前往。逛一逛大概预留一小时即可，若还想加上游船或是在水边用餐，建议留出两到三小时。
 faq:
   - q: 湾畔市场具体在什么位置？

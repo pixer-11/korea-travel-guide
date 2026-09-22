@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: chinatown-chinatown-street-market
-srcHash: '9fff3acdc344'
+srcHash: 'e5025e738008'
 title: 牛车水街市：旅行指南（4.4★）
-description: 牛车水街市沿史密斯街（Smith Street）及周边店屋小巷延伸，位于新加坡牛车水（Chinatown），每日9am–10pm开放。4.4★（2,648条评价）——游客怎么说、营业时间与实用建议。
+description: 牛车水街市沿史密斯街（Smith Street）及周边店屋小巷延伸，位于新加坡牛车水（Chinatown），每日9am–10pm开放。4.4★（2,649条评价）——游客怎么说、营业时间与实用建议。
 quickAnswer: 牛车水街市沿史密斯街（Smith Street）及周边店屋小巷延伸，位于新加坡牛车水（Chinatown），每日9am–10pm开放。工作日上午9点到正午这段时间最为清静，周末则从正午一直到关门都人头攒动。建议空着肚子来：这里满是街头小吃摊和纪念品摊，不是那种可以坐下慢慢逛的商场。
 faq:
   - q: 牛车水街市具体在哪里？

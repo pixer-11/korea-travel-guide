@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: new-taipei-national-palace-museum
-srcHash: 'a259886c89df'
+srcHash: '48ea4b550093'
 title: 'Museo del Palacio Nacional: Guía de viaje de Taipéi (4,6★)'
-description: 'El Museo del Palacio Nacional se encuentra en el distrito de Shilin, en Taipéi, y abre de martes a domingo de 9:00 a 17:00, cerrado los lunes. 4,6★ (62.130 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Museo del Palacio Nacional se encuentra en el distrito de Shilin, en Taipéi, y abre de martes a domingo de 9:00 a 17:00, cerrado los lunes. 4,6★ (62.894 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Museo del Palacio Nacional se encuentra en el distrito de Shilin, en Taipéi, y abre de martes a domingo de 9:00 a 17:00, cerrado los lunes. Es un lugar realmente enorme y realmente concurrido: los fines de semana, entre las 10:00 y las 17:00, se forman las colas más largas, así que lo mejor es ir un día laborable a primera hora de la apertura. Conviene reservar al menos dos o tres horas, más si se quiere ver de cerca el famoso Repollo de Jade y la Piedra con Forma de Carne.'
 faq:
   - q: ¿Cuál es el horario del Museo del Palacio Nacional?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: mumbai-fashion-street
-srcHash: 'f1c7f7539efd'
+srcHash: 'd46e37cdd41f'
 title: 'Fashion Street: Guía de viaje de Bombay (Mumbai) (4.0★)'
-description: 'Fashion Street, en Churchgate, Bombay (Mumbai), es la hilera de puestos callejeros situada frente al Bombay Gymkhana, en New Marine Lines, abierta todos los días de 10:00 a 22:00. 4.0★ (43.180 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Fashion Street, en Churchgate, Bombay (Mumbai), es la hilera de puestos callejeros situada frente al Bombay Gymkhana, en New Marine Lines, abierta todos los días de 10:00 a 22:00. 4.0★ (43.183 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Fashion Street, en Churchgate, Bombay (Mumbai), es la hilera de puestos callejeros situada frente al Bombay Gymkhana, en New Marine Lines, abierta todos los días de 10:00 a 22:00. Cuenta con más de 43.000 reseñas y siempre está concurrida, así que conviene ir entre semana por la mañana, de 10:00 a 13:00, si se quiere tener espacio para curiosear con calma. Evite las tardes de fin de semana después de las 14:00, cuando el lugar está a rebosar hasta el cierre.
 faq:
   - q: ¿Cómo se llega a Fashion Street en Bombay?

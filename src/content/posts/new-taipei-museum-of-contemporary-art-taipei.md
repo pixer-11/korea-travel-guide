@@ -1,40 +1,49 @@
 ---
-title: "Museum of Contemporary Art (MOCA): Taipei Travel Guide"
-description: "The Museum of Contemporary Art Taipei (MOCA Taipei) sits in Datong District at No. 39, Chang'an W Rd, in a red-brick former school building dating to the early 1900s, a few minutes' walk from Zhongshan MRT. 4.4★ (7,443 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Taipei"
-category: "attraction"
-pubDate: "2026-08-23T08:11:05.774Z"
+title: 'Museum of Contemporary Art (MOCA): Taipei Travel Guide'
+description: >-
+  The Museum of Contemporary Art Taipei (MOCA Taipei) sits in Datong District at
+  No. 39, Chang'an W Rd, in a red-brick former school building dating to the
+  early 1900s, a few minutes' walk from Zhongshan MRT. 4.4★ (7,473 reviews) —
+  what visitors say, hours, and tips.
+country: Taiwan
+region: Taipei
+category: attraction
+pubDate: '2026-08-23T08:11:05.774Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%E5%8F%B0%E5%8C%97%E7%95%B6%E4%BB%A3%E8%97%9D%E8%A1%93%E9%A4%A8.JPG/1920px-%E5%8F%B0%E5%8C%97%E7%95%B6%E4%BB%A3%E8%97%9D%E8%A1%93%E9%A4%A8.JPG"
-  credit: "Photo: 勤岸 / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E5%8C%97%E7%95%B6%E4%BB%A3%E8%97%9D%E8%A1%93%E9%A4%A8.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%E5%8F%B0%E5%8C%97%E7%95%B6%E4%BB%A3%E8%97%9D%E8%A1%93%E9%A4%A8.JPG/1920px-%E5%8F%B0%E5%8C%97%E7%95%B6%E4%BB%A3%E8%97%9D%E8%A1%93%E9%A4%A8.JPG
+  credit: 'Photo: 勤岸 / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E5%8C%97%E7%95%B6%E4%BB%A3%E8%97%9D%E8%A1%93%E9%A4%A8.JPG
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJc-TxSWypQjQR-8Eh7elK97Q"
-  name: "Museum of Contemporary Art Taipei"
-  address: "No. 39, Chang'an W Rd, Jiantai Village, Datong District, Taipei City, Taiwan 103"
+  id: ChIJc-TxSWypQjQR-8Eh7elK97Q
+  name: Museum of Contemporary Art Taipei
+  address: >-
+    No. 39, Chang'an W Rd, Jiantai Village, Datong District, Taipei City, Taiwan
+    103
   rating: 4.4
-  userRatingsTotal: 7443
-  googleMapsUrl: "https://maps.google.com/?cid=13039973614640808443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 7473
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13039973614640808443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.0508047
   lng: 121.51897659999999
-  phone: "+886 2 2552 3721"
+  phone: +886 2 2552 3721
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 6:00 PM"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-08-23
+    updated: 2026-08-23T00:00:00.000Z
     weekdayBusy:
       - 14
       - 15
@@ -47,24 +56,39 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_5137394b6c65376845382d52516a517079575378542d634a496843"
+    venueId: ven_5137394b6c65376845382d52516a517079575378542d634a496843
 tags:
-  - "taipei"
-  - "art gallery"
-quickAnswer: "The Museum of Contemporary Art Taipei (MOCA Taipei) sits in Datong District at No. 39, Chang'an W Rd, in a red-brick former school building dating to the early 1900s, a few minutes' walk from Zhongshan MRT. It's closed Mondays and open 10am–6pm the rest of the week, with weekends busiest from 11am to 6pm. Budget 90 minutes to two hours, and go on a weekday morning if you want the galleries to yourself."
+  - taipei
+  - art gallery
+quickAnswer: >-
+  The Museum of Contemporary Art Taipei (MOCA Taipei) sits in Datong District at
+  No. 39, Chang'an W Rd, in a red-brick former school building dating to the
+  early 1900s, a few minutes' walk from Zhongshan MRT. It's closed Mondays and
+  open 10am–6pm the rest of the week, with weekends busiest from 11am to 6pm.
+  Budget 90 minutes to two hours, and go on a weekday morning if you want the
+  galleries to yourself.
 faq:
-  - q: "Where exactly is MOCA Taipei?"
-    a: "In Datong District, Taipei City, at No. 39 Chang'an W Rd — a few minutes on foot from Zhongshan MRT station on the Red and Green lines."
-  - q: "How do I get to MOCA Taipei by MRT?"
-    a: "Take the Red or Green Line to Zhongshan Station, then walk about 5 minutes east along Chang'an West Road to the brick building."
-  - q: "What are the opening hours?"
-    a: "Tuesday to Sunday, 10am–6pm. The museum is closed all day Monday."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings shortly after the 10am opening. Weekends get busy from 11am to 6pm, so avoid that window if you want a calmer visit."
-  - q: "How long should I plan to spend there?"
-    a: "About 90 minutes to two hours covers the permanent architecture, main exhibitions, and the smaller MOCA Cube annex."
+  - q: Where exactly is MOCA Taipei?
+    a: >-
+      In Datong District, Taipei City, at No. 39 Chang'an W Rd — a few minutes
+      on foot from Zhongshan MRT station on the Red and Green lines.
+  - q: How do I get to MOCA Taipei by MRT?
+    a: >-
+      Take the Red or Green Line to Zhongshan Station, then walk about 5 minutes
+      east along Chang'an West Road to the brick building.
+  - q: What are the opening hours?
+    a: 'Tuesday to Sunday, 10am–6pm. The museum is closed all day Monday.'
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings shortly after the 10am opening. Weekends get busy from
+      11am to 6pm, so avoid that window if you want a calmer visit.
+  - q: How long should I plan to spend there?
+    a: >-
+      About 90 minutes to two hours covers the permanent architecture, main
+      exhibitions, and the smaller MOCA Cube annex.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-22'
 ---
 ## Why go
 

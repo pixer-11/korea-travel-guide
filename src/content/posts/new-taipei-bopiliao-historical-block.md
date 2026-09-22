@@ -1,23 +1,32 @@
 ---
 title: 'Bopiliao Historical Block: New Taipei Travel Guide (4.2★)'
-description: Bopiliao Historical Block sits in Wanhua District, Taipei City (a short walk from Taipei's Ximending/Longshan Temple area, not New Taipei proper), open Tuesday–Sunday 9am–6pm, closed Mondays. 4.2★ (13,713 reviews) — what visitors say, hours, and tips.
+description: >-
+  Bopiliao Historical Block sits in Wanhua District, Taipei City (a short walk
+  from Taipei's Ximending/Longshan Temple area, not New Taipei proper), open
+  Tuesday–Sunday 9am–6pm, closed Mondays. 4.2★ (13,774 reviews) — what visitors
+  say, hours, and tips.
 country: Taiwan
 region: New Taipei
 category: hidden-gem
 pubDate: '2026-08-15T07:50:33.481Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bopiliao_Historical_Block_%E5%89%9D%E7%9A%AE%E5%AF%AE_-_panoramio.jpg/1920px-Bopiliao_Historical_Block_%E5%89%9D%E7%9A%AE%E5%AF%AE_-_panoramio.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bopiliao_Historical_Block_%E5%89%9D%E7%9A%AE%E5%AF%AE_-_panoramio.jpg/1920px-Bopiliao_Historical_Block_%E5%89%9D%E7%9A%AE%E5%AF%AE_-_panoramio.jpg
   credit: 'Photo: lienyuan lee / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Bopiliao_Historical_Block_%E5%89%9D%E7%9A%AE%E5%AF%AE_-_panoramio.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Bopiliao_Historical_Block_%E5%89%9D%E7%9A%AE%E5%AF%AE_-_panoramio.jpg
 gallery: []
 place:
   id: ChIJ3bYX0KipQjQR6Q_UrbthM_8
   name: Bopiliao Historical Block
-  address: Lane 173, Kangding Rd, Fuyin Village, Wanhua District, Taipei City, Taiwan 108
+  address: >-
+    Lane 173, Kangding Rd, Fuyin Village, Wanhua District, Taipei City, Taiwan
+    108
   rating: 4.2
-  userRatingsTotal: 13713
-  googleMapsUrl: https://maps.google.com/?cid=18389149162187001833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 13774
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=18389149162187001833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 25.036838
   lng: 121.50216479999999
@@ -33,20 +42,35 @@ place:
 tags:
   - new taipei
   - old quarter
-quickAnswer: Bopiliao Historical Block sits in Wanhua District, Taipei City (a short walk from Taipei's Ximending/Longshan Temple area, not New Taipei proper), open Tuesday–Sunday 9am–6pm, closed Mondays. Give it 45–60 minutes, pairing it with nearby Longshan Temple. Go on a weekday morning right at opening to beat tour groups and school trips.
+quickAnswer: >-
+  Bopiliao Historical Block sits in Wanhua District, Taipei City (a short walk
+  from Taipei's Ximending/Longshan Temple area, not New Taipei proper), open
+  Tuesday–Sunday 9am–6pm, closed Mondays. Give it 45–60 minutes, pairing it with
+  nearby Longshan Temple. Go on a weekday morning right at opening to beat tour
+  groups and school trips.
 faq:
   - q: Is Bopiliao Historical Block in New Taipei or Taipei City?
-    a: It's in Taipei City's Wanhua District, not New Taipei — a common mix-up. It's near Longshan Temple MRT Station on the Blue Line.
+    a: >-
+      It's in Taipei City's Wanhua District, not New Taipei — a common mix-up.
+      It's near Longshan Temple MRT Station on the Blue Line.
   - q: How much time should I budget?
-    a: 45 minutes covers a full walk-through; allow up to 90 minutes if you linger in the education center's exhibitions.
+    a: >-
+      45 minutes covers a full walk-through; allow up to 90 minutes if you
+      linger in the education center's exhibitions.
   - q: Is there an entrance fee?
-    a: Walking through the outdoor historical block is free. Some indoor exhibitions may occasionally have separate arrangements, so check posted signage on arrival.
+    a: >-
+      Walking through the outdoor historical block is free. Some indoor
+      exhibitions may occasionally have separate arrangements, so check posted
+      signage on arrival.
   - q: What are the opening hours?
-    a: Tuesday to Sunday, 9am–6pm. It's closed all day Monday.
+    a: 'Tuesday to Sunday, 9am–6pm. It''s closed all day Monday.'
   - q: When is it quietest?
-    a: Weekday mornings right at 9am opening, especially Tuesday to Thursday. Weekend afternoons draw the biggest crowds.
+    a: >-
+      Weekday mornings right at 9am opening, especially Tuesday to Thursday.
+      Weekend afternoons draw the biggest crowds.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-22'
 ---
 
 ## Why go

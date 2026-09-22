@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: dubai-books-kinokuniya-dubai
-srcHash: '7ce26174b03c'
+srcHash: '6654744b37c4'
 title: 'Books Kinokuniya: Guía de viaje de Dubái (4.7★)'
-description: 'Books Kinokuniya Dubái es la gran sucursal de la cadena japonesa dentro de The Dubai Mall, cerca de la entrada de Fashion Parking, y suele tener tanta afluencia que conviene planificar bien la visita. 4.7★ (10.221 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Books Kinokuniya Dubái es la gran sucursal de la cadena japonesa dentro de The Dubai Mall, cerca de la entrada de Fashion Parking, y suele tener tanta afluencia que conviene planificar bien la visita. 4.7★ (10.223 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Books Kinokuniya Dubái es la gran sucursal de la cadena japonesa dentro de The Dubai Mall, cerca de la entrada de Fashion Parking, y suele tener tanta afluencia que conviene planificar bien la visita. Conviene ir un día entre semana de 10:00 a 13:00, o los fines de semana por la mañana antes del mediodía, para curiosear sin lidiar con multitudes. No es un lugar secreto: se trata de una de las tiendas más reseñadas del centro comercial, así que hay que esperar compañía la mayoría de las tardes y noches.'
 faq:
   - q: ¿Dónde está exactamente Books Kinokuniya dentro de Dubai Mall?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: hong-kong-central-market
-srcHash: '08c270e7fd58'
+srcHash: '2e8b67a7eb1a'
 title: 'Central Market: guía de viaje de Hong Kong (4,1★)'
-description: 'El Central Market, en el distrito de Central de Hong Kong, es el antiguo mercado Bauhaus de los años treinta en Queen''s Road Central, hoy reconvertido en un centro de tiendas, puestos de comida y espacio de eventos con entrada gratuita, abierto todos los días de 10:00 a 22:00. 4,1★ (9.521 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Central Market, en el distrito de Central de Hong Kong, es el antiguo mercado Bauhaus de los años treinta en Queen''s Road Central, hoy reconvertido en un centro de tiendas, puestos de comida y espacio de eventos con entrada gratuita, abierto todos los días de 10:00 a 22:00. 4,1★ (9.523 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Central Market, en el distrito de Central de Hong Kong, es el antiguo mercado Bauhaus de los años treinta situado en Queen's Road Central, hoy convertido en un centro de tiendas, puestos de comida y espacio de eventos con entrada gratuita, abierto todos los días de 10:00 a 22:00. Es muy popular tanto entre visitantes como entre oficinistas a la hora del almuerzo, así que el momento más tranquilo es cualquier mañana de un día laborable justo después de la apertura; los fines de semana se llena entre las 13:00 y las 17:00. Conviene reservar una hora, más si coincide con un día de mercado o de exposición temporal.
 faq:
   - q: ¿Dónde está exactamente el Central Market y cuál es la estación de MTR más cercana?

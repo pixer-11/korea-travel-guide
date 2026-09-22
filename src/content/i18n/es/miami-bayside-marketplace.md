@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: miami-bayside-marketplace
-srcHash: 'e128e18e5b58'
+srcHash: '053ad77172c4'
 title: 'Bayside Marketplace: Guía de Viaje de Miami (4,5★)'
-description: 'Bayside Marketplace es el complejo comercial y gastronómico al aire libre situado junto a la bahía de Biscayne, en el 401 de Biscayne Blvd, en el centro de Miami, entre Bayfront Park y el AmericanAirlines Arena. 4,5★ (80.089 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Bayside Marketplace es el complejo comercial y gastronómico al aire libre situado junto a la bahía de Biscayne, en el 401 de Biscayne Blvd, en el centro de Miami, entre Bayfront Park y el AmericanAirlines Arena. 4,5★ (80.099 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Bayside Marketplace es el complejo comercial y gastronómico al aire libre situado junto a la bahía de Biscayne, en el 401 de Biscayne Blvd, en el centro de Miami, justo entre Bayfront Park y el AmericanAirlines Arena. Se trata de un lugar muy visitado, no de un rincón escondido, así que si quiere tener los muelles y los paseos para usted solo, conviene ir un día de semana justo después de la apertura, a las 10:00. Calcule una hora para recorrerlo, o dos o tres si añade un paseo en barco o una comida frente al agua.
 faq:
   - q: ¿Dónde está exactamente Bayside Marketplace?

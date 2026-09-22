@@ -1,41 +1,47 @@
 ---
-title: "Chinatown Street Market: Travel Guide (4.4★)"
-description: "Chinatown Street Market runs along Smith Street and the surrounding shophouse lanes in Singapore's Chinatown, open daily 9am–10pm. 4.4★ (2,648 reviews) — what visitors say, hours, and tips."
-country: "Singapore"
-region: "Chinatown"
-category: "hidden-gem"
-pubDate: "2026-09-22T07:52:43.066Z"
+title: 'Chinatown Street Market: Travel Guide (4.4★)'
+description: >-
+  Chinatown Street Market runs along Smith Street and the surrounding shophouse
+  lanes in Singapore's Chinatown, open daily 9am–10pm. 4.4★ (2,649 reviews) —
+  what visitors say, hours, and tips.
+country: Singapore
+region: Chinatown
+category: hidden-gem
+pubDate: '2026-09-22T07:52:43.066Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Chinese_New_Year_market_in_Singapore_Chinatown_horizontal.jpg/3840px-Chinese_New_Year_market_in_Singapore_Chinatown_horizontal.jpg"
-  credit: "Photo: Aaaatu / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Chinese_New_Year_market_in_Singapore_Chinatown_horizontal.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Chinese_New_Year_market_in_Singapore_Chinatown_horizontal.jpg/3840px-Chinese_New_Year_market_in_Singapore_Chinatown_horizontal.jpg
+  credit: 'Photo: Aaaatu / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Chinese_New_Year_market_in_Singapore_Chinatown_horizontal.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJ44PnOnMZ2jERDhzYwdX5qI4"
-  name: "Chinatown Street Market"
-  address: "29 Smith St, Singapore 058943"
+  id: ChIJ44PnOnMZ2jERDhzYwdX5qI4
+  name: Chinatown Street Market
+  address: '29 Smith St, Singapore 058943'
   rating: 4.4
-  userRatingsTotal: 2648
-  googleMapsUrl: "https://maps.google.com/?cid=10279740845948673038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2649
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10279740845948673038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2821932
   lng: 103.8442544
-  phone: "+65 6221 5115"
+  phone: +65 6221 5115
   openingHours:
-    - "Monday: 9:00 AM – 10:00 PM"
-    - "Tuesday: 9:00 AM – 10:00 PM"
-    - "Wednesday: 9:00 AM – 10:00 PM"
-    - "Thursday: 9:00 AM – 10:00 PM"
-    - "Friday: 9:00 AM – 10:00 PM"
-    - "Saturday: 9:00 AM – 10:00 PM"
-    - "Sunday: 9:00 AM – 10:00 PM"
+    - 'Monday: 9:00 AM – 10:00 PM'
+    - 'Tuesday: 9:00 AM – 10:00 PM'
+    - 'Wednesday: 9:00 AM – 10:00 PM'
+    - 'Thursday: 9:00 AM – 10:00 PM'
+    - 'Friday: 9:00 AM – 10:00 PM'
+    - 'Saturday: 9:00 AM – 10:00 PM'
+    - 'Sunday: 9:00 AM – 10:00 PM'
   busyness:
-    updated: 2026-09-22
+    updated: 2026-09-22T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -54,24 +60,40 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_34497135586477597a684452456a325a4d6e4f6e5034344a496843"
+    venueId: ven_34497135586477597a684452456a325a4d6e4f6e5034344a496843
 tags:
-  - "chinatown"
-  - "local market"
-quickAnswer: "Chinatown Street Market runs along Smith Street and the surrounding shophouse lanes in Singapore's Chinatown, open daily 9am–10pm. It's calmest on weekday mornings between 9am and noon; weekends get packed from noon until close. Come hungry: this stretch is street food and souvenir stalls, not a sit-down mall."
+  - chinatown
+  - local market
+quickAnswer: >-
+  Chinatown Street Market runs along Smith Street and the surrounding shophouse
+  lanes in Singapore's Chinatown, open daily 9am–10pm. It's calmest on weekday
+  mornings between 9am and noon; weekends get packed from noon until close. Come
+  hungry: this stretch is street food and souvenir stalls, not a sit-down mall.
 faq:
-  - q: "Where exactly is Chinatown Street Market?"
-    a: "It's centered on Smith Street at 29 Smith St, Singapore 058943, inside Singapore's Chinatown district, a short walk from Chinatown MRT station (Exit A, North East Line)."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings between 9am and noon are quietest. On weekends, the calm window is shorter, roughly 9am to 11am, before crowds build."
-  - q: "When should I avoid going?"
-    a: "Skip weekend afternoons and evenings if you dislike crowds. Busiest hours run from noon to closing (10pm) on Saturdays and Sundays."
-  - q: "How long should I spend here?"
-    a: "An hour or two is enough to walk both sides of Smith Street, sample a few food stalls, and browse souvenirs without rushing."
-  - q: "What's nearby worth combining with a visit?"
-    a: "Maxwell Food Centre is a block south for more hawker food, and the Buddha Tooth Relic Temple and Sri Mariamman Temple are both within a short walk."
+  - q: Where exactly is Chinatown Street Market?
+    a: >-
+      It's centered on Smith Street at 29 Smith St, Singapore 058943, inside
+      Singapore's Chinatown district, a short walk from Chinatown MRT station
+      (Exit A, North East Line).
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings between 9am and noon are quietest. On weekends, the calm
+      window is shorter, roughly 9am to 11am, before crowds build.
+  - q: When should I avoid going?
+    a: >-
+      Skip weekend afternoons and evenings if you dislike crowds. Busiest hours
+      run from noon to closing (10pm) on Saturdays and Sundays.
+  - q: How long should I spend here?
+    a: >-
+      An hour or two is enough to walk both sides of Smith Street, sample a few
+      food stalls, and browse souvenirs without rushing.
+  - q: What's nearby worth combining with a visit?
+    a: >-
+      Maxwell Food Centre is a block south for more hawker food, and the Buddha
+      Tooth Relic Temple and Sri Mariamman Temple are both within a short walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-22'
 ---
 
 ## What you're walking into

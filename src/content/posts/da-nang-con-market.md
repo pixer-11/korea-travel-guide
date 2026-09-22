@@ -1,59 +1,82 @@
 ---
-title: "Con Market: Da Nang Travel Guide (4.3★)"
-description: "Con Market (Chợ Cồn) is the big covered market in Hải Châu district, central Da Nang, at 90 Hùng Vương, open daily 7am to 7pm. 4.3★ (23,058 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Da Nang"
-category: "hidden-gem"
-pubDate: "2026-09-22T07:43:42.264Z"
+title: 'Con Market: Da Nang Travel Guide (4.3★)'
+description: >-
+  Con Market (Chợ Cồn) is the big covered market in Hải Châu district, central
+  Da Nang, at 90 Hùng Vương, open daily 7am to 7pm. 4.3★ (23,071 reviews) — what
+  visitors say, hours, and tips.
+country: Vietnam
+region: Da Nang
+category: hidden-gem
+pubDate: '2026-09-22T07:43:42.264Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/3/3b/Con_Market_across_intersection.JPG"
-  credit: "Photo: Dragfyre / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Con_Market_across_intersection.JPG"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/3/3b/Con_Market_across_intersection.JPG
+  credit: 'Photo: Dragfyre / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Con_Market_across_intersection.JPG'
+  via: act
   focus:
     x: 40
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Con_Market_at_sunset.jpg/3840px-Con_Market_at_sunset.jpg"
-    credit: "Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Con_Market_at_sunset.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Con_Market_at_sunset.jpg/3840px-Con_Market_at_sunset.jpg
+    credit: 'Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Con_Market_at_sunset.jpg'
 place:
-  id: "ChIJu6FQjzUYQjER39TMpgQVRUs"
-  name: "Con Market"
-  address: "90 Hùng Vương, Hải Châu, Đà Nẵng 550000, Vietnam"
+  id: ChIJu6FQjzUYQjER39TMpgQVRUs
+  name: Con Market
+  address: '90 Hùng Vương, Hải Châu, Đà Nẵng 550000, Vietnam'
   rating: 4.3
-  userRatingsTotal: 23058
-  googleMapsUrl: "https://maps.google.com/?cid=5423764435960124639&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 23071
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5423764435960124639&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 16.0677927
   lng: 108.21448339999999
   openingHours:
-    - "Monday: 7:00 AM – 7:00 PM"
-    - "Tuesday: 7:00 AM – 7:00 PM"
-    - "Wednesday: 7:00 AM – 7:00 PM"
-    - "Thursday: 7:00 AM – 7:00 PM"
-    - "Friday: 7:00 AM – 7:00 PM"
-    - "Saturday: 7:00 AM – 7:00 PM"
-    - "Sunday: 7:00 AM – 7:00 PM"
+    - 'Monday: 7:00 AM – 7:00 PM'
+    - 'Tuesday: 7:00 AM – 7:00 PM'
+    - 'Wednesday: 7:00 AM – 7:00 PM'
+    - 'Thursday: 7:00 AM – 7:00 PM'
+    - 'Friday: 7:00 AM – 7:00 PM'
+    - 'Saturday: 7:00 AM – 7:00 PM'
+    - 'Sunday: 7:00 AM – 7:00 PM'
 tags:
-  - "da nang"
-  - "local market"
-quickAnswer: "Con Market (Chợ Cồn) is the big covered market in Hải Châu district, central Da Nang, at 90 Hùng Vương, open daily 7am to 7pm. It's one of the city's most-visited markets, so go right at 7am or after 5pm if you want room to move rather than a wall of shoulders. Come for the ground-floor food stalls, dried seafood, and the clothing and housewares floors upstairs."
+  - da nang
+  - local market
+quickAnswer: >-
+  Con Market (Chợ Cồn) is the big covered market in Hải Châu district, central
+  Da Nang, at 90 Hùng Vương, open daily 7am to 7pm. It's one of the city's
+  most-visited markets, so go right at 7am or after 5pm if you want room to move
+  rather than a wall of shoulders. Come for the ground-floor food stalls, dried
+  seafood, and the clothing and housewares floors upstairs.
 faq:
-  - q: "What are Con Market's opening hours?"
-    a: "It's open every day from 7:00 AM to 7:00 PM, with no midday closure listed."
-  - q: "When is the quietest time to visit Con Market?"
-    a: "Weekday mornings right at the 7am opening, or the last hour or so before the 7pm close, tend to be calmer. Weekends and midday are the busiest, since it's one of Da Nang's most-visited markets."
-  - q: "Can I bargain at Con Market?"
-    a: "Yes, especially on the upper clothing, fabric and souvenir floor, where prices aren't fixed. A calm counter-offer is normal and expected."
-  - q: "How do I pay at the stalls?"
-    a: "Cash, in Vietnamese dong, is the standard way to pay at almost every individual stall; card machines are rare among vendors."
-  - q: "What's nearby if I want to combine the visit with other sights?"
-    a: "The Han River and the Da Nang Cathedral (Con Ga Church) are both a short walk away, making Con Market an easy stop to slot into a downtown morning."
+  - q: What are Con Market's opening hours?
+    a: >-
+      It's open every day from 7:00 AM to 7:00 PM, with no midday closure
+      listed.
+  - q: When is the quietest time to visit Con Market?
+    a: >-
+      Weekday mornings right at the 7am opening, or the last hour or so before
+      the 7pm close, tend to be calmer. Weekends and midday are the busiest,
+      since it's one of Da Nang's most-visited markets.
+  - q: Can I bargain at Con Market?
+    a: >-
+      Yes, especially on the upper clothing, fabric and souvenir floor, where
+      prices aren't fixed. A calm counter-offer is normal and expected.
+  - q: How do I pay at the stalls?
+    a: >-
+      Cash, in Vietnamese dong, is the standard way to pay at almost every
+      individual stall; card machines are rare among vendors.
+  - q: What's nearby if I want to combine the visit with other sights?
+    a: >-
+      The Han River and the Da Nang Cathedral (Con Ga Church) are both a short
+      walk away, making Con Market an easy stop to slot into a downtown morning.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-22'
 ---
 
 ## What Con Market actually is
