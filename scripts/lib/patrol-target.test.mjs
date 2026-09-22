@@ -42,6 +42,9 @@ const cases = [
   ['cancelled(주최측 취소)도 아님 — 재공개 금지', { draft: true, heroUrl: HERO, heldReason: 'cancelled' }, false],
   // 2026-09-16 22:17 사진 순찰이 평점 3.9 로 내린 글에 더 나은 히어로를 찾아주고 6시간 만에 다시 공개했다.
   ['below-rating-floor(평점 기준 미달)도 아님 — 사진이 좋아져도 평점은 그대로다', { draft: true, heroUrl: HERO, heldReason: 'below-rating-floor' }, false],
+  // refresh.mjs 가 자동으로 내릴 때 적는 철자. 이 줄이 없던 동안 자동 평점 보류는
+  // 전부 사진 순찰에게 "그냥 사진 격리" 로 보였다(2026-09-22).
+  ['rating(refresh 가 적는 같은 사유) 도 사진 순찰이 올리면 안 된다', { draft: true, heroUrl: HERO, heldReason: 'rating' }, false],
   ['closed(영업 중단)도 아님 — 문이 다시 열렸다는 증거는 사진이 아니다', { draft: true, heroUrl: HERO, heldReason: 'closed' }, false],
   ['사진류 hold(wrong-venue-photo)는 여전히 대상', { draft: true, heroUrl: HERO, heldReason: 'wrong-venue-photo' }, true],
   ['SLUGS 지명은 hold 종류와 무관하게 대상', { draft: true, heroUrl: HERO, heldReason: 'content', named: true }, true],

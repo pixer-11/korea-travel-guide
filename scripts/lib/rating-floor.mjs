@@ -22,3 +22,19 @@ export function belowFloor(rating, isHeld = false) {
   if (typeof rating !== 'number' || !(rating > 0)) return false; // 평점이 없으면 판정하지 않는다
   return rating < (isHeld ? RECOVER : FLOOR);
 }
+
+// 🔤 한 사유, 두 철자 — 그리고 시스템의 두 반쪽이 각각 하나씩만 알았다(2026-09-22).
+// refresh.mjs 는 자동으로 내릴 때 'rating' 을 적었고, 09-16 의 수기 보류는
+// 'below-rating-floor' 를 적었다. patrol-target 의 NON_PHOTO_HOLD 는 뒤엣것만
+// 알아서, 'rating' 으로 내려간 글은 사진만 좋아지면 사진 순찰이 도로 올렸다
+// (09-16 에 tokyo-smith-wollensky 가 내려간 지 여섯 시간 만에 그렇게 부활했다).
+// audit-rating-floor 의 해제 판정은 앞엣것만 알아서, 'below-rating-floor' 로 적힌
+// 보류는 평점이 회복돼도 영영 풀리지 않았다. 앞으로 쓰는 철자는 하나이고,
+// 판정은 이미 디스크에 적힌 것 때문에 둘 다 받는다.
+// 'rating' is the canonical spelling because repair-held-posts keys its
+// recheck command on it; a hold written under a name that map does not have
+// reports '재검사할 도구가 없음' every night and never lifts.
+export const HOLD_REASON = 'rating';
+export const RATING_HOLD = /(?:^|\+)(?:rating|below-rating-floor)(?:\+|$)/;
+/** 이 heldReason 이 평점 사유인가(두 철자 모두). */
+export const isRatingHold = (reason) => RATING_HOLD.test(String(reason ?? ''));

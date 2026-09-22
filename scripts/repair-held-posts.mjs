@@ -74,6 +74,10 @@ const CHECKERS = {
   // 2026-09-22: 평점이 기준 아래로 떨어져 내려간 글은, 평점이 다시 오르면 돌아와야 한다.
   // refresh 가 12주 주기로 초안까지 평점을 갱신하므로 이 검사기는 그 값을 읽기만 한다(쿼터 0).
   rating: { cmd: 'node scripts/audit-rating-floor.mjs --drafts', pick: /^RATING-BELOW-FLOOR:\s*(\S+)\.md/ },
+  // 같은 보류의 다른 철자. 09-16 의 수기 보류가 'below-rating-floor' 로 적혔고,
+  // 이 표에 없으면 그 글은 매일 밤 "재검사할 도구가 없음" 만 찍으며 영영 안 풀린다.
+  // 앞으로 기계가 적는 철자는 rating-floor.mjs 의 HOLD_REASON 하나다.
+  'below-rating-floor': { cmd: 'node scripts/audit-rating-floor.mjs --drafts', pick: /^RATING-BELOW-FLOOR:\s*(\S+)\.md/ },
 };
 // 여기 실린 명령은 전부 초안을 판정해야 한다. 초안을 건너뛰는 검사기는 "지적 없음"을
 // 돌려주고, 그건 이 순찰에게 "결함이 사라졌다"로 읽혀 격리가 풀린다 — 아래 테스트가

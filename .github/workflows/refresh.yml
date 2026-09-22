@@ -20,6 +20,10 @@ on:
         description: "FSQ 사진 링크 전수 점검(362요청)+주간 보고 포함 — 일요일 몫. 감시견의 평일 구조는 false 로 온다"
         required: false
         default: 'true'
+      slugs:
+        description: "특정 글만 재확인(쉼표 구분, .md 없이). 비우면 평소 순환 — 커서는 950편 넘게 한 번도 못 본 글을 안고 있어서 한 편을 지목해 묻는 길이 따로 필요하다"
+        required: false
+        default: ''
 
 # Shares the daily Places Details budget with publish/backfill/quality-audit.
 concurrency:
@@ -48,6 +52,10 @@ jobs:
           # rotate oldest-checked-first through the whole catalogue instead
           # of re-refreshing the same alphabetical head every week.
           REFRESH_LIMIT: '50'
+          # Empty on every scheduled run, which is the rotation. Set by hand to
+          # ask about named posts — the cursor cannot answer a question about ONE
+          # post, and ~980 posts have never been checked at 50 calls a day.
+          REFRESH_SLUGS: ${{ github.event.inputs.slugs || '' }}
         run: npm run refresh
 
       # The step above moves place.rating / place.userRatingsTotal. The meta

@@ -12,7 +12,7 @@
 import { readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import yaml from 'js-yaml';
-import { belowFloor, FLOOR, RECOVER } from './lib/rating-floor.mjs';
+import { belowFloor, FLOOR, RECOVER, isRatingHold } from './lib/rating-floor.mjs';
 import { requireExamined } from './lib/examined.mjs';
 
 const DIR = 'src/content/posts';
@@ -28,7 +28,7 @@ for (const f of files) {
   let d;
   try { d = yaml.load(raw.slice(4, e)); } catch { continue; }
   if (!d || d.category === 'event') continue;
-  const held = /^rating$|(^|\+)rating(\+|$)/.test(String(d.heldReason || ''));
+  const held = isRatingHold(d.heldReason);
   if (d.draft && !(DRAFTS && held)) continue;   // 평시엔 초안을 보지 않는다
   seen++;
   if (belowFloor(d.place?.rating, Boolean(d.draft && held))) {

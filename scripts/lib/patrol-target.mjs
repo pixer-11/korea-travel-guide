@@ -37,6 +37,11 @@ export function isPhotolessLive({ draft, heroUrl }) {
 // moment it found them a hero — this list did not know the new reasons, so a
 // misfiled guide went live as soon as it had a photo. Reasons may now also be
 // '+'-joined (hours+wrong-region), so the test matches any component.
+// 'rating' AND 'below-rating-floor' are the SAME hold under two spellings, and
+// listing only the second is why the hole stayed open after 09-16: refresh.mjs
+// writes 'rating' when it auto-unpublishes a venue whose rating fell, so every
+// automatic rating hold was invisible here and a new hero republished it. See
+// lib/rating-floor.mjs — one spelling from now on, both accepted on read.
 // 'below-rating-floor': the venue is rated under the 4.0 the methodology page
 // promises. On 2026-09-16 22:17 the photo patrol found tokyo-smith-wollensky a
 // better hero and republished it six hours after it had been unpublished for
@@ -44,7 +49,7 @@ export function isPhotolessLive({ draft, heroUrl }) {
 // which is why heldFinal (a written-down decision) is now an independent brake
 // in backfill-photos-alt.mjs: a new reason name can be missing from this regex
 // and a decided post still cannot go back up.
-export const NON_PHOTO_HOLD = /(?:^|\+)(hours|content|generic-topic|duplicate|past-event|cancelled|wrong-region|wrong-country|below-rating-floor|closed)(?:\+|$)/;
+export const NON_PHOTO_HOLD = /(?:^|\+)(hours|content|generic-topic|duplicate|past-event|cancelled|wrong-region|wrong-country|rating|below-rating-floor|closed)(?:\+|$)/;
 
 /**
  * @param {object} p

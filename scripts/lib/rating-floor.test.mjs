@@ -5,7 +5,7 @@
 // 여기서 고정하는 것: 약속(4.0)을 지키되, 4.0 근처를 오가는 장소가 매주 내렸다 올라가지 않게 한다.
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { belowFloor, FLOOR, RECOVER } from './rating-floor.mjs';
+import { belowFloor, FLOOR, RECOVER, HOLD_REASON, isRatingHold } from './rating-floor.mjs';
 
 test('공개글은 4.0 미만이면 내린다', () => {
   assert.equal(belowFloor(3.9), true);
@@ -31,7 +31,35 @@ test('배선: refresh 가 내리고, 수리 순찰이 되올린다', async () =>
   const { readFileSync } = await import('node:fs');
   const refresh = readFileSync('scripts/refresh.mjs', 'utf8');
   assert.match(refresh, /belowFloor\(parsed\.data\.place\?\.rating\)/, 'refresh 가 기준선을 보지 않는다');
-  assert.match(refresh, /heldReason = 'rating'/, '사유를 남기지 않으면 되올릴 수 없다');
+  assert.match(refresh, /heldReason = HOLD_REASON/, '사유를 남기지 않으면 되올릴 수 없다');
   const repair = readFileSync('scripts/repair-held-posts.mjs', 'utf8');
   assert.match(repair, /rating: \{ cmd: 'node scripts\/audit-rating-floor\.mjs --drafts'/, '수리 순찰이 rating 을 재검사하지 않는다');
+});
+
+// 2026-09-22: 한 사유가 두 철자로 적혀 있었고, 시스템의 두 반쪽이 각각 하나씩만
+// 알았다. 판정은 둘 다 받아야 하고(이미 디스크에 적힌 것), 기계가 적는 철자는
+// 하나여야 한다(검사기 표의 키와 같아야 하므로).
+test('평점 보류는 두 철자 모두로 알아본다', () => {
+  for (const r of ['rating', 'below-rating-floor', 'hours+rating', 'hours+below-rating-floor']) {
+    assert.equal(isRatingHold(r), true, r);
+  }
+  for (const r of ['', undefined, 'hours', 'closed', 'wrong-region', 'crowd-claims']) {
+    assert.equal(isRatingHold(r), false, String(r));
+  }
+});
+
+test('기계가 적는 철자는 수리 순찰의 검사기 표에 실제로 있는 키다', async () => {
+  const { readFileSync } = await import('node:fs');
+  const repair = readFileSync('scripts/repair-held-posts.mjs', 'utf8');
+  assert.ok(
+    repair.includes(`  ${HOLD_REASON}: { cmd:`) || repair.includes(`  '${HOLD_REASON}': { cmd:`),
+    `CHECKERS 에 ${HOLD_REASON} 키가 없으면 그 보류는 영영 안 풀린다`,
+  );
+  // 09-16 에 손으로 적힌 다른 철자도 자기 검사기를 찾아야 한다.
+  assert.ok(repair.includes("  'below-rating-floor': { cmd:"), 'below-rating-floor 검사기 없음');
+});
+
+test('사진 순찰은 평점 보류를 두 철자 모두에서 건드리지 않는다', async () => {
+  const { NON_PHOTO_HOLD } = await import('./patrol-target.mjs');
+  for (const r of ['rating', 'below-rating-floor']) assert.equal(NON_PHOTO_HOLD.test(r), true, r);
 });

@@ -30,13 +30,18 @@ import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import matter from 'gray-matter';
-import { belowFloor, FLOOR } from './lib/rating-floor.mjs';
+import { belowFloor, FLOOR, HOLD_REASON } from './lib/rating-floor.mjs';
+import { parseSlugTargets, isTargeted } from './lib/refresh-targets.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const POSTS_DIR = join(__dirname, '..', 'src', 'content', 'posts');
 const CURSOR_PATH = join(__dirname, '..', 'data', 'refresh-cursor.json');
 
 const HAS_KEYS = !!process.env.GOOGLE_MAPS_API_KEY;
+// `--slugs=a,b` (or REFRESH_SLUGS) re-checks named posts instead of taking the
+// next slice of the rotation. An empty value means the rotation, so the daily
+// cron is unaffected — see lib/refresh-targets.mjs for why this exists.
+const SLUG_TARGETS = parseSlugTargets(process.argv, process.env);
 const today = new Date().toISOString().slice(0, 10);
 // Details calls per run. Default matches refresh.yml; REFRESH_LIMIT=0 is a
 // misconfiguration, not "unlimited" — unlimited is how the quota drained before.
@@ -71,6 +76,7 @@ async function main() {
     return;
   }
   const { getPlaceById } = await import('./lib/places.mjs');
+  if (SLUG_TARGETS.size) console.log(`🎯 targeted run — ${[...SLUG_TARGETS].join(", ")}`);
   const cursor = await loadCursor();
 
   // Candidates = posts with a place.id, oldest-checked-first (never-checked
@@ -79,6 +85,7 @@ async function main() {
   for (const file of files) {
     const full = join(POSTS_DIR, file);
     const parsed = matter(await readFile(full, 'utf8'));
+    if (!isTargeted(file, SLUG_TARGETS)) continue;
     if (parsed.data.place?.id) candidates.push({ file, full, parsed });
   }
   candidates.sort((a, b) =>
@@ -140,7 +147,7 @@ async function main() {
     // 평점이 회복하면 수리 순찰이 다시 올릴 수 있게 한다(lib/rating-floor.mjs 의 떨림 방지).
     if (!parsed.data.draft && belowFloor(parsed.data.place?.rating)) {
       parsed.data.draft = true;
-      parsed.data.heldReason = 'rating';
+      parsed.data.heldReason = HOLD_REASON;
       changed = true;
       unpublished++;
       console.log(`  ⭐  unpublished (rating ${parsed.data.place.rating} < ${FLOOR}): ${file}`);
