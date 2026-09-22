@@ -15,6 +15,7 @@
 //  you can see the whole flow without spending anything.
 // ─────────────────────────────────────────────────────────────
 import './lib/env.mjs'; // MUST be first — loads .env before other modules read process.env
+import { underTargetLine } from './lib/under-target.mjs';
 import { makeTitle, makePlacelessTitle } from './lib/titles.mjs';
 import { clip, withRatingSignal } from './lib/serp.mjs';
 import { readFile, writeFile, readdir, mkdir } from 'node:fs/promises';
@@ -324,6 +325,9 @@ async function main() {
   const onlyCity = (process.env.CITY || '').trim(); // optional: fill ONE city (targets carry `region`)
   const queue = buildRotatedQueue(targets, done, activeCountries, seasonal, { capPerCountry, onlyRegion: onlyCity, countryCounts, regionCatCounts, regionQualifyingCounts, itineraryCityStates, yieldLedger });
   if (onlyCity && !queue.length) console.log(`⚠️  CITY "${onlyCity}" matched no queued target — check data/targets.json regions, or that they are not all already published.`);
+  // Backfill only: name the pool the queue count refers to (see lib/under-target).
+  const underLine = underTargetLine(countryCounts, activeCountries, capPerCountry);
+  if (underLine) console.log(underLine);
   if (USE_PLACES && !DUMMY) console.log(describeYield(yieldLedger));
 
   const mode = DUMMY ? 'DUMMY' : USE_PLACES ? 'LIVE + Places' : 'LIVE (no Places)';
