@@ -6,7 +6,7 @@ title: 'Tokyo in 3 days: shrines, Skytree, and teamLab itinerary'
 description: A 3-day Tokyo itinerary moving from Shibuya's shrine forest and Shinjuku's gardens to Skytree and Asakusa, then teamLab Planets and Tsukiji's market stalls.
 quickAnswer: 'This is a 3-day Tokyo itinerary: day one covers Shibuya and Shinjuku City with a shrine, garden, and evening café; day two moves through Sumida City and Taito City for a tower, temple, and market; day three crosses Koto City and Chuo City for digital art, a fish market lunch, a garden, and dinner in the evening.'
 pubDate: '2026-07-28T01:22:55.600Z'
-stopsHash: 18373b01a3a79da1c21d858b9a7bde56518be339
+stopsHash: fdf4a6da08645ce6601f7de1012853a07d2ac4bc
 packedAvailable: true
 faq:
   - q: How should I get around for this itinerary?
@@ -28,25 +28,25 @@ itinerary:
         why: Meiji Jingu offers a wide, forested approach that makes for a calm, atmospheric start to the day before the city's crowds build.
         dwellMin: 75
         walkToNext:
-          km: 1.1
-          minutes: 15
+          km: 1.8
+          minutes: 24
           transit: false
-      - slug: tokyo-pres-de-l-as
-        slot: lunch
-        why: This Harajuku offshoot offers a shorter, relaxed omakase-style course, a fitting lunch stop after a morning at the shrine.
-        dwellMin: 60
-        walkToNext:
-          km: 2.4
-          minutes: null
-          transit: true
       - slug: tokyo-shinjuku-gyoen-national-garden
         slot: afternoon
         why: Shinjuku Gyoen's blend of French, English, and Japanese garden styles gives a long, unhurried afternoon of green space after the morning's walking.
         dwellMin: 150
         walkToNext:
-          km: 3.4
+          km: 3.9
           minutes: null
           transit: true
+      - slug: tokyo-shibuya-crossing
+        slot: afternoon
+        why: An attraction rated 4.5 by visitors, included as a stop on this route.
+        dwellMin: 30
+        walkToNext:
+          km: 1.4
+          minutes: 19
+          transit: false
       - slug: tokyo-fuglen-tokyo
         slot: evening
         why: Fuglen Tokyo shifts from coffee and pastries by day to an inventive cocktail menu at night, making it a fitting close to the evening in a cozy, vintage-furnished room.
@@ -113,6 +113,6 @@ itinerary:
     rainSwapSlug: tokyo-smith-wollensky
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-22T00:58:05.602Z'
+updatedDate: '2026-09-22T01:34:42.905Z'
 ---
 

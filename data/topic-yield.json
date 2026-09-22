@@ -46,7 +46,7 @@
    "hits": 21
   },
   "bookshop": {
-   "attempts": 18,
+   "attempts": 20,
    "hits": 1
   },
   "seafood": {
@@ -82,7 +82,7 @@
    "hits": 1
   },
   "concept cafe": {
-   "attempts": 23,
+   "attempts": 31,
    "hits": 0
   },
   "top attraction": {
@@ -190,5 +190,5 @@
    "hits": 1
   }
  },
- "updated": "2026-09-22T00:44:13.920Z"
+ "updated": "2026-09-22T01:27:56.412Z"
 }

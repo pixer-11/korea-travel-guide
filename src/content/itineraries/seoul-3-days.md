@@ -6,7 +6,7 @@ title: '3-Day Seoul Itinerary: Markets, Palaces, Namsan, and Mullae-dong'
 description: A 3-day Seoul itinerary covering Jongno's markets and hanok lanes, Namsan views and Jung District palaces, and a riverside-to-industrial-art-village day in Yeongdeungpo and Mapo-gu.
 quickAnswer: 'This is a 3-day Seoul itinerary: day one covers Jongno District''s markets and craft alleys with a crossover into Jung District''s newtro bar scene; day two runs from Namsan Mountain in Yongsan District through Jung District''s market and palace, ending with a Gangnam bar; day three is a lighter day pairing Yeongdeungpo District''s riverside park and Mullae-dong art village with a café stop in Mapo-gu.'
 pubDate: '2026-07-28T01:22:30.950Z'
-stopsHash: bf8868501dcdf0245199d481adec02147e85b2d3
+stopsHash: 5519ba243ba0a7623f2228b89e27c84c146bb81f
 packedAvailable: true
 faq:
   - q: How should I get around for this itinerary?
@@ -44,15 +44,15 @@ itinerary:
         why: This old printing-and-hardware district turned newtro bar scene is best experienced in early evening as workshops wind down and bar signs light up, making it a fitting afternoon-to-evening pivot.
         dwellMin: 60
         walkToNext:
-          km: 2.2
-          minutes: null
-          transit: true
-      - slug: seoul-london-bagel-museum
-        slot: evening
-        why: As Seoul's most talked-about bakery near Bukchon Hanok Village, it's a fitting last stop for a day that started in Jongno's historic market streets.
-        dwellMin: 45
+          km: 1.6
+          minutes: 21
+          transit: false
+      - slug: seoul-dongdaemun-design-plaza-ddp
+        slot: afternoon
+        why: An attraction rated 4.4 by visitors, included as a stop on this route.
+        dwellMin: 150
         walkToNext: null
-    rainSwapSlug: seoul-mil-toast
+    rainSwapSlug: seoul-london-bagel-museum
   - label: Namsan views to a Gangnam nightcap
     intro: Day two starts on Namsan Mountain in Yongsan District, then settles into Jung District for a long stretch of market browsing and palace walking, before heading out to a Gangnam cocktail bar to close the night. It's a mix of open-air sightseeing and slower indoor pauses.
     stops:
@@ -113,6 +113,6 @@ itinerary:
     rainSwapSlug: seoul-sema-seoul-museum-of-art
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-21T08:08:52.105Z'
+updatedDate: '2026-09-22T01:34:42.848Z'
 ---
 

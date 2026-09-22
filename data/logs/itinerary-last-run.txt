@@ -1,15 +1,14 @@
 SKIP new city "Paris" — weekly new-city cap (2/7d) reached
 SKIP new city "Seattle" — weekly new-city cap (2/7d) reached
 
-Seoul, South Korea — 28 qualifying post(s), variants: 3, 5
-  = Seoul 3d — unchanged, skipping
+Seoul, South Korea — 27 qualifying post(s), variants: 3, 5
+  ~ Seoul 3d — minor structure change (2 slug diff), keeping existing prose
+  ✅ Seoul 3d — updated
   = Seoul 5d — unchanged, skipping
 
-Tokyo, Japan — 24 qualifying post(s), variants: 3, 5
-  ~ Tokyo 3d — structure changed by 9 slug(s), regenerating prose
-  ⚠ Tokyo 3d — validator found 2 prose-fixable issue(s); correcting once
+Tokyo, Japan — 22 qualifying post(s), variants: 3
+  ~ Tokyo 3d — minor structure change (2 slug diff), keeping existing prose
   ✅ Tokyo 3d — updated
-NEW_ITINERARY: Tokyo 5d
 
 Bangkok, Thailand — 22 qualifying post(s), variants: 3
   = Bangkok 3d — unchanged, skipping
