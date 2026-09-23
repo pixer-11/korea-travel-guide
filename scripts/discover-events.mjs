@@ -70,7 +70,10 @@ async function searchJson(prompt) {
       // Raised from 1600 on 2026-08-25: the prompt now also asks for ticket
       // page, free/paid and performer, and a truncated reply loses the whole
       // discovery batch, not one field.
-      max_tokens: 2200,
+      // 4000 since 2026-09-24: the event prompt now asks for up to MAX_CANDIDATES
+      // (8) items of ~15 fields each, and at 2200 a full list would be cut
+      // mid-JSON — which parses as nothing and silently zeroes the country.
+      max_tokens: 4000,
       tools: [{ type: 'web_search_20250305', name: 'web_search', max_uses: 4 }],
       messages: [{ role: 'user', content: prompt }],
     });
@@ -85,12 +88,17 @@ async function searchJson(prompt) {
   // the run log is a column of "already covered; skipping". A longer list is
   // free candidates, and the write path still gates every one of them.
   try { const arr = JSON.parse(jsonStr); return Array.isArray(arr) ? arr.slice(0, MAX_CANDIDATES) : []; }
-  catch { return []; }
+  catch {
+    // Say so. On 09-16 Thailand, China and Vietnam each logged "0 event(s)" with
+    // no other line, so an empty search and an unparseable one looked the same.
+    console.log(`  ⚠️  search reply was not a JSON list (${msg.stop_reason}, ${text.length} chars) — treating as empty`);
+    return [];
+  }
 }
 
 const discoverEvents = (country) =>
   searchJson(
-    `Search the web for NOTABLE, currently-UPCOMING events in ${country} over the next ~8 weeks that would draw international visitors: ` +
+    `Search the web for NOTABLE, currently-UPCOMING events in ${country} over the next ~12 weeks that would draw international visitors: ` +
     // Famous-only was the wrong filter, and the file already knew it: the CTR
     // note above records events at position 24 with 1.15% CTR against generic
     // attractions at 58 with 0.06%, and trendy converting at 19% against a
@@ -105,7 +113,9 @@ const discoverEvents = (country) =>
     // the page ranked 4-6 with 0 clicks because the searched-for name appeared
     // nowhere in the title. Ask for the searched-for name up front.
     `"name" must be the name people actually SEARCH for: include the widely-used short form or act name when one exists (e.g. "F4 (Meteor Garden) Reunion World Tour", not only the official branding "F✦FOREVER 1st World Tour"). ` +
-    `Respond with ONLY a JSON array (no prose, no code fence) of up to 4 items: ` +
+    // MAX_CANDIDATES, not a literal: the slice was raised to 8 on 2026-09-09 but
+    // this sentence still said 4, so the model never sent more than 4 (09-24).
+    `Respond with ONLY a JSON array (no prose, no code fence) of up to ${MAX_CANDIDATES} items: ` +
     `[{"name":"...","city":"...","date":"human-readable e.g. August 1-9, 2026","startDate":"YYYY-MM-DD","endDate":"YYYY-MM-DD (same as startDate if one day; last day if multi-day)","category":"event","recurring":true,"organizer":"official organizing body, or null","organizerUrl":"its official site, or null","venue":"the named venue where it takes place (stadium, arena, circuit, park, hall) as the sources name it, or null","ticketUrl":"the official ticket or registration page on the event's own site, or null","free":true or false or null,"currency":"ISO 4217 code of the country's currency when free is true, else null","performer":"the named act when the event IS that act performing, else null","performerKind":"person or group, else null","summary":"1-2 factual sentences: what, where, when"}]. ` +
     `startDate/endDate MUST be valid ISO dates; omit them only if the exact date is genuinely unknown. ` +
     // Recurrence decides whether the page stays indexed once the date passes
