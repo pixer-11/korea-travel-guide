@@ -1,31 +1,45 @@
 ---
 import { getCollection } from 'astro:content';
 import { siteHref } from '../lib/urls.mjs';
-import { createHash } from 'node:crypto';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import PostCard from './PostCard.astro';
 import Flag from './Flag.astro';
 import { hotelUrl } from '../lib/hotel-link.mjs';
 import Emoji from './Emoji.astro';
 import Newsletter from './Newsletter.astro';
-import { pickRepHeroUrl, tileSize, regionCoverUrl } from '../lib/repImage';
 import { isEventPast, eventSortValue } from '../lib/eventStatus';
 import { slugifyRegion } from '../lib/slug';
-import { useTranslations, localizePath, klookLocale, type Lang } from '../i18n/utils';
+import { useTranslations, localizePath, klookLocale, localeCodes, type Lang } from '../i18n/utils';
 import { eligibleCountries } from '../lib/when-to-go.mjs';
 import countryFactsData from '../../data/country-facts.json';
 import { localizePlace } from '../i18n/places';
+import { localizeEvent } from '../i18n/events';
 import { klookCityDest } from '../lib/klookCities';
 import { localizeBlurb } from '../i18n/countryBlurbs';
 import { loadCardTranslations, cardHelpers } from '../i18n/cards';
-import esimFacts from '../../data/esim-facts.json';
-import { pickOgPhoto } from '../lib/ogPhoto.mjs';
+import { esimCountries } from '../lib/esim-paths.mjs';
+import { pickOgPhoto, heroWidth } from '../lib/ogPhoto.mjs';
 import { clip } from '../lib/clip.mjs';
+import { eventSchemaName } from '../lib/eventName';
+import { shortPlaceLabel } from '../lib/placeLabel.mjs';
+import { thumbOr } from '../lib/wall';
+import { wikimediaThumb } from '../lib/wikimediaThumb.mjs';
+import ogMirror from '../../data/og-mirror.json';
+import { bestMonths, eventCounts, citiesByGuideCount, topVenues, pickHubHero } from '../lib/dest-hub.mjs';
+import { destHubT } from '../i18n/dest-hub-strings';
 
 // Shared country-hub body for /destinations/<country> (en) and
 // /[lang]/destinations/<country>. Country name via localizePlace, blurb via
-// localizeBlurb, all chrome via t(); post cards + region tiles link to the
-// localized URL when a translation exists.
+// localizeBlurb, chrome via t() (ui.ts) and h() (dest-hub-strings.ts — the
+// 2026-09-24 redesign's strings, kept out of ui.ts to avoid merge conflicts).
+//
+// Redesign 2026-09-24 (owner-approved): the hub opened on the bare word
+// "Japan" with no photo, drew 19 cities as identical pills (Tokyo's 28 guides
+// looked like a city with one), repeated each card's title inside a wall of
+// description paragraphs, and buried best-time / eSIM / essentials at the very
+// bottom. Now: photo hero → four summary cells → cities sized by guide count →
+// itineraries + events side by side → compact latest-guide cards. Every number,
+// month and name on the page is computed from repo data (src/lib/dest-hub.mjs);
+// every link target the old page had is still here, some of them moved.
 interface Props {
   country: any;
   posts: any[];
@@ -33,10 +47,20 @@ interface Props {
 }
 const { country, posts, lang } = Astro.props;
 const t = useTranslations(lang);
+const h = destHubT(lang);
 const countryLabel = localizePlace(country.name, lang);
 const blurb = localizeBlurb(country.slug, country.blurb, lang);
 const tr = await loadCardTranslations(lang);
 const card = cardHelpers(tr, lang);
+const locale = localeCodes[lang];
+const nf = new Intl.NumberFormat(locale);
+// UTC: event and month dates are stored as UTC midnights; a local-time
+// formatter west of Greenwich would print the day before.
+const monthShort = (m: number) =>
+  new Intl.DateTimeFormat(locale, { month: 'short', timeZone: 'UTC' }).format(new Date(Date.UTC(2026, m - 1, 1)));
+const monthLong = (d: Date) => new Intl.DateTimeFormat(locale, { month: 'long', timeZone: 'UTC' }).format(d);
+const badgeMonth = (d: Date) => new Intl.DateTimeFormat(locale, { month: 'short', timeZone: 'UTC' }).format(d);
+const badgeDay = (d: Date) => new Intl.DateTimeFormat(locale, { day: 'numeric', timeZone: 'UTC' }).format(d);
 
 // Itinerary flywheel (task 8): list this country's itineraries (usually its
 // cities' 3-day plans). Day/stop counts read from the itinerary file, never
@@ -51,19 +75,18 @@ const itinTranslations =
 const itinTitle = (it: any) => itinTranslations.get(it.id)?.title ?? it.data.title;
 const itinStopCount = (it: any) => it.data.itinerary.reduce((n: number, day: any) => n + day.stops.length, 0);
 
-// tileSize checks the thumbnail actually EXISTS and falls back to a downsized
-// remote render. The local hash-only version this replaces emitted names for
-// files that were never built, which is how every city tile went dark.
+// ── Cities, ranked by how many guides we actually have there ──
+const cities = citiesByGuideCount(posts);
+const topCities = cities.slice(0, 3);
+const restCities = cities.slice(3);
+const regionHref = (r: string) => localizePath(`/regions/${slugifyRegion(r)}/`, lang);
+// The short place name a list shows — "Tokyo Tower", not "Tokyo Tower: Tokyo
+// Travel Guide (4.6★)". shortPlaceLabel handles the full-width separators and
+// the suffix-only titles of ko/ja/zh.
+const guideCount = (n: number) => (n === 1 ? h('oneGuide') : t('home.guides').replace('{n}', nf.format(n)));
+const placeName = (p: any) =>
+  shortPlaceLabel(card.title(p.id, p.data.title), lang) || p.data.place?.name || card.title(p.id, p.data.title);
 
-const regionCounts = new Map<string, number>();
-for (const p of posts) regionCounts.set(p.data.region, (regionCounts.get(p.data.region) ?? 0) + 1);
-const majorOrder = (country.regions ?? []).slice(0, 3);
-const isMajor = (r: string) => majorOrder.includes(r);
-const majors = majorOrder.filter((r: string) => regionCounts.has(r));
-const others = [...regionCounts.keys()]
-  .filter((r) => !majorOrder.includes(r))
-  .sort((a, b) => a.localeCompare(b));
-const regionsWithPosts = [...majors, ...others];
 const latest = posts
   .filter((p) => p.data.category !== 'event')
   .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
@@ -71,24 +94,81 @@ const upcomingEvents = posts
   .filter((p) => p.data.category === 'event' && !isEventPast(p.data))
   .sort((a, b) => eventSortValue(a.data) - eventSortValue(b.data))
   .slice(0, 6);
+// The event's own name, short: "Lollapalooza 2026", not the article headline.
+// English: cut the article suffix (eventSchemaName). Other languages: the
+// translated name table first, then the translated headline trimmed by
+// shortPlaceLabel, and the English proper name only when neither exists.
+const eventName = (p: any) => {
+  const en = eventSchemaName(p.data.title);
+  if (lang === 'en') return en;
+  const named = localizeEvent(en, lang);
+  if (named && named !== en) return named;
+  return tr.has(p.id) ? shortPlaceLabel(card.title(p.id, p.data.title), lang) || en : en;
+};
+
 const essentialsSlugs = new Set(
   (await getCollection('essentials', ({ data }) => !data.draft)).map((e) => e.id)
 );
 const hasEssentials = essentialsSlugs.has(country.slug);
-const hasEsim = !!(esimFacts as Record<string, unknown>)[country.slug];
+// Same gate the eSIM routes build from (active + facts), so this cannot 404.
+const hasEsim = esimCountries().some((c: any) => c.slug === country.slug);
 // The when-to-go tool only exists for countries with a full 12-month climate
 // record — same gate the tool's own path builder uses, so this cannot 404.
 const hasWtg = eligibleCountries(countryFactsData).includes(country.name);
-const regionImage = (r: string) => tileSize(pickRepHeroUrl(posts.filter((p) => p.data.region === r)) || regionCoverUrl(r));
+const facts = ((countryFactsData as any).countries ?? countryFactsData)[country.name];
+// Best months: monthComfort() over the climate normals — the very ranking the
+// when-to-go page shows. The record is ONE city's, so the cell names it.
+const best = hasWtg ? bestMonths(facts?.climate) : [];
+const climateCity = facts?.climateCity ? localizePlace(facts.climateCity, lang) : '';
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const pageUrl = siteHref(Astro.url.pathname, Astro.site);
 
 const countryEventCount = posts.filter((p) => p.data.category === 'event').length;
 const eventsHref = countryEventCount >= 2 ? localizePath(`/events/${country.slug}`, lang) : localizePath('/events', lang);
+const now = new Date();
+const evCounts = eventCounts(posts, now);
 const leadCity = (country.regions ?? [])[0] ?? country.name;
 const klookCountry = `/go/klook?to=${encodeURIComponent(klookCityDest(leadCity, klookLocale(lang)))}`;
 const hotelCountry = hotelUrl({ submarker: 'dest_hub', locale: klookLocale(lang), place: country.name });
+
+// ── Summary cells: each one only when its value and its target both exist ──
+type Cell = { key: string; icon: string; label: string; value: string; sub: string; href: string };
+const cells: Cell[] = [];
+if (best.length) cells.push({
+  key: 'best', icon: 'spiral-calendar', label: h('cellBest'),
+  value: best.map(monthShort).join(' · '),
+  sub: climateCity ? h('cellBestSub', { city: climateCity }) : '',
+  href: localizePath(`/tools/when-to-go/${country.slug}`, lang),
+});
+if (evCounts.upcoming > 0) cells.push({
+  key: 'events', icon: 'admission-tickets',
+  label: evCounts.thisMonth > 0 ? h('cellEventsMonth', { month: monthLong(now) }) : h('cellEventsUpcoming'),
+  value: nf.format(evCounts.thisMonth > 0 ? evCounts.thisMonth : evCounts.upcoming),
+  sub: h('cellEventsSub'),
+  href: eventsHref,
+});
+if (hasEsim) cells.push({
+  key: 'esim', icon: 'antenna-bars', label: h('cellEsim'), value: h('cellEsimValue'), sub: h('cellEsimSub'),
+  href: localizePath(`/tools/esim/${country.slug}`, lang),
+});
+if (hasEssentials) cells.push({
+  key: 'entry', icon: 'compass', label: h('cellEntry'), value: h('cellEntryValue'), sub: h('cellEntrySub'),
+  href: localizePath(`/essentials/${country.slug}`, lang),
+});
+
+// ── Hero photo ──
+// One of our own post heroes — a photo that passed the gates as that venue,
+// in this country. Never an event performer, never stock (pickHubHero).
+const heroPost = pickHubHero(posts, heroWidth);
+const heroUrl: string = heroPost?.data.heroImage?.url ?? '';
+const heroMirror = (ogMirror as Record<string, string | null>)[heroUrl.trim()] || '';
+const heroDisplay = heroUrl
+  ? wikimediaThumb(heroUrl, 1280).replace(/(fastly\.4sqi\.net\/img\/general\/)original\//, '$1width1200/')
+  : '';
+const heroSrc = heroMirror || heroDisplay || heroUrl;
+const heroAlt = heroPost ? `${placeName(heroPost)} — ${localizePlace(heroPost.data.region, lang)}` : '';
+const heroFocus = heroPost?.data.heroImage?.focus;
 
 const jsonLd = {
   '@context': 'https://schema.org',
@@ -124,24 +204,60 @@ const metaDesc = blurb ? clip(blurb) : countryLabel;
   jsonLd={jsonLd}
   localized={true}
 >
-  <section class="page-hero">
-    <div class="wrap">
+  <section class:list={['dh-hero', { 'dh-hero--photo': heroSrc }]}>
+    {heroSrc && (
+      <img
+        class="dh-hero-img"
+        src={heroSrc}
+        data-full={heroMirror && heroDisplay ? heroDisplay : heroUrl}
+        data-stored={heroUrl}
+        alt={heroAlt}
+        width="1280"
+        height="720"
+        loading="eager"
+        fetchpriority="high"
+        decoding="async"
+        style={heroFocus ? `object-position:${heroFocus.x}% ${heroFocus.y}%` : undefined}
+        onerror="if(this.dataset.full&&this.src!==this.dataset.full){this.src=this.dataset.full}else if(this.dataset.stored&&this.src!==this.dataset.stored){this.src=this.dataset.stored}"
+      />
+    )}
+    <div class="wrap dh-hero-inner">
       {/* The trail was declared in BreadcrumbList and drawn nowhere. */}
-      <nav class="crumbs" aria-label={t('a11y.breadcrumb')}>
+      <nav class="crumbs dh-crumbs" aria-label={t('a11y.breadcrumb')}>
         <a href={localizePath('/', lang)}>{t('post.home')}</a> <span>/</span>
         <a href={localizePath('/destinations', lang)}>{t('nav.destinations')}</a> <span>/</span>
         <span aria-current="page">{countryLabel}</span>
       </nav>
-      <p class="eyebrow"><Flag code={country.iso2} size="1.4em" class="flag-ico" /> {t('dest.eyebrow')}</p>
-      <h1>{countryLabel}</h1>
-      <p class="region-blurb">{blurb}</p>
+      <p class="eyebrow dh-eyebrow"><Flag code={country.iso2} size="1.4em" class="flag-ico" /> {t('dest.eyebrow')}</p>
+      <h1>{h('h1', { country: countryLabel })}</h1>
       {posts.length > 0 && (
-        <p class="hub-meta">{t('dest.hubMeta').replace('{n}', String(posts.length))}</p>
+        <p class="dh-dek">{t('dest.hubMeta').replace('{n}', nf.format(posts.length))}</p>
       )}
     </div>
+    {heroPost?.data.heroImage?.credit && (
+      <p class="dh-credit">
+        {heroPost.data.heroImage.source?.startsWith('http') ? (
+          <a href={heroPost.data.heroImage.source} target="_blank" rel="noopener nofollow">{heroPost.data.heroImage.credit}</a>
+        ) : heroPost.data.heroImage.credit}
+      </p>
+    )}
   </section>
 
-  <section class="section">
+  {cells.length > 0 && (
+    <section class="wrap dh-cells-wrap" aria-label={h('summaryLabel', { country: countryLabel })}>
+      <div class="dh-cells">
+        {cells.map((c) => (
+          <a class={`dh-cell dh-cell--${c.key}`} href={c.href}>
+            <span class="dh-cell-label"><Emoji name={c.icon} /> {c.label}</span>
+            <strong class="dh-cell-value">{c.value}</strong>
+            {c.sub && <span class="dh-cell-sub">{c.sub}</span>}
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <section class="section dh-body">
     <div class="wrap">
       {posts.length === 0 ? (
         <div class="fact-box" style="text-align:center">
@@ -149,103 +265,106 @@ const metaDesc = blurb ? clip(blurb) : countryLabel;
         </div>
       ) : (
         <>
-          {regionsWithPosts.length > 0 && (
+          {blurb && <p class="dh-blurb">{blurb}</p>}
+
+          {cities.length > 0 && (
             <div class="region-group">
               <h2>{t('dest.whereToGo')}</h2>
-              <div class="region-grid">
-                {regionsWithPosts.map((r) => (
-                  <a class:list={['region-tile', { 'is-major': isMajor(r), 'no-photo': !regionImage(r) }]} href={localizePath(`/regions/${slugifyRegion(r)}/`, lang)} style={regionImage(r) ? `background-image:url(${regionImage(r)})` : ''}><span>{localizePlace(r, lang)}<small>{t('home.guides').replace('{n}', String(regionCounts.get(r) ?? 0))}</small></span></a>
-                ))}
-              </div>
-            </div>
-          )}
-
-          {countryItineraries.length > 0 && (
-            <div class="region-group">
-              <h2>{t('itin.forCountry').replace('{country}', countryLabel)}</h2>
-              <div class="itin-hub-promo">
-                {countryItineraries.map((it) => (
-                  <a class="itin-hub-card" href={localizePath(`/itinerary/${it.id}`, lang)}>
-                    <span class="itin-hub-card-ico"><Emoji name="world-map" /></span>
-                    <div class="itin-hub-card-body">
-                      <span class="itin-hub-card-badge">{t('itin.badge').replace('{n}', String(it.data.days))} · {localizePlace(it.data.city, lang)}</span>
-                      <h3>{itinTitle(it)}</h3>
-                      <p>{t('itin.stopsCount').replace('{n}', String(itinStopCount(it)))}</p>
-                    </div>
-                    <span class="itin-hub-card-cta">{t('itin.viewItinerary')}</span>
+              <div class="dh-top-cities">
+                {topCities.map((c, i) => (
+                  <a class={`dh-city dh-city--${i + 1}`} href={regionHref(c.region)}>
+                    <span class="dh-city-count">{guideCount(c.count)}</span>
+                    <strong class="dh-city-name">{localizePlace(c.region, lang)}</strong>
+                    {topVenues(posts, c.region, 3).length > 0 && (
+                      <span class="dh-city-sample">{topVenues(posts, c.region, 3).map(placeName).join(' · ')}</span>
+                    )}
                   </a>
                 ))}
               </div>
+              {restCities.length > 0 && (
+                <>
+                  <h3 class="dh-subhead">{h('moreCities')}</h3>
+                  <ul class="dh-pills">
+                    {restCities.map((c) => (
+                      <li><a class="dh-pill" href={regionHref(c.region)}>{localizePlace(c.region, lang)} <small>{guideCount(c.count)}</small></a></li>
+                    ))}
+                  </ul>
+                </>
+              )}
             </div>
           )}
 
-          {upcomingEvents.length > 0 && (
-            <div class="region-group">
-              <h2>{t('dest.whatsOn').replace('{country}', countryLabel)}</h2>
-              <div class="grid">
-                {upcomingEvents.map((post) => (
-                  <PostCard
-                    href={card.href(post.id)}
-                    title={card.title(post.id, post.data.title)}
-                    description={card.desc(post.id, post.data.description)}
-                    rating={post.data.place?.rating}
-                    placeName={post.data.place?.name}
-                    region={post.data.region}
-                    category={post.data.category}
-                    image={post.data.heroImage?.url}
-                    eventEndDate={post.data.eventEndDate}
-                  />
-                ))}
-              </div>
-              <p style="margin-top:1rem"><a href={eventsHref} class="rule-link">{t('dest.allEvents').replace('{country}', countryLabel)}</a></p>
+          {(countryItineraries.length > 0 || upcomingEvents.length > 0) && (
+            <div class:list={['dh-duo', { 'dh-duo--single': !(countryItineraries.length > 0 && upcomingEvents.length > 0) }]}>
+              {countryItineraries.length > 0 && (
+                <div class="dh-itin">
+                  <h2>{t('itin.forCountry').replace('{country}', countryLabel)}</h2>
+                  <ul class="dh-itin-list">
+                    {countryItineraries.map((it) => (
+                      <li>
+                        <a href={localizePath(`/itinerary/${it.id}`, lang)}>
+                          <span class="dh-itin-badge">{t('itin.badge').replace('{n}', String(it.data.days))} · {localizePlace(it.data.city, lang)}</span>
+                          <strong>{itinTitle(it)}</strong>
+                          <span class="dh-itin-meta">{t('itin.stopsCount').replace('{n}', String(itinStopCount(it)))} · {t('itin.viewItinerary')}</span>
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+              {upcomingEvents.length > 0 && (
+                <div class="dh-events">
+                  <div class="dh-events-head">
+                    <h2>{t('dest.whatsOn').replace('{country}', countryLabel)}</h2>
+                    <a href={eventsHref} class="rule-link">{h('all')}</a>
+                  </div>
+                  <ul class="dh-event-list">
+                    {upcomingEvents.map((post) => {
+                      const start = post.data.eventStartDate ? new Date(post.data.eventStartDate) : null;
+                      return (
+                        <li>
+                          <a href={card.href(post.id)}>
+                            {start ? (
+                              <span class="dh-date"><span>{badgeMonth(start)}</span><strong>{badgeDay(start)}</strong></span>
+                            ) : (
+                              <span class="dh-date dh-date--none" aria-hidden="true"><Emoji name="admission-tickets" /></span>
+                            )}
+                            <span class="dh-event-name">{eventName(post)}</span>
+                            <span class="dh-event-city">{localizePlace(post.data.region, lang)}</span>
+                          </a>
+                        </li>
+                      );
+                    })}
+                  </ul>
+                </div>
+              )}
             </div>
           )}
 
           <div class="region-group">
             <h2>{t('dest.latest').replace('{country}', countryLabel)}</h2>
-            <div class="grid">
-              {latest.slice(0, 12).map((post) => (
-                <PostCard
-                  href={card.href(post.id)}
-                  title={card.title(post.id, post.data.title)}
-                  description={card.desc(post.id, post.data.description)}
-                  rating={post.data.place?.rating}
-                  placeName={post.data.place?.name}
-                  region={post.data.region}
-                  category={post.data.category}
-                  image={post.data.heroImage?.url}
-                  eventEndDate={post.data.eventEndDate}
-                />
-              ))}
-            </div>
+            <ul class="dh-latest">
+              {latest.slice(0, 12).map((post) => {
+                const thumb = thumbOr(post.data.heroImage?.url);
+                const rating = post.data.place?.rating;
+                const reviews = post.data.place?.userRatingsTotal;
+                return (
+                  <li>
+                    <a class="dh-guide" href={card.href(post.id)}>
+                      {thumb && <img class="dh-guide-thumb" src={thumb} alt="" width="72" height="72" loading="lazy" decoding="async" />}
+                      <span class="dh-guide-body">
+                        <span class="dh-guide-meta">{localizePlace(post.data.region, lang)} · {t(`cat.${post.data.category}` as any) || post.data.category}</span>
+                        <strong class="dh-guide-name">{placeName(post)}</strong>
+                        {rating ? (
+                          <span class="dh-guide-rating">★ {rating.toFixed(1)}{reviews ? <span> · {h('reviews', { n: nf.format(reviews) })}</span> : null}</span>
+                        ) : null}
+                      </span>
+                    </a>
+                  </li>
+                );
+              })}
+            </ul>
           </div>
-
-          {(hasEssentials || hasEsim || hasWtg) && (
-            <div class="region-group">
-              <h2>{t('dest.beforeYouGo')}</h2>
-              {hasEssentials && (
-                <a class="essential-card" href={localizePath(`/essentials/${country.slug}`, lang)} style="max-width:560px">
-                  <span class="ico"><Emoji name="compass" /></span>
-                  <div><h3>{t('dest.essentialsCard').replace('{country}', countryLabel)}</h3><p>{t('dest.essentialsCardDesc')}</p></div>
-                </a>
-              )}
-              {/* First contextual inbound link the when-to-go country pages
-                  have ever had from a hub (2026-08-28 audit: ~0 such links
-                  across all pillar templates). */}
-              {hasWtg && (
-                <a class="essential-card" href={localizePath(`/tools/when-to-go/${country.slug}`, lang)} style="max-width:560px; margin-top:0.75rem">
-                  <span class="ico"><Emoji name="spiral-calendar" /></span>
-                  <div><h3>{t('wtg.bestTimeCard').replace('{country}', countryLabel)}</h3><p>{t('wtg.bestTimeCardDesc')}</p></div>
-                </a>
-              )}
-              {hasEsim && (
-                <a class="essential-card" href={localizePath(`/tools/esim/${country.slug}`, lang)} style="max-width:560px; margin-top:0.75rem">
-                  <span class="ico"><Emoji name="antenna-bars" /></span>
-                  <div><h3>{t('esim.hubCard').replace('{country}', countryLabel)}</h3><p>{t('esim.hubCardDesc')}</p></div>
-                </a>
-              )}
-            </div>
-          )}
 
           <div class="book-cta">
             <span class="book-cta-label">{t('post.planningTrip').replace('{region}', countryLabel)}</span>
@@ -273,3 +392,108 @@ const metaDesc = blurb ? clip(blurb) : countryLabel;
     dek={t('dest.newsletterDek').replace('{country}', countryLabel)}
   />
 </BaseLayout>
+
+<style>
+  /* ── Hero ── */
+  .dh-hero { position: relative; overflow: hidden; text-align: center; padding-block: clamp(2.5rem, 6vw, 4rem); }
+  .dh-hero--photo { min-height: clamp(320px, 52vh, 520px); display: flex; align-items: flex-end; color: #fff; padding-block: clamp(3rem, 8vw, 5rem) clamp(2rem, 5vw, 3rem); }
+  .dh-hero-img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; z-index: 0; }
+  /* Scrim: white text must stay readable on any photo, light or dark. The
+     credit sits top-right: the summary cells overlap the bottom edge. */
+  .dh-hero--photo::after { content: ''; position: absolute; inset: 0; z-index: 1; background: linear-gradient(180deg, rgba(20, 16, 12, 0.25) 0%, rgba(20, 16, 12, 0.45) 45%, rgba(20, 16, 12, 0.82) 100%); }
+  .dh-hero-inner { position: relative; z-index: 2; width: 100%; }
+  .dh-hero h1 { font-size: clamp(2rem, 5.5vw, 3.4rem); overflow-wrap: anywhere; }
+  .dh-hero--photo h1, .dh-hero--photo .dh-eyebrow { color: #fff; }
+  .dh-crumbs { justify-content: center; }
+  .dh-hero--photo .dh-crumbs, .dh-hero--photo .dh-crumbs a, .dh-hero--photo .dh-crumbs span[aria-current] { color: rgba(255, 255, 255, 0.88); }
+  .dh-dek { color: var(--ink-soft); font-size: 1.08rem; max-width: 52ch; margin: 0.8rem auto 0; }
+  .dh-hero--photo .dh-dek { color: rgba(255, 255, 255, 0.9); }
+  .dh-credit { position: absolute; right: 0.6rem; top: 0.4rem; z-index: 2; margin: 0; max-width: calc(100% - 1.2rem); font-size: 0.68rem; color: rgba(255, 255, 255, 0.85); text-shadow: 0 1px 3px rgba(0, 0, 0, 0.8); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .dh-credit a { color: inherit; }
+
+  /* ── Summary cells ── */
+  .dh-cells-wrap { position: relative; z-index: 3; margin-top: -1.6rem; }
+  .dh-cells { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(200px, 100%), 1fr)); gap: 0.7rem; }
+  .dh-cell { display: flex; flex-direction: column; gap: 0.2rem; min-width: 0; padding: 0.95rem 1.1rem; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-md); box-shadow: var(--shadow-md); color: var(--ink); text-decoration: none; transition: transform .15s ease, border-color .15s ease; }
+  .dh-cell:hover { transform: translateY(-2px); border-color: var(--accent); }
+  .dh-cell-label { display: flex; align-items: center; gap: 0.35rem; font-size: 0.78rem; font-weight: 700; letter-spacing: 0.03em; color: var(--muted); }
+  .dh-cell-label :global(.emoji) { width: 16px; height: 16px; }
+  .dh-cell-value { font-family: var(--font-display); font-size: 1.35rem; line-height: 1.2; color: var(--ink); overflow-wrap: anywhere; }
+  .dh-cell-sub { font-size: 0.8rem; color: var(--ink-soft); }
+
+  .dh-body { padding-top: clamp(1.8rem, 4vw, 2.6rem); }
+  .dh-blurb { max-width: var(--max-prose); color: var(--ink-soft); font-size: 1.05rem; line-height: 1.65; margin: 0 0 2.2rem; }
+
+  /* ── Where to go ── */
+  .dh-top-cities { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(240px, 100%), 1fr)); gap: 0.9rem; }
+  .dh-city { --tone: var(--accent); --tone-text: var(--accent-text); display: flex; flex-direction: column; gap: 0.15rem; min-width: 0; padding: 1.2rem 1.3rem 1.3rem; border-radius: var(--r-lg); border: 1px solid color-mix(in srgb, var(--tone) 30%, var(--line)); background: color-mix(in srgb, var(--tone) 12%, var(--surface)); color: var(--ink); text-decoration: none; transition: transform .15s ease, box-shadow .15s ease; }
+  .dh-city:hover { transform: translateY(-3px); box-shadow: var(--shadow-md); }
+  .dh-city--2 { --tone: var(--pine); --tone-text: var(--pine); }
+  .dh-city--3 { --tone: var(--gold); --tone-text: var(--gold-text); }
+  .dh-city-count { font-family: var(--font-display); font-size: 1.6rem; line-height: 1.1; font-weight: 700; color: var(--tone-text); }
+  .dh-city-name { font-family: var(--font-display); font-size: 1.45rem; margin-top: 0.4rem; overflow-wrap: anywhere; }
+  .dh-city-sample { font-size: 0.86rem; color: var(--ink-soft); line-height: 1.45; overflow-wrap: anywhere; }
+  .dh-subhead { font-size: 0.95rem; color: var(--muted); margin: 1.4rem 0 0.7rem; }
+  .dh-pills { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 0.5rem; }
+  .dh-pill { display: inline-flex; align-items: baseline; gap: 0.4rem; padding: 0.45rem 0.9rem; border: 1px solid var(--line-strong); border-radius: var(--r-pill); background: var(--surface); color: var(--ink); text-decoration: none; font-weight: 600; font-size: 0.92rem; }
+  .dh-pill small { font-weight: 500; font-size: 0.78rem; color: var(--muted); }
+  .dh-pill:hover { border-color: var(--accent); color: var(--accent-text); }
+
+  /* ── Itineraries + events ── */
+  .dh-duo { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(320px, 100%), 1fr)); gap: 1rem; margin-bottom: 2.75rem; }
+  .dh-duo h2 { font-size: 1.2rem; margin-bottom: 0.9rem; }
+  .dh-itin, .dh-events { min-width: 0; border-radius: var(--r-lg); padding: clamp(1.1rem, 3vw, 1.5rem); }
+  /* The dark card: ink on bg inverted. In dark mode --ink turns light, so
+     it would flip into a glaring light block — there it sits on surface-2. */
+  .dh-itin { background: var(--ink); color: var(--bg); }
+  .dh-itin h2 { color: var(--bg); }
+  .dh-itin-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 0.6rem; }
+  .dh-itin-list a { display: flex; flex-direction: column; gap: 0.15rem; padding: 0.8rem 0.95rem; border-radius: var(--r-md); background: color-mix(in srgb, var(--bg) 9%, transparent); color: inherit; text-decoration: none; }
+  .dh-itin-list a:hover { background: color-mix(in srgb, var(--bg) 16%, transparent); }
+  .dh-itin-badge { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; color: color-mix(in srgb, var(--bg) 72%, var(--accent)); }
+  .dh-itin-list strong { font-size: 1rem; line-height: 1.35; }
+  .dh-itin-meta { font-size: 0.82rem; opacity: 0.8; }
+  @media (prefers-color-scheme: dark) {
+    :global(:root:not([data-theme='light'])) .dh-itin { background: var(--surface-2); color: var(--ink); border: 1px solid var(--line); }
+    :global(:root:not([data-theme='light'])) .dh-itin h2 { color: var(--ink); }
+    :global(:root:not([data-theme='light'])) .dh-itin-list a { background: var(--surface); }
+    :global(:root:not([data-theme='light'])) .dh-itin-badge { color: var(--accent-text); }
+  }
+  :global(:root[data-theme='dark']) .dh-itin, :global(html.dark) .dh-itin { background: var(--surface-2); color: var(--ink); border: 1px solid var(--line); }
+  :global(:root[data-theme='dark']) .dh-itin h2, :global(html.dark) .dh-itin h2 { color: var(--ink); }
+  :global(:root[data-theme='dark']) .dh-itin-list a, :global(html.dark) .dh-itin-list a { background: var(--surface); }
+  :global(:root[data-theme='dark']) .dh-itin-badge, :global(html.dark) .dh-itin-badge { color: var(--accent-text); }
+
+  .dh-events { background: var(--surface); border: 1px solid var(--line); }
+  .dh-events-head { display: flex; align-items: baseline; justify-content: space-between; gap: 0.8rem; flex-wrap: wrap; }
+  .dh-event-list { list-style: none; padding: 0; margin: 0; }
+  .dh-event-list li + li { border-top: 1px solid var(--line-soft); }
+  .dh-event-list a { display: grid; grid-template-columns: 3.1rem minmax(0, 1fr) auto; align-items: center; gap: 0.8rem; padding: 0.6rem 0; color: var(--ink); text-decoration: none; }
+  .dh-event-list a:hover .dh-event-name { color: var(--accent-text); }
+  .dh-date { display: flex; flex-direction: column; align-items: center; justify-content: center; width: 3.1rem; height: 3.1rem; border-radius: var(--r-sm); background: var(--accent-soft); color: var(--accent-text); line-height: 1.05; }
+  .dh-date span { font-size: 0.66rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; }
+  .dh-date strong { font-size: 1.15rem; }
+  .dh-event-name { font-weight: 650; font-size: 0.95rem; line-height: 1.35; overflow-wrap: anywhere; }
+  .dh-event-city { font-size: 0.8rem; color: var(--muted); text-align: right; max-width: 9rem; overflow-wrap: anywhere; }
+
+  /* ── Latest guides ── */
+  .dh-latest { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(280px, 100%), 1fr)); gap: 0.7rem; }
+  .dh-guide { display: flex; align-items: center; gap: 0.85rem; height: 100%; padding: 0.7rem; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-md); color: var(--ink); text-decoration: none; transition: transform .15s ease, border-color .15s ease; }
+  .dh-guide:hover { transform: translateY(-2px); border-color: var(--accent); }
+  .dh-guide-thumb { flex: none; width: 72px; height: 72px; object-fit: cover; border-radius: var(--r-sm); background: var(--surface-2); }
+  .dh-guide-body { display: flex; flex-direction: column; gap: 0.15rem; min-width: 0; }
+  .dh-guide-meta { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; color: var(--muted); }
+  .dh-guide-name { font-size: 0.98rem; line-height: 1.3; overflow-wrap: anywhere; }
+  .dh-guide-rating { font-size: 0.82rem; color: var(--gold-text); font-weight: 600; }
+  .dh-guide-rating span { color: var(--muted); font-weight: 500; }
+
+  @media (max-width: 520px) {
+    .dh-cells { grid-template-columns: 1fr 1fr; gap: 0.5rem; }
+    .dh-cell { padding: 0.75rem 0.8rem; }
+    .dh-cell-value { font-size: 1.08rem; }
+    .dh-event-list a { grid-template-columns: 2.8rem minmax(0, 1fr); row-gap: 0.1rem; }
+    .dh-date { width: 2.8rem; height: 2.8rem; grid-row: span 2; }
+    .dh-event-name { align-self: end; }
+    .dh-event-city { grid-column: 2; align-self: start; text-align: left; max-width: none; }
+  }
+</style>

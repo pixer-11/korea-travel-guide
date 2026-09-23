@@ -26,7 +26,9 @@ const SEPARATORS = /[:\uff1a\u2014\u2013\uff5c|]/;
 const SUFFIXES = {
   ko: ['여행 가이드', '완전 가이드', '가이드'],
   ja: ['旅行ガイド', '完全ガイド', 'ガイド'],
-  zh: ['旅行指南', '完整指南', '指南'],
+  // 攻略 forms added 2026-09-24: 「契迪龙寺完全攻略」「曼谷国际舞蹈与音乐节全攻略(曼谷)」
+  // printed whole on the country hub's city cards and event list.
+  zh: ['旅行指南', '完全攻略', '完整指南', '全攻略', '攻略', '指南'],
   es: ['Guía de viaje', 'Guía'],
   en: ['Travel Guide', 'Guide'],
 };
@@ -39,9 +41,16 @@ const TRAILING_RATING = /[(\uff08][^)\uff09]*[\u2605\u661f][^)\uff09]*[)\uff09]\
  * @param {string} title  the post title, already localized
  * @param {string} lang   en | ko | ja | es | zh
  */
+// A trailing "(City)" AFTER the suffix: 「大相撲九月場所(秋場所)完全ガイド(東京)」.
+// Only removed when a known suffix sits right in front of it — 「(秋場所)」 in
+// the middle of that same title is part of the event's name and stays.
+const TRAILING_PAREN = /\s*[(（][^()（）]*[)）]\s*$/;
+
 export function shortPlaceLabel(title, lang) {
   let out = String(title ?? '').split(SEPARATORS)[0].trim();
   out = out.replace(TRAILING_RATING, '').trim();
+  const bare = out.replace(TRAILING_PAREN, '').trim();
+  if (bare !== out && (SUFFIXES[lang] ?? []).some((s) => bare.endsWith(s) && bare.length > s.length)) out = bare;
   for (const suffix of SUFFIXES[lang] ?? []) {
     if (!out.endsWith(suffix)) continue;
     const cut = out.slice(0, -suffix.length).trim();

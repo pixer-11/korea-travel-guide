@@ -40,3 +40,12 @@ test('빈 값에도 죽지 않는다', () => {
   assert.equal(shortPlaceLabel(undefined, 'ko'), '');
   assert.equal(shortPlaceLabel('', 'ja'), '');
 });
+
+test('攻略 접미사와 접미사 뒤 (도시) 괄호를 뗀다 — 이름 안의 괄호는 남긴다 (2026-09-24)', () => {
+  assert.equal(shortPlaceLabel('契迪龙寺完全攻略', 'zh'), '契迪龙寺');
+  assert.equal(shortPlaceLabel('曼谷国际舞蹈与音乐节全攻略(曼谷)', 'zh'), '曼谷国际舞蹈与音乐节');
+  assert.equal(shortPlaceLabel('大相撲九月場所(秋場所)完全ガイド(東京)', 'ja'), '大相撲九月場所(秋場所)');
+  // 접미사가 앞에 없으면 끝 괄호도 이름이다.
+  assert.equal(shortPlaceLabel('清迈夜市（Night Bazaar）', 'zh'), '清迈夜市（Night Bazaar）');
+  assert.equal(shortPlaceLabel('나라 공원(Nara Park) 여행 가이드', 'ko'), '나라 공원(Nara Park)');
+});
