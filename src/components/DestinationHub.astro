@@ -9,7 +9,8 @@ import Newsletter from './Newsletter.astro';
 import { isEventPast, eventSortValue } from '../lib/eventStatus';
 import { slugifyRegion } from '../lib/slug';
 import { useTranslations, localizePath, klookLocale, localeCodes, type Lang } from '../i18n/utils';
-import { eligibleCountries } from '../lib/when-to-go.mjs';
+import { eligibleCountries, monthComfort } from '../lib/when-to-go.mjs';
+import { carrierLine } from '../lib/esim-regions.mjs';
 import countryFactsData from '../../data/country-facts.json';
 import { localizePlace } from '../i18n/places';
 import { localizeEvent } from '../i18n/events';
@@ -24,7 +25,7 @@ import { shortPlaceLabel } from '../lib/placeLabel.mjs';
 import { thumbOr } from '../lib/wall';
 import { wikimediaThumb } from '../lib/wikimediaThumb.mjs';
 import ogMirror from '../../data/og-mirror.json';
-import { bestMonths, eventCounts, citiesByGuideCount, topVenues, pickHubHero } from '../lib/dest-hub.mjs';
+import { bestMonths, eventCounts, citiesByGuideCount, topVenues, pickHubHero, hubHeroForDay } from '../lib/dest-hub.mjs';
 import { destHubT } from '../i18n/dest-hub-strings';
 
 // Shared country-hub body for /destinations/<country> (en) and
@@ -78,6 +79,20 @@ const itinStopCount = (it: any) => it.data.itinerary.reduce((n: number, day: any
 // ── Cities, ranked by how many guides we actually have there ──
 const cities = citiesByGuideCount(posts);
 const topCities = cities.slice(0, 3);
+// A real photo for each city card: the same picker as the hero (our own post
+// heroes only — no event performers, no stock, nothing under 800px), run on
+// that city's guides. Big cards get the mirrored 1200px image when there is
+// one; the small city cards get the 640px wall thumb. No photo → no image, the
+// card keeps its tint (owner request 2026-09-24: cards need photos).
+const cityPhoto = (region: string, big: boolean) => {
+  // Landmark photos first, rotating daily like the header (hubHeroForDay).
+  const p = hubHeroForDay(posts.filter((x) => x.data.region === region), heroWidth, now);
+  const url: string = p?.data.heroImage?.url ?? '';
+  if (!url) return '';
+  if (!big) return thumbOr(url) || '';
+  const mirror = (ogMirror as Record<string, string | null>)[url.trim()] || '';
+  return mirror || wikimediaThumb(url, 960).replace(/(fastly\.4sqi\.net\/img\/general\/)original\//, '$1width960/');
+};
 const restCities = cities.slice(3);
 const regionHref = (r: string) => localizePath(`/regions/${slugifyRegion(r)}/`, lang);
 // The short place name a list shows — "Tokyo Tower", not "Tokyo Tower: Tokyo
@@ -133,7 +148,15 @@ const klookCountry = `/go/klook?to=${encodeURIComponent(klookCityDest(leadCity, 
 const hotelCountry = hotelUrl({ submarker: 'dest_hub', locale: klookLocale(lang), place: country.name });
 
 // ── Summary cells: each one only when its value and its target both exist ──
+// 2026-09-24 (owner: "the four cells are too plain"): each cell now carries one
+// piece of real data of its own beneath the value — the twelve-month comfort
+// strip, the next event, the local carriers, the three topics — all computed
+// here, none typed in.
 type Cell = { key: string; icon: string; label: string; value: string; sub: string; href: string };
+const comfortYear = hasWtg ? (monthComfort(facts?.climate) ?? []) : [];
+const nextEvent = upcomingEvents.find((p) => p.data.eventStartDate) ?? null;
+const esimCarriers = carrierLine(esimCountries().find((c: any) => c.slug === country.slug)?.facts?.carriers).split(' · ').filter(Boolean).slice(0, 3).join(' · ');
+const entryTags = h('cellEntryValue').split(/\s*[·・]\s*/).filter(Boolean);
 const cells: Cell[] = [];
 if (best.length) cells.push({
   key: 'best', icon: 'spiral-calendar', label: h('cellBest'),
@@ -160,7 +183,9 @@ if (hasEssentials) cells.push({
 // ── Hero photo ──
 // One of our own post heroes — a photo that passed the gates as that venue,
 // in this country. Never an event performer, never stock (pickHubHero).
-const heroPost = pickHubHero(posts, heroWidth);
+// Rotates daily among the best landmark photos (hubHeroForDay) — the site
+// rebuilds every day, so the header changes with it.
+const heroPost = hubHeroForDay(posts, heroWidth, now);
 const heroUrl: string = heroPost?.data.heroImage?.url ?? '';
 const heroMirror = (ogMirror as Record<string, string | null>)[heroUrl.trim()] || '';
 const heroDisplay = heroUrl
@@ -248,9 +273,28 @@ const metaDesc = blurb ? clip(blurb) : countryLabel;
       <div class="dh-cells">
         {cells.map((c) => (
           <a class={`dh-cell dh-cell--${c.key}`} href={c.href}>
-            <span class="dh-cell-label"><Emoji name={c.icon} /> {c.label}</span>
-            <strong class="dh-cell-value">{c.value}</strong>
-            {c.sub && <span class="dh-cell-sub">{c.sub}</span>}
+            <span class="dh-cell-label"><span class="dh-cell-ico"><Emoji name={c.icon} /></span> {c.label}</span>
+            {c.key === 'entry' ? (
+              <span class="dh-cell-tags">{entryTags.map((tag) => <span class="dh-tag">{tag}</span>)}</span>
+            ) : (
+              <strong class="dh-cell-value">{c.value}</strong>
+            )}
+            {c.key === 'best' && comfortYear.length === 12 && (
+              <span class="dh-months" aria-hidden="true">
+                {comfortYear.map((mo: any) => (
+                  <span class:list={['dh-mo', `dh-mo--${mo.band}`, { 'is-best': best.includes(mo.m) }]} style={`--h:${Math.round(28 + (1 - mo.score) * 72)}%`}>
+                    <i></i><b>{mo.m}</b>
+                  </span>
+                ))}
+              </span>
+            )}
+            {c.key === 'events' && nextEvent ? (
+              <span class="dh-cell-sub dh-cell-next">{h('cellEventsNext', { name: eventName(nextEvent) })} · {badgeMonth(new Date(nextEvent.data.eventStartDate))} {badgeDay(new Date(nextEvent.data.eventStartDate))}</span>
+            ) : c.key === 'esim' && esimCarriers ? (
+              <span class="dh-cell-sub">{esimCarriers}</span>
+            ) : (
+              c.sub && <span class="dh-cell-sub">{c.sub}</span>
+            )}
           </a>
         ))}
       </div>
@@ -265,29 +309,42 @@ const metaDesc = blurb ? clip(blurb) : countryLabel;
         </div>
       ) : (
         <>
-          {blurb && <p class="dh-blurb">{blurb}</p>}
+          {blurb && <p class="dh-blurb"><span class="dh-blurb-mark" aria-hidden="true">“</span>{blurb}</p>}
 
           {cities.length > 0 && (
             <div class="region-group">
               <h2>{t('dest.whereToGo')}</h2>
               <div class="dh-top-cities">
-                {topCities.map((c, i) => (
-                  <a class={`dh-city dh-city--${i + 1}`} href={regionHref(c.region)}>
+                {topCities.map((c, i) => {
+                  const photo = cityPhoto(c.region, true);
+                  return (
+                  <a class:list={['dh-city', `dh-city--${i + 1}`, { 'dh-city--photo': !!photo }]} href={regionHref(c.region)}>
+                    {photo && <img class="dh-city-img" src={photo} alt="" loading="lazy" decoding="async" />}
                     <span class="dh-city-count">{guideCount(c.count)}</span>
                     <strong class="dh-city-name">{localizePlace(c.region, lang)}</strong>
                     {topVenues(posts, c.region, 3).length > 0 && (
                       <span class="dh-city-sample">{topVenues(posts, c.region, 3).map(placeName).join(' · ')}</span>
                     )}
                   </a>
-                ))}
+                  );
+                })}
               </div>
               {restCities.length > 0 && (
                 <>
                   <h3 class="dh-subhead">{h('moreCities')}</h3>
-                  <ul class="dh-pills">
-                    {restCities.map((c) => (
-                      <li><a class="dh-pill" href={regionHref(c.region)}>{localizePlace(c.region, lang)} <small>{guideCount(c.count)}</small></a></li>
-                    ))}
+                  <ul class="dh-minis">
+                    {restCities.map((c) => {
+                      const thumb = cityPhoto(c.region, false);
+                      const label = localizePlace(c.region, lang);
+                      return (
+                        <li><a class="dh-mini" href={regionHref(c.region)}>
+                          {thumb
+                            ? <img class="dh-mini-img" src={thumb} alt="" width="52" height="52" loading="lazy" decoding="async" />
+                            : <span class="dh-mini-img dh-mini-img--none" aria-hidden="true">{label.slice(0, 1)}</span>}
+                          <span class="dh-mini-text"><strong>{label}</strong><small>{guideCount(c.count)}</small></span>
+                        </a></li>
+                      );
+                    })}
                   </ul>
                 </>
               )}
@@ -417,20 +474,56 @@ const metaDesc = blurb ? clip(blurb) : countryLabel;
   /* ── Summary cells ── */
   .dh-cells-wrap { position: relative; z-index: 3; margin-top: -1.6rem; }
   .dh-cells { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(200px, 100%), 1fr)); gap: 0.7rem; }
-  .dh-cell { display: flex; flex-direction: column; gap: 0.2rem; min-width: 0; padding: 0.95rem 1.1rem; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-md); box-shadow: var(--shadow-md); color: var(--ink); text-decoration: none; transition: transform .15s ease, border-color .15s ease; }
-  .dh-cell:hover { transform: translateY(-2px); border-color: var(--accent); }
+  /* Four cells, one voice: a tone per cell (colour strip on top, tinted icon
+     disc), the value, and one line of real data beneath (2026-09-24). */
+  .dh-cell { --tone: var(--accent); position: relative; overflow: hidden; display: flex; flex-direction: column; gap: 0.35rem; min-width: 0; padding: 1.05rem 1.15rem 1rem; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-md); box-shadow: var(--shadow-md); color: var(--ink); text-decoration: none; transition: transform .15s ease, border-color .15s ease, box-shadow .15s ease; }
+  .dh-cell::before { content: ''; position: absolute; inset: 0 0 auto 0; height: 4px; background: var(--tone); }
+  .dh-cell--best { --tone: #5f8a4a; }
+  .dh-cell--events { --tone: var(--accent); }
+  .dh-cell--esim { --tone: #3f6fa8; }
+  .dh-cell--entry { --tone: var(--gold); }
+  .dh-cell-ico { display: inline-grid; place-items: center; width: 1.9rem; height: 1.9rem; border-radius: 50%; background: color-mix(in srgb, var(--tone) 16%, var(--surface)); }
+  .dh-cell-tags { display: flex; flex-wrap: wrap; gap: 0.3rem; margin-top: 0.1rem; }
+  .dh-tag { padding: 0.18rem 0.6rem; border-radius: var(--r-pill); background: color-mix(in srgb, var(--tone) 14%, var(--surface)); color: var(--ink); font-weight: 700; font-size: 0.92rem; }
+  .dh-cell-next { font-weight: 600; color: var(--ink); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  /* Twelve-month strip: bar height = how comfortable, colour = the band. */
+  .dh-months { display: grid; grid-template-columns: repeat(12, 1fr); gap: 3px; align-items: end; height: 42px; margin-top: 0.15rem; }
+  .dh-mo { display: flex; flex-direction: column; align-items: center; justify-content: flex-end; height: 100%; gap: 2px; }
+  .dh-mo i { display: block; width: 100%; height: var(--h); border-radius: 3px 3px 1px 1px; background: #d9d2c4; }
+  .dh-mo b { font-size: 0.56rem; font-weight: 600; color: var(--muted); line-height: 1; }
+  .dh-mo--good i { background: #9cc27e; }
+  .dh-mo--fine i { background: #c9d9a8; }
+  .dh-mo--fair i { background: #e8c98f; }
+  .dh-mo--harsh i { background: #e2a58f; }
+  .dh-mo.is-best i { background: #4f7f3a; }
+  .dh-mo.is-best b { color: #4f7f3a; font-weight: 800; }
+  .dh-cell:hover { transform: translateY(-3px); border-color: var(--tone); box-shadow: var(--shadow-lg, var(--shadow-md)); }
   .dh-cell-label { display: flex; align-items: center; gap: 0.35rem; font-size: 0.78rem; font-weight: 700; letter-spacing: 0.03em; color: var(--muted); }
   .dh-cell-label :global(.emoji) { width: 16px; height: 16px; }
   .dh-cell-value { font-family: var(--font-display); font-size: 1.35rem; line-height: 1.2; color: var(--ink); overflow-wrap: anywhere; }
   .dh-cell-sub { font-size: 0.8rem; color: var(--ink-soft); }
 
   .dh-body { padding-top: clamp(1.8rem, 4vw, 2.6rem); }
-  .dh-blurb { max-width: var(--max-prose); color: var(--ink-soft); font-size: 1.05rem; line-height: 1.65; margin: 0 0 2.2rem; }
+  /* The one-line intro as a pull quote: display face, larger, an accent rule
+     and an opening mark — it was body-sized grey text that vanished (owner
+     2026-09-24). */
+  .dh-blurb { position: relative; max-width: 46rem; margin: 0.4rem 0 2.6rem; padding: 0.3rem 0 0.3rem 1.4rem; border-left: 4px solid var(--accent); font-family: var(--font-display); font-size: clamp(1.15rem, 2.2vw, 1.45rem); line-height: 1.55; color: var(--ink); }
+  .dh-blurb-mark { position: absolute; left: 1rem; top: -1.2rem; font-size: 3.6rem; line-height: 1; color: color-mix(in srgb, var(--accent) 35%, transparent); pointer-events: none; }
 
   /* ── Where to go ── */
   .dh-top-cities { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(240px, 100%), 1fr)); gap: 0.9rem; }
   .dh-city { --tone: var(--accent); --tone-text: var(--accent-text); display: flex; flex-direction: column; gap: 0.15rem; min-width: 0; padding: 1.2rem 1.3rem 1.3rem; border-radius: var(--r-lg); border: 1px solid color-mix(in srgb, var(--tone) 30%, var(--line)); background: color-mix(in srgb, var(--tone) 12%, var(--surface)); color: var(--ink); text-decoration: none; transition: transform .15s ease, box-shadow .15s ease; }
   .dh-city:hover { transform: translateY(-3px); box-shadow: var(--shadow-md); }
+  /* With a photo: the picture fills the card, a dark gradient keeps the text
+     readable, and the tone survives as the count colour's highlight. */
+  .dh-city { position: relative; overflow: hidden; isolation: isolate; }
+  .dh-city--photo { min-height: 210px; justify-content: flex-end; border-color: transparent; color: #fff; }
+  .dh-city-img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; z-index: -2; transition: transform .4s ease; }
+  .dh-city--photo::after { content: ''; position: absolute; inset: 0; z-index: -1; background: linear-gradient(180deg, rgba(0,0,0,.05) 20%, rgba(0,0,0,.72) 100%); }
+  .dh-city--photo:hover .dh-city-img { transform: scale(1.04); }
+  .dh-city--photo .dh-city-count { color: #fff; font-size: 0.95rem; font-family: inherit; font-weight: 700; align-self: flex-start; padding: 0.2rem 0.65rem; border-radius: var(--r-pill); background: color-mix(in srgb, var(--tone) 85%, transparent); }
+  .dh-city--photo .dh-city-name { color: #fff; font-size: 1.7rem; }
+  .dh-city--photo .dh-city-sample { color: rgba(255,255,255,.88); }
   .dh-city--2 { --tone: var(--pine); --tone-text: var(--pine); }
   .dh-city--3 { --tone: var(--gold); --tone-text: var(--gold-text); }
   .dh-city-count { font-family: var(--font-display); font-size: 1.6rem; line-height: 1.1; font-weight: 700; color: var(--tone-text); }
@@ -438,6 +531,22 @@ const metaDesc = blurb ? clip(blurb) : countryLabel;
   .dh-city-sample { font-size: 0.86rem; color: var(--ink-soft); line-height: 1.45; overflow-wrap: anywhere; }
   .dh-subhead { font-size: 0.95rem; color: var(--muted); margin: 1.4rem 0 0.7rem; }
   .dh-pills { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 0.5rem; }
+  /* More cities: small photo cards in the same family as the big ones. */
+  .dh-minis { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(190px, 100%), 1fr)); gap: 0.6rem; }
+  .dh-mini { display: flex; align-items: center; gap: 0.7rem; padding: 0.45rem 0.8rem 0.45rem 0.45rem; border: 1px solid var(--line); border-radius: var(--r-md); background: var(--surface); color: var(--ink); text-decoration: none; transition: transform .15s ease, border-color .15s ease, box-shadow .15s ease; }
+  .dh-mini:hover { transform: translateY(-2px); border-color: var(--accent); box-shadow: var(--shadow-md); }
+  .dh-mini-img { flex: none; width: 52px; height: 52px; border-radius: calc(var(--r-md) - 4px); object-fit: cover; background: var(--surface-2); }
+  .dh-mini-img--none { display: grid; place-items: center; font-family: var(--font-display); font-weight: 700; font-size: 1.3rem; color: var(--accent-text); background: var(--accent-soft); }
+  .dh-mini-text { display: flex; flex-direction: column; min-width: 0; }
+  .dh-mini-text strong { font-size: 0.98rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .dh-mini-text small { font-size: 0.78rem; color: var(--muted); }
+  /* Two across on a phone — one per row made 24 cities a 1,500px column. */
+  @media (max-width: 560px) {
+    .dh-minis { grid-template-columns: 1fr 1fr; gap: 0.45rem; }
+    .dh-mini { gap: 0.5rem; padding: 0.35rem 0.5rem 0.35rem 0.35rem; }
+    .dh-mini-img { width: 40px; height: 40px; }
+    .dh-mini-text strong { font-size: 0.9rem; }
+  }
   .dh-pill { display: inline-flex; align-items: baseline; gap: 0.4rem; padding: 0.45rem 0.9rem; border: 1px solid var(--line-strong); border-radius: var(--r-pill); background: var(--surface); color: var(--ink); text-decoration: none; font-weight: 600; font-size: 0.92rem; }
   .dh-pill small { font-weight: 500; font-size: 0.78rem; color: var(--muted); }
   .dh-pill:hover { border-color: var(--accent); color: var(--accent-text); }

@@ -111,7 +111,49 @@ const NOT_A_PLACE_PHOTO = new Set(['placeholder', 'unsplash']);
  * @param {(post: any) => number | null} [widthOf] measured width or null —
  *   ogPhoto.heroWidth in the component, injected so this stays pure.
  */
+/**
+ * The best few hero candidates, same gates and order as pickHubHero, but only
+ * from the top tier: landmark-type photos (attraction / hidden gem) proven or
+ * assumed wide. The country hub rotates through these one per day (owner
+ * 2026-09-24: "does the header photo change?" — it did not; the single
+ * most-reviewed pick for Korea was a hazy apartment skyline). Falls back to the
+ * plain ranked list when a country has no landmark photos at all.
+ * @param {any[]} posts
+ * @param {(post: any) => number | null} [widthOf]
+ * @param {number} [n]
+ */
+export function hubHeroCandidates(posts, widthOf = () => null, n = 5) {
+  const ranked = rankHubHeroes(posts, widthOf);
+  const landmarks = ranked.filter((p) => (CAT_RANK[p.data.category] ?? 5) <= 1 && !(typeof widthOf(p) === 'number' && widthOf(p) < 1200));
+  return (landmarks.length ? landmarks : ranked).slice(0, n);
+}
+
+/**
+ * One of hubHeroCandidates, chosen by the UTC day — a different photo each daily build.
+ * @param {any[]} posts
+ * @param {(post: any) => number | null} [widthOf]
+ * @param {Date} [day]
+ */
+export function hubHeroForDay(posts, widthOf = () => null, day = new Date()) {
+  const list = hubHeroCandidates(posts, widthOf);
+  if (!list.length) return null;
+  const dayNo = Math.floor(new Date(day).getTime() / 86400000);
+  return list[((dayNo % list.length) + list.length) % list.length];
+}
+
+/**
+ * @param {any[]} posts
+ * @param {(post: any) => number | null} [widthOf]
+ */
 export function pickHubHero(posts, widthOf = () => null) {
+  return rankHubHeroes(posts, widthOf)[0] ?? null;
+}
+
+/**
+ * @param {any[]} posts
+ * @param {(post: any) => number | null} [widthOf]
+ */
+function rankHubHeroes(posts, widthOf) {
   const tier = (w) => (w === null || w === undefined ? 1 : w >= 1200 ? 0 : 2);
   const eligible = (posts ?? []).filter((p) => {
     const h = p?.data?.heroImage;
@@ -127,5 +169,5 @@ export function pickHubHero(posts, widthOf = () => null) {
     for (let i = 0; i < ka.length; i++) if (ka[i] !== kb[i]) return ka[i] - kb[i];
     return String(a.id).localeCompare(String(b.id));
   });
-  return eligible[0] ?? null;
+  return eligible;
 }

@@ -96,3 +96,15 @@ test('hero prefers a proven-wide landmark, then the most reviewed', () => {
   assert.equal(pickHubHero(posts, widthOf).id, 'wide');
   assert.equal(pickHubHero(posts.filter((p) => p.id !== 'wide' && p.id !== 'cafe'), widthOf).id, 'unknown');
 });
+
+test('hubHeroForDay rotates through landmark photos, one per day', async () => {
+  const { hubHeroForDay, hubHeroCandidates } = await import('./dest-hub.mjs');
+  const mk = (id, category, reviews) => ({ id, data: { category, heroImage: { url: `https://x/${id}.jpg`, license: 'cc-by' }, place: { userRatingsTotal: reviews } } });
+  const posts = [mk('a', 'attraction', 900), mk('b', 'attraction', 800), mk('c', 'restaurant', 99999), mk('e', 'event', 1)];
+  const cands = hubHeroCandidates(posts);
+  assert.deepEqual(cands.map((p) => p.id), ['a', 'b'], 'landmarks only, restaurant and event left out');
+  const d0 = hubHeroForDay(posts, () => null, new Date('2026-09-24T00:00:00Z')).id;
+  const d1 = hubHeroForDay(posts, () => null, new Date('2026-09-25T00:00:00Z')).id;
+  assert.notEqual(d0, d1, 'consecutive days show different photos');
+  assert.equal(hubHeroForDay([mk('e', 'event', 1)]), null);
+});
