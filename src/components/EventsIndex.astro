@@ -3,17 +3,14 @@ import { getCollection } from 'astro:content';
 import { pickOgPhoto } from '../lib/ogPhoto.mjs';
 import { siteHref } from '../lib/urls.mjs';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import PostCard from './PostCard.astro';
+import EventsList from './EventsList.astro';
 import Emoji from './Emoji.astro';
 import Newsletter from './Newsletter.astro';
-import Flag from './Flag.astro';
 import { SITE } from '../siteConfig';
 import { isEventPast, eventSortValue } from '../lib/eventStatus';
-import { groupUpcomingEvents } from '../lib/eventGroups.mjs';
 import countriesData from '../../data/countries.json';
-import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
-import { fmtEventRange } from '../lib/eventDates.mjs';
-import { localizePlace } from '../i18n/places';
+import { useTranslations, localizePath, type Lang } from '../i18n/utils';
+import { evStrings } from '../i18n/events-strings';
 import { loadCardTranslations, cardHelpers } from '../i18n/cards';
 
 // Shared /events index for en + /[lang]/events.
@@ -50,26 +47,8 @@ const countryLinks = [...evCount.entries()]
   .map(([name]) => ({ name, slug: slugByName.get(name)!.slug, flag: slugByName.get(name)!.iso2, up: upCount.get(name) ?? 0 }))
   .sort((a, b) => b.up - a.up || a.name.localeCompare(b.name));
 
-const monthLabel = (d: any) =>
-  d ? new Date(d).toLocaleDateString(localeCodes[lang], { month: 'long', year: 'numeric' }) : t('ev.dateTBA');
-const byMonth = groupUpcomingEvents(
-  upcoming,
-  { now: t('ev.nowOn'), tba: t('ev.dateTBA'), month: monthLabel },
-  today,
-);
-
-const cardProps = (post: any) => ({
-  href: card.href(post.id),
-  title: card.title(post.id, post.data.title),
-  description: card.desc(post.id, post.data.description),
-  rating: post.data.place?.rating,
-  region: `${localizePlace(post.data.region, lang)} · ${localizePlace(post.data.country ?? 'South Korea', lang)}`,
-  category: post.data.category,
-  image: post.data.heroImage?.url,
-  eventEndDate: post.data.eventEndDate,
-  dateLabel: fmtEventRange(post.data.eventStartDate, post.data.eventEndDate, localeCodes[lang]),
-});
-
+const e = evStrings(lang);
+const statLine = e('statLine', { c: countries, n: upcoming.length });
 const summary = t('ev.summaryGlobal').replace('{n}', String(upcoming.length)).replace('{c}', String(countries));
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
@@ -105,17 +84,9 @@ const ogPhoto = pickOgPhoto([...all].sort((a, b) =>
     <div class="wrap">
       <p class="eyebrow">{t('nav.events')}</p>
       <h1>{t('ev.upcoming')}</h1>
-      <p>{summary}</p>
-      {countryLinks.length > 1 && (
-        <p class="event-country-nav">
-          {t('ev.browseByCountry')}{' '}
-          {countryLinks.map((c, i) => (
-            <>{i > 0 && <span aria-hidden="true"> · </span>}<a href={localizePath(`/events/${c.slug}`, lang)} class="rule-link"><Flag code={c.flag} size="1em" class="flag-ico" /> {localizePlace(c.name, lang)}</a></>
-          ))}
-        </p>
-      )}
+      <p class="ev-stat">{statLine}</p>
       <p class="cal-sub">
-        <a class="btn btn-ghost" href="/events.ics"><Emoji name="spiral-calendar" class="nav-ico" /> {t('ev.addToCalendar')}</a>
+        <a class="btn btn-ghost" href="/events.ics"><Emoji name="spiral-calendar" class="nav-ico" /> {e('subscribe')}</a>
         <span class="cal-hint">{t('ev.addToCalendarHint')}</span>
       </p>
     </div>
@@ -125,33 +96,7 @@ const ogPhoto = pickOgPhoto([...all].sort((a, b) =>
     <section class="section"><div class="wrap"><div class="fact-box" style="text-align:center"><p>{t('ev.noneGlobal')}</p></div></div></section>
   )}
 
-  {byMonth.map(([month, items]) => (
-    <section class="section">
-      <div class="wrap">
-        <div class="rule-head"><h2 class="kicker">{month}</h2></div>
-        <div class="grid">
-          {items.map((post) => <PostCard {...cardProps(post)} />)}
-        </div>
-      </div>
-    </section>
-  ))}
-
-  {past.length > 0 && (
-    <section class="section band">
-      <div class="wrap">
-        {/* Folded by default: 37 ended events rendered as full cards made the
-            mobile page 45,000px tall under the 64 upcoming ones (2026-08-22).
-            The archive still ships in the HTML (indexable, linkable) — it just
-            no longer stands between the reader and the footer. */}
-        <details class="past-events">
-          <summary class="rule-head"><h2 class="kicker">{t('ev.pastEvents')} ({past.length})</h2></summary>
-          <div class="grid">
-            {past.map((post) => <PostCard {...cardProps(post)} />)}
-          </div>
-        </details>
-      </div>
-    </section>
-  )}
+  <EventsList lang={lang} upcoming={upcoming} past={past} card={card} trTitles={tr} countryLinks={countryLinks} today={today} />
 
   <Newsletter
     lang={lang}
@@ -160,10 +105,3 @@ const ogPhoto = pickOgPhoto([...all].sort((a, b) =>
   />
 </BaseLayout>
 
-<style>
-  .past-events > summary { cursor: pointer; list-style: none; }
-  .past-events > summary::-webkit-details-marker { display: none; }
-  .past-events > summary .kicker::after { content: ' ▾'; }
-  .past-events[open] > summary .kicker::after { content: ' ▴'; }
-  .past-events > .grid { margin-top: 1rem; }
-</style>

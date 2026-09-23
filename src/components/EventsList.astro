@@ -1,0 +1,393 @@
+---
+// The list half of both events hubs (/events/ and /events/<country>/), shared
+// so the two cannot drift. Redesign 2026-09-24:
+//
+//   - filter chips by derived category (lib/eventCategory.mjs) — client-side
+//     show/hide only; every event stays in the HTML, so crawlers and readers
+//     without JavaScript still get every link;
+//   - "On now" as cards with how much of the run has passed and days left;
+//   - each future month as compact rows: weekday + day | name + dates |
+//     city · country | category;
+//   - past events folded, as the global hub already was.
+//
+// The grouping (now / month / date TBA) is still groupUpcomingEvents, and the
+// month heading is still the bare <h2 class="kicker">{month}</h2> that
+// scripts/audit-rendered-pages.mjs reads for PAST-MONTH-HEAD — the count lives
+// in a sibling span so the audit keeps seeing the label on its own.
+import Flag from './Flag.astro';
+import { groupUpcomingEvents } from '../lib/eventGroups.mjs';
+import { eventCategory } from '../lib/eventCategory.mjs';
+import { eventShortName } from '../lib/eventShortName.mjs';
+import { fmtEventRange } from '../lib/eventDates.mjs';
+import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
+import { localizePlace } from '../i18n/places';
+import { evStrings } from '../i18n/events-strings';
+
+interface CountryLink { name: string; slug: string; flag: string; up: number }
+interface Props {
+  lang: Lang;
+  upcoming: any[];
+  past: any[];
+  // Card helpers from i18n/cards (localized title + href).
+  card: { title: (id: string, en: string) => string; href: (id: string) => string };
+  // Localized titles by post id; present only when this language has one.
+  trTitles: Map<string, { title: string }>;
+  countryLinks?: CountryLink[];
+  today: Date;
+}
+const { lang, upcoming, past, card, trTitles, countryLinks = [], today } = Astro.props as Props;
+const t = useTranslations(lang);
+const e = evStrings(lang);
+const locale = localeCodes[lang];
+
+const CAT_KEY = {
+  concerts: 'catConcerts', sports: 'catSports', festivals: 'catFestivals',
+  exhibitions: 'catExhibitions', other: 'catOther',
+} as const;
+type Cat = keyof typeof CAT_KEY;
+const catOf = (p: any): Cat => eventCategory(p.data) as Cat;
+
+// Chip order is fixed; a chip is shown only when this page has an upcoming
+// event under it, so "Other" (and, on a small country hub, anything else)
+// appears only when it would not lead to an empty list.
+const catCounts = new Map<Cat, number>();
+for (const p of upcoming) catCounts.set(catOf(p), (catCounts.get(catOf(p)) ?? 0) + 1);
+const chips = (Object.keys(CAT_KEY) as Cat[]).filter((c) => (catCounts.get(c) ?? 0) > 0);
+
+// Short display name in the page's language. A translated title is shortened
+// with that language's rules; an untranslated post keeps the English rules
+// (the card already falls back to the English title today).
+const nameOf = (p: any) => {
+  const tr = trTitles.get(p.id);
+  return tr ? eventShortName(tr.title, lang) : eventShortName(p.data.title, 'en');
+};
+// "Singapore · Singapore" / "Hong Kong · Hong Kong" says one place twice.
+const whereOf = (p: any) => {
+  const city = localizePlace(p.data.region, lang);
+  const ctry = localizePlace(p.data.country ?? 'South Korea', lang);
+  return !city || city === ctry ? ctry : `${city} · ${ctry}`;
+};
+const whenOf = (p: any) => fmtEventRange(p.data.eventStartDate, p.data.eventEndDate, locale);
+const countLabel = (n: number) => (n === 1 ? e('countOne') : e('count', { n }));
+
+// Day arithmetic on calendar dates. Event dates are stored as date-only ISO
+// strings (UTC midnight), so the UTC day number IS the event's day.
+const DAY = 86_400_000;
+const dayNum = (d: any) => Math.floor(new Date(d).getTime() / DAY);
+const todayNum = Math.floor(Date.UTC(today.getUTCFullYear(), today.getUTCMonth(), today.getUTCDate()) / DAY);
+const iso = (d: any) => (d ? new Date(d).toISOString().slice(0, 10) : '');
+
+// Build-time progress; the script below recomputes it from the READER's date,
+// since the page is built once a day and read in every time zone.
+function runState(p: any) {
+  if (!p.data.eventStartDate || !p.data.eventEndDate) return null;
+  const s = dayNum(p.data.eventStartDate);
+  const en = dayNum(p.data.eventEndDate);
+  if (Number.isNaN(s) || Number.isNaN(en) || en < s) return null;
+  const total = en - s + 1;
+  const passed = Math.min(Math.max(todayNum - s, 0), total);
+  const left = en - todayNum;
+  const label = left < 0 ? e('ended') : left === 0 ? e('lastDay') : left === 1 ? e('dayLeft') : e('daysLeft', { n: left });
+  return { pct: Math.round((passed / total) * 100), label };
+}
+
+const wdFmt = new Intl.DateTimeFormat(locale, { weekday: 'short', timeZone: 'UTC' });
+const monFmt = new Intl.DateTimeFormat(locale, { month: 'short', timeZone: 'UTC' });
+function badge(p: any, withMonth = false) {
+  const raw = p.data.eventStartDate;
+  const d = raw ? new Date(raw) : null;
+  if (!d || Number.isNaN(d.getTime())) return null;
+  return { top: withMonth ? monFmt.format(d) : wdFmt.format(d), day: d.getUTCDate() };
+}
+
+const nowLabel = t('ev.nowOn');
+const tbaLabel = t('ev.dateTBA');
+const monthLabel = (d: any) =>
+  d ? new Date(d).toLocaleDateString(locale, { month: 'long', year: 'numeric' }) : tbaLabel;
+const groups = groupUpcomingEvents(upcoming, { now: nowLabel, tba: tbaLabel, month: monthLabel }, today);
+
+// Handed to the script as data, so the client side never carries English
+// fallbacks of its own.
+const clientStrings = JSON.stringify({
+  count: e('count'), countOne: e('countOne'), daysLeft: e('daysLeft'), dayLeft: e('dayLeft'),
+  lastDay: e('lastDay'), ended: e('ended'), progress: e('progress'),
+});
+---
+
+<div class="ev-list" data-ev-list data-strings={clientStrings}>
+  {(chips.length > 1 || countryLinks.length > 1) && (
+    <section class="ev-filters">
+      <div class="wrap">
+        {chips.length > 1 && (
+          <div class="ev-chips" role="group" aria-label={e('filterLabel')}>
+            <button type="button" class="ev-chip" data-filter="all" aria-pressed="true">
+              {e('catAll')} <span class="ev-chip-n">{upcoming.length}</span>
+            </button>
+            {chips.map((c) => (
+              <button type="button" class="ev-chip" data-filter={c} aria-pressed="false">
+                {e(CAT_KEY[c])} <span class="ev-chip-n">{catCounts.get(c)}</span>
+              </button>
+            ))}
+          </div>
+        )}
+        {countryLinks.length > 1 && (
+          <nav class="ev-chips ev-chips--countries" aria-label={e('countriesLabel')}>
+            {countryLinks.map((c) => (
+              <a class="ev-chip ev-chip--link" href={localizePath(`/events/${c.slug}`, lang)}>
+                <Flag code={c.flag} size="1em" class="flag-ico" /> {localizePlace(c.name, lang)}
+              </a>
+            ))}
+          </nav>
+        )}
+      </div>
+    </section>
+  )}
+
+  {groups.map(([label, items]) => {
+    const isNow = label === nowLabel;
+    return (
+      <section class="section ev-group" data-ev-group>
+        <div class="wrap">
+          <div class="rule-head ev-head">
+            <h2 class="kicker">{label}</h2>
+            <span class="ev-count" data-count>{countLabel(items.length)}</span>
+          </div>
+          {isNow ? (
+            <div class="ev-now-grid">
+              {items.map((p) => {
+                const cat = catOf(p);
+                const st = runState(p);
+                return (
+                  <a class="ev-now-card" href={card.href(p.id)} data-category={cat}
+                     data-start={iso(p.data.eventStartDate)} data-end={iso(p.data.eventEndDate)}>
+                    <span class={`ev-tag ev-tag--${cat}`}>{e(CAT_KEY[cat])}</span>
+                    <strong class="ev-name">{nameOf(p)}</strong>
+                    <span class="ev-where">{whereOf(p)}</span>
+                    <span class="ev-when">{whenOf(p)}</span>
+                    {st && (
+                      <span class="ev-run">
+                        <span class="ev-bar" role="img" aria-label={e('progress', { p: st.pct })} data-bar>
+                          <span class="ev-bar-fill" style={`width:${st.pct}%`} data-fill></span>
+                        </span>
+                        <span class="ev-left" data-left>{st.label}</span>
+                      </span>
+                    )}
+                  </a>
+                );
+              })}
+            </div>
+          ) : (
+            <ul class="ev-rows">
+              {items.map((p) => {
+                const cat = catOf(p);
+                const b = label === tbaLabel ? null : badge(p);
+                return (
+                  <li data-category={cat}>
+                    <a class="ev-row" href={card.href(p.id)}>
+                      <span class="ev-badge" aria-hidden="true">
+                        {b ? (<><span class="ev-badge-top">{b.top}</span><span class="ev-badge-day">{b.day}</span></>) : <span class="ev-badge-day">–</span>}
+                      </span>
+                      <span class="ev-main">
+                        <strong class="ev-name">{nameOf(p)}</strong>
+                        <span class="ev-when">{whenOf(p) || tbaLabel}</span>
+                      </span>
+                      <span class="ev-meta">
+                        <span class="ev-where">{whereOf(p)}</span>
+                        <span class={`ev-tag ev-tag--${cat}`}>{e(CAT_KEY[cat])}</span>
+                      </span>
+                    </a>
+                  </li>
+                );
+              })}
+            </ul>
+          )}
+        </div>
+      </section>
+    );
+  })}
+
+  <section class="section ev-none" data-ev-none hidden>
+    <div class="wrap"><div class="fact-box" style="text-align:center"><p>{e('noneInFilter')}</p></div></div>
+  </section>
+
+  {past.length > 0 && (
+    <section class="section band">
+      <div class="wrap">
+        {/* Folded by default: 37 ended events rendered as full cards made the
+            mobile page 45,000px tall under the 64 upcoming ones (2026-08-22).
+            The archive still ships in the HTML (indexable, linkable) — it just
+            no longer stands between the reader and the footer. The filter
+            chips do not reach in here: they are about what a reader can still
+            go to. */}
+        <details class="past-events">
+          <summary class="rule-head"><h2 class="kicker">{t('ev.pastEvents')} ({past.length})</h2></summary>
+          <ul class="ev-rows">
+            {past.map((p) => {
+              const cat = catOf(p);
+              const b = badge(p, true);
+              return (
+                <li data-category={cat}>
+                  <a class="ev-row" href={card.href(p.id)}>
+                    <span class="ev-badge" aria-hidden="true">
+                      {b ? (<><span class="ev-badge-top">{b.top}</span><span class="ev-badge-day">{b.day}</span></>) : <span class="ev-badge-day">–</span>}
+                    </span>
+                    <span class="ev-main">
+                      <strong class="ev-name">{nameOf(p)}</strong>
+                      <span class="ev-when">{whenOf(p)}</span>
+                    </span>
+                    <span class="ev-meta">
+                      <span class="ev-where">{whereOf(p)}</span>
+                      <span class={`ev-tag ev-tag--${cat}`}>{e(CAT_KEY[cat])}</span>
+                    </span>
+                  </a>
+                </li>
+              );
+            })}
+          </ul>
+        </details>
+      </div>
+    </section>
+  )}
+</div>
+
+<script>
+  // Two jobs, both progressive: without this script every event is visible
+  // and the "days left" is as of the morning's build.
+  const DAY = 86_400_000;
+  const fill = (s: string, n: number | string, key = 'n') => s.split(`{${key}}`).join(String(n));
+
+  for (const root of document.querySelectorAll<HTMLElement>('[data-ev-list]')) {
+    let S: Record<string, string> = {};
+    try { S = JSON.parse(root.dataset.strings || '{}'); } catch { /* keep build-time text */ }
+
+    // 1. "On now" progress from the reader's own calendar date.
+    const now = new Date();
+    const today = Date.UTC(now.getFullYear(), now.getMonth(), now.getDate()) / DAY;
+    for (const cardEl of root.querySelectorAll<HTMLElement>('[data-start][data-end]')) {
+      const s = Date.parse(cardEl.dataset.start || '') / DAY;
+      const e = Date.parse(cardEl.dataset.end || '') / DAY;
+      if (!Number.isFinite(s) || !Number.isFinite(e) || e < s) continue;
+      const total = e - s + 1;
+      const passed = Math.min(Math.max(today - s, 0), total);
+      const pct = Math.round((passed / total) * 100);
+      const left = e - today;
+      const fillEl = cardEl.querySelector<HTMLElement>('[data-fill]');
+      const bar = cardEl.querySelector<HTMLElement>('[data-bar]');
+      const leftEl = cardEl.querySelector<HTMLElement>('[data-left]');
+      if (fillEl) fillEl.style.width = `${pct}%`;
+      if (bar && S.progress) bar.setAttribute('aria-label', fill(S.progress, pct, 'p'));
+      if (leftEl) {
+        const text = left < 0 ? S.ended : left === 0 ? S.lastDay : left === 1 ? S.dayLeft : S.daysLeft && fill(S.daysLeft, left);
+        if (text) leftEl.textContent = text;
+      }
+    }
+
+    // 2. Category chips: show/hide rows, recount each section, hide empty ones.
+    const chips = [...root.querySelectorAll<HTMLButtonElement>('button[data-filter]')];
+    const groups = [...root.querySelectorAll<HTMLElement>('[data-ev-group]')];
+    const none = root.querySelector<HTMLElement>('[data-ev-none]');
+    const apply = (filter: string) => {
+      for (const c of chips) c.setAttribute('aria-pressed', String(c.dataset.filter === filter));
+      let shown = 0;
+      for (const g of groups) {
+        let n = 0;
+        for (const item of g.querySelectorAll<HTMLElement>('[data-category]')) {
+          const on = filter === 'all' || item.dataset.category === filter;
+          item.hidden = !on;
+          if (on) n++;
+        }
+        g.hidden = n === 0;
+        shown += n;
+        const countEl = g.querySelector<HTMLElement>('[data-count]');
+        if (countEl && S.count) countEl.textContent = n === 1 ? S.countOne : fill(S.count, n);
+      }
+      if (none) none.hidden = shown > 0;
+    };
+    for (const c of chips) c.addEventListener('click', () => apply(c.dataset.filter || 'all'));
+  }
+</script>
+
+<style>
+  .ev-filters { padding: 0 0 .5rem; }
+  .ev-chips { display: flex; flex-wrap: wrap; gap: .5rem; margin: .25rem 0 .75rem; }
+  .ev-chip {
+    display: inline-flex; align-items: center; gap: .4rem;
+    padding: .45rem .9rem; border-radius: var(--r-pill);
+    border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink);
+    font: inherit; font-size: .9rem; line-height: 1.2; cursor: pointer; text-decoration: none;
+  }
+  .ev-chip:hover { border-color: var(--accent); }
+  .ev-chip[aria-pressed='true'] { background: var(--accent-fill); border-color: var(--accent-fill); color: #fff; }
+  .ev-chip-n { font-size: .8em; opacity: .75; }
+  .ev-chips--countries .ev-chip { font-size: .85rem; padding: .35rem .75rem; background: var(--surface-2); border-color: var(--line); }
+
+  .ev-head { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; }
+  .ev-count { color: var(--muted); font-size: .9rem; white-space: nowrap; }
+
+  .ev-tag {
+    display: inline-block; align-self: start; justify-self: start;
+    padding: .15rem .55rem; border-radius: var(--r-pill);
+    background: var(--surface-2); color: var(--ink-soft);
+    font-size: .75rem; font-weight: 600; letter-spacing: .02em; white-space: nowrap;
+  }
+  .ev-tag--concerts { background: var(--accent-soft); color: var(--accent-text); }
+  .ev-tag--sports { color: var(--pine); }
+  .ev-tag--festivals { color: var(--gold-text); }
+
+  .ev-name { color: var(--ink); font-weight: 650; line-height: 1.3; overflow-wrap: anywhere; }
+  .ev-where, .ev-when { color: var(--muted); font-size: .88rem; overflow-wrap: anywhere; }
+
+  /* On now */
+  .ev-now-grid { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(min(100%, 16rem), 1fr)); }
+  .ev-now-card {
+    display: flex; flex-direction: column; gap: .4rem; min-width: 0;
+    padding: 1rem 1.1rem; border-radius: var(--r-lg);
+    background: var(--surface); border: 1px solid var(--line-soft); box-shadow: var(--shadow-sm);
+    text-decoration: none; color: inherit;
+  }
+  .ev-now-card:hover { border-color: var(--line-strong); }
+  .ev-now-card .ev-name { font-size: 1.05rem; }
+  @media (max-width: 759px) {
+    .ev-now-grid { gap: .7rem; }
+    .ev-now-card { padding: .85rem 1rem; gap: .3rem; }
+    /* 17 country chips wrapped to seven rows on a phone; one swipeable row
+       instead. The row scrolls inside itself — the page never does. */
+    .ev-chips--countries { flex-wrap: nowrap; overflow-x: auto; padding-bottom: .25rem; scrollbar-width: thin; }
+    .ev-chips--countries .ev-chip { flex: 0 0 auto; }
+  }
+  .ev-run { display: flex; flex-direction: column; gap: .3rem; margin-top: auto; padding-top: .4rem; }
+  .ev-bar { display: block; height: 6px; border-radius: var(--r-pill); background: var(--surface-2); overflow: hidden; }
+  .ev-bar-fill { display: block; height: 100%; background: var(--accent); border-radius: inherit; }
+  .ev-left { font-size: .85rem; font-weight: 600; color: var(--accent-text); }
+
+  /* Month rows */
+  .ev-rows { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line-soft); }
+  .ev-rows > li { border-bottom: 1px solid var(--line-soft); }
+  .ev-row {
+    display: grid; grid-template-columns: 3rem minmax(0, 1fr); column-gap: .8rem; row-gap: .2rem;
+    align-items: start; padding: .7rem .25rem; text-decoration: none; color: inherit;
+  }
+  .ev-row:hover .ev-name { color: var(--accent-text); }
+  .ev-badge {
+    grid-row: span 2; display: flex; flex-direction: column; align-items: center; justify-content: center;
+    width: 3rem; min-height: 3rem; border-radius: var(--r-sm);
+    background: var(--surface-2); color: var(--ink); line-height: 1.1;
+  }
+  .ev-badge-top { font-size: .7rem; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
+  .ev-badge-day { font-size: 1.25rem; font-weight: 700; font-family: var(--font-display); }
+  .ev-main { display: flex; flex-direction: column; gap: .05rem; min-width: 0; }
+  .ev-meta { display: flex; flex-wrap: wrap; align-items: center; gap: .25rem .6rem; min-width: 0; }
+  @media (min-width: 760px) {
+    .ev-row { grid-template-columns: 3.5rem minmax(0, 1fr) minmax(0, 15rem) 7.5rem; align-items: center; }
+    .ev-badge { grid-row: auto; width: 3.5rem; min-height: 3.5rem; }
+    .ev-meta { display: contents; }
+    .ev-row .ev-tag { justify-self: end; }
+  }
+
+  .past-events > summary { cursor: pointer; list-style: none; }
+  .past-events > summary::-webkit-details-marker { display: none; }
+  .past-events > summary .kicker::after { content: ' ▾'; }
+  .past-events[open] > summary .kicker::after { content: ' ▴'; }
+  .past-events > .ev-rows { margin-top: 1rem; }
+  [hidden] { display: none !important; }
+</style>
