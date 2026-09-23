@@ -20483,5 +20483,113 @@
     "verdict": "MATCH",
     "reason": "width upgrade: Interior view of museum with escalator and exhibition banner",
     "at": "2026-09-22T22:25:53.489Z"
+  },
+  "pattaya-pattaya-park-night-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/DFC_4733_Night_market_scene_in_Pattaya_street_vendors_parked_scooters_and_people_browsing_under_bright_shop_signs.jpg/3840px-DFC_4733_Night_market_scene_in_Pattaya_street_vendors_parked_scooters_and_people_browsing_under_bright_shop_signs.jpg": {
+    "slug": "pattaya-pattaya-park-night-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Night market street scene in Pattaya, representative view",
+    "at": "2026-09-23T07:37:55.806Z"
+  },
+  "valencia-central-market-of-valencia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Mercado_Central%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-30%2C_DD_116.JPG/3840px-Mercado_Central%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-30%2C_DD_116.JPG": {
+    "slug": "valencia-central-market-of-valencia",
+    "verdict": "MATCH",
+    "reason": "publish gate: Iconic domed ceiling interior of Central Market Valencia",
+    "at": "2026-09-23T07:39:26.712Z"
+  },
+  "okinawa-makishi-public-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_%E9%82%A3%E9%9C%B8_Naha_%E7%89%A7%E5%BF%97%E5%85%AC%E8%A8%AD%E5%B8%82%E5%A0%B4_Makishi_First_Public_Market_at_%E5%9C%8B%E9%9A%9B%E9%80%9A_KokusaiDori_%E5%A4%A7%E5%B9%B3%E9%80%9A%E5%95%86%E5%BA%97%E8%A1%97_TaiHeiDori_Business_Street_January_2025_R12S_07.jpg/3840px-thumbnail.jpg": {
+    "slug": "okinawa-makishi-public-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Fresh seafood display with Japanese signage, typical market stall",
+    "at": "2026-09-23T07:40:20.361Z"
+  },
+  "hoi-an-central-market-hoi-an\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hoi_An_Central_Market_%2815242392187%29.jpg/3840px-Hoi_An_Central_Market_%2815242392187%29.jpg": {
+    "slug": "hoi-an-central-market-hoi-an",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows Cho Hoi An market exterior with stalls, representative",
+    "at": "2026-09-23T07:41:16.763Z"
+  },
+  "chicago-unabridged-bookstore\u0001https://upload.wikimedia.org/wikipedia/commons/a/a0/Classic_storefront.jpg": {
+    "slug": "chicago-unabridged-bookstore",
+    "verdict": "MATCH",
+    "reason": "publish gate: Storefront exterior with bookstore signage, plausible representative hero",
+    "at": "2026-09-23T07:42:01.893Z"
+  },
+  "labuan-bajo-pasar-malam\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Pasar_Malam_Rawasari_11.JPG/1920px-Pasar_Malam_Rawasari_11.JPG": {
+    "slug": "labuan-bajo-pasar-malam",
+    "verdict": "MATCH",
+    "reason": "publish gate: Night market scene with vendors and goods, representative of Pasar Malam",
+    "at": "2026-09-23T07:42:49.725Z"
+  },
+  "chiang-rai-chiang-rai-night-bazaar\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Chiang_Rai_-_Night_Bazaar_-_0001.jpg/3840px-Chiang_Rai_-_Night_Bazaar_-_0001.jpg": {
+    "slug": "chiang-rai-chiang-rai-night-bazaar",
+    "verdict": "MATCH",
+    "reason": "publish gate: Thai pavilion with tables, matches night bazaar restaurant setting",
+    "at": "2026-09-23T07:43:57.373Z"
+  },
+  "hue-dong-ba-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Dong_Ba_Market_%28Hue%29_-_Ch%E1%BB%A3_%C4%90%C3%B4ng_Ba_Hu%E1%BA%BF_%28July_2024%29_-_img_02.jpg/1920px-Dong_Ba_Market_%28Hue%29_-_Ch%E1%BB%A3_%C4%90%C3%B4ng_Ba_Hu%E1%BA%BF_%28July_2024%29_-_img_02.jpg": {
+    "slug": "hue-dong-ba-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows market entrance sign and storefront, representative view",
+    "at": "2026-09-23T07:44:56.012Z"
+  },
+  "fujairah-friday-market\u0001https://upload.wikimedia.org/wikipedia/commons/4/47/Friday_market_-_panoramio.jpg": {
+    "slug": "fujairah-friday-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Market stalls with produce, matches Friday Market Fujairah setting",
+    "at": "2026-09-23T07:45:47.221Z"
+  },
+  "mong-kok-mong-kok-night-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/HK_MK_%E6%97%BA%E8%A7%92_Mong_Kok_%E7%85%99%E5%BB%A0%E8%A1%97_Yin_Chong_Street_market_night_November_2021_SS2.jpg/3840px-HK_MK_%E6%97%BA%E8%A7%92_Mong_Kok_%E7%85%99%E5%BB%A0%E8%A1%97_Yin_Chong_Street_market_night_November_2021_SS2.jpg": {
+    "slug": "mong-kok-mong-kok-night-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Street market scene with stalls, plausible Mong Kok setting",
+    "at": "2026-09-23T07:46:26.977Z"
+  },
+  "bengaluru-bangalore-market\u0001https://upload.wikimedia.org/wikipedia/commons/7/79/Capsicum_in_a_market%2C_Bangalore_%282026%29_01.jpg": {
+    "slug": "bengaluru-bangalore-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Vegetable market stall, plausible produce section in Bangalore market",
+    "at": "2026-09-23T07:47:20.010Z"
+  },
+  "little-india-little-india-arcade\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Little_India_Arcade%2C_Singapore_-_20070108.jpg/3840px-Little_India_Arcade%2C_Singapore_-_20070108.jpg": {
+    "slug": "little-india-little-india-arcade",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior building clearly labeled Little India Arcade",
+    "at": "2026-09-23T07:48:02.148Z"
+  },
+  "surabaya-pasar-ampel\u0001https://upload.wikimedia.org/wikipedia/commons/a/a7/Jajanan_pasar_dini_hari%2C_Ampel%2C_Surabaya.jpg": {
+    "slug": "surabaya-pasar-ampel",
+    "verdict": "MATCH",
+    "reason": "publish gate: Market food stalls, plausible representative view of Pasar Ampel",
+    "at": "2026-09-23T07:49:03.873Z"
+  },
+  "osaka-kuromon-market\u0001https://upload.wikimedia.org/wikipedia/commons/d/dd/Kuromon_Ichiba_Market_at_Lalaport_Kadoma2.jpg": {
+    "slug": "osaka-kuromon-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Interior food court seating area, plausible Kuromon Market scene",
+    "at": "2026-09-23T07:49:45.949Z"
+  },
+  "marina-bay-chinatown-singapore\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Chinese_New_Year_decorations_in_Chinatown%2C_Singapore%2C_20240122_0852_2963.jpg/3840px-Chinese_New_Year_decorations_in_Chinatown%2C_Singapore%2C_20240122_0852_2963.jpg": {
+    "slug": "marina-bay-chinatown-singapore",
+    "verdict": "MATCH",
+    "reason": "publish gate: Chinatown Singapore temple with festive dragon decorations",
+    "at": "2026-09-23T07:50:31.600Z"
+  },
+  "madrid-mercado-de-san-miguel\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mercado_de_San_Miguel_2025.jpg/1920px-Mercado_de_San_Miguel_2025.jpg": {
+    "slug": "madrid-mercado-de-san-miguel",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior view of Mercado de San Miguel, recognizable and representative.",
+    "at": "2026-09-23T07:51:21.132Z"
+  },
+  "kuala-lumpur-central-market\u0001https://upload.wikimedia.org/wikipedia/commons/4/4a/Central_Market%2C_Kuala_Lumpur.jpg": {
+    "slug": "kuala-lumpur-central-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Exterior facade of Central Market clearly shown with signage",
+    "at": "2026-09-23T08:04:15.821Z"
+  },
+  "ho-chi-minh-city-ben-thanh-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ben_Thanh%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG/1920px-Ben_Thanh%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG": {
+    "slug": "ho-chi-minh-city-ben-thanh-market",
+    "verdict": "MATCH",
+    "reason": "publish gate: Iconic Ben Thanh Market clock tower entrance, representative exterior view",
+    "at": "2026-09-23T08:05:03.497Z"
   }
 }

@@ -23372,13 +23372,6 @@
   "worst": "由于各展馆分布在露天庭院之间,阴天上午或正午酷热稍退后前往会比旱季正午时段舒适得多。",
   "at": "2026-08-15T03:42:57.471Z"
  },
- "zh/bangkok-post-malone-the-big-ass-stadium-world-tour": {
-  "hash": "0a90cab7253a",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "比起在普通衣物外再套一件巡演周边服饰，穿轻薄透气的衣服会是更明智的选择。",
-  "at": "2026-08-15T03:43:03.328Z"
- },
  "zh/bangkok-sea-life-bangkok-ocean-world": {
   "hash": "aeac514c9556",
   "score": 1,
@@ -27356,11 +27349,11 @@
   "at": "2026-08-15T04:06:52.869Z"
  },
  "zh/new-taipei-bopiliao-historical-block": {
-  "hash": "a4e011245bdf",
+  "hash": "9e2a93cfb2aa",
   "score": 1,
   "registerBreak": false,
-  "worst": "当地人把这里当成抄近路和拍照的背景,和把它当成历史景点参观差不多常见——看到街区融入日常人流",
-  "at": "2026-08-16T11:07:01.688Z"
+  "worst": "这里毕竟是个热门的知名景点，而不是什么隐秘小众的地方，所以真正的诀窍不是幻想独自包场，而是想办法避开人潮高峰。",
+  "at": "2026-09-23T07:58:18.037Z"
  },
  "zh/new-taipei-yangmingshan-national-park": {
   "hash": "6de2cd3500c6",
@@ -29804,5 +29797,75 @@
   "registerBreak": false,
   "worst": "如果选在周六前往，要清楚这本来就是设计好的一周中人最多、时间最长的一天，不是偶然，所以对码头边能有多少个人空间不要抱太高期望。",
   "at": "2026-09-22T08:00:53.715Z"
+ },
+ "ko/new-taipei-old-place-airplane-observation-deck": {
+  "hash": "2f22eef084b5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "다른 등산객들, 다른 삼각대들, 같은 장면을 기다리는 다른 사람들과 함께해야 한다고 생각하는 게 좋습니다.",
+  "at": "2026-09-23T07:58:06.451Z"
+ },
+ "zh/da-nang-con-market": {
+  "hash": "672b686a6cb4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "摊位这套系统对你的期待",
+  "at": "2026-09-23T07:58:13.538Z"
+ },
+ "zh/mumbai-fashion-street": {
+  "hash": "1d05fd8fb154",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "如果摊主坚称某件商品是\"正品大牌\"，价格却是地摊价，那就别信了——反正来这里买东西也不是为了追正品。",
+  "at": "2026-09-23T07:58:15.121Z"
+ },
+ "es/bengaluru-bangalore-market": {
+  "hash": "116cace669b5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Hay que esperar puestos repletos de suelo a techo, con mercancía que se vende por docenas...",
+  "at": "2026-09-23T07:58:24.078Z"
+ },
+ "es/chiang-rai-chiang-rai-night-bazaar": {
+  "hash": "294248291e84",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Lo que distingue esto del teatro en otras partes de la ciudad es que nadie paga entrada",
+  "at": "2026-09-23T07:58:29.585Z"
+ },
+ "es/chicago-unabridged-bookstore": {
+  "hash": "ad23ecc09570",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "sobre todo si se elige algo acompañado de un niño en lugar de para uno.",
+  "at": "2026-09-23T08:00:32.151Z"
+ },
+ "ja/bengaluru-bangalore-market": {
+  "hash": "cf22f69e8b6f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "暑さと人通りに備えた服装で臨みましょう。路地は足元が悪く手押し車も勢いよく行き交うため、サンダルではなく履き慣れた靴がおすすめです。",
+  "at": "2026-09-23T07:58:40.514Z"
+ },
+ "ja/chiang-rai-chiang-rai-night-bazaar": {
+  "hash": "770493f6cfe2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "一人で食事をする際に皿を屋台の縁でバランスよく持たなくて済むので便利です。",
+  "at": "2026-09-23T07:58:49.077Z"
+ },
+ "ko/bengaluru-bangalore-market": {
+  "hash": "f4a1b212daa3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "주말에는 정오부터 마감 시간까지 붐비기 때문에, 토요일 오전 11시 개장 직후에 도착하면 인파가 몰리기 전 가장 한산한 시간대를 누릴 수 있습니다.",
+  "at": "2026-09-23T07:59:03.727Z"
+ },
+ "ko/chiang-rai-chiang-rai-night-bazaar": {
+  "hash": "870e8cc63239",
+  "score": 1,
+  "registerBreak": true,
+  "worst": "인기 있는 방문지이다 보니, 이른 저녁 시간대는 금세 붐빕니다.",
+  "at": "2026-09-23T07:59:06.787Z"
  }
 }
