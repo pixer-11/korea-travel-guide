@@ -35,11 +35,15 @@ const MAX_CARDS = 3;
 
 // Subreddits where the editor's REAL experience (visited countries + our
 // measured crowd data) makes an answer credible. Question-shaped posts only.
+// VietnamTravel and kpophelp added 2026-09-24: the editor LIVES in Vietnam —
+// the one place an answer is first-hand rather than remembered — and kpophelp
+// carries the "flying in for a concert, how do I get to the venue" questions
+// our event guides are written for. Neither was on the list.
 const SUBS = [
   'JapanTravel', 'JapanTravelTips', 'koreatravel',
-  'ThailandTourism', 'travel', 'solotravel', 'Shoestring',
+  'ThailandTourism', 'VietnamTravel', 'kpophelp', 'travel', 'solotravel', 'Shoestring',
 ];
-const TOPIC = /crowd|busy|queue|line|when to (go|visit)|best time|itinerary|worth it|how (long|many days)|first time|avoid/i;
+const TOPIC = /crowd|busy|queue|line|when to (go|visit)|best time|itinerary|worth it|how (long|many days)|first time|avoid|concert|venue|stadium|arena|getting (to|there)|stay near|grab/i;
 
 const seen = existsSync(SEEN) ? JSON.parse(readFileSync(SEEN, 'utf8')) : { ids: [] };
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -112,7 +116,7 @@ const picked = interleaveRotated(bySub, kstDayIndex()).slice(0, 8);
 const cards = [];
 for (const p of picked) {
   if (cards.length >= MAX_CARDS) break;
-  const prompt = `You are drafting a Reddit comment for a Korean travel editor who has PERSONALLY traveled Japan, South Korea (most regions), Thailand, Vietnam (extensively), Singapore, Spain, France, Laos, Cambodia, Indonesia, Hong Kong, Macau, China, Taiwan, Mongolia, Georgia, the US, Australia, New Zealand, Czechia and Russia. The editor also maintains hour-by-hour measured crowd data for hundreds of attractions.
+  const prompt = `You are drafting a Reddit comment for a Korean travel editor who LIVES in Vietnam and has PERSONALLY traveled Japan, South Korea (most regions), Thailand, Singapore, Spain, France, Laos, Cambodia, Indonesia, Hong Kong, Macau, China, Taiwan, Mongolia, Georgia, the US, Australia, New Zealand, Czechia and Russia. The editor also maintains hour-by-hour measured crowd data for hundreds of attractions.
 
 POST in r/${p.sub} (${p.ageH}h old, ${p.comments} comments):
 TITLE: ${p.title}
@@ -210,6 +214,9 @@ for (const c of cards) {
     `🇰🇷 답변 내용: ${c.answer_ko}`,
     ``,
     `⚠️ 예열 단계: 링크·사이트 언급 없음 확인됨. 마음에 안 들면 무시하세요.`,
+    // 09-08·09·18·21 all went up as three comments 17 seconds apart — the
+    // pattern Reddit's spam filter reads as automation (2026-09-24).
+    `⏱️ 카드가 여러 장이면 한 번에 올리지 말고 몇 시간씩 간격을 두고 올려주세요.`,
   ].join('\n');
   if (DRY) { console.log('\n' + text); continue; }
   // Counted, never thrown: one refused card must not abandon the rest, and the
