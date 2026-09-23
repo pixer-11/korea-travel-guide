@@ -189,3 +189,10 @@
   .side-map { height: 120px; }
   .post-side { margin-top: 0; }
 }
+/* Below the two-column width the side box sits ABOVE the article, and the
+   map tile and the contents list pushed the first paragraph to ~2,850px on a
+   375px phone (measured 2026-09-24). The "Open in Google Maps" button stays;
+   the tile and the contents list are desktop aids. */
+@media (max-width: 1099px) {
+  .side-map, .side-toc { display: none; }
+}
