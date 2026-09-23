@@ -27,13 +27,8 @@ place:
   lng: 135.5258546
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 9
-      - 17
-      - 18
-    weekendQuiet:
-      - 17
-      - 18
+    weekdayQuiet: [9, 17]
+    weekendQuiet: [17]
     weekendBusy:
       - 10
       - 11
@@ -42,6 +37,15 @@ place:
       - 14
       - 15
     venueId: ven_38514151334858683652515241474167334d586f6f545f4a496843
+  phone: '+81 6-6941-3044'
+  openingHours:
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
 tags:
   - osaka
   - Osaka Castle

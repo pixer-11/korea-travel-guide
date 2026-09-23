@@ -27,14 +27,7 @@ place:
   lng: 127.8065709
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 9
-      - 21
-    weekendQuiet:
-      - 7
-      - 8
-      - 9
-      - 21
+    weekendQuiet: [7, 8, 9]
     weekendBusy:
       - 11
       - 12
@@ -47,6 +40,15 @@ place:
       - 19
       - 20
     venueId: ven_637071646d716e486e7a435251543552673932536932314a496843
+  phone: '+81 98-939-2555'
+  openingHours:
+    - 'Monday: 9:30 AM – 6:00 PM'
+    - 'Tuesday: 9:30 AM – 6:00 PM'
+    - 'Wednesday: 9:30 AM – 6:00 PM'
+    - 'Thursday: 9:30 AM – 6:00 PM'
+    - 'Friday: 9:30 AM – 9:00 PM'
+    - 'Saturday: 7:00 AM – 9:00 PM'
+    - 'Sunday: 7:00 AM – 9:00 PM'
 tags:
   - okinawa
   - top attraction
