@@ -202,3 +202,10 @@
 @media (min-width: 1100px) and (max-height: 900px) {
   .side-map { display: none; }
 }
+
+/* "Related guides" holds up to four. In the narrower article column three fit
+   per row and the fourth sat alone underneath (2026-09-24 visual check): four
+   make a 2 x 2 block, three or fewer stay on one row. */
+@media (min-width: 761px) {
+  .post-grid .related-grid:has(> :nth-child(4)) { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}

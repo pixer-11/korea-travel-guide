@@ -12,6 +12,7 @@ import type { Lang } from './ui';
 // dest-hub-strings.test.mjs fails if a key is missing from any language.
 export const DEST_HUB_STRINGS = {
   en: {
+    cellMore: 'View →',
     // home.guides reads "1 guides" in English; the singular, for cities with one.
     oneGuide: '1 guide',
     h1: '{country} travel guide',
@@ -33,6 +34,7 @@ export const DEST_HUB_STRINGS = {
     summaryLabel: '{country} at a glance',
   },
   ko: {
+    cellMore: '자세히 보기 →',
     oneGuide: '가이드 1편',
     h1: '{country} 여행 가이드',
     cellBest: '가기 좋은 달',
@@ -53,6 +55,7 @@ export const DEST_HUB_STRINGS = {
     summaryLabel: '{country} 한눈에 보기',
   },
   ja: {
+    cellMore: '詳しく見る →',
     oneGuide: 'ガイド1本',
     h1: '{country}旅行ガイド',
     cellBest: 'ベストシーズン',
@@ -73,6 +76,7 @@ export const DEST_HUB_STRINGS = {
     summaryLabel: '{country}の概要',
   },
   es: {
+    cellMore: 'Ver más →',
     oneGuide: '1 guía',
     h1: 'Guía de viaje de {country}',
     cellBest: 'Mejores meses',
@@ -93,6 +97,7 @@ export const DEST_HUB_STRINGS = {
     summaryLabel: '{country} de un vistazo',
   },
   zh: {
+    cellMore: '查看详情 →',
     oneGuide: '1 篇指南',
     h1: '{country}旅游指南',
     cellBest: '最佳月份',

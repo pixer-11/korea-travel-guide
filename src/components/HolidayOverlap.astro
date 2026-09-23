@@ -8,7 +8,9 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { heroOf, TOOL_OG } from '../lib/toolOgPhoto.mjs';
 import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
-import { holidayLabel } from '../i18n/holidays';
+import { holidayLabel, localizeHoliday } from '../i18n/holidays';
+import Flag from './Flag.astro';
+import countriesData from '../../data/countries.json';
 import { localizePlace } from '../i18n/places';
 import { overlapWeeks, peakWeeks, SOURCE_MARKETS } from '../lib/holiday-overlap.mjs';
 import countryFacts from '../../data/country-facts.json';
@@ -20,13 +22,25 @@ const t = useTranslations(lang);
 const posts = await getCollection('posts', ({ data }) => !data.draft);
 
 const weeks = overlapWeeks(countryFacts as any);
-const peaks = peakWeeks(weeks, 8);
+// Chosen by size (the eight widest overlaps), SHOWN in date order — ranked
+// order read as a jumbled calendar: Dec 28, Feb 8, Dec 21 (2026-09-24).
+const peaks = peakWeeks(weeks, 8).sort((a, b) => a.start.localeCompare(b.start));
+const iso2Of = Object.fromEntries((countriesData as any).countries.map((x: any) => [x.name, x.iso2]));
+// One short name per country in the reader's language (the local-script name
+// beside it made the peak list a wall of mixed scripts).
+const shortName = (c: string, hs: any[]) => {
+  const names = [...new Set(hs.map((h) => localizeHoliday(c, h.name, lang) ?? h.localName ?? h.name))];
+  return names.length > 1 ? `${names[0]} +${names.length - 1}` : names[0];
+};
 const maxScore = Math.max(1, ...weeks.map((w) => w.score));
 
 const fmt = (iso: string, opts: Intl.DateTimeFormatOptions) =>
   new Date(iso + 'T00:00:00Z').toLocaleDateString(localeCodes[lang], { ...opts, timeZone: 'UTC' });
-const fmtRange = (a: string, b: string) =>
-  `${fmt(a, { month: 'short', day: 'numeric' })} – ${fmt(b, { month: 'short', day: 'numeric', year: 'numeric' })}`;
+// The year only when a range crosses into the next year — "12월 21일 – 2026년
+// 12월 27일" wrapped onto two lines on a phone (2026-09-24 visual check).
+const fmtRange = (a: string, b: string) => a.slice(0, 4) === b.slice(0, 4)
+  ? `${fmt(a, { month: 'short', day: 'numeric' })} – ${fmt(b, { month: 'short', day: 'numeric' })}`
+  : `${fmt(a, { month: 'short', day: 'numeric', year: 'numeric' })} – ${fmt(b, { month: 'short', day: 'numeric', year: 'numeric' })}`;
 const label = (c: string, h: any) => holidayLabel(c, h.localName, h.name, lang);
 const uniqueLabels = (c: string, hs: any[]) => [...new Set(hs.map((h) => label(c, h)))].join(', ');
 
@@ -60,14 +74,19 @@ const jsonLd = {
       <h2>{t('ho.peaksHeading')}</h2>
       <ol class="ho-peaks">
         {peaks.map((w) => (
-          <li>
-            <p class="ho-peak-head">
+          <li class="ho-peak" style={`--heat:${(w.score / maxScore).toFixed(2)}`}>
+            <div class="ho-peak-head">
               <time datetime={w.start}>{fmtRange(w.start, w.end)}</time>
-              <span class="ho-badge">{t('ho.countriesOff').replace('{n}', String(w.score))}</span>
-            </p>
-            <ul class="ho-peak-list">
+              <span class="ho-peak-n">{t('ho.countriesOff').split('{n}')[0]}<strong>{w.score}</strong>{t('ho.countriesOff').split('{n}')[1] ?? ''}</span>
+            </div>
+            <span class="ho-peak-bar" aria-hidden="true"><i></i></span>
+            <ul class="ho-chips">
               {w.markets.map((m: any) => (
-                <li><strong>{localizePlace(m.country, lang)}</strong> — {uniqueLabels(m.country, m.holidays)} <span class="ho-days">({t('ho.daysOff').replace('{n}', String(m.days))})</span></li>
+                <li class="ho-chip" title={`${uniqueLabels(m.country, m.holidays)} (${t('ho.daysOff').replace('{n}', String(m.days))})`}>
+                  <Flag code={iso2Of[m.country]} size="1.05em" />
+                  <span class="ho-chip-c">{localizePlace(m.country, lang)}</span>
+                  <span class="ho-chip-h">{shortName(m.country, m.holidays)}</span>
+                </li>
               ))}
             </ul>
           </li>
@@ -77,24 +96,25 @@ const jsonLd = {
 
     <section class="ho-section">
       <h2>{t('ho.tableHeading')}</h2>
+      <p class="ho-legend">{t('ho.legend')}</p>
       <div class="ho-scroll" tabindex="0" role="region" aria-label={t('ho.tableHeading')}>
         <table class="ho-table">
           <thead>
             <tr>
               <th scope="col">{t('ho.weekOf')}</th>
               <th scope="col" class="ho-n">#</th>
-              {SOURCE_MARKETS.map((c) => <th scope="col">{localizePlace(c, lang)}</th>)}
+              {SOURCE_MARKETS.map((c) => <th scope="col"><Flag code={iso2Of[c]} size="1.3em" /><span>{localizePlace(c, lang)}</span></th>)}
             </tr>
           </thead>
           <tbody>
-            {weeks.map((w) => (
-              <tr style={`--heat:${(w.score / maxScore).toFixed(2)}`} class={w.score ? 'ho-on' : ''}>
-                <th scope="row"><time datetime={w.start}>{fmt(w.start, { month: 'short', day: 'numeric', year: '2-digit' })}</time></th>
+            {weeks.map((w, i) => (
+              <tr style={`--heat:${(w.score / maxScore).toFixed(2)}`} class:list={[{ 'ho-on': w.score > 0, 'ho-now': i === 0 }]}>
+                <th scope="row"><time datetime={w.start}>{fmt(w.start, { month: 'short', day: 'numeric', year: '2-digit' })}</time>{i === 0 && <span class="ho-now-tag">{t('ho.thisWeek')}</span>}</th>
                 <td class="ho-n">{w.score || ''}</td>
                 {SOURCE_MARKETS.map((c) => {
                   const m = w.markets.find((x) => x.country === c);
                   return m
-                    ? <td class="ho-cell" title={uniqueLabels(c, m.holidays)}>{m.days}</td>
+                    ? <td class="ho-cell" title={uniqueLabels(c, m.holidays)}><span class="ho-dot" style={`--d:${Math.min(1, m.days / 3)}`}>{m.days}</span></td>
                     : <td></td>;
                 })}
               </tr>
@@ -127,26 +147,34 @@ const jsonLd = {
     border: 1px solid var(--line-soft); border-radius: var(--r-lg);
   }
   .ho-section h2 { font-size: 1.1rem; margin: 0 0 0.9rem; }
-  .ho-peaks { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.9rem; }
-  .ho-peaks > li { padding-bottom: 0.9rem; border-bottom: 1px solid var(--line-soft); }
-  .ho-peaks > li:last-child { border-bottom: 0; padding-bottom: 0; }
-  .ho-peak-head { display: flex; flex-wrap: wrap; gap: 0.5rem 0.75rem; align-items: baseline; margin: 0 0 0.35rem; font-weight: 700; }
-  .ho-badge {
-    font-size: 0.78rem; font-weight: 700; padding: 0.15rem 0.55rem; border-radius: 999px;
-    background: color-mix(in srgb, var(--accent) 14%, var(--surface)); color: var(--accent);
-  }
-  .ho-peak-list { list-style: none; margin: 0; padding: 0; font-size: 0.94rem; color: var(--ink-soft); line-height: 1.6; }
-  .ho-days { color: var(--muted); font-size: 0.86rem; }
+  /* Peak weeks: cards in date order — date, the country count big, a heat
+     bar, and one chip per country (flag, name, short holiday name). */
+  .ho-peaks { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.8rem; grid-template-columns: repeat(auto-fill, minmax(min(100%, 19rem), 1fr)); }
+  .ho-peak { display: flex; flex-direction: column; gap: 0.55rem; padding: 1rem 1.05rem 1.05rem; border-radius: var(--r-md); background: var(--surface-2); border: 1px solid var(--line-soft); }
+  .ho-peak-head { display: flex; align-items: baseline; justify-content: space-between; gap: 0.6rem; }
+  .ho-peak-head time { font-weight: 800; font-size: 0.98rem; }
+  .ho-peak-n { white-space: nowrap; color: var(--accent-text); font-weight: 700; font-size: 0.85rem; }
+  .ho-peak-n strong { font-family: var(--font-display); font-size: 1.6rem; line-height: 1; }
+  .ho-peak-bar { display: block; height: 6px; border-radius: 99px; background: var(--line-soft); overflow: hidden; }
+  .ho-peak-bar i { display: block; height: 100%; width: calc(var(--heat) * 100%); background: var(--accent); border-radius: inherit; }
+  .ho-chips { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.35rem; }
+  .ho-chip { display: inline-flex; align-items: center; gap: 0.3rem; padding: 0.22rem 0.55rem 0.22rem 0.3rem; border-radius: 99px; background: var(--surface); border: 1px solid var(--line-soft); font-size: 0.8rem; line-height: 1.2; max-width: 100%; }
+  .ho-chip-c { font-weight: 700; white-space: nowrap; }
+  .ho-chip-h { color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 9rem; }
 
-  /* The table scrolls inside its own box on a phone; the page never does. */
+  /* The week-by-week table scrolls inside its own box on a phone. */
+  .ho-legend { margin: -0.3rem 0 0.8rem; font-size: 0.82rem; color: var(--muted); }
   .ho-scroll { overflow-x: auto; max-width: 100%; }
-  .ho-table { border-collapse: collapse; font-size: 0.84rem; min-width: 46rem; width: 100%; font-variant-numeric: tabular-nums; }
-  .ho-table th, .ho-table td { padding: 0.35rem 0.4rem; text-align: center; border-bottom: 1px solid var(--line-soft); }
-  .ho-table thead th { font-size: 0.72rem; color: var(--muted); font-weight: 700; vertical-align: bottom; }
-  .ho-table tbody th { text-align: left; white-space: nowrap; font-weight: 600; }
-  .ho-table tr.ho-on { background: color-mix(in srgb, var(--accent) calc(var(--heat) * 16%), transparent); }
-  .ho-cell { font-weight: 700; color: var(--accent); }
-  .ho-n { font-weight: 700; }
+  .ho-table { border-collapse: separate; border-spacing: 0; font-size: 0.84rem; min-width: 52rem; width: 100%; font-variant-numeric: tabular-nums; }
+  .ho-table th, .ho-table td { padding: 0.32rem 0.3rem; text-align: center; border-bottom: 1px solid var(--line-soft); }
+  .ho-table thead th { font-size: 0.68rem; color: var(--muted); font-weight: 700; vertical-align: bottom; line-height: 1.2; }
+  .ho-table thead th :global(svg) { display: block; margin: 0 auto 0.25rem; }
+  .ho-table tbody th { position: sticky; left: 0; background: var(--surface); text-align: left; white-space: nowrap; font-weight: 600; z-index: 1; }
+  .ho-table tr.ho-on td, .ho-table tr.ho-on th { background: color-mix(in srgb, var(--accent) calc(var(--heat) * 22%), var(--surface)); }
+  .ho-dot { display: inline-grid; place-items: center; width: 1.6rem; height: 1.6rem; border-radius: 50%; font-weight: 800; font-size: 0.78rem; color: #fff; background: color-mix(in srgb, var(--accent) calc(45% + var(--d) * 55%), var(--surface)); }
+  .ho-n { font-weight: 800; }
+  .ho-table tr.ho-now th, .ho-table tr.ho-now td { box-shadow: inset 0 2px 0 var(--ink), inset 0 -2px 0 var(--ink); }
+  .ho-now-tag { display: inline-block; margin-left: 0.4rem; padding: 0.05rem 0.45rem; border-radius: 99px; background: var(--ink); color: var(--surface); font-size: 0.66rem; font-weight: 700; vertical-align: 0.1em; }
   .ho-notes p { margin: 0 0 0.8rem; font-size: 0.92rem; color: var(--ink-soft); line-height: 1.6; }
   .ho-dl { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 1rem !important; }
   .ho-next { margin: 1.25rem 0 0; }

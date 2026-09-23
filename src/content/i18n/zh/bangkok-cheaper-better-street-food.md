@@ -3,7 +3,7 @@ lang: zh
 slug: bangkok-cheaper-better-street-food
 srcHash: '69f4727ac5cd'
 title: 物美价廉的街头小吃：曼谷觅食去哪儿吃
-description: 曼谷挽叻区（Bang Rak）是隆路（Silom Road）边上一条只在午市热闹的窄巷——是隆二十巷（Soi Silom 20，即Silom Soi 20），巷内聚集了几家摊档，其中就有口碑极佳的"Cheaper &amp; Better Street Food"。这里摆着塑料凳，一盘一份的餐食价格亲民，食客大多是附近上班族。
+description: 曼谷挽叻区（Bang Rak）是隆路（Silom Road）边上一条只在午市热闹的窄巷——是隆二十巷（Soi Silom 20，即Silom Soi 20），巷内聚集了几家摊档，其中就有口碑极佳的"Cheaper & Better Street Food"。这里摆着塑料凳，一盘一份的餐食价格亲民，食客大多是附近上班族。
 quickAnswer: 曼谷挽叻区（Bang Rak）隆路（Silom Road）边上有一条只在午市热闹的窄巷——是隆二十巷（Soi Silom 20，即Silom Soi 20），巷内聚集了几家摊档，其中就有口碑极佳的"Cheaper & Better Street Food"。这里摆着塑料凳，一盘一份的餐食价格亲民，食客大多是附近上班族。建议工作日中午12点到下午1点半之间前往，这段时间巷子最热闹、食材也最新鲜，记得多备些小面额现金。最近的车站是沙拉当（Sala Daeng）BTS站或是隆（Silom）MRT站，步行大约5到8分钟即可到达。
 faq:
   - q: 怎么去是隆二十巷？

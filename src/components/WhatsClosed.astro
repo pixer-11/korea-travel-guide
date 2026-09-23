@@ -170,6 +170,10 @@ const payload = JSON.stringify({ island, S, locale, postBase, maxDays: MAX_GRID_
       const data = cfg.island?.[countryEl.value];
       if (!data) return;
       out.innerHTML = renderResults(data, spanOf(fromEl.value, toEl.value, cfg.maxDays), cfg.S, cfg.locale, cfg.postBase);
+      // The question lives in the address, so the answer can be shared or
+      // reloaded as it is (2026-09-24 usability pass).
+      const q = new URLSearchParams({ c: countryEl.value, from: fromEl.value, to: toEl.value });
+      history.replaceState(null, '', `${location.pathname}?${q}`);
     };
 
     // Keep the end date inside the grid's window and never before the start.
@@ -192,8 +196,15 @@ const payload = JSON.stringify({ island, S, locale, postBase, maxDays: MAX_GRID_
     // window to the reader's own today when the two differ, but only while the
     // field still holds the build's value — a date the reader picked, restored
     // by the browser on reload, is theirs (2026-09-14, Codex).
+    // A shared link (?c=Japan&from=…&to=…) opens on that question.
+    const qs = new URLSearchParams(location.search);
+    const isDay = (v: string | null) => !!v && /^\d{4}-\d{2}-\d{2}$/.test(v);
+    const sharedCountry = qs.get('c');
+    if (sharedCountry && cfg.island?.[sharedCountry]) countryEl.value = sharedCountry;
+    const shared = isDay(qs.get('from')) && isDay(qs.get('to'));
+    if (shared) { fromEl.value = qs.get('from')!; toEl.value = qs.get('to')!; }
     const now = new Date();
-    if (fromEl.value && fromEl.value === fromEl.defaultValue && fromEl.value !== localISO(now)) {
+    if (!shared && fromEl.value && fromEl.value === fromEl.defaultValue && fromEl.value !== localISO(now)) {
       fromEl.value = localISO(now);
       toEl.value = localISO(new Date(now.getFullYear(), now.getMonth(), now.getDate() + 13));
     }

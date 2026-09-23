@@ -11,7 +11,7 @@ const UI = readFileSync(new URL('./ui.ts', import.meta.url), 'utf8');
 const KEYS = [
   'ho.title', 'ho.dek', 'ho.peaksHeading', 'ho.countriesOff', 'ho.daysOff',
   'ho.tableHeading', 'ho.weekOf', 'ho.method', 'ho.caveat', 'ho.license',
-  'ho.csv', 'ho.ics', 'ho.quietLink',
+  'ho.csv', 'ho.ics', 'ho.quietLink', 'ho.thisWeek', 'ho.legend',
 ];
 
 test('every holiday-overlap string exists in all five languages', () => {

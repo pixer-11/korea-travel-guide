@@ -1301,6 +1301,10 @@ html[lang^='zh'] .cover-inner h1 {
    2026-08-23). Every colour inside .nl-card is pinned to its light value. */
 .nl-card { color: #201c17; }
 .nl-card .nl-bonus { margin: 0 0 0.9rem; color: #201c17; font-weight: 600; display: flex; align-items: center; gap: 0.5rem; }
+/* The query below needs a container to measure, and none was ever declared,
+   so inside a narrow column (the place-guide redesign, 2026-09-24) the box
+   stayed two-across and squeezed the email field to a sliver. */
+.newsletter > .wrap { container-type: inline-size; }
 @container (max-width: 719px) {
   .nl-split { grid-template-columns: 1fr; gap: 1.5rem; }
   .nl-form { flex-direction: column; }
@@ -1384,7 +1388,9 @@ html[lang^='zh'] .cover-inner h1 {
 .related-nav-t { font-weight: 650; font-size: 0.95rem; line-height: 1.3; }
 @media (max-width: 520px) {
   .related-grid { grid-template-columns: 1fr 1fr; gap: 0.6rem; }
-  .related-grid .card:nth-child(3) { display: none; }
+  /* Hide the third only when there are exactly three (2 across). With four it
+     left three — one alone on the last row (2026-09-24 visual check). */
+  .related-grid:not(:has(> :nth-child(4))) .card:nth-child(3) { display: none; }
   .related-nav { grid-template-columns: 1fr; }
   .related-nav-next { text-align: left; align-items: flex-start; }
 }

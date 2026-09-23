@@ -295,6 +295,9 @@ const metaDesc = blurb ? clip(blurb) : countryLabel;
             ) : (
               c.sub && <span class="dh-cell-sub">{c.sub}</span>
             )}
+            {/* Same line at the same height in all four: the cells read as one row,
+                and it says they are links (2026-09-24 visual check). */}
+            <span class="dh-cell-more">{h('cellMore')}</span>
           </a>
         ))}
       </div>
@@ -485,6 +488,8 @@ const metaDesc = blurb ? clip(blurb) : countryLabel;
   .dh-cell-ico { display: inline-grid; place-items: center; width: 1.9rem; height: 1.9rem; border-radius: 50%; background: color-mix(in srgb, var(--tone) 16%, var(--surface)); }
   .dh-cell-tags { display: flex; flex-wrap: wrap; gap: 0.3rem; margin-top: 0.1rem; }
   .dh-tag { padding: 0.18rem 0.6rem; border-radius: var(--r-pill); background: color-mix(in srgb, var(--tone) 14%, var(--surface)); color: var(--ink); font-weight: 700; font-size: 0.92rem; }
+  .dh-cell-more { margin-top: auto; padding-top: 0.45rem; font-size: 0.8rem; font-weight: 700; color: color-mix(in srgb, var(--tone) 70%, var(--ink)); }
+  .dh-cell:hover .dh-cell-more { text-decoration: underline; }
   .dh-cell-next { font-weight: 600; color: var(--ink); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
   /* Twelve-month strip: bar height = how comfortable, colour = the band. */
   .dh-months { display: grid; grid-template-columns: repeat(12, 1fr); gap: 3px; align-items: end; height: 42px; margin-top: 0.15rem; }

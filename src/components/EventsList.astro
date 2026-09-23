@@ -303,7 +303,20 @@ const clientStrings = JSON.stringify({
       }
       if (none) none.hidden = shown > 0;
     };
-    for (const c of chips) c.addEventListener('click', () => apply(c.dataset.filter || 'all'));
+    // The chosen category lives in the address (#cat=festivals), so a shared
+    // link or the back button keeps it (2026-09-24 usability pass).
+    const valid = new Set(chips.map((c) => c.dataset.filter || 'all'));
+    const fromHash = () => {
+      const m = /(?:^|[#&])cat=([a-z-]+)/.exec(location.hash);
+      return m && valid.has(m[1]) ? m[1] : 'all';
+    };
+    for (const c of chips) c.addEventListener('click', () => {
+      const f = c.dataset.filter || 'all';
+      apply(f);
+      history.replaceState(null, '', f === 'all' ? location.pathname + location.search : `#cat=${f}`);
+    });
+    if (fromHash() !== 'all') apply(fromHash());
+    addEventListener('hashchange', () => apply(fromHash()));
   }
 </script>
 
@@ -322,6 +335,9 @@ const clientStrings = JSON.stringify({
   .ev-chips--countries .ev-chip { font-size: .85rem; padding: .35rem .75rem; background: var(--surface-2); border-color: var(--line); }
 
   .ev-head { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; }
+  /* Section titles were small grey kickers, so "on now" and each month barely
+     separated the page (2026-09-24 visual check). */
+  .ev-head .kicker { font-size: 1.3rem; font-weight: 800; color: var(--ink); letter-spacing: -0.01em; text-transform: none; }
   .ev-count { color: var(--muted); font-size: .9rem; white-space: nowrap; }
 
   .ev-tag {
@@ -365,17 +381,21 @@ const clientStrings = JSON.stringify({
   .ev-left { font-size: .85rem; font-weight: 600; color: var(--accent-text); }
 
   /* Month rows */
-  .ev-rows { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line-soft); }
-  .ev-rows > li { border-bottom: 1px solid var(--line-soft); }
+  /* Each row is its own card (the rows floated on the background before). */
+  .ev-rows { list-style: none; margin: 0; padding: 0; display: grid; gap: .5rem; }
+  .ev-rows > li { border: 0; }
   .ev-row {
     display: grid; grid-template-columns: 3rem minmax(0, 1fr); column-gap: .8rem; row-gap: .2rem;
-    align-items: start; padding: .7rem .25rem; text-decoration: none; color: inherit;
+    align-items: start; padding: .6rem .9rem .6rem .6rem; text-decoration: none; color: inherit;
+    background: var(--surface); border: 1px solid var(--line-soft); border-radius: var(--r-md);
+    transition: transform .15s ease, border-color .15s ease, box-shadow .15s ease;
   }
+  .ev-row:hover { transform: translateY(-2px); border-color: var(--line-strong); box-shadow: var(--shadow-sm); }
   .ev-row:hover .ev-name { color: var(--accent-text); }
   .ev-badge {
     grid-row: span 2; display: flex; flex-direction: column; align-items: center; justify-content: center;
     width: 3rem; min-height: 3rem; border-radius: var(--r-sm);
-    background: var(--surface-2); color: var(--ink); line-height: 1.1;
+    background: var(--accent-soft); color: var(--accent-text); line-height: 1.1;
   }
   .ev-badge-top { font-size: .7rem; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
   .ev-badge-day { font-size: 1.25rem; font-weight: 700; font-family: var(--font-display); }
@@ -385,7 +405,9 @@ const clientStrings = JSON.stringify({
     .ev-row { grid-template-columns: 3.5rem minmax(0, 1fr) minmax(0, 15rem) 7.5rem; align-items: center; }
     .ev-badge { grid-row: auto; width: 3.5rem; min-height: 3.5rem; }
     .ev-meta { display: contents; }
-    .ev-row .ev-tag { justify-self: end; }
+    /* .ev-tag carries align-self: start for the stacked phone layout; on the
+       one-line row it sat above the city line (2026-09-24 visual check). */
+    .ev-row .ev-tag { justify-self: end; align-self: center; }
   }
 
   .past-events > summary { cursor: pointer; list-style: none; }
