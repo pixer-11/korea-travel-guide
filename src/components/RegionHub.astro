@@ -343,7 +343,7 @@ const dayTripHub = buildDayTrips(allPosts).find((h) => h.city === region) ?? nul
     region={region}
     country={country}
   />
-  <StickyBook city={region} />
+  <StickyBook city={region} country={country} />
 </BaseLayout>
 
 <style>

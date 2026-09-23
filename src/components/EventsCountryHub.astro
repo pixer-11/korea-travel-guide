@@ -5,11 +5,11 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from './PostCard.astro';
 import Newsletter from './Newsletter.astro';
 import Flag from './Flag.astro';
-import { hotellookUrl } from '../lib/hotellook.mjs';
+import { hotelUrl } from '../lib/hotel-link.mjs';
 import Emoji from './Emoji.astro';
 import { isEventPast, eventSortValue } from '../lib/eventStatus';
 import { groupUpcomingEvents } from '../lib/eventGroups.mjs';
-import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
+import { useTranslations, localizePath, localeCodes, klookLocale, type Lang } from '../i18n/utils';
 import { fmtEventRange } from '../lib/eventDates.mjs';
 import { localizePlace } from '../i18n/places';
 import { loadCardTranslations, cardHelpers } from '../i18n/cards';
@@ -143,7 +143,7 @@ const ogPhoto = pickOgPhoto([...placePhotos, ...events]);
       <div class="book-cta">
         <span class="book-cta-label">{t('ev.planningAround').replace('{country}', countryLabel)}</span>
         <div class="book-cta-btns">
-          <a class="book-btn book-btn-primary" href={hotellookUrl({ submarker: 'events_hub', lang, destination: country.name })} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> {t('post.findHotels')}</a>
+          <a class="book-btn book-btn-primary" href={hotelUrl({ submarker: 'events_hub', locale: klookLocale(lang), place: country.name })} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> {t('post.findHotels')}</a>
           <a class="book-btn" href={localizePath('/flights', lang)} rel="sponsored noopener"><Emoji name="airplane" /> {t('nav.flights')}</a>
         </div>
         <!-- Affiliate disclosure. Every other surface carrying these links

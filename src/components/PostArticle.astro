@@ -22,7 +22,7 @@ import { eventSchemaName } from '../lib/eventName';
 import { eventLocation } from '../lib/eventLocation.mjs';
 import { isRecurringEvent as resolveRecurring } from '../lib/eventRecurrence.mjs';
 import { resolveBusyness, busynessDayGroups, quietDayGroups, busyDayGroups, perDayBusyness, dayGroupText, DAY_NAMES } from '../lib/busyness.mjs';
-import { hotellookUrl } from '../lib/hotellook.mjs';
+import { hotelUrl } from '../lib/hotel-link.mjs';
 import { slugifyRegion } from '../lib/slug';
 import { getLangFromUrl, useTranslations, localeCodes, defaultLang, localizePath, klookLocale } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
@@ -159,12 +159,10 @@ const wtgPastEventLabel = wtgPastEventHref
 // Mapped city → curated destination page; a specific PLACE (below) keeps the
 // search link — places have no destination page.
 const klookTop = `/go/klook?to=${encodeURIComponent(klookCityDest(d.region, klookLocale(lang)))}`;
-// language= keeps the reader in their own language after the click — 7,959
-// of these links landed every reader, five languages alike, on English
-// booking.com, which is where the measured 94 clicks / 0 bookings die.
-// Dates prefilled (helper): a dateless search lands on an EMPTY form; with
-// dates it lands on priced results. Event posts check in on the event itself.
-const hotelTop = hotellookUrl({ submarker: 'post_top', lang, destination: d.region, eventStart: d.eventStartDate });
+// Klook hotel search in the reader's own locale, city + country so a same-name
+// city can't send a Hong Kong reader to Scotland. Why not Hotellook any more:
+// lib/hotel-link.mjs.
+const hotelTop = hotelUrl({ submarker: 'post_top', locale: klookLocale(lang), place: d.region, country: d.country });
 // Place-specific "get tickets" link for the fact box — only for ticketable
 // categories, keyed to the venue name itself.
 const ticketable = ['attraction', 'trendy', 'hidden-gem'].includes(d.category);
@@ -1081,8 +1079,10 @@ const saveQuiet = perDay
     {faq.length > 0 && (
       <section class="faq">
         <h2>{t('post.faqTitle')}</h2>
+        {/* Open by default (2026-09-24): Microsoft's AI-answer guidance says
+            collapsed content may be skipped. Readers can still fold an answer. */}
         {faq.map((f: any) => (
-          <details>
+          <details open>
             <summary>{f.q}</summary>
             <p>{f.a}</p>
           </details>
@@ -1219,5 +1219,5 @@ const saveQuiet = perDay
     }
   </script>
 
-  <StickyBook city={d.region} place={p?.name} eventStart={d.eventStartDate} />
+  <StickyBook city={d.region} country={d.country} place={p?.name} />
 </BaseLayout>

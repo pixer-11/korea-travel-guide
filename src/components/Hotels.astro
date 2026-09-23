@@ -1,22 +1,19 @@
 ---
-// Per-post "Where to stay" block. This Travelpayouts account has no dedicated
-// hotel-search widget, and Hotels.com/Booking are locked until the site has 3
-// months of stable traffic. Hotels are monetized through HOTELLOOK (Aviasales
-// hotel meta-search — the marker below is 754088.hotels_widget). This comment
-// used to say the block was "monetized through KLOOK", which the code below
-// never matched — the 08-13 revenue audit flagged the mismatch as editor-trap
-// doc rot. UPGRADE PLAN: switch to Hotels.com once traffic unlocks it (~3 months).
+// Per-post "Where to stay" block. Monetized through KLOOK hotel search via the
+// /go/klook relay (SubID hotel_hotels_widget). It was Hotellook until 2026-09-23;
+// that program closed on 2025-10-20 — see lib/hotel-link.mjs for why and for the
+// Trip.com upgrade path.
 import Emoji from './Emoji.astro';
 import { getLangFromUrl, useTranslations, klookLocale } from '../i18n/utils';
-import { hotellookUrl } from '../lib/hotellook.mjs';
+import { hotelUrl } from '../lib/hotel-link.mjs';
 import { localizePlace } from '../i18n/places';
 interface Props { city: string; country?: string }
 const { city, country } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 const cityLabel = localizePlace(city, lang);
-// Hotellook destination search (same surface as the other four hotel CTAs);
-const href = hotellookUrl({ submarker: 'hotels_widget', lang, destination: city });
+// Klook hotel search (same helper as every other hotel CTA on the site).
+const href = hotelUrl({ submarker: 'hotels_widget', locale: klookLocale(lang), place: city, country });
 ---
 <section class="tp-hotels" data-affiliate-placement="hotels-widget">
   <div class="rule-head"><h2 class="kicker">{t('widget.whereToStay').replace('{city}', cityLabel)}</h2></div>

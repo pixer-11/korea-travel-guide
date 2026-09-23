@@ -116,7 +116,7 @@ const ogPhoto = pickOgPhoto(items);
     heading={t('post.planningTrip').replace('{region}', regionLabel)}
     dek={t('region.newsletterDek').replace('{region}', regionLabel)}
   />
-  <StickyBook city={region} />
+  <StickyBook city={region} country={country} />
 </BaseLayout>
 
 <style>

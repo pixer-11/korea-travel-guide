@@ -371,7 +371,7 @@ const orgLd = {
           url: a.href,
           placement: (holder && holder.getAttribute('data-affiliate-placement')) || 'inline',
           page: location.pathname,
-          partner: /klook/.test(a.href) ? 'klook' : /hotellook/.test(a.href) ? 'hotellook' : 'other',
+          partner: /sub_id=hotel_/.test(a.href) ? 'klook-hotels' : /klook/.test(a.href) ? 'klook' : /hotellook/.test(a.href) ? 'hotellook' : 'other',
         };
         try {
           if (window.gtag) window.gtag('event', 'affiliate_click', { link_url: a.href, link_text: label, placement: props.placement, partner: props.partner });
