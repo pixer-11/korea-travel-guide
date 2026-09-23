@@ -50,8 +50,7 @@ faq:
   - q: "What should I eat there?"
     a: "Head to Chinatown Complex Market and Food Centre on Smith Street, a hawker hall with dozens of stalls, rather than the tourist restaurants on the main street."
 aiGenerated: true
-draft: true
-heldReason: wrong-region
+draft: false
 ---
 
 ## What you're actually walking into

@@ -20591,5 +20591,11 @@
     "verdict": "MATCH",
     "reason": "publish gate: Iconic Ben Thanh Market clock tower entrance, representative exterior view",
     "at": "2026-09-23T08:05:03.497Z"
+  },
+  "kep-popokvil-waterfall\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/01-Popokvil_Waterfall-nX-2.jpg/3840px-01-Popokvil_Waterfall-nX-2.jpg": {
+    "slug": "kep-popokvil-waterfall",
+    "verdict": "MATCH",
+    "reason": "publish gate: Shows waterfall over rock formations, matches Popokvil setting",
+    "at": "2026-09-23T12:51:34.260Z"
   }
 }

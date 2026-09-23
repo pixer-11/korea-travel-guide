@@ -735,11 +735,11 @@
   "at": "2026-08-15T03:15:04.357Z"
  },
  "es/bangkok-post-malone-the-big-ass-stadium-world-tour": {
-  "hash": "18647746a174",
-  "score": 1,
+  "hash": "d71a1baa2ad9",
+  "score": 0,
   "registerBreak": false,
-  "worst": "The BIG ASS Stadium World Tour está pensado para recintos de esta magnitud",
-  "at": "2026-08-15T03:15:19.399Z"
+  "worst": "",
+  "at": "2026-09-23T12:53:56.454Z"
  },
  "es/bangkok-saladaeng": {
   "hash": "ff9878b8ab9c",
@@ -8246,11 +8246,11 @@
   "at": "2026-08-15T02:45:40.988Z"
  },
  "ja/bangkok-post-malone-the-big-ass-stadium-world-tour": {
-  "hash": "db1195f8866b",
+  "hash": "dda8d6916ba2",
   "score": 1,
   "registerBreak": false,
-  "worst": "モバイルバッテリーの持参もおすすめします。数万人のファンが一斉に投稿することで...",
-  "at": "2026-08-15T02:45:43.224Z"
+  "worst": "数万人規模のファンが一斉にSNS投稿を行うと、会場のWi-Fiや携帯電波はパンク状態になりがちなため",
+  "at": "2026-09-23T12:53:57.926Z"
  },
  "ja/bangkok-saladaeng": {
   "hash": "b3e651ae2e4d",
@@ -15797,13 +15797,6 @@
   "registerBreak": false,
   "worst": "분위기도 달라지고 손님층도 아마 다를 것입니다.",
   "at": "2026-09-14T15:43:32.429Z"
- },
- "ko/bangkok-post-malone-the-big-ass-stadium-world-tour": {
-  "hash": "4d20bf54f25b",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "태국체육청(Sports Authority of Thailand) 단지 안에 자리하고 있습니다.",
-  "at": "2026-09-14T15:43:25.395Z"
  },
  "ko/bangkok-roast8ry-bangkok": {
   "hash": "f4050c279d25",
@@ -29867,5 +29860,33 @@
   "registerBreak": true,
   "worst": "인기 있는 방문지이다 보니, 이른 저녁 시간대는 금세 붐빕니다.",
   "at": "2026-09-23T07:59:06.787Z"
+ },
+ "zh/ho-chi-minh-city-ben-thanh-market": {
+  "hash": "4f2229648cea",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "市场占地其实不大，真正拖慢脚步的是人多，而不是地方大。",
+  "at": "2026-09-23T12:54:14.094Z"
+ },
+ "es/kep-popokvil-waterfall": {
+  "hash": "4466a3e98322",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "figura como abierto las 24 horas todos los días—, aunque en la práctica esto es un tecnicismo",
+  "at": "2026-09-23T12:54:15.592Z"
+ },
+ "ja/kep-popokvil-waterfall": {
+  "hash": "adecf576fc51",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "評価は1,000件を超えるレビューで4つ星と高評価ではあるものの、まだあまり知られていない穴場という位置づけで...",
+  "at": "2026-09-23T12:54:17.119Z"
+ },
+ "zh/kep-popokvil-waterfall": {
+  "hash": "811a22e2bfce",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "地址（M352+GG2，Phumi Pôpôk Vil）深处波哥国家公园内部",
+  "at": "2026-09-23T12:54:27.510Z"
  }
 }
