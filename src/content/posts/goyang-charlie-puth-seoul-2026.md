@@ -15,14 +15,6 @@ eventPerformer:
   name: Charlie Puth
   kind: person
 eventFactsAsked: true
-heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/c/ce/Goyang_montage.JPG'
-  credit: 'Photo: See above. Compilation by Foxy1219 / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Goyang_montage.JPG'
-  focus:
-    x: 50
-    y: 50
 gallery: []
 tags:
   - goyang

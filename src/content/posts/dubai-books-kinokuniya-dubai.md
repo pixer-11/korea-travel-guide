@@ -98,7 +98,7 @@ faq:
       Dubai Aquarium & Underwater Zoo, and the Dubai Fountain, so it's easy to
       combine with a longer mall visit.
 aiGenerated: true
-draft: false
+draft: true
 updatedDate: '2026-09-22'
 ---
 
