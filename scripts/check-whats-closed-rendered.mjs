@@ -46,14 +46,9 @@ for (const lang of LANGS) {
   // Counting <time> ANYWHERE on the page was too generous: a footer timestamp, a
   // date input, or a stray dated element elsewhere in the layout would have made
   // an empty answer look answered — the very failure this file exists to catch.
-  // The answer lives in exactly two lists, so look only in them.
-  const listOf = (id) => {
-    const start = visible.search(new RegExp(`<ul[^>]*id="${id}"`));
-    if (start < 0) return '';
-    const end = visible.indexOf('</ul>', start);
-    return end < 0 ? visible.slice(start) : visible.slice(start, end);
-  };
-  const answer = listOf('wc-holiday-list') + listOf('wc-closure-list');
+  // The answer lives in one block (since the 2026-09-24 redesign: summary, grid,
+  // holidays, plan — #wc-results up to its #wc-results-end marker), so look only there.
+  const answer = regionOf(visible);
   // datetime is not necessarily the first attribute, and the quotes are not
   // necessarily double — <time class="date" datetime='2026-09-07'> is valid and
   // visible, and the old pattern read it as nothing.
@@ -89,13 +84,20 @@ for (const lang of LANGS) {
  * be read at a glance; the island is the reference because it is the list the
  * reader ends up with after any interaction.
  */
+function regionOf(visible) {
+  const start = visible.search(/id="wc-results"/);
+  const end = visible.search(/id="wc-results-end"/);
+  if (start < 0 || end < start) return '';
+  return visible.slice(start, end);
+}
+
 function namesThatDisagree(html) {
   const island = new Map();
   for (const m of html.matchAll(/"slug":"([^"]+)","name":"((?:[^"\\]|\\.)*)"/g)) {
     try { island.set(m[1], JSON.parse(`"${m[2]}"`)); } catch { /* unreadable entry: not ours to judge */ }
   }
-  const start = html.search(/id="wc-closure-list"/);
-  const end = html.search(/id="wc-closure-empty"/);
+  const start = html.search(/id="wc-results"/);
+  const end = html.search(/id="wc-results-end"/);
   if (start < 0 || end < start) return [];
   const out = [];
   const decode = (s) => s.replace(/&amp;/g, '&').replace(/&#39;/g, "'").replace(/&quot;/g, '"').replace(/&lt;/g, '<').replace(/&gt;/g, '>');

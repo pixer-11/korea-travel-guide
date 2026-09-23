@@ -13,6 +13,11 @@ const KEYS = [
   'wc.title', 'wc.dek', 'wc.country', 'wc.from', 'wc.to', 'wc.check',
   'wc.holidaysHeading', 'wc.noHolidays', 'wc.closedHeading', 'wc.noClosures',
   'wc.caveat', 'wc.hoursSource', 'wc.quietLink',
+  // 2026-09-24 redesign
+  'wc.noSignup', 'wc.sumHolidays', 'wc.sumClosedPlaces', 'wc.sumClosedSub', 'wc.sumAllOpen',
+  'wc.unitDays', 'wc.unitPlaces', 'wc.none', 'wc.gridHeading', 'wc.legendOpen', 'wc.legendClosed',
+  'wc.legendHoliday', 'wc.closedThatDay', 'wc.moreRows', 'wc.planHeading', 'wc.planOpenOn',
+  'wc.planNeverOpen', 'wc.planAvoid', 'wc.capNote',
 ];
 
 test('every whats-closed string exists in all five languages', () => {
