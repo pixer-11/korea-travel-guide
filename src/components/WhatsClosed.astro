@@ -185,7 +185,7 @@ const closures = initial ? closuresInRange(posts, { country: initial, fromISO: t
       <p class="wc-caveat">{t('wc.hoursSource')}</p>
     </section>
     </div>
-    <p class="wc-next"><a class="btn btn-ghost" href={localizePath('/tools/best-time', lang)}>{t('wc.quietLink')} →</a></p>
+    <p class="wc-next"><a class="btn btn-ghost" href={localizePath('/tools/best-time', lang)}>{t('wc.quietLink')} →</a> <a class="btn btn-ghost" href={localizePath('/tools/holiday-overlap', lang)}>{t('ho.title')} →</a></p>
   </div>
 
   <script is:inline define:vars={{ island, postBase: localizePath('/posts', lang), localeCode: localeCodes[lang] }}>

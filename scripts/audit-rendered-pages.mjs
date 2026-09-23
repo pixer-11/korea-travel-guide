@@ -120,7 +120,7 @@ const H1 = /<h1\b[^>]*>/gi;
 // — a photograph of a temple over the privacy policy would be worse, not
 // better. If that ever changes, this regex is the one place to change it.
 const OG_MUST_BE_REAL =
-  /^\/(?:[a-z]{2}\/)?(?:tools\/(?:when-to-go|best-time|whats-closed|esim|widget)|itinerary|destinations|regions|events)\/index\.html$/;
+  /^\/(?:[a-z]{2}\/)?(?:tools\/(?:when-to-go|best-time|whats-closed|holiday-overlap|esim|widget)|itinerary|destinations|regions|events)\/index\.html$/;
 const OG_TAG = /<meta\b(?:[^>"']|"[^"]*"|'[^']*')*property="og:image"(?:[^>"']|"[^"]*"|'[^']*')*>/i;
 
 // ---- rule 6: an events hub heading that names a month already gone ----

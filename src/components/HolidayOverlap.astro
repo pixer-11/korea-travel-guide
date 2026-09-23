@@ -1,0 +1,153 @@
+---
+// ASIA HOLIDAY OVERLAP — one page (x5 languages), server-rendered, no island.
+// The arithmetic lives in src/lib/holiday-overlap.mjs; the CSV and iCal files
+// beside it (src/pages/data/) run the same functions, so the page and the
+// downloads cannot disagree. One URL, not a week-by-week grid: indexing has
+// been rationed since 2026-07-25, so new template pages would reach nobody.
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { heroOf, TOOL_OG } from '../lib/toolOgPhoto.mjs';
+import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
+import { holidayLabel } from '../i18n/holidays';
+import { localizePlace } from '../i18n/places';
+import { overlapWeeks, peakWeeks, SOURCE_MARKETS } from '../lib/holiday-overlap.mjs';
+import countryFacts from '../../data/country-facts.json';
+import { SITE } from '../siteConfig';
+
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+const posts = await getCollection('posts', ({ data }) => !data.draft);
+
+const weeks = overlapWeeks(countryFacts as any);
+const peaks = peakWeeks(weeks, 8);
+const maxScore = Math.max(1, ...weeks.map((w) => w.score));
+
+const fmt = (iso: string, opts: Intl.DateTimeFormatOptions) =>
+  new Date(iso + 'T00:00:00Z').toLocaleDateString(localeCodes[lang], { ...opts, timeZone: 'UTC' });
+const fmtRange = (a: string, b: string) =>
+  `${fmt(a, { month: 'short', day: 'numeric' })} – ${fmt(b, { month: 'short', day: 'numeric', year: 'numeric' })}`;
+const label = (c: string, h: any) => holidayLabel(c, h.localName, h.name, lang);
+const uniqueLabels = (c: string, hs: any[]) => [...new Set(hs.map((h) => label(c, h)))].join(', ');
+
+const base = (Astro.site?.toString() ?? 'https://wanderatlasguides.com').replace(/\/$/, '');
+const pageUrl = `${base}${localizePath('/tools/holiday-overlap', lang)}`;
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Dataset',
+  name: 'Asia holiday overlap calendar',
+  description: 'Weeks in which several Asian countries have a weekday public holiday at the same time, counted per country per week for the next 52 weeks.',
+  url: pageUrl,
+  license: 'https://creativecommons.org/licenses/by/4.0/',
+  creator: { '@type': 'Organization', name: SITE.name, url: base },
+  temporalCoverage: `${weeks[0]?.start}/${weeks.at(-1)?.end}`,
+  spatialCoverage: SOURCE_MARKETS.join(', '),
+  isBasedOn: 'https://github.com/vacanza/holidays',
+  distribution: [
+    { '@type': 'DataDownload', encodingFormat: 'text/csv', contentUrl: `${base}/data/asia-holiday-overlap.csv` },
+    { '@type': 'DataDownload', encodingFormat: 'text/calendar', contentUrl: `${base}/data/asia-holiday-overlap.ics` },
+  ],
+};
+---
+
+<BaseLayout image={heroOf(posts, TOOL_OG.holidayOverlap)} title={t('ho.title')} description={t('ho.dek')} lang={lang} localized={true} jsonLd={jsonLd}>
+  <div class="ho wrap">
+    <p class="kicker gold">{t('tool.kicker')}</p>
+    <h1>{t('ho.title')}</h1>
+    <p class="ho-dek">{t('ho.dek')}</p>
+
+    <section class="ho-section">
+      <h2>{t('ho.peaksHeading')}</h2>
+      <ol class="ho-peaks">
+        {peaks.map((w) => (
+          <li>
+            <p class="ho-peak-head">
+              <time datetime={w.start}>{fmtRange(w.start, w.end)}</time>
+              <span class="ho-badge">{t('ho.countriesOff').replace('{n}', String(w.score))}</span>
+            </p>
+            <ul class="ho-peak-list">
+              {w.markets.map((m: any) => (
+                <li><strong>{localizePlace(m.country, lang)}</strong> — {uniqueLabels(m.country, m.holidays)} <span class="ho-days">({t('ho.daysOff').replace('{n}', String(m.days))})</span></li>
+              ))}
+            </ul>
+          </li>
+        ))}
+      </ol>
+    </section>
+
+    <section class="ho-section">
+      <h2>{t('ho.tableHeading')}</h2>
+      <div class="ho-scroll" tabindex="0" role="region" aria-label={t('ho.tableHeading')}>
+        <table class="ho-table">
+          <thead>
+            <tr>
+              <th scope="col">{t('ho.weekOf')}</th>
+              <th scope="col" class="ho-n">#</th>
+              {SOURCE_MARKETS.map((c) => <th scope="col">{localizePlace(c, lang)}</th>)}
+            </tr>
+          </thead>
+          <tbody>
+            {weeks.map((w) => (
+              <tr style={`--heat:${(w.score / maxScore).toFixed(2)}`} class={w.score ? 'ho-on' : ''}>
+                <th scope="row"><time datetime={w.start}>{fmt(w.start, { month: 'short', day: 'numeric', year: '2-digit' })}</time></th>
+                <td class="ho-n">{w.score || ''}</td>
+                {SOURCE_MARKETS.map((c) => {
+                  const m = w.markets.find((x) => x.country === c);
+                  return m
+                    ? <td class="ho-cell" title={uniqueLabels(c, m.holidays)}>{m.days}</td>
+                    : <td></td>;
+                })}
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="ho-section ho-notes">
+      <p>{t('ho.method')}</p>
+      <p>{t('ho.caveat')}</p>
+      <p>{t('ho.license')}</p>
+      <p class="ho-dl">
+        <a class="btn btn-primary" href="/data/asia-holiday-overlap.csv" download>{t('ho.csv')}</a>
+        <a class="btn btn-ghost" href="/data/asia-holiday-overlap.ics">{t('ho.ics')}</a>
+      </p>
+    </section>
+
+    <p class="ho-next"><a class="btn btn-ghost" href={localizePath('/tools/whats-closed', lang)}>{t('ho.quietLink')} →</a></p>
+  </div>
+</BaseLayout>
+
+<style>
+  .ho { max-width: 64rem; padding-block: clamp(1.75rem, 4vh, 3rem) 4rem; }
+  .ho h1 { font-size: clamp(1.9rem, 4vw, 2.7rem); margin: 0.2rem 0 0.5rem; letter-spacing: -0.01em; }
+  .ho-dek { color: var(--ink-soft); max-width: 62ch; font-size: 1.05rem; line-height: 1.6; margin: 0 0 1.5rem; }
+  .ho-section {
+    margin: 1.25rem 0; padding: 1.2rem 1.35rem; background: var(--surface);
+    border: 1px solid var(--line-soft); border-radius: var(--r-lg);
+  }
+  .ho-section h2 { font-size: 1.1rem; margin: 0 0 0.9rem; }
+  .ho-peaks { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.9rem; }
+  .ho-peaks > li { padding-bottom: 0.9rem; border-bottom: 1px solid var(--line-soft); }
+  .ho-peaks > li:last-child { border-bottom: 0; padding-bottom: 0; }
+  .ho-peak-head { display: flex; flex-wrap: wrap; gap: 0.5rem 0.75rem; align-items: baseline; margin: 0 0 0.35rem; font-weight: 700; }
+  .ho-badge {
+    font-size: 0.78rem; font-weight: 700; padding: 0.15rem 0.55rem; border-radius: 999px;
+    background: color-mix(in srgb, var(--accent) 14%, var(--surface)); color: var(--accent);
+  }
+  .ho-peak-list { list-style: none; margin: 0; padding: 0; font-size: 0.94rem; color: var(--ink-soft); line-height: 1.6; }
+  .ho-days { color: var(--muted); font-size: 0.86rem; }
+
+  /* The table scrolls inside its own box on a phone; the page never does. */
+  .ho-scroll { overflow-x: auto; max-width: 100%; }
+  .ho-table { border-collapse: collapse; font-size: 0.84rem; min-width: 46rem; width: 100%; font-variant-numeric: tabular-nums; }
+  .ho-table th, .ho-table td { padding: 0.35rem 0.4rem; text-align: center; border-bottom: 1px solid var(--line-soft); }
+  .ho-table thead th { font-size: 0.72rem; color: var(--muted); font-weight: 700; vertical-align: bottom; }
+  .ho-table tbody th { text-align: left; white-space: nowrap; font-weight: 600; }
+  .ho-table tr.ho-on { background: color-mix(in srgb, var(--accent) calc(var(--heat) * 16%), transparent); }
+  .ho-cell { font-weight: 700; color: var(--accent); }
+  .ho-n { font-weight: 700; }
+  .ho-notes p { margin: 0 0 0.8rem; font-size: 0.92rem; color: var(--ink-soft); line-height: 1.6; }
+  .ho-dl { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 1rem !important; }
+  .ho-next { margin: 1.25rem 0 0; }
+</style>

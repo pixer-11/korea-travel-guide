@@ -80,6 +80,7 @@ ${itinLines.join('\n')}
 ## Tools
 - [Best time to visit — crowd finder](${base}/tools/best-time): Quietest hours to visit venues, from real foot-traffic data
 - [What's closed on your dates](${base}/tools/whats-closed): Public holidays in a date range, and the venues we cover that are shut on those weekdays
+- [Asia holiday overlap calendar](${base}/tools/holiday-overlap): Weeks when several Asian countries are on public holiday at once — open data, CC BY 4.0 ([CSV](${base}/data/asia-holiday-overlap.csv), [iCal](${base}/data/asia-holiday-overlap.ics))
 - [Travel eSIM guides by country](${base}/tools/esim): eSIM vs pocket WiFi vs roaming per country — local networks, setup steps, no stale prices
 - [Flights](${base}/flights): Search live flight prices to any destination
 - [Free trip-planning checklist](${base}/free/trip-checklist): A printable pre-trip checklist

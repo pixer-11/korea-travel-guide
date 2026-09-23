@@ -53,6 +53,8 @@ export const TOOL_OG = {
   whenToGo: 'kanazawa-kenroku-en',
   bestTime: 'rome-trevi-fountain',
   whatsClosed: 'paris-louvre-museum',
+  // Asia holiday overlap: Senso-ji, the temple Tokyo's own holidaymakers fill.
+  holidayOverlap: 'tokyo-senso-ji',
   esim: 'new-york-times-square',
   widget: 'rome-colosseum',
   itinerary: 'busan-gamcheon-culture-village',
