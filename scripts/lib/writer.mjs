@@ -9,7 +9,21 @@ import { firstTell } from './ai-tells.mjs';
 import { reflow } from '../../src/lib/paragraphs.mjs';
 import { FUTURE_PROMISE } from '../../src/lib/ended-event-claims.mjs';
 
-const MODEL = process.env.WRITER_MODEL || 'claude-sonnet-5';
+const MODEL = process.env.WRITER_MODEL || 'claude-opus-5-5';
+
+// Opus 5.5 / Fable 5.x 계열은 강제 tool_choice 를 400 으로 거부하고, 생각(thinking)을
+// 끌 수 없어 그 생각이 max_tokens 를 같이 먹는다. 그래서 이 두 값만 모델에 따라 가른다.
+// (sonnet-5 로 되돌리면 예전 동작이 그대로 복원된다)
+const NO_FORCED_TOOL = /opus-5-5|fable-5|mythos-5/.test(MODEL);
+const TOOL_CHOICE = NO_FORCED_TOOL
+  ? { type: 'auto' }
+  : { type: 'tool', name: 'submit_guide' };
+const MAX_TOKENS = NO_FORCED_TOOL ? 16000 : 5000;
+// auto 로 두면 모델이 도구 대신 평문으로 답할 수 있다. 도구가 하나뿐이라 실제로는 거의
+// 안 그러지만(시험 3편 모두 호출), 발행 파이프라인이 그 한 번에 멈추면 안 되므로 명시한다.
+const TOOL_ONLY_NOTE = NO_FORCED_TOOL
+  ? '\n\nAnswer ONLY by calling the submit_guide tool. Do not reply with plain text.'
+  : '';
 
 const SYSTEM = `You are a travel editor for an English-language global travel guide for international visitors. Your job is CONCRETE, specific, genuinely useful guides for the given destination: the opposite of generic filler.
 
@@ -204,16 +218,31 @@ ${category === 'event' ? EVENT_TIMELESS_RULE + '\n' : ''}
 VERIFIED FACTS (use only these for specifics):
 ${JSON.stringify(facts, null, 2)}`;
 
-  const msg = await client.messages.create({
+  const firstMessages = [{ role: 'user', content: userPrompt + TOOL_ONLY_NOTE }];
+  let msg = await client.messages.create({
     model: MODEL,
-    max_tokens: 5000,
+    max_tokens: MAX_TOKENS,
     system: SYSTEM,
     tools: [TOOL],
-    tool_choice: { type: 'tool', name: 'submit_guide' },
-    messages: [{ role: 'user', content: userPrompt }],
+    tool_choice: TOOL_CHOICE,
+    messages: firstMessages,
   });
 
-  const toolUse = msg.content.find((b) => b.type === 'tool_use');
+  let toolUse = msg.content.find((b) => b.type === 'tool_use');
+  if (!toolUse && NO_FORCED_TOOL) {
+    // auto 모드에서 평문으로 답한 경우. 강제 호출이 막힌 모델이라 다시 청하는 수밖에 없다.
+    console.log('  (model replied in plain text - asking again for the submit_guide call)');
+    msg = await client.messages.create({
+      model: MODEL, max_tokens: MAX_TOKENS, system: SYSTEM, tools: [TOOL],
+      tool_choice: TOOL_CHOICE,
+      messages: [
+        ...firstMessages,
+        { role: 'assistant', content: msg.content },
+        { role: 'user', content: 'Submit that guide by calling the submit_guide tool now. Do not reply with plain text.' },
+      ],
+    });
+    toolUse = msg.content.find((b) => b.type === 'tool_use');
+  }
   if (!toolUse) throw new Error('model did not return a submit_guide tool call');
 
   let out = toolUse.input;
@@ -225,8 +254,8 @@ ${JSON.stringify(facts, null, 2)}`;
   if (residue) {
     console.log('  (event draft promises the future: "' + residue + '" - asking for a timeless rewrite)');
     const again = await client.messages.create({
-      model: MODEL, max_tokens: 5000, system: SYSTEM, tools: [TOOL],
-      tool_choice: { type: 'tool', name: 'submit_guide' },
+      model: MODEL, max_tokens: MAX_TOKENS, system: SYSTEM, tools: [TOOL],
+      tool_choice: TOOL_CHOICE,
       messages: timelessRetryMessages(userPrompt, msg, toolUse.id, residue),
     });
     const second = again.content.find((b) => b.type === 'tool_use');
@@ -244,8 +273,8 @@ ${JSON.stringify(facts, null, 2)}`;
   if (tell) {
     console.log('  (draft uses "' + tell + '" - asking for a plain-words rewrite)');
     const again = await client.messages.create({
-      model: MODEL, max_tokens: 5000, system: SYSTEM, tools: [TOOL],
-      tool_choice: { type: 'tool', name: 'submit_guide' },
+      model: MODEL, max_tokens: MAX_TOKENS, system: SYSTEM, tools: [TOOL],
+      tool_choice: TOOL_CHOICE,
       messages: tellRetryMessages(userPrompt, msg, toolUse.id, tell),
     });
     const second = again.content.find((b) => b.type === 'tool_use');
