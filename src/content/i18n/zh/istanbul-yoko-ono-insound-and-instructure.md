@@ -2,7 +2,7 @@
 lang: zh
 slug: istanbul-yoko-ono-insound-and-instructure
 srcHash: 'b09824803290'
-title: 草间弥生（Yoko Ono）《Insound and Instructure》：展期、门票与场馆信息（伊斯坦布尔）
+title: 小野洋子（Yoko Ono）《Insound and Instructure》：展期、门票与场馆信息（伊斯坦布尔）
 description: 2026年6月25日至12月15日，小野洋子（Yoko Ono）个展《Insound and Instructure》将在土耳其伊斯坦布尔举办。这里介绍展览内容、时间地点，以及行前该如何安排。
 quickAnswer: '《Yoko Ono: Insound and Instructure》将于2026年6月25日至12月15日在伊斯坦布尔展出，这是一场回顾展，梳理了小野洋子从二十世纪六十年代至今的创作历程。目前公开资料中并未提及具体场馆地址或门票价格，因此计划前往之前请务必在官方网站确认时间与购票信息。考虑到展览横跨六十年的观念艺术与参与式创作，建议预留一到两个小时参观时间。'
 faq:
