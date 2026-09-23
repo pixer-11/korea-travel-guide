@@ -379,7 +379,10 @@ const metaDesc = blurb ? clip(blurb) : countryLabel;
                  countries x 5 languages (found 2026-09-10). The links are
                  rel="sponsored" and /go/klook is an affiliate redirect, so
                  the page was earning a commission without saying so. -->
-            <p class="tp-disclosure">{t('widget.livePrices')}</p>
+            {/* Not widget.livePrices: this band has no price widget, so "live prices
+                from Klook" was untrue here, and its paragraph margins left an empty
+                gap in the box (2026-09-24 visual check). */}
+            <p class="tp-disclosure dh-disclosure">{t('widget.hotelsDisclosure')}</p>
           </div>
         </>
       )}
@@ -440,7 +443,10 @@ const metaDesc = blurb ? clip(blurb) : countryLabel;
   .dh-pill:hover { border-color: var(--accent); color: var(--accent-text); }
 
   /* ── Itineraries + events ── */
-  .dh-duo { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(320px, 100%), 1fr)); gap: 1rem; margin-bottom: 2.75rem; }
+  /* align-items: start — the itinerary card used to stretch to the events
+     card's height and show a large empty dark block (2026-09-24 visual check). */
+  .dh-disclosure { flex-basis: 100%; margin: 0; }
+  .dh-duo { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(320px, 100%), 1fr)); gap: 1rem; margin-bottom: 2.75rem; align-items: start; }
   .dh-duo h2 { font-size: 1.2rem; margin-bottom: 0.9rem; }
   .dh-itin, .dh-events { min-width: 0; border-radius: var(--r-lg); padding: clamp(1.1rem, 3vw, 1.5rem); }
   /* The dark card: ink on bg inverted. In dark mode --ink turns light, so

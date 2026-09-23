@@ -196,3 +196,9 @@
 @media (max-width: 1099px) {
   .side-map, .side-toc { display: none; }
 }
+/* On a short desktop screen (a 768px-high laptop shows ~670px of the sticky
+   column) the map tile pushed the booking card out of view again. The Open in
+   Google Maps button stays (2026-09-24 visual check). */
+@media (min-width: 1100px) and (max-height: 900px) {
+  .side-map { display: none; }
+}

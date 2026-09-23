@@ -348,7 +348,11 @@ const clientStrings = JSON.stringify({
   .ev-now-card:hover { border-color: var(--line-strong); }
   .ev-now-card .ev-name { font-size: 1.05rem; }
   @media (max-width: 759px) {
-    .ev-now-grid { gap: .7rem; }
+    /* Fourteen "on now" cards one per row pushed the month lists ~2,400px
+       down on a phone. They swipe sideways instead (2026-09-24 visual check). */
+    .ev-now-grid { gap: .7rem; grid-template-columns: none; grid-auto-flow: column; grid-auto-columns: 78%;
+      overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: .4rem; }
+    .ev-now-grid > * { scroll-snap-align: start; }
     .ev-now-card { padding: .85rem 1rem; gap: .3rem; }
     /* 17 country chips wrapped to seven rows on a phone; one swipeable row
        instead. The row scrolls inside itself — the page never does. */

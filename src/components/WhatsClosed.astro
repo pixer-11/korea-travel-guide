@@ -328,6 +328,10 @@ const payload = JSON.stringify({ island, S, locale, postBase, maxDays: MAX_GRID_
   #wc-results :global(.wcv-badge small) { font-size: 0.62rem; font-weight: 700; opacity: 0.9; margin-bottom: 0.15rem; }
   #wc-results :global(.wcv-hols strong) { display: block; font-size: 0.98rem; }
   #wc-results :global(.wcv-hols li small) { display: block; font-size: 0.8rem; color: var(--muted); margin-top: 0.1rem; }
+  /* The month inside the red date badge. The grey rule above also matched it
+     (it is a <small> inside the <li>) and put grey text on red — unreadable on
+     the live page (2026-09-24 visual check). */
+  #wc-results :global(.wcv-hols .wcv-badge small) { display: block; color: #fff; opacity: 0.9; font-size: 0.62rem; margin: 0 0 0.15rem; }
 
   #wc-results :global(.wcv-plan) { padding: 1.3rem 1.4rem; border-radius: var(--r-lg); background: var(--wc-olive); color: #f3efe4; }
   #wc-results :global(.wcv-plan h2) { color: #f3efe4; }

@@ -158,6 +158,19 @@ const hasFacts = !!(p && (statusData || hourGroups || hoursAllDay || rawHours.le
     <p class="side-box side-actions"><a class="side-maps" href={mapsHref} target="_blank" rel={mapsIsSearch ? 'noopener nofollow' : 'noopener'}><Emoji name="round-pushpin" /> {mapsIsSearch ? t('post.exploreMaps') : t('post.openMaps')}</a></p>
   )}
 
+  {/* The booking card sits ABOVE the contents list. At the bottom it was at
+      938px inside a sticky column that shows ~800px, so on a desktop it was
+      never on screen unless the reader scrolled the column itself — the
+      page's only desktop affiliate surface (2026-09-24 visual check). */}
+  {affiliate && (
+    <div class="side-box side-card" data-affiliate-placement="post-sidebar">
+      <span class="side-card-k"><Emoji name="admission-tickets" /> {ps('ps.cardKicker')}</span>
+      <p class="side-card-t">{affiliate.title}</p>
+      <a class="side-card-btn" href={affiliate.href} target="_blank" rel="sponsored noopener">{ps('ps.cardCta')} →</a>
+      <p class="side-card-note">{ps('ps.affNote')}</p>
+    </div>
+  )}
+
   {tocItems.length > 0 && (
     <nav class="side-box side-toc" aria-label={t('post.toc')}>
       <h2 class="side-h">{t('post.toc')}</h2>
@@ -169,15 +182,6 @@ const hasFacts = !!(p && (statusData || hourGroups || hoursAllDay || rawHours.le
 
   {wtgHref && (
     <p class="side-wtg"><a href={wtgHref}>{wtgLabel} →</a></p>
-  )}
-
-  {affiliate && (
-    <div class="side-box side-card" data-affiliate-placement="post-sidebar">
-      <span class="side-card-k"><Emoji name="admission-tickets" /> {ps('ps.cardKicker')}</span>
-      <p class="side-card-t">{affiliate.title}</p>
-      <a class="side-card-btn" href={affiliate.href} target="_blank" rel="sponsored noopener">{ps('ps.cardCta')} →</a>
-      <p class="side-card-note">{ps('ps.affNote')}</p>
-    </div>
   )}
 
   <slot name="after" />
