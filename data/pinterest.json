@@ -274,7 +274,10 @@
     "tokyo-shinjuku-golden-gai": "1103100502527379885",
     "chinatown-chinatown-street-market": "1103100502527418718",
     "naples-mercato-pignasecca": "1103100502527418720",
-    "al-ain-al-ain-central-market": "1103100502527418721"
+    "al-ain-al-ain-central-market": "1103100502527418721",
+    "chicago-the-mart": "1103100502527461687",
+    "hiroshima-hondori-shopping-street": "1103100502527461690",
+    "miami-bayside-marketplace": "1103100502527461691"
   },
   "magnetPinned": {
     "magnet:itinerary:bangkok-3-days": "1103100502524165822",
@@ -292,6 +295,7 @@
     "magnet:itinerary:siem-reap-3-days": "1103100502526377741",
     "magnet:itinerary:bali-3-days": "1103100502527336444",
     "magnet:itinerary:seoul-5-days": "1103100502527379880",
-    "magnet:itinerary:dubai-3-days": "1103100502527418715"
+    "magnet:itinerary:dubai-3-days": "1103100502527418715",
+    "magnet:itinerary:tokyo-5-days": "1103100502527461686"
   }
 }
