@@ -11,12 +11,23 @@
 //  MISMATCH) but only warns.
 //
 //  This tool enforces it: any published post whose CURRENT hero URL carries a
-//  MISMATCH verdict in data/visual-audit.json goes back to draft. Runs inside
-//  alt-photos.yml right before the commit, so no pipeline — present or future
-//  — can ship this state, whatever code path produced it. An acquittal is
-//  still possible, but only by the audit path that OVERWRITES the verdict
+//  MISMATCH verdict in data/visual-audit.json goes back to draft. An acquittal
+//  is still possible, but only by the audit path that OVERWRITES the verdict
 //  (patrol re-check writes MATCH), never by a lucky re-roll that leaves the
 //  MISMATCH standing.
+//
+//  WHEN it runs matters as much as what it does. It used to run only right
+//  before alt-photos.yml's commit, and this header promised that no pipeline
+//  could therefore ship the state. 2026-09-23 proved the promise wrong: the
+//  commit's own rebase undid it. scan-hero-widths quarantined three posts; a
+//  venue-data refresh had touched two of the same files a minute earlier;
+//  git-push-retry resolves bot-vs-bot conflicts remote-first (-X ours, on
+//  purpose), and `draft:` sits right beside the `updatedDate:` the refresh
+//  changed — so the refresh's `draft: false` won and two quarantines vanished.
+//  The verdict rows lived in a different file and survived, which is how the
+//  daily check saw a MISMATCH on a live page. It now ALSO runs after the push
+//  (alt-photos.yml, "Re-assert quarantines the rebase dropped"), where no
+//  later step can undo it.
 //
 //    node scripts/requarantine-mismatches.mjs        # apply
 //    DRY=1 node scripts/requarantine-mismatches.mjs  # report only
@@ -27,10 +38,13 @@ import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { isMeasurementFailure } from './lib/audit-verdict.mjs';
 import { identityRejection } from './lib/photo-verdict.mjs';
+import { editFrontmatter } from './lib/frontmatter-edit.mjs';
 import matter from 'gray-matter';
 
-const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
-const STORE = fileURLToPath(new URL('../data/visual-audit.json', import.meta.url));
+// Overridable so the test can run this exact script against a scratch folder —
+// the 2026-09-23 duplicate-key bug only shows up when the real write path runs.
+const POSTS = process.env.REQUARANTINE_POSTS || fileURLToPath(new URL('../src/content/posts/', import.meta.url));
+const STORE = process.env.REQUARANTINE_STORE || fileURLToPath(new URL('../data/visual-audit.json', import.meta.url));
 const DRY = process.env.DRY === '1';
 
 if (!existsSync(STORE)) { console.log('no verdict store — nothing to enforce'); process.exit(0); }
@@ -62,11 +76,16 @@ for (const f of (await readdir(POSTS)).filter((x) => x.endsWith('.md'))) {
   requarantined++;
   console.log(`  🚫 ${slug}: live with a stored-MISMATCH hero (${v.reasonKo || v.reason}) — re-quarantining`);
   if (!DRY) {
-    // Insert draft: true just before the closing frontmatter fence, preserving
-    // the file's own line endings.
-    const i = raw.indexOf('---', 3);
-    const nl = raw.slice(0, i).includes('\r\n') ? '\r\n' : '\n';
-    await writeFile(p, raw.slice(0, i) + `draft: true${nl}` + raw.slice(i), 'utf8');
+    // Through the shared editor, never by splicing text. This used to append
+    // `draft: true` before the closing fence, on the assumption that a live
+    // post carries no draft key at all — true when it was written (08-08),
+    // false since the publish pipeline started writing an explicit
+    // `draft: false`. From then on every firing produced a DUPLICATE key, and
+    // js-yaml refuses the whole file ("duplicated mapping key"): on 2026-09-23
+    // it did exactly that to the two posts it was re-quarantining. The push
+    // guard would have blocked the commit — taking the rest of that night's
+    // photo work down with it. editFrontmatter replaces the key in place.
+    await writeFile(p, editFrontmatter(raw, { draft: true }), 'utf8');
   }
 }
 console.log(`\n⚖️  requarantine sweep: ${requarantined} post(s)${DRY ? ' (DRY)' : ''} — the stored verdict outranks a lucky re-roll`);

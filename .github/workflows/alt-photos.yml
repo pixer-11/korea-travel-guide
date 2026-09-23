@@ -322,6 +322,38 @@ jobs:
             bash scripts/git-push-retry.sh
           fi
 
+      # The rebase inside git-push-retry resolves bot-vs-bot conflicts
+      # remote-first (-X ours — deliberate: one content bot must not overwrite
+      # another's newer edit). That rule cannot tell a `draft: true` from any
+      # other line. On 2026-09-23 scan-hero-widths quarantined three posts; a
+      # venue-data refresh had edited two of the same files a minute earlier, and
+      # `draft:` sits right beside the `updatedDate:` the refresh changed — so
+      # remote-first kept the refresh's `draft: false` and two quarantines
+      # silently vanished. One was an upcoming concert, which the daily warning
+      # never checks (it skips events), so nothing would ever have said so.
+      # The verdict rows live in data/visual-audit.json, a file no other bot
+      # edits, so they always survive — and every photo quarantine can be
+      # re-derived from them. Re-run the enforcer AFTER the push, where no later
+      # step can undo it, then release upcoming events photoless exactly as the
+      # nightly steps above do. A clean night stages nothing and ends here.
+      # build-wall comes last on purpose: release-photoless-events republishes
+      # posts, and a card whose hero the wall never saw renders empty
+      # (audit-automation BLANK-CARD — the 09-20 Tan Teng Niah card). It is
+      # incremental, so on a night with nothing to re-assert it is all cache hits.
+      - name: Re-assert quarantines the rebase dropped
+        if: steps.gate.outputs.on == 'true'
+        run: |
+          node scripts/requarantine-mismatches.mjs
+          node scripts/release-photoless-events.mjs
+          node scripts/build-wall.mjs
+          git add src/content/posts public/wall data/wall.json
+          if git diff --staged --quiet; then
+            echo "Every quarantine survived the push."
+          else
+            git commit -m "fix: re-assert photo quarantines a remote-first rebase dropped ($(date -u +%Y-%m-%d))"
+            bash scripts/git-push-retry.sh
+          fi
+
       - name: Notify Telegram
         if: always() && steps.gate.outputs.on == 'true'
         env:

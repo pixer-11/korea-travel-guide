@@ -23,6 +23,7 @@
 import { readFileSync, writeFileSync, readdirSync } from 'fs';
 import { editFrontmatter, readFrontmatter, DELETE } from './lib/frontmatter-edit.mjs';
 import { liveTwinIndex, liveTwinOf, noteLive } from './lib/live-twin.mjs';
+import { isRatingHold, FLOOR, RECOVER } from './lib/rating-floor.mjs';
 import { join } from 'path';
 import { execSync } from 'child_process';
 
@@ -176,6 +177,7 @@ const recheck = (reason) => {
 
 const repaired = [];
 const elsewhere = [];
+const waiting = []; // 평점이 오르기를 기다리는 정상 보류 — 아래 루프의 주석 참조
 // 고친 결함은 발행 허가가 아니다. 같은 장소를 다룬 글이 이미 공개 중이면 이 글을
 // 되살리는 순간 한 가게에 두 페이지가 된다 — 2026-09-22 에 네 편이 그 한 걸음
 // 앞에 서 있었다. 발행 게이트가 쓰는 두 열쇠(place.id, 제목+지역)를 그대로 쓴다.
@@ -198,13 +200,30 @@ for (const slug of before) {
   const ownedBy = toClear.map((r) => OWNED_ELSEWHERE.get(r)).find(Boolean);
   if (ownedBy) { elsewhere.push(`${slug} — ${ownedBy}`); continue; }
   let blocked = null;
+  // A rating hold is not a defect this patrol can fix — the post came down
+  // because Google's rating fell below FLOOR, and it comes back when that
+  // rating climbs to RECOVER, nothing else. Reporting it as "✗ 결함이 여전함"
+  // every night (2026-09-23: three posts, daily) read as a failing patrol when
+  // the hold was doing exactly its job. It is waiting on the world, so it is
+  // listed apart and left out of the "could act on" count — but only when it
+  // is the ONLY thing still wrong: a post that is below the floor AND has a
+  // real defect is a real ✗, so every reason is checked, not just the first.
+  let waitsOnRating = false;
   for (const reason of toClear) {
     const v = recheck(reason);
     if (v.noChecker) { blocked = `${reason} 사유는 초안을 재검사할 도구가 없음`; break; }
     if (v.crashed) { blocked = `${reason} 검사기가 결과 없이 죽음 — 통과로 치지 않음`; break; }
-    if (v.still.has(slug)) { blocked = reason === 'hours' ? '수리 후에도 영업시간 모순 남음' : `${reason} 결함이 여전함`; break; }
+    if (!v.still.has(slug)) continue;
+    if (isRatingHold(reason)) { waitsOnRating = true; continue; }
+    blocked = reason === 'hours' ? '수리 후에도 영업시간 모순 남음' : `${reason} 결함이 여전함`;
+    break;
   }
   if (blocked) { console.log(`  ✗ ${slug} — ${blocked}, 격리 유지`); continue; }
+  if (waitsOnRating) {
+    const r = readFrontmatter(raw)?.place?.rating;
+    waiting.push(`${slug} — 평점 ${r ?? '?'}`);
+    continue;
+  }
   // 공용 편집기를 쓴다. 예전 정규식은 본문 코드예제의 `draft: true`를 대신 고쳤고
   // `heldReason : x`(콜론 앞 공백)을 못 봤다 — 둘 다 보류된 글을 잘못 되살리는 자리였다.
   let next;
@@ -238,4 +257,8 @@ if (elsewhere.length) {
   console.log(`\n다른 순찰이 맡은 ${elsewhere.length}편 — 이 순찰이 할 일은 없다:`);
   for (const e of elsewhere) console.log(`  · ${e}`);
 }
-console.log(`\nREPAIRED ${repaired.length} of ${before.length - elsewhere.length} held post(s) this patrol could act on.`);
+if (waiting.length) {
+  console.log(`\n평점 미달로 내려둔 ${waiting.length}편 — 결함이 아니라 정상 보류다. 구글 평점이 ${RECOVER} 이상으로 오르면 이 순찰이 자동으로 되올린다(기준 ${FLOOR}):`);
+  for (const w of waiting) console.log(`  · ${w}`);
+}
+console.log(`\nREPAIRED ${repaired.length} of ${before.length - elsewhere.length - waiting.length} held post(s) this patrol could act on.`);

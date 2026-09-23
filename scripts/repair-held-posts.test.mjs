@@ -25,15 +25,18 @@ const FLAG_REGION = `node -e "console.log(\\\\"REGION-OUTLIER: fixture.md 18 km 
 
 const FLAG_CLOSED = `node -e "console.log(\\\\"NON-OPERATIONAL-VENUE: fixture.md — CLOSED_TEMPORARILY\\\\"); process.exit(1)"`;
 
+const FLAG_RATING = `node -e "console.log(\\\\"RATING-BELOW-FLOOR: fixture.md 3.9\\\\"); process.exit(1)"`;
+
 // 스크립트 사본을 임시 저장소(빈 posts 폴더 + fixture 1편)에서 돌린다. 진짜
 // 검사기·수리기·번역기는 전부 가짜 명령으로 바꾼다 — 작은따옴표는 쓰지 않는다
 // (스크립트의 명령 문자열이 작은따옴표라 사본이 SyntaxError 로 죽는다).
-function runWith({ heldReason, region = NOOP, hours = NOOP, closed = NOOP, liveTwin = false }) {
+function runWith({ heldReason, region = NOOP, hours = NOOP, closed = NOOP, ratingCheck = NOOP, placeRating, liveTwin = false }) {
   const root = mkdtempSync(join(tmpdir(), 'repair-held-'));
   const dir = join(root, 'src', 'content', 'posts');
   mkdirSync(dir, { recursive: true });
   const fixture = join(dir, 'fixture.md');
-  writeFileSync(fixture, `---\ndraft: true\nheldReason: ${heldReason}\ntitle: Kissa Sakaiki\nregion: Tokyo\n---\nbody\n`, 'utf8');
+  const place = placeRating === undefined ? '' : `place:\n  rating: ${placeRating}\n`;
+  writeFileSync(fixture, `---\ndraft: true\nheldReason: ${heldReason}\ntitle: Kissa Sakaiki\nregion: Tokyo\n${place}---\nbody\n`, 'utf8');
   // 같은 장소를 이미 다루고 있는 공개글. 이게 있으면 결함이 다 고쳐져도
   // 해제하면 안 된다 — 한 가게에 두 페이지가 되기 때문이다.
   if (liveTwin) {
@@ -48,12 +51,15 @@ function runWith({ heldReason, region = NOOP, hours = NOOP, closed = NOOP, liveT
     swap('node scripts/audit-hours-claims.mjs --drafts', hours);
     swap('node scripts/audit-region-outliers.mjs --drafts', region);
     swap('node scripts/audit-closed-venues.mjs --drafts', closed);
+    swap('node scripts/audit-rating-floor.mjs --drafts', ratingCheck);
     // 사본은 임시 폴더에 있으므로 상대 import 가 풀리지 않는다. 진짜 모듈을 절대
     // 경로로 가리킨다 — 그래야 그 모듈의 node_modules 해석도 함께 산다.
     swap("from './lib/frontmatter-edit.mjs'",
       `from ${JSON.stringify(pathToFileURL(join(process.cwd(), 'scripts', 'lib', 'frontmatter-edit.mjs')).href)}`);
     swap("from './lib/live-twin.mjs'",
       `from ${JSON.stringify(pathToFileURL(join(process.cwd(), 'scripts', 'lib', 'live-twin.mjs')).href)}`);
+    swap("from './lib/rating-floor.mjs'",
+      `from ${JSON.stringify(pathToFileURL(join(process.cwd(), 'scripts', 'lib', 'rating-floor.mjs')).href)}`);
     src = src.replace(/node scripts\/fix-hours-claims\.mjs[^`']*/g, NOOP);
     src = src.replace(/node scripts\/translate-posts\.mjs[^`']*/g, NOOP);
     const p = join(root, 'repair.mjs');
@@ -213,4 +219,37 @@ test('따옴표가 붙은 사유도 자기 검사기를 찾는다', () => {
   const r = runWith({ heldReason: "'closed'", closed: FLAG_CLOSED });
   assert.match(r.out, /closed 결함이 여전함/);
   assert.doesNotMatch(r.out, /재검사할 도구가 없음/);
+});
+
+// 2026-09-23: 평점 미달 3편이 매일 "✗ rating 결함이 여전함" 으로 보고됐다. 보류는
+// 제 일을 하고 있었는데(3.9·3.9·3.8, 기준 4.0) 순찰이 실패하는 것처럼 읽혔다.
+// 평점 보류는 이 순찰이 고칠 수 없다 — 구글 평점이 오르기를 기다릴 뿐이다.
+
+test('평점 미달이 유일한 사유면 ✗ 가 아니라 대기로 적고, 분모에서 뺀다', () => {
+  const r = runWith({ heldReason: 'rating', ratingCheck: FLAG_RATING, placeRating: 3.9 });
+  assert.match(r.file, /^draft: true$/m, `해제됨:\n${r.out}`);
+  assert.doesNotMatch(r.out, /✗ fixture/, '정상 보류를 실패로 적었다');
+  assert.match(r.out, /평점 미달로 내려둔 1편/);
+  assert.match(r.out, /fixture — 평점 3\.9/);
+  assert.match(r.out, /REPAIRED 0 of 0/, '기다리는 글은 이 순찰이 손댈 수 있는 편수가 아니다');
+});
+
+test('옛 철자 below-rating-floor 도 같은 대기로 간다', () => {
+  const r = runWith({ heldReason: 'below-rating-floor', ratingCheck: FLAG_RATING, placeRating: 3.8 });
+  assert.match(r.file, /^draft: true$/m);
+  assert.match(r.out, /평점 미달로 내려둔 1편/);
+});
+
+test('평점이 회복되면 그대로 되올린다 — 대기 칸이 해제를 막지 않는다', () => {
+  const r = runWith({ heldReason: 'rating', placeRating: 4.2 });
+  assert.match(r.file, /^draft: false$/m, `해제 안 됨:\n${r.out}`);
+  assert.match(r.out, /REPAIRED 1 of 1/);
+});
+
+test('평점 미달에 진짜 결함이 겹치면 진짜 결함이 이긴다 — ✗ 로 남는다', () => {
+  // 첫 사유(rating)에서 멈추면 뒤의 wrong-region 을 안 보고 "대기"로 적는다.
+  const r = runWith({ heldReason: 'rating+wrong-region', ratingCheck: FLAG_RATING, region: FLAG_REGION, placeRating: 3.9 });
+  stillHeld(r, 'rating+wrong-region');
+  assert.match(r.out, /✗ fixture — wrong-region 결함이 여전함/);
+  assert.doesNotMatch(r.out, /평점 미달로 내려둔/);
 });
