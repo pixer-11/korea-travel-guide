@@ -21,12 +21,11 @@ import { isEventPast } from '../lib/eventStatus';
 import { eventSchemaName } from '../lib/eventName';
 import { eventLocation } from '../lib/eventLocation.mjs';
 import { isRecurringEvent as resolveRecurring } from '../lib/eventRecurrence.mjs';
-import { resolveBusyness, busynessDayGroups, quietDayGroups, busyDayGroups, perDayBusyness, dayGroupText, DAY_NAMES } from '../lib/busyness.mjs';
-import { hotelUrl } from '../lib/hotel-link.mjs';
+import { resolveBusyness, perDayBusyness, DAY_NAMES } from '../lib/busyness.mjs';
 import { slugifyRegion } from '../lib/slug';
 import { getLangFromUrl, useTranslations, localeCodes, defaultLang, localizePath, klookLocale } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
-import { formatHour, formatHourRanges, localizeOpeningLine } from '../lib/hours.mjs';
+import { formatHourRanges, localizeOpeningLine } from '../lib/hours.mjs';
 import { eligibleCountries, monthSlug as wtgMonthSlug } from '../lib/when-to-go.mjs';
 import countryFactsData from '../../data/country-facts.json';
 import { tileMosaic, zoomFor, TILE_ATTRIBUTION } from '../lib/osmTile.mjs';
@@ -34,6 +33,11 @@ import { stripPlusCode } from '../lib/address.mjs';
 import { linkMentions } from '../lib/body-links.mjs';
 import ogMirror from '../../data/og-mirror.json';
 import { klookCityDest } from '../lib/klookCities';
+import CrowdBlock from './post/CrowdBlock.astro';
+import PostSidebar from './post/PostSidebar.astro';
+import { venueTimeZone } from '../lib/venue-tz.mjs';
+import { usePostStrings } from '../i18n/post-strings';
+import '../styles/post-layout.css';
 
 // Shared article view for BOTH the English page (/posts/…) and the localized
 // pages (/ko/posts/… etc). One template, so a fix can never land on only one of
@@ -49,6 +53,7 @@ const { post, translation } = Astro.props;
 // /ko/ page reads Korean end-to-end rather than Korean prose in English chrome.
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
+const ps = usePostStrings(lang);
 const renderedEntry = translation ?? post;
 const { Content } = await render(renderedEntry);
 const d = post.data;
@@ -82,8 +87,14 @@ let proseParts: [string, string] | null = null;
 // h2s carry slug ids in every language; template chrome h2s like "At a glance"
 // have no id and are naturally excluded). Shown only at 4+ sections — a
 // shorter list costs more attention than it saves.
+const decodeEntities = (x: string) => x
+  .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16)))
+  .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n)))
+  .replace(/&quot;/g, '"').replace(/&apos;|&#39;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
 const tocItems = [...renderedHtml.matchAll(/<h2 id="([^"]+)"[^>]*>([\s\S]*?)<\/h2>/gi)]
-  .map((m) => ({ id: m[1], label: m[2].replace(/<[^>]+>/g, '').trim() }))
+  // The heading HTML carries entities ("Nearby &#x26; Tips"); Astro escapes the
+  // label again on output, so decode them first or the reader sees "&#x26;".
+  .map((m) => ({ id: m[1], label: decodeEntities(m[2].replace(/<[^>]+>/g, '')).trim() }))
   .filter((x) => x.label);
 const showToc = tocItems.length >= 4;
 const tr = translation?.data;
@@ -159,11 +170,7 @@ const wtgPastEventLabel = wtgPastEventHref
 // Mapped city → curated destination page; a specific PLACE (below) keeps the
 // search link — places have no destination page.
 const klookTop = `/go/klook?to=${encodeURIComponent(klookCityDest(d.region, klookLocale(lang)))}`;
-// Klook hotel search in the reader's own locale, city + country so a same-name
-// city can't send a Hong Kong reader to Scotland. Why not Hotellook any more:
-// lib/hotel-link.mjs.
-const hotelTop = hotelUrl({ submarker: 'post_top', locale: klookLocale(lang), place: d.region, country: d.country });
-// Place-specific "get tickets" link for the fact box — only for ticketable
+// Place-specific "get tickets" link (the sidebar card) — only for ticketable
 // categories, keyed to the venue name itself.
 const ticketable = ['attraction', 'trendy', 'hidden-gem'].includes(d.category);
 const klookPlace = p?.name
@@ -258,65 +265,9 @@ const fmtHourRanges = (hours: number[] | undefined) => formatHourRanges(hours, {
 // 9am-5pm / busy 11am-7pm" on the same card reads as a broken page. Busy wins;
 // the rule and the reasoning live in lib/busyness, shared with the crowd API.
 const bz = resolveBusyness(p?.busyness);
-// "Weekdays" and "weekends" are BestTime's two buckets, not the venue's. The
-// days inside one often keep different hours, and this block was announcing the
-// bucket: 77 places said "quiet weekends 11am-2pm" at a gate shut 9am-2pm every
-// Saturday. busynessDayGroups keeps the hours per day and groups the days that
-// agree, so the label names exactly the days the line is true on — and the
-// Met's Friday-and-Saturday late night gets said instead of thrown away.
-const dayGroups = busynessDayGroups(p?.busyness, p?.openingHours);
-const bzLines = (dayGroups ?? [
-  { days: DAY_NAMES.slice(0, 5), quiet: bz.weekdayQuiet, busy: bz.weekdayBusy },
-  { days: DAY_NAMES.slice(5), quiet: bz.weekendQuiet, busy: bz.weekendBusy },
-])
-  .filter((g: any) => g.quiet.length || g.busy.length)
-  .map((g: any) => ({
-    label: dayGroupText(g.days, t),
-    quiet: g.quiet as number[],
-    busy: g.busy as number[],
-  }));
-// The two sentences group INDEPENDENTLY of the bar and of each other. Grouping
-// on quiet and busy together is right for the bar, whose every cell is a claim,
-// and wrong for a sentence: it split the Met into four rows, none of which was
-// about the thing the line is for.
-const sentence = (groups: any, fallback: any, key: 'quiet' | 'busy'): { label: string; text: string }[] =>
-  (groups ?? fallback)
-    .map((g: any) => ({ label: dayGroupText(g.days, t), text: fmtHourRanges(g[key]) }))
-    .filter((r: any) => r.text);
-const quietSentence = sentence(
-  quietDayGroups(p?.busyness, p?.openingHours),
-  [{ days: DAY_NAMES.slice(0, 5), quiet: bz.weekdayQuiet }, { days: DAY_NAMES.slice(5), quiet: bz.weekendQuiet }],
-  'quiet');
-const busySentence = sentence(
-  busyDayGroups(p?.busyness, p?.openingHours),
-  [{ days: DAY_NAMES.slice(0, 5), busy: bz.weekdayBusy }, { days: DAY_NAMES.slice(5), busy: bz.weekendBusy }],
-  'busy');
-const hasBusyness = bzLines.length > 0;
-
-// The hour bar, on the guide itself.
-//
-// /tools/best-time/ has drawn this since it launched; the 700-odd guides that
-// OWN the measurement printed two sentences and nothing to look at. It is the
-// one thing on this page no map app publishes, and it was the least visible
-// thing on it (2026-09-12). Same 7am–10pm window and the same busy-wins rule
-// as the tool — one disagreeing copy of this drawing is how a card ended up
-// reading "quiet 9am-5pm" over red cells in August.
-//
-// Weekday and weekend are separate rows here. The tool flattens them to fit a
-// result card; the guide has room for the distinction it already states in
-// words, and for most venues the two rows do not look alike.
-const BZ_HOURS = Array.from({ length: 16 }, (_, i) => i + 7);
-const bzHour = (h: number) => formatHour(h, { am: t('post.am'), pm: t('post.pm'), lang });
-const bzCells = (quiet?: number[], busy?: number[]) => {
-  const q = new Set(quiet ?? []);
-  const b = new Set(busy ?? []);
-  return BZ_HOURS.map((h) => (b.has(h) ? 'busy' : q.has(h) ? 'quiet' : 'mid'));
-};
-// Only draw a row we actually measured. An all-"mid" row is not a finding
-// about the venue, it is a row with no data behind it.
-const bzRows = bzLines
-  .map((r) => ({ label: r.label, cells: bzCells(r.quiet, r.busy) }))
-  .filter((r) => r.cells.some((c) => c !== 'mid'));
+// The on-page crowd block (per-day grouping, three levels, opening hours only)
+// moved to components/post/CrowdBlock.astro + lib/crowd-chart.mjs on
+// 2026-09-24. `bz` stays for what the Save button carries away (saveQuiet).
 
 // Map our category to a schema.org place type (helps travel AI results).
 const placeType =
@@ -325,6 +276,40 @@ const placeType =
     : d.category === 'attraction' || d.category === 'trendy'
     ? 'TouristAttraction'
     : 'LocalBusiness';
+
+// ---- Place-guide redesign (2026-09-24) ----
+const isEvent = d.category === 'event';
+// "Open now" reads the VENUE's clock. null → the sidebar shows no status.
+const venueTz = p ? venueTimeZone(country, d.region) : null;
+const priceLabel = typeof p?.priceLevel === 'number' ? priceLabels[p.priceLevel] : null;
+// Maps: the listing when we have it, otherwise a search (nofollow, as before).
+const mapsHref = p?.googleMapsUrl || (d.region ? mapsSearchUrl : null);
+const mapsIsSearch = !p?.googleMapsUrl;
+// "How to get there" in the sidebar only when the article already has that
+// section: 1,233 English guides carry "## Getting there". A translation's
+// heading ids are in its own language, so the section is found by POSITION —
+// and only when the translation has exactly the English number of h2s, so a
+// restructured translation gets no link rather than a wrong one.
+const h2Ids = (html: string) => [...html.matchAll(/<h2 id="([^"]+)"[^>]*>/gi)].map((m) => m[1]);
+const enH2Ids = h2Ids((post as any).rendered?.html ?? '');
+const gtIdx = enH2Ids.findIndex((id) => /^(getting-there|how-to-get)/.test(id));
+const gettingThereId = gtIdx < 0
+  ? null
+  : lang === defaultLang
+    ? enH2Ids[gtIdx]
+    : (() => { const ids = h2Ids(renderedHtml); return ids.length === enH2Ids.length ? ids[gtIdx] : null; })();
+// The ONE affiliate card (desktop sidebar; hidden on phones, which have the
+// sticky bar). The venue's own tickets when it is a ticketed kind of place,
+// the city's tours otherwise. A finished event gets none, as before.
+const sideAffiliate = isEventPast(d)
+  ? null
+  : ticketable && p?.name
+    ? { href: klookPlace, title: t('post.ticketsFor').replace('{place}', placeLabel) }
+    : d.region
+      ? { href: klookTop, title: ps('ps.cardCity').replace('{city}', regionLabel) }
+      : null;
+const fmtDate = (x: Date) => x.toLocaleDateString(localeCodes[lang], { year: 'numeric', month: 'long', day: 'numeric' });
+const fmtDateShort = (x: Date) => x.toLocaleDateString(localeCodes[lang], { year: 'numeric', month: 'short', day: 'numeric' });
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const pageUrl = siteHref(Astro.url.pathname, Astro.site);
@@ -672,7 +657,7 @@ const saveQuiet = perDay
   popupRegion={d.region}
   popupCountry={d.country}
 >
-  <article class="article wrap">
+  <article class="article article--post wrap">
     {/* Every crumb goes through localizePath. The country and region hrefs were
         hardcoded English while their labels were translated, so a Korean reader
         tapping "아랍에미리트" was dropped onto the English country page — 3,796
@@ -687,19 +672,37 @@ const saveQuiet = perDay
       <span aria-current="page">{t(('cat.' + d.category) as any)}</span>
     </nav>
 
+    {/* Layout (2026-09-24 redesign, owner-approved): the article column opens
+        with title → editor line → photo → one-line answer → "When is it
+        quiet?"; the facts, contents and the ONE affiliate card sit in a
+        sticky side column on desktop and stack under the crowd block on a
+        phone. The affiliate row that used to sit straight under the photo is
+        gone — it pushed the article down on every guide. */}
+    <div class="post-grid">
+    <div class="post-top">
     <div class="article-head">
       <div class="kicker">
         <span class="badge">{t(('cat.' + d.category) as any)}</span>
         <span>{regionLabel}</span>
-        <span>·</span>
-        <time datetime={updated.toISOString()}>
-          {d.updatedDate ? t('post.updated') : t('post.published')} {updated.toLocaleDateString(localeCodes[lang], { year: 'numeric', month: 'long', day: 'numeric' })}
-        </time>
       </div>
       <h1>{title}</h1>
-      <p class="byline">
-        <Fragment set:html={t('post.byline').replace('{team}', `<a href="${localizePath('/about', lang)}">${SITE.name} ${t('post.editorialTeam')}</a>`)} />
+      {/* Editor line: who, when, and what the facts were checked against. The
+          "verified" chip used to ride on the affiliate band under the photo. */}
+      <p class="byline post-byline">
+        <a href={localizePath('/about', lang)}>{t('post.editorialTeam')}</a>
+        <span class="sep" aria-hidden="true">·</span>
+        <time datetime={d.pubDate.toISOString()}>{t('post.published')} {fmtDate(d.pubDate)}</time>
+        {p ? (
+          <><span class="sep" aria-hidden="true">·</span><span class="byline-check">✓ {d.updatedDate ? ps('ps.checkedOn').replace('{date}', fmtDateShort(updated)) : t('post.verified')}</span></>
+        ) : d.updatedDate ? (
+          <><span class="sep" aria-hidden="true">·</span><time datetime={updated.toISOString()}>{t('post.updated')} {fmtDate(updated)}</time></>
+        ) : null}
       </p>
+      {/* The AI/data disclosure, collapsed, beside the byline it qualifies. */}
+      <details class="disclosure-details">
+        <summary>{t('post.disclosureTitle')}</summary>
+        <p>{t('post.disclosureBody')} <a href={localizePath('/about', lang)}>{t('post.editorialPolicy')}</a></p>
+      </details>
       {/* Photoless posts still need a reachable save — the hero overlay below
           (the primary placement) only exists when there is a hero. */}
       {!d.heroImage && p?.name && (
@@ -803,7 +806,25 @@ const saveQuiet = perDay
       </aside>
     )}
 
-    {isEventPast(d) ? (
+    {/* The site's own measurement, straight after the answer (it sat under
+        the "At a glance" table beside an embed code until 2026-09-24). Only
+        when BestTime measured something — no empty block. */}
+    {p?.busyness && !isEvent && (
+      <CrowdBlock
+        busyness={p.busyness}
+        openingHours={p.openingHours}
+        lang={lang}
+        postId={post.id}
+        placeName={p.name}
+        timeZone={venueTz}
+      />
+    )}
+
+    {/* Event posts keep their own top box: the event's OWN ticket page, free
+        entry, and the month link into the when-to-go cluster. The Klook and
+        hotel buttons that shared this band are gone (the sidebar card, the
+        phone's sticky bar and "Plan your trip" carry those). */}
+    {isEvent && (isEventPast(d) ? (
       <div class="book-cta">
         <span class="book-cta-label">{t('post.eventEnded')}</span>
         <div class="book-cta-btns">
@@ -819,188 +840,60 @@ const saveQuiet = perDay
           <p class="cta-month-link"><a href={wtgPastEventHref}>{wtgPastEventLabel} →</a></p>
         )}
       </div>
-    ) : (
+    ) : (ticketHref || freeEntry || wtgMonthHref) ? (
       <div class="book-cta">
         <span class="book-cta-label">{t('post.planningTrip').replace('{region}', regionLabel)}{freeEntry && <>{' '}<span class="free-tag">{t('post.free')}</span></>}</span>
-        <div class="book-cta-btns">
-          {/* An event's OWN ticket/official page first, when discovery verified
-              one (38 of 51 upcoming events, 2026-08-23). The winners for
-              event queries all carry a ticket button; ours had only the
-              city-level Klook link. Plain rel — this is not an affiliate. */}
-          {d.category === 'event' && ticketHref && (
+        {ticketHref && (
+          <div class="book-cta-btns">
+            {/* Plain rel — the organizer's ticket page is not an affiliate. */}
             <a class="book-btn book-btn-primary" href={ticketHref} target="_blank" rel="noopener"><Emoji name="admission-tickets" /> {t('post.officialTickets')}</a>
-          )}
-          <a class:list={['book-btn', { 'book-btn-primary': !(d.category === 'event' && ticketHref) }]} href={klookTop} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> {t('post.thingsToDo')}</a>
-          <a class="book-btn" href={hotelTop} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> {t('post.findHotels')}</a>
-        </div>
+          </div>
+        )}
         {wtgMonthHref && (
           <p class="cta-month-link"><a href={wtgMonthHref}>{wtgMonthLabel} →</a></p>
         )}
-        {wtgCountryHref && (
-          <p class="cta-month-link"><a href={wtgCountryHref}>{wtgCountryLabel} →</a></p>
-        )}
-        {/* Trust signal beside the FIRST ask (authority bias): the fact box proving
-            the data is real sits far below, so restate it where the click happens. */}
-        {p && (
-          <p class="cta-trust">✓ {t('post.verified')} · {updated.toLocaleDateString(localeCodes[lang], { year: 'numeric', month: 'short', day: 'numeric' })}</p>
-        )}
       </div>
-    )}
+    ) : null)}
+    </div>
 
-    {p && (p.address || p.rating || p.priceLevel !== undefined) && (
-      <div class="fact-box">
-        <h2>{t('post.atAGlance')}</h2>
-        <div class="fact-grid">
-          {placeName && <div class="fact"><span class="k">{t('post.place')}</span><span class="v">{placeLabel}</span></div>}
-          {shownAddress && <div class="fact"><span class="k">{t('post.address')}</span><span class="v">{shownAddress}</span></div>}
-          {typeof p.rating === 'number' && (
-            <div class="fact"><span class="k">{t('post.rating')}</span><span class="v"><span class="stars">{stars}</span> {p.rating}
-              {p.userRatingsTotal ? ` (${p.userRatingsTotal.toLocaleString()})` : ''}</span></div>
-          )}
-          {typeof p.priceLevel === 'number' && <div class="fact"><span class="k">{t('post.price')}</span><span class="v">{priceLabels[p.priceLevel]}</span></div>}
-          {p.phone && (
-            <div class="fact"><span class="k">{t('post.phone')}</span><span class="v"><a class="phone-link" href={`tel:${p.phone.replace(/[^+\d]/g, '')}`}>{p.phone}</a></span></div>
-          )}
-        </div>
-        {hoursAllDay ? (
-          <div class="fact"><span class="k">{t('post.openingHours')}</span><span class="v">{t('post.open24')}</span></div>
-        ) : p.openingHours && p.openingHours.length > 0 && (
-          <details class="hours">
-            <summary><Emoji name="three-oclock" /> {t('post.openingHours')}</summary>
-            <ul>
-              {p.openingHours.map((line: string) => <li>{localizeOpeningLine(line, lang, { am: t('post.am'), pm: t('post.pm') })}</li>)}
-            </ul>
-          </details>
-        )}
-        {hasBusyness && (
-          <div class="busyness">
-            <span class="bz-title"><Emoji name="chart-increasing" /> {t('post.bestTime')}</span>
-            {quietSentence.length > 0 && (
-              <div class="bz-row"><span class="bz-k">{t('post.quietest')}</span><span class="bz-v">
-                {quietSentence.map((r, i) => (
-                  <>{i ? ' · ' : ''}<b>{r.label}</b> {r.text}</>
-                ))}
-              </span></div>
-            )}
-            {busySentence.length > 0 && (
-              <div class="bz-row"><span class="bz-k">{t('post.busiest')}</span><span class="bz-v">
-                {busySentence.map((r, i) => (
-                  <>{i ? ' · ' : ''}<b>{r.label}</b> {r.text}</>
-                ))}
-              </span></div>
-            )}
-            {/* The bar carries no information the two lines above do not already
-                state in words, so it is hidden from screen readers rather than
-                read out as sixteen unlabelled cells per row. */}
-            {bzRows.length > 0 && (
-              <div class="bz-chart" aria-hidden="true">
-                {/* No per-row wrapper: label and bar are direct children of the
-                    one grid, so every row's label column is the same width and
-                    that width is the longest label's, not a guess. */}
-                {bzRows.map((r) => (
-                  <>
-                    <span class="bz-day">{r.label}</span>
-                    <div class="bz-bar">{r.cells.map((c, i) => <i class={c} title={bzHour(BZ_HOURS[i])}></i>)}</div>
-                  </>
-                ))}
-                <div class="bz-scale"><span>{bzHour(7)}</span><span>{bzHour(14)}</span><span>{bzHour(22)}</span></div>
-                <p class="bz-legend">
-                  <span><i class="quiet"></i>{t('tool.quiet')}</span>
-                  <span><i class="mid"></i>{t('tool.normal')}</span>
-                  <span><i class="busy"></i>{t('tool.busy')}</span>
-                </p>
-              </div>
-            )}
-            <p class="bz-credit">{t('post.footTraffic')} <a href="https://besttime.app" target="_blank" rel="noopener nofollow">BestTime.app</a></p>
-            {/* The crowd tool is the site's #2 page, and until now the ~157 posts
-                that display this exact data linked to it from nowhere — it lived
-                only in the header dropdown. A reader looking at one venue's quiet
-                hours is precisely the person who wants to compare a whole city. */}
-            <p class="bz-more"><a href={localizePath('/tools/best-time', lang)}>{t('post.compareQuiet')} →</a></p>
-            {/* Any site can embed this chart; the snippet carries a link back here,
-                so the data earns backlinks instead of us chasing them. */}
-            <details class="bz-embed">
-              <summary>{t('post.embedChart')}</summary>
-              <p class="bz-embed-hint">{t('post.embedHint')}</p>
-              <textarea readonly rows="3" class="bz-embed-code" onclick="this.select()">{`<iframe src="${siteHref(`/embed/crowd/${post.id.replace(/\.md$/, '')}`, Astro.site)}" width="100%" height="260" style="border:1px solid #e4dccd;border-radius:12px;max-width:420px" loading="lazy" title="${(p.name || '').replace(/"/g, '&quot;')} busy times — Wander Atlas"></iframe>`}</textarea>
-            </details>
-          </div>
-        )}
-        {mapMosaic && (
-          <a class="map-facade" href={p.googleMapsUrl || mapsSearchUrl} target="_blank" rel="noopener" aria-label={t('post.openMaps')}>
-            <span class="map-tiles" style={`width:${mapMosaic.width}px;height:${mapMosaic.height}px;margin-left:${-Math.round(mapMosaic.px)}px;margin-top:${-Math.round(mapMosaic.py)}px`}>
-              {mapMosaic.tiles.map((tl) => (
-                <img src={tl.url} width="256" height="256" loading="lazy" decoding="async" alt="" style={`left:${tl.dx}px;top:${tl.dy}px`} />
-              ))}
-            </span>
-            <span class="map-pin" aria-hidden="true"></span>
-            <span class="map-facade-label"><Emoji name="round-pushpin" /> {t('post.openMaps')} →</span>
-            <span class="map-attr">{TILE_ATTRIBUTION}</span>
-          </a>
-        )}
-        <div class="fact-actions">
-          {p?.name && (
-            <SaveButton
-              slug={post.id}
-              title={placeLabel}
-              region={regionLabel}
-              country={localizePlace(country, lang)}
-              href={Astro.url.pathname}
-              lat={p.lat}
-              lng={p.lng}
-              phone={p.phone ?? ""}
-              hours={saveHours}
-              quiet={saveQuiet}
-              image={saveThumb}
-              lang={lang}
-            />
-          )}
-          {ticketable && p.name && (
-            <a class="fact-ticket" href={klookPlace} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> {t('post.ticketsFor').replace('{place}', placeLabel)}</a>
-          )}
-          {p.website && (
-            <a class="map-link" href={p.website} target="_blank" rel="noopener"><Emoji name="globe-showing-asia-australia" /> {t('post.officialSite')}</a>
-          )}
-          {p.googleMapsUrl && (
-            <a class="map-link" href={p.googleMapsUrl} target="_blank" rel="noopener"><Emoji name="round-pushpin" /> {t('post.openMaps')}</a>
-          )}
-        </div>
-      </div>
-    )}
+    <PostSidebar
+      lang={lang}
+      place={p}
+      shownAddress={shownAddress}
+      priceLabel={priceLabel}
+      stars={stars}
+      hoursAllDay={hoursAllDay}
+      timeZone={venueTz}
+      showStatus={!isEvent}
+      mapsHref={mapsHref}
+      mapsIsSearch={mapsIsSearch}
+      mapMosaic={mapMosaic}
+      gettingThereId={gettingThereId}
+      tocItems={showToc ? tocItems : []}
+      affiliate={sideAffiliate}
+      wtgHref={wtgCountryHref}
+      wtgLabel={wtgCountryLabel}
+    >
+      {p?.name && (
+        <SaveButton
+          slot="save"
+          slug={post.id}
+          title={placeLabel}
+          region={regionLabel}
+          country={localizePlace(country, lang)}
+          href={Astro.url.pathname}
+          lat={p.lat}
+          lng={p.lng}
+          phone={p.phone ?? ""}
+          hours={saveHours}
+          quiet={saveQuiet}
+          image={saveThumb}
+          lang={lang}
+        />
+      )}
+    </PostSidebar>
 
-    {!(p && p.googleMapsUrl) && d.region && (
-      <p class="map-cta">
-        <a
-          class="map-link"
-          href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
-            [p?.name, (d.tags && d.tags[1]) || d.category, d.region, country]
-              .filter(Boolean)
-              .join(' ')
-          )}`}
-          target="_blank"
-          rel="noopener nofollow"
-        >
-          <Emoji name="round-pushpin" /> {t('post.exploreMaps')}
-        </a>
-      </p>
-    )}
-
-    {/* The AI/data disclosure used to be the literal LAST element on the page —
-        a compliance footnote as the reader's final impression (Peak-End violation).
-        Collapsed here next to the facts it describes; related guides now end the page. */}
-    <details class="disclosure-details">
-      <summary>{t('post.disclosureTitle')}</summary>
-      <p>{t('post.disclosureBody')} <a href={localizePath('/about', lang)}>{t('post.editorialPolicy')}</a></p>
-    </details>
-
-    {showToc && (
-      <nav class="post-toc" aria-label={t('post.toc')}>
-        <span class="post-toc-label">{t('post.toc')}</span>
-        {tocItems.map((h) => (
-          <a href={`#${h.id}`}>{h.label}</a>
-        ))}
-      </nav>
-    )}
+    <div class="post-body">
 
     <div class="prose">
       {proseParts ? (
@@ -1055,19 +948,6 @@ const saveQuiet = perDay
           </figure>
         ))}
       </section>
-    )}
-
-    {/* Peak-motivation CTA: the reader just finished the case for visiting, so the
-        FIRST thing after the prose names the actual place — the generic city-level
-        blocks (Hotels/PlanTrip) used to sit here, wasting the strongest moment. */}
-    {p?.name && !isEventPast(d) && (
-      <div class="visit-cta">
-        <span class="visit-cta-q">{t('post.visitCta').replace('{name}', placeLabel)}</span>
-        <div class="book-cta-btns">
-          <a class="book-btn book-btn-primary" href={klookPlace} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> {t('post.visitTickets')}</a>
-          <a class="book-btn" href={hotelTop} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> {t('post.visitHotels')}</a>
-        </div>
-      </div>
     )}
 
     {/* FAQ before the commerce. Three affiliate sections used to follow the
@@ -1172,6 +1052,8 @@ const saveQuiet = perDay
       </section>
     )}
 
+    </div>
+    </div>
 
   </article>
 

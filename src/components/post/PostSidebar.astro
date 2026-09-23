@@ -1,0 +1,209 @@
+---
+// The place guide's side column: the facts a visitor acts on, the page's
+// contents, and ONE affiliate card.
+//
+// Desktop: a sticky column beside the article. Phone: it stacks under the crowd
+// block and above the prose, so "is it open, where is it, what's in here" is
+// answered before the reading starts — and the affiliate card is hidden there,
+// because the phone already has the sticky booking bar (StickyBook).
+//
+// "Open now" is worked out in the browser against the VENUE's clock
+// (lib/venue-tz.mjs), from the same parsed week that prints the condensed hours
+// (lib/open-now.mjs). No zone, no readable week, a "24 hours" listing, or an
+// event: no status at all. Public holidays are not in Google's weekly hours, so
+// the status always carries the caveat line.
+import Emoji from '../Emoji.astro';
+import { useTranslations, localeCodes } from '../../i18n/utils';
+import type { Lang } from '../../i18n/ui';
+import { usePostStrings } from '../../i18n/post-strings';
+import { parseWeek, condenseWeek, WEEK } from '../../lib/open-now.mjs';
+import { dayGroupText, dayGroupKind } from '../../lib/busyness.mjs';
+import { localizeOpeningLine } from '../../lib/hours.mjs';
+import { TILE_ATTRIBUTION } from '../../lib/osmTile.mjs';
+
+interface Props {
+  lang: Lang;
+  place?: any;
+  shownAddress?: string;
+  priceLabel?: string | null;
+  stars?: string | null;
+  hoursAllDay?: boolean;
+  timeZone?: string | null;
+  showStatus?: boolean;
+  mapsHref?: string | null;
+  mapsIsSearch?: boolean;
+  mapMosaic?: any;
+  gettingThereId?: string | null;
+  tocItems?: { id: string; label: string }[];
+  affiliate?: { href: string; title: string } | null;
+  wtgHref?: string | null;
+  wtgLabel?: string | null;
+}
+const {
+  lang, place: p, shownAddress = '', priceLabel, stars, hoursAllDay = false, timeZone, showStatus = false,
+  mapsHref, mapsIsSearch = false, mapMosaic, gettingThereId, tocItems = [], affiliate, wtgHref, wtgLabel,
+} = Astro.props;
+const t = useTranslations(lang);
+const ps = usePostStrings(lang);
+
+const week = !hoursAllDay ? parseWeek(p?.openingHours) : null;
+const DAY_KEY = ['day.mon', 'day.tue', 'day.wed', 'day.thu', 'day.fri', 'day.sat', 'day.sun'] as const;
+// "Mon–Fri" for an unbroken run of three or more days; the shared day-group
+// wording (Daily / Weekdays / Every day but Mon / Sat·Sun) otherwise.
+const daysLabel = (days: string[]) => {
+  const set = new Set(days.map((d) => WEEK.indexOf(d)));
+  // A run may wrap the week end ("Sun–Thu"): start where the day before is absent.
+  const start = [...set].find((i) => !set.has((i + 6) % 7));
+  const run = start != null && [...Array(set.size).keys()].every((k) => set.has((start + k) % 7));
+  if (run && set.size >= 3 && dayGroupKind(days).kind === 'list') {
+    return `${t(DAY_KEY[start])}–${t(DAY_KEY[(start + set.size - 1) % 7])}`;
+  }
+  return dayGroupText(days, t as any);
+};
+const hourGroups = week
+  ? condenseWeek(week).map((g) => ({
+      label: daysLabel(g.days),
+      text: g.kind === 'closed' ? ps('ps.hoursClosed') : g.kind === 'open24' ? ps('ps.open24') : g.text,
+    }))
+  : null;
+const rawHours: string[] = !week && !hoursAllDay && Array.isArray(p?.openingHours) ? p.openingHours : [];
+
+const statusData = showStatus && week && timeZone
+  ? JSON.stringify({
+      tz: timeZone,
+      week,
+      l: {
+        openNow: ps('ps.openNow'), closedNow: ps('ps.closedNow'), closesAt: ps('ps.closesAt'),
+        opensAt: ps('ps.opensAt'), opensTomorrow: ps('ps.opensTomorrow'), opensDay: ps('ps.opensDay'),
+        days: DAY_KEY.map((k) => t(k)),
+      },
+    })
+  : null;
+
+const hasFacts = !!(p && (statusData || hourGroups || hoursAllDay || rawHours.length || shownAddress
+  || typeof p.rating === 'number' || priceLabel || p.phone || p.website || mapsHref));
+---
+<aside class="post-side" aria-label={t('post.atAGlance')}>
+  {hasFacts && (
+    <div class="side-box side-facts">
+      <h2 class="side-h">{t('post.atAGlance')}</h2>
+      {statusData && (
+        <div class="side-status" data-open-status={statusData} hidden>
+          <p class="side-status-line"><span class="side-dot" aria-hidden="true"></span><span data-status-text></span></p>
+          <p class="side-status-note">{ps('ps.holidayNote')}</p>
+        </div>
+      )}
+      {hoursAllDay && (
+        <div class="side-row"><span class="side-k">{t('post.openingHours')}</span><span class="side-v">{t('post.open24')}</span></div>
+      )}
+      {hourGroups && (
+        <div class="side-row">
+          <span class="side-k">{t('post.openingHours')}</span>
+          <span class="side-v side-hours">
+            {hourGroups.map((g) => (
+              <span class="side-hours-line"><span class="side-hours-days">{g.label}</span> <span class="side-hours-time">{g.text}</span></span>
+            ))}
+          </span>
+        </div>
+      )}
+      {rawHours.length > 0 && (
+        <details class="side-row side-rawhours">
+          <summary class="side-k">{t('post.openingHours')}</summary>
+          <ul>{rawHours.map((line) => <li>{localizeOpeningLine(line, lang, { am: t('post.am'), pm: t('post.pm') })}</li>)}</ul>
+        </details>
+      )}
+      {typeof p?.rating === 'number' && (
+        <div class="side-row">
+          <span class="side-k">{t('post.rating')}</span>
+          <span class="side-v"><span class="stars" aria-hidden="true">{stars}</span> {p.rating}
+            {p.userRatingsTotal ? <span class="side-sub"> · {ps('ps.reviews').replace('{n}', p.userRatingsTotal.toLocaleString(localeCodes[lang]))}</span> : null}</span>
+        </div>
+      )}
+      {priceLabel && (
+        <div class="side-row"><span class="side-k">{t('post.price')}</span><span class="side-v">{priceLabel}</span></div>
+      )}
+      {shownAddress && (
+        <div class="side-row"><span class="side-k">{t('post.address')}</span><span class="side-v side-addr">{shownAddress}</span></div>
+      )}
+      {p?.phone && (
+        <div class="side-row"><span class="side-k">{t('post.phone')}</span><span class="side-v"><a class="phone-link" href={`tel:${p.phone.replace(/[^+\d]/g, '')}`}>{p.phone}</a></span></div>
+      )}
+      {gettingThereId && (
+        <a class="side-link" href={`#${gettingThereId}`}><Emoji name="round-pushpin" /> {ps('ps.gettingThere')} ↓</a>
+      )}
+      {mapMosaic && mapsHref && (
+        <a class="map-facade side-map" href={mapsHref} target="_blank" rel={mapsIsSearch ? 'noopener nofollow' : 'noopener'} aria-label={t('post.openMaps')}>
+          <span class="map-tiles" style={`width:${mapMosaic.width}px;height:${mapMosaic.height}px;margin-left:${-Math.round(mapMosaic.px)}px;margin-top:${-Math.round(mapMosaic.py)}px`}>
+            {mapMosaic.tiles.map((tl: any) => (
+              <img src={tl.url} width="256" height="256" loading="lazy" decoding="async" alt="" style={`left:${tl.dx}px;top:${tl.dy}px`} />
+            ))}
+          </span>
+          <span class="map-pin" aria-hidden="true"></span>
+          <span class="map-attr">{TILE_ATTRIBUTION}</span>
+        </a>
+      )}
+      <div class="side-actions">
+        {mapsHref && (
+          <a class="side-maps" href={mapsHref} target="_blank" rel={mapsIsSearch ? 'noopener nofollow' : 'noopener'}><Emoji name="round-pushpin" /> {mapsIsSearch ? t('post.exploreMaps') : t('post.openMaps')}</a>
+        )}
+        {p?.website && (
+          <a class="map-link" href={p.website} target="_blank" rel="noopener"><Emoji name="globe-showing-asia-australia" /> {t('post.officialSite')}</a>
+        )}
+        <slot name="save" />
+      </div>
+    </div>
+  )}
+
+  {!hasFacts && mapsHref && (
+    <p class="side-box side-actions"><a class="side-maps" href={mapsHref} target="_blank" rel={mapsIsSearch ? 'noopener nofollow' : 'noopener'}><Emoji name="round-pushpin" /> {mapsIsSearch ? t('post.exploreMaps') : t('post.openMaps')}</a></p>
+  )}
+
+  {tocItems.length > 0 && (
+    <nav class="side-box side-toc" aria-label={t('post.toc')}>
+      <h2 class="side-h">{t('post.toc')}</h2>
+      <ol>
+        {tocItems.map((h) => <li><a href={`#${h.id}`}>{h.label}</a></li>)}
+      </ol>
+    </nav>
+  )}
+
+  {wtgHref && (
+    <p class="side-wtg"><a href={wtgHref}>{wtgLabel} →</a></p>
+  )}
+
+  {affiliate && (
+    <div class="side-box side-card" data-affiliate-placement="post-sidebar">
+      <span class="side-card-k"><Emoji name="admission-tickets" /> {ps('ps.cardKicker')}</span>
+      <p class="side-card-t">{affiliate.title}</p>
+      <a class="side-card-btn" href={affiliate.href} target="_blank" rel="sponsored noopener">{ps('ps.cardCta')} →</a>
+      <p class="side-card-note">{ps('ps.affNote')}</p>
+    </div>
+  )}
+
+  <slot name="after" />
+</aside>
+
+<script>
+  import { statusAt, venueClock, hhmm } from '../../lib/open-now.mjs';
+  document.querySelectorAll<HTMLElement>('[data-open-status]').forEach((box) => {
+    try {
+      const { tz, week, l } = JSON.parse(box.dataset.openStatus || '{}');
+      const { day, min } = venueClock(new Date(), tz);
+      if (day < 0 || !Number.isFinite(min)) return;
+      const s = statusAt(week, day, min) as any;
+      const time = (m: number, nextDay: boolean) => (m === 0 && nextDay ? '24:00' : hhmm(m));
+      let text: string;
+      if (s.open) {
+        text = s.closes == null ? l.openNow : `${l.openNow} · ${l.closesAt.replace('{time}', time(s.closes, s.closesIn > 0))}`;
+      } else if (s.opens == null) {
+        text = l.closedNow;
+      } else {
+        const tpl = s.opensIn === 0 ? l.opensAt : s.opensIn === 1 ? l.opensTomorrow : l.opensDay;
+        text = `${l.closedNow} · ${tpl.replace('{time}', hhmm(s.opens)).replace('{day}', l.days[(day + s.opensIn) % 7])}`;
+      }
+      box.querySelector('[data-status-text]')!.textContent = text;
+      box.classList.toggle('is-open', !!s.open);
+      box.hidden = false;
+    } catch { /* no status rather than a wrong one */ }
+  });
+</script>

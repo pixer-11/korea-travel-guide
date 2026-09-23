@@ -1,0 +1,130 @@
+// Strings for the place-guide redesign (2026-09-24): the "When is it quiet?"
+// block, the sidebar's open-now status and condensed hours, and the one
+// affiliate card. Kept out of ui.ts on purpose — other branches edit that file
+// in parallel — and checked by post-strings-keys.test.mjs so a key missing
+// from one language fails CI instead of leaking English onto a localized page.
+//
+// Placeholders: {time} is "HH:MM" (24-hour, every language), {day} is the
+// day.* abbreviation from ui.ts, {n} a localized number, {city} a localized
+// place name, {date} a localized date.
+import type { Lang } from './ui';
+
+export const postStrings = {
+  en: {
+    'ps.crowdTitle': 'When is it quiet?',
+    'ps.crowdDek': 'Crowds by the hour, from measured foot traffic',
+    'ps.noStandout': 'No standout hour',
+    'ps.chartNote': 'Quiet and busy hours come from measured foot traffic; other open hours show as normal. Bars cover opening hours only.',
+    'ps.openNow': 'Open now',
+    'ps.closedNow': 'Closed now',
+    'ps.closesAt': 'closes {time}',
+    'ps.opensAt': 'opens {time}',
+    'ps.opensTomorrow': 'opens tomorrow {time}',
+    'ps.opensDay': 'opens {day} {time}',
+    'ps.holidayNote': "Regular hours, in the venue's local time — public holidays may differ.",
+    'ps.hoursClosed': 'Closed',
+    'ps.open24': 'Open 24 hours',
+    'ps.reviews': '{n} Google reviews',
+    'ps.gettingThere': 'How to get there',
+    'ps.cardKicker': 'Tours & tickets',
+    'ps.cardCity': 'Tours & activities in {city}',
+    'ps.cardCta': 'See options on Klook',
+    'ps.affNote': 'Affiliate link — we may earn a commission at no extra cost to you.',
+    'ps.checkedOn': 'Facts checked against Google Places · {date}',
+  },
+  ko: {
+    'ps.crowdTitle': '언제 가면 한산할까?',
+    'ps.crowdDek': '실측 유동인구로 본 시간대별 혼잡도',
+    'ps.noStandout': '두드러진 시간 없음',
+    'ps.chartNote': '한산·붐빔 시간은 실측 유동인구 데이터 기준이고, 그 밖의 영업시간은 보통으로 표시합니다. 막대는 영업시간에만 그립니다.',
+    'ps.openNow': '지금 영업 중',
+    'ps.closedNow': '지금 영업 종료',
+    'ps.closesAt': '{time}에 종료',
+    'ps.opensAt': '{time}에 영업 시작',
+    'ps.opensTomorrow': '내일 {time}에 영업 시작',
+    'ps.opensDay': '{day}요일 {time}에 영업 시작',
+    'ps.holidayNote': '현지 시각 기준 정규 영업시간이며, 공휴일에는 다를 수 있습니다.',
+    'ps.hoursClosed': '휴무',
+    'ps.open24': '24시간 영업',
+    'ps.reviews': '구글 리뷰 {n}개',
+    'ps.gettingThere': '가는 방법',
+    'ps.cardKicker': '투어·입장권',
+    'ps.cardCity': '{city} 투어·액티비티',
+    'ps.cardCta': '클룩에서 보기',
+    'ps.affNote': '제휴 링크 — 예약하시면 사이트가 수수료를 받을 수 있으며, 추가 비용은 없습니다.',
+    'ps.checkedOn': '구글 플레이스로 사실 확인 · {date}',
+  },
+  ja: {
+    'ps.crowdTitle': '空いている時間は？',
+    'ps.crowdDek': '実測の人出データによる時間帯別の混雑度',
+    'ps.noStandout': '目立った時間帯なし',
+    'ps.chartNote': '空いている・混雑する時間は実測の人出データに基づき、その他の営業時間は「普通」と表示しています。棒グラフは営業時間内のみです。',
+    'ps.openNow': '営業中',
+    'ps.closedNow': '営業時間外',
+    'ps.closesAt': '{time}まで',
+    'ps.opensAt': '{time}開店',
+    'ps.opensTomorrow': '明日{time}開店',
+    'ps.opensDay': '{day}曜{time}開店',
+    'ps.holidayNote': '現地時間の通常営業時間です。祝日は異なる場合があります。',
+    'ps.hoursClosed': '定休日',
+    'ps.open24': '24時間営業',
+    'ps.reviews': 'Googleレビュー{n}件',
+    'ps.gettingThere': 'アクセス',
+    'ps.cardKicker': 'ツアー・チケット',
+    'ps.cardCity': '{city}のツアー・アクティビティ',
+    'ps.cardCta': 'Klookで見る',
+    'ps.affNote': 'アフィリエイトリンクです。ご予約で当サイトに手数料が入る場合がありますが、追加料金はかかりません。',
+    'ps.checkedOn': 'Google Placesで事実確認 · {date}',
+  },
+  es: {
+    'ps.crowdTitle': '¿Cuándo hay menos gente?',
+    'ps.crowdDek': 'Afluencia por horas, según datos medidos de visitantes',
+    'ps.noStandout': 'Ninguna hora destacada',
+    'ps.chartNote': 'Las horas tranquilas y concurridas vienen de datos medidos de afluencia; el resto del horario se muestra como normal. Las barras solo cubren el horario de apertura.',
+    'ps.openNow': 'Abierto ahora',
+    'ps.closedNow': 'Cerrado ahora',
+    'ps.closesAt': 'cierra a las {time}',
+    'ps.opensAt': 'abre a las {time}',
+    'ps.opensTomorrow': 'abre mañana a las {time}',
+    'ps.opensDay': 'abre el {day} a las {time}',
+    'ps.holidayNote': 'Horario habitual, en hora local; en días festivos puede variar.',
+    'ps.hoursClosed': 'Cerrado',
+    'ps.open24': 'Abierto 24 horas',
+    'ps.reviews': '{n} reseñas en Google',
+    'ps.gettingThere': 'Cómo llegar',
+    'ps.cardKicker': 'Tours y entradas',
+    'ps.cardCity': 'Tours y actividades en {city}',
+    'ps.cardCta': 'Ver opciones en Klook',
+    'ps.affNote': 'Enlace de afiliado: podemos recibir una comisión sin coste adicional para ti.',
+    'ps.checkedOn': 'Datos verificados con Google Places · {date}',
+  },
+  zh: {
+    'ps.crowdTitle': '什么时候人少？',
+    'ps.crowdDek': '根据实测人流数据的分时段拥挤程度',
+    'ps.noStandout': '没有特别突出的时段',
+    'ps.chartNote': '人少和拥挤的时段来自实测人流数据，其余营业时段显示为一般。柱状图只覆盖营业时间。',
+    'ps.openNow': '营业中',
+    'ps.closedNow': '已打烊',
+    'ps.closesAt': '{time}打烊',
+    'ps.opensAt': '{time}开门',
+    'ps.opensTomorrow': '明天{time}开门',
+    'ps.opensDay': '{day}{time}开门',
+    'ps.holidayNote': '按当地时间的常规营业时间，公众假期可能不同。',
+    'ps.hoursClosed': '休息',
+    'ps.open24': '24小时营业',
+    'ps.reviews': '{n}条Google评价',
+    'ps.gettingThere': '交通方式',
+    'ps.cardKicker': '门票与游览',
+    'ps.cardCity': '{city}的游览与活动',
+    'ps.cardCta': '在Klook查看',
+    'ps.affNote': '联盟链接：通过它预订我们可能获得佣金，你无需额外付费。',
+    'ps.checkedOn': '已通过Google Places核实 · {date}',
+  },
+} as const;
+
+export type PostStringKey = keyof (typeof postStrings)['en'];
+
+export function usePostStrings(lang: Lang) {
+  return (key: PostStringKey): string =>
+    (postStrings[lang] as Record<string, string>)?.[key] ?? postStrings.en[key];
+}

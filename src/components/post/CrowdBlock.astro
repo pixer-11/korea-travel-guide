@@ -1,0 +1,151 @@
+---
+// "When is it quiet?" — the measured crowd block, near the top of a place guide.
+//
+// This used to sit at the bottom of the "At a glance" table, under seven lines
+// of opening hours and beside an embed code: the one thing on the page no map
+// app publishes, and the easiest thing on it to miss (owner review 2026-09-24).
+//
+// The chart is honest about what we measured (lib/crowd-chart.mjs): BestTime
+// gives quiet and busy hour SETS, not a curve, so each open hour is drawn at
+// one of three levels and nothing is interpolated. Hours the venue is closed
+// are not drawn. The words in the two cells below say the same thing as the
+// bars, so the bars are hidden from screen readers.
+import Emoji from '../Emoji.astro';
+import { crowdRows, summaryLines } from '../../lib/crowd-chart.mjs';
+import { dayGroupText } from '../../lib/busyness.mjs';
+import { formatHour, formatHourRanges } from '../../lib/hours.mjs';
+import { useTranslations, localizePath } from '../../i18n/utils';
+import type { Lang } from '../../i18n/ui';
+import { usePostStrings } from '../../i18n/post-strings';
+import { siteHref } from '../../lib/urls.mjs';
+
+interface Props {
+  busyness: any;
+  openingHours?: string[];
+  lang: Lang;
+  postId: string;
+  placeName?: string;
+  timeZone?: string | null;
+}
+const { busyness, openingHours, lang, postId, placeName = '', timeZone } = Astro.props;
+const t = useTranslations(lang);
+const ps = usePostStrings(lang);
+const rows = crowdRows(busyness, openingHours);
+
+const hourLabel = (h: number) => formatHour(h, { am: t('post.am'), pm: t('post.pm'), lang });
+const ranges = (hours: number[]) => formatHourRanges(hours, { am: t('post.am'), pm: t('post.pm'), lang });
+
+type Tab = { id: 'weekday' | 'weekend'; label: string; allDays: string[]; rows: any[] };
+const tabs: Tab[] = rows
+  ? ([
+      { id: 'weekday', label: t('post.weekdays'), allDays: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'], rows: rows.weekday },
+      { id: 'weekend', label: t('post.weekends'), allDays: ['Saturday', 'Sunday'], rows: rows.weekend },
+    ] as Tab[]).filter((x) => x.rows.length)
+  : [];
+
+// A row or sentence needs its own day label only when it does not speak for
+// the whole half the tab is already named after.
+const sameDays = (a: string[], b: string[]) => a.length === b.length && a.every((d) => b.includes(d));
+const cellLines = (tab: Tab, key: 'quiet' | 'busy') =>
+  summaryLines(tab.rows, key).map((l) => ({
+    label: sameDays(l.days, tab.allDays) ? '' : dayGroupText(l.days, t),
+    text: ranges(l.hours) ?? '',
+  })).filter((l) => l.text);
+
+const embedSrc = siteHref(`/embed/crowd/${postId.replace(/\.md$/, '')}`, Astro.site);
+const embedTitle = `${placeName.replace(/"/g, '&quot;')} busy times — Wander Atlas`;
+---
+{tabs.length > 0 && (
+  <section class="pcrowd" aria-labelledby="pcrowd-title" data-crowd data-tz={timeZone ?? ''}>
+    <div class="pcrowd-head">
+      <div>
+        <h2 id="pcrowd-title" class="pcrowd-title"><Emoji name="chart-increasing" /> {ps('ps.crowdTitle')}</h2>
+        <p class="pcrowd-dek">{ps('ps.crowdDek')}</p>
+      </div>
+      {tabs.length > 1 && (
+        <div class="pcrowd-toggle" role="group" aria-label={ps('ps.crowdTitle')}>
+          {tabs.map((tab, i) => (
+            <button type="button" data-crowd-tab={tab.id} aria-pressed={i === 0 ? 'true' : 'false'}>{tab.label}</button>
+          ))}
+        </div>
+      )}
+    </div>
+
+    {tabs.map((tab, i) => (
+      <div class="pcrowd-panel" data-crowd-panel={tab.id} hidden={i > 0}>
+        {tabs.length === 1 && <p class="pcrowd-only">{tab.label}</p>}
+        <div class="pcrowd-charts" aria-hidden="true">
+          {tab.rows.map((r: any) => (
+            <div class="pcrowd-row">
+              {!sameDays(r.days, tab.allDays) && <span class="pcrowd-row-days">{dayGroupText(r.days, t)}</span>}
+              <div class="pcrowd-bars">
+                {r.cells.map((c: any) => <i class={`lv-${c.level}`} title={c.level === 'closed' ? undefined : hourLabel(c.h)}></i>)}
+              </div>
+              <div class="pcrowd-axis">
+                <span>{hourLabel(r.cells[0].h)}</span>
+                {r.cells.length > 4 && <span>{hourLabel(r.cells[Math.floor(r.cells.length / 2)].h)}</span>}
+                <span>{hourLabel(r.cells[r.cells.length - 1].h)}</span>
+              </div>
+            </div>
+          ))}
+        </div>
+        <div class="pcrowd-cells">
+          {(['quiet', 'busy'] as const).map((key) => {
+            const lines = cellLines(tab, key);
+            return (
+              <div class={`pcrowd-cell pcrowd-cell--${key}`}>
+                <span class="pcrowd-cell-k">{key === 'quiet' ? t('post.quietest') : t('post.busiest')}</span>
+                <span class="pcrowd-cell-v">
+                  {lines.length
+                    ? lines.map((l, j) => <>{j ? <br /> : null}{l.label && <b>{l.label} </b>}{l.text}</>)
+                    : ps('ps.noStandout')}
+                </span>
+              </div>
+            );
+          })}
+        </div>
+      </div>
+    ))}
+
+    <p class="pcrowd-legend" aria-hidden="true">
+      <span><i class="lv-quiet"></i>{t('tool.quiet')}</span>
+      <span><i class="lv-mid"></i>{t('tool.normal')}</span>
+      <span><i class="lv-busy"></i>{t('tool.busy')}</span>
+    </p>
+    <p class="pcrowd-note">{ps('ps.chartNote')}</p>
+    <p class="pcrowd-foot">
+      <span>{`${t('post.footTraffic')} `}<a href="https://besttime.app" target="_blank" rel="noopener nofollow">BestTime.app</a></span>
+      {/* The crowd tool is the site's #2 page; a reader looking at one venue's
+          quiet hours is the one who wants the whole-city comparison. */}
+      <a class="pcrowd-more" href={localizePath('/tools/best-time', lang)}>{t('post.compareQuiet')} →</a>
+    </p>
+    {/* Any site can embed this chart; the snippet links back here, so the data
+        earns backlinks instead of us chasing them. Kept, just not up front. */}
+    <details class="bz-embed pcrowd-embed">
+      <summary>{t('post.embedChart')}</summary>
+      <p class="bz-embed-hint">{t('post.embedHint')}</p>
+      <textarea readonly rows="3" class="bz-embed-code" onclick="this.select()">{`<iframe src="${embedSrc}" width="100%" height="260" style="border:1px solid #e4dccd;border-radius:12px;max-width:420px" loading="lazy" title="${embedTitle}"></iframe>`}</textarea>
+    </details>
+  </section>
+)}
+
+<script>
+  import { venueClock } from '../../lib/open-now.mjs';
+  document.querySelectorAll<HTMLElement>('[data-crowd]').forEach((box) => {
+    const buttons = [...box.querySelectorAll<HTMLButtonElement>('[data-crowd-tab]')];
+    if (!buttons.length) return;
+    const show = (id: string) => {
+      buttons.forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.crowdTab === id)));
+      box.querySelectorAll<HTMLElement>('[data-crowd-panel]').forEach((p) => { p.hidden = p.dataset.crowdPanel !== id; });
+    };
+    buttons.forEach((b) => b.addEventListener('click', () => show(b.dataset.crowdTab!)));
+    // Open on the half of the week it is AT THE VENUE right now.
+    const tz = box.dataset.tz;
+    if (tz) {
+      try {
+        const { day } = venueClock(new Date(), tz);
+        if (day >= 5 && buttons.some((b) => b.dataset.crowdTab === 'weekend')) show('weekend');
+      } catch { /* unknown zone in this browser: keep weekdays */ }
+    }
+  });
+</script>
