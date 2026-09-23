@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: new-taipei-shilin-residence-park
-srcHash: 'ce8ab8530928'
+srcHash: 'b2e7c9abd792'
 title: 'Parque de la Residencia de Shilin: Guía de viaje de Nuevo Taipéi (4,7★)'
-description: 'El Parque de la Residencia de Shilin se encuentra en el distrito de Shilin de Taipéi (la dirección figura técnicamente bajo la aldea de Fulin, aunque la mayoría de los visitantes llegan a través de Shilin y no de Nuevo Taipéi propiamente dicho) y abre todos los días de 8:00 a 18:00 con entrada gratuita a los jardines. 4,7★ (1477 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Parque de la Residencia de Shilin se encuentra en el distrito de Shilin de Taipéi (la dirección figura técnicamente bajo la aldea de Fulin, aunque la mayoría de los visitantes llegan a través de Shilin y no de Nuevo Taipéi propiamente dicho) y abre todos los días de 8:00 a 18:00 con entrada gratuita a los jardines. 4,7★ (1488 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Parque de la Residencia de Shilin se encuentra en el distrito de Shilin de Taipéi (la dirección figura técnicamente bajo la aldea de Fulin, aunque la mayoría de los visitantes llegan a través de Shilin y no de Nuevo Taipéi propiamente dicho) y abre todos los días de 8:00 a 18:00 con entrada gratuita a los jardines. El momento más tranquilo es a primera hora de la mañana entre semana, justo después de la apertura, antes de que lleguen los grupos turísticos y las excursiones escolares. Conviene reservar entre 45 y 90 minutos para recorrer los jardines chino y occidental, además de la propia antigua residencia.
 faq:
   - q: ¿Cuánto cuesta entrar al Parque de la Residencia de Shilin?

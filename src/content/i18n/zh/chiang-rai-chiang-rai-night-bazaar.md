@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: chiang-rai-chiang-rai-night-bazaar
-srcHash: '4c96c8da3787'
+srcHash: 'd61d6daa2ed7'
 title: 清莱夜市（Chiang Rai Night Bazaar）旅行指南（4.2★）
-description: 清莱夜市位于旧汽车站后方、Th Prasopsuk 路附近，从威廉区（Wiang district）大多数客栈步行五分钟即可到达。4.2★（15,353条评价）——游客怎么说、营业时间与实用建议，一次看懂。
+description: 清莱夜市位于旧汽车站后方、Th Prasopsuk 路附近，从威廉区（Wiang district）大多数客栈步行五分钟即可到达。4.2★（15,354条评价）——游客怎么说、营业时间与实用建议，一次看懂。
 quickAnswer: 清莱夜市位于旧汽车站后方、Th Prasopsuk 路附近，从威廉区大多数客栈步行五分钟即可到达。夜市每晚6点开到11点，无论工作日还是周末，打烊前的最后一小时（晚上10点到11点）人最少。逛这里安排一到两小时就够：吃上几道摊位小吃，绕一圈摊位，赶上的话再看看有顶棚的舞台表演。
 faq:
   - q: 清莱夜市的营业时间是几点到几点？

@@ -1,55 +1,82 @@
 ---
-title: "Dong Ba Market: Hue Travel Guide (4.2★)"
-description: "Dong Ba Market sits on Trần Hưng Đạo along the Perfume River in Hue, a short walk or cyclo ride from the Citadel. 4.2★ (3,539 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Hue"
-category: "hidden-gem"
-pubDate: "2026-09-23T07:45:03.001Z"
+title: 'Dong Ba Market: Hue Travel Guide (4.2★)'
+description: >-
+  Dong Ba Market sits on Trần Hưng Đạo along the Perfume River in Hue, a short
+  walk or cyclo ride from the Citadel. 4.2★ (3,542 reviews) — what visitors say,
+  hours, and tips.
+country: Vietnam
+region: Hue
+category: hidden-gem
+pubDate: '2026-09-23T07:45:03.001Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Dong_Ba_Market_%28Hue%29_-_Ch%E1%BB%A3_%C4%90%C3%B4ng_Ba_Hu%E1%BA%BF_%28July_2024%29_-_img_02.jpg/1920px-Dong_Ba_Market_%28Hue%29_-_Ch%E1%BB%A3_%C4%90%C3%B4ng_Ba_Hu%E1%BA%BF_%28July_2024%29_-_img_02.jpg"
-  credit: "Photo: Chainwit. / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Dong_Ba_Market_(Hue)_-_Ch%E1%BB%A3_%C4%90%C3%B4ng_Ba_Hu%E1%BA%BF_(July_2024)_-_img_02.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Dong_Ba_Market_%28Hue%29_-_Ch%E1%BB%A3_%C4%90%C3%B4ng_Ba_Hu%E1%BA%BF_%28July_2024%29_-_img_02.jpg/1920px-Dong_Ba_Market_%28Hue%29_-_Ch%E1%BB%A3_%C4%90%C3%B4ng_Ba_Hu%E1%BA%BF_%28July_2024%29_-_img_02.jpg
+  credit: 'Photo: Chainwit. / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Dong_Ba_Market_(Hue)_-_Ch%E1%BB%A3_%C4%90%C3%B4ng_Ba_Hu%E1%BA%BF_(July_2024)_-_img_02.jpg
   focus:
     x: 50
-    y: 30
+    'y': 30
 gallery: []
 place:
-  id: "ChIJ72zuj9WhQTER79-ldHt0UeQ"
-  name: "Dong Ba Market"
-  address: "2 Trần Hưng Đạo, Phú Xuân, Huế, Vietnam"
+  id: ChIJ72zuj9WhQTER79-ldHt0UeQ
+  name: Dong Ba Market
+  address: '2 Trần Hưng Đạo, Phú Xuân, Huế, Vietnam'
   rating: 4.2
-  userRatingsTotal: 3539
-  googleMapsUrl: "https://maps.google.com/?cid=16452058987347959791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3542
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16452058987347959791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 16.4726507
   lng: 107.58848909999999
-  phone: "+84 234 3523 991"
+  phone: +84 234 3523 991
   openingHours:
-    - "Monday: 7:00 AM – 7:00 PM"
-    - "Tuesday: 7:00 AM – 7:00 PM"
-    - "Wednesday: 7:00 AM – 7:00 PM"
-    - "Thursday: 7:00 AM – 7:00 PM"
-    - "Friday: 7:00 AM – 7:00 PM"
-    - "Saturday: 7:00 AM – 7:00 PM"
-    - "Sunday: 7:00 AM – 7:00 PM"
+    - 'Monday: 7:00 AM – 7:00 PM'
+    - 'Tuesday: 7:00 AM – 7:00 PM'
+    - 'Wednesday: 7:00 AM – 7:00 PM'
+    - 'Thursday: 7:00 AM – 7:00 PM'
+    - 'Friday: 7:00 AM – 7:00 PM'
+    - 'Saturday: 7:00 AM – 7:00 PM'
+    - 'Sunday: 7:00 AM – 7:00 PM'
 tags:
-  - "hue"
-  - "local market"
-quickAnswer: "Dong Ba Market sits on Trần Hưng Đạo along the Perfume River in Hue, a short walk or cyclo ride from the Citadel. It's open daily from 7am to 7pm, and it's a working market rather than a tourist stop, so go for the produce, the conical hats, the fabric stalls and the food row rather than a curated experience. Weekday mornings soon after opening are calmer than the midday crush."
+  - hue
+  - local market
+quickAnswer: >-
+  Dong Ba Market sits on Trần Hưng Đạo along the Perfume River in Hue, a short
+  walk or cyclo ride from the Citadel. It's open daily from 7am to 7pm, and it's
+  a working market rather than a tourist stop, so go for the produce, the
+  conical hats, the fabric stalls and the food row rather than a curated
+  experience. Weekday mornings soon after opening are calmer than the midday
+  crush.
 faq:
-  - q: "Where exactly is Dong Ba Market and how do I get there?"
-    a: "It's at 2 Trần Hưng Đạo in Phú Xuân, Hue, on the north bank of the Perfume River near the Citadel. Most visitors walk from the Citadel's Thuong Tu Gate or take a short cyclo or taxi from a riverside hotel."
-  - q: "What are Dong Ba Market's opening hours?"
-    a: "It's open every day of the week from 7:00 AM to 7:00 PM, with no listed variation for weekends."
-  - q: "What should I eat or buy at Dong Ba Market?"
-    a: "Look for bún bò Huế at the cooked-food stalls, steamed rice cakes like bánh bèo and bánh nậm, mè xửng sesame candy to take home, and conical nón lá hats sold outside the souvenir shops."
-  - q: "Is Dong Ba Market touristy or more of a local secret?"
-    a: "It's well-known and sees a steady flow of visitors and tour groups, so it's not an undiscovered spot. It's still a functioning local supply market rather than a curated attraction."
-  - q: "What's nearby if I want to combine the market with other sights?"
-    a: "The Hue Citadel and Imperial City are a short walk across the river, making the market an easy add-on to a Citadel visit either before or after."
+  - q: Where exactly is Dong Ba Market and how do I get there?
+    a: >-
+      It's at 2 Trần Hưng Đạo in Phú Xuân, Hue, on the north bank of the Perfume
+      River near the Citadel. Most visitors walk from the Citadel's Thuong Tu
+      Gate or take a short cyclo or taxi from a riverside hotel.
+  - q: What are Dong Ba Market's opening hours?
+    a: >-
+      It's open every day of the week from 7:00 AM to 7:00 PM, with no listed
+      variation for weekends.
+  - q: What should I eat or buy at Dong Ba Market?
+    a: >-
+      Look for bún bò Huế at the cooked-food stalls, steamed rice cakes like
+      bánh bèo and bánh nậm, mè xửng sesame candy to take home, and conical nón
+      lá hats sold outside the souvenir shops.
+  - q: Is Dong Ba Market touristy or more of a local secret?
+    a: >-
+      It's well-known and sees a steady flow of visitors and tour groups, so
+      it's not an undiscovered spot. It's still a functioning local supply
+      market rather than a curated attraction.
+  - q: What's nearby if I want to combine the market with other sights?
+    a: >-
+      The Hue Citadel and Imperial City are a short walk across the river,
+      making the market an easy add-on to a Citadel visit either before or
+      after.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-23'
 ---
 
 ## What you're walking into

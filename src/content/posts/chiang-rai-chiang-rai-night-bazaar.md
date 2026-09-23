@@ -1,62 +1,88 @@
 ---
-title: "Chiang Rai Night Bazaar: Travel Guide (4.2★)"
-description: "Chiang Rai Night Bazaar sits behind the old bus station near Th Prasopsuk, a five-minute walk from most guesthouses in the Wiang district. 4.2★ (15,353 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Chiang Rai"
-category: "hidden-gem"
-pubDate: "2026-09-23T07:44:03.363Z"
+title: 'Chiang Rai Night Bazaar: Travel Guide (4.2★)'
+description: >-
+  Chiang Rai Night Bazaar sits behind the old bus station near Th Prasopsuk, a
+  five-minute walk from most guesthouses in the Wiang district. 4.2★ (15,354
+  reviews) — what visitors say, hours, and tips.
+country: Thailand
+region: Chiang Rai
+category: hidden-gem
+pubDate: '2026-09-23T07:44:03.363Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Chiang_Rai_-_Night_Bazaar_-_0001.jpg/3840px-Chiang_Rai_-_Night_Bazaar_-_0001.jpg"
-  credit: "Photo: Stefan Fussan / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Chiang_Rai_-_Night_Bazaar_-_0001.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Chiang_Rai_-_Night_Bazaar_-_0001.jpg/3840px-Chiang_Rai_-_Night_Bazaar_-_0001.jpg
+  credit: 'Photo: Stefan Fussan / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Chiang_Rai_-_Night_Bazaar_-_0001.jpg'
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJI1KFhmcG1zARx6hSmnczoCI"
-  name: "Chiang Rai Night Bazaar"
-  address: "WR4M+5M2, Wiang, Mueang Chiang Rai District, Chiang Rai 57000, Thailand"
+  id: ChIJI1KFhmcG1zARx6hSmnczoCI
+  name: Chiang Rai Night Bazaar
+  address: 'WR4M+5M2, Wiang, Mueang Chiang Rai District, Chiang Rai 57000, Thailand'
   rating: 4.2
-  userRatingsTotal: 15353
-  googleMapsUrl: "https://maps.google.com/?cid=2495050782346488007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 15354
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2495050782346488007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 19.9053883
   lng: 99.834141
   openingHours:
-    - "Monday: 6:00 – 11:00 PM"
-    - "Tuesday: 6:00 – 11:00 PM"
-    - "Wednesday: 6:00 – 11:00 PM"
-    - "Thursday: 6:00 – 11:00 PM"
-    - "Friday: 6:00 – 11:00 PM"
-    - "Saturday: 6:00 – 11:00 PM"
-    - "Sunday: 6:00 – 11:00 PM"
+    - 'Monday: 6:00 – 11:00 PM'
+    - 'Tuesday: 6:00 – 11:00 PM'
+    - 'Wednesday: 6:00 – 11:00 PM'
+    - 'Thursday: 6:00 – 11:00 PM'
+    - 'Friday: 6:00 – 11:00 PM'
+    - 'Saturday: 6:00 – 11:00 PM'
+    - 'Sunday: 6:00 – 11:00 PM'
   busyness:
-    updated: 2026-09-23
+    updated: 2026-09-23T00:00:00.000Z
     weekdayQuiet:
       - 22
     weekendQuiet:
       - 22
-    venueId: "ven_49436f7a636e6d5368367852417a3147636d68464b31494a496843"
+    venueId: ven_49436f7a636e6d5368367852417a3147636d68464b31494a496843
 tags:
-  - "chiang rai"
-  - "local market"
-quickAnswer: "Chiang Rai Night Bazaar sits behind the old bus station near Th Prasopsuk, a five-minute walk from most guesthouses in the Wiang district. It opens nightly from 6pm to 11pm, and it's calmest in the last hour before closing, 10-11pm, on both weekdays and weekends. Plan on an hour or two: enough for a couple of food-stall dishes, a lap of the stalls, and maybe the covered stage show if a group is performing."
+  - chiang rai
+  - local market
+quickAnswer: >-
+  Chiang Rai Night Bazaar sits behind the old bus station near Th Prasopsuk, a
+  five-minute walk from most guesthouses in the Wiang district. It opens nightly
+  from 6pm to 11pm, and it's calmest in the last hour before closing, 10-11pm,
+  on both weekdays and weekends. Plan on an hour or two: enough for a couple of
+  food-stall dishes, a lap of the stalls, and maybe the covered stage show if a
+  group is performing.
 faq:
-  - q: "What are the opening hours for Chiang Rai Night Bazaar?"
-    a: "It's open every night of the week, 6:00pm to 11:00pm, with no variation by day."
-  - q: "When is the quietest time to visit?"
-    a: "Both weekdays and weekends are calmest between 10pm and 11pm, right before closing. Early evening, especially around dinner time, draws the biggest crowds."
-  - q: "How long should I spend at the market?"
-    a: "An hour or two is enough for most visitors: time to eat a couple of dishes, browse the stalls, and catch part of the live stage performance if one's running."
-  - q: "Is the market walkable from central Chiang Rai?"
-    a: "Yes, it sits near the old bus terminal in the Wiang district, within walking distance of most guesthouses and hotels in central Chiang Rai. A short tuk-tuk or songthaew ride works if you're staying further out."
-  - q: "Is there live entertainment at the market?"
-    a: "Most evenings there's a free live performance, music or traditional northern Thai dance, on a central stage, which is worth timing your visit around if you want a good seat."
+  - q: What are the opening hours for Chiang Rai Night Bazaar?
+    a: >-
+      It's open every night of the week, 6:00pm to 11:00pm, with no variation by
+      day.
+  - q: When is the quietest time to visit?
+    a: >-
+      Both weekdays and weekends are calmest between 10pm and 11pm, right before
+      closing. Early evening, especially around dinner time, draws the biggest
+      crowds.
+  - q: How long should I spend at the market?
+    a: >-
+      An hour or two is enough for most visitors: time to eat a couple of
+      dishes, browse the stalls, and catch part of the live stage performance if
+      one's running.
+  - q: Is the market walkable from central Chiang Rai?
+    a: >-
+      Yes, it sits near the old bus terminal in the Wiang district, within
+      walking distance of most guesthouses and hotels in central Chiang Rai. A
+      short tuk-tuk or songthaew ride works if you're staying further out.
+  - q: Is there live entertainment at the market?
+    a: >-
+      Most evenings there's a free live performance, music or traditional
+      northern Thai dance, on a central stage, which is worth timing your visit
+      around if you want a good seat.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-23'
 ---
 
 You come off Th Prasopsuk into a grid of covered stalls lit by strip lighting and hanging bulbs, the kind of layout that fits neatly into an evening between dinner and bed rather than swallowing a whole night. Chiang Rai Night Bazaar is small by regional standards, nothing like the sprawl of Chiang Mai's night markets, and that's the point: you can walk the whole thing twice and still find your way back to the noodle stall you liked.

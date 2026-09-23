@@ -1,41 +1,48 @@
 ---
-title: "Central Market: Kuala Lumpur Travel Guide (4.4★)"
-description: "Central Market sits at the edge of Kuala Lumpur City Centre, a two-storey art deco building painted pale blue that's been selling crafts and souvenirs since the 1980s. 4.4★ (62,397 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Kuala Lumpur"
-category: "hidden-gem"
-pubDate: "2026-09-23T08:04:15.802Z"
+title: 'Central Market: Kuala Lumpur Travel Guide (4.4★)'
+description: >-
+  Central Market sits at the edge of Kuala Lumpur City Centre, a two-storey art
+  deco building painted pale blue that's been selling crafts and souvenirs since
+  the 1980s. 4.4★ (62,385 reviews) — what visitors say, hours, and tips.
+country: Malaysia
+region: Kuala Lumpur
+category: hidden-gem
+pubDate: '2026-09-23T08:04:15.802Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/4/4a/Central_Market%2C_Kuala_Lumpur.jpg"
-  credit: "Photo: Wee Hong / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Central_Market,_Kuala_Lumpur.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/4a/Central_Market%2C_Kuala_Lumpur.jpg
+  credit: 'Photo: Wee Hong / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Central_Market,_Kuala_Lumpur.jpg'
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJVxLq2dFJzDERAmCinEoNs_w"
-  name: "Central Market"
-  address: "Kuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia"
+  id: ChIJVxLq2dFJzDERAmCinEoNs_w
+  name: Central Market
+  address: >-
+    Kuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala
+    Lumpur, Malaysia
   rating: 4.4
-  userRatingsTotal: 62397
-  googleMapsUrl: "https://maps.google.com/?cid=18208912332495675394&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 62385
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=18208912332495675394&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 3.1452635000000004
   lng: 101.69541579999999
-  phone: "+60 1-300-22-8688"
+  phone: +60 1-300-22-8688
   openingHours:
-    - "Monday: 10:00 AM – 10:00 PM"
-    - "Tuesday: 10:00 AM – 10:00 PM"
-    - "Wednesday: 10:00 AM – 10:00 PM"
-    - "Thursday: 10:00 AM – 10:00 PM"
-    - "Friday: 10:00 AM – 10:00 PM"
-    - "Saturday: 10:00 AM – 10:00 PM"
-    - "Sunday: 10:00 AM – 10:00 PM"
+    - 'Monday: 10:00 AM – 10:00 PM'
+    - 'Tuesday: 10:00 AM – 10:00 PM'
+    - 'Wednesday: 10:00 AM – 10:00 PM'
+    - 'Thursday: 10:00 AM – 10:00 PM'
+    - 'Friday: 10:00 AM – 10:00 PM'
+    - 'Saturday: 10:00 AM – 10:00 PM'
+    - 'Sunday: 10:00 AM – 10:00 PM'
   busyness:
-    updated: 2026-09-23
+    updated: 2026-09-23T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 20
@@ -49,24 +56,45 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_775f734e6f456e69436d415245447a4a466432714c78564a496843"
+    venueId: ven_775f734e6f456e69436d415245447a4a466432714c78564a496843
 tags:
-  - "kuala lumpur"
-  - "local market"
-quickAnswer: "Central Market sits at the edge of Kuala Lumpur City Centre, a two-storey art deco building painted pale blue that's been selling crafts and souvenirs since the 1980s. It's busiest on weekends between 12pm and 8pm, so weekday visits (any time in its 10am–10pm hours) are calmer. Give it an hour to browse the stalls, more if you're eating or catching a show on the outdoor stage."
+  - kuala lumpur
+  - local market
+quickAnswer: >-
+  Central Market sits at the edge of Kuala Lumpur City Centre, a two-storey art
+  deco building painted pale blue that's been selling crafts and souvenirs since
+  the 1980s. It's busiest on weekends between 12pm and 8pm, so weekday visits
+  (any time in its 10am–10pm hours) are calmer. Give it an hour to browse the
+  stalls, more if you're eating or catching a show on the outdoor stage.
 faq:
-  - q: "How do I get to Central Market in Kuala Lumpur?"
-    a: "Take the LRT to Pasar Seni station, which is named after the market and sits right outside it. It's also walkable from Chinatown's Petaling Street, about five minutes north."
-  - q: "What's the best time to visit Central Market to avoid crowds?"
-    a: "Weekdays are calmer across the full 10am–10pm opening hours. Weekends between 12pm and 8pm are the busiest stretch, so aim for right at opening or after 8pm if you can only go then."
-  - q: "How long should I spend at Central Market?"
-    a: "An hour covers a solid browse of the ground floor stalls. Add more time if you want to explore the quieter upper floors, eat at one of the food stalls, or catch a performance on the outdoor stage."
-  - q: "Is Central Market a food market or a shopping market?"
-    a: "It's primarily a crafts and souvenir mall, not a wet market, despite occupying a former wet market building. Food stalls and cafes are scattered throughout rather than being the main draw."
-  - q: "What's nearby Central Market worth combining into the same trip?"
-    a: "Petaling Street (Chinatown) is a five-minute walk north, the Klang River walkway is just south, and Sri Mahamariamman Temple and Masjid Jamek are both within easy walking distance."
+  - q: How do I get to Central Market in Kuala Lumpur?
+    a: >-
+      Take the LRT to Pasar Seni station, which is named after the market and
+      sits right outside it. It's also walkable from Chinatown's Petaling
+      Street, about five minutes north.
+  - q: What's the best time to visit Central Market to avoid crowds?
+    a: >-
+      Weekdays are calmer across the full 10am–10pm opening hours. Weekends
+      between 12pm and 8pm are the busiest stretch, so aim for right at opening
+      or after 8pm if you can only go then.
+  - q: How long should I spend at Central Market?
+    a: >-
+      An hour covers a solid browse of the ground floor stalls. Add more time if
+      you want to explore the quieter upper floors, eat at one of the food
+      stalls, or catch a performance on the outdoor stage.
+  - q: Is Central Market a food market or a shopping market?
+    a: >-
+      It's primarily a crafts and souvenir mall, not a wet market, despite
+      occupying a former wet market building. Food stalls and cafes are
+      scattered throughout rather than being the main draw.
+  - q: What's nearby Central Market worth combining into the same trip?
+    a: >-
+      Petaling Street (Chinatown) is a five-minute walk north, the Klang River
+      walkway is just south, and Sri Mahamariamman Temple and Masjid Jamek are
+      both within easy walking distance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-23'
 ---
 
 ## What you're actually walking into

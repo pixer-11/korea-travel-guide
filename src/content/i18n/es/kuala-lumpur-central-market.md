@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: kuala-lumpur-central-market
-srcHash: '9b8f45fed03c'
+srcHash: '8b59c3a09286'
 title: 'Central Market: guía de viaje de Kuala Lumpur (4,4★)'
-description: 'El Central Market se encuentra en el límite del centro de Kuala Lumpur: un edificio art déco de dos plantas, pintado en azul pálido, que vende artesanías y recuerdos desde la década de 1980. 4,4★ (62.397 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Central Market se encuentra en el límite del centro de Kuala Lumpur: un edificio art déco de dos plantas, pintado en azul pálido, que vende artesanías y recuerdos desde la década de 1980. 4,4★ (62.385 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Central Market se encuentra en el límite del centro de Kuala Lumpur: un edificio art déco de dos plantas, pintado en azul pálido, que vende artesanías y recuerdos desde la década de 1980. Los fines de semana, entre las 12:00 y las 20:00, es cuando más gente hay, así que las visitas entre semana (a cualquier hora dentro de su horario de 10:00 a 22:00) resultan más tranquilas. Basta una hora para recorrer los puestos, o más si se come algo o se asiste a algún espectáculo en el escenario al aire libre.'
 faq:
   - q: ¿Cómo se llega al Central Market en Kuala Lumpur?

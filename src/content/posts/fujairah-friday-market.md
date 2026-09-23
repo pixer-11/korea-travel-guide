@@ -1,59 +1,88 @@
 ---
-title: "Friday Market: Fujairah Travel Guide (4.3★)"
-description: "Friday Market in Fujairah (also called Souq Al Jumʻah) sits along the Al Dhaid road in the mountains between Fujairah and Masafi, and despite the name it runs daily, roughly 7am to midnight on most days and until 1am Thursday through Saturday. 4.3★ (6,189 reviews) — what visitors say, hours, and tips."
-country: "United Arab Emirates"
-region: "Fujairah"
-category: "hidden-gem"
-pubDate: "2026-09-23T07:45:55.211Z"
+title: 'Friday Market: Fujairah Travel Guide (4.3★)'
+description: >-
+  Friday Market in Fujairah (also called Souq Al Jumʻah) sits along the Al Dhaid
+  road in the mountains between Fujairah and Masafi, and despite the name it
+  runs daily, roughly 7am to midnight on most days and until 1am Thursday
+  through Saturday. 4.3★ (6,191 reviews) — what visitors say, hours, and tips.
+country: United Arab Emirates
+region: Fujairah
+category: hidden-gem
+pubDate: '2026-09-23T07:45:55.211Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/4/47/Friday_market_-_panoramio.jpg"
-  credit: "Photo: log-011 / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Friday_market_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/47/Friday_market_-_panoramio.jpg
+  credit: 'Photo: log-011 / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Friday_market_-_panoramio.jpg'
+  via: act
   focus:
     x: 40
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Masafi_Friday_Market.jpg/3840px-Masafi_Friday_Market.jpg"
-    credit: "Photo: Alexandermcnabb / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Masafi_Friday_Market.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Masafi_Friday_Market.jpg/3840px-Masafi_Friday_Market.jpg
+    credit: 'Photo: Alexandermcnabb / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Masafi_Friday_Market.jpg'
 place:
-  id: "ChIJS6Bzjyuy9T4Rad9KSqkU44k"
-  name: "Friday Market"
-  address: "شارع الذيد - Souq Al Jumʻah - Fujairah - United Arab Emirates"
+  id: ChIJS6Bzjyuy9T4Rad9KSqkU44k
+  name: Friday Market
+  address: شارع الذيد - Souq Al Jumʻah - Fujairah - United Arab Emirates
   rating: 4.3
-  userRatingsTotal: 6189
-  googleMapsUrl: "https://maps.google.com/?cid=9935807920237895529&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6191
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9935807920237895529&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.2917469
   lng: 56.115679
   openingHours:
-    - "Monday: 7:00 AM – 12:00 AM"
-    - "Tuesday: 7:00 AM – 12:00 AM"
-    - "Wednesday: 7:00 AM – 12:00 AM"
-    - "Thursday: 7:00 AM – 1:00 AM"
-    - "Friday: 7:00 AM – 1:00 AM"
-    - "Saturday: 7:00 AM – 1:00 AM"
-    - "Sunday: 7:00 AM – 12:00 AM"
+    - 'Monday: 7:00 AM – 12:00 AM'
+    - 'Tuesday: 7:00 AM – 12:00 AM'
+    - 'Wednesday: 7:00 AM – 12:00 AM'
+    - 'Thursday: 7:00 AM – 1:00 AM'
+    - 'Friday: 7:00 AM – 1:00 AM'
+    - 'Saturday: 7:00 AM – 1:00 AM'
+    - 'Sunday: 7:00 AM – 12:00 AM'
 tags:
-  - "fujairah"
-  - "local market"
-quickAnswer: "Friday Market in Fujairah (also called Souq Al Jumʻah) sits along the Al Dhaid road in the mountains between Fujairah and Masafi, and despite the name it runs daily, roughly 7am to midnight on most days and until 1am Thursday through Saturday. It's a strip of roadside stalls piled with pottery, rugs, fresh produce and dried fruit, best tackled in the cooler morning hours or after sunset rather than midday. Expect crowds on weekend evenings; this is a well-known stop on the Fujairah–Dubai route, not a quiet local secret."
+  - fujairah
+  - local market
+quickAnswer: >-
+  Friday Market in Fujairah (also called Souq Al Jumʻah) sits along the Al Dhaid
+  road in the mountains between Fujairah and Masafi, and despite the name it
+  runs daily, roughly 7am to midnight on most days and until 1am Thursday
+  through Saturday. It's a strip of roadside stalls piled with pottery, rugs,
+  fresh produce and dried fruit, best tackled in the cooler morning hours or
+  after sunset rather than midday. Expect crowds on weekend evenings; this is a
+  well-known stop on the Fujairah–Dubai route, not a quiet local secret.
 faq:
-  - q: "Is Friday Market in Fujairah only open on Fridays?"
-    a: "No, despite the name it's open every day, roughly 7am to midnight, with slightly later closing (1am) on Thursday, Friday and Saturday nights."
-  - q: "How do I get to Friday Market without a tour?"
-    a: "Drive or take a taxi along the road connecting Fujairah city to Masafi; the stalls line both sides of the highway in clusters, and parking is on gravel shoulders in front of each section."
-  - q: "What's the best time to visit to avoid crowds?"
-    a: "It's a very popular stop on the Dubai-to-east-coast route, so weekend evenings (especially Thursday and Friday) draw the biggest crowds. An early weekday morning shortly after the 7am opening is calmer."
-  - q: "What should I buy at Friday Market?"
-    a: "Pottery and terracotta are the signature items, alongside dates, dried limes, spices and rugs. Bring padding or blankets if you're transporting large ceramics by car."
-  - q: "Is bargaining expected here?"
-    a: "Yes, especially for pottery and carpets. Initial prices are opening offers, cash negotiations move faster than card payments, and buying multiple items from one stall often gets a better combined price."
+  - q: Is Friday Market in Fujairah only open on Fridays?
+    a: >-
+      No, despite the name it's open every day, roughly 7am to midnight, with
+      slightly later closing (1am) on Thursday, Friday and Saturday nights.
+  - q: How do I get to Friday Market without a tour?
+    a: >-
+      Drive or take a taxi along the road connecting Fujairah city to Masafi;
+      the stalls line both sides of the highway in clusters, and parking is on
+      gravel shoulders in front of each section.
+  - q: What's the best time to visit to avoid crowds?
+    a: >-
+      It's a very popular stop on the Dubai-to-east-coast route, so weekend
+      evenings (especially Thursday and Friday) draw the biggest crowds. An
+      early weekday morning shortly after the 7am opening is calmer.
+  - q: What should I buy at Friday Market?
+    a: >-
+      Pottery and terracotta are the signature items, alongside dates, dried
+      limes, spices and rugs. Bring padding or blankets if you're transporting
+      large ceramics by car.
+  - q: Is bargaining expected here?
+    a: >-
+      Yes, especially for pottery and carpets. Initial prices are opening
+      offers, cash negotiations move faster than card payments, and buying
+      multiple items from one stall often gets a better combined price.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-23'
 ---
 
 ## What you're actually walking into

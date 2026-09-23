@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: hue-dong-ba-market
-srcHash: '76331d4c0c45'
+srcHash: '387f82247f99'
 title: 'Mercado Dong Ba: guía de viaje de Hue (4,2★)'
-description: 'El mercado Dong Ba se encuentra en la calle Trần Hưng Đạo, junto al río Perfume en Hue, a poca distancia a pie o en cyclo de la Ciudadela. Valoración de 4,2★ (3.539 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El mercado Dong Ba se encuentra en la calle Trần Hưng Đạo, junto al río Perfume en Hue, a poca distancia a pie o en cyclo de la Ciudadela. Valoración de 4,2★ (3.542 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El mercado Dong Ba se encuentra en la calle Trần Hưng Đạo, junto al río Perfume en Hue, a poca distancia a pie o en cyclo de la Ciudadela. Abre todos los días de 7:00 a 19:00 y es un mercado de abastos en pleno funcionamiento, no una atracción pensada para turistas, así que conviene ir a ver los puestos de productos frescos, los sombreros cónicos, las telas y la zona de comida más que a buscar una experiencia cuidada. Las mañanas entre semana, poco después de la apertura, son más tranquilas que el ajetreo del mediodía.
 faq:
   - q: ¿Dónde está exactamente el mercado Dong Ba y cómo se llega?

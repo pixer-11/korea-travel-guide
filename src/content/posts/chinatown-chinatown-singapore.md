@@ -1,56 +1,82 @@
 ---
 title: 'Chinatown Singapore: Travel Guide (4.4★)'
-description: Chinatown Singapore sits at 75 Pagoda St in the heart of Chinatown, a short walk or one MRT stop from the bay's skyline. 4.4★ (8,364 reviews) — what visitors say, hours, and tips.
-country: "Singapore"
+description: >-
+  Chinatown Singapore sits at 75 Pagoda St in the heart of Chinatown, a short
+  walk or one MRT stop from the bay's skyline. 4.4★ (8,365 reviews) — what
+  visitors say, hours, and tips.
+country: Singapore
 region: Chinatown
-category: "hidden-gem"
-pubDate: "2026-09-23T07:50:45.589Z"
+category: hidden-gem
+pubDate: '2026-09-23T07:50:45.589Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Chinese_New_Year_decorations_in_Chinatown%2C_Singapore%2C_20240122_0852_2963.jpg/3840px-Chinese_New_Year_decorations_in_Chinatown%2C_Singapore%2C_20240122_0852_2963.jpg"
-  credit: "Photo: Jakub Hałun / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Chinese_New_Year_decorations_in_Chinatown,_Singapore,_20240122_0852_2963.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Chinese_New_Year_decorations_in_Chinatown%2C_Singapore%2C_20240122_0852_2963.jpg/3840px-Chinese_New_Year_decorations_in_Chinatown%2C_Singapore%2C_20240122_0852_2963.jpg
+  credit: 'Photo: Jakub Hałun / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Chinese_New_Year_decorations_in_Chinatown,_Singapore,_20240122_0852_2963.jpg
+  via: act
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJQ37YS3MZ2jEReqrALU2hEew"
-  name: "Chinatown Singapore"
-  address: "75 Pagoda St, Singapore 059234"
+  id: ChIJQ37YS3MZ2jEReqrALU2hEew
+  name: Chinatown Singapore
+  address: '75 Pagoda St, Singapore 059234'
   rating: 4.4
-  userRatingsTotal: 8364
-  googleMapsUrl: "https://maps.google.com/?cid=17010554620407229050&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 8365
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17010554620407229050&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2834283
   lng: 103.8444521
-  phone: "+65 6221 5115"
+  phone: +65 6221 5115
   openingHours:
-    - "Monday: 10:00 AM – 10:00 PM"
-    - "Tuesday: 10:00 AM – 10:00 PM"
-    - "Wednesday: 10:00 AM – 10:00 PM"
-    - "Thursday: 10:00 AM – 10:00 PM"
-    - "Friday: 10:00 AM – 10:00 PM"
-    - "Saturday: 10:00 AM – 10:00 PM"
-    - "Sunday: 10:00 AM – 10:00 PM"
+    - 'Monday: 10:00 AM – 10:00 PM'
+    - 'Tuesday: 10:00 AM – 10:00 PM'
+    - 'Wednesday: 10:00 AM – 10:00 PM'
+    - 'Thursday: 10:00 AM – 10:00 PM'
+    - 'Friday: 10:00 AM – 10:00 PM'
+    - 'Saturday: 10:00 AM – 10:00 PM'
+    - 'Sunday: 10:00 AM – 10:00 PM'
 tags:
-  - "marina bay"
-  - "local market"
-quickAnswer: Chinatown Singapore sits at 75 Pagoda St in the heart of Chinatown, a short walk or one MRT stop from the bay's skyline. It's a well-visited market district, not a secret, so the move is timing your visit around the 10am–10pm hours rather than expecting empty lanes. Come for the temples and street stalls on Pagoda, Trengganu and Smith Streets, and pair it with an evening walk back to Marina Bay for the skyline.
+  - marina bay
+  - local market
+quickAnswer: >-
+  Chinatown Singapore sits at 75 Pagoda St in the heart of Chinatown, a short
+  walk or one MRT stop from the bay's skyline. It's a well-visited market
+  district, not a secret, so the move is timing your visit around the 10am–10pm
+  hours rather than expecting empty lanes. Come for the temples and street
+  stalls on Pagoda, Trengganu and Smith Streets, and pair it with an evening
+  walk back to Marina Bay for the skyline.
 faq:
-  - q: "Where exactly is Chinatown Singapore in relation to Marina Bay?"
-    a: "It's at 75 Pagoda St, about a 20-minute walk or short taxi ride from Marina Bay Sands and the waterfront, and one stop on the MRT."
-  - q: "What's the best time to avoid crowds?"
-    a: "Weekday mornings shortly after the 10am opening are calmest; weekends and evenings draw the heaviest foot traffic, especially on Pagoda and Trengganu Streets."
-  - q: "How do I get there by MRT?"
-    a: "Take the Downtown or North East Line to Chinatown MRT station and use Exit A for Pagoda Street, or Telok Ayer station on the Downtown Line for Thian Hock Keng and Club Street."
-  - q: "How much time should I plan for a visit?"
-    a: "Budget two to three hours for the temples, market streets and a hawker meal; half a day if you're adding Ann Siang Hill and Club Street."
-  - q: "What should I eat there?"
-    a: "Head to Chinatown Complex Market and Food Centre on Smith Street, a hawker hall with dozens of stalls, rather than the tourist restaurants on the main street."
+  - q: Where exactly is Chinatown Singapore in relation to Marina Bay?
+    a: >-
+      It's at 75 Pagoda St, about a 20-minute walk or short taxi ride from
+      Marina Bay Sands and the waterfront, and one stop on the MRT.
+  - q: What's the best time to avoid crowds?
+    a: >-
+      Weekday mornings shortly after the 10am opening are calmest; weekends and
+      evenings draw the heaviest foot traffic, especially on Pagoda and
+      Trengganu Streets.
+  - q: How do I get there by MRT?
+    a: >-
+      Take the Downtown or North East Line to Chinatown MRT station and use Exit
+      A for Pagoda Street, or Telok Ayer station on the Downtown Line for Thian
+      Hock Keng and Club Street.
+  - q: How much time should I plan for a visit?
+    a: >-
+      Budget two to three hours for the temples, market streets and a hawker
+      meal; half a day if you're adding Ann Siang Hill and Club Street.
+  - q: What should I eat there?
+    a: >-
+      Head to Chinatown Complex Market and Food Centre on Smith Street, a hawker
+      hall with dozens of stalls, rather than the tourist restaurants on the
+      main street.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-23'
 ---
 
 ## What you're actually walking into

@@ -1,46 +1,75 @@
 ---
-title: "Ben Thanh Market: Ho Chi Minh City Travel Guide (4.0★)"
-description: "Ben Thanh Market sits at the center of District 1 in Ho Chi Minh City, right where Le Loi, Ham Nghi and Tran Hung Dao streets converge, and it's one of the most-reviewed markets in the country, not a quiet find. 4.0★ (86,835 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Ho Chi Minh City"
-category: "hidden-gem"
-pubDate: "2026-09-23T08:05:04.487Z"
+title: 'Ben Thanh Market: Ho Chi Minh City Travel Guide (4.0★)'
+description: >-
+  Ben Thanh Market sits at the center of District 1 in Ho Chi Minh City, right
+  where Le Loi, Ham Nghi and Tran Hung Dao streets converge, and it's one of the
+  most-reviewed markets in the country, not a quiet find. 4.0★ (86,858 reviews)
+  — what visitors say, hours, and tips.
+country: Vietnam
+region: Ho Chi Minh City
+category: hidden-gem
+pubDate: '2026-09-23T08:05:04.487Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ben_Thanh%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG/1920px-Ben_Thanh%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG"
-  credit: "Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ben_Thanh,_Ciudad_Ho_Chi_Minh,_Vietnam,_2013-08-14,_DD_01.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ben_Thanh%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG/1920px-Ben_Thanh%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG
+  credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Ben_Thanh,_Ciudad_Ho_Chi_Minh,_Vietnam,_2013-08-14,_DD_01.JPG
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery: []
 place:
-  id: "ChIJTeYpMT8vdTERMH8sUnkta40"
-  name: "Ben Thanh Market"
-  address: "Ben Thanh, Ho Chi Minh, Vietnam"
+  id: ChIJTeYpMT8vdTERMH8sUnkta40
+  name: Ben Thanh Market
+  address: 'Ben Thanh, Ho Chi Minh, Vietnam'
   rating: 4
-  userRatingsTotal: 86835
-  googleMapsUrl: "https://maps.google.com/?cid=10190288580948819760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 86858
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10190288580948819760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.772516800000002
   lng: 106.6980208
 tags:
-  - "ho chi minh city"
-  - "local market"
-quickAnswer: "Ben Thanh Market sits at the center of District 1 in Ho Chi Minh City, right where Le Loi, Ham Nghi and Tran Hung Dao streets converge, and it's one of the most-reviewed markets in the country, not a quiet find. Go early on a weekday morning to dodge the worst crush of tour groups, and expect to bargain hard on anything without a price tag."
+  - ho chi minh city
+  - local market
+quickAnswer: >-
+  Ben Thanh Market sits at the center of District 1 in Ho Chi Minh City, right
+  where Le Loi, Ham Nghi and Tran Hung Dao streets converge, and it's one of the
+  most-reviewed markets in the country, not a quiet find. Go early on a weekday
+  morning to dodge the worst crush of tour groups, and expect to bargain hard on
+  anything without a price tag.
 faq:
-  - q: "How do I get to Ben Thanh Market?"
-    a: "It's in District 1, Ho Chi Minh City, at the intersection of Le Loi, Ham Nghi and Tran Hung Dao streets, right by the Quach Thi Trang roundabout. Taxis and Grab rides drop off directly at the clock tower entrance on the south side."
-  - q: "What's the best time to visit Ben Thanh Market?"
-    a: "Go as close to opening as possible on a weekday to beat the tour bus groups that arrive by midday. Afternoons and weekends are noticeably more crowded in the narrow aisles."
-  - q: "How long should I spend at Ben Thanh Market?"
-    a: "A quick walkthrough takes about an hour. Budget closer to two if you want to eat at the food stalls and actually compare prices before buying souvenirs."
-  - q: "Do I need to bargain at Ben Thanh Market?"
-    a: "Yes, for clothing, souvenirs and handicrafts, prices are rarely fixed and vendors expect negotiation. Food stalls and posted-price items are the exception."
-  - q: "What's near Ben Thanh Market?"
-    a: "The Bitexco Financial Tower and Nguyen Hue walking street are both within easy walking distance, making Ben Thanh a natural stop before or after either."
+  - q: How do I get to Ben Thanh Market?
+    a: >-
+      It's in District 1, Ho Chi Minh City, at the intersection of Le Loi, Ham
+      Nghi and Tran Hung Dao streets, right by the Quach Thi Trang roundabout.
+      Taxis and Grab rides drop off directly at the clock tower entrance on the
+      south side.
+  - q: What's the best time to visit Ben Thanh Market?
+    a: >-
+      Go as close to opening as possible on a weekday to beat the tour bus
+      groups that arrive by midday. Afternoons and weekends are noticeably more
+      crowded in the narrow aisles.
+  - q: How long should I spend at Ben Thanh Market?
+    a: >-
+      A quick walkthrough takes about an hour. Budget closer to two if you want
+      to eat at the food stalls and actually compare prices before buying
+      souvenirs.
+  - q: Do I need to bargain at Ben Thanh Market?
+    a: >-
+      Yes, for clothing, souvenirs and handicrafts, prices are rarely fixed and
+      vendors expect negotiation. Food stalls and posted-price items are the
+      exception.
+  - q: What's near Ben Thanh Market?
+    a: >-
+      The Bitexco Financial Tower and Nguyen Hue walking street are both within
+      easy walking distance, making Ben Thanh a natural stop before or after
+      either.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-23'
 ---
 
 The building itself gives it away before you're inside: a squat, French-colonial-era structure with a clock tower over the main southern entrance, facing what locals still call Quach Thi Trang roundabout. Stalls run in tight rows under a corrugated roof, packed so close that two people can barely pass without turning sideways.

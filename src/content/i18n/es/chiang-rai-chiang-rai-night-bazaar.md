@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: chiang-rai-chiang-rai-night-bazaar
-srcHash: '4c96c8da3787'
+srcHash: 'd61d6daa2ed7'
 title: 'Bazar Nocturno de Chiang Rai: Guía de Viaje (4,2★)'
-description: 'El Bazar Nocturno de Chiang Rai se encuentra detrás de la antigua estación de autobuses, cerca de Th Prasopsuk, a cinco minutos a pie de la mayoría de los hospedajes del distrito de Wiang. 4,2★ (15.353 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Bazar Nocturno de Chiang Rai se encuentra detrás de la antigua estación de autobuses, cerca de Th Prasopsuk, a cinco minutos a pie de la mayoría de los hospedajes del distrito de Wiang. 4,2★ (15.354 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Bazar Nocturno de Chiang Rai se encuentra detrás de la antigua estación de autobuses, cerca de Th Prasopsuk, a cinco minutos a pie de la mayoría de los hospedajes del distrito de Wiang. Abre todas las noches de 18:00 a 23:00, y el momento más tranquilo es la última hora antes del cierre, entre las 22:00 y las 23:00, tanto entre semana como los fines de semana. Conviene reservar una hora o dos: suficiente para probar un par de platos en los puestos de comida, dar una vuelta por el mercado y, si algún grupo está actuando, quizá ver el espectáculo del escenario cubierto.'
 faq:
   - q: ¿Cuál es el horario del Bazar Nocturno de Chiang Rai?

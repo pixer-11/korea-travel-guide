@@ -1,44 +1,50 @@
 ---
-title: "Mercado de San Miguel: Madrid Travel Guide (4.4★)"
-description: "Mercado de San Miguel sits on Plaza de San Miguel in Madrid's Centro district, a two-minute walk from Plaza Mayor. 4.4★ (164,609 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "Madrid"
-category: "hidden-gem"
-pubDate: "2026-09-23T07:51:36.122Z"
+title: 'Mercado de San Miguel: Madrid Travel Guide (4.4★)'
+description: >-
+  Mercado de San Miguel sits on Plaza de San Miguel in Madrid's Centro district,
+  a two-minute walk from Plaza Mayor. 4.4★ (164,644 reviews) — what visitors
+  say, hours, and tips.
+country: Spain
+region: Madrid
+category: hidden-gem
+pubDate: '2026-09-23T07:51:36.122Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mercado_de_San_Miguel_2025.jpg/1920px-Mercado_de_San_Miguel_2025.jpg"
-  credit: "Photo: Fernando / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Mercado_de_San_Miguel_2025.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mercado_de_San_Miguel_2025.jpg/1920px-Mercado_de_San_Miguel_2025.jpg
+  credit: 'Photo: Fernando / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Mercado_de_San_Miguel_2025.jpg'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mercado_de_San_Miguel_-_Madrid.png/3840px-Mercado_de_San_Miguel_-_Madrid.png"
-    credit: "Photo: RL0919 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Mercado_de_San_Miguel_-_Madrid.png"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mercado_de_San_Miguel_-_Madrid.png/3840px-Mercado_de_San_Miguel_-_Madrid.png
+    credit: 'Photo: RL0919 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Mercado_de_San_Miguel_-_Madrid.png'
 place:
-  id: "ChIJLW4ZIXkoQg0R6JDRTdPmLxY"
-  name: "Mercado de San Miguel"
-  address: "Pl. de San Miguel, s/n, Centro, 28005 Madrid, Spain"
+  id: ChIJLW4ZIXkoQg0R6JDRTdPmLxY
+  name: Mercado de San Miguel
+  address: 'Pl. de San Miguel, s/n, Centro, 28005 Madrid, Spain'
   rating: 4.4
-  userRatingsTotal: 164609
-  googleMapsUrl: "https://maps.google.com/?cid=1598750187957883112&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 164644
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1598750187957883112&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.4153794
   lng: -3.7089697
-  phone: "+34 915 42 49 36"
+  phone: +34 915 42 49 36
   openingHours:
-    - "Monday: 10:00 AM – 12:00 AM"
-    - "Tuesday: 10:00 AM – 12:00 AM"
-    - "Wednesday: 10:00 AM – 12:00 AM"
-    - "Thursday: 10:00 AM – 12:00 AM"
-    - "Friday: 10:00 AM – 1:00 AM"
-    - "Saturday: 10:00 AM – 1:00 AM"
-    - "Sunday: 10:00 AM – 12:00 AM"
+    - 'Monday: 10:00 AM – 12:00 AM'
+    - 'Tuesday: 10:00 AM – 12:00 AM'
+    - 'Wednesday: 10:00 AM – 12:00 AM'
+    - 'Thursday: 10:00 AM – 12:00 AM'
+    - 'Friday: 10:00 AM – 1:00 AM'
+    - 'Saturday: 10:00 AM – 1:00 AM'
+    - 'Sunday: 10:00 AM – 12:00 AM'
   busyness:
-    updated: 2026-09-23
+    updated: 2026-09-23T00:00:00.000Z
     weekdayQuiet:
       - 10
     weekendQuiet:
@@ -55,24 +61,45 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_59784c6d50645452444a36523067516f6b58495a34574c4a496843"
+    venueId: ven_59784c6d50645452444a36523067516f6b58495a34574c4a496843
 tags:
-  - "madrid"
-  - "local market"
-quickAnswer: "Mercado de San Miguel sits on Plaza de San Miguel in Madrid's Centro district, a two-minute walk from Plaza Mayor. With over 164,000 reviews and a very-popular status, it's busiest from noon to 11pm on weekends, so the calm window is right at opening, 10am to 11am. Go then for a slow lap of the iron-and-glass hall before the crowds arrive."
+  - madrid
+  - local market
+quickAnswer: >-
+  Mercado de San Miguel sits on Plaza de San Miguel in Madrid's Centro district,
+  a two-minute walk from Plaza Mayor. With over 164,000 reviews and a
+  very-popular status, it's busiest from noon to 11pm on weekends, so the calm
+  window is right at opening, 10am to 11am. Go then for a slow lap of the
+  iron-and-glass hall before the crowds arrive.
 faq:
-  - q: "Where exactly is Mercado de San Miguel and what's the nearest metro?"
-    a: "It's on Plaza de San Miguel in Madrid's Centro district, right beside Plaza Mayor. Sol (Lines 1, 2, 3) and Ópera (Lines 2, 5, R) are both about a 6-8 minute walk."
-  - q: "When is the quietest time to visit?"
-    a: "Right at opening, 10am to 11am, on both weekdays and weekends. Avoid arriving after 12pm on weekends, when the market stays packed until around 11pm."
-  - q: "How long should I plan to spend there?"
-    a: "Most visits run 45 to 90 minutes, enough time to work through three or four counters at a standing table. It's built for grazing rather than a single sit-down meal."
-  - q: "Is it a place to buy groceries or just to eat?"
-    a: "It's almost entirely a grazing market: jamón, pintxos, oysters, croquetas, cava and vermouth by the glass, eaten standing at shared tables rather than taken home to cook."
-  - q: "Can I get a table or make a reservation?"
-    a: "There's no table service or reservation system. You order and pay at each individual counter, then find open space at one of the shared standing tables."
+  - q: Where exactly is Mercado de San Miguel and what's the nearest metro?
+    a: >-
+      It's on Plaza de San Miguel in Madrid's Centro district, right beside
+      Plaza Mayor. Sol (Lines 1, 2, 3) and Ópera (Lines 2, 5, R) are both about
+      a 6-8 minute walk.
+  - q: When is the quietest time to visit?
+    a: >-
+      Right at opening, 10am to 11am, on both weekdays and weekends. Avoid
+      arriving after 12pm on weekends, when the market stays packed until around
+      11pm.
+  - q: How long should I plan to spend there?
+    a: >-
+      Most visits run 45 to 90 minutes, enough time to work through three or
+      four counters at a standing table. It's built for grazing rather than a
+      single sit-down meal.
+  - q: Is it a place to buy groceries or just to eat?
+    a: >-
+      It's almost entirely a grazing market: jamón, pintxos, oysters, croquetas,
+      cava and vermouth by the glass, eaten standing at shared tables rather
+      than taken home to cook.
+  - q: Can I get a table or make a reservation?
+    a: >-
+      There's no table service or reservation system. You order and pay at each
+      individual counter, then find open space at one of the shared standing
+      tables.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-23'
 ---
 
 The building itself is the first surprise: a wrought-iron and glass structure from 1916, restored and reopened in 2009, standing one block southwest of Plaza Mayor like a Victorian train shed that got lost and ended up selling jamón instead.

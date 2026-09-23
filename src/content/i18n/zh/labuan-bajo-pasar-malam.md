@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: labuan-bajo-pasar-malam
-srcHash: '5a4ebc8e973f'
+srcHash: '4dd31f397b98'
 title: Pasar Malam：拉布安巴喉夜市旅行指南（4.2★）
-description: Pasar Malam是拉布安巴喉（Labuan Bajo）的夜市，位于Jl. Soekarno Hatta路上，从这个弗洛勒斯（Flores）港口小镇的海边步行上坡即可到达。4.2★（139条评价）——游客怎么说、营业时间和实用贴士，一并奉上。
+description: Pasar Malam是拉布安巴喉（Labuan Bajo）的夜市，位于Jl. Soekarno Hatta路上，从这个弗洛勒斯（Flores）港口小镇的海边步行上坡即可到达。4.2★（140条评价）——游客怎么说、营业时间和实用贴士，一并奉上。
 quickAnswer: Pasar Malam是拉布安巴喉的夜市，位于Jl. Soekarno Hatta路上，从这个弗洛勒斯港口小镇的海边步行上坡即可到达。这里能吃到烤鱼和廉价的印尼街头小吃，还能远离潜店聚集的那条街，看看当地人真实的夜生活。建议天黑之后再去，那时摆摆摊灯火渐亮，而且相比海边那些餐厅，这里依然是个鲜为游客所知的去处。
 faq:
   - q: Pasar Malam在拉布安巴喉具体在哪里？

@@ -1,27 +1,32 @@
 ---
-title: "Castle Clinton National Monument: New York Travel Guide"
-description: "Castle Clinton National Monument sits at the southern tip of Battery Park in Manhattan, right by the water. 4.4★ (21,588 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "New York"
-category: "attraction"
-pubDate: "2026-08-05T11:00:45.933Z"
+title: 'Castle Clinton National Monument: New York Travel Guide'
+description: >-
+  Castle Clinton National Monument sits at the southern tip of Battery Park in
+  Manhattan, right by the water. 4.4★ (21,632 reviews) — what visitors say,
+  hours, and tips.
+country: United States
+region: New York
+category: attraction
+pubDate: '2026-08-05T11:00:45.933Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Habs_castle_clinton.jpg/1920px-Habs_castle_clinton.jpg"
-  credit: "Photo: Unknown authorUnknown author / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Habs_castle_clinton.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Habs_castle_clinton.jpg/1920px-Habs_castle_clinton.jpg
+  credit: 'Photo: Unknown authorUnknown author / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Habs_castle_clinton.jpg'
 gallery: []
 place:
-  id: "ChIJoQb5SxBawokRtYcvnZAI2lE"
-  name: "Castle Clinton National Monument"
-  address: "New York, NY 10004, USA"
+  id: ChIJoQb5SxBawokRtYcvnZAI2lE
+  name: Castle Clinton National Monument
+  address: 'New York, NY 10004, USA'
   rating: 4.4
-  userRatingsTotal: 21588
-  googleMapsUrl: "https://maps.google.com/?cid=5898036079200536501&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 21632
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5898036079200536501&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.7034401
   lng: -74.0168023
-  phone: '+1 212-344-7220'
+  phone: +1 212-344-7220
   openingHours:
     - 'Monday: 8:00 AM – 5:00 PM'
     - 'Tuesday: 8:00 AM – 5:00 PM'
@@ -31,22 +36,42 @@ place:
     - 'Saturday: 8:00 AM – 5:00 PM'
     - 'Sunday: 8:00 AM – 5:00 PM'
 tags:
-  - "new york"
-  - "historic site"
-quickAnswer: "Castle Clinton National Monument sits at the southern tip of Battery Park in Manhattan, right by the water. It's free to enter and worth 20-30 minutes on your own — most people pass through it simply to buy Statue of Liberty/Ellis Island ferry tickets, so arrive early morning before the ferry lines build up if you want to actually look around the fort itself."
+  - new york
+  - historic site
+quickAnswer: >-
+  Castle Clinton National Monument sits at the southern tip of Battery Park in
+  Manhattan, right by the water. It's free to enter and worth 20-30 minutes on
+  your own — most people pass through it simply to buy Statue of Liberty/Ellis
+  Island ferry tickets, so arrive early morning before the ferry lines build up
+  if you want to actually look around the fort itself.
 faq:
-  - q: "Do I need a ticket to enter Castle Clinton?"
-    a: "No — walking into the fort and courtyard is free. You only need a ticket if you're boarding a Statue of Liberty/Ellis Island ferry, which departs from docks right beside it."
-  - q: "How long should I spend there?"
-    a: "Plan on 15-30 minutes to walk the courtyard and read the historical panels, on top of whatever time you allow for ferry lines if you're heading to the islands."
-  - q: "What's the closest subway station?"
-    a: "Bowling Green (4/5 trains) or South Ferry (1 train) are both a 5-7 minute walk; the R/W at Whitehall Street also works."
-  - q: "When is it least crowded?"
-    a: "Early morning, right after the park opens, before ferry-bound tour groups and cruise passengers build up the security and ticket lines in the afternoon."
-  - q: "What's nearby if I have extra time?"
-    a: "Battery Park's SeaGlass Carousel and waterfront paths are steps away, and the 9/11 Memorial, Wall Street, and the Skyscraper Museum are all within a 15-20 minute walk."
+  - q: Do I need a ticket to enter Castle Clinton?
+    a: >-
+      No — walking into the fort and courtyard is free. You only need a ticket
+      if you're boarding a Statue of Liberty/Ellis Island ferry, which departs
+      from docks right beside it.
+  - q: How long should I spend there?
+    a: >-
+      Plan on 15-30 minutes to walk the courtyard and read the historical
+      panels, on top of whatever time you allow for ferry lines if you're
+      heading to the islands.
+  - q: What's the closest subway station?
+    a: >-
+      Bowling Green (4/5 trains) or South Ferry (1 train) are both a 5-7 minute
+      walk; the R/W at Whitehall Street also works.
+  - q: When is it least crowded?
+    a: >-
+      Early morning, right after the park opens, before ferry-bound tour groups
+      and cruise passengers build up the security and ticket lines in the
+      afternoon.
+  - q: What's nearby if I have extra time?
+    a: >-
+      Battery Park's SeaGlass Carousel and waterfront paths are steps away, and
+      the 9/11 Memorial, Wall Street, and the Skyscraper Museum are all within a
+      15-20 minute walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-23'
 ---
 ## Why go
 

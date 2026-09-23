@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: labuan-bajo-pasar-malam
-srcHash: '5a4ebc8e973f'
+srcHash: '4dd31f397b98'
 title: 'Pasar Malam: guía de viaje de Labuan Bajo (4,2★)'
-description: 'Pasar Malam es el mercado nocturno de Labuan Bajo, en Jl. Soekarno Hatta, a un corto paseo cuesta arriba desde el puerto de esta localidad portuaria de Flores. 4,2★ (139 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Pasar Malam es el mercado nocturno de Labuan Bajo, en Jl. Soekarno Hatta, a un corto paseo cuesta arriba desde el puerto de esta localidad portuaria de Flores. 4,2★ (140 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Pasar Malam es el mercado nocturno de Labuan Bajo, ubicado en Jl. Soekarno Hatta, a un corto paseo cuesta arriba desde el puerto de esta localidad portuaria de Flores. Es el lugar ideal para probar pescado a la parrilla y comida callejera indonesia barata, además de asomarse a la vida local por la noche, lejos de la hilera de tiendas de buceo. Conviene ir después del anochecer, cuando los puestos se iluminan, ya que sigue siendo una parada poco conocida en comparación con los restaurantes del frente marítimo.
 faq:
   - q: ¿Dónde está exactamente Pasar Malam en Labuan Bajo?

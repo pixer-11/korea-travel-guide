@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: chinatown-chinatown-singapore
-srcHash: 'd7df2529cfea'
+srcHash: 'd62aa8e0fbe9'
 title: 'Chinatown de Singapur: Guía de Viaje (4,4★)'
-description: 'Chinatown de Singapur está en el número 75 de Pagoda St, en pleno corazón del barrio chino, a un corto paseo o una parada de MRT del perfil urbano de la bahía. 4,4★ (8.364 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Chinatown de Singapur está en el número 75 de Pagoda St, en pleno corazón del barrio chino, a un corto paseo o una parada de MRT del perfil urbano de la bahía. 4,4★ (8.365 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Chinatown de Singapur está en el número 75 de Pagoda St, en pleno corazón del barrio chino, a un corto paseo o una parada de MRT del perfil urbano de la bahía. Se trata de un distrito comercial muy visitado, nada secreto, así que lo inteligente es organizar la visita en torno al horario de 10:00 a 22:00 en vez de esperar callejones vacíos. Vale la pena acercarse por los templos y los puestos callejeros de Pagoda, Trengganu y Smith Streets, y combinar la visita con un paseo nocturno de regreso a Marina Bay para disfrutar del perfil urbano.
 faq:
   - q: ¿Dónde está exactamente Chinatown de Singapur respecto a Marina Bay?

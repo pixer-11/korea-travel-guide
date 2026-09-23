@@ -1,46 +1,72 @@
 ---
-title: "Pasar Malam: Labuan Bajo Travel Guide (4.2★)"
-description: "Pasar Malam is Labuan Bajo's night market on Jl. Soekarno Hatta, a short walk up from the harbour front in this Flores port town. 4.2★ (139 reviews) — what visitors say, hours, and tips."
-country: "Indonesia"
-region: "Labuan Bajo"
-category: "hidden-gem"
-pubDate: "2026-09-23T07:42:54.711Z"
+title: 'Pasar Malam: Labuan Bajo Travel Guide (4.2★)'
+description: >-
+  Pasar Malam is Labuan Bajo's night market on Jl. Soekarno Hatta, a short walk
+  up from the harbour front in this Flores port town. 4.2★ (140 reviews) — what
+  visitors say, hours, and tips.
+country: Indonesia
+region: Labuan Bajo
+category: hidden-gem
+pubDate: '2026-09-23T07:42:54.711Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Pasar_Malam_Rawasari_11.JPG/1920px-Pasar_Malam_Rawasari_11.JPG"
-  credit: "Photo: Gunawan Kartapranata / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Pasar_Malam_Rawasari_11.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Pasar_Malam_Rawasari_11.JPG/1920px-Pasar_Malam_Rawasari_11.JPG
+  credit: 'Photo: Gunawan Kartapranata / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Pasar_Malam_Rawasari_11.JPG'
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJ7Tj4RYVntC0RqJWurtFsx3A"
-  name: "Pasar Malam"
-  address: "Jl. Soekarno Hatta No.89, Labuan Bajo, Kec. Komodo, Kabupaten Manggarai Barat, Nusa Tenggara Tim., Indonesia"
+  id: ChIJ7Tj4RYVntC0RqJWurtFsx3A
+  name: Pasar Malam
+  address: >-
+    Jl. Soekarno Hatta No.89, Labuan Bajo, Kec. Komodo, Kabupaten Manggarai
+    Barat, Nusa Tenggara Tim., Indonesia
   rating: 4.2
-  userRatingsTotal: 139
-  googleMapsUrl: "https://maps.google.com/?cid=8126583700447991208&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 140
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8126583700447991208&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -8.4889607
   lng: 119.8756037
 tags:
-  - "labuan bajo"
-  - "local market"
-quickAnswer: "Pasar Malam is Labuan Bajo's night market on Jl. Soekarno Hatta, a short walk up from the harbour front in this Flores port town. It's the place for grilled fish, cheap Indonesian street food and a look at local evening life away from the dive-shop strip. Go after dark, when the stalls light up and it's still an under-the-radar stop compared to the waterfront restaurants."
+  - labuan bajo
+  - local market
+quickAnswer: >-
+  Pasar Malam is Labuan Bajo's night market on Jl. Soekarno Hatta, a short walk
+  up from the harbour front in this Flores port town. It's the place for grilled
+  fish, cheap Indonesian street food and a look at local evening life away from
+  the dive-shop strip. Go after dark, when the stalls light up and it's still an
+  under-the-radar stop compared to the waterfront restaurants.
 faq:
-  - q: "Where exactly is Pasar Malam in Labuan Bajo?"
-    a: "It's on Jl. Soekarno Hatta No.89, a main road running through central Labuan Bajo, inland from the harbour and marina area where most hotels sit."
-  - q: "What food should I try there?"
-    a: "Grilled fish and chicken (ikan bakar, ayam bakar), fried noodles and satay are the staples; ask vendors what's freshest that evening since the selection shifts night to night."
-  - q: "Is Pasar Malam touristy?"
-    a: "No. It stays under-the-radar compared to the harbour-front restaurants, so expect limited English and a genuinely local evening crowd."
-  - q: "What time should I go?"
-    a: "Go after dark once the stalls have set up and started cooking; night markets here don't run on fixed posted hours, so arriving right at sunset can mean some stalls aren't ready yet."
-  - q: "Can I pay by card?"
-    a: "Bring cash in small denominations; this is a stall-based market, not a setup with card machines."
+  - q: Where exactly is Pasar Malam in Labuan Bajo?
+    a: >-
+      It's on Jl. Soekarno Hatta No.89, a main road running through central
+      Labuan Bajo, inland from the harbour and marina area where most hotels
+      sit.
+  - q: What food should I try there?
+    a: >-
+      Grilled fish and chicken (ikan bakar, ayam bakar), fried noodles and satay
+      are the staples; ask vendors what's freshest that evening since the
+      selection shifts night to night.
+  - q: Is Pasar Malam touristy?
+    a: >-
+      No. It stays under-the-radar compared to the harbour-front restaurants, so
+      expect limited English and a genuinely local evening crowd.
+  - q: What time should I go?
+    a: >-
+      Go after dark once the stalls have set up and started cooking; night
+      markets here don't run on fixed posted hours, so arriving right at sunset
+      can mean some stalls aren't ready yet.
+  - q: Can I pay by card?
+    a: >-
+      Bring cash in small denominations; this is a stall-based market, not a
+      setup with card machines.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-23'
 ---
 
 Labuan Bajo's tourist strip runs along the harbour: dive shops, sunset bars, restaurants pricing menus in three currencies. Pasar Malam sits a few streets back on Jl. Soekarno Hatta, and it's where the town actually eats dinner.

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: madrid-mercado-de-san-miguel
-srcHash: 'f18943ffaece'
+srcHash: '7f421eb7b9e0'
 title: 'Mercado de San Miguel: Guía de viaje de Madrid (4,4★)'
-description: 'El Mercado de San Miguel está en la Plaza de San Miguel, en el distrito Centro de Madrid, a dos minutos a pie de la Plaza Mayor. 4,4★ (164.609 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Mercado de San Miguel está en la Plaza de San Miguel, en el distrito Centro de Madrid, a dos minutos a pie de la Plaza Mayor. 4,4★ (164.644 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Mercado de San Miguel está en la Plaza de San Miguel, en el distrito Centro de Madrid, a dos minutos a pie de la Plaza Mayor. Con más de 164.000 reseñas y un estatus de gran popularidad, los fines de semana el momento de mayor afluencia va de mediodía a las 23:00, así que el rato tranquilo cae justo a la apertura, entre las 10:00 y las 11:00. Conviene ir entonces para recorrer con calma la nave de hierro y cristal antes de que llegue el gentío.
 faq:
   - q: ¿Dónde está exactamente el Mercado de San Miguel y cuál es el metro más cercano?

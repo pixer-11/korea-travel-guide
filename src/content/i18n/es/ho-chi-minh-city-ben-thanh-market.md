@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: ho-chi-minh-city-ben-thanh-market
-srcHash: 'd5c80c743eed'
+srcHash: '71ab12f6ac1d'
 title: 'Mercado Ben Thanh: guía de viaje de Ho Chi Minh (4.0★)'
-description: 'El mercado Ben Thanh ocupa el centro del Distrito 1 de Ho Chi Minh, justo donde confluyen las calles Le Loi, Ham Nghi y Tran Hung Dao, y es uno de los mercados con más reseñas del país: no es ningún hallazgo escondido. 4.0★ (86.835 reseñas): qué opinan los visitantes, horarios y consejos.'
+description: 'El mercado Ben Thanh ocupa el centro del Distrito 1 de Ho Chi Minh, justo donde confluyen las calles Le Loi, Ham Nghi y Tran Hung Dao, y es uno de los mercados con más reseñas del país: no es ningún hallazgo escondido. 4.0★ (86.858 reseñas): qué opinan los visitantes, horarios y consejos.'
 quickAnswer: 'El mercado Ben Thanh ocupa el centro del Distrito 1 de Ho Chi Minh, justo donde confluyen las calles Le Loi, Ham Nghi y Tran Hung Dao, y es uno de los mercados con más reseñas del país: no es ningún hallazgo escondido. Conviene ir temprano en un día laborable para esquivar la peor avalancha de grupos turísticos, y hay que estar preparado para regatear con fuerza cualquier artículo que no lleve precio marcado.'
 faq:
   - q: ¿Cómo se llega al mercado Ben Thanh?

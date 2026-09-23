@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: fujairah-friday-market
-srcHash: 'c22db2178304'
+srcHash: '8b60b65fca84'
 title: 'Mercado del Viernes: Guía de viaje de Fujairah (4,3★)'
-description: 'El Mercado del Viernes de Fujairah (también llamado Souq Al Jumʻah) se extiende junto a la carretera de Al Dhaid, en las montañas entre Fujairah y Masafi, y pese a su nombre abre todos los días, aproximadamente de 7:00 a 00:00 la mayoría de las jornadas y hasta la 1:00 de jueves a sábado. 4,3★ (6.189 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Mercado del Viernes de Fujairah (también llamado Souq Al Jumʻah) se extiende junto a la carretera de Al Dhaid, en las montañas entre Fujairah y Masafi, y pese a su nombre abre todos los días, aproximadamente de 7:00 a 00:00 la mayoría de las jornadas y hasta la 1:00 de jueves a sábado. 4,3★ (6.191 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Mercado del Viernes de Fujairah (también llamado Souq Al Jumʻah) se extiende junto a la carretera de Al Dhaid, en las montañas entre Fujairah y Masafi, y pese a su nombre abre todos los días, aproximadamente de 7:00 a 00:00 la mayoría de las jornadas y hasta la 1:00 de jueves a sábado. Es una hilera de puestos junto a la carretera repletos de cerámica, alfombras, productos frescos y frutas deshidratadas; conviene recorrerlo en las horas más frescas de la mañana o después del atardecer, y no al mediodía. Hay que contar con aglomeraciones las noches de fin de semana, ya que se trata de una parada muy conocida en la ruta entre Fujairah y Dubái, no de un secreto local tranquilo.
 faq:
   - q: ¿El Mercado del Viernes de Fujairah abre solo los viernes?
