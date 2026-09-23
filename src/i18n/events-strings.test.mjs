@@ -9,7 +9,8 @@ import { readFileSync } from 'node:fs';
 
 // Parsed from the source rather than imported: the dictionary is TypeScript,
 // and the test must run under plain `node --test` in CI.
-const SRC = readFileSync(new URL('./events-strings.ts', import.meta.url), 'utf8');
+// CRLF-normalized: a Windows checkout (core.autocrlf) must parse the same.
+const SRC = readFileSync(new URL('./events-strings.ts', import.meta.url), 'utf8').replace(/\r\n/g, '\n');
 const LANGS = ['en', 'ko', 'ja', 'es', 'zh'];
 
 function block(lang) {
