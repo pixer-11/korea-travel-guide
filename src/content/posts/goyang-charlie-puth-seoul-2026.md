@@ -1,8 +1,6 @@
 ---
 title: 'Charlie Puth Seoul 2026: Dates, Tickets & Venue (Goyang)'
-description: >-
-  Charlie Puth Seoul 2026 in Goyang, South Korea — October 11, 2026. What it is,
-  when and where, and how to plan around it.
+description: Charlie Puth Seoul 2026 in Goyang, South Korea — October 11, 2026. What it is, when and where, and how to plan around it.
 country: South Korea
 region: Goyang
 category: event
@@ -15,44 +13,33 @@ eventPerformer:
   name: Charlie Puth
   kind: person
 eventFactsAsked: true
-gallery: []
 tags:
   - goyang
   - event
-quickAnswer: >-
-  Charlie Puth plays Goyang Stadium on October 11, 2026, part of a limited run
-  of South Korea stadium dates outside Seoul proper. Goyang sits just northwest
-  of the capital, reachable by subway in under an hour from central Seoul, so
-  most fans base themselves there and day-trip out for the show. Confirm timing
-  and tickets on the official site before booking travel.
+quickAnswer: Charlie Puth plays Goyang Stadium on October 11, 2026, part of a limited run of South Korea stadium dates outside Seoul proper. Goyang sits just northwest of the capital, reachable by subway in under an hour from central Seoul, so most fans base themselves there and day-trip out for the show. Confirm timing and tickets on the official site before booking travel.
 faq:
   - q: When is Charlie Puth performing in Goyang?
-    a: >-
-      October 11, 2026, at Goyang Stadium in Goyang, South Korea. Confirm timing
-      on the official site, as gate and set times aren't part of the public
-      announcement.
+    a: October 11, 2026, at Goyang Stadium in Goyang, South Korea. Confirm timing on the official site, as gate and set times aren't part of the public announcement.
   - q: How do I get to Goyang Stadium from Seoul?
-    a: >-
-      Goyang is connected to the Seoul subway network and sits northwest of the
-      capital. Most visitors base themselves in Seoul and travel out, budgeting
-      roughly 45 minutes to an hour each way.
+    a: Goyang is connected to the Seoul subway network and sits northwest of the capital. Most visitors base themselves in Seoul and travel out, budgeting roughly 45 minutes to an hour each way.
   - q: Where can I buy tickets?
-    a: >-
-      No specific prices or tiers are confirmed here. Buy only through official
-      ticketing partners and confirm tickets on the official site rather than
-      resale listings.
+    a: No specific prices or tiers are confirmed here. Buy only through official ticketing partners and confirm tickets on the official site rather than resale listings.
   - q: Is there a lot to do right around the stadium?
-    a: >-
-      Not really. Goyang Stadium sits in a sports and exhibition zone rather
-      than a restaurant district, so plan meals in Seoul or a nearby residential
-      area rather than counting on options at the gates.
+    a: Not really. Goyang Stadium sits in a sports and exhibition zone rather than a restaurant district, so plan meals in Seoul or a nearby residential area rather than counting on options at the gates.
   - q: What's the best way to avoid the after-show crowd crush?
-    a: >-
-      Don't sprint for the first train after the encore. Let the initial rush
-      clear the platform, then board; it's typically just as full but far
-      calmer.
+    a: Don't sprint for the first train after the encore. Let the initial rush clear the platform, then board; it's typically just as full but far calmer.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Charlie_Puth.jpg/3840px-Charlie_Puth.jpg
+  credit: 'Photo: Juan J. Carlos / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Charlie_Puth.jpg
+  focus:
+    x: 43
+    'y': 32
+    top: 24
+    bottom: 39
 ---
 
 Goyang Stadium doesn't get a headliner like this often, which is exactly why the announcement of Charlie Puth for October 11, 2026 has fans checking train schedules from Seoul rather than assuming they'll just wander in on the day.

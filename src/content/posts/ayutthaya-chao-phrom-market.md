@@ -6,10 +6,10 @@ region: Ayutthaya
 category: hidden-gem
 pubDate: '2026-09-22T07:48:10.568Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/e/ed/%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%A1_%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%A2%E0%B8%B8%E0%B8%98%E0%B8%A2%E0%B8%B2_-_panoramio.jpg
-  credit: 'Photo: obarber in thailand / Wikimedia Commons (CC BY 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%A1_%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%A2%E0%B8%B8%E0%B8%98%E0%B8%A2%E0%B8%B2_-_panoramio.jpg
+  url: https://fastly.4sqi.net/img/general/original/30398649_KcCd-BNnQcIPfZD4na8dfnmia6vpCcOVGDiXcUxuGZo.jpg
+  credit: 'Photo: Foursquare user content (Chao Phrom Market (ตลาดเจ้าพรหม))'
+  license: foursquare
+  source: https://foursquare.com/v/4ba33232f964a5208c2f38e3
   focus:
     x: 50
     'y': 50
@@ -66,7 +66,6 @@ faq:
   - q: What should I eat there?
     a: Head to the prepared-food section for khanom jeen with curry sauce, grilled or fried fish sold by the piece, peeled fresh fruit, and coconut-based Thai desserts, best eaten standing or on a stool rather than at a sit-down table.
 aiGenerated: true
-draft: true
 ---
 
 ## What you're actually walking into

@@ -1,35 +1,25 @@
 ---
 title: 'Books Kinokuniya: Dubai Travel Guide (4.7★)'
-description: >-
-  Books Kinokuniya Dubai is the Japanese chain's big outpost inside The Dubai
-  Mall, near the Fashion Parking entrance, and it's busy enough that timing your
-  visit matters. 4.7★ (10,223 reviews) — what visitors say, hours, and tips.
+description: Books Kinokuniya Dubai is the Japanese chain's big outpost inside The Dubai Mall, near the Fashion Parking entrance, and it's busy enough that timing your visit matters. 4.7★ (10,223 reviews) — what visitors say, hours, and tips.
 country: United Arab Emirates
 region: Dubai
 category: hidden-gem
 pubDate: '2026-09-22T07:40:29.821Z'
 heroImage:
-  url: >-
-    https://upload.wikimedia.org/wikipedia/commons/5/5c/Massive_Kinokuniya_bookstore_in_Dubai.jpg
-  credit: 'Photo: Thomas Galvez / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: >-
-    https://commons.wikimedia.org/wiki/File:Massive_Kinokuniya_bookstore_in_Dubai.jpg
-  via: act
+  url: https://fastly.4sqi.net/img/general/original/51341806_kuNezEE6RzBwSEI9pIEn-7GNvN2Q9_0a7IsNgaGBn8Y.jpg
+  credit: 'Photo: Foursquare user content (Books Kinokuniya (مكتبة كينوكونيا))'
+  license: foursquare
+  source: https://foursquare.com/v/4b07ca94f964a5200b0023e3
   focus:
     x: 50
-    'y': 55
-gallery: []
+    'y': 50
 place:
   id: ChIJFbaWDIJCXz4Rh0ZwqcohRAE
   name: Books Kinokuniya Dubai
-  address: >-
-    Fashion Parking - Dubai Mall - Sheikh Mohammed bin Rashid Blvd - Burj
-    Khalifa - Downtown Dubai - Dubai - United Arab Emirates
+  address: Fashion Parking - Dubai Mall - Sheikh Mohammed bin Rashid Blvd - Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates
   rating: 4.7
   userRatingsTotal: 10223
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=91235046764070535&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=91235046764070535&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 25.198839
   lng: 55.2778065
@@ -65,40 +55,19 @@ place:
 tags:
   - dubai
   - bookshop
-quickAnswer: >-
-  Books Kinokuniya Dubai is the Japanese chain's big outpost inside The Dubai
-  Mall, near the Fashion Parking entrance, and it's busy enough that timing your
-  visit matters. Go on a weekday between 10am and 1pm, or weekend mornings
-  before noon, to browse without fighting crowds. It's not a secret spot: this
-  is one of the mall's most-reviewed stores, so expect company most afternoons
-  and evenings.
+quickAnswer: 'Books Kinokuniya Dubai is the Japanese chain''s big outpost inside The Dubai Mall, near the Fashion Parking entrance, and it''s busy enough that timing your visit matters. Go on a weekday between 10am and 1pm, or weekend mornings before noon, to browse without fighting crowds. It''s not a secret spot: this is one of the mall''s most-reviewed stores, so expect company most afternoons and evenings.'
 faq:
   - q: Where exactly is Books Kinokuniya inside Dubai Mall?
-    a: >-
-      It's located near the Fashion Parking entrance of The Dubai Mall, on
-      Sheikh Mohammed bin Rashid Boulevard in Downtown Dubai. If you park in
-      Fashion Parking, it's a short walk in.
+    a: It's located near the Fashion Parking entrance of The Dubai Mall, on Sheikh Mohammed bin Rashid Boulevard in Downtown Dubai. If you park in Fashion Parking, it's a short walk in.
   - q: When is the quietest time to visit?
-    a: >-
-      Weekdays between 10am and 1pm are the calmest, with weekend mornings from
-      opening until noon a close second. Avoid weekend afternoons and evenings,
-      when crowds build from 2pm onward.
+    a: Weekdays between 10am and 1pm are the calmest, with weekend mornings from opening until noon a close second. Avoid weekend afternoons and evenings, when crowds build from 2pm onward.
   - q: What are the opening hours?
-    a: >-
-      Sunday through Thursday it's open 10am to 11pm, and Friday and Saturday it
-      stays open until midnight, making it a workable late-evening stop.
+    a: Sunday through Thursday it's open 10am to 11pm, and Friday and Saturday it stays open until midnight, making it a workable late-evening stop.
   - q: Does the store have books in languages other than English and Arabic?
-    a: >-
-      Yes, as a Japan-based retailer it carries a genuine Japanese-language
-      section alongside English titles and other local-language stock, plus a
-      large manga selection in both English and Japanese.
+    a: Yes, as a Japan-based retailer it carries a genuine Japanese-language section alongside English titles and other local-language stock, plus a large manga selection in both English and Japanese.
   - q: What else is nearby if I'm making a day of it?
-    a: >-
-      The store sits inside The Dubai Mall, close to the Burj Khalifa entrance,
-      Dubai Aquarium & Underwater Zoo, and the Dubai Fountain, so it's easy to
-      combine with a longer mall visit.
+    a: The store sits inside The Dubai Mall, close to the Burj Khalifa entrance, Dubai Aquarium & Underwater Zoo, and the Dubai Fountain, so it's easy to combine with a longer mall visit.
 aiGenerated: true
-draft: true
 updatedDate: '2026-09-22'
 ---
 

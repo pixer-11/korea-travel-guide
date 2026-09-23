@@ -3425,8 +3425,8 @@
  "little-india-former-house-of-tan-teng-niah\u0001https://fastly.4sqi.net/img/general/original/1608906_BP7rP1M3Vv9A4npYC4s_fdA_ZuUUfS0wvaIJ6MRFIi8.jpg": {
   "slug": "little-india-former-house-of-tan-teng-niah",
   "verdict": "MATCH",
-  "reason": "patrol replace: Colorful heritage building matches Little India Singapore.",
-  "at": "2026-09-21T22:44:20.932Z"
+  "reason": "patrol replace: Colorful heritage building in Little India, Singapore",
+  "at": "2026-09-23T22:25:45.629Z"
  },
  "little-india-veera-flavours\u0001https://fastly.4sqi.net/img/general/original/1399700747_U-zVoXbUmjz123smC6Z2h-pdOxpZZcw5DtGgYSdMaZs.jpg": {
   "slug": "little-india-veera-flavours",
@@ -19463,20 +19463,20 @@
  "tokyo-the-kura\u0001https://live.staticflickr.com/44/138262874_720f18db21_k.jpg": {
   "slug": "tokyo-the-kura",
   "verdict": "MISMATCH",
-  "reason": "patrol reject: Isolated architectural detail, not representative venue view",
-  "at": "2026-09-22T22:24:56.800Z"
+  "reason": "patrol reject: Isolated architectural detail, not representative venue exterior/interior",
+  "at": "2026-09-23T22:28:26.576Z"
  },
  "tokyo-the-kura\u0001https://live.staticflickr.com/51/138267530_ab1a874ed4_k.jpg": {
   "slug": "tokyo-the-kura",
   "verdict": "MISMATCH",
-  "reason": "patrol reject: Incidental fragment: lamp and wall, not representative venue view",
-  "at": "2026-09-22T22:24:59.016Z"
+  "reason": "patrol reject: Close-up of lantern fixture, not representative venue view",
+  "at": "2026-09-23T22:28:30.011Z"
  },
  "tokyo-the-kura\u0001https://live.staticflickr.com/55/138267469_42ed6054f3_k.jpg": {
   "slug": "tokyo-the-kura",
   "verdict": "MISMATCH",
-  "reason": "patrol reject: audit: Historic building, not trendy Tokyo venue",
-  "at": "2026-09-22T22:25:02.155Z"
+  "reason": "patrol reject: audit: Traditional Japanese architecture, but not identifiable as '",
+  "at": "2026-09-23T22:28:35.080Z"
  },
  "tokyo-the-kura\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kura_River_in_the_central_part_of_Tbilisi%2C_2007-09-28.jpg/3840px-Kura_River_in_the_central_part_of_Tbilisi%2C_2007-09-28.jpg": {
   "slug": "tokyo-the-kura",
@@ -20597,5 +20597,35 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows waterfall over rock formations, matches Popokvil setting",
   "at": "2026-09-23T12:51:34.260Z"
+ },
+ "ayutthaya-chao-phrom-market\u0001https://fastly.4sqi.net/img/general/original/1400120811_PN0phTscMlktrpgkU0JQdEt10tFP2mpogmUP9utNDtk.jpg": {
+  "slug": "ayutthaya-chao-phrom-market",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows abandoned, closed market interior, not visitor-ready state",
+  "at": "2026-09-23T22:25:51.533Z"
+ },
+ "ayutthaya-chao-phrom-market\u0001https://fastly.4sqi.net/img/general/original/30398649_KcCd-BNnQcIPfZD4na8dfnmia6vpCcOVGDiXcUxuGZo.jpg": {
+  "slug": "ayutthaya-chao-phrom-market",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Fresh strawberries at Thai market stall",
+  "at": "2026-09-23T22:25:54.716Z"
+ },
+ "dubai-books-kinokuniya-dubai\u0001https://fastly.4sqi.net/img/general/original/51341806_kuNezEE6RzBwSEI9pIEn-7GNvN2Q9_0a7IsNgaGBn8Y.jpg": {
+  "slug": "dubai-books-kinokuniya-dubai",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Harry Potter themed bookstore interior, Dubai",
+  "at": "2026-09-23T22:26:22.947Z"
+ },
+ "goyang-charlie-puth-seoul-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Charlie_Puth.jpg/3840px-Charlie_Puth.jpg": {
+  "slug": "goyang-charlie-puth-seoul-2026",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Concert performer on stage, plausible for event",
+  "at": "2026-09-23T22:26:54.144Z"
+ },
+ "sentosa-the-coach-coffee-shop-resorts-world-sentosa-weave\u0001https://fastly.4sqi.net/img/general/original/1205674_67yLYpVihEXB7jEZ1qi9EdJ78MzDN4NLhYtVOFKADGA.jpg": {
+  "slug": "sentosa-the-coach-coffee-shop-resorts-world-sentosa-weave",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Movie promotional poster, not the coffee shop venue",
+  "at": "2026-09-23T22:28:09.521Z"
  }
 }
