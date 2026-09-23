@@ -38,9 +38,16 @@ const fmt = (iso: string, opts: Intl.DateTimeFormatOptions) =>
   new Date(iso + 'T00:00:00Z').toLocaleDateString(localeCodes[lang], { ...opts, timeZone: 'UTC' });
 // The year only when a range crosses into the next year — "12월 21일 – 2026년
 // 12월 27일" wrapped onto two lines on a phone (2026-09-24 visual check).
-const fmtRange = (a: string, b: string) => a.slice(0, 4) === b.slice(0, 4)
-  ? `${fmt(a, { month: 'short', day: 'numeric' })} – ${fmt(b, { month: 'short', day: 'numeric' })}`
-  : `${fmt(a, { month: 'short', day: 'numeric', year: 'numeric' })} – ${fmt(b, { month: 'short', day: 'numeric', year: 'numeric' })}`;
+// …but only for THIS year: "2월 8일 – 2월 14일" left the reader guessing
+// which February. Next year's ranges carry the year once, at the end.
+const thisYear = String(new Date().getUTCFullYear());
+const fmtRange = (a: string, b: string) => {
+  const md = (x: string) => fmt(x, { month: 'short', day: 'numeric' });
+  if (a.slice(0, 4) === b.slice(0, 4)) {
+    return a.slice(0, 4) === thisYear ? `${md(a)} – ${md(b)}` : `${md(a)} – ${fmt(b, { month: 'short', day: 'numeric', year: 'numeric' })}`;
+  }
+  return `${fmt(a, { month: 'short', day: 'numeric', year: 'numeric' })} – ${fmt(b, { month: 'short', day: 'numeric', year: 'numeric' })}`;
+};
 const label = (c: string, h: any) => holidayLabel(c, h.localName, h.name, lang);
 const uniqueLabels = (c: string, hs: any[]) => [...new Set(hs.map((h) => label(c, h)))].join(', ');
 
