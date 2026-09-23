@@ -1,5 +1,5 @@
 ---
-title: 'Chinatown Singapore: Chinatown Travel Guide (4.4★)'
+title: 'Chinatown Singapore: Travel Guide (4.4★)'
 description: Chinatown Singapore sits at 75 Pagoda St in the heart of Chinatown, a short walk or one MRT stop from the bay's skyline. 4.4★ (8,364 reviews) — what visitors say, hours, and tips.
 country: "Singapore"
 region: Chinatown

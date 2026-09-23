@@ -552,6 +552,14 @@ function regionRedirects() {
   for (const p of ['', '/ko', '/ja', '/es', '/zh']) {
     lines.push(`${p}/posts/lijiang-lijiang-old-town/ ${p}/posts/lijiang-old-town-of-lijiang/ 301`);
   }
+  // Chinatown Singapore (2026-09-23): the guide was born tagged Marina Bay and
+  // slugged from that tag; the region was corrected to Chinatown and the slug
+  // followed. The old URL was never live — the publish gate held it at birth
+  // and the patrol released it only after the fix — so this is insurance for
+  // the one build in between, not a rescue of indexed traffic.
+  for (const p of ['', '/ko', '/ja', '/es', '/zh']) {
+    lines.push(`${p}/posts/marina-bay-chinatown-singapore/ ${p}/posts/chinatown-chinatown-singapore/ 301`);
+  }
   // Business-card QR target: /card stays printed on physical cards forever, so
   // it must never 404. 302 (not 301) so the destination can be repointed later
   // (e.g. to a newsletter page) without reprinting cards.
