@@ -55,3 +55,11 @@ test('빈 입력에도 터지지 않는다', () => {
     assert.equal(s.live.ctr, 0);
   }
 });
+
+test("실질 행 목록은 펼칠 수 있고 죽은 검색어를 담지 않는다", () => {
+  // 리포트가 상위 검색어를 뽑을 때 이 목록을 펼친다. 합계 묶음(live)을 펼치면 터진다.
+  const s = bingSplit([HUGE_ZERO, { Query: "a", Impressions: 100, Clicks: 5, AvgImpressionPosition: 3 }]);
+  assert.equal(Array.isArray(s.liveRows), true);
+  assert.deepEqual([...s.liveRows].map((x) => x.Query), ["a"]);
+  assert.throws(() => [...s.live], TypeError, "합계 묶음은 목록이 아니다");
+});

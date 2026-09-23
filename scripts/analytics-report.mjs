@@ -297,7 +297,7 @@ async function bingReport() {
     // 2026-09-21: 노출의 79%가 클릭 0인 검색어 8개에서 왔다(하나는 3위에서 6,147회).
     // 그걸 섞어 세면 CTR 1.7%로 보이지만 실질은 8.4%다. lib/bing-dead-queries.mjs 참조.
     const split = bingSplit(rows);
-    const top = [...split.live]
+    const top = [...split.liveRows]
       .sort((a, b) => (b.Impressions ?? 0) - (a.Impressions ?? 0))
       .slice(0, 3)
       .map((x) => `${String(x.Query).slice(0, 24)} ${x.Impressions}회·${Math.round(x.AvgImpressionPosition ?? 0)}위`);

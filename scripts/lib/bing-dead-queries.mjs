@@ -55,6 +55,9 @@ export function bingSplit(rows) {
   const l = sum(live), d = sum(dead);
   return {
     live: { ...l, n: live.length, ctr: l.imp ? l.clicks / l.imp : 0 },
+    // 실질 검색어 행 그 자체. `live` 는 합계 묶음이라 펼칠 수 없다 — 09-21~23 리포트가
+    // `[...split.live]` 로 그걸 펼치려다 매일 "빙 수집 실패"로 나갔다.
+    liveRows: live,
     dead: { ...d, n: dead.length },
     byLang: [...byLang.entries()]
       .map(([lang, a]) => ({ lang, ...a, ctr: a.imp ? a.clicks / a.imp : 0 }))
