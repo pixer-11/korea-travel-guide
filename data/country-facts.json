@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09",
+  "updated": "2026-09-23",
   "countries": {
     "South Korea": {
       "climate": [
@@ -83,178 +83,233 @@
       "holidays": [
         {
           "date": "2026-01-01",
-          "localName": "새해",
-          "name": "New Year's Day"
+          "name": "New Year's Day",
+          "localName": "신정연휴"
         },
         {
           "date": "2026-02-16",
-          "localName": "설날",
-          "name": "Lunar New Year"
+          "name": "The day preceding Korean New Year",
+          "localName": "설날 전날"
         },
         {
           "date": "2026-02-17",
-          "localName": "설날",
-          "name": "Lunar New Year"
+          "name": "Korean New Year",
+          "localName": "설날"
         },
         {
           "date": "2026-02-18",
-          "localName": "설날",
-          "name": "Lunar New Year"
+          "name": "The second day of Korean New Year",
+          "localName": "설날 다음날"
+        },
+        {
+          "date": "2026-03-01",
+          "name": "Independence Movement Day",
+          "localName": "삼일절"
         },
         {
           "date": "2026-03-02",
-          "localName": "3·1절",
-          "name": "Independence Movement Day"
+          "name": "Alternative holiday for Independence Movement Day",
+          "localName": "삼일절 대체 휴일"
         },
         {
           "date": "2026-05-01",
-          "localName": "노동절",
-          "name": "Labour Day"
+          "name": "Labor Day",
+          "localName": "노동절"
         },
         {
           "date": "2026-05-05",
-          "localName": "어린이날",
-          "name": "Children's Day"
+          "name": "Children's Day",
+          "localName": "어린이날"
+        },
+        {
+          "date": "2026-05-24",
+          "name": "Buddha's Birthday",
+          "localName": "부처님오신날"
         },
         {
           "date": "2026-05-25",
-          "localName": "부처님 오신 날",
-          "name": "Buddha's Birthday"
+          "name": "Alternative holiday for Buddha's Birthday",
+          "localName": "부처님오신날 대체 휴일"
         },
         {
           "date": "2026-06-03",
-          "localName": "지방 선거일",
-          "name": "Local Election Day"
+          "name": "Local Election Day",
+          "localName": "지방선거일"
         },
         {
           "date": "2026-06-06",
-          "localName": "현충일",
-          "name": "Memorial Day"
+          "name": "Memorial Day",
+          "localName": "현충일"
         },
         {
           "date": "2026-07-17",
-          "localName": "제헌절",
-          "name": "Constitution Day"
+          "name": "Constitution Day",
+          "localName": "제헌절"
+        },
+        {
+          "date": "2026-08-15",
+          "name": "Liberation Day",
+          "localName": "광복절"
         },
         {
           "date": "2026-08-17",
-          "localName": "광복절",
-          "name": "Liberation Day"
+          "name": "Alternative holiday for Liberation Day",
+          "localName": "광복절 대체 휴일"
         },
         {
           "date": "2026-09-24",
-          "localName": "추석",
-          "name": "Chuseok"
+          "name": "The day preceding Chuseok",
+          "localName": "추석 전날"
         },
         {
           "date": "2026-09-25",
-          "localName": "추석",
-          "name": "Chuseok"
+          "name": "Chuseok",
+          "localName": "추석"
         },
         {
           "date": "2026-09-26",
-          "localName": "추석",
-          "name": "Chuseok"
+          "name": "The second day of Chuseok",
+          "localName": "추석 다음날"
+        },
+        {
+          "date": "2026-10-03",
+          "name": "National Foundation Day",
+          "localName": "개천절"
         },
         {
           "date": "2026-10-05",
-          "localName": "개천절",
-          "name": "National Foundation Day"
+          "name": "Alternative holiday for National Foundation Day",
+          "localName": "개천절 대체 휴일"
         },
         {
           "date": "2026-10-09",
-          "localName": "한글날",
-          "name": "Hangul Day"
+          "name": "Hangul Day",
+          "localName": "한글날"
         },
         {
           "date": "2026-12-25",
-          "localName": "크리스마스",
-          "name": "Christmas Day"
+          "name": "Christmas Day",
+          "localName": "기독탄신일"
         },
         {
           "date": "2027-01-01",
-          "localName": "새해",
-          "name": "New Year's Day"
+          "name": "New Year's Day",
+          "localName": "신정연휴"
         },
         {
           "date": "2027-02-06",
-          "localName": "설날",
-          "name": "Lunar New Year"
+          "name": "The day preceding Korean New Year",
+          "localName": "설날 전날"
+        },
+        {
+          "date": "2027-02-07",
+          "name": "Korean New Year",
+          "localName": "설날"
         },
         {
           "date": "2027-02-08",
-          "localName": "설날",
-          "name": "Lunar New Year"
+          "name": "The second day of Korean New Year",
+          "localName": "설날 다음날"
         },
         {
           "date": "2027-02-09",
-          "localName": "설날",
-          "name": "Lunar New Year"
+          "name": "Alternative holiday for Korean New Year",
+          "localName": "설날 대체 휴일"
         },
         {
           "date": "2027-03-01",
-          "localName": "3·1절",
-          "name": "Independence Movement Day"
+          "name": "Independence Movement Day",
+          "localName": "삼일절"
+        },
+        {
+          "date": "2027-05-01",
+          "name": "Labor Day",
+          "localName": "노동절"
         },
         {
           "date": "2027-05-03",
-          "localName": "노동절",
-          "name": "Labour Day"
+          "name": "Alternative holiday for Labor Day",
+          "localName": "노동절 대체 휴일"
         },
         {
           "date": "2027-05-05",
-          "localName": "어린이날",
-          "name": "Children's Day"
+          "name": "Children's Day",
+          "localName": "어린이날"
         },
         {
           "date": "2027-05-13",
-          "localName": "부처님 오신 날",
-          "name": "Buddha's Birthday"
+          "name": "Buddha's Birthday",
+          "localName": "부처님오신날"
         },
         {
           "date": "2027-06-06",
-          "localName": "현충일",
-          "name": "Memorial Day"
+          "name": "Memorial Day",
+          "localName": "현충일"
+        },
+        {
+          "date": "2027-07-17",
+          "name": "Constitution Day",
+          "localName": "제헌절"
         },
         {
           "date": "2027-07-19",
-          "localName": "제헌절",
-          "name": "Constitution Day"
+          "name": "Alternative holiday for Constitution Day",
+          "localName": "제헌절 대체 휴일"
+        },
+        {
+          "date": "2027-08-15",
+          "name": "Liberation Day",
+          "localName": "광복절"
         },
         {
           "date": "2027-08-16",
-          "localName": "광복절",
-          "name": "Liberation Day"
+          "name": "Alternative holiday for Liberation Day",
+          "localName": "광복절 대체 휴일"
         },
         {
           "date": "2027-09-14",
-          "localName": "추석",
-          "name": "Chuseok"
+          "name": "The day preceding Chuseok",
+          "localName": "추석 전날"
         },
         {
           "date": "2027-09-15",
-          "localName": "추석",
-          "name": "Chuseok"
+          "name": "Chuseok",
+          "localName": "추석"
         },
         {
           "date": "2027-09-16",
-          "localName": "추석",
-          "name": "Chuseok"
+          "name": "The second day of Chuseok",
+          "localName": "추석 다음날"
+        },
+        {
+          "date": "2027-10-03",
+          "name": "National Foundation Day",
+          "localName": "개천절"
         },
         {
           "date": "2027-10-04",
-          "localName": "개천절",
-          "name": "National Foundation Day"
+          "name": "Alternative holiday for National Foundation Day",
+          "localName": "개천절 대체 휴일"
+        },
+        {
+          "date": "2027-10-09",
+          "name": "Hangul Day",
+          "localName": "한글날"
         },
         {
           "date": "2027-10-11",
-          "localName": "한글날",
-          "name": "Hangul Day"
+          "name": "Alternative holiday for Hangul Day",
+          "localName": "한글날 대체 휴일"
         },
         {
           "date": "2027-12-25",
-          "localName": "크리스마스",
-          "name": "Christmas Day"
+          "name": "Christmas Day",
+          "localName": "기독탄신일"
+        },
+        {
+          "date": "2027-12-27",
+          "name": "Alternative holiday for Christmas Day",
+          "localName": "기독탄신일 대체 휴일"
         }
       ]
     },
@@ -340,163 +395,178 @@
       "holidays": [
         {
           "date": "2026-01-01",
-          "localName": "元日",
-          "name": "New Year's Day"
+          "name": "New Year's Day",
+          "localName": "元日"
         },
         {
           "date": "2026-01-12",
-          "localName": "成人の日",
-          "name": "Coming of Age Day"
+          "name": "Coming of Age Day",
+          "localName": "成人の日"
         },
         {
           "date": "2026-02-11",
-          "localName": "建国記念の日",
-          "name": "Foundation Day"
+          "name": "Foundation Day",
+          "localName": "建国記念の日"
         },
         {
           "date": "2026-02-23",
-          "localName": "天皇誕生日",
-          "name": "The Emperor's Birthday"
+          "name": "Emperor's Birthday",
+          "localName": "天皇誕生日"
         },
         {
           "date": "2026-03-20",
-          "localName": "春分の日",
-          "name": "Vernal Equinox Day"
+          "name": "Vernal Equinox Day",
+          "localName": "春分の日"
         },
         {
           "date": "2026-04-29",
-          "localName": "昭和の日",
-          "name": "Shōwa Day"
+          "name": "Showa Day",
+          "localName": "昭和の日"
+        },
+        {
+          "date": "2026-05-03",
+          "name": "Constitution Day",
+          "localName": "憲法記念日"
         },
         {
           "date": "2026-05-04",
-          "localName": "みどりの日",
-          "name": "Greenery Day"
+          "name": "Greenery Day",
+          "localName": "みどりの日"
         },
         {
           "date": "2026-05-05",
-          "localName": "こどもの日",
-          "name": "Children's Day"
+          "name": "Children's Day",
+          "localName": "こどもの日"
         },
         {
           "date": "2026-05-06",
-          "localName": "憲法記念日",
-          "name": "Constitution Memorial Day"
+          "name": "Substitute Holiday",
+          "localName": "振替休日"
         },
         {
           "date": "2026-07-20",
-          "localName": "海の日",
-          "name": "Marine Day"
+          "name": "Marine Day",
+          "localName": "海の日"
         },
         {
           "date": "2026-08-11",
-          "localName": "山の日",
-          "name": "Mountain Day"
+          "name": "Mountain Day",
+          "localName": "山の日"
         },
         {
           "date": "2026-09-21",
-          "localName": "敬老の日",
-          "name": "Respect for the Aged Day"
+          "name": "Respect for the Aged Day",
+          "localName": "敬老の日"
+        },
+        {
+          "date": "2026-09-22",
+          "name": "National Holiday",
+          "localName": "国民の休日"
         },
         {
           "date": "2026-09-23",
-          "localName": "秋分の日",
-          "name": "Autumnal Equinox Day"
+          "name": "Autumnal Equinox Day",
+          "localName": "秋分の日"
         },
         {
           "date": "2026-10-12",
-          "localName": "スポーツの日",
-          "name": "Sports Day"
+          "name": "Sports Day",
+          "localName": "スポーツの日"
         },
         {
           "date": "2026-11-03",
-          "localName": "文化の日",
-          "name": "Culture Day"
+          "name": "Culture Day",
+          "localName": "文化の日"
         },
         {
           "date": "2026-11-23",
-          "localName": "勤労感謝の日",
-          "name": "Labour Thanksgiving Day"
+          "name": "Labor Thanksgiving Day",
+          "localName": "勤労感謝の日"
         },
         {
           "date": "2027-01-01",
-          "localName": "元日",
-          "name": "New Year's Day"
+          "name": "New Year's Day",
+          "localName": "元日"
         },
         {
           "date": "2027-01-11",
-          "localName": "成人の日",
-          "name": "Coming of Age Day"
+          "name": "Coming of Age Day",
+          "localName": "成人の日"
         },
         {
           "date": "2027-02-11",
-          "localName": "建国記念の日",
-          "name": "Foundation Day"
+          "name": "Foundation Day",
+          "localName": "建国記念の日"
         },
         {
           "date": "2027-02-23",
-          "localName": "天皇誕生日",
-          "name": "The Emperor's Birthday"
+          "name": "Emperor's Birthday",
+          "localName": "天皇誕生日"
         },
         {
           "date": "2027-03-21",
-          "localName": "春分の日",
-          "name": "Vernal Equinox Day"
+          "name": "Vernal Equinox Day",
+          "localName": "春分の日"
+        },
+        {
+          "date": "2027-03-22",
+          "name": "Substitute Holiday",
+          "localName": "振替休日"
         },
         {
           "date": "2027-04-29",
-          "localName": "昭和の日",
-          "name": "Shōwa Day"
+          "name": "Showa Day",
+          "localName": "昭和の日"
         },
         {
           "date": "2027-05-03",
-          "localName": "憲法記念日",
-          "name": "Constitution Memorial Day"
+          "name": "Constitution Day",
+          "localName": "憲法記念日"
         },
         {
           "date": "2027-05-04",
-          "localName": "みどりの日",
-          "name": "Greenery Day"
+          "name": "Greenery Day",
+          "localName": "みどりの日"
         },
         {
           "date": "2027-05-05",
-          "localName": "こどもの日",
-          "name": "Children's Day"
+          "name": "Children's Day",
+          "localName": "こどもの日"
         },
         {
           "date": "2027-07-19",
-          "localName": "海の日",
-          "name": "Marine Day"
+          "name": "Marine Day",
+          "localName": "海の日"
         },
         {
           "date": "2027-08-11",
-          "localName": "山の日",
-          "name": "Mountain Day"
+          "name": "Mountain Day",
+          "localName": "山の日"
         },
         {
           "date": "2027-09-20",
-          "localName": "敬老の日",
-          "name": "Respect for the Aged Day"
+          "name": "Respect for the Aged Day",
+          "localName": "敬老の日"
         },
         {
           "date": "2027-09-23",
-          "localName": "秋分の日",
-          "name": "Autumnal Equinox Day"
+          "name": "Autumnal Equinox Day",
+          "localName": "秋分の日"
         },
         {
           "date": "2027-10-11",
-          "localName": "スポーツの日",
-          "name": "Sports Day"
+          "name": "Sports Day",
+          "localName": "スポーツの日"
         },
         {
           "date": "2027-11-03",
-          "localName": "文化の日",
-          "name": "Culture Day"
+          "name": "Culture Day",
+          "localName": "文化の日"
         },
         {
           "date": "2027-11-23",
-          "localName": "勤労感謝の日",
-          "name": "Labour Thanksgiving Day"
+          "name": "Labor Thanksgiving Day",
+          "localName": "勤労感謝の日"
         }
       ]
     },
@@ -582,113 +652,138 @@
       "holidays": [
         {
           "date": "2026-01-01",
-          "localName": "New Year's Day",
-          "name": "New Year's Day"
+          "name": "New Year's Day",
+          "localName": "New Year's Day"
         },
         {
           "date": "2026-01-19",
-          "localName": "Martin Luther King, Jr. Day",
-          "name": "Martin Luther King, Jr. Day"
+          "name": "Martin Luther King Jr. Day",
+          "localName": "Martin Luther King Jr. Day"
         },
         {
           "date": "2026-02-16",
-          "localName": "Washington's Birthday",
-          "name": "Presidents Day"
+          "name": "Washington's Birthday",
+          "localName": "Washington's Birthday"
         },
         {
           "date": "2026-05-25",
-          "localName": "Memorial Day",
-          "name": "Memorial Day"
+          "name": "Memorial Day",
+          "localName": "Memorial Day"
         },
         {
           "date": "2026-06-19",
-          "localName": "Juneteenth National Independence Day",
-          "name": "Juneteenth National Independence Day"
+          "name": "Juneteenth National Independence Day",
+          "localName": "Juneteenth National Independence Day"
         },
         {
           "date": "2026-07-03",
-          "localName": "Independence Day",
-          "name": "Independence Day"
+          "name": "Independence Day (observed)",
+          "localName": "Independence Day (observed)"
+        },
+        {
+          "date": "2026-07-04",
+          "name": "Independence Day",
+          "localName": "Independence Day"
         },
         {
           "date": "2026-09-07",
-          "localName": "Labor Day",
-          "name": "Labour Day"
+          "name": "Labor Day",
+          "localName": "Labor Day"
         },
         {
           "date": "2026-10-12",
-          "localName": "Columbus Day",
-          "name": "Columbus Day"
+          "name": "Columbus Day",
+          "localName": "Columbus Day"
         },
         {
           "date": "2026-11-11",
-          "localName": "Veterans Day",
-          "name": "Veterans Day"
+          "name": "Veterans Day",
+          "localName": "Veterans Day"
         },
         {
           "date": "2026-11-26",
-          "localName": "Thanksgiving Day",
-          "name": "Thanksgiving Day"
+          "name": "Thanksgiving Day",
+          "localName": "Thanksgiving Day"
         },
         {
           "date": "2026-12-25",
-          "localName": "Christmas Day",
-          "name": "Christmas Day"
+          "name": "Christmas Day",
+          "localName": "Christmas Day"
         },
         {
           "date": "2027-01-01",
-          "localName": "New Year's Day",
-          "name": "New Year's Day"
+          "name": "New Year's Day",
+          "localName": "New Year's Day"
         },
         {
           "date": "2027-01-18",
-          "localName": "Martin Luther King, Jr. Day",
-          "name": "Martin Luther King, Jr. Day"
+          "name": "Martin Luther King Jr. Day",
+          "localName": "Martin Luther King Jr. Day"
         },
         {
           "date": "2027-02-15",
-          "localName": "Washington's Birthday",
-          "name": "Presidents Day"
+          "name": "Washington's Birthday",
+          "localName": "Washington's Birthday"
         },
         {
           "date": "2027-05-31",
-          "localName": "Memorial Day",
-          "name": "Memorial Day"
+          "name": "Memorial Day",
+          "localName": "Memorial Day"
         },
         {
           "date": "2027-06-18",
-          "localName": "Juneteenth National Independence Day",
-          "name": "Juneteenth National Independence Day"
+          "name": "Juneteenth National Independence Day (observed)",
+          "localName": "Juneteenth National Independence Day (observed)"
+        },
+        {
+          "date": "2027-06-19",
+          "name": "Juneteenth National Independence Day",
+          "localName": "Juneteenth National Independence Day"
+        },
+        {
+          "date": "2027-07-04",
+          "name": "Independence Day",
+          "localName": "Independence Day"
         },
         {
           "date": "2027-07-05",
-          "localName": "Independence Day",
-          "name": "Independence Day"
+          "name": "Independence Day (observed)",
+          "localName": "Independence Day (observed)"
         },
         {
           "date": "2027-09-06",
-          "localName": "Labor Day",
-          "name": "Labour Day"
+          "name": "Labor Day",
+          "localName": "Labor Day"
         },
         {
           "date": "2027-10-11",
-          "localName": "Columbus Day",
-          "name": "Columbus Day"
+          "name": "Columbus Day",
+          "localName": "Columbus Day"
         },
         {
           "date": "2027-11-11",
-          "localName": "Veterans Day",
-          "name": "Veterans Day"
+          "name": "Veterans Day",
+          "localName": "Veterans Day"
         },
         {
           "date": "2027-11-25",
-          "localName": "Thanksgiving Day",
-          "name": "Thanksgiving Day"
+          "name": "Thanksgiving Day",
+          "localName": "Thanksgiving Day"
         },
         {
           "date": "2027-12-24",
-          "localName": "Christmas Day",
-          "name": "Christmas Day"
+          "name": "Christmas Day (observed)",
+          "localName": "Christmas Day (observed)"
+        },
+        {
+          "date": "2027-12-25",
+          "name": "Christmas Day",
+          "localName": "Christmas Day"
+        },
+        {
+          "date": "2027-12-31",
+          "name": "New Year's Day (observed)",
+          "localName": "New Year's Day (observed)"
         }
       ]
     },
@@ -774,263 +869,293 @@
       "holidays": [
         {
           "date": "2026-01-01",
-          "localName": "New Year's Day",
-          "name": "New Year's Day"
+          "name": "New Year's Day",
+          "localName": "วันขึ้นปีใหม่"
         },
         {
           "date": "2026-01-02",
-          "localName": "New Year Special Holiday",
-          "name": "New Year Special Holiday"
+          "name": "Bridge Public Holiday",
+          "localName": "วันหยุดพิเศษ (เพิ่มเติม)"
         },
         {
-          "date": "2026-02-14",
-          "localName": "Valentine's Day",
-          "name": "Valentine's Day"
-        },
-        {
-          "date": "2026-02-17",
-          "localName": "Chinese New Year's Day",
-          "name": "Chinese New Year's Day"
-        },
-        {
-          "date": "2026-02-18",
-          "localName": "Second Day of Chinese New Year",
-          "name": "Second Day of Chinese New Year"
-        },
-        {
-          "date": "2026-02-19",
-          "localName": "Third Day of Chinese New Year",
-          "name": "Third Day of Chinese New Year"
+          "date": "2026-01-10",
+          "name": "National Children's Day",
+          "localName": "วันเด็กแห่งชาติ"
         },
         {
           "date": "2026-03-03",
-          "localName": "Makha Bucha",
-          "name": "Makha Bucha"
+          "name": "Makha Bucha",
+          "localName": "วันมาฆบูชา"
         },
         {
           "date": "2026-04-06",
-          "localName": "Chakri Day",
-          "name": "Chakri Day"
+          "name": "Chakri Memorial Day",
+          "localName": "วันพระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราช และวันที่ระลึกมหาจักรีบรมราชวงศ์"
         },
         {
           "date": "2026-04-13",
-          "localName": "Songkran",
-          "name": "Songkran"
+          "name": "Songkran Festival",
+          "localName": "วันสงกรานต์"
         },
         {
           "date": "2026-04-14",
-          "localName": "Songkran Holiday",
-          "name": "Songkran Holiday"
+          "name": "Songkran Festival",
+          "localName": "วันสงกรานต์"
         },
         {
           "date": "2026-04-15",
-          "localName": "Songkran Holiday",
-          "name": "Songkran Holiday"
+          "name": "Songkran Festival",
+          "localName": "วันสงกรานต์"
         },
         {
           "date": "2026-05-01",
-          "localName": "Labor Day",
-          "name": "Labor Day"
+          "name": "National Labor Day",
+          "localName": "วันแรงงานแห่งชาติ"
         },
         {
           "date": "2026-05-04",
-          "localName": "Coronation Day",
-          "name": "Coronation Day"
-        },
-        {
-          "date": "2026-05-13",
-          "localName": "Royal Ploughing Ceremony Day",
-          "name": "Royal Ploughing Ceremony Day"
+          "name": "Coronation Day",
+          "localName": "วันฉัตรมงคล"
         },
         {
           "date": "2026-05-31",
-          "localName": "Visakha Bucha",
-          "name": "Visakha Bucha"
+          "name": "Visakha Bucha",
+          "localName": "วันวิสาขบูชา"
         },
         {
           "date": "2026-06-01",
-          "localName": "Day off for Visakha Bucha",
-          "name": "Day off for Visakha Bucha"
+          "name": "Visakha Bucha (in lieu)",
+          "localName": "ชดเชยวันวิสาขบูชา"
         },
         {
           "date": "2026-06-03",
-          "localName": "Queen Suthida's Birthday",
-          "name": "Queen Suthida's Birthday"
+          "name": "HM Queen Suthida's Birthday",
+          "localName": "วันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสุทิดา พัชรสุธาพิมลลักษณ พระบรมราชินี"
         },
         {
           "date": "2026-07-28",
-          "localName": "King Vajiralongkorn's Birthday",
-          "name": "King Vajiralongkorn's Birthday"
+          "name": "HM King Maha Vajiralongkorn's Birthday",
+          "localName": "วันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระปรเมนทรรามาธิบดีศรีสินทรมหาวชิราลงกรณ พระวชิรเกล้าเจ้าอยู่หัว"
         },
         {
           "date": "2026-07-29",
-          "localName": "Asalha Bucha",
-          "name": "Asalha Bucha"
+          "name": "Asarnha Bucha",
+          "localName": "วันอาสาฬหบูชา"
+        },
+        {
+          "date": "2026-07-30",
+          "name": "Buddhist Lent Day",
+          "localName": "วันเข้าพรรษา"
         },
         {
           "date": "2026-08-12",
-          "localName": "The Queen Mother's Birthday",
-          "name": "The Queen Mother's Birthday"
+          "name": "HM Queen Sirikit The Queen Mother's Birthday",
+          "localName": "วันเฉลิมพระชนมพรรษาสมเด็จพระบรมราชชนนีพันปีหลวง"
+        },
+        {
+          "date": "2026-08-12",
+          "name": "National Mother's Day",
+          "localName": "วันแม่แห่งชาติ"
         },
         {
           "date": "2026-10-13",
-          "localName": "Anniversary of the Death of King Bhumibol",
-          "name": "Anniversary of the Death of King Bhumibol"
+          "name": "HM King Bhumibol Adulyadej Memorial Day",
+          "localName": "วันนวมินทรมหาราช"
         },
         {
           "date": "2026-10-23",
-          "localName": "Chulalongkorn Day",
-          "name": "Chulalongkorn Day"
+          "name": "HM King Chulalongkorn Memorial Day",
+          "localName": "วันปิยมหาราช"
         },
         {
           "date": "2026-12-05",
-          "localName": "King Bhumibol's Birthday",
-          "name": "King Bhumibol's Birthday"
+          "name": "HM King Bhumibol Adulyadej the Great's Birthday",
+          "localName": "วันคล้ายวันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร"
+        },
+        {
+          "date": "2026-12-05",
+          "name": "National Day",
+          "localName": "วันชาติ"
+        },
+        {
+          "date": "2026-12-05",
+          "name": "National Father's Day",
+          "localName": "วันพ่อแห่งชาติ"
         },
         {
           "date": "2026-12-07",
-          "localName": "King Bhumibol's Birthday observed",
-          "name": "King Bhumibol's Birthday observed"
+          "name": "HM King Bhumibol Adulyadej the Great's Birthday (in lieu)",
+          "localName": "ชดเชยวันคล้ายวันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร"
+        },
+        {
+          "date": "2026-12-07",
+          "name": "National Day (in lieu)",
+          "localName": "ชดเชยวันชาติ"
+        },
+        {
+          "date": "2026-12-07",
+          "name": "National Father's Day (in lieu)",
+          "localName": "ชดเชยวันพ่อแห่งชาติ"
         },
         {
           "date": "2026-12-10",
-          "localName": "Constitution Day",
-          "name": "Constitution Day"
-        },
-        {
-          "date": "2026-12-24",
-          "localName": "Christmas Eve",
-          "name": "Christmas Eve"
-        },
-        {
-          "date": "2026-12-25",
-          "localName": "Christmas Day",
-          "name": "Christmas Day"
+          "name": "Constitution Day",
+          "localName": "วันรัฐธรรมนูญ"
         },
         {
           "date": "2026-12-31",
-          "localName": "New Year's Eve",
-          "name": "New Year's Eve"
+          "name": "New Year's Eve",
+          "localName": "วันสิ้นปี"
         },
         {
           "date": "2027-01-01",
-          "localName": "New Year's Day",
-          "name": "New Year's Day"
+          "name": "New Year's Day",
+          "localName": "วันขึ้นปีใหม่"
         },
         {
-          "date": "2027-02-06",
-          "localName": "Chinese New Year's Day",
-          "name": "Chinese New Year's Day"
+          "date": "2027-01-09",
+          "name": "National Children's Day",
+          "localName": "วันเด็กแห่งชาติ"
         },
         {
-          "date": "2027-02-07",
-          "localName": "Second Day of Chinese New Year",
-          "name": "Second Day of Chinese New Year"
+          "date": "2027-02-21",
+          "name": "Makha Bucha",
+          "localName": "วันมาฆบูชา"
         },
         {
-          "date": "2027-02-08",
-          "localName": "Third Day of Chinese New Year",
-          "name": "Third Day of Chinese New Year"
-        },
-        {
-          "date": "2027-02-14",
-          "localName": "Valentine's Day",
-          "name": "Valentine's Day"
+          "date": "2027-02-22",
+          "name": "Makha Bucha (in lieu)",
+          "localName": "ชดเชยวันมาฆบูชา"
         },
         {
           "date": "2027-04-06",
-          "localName": "Chakri Day",
-          "name": "Chakri Day"
+          "name": "Chakri Memorial Day",
+          "localName": "วันพระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราช และวันที่ระลึกมหาจักรีบรมราชวงศ์"
         },
         {
           "date": "2027-04-13",
-          "localName": "Songkran",
-          "name": "Songkran"
+          "name": "Songkran Festival",
+          "localName": "วันสงกรานต์"
         },
         {
           "date": "2027-04-14",
-          "localName": "Songkran Holiday",
-          "name": "Songkran Holiday"
+          "name": "Songkran Festival",
+          "localName": "วันสงกรานต์"
         },
         {
           "date": "2027-04-15",
-          "localName": "Songkran Holiday",
-          "name": "Songkran Holiday"
+          "name": "Songkran Festival",
+          "localName": "วันสงกรานต์"
         },
         {
           "date": "2027-05-01",
-          "localName": "Labor Day",
-          "name": "Labor Day"
+          "name": "National Labor Day",
+          "localName": "วันแรงงานแห่งชาติ"
         },
         {
           "date": "2027-05-03",
-          "localName": "Labor Day observed",
-          "name": "Labor Day observed"
+          "name": "National Labor Day (in lieu)",
+          "localName": "ชดเชยวันแรงงานแห่งชาติ"
         },
         {
           "date": "2027-05-04",
-          "localName": "Coronation Day",
-          "name": "Coronation Day"
+          "name": "Coronation Day",
+          "localName": "วันฉัตรมงคล"
+        },
+        {
+          "date": "2027-05-20",
+          "name": "Visakha Bucha",
+          "localName": "วันวิสาขบูชา"
         },
         {
           "date": "2027-06-03",
-          "localName": "Queen Suthida's Birthday",
-          "name": "Queen Suthida's Birthday"
+          "name": "HM Queen Suthida's Birthday",
+          "localName": "วันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสุทิดา พัชรสุธาพิมลลักษณ พระบรมราชินี"
+        },
+        {
+          "date": "2027-07-18",
+          "name": "Asarnha Bucha",
+          "localName": "วันอาสาฬหบูชา"
+        },
+        {
+          "date": "2027-07-19",
+          "name": "Buddhist Lent Day",
+          "localName": "วันเข้าพรรษา"
+        },
+        {
+          "date": "2027-07-20",
+          "name": "Asarnha Bucha (in lieu)",
+          "localName": "ชดเชยวันอาสาฬหบูชา"
         },
         {
           "date": "2027-07-28",
-          "localName": "King Vajiralongkorn's Birthday",
-          "name": "King Vajiralongkorn's Birthday"
+          "name": "HM King Maha Vajiralongkorn's Birthday",
+          "localName": "วันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระปรเมนทรรามาธิบดีศรีสินทรมหาวชิราลงกรณ พระวชิรเกล้าเจ้าอยู่หัว"
         },
         {
           "date": "2027-08-12",
-          "localName": "The Queen Mother's Birthday",
-          "name": "The Queen Mother's Birthday"
+          "name": "HM Queen Sirikit The Queen Mother's Birthday",
+          "localName": "วันเฉลิมพระชนมพรรษาสมเด็จพระบรมราชชนนีพันปีหลวง"
+        },
+        {
+          "date": "2027-08-12",
+          "name": "National Mother's Day",
+          "localName": "วันแม่แห่งชาติ"
         },
         {
           "date": "2027-10-13",
-          "localName": "Anniversary of the Death of King Bhumibol",
-          "name": "Anniversary of the Death of King Bhumibol"
+          "name": "HM King Bhumibol Adulyadej Memorial Day",
+          "localName": "วันนวมินทรมหาราช"
         },
         {
           "date": "2027-10-23",
-          "localName": "Chulalongkorn Day",
-          "name": "Chulalongkorn Day"
+          "name": "HM King Chulalongkorn Memorial Day",
+          "localName": "วันปิยมหาราช"
         },
         {
           "date": "2027-10-25",
-          "localName": "Day off for Chulalongkorn Day",
-          "name": "Day off for Chulalongkorn Day"
+          "name": "HM King Chulalongkorn Memorial Day (in lieu)",
+          "localName": "ชดเชยวันปิยมหาราช"
         },
         {
           "date": "2027-12-05",
-          "localName": "King Bhumibol's Birthday",
-          "name": "King Bhumibol's Birthday"
+          "name": "HM King Bhumibol Adulyadej the Great's Birthday",
+          "localName": "วันคล้ายวันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร"
+        },
+        {
+          "date": "2027-12-05",
+          "name": "National Day",
+          "localName": "วันชาติ"
+        },
+        {
+          "date": "2027-12-05",
+          "name": "National Father's Day",
+          "localName": "วันพ่อแห่งชาติ"
         },
         {
           "date": "2027-12-06",
-          "localName": "King Bhumibol's Birthday observed",
-          "name": "King Bhumibol's Birthday observed"
+          "name": "HM King Bhumibol Adulyadej the Great's Birthday (in lieu)",
+          "localName": "ชดเชยวันคล้ายวันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร"
+        },
+        {
+          "date": "2027-12-06",
+          "name": "National Day (in lieu)",
+          "localName": "ชดเชยวันชาติ"
+        },
+        {
+          "date": "2027-12-06",
+          "name": "National Father's Day (in lieu)",
+          "localName": "ชดเชยวันพ่อแห่งชาติ"
         },
         {
           "date": "2027-12-10",
-          "localName": "Constitution Day",
-          "name": "Constitution Day"
-        },
-        {
-          "date": "2027-12-24",
-          "localName": "Christmas Eve",
-          "name": "Christmas Eve"
-        },
-        {
-          "date": "2027-12-25",
-          "localName": "Christmas Day",
-          "name": "Christmas Day"
+          "name": "Constitution Day",
+          "localName": "วันรัฐธรรมนูญ"
         },
         {
           "date": "2027-12-31",
-          "localName": "New Year's Eve",
-          "name": "New Year's Eve"
+          "name": "New Year's Eve",
+          "localName": "วันสิ้นปี"
         }
       ]
     },
@@ -1116,113 +1241,113 @@
       "holidays": [
         {
           "date": "2026-01-01",
-          "localName": "Jour de l'an",
-          "name": "New Year's Day"
+          "name": "New Year's Day",
+          "localName": "Jour de l'an"
         },
         {
           "date": "2026-04-06",
-          "localName": "Lundi de Pâques",
-          "name": "Easter Monday"
+          "name": "Easter Monday",
+          "localName": "Lundi de Pâques"
         },
         {
           "date": "2026-05-01",
-          "localName": "Fête du Travail",
-          "name": "Labour Day"
+          "name": "Labor Day",
+          "localName": "Fête du Travail"
         },
         {
           "date": "2026-05-08",
-          "localName": "Victoire 1945",
-          "name": "Victory in Europe Day"
+          "name": "Victory Day",
+          "localName": "Fête de la Victoire"
         },
         {
           "date": "2026-05-14",
-          "localName": "Ascension",
-          "name": "Ascension Day"
+          "name": "Ascension Day",
+          "localName": "Ascension"
         },
         {
           "date": "2026-05-25",
-          "localName": "Lundi de Pentecôte",
-          "name": "Whit Monday"
+          "name": "Pentecost Monday",
+          "localName": "Lundi de Pentecôte"
         },
         {
           "date": "2026-07-14",
-          "localName": "Fête nationale",
-          "name": "Bastille Day"
+          "name": "National Day",
+          "localName": "Fête nationale"
         },
         {
           "date": "2026-08-15",
-          "localName": "Assomption",
-          "name": "Assumption Day"
+          "name": "Assumption Day",
+          "localName": "Assomption"
         },
         {
           "date": "2026-11-01",
-          "localName": "Toussaint",
-          "name": "All Saints' Day"
+          "name": "All Saints' Day",
+          "localName": "Toussaint"
         },
         {
           "date": "2026-11-11",
-          "localName": "Armistice 1918",
-          "name": "Armistice Day"
+          "name": "Armistice Day",
+          "localName": "Armistice"
         },
         {
           "date": "2026-12-25",
-          "localName": "Noël",
-          "name": "Christmas Day"
+          "name": "Christmas Day",
+          "localName": "Noël"
         },
         {
           "date": "2027-01-01",
-          "localName": "Jour de l'an",
-          "name": "New Year's Day"
+          "name": "New Year's Day",
+          "localName": "Jour de l'an"
         },
         {
           "date": "2027-03-29",
-          "localName": "Lundi de Pâques",
-          "name": "Easter Monday"
+          "name": "Easter Monday",
+          "localName": "Lundi de Pâques"
         },
         {
           "date": "2027-05-01",
-          "localName": "Fête du Travail",
-          "name": "Labour Day"
+          "name": "Labor Day",
+          "localName": "Fête du Travail"
         },
         {
           "date": "2027-05-06",
-          "localName": "Ascension",
-          "name": "Ascension Day"
+          "name": "Ascension Day",
+          "localName": "Ascension"
         },
         {
           "date": "2027-05-08",
-          "localName": "Victoire 1945",
-          "name": "Victory in Europe Day"
+          "name": "Victory Day",
+          "localName": "Fête de la Victoire"
         },
         {
           "date": "2027-05-17",
-          "localName": "Lundi de Pentecôte",
-          "name": "Whit Monday"
+          "name": "Pentecost Monday",
+          "localName": "Lundi de Pentecôte"
         },
         {
           "date": "2027-07-14",
-          "localName": "Fête nationale",
-          "name": "Bastille Day"
+          "name": "National Day",
+          "localName": "Fête nationale"
         },
         {
           "date": "2027-08-15",
-          "localName": "Assomption",
-          "name": "Assumption Day"
+          "name": "Assumption Day",
+          "localName": "Assomption"
         },
         {
           "date": "2027-11-01",
-          "localName": "Toussaint",
-          "name": "All Saints' Day"
+          "name": "All Saints' Day",
+          "localName": "Toussaint"
         },
         {
           "date": "2027-11-11",
-          "localName": "Armistice 1918",
-          "name": "Armistice Day"
+          "name": "Armistice Day",
+          "localName": "Armistice"
         },
         {
           "date": "2027-12-25",
-          "localName": "Noël",
-          "name": "Christmas Day"
+          "name": "Christmas Day",
+          "localName": "Noël"
         }
       ]
     },
@@ -1308,133 +1433,143 @@
       "holidays": [
         {
           "date": "2026-01-01",
-          "localName": "Capodanno",
-          "name": "New Year's Day"
+          "name": "New Year's Day",
+          "localName": "Capodanno"
         },
         {
           "date": "2026-01-06",
-          "localName": "Epifania",
-          "name": "Epiphany"
+          "name": "Epiphany",
+          "localName": "Epifania"
         },
         {
           "date": "2026-04-05",
-          "localName": "Pasqua",
-          "name": "Easter Sunday"
+          "name": "Easter Sunday",
+          "localName": "Pasqua"
         },
         {
           "date": "2026-04-06",
-          "localName": "Lunedì dell'Angelo",
-          "name": "Easter Monday"
+          "name": "Easter Monday",
+          "localName": "Lunedì dell'Angelo"
         },
         {
           "date": "2026-04-25",
-          "localName": "Festa della Liberazione",
-          "name": "Liberation Day"
+          "name": "Liberation Day",
+          "localName": "Anniversario della Liberazione"
         },
         {
           "date": "2026-05-01",
-          "localName": "Festa del Lavoro",
-          "name": "International Workers Day"
+          "name": "Labor Day",
+          "localName": "Festa del Lavoro"
         },
         {
           "date": "2026-06-02",
-          "localName": "Festa della Repubblica",
-          "name": "Republic Day"
+          "name": "Republic Day",
+          "localName": "Festa della Repubblica"
         },
         {
           "date": "2026-08-15",
-          "localName": "Ferragosto o Assunzione",
-          "name": "Assumption Day"
+          "name": "Assumption Of Mary Day",
+          "localName": "Assunzione della Beata Vergine Maria"
         },
         {
           "date": "2026-10-04",
-          "localName": "San Francesco d'Assisi",
-          "name": "St. Francis of Assisi's Day"
+          "name": "Saint Francis of Assisi, Patron Saint of Italy",
+          "localName": "Festa nazionale di San Francesco d'Assisi, patrono d'Italia"
         },
         {
           "date": "2026-11-01",
-          "localName": "Tutti i Santi",
-          "name": "All Saints Day"
+          "name": "National Unity Day",
+          "localName": "Giorno dell'unità nazionale"
+        },
+        {
+          "date": "2026-11-01",
+          "name": "All Saints' Day",
+          "localName": "Ognissanti"
         },
         {
           "date": "2026-12-08",
-          "localName": "Immacolata Concezione",
-          "name": "Immaculate Conception"
+          "name": "Immaculate Conception",
+          "localName": "Immacolata Concezione"
         },
         {
           "date": "2026-12-25",
-          "localName": "Natale",
-          "name": "Christmas Day"
+          "name": "Christmas Day",
+          "localName": "Natale"
         },
         {
           "date": "2026-12-26",
-          "localName": "Santo Stefano",
-          "name": "St. Stephen's Day"
+          "name": "Saint Stephen's Day",
+          "localName": "Santo Stefano"
         },
         {
           "date": "2027-01-01",
-          "localName": "Capodanno",
-          "name": "New Year's Day"
+          "name": "New Year's Day",
+          "localName": "Capodanno"
         },
         {
           "date": "2027-01-06",
-          "localName": "Epifania",
-          "name": "Epiphany"
+          "name": "Epiphany",
+          "localName": "Epifania"
         },
         {
           "date": "2027-03-28",
-          "localName": "Pasqua",
-          "name": "Easter Sunday"
+          "name": "Easter Sunday",
+          "localName": "Pasqua"
         },
         {
           "date": "2027-03-29",
-          "localName": "Lunedì dell'Angelo",
-          "name": "Easter Monday"
+          "name": "Easter Monday",
+          "localName": "Lunedì dell'Angelo"
         },
         {
           "date": "2027-04-25",
-          "localName": "Festa della Liberazione",
-          "name": "Liberation Day"
+          "name": "Liberation Day",
+          "localName": "Anniversario della Liberazione"
         },
         {
           "date": "2027-05-01",
-          "localName": "Festa del Lavoro",
-          "name": "International Workers Day"
+          "name": "Labor Day",
+          "localName": "Festa del Lavoro"
         },
         {
           "date": "2027-06-02",
-          "localName": "Festa della Repubblica",
-          "name": "Republic Day"
+          "name": "Republic Day",
+          "localName": "Festa della Repubblica"
         },
         {
           "date": "2027-08-15",
-          "localName": "Ferragosto o Assunzione",
-          "name": "Assumption Day"
+          "name": "Assumption Of Mary Day",
+          "localName": "Assunzione della Beata Vergine Maria"
         },
         {
           "date": "2027-10-04",
-          "localName": "San Francesco d'Assisi",
-          "name": "St. Francis of Assisi's Day"
+          "name": "Saint Francis of Assisi, Patron Saint of Italy",
+          "localName": "Festa nazionale di San Francesco d'Assisi, patrono d'Italia"
         },
         {
           "date": "2027-11-01",
-          "localName": "Tutti i Santi",
-          "name": "All Saints Day"
+          "name": "All Saints' Day",
+          "localName": "Ognissanti"
+        },
+        {
+          "date": "2027-11-07",
+          "name": "National Unity Day",
+          "localName": "Giorno dell'unità nazionale"
         },
         {
           "date": "2027-12-08",
-          "localName": "Immacolata Concezione",
-          "name": "Immaculate Conception"
+          "name": "Immaculate Conception",
+          "localName": "Immacolata Concezione"
         },
         {
           "date": "2027-12-25",
-          "localName": "Natale",
-          "name": "Christmas Day"
+          "name": "Christmas Day",
+          "localName": "Natale"
         },
         {
           "date": "2027-12-26",
-          "localName": "Santo Stefano",
-          "name": "St. Stephen's Day"
+          "name": "Saint Stephen's Day",
+          "localName": "Santo Stefano"
         }
       ]
     },
@@ -1520,63 +1655,208 @@
       "holidays": [
         {
           "date": "2026-01-01",
-          "localName": "元旦",
-          "name": "New Year's Day"
+          "name": "New Year's Day",
+          "localName": "元旦"
+        },
+        {
+          "date": "2026-01-02",
+          "name": "Day off (substituted from 01/04/2026)",
+          "localName": "休息日（由 2026-01-04 调休）"
+        },
+        {
+          "date": "2026-02-16",
+          "name": "Chinese New Year's Eve",
+          "localName": "农历除夕"
         },
         {
           "date": "2026-02-17",
-          "localName": "春节",
-          "name": "Chinese New Year (Spring Festival)"
+          "name": "Chinese New Year (Spring Festival)",
+          "localName": "春节"
+        },
+        {
+          "date": "2026-02-18",
+          "name": "Chinese New Year (Spring Festival)",
+          "localName": "春节"
+        },
+        {
+          "date": "2026-02-19",
+          "name": "Chinese New Year (Spring Festival)",
+          "localName": "春节"
+        },
+        {
+          "date": "2026-02-20",
+          "name": "Day off (substituted from 02/14/2026)",
+          "localName": "休息日（由 2026-02-14 调休）"
+        },
+        {
+          "date": "2026-02-23",
+          "name": "Day off (substituted from 02/28/2026)",
+          "localName": "休息日（由 2026-02-28 调休）"
+        },
+        {
+          "date": "2026-04-05",
+          "name": "Tomb-Sweeping Day",
+          "localName": "清明节"
+        },
+        {
+          "date": "2026-04-06",
+          "name": "Tomb-Sweeping Day (observed)",
+          "localName": "清明节（补假）"
         },
         {
           "date": "2026-05-01",
-          "localName": "劳动节",
-          "name": "Labour Day"
+          "name": "Labor Day",
+          "localName": "劳动节"
+        },
+        {
+          "date": "2026-05-02",
+          "name": "Labor Day",
+          "localName": "劳动节"
+        },
+        {
+          "date": "2026-05-04",
+          "name": "Labor Day (observed)",
+          "localName": "劳动节（补假）"
+        },
+        {
+          "date": "2026-05-05",
+          "name": "Day off (substituted from 05/09/2026)",
+          "localName": "休息日（由 2026-05-09 调休）"
         },
         {
           "date": "2026-06-19",
-          "localName": "端午节",
-          "name": "Dragon Boat Festival"
+          "name": "Dragon Boat Festival",
+          "localName": "端午节"
         },
         {
           "date": "2026-09-25",
-          "localName": "中秋节",
-          "name": "Mid-Autumn Festival"
+          "name": "Mid-Autumn Festival",
+          "localName": "中秋节"
         },
         {
           "date": "2026-10-01",
-          "localName": "国庆节",
-          "name": "National Day"
+          "name": "National Day",
+          "localName": "国庆节"
+        },
+        {
+          "date": "2026-10-02",
+          "name": "National Day",
+          "localName": "国庆节"
+        },
+        {
+          "date": "2026-10-03",
+          "name": "National Day",
+          "localName": "国庆节"
+        },
+        {
+          "date": "2026-10-05",
+          "name": "National Day (observed)",
+          "localName": "国庆节（补假）"
+        },
+        {
+          "date": "2026-10-06",
+          "name": "Day off (substituted from 09/20/2026)",
+          "localName": "休息日（由 2026-09-20 调休）"
+        },
+        {
+          "date": "2026-10-07",
+          "name": "Day off (substituted from 10/10/2026)",
+          "localName": "休息日（由 2026-10-10 调休）"
         },
         {
           "date": "2027-01-01",
-          "localName": "元旦",
-          "name": "New Year's Day"
+          "name": "New Year's Day",
+          "localName": "元旦"
+        },
+        {
+          "date": "2027-02-05",
+          "name": "Chinese New Year's Eve",
+          "localName": "农历除夕"
         },
         {
           "date": "2027-02-06",
-          "localName": "春节",
-          "name": "Chinese New Year (Spring Festival)"
+          "name": "Chinese New Year (Spring Festival)",
+          "localName": "春节"
+        },
+        {
+          "date": "2027-02-07",
+          "name": "Chinese New Year (Spring Festival)",
+          "localName": "春节"
+        },
+        {
+          "date": "2027-02-08",
+          "name": "Chinese New Year (Spring Festival)",
+          "localName": "春节"
+        },
+        {
+          "date": "2027-02-09",
+          "name": "Chinese New Year (Spring Festival) (observed)",
+          "localName": "春节（补假）"
+        },
+        {
+          "date": "2027-02-10",
+          "name": "Chinese New Year (Spring Festival) (observed)",
+          "localName": "春节（补假）"
+        },
+        {
+          "date": "2027-04-05",
+          "name": "Tomb-Sweeping Day",
+          "localName": "清明节"
         },
         {
           "date": "2027-05-01",
-          "localName": "劳动节",
-          "name": "Labour Day"
+          "name": "Labor Day",
+          "localName": "劳动节"
+        },
+        {
+          "date": "2027-05-02",
+          "name": "Labor Day",
+          "localName": "劳动节"
+        },
+        {
+          "date": "2027-05-03",
+          "name": "Labor Day (observed)",
+          "localName": "劳动节（补假）"
+        },
+        {
+          "date": "2027-05-04",
+          "name": "Labor Day (observed)",
+          "localName": "劳动节（补假）"
         },
         {
           "date": "2027-06-09",
-          "localName": "端午节",
-          "name": "Dragon Boat Festival"
+          "name": "Dragon Boat Festival",
+          "localName": "端午节"
         },
         {
           "date": "2027-09-15",
-          "localName": "中秋节",
-          "name": "Mid-Autumn Festival"
+          "name": "Mid-Autumn Festival",
+          "localName": "中秋节"
         },
         {
           "date": "2027-10-01",
-          "localName": "国庆节",
-          "name": "National Day"
+          "name": "National Day",
+          "localName": "国庆节"
+        },
+        {
+          "date": "2027-10-02",
+          "name": "National Day",
+          "localName": "国庆节"
+        },
+        {
+          "date": "2027-10-03",
+          "name": "National Day",
+          "localName": "国庆节"
+        },
+        {
+          "date": "2027-10-04",
+          "name": "National Day (observed)",
+          "localName": "国庆节（补假）"
+        },
+        {
+          "date": "2027-10-05",
+          "name": "National Day (observed)",
+          "localName": "国庆节（补假）"
         }
       ]
     },
@@ -1662,103 +1942,88 @@
       "holidays": [
         {
           "date": "2026-01-01",
-          "localName": "Año Nuevo",
-          "name": "New Year's Day"
+          "name": "New Year's Day",
+          "localName": "Año Nuevo"
         },
         {
           "date": "2026-01-06",
-          "localName": "Día de Reyes / Epifanía del Señor",
-          "name": "Epiphany"
+          "name": "Epiphany",
+          "localName": "Epifanía del Señor"
         },
         {
           "date": "2026-04-03",
-          "localName": "Viernes Santo",
-          "name": "Good Friday"
+          "name": "Good Friday",
+          "localName": "Viernes Santo"
         },
         {
           "date": "2026-05-01",
-          "localName": "Fiesta del trabajo",
-          "name": "Labour Day"
+          "name": "Labor Day",
+          "localName": "Fiesta del Trabajo"
         },
         {
           "date": "2026-08-15",
-          "localName": "Asunción",
-          "name": "Assumption"
+          "name": "Assumption Day",
+          "localName": "Asunción de la Virgen"
         },
         {
           "date": "2026-10-12",
-          "localName": "Fiesta Nacional de España",
-          "name": "National Day of Spain"
-        },
-        {
-          "date": "2026-11-01",
-          "localName": "Día de todos los Santos",
-          "name": "All Saints Day"
-        },
-        {
-          "date": "2026-12-06",
-          "localName": "Día de la Constitución",
-          "name": "Constitution Day"
+          "name": "National Day",
+          "localName": "Fiesta Nacional de España"
         },
         {
           "date": "2026-12-08",
-          "localName": "Inmaculada Concepción",
-          "name": "Immaculate Conception"
+          "name": "Immaculate Conception",
+          "localName": "Inmaculada Concepción"
         },
         {
           "date": "2026-12-25",
-          "localName": "Navidad",
-          "name": "Christmas Day"
+          "name": "Christmas Day",
+          "localName": "Natividad del Señor"
         },
         {
           "date": "2027-01-01",
-          "localName": "Año Nuevo",
-          "name": "New Year's Day"
+          "name": "New Year's Day",
+          "localName": "Año Nuevo"
         },
         {
           "date": "2027-01-06",
-          "localName": "Día de Reyes / Epifanía del Señor",
-          "name": "Epiphany"
+          "name": "Epiphany",
+          "localName": "Epifanía del Señor"
         },
         {
           "date": "2027-03-26",
-          "localName": "Viernes Santo",
-          "name": "Good Friday"
+          "name": "Good Friday",
+          "localName": "Viernes Santo"
         },
         {
           "date": "2027-05-01",
-          "localName": "Fiesta del trabajo",
-          "name": "Labour Day"
-        },
-        {
-          "date": "2027-08-15",
-          "localName": "Asunción",
-          "name": "Assumption"
+          "name": "Labor Day",
+          "localName": "Fiesta del Trabajo"
         },
         {
           "date": "2027-10-12",
-          "localName": "Fiesta Nacional de España",
-          "name": "National Day of Spain"
+          "name": "National Day",
+          "localName": "Fiesta Nacional de España"
         },
         {
           "date": "2027-11-01",
-          "localName": "Día de todos los Santos",
-          "name": "All Saints Day"
+          "name": "All Saints' Day",
+          "localName": "Todos los Santos"
         },
         {
           "date": "2027-12-06",
-          "localName": "Día de la Constitución",
-          "name": "Constitution Day"
+          "name": "Constitution Day",
+          "localName": "Día de la Constitución Española"
         },
         {
           "date": "2027-12-08",
-          "localName": "Inmaculada Concepción",
-          "name": "Immaculate Conception"
+          "name": "Immaculate Conception",
+          "localName": "Inmaculada Concepción"
         },
         {
           "date": "2027-12-25",
-          "localName": "Navidad",
-          "name": "Christmas Day"
+          "name": "Christmas Day",
+          "localName": "Natividad del Señor"
         }
       ]
     },
@@ -1844,43 +2109,133 @@
       "holidays": [
         {
           "date": "2026-01-01",
-          "localName": "Tết dương lịch",
-          "name": "New Year's Day"
+          "name": "New Year's Day",
+          "localName": "Tết Dương lịch"
+        },
+        {
+          "date": "2026-02-16",
+          "name": "Lunar New Year's Eve",
+          "localName": "Giao thừa Tết Nguyên Đán"
+        },
+        {
+          "date": "2026-02-17",
+          "name": "Lunar New Year",
+          "localName": "Tết Nguyên Đán"
+        },
+        {
+          "date": "2026-02-18",
+          "name": "Second Day of Lunar New Year",
+          "localName": "Mùng hai Tết Nguyên Đán"
+        },
+        {
+          "date": "2026-02-19",
+          "name": "Third Day of Lunar New Year",
+          "localName": "Mùng ba Tết Nguyên Đán"
+        },
+        {
+          "date": "2026-02-20",
+          "name": "Fourth Day of Lunar New Year",
+          "localName": "Mùng bốn Tết Nguyên Đán"
+        },
+        {
+          "date": "2026-04-26",
+          "name": "Hung Kings' Commemoration Day",
+          "localName": "Ngày Giỗ Tổ Hùng Vương"
+        },
+        {
+          "date": "2026-04-27",
+          "name": "Hung Kings' Commemoration Day (observed)",
+          "localName": "Ngày Giỗ Tổ Hùng Vương (nghỉ bù)"
         },
         {
           "date": "2026-04-30",
-          "localName": "Ngày Giải phóng miền Nam, thống nhất đất nước",
-          "name": "Reunification Day"
+          "name": "Liberation Day/Reunification Day",
+          "localName": "Ngày Chiến thắng"
         },
         {
           "date": "2026-05-01",
-          "localName": "Ngày Quốc tế lao động",
-          "name": "Labour Day"
+          "name": "International Labor Day",
+          "localName": "Ngày Quốc tế Lao động"
+        },
+        {
+          "date": "2026-09-01",
+          "name": "National Day",
+          "localName": "Quốc khánh"
         },
         {
           "date": "2026-09-02",
-          "localName": "Quốc khánh",
-          "name": "National Day"
+          "name": "National Day",
+          "localName": "Quốc khánh"
         },
         {
           "date": "2027-01-01",
-          "localName": "Tết dương lịch",
-          "name": "New Year's Day"
+          "name": "New Year's Day",
+          "localName": "Tết Dương lịch"
+        },
+        {
+          "date": "2027-02-04",
+          "name": "29 of Lunar New Year",
+          "localName": "29 Tết"
+        },
+        {
+          "date": "2027-02-05",
+          "name": "Lunar New Year's Eve",
+          "localName": "Giao thừa Tết Nguyên Đán"
+        },
+        {
+          "date": "2027-02-06",
+          "name": "Lunar New Year",
+          "localName": "Tết Nguyên Đán"
+        },
+        {
+          "date": "2027-02-07",
+          "name": "Second Day of Lunar New Year",
+          "localName": "Mùng hai Tết Nguyên Đán"
+        },
+        {
+          "date": "2027-02-08",
+          "name": "Third Day of Lunar New Year",
+          "localName": "Mùng ba Tết Nguyên Đán"
+        },
+        {
+          "date": "2027-02-09",
+          "name": "Fourth Day of Lunar New Year",
+          "localName": "Mùng bốn Tết Nguyên Đán"
+        },
+        {
+          "date": "2027-02-10",
+          "name": "Fifth Day of Lunar New Year",
+          "localName": "Mùng năm Tết Nguyên Đán"
+        },
+        {
+          "date": "2027-04-16",
+          "name": "Hung Kings' Commemoration Day",
+          "localName": "Ngày Giỗ Tổ Hùng Vương"
         },
         {
           "date": "2027-04-30",
-          "localName": "Ngày Giải phóng miền Nam, thống nhất đất nước",
-          "name": "Reunification Day"
+          "name": "Liberation Day/Reunification Day",
+          "localName": "Ngày Chiến thắng"
         },
         {
           "date": "2027-05-01",
-          "localName": "Ngày Quốc tế lao động",
-          "name": "Labour Day"
+          "name": "International Labor Day",
+          "localName": "Ngày Quốc tế Lao động"
+        },
+        {
+          "date": "2027-05-03",
+          "name": "International Labor Day (observed)",
+          "localName": "Ngày Quốc tế Lao động (nghỉ bù)"
         },
         {
           "date": "2027-09-02",
-          "localName": "Quốc khánh",
-          "name": "National Day"
+          "name": "National Day",
+          "localName": "Quốc khánh"
+        },
+        {
+          "date": "2027-09-03",
+          "name": "National Day",
+          "localName": "Quốc khánh"
         }
       ]
     },
@@ -1966,188 +2321,123 @@
       "holidays": [
         {
           "date": "2026-01-01",
-          "localName": "New Year's Day",
-          "name": "New Year's Day"
-        },
-        {
-          "date": "2026-01-16",
-          "localName": "Leilat al-Meiraj",
-          "name": "Leilat al-Meiraj"
-        },
-        {
-          "date": "2026-02-18",
-          "localName": "Ramadan Start",
-          "name": "Ramadan Start"
-        },
-        {
-          "date": "2026-03-19",
-          "localName": "Eid al-Fitr Holiday",
-          "name": "Eid al-Fitr Holiday"
+          "name": "New Year's Day",
+          "localName": "رأس السنة الميلادية"
         },
         {
           "date": "2026-03-20",
-          "localName": "Eid al-Fitr",
-          "name": "Eid al-Fitr"
+          "name": "Eid al-Fitr (estimated)",
+          "localName": "عيد الفطر (تقديري)"
         },
         {
           "date": "2026-03-21",
-          "localName": "Eid al-Fitr Holiday",
-          "name": "Eid al-Fitr Holiday"
+          "name": "Eid al-Fitr Holiday (estimated)",
+          "localName": "عطلة عيد الفطر (تقديري)"
         },
         {
           "date": "2026-03-22",
-          "localName": "Eid al-Fitr Holiday",
-          "name": "Eid al-Fitr Holiday"
-        },
-        {
-          "date": "2026-05-18",
-          "localName": "Hajj season begins",
-          "name": "Hajj season begins"
-        },
-        {
-          "date": "2026-05-25",
-          "localName": "Eid al-Adha public sector",
-          "name": "Eid al-Adha public sector"
+          "name": "Eid al-Fitr Holiday (estimated)",
+          "localName": "عطلة عيد الفطر (تقديري)"
         },
         {
           "date": "2026-05-26",
-          "localName": "Arafat (Hajj) Day",
-          "name": "Arafat (Hajj) Day"
+          "name": "Day of Arafah (estimated)",
+          "localName": "وقفة عرفة (تقديري)"
         },
         {
           "date": "2026-05-27",
-          "localName": "Eid al-Adha (Feast of Sacrifice)",
-          "name": "Eid al-Adha (Feast of Sacrifice)"
+          "name": "Eid al-Adha (estimated)",
+          "localName": "عيد الأضحى (تقديري)"
         },
         {
           "date": "2026-05-28",
-          "localName": "Eid al-Adha Holiday",
-          "name": "Eid al-Adha Holiday"
+          "name": "Eid al-Adha Holiday (estimated)",
+          "localName": "عطلة عيد الأضحى (تقديري)"
         },
         {
           "date": "2026-05-29",
-          "localName": "Eid al-Adha Holiday",
-          "name": "Eid al-Adha Holiday"
+          "name": "Eid al-Adha Holiday (estimated)",
+          "localName": "عطلة عيد الأضحى (تقديري)"
         },
         {
-          "date": "2026-06-15",
-          "localName": "Al-Hijra (Islamic New Year)",
-          "name": "Al-Hijra (Islamic New Year)"
+          "date": "2026-06-16",
+          "name": "Islamic New Year (estimated)",
+          "localName": "رأس السنة الهجرية (تقديري)"
         },
         {
-          "date": "2026-08-28",
-          "localName": "Mouloud",
-          "name": "Mouloud"
-        },
-        {
-          "date": "2026-11-30",
-          "localName": "Commemoration Day",
-          "name": "Commemoration Day"
+          "date": "2026-08-25",
+          "name": "Prophet's Birthday (estimated)",
+          "localName": "عيد المولد النبوي (تقديري)"
         },
         {
           "date": "2026-12-02",
-          "localName": "National Day",
-          "name": "National Day"
+          "name": "National Day",
+          "localName": "اليوم الوطني"
         },
         {
           "date": "2026-12-03",
-          "localName": "National Day Holiday",
-          "name": "National Day Holiday"
-        },
-        {
-          "date": "2026-12-31",
-          "localName": "New Year's Eve",
-          "name": "New Year's Eve"
+          "name": "National Day",
+          "localName": "اليوم الوطني"
         },
         {
           "date": "2027-01-01",
-          "localName": "New Year's Day",
-          "name": "New Year's Day"
+          "name": "New Year's Day",
+          "localName": "رأس السنة الميلادية"
         },
         {
-          "date": "2027-01-06",
-          "localName": "Leilat al-Meiraj (tentative)",
-          "name": "Leilat al-Meiraj (tentative)"
-        },
-        {
-          "date": "2027-02-08",
-          "localName": "Ramadan Start (tentative)",
-          "name": "Ramadan Start (tentative)"
+          "date": "2027-03-09",
+          "name": "Eid al-Fitr (estimated)",
+          "localName": "عيد الفطر (تقديري)"
         },
         {
           "date": "2027-03-10",
-          "localName": "Eid al-Fitr (tentative)",
-          "name": "Eid al-Fitr (tentative)"
+          "name": "Eid al-Fitr Holiday (estimated)",
+          "localName": "عطلة عيد الفطر (تقديري)"
         },
         {
           "date": "2027-03-11",
-          "localName": "Eid al-Fitr Holiday (tentative)",
-          "name": "Eid al-Fitr Holiday (tentative)"
+          "name": "Eid al-Fitr Holiday (estimated)",
+          "localName": "عطلة عيد الفطر (تقديري)"
         },
         {
-          "date": "2027-03-12",
-          "localName": "Eid al-Fitr Holiday (tentative)",
-          "name": "Eid al-Fitr Holiday (tentative)"
-        },
-        {
-          "date": "2027-05-08",
-          "localName": "Hajj season begins (tentative)",
-          "name": "Hajj season begins (tentative)"
+          "date": "2027-05-15",
+          "name": "Day of Arafah (estimated)",
+          "localName": "وقفة عرفة (تقديري)"
         },
         {
           "date": "2027-05-16",
-          "localName": "Arafat (Hajj) Day (tentative)",
-          "name": "Arafat (Hajj) Day (tentative)"
+          "name": "Eid al-Adha (estimated)",
+          "localName": "عيد الأضحى (تقديري)"
         },
         {
           "date": "2027-05-17",
-          "localName": "Eid al-Adha (Feast of Sacrifice) (tentative)",
-          "name": "Eid al-Adha (Feast of Sacrifice) (tentative)"
-        },
-        {
-          "date": "2027-05-17",
-          "localName": "Eid al-Adha Holiday (tentative)",
-          "name": "Eid al-Adha Holiday (tentative)"
+          "name": "Eid al-Adha Holiday (estimated)",
+          "localName": "عطلة عيد الأضحى (تقديري)"
         },
         {
           "date": "2027-05-18",
-          "localName": "Eid al-Adha Holiday (tentative)",
-          "name": "Eid al-Adha Holiday (tentative)"
+          "name": "Eid al-Adha Holiday (estimated)",
+          "localName": "عطلة عيد الأضحى (تقديري)"
         },
         {
           "date": "2027-06-06",
-          "localName": "Al-Hijra (Islamic New Year) (tentative)",
-          "name": "Al-Hijra (Islamic New Year) (tentative)"
+          "name": "Islamic New Year (estimated)",
+          "localName": "رأس السنة الهجرية (تقديري)"
         },
         {
-          "date": "2027-08-15",
-          "localName": "Mouloud (tentative)",
-          "name": "Mouloud (tentative)"
-        },
-        {
-          "date": "2027-11-30",
-          "localName": "Commemoration Day",
-          "name": "Commemoration Day"
+          "date": "2027-08-14",
+          "name": "Prophet's Birthday (estimated)",
+          "localName": "عيد المولد النبوي (تقديري)"
         },
         {
           "date": "2027-12-02",
-          "localName": "National Day",
-          "name": "National Day"
+          "name": "National Day",
+          "localName": "اليوم الوطني"
         },
         {
           "date": "2027-12-03",
-          "localName": "National Day Holiday",
-          "name": "National Day Holiday"
-        },
-        {
-          "date": "2027-12-26",
-          "localName": "Leilat al-Meiraj (tentative)",
-          "name": "Leilat al-Meiraj (tentative)"
-        },
-        {
-          "date": "2027-12-31",
-          "localName": "New Year's Eve",
-          "name": "New Year's Eve"
+          "name": "National Day",
+          "localName": "اليوم الوطني"
         }
       ]
     },
@@ -2233,328 +2523,233 @@
       "holidays": [
         {
           "date": "2026-01-01",
-          "localName": "Republic Day",
-          "name": "Republic Day"
-        },
-        {
-          "date": "2026-02-04",
-          "localName": "Farmer's Day",
-          "name": "Farmer's Day"
-        },
-        {
-          "date": "2026-02-14",
-          "localName": "Lunar New Year Holiday",
-          "name": "Lunar New Year Holiday"
+          "name": "Founding Day of the Republic of China",
+          "localName": "中華民國開國紀念日"
         },
         {
           "date": "2026-02-15",
-          "localName": "Lunar New Year Holiday",
-          "name": "Lunar New Year Holiday"
+          "name": "Chinese New Year's Eve",
+          "localName": "農曆除夕"
         },
         {
           "date": "2026-02-16",
-          "localName": "Lunar New Year's Eve",
-          "name": "Lunar New Year's Eve"
+          "name": "Chinese New Year's Eve",
+          "localName": "農曆除夕"
         },
         {
           "date": "2026-02-17",
-          "localName": "Lunar New Year's Day",
-          "name": "Lunar New Year's Day"
+          "name": "Chinese New Year",
+          "localName": "春節"
         },
         {
           "date": "2026-02-18",
-          "localName": "Lunar New Year Holiday",
-          "name": "Lunar New Year Holiday"
+          "name": "Chinese New Year",
+          "localName": "春節"
         },
         {
           "date": "2026-02-19",
-          "localName": "Lunar New Year Holiday",
-          "name": "Lunar New Year Holiday"
+          "name": "Chinese New Year",
+          "localName": "春節"
         },
         {
           "date": "2026-02-20",
-          "localName": "Lunar New Year Holiday",
-          "name": "Lunar New Year Holiday"
-        },
-        {
-          "date": "2026-02-21",
-          "localName": "Lunar New Year Holiday",
-          "name": "Lunar New Year Holiday"
-        },
-        {
-          "date": "2026-02-22",
-          "localName": "Lunar New Year Holiday",
-          "name": "Lunar New Year Holiday"
+          "name": "Chinese New Year's Eve (observed)",
+          "localName": "農曆除夕（補假）"
         },
         {
           "date": "2026-02-27",
-          "localName": "Peace Memorial Day Holiday",
-          "name": "Peace Memorial Day Holiday"
+          "name": "Peace Memorial Day (observed)",
+          "localName": "和平紀念日（補假）"
         },
         {
           "date": "2026-02-28",
-          "localName": "Peace Memorial Day",
-          "name": "Peace Memorial Day"
-        },
-        {
-          "date": "2026-03-03",
-          "localName": "Lantern Festival",
-          "name": "Lantern Festival"
-        },
-        {
-          "date": "2026-03-08",
-          "localName": "International Women's Day",
-          "name": "International Women's Day"
-        },
-        {
-          "date": "2026-03-29",
-          "localName": "Youth Day",
-          "name": "Youth Day"
+          "name": "Peace Memorial Day",
+          "localName": "和平紀念日"
         },
         {
           "date": "2026-04-03",
-          "localName": "Children's Day Holiday",
-          "name": "Children's Day Holiday"
+          "name": "Children's Day (observed)",
+          "localName": "兒童節（補假）"
         },
         {
           "date": "2026-04-04",
-          "localName": "Children's Day",
-          "name": "Children's Day"
+          "name": "Children's Day",
+          "localName": "兒童節"
         },
         {
           "date": "2026-04-05",
-          "localName": "Tomb Sweeping Day",
-          "name": "Tomb Sweeping Day"
+          "name": "Tomb-Sweeping Day",
+          "localName": "民族掃墓節"
         },
         {
           "date": "2026-04-06",
-          "localName": "Tomb Sweeping Day Holiday",
-          "name": "Tomb Sweeping Day Holiday"
+          "name": "Tomb-Sweeping Day (observed)",
+          "localName": "民族掃墓節（補假）"
         },
         {
           "date": "2026-05-01",
-          "localName": "Labor Day",
-          "name": "Labor Day"
+          "name": "Labor Day",
+          "localName": "勞動節"
         },
         {
           "date": "2026-06-19",
-          "localName": "Dragon Boat Festival",
-          "name": "Dragon Boat Festival"
-        },
-        {
-          "date": "2026-08-27",
-          "localName": "Hungry Ghost Festival",
-          "name": "Hungry Ghost Festival"
-        },
-        {
-          "date": "2026-09-03",
-          "localName": "Armed Forces Day",
-          "name": "Armed Forces Day"
+          "name": "Dragon Boat Festival",
+          "localName": "端午節"
         },
         {
           "date": "2026-09-25",
-          "localName": "Mid-Autumn Festival",
-          "name": "Mid-Autumn Festival"
+          "name": "Mid-Autumn Festival",
+          "localName": "中秋節"
         },
         {
           "date": "2026-09-28",
-          "localName": "Teachers' Day",
-          "name": "Teachers' Day"
+          "name": "Confucius' Birthday",
+          "localName": "孔子誕辰紀念日"
         },
         {
           "date": "2026-10-09",
-          "localName": "National Day Holiday",
-          "name": "National Day Holiday"
+          "name": "National Day (observed)",
+          "localName": "國慶日（補假）"
         },
         {
           "date": "2026-10-10",
-          "localName": "National Day",
-          "name": "National Day"
-        },
-        {
-          "date": "2026-10-18",
-          "localName": "Double Ninth Day",
-          "name": "Double Ninth Day"
+          "name": "National Day",
+          "localName": "國慶日"
         },
         {
           "date": "2026-10-25",
-          "localName": "Taiwan's Retrocession Day",
-          "name": "Taiwan's Retrocession Day"
+          "name": "Taiwan Restoration and Guningtou Victory Memorial Day",
+          "localName": "臺灣光復暨金門古寧頭大捷紀念日"
         },
         {
           "date": "2026-10-26",
-          "localName": "Day off for Taiwan's Retrocession Day",
-          "name": "Day off for Taiwan's Retrocession Day"
-        },
-        {
-          "date": "2026-12-22",
-          "localName": "Dōngzhì Festival",
-          "name": "Dōngzhì Festival"
+          "name": "Taiwan Restoration and Guningtou Victory Memorial Day (observed)",
+          "localName": "臺灣光復暨金門古寧頭大捷紀念日（補假）"
         },
         {
           "date": "2026-12-25",
-          "localName": "Constitution Day",
-          "name": "Constitution Day"
+          "name": "Constitution Day",
+          "localName": "行憲紀念日"
         },
         {
           "date": "2027-01-01",
-          "localName": "Republic Day",
-          "name": "Republic Day"
+          "name": "Founding Day of the Republic of China",
+          "localName": "中華民國開國紀念日"
         },
         {
           "date": "2027-02-04",
-          "localName": "Farmer's Day",
-          "name": "Farmer's Day"
-        },
-        {
-          "date": "2027-02-04",
-          "localName": "Lunar New Year Holiday",
-          "name": "Lunar New Year Holiday"
+          "name": "Chinese New Year's Eve",
+          "localName": "農曆除夕"
         },
         {
           "date": "2027-02-05",
-          "localName": "Lunar New Year's Eve",
-          "name": "Lunar New Year's Eve"
+          "name": "Chinese New Year's Eve",
+          "localName": "農曆除夕"
         },
         {
           "date": "2027-02-06",
-          "localName": "Lunar New Year's Day",
-          "name": "Lunar New Year's Day"
+          "name": "Chinese New Year",
+          "localName": "春節"
         },
         {
           "date": "2027-02-07",
-          "localName": "Lunar New Year Holiday",
-          "name": "Lunar New Year Holiday"
+          "name": "Chinese New Year",
+          "localName": "春節"
         },
         {
           "date": "2027-02-08",
-          "localName": "Lunar New Year Holiday",
-          "name": "Lunar New Year Holiday"
+          "name": "Chinese New Year",
+          "localName": "春節"
         },
         {
           "date": "2027-02-09",
-          "localName": "Day off for Lunar New Year's Day",
-          "name": "Day off for Lunar New Year's Day"
+          "name": "Chinese New Year (observed)",
+          "localName": "春節（補假）"
         },
         {
           "date": "2027-02-10",
-          "localName": "Day off for Lunar New Year Holiday",
-          "name": "Day off for Lunar New Year Holiday"
-        },
-        {
-          "date": "2027-02-20",
-          "localName": "Lantern Festival",
-          "name": "Lantern Festival"
+          "name": "Chinese New Year (observed)",
+          "localName": "春節（補假）"
         },
         {
           "date": "2027-02-28",
-          "localName": "Peace Memorial Day",
-          "name": "Peace Memorial Day"
+          "name": "Peace Memorial Day",
+          "localName": "和平紀念日"
         },
         {
           "date": "2027-03-01",
-          "localName": "Peace Memorial Day Holiday",
-          "name": "Peace Memorial Day Holiday"
-        },
-        {
-          "date": "2027-03-08",
-          "localName": "International Women's Day",
-          "name": "International Women's Day"
-        },
-        {
-          "date": "2027-03-29",
-          "localName": "Youth Day",
-          "name": "Youth Day"
+          "name": "Peace Memorial Day (observed)",
+          "localName": "和平紀念日（補假）"
         },
         {
           "date": "2027-04-04",
-          "localName": "Children's Day",
-          "name": "Children's Day"
+          "name": "Children's Day",
+          "localName": "兒童節"
         },
         {
           "date": "2027-04-05",
-          "localName": "Tomb Sweeping Day",
-          "name": "Tomb Sweeping Day"
+          "name": "Tomb-Sweeping Day",
+          "localName": "民族掃墓節"
         },
         {
           "date": "2027-04-06",
-          "localName": "Day off for Children's Day",
-          "name": "Day off for Children's Day"
+          "name": "Children's Day (observed)",
+          "localName": "兒童節（補假）"
         },
         {
           "date": "2027-04-30",
-          "localName": "Labor Day Holiday",
-          "name": "Labor Day Holiday"
+          "name": "Labor Day (observed)",
+          "localName": "勞動節（補假）"
         },
         {
           "date": "2027-05-01",
-          "localName": "Labor Day",
-          "name": "Labor Day"
+          "name": "Labor Day",
+          "localName": "勞動節"
         },
         {
           "date": "2027-06-09",
-          "localName": "Dragon Boat Festival",
-          "name": "Dragon Boat Festival"
-        },
-        {
-          "date": "2027-08-16",
-          "localName": "Hungry Ghost Festival",
-          "name": "Hungry Ghost Festival"
-        },
-        {
-          "date": "2027-09-03",
-          "localName": "Armed Forces Day",
-          "name": "Armed Forces Day"
+          "name": "Dragon Boat Festival",
+          "localName": "端午節"
         },
         {
           "date": "2027-09-15",
-          "localName": "Mid-Autumn Festival",
-          "name": "Mid-Autumn Festival"
+          "name": "Mid-Autumn Festival",
+          "localName": "中秋節"
         },
         {
           "date": "2027-09-28",
-          "localName": "Teachers' Day",
-          "name": "Teachers' Day"
-        },
-        {
-          "date": "2027-10-08",
-          "localName": "Double Ninth Day",
-          "name": "Double Ninth Day"
+          "name": "Confucius' Birthday",
+          "localName": "孔子誕辰紀念日"
         },
         {
           "date": "2027-10-10",
-          "localName": "National Day",
-          "name": "National Day"
+          "name": "National Day",
+          "localName": "國慶日"
         },
         {
           "date": "2027-10-11",
-          "localName": "National Day Holiday",
-          "name": "National Day Holiday"
+          "name": "National Day (observed)",
+          "localName": "國慶日（補假）"
         },
         {
           "date": "2027-10-25",
-          "localName": "Taiwan's Retrocession Day",
-          "name": "Taiwan's Retrocession Day"
-        },
-        {
-          "date": "2027-12-22",
-          "localName": "Dōngzhì Festival",
-          "name": "Dōngzhì Festival"
+          "name": "Taiwan Restoration and Guningtou Victory Memorial Day",
+          "localName": "臺灣光復暨金門古寧頭大捷紀念日"
         },
         {
           "date": "2027-12-24",
-          "localName": "Day off for Constitution Day",
-          "name": "Day off for Constitution Day"
+          "name": "Constitution Day (observed)",
+          "localName": "行憲紀念日（補假）"
         },
         {
           "date": "2027-12-25",
-          "localName": "Constitution Day",
-          "name": "Constitution Day"
+          "name": "Constitution Day",
+          "localName": "行憲紀念日"
         },
         {
           "date": "2027-12-31",
-          "localName": "Day off for Republic Day",
-          "name": "Day off for Republic Day"
+          "name": "Founding Day of the Republic of China (observed)",
+          "localName": "中華民國開國紀念日（補假）"
         }
       ]
     },
@@ -2640,83 +2835,178 @@
       "holidays": [
         {
           "date": "2026-01-01",
-          "localName": "Tahun Baru Masehi",
-          "name": "New Year's Day"
+          "name": "New Year's Day",
+          "localName": "Tahun Baru Masehi"
+        },
+        {
+          "date": "2026-01-16",
+          "name": "Isra' and Mi'raj",
+          "localName": "Isra Mikraj Nabi Muhammad"
+        },
+        {
+          "date": "2026-02-17",
+          "name": "Lunar New Year",
+          "localName": "Tahun Baru Imlek"
+        },
+        {
+          "date": "2026-03-19",
+          "name": "Day of Silence",
+          "localName": "Hari Suci Nyepi"
+        },
+        {
+          "date": "2026-03-21",
+          "name": "Eid al-Fitr",
+          "localName": "Hari Raya Idul Fitri"
+        },
+        {
+          "date": "2026-03-22",
+          "name": "Eid al-Fitr Second Day",
+          "localName": "Hari kedua dari Hari Raya Idul Fitri"
         },
         {
           "date": "2026-04-03",
-          "localName": "Wafat Isa Almasih",
-          "name": "Good Friday"
+          "name": "Good Friday",
+          "localName": "Wafat Yesus Kristus"
         },
         {
           "date": "2026-04-05",
-          "localName": "Paskah",
-          "name": "Easter Sunday"
+          "name": "Easter Sunday",
+          "localName": "Kebangkitan Yesus Kristus"
         },
         {
           "date": "2026-05-01",
-          "localName": "Hari Buruh Internasional",
-          "name": "Labour Day"
+          "name": "International Labor Day",
+          "localName": "Hari Buruh Internasional"
         },
         {
           "date": "2026-05-14",
-          "localName": "Kenaikan Isa Almasih",
-          "name": "Ascension Day"
+          "name": "Ascension Day",
+          "localName": "Kenaikan Yesus Kristus"
+        },
+        {
+          "date": "2026-05-27",
+          "name": "Eid al-Adha",
+          "localName": "Hari Raya Idul Adha"
+        },
+        {
+          "date": "2026-05-31",
+          "name": "Vesak Day",
+          "localName": "Hari Raya Waisak"
         },
         {
           "date": "2026-06-01",
-          "localName": "Hari Lahir Pancasila",
-          "name": "Pancasila Day"
+          "name": "Pancasila Day",
+          "localName": "Hari Lahir Pancasila"
+        },
+        {
+          "date": "2026-06-16",
+          "name": "Islamic New Year",
+          "localName": "Tahun Baru Islam"
         },
         {
           "date": "2026-08-17",
-          "localName": "Hari Ulang Tahun Kemerdekaan Republik Indonesia",
-          "name": "Independence Day"
+          "name": "Independence Day",
+          "localName": "Hari Kemerdekaan Republik Indonesia"
+        },
+        {
+          "date": "2026-08-25",
+          "name": "Prophet's Birthday",
+          "localName": "Maulid Nabi Muhammad"
         },
         {
           "date": "2026-12-25",
-          "localName": "Hari Raya Natal",
-          "name": "Christmas Day"
+          "name": "Christmas Day",
+          "localName": "Hari Raya Natal"
         },
         {
           "date": "2027-01-01",
-          "localName": "Tahun Baru Masehi",
-          "name": "New Year's Day"
+          "name": "New Year's Day",
+          "localName": "Tahun Baru Masehi"
+        },
+        {
+          "date": "2027-01-05",
+          "name": "Isra' and Mi'raj",
+          "localName": "Isra Mikraj Nabi Muhammad"
+        },
+        {
+          "date": "2027-02-06",
+          "name": "Lunar New Year",
+          "localName": "Tahun Baru Imlek"
+        },
+        {
+          "date": "2027-03-08",
+          "name": "Day of Silence",
+          "localName": "Hari Suci Nyepi"
+        },
+        {
+          "date": "2027-03-10",
+          "name": "Eid al-Fitr (estimated)",
+          "localName": "Hari Raya Idul Fitri (perkiraan)"
+        },
+        {
+          "date": "2027-03-11",
+          "name": "Eid al-Fitr Second Day (estimated)",
+          "localName": "Hari kedua dari Hari Raya Idul Fitri (perkiraan)"
         },
         {
           "date": "2027-03-26",
-          "localName": "Wafat Isa Almasih",
-          "name": "Good Friday"
+          "name": "Good Friday",
+          "localName": "Wafat Yesus Kristus"
         },
         {
           "date": "2027-03-28",
-          "localName": "Paskah",
-          "name": "Easter Sunday"
+          "name": "Easter Sunday",
+          "localName": "Kebangkitan Yesus Kristus"
         },
         {
           "date": "2027-05-01",
-          "localName": "Hari Buruh Internasional",
-          "name": "Labour Day"
+          "name": "International Labor Day",
+          "localName": "Hari Buruh Internasional"
         },
         {
           "date": "2027-05-06",
-          "localName": "Kenaikan Isa Almasih",
-          "name": "Ascension Day"
+          "name": "Ascension Day",
+          "localName": "Kenaikan Yesus Kristus"
+        },
+        {
+          "date": "2027-05-17",
+          "name": "Eid al-Adha (estimated)",
+          "localName": "Hari Raya Idul Adha (perkiraan)"
+        },
+        {
+          "date": "2027-05-20",
+          "name": "Vesak Day",
+          "localName": "Hari Raya Waisak"
         },
         {
           "date": "2027-06-01",
-          "localName": "Hari Lahir Pancasila",
-          "name": "Pancasila Day"
+          "name": "Pancasila Day",
+          "localName": "Hari Lahir Pancasila"
+        },
+        {
+          "date": "2027-06-06",
+          "name": "Islamic New Year",
+          "localName": "Tahun Baru Islam"
+        },
+        {
+          "date": "2027-08-15",
+          "name": "Prophet's Birthday",
+          "localName": "Maulid Nabi Muhammad"
         },
         {
           "date": "2027-08-17",
-          "localName": "Hari Ulang Tahun Kemerdekaan Republik Indonesia",
-          "name": "Independence Day"
+          "name": "Independence Day",
+          "localName": "Hari Kemerdekaan Republik Indonesia"
         },
         {
           "date": "2027-12-25",
-          "localName": "Hari Raya Natal",
-          "name": "Christmas Day"
+          "name": "Christmas Day",
+          "localName": "Hari Raya Natal"
+        },
+        {
+          "date": "2027-12-26",
+          "name": "Isra' and Mi'raj",
+          "localName": "Isra Mikraj Nabi Muhammad"
         }
       ]
     },
@@ -2801,314 +3091,159 @@
       "climateYears": 10,
       "holidays": [
         {
-          "date": "2026-01-01",
-          "localName": "Hari Tahun Baru (cuti serantau)",
-          "name": "Hari Tahun Baru (cuti serantau)"
-        },
-        {
-          "date": "2026-01-17",
-          "localName": "Israk & Mikraj (cuti serantau)",
-          "name": "Israk & Mikraj (cuti serantau)"
-        },
-        {
-          "date": "2026-02-01",
-          "localName": "Hari Wilayah Persekutuan (cuti serantau)",
-          "name": "Hari Wilayah Persekutuan (cuti serantau)"
-        },
-        {
-          "date": "2026-02-01",
-          "localName": "Hari Thaipusam (cuti serantau)",
-          "name": "Hari Thaipusam (cuti serantau)"
-        },
-        {
-          "date": "2026-02-02",
-          "localName": "Hari Wilayah Persekutuan diperhatikan (cuti serantau)",
-          "name": "Hari Wilayah Persekutuan diperhatikan (cuti serantau)"
-        },
-        {
-          "date": "2026-02-02",
-          "localName": "Hari Thaipusam hari cuti (cuti serantau)",
-          "name": "Hari Thaipusam hari cuti (cuti serantau)"
-        },
-        {
-          "date": "2026-02-14",
-          "localName": "Hari Valentine",
-          "name": "Hari Valentine"
-        },
-        {
           "date": "2026-02-17",
-          "localName": "Tahun Baru Cina",
-          "name": "Tahun Baru Cina"
+          "name": "Chinese New Year",
+          "localName": "Tahun Baharu Cina"
         },
         {
           "date": "2026-02-18",
-          "localName": "Tahun Baru Cina (Hari ke-2) (cuti serantau)",
-          "name": "Tahun Baru Cina (Hari ke-2) (cuti serantau)"
-        },
-        {
-          "date": "2026-02-18",
-          "localName": "Tahun Baru Cina (hari kedua) (cuti serantau)",
-          "name": "Tahun Baru Cina (hari kedua) (cuti serantau)"
-        },
-        {
-          "date": "2026-02-19",
-          "localName": "Awal Ramadan (cuti serantau)",
-          "name": "Awal Ramadan (cuti serantau)"
-        },
-        {
-          "date": "2026-03-07",
-          "localName": "Hari Nuzul Al-Quran (cuti serantau)",
-          "name": "Hari Nuzul Al-Quran (cuti serantau)"
+          "name": "Chinese New Year (Second Day)",
+          "localName": "Tahun Baharu Cina (Hari Kedua)"
         },
         {
           "date": "2026-03-20",
-          "localName": "Hari Raya Aidil Fitri (Hari Kedua)",
-          "name": "Hari Raya Aidil Fitri (Hari Kedua)"
+          "name": "Eid al-Fitr (additional holiday)",
+          "localName": "Hari Raya Puasa (pergantian hari)"
         },
         {
           "date": "2026-03-21",
-          "localName": "Hari Raya Aidil Fitri",
-          "name": "Hari Raya Aidil Fitri"
+          "name": "Eid al-Fitr",
+          "localName": "Hari Raya Puasa"
         },
         {
-          "date": "2026-04-03",
-          "localName": "Jumaat Agung (cuti serantau)",
-          "name": "Jumaat Agung (cuti serantau)"
+          "date": "2026-03-22",
+          "name": "Eid al-Fitr (Second Day)",
+          "localName": "Hari Raya Puasa (Hari Kedua)"
         },
         {
-          "date": "2026-04-05",
-          "localName": "Hari Ahad Easter",
-          "name": "Hari Ahad Easter"
+          "date": "2026-03-23",
+          "name": "Eid al-Fitr (Second Day) (observed)",
+          "localName": "Cuti Hari Raya Puasa (Hari Kedua)"
         },
         {
           "date": "2026-05-01",
-          "localName": "Hari Pekerja",
-          "name": "Hari Pekerja"
-        },
-        {
-          "date": "2026-05-26",
-          "localName": "Hari Arafah (cuti serantau)",
-          "name": "Hari Arafah (cuti serantau)"
+          "name": "Labor Day",
+          "localName": "Hari Pekerja"
         },
         {
           "date": "2026-05-27",
-          "localName": "Hari Raya Aidil Adha",
-          "name": "Hari Raya Aidil Adha"
-        },
-        {
-          "date": "2026-05-28",
-          "localName": "Hari Raya Aidil Adha (hari kedua) (cuti serantau)",
-          "name": "Hari Raya Aidil Adha (hari kedua) (cuti serantau)"
-        },
-        {
-          "date": "2026-05-30",
-          "localName": "Pesta Kaamatan Sabah (cuti serantau)",
-          "name": "Pesta Kaamatan Sabah (cuti serantau)"
+          "name": "Eid al-Adha",
+          "localName": "Hari Raya Qurban"
         },
         {
           "date": "2026-05-31",
-          "localName": "Pesta Kaamatan Sabah (Hari Kedua) (cuti serantau)",
-          "name": "Pesta Kaamatan Sabah (Hari Kedua) (cuti serantau)"
-        },
-        {
-          "date": "2026-05-31",
-          "localName": "Hari Wesak",
-          "name": "Hari Wesak"
+          "name": "Vesak Day",
+          "localName": "Hari Wesak"
         },
         {
           "date": "2026-06-01",
-          "localName": "Hari Keputeraan Seri Paduka Baginda Yang di-Pertuan Agong",
-          "name": "Hari Keputeraan Seri Paduka Baginda Yang di-Pertuan Agong"
+          "name": "Birthday of HM Yang di-Pertuan Agong",
+          "localName": "Hari Keputeraan Rasmi Seri Paduka Baginda Yang di-Pertuan Agong"
         },
         {
-          "date": "2026-06-01",
-          "localName": "Pesta Kaamatan Sabah (Hari Kedua) diperhatikan (cuti serantau)",
-          "name": "Pesta Kaamatan Sabah (Hari Kedua) diperhatikan (cuti serantau)"
+          "date": "2026-06-02",
+          "name": "Vesak Day (observed)",
+          "localName": "Cuti Hari Wesak"
         },
         {
           "date": "2026-06-17",
-          "localName": "Awal Muharram",
-          "name": "Awal Muharram"
+          "name": "Islamic New Year",
+          "localName": "Awal Muharam"
         },
         {
           "date": "2026-08-25",
-          "localName": "Maulidur Rasul",
-          "name": "Maulidur Rasul"
+          "name": "Prophet Muhammad's Birthday",
+          "localName": "Hari Keputeraan Nabi Muhammad S.A.W."
         },
         {
           "date": "2026-08-31",
-          "localName": "Hari Kebangsaan Malaysia",
-          "name": "Hari Kebangsaan Malaysia"
+          "name": "National Day",
+          "localName": "Hari Kebangsaan"
         },
         {
           "date": "2026-09-16",
-          "localName": "Hari Malaysia",
-          "name": "Hari Malaysia"
-        },
-        {
-          "date": "2026-11-08",
-          "localName": "Hari Deepavali (cuti serantau)",
-          "name": "Hari Deepavali (cuti serantau)"
-        },
-        {
-          "date": "2026-12-24",
-          "localName": "Malam Krismas",
-          "name": "Malam Krismas"
+          "name": "Malaysia Day",
+          "localName": "Hari Malaysia"
         },
         {
           "date": "2026-12-25",
-          "localName": "Hari Natal (Krismas)",
-          "name": "Hari Natal (Krismas)"
-        },
-        {
-          "date": "2026-12-31",
-          "localName": "Malam Tahun Baru",
-          "name": "Malam Tahun Baru"
-        },
-        {
-          "date": "2027-01-01",
-          "localName": "Hari Tahun Baru (cuti serantau)",
-          "name": "Hari Tahun Baru (cuti serantau)"
-        },
-        {
-          "date": "2027-01-06",
-          "localName": "Israk & Mikraj (cuti serantau) (tentatif)",
-          "name": "Israk & Mikraj (cuti serantau) (tentatif)"
-        },
-        {
-          "date": "2027-02-01",
-          "localName": "Hari Wilayah Persekutuan (cuti serantau)",
-          "name": "Hari Wilayah Persekutuan (cuti serantau)"
+          "name": "Christmas Day",
+          "localName": "Hari Krismas"
         },
         {
           "date": "2027-02-06",
-          "localName": "Tahun Baru Cina",
-          "name": "Tahun Baru Cina"
+          "name": "Chinese New Year",
+          "localName": "Tahun Baharu Cina"
         },
         {
           "date": "2027-02-07",
-          "localName": "Tahun Baru Cina (Hari ke-2) (cuti serantau)",
-          "name": "Tahun Baru Cina (Hari ke-2) (cuti serantau)"
-        },
-        {
-          "date": "2027-02-07",
-          "localName": "Tahun Baru Cina (hari kedua) (cuti serantau)",
-          "name": "Tahun Baru Cina (hari kedua) (cuti serantau)"
+          "name": "Chinese New Year (Second Day)",
+          "localName": "Tahun Baharu Cina (Hari Kedua)"
         },
         {
           "date": "2027-02-08",
-          "localName": "Awal Ramadan (cuti serantau) (tentatif)",
-          "name": "Awal Ramadan (cuti serantau) (tentatif)"
-        },
-        {
-          "date": "2027-02-14",
-          "localName": "Hari Valentine",
-          "name": "Hari Valentine"
-        },
-        {
-          "date": "2027-02-24",
-          "localName": "Hari Nuzul Al-Quran (cuti serantau) (tentatif)",
-          "name": "Hari Nuzul Al-Quran (cuti serantau) (tentatif)"
+          "name": "Chinese New Year (Second Day) (observed)",
+          "localName": "Cuti Tahun Baharu Cina (Hari Kedua)"
         },
         {
           "date": "2027-03-10",
-          "localName": "Hari Raya Aidil Fitri (tentatif)",
-          "name": "Hari Raya Aidil Fitri (tentatif)"
+          "name": "Eid al-Fitr",
+          "localName": "Hari Raya Puasa"
         },
         {
           "date": "2027-03-11",
-          "localName": "Hari Raya Aidil Fitri (Hari Kedua) (tentatif)",
-          "name": "Hari Raya Aidil Fitri (Hari Kedua) (tentatif)"
-        },
-        {
-          "date": "2027-03-26",
-          "localName": "Jumaat Agung (cuti serantau)",
-          "name": "Jumaat Agung (cuti serantau)"
-        },
-        {
-          "date": "2027-03-28",
-          "localName": "Hari Ahad Easter",
-          "name": "Hari Ahad Easter"
+          "name": "Eid al-Fitr (Second Day)",
+          "localName": "Hari Raya Puasa (Hari Kedua)"
         },
         {
           "date": "2027-05-01",
-          "localName": "Hari Pekerja",
-          "name": "Hari Pekerja"
-        },
-        {
-          "date": "2027-05-16",
-          "localName": "Hari Arafah (cuti serantau) (tentatif)",
-          "name": "Hari Arafah (cuti serantau) (tentatif)"
+          "name": "Labor Day",
+          "localName": "Hari Pekerja"
         },
         {
           "date": "2027-05-17",
-          "localName": "Hari Raya Aidil Adha (tentatif)",
-          "name": "Hari Raya Aidil Adha (tentatif)"
+          "name": "Eid al-Adha",
+          "localName": "Hari Raya Qurban"
         },
         {
-          "date": "2027-05-18",
-          "localName": "Hari Raya Aidil Adha (hari kedua) (cuti serantau) (tentatif)",
-          "name": "Hari Raya Aidil Adha (hari kedua) (cuti serantau) (tentatif)"
-        },
-        {
-          "date": "2027-05-30",
-          "localName": "Pesta Kaamatan Sabah (cuti serantau)",
-          "name": "Pesta Kaamatan Sabah (cuti serantau)"
-        },
-        {
-          "date": "2027-05-31",
-          "localName": "Pesta Kaamatan Sabah (Hari Kedua) (cuti serantau)",
-          "name": "Pesta Kaamatan Sabah (Hari Kedua) (cuti serantau)"
-        },
-        {
-          "date": "2027-05-31",
-          "localName": "Pesta Kaamatan Sabah diperhatikan (cuti serantau)",
-          "name": "Pesta Kaamatan Sabah diperhatikan (cuti serantau)"
+          "date": "2027-05-20",
+          "name": "Vesak Day",
+          "localName": "Hari Wesak"
         },
         {
           "date": "2027-06-06",
-          "localName": "Awal Muharram (tentatif)",
-          "name": "Awal Muharram (tentatif)"
+          "name": "Islamic New Year",
+          "localName": "Awal Muharam"
         },
         {
           "date": "2027-06-07",
-          "localName": "Hari Keputeraan Seri Paduka Baginda Yang di-Pertuan Agong",
-          "name": "Hari Keputeraan Seri Paduka Baginda Yang di-Pertuan Agong"
+          "name": "Birthday of HM Yang di-Pertuan Agong",
+          "localName": "Hari Keputeraan Rasmi Seri Paduka Baginda Yang di-Pertuan Agong"
         },
         {
           "date": "2027-08-15",
-          "localName": "Maulidur Rasul (tentatif)",
-          "name": "Maulidur Rasul (tentatif)"
+          "name": "Prophet Muhammad's Birthday",
+          "localName": "Hari Keputeraan Nabi Muhammad S.A.W."
+        },
+        {
+          "date": "2027-08-16",
+          "name": "Prophet Muhammad's Birthday (observed)",
+          "localName": "Cuti Hari Keputeraan Nabi Muhammad S.A.W."
         },
         {
           "date": "2027-08-31",
-          "localName": "Hari Kebangsaan Malaysia",
-          "name": "Hari Kebangsaan Malaysia"
+          "name": "National Day",
+          "localName": "Hari Kebangsaan"
         },
         {
           "date": "2027-09-16",
-          "localName": "Hari Malaysia",
-          "name": "Hari Malaysia"
-        },
-        {
-          "date": "2027-12-24",
-          "localName": "Malam Krismas",
-          "name": "Malam Krismas"
+          "name": "Malaysia Day",
+          "localName": "Hari Malaysia"
         },
         {
           "date": "2027-12-25",
-          "localName": "Hari Natal (Krismas)",
-          "name": "Hari Natal (Krismas)"
-        },
-        {
-          "date": "2027-12-26",
-          "localName": "Israk & Mikraj (cuti serantau) (tentatif)",
-          "name": "Israk & Mikraj (cuti serantau) (tentatif)"
-        },
-        {
-          "date": "2027-12-31",
-          "localName": "Malam Tahun Baru",
-          "name": "Malam Tahun Baru"
+          "name": "Christmas Day",
+          "localName": "Hari Krismas"
         }
       ]
     },
@@ -3193,454 +3328,189 @@
       "climateYears": 10,
       "holidays": [
         {
-          "date": "2026-01-01",
-          "localName": "New Year's Day",
-          "name": "New Year's Day"
-        },
-        {
-          "date": "2026-01-03",
-          "localName": "Hazarat Ali's Birthday",
-          "name": "Hazarat Ali's Birthday"
-        },
-        {
-          "date": "2026-01-14",
-          "localName": "Pongal",
-          "name": "Pongal"
-        },
-        {
-          "date": "2026-01-14",
-          "localName": "Makar Sankranti",
-          "name": "Makar Sankranti"
-        },
-        {
-          "date": "2026-01-23",
-          "localName": "Vasant Panchami",
-          "name": "Vasant Panchami"
-        },
-        {
           "date": "2026-01-26",
-          "localName": "Republic Day",
-          "name": "Republic Day"
-        },
-        {
-          "date": "2026-02-01",
-          "localName": "Guru Ravidas Jayanti",
-          "name": "Guru Ravidas Jayanti"
-        },
-        {
-          "date": "2026-02-12",
-          "localName": "Maharishi Dayanand Saraswati Jayanti",
-          "name": "Maharishi Dayanand Saraswati Jayanti"
-        },
-        {
-          "date": "2026-02-15",
-          "localName": "Maha Shivaratri",
-          "name": "Maha Shivaratri"
-        },
-        {
-          "date": "2026-02-19",
-          "localName": "Shivaji Jayanti",
-          "name": "Shivaji Jayanti"
-        },
-        {
-          "date": "2026-02-19",
-          "localName": "Ramadan Start",
-          "name": "Ramadan Start"
-        },
-        {
-          "date": "2026-03-03",
-          "localName": "Holika Dahana",
-          "name": "Holika Dahana"
+          "name": "Republic Day",
+          "localName": "Republic Day"
         },
         {
           "date": "2026-03-04",
-          "localName": "Holi",
-          "name": "Holi"
-        },
-        {
-          "date": "2026-03-19",
-          "localName": "Gudi Padwa",
-          "name": "Gudi Padwa"
-        },
-        {
-          "date": "2026-03-19",
-          "localName": "Ugadi",
-          "name": "Ugadi"
-        },
-        {
-          "date": "2026-03-20",
-          "localName": "Jamat Ul-Vida",
-          "name": "Jamat Ul-Vida"
+          "name": "Holi",
+          "localName": "Holi"
         },
         {
           "date": "2026-03-21",
-          "localName": "Ramzan Id",
-          "name": "Ramzan Id"
+          "name": "Eid al-Fitr",
+          "localName": "Id-ul-Fitr"
         },
         {
           "date": "2026-03-26",
-          "localName": "Rama Navami",
-          "name": "Rama Navami"
+          "name": "Ram Navami",
+          "localName": "Ram Navami"
         },
         {
           "date": "2026-03-31",
-          "localName": "Mahavir Jayanti",
-          "name": "Mahavir Jayanti"
+          "name": "Mahavira's Birthday",
+          "localName": "Mahavir Jayanti"
         },
         {
           "date": "2026-04-03",
-          "localName": "Good Friday",
-          "name": "Good Friday"
+          "name": "Good Friday",
+          "localName": "Good Friday"
         },
         {
           "date": "2026-04-14",
-          "localName": "Vaisakhi",
-          "name": "Vaisakhi"
-        },
-        {
-          "date": "2026-04-14",
-          "localName": "Mesadi",
-          "name": "Mesadi"
-        },
-        {
-          "date": "2026-04-14",
-          "localName": "Ambedkar Jayanti",
-          "name": "Ambedkar Jayanti"
-        },
-        {
-          "date": "2026-04-15",
-          "localName": "Bahag Bihu",
-          "name": "Bahag Bihu"
+          "name": "Dr. B. R. Ambedkar's Birthday",
+          "localName": "Dr. B. R. Ambedkar's Jayanti"
         },
         {
           "date": "2026-05-01",
-          "localName": "Buddha Purnima",
-          "name": "Buddha Purnima"
+          "name": "Buddha Purnima",
+          "localName": "Buddha Purnima"
         },
         {
-          "date": "2026-05-09",
-          "localName": "Birthday of Rabindranath",
-          "name": "Birthday of Rabindranath"
-        },
-        {
-          "date": "2026-05-28",
-          "localName": "Bakrid",
-          "name": "Bakrid"
+          "date": "2026-05-27",
+          "name": "Eid al-Adha",
+          "localName": "Id-ul-Zuha (Bakrid)"
         },
         {
           "date": "2026-06-26",
-          "localName": "Muharram/Ashura",
-          "name": "Muharram/Ashura"
-        },
-        {
-          "date": "2026-07-16",
-          "localName": "Rath Yatra",
-          "name": "Rath Yatra"
+          "name": "Ashura",
+          "localName": "Muharram"
         },
         {
           "date": "2026-08-15",
-          "localName": "Independence Day",
-          "name": "Independence Day"
+          "name": "Independence Day",
+          "localName": "Independence Day"
         },
         {
           "date": "2026-08-26",
-          "localName": "Onam",
-          "name": "Onam"
-        },
-        {
-          "date": "2026-08-26",
-          "localName": "Milad un-Nabi",
-          "name": "Milad un-Nabi"
-        },
-        {
-          "date": "2026-08-28",
-          "localName": "Raksha Bandhan",
-          "name": "Raksha Bandhan"
+          "name": "Prophet's Birthday",
+          "localName": "Milad-un-Nabi"
         },
         {
           "date": "2026-09-04",
-          "localName": "Janmashtami",
-          "name": "Janmashtami"
-        },
-        {
-          "date": "2026-09-04",
-          "localName": "Janmashtami (Smarta)",
-          "name": "Janmashtami (Smarta)"
-        },
-        {
-          "date": "2026-09-14",
-          "localName": "Ganesh Chaturthi",
-          "name": "Ganesh Chaturthi"
+          "name": "Janmashtami (Vaishnava)",
+          "localName": "Janmashtami (Vaishnava)"
         },
         {
           "date": "2026-10-02",
-          "localName": "Mahatma Gandhi Jayanti",
-          "name": "Mahatma Gandhi Jayanti"
-        },
-        {
-          "date": "2026-10-11",
-          "localName": "First Day of Sharad Navratri",
-          "name": "First Day of Sharad Navratri"
-        },
-        {
-          "date": "2026-10-17",
-          "localName": "First Day of Durga Puja Festivities",
-          "name": "First Day of Durga Puja Festivities"
-        },
-        {
-          "date": "2026-10-18",
-          "localName": "Maha Saptami",
-          "name": "Maha Saptami"
-        },
-        {
-          "date": "2026-10-19",
-          "localName": "Maha Ashtami",
-          "name": "Maha Ashtami"
+          "name": "Mahatma Gandhi's Birthday",
+          "localName": "Mahatma Gandhi's Jayanti"
         },
         {
           "date": "2026-10-20",
-          "localName": "Dussehra",
-          "name": "Dussehra"
-        },
-        {
-          "date": "2026-10-26",
-          "localName": "Maharishi Valmiki Jayanti",
-          "name": "Maharishi Valmiki Jayanti"
-        },
-        {
-          "date": "2026-10-29",
-          "localName": "Karaka Chaturthi",
-          "name": "Karaka Chaturthi"
+          "name": "Dussehra",
+          "localName": "Dussehra"
         },
         {
           "date": "2026-11-08",
-          "localName": "Diwali/Deepavali",
-          "name": "Diwali/Deepavali"
-        },
-        {
-          "date": "2026-11-08",
-          "localName": "Naraka Chaturdasi",
-          "name": "Naraka Chaturdasi"
-        },
-        {
-          "date": "2026-11-09",
-          "localName": "Govardhan Puja",
-          "name": "Govardhan Puja"
-        },
-        {
-          "date": "2026-11-11",
-          "localName": "Bhai Duj",
-          "name": "Bhai Duj"
-        },
-        {
-          "date": "2026-11-15",
-          "localName": "Chhat Puja (Pratihar Sashthi/Surya Sashthi)",
-          "name": "Chhat Puja (Pratihar Sashthi/Surya Sashthi)"
+          "name": "Diwali (Deepavali)",
+          "localName": "Diwali (Deepavali)"
         },
         {
           "date": "2026-11-24",
-          "localName": "Guru Tegh Bahadur's Martyrdom Day",
-          "name": "Guru Tegh Bahadur's Martyrdom Day"
-        },
-        {
-          "date": "2026-11-24",
-          "localName": "Guru Nanak Jayanti",
-          "name": "Guru Nanak Jayanti"
-        },
-        {
-          "date": "2026-12-23",
-          "localName": "Hazarat Ali's Birthday",
-          "name": "Hazarat Ali's Birthday"
-        },
-        {
-          "date": "2026-12-24",
-          "localName": "Christmas Eve",
-          "name": "Christmas Eve"
+          "name": "Guru Nanak's Birthday",
+          "localName": "Guru Nanak's Jayanti"
         },
         {
           "date": "2026-12-25",
-          "localName": "Christmas",
-          "name": "Christmas"
-        },
-        {
-          "date": "2027-01-01",
-          "localName": "New Year's Day",
-          "name": "New Year's Day"
-        },
-        {
-          "date": "2027-01-15",
-          "localName": "Pongal",
-          "name": "Pongal"
-        },
-        {
-          "date": "2027-01-15",
-          "localName": "Makar Sankranti",
-          "name": "Makar Sankranti"
+          "name": "Christmas",
+          "localName": "Christmas"
         },
         {
           "date": "2027-01-26",
-          "localName": "Republic Day",
-          "name": "Republic Day"
-        },
-        {
-          "date": "2027-02-09",
-          "localName": "Ramadan Start (tentative)",
-          "name": "Ramadan Start (tentative)"
-        },
-        {
-          "date": "2027-02-11",
-          "localName": "Vasant Panchami",
-          "name": "Vasant Panchami"
-        },
-        {
-          "date": "2027-02-19",
-          "localName": "Shivaji Jayanti",
-          "name": "Shivaji Jayanti"
+          "name": "Republic Day",
+          "localName": "Republic Day"
         },
         {
           "date": "2027-03-06",
-          "localName": "Maha Shivaratri",
-          "name": "Maha Shivaratri"
+          "name": "Maha Shivaratri",
+          "localName": "Maha Shivaratri"
         },
         {
           "date": "2027-03-10",
-          "localName": "Ramzan Id (tentative)",
-          "name": "Ramzan Id (tentative)"
+          "name": "Eid al-Fitr (estimated)",
+          "localName": "Id-ul-Fitr (estimated)"
         },
         {
           "date": "2027-03-22",
-          "localName": "Holi",
-          "name": "Holi"
+          "name": "Holi",
+          "localName": "Holi"
         },
         {
           "date": "2027-03-26",
-          "localName": "Good Friday",
-          "name": "Good Friday"
-        },
-        {
-          "date": "2027-04-07",
-          "localName": "Ugadi",
-          "name": "Ugadi"
-        },
-        {
-          "date": "2027-04-07",
-          "localName": "Gudi Padwa",
-          "name": "Gudi Padwa"
+          "name": "Good Friday",
+          "localName": "Good Friday"
         },
         {
           "date": "2027-04-14",
-          "localName": "Ambedkar Jayanti",
-          "name": "Ambedkar Jayanti"
+          "name": "Dr. B. R. Ambedkar's Birthday",
+          "localName": "Dr. B. R. Ambedkar's Jayanti"
         },
         {
           "date": "2027-04-15",
-          "localName": "Rama Navami",
-          "name": "Rama Navami"
+          "name": "Ram Navami",
+          "localName": "Ram Navami"
+        },
+        {
+          "date": "2027-04-18",
+          "name": "Mahavira's Birthday",
+          "localName": "Mahavir Jayanti"
         },
         {
           "date": "2027-05-17",
-          "localName": "Bakrid (tentative)",
-          "name": "Bakrid (tentative)"
+          "name": "Eid al-Adha (estimated)",
+          "localName": "Id-ul-Zuha (Bakrid) (estimated)"
+        },
+        {
+          "date": "2027-05-20",
+          "name": "Buddha Purnima",
+          "localName": "Buddha Purnima"
         },
         {
           "date": "2027-06-16",
-          "localName": "Muharram/Ashura (tentative)",
-          "name": "Muharram/Ashura (tentative)"
-        },
-        {
-          "date": "2027-07-05",
-          "localName": "Rath Yatra",
-          "name": "Rath Yatra"
+          "name": "Ashura (estimated)",
+          "localName": "Muharram (estimated)"
         },
         {
           "date": "2027-08-15",
-          "localName": "Independence Day",
-          "name": "Independence Day"
+          "name": "Independence Day",
+          "localName": "Independence Day"
         },
         {
-          "date": "2027-08-17",
-          "localName": "Raksha Bandhan",
-          "name": "Raksha Bandhan"
-        },
-        {
-          "date": "2027-08-25",
-          "localName": "Janmashtami (Smarta)",
-          "name": "Janmashtami (Smarta)"
+          "date": "2027-08-15",
+          "name": "Prophet's Birthday (estimated)",
+          "localName": "Milad-un-Nabi (estimated)"
         },
         {
           "date": "2027-08-25",
-          "localName": "Janmashtami",
-          "name": "Janmashtami"
-        },
-        {
-          "date": "2027-09-04",
-          "localName": "Ganesh Chaturthi",
-          "name": "Ganesh Chaturthi"
-        },
-        {
-          "date": "2027-09-12",
-          "localName": "Onam",
-          "name": "Onam"
-        },
-        {
-          "date": "2027-09-30",
-          "localName": "First Day of Sharad Navratri",
-          "name": "First Day of Sharad Navratri"
+          "name": "Janmashtami (Vaishnava)",
+          "localName": "Janmashtami (Vaishnava)"
         },
         {
           "date": "2027-10-02",
-          "localName": "Mahatma Gandhi Jayanti",
-          "name": "Mahatma Gandhi Jayanti"
-        },
-        {
-          "date": "2027-10-05",
-          "localName": "First Day of Durga Puja Festivities",
-          "name": "First Day of Durga Puja Festivities"
+          "name": "Mahatma Gandhi's Birthday",
+          "localName": "Mahatma Gandhi's Jayanti"
         },
         {
           "date": "2027-10-09",
-          "localName": "Dussehra",
-          "name": "Dussehra"
-        },
-        {
-          "date": "2027-10-18",
-          "localName": "Karaka Chaturthi",
-          "name": "Karaka Chaturthi"
+          "name": "Dussehra",
+          "localName": "Dussehra"
         },
         {
           "date": "2027-10-29",
-          "localName": "Diwali/Deepavali",
-          "name": "Diwali/Deepavali"
+          "name": "Diwali (Deepavali)",
+          "localName": "Diwali (Deepavali)"
         },
         {
-          "date": "2027-10-31",
-          "localName": "Bhai Duj",
-          "name": "Bhai Duj"
-        },
-        {
-          "date": "2027-11-04",
-          "localName": "Chhat Puja (Pratihar Sashthi/Surya Sashthi)",
-          "name": "Chhat Puja (Pratihar Sashthi/Surya Sashthi)"
-        },
-        {
-          "date": "2027-11-24",
-          "localName": "Guru Tegh Bahadur's Martyrdom Day",
-          "name": "Guru Tegh Bahadur's Martyrdom Day"
-        },
-        {
-          "date": "2027-12-12",
-          "localName": "Hazarat Ali's Birthday",
-          "name": "Hazarat Ali's Birthday"
-        },
-        {
-          "date": "2027-12-24",
-          "localName": "Christmas Eve",
-          "name": "Christmas Eve"
+          "date": "2027-11-14",
+          "name": "Guru Nanak's Birthday",
+          "localName": "Guru Nanak's Jayanti"
         },
         {
           "date": "2027-12-25",
-          "localName": "Christmas",
-          "name": "Christmas"
+          "name": "Christmas",
+          "localName": "Christmas"
         }
       ]
     },
@@ -3726,183 +3596,203 @@
       "holidays": [
         {
           "date": "2026-01-01",
-          "localName": "Bagong Taon",
-          "name": "New Year's Day"
+          "name": "New Year's Day",
+          "localName": "New Year's Day"
         },
         {
           "date": "2026-02-17",
-          "localName": "Chinese New Year",
-          "name": "Chinese New Year"
+          "name": "Chinese New Year",
+          "localName": "Chinese New Year"
+        },
+        {
+          "date": "2026-03-20",
+          "name": "Eid al-Fitr",
+          "localName": "Eid'l Fitr"
         },
         {
           "date": "2026-04-02",
-          "localName": "Huwebes Santo",
-          "name": "Maundy Thursday"
+          "name": "Maundy Thursday",
+          "localName": "Maundy Thursday"
         },
         {
           "date": "2026-04-03",
-          "localName": "Biyernes Santo",
-          "name": "Good Friday"
+          "name": "Good Friday",
+          "localName": "Good Friday"
         },
         {
           "date": "2026-04-04",
-          "localName": "Sabado de Gloria",
-          "name": "Holy Saturday"
+          "name": "Black Saturday",
+          "localName": "Black Saturday"
         },
         {
           "date": "2026-04-09",
-          "localName": "Araw ng Kagitingan",
-          "name": "Day of Valor"
+          "name": "Day of Valor",
+          "localName": "Araw ng Kagitingan"
         },
         {
           "date": "2026-05-01",
-          "localName": "Araw ng Paggawa",
-          "name": "Labour Day"
+          "name": "Labor Day",
+          "localName": "Labor Day"
+        },
+        {
+          "date": "2026-05-27",
+          "name": "Eid al-Adha",
+          "localName": "Eid'l Adha"
         },
         {
           "date": "2026-06-12",
-          "localName": "Araw ng Kalayaan",
-          "name": "Independence Day"
+          "name": "Independence Day",
+          "localName": "Independence Day"
         },
         {
           "date": "2026-08-21",
-          "localName": "Araw ng Kamatayan ni Senador Benigno Simeon \"Ninoy\" Aquino Jr.",
-          "name": "Ninoy Aquino Day"
+          "name": "Ninoy Aquino Day",
+          "localName": "Ninoy Aquino Day"
         },
         {
           "date": "2026-08-31",
-          "localName": "Araw ng mga Bayani",
-          "name": "National Heroes Day"
-        },
-        {
-          "date": "2026-10-31",
-          "localName": "All Saints' Day Eve",
-          "name": "All Saints' Day Eve"
+          "name": "National Heroes Day",
+          "localName": "National Heroes Day"
         },
         {
           "date": "2026-11-01",
-          "localName": "Araw ng mga Santo",
-          "name": "All Saints' Day"
+          "name": "All Saints' Day",
+          "localName": "All Saints' Day"
+        },
+        {
+          "date": "2026-11-02",
+          "name": "All Souls' Day",
+          "localName": "All Souls' Day"
         },
         {
           "date": "2026-11-30",
-          "localName": "Araw ni Gat Andres Bonifacio",
-          "name": "Bonifacio Day"
+          "name": "Bonifacio Day",
+          "localName": "Bonifacio Day"
         },
         {
           "date": "2026-12-08",
-          "localName": "Kapistahan ng Immaculada Concepcion",
-          "name": "Feast of the Immaculate Conception of Mary"
+          "name": "Immaculate Conception",
+          "localName": "Feast of the Immaculate Conception of Mary"
         },
         {
           "date": "2026-12-24",
-          "localName": "Christmas Eve",
-          "name": "Christmas Eve"
+          "name": "Christmas Eve",
+          "localName": "Christmas Eve"
         },
         {
           "date": "2026-12-25",
-          "localName": "Araw ng Pasko",
-          "name": "Christmas Day"
+          "name": "Christmas Day",
+          "localName": "Christmas Day"
         },
         {
           "date": "2026-12-30",
-          "localName": "Araw ng Kamatayan ni Dr. Jose Rizal",
-          "name": "Rizal Day"
+          "name": "Rizal Day",
+          "localName": "Rizal Day"
         },
         {
           "date": "2026-12-31",
-          "localName": "Huling Araw ng Taon",
-          "name": "Last Day of The Year"
+          "name": "New Year's Eve",
+          "localName": "Last Day of the Year"
         },
         {
           "date": "2027-01-01",
-          "localName": "Bagong Taon",
-          "name": "New Year's Day"
+          "name": "New Year's Day",
+          "localName": "New Year's Day"
         },
         {
           "date": "2027-02-06",
-          "localName": "Chinese New Year",
-          "name": "Chinese New Year"
+          "name": "Chinese New Year",
+          "localName": "Chinese New Year"
+        },
+        {
+          "date": "2027-03-09",
+          "name": "Eid al-Fitr (estimated)",
+          "localName": "Eid'l Fitr (estimated)"
         },
         {
           "date": "2027-03-25",
-          "localName": "Huwebes Santo",
-          "name": "Maundy Thursday"
+          "name": "Maundy Thursday",
+          "localName": "Maundy Thursday"
         },
         {
           "date": "2027-03-26",
-          "localName": "Biyernes Santo",
-          "name": "Good Friday"
+          "name": "Good Friday",
+          "localName": "Good Friday"
         },
         {
           "date": "2027-03-27",
-          "localName": "Sabado de Gloria",
-          "name": "Holy Saturday"
+          "name": "Black Saturday",
+          "localName": "Black Saturday"
         },
         {
           "date": "2027-04-09",
-          "localName": "Araw ng Kagitingan",
-          "name": "Day of Valor"
+          "name": "Day of Valor",
+          "localName": "Araw ng Kagitingan"
         },
         {
           "date": "2027-05-01",
-          "localName": "Araw ng Paggawa",
-          "name": "Labour Day"
+          "name": "Labor Day",
+          "localName": "Labor Day"
+        },
+        {
+          "date": "2027-05-16",
+          "name": "Eid al-Adha (estimated)",
+          "localName": "Eid'l Adha (estimated)"
         },
         {
           "date": "2027-06-12",
-          "localName": "Araw ng Kalayaan",
-          "name": "Independence Day"
+          "name": "Independence Day",
+          "localName": "Independence Day"
         },
         {
           "date": "2027-08-21",
-          "localName": "Araw ng Kamatayan ni Senador Benigno Simeon \"Ninoy\" Aquino Jr.",
-          "name": "Ninoy Aquino Day"
+          "name": "Ninoy Aquino Day",
+          "localName": "Ninoy Aquino Day"
         },
         {
           "date": "2027-08-30",
-          "localName": "Araw ng mga Bayani",
-          "name": "National Heroes Day"
-        },
-        {
-          "date": "2027-10-31",
-          "localName": "All Saints' Day Eve",
-          "name": "All Saints' Day Eve"
+          "name": "National Heroes Day",
+          "localName": "National Heroes Day"
         },
         {
           "date": "2027-11-01",
-          "localName": "Araw ng mga Santo",
-          "name": "All Saints' Day"
+          "name": "All Saints' Day",
+          "localName": "All Saints' Day"
+        },
+        {
+          "date": "2027-11-02",
+          "name": "All Souls' Day",
+          "localName": "All Souls' Day"
         },
         {
           "date": "2027-11-30",
-          "localName": "Araw ni Gat Andres Bonifacio",
-          "name": "Bonifacio Day"
+          "name": "Bonifacio Day",
+          "localName": "Bonifacio Day"
         },
         {
           "date": "2027-12-08",
-          "localName": "Kapistahan ng Immaculada Concepcion",
-          "name": "Feast of the Immaculate Conception of Mary"
+          "name": "Immaculate Conception",
+          "localName": "Feast of the Immaculate Conception of Mary"
         },
         {
           "date": "2027-12-24",
-          "localName": "Christmas Eve",
-          "name": "Christmas Eve"
+          "name": "Christmas Eve",
+          "localName": "Christmas Eve"
         },
         {
           "date": "2027-12-25",
-          "localName": "Araw ng Pasko",
-          "name": "Christmas Day"
+          "name": "Christmas Day",
+          "localName": "Christmas Day"
         },
         {
           "date": "2027-12-30",
-          "localName": "Araw ng Kamatayan ni Dr. Jose Rizal",
-          "name": "Rizal Day"
+          "name": "Rizal Day",
+          "localName": "Rizal Day"
         },
         {
           "date": "2027-12-31",
-          "localName": "Huling Araw ng Taon",
-          "name": "Last Day of The Year"
+          "name": "New Year's Eve",
+          "localName": "Last Day of the Year"
         }
       ]
     },
@@ -3988,143 +3878,143 @@
       "holidays": [
         {
           "date": "2026-01-01",
-          "localName": "Yılbaşı",
-          "name": "New Year's Day"
+          "name": "New Year's Day",
+          "localName": "Yılbaşı"
         },
         {
           "date": "2026-03-20",
-          "localName": "Ramazan Bayramı 1. Gün",
-          "name": "Eid al-Fitr First Day"
+          "name": "Eid al-Fitr",
+          "localName": "Ramazan Bayramı"
         },
         {
           "date": "2026-03-21",
-          "localName": "Ramazan Bayramı 2. Gün",
-          "name": "Eid al-Fitr Second Day"
+          "name": "Eid al-Fitr",
+          "localName": "Ramazan Bayramı"
         },
         {
           "date": "2026-03-22",
-          "localName": "Ramazan Bayramı 3. Gün",
-          "name": "Eid al-Fitr Third Day"
+          "name": "Eid al-Fitr",
+          "localName": "Ramazan Bayramı"
         },
         {
           "date": "2026-04-23",
-          "localName": "Ulusal Egemenlik ve Çocuk Bayramı",
-          "name": "National Independence & Children's Day"
+          "name": "National Sovereignty and Children's Day",
+          "localName": "Ulusal Egemenlik ve Çocuk Bayramı"
         },
         {
           "date": "2026-05-01",
-          "localName": "İşçi Bayramı",
-          "name": "Labour Day"
+          "name": "Labour and Solidarity Day",
+          "localName": "Emek ve Dayanışma Günü"
         },
         {
           "date": "2026-05-19",
-          "localName": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
-          "name": "Atatürk Commemoration & Youth Day"
+          "name": "Commemoration of Atatürk, Youth and Sports Day",
+          "localName": "Atatürk'ü Anma, Gençlik ve Spor Bayramı"
         },
         {
           "date": "2026-05-27",
-          "localName": "Kurban Bayramı 1. Gün",
-          "name": "Eid al-Adha First Day"
+          "name": "Eid al-Adha",
+          "localName": "Kurban Bayramı"
         },
         {
           "date": "2026-05-28",
-          "localName": "Kurban Bayramı 2. Gün",
-          "name": "Eid al-Adha Second Day"
+          "name": "Eid al-Adha",
+          "localName": "Kurban Bayramı"
         },
         {
           "date": "2026-05-29",
-          "localName": "Kurban Bayramı 3. Gün",
-          "name": "Eid al-Adha Third Day"
+          "name": "Eid al-Adha",
+          "localName": "Kurban Bayramı"
         },
         {
           "date": "2026-05-30",
-          "localName": "Kurban Bayramı 4. Gün",
-          "name": "Eid al-Adha Fourth Day"
+          "name": "Eid al-Adha",
+          "localName": "Kurban Bayramı"
         },
         {
           "date": "2026-07-15",
-          "localName": "Demokrasi ve Millî Birlik Günü",
-          "name": "Democracy and National Unity Day"
+          "name": "Democracy and National Unity Day",
+          "localName": "Demokrasi ve Millî Birlik Günü"
         },
         {
           "date": "2026-08-30",
-          "localName": "Zafer Bayramı",
-          "name": "Victory Day"
+          "name": "Victory Day",
+          "localName": "Zafer Bayramı"
         },
         {
           "date": "2026-10-29",
-          "localName": "Cumhuriyet Bayramı",
-          "name": "Republic Day"
+          "name": "Republic Day",
+          "localName": "Cumhuriyet Bayramı"
         },
         {
           "date": "2027-01-01",
-          "localName": "Yılbaşı",
-          "name": "New Year's Day"
+          "name": "New Year's Day",
+          "localName": "Yılbaşı"
+        },
+        {
+          "date": "2027-03-09",
+          "name": "Eid al-Fitr",
+          "localName": "Ramazan Bayramı"
         },
         {
           "date": "2027-03-10",
-          "localName": "Ramazan Bayramı 1. Gün (Tentative Date)",
-          "name": "Eid al-Fitr First Day (Tentative Date)"
+          "name": "Eid al-Fitr",
+          "localName": "Ramazan Bayramı"
         },
         {
           "date": "2027-03-11",
-          "localName": "Ramazan Bayramı 2. Gün (Tentative Date)",
-          "name": "Eid al-Fitr Second Day (Tentative Date)"
-        },
-        {
-          "date": "2027-03-12",
-          "localName": "Ramazan Bayramı 3. Gün (Tentative Date)",
-          "name": "Eid al-Fitr Third Day (Tentative Date)"
+          "name": "Eid al-Fitr",
+          "localName": "Ramazan Bayramı"
         },
         {
           "date": "2027-04-23",
-          "localName": "Ulusal Egemenlik ve Çocuk Bayramı",
-          "name": "National Independence & Children's Day"
+          "name": "National Sovereignty and Children's Day",
+          "localName": "Ulusal Egemenlik ve Çocuk Bayramı"
         },
         {
           "date": "2027-05-01",
-          "localName": "İşçi Bayramı",
-          "name": "Labour Day"
+          "name": "Labour and Solidarity Day",
+          "localName": "Emek ve Dayanışma Günü"
         },
         {
           "date": "2027-05-16",
-          "localName": "Kurban Bayramı 1. Gün (Tentative Date)",
-          "name": "Eid al-Adha First Day (Tentative Date)"
+          "name": "Eid al-Adha",
+          "localName": "Kurban Bayramı"
         },
         {
           "date": "2027-05-17",
-          "localName": "Kurban Bayramı 2. Gün (Tentative Date)",
-          "name": "Eid al-Adha Second Day (Tentative Date)"
+          "name": "Eid al-Adha",
+          "localName": "Kurban Bayramı"
         },
         {
           "date": "2027-05-18",
-          "localName": "Kurban Bayramı 3. Gün (Tentative Date)",
-          "name": "Eid al-Adha Third Day (Tentative Date)"
+          "name": "Eid al-Adha",
+          "localName": "Kurban Bayramı"
         },
         {
           "date": "2027-05-19",
-          "localName": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
-          "name": "Atatürk Commemoration & Youth Day"
+          "name": "Commemoration of Atatürk, Youth and Sports Day",
+          "localName": "Atatürk'ü Anma, Gençlik ve Spor Bayramı"
         },
         {
           "date": "2027-05-19",
-          "localName": "Kurban Bayramı 4. Gün (Tentative Date)",
-          "name": "Eid al-Adha Fourth Day (Tentative Date)"
+          "name": "Eid al-Adha",
+          "localName": "Kurban Bayramı"
         },
         {
           "date": "2027-07-15",
-          "localName": "Demokrasi ve Millî Birlik Günü",
-          "name": "Democracy and National Unity Day"
+          "name": "Democracy and National Unity Day",
+          "localName": "Demokrasi ve Millî Birlik Günü"
         },
         {
           "date": "2027-08-30",
-          "localName": "Zafer Bayramı",
-          "name": "Victory Day"
+          "name": "Victory Day",
+          "localName": "Zafer Bayramı"
         },
         {
           "date": "2027-10-29",
-          "localName": "Cumhuriyet Bayramı",
-          "name": "Republic Day"
+          "name": "Republic Day",
+          "localName": "Cumhuriyet Bayramı"
         }
       ]
     },
@@ -4210,113 +4100,133 @@
       "holidays": [
         {
           "date": "2026-01-01",
-          "localName": "New Year's Day",
-          "name": "New Year's Day"
+          "name": "New Year's Day",
+          "localName": "New Year's Day"
         },
         {
           "date": "2026-02-17",
-          "localName": "Chinese New Year",
-          "name": "Chinese New Year"
+          "name": "Chinese New Year",
+          "localName": "Chinese New Year"
         },
         {
           "date": "2026-02-18",
-          "localName": "Chinese New Year",
-          "name": "Chinese New Year"
+          "name": "Chinese New Year",
+          "localName": "Chinese New Year"
         },
         {
           "date": "2026-03-21",
-          "localName": "Hari Raya Puasa",
-          "name": "Hari Raya Puasa"
+          "name": "Eid al-Fitr",
+          "localName": "Hari Raya Puasa"
         },
         {
           "date": "2026-04-03",
-          "localName": "Good Friday",
-          "name": "Good Friday"
+          "name": "Good Friday",
+          "localName": "Good Friday"
         },
         {
           "date": "2026-05-01",
-          "localName": "Labour Day",
-          "name": "Labour Day"
+          "name": "Labor Day",
+          "localName": "Labour Day"
         },
         {
           "date": "2026-05-27",
-          "localName": "Hari Raya Haji",
-          "name": "Hari Raya Haji"
+          "name": "Eid al-Adha",
+          "localName": "Hari Raya Haji"
+        },
+        {
+          "date": "2026-05-31",
+          "name": "Vesak Day",
+          "localName": "Vesak Day"
         },
         {
           "date": "2026-06-01",
-          "localName": "Vesak Day",
-          "name": "Vesak Day"
+          "name": "Vesak Day (observed)",
+          "localName": "Vesak Day (observed)"
+        },
+        {
+          "date": "2026-08-09",
+          "name": "National Day",
+          "localName": "National Day"
         },
         {
           "date": "2026-08-10",
-          "localName": "National Day",
-          "name": "National Day"
+          "name": "National Day (observed)",
+          "localName": "National Day (observed)"
+        },
+        {
+          "date": "2026-11-08",
+          "name": "Diwali",
+          "localName": "Deepavali"
         },
         {
           "date": "2026-11-09",
-          "localName": "Deepavali",
-          "name": "Deepavali"
+          "name": "Diwali (observed)",
+          "localName": "Deepavali (observed)"
         },
         {
           "date": "2026-12-25",
-          "localName": "Christmas Day",
-          "name": "Christmas Day"
+          "name": "Christmas Day",
+          "localName": "Christmas Day"
         },
         {
           "date": "2027-01-01",
-          "localName": "New Year's Day",
-          "name": "New Year's Day"
+          "name": "New Year's Day",
+          "localName": "New Year's Day"
         },
         {
           "date": "2027-02-06",
-          "localName": "Chinese New Year",
-          "name": "Chinese New Year"
+          "name": "Chinese New Year",
+          "localName": "Chinese New Year"
+        },
+        {
+          "date": "2027-02-07",
+          "name": "Chinese New Year",
+          "localName": "Chinese New Year"
         },
         {
           "date": "2027-02-08",
-          "localName": "Chinese New Year",
-          "name": "Chinese New Year"
+          "name": "Chinese New Year (observed)",
+          "localName": "Chinese New Year (observed)"
         },
         {
           "date": "2027-03-10",
-          "localName": "Hari Raya Puasa",
-          "name": "Hari Raya Puasa"
+          "name": "Eid al-Fitr",
+          "localName": "Hari Raya Puasa"
         },
         {
           "date": "2027-03-26",
-          "localName": "Good Friday",
-          "name": "Good Friday"
+          "name": "Good Friday",
+          "localName": "Good Friday"
         },
         {
           "date": "2027-05-01",
-          "localName": "Labour Day",
-          "name": "Labour Day"
+          "name": "Labor Day",
+          "localName": "Labour Day"
         },
         {
           "date": "2027-05-17",
-          "localName": "Hari Raya Haji",
-          "name": "Hari Raya Haji"
+          "name": "Eid al-Adha",
+          "localName": "Hari Raya Haji"
         },
         {
           "date": "2027-05-20",
-          "localName": "Vesak Day",
-          "name": "Vesak Day"
+          "name": "Vesak Day",
+          "localName": "Vesak Day"
         },
         {
           "date": "2027-08-09",
-          "localName": "National Day",
-          "name": "National Day"
+          "name": "National Day",
+          "localName": "National Day"
         },
         {
           "date": "2027-10-28",
-          "localName": "Deepavali",
-          "name": "Deepavali"
+          "name": "Diwali",
+          "localName": "Deepavali"
         },
         {
           "date": "2027-12-25",
-          "localName": "Christmas Day",
-          "name": "Christmas Day"
+          "name": "Christmas Day",
+          "localName": "Christmas Day"
         }
       ]
     },
@@ -4402,173 +4312,173 @@
       "holidays": [
         {
           "date": "2026-01-01",
-          "localName": "元旦新年",
-          "name": "New Year's Day"
+          "name": "New Year's Day",
+          "localName": "一月一日"
         },
         {
           "date": "2026-02-17",
-          "localName": "農曆年初一",
-          "name": "Lunar New Year"
+          "name": "Chinese New Year",
+          "localName": "農曆年初一"
         },
         {
           "date": "2026-02-18",
-          "localName": "農曆年初二",
-          "name": "Second day of Lunar New Year"
+          "name": "The second day of Chinese New Year",
+          "localName": "農曆年初二"
         },
         {
           "date": "2026-02-19",
-          "localName": "農曆年初三",
-          "name": "Third day of Lunar New Year"
+          "name": "The third day of Chinese New Year",
+          "localName": "農曆年初三"
         },
         {
-          "date": "2026-04-03",
-          "localName": "耶穌受難節",
-          "name": "Good Friday"
-        },
-        {
-          "date": "2026-04-04",
-          "localName": "耶穌受難節翌日",
-          "name": "Holy Saturday"
+          "date": "2026-04-05",
+          "name": "Tomb-Sweeping Day",
+          "localName": "清明節"
         },
         {
           "date": "2026-04-06",
-          "localName": "清明節",
-          "name": "Ching Ming Festival"
+          "name": "Easter Monday",
+          "localName": "復活節星期一"
         },
         {
           "date": "2026-04-07",
-          "localName": "復活節星期一",
-          "name": "Easter Monday"
+          "name": "Tomb-Sweeping Day (observed)",
+          "localName": "清明節（補假）"
         },
         {
           "date": "2026-05-01",
-          "localName": "勞動節",
-          "name": "Labour Day"
+          "name": "Labor Day",
+          "localName": "勞動節"
+        },
+        {
+          "date": "2026-05-24",
+          "name": "The Buddha's Birthday",
+          "localName": "佛誕"
         },
         {
           "date": "2026-05-25",
-          "localName": "佛誕",
-          "name": "Buddha's Birthday"
+          "name": "The Buddha's Birthday (observed)",
+          "localName": "佛誕（補假）"
         },
         {
           "date": "2026-06-19",
-          "localName": "端午節",
-          "name": "Dragon Boat Festival"
+          "name": "Dragon Boat Festival",
+          "localName": "端午節"
         },
         {
           "date": "2026-07-01",
-          "localName": "香港特別行政區成立紀念日",
-          "name": "Hong Kong Special Administrative Region Establishment Day"
+          "name": "Hong Kong S.A.R. Establishment Day",
+          "localName": "香港特別行政區成立紀念日"
         },
         {
           "date": "2026-09-26",
-          "localName": "中秋節翌日",
-          "name": "Day following the Mid-Autumn Festival"
+          "name": "The Day following Mid-Autumn Festival",
+          "localName": "中秋節翌日"
         },
         {
           "date": "2026-10-01",
-          "localName": "中華人民共和國國慶日",
-          "name": "National Day"
+          "name": "National Day",
+          "localName": "國慶日"
+        },
+        {
+          "date": "2026-10-18",
+          "name": "Double Ninth Festival",
+          "localName": "重陽節"
         },
         {
           "date": "2026-10-19",
-          "localName": "重陽節",
-          "name": "Chung Yeung Festival"
+          "name": "Double Ninth Festival (observed)",
+          "localName": "重陽節（補假）"
         },
         {
           "date": "2026-12-25",
-          "localName": "聖誕節",
-          "name": "Christmas Day"
+          "name": "Christmas Day",
+          "localName": "聖誕節"
         },
         {
           "date": "2026-12-26",
-          "localName": "聖誕節翌日",
-          "name": "Boxing Day"
+          "name": "The first weekday after Christmas Day",
+          "localName": "聖誕節後第一個周日"
         },
         {
           "date": "2027-01-01",
-          "localName": "元旦新年",
-          "name": "New Year's Day"
+          "name": "New Year's Day",
+          "localName": "一月一日"
         },
         {
           "date": "2027-02-06",
-          "localName": "農曆年初一",
-          "name": "Lunar New Year"
+          "name": "Chinese New Year",
+          "localName": "農曆年初一"
         },
         {
           "date": "2027-02-08",
-          "localName": "農曆年初二",
-          "name": "Second day of Lunar New Year"
+          "name": "The third day of Chinese New Year",
+          "localName": "農曆年初三"
         },
         {
           "date": "2027-02-09",
-          "localName": "農曆年初三",
-          "name": "Third day of Lunar New Year"
-        },
-        {
-          "date": "2027-03-26",
-          "localName": "耶穌受難節",
-          "name": "Good Friday"
-        },
-        {
-          "date": "2027-03-27",
-          "localName": "耶穌受難節翌日",
-          "name": "Holy Saturday"
+          "name": "The fourth day of Chinese New Year",
+          "localName": "農曆年初四"
         },
         {
           "date": "2027-03-29",
-          "localName": "復活節星期一",
-          "name": "Easter Monday"
+          "name": "Easter Monday",
+          "localName": "復活節星期一"
         },
         {
           "date": "2027-04-05",
-          "localName": "清明節",
-          "name": "Ching Ming Festival"
+          "name": "Tomb-Sweeping Day",
+          "localName": "清明節"
         },
         {
           "date": "2027-05-01",
-          "localName": "勞動節",
-          "name": "Labour Day"
+          "name": "Labor Day",
+          "localName": "勞動節"
         },
         {
           "date": "2027-05-13",
-          "localName": "佛誕",
-          "name": "Buddha's Birthday"
+          "name": "The Buddha's Birthday",
+          "localName": "佛誕"
         },
         {
           "date": "2027-06-09",
-          "localName": "端午節",
-          "name": "Dragon Boat Festival"
+          "name": "Dragon Boat Festival",
+          "localName": "端午節"
         },
         {
           "date": "2027-07-01",
-          "localName": "香港特別行政區成立紀念日",
-          "name": "Hong Kong Special Administrative Region Establishment Day"
+          "name": "Hong Kong S.A.R. Establishment Day",
+          "localName": "香港特別行政區成立紀念日"
         },
         {
           "date": "2027-09-16",
-          "localName": "中秋節翌日",
-          "name": "Day following the Mid-Autumn Festival"
+          "name": "The Day following Mid-Autumn Festival",
+          "localName": "中秋節翌日"
         },
         {
           "date": "2027-10-01",
-          "localName": "中華人民共和國國慶日",
-          "name": "National Day"
+          "name": "National Day",
+          "localName": "國慶日"
         },
         {
           "date": "2027-10-08",
-          "localName": "重陽節",
-          "name": "Chung Yeung Festival"
+          "name": "Double Ninth Festival",
+          "localName": "重陽節"
         },
         {
           "date": "2027-12-25",
-          "localName": "聖誕節",
-          "name": "Christmas Day"
+          "name": "Christmas Day",
+          "localName": "聖誕節"
+        },
+        {
+          "date": "2027-12-26",
+          "name": "The first weekday after Christmas Day",
+          "localName": "聖誕節後第一個周日"
         },
         {
           "date": "2027-12-27",
-          "localName": "聖誕節翌日",
-          "name": "Boxing Day"
+          "name": "The first weekday after Christmas Day (observed)",
+          "localName": "聖誕節後第一個周日（補假）"
         }
       ]
     },
@@ -4651,7 +4561,153 @@
       "climateLat": 39.7780322,
       "climateLng": 64.4097633,
       "climateYears": 10,
-      "holidays": []
+      "holidays": [
+        {
+          "date": "2026-01-01",
+          "name": "New Year's Day",
+          "localName": "Yangi yil"
+        },
+        {
+          "date": "2026-01-02",
+          "name": "Additional day off by Presidential decree",
+          "localName": "Prezidentining farmoni bilan qoʻshimcha dam olish kuni"
+        },
+        {
+          "date": "2026-03-08",
+          "name": "Women's Day",
+          "localName": "Xotin-qizlar kuni"
+        },
+        {
+          "date": "2026-03-09",
+          "name": "Women's Day (observed)",
+          "localName": "Xotin-qizlar kuni (koʻchirilgan)"
+        },
+        {
+          "date": "2026-03-20",
+          "name": "Eid al-Fitr (estimated)",
+          "localName": "Roʻza hayit (taxminiy)"
+        },
+        {
+          "date": "2026-03-21",
+          "name": "Nowruz",
+          "localName": "Navroʻz bayrami"
+        },
+        {
+          "date": "2026-03-23",
+          "name": "Nowruz (observed)",
+          "localName": "Navroʻz bayrami (koʻchirilgan)"
+        },
+        {
+          "date": "2026-05-09",
+          "name": "Day of Memory and Honor",
+          "localName": "Xotira va qadrlash kuni"
+        },
+        {
+          "date": "2026-05-11",
+          "name": "Day of Memory and Honor (observed)",
+          "localName": "Xotira va qadrlash kuni (koʻchirilgan)"
+        },
+        {
+          "date": "2026-05-27",
+          "name": "Eid al-Adha (estimated)",
+          "localName": "Qurbon hayit (taxminiy)"
+        },
+        {
+          "date": "2026-05-28",
+          "name": "Additional day off by Presidential decree",
+          "localName": "Prezidentining farmoni bilan qoʻshimcha dam olish kuni"
+        },
+        {
+          "date": "2026-05-29",
+          "name": "Additional day off by Presidential decree",
+          "localName": "Prezidentining farmoni bilan qoʻshimcha dam olish kuni"
+        },
+        {
+          "date": "2026-08-31",
+          "name": "Additional day off by Presidential decree",
+          "localName": "Prezidentining farmoni bilan qoʻshimcha dam olish kuni"
+        },
+        {
+          "date": "2026-09-01",
+          "name": "Independence Day",
+          "localName": "Mustaqillik kuni"
+        },
+        {
+          "date": "2026-10-01",
+          "name": "Teachers and Instructors Day",
+          "localName": "Oʻqituvchi va murabbiylar kuni"
+        },
+        {
+          "date": "2026-12-08",
+          "name": "Constitution Day",
+          "localName": "Oʻzbekiston Respublikasi Konstitutsiyasi kuni"
+        },
+        {
+          "date": "2026-12-31",
+          "name": "Day off (substituted from 12/12/2026)",
+          "localName": "Dam olish kuni (12/12 2026 dan koʻchirilgan)"
+        },
+        {
+          "date": "2027-01-01",
+          "name": "New Year's Day",
+          "localName": "Yangi yil"
+        },
+        {
+          "date": "2027-03-08",
+          "name": "Women's Day",
+          "localName": "Xotin-qizlar kuni"
+        },
+        {
+          "date": "2027-03-09",
+          "name": "Eid al-Fitr (estimated)",
+          "localName": "Roʻza hayit (taxminiy)"
+        },
+        {
+          "date": "2027-03-21",
+          "name": "Nowruz",
+          "localName": "Navroʻz bayrami"
+        },
+        {
+          "date": "2027-03-22",
+          "name": "Nowruz (observed)",
+          "localName": "Navroʻz bayrami (koʻchirilgan)"
+        },
+        {
+          "date": "2027-05-09",
+          "name": "Day of Memory and Honor",
+          "localName": "Xotira va qadrlash kuni"
+        },
+        {
+          "date": "2027-05-10",
+          "name": "Day of Memory and Honor (observed)",
+          "localName": "Xotira va qadrlash kuni (koʻchirilgan)"
+        },
+        {
+          "date": "2027-05-16",
+          "name": "Eid al-Adha (estimated)",
+          "localName": "Qurbon hayit (taxminiy)"
+        },
+        {
+          "date": "2027-05-17",
+          "name": "Eid al-Adha (observed, estimated)",
+          "localName": "Qurbon hayit (koʻchirilgan, taxminiy)"
+        },
+        {
+          "date": "2027-09-01",
+          "name": "Independence Day",
+          "localName": "Mustaqillik kuni"
+        },
+        {
+          "date": "2027-10-01",
+          "name": "Teachers and Instructors Day",
+          "localName": "Oʻqituvchi va murabbiylar kuni"
+        },
+        {
+          "date": "2027-12-08",
+          "name": "Constitution Day",
+          "localName": "Oʻzbekiston Respublikasi Konstitutsiyasi kuni"
+        }
+      ]
     },
     "Cambodia": {
       "climate": [
@@ -4735,213 +4791,223 @@
       "holidays": [
         {
           "date": "2026-01-01",
-          "localName": "ទិវាបុណ្យចូលឆ្នាំសកល",
-          "name": "New Year's Day"
+          "name": "International New Year Day",
+          "localName": "ទិវាចូលឆ្នាំសាកល"
         },
         {
           "date": "2026-01-07",
-          "localName": "ទិវាជ័យជម្នះលើរបបប្រល័យពូជសាសន៍",
-          "name": "Victory over Genocide Day"
+          "name": "Day of Victory over the Genocidal Regime",
+          "localName": "ទិវាជ័យជម្នះលើរបបប្រល័យពូជសាសន៍"
         },
         {
           "date": "2026-03-08",
-          "localName": "ទិវានារីអន្តរជាតិ",
-          "name": "International Women's Day"
+          "name": "International Women's Rights Day",
+          "localName": "ទិវាអន្តរជាតិនារី"
         },
         {
           "date": "2026-04-14",
-          "localName": "ពិធីបុណ្យចូលឆ្នាំថ្មី ប្រពៃណីជាតិ",
-          "name": "Khmer New Year"
+          "name": "Khmer New Year's Day",
+          "localName": "ពិធីបុណ្យចូលឆ្នាំថ្មីប្រពៃណីជាតិ"
         },
         {
           "date": "2026-04-15",
-          "localName": "ពិធីបុណ្យចូលឆ្នាំថ្មី ប្រពៃណីជាតិ",
-          "name": "Khmer New Year"
+          "name": "Khmer New Year's Day",
+          "localName": "ពិធីបុណ្យចូលឆ្នាំថ្មីប្រពៃណីជាតិ"
         },
         {
           "date": "2026-04-16",
-          "localName": "ពិធីបុណ្យចូលឆ្នាំថ្មី ប្រពៃណីជាតិ",
-          "name": "Khmer New Year"
+          "name": "Khmer New Year's Day",
+          "localName": "ពិធីបុណ្យចូលឆ្នាំថ្មីប្រពៃណីជាតិ"
         },
         {
           "date": "2026-05-01",
-          "localName": "ទិវាពលកម្មអន្តរជាតិ",
-          "name": "Labour Day"
+          "name": "International Labor Day",
+          "localName": "ទិវាពលកម្មអន្តរជាតិ"
+        },
+        {
+          "date": "2026-05-01",
+          "name": "Visaka Bochea Day",
+          "localName": "ពិធីបុណ្យវិសាខបូជា"
         },
         {
           "date": "2026-05-05",
-          "localName": "ព្រះរាជពិធីច្រត់ព្រះនង្គ័ល",
-          "name": "Royal Ploughing Ceremony"
+          "name": "Royal Ploughing Ceremony",
+          "localName": "ព្រះរាជពិធីច្រត់ព្រះនង្គ័ល"
         },
         {
           "date": "2026-05-14",
-          "localName": "ព្រះរាជពិធីបុណ្យចម្រើនព្រះជន្ម ព្រះករុណា នរោត្តម សីហមុនី",
-          "name": "King Sihamoni's Birthday"
+          "name": "HM King Norodom Sihamoni's Birthday",
+          "localName": "ព្រះរាជពិធីបុណ្យចម្រើនព្រះជន្ម ព្រះករុណា ព្រះបាទសម្តេចព្រះបរមនាថ នរោត្តម សីហមុនី"
         },
         {
           "date": "2026-06-18",
-          "localName": "ព្រះរាជពិធីបុណ្យចម្រើនព្រះជន្ម សម្តេចព្រះមហាក្សត្រី នរោត្តម មុនិនាថ សីហនុ",
-          "name": "Queen Mother's Birthday"
+          "name": "HM Queen Norodom Monineath Sihanouk the Queen-Mother's Birthday",
+          "localName": "ព្រះរាជពិធីបុណ្យចម្រើនព្រះជន្ម សម្តេចព្រះមហាក្សត្រី ព្រះវររាជមាតា នរោត្តម មុនិនាថ សីហនុ"
         },
         {
           "date": "2026-09-24",
-          "localName": "ទិវាប្រកាសរដ្ឋធម្មនុញ្ញ",
-          "name": "Constitution Day"
+          "name": "Constitution Day",
+          "localName": "ទិវាប្រកាសរដ្ឋធម្មនុញ្ញ"
         },
         {
           "date": "2026-10-10",
-          "localName": "ពិធីបុណ្យភ្ផុំបិណ្ឌ",
-          "name": "Pchum Ben"
+          "name": "Pchum Ben Day",
+          "localName": "ពិធីបុណ្យភ្ផុំបិណ្ឌ"
         },
         {
           "date": "2026-10-11",
-          "localName": "ពិធីបុណ្យភ្ផុំបិណ្ឌ",
-          "name": "Pchum Ben"
+          "name": "Pchum Ben Day",
+          "localName": "ពិធីបុណ្យភ្ផុំបិណ្ឌ"
         },
         {
           "date": "2026-10-12",
-          "localName": "ពិធីបុណ្យភ្ផុំបិណ្ឌ",
-          "name": "Pchum Ben"
+          "name": "Pchum Ben Day",
+          "localName": "ពិធីបុណ្យភ្ផុំបិណ្ឌ"
         },
         {
           "date": "2026-10-15",
-          "localName": "ព្រះរាជពិធីគោរពព្រះវិញ្ញាណក្ខន្ធព្រះករុណាព្រះបាទសម្ដេចព្រះ នរោត្ដម សីហនុ",
-          "name": "Commemoration Day of the King's Father"
+          "name": "HM King Norodom Sihanouk Mourning Day",
+          "localName": "ទិវាប្រារព្ឋពិធីគោរពព្រះវិញ្ញាណក្ខន្ឋ ព្រះករុណា ព្រះបាទសម្តេចព្រះ នរោត្តម សីហនុ ព្រះមហាវីរក្សត្រ ព្រះវររាជបិតាឯករាជ្យ បូរណភាពទឹកដី និងឯកភាពជាតិខ្មែរ ព្រះបរមរតនកោដ្ឋ"
         },
         {
           "date": "2026-10-29",
-          "localName": "ព្រះរាជពិធីគ្រងព្រះបរមរាជសម្បត្តិរបស់ព្រះករុណាព្រះបាទសម្ដេចព្រះបរមនាថ នរោត្ដម សីហមុនី",
-          "name": "Coronation Day of King Sihamoni"
+          "name": "HM King Norodom Sihamoni's Coronation Day",
+          "localName": "ព្រះរាជពិធីគ្រងព្រះបរមរាជសម្បត្តិ របស់ ព្រះករុណា ព្រះបាទសម្តេចព្រះបរមនាថ នរោត្តម សីហមុនី ព្រះមហាក្សត្រនៃព្រះរាជាណាចក្រកម្ពុជា"
         },
         {
           "date": "2026-11-09",
-          "localName": "ទិវាបុណ្យឯករាជ្យជាតិ",
-          "name": "National Independence Day"
+          "name": "National Independence Day",
+          "localName": "ពិធីបុណ្យឯករាជ្យជាតិ"
         },
         {
           "date": "2026-11-23",
-          "localName": "ពិធីបុណ្យអុំទូក បណ្ដែតប្រទីប អកអំបុក និងសំពះព្រះខែ",
-          "name": "Water Festival"
+          "name": "Water Festival",
+          "localName": "ព្រះរាជពិធីបុណ្យអុំទូក បណ្តែតប្រទីប និងសំពះព្រះខែអកអំបុក"
         },
         {
           "date": "2026-11-24",
-          "localName": "ពិធីបុណ្យអុំទូក បណ្ដែតប្រទីប អកអំបុក និងសំពះព្រះខែ",
-          "name": "Water Festival"
+          "name": "Water Festival",
+          "localName": "ព្រះរាជពិធីបុណ្យអុំទូក បណ្តែតប្រទីប និងសំពះព្រះខែអកអំបុក"
         },
         {
           "date": "2026-11-25",
-          "localName": "ពិធីបុណ្យអុំទូក បណ្ដែតប្រទីប អកអំបុក និងសំពះព្រះខែ",
-          "name": "Water Festival"
+          "name": "Water Festival",
+          "localName": "ព្រះរាជពិធីបុណ្យអុំទូក បណ្តែតប្រទីប និងសំពះព្រះខែអកអំបុក"
         },
         {
           "date": "2026-12-29",
-          "localName": "ទិវាសន្តិភាពនៅកម្ពុជា",
-          "name": "Cambodia Peace Day"
+          "name": "Peace Day in Cambodia",
+          "localName": "ទិវាសន្តិភាពនៅកម្ពុជា"
         },
         {
           "date": "2027-01-01",
-          "localName": "ទិវាបុណ្យចូលឆ្នាំសកល",
-          "name": "New Year's Day"
+          "name": "International New Year Day",
+          "localName": "ទិវាចូលឆ្នាំសាកល"
         },
         {
           "date": "2027-01-07",
-          "localName": "ទិវាជ័យជម្នះលើរបបប្រល័យពូជសាសន៍",
-          "name": "Victory over Genocide Day"
+          "name": "Day of Victory over the Genocidal Regime",
+          "localName": "ទិវាជ័យជម្នះលើរបបប្រល័យពូជសាសន៍"
         },
         {
           "date": "2027-03-08",
-          "localName": "ទិវានារីអន្តរជាតិ",
-          "name": "International Women's Day"
+          "name": "International Women's Rights Day",
+          "localName": "ទិវាអន្តរជាតិនារី"
         },
         {
           "date": "2027-04-14",
-          "localName": "ពិធីបុណ្យចូលឆ្នាំថ្មី ប្រពៃណីជាតិ",
-          "name": "Khmer New Year"
+          "name": "Khmer New Year's Day",
+          "localName": "ពិធីបុណ្យចូលឆ្នាំថ្មីប្រពៃណីជាតិ"
         },
         {
           "date": "2027-04-15",
-          "localName": "ពិធីបុណ្យចូលឆ្នាំថ្មី ប្រពៃណីជាតិ",
-          "name": "Khmer New Year"
+          "name": "Khmer New Year's Day",
+          "localName": "ពិធីបុណ្យចូលឆ្នាំថ្មីប្រពៃណីជាតិ"
         },
         {
           "date": "2027-04-16",
-          "localName": "ពិធីបុណ្យចូលឆ្នាំថ្មី ប្រពៃណីជាតិ",
-          "name": "Khmer New Year"
+          "name": "Khmer New Year's Day",
+          "localName": "ពិធីបុណ្យចូលឆ្នាំថ្មីប្រពៃណីជាតិ"
         },
         {
           "date": "2027-05-01",
-          "localName": "ទិវាពលកម្មអន្តរជាតិ",
-          "name": "Labour Day"
+          "name": "International Labor Day",
+          "localName": "ទិវាពលកម្មអន្តរជាតិ"
         },
         {
           "date": "2027-05-14",
-          "localName": "ព្រះរាជពិធីបុណ្យចម្រើនព្រះជន្ម ព្រះករុណា នរោត្តម សីហមុនី",
-          "name": "King Sihamoni's Birthday"
+          "name": "HM King Norodom Sihamoni's Birthday",
+          "localName": "ព្រះរាជពិធីបុណ្យចម្រើនព្រះជន្ម ព្រះករុណា ព្រះបាទសម្តេចព្រះបរមនាថ នរោត្តម សីហមុនី"
+        },
+        {
+          "date": "2027-05-20",
+          "name": "Visaka Bochea Day",
+          "localName": "ពិធីបុណ្យវិសាខបូជា"
         },
         {
           "date": "2027-05-24",
-          "localName": "ព្រះរាជពិធីច្រត់ព្រះនង្គ័ល",
-          "name": "Royal Ploughing Ceremony"
+          "name": "Royal Ploughing Ceremony",
+          "localName": "ព្រះរាជពិធីច្រត់ព្រះនង្គ័ល"
         },
         {
           "date": "2027-06-18",
-          "localName": "ព្រះរាជពិធីបុណ្យចម្រើនព្រះជន្ម សម្តេចព្រះមហាក្សត្រី នរោត្តម មុនិនាថ សីហនុ",
-          "name": "Queen Mother's Birthday"
+          "name": "HM Queen Norodom Monineath Sihanouk the Queen-Mother's Birthday",
+          "localName": "ព្រះរាជពិធីបុណ្យចម្រើនព្រះជន្ម សម្តេចព្រះមហាក្សត្រី ព្រះវររាជមាតា នរោត្តម មុនិនាថ សីហនុ"
         },
         {
           "date": "2027-09-24",
-          "localName": "ទិវាប្រកាសរដ្ឋធម្មនុញ្ញ",
-          "name": "Constitution Day"
+          "name": "Constitution Day",
+          "localName": "ទិវាប្រកាសរដ្ឋធម្មនុញ្ញ"
         },
         {
           "date": "2027-09-29",
-          "localName": "ពិធីបុណ្យភ្ផុំបិណ្ឌ",
-          "name": "Pchum Ben"
+          "name": "Pchum Ben Day",
+          "localName": "ពិធីបុណ្យភ្ផុំបិណ្ឌ"
         },
         {
           "date": "2027-09-30",
-          "localName": "ពិធីបុណ្យភ្ផុំបិណ្ឌ",
-          "name": "Pchum Ben"
+          "name": "Pchum Ben Day",
+          "localName": "ពិធីបុណ្យភ្ផុំបិណ្ឌ"
         },
         {
           "date": "2027-10-01",
-          "localName": "ពិធីបុណ្យភ្ផុំបិណ្ឌ",
-          "name": "Pchum Ben"
+          "name": "Pchum Ben Day",
+          "localName": "ពិធីបុណ្យភ្ផុំបិណ្ឌ"
         },
         {
           "date": "2027-10-15",
-          "localName": "ព្រះរាជពិធីគោរពព្រះវិញ្ញាណក្ខន្ធព្រះករុណាព្រះបាទសម្ដេចព្រះ នរោត្ដម សីហនុ",
-          "name": "Commemoration Day of the King's Father"
+          "name": "HM King Norodom Sihanouk Mourning Day",
+          "localName": "ទិវាប្រារព្ឋពិធីគោរពព្រះវិញ្ញាណក្ខន្ឋ ព្រះករុណា ព្រះបាទសម្តេចព្រះ នរោត្តម សីហនុ ព្រះមហាវីរក្សត្រ ព្រះវររាជបិតាឯករាជ្យ បូរណភាពទឹកដី និងឯកភាពជាតិខ្មែរ ព្រះបរមរតនកោដ្ឋ"
         },
         {
           "date": "2027-10-29",
-          "localName": "ព្រះរាជពិធីគ្រងព្រះបរមរាជសម្បត្តិរបស់ព្រះករុណាព្រះបាទសម្ដេចព្រះបរមនាថ នរោត្ដម សីហមុនី",
-          "name": "Coronation Day of King Sihamoni"
+          "name": "HM King Norodom Sihamoni's Coronation Day",
+          "localName": "ព្រះរាជពិធីគ្រងព្រះបរមរាជសម្បត្តិ របស់ ព្រះករុណា ព្រះបាទសម្តេចព្រះបរមនាថ នរោត្តម សីហមុនី ព្រះមហាក្សត្រនៃព្រះរាជាណាចក្រកម្ពុជា"
         },
         {
           "date": "2027-11-09",
-          "localName": "ទិវាបុណ្យឯករាជ្យជាតិ",
-          "name": "National Independence Day"
+          "name": "National Independence Day",
+          "localName": "ពិធីបុណ្យឯករាជ្យជាតិ"
         },
         {
           "date": "2027-11-12",
-          "localName": "ពិធីបុណ្យអុំទូក បណ្ដែតប្រទីប អកអំបុក និងសំពះព្រះខែ",
-          "name": "Water Festival"
+          "name": "Water Festival",
+          "localName": "ព្រះរាជពិធីបុណ្យអុំទូក បណ្តែតប្រទីប និងសំពះព្រះខែអកអំបុក"
         },
         {
           "date": "2027-11-13",
-          "localName": "ពិធីបុណ្យអុំទូក បណ្ដែតប្រទីប អកអំបុក និងសំពះព្រះខែ",
-          "name": "Water Festival"
+          "name": "Water Festival",
+          "localName": "ព្រះរាជពិធីបុណ្យអុំទូក បណ្តែតប្រទីប និងសំពះព្រះខែអកអំបុក"
         },
         {
           "date": "2027-11-14",
-          "localName": "ពិធីបុណ្យអុំទូក បណ្ដែតប្រទីប អកអំបុក និងសំពះព្រះខែ",
-          "name": "Water Festival"
+          "name": "Water Festival",
+          "localName": "ព្រះរាជពិធីបុណ្យអុំទូក បណ្តែតប្រទីប និងសំពះព្រះខែអកអំបុក"
         },
         {
           "date": "2027-12-29",
-          "localName": "ទិវាសន្តិភាពនៅកម្ពុជា",
-          "name": "Cambodia Peace Day"
+          "name": "Peace Day in Cambodia",
+          "localName": "ទិវាសន្តិភាពនៅកម្ពុជា"
         }
       ]
     }

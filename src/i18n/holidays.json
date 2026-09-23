@@ -23,7 +23,55 @@
     "es": "Día de la Coronación del Rey Sihamoni",
     "zh": "西哈莫尼国王加冕纪念日"
   },
+  "Cambodia|Day of Victory over the Genocidal Regime": {
+    "ko": "제노사이드 정권 승리 기념일",
+    "ja": "ポル・ポト政権打倒記念日",
+    "es": "Día de la Victoria sobre el Régimen Genocida",
+    "zh": "战胜种族灭绝制度纪念日"
+  },
+  "Cambodia|HM King Norodom Sihamoni's Birthday": {
+    "ko": "노로돔 시하모니 국왕 탄신일",
+    "ja": "シハモニ国王誕生日",
+    "es": "Cumpleaños de Su Majestad el Rey Norodom Sihamoni",
+    "zh": "诺罗敦·西哈莫尼国王陛下诞辰"
+  },
+  "Cambodia|HM King Norodom Sihamoni's Coronation Day": {
+    "ko": "노로돔 시하모니 국왕 대관식 기념일",
+    "ja": "シハモニ国王戴冠記念日",
+    "es": "Día de la Coronación de Su Majestad el Rey Norodom Sihamoni",
+    "zh": "诺罗敦·西哈莫尼国王陛下加冕纪念日"
+  },
+  "Cambodia|HM King Norodom Sihanouk Mourning Day": {
+    "ko": "노로돔 시아누크 국왕 추모일",
+    "ja": "シハヌーク前国王追悼の日",
+    "es": "Día de Conmemoración del Rey Norodom Sihanouk",
+    "zh": "诺罗敦·西哈努克太皇陛下逝世纪念日"
+  },
+  "Cambodia|HM Queen Norodom Monineath Sihanouk the Queen-Mother's Birthday": {
+    "ko": "노로돔 모니네앗 시아누크 왕대비 탄신일",
+    "ja": "モニネアト太后誕生日",
+    "es": "Cumpleaños de Su Majestad la Reina Madre Norodom Monineath Sihanouk",
+    "zh": "诺罗敦·莫尼列太后陛下诞辰"
+  },
+  "Cambodia|International Labor Day": {
+    "ko": "국제 노동절",
+    "ja": "メーデー",
+    "es": "Día Internacional del Trabajo",
+    "zh": "国际劳动节"
+  },
+  "Cambodia|International New Year Day": {
+    "ko": "신정",
+    "ja": "元日",
+    "es": "Año Nuevo",
+    "zh": "元旦"
+  },
   "Cambodia|International Women's Day": {
+    "ko": "세계 여성의 날",
+    "ja": "国際女性デー",
+    "es": "Día Internacional de la Mujer",
+    "zh": "国际妇女节"
+  },
+  "Cambodia|International Women's Rights Day": {
     "ko": "세계 여성의 날",
     "ja": "国際女性デー",
     "es": "Día Internacional de la Mujer",
@@ -34,6 +82,12 @@
     "ja": "クメール正月",
     "es": "Año Nuevo Jemer",
     "zh": "柬埔寨新年"
+  },
+  "Cambodia|Khmer New Year's Day": {
+    "ko": "크메르 설날",
+    "ja": "クメール正月",
+    "es": "Año Nuevo Jemer",
+    "zh": "高棉新年"
   },
   "Cambodia|King Sihamoni's Birthday": {
     "ko": "시하모니 국왕 탄신일",
@@ -65,6 +119,18 @@
     "es": "Pchum Ben (Día de los Antepasados)",
     "zh": "亡人节"
   },
+  "Cambodia|Pchum Ben Day": {
+    "ko": "프춤번",
+    "ja": "プチュムバン(先祖供養の日)",
+    "es": "Día de Pchum Ben",
+    "zh": "亡人节"
+  },
+  "Cambodia|Peace Day in Cambodia": {
+    "ko": "캄보디아 평화의 날",
+    "ja": "カンボジア平和の日",
+    "es": "Día de la Paz en Camboya",
+    "zh": "和平日"
+  },
   "Cambodia|Queen Mother's Birthday": {
     "ko": "왕대비 탄신일",
     "ja": "王母誕生日",
@@ -83,6 +149,12 @@
     "es": "Día de la Victoria sobre el Genocidio",
     "zh": "解放日"
   },
+  "Cambodia|Visaka Bochea Day": {
+    "ko": "베삭 데이",
+    "ja": "ヴィサカブチャ祭(仏誕節)",
+    "es": "Día de Visaka Bochea",
+    "zh": "卫塞节"
+  },
   "Cambodia|Water Festival": {
     "ko": "물 축제",
     "ja": "ボンオムトゥック(水祭り)",
@@ -95,11 +167,71 @@
     "zh": "春节",
     "es": "Año Nuevo Chino (Fiesta de la Primavera)"
   },
+  "China|Chinese New Year (Spring Festival) (observed)": {
+    "ko": "춘절",
+    "ja": "春節",
+    "es": "Año Nuevo Chino",
+    "zh": "春节"
+  },
+  "China|Chinese New Year's Eve": {
+    "ko": "섣달그믐",
+    "ja": "旧正月の大晦日",
+    "es": "Víspera del Año Nuevo Chino",
+    "zh": "除夕"
+  },
+  "China|Day off (substituted from 01/04/2026)": {
+    "ko": "대체 휴일",
+    "ja": "振替休日",
+    "es": "Día no laborable (sustituido del 04/01/2026)",
+    "zh": "调休假日（2026年1月4日调休）"
+  },
+  "China|Day off (substituted from 02/14/2026)": {
+    "ko": "대체 휴일",
+    "ja": "振替休日",
+    "es": "Día no laborable (sustituido del 14/02/2026)",
+    "zh": "调休假日（2026年2月14日调休）"
+  },
+  "China|Day off (substituted from 02/28/2026)": {
+    "ko": "대체 휴일",
+    "ja": "振替休日",
+    "es": "Día no laborable (sustituido del 28/02/2026)",
+    "zh": "调休假日（2026年2月28日调休）"
+  },
+  "China|Day off (substituted from 05/09/2026)": {
+    "ko": "대체 휴일",
+    "ja": "振替休日",
+    "es": "Día no laborable (sustituido del 09/05/2026)",
+    "zh": "调休假日（2026年5月9日调休）"
+  },
+  "China|Day off (substituted from 09/20/2026)": {
+    "ko": "대체 휴일",
+    "ja": "振替休日",
+    "es": "Día compensatorio",
+    "zh": "调休"
+  },
+  "China|Day off (substituted from 10/10/2026)": {
+    "ko": "대체 휴일",
+    "ja": "振替休日",
+    "es": "Día compensatorio",
+    "zh": "调休"
+  },
   "China|Dragon Boat Festival": {
     "ko": "단오절",
     "ja": "端午節",
     "zh": "端午节",
     "es": "Fiesta del Bote del Dragón"
+  },
+  "China|Labor Day": {
+    "ko": "노동절",
+    "ja": "労働節",
+    "es": "Día del Trabajo",
+    "zh": "劳动节"
+  },
+  "China|Labor Day (observed)": {
+    "ko": "노동절 대체 휴일",
+    "ja": "労働節（振替）",
+    "es": "Día del Trabajo (observado)",
+    "zh": "劳动节（顺延）"
   },
   "China|Labour Day": {
     "ko": "노동절",
@@ -119,11 +251,29 @@
     "zh": "国庆节",
     "es": "Fiesta Nacional de China"
   },
+  "China|National Day (observed)": {
+    "ko": "국경절 대체 휴일",
+    "ja": "国慶節（振替）",
+    "es": "Día Nacional (observado)",
+    "zh": "国庆节（顺延）"
+  },
   "China|New Year's Day": {
     "ko": "신정",
     "ja": "元旦",
     "zh": "元旦",
     "es": "Año Nuevo"
+  },
+  "China|Tomb-Sweeping Day": {
+    "ko": "청명절",
+    "ja": "清明節",
+    "es": "Festival Qingming",
+    "zh": "清明节"
+  },
+  "China|Tomb-Sweeping Day (observed)": {
+    "ko": "청명절 대체 휴일",
+    "ja": "清明節（振替）",
+    "es": "Festival Qingming (observado)",
+    "zh": "清明节（顺延）"
   },
   "France|All Saints' Day": {
     "ko": "만성절",
@@ -167,17 +317,41 @@
     "zh": "复活节星期一",
     "es": "Lunes de Pascua"
   },
+  "France|Labor Day": {
+    "ko": "노동절",
+    "ja": "メーデー",
+    "es": "Día del Trabajo",
+    "zh": "劳动节"
+  },
   "France|Labour Day": {
     "ko": "노동절",
     "ja": "メーデー",
     "zh": "劳动节",
     "es": "Día del Trabajo"
   },
+  "France|National Day": {
+    "ko": "프랑스 혁명 기념일",
+    "ja": "フランス革命記念日",
+    "es": "Día Nacional de Francia",
+    "zh": "法国国庆日"
+  },
   "France|New Year's Day": {
     "ko": "새해 첫날",
     "ja": "元日",
     "zh": "元旦",
     "es": "Año Nuevo"
+  },
+  "France|Pentecost Monday": {
+    "ko": "성령강림절 월요일",
+    "ja": "聖霊降臨祭の月曜日",
+    "es": "Lunes de Pentecostés",
+    "zh": "圣灵降临节次日"
+  },
+  "France|Victory Day": {
+    "ko": "제2차 세계대전 승전기념일",
+    "ja": "戦勝記念日",
+    "es": "Día de la Victoria",
+    "zh": "胜利纪念日"
   },
   "France|Victory in Europe Day": {
     "ko": "제2차 세계대전 전승 기념일",
@@ -203,6 +377,12 @@
     "es": "Cumpleaños de Buda",
     "zh": "佛诞"
   },
+  "Hong Kong|Chinese New Year": {
+    "ko": "설날",
+    "ja": "旧正月",
+    "es": "Año Nuevo chino",
+    "zh": "农历新年"
+  },
   "Hong Kong|Ching Ming Festival": {
     "ko": "청명절",
     "ja": "清明節",
@@ -226,6 +406,18 @@
     "ja": "中秋節翌日",
     "es": "Día siguiente al Festival del Medio Otoño",
     "zh": "中秋节翌日"
+  },
+  "Hong Kong|Double Ninth Festival": {
+    "ko": "중양절",
+    "ja": "重陽節",
+    "es": "Festival de Chong Yang",
+    "zh": "重阳节"
+  },
+  "Hong Kong|Double Ninth Festival (observed)": {
+    "ko": "중양절 대체공휴일",
+    "ja": "重陽節(振替休日)",
+    "es": "Festival de Chong Yang (observado)",
+    "zh": "重阳节(顺延)"
   },
   "Hong Kong|Dragon Boat Festival": {
     "ko": "단오절",
@@ -251,11 +443,23 @@
     "es": "Sábado Santo",
     "zh": "耶稣受难日翌日"
   },
+  "Hong Kong|Hong Kong S.A.R. Establishment Day": {
+    "ko": "홍콩 특별행정구 수립 기념일",
+    "ja": "香港特別行政区成立記念日",
+    "es": "Día del Establecimiento de la RAE de Hong Kong",
+    "zh": "香港特别行政区成立纪念日"
+  },
   "Hong Kong|Hong Kong Special Administrative Region Establishment Day": {
     "ko": "홍콩 특별행정구 수립기념일",
     "ja": "香港特別行政区成立記念日",
     "es": "Día del Establecimiento de la Región Administrativa Especial de Hong Kong",
     "zh": "香港特别行政区成立纪念日"
+  },
+  "Hong Kong|Labor Day": {
+    "ko": "노동절",
+    "ja": "メーデー",
+    "es": "Día del Trabajo",
+    "zh": "劳动节"
   },
   "Hong Kong|Labour Day": {
     "ko": "노동절",
@@ -287,17 +491,89 @@
     "es": "Segundo día del Año Nuevo chino",
     "zh": "农历年初二"
   },
+  "Hong Kong|The Buddha's Birthday": {
+    "ko": "석가탄신일",
+    "ja": "釈迦誕生日",
+    "es": "Cumpleaños de Buda",
+    "zh": "佛诞"
+  },
+  "Hong Kong|The Buddha's Birthday (observed)": {
+    "ko": "석가탄신일",
+    "ja": "釈迦誕生日",
+    "es": "Cumpleaños de Buda",
+    "zh": "佛诞"
+  },
+  "Hong Kong|The Day following Mid-Autumn Festival": {
+    "ko": "추석 다음 날",
+    "ja": "中秋節翌日",
+    "es": "Día siguiente al Festival del Medio Otoño",
+    "zh": "中秋节翌日"
+  },
+  "Hong Kong|The first weekday after Christmas Day": {
+    "ko": "크리스마스 다음 평일",
+    "ja": "クリスマスの翌平日",
+    "es": "Día después de Navidad",
+    "zh": "圣诞节后第一个工作日"
+  },
+  "Hong Kong|The first weekday after Christmas Day (observed)": {
+    "ko": "크리스마스 다음 평일 대체공휴일",
+    "ja": "クリスマスの翌平日(振替休日)",
+    "es": "Día después de Navidad (observado)",
+    "zh": "圣诞节后第一个工作日(顺延)"
+  },
+  "Hong Kong|The fourth day of Chinese New Year": {
+    "ko": "춘절 나흗날",
+    "ja": "旧正月4日目",
+    "es": "Cuarto día del Año Nuevo Chino",
+    "zh": "农历年初四"
+  },
+  "Hong Kong|The second day of Chinese New Year": {
+    "ko": "설날 연휴 둘째 날",
+    "ja": "旧正月二日目",
+    "es": "Segundo día del Año Nuevo chino",
+    "zh": "农历新年初二"
+  },
+  "Hong Kong|The third day of Chinese New Year": {
+    "ko": "설날 연휴 셋째 날",
+    "ja": "旧正月三日目",
+    "es": "Tercer día del Año Nuevo chino",
+    "zh": "农历新年初三"
+  },
   "Hong Kong|Third day of Lunar New Year": {
     "ko": "음력 설 셋째 날",
     "ja": "旧正月三日目",
     "es": "Tercer día del Año Nuevo chino",
     "zh": "农历年初三"
   },
+  "Hong Kong|Tomb-Sweeping Day": {
+    "ko": "청명절",
+    "ja": "清明節",
+    "es": "Festival de Qingming",
+    "zh": "清明节"
+  },
+  "Hong Kong|Tomb-Sweeping Day (observed)": {
+    "ko": "청명절",
+    "ja": "清明節",
+    "es": "Festival de Qingming",
+    "zh": "清明节"
+  },
   "India|Ambedkar Jayanti": {
     "ko": "암베드카르 자얀티",
     "ja": "アンベードカル・ジャヤンティ",
     "es": "Ambedkar Jayanti",
     "zh": "安贝德卡尔诞辰日"
+  },
+  "India|Ashura": {
+    "es": "Ashura",
+    "zh": "阿舒拉节",
+    "ja": "アーシューラー",
+    "ko": "아슈라"
+  },
+  "India|Ashura (estimated)": {
+    "ko": "아슈라",
+    "ja": "アーシューラー",
+    "es": "Ashura",
+    "zh": "阿舒拉节"
   },
   "India|Bahag Bihu": {
     "ko": "보후아그 비후",
@@ -353,17 +629,53 @@
     "es": "Nochebuena",
     "zh": "平安夜"
   },
+  "India|Diwali (Deepavali)": {
+    "es": "Diwali",
+    "zh": "屠妖节",
+    "ja": "ディワリ",
+    "ko": "디왈리"
+  },
   "India|Diwali/Deepavali": {
     "ko": "디왈리",
     "ja": "ディーワーリー",
     "es": "Diwali",
     "zh": "屠妖节"
   },
+  "India|Dr. B. R. Ambedkar's Birthday": {
+    "es": "Cumpleaños de Ambedkar",
+    "zh": "安贝德卡尔诞辰",
+    "ja": "アンベードカル生誕祭",
+    "ko": "암베드카르 생일"
+  },
   "India|Dussehra": {
     "ko": "두세라",
     "ja": "ダシャラー",
     "es": "Dussehra",
     "zh": "十胜节"
+  },
+  "India|Eid al-Adha": {
+    "es": "Eid al-Adha",
+    "zh": "古尔邦节",
+    "ja": "イード・アル=アドハー",
+    "ko": "이드 알아드하"
+  },
+  "India|Eid al-Adha (estimated)": {
+    "ko": "이드 알아드하",
+    "ja": "イード・アル=アドハー",
+    "es": "Eid al-Adha",
+    "zh": "宰牲节"
+  },
+  "India|Eid al-Fitr": {
+    "es": "Eid al-Fitr",
+    "zh": "开斋节",
+    "ja": "イード・アル=フィトル",
+    "ko": "이드 알피트르"
+  },
+  "India|Eid al-Fitr (estimated)": {
+    "ko": "이드 알피트르",
+    "ja": "イード・アル=フィトル",
+    "es": "Eid al-Fitr",
+    "zh": "开斋节"
   },
   "India|First Day of Durga Puja Festivities": {
     "ko": "두르가 푸자 첫째 날",
@@ -406,6 +718,12 @@
     "ja": "グル・ナーナク生誕祭",
     "es": "Aniversario de Guru Nanak",
     "zh": "古鲁那纳克诞辰日"
+  },
+  "India|Guru Nanak's Birthday": {
+    "es": "Cumpleaños de Guru Nanak",
+    "zh": "古鲁那纳克诞辰",
+    "ja": "グル・ナーナク生誕祭",
+    "ko": "구루 나낙 탄생일"
   },
   "India|Guru Ravidas Jayanti": {
     "ja": "グル・ラヴィダース降誕祭",
@@ -461,6 +779,12 @@
     "es": "Janmashtami (Smarta)",
     "zh": "克里希纳诞辰节（斯玛尔塔派）"
   },
+  "India|Janmashtami (Vaishnava)": {
+    "es": "Janmashtami",
+    "zh": "克里希纳诞辰节",
+    "ja": "ジャンマーシュタミー",
+    "ko": "잔마슈타미"
+  },
   "India|Karaka Chaturthi": {
     "ko": "카르바 초트",
     "ja": "カルワー・チャウト",
@@ -503,11 +827,23 @@
     "es": "Aniversario de Mahatma Gandhi",
     "zh": "圣雄甘地诞辰纪念日"
   },
+  "India|Mahatma Gandhi's Birthday": {
+    "es": "Cumpleaños de Mahatma Gandhi",
+    "zh": "圣雄甘地诞辰",
+    "ja": "ガンディー生誕祭",
+    "ko": "간디 탄생일"
+  },
   "India|Mahavir Jayanti": {
     "ko": "마하비르 자얀티",
     "ja": "マハーヴィーラ・ジャヤンティ",
     "es": "Mahavir Jayanti",
     "zh": "大雄诞辰节"
+  },
+  "India|Mahavira's Birthday": {
+    "es": "Mahavir Jayanti",
+    "zh": "大雄诞辰节",
+    "ja": "マハーヴィーラ生誕祭",
+    "ko": "마하비르 잔티"
   },
   "India|Makar Sankranti": {
     "ja": "マカール・サンクランティ",
@@ -569,11 +905,29 @@
     "zh": "丰收节",
     "ko": "퐁갈"
   },
+  "India|Prophet's Birthday": {
+    "es": "Mawlid",
+    "zh": "先知穆罕默德诞辰",
+    "ja": "predBt生誕祭",
+    "ko": "마울리드"
+  },
+  "India|Prophet's Birthday (estimated)": {
+    "ko": "이슬람 예언자 탄신일",
+    "ja": "マウリド(預言者生誕祭)",
+    "es": "Mawlid",
+    "zh": "圣纪节"
+  },
   "India|Raksha Bandhan": {
     "ko": "라크샤 반단",
     "ja": "ラクシャー・バンダン",
     "es": "Raksha Bandhan",
     "zh": "兄妹节"
+  },
+  "India|Ram Navami": {
+    "es": "Ram Navami",
+    "zh": "罗摩诞辰节",
+    "ja": "ラーマ・ナヴァミー",
+    "ko": "람 나바미"
   },
   "India|Rama Navami": {
     "ko": "라마 나바미",
@@ -653,11 +1007,53 @@
     "zh": "圣诞节",
     "es": "Navidad"
   },
+  "Indonesia|Day of Silence": {
+    "ko": "녜피",
+    "ja": "ニュピ",
+    "es": "Día del Silencio",
+    "zh": "宁静日"
+  },
   "Indonesia|Easter Sunday": {
     "ko": "부활절",
     "ja": "復活祭（イースター）",
     "zh": "复活节",
     "es": "Domingo de Pascua"
+  },
+  "Indonesia|Eid al-Adha": {
+    "ko": "이드 알아드하",
+    "ja": "イード・アル=アドハー",
+    "es": "Eid al-Adha",
+    "zh": "古尔邦节"
+  },
+  "Indonesia|Eid al-Adha (estimated)": {
+    "ko": "이드 알아드하",
+    "ja": "イード・アル=アドハー",
+    "es": "Eid al-Adha",
+    "zh": "古尔邦节"
+  },
+  "Indonesia|Eid al-Fitr": {
+    "ko": "이둘피트리",
+    "ja": "イドゥル・フィトリ",
+    "es": "Eid al-Fitr",
+    "zh": "开斋节"
+  },
+  "Indonesia|Eid al-Fitr (estimated)": {
+    "ko": "이드 알피트르",
+    "ja": "イード・アル=フィトル",
+    "es": "Eid al-Fitr",
+    "zh": "开斋节"
+  },
+  "Indonesia|Eid al-Fitr Second Day": {
+    "ko": "이둘피트리 둘째 날",
+    "ja": "イドゥル・フィトリ2日目",
+    "es": "Segundo Día del Eid al-Fitr",
+    "zh": "开斋节第二天"
+  },
+  "Indonesia|Eid al-Fitr Second Day (estimated)": {
+    "ko": "이드 알피트르 둘째 날",
+    "ja": "イード・アル=フィトル(2日目)",
+    "es": "Segundo día del Eid al-Fitr",
+    "zh": "开斋节第二天"
   },
   "Indonesia|Good Friday": {
     "ko": "성금요일",
@@ -671,11 +1067,35 @@
     "zh": "印尼独立日",
     "es": "Día de la Independencia de Indonesia"
   },
+  "Indonesia|International Labor Day": {
+    "ko": "국제 노동절",
+    "ja": "メーデー",
+    "es": "Día Internacional del Trabajo",
+    "zh": "国际劳动节"
+  },
+  "Indonesia|Islamic New Year": {
+    "ko": "이슬람력 신년",
+    "ja": "イスラム暦新年",
+    "es": "Año Nuevo islámico",
+    "zh": "伊斯兰新年"
+  },
+  "Indonesia|Isra' and Mi'raj": {
+    "ko": "이스라 미라지",
+    "ja": "イスラーとミラージュ",
+    "es": "Isra y Mi'raj",
+    "zh": "登霄夜"
+  },
   "Indonesia|Labour Day": {
     "ko": "노동절",
     "ja": "メーデー",
     "zh": "劳动节",
     "es": "Día del Trabajo"
+  },
+  "Indonesia|Lunar New Year": {
+    "ko": "음력설",
+    "ja": "旧正月",
+    "es": "Año Nuevo Chino",
+    "zh": "农历新年"
   },
   "Indonesia|New Year's Day": {
     "ko": "새해 첫날",
@@ -689,17 +1109,41 @@
     "zh": "建国五原则日",
     "es": "Día del Pancasila"
   },
+  "Indonesia|Prophet's Birthday": {
+    "ko": "무함마드 탄신일",
+    "ja": "predかmawlid",
+    "es": "Mawlid",
+    "zh": "先知穆罕默德诞辰"
+  },
+  "Indonesia|Vesak Day": {
+    "ko": "베삭절",
+    "ja": "ウェーサク祭",
+    "es": "Vesak",
+    "zh": "卫塞节"
+  },
   "Italy|All Saints Day": {
     "ko": "만성절",
     "ja": "諸聖人の日",
     "zh": "诸圣节",
     "es": "Día de Todos los Santos"
   },
+  "Italy|All Saints' Day": {
+    "ko": "모든 성인 대축일",
+    "ja": "諸聖人の日",
+    "es": "Día de Todos los Santos",
+    "zh": "诸圣节"
+  },
   "Italy|Assumption Day": {
     "ko": "성모 승천 대축일(페라고스토)",
     "ja": "聖母被昇天祭（フェッラゴスト）",
     "zh": "圣母升天节（八月节）",
     "es": "Asunción (Ferragosto)"
+  },
+  "Italy|Assumption Of Mary Day": {
+    "ko": "성모 승천 대축일",
+    "ja": "聖母被昇天祭",
+    "es": "Asunción de la Virgen",
+    "zh": "圣母升天节"
   },
   "Italy|Christmas Day": {
     "ko": "크리스마스",
@@ -737,11 +1181,23 @@
     "zh": "国际劳动节",
     "es": "Día Internacional de los Trabajadores"
   },
+  "Italy|Labor Day": {
+    "ko": "노동절",
+    "ja": "メーデー",
+    "es": "Día del Trabajo",
+    "zh": "劳动节"
+  },
   "Italy|Liberation Day": {
     "ko": "이탈리아 해방 기념일",
     "ja": "イタリア解放記念日",
     "zh": "意大利解放日",
     "es": "Día de la Liberación de Italia"
+  },
+  "Italy|National Unity Day": {
+    "ko": "국가 통일의 날",
+    "ja": "国家統一の日",
+    "es": "Día de la Unidad Nacional",
+    "zh": "国家统一日"
   },
   "Italy|New Year's Day": {
     "ko": "새해 첫날",
@@ -754,6 +1210,18 @@
     "ja": "イタリア共和国記念日",
     "zh": "意大利共和国日",
     "es": "Día de la República Italiana"
+  },
+  "Italy|Saint Francis of Assisi, Patron Saint of Italy": {
+    "ko": "아시시의 성 프란치스코 축일",
+    "ja": "アッシジの聖フランチェスコの祝日",
+    "es": "San Francisco de Asís, Patrono de Italia",
+    "zh": "意大利守护圣人方济各节"
+  },
+  "Italy|Saint Stephen's Day": {
+    "ko": "성 스테파노의 날",
+    "ja": "聖ステファノの日",
+    "es": "San Esteban",
+    "zh": "圣斯蒂芬日"
   },
   "Italy|St. Francis of Assisi's Day": {
     "ko": "아시시의 성 프란치스코 축일",
@@ -785,6 +1253,12 @@
     "zh": "成人节",
     "es": "Día de la Mayoría de Edad"
   },
+  "Japan|Constitution Day": {
+    "ko": "헌법기념일",
+    "ja": "憲法記念日",
+    "es": "Día de la Constitución",
+    "zh": "宪法纪念日"
+  },
   "Japan|Constitution Memorial Day": {
     "ko": "헌법기념일",
     "ja": "憲法記念日",
@@ -797,6 +1271,12 @@
     "zh": "文化日",
     "es": "Día de la Cultura"
   },
+  "Japan|Emperor's Birthday": {
+    "ko": "천황탄생일",
+    "ja": "天皇誕生日",
+    "es": "Cumpleaños del Emperador",
+    "zh": "天皇诞生日"
+  },
   "Japan|Foundation Day": {
     "ko": "건국기념일",
     "ja": "建国記念の日",
@@ -808,6 +1288,12 @@
     "ja": "みどりの日",
     "zh": "绿之日",
     "es": "Día del Verdor"
+  },
+  "Japan|Labor Thanksgiving Day": {
+    "ko": "근로감사의 날",
+    "ja": "勤労感謝の日",
+    "es": "Día de Acción de Gracias por el Trabajo",
+    "zh": "劳动感恩日"
   },
   "Japan|Labour Thanksgiving Day": {
     "ko": "근로감사의 날",
@@ -827,6 +1313,12 @@
     "zh": "山之日",
     "es": "Día de la Montaña"
   },
+  "Japan|National Holiday": {
+    "ko": "국민의 휴일",
+    "ja": "国民の休日",
+    "es": "Día Nacional",
+    "zh": "国民公休日"
+  },
   "Japan|New Year's Day": {
     "ko": "새해 첫날",
     "ja": "元日",
@@ -839,6 +1331,12 @@
     "zh": "敬老日",
     "es": "Día del Respeto a los Mayores"
   },
+  "Japan|Showa Day": {
+    "ko": "쇼와의 날",
+    "ja": "昭和の日",
+    "es": "Día de Showa",
+    "zh": "昭和之日"
+  },
   "Japan|Shōwa Day": {
     "ko": "쇼와의 날",
     "ja": "昭和の日",
@@ -850,6 +1348,12 @@
     "ja": "スポーツの日",
     "zh": "体育日",
     "es": "Día del Deporte"
+  },
+  "Japan|Substitute Holiday": {
+    "ko": "대체공휴일",
+    "ja": "振替休日",
+    "es": "Feriado sustituto",
+    "zh": "补假"
   },
   "Japan|The Emperor's Birthday": {
     "ko": "천황 탄생일",
@@ -886,6 +1390,66 @@
     "es": "Inicio del Ramadán",
     "zh": "斋月首日",
     "ko": "라마단 시작일"
+  },
+  "Malaysia|Birthday of HM Yang di-Pertuan Agong": {
+    "ko": "국왕 탄신일",
+    "ja": "国王誕生日",
+    "es": "Cumpleaños del Yang di-Pertuan Agong",
+    "zh": "最高元首诞辰"
+  },
+  "Malaysia|Chinese New Year": {
+    "ko": "설날",
+    "ja": "旧正月",
+    "es": "Año Nuevo chino",
+    "zh": "农历新年"
+  },
+  "Malaysia|Chinese New Year (Second Day)": {
+    "ko": "설날 둘째 날",
+    "ja": "旧正月(2日目)",
+    "es": "Segundo día del Año Nuevo chino",
+    "zh": "农历新年初二"
+  },
+  "Malaysia|Chinese New Year (Second Day) (observed)": {
+    "ko": "춘절 둘째 날",
+    "ja": "旧正月(2日目)",
+    "es": "Año Nuevo Chino (segundo día)",
+    "zh": "农历新年初二"
+  },
+  "Malaysia|Christmas Day": {
+    "ko": "크리스마스",
+    "ja": "クリスマス",
+    "es": "Navidad",
+    "zh": "圣诞节"
+  },
+  "Malaysia|Eid al-Adha": {
+    "ko": "이드 알아드하",
+    "ja": "イド・アル=アドハー",
+    "es": "Eid al-Adha",
+    "zh": "哈芝节"
+  },
+  "Malaysia|Eid al-Fitr": {
+    "ko": "이드 알피트르",
+    "ja": "イード・アル=フィトル",
+    "es": "Eid al-Fitr",
+    "zh": "开斋节"
+  },
+  "Malaysia|Eid al-Fitr (Second Day)": {
+    "ko": "이드 알피트르 둘째 날",
+    "ja": "イード・アル=フィトル(2日目)",
+    "es": "Segundo día del Eid al-Fitr",
+    "zh": "开斋节第二天"
+  },
+  "Malaysia|Eid al-Fitr (Second Day) (observed)": {
+    "ko": "이드 알피트르 둘째 날",
+    "ja": "イド・アル=フィトル(2日目)",
+    "es": "Eid al-Fitr (segundo día)",
+    "zh": "开斋节第二天"
+  },
+  "Malaysia|Eid al-Fitr (additional holiday)": {
+    "ko": "이드 알피트르",
+    "ja": "イード・アル=フィトル",
+    "es": "Eid al-Fitr",
+    "zh": "开斋节"
   },
   "Malaysia|Hari Ahad Easter": {
     "ko": "부활절",
@@ -1043,6 +1607,12 @@
     "ja": "連邦直轄領記念日",
     "es": "Día del Territorio Federal"
   },
+  "Malaysia|Islamic New Year": {
+    "ko": "이슬람 신년",
+    "ja": "イスラム暦新年",
+    "es": "Año Nuevo Islámico",
+    "zh": "伊斯兰新年"
+  },
   "Malaysia|Israk & Mikraj (cuti serantau)": {
     "ko": "이스라 미라지",
     "ja": "イスラーとミラージュ",
@@ -1061,6 +1631,12 @@
     "ja": "聖金曜日",
     "es": "Viernes Santo"
   },
+  "Malaysia|Labor Day": {
+    "ko": "노동절",
+    "ja": "メーデー",
+    "es": "Día del Trabajo",
+    "zh": "劳动节"
+  },
   "Malaysia|Malam Krismas": {
     "ja": "クリスマス・イブ",
     "es": "Nochebuena",
@@ -1073,6 +1649,12 @@
     "zh": "新年前夜",
     "ko": "새해 전야"
   },
+  "Malaysia|Malaysia Day": {
+    "ko": "말레이시아의 날",
+    "ja": "マレーシア・デー",
+    "es": "Día de Malasia",
+    "zh": "马来西亚日"
+  },
   "Malaysia|Maulidur Rasul": {
     "ko": "마울리드 (예언자 탄신일)",
     "ja": "predアウリド・ラスール",
@@ -1084,6 +1666,12 @@
     "zh": "圣纪节",
     "ja": "predawn",
     "es": "Mawlid"
+  },
+  "Malaysia|National Day": {
+    "ko": "독립기념일",
+    "ja": "独立記念日",
+    "es": "Día Nacional",
+    "zh": "国庆日"
   },
   "Malaysia|Pesta Kaamatan Sabah (Hari Kedua) (cuti serantau)": {
     "ko": "카아마탄 축제 연휴",
@@ -1109,6 +1697,18 @@
     "zh": "沙巴丰收节",
     "ko": "카아마탄 축제"
   },
+  "Malaysia|Prophet Muhammad's Birthday": {
+    "ko": "마울리드",
+    "ja": "predefinedムハンマド生誕祭",
+    "es": "Mawlid",
+    "zh": "圣纪节"
+  },
+  "Malaysia|Prophet Muhammad's Birthday (observed)": {
+    "es": "Mawlid",
+    "zh": "先知穆罕默德诞辰",
+    "ja": "predBt生誕祭",
+    "ko": "마울리드"
+  },
   "Malaysia|Tahun Baru Cina": {
     "ko": "설날",
     "zh": "农历新年",
@@ -1127,6 +1727,18 @@
     "ja": "旧正月2日目",
     "es": "Año Nuevo Chino (segundo día)"
   },
+  "Malaysia|Vesak Day": {
+    "ko": "부처님 오신 날",
+    "ja": "ウェーサク祭",
+    "es": "Vesak",
+    "zh": "卫塞节"
+  },
+  "Malaysia|Vesak Day (observed)": {
+    "ko": "부처님 오신 날",
+    "ja": "ウェーサク祭(振替休日)",
+    "es": "Vesak",
+    "zh": "卫塞节"
+  },
   "Philippines|All Saints' Day": {
     "ko": "만성절",
     "ja": "諸聖人の日",
@@ -1138,6 +1750,18 @@
     "ja": "諸聖人の日の前夜",
     "es": "Víspera de Todos los Santos",
     "zh": "万圣节前夜"
+  },
+  "Philippines|All Souls' Day": {
+    "ko": "위령의 날",
+    "ja": "万霊節",
+    "es": "Día de los Difuntos",
+    "zh": "追思节"
+  },
+  "Philippines|Black Saturday": {
+    "ko": "성 토요일",
+    "ja": "聖土曜日",
+    "es": "Sábado de Gloria",
+    "zh": "黑色星期六"
   },
   "Philippines|Bonifacio Day": {
     "ko": "보니파시오의 날",
@@ -1169,6 +1793,30 @@
     "zh": "英勇日",
     "es": "Día del Valor"
   },
+  "Philippines|Eid al-Adha": {
+    "ko": "이드 알아드하",
+    "ja": "イード・アル=アドハー",
+    "es": "Eid al-Adha",
+    "zh": "宰牲节"
+  },
+  "Philippines|Eid al-Adha (estimated)": {
+    "ko": "이드 알아드하",
+    "ja": "犠牲祭",
+    "es": "Eid al-Adha",
+    "zh": "宰牲节"
+  },
+  "Philippines|Eid al-Fitr": {
+    "ko": "이드 알피트르",
+    "ja": "イード・アル=フィトル",
+    "es": "Eid al-Fitr",
+    "zh": "开斋节"
+  },
+  "Philippines|Eid al-Fitr (estimated)": {
+    "ko": "이드 알피트르",
+    "ja": "イード・アル=フィトル",
+    "es": "Eid al-Fitr",
+    "zh": "开斋节"
+  },
   "Philippines|Feast of the Immaculate Conception of Mary": {
     "ko": "성모 무염시태 대축일",
     "ja": "聖母の無原罪の御宿りの祝日",
@@ -1187,11 +1835,23 @@
     "zh": "圣周六",
     "es": "Sábado Santo"
   },
+  "Philippines|Immaculate Conception": {
+    "ko": "성모 무염시태 대축일",
+    "ja": "無原罪の聖母の祝日",
+    "es": "Inmaculada Concepción",
+    "zh": "圣母无染原罪节"
+  },
   "Philippines|Independence Day": {
     "ko": "필리핀 독립기념일",
     "ja": "フィリピン独立記念日",
     "zh": "菲律宾独立日",
     "es": "Día de la Independencia de Filipinas"
+  },
+  "Philippines|Labor Day": {
+    "ko": "노동절",
+    "ja": "メーデー",
+    "es": "Día del Trabajo",
+    "zh": "劳动节"
   },
   "Philippines|Labour Day": {
     "ko": "노동절",
@@ -1223,6 +1883,12 @@
     "zh": "元旦",
     "es": "Año Nuevo"
   },
+  "Philippines|New Year's Eve": {
+    "ko": "한 해의 마지막 날",
+    "ja": "大晦日",
+    "es": "Nochevieja",
+    "zh": "除夕"
+  },
   "Philippines|Ninoy Aquino Day": {
     "ko": "니노이 아키노의 날",
     "ja": "ニノイ・アキノ・デー",
@@ -1241,6 +1907,12 @@
     "es": "Año Nuevo Chino",
     "zh": "农历新年"
   },
+  "Singapore|Chinese New Year (observed)": {
+    "ko": "설날",
+    "ja": "旧正月",
+    "es": "Año Nuevo chino",
+    "zh": "农历新年"
+  },
   "Singapore|Christmas Day": {
     "ko": "크리스마스",
     "ja": "クリスマス",
@@ -1252,6 +1924,30 @@
     "ja": "ディーパバリ",
     "es": "Diwali",
     "zh": "屠妖节"
+  },
+  "Singapore|Diwali": {
+    "ko": "디왈리",
+    "ja": "ディーパバリ",
+    "es": "Diwali",
+    "zh": "屠妖节"
+  },
+  "Singapore|Diwali (observed)": {
+    "ko": "디왈리",
+    "ja": "ディーパヴァリ",
+    "es": "Diwali",
+    "zh": "屠妖节"
+  },
+  "Singapore|Eid al-Adha": {
+    "ko": "하리 라야 하지",
+    "ja": "ハリラヤ・ハジ",
+    "es": "Eid al-Adha",
+    "zh": "宰牲节"
+  },
+  "Singapore|Eid al-Fitr": {
+    "ko": "하리 라야 푸아사",
+    "ja": "ハリラヤ・プアサ",
+    "es": "Eid al-Fitr",
+    "zh": "开斋节"
   },
   "Singapore|Good Friday": {
     "ko": "성금요일",
@@ -1271,6 +1967,12 @@
     "es": "Eid al-Fitr",
     "zh": "开斋节"
   },
+  "Singapore|Labor Day": {
+    "ko": "노동절",
+    "ja": "メーデー",
+    "es": "Día del Trabajo",
+    "zh": "劳动节"
+  },
   "Singapore|Labour Day": {
     "ko": "노동절",
     "ja": "メーデー",
@@ -1279,6 +1981,12 @@
   },
   "Singapore|National Day": {
     "ko": "싱가포르 건국기념일",
+    "ja": "建国記念日",
+    "es": "Día Nacional",
+    "zh": "国庆日"
+  },
+  "Singapore|National Day (observed)": {
+    "ko": "싱가포르 국경일",
     "ja": "建国記念日",
     "es": "Día Nacional",
     "zh": "国庆日"
@@ -1294,6 +2002,66 @@
     "ja": "ウェサック祭",
     "es": "Vesak",
     "zh": "卫塞节"
+  },
+  "Singapore|Vesak Day (observed)": {
+    "ko": "부처님 오신 날",
+    "ja": "ウェサック・デー",
+    "es": "Vesak",
+    "zh": "卫塞节"
+  },
+  "South Korea|Alternative holiday for Buddha's Birthday": {
+    "ko": "부처님오신날 대체공휴일",
+    "ja": "釈迦誕生日の代替休日",
+    "es": "Día festivo sustitutivo del Cumpleaños de Buda",
+    "zh": "释迦诞辰日替代假日"
+  },
+  "South Korea|Alternative holiday for Christmas Day": {
+    "ko": "크리스마스 대체공휴일",
+    "ja": "クリスマスの代替公休日",
+    "es": "Feriado alternativo de Navidad",
+    "zh": "圣诞节替代假日"
+  },
+  "South Korea|Alternative holiday for Constitution Day": {
+    "ko": "제헌절 대체공휴일",
+    "ja": "制憲節の代替公休日",
+    "es": "Feriado alternativo del Día de la Constitución",
+    "zh": "制宪节替代假日"
+  },
+  "South Korea|Alternative holiday for Hangul Day": {
+    "ko": "한글날 대체공휴일",
+    "ja": "ハングルの日の代替公休日",
+    "es": "Feriado alternativo del Día del Hangul",
+    "zh": "韩文日替代假日"
+  },
+  "South Korea|Alternative holiday for Independence Movement Day": {
+    "ko": "삼일절 대체공휴일",
+    "ja": "三一節の代替休日",
+    "es": "Día festivo sustitutivo del Día del Movimiento de Independencia",
+    "zh": "三一节替代假日"
+  },
+  "South Korea|Alternative holiday for Korean New Year": {
+    "ko": "설날 대체공휴일",
+    "ja": "旧正月の代替休日",
+    "es": "Día festivo sustitutivo del Año Nuevo Coreano (Seollal)",
+    "zh": "农历新年替代假日"
+  },
+  "South Korea|Alternative holiday for Labor Day": {
+    "ko": "근로자의 날 대체공휴일",
+    "ja": "勤労者の日の代替休日",
+    "es": "Día festivo sustitutivo del Día del Trabajo",
+    "zh": "劳动节替代假日"
+  },
+  "South Korea|Alternative holiday for Liberation Day": {
+    "ko": "광복절 대체공휴일",
+    "ja": "光復節の代替休日",
+    "es": "Día festivo sustitutivo del Día de la Liberación",
+    "zh": "光复节替代假日"
+  },
+  "South Korea|Alternative holiday for National Foundation Day": {
+    "ko": "개천절 대체공휴일",
+    "ja": "開天節の代替休日",
+    "es": "Día festivo sustitutivo del Día de la Fundación Nacional",
+    "zh": "开天节替代假日"
   },
   "South Korea|Buddha's Birthday": {
     "ko": "부처님 오신 날",
@@ -1337,6 +2105,18 @@
     "zh": "三一节（独立运动纪念日）",
     "es": "Día del Movimiento de Independencia"
   },
+  "South Korea|Korean New Year": {
+    "ko": "설날",
+    "ja": "旧正月",
+    "es": "Año Nuevo Coreano (Seollal)",
+    "zh": "农历新年"
+  },
+  "South Korea|Labor Day": {
+    "ko": "근로자의 날",
+    "ja": "勤労者の日",
+    "es": "Día del Trabajo",
+    "zh": "劳动节"
+  },
   "South Korea|Labour Day": {
     "ko": "노동절",
     "ja": "メーデー",
@@ -1379,17 +2159,53 @@
     "zh": "元旦",
     "es": "Año Nuevo"
   },
+  "South Korea|The day preceding Chuseok": {
+    "ko": "추석 연휴",
+    "ja": "秋夕前日",
+    "es": "Víspera del Chuseok",
+    "zh": "中秋节前一天"
+  },
+  "South Korea|The day preceding Korean New Year": {
+    "ko": "설날 연휴",
+    "ja": "旧正月前日",
+    "es": "Víspera del Año Nuevo Coreano (Seollal)",
+    "zh": "农历新年前一天"
+  },
+  "South Korea|The second day of Chuseok": {
+    "ko": "추석 연휴",
+    "ja": "秋夕翌日",
+    "es": "Segundo día del Chuseok",
+    "zh": "中秋节翌日"
+  },
+  "South Korea|The second day of Korean New Year": {
+    "ko": "설날 연휴",
+    "ja": "旧正月翌日",
+    "es": "Segundo día del Año Nuevo Coreano (Seollal)",
+    "zh": "农历新年翌日"
+  },
   "Spain|All Saints Day": {
     "ko": "만성절",
     "ja": "諸聖人の日",
     "zh": "诸圣节",
     "es": "Día de Todos los Santos"
   },
+  "Spain|All Saints' Day": {
+    "ko": "모든 성인 대축일",
+    "ja": "諸聖人の日",
+    "es": "Día de Todos los Santos",
+    "zh": "万圣节"
+  },
   "Spain|Assumption": {
     "ko": "성모 승천 대축일",
     "ja": "聖母被昇天祭",
     "zh": "圣母升天节",
     "es": "Asunción"
+  },
+  "Spain|Assumption Day": {
+    "ko": "성모 승천 대축일",
+    "ja": "聖母被昇天祭",
+    "es": "Asunción de la Virgen",
+    "zh": "圣母升天节"
   },
   "Spain|Christmas Day": {
     "ko": "크리스마스",
@@ -1421,11 +2237,23 @@
     "zh": "圣母无染原罪瞻礼",
     "es": "Inmaculada Concepción"
   },
+  "Spain|Labor Day": {
+    "ko": "노동절",
+    "ja": "メーデー",
+    "es": "Día del Trabajador",
+    "zh": "劳动节"
+  },
   "Spain|Labour Day": {
     "ko": "노동절",
     "ja": "メーデー",
     "zh": "劳动节",
     "es": "Día del Trabajo"
+  },
+  "Spain|National Day": {
+    "ko": "스페인 국경일",
+    "ja": "スペイン国慶日",
+    "es": "Fiesta Nacional de España",
+    "zh": "国庆节"
   },
   "Spain|National Day of Spain": {
     "ko": "스페인 국경일",
@@ -1451,16 +2279,58 @@
     "es": "Día del Niño",
     "zh": "儿童节"
   },
+  "Taiwan|Children's Day (observed)": {
+    "ko": "어린이날",
+    "ja": "こどもの日",
+    "es": "Día del Niño",
+    "zh": "儿童节补假"
+  },
   "Taiwan|Children's Day Holiday": {
     "ko": "어린이날 연휴",
     "ja": "児童節",
     "es": "Día del Niño",
     "zh": "儿童节假期"
   },
+  "Taiwan|Chinese New Year": {
+    "ko": "설날",
+    "ja": "旧正月",
+    "es": "Año Nuevo Chino",
+    "zh": "农历新年"
+  },
+  "Taiwan|Chinese New Year (observed)": {
+    "ko": "춘절 대체공휴일",
+    "ja": "旧正月",
+    "es": "Año Nuevo Chino (observado)",
+    "zh": "春节"
+  },
+  "Taiwan|Chinese New Year's Eve": {
+    "ko": "섣달그믐",
+    "ja": "旧正月大晦日",
+    "es": "Víspera del Año Nuevo Chino",
+    "zh": "农历除夕"
+  },
+  "Taiwan|Chinese New Year's Eve (observed)": {
+    "ko": "섣달그믐",
+    "ja": "旧正月大晦日",
+    "es": "Víspera del Año Nuevo Chino",
+    "zh": "农历除夕补假"
+  },
+  "Taiwan|Confucius' Birthday": {
+    "ko": "공자탄신일",
+    "ja": "孔子生誕祭",
+    "es": "Natalicio de Confucio",
+    "zh": "孔子诞辰纪念日"
+  },
   "Taiwan|Constitution Day": {
     "ko": "제헌기념일",
     "ja": "行憲記念日",
     "es": "Día de la Constitución",
+    "zh": "行宪纪念日"
+  },
+  "Taiwan|Constitution Day (observed)": {
+    "ko": "제헌절 대체공휴일",
+    "ja": "行憲記念日",
+    "es": "Día de la Constitución (observado)",
     "zh": "行宪纪念日"
   },
   "Taiwan|Day off for Children's Day": {
@@ -1523,6 +2393,18 @@
     "es": "Día del Agricultor",
     "zh": "农民节"
   },
+  "Taiwan|Founding Day of the Republic of China": {
+    "ko": "중화민국 개국기념일",
+    "ja": "中華民国建国記念日",
+    "es": "Día de la Fundación de la República de China",
+    "zh": "中华民国开国纪念日"
+  },
+  "Taiwan|Founding Day of the Republic of China (observed)": {
+    "ko": "중화민국 건국기념일 대체공휴일",
+    "ja": "中華民国開国記念日",
+    "es": "Día de la Fundación de la República de China (observado)",
+    "zh": "中华民国开国纪念日"
+  },
   "Taiwan|Hungry Ghost Festival": {
     "ko": "중원절",
     "ja": "中元節",
@@ -1539,6 +2421,12 @@
     "ko": "노동절",
     "ja": "労働節",
     "es": "Día del Trabajo",
+    "zh": "劳动节"
+  },
+  "Taiwan|Labor Day (observed)": {
+    "ko": "노동절 대체공휴일",
+    "ja": "労働節",
+    "es": "Día del Trabajo (observado)",
     "zh": "劳动节"
   },
   "Taiwan|Labor Day Holiday": {
@@ -1583,6 +2471,12 @@
     "es": "Día Nacional",
     "zh": "国庆日"
   },
+  "Taiwan|National Day (observed)": {
+    "ko": "쌍십절",
+    "ja": "双十節",
+    "es": "Día Nacional de la República de China",
+    "zh": "国庆日补假"
+  },
   "Taiwan|National Day Holiday": {
     "ko": "국경절 연휴",
     "ja": "国慶日",
@@ -1595,6 +2489,12 @@
     "es": "Día de la Memoria de la Paz",
     "zh": "和平纪念日"
   },
+  "Taiwan|Peace Memorial Day (observed)": {
+    "ko": "평화기념일",
+    "ja": "和平記念日",
+    "es": "Día Conmemorativo de la Paz",
+    "zh": "和平纪念日补假"
+  },
   "Taiwan|Peace Memorial Day Holiday": {
     "ko": "화평기념일 연휴",
     "ja": "和平記念日",
@@ -1606,6 +2506,18 @@
     "ja": "双十節",
     "es": "Día de la República",
     "zh": "中华民国国庆日"
+  },
+  "Taiwan|Taiwan Restoration and Guningtou Victory Memorial Day": {
+    "ko": "대만 광복절 및 구닝터우 대첩 기념일",
+    "ja": "台湾光復節",
+    "es": "Día de la Restauración de Taiwán y Conmemoración de la Victoria de Guningtou",
+    "zh": "台湾光复暨古宁头大捷纪念日"
+  },
+  "Taiwan|Taiwan Restoration and Guningtou Victory Memorial Day (observed)": {
+    "ko": "대만 광복절 및 구닝터우 대첩 기념일 대체공휴일",
+    "ja": "台湾光復節",
+    "es": "Día de la Restauración de Taiwán y Conmemoración de la Victoria de Guningtou (observado)",
+    "zh": "台湾光复暨古宁头大捷纪念日"
   },
   "Taiwan|Taiwan's Retrocession Day": {
     "ko": "대만 광복절",
@@ -1631,6 +2543,18 @@
     "es": "Día de Barrido de Tumbas",
     "zh": "清明节"
   },
+  "Taiwan|Tomb-Sweeping Day": {
+    "ko": "청명절",
+    "ja": "清明節",
+    "es": "Día de Barrido de Tumbas",
+    "zh": "清明节"
+  },
+  "Taiwan|Tomb-Sweeping Day (observed)": {
+    "ko": "청명절",
+    "ja": "清明節",
+    "es": "Día de Barrido de Tumbas",
+    "zh": "清明节补假"
+  },
   "Taiwan|Youth Day": {
     "ko": "청년절",
     "ja": "青年節",
@@ -1649,10 +2573,40 @@
     "es": "Asalha Bucha",
     "zh": "三宝佛节"
   },
+  "Thailand|Asarnha Bucha": {
+    "ko": "아사라하 부차",
+    "ja": "アーサーラハブーチャー",
+    "es": "Asarnha Bucha",
+    "zh": "三宝佛节"
+  },
+  "Thailand|Asarnha Bucha (in lieu)": {
+    "ko": "아사하부차 대체공휴일",
+    "ja": "三宝節(振替休日)",
+    "es": "Asalha Bucha",
+    "zh": "三宝佛节(补假)"
+  },
+  "Thailand|Bridge Public Holiday": {
+    "ko": "임시공휴일",
+    "ja": "祝日の谷間の休日",
+    "es": "Puente",
+    "zh": "连假日"
+  },
+  "Thailand|Buddhist Lent Day": {
+    "ko": "카오판사",
+    "ja": "カオパンサー",
+    "es": "Inicio del Retiro Budista de Cuaresma",
+    "zh": "佛教守夏节"
+  },
   "Thailand|Chakri Day": {
     "ko": "차크리 왕조 기념일",
     "ja": "チャクリー記念日",
     "es": "Día de Chakri",
+    "zh": "却克里王朝纪念日"
+  },
+  "Thailand|Chakri Memorial Day": {
+    "ko": "차크리 기념일",
+    "ja": "チャクリー王朝記念日",
+    "es": "Día de la Dinastía Chakri",
     "zh": "却克里王朝纪念日"
   },
   "Thailand|Chinese New Year's Day": {
@@ -1703,6 +2657,54 @@
     "es": "Visakha Bucha",
     "zh": "卫塞节假日"
   },
+  "Thailand|HM King Bhumibol Adulyadej Memorial Day": {
+    "ko": "푸미폰 아둔야뎃 국왕 서거 기념일",
+    "ja": "プミポン国王記念日",
+    "es": "Día en Memoria del Rey Bhumibol Adulyadej",
+    "zh": "普密蓬国王纪念日"
+  },
+  "Thailand|HM King Bhumibol Adulyadej the Great's Birthday": {
+    "ko": "푸미폰 아둔야뎃 대왕 탄신일",
+    "ja": "プミポン国王陛下誕生日",
+    "es": "Cumpleaños del Rey Bhumibol Adulyadej el Grande",
+    "zh": "普密蓬大帝诞辰"
+  },
+  "Thailand|HM King Bhumibol Adulyadej the Great's Birthday (in lieu)": {
+    "ko": "푸미폰 아둔야뎃 대왕 탄신일 대체공휴일",
+    "ja": "プミポン国王陛下誕生日(振替休日)",
+    "es": "Cumpleaños del Rey Bhumibol Adulyadej el Grande (día sustituto)",
+    "zh": "普密蓬大帝诞辰(补假)"
+  },
+  "Thailand|HM King Chulalongkorn Memorial Day": {
+    "ko": "쭐랄롱꼰 대왕 기념일",
+    "ja": "チュラロンコン大王記念日",
+    "es": "Día en Memoria del Rey Chulalongkorn",
+    "zh": "五世皇纪念日"
+  },
+  "Thailand|HM King Chulalongkorn Memorial Day (in lieu)": {
+    "ko": "쭐랄롱꼰 대왕 기념일 대체공휴일",
+    "ja": "チュラロンコン大王記念日(振替休日)",
+    "es": "Día de Conmemoración del Rey Chulalongkorn",
+    "zh": "五世皇纪念日(补假)"
+  },
+  "Thailand|HM King Maha Vajiralongkorn's Birthday": {
+    "ko": "마하 와치랄롱꼰 국왕 탄신일",
+    "ja": "ワチラロンコン国王誕生日",
+    "es": "Cumpleaños del Rey Maha Vajiralongkorn",
+    "zh": "玛哈·哇集拉隆功国王诞辰"
+  },
+  "Thailand|HM Queen Sirikit The Queen Mother's Birthday": {
+    "ko": "시리낏 왕대비 탄신일",
+    "ja": "シリキット王太后陛下誕生日",
+    "es": "Cumpleaños de la Reina Madre Sirikit",
+    "zh": "诗丽吉王太后诞辰"
+  },
+  "Thailand|HM Queen Suthida's Birthday": {
+    "ko": "수티다 왕비 탄신일",
+    "ja": "スティダー王妃誕生日",
+    "es": "Cumpleaños de la Reina Suthida",
+    "zh": "苏提达王后诞辰"
+  },
   "Thailand|King Bhumibol's Birthday": {
     "ko": "라마 9세 국왕 탄신일",
     "ja": "プーミポン国王誕生日",
@@ -1738,6 +2740,60 @@
     "ja": "マーカブーチャー",
     "es": "Makha Bucha",
     "zh": "万佛节"
+  },
+  "Thailand|Makha Bucha (in lieu)": {
+    "ko": "마카부차 대체공휴일",
+    "ja": "万仏節(振替休日)",
+    "es": "Makha Bucha",
+    "zh": "万佛节(补假)"
+  },
+  "Thailand|National Children's Day": {
+    "ko": "어린이날",
+    "ja": "こどもの日",
+    "es": "Día Nacional del Niño",
+    "zh": "儿童节"
+  },
+  "Thailand|National Day": {
+    "ko": "태국 국경일",
+    "ja": "国家の日",
+    "es": "Día Nacional",
+    "zh": "泰国国庆日"
+  },
+  "Thailand|National Day (in lieu)": {
+    "ko": "태국 국경일 대체공휴일",
+    "ja": "国家の日(振替休日)",
+    "es": "Día Nacional (día sustituto)",
+    "zh": "泰国国庆日(补假)"
+  },
+  "Thailand|National Father's Day": {
+    "ko": "아버지의 날",
+    "ja": "父の日",
+    "es": "Día del Padre",
+    "zh": "泰国父亲节"
+  },
+  "Thailand|National Father's Day (in lieu)": {
+    "ko": "아버지의 날 대체공휴일",
+    "ja": "父の日(振替休日)",
+    "es": "Día del Padre (día sustituto)",
+    "zh": "泰国父亲节(补假)"
+  },
+  "Thailand|National Labor Day": {
+    "ko": "노동절",
+    "ja": "メーデー",
+    "es": "Día Nacional del Trabajo",
+    "zh": "劳动节"
+  },
+  "Thailand|National Labor Day (in lieu)": {
+    "ko": "노동절 대체공휴일",
+    "ja": "労働者の日(振替休日)",
+    "es": "Día Nacional del Trabajo",
+    "zh": "劳动节(补假)"
+  },
+  "Thailand|National Mother's Day": {
+    "ko": "어머니의 날",
+    "ja": "母の日",
+    "es": "Día de la Madre",
+    "zh": "泰国母亲节"
   },
   "Thailand|New Year Special Holiday": {
     "ko": "신정 연휴",
@@ -1781,6 +2837,12 @@
     "es": "Songkran",
     "zh": "宋干节"
   },
+  "Thailand|Songkran Festival": {
+    "ko": "송끄란",
+    "ja": "ソンクラーン",
+    "es": "Songkran",
+    "zh": "宋干节"
+  },
   "Thailand|Songkran Holiday": {
     "ko": "송크란 연휴",
     "ja": "ソンクラーン休暇",
@@ -1811,17 +2873,35 @@
     "es": "Visakha Bucha",
     "zh": "卫塞节"
   },
+  "Thailand|Visakha Bucha (in lieu)": {
+    "ko": "비사카 부차 (대체공휴일)",
+    "ja": "ヴィサーカブーチャー(振替休日)",
+    "es": "Visakha Bucha",
+    "zh": "卫塞节（补假）"
+  },
   "Turkey|Atatürk Commemoration & Youth Day": {
     "ko": "아타튀르크 추모·청년 체육의 날",
     "ja": "アタテュルク記念・青少年スポーツの日",
     "zh": "阿塔图尔克纪念暨青年体育节",
     "es": "Día de Conmemoración de Atatürk, la Juventud y el Deporte"
   },
+  "Turkey|Commemoration of Atatürk, Youth and Sports Day": {
+    "ko": "아타튀르크 추모 및 청소년 체육의 날",
+    "ja": "アタテュルクを記念する青年とスポーツの日",
+    "es": "Día de Conmemoración de Atatürk, la Juventud y el Deporte",
+    "zh": "纪念阿塔图尔克青年与体育节"
+  },
   "Turkey|Democracy and National Unity Day": {
     "ko": "민주주의와 국민 통합의 날",
     "ja": "民主主義と国民統一の日",
     "zh": "民主与民族团结日",
     "es": "Día de la Democracia y la Unidad Nacional"
+  },
+  "Turkey|Eid al-Adha": {
+    "ko": "이드 알아드하",
+    "ja": "クルバン・バイラム",
+    "es": "Eid al-Adha",
+    "zh": "宰牲节"
   },
   "Turkey|Eid al-Adha First Day": {
     "ko": "쿠르반 바이람(희생제) 첫째 날",
@@ -1871,6 +2951,12 @@
     "es": "Tercer día del Eid al-Adha",
     "zh": "宰牲节第三天"
   },
+  "Turkey|Eid al-Fitr": {
+    "ko": "이드 알피트르",
+    "ja": "ラマザン・バイラム",
+    "es": "Eid al-Fitr",
+    "zh": "开斋节"
+  },
   "Turkey|Eid al-Fitr First Day": {
     "ko": "라마단 바이람(금식 종료 축제) 첫째 날",
     "ja": "砂糖祭（ラマザン・バイラム）1日目",
@@ -1913,11 +2999,23 @@
     "zh": "劳动节",
     "es": "Día del Trabajo"
   },
+  "Turkey|Labour and Solidarity Day": {
+    "ko": "노동절",
+    "ja": "労働者連帯の日",
+    "es": "Día del Trabajo",
+    "zh": "劳动节"
+  },
   "Turkey|National Independence & Children's Day": {
     "ko": "국권 회복·어린이날",
     "ja": "国民主権とこどもの日",
     "zh": "国家主权与儿童节",
     "es": "Día de la Soberanía Nacional y del Niño"
+  },
+  "Turkey|National Sovereignty and Children's Day": {
+    "ko": "국가주권 및 어린이의 날",
+    "ja": "国家主権と子供の日",
+    "es": "Día de la Soberanía Nacional y del Niño",
+    "zh": "国家主权与儿童节"
   },
   "Turkey|New Year's Day": {
     "ko": "새해 첫날",
@@ -1967,6 +3065,12 @@
     "es": "Día de la Conmemoración",
     "zh": "追思日"
   },
+  "United Arab Emirates|Day of Arafah (estimated)": {
+    "ko": "아라파 데이",
+    "ja": "アラファートの日",
+    "es": "Día de Arafat (estimado)",
+    "zh": "阿拉法日（预计）"
+  },
   "United Arab Emirates|Eid al-Adha (Feast of Sacrifice)": {
     "ko": "이드 알아드하",
     "ja": "イード・アル=アドハー",
@@ -1979,11 +3083,23 @@
     "es": "Eid al-Adha",
     "zh": "宰牲节"
   },
+  "United Arab Emirates|Eid al-Adha (estimated)": {
+    "ko": "이드 알아드하",
+    "ja": "イード・アル=アドハー",
+    "es": "Eid al-Adha (estimado)",
+    "zh": "宰牲节（预计）"
+  },
   "United Arab Emirates|Eid al-Adha Holiday": {
     "ko": "이드 알아드하 연휴",
     "ja": "イード・アル=アドハー休暇",
     "es": "Fiesta del Eid al-Adha",
     "zh": "宰牲节假期"
+  },
+  "United Arab Emirates|Eid al-Adha Holiday (estimated)": {
+    "ko": "이드 알아드하 연휴",
+    "ja": "イード・アル=アドハー休暇",
+    "es": "Fiesta del Eid al-Adha (estimado)",
+    "zh": "宰牲节假期（预计）"
   },
   "United Arab Emirates|Eid al-Adha Holiday (tentative)": {
     "ko": "이드 알아드하 연휴",
@@ -2003,6 +3119,12 @@
     "es": "Eid al-Fitr",
     "zh": "开斋节"
   },
+  "United Arab Emirates|Eid al-Fitr (estimated)": {
+    "ko": "이드 알피트르",
+    "ja": "イード・アル=フィトル",
+    "es": "Eid al-Fitr (estimado)",
+    "zh": "开斋节（预计）"
+  },
   "United Arab Emirates|Eid al-Fitr (tentative)": {
     "ko": "이드 알피트르",
     "ja": "イード・アル=フィトル",
@@ -2014,6 +3136,12 @@
     "ja": "イード・アル=フィトル休暇",
     "es": "Fiesta del Eid al-Fitr",
     "zh": "开斋节假期"
+  },
+  "United Arab Emirates|Eid al-Fitr Holiday (estimated)": {
+    "ko": "이드 알피트르 연휴",
+    "ja": "イード・アル=フィトル休暇",
+    "es": "Fiesta del Eid al-Fitr (estimado)",
+    "zh": "开斋节假期（预计）"
   },
   "United Arab Emirates|Eid al-Fitr Holiday (tentative)": {
     "ko": "이드 알피트르 연휴",
@@ -2032,6 +3160,12 @@
     "ja": "ハッジ(巡礼)開始",
     "es": "Inicio de la temporada de Hajj",
     "zh": "朝觐季开始"
+  },
+  "United Arab Emirates|Islamic New Year (estimated)": {
+    "ko": "이슬람 신년",
+    "ja": "イスラム暦新年",
+    "es": "Año Nuevo Islámico",
+    "zh": "伊斯兰新年"
   },
   "United Arab Emirates|Leilat al-Meiraj": {
     "ko": "라일라트 알미라지",
@@ -2081,6 +3215,12 @@
     "es": "Nochevieja",
     "zh": "元旦前夜"
   },
+  "United Arab Emirates|Prophet's Birthday (estimated)": {
+    "ko": "무함마드 탄신일",
+    "ja": "predislam預言者生誕祭",
+    "es": "Mawlid",
+    "zh": "先知诞辰"
+  },
   "United Arab Emirates|Ramadan Start": {
     "ko": "라마단 시작",
     "ja": "ラマダン開始",
@@ -2099,6 +3239,12 @@
     "es": "Navidad",
     "zh": "圣诞节"
   },
+  "United States|Christmas Day (observed)": {
+    "ko": "크리스마스 (대체공휴일)",
+    "ja": "クリスマス(振替休日)",
+    "es": "Navidad",
+    "zh": "圣诞节（补假）"
+  },
   "United States|Columbus Day": {
     "ko": "콜럼버스의 날",
     "ja": "コロンブスデー",
@@ -2111,17 +3257,41 @@
     "es": "Día de la Independencia",
     "zh": "美国独立日"
   },
+  "United States|Independence Day (observed)": {
+    "ko": "독립기념일 대체휴일",
+    "ja": "独立記念日の振替休日",
+    "es": "Día de la Independencia",
+    "zh": "独立日"
+  },
   "United States|Juneteenth National Independence Day": {
     "ko": "준틴스",
     "ja": "ジューンティーンス",
     "es": "Día de la Independencia Juneteenth",
     "zh": "六月节"
   },
+  "United States|Juneteenth National Independence Day (observed)": {
+    "ko": "준틴스 (대체공휴일)",
+    "ja": "ジューンティーンス(振替休日)",
+    "es": "Día Nacional de la Independencia (Juneteenth)",
+    "zh": "六月节（补假）"
+  },
+  "United States|Labor Day": {
+    "ko": "노동절",
+    "ja": "レイバーデー",
+    "es": "Día del Trabajo",
+    "zh": "劳动节"
+  },
   "United States|Labour Day": {
     "ko": "노동절",
     "ja": "レイバー・デー（労働者の日）",
     "zh": "劳动节",
     "es": "Día del Trabajo"
+  },
+  "United States|Martin Luther King Jr. Day": {
+    "ko": "마틴 루터 킹 데이",
+    "ja": "キング牧師記念日",
+    "es": "Día de Martin Luther King Jr.",
+    "zh": "马丁·路德·金纪念日"
   },
   "United States|Martin Luther King, Jr. Day": {
     "ko": "마틴 루터 킹 데이",
@@ -2141,6 +3311,12 @@
     "es": "Año Nuevo",
     "zh": "元旦"
   },
+  "United States|New Year's Day (observed)": {
+    "ko": "신정 (대체공휴일)",
+    "ja": "元日(振替休日)",
+    "es": "Año Nuevo",
+    "zh": "元旦（补假）"
+  },
   "United States|Presidents Day": {
     "ko": "대통령의 날",
     "ja": "プレジデンツ・デー",
@@ -2159,11 +3335,167 @@
     "es": "Día de los Veteranos",
     "zh": "退伍军人节"
   },
+  "United States|Washington's Birthday": {
+    "ko": "워싱턴 탄생일",
+    "ja": "ワシントン誕生日",
+    "es": "Día de los Presidentes",
+    "zh": "华盛顿诞辰纪念日"
+  },
+  "Uzbekistan|Additional day off by Presidential decree": {
+    "ko": "대통령령에 의한 임시 공휴일",
+    "ja": "大統領令による特別休日",
+    "es": "Día libre adicional por decreto presidencial",
+    "zh": "总统令增设休息日"
+  },
+  "Uzbekistan|Constitution Day": {
+    "ko": "헌법의 날",
+    "ja": "憲法記念日",
+    "es": "Día de la Constitución",
+    "zh": "宪法日"
+  },
+  "Uzbekistan|Day of Memory and Honor": {
+    "ko": "추모와 영예의 날",
+    "ja": "追憶と栄誉の日",
+    "es": "Día de la Memoria y los Honores",
+    "zh": "追思与荣誉日"
+  },
+  "Uzbekistan|Day of Memory and Honor (observed)": {
+    "ko": "추모와 영예의 날 (대체휴일)",
+    "ja": "追憶と栄誉の日(振替休日)",
+    "es": "Día de la Memoria y los Honores (día no laborable trasladado)",
+    "zh": "追思与荣誉日(顺延)"
+  },
+  "Uzbekistan|Day off (substituted from 12/12/2026)": {
+    "ko": "대체 휴일",
+    "ja": "振替休日",
+    "es": "Día no laborable (trasladado del 12/12/2026)",
+    "zh": "调休假日(2026年12月12日调休)"
+  },
+  "Uzbekistan|Eid al-Adha (estimated)": {
+    "ko": "쿠르반 하이트",
+    "ja": "犠牲祭",
+    "es": "Eid al-Adha",
+    "zh": "古尔邦节(预计)"
+  },
+  "Uzbekistan|Eid al-Adha (observed, estimated)": {
+    "ko": "쿠르반 하이트 (대체휴일)",
+    "ja": "犠牲祭(振替休日)",
+    "es": "Eid al-Adha (día no laborable trasladado)",
+    "zh": "古尔邦节(顺延,预计)"
+  },
+  "Uzbekistan|Eid al-Fitr (estimated)": {
+    "ko": "라마단 종료제",
+    "ja": "イード・アル=フィトル(予定)",
+    "es": "Eid al-Fitr (estimado)",
+    "zh": "开斋节(预计)"
+  },
+  "Uzbekistan|Independence Day": {
+    "ko": "독립기념일",
+    "ja": "独立記念日",
+    "es": "Día de la Independencia",
+    "zh": "独立日"
+  },
+  "Uzbekistan|New Year's Day": {
+    "ko": "신정",
+    "ja": "元日",
+    "es": "Año Nuevo",
+    "zh": "元旦"
+  },
+  "Uzbekistan|Nowruz": {
+    "ko": "나브루즈",
+    "ja": "ノウルーズ",
+    "es": "Nowruz",
+    "zh": "诺鲁孜节"
+  },
+  "Uzbekistan|Nowruz (observed)": {
+    "ko": "나브루즈 대체공휴일",
+    "ja": "ノウルーズ(振替休日)",
+    "es": "Nowruz (observado)",
+    "zh": "诺鲁孜节(顺延)"
+  },
+  "Uzbekistan|Teachers and Instructors Day": {
+    "ko": "교사의 날",
+    "ja": "教師の日",
+    "es": "Día de los Maestros y Educadores",
+    "zh": "教师节"
+  },
+  "Uzbekistan|Women's Day": {
+    "ko": "여성의 날",
+    "ja": "国際女性デー",
+    "es": "Día de la Mujer",
+    "zh": "妇女节"
+  },
+  "Uzbekistan|Women's Day (observed)": {
+    "ko": "여성의 날 대체공휴일",
+    "ja": "国際女性デー(振替休日)",
+    "es": "Día de la Mujer (observado)",
+    "zh": "妇女节(顺延)"
+  },
+  "Vietnam|29 of Lunar New Year": {
+    "ko": "설날 전야",
+    "ja": "旧正月の大晦日",
+    "es": "Víspera del Año Nuevo Lunar",
+    "zh": "农历除夕（廿九）"
+  },
+  "Vietnam|Fifth Day of Lunar New Year": {
+    "ko": "설날 연휴 (음력 5일)",
+    "ja": "旧正月5日目",
+    "es": "Quinto día del Año Nuevo Lunar",
+    "zh": "大年初五"
+  },
+  "Vietnam|Fourth Day of Lunar New Year": {
+    "ko": "뗏 나흗날",
+    "ja": "テト4日目",
+    "es": "Cuarto día del Tet",
+    "zh": "大年初四"
+  },
+  "Vietnam|Hung Kings' Commemoration Day": {
+    "ko": "훙브엉 기념일",
+    "ja": "フン王の命日",
+    "es": "Día de los Reyes Hung",
+    "zh": "雄王忌日"
+  },
+  "Vietnam|Hung Kings' Commemoration Day (observed)": {
+    "ko": "훙브엉 기념일",
+    "ja": "フン王の命日(振替休日)",
+    "es": "Día de los Reyes Hung (observado)",
+    "zh": "雄王忌日（顺延）"
+  },
+  "Vietnam|International Labor Day": {
+    "ko": "노동절",
+    "ja": "メーデー",
+    "es": "Día Internacional del Trabajo",
+    "zh": "国际劳动节"
+  },
+  "Vietnam|International Labor Day (observed)": {
+    "ko": "노동절",
+    "ja": "メーデー(振替休日)",
+    "es": "Día Internacional del Trabajo (observado)",
+    "zh": "国际劳动节（顺延）"
+  },
   "Vietnam|Labour Day": {
     "ko": "노동절",
     "ja": "メーデー",
     "zh": "劳动节",
     "es": "Día del Trabajo"
+  },
+  "Vietnam|Liberation Day/Reunification Day": {
+    "ko": "해방기념일",
+    "ja": "解放記念日",
+    "es": "Día de la Reunificación",
+    "zh": "解放统一日"
+  },
+  "Vietnam|Lunar New Year": {
+    "ko": "뗏 (베트남 설날)",
+    "ja": "テト",
+    "es": "Tet",
+    "zh": "春节"
+  },
+  "Vietnam|Lunar New Year's Eve": {
+    "ko": "설 전날 (뗏)",
+    "ja": "テト前夜",
+    "es": "Víspera del Tet",
+    "zh": "除夕"
   },
   "Vietnam|National Day": {
     "ko": "베트남 국경일",
@@ -2182,5 +3514,17 @@
     "ja": "南部解放・国家統一記念日",
     "zh": "南方解放统一日",
     "es": "Día de la Reunificación"
+  },
+  "Vietnam|Second Day of Lunar New Year": {
+    "ko": "뗏 이튿날",
+    "ja": "テト2日目",
+    "es": "Segundo día del Tet",
+    "zh": "大年初二"
+  },
+  "Vietnam|Third Day of Lunar New Year": {
+    "ko": "뗏 사흗날",
+    "ja": "テト3日目",
+    "es": "Tercer día del Tet",
+    "zh": "大年初三"
   }
 }

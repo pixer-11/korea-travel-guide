@@ -470,6 +470,7 @@ jobs:
           if echo "$MISSING" | grep -q '"climate":\[\]'; then
             echo "기후·공휴일: 빠진 나라 없음 — 건너뜁니다."
           else
+            python3 -m pip install --quiet -r scripts/requirements-holidays.txt
             node scripts/refresh-country-facts.mjs
           fi
           if echo "$MISSING" | grep -q '"essentials":\[\]'; then

@@ -4,8 +4,12 @@
 //  Free, keyless sources:
 //   • NASA POWER archive (10 complete years, averaged to monthly hi/lo/rain,
 //     sampled at the country's most-covered CITY — see coordsByCountry)
-//   • Nager.Date public holidays (this year + next; countries it doesn't
-//     cover — e.g. Thailand/Taiwan/UAE — just get an empty list)
+//   • public holidays from the MIT-licensed `holidays` package, via
+//     scripts/lib/holidays-export.py (this year + next). It replaced Nager.Date
+//     on 2026-09-24: Nager's terms require sponsorship for commercial use and
+//     forbid operating a holiday portal, and this site carries affiliate links.
+//     The Google public-calendar fallback went with it — nothing grants the
+//     right to republish those feeds.
 //  Coordinates need NO per-country config: the median lat/lng of a country's
 //  own venue posts is its representative point, so "add country X" keeps
 //  working with zero extra setup (posts appear → facts appear).
@@ -13,6 +17,7 @@
 //  Usage: node scripts/refresh-country-facts.mjs   (monthly cron + manual)
 // ─────────────────────────────────────────────────────────────
 import { readFile, writeFile, readdir } from 'node:fs/promises';
+import { execFileSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import matter from 'gray-matter';
@@ -130,67 +135,20 @@ async function climate(lat, lng) {
   }));
 }
 
-// Nager.Date covers most of Europe and the Americas but simply has no data for
-// several countries this site publishes in — Thailand, the UAE, Taiwan, Malaysia
-// and India all came back empty, which is why their essentials pages showed no
-// holidays at all. Google's public holiday calendars cover them and are free, so
-// they serve as the fallback. Two id shapes are in use (en.th, but taiwan /
-// malaysia / indian), hence the candidate list.
-// Google uses two id shapes and which one a country answers to is not guessable:
-// some are <lang>.<iso2> (en.th), others <lang>.<name> (tw.taiwan, ms.malaysia,
-// en.indian). Each country lists the forms that were verified to return events.
-const GCAL_IDS = {
-  th: ['en.th'], ae: ['en.ae'], tw: ['tw.taiwan', 'en.tw'],
-  my: ['ms.malaysia', 'en.my'], in: ['en.indian', 'en.in'],
-};
-
-/** Minimal ICS reader: all-day VEVENTs are DTSTART;VALUE=DATE:YYYYMMDD + SUMMARY. */
-function parseIcs(text, years) {
-  const out = [];
-  for (const block of text.split('BEGIN:VEVENT').slice(1)) {
-    const date = block.match(/DTSTART[^:\r\n]*:(\d{8})/)?.[1];
-    const name = block.match(/SUMMARY:(.+)/)?.[1]?.trim();
-    if (!date || !name) continue;
-    const iso = `${date.slice(0, 4)}-${date.slice(4, 6)}-${date.slice(6, 8)}`;
-    if (!years.includes(Number(date.slice(0, 4)))) continue;
-    out.push({ date: iso, localName: name, name });
-  }
-  return out;
-}
-
-async function gcalHolidays(iso2, years) {
-  for (const id of GCAL_IDS[iso2.toLowerCase()] ?? []) {
-    try {
-      const url = `https://calendar.google.com/calendar/ical/${encodeURIComponent(id)}%23holiday%40group.v.calendar.google.com/public/basic.ics`;
-      const res = await fetch(url);
-      if (!res.ok) continue;
-      const hits = parseIcs(await res.text(), years);
-      if (hits.length) return hits;
-    } catch { /* try the next id */ }
-  }
-  return [];
-}
-
-async function holidays(iso2) {
+// Python is on every GitHub runner and on the owner's machine; the package is
+// pinned in scripts/requirements-holidays.txt. A failure THROWS so main() keeps
+// the previous figures instead of writing an empty list over good ones.
+function holidays(iso2) {
   const y = new Date().getUTCFullYear();
-  const years = [y, y + 1];
-  const all = [];
-  for (const year of years) {
-    try {
-      const res = await fetch(`https://date.nager.at/api/v3/PublicHolidays/${year}/${iso2.toUpperCase()}`);
-      if (!res.ok) continue; // country not covered by Nager — the fallback handles it
-      const list = await res.json();
-      if (!Array.isArray(list)) continue;
-      for (const h of list) {
-        if (!h.date || !(h.global ?? true)) continue; // nationwide only
-        all.push({ date: h.date, localName: h.localName, name: h.name });
-      }
-    } catch { /* not covered, or a bad body — fall through */ }
-  }
-  if (!all.length) all.push(...(await gcalHolidays(iso2, years)));
-  // De-dupe (Nager sometimes repeats regional variants of the same day+name).
+  const py = process.platform === 'win32' ? 'python' : 'python3';
+  const out = execFileSync(py, [join(__dirname, 'lib', 'holidays-export.py'), iso2, String(y), String(y + 1)], {
+    encoding: 'utf8', env: { ...process.env, PYTHONIOENCODING: 'utf-8' },
+  });
+  const rows = JSON.parse(out);
+  if (!Array.isArray(rows)) throw new Error('holidays export did not return a list');
   const seen = new Set();
-  return all
+  return rows
+    .filter((h) => h.date && h.name)
     .filter((h) => { const k = h.date + h.name; if (seen.has(k)) return false; seen.add(k); return true; })
     .sort((a, b) => a.date.localeCompare(b.date));
 }
@@ -232,8 +190,11 @@ async function main() {
     } else {
       console.log(`  ·  ${c.name}: no post coordinates yet — climate skipped`);
     }
-    try { entry.holidays = await holidays(c.iso2); }
-    catch (e) { console.log(`  ⚠️  ${c.name} holidays: ${e.message}`); entry.holidays = []; }
+    try { entry.holidays = holidays(c.iso2); }
+    catch (e) {
+      console.log(`  ⚠️  ${c.name} holidays: ${String(e.message).split(String.fromCharCode(10))[0]} — keeping the previous list`);
+      entry.holidays = prev.countries?.[c.name]?.holidays ?? [];
+    }
     out.countries[c.name] = entry;
     console.log(`  ✅ ${c.name}: climate ${entry.climate ? '12mo' : '—'} · holidays ${entry.holidays?.length ?? 0}`);
   }

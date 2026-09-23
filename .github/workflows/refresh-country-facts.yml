@@ -1,7 +1,8 @@
 name: Refresh country facts (climate + holidays)
 
-# Monthly refresh of data/country-facts.json (NASA POWER climate + Nager.Date
-# public holidays). Commit → push → the daily builds render the fresh data on
+# Monthly refresh of data/country-facts.json (NASA POWER climate + public
+# holidays from the MIT-licensed `holidays` Python package — Nager.Date's terms
+# forbid commercial use without sponsorship, replaced 2026-09-24). Commit → push → the daily builds render the fresh data on
 # /essentials/<country> pages. Countries without post coordinates yet get
 # climate automatically once their venue posts exist.
 on:
@@ -24,6 +25,9 @@ jobs:
           cache: npm
 
       - run: npm ci
+
+      - name: Install the holidays package
+        run: python3 -m pip install --quiet -r scripts/requirements-holidays.txt
 
       - name: Fetch climate + holidays
         run: node scripts/refresh-country-facts.mjs
