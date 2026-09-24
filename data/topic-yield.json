@@ -34,7 +34,7 @@
    "hits": 73
   },
   "noodles": {
-   "attempts": 45,
+   "attempts": 46,
    "hits": 0
   },
   "old quarter": {
@@ -42,8 +42,8 @@
    "hits": 6
   },
   "local market": {
-   "attempts": 126,
-   "hits": 53
+   "attempts": 159,
+   "hits": 71
   },
   "bookshop": {
    "attempts": 23,
@@ -58,7 +58,7 @@
    "hits": 19
   },
   "breakfast": {
-   "attempts": 42,
+   "attempts": 43,
    "hits": 2
   },
   "trendy cafe": {
@@ -190,5 +190,5 @@
    "hits": 1
   }
  },
- "updated": "2026-09-23T12:51:55.670Z"
+ "updated": "2026-09-24T08:06:42.292Z"
 }

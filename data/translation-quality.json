@@ -29888,5 +29888,89 @@
   "registerBreak": false,
   "worst": "地址（M352+GG2，Phumi Pôpôk Vil）深处波哥国家公园内部",
   "at": "2026-09-23T12:54:27.510Z"
+ },
+ "es/agra-agra-bazaar": {
+  "hash": "54a483982c16",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Este apartado es el que permite ahorrar dinero. El comercio de",
+  "at": "2026-09-24T08:01:21.604Z"
+ },
+ "es/beijing-hongqiao-market": {
+  "hash": "3e0adab65e38",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Mostrar los caracteres 红桥市场 aclara el malentendido de inmediato.",
+  "at": "2026-09-24T08:01:23.784Z"
+ },
+ "es/cebu-carbon-market": {
+  "hash": "156bda3b9bc3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "cuando los pasillos se convierten en un lento avanzar a paso de tortuga",
+  "at": "2026-09-24T08:01:28.549Z"
+ },
+ "ja/agra-agra-bazaar": {
+  "hash": "805693f0213b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "ここは節約につながる重要な部分です。",
+  "at": "2026-09-24T08:01:33.074Z"
+ },
+ "ja/beijing-hongqiao-market": {
+  "hash": "891beae161d3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "**friendly(友好的)な態度を保つ**。大げさな演技よりも、笑顔とはっきりした金額の提示のほうが効果的です。",
+  "at": "2026-09-24T08:01:42.014Z"
+ },
+ "ja/cebu-carbon-market": {
+  "hash": "ba200f30b1e7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "「カーボン」という名前は、かつてここに保管されていたセブ鉄道用の石炭(carbon)に由来しています。",
+  "at": "2026-09-24T08:01:44.757Z"
+ },
+ "ko/agra-agra-bazaar": {
+  "hash": "03598c1f5b08",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "결정을 내리기 전에 여러 상품을 보여달라고 요청하는 것은 상인들에게 익숙한 일입니다.",
+  "at": "2026-09-24T08:01:52.245Z"
+ },
+ "ko/beijing-hongqiao-market": {
+  "hash": "adb86bf7fd21",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "위층 유리 진열장 뒤로 줄줄이 걸려 있는 진주 목걸이들을 보기 전까지, 다른 층은 사실상 몸풀기에 불과합니다.",
+  "at": "2026-09-24T08:02:03.028Z"
+ },
+ "ko/cebu-carbon-market": {
+  "hash": "44735e71d333",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "토요일이 오후 3시 30분에 문을 닫는 만큼, 오후의 혼잡은 대체로 일요일에 몰립니다.",
+  "at": "2026-09-24T08:02:05.124Z"
+ },
+ "zh/agra-agra-bazaar": {
+  "hash": "dd0f51a1ed52",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这就使得周五特别适合用来处理这类购物安排，而其他游客通常会在这天转去阿格拉堡或法塔赫布尔西克里",
+  "at": "2026-09-24T08:02:07.664Z"
+ },
+ "zh/beijing-hongqiao-market": {
+  "hash": "a0682a979f49",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "很多摊位如果你在同一次旅行中回到同一个柜台，是可以免费修理珍珠串的。",
+  "at": "2026-09-24T08:02:16.264Z"
+ },
+ "zh/cebu-carbon-market": {
+  "hash": "930f2cb57b8a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "自备一个可重复使用的环保袋，否则你最后会拎着一大把薄塑料袋离开。",
+  "at": "2026-09-24T08:02:24.994Z"
  }
 }

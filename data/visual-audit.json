@@ -321,6 +321,12 @@
   "reason": "release check: Sheikh Zayed Mosque, unrelated to a venue named Yana",
   "at": "2026-08-11T04:11:14.091Z"
  },
+ "agra-agra-bazaar\u0001https://upload.wikimedia.org/wikipedia/commons/d/d2/Busy_street_in_the_old_Bazaar%2C_Agra%2C_11-2009_-_panoramio.jpg": {
+  "slug": "agra-agra-bazaar",
+  "verdict": "MATCH",
+  "reason": "publish gate: Indian bazaar street scene, plausible representative view",
+  "at": "2026-09-24T07:43:19.126Z"
+ },
  "agra-agra-fort\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Agra_03-2016_10_Agra_Fort.jpg/1920px-Agra_03-2016_10_Agra_Fort.jpg": {
   "slug": "agra-agra-fort",
   "verdict": "MATCH",
@@ -2605,6 +2611,12 @@
   "reasonKo": "자금성의 상징적인 새벽 전경",
   "at": "2026-08-03T12:45:37.157Z"
  },
+ "beijing-hongqiao-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hongqiao_Market_%2820200803133253%29.jpg/3840px-Hongqiao_Market_%2820200803133253%29.jpg": {
+  "slug": "beijing-hongqiao-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Hongqiao Market building, representative street view",
+  "at": "2026-09-24T07:50:08.529Z"
+ },
  "beijing-jingshan-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Beijing_Jingshan_Park_Pavilion_%2810553761515%29.jpg/3840px-Beijing_Jingshan_Park_Pavilion_%2810553761515%29.jpg": {
   "slug": "beijing-jingshan-park",
   "verdict": "MATCH",
@@ -3698,6 +3710,12 @@
   "reason": "patrol re-check: Chinese temple exterior with roofs, lanterns, courtyard—matches Tin Hau Temple",
   "at": "2026-08-16T19:53:38.266Z"
  },
+ "cebu-carbon-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Carbon_Market_%28MC_Briones%2C_Cebu_City%3B_01-21-2023%29.jpg/1920px-Carbon_Market_%28MC_Briones%2C_Cebu_City%3B_01-21-2023%29.jpg": {
+  "slug": "cebu-carbon-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Street view of Carbon Market with sign visible",
+  "at": "2026-09-24T07:52:05.503Z"
+ },
  "cebu-casa-gorordo-museum\u0001https://upload.wikimedia.org/wikipedia/commons/3/3b/Casa_Gorordo.jpg": {
   "slug": "cebu-casa-gorordo-museum",
   "verdict": "MATCH",
@@ -4734,6 +4752,12 @@
   "reasonKo": "알카사르 궁전 안뜰과 특징적 구조",
   "at": "2026-08-15T13:11:08.969Z"
  },
+ "cordoba-mercado-victoria\u0001https://upload.wikimedia.org/wikipedia/commons/7/71/Mercado_Victoria_La_Gamba_de_ORO_Stand_de_pescado_y_marisco.jpg": {
+  "slug": "cordoba-mercado-victoria",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior shot of restaurant counter with signage, representative view",
+  "at": "2026-09-24T07:53:10.376Z"
+ },
  "cordoba-templo-romano\u0001https://upload.wikimedia.org/wikipedia/commons/5/52/C%C3%B3rdoba_-_Templo_romano_K01.jpg": {
   "slug": "cordoba-templo-romano",
   "verdict": "MATCH",
@@ -4765,6 +4789,12 @@
   "reason": "Coron lagoon with boats, limestone cliffs",
   "reasonKo": "코론 석회암 절벽과 보트",
   "at": "2026-08-12T14:02:57.200Z"
+ },
+ "da-lat-da-lat-market\u0001https://upload.wikimedia.org/wikipedia/commons/9/90/Dalat_market%2C_Vietnam.jpg": {
+  "slug": "da-lat-da-lat-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Da Lat Market building, plaza and crowd at night",
+  "at": "2026-09-24T07:39:50.735Z"
  },
  "da-nang-airtime-asia-2026\u0001https://upload.wikimedia.org/wikipedia/commons/1/1a/Airtime-26.06.2013.png": {
   "slug": "da-nang-airtime-asia-2026",
@@ -5668,6 +5698,12 @@
   "reasonKo": "강릉의 현대식 아치교 구조",
   "at": "2026-08-10T14:01:49.312Z"
  },
+ "gangneung-gangneung-jungang-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Gangneung_Jungang_Market_01.jpg/1920px-Gangneung_Jungang_Market_01.jpg": {
+  "slug": "gangneung-gangneung-jungang-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Market entrance with signage, representative exterior view",
+  "at": "2026-09-24T07:45:35.148Z"
+ },
  "gangneung-gyeongpo-beach\u0001https://fastly.4sqi.net/img/general/original/6248688_fdLF7_zMEZiKg2o2MADQwhgv8ofuT3WW9syBJIosKoI.jpg": {
   "slug": "gangneung-gyeongpo-beach",
   "verdict": "MATCH",
@@ -6349,6 +6385,12 @@
   "verdict": "MATCH",
   "reason": "Traditional Korean architecture, Gyeongju historic village s",
   "at": "2026-07-25T02:43:27.450Z"
+ },
+ "ha-giang-ha-giang-market\u0001https://upload.wikimedia.org/wikipedia/commons/0/0e/Rural_market_sellers_in_Ha_Giang_province_in_2014.jpg": {
+  "slug": "ha-giang-ha-giang-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Outdoor market stall with vegetables, plausible Ha Giang scene",
+  "at": "2026-09-24T07:38:10.384Z"
  },
  "ha-long-bay-ha-long-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Local_merchants_in_Ha_Long_Bay.jpg/3840px-Local_merchants_in_Ha_Long_Bay.jpg": {
   "slug": "ha-long-bay-ha-long-market",
@@ -7463,6 +7505,12 @@
   "reason": "Generic ice cream dessert, no venue-specific context",
   "at": "2026-07-25T02:44:19.538Z"
  },
+ "hyderabad-charminar-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Charminar_Market_Hyderabad.jpg/3840px-Charminar_Market_Hyderabad.jpg": {
+  "slug": "hyderabad-charminar-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Charminar gate with market crowd, representative hero",
+  "at": "2026-09-24T07:39:17.466Z"
+ },
  "hyderabad-chowmahalla-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Chowmahalla_Palace_01.jpg/1920px-Chowmahalla_Palace_01.jpg": {
   "slug": "hyderabad-chowmahalla-palace",
   "verdict": "MATCH",
@@ -7512,6 +7560,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Historic Dalt Vila church/fortress architecture, representative view",
   "at": "2026-09-05T10:41:18.690Z"
+ },
+ "ibiza-las-dalias-de-ibiza\u0001https://upload.wikimedia.org/wikipedia/commons/a/a8/Mercadillo_Las_Dalias_en_Ibiza.jpg": {
+  "slug": "ibiza-las-dalias-de-ibiza",
+  "verdict": "MATCH",
+  "reason": "publish gate: Outdoor market stalls with goods, matches hippy market venue",
+  "at": "2026-09-24T07:46:54.788Z"
  },
  "ibiza-streetxo-ibiza\u0001https://fastly.4sqi.net/img/general/original/4298819_RKVQfOpJyLQKxJbylLyBbqfawl33cMxs4hQjsj7gm4o.jpg": {
   "slug": "ibiza-streetxo-ibiza",
@@ -8142,6 +8196,12 @@
   "reasonKo": "물에 비친 상징적 궁전, 자이푸르",
   "at": "2026-08-03T12:49:28.721Z"
  },
+ "jaipur-market-jaipur\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Jaipur_Market.jpg/3840px-Jaipur_Market.jpg": {
+  "slug": "jaipur-market-jaipur",
+  "verdict": "MATCH",
+  "reason": "publish gate: Vibrant vegetable market scene, representative of Jaipur street market",
+  "at": "2026-09-24T07:48:21.350Z"
+ },
  "jaipur-sheesh-mahal-amber-fort\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/PXL_20260305_040302328.MP_Sheesh_Mahal%2C_Amber_Fort_JAIGARH_FORT%2C_Devisinghpura%2C_Amer%2C_Jaipur%2C_Rajasthan_302028_06.jpg/3840px-PXL_20260305_040302328.MP_Sheesh_Mahal%2C_Amber_Fort_JAIGARH_FORT%2C_Devisinghpura%2C_Amer%2C_Jaipur%2C_Rajasthan_302028_06.jpg": {
   "slug": "jaipur-sheesh-mahal-amber-fort",
   "verdict": "MATCH",
@@ -8424,6 +8484,12 @@
   "reason": "patrol reject: Different performer, not Lee Hi, generic concert photo",
   "at": "2026-09-08T22:07:55.325Z"
  },
+ "jakarta-mayestik-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pintu_Barat_Pasar_Mayestik.JPG/1920px-Pintu_Barat_Pasar_Mayestik.JPG": {
+  "slug": "jakarta-mayestik-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of Pasar Jaya Mayestik market building",
+  "at": "2026-09-24T07:37:08.236Z"
+ },
  "jakarta-metropolitan-fine-dining\u0001https://fastly.4sqi.net/img/general/original/2261841_qEenmg_BfH42L6g5j9nL4QYh7aEHm336oWS_Czq51Pg.jpg": {
   "slug": "jakarta-metropolitan-fine-dining",
   "verdict": "MISMATCH",
@@ -8563,6 +8629,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: audit: Street scene, not restaurant interior or food",
   "at": "2026-09-19T21:39:15.947Z"
+ },
+ "jeju-dongmun-traditional-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Jeju_Dongmun_Traditional_Market_08.jpg/1920px-Jeju_Dongmun_Traditional_Market_08.jpg": {
+  "slug": "jeju-dongmun-traditional-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior market corridor with stalls, signage, shoppers",
+  "at": "2026-09-24T07:41:17.508Z"
  },
  "jeju-hallim-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hallim_Park_41.jpg/1920px-Hallim_Park_41.jpg": {
   "slug": "jeju-hallim-park",
@@ -10423,6 +10495,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Green mountain landscape matches Lantau South Country Park scenery",
   "at": "2026-08-31T15:14:38.700Z"
+ },
+ "lantau-island-ngong-ping-village\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ngong_Ping_360_Cable_Car_and_HKG_2021-09.jpg/1920px-Ngong_Ping_360_Cable_Car_and_HKG_2021-09.jpg": {
+  "slug": "lantau-island-ngong-ping-village",
+  "verdict": "MATCH",
+  "reason": "publish gate: Ngong Ping cable car with Lantau/HK airport view",
+  "at": "2026-09-24T07:40:40.024Z"
  },
  "lantau-island-po-lin-monastery-restaurant\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/HK_%E9%A6%99%E6%B8%AF_%E9%9B%A2%E5%B3%B6_Islands_District_%E5%A4%A7%E5%B6%BC%E5%B1%B1_Lantau_Island_%E6%98%82%E5%9D%AA_Ngong_Ping_%E5%A4%A7%E8%8C%85%E8%93%AC_Tai_Mao_Pun_%E5%AF%B6%E8%93%AE%E7%A6%AA%E5%AF%BA_Po_Lin_Monastery_%E9%BD%8B%E5%A0%82_Vegetarian_Restaurant_April_2023_Px3_10.jpg/3840px-thumbnail.jpg": {
   "slug": "lantau-island-po-lin-monastery-restaurant",
@@ -14549,6 +14627,12 @@
   "reason": "publish gate: Iconic exterior view of Philadelphia Museum of Art building",
   "at": "2026-09-10T07:45:27.142Z"
  },
+ "philadelphia-reading-terminal-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Reading_Terminal_Market_%2853587020195%29.jpg/1920px-Reading_Terminal_Market_%2853587020195%29.jpg": {
+  "slug": "philadelphia-reading-terminal-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of Reading Terminal Market with signage",
+  "at": "2026-09-24T08:05:48.319Z"
+ },
  "phnom-penh-above-eleven\u0001https://upload.wikimedia.org/wikipedia/commons/f/f0/Eleven_Canadian_waterfalls-_Town_above_a_waterfall_ROM2006_7834_1.jpg": {
   "slug": "phnom-penh-above-eleven",
   "verdict": "MISMATCH",
@@ -15055,6 +15139,12 @@
   "reason": "publish gate: Japanese garden scene with bridge, pond, trees",
   "at": "2026-08-24T08:16:55.490Z"
  },
+ "portland-portland-saturday-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/PortlandSaturdayMarket10.jpg/1920px-PortlandSaturdayMarket10.jpg": {
+  "slug": "portland-portland-saturday-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows market tent with sign and crowd, representative view",
+  "at": "2026-09-24T08:06:42.264Z"
+ },
  "portland-the-grotto\u0001https://upload.wikimedia.org/wikipedia/commons/9/97/Saint_Peregrine_Tile_Mosaic_at_the_Grotto_in_Portland_Oregon.jpg": {
   "slug": "portland-the-grotto",
   "verdict": "MATCH",
@@ -15470,6 +15560,12 @@
   "verdict": "MATCH",
   "reason": "patrol re-check: Shows pier with boats, plausible representative view of Sai Kung",
   "at": "2026-08-12T20:59:02.455Z"
+ },
+ "sai-kung-sai-kung-seafood-street\u0001https://upload.wikimedia.org/wikipedia/commons/1/1b/%E8%A5%BF%E8%B4%A1%E6%B5%B7%E9%B2%9C%E8%A1%97%E5%A4%9C%E6%99%AF_Sai_Kung_Seafood_Street%28night%29_-_panoramio.jpg": {
+  "slug": "sai-kung-sai-kung-seafood-street",
+  "verdict": "MATCH",
+  "reason": "publish gate: Sai Kung waterfront with restaurants matches seafood street area",
+  "at": "2026-09-24T07:42:15.846Z"
  },
  "sai-kung-sai-kung-town\u0001https://upload.wikimedia.org/wikipedia/commons/f/f2/Sai_Kung_Town_Aerial_View_201706.jpg": {
   "slug": "sai-kung-sai-kung-town",
@@ -16779,6 +16875,12 @@
   "reason": "La Giralda tower and cathedral architecture clearly visible.",
   "reasonKo": "라 히랄다 탑과 대성당 건축물이 명확함.",
   "at": "2026-08-03T14:37:59.016Z"
+ },
+ "seville-mercado-de-la-encarnacion\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Mercado_de_la_Encarnaci%C3%B3n_02.jpg/3840px-Mercado_de_la_Encarnaci%C3%B3n_02.jpg": {
+  "slug": "seville-mercado-de-la-encarnacion",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior market stall view, plausible for Mercado de la Encarnación",
+  "at": "2026-09-24T07:51:13.192Z"
  },
  "seville-palacio-de-las-duenas\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Entrada_al_Palacio_de_las_Due%C3%B1as%2C_Sevilla.jpg/1920px-Entrada_al_Palacio_de_las_Due%C3%B1as%2C_Sevilla.jpg": {
   "slug": "seville-palacio-de-las-duenas",
@@ -18302,6 +18404,12 @@
   "reason": "Classic Chinese temple architecture, red walls, ornate roof",
   "reasonKo": "중국식 사원 건축, 빨간 벽, 장식적 지붕",
   "at": "2026-08-19T13:29:59.222Z"
+ },
+ "tainan-yongle-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Yongle_Market_Tainan-20250405.jpg/3840px-Yongle_Market_Tainan-20250405.jpg": {
+  "slug": "tainan-yongle-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows YongLe Market building exterior with signage, representative street view",
+  "at": "2026-09-24T07:44:31.248Z"
  },
  "tainan-yu-dao\u0001https://fastly.4sqi.net/img/general/original/12977487_6I_2hSzL_dgHoEvpH-WFEYDDC8s1eq730U4TwS_n2Yo.jpg": {
   "slug": "tainan-yu-dao",

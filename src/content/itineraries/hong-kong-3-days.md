@@ -6,7 +6,7 @@ title: 'Hong Kong in 3 Days: Harbour, Lantau''s Big Buddha, and Sai Kung'
 description: A 3-day Hong Kong itinerary tracing the Tsim Sha Tsui waterfront and Victoria Harbour, a day trip to Lantau Island's Tian Tan Buddha and Po Lin Monastery, and a slower finish among Sai Kung's piers and hills.
 quickAnswer: This 3-day Hong Kong itinerary moves from the Kowloon and Admiralty waterfront on day one, out to Lantau Island's Big Buddha and monastery grounds on day two with a stop in Tai Kok Tsui, and finishes among Sai Kung's pier, hills, and seafood-town promenade in the New Territories on day three.
 pubDate: '2026-08-20T08:29:45.949Z'
-stopsHash: cddbd2198b098f3dfa4756e7f2853179344444d8
+stopsHash: 5c299183909d25d8d2ef46dec3bea35ff4aefd29
 packedAvailable: true
 faq:
   - q: How much walking does this itinerary involve?
@@ -77,7 +77,7 @@ itinerary:
         why: A small neighbourhood park in Tai Kok Tsui, good for a short breather to close out a long day on Lantau.
         dwellMin: 30
         walkToNext: null
-    rainSwapSlug: central-cupping-room-central
+    rainSwapSlug: sheung-wan-liang-yi-museum
   - label: Sai Kung's waterfront and hills
     intro: Day three centres on Sai Kung, starting at the public pier before heading out to the wilder ground of Sai Kung East Country Park in the New Territories. It closes back in Sai Kung Town, where the fishing-village waterfront comes alive in the evening.
     stops:
@@ -86,7 +86,15 @@ itinerary:
         why: The waterfront hub of Sai Kung town, where sampan and speedboat operators gather and tanks of live seafood line the promenade, makes an easy starting point for the day.
         dwellMin: 30
         walkToNext:
-          km: 9.9
+          km: 0.5
+          minutes: null
+          transit: true
+      - slug: sai-kung-sai-kung-seafood-street
+        slot: afternoon
+        why: A hidden-gem rated 4 by visitors, included as a stop on this route.
+        dwellMin: 90
+        walkToNext:
+          km: 10.4
           minutes: null
           transit: true
       - slug: sai-kung-sai-kung-east-country-park
@@ -105,6 +113,6 @@ itinerary:
     rainSwapSlug: lantau-island-sheung-yiu-folk-museum
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-09T07:58:58.219Z'
+updatedDate: '2026-09-24T08:03:23.436Z'
 ---
 

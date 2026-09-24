@@ -8735,5 +8735,108 @@
       "getting": "나망간 공항(NMA)은 타슈켄트를 비롯해 몇몇 인근 지역 도시 및 러시아 도시들과 연결되어 있지만, 육로로 이동하는 여행자들은 대개 타슈켄트에서 나망간역까지 운행하는 직행 열차(약 5시간 소요)를 이용하거나 캄치크 고개를 넘는 합승 택시를 타는 편을 선호한다.",
       "days": "대부분의 여행자들은 바자르와 옛 마드라사들, 그리고 보부르 공원을 둘러보기에 충분한 1~2일 정도를 머문 뒤 페르가나 계곡의 다른 지역으로 이동한다."
     }
+  },
+  "Goyang-si": {
+    "en": {
+      "blurb": "Goyang-si sits just northwest of Seoul in Gyeonggi Province, a planned satellite city built around the vast Ilsan Lake Park and the sprawling KINTEX exhibition halls that anchor its Special Tourist Zone. It blends convention-centre modernity with green spaces and riverside walking paths, making it as much a weekend escape for locals as a MICE and concert destination for visitors.",
+      "getting": "Goyang-si has no airport of its own, so travellers typically fly into Incheon (ICN) or Gimpo (GMP) and continue by rail: Subway Line 3 runs directly through the city from Daehwa to Jichuk, and connections from Gimpo Airport or via the AREX line to Digital Media City feed into this line. From central Seoul, buses and taxis also reach Goyang in well under an hour depending on traffic.",
+      "days": "A single day covers Ilsan Lake Park and KINTEX comfortably, while ~2 days allows time to add the Special Tourist Zone's malls, cafes, and any scheduled exhibitions or concerts at Goyang Stadium."
+    },
+    "ko": {
+      "blurb": "고양시는 경기도, 서울 바로 북서쪽에 위치한 계획도시로, 드넓은 일산호수공원과 특별관광지구의 중심을 이루는 대형 전시장 킨텍스(KINTEX)를 중심으로 조성되었습니다. 컨벤션 센터의 현대적인 분위기와 녹지, 강변 산책로가 어우러져 있어, 지역 주민들에게는 주말 나들이 명소이자 방문객들에게는 마이스(MICE)와 콘서트를 즐길 수 있는 목적지로 자리매김하고 있습니다.",
+      "getting": "고양시에는 자체 공항이 없기 때문에 여행자들은 보통 인천(ICN)이나 김포(GMP) 공항으로 입국한 뒤 철도를 이용해 이동합니다. 지하철 3호선이 대화역에서 지축역까지 도시를 관통하며, 김포공항이나 공항철도(AREX)를 통해 디지털미디어시티역에서 환승하면 이 노선으로 이어집니다. 서울 도심에서는 버스나 택시로도 교통 상황에 따라 한 시간 이내에 고양시에 도착할 수 있습니다.",
+      "days": "하루 일정으로도 일산호수공원과 킨텍스를 여유롭게 둘러볼 수 있으며, 약 2일 정도 머무르면 특별관광지구 내 쇼핑몰과 카페, 그리고 고양종합운동장에서 열리는 전시회나 콘서트 일정까지 함께 즐길 시간이 생깁니다."
+    },
+    "ja": {
+      "blurb": "高陽市(ゴヤンシ)はソウルのすぐ北西、京畑道に位置する計画都市で、広大な一山湖公園(イルサン湖公園)と、特別観光地区の中核をなす大規模な展示施設KINTEXを中心に開発されました。コンベンションセンターならではの近代的な雰囲気と、緑豊かな公園、川沿いの散策路が融合しており、地元住民にとっては週末の憩いの場であると同時に、訪れる人々にとってはMICEやコンサートの目的地としても人気を集めています。",
+      "getting": "高陽市自体には空港がないため、旅行者は通常仁川国際空港(ICN)または金浦国際空港(GMP)を利用し、そこから鉄道で移動します。地下鉄3号線は大化(デファ)駅から紙杻(ジチュク)駅まで市内を直通しており、金浦空港からの接続やAREX線でデジタルメディアシティ駅まで行き、そこから3号線に乗り換えることもできます。ソウル都心からはバスやタクシーでも、交通状況によっては1時間かからずに高陽市に到着できます。",
+      "days": "1日あれば一山湖公園とKINTEXを十分に楽しめますが、2日ほどあれば特別観光地区内のショッピングモールやカフェ巡り、さらに高陽スタジアムで開催される展示会やコンサートのスケジュールに合わせて訪れる時間的余裕も生まれます。"
+    },
+    "es": {
+      "blurb": "Goyang-si se ubica justo al noroeste de Seúl, en la provincia de Gyeonggi. Se trata de una ciudad satélite planificada que se despliega alrededor del extenso Parque del Lago Ilsan y de los enormes pabellones feriales de KINTEX, epicentro de su Zona Turística Especial. Aquí conviven la modernidad de los centros de convenciones con amplias zonas verdes y senderos junto al río, lo que convierte a Goyang tanto en un refugio de fin de semana para los locales como en un destino MICE y de conciertos para los visitantes.",
+      "getting": "Goyang-si no cuenta con aeropuerto propio, por lo que los viajeros suelen llegar a Incheon (ICN) o Gimpo (GMP) y continuar en tren: la Línea 3 del metro atraviesa la ciudad de punta a punta, desde Daehwa hasta Jichuk, y se conecta tanto con el Aeropuerto de Gimpo como, a través de la línea AREX hasta Digital Media City, con el resto de la red. Desde el centro de Seúl, también se puede llegar a Goyang en autobús o taxi en bastante menos de una hora, según el tráfico.",
+      "days": "Con un solo día alcanza para recorrer con calma el Parque del Lago Ilsan y KINTEX, mientras que con unos 2 días se puede sumar una visita a los centros comerciales y cafés de la Zona Turística Especial, además de aprovechar alguna exposición o concierto programado en el Estadio de Goyang."
+    },
+    "zh": {
+      "blurb": "高阳市位于首尔西北方、京畿道境内,是一座依托广阔的一山湖公园和规模宏大的KINTEX展览中心而建的规划新城,这一区域也是当地的特别旅游区。这里将会展中心的现代气息与绿意盎然的空间、沿江步道完美融合,既是本地人周末休闲的好去处,也是游客参加MICE会展和演唱会的热门目的地。",
+      "getting": "高阳市本身没有机场,游客通常经仁川机场(ICN)或金浦机场(GMP)入境,再转乘铁路前往:地铁3号线贯穿全市,从大化站一直延伸到紫竹站,无论是从金浦机场出发,还是经AREX机场铁路线到数码媒体城转乘,都可以顺利接驳这条线路。从首尔市中心出发,乘坐公交车或出租车前往高阳,视路况而定,通常不到一小时即可抵达。",
+      "days": "一天时间足以轻松游览一山湖公园和KINTEX;若安排约2天行程,则可以从容逛遍特别旅游区内的购物中心、咖啡馆,还能赶上在高阳体育场举行的各类展览或演唱会。"
+    }
+  },
+  "Da Lat": {
+    "en": {
+      "blurb": "Perched at over 1,500 metres in Vietnam's Central Highlands, Da Lat is a former French hill station known for its cool climate, pine forests and flower farms, a striking contrast to the tropical lowlands most visitors leave behind. Colonial-era villas, a scenic crater lake and a famous vintage railway give the city an atmosphere unlike anywhere else in the country.",
+      "getting": "Most travellers fly into Lien Khuong Airport (DLI), which sits <cite index=\"1-2\">about 30 kilometres south of Dalat City</cite>, then continue to the centre by shuttle bus, taxi or hotel transfer, a trip of roughly <cite index=\"8-9\">40 to 50 minutes depending on the route and vehicle</cite>. There is no regular passenger rail into Da Lat itself: the surviving <cite index=\"10-3\">7 km (4.3 mi) section of track leading to the nearby village of Trai Mat</cite> is a heritage tourist ride only, so overland arrivals typically come by long-distance bus from Ho Chi Minh City or other regional hubs.",
+      "days": "Plan on ~2 to 4 days, enough to cover the lake, market and old railway station in the city itself plus a half-day trip into the surrounding pine hills and flower farms."
+    },
+    "ko": {
+      "blurb": "베트남 중부 고원 지대, 해발 1,500미터가 넘는 곳에 자리한 달랏은 프랑스 식민지 시절의 고원 휴양지로, 서늘한 기후와 소나무 숲, 그리고 꽃 농장으로 유명합니다. 대부분의 여행객이 떠나온 열대 저지대와는 사뭇 다른 풍경이 인상적이죠. 식민지 시대의 빌라들, 경치 좋은 분화구 호수, 그리고 유명한 빈티지 열차까지, 달랏은 베트남 어디에서도 느낄 수 없는 독특한 분위기를 자아냅니다.",
+      "getting": "대부분의 여행객은 달랏 시내에서 남쪽으로 약 30km 떨어진 리엔쿠옹 공항(DLI)을 이용합니다. 공항에서 시내까지는 셔틀버스, 택시, 호텔 픽업 서비스 등을 이용해 이동할 수 있으며, 경로와 차량에 따라 약 40~50분 정도 소요됩니다. 달랏 시내로 바로 연결되는 정기 여객 열차는 없습니다. 인근 마을인 짜이맛(Trai Mat)까지 이어지는 7km(4.3마일) 구간의 옛 철로가 남아 있긴 하지만, 이는 관광용 헤리티지 열차로만 운행됩니다. 따라서 육로로 이동할 경우 호치민시나 다른 주요 지역 도시에서 출발하는 장거리 버스를 이용하는 것이 일반적입니다.",
+      "days": "2박 3일에서 4일 정도가 적당합니다. 시내에 있는 호수와 시장, 그리고 옛 기차역을 둘러보기에 충분한 시간이며, 여기에 반나절 정도를 할애해 주변의 소나무 언덕과 꽃 농장까지 다녀올 수 있습니다."
+    },
+    "ja": {
+      "blurb": "ベトナム中部高原、標高1,500メートルを超える場所に位置するダラットは、かつてフランス統治時代の避暑地として栄えた街です。涼しい気候、松林、そして花畑で知られ、多くの旅行者が後にする熱帯の低地とは対照的な風景が広がります。植民地時代の面影を残すヴィラ、風光明媚な火口湖、そして有名なレトロな鉄道が、この街ならではの独特な雰囲気を醸し出しています。",
+      "getting": "多くの旅行者はリエンクオン空港(DLI)を利用します。ダラット市街から南へ約30キロメートルの場所にあり、そこからシャトルバス、タクシー、またはホテルの送迎サービスで市内へ向かいます。所要時間はルートや車両によって異なりますが、おおよそ40分から50分ほどです。ダラット市内へ直接乗り入れる定期旅客鉄道はありません。近郊の村チャイマットまで続く7km(4.3マイル)の線路区間が現存していますが、これは観光用のレトロ列車が走るのみとなっています。そのため、陸路で訪れる場合はホーチミン市など周辺の主要都市からの長距離バスを利用するのが一般的です。",
+      "days": "滞在日数の目安は2~4日ほど。市内にある湖やマーケット、旧鉄道駅を巡るだけでなく、郊外に広がる松林や花畑への半日ツアーに出かける時間も十分に取れます。"
+    },
+    "es": {
+      "blurb": "Situada a más de 1.500 metros de altitud en las Tierras Altas Centrales de Vietnam, Da Lat es una antigua estación de montaña de la época francesa, conocida por su clima fresco, sus bosques de pinos y sus cultivos de flores, un contraste llamativo con las tierras bajas tropicales que la mayoría de los visitantes dejan atrás. Sus villas de estilo colonial, un pintoresco lago de origen volcánico y un célebre tren de época le dan a la ciudad un ambiente que no se encuentra en ningún otro lugar del país.",
+      "getting": "La mayoría de los viajeros llega en avión al aeropuerto de Lien Khuong (DLI), situado a unos 30 kilómetros al sur de la ciudad de Dalat, desde donde se continúa hacia el centro en autobús lanzadera, taxi o traslado privado del hotel, un trayecto de entre 40 y 50 minutos según la ruta y el vehículo. No existe un servicio regular de tren hasta la propia Da Lat: el tramo de vía que aún se conserva, de 7 km (4,3 mi), que lleva hasta la cercana localidad de Trai Mat, es solo un recorrido turístico de carácter histórico, por lo que quienes llegan por tierra suelen hacerlo en autobuses de larga distancia desde Ho Chi Minh u otros importantes centros regionales.",
+      "days": "Conviene planear entre 2 y 4 días, tiempo suficiente para recorrer el lago, el mercado y la antigua estación de tren en la propia ciudad, además de una excursión de medio día por las colinas de pinos y los cultivos de flores de los alrededores."
+    },
+    "zh": {
+      "blurb": "大叻坐落于越南中央高原,海拔超过1500米,曾是法国人建立的避暑山城,以凉爽的气候、松林和花田闻名,与大多数游客离开的热带低地形成鲜明对比。殖民时期的别墅、风景如画的火山口湖以及著名的复古小火车,共同赋予这座城市在越南独一无二的气质。",
+      "getting": "大多数游客会飞抵连汛机场(DLI),该机场位于大叻市以南约30公里处,之后可乘坐机场巴士、出租车或酒店接送车前往市区,车程约40到50分钟,具体视路线和车辆而定。目前并没有开往大叻市区的常规客运铁路:现存的那段通往附近赖麦村(Trai Mat)、长约7公里(4.3英里)的铁轨,仅作为怀旧观光小火车使用,因此陆路抵达大叻通常需要乘坐从胡志明市或其他区域枢纽出发的长途巴士。",
+      "days": "建议安排2到4天左右的行程,足以游览市区内的湖泊、市场和老火车站,再加上半天时间前往周边的松林山丘和花卉农场。"
+    }
+  },
+  "Ha Giang": {
+    "en": {
+      "blurb": "Ha Giang is Vietnam's northernmost province, a jagged world of limestone karst peaks, terraced valleys and hairpin passes hard against the Chinese border. It is best known as the starting point for the Ha Giang Loop, a multi-day motorbike route through the Dong Van Karst Plateau that has become one of the country's signature adventures.",
+      "getting": "Ha Giang has no airport or rail line of its own; travellers fly into Hanoi's Noi Bai International Airport (HAN) and continue overland. From there it is a ~5 to 7 hour journey by sleeper bus, limousine bus or private car to Ha Giang city, with no direct flights or trains covering the route.",
+      "days": "Most travellers spend ~3 to 4 days completing the Ha Giang Loop itself, plus time on either end for the overland transfer to and from Hanoi."
+    },
+    "ko": {
+      "blurb": "하 지앙(Ha Giang)은 베트남 최북단에 위치한 성으로, 험준한 석회암 카르스트 봉우리와 계단식 논이 펼쳐진 계곡, 그리고 중국 국경과 맞닿은 아찔한 헤어핀 고갯길이 이어지는 지역입니다. 이곳은 동반 카르스트 고원(Dong Van Karst Plateau)을 가로지르는 며칠간의 오토바이 여행, 즉 '하 지앙 루프(Ha Giang Loop)'의 출발점으로 가장 잘 알려져 있으며, 이 루프는 베트남을 대표하는 모험 여행 코스 중 하나로 자리 잡았습니다.",
+      "getting": "하 지앙에는 자체 공항이나 철도가 없어, 여행자들은 하노이의 노이바이 국제공항(HAN)을 통해 입국한 뒤 육로로 이동해야 합니다. 그곳에서 슬리핑 버스, 리무진 버스 또는 개인 차량을 이용해 하 지앙 시내까지 약 5~7시간이 걸리며, 이 구간을 운행하는 직항 항공편이나 기차는 없습니다.",
+      "days": "대부분의 여행자는 하 지앙 루프 자체를 완주하는 데 약 3~4일을 보내며, 여기에 하노이를 오가는 육로 이동 시간이 추가로 필요합니다."
+    },
+    "ja": {
+      "blurb": "ハギャンはベトナム最北端に位置する省で、石灰岩のカルスト山塊、棚田が広がる谷間、そしてつづら折りの峠道が中国との国境沿いに連なる、荒々しくも美しい土地です。何といっても有名なのが、ドンヴァン・カルスト高原を数日かけてバイクで巡る「ハギャン・ループ」の起点であること。今やベトナムを代表する冒険ルートのひとつとなっています。",
+      "getting": "ハギャンには空港も鉄道もないため、まずはハノイのノイバイ国際空港(HAN)まで飛行機で向かい、そこから陸路で移動することになります。ハギャン市内までは寝台バス、リムジンバス、または車で約5〜7時間。この区間を結ぶ直行便や鉄道はありません。",
+      "days": "ハギャン・ループ自体の走破には、多くの旅行者が3〜4日ほどをかけています。それに加えて、ハノイとの往復にかかる陸路移動の時間も見込んでおく必要があります。"
+    },
+    "es": {
+      "blurb": "Ha Giang es la provincia más septentrional de Vietnam, un mundo escarpado de picos calizos kársticos, valles en terrazas y curvas de horquilla que se aprietan contra la frontera con China. Es conocida sobre todo por ser el punto de partida del Ha Giang Loop, una ruta en motocicleta de varios días a través de la Meseta Kárstica de Dong Van que se ha convertido en una de las aventuras más emblemáticas del país.",
+      "getting": "Ha Giang no cuenta con aeropuerto ni línea ferroviaria propia; los viajeros llegan al Aeropuerto Internacional de Noi Bai (HAN), en Hanói, y continúan por tierra. Desde allí, el trayecto hasta la ciudad de Ha Giang dura entre 5 y 7 horas en autobús cama, autobús tipo limousine o coche privado, ya que no existen vuelos ni trenes directos que cubran esta ruta.",
+      "days": "La mayoría de los viajeros dedica entre 3 y 4 días a completar el Ha Giang Loop propiamente dicho, además del tiempo necesario en ambos extremos para el traslado por tierra hacia y desde Hanói."
+    },
+    "zh": {
+      "blurb": "河江省是越南最北端的省份,与中国接壤,境内石灰岩喀斯特山峰嶙峋耸立,梯田层叠分布,盘山公路蜿蜒曲折。这里最为人称道的是作为\"河江环线\"的起点——一条穿越同文喀斯特高原的多日摩托车路线,如今已成为越南最具代表性的探险体验之一。",
+      "getting": "河江本身没有机场,也不通火车。游客通常先飞抵河内内排国际机场(HAN),再转陆路前往河江。从河内出发,乘卧铺大巴、豪华巴士或包车前往河江市约需5至7小时车程,目前尚无直达航班或火车可以直接抵达。",
+      "days": "大多数游客会用约3至4天时间完成河江环线本身的骑行,此外还需额外预留河内往返的陆路交通时间。"
+    }
+  },
+  "Nagasaki": {
+    "en": {
+      "blurb": "Nagasaki spent centuries as Japan's only window to the outside world, and that layered history of Dutch traders, Chinese merchants and Portuguese missionaries still shapes its hillside streets, temples and harbour views. It is also, inescapably, one of the two cities destroyed by an atomic bomb, and its Peace Park and museum sit alongside that older, more cosmopolitan story.",
+      "getting": "Most visitors fly into Nagasaki Airport (NGS), on reclaimed land in Ōmura Bay, then take a limousine bus into the city centre. By rail, Nagasaki Station is reached via the Nishikyushu Shinkansen \"Kamome\" from Takeo-Onsen, with a cross-platform transfer there from the \"Relay Kamome\" limited express coming from Hakata (Fukuoka), a journey of roughly ~2 hours in total.",
+      "days": "Plan on ~2 to 3 days, enough to cover the Peace Park and atomic bomb museum, the old foreign quarter around Glover Garden and Dejima, and a slower evening in the hillside streets above the harbour."
+    },
+    "ja": {
+      "blurb": "長崎は何世紀にもわたり、日本が外の世界に開いた唯一の窓口としての役割を担ってきました。オランダ商人、中国商人、ポルトガル人宣教師たちが織りなしてきた重層的な歴史は、今も坂の多い街並みや寺院、港の景色にその面影を残しています。一方で長崎は、原子爆弾によって壊滅した二つの都市のひとつでもあり、平和公園や原爆資料館は、こうした異国情緒あふれる古い歴史とともに、この街の姿を形づくっています。",
+      "getting": "多くの旅行者は、大村湾の埋立地にある長崎空港(NGS)に飛行機で到着し、そこからリムジンバスで市街地へ向かいます。鉄道の場合、長崎駅へは西九州新幹線「かもめ」でアクセスでき、博多(福岡)方面から来る特急「リレーかもめ」から武雄温泉駅で同一ホーム乗り換えとなります。所要時間は全体でおよそ2時間ほどです。",
+      "days": "目安として2〜3日ほど見ておくとよいでしょう。平和公園と原爆資料館の見学、グラバー園や出島周辺のかつての外国人居留地の散策、そして港を見下ろす坂道の街並みでゆったりと過ごす夜、これらをひと通り楽しむのにちょうどよい日数です。"
+    },
+    "es": {
+      "blurb": "Durante siglos, Nagasaki fue la única ventana de Japón al mundo exterior, y esa historia estratificada de comerciantes holandeses, mercaderes chinos y misioneros portugueses sigue marcando sus calles en cuesta, sus templos y sus vistas al puerto. También es, ineludiblemente, una de las dos ciudades destruidas por una bomba atómica, y su Parque de la Paz y su museo conviven con esa historia más antigua y cosmopolita.",
+      "getting": "La mayoría de los visitantes llega en avión al aeropuerto de Nagasaki (NGS), construido sobre terreno ganado al mar en la bahía de Ōmura, y desde allí toma un autobús limusina hasta el centro de la ciudad. En tren, se llega a la estación de Nagasaki a través del Shinkansen Nishikyushu \"Kamome\" desde Takeo-Onsen, con trasbordo en el mismo andén desde el expreso limitado \"Relay Kamome\" procedente de Hakata (Fukuoka); en total, un trayecto de aproximadamente 2 horas.",
+      "days": "Conviene prever entre 2 y 3 días, tiempo suficiente para recorrer el Parque de la Paz y el museo de la bomba atómica, el antiguo barrio extranjero en torno a Glover Garden y Dejima, y disfrutar de una tarde-noche más pausada por las calles en cuesta sobre el puerto."
+    },
+    "zh": {
+      "blurb": "几个世纪以来,长崎曾是日本唯一对外开放的窗口,荷兰商人、中国商贾与葡萄牙传教士在此交汇往来,这段层层叠叠的历史至今仍深深烙印在长崎依山而建的街巷、寺庙与港湾景致之中。与此同时,长崎也无可回避地是曾遭原子弹轰炸的两座城市之一,其和平公园与原爆资料馆,便与这段更为古老、更具异域色彩的历史并存于同一座城市之中。",
+      "getting": "大多数游客选择飞抵长崎机场(NGS)——该机场坐落在大村湾的填海地上,再转乘机场巴士前往市区。若乘火车前往,可搭乘西九州新干线\"海鸥号\"(Kamome)抵达长崎站;从福冈(博多)出发时,需先乘坐特急列车\"接力海鸥号\"(Relay Kamome)至武雄温泉站,在同一站台换乘新干线,全程约需2小时。",
+      "days": "建议安排2到3天时间,足以游览和平公园与原爆资料馆、格拉巴园及出岛一带的旧外国人居留地,再留出一个悠闲的傍晚,漫步于俯瞰港湾的山坡街巷之间。"
+    }
   }
 }

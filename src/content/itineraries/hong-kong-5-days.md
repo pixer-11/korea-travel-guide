@@ -6,7 +6,7 @@ title: '5-day Hong Kong itinerary: harbour views, temples and Lantau''s Big Budd
 description: A 5-day Hong Kong itinerary linking Tsim Sha Tsui's waterfront, Kowloon's temples and gardens, Lantau's Big Buddha, Sai Kung's trails and pier, and the harbourfront parks of Causeway Bay to North Point.
 quickAnswer: This 5-day Hong Kong itinerary moves from Tsim Sha Tsui and Victoria Harbour on day one, through Kowloon's temples, gardens and night markets on day two, out to Lantau Island's Tian Tan Buddha on day three, into Sai Kung's pier and country park on day four, and along the Causeway Bay to North Point waterfront and out to Joss House Bay on day five.
 pubDate: '2026-08-20T09:34:29.981Z'
-stopsHash: b09940458d08b29a5e6de7c223e46c6d29830e23
+stopsHash: 41785f8900ade97fb5173e2df2d06dc6da2fd360
 packedAvailable: true
 faq:
   - q: How much walking does this 5-day Hong Kong itinerary involve?
@@ -127,7 +127,15 @@ itinerary:
         why: The waterfront hub of Sai Kung town, where sampan and speedboat operators shuttle visitors out to islands and beaches.
         dwellMin: 30
         walkToNext:
-          km: 9.9
+          km: 0.5
+          minutes: null
+          transit: true
+      - slug: sai-kung-sai-kung-seafood-street
+        slot: afternoon
+        why: A hidden-gem rated 4 by visitors, included as a stop on this route.
+        dwellMin: 90
+        walkToNext:
+          km: 10.4
           minutes: null
           transit: true
       - slug: sai-kung-sai-kung-east-country-park
@@ -187,6 +195,6 @@ itinerary:
     rainSwapSlug: sha-tin-hong-kong-science-museum
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-23T08:01:54.783Z'
+updatedDate: '2026-09-24T08:03:23.629Z'
 ---
 

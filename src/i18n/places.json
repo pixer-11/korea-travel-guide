@@ -635,6 +635,12 @@
     "es": "Goyang",
     "zh": "高阳"
   },
+  "Goyang-si": {
+    "ko": "고양시",
+    "ja": "高陽市",
+    "es": "Goyang",
+    "zh": "高阳市"
+  },
   "Granada": {
     "ko": "그라나다",
     "ja": "グラナダ",
@@ -1270,6 +1276,12 @@
     "ja": "ムンバイ",
     "es": "Bombay",
     "zh": "孟买"
+  },
+  "Nagasaki": {
+    "ko": "나가사키",
+    "ja": "長崎",
+    "es": "Nagasaki",
+    "zh": "长崎"
   },
   "Nagoya": {
     "ko": "나고야",
@@ -1985,6 +1997,12 @@
     "es": "Trebisonda",
     "zh": "特拉布宗"
   },
+  "Tseung Kwan O": {
+    "ko": "쩡관아오",
+    "ja": "将軍澗",
+    "es": "Tseung Kwan O",
+    "zh": "将军澳"
+  },
   "Tsim Sha Tsui": {
     "ko": "침사추이",
     "ja": "尖沙咀",
@@ -2086,6 +2104,12 @@
     "ja": "ワンチャイ",
     "es": "Wan Chai",
     "zh": "湾仔"
+  },
+  "Washington": {
+    "ko": "워싱턴",
+    "ja": "ワシントン",
+    "es": "Washington",
+    "zh": "华盛顿"
   },
   "Washington DC": {
     "ko": "워싱턴 D.C.",
