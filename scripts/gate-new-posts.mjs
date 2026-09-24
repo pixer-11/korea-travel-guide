@@ -68,6 +68,21 @@ const runChecked = (name, cmd) => {
 // line of its output. Only defects that make the PAGE ITSELF wrong belong here.
 // Sitewide or cosmetic findings stay as warnings — quarantining a post over a
 // short meta description would be worse than the description.
+// Reasons a new photo fixes go to the photo patrol (repair-held-posts lists
+// 'wrong-venue-photo' as owned by it, and it is not in NON_PHOTO_HOLD, so
+// backfill-photos-alt targets the draft). Until 2026-09-24 every identity
+// finding shared one sentence, so all six codes were recorded as `content` —
+// "a person's job" to the repair patrol and a skip for the photo patrol,
+// which lists `content` in NON_PHOTO_HOLD. A post one photo away from going
+// live stayed held forever while this script's own Telegram line promised
+// "자동 수리 순찰이 고친 뒤 다시 발행합니다". The 09-21 crowd-claims class
+// again: a reason with a machine that can clear it, filed as a person's job.
+const WHY_HERO = '대표사진이 그 장소를 보여주지 않음';
+const WHY_PHOTO_OTHER = '대표사진이 다른 장소·다른 때의 사진임';
+const WHY_NO_VENUE = '글이 특정 장소를 가리키지 않음(장소 정보나 구체적 제목이 없음)';
+const WHY_NO_FOCUS = '이벤트 대표사진에 초점 위치가 없음';
+const PHOTO_WHYS = new Set([WHY_HERO, WHY_PHOTO_OTHER]);
+
 const CHECKS = [
   {
     name: 'hours',
@@ -77,7 +92,7 @@ const CHECKS = [
   },
   {
     name: 'hero',
-    why: '대표사진이 그 장소를 보여주지 않음',
+    why: WHY_HERO,
     cmd: 'node scripts/audit-hero-titles.mjs',
     pick: (l) => l.match(/^(?:vantage|unusable)\s+(\S+\.md)/)?.[1],
   },
@@ -88,7 +103,12 @@ const CHECKS = [
     // hero, an event hero with no focal point (never went through the gate
     // that would have given it one). Owner: "처음 발행될 때 한번에 제대로."
     name: 'identity',
-    why: '사진이 다른 장소이거나 글이 특정 장소를 가리키지 않음',
+    // One run of the audit, a reason per finding: a photo of another place or
+    // another year is the photo patrol's to fix; a post with no venue behind
+    // it, or a generic title, is not — a new photo would not make it true.
+    why: (line) => (/^(?:PHOTO-OTHER-VENUE|PHOTO-WRONG-PLACE|ARCHIVE-PHOTO)\s/.test(line) ? WHY_PHOTO_OTHER
+      : /^NO-FOCUS\s/.test(line) ? WHY_NO_FOCUS
+        : WHY_NO_VENUE),
     cmd: 'node scripts/audit-new-post-identity.mjs --since=HEAD',
     pick: (l) => l.match(/^(?:NO-VENUE-IDENTITY|GENERIC-TITLE|PHOTO-OTHER-VENUE|PHOTO-WRONG-PLACE|ARCHIVE-PHOTO|NO-FOCUS)\s+(\S+\.md)/)?.[1],
   },
@@ -182,7 +202,7 @@ for (const c of CHECKS) {
     // supposed to have sealed the class.
     for (const f of [c.pick(line.trim())].flat().filter(Boolean)) {
       if (scope && !scope.has(f)) continue;
-      (reasons.get(f) ?? reasons.set(f, new Set()).get(f)).add(c.why);
+      (reasons.get(f) ?? reasons.set(f, new Set()).get(f)).add(typeof c.why === 'function' ? c.why(line.trim()) : c.why);
     }
   }
 }
@@ -218,6 +238,23 @@ for (const [f, why] of reasons) {
   }
   if (/^draft:\s*true\s*$/m.test(raw)) continue;          // already held back
 
+  // Computed up front, not only when writing: the report below has to say
+  // which holds a machine will clear and which wait for a person — dry runs
+  // included. The stored reason wins over a fresh one (see `already` below).
+  const whys = [...why].map(String);
+  const reason = [
+    whys.some((w) => /영업시간|hours/i.test(w)) && 'hours',
+    whys.some((w) => /지역 태그|region/i.test(w)) && 'wrong-region',
+    // 2026-09-21: 혼잡 주장은 전용 검사기(audit-crowd-claims)가 있는데
+    // 'content' 로 뭉뚱그려 적히는 바람에, 그 검사기로 풀 수 있는 사유가
+    // "사람이 볼 자리"(validate-content 는 초안을 안 본다) 로 넘어갔다.
+    whys.some((w) => /혼잡|crowd/i.test(w)) && 'crowd-claims',
+    // 2026-09-24: 사진으로 풀리는 사유는 사진 순찰 몫 — WHY_* 상수 위 주석 참조.
+    whys.some((w) => PHOTO_WHYS.has(w)) && 'wrong-venue-photo',
+    whys.some((w) => !PHOTO_WHYS.has(w) && !/영업시간|hours|지역 태그|region|혼잡|crowd/i.test(w)) && 'content',
+  ].filter(Boolean).join('+') || 'content';
+  const already = readFrontmatter(raw)?.heldReason;
+
   if (!dry) {
     // This used to be a raw line edit, for a good reason: a YAML round-trip
     // would reformat place/heroImage/gallery on every post it touched, and this
@@ -242,35 +279,32 @@ for (const [f, why] of reasons) {
     // released it, and the wrong region shipped (Codex review, 2026-09-02).
     // The patrol still keys on the `hours` prefix; repair-held-posts.mjs now
     // re-runs the region check before it releases anything.
-    const whys = [...why].map(String);
-    const reason = [
-      whys.some((w) => /영업시간|hours/i.test(w)) && 'hours',
-      whys.some((w) => /지역 태그|region/i.test(w)) && 'wrong-region',
-      // 2026-09-21: 혼잡 주장은 전용 검사기(audit-crowd-claims)가 있는데
-      // 'content' 로 뭉뚱그려 적히는 바람에, 그 검사기로 풀 수 있는 사유가
-      // "사람이 볼 자리"(validate-content 는 초안을 안 본다) 로 넘어갔다.
-      whys.some((w) => /혼잡|crowd/i.test(w)) && 'crowd-claims',
-      whys.some((w) => !/영업시간|hours|지역 태그|region|혼잡|crowd/i.test(w)) && 'content',
-    ].filter(Boolean).join('+') || 'content';
     // 보류 사유가 이미 있으면 덮어쓰지 않는다 — 먼저 기록된 사유가 더 구체적이다.
-    const already = readFrontmatter(raw)?.heldReason;
     try {
       next = editFrontmatter(next, already ? { draft: true } : { draft: true, heldReason: reason });
     } catch (err) {
       console.log(`  ⚠️ ${f}: 프론트매터를 안전하게 고치지 못해 그대로 둔다 — ${err.message}`);
-      held.push({ f, why: [...why] });
+      held.push({ f, why: [...why], reason: already || reason });
       continue;
     }
     writeFileSync(path, next);
   }
-  held.push({ f, why: [...why] });
+  held.push({ f, why: [...why], reason: already || reason });
 }
 
 console.log(`${dry ? 'WOULD HOLD' : 'HELD BACK'} ${held.length} post(s) from this publish:\n`);
 for (const h of held) console.log(`  ${h.f}\n      ${h.why.join(' / ')}`);
-console.log(
-  `\n이 글들은 사이트에 올라가지 않았습니다. 저장소에는 남아 있어 자동 수리 순찰이 고친 뒤 다시 발행합니다.`
-);
+// Say what will actually happen. `content` is the one reason no machine clears
+// (repair-held-posts files it as a person's job; the photo patrol skips it), so
+// promising an automatic repair for it was the line people learned to ignore.
+const needsPerson = held.filter((h) => /(?:^|\+)content(?:\+|$)/.test(String(h.reason ?? '')));
+const byMachine = held.length - needsPerson.length;
+console.log('\n이 글들은 사이트에 올라가지 않았습니다.');
+if (byMachine) console.log(`${needsPerson.length ? `${byMachine}편은 ` : ''}저장소에 남아 있어 자동 수리 순찰이 고친 뒤 다시 발행합니다.`);
+if (needsPerson.length) {
+  console.log(`${needsPerson.length}편은 기계가 고칠 수 없는 사유라 사람 확인이 필요합니다(자동으로 다시 발행되지 않음):`);
+  for (const h of needsPerson) console.log(`  · ${h.f}`);
+}
 
 // The day's quota must not shrink because a post was caught. The workflow reads
 // this and generates exactly as many replacements as were held, so the gate
