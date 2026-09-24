@@ -13,6 +13,7 @@
 //   node scripts/translate-esim.mjs --force   # re-translate everything
 import './lib/env.mjs';
 import Anthropic from '@anthropic-ai/sdk';
+import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { readFile, writeFile } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import { createHash } from 'node:crypto';

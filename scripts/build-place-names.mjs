@@ -9,6 +9,7 @@
 //   node scripts/build-place-names.mjs --force    # redo everything
 import './lib/env.mjs';
 import Anthropic from '@anthropic-ai/sdk';
+import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import { join } from 'node:path';

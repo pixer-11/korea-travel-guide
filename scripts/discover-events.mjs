@@ -18,6 +18,7 @@ import { existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import Anthropic from '@anthropic-ai/sdk';
+import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { makeTitle } from './lib/titles.mjs';
 import matter from 'gray-matter';
 import { topicKey } from './lib/topic-key.mjs';

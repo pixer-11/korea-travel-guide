@@ -21,6 +21,7 @@ import { readdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import yaml from 'js-yaml';
 import Anthropic from '@anthropic-ai/sdk';
+import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { moneyClaims } from './lib/money-claim.mjs';
 import { editFrontmatter } from './lib/frontmatter-edit.mjs';
 

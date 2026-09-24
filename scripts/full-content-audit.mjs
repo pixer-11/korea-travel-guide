@@ -20,6 +20,7 @@ import { existsSync, readFileSync } from 'node:fs';
 import { createHash } from 'node:crypto';
 import matter from 'gray-matter';
 import Anthropic from '@anthropic-ai/sdk';
+import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { verifyHeroImage } from './lib/vision-check.mjs';
 
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });

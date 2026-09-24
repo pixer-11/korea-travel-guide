@@ -1,0 +1,2 @@
+# Append-only: two jobs adding lines at once must both land, not conflict.
+data/claude-cost.jsonl merge=union

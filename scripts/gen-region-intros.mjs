@@ -20,6 +20,7 @@ import { HOUSE_STYLE } from './lib/prose-style.mjs';
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import matter from 'gray-matter';
 import Anthropic from '@anthropic-ai/sdk';
+import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 const MODEL = process.env.WRITER_MODEL || 'claude-sonnet-5';

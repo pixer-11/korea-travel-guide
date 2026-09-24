@@ -21,6 +21,7 @@ import { existsSync, rmSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import Anthropic from '@anthropic-ai/sdk';
+import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { HOUSE_STYLE } from './lib/prose-style.mjs';
 import { upsertSection, findSection, stampSectionReviewed } from './lib/essentials-section.mjs';
 import { metaTextIn, unsupportedNumbers, numbersIn, commercialSources, proseProblems, unsupportedNames, stripLeadingMeta } from './lib/section-guards.mjs';

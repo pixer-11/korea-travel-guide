@@ -7,6 +7,7 @@
 // Without TELEGRAM_* env (local runs) it prints/saves previews instead.
 import './lib/env.mjs';
 import Anthropic from '@anthropic-ai/sdk';
+import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { readdirSync, readFileSync, writeFileSync, mkdirSync } from 'fs';
 import { join } from 'path';
 import yaml from 'js-yaml';

@@ -25,6 +25,7 @@
 //   node scripts/translate-itineraries.mjs --source-dir=<d> --out-dir=<d>  # point at a fixture dir (tests)
 import './lib/env.mjs';
 import Anthropic from '@anthropic-ai/sdk';
+import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { readdir, readFile, writeFile, mkdir } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import { join, resolve } from 'node:path';

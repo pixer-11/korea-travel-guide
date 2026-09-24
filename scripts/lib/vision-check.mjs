@@ -11,6 +11,7 @@
 //  a wrong photo, never publishes photoless).
 // ─────────────────────────────────────────────────────────────
 import Anthropic from '@anthropic-ai/sdk';
+import './claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import sharp from 'sharp';
 import { imageFetch } from './image-fetch.mjs';
 import { HEAD_BOX_ASK, HEAD_BOX_JSON, focusFromReply } from './head-box.mjs';

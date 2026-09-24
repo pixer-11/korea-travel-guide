@@ -19,6 +19,7 @@
 //   node scripts/translate-posts.mjs --force              # re-translate existing
 import './lib/env.mjs';
 import Anthropic from '@anthropic-ai/sdk';
+import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { readdir, readFile, writeFile, mkdir } from 'node:fs/promises';
 import { latinDrops } from './lib/latin-drop.mjs';
 import { UPCOMING, upcomingText } from './lib/ended-event-tense.mjs';

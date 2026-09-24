@@ -18,6 +18,7 @@
 // ─────────────────────────────────────────────────────────────
 import './lib/env.mjs';
 import Anthropic from '@anthropic-ai/sdk';
+import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { interleaveRotated, kstDayIndex } from './lib/round-robin.mjs';

@@ -66,6 +66,7 @@
 // ─────────────────────────────────────────────────────────────
 import './lib/env.mjs';
 import Anthropic from '@anthropic-ai/sdk';
+import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { readdir, readFile, writeFile, mkdir, rm, rename } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import { createHash } from 'node:crypto';

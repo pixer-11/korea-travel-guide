@@ -8,6 +8,7 @@
 // that is exactly what the reader does. Scores: 0 native · 1 minor
 // awkwardness · 2 clearly translation-flavored · 3 severe.
 import Anthropic from '@anthropic-ai/sdk';
+import './claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 
 export const LANGS = { ko: '한국어', ja: '日本語', es: 'español', zh: '中文' };
 const client = new Anthropic();

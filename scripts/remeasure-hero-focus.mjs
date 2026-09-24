@@ -23,6 +23,7 @@ import { fileURLToPath } from 'node:url';
 import matter from 'gray-matter';
 import sharp from 'sharp';
 import Anthropic from '@anthropic-ai/sdk';
+import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { politeFetch } from './lib/polite-fetch.mjs';
 import { HEAD_BOX_ASK, HEAD_BOX_JSON, focusFromReply, hasBox, spliceFocus } from './lib/head-box.mjs';
 

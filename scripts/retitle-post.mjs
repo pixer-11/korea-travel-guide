@@ -21,6 +21,7 @@ import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import Anthropic from '@anthropic-ai/sdk';
+import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { setFrontmatterField } from './lib/frontmatter-field.mjs';
 import { srcHashOfPostFile, storedHashIn } from './lib/src-hash.mjs';
 

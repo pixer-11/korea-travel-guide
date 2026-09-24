@@ -67,6 +67,13 @@ ${ICON} 상태: ${STATUS_KO}
 📝 새 ${UNIT}: ${NEW}개${HELD_LINE}
 📚 전체 글: ${TOTAL}개
 🕒 ${DATE}${NOTE}${LIST_BLOCK}"
+# Claude spend for this run + today's total, when the workflow passes it
+# (publish.yml, from scripts/claude-cost-report.mjs). Other callers pass nothing.
+if [ -n "${CLAUDE_COST_LINE:-}" ]; then
+  TEXT="${TEXT}
+
+${CLAUDE_COST_LINE}"
+fi
 
 # Print the Telegram API response so failures are diagnosable (never contains the token).
 RESP=$(curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \

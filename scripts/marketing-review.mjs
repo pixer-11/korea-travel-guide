@@ -13,6 +13,7 @@ import { readFile, readdir } from 'node:fs/promises';
 import { createSign } from 'node:crypto';
 import matter from 'gray-matter';
 import Anthropic from '@anthropic-ai/sdk';
+import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { sendTelegram } from './lib/telegram.mjs';
 
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });

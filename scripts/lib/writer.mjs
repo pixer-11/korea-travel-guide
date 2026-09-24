@@ -5,6 +5,7 @@
 // The model is forbidden from inventing facts or claiming a personal visit,
 // which keeps 2026 AI-search / E-E-A-T signals working in our favor.
 import Anthropic from '@anthropic-ai/sdk';
+import './claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { firstTell } from './ai-tells.mjs';
 import { reflow } from '../../src/lib/paragraphs.mjs';
 import { FUTURE_PROMISE } from '../../src/lib/ended-event-claims.mjs';

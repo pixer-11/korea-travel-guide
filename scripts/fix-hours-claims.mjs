@@ -10,6 +10,7 @@
 //   node scripts/fix-hours-claims.mjs --only=a,b
 import './lib/env.mjs';
 import Anthropic from '@anthropic-ai/sdk';
+import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { readFileSync, writeFileSync } from 'fs';
 import { join } from 'path';
 import { execSync } from 'child_process';

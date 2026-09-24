@@ -21,6 +21,14 @@ jobs:
           cache: npm
       - run: npm ci
 
+      # Every Claude call from here on is counted by scripts/lib/claude-meter.mjs
+      # (each file that uses the SDK imports it; a test fails the build if one
+      # forgets) and lands in this ledger as the process exits. Added 2026-09-25:
+      # until then "what did the model switch cost?" had no answer short of the
+      # bill. Not NODE_OPTIONS - GitHub refuses it in $GITHUB_ENV.
+      - name: Name the Claude cost ledger
+        run: echo "CLAUDE_COST_LEDGER=$GITHUB_WORKSPACE/data/claude-cost.jsonl" >> "$GITHUB_ENV"
+
       - name: Discover & write events
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -111,6 +119,19 @@ jobs:
             sleep $((attempt * 5))
           done
           if [ "$pushed" != 1 ]; then echo "Could not push after retries"; exit 1; fi
+
+      # Committed last and on its own: Claude calls keep happening after the main
+      # commit step (repairs, translations), and a runner forgets everything.
+      - name: Commit the Claude cost ledger
+        if: always()
+        run: |
+          [ -f data/claude-cost.jsonl ] || exit 0
+          git config user.name "content-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/claude-cost.jsonl
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "chore: claude cost ledger ($(date -u +%Y-%m-%d))"
+          bash scripts/git-push-retry.sh
 
       - name: Validate content integrity
         id: validate

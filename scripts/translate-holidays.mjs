@@ -27,6 +27,7 @@
 // ─────────────────────────────────────────────────────────────
 import './lib/env.mjs';
 import Anthropic from '@anthropic-ai/sdk';
+import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { readFile, writeFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import { findToolSpill } from './lib/tool-spill.mjs';

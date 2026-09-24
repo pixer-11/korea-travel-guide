@@ -126,15 +126,13 @@ jobs:
 
       - run: npm ci
 
-      # From here on every node process counts its own Claude calls and adds one
-      # line to data/claude-cost.jsonl as it exits (scripts/lib/claude-meter.mjs).
-      # Set after npm ci and not job-wide: checkout and setup-node run on node too,
-      # and npm ci itself runs before the SDK exists. Added 2026-09-25 - until then
-      # "how much did the model switch cost?" had no answer short of the bill.
-      - name: Meter Claude spend
-        run: |
-          echo "NODE_OPTIONS=--import=file://$GITHUB_WORKSPACE/scripts/lib/claude-meter.mjs" >> "$GITHUB_ENV"
-          echo "CLAUDE_COST_LEDGER=$GITHUB_WORKSPACE/data/claude-cost.jsonl" >> "$GITHUB_ENV"
+      # Every Claude call from here on is counted by scripts/lib/claude-meter.mjs
+      # (each file that uses the SDK imports it; a test fails the build if one
+      # forgets) and lands in this ledger as the process exits. Added 2026-09-25:
+      # until then "what did the model switch cost?" had no answer short of the
+      # bill. Not NODE_OPTIONS - GitHub refuses it in $GITHUB_ENV.
+      - name: Name the Claude cost ledger
+        run: echo "CLAUDE_COST_LEDGER=$GITHUB_WORKSPACE/data/claude-cost.jsonl" >> "$GITHUB_ENV"
 
       # How many posts a scheduled run may publish. Read from
       # data/publish-throttle.json so the number lives in ONE place - backfill.yml
@@ -1340,7 +1338,7 @@ jobs:
             echo "bulk run: Places share 0 today, nothing to attempt — no Telegram (normal)"
           else
             # This run's Claude spend and today's (KST) total, from the ledger.
-            export CLAUDE_COST_LINE="$(node scripts/claude-cost-report.mjs --run "$GITHUB_RUN_ID" 2>/dev/null || true)"
+            export CLAUDE_COST_LINE="$(node scripts/claude-cost-report.mjs --run "$GITHUB_RUN_ID" --attempt "$GITHUB_RUN_ATTEMPT" 2>/dev/null || true)"
             bash scripts/notify-telegram.sh "${{ inputs.label || 'Daily publish' }}"
           fi
           # Steps that failed softly get their own message rather than riding on

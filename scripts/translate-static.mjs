@@ -24,6 +24,7 @@
 //   node scripts/translate-static.mjs
 import './lib/env.mjs';
 import Anthropic from '@anthropic-ai/sdk';
+import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { readdir, readFile, writeFile, mkdir } from 'node:fs/promises';
 import { existsSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';

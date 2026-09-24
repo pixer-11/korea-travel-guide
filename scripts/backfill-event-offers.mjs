@@ -31,6 +31,7 @@ import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { join } from 'node:path';
 import matter from 'gray-matter';
 import Anthropic from '@anthropic-ai/sdk';
+import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { eventSchemaName } from '../src/lib/eventName.mjs';
 import { normalizeOffer, normalizePerformer } from '../src/lib/eventOffers.mjs';
 

@@ -18,6 +18,7 @@
 //   node scripts/translate-venue-names.mjs --dry     # lists what's missing, no API call
 import './lib/env.mjs';
 import Anthropic from '@anthropic-ai/sdk';
+import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { existsSync, readdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { findToolSpill } from './lib/tool-spill.mjs';
