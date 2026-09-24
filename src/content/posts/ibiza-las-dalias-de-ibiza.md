@@ -1,48 +1,75 @@
 ---
-title: "Las Dalias de Ibiza: Travel Guide (4.2★)"
-description: "Las Dalias de Ibiza is a hippy craft market at Km 12 on the road into Sant Carles de Peralta, in Ibiza's northeast. 4.2★ (12,947 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "Ibiza"
-category: "hidden-gem"
-pubDate: "2026-09-24T07:47:04.776Z"
+title: 'Las Dalias de Ibiza: Travel Guide (4.2★)'
+description: >-
+  Las Dalias de Ibiza is a hippy craft market at Km 12 on the road into Sant
+  Carles de Peralta, in Ibiza's northeast. 4.2★ (12,949 reviews) — what visitors
+  say, hours, and tips.
+country: Spain
+region: Ibiza
+category: hidden-gem
+pubDate: '2026-09-24T07:47:04.776Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Mercadillo_Las_Dalias_en_Ibiza.jpg"
-  credit: "Photo: DetFerMai / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Mercadillo_Las_Dalias_en_Ibiza.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/a8/Mercadillo_Las_Dalias_en_Ibiza.jpg
+  credit: 'Photo: DetFerMai / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Mercadillo_Las_Dalias_en_Ibiza.jpg'
+  via: act
   focus:
     x: 60
-    y: 55
+    'y': 55
 gallery: []
 place:
-  id: "ChIJbRBUQ0kUmRIRZM0Zekzh3EY"
-  name: "Las Dalias de Ibiza"
-  address: "Carretera, Km. 12, 07850 Sant Carles de Peralta, Illes Balears, Spain"
+  id: ChIJbRBUQ0kUmRIRZM0Zekzh3EY
+  name: Las Dalias de Ibiza
+  address: 'Carretera, Km. 12, 07850 Sant Carles de Peralta, Illes Balears, Spain'
   rating: 4.2
-  userRatingsTotal: 12947
-  googleMapsUrl: "https://maps.google.com/?cid=5106203796113575268&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 12949
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5106203796113575268&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 39.0284124
   lng: 1.5577136999999999
-  phone: "+34 971 32 68 25"
+  phone: +34 971 32 68 25
 tags:
-  - "ibiza"
-  - "local market"
-quickAnswer: "Las Dalias de Ibiza is a hippy craft market at Km 12 on the road into Sant Carles de Peralta, in Ibiza's northeast. Stalls sell handmade soaps, jewellery and clothing, with food and DJ music alongside, and Saturday is the traditional market day. It is very popular, so come early, allow two hours, and check the official site for the current schedule and any summer night markets before you drive out."
+  - ibiza
+  - local market
+quickAnswer: >-
+  Las Dalias de Ibiza is a hippy craft market at Km 12 on the road into Sant
+  Carles de Peralta, in Ibiza's northeast. Stalls sell handmade soaps, jewellery
+  and clothing, with food and DJ music alongside, and Saturday is the
+  traditional market day. It is very popular, so come early, allow two hours,
+  and check the official site for the current schedule and any summer night
+  markets before you drive out.
 faq:
-  - q: "Where exactly is Las Dalias de Ibiza?"
-    a: "At Km 12 on the road from Santa Eulària des Riu to Sant Carles de Peralta, in Ibiza's northeast. It is a short drive from Santa Eulària and roughly half an hour from Ibiza Town."
-  - q: "Which day is the market on?"
-    a: "Saturday is the traditional market day, and there have been evening markets in summer. Schedules change by season, so confirm current dates and hours on the official Las Dalias website before you go."
-  - q: "How long should I spend there?"
-    a: "Allow about two hours to walk every row, compare stalls and stop for food or a drink. Add time if you plan to visit Sant Carles village or a nearby cove afterwards."
-  - q: "Is there parking at Las Dalias?"
-    a: "Parking is in informal areas and along the road nearby. It fills up early on busy days, so arriving at opening gives you the best chance of a spot close to the entrance."
-  - q: "What else is nearby?"
-    a: "Sant Carles village is just up the road. The coves of Cala Llenya and Cala Mastella and the beach at Aigües Blanques are a short drive away, and the Punta Arabí hippy market in Es Canar runs on Wednesdays in season."
+  - q: Where exactly is Las Dalias de Ibiza?
+    a: >-
+      At Km 12 on the road from Santa Eulària des Riu to Sant Carles de Peralta,
+      in Ibiza's northeast. It is a short drive from Santa Eulària and roughly
+      half an hour from Ibiza Town.
+  - q: Which day is the market on?
+    a: >-
+      Saturday is the traditional market day, and there have been evening
+      markets in summer. Schedules change by season, so confirm current dates
+      and hours on the official Las Dalias website before you go.
+  - q: How long should I spend there?
+    a: >-
+      Allow about two hours to walk every row, compare stalls and stop for food
+      or a drink. Add time if you plan to visit Sant Carles village or a nearby
+      cove afterwards.
+  - q: Is there parking at Las Dalias?
+    a: >-
+      Parking is in informal areas and along the road nearby. It fills up early
+      on busy days, so arriving at opening gives you the best chance of a spot
+      close to the entrance.
+  - q: What else is nearby?
+    a: >-
+      Sant Carles village is just up the road. The coves of Cala Llenya and Cala
+      Mastella and the beach at Aigües Blanques are a short drive away, and the
+      Punta Arabí hippy market in Es Canar runs on Wednesdays in season.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-24'
 ---
 
 ## Saturday at kilometre 12

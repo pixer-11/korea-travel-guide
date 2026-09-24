@@ -1,44 +1,52 @@
 ---
-title: "Hà Giang Market: Ha Giang Travel Guide (4.1★)"
-description: "Hà Giang Market is the daily town market on Trần Phú street in Hà Giang city, the northern Vietnam town where most riders start the Hà Giang Loop. 4.1★ (964 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Ha Giang"
-category: "hidden-gem"
-pubDate: "2026-09-24T07:38:11.372Z"
+title: 'Hà Giang Market: Ha Giang Travel Guide (4.1★)'
+description: >-
+  Hà Giang Market is the daily town market on Trần Phú street in Hà Giang city,
+  the northern Vietnam town where most riders start the Hà Giang Loop. 4.1★ (965
+  reviews) — what visitors say, hours, and tips.
+country: Vietnam
+region: Ha Giang
+category: hidden-gem
+pubDate: '2026-09-24T07:38:11.372Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/0/0e/Rural_market_sellers_in_Ha_Giang_province_in_2014.jpg"
-  credit: "Photo: Vuong Tri Binh / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Rural_market_sellers_in_Ha_Giang_province_in_2014.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/0/0e/Rural_market_sellers_in_Ha_Giang_province_in_2014.jpg
+  credit: 'Photo: Vuong Tri Binh / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Rural_market_sellers_in_Ha_Giang_province_in_2014.jpg
+  via: act
   focus:
     x: 40
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ha_Giang_market-_Dong_Van_market.jpg/3840px-Ha_Giang_market-_Dong_Van_market.jpg"
-    credit: "Photo: Nghia Bui- Zonitrip / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Ha_Giang_market-_Dong_Van_market.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ha_Giang_market-_Dong_Van_market.jpg/3840px-Ha_Giang_market-_Dong_Van_market.jpg
+    credit: 'Photo: Nghia Bui- Zonitrip / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Ha_Giang_market-_Dong_Van_market.jpg
 place:
-  id: "ChIJpeuiRjV4zDYR1niISWKhiC4"
-  name: "Hà Giang Market"
-  address: "RXJP+XFV, Đ. Trần Phú, P, Hà Giang 2, Tuyên Quang, Vietnam"
+  id: ChIJpeuiRjV4zDYR1niISWKhiC4
+  name: Hà Giang Market
+  address: 'RXJP+XFV, Đ. Trần Phú, P, Hà Giang 2, Tuyên Quang, Vietnam'
   rating: 4.1
-  userRatingsTotal: 964
-  googleMapsUrl: "https://maps.google.com/?cid=3353107366089881814&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 965
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3353107366089881814&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.832488899999998
   lng: 104.98617569999999
   openingHours:
-    - "Monday: 5:00 – 11:30 AM"
-    - "Tuesday: 5:00 AM – 7:00 PM"
-    - "Wednesday: 5:00 AM – 7:00 PM"
-    - "Thursday: 5:00 AM – 7:00 PM"
-    - "Friday: 5:00 AM – 7:00 PM"
-    - "Saturday: 5:00 AM – 7:00 PM"
-    - "Sunday: 5:00 AM – 7:00 PM"
+    - 'Monday: 5:00 – 11:30 AM'
+    - 'Tuesday: 5:00 AM – 7:00 PM'
+    - 'Wednesday: 5:00 AM – 7:00 PM'
+    - 'Thursday: 5:00 AM – 7:00 PM'
+    - 'Friday: 5:00 AM – 7:00 PM'
+    - 'Saturday: 5:00 AM – 7:00 PM'
+    - 'Sunday: 5:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-09-24
+    updated: 2026-09-24T00:00:00.000Z
     weekdayQuiet:
       - 13
     weekdayBusy:
@@ -53,24 +61,44 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_344369684b575349696e315259447a34566a52697565704a496843"
+    venueId: ven_344369684b575349696e315259447a34566a52697565704a496843
 tags:
-  - "ha giang"
-  - "local market"
-quickAnswer: "Hà Giang Market is the daily town market on Trần Phú street in Hà Giang city, the northern Vietnam town where most riders start the Hà Giang Loop. It opens at 5am every day and closes at 7pm, except Monday, when it shuts at 11:30am. The calmest time is 1pm to 2pm on weekdays; weekends stay busy from 8am to 7pm."
+  - ha giang
+  - local market
+quickAnswer: >-
+  Hà Giang Market is the daily town market on Trần Phú street in Hà Giang city,
+  the northern Vietnam town where most riders start the Hà Giang Loop. It opens
+  at 5am every day and closes at 7pm, except Monday, when it shuts at 11:30am.
+  The calmest time is 1pm to 2pm on weekdays; weekends stay busy from 8am to
+  7pm.
 faq:
-  - q: "When is the quietest time to visit Hà Giang Market?"
-    a: "Between 1pm and 2pm on weekdays. Go Tuesday to Friday, because on Monday the market closes at 11:30am. Weekends are busy all day, from 8am to the 7pm close."
-  - q: "Is Hà Giang Market open on Monday?"
-    a: "Only in the morning. On Monday it runs from 5:00am to 11:30am. Every other day it's open from 5:00am to 7:00pm."
-  - q: "Is this the same as the Đồng Văn Sunday market?"
-    a: "No. Hà Giang Market is the daily town market in Hà Giang city, on Trần Phú street. Đồng Văn and Mèo Vạc, further up the Loop, are best known for their weekly Sunday markets, where ethnic minority communities come in from the surrounding villages."
-  - q: "How long should I spend at Hà Giang Market?"
-    a: "About 45 minutes to an hour is enough to walk the stalls, try something to eat and pick up supplies before riding the Hà Giang Loop."
-  - q: "How do I pay at the market?"
-    a: "Bring cash in Vietnamese đồng, in small notes. Point at what you want and ask \"bao nhiêu?\" (how much?). Light haggling is fine for clothes and souvenirs, but not for food. Nobody expects a tip."
+  - q: When is the quietest time to visit Hà Giang Market?
+    a: >-
+      Between 1pm and 2pm on weekdays. Go Tuesday to Friday, because on Monday
+      the market closes at 11:30am. Weekends are busy all day, from 8am to the
+      7pm close.
+  - q: Is Hà Giang Market open on Monday?
+    a: >-
+      Only in the morning. On Monday it runs from 5:00am to 11:30am. Every other
+      day it's open from 5:00am to 7:00pm.
+  - q: Is this the same as the Đồng Văn Sunday market?
+    a: >-
+      No. Hà Giang Market is the daily town market in Hà Giang city, on Trần Phú
+      street. Đồng Văn and Mèo Vạc, further up the Loop, are best known for
+      their weekly Sunday markets, where ethnic minority communities come in
+      from the surrounding villages.
+  - q: How long should I spend at Hà Giang Market?
+    a: >-
+      About 45 minutes to an hour is enough to walk the stalls, try something to
+      eat and pick up supplies before riding the Hà Giang Loop.
+  - q: How do I pay at the market?
+    a: >-
+      Bring cash in Vietnamese đồng, in small notes. Point at what you want and
+      ask "bao nhiêu?" (how much?). Light haggling is fine for clothes and
+      souvenirs, but not for food. Nobody expects a tip.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-24'
 ---
 
 ## Before the Loop, there's the market

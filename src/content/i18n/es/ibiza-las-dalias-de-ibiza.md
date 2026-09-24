@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: ibiza-las-dalias-de-ibiza
-srcHash: '46036ae356e3'
+srcHash: '3d20b2e0664e'
 title: 'Las Dalias de Ibiza: guía de viaje (4,2★)'
-description: 'Las Dalias de Ibiza es un mercadillo hippy artesanal situado en el kilómetro 12 de la carretera hacia Sant Carles de Peralta, en el noreste de Ibiza. 4,2★ (12.947 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Las Dalias de Ibiza es un mercadillo hippy artesanal situado en el kilómetro 12 de la carretera hacia Sant Carles de Peralta, en el noreste de Ibiza. 4,2★ (12.949 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Las Dalias de Ibiza es un mercadillo hippy artesanal situado en el kilómetro 12 de la carretera hacia Sant Carles de Peralta, en el noreste de Ibiza. En los puestos se venden jabones artesanales, joyas y ropa, con zonas de comida y música de DJ, y el sábado es el día tradicional de mercado. Es muy popular, así que conviene llegar temprano, reservar unas dos horas y consultar la web oficial para conocer el horario vigente y los posibles mercadillos nocturnos de verano antes de ponerse en marcha.
 faq:
   - q: ¿Dónde se encuentra exactamente Las Dalias de Ibiza?

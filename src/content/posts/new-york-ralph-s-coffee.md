@@ -1,25 +1,32 @@
 ---
 title: 'Ralph''s Coffee: New York Travel Guide (4.2★)'
-description: Ralph's Coffee is the Ralph Lauren-branded café tucked inside the flagship mansion store at 888 Madison Ave (at 72nd St) on the Upper East Side — order a cappuccino or the Ralph's Coffee Ice Cream and sit under the green-and-white striped awning either indoors or in the small courtyard. 4.2★ (1,609 reviews) — what visitors say, hours, and tips.
+description: >-
+  Ralph's Coffee is the Ralph Lauren-branded café tucked inside the flagship
+  mansion store at 888 Madison Ave (at 72nd St) on the Upper East Side — order a
+  cappuccino or the Ralph's Coffee Ice Cream and sit under the green-and-white
+  striped awning either indoors or in the small courtyard. 4.2★ (1,675 reviews)
+  — what visitors say, hours, and tips.
 country: United States
 region: New York
 category: trendy
 pubDate: '2026-08-04T10:16:27.667Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/501162434_Jw06tpaWqkzMKAGNQdsWWdsjrAMxcQHRS48z9ZnnJxA.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/501162434_Jw06tpaWqkzMKAGNQdsWWdsjrAMxcQHRS48z9ZnnJxA.jpg
   credit: 'Photo: Foursquare user content (Ralph''s Coffee)'
   license: foursquare
-  source: https://foursquare.com/v/5c376e989de23b002cc69549
+  source: 'https://foursquare.com/v/5c376e989de23b002cc69549'
   focus:
     x: 35
-    y: 45
+    'y': 45
 place:
   id: ChIJLx2u_exZwokRRATuJZ5qHJQ
   name: Ralph's Coffee
-  address: 888 Madison Ave, New York, NY 10021, USA
+  address: '888 Madison Ave, New York, NY 10021, USA'
   rating: 4.2
-  userRatingsTotal: 1609
-  googleMapsUrl: https://maps.google.com/?cid=10672522444434965572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 1675
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10672522444434965572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 40.771658599999995
   lng: -73.9657658
@@ -49,22 +56,44 @@ place:
       - 16
       - 17
     venueId: ven_514a4871355a4a75544152526b6f775a78655f7532784c4a496843
+  priceLevel: 2
 tags:
   - new york
   - trendy cafe
-quickAnswer: Ralph's Coffee is the Ralph Lauren-branded café tucked inside the flagship mansion store at 888 Madison Ave (at 72nd St) on the Upper East Side — order a cappuccino or the Ralph's Coffee Ice Cream and sit under the green-and-white striped awning either indoors or in the small courtyard. It's open daily 8am–6pm (till 7pm Fri/Sat); go right at opening or any weekday morning to skip the afternoon crowds, since weekends get busiest from 1pm to 6pm.
+quickAnswer: >-
+  Ralph's Coffee is the Ralph Lauren-branded café tucked inside the flagship
+  mansion store at 888 Madison Ave (at 72nd St) on the Upper East Side — order a
+  cappuccino or the Ralph's Coffee Ice Cream and sit under the green-and-white
+  striped awning either indoors or in the small courtyard. It's open daily
+  8am–6pm (till 7pm Fri/Sat); go right at opening or any weekday morning to skip
+  the afternoon crowds, since weekends get busiest from 1pm to 6pm.
 faq:
   - q: What are the best hours to avoid crowds at Ralph's Coffee?
-    a: Crowd levels stay fairly steady from open to close on both weekdays and weekends, but weekend afternoons from 1pm to 6pm are the busiest stretch — go on a weekday morning or before 1pm on weekends for the calmest visit.
+    a: >-
+      Crowd levels stay fairly steady from open to close on both weekdays and
+      weekends, but weekend afternoons from 1pm to 6pm are the busiest stretch —
+      go on a weekday morning or before 1pm on weekends for the calmest visit.
   - q: How do I get to Ralph's Coffee by subway?
-    a: Take the 6 train to 68th Street–Hunter College, then walk about 10 minutes northeast to 888 Madison Ave at 72nd Street.
+    a: >-
+      Take the 6 train to 68th Street–Hunter College, then walk about 10 minutes
+      northeast to 888 Madison Ave at 72nd Street.
   - q: What should I order at Ralph's Coffee?
-    a: The cappuccino and cold brew are solid, but the standout is the Ralph's Coffee Ice Cream, a coffee soft serve that's become the café's signature item, especially popular in warmer months.
+    a: >-
+      The cappuccino and cold brew are solid, but the standout is the Ralph's
+      Coffee Ice Cream, a coffee soft serve that's become the café's signature
+      item, especially popular in warmer months.
   - q: Is Ralph's Coffee expensive?
-    a: It's on the pricier side for a coffee shop, in line with its Madison Avenue flagship-store setting, but there's no cover or minimum — you're paying boutique-café prices, not restaurant prices.
+    a: >-
+      It's on the pricier side for a coffee shop, in line with its Madison
+      Avenue flagship-store setting, but there's no cover or minimum — you're
+      paying boutique-café prices, not restaurant prices.
   - q: What else is nearby worth combining with a visit?
-    a: The Frick Collection, the Met, and Central Park's Engineers' Gate are all within about a 15-minute walk, making Ralph's a natural coffee break before or after a museum or park visit.
+    a: >-
+      The Frick Collection, the Met, and Central Park's Engineers' Gate are all
+      within about a 15-minute walk, making Ralph's a natural coffee break
+      before or after a museum or park visit.
 aiGenerated: true
+updatedDate: '2026-09-24'
 ---
 ## Why go
 

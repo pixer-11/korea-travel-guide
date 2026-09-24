@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: ha-giang-ha-giang-market
-srcHash: 'f8af0b6e4cf2'
+srcHash: '5d4c9f05a4d5'
 title: 'Mercado de Hà Giang: guía de viaje de Ha Giang (4,1★)'
-description: 'El mercado de Hà Giang es el mercado municipal diario de la calle Trần Phú, en la ciudad de Hà Giang, punto de partida habitual del Hà Giang Loop en el norte de Vietnam. 4,1★ (964 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El mercado de Hà Giang es el mercado municipal diario de la calle Trần Phú, en la ciudad de Hà Giang, punto de partida habitual del Hà Giang Loop en el norte de Vietnam. 4,1★ (965 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El mercado de Hà Giang es el mercado municipal diario de la calle Trần Phú, en la ciudad de Hà Giang, la localidad del norte de Vietnam donde la mayoría de los viajeros inician el Hà Giang Loop. Abre a las 5:00 todos los días y cierra a las 19:00, salvo los lunes, que cierra a las 11:30. El momento más tranquilo es entre las 13:00 y las 14:00 en días laborables; los fines de semana el ajetreo se mantiene de 8:00 a 19:00.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el mercado de Hà Giang?

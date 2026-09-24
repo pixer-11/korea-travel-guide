@@ -1,23 +1,29 @@
 ---
-title: "Conservatory Garden: New York Travel Guide (4.8★)"
-description: Enter Central Park at 5th Avenue and 105th Street through the wrought-iron Vanderbilt Gate and you're in the Conservatory Garden, a six-acre formal garden split into Italian, French, and English sections, open 8am until 8pm. 4.8★ (2,944 reviews) — what visitors say, hours, and tips.
+title: 'Conservatory Garden: New York Travel Guide (4.8★)'
+description: >-
+  Enter Central Park at 5th Avenue and 105th Street through the wrought-iron
+  Vanderbilt Gate and you're in the Conservatory Garden, a six-acre formal
+  garden split into Italian, French, and English sections, open 8am until 8pm.
+  4.8★ (2,964 reviews) — what visitors say, hours, and tips.
 country: United States
 region: New York
 category: attraction
-pubDate: "2026-08-05T11:02:32.929Z"
+pubDate: '2026-08-05T11:02:32.929Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Central_Park_23.jpg/1920px-Central_Park_23.jpg
-  credit: "Photo: Summ / Wikimedia Commons (CC BY-SA 3.0)"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Central_Park_23.jpg/1920px-Central_Park_23.jpg
+  credit: 'Photo: Summ / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Central_Park_23.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Central_Park_23.jpg'
 gallery: []
 place:
   id: ChIJh70nPBz2wokR7EWPEdNPP9s
   name: Conservatory Garden
-  address: 1233 5th Ave, New York, NY 10029, USA
+  address: '1233 5th Ave, New York, NY 10029, USA'
   rating: 4.8
-  userRatingsTotal: 2944
-  googleMapsUrl: https://maps.google.com/?cid=15798433785790285292&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 2964
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15798433785790285292&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 40.793692799999995
   lng: -73.9524588
@@ -40,30 +46,52 @@ place:
     venueId: ven_733950504e644550574537526b6f77327a42506e3037684a496843
   phone: +1 212-310-6600
   openingHours:
-    - "Monday: 8:00 AM – 8:00 PM"
-    - "Tuesday: 8:00 AM – 8:00 PM"
-    - "Wednesday: 8:00 AM – 8:00 PM"
-    - "Thursday: 8:00 AM – 8:00 PM"
-    - "Friday: 8:00 AM – 8:00 PM"
-    - "Saturday: 8:00 AM – 8:00 PM"
-    - "Sunday: 8:00 AM – 8:00 PM"
+    - 'Monday: 8:00 AM – 8:00 PM'
+    - 'Tuesday: 8:00 AM – 8:00 PM'
+    - 'Wednesday: 8:00 AM – 8:00 PM'
+    - 'Thursday: 8:00 AM – 8:00 PM'
+    - 'Friday: 8:00 AM – 8:00 PM'
+    - 'Saturday: 8:00 AM – 8:00 PM'
+    - 'Sunday: 8:00 AM – 8:00 PM'
 tags:
   - new york
   - park
-quickAnswer: Enter Central Park at 5th Avenue and 105th Street through the wrought-iron Vanderbilt Gate and you're in the Conservatory Garden, a six-acre formal garden split into Italian, French, and English sections, open 8am until 8pm. It's one of the calmest corners of the park — crowd data shows weekdays from 2pm–8pm and weekends from 1pm–8pm are quietest, so aim for a mid-afternoon visit rather than a summer weekend morning. Give it 45 minutes to an hour, longer if you linger by the fountains.
+quickAnswer: >-
+  Enter Central Park at 5th Avenue and 105th Street through the wrought-iron
+  Vanderbilt Gate and you're in the Conservatory Garden, a six-acre formal
+  garden split into Italian, French, and English sections, open 8am until 8pm.
+  It's one of the calmest corners of the park — crowd data shows weekdays from
+  2pm–8pm and weekends from 1pm–8pm are quietest, so aim for a mid-afternoon
+  visit rather than a summer weekend morning. Give it 45 minutes to an hour,
+  longer if you linger by the fountains.
 faq:
   - q: How do I get to the Conservatory Garden?
-    a: Enter Central Park at 5th Avenue and 105th Street through the Vanderbilt Gate. By subway, take the 6 train to 103rd Street (walk north) or the 2/3 to Central Park North–110th Street.
+    a: >-
+      Enter Central Park at 5th Avenue and 105th Street through the Vanderbilt
+      Gate. By subway, take the 6 train to 103rd Street (walk north) or the 2/3
+      to Central Park North–110th Street.
   - q: Is there an admission fee?
-    a: No, entry is free — the garden is open to the public daily from 8am until 8pm, same as the rest of Central Park.
+    a: >-
+      No, entry is free — the garden is open to the public daily from 8am until
+      8pm, same as the rest of Central Park.
   - q: When is the quietest time to visit?
-    a: Weekdays it's calmest from 2pm to 8pm, and on weekends from 1pm to 8pm. Weekends before 7pm tend to be the busiest window, so avoid a Saturday or Sunday morning if you want it peaceful.
+    a: >-
+      Weekdays it's calmest from 2pm to 8pm, and on weekends from 1pm to 8pm.
+      Weekends before 7pm tend to be the busiest window, so avoid a Saturday or
+      Sunday morning if you want it peaceful.
   - q: How long should I spend there?
-    a: Most visitors spend 45 minutes to an hour walking through all three garden sections — Italian, French, and English. Add extra time if you plan to sit by the fountains or lily pond.
+    a: >-
+      Most visitors spend 45 minutes to an hour walking through all three garden
+      sections — Italian, French, and English. Add extra time if you plan to sit
+      by the fountains or lily pond.
   - q: What's nearby worth combining with a visit?
-    a: The Conservatory Water (model boat pond) and the North Woods are both a walk away within Central Park, and the Museum of the City of New York and El Museo del Barrio sit just across 5th Avenue.
+    a: >-
+      The Conservatory Water (model boat pond) and the North Woods are both a
+      walk away within Central Park, and the Museum of the City of New York and
+      El Museo del Barrio sit just across 5th Avenue.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-24'
 ---
 
 ## Why go

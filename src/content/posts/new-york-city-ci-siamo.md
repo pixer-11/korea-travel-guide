@@ -1,31 +1,37 @@
 ---
 title: Ci Siamo in New York City
-description: Ci Siamo is a modern Italian restaurant from Danny Meyer's Union Square Hospitality Group in Manhattan's Hudson Yards/Manhattan West area, best known for its Rigatoni Alla Gricia.
+description: >-
+  Ci Siamo is a modern Italian restaurant from Danny Meyer's Union Square
+  Hospitality Group in Manhattan's Hudson Yards/Manhattan West area, best known
+  for its Rigatoni Alla Gricia.
 country: United States
 region: New York
 category: restaurant
 pubDate: '2026-07-23'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ci_Siamo_NYC.jpg/1920px-Ci_Siamo_NYC.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ci_Siamo_NYC.jpg/1920px-Ci_Siamo_NYC.jpg
   credit: 'Photo: Transpoman / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Ci_Siamo_NYC.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Ci_Siamo_NYC.jpg'
 gallery:
-  - url: https://fastly.4sqi.net/img/general/original/119904289_WxH-9l-hMntPbhgOrzsNS3E00OAXS3BhLg6vI4wno40.jpg
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/119904289_WxH-9l-hMntPbhgOrzsNS3E00OAXS3BhLg6vI4wno40.jpg
     credit: 'Photo: Foursquare user content (Ci Siamo)'
     license: foursquare
-    source: https://foursquare.com/v/6143511ae2e30336c071a767
+    source: 'https://foursquare.com/v/6143511ae2e30336c071a767'
 place:
   id: ChIJ_ci7bvdZwokRsL4rlCOqsMk
   name: Ci Siamo
-  address: 440 W 33rd St Ste 100, New York, NY 10001, USA
+  address: '440 W 33rd St Ste 100, New York, NY 10001, USA'
   rating: 4.6
-  userRatingsTotal: 2368
-  googleMapsUrl: https://maps.google.com/?cid=14533303067311062704&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 2461
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14533303067311062704&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 40.7526152
   lng: -73.9989141
-  phone: '+1 212-219-6559'
+  phone: +1 212-219-6559
   openingHours:
     - 'Monday: 11:30 AM – 10:00 PM'
     - 'Tuesday: 11:30 AM – 10:00 PM'
@@ -34,23 +40,41 @@ place:
     - 'Friday: 11:30 AM – 10:00 PM'
     - 'Saturday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
     - 'Sunday: 11:30 AM – 3:00 PM, 4:30 – 10:00 PM'
+  priceLevel: 3
 tags:
   - new york
   - new & trending
-quickAnswer: Ci Siamo is a modern Italian restaurant from Danny Meyer's Union Square Hospitality Group in Manhattan's Hudson Yards/Manhattan West area, best known for its Rigatoni Alla Gricia. It topped Yelp's 2026 Top 100 Places to Eat in the U.S., so reservations are the single hardest part of the visit — book as far ahead as the platform allows and reconfirm hours before you go.
+quickAnswer: >-
+  Ci Siamo is a modern Italian restaurant from Danny Meyer's Union Square
+  Hospitality Group in Manhattan's Hudson Yards/Manhattan West area, best known
+  for its Rigatoni Alla Gricia. It topped Yelp's 2026 Top 100 Places to Eat in
+  the U.S., so reservations are the single hardest part of the visit — book as
+  far ahead as the platform allows and reconfirm hours before you go.
 faq:
   - q: How do I get a reservation at Ci Siamo?
-    a: Book through Resy as far in advance as the platform allows — since the Yelp No. 1 ranking, dinner slots fill quickly. Lunch reservations are generally easier to land than dinner.
+    a: >-
+      Book through Resy as far in advance as the platform allows — since the
+      Yelp No. 1 ranking, dinner slots fill quickly. Lunch reservations are
+      generally easier to land than dinner.
   - q: What's the closest subway station?
-    a: 34th St–Hudson Yards on the 7 line is the closest stop, with the A/C/E and 1/2/3 at 34th St–Penn Station also within walking distance.
+    a: >-
+      34th St–Hudson Yards on the 7 line is the closest stop, with the A/C/E and
+      1/2/3 at 34th St–Penn Station also within walking distance.
   - q: What should I order?
-    a: The Rigatoni Alla Gricia is the dish the restaurant is best known for and the one most reviewers cite as a must-try.
+    a: >-
+      The Rigatoni Alla Gricia is the dish the restaurant is best known for and
+      the one most reviewers cite as a must-try.
   - q: How much does dinner cost?
-    a: Exact pricing isn't listed here since menus and prices change; check the restaurant's official site or Resy listing shortly before your visit.
+    a: >-
+      Exact pricing isn't listed here since menus and prices change; check the
+      restaurant's official site or Resy listing shortly before your visit.
   - q: What else can I do nearby?
-    a: Combine your meal with a walk through Hudson Yards' retail and public plaza, or extend into the High Line, which runs just a few blocks away.
+    a: >-
+      Combine your meal with a walk through Hudson Yards' retail and public
+      plaza, or extend into the High Line, which runs just a few blocks away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-24'
 ---
 
 ## Why Ci Siamo Matters Right Now

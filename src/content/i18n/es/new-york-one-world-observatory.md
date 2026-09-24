@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: new-york-one-world-observatory
-srcHash: '271f02662e12'
+srcHash: '547bef4cb9cc'
 title: 'One World Observatory: Guía de viaje de Nueva York (4.7★)'
-description: One World Observatory se encuentra en los pisos 100-102 de One World Trade Center, en Lower Manhattan, al que se accede mediante un ascensor de alta velocidad que forma parte de la experiencia en sí. 4.7★ (26,074 reseñas) — lo que dicen los visitantes, horarios y consejos.
+description: One World Observatory se encuentra en los pisos 100-102 de One World Trade Center, en Lower Manhattan, al que se accede mediante un ascensor de alta velocidad que forma parte de la experiencia en sí. 4.7★ (26,316 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: One World Observatory se encuentra en los pisos 100-102 de One World Trade Center, en Lower Manhattan, al que se accede mediante un ascensor de alta velocidad que forma parte de la experiencia en sí. Compra las entradas con horario asignado en línea con antelación, procura ir durante la primera hora tras la apertura o la última hora antes del atardecer para encontrar las filas más cortas y la mejor luz, y reserva entre 1.5 y 2 horas para la visita completa.
 faq:
   - q: ¿Cómo llego a One World Observatory en metro?

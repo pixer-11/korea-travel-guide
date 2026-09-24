@@ -1,23 +1,29 @@
 ---
-title: "Chelsea Market: New York Travel Guide (4.6★)"
-description: Chelsea Market is a converted 19th-century biscuit factory on 9th Avenue in Manhattan, now a covered lane of food stalls, bakeries, and small shops that runs a full block between 15th and 16th Streets. 4.6★ (51,880 reviews) — what visitors say, hours, and tips.
+title: 'Chelsea Market: New York Travel Guide (4.6★)'
+description: >-
+  Chelsea Market is a converted 19th-century biscuit factory on 9th Avenue in
+  Manhattan, now a covered lane of food stalls, bakeries, and small shops that
+  runs a full block between 15th and 16th Streets. 4.6★ (52,242 reviews) — what
+  visitors say, hours, and tips.
 country: United States
 region: New York
 category: hidden-gem
-pubDate: "2026-08-05T11:05:33.083Z"
+pubDate: '2026-08-05T11:05:33.083Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Chelsea_Market_%2849052085186%29.jpg/1920px-Chelsea_Market_%2849052085186%29.jpg
-  credit: "Photo: Ajay Suresh from New York, NY, USA / Wikimedia Commons (CC BY 2.0)"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Chelsea_Market_%2849052085186%29.jpg/1920px-Chelsea_Market_%2849052085186%29.jpg
+  credit: 'Photo: Ajay Suresh from New York, NY, USA / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Chelsea_Market_(49052085186).jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Chelsea_Market_(49052085186).jpg'
 gallery: []
 place:
   id: ChIJw2lMFL9ZwokRosAtly52YX4
   name: Chelsea Market
-  address: 75 9th Ave, New York, NY 10011, USA
+  address: '75 9th Ave, New York, NY 10011, USA'
   rating: 4.6
-  userRatingsTotal: 51880
-  googleMapsUrl: https://maps.google.com/?cid=9106689863996784802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 52242
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9106689863996784802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 40.7424396
   lng: -74.0061439
@@ -53,30 +59,52 @@ place:
     venueId: ven_3458593235796c7441736f526b6f775a394c464d6c32774a496843
   phone: +1 212-652-2111
   openingHours:
-    - "Monday: 7:00 AM – 10:00 PM"
-    - "Tuesday: 7:00 AM – 10:00 PM"
-    - "Wednesday: 7:00 AM – 10:00 PM"
-    - "Thursday: 7:00 AM – 10:00 PM"
-    - "Friday: 7:00 AM – 10:00 PM"
-    - "Saturday: 7:00 AM – 10:00 PM"
-    - "Sunday: 7:00 AM – 10:00 PM"
+    - 'Monday: 7:00 AM – 10:00 PM'
+    - 'Tuesday: 7:00 AM – 10:00 PM'
+    - 'Wednesday: 7:00 AM – 10:00 PM'
+    - 'Thursday: 7:00 AM – 10:00 PM'
+    - 'Friday: 7:00 AM – 10:00 PM'
+    - 'Saturday: 7:00 AM – 10:00 PM'
+    - 'Sunday: 7:00 AM – 10:00 PM'
 tags:
   - new york
   - local market
-quickAnswer: Chelsea Market is a converted 19th-century biscuit factory on 9th Avenue in Manhattan, now a covered lane of food stalls, bakeries, and small shops that runs a full block between 15th and 16th Streets. It's open daily from 7am to 10pm, and the calmest time to wander is any morning before 1pm — weekends fill up hard from 1pm to 7pm, so beat that window or come after dinner instead. Budget an hour for grazing, two if you're pairing it with a High Line walk, which starts right outside.
+quickAnswer: >-
+  Chelsea Market is a converted 19th-century biscuit factory on 9th Avenue in
+  Manhattan, now a covered lane of food stalls, bakeries, and small shops that
+  runs a full block between 15th and 16th Streets. It's open daily from 7am to
+  10pm, and the calmest time to wander is any morning before 1pm — weekends fill
+  up hard from 1pm to 7pm, so beat that window or come after dinner instead.
+  Budget an hour for grazing, two if you're pairing it with a High Line walk,
+  which starts right outside.
 faq:
   - q: What are Chelsea Market's hours?
-    a: It's open daily from 7am to 10pm, with no difference between weekday and weekend hours — though individual vendors inside may close earlier.
+    a: >-
+      It's open daily from 7am to 10pm, with no difference between weekday and
+      weekend hours — though individual vendors inside may close earlier.
   - q: When is the quietest time to visit?
-    a: Mornings, any day of the week, before 1pm. Crowds build steadily after that, and weekends from 1pm to 7pm are the busiest window, so avoid arriving then if you want room to browse.
+    a: >-
+      Mornings, any day of the week, before 1pm. Crowds build steadily after
+      that, and weekends from 1pm to 7pm are the busiest window, so avoid
+      arriving then if you want room to browse.
   - q: How do I get to Chelsea Market by subway?
-    a: The A/C/E at 14th Street and the L train's 8th Avenue station are both about a 5-minute walk; take the 8th Avenue exit and head west and north. The 1 train's 18th Street stop also works.
+    a: >-
+      The A/C/E at 14th Street and the L train's 8th Avenue station are both
+      about a 5-minute walk; take the 8th Avenue exit and head west and north.
+      The 1 train's 18th Street stop also works.
   - q: How much time should I plan for a visit?
-    a: About an hour is enough to graze a few counters and browse the shops; plan for two if you're combining it with a walk on the High Line, which starts right across the street.
+    a: >-
+      About an hour is enough to graze a few counters and browse the shops; plan
+      for two if you're combining it with a walk on the High Line, which starts
+      right across the street.
   - q: Is Chelsea Market good for a sit-down meal or just snacks?
-    a: It's built for grazing rather than a single sit-down meal — most visitors stack small plates from two or three counters and eat at the shared communal tables in the corridor.
+    a: >-
+      It's built for grazing rather than a single sit-down meal — most visitors
+      stack small plates from two or three counters and eat at the shared
+      communal tables in the corridor.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-24'
 ---
 ## Why go
 

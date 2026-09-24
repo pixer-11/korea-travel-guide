@@ -1,55 +1,81 @@
 ---
-title: "Mayestik Market: Jakarta Travel Guide (4.5★)"
-description: "Mayestik Market is a 10-story indoor market in Kebayoran Baru, South Jakarta, known for fabric: batik, lace, brocade and plain cloth sold by the metre. 4.5★ (33,952 reviews) — what visitors say, hours, and tips."
-country: "Indonesia"
-region: "Jakarta"
-category: "hidden-gem"
-pubDate: "2026-09-24T07:37:08.222Z"
+title: 'Mayestik Market: Jakarta Travel Guide (4.5★)'
+description: >-
+  Mayestik Market is a 10-story indoor market in Kebayoran Baru, South Jakarta,
+  known for fabric: batik, lace, brocade and plain cloth sold by the metre. 4.5★
+  (33,951 reviews) — what visitors say, hours, and tips.
+country: Indonesia
+region: Jakarta
+category: hidden-gem
+pubDate: '2026-09-24T07:37:08.222Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pintu_Barat_Pasar_Mayestik.JPG/1920px-Pintu_Barat_Pasar_Mayestik.JPG"
-  credit: "Photo: Pasar Mayestik / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Pintu_Barat_Pasar_Mayestik.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pintu_Barat_Pasar_Mayestik.JPG/1920px-Pintu_Barat_Pasar_Mayestik.JPG
+  credit: 'Photo: Pasar Mayestik / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Pintu_Barat_Pasar_Mayestik.JPG'
   focus:
     x: 50
-    y: 30
+    'y': 30
 gallery: []
 place:
-  id: "ChIJK9HL5xTxaS4RBHseWHlf_g8"
-  name: "Mayestik Market"
-  address: "Jl. Tebah III No.3, RT.14/RW.3, Gunung, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12120, Indonesia"
+  id: ChIJK9HL5xTxaS4RBHseWHlf_g8
+  name: Mayestik Market
+  address: >-
+    Jl. Tebah III No.3, RT.14/RW.3, Gunung, Kec. Kby. Baru, Kota Jakarta
+    Selatan, Daerah Khusus Ibukota Jakarta 12120, Indonesia
   rating: 4.5
-  userRatingsTotal: 33952
-  googleMapsUrl: "https://maps.google.com/?cid=1152463529427499780&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 33951
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1152463529427499780&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -6.2409434
   lng: 106.79100059999999
-  phone: "+62 821-9799-7389"
+  phone: +62 821-9799-7389
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
 tags:
-  - "jakarta"
-  - "local market"
-quickAnswer: "Mayestik Market is a 10-story indoor market in Kebayoran Baru, South Jakarta, known for fabric: batik, lace, brocade and plain cloth sold by the metre. It opens every day from 9am to 6pm. Arrive in the morning so you have time to compare stalls and still get cloth to a tailor the same day."
+  - jakarta
+  - local market
+quickAnswer: >-
+  Mayestik Market is a 10-story indoor market in Kebayoran Baru, South Jakarta,
+  known for fabric: batik, lace, brocade and plain cloth sold by the metre. It
+  opens every day from 9am to 6pm. Arrive in the morning so you have time to
+  compare stalls and still get cloth to a tailor the same day.
 faq:
-  - q: "What are Mayestik Market's opening hours?"
-    a: "It opens every day, including weekends, from 9am to 6pm. Some stalls start packing up before closing, so arrive earlier in the day if you need time to compare fabrics."
-  - q: "How do I get to Mayestik Market?"
-    a: "It's on Jl. Tebah III in Kebayoran Baru, South Jakarta, just west of Blok M. Take the MRT to Blok M BCA, then a short Gojek or Grab ride. Search for \"Pasar Mayestik\" in the app."
-  - q: "What is Mayestik Market best for?"
-    a: "Fabric sold by the metre: batik, lace, brocade, plain cottons and uniform cloth, plus trims like buttons and lining. Most shoppers buy cloth there and have it made up by a tailor."
-  - q: "How long should I spend there?"
-    a: "Allow two to three hours to walk the floors, compare prices and buy trims. Add more time if you plan to brief a tailor the same day."
-  - q: "Can I bargain at Mayestik?"
-    a: "Yes, haggling is normal at many stalls, especially when you buy several metres. Keep it friendly, carry cash in small notes, and only bargain if you intend to buy."
+  - q: What are Mayestik Market's opening hours?
+    a: >-
+      It opens every day, including weekends, from 9am to 6pm. Some stalls start
+      packing up before closing, so arrive earlier in the day if you need time
+      to compare fabrics.
+  - q: How do I get to Mayestik Market?
+    a: >-
+      It's on Jl. Tebah III in Kebayoran Baru, South Jakarta, just west of Blok
+      M. Take the MRT to Blok M BCA, then a short Gojek or Grab ride. Search for
+      "Pasar Mayestik" in the app.
+  - q: What is Mayestik Market best for?
+    a: >-
+      Fabric sold by the metre: batik, lace, brocade, plain cottons and uniform
+      cloth, plus trims like buttons and lining. Most shoppers buy cloth there
+      and have it made up by a tailor.
+  - q: How long should I spend there?
+    a: >-
+      Allow two to three hours to walk the floors, compare prices and buy trims.
+      Add more time if you plan to brief a tailor the same day.
+  - q: Can I bargain at Mayestik?
+    a: >-
+      Yes, haggling is normal at many stalls, especially when you buy several
+      metres. Keep it friendly, carry cash in small notes, and only bargain if
+      you intend to buy.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-24'
 ---
 
 ## Ten floors of cloth

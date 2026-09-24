@@ -1,35 +1,43 @@
 ---
-title: "Ocean Prime: Where to Eat in New York (4.6★)"
-description: Ocean Prime on West 52nd Street is a polished steak-and-seafood dining room a few steps from Sixth Avenue, best tackled at lunch on a weekday between 11:30am and noon when the room is nearly empty, or on a weekend after 4pm before the 5–9pm dinner rush hits. 4.6★ (2,638 reviews) — what visitors say, hours, and tips.
+title: 'Ocean Prime: Where to Eat in New York (4.6★)'
+description: >-
+  Ocean Prime on West 52nd Street is a polished steak-and-seafood dining room a
+  few steps from Sixth Avenue, best tackled at lunch on a weekday between
+  11:30am and noon when the room is nearly empty, or on a weekend after 4pm
+  before the 5–9pm dinner rush hits. 4.6★ (2,657 reviews) — what visitors say,
+  hours, and tips.
 country: United States
 region: New York
 category: restaurant
-pubDate: "2026-08-06T10:05:23.193Z"
+pubDate: '2026-08-06T10:05:23.193Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ocean_Prime_Phoenix_%2833119074285%29.jpg/1920px-Ocean_Prime_Phoenix_%2833119074285%29.jpg
-  credit: "Photo: Lauren Topor from Phoenix / Wikimedia Commons (CC BY 2.0)"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ocean_Prime_Phoenix_%2833119074285%29.jpg/1920px-Ocean_Prime_Phoenix_%2833119074285%29.jpg
+  credit: 'Photo: Lauren Topor from Phoenix / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Ocean_Prime_Phoenix_(33119074285).jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Ocean_Prime_Phoenix_(33119074285).jpg
 gallery: []
 place:
   id: ChIJE8UCHflYwokRYNnt69kYmrQ
   name: Ocean Prime
-  address: 123 W 52nd St, New York, NY 10019, USA
+  address: '123 W 52nd St, New York, NY 10019, USA'
   rating: 4.6
-  userRatingsTotal: 2638
-  googleMapsUrl: https://maps.google.com/?cid=13013741397485672800&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 2657
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13013741397485672800&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 40.761729599999995
   lng: -73.9806295
   phone: +1 212-956-1404
   openingHours:
-    - "Monday: 11:30 AM – 10:00 PM"
-    - "Tuesday: 11:30 AM – 10:00 PM"
-    - "Wednesday: 11:30 AM – 10:00 PM"
-    - "Thursday: 11:30 AM – 10:00 PM"
-    - "Friday: 11:30 AM – 10:00 PM"
-    - "Saturday: 4:00 – 10:00 PM"
-    - "Sunday: 4:00 – 9:00 PM"
+    - 'Monday: 11:30 AM – 10:00 PM'
+    - 'Tuesday: 11:30 AM – 10:00 PM'
+    - 'Wednesday: 11:30 AM – 10:00 PM'
+    - 'Thursday: 11:30 AM – 10:00 PM'
+    - 'Friday: 11:30 AM – 10:00 PM'
+    - 'Saturday: 4:00 – 10:00 PM'
+    - 'Sunday: 4:00 – 9:00 PM'
   busyness:
     updated: 2026-08-06T00:00:00.000Z
     weekdayBusy:
@@ -45,23 +53,45 @@ place:
       - 19
       - 20
     venueId: ven_51726d596b3936746e4e59526b6f77596c6648435538454a496843
+  priceLevel: 4
 tags:
   - new york
   - seafood
-quickAnswer: Ocean Prime on West 52nd Street is a polished steak-and-seafood dining room a few steps from Sixth Avenue, best tackled at lunch on a weekday between 11:30am and noon when the room is nearly empty, or on a weekend after 4pm before the 5–9pm dinner rush hits. It's a splurge — think prime steaks, chilled shellfish towers, and a deep wine list — so book ahead, especially for Friday and Saturday dinner.
+quickAnswer: >-
+  Ocean Prime on West 52nd Street is a polished steak-and-seafood dining room a
+  few steps from Sixth Avenue, best tackled at lunch on a weekday between
+  11:30am and noon when the room is nearly empty, or on a weekend after 4pm
+  before the 5–9pm dinner rush hits. It's a splurge — think prime steaks,
+  chilled shellfish towers, and a deep wine list — so book ahead, especially for
+  Friday and Saturday dinner.
 faq:
   - q: Do I need a reservation at Ocean Prime?
-    a: Not strictly, but it's strongly recommended, especially for weekend dinner between 5–9pm when the room is busiest. Weekday lunch is far easier to walk into.
+    a: >-
+      Not strictly, but it's strongly recommended, especially for weekend dinner
+      between 5–9pm when the room is busiest. Weekday lunch is far easier to
+      walk into.
   - q: What's the quietest time to visit?
-    a: Weekdays between 11:30am and noon, right after the 11:30am opening, is the calmest window. On weekends, going right at the 4pm opening beats the 5–9pm rush.
+    a: >-
+      Weekdays between 11:30am and noon, right after the 11:30am opening, is the
+      calmest window. On weekends, going right at the 4pm opening beats the
+      5–9pm rush.
   - q: How do I get there by subway?
-    a: Take the 1 train to 50th Street — it's about a two-minute walk. The B/D/E at 7th Ave–53rd St and N/Q/R/W at 49th Street are also close, roughly five to six minutes on foot.
+    a: >-
+      Take the 1 train to 50th Street — it's about a two-minute walk. The B/D/E
+      at 7th Ave–53rd St and N/Q/R/W at 49th Street are also close, roughly five
+      to six minutes on foot.
   - q: Is it expensive?
-    a: Yes — it's an upscale steak-and-seafood restaurant with prices to match (think premium cuts, raw bar towers, and a deep wine list), so budget for a special-occasion price point rather than a casual meal.
+    a: >-
+      Yes — it's an upscale steak-and-seafood restaurant with prices to match
+      (think premium cuts, raw bar towers, and a deep wine list), so budget for
+      a special-occasion price point rather than a casual meal.
   - q: What are the hours?
-    a: Monday–Friday it's open 11:30am–10pm for lunch and dinner. Saturday it's dinner-only, 4pm–10pm, and Sunday 4pm–9pm.
+    a: >-
+      Monday–Friday it's open 11:30am–10pm for lunch and dinner. Saturday it's
+      dinner-only, 4pm–10pm, and Sunday 4pm–9pm.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-24'
 ---
 ## First impressions
 

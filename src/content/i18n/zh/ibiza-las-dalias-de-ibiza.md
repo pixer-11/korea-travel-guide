@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: ibiza-las-dalias-de-ibiza
-srcHash: '46036ae356e3'
+srcHash: '3d20b2e0664e'
 title: 伊比萨拉斯达利亚市集旅行指南（4.2★）
-description: 拉斯达利亚（Las Dalias de Ibiza）是位于伊比萨岛东北部、圣卡尔斯德佩拉尔塔（Sant Carles de Peralta）路上12公里处的一处嬉皮手工艺市集。4.2★（12,947条评价）——看看游客怎么说、开放时间与实用贴士。
+description: 拉斯达利亚（Las Dalias de Ibiza）是位于伊比萨岛东北部、圣卡尔斯德佩拉尔塔（Sant Carles de Peralta）路上12公里处的一处嬉皮手工艺市集。4.2★（12,949条评价）——看看游客怎么说、开放时间与实用贴士。
 quickAnswer: 拉斯达利亚是位于伊比萨岛东北部、通往圣卡尔斯德佩拉尔塔道路12公里处的一处嬉皮手工艺市集。摊位上出售手工皂、首饰和服装，周边还有美食摊和DJ音乐，周六是传统的赶集日。这里人气很旺，最好早点到，预留两个小时游览时间，出发前记得查一下官网的最新时间安排，看看夏季是否有夜市。
 faq:
   - q: 拉斯达利亚市集到底在哪里？

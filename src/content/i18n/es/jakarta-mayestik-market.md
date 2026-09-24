@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: jakarta-mayestik-market
-srcHash: '844e86ab0543'
+srcHash: 'fd4055b7811f'
 title: 'Mercado Mayestik: Guía de viaje de Yakarta (4,5★)'
-description: 'El Mercado Mayestik es un mercado interior de 10 plantas en Kebayoran Baru, en el sur de Yakarta, célebre por sus telas: batik, encaje, brocado y tejido liso vendido por metro. 4,5★ (33.952 opiniones): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Mercado Mayestik es un mercado interior de 10 plantas en Kebayoran Baru, en el sur de Yakarta, célebre por sus telas: batik, encaje, brocado y tejido liso vendido por metro. 4,5★ (33.951 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Mercado Mayestik es un mercado interior de 10 plantas en Kebayoran Baru, en el sur de Yakarta, célebre por sus telas: batik, encaje, brocado y tejido liso vendido por metro. Abre todos los días de 9:00 a 18:00. Conviene llegar por la mañana para tener tiempo de comparar puestos y aun así poder llevar la tela a un sastre ese mismo día.'
 faq:
   - q: ¿Cuál es el horario del Mercado Mayestik?

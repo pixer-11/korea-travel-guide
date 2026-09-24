@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: jeju-dongmun-traditional-market
-srcHash: '51c9f5cfde56'
+srcHash: '0dd2081de5e3'
 title: 'Mercado tradicional de Dongmun: guía de viaje de Jeju (4,1★)'
-description: 'El mercado tradicional de Dongmun es el mercado permanente más antiguo de la ciudad de Jeju, a pocas calles tierra adentro desde el antiguo puerto. 4,1★ (35.694 reseñas): lo que opinan los visitantes, horarios y consejos.'
+description: 'El mercado tradicional de Dongmun es el mercado permanente más antiguo de la ciudad de Jeju, a pocas calles tierra adentro desde el antiguo puerto. 4,1★ (35.695 reseñas): lo que opinan los visitantes, horarios y consejos.'
 quickAnswer: El mercado tradicional de Dongmun es el mercado permanente más antiguo de la ciudad de Jeju, situado a pocas calles tierra adentro desde el antiguo puerto. Merece la pena ir por las mandarinas de Jeju, el pez sable y el tilefish, y por el sashimi para llevar. Abre todos los días de 8:00 a 21:00, así que conviene ir por la tarde si se busca los puestos de comida del mercado nocturno, y por la mañana si se quiere comprar pescado.
 faq:
   - q: ¿Cuál es el horario del mercado de Dongmun?
