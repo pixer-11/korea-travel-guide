@@ -10,7 +10,6 @@ eventEndDate: '2026-11-15'
 eventRecurring: true
 eventVenue: Meydan Racecourse
 eventFactsAsked: true
-gallery: []
 tags:
   - dubai
   - event
@@ -28,6 +27,14 @@ faq:
     a: Meydan Racecourse is a short drive from Downtown Dubai and Business Bay, so you can pair a festival day with sightseeing in either area.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Meydan_dubai.jpg/3840px-Meydan_dubai.jpg
+  credit: 'Photo: Sakena / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Meydan_dubai.jpg
+  focus:
+    x: 50
+    'y': 40
 ---
 
 ## What Well B Festival is

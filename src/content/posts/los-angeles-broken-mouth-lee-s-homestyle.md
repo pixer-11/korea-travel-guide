@@ -5,7 +5,6 @@ country: United States
 region: Los Angeles
 category: hidden-gem
 pubDate: '2026-09-23'
-gallery: []
 tags:
   - los angeles
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Is there seating right at the stall?
     a: No, like most food-court counters it shares communal seating with other vendors in the building rather than having its own dining area.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/40795089_KA5G68aLVpyNLmfZhSD6--QWG_Q98-fn14MflzRZvjk.jpg
+  credit: 'Photo: Foursquare user content (BROKEN MOUTH | Lee''s Homestyle)'
+  license: foursquare
+  source: https://foursquare.com/v/59dcf53b72475045640aaee6
+  focus:
+    x: 50
+    'y': 25
 ---
 
 You find Broken Mouth by following the smell of garlic and soy through a Downtown LA food court, past stalls selling a dozen other things, to a counter with a line that's usually longer than its neighbors'. That line is the tell. Tim Lee's stall has gone from a food-court afterthought to a name people drive across the city for.

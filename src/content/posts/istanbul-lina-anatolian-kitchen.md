@@ -5,7 +5,6 @@ country: Turkey
 region: Istanbul
 category: trendy
 pubDate: '2026-09-23'
-gallery: []
 tags:
   - istanbul
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What else is nearby if I arrive early or stay after?
     a: Karaköy's streets around the hotel have specialty coffee roasters and design shops worth a walk before dinner, and the Galata Bridge and Karaköy/Eminönü ferry terminals are close by for a post-dinner stroll along the water.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/1402308174_fatflempGIfGkZKPOUiYDWKQiZ8hYi8LrPG-YptPYEA.jpg
+  credit: 'Photo: Foursquare user content (Sa Va Anatolian Breakfast House)'
+  license: foursquare
+  source: https://foursquare.com/v/608327d030d4f65bd31bd8a0
+  focus:
+    x: 50
+    'y': 50
 ---
 
 Karaköy sits right where the Golden Horn meets the Bosphorus, a former port district now packed with galleries, design shops and a new wave of hotel rooftops competing for the same water view. Lina Anatolian Kitchen, on top of The Maestro Hotel, is one of the newer entries in that competition, and in 2026 it's become one of the names people actually mention first.

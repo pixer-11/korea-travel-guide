@@ -13,7 +13,6 @@ eventPerformer:
   name: Khalid
   kind: person
 eventFactsAsked: true
-gallery: []
 tags:
   - paris
   - event
@@ -31,6 +30,14 @@ faq:
     a: Parc Monceau is a short walk away and worth a visit before the show since it closes at dusk; the Musée Jacquemart-André is also close by for an afternoon stop.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Paris-Salle_Pleyel_P1260667.jpg/3840px-Paris-Salle_Pleyel_P1260667.jpg
+  credit: 'Photo: Ermell / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Paris-Salle_Pleyel_P1260667.jpg
+  focus:
+    x: 50
+    'y': 60
 ---
 
 Khalid's tour is called It's Always Summer Somewhere, and the Paris stop lands at Salle Pleyel on October 18, 2026. That title is a deliberate contrast to the room he's playing: Salle Pleyel is one of the city's grand old concert halls, not a beach.

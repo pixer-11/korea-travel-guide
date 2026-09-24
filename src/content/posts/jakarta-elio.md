@@ -5,7 +5,6 @@ country: Indonesia
 region: Jakarta
 category: restaurant
 pubDate: '2026-09-23'
-gallery: []
 tags:
   - jakarta
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: How is Elio different from other Mediterranean restaurants in Jakarta?
     a: Most Mediterranean restaurants in the city stick to one country's cuisine, Italian or Lebanese for instance. Elio spans Greek, Southern Italian, Spanish-Portuguese and Middle Eastern dishes on one menu, which is part of why it's drawing attention.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/5077236_jbhu-g5guzXjuKfMXPdNwlEj1TynEBTxDbJYTlU7duU.jpg
+  credit: 'Photo: Foursquare user content (Elio)'
+  license: foursquare
+  source: https://foursquare.com/v/6aa403664c7c3c0d473d7b1a
+  focus:
+    x: 50
+    'y': 45
 ---
 
 Plaza Senayan is one of Jakarta's older upscale malls, the kind of place with marble floors and a roster of tenants that's shifted over decades, so a restaurant here generating this much conversation is worth noticing. Elio is what's doing it right now. It's built around a coastal Mediterranean idea, but not one country's coast: the menu pulls from Greece, Southern Italy, Spain, Portugal and the Middle East at once, which is a wider net than most "Mediterranean" restaurants in this city usually cast.

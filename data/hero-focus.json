@@ -5520,5 +5520,69 @@
    "x": 50,
    "y": 50
   }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Seonghyeon-ro%2C_Ilsandong-gu%2C_Goyang-si%2C_Gyeonggi-do%2C_South_Korea_-_panoramio.jpg/1280px-Seonghyeon-ro%2C_Ilsandong-gu%2C_Goyang-si%2C_Gyeonggi-do%2C_South_Korea_-_panoramio.jpg": {
+  "w": 1280,
+  "h": 960,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sunset_over_Hanoi_After_the_Rain.jpg/3840px-Sunset_over_Hanoi_After_the_Rain.jpg": {
+  "w": 3840,
+  "h": 1307,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Adarga_%28Nymphaea_alba%29%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.jpg/3840px-Adarga_%28Nymphaea_alba%29%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.jpg": {
+  "w": 3840,
+  "h": 3316,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Paris_-_Eiffelturm_und_Marsfeld2.jpg/3840px-Paris_-_Eiffelturm_und_Marsfeld2.jpg": {
+  "w": 3840,
+  "h": 3953,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/1/17/Paris_mairie_XIX.jpg": {
+  "w": 2409,
+  "h": 1984,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Preah_Tineang_Phhochani_%2814%29.jpg/3840px-2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Preah_Tineang_Phhochani_%2814%29.jpg": {
+  "w": 3840,
+  "h": 2868,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/e/e0/Phu_Quoc_Ridgeback.jpg": {
+  "w": 500,
+  "h": 370,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg/3840px-Gyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg": {
+  "w": 3840,
+  "h": 2287,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
  }
 }

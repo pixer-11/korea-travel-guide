@@ -5,7 +5,6 @@ country: Spain
 region: Barcelona
 category: restaurant
 pubDate: '2026-09-23'
-gallery: []
 tags:
   - barcelona
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What's nearby if I want to make an evening of it?
     a: Carrer de Muntaner sits within easy walking distance of Sant Gervasi and the wider Eixample, a district known for modernist architecture and a dense concentration of restaurants and bars, so it's easy to pair dinner with a walk before or after.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/465613960_kdcR8euhQNazUcWgxyLsxV9cc94wqTyEiWwTvfEBpwg.jpg
+  credit: 'Photo: Foursquare user content (Chambacú)'
+  license: foursquare
+  source: https://foursquare.com/v/692b6ba28ecc1d1f461a43ce
+  focus:
+    x: 40
+    'y': 55
 ---
 
 ## What Chambacú actually is

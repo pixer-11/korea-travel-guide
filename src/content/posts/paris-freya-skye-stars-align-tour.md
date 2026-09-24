@@ -1,6 +1,8 @@
 ---
 title: 'Freya Skye - Stars Align Tour: Dates, Tickets & Venue (Paris)'
-description: Freya Skye - Stars Align Tour in Paris, France — November 13, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Freya Skye - Stars Align Tour in Paris, France — November 13, 2026. What it
+  is, when and where, and how to plan around it.
 country: France
 region: Paris
 category: event
@@ -10,37 +12,53 @@ eventEndDate: '2026-11-13'
 eventRecurring: false
 eventVenue: Salle Pleyel
 eventOffers:
-  url: https://www.sallepleyel.com/evenement/freya-skye/
+  url: 'https://www.sallepleyel.com/evenement/freya-skye/'
 eventPerformer:
   name: Freya Skye
   kind: person
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/7/78/Freya_Skye_on_EurWeb.jpg
-  credit: 'Photo: EURweb / Wikimedia Commons (CC BY-SA 3.0)'
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Paris_-_Eiffelturm_und_Marsfeld2.jpg/3840px-Paris_-_Eiffelturm_und_Marsfeld2.jpg'
+  credit: 'Photo: Wladyslaw (Taxiarchos228) / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Freya_Skye_on_EurWeb.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Paris_-_Eiffelturm_und_Marsfeld2.jpg'
   focus:
-    x: 47
-    'y': 19
-    top: 6
-    bottom: 32
+    x: 50
+    y: 40
 gallery: []
 tags:
   - paris
   - event
-quickAnswer: Freya Skye brings the Stars Align Tour to Paris on November 13, 2026, playing Salle Pleyel in the 8th arrondissement as her first French date of the run. It's a seated concert hall rather than an arena, so expect a more intimate show than her festival sets. Confirm timing and tickets on the official site before you plan travel or accommodation around the date.
+quickAnswer: >-
+  Freya Skye brings the Stars Align Tour to Paris on November 13, 2026, playing
+  Salle Pleyel in the 8th arrondissement as her first French date of the run.
+  It's a seated concert hall rather than an arena, so expect a more intimate
+  show than her festival sets. Confirm timing and tickets on the official site
+  before you plan travel or accommodation around the date.
 faq:
   - q: When does Freya Skye play Paris on the Stars Align Tour?
-    a: November 13, 2026, at Salle Pleyel in the 8th arrondissement, her first French date of the tour.
+    a: >-
+      November 13, 2026, at Salle Pleyel in the 8th arrondissement, her first
+      French date of the tour.
   - q: How do I get to Salle Pleyel?
-    a: Take Metro Line 2 to Ternes or Courcelles, or Lines 9/13 to Miromesnil; all are within easy walking distance of the venue on Rue du Faubourg Saint-Honoré.
+    a: >-
+      Take Metro Line 2 to Ternes or Courcelles, or Lines 9/13 to Miromesnil;
+      all are within easy walking distance of the venue on Rue du Faubourg
+      Saint-Honoré.
   - q: Where can I buy tickets or check the exact schedule?
-    a: Confirm timing and tickets on the official Salle Pleyel site or Freya Skye's official tour page rather than relying on secondary listings.
+    a: >-
+      Confirm timing and tickets on the official Salle Pleyel site or Freya
+      Skye's official tour page rather than relying on secondary listings.
   - q: Is Salle Pleyel a seated venue?
-    a: Yes, it's a seated concert hall built in the 1920s for orchestral acoustics, so expect assigned seating and a more formal house style than an arena pop show.
+    a: >-
+      Yes, it's a seated concert hall built in the 1920s for orchestral
+      acoustics, so expect assigned seating and a more formal house style than
+      an arena pop show.
   - q: What's nearby for dinner before the show?
-    a: Rue de Lévis market street, a short walk north, has bakeries, cheese shops and bistros suited to an early dinner; the area is quieter for late-night eating after the show.
+    a: >-
+      Rue de Lévis market street, a short walk north, has bakeries, cheese shops
+      and bistros suited to an early dinner; the area is quieter for late-night
+      eating after the show.
 aiGenerated: true
 draft: false
 ---

@@ -13,6 +13,14 @@ eventPerformer:
   name: Khalid
   kind: person
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Seonghyeon-ro%2C_Ilsandong-gu%2C_Goyang-si%2C_Gyeonggi-do%2C_South_Korea_-_panoramio.jpg/1280px-Seonghyeon-ro%2C_Ilsandong-gu%2C_Goyang-si%2C_Gyeonggi-do%2C_South_Korea_-_panoramio.jpg'
+  credit: 'Photo: rajapaksha87@yahoo.c… (CC BY 3.0)'
+  license: wikimedia
+  source: 'File:Seonghyeon-ro, Ilsandong-gu, Goyang-si, Gyeonggi-do, South Korea - panoramio.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - goyang-si

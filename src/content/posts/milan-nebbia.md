@@ -5,7 +5,6 @@ country: Italy
 region: Milan
 category: hidden-gem
 pubDate: '2026-09-23'
-gallery: []
 tags:
   - milan
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What else is nearby?
     a: The Naviglio Grande itself, lined with galleries and vintage shops, is a short walk away, and the last Sunday of the month brings the Navigli antiques market to the same stretch.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/360472768_gsahcuUVjY-ZYzaBwP-lumGm0W7LExn0Y5JApAfflM0.jpg
+  credit: 'Photo: Foursquare user content (Nebbia)'
+  license: foursquare
+  source: https://foursquare.com/v/5c390d650a08ab002c0b61dd
+  focus:
+    x: 50
+    'y': 55
 ---
 
 Walk two or three streets back from the Naviglio Grande and the crowds thin out fast. Nebbia sits in one of those quieter side streets, close enough to the canal district to reach on foot but far enough that you're not competing with the aperitivo lines for a table.

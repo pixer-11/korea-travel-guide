@@ -10,6 +10,14 @@ eventEndDate: '2026-12-12'
 eventRecurring: false
 eventVenue: Thống Nhất Stadium
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Adarga_%28Nymphaea_alba%29%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.jpg/3840px-Adarga_%28Nymphaea_alba%29%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.jpg'
+  credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Adarga_(Nymphaea_alba),_Ciudad_Ho_Chi_Minh,_Vietnam,_2013-08-14,_DD_01.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - ho chi minh city

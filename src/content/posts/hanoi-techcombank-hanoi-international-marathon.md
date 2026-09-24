@@ -12,6 +12,14 @@ eventVenue: Hanoi Old Quarter
 eventOffers:
   url: https://marathonhn.com/en/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sunset_over_Hanoi_After_the_Rain.jpg/3840px-Sunset_over_Hanoi_After_the_Rain.jpg'
+  credit: 'Photo: Christopher Crouzet / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Sunset_over_Hanoi_After_the_Rain.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - hanoi

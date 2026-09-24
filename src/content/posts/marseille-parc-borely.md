@@ -1,44 +1,39 @@
 ---
-title: "Parc Borély: Marseille Travel Guide (4.5★)"
-description: "Parc Borély sits south of the city center in Marseille's 8th arrondissement, between the Prado beaches and the Huveaune river, and it's free to enter daily from 6:30am to 9pm. 4.5★ (14,209 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Marseille"
-category: "attraction"
-pubDate: "2026-09-19T07:51:03.746Z"
+title: 'Parc Borély: Marseille Travel Guide (4.5★)'
+description: Parc Borély sits south of the city center in Marseille's 8th arrondissement, between the Prado beaches and the Huveaune river, and it's free to enter daily from 6:30am to 9pm. 4.5★ (14,209 reviews) — what visitors say, hours, and tips.
+country: France
+region: Marseille
+category: attraction
+pubDate: '2026-09-19T07:51:03.746Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ch%C3%A2teau_Bor%C3%A9ly.JPG"
-  credit: "Photo: JohnLuke / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Bor%C3%A9ly.JPG"
+  url: https://fastly.4sqi.net/img/general/original/42252242_QrIaTQvoiSlLqovs_iLbhba_M20babme7nbdccStaNM.jpg
+  credit: 'Photo: Foursquare user content (Parc Borély)'
+  license: foursquare
+  source: https://foursquare.com/v/4ba62366f964a5203f3639e3
   focus:
     x: 50
-    y: 45
-gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/42252242_QrIaTQvoiSlLqovs_iLbhba_M20babme7nbdccStaNM.jpg"
-    credit: "Photo: Foursquare user content (Parc Borély)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4ba62366f964a5203f3639e3"
+    'y': 60
 place:
-  id: "ChIJK9u8AWnHyRIR1NMVwyL4ytM"
-  name: "Parc Borély"
-  address: "Av. du Parc Borély, 13008 Marseille, France"
+  id: ChIJK9u8AWnHyRIR1NMVwyL4ytM
+  name: Parc Borély
+  address: Av. du Parc Borély, 13008 Marseille, France
   rating: 4.5
   userRatingsTotal: 14209
-  googleMapsUrl: "https://maps.google.com/?cid=15261283115483911124&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=15261283115483911124&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.260334
   lng: 5.3823007
-  phone: "+33 4 91 55 25 51"
+  phone: +33 4 91 55 25 51
   openingHours:
-    - "Monday: 6:30 AM – 9:00 PM"
-    - "Tuesday: 6:30 AM – 9:00 PM"
-    - "Wednesday: 6:30 AM – 9:00 PM"
-    - "Thursday: 6:30 AM – 9:00 PM"
-    - "Friday: 6:30 AM – 9:00 PM"
-    - "Saturday: 6:30 AM – 9:00 PM"
-    - "Sunday: 6:30 AM – 9:00 PM"
+    - 'Monday: 6:30 AM – 9:00 PM'
+    - 'Tuesday: 6:30 AM – 9:00 PM'
+    - 'Wednesday: 6:30 AM – 9:00 PM'
+    - 'Thursday: 6:30 AM – 9:00 PM'
+    - 'Friday: 6:30 AM – 9:00 PM'
+    - 'Saturday: 6:30 AM – 9:00 PM'
+    - 'Sunday: 6:30 AM – 9:00 PM'
   busyness:
-    updated: 2026-09-19
+    updated: 2026-09-19T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -56,24 +51,24 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_4d7479344c7977564d4e3152495279486e57413875394b4a496843"
+    venueId: ven_4d7479344c7977564d4e3152495279486e57413875394b4a496843
 tags:
-  - "marseille"
-  - "park"
-quickAnswer: "Parc Borély sits south of the city center in Marseille's 8th arrondissement, between the Prado beaches and the Huveaune river, and it's free to enter daily from 6:30am to 9pm. Come for the 18th-century château, the formal French garden with its rose beds and fountains, and the lake where you can rent a rowboat. It's very popular on weekends, so aim for 7am to 9am if you want the paths to yourself."
+  - marseille
+  - park
+quickAnswer: Parc Borély sits south of the city center in Marseille's 8th arrondissement, between the Prado beaches and the Huveaune river, and it's free to enter daily from 6:30am to 9pm. Come for the 18th-century château, the formal French garden with its rose beds and fountains, and the lake where you can rent a rowboat. It's very popular on weekends, so aim for 7am to 9am if you want the paths to yourself.
 faq:
-  - q: "Is Parc Borély free to visit?"
-    a: "Yes, entry to the park grounds, gardens and château exterior is free. Only extras like boat rentals on the lake cost money."
-  - q: "What are the opening hours?"
-    a: "The park is open daily from 6:30am to 9pm, with no difference between weekdays and weekends."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings between 7am and 10am are calmest. On weekends the quiet window is shorter, roughly 7am to 9am, before crowds build from 10am onward."
-  - q: "How do I get to Parc Borély without a car?"
-    a: "Tram line 3 and several bus routes stop near the park, and the Rond-Point du Prado stop links to Marseille's metro if you're coming from the city center."
-  - q: "How long should I plan for a visit?"
-    a: "A relaxed loop through the formal garden, the lake and the botanical garden takes about 90 minutes; add more if you rent a boat or stop at the lakeside café."
-  - q: "What else is nearby?"
-    a: "The Prado beaches are a short walk away, making it easy to pair a morning in the park with an afternoon at the sea."
+  - q: Is Parc Borély free to visit?
+    a: Yes, entry to the park grounds, gardens and château exterior is free. Only extras like boat rentals on the lake cost money.
+  - q: What are the opening hours?
+    a: The park is open daily from 6:30am to 9pm, with no difference between weekdays and weekends.
+  - q: When is the quietest time to visit?
+    a: Weekday mornings between 7am and 10am are calmest. On weekends the quiet window is shorter, roughly 7am to 9am, before crowds build from 10am onward.
+  - q: How do I get to Parc Borély without a car?
+    a: Tram line 3 and several bus routes stop near the park, and the Rond-Point du Prado stop links to Marseille's metro if you're coming from the city center.
+  - q: How long should I plan for a visit?
+    a: A relaxed loop through the formal garden, the lake and the botanical garden takes about 90 minutes; add more if you rent a boat or stop at the lakeside café.
+  - q: What else is nearby?
+    a: The Prado beaches are a short walk away, making it easy to pair a morning in the park with an afternoon at the sea.
 aiGenerated: true
 draft: false
 ---

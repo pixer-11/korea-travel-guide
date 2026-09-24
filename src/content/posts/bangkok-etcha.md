@@ -5,7 +5,6 @@ country: Thailand
 region: Bangkok
 category: restaurant
 pubDate: '2026-09-23'
-gallery: []
 tags:
   - bangkok
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What's nearby if I want to make an evening of it?
     a: The restaurant's Thonburi riverside setting puts you near the Chao Phraya's evening boat traffic and away from the Sukhumvit crowds, so pair it with a slow river-view stroll or a post-dinner drink at the hotel before heading back across.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/19173375_mavvDl162txgAY1SBcdxupDrDzmElMAeFMnVtHcY4M4.jpg
+  credit: 'Photo: Foursquare user content (etcha)'
+  license: foursquare
+  source: https://foursquare.com/v/6788724f2f15ba221606f5f3
+  focus:
+    x: 50
+    'y': 55
 ---
 
 You don't stumble onto Etcha the way you stumble onto a street-food stall. It sits seven floors up inside the Chatrium Grand Bangkok, a hotel tower on the Thonburi side of the Chao Phraya, which means the approach itself is part of the experience: elevator, corridor, then a dining room with the river doing its slow brown churn below.

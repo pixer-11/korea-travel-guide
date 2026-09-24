@@ -5,7 +5,6 @@ country: Turkey
 region: Istanbul
 category: trendy
 pubDate: '2026-09-23'
-gallery: []
 tags:
   - istanbul
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What else is nearby worth combining with a visit?
     a: Bağdat Caddesi, Suadiye's long shopping avenue, is right there for a pre-dinner walk, and Kadıköy's ferry terminal and market streets are a short ride away if you're making a full evening of it.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/13457584_jMUplQKTWxxIPJURQIQgY6-Zr5otrdYC7jXJu5gzi_o.jpg
+  credit: 'Photo: Foursquare user content (Little Pika)'
+  license: foursquare
+  source: https://foursquare.com/v/69dfa4aefd442c1861724efc
+  focus:
+    x: 30
+    'y': 70
 ---
 
 ## What Little Pika actually is

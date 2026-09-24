@@ -10,6 +10,14 @@ eventEndDate: '2026-11-01'
 eventRecurring: true
 eventVenue: Paris Expo Porte de Versailles
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/1/17/Paris_mairie_XIX.jpg'
+  credit: 'Photo: Velvet / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Paris_mairie_XIX.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - paris

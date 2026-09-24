@@ -5,7 +5,6 @@ country: United States
 region: Washington
 category: trendy
 pubDate: '2026-09-23'
-gallery: []
 tags:
   - washington
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Is the food a full menu or more of a wine-pairing snack list?
     a: Exact menu details weren't available, but given the chef-driven, wine-first concept, expect food designed to complement the wine list. Check the current menu directly before visiting.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/34600809_HaizN0C7jgTfQoEN4RXh2WrV7n3Pn2c9QiZ3A_Gjmt0.jpg
+  credit: 'Photo: Foursquare user content (Maison Bar à Vins)'
+  license: foursquare
+  source: https://foursquare.com/v/68be3b9c114d753053e7aded
+  focus:
+    x: 45
+    'y': 55
 ---
 
 Adams Morgan is known for late-night bars spilling onto 18th Street, not for wine lists a thousand bottles deep. Maison Bar à Vins sits slightly apart from that scene, inside a three-story brownstone that predates the neighborhood's rowdier reputation by a century or more. Walking in feels less like entering a bar crawl stop and more like showing up at a friend's very well-stocked townhouse.

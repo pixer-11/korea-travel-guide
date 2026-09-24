@@ -5,7 +5,6 @@ country: Taiwan
 region: Taipei
 category: restaurant
 pubDate: '2026-09-23'
-gallery: []
 tags:
   - taipei
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What else can I do nearby if I can't get a table?
     a: The Taiwan Literature Base is a short walk away and makes for a worthwhile visit on its own, along with the surrounding low-rise lanes near Qidong Street.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/19331_Lkdeuj_dn6O0ZdmUcZI7JNPCr0VIlc48l4ILk3q3kIo.jpg
+  credit: 'Photo: Foursquare user content (NOBUO)'
+  license: foursquare
+  source: https://foursquare.com/v/6597edb851b734100f7d0a47
+  focus:
+    x: 50
+    'y': 60
 ---
 
 ## Why NOBUO is the name everyone's saying

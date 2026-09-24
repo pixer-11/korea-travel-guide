@@ -5,7 +5,6 @@ country: Vietnam
 region: Ho Chi Minh City
 category: trendy
 pubDate: '2026-09-23'
-gallery: []
 tags:
   - ho chi minh city
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Is it good for a quick visit or a long hangout?
     a: It works best as a shorter stop, roughly 45 minutes to an hour, especially if it's busy and other visitors are waiting for a table.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/502260255_9J--4YsDalTTJZf3T1CVqLw9Y7YNUf0FHtRGjKeXwtM.jpg
+  credit: 'Photo: Foursquare user content (Ngâm Cafe)'
+  license: foursquare
+  source: https://foursquare.com/v/680e0a70e47ec21d83a2da29
+  focus:
+    x: 50
+    'y': 55
 ---
 
 Half the reason people find Ngam Cafe in the first place is a fifteen-second clip, not a map pin. It started showing up on Vietnamese social feeds as a backdrop: a wall of vinyl sleeves, a shelf sagging under paperbacks and cassette cases, the kind of room that looks lived-in rather than styled that morning. That's the pull, and it's also the reason the place fills up fast.

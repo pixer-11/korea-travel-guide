@@ -5,7 +5,6 @@ country: Indonesia
 region: Bali
 category: restaurant
 pubDate: '2026-09-02'
-gallery: []
 tags:
   - bali
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What else can I do nearby?
     a: Bingin Beach and its cliffside warungs are a short walk away, making SANA easy to combine with a beach visit.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/45468284_RaahXtHL6CxY7HNxTaRuA28qeUwaR77pzEMBlq6HGzU.jpg
+  credit: 'Photo: Foursquare user content (Sana Uluwatu)'
+  license: foursquare
+  source: https://foursquare.com/v/6ab3d6e0c2e1f47ff3142954
+  focus:
+    x: 58
+    'y': 55
 ---
 
 ## What SANA is and why it's suddenly everywhere

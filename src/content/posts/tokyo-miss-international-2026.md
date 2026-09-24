@@ -12,7 +12,6 @@ eventVenue: Tokyo Dome City Hall
 eventOrganizer:
   name: International Culture Association
 eventFactsAsked: true
-gallery: []
 tags:
   - tokyo
   - event
@@ -30,6 +29,16 @@ faq:
     a: Tokyo Dome City itself has an amusement park and the LaQua shopping and spa complex, and Koishikawa Korakuen garden is a short walk away if you want a quieter stop before the show.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/7/79/MISS_INTERNATIONAL_CHILE_2026.jpg
+  credit: 'Photo: FRANCO TNT / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:MISS_INTERNATIONAL_CHILE_2026.jpg
+  focus:
+    x: 50
+    'y': 21
+    top: 14
+    bottom: 28
 ---
 
 ## What's happening on November 25

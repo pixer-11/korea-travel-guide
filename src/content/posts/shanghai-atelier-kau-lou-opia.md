@@ -5,7 +5,6 @@ country: China
 region: Shanghai
 category: hidden-gem
 pubDate: '2026-09-23'
-gallery: []
 tags:
   - shanghai
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Is this a good pick if I'm only in Shanghai for a few days?
     a: It's a reasonable choice if you want to try one of the city's newest concepts, but pair it with other nearby spots since hours and details are still settling on such a recent opening.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/85142592_9QbE394Xc3sMAILM03OPfd0JiqMCc0kQDjX7wdcwjcE.jpg
+  credit: 'Photo: Foursquare user content (Atelier By Taste Buds)'
+  license: foursquare
+  source: https://foursquare.com/v/5a6c9cc359c4232ee79236e2
+  focus:
+    x: 50
+    'y': 20
 ---
 
 Most new restaurant launches in Shanghai pick a lane. Atelier Kau Lou & Opia picks two, stitching a Cantonese dining room to a cocktail bar next door and letting you move between them in a single evening.
