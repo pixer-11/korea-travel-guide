@@ -8,7 +8,7 @@ pubDate: '2026-08-19'
 tags:
   - shanghai
   - new & trending
-quickAnswer: Ignis Table is a newly opened chef's table restaurant in Zhonghua Mansion, led by chef Julien Xu (ex-Ultraviolet, ex-Rêver), serving a single ¥1,880 tasting menu built around premium seafood. Seats are limited and it's booking up fast as word spreads, so reserve well ahead and confirm the current hours directly with the restaurant before you go.
+quickAnswer: Ignis Table is a newly opened chef's table restaurant in Zhonghua Mansion, led by chef Julien Xu (ex-Ultraviolet, ex-Rêver), serving a single tasting menu, on the pricier side for the city, built around premium seafood. Seats are limited and it's booking up fast as word spreads, so reserve well ahead and confirm the current hours directly with the restaurant before you go.
 faq:
   - q: How much does a meal at Ignis Table cost?
     a: The set menu sits on the pricier side for the city. Confirm the current price, and whether it includes service or drinks, directly with the restaurant when you reserve.

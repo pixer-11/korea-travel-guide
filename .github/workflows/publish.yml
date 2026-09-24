@@ -126,6 +126,16 @@ jobs:
 
       - run: npm ci
 
+      # From here on every node process counts its own Claude calls and adds one
+      # line to data/claude-cost.jsonl as it exits (scripts/lib/claude-meter.mjs).
+      # Set after npm ci and not job-wide: checkout and setup-node run on node too,
+      # and npm ci itself runs before the SDK exists. Added 2026-09-25 - until then
+      # "how much did the model switch cost?" had no answer short of the bill.
+      - name: Meter Claude spend
+        run: |
+          echo "NODE_OPTIONS=--import=file://$GITHUB_WORKSPACE/scripts/lib/claude-meter.mjs" >> "$GITHUB_ENV"
+          echo "CLAUDE_COST_LEDGER=$GITHUB_WORKSPACE/data/claude-cost.jsonl" >> "$GITHUB_ENV"
+
       # How many posts a scheduled run may publish. Read from
       # data/publish-throttle.json so the number lives in ONE place - backfill.yml
       # reads the same file, and restoring normal output is one edit there rather
@@ -836,6 +846,34 @@ jobs:
             bash scripts/git-push-retry.sh
           fi
 
+      # Repairs run BEFORE the audits below, so the audits report only what a
+      # repair could not fix — and in their own step, followed by their own
+      # commit. The photo-strip lesson above, relearned 2026-09-25: from 09-22
+      # repair-rating-floor ran inside "Validate content integrity", after the
+      # last content commit, so any guide it took down came straight back when
+      # the runner vanished; and behind that step's `bash -e`, any earlier
+      # audit failing skipped it outright. repair-money-claims had never been
+      # wired anywhere — the audit found a "$100 phở" draft every run and
+      # nothing acted. It calls the model only for a post that has an amount.
+      - name: Repair content the audits would flag
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          rc=0
+          node scripts/repair-rating-floor.mjs || rc=1
+          node scripts/repair-money-claims.mjs --limit 10 || rc=1
+          exit $rc
+
+      - name: Push what the content repairs changed
+        if: always()
+        run: |
+          if ! git diff --quiet -- src/content/posts; then
+            git add src/content/posts
+            git commit -m "fix: rating-floor holds + invented prices removed ($(date -u +%Y-%m-%d))"
+            bash scripts/git-push-retry.sh
+          fi
+
       # A hold and a published page are a contradiction, and for fifteen days
       # nothing was looking at the contradiction: a cancelled concert stayed live
       # and the social picker advertised it (2026-09-07). Runs with the content
@@ -844,58 +882,62 @@ jobs:
         id: validate
         continue-on-error: true
         run: |
-          node scripts/validate-content.mjs
-          node scripts/audit-held-but-published.mjs
+          # Every audit runs even when an earlier one fails. Under the default
+          # bash -e the first red audit ended the step: on 2026-09-24 one draft
+          # with an amount of money skipped the six audits after it. rc collects
+          # the failures and the step still ends red, so the warning below fires.
+          rc=0
+          node scripts/validate-content.mjs || rc=1
+          node scripts/audit-held-but-published.mjs || rc=1
           # Written 2026-09-07 to catch finished events still reading as upcoming
           # in Korean, Japanese, Spanish and Chinese — and then left unwired, so
           # for a day it was a gate nobody opened. The English validator above
           # cannot see this class: English lets a date stand without a tense.
-          node scripts/audit-ended-event-tense-i18n.mjs
+          node scripts/audit-ended-event-tense-i18n.mjs || rc=1
           # An English word standing where a CJK word belongs. 2026-09-07..09
           # the model returned the gloss instead of the word — 観光 came back
           # as "observation" and 建立 as "completion" — inside fluent
           # Japanese, so it reached <title>, meta description and JSON-LD on
           # the languages Bing sends most of our traffic from. translate-posts
           # now retries on it; this is the census of what already shipped.
-          node scripts/audit-latin-drops.mjs
+          node scripts/audit-latin-drops.mjs || rc=1
           # 우리가 받는 가격 정보는 구글의 priceLevel(1~4)뿐이고 금액은 한 번도
           # 주어지지 않는다. 그러니 글에 적힌 통화 금액은 전부 모델이 지어낸 것이다 —
           # 대조할 데이터가 필요 없으므로 모델 호출 없이, 공짜로, 발행 시점에 내린다.
           # 2026-09-21 에 86건(34편)이 라이브였고, 지어낸 사실을 잡던 유일한 장치는
           # 주 1회 모델 감사였다(틀린 글이 최대 7일 라이브였다는 뜻).
-          node scripts/audit-money-claims.mjs
+          node scripts/audit-money-claims.mjs || rc=1
           # 방법론 페이지가 "평점 4.0 이상"을 약속하는데 그걸 지키는 장치가 없었다.
           # 생성기는 태어날 때만 보고, 그 뒤 평점이 떨어져도 폐업 외에는 아무것도 내리지
           # 않았다. 저장된 평점만 읽어 쿼터를 쓰지 않는다.
-          # 감사만 두면 목록만 쌓인다 — 2026-09-22 에 geocode 가 평점을 드러낸
-          # 세 건이 공개 상태로 남았고, refresh 의 순번은 최대 12주 뒤였다.
-          # 수리를 먼저 돌려 내리고, 그다음 감사로 남았는지 확인한다.
-          node scripts/repair-rating-floor.mjs
-          node scripts/audit-rating-floor.mjs
+          # 수리(repair-rating-floor)는 위 "Repair content the audits would flag"
+          # 단계가 먼저 돌리고 커밋한다. 여기서는 남았는지만 본다.
+          node scripts/audit-rating-floor.mjs || rc=1
           # The vision gate asks "is this a concert photo?" and a photo of some
           # OTHER concert says yes. Twelve event guides were carrying a picture of
           # a different event entirely (2026-09-08) — a Mexican jazz festival on
           # the Hanoi one, a US Independence Day reception on Uzbekistan's. This
           # fails when a new event hero turns up whose filename nobody has read.
-          node scripts/audit-event-hero-identity.mjs
+          node scripts/audit-event-hero-identity.mjs || rc=1
           # A venue Google reports as closed must never be on the site. refresh.mjs
           # unpublishes one the moment it stops reading OPERATIONAL, so a finding
           # here means that path failed — not that a shop shut. It spends no quota:
           # it reads the businessStatus refresh already paid for.
-          node scripts/audit-closed-venues.mjs
+          node scripts/audit-closed-venues.mjs || rc=1
           # A post's URL must name the place the post is about. The slug is built
           # from the city we SEARCHED and `region` from the address Google
           # answered with, so searching "Boryeong attractions" and getting a
           # museum in Yongsan published /posts/boryeong-national-museum-of-korea/
           # (2026-09-10 diagnosis). The 41 that already shipped are a baseline in
           # data/slug-region-legacy.json — their URLs are live and stay live.
-          node scripts/audit-slug-region.mjs
+          node scripts/audit-slug-region.mjs || rc=1
           # A body that opens with `---` is swallowed the moment any of our
           # eleven rewrite tools touches it. tests.yml has caught this since
           # 2026-09-07, but only AFTER the post was committed and pushed — on
           # 2026-09-13 that meant a red Tests run for a post published hours
           # earlier. generate.mjs strips the rule now; this is the net under it.
-          node scripts/check-writer-safety.mjs
+          node scripts/check-writer-safety.mjs || rc=1
+          exit $rc
 
       - name: Warn on content issues
         if: steps.validate.outcome == 'failure'
@@ -1186,6 +1228,19 @@ jobs:
           git commit -m "chore: issue ledger ($(date -u +%Y-%m-%d))"
           bash scripts/git-push-retry.sh
 
+      # Committed last and on its own: Claude calls keep happening after the main
+      # commit step (repairs, translations), and a runner forgets everything.
+      - name: Commit the Claude cost ledger
+        if: always()
+        run: |
+          [ -f data/claude-cost.jsonl ] || exit 0
+          git config user.name "Korea Travel Guide"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/claude-cost.jsonl
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "chore: claude cost ledger ($(date -u +%Y-%m-%d))"
+          bash scripts/git-push-retry.sh
+
       - name: Escalate findings older than 3 days
         if: always()
         env:
@@ -1284,6 +1339,8 @@ jobs:
           elif [ "${{ inputs.label || 'Daily publish' }}" = "Backfill" ] && [ "${NEW:-0}" = "0" ] && { [ "${SHARE:-x}" = "0" ] || [ "${SSHARE:-x}" = "0" ]; } && [ "${QUEUE:-x}" != "0" ]; then
             echo "bulk run: Places share 0 today, nothing to attempt — no Telegram (normal)"
           else
+            # This run's Claude spend and today's (KST) total, from the ledger.
+            export CLAUDE_COST_LINE="$(node scripts/claude-cost-report.mjs --run "$GITHUB_RUN_ID" 2>/dev/null || true)"
             bash scripts/notify-telegram.sh "${{ inputs.label || 'Daily publish' }}"
           fi
           # Steps that failed softly get their own message rather than riding on

@@ -21,7 +21,10 @@ const AMOUNT = new RegExp(`(?:${CURRENCY_SYMBOL}|${CURRENCY_RP}|${CURRENCY_WORD}
 // 액수가 "오늘 낼 돈"이 아닌 경우: 지폐·동전·수집품·역사적 금액.
 const NOT_A_PRICE = [
   /\b(note|banknote|bill|coin|coins|stamp|currency)\b/i,
-  /\b(built|cost the city|restoration|donated|endowment|budget of|funded)\b/i,
+  // "built" 는 건설비일 때만: "built for $2 million", "built in 1961 at a cost of
+  // $2 million". 맨 "built" 는 "a bowl of phở priced at $100, built with luxury
+  // ingredients" 의 메뉴 가격까지 풀어 줬다(09-25).
+  /\b(built\s+(?:in\s+\d{3,4}\s+)?for|at\s+a\s+cost\s+of|construction\s+cost|cost the city|restoration|donated|endowment|budget of|funded)\b/i,
 ];
 // 중국어 병음 주소의 Dong/Xi/Nan/Bei — 통화가 아니다.
 const PINYIN_STREET = /\d[\d,.]*\s?(?:Dong|Nan|Xi|Bei)\s+[A-Z]/;

@@ -62,13 +62,15 @@ Remove every amount of money. Rules:
 - Where the sentence needs to keep saying something about cost, use the price LEVEL in ordinary words ("mid-range for the city", "on the pricier side", "budget-friendly"), or say where the current price is posted (the gate, the menu, the official site). Never both invent and hedge.
 - If removing the amount leaves a hollow sentence, cut that sentence rather than padding it.
 - Keep the same FAQ questions, in the same order and the same number of them. Only answers change.
-- An amount that is not a price to pay today — a banknote a tree appears on, a historical construction cost — is a fact, not a price. Leave it.
+- An amount that was never a price — a banknote a tree appears on, a historical construction cost — is a fact. Leave it.
+- A menu, dish or ticket price is a price even when it is historical or famous ("the $100 phở" becomes "the luxury bowl of phở that made international headlines"). Remove it.
 - Keep every markdown structure intact.`;
 
 const files = readdirSync(POSTS).filter((f) => f.endsWith('.md'));
 let done = 0, skipped = 0, failed = 0, clean = 0;
 for (const f of files) {
-  if (done >= LIMIT) break;
+  // --limit 은 시도 횟수다. 성공만 세면 거절된 수리가 한도 없이 모델을 부른다(코덱스 09-25).
+  if (done + failed >= LIMIT) break;
   const path = join(POSTS, f);
   const raw = readFileSync(path, 'utf8').replace(/\r\n/g, '\n');
   const cut = raw.indexOf('\n---', 3);
