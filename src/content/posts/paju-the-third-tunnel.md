@@ -21,19 +21,18 @@ place:
   lng: 126.69826090000001
   busyness:
     updated: '2026-07-23'
-    weekdayBusy:
-      - 10
-      - 11
-      - 12
-      - 13
-      - 14
-    weekendBusy:
-      - 10
-      - 11
-      - 12
-      - 13
-      - 14
+    weekdayBusy: [10, 11, 12, 13]
+    weekendBusy: [10, 11, 12, 13]
     venueId: ven_6b576a635349454846336a525544667a586635764433534a496843
+  phone: '+82 31-954-0303'
+  openingHours:
+    - 'Monday: Closed'
+    - 'Tuesday: 9:10 AM – 2:40 PM'
+    - 'Wednesday: 9:10 AM – 2:40 PM'
+    - 'Thursday: 9:10 AM – 2:40 PM'
+    - 'Friday: 9:10 AM – 2:40 PM'
+    - 'Saturday: 9:10 AM – 2:40 PM'
+    - 'Sunday: 9:10 AM – 2:40 PM'
 tags:
   - paju
   - DMZ tour

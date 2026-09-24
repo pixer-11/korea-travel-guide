@@ -1,31 +1,30 @@
 Places 예산: backfill 몫 25회 (오늘 사용 18/100)
 Priority: 205 itinerary stop(s) queued first
-  – mong-kok-mong-kok-night-market.md: nothing new (resting 60d)
-  – seoul-kurarie.md: nothing new (resting 60d)
-  – tokyo-samaa-samaa.md: nothing new (resting 60d)
-  – tokyo-vannelli-coffee.md: nothing new (resting 60d)
-  – ayutthaya-chao-phrom-market.md: nothing new (resting 60d)
-  – bengaluru-bangalore-market.md: nothing new (resting 60d)
+  – sai-kung-sai-kung-seafood-street.md: nothing new (resting 60d)
+  – agra-agra-bazaar.md: nothing new (resting 60d)
+  – beijing-hongqiao-market.md: nothing new (resting 60d)
+  – cebu-carbon-market.md: nothing new (resting 60d)
   – chiang-rai-chiang-rai-night-bazaar.md: nothing new (resting 60d)
-  – da-nang-con-market.md: nothing new (resting 60d)
+  – da-lat-da-lat-market.md: nothing new (resting 60d)
   – fujairah-friday-market.md: nothing new (resting 60d)
-  – hiroshima-hondori-shopping-street.md: nothing new (resting 60d)
+  – ha-giang-ha-giang-market.md: nothing new (resting 60d)
   – ho-chi-minh-city-ben-thanh-market.md: nothing new (resting 60d)
-  – hoi-an-central-market-hoi-an.md: nothing new (resting 60d)
+  – hyderabad-charminar-market.md: nothing new (resting 60d)
+  – ibiza-las-dalias-de-ibiza.md: nothing new (resting 60d)
   – labuan-bajo-pasar-malam.md: nothing new (resting 60d)
-  – mumbai-fashion-street.md: nothing new (resting 60d)
-  – naples-mercato-pignasecca.md: nothing new (resting 60d)
-  – pai-pai-walking-street.md: nothing new (resting 60d)
-  – pattaya-pattaya-park-night-market.md: nothing new (resting 60d)
-  – seoul-artist-bakery.md: nothing new (resting 60d)
-  – surabaya-pasar-ampel.md: nothing new (resting 60d)
+  – lantau-island-ngong-ping-village.md: nothing new (resting 60d)
+  – seville-mercado-de-la-encarnacion.md: nothing new (resting 60d)
+  – tainan-yongle-market.md: nothing new (resting 60d)
   🚫 little-india-former-house-of-tan-teng-niah.md: CLOSED_TEMPORARILY — quarantined (draft), not backfilled
-  – new-taipei-old-place-airplane-observation-deck.md: nothing new (resting 60d)
-  ✓ okinawa-southeast-botanical-gardens.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 9,21h (venue not open then) — nothing left; weekendQuiet: dropped 21h (venue not open then)
-  – orchard-road-sri-temasek.md: nothing new (resting 60d)
-  – osaka-nakanoshima-museum-of-art-osaka-nakka.md: nothing new (resting 60d)
-  ✓ osaka-osaka-castle.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 18h (venue not open then); weekendQuiet: dropped 18h (venue not open then)
+  ✓ paju-the-third-tunnel.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayBusy: dropped 14h (venue not open then); weekendBusy: dropped 14h (venue not open then)
+  – palawan-mitra-s-ranch.md: nothing new (resting 60d)
+  – palawan-puerto-princesa-subterranean-river-national-park.md: nothing new (resting 60d)
+  – pamukkale-hierapolis-ancient-theater.md: nothing new (resting 60d)
+  ✓ paris-eiffel-tower.md +7h hours
+  ✓ pattaya-mini-siam.md +phone +7h hours
+  – pattaya-prince-of-chumphon-monument.md: nothing new (resting 60d)
+  – philadelphia-independence-national-historical-park.md: nothing new (resting 60d)
+  – phnom-penh-riverside-walk-street.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 2, backlog-updated 2, already-complete 884, no-new-data 397, no-place 343, closed-quarantined 1, quota-429 0, api-error 0, api-calls 25, remaining-askable 117 (APPLIED).
+BACKFILL RESULT: updated 3, backlog-updated 3, already-complete 922, no-new-data 414, no-place 406, closed-quarantined 1, quota-429 0, api-error 0, api-calls 25, remaining-askable 109 (APPLIED).

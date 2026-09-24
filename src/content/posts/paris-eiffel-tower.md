@@ -1,18 +1,18 @@
 ---
-title: 'Eiffel Tower: Paris Travel Guide'
-description: Buy timed-entry tickets online in advance (booking opens roughly 60-90 days ahead) and go either at opening (9:30am) or after sunset for the light show.
+title: "Eiffel Tower: Paris Travel Guide"
+description: Buy timed-entry tickets online in advance (booking opens roughly 60-90 days ahead) and go either at opening (9am) or after sunset for the light show.
 country: France
 region: Paris
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
   url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg/1920px-Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg
-  credit: 'Photo: Jorge Royan / Wikimedia Commons (CC BY-SA 3.0)'
+  credit: "Photo: Jorge Royan / Wikimedia Commons (CC BY-SA 3.0)"
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Eiffel_Tower_and_Pont_Alexandre_III_at_night.jpg/1920px-Eiffel_Tower_and_Pont_Alexandre_III_at_night.jpg
-    credit: 'Photo: Getfunky Paris / Wikimedia Commons (CC BY 2.0)'
+    credit: "Photo: Getfunky Paris / Wikimedia Commons (CC BY 2.0)"
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Eiffel_Tower_and_Pont_Alexandre_III_at_night.jpg
 place:
@@ -26,7 +26,7 @@ place:
   lat: 48.858370099999995
   lng: 2.2944812999999997
   busyness:
-    updated: '2026-07-23'
+    updated: "2026-07-23"
     weekdayQuiet:
       - 9
       - 10
@@ -44,10 +44,18 @@ place:
       - 21
       - 22
     venueId: ven_30493370364f4f4f63503452636b35756c435a6a37554c4a496843
+  openingHours:
+    - "Monday: 9:00 AM – 12:00 AM"
+    - "Tuesday: 9:00 AM – 12:00 AM"
+    - "Wednesday: 9:00 AM – 12:00 AM"
+    - "Thursday: 9:00 AM – 12:00 AM"
+    - "Friday: 9:00 AM – 12:00 AM"
+    - "Saturday: 9:00 AM – 12:00 AM"
+    - "Sunday: 9:00 AM – 12:00 AM"
 tags:
   - paris
   - Eiffel Tower
-quickAnswer: Buy timed-entry tickets online in advance (booking opens roughly 60-90 days ahead) and go either at opening (9:30am) or after sunset for the light show. Budget 2-3 hours including security lines, and choose the stairs to the 2nd floor if you want a cheaper, faster, more active option than the elevator queue. The nearest metro stops are Bir-Hakeim (Line 6) and Trocadéro (Line 9), both a short walk with classic photo views.
+quickAnswer: Buy timed-entry tickets online in advance (booking opens roughly 60-90 days ahead) and go either at opening (9am) or after sunset for the light show. Budget 2-3 hours including security lines, and choose the stairs to the 2nd floor if you want a cheaper, faster, more active option than the elevator queue. The nearest metro stops are Bir-Hakeim (Line 6) and Trocadéro (Line 9), both a short walk with classic photo views.
 faq:
   - q: How do I get to the Eiffel Tower by metro?
     a: Take Line 6 to Bir-Hakeim or Line 9 to Trocadéro — both are a short walk from the tower. RER C to Champ de Mars–Tour Eiffel is another good option.
@@ -56,7 +64,7 @@ faq:
   - q: How long should I plan for a visit?
     a: Budget 2-3 hours total, including the mandatory security screening at the entrance and time in the elevator or stair queues.
   - q: What's the best time of day to visit?
-    a: Right at the 9:30am opening or after sunset, when the tower is lit and the light show sparkles for five minutes every hour until 1am.
+    a: Right at the 9am opening or after sunset, when the tower is lit and the light show sparkles for five minutes every hour until midnight.
   - q: Is it worth climbing the stairs instead of taking the elevator?
     a: The stairs (about 300-400 steps) only go to the 2nd floor and are often faster and cheaper than elevator tickets; the summit above that is accessible by elevator only.
 aiGenerated: true
@@ -77,11 +85,11 @@ RER C also stops at Champ de Mars–Tour Eiffel, useful if you're coming from Ve
 
 There are three levels open to visitors: the 1st floor (57m), 2nd floor (115m), and the summit (276m). The 1st and 2nd floors have glass floor sections, exhibits on the tower's history and Eiffel's engineering, and a champagne bar at the top. Visitors can either take a lift straight up or, for a cheaper and often faster route, climb the stairs to the 2nd floor (around 300-400 steps) before switching to the elevator for the summit, which is lift-only.
 
-Gustave Eiffel's restored office, complete with wax figures of Eiffel and Thomas Edison, is on the 3rd floor and worth a quick look. For a sit-down meal with a view, the tower houses Madame Brasserie on the 1st floor and the Michelin-starred Le Jules Verne on the 2nd floor (both require separate reservations well ahead of a visit. At night, the tower sparkles for five minutes on the hour, in recent seasons until 1am (times can shift) check the official site), an added light display distinct from its steady gold illumination.
+Gustave Eiffel's restored office, complete with wax figures of Eiffel and Thomas Edison, is on the 3rd floor and worth a quick look. For a sit-down meal with a view, the tower houses Madame Brasserie on the 1st floor and the Michelin-starred Le Jules Verne on the 2nd floor (both require separate reservations well ahead of a visit. At night, the tower sparkles for five minutes on the hour, in recent seasons until midnight (times can shift) check the official site), an added light display distinct from its steady gold illumination.
 
 ## When to go
 
-Early morning (right at opening (9:30am in recent seasons, though confirm current times), and late evening after sunset are the two best windows) daytime midweek in July and August draws the heaviest crowds and longest security lines. Winter months (November-February, excluding the December-January holiday crush) are noticeably quieter, and the tower dusted with occasional frost or fog has its own appeal.
+Early morning (right at opening (9am in recent seasons, though confirm current times), and late evening after sunset are the two best windows) daytime midweek in July and August draws the heaviest crowds and longest security lines. Winter months (November-February, excluding the December-January holiday crush) are noticeably quieter, and the tower dusted with occasional frost or fog has its own appeal.
 
 For photography, blue hour just after sunset lets you catch the tower lit up against a still-lit sky, and the Trocadéro terraces or the Champ de Mars lawns are the go-to vantage points without needing a ticket at all. Plan for roughly 2-3 hours on-site if you're going up, including the security check that all visitors pass through at the entrance pillars.
 
