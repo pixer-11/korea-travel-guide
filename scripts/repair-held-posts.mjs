@@ -258,7 +258,7 @@ if (elsewhere.length) {
   for (const e of elsewhere) console.log(`  · ${e}`);
 }
 if (waiting.length) {
-  console.log(`\n평점 미달로 내려둔 ${waiting.length}편 — 결함이 아니라 정상 보류다. 구글 평점이 ${RECOVER} 이상으로 오르면 이 순찰이 자동으로 되올린다(기준 ${FLOOR}):`);
+  console.log(`\n평점 미달로 내려둔 ${waiting.length}편 — 결함이 아니라 정상 보류다. 구글 평점이 ${RECOVER.toFixed(1)} 이상으로 오르면 이 순찰이 자동으로 되올린다(기준 ${FLOOR.toFixed(1)}):`);
   for (const w of waiting) console.log(`  · ${w}`);
 }
 console.log(`\nREPAIRED ${repaired.length} of ${before.length - elsewhere.length - waiting.length} held post(s) this patrol could act on.`);

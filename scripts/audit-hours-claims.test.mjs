@@ -8,10 +8,11 @@
 //   node scripts/audit-hours-claims.test.mjs
 import { hoursProblems } from './audit-hours-claims.mjs';
 
-const post = (hours, body) => `---
+const post = (hours, body, name) => `---
 title: T
 place:
-  openingHours:
+${name ? `  name: '${name}'
+` : ''}  openingHours:
 ${hours.map((h) => `    - '${h}'`).join('\n')}
 ---
 ${body}`;
@@ -36,6 +37,14 @@ const PALACE = [
   'Monday: Closed', 'Tuesday: 8:30 AM – 4:30 PM', 'Wednesday: 8:30 AM – 4:30 PM',
   'Thursday: 8:30 AM – 4:30 PM', 'Friday: 8:30 AM – 4:30 PM', 'Saturday: 8:30 AM – 4:30 PM', 'Sunday: 8:30 AM – 4:30 PM',
 ];
+
+// 09-24 시장 세 편의 실데이터.
+const AGRA = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'].map((d) => `${d}: 10:00 AM – 8:30 PM`)
+  .concat(['Saturday: Closed', 'Sunday: 10:00 AM – 8:30 PM']);
+const HAGIANG = ['Monday: 5:00 – 11:30 AM']
+  .concat(['Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'].map((d) => `${d}: 5:00 AM – 7:00 PM`));
+const PORTLAND = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'].map((d) => `${d}: Closed`)
+  .concat(['Saturday: 10:00 AM – 5:00 PM', 'Sunday: Closed']);
 
 // 페레즈미술관 실데이터: 화·수 휴관, 목요일만 9시까지.
 const PAMM = [
@@ -175,6 +184,51 @@ const cases = [
   // 역방향: "closed to the public" 은 진짜 휴무 주장이다.
   ['TP-closed-to-the-public (must FLAG)', post(WEEK_OPEN_MON,
     'The garden is closed to the public on Sunday, so come another day.'), 1],
+
+  // ── 2026-09-24: 한 번의 발행에서 맞게 쓴 시장 글 세 편이 격리됐다 ──
+  // (i) 다른 장소가 주어인 휴무 — 아그라 바자르: "타지마할이 금요일에 닫는다".
+  ['FP-other-place-subject-taj (should be CLEAN)', post(AGRA,
+    'It opens Sunday through Friday. It is closed on Saturday. The Taj Mahal itself is closed on Fridays, so Friday is a natural day for shopping here, and on Fridays, when the Taj is closed, the lanes are quieter.', 'Agra Bazaar'), 0],
+  // 역방향: 주어가 이 가게 이름이면 진짜 주장이다.
+  ['TP-venue-name-subject (must FLAG)', post(AGRA,
+    'Agra Bazaar is closed on Fridays, so plan around it.', 'Agra Bazaar'), 1],
+  // 역방향: 대명사 주어는 이 가게다 — 걸러내면 안 된다.
+  ['TP-pronoun-subject (must FLAG)', post(AGRA,
+    'It is closed on Fridays, so plan around it.', 'Agra Bazaar'), 1],
+  // (ii) 반나절 영업일 — 하장 시장: 월요일은 오전만.
+  ['FP-short-day-afternoon (should be CLEAN)', post(HAGIANG,
+    'Monday is the one that catches people out. If you arrive on the afternoon bus from Hanoi on a Monday, the market will already be closed.'), 0],
+  // 역방향: 짧은 날이라도 "closed on Mondays" 라고 못박으면 틀린 주장이다.
+  ['TP-short-day-direct (must FLAG)', post(HAGIANG,
+    'The market is closed on Mondays, so come another day.'), 1],
+  // (iii) 확인 권유 — 포틀랜드 토요시장: "일요일에 가려면 먼저 공식 사이트를 확인하라".
+  ['FP-check-before-sunday-visit (should be CLEAN)', post(PORTLAND,
+    'It used to run Sundays as well and some listings still say so, so check the official site before planning a Sunday visit.'), 0],
+  // 역방향: 닫힌 날을 권하면 여전히 잡는다.
+  ['TP-recommend-closed-sunday (must FLAG)', post(PORTLAND,
+    'Sunday is the best day to visit, when the stalls are fullest.'), 1],
+  // 코덱스 검토(09-24)가 찾은 구멍 셋 — 예외가 진짜 모순까지 숨기면 안 된다.
+  // 다른 장소 절을 지울 때 뒤따르는 이 가게의 절까지 지우면 안 된다.
+  ['TP-venue-clause-after-other-place (must FLAG)', post(AGRA,
+    'The Taj Mahal is closed on Fridays, and the bazaar is closed on Sundays.', 'Agra Bazaar'), 1],
+  // "They" 는 이 가게다.
+  ['TP-they-subject (must FLAG)', post(AGRA,
+    'They are closed on Fridays.', 'Agra Bazaar'), 1],
+  // 문장 첫 단어라 대문자일 뿐인 일반명사도 이 가게다.
+  ['TP-sentence-start-common-noun (must FLAG)', post(AGRA,
+    'Stalls are closed on Fridays.', 'Agra Bazaar'), 1],
+  // 다른 장소의 요일 나열은 통째로 그 장소 몫이다.
+  ['FP-other-place-day-list (should be CLEAN)', post(AGRA,
+    'The Taj Mahal is closed on Fridays and Sundays, which makes those good bazaar days.', 'Agra Bazaar'), 0],
+  // 짧은 날이라도 "하루 종일 닫는다" 는 하루 주장이다.
+  ['TP-short-day-all-day (must FLAG)', post(HAGIANG,
+    'On Monday the market is closed all day.'), 1],
+  // 코덱스 2차: 시간 단어가 다른 절(조언)에 있으면 여전히 하루 주장이다.
+  ['TP-short-day-time-in-other-clause (must FLAG)', post(HAGIANG,
+    'On Monday the market is closed; come back tomorrow morning.'), 1],
+  // 코덱스 2차: 느낌표도 문장 끝이다 — 다른 장소 문장을 지우다 다음 문장까지 먹으면 안 된다.
+  ['TP-exclamation-ends-other-place (must FLAG)', post(AGRA,
+    'The Taj Mahal is closed on Fridays! On Sunday the bazaar is closed.', 'Agra Bazaar'), 1],
 ];
 
 let fail = 0;

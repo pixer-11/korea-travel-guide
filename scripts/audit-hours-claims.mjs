@@ -170,7 +170,11 @@ export function hoursProblems(raw) {
   // closures ("closed Sunday mornings") land here too, deliberately: the fact
   // box only knows whole days, so a half-day claim cannot contradict it.
   const SCOPE_SHIFT = `(?!\\s+(?:hours?|times?|schedules?|openings?|closings?|mornings?|afternoons?|evenings?|nights?|crowds?|visitors?|queues?|lines?|tickets?|entry|admission|prices?|rates?|brunch|lunch|dinner|traffic|services?)\\b)`;
-  const claimsClosedOn = (d, text) => {
+  // directOnly: accept only the explicit "closed (on) <day>" form, not a "closed"
+  // that merely sits near the day. Used for a day that is OPEN but short (see
+  // partialDays below), where the nearby form is how a half-day closure reads.
+  const TIME_OF_DAY = /\b(?:mornings?|afternoons?|evenings?|nights?|noon|midday|lunch(?:time)?|already|by\s+then|by\s+the\s+time|after\s+\d|by\s+\d|\d{1,2}(?::\d{2})?\s*(?:am|pm|a\.m\.|p\.m\.)|\d{1,2}:\d{2})\b/i;
+  const claimsClosedOn = (d, text, shortDay = false) => {
     // "closed TO something" is an access restriction, not an opening hour. The
     // Phnom Penh riverside promenade is a car-free walking street: "on a
     // Saturday or Sunday you'll find the section that's closed to cars" says
@@ -211,6 +215,21 @@ export function hoursProblems(raw) {
     // a run of day names joined by commas/and, directly after "closed", claims
     // every day in it.
     if (new RegExp(`closed\\s+${ADV}(?:(?:${DAY_ALT})s?\\b${SCOPE_SHIFT}(?:,\\s*(?:and\\s+)?|\\s+and\\s+))*${d}s?\\b${SCOPE_SHIFT}`, 'i').test(text)) return true;
+    // On a SHORT day (see (ii) below) a sentence that pins the closure to a
+    // time of day is about the hours, not the day: "arrive on the afternoon
+    // bus on a Monday and the market will already be closed". Only those
+    // sentences go — "On Monday the market is closed all day" still claims
+    // the whole day and must still be caught (Codex, 2026-09-24).
+    // The time word must sit in the closure's own clause: in "closed; come
+    // back tomorrow morning" the morning belongs to the advice, not the
+    // closure, and the sentence is still a whole-day claim.
+    if (shortDay) {
+      const dayRe = new RegExp(`\\b${d}s?\\b`, 'i');
+      const T = TIME_OF_DAY.source;
+      const timedClosure = new RegExp(`${T}[^;.!?\\n]{0,60}\\bclosed\\b|\\bclosed\\b[^;,.!?\\n]{0,40}${T}`, 'i');
+      text = text.split(/(?<=[.!?\n])/).filter((s) => !(dayRe.test(s) && timedClosure.test(s)
+        && !/\b(?:all|whole|entire)[\s-]+day\b/i.test(s))).join('');
+    }
     // Strip every fully-stated "closed <days…>" claim about OTHER days, list
     // and all, so the leftover text cannot pair its "closed" with a day that
     // merely sits nearby in the same sentence.
@@ -239,8 +258,57 @@ export function hoursProblems(raw) {
     return new RegExp(`closed${nearGap}\\b${d}s?\\b${SCOPE_SHIFT}|\\b${d}s?\\b${SCOPE_SHIFT}${nearGap}closed`, 'i').test(stripped);
   };
 
+  // 2026-09-24: three correct market guides were held on one publish, and the
+  // fixer then found nothing to repair in any of them — the nothing-to-fix loop
+  // every lesson above describes, in three new shapes.
+  //
+  // (i) A closure whose subject is ANOTHER named place. Agra Bazaar: "the Taj
+  //     Mahal itself is closed on Fridays … a natural day for errands like
+  //     this" — the bazaar's own week was stated exactly (Sunday–Friday, closed
+  //     Saturday), and the Taj's Friday read as the bazaar's. A proper-noun
+  //     subject that shares no word with the venue's name or title is someone
+  //     else's closure; pronouns and generic subjects still count as the venue.
+  //     Knowingly missed: a nickname the name does not contain ("The Met" for
+  //     the Metropolitan Museum of Art) reads as another place — the same
+  //     trade the weekend note above makes, a missed warning over a false hold.
+  const venueWords = new Set(`${fm.place?.name ?? ''} ${String(fm.title ?? '').split(/[:—]/)[0]}`
+    .toLowerCase().split(/[^\p{L}\p{N}]+/u).filter((w) => w.length > 2));
+  const GENERIC_SUBJECT = new Set(['this', 'that', 'the', 'its', 'they', 'these', 'those', 'everything', 'everywhere', 'most', 'some', 'many', 'which', 'what', 'both', 'all']);
+  // The removal stops where the clause does: in "the Taj Mahal is closed on
+  // Fridays, and the bazaar is closed on Sundays" the second closure is the
+  // venue's own and must survive. A day list ("Fridays, Saturdays and
+  // Sundays") is still one clause and goes whole.
+  const nextDay = String.raw`(?:on\s+)?(?:${DAY_ALT})`;
+  const OTHER_SUBJECT = new RegExp(
+    String.raw`\b(?:[Tt]he\s+)?((?:[A-Z][\p{L}'’-]*\s+){0,3}[A-Z][\p{L}'’-]*)(?:\s+itself)?\s+(?:is|are|stays|remains|will\s+be)\s+(?:also\s+|still\s+|always\s+)?closed\b`
+    + String.raw`(?:(?![;—–]|,\s*(?!(?:and\s+|or\s+)?${nextDay})|\s(?:but|while|whereas|so)\s|\s(?:and|or)\s+(?!${nextDay}))[^.!?\n])*`, 'gu');
+  const closureProse = prose.replace(OTHER_SUBJECT, (all, subj, offset) => {
+    const words = subj.toLowerCase().split(/[^\p{L}\p{N}]+/u).filter((w) => w.length > 2 && !GENERIC_SUBJECT.has(w));
+    if (!words.length || words.some((w) => venueWords.has(w) || DAYS.some((d) => d.toLowerCase() === w))) return all;
+    // One capitalised word opening a sentence is capitalised by position, not
+    // because it is a name: "Stalls are closed on Mondays" is the venue's own.
+    const atSentenceStart = /(?:^|[.!?\n*_#>|-])\s*$/.test(prose.slice(0, offset));
+    if (atSentenceStart && !/^[Tt]he\s/.test(all) && !/\s/.test(subj.trim())) return all;
+    return ' ';
+  });
+  // (ii) A day that is OPEN but short. Hà Giang Market runs 5am–11:30am on
+  //      Monday and 5am–7pm otherwise; "arrive on the afternoon bus on a
+  //      Monday and the market will already be closed" is exactly right, and
+  //      the nearby-"closed" pairing read it as closed all day. The fact box
+  //      only knows whole days (see SCOPE_SHIFT's partial-closure note), so on
+  //      a short day a sentence tied to a time of day is not a day claim.
+  const partialDays = new Set();
+  if (widest) {
+    for (const p of open) {
+      if (!p.ranges.length) continue;
+      const s = Math.min(...p.ranges.map((r) => r[0]));
+      const e = Math.max(...p.ranges.map((r) => r[1]));
+      if (e <= widest[1] - 180 || s >= widest[0] + 180) partialDays.add(p.day);
+    }
+  }
+
   for (const d of DAYS) {
-    const claimsClosed = claimsClosedOn(d, prose);
+    const claimsClosed = claimsClosedOn(d, closureProse, partialDays.has(d));
     const isClosed = closedDays.includes(d);
     if (claimsClosed && !isClosed) found.push(`prose says closed ${d}, fact box lists it as open`);
     if (!claimsClosed && isClosed && new RegExp(`\\b${d}\\b`, 'i').test(prose)) {
@@ -257,7 +325,12 @@ export function hoursProblems(raw) {
       // on publish day with nothing for the fixer to fix (2026-08-09) — the
       // exact loop shape this comment's first lesson already describes.
       const before = m2 ? prose.slice(Math.max(0, m2.index - 80), m2.index) : '';
-      const negatedBefore = /(closed|shut|not open)[^.]{0,70}$|\bthrough\s*$/i.test(before);
+      // (iii) A verification step before the day is caution, not a plan:
+      // Portland Saturday Market ran Sundays for years and listings still say
+      // so — "check the official site before planning a Sunday visit" is the
+      // careful sentence, and it was held on 2026-09-24 as a recommendation.
+      const negatedBefore = /(closed|shut|not open)[^.]{0,70}$|\bthrough\s*$/i.test(before)
+        || /\b(check|confirm|verify|double-check)\b[^.]{0,90}\bbefore\s+(?:you\s+)?(?:plan(?:ning)?|commit(?:ting)?|book(?:ing)?|mak(?:e|ing)|head(?:ing)?\s+out\s+on)?\s*(?:a|an|your|the|any)?\s*$/i.test(before);
       if (m2 && !negated && !negatedBefore) found.push(`prose suggests visiting on ${d}, fact box says closed`);
     }
   }

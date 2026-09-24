@@ -109,7 +109,7 @@ jobs:
               echo "클로드에게 '워크플로 문법 고쳐줘'라고 말하면 수정합니다."
             elif grep -q 'findings' /tmp/audit.txt 2>/dev/null; then
               echo "⚠️ 자동화 감사 지적 — 문법 오류는 아니고, 검사기 품질 문제입니다"
-              grep -vE '^\s*$' /tmp/audit.txt | head -12
+              grep -vE '^\s*$' /tmp/audit.txt | node scripts/tg-clip.mjs 12
               echo ""
               echo "클로드에게 '자동화 감사 지적 봐줘'라고 말하면 판정합니다."
             else

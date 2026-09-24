@@ -60,7 +60,7 @@ jobs:
         run: |
           [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
           grep -q 'HELD BACK' /tmp/gate.log 2>/dev/null || exit 0
-          BODY=$(sed -n '/HELD BACK/,$p' /tmp/gate.log | head -30)
+          BODY=$(sed -n '/HELD BACK/,$p' /tmp/gate.log | node scripts/tg-clip.mjs 60)
           TXT=$(printf '🚧 문제가 있는 이벤트 글을 발행 직전에 걸러냈습니다\n%s' "$BODY")
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
@@ -126,7 +126,7 @@ jobs:
           [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
           # `|| true`: don't let set -e/pipefail abort this warn step (validate
           # exits 1 by design) before the curl fires.
-          MSG=$(node scripts/ko-report.mjs scripts/validate-content.mjs 2>&1 | head -25 || true)
+          MSG=$(node scripts/ko-report.mjs scripts/validate-content.mjs 2>&1 | node scripts/tg-clip.mjs 25 || true)
           TXT=$(printf '⚠️ 콘텐츠 검증 경고 (이벤트 발굴)\n%s' "$MSG")
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \

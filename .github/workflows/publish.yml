@@ -655,14 +655,14 @@ jobs:
           # used to be invisible — a crashed checker contributed no findings and
           # the gate printed "every post passed" (2026-08-05).
           if grep -q 'GATE-CHECKER-CRASHED' /tmp/gate.log 2>/dev/null; then
-            BODY=$(sed -n '/GATE-CHECKER-CRASHED/,$p' /tmp/gate.log | head -12)
+            BODY=$(sed -n '/GATE-CHECKER-CRASHED/,$p' /tmp/gate.log | node scripts/tg-clip.mjs 12)
             TXT=$(printf '🚨 발행 검사기가 죽었습니다 — 오늘 글은 제대로 검사되지 않았습니다\n%s\n\nGitHub Actions 로그를 확인해 주세요.' "$BODY")
             curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
               --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
               --data-urlencode "text=$TXT" >/dev/null || true
           fi
           grep -q 'HELD BACK' /tmp/gate.log 2>/dev/null || exit 0
-          BODY=$(sed -n '/HELD BACK/,$p' /tmp/gate.log | head -30)
+          BODY=$(sed -n '/HELD BACK/,$p' /tmp/gate.log | node scripts/tg-clip.mjs 60)
           TXT=$(printf '🚧 문제가 있는 글을 발행 직전에 걸러냈습니다\n%s' "$BODY")
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
@@ -911,16 +911,16 @@ jobs:
           # this message used to re-run only the first. When the tense audit was
           # the one that failed, the owner got "⚠️ 콘텐츠 검증 경고" followed by
           # "이상 없음" — a warning with nothing in it. Ask all three.
-          MSG=$(node scripts/ko-report.mjs scripts/validate-content.mjs 2>&1 | head -20 || true)
-          HELD=$(node scripts/ko-report.mjs scripts/audit-held-but-published.mjs 2>&1 | head -6 || true)
-          TENSE=$(node scripts/ko-report.mjs scripts/audit-ended-event-tense-i18n.mjs 2>&1 | head -8 || true)
-          CLOSED=$(node scripts/ko-report.mjs scripts/audit-closed-venues.mjs 2>&1 | head -6 || true)
-          SLUG=$(node scripts/ko-report.mjs scripts/audit-slug-region.mjs 2>&1 | head -6 || true)
-          WRITER=$(node scripts/ko-report.mjs scripts/check-writer-safety.mjs 2>&1 | head -6 || true)
+          MSG=$(node scripts/ko-report.mjs scripts/validate-content.mjs 2>&1 | node scripts/tg-clip.mjs 20 1800 || true)
+          HELD=$(node scripts/ko-report.mjs scripts/audit-held-but-published.mjs 2>&1 | node scripts/tg-clip.mjs 6 400 || true)
+          TENSE=$(node scripts/ko-report.mjs scripts/audit-ended-event-tense-i18n.mjs 2>&1 | node scripts/tg-clip.mjs 8 400 || true)
+          CLOSED=$(node scripts/ko-report.mjs scripts/audit-closed-venues.mjs 2>&1 | node scripts/tg-clip.mjs 6 400 || true)
+          SLUG=$(node scripts/ko-report.mjs scripts/audit-slug-region.mjs 2>&1 | node scripts/tg-clip.mjs 6 400 || true)
+          WRITER=$(node scripts/ko-report.mjs scripts/check-writer-safety.mjs 2>&1 | node scripts/tg-clip.mjs 6 400 || true)
           for extra in "$HELD" "$TENSE" "$CLOSED" "$SLUG" "$WRITER"; do
             case "$extra" in ''|'이상 없음.') ;; *) MSG=$(printf '%s\n%s' "$MSG" "$extra") ;; esac
           done
-          TXT=$(printf '⚠️ 콘텐츠 검증 경고 (일일 자동발행)\n%s' "$MSG")
+          TXT=$(printf '⚠️ 콘텐츠 검증 경고 (일일 자동발행)\n%s' "$MSG" | node scripts/tg-clip.mjs 200 4000)
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
             --data-urlencode "text=$TXT" >/dev/null || true
@@ -937,7 +937,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
-          MSG=$(node scripts/audit-hero-titles.mjs 2>&1 | grep -E '^(vantage|unusable)' | head -10 || true)
+          MSG=$(node scripts/audit-hero-titles.mjs 2>&1 | grep -E '^(vantage|unusable)' | node scripts/tg-clip.mjs 10 || true)
           TXT=$(printf '⚠️ 대표사진이 장소를 제대로 안 보여줍니다\n아래 글은 사진 교체 대기열에 넣었습니다.\n%s' "$MSG")
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
@@ -1043,7 +1043,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
-          MSG=$(node scripts/ko-report.mjs scripts/audit-design-uniformity.mjs 2>&1 | head -20 || true)
+          MSG=$(node scripts/ko-report.mjs scripts/audit-design-uniformity.mjs 2>&1 | node scripts/tg-clip.mjs 20 || true)
           TXT=$(printf '⚠️ 디자인이 예전 상태로 되돌아갔습니다\n%s' "$MSG")
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
@@ -1056,7 +1056,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
-          MSG=$(node scripts/check-wall-refs.mjs 2>&1 | head -12 || true)
+          MSG=$(node scripts/check-wall-refs.mjs 2>&1 | node scripts/tg-clip.mjs 12 || true)
           TXT=$(printf '⚠️ 일부 카드가 빈 상자로 보입니다 (썸네일 없음)\n%s' "$MSG")
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
@@ -1069,7 +1069,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
-          MSG=$(node scripts/ko-report.mjs scripts/audit-i18n-leaks.mjs 2>&1 | head -20 || true)
+          MSG=$(node scripts/ko-report.mjs scripts/audit-i18n-leaks.mjs 2>&1 | node scripts/tg-clip.mjs 20 || true)
           TXT=$(printf '⚠️ 번역 페이지에 영어가 섞였습니다\n%s' "$MSG")
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
@@ -1092,7 +1092,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
-          MSG=$(node scripts/ko-report.mjs scripts/validate-itineraries.mjs 2>&1 | head -25 || true)
+          MSG=$(node scripts/ko-report.mjs scripts/validate-itineraries.mjs 2>&1 | node scripts/tg-clip.mjs 25 || true)
           TXT=$(printf '⚠️ 일정 페이지 검증 경고 (일일 자동발행)\n%s' "$MSG")
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
@@ -1154,7 +1154,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
-          MSG=$(node scripts/ko-report.mjs scripts/audit-translations.mjs 2>&1 | head -20 || true)
+          MSG=$(node scripts/ko-report.mjs scripts/audit-translations.mjs 2>&1 | node scripts/tg-clip.mjs 20 || true)
           TXT=$(printf '🌐 번역 언어 혼입 경고 (일일 자동발행)\n%s' "$MSG")
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
