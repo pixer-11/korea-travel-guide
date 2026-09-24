@@ -1,0 +1,35 @@
+name: Writer probe (no publish)
+
+# Runs the real writer once with the production key and checks the result.
+# Writes nothing and commits nothing. Use it after changing the writer model,
+# before the daily publish run finds out for us:
+#   gh workflow run writer-probe.yml
+#   gh workflow run writer-probe.yml -f model=claude-sonnet-5   # check a rollback
+
+on:
+  workflow_dispatch:
+    inputs:
+      model:
+        description: 'Model to probe (blank = the writer default)'
+        default: ''
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+
+      - name: Probe the writer
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          WRITER_MODEL: ${{ inputs.model }}
+        run: node scripts/probe-writer.mjs

@@ -48,6 +48,7 @@ on:
       - 'Weekly full content audit'
       - 'Weekly marketing review'
       - 'Weekly performance log'
+      - 'Writer probe (no publish)'
       - 'gsc-report'
       - 'newsletter-announce'
       - 'newsletter-report'
