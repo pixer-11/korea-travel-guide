@@ -39,13 +39,7 @@ place:
 tags:
   - new orleans
   - waterfront
-quickAnswer: >-
-  Riverwalk Outlets is a mile-long, glass-covered outlet mall hugging the
-  Mississippi River, steps from the Ernest N. Morial Convention Center and an
-  easy walk or streetcar ride from the French Quarter. It's open 10am–7pm daily
-  (10am–6pm Sunday) and busiest midday on weekends, so aim for a morning visit.
-  Budget one to two hours, more if you want to linger on the riverfront
-  boardwalk outside.
+quickAnswer: Riverwalk Outlets is a mile-long, glass-covered outlet mall hugging the Mississippi River, steps from the Ernest N. Morial Convention Center and an easy walk or streetcar ride from the French Quarter. It's open 10am–7pm daily (10am–6pm Sunday). Budget one to two hours, more if you want to linger on the riverfront boardwalk outside.
 faq:
   - q: What are the opening hours?
     a: >-
