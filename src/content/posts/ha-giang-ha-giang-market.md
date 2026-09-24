@@ -70,8 +70,7 @@ faq:
   - q: "How do I pay at the market?"
     a: "Bring cash in Vietnamese đồng, in small notes. Point at what you want and ask \"bao nhiêu?\" (how much?). Light haggling is fine for clothes and souvenirs, but not for food. Nobody expects a tip."
 aiGenerated: true
-draft: true
-heldReason: hours
+draft: false
 ---
 
 ## Before the Loop, there's the market

@@ -53,8 +53,7 @@ faq:
   - q: "Does the market run if it rains?"
     a: "Yes. Vendors work under canopies and the market runs in typical Portland drizzle. Bring a hood or a compact umbrella."
 aiGenerated: true
-draft: true
-heldReason: hours
+draft: false
 ---
 
 ## White tents along the Willamette

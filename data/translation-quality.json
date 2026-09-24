@@ -5495,11 +5495,11 @@
   "at": "2026-08-15T09:10:49.252Z"
  },
  "es/paris-eiffel-tower": {
-  "hash": "c2d5f9e74876",
+  "hash": "30b589c60b23",
   "score": 1,
   "registerBreak": false,
-  "worst": "El estacionamiento en el distrito 7 (7th arrondissement) es escaso y caro",
-  "at": "2026-08-15T03:31:59.950Z"
+  "worst": "No se recomienda ir en coche, ya que el aparcamiento en el distrito VII es escaso y caro",
+  "at": "2026-09-24T12:50:00.050Z"
  },
  "es/paris-les-deux-magots": {
   "hash": "44e38e6c2b6e",
@@ -12880,11 +12880,11 @@
   "at": "2026-08-15T03:03:32.913Z"
  },
  "ja/paris-eiffel-tower": {
-  "hash": "146c8cc4dcd7",
+  "hash": "352c4a4dff82",
   "score": 1,
   "registerBreak": false,
-  "worst": "エレベーターで直接上ることもできますが、より安く、また多くの場合より早く着ける方法として…",
-  "at": "2026-08-15T03:03:33.411Z"
+  "worst": "1つはビラケム駅(Bir-Hakeim、6号線)で、ビラケム橋(Pont de Bir-Hakeim)を渡ればすぐに塔の真下に到着します。",
+  "at": "2026-09-24T12:50:03.035Z"
  },
  "ja/paris-les-deux-magots": {
   "hash": "4eb74c3d5650",
@@ -20734,11 +20734,11 @@
   "at": "2026-08-15T02:30:58.930Z"
  },
  "ko/paris-eiffel-tower": {
-  "hash": "a8a2fbf2fa2d",
+  "hash": "43f652d9c5da",
   "score": 1,
   "registerBreak": false,
-  "worst": "트로카데로역은 강 건너편 트로카데로 광장에서 그야말로 전형적인 엽서 같은 풍경을 선사합니다.",
-  "at": "2026-08-15T02:31:04.588Z"
+  "worst": "오랜 명성과 긴 줄을 설 만한 가치를 여전히 증명합니다.",
+  "at": "2026-09-24T12:51:14.101Z"
  },
  "ko/paris-les-deux-magots": {
   "hash": "c706edd69cb4",
@@ -27741,11 +27741,11 @@
   "at": "2026-08-15T04:09:28.131Z"
  },
  "zh/paris-eiffel-tower": {
-  "hash": "2266d5bfdd43",
+  "hash": "a0af6a07ada2",
   "score": 1,
   "registerBreak": false,
-  "worst": "如果想拍照,日落后的\"蓝调时刻\"是绝佳时机,可以捕捉到灯光点亮的铁塔与天空尚余微光交相辉映的画面",
-  "at": "2026-08-15T04:09:29.638Z"
+  "worst": "近50万条点评给出了4.7的高分，可见它不只是个拍照打卡地",
+  "at": "2026-09-24T12:50:15.950Z"
  },
  "zh/paris-les-deux-magots": {
   "hash": "1d4ba780d6b1",
@@ -29972,5 +29972,12 @@
   "registerBreak": false,
   "worst": "自备一个可重复使用的环保袋，否则你最后会拎着一大把薄塑料袋离开。",
   "at": "2026-09-24T08:02:24.994Z"
+ },
+ "zh/philadelphia-reading-terminal-market": {
+  "hash": "f08528e24175",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "到柜台前之前先想好要点什么，尤其是在DiNic's。",
+  "at": "2026-09-24T12:50:25.501Z"
  }
 }

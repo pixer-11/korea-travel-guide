@@ -49,8 +49,7 @@ faq:
   - q: "Can I pay by card?"
     a: "UPI QR payments are the norm in Agra, and foreign cards are less reliable at smaller outlets. Carry some rupees as backup and ask for a bill for larger purchases."
 aiGenerated: true
-draft: true
-heldReason: hours
+draft: false
 ---
 
 ## Rakabganj, not the Taj Ganj strip
