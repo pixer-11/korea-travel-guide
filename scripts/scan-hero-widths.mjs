@@ -20,6 +20,7 @@ import { readFile, writeFile, readdir } from 'node:fs/promises';
 import matter from 'gray-matter';
 import yaml from 'js-yaml';
 import { probeWidth, UNUSABLE_WIDTH } from './lib/image-width.mjs';
+import { writeAuditStore } from './lib/visual-audit-store.mjs';
 
 const POSTS = 'src/content/posts';
 const QUEUE_FILE = 'data/hero-width-queue.json';
@@ -123,7 +124,7 @@ if (unusable.length && !DRY) {
     delete store.queue[u.slug]; // the patrol owns it now, not the width queue
     console.log(`  🚫 ${u.slug}: hero is ${u.w}px (<${UNUSABLE_WIDTH}) — quarantined for photo replacement`);
   }
-  await writeFile(AUDIT_FILE, JSON.stringify(audit, null, 1) + '\n', 'utf8');
+  await writeAuditStore(audit, AUDIT_FILE);
 }
 
 // Prune: probe cache entries whose slug+url is no longer any live post's hero

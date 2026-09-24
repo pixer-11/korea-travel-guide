@@ -31,6 +31,7 @@ import { readdir, readFile, writeFile } from 'node:fs/promises';
 import matter from 'gray-matter';
 import yaml from 'js-yaml';
 import { dropGalleryCopiesOfHero } from './lib/gallery-dedupe.mjs';
+import { writeAuditStore } from './lib/visual-audit-store.mjs';
 
 const POSTS = 'src/content/posts';
 const UA = 'WanderAtlasHeroNormalise/1.0 (pixer.vtm@gmail.com)';
@@ -278,7 +279,7 @@ for (const store of [audit, mirror]) {
     if (store === audit) auditDirty = true; else mirrorDirty = true;
   }
 }
-if (audit && auditDirty) await writeFile(AUDIT_PATH, JSON.stringify(audit, null, 2) + '\n', 'utf8');
+if (audit && auditDirty) await writeAuditStore(audit, AUDIT_PATH);
 if (mirror && mirrorDirty) await writeFile(MIRROR_PATH, JSON.stringify(mirror, null, 2) + '\n', 'utf8');
 
 console.log(`\n📎 ${posts.length} wikimedia image(s): ${queryStripped} tracking quer(ies) stripped · ${downsized} downsized · ${skipped} left as-is · ${deduped} duplicate in-body photo(s) dropped${DRY ? ' (DRY)' : ''}`);

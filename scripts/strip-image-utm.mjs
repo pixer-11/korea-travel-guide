@@ -32,6 +32,7 @@
 // ─────────────────────────────────────────────────────────────
 import { readdirSync, readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
+import { serializeAuditStore } from './lib/visual-audit-store.mjs';
 
 const DRY = process.argv.includes('--dry');
 
@@ -110,7 +111,7 @@ for (const file of ['data/visual-audit.json', 'data/og-mirror.json']) {
   }
   const before = Object.keys(obj).length;
   console.log(`${file}: ${moved} key(s) normalised, ${merged} collision(s) merged (${mismatchKept} resolved as MISMATCH), ${Object.keys(out).length} kept (was ${before})`);
-  if (!DRY) writeFileSync(file, JSON.stringify(out, null, 2) + '\n');
+  if (!DRY) writeFileSync(file, file === 'data/visual-audit.json' ? serializeAuditStore(out) : JSON.stringify(out, null, 2) + '\n');
 }
 
 // A MISMATCH lost here is a wrong photo free to come back, so the count is

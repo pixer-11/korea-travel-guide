@@ -31,6 +31,7 @@ import { join } from 'node:path';
 import matter from 'gray-matter';
 import { commonsTitle, fetchCommonsMeta, judgeIdentity, judgeFoursquareCredit, makeJudgedIndex } from './lib/commons-identity.mjs';
 import { requireExamined } from './lib/examined.mjs';
+import { writeAuditStore } from './lib/visual-audit-store.mjs';
 
 const POSTS = 'src/content/posts';
 const JUDGED = 'data/photo-identity-judged.json';
@@ -197,7 +198,7 @@ if (STRIP && removable.length) {
       at: new Date().toISOString(),
     };
   }
-  await writeFile(STORE, JSON.stringify(store, null, 1) + '\n', 'utf8');
+  await writeAuditStore(store, STORE);
 
   const byslug = new Map();
   for (const c of removable) (byslug.get(c.slug) ?? byslug.set(c.slug, []).get(c.slug)).push(c);

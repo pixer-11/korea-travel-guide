@@ -47,6 +47,7 @@ import { judgeCandidate, loadWorld } from './lib/commons-identity.mjs';
 import { identityRejection } from './lib/photo-verdict.mjs';
 import { imageIdentity, isUsedImage, markUsedImage, unmarkUsedImage, heroKeeper } from './lib/hero-url.mjs';
 import { orderPhotoQueue, isPausedTonight, GIVE_UP_AFTER } from './lib/photo-queue-order.mjs';
+import { writeAuditStore } from './lib/visual-audit-store.mjs';
 
 const POSTS = 'src/content/posts';
 const DRY = process.env.DRY === '1';
@@ -752,7 +753,7 @@ for (const f of files) {
 
 // Persist acquittals so a hero the patrol has cleared stops being re-queued.
 if (!DRY && auditDirty && auditStore) {
-  await writeFile('data/visual-audit.json', JSON.stringify(auditStore, null, 1) + '\n', 'utf8');
+  await writeAuditStore(auditStore, 'data/visual-audit.json');
   console.log(`\n⚖️  ${acquitted.length} previously-flagged hero(es) re-approved on review: ${acquitted.slice(0, 10).join(', ')}`);
 }
 

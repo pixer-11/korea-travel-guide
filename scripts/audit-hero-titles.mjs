@@ -15,6 +15,7 @@ import { join } from 'path';
 import yaml from 'js-yaml';
 import { heroTitleProblem } from './lib/commons.mjs';
 import { requireExamined } from './lib/examined.mjs';
+import { writeAuditStoreSync } from './lib/visual-audit-store.mjs';
 
 const POSTS_DIR = 'src/content/posts';
 // The same store the vision audit writes and backfill-photos-alt.mjs drains, so
@@ -74,7 +75,7 @@ if (fix && bad.length) {
     store[key] = { slug, verdict: 'MISMATCH', reason: `hero file name reads as ${b.problem}: "${b.fileName}"` };
     added++;
   }
-  writeFileSync(QUEUE, JSON.stringify(store, null, 1) + '\n');
+  writeAuditStoreSync(store, QUEUE);
   console.log(`queued ${added} for re-resolution → ${QUEUE}`);
 }
 

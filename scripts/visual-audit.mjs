@@ -24,6 +24,7 @@ import { fileURLToPath } from 'node:url';
 import matter from 'gray-matter';
 import yaml from 'js-yaml';
 import { sendTelegram } from './lib/telegram.mjs';
+import { writeAuditStore } from './lib/visual-audit-store.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const POSTS_DIR = join(ROOT, 'src', 'content', 'posts');
@@ -159,7 +160,7 @@ for (const f of files) {
   await new Promise((r) => setTimeout(r, 200)); // polite
 }
 
-await writeFile(STORE, JSON.stringify(store, null, 1) + '\n');
+await writeAuditStore(store, STORE);
 console.log(`\n📸 Visual audit: ${checked} checked · ${mismatch} MISMATCH · ${weak} weak · ${vetoed} vision-vetoed · ${failed} failed.`);
 
 // A night where every judgement came back UNKNOWN is a night nobody judged

@@ -32,6 +32,7 @@ import { verifyHeroImage } from './lib/vision-check.mjs';
 import { heroTierReason } from './lib/event-hero-tier.mjs';
 import { editFrontmatter, DELETE } from './lib/frontmatter-edit.mjs';
 import { requireExamined } from './lib/examined.mjs';
+import { writeAuditStore } from './lib/visual-audit-store.mjs';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const STORE = fileURLToPath(new URL('../data/visual-audit.json', import.meta.url));
@@ -113,5 +114,5 @@ for (const f of files) {
 // 기억(STORE)을 덮어쓰기 전에 막는다 — 빈 입력으로 기억을 갱신하면 안 된다.
 requireExamined(files.length, '글', `${POSTS} 를 읽었는데 .md 가 없다`);
 
-if (!DRY) await writeFile(STORE, JSON.stringify(store, null, 2), 'utf8');
+if (!DRY) await writeAuditStore(store, STORE);
 console.log(`\n📸 event back-audit: ${judged} judged · ${ok} ok · ${kept} kept as third tier · ${rejected} rejected${rejected && !DRY ? ' (heroes stripped)' : ''} · ${failed} unreadable (left unjudged)${DRY ? ' · DRY' : ''}`);

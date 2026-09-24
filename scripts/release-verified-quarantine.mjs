@@ -43,6 +43,7 @@ import { verifyHeroImage, auditHeroImage } from './lib/vision-check.mjs';
 import { judgeCandidate, loadWorld } from './lib/commons-identity.mjs';
 import { hoursProblems } from './audit-hours-claims.mjs';
 import { wrongVenueCredit } from './lib/photo-credit-identity.mjs';
+import { writeAuditStoreSync } from './lib/visual-audit-store.mjs';
 
 // Region → country map for the identity judge (same world the patrol uses).
 const world = await loadWorld();
@@ -177,7 +178,7 @@ for (const f of readdirSync(POSTS).filter((x) => x.endsWith('.md'))) {
 
 for (const k of kept) console.log(`  ⏸️  ${k.slug} — kept: ${k.why}`);
 
-if (auditDirty && !DRY) writeFileSync(AUDIT, JSON.stringify(audit, null, 2) + '\n', 'utf8');
+if (auditDirty && !DRY) writeAuditStoreSync(audit, AUDIT);
 
 // Counted from the writes, not from a separate tally — the released list IS the
 // set of files touched, so this line cannot drift from what is on disk.

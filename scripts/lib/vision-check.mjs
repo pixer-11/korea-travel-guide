@@ -14,6 +14,7 @@ import Anthropic from '@anthropic-ai/sdk';
 import sharp from 'sharp';
 import { imageFetch } from './image-fetch.mjs';
 import { HEAD_BOX_ASK, HEAD_BOX_JSON, focusFromReply } from './head-box.mjs';
+import { serializeAuditStore } from './visual-audit-store.mjs';
 
 // 2026-08-30, 픽서님: "워터마크 없는걸로 바꿔줘." 푸켓 채식축제에 붙을 뻔한
 // Flickr 사진 6장이 전부 `Phuket@photographer.net`을 박고 있었다. 사진 자체는
@@ -351,5 +352,5 @@ export async function recordHeroVerdict(slug, url, verdict, reason) {
   let store = {};
   try { store = JSON.parse(await _rf(VERDICT_STORE, 'utf8')); } catch { /* first write */ }
   store[`${slug}\x01${url}`] = { slug, verdict, reason: String(reason || '').slice(0, 200), at: new Date().toISOString() };
-  await _wf(VERDICT_STORE, JSON.stringify(store, null, 2), 'utf8');
+  await _wf(VERDICT_STORE, serializeAuditStore(store), 'utf8');
 }

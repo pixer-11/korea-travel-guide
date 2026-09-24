@@ -24,6 +24,7 @@
 // ─────────────────────────────────────────────────────────────
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { isMeasurementFailure } from './lib/audit-verdict.mjs';
+import { writeAuditStore } from './lib/visual-audit-store.mjs';
 
 const AUDIT = 'data/visual-audit.json';
 const POSTS = 'src/content/posts';
@@ -70,5 +71,5 @@ console.log(`PRUNE_SUMMARY before=${before} after=${after} orphaned=${before - a
 
 if (DRY) { console.log('(DRY — nothing written)'); process.exit(0); }
 if (before === after) { console.log('nothing to prune'); process.exit(0); }
-await writeFile(AUDIT, JSON.stringify(kept, null, 2) + '\n', 'utf8');
+await writeAuditStore(kept, AUDIT);
 console.log(`📦 written → ${AUDIT}`);

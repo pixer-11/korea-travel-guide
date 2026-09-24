@@ -28,6 +28,7 @@ import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import matter from 'gray-matter';
 import yaml from 'js-yaml';
+import { writeAuditStore } from './lib/visual-audit-store.mjs';
 
 const POSTS = 'src/content/posts';
 const AUDIT_FILE = 'data/visual-audit.json';
@@ -110,7 +111,7 @@ if (outage) {
     heroFlagged++;
     console.log(`  🛠️  ${d.slug}: dead hero queued for the nightly photo-replacement patrol`);
   }
-  if (auditDirty) await writeFile(AUDIT_FILE, JSON.stringify(audit, null, 1) + '\n', 'utf8');
+  if (auditDirty) await writeAuditStore(audit, AUDIT_FILE);
 
   // Dead gallery entries → drop in place. Same serialization as every other
   // frontmatter writer in this repo (lineWidth -1, keys unsorted).
