@@ -11,16 +11,18 @@ import { FUTURE_PROMISE } from '../../src/lib/ended-event-claims.mjs';
 
 const MODEL = process.env.WRITER_MODEL || 'claude-opus-5-5';
 
-// Opus 5.5 / Fable 5.x 계열은 강제 tool_choice 를 400 으로 거부하고, 생각(thinking)을
-// 끌 수 없어 그 생각이 max_tokens 를 같이 먹는다. 그래서 이 두 값만 모델에 따라 가른다.
-// (sonnet-5 로 되돌리면 예전 동작이 그대로 복원된다)
+// Opus 5.5 and the Fable/Mythos 5 line reject a forced tool_choice with a 400,
+// and their thinking cannot be switched off, so it spends from max_tokens too
+// (5000 left the body empty). Only these two values depend on the model:
+// WRITER_MODEL=claude-sonnet-5 sends byte-for-byte the old request.
 const NO_FORCED_TOOL = /opus-5-5|fable-5|mythos-5/.test(MODEL);
 const TOOL_CHOICE = NO_FORCED_TOOL
   ? { type: 'auto' }
   : { type: 'tool', name: 'submit_guide' };
 const MAX_TOKENS = NO_FORCED_TOOL ? 16000 : 5000;
-// auto 로 두면 모델이 도구 대신 평문으로 답할 수 있다. 도구가 하나뿐이라 실제로는 거의
-// 안 그러지만(시험 3편 모두 호출), 발행 파이프라인이 그 한 번에 멈추면 안 되므로 명시한다.
+// Under 'auto' the model may answer in prose instead of calling the tool. With a
+// single tool it practically never does (every trial called it), but one prose
+// reply would stop a publish run, so the request says it outright.
 const TOOL_ONLY_NOTE = NO_FORCED_TOOL
   ? '\n\nAnswer ONLY by calling the submit_guide tool. Do not reply with plain text.'
   : '';
@@ -142,9 +144,22 @@ export const EVENT_TIMELESS_RULE = 'EVENT PAGES STAY ONLINE AFTER THE EVENT. Phr
  * rare (the rule keeps most first drafts clean), which is why it sat armed
  * for five days.
  */
-export function timelessRetryMessages(userPrompt, firstMsg, toolUseId, residue) {
+/**
+ * The turns that produced the draft, replayed exactly. A retry continues the
+ * conversation the model actually had: on Opus 5.5 the draft's thinking blocks
+ * are bound to that history, and a replay whose first message differs by even
+ * the tool-only note drops them silently (and is a 400 on accounts the
+ * history-editing check covers). Measured 2026-09-24: both retry paths were
+ * resending the prompt without the note - 200 OK, so nothing looked wrong.
+ * A plain string is still accepted as a one-turn history.
+ */
+function priorTurns(prior) {
+  return Array.isArray(prior) ? prior : [{ role: 'user', content: prior }];
+}
+
+export function timelessRetryMessages(prior, firstMsg, toolUseId, residue) {
   return [
-    { role: 'user', content: userPrompt },
+    ...priorTurns(prior),
     { role: 'assistant', content: firstMsg.content },
     {
       role: 'user',
@@ -162,9 +177,9 @@ export function timelessRetryMessages(userPrompt, firstMsg, toolUseId, residue) 
  * published after that date carried one anyway (five were "whether you're X
  * or Y"), so the draft is checked and one rewrite is asked for by name.
  */
-export function tellRetryMessages(userPrompt, firstMsg, toolUseId, tell) {
+export function tellRetryMessages(prior, firstMsg, toolUseId, tell) {
   return [
-    { role: 'user', content: userPrompt },
+    ...priorTurns(prior),
     { role: 'assistant', content: firstMsg.content },
     {
       role: 'user',
@@ -218,28 +233,30 @@ ${category === 'event' ? EVENT_TIMELESS_RULE + '\n' : ''}
 VERIFIED FACTS (use only these for specifics):
 ${JSON.stringify(facts, null, 2)}`;
 
-  const firstMessages = [{ role: 'user', content: userPrompt + TOOL_ONLY_NOTE }];
+  // Every turn sent so far, in order. Retries below extend THIS, never a rebuilt copy.
+  let history = [{ role: 'user', content: userPrompt + TOOL_ONLY_NOTE }];
   let msg = await client.messages.create({
     model: MODEL,
     max_tokens: MAX_TOKENS,
     system: SYSTEM,
     tools: [TOOL],
     tool_choice: TOOL_CHOICE,
-    messages: firstMessages,
+    messages: history,
   });
 
   let toolUse = msg.content.find((b) => b.type === 'tool_use');
   if (!toolUse && NO_FORCED_TOOL) {
-    // auto 모드에서 평문으로 답한 경우. 강제 호출이 막힌 모델이라 다시 청하는 수밖에 없다.
+    // Prose instead of a tool call. The model cannot be forced, so ask once more.
     console.log('  (model replied in plain text - asking again for the submit_guide call)');
+    history = [
+      ...history,
+      { role: 'assistant', content: msg.content },
+      { role: 'user', content: 'Submit that guide by calling the submit_guide tool now. Do not reply with plain text.' },
+    ];
     msg = await client.messages.create({
       model: MODEL, max_tokens: MAX_TOKENS, system: SYSTEM, tools: [TOOL],
       tool_choice: TOOL_CHOICE,
-      messages: [
-        ...firstMessages,
-        { role: 'assistant', content: msg.content },
-        { role: 'user', content: 'Submit that guide by calling the submit_guide tool now. Do not reply with plain text.' },
-      ],
+      messages: history,
     });
     toolUse = msg.content.find((b) => b.type === 'tool_use');
   }
@@ -256,7 +273,7 @@ ${JSON.stringify(facts, null, 2)}`;
     const again = await client.messages.create({
       model: MODEL, max_tokens: MAX_TOKENS, system: SYSTEM, tools: [TOOL],
       tool_choice: TOOL_CHOICE,
-      messages: timelessRetryMessages(userPrompt, msg, toolUse.id, residue),
+      messages: timelessRetryMessages(history, msg, toolUse.id, residue),
     });
     const second = again.content.find((b) => b.type === 'tool_use');
     if (second) {
@@ -275,7 +292,7 @@ ${JSON.stringify(facts, null, 2)}`;
     const again = await client.messages.create({
       model: MODEL, max_tokens: MAX_TOKENS, system: SYSTEM, tools: [TOOL],
       tool_choice: TOOL_CHOICE,
-      messages: tellRetryMessages(userPrompt, msg, toolUse.id, tell),
+      messages: tellRetryMessages(history, msg, toolUse.id, tell),
     });
     const second = again.content.find((b) => b.type === 'tool_use');
     if (second) {
