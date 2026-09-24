@@ -20627,5 +20627,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Movie promotional poster, not the coffee shop venue",
   "at": "2026-09-23T22:28:09.521Z"
+ },
+ "seoul-san\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kum-san-Seoul.jpg/3840px-Kum-san-Seoul.jpg": {
+  "slug": "seoul-san",
+  "verdict": "MISMATCH",
+  "reason": "Commons record names a different restaurant: 金山ソウル (Kanayama Seoul) in ASUNAL Kanayama, Naka-ku, Nagoya, Japan (GPS 35.1437, 136.9015). The guide is San, a fine-dining restaurant in Gangnam, Seoul. Matched only on the letters san/Seoul in the file name.",
+  "reasonKo": "사진이 일본 나고야의 다른 식당(金山ソウル)임 — 파일명 글자만 겹침",
+  "at": "2026-09-24T00:11:22.882Z"
  }
 }
