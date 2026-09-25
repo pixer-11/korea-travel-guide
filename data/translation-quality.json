@@ -5719,11 +5719,11 @@
   "at": "2026-08-15T03:32:49.703Z"
  },
  "es/phuket-the-big-buddha-phuket": {
-  "hash": "03cf9e107289",
+  "hash": "f376f2de5fab",
   "score": 1,
   "registerBreak": false,
-  "worst": "...en días despejados una sensación real de lo montañoso y verde que es Phuket bajo el desarrollo costero.",
-  "at": "2026-08-15T03:32:54.151Z"
+  "worst": "aunque el lugar permanece abierto. La entrada suele ser gratuita, si bien las urnas de donación...",
+  "at": "2026-09-25T12:53:24.065Z"
  },
  "es/pingxi-shifen-old-street": {
   "hash": "ec7bd195da46",
@@ -13090,11 +13090,11 @@
   "at": "2026-08-15T03:04:32.956Z"
  },
  "ja/phuket-the-big-buddha-phuket": {
-  "hash": "4a68aa47ee28",
-  "score": 1,
+  "hash": "8303a4dcdc23",
+  "score": 0,
   "registerBreak": false,
-  "worst": "最後のアプローチは曲がりくねった上り坂で、分岐点には標識があります――「Big Buddha」の案内はチャロン・サークル付近の大通りに掲示されています。",
-  "at": "2026-08-15T03:04:33.088Z"
+  "worst": "",
+  "at": "2026-09-25T12:53:25.527Z"
  },
  "ja/pingxi-shifen-old-street": {
   "hash": "5960421d744b",
@@ -20944,11 +20944,11 @@
   "at": "2026-08-15T02:32:09.254Z"
  },
  "ko/phuket-the-big-buddha-phuket": {
-  "hash": "8c490e2afeeb",
+  "hash": "7dfa4254848b",
   "score": 1,
   "registerBreak": false,
-  "worst": "낙케드 언덕(Nakkerd Hill) 해발 약 400미터 지점에 자리 잡고 있는데, 진짜 매력은 불상 자체보다도 그곳에서 내려다보이는 파노라마 전망에 있습니다",
-  "at": "2026-08-15T02:32:12.364Z"
+  "worst": "공식 주소상 빅 부다는 무앙 푸켓 지구 카론에 속하지만, 실제로는 찰롱과 카타·카론 사이 언덕에 위치한 곳으로 생각하는 편이 더 이해하기 쉽습니다.",
+  "at": "2026-09-25T12:53:28.594Z"
  },
  "ko/pingxi-shifen-old-street": {
   "hash": "186ea95a10fe",
@@ -27377,11 +27377,11 @@
   "at": "2026-08-15T04:07:13.216Z"
  },
  "zh/new-york-conservatory-garden": {
-  "hash": "9c61b0fb41b9",
+  "hash": "a8f75085dce0",
   "score": 1,
   "registerBreak": false,
-  "worst": "花园每天上午8点开放至晚上8点，人流规律很值得提前留意。",
-  "at": "2026-09-25T08:05:56.836Z"
+  "worst": "不妨带上一本折叠小说或一杯咖啡，找一处英国花园睡莲池边的长椅坐下来",
+  "at": "2026-09-25T12:53:46.442Z"
  },
  "zh/new-york-ocean-prime": {
   "hash": "4965acc85c74",
@@ -27923,11 +27923,11 @@
   "at": "2026-08-15T07:02:25.047Z"
  },
  "zh/phuket-the-big-buddha-phuket": {
-  "hash": "8a989abbb50c",
+  "hash": "4d4ad7abd75f",
   "score": 1,
   "registerBreak": false,
-  "worst": "该景点在近39,000条评价中获得了4.6分的评分，是岛上口碑最稳定的景点之一",
-  "at": "2026-08-15T04:10:18.655Z"
+  "worst": "由于遮阴处有限，从停车场步行过去还需爬几段台阶，请务必携带饮用水。",
+  "at": "2026-09-25T12:53:48.187Z"
  },
  "zh/pingxi-shifen-old-street": {
   "hash": "c4fc3e1b172f",
@@ -30021,5 +30021,12 @@
   "registerBreak": false,
   "worst": "릴쉬르라소르그는 소르그강의 여러 지류 위에 세워진 마을로, 강줄기가 갈라지며 구시가지를 휘감고 있습니다.",
   "at": "2026-09-25T08:05:01.044Z"
+ },
+ "zh/genoa-piazza-caricamento": {
+  "hash": "0380ca3d3cbd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "了解这里曾是填海而成的港口用地之后，这座广场就更容易理解了。",
+  "at": "2026-09-25T12:53:37.037Z"
  }
 }

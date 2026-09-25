@@ -50,8 +50,7 @@ faq:
   - q: "What else is nearby?"
     a: "Lake Park is right beside the hangar. The historic control tower, the Thinkery children's museum and the restaurants along Aldrich Street are all within walking distance in Mueller."
 aiGenerated: true
-draft: true
-heldReason: hours
+draft: false
 ---
 
 Mueller used to be an airport. Robert Mueller Municipal Airport closed in 1999, and the land in northeast Austin is now a planned neighbourhood of rowhouses, parks and wide pavements. The old control tower still stands. Every Sunday, one piece of that aviation past fills with farm stalls: the Texas Farmers' Market sets up at the Browning Hangar, a restored steel-truss hangar with an open frame.
