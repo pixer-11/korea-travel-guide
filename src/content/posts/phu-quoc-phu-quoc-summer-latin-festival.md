@@ -1,6 +1,8 @@
 ---
 title: 'Phu Quoc Summer Latin Festival: Dates, Tickets & Venue (Phu Quoc)'
-description: Phu Quoc Summer Latin Festival in Phu Quoc, Vietnam — October 29 - November 1, 2026. What it is, when and where, and how to plan around it.
+description: >-
+  Phu Quoc Summer Latin Festival in Phu Quoc, Vietnam — October 29 - November 1,
+  2026. What it is, when and where, and how to plan around it.
 country: Vietnam
 region: Phu Quoc
 category: event
@@ -22,18 +24,31 @@ gallery: []
 tags:
   - phu quoc
   - event
-quickAnswer: The Phu Quoc Summer Latin Festival runs October 29 to November 1, 2026 at Mercury Resort and Villas in Phu Quoc, Vietnam. Expect the Bachata Champion J&J Competition, dance workshops, beach parties and live performances across the four days. Confirm exact schedule, venue details and tickets on the official festival source before booking flights.
+quickAnswer: >-
+  The Phu Quoc Summer Latin Festival runs October 29 to November 1, 2026 at
+  Mercury Resort and Villas in Phu Quoc, Vietnam. Expect the Bachata Champion
+  J&J Competition, dance workshops, beach parties and live performances across
+  the four days. Confirm exact schedule, venue details and tickets on the
+  official festival source before booking flights.
 faq:
   - q: When is the Phu Quoc Summer Latin Festival in 2026?
-    a: It runs October 29 through November 1, 2026, over four consecutive days.
+    a: 'It runs October 29 through November 1, 2026, over four consecutive days.'
   - q: Where does the festival take place?
-    a: At Mercury Resort and Villas, a beachfront resort on Phu Quoc island, Vietnam.
+    a: >-
+      At Mercury Resort and Villas, a beachfront resort on Phu Quoc island,
+      Vietnam.
   - q: How do I get to the venue?
-    a: Fly into Phu Quoc International Airport (PQC), then take a taxi or arranged resort transfer to Mercury Resort and Villas.
+    a: >-
+      Fly into Phu Quoc International Airport (PQC), then take a taxi or
+      arranged resort transfer to Mercury Resort and Villas.
   - q: What happens at the festival besides the competition?
-    a: Alongside the Bachata Champion J&J Competition, the program includes dance workshops, beach parties and live performances.
+    a: >-
+      Alongside the Bachata Champion J&J Competition, the program includes dance
+      workshops, beach parties and live performances.
   - q: Where can I check ticket details and the exact schedule?
-    a: Confirm timing, registration and tickets on the official Phu Quoc Summer Latin Festival source before finalizing travel plans.
+    a: >-
+      Confirm timing, registration and tickets on the official Phu Quoc Summer
+      Latin Festival source before finalizing travel plans.
 aiGenerated: true
 draft: false
 ---

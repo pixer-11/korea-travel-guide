@@ -10916,8 +10916,8 @@
  "little-india-former-house-of-tan-teng-niah\u0001https://fastly.4sqi.net/img/general/original/1608906_BP7rP1M3Vv9A4npYC4s_fdA_ZuUUfS0wvaIJ6MRFIi8.jpg": {
   "slug": "little-india-former-house-of-tan-teng-niah",
   "verdict": "MATCH",
-  "reason": "patrol replace: Colorful heritage building in Little India, Singapore",
-  "at": "2026-09-23T22:25:45.629Z"
+  "reason": "patrol replace: Colorful colonial building, Little India architecture",
+  "at": "2026-09-25T22:40:43.739Z"
  },
  "little-india-former-house-of-tan-teng-niah\u0001https://fastly.4sqi.net/img/general/original/58563680_9ZCugZu4LqvzpKjyZGIn8k1lQBv17Sjro6AqDSH0VXY.jpg": {
   "slug": "little-india-former-house-of-tan-teng-niah",
@@ -15220,6 +15220,13 @@
   "reason": "patrol reject: Sheet music image, unrelated to festival or venue",
   "at": "2026-09-24T22:46:57.660Z"
  },
+ "phu-quoc-phu-quoc-summer-latin-festival\u0001https://upload.wikimedia.org/wikipedia/commons/e/e0/Phu_Quoc_Ridgeback.jpg": {
+  "slug": "phu-quoc-phu-quoc-summer-latin-festival",
+  "verdict": "MISMATCH",
+  "reason": "hero is only 500px wide — unusable as a banner",
+  "reasonKo": "사진이 500px로 너무 작음",
+  "at": "2026-09-25T22:42:43.150Z"
+ },
  "phu-quoc-phu-quoc-summer-latin-festival\u0001https://upload.wikimedia.org/wikipedia/commons/e/e7/Billboard_latin_music_awards.png": {
   "slug": "phu-quoc-phu-quoc-summer-latin-festival",
   "verdict": "MISMATCH",
@@ -16188,6 +16195,12 @@
   "reasonKo": "부에나 비스타 바 외관, 네온사인 확인",
   "at": "2026-08-03T14:36:36.142Z"
  },
+ "san-francisco-the-happy-crane\u0001https://fastly.4sqi.net/img/general/original/149131341_KdoED_1Rsz8PkdYXqhJdWN-82OU5XhiYcDXr07Qoz28.jpg": {
+  "slug": "san-francisco-the-happy-crane",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Illuminated sign shows venue name at entrance, representative",
+  "at": "2026-09-25T22:42:49.867Z"
+ },
  "san-francisco-the-happy-crane\u0001https://fastly.4sqi.net/img/general/original/240315_N497EqrAslwkJwcQ4IpuOL2G_2k7u48KLWayFI-sDks.jpg": {
   "slug": "san-francisco-the-happy-crane",
   "verdict": "MATCH",
@@ -16948,6 +16961,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Small-plate closeup, unrelated to Chipotle Gangnam venue",
   "at": "2026-09-24T22:47:28.430Z"
+ },
+ "seoul-chipotle-gangnam\u0001https://fastly.4sqi.net/img/general/original/554534777_eO7lGKwxcDBCRkzVIfbqSti76EC3Qi1pLkD9zHqqTTM.jpg": {
+  "slug": "seoul-chipotle-gangnam",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: This is Korean naengmyeon, unrelated to Chipotle Gangnam",
+  "at": "2026-09-25T22:41:55.655Z"
  },
  "seoul-chipotle-gangnam\u0001https://fastly.4sqi.net/img/general/original/554534777_qSCxZTgVW4yqN5LvmKCaFQzczjRJdMvBesDYzP59ehA.jpg": {
   "slug": "seoul-chipotle-gangnam",
@@ -18331,6 +18350,12 @@
   "reason": "patrol reject: Isolated plated dish, no venue context shown",
   "at": "2026-09-24T22:48:52.068Z"
  },
+ "singapore-tembusu\u0001https://fastly.4sqi.net/img/general/original/521327728_ot9sfzwYLxtnX3QcHh7ZIlgLMBlqpVzhPFYgoh0pIww.jpg": {
+  "slug": "singapore-tembusu",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Isolated whole roasted chicken close-up, not restaurant place",
+  "at": "2026-09-25T22:42:09.725Z"
+ },
  "singapore-tembusu\u0001https://live.staticflickr.com/3290/2961604394_f28b34c645_b.jpg": {
   "slug": "singapore-tembusu",
   "verdict": "MISMATCH",
@@ -19013,6 +19038,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Isolated bowl of soup, close-up dish shot, not venue",
   "at": "2026-09-24T22:49:19.731Z"
+ },
+ "taipei-cang-lin\u0001https://fastly.4sqi.net/img/general/original/6109091_lCFnQ5_xygLebCKFkNgC6w-aLO96e50-YLNJx7YTYHg.jpg": {
+  "slug": "taipei-cang-lin",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Isolated close-up dish shot, not representative venue view",
+  "at": "2026-09-25T22:42:15.137Z"
  },
  "taipei-cang-lin\u0001https://fastly.4sqi.net/img/general/original/6629077_QadaMVQgSDZ9xDYIkp3h-ShKxa5E3TcmXxQ-HYldvdg.jpg": {
   "slug": "taipei-cang-lin",
@@ -20040,20 +20071,20 @@
  "tokyo-the-kura\u0001https://live.staticflickr.com/44/138262874_720f18db21_k.jpg": {
   "slug": "tokyo-the-kura",
   "verdict": "MISMATCH",
-  "reason": "patrol reject: Isolated architectural detail, not representative venue exterior/interior",
-  "at": "2026-09-23T22:28:26.576Z"
+  "reason": "patrol reject: Dark, incidental architectural fragment, not representative venue shot",
+  "at": "2026-09-25T22:42:25.713Z"
  },
  "tokyo-the-kura\u0001https://live.staticflickr.com/51/138267530_ab1a874ed4_k.jpg": {
   "slug": "tokyo-the-kura",
   "verdict": "MISMATCH",
-  "reason": "patrol reject: Close-up of lantern fixture, not representative venue view",
-  "at": "2026-09-23T22:28:30.011Z"
+  "reason": "patrol reject: Isolated lantern fixture, not representative venue view",
+  "at": "2026-09-25T22:42:27.809Z"
  },
  "tokyo-the-kura\u0001https://live.staticflickr.com/55/138267469_42ed6054f3_k.jpg": {
   "slug": "tokyo-the-kura",
   "verdict": "MISMATCH",
-  "reason": "patrol reject: audit: Traditional Japanese architecture, but not identifiable as '",
-  "at": "2026-09-23T22:28:35.080Z"
+  "reason": "patrol reject: audit: Historic building facade, not a restaurant interior/food",
+  "at": "2026-09-25T22:42:30.869Z"
  },
  "tokyo-the-kura\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kura_River_in_the_central_part_of_Tbilisi%2C_2007-09-28.jpg/3840px-Kura_River_in_the_central_part_of_Tbilisi%2C_2007-09-28.jpg": {
   "slug": "tokyo-the-kura",
