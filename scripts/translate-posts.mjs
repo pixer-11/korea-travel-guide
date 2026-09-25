@@ -28,7 +28,7 @@ import { srcHashOfPostFile, storedHashIn } from './lib/src-hash.mjs';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
-import { fixCjkBold } from './lib/cjk-bold.mjs';
+import { fixCjkBold, brokenBoldLine, literalBoldCount } from './lib/cjk-bold.mjs';
 import { reflow } from '../src/lib/paragraphs.mjs';
 import { koMangledSyllables } from './lib/ko-syllables.mjs';
 // The nightly audit and this write gate judge wrong-language output by the
@@ -336,6 +336,24 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1) {
       return translateOne(langCode, srcId, data, hash, attempt + 1);
     }
     throw new Error(`English words left in ${langCode} output after ${attempt} attempts: ${drops.slice(0, 5).join(', ')}`);
+  }
+
+  // A ** that does not render. fixCjkBold (at write time, below) repairs the
+  // one shape we can fix without guessing — punctuation before a CJK closer —
+  // but a stray extra ** has no right answer to restore: which one is the
+  // spare? On 2026-09-25 zh/austin-texas-farmers-market-at-mueller shipped
+  // "…给不给随意。**" to the live page, and audit-translations found it only
+  // after the publish. Same check as that audit, on what would be written.
+  // 원문에도 글자로 남는 ** (코드 표기 등)는 번역 탓이 아니다 — 원문보다 많을
+  // 때만 거절한다. 안 그러면 그런 글은 세 번 다 실패해 영영 번역되지 않는다(코덱스 09-26).
+  const fixedBody = fixCjkBold(out.body.trim());
+  const bold = literalBoldCount(fixedBody) > literalBoldCount(data.body) ? brokenBoldLine(fixedBody) : null;
+  if (bold) {
+    if (attempt < 3) {
+      console.log(`     ↻ ${langCode}/${srcId} — ** that does not render (${bold.slice(0, 60)}), retrying (attempt ${attempt + 1})`);
+      return translateOne(langCode, srcId, data, hash, attempt + 1);
+    }
+    throw new Error(`broken bold in ${langCode} output after ${attempt} attempts: ${bold.slice(0, 80)}`);
   }
 
   // Reject a malformed translation instead of writing it. A dropped quickAnswer

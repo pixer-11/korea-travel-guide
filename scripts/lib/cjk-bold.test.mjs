@@ -86,3 +86,25 @@ test('leaves correct bracketed bold untouched', () => {
   ];
   for (const line of fine) assert.equal(fixCjkBoldLine(line), line);
 });
+
+// 09-25: 남는 닫는 별표 하나가 중국어 라이브 페이지에 그대로 보였다.
+test('brokenBoldLine 은 남는 ** 를 찾고, 정상 굵게는 넘긴다', async () => {
+  const { brokenBoldLine } = await import('./cjk-bold.mjs');
+  assert.equal(brokenBoldLine('- **农产品摊位一般不用给小费。** 咖啡和熟食摊位常见小费罐。**'), '- **农产品摊位一般不用给小费。** 咖啡和熟食摊位常见小费罐。**');
+  assert.equal(brokenBoldLine('- **农产品摊位一般不用给小费。** 咖啡和熟食摊位常见小费罐。'), null);
+  assert.equal(brokenBoldLine('no bold here'), null);
+});
+
+test('번역기가 깨진 굵게를 저장하지 않고 다시 시도한다', async () => {
+  const { readFileSync } = await import('node:fs');
+  const src = readFileSync('scripts/translate-posts.mjs', 'utf8');
+  assert.match(src, /literalBoldCount\(fixedBody\) > literalBoldCount\(data\.body\)/, '번역 저장 전 굵게 깨짐 검사가 없다(원문 대비)');
+});
+
+test('원문에도 있는 코드 표기 속 ** 는 번역 탓으로 세지 않는다 (코덱스 09-26)', async () => {
+  const { literalBoldCount } = await import('./cjk-bold.mjs');
+  const src = 'Type `**` to bold text. **Tipping isn\'t expected** here.';
+  const zh = '输入 `**` 即可加粗。**这里不用给小费。**';
+  assert.ok(literalBoldCount(zh) <= literalBoldCount(src), '같은 코드 표기가 번역 실패로 잡힌다');
+  assert.ok(literalBoldCount(zh + ' 多余**') > literalBoldCount(src), '남는 ** 를 못 센다');
+});

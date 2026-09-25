@@ -187,6 +187,18 @@ const LEAK_RULE = {
   'ui-when-to-go': '"When to go" 링크가 영어',
 };
 
+// audit-translations.mjs 의 사유 코드 → 한국어. 새 사유를 만들면 여기에도.
+const TRANSLATION_FLAG = {
+  'broken-bold': '굵게 표시(**)가 깨져 별표가 그대로 보임',
+  'broken-bold-frontmatter': '요약·FAQ에 굵게 표시(**)가 별표로 남음',
+  'broken-syllable': '한글 글자가 깨져 있음',
+  'translator-chatter': '번역기의 잡담("번역입니다" 등)이 본문에 섞임',
+  'english-paragraph': '번역문에 영어 문단이 통째로 남음',
+  'korean-leak': '다른 언어 번역에 한국어가 섞임',
+  'japanese-leak': '다른 언어 번역에 일본어가 섞임',
+  'cjk-leak': '스페인어 번역에 한글·한자·가나가 섞임',
+};
+
 export function koIssueLine(raw) {
   // ✗/✘/× is the other glyph our audits mark a finding with (✓ is its clean
   // twin, filtered as chrome). Left unstripped, every ✗ line failed the CODE:
@@ -214,6 +226,16 @@ export function koIssueLine(raw) {
     const what = LEAK_RULE[rule] ?? `영어가 남아 있음 (${rule})`;
     const page = path.replace(/^dist\//, '').replace(/index\.html$/, '');
     return `• ${lang}/${type} · ${page} — ${what}`;
+  }
+
+  // audit-translations.mjs 는 "posts/zh/파일.md: broken-bold, korean-leak" 처럼
+  // 쓴다. 코드가 소문자라 아래 CODE: 형식에 안 걸려, 09-25 알림이 이유 없이
+  // "점검 항목 — 파일"로만 나갔다. 사유 8종 전부를 한국어로 옮긴다.
+  const tr = line.match(/^([a-z]+)\/(ko|ja|es|zh)\/(\S+?)(?:\.md)?:\s*([A-Za-z-]+(?:,\s*[A-Za-z-]+)*)\s*$/);
+  if (tr) {
+    const [, kind, lang, file, codes] = tr;
+    const what = codes.split(/,\s*/).map((c) => TRANSLATION_FLAG[c] ?? `번역 점검 필요 (${c})`).join(' · ');
+    return `• ${lang} 번역 · ${file}${kind === 'posts' ? '' : ` (${kind})`} — ${what}`;
   }
 
   // validate-content.mjs writes most findings as an English PHRASE, not a

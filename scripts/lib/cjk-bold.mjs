@@ -65,3 +65,25 @@ export function fixCjkBoldLine(line) {
 export function fixCjkBold(body) {
   return String(body ?? '').split('\n').map(fixCjkBoldLine).join('\n');
 }
+
+// The whole-body check the audit and the translator share, so the two cannot
+// drift. A bare regex can't tell an opener from a closer (`。**次**` is legal),
+// so ask the renderer: if `**` survives into the HTML, a delimiter failed.
+// Returns the first offending line, or null when every ** renders.
+const OPTS_HTML = { extensions: [gfm()], htmlExtensions: [gfmHtml()], allowDangerousHtml: true };
+export function brokenBoldLine(body) {
+  const text = String(body ?? '');
+  if (!text.includes('**')) return null;
+  if (!micromark(text, OPTS_HTML).includes('**')) return null;
+  for (const line of text.split('\n')) {
+    if (line.includes('**') && micromark(line, OPTS_HTML).includes('**')) return line;
+  }
+  return text.split('\n').find((x) => x.includes('**')) || '**';
+}
+
+/** 렌더 뒤에도 글자로 남는 ** 의 개수. 코드 표기 안의 ** 처럼 원문에도 있는 것까지 센다. */
+export function literalBoldCount(body) {
+  const text = String(body ?? '');
+  if (!text.includes('**')) return 0;
+  return (micromark(text, OPTS_HTML).match(/\*\*/g) || []).length;
+}

@@ -14,8 +14,7 @@
 // ─────────────────────────────────────────────────────────────
 import { readFile, readdir } from 'node:fs/promises';
 import { join } from 'node:path';
-import { micromark } from 'micromark';
-import { gfm, gfmHtml } from 'micromark-extension-gfm';
+import { brokenBoldLine } from './lib/cjk-bold.mjs';
 import yaml from 'js-yaml';
 
 // Broken-syllable detection (ko) lives in lib/ko-syllables.mjs so the WRITE gate
@@ -142,15 +141,9 @@ const CHATTER = /지금까지 가이드|필요한 모든 정보를 확인|다음
 // on the page. 145 live ko/ja/zh files had this before the 2026-08-01 sweep.
 // A bare regex can't tell an opener from a closer (`。**次**` is legal), so ask
 // the renderer itself: if `**` survives into the HTML, a delimiter failed.
-const MD_OPTS = { extensions: [gfm()], htmlExtensions: [gfmHtml()], allowDangerousHtml: true };
-function brokenBoldLine(body) {
-  if (!body.includes('**')) return null;
-  if (!micromark(body, MD_OPTS).includes('**')) return null;
-  for (const line of body.split('\n')) {
-    if (line.includes('**') && micromark(line, MD_OPTS).includes('**')) return line;
-  }
-  return body.split('\n').find((l) => l.includes('**')) || '**';
-}
+// brokenBoldLine lives in lib/cjk-bold.mjs since 2026-09-26, shared with
+// translate-posts, which now retries a translation that fails it instead of
+// writing it (a stray closing ** reached the live zh Austin market page).
 
 function auditBody(lang, body) {
   const flags = [];

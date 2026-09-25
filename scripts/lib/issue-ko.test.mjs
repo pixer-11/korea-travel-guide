@@ -84,3 +84,16 @@ test('a parenthesised line that names a file is still a finding', () => {
   const digest = koDigest('(see broken-post.md — the hero is missing)');
   assert.match(digest, /문제 1건/, digest);
 });
+
+// 09-25: 번역 검사 줄이 "점검 항목 — 파일"로만 나갔다. 사유가 한국어로 보여야 한다.
+test('번역 검사 사유가 한국어로 나온다', () => {
+  assert.equal(koIssueLine('• posts/zh/austin-texas-farmers-market-at-mueller.md: broken-bold'),
+    '• zh 번역 · austin-texas-farmers-market-at-mueller — 굵게 표시(**)가 깨져 별표가 그대로 보임');
+  assert.match(koIssueLine('• essentials/ko/japan.md: broken-syllable, translator-chatter'), /한글 글자가 깨져.*번역기의 잡담/);
+  assert.doesNotMatch(koIssueLine('• posts/es/x.md: cjk-leak'), /점검 항목/);
+});
+
+test('대문자 사유가 섞여도 번역 검사 줄을 알아본다 (코덱스 09-26)', () => {
+  const out = koIssueLine('• posts/zh/a.md: broken-bold, MISSING-SRCHASH');
+  assert.match(out, /굵게 표시.*번역 점검 필요 \(MISSING-SRCHASH\)/);
+});
