@@ -6,7 +6,7 @@ title: '5-Day Singapore Itinerary: Gardens, Rainforest, Sentosa, Jurong & the Ea
 description: A 5-day Singapore itinerary moving from Marina Bay's gardens and Kampong Glam's heritage streets through Bukit Timah's rainforest, Sentosa's fort and southern ridge, Jurong's lakes and gardens, and Katong's coastal parks and markets.
 quickAnswer: This 5-day Singapore itinerary covers Marina Bay and Kampong Glam on day one, Bukit Timah's nature reserves on day two, Sentosa and the southern ridge parks on day three, Jurong's attractions and gardens on day four, and Katong's coastline and markets on day five, mixing hidden-gem parks, big-name attractions, and local food stops.
 pubDate: '2026-08-13T00:36:52.182Z'
-stopsHash: d8fb1735e717cee05ae6ceec1aea053fc321b4b4
+stopsHash: 0815fdd0bf0e4332f350f9f9844f7cd8277d722d
 packedAvailable: true
 faq:
   - q: How should I get around for this 5-day Singapore itinerary?
@@ -109,8 +109,16 @@ itinerary:
         slot: afternoon
         why: This free gardening park in Tiong Bahru rounds out the day with themed demonstration gardens and a relaxed pace to wind down on.
         dwellMin: 53
+        walkToNext:
+          km: 9.1
+          minutes: null
+          transit: true
+      - slug: bukit-timah-bukit-timah-plaza
+        slot: evening
+        why: A hidden-gem rated 4 by visitors, included as a stop on this route.
+        dwellMin: 45
         walkToNext: null
-    rainSwapSlug: sentosa-fiamma
+    rainSwapSlug: singapore-casa-mori
   - label: Jurong's discovery centre and lakeside gardens
     intro: The day begins at Singapore Discovery Centre in Jurong, then moves to the sprawling Jurong Lake Gardens for its wetland boardwalk and lakeside scenery. It closes out at the calmer, traditionally landscaped Japanese Garden nearby.
     stops:
@@ -163,6 +171,6 @@ itinerary:
     rainSwapSlug: kampong-glam-malay-heritage-centre
 aiGenerated: true
 draft: false
-updatedDate: '2026-09-16T12:39:42.209Z'
+updatedDate: '2026-09-25T08:06:19.865Z'
 ---
 

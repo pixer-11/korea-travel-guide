@@ -1002,12 +1002,24 @@
   "reasonKo": "텍사스 주의사당, 오스틴",
   "at": "2026-08-12T14:02:40.658Z"
  },
+ "austin-texas-farmers-market-at-mueller\u0001https://upload.wikimedia.org/wikipedia/commons/e/e4/Texas_Farmers_Market_at_Mueller_Austin_2016.jpg": {
+  "slug": "austin-texas-farmers-market-at-mueller",
+  "verdict": "MATCH",
+  "reason": "publish gate: Outdoor market tents under pavilion, representative venue scene",
+  "at": "2026-09-25T07:37:46.347Z"
+ },
  "avignon-jardin-des-doms\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Avignon_-_Jardin_des_Doms%2C%28Rocher_des_Doms%29_-_View_ESE_on_Roofs_in_Avignon.jpg/3840px-Avignon_-_Jardin_des_Doms%2C%28Rocher_des_Doms%29_-_View_ESE_on_Roofs_in_Avignon.jpg": {
   "slug": "avignon-jardin-des-doms",
   "verdict": "MATCH",
   "reason": "Aerial view of Avignon's terracotta rooftops and landscape",
   "reasonKo": "아비뇽의 테라코타 지붕 경관",
   "at": "2026-08-12T14:02:47.203Z"
+ },
+ "avignon-l-isle-sur-la-sorgue-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/March%C3%A9_de_L%27Isle-sur-la-Sorgue_%2815035%29.jpg/3840px-March%C3%A9_de_L%27Isle-sur-la-Sorgue_%2815035%29.jpg": {
+  "slug": "avignon-l-isle-sur-la-sorgue-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Outdoor market with stalls, representative of Provençal market scene",
+  "at": "2026-09-25T07:43:54.884Z"
  },
  "avignon-musee-calvet\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Mus%C3%A9e_Calvet.jpg/1920px-Mus%C3%A9e_Calvet.jpg": {
   "slug": "avignon-musee-calvet",
@@ -2812,6 +2824,12 @@
   "reasonKo": "박물관 간판과 건축물이 일치",
   "at": "2026-08-15T13:10:58.962Z"
  },
+ "bhubaneswar-ekamra-haat\u0001https://upload.wikimedia.org/wikipedia/commons/7/75/Odia_Handicraft_At_Ekamra_haat_Bhubaneswar.jpg": {
+  "slug": "bhubaneswar-ekamra-haat",
+  "verdict": "MATCH",
+  "reason": "publish gate: Colorful handicraft shop with painted lanterns, plausible market stall",
+  "at": "2026-09-25T07:43:08.641Z"
+ },
  "bhubaneswar-lingaraj-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lingaraj_Temple%2C_Bhubaneswar%2C_Odisha_2.jpg/3840px-Lingaraj_Temple%2C_Bhubaneswar%2C_Odisha_2.jpg": {
   "slug": "bhubaneswar-lingaraj-temple",
   "verdict": "MATCH",
@@ -3181,6 +3199,12 @@
   "reason": "Boston waterfront with Tea Party Ships Museum visible",
   "at": "2026-07-27T12:45:47.648Z"
  },
+ "boston-faneuil-hall-marketplace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/2017_Faneuil_Hall_from_southeast.jpg/3840px-2017_Faneuil_Hall_from_southeast.jpg": {
+  "slug": "boston-faneuil-hall-marketplace",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Faneuil Hall building, representative hero shot",
+  "at": "2026-09-25T07:49:20.187Z"
+ },
  "boston-museum-of-fine-arts-boston\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Museum_of_Fine_Arts%2C_Boston_%2854954248311%29.jpg/1920px-Museum_of_Fine_Arts%2C_Boston_%2854954248311%29.jpg": {
   "slug": "boston-museum-of-fine-arts-boston",
   "verdict": "MATCH",
@@ -3332,6 +3356,12 @@
   "reason": "Visitor Centre building matches venue perfectly",
   "reasonKo": "방문자센터 건물이 정확히 일치",
   "at": "2026-08-15T13:11:00.752Z"
+ },
+ "bukit-timah-bukit-timah-plaza\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Bukit_Timah_Plaza%2C_Singapore_%282025%29_-_img_01.jpg/3840px-Bukit_Timah_Plaza%2C_Singapore_%282025%29_-_img_01.jpg": {
+  "slug": "bukit-timah-bukit-timah-plaza",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Bukit Timah Plaza building exterior clearly",
+  "at": "2026-09-25T07:45:48.869Z"
  },
  "bukit-timah-former-ford-factory\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Former_Ford_Factory%2C_2025_%283%29.jpg/1920px-Former_Ford_Factory%2C_2025_%283%29.jpg": {
   "slug": "bukit-timah-former-ford-factory",
@@ -4089,6 +4119,12 @@
   "reasonKo": "첸나이 정부박물관 건물 외관",
   "at": "2026-08-11T14:03:04.895Z"
  },
+ "chennai-koyambedu-market\u0001https://upload.wikimedia.org/wikipedia/commons/b/bd/Koyambedu_Market.jpg": {
+  "slug": "chennai-koyambedu-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior gateway of Koyambedu Market, representative view",
+  "at": "2026-09-25T07:52:01.104Z"
+ },
  "chennai-snow-kingdom\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/VGP_Snow_Kingdom.jpg/3840px-VGP_Snow_Kingdom.jpg": {
   "slug": "chennai-snow-kingdom",
   "verdict": "MATCH",
@@ -4368,6 +4404,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows museum building with bridge, matches venue location",
   "at": "2026-09-03T10:38:34.157Z"
+ },
+ "chiayi-wenhua-road-night-market\u0001https://upload.wikimedia.org/wikipedia/commons/3/30/%E5%98%89%E7%BE%A9%E6%96%87%E5%8C%96%E8%B7%AF%E5%A4%9C%E5%B8%82.jpg": {
+  "slug": "chiayi-wenhua-road-night-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Night market street scene with signage, crowd, vendors, Taiwan",
+  "at": "2026-09-25T07:53:23.187Z"
  },
  "chiba-aobanomori-park\u0001https://upload.wikimedia.org/wikipedia/commons/8/87/Aobanomori_Park_Art_and_Culture_Hall_02.jpg": {
   "slug": "chiba-aobanomori-park",
@@ -4774,6 +4816,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Park lawn with benches and building, matches venue type",
   "at": "2026-09-10T07:44:30.163Z"
+ },
+ "colmar-place-de-l-ancienne-douane\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Place_de_l%27Ancienne-Douane_%28Colmar%29%2C_2024.jpg/3840px-Place_de_l%27Ancienne-Douane_%28Colmar%29%2C_2024.jpg": {
+  "slug": "colmar-place-de-l-ancienne-douane",
+  "verdict": "MATCH",
+  "reason": "publish gate: Colmar square with fountain, half-timbered houses, cafe",
+  "at": "2026-09-25T07:47:05.562Z"
  },
  "colmar-vieille-ville-de-colmar\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Colmar_vieille_ville.JPG/3840px-Colmar_vieille_ville.JPG": {
   "slug": "colmar-vieille-ville-de-colmar",
@@ -5896,6 +5944,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Interior galley ship exhibit, representative of Galata Museo del Mare",
   "at": "2026-09-13T07:51:52.925Z"
+ },
+ "genoa-piazza-caricamento\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Piazza_Caricamento_%28Genoa%29.jpg/3840px-Piazza_Caricamento_%28Genoa%29.jpg": {
+  "slug": "genoa-piazza-caricamento",
+  "verdict": "MATCH",
+  "reason": "publish gate: Plausible open square in Genoa with cafes, matches venue",
+  "at": "2026-09-25T08:08:39.133Z"
  },
  "genoa-porta-soprana\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Porta_Soprana_Exterior_Close_Genoa_Italy_Sep23_A7C_06588.jpg/3840px-Porta_Soprana_Exterior_Close_Genoa_Italy_Sep23_A7C_06588.jpg": {
   "slug": "genoa-porta-soprana",
@@ -9144,6 +9198,12 @@
   "reasonKo": "마디나트 주메이라의 상징적인 수로와 건축",
   "at": "2026-08-13T14:04:14.726Z"
  },
+ "jumeirah-souk-madinat-jumeirah\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Dubai_-_Souk_Madinat_Jumeirah_-_panoramio_%281%29.jpg/3840px-Dubai_-_Souk_Madinat_Jumeirah_-_panoramio_%281%29.jpg": {
+  "slug": "jumeirah-souk-madinat-jumeirah",
+  "verdict": "MATCH",
+  "reason": "publish gate: Represents Souk Madinat Jumeirah waterway and traditional architecture accurately",
+  "at": "2026-09-25T07:41:35.568Z"
+ },
  "jumeirah-zabeel-park\u0001https://fastly.4sqi.net/img/general/original/52548456_l7_TiNzO9bf9E7gvDGAO26s15FCPVeNJtNwcopBjK2s.jpg": {
   "slug": "jumeirah-zabeel-park",
   "verdict": "MATCH",
@@ -9494,6 +9554,12 @@
   "reason": "White lighthouse with surrounding buildings, Kenting.",
   "reasonKo": "켄팅의 하얀 등대와 주변 건물",
   "at": "2026-08-13T14:04:18.359Z"
+ },
+ "kenting-hengchun-old-street\u0001https://upload.wikimedia.org/wikipedia/commons/5/58/%E6%81%92%E6%98%A5%E5%8F%A4%E5%9F%8E%E4%B8%9C%E9%97%A8_-_East_Gate_of_Old_Hengchun_Town_-_2012.02_-_panoramio.jpg": {
+  "slug": "kenting-hengchun-old-street",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows historic Hengchun East Gate, iconic old street landmark",
+  "at": "2026-09-25T07:51:03.998Z"
  },
  "kenting-hengchun-south-gate\u0001https://upload.wikimedia.org/wikipedia/commons/8/86/%E6%81%92%E6%98%A5%E5%8F%A4%E5%9F%8E%E5%8D%97%E9%97%A8_-_South_Gate_of_Old_Hengchun_Town_-_2012.02_-_panoramio.jpg": {
   "slug": "kenting-hengchun-south-gate",
@@ -9988,6 +10054,12 @@
   "reasonKo": "시계탑 구조가 장소 설명과 일치",
   "at": "2026-08-19T13:29:19.464Z"
  },
+ "kota-kinabalu-gaya-street-market\u0001https://upload.wikimedia.org/wikipedia/commons/0/0d/Photowalk_at_Gaya_Street_Sunday_Market%2C_Kota_Kinabalu_02.jpg": {
+  "slug": "kota-kinabalu-gaya-street-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Market stall with Sabah Borneo souvenirs, representative of Gaya Street",
+  "at": "2026-09-25T07:44:50.345Z"
+ },
  "kota-kinabalu-kinabalu-park-headquarters\u0001https://upload.wikimedia.org/wikipedia/commons/d/d9/Mount_Kinabalu_from_Kinabalu_Park_Headquarters_%2813890768344%29.jpg": {
   "slug": "kota-kinabalu-kinabalu-park-headquarters",
   "verdict": "MATCH",
@@ -10389,6 +10461,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Ornate Chinese gate with lion statues, plausible park entrance",
   "at": "2026-08-21T08:15:13.460Z"
+ },
+ "kuching-siniawan-night-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Siniawan_night_market.jpg/3840px-Siniawan_night_market.jpg": {
+  "slug": "kuching-siniawan-night-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Old shophouse street with lanterns matches Siniawan market setting",
+  "at": "2026-09-25T07:49:57.371Z"
  },
  "kuching-tua-pek-kong-temple\u0001https://upload.wikimedia.org/wikipedia/commons/5/5c/Tua_Pek_Kong_Temple_09.jpg": {
   "slug": "kuching-tua-pek-kong-temple",
@@ -11749,6 +11827,12 @@
   "reason": "Cheng Hoon Teng Temple exterior with red lanterns, authentic",
   "reasonKo": "청훈텅사원 외부, 빨간 랜턴, 전형적 건축",
   "at": "2026-08-19T13:29:25.166Z"
+ },
+ "malacca-jonker-street-night-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Jonker_Street_Night_Market_in_Melaka%2C_Malaysia.jpg/3840px-Jonker_Street_Night_Market_in_Melaka%2C_Malaysia.jpg": {
+  "slug": "malacca-jonker-street-night-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Crowded street market scene, matches Jonker Street setting",
+  "at": "2026-09-25T07:40:30.194Z"
  },
  "malacca-melaka-botanical-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Melaka_Botanical_Garden.jpg/1920px-Melaka_Botanical_Garden.jpg": {
   "slug": "malacca-melaka-botanical-garden",
@@ -13712,6 +13796,12 @@
   "reason": "Promenade du Paillon's iconic water fountains and plaza",
   "reasonKo": "프롬나드 파이용의 상징적 분수와 광장",
   "at": "2026-08-03T14:34:02.793Z"
+ },
+ "nikko-edo-wonderland-nikko-edomura\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Nikko_Edo-Mura_2.jpg/1920px-Nikko_Edo-Mura_2.jpg": {
+  "slug": "nikko-edo-wonderland-nikko-edomura",
+  "verdict": "MATCH",
+  "reason": "publish gate: Live samurai/geisha performance, representative of Edo Wonderland shows",
+  "at": "2026-09-25T07:48:13.382Z"
  },
  "nikko-nikko-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/8/8a/Lake_chuzenji_and_kegon_waterfall.jpg": {
   "slug": "nikko-nikko-national-park",
@@ -18185,6 +18275,12 @@
   "reason": "patrol reject: identity: owner eye-check 2026-09-03 — posed backstage snapshot with an unnamed second person, not the performer on stage; below the hero bar",
   "at": "2026-09-03T05:54:00.880Z"
  },
+ "singapore-redhill-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Redhill_Market_and_Food_Centre.jpg/3840px-Redhill_Market_and_Food_Centre.jpg": {
+  "slug": "singapore-redhill-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Street view showing market area with stalls in Singapore",
+  "at": "2026-09-25T07:39:22.096Z"
+ },
  "singapore-singapore-flyer\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Singapore_%28SG%29%2C_Singapore_Flyer_--_2019_--_4753.jpg/1920px-Singapore_%28SG%29%2C_Singapore_Flyer_--_2019_--_4753.jpg": {
   "slug": "singapore-singapore-flyer",
   "verdict": "MATCH",
@@ -20918,6 +21014,12 @@
   "verdict": "MATCH",
   "reason": "patrol replace: 2024 Snooker Xi'an Grand Prix venue signage",
   "at": "2026-08-22T15:32:39.005Z"
+ },
+ "xi-an-beiyuanmen\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Beiyuanmen.jpg/3840px-Beiyuanmen.jpg": {
+  "slug": "xi-an-beiyuanmen",
+  "verdict": "MATCH",
+  "reason": "publish gate: Busy street scene with signage matching Beiyuanmen food street",
+  "at": "2026-09-25T07:38:46.054Z"
  },
  "xi-an-bell-tower-of-xi-an\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Xi%27an_Bell_Tower_2024.10.jpg/1920px-Xi%27an_Bell_Tower_2024.10.jpg": {
   "slug": "xi-an-bell-tower-of-xi-an",

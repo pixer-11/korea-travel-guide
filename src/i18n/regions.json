@@ -8843,5 +8843,32 @@
       "getting": "대부분의 여행자는 오무라만의 매립지에 자리한 나가사키공항(NGS)으로 입국한 뒤, 리무진 버스를 타고 시내로 이동합니다. 철도로는 하카타(후쿠오카)에서 특급 열차 \"릴레이 카모메\"를 타고 다케오온센까지 간 다음, 같은 플랫폼에서 니시큐슈 신칸센 \"카모메\"로 환승해 나가사키역까지 이어지며, 전체 소요 시간은 약 2시간 정도입니다.",
       "days": "2~3일 정도를 계획하면 평화공원과 원폭자료관, 글로버 가든과 데지마 일대의 옛 외국인 거류지, 그리고 항구가 내려다보이는 언덕길에서 여유롭게 보내는 저녁까지 충분히 둘러볼 수 있습니다."
     }
+  },
+  "Washington": {
+    "en": {
+      "blurb": "Washington state pairs a rain-soaked, evergreen Pacific coastline with the volcanic peaks of the Cascades, and its largest city, Seattle, anchors a region known for coffee culture, tech industry giants and a laid-back outdoor lifestyle. From ferry-laced Puget Sound to the high desert of the east, the state's landscapes shift dramatically within just a few hours' drive.",
+      "getting": "Most travellers arrive via Seattle-Tacoma International Airport (SEA), the state's main gateway, located in the city of SeaTac. From there, Sound Transit's Link light rail runs directly to downtown Seattle in roughly ~35 to 40 minutes, offering a straightforward alternative to taxis or rideshares.",
+      "days": "Plan on ~4 to 7 days to cover Seattle's neighbourhoods alongside a couple of day trips into the mountains or islands, or ~10 days or more to also loop through the Olympic Peninsula and central Washington."
+    },
+    "ko": {
+      "blurb": "워싱턴주는 비가 많이 내리는 짙푸른 태평양 연안과 캐스케이드산맥의 화산 봉우리들이 공존하는 곳이다. 최대 도시 시애틀은 커피 문화와 거대 테크 기업들, 그리고 여유로운 아웃도어 라이프스타일로 유명한 이 지역의 중심지 역할을 한다. 페리가 오가는 퓨젓사운드부터 동쪽의 고원 사막지대까지, 불과 몇 시간 거리 안에서 이토록 극적으로 풍경이 바뀌는 곳도 드물다.",
+      "getting": "대부분의 여행자는 워싱턴주의 관문인 시애틀-타코마 국제공항(SEA)을 통해 입국하며, 이 공항은 시택(SeaTac)이라는 도시에 위치해 있다. 공항에서는 사운드 트랜짓(Sound Transit)의 링크 경전철을 이용하면 약 35~40분 만에 시애틀 시내로 바로 이동할 수 있어, 택시나 차량 공유 서비스 대신 손쉽게 이용할 수 있는 대안이 된다.",
+      "days": "시애틀 시내 곳곳을 둘러보고 산이나 섬으로 당일치기 여행을 다녀오려면 약 4~7일 정도가 적당하며, 올림픽반도와 워싱턴주 중부 지역까지 두루 돌아보려면 10일 이상 여유를 두고 계획하는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "ワシントン州には、雨に濡れた常緑樹が茂る太平洋岸と、カスケード山脈の火山群という対照的な自然が同居している。最大都市シアトルはこの地域の中心地であり、コーヒー文化やテック業界の巨大企業、そして肩肘張らないアウトドア志向のライフスタイルで知られている。フェリーが行き交うピュージェット湾から東部の高地砂漠まで、州内を車でわずか数時間移動するだけで、景観はドラマチックに変化していく。",
+      "getting": "多くの旅行者は、州の玄関口であるシアトル・タコマ国際空港(SEA)から入国する。空港はシータックという街に位置しており、そこからサウンド・トランジットのリンク・ライトレールを利用すれば、シアトルのダウンタウンまでおよそ35〜40分で直行できる。タクシーやライドシェアに頼らずに移動できる、手軽で分かりやすい選択肢だ。",
+      "days": "シアトル市内の各エリアを巡りつつ、山や島への日帰り旅行を数回組み込むなら、目安として4〜7日ほど見ておきたい。オリンピック半島やワシントン州中部まで足を延ばして周遊するなら、10日以上あるとより余裕を持って楽しめる。"
+    },
+    "es": {
+      "blurb": "El estado de Washington combina una costa pacífica lluviosa y siempre verde con los picos volcánicos de las Cascadas, y su ciudad más grande, Seattle, es el corazón de una región conocida por su cultura del café, sus gigantes tecnológicos y un estilo de vida al aire libre relajado. Desde el Puget Sound, salpicado de ferris, hasta el desierto de altura del este, los paisajes del estado cambian drásticamente en apenas unas horas de viaje.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional de Seattle-Tacoma (SEA), la principal puerta de entrada al estado, ubicado en la ciudad de SeaTac. Desde allí, el tren ligero Link de Sound Transit va directo al centro de Seattle en aproximadamente 35 a 40 minutos, una alternativa sencilla a los taxis o los servicios de transporte privado.",
+      "days": "Se recomienda dedicar entre 4 y 7 días para recorrer los barrios de Seattle junto con un par de excursiones de un día a las montañas o las islas, o unos 10 días o más para además recorrer la Península Olímpica y el centro de Washington."
+    },
+    "zh": {
+      "blurb": "华盛顿州将雨水丰沛、常绿葱郁的太平洋海岸线与喀斯喀特山脉的火山峰景致融为一体。州内最大城市西雅图,则是咖啡文化、科技巨头云集与悠闲户外生活方式的代表。从渡轮穿梭的普吉特海湾,到东部的高地荒漠,该州的地貌在短短几小时车程内便能发生戏剧性的变化。",
+      "getting": "大多数旅客会经西雅图-塔科马国际机场(SEA)抵达,这里是华盛顿州的主要门户,坐落于西塔科市。从机场出发,搭乘Sound Transit运营的Link轻轨可直达西雅图市中心,车程约35至40分钟,是出租车或网约车之外便捷实用的选择。",
+      "days": "建议预留约4到7天时间,探索西雅图各个街区,并安排一两次前往山区或岛屿的一日游;若想深入奥林匹克半岛和华盛顿州中部,则可安排约10天或更长的行程。"
+    }
   }
 }

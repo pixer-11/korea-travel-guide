@@ -874,13 +874,6 @@
   "worst": "Señala lo que te llame l",
   "at": "2026-08-15T03:15:36.970Z"
  },
- "es/barcelona-la-merce-festival": {
-  "hash": "67ce91130d25",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "El pago no supone un problema para el festival en sí, ya que casi todos los eventos princi",
-  "at": "2026-08-15T03:15:37.554Z"
- },
  "es/barcelona-la-pedrera-casa-mila": {
   "hash": "893464015c2b",
   "score": 1,
@@ -8377,13 +8370,6 @@
   "registerBreak": false,
   "worst": "看板が見えるより先に、その香りに気づくはずです。砂糖をまとったアーモンド、溶けたチョコレート、そしてかすかにオレンジピールとバターの匂い。",
   "at": "2026-08-15T02:46:19.453Z"
- },
- "ja/barcelona-la-merce-festival": {
-  "hash": "910e40bd28b9",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "必要なのは主に、ルート沿いのフードトラックやバーで使う現金やカードくらいで、小額の紙幣を用意しておくと会計がスムーズです。",
-  "at": "2026-08-15T02:46:24.541Z"
  },
  "ja/barcelona-la-pedrera-casa-mila": {
   "hash": "72acd761a8c3",
@@ -15945,13 +15931,6 @@
   "worst": "무게(\"cent grams\", 즉 100그램이 흔히 요청하는 단위입니다)나 작은 상자를 말하면 됩니다.",
   "at": "2026-09-14T15:43:43.120Z"
  },
- "ko/barcelona-la-merce-festival": {
-  "hash": "4645f14f3df4",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "이 외에도 죽마 같은 틀 위에 세워진 거대한 채색 인형 게간츠(gegants)가 고딕 지구를 행진하고",
-  "at": "2026-09-14T15:43:44.554Z"
- },
  "ko/barcelona-la-pedrera-casa-mila": {
   "hash": "3fba56ee97c1",
   "score": 1,
@@ -23477,13 +23456,6 @@
   "worst": "人流数据也印证了在店外观察到的规律：周末上午9点到中午12点这段时间人最少",
   "at": "2026-08-29T13:19:13.093Z"
  },
- "zh/barcelona-la-merce-festival": {
-  "hash": "a571505d6e14",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "其实不用等到活动正式开始,你就能感受到节日的气息:帕塞格德格拉西亚大道上搭舞台的脚手架已经立起来了",
-  "at": "2026-08-15T10:41:44.046Z"
- },
  "zh/barcelona-la-pedrera-casa-mila": {
   "hash": "bee23e97e626",
   "score": 1,
@@ -27405,11 +27377,11 @@
   "at": "2026-08-15T04:07:13.216Z"
  },
  "zh/new-york-conservatory-garden": {
-  "hash": "7aa77df2c89f",
+  "hash": "9c61b0fb41b9",
   "score": 1,
   "registerBreak": false,
-  "worst": "游览可从中心的意大利花园开始，这里正是穿过范德比尔特门后首先看到的规整核心区域",
-  "at": "2026-09-21T04:20:19.817Z"
+  "worst": "花园每天上午8点开放至晚上8点，人流规律很值得提前留意。",
+  "at": "2026-09-25T08:05:56.836Z"
  },
  "zh/new-york-ocean-prime": {
   "hash": "4965acc85c74",
@@ -27419,11 +27391,11 @@
   "at": "2026-08-15T10:52:01.710Z"
  },
  "zh/new-york-one-world-observatory": {
-  "hash": "9bf051684845",
+  "hash": "be8907c07529",
   "score": 1,
   "registerBreak": false,
-  "worst": "这段被称为\"Sky Pod\"的电梯之旅,本身就是精心设计的一场体验,而不只是把人送到楼上去的工具,它也为整趟游览定下了基调。",
-  "at": "2026-08-16T11:07:03.141Z"
+  "worst": "这段名为“天空舱”（Sky Pod）的电梯之旅，本身就是精心设计的一场体验，而非单纯的上楼工具",
+  "at": "2026-09-25T08:04:39.694Z"
  },
  "zh/new-york-ralph-s-coffee": {
   "hash": "ebca6cb4d6b0",
@@ -29979,5 +29951,75 @@
   "registerBreak": false,
   "worst": "到柜台前之前先想好要点什么，尤其是在DiNic's。",
   "at": "2026-09-24T12:50:25.501Z"
+ },
+ "es/shanghai-ignis-table": {
+  "hash": "bb00e9a281ea",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Es mejor llegar puntual, ni antes ni después, porque el menú degustación avanza plato a plato y una llegada t",
+  "at": "2026-09-25T08:04:10.747Z"
+ },
+ "ja/shanghai-ignis-table": {
+  "hash": "bc32f824e43b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "この価格帯・この形式である以上、イグニス・テーブルは予約制で成り立っており、飛び込みでの利用は現実的ではありません。",
+  "at": "2026-09-25T08:05:51.152Z"
+ },
+ "ko/shanghai-ignis-table": {
+  "hash": "4330c8d238f2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "결과물을 먹는 것뿐만 아니라 요리가 만들어지는 과정을 지켜보는 것 자체를 위해 공간이 설계되어 있습니다.",
+  "at": "2026-09-25T08:04:24.358Z"
+ },
+ "zh/ha-giang-ha-giang-market": {
+  "hash": "0d1d27df9741",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这也说明了它的性质：一个游客觉得好用的普通市场，从来没打算把自己变成旅游景点。",
+  "at": "2026-09-25T08:04:26.430Z"
+ },
+ "es/austin-texas-farmers-market-at-mueller": {
+  "hash": "f9dcff85b5bb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "que también gestiona uno los sábados en Lakeline, en Cedar Park.",
+  "at": "2026-09-25T08:04:41.773Z"
+ },
+ "es/avignon-l-isle-sur-la-sorgue-market": {
+  "hash": "ef2c8d4666c7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Estar en los muelles poco después de las 7:00 permite acceder a los mejores productos",
+  "at": "2026-09-25T08:04:43.409Z"
+ },
+ "ja/austin-texas-farmers-market-at-mueller": {
+  "hash": "5dc1833791f3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "会場となるのは、スチール・トラス構造を持つ開放的な骨組みが特徴の、修復されたブラウニング・ハンガーです。",
+  "at": "2026-09-25T08:04:49.382Z"
+ },
+ "ja/avignon-l-isle-sur-la-sorgue-market": {
+  "hash": "0f6047ae48ef",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "この町は、アヴィニョンから半日で気軽に訪れられます。",
+  "at": "2026-09-25T08:04:51.019Z"
+ },
+ "ko/austin-texas-farmers-market-at-mueller": {
+  "hash": "90262f78b6a1",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "매주 일요일이면 이 항공의 흔적이 남은 공간 한 곳이 농장 부스로 가득 채워지는데, 바로 브라우닝 행어에서...",
+  "at": "2026-09-25T08:04:57.391Z"
+ },
+ "ko/avignon-l-isle-sur-la-sorgue-market": {
+  "hash": "e41af9226c4a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "릴쉬르라소르그는 소르그강의 여러 지류 위에 세워진 마을로, 강줄기가 갈라지며 구시가지를 휘감고 있습니다.",
+  "at": "2026-09-25T08:05:01.044Z"
  }
 }

@@ -42,8 +42,8 @@
    "hits": 6
   },
   "local market": {
-   "attempts": 159,
-   "hits": 71
+   "attempts": 104,
+   "hits": 45
   },
   "bookshop": {
    "attempts": 23,
@@ -70,7 +70,7 @@
    "hits": 5
   },
   "bakery": {
-   "attempts": 35,
+   "attempts": 36,
    "hits": 2
   },
   "bar": {
@@ -78,7 +78,7 @@
    "hits": 0
   },
   "vegetarian": {
-   "attempts": 37,
+   "attempts": 38,
    "hits": 1
   },
   "concept cafe": {
@@ -190,5 +190,5 @@
    "hits": 1
   }
  },
- "updated": "2026-09-24T12:49:03.748Z"
+ "updated": "2026-09-25T08:08:39.149Z"
 }
