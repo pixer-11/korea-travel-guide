@@ -1,45 +1,52 @@
 ---
-title: "Faneuil Hall Marketplace: Boston Travel Guide (4.5★)"
-description: "Faneuil Hall Marketplace in downtown Boston is a set of three historic granite market buildings and a cobblestone promenade beside Faneuil Hall. 4.5★ (49,372 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Boston"
-category: "hidden-gem"
-pubDate: "2026-09-25T07:49:31.176Z"
+title: 'Faneuil Hall Marketplace: Boston Travel Guide (4.5★)'
+description: >-
+  Faneuil Hall Marketplace in downtown Boston is a set of three historic granite
+  market buildings and a cobblestone promenade beside Faneuil Hall. 4.5★ (49,390
+  reviews) — what visitors say, hours, and tips.
+country: United States
+region: Boston
+category: hidden-gem
+pubDate: '2026-09-25T07:49:31.176Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/2017_Faneuil_Hall_from_southeast.jpg/3840px-2017_Faneuil_Hall_from_southeast.jpg"
-  credit: "Photo: Beyond My Ken / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:2017_Faneuil_Hall_from_southeast.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/2017_Faneuil_Hall_from_southeast.jpg/3840px-2017_Faneuil_Hall_from_southeast.jpg
+  credit: 'Photo: Beyond My Ken / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:2017_Faneuil_Hall_from_southeast.jpg'
+  via: act
   focus:
     x: 55
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Faneuil_Hall_Marketplace%2C_Boston_%282735454490%29.jpg"
-    credit: "Photo: yeowatzup / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Faneuil_Hall_Marketplace,_Boston_(2735454490).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/9/9e/Faneuil_Hall_Marketplace%2C_Boston_%282735454490%29.jpg
+    credit: 'Photo: yeowatzup / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Faneuil_Hall_Marketplace,_Boston_(2735454490).jpg
 place:
-  id: "ChIJpyiwa4Zw44kRBQSGWKv4wgA"
-  name: "Faneuil Hall Marketplace"
-  address: "Boston, MA 02109, USA"
+  id: ChIJpyiwa4Zw44kRBQSGWKv4wgA
+  name: Faneuil Hall Marketplace
+  address: 'Boston, MA 02109, USA'
   rating: 4.5
-  userRatingsTotal: 49372
-  googleMapsUrl: "https://maps.google.com/?cid=54879560290141189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 49390
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=54879560290141189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 42.360189
   lng: -71.0551145
-  phone: "+1 617-523-1300"
+  phone: +1 617-523-1300
   openingHours:
-    - "Monday: 10:00 AM – 9:00 PM"
-    - "Tuesday: 10:00 AM – 9:00 PM"
-    - "Wednesday: 10:00 AM – 9:00 PM"
-    - "Thursday: 10:00 AM – 9:00 PM"
-    - "Friday: 10:00 AM – 9:00 PM"
-    - "Saturday: 10:00 AM – 9:00 PM"
-    - "Sunday: 11:00 AM – 7:00 PM"
+    - 'Monday: 10:00 AM – 9:00 PM'
+    - 'Tuesday: 10:00 AM – 9:00 PM'
+    - 'Wednesday: 10:00 AM – 9:00 PM'
+    - 'Thursday: 10:00 AM – 9:00 PM'
+    - 'Friday: 10:00 AM – 9:00 PM'
+    - 'Saturday: 10:00 AM – 9:00 PM'
+    - 'Sunday: 11:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-09-25
+    updated: 2026-09-25T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 19
@@ -55,24 +62,47 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_41677734764b5747535142526b3434775a3461776979704a496843"
+    venueId: ven_41677734764b5747535142526b3434775a3461776979704a496843
 tags:
-  - "boston"
-  - "local market"
-quickAnswer: "Faneuil Hall Marketplace in downtown Boston is a set of three historic granite market buildings and a cobblestone promenade beside Faneuil Hall. Its food hall, shops and street performers draw crowds year-round. Weekdays are calmer throughout opening hours (10am to 9pm). On weekends, avoid 12pm to 8pm; the quietest weekend window is 7pm to 8pm, which only works on Saturday because Sunday closes at 7pm."
+  - boston
+  - local market
+quickAnswer: >-
+  Faneuil Hall Marketplace in downtown Boston is a set of three historic granite
+  market buildings and a cobblestone promenade beside Faneuil Hall. Its food
+  hall, shops and street performers draw crowds year-round. Weekdays are calmer
+  throughout opening hours (10am to 9pm). On weekends, avoid 12pm to 8pm; the
+  quietest weekend window is 7pm to 8pm, which only works on Saturday because
+  Sunday closes at 7pm.
 faq:
-  - q: "When is the quietest time to visit Faneuil Hall Marketplace?"
-    a: "Weekdays are calmer throughout opening hours, 10am to 9pm. On weekends, the quietest window is 7pm to 8pm, which only applies on Saturday because Sunday closes at 7pm. Avoid 12pm to 8pm on weekends, when crowds peak."
-  - q: "What are the opening hours?"
-    a: "Monday to Saturday 10am to 9pm, and Sunday 11am to 7pm. Faneuil Hall itself, with its National Park Service visitor centre and Great Hall, keeps separate hours, so check the NPS site."
-  - q: "Which subway station is closest?"
-    a: "Government Center (Green and Blue lines) is about a five-minute walk across City Hall Plaza. Haymarket (Orange and Green), State Street (Orange and Blue) and Aquarium (Blue) are also close."
-  - q: "How long should I spend there?"
-    a: "Allow one to two hours to eat in the Quincy Market Colonnade and browse North and South Market. Add an hour if you visit inside Faneuil Hall or start the Freedom Trail from here."
-  - q: "What is nearby?"
-    a: "The Blackstone Block and Union Oyster House are a block north, and the Haymarket produce stalls run on Fridays and Saturdays. Across the Rose Kennedy Greenway you reach the North End and Paul Revere House. The Freedom Trail continues toward the Old State House and Boston Common."
+  - q: When is the quietest time to visit Faneuil Hall Marketplace?
+    a: >-
+      Weekdays are calmer throughout opening hours, 10am to 9pm. On weekends,
+      the quietest window is 7pm to 8pm, which only applies on Saturday because
+      Sunday closes at 7pm. Avoid 12pm to 8pm on weekends, when crowds peak.
+  - q: What are the opening hours?
+    a: >-
+      Monday to Saturday 10am to 9pm, and Sunday 11am to 7pm. Faneuil Hall
+      itself, with its National Park Service visitor centre and Great Hall,
+      keeps separate hours, so check the NPS site.
+  - q: Which subway station is closest?
+    a: >-
+      Government Center (Green and Blue lines) is about a five-minute walk
+      across City Hall Plaza. Haymarket (Orange and Green), State Street (Orange
+      and Blue) and Aquarium (Blue) are also close.
+  - q: How long should I spend there?
+    a: >-
+      Allow one to two hours to eat in the Quincy Market Colonnade and browse
+      North and South Market. Add an hour if you visit inside Faneuil Hall or
+      start the Freedom Trail from here.
+  - q: What is nearby?
+    a: >-
+      The Blackstone Block and Union Oyster House are a block north, and the
+      Haymarket produce stalls run on Fridays and Saturdays. Across the Rose
+      Kennedy Greenway you reach the North End and Paul Revere House. The
+      Freedom Trail continues toward the Old State House and Boston Common.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-25'
 ---
 
 ## Granite, cobblestones and a domed roof

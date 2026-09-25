@@ -1,23 +1,30 @@
 ---
 title: 'The Metropolitan Museum of Art: New York Travel Guide (4.8★)'
-description: The Met, on Fifth Avenue at 82nd Street, is best tackled by picking two or three wings rather than trying to "see everything" — the collection spans 5,000 years and simply can't be done in one pass. 4.8★ (94,256 reviews) — what visitors say, hours, and tips.
+description: >-
+  The Met, on Fifth Avenue at 82nd Street, is best tackled by picking two or
+  three wings rather than trying to "see everything" — the collection spans
+  5,000 years and simply can't be done in one pass. 4.8★ (95,092 reviews) — what
+  visitors say, hours, and tips.
 country: United States
 region: New York
 category: attraction
 pubDate: '2026-08-03T11:23:17.444Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg/1920px-Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg/1920px-Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg
   credit: 'Photo: Hugo Schneider / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Metropolitan_Museum_of_Art_(The_Met)_-_Central_Park,_NYC.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Metropolitan_Museum_of_Art_(The_Met)_-_Central_Park,_NYC.jpg
 gallery: []
 place:
   id: ChIJb8Jg9pZYwokR-qHGtvSkLzs
   name: The Metropolitan Museum of Art
-  address: 1000 5th Ave, New York, NY 10028, USA
+  address: '1000 5th Ave, New York, NY 10028, USA'
   rating: 4.8
-  userRatingsTotal: 94256
-  googleMapsUrl: https://maps.google.com/?cid=4264808743088595450&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 95092
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4264808743088595450&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 40.7794366
   lng: -73.963244
@@ -53,20 +60,43 @@ place:
 tags:
   - new york
   - Metropolitan Museum of Art
-quickAnswer: The Met, on Fifth Avenue at 82nd Street, is best tackled by picking two or three wings rather than trying to "see everything" — the collection spans 5,000 years and simply can't be done in one pass. Go on a Friday or Saturday, when the museum stays open until 9pm, and aim for the last hour before closing (5pm–6pm) to walk the Great Hall and main galleries without the daytime crush. It's closed Wednesdays, so plan around that.
+quickAnswer: >-
+  The Met, on Fifth Avenue at 82nd Street, is best tackled by picking two or
+  three wings rather than trying to "see everything" — the collection spans
+  5,000 years and simply can't be done in one pass. Go on a Friday or Saturday,
+  when the museum stays open until 9pm, and aim for the last hour before closing
+  (5pm–6pm) to walk the Great Hall and main galleries without the daytime crush.
+  It's closed Wednesdays, so plan around that.
 faq:
   - q: How do I get to the Met by subway?
-    a: Take the 4, 5, or 6 train to 86th Street, then walk about six blocks west and south to Fifth Avenue and 82nd Street. It's roughly a 10-minute walk from the station.
+    a: >-
+      Take the 4, 5, or 6 train to 86th Street, then walk about six blocks west
+      and south to Fifth Avenue and 82nd Street. It's roughly a 10-minute walk
+      from the station.
   - q: What's the quietest time to visit?
-    a: Foot-traffic data shows 5pm–6pm is the calmest window, both on weekdays and weekends — aim for a Friday or Saturday evening since the museum stays open until 9pm those days.
+    a: >-
+      Foot-traffic data shows 5pm–6pm is the calmest window, both on weekdays
+      and weekends — aim for a Friday or Saturday evening since the museum stays
+      open until 9pm those days.
   - q: Is the Met open every day?
-    a: No — it's closed Wednesdays. Monday, Tuesday, Thursday, and Sunday it's open 10am–5pm; Friday and Saturday it's open later, until 9pm.
+    a: >-
+      No — it's closed Wednesdays. Monday, Tuesday, Thursday, and Sunday it's
+      open 10am–5pm; Friday and Saturday it's open later, until 9pm.
   - q: How much time should I budget?
-    a: Two to three hours lets you cover a couple of wings properly (say, Egyptian art plus European paintings); a full day is more realistic if you want to see the collection broadly, and most visitors return more than once rather than trying to see it all at once.
+    a: >-
+      Two to three hours lets you cover a couple of wings properly (say,
+      Egyptian art plus European paintings); a full day is more realistic if you
+      want to see the collection broadly, and most visitors return more than
+      once rather than trying to see it all at once.
   - q: What's nearby if I want to combine visits?
-    a: The museum sits right on Central Park, so a walk through the park is the obvious pairing. The Guggenheim is about a 10-minute walk north on Fifth Avenue, and the American Museum of Natural History is across the park on the West Side.
+    a: >-
+      The museum sits right on Central Park, so a walk through the park is the
+      obvious pairing. The Guggenheim is about a 10-minute walk north on Fifth
+      Avenue, and the American Museum of Natural History is across the park on
+      the West Side.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-25'
 ---
 ## Why go
 

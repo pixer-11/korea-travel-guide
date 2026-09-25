@@ -1,45 +1,56 @@
 ---
-title: "Souk Madinat: Jumeirah Travel Guide (4.5★)"
-description: "Souk Madinat Jumeirah is a covered, Arabian-style bazaar in Al Sufouh, Jumeirah, open 10am to 11pm every day, with shops and restaurants under timber-roofed arcades beside canals that look out to the Burj Al Arab. 4.5★ (25,886 reviews) — what visitors say, hours, and tips."
-country: "United Arab Emirates"
-region: "Jumeirah"
-category: "hidden-gem"
-pubDate: "2026-09-25T07:41:39.557Z"
+title: 'Souk Madinat: Jumeirah Travel Guide (4.5★)'
+description: >-
+  Souk Madinat Jumeirah is a covered, Arabian-style bazaar in Al Sufouh,
+  Jumeirah, open 10am to 11pm every day, with shops and restaurants under
+  timber-roofed arcades beside canals that look out to the Burj Al Arab. 4.5★
+  (25,889 reviews) — what visitors say, hours, and tips.
+country: United Arab Emirates
+region: Jumeirah
+category: hidden-gem
+pubDate: '2026-09-25T07:41:39.557Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Dubai_-_Souk_Madinat_Jumeirah_-_panoramio_%281%29.jpg/3840px-Dubai_-_Souk_Madinat_Jumeirah_-_panoramio_%281%29.jpg"
-  credit: "Photo: giggel / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Dubai_-_Souk_Madinat_Jumeirah_-_panoramio_(1).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Dubai_-_Souk_Madinat_Jumeirah_-_panoramio_%281%29.jpg/3840px-Dubai_-_Souk_Madinat_Jumeirah_-_panoramio_%281%29.jpg
+  credit: 'Photo: giggel / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Dubai_-_Souk_Madinat_Jumeirah_-_panoramio_(1).jpg
+  via: act
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Dubai_-_Eingang_zum_Souk_Madinat_Jumeirah_-_%D8%B3%D9%88%D9%82_%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%AC%D9%85%D9%8A%D8%B1%D8%A7_-_panoramio.jpg/3840px-Dubai_-_Eingang_zum_Souk_Madinat_Jumeirah_-_%D8%B3%D9%88%D9%82_%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%AC%D9%85%D9%8A%D8%B1%D8%A7_-_panoramio.jpg"
-    credit: "Photo: giggel / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Dubai_-_Eingang_zum_Souk_Madinat_Jumeirah_-_%D8%B3%D9%88%D9%82_%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%AC%D9%85%D9%8A%D8%B1%D8%A7_-_panoramio.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Dubai_-_Eingang_zum_Souk_Madinat_Jumeirah_-_%D8%B3%D9%88%D9%82_%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%AC%D9%85%D9%8A%D8%B1%D8%A7_-_panoramio.jpg/3840px-Dubai_-_Eingang_zum_Souk_Madinat_Jumeirah_-_%D8%B3%D9%88%D9%82_%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%AC%D9%85%D9%8A%D8%B1%D8%A7_-_panoramio.jpg
+    credit: 'Photo: giggel / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Dubai_-_Eingang_zum_Souk_Madinat_Jumeirah_-_%D8%B3%D9%88%D9%82_%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%AC%D9%85%D9%8A%D8%B1%D8%A7_-_panoramio.jpg
 place:
-  id: "ChIJORSp9gBCXz4RtnTCn-ul3mo"
-  name: "Souk Madinat Jumeirah"
-  address: "King Salman Bin Abdulaziz Al Saud St - Al Sufouh 1 - Al Sufouh - Dubai - United Arab Emirates"
+  id: ChIJORSp9gBCXz4RtnTCn-ul3mo
+  name: Souk Madinat Jumeirah
+  address: >-
+    King Salman Bin Abdulaziz Al Saud St - Al Sufouh 1 - Al Sufouh - Dubai -
+    United Arab Emirates
   rating: 4.5
-  userRatingsTotal: 25886
-  googleMapsUrl: "https://maps.google.com/?cid=7700774844266345654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 25889
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7700774844266345654&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 25.1331644
   lng: 55.186223399999996
-  phone: "+971 4 366 8888"
+  phone: +971 4 366 8888
   openingHours:
-    - "Monday: 10:00 AM – 11:00 PM"
-    - "Tuesday: 10:00 AM – 11:00 PM"
-    - "Wednesday: 10:00 AM – 11:00 PM"
-    - "Thursday: 10:00 AM – 11:00 PM"
-    - "Friday: 10:00 AM – 11:00 PM"
-    - "Saturday: 10:00 AM – 11:00 PM"
-    - "Sunday: 10:00 AM – 11:00 PM"
+    - 'Monday: 10:00 AM – 11:00 PM'
+    - 'Tuesday: 10:00 AM – 11:00 PM'
+    - 'Wednesday: 10:00 AM – 11:00 PM'
+    - 'Thursday: 10:00 AM – 11:00 PM'
+    - 'Friday: 10:00 AM – 11:00 PM'
+    - 'Saturday: 10:00 AM – 11:00 PM'
+    - 'Sunday: 10:00 AM – 11:00 PM'
   busyness:
-    updated: 2026-09-25
+    updated: 2026-09-25T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 11
@@ -57,24 +68,41 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_6f6d336c752d6e43546e7452347a58434267397053524f4a496843"
+    venueId: ven_6f6d336c752d6e43546e7452347a58434267397053524f4a496843
 tags:
-  - "jumeirah"
-  - "local market"
-quickAnswer: "Souk Madinat Jumeirah is a covered, Arabian-style bazaar in Al Sufouh, Jumeirah, open 10am to 11pm every day, with shops and restaurants under timber-roofed arcades beside canals that look out to the Burj Al Arab. It is quietest from 10am to 2pm on weekdays and 10am to 1pm on weekends. Avoid weekends from 4pm to 11pm, when it is at its busiest."
+  - jumeirah
+  - local market
+quickAnswer: >-
+  Souk Madinat Jumeirah is a covered, Arabian-style bazaar in Al Sufouh,
+  Jumeirah, open 10am to 11pm every day, with shops and restaurants under
+  timber-roofed arcades beside canals that look out to the Burj Al Arab. It is
+  quietest from 10am to 2pm on weekdays and 10am to 1pm on weekends. Avoid
+  weekends from 4pm to 11pm, when it is at its busiest.
 faq:
-  - q: "When is the quietest time to visit Souk Madinat Jumeirah?"
-    a: "Weekdays from 10am to 2pm and weekends from 10am to 1pm. Avoid weekends from 4pm to 11pm, which is the busiest stretch."
-  - q: "What are the opening hours?"
-    a: "The souk is open 10am to 11pm every day of the week. Individual restaurants may keep their own hours."
-  - q: "How do I get there by public transport?"
-    a: "No metro station is within walking distance. Take the Red Line to Mall of the Emirates Station and finish with a short taxi ride to Al Sufouh."
-  - q: "Is Souk Madinat Jumeirah a real traditional souk?"
-    a: "No. It was purpose-built in the 2000s as part of the Madinat Jumeirah resort, in traditional Arabian style. It is air-conditioned and most shops have fixed prices."
-  - q: "How long should I spend there?"
-    a: "Plan on about two hours to browse and have a drink by the canals. Allow a full evening if you are staying for dinner at a waterside restaurant."
+  - q: When is the quietest time to visit Souk Madinat Jumeirah?
+    a: >-
+      Weekdays from 10am to 2pm and weekends from 10am to 1pm. Avoid weekends
+      from 4pm to 11pm, which is the busiest stretch.
+  - q: What are the opening hours?
+    a: >-
+      The souk is open 10am to 11pm every day of the week. Individual
+      restaurants may keep their own hours.
+  - q: How do I get there by public transport?
+    a: >-
+      No metro station is within walking distance. Take the Red Line to Mall of
+      the Emirates Station and finish with a short taxi ride to Al Sufouh.
+  - q: Is Souk Madinat Jumeirah a real traditional souk?
+    a: >-
+      No. It was purpose-built in the 2000s as part of the Madinat Jumeirah
+      resort, in traditional Arabian style. It is air-conditioned and most shops
+      have fixed prices.
+  - q: How long should I spend there?
+    a: >-
+      Plan on about two hours to browse and have a drink by the canals. Allow a
+      full evening if you are staying for dinner at a waterside restaurant.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-25'
 ---
 
 ## Under the timber roof

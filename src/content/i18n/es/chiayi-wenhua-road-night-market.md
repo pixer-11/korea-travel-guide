@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: chiayi-wenhua-road-night-market
-srcHash: 'd6abb06cc4b4'
+srcHash: '3e52aeef5f04'
 title: 'Mercado nocturno de Wenhua Road: guía de viaje de Chiayi (4,2★)'
-description: 'El mercado nocturno de Wenhua Road es una franja de puestos de comida al aire libre de 500 metros en el distrito West de Chiayi, abierta todos los días de 15:30 a 23:00 (23:30 los miércoles y sábados). Valoración de 4,2★ (33.024 opiniones): lo que dicen los visitantes, horarios y consejos.'
+description: 'El mercado nocturno de Wenhua Road es una franja de puestos de comida al aire libre de 500 metros en el distrito West de Chiayi, abierta todos los días de 15:30 a 23:00 (23:30 los miércoles y sábados). Valoración de 4,2★ (33.027 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El mercado nocturno de Wenhua Road es una franja de puestos de comida al aire libre de 500 metros en el distrito West de Chiayi, abierta todos los días de 15:30 a 23:00 (23:30 los miércoles y sábados). Si puedes, ve un día de semana, ya que entre las 16:00 y las 23:00 hay menos ambiente que los fines de semana. Evita los fines de semana entre las 17:00 y las 23:00, cuando la afluencia es máxima.
 faq:
   - q: ¿Cuál es el mejor momento para visitar el mercado nocturno de Wenhua Road sin aglomeraciones?

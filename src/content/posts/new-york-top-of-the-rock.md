@@ -1,27 +1,36 @@
 ---
 title: 'Top of The Rock: New York Travel Guide (4.7★)'
-description: Top of The Rock, the observation deck stacked on floors 67–70 of Rockefeller Center, is open daily 8am–midnight (last elevator usually around 11pm), and it's calmest if you go right at 8am or later in the evening — steer clear of the 4pm–8pm weekend stretch when the deck fills fastest. 4.7★ (87,214 reviews) — what visitors say, hours, and tips.
+description: >-
+  Top of The Rock, the observation deck stacked on floors 67–70 of Rockefeller
+  Center, is open daily 8am–midnight (last elevator usually around 11pm), and
+  it's calmest if you go right at 8am or later in the evening — steer clear of
+  the 4pm–8pm weekend stretch when the deck fills fastest. 4.7★ (91,356 reviews)
+  — what visitors say, hours, and tips.
 country: United States
 region: New York
 category: hidden-gem
 pubDate: '2026-08-04T10:15:12.699Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/NYC_Top_of_the_Rock_Pano.jpg/1920px-NYC_Top_of_the_Rock_Pano.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/NYC_Top_of_the_Rock_Pano.jpg/1920px-NYC_Top_of_the_Rock_Pano.jpg
   credit: 'Photo: Daniel Schwen / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:NYC_Top_of_the_Rock_Pano.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:NYC_Top_of_the_Rock_Pano.jpg'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg/3840px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg/3840px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg
     credit: 'Photo: Dllu / Wikimedia Commons (CC BY-SA 4.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg
 place:
   id: ChIJe7vKMf9YwokRIMYfDz7iF9o
   name: Top of The Rock
-  address: 30 Rockefeller Plaza, New York, NY 10112, USA
+  address: '30 Rockefeller Plaza, New York, NY 10112, USA'
   rating: 4.7
-  userRatingsTotal: 87214
-  googleMapsUrl: https://maps.google.com/?cid=15715278180902225440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 91356
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15715278180902225440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 40.7593495
   lng: -73.9794087
@@ -63,20 +72,42 @@ place:
 tags:
   - new york
   - hidden gem
-quickAnswer: Top of The Rock, the observation deck stacked on floors 67–70 of Rockefeller Center, is open daily 8am–midnight (last elevator usually around 11pm), and it's calmest if you go right at 8am or later in the evening — steer clear of the 4pm–8pm weekend stretch when the deck fills fastest. Book a timed-entry ticket online in advance; this is one of the most reviewed observation decks in the city, and walk-up lines on weekend afternoons can eat an hour of your day.
+quickAnswer: >-
+  Top of The Rock, the observation deck stacked on floors 67–70 of Rockefeller
+  Center, is open daily 8am–midnight (last elevator usually around 11pm), and
+  it's calmest if you go right at 8am or later in the evening — steer clear of
+  the 4pm–8pm weekend stretch when the deck fills fastest. Book a timed-entry
+  ticket online in advance; this is one of the most reviewed observation decks
+  in the city, and walk-up lines on weekend afternoons can eat an hour of your
+  day.
 faq:
   - q: What are the hours for Top of The Rock?
-    a: Open daily 8am to midnight, with last elevator access typically about an hour before closing — confirm the exact cutoff when you book, as it can shift seasonally.
+    a: >-
+      Open daily 8am to midnight, with last elevator access typically about an
+      hour before closing — confirm the exact cutoff when you book, as it can
+      shift seasonally.
   - q: When is the quietest time to visit?
-    a: Measured crowd data shows the calmest windows are right at opening and later in the evening (roughly 8am–11pm on both weekdays and weekends), while 4pm–8pm on weekends is the busiest stretch to avoid.
+    a: >-
+      Measured crowd data shows the calmest windows are right at opening and
+      later in the evening (roughly 8am–11pm on both weekdays and weekends),
+      while 4pm–8pm on weekends is the busiest stretch to avoid.
   - q: How do I get there by subway?
-    a: Take the B, D, F, or M train to 47–50 Sts–Rockefeller Center, which exits almost directly into the building; the 6 train (51st St) and E/M (Fifth Ave–53rd St) are both a short walk.
+    a: >-
+      Take the B, D, F, or M train to 47–50 Sts–Rockefeller Center, which exits
+      almost directly into the building; the 6 train (51st St) and E/M (Fifth
+      Ave–53rd St) are both a short walk.
   - q: Should I book tickets in advance?
-    a: Yes — this is one of New York's most-visited observation decks, and timed-entry tickets booked online in advance are the reliable way in; walk-up lines on weekend afternoons can be long.
+    a: >-
+      Yes — this is one of New York's most-visited observation decks, and
+      timed-entry tickets booked online in advance are the reliable way in;
+      walk-up lines on weekend afternoons can be long.
   - q: How long should I spend there?
-    a: Plan for 60–90 minutes to cover all three observation levels (67, 69, and 70) rather than rushing through for a quick photo.
+    a: >-
+      Plan for 60–90 minutes to cover all three observation levels (67, 69, and
+      70) rather than rushing through for a quick photo.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-25'
 ---
 ## Why go
 

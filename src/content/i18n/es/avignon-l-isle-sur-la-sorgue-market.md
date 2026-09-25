@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: avignon-l-isle-sur-la-sorgue-market
-srcHash: 'f6495b04fdcf'
+srcHash: 'f6093a844527'
 title: 'Mercado de L''Isle-sur-la-Sorgue: Guía de viaje desde Aviñón (4,5★)'
-description: 'Los muelles de esta localidad fluvial, a unos 25 km al este de Aviñón, se llenan con el mercado de L''Isle-sur-la-Sorgue únicamente las mañanas de jueves (7:00 a 13:30) y domingo (7:00 a 14:00). 4,5★ (12.175 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Los muelles de esta localidad fluvial, a unos 25 km al este de Aviñón, se llenan con el mercado de L''Isle-sur-la-Sorgue únicamente las mañanas de jueves (7:00 a 13:30) y domingo (7:00 a 14:00). 4,5★ (12.178 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Los muelles de esta localidad fluvial, a unos 25 km al este de Aviñón, se llenan con el mercado de L'Isle-sur-la-Sorgue únicamente las mañanas de jueves (7:00 a 13:30) y domingo (7:00 a 14:00). Si quieres encontrar toda la oferta de antigüedades y objetos de segunda mano junto con los puestos de comida, ve el domingo. Llega cerca de las 7:00, antes de que aparezcan los excursionistas de Aviñón y los autocares turísticos.
 faq:
   - q: ¿Qué días se celebra el mercado de L'Isle-sur-la-Sorgue?

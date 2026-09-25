@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: new-york-the-metropolitan-museum-of-art
-srcHash: '98d6c9cd9bff'
+srcHash: '3e6c45eb2ebb'
 title: 'El Museo Metropolitano de Arte: Guía de Viaje de Nueva York (4.8★)'
-description: 'El Met, en la Quinta Avenida con la calle 82, se disfruta mejor eligiendo dos o tres alas en lugar de intentar "verlo todo": la colección abarca 5.000 años y sencillamente no se puede recorrer de una sola vez. 4.8★ (94.256 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Met, en la Quinta Avenida con la calle 82, se disfruta mejor eligiendo dos o tres alas en lugar de intentar "verlo todo": la colección abarca 5.000 años y sencillamente no se puede recorrer de una sola vez. 4.8★ (95.092 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Met, en la Quinta Avenida con la calle 82, se disfruta mejor eligiendo dos o tres alas en lugar de intentar "verlo todo": la colección abarca 5.000 años y sencillamente no se puede recorrer de una sola vez. Ve un viernes o sábado, cuando el museo permanece abierto hasta las 21:00, y aprovecha la última hora antes del cierre (17:00–18:00) para recorrer el Gran Salón (Great Hall) y las galerías principales sin la aglomeración diurna. Cierra los miércoles, así que organiza tu visita teniendo esto en cuenta.'
 faq:
   - q: ¿Cómo llego al Met en metro?

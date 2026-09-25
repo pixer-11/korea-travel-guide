@@ -1,55 +1,78 @@
 ---
-title: "Siniawan Night Market: Kuching Travel Guide (4.3★)"
-description: "Siniawan Night Market is a weekend-only hawker street in the old town of Siniawan, near Bau, about a 30-minute drive southwest of Kuching. 4.3★ (3,494 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Kuching"
-category: "hidden-gem"
-pubDate: "2026-09-25T07:50:09.360Z"
+title: 'Siniawan Night Market: Kuching Travel Guide (4.3★)'
+description: >-
+  Siniawan Night Market is a weekend-only hawker street in the old town of
+  Siniawan, near Bau, about a 30-minute drive southwest of Kuching. 4.3★ (3,497
+  reviews) — what visitors say, hours, and tips.
+country: Malaysia
+region: Kuching
+category: hidden-gem
+pubDate: '2026-09-25T07:50:09.360Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Siniawan_night_market.jpg/3840px-Siniawan_night_market.jpg"
-  credit: "Photo: Cerevisae / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Siniawan_night_market.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Siniawan_night_market.jpg/3840px-Siniawan_night_market.jpg
+  credit: 'Photo: Cerevisae / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Siniawan_night_market.jpg'
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJIUpZOJYM-zER-TSu9br6-AM"
-  name: "Siniawan Night Market"
-  address: "Jalan Siniawan, Siniawan, 94000 Bau, Sarawak, Malaysia"
+  id: ChIJIUpZOJYM-zER-TSu9br6-AM
+  name: Siniawan Night Market
+  address: 'Jalan Siniawan, Siniawan, 94000 Bau, Sarawak, Malaysia'
   rating: 4.3
-  userRatingsTotal: 3494
-  googleMapsUrl: "https://maps.google.com/?cid=286254257230722297&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3497
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=286254257230722297&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.4464994999999998
   lng: 110.21965820000001
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: Closed"
-    - "Wednesday: Closed"
-    - "Thursday: Closed"
-    - "Friday: 5:00 – 9:30 PM"
-    - "Saturday: 5:00 – 10:00 PM"
-    - "Sunday: 5:00 – 9:30 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: Closed'
+    - 'Thursday: Closed'
+    - 'Friday: 5:00 – 9:30 PM'
+    - 'Saturday: 5:00 – 10:00 PM'
+    - 'Sunday: 5:00 – 9:30 PM'
 tags:
-  - "kuching"
-  - "local market"
-quickAnswer: "Siniawan Night Market is a weekend-only hawker street in the old town of Siniawan, near Bau, about a 30-minute drive southwest of Kuching. It runs Friday and Sunday from 5pm to 9:30pm and Saturday until 10pm, and it is closed Monday to Thursday. Get there close to 5pm to eat in the last daylight and see the lanterns come on."
+  - kuching
+  - local market
+quickAnswer: >-
+  Siniawan Night Market is a weekend-only hawker street in the old town of
+  Siniawan, near Bau, about a 30-minute drive southwest of Kuching. It runs
+  Friday and Sunday from 5pm to 9:30pm and Saturday until 10pm, and it is closed
+  Monday to Thursday. Get there close to 5pm to eat in the last daylight and see
+  the lanterns come on.
 faq:
-  - q: "Which days is Siniawan Night Market open?"
-    a: "Only Friday, Saturday and Sunday. It runs from 5:00 to 9:30 PM on Friday and Sunday, and from 5:00 to 10:00 PM on Saturday. It is closed Monday to Thursday."
-  - q: "How do I get to Siniawan from Kuching?"
-    a: "Drive or take a Grab. It is about 25 km southwest on the Kuching–Bau road, roughly 30 minutes. Rides back can be hard to find late at night, so arrange your return trip before you arrive."
-  - q: "How long should I spend there?"
-    a: "One to two hours is enough to walk the street, eat from a few stalls and see the lanterns lit after dark."
-  - q: "Is the food halal?"
-    a: "Not all of it. Siniawan is a historic Chinese town and many stalls serve pork. Look for stalls with halal signs, or ask before you order."
-  - q: "What else is nearby?"
-    a: "Fairy Cave, Wind Cave and Tasik Biru near Bau are all a short drive away. Visit them in the afternoon and arrive at the market for its 5pm opening."
+  - q: Which days is Siniawan Night Market open?
+    a: >-
+      Only Friday, Saturday and Sunday. It runs from 5:00 to 9:30 PM on Friday
+      and Sunday, and from 5:00 to 10:00 PM on Saturday. It is closed Monday to
+      Thursday.
+  - q: How do I get to Siniawan from Kuching?
+    a: >-
+      Drive or take a Grab. It is about 25 km southwest on the Kuching–Bau road,
+      roughly 30 minutes. Rides back can be hard to find late at night, so
+      arrange your return trip before you arrive.
+  - q: How long should I spend there?
+    a: >-
+      One to two hours is enough to walk the street, eat from a few stalls and
+      see the lanterns lit after dark.
+  - q: Is the food halal?
+    a: >-
+      Not all of it. Siniawan is a historic Chinese town and many stalls serve
+      pork. Look for stalls with halal signs, or ask before you order.
+  - q: What else is nearby?
+    a: >-
+      Fairy Cave, Wind Cave and Tasik Biru near Bau are all a short drive away.
+      Visit them in the afternoon and arrive at the market for its 5pm opening.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-25'
 ---
 
 ## One street, three nights a week

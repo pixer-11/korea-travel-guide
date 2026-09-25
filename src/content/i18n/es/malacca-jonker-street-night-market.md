@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: malacca-jonker-street-night-market
-srcHash: '549f8d2c5b6a'
+srcHash: 'd9e787a19e81'
 title: 'Mercado Nocturno de Jonker Street: Guía de Viaje a Malaca (4,3★)'
-description: 'Todos los viernes, sábados y domingos, de 6 de la tarde a medianoche, el Mercado Nocturno de Jonker Street toma Jalan Hang Jebat, en el casco antiguo chino de Malaca; permanece cerrado de lunes a jueves. 4,3★ (31.791 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Todos los viernes, sábados y domingos, de 6 de la tarde a medianoche, el Mercado Nocturno de Jonker Street toma Jalan Hang Jebat, en el casco antiguo chino de Malaca; permanece cerrado de lunes a jueves. 4,3★ (31.800 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Todos los viernes, sábados y domingos, de 6 de la tarde a medianoche, el Mercado Nocturno de Jonker Street toma Jalan Hang Jebat, en el casco antiguo chino de Malaca; permanece cerrado de lunes a jueves. Vaya con hambre para probar las bolas de arroz con pollo, el cendol y los kuih nyonya. Para moverse con más comodidad, llegue cerca de las 6 de la tarde o elija el viernes antes que el sábado.
 faq:
   - q: ¿Qué noches abre el Mercado Nocturno de Jonker Street?

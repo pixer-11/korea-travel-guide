@@ -1,56 +1,82 @@
 ---
-title: "L'Isle-sur-la-Sorgue Market: Avignon Travel Guide (4.5★)"
-description: "L'Isle-sur-la-Sorgue Market fills the quays of this river town about 25 km east of Avignon on Thursday (7am to 1:30pm) and Sunday (7am to 2pm) mornings only. 4.5★ (12,175 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Avignon"
-category: "hidden-gem"
-pubDate: "2026-09-25T07:44:00.874Z"
+title: 'L''Isle-sur-la-Sorgue Market: Avignon Travel Guide (4.5★)'
+description: >-
+  L'Isle-sur-la-Sorgue Market fills the quays of this river town about 25 km
+  east of Avignon on Thursday (7am to 1:30pm) and Sunday (7am to 2pm) mornings
+  only. 4.5★ (12,178 reviews) — what visitors say, hours, and tips.
+country: France
+region: Avignon
+category: hidden-gem
+pubDate: '2026-09-25T07:44:00.874Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/March%C3%A9_de_L%27Isle-sur-la-Sorgue_%2815035%29.jpg/3840px-March%C3%A9_de_L%27Isle-sur-la-Sorgue_%2815035%29.jpg"
-  credit: "Photo: Marianne Casamance / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:March%C3%A9_de_L%27Isle-sur-la-Sorgue_(15035).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/March%C3%A9_de_L%27Isle-sur-la-Sorgue_%2815035%29.jpg/3840px-March%C3%A9_de_L%27Isle-sur-la-Sorgue_%2815035%29.jpg
+  credit: 'Photo: Marianne Casamance / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:March%C3%A9_de_L%27Isle-sur-la-Sorgue_(15035).jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJ8fyXx_D1tRIRznKlk6lr5oo"
-  name: "L'Isle-sur-la-Sorgue Market"
-  address: "Quai Jean Jaurès, 84800 L'Isle-sur-la-Sorgue, France"
+  id: ChIJ8fyXx_D1tRIRznKlk6lr5oo
+  name: L'Isle-sur-la-Sorgue Market
+  address: 'Quai Jean Jaurès, 84800 L''Isle-sur-la-Sorgue, France'
   rating: 4.5
-  userRatingsTotal: 12175
-  googleMapsUrl: "https://maps.google.com/?cid=10008805597948244686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 12178
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10008805597948244686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.919240099999996
   lng: 5.0539182
-  phone: "+33 6 08 18 21 01"
+  phone: +33 6 08 18 21 01
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: Closed"
-    - "Wednesday: Closed"
-    - "Thursday: 7:00 AM – 1:30 PM"
-    - "Friday: Closed"
-    - "Saturday: Closed"
-    - "Sunday: 7:00 AM – 2:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: Closed'
+    - 'Thursday: 7:00 AM – 1:30 PM'
+    - 'Friday: Closed'
+    - 'Saturday: Closed'
+    - 'Sunday: 7:00 AM – 2:00 PM'
 tags:
-  - "avignon"
-  - "local market"
-quickAnswer: "L'Isle-sur-la-Sorgue Market fills the quays of this river town about 25 km east of Avignon on Thursday (7am to 1:30pm) and Sunday (7am to 2pm) mornings only. Go on Sunday if you want the full antiques-and-brocante spread alongside the food. Arrive close to 7am, before the day-trippers from Avignon and the tour coaches get there."
+  - avignon
+  - local market
+quickAnswer: >-
+  L'Isle-sur-la-Sorgue Market fills the quays of this river town about 25 km
+  east of Avignon on Thursday (7am to 1:30pm) and Sunday (7am to 2pm) mornings
+  only. Go on Sunday if you want the full antiques-and-brocante spread alongside
+  the food. Arrive close to 7am, before the day-trippers from Avignon and the
+  tour coaches get there.
 faq:
-  - q: "Which days is L'Isle-sur-la-Sorgue Market held?"
-    a: "Thursday from 7am to 1:30pm and Sunday from 7am to 2pm. It's closed every other day of the week."
-  - q: "Is Thursday or Sunday better?"
-    a: "Sunday is the full market, with antiques, brocante and art alongside the food stalls. Thursday is smaller and mostly food. If antiques are what you're after, go on Sunday."
-  - q: "How do I get there from Avignon without a car?"
-    a: "Take a regional TER train from Avignon Centre to L'Isle-Fontaine-de-Vaucluse station, about half an hour. It's then a short walk to the quays. Sunday trains are less frequent, so check the SNCF timetable ahead of time."
-  - q: "How long should I spend at the market?"
-    a: "Allow two to three hours for the market. Add the afternoon on a Sunday if you want to browse the permanent antiques dealers or drive to Fontaine-de-Vaucluse."
-  - q: "Can I bargain with the sellers?"
-    a: "With antiques and brocante dealers, yes: a polite counter-offer is normal. At food stalls, prices are fixed."
+  - q: Which days is L'Isle-sur-la-Sorgue Market held?
+    a: >-
+      Thursday from 7am to 1:30pm and Sunday from 7am to 2pm. It's closed every
+      other day of the week.
+  - q: Is Thursday or Sunday better?
+    a: >-
+      Sunday is the full market, with antiques, brocante and art alongside the
+      food stalls. Thursday is smaller and mostly food. If antiques are what
+      you're after, go on Sunday.
+  - q: How do I get there from Avignon without a car?
+    a: >-
+      Take a regional TER train from Avignon Centre to
+      L'Isle-Fontaine-de-Vaucluse station, about half an hour. It's then a short
+      walk to the quays. Sunday trains are less frequent, so check the SNCF
+      timetable ahead of time.
+  - q: How long should I spend at the market?
+    a: >-
+      Allow two to three hours for the market. Add the afternoon on a Sunday if
+      you want to browse the permanent antiques dealers or drive to
+      Fontaine-de-Vaucluse.
+  - q: Can I bargain with the sellers?
+    a: >-
+      With antiques and brocante dealers, yes: a polite counter-offer is normal.
+      At food stalls, prices are fixed.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-25'
 ---
 
 ## Stalls along the river

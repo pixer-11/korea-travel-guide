@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: chennai-koyambedu-market
-srcHash: 'c7b2a600d10a'
+srcHash: 'ca737da0fbde'
 title: 'Mercado de Koyambedu: Guía de Viaje de Chennai (4,1★)'
-description: 'El mercado de Koyambedu es el enorme mercado mayorista de verduras, frutas y flores de Chennai, situado en Koyambedu, junto a la terminal de autobuses CMBT y a poca distancia a pie de la estación de metro Koyambedu, en la Línea Verde. 4,1★ (8.408 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El mercado de Koyambedu es el enorme mercado mayorista de verduras, frutas y flores de Chennai, situado en Koyambedu, junto a la terminal de autobuses CMBT y a poca distancia a pie de la estación de metro Koyambedu, en la Línea Verde. 4,1★ (8.410 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El mercado de Koyambedu es el enorme mercado mayorista de verduras, frutas y flores de Chennai, situado en Koyambedu, junto a la terminal de autobuses CMBT y a poca distancia a pie de la estación de metro Koyambedu, en la Línea Verde. Figura como abierto las 24 horas todos los días. El comercio mayorista alcanza su punto más intenso en las horas oscuras previas al amanecer, cuando los camiones nocturnos descargan la mercancía, así que conviene ir temprano para ver el espectáculo completo, o a última hora de la mañana si se prefiere más espacio para caminar.
 faq:
   - q: ¿Cuál es el horario del mercado de Koyambedu?

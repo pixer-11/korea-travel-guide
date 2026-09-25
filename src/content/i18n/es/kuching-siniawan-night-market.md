@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: kuching-siniawan-night-market
-srcHash: '8b4db63d8891'
+srcHash: '4cee2c03c50f'
 title: 'Mercado Nocturno de Siniawan: Guía de Viaje de Kuching (4.3★)'
-description: 'El Mercado Nocturno de Siniawan es una calle de puestos ambulantes que solo abre los fines de semana en el casco antiguo de Siniawan, cerca de Bau, a unos 30 minutos en coche al suroeste de Kuching. 4.3★ (3.494 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Mercado Nocturno de Siniawan es una calle de puestos ambulantes que solo abre los fines de semana en el casco antiguo de Siniawan, cerca de Bau, a unos 30 minutos en coche al suroeste de Kuching. 4.3★ (3.497 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Mercado Nocturno de Siniawan es una calle de puestos ambulantes que solo abre los fines de semana en el casco antiguo de Siniawan, cerca de Bau, a unos 30 minutos en coche al suroeste de Kuching. Abre los viernes y domingos de 17:00 a 21:30 y los sábados hasta las 22:00, permaneciendo cerrado de lunes a jueves. Conviene llegar cerca de las 17:00 para comer con la última luz del día y ver cómo se encienden los faroles.
 faq:
   - q: ¿Qué días abre el Mercado Nocturno de Siniawan?

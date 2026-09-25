@@ -1,55 +1,81 @@
 ---
-title: "Jonker Street Night Market: Malacca Travel Guide (4.3★)"
-description: "Jonker Street Night Market fills Jalan Hang Jebat in Malacca's old Chinatown every Friday, Saturday and Sunday from 6pm to midnight, and it's closed Monday to Thursday. 4.3★ (31,791 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Malacca"
-category: "hidden-gem"
-pubDate: "2026-09-25T07:40:33.181Z"
+title: 'Jonker Street Night Market: Malacca Travel Guide (4.3★)'
+description: >-
+  Jonker Street Night Market fills Jalan Hang Jebat in Malacca's old Chinatown
+  every Friday, Saturday and Sunday from 6pm to midnight, and it's closed Monday
+  to Thursday. 4.3★ (31,800 reviews) — what visitors say, hours, and tips.
+country: Malaysia
+region: Malacca
+category: hidden-gem
+pubDate: '2026-09-25T07:40:33.181Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Jonker_Street_Night_Market_in_Melaka%2C_Malaysia.jpg/3840px-Jonker_Street_Night_Market_in_Melaka%2C_Malaysia.jpg"
-  credit: "Photo: Philip Mallis / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Jonker_Street_Night_Market_in_Melaka,_Malaysia.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Jonker_Street_Night_Market_in_Melaka%2C_Malaysia.jpg/3840px-Jonker_Street_Night_Market_in_Melaka%2C_Malaysia.jpg
+  credit: 'Photo: Philip Mallis / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Jonker_Street_Night_Market_in_Melaka,_Malaysia.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJoRLcf9vx0TER1Pvh6N7VIco"
-  name: "Jonker Street Night Market"
-  address: "Jalan Hang Jebat, 75200 Melaka, Malaysia"
+  id: ChIJoRLcf9vx0TER1Pvh6N7VIco
+  name: Jonker Street Night Market
+  address: 'Jalan Hang Jebat, 75200 Melaka, Malaysia'
   rating: 4.3
-  userRatingsTotal: 31791
-  googleMapsUrl: "https://maps.google.com/?cid=14565157823259474900&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 31800
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14565157823259474900&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 2.1948293
   lng: 102.2483685
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: Closed"
-    - "Wednesday: Closed"
-    - "Thursday: Closed"
-    - "Friday: 6:00 PM – 12:00 AM"
-    - "Saturday: 6:00 PM – 12:00 AM"
-    - "Sunday: 6:00 PM – 12:00 AM"
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: Closed'
+    - 'Thursday: Closed'
+    - 'Friday: 6:00 PM – 12:00 AM'
+    - 'Saturday: 6:00 PM – 12:00 AM'
+    - 'Sunday: 6:00 PM – 12:00 AM'
 tags:
-  - "malacca"
-  - "local market"
-quickAnswer: "Jonker Street Night Market fills Jalan Hang Jebat in Malacca's old Chinatown every Friday, Saturday and Sunday from 6pm to midnight, and it's closed Monday to Thursday. Come hungry for chicken rice balls, cendol and Nyonya kuih. For the most room to move, arrive close to 6pm or choose Friday over Saturday."
+  - malacca
+  - local market
+quickAnswer: >-
+  Jonker Street Night Market fills Jalan Hang Jebat in Malacca's old Chinatown
+  every Friday, Saturday and Sunday from 6pm to midnight, and it's closed Monday
+  to Thursday. Come hungry for chicken rice balls, cendol and Nyonya kuih. For
+  the most room to move, arrive close to 6pm or choose Friday over Saturday.
 faq:
-  - q: "Which nights is Jonker Street Night Market open?"
-    a: "It runs Friday, Saturday and Sunday from 6pm to midnight. It's closed Monday to Thursday. On those nights Jalan Hang Jebat is an ordinary street of shops and cafés."
-  - q: "How do I get there from Kuala Lumpur?"
-    a: "Take an express bus from Terminal Bersepadu Selatan (TBS) to Melaka Sentral, which takes about two hours. Then take a Grab to Dutch Square or the Tan Kim Seng Bridge, a short walk from the start of Jonker Street."
-  - q: "When should I go to avoid the worst crowds?"
-    a: "It's busy every market night. For more space, arrive close to the 6pm opening, or choose Friday, since Saturday brings extra weekend visitors from KL and Singapore."
-  - q: "How long should I spend there?"
-    a: "Two to three hours is enough to walk the whole street, eat your way through several stalls and browse the souvenirs. Add time before for Dutch Square and Harmony Street, and after for a walk along the Melaka River."
-  - q: "Can I pay by card at the stalls?"
-    a: "Card payment is uncommon. Many stalls take cash only, although some show a DuitNow or e-wallet QR code. Carry small notes, and check prices on each stall's board."
+  - q: Which nights is Jonker Street Night Market open?
+    a: >-
+      It runs Friday, Saturday and Sunday from 6pm to midnight. It's closed
+      Monday to Thursday. On those nights Jalan Hang Jebat is an ordinary street
+      of shops and cafés.
+  - q: How do I get there from Kuala Lumpur?
+    a: >-
+      Take an express bus from Terminal Bersepadu Selatan (TBS) to Melaka
+      Sentral, which takes about two hours. Then take a Grab to Dutch Square or
+      the Tan Kim Seng Bridge, a short walk from the start of Jonker Street.
+  - q: When should I go to avoid the worst crowds?
+    a: >-
+      It's busy every market night. For more space, arrive close to the 6pm
+      opening, or choose Friday, since Saturday brings extra weekend visitors
+      from KL and Singapore.
+  - q: How long should I spend there?
+    a: >-
+      Two to three hours is enough to walk the whole street, eat your way
+      through several stalls and browse the souvenirs. Add time before for Dutch
+      Square and Harmony Street, and after for a walk along the Melaka River.
+  - q: Can I pay by card at the stalls?
+    a: >-
+      Card payment is uncommon. Many stalls take cash only, although some show a
+      DuitNow or e-wallet QR code. Carry small notes, and check prices on each
+      stall's board.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-25'
 ---
 
 ## A street that changes shape at sundown

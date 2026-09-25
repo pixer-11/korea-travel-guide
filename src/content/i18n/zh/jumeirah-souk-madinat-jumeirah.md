@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: jumeirah-souk-madinat-jumeirah
-srcHash: '7845ac3727cd'
+srcHash: '8ab2ea96358e'
 title: 迪拜朱美拉集市（Souk Madinat Jumeirah）旅行指南（4.5★）
-description: 朱美拉集市（Souk Madinat Jumeirah）坐落于朱美拉的阿尔苏福（Al Sufouh）区，是一座有顶棚的阿拉伯风情市集，每日10:00至23:00营业，木顶回廊下商铺与餐厅林立，紧邻运河，可远眺阿拉伯塔（Burj Al Arab）。4.5★（25,886条评价）——看看游客怎么说，附营业时间与实用建议。
+description: 朱美拉集市（Souk Madinat Jumeirah）坐落于朱美拉的阿尔苏福（Al Sufouh）区，是一座有顶棚的阿拉伯风情市集，每日10:00至23:00营业，木顶回廊下商铺与餐厅林立，紧邻运河，可远眺阿拉伯塔（Burj Al Arab）。4.5★（25,889条评价）——看看游客怎么说，附营业时间与实用建议。
 quickAnswer: 朱美拉集市（Souk Madinat Jumeirah）坐落于朱美拉的阿尔苏福（Al Sufouh）区，是一座有顶棚的阿拉伯风情市集，每日10:00至23:00营业，木顶回廊下商铺与餐厅林立，紧邻运河，可远眺阿拉伯塔（Burj Al Arab）。工作日10:00至14:00、周末10:00至13:00人流最少。应避开周末16:00至23:00这一最拥挤的时段。
 faq:
   - q: 什么时候去朱美拉集市人最少？

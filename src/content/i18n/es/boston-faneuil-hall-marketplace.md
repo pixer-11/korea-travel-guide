@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: boston-faneuil-hall-marketplace
-srcHash: '431347462897'
+srcHash: '642fce8b3e7b'
 title: 'Faneuil Hall Marketplace: Guía de viaje de Boston (4.5★)'
-description: 'Faneuil Hall Marketplace, en el centro de Boston, reúne tres históricos edificios de granito y un paseo empedrado junto a Faneuil Hall. 4.5★ (49,372 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Faneuil Hall Marketplace, en el centro de Boston, reúne tres históricos edificios de granito y un paseo empedrado junto a Faneuil Hall. 4.5★ (49,390 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Faneuil Hall Marketplace, en el centro de Boston, reúne tres históricos edificios de granito y un paseo empedrado junto a Faneuil Hall. Su mercado de comidas, sus tiendas y sus artistas callejeros atraen multitudes durante todo el año. Entre semana el ambiente es más tranquilo durante todo el horario de apertura (10am a 9pm). Los fines de semana, conviene evitar el tramo de 12pm a 8pm; la franja más tranquila del fin de semana es de 7pm a 8pm, algo que solo funciona el sábado, ya que el domingo el lugar cierra a las 7pm.
 faq:
   - q: ¿Cuál es el mejor momento para visitar Faneuil Hall Marketplace sin multitudes?

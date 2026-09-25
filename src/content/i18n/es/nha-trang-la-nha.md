@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: nha-trang-la-nha
-srcHash: '71b619a98da7'
+srcHash: '3eee462a9378'
 title: 'Là Nhà: Dónde comer en Nha Trang'
 description: Là Nhà es un restaurante vietnamita grande y animado en 102 Đường Hồng Bàng, en el centro de Nha Trang, conocido por su hotpot, mariscos y platos a la parrilla servidos al estilo familiar y a precios razonables.
 quickAnswer: Là Nhà es un restaurante vietnamita grande y animado en 102 Đường Hồng Bàng, en el centro de Nha Trang, conocido por su hotpot, mariscos y platos a la parrilla servidos al estilo familiar y a precios razonables. Con una calificación de 4.8 basada en más de 7,400 reseñas, es ideal para visitar en grupos de 2 a 4 personas para poder compartir varios platos, y se llena en la hora de la cena, así que conviene llegar antes de las 6pm o esperar un poco de fila.
@@ -20,7 +20,7 @@ faq:
 
 ## Por qué destaca Là Nhà
 
-Nha Trang no tiene escasez de restaurantes de mariscos en busca de los dólares de los turistas, pero Là Nhà ("Como en casa" en vietnamita) ha construido su reputación casi por completo gracias a clientes locales y visitantes que regresan una y otra vez, más que por la captación en la calle. Un promedio de 4.8 estrellas en más de 7,400 reseñas es una puntuación inusualmente alta y consistente para un restaurante de su tamaño, y es señal de una cocina que rinde bien noche tras noche, y no de uno que tuvo suerte con unas cuantas buenas reseñas.
+Nha Trang no tiene escasez de restaurantes de mariscos en busca de los dólares de los turistas, pero Là Nhà ("Como en casa" en vietnamita) ha construido su reputación casi por completo gracias a clientes locales y visitantes que regresan una y otra vez, más que por la captación en la calle. Un promedio de 4.5 estrellas en más de 7,400 reseñas es una puntuación inusualmente alta y consistente para un restaurante de su tamaño, y es señal de una cocina que rinde bien noche tras noche, y no de uno que tuvo suerte con unas cuantas buenas reseñas.
 
 El nombre ya adelanta el concepto: comida vietnamita casera, servida en porciones generosas pensadas para compartir, en un ambiente informal más que formal.
 

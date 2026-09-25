@@ -1,23 +1,28 @@
 ---
 title: 'Strand Bookstore: New York Travel Guide (4.8★)'
-description: Strand Bookstore at 828 Broadway (18 miles of shelves, at East 12th Street) is open daily 10am–9pm. 4.8★ (16,778 reviews) — what visitors say, hours, and tips.
+description: >-
+  Strand Bookstore at 828 Broadway (18 miles of shelves, at East 12th Street) is
+  open daily 10am–9pm. 4.8★ (16,911 reviews) — what visitors say, hours, and
+  tips.
 country: United States
 region: New York
 category: hidden-gem
 pubDate: '2026-08-07T09:03:34.889Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Strand_Bookstore.jpg/1920px-Strand_Bookstore.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Strand_Bookstore.jpg/1920px-Strand_Bookstore.jpg
   credit: 'Photo: Beyond My Ken / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Strand_Bookstore.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Strand_Bookstore.jpg'
 gallery: []
 place:
   id: ChIJnSKGEJlZwokRQIpiCvzKzV4
   name: Strand Bookstore
-  address: 828 Broadway, New York, NY 10003, USA
+  address: '828 Broadway, New York, NY 10003, USA'
   rating: 4.8
-  userRatingsTotal: 16778
-  googleMapsUrl: https://maps.google.com/?cid=6831339393645709888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 16911
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6831339393645709888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 40.73325150000001
   lng: -73.99095319999999
@@ -50,20 +55,37 @@ place:
 tags:
   - new york
   - bookshop
-quickAnswer: Strand Bookstore at 828 Broadway (18 miles of shelves, at East 12th Street) is open daily 10am–9pm. It's genuinely busiest 12pm–7pm on weekends, so mornings right at opening or weekday visits are your calmest bet. Budget an hour minimum — three if you're a real browser — and head straight for the basement Rare Book Room and the red carts out front.
+quickAnswer: >-
+  Strand Bookstore at 828 Broadway (18 miles of shelves, at East 12th Street) is
+  open daily 10am–9pm. It's genuinely busiest 12pm–7pm on weekends, so mornings
+  right at opening or weekday visits are your calmest bet. Budget an hour
+  minimum — three if you're a real browser — and head straight for the basement
+  Rare Book Room and the red carts out front.
 faq:
   - q: What are Strand Bookstore's hours?
-    a: Open every day, 10am to 9pm, with no variation by day of the week.
+    a: 'Open every day, 10am to 9pm, with no variation by day of the week.'
   - q: When is the quietest time to visit?
-    a: Weekday hours and weekend mornings right at 10am opening are calmest. Weekends from 12pm to 7pm are the busiest stretch, so avoid that window if you want space to browse.
+    a: >-
+      Weekday hours and weekend mornings right at 10am opening are calmest.
+      Weekends from 12pm to 7pm are the busiest stretch, so avoid that window if
+      you want space to browse.
   - q: How do I get to Strand Bookstore by subway?
-    a: Take the 4, 5, 6, N, Q, R, W, or L to Union Square, then walk about three minutes east to 828 Broadway at East 12th Street.
+    a: >-
+      Take the 4, 5, 6, N, Q, R, W, or L to Union Square, then walk about three
+      minutes east to 828 Broadway at East 12th Street.
   - q: How long should I plan to spend there?
-    a: An hour is enough for a focused loop through new releases and the carts outside. Serious browsers often spend two to three hours across all floors, including the basement Rare Book Room.
+    a: >-
+      An hour is enough for a focused loop through new releases and the carts
+      outside. Serious browsers often spend two to three hours across all
+      floors, including the basement Rare Book Room.
   - q: Is Strand good for gifts and souvenirs?
-    a: Yes — the ground floor stocks its well-known canvas totes, pins, and bookish gifts, and the sidewalk carts are worth a dig for budget-friendly paperbacks.
+    a: >-
+      Yes — the ground floor stocks its well-known canvas totes, pins, and
+      bookish gifts, and the sidewalk carts are worth a dig for budget-friendly
+      paperbacks.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-25'
 ---
 ## Why Strand still matters
 

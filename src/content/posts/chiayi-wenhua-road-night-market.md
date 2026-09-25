@@ -1,40 +1,46 @@
 ---
-title: "Wenhua Road Night Market: Chiayi Travel Guide (4.2★)"
-description: "Wenhua Road Night Market is a 500-metre open-air street-food strip in Chiayi's West District, open daily from 3:30pm to 11pm (11:30pm on Wednesdays and Saturdays). 4.2★ (33,024 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Chiayi"
-category: "hidden-gem"
-pubDate: "2026-09-25T07:53:38.175Z"
+title: 'Wenhua Road Night Market: Chiayi Travel Guide (4.2★)'
+description: >-
+  Wenhua Road Night Market is a 500-metre open-air street-food strip in Chiayi's
+  West District, open daily from 3:30pm to 11pm (11:30pm on Wednesdays and
+  Saturdays). 4.2★ (33,027 reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: Chiayi
+category: hidden-gem
+pubDate: '2026-09-25T07:53:38.175Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/3/30/%E5%98%89%E7%BE%A9%E6%96%87%E5%8C%96%E8%B7%AF%E5%A4%9C%E5%B8%82.jpg"
-  credit: "Photo: Pbdragonwang / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:%E5%98%89%E7%BE%A9%E6%96%87%E5%8C%96%E8%B7%AF%E5%A4%9C%E5%B8%82.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/3/30/%E5%98%89%E7%BE%A9%E6%96%87%E5%8C%96%E8%B7%AF%E5%A4%9C%E5%B8%82.jpg
+  credit: 'Photo: Pbdragonwang / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:%E5%98%89%E7%BE%A9%E6%96%87%E5%8C%96%E8%B7%AF%E5%A4%9C%E5%B8%82.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJOb9FZtKVbjQR_BRx7_pZiVU"
-  name: "Wenhua Road Night Market"
-  address: "Wenhua Rd, West District, Chiayi City, Taiwan 600"
+  id: ChIJOb9FZtKVbjQR_BRx7_pZiVU
+  name: Wenhua Road Night Market
+  address: 'Wenhua Rd, West District, Chiayi City, Taiwan 600'
   rating: 4.2
-  userRatingsTotal: 33024
-  googleMapsUrl: "https://maps.google.com/?cid=6163556499327096060&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 33027
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6163556499327096060&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 23.4796013
   lng: 120.44968399999999
-  phone: "+886 5 225 4321"
+  phone: +886 5 225 4321
   openingHours:
-    - "Monday: 3:30 – 11:00 PM"
-    - "Tuesday: 3:30 – 11:00 PM"
-    - "Wednesday: 3:30 – 11:30 PM"
-    - "Thursday: 3:30 – 11:00 PM"
-    - "Friday: 3:30 – 11:00 PM"
-    - "Saturday: 3:30 – 11:30 PM"
-    - "Sunday: 3:30 – 11:00 PM"
+    - 'Monday: 3:30 – 11:00 PM'
+    - 'Tuesday: 3:30 – 11:00 PM'
+    - 'Wednesday: 3:30 – 11:30 PM'
+    - 'Thursday: 3:30 – 11:00 PM'
+    - 'Friday: 3:30 – 11:00 PM'
+    - 'Saturday: 3:30 – 11:30 PM'
+    - 'Sunday: 3:30 – 11:00 PM'
   busyness:
-    updated: 2026-09-25
+    updated: 2026-09-25T00:00:00.000Z
     weekdayQuiet:
       - 16
       - 22
@@ -45,24 +51,43 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_5556695a705f377852425f52516a62564b745a4639624f4a496843"
+    venueId: ven_5556695a705f377852425f52516a62564b745a4639624f4a496843
 tags:
-  - "chiayi"
-  - "local market"
-quickAnswer: "Wenhua Road Night Market is a 500-metre open-air street-food strip in Chiayi's West District, open daily from 3:30pm to 11pm (11:30pm on Wednesdays and Saturdays). Go on a weekday if you can, since weekdays are calmer from 4pm to 11pm. Avoid weekends from 5pm to 11pm, when it is at its most crowded."
+  - chiayi
+  - local market
+quickAnswer: >-
+  Wenhua Road Night Market is a 500-metre open-air street-food strip in Chiayi's
+  West District, open daily from 3:30pm to 11pm (11:30pm on Wednesdays and
+  Saturdays). Go on a weekday if you can, since weekdays are calmer from 4pm to
+  11pm. Avoid weekends from 5pm to 11pm, when it is at its most crowded.
 faq:
-  - q: "When is the quietest time to visit Wenhua Road Night Market?"
-    a: "Weekdays are calmer all evening, from 4pm to 11pm. Avoid weekends from 5pm to 11pm, which is the busiest period. If you can only go on a weekend, arrive at the 3:30pm opening."
-  - q: "What are the opening hours?"
-    a: "It opens at 3:30pm every day. It closes at 11pm on Monday, Tuesday, Thursday, Friday and Sunday, and at 11:30pm on Wednesday and Saturday."
-  - q: "How do I get there from Chiayi Station?"
-    a: "Walk east from the TRA Chiayi Station towards the Central Fountain roundabout, which takes about 15 to 20 minutes. From THSR Chiayi Station in Taibao, take the BRT shuttle bus into the city first."
-  - q: "What should I eat first?"
-    a: "Start with Chiayi turkey rice (huǒjī ròu fàn), the city's signature dish. After that, try stinky tofu, oyster omelette, grilled skewers and shaved ice or douhua."
-  - q: "How long should I spend there?"
-    a: "An hour to 90 minutes is enough to walk the 500-metre stretch and eat several dishes. Pair it with Hinoki Village or Chiayi Park earlier in the afternoon."
+  - q: When is the quietest time to visit Wenhua Road Night Market?
+    a: >-
+      Weekdays are calmer all evening, from 4pm to 11pm. Avoid weekends from 5pm
+      to 11pm, which is the busiest period. If you can only go on a weekend,
+      arrive at the 3:30pm opening.
+  - q: What are the opening hours?
+    a: >-
+      It opens at 3:30pm every day. It closes at 11pm on Monday, Tuesday,
+      Thursday, Friday and Sunday, and at 11:30pm on Wednesday and Saturday.
+  - q: How do I get there from Chiayi Station?
+    a: >-
+      Walk east from the TRA Chiayi Station towards the Central Fountain
+      roundabout, which takes about 15 to 20 minutes. From THSR Chiayi Station
+      in Taibao, take the BRT shuttle bus into the city first.
+  - q: What should I eat first?
+    a: >-
+      Start with Chiayi turkey rice (huǒjī ròu fàn), the city's signature dish.
+      After that, try stinky tofu, oyster omelette, grilled skewers and shaved
+      ice or douhua.
+  - q: How long should I spend there?
+    a: >-
+      An hour to 90 minutes is enough to walk the 500-metre stretch and eat
+      several dishes. Pair it with Hinoki Village or Chiayi Park earlier in the
+      afternoon.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-25'
 ---
 
 ## Half a kilometre of kerbside kitchens
