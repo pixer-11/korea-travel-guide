@@ -43,6 +43,8 @@ const AGRA = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'].map((d) =>
   .concat(['Saturday: Closed', 'Sunday: 10:00 AM – 8:30 PM']);
 const HAGIANG = ['Monday: 5:00 – 11:30 AM']
   .concat(['Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'].map((d) => `${d}: 5:00 AM – 7:00 PM`));
+const MUELLER = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'].map((d) => `${d}: Closed`)
+  .concat(['Sunday: 10:00 AM – 2:00 PM']);
 const PORTLAND = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'].map((d) => `${d}: Closed`)
   .concat(['Saturday: 10:00 AM – 5:00 PM', 'Sunday: Closed']);
 
@@ -229,6 +231,17 @@ const cases = [
   // 코덱스 2차: 느낌표도 문장 끝이다 — 다른 장소 문장을 지우다 다음 문장까지 먹으면 안 된다.
   ['TP-exclamation-ends-other-place (must FLAG)', post(AGRA,
     'The Taj Mahal is closed on Fridays! On Sunday the bazaar is closed.', 'Agra Bazaar'), 1],
+  // 09-25 오스틴 뮬러 파머스 마켓(일요일만 영업): "나머지 엿새는 닫는다" 를 일요일 휴무로 읽었다.
+  ['FP-closed-the-other-six-days (should be CLEAN)', post(MUELLER,
+    'The market opens only on Sundays, from 10am to 2pm, and it\'s closed the other six days.'), 0],
+  ['FP-closed-the-remaining-days (should be CLEAN)', post(MUELLER,
+    'It runs on Sundays and stays closed on the remaining days of the week.'), 0],
+  // 역방향: 이 가게가 일요일에 닫는다고 못박으면 여전히 잡는다.
+  ['TP-sunday-only-market-said-closed-sunday (must FLAG)', post(MUELLER,
+    'It is closed on Sundays, and the other six days it opens at 9am.'), 1],
+  // 역방향(코덱스): "나머지 엿새, 월요일 포함" 은 다시 요일을 짚는다 — 월요일이 열려 있으면 잡는다.
+  ['TP-other-days-including-open-day (must FLAG)', post(AGRA,
+    'The bazaar opens Sundays and is closed the other six days, including Monday.', 'Agra Bazaar'), 1],
 ];
 
 let fail = 0;

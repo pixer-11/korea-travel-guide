@@ -242,8 +242,14 @@ export function hoursProblems(raw) {
     // quarantined on publish day for exactly this correct sentence
     // (2026-08-10), and the fixer then found nothing to repair — the same
     // nothing-to-fix loop every lesson in this function describes.
+    // 2026-09-25, the same shape counted out loud: "opens only on Sundays,
+    // from 10am to 2pm, and it's closed the other six days" (Austin's Mueller
+    // farmers' market, Sunday-only) held a correct guide because "the other
+    // six days" was not a spelling this list knew.
     stripped = stripped.replace(
-      /closed\s+(?:for\s+|on\s+|to\s+the\s+public\s+)*(?:the\s+rest\s+of\s+the\s+week|(?:all\s+|every\s+)?other\s+days?|weekdays)/gi, ' ');
+      /closed\s+(?:for\s+|on\s+|to\s+the\s+public\s+)*(?:the\s+rest\s+of\s+the\s+week|(?:all\s+|every\s+|the\s+)?(?:remaining|other)\s+(?:(?:two|three|four|five|six|[2-6])\s+)?days?(?:\s+of\s+the\s+week)?|weekdays)\b(?![,\s—–-]+(?:including|especially|notably|such\s+as|like|namely)\b)/gi, ' ');
+    // …but "closed the other six days, including Monday" names a day again —
+    // left standing so the pairing below still reads it (Codex, 2026-09-25).
     // A NEGATED closure is reassurance, not a claim: "open every day, so
     // there's no awkward closed-Monday surprise" says the tower is OPEN on
     // Monday, yet 'closed…Monday' matched and bukhara-bukhara-tower was held
