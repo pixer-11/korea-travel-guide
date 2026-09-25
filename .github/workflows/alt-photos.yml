@@ -86,6 +86,11 @@ jobs:
       - if: steps.gate.outputs.on == 'true'
         run: npm ci
 
+      # Every Claude call from here on lands in the cost ledger (scripts/lib/claude-meter.mjs).
+      # Added 2026-09-25 so the daily report can state the site's whole Claude spend.
+      - name: Name the Claude cost ledger
+        run: echo "CLAUDE_COST_LEDGER=$GITHUB_WORKSPACE/data/claude-cost.jsonl" >> "$GITHUB_ENV"
+
       - name: Backfill photos (vision-gated)
         id: run
         if: steps.gate.outputs.on == 'true'
@@ -412,3 +417,16 @@ jobs:
           curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
             --data-urlencode "text@/tmp/msg.txt" >/dev/null || true
+
+      # Committed on its own and last: a runner forgets everything, and this is the
+      # only record of what this job spent on Claude.
+      - name: Commit the Claude cost ledger
+        if: always()
+        run: |
+          [ -f data/claude-cost.jsonl ] || exit 0
+          git config user.name "content-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/claude-cost.jsonl
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "chore: claude cost ledger ($(date -u +%Y-%m-%d))"
+          bash scripts/git-push-retry.sh

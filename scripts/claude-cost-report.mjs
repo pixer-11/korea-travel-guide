@@ -2,8 +2,8 @@
 // Korean one-liners from the Claude cost ledger, for the Telegram reports.
 //
 //   node scripts/claude-cost-report.mjs --run <GITHUB_RUN_ID>
-//     → this run's spend, then today's (KST) total for the jobs that keep the
-//       ledger (publish, discover-events). Add --attempt for a re-run.
+//     → this run's spend, then yesterday's (KST) total over all automated jobs
+//       (every Claude-calling workflow keeps the ledger). Add --attempt for a re-run.
 //   node scripts/claude-cost-report.mjs --day 2026-09-25
 //     → that KST day's total
 //
@@ -37,11 +37,13 @@ export function report(rows, { run, attempt, day } = {}) {
     const mine = rows.filter((r) => String(r.run) === String(run) && String(r.attempt || '1') === a);
     const l = costLine(sumRows(mine), '💸 이번 작업 Claude 비용');
     if (l) lines.push(l);
-    const today = kstDay();
-    const all = sumRows(rows.filter((r) => r.day === today));
-    // Only the publish and discover jobs keep this ledger, so say so: calling it
-    // "today's total" would claim eleven other workflows that are not metered.
-    if (all.calls) lines.push(`📅 오늘(KST) 발행·이벤트 작업 누계 $${all.usd.toFixed(2)} · ${all.calls}회`);
+    // Yesterday is the last day that is over, so its line is the automation's
+    // real daily spend: every workflow that calls Claude keeps this ledger. Scripts
+    // run by hand (no CLAUDE_COST_LEDGER) are not in it, hence "자동 작업"
+    // (claude-cost.test.mjs fails the build when one does not).
+    const y = kstDay(new Date(Date.now() - 86400e3));
+    const all = sumRows(rows.filter((r) => r.day === y));
+    if (all.calls) lines.push(costLine(all, `📅 어제(${y.slice(5)}) 자동 작업 전체 Claude 비용`));
   } else {
     const d = day || kstDay();
     const l = costLine(sumRows(rows.filter((r) => r.day === d)), `💸 ${d.slice(5)} Claude 비용`);

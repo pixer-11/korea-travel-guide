@@ -143,3 +143,15 @@ try {
 }
 
 process.on('exit', flushMeter);
+
+// A cancelled or timed-out job ends node by signal, and dying by a signal skips
+// 'exit' - that run's whole spend would vanish (gallery-patrol has a 45-minute
+// timeout). Flush, then, if nobody else handles the signal, die by it as before.
+for (const sig of ['SIGINT', 'SIGTERM']) {
+  try {
+    process.once(sig, () => {
+      flushMeter();
+      if (process.listenerCount(sig) === 0) process.kill(process.pid, sig);
+    });
+  } catch { /* a platform without this signal - the exit hook still runs */ }
+}

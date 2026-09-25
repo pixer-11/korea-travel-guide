@@ -105,17 +105,42 @@ test('the meter prints nothing - workflows paste some scripts\' output into Tele
   assert.doesNotMatch(src, /console\.|process\.(stdout|stderr)\.write/);
 });
 
-test('the report: this run, today\'s total, and silence when empty', async () => {
+test('a job cancelled or timed out still lands its spend in the ledger', async () => {
+  // Dying by a signal skips 'exit'; the meter flushes on SIGINT/SIGTERM too.
+  const { spawnSync } = await import('node:child_process');
+  const dir = mkdtempSync(join(tmpdir(), 'meter-sig-'));
+  const ledger = join(dir, 'ledger.jsonl');
+  const meter = new URL('./claude-meter.mjs', import.meta.url).href;
+  const child = `const m = await import(${JSON.stringify(meter)});
+    m.meterRecord({ type: 'message', model: 'claude-opus-5-5', usage: { input_tokens: 1000, output_tokens: 100 } });
+    process.emit('SIGTERM', 'SIGTERM');
+    setTimeout(() => process.exit(0), 5000);`;
+  const r = spawnSync(process.execPath, ['--input-type=module', '-e', child], {
+    env: { ...process.env, CLAUDE_COST_LEDGER: ledger }, encoding: 'utf8', timeout: 20000,
+  });
+  assert.ok(existsSync(ledger), `nothing written on SIGTERM (${r.stderr})`);
+  assert.match(readFileSync(ledger, 'utf8'), /"calls":1/);
+  // It still dies by the signal (not the 5 s fallback exit 0).
+  if (process.platform !== 'win32') assert.equal(r.signal, 'SIGTERM');
+  else assert.notEqual(r.status, 0);
+  assert.equal(readFileSync(ledger, 'utf8').trim().split('\n').length, 1, 'flushed once, not twice');
+});
+
+test('the report: this run, yesterday\'s automation total, and silence when empty', async () => {
   const { report } = await import('../claude-cost-report.mjs');
   const today = kstDay();
+  const yday = kstDay(new Date(Date.now() - 86400e3));
   const rows = [
     { run: '1', day: today, models: { 'claude-opus-5-5': { calls: 18, usd: 1.62, unpriced: 0 } } },
-    { run: '2', day: today, models: { 'claude-sonnet-5': { calls: 40, usd: 0.4, unpriced: 0 } } },
+    { run: '2', day: yday, models: { 'claude-sonnet-5': { calls: 40, usd: 0.4, unpriced: 0 } } },
+    { run: '3', day: yday, models: { 'claude-opus-5-5': { calls: 20, usd: 1.8, unpriced: 0 } } },
     { run: '1', day: '2020-01-01', models: { 'claude-opus-5-5': { calls: 1, usd: 9, unpriced: 0 } } },
   ];
   const out = report(rows, { run: '1' });
   assert.match(out, /💸 이번 작업 Claude 비용 \$10\.62 · 19회/); // run 1 across days
-  assert.match(out, /📅 오늘\(KST\) 발행·이벤트 작업 누계 \$2\.02 · 58회/); // today only, honest scope
+  // yesterday = the last finished day, every job: the real daily spend
+  assert.match(out, new RegExp(`📅 어제\\(${yday.slice(5)}\\) 자동 작업 전체 Claude 비용 \\$2\\.20 · 60회`));
+  assert.doesNotMatch(out, /\$1\.62 · 18회 ·.*어제/, 'today\'s partial day is not mixed into yesterday');
   assert.equal(report([], { run: '1' }), '');
   // A re-run keeps its run id: attempt 2 must not report attempt 1's spend as its own.
   const reruns = [
@@ -148,14 +173,32 @@ test('every file that imports the SDK also imports the meter', () => {
   assert.deepEqual(missing, [], 'these call Claude without the meter, so their spend is invisible');
 });
 
-test('the Claude-writing workflows name the ledger after npm ci, commit it, and never set NODE_OPTIONS via GITHUB_ENV', () => {
-  for (const wf of ['publish.yml', 'discover-events.yml']) {
+test('every workflow that calls Claude names the ledger after npm ci and commits it', async () => {
+  // Found by following imports, not from a hand-kept list: on 2026-09-25 twelve
+  // workflows called Claude with no ledger, and "today's total" silently skipped them.
+  const { meteredWorkflows } = await import('./claude-reach.mjs');
+  const root = fileURLToPath(new URL('../../', import.meta.url));
+  const found = meteredWorkflows(root);
+  assert.ok(Object.keys(found).length >= 10, `only ${Object.keys(found).length} Claude workflows found - the scan is broken`);
+  // Backstop for what the import scan cannot see (a script that spawns another,
+  // `sh x.sh`, a quoted path): a workflow that hands out the API key calls Claude.
+  const wfDir = join(root, '.github', 'workflows');
+  const keyed = readdirSync(wfDir).filter((f) => /\.ya?ml$/.test(f)
+    && /secrets\.ANTHROPIC_API_KEY/.test(readFileSync(join(wfDir, f), 'utf8')));
+  // writer-probe is read-only by design: it prints its line instead of committing.
+  const EXEMPT_COMMIT = new Set(['writer-probe.yml']);
+  const problems = [];
+  for (const wf of new Set([...Object.keys(found), ...keyed])) {
     const y = readFileSync(new URL(`../../.github/workflows/${wf}`, import.meta.url), 'utf8');
-    const ci = y.indexOf('run: npm ci');
+    const ci = y.search(/run: npm ci\b/);
     const ledger = y.indexOf('CLAUDE_COST_LEDGER=$GITHUB_WORKSPACE/data/claude-cost.jsonl');
-    assert.ok(ci > 0 && ledger > ci, `${wf}: ledger path set after npm ci`);
-    assert.match(y, /git add[^\n]*data\/claude-cost\.jsonl/, `${wf}: ledger committed`);
+    if (!(ci > 0 && ledger > ci)) problems.push(`${wf}: ledger path not set after npm ci`);
+    if (!EXEMPT_COMMIT.has(wf) && !/git add[^\n]*data\/claude-cost\.jsonl/.test(y)) problems.push(`${wf}: ledger not committed`);
   }
+  assert.deepEqual(problems, [], 'Claude spend these workflows make would never reach the daily report');
+});
+
+test('no workflow sets NODE_OPTIONS via GITHUB_ENV', () => {
   // GitHub rejects NODE_OPTIONS written to $GITHUB_ENV (runner 2.309.0). The first
   // version of this meter relied on it and would never have switched on.
   const wfDir = new URL('../../.github/workflows/', import.meta.url);
