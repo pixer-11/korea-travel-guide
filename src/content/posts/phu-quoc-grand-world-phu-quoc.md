@@ -25,6 +25,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 10.328480899999999
   lng: 103.8629519
+  phone: '+84 24 3911 8899'
+  openingHours:
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
   - phu quoc
   - top attraction

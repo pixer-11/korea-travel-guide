@@ -1,5 +1,5 @@
 ---
-title: 'The Big Buddha: Phuket Travel Guide'
+title: "The Big Buddha: Phuket Travel Guide"
 description: The Big Buddha (Phra Puttamingmongkol Akenakkiri) sits atop Nakkerd Hill between Chalong and Kata, roughly a 30-45 minute drive from Patong or Phuket Town.
 country: Thailand
 region: Phuket
@@ -7,12 +7,12 @@ category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
   url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/The_Big_Buddha%2C_Phuket.jpg/1920px-The_Big_Buddha%2C_Phuket.jpg
-  credit: 'Photo: Subhrajyoti07 / Wikimedia Commons (CC BY-SA 4.0)'
+  credit: "Photo: Subhrajyoti07 / Wikimedia Commons (CC BY-SA 4.0)"
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:The_Big_Buddha,_Phuket.jpg
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/382465217_8gTn96mkQPQhk73BO8-o4_e3ApIlcN3kbBiRaqZuq1Q.jpg
-    credit: 'Photo: Foursquare user content (The Big Buddha (พระพุทธมิ่งมงคลเอกนาคคีรี))'
+    credit: "Photo: Foursquare user content (The Big Buddha (พระพุทธมิ่งมงคลเอกนาคคีรี))"
     license: foursquare
     source: https://foursquare.com/v/538f4c9a498ea5bb8623c017
 place:
@@ -25,10 +25,19 @@ place:
   businessStatus: OPERATIONAL
   lat: 7.8275763
   lng: 98.3128423
+  phone: +66 76 373 138
+  openingHours:
+    - "Monday: 6:00 AM – 6:30 PM"
+    - "Tuesday: 6:00 AM – 6:30 PM"
+    - "Wednesday: 6:00 AM – 6:30 PM"
+    - "Thursday: 6:00 AM – 6:30 PM"
+    - "Friday: 6:00 AM – 6:30 PM"
+    - "Saturday: 6:00 AM – 6:30 PM"
+    - "Sunday: 6:00 AM – 6:30 PM"
 tags:
   - phuket
   - Big Buddha Phuket
-quickAnswer: The Big Buddha (Phra Puttamingmongkol Akenakkiri) sits atop Nakkerd Hill between Chalong and Kata, roughly a 30-45 minute drive from Patong or Phuket Town. Visiting is free (small donations requested), it's open roughly 6am-7pm daily, and you should budget 1-1.5 hours for the climb, photos, and 360-degree views. Go early morning or just before sunset for the best light and cooler temperatures.
+quickAnswer: The Big Buddha (Phra Puttamingmongkol Akenakkiri) sits atop Nakkerd Hill between Chalong and Kata, roughly a 30-45 minute drive from Patong or Phuket Town. Visiting is free (small donations requested), it's open roughly 6am-6:30pm daily, and you should budget 1-1.5 hours for the climb, photos, and 360-degree views. Go early morning or just before sunset for the best light and cooler temperatures.
 faq:
   - q: How much does it cost to visit the Big Buddha?
     a: Entry is free, though donation boxes are placed around the site to help fund the ongoing marble cladding of the statue. Parking may involve a small fee at some lots.

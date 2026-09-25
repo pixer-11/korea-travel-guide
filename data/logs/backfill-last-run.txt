@@ -1,30 +1,29 @@
-Places 예산: backfill 몫 25회 (오늘 사용 18/100)
-Priority: 205 itinerary stop(s) queued first
-  – sai-kung-sai-kung-seafood-street.md: nothing new (resting 60d)
-  – agra-agra-bazaar.md: nothing new (resting 60d)
-  – beijing-hongqiao-market.md: nothing new (resting 60d)
-  – cebu-carbon-market.md: nothing new (resting 60d)
-  – chiang-rai-chiang-rai-night-bazaar.md: nothing new (resting 60d)
-  – da-lat-da-lat-market.md: nothing new (resting 60d)
-  – fujairah-friday-market.md: nothing new (resting 60d)
+Places 예산: backfill 몫 25회 (오늘 사용 17/100)
+Priority: 206 itinerary stop(s) queued first
+  – bhubaneswar-ekamra-haat.md: nothing new (resting 60d)
+  – colmar-place-de-l-ancienne-douane.md: nothing new (resting 60d)
+  – genoa-piazza-caricamento.md: nothing new (resting 60d)
   – ha-giang-ha-giang-market.md: nothing new (resting 60d)
-  – ho-chi-minh-city-ben-thanh-market.md: nothing new (resting 60d)
-  – hyderabad-charminar-market.md: nothing new (resting 60d)
   – ibiza-las-dalias-de-ibiza.md: nothing new (resting 60d)
-  – labuan-bajo-pasar-malam.md: nothing new (resting 60d)
-  – lantau-island-ngong-ping-village.md: nothing new (resting 60d)
-  – seville-mercado-de-la-encarnacion.md: nothing new (resting 60d)
-  – tainan-yongle-market.md: nothing new (resting 60d)
+  – kenting-hengchun-old-street.md: nothing new (resting 60d)
+  – kuching-siniawan-night-market.md: nothing new (resting 60d)
+  – malacca-jonker-street-night-market.md: nothing new (resting 60d)
+  – xi-an-beiyuanmen.md: nothing new (resting 60d)
   🚫 little-india-former-house-of-tan-teng-niah.md: CLOSED_TEMPORARILY — quarantined (draft), not backfilled
-  ✓ paju-the-third-tunnel.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayBusy: dropped 14h (venue not open then); weekendBusy: dropped 14h (venue not open then)
-  – palawan-mitra-s-ranch.md: nothing new (resting 60d)
-  – palawan-puerto-princesa-subterranean-river-national-park.md: nothing new (resting 60d)
-  – pamukkale-hierapolis-ancient-theater.md: nothing new (resting 60d)
-  ✓ paris-eiffel-tower.md +7h hours
-  ✓ pattaya-mini-siam.md +phone +7h hours
-  – pattaya-prince-of-chumphon-monument.md: nothing new (resting 60d)
-  – philadelphia-independence-national-historical-park.md: nothing new (resting 60d)
-  – phnom-penh-riverside-walk-street.md: nothing new (resting 60d)
+  – paris-eiffel-tower.md: nothing new (resting 60d)
+  – phnom-penh-royal-palace-of-cambodia.md: nothing new (resting 60d)
+  – phnom-penh-royal-palace-park.md: nothing new (resting 60d)
+  – phnom-penh-wat-phnom-daun-penh.md: nothing new (resting 60d)
+  – phong-nha-paradise-cave.md: nothing new (resting 60d)
+  – phong-nha-phong-nha-cave.md: nothing new (resting 60d)
+  – phu-quoc-dinh-cau.md: nothing new (resting 60d)
+  ✓ phu-quoc-grand-world-phu-quoc.md +phone +7h hours
+  – phu-quoc-phu-quoc-national-park.md: nothing new (resting 60d)
+  – phu-quoc-phu-quoc-prison-history-museum.md: nothing new (resting 60d)
+  ✓ phuket-khao-rang-viewpoint.md +7h hours
+  – phuket-phi-phi-islands.md: nothing new (resting 60d)
+  ✓ phuket-phuket-thai-hua-museum.md +phone +7h hours
+  ✓ phuket-the-big-buddha-phuket.md +phone +7h hours
+  – pingxi-lingjiao-waterfall.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 3, backlog-updated 3, already-complete 922, no-new-data 414, no-place 406, closed-quarantined 1, quota-429 0, api-error 0, api-calls 25, remaining-askable 109 (APPLIED).
+BACKFILL RESULT: updated 4, backlog-updated 4, already-complete 936, no-new-data 432, no-place 409, closed-quarantined 1, quota-429 0, api-error 0, api-calls 25, remaining-askable 95 (APPLIED).
