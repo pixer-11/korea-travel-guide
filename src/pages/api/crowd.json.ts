@@ -1,156 +1,36 @@
-import { getCollection } from 'astro:content';
-import { resolveBusyness, busynessDayGroups } from '../../lib/busyness.mjs';
+import type { APIRoute } from 'astro';
 
-// PUBLIC CROWD-DATA API — the site's one genuinely uncopyable asset, served as data.
-//
-// Why this exists. Audiala's founder replied to an outreach mail on 2026-08-25
-// with exactly one question: "Do you have an API? Happy to link to your service
-// if we use it." A backlink from a site that credits its sources was on the
-// table and the only thing missing was a machine-readable endpoint. The numbers
-// were already on the pages; nothing but the wrapper was absent.
-//
-// Foot-traffic patterns per venue are absent from Google Maps' public data and
-// unlicensable by assistants, so this is the part of the catalogue that other
-// people actually want. Giving it away costs nothing (it is already visible on
-// every guide page) and is the cheapest credited-link generator the site has.
-//
-// Shape is deliberately flat and boring: one array, one object per place, hours
-// as integers in local 24h time. No pagination, no auth, no rate limit — the
-// whole thing is a static file built at deploy time, so it costs a CDN hit.
-//
-// ⚠️ THE HEADERS BELOW DO NOTHING. This route is prerendered, so Astro writes it
-// to disk as a plain file and the assets layer decides what to send — the
-// Response's headers are discarded. Verified live on 2026-08-25: the deploy
-// served "max-age=0, must-revalidate" and no Access-Control-Allow-Origin at all,
-// which would have broken the browser-side integration this endpoint was built
-// for. The real ones live in `public/_headers` under /api/*. They are kept here
-// only so a future `prerender = false` still behaves, and so the intent is
-// readable next to the payload.
 export const prerender = true;
 
-const SITE = (import.meta.env.SITE || 'https://wanderatlasguides.com').replace(/\/$/, '');
-
-type Busy = {
-  weekdayQuiet?: number[];
-  weekdayBusy?: number[];
-  weekendQuiet?: number[];
-  weekendBusy?: number[];
-  updated?: string | Date;
-};
-
-// Only places that actually carry a measurement. A venue with an empty busyness
-// block is worse than absent — a consumer would read "no quiet hours" as a fact
-// rather than as missing data. All four lists count: a place known only for when
-// it is busy is still a measured place.
-const hasData = (b?: Busy) =>
-  !!b &&
-  (b.weekdayQuiet?.length ?? 0) +
-    (b.weekdayBusy?.length ?? 0) +
-    (b.weekendQuiet?.length ?? 0) +
-    (b.weekendBusy?.length ?? 0) >
-    0;
-
-const day = (d?: string | Date) =>
-  !d ? null : (d instanceof Date ? d.toISOString() : new Date(d).toISOString()).slice(0, 10);
-
-export async function GET() {
-  const posts = await getCollection('posts', ({ data }) => !data.draft);
-
-  const places = posts
-    .filter((p) => hasData(p.data.place?.busyness as Busy))
-    .map((p) => {
-      // Resolved, not raw: the stored weekend lists overlap on 37 places, and an
-      // hour that is both "quiet" and "busy" is the first thing an integrator
-      // would notice — and the last thing they would trust. See lib/busyness.
-      const b = resolveBusyness(p.data.place!.busyness as Busy);
-      return {
-        id: p.id.replace(/\.md$/, ''),
-        // The venue name, not the SEO headline: "Wat Arun", not
-        // "Wat Arun: Bangkok Travel Guide (4.6★)". A consumer matching against
-        // their own place list needs the former.
-        name: p.data.place?.name ?? String(p.data.title).split(':')[0].trim(),
-        city: p.data.region ?? null,
-        country: p.data.country ?? null,
-        lat: p.data.place?.lat ?? null,
-        lng: p.data.place?.lng ?? null,
-        // Local clock hours, 0-23. Empty array means "measured, none found",
-        // which is different from the field being absent. No hour appears in
-        // both a quiet and a busy list.
-        weekdayQuiet: b.weekdayQuiet,
-        weekdayBusy: b.weekdayBusy,
-        weekendQuiet: b.weekendQuiet,
-        weekendBusy: b.weekendBusy,
-        // The four fields above are BestTime's two buckets, and a bucket's two
-        // or five days often keep DIFFERENT opening hours — Subhash Bose Park
-        // is shut 9am-2pm every Saturday but open from 11am on Sunday, so its
-        // weekendQuiet names hours that hold on one of the two days. Existing
-        // integrations keep reading those fields unchanged; `days` is the same
-        // measurement split by the days it actually holds on, with anything
-        // outside that day's own opening hours removed. null when we have no
-        // readable opening hours to check against.
-        days: busynessDayGroups(p.data.place!.busyness as Busy, p.data.place?.openingHours),
-        measured: day((p.data.place!.busyness as Busy)?.updated),
-        url: `${SITE}/posts/${p.id.replace(/\.md$/, '')}/`,
-      };
-    })
-    .sort((a, b) => (a.country ?? '').localeCompare(b.country ?? '') || (a.city ?? '').localeCompare(b.city ?? ''));
-
-  const body = {
-    // Attribution terms live IN the payload, not only in prose on a docs page.
-    // A developer wiring this up reads the JSON, not the website.
-    //
-    // What this line used to say — "free to use, including commercially,
-    // attribution requested, not required" — was never ours to give. The
-    // forecasts belong to BestTime.app, their terms 5.3 reserve redistribution,
-    // and our own permission was still unanswered when the notice below was
-    // added on 2026-09-08. So the payload granted a machine rights in one field
-    // while telling a human those rights were unconfirmed in another, and a
-    // developer wires up `license` — nobody parses `notice`. Narrowed
-    // 2026-09-10 to what we can actually give: the display use BestTime's own
-    // terms name as the intended one. Widened again only if they say yes.
-    license:
-      'Display use, attribution required. You may show these hours to your own users inside your own interface. You may NOT republish them as a dataset, resell them, or serve them as your own API — the underlying forecasts belong to BestTime.app and our permission to redistribute them is not confirmed. See `notice`.',
-    permitted: ['Show these hours in your own interface, with the attribution below.'],
-    notPermitted: [
-      'Republishing the data as a dataset, feed or API of your own.',
-      'Resale or sublicensing.',
-      'Use as a substitute for a BestTime.app account.',
-    ],
-    attribution: {
-      text: 'Crowd data by Wander Atlas, measured by BestTime.app',
-      url: `${SITE}/tools/best-time/`,
+// DISCONTINUED 2026-09-26 at the data provider's request.
+//
+// This endpoint served the quiet/busy hours of ~800 venues as a public JSON
+// feed. The hours come from BestTime.app. BestTime's written answer (2026-09-25,
+// support thread "Written permission request: free public redistribution with
+// attribution"): showing the hours on our guide pages is fine, and so are the
+// embeddable widgets with a visible BestTime link — but a ready-made public
+// feed could stand in for their API, so it may not stay up, "even with a more
+// restrictive license, a key, or a rate limit".
+//
+// The URL is kept on purpose: anything that already calls it gets this notice
+// and an empty list rather than a bare 404. Do NOT put venue data back here
+// without a new written permission from BestTime.
+export const GET: APIRoute = () =>
+  new Response(
+    JSON.stringify({
+      discontinued: true,
+      since: '2026-09-26',
+      message:
+        'This public crowd-data feed has been discontinued at the request of the data provider. ' +
+        'For hourly foot-traffic data in your own app, use the BestTime.app API directly: https://besttime.app . ' +
+        'Our embeddable crowd widgets remain available: https://wanderatlasguides.com/tools/widget/',
+      count: 0,
+      places: [],
+    }, null, 1),
+    {
+      headers: {
+        'Content-Type': 'application/json; charset=utf-8',
+        'Cache-Control': 'public, max-age=3600',
+      },
     },
-    // Naming the upstream provider here, not only on the tools page. "Aggregated
-    // venue foot-traffic observations" was true and told a developer nothing, and
-    // it is part of why it took until 2026-09-08 to notice that redistributing
-    // this needs BestTime's written permission under their terms 5.3.
-    source: {
-      name: 'BestTime.app',
-      url: 'https://besttime.app',
-      note: 'Measured foot-traffic forecasts, fetched under a paid BestTime API plan.',
-    },
-    docs: `${SITE}/api/`,
-    hours: 'Local clock hours, 0-23. quiet = reliably below typical; busy = reliably above.',
-    method:
-      'Weekly foot-traffic forecasts from BestTime.app, fetched once per venue and cached, refreshed on a rolling schedule. `measured` is the date that venue was last refreshed, not the date of this file.',
-    // Honest to anyone who found this through a public API directory and cannot
-    // be emailed: the on-page use is squarely inside BestTime's terms, but
-    // republishing the hours as an open endpoint is redistribution, and their
-    // terms ask for written permission. Requested 2026-09-08. This line is
-    // removed once there is an answer either way.
-    notice:
-      'Redistribution permission from BestTime.app is being confirmed (requested 2026-09-08). Showing these hours in your own UI is the intended use; if you are about to build something you would have to unpick, wait for this line to disappear or email hello@wanderatlasguides.com.',
-    count: places.length,
-    places,
-  };
-
-  return new Response(JSON.stringify(body, null, 1), {
-    headers: {
-      'content-type': 'application/json; charset=utf-8',
-      'access-control-allow-origin': '*',
-      // A day of edge caching. The underlying numbers move on a rolling refresh
-      // measured in weeks, so a consumer polling hourly should not pay for it.
-      'cache-control': 'public, max-age=86400',
-    },
-  });
-}
+  );
