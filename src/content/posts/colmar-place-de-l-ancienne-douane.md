@@ -55,7 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A roof you read like a quilt
 
 Look up before you do anything else. The Koifhus, Colmar's old customs house, wears a steep roof of glazed tiles in a diamond pattern of green, ochre, red and black. It dates from 1480, making it the oldest public building in the city. Merchants once brought their goods here to be weighed and taxed before they could be sold.
@@ -72,7 +71,7 @@ In the middle of the square is the Schwendi Fountain, made by Frédéric Auguste
 
 ## Getting there on foot
 
-Colmar's old centre is compact and mostly pedestrianised, so walk. Here is how the square connects to everything nearby:
+Colmar's old centre is compact and mostly pedestrianised, so walk. The square sits within easy reach of the other main sights:
 
 - **From Gare de Colmar:** roughly a 20-minute walk east via Avenue de la République and the Champ de Mars.
 - **From Petite Venise and Quai de la Poissonnerie:** a few minutes north along the canal-side lanes.

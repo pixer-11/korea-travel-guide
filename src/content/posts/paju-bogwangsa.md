@@ -65,7 +65,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 The road into Bogwangsa narrows to a single lane through pine forest, and you park before you see any part of the temple itself. That's deliberate: the walk in, past a stream and a stone bridge, is part of how the place is meant to be approached, not an inconvenience to rush through.
 
 ## What's actually there
@@ -106,6 +105,6 @@ There's no admission booth and no ticket to buy, so there's nothing transactiona
 
 Bogwangsa sits well outside Paju's more visited clusters like Heyri Art Village or Paju Book City, so it isn't a casual add-on to those trips without a car.
 
-Driving is the most practical option: it's roughly 40 to 50 minutes from central Seoul depending on traffic, with parking available near the temple entrance. Public transit involves a bus connection from Paju's town center and a walk in from the nearest stop, so budget extra time if you're relying on it.
+Driving is the most practical option: travel time from central Seoul will depend on traffic, with parking available near the temple entrance. Public transit involves a bus connection from Paju's town center and a walk in from the nearest stop, so budget extra time if you're relying on it.
 
 Because it draws a steady but not overwhelming crowd, this is a reasonable stop to pair with a slower, half-day itinerary in northern Paju rather than a packed sightseeing loop. Give yourself 45 minutes to an hour for the halls and courtyard, longer if you take the trail up the hillside.

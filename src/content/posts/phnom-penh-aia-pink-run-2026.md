@@ -41,7 +41,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What the AIA Pink Run actually is
 
 This is a charity fun run, not a competitive road race. The distance is a flat, manageable 2.5km, which tells you the organizers built it for turnout and awareness rather than split times.
@@ -56,7 +55,7 @@ If you know Phnom Penh's riverside and central pagoda grounds, this is the same 
 
 ## Locking in the date
 
-Mark October 25, 2026 for the AIA Pink Run. That's a Sunday, which fits the pattern of most Phnom Penh charity runs: early-morning start before the heat builds, wrapped up well before midday.
+Mark October 25, 2026 for the AIA Pink Run, which fits the pattern of most Phnom Penh charity runs: early-morning start before the heat builds, wrapped up well before midday.
 
 Because this is a single annual fixture rather than a multi-day festival, there's no separate "packet pickup day" or expo to track down, at least none stated by the organizers. Confirm timing and tickets on the official site so you have the exact start time and any registration deadline in hand.
 
@@ -77,7 +76,6 @@ Don't assume you can simply show up and join. Confirm timing and tickets on the 
 
 ## Making a morning of it in Phnom Penh
 
-Because the run itself only takes an hour or so to complete at a 2.5km distance, most participants treat it as the start of a longer day out rather than the whole itinerary.
+Because the run itself only takes an hour or so to complete at a 2.5km distance, it's easy to treat it as the start of a longer day out rather than the whole itinerary.
 
 Botumvatey Pagoda Park's setting means you can wander the pagoda grounds afterward before heading toward the riverside for breakfast. If you're new to the city, pair race morning with a visit to Wat Phnom or the Tonle Sap riverside promenade, both reachable by a short tuk-tuk ride, to round out the day while it's still cool enough to walk comfortably.
-

@@ -69,7 +69,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Low stalls ring a walled compound in Unit 3, facing inward onto paths and patches of lawn. Folded saris are stacked high on the tables. Painted cloth scrolls hang from the rafters, and small brass figures stand in rows at the front edge. Ekamra Haat is Bhubaneswar's standing crafts bazaar, and it collects in one compound the work you would otherwise travel half of Odisha to find.
 
 It is also no secret. The haat is one of the most-reviewed stops in the city and gets consistently good ratings. Plan around the crowds instead of hoping to avoid them.
@@ -78,7 +77,7 @@ It is also no secret. The haat is one of the most-reviewed stops in the city and
 
 It is on Madhusudan Marg in Ekamra Vihar, Unit 3, in the planned government quarter of the new city. From Bhubaneswar railway station it is a short auto-rickshaw or app-cab ride. From Biju Patnaik International Airport it is a quick drive across town.
 
-Show drivers the address or plus code **7RHR+73M**. "Ekamra Haat, Unit 3" usually works as well. The temple-dense Old Town around Lingaraj Temple lies to the south, so you can pair a morning of temples with an afternoon here.
+Show drivers the address or plus code `7RHR+73M`. "Ekamra Haat, Unit 3" usually works as well. The temple-dense Old Town around Lingaraj Temple lies to the south, so you can pair a morning of temples with an afternoon here.
 
 ## The eleven o'clock window
 

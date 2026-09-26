@@ -64,7 +64,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A street of iced seafood and souvenir stalls
 
 Every evening at 6pm a single street in central Hua Hin turns into a market. It is one straight run of stalls down Soi 72, also called Dechanuchit Road. The street starts near the Clock Tower junction on Phetkasem Road.
@@ -88,7 +87,7 @@ Getting there right at 6pm puts you ahead of the weekend rush. On a weeknight yo
 
 The market is right in the middle of town, so most central hotels are within walking distance. Hua Hin Railway Station is a short walk inland. Its red-and-cream royal waiting pavilion is worth a look before dark.
 
-Green songthaews run up and down Phetkasem Road. Tell the driver "Talat To Rung" (night market) and get off at the Clock Tower. If you're coming by taxi or tuk-tuk, agree the fare before you get in. In the evening the tuk-tuks don't use meters.
+Green songthaews run up and down Phetkasem Road. Tell the driver you're headed to the night market and get off at the Clock Tower. If you're coming by taxi or tuk-tuk, agree the fare before you get in. In the evening the tuk-tuks don't use meters.
 
 ## Ordering seafood and bargaining the stalls
 

@@ -56,14 +56,13 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What you're walking into
 
 Al Ain Central Market is a working produce souq, not a tourist bazaar dressed up for cameras. Stalls run in long covered rows, crates stacked with dates, limes, mangoes and leafy greens brought in daily from farms around the Al Ain oasis belt. Expect fishmongers, spice sellers and a section for household goods alongside the fruit and vegetable stands. The building sits on Zayed Bin Sultan Street in Al Noud, part of the Wadi Al Ain 1 district, an easy taxi ride from central Al Ain.
 
 ## Why it rates so well
 
-A 4.4 rating across nearly 1,200 reviews is high for a everyday market, and it holds up because the produce turns over fast and prices stay local rather than tourist-inflated. This is a market rated by people who actually shop here for their week's groceries, not by visitors passing through once. Al Ain itself draws far fewer tourists than Dubai or Abu Dhabi city, and this market sits below the radar even within Al Ain, so you won't be jostling for space at the stalls.
+A 4.4 rating across nearly 1,200 reviews is high for an everyday market, and it holds up because the produce turns over fast and prices stay local rather than tourist-inflated. This is a market rated by people who actually shop here for their week's groceries, not by visitors passing through once. Al Ain itself draws far fewer tourists than Dubai or Abu Dhabi city, and this market sits below the radar even within Al Ain, so you won't be jostling for space at the stalls.
 
 ## When to come and how long to stay
 

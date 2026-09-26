@@ -44,7 +44,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Ameyoko is the strip of shops and stalls that runs under and alongside the elevated JR tracks between Ueno and Okachimachi stations. The name is short for Ameya Yokocho, "candy shop alley," a nod to the black-market sweets trade that started here after the war. What's left today is louder and more crowded than candy: crates of frozen tuna, bins of dried fish, sneaker walls, and vendors shouting prices over each other.
 
 ## Finding your way in
@@ -90,6 +89,6 @@ If you want a proper meal after, Ueno Park and its museums are a five-minute wal
 
 ## Getting the timing right
 
-Most stalls open by mid-morning and wind down by early evening, though hours vary stall to stall since this isn't a single managed market. Arriving close to opening gives you first pick of the fresh fish before the midday crowd arrives.
+Stall hours vary widely since this isn't a single managed market, so don't count on any fixed opening or closing time. Arriving close to opening gives you first pick of the fresh fish before the midday crowd arrives.
 
 Give yourself 45 minutes for a walk-through, or closer to two hours if you plan to eat as you go and duck into the surplus and sneaker shops along the way.

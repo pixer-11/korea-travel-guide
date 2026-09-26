@@ -73,7 +73,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Lunch under a railroad roof
 
 Reading Terminal Market began in 1893, underneath the train shed of the Reading Railroad. The trains are long gone. The market is still there: a low hall laid out as a grid of aisles, with stalls on every side and a sea of shared tables in the middle.
@@ -112,7 +111,7 @@ Every counter runs its own queue, and people expect you to join the back of the 
 
 The seating in the middle is shared and first come, first served. It's fine for one person to hold a table while the others queue at different stalls. Clear your own trash when you're done, because someone is always waiting. Most counters take cards and mobile payment, but a few smaller vendors may prefer cash.
 
-Close to the center of the market is Philbert, a bronze pig. Visitors rub his snout for luck and drop coins in for a local farm charity. It's the obvious meeting point if your group splits up.
+Near the center of the market stands a bronze pig statue. Visitors rub his snout for luck and drop coins in for a local farm charity. It's the obvious meeting point if your group splits up.
 
 ## Before and after the market
 

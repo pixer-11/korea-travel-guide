@@ -37,7 +37,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Seoul has five palaces left from the Joseon dynasty, plus the shrine where the kings' spirit tablets are kept, and for five days in October all six of them run as one coordinated festival instead of six separate ticket lines. That's the whole premise of the K-Royal Culture Festival: it doesn't build a stage in a park, it borrows stages that are five hundred years old.
 
 ## What's actually happening October 7-11
@@ -50,7 +49,7 @@ Because the program spans six separate sites, no two of them run identical sched
 
 Each site sits in a different part of central Seoul, so your choice of venue decides your whole day, not just your evening.
 
-- **Gyeongbokgung**: the largest and most photographed palace, Gwanghwamun gate faces Gyeongbokgung Station (Line 3)
+- **Gyeongbokgung**: the largest and most photographed palace, near Gyeongbokgung Station (Line 3)
 - **Changdeokgung**: known for its Secret Garden, Anguk Station (Line 3) exit 3
 - **Changgyeonggung**: quieter grounds next to Changdeokgung, walkable from the same Anguk exit
 - **Deoksugung**: downtown, beside City Hall Station (Lines 1 and 2), famous for its stone wall road

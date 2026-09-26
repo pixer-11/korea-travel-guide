@@ -101,7 +101,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-23'
 ---
-
 The building itself is the first surprise: a wrought-iron and glass structure from 1916, restored and reopened in 2009, standing one block southwest of Plaza Mayor like a Victorian train shed that got lost and ended up selling jamón instead.
 
 Walk in from Plaza de San Miguel and the layout reveals itself as a ring of stalls around a central cluster of standing tables. There's no seating in the traditional restaurant sense. You buy a few bites from one counter, a glass of vermouth from another, and eat standing at a shared marble-topped table, plate in one hand, drink in the other.
@@ -124,7 +123,7 @@ Portions are deliberately small so you can work your way around several counters
 
 The market's own popularity is the main thing to plan around. This is one of the most-reviewed food markets in Spain, and on weekend afternoons and evenings the aisles between stalls fill shoulder to shoulder.
 
-The measured quiet spell is 10am to 11am, both on weekdays and weekends, right as the doors open. The measured rush is noon to 11pm on weekends, which covers lunch, the evening paseo, and most of the night.
+The measured quiet spell is 10am to 11am, both on weekdays and weekends, right as the doors open. The measured rush runs from noon until the market closes, especially on weekends, covering lunch, the evening paseo, and most of the night.
 
 If you want to actually see the stalls rather than shuffle past them, arriving within that first opening hour is the difference between a leisurely browse and a slow crawl through a crowd.
 

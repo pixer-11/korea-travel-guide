@@ -68,4 +68,4 @@ Makuhari Messe is large, split across multiple exhibition halls linked by corrid
 
 Queues at a show like this are shortest right at opening and build through the morning. A portable charger earns its weight: ticket scanning, event apps, and photos drain a phone quickly, and outlets near the halls are scarce. Coin lockers near the main entrances fill up early.
 
-Food inside the venue is convention-priced and lines get long at midday; eating a bit earlier or later than the noon rush saves time. Cash and IC cards (Suica/Pasmo) both work for transit and most vendors, though smaller stalls often want cash. Autograph sessions and stage events are run to a published schedule, with seating claimed well before the listed start time.
+Food inside the venue tends to cost more than eating outside, and lines get long at midday; eating a bit earlier or later than the noon rush saves time. Cash and IC cards (Suica/Pasmo) both work for transit and most vendors, though smaller stalls often want cash. Autograph sessions and stage events are run to a published schedule, with seating claimed well before the listed start time.

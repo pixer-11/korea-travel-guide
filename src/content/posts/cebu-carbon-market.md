@@ -67,7 +67,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Stalls from midnight
 
 Carbon Market runs on farmers' hours. Most days it opens at midnight, while trucks from the Cebu highlands are still unloading. The stalls run along covered aisles and spill onto the pavement around M. C. Briones Street. You'll find:
@@ -83,7 +82,7 @@ It takes its name from the coal ("carbon") once stored here for the old Cebu rai
 
 The address is 59 M. C. Briones St, in the old port district of Cebu City. Grab and metered taxis are the easiest way in. Ask to be dropped at Carbon Market, since every driver knows it.
 
-Jeepneys marked "Carbon" end their routes here. They're cheap and they run constantly, but they fill up fast. The market is on foot from the rest of the old downtown:
+Jeepneys marked "Carbon" end their routes here. They're cheap and they run constantly, but they fill up fast. The market is a short walk from the rest of the old downtown:
 
 - Colon Street, often called the oldest street in the Philippines
 - Basilica Minore del Santo Niño and Magellan's Cross

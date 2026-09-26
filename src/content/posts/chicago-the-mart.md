@@ -64,7 +64,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 You come to THE MART expecting a building and end up inside something closer to a small vertical city. This is the Merchandise Mart, a single structure so large it once had its own zip code, sitting on the north bank of the Chicago River just west of the Loop. It's a working wholesale hub first and a landmark second, and both facts shape how you should plan a visit.
 
 ## What THE MART actually is
@@ -103,6 +102,6 @@ THE MART's scale is really the attraction even without a specific showroom to vi
 
 Not having a designer credential or trade show badge doesn't mean you're stuck at the front door. The ground-floor restaurants and retail are open to anyone during business hours, and that's the easiest way to spend real time in the building without needing an appointment. If you want access to a specific showroom, calling ahead or checking whether a showroom has posted public hours for a current market week is more reliable than showing up and hoping.
 
-Because everything runs on the Monday-to-Friday, 9-to-5 schedule, arriving early in that window before offices fill up tends to make the lobby and elevators far less congested than a midday visit, when deliveries, meetings, and showroom staff are all moving through at once.
+Because everything runs on the Monday-to-Friday, 9-to-5 schedule, timing a visit outside of peak lunch and meeting hours tends to make the lobby and elevators less congested than a midday visit, when deliveries, meetings, and showroom staff are all moving through at once.
 
 Dress like you're visiting an office building rather than a tourist site; some showroom staff will assume you're a trade visitor unless you say otherwise, and a polite "just looking, not trade" at a showroom door is usually all it takes to be pointed toward the public areas instead.

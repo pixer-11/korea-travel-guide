@@ -30,14 +30,13 @@ heroImage:
     x: 50
     'y': 55
 ---
-
 Walk two or three streets back from the Naviglio Grande and the crowds thin out fast. Nebbia sits in one of those quieter side streets, close enough to the canal district to reach on foot but far enough that you're not competing with the aperitivo lines for a table.
 
 ## What Nebbia actually is
 
 This is not a red-sauce-and-checked-tablecloth trattoria. Nebbia is usually cited as the place that kicked off Milan's neo-trattoria wave: kitchens that keep the format and informality of an old-school trattoria but run a tighter, more seasonal, small-plates menu instead of a laminated book of forty dishes.
 
-The dish people bring up first is a piped liver pâté on toast, plated as a small, precise swirl rather than a rustic spread. It's become something of a signature, the kind of plate other Milan kitchens now nod to when they open their own version of a modern trattoria.
+The kitchen is known for small, carefully plated dishes rather than rustic, family-style spreads. That style has become something of a signature, the kind of approach other Milan kitchens now nod to when they open their own version of a modern trattoria.
 
 Expect a short, changing list of small plates built for sharing rather than one plate per person. That format rewards going with at least one other person so you can order across the menu.
 

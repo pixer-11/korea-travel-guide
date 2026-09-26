@@ -66,7 +66,6 @@ faq:
     a: "Mountain refuges fill fast in July and August and should be booked ahead, since there's no cell signal on most trails to arrange it last minute."
 aiGenerated: true
 ---
-
 Mercantour is not one gate you walk through. It's a chain of valleys stacked along the Italian border north of Nice, each with its own access road, car parks and rangers' huts. Established in 1979, it covers 67,900 hectares of granite peaks, glacial lakes and gorges, and it's the only French Alpine park that touches the Mediterranean climate zone. That mix is why summer visitors find snowfields above 2,500m and lavender scrub in the same day.
 
 The Nice office at 23 Rue d'Italie is the place to sort logistics before you drive up: current trail closures, refuge bookings, and which valley suits your legs. Vésubie and Tinée valleys are the easiest day-trip bases from Nice, about 90 minutes by car. Roya valley, further east near Tende, gets you to the Vallée des Merveilles, the park's Bronze Age rock-engraving site, but that area requires a longer approach on foot or by guided 4x4 from the Refuge des Merveilles trailhead.
@@ -88,6 +87,6 @@ The park holds up its 4.7-star reputation partly because it rarely feels overrun
 
 ## Getting oriented like someone who's driven this before
 
-Rangers at the Nice office and at valley-specific Maisons du Parc (in Saint-Martin-Vésubie, Tende, and Barcelonnette) hand out free trail maps and know which refuges have beds free that night. Book mountain refuges ahead in July and August; they fill fast and there's no cell signal to call ahead once you're on the trail. Pay in cash at most refuges and small valley cafés; card readers are unreliable at altitude.
+Rangers at the Nice office and at valley-specific Maisons du Parc (in Saint-Martin-Vésubie, Tende, and Barcelonnette) hand out free trail maps and know which refuges have beds free that night. Book mountain refuges ahead in July and August; they fill fast and there's no cell signal to call ahead once you're on the trail.
 
-Wear boots rated for scree, not sneakers: even the "easy" lakeside walks cross loose granite. Most day hikes run four to six hours round trip, so pack lunch rather than counting on trailside services, which mostly close by late afternoon.
+Wear boots rated for scree, not sneakers: even the "easy" lakeside walks cross loose granite. Day hikes vary widely in length, so pack lunch rather than counting on trailside services, which mostly close by late afternoon.

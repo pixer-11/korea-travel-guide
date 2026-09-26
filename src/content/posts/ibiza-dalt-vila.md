@@ -117,7 +117,7 @@ At sunset, the bastions facing west catch the light hitting the water, and local
 
 ## Beating the midday crush
 
-Dalt Vila is still relatively under-the-radar compared to Ibiza's beach clubs, and many day-trippers never make it far past the harbour gate. That said, weekends do get busier around midday, when cruise passengers and day-trip groups tend to cluster around the cathedral square.
+Dalt Vila is still relatively under-the-radar compared to Ibiza's beach clubs, and many day-trippers never make it far past the harbour gate. That said, midday does get busier, when cruise passengers and day-trip groups tend to cluster around the cathedral square.
 
 For a quieter walk, come in the early morning before the heat sets in, or return in the early evening, when the lanes tend to be calmest. That evening window also happens to be when the stone walls glow warmest, so it's not a compromise.
 

@@ -51,7 +51,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Broadway curves gently through Lakeview here, past nail salons and diners, and Unabridged sits at street level with its name painted across the front window in plain block letters. No café bolted on, no merch wall by the door. Just a bookstore, floor to ceiling, the way the neighborhood has known it for decades.
 
 ## What the shelves actually hold
@@ -87,7 +86,7 @@ Plenty of general bookstores carry a children's shelf. Unabridged carries a chil
 
 ## Paying and leaving
 
-Like most independent bookstores of this size, expect a straightforward counter checkout, card or cash, no loyalty app to download before you leave. If you want a specific title and aren't sure it's in stock, calling ahead or asking staff directly is more reliable than assuming the shelf will have it; a store this well-curated turns over stock rather than warehousing everything in the back.
+Like most independent bookstores of this size, checkout here is simple and unfussy. If you want a specific title and aren't sure it's in stock, calling ahead or asking staff directly is more reliable than assuming the shelf will have it; a store this well-curated turns over stock rather than warehousing everything in the back.
 
 Because it's well-known rather than obscure, don't expect an empty store on a Saturday afternoon. Weekday mornings shortly after the 10am opening tend to be the calmest stretch, before the after-work and weekend browsing picks up.
 

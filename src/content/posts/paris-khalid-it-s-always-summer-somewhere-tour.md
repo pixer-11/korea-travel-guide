@@ -39,7 +39,6 @@ heroImage:
     x: 50
     'y': 60
 ---
-
 Khalid's tour is called It's Always Summer Somewhere, and the Paris stop lands at Salle Pleyel on October 18, 2026. That title is a deliberate contrast to the room he's playing: Salle Pleyel is one of the city's grand old concert halls, not a beach.
 
 ## Why Salle Pleyel is the interesting part of this show
@@ -74,7 +73,7 @@ Confirm timing and tickets on the official site, and double-check the specific s
 
 The stretch of Rue du Faubourg Saint-Honoré near the hall is mostly antique dealers, embassies, and small bistros that close early, so this isn't a neighbourhood for a long pre-show bar crawl. If you want a proper dinner, aim for somewhere near Parc Monceau or head toward Ternes, where there are more casual brasseries with later kitchen hours.
 
-Parc Monceau itself is worth a short walk if you arrive with daylight to spare: its rotunda gates and faux-ruins were laid out in the 1770s, and it closes at dusk, so it's really a pre-show rather than post-show stop.
+Parc Monceau itself is worth a short walk if you arrive with daylight to spare: its rotunda gates and faux-ruins were laid out in the 1770s, so it's really a pre-show rather than post-show stop.
 
 ## Getting home after the encore
 

@@ -56,7 +56,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What Kuromon actually is
 
 Kuromon Market runs through Nipponbashi in Chuo Ward, a single covered arcade about 580 meters long. It's lined with fishmongers, produce stalls, knife shops and stand-up grills, not sit-down restaurants. The nickname is "Osaka's Kitchen," and vendors here have long supplied the city's restaurants as much as its shoppers.
@@ -75,7 +74,7 @@ Plan 45 minutes for a quick grazing pass, 90 if you're stopping to watch grillin
 
 - Grilled scallop skewers: sold at multiple stalls, cooked to order over open grills
 - Whole king crab legs: priced by weight, grilled or steamed on request
-- Uni (sea urchin): served raw in the shell, a few bites for close to nothing per portion
+- Uni (sea urchin): served raw in the shell
 - Tamagoyaki skewers: sweet rolled omelet, a cheap palate reset between seafood
 - Wagyu skewers: seared tableside at several stands near the market's center
 

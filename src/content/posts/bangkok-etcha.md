@@ -30,7 +30,6 @@ heroImage:
     x: 50
     'y': 55
 ---
-
 You don't stumble onto Etcha the way you stumble onto a street-food stall. It sits seven floors up inside the Chatrium Grand Bangkok, a hotel tower on the Thonburi side of the Chao Phraya, which means the approach itself is part of the experience: elevator, corridor, then a dining room with the river doing its slow brown churn below.
 
 That geography matters more than it sounds. Most of Bangkok's star-chasing tables cluster around Sukhumvit or the old town; Etcha's riverside perch on the Thonburi bank gives it a different kind of quiet, away from the density of Silom or Asoke, with the water rather than traffic setting the mood after dark.
@@ -63,7 +62,7 @@ This isn't a rooftop bar with a skyline backdrop; it's a working river, wide and
 The Thonburi side can feel like a small detour if you're staying near Sukhumvit or Silom, so build in extra time.
 
 - By taxi or ride-hailing app: straightforward from most central hotels, but factor in river-crossing traffic at evening rush hour
-- By BTS: the Krung Thon Buri or Wongwian Yai stations on the Silom Line put you within a short onward ride of the hotel
+- By BTS: the Krung Thon Buri station on the Silom Line puts you within a short onward ride of the hotel
 - Some riverside hotels run their own shuttle boats along the Chao Phraya; ask when booking whether Chatrium Grand Bangkok offers guest transfer options, since river hotels in this area sometimes do
 
 Whichever way you go, leave more time than a map suggests. River crossings in Bangkok rarely move at the speed the distance implies.

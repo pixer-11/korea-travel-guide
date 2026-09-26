@@ -77,7 +77,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-24'
 ---
-
 ## Ten floors of cloth
 
 Mayestik is a fabric market that fills a whole building. Its modern, 10-story block on Jl. Tebah III in Kebayoran Baru holds thousands of stalls. Textiles are why most people come: bolts stacked to the ceiling, lengths of batik folded over rails, rolls of lace and brocade standing upright in narrow shopfronts.
@@ -130,7 +129,7 @@ Only start bargaining if you mean to buy. Agreeing a price and then walking away
 
 A length of batik folded in a suitcase is a good souvenir. A shirt tailored to fit you is a better one. Many visitors buy cloth at Mayestik and take it to a tailor (*penjahit*), and the trade that grows up around a market like this makes that easy.
 
-Here is what helps the process go smoothly:
+A few things make the process easier:
 
 - **A reference:** a photo, or better, a garment that fits you well so the tailor can copy it.
 - **Your timeline:** say plainly when you leave Jakarta. Ask if the job can be done before then, with time for a fitting.

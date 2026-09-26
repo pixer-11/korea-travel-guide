@@ -68,7 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Georgetown's main drag is all cobblestone and rowhouses, and Thomas Jefferson Street NW is one of the narrow side streets that drops down toward the Potomac and the C&O Canal. Baked & Wired sits on this quieter stretch, a short walk from the canal towpath and from Georgetown's cluster of boutiques on M Street and Wisconsin Avenue.
 
 The name tells you what's inside: bakery on one side, coffee on the other. It's the kind of place where the counter case is the main event, cupcakes stacked two or three high, and the espresso machine hisses away at the register a few feet from where you order.
@@ -115,6 +114,6 @@ Georgetown University's campus is a short walk uphill, and the shopping strip al
 
 ## The verdict on price and pace
 
-At a moderate price level for the DC coffee-shop category, Baked & Wired isn't the cheapest counter in Georgetown, but it's not aimed at fine-dining budgets either. Expect to spend on the higher side for a single specialty cupcake and a coffee, in line with other artsy bakery-cafes in expensive neighborhoods like this one.
+At a moderate price level for the DC coffee-shop category, Baked & Wired isn't the cheapest counter in Georgetown, but it's not aimed at fine-dining budgets either. Expect prices in line with other artsy bakery-cafes in expensive neighborhoods like this one.
 
 The pace matches a neighborhood spot more than a tourist checkpoint: no reservations, no formal wait system, just the counter and whatever seating is free. With a rating that's stayed strong across thousands of reviews, it's clearly well-known rather than an undiscovered stop, so plan your visit time rather than hoping to stumble in during a lull.

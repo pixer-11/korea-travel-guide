@@ -76,7 +76,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Rome doesn't have many places where the traffic noise just stops. Climb the path up from Piazzale Flaminio or the top of the Spanish Steps and within a few minutes the city gives way to gravel avenues, umbrella pines and the kind of quiet you don't expect two minutes from Via del Corso.
 
 ## Getting oriented in the park
@@ -97,7 +96,7 @@ The Galleria Borghese sits inside the park in a 17th-century villa built for Car
 
 The lake near Piazza di Siena has a small dock where you can rent rowboats by the half hour, a favorite with families and an easy way to see the little temple from the water. Bike and electric-cart rental points are scattered near the main entrances if you'd rather cover ground faster.
 
-Piazza di Siena itself is a wide grass amphitheater used for Rome's international horse-riding show each May; the rest of the year it's just a flat green oval good for a picnic. The Pincio terrace, on the park's southwest edge, is the spot for views over Piazza del Popolo and the domes beyond, especially near sunset.
+Piazza di Siena itself is a wide grass amphitheater used for Rome's international horse-riding show each May; the rest of the year it's just a flat green oval good for a picnic. The Pincio terrace is the spot for views over Piazza del Popolo and the domes beyond, especially near sunset.
 
 ## When to go to avoid the crowds
 

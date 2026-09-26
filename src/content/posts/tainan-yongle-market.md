@@ -44,7 +44,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A market with a food street wrapped around it
 
 YongLe Market (永樂市場) is two places at once. Inside is a working neighbourhood market. Outside, along Section 3 of Guohua Street, the market's frontage and the shopfronts facing it form one of Tainan's densest runs of snack stalls.
@@ -57,7 +56,7 @@ This is not a quiet find. It is one of the most-reviewed food spots in Tainan, a
 
 Tainan food runs to small, slightly sweet dishes, and this block covers most of the classics. Stalls to look for, on the market side and across the road:
 
-- **Wa gui (碗粿):** savoury rice pudding steamed in its own bowl, topped with a thick sauce. Fu Sheng Hao (富盛號) is the long-running name here.
+- **Wa gui (碗粿):** savoury rice pudding steamed in its own bowl, topped with a thick sauce, sold by several long-running stalls in this stretch.
 - **Spring rolls (春捲):** soft wrappers rolled around vegetables, meat and peanut powder. Jin De (金得) is the stall people queue for.
 - **Squid rice noodles (小卷米粉):** thin rice noodles in clear broth with chunks of squid. Several stalls on Guohua Street sell them.
 - **Fried and braised snacks:** fish-paste items, oyster dishes and pork rice bowls are sold along the same stretch.

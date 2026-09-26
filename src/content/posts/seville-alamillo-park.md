@@ -73,7 +73,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Getting your bearings
 
 Alamillo Park sits north of central Seville, across the Guadalquivir from the old town, split into two zones by the Meandro de San Jerónimo, the old riverbed now dry and reclaimed as parkland. The southern half is manicured lawns, palm groves and ponds; the northern half is scrubbier, closer to the native Mediterranean vegetation the park is known for. Puente del Alamillo, the white cable-stayed bridge by Santiago Calatrava, marks the southern entrance and is a landmark in its own right.
@@ -86,7 +85,7 @@ Bring more time than you think.
 
 - Bike hire stands near the main entrances, useful given the park's size
 - A miniature train that loops through the grounds
-- Water-skiing on the artificial lake in the northern section
+- An artificial lake in the northern section
 - Wetland areas and reed beds where herons and other waterbirds nest
 - Open meadows good for a spread-out picnic, away from the manicured south end
 
@@ -108,4 +107,3 @@ The park is too big to see on foot in one pass, so decide your zone before you s
 - If arriving by car, parking is informal along the park's edges rather than in a dedicated lot, so circle the perimeter roads near the entrances
 
 Because it draws both tourists photographing the bridge and Sevillanos out for exercise, the etiquette is simple: keep to the right on shared paths, and give cyclists room on the loop road, which doubles as the fastest route through the park.
-

@@ -77,7 +77,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-25'
 ---
-
 ## A street that changes shape at sundown
 
 By day, Jalan Hang Jebat is just a street. Two-storey Chinese shophouses line both sides, with carved doors, shuttered windows and the covered five-foot walkways that run along Malacca's old core. Cars and motorbikes still squeeze through.
@@ -110,7 +109,7 @@ The editorial listing mentions entertainment, and there's usually a performance 
 This is one of Malacca's most-visited evening outings, and it gets packed. The street is narrow and the flow is two-way, so plan around that rather than hoping for a quiet night.
 
 - **Pick your night.** Saturday draws weekend visitors from Kuala Lumpur and Singapore on top of the regular crowds. Friday is often the gentler choice.
-- **Start early.** Stalls open at 6pm, and in the first stretch of the evening the queues are shorter and the food is freshest.
+- **Start early.** In the first stretch of the evening the queues are shorter and the food is freshest.
 - **Pay small.** Many stalls take cash only, though plenty now show a DuitNow or e-wallet QR code. Bring small notes, because breaking a big one at a snack stall slows everyone down.
 - **Queue in line.** Popular stalls run a simple first-come line. Order, pay, then step aside to wait so the next person can reach the counter.
 - **Don't tip.** Nobody expects it at hawker stalls.

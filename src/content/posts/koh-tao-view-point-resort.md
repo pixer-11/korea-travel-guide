@@ -52,7 +52,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Koh Tao is small enough that most visitors sort themselves by bay: the diving crowd clusters around Sairee and Mae Haad, and the quieter half of the island pools further south. View Point Resort sits in that second half, on a stretch of coast where the hillside drops toward the water and the horizon is unbroken sea rather than a row of moored longtail boats.
 
 The name is literal. The resort is built to use its elevation, with the pool and restaurant positioned to look out over the water rather than at it from ground level. That's a meaningful difference on an island where so many beachfront places sit flush with the sand and lose the view to whatever's moored offshore.
@@ -75,7 +74,7 @@ A spa on a small island resort like this tends to run a short, fixed slate of ma
 
 ## Getting there and getting around
 
-View Point Resort is on Koh Tao itself, in the Amphoe Ko Pha-ngan administrative district of Surat Thani province, the same paperwork quirk that covers several outer islands in this stretch of the Gulf. There's no airport on Koh Tao; visitors arrive by ferry from Chumphon, Koh Samui, or Koh Phangan, landing at Mae Haad pier on the island's west side.
+View Point Resort is on Koh Tao itself, within Surat Thani province, the same administrative arrangement that covers several outer islands in this stretch of the Gulf. There's no airport on Koh Tao; visitors arrive by ferry from Chumphon, Koh Samui, or Koh Phangan, landing at Mae Haad pier on the island's west side.
 
 From Mae Haad, the resort is a taxi or songthaew ride rather than a walk. Koh Tao has no real public bus network, so arrange transport through the resort or flag a shared taxi at the pier; the island's few paved roads wind over a hilly interior, and motorbike rental is common but the terrain gets steep fast if you're not used to riding.
 

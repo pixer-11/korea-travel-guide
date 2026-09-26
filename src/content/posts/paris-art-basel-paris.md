@@ -37,7 +37,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What's on and where
 
 Art Basel Paris takes over the Grand Palais from October 23 to 25, 2026. The venue is the restored 19th-century glass-and-steel hall on Avenue Winston Churchill, between the Champs-Élysées and the Seine.
@@ -51,7 +50,7 @@ Public days typically follow invitation-only preview days, a pattern the fair ha
 The Grand Palais sits a short walk from Champs-Élysées–Clemenceau, served by Metro lines 1 and 13. RER C stops at Invalides, roughly ten minutes on foot across the Pont Alexandre III.
 
 - Nearest metro: Champs-Élysées–Clemenceau (lines 1, 13)
-- Alternate stop: Invalides (RER C, lines 8, 13)
+- Alternate stop: Invalides (RER C; Metro lines 8, 13)
 - Bus: several lines stop along Avenue Winston Churchill and Cours la Reine
 - Driving is not recommended; the surrounding streets close for pedestrian flow during fair days
 

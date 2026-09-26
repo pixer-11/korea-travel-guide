@@ -82,7 +82,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What's actually inside
 
 The market occupies a multi-story building at 2-chōme-10-1 Matsuo, Naha, a short walk off Kokusai Street. Ground-floor stalls sell fish, pork cuts, seaweed and Okinawan produce you won't see on mainland Japan: purple sweet potato, goya (bitter melon), rafute pork belly ready-cooked. Upstairs holds small eateries where staff cook the fish or meat you just bought downstairs for a set cooking charge. That "buy downstairs, cook upstairs" system is the whole point of visiting; it's called mise-age.
@@ -97,7 +96,7 @@ This is a well-known stop on Naha itineraries, not an undiscovered spot, so tour
 
 ## Buying downstairs, eating upstairs
 
-Here's how the mise-age system actually works:
+The mise-age process runs in a set order:
 
 - Pick your fish, shellfish or meat from a ground-floor stall and pay the vendor directly.
 - Ask the stall to write or mark what you bought; they'll direct you to a specific upstairs restaurant partnered with them.

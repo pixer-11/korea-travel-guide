@@ -47,10 +47,9 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Most visitors walk past this square on the way to somewhere else, which is exactly why it's worth a deliberate stop. Amir Temur Xiyoboni is a compact circular park, ringed by mature plane trees, with the bronze statue of Amir Timur on horseback as its only real landmark. There's no ticket booth, no queue, no gate. You just walk in.
 
-The statue itself replaced a Karl Marx monument in 1994, and before that a statue of Stalin stood on the same spot, then briefly a globe. Layered history on one plinth. Timur sits high on his horse, sword sheathed rather than drawn, a deliberate choice meant to project statesmanship over conquest.
+The statue itself replaced an earlier Soviet-era monument, and before that a statue of Stalin stood on the same spot, then briefly a globe. Layered history on one plinth. Timur sits high on his horse, sword sheathed rather than drawn, a deliberate choice meant to project statesmanship over conquest.
 
 ## Getting your bearings on the square
 

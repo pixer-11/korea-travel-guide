@@ -69,7 +69,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What you're actually looking at
 
 This is a working retail fish counter, not a theater set. Since the 1930s it has sold salmon, crab, halibut and shellfish from a stall at 86 Pike St, the corner where Pike Place Market's main arcade meets the street.
@@ -96,7 +95,7 @@ By late morning on any day, especially weekends, the aisle in front of the stall
 
 ## Buying, shipping, and not just gawking
 
-Nobody owes you a show for free; the fish on ice is for sale, and buying something, even a pound of smoked salmon or a crab cake to eat on the spot, is the polite way to justify camping out with a camera.
+Nobody owes you a show for free; the fish on ice is for sale, and buying something, even a pound of smoked salmon, is the polite way to justify camping out with a camera.
 
 - The stall packs fish for checked-bag travel and can ship fresh or frozen seafood to addresses in the US
 - Card and cash are both accepted at the counter

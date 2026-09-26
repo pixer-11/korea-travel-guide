@@ -82,7 +82,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A red-brick maze from 1874
 
 The clock tower is how you find it. Above the traffic on Lindsay Street you'll see the red-brick Gothic front of the Sir Stuart Hogg Market. It opened in 1874, and hardly anyone in Kolkata calls it anything but New Market.
@@ -113,7 +112,7 @@ A yellow taxi or app cab can drop you at the Lindsay Street entrance. Parking ne
 
 The market opens at 10:30am and closes at 8:30pm, seven days a week. Individual stalls set their own hours inside that window, so a few shutters may still be down at the start of the day.
 
-**Weekdays between 11am and 12pm** are the quietest time. The lanes are open enough to stop and look without being pushed along, and shopkeepers have time to show you stock.
+**Weekday mornings** are the quietest time. The lanes are open enough to stop and look without being pushed along, and shopkeepers have time to show you stock.
 
 **Try not to come on a weekend between 2pm and 8pm.** That's when it's at its most crowded, and walking the narrow lanes becomes slow. It gets even busier before Durga Puja in autumn and in the weeks before Christmas and Eid.
 

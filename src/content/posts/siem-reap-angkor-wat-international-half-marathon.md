@@ -42,12 +42,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 This is not a marathon you run past scenery. You run through it: past sandstone causeways, moat water, and tree roots that have been growing over stone since the 12th century, with thousands of other runners doing the same thing at dawn.
 
 ## What the race actually is
 
-The Angkor Wat International Half Marathon is a charity race now in its 31st year, which makes it one of the longest-running organized runs in Southeast Asia. It takes place on December 6, 2026, inside and around the Angkor Archaeological Park in Siem Reap.
+The Angkor Wat International Half Marathon is a long-standing charity race, which makes it one of the longest-running organized runs in Southeast Asia. It takes place on December 6, 2026, inside and around the Angkor Archaeological Park in Siem Reap.
 
 Runners choose from a half marathon, a 10K, and shorter fun-run distances, so the field ranges from serious competitive runners to families walking the short course. The route passes several of Angkor's major temples, giving even casual entrants a look at monuments most tourists only see from a tuk-tuk.
 

@@ -110,7 +110,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-20'
 ---
-
 Jingshan Park is an artificial hill built from the earth dug out to create the Forbidden City's moats, piled up directly behind the palace's north gate. That's the whole trick of the place: climb roughly 45 meters and the entire Forbidden City unrolls below in a straight axis of yellow roof tiles.
 
 ## The hill and the view
@@ -126,7 +125,7 @@ The park's south gate faces the Forbidden City's Shenwumen (North Gate) directly
 The park covers 57 acres, laid out symmetrically around the central hill. Beyond the peaks, look for:
 
 - Chonghua Palace and Fuxiang Pavilion, former imperial garden buildings on the east side
-- The locust tree site near the east gate, marked as the spot where the last Ming emperor is said to have hanged himself in 1644
+- The locust tree site near the east gate
 - Peony and lilac gardens flanking the lower slopes, best in April and May
 
 ## Timing the crowds

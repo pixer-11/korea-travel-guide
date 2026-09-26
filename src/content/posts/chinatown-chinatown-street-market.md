@@ -95,12 +95,11 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-22'
 ---
-
 ## What you're walking into
 
 Smith Street is the spine of it: two rows of painted shophouses, red lanterns strung under canopies that shade the whole lane from sun and rain. Stalls sit shoulder to shoulder selling fried noodles, popiah, fish ball soup, and folding tables of magnets, fans, and silk pouches. At 4.4 stars across more than 2,600 reviews, it's one of the better-rated markets in the district, and it's well-known enough that "hidden" no longer applies here.
 
-Address is 29 Smith St, Singapore 058943, a two-minute walk from Chinatown MRT (Exit A, North East Line) or Maxwell Food Centre a block south.
+It's a short walk from Chinatown MRT (Exit A, North East Line) or Maxwell Food Centre a block south.
 
 ## Reading the crowd
 

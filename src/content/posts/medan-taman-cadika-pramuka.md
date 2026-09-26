@@ -49,7 +49,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Taman Cadika Pramuka sits on a stretch of flat, tree-lined land in Medan Johor, a short drive south of downtown Medan. The sign at the gate reads Taman Hutan Kota Cadika, the city-forest name, and locals mostly just say Taman Cadika. It doubles as the camping ground for Medan's scouting branch and as one of the city's largest public green spaces — around 25 hectares, roughly nine of it left as woodland — run by the city's youth and sports agency.
 
 The layout is simple: paths loop around Paya Badau, a two-hectare man-made lake crossed by a wooden bridge, then run past picnic lawns shaded by acacia and mahogany trees, with playgrounds and sports courts scattered along the way. It reads less like a manicured city garden and more like a large communal ground, which is exactly its appeal for Medan families needing outdoor space.
@@ -59,7 +58,7 @@ The layout is simple: paths loop around Paya Badau, a two-hectare man-made lake 
 Don't expect manicured flowerbeds or curated attractions. This is a working public park with:
 
 - Paya Badau, a two-hectare man-made lake with a wooden bridge across it
-- A deer enclosure, whose herd was topped up in 2024 with fifteen spotted deer sent from the presidential palace grounds in Bogor
+- A deer enclosure
 - A jogging track, a basketball court, a roller-skating rink and a climbing wall
 - Horse-riding and archery areas
 - Open lawns used for picnics, kite flying and casual football — the football pitch itself opens only for official matches

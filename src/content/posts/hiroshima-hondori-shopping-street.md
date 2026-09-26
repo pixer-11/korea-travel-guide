@@ -69,7 +69,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Hondori doesn't look like a tourist attraction, and that's exactly the point. It's a glass-roofed arcade lined with shops, cafes and small chain outlets, the kind of street locals actually use to get somewhere, not a recreated "old town" built for visitors.
 
 ## Where it sits in Hiroshima
@@ -97,7 +96,7 @@ Weekends are different. The whole day from 10am to 8pm stays comparatively even,
 
 ## Walking it without a plan
 
-Treat Hondori as a corridor, not a destination in itself. Enter from either end, walk the full 600 metres or so, and let side alleys pull you off toward Hiroshima's other central shopping streets, several of which connect directly into the arcade.
+Treat Hondori as a corridor, not a destination in itself. Enter from either end, walk its length, and let side alleys pull you off toward Hiroshima's other central shopping streets, several of which connect directly into the arcade.
 
 Because it's under-the-radar for a shopping street this central, you won't find much English signage or tourist infrastructure, which is part of what keeps it feeling like a working street rather than a stage set. Pair it with the Peace Park visit: walk one, then cut through here on your way to lunch or back to your hotel.
 

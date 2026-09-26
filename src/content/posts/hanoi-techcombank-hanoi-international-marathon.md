@@ -39,10 +39,9 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What the race actually is
 
-This is Hanoi's biggest annual road race, now in its fifth year, run on October 4, 2026. Four distances go off on the same morning: 5K, 10K, half marathon and full marathon. The course threads through the Old Quarter and past the city's heritage sites, so you're running past French colonial facades, temple gates and lake-front promenades rather than an anonymous business district.
+This is Hanoi's biggest annual road race, held each year in October. Four distances go off on the same morning: 5K, 10K, half marathon and full marathon. The course threads through the Old Quarter and past the city's heritage sites, so you're running past French colonial facades, temple gates and lake-front promenades rather than an anonymous business district.
 
 The Techcombank name is the title sponsor, a large Vietnamese bank, which is standard practice for the country's biggest road races. That sponsorship is why the event has grown into an international-caliber field over five editions, drawing both Vietnamese club runners and travelers who build a trip around race weekend.
 
@@ -70,7 +69,7 @@ This is less a fast, flat PR course and more a moving tour: narrow lanes open up
 
 ## Getting to Hanoi for race weekend
 
-Noi Bai International Airport is Hanoi's gateway, roughly 45 minutes by taxi or airport bus from the Old Quarter depending on traffic. October sits in Hanoi's dry, cooler season, after the summer monsoon humidity breaks and before winter's damp chill sets in, which is part of why the race is scheduled for early October.
+Noi Bai International Airport is Hanoi's gateway, connected to the Old Quarter by taxi or airport bus depending on traffic. October sits in Hanoi's dry, cooler season, after the summer monsoon humidity breaks and before winter's damp chill sets in, which is part of why the race is scheduled for early October.
 
 Book Old Quarter or Hoan Kiem lakeside accommodation early for race weekend. Rooms near the course fill up fast among the running community, both Vietnamese club groups traveling from other cities and international entrants building a Hanoi trip around the marathon.
 

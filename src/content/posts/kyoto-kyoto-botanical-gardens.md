@@ -84,7 +84,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-20'
 ---
-
 Most first-time visitors expect a small municipal park and instead find themselves walking for twenty minutes without reaching the far fence. Kyoto Botanical Gardens covers over 24 hectares in the Shimogamo area of Sakyo Ward, making it one of the largest botanical gardens in Japan, and the scale changes how you should plan the visit.
 
 ## Getting oriented from the north gate
@@ -123,7 +122,7 @@ Nine to five, every day of the week, is the fixed schedule here, with no early o
 
 Bring cash as a backup for the conservatory ticket window and any small kiosk purchases, since not every point of sale takes cards. Benches are scattered generously through the lawn areas, so a packed lunch eaten garden-side is a normal, unhurried way to spend the middle of the visit rather than rushing to a restaurant nearby.
 
-Photography is permitted throughout the outdoor sections, and the wide central lawn is where families and photographers both gather, so it's rarely empty in daylight hours. Tripods draw more scrutiny near the rose garden during peak bloom, when foot traffic is heaviest.
+Photography is permitted throughout the outdoor sections, and the wide central lawn is where families and photographers both gather, so it's rarely empty in daylight hours. Tripod policies are worth confirming at the entrance if you plan to use one, especially during peak bloom, when foot traffic is heaviest.
 
 ## Beyond the garden gates
 

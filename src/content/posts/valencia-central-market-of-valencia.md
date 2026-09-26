@@ -70,14 +70,13 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Under the dome, light comes through stained glass shaped like oranges and drops in coloured patches onto the tile floor. That's the detail that separates the Central Market of Valencia from a normal food hall: this is a working Modernista building from the early 1900s, not a themed re-creation of one, with wrought iron trusses holding up a ceiling of glass panels and a weathervane shaped like a partridge on top.
 
 The building is arranged by category, which is the first thing to understand before you start wandering. Fish and seafood occupy their own wing, cured meats and cheeses another, fruit and vegetable stalls fill the central aisles, and a scatter of counters sell nothing but eggs, or nothing but olives, or nothing but dried fruit and nuts. Over a thousand stalls operate here in total, though not all are open every day.
 
 ## Finding your way around the wings
 
-Walk in from the Plaza del Mercado side and you're facing the produce section, stacked crates of persimmons, custard apples and whatever citrus is in season. The fish hall is toward the Calle Palafox end, tiled in blue and white, iced trays of hake, monkfish and local prawns laid out before 9am.
+Walk in from the Plaza del Mercado side and you're facing the produce section, stacked crates of persimmons, custard apples and whatever citrus is in season. The fish hall is toward the Calle Palafox end, tiled in blue and white, with the day's seafood laid out on ice each morning.
 
 Jamón and cheese counters cluster near the centre, easy to spot by the hanging legs of ham. If you're looking for a specific stall, ask; the layout rewards a slow first lap more than a map.
 

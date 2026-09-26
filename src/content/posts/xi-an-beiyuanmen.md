@@ -43,7 +43,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Stand at the north face of the Drum Tower and look up the lane in front of you. Grey brick shopfronts with dark timber eaves line both sides, red lanterns hang in rows, and the paving runs straight north. That lane is Beiyuanmen, the main spine of Xi'an's Hui Muslim Quarter.
 
 Plenty of visitors reach it without learning its name. They follow the crowd off the Bell Tower plaza and eat their way through. Stop and look up, though, and the street has more to show you than its food stalls.
@@ -75,7 +74,7 @@ You'll also pass stalls pounding sesame or walnut candy with wooden mallets, and
 
 ## Getting to Beiyuanmen
 
-Take Metro Line 2 or Line 6 to Zhonglou (Bell Tower) Station. Come up on the plaza between the Bell Tower and the Drum Tower, then walk west to the Drum Tower. Beiyuanmen starts on the far side of it, about ten minutes on foot.
+Take Metro Line 2 or Line 6 to Zhonglou (Bell Tower) Station. Come up at the Bell Tower plaza, then walk northwest to the Drum Tower. Beiyuanmen starts on the far side of it, about ten minutes on foot.
 
 If you're walking inside the city wall, the Bell Tower is the easiest landmark. Every main avenue in the old city points toward it.
 

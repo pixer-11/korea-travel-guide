@@ -75,7 +75,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What you're looking at
 
 Maha Vihara Maitreya is one of the largest Buddhist temple complexes in Indonesia, built in a Chinese architectural style rather than the Javanese or Balinese forms most visitors expect. The main hall carries the tiered roofline, red pillars and gold trim typical of Chinese temple design, scaled up to a size that makes it a landmark inside the Cemara Asri estate.
@@ -90,7 +89,7 @@ Yos Sudarso or the ring road. The complex has open grounds for walking once you 
 
 ## When to go
 
-The temple opens daily at 6am and closes at 8pm, with identical hours all week. Weekday mornings from 7am to 11am are the quietest stretch, and on weekends the calm window is shorter, 7am to 10am. Avoid arriving on a weekend afternoon: traffic through the complex runs heavy from 9am to 8pm as day-trippers and families fill the courtyards. If your schedule allows a weekday, that's the easier visit overall; if not, get there right at 6am on a Saturday or Sunday before the crowd builds.
+The temple opens daily at 6am and closes at 8pm, with identical hours all week. Weekday mornings from 7am to 11am are the quietest stretch, and on weekends the calm window is shorter. Avoid arriving on a weekend afternoon: traffic through the complex builds quickly and stays heavy for much of the day as day-trippers and families fill the courtyards. If your schedule allows a weekday, that's the easier visit overall; if not, get there right at 6am on a Saturday or Sunday before the crowd builds.
 
 ## Temple etiquette and the vegetarian cafe
 

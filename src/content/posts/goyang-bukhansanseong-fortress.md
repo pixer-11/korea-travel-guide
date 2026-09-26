@@ -43,7 +43,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What you're actually walking into
 
 Bukhansanseong isn't a single structure you photograph and leave. It's a defensive wall built in the early 1700s under King Sukjong, strung across the ridgelines of Bukhansan to shield the approach to Seoul from the north. The circuit originally had six main gates, eight secret gates (called ammun, small low openings for troop movement rather than ceremony), and two water gates where streams pass through the wall line.
@@ -60,7 +59,7 @@ Because this is the Goyang-facing flank of the mountain, it tends to draw a diff
 
 Most visitors start at Daedongmun, the fortress's grand east gate, and work along the wall toward smaller gates like Bomunneungseonmun or Yongammun. The path alternates between packed dirt through pine and oak forest and exposed granite scrambles where you're using both hands. Wear real hiking shoes, not sneakers; the rock sections are steep enough that grip matters.
 
-Expect the full ridge walk between gates to take several hours round trip. If you only have an hour or two, walk in from the entrance to Daedaemun or the nearest secret gate, look at the stonework up close, and turn back rather than rushing a summit push you don't have time for.
+Expect the full ridge walk between gates to take several hours round trip. If you only have an hour or two, walk in from the entrance to the nearest secret gate, look at the stonework up close, and turn back rather than rushing a summit push you don't have time for.
 
 ## Junghakmun and Wichon-ru, the pieces worth pausing at
 

@@ -74,7 +74,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A Mall Built Around Errands
 
 Bukit Timah Plaza doesn't really do spectacle. It's a multilevel mall with specialty shops, informal places to eat, a supermarket and a surprising number of educational services. People come here to get things done: buy groceries, collect a child from class, grab a quick meal.
@@ -102,7 +101,7 @@ Those classrooms shape the mood. After school and on weekends, parents wait on b
 
 Crowd levels here follow the school timetable. On weekdays the mall stays quiet from 10am to 10pm, so any hour works. That makes a weekday the easiest time to browse.
 
-Weekends are different. Try not to come between 11am and 8pm, when enrichment classes, family grocery runs and lunch crowds all overlap. If the weekend is your only option, come between 9pm and 10pm. It's the quietest hour before the doors close at 10pm.
+Weekends are different. Try to avoid visiting between 11am and 8pm, when enrichment classes, family grocery runs and lunch crowds all overlap. If the weekend is your only option, come between 9pm and 10pm. It's the quietest hour before the doors close at 10pm.
 
 Hours are the same all week: 10am to 10pm, Monday through Sunday. There's no short day to plan around.
 

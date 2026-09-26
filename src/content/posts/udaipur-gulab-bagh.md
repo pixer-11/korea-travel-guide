@@ -50,7 +50,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What Gulab Bagh actually is
 
 Gulab Bagh is Udaipur's largest garden, laid out in the 1850s by Maharana Sajjan Singh on a hillside near the City Palace. The name means "rose garden," though today it's shaded more by old banyan and mango trees than roses. Paths wind past fountains, lawns and outdoor gym stations used by joggers and yoga groups each morning.
@@ -71,7 +70,7 @@ Because it's rated among Udaipur's most-visited green spaces, expect company. Sc
 
 Locals use Gulab Bagh mainly for exercise, not sightseeing: brisk laps on the perimeter paths, a stop at the outdoor gym bars, a bench under a mango tree afterward. Match that pace rather than treating it as a museum stop.
 
-- Entry to the main garden is a nominal ticket at the gate; the zoo and toy train charge separately, so carry small cash
+- Carry some small cash, since the garden, zoo and toy train are ticketed separately
 - Wear shoes you can walk gravel paths in; the loop is longer than it looks from the entrance
 - The library (Saraswati Bhawan) keeps its own hours inside the complex and is worth a look if you read Hindi or Sanskrit manuscripts, otherwise skip it
 - Photographers do best in the first hour of opening, when light comes low through the tree canopy and lawns are still empty

@@ -104,7 +104,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-25'
 ---
-
 ## Under the timber roof
 
 Look up first. The alleys of Souk Madinat Jumeirah run beneath dark wooden beams and lattice screens, and lanterns hang in rows overhead. Sand-coloured walls rise into wind towers, the old Gulf cooling chimneys known as barjeel. Here they are mostly for show, because the whole souk is air-conditioned.
@@ -123,7 +122,7 @@ The souk sits on King Salman Bin Abdulaziz Al Saud Street in Al Sufouh 1, on the
 
 ## Beating the crowds
 
-The quietest windows are 10am to 2pm on weekdays and 10am to 1pm on weekends. At those hours the lanes are wide open and shopkeepers have time to talk you through their stock. Doors open at 10am daily, so an arrival right at opening gives you the arcades almost to yourself.
+The quietest windows are 10am to 2pm on weekdays and 10am to 1pm on weekends. At those hours the lanes are wide open and shopkeepers have time to talk you through their stock. Arriving as the shops open is the surest way to catch the arcades quiet.
 
 Try not to turn up on a weekend between 4pm and 11pm. That stretch is the peak, and waterside tables fill fast. The UAE weekend is Saturday and Sunday.
 

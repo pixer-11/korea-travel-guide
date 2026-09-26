@@ -46,11 +46,11 @@ Chet Faker doesn't tour India often, so a three-city run landing in Bengaluru on
 
 ## Why Bengaluru gets the closing slot
 
-Promoters usually save the city with the strongest existing fanbase for last, letting word from earlier stops build momentum. Bengaluru has hosted a steady run of international electronic and alt-R&B acts over the past decade, and its listener base for downtempo, bass-driven songwriting like Chet Faker's runs deep. A Saturday-adjacent date (Sunday, September 20) also suits a city where much of the audience is working professionals catching a weekend show.
+Promoters usually save the city with the strongest existing fanbase for last, letting word from earlier stops build momentum. Bengaluru has hosted a steady run of international electronic and alt-R&B acts over the past decade, and its listener base for downtempo, bass-driven songwriting like Chet Faker's runs deep. A weekend date (Sunday, September 20) also suits a city where much of the audience is working professionals catching a weekend show.
 
 ## What "A Love For Strangers" means for the setlist
 
-The tour takes its name from a phase of Chet Faker's catalogue defined by warmer, more organic production than his early Thinking In Textures days, blending live instrumentation with his baritone vocal. The set was billed as threading through both eras.
+The tour takes its name from a phase of Chet Faker's catalogue defined by warmer, more organic production than his early days, blending live instrumentation with his baritone vocal. The set was billed as threading through both eras.
 
 - Older, glitch-soul favorites built around vocal chopping and sparse beats
 - Newer, band-driven arrangements with guitar and live drums

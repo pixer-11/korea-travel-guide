@@ -42,7 +42,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Every December, the F1 calendar ends here, on the artificial island purpose-built for exactly this. The Abu Dhabi Grand Prix has closed the season at Yas Marina Circuit since 2009, and the 2026 edition runs December 4-6.
 
 ## What the weekend actually looks like
@@ -73,7 +72,7 @@ These shows are included as part of certain ticket categories rather than sold a
 
 Ticket categories at Yas Marina range from general admission areas to named grandstands positioned around different parts of the lap, plus hospitality suites with views over pit lane or the main straight.
 
-- North Grandstand and West Grandstand tend to offer views of multiple corners rather than a single straight
+- Different grandstands offer different vantage points around the lap, so it's worth checking the official seating map for the specific sightlines each one offers
 - Grandstands near the marina catch the yacht-lined final sector, useful if you want the hotel-and-water backdrop in your photos
 - General admission tickets typically allow movement between viewing zones across the island, useful if you want to see more of the layout across the weekend
 

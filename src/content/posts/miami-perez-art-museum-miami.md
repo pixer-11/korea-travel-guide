@@ -71,7 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What's actually inside
 
 Pérez Art Museum Miami is a contemporary and modern art museum, not an encyclopedic collection spanning centuries. Expect rotating exhibitions of international artists alongside a permanent collection strong in Latin American, Caribbean and African diaspora art. The building itself, raised on concrete columns with hanging plant gardens strung along the exterior walkways, is part of the draw. Ground-floor terraces face Biscayne Bay directly, and those verandas are shaded, free to wander even outside ticketed gallery time.
@@ -88,7 +87,7 @@ Hours are specific and worth checking against your day before you go:
 - Thursday: 11am–9pm (the only late night)
 - Tuesday and Wednesday: closed entirely
 
-Weekends draw the heaviest crowds, with 11am to 6pm on Saturday and Sunday consistently busy. If you want breathing room around the galleries, Thursday evening is the better window: the museum stays open three hours past the weekend closing time and the after-work crowd thins out well before 9pm. Arriving right at 11am on a weekday also beats the midday rush before tour groups and school visits typically arrive.
+Weekends draw the heaviest crowds, with 11am to 6pm on Saturday and Sunday consistently busy. If you want breathing room around the galleries, Thursday evening is the better window: the museum stays open until 9pm, several hours later than every other open day, giving you a stretch of evening to explore after the daytime visitors have cleared out. Arriving right at 11am on a weekday also beats the midday rush before tour groups and school visits typically arrive.
 
 ## Reading the museum like a regular
 

@@ -86,7 +86,7 @@ Budget 45 minutes for a quick loop, 90 minutes if you catch a ceremony and linge
 
 ## How to visit like a local
 
-Buy your ticket at the visitor center window or the automated kiosk beside it; cash and card both work, though card is faster during busy spells. There's no need to book ahead, this isn't a reservation-only site, but arriving before the tour buses does make a real difference.
+Buy your ticket before heading in. There's no need to book ahead, this isn't a reservation-only site, but arriving before the tour buses does make a real difference.
 
 The changing-of-the-guard ceremony runs on a set daily schedule, check the board near Sinpungnu Gate on arrival rather than guessing the time. Locals and regular visitors alike call it Hwaseong Haenggung, not "the palace," if you're asking for directions.
 

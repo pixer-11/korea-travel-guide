@@ -39,7 +39,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What the fair actually is
 
 This is the 45th Sharjah International Book Fair, running November 4-15, 2026. It's held at Expo Centre Sharjah, the emirate's main exhibition ground on Airport Road, a few minutes from Sharjah International Airport.
@@ -60,7 +59,7 @@ The two-week run means weekday mornings tend to be calmer than weekend afternoon
 
 Confirm timing and tickets on the official Sharjah Book Authority site; that's where hall opening hours, any entry pricing and the day-by-day author and events schedule are posted. Do not rely on secondhand listings for these details, as they're the only source that reflects the current year's arrangements accurately.
 
-Inside, the fair splits roughly into publisher halls (stalls selling Arabic, English and other-language titles at fair-only pricing), a stage/talks program with author panels and signings, and dedicated children's and young-readers zones. Sharjah's fair is known for its scale of discounted books, so many visitors come with a shopping list and a spare bag.
+Inside, the fair splits roughly into publisher halls (stalls selling Arabic, English and other-language titles), a stage/talks program with author panels and signings, and dedicated children's and young-readers zones. Sharjah's fair is known for its scale of discounted books, so many visitors come with a shopping list and a spare bag.
 
 Plan at least half a day if you want to browse seriously; a full day if you're also catching talks or bringing kids to the children's programming.
 
@@ -69,7 +68,7 @@ Plan at least half a day if you want to browse seriously; a full day if you're a
 Arrive early on weekdays if you want to browse stalls without crowds; the halls fill up noticeably after school hours and on weekend afternoons.
 
 - Bring a tote or foldable bag: book-buying here often means multiple heavy purchases.
-- Cash and card are both commonly used at stalls, but small independent publishers may prefer cash.
+- Payment methods may vary by stall, so it's worth checking what a particular publisher accepts before you shop.
 - Author talks and signings can draw queues; check the official schedule for exact times and arrive ahead if there's a specific name you want to see.
 - Children's zones get busy on weekends, so weekday mornings suit families wanting a quieter first look.
 

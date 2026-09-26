@@ -60,7 +60,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A market hall with no walls
 
 Florence has a lot of loggias, and this one is still used for what it was built for. The Loggia del Mercato Nuovo is a square Renaissance hall of round arches on stone columns, open to the street on all four sides. It stands where Via Porta Rossa meets Via Calimala, a few minutes' walk south of Piazza della Repubblica.
@@ -71,7 +70,7 @@ Most Florentines don't call it by its official name. To them it is the Loggia de
 
 ## Il Porcellino and the falling coin
 
-The boar sits at the edge of the loggia facing Via Porta Rossa. His snout has been rubbed so often that it shines gold against the dark bronze of his body. Pietro Tacca cast the original fountain in the 17th century, copying a Hellenistic marble boar in the Medici collections. What you see today is a modern replica. Tacca's bronze is kept indoors at the Museo Bardini, across the Arno.
+The boar sits at the edge of the loggia facing Via Porta Rossa. His snout has been rubbed so often that it shines gold against the dark bronze of his body. The original fountain copied a Hellenistic marble boar in the Medici collections. What you see today is a modern replica. Tacca's bronze is kept indoors at the Museo Bardini, across the Arno.
 
 The ritual is simple and people really do follow it:
 

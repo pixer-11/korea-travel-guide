@@ -104,7 +104,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-25'
 ---
-
 ## Granite, cobblestones and a domed roof
 
 Three long market buildings run side by side toward the harbour. The middle one, Quincy Market, is fronted by Doric columns at each end and topped by a domed rotunda. On either side, North Market and South Market face it across wide pedestrian lanes paved in brick and cobblestone.
@@ -175,7 +174,7 @@ On the promenade, keep moving through the performer circles. Stopping in a walkw
 
 ## Walking out from the market
 
-The marketplace works best as a starting point. Head a block north to the Blackstone Block, the cluster of narrow old lanes around the Union Oyster House, which has served diners since 1826. On Fridays and Saturdays, the open-air Haymarket produce stalls set up on Blackstone Street nearby.
+The marketplace works best as a starting point. Head a block north to the Blackstone Block, the cluster of narrow old lanes around the Union Oyster House. On Fridays and Saturdays, the open-air Haymarket produce stalls set up on Blackstone Street nearby.
 
 Cross the Rose Kennedy Greenway and you reach the North End. Its Italian bakeries and Paul Revere House are a ten-minute walk away. Heading the other direction, the red-brick line of the Freedom Trail leads toward the Old State House and on to Boston Common.
 

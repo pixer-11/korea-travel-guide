@@ -55,7 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A dock that works as the lake's front door
 
 Shuishe Pier is where Sun Moon Lake starts for most people. It sits on Mingsheng Street in Shuishe Village, on the lake's western shore. Floating walkways run out from the shore to a row of moored passenger boats. Across the water, forested ridges rise straight out of the lake and fold back into the mountains of Nantou County.
@@ -67,7 +66,7 @@ This is not a quiet corner. It's among the most-reviewed spots on the lake, and 
 This loop is the reason the pier exists. Ferries from Shuishe cross to two other docks, and together they make a triangle across the lake:
 
 - **Shuishe Pier**: the village hub, with hotels, food and the bus terminal.
-- **Xuanguang Pier**: a short climb up to Xuanguang Temple. The stall near the dock selling tea eggs simmered in mushroom-and-tea broth is a lake institution.
+- **Xuanguang Pier**: a short climb up to Xuanguang Temple. There are food stalls near the dock worth a look on your way up.
 - **Ita Thao Pier**: the Thao community's village on the east shore, with a pedestrian street of snack stalls and the lower station of the Sun Moon Lake Ropeway.
 
 Each crossing is short. From the deck you get the clearest view of Lalu Island, the small, sacred islet of the Thao people that sits low in the water between the piers. Most people ride the full loop and spend an hour or two at each stop. Budget half a day if you want to climb to the temple and ride the ropeway.

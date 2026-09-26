@@ -64,7 +64,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What you're actually looking at
 
 Bajra Sandhi means "sacred bell" in Balinese, and the shape is deliberate: the tiered roof, the rounded base and the tall central spire together form a giant version of the bell a priest rings during temple ceremonies. It commemorates the struggles of the Balinese people through various historical periods, and it stands as the civic centerpiece of Renon, Denpasar's administrative neighbourhood.
@@ -85,7 +84,7 @@ There's no shade over most of the open lawn, so the heat by midday is real. Benc
 
 ## When to go without fighting the crowd
 
-Bajra Sandhi is well known and well visited, listed among the most-reviewed landmarks in Denpasar, so you won't have it to yourself at any point. On weekends, the crowd data is specific: things pick up fast between 10am and 11am, and the calmest stretch is 12pm to 3pm.
+Bajra Sandhi is well known and well visited, listed among the most-reviewed landmarks in Denpasar, so you won't have it to yourself at any point. On weekends, the crowd data is specific: things tend to build through mid-morning, and the calmer window is midday into early afternoon.
 
 Hours run 8am–5pm Monday through Friday, 9am–5pm on Saturday, and a later 10am–5pm start on Sunday. If you're coming on a weekend, treat late morning as the window to avoid and early afternoon as the window to aim for instead.
 

@@ -101,7 +101,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-22'
 ---
-
 Bayside Marketplace sits on the edge of Biscayne Bay, a two-story, open-air complex of roughly 150 stores and restaurants strung along a marina where charter boats, jet-ski outfits and the big yellow duck tours all load passengers a few steps from the shops. It's less a mall than a waterfront promenade with a roof over the retail part. You can walk in from Biscayne Boulevard or straight off the water if you've come by boat.
 
 ## What's actually here
@@ -117,7 +116,7 @@ None of this is undiscovered. With over 80,000 reviews, Bayside is one of the mo
 
 ## When to go
 
-The complex opens at 10am daily, staying open until 10pm Sunday through Thursday and 11pm on Friday and Saturday. Crowd patterns are consistent: weekdays and weekends both stay fairly steady from opening until close, but weekends get noticeably busier from 1pm onward.
+The complex opens at 10am daily, staying open until 10pm Sunday through Thursday and 11pm on Friday and Saturday. Crowd patterns are consistent: weekdays stay fairly steady from opening until close, while weekends get noticeably busier from 1pm onward.
 
 If you want the docks and walkways without shoulder-to-shoulder foot traffic, arrive right at 10am on a weekday. Sunday's shorter 11am–9pm schedule also tends to feel calmer than the Friday and Saturday night crowds.
 

@@ -66,7 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## What you're walking into
 
 Eastern Market has run continuously since 1873, making it the oldest of DC's original public markets. The brick building on 7th Street SE holds the indoor food hall: butchers, a fishmonger, bakers, a produce stand. Outside on weekends, vendor tables spread along 7th Street and into the adjacent lot for the arts and crafts market and a farm line.
@@ -95,7 +94,6 @@ There's no table service. Order at a counter, take a number or wait for your nam
 
 - Cash and card both work at most stalls, though smaller crafts vendors outside may prefer cash
 - Tipping a dollar or two at counter service is common but not expected
-- Lines move fastest right at opening (8am) on weekdays; weekend counter lines can run long by mid-morning
+- Lines tend to be shorter on weekdays; weekend counter lines can run long by mid-morning
 
 Don't expect to browse quietly on a Saturday; treat the crowd as the point, not an obstacle. The Eastern Market Metro stop (Blue, Orange, Silver lines) sits one block away, making this an easy add-on to a Capitol Hill walk that includes the Capitol grounds or Barracks Row a few blocks south on 8th Street.
-
