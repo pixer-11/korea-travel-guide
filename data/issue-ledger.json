@@ -1,11 +1,5 @@
 {
   "validate-content": {},
-  "audit-translations": {
-    "broken-bold posts/zh/austin-texas-farmers-market-at-mueller.md": {
-      "since": "2026-09-25",
-      "last": "2026-09-25",
-      "seen": 1
-    }
-  },
+  "audit-translations": {},
   "audit-hours-claims": {}
 }
