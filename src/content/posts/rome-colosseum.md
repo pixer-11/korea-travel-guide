@@ -27,12 +27,8 @@ place:
   lng: 12.4922309
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 8
-      - 9
-    weekendQuiet:
-      - 8
-      - 9
+    weekdayQuiet: [9]
+    weekendQuiet: [9]
     weekendBusy:
       - 11
       - 12
@@ -40,6 +36,15 @@ place:
       - 14
       - 15
     venueId: ven_6753384937436b464f4178524d784c685a3755674d52724a496843
+  phone: '+39 06 2111 5843'
+  openingHours:
+    - 'Monday: 8:30 AM – 4:30 PM'
+    - 'Tuesday: 8:30 AM – 4:30 PM'
+    - 'Wednesday: 8:30 AM – 4:30 PM'
+    - 'Thursday: 8:30 AM – 4:30 PM'
+    - 'Friday: 8:30 AM – 4:30 PM'
+    - 'Saturday: 8:30 AM – 4:30 PM'
+    - 'Sunday: 8:30 AM – 4:30 PM'
 tags:
   - rome
   - Colosseum

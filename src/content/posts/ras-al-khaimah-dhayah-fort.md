@@ -25,6 +25,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 25.884188599999998
   lng: 56.060513199999995
+  phone: '+971 7 233 9900'
+  openingHours:
+    - 'Monday: 8:00 AM – 12:00 PM, 4:00 – 7:00 PM'
+    - 'Tuesday: 8:00 AM – 12:00 PM, 4:00 – 7:00 PM'
+    - 'Wednesday: 8:00 AM – 12:00 PM, 4:00 – 7:00 PM'
+    - 'Thursday: 8:00 AM – 12:00 PM, 4:00 – 7:00 PM'
+    - 'Friday: 8:00 AM – 12:00 PM, 4:00 – 7:00 PM'
+    - 'Saturday: 8:00 AM – 12:00 PM, 4:00 – 7:00 PM'
+    - 'Sunday: 8:00 AM – 12:00 PM, 4:00 – 7:00 PM'
 tags:
   - ras al khaimah
   - top attraction

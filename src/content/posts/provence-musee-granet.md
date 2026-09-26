@@ -1,32 +1,31 @@
 ---
 title: "Musée Granet: Provence Travel Guide (4.4★)"
-description: "Musée Granet sits on Place Saint-Jean de Malte in Aix-en-Provence, in a former 17th-century priory of the Knights of Malta, holding everything from Cézanne canvases to a Rembrandt self-portrait. 4.4★ (4,877 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Provence"
-category: "attraction"
+description: Musée Granet sits on Place Saint-Jean de Malte in Aix-en-Provence, in a former 17th-century priory of the Knights of Malta, holding everything from Cézanne canvases to a Rembrandt self-portrait. 4.4★ (4,877 reviews) — what visitors say, hours, and tips.
+country: France
+region: Provence
+category: attraction
 pubDate: "2026-08-05T11:28:09.277Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Musee_Granet_by_Malost.jpg/1920px-Musee_Granet_by_Malost.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Musee_Granet_by_Malost.jpg/1920px-Musee_Granet_by_Malost.jpg
   credit: "Photo: Malost / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Musee_Granet_by_Malost.jpg"
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Musee_Granet_by_Malost.jpg
 gallery: []
 place:
-  id: "ChIJ5Vxtkb6SyRIRoQT8AtsOpXc"
-  name: "Musée Granet"
-  address: "Pl. Saint-Jean de Malte, 13100 Aix-en-Provence, France"
+  id: ChIJ5Vxtkb6SyRIRoQT8AtsOpXc
+  name: Musée Granet
+  address: Pl. Saint-Jean de Malte, 13100 Aix-en-Provence, France
   rating: 4.4
   userRatingsTotal: 4877
-  googleMapsUrl: "https://maps.google.com/?cid=8621313395481380001&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=8621313395481380001&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.5254443
   lng: 5.452670599999999
   busyness:
-    updated: 2026-08-05
+    updated: 2026-08-05T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 11
-      - 18
     weekdayBusy:
       - 13
       - 14
@@ -36,7 +35,6 @@ place:
     weekendQuiet:
       - 10
       - 11
-      - 18
     weekendBusy:
       - 12
       - 13
@@ -44,25 +42,35 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_6358704f7374413854516f524952795336626b747856354a496843"
+    venueId: ven_6358704f7374413854516f524952795336626b747856354a496843
+  phone: +33 4 42 52 88 32
+  openingHours:
+    - "Monday: Closed"
+    - "Tuesday: 10:00 AM – 6:00 PM"
+    - "Wednesday: 10:00 AM – 6:00 PM"
+    - "Thursday: 10:00 AM – 6:00 PM"
+    - "Friday: 10:00 AM – 6:00 PM"
+    - "Saturday: 10:00 AM – 6:00 PM"
+    - "Sunday: 10:00 AM – 6:00 PM"
 tags:
-  - "provence"
-  - "museum"
-quickAnswer: "Musée Granet sits on Place Saint-Jean de Malte in Aix-en-Provence, in a former 17th-century priory of the Knights of Malta, holding everything from Cézanne canvases to a Rembrandt self-portrait. Give it two to three hours, and go right at the 10am opening on a weekday if you want the galleries close to yourself — weekend crowds thicken from midday to 6pm. Combine it with a wander through the Mazarin quarter, since the museum sits just steps from Cézanne's old studio route."
+  - provence
+  - museum
+quickAnswer: Musée Granet sits on Place Saint-Jean de Malte in Aix-en-Provence, in a former 17th-century priory of the Knights of Malta, holding everything from Cézanne canvases to a Rembrandt self-portrait. Give it two to three hours, and go right at the 10am opening on a weekday if you want the galleries close to yourself — weekend crowds thicken from midday to 6pm. Combine it with a wander through the Mazarin quarter, since the museum sits just steps from Cézanne's old studio route.
 faq:
-  - q: "How long should I plan to spend at Musée Granet?"
-    a: "Two hours covers the main collection comfortably; add another hour if the temporary exhibition wing interests you or you want to read most of the labels."
-  - q: "When is the quietest time to visit?"
-    a: "Both weekdays and weekends are calmest in the 10am–7pm window right after opening. On weekends, try to avoid arriving between 12pm and 6pm, when crowds peak."
-  - q: "How do I get to Musée Granet without a car?"
-    a: "It's on Place Saint-Jean de Malte in the Mazarin quarter, a 10–15 minute walk from central Aix's bus station or old town. From Aix-en-Provence TGV station, it's about 15–20 minutes by taxi or shuttle bus plus a short walk."
-  - q: "What are the must-see works inside?"
-    a: "The Cézanne room (including views of Mont Sainte-Victoire), a Rembrandt self-portrait, portraits by Ingres, and the basement archaeology galleries covering Celto-Ligurian and Roman-era finds from the Aix region."
-  - q: "What else is nearby worth combining with a visit?"
-    a: "The Cathédrale Saint-Sauveur is about a 10-minute walk north, Cours Mirabeau is just steps away, and the Place Richelme market runs most mornings — good bookends for a museum visit."
+  - q: How long should I plan to spend at Musée Granet?
+    a: Two hours covers the main collection comfortably; add another hour if the temporary exhibition wing interests you or you want to read most of the labels.
+  - q: When is the quietest time to visit?
+    a: Both weekdays and weekends are calmest right after the 10am opening. On weekends, try to avoid arriving between 12pm and 6pm, when crowds peak.
+  - q: How do I get to Musée Granet without a car?
+    a: It's on Place Saint-Jean de Malte in the Mazarin quarter, a 10–15 minute walk from central Aix's bus station or old town. From Aix-en-Provence TGV station, it's about 15–20 minutes by taxi or shuttle bus plus a short walk.
+  - q: What are the must-see works inside?
+    a: The Cézanne room (including views of Mont Sainte-Victoire), a Rembrandt self-portrait, portraits by Ingres, and the basement archaeology galleries covering Celto-Ligurian and Roman-era finds from the Aix region.
+  - q: What else is nearby worth combining with a visit?
+    a: The Cathédrale Saint-Sauveur is about a 10-minute walk north, Cours Mirabeau is just steps away, and the Place Richelme market runs most mornings — good bookends for a museum visit.
 aiGenerated: true
 draft: false
 ---
+
 ## Why go
 
 Aix-en-Provence made Paul Cézanne, and the Musée Granet is where the town squares that debt as honestly as anywhere. But this isn't a one-artist shrine. Walk through the ground-floor rooms and you pass Ingres' luminous portraits, a small but genuine Rembrandt self-portrait, and canvases by Rubens, and you feel the collection's real ambition: to show four centuries of European painting inside a building that was itself once a working priory of the Knights of Malta.

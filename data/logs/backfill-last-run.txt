@@ -1,29 +1,31 @@
-Places 예산: backfill 몫 25회 (오늘 사용 17/100)
+Places 예산: backfill 몫 25회 (오늘 사용 13/100)
 Priority: 206 itinerary stop(s) queued first
-  – bhubaneswar-ekamra-haat.md: nothing new (resting 60d)
-  – colmar-place-de-l-ancienne-douane.md: nothing new (resting 60d)
-  – genoa-piazza-caricamento.md: nothing new (resting 60d)
-  – ha-giang-ha-giang-market.md: nothing new (resting 60d)
-  – ibiza-las-dalias-de-ibiza.md: nothing new (resting 60d)
-  – kenting-hengchun-old-street.md: nothing new (resting 60d)
+  – fethiye-fethiye-market.md: nothing new (resting 60d)
+  – hua-hin-hua-hin-night-market.md: nothing new (resting 60d)
+  – iloilo-oton-public-market.md: nothing new (resting 60d)
+  – koh-chang-bang-bao-pier.md: nothing new (resting 60d)
   – kuching-siniawan-night-market.md: nothing new (resting 60d)
   – malacca-jonker-street-night-market.md: nothing new (resting 60d)
-  – xi-an-beiyuanmen.md: nothing new (resting 60d)
+  – malaga-mercado-de-salamanca.md: nothing new (resting 60d)
+  – new-delhi-janpath-market.md: nothing new (resting 60d)
+  – pisa-logge-dei-banchi.md: nothing new (resting 60d)
+  – stanley-stanley-main-street.md: nothing new (resting 60d)
   🚫 little-india-former-house-of-tan-teng-niah.md: CLOSED_TEMPORARILY — quarantined (draft), not backfilled
-  – paris-eiffel-tower.md: nothing new (resting 60d)
-  – phnom-penh-royal-palace-of-cambodia.md: nothing new (resting 60d)
-  – phnom-penh-royal-palace-park.md: nothing new (resting 60d)
-  – phnom-penh-wat-phnom-daun-penh.md: nothing new (resting 60d)
-  – phong-nha-paradise-cave.md: nothing new (resting 60d)
-  – phong-nha-phong-nha-cave.md: nothing new (resting 60d)
-  – phu-quoc-dinh-cau.md: nothing new (resting 60d)
-  ✓ phu-quoc-grand-world-phu-quoc.md +phone +7h hours
-  – phu-quoc-phu-quoc-national-park.md: nothing new (resting 60d)
-  – phu-quoc-phu-quoc-prison-history-museum.md: nothing new (resting 60d)
-  ✓ phuket-khao-rang-viewpoint.md +7h hours
-  – phuket-phi-phi-islands.md: nothing new (resting 60d)
-  ✓ phuket-phuket-thai-hua-museum.md +phone +7h hours
-  ✓ phuket-the-big-buddha-phuket.md +phone +7h hours
-  – pingxi-lingjiao-waterfall.md: nothing new (resting 60d)
+  – phuket-khao-rang-viewpoint.md: nothing new (resting 60d)
+  – poipet-preah-vihear-temple.md: nothing new (resting 60d)
+  – provence-lavender-fields.md: nothing new (resting 60d)
+  – provence-lavender-sunflower-field.md: nothing new (resting 60d)
+  ✓ provence-musee-granet.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 18h (venue not open then); weekendQuiet: dropped 18h (venue not open then)
+  – puerto-princesa-immaculate-conception-cathedral.md: nothing new (resting 60d)
+  – puerto-princesa-luli-island.md: nothing new (resting 60d)
+  – qingdao-zhanqiao-pier.md: nothing new (resting 60d)
+  – qingdao-zhanshan-temple.md: nothing new (resting 60d)
+  ✓ ras-al-khaimah-dhayah-fort.md +phone +7h hours
+  – rishikesh-ram-jhula.md: nothing new (resting 60d)
+  ✓ rome-colosseum.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 8h (venue not open then); weekendQuiet: dropped 8h (venue not open then)
+  – rome-villa-borghese.md: nothing new (resting 60d)
+  – samarkand-afrasiyab-museum.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 4, backlog-updated 4, already-complete 936, no-new-data 432, no-place 409, closed-quarantined 1, quota-429 0, api-error 0, api-calls 25, remaining-askable 95 (APPLIED).
+BACKFILL RESULT: updated 3, backlog-updated 3, already-complete 969, no-new-data 451, no-place 415, closed-quarantined 1, quota-429 0, api-error 0, api-calls 25, remaining-askable 81 (APPLIED).
