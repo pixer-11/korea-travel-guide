@@ -1,27 +1,34 @@
 ---
 title: 'Po Nagar Temple: Nha Trang Travel Guide'
-description: Po Nagar is a cluster of Cham brick towers built between the 8th and 13th centuries, perched on a small hill on the north bank of the Cai River in Nha Trang.
+description: >-
+  Po Nagar is a cluster of Cham brick towers built between the 8th and 13th
+  centuries, perched on a small hill on the north bank of the Cai River in Nha
+  Trang.
 country: Vietnam
 region: Nha Trang
 category: attraction
 pubDate: '2026-07-22T09:28:52.503Z'
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/10291561_ZunSal9VobOTLBzN75fYeK3uOfc1STLMxumycFgYBTM.jpg
+  url: >-
+    https://fastly.4sqi.net/img/general/original/10291561_ZunSal9VobOTLBzN75fYeK3uOfc1STLMxumycFgYBTM.jpg
   credit: 'Photo: Foursquare user content (Tháp Bà Po Nagar)'
   license: foursquare
-  source: https://foursquare.com/v/4e2ba7566284b96d7b8687e5
+  source: 'https://foursquare.com/v/4e2ba7566284b96d7b8687e5'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/04052023_Ponagar_Hindu_temples_complex%2C_Nha_Trang_Vietnam_-_240.jpg/1920px-04052023_Ponagar_Hindu_temples_complex%2C_Nha_Trang_Vietnam_-_240.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/04052023_Ponagar_Hindu_temples_complex%2C_Nha_Trang_Vietnam_-_240.jpg/1920px-04052023_Ponagar_Hindu_temples_complex%2C_Nha_Trang_Vietnam_-_240.jpg
     credit: 'Photo: Ms Sarah Welch / Wikimedia Commons (CC0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:04052023_Ponagar_Hindu_temples_complex,_Nha_Trang_Vietnam_-_240.jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:04052023_Ponagar_Hindu_temples_complex,_Nha_Trang_Vietnam_-_240.jpg
 place:
   id: ChIJUfK4YYxncDERfB2v8ZdvXxE
   name: Po Nagar Temple
-  address: 61 Hai Tháng Tư, Bắc Nha Trang, Khánh Hòa 650000, Vietnam
+  address: '61 Hai Tháng Tư, Bắc Nha Trang, Khánh Hòa 650000, Vietnam'
   rating: 4.5
-  userRatingsTotal: 31669
-  googleMapsUrl: https://maps.google.com/?cid=1251841919817817468&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 32437
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1251841919817817468&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 12.265366499999999
   lng: 109.1953678
@@ -49,20 +56,41 @@ place:
 tags:
   - nha trang
   - top attraction
-quickAnswer: Po Nagar is a cluster of Cham brick towers built between the 8th and 13th centuries, perched on a small hill on the north bank of the Cai River in Nha Trang. Plan 45–90 minutes, go early morning or late afternoon to avoid heat and crowds, and combine it with a walk across Xom Bong Bridge or a stop at the nearby riverside seafood stalls. Entry is a small ticket fee payable at the gate; dress modestly since it remains an active place of worship for both Cham and Vietnamese visitors.
+quickAnswer: >-
+  Po Nagar is a cluster of Cham brick towers built between the 8th and 13th
+  centuries, perched on a small hill on the north bank of the Cai River in Nha
+  Trang. Plan 45–90 minutes, go early morning or late afternoon to avoid heat
+  and crowds, and combine it with a walk across Xom Bong Bridge or a stop at the
+  nearby riverside seafood stalls. Entry is a small ticket fee payable at the
+  gate; dress modestly since it remains an active place of worship for both Cham
+  and Vietnamese visitors.
 faq:
   - q: How much time should I plan for Po Nagar?
-    a: 45–60 minutes covers the main towers; add 20–30 minutes if you want to browse the small museum exhibits or catch a Cham dance performance near the entrance.
+    a: >-
+      45–60 minutes covers the main towers; add 20–30 minutes if you want to
+      browse the small museum exhibits or catch a Cham dance performance near
+      the entrance.
   - q: What's the best way to get there from central Nha Trang?
-    a: A taxi or Grab ride takes about 10–15 minutes from the Tran Phu beachfront; it's also a walkable or bikeable 20–25 minutes across Xom Bong Bridge along the Cai River.
+    a: >-
+      A taxi or Grab ride takes about 10–15 minutes from the Tran Phu
+      beachfront; it's also a walkable or bikeable 20–25 minutes across Xom Bong
+      Bridge along the Cai River.
   - q: Is there an entrance fee?
-    a: Yes, a modest ticket fee is charged at the gate — bring small Vietnamese dong notes, as prices can change and are best confirmed on arrival.
+    a: >-
+      Yes, a modest ticket fee is charged at the gate — bring small Vietnamese
+      dong notes, as prices can change and are best confirmed on arrival.
   - q: What's the best time of day or year to visit?
-    a: Early morning or late afternoon avoids both the heat and tour-bus crowds; the dry season (roughly January–August) offers the most reliable weather.
+    a: >-
+      Early morning or late afternoon avoids both the heat and tour-bus crowds;
+      the dry season (roughly January–August) offers the most reliable weather.
   - q: What should I wear or know before visiting?
-    a: Po Nagar is an active place of worship for Cham and Vietnamese visitors, so dress modestly (shoulders and knees covered) and keep noise respectful near the main tower where incense and offerings take place.
+    a: >-
+      Po Nagar is an active place of worship for Cham and Vietnamese visitors,
+      so dress modestly (shoulders and knees covered) and keep noise respectful
+      near the main tower where incense and offerings take place.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-26'
 ---
 
 ## Why Po Nagar matters

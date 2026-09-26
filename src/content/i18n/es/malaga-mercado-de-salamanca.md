@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: malaga-mercado-de-salamanca
-srcHash: '6ed39b5c93b0'
+srcHash: '7ce62d37d70c'
 title: 'Mercado de Salamanca: Guía de Viaje de Málaga (4,2★)'
-description: 'El Mercado de Salamanca es un mercado de barrio situado en la calle San Bartolomé 1, en el distrito malagueño de El Molinillo, a unos 15 minutos a pie al norte del casco antiguo. 4,2★ (2.405 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Mercado de Salamanca es un mercado de barrio situado en la calle San Bartolomé 1, en el distrito malagueño de El Molinillo, a unos 15 minutos a pie al norte del casco antiguo. 4,2★ (2.407 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Mercado de Salamanca es un mercado de barrio situado en la calle San Bartolomé 1, en el distrito malagueño de El Molinillo, a unos 15 minutos a pie al norte del casco antiguo. Sus puestos de fruta, verdura y carne se reparten dentro de una nave neoárabe construida en los años veinte. Abre de lunes a sábado de 8:00 a 15:00 y permanece cerrado los domingos. Los sábados es cuando más gente hay, de 10:00 a 15:00, así que conviene ir a las 8:00 o entre semana.
 faq:
   - q: ¿Cuál es el horario del Mercado de Salamanca?

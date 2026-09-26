@@ -1,44 +1,55 @@
 ---
-title: "Janpath Market: New Delhi Travel Guide (4.2★)"
-description: "Janpath Market is an open-air shopping street on Janpath Road in Connaught Place, New Delhi, lined with stalls selling clothing, home accessories, Tibetan and Kashmiri crafts, and souvenirs. 4.2★ (74,651 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "New Delhi"
-category: "hidden-gem"
-pubDate: "2026-09-26T07:51:59.282Z"
+title: 'Janpath Market: New Delhi Travel Guide (4.2★)'
+description: >-
+  Janpath Market is an open-air shopping street on Janpath Road in Connaught
+  Place, New Delhi, lined with stalls selling clothing, home accessories,
+  Tibetan and Kashmiri crafts, and souvenirs. 4.2★ (74,661 reviews) — what
+  visitors say, hours, and tips.
+country: India
+region: New Delhi
+category: hidden-gem
+pubDate: '2026-09-26T07:51:59.282Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/6/6c/India_2007_Delhi_bracelets_janpath_market_%282129389201%29.jpg"
-  credit: "Photo: McKay Savage from London, UK / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:India_2007_Delhi_bracelets_janpath_market_(2129389201).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/6c/India_2007_Delhi_bracelets_janpath_market_%282129389201%29.jpg
+  credit: 'Photo: McKay Savage from London, UK / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:India_2007_Delhi_bracelets_janpath_market_(2129389201).jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tibet_Market%2C_Janpath_in_New_Delhi_04.jpg/3840px-Tibet_Market%2C_Janpath_in_New_Delhi_04.jpg"
-    credit: "Photo: Pinakpani / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Tibet_Market,_Janpath_in_New_Delhi_04.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tibet_Market%2C_Janpath_in_New_Delhi_04.jpg/3840px-Tibet_Market%2C_Janpath_in_New_Delhi_04.jpg
+    credit: 'Photo: Pinakpani / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Tibet_Market,_Janpath_in_New_Delhi_04.jpg
 place:
-  id: "ChIJh_UvczX9DDkRz74wyQ-eSLM"
-  name: "Janpath Market"
-  address: "J6H9+JGJ, Janpath Rd, Janpath, Connaught Place, New Delhi, Delhi 110001, India"
+  id: ChIJh_UvczX9DDkRz74wyQ-eSLM
+  name: Janpath Market
+  address: >-
+    J6H9+JGJ, Janpath Rd, Janpath, Connaught Place, New Delhi, Delhi 110001,
+    India
   rating: 4.2
-  userRatingsTotal: 74651
-  googleMapsUrl: "https://maps.google.com/?cid=12918749321749380815&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 74661
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12918749321749380815&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 28.6290786
   lng: 77.21876379999999
   openingHours:
-    - "Monday: 11:00 AM – 8:00 PM"
-    - "Tuesday: 11:00 AM – 8:00 PM"
-    - "Wednesday: 11:00 AM – 8:00 PM"
-    - "Thursday: 11:00 AM – 8:00 PM"
-    - "Friday: 11:00 AM – 8:00 PM"
-    - "Saturday: 11:00 AM – 8:00 PM"
-    - "Sunday: 11:00 AM – 8:00 PM"
+    - 'Monday: 11:00 AM – 8:00 PM'
+    - 'Tuesday: 11:00 AM – 8:00 PM'
+    - 'Wednesday: 11:00 AM – 8:00 PM'
+    - 'Thursday: 11:00 AM – 8:00 PM'
+    - 'Friday: 11:00 AM – 8:00 PM'
+    - 'Saturday: 11:00 AM – 8:00 PM'
+    - 'Sunday: 11:00 AM – 8:00 PM'
   busyness:
-    updated: 2026-09-26
+    updated: 2026-09-26T00:00:00.000Z
     weekdayQuiet:
       - 11
       - 12
@@ -51,24 +62,41 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_4d4c53652d51797734377a526b444439587a6376555f684a496843"
+    venueId: ven_4d4c53652d51797734377a526b444439587a6376555f684a496843
 tags:
-  - "new delhi"
-  - "local market"
-quickAnswer: "Janpath Market is an open-air shopping street on Janpath Road in Connaught Place, New Delhi, lined with stalls selling clothing, home accessories, Tibetan and Kashmiri crafts, and souvenirs. It's open daily from 11am to 8pm. The calmest times are 11am–1pm on weekdays and 11am–2pm on weekends, and weekends between 4pm and 8pm are worth avoiding."
+  - new delhi
+  - local market
+quickAnswer: >-
+  Janpath Market is an open-air shopping street on Janpath Road in Connaught
+  Place, New Delhi, lined with stalls selling clothing, home accessories,
+  Tibetan and Kashmiri crafts, and souvenirs. It's open daily from 11am to 8pm.
+  The calmest times are 11am–1pm on weekdays and 11am–2pm on weekends, and
+  weekends between 4pm and 8pm are worth avoiding.
 faq:
-  - q: "When is the quietest time to visit Janpath Market?"
-    a: "On weekdays it's calmest from 11am to 1pm, and on weekends from 11am to 2pm. Weekends between 4pm and 8pm are the busiest, so avoid them if you can."
-  - q: "What are Janpath Market's opening hours?"
-    a: "It's open every day, Monday to Sunday, from 11am to 8pm."
-  - q: "Which metro station is closest to Janpath Market?"
-    a: "Janpath Metro Station on the Violet Line is at the southern end of the street. Rajiv Chowk (Yellow and Blue Lines) under Connaught Place is a short walk from the northern end."
-  - q: "Do I need to bargain at Janpath Market?"
-    a: "Yes, at most stalls. To get a sense of fair value before you haggle, check fixed prices at the Central Cottage Industries Emporium on Janpath or the state emporiums on Baba Kharak Singh Marg."
-  - q: "What else is near Janpath Market?"
-    a: "Connaught Place, Palika Bazaar, Jantar Mantar, Agrasen ki Baoli and Hanuman Mandir are all within walking distance."
+  - q: When is the quietest time to visit Janpath Market?
+    a: >-
+      On weekdays it's calmest from 11am to 1pm, and on weekends from 11am to
+      2pm. Weekends between 4pm and 8pm are the busiest, so avoid them if you
+      can.
+  - q: What are Janpath Market's opening hours?
+    a: 'It''s open every day, Monday to Sunday, from 11am to 8pm.'
+  - q: Which metro station is closest to Janpath Market?
+    a: >-
+      Janpath Metro Station on the Violet Line is at the southern end of the
+      street. Rajiv Chowk (Yellow and Blue Lines) under Connaught Place is a
+      short walk from the northern end.
+  - q: Do I need to bargain at Janpath Market?
+    a: >-
+      Yes, at most stalls. To get a sense of fair value before you haggle, check
+      fixed prices at the Central Cottage Industries Emporium on Janpath or the
+      state emporiums on Baba Kharak Singh Marg.
+  - q: What else is near Janpath Market?
+    a: >-
+      Connaught Place, Palika Bazaar, Jantar Mantar, Agrasen ki Baoli and
+      Hanuman Mandir are all within walking distance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-26'
 ---
 
 ## A pavement shop off the Connaught Place circle

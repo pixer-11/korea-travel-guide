@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: new-delhi-janpath-market
-srcHash: '35a3986b09c7'
+srcHash: 'baf615fe0dc6'
 title: 'Janpath Market: guía de viaje de Nueva Delhi (4,2★)'
-description: 'Janpath Market es una calle comercial al aire libre en Janpath Road, en Connaught Place, Nueva Delhi, con puestos de ropa, artículos para el hogar, artesanía tibetana y de Cachemira, y recuerdos. 4,2★ (74.651 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'Janpath Market es una calle comercial al aire libre en Janpath Road, en Connaught Place, Nueva Delhi, con puestos de ropa, artículos para el hogar, artesanía tibetana y de Cachemira, y recuerdos. 4,2★ (74.661 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Janpath Market es una calle comercial al aire libre en Janpath Road, en Connaught Place, Nueva Delhi, con puestos de ropa, artículos para el hogar, artesanía tibetana y de Cachemira, y recuerdos. Abre todos los días de 11:00 a 20:00. Los momentos más tranquilos son de 11:00 a 13:00 entre semana y de 11:00 a 14:00 los fines de semana, y conviene evitar los fines de semana entre las 16:00 y las 20:00.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Janpath Market?

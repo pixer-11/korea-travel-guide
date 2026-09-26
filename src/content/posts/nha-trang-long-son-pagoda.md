@@ -1,43 +1,49 @@
 ---
-title: "Long Son Pagoda: Nha Trang Travel Guide (4.3★)"
-description: "Long Son Pagoda in Nha Trang sits on Đ. 23 Tháng 10 in the Tây Nha Trang area, a short taxi or bike ride west of the city center. 4.3★ (15,439 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Nha Trang"
-category: "attraction"
-pubDate: "2026-08-31T12:37:05.900Z"
+title: 'Long Son Pagoda: Nha Trang Travel Guide (4.3★)'
+description: >-
+  Long Son Pagoda in Nha Trang sits on Đ. 23 Tháng 10 in the Tây Nha Trang area,
+  a short taxi or bike ride west of the city center. 4.3★ (15,590 reviews) —
+  what visitors say, hours, and tips.
+country: Vietnam
+region: Nha Trang
+category: attraction
+pubDate: '2026-08-31T12:37:05.900Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Long-S%C6%A1n-Pagoda_Temple.JPG/1920px-Long-S%C6%A1n-Pagoda_Temple.JPG"
-  credit: "Photo: Nonvolatil / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Long-S%C6%A1n-Pagoda_Temple.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Long-S%C6%A1n-Pagoda_Temple.JPG/1920px-Long-S%C6%A1n-Pagoda_Temple.JPG
+  credit: 'Photo: Nonvolatil / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Long-S%C6%A1n-Pagoda_Temple.JPG'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Long_Son_Pagoda_2.jpg/3840px-Long_Son_Pagoda_2.jpg"
-    credit: "Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Long_Son_Pagoda_2.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Long_Son_Pagoda_2.jpg/3840px-Long_Son_Pagoda_2.jpg
+    credit: 'Photo: Christophe95 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Long_Son_Pagoda_2.jpg'
 place:
-  id: "ChIJ6VnfP3ldcDERHoQBNdIRQhs"
-  name: "Long Son Pagoda"
-  address: "22 Đ. 23 Tháng 10, Tây Nha Trang, Khánh Hòa 650000, Vietnam"
+  id: ChIJ6VnfP3ldcDERHoQBNdIRQhs
+  name: Long Son Pagoda
+  address: '22 Đ. 23 Tháng 10, Tây Nha Trang, Khánh Hòa 650000, Vietnam'
   rating: 4.3
-  userRatingsTotal: 15439
-  googleMapsUrl: "https://maps.google.com/?cid=1964151982017053726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 15590
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1964151982017053726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 12.2501803
   lng: 109.1801753
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-31
+    updated: 2026-08-31T00:00:00.000Z
     weekdayQuiet:
       - 21
       - 22
@@ -66,24 +72,44 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_7368515249644e42516f4852454463646c3350666e56364a496843"
+    venueId: ven_7368515249644e42516f4852454463646c3350666e56364a496843
 tags:
-  - "nha trang"
-  - "historic site"
-quickAnswer: "Long Son Pagoda in Nha Trang sits on Đ. 23 Tháng 10 in the Tây Nha Trang area, a short taxi or bike ride west of the city center. It's open 24 hours, though the main hall and staircase to the giant hilltop Buddha are really a daytime visit; weekends get packed from 8am to 6pm, so if you want the grounds quiet, come after 8pm. Budget 45–60 minutes, more if you climb all the way up for the view."
+  - nha trang
+  - historic site
+quickAnswer: >-
+  Long Son Pagoda in Nha Trang sits on Đ. 23 Tháng 10 in the Tây Nha Trang area,
+  a short taxi or bike ride west of the city center. It's open 24 hours, though
+  the main hall and staircase to the giant hilltop Buddha are really a daytime
+  visit; weekends get packed from 8am to 6pm, so if you want the grounds quiet,
+  come after 8pm. Budget 45–60 minutes, more if you climb all the way up for the
+  view.
 faq:
-  - q: "Is there an entrance fee for Long Son Pagoda?"
-    a: "No official ticket is charged, but donation boxes are placed at the entrance and along the staircase, and a small contribution is customary."
-  - q: "How long should I spend at Long Son Pagoda?"
-    a: "Plan on 45–60 minutes for the temple and full staircase climb to the hilltop Buddha, longer if you linger at the viewpoint."
-  - q: "When is the quietest time to visit?"
-    a: "Weekdays between 9pm and 11pm, or weekends between 8pm and 11pm, see the fewest visitors; weekends from 8am to 6pm are the busiest and best avoided if you dislike crowds."
-  - q: "Do I need to dress a certain way?"
-    a: "Yes. Cover your shoulders and knees, remove shoes before entering the main hall, and dress modestly as this is an active Buddhist temple, not just a tourist site."
-  - q: "What else is nearby?"
-    a: "Nha Trang Cathedral and the Po Nagar Cham Towers are both a short ride away and pair well with Long Son Pagoda for a half-day of inland sightseeing."
+  - q: Is there an entrance fee for Long Son Pagoda?
+    a: >-
+      No official ticket is charged, but donation boxes are placed at the
+      entrance and along the staircase, and a small contribution is customary.
+  - q: How long should I spend at Long Son Pagoda?
+    a: >-
+      Plan on 45–60 minutes for the temple and full staircase climb to the
+      hilltop Buddha, longer if you linger at the viewpoint.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekdays between 9pm and 11pm, or weekends between 8pm and 11pm, see the
+      fewest visitors; weekends from 8am to 6pm are the busiest and best avoided
+      if you dislike crowds.
+  - q: Do I need to dress a certain way?
+    a: >-
+      Yes. Cover your shoulders and knees, remove shoes before entering the main
+      hall, and dress modestly as this is an active Buddhist temple, not just a
+      tourist site.
+  - q: What else is nearby?
+    a: >-
+      Nha Trang Cathedral and the Po Nagar Cham Towers are both a short ride
+      away and pair well with Long Son Pagoda for a half-day of inland
+      sightseeing.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-26'
 ---
 Long Son Pagoda doesn't try to be subtle. From the road on Đ. 23 Tháng 10, the first thing you register is scale: a dragon-flanked staircase climbing a hillside behind the temple roofs, leading your eye up to a huge white concrete Buddha seated against the sky.
 

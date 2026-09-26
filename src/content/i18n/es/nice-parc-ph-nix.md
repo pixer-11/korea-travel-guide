@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: nice-parc-ph-nix
-srcHash: 'ed3a63598982'
+srcHash: '29ba5c267d2b'
 title: 'Parc Phœnix: Guía de viaje de Niza (4,2★)'
-description: Parc Phœnix es un gran jardín botánico y zoo de entrada gratuita en el extremo occidental de la Promenade des Anglais, conocido sobre todo por su enorme invernadero tropical, sus pajareras, sus nutrias y sus ualabíes. 4,2★ (12.807 reseñas) — qué opinan los visitantes, horarios y consejos.
+description: Parc Phœnix es un gran jardín botánico y zoo de entrada gratuita en el extremo occidental de la Promenade des Anglais, conocido sobre todo por su enorme invernadero tropical, sus pajareras, sus nutrias y sus ualabíes. 4,2★ (12.947 reseñas) — qué opinan los visitantes, horarios y consejos.
 quickAnswer: Parc Phœnix es un gran jardín botánico y zoo de entrada gratuita en el extremo occidental de la Promenade des Anglais, conocido sobre todo por su enorme invernadero tropical, sus pajareras, sus nutrias y sus ualabíes. Abre todos los días de 9:30 a 19:30; los fines de semana se llena de mediodía a las 18:00, así que conviene ir temprano los fines de semana (9:30–10:00) o cualquier día de la semana, que se mantiene tranquilo todo el día. Reserva entre dos y tres horas para verlo con calma.
 faq:
   - q: ¿Cómo llego a Parc Phœnix sin coche?

@@ -1,44 +1,51 @@
 ---
-title: "Mercado de Salamanca: Malaga Travel Guide (4.2★)"
-description: "Mercado de Salamanca is a neighbourhood food market at Calle San Bartolomé 1 in Málaga's El Molinillo district, about a 15-minute walk north of the old town. 4.2★ (2,405 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "Malaga"
-category: "hidden-gem"
-pubDate: "2026-09-26T07:40:44.729Z"
+title: 'Mercado de Salamanca: Malaga Travel Guide (4.2★)'
+description: >-
+  Mercado de Salamanca is a neighbourhood food market at Calle San Bartolomé 1
+  in Málaga's El Molinillo district, about a 15-minute walk north of the old
+  town. 4.2★ (2,407 reviews) — what visitors say, hours, and tips.
+country: Spain
+region: Malaga
+category: hidden-gem
+pubDate: '2026-09-26T07:40:44.729Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/8/87/Mercado_de_Salamanca.jpg"
-  credit: "Photo: Tyk / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Mercado_de_Salamanca.jpg"
-  via: "act"
+  url: 'https://upload.wikimedia.org/wikipedia/commons/8/87/Mercado_de_Salamanca.jpg'
+  credit: 'Photo: Tyk / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Mercado_de_Salamanca.jpg'
+  via: act
   focus:
     x: 65
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/8/84/Salamanca_Market_M%C3%A1laga.jpg"
-    credit: "Photo: Haydn Blackey from Cardiff, Wales / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Salamanca_Market_M%C3%A1laga.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/8/84/Salamanca_Market_M%C3%A1laga.jpg
+    credit: >-
+      Photo: Haydn Blackey from Cardiff, Wales / Wikimedia Commons (CC BY-SA
+      2.0)
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Salamanca_Market_M%C3%A1laga.jpg'
 place:
-  id: "ChIJf1CH7bv3cg0RGfX5-wDeg3g"
-  name: "Mercado de Salamanca"
-  address: "Calle San Bartolomé, 1, Distrito Centro, 29013 Málaga, Spain"
+  id: ChIJf1CH7bv3cg0RGfX5-wDeg3g
+  name: Mercado de Salamanca
+  address: 'Calle San Bartolomé, 1, Distrito Centro, 29013 Málaga, Spain'
   rating: 4.2
-  userRatingsTotal: 2405
-  googleMapsUrl: "https://maps.google.com/?cid=8684028602309276953&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2407
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8684028602309276953&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.7272816
   lng: -4.4242441
   openingHours:
-    - "Monday: 8:00 AM – 3:00 PM"
-    - "Tuesday: 8:00 AM – 3:00 PM"
-    - "Wednesday: 8:00 AM – 3:00 PM"
-    - "Thursday: 8:00 AM – 3:00 PM"
-    - "Friday: 8:00 AM – 3:00 PM"
-    - "Saturday: 8:00 AM – 3:00 PM"
-    - "Sunday: Closed"
+    - 'Monday: 8:00 AM – 3:00 PM'
+    - 'Tuesday: 8:00 AM – 3:00 PM'
+    - 'Wednesday: 8:00 AM – 3:00 PM'
+    - 'Thursday: 8:00 AM – 3:00 PM'
+    - 'Friday: 8:00 AM – 3:00 PM'
+    - 'Saturday: 8:00 AM – 3:00 PM'
+    - 'Sunday: Closed'
   busyness:
-    updated: 2026-09-26
+    updated: 2026-09-26T00:00:00.000Z
     weekdayBusy:
       - 10
       - 11
@@ -51,24 +58,41 @@ place:
       - 12
       - 13
       - 14
-    venueId: "ven_6733676544772d355866475230676333766237484331664a496843"
+    venueId: ven_6733676544772d355866475230676333766237484331664a496843
 tags:
-  - "malaga"
-  - "local market"
-quickAnswer: "Mercado de Salamanca is a neighbourhood food market at Calle San Bartolomé 1 in Málaga's El Molinillo district, about a 15-minute walk north of the old town. Its produce and meat stalls sit inside a 1920s neo-Arab hall. It opens Monday to Saturday from 8am to 3pm and is closed on Sundays. Saturdays are busiest from 10am to 3pm, so come at 8am or on a weekday."
+  - malaga
+  - local market
+quickAnswer: >-
+  Mercado de Salamanca is a neighbourhood food market at Calle San Bartolomé 1
+  in Málaga's El Molinillo district, about a 15-minute walk north of the old
+  town. Its produce and meat stalls sit inside a 1920s neo-Arab hall. It opens
+  Monday to Saturday from 8am to 3pm and is closed on Sundays. Saturdays are
+  busiest from 10am to 3pm, so come at 8am or on a weekday.
 faq:
-  - q: "What are the opening hours of Mercado de Salamanca?"
-    a: "It opens 8am to 3pm Monday through Saturday and is closed on Sundays. It's not an afternoon or evening stop."
-  - q: "When is the quietest time to visit?"
-    a: "Avoid Saturdays from 10am to 3pm, which are the busiest hours. On a Saturday, arrive at the 8am opening. Otherwise, pick a weekday morning."
-  - q: "How do I get to Mercado de Salamanca from the old town?"
-    a: "Walk. It's at Calle San Bartolomé 1 in El Molinillo, about 15 minutes north of Plaza de la Constitución, near the Guadalmedina riverbed."
-  - q: "How long should I spend there?"
-    a: "Around 20 to 40 minutes is enough to see the neo-Arab facade and walk the stalls. Stay longer if you're buying food."
-  - q: "Is it worth visiting if I've already seen Mercado de Atarazanas?"
-    a: "Yes, if you enjoy architecture or everyday market life. It's smaller and more of a neighbourhood market, and its 1920s tiled, horseshoe-arched building is quite different from Atarazanas."
+  - q: What are the opening hours of Mercado de Salamanca?
+    a: >-
+      It opens 8am to 3pm Monday through Saturday and is closed on Sundays. It's
+      not an afternoon or evening stop.
+  - q: When is the quietest time to visit?
+    a: >-
+      Avoid Saturdays from 10am to 3pm, which are the busiest hours. On a
+      Saturday, arrive at the 8am opening. Otherwise, pick a weekday morning.
+  - q: How do I get to Mercado de Salamanca from the old town?
+    a: >-
+      Walk. It's at Calle San Bartolomé 1 in El Molinillo, about 15 minutes
+      north of Plaza de la Constitución, near the Guadalmedina riverbed.
+  - q: How long should I spend there?
+    a: >-
+      Around 20 to 40 minutes is enough to see the neo-Arab facade and walk the
+      stalls. Stay longer if you're buying food.
+  - q: Is it worth visiting if I've already seen Mercado de Atarazanas?
+    a: >-
+      Yes, if you enjoy architecture or everyday market life. It's smaller and
+      more of a neighbourhood market, and its 1920s tiled, horseshoe-arched
+      building is quite different from Atarazanas.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-26'
 ---
 
 ## A market hall dressed as a small palace

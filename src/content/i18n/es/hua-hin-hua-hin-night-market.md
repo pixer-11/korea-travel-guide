@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: hua-hin-hua-hin-night-market
-srcHash: 'c081d5e6a8d4'
+srcHash: 'a3eb2e13e4dd'
 title: 'Mercado Nocturno de Hua Hin: Guía de Viaje (4.2★)'
-description: 'El Mercado Nocturno de Hua Hin abre todas las noches de 18:00 a medianoche en Soi 72 (Dechanuchit Road), en el centro de Hua Hin, a poca distancia a pie de la Torre del Reloj en Phetkasem Road. 4.2★ (25.773 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Mercado Nocturno de Hua Hin abre todas las noches de 18:00 a medianoche en Soi 72 (Dechanuchit Road), en el centro de Hua Hin, a poca distancia a pie de la Torre del Reloj en Phetkasem Road. 4.2★ (25.774 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Mercado Nocturno de Hua Hin abre todas las noches de 18:00 a medianoche en Soi 72 (Dechanuchit Road), en el centro de Hua Hin, a poca distancia a pie de la Torre del Reloj en Phetkasem Road. Los fines de semana, entre las 19:00 y las 22:00 es cuando más gente hay, así que conviene llegar cerca de las 18:00 si se quiere espacio para caminar y poder elegir mesa en los puestos de marisco.
 faq:
   - q: ¿Cuál es el horario del Mercado Nocturno de Hua Hin?

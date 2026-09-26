@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: nikko-edo-wonderland-nikko-edomura
-srcHash: 'f729383965d1'
+srcHash: '1e1cdf8a681c'
 title: 'Edo Wonderland Nikko Edomura: guía de viaje (4,3★)'
-description: 'Edo Wonderland Nikko Edomura es un parque temático dedicado al periodo Edo en Karakura, Nikko, a un breve trayecto de Kinugawa Onsen. 4,3★ (6.865 opiniones): qué dicen los visitantes, horarios y consejos.'
+description: 'Edo Wonderland Nikko Edomura es un parque temático dedicado al periodo Edo en Karakura, Nikko, a un breve trayecto de Kinugawa Onsen. 4,3★ (6.877 opiniones): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: Edo Wonderland Nikko Edomura es un parque temático dedicado al periodo Edo en Karakura, Nikko, a un breve trayecto de Kinugawa Onsen. El personal, vestido de época, anima las calles, y la jornada gira en torno a espectáculos en vivo y talleres. Abre de 9:00 a 17:00 y cierra los miércoles; los fines de semana la mayor afluencia es entre las 10:00 y las 16:00, así que conviene llegar a la apertura, a las 9:00.
 faq:
   - q: ¿Cuál es el mejor momento para visitar Edo Wonderland Nikko Edomura sin aglomeraciones?

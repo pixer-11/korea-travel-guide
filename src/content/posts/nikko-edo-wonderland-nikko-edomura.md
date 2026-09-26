@@ -1,46 +1,55 @@
 ---
-title: "Edo Wonderland Nikko Edomura: Travel Guide (4.3★)"
-description: "Edo Wonderland Nikko Edomura is an Edo-period theme park in Karakura, Nikko, a short hop from Kinugawa Onsen. 4.3★ (6,865 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Nikko"
-category: "hidden-gem"
-pubDate: "2026-09-25T07:48:23.372Z"
+title: 'Edo Wonderland Nikko Edomura: Travel Guide (4.3★)'
+description: >-
+  Edo Wonderland Nikko Edomura is an Edo-period theme park in Karakura, Nikko, a
+  short hop from Kinugawa Onsen. 4.3★ (6,877 reviews) — what visitors say,
+  hours, and tips.
+country: Japan
+region: Nikko
+category: hidden-gem
+pubDate: '2026-09-25T07:48:23.372Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Nikko_Edo-Mura_2.jpg/1920px-Nikko_Edo-Mura_2.jpg"
-  credit: "Photo: Gene Jackson from Brooklyn, United States / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Nikko_Edo-Mura_2.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Nikko_Edo-Mura_2.jpg/1920px-Nikko_Edo-Mura_2.jpg
+  credit: >-
+    Photo: Gene Jackson from Brooklyn, United States / Wikimedia Commons (CC
+    BY-SA 2.0)
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Nikko_Edo-Mura_2.jpg'
   focus:
     x: 62
-    y: 20
+    'y': 20
     top: 12
     bottom: 28
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/7/7b/Edo_Wonderland_Nikko_Edomura_01.JPG"
-    credit: "Photo: Abasaa / Wikimedia Commons (Public domain)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Edo_Wonderland_Nikko_Edomura_01.JPG"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/7/7b/Edo_Wonderland_Nikko_Edomura_01.JPG
+    credit: 'Photo: Abasaa / Wikimedia Commons (Public domain)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Edo_Wonderland_Nikko_Edomura_01.JPG
 place:
-  id: "ChIJZWyJwnifH2ARoJVAqbtWNBg"
-  name: "Edo Wonderland Nikko Edomura"
-  address: "470-2 Karakura, Nikko, Tochigi 321-2524, Japan"
+  id: ChIJZWyJwnifH2ARoJVAqbtWNBg
+  name: Edo Wonderland Nikko Edomura
+  address: '470-2 Karakura, Nikko, Tochigi 321-2524, Japan'
   rating: 4.3
-  userRatingsTotal: 6865
-  googleMapsUrl: "https://maps.google.com/?cid=1744114319697679776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6877
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1744114319697679776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.7908146
   lng: 139.6973346
-  phone: "+81 288-77-1777"
+  phone: +81 288-77-1777
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: Closed"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: Closed'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-09-25
+    updated: 2026-09-25T00:00:00.000Z
     weekdayBusy:
       - 12
       - 13
@@ -51,24 +60,47 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_67424e5774627141564a6f5241324866696e774a79575a4a496843"
+    venueId: ven_67424e5774627141564a6f5241324866696e774a79575a4a496843
 tags:
-  - "nikko"
-  - "local market"
-quickAnswer: "Edo Wonderland Nikko Edomura is an Edo-period theme park in Karakura, Nikko, a short hop from Kinugawa Onsen. Staff in costume run the streets, and the day is built around live shows and workshops. It opens 9am to 5pm and closes on Wednesdays; on weekends it's busiest between 10am and 4pm, so get there at the 9am opening."
+  - nikko
+  - local market
+quickAnswer: >-
+  Edo Wonderland Nikko Edomura is an Edo-period theme park in Karakura, Nikko, a
+  short hop from Kinugawa Onsen. Staff in costume run the streets, and the day
+  is built around live shows and workshops. It opens 9am to 5pm and closes on
+  Wednesdays; on weekends it's busiest between 10am and 4pm, so get there at the
+  9am opening.
 faq:
-  - q: "When is the quietest time to visit Edo Wonderland Nikko Edomura?"
-    a: "On weekends it's busiest between 10am and 4pm, so avoid arriving mid-morning on a Saturday or Sunday. Your best move is to arrive at the 9am opening, before the crowds build. There's no quiet-hour data for weekdays, but remember the park is closed on Wednesdays."
-  - q: "How do I get there from Tokyo?"
-    a: "Take a Tobu limited express from Asakusa to Kinugawa-Onsen Station, about two hours. From there it's a short bus or taxi ride to Karakura. Shin-Takatoku Station, one stop earlier on the Tobu Kinugawa Line, is the closest station for walking."
-  - q: "What days and hours is it open?"
-    a: "It opens 9am to 5pm on Monday, Tuesday and Thursday through Sunday. It is closed on Wednesdays."
-  - q: "Are the shows understandable without Japanese?"
-    a: "Most dialogue is in Japanese, but the ninja action, sword fights, slapstick and the oiran procession are visual enough to enjoy without it. Grab the show schedule at the entrance to plan your day."
-  - q: "What else is nearby?"
-    a: "Tobu World Square, the miniatures park, is a few minutes along the same valley, and the hot-spring town of Kinugawa Onsen is next door. Nikko's shrine area, including Toshogu, is further west and works better as its own day."
+  - q: When is the quietest time to visit Edo Wonderland Nikko Edomura?
+    a: >-
+      On weekends it's busiest between 10am and 4pm, so avoid arriving
+      mid-morning on a Saturday or Sunday. Your best move is to arrive at the
+      9am opening, before the crowds build. There's no quiet-hour data for
+      weekdays, but remember the park is closed on Wednesdays.
+  - q: How do I get there from Tokyo?
+    a: >-
+      Take a Tobu limited express from Asakusa to Kinugawa-Onsen Station, about
+      two hours. From there it's a short bus or taxi ride to Karakura.
+      Shin-Takatoku Station, one stop earlier on the Tobu Kinugawa Line, is the
+      closest station for walking.
+  - q: What days and hours is it open?
+    a: >-
+      It opens 9am to 5pm on Monday, Tuesday and Thursday through Sunday. It is
+      closed on Wednesdays.
+  - q: Are the shows understandable without Japanese?
+    a: >-
+      Most dialogue is in Japanese, but the ninja action, sword fights,
+      slapstick and the oiran procession are visual enough to enjoy without it.
+      Grab the show schedule at the entrance to plan your day.
+  - q: What else is nearby?
+    a: >-
+      Tobu World Square, the miniatures park, is a few minutes along the same
+      valley, and the hot-spring town of Kinugawa Onsen is next door. Nikko's
+      shrine area, including Toshogu, is further west and works better as its
+      own day.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-26'
 ---
 
 ## A town that stays in character

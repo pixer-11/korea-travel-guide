@@ -1,45 +1,53 @@
 ---
-title: "Genting Highlands Premium Outlets: Travel Guide (4.4★)"
-description: "Genting Highlands Premium Outlets is an open-air outlet mall halfway up the mountain at KM13, Genting Highlands, next to the Awana SkyWay cable car station. 4.4★ (29,423 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Genting Highlands"
-category: "hidden-gem"
-pubDate: "2026-09-26T07:44:32.476Z"
+title: 'Genting Highlands Premium Outlets: Travel Guide (4.4★)'
+description: >-
+  Genting Highlands Premium Outlets is an open-air outlet mall halfway up the
+  mountain at KM13, Genting Highlands, next to the Awana SkyWay cable car
+  station. 4.4★ (29,425 reviews) — what visitors say, hours, and tips.
+country: Malaysia
+region: Genting Highlands
+category: hidden-gem
+pubDate: '2026-09-26T07:44:32.476Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Genting_Highlands_Premium_Outlets_%28230918%29_13.jpg/3840px-Genting_Highlands_Premium_Outlets_%28230918%29_13.jpg"
-  credit: "Photo: *angys* / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Genting_Highlands_Premium_Outlets_(230918)_13.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Genting_Highlands_Premium_Outlets_%28230918%29_13.jpg/3840px-Genting_Highlands_Premium_Outlets_%28230918%29_13.jpg
+  credit: 'Photo: *angys* / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Genting_Highlands_Premium_Outlets_(230918)_13.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/5/5a/Genting_Highlands_Premium_Outlets_%282022%29.jpg"
-    credit: "Photo: Chongkian / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Genting_Highlands_Premium_Outlets_(2022).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/5/5a/Genting_Highlands_Premium_Outlets_%282022%29.jpg
+    credit: 'Photo: Chongkian / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Genting_Highlands_Premium_Outlets_(2022).jpg
 place:
-  id: "ChIJQwP5jDwUzDERqbMpmoMrOxU"
-  name: "Genting Highlands Premium Outlets"
-  address: "KM13, 69000 Genting Highlands, Pahang, Malaysia"
+  id: ChIJQwP5jDwUzDERqbMpmoMrOxU
+  name: Genting Highlands Premium Outlets
+  address: 'KM13, 69000 Genting Highlands, Pahang, Malaysia'
   rating: 4.4
-  userRatingsTotal: 29423
-  googleMapsUrl: "https://maps.google.com/?cid=1529864342649549737&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 29425
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1529864342649549737&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 3.4033765
   lng: 101.7831159
-  phone: "+60 3-6433 8888"
+  phone: +60 3-6433 8888
   openingHours:
-    - "Monday: 10:00 AM – 10:00 PM"
-    - "Tuesday: 10:00 AM – 10:00 PM"
-    - "Wednesday: 10:00 AM – 10:00 PM"
-    - "Thursday: 10:00 AM – 10:00 PM"
-    - "Friday: 10:00 AM – 10:00 PM"
-    - "Saturday: 10:00 AM – 10:00 PM"
-    - "Sunday: 10:00 AM – 10:00 PM"
+    - 'Monday: 10:00 AM – 10:00 PM'
+    - 'Tuesday: 10:00 AM – 10:00 PM'
+    - 'Wednesday: 10:00 AM – 10:00 PM'
+    - 'Thursday: 10:00 AM – 10:00 PM'
+    - 'Friday: 10:00 AM – 10:00 PM'
+    - 'Saturday: 10:00 AM – 10:00 PM'
+    - 'Sunday: 10:00 AM – 10:00 PM'
   busyness:
-    updated: 2026-09-26
+    updated: 2026-09-26T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 11
@@ -56,24 +64,43 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_55784f724d6f6d704d62715245447a5577446a355077514a496843"
+    venueId: ven_55784f724d6f6d704d62715245447a5577446a355077514a496843
 tags:
-  - "genting highlands"
-  - "local market"
-quickAnswer: "Genting Highlands Premium Outlets is an open-air outlet mall halfway up the mountain at KM13, Genting Highlands, next to the Awana SkyWay cable car station. It's open daily from 10am to 10pm. Weekdays are calm all day, but on weekends it's busiest from 12pm to 8pm, so come on a weekday or after 9pm on Saturday or Sunday."
+  - genting highlands
+  - local market
+quickAnswer: >-
+  Genting Highlands Premium Outlets is an open-air outlet mall halfway up the
+  mountain at KM13, Genting Highlands, next to the Awana SkyWay cable car
+  station. It's open daily from 10am to 10pm. Weekdays are calm all day, but on
+  weekends it's busiest from 12pm to 8pm, so come on a weekday or after 9pm on
+  Saturday or Sunday.
 faq:
-  - q: "When is the quietest time to visit Genting Highlands Premium Outlets?"
-    a: "On weekdays it's quiet the whole time it's open, 10am to 10pm. On weekends the quietest time is 9pm to 10pm. Try to avoid weekends between 12pm and 8pm, when it's busiest."
-  - q: "How do I get there from Kuala Lumpur without a car?"
-    a: "Take an express bus from KL Sentral or another KL terminal to the Awana SkyWay station bus terminal, which is a short walk from the outlets. Grab also covers the route. Book your ride back early, because cars can be harder to find on the mountain in the evening."
-  - q: "What are the opening hours?"
-    a: "It's open every day of the week from 10am to 10pm."
-  - q: "What should I wear?"
-    a: "Bring a light jacket and an umbrella. The outlets are outdoors, it's cooler than Kuala Lumpur, and mist or afternoon rain is common in the highlands."
-  - q: "What's nearby?"
-    a: "Awana SkyWay station is right beside the outlets. The cable car stops at Chin Swee Caves Temple and then continues up to SkyAvenue at Resorts World Genting."
+  - q: When is the quietest time to visit Genting Highlands Premium Outlets?
+    a: >-
+      On weekdays it's quiet the whole time it's open, 10am to 10pm. On weekends
+      the quietest time is 9pm to 10pm. Try to avoid weekends between 12pm and
+      8pm, when it's busiest.
+  - q: How do I get there from Kuala Lumpur without a car?
+    a: >-
+      Take an express bus from KL Sentral or another KL terminal to the Awana
+      SkyWay station bus terminal, which is a short walk from the outlets. Grab
+      also covers the route. Book your ride back early, because cars can be
+      harder to find on the mountain in the evening.
+  - q: What are the opening hours?
+    a: It's open every day of the week from 10am to 10pm.
+  - q: What should I wear?
+    a: >-
+      Bring a light jacket and an umbrella. The outlets are outdoors, it's
+      cooler than Kuala Lumpur, and mist or afternoon rain is common in the
+      highlands.
+  - q: What's nearby?
+    a: >-
+      Awana SkyWay station is right beside the outlets. The cable car stops at
+      Chin Swee Caves Temple and then continues up to SkyAvenue at Resorts World
+      Genting.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-26'
 ---
 
 ## An outlet mall on the side of a mountain

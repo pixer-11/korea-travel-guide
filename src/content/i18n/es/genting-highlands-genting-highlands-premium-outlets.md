@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: genting-highlands-genting-highlands-premium-outlets
-srcHash: '8854b2e6a88a'
+srcHash: 'd254bed39d94'
 title: 'Genting Highlands Premium Outlets: Guía de viaje (4,4★)'
-description: 'Genting Highlands Premium Outlets es un centro de tiendas outlet al aire libre situado a media montaña, en el KM13 de Genting Highlands, junto a la estación del teleférico Awana SkyWay. 4,4★ (29.423 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Genting Highlands Premium Outlets es un centro de tiendas outlet al aire libre situado a media montaña, en el KM13 de Genting Highlands, junto a la estación del teleférico Awana SkyWay. 4,4★ (29.425 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Genting Highlands Premium Outlets es un centro de tiendas outlet al aire libre situado a media montaña, en el KM13 de Genting Highlands, junto a la estación del teleférico Awana SkyWay. Abre todos los días de 10:00 a 22:00. Entre semana la afluencia es baja durante todo el día, pero los fines de semana el momento de mayor actividad va de 12:00 a 20:00, así que conviene venir un día laborable o después de las 21:00 en sábado o domingo.
 faq:
   - q: ¿Cuál es el momento menos concurrido para visitar Genting Highlands Premium Outlets?

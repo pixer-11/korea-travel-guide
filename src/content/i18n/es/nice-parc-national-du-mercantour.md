@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: nice-parc-national-du-mercantour
-srcHash: 'aed315759a8c'
+srcHash: 'a8676c9cb797'
 title: 'Parque nacional del Mercantour: guía de viaje desde Niza (4,7★)'
-description: 'El parque nacional del Mercantour abarca 67.900 hectáreas de valles junto a la frontera italiana, al norte de Niza. Para conseguir mapas y consejos sobre rutas conviene empezar por la oficina administrativa de la calle Rue d''Italie 23, en Niza, y no por el propio parque. 4,7★ (12.867 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El parque nacional del Mercantour abarca 67.900 hectáreas de valles junto a la frontera italiana, al norte de Niza. Para conseguir mapas y consejos sobre rutas conviene empezar por la oficina administrativa de la calle Rue d''Italie 23, en Niza, y no por el propio parque. 4,7★ (12.866 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'El parque nacional del Mercantour abarca 67.900 hectáreas a lo largo de la frontera entre Provenza y los Alpes. Para conseguir mapas y consejos sobre rutas conviene empezar por la oficina administrativa de la calle Rue d''Italie 23, en Niza, y no por el propio parque. El parque no tiene una entrada única: hay que subir en coche hasta valles como el Vésubie, el Roya o el Tinée y elegir allí el inicio de una ruta. Los fines de semana el tráfico es constante de 7:00 a 20:00, así que salir temprano importa más que el valle que se escoja.'
 faq:
   - q: ¿Por dónde se entra realmente al Parque nacional del Mercantour?

@@ -1,37 +1,45 @@
 ---
 title: 'Parc national du Mercantour: Nice Travel Guide (4.7★)'
-description: Parc national du Mercantour spans 67,900 hectares of valleys along the Italian border north of Nice, and the administrative office at 23 Rue d'Italie in Nice is where to start for maps and trail advice, not the park itself. 4.7★ (12,867 reviews) — what visitors say, hours, and tips.
-country: "France"
+description: >-
+  Parc national du Mercantour spans 67,900 hectares of valleys along the Italian
+  border north of Nice, and the administrative office at 23 Rue d'Italie in Nice
+  is where to start for maps and trail advice, not the park itself. 4.7★ (12,866
+  reviews) — what visitors say, hours, and tips.
+country: France
 region: Nice
-category: "attraction"
-pubDate: "2026-09-20T07:42:52.175Z"
+category: attraction
+pubDate: '2026-09-20T07:42:52.175Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Parc_Natural_du_Mercantour_Col_de_la_Bonette_%282025-08-22%29.jpg/3840px-Parc_Natural_du_Mercantour_Col_de_la_Bonette_%282025-08-22%29.jpg"
-  credit: "Photo: Olgierd Rudak / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Parc_Natural_du_Mercantour_Col_de_la_Bonette_(2025-08-22).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Parc_Natural_du_Mercantour_Col_de_la_Bonette_%282025-08-22%29.jpg/3840px-Parc_Natural_du_Mercantour_Col_de_la_Bonette_%282025-08-22%29.jpg
+  credit: 'Photo: Olgierd Rudak / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Parc_Natural_du_Mercantour_Col_de_la_Bonette_(2025-08-22).jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Le_Mercantour_National_Park.jpg"
-    credit: "Photo: Abubakr Hussain / Wikimedia Commons (CC BY-SA 2.5)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Le_Mercantour_National_Park.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/d/d3/Le_Mercantour_National_Park.jpg
+    credit: 'Photo: Abubakr Hussain / Wikimedia Commons (CC BY-SA 2.5)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Le_Mercantour_National_Park.jpg'
 place:
-  id: "ChIJnYeveGavzRIRhpO4564VvMo"
-  name: "Parc national du Mercantour"
-  address: "23 Rue d'Italie, 06000 Nice, France"
+  id: ChIJnYeveGavzRIRhpO4564VvMo
+  name: Parc national du Mercantour
+  address: '23 Rue d''Italie, 06000 Nice, France'
   rating: 4.7
-  userRatingsTotal: 12867
-  googleMapsUrl: "https://maps.google.com/?cid=14608575132239172486&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 12866
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14608575132239172486&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 44.1639767
   lng: 7.0654126999999995
-  phone: "+33 4 93 16 78 88"
+  phone: +33 4 93 16 78 88
   busyness:
-    updated: 2026-09-20
+    updated: 2026-09-20T00:00:00.000Z
     weekendQuiet:
       - 7
       - 12
@@ -48,23 +56,42 @@ place:
       - 16
       - 17
       - 19
-    venueId: "ven_6f4d7656343635344f70685249527a766147657665596e4a496843"
+    venueId: ven_6f4d7656343635344f70685249527a766147657665596e4a496843
 tags:
-  - "provence"
-  - "park"
-quickAnswer: "Parc national du Mercantour spans 67,900 hectares along the Provence-Alps border, and the administrative office at 23 Rue d'Italie in Nice is where to start for maps and trail advice, not the park itself. The park has no single entrance: you drive up into valleys like Vésubie, Roya or Tinée and pick a trailhead. Weekends see steady traffic from 7am to 8pm, so an early start matters more than which valley you choose."
+  - provence
+  - park
+quickAnswer: >-
+  Parc national du Mercantour spans 67,900 hectares along the Provence-Alps
+  border, and the administrative office at 23 Rue d'Italie in Nice is where to
+  start for maps and trail advice, not the park itself. The park has no single
+  entrance: you drive up into valleys like Vésubie, Roya or Tinée and pick a
+  trailhead. Weekends see steady traffic from 7am to 8pm, so an early start
+  matters more than which valley you choose.
 faq:
-  - q: "Where do you actually enter Parc national du Mercantour?"
-    a: "There's no single entrance. You drive to one of several valleys (Vésubie, Tinée, Roya, Ubaye) and start from a trailhead there. The Nice office at 23 Rue d'Italie handles maps and information, not entry."
-  - q: "How far is the park from Nice?"
-    a: "The nearest valleys, Vésubie and Tinée, are about 90 minutes by car from Nice. The Roya valley near Tende is closer to two hours."
-  - q: "When should I visit to avoid crowds?"
-    a: "Weekends see steady traffic from 7am to 8pm, with trailhead parking filling by mid-morning in peak summer. Arrive before 8am or visit on a weekday if possible."
-  - q: "How long does a typical visit take?"
-    a: "Most day hikes run four to six hours round trip. The Vallée des Merveilles in the Roya valley needs a full day minimum due to the longer approach."
-  - q: "Do I need to book anything in advance?"
-    a: "Mountain refuges fill fast in July and August and should be booked ahead, since there's no cell signal on most trails to arrange it last minute."
+  - q: Where do you actually enter Parc national du Mercantour?
+    a: >-
+      There's no single entrance. You drive to one of several valleys (Vésubie,
+      Tinée, Roya, Ubaye) and start from a trailhead there. The Nice office at
+      23 Rue d'Italie handles maps and information, not entry.
+  - q: How far is the park from Nice?
+    a: >-
+      The nearest valleys, Vésubie and Tinée, are about 90 minutes by car from
+      Nice. The Roya valley near Tende is closer to two hours.
+  - q: When should I visit to avoid crowds?
+    a: >-
+      Weekends see steady traffic from 7am to 8pm, with trailhead parking
+      filling by mid-morning in peak summer. Arrive before 8am or visit on a
+      weekday if possible.
+  - q: How long does a typical visit take?
+    a: >-
+      Most day hikes run four to six hours round trip. The Vallée des Merveilles
+      in the Roya valley needs a full day minimum due to the longer approach.
+  - q: Do I need to book anything in advance?
+    a: >-
+      Mountain refuges fill fast in July and August and should be booked ahead,
+      since there's no cell signal on most trails to arrange it last minute.
 aiGenerated: true
+updatedDate: '2026-09-26'
 ---
 Mercantour is not one gate you walk through. It's a chain of valleys stacked along the Italian border north of Nice, each with its own access road, car parks and rangers' huts. Established in 1979, it covers 67,900 hectares of granite peaks, glacial lakes and gorges, and it's the only French Alpine park that touches the Mediterranean climate zone. That mix is why summer visitors find snowfields above 2,500m and lavender scrub in the same day.
 

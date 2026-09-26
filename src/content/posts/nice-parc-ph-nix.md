@@ -1,27 +1,36 @@
 ---
 title: 'Parc Phœnix: Nice Travel Guide (4.2★)'
-description: Parc Phœnix is a large botanical garden and free-entry zoo on the western Promenade des Anglais, best known for its huge tropical glasshouse, aviaries, otters and wallabies. 4.2★ (12,807 reviews) — what visitors say, hours, and tips.
+description: >-
+  Parc Phœnix is a large botanical garden and free-entry zoo on the western
+  Promenade des Anglais, best known for its huge tropical glasshouse, aviaries,
+  otters and wallabies. 4.2★ (12,947 reviews) — what visitors say, hours, and
+  tips.
 country: France
 region: Nice
 category: attraction
 pubDate: '2026-08-08T08:18:23.435Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Parc_Phoenix_serre_Nice.jpg/1280px-Parc_Phoenix_serre_Nice.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Parc_Phoenix_serre_Nice.jpg/1280px-Parc_Phoenix_serre_Nice.jpg
   credit: 'Photo: GLOBI ۞ FUZZI / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Parc_Phoenix_serre_Nice.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Parc_Phoenix_serre_Nice.jpg'
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Parc_Ph%C5%93nix_%C3%A0_Nice.JPG/1920px-Parc_Ph%C5%93nix_%C3%A0_Nice.JPG
-    credit: 'Photo: Cette photo a été prise par André ALLIOT . / Wikimedia Commons (CC0)'
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Parc_Ph%C5%93nix_%C3%A0_Nice.JPG/1920px-Parc_Ph%C5%93nix_%C3%A0_Nice.JPG
+    credit: >-
+      Photo: Cette photo a été prise par André ALLIOT . / Wikimedia Commons
+      (CC0)
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Parc_Ph%C5%93nix_%C3%A0_Nice.JPG
+    source: 'https://commons.wikimedia.org/wiki/File:Parc_Ph%C5%93nix_%C3%A0_Nice.JPG'
 place:
   id: ChIJ8yI11QLRzRIRYLVe-RKMBsc
   name: Parc Phœnix
-  address: 405 Prom. des Anglais, 06200 Nice, France
+  address: '405 Prom. des Anglais, 06200 Nice, France'
   rating: 4.2
-  userRatingsTotal: 12807
-  googleMapsUrl: https://maps.google.com/?cid=14341304076528956768&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 12947
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14341304076528956768&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 43.668751199999996
   lng: 7.2192135
@@ -50,20 +59,37 @@ place:
 tags:
   - nice
   - park
-quickAnswer: Parc Phœnix is a large botanical garden and free-entry zoo on the western Promenade des Anglais, best known for its huge tropical glasshouse, aviaries, otters and wallabies. It's open daily 9:30am–7:30pm; weekends get busy from noon to 6pm, so aim for early weekend mornings (9:30–10am) or any weekday, which stays calm all day. Give yourself two to three hours to see it properly.
+quickAnswer: >-
+  Parc Phœnix is a large botanical garden and free-entry zoo on the western
+  Promenade des Anglais, best known for its huge tropical glasshouse, aviaries,
+  otters and wallabies. It's open daily 9:30am–7:30pm; weekends get busy from
+  noon to 6pm, so aim for early weekend mornings (9:30–10am) or any weekday,
+  which stays calm all day. Give yourself two to three hours to see it properly.
 faq:
   - q: How do I get to Parc Phœnix without a car?
-    a: Take Tram Line 2 to the Parc Phœnix stop — it drops you right at the entrance, about 20 minutes from central Nice.
+    a: >-
+      Take Tram Line 2 to the Parc Phœnix stop — it drops you right at the
+      entrance, about 20 minutes from central Nice.
   - q: When is the quietest time to visit?
-    a: Weekdays stay calm all day. On weekends, arrive between 9:30am and 10am, right at opening, before crowds build from noon to 6pm.
+    a: >-
+      Weekdays stay calm all day. On weekends, arrive between 9:30am and 10am,
+      right at opening, before crowds build from noon to 6pm.
   - q: How long should I plan to spend there?
-    a: Most visitors need two to three hours to see the glasshouse, gardens and animal enclosures without rushing.
+    a: >-
+      Most visitors need two to three hours to see the glasshouse, gardens and
+      animal enclosures without rushing.
   - q: Is entry free?
-    a: The gardens and zoo areas are typically free to enter, though the glasshouse and some exhibits can have a small charge — confirm current pricing at the entrance.
+    a: >-
+      The gardens and zoo areas are typically free to enter, though the
+      glasshouse and some exhibits can have a small charge — confirm current
+      pricing at the entrance.
   - q: What's nearby if I want to extend the visit?
-    a: The Promenade des Anglais runs right outside, and the same tram line connects onward to Nice's Old Town and main museums.
+    a: >-
+      The Promenade des Anglais runs right outside, and the same tram line
+      connects onward to Nice's Old Town and main museums.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-26'
 ---
 ## Why go
 

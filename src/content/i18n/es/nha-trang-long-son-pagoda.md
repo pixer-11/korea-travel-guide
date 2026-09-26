@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: nha-trang-long-son-pagoda
-srcHash: '4f0750d4eeb3'
+srcHash: '77b63efbdb9a'
 title: 'Pagoda Long Son: Guía de Viaje de Nha Trang (4.3★)'
-description: 'La Pagoda Long Son en Nha Trang está ubicada en Đ. 23 Tháng 10, en la zona de Tây Nha Trang, a poca distancia en taxi o bicicleta al oeste del centro de la ciudad. 4.3★ (15.439 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'La Pagoda Long Son en Nha Trang está ubicada en Đ. 23 Tháng 10, en la zona de Tây Nha Trang, a poca distancia en taxi o bicicleta al oeste del centro de la ciudad. 4.3★ (15.590 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: La Pagoda Long Son en Nha Trang está ubicada en Đ. 23 Tháng 10, en la zona de Tây Nha Trang, a poca distancia en taxi o bicicleta al oeste del centro de la ciudad. Permanece abierta las 24 horas, aunque el salón principal y la escalera que conduce al gigantesco Buda en la cima de la colina se visitan mejor de día; los fines de semana se llena de 8 a.m. a 6 p.m., así que si buscas tranquilidad en el recinto, ve después de las 8 p.m. Calcula entre 45 y 60 minutos, más si subes hasta arriba para disfrutar de la vista.
 faq:
   - q: ¿Se paga entrada para visitar la Pagoda Long Son?
