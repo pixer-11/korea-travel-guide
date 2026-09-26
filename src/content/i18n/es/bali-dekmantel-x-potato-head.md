@@ -1,69 +1,69 @@
 ---
 lang: es
 slug: bali-dekmantel-x-potato-head
-srcHash: '1b54f93999ca'
+srcHash: '5cfcccdb11b0'
 title: 'Dekmantel x Potato Head: fechas, entradas y sede (Bali)'
-description: Dekmantel x Potato Head en Bali, Indonesia — 25 de septiembre de 2026. Qué es, cuándo y dónde se celebra, y cómo organizar tu visita.
-quickAnswer: Dekmantel x Potato Head se celebra en Desa Potato Head, en Seminyak (Bali), y la edición de 2026 tendrá lugar el 25 de septiembre. El evento ocupa el escenario del Beach Club, en la playa de Petitenget, y reúne a un público internacional para sesiones de deep house y techno que se extienden desde el atardecer hasta bien entrada la noche. Antes de reservar, conviene confirmar horarios, cartel y entradas en las webs oficiales de Dekmantel y Desa Potato Head.
+description: Dekmantel x Potato Head en Bali, Indonesia, estaba previsto para el 25 de septiembre de 2026. En qué consistía el evento, dónde se ubicaba y cómo se anunció la fecha.
+quickAnswer: Dekmantel x Potato Head estaba previsto para el 25 de septiembre de 2026 en Desa Potato Head, en Seminyak, Bali. El escenario Beach Club de esta sede se encuentra en la playa de Petitenget, al aire libre y prácticamente sobre la arena, y la edición de 2026 se planeó en torno a sets de deep house y techno que se extenderían desde el atardecer hasta bien entrada la noche, con un público internacional atraído por la curaduría de Dekmantel, sello y festival de raíces ámsterdamesas.
 faq:
   - q: ¿Dónde se celebra exactamente Dekmantel x Potato Head?
-    a: En el escenario del Beach Club de Desa Potato Head, en Jalan Petitenget, Seminyak (Bali). Se trata de un recinto al aire libre situado justo en la playa.
-  - q: ¿Qué fecha tiene la edición de 2026?
-    a: El 25 de septiembre de 2026. Conviene confirmar horarios y entradas en la web oficial, ya que los horarios exactos de las sesiones pueden variar.
-  - q: ¿Cómo consigo las entradas?
-    a: Las entradas se venden a través de los canales oficiales de Dekmantel y Desa Potato Head, normalmente con opciones de entrada general y paquetes. Consulta la web oficial para conocer precios y disponibilidad actualizados.
+    a: 'En el escenario Beach Club de Desa Potato Head, en Jalan Petitenget, Seminyak, Bali: una sede al aire libre situada justo en la playa.'
+  - q: ¿Qué fecha tenía el evento de 2026?
+    a: El 25 de septiembre de 2026. Los horarios de las actuaciones en este tipo de eventos suelen ajustarse el mismo día, y el programa se había diseñado en torno al atardecer y las horas posteriores.
+  - q: ¿Cómo se conseguían las entradas?
+    a: Las entradas se vendían a través de los canales de Dekmantel y de Desa Potato Head, normalmente con opciones de entrada general y paquetes combinados, con precios que varían de un año a otro.
   - q: ¿Cómo se llega a la sede desde el aeropuerto?
     a: El trayecto en coche desde el Aeropuerto Internacional Ngurah Rai dura entre 20 y 30 minutos, según el tráfico. Grab, Gojek o un conductor privado son las opciones más sencillas.
-  - q: ¿Dónde conviene alojarse cerca?
-    a: Seminyak deja la sede a distancia caminable. Canggu, a unos 15-20 minutos, ofrece opciones más económicas si no te importa un trayecto corto.
+  - q: ¿Dónde alojarse cerca?
+    a: Seminyak deja la sede a una distancia que se puede recorrer a pie. Canggu, a unos 15-20 minutos, ofrece opciones más económicas si no importa un trayecto corto.
 ---
 
-## Por qué importa Dekmantel x Potato Head
+## Por qué importaba Dekmantel x Potato Head
 
-Dekmantel no es de esos festivales que aterrizan en una ciudad para montar una fiesta satélite sin más. El festival y sello discográfico de Ámsterdam lleva más de una década curando algunos de los carteles de música electrónica underground más respetados del mundo, y su colaboración continuada con Desa Potato Head se ha convertido en una de las citas de música de baile más destacadas del calendario balinés.
+Dekmantel no se limita a aterrizar en una ciudad y montar una fiesta satélite cualquiera. El festival y sello discográfico de Ámsterdam lleva más de una década construyendo algunos de los line-ups de música electrónica underground más respetados del mundo, y su colaboración continuada con Desa Potato Head se había convertido en una de las citas más destacadas del calendario dance de Bali.
 
-Desa Potato Head se encuentra justo en la playa de Petitenget, en Seminyak: un extenso complejo creativo con piscinas, una tienda de discos, instalaciones artísticas y el escenario al aire libre del Beach Club, donde el sonido se funde con el oleaje. Es el tipo de lugar donde un minuto estás bailando descalzo en la arena y al siguiente apoyado en una barra hecha de madera de deriva.
+Desa Potato Head se encuentra justo en la playa de Petitenget, en Seminyak: un complejo creativo de gran tamaño con piscinas, una tienda de discos, instalaciones artísticas y el escenario al aire libre Beach Club, donde el sonido se mezcla directamente con el del mar. Es el tipo de lugar donde en un momento se baila descalzo sobre la arena y al siguiente se apoya uno en una barra hecha de madera de deriva.
 
 ## Qué esperar el día del evento
 
-La fórmula de Dekmantel es la de siempre: house y techno profundos, cuidadosamente seleccionados, con poco artificio y mucho groove. Las sesiones suelen arrancar durante la hora dorada y prolongarse hasta bien entrada la noche, mientras el público pasa de las tumbonas de la playa a una pista abarrotada a medida que el sol se pone tras el océano Índico.
+La edición de 2026 estaba prevista para el 25 de septiembre en el escenario Beach Club. Los organizadores la habían construido sobre la fórmula característica de Dekmantel: house y techno profundos, cuidadosamente secuenciados, con mínimo espectáculo y máximo groove.
 
-Las fechas exactas de la edición de 2026 aún no están cerradas en este texto. Conviene confirmar horarios y entradas en la web oficial, ya que solo allí figuran con precisión los horarios exactos de las sesiones y cualquier cambio de última hora en el cartel o el escenario.
+En este tipo de eventos, los sets suelen extenderse desde la hora dorada hasta bien entrada la noche, con un público que pasa de las tumbonas de la playa a una pista abarrotada a medida que el sol se pone tras el océano Índico. Los horarios exactos de las actuaciones suelen confirmarse tarde, y el orden en el escenario puede variar hasta una hora en cualquier sentido.
 
 ## Cómo llegar a Desa Potato Head
 
 Desa Potato Head está en Seminyak, en Jalan Petitenget, a unos 20-30 minutos en coche del Aeropuerto Internacional Ngurah Rai, según el tráfico. La mayoría de los visitantes llega de alguna de estas formas:
 
 - En aplicaciones de transporte como Grab o Gojek, la opción más sencilla para quienes viajan solos o en pareja
-- Con conductor privado o traslado del hotel, habitual si te alojas más lejos, en Canggu o Ubud
-- En scooter, si te manejas bien con el tráfico balinés y ya cuentas con carné internacional
+- Con conductor privado o traslado del hotel, algo habitual para quienes se alojan más lejos, en Canggu o Ubud
+- En moto, si se está cómodo con el tráfico balinés y ya se cuenta con carné internacional
 
-El tráfico en las carreteras de Petitenget y Kerobokan se complica a última hora de la tarde y por la noche, así que conviene calcular tiempo de sobra si se llega justo a la apertura de puertas.
+El tráfico por las carreteras de Petitenget y Kerobokan se vuelve denso a última hora de la tarde y por la noche, y los trayectos calculados para llegar justo a la apertura de puertas suelen tardar bastante más de lo que indica el mapa.
 
 ## Entradas y dónde alojarse
 
-Históricamente, las entradas de Dekmantel x Potato Head se han dividido en entrada general y paquetes de acceso que incluyen las piscinas o las zonas de camas balinesas de Potato Head. Conviene confirmar horarios y entradas en la web oficial, ya que los precios, las fechas de salida a la venta y los posibles paquetes con el resort se gestionan ahí y cambian cada año.
+Históricamente, las entradas para Dekmantel x Potato Head se habían dividido en categorías de acceso general y paquetes que incluían las piscinas o las zonas de camas balinesas de Potato Head. Para la edición de 2026, las entradas se vendían a través de los canales de Dekmantel y de Desa Potato Head, con precios, ventanas de lanzamiento y paquetes de resort que cambian de un año a otro.
 
-En cuanto al alojamiento, Seminyak deja la sede a distancia caminable, mientras que Canggu (a 15-20 minutos) ofrece una oferta más amplia de guesthouses y villas económicas. Ubud resulta un trayecto más largo, de casi una hora en coche, aunque muy pintoresco, por lo que conviene más a quienes alargan el viaje que a quienes priorizan una salida rápida tras el concierto.
+En cuanto al alojamiento, Seminyak deja la sede a una distancia que se puede recorrer a pie, mientras que Canggu (a 15-20 minutos) ofrece una oferta más amplia de guesthouses y villas económicas. Ubud resulta una opción más pintoresca pero también más alejada, a casi una hora en coche, por lo que conviene más a quienes prolongan el viaje que a quienes buscan una salida rápida después del show.
 
 ## Cómo visitarlo como un local
 
-Para el público balinés de música electrónica, estos eventos son tanto un encuentro social como una rave, y el ritmo del evento lo refleja.
+Para el público de música electrónica de Bali, estos eventos son tanto una ocasión social como una rave propiamente dicha, y el ritmo de la noche lo refleja.
 
-- **Llega pronto, no tarde.** Los asiduos aparecen durante la franja del atardecer para hacerse con un buen sitio junto al agua antes de que las sesiones posteriores llenen el recinto.
-- **Paga con tarjeta o monedero electrónico.** Las barras y los puntos de entrada de Desa Potato Head están preparados para pagos sin efectivo, aunque llevar algunos billetes pequeños de rupias ayuda para la comida callejera o el aparcamiento de scooters fuera del recinto.
-- **Vístete pensando en la arena, no en una discoteca.** Ir descalzo o con sandalias es lo habitual; deja los tacones y los zapatos de suela dura en el hotel.
-- **La propina** no es obligatoria, pero el personal agradece que se redondee la cuenta en las barras.
-- **El error típico de los novatos** es tratarlo como una noche de discoteca urbana y llegar después de medianoche: para entonces, el aforo y el ambiente del recinto ya han tocado techo, y la energía de las primeras horas frente al mar se ha disipado.
+- **Lo temprano gana a lo tardío.** Los habituales llegan durante la franja del atardecer para hacerse con un buen sitio junto al agua antes de que se llenen los sets posteriores.
+- **Manda la tarjeta y el monedero digital.** Los bares y puntos de entrada de Desa Potato Head están preparados para pagos sin efectivo, aunque llevar algo de dinero en rupias en billetes pequeños ayuda para la comida callejera o el aparcamiento de motos fuera del recinto.
+- **Arena, no pista de club.** Lo habitual es ir descalzo o con sandalias; los tacones y el calzado de suela dura desentonan.
+- **Las propinas** no son obligatorias, pero redondear la cuenta en los bares se agradece por parte del personal.
+- **El error de principiante** es tratarlo como una noche de club urbano y presentarse pasada la medianoche, momento en el que el aforo y el ambiente del recinto ya han tocado techo y la energía frente al mar de las primeras horas se ha disipado.
 
-Si te alojas fuera de Seminyak, conviene reservar con antelación el traslado de vuelta al hotel, ya que la demanda de aplicaciones de transporte se dispara justo cuando termina la música.
+La demanda de transporte con aplicaciones se dispara justo cuando termina la música, por lo que quienes se alojan fuera de Seminyak suelen organizar con antelación un conductor de regreso al hotel.
 
-## Lugares cercanos para completar el viaje
+## Lugares cercanos para sumar al viaje
 
-Ya que se está en este tramo de la costa, merece la pena aprovechar los días antes o después del evento.
+Este tramo de costa merece unos días extra antes o después de la fecha del evento.
 
-- **La propia playa de Petitenget**, justo a las puertas del recinto, para un baño más tranquilo durante el día
-- **La zona de restaurantes de Seminyak**, en Jalan Kayu Aya, para cenar antes del espectáculo
-- **El templo de Tanah Lot**, a unos 30-40 minutos al norte, como excursión de medio día si se dispone de algún día extra
+- **La propia playa de Petitenget**, justo a la salida de la sede, para un baño más tranquilo durante el día
+- **La zona de restaurantes de Seminyak**, a lo largo de Jalan Kayu Aya, para cenar antes del show
+- **El templo de Tanah Lot**, a unos 30-40 minutos al norte, como excursión de medio día
 
-Desa Potato Head organiza además un calendario más amplio de eventos de música y arte a lo largo del año, más allá de esta fecha concreta, por lo que conviene revisar su cartelera oficial si se está planeando un itinerario balinés más largo centrado en la vida nocturna.
+Desa Potato Head mantiene un calendario más amplio de eventos de música y arte más allá de esta fecha concreta, lo que lo convierte en un buen punto de anclaje para un itinerario más largo por Bali centrado en la vida nocturna.

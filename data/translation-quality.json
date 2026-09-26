@@ -5166,11 +5166,11 @@
   "at": "2026-08-15T06:40:25.488Z"
  },
  "es/new-york-strand-bookstore": {
-  "hash": "229fd6fc793c",
+  "hash": "3f8a5a6c52d3",
   "score": 1,
   "registerBreak": false,
-  "worst": "sin excepciones de apertura anticipada o cierre tardío de las que preocuparse",
-  "at": "2026-08-15T03:30:41.967Z"
+  "worst": "Pide al personal una recomendación de \"staff pick\"; las fichas escritas a mano...",
+  "at": "2026-09-26T07:59:39.815Z"
  },
  "es/new-york-the-channel-gardens": {
   "hash": "bce57f52c0dc",
@@ -15581,13 +15581,6 @@
   "worst": "이런 대형 시설은 숙박객용 입구와 다이닝 손님용 입구가 따로 있는 경우가 많으니, 기사님이나 호텔 측에 정확한 입구를 미리 확인해두는 것이 좋습니다.",
   "at": "2026-09-21T03:36:43.038Z"
  },
- "ko/bali-dekmantel-x-potato-head": {
-  "hash": "54e64c036632",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "덱맨틀은 아무 도시에나 불쑥 들어가 \"새틀라이트 파티\"라는 이름만 붙이는 브랜드가 아닙니다.",
-  "at": "2026-09-14T14:15:19.600Z"
- },
  "ko/bali-livingstone": {
   "hash": "cac879c1c986",
   "score": 1,
@@ -21818,13 +21811,6 @@
   "worst": "이름 있는 운영진이 배후에 있는 다른 화제의 싱가포르 신규 오픈 매장들과 비슷한 흐름을 탄다면",
   "at": "2026-08-16T11:02:27.911Z"
  },
- "ko/singapore-the-weeknd-after-hours-til-dawn-hurry-up-tomorrow-tour": {
-  "hash": "f865ef3b187e",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "이러한 분위기는 무대 연출에도 그대로 반영될 것으로 보입니다.",
-  "at": "2026-08-15T06:20:16.741Z"
- },
  "ko/sokcho-manseok-dakgangjeong-deep-fried-and-braised-chicken": {
   "hash": "d6e1934a7580",
   "score": 1,
@@ -27412,11 +27398,11 @@
   "at": "2026-08-15T04:07:29.248Z"
  },
  "zh/new-york-strand-bookstore": {
-  "hash": "60f86c63fe67",
+  "hash": "e3f2548c7b03",
   "score": 1,
   "registerBreak": false,
-  "worst": "还没看到远处的墙壁,你先闻到了那股味道:旧装订本干燥、纸质的霉味混合着新鲜油墨的气息。",
-  "at": "2026-08-15T04:07:31.091Z"
+  "worst": "还没看到最里面的那面墙，你就先闻到了那股味道：旧装帧特有的干燥纸香混着新墨水的气息。",
+  "at": "2026-09-26T07:59:45.775Z"
  },
  "zh/new-york-tcs-new-york-city-marathon": {
   "hash": "86e5bda64889",
@@ -27426,11 +27412,11 @@
   "at": "2026-09-17T12:38:57.127Z"
  },
  "zh/new-york-the-channel-gardens": {
-  "hash": "3bd61e67a30e",
+  "hash": "145ff38eb59e",
   "score": 1,
   "registerBreak": false,
-  "worst": "从乘坐E线或M线可到达的Fifth Avenue/53rd St站步行过来也只需五分钟",
-  "at": "2026-08-15T10:51:57.839Z"
+  "worst": "六个浅浅的水池像水做的台阶一样层层跌落，通向广场",
+  "at": "2026-09-26T07:59:58.520Z"
  },
  "zh/new-york-the-metropolitan-museum-of-art": {
   "hash": "f7b1f8de537c",
@@ -30028,5 +30014,68 @@
   "registerBreak": false,
   "worst": "了解这里曾是填海而成的港口用地之后，这座广场就更容易理解了。",
   "at": "2026-09-25T12:53:37.037Z"
+ },
+ "ja/jumeirah-souk-madinat-jumeirah": {
+  "hash": "682842b22285",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "訪れる前に、ここがどういう場所なのかを理解しておきましょう。",
+  "at": "2026-09-26T07:59:41.444Z"
+ },
+ "zh/boston-faneuil-hall-marketplace": {
+  "hash": "c016ff8cbfce",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "在这里，时间选得对不对比市中心几乎任何地方都更重要。",
+  "at": "2026-09-26T07:59:43.148Z"
+ },
+ "es/bologna-mercato-delle-erbe": {
+  "hash": "3c48172d5aa6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "así que conviene organizar la visita en función de eso.",
+  "at": "2026-09-26T08:00:03.687Z"
+ },
+ "es/fethiye-fethiye-market": {
+  "hash": "95af7c2cbc6a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Vale la pena incluir en la lista, en cualquier tienda turca:",
+  "at": "2026-09-26T08:00:05.362Z"
+ },
+ "ja/bologna-mercato-delle-erbe": {
+  "hash": "471a691da723",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "決して知る人ぞ知る穴場ではありません。この市場は市内でも屈指のレビュー数を誇る食のスポットで、評価も安定して高い場所です。",
+  "at": "2026-09-26T08:00:07.864Z"
+ },
+ "ja/fethiye-fethiye-market": {
+  "hash": "47259d3cd660",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "つまり、この二つは別々のお出かけとして計画するのがよいでしょう。",
+  "at": "2026-09-26T08:00:13.976Z"
+ },
+ "ko/bologna-mercato-delle-erbe": {
+  "hash": "1c503c9a6244",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "관광객도 많이 찾지만 본래는 현지인들이 실제로 장을 보는 시장이라는 점을 염두에 두고, 방문 시간을 잘 계획하시는 것이 좋습니다.",
+  "at": "2026-09-26T08:00:16.224Z"
+ },
+ "ko/fethiye-fethiye-market": {
+  "hash": "221b31a901c0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "카드 결제, 비접촉 결제를 포함해 터키 상점에서는 널리 사용됩니다.",
+  "at": "2026-09-26T08:00:18.173Z"
+ },
+ "ko/florence-loggia-del-mercato-nuovo": {
+  "hash": "eb87dae545a8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "로지아는 산책길 중 한 지점으로 들르기에 좋은 곳이고, 주변 거리들이 그런 산책을 쉽게 만들어 줍니다.",
+  "at": "2026-09-26T08:00:26.037Z"
  }
 }

@@ -3044,6 +3044,12 @@
   "reason": "publish gate: Park scene with trees, benches, matches Giardini Margherita",
   "at": "2026-09-16T07:46:49.216Z"
  },
+ "bologna-mercato-delle-erbe\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mercato_delle_erbe_1.JPG/3840px-Mercato_delle_erbe_1.JPG": {
+  "slug": "bologna-mercato-delle-erbe",
+  "verdict": "MATCH",
+  "reason": "publish gate: Storefront entrance clearly showing venue name and interior",
+  "at": "2026-09-26T07:46:02.078Z"
+ },
  "bologna-museo-per-la-memoria-di-ustica\u0001https://fastly.4sqi.net/img/general/original/26086739_9Rf_WIr3VGdU55oQ77J5ju5QmKCjt9uDPifvDrQwOHk.jpg": {
   "slug": "bologna-museo-per-la-memoria-di-ustica",
   "verdict": "MATCH",
@@ -5521,6 +5527,12 @@
   "reasonKo": "고대 유적, 석조 건축물, 페티예 배경",
   "at": "2026-08-11T14:03:16.980Z"
  },
+ "fethiye-fethiye-market\u0001https://upload.wikimedia.org/wikipedia/commons/f/fb/Melons_-_Fethiye_Market.jpg": {
+  "slug": "fethiye-fethiye-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Produce close-up plausible for market, but lacks context",
+  "at": "2026-09-26T07:45:16.277Z"
+ },
  "fethiye-gemiler-island\u0001https://fastly.4sqi.net/img/general/original/23523627_aYukAmfk8sKDWgKa5To8s3Z45kjui4U7HAyKDk58dA0.jpg": {
   "slug": "fethiye-gemiler-island",
   "verdict": "MATCH",
@@ -5578,6 +5590,12 @@
   "reason": "Classical busts displayed on shelves, museum interior",
   "reasonKo": "박물관 내부, 고전 흉상 전시",
   "at": "2026-08-05T14:59:42.428Z"
+ },
+ "florence-loggia-del-mercato-nuovo\u0001https://upload.wikimedia.org/wikipedia/commons/8/8f/Firenze-mercato.jpg": {
+  "slug": "florence-loggia-del-mercato-nuovo",
+  "verdict": "MATCH",
+  "reason": "publish gate: Recognisable exterior of the loggia with market stalls",
+  "at": "2026-09-26T07:50:44.701Z"
  },
  "florence-palazzo-vecchio\u0001https://fastly.4sqi.net/img/general/original/1400671761_eH1r_JGC4OEIcbpvuWvuvtDylPxPIndUMZlUicvxvZc.jpg": {
   "slug": "florence-palazzo-vecchio",
@@ -5989,6 +6007,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Chin Swee Caves Temple entrance and building, representative view",
   "at": "2026-08-20T08:11:02.761Z"
+ },
+ "genting-highlands-genting-highlands-premium-outlets\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Genting_Highlands_Premium_Outlets_%28230918%29_13.jpg/3840px-Genting_Highlands_Premium_Outlets_%28230918%29_13.jpg": {
+  "slug": "genting-highlands-genting-highlands-premium-outlets",
+  "verdict": "MATCH",
+  "reason": "publish gate: Outdoor outlet mall walkway with shop signs, plausible venue",
+  "at": "2026-09-26T07:44:27.486Z"
  },
  "genting-highlands-genting-skyworlds-theme-park\u0001https://upload.wikimedia.org/wikipedia/commons/1/15/Genting_Skyworld_Theme_Park%27s_Main_Entrance.jpg": {
   "slug": "genting-highlands-genting-skyworlds-theme-park",
@@ -7536,6 +7560,12 @@
   "reason": "publish gate: Entrance gate with theme park signage, representative hero shot",
   "at": "2026-09-15T07:54:56.496Z"
  },
+ "hua-hin-hua-hin-night-market\u0001https://upload.wikimedia.org/wikipedia/commons/9/97/Hua_Hin_Night_Market_01.jpg": {
+  "slug": "hua-hin-hua-hin-night-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Street market scene with stalls, Thai signage, night market vibe",
+  "at": "2026-09-26T07:37:52.610Z"
+ },
  "hua-hin-khao-hin-lek-fai\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Khao_Hin_Lek_Fai_1.jpg/3840px-Khao_Hin_Lek_Fai_1.jpg": {
   "slug": "hua-hin-khao-hin-lek-fai",
   "verdict": "MATCH",
@@ -7785,6 +7815,12 @@
   "reason": "metadata veto: Commons names Iloilo (vision said: Fossil skeleton display, not Iloilo museum)",
   "reasonKo": null,
   "at": "2026-08-19T13:28:54.601Z"
+ },
+ "iloilo-oton-public-market\u0001https://upload.wikimedia.org/wikipedia/commons/5/5b/Oton_Public_Market%2C_Iloilo%2C_Sep_2026.jpg": {
+  "slug": "iloilo-oton-public-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear exterior facade with market name signage",
+  "at": "2026-09-26T07:42:07.615Z"
  },
  "incheon-chinatown\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Chinatown%2C_incheon_20230430_002.jpg/1920px-Chinatown%2C_incheon_20230430_002.jpg": {
   "slug": "incheon-chinatown",
@@ -9783,6 +9819,12 @@
   "reason": "publish gate: Shows park entrance sign, pathway, and grounds",
   "at": "2026-09-13T07:46:31.829Z"
  },
+ "koh-chang-bang-bao-pier\u0001https://upload.wikimedia.org/wikipedia/commons/f/f8/Houses_at_Bang_Bao_Pier%2C_Koh_Chang.jpg": {
+  "slug": "koh-chang-bang-bao-pier",
+  "verdict": "MATCH",
+  "reason": "publish gate: Overwater stilt village pier, representative of Bang Bao",
+  "at": "2026-09-26T07:53:14.200Z"
+ },
  "koh-chang-kai-bae-beach\u0001https://upload.wikimedia.org/wikipedia/commons/5/58/Kai_Bae_Beach%2C_%D0%9A%D0%BE_%D0%A7%D0%B0%D0%BD%D0%B3.jpg": {
   "slug": "koh-chang-kai-bae-beach",
   "verdict": "MATCH",
@@ -9985,6 +10027,12 @@
   "reason": "Indian Museum courtyard with characteristic colonial archite",
   "reasonKo": "인도 박물관의 전형적인 식민지 건축",
   "at": "2026-08-16T13:14:58.060Z"
+ },
+ "kolkata-new-market-kolkata\u0001https://upload.wikimedia.org/wikipedia/commons/3/37/New_Market%2C_Kolkata%2C_2011.jpg": {
+  "slug": "kolkata-new-market-kolkata",
+  "verdict": "MATCH",
+  "reason": "publish gate: Recognizable New Market exterior with clock tower and signage",
+  "at": "2026-09-26T07:49:10.258Z"
  },
  "kolkata-victoria-memorial\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Victoria_Memorial_situated_in_Kolkata.jpg/1920px-Victoria_Memorial_situated_in_Kolkata.jpg": {
   "slug": "kolkata-victoria-memorial",
@@ -11873,6 +11921,12 @@
   "reason": "publish gate: Garden with fountain and building matches this Malaga attraction",
   "at": "2026-09-14T07:45:56.095Z"
  },
+ "malaga-mercado-de-salamanca\u0001https://upload.wikimedia.org/wikipedia/commons/8/87/Mercado_de_Salamanca.jpg": {
+  "slug": "malaga-mercado-de-salamanca",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior facade of Mercado de Salamanca, recognizable entrance archway",
+  "at": "2026-09-26T07:40:42.740Z"
+ },
  "malaga-museo-carmen-thyssen-malaga\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Eugenio_Lucas_Villaam_-_Two_paintings_in_Museo_Carmen_Thyssen_M%C3%A1laga.jpg/3840px-Eugenio_Lucas_Villaam_-_Two_paintings_in_Museo_Carmen_Thyssen_M%C3%A1laga.jpg": {
   "slug": "malaga-museo-carmen-thyssen-malaga",
   "verdict": "MATCH",
@@ -13186,6 +13240,12 @@
   "reason": "Iconic India Gate monument, New Delhi setting",
   "reasonKo": "뉴델리 인디아 게이트 기념물",
   "at": "2026-08-04T12:22:58.725Z"
+ },
+ "new-delhi-janpath-market\u0001https://upload.wikimedia.org/wikipedia/commons/6/6c/India_2007_Delhi_bracelets_janpath_market_%282129389201%29.jpg": {
+  "slug": "new-delhi-janpath-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Colorful jewelry market stall, plausible for Janpath Market",
+  "at": "2026-09-26T07:51:48.291Z"
  },
  "new-delhi-lodhi-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/PXL_20231130_055916240_Sikandar_Lodhi_Tomb_Lodhi_Gardens%2C_Lodhi_Estate%2C_New_Delhi%2C_Delhi_110003_04.jpg/3840px-PXL_20231130_055916240_Sikandar_Lodhi_Tomb_Lodhi_Gardens%2C_Lodhi_Estate%2C_New_Delhi%2C_Delhi_110003_04.jpg": {
   "slug": "new-delhi-lodhi-garden",
@@ -15411,6 +15471,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Interior view of Baptistery altar and statue, representative",
   "at": "2026-09-16T07:38:10.623Z"
+ },
+ "pisa-logge-dei-banchi\u0001https://upload.wikimedia.org/wikipedia/commons/d/d4/Logge_di_Banchi_di_Pisa_al_crepuscolo.jpg": {
+  "slug": "pisa-logge-dei-banchi",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Logge dei Banchi facade at night, representative view",
+  "at": "2026-09-26T07:43:08.175Z"
  },
  "pisa-natural-history-museum-of-the-university-of-pisa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Galleria-primati-museo-storia-naturale-pisa.jpg/1920px-Galleria-primati-museo-storia-naturale-pisa.jpg": {
   "slug": "pisa-natural-history-museum-of-the-university-of-pisa",
@@ -18441,6 +18507,12 @@
   "reason": "publish gate: Granite peaks match Seoraksan's iconic rocky landscape",
   "at": "2026-09-10T07:50:26.615Z"
  },
+ "stanley-stanley-main-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Stanley_Main_Street_Eastern_End.jpg/3840px-Stanley_Main_Street_Eastern_End.jpg": {
+  "slug": "stanley-stanley-main-street",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Stanley Main Street sign, storefronts, and pedestrians",
+  "at": "2026-09-26T07:39:00.679Z"
+ },
  "stanley-stanley-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Stanley_Market_View1_201007.jpg/1920px-Stanley_Market_View1_201007.jpg": {
   "slug": "stanley-stanley-market",
   "verdict": "MATCH",
@@ -18571,6 +18643,12 @@
   "reason": "Entrance gate of Formosan Aboriginal Culture Village",
   "reasonKo": "포모산 원주민 문화촌 입구 게이트",
   "at": "2026-08-19T13:29:52.862Z"
+ },
+ "sun-moon-lake-shuishe-pier\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sun-Moon-Lake-Taiwan.jpg/1920px-Sun-Moon-Lake-Taiwan.jpg": {
+  "slug": "sun-moon-lake-shuishe-pier",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows pier docks with boats at Sun Moon Lake",
+  "at": "2026-09-26T07:48:02.892Z"
  },
  "sun-moon-lake-year-of-steps-at-wenwu-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Year_of_Steps_at_Wenwu_Temple.jpg/3840px-Year_of_Steps_at_Wenwu_Temple.jpg": {
   "slug": "sun-moon-lake-year-of-steps-at-wenwu-temple",
