@@ -1,66 +1,66 @@
 ---
-title: "Bajra Sandhi Monument: Bali Travel Guide (4.6★)"
-description: "Bajra Sandhi Monument sits in the middle of Renon, a government district in Denpasar Selatan, inside a wide public park that locals use for jogging and kite-flying. 4.6★ (15,840 reviews) — what visitors say, hours, and tips."
-country: "Indonesia"
-region: "Bali"
-category: "hidden-gem"
-pubDate: "2026-09-21T07:43:50.248Z"
+title: 'Bajra Sandhi Monument: Bali Travel Guide (4.6★)'
+description: Bajra Sandhi Monument sits in the middle of Renon, a government district in Denpasar Selatan, inside a wide public park that locals use for jogging and kite-flying. 4.6★ (15,840 reviews) — what visitors say, hours, and tips.
+country: Indonesia
+region: Bali
+category: hidden-gem
+pubDate: '2026-09-21T07:43:50.248Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/f/f8/Aerial_view_of_Bajra_Sandhi_Monument_Denpasar_Bali_Indonesia.jpg"
-  credit: "Photo: trezy humanoiz from Denpasar, indonesia / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Bajra_Sandhi_Monument_Denpasar_Bali_Indonesia.jpg"
+  url: https://fastly.4sqi.net/img/general/original/785019_7U6MEKJeCBfRkkpl8OINbs2cUAlcYSWCdAeWZ9-Rhhw.jpg
+  credit: 'Photo: Foursquare user content (Monumen Bajra Sandhi)'
+  license: foursquare
+  source: https://foursquare.com/v/4bbefef430c99c744d7b5411
   focus:
-    x: 43
-    y: 35
+    x: 50
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/009_View_West_from_the_Platform%2C_Bajra_Sandhi_Monument%2C_Denpasar_City%2C_Bali%2C_photograph_by_Anandajoti_Bhikkhu.jpg/3840px-009_View_West_from_the_Platform%2C_Bajra_Sandhi_Monument%2C_Denpasar_City%2C_Bali%2C_photograph_by_Anandajoti_Bhikkhu.jpg"
-    credit: "Photo: Anandajoti / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:009_View_West_from_the_Platform,_Bajra_Sandhi_Monument,_Denpasar_City,_Bali,_photograph_by_Anandajoti_Bhikkhu.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/009_View_West_from_the_Platform%2C_Bajra_Sandhi_Monument%2C_Denpasar_City%2C_Bali%2C_photograph_by_Anandajoti_Bhikkhu.jpg/3840px-009_View_West_from_the_Platform%2C_Bajra_Sandhi_Monument%2C_Denpasar_City%2C_Bali%2C_photograph_by_Anandajoti_Bhikkhu.jpg
+    credit: 'Photo: Anandajoti / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:009_View_West_from_the_Platform,_Bajra_Sandhi_Monument,_Denpasar_City,_Bali,_photograph_by_Anandajoti_Bhikkhu.jpg
 place:
-  id: "ChIJL626sPVA0i0RLJoATqtQcfY"
-  name: "Bajra Sandhi Monument"
-  address: "Jl. Raya Puputan No.142, Renon, Denpasar Selatan, Kota Denpasar, Bali 80234, Indonesia"
+  id: ChIJL626sPVA0i0RLJoATqtQcfY
+  name: Bajra Sandhi Monument
+  address: Jl. Raya Puputan No.142, Renon, Denpasar Selatan, Kota Denpasar, Bali 80234, Indonesia
   rating: 4.6
   userRatingsTotal: 15840
-  googleMapsUrl: "https://maps.google.com/?cid=17758063502376868396&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=17758063502376868396&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -8.6717817
   lng: 115.23389619999999
-  phone: "+62 361 264517"
+  phone: +62 361 264517
   openingHours:
-    - "Monday: 8:00 AM – 5:00 PM"
-    - "Tuesday: 8:00 AM – 5:00 PM"
-    - "Wednesday: 8:00 AM – 5:00 PM"
-    - "Thursday: 8:00 AM – 5:00 PM"
-    - "Friday: 8:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: 8:00 AM – 5:00 PM'
+    - 'Tuesday: 8:00 AM – 5:00 PM'
+    - 'Wednesday: 8:00 AM – 5:00 PM'
+    - 'Thursday: 8:00 AM – 5:00 PM'
+    - 'Friday: 8:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-09-21
+    updated: 2026-09-21T00:00:00.000Z
     weekendQuiet:
       - 12
       - 13
       - 14
     weekendBusy:
       - 10
-    venueId: "ven_59666351747154416f4a4c52306930415650733632364c4a496843"
+    venueId: ven_59666351747154416f4a4c52306930415650733632364c4a496843
 tags:
-  - "bali"
-  - "old quarter"
-quickAnswer: "Bajra Sandhi Monument sits in the middle of Renon, a government district in Denpasar Selatan, inside a wide public park that locals use for jogging and kite-flying. It's popular rather than obscure, so if you're going on a weekend, aim for 12pm–3pm to skip the crowd that builds up around 10am–11am. Budget an hour for the diorama halls inside plus a lap of the surrounding lawn."
+  - bali
+  - old quarter
+quickAnswer: Bajra Sandhi Monument sits in the middle of Renon, a government district in Denpasar Selatan, inside a wide public park that locals use for jogging and kite-flying. It's popular rather than obscure, so if you're going on a weekend, aim for 12pm–3pm to skip the crowd that builds up around 10am–11am. Budget an hour for the diorama halls inside plus a lap of the surrounding lawn.
 faq:
-  - q: "Where exactly is Bajra Sandhi Monument located?"
-    a: "It's at Jl. Raya Puputan No.142, in Renon, Denpasar Selatan, a government district in southern Denpasar, Bali. It stands in the middle of Lapangan Puputan Margarana, the large public square."
-  - q: "What are the opening hours?"
-    a: "8am to 5pm Monday through Friday, 9am to 5pm on Saturday, and a later 10am to 5pm start on Sunday. Plan around the later Sunday opening if that's your visit day."
-  - q: "When is the quietest time to visit on weekends?"
-    a: "Crowd patterns show the busiest weekend window is 10am–11am, so aim to arrive between 12pm and 3pm instead, once the late-morning rush has thinned out."
-  - q: "How long should I plan for the visit?"
-    a: "An hour is enough for most people: about 30-40 minutes to walk the full diorama gallery inside and read the captions, plus a short climb to the balcony and a walk around the surrounding park."
-  - q: "Is Bajra Sandhi Monument worth visiting if I'm staying in Kuta or Seminyak?"
-    a: "It's roughly 30-40 minutes away depending on traffic, so it works best paired with another stop in Denpasar rather than as a standalone trip from the beach areas."
+  - q: Where exactly is Bajra Sandhi Monument located?
+    a: It's at Jl. Raya Puputan No.142, in Renon, Denpasar Selatan, a government district in southern Denpasar, Bali. It stands in the middle of Lapangan Puputan Margarana, the large public square.
+  - q: What are the opening hours?
+    a: 8am to 5pm Monday through Friday, 9am to 5pm on Saturday, and a later 10am to 5pm start on Sunday. Plan around the later Sunday opening if that's your visit day.
+  - q: When is the quietest time to visit on weekends?
+    a: Crowd patterns show the busiest weekend window is 10am–11am, so aim to arrive between 12pm and 3pm instead, once the late-morning rush has thinned out.
+  - q: How long should I plan for the visit?
+    a: 'An hour is enough for most people: about 30-40 minutes to walk the full diorama gallery inside and read the captions, plus a short climb to the balcony and a walk around the surrounding park.'
+  - q: Is Bajra Sandhi Monument worth visiting if I'm staying in Kuta or Seminyak?
+    a: It's roughly 30-40 minutes away depending on traffic, so it works best paired with another stop in Denpasar rather than as a standalone trip from the beach areas.
 aiGenerated: true
 draft: false
 ---

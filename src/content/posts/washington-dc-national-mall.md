@@ -6,13 +6,13 @@ region: Washington DC
 category: attraction
 pubDate: 2026-07-21T00:00:00.000Z
 heroImage:
-  url: https://live.staticflickr.com/1430/1436584126_edd64be9db_b.jpg
-  credit: 'Photo: wyntuition / flickr (BY-SA)'
-  license: openverse-cc
-  source: https://www.flickr.com/photos/15926096@N00/1436584126
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/National_Mall%2C_Washington%2C_D.C._%2820100325-DSC01310%29.jpg/1920px-National_Mall%2C_Washington%2C_D.C._%2820100325-DSC01310%29.jpg
+  credit: 'Photo: Matti Blume / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:National_Mall,_Washington,_D.C._(20100325-DSC01310).jpg
   focus:
-    x: 30
-    'y': 30
+    x: 55
+    'y': 45
 place:
   id: ChIJMT3_Wpu3t4kRQScGokyrCDo
   name: National Mall

@@ -562,7 +562,6 @@
   "new-orleans-french-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/French_Market%2C_New_Orleans.JPG/1920px-French_Market%2C_New_Orleans.JPG": 1920,
   "new-york-ocean-prime\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ocean_Prime_Phoenix_%2833119074285%29.jpg/1920px-Ocean_Prime_Phoenix_%2833119074285%29.jpg": 1920,
   "san-francisco-tartine-bakery\u0001https://fastly.4sqi.net/img/general/original/553514599_3sQgxFOcs6UL4_YKQvvg5zdF5Y32Ax4UgpXJAL3liQA.jpg": 1920,
-  "san-francisco-the-happy-crane\u0001https://fastly.4sqi.net/img/general/original/240315_N497EqrAslwkJwcQ4IpuOL2G_2k7u48KLWayFI-sDks.jpg": 1080,
   "taipei-urban-paradise\u0001https://fastly.4sqi.net/img/general/original/222946688_iLLZka6kkcQoy6-XEfcRDsVI0k9g7RbKYZvI9U9xkB0.jpg": 1920,
   "verona-arena-di-verona-opera-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Verona_-_Arena_di_Verona.jpeg/3840px-Verona_-_Arena_di_Verona.jpeg": 3840,
   "washington-dc-old-ebbitt-grill\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Old_Ebbitt_Grill.jpg/1920px-Old_Ebbitt_Grill.jpg": 1920,
@@ -1830,10 +1829,23 @@
   "paris-freya-skye-stars-align-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Paris_-_Eiffelturm_und_Marsfeld2.jpg/3840px-Paris_-_Eiffelturm_und_Marsfeld2.jpg": 3840,
   "paris-salon-du-chocolat-paris-chocolate-fair\u0001https://upload.wikimedia.org/wikipedia/commons/1/17/Paris_mairie_XIX.jpg": 2409,
   "phnom-penh-aia-pink-run-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Preah_Tineang_Phhochani_%2814%29.jpg/3840px-2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Preah_Tineang_Phhochani_%2814%29.jpg": 3840,
-  "phu-quoc-phu-quoc-summer-latin-festival\u0001https://upload.wikimedia.org/wikipedia/commons/e/e0/Phu_Quoc_Ridgeback.jpg": 500,
   "seoul-k-royal-culture-festival-autumn\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg/3840px-Gyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg": 3840,
   "singapore-redhill-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Redhill_Market_and_Food_Centre.jpg/3840px-Redhill_Market_and_Food_Centre.jpg": 3840,
-  "xi-an-beiyuanmen\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Beiyuanmen.jpg/3840px-Beiyuanmen.jpg": 3840
+  "xi-an-beiyuanmen\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Beiyuanmen.jpg/3840px-Beiyuanmen.jpg": 3840,
+  "bologna-mercato-delle-erbe\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mercato_delle_erbe_1.JPG/3840px-Mercato_delle_erbe_1.JPG": 3840,
+  "genting-highlands-genting-highlands-premium-outlets\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Genting_Highlands_Premium_Outlets_%28230918%29_13.jpg/3840px-Genting_Highlands_Premium_Outlets_%28230918%29_13.jpg": 3840,
+  "fethiye-fethiye-market\u0001https://upload.wikimedia.org/wikipedia/commons/f/fb/Melons_-_Fethiye_Market.jpg": 3445,
+  "florence-loggia-del-mercato-nuovo\u0001https://upload.wikimedia.org/wikipedia/commons/8/8f/Firenze-mercato.jpg": 1024,
+  "hua-hin-hua-hin-night-market\u0001https://upload.wikimedia.org/wikipedia/commons/9/97/Hua_Hin_Night_Market_01.jpg": 2048,
+  "iloilo-oton-public-market\u0001https://upload.wikimedia.org/wikipedia/commons/5/5b/Oton_Public_Market%2C_Iloilo%2C_Sep_2026.jpg": 3443,
+  "koh-chang-bang-bao-pier\u0001https://upload.wikimedia.org/wikipedia/commons/f/f8/Houses_at_Bang_Bao_Pier%2C_Koh_Chang.jpg": 2048,
+  "kolkata-new-market-kolkata\u0001https://upload.wikimedia.org/wikipedia/commons/3/37/New_Market%2C_Kolkata%2C_2011.jpg": 1600,
+  "malaga-mercado-de-salamanca\u0001https://upload.wikimedia.org/wikipedia/commons/8/87/Mercado_de_Salamanca.jpg": 2490,
+  "new-delhi-janpath-market\u0001https://upload.wikimedia.org/wikipedia/commons/6/6c/India_2007_Delhi_bracelets_janpath_market_%282129389201%29.jpg": 2592,
+  "pisa-logge-dei-banchi\u0001https://upload.wikimedia.org/wikipedia/commons/d/d4/Logge_di_Banchi_di_Pisa_al_crepuscolo.jpg": 2864,
+  "san-francisco-the-happy-crane\u0001https://fastly.4sqi.net/img/general/original/149131341_KdoED_1Rsz8PkdYXqhJdWN-82OU5XhiYcDXr07Qoz28.jpg": 1440,
+  "stanley-stanley-main-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Stanley_Main_Street_Eastern_End.jpg/3840px-Stanley_Main_Street_Eastern_End.jpg": 3840,
+  "sun-moon-lake-shuishe-pier\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sun-Moon-Lake-Taiwan.jpg/1920px-Sun-Moon-Lake-Taiwan.jpg": 1920
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -2034,8 +2046,8 @@
   },
   "mumbai-mokai": {
    "width": 906,
-   "attempts": 3,
-   "nextTry": "2026-09-26",
+   "attempts": 4,
+   "nextTry": "2026-10-03",
    "flaggedAt": "2026-09-03",
    "lastResult": "no-wider"
   },
@@ -2090,8 +2102,8 @@
   },
   "hong-kong-bigbang-xx-cosmos-world-tour": {
    "width": 800,
-   "attempts": 1,
-   "nextTry": "2026-09-26",
+   "attempts": 2,
+   "nextTry": "2026-10-03",
    "flaggedAt": "2026-09-17",
    "lastResult": "no-wider"
   },
@@ -2139,21 +2151,10 @@
   },
   "sharjah-arabian-fish-house-restaurant-cafe-al-hirah-beach-sharjah": {
    "width": 1055,
-   "attempts": 0,
-   "nextTry": "2026-09-19",
-   "flaggedAt": "2026-09-19"
-  },
-  "washington-dc-national-mall": {
-   "width": 1024,
-   "attempts": 0,
-   "nextTry": "2026-09-19",
-   "flaggedAt": "2026-09-19"
-  },
-  "bali-bajra-sandhi-monument": {
-   "width": 1141,
-   "attempts": 0,
-   "nextTry": "2026-09-21",
-   "flaggedAt": "2026-09-21"
+   "attempts": 1,
+   "nextTry": "2026-10-03",
+   "flaggedAt": "2026-09-19",
+   "lastResult": "no-wider"
   },
   "istanbul-bosphorus-view-point": {
    "width": 875,
@@ -2238,7 +2239,13 @@
    "attempts": 0,
    "nextTry": "2026-09-25",
    "flaggedAt": "2026-09-25"
+  },
+  "florence-loggia-del-mercato-nuovo": {
+   "width": 1024,
+   "attempts": 0,
+   "nextTry": "2026-09-26",
+   "flaggedAt": "2026-09-26"
   }
  },
- "updated": "2026-09-25T22:43:22.008Z"
+ "updated": "2026-09-26T22:10:21.518Z"
 }

@@ -1186,6 +1186,12 @@
   "reason": "publish gate: Shows Badung Market building with canal, plausible venue exterior",
   "at": "2026-09-21T07:42:31.515Z"
  },
+ "bali-bajra-sandhi-monument\u0001https://fastly.4sqi.net/img/general/original/785019_7U6MEKJeCBfRkkpl8OINbs2cUAlcYSWCdAeWZ9-Rhhw.jpg": {
+  "slug": "bali-bajra-sandhi-monument",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Representative view of Bajra Sandhi Monument tower and grounds",
+  "at": "2026-09-26T22:10:21.509Z"
+ },
  "bali-bajra-sandhi-monument\u0001https://upload.wikimedia.org/wikipedia/commons/f/f8/Aerial_view_of_Bajra_Sandhi_Monument_Denpasar_Bali_Indonesia.jpg": {
   "slug": "bali-bajra-sandhi-monument",
   "verdict": "MATCH",
@@ -10970,8 +10976,8 @@
  "little-india-former-house-of-tan-teng-niah\u0001https://fastly.4sqi.net/img/general/original/58563680_9ZCugZu4LqvzpKjyZGIn8k1lQBv17Sjro6AqDSH0VXY.jpg": {
   "slug": "little-india-former-house-of-tan-teng-niah",
   "verdict": "MATCH",
-  "reason": "patrol replace: Colorful Chinese heritage building in Little India, Singapor",
-  "at": "2026-09-24T22:39:25.253Z"
+  "reason": "patrol replace: Colorful Chinese temple in Little India, Singapore",
+  "at": "2026-09-26T22:06:47.817Z"
  },
  "little-india-former-house-of-tan-teng-niah\u0001https://fastly.4sqi.net/img/general/original/85142592_q1URUXoOUqNSUSCT88Ylqo8e8cESiaW-6HFYVxmZTkg.jpg": {
   "slug": "little-india-former-house-of-tan-teng-niah",
@@ -12254,6 +12260,12 @@
   "verdict": "MATCH",
   "reason": "release check: Shows ancient port ruins with grass, matches Port Antique site",
   "at": "2026-08-11T04:13:17.360Z"
+ },
+ "marseille-tigermilk\u0001https://fastly.4sqi.net/img/general/original/150854961_8IF-4diha0kiPz3dOSIryaCC8ft8lf-WgLz7Ll1BOzA.jpg": {
+  "slug": "marseille-tigermilk",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Generic bar interior, no identifying Tigermilk features visi",
+  "at": "2026-09-26T22:07:29.745Z"
  },
  "medan-maha-vihara-maitreya\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Vihara_Maitreya.jpg/1920px-Vihara_Maitreya.jpg": {
   "slug": "medan-maha-vihara-maitreya",
@@ -20956,6 +20968,12 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Capitol Building visible; iconic National Mall night view",
   "at": "2026-09-19T21:41:55.917Z"
+ },
+ "washington-dc-national-mall\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/National_Mall%2C_Washington%2C_D.C._%2820100325-DSC01310%29.jpg/1920px-National_Mall%2C_Washington%2C_D.C._%2820100325-DSC01310%29.jpg": {
+  "slug": "washington-dc-national-mall",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Aerial view of National Mall with Washington Monument and Memorial",
+  "at": "2026-09-26T22:10:15.450Z"
  },
  "washington-dc-old-ebbitt-grill\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Old_Ebbitt_Grill.jpg/1920px-Old_Ebbitt_Grill.jpg": {
   "slug": "washington-dc-old-ebbitt-grill",
