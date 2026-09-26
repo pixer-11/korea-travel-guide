@@ -18,7 +18,11 @@ heroImage:
   focus:
     x: 50
     'y': 40
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Central_Market%2C_Kuala_Lumpur_02.JPG"
+    credit: "Photo: Jordiferrer / Wikimedia Commons (CC BY-SA 3.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Central_Market,_Kuala_Lumpur_02.JPG"
 place:
   id: ChIJVxLq2dFJzDERAmCinEoNs_w
   name: Central Market

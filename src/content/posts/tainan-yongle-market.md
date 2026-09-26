@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 33
     y: 25
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/392831_n6E_AvL9xZXe14LE4EbggEuagzzDPkykykrvrKCjlZU.jpg"
+    credit: "Photo: Foursquare user content (Bus Yongle Market Sta. (公車永樂市場站))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/590c123da4b51b0921737901"
 place:
   id: "ChIJV_uMsWZ2bjQRL7udKmCf8SU"
   name: "YongLe Market"

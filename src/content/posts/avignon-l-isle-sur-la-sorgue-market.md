@@ -19,7 +19,11 @@ heroImage:
   focus:
     x: 50
     'y': 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1730411_HlEdNfgolY-Hy8KLoVXCPo1BwqoyZficczYNZyQcpOo.jpg"
+    credit: "Photo: Foursquare user content (L'Isle-sur-la-Sorgue)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4c1ccc738b3aa593be62995f"
 place:
   id: ChIJ8fyXx_D1tRIRznKlk6lr5oo
   name: L'Isle-sur-la-Sorgue Market

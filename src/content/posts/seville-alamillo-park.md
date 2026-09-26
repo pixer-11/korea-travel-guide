@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 65
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/19395527_VyiopMMiUJf8NZIRbe-cFlDKjlkg-KuSY-gfI7aXZTU.jpg"
+    credit: "Photo: Foursquare user content (Parque del Alamillo)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b8a5cdcf964a520f96932e3"
 place:
   id: "ChIJ4UDsnelrEg0Rdtqcp9Viz-s"
   name: "Alamillo Park"

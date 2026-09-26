@@ -19,7 +19,11 @@ heroImage:
   focus:
     x: 55
     'y': 45
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Pagoda_Street_Chinatown_Singapore.jpg/3840px-Pagoda_Street_Chinatown_Singapore.jpg"
+    credit: "Photo: kallerna / Wikimedia Commons (CC BY-SA 4.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Pagoda_Street_Chinatown_Singapore.jpg"
 place:
   id: ChIJQ37YS3MZ2jEReqrALU2hEew
   name: Chinatown Singapore

@@ -19,7 +19,11 @@ heroImage:
   focus:
     x: 50
     'y': 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/12588308_cSRCZCcB08XoLN7ESQlLeMEC-2vn0brW0_q7tmyrb7k.jpg"
+    credit: "Photo: Foursquare user content (Jonker Walk / Street)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b62e8aff964a5206f582ae3"
 place:
   id: ChIJoRLcf9vx0TER1Pvh6N7VIco
   name: Jonker Street Night Market

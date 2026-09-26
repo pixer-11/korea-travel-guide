@@ -18,7 +18,11 @@ heroImage:
   focus:
     x: 50
     'y': 30
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/5510098_H2vBxpcI72Wc4yvfk0FCrMcV6r2frD2u8nP7hzfdmCw.jpg"
+    credit: "Photo: Foursquare user content (Chợ Đông Ba (Dong Ba Market))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4dfc513cd22d879302f4fe64"
 place:
   id: ChIJ72zuj9WhQTER79-ldHt0UeQ
   name: Dong Ba Market

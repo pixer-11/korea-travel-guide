@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/78732565_PV1bU99cvSikmD_PZ8j5qJ36vvwX8viBwAVihBxKpEY.jpg"
+    credit: "Photo: Foursquare user content (Shinjuku Golden-gai (新宿ゴールデン街))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4beac2d861aca593f61c8400"
 place:
   id: "ChIJr7mGZdmMGGARjxoMFeHApXE"
   name: "Shinjuku Golden-Gai"

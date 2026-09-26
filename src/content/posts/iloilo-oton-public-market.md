@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 25
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/27412197_euH8N-OKKYXqItI3KQMdENVW2tmD2WJTpsH5qX1K6JE.jpg"
+    credit: "Photo: Foursquare user content (Oton Public Market)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4e5b6929d4c0ba8c11b6c464"
 place:
   id: "ChIJBxRrr5vwrjMR5KWNfmSgUgM"
   name: "Oton Public Market"

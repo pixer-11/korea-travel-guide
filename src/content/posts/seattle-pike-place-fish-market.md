@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 55
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Buiobuione_Fish_market_at_Pike_Place_in_Seattle_02.jpg/3840px-Buiobuione_Fish_market_at_Pike_Place_in_Seattle_02.jpg"
+    credit: "Photo: Buiobuione / Wikimedia Commons (CC BY-SA 4.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Buiobuione_Fish_market_at_Pike_Place_in_Seattle_02.jpg"
 place:
   id: "ChIJAaWYV7JqkFQREsNb5jEo0sE"
   name: "Pike Place Fish Market"

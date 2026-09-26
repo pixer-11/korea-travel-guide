@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/21856261_UTHFtrMFmS6IlyubnXzj5OtBsDk8bRYrGyki5iyWpGs.jpg"
+    credit: "Photo: Foursquare user content (View Point Restaurant)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4f8ad544e4b0cec3ac7a90c8"
 place:
   id: "ChIJzRwV6nmhVTARnyLzshzgSsU"
   name: "View Point Resort"

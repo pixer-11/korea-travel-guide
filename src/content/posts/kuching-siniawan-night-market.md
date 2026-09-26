@@ -18,7 +18,11 @@ heroImage:
   focus:
     x: 50
     'y': 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/5300637_M69kQvSzOnhFV6yrKgEOaMNHwGZ0cULMjJkdxoMSRko.jpg"
+    credit: "Photo: Foursquare user content (Siniawan Night Market)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/50409bd7e4b0c996b23f0c3b"
 place:
   id: ChIJIUpZOJYM-zER-TSu9br6-AM
   name: Siniawan Night Market

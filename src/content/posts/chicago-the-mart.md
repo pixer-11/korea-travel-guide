@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 60
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/3015085_ZloNhyCMamFF6wl295350CqJGMgzvmBAWqomqJfBJG0.jpg"
+    credit: "Photo: Foursquare user content (The Merchandise Mart)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/49d77968f964a520275d1fe3"
 place:
   id: "ChIJbWgo47YsDogRu4biFIJq-EM"
   name: "THE MART"

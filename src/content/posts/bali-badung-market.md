@@ -18,7 +18,11 @@ heroImage:
   focus:
     x: 45
     'y': 25
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/5954201_RmO_qBa0JPQXoItOiGwAeHumO5WtscnsbIxiDBTxp3g.jpg"
+    credit: "Photo: Foursquare user content (Pasar Badung)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/525272aa498e146fd6878f4d"
 place:
   id: ChIJEcsIC6JA0i0RXn4iHsIOYMA
   name: Badung Market

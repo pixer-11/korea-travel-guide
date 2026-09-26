@@ -18,7 +18,11 @@ heroImage:
   focus:
     x: 60
     'y': 55
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1411144745_mWuc4wI75nzdW6l6arb-eEkvyzuDc1D8v-lnsWeVdK4.jpg"
+    credit: "Photo: Foursquare user content (Mercado Hippy Las Dalias)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4c5d84027735c9b647328f72"
 place:
   id: ChIJbRBUQ0kUmRIRZM0Zekzh3EY
   name: Las Dalias de Ibiza

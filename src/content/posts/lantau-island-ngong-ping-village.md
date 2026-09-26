@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 30
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/136885983_a2-mtp1Mz-JgwmARYbIzm2EtQbfGKXH53fQrWB0DIVY.jpg"
+    credit: "Photo: Foursquare user content (Ngong Ping Village (昂坪市集))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4becc1602cf820a1873cb91c"
 place:
   id: "ChIJzSBlLPRYATQRSuFu48TOLc0"
   name: "Ngong Ping Village"

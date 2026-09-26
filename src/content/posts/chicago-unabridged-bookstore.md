@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 40
     y: 60
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1356636_-ghPmUx0o3QDBsBQzexSaK-JY5ICGHI_PpJbGBYNcRw.jpg"
+    credit: "Photo: Foursquare user content (Unabridged Books)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4a9046daf964a520ff1620e3"
 place:
   id: "ChIJmR8_a6TTD4gRass8b6g4n1U"
   name: "Unabridged Bookstore"

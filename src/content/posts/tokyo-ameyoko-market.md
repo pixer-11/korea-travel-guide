@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/6619115_kT1SzHz2HhbbvtMLjBQLQLAPTCdVJssq3Qy0ADnWQhs.jpg"
+    credit: "Photo: Foursquare user content (Ameyoko market)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/69241d7d12c85c3224ac39fc"
 place:
   id: "ChIJh7eDrwCPGGARCs9fpCkKS2U"
   name: "Ameyoko market"

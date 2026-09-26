@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/199497139_o6wvPOqUB724jIflpETnQ26reR6iu2MxVaAXMyWhlsQ.jpg"
+    credit: "Photo: Foursquare user content (Eastern Market)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/445eedc7f964a520fc321fe3"
 place:
   id: "ChIJY8iLSTK4t4kRODLIp7hlw1Q"
   name: "Eastern Market"

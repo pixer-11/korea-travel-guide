@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/11923212_32cFNGsSY8_j70CRnLiN3-fRDcrkgdncrDe_2nSw0mg.jpg"
+    credit: "Photo: Foursquare user content (Pasar ampel)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4c8c12a78018a1cd9462e9d2"
 place:
   id: "ChIJW1DwTBn51y0RPPjw515YFDU"
   name: "Pasar Ampel"

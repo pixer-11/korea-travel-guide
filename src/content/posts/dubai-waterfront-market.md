@@ -17,7 +17,11 @@ heroImage:
   focus:
     x: 50
     'y': 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/7144400_BNKBhiXDTxF27Emo52mfZxhb2eAL4KAypHi-ULbKEaI.jpg"
+    credit: "Photo: Foursquare user content (Waterfront Market)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/59438ce5bd400978c6f8af42"
 place:
   id: ChIJxZJBUlhbXz4Rjjx_NKAl8h0
   name: Waterfront Market

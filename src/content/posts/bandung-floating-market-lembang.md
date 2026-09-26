@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/67820166_UYwv7YIbiVzLUj_2pnTthfrmtLMxCypwGjwqhfIiBoo.jpg"
+    credit: "Photo: Foursquare user content (Floating Market Lembang)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/50d5505ee4b0feaa44176f75"
 place:
   id: "ChIJ5SedShzhaC4RVU8QCM4azXs"
   name: "Floating Market Lembang"

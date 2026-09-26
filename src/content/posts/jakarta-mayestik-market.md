@@ -17,7 +17,11 @@ heroImage:
   focus:
     x: 50
     'y': 30
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/11745666_MiyZetOkR01vX-dYzF_hSYTsa9Hq02Ny-L9-R_x4Xk8.jpg"
+    credit: "Photo: Foursquare user content (Pasar Mayestik)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b9322abf964a520113734e3"
 place:
   id: ChIJK9HL5xTxaS4RBHseWHlf_g8
   name: Mayestik Market

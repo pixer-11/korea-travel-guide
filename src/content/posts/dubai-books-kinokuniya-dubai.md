@@ -5,6 +5,11 @@ country: United Arab Emirates
 region: Dubai
 category: hidden-gem
 pubDate: '2026-09-22T07:40:29.821Z'
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Massive_Kinokuniya_bookstore_in_Dubai.jpg"
+    credit: "Photo: Thomas Galvez / Wikimedia Commons (CC BY 2.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Massive_Kinokuniya_bookstore_in_Dubai.jpg"
 heroImage:
   url: https://fastly.4sqi.net/img/general/original/51341806_kuNezEE6RzBwSEI9pIEn-7GNvN2Q9_0a7IsNgaGBn8Y.jpg
   credit: 'Photo: Foursquare user content (Books Kinokuniya (مكتبة كينوكونيا))'

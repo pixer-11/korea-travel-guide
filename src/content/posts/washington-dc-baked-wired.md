@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 40
     y: 35
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/58794963_qz0ExbzD58aIgHij76GGA9ci0f9u9QujxiW01PuljF4.jpg"
+    credit: "Photo: Foursquare user content (Baked & Wired)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/49bfffd0f964a5203c551fe3"
 place:
   id: "ChIJh1gSd0y2t4kRVFtw1KAS1-E"
   name: "Baked & Wired"

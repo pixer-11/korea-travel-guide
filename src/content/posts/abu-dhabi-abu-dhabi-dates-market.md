@@ -20,7 +20,11 @@ heroImage:
   focus:
     x: 45
     'y': 55
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/8897478_DTjj8CSGdefPGGLHoES4Ugw70Tf2bbYH9d6vU7OZQos.jpg"
+    credit: "Photo: Foursquare user content (Mina Dates Market)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/501d69e0e4b0442465a25e34"
 place:
   id: ChIJv1UDjOVmXj4R9SK4YdmuC-U
   name: Abu Dhabi Dates Market

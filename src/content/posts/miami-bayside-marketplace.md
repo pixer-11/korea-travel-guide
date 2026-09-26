@@ -19,7 +19,11 @@ heroImage:
   focus:
     x: 55
     'y': 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/27672690_S1bIZ9gCg_T0MLIDT8saa8FRYZ7CWVTZfXnUqtPfDFY.jpg"
+    credit: "Photo: Foursquare user content (Bayside Marketplace)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b3ffc64f964a520a2b325e3"
 place:
   id: ChIJ2YAfbyC02YgRQzEiuI4qloc
   name: Bayside Marketplace

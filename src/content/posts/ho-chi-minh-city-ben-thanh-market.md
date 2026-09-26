@@ -19,7 +19,11 @@ heroImage:
   focus:
     x: 50
     'y': 35
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/141871670_M2Z0a_XpL6Jax6SSVM9gKRZUHCXN8vUUsWwiZ9zvir4.jpg"
+    credit: "Photo: Foursquare user content (Ben Thanh Market (Chợ Bến Thành))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bb0afc2f964a520e6543ce3"
 place:
   id: ChIJTeYpMT8vdTERMH8sUnkta40
   name: Ben Thanh Market

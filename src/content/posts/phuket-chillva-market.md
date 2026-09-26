@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 30
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/24897825_F3jED-qk07aXeXCnXlQXkrdvD0x0BkTgl3CB_PFVQI0.jpg"
+    credit: "Photo: Foursquare user content (Chillva Market (ตลาดนัดชิลล์วา))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/56f95e46498e6cb8c1974edf"
 place:
   id: "ChIJbQQ1Rr0xUDARwb-3w3Va9FY"
   name: "Chillva Market"
