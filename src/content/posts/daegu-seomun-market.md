@@ -1,44 +1,44 @@
 ---
-title: "Seomun Market: Daegu Travel Guide (4.2★)"
-description: "Seomun Market in Jung-gu, Daegu, is the city's largest traditional market, a maze of covered daytime stalls and a separate night market food alley. 4.2★ (18,645 reviews) — what visitors say, hours, and tips."
-country: "South Korea"
-region: "Daegu"
-category: "hidden-gem"
-pubDate: "2026-09-22T07:41:17.994Z"
+title: 'Seomun Market: Daegu Travel Guide (4.2★)'
+description: Seomun Market in Jung-gu, Daegu, is the city's largest traditional market, a maze of covered daytime stalls and a separate night market food alley. 4.2★ (18,645 reviews) — what visitors say, hours, and tips.
+country: South Korea
+region: Daegu
+category: hidden-gem
+pubDate: '2026-09-22T07:41:17.994Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/f/fd/10%EA%B2%BD_%EC%84%9C%EB%AC%B8%EC%8B%9C%EC%9E%A5.jpg"
-  credit: "Photo: 대구광역시 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:10%EA%B2%BD_%EC%84%9C%EB%AC%B8%EC%8B%9C%EC%9E%A5.jpg"
+  url: https://fastly.4sqi.net/img/general/original/9063911_qxiHAljpzMp8TWCVK-3SmxsWxbivaktfh8pwPj7vJbs.jpg
+  credit: 'Photo: Foursquare user content (Seomun Market (서문시장))'
+  license: foursquare
+  source: https://foursquare.com/v/4b7e200bf964a520a8e32fe3
   focus:
     x: 50
-    y: 40
+    'y': 65
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Seomun_Night_Market%2C_Daegu_on_April_7th%2C_2017.jpg/3840px-Seomun_Night_Market%2C_Daegu_on_April_7th%2C_2017.jpg"
-    credit: "Photo: Choi2451 / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Seomun_Night_Market,_Daegu_on_April_7th,_2017.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Seomun_Night_Market%2C_Daegu_on_April_7th%2C_2017.jpg/3840px-Seomun_Night_Market%2C_Daegu_on_April_7th%2C_2017.jpg
+    credit: 'Photo: Choi2451 / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Seomun_Night_Market,_Daegu_on_April_7th,_2017.jpg
 place:
-  id: "ChIJ03GJQ-3jZTURWTMfm2jPZBs"
-  name: "Seomun Market"
-  address: "45 Keunjang-ro 26-gil, Jung-gu, Daegu, South Korea"
+  id: ChIJ03GJQ-3jZTURWTMfm2jPZBs
+  name: Seomun Market
+  address: 45 Keunjang-ro 26-gil, Jung-gu, Daegu, South Korea
   rating: 4.2
   userRatingsTotal: 18645
-  googleMapsUrl: "https://maps.google.com/?cid=1973930584881181529&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=1973930584881181529&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.8688875
   lng: 128.5807946
-  phone: "+82 53-256-6341"
+  phone: +82 53-256-6341
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-09-22
+    updated: 2026-09-22T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -54,22 +54,22 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_73425a506a326d664d54575255545a6a332d514a4733304a496843"
+    venueId: ven_73425a506a326d664d54575255545a6a332d514a4733304a496843
 tags:
-  - "daegu"
-  - "local market"
-quickAnswer: "Seomun Market in Jung-gu, Daegu, is the city's largest traditional market, a maze of covered daytime stalls and a separate night market food alley. It's very popular, so weekends fill up fast between 11am and 5pm; going right at the 9am opening on a weekday is the calmer option. Set aside at least two to three hours if you want to cover both the daytime cloth-and-goods sections and the evening food stalls."
+  - daegu
+  - local market
+quickAnswer: Seomun Market in Jung-gu, Daegu, is the city's largest traditional market, a maze of covered daytime stalls and a separate night market food alley. It's very popular, so weekends fill up fast between 11am and 5pm; going right at the 9am opening on a weekday is the calmer option. Set aside at least two to three hours if you want to cover both the daytime cloth-and-goods sections and the evening food stalls.
 faq:
-  - q: "What are the opening hours for Seomun Market?"
-    a: "The covered market runs 9am to 6pm every day of the week, with no variation by day. The separate night market food alley operates on its own seasonal schedule, so check locally whether it's running on your date."
-  - q: "When is the quietest time to visit Seomun Market?"
-    a: "Weekdays and weekend mornings are calm throughout the full 9am–6pm window. The one time to avoid is weekend afternoons between 11am and 5pm, when the aisles get genuinely crowded."
-  - q: "How do I get to Seomun Market in Daegu?"
-    a: "It's at 45 Keunjang-ro 26-gil in Jung-gu, an easy bus or taxi ride from central Daegu and Daegu Station. Several city bus routes stop directly at the market's edges."
-  - q: "How much time should I plan for a visit?"
-    a: "Two to three hours covers the daytime textile and goods halls plus a walk through the night market food alley if it's open. First-time visitors often spend longer just navigating the connected halls."
-  - q: "Is Seomun Market near any other attractions?"
-    a: "Yes, it sits right beside Yangnyeongsi, Daegu's historic herbal medicine market, and the two blend together at the edges, so a single visit can easily cover both."
+  - q: What are the opening hours for Seomun Market?
+    a: The covered market runs 9am to 6pm every day of the week, with no variation by day. The separate night market food alley operates on its own seasonal schedule, so check locally whether it's running on your date.
+  - q: When is the quietest time to visit Seomun Market?
+    a: Weekdays and weekend mornings are calm throughout the full 9am–6pm window. The one time to avoid is weekend afternoons between 11am and 5pm, when the aisles get genuinely crowded.
+  - q: How do I get to Seomun Market in Daegu?
+    a: It's at 45 Keunjang-ro 26-gil in Jung-gu, an easy bus or taxi ride from central Daegu and Daegu Station. Several city bus routes stop directly at the market's edges.
+  - q: How much time should I plan for a visit?
+    a: Two to three hours covers the daytime textile and goods halls plus a walk through the night market food alley if it's open. First-time visitors often spend longer just navigating the connected halls.
+  - q: Is Seomun Market near any other attractions?
+    a: Yes, it sits right beside Yangnyeongsi, Daegu's historic herbal medicine market, and the two blend together at the edges, so a single visit can easily cover both.
 aiGenerated: true
 draft: false
 ---

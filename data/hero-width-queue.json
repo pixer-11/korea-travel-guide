@@ -1669,7 +1669,6 @@
   "rome-galleria-borghese\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Galleria_borghese_facade.jpg/3840px-Galleria_borghese_facade.jpg": 3840,
   "seoul-deoksugung-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/%EB%8D%95%EC%88%98%EA%B6%81_%EC%A0%84%EA%B2%BD_%282013%29.jpg/1920px-%EB%8D%95%EC%88%98%EA%B6%81_%EC%A0%84%EA%B2%BD_%282013%29.jpg": 1920,
   "sharjah-arabian-fish-house-restaurant-cafe-al-hirah-beach-sharjah\u0001https://fastly.4sqi.net/img/general/original/1384270787_l2omdHRK_M-TgyMyJKvW-DH-TbKlrWPuCjhk6-xv6Pg.jpg": 1055,
-  "washington-dc-national-mall\u0001https://live.staticflickr.com/1430/1436584126_edd64be9db_b.jpg": 1024,
   "xi-an-bell-tower-of-xi-an\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Xi%27an_Bell_Tower_2024.10.jpg/1920px-Xi%27an_Bell_Tower_2024.10.jpg": 1920,
   "yokohama-harbor-view-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Harbor_View_Park_%28Yokohama%29_Observation_deck.jpg/3840px-Harbor_View_Park_%28Yokohama%29_Observation_deck.jpg": 3840,
   "beijing-jingshan-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Beijing_Jingshan_Park_Pavilion_%2810553761515%29.jpg/3840px-Beijing_Jingshan_Park_Pavilion_%2810553761515%29.jpg": 3840,
@@ -1702,7 +1701,6 @@
   "dubai-waterfront-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Home_image_WATERFRONT_MARKET.jpg/1920px-Home_image_WATERFRONT_MARKET.jpg": 1920,
   "goyang-bukhansanseong-fortress\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Korea-Bukhansan-04.jpg/1920px-Korea-Bukhansan-04.jpg": 1920,
   "gyeongju-cheomseongdae-observatory\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Cheomseongdae_Observatory_under_blue_sky_in_Gyeongju_South_Korea.jpg/3840px-Cheomseongdae_Observatory_under_blue_sky_in_Gyeongju_South_Korea.jpg": 3840,
-  "bali-bajra-sandhi-monument\u0001https://upload.wikimedia.org/wikipedia/commons/f/f8/Aerial_view_of_Bajra_Sandhi_Monument_Denpasar_Bali_Indonesia.jpg": 1141,
   "hualien-farglory-ocean-park\u0001https://fastly.4sqi.net/img/general/original/69053463_bCwcPlk_17hSxFMVXA2uAE7L2AAqQMI8p6x74mXhAeg.jpg": 1920,
   "istanbul-bosphorus-view-point\u0001https://upload.wikimedia.org/wikipedia/commons/b/be/Bosphorus_-_View_from_Rumelihisari_%283501789921%29.jpg": 875,
   "koh-tao-view-point-resort\u0001https://upload.wikimedia.org/wikipedia/commons/0/0c/View_Point_resort_view_-_panoramio.jpg": 3264,
@@ -1845,7 +1843,25 @@
   "pisa-logge-dei-banchi\u0001https://upload.wikimedia.org/wikipedia/commons/d/d4/Logge_di_Banchi_di_Pisa_al_crepuscolo.jpg": 2864,
   "san-francisco-the-happy-crane\u0001https://fastly.4sqi.net/img/general/original/149131341_KdoED_1Rsz8PkdYXqhJdWN-82OU5XhiYcDXr07Qoz28.jpg": 1440,
   "stanley-stanley-main-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Stanley_Main_Street_Eastern_End.jpg/3840px-Stanley_Main_Street_Eastern_End.jpg": 3840,
-  "sun-moon-lake-shuishe-pier\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sun-Moon-Lake-Taiwan.jpg/1920px-Sun-Moon-Lake-Taiwan.jpg": 1920
+  "sun-moon-lake-shuishe-pier\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sun-Moon-Lake-Taiwan.jpg/1920px-Sun-Moon-Lake-Taiwan.jpg": 1920,
+  "beijing-liulichang\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Liulichang1.jpg/1920px-Liulichang1.jpg": 1920,
+  "chiang-mai-three-kings-monument\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B8%A9%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_%282%29.jpg/1920px-%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B8%A9%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_%282%29.jpg": 1920,
+  "hiroshima-machiya-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Machiya_street._Miyajima.jpg/3840px-Machiya_street._Miyajima.jpg": 3840,
+  "bali-bajra-sandhi-monument\u0001https://fastly.4sqi.net/img/general/original/785019_7U6MEKJeCBfRkkpl8OINbs2cUAlcYSWCdAeWZ9-Rhhw.jpg": 1440,
+  "beijing-wangfujing-bookstore\u0001https://upload.wikimedia.org/wikipedia/commons/9/97/Wangfujing_Bookstore_20160825.jpg": 3264,
+  "istanbul-istanbul-museum-of-modern-art\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Istanbul%2C_Turkey_%28November_2023%29_-_611.jpg/1920px-Istanbul%2C_Turkey_%28November_2023%29_-_611.jpg": 1920,
+  "chicago-heald-square-monument\u0001https://upload.wikimedia.org/wikipedia/commons/b/bc/Heald-Square-Monument-Chicago-September-2014.jpg": 3463,
+  "kyoto-gion-corner\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/A_view_of_Gion_corner_in_Geisha_district%2C_Kyoto%2C_Japan.jpg/3840px-A_view_of_Gion_corner_in_Geisha_district%2C_Kyoto%2C_Japan.jpg": 3840,
+  "mui-ne-phan-thiet-market\u0001https://upload.wikimedia.org/wikipedia/commons/1/1a/Phan_Thiet%2C_Market_-_panoramio.jpg": 2592,
+  "phuket-phuket-old-town\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Soi_Rommanee%2C_Phuket_Town.jpg/1920px-Soi_Rommanee%2C_Phuket_Town.jpg": 1920,
+  "rome-portico-of-octavia\u0001https://upload.wikimedia.org/wikipedia/commons/d/dd/Portico_of_Octavia_upper_detail_%285832983656%29.jpg": 1024,
+  "san-francisco-balmy-alley\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Balmy_Alley.jpg/3840px-Balmy_Alley.jpg": 3840,
+  "san-francisco-city-lights-booksellers-publishers\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/City_Lights_Booksellers.jpg/1920px-City_Lights_Booksellers.jpg": 1920,
+  "seville-las-cruces\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Apartamentos_Las_Cruces.jpg/3840px-Apartamentos_Las_Cruces.jpg": 3840,
+  "tagaytay-tagaytay-city-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Tagaytay_City_Souvenirs%2C_Cavite%2C_Jul_2025.jpg/3840px-Tagaytay_City_Souvenirs%2C_Cavite%2C_Jul_2025.jpg": 3840,
+  "washington-dc-lost-city-books\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Lost_City_Books_view_from_stairs.jpg/3840px-Lost_City_Books_view_from_stairs.jpg": 3840,
+  "washington-dc-national-mall\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/National_Mall%2C_Washington%2C_D.C._%2820100325-DSC01310%29.jpg/1920px-National_Mall%2C_Washington%2C_D.C._%2820100325-DSC01310%29.jpg": 1920,
+  "washington-dc-tudor-place\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Tudor_Place_%2816689233310%29.jpg/1920px-Tudor_Place_%2816689233310%29.jpg": 1920
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -1941,8 +1957,8 @@
   },
   "naples-city-view": {
    "width": 1024,
-   "attempts": 6,
-   "nextTry": "2026-09-27",
+   "attempts": 7,
+   "nextTry": "2026-10-04",
    "flaggedAt": "2026-08-16",
    "lastResult": "no-wider"
   },
@@ -2109,15 +2125,15 @@
   },
   "istanbul-lina-anatolian": {
    "width": 1024,
-   "attempts": 1,
-   "nextTry": "2026-09-27",
+   "attempts": 2,
+   "nextTry": "2026-10-04",
    "flaggedAt": "2026-09-17",
    "lastResult": "no-wider"
   },
   "jakarta-esa": {
    "width": 1080,
-   "attempts": 1,
-   "nextTry": "2026-09-27",
+   "attempts": 2,
+   "nextTry": "2026-10-04",
    "flaggedAt": "2026-09-17",
    "lastResult": "no-wider"
   },
@@ -2158,15 +2174,10 @@
   },
   "istanbul-bosphorus-view-point": {
    "width": 875,
-   "attempts": 0,
-   "nextTry": "2026-09-21",
-   "flaggedAt": "2026-09-21"
-  },
-  "daegu-seomun-market": {
-   "width": 680,
-   "attempts": 0,
-   "nextTry": "2026-09-22",
-   "flaggedAt": "2026-09-22"
+   "attempts": 1,
+   "nextTry": "2026-10-04",
+   "flaggedAt": "2026-09-21",
+   "lastResult": "no-wider"
   },
   "mumbai-fashion-street": {
    "width": 640,
@@ -2245,7 +2256,13 @@
    "attempts": 0,
    "nextTry": "2026-09-26",
    "flaggedAt": "2026-09-26"
+  },
+  "rome-portico-of-octavia": {
+   "width": 1024,
+   "attempts": 0,
+   "nextTry": "2026-09-27",
+   "flaggedAt": "2026-09-27"
   }
  },
- "updated": "2026-09-26T22:10:21.518Z"
+ "updated": "2026-09-27T22:30:42.664Z"
 }

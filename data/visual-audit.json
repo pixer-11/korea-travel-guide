@@ -5042,6 +5042,12 @@
   "reason": "This is clearly a UK storefront, not Daegu, South Korea",
   "at": "2026-07-25T02:42:26.553Z"
  },
+ "daegu-seomun-market\u0001https://fastly.4sqi.net/img/general/original/9063911_qxiHAljpzMp8TWCVK-3SmxsWxbivaktfh8pwPj7vJbs.jpg": {
+  "slug": "daegu-seomun-market",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Market stall food scene, plausible Seomun Market setting",
+  "at": "2026-09-27T22:30:42.652Z"
+ },
  "daegu-seomun-market\u0001https://upload.wikimedia.org/wikipedia/commons/f/fd/10%EA%B2%BD_%EC%84%9C%EB%AC%B8%EC%8B%9C%EC%9E%A5.jpg": {
   "slug": "daegu-seomun-market",
   "verdict": "MATCH",
@@ -11012,8 +11018,8 @@
  "little-india-former-house-of-tan-teng-niah\u0001https://fastly.4sqi.net/img/general/original/1608906_BP7rP1M3Vv9A4npYC4s_fdA_ZuUUfS0wvaIJ6MRFIi8.jpg": {
   "slug": "little-india-former-house-of-tan-teng-niah",
   "verdict": "MATCH",
-  "reason": "patrol replace: Colorful colonial building, Little India architecture",
-  "at": "2026-09-25T22:40:43.739Z"
+  "reason": "patrol replace: Colorful colonial architecture, Little India Singapore setti",
+  "at": "2026-09-27T22:28:10.199Z"
  },
  "little-india-former-house-of-tan-teng-niah\u0001https://fastly.4sqi.net/img/general/original/58563680_9ZCugZu4LqvzpKjyZGIn8k1lQBv17Sjro6AqDSH0VXY.jpg": {
   "slug": "little-india-former-house-of-tan-teng-niah",
