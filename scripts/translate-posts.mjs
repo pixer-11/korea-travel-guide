@@ -588,10 +588,12 @@ if (!jobs.length) { console.log('Nothing to translate — all up to date.'); pro
 // attempt as one batch; whatever comes back is checked by exactly the same
 // gates below, and anything missing — batch late, errored, cancelled — is
 // translated directly as before. TRANSLATE_BATCH=0 turns it off.
+// The wait is 120 min because a one-request probe on 2026-09-27 took 74 min
+// to come back: batches are cheap, not fast.
 const BATCH_MIN = Number(process.env.TRANSLATE_BATCH_MIN || 8);
 const prefetched = process.env.TRANSLATE_BATCH !== '0' && jobs.length >= BATCH_MIN
   ? await runBatch(client, jobs.map((j) => ({ id: `${j.lang}/${j.id}`, params: translateParams(j.lang, j.data) })), {
-      waitMin: Number(process.env.TRANSLATE_BATCH_WAIT_MIN || 90),
+      waitMin: Number(process.env.TRANSLATE_BATCH_WAIT_MIN || 120),
     })
   : new Map();
 
