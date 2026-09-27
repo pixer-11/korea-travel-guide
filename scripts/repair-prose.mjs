@@ -27,6 +27,8 @@ import { existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { join } from 'node:path';
 import yaml from 'js-yaml';
+import { srcHashOfPostFile } from './lib/src-hash.mjs';
+import { paragraphDiff, recordRepair, pruneRecords, loadRecords, saveRecords } from './lib/prose-patch.mjs';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const AUDIT = fileURLToPath(new URL('../data/full-audit.json', import.meta.url));
@@ -91,6 +93,7 @@ const rows = (Array.isArray(audit) ? audit : audit.results || Object.values(audi
   .filter((r) => Array.isArray(r.prose) && r.prose.length && r.slug);
 
 let done = 0, skipped = 0, failed = 0;
+const patches = loadRecords();
 for (const row of rows) {
   if (done >= LIMIT) break;
   const path = join(POSTS, `${row.slug}.md`);
@@ -169,10 +172,16 @@ for (const row of rows) {
   // repaired Nagoya guide and (until the gate was scoped) the whole weekly
   // batch with it (2026-08-23). Same escape the discoverer applies at birth.
   out = out.replace(/(^|[^\\])~/g, '$1\\~');
-  await writeFile(path, `${head}\n${out}\n`, 'utf8');
+  const next = `${head}\n${out}\n`;
+  await writeFile(path, next, 'utf8');
+  // What changed, so translate-posts can patch the four translations instead of
+  // re-translating them whole (lib/prose-patch.mjs; 339 calls on 09-27).
+  recordRepair(patches, row.slug, srcHashOfPostFile(raw), srcHashOfPostFile(next), paragraphDiff(body, out));
   console.log('   ✓ repaired');
   done++;
 }
+
+if (!DRY && done) saveRecords(pruneRecords(patches));
 
 console.log(`\n📦 prose repair — repaired ${done} · skipped ${skipped} · failed ${failed}${DRY ? ' (DRY)' : ''}`);
 console.log(`PROSE_REPAIR_SUMMARY repaired=${done} skipped=${skipped} failed=${failed}`);

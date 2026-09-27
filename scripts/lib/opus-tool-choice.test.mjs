@@ -39,8 +39,10 @@ test('the translator sends Opus 5.5 an auto tool_choice and the tool-only line',
   const src = readFileSync(join(ROOT, 'scripts/translate-posts.mjs'), 'utf8');
   assert.match(src, /TRANSLATE_MODEL \|\| 'claude-opus-5-5'/);
   assert.match(src, /NO_FORCED_TOOL = \/opus-5-5\|fable-5\|mythos-5\/\.test\(MODEL\)/);
-  // Both requests (the translation and the FAQ-only rescue) go through the helper.
-  assert.equal((src.match(/tool_choice: toolChoice\('/g) || []).length, 2);
+  // Every request (the translation, the FAQ-only rescue, the prose patch) goes
+  // through the helper.
+  assert.equal((src.match(/tool_choice: toolChoice\('/g) || []).length, 3);
+  assert.equal((src.match(/tool_choice:/g) || []).length, 3, 'a request that bypasses the helper');
   assert.match(src, /prompt\(LANGS\[langCode\], data\) \+ toolOnly\('submit_translation'\)/);
   // And the helper itself has to return the right thing: counting calls alone
   // passed with a helper that forced the tool for every model (Codex, 09-28).

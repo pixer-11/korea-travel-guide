@@ -37,6 +37,7 @@ import { scriptLeakFlags } from './lib/translation-leak.mjs';
 import { findToolSpill } from './lib/tool-spill.mjs';
 import { namedIds, translatable } from './lib/translate-scope.mjs';
 import { runBatch } from './lib/claude-batch.mjs';
+import { loadRecords, patchFor, patchPrompt, applyEdits, EDIT_TOOL } from './lib/prose-patch.mjs';
 import { unescapeEntities } from './lib/unescape-entities.mjs';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
@@ -56,6 +57,10 @@ const toolOnly = (name) => (NO_FORCED_TOOL ? `\n\nAnswer ONLY by calling the ${n
 const CONCURRENCY = Number(process.env.TRANSLATE_CONCURRENCY || 4);
 
 const LANGS = { ko: 'Korean', ja: 'Japanese', es: 'Spanish', zh: 'Simplified Chinese' };
+// What the weekly prose repair changed, per post — a stale translation it
+// explains exactly is patched, not re-translated (lib/prose-patch.mjs).
+const PATCHES = loadRecords();
+const patchStats = { patched: 0, unchanged: 0, fellBack: 0 };
 const arg = (k) => process.argv.find((a) => a.startsWith(`--${k}=`))?.split('=')[1];
 const LIMIT = Number(arg('limit') || 0) || Infinity;
 const ONLY_LANG = arg('lang');
@@ -277,6 +282,57 @@ function translateParams(langCode, data) {
     tool_choice: toolChoice('submit_translation'),
     messages: [{ role: 'user', content: prompt(LANGS[langCode], data) + toolOnly('submit_translation') }],
   };
+}
+
+// A patch request: the English paragraphs the prose repair changed plus the
+// current translation, answered with find/replace edits (lib/prose-patch.mjs).
+function patchParams(langCode, job) {
+  const langName = LANGS[langCode];
+  return {
+    model: MODEL,
+    max_tokens: NO_FORCED_TOOL ? 8000 : 4000,
+    tools: [EDIT_TOOL],
+    tool_choice: toolChoice('submit_edits'),
+    messages: [{
+      role: 'user',
+      content: patchPrompt(langName, REGISTER[langName] ?? `natural written ${langName}`, job.patch, job.cur.body) + toolOnly('submit_edits'),
+    }],
+  };
+}
+
+// The current translation's translatable fields, or null if it cannot be read.
+function readTranslation(path) {
+  try {
+    const raw = readFileSync(path, 'utf8').replace(/\r\n/g, '\n');
+    const end = raw.indexOf('\n---', 3);
+    const fm = yaml.load(raw.slice(4, end));
+    const body = raw.slice(end + 4).trim();
+    if (!fm?.title || !body) return null;
+    return { title: fm.title, description: fm.description, quickAnswer: fm.quickAnswer || '', faq: fm.faq || [], body };
+  } catch {
+    return null;
+  }
+}
+
+// Turn a patch reply into what translateOne expects from the model — the whole
+// patched translation — so it passes through every gate a fresh translation
+// does. null means "translate it in full instead": an edit that did not match
+// exactly once, a cut or prose reply, or any error.
+async function patchedReply(job, msg) {
+  try {
+    const m = msg || await client.messages.create(patchParams(job.lang, job));
+    if (m.stop_reason === 'max_tokens') throw new Error('patch reply cut at max_tokens');
+    const edits = m.content.find((c) => c.type === 'tool_use')?.input?.edits;
+    const body = applyEdits(job.cur.body, edits);
+    if (body === null) throw new Error('an edit did not match the translation exactly once');
+    if (edits.length) patchStats.patched++; else patchStats.unchanged++;
+    console.log(`     ✎ ${job.lang}/${job.id} — patched with ${edits.length} edit(s) instead of re-translating`);
+    return { stop_reason: 'tool_use', content: [{ type: 'tool_use', input: { ...job.cur, body } }] };
+  } catch (e) {
+    patchStats.fellBack++;
+    console.log(`     ↻ ${job.lang}/${job.id} — patch unusable (${String(e.message).slice(0, 80)}), translating in full`);
+    return null;
+  }
 }
 
 // `pre` is a reply the batch already fetched for attempt 1. Every retry below
@@ -583,6 +639,14 @@ for (const f of files) {
         // treated as current (the 2026-08-01 backfill stamped the whole tree).
         const stored = storedHash(existing);
         if (stored === null || stored === hash) continue;
+        // Stale because the weekly prose repair edited a sentence or two: patch.
+        const patch = patchFor(PATCHES[id], stored, hash);
+        const cur = patch && readTranslation(existing);
+        if (cur) {
+          jobs.push({ lang, id, data, hash, patch, cur });
+          queuedForThisPost = true;
+          continue;
+        }
       }
     }
     jobs.push({ lang, id, data, hash });
@@ -604,7 +668,7 @@ if (!jobs.length) { console.log('Nothing to translate — all up to date.'); pro
 // to come back: batches are cheap, not fast.
 const BATCH_MIN = Number(process.env.TRANSLATE_BATCH_MIN || 8);
 const prefetched = process.env.TRANSLATE_BATCH !== '0' && jobs.length >= BATCH_MIN
-  ? await runBatch(client, jobs.map((j) => ({ id: `${j.lang}/${j.id}`, params: translateParams(j.lang, j.data) })), {
+  ? await runBatch(client, jobs.map((j) => ({ id: `${j.lang}/${j.id}`, params: j.patch ? patchParams(j.lang, j) : translateParams(j.lang, j.data) })), {
       waitMin: Number(process.env.TRANSLATE_BATCH_WAIT_MIN || 120),
     })
   : new Map();
@@ -615,7 +679,9 @@ async function worker() {
   while (next < jobs.length) {
     const j = jobs[next++];
     try {
-      await translateOne(j.lang, j.id, j.data, j.hash, 1, prefetched.get(`${j.lang}/${j.id}`) || null);
+      let pre = prefetched.get(`${j.lang}/${j.id}`) || null;
+      if (j.patch) pre = await patchedReply(j, pre);
+      await translateOne(j.lang, j.id, j.data, j.hash, 1, pre);
       done++;
       console.log(`  ✅ ${j.lang}/${j.id}  (${done}/${jobs.length})`);
     } catch (e) {
@@ -632,4 +698,7 @@ console.log(`\nDone. ${done} translated, ${failed} failed.`);
 // the whole step was announced as broken. An alarm that overstates is an alarm
 // that gets ignored, which is how the real problems that week went unread.
 console.log(`TRANSLATE_SUMMARY done=${done} failed=${failed} jobs=${jobs.length}`);
+if (jobs.some((j) => j.patch)) {
+  console.log(`TRANSLATE_PATCH patched=${patchStats.patched} unchanged=${patchStats.unchanged} fell_back=${patchStats.fellBack}`);
+}
 if (failed) process.exitCode = 1;

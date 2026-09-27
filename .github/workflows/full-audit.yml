@@ -143,7 +143,7 @@ jobs:
             fi
           done
           echo "reverted=$reverted"
-          git add src/content data/full-audit.json data/full-audit-seen.json public/wall data/wall.json
+          git add src/content data/full-audit.json data/full-audit-seen.json public/wall data/wall.json data/prose-patches.json
           if git diff --staged --quiet; then
             echo "No repairs to commit."
           else
