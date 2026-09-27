@@ -191,6 +191,42 @@
 .side-wtg a { color: var(--accent-text); font-weight: 600; text-decoration: none; }
 .side-wtg a:hover { text-decoration: underline; }
 
+/* ── "언제 갈까" 카드 (2026-09-28) ──
+   넓은 화면에서만 카드. 좁은 화면에선 사이드바가 본문 위에 쌓이므로 카드가
+   본문 시작을 밀어낸다 — 거기선 예전 글자 링크 한 줄(.side-wtg--narrow)을 쓴다. */
+.wtgc {
+  background: color-mix(in srgb, var(--pine) 7%, var(--surface));
+  border-color: color-mix(in srgb, var(--pine) 26%, var(--line));
+}
+.wtgc-title { display: flex; align-items: center; gap: 0.4rem; margin: 0 0 0.65rem; font-weight: 700; color: var(--ink); line-height: 1.35; }
+.wtgc-now {
+  display: block; padding: 0.6rem 0.7rem; border-radius: var(--r-sm, 10px);
+  background: var(--surface); border: 1px solid color-mix(in srgb, var(--pine) 18%, var(--line-soft));
+  color: var(--ink); text-decoration: none;
+}
+.wtgc-now:hover { border-color: var(--pine); }
+.wtgc-now-k { display: block; margin-bottom: 0.35rem; font-size: 0.74rem; font-weight: 700; color: var(--pine); }
+.wtgc-stats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0.3rem; }
+.wtgc-stats span { display: grid; gap: 0.05rem; }
+.wtgc-stats b { font-size: 1.15rem; font-weight: 700; font-variant-numeric: tabular-nums; line-height: 1.2; }
+.wtgc-stats b i { font-style: normal; font-size: 0.72rem; font-weight: 600; margin-left: 1px; }
+.wtgc-stats small { font-size: 0.68rem; color: var(--muted); }
+.wtgc-best { margin: 0.6rem 0 0.7rem; font-size: 0.86rem; font-weight: 600; color: var(--ink-soft); }
+.wtgc-cta {
+  display: flex; justify-content: center; padding: 0.55rem 0.8rem; border-radius: var(--r-pill);
+  background: var(--pine); color: #fff; font-weight: 650; font-size: 0.86rem; text-decoration: none; text-align: center;
+}
+.wtgc-cta:hover { background: color-mix(in srgb, var(--pine) 85%, #000); color: #fff; }
+/* 어두운 화면에선 --pine 이 밝은 녹색이 되어 흰 글자 대비가 2.57 로 떨어진다(09-28 측정) —
+   글자를 배경색으로 뒤집는다. global.css 와 같은 두 경로. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) .wtgc-cta, :root:not([data-theme='light']) .wtgc-cta:hover { color: var(--bg); }
+}
+:root[data-theme='dark'] .wtgc-cta, :root[data-theme='dark'] .wtgc-cta:hover { color: var(--bg); }
+.wtgc-city { margin: 0.5rem 0 0; font-size: 0.7rem; color: var(--muted); }
+@media (max-width: 1099px) { .wtgc { display: none; } }
+@media (min-width: 1100px) { .side-wtg--narrow { display: none; } }
+
 .side-card { background: color-mix(in srgb, var(--accent) 6%, var(--surface)); border-color: color-mix(in srgb, var(--accent) 22%, var(--line)); }
 .side-card-k { display: inline-flex; align-items: center; gap: 0.35rem; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
 .side-card-t { margin: 0.35rem 0 0.7rem; font-weight: 700; color: var(--ink); line-height: 1.35; }

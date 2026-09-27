@@ -38,10 +38,14 @@ interface Props {
   affiliate?: { href: string; title: string } | null;
   wtgHref?: string | null;
   wtgLabel?: string | null;
+  wtgCard?: {
+    title: string; nowLabel: string; nowHref: string; hi: number; lo: number; rain: number;
+    hiLabel: string; loLabel: string; rainLabel: string; best: string; city: string; cta: string;
+  } | null;
 }
 const {
   lang, place: p, shownAddress = '', priceLabel, stars, hoursAllDay = false, timeZone, showStatus = false,
-  mapsHref, mapsIsSearch = false, mapMosaic, gettingThereId, tocItems = [], affiliate, wtgHref, wtgLabel,
+  mapsHref, mapsIsSearch = false, mapMosaic, gettingThereId, tocItems = [], affiliate, wtgHref, wtgLabel, wtgCard,
 } = Astro.props;
 const t = useTranslations(lang);
 const ps = usePostStrings(lang);
@@ -171,6 +175,26 @@ const hasFacts = !!(p && (statusData || hourGroups || hoursAllDay || rawHours.le
     </div>
   )}
 
+  {/* "언제 갈까" 카드(2026-09-28). 목차 아래 글자 한 줄이라 아무도 못 봤다 —
+      이번 달 실제 평균값(누르면 그 달 페이지)과 가장 수월한 달을 보여 주고,
+      버튼은 나라 페이지로 간다(크롤 경로의 이유는 PostArticle 주석). */}
+  {wtgCard && wtgHref && (
+    <section class="side-box wtgc" aria-label={wtgCard.title}>
+      <p class="wtgc-title"><Emoji name="spiral-calendar" /> {wtgCard.title}</p>
+      <a class="wtgc-now" href={wtgCard.nowHref}>
+        <span class="wtgc-now-k">{wtgCard.nowLabel} →</span>
+        <span class="wtgc-stats">
+          <span><b>{wtgCard.hi}°</b><small>{wtgCard.hiLabel}</small></span>
+          <span><b>{wtgCard.lo}°</b><small>{wtgCard.loLabel}</small></span>
+          <span><b>{wtgCard.rain}<i>mm</i></b><small>{wtgCard.rainLabel}</small></span>
+        </span>
+      </a>
+      <p class="wtgc-best">{wtgCard.best}</p>
+      <a class="wtgc-cta" href={wtgHref}>{wtgCard.cta} →</a>
+      <p class="wtgc-city">{wtgCard.city}</p>
+    </section>
+  )}
+
   {tocItems.length > 0 && (
     <nav class="side-box side-toc" aria-label={t('post.toc')}>
       <h2 class="side-h">{t('post.toc')}</h2>
@@ -181,7 +205,7 @@ const hasFacts = !!(p && (statusData || hourGroups || hoursAllDay || rawHours.le
   )}
 
   {wtgHref && (
-    <p class="side-wtg"><a href={wtgHref}>{wtgLabel} →</a></p>
+    <p class:list={['side-wtg', { 'side-wtg--narrow': wtgCard }]}><a href={wtgHref}>{wtgLabel} →</a></p>
   )}
 
   <slot name="after" />

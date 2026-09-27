@@ -26,7 +26,7 @@ import { slugifyRegion } from '../lib/slug';
 import { getLangFromUrl, useTranslations, localeCodes, defaultLang, localizePath, klookLocale } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { formatHourRanges, localizeOpeningLine } from '../lib/hours.mjs';
-import { eligibleCountries, monthSlug as wtgMonthSlug } from '../lib/when-to-go.mjs';
+import { eligibleCountries, monthSlug as wtgMonthSlug, bestMonth } from '../lib/when-to-go.mjs';
 import countryFactsData from '../../data/country-facts.json';
 import { tileMosaic, zoomFor, TILE_ATTRIBUTION } from '../lib/osmTile.mjs';
 import { stripPlusCode } from '../lib/address.mjs';
@@ -155,6 +155,31 @@ const wtgCountryHref = (!wtgMonthHref && eligibleCountries(countryFactsData).inc
 const wtgCountryLabel = wtgCountryHref
   ? t('wtg.countryGuideLink').replace('{country}', localizePlace(country, lang))
   : null;
+// 사이드바 "언제 갈까" 카드(2026-09-28, 픽서님: 글자 링크 한 줄이라 눈에 안 띄었다).
+// 이번 달 실제 평균값과 가장 수월한 달을 카드에 바로 보여 준다. 기후 기록은 나라가
+// 아니라 한 도시의 것이라(when-to-go.mjs monthComfort 주석) 도시 이름을 함께 싣는다.
+// "이번 달"은 빌드한 날의 달 — 사이트는 매일 빌드되므로 달이 바뀌면 다음 날 따라온다.
+const wtgCard = (() => {
+  if (!wtgCountryHref) return null;
+  const facts = (countryFactsData as any).countries?.[country];
+  const climate = facts?.climate;
+  if (!Array.isArray(climate) || climate.length !== 12) return null;
+  const m = new Date().getUTCMonth() + 1;
+  const now = climate.find((c: any) => c.m === m);
+  const best = bestMonth(climate);
+  if (!now || !best) return null;
+  const monthName = (mm: number) => new Date(Date.UTC(2026, mm - 1, 15)).toLocaleDateString(localeCodes[lang], { month: 'long', timeZone: 'UTC' });
+  return {
+    title: t('wtg.bestTimeCard').replace('{country}', localizePlace(country, lang)),
+    nowLabel: ps('ps.wtgNow').replace('{month}', monthName(m)),
+    nowHref: localizePath(`/tools/when-to-go/${countrySlug}/${wtgMonthSlug(m)}/`, lang),
+    hi: now.hi, lo: now.lo, rain: now.rain,
+    hiLabel: t('wtg.high'), loLabel: t('wtg.low'), rainLabel: t('wtg.rain'),
+    best: ps('ps.wtgBest').replace('{month}', monthName(best.m)),
+    city: ps('ps.wtgCity').replace('{city}', localizePlace(facts.climateCity ?? country, lang)),
+    cta: ps('ps.wtgCta'),
+  };
+})();
 // The finished-event CTA is a different block with its own buttons, so it needs
 // its own copy of the country link (the two above are computed for the live
 // block and one of them is always null there).
@@ -873,6 +898,7 @@ const saveQuiet = perDay
       affiliate={sideAffiliate}
       wtgHref={wtgCountryHref}
       wtgLabel={wtgCountryLabel}
+      wtgCard={wtgCard}
     >
       {p?.name && (
         <SaveButton

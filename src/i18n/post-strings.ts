@@ -31,6 +31,10 @@ export const postStrings = {
     'ps.cardCta': 'See options on Klook',
     'ps.affNote': 'Affiliate link — we may earn a commission at no extra cost to you.',
     'ps.checkedOn': 'Facts checked against Google Places · {date}',
+    'ps.wtgNow': '{month} on average',
+    'ps.wtgBest': 'Easiest month: {month}',
+    'ps.wtgCity': 'Climate record: {city}',
+    'ps.wtgCta': 'Month-by-month guide',
   },
   ko: {
     'ps.crowdTitle': '언제 가면 한산할까?',
@@ -53,6 +57,10 @@ export const postStrings = {
     'ps.cardCta': '클룩에서 보기',
     'ps.affNote': '제휴 링크 — 예약하시면 사이트가 수수료를 받을 수 있으며, 추가 비용은 없습니다.',
     'ps.checkedOn': '구글 플레이스로 사실 확인 · {date}',
+    'ps.wtgNow': '{month} 평균',
+    'ps.wtgBest': '가장 수월한 달: {month}',
+    'ps.wtgCity': '{city} 기후 기록 기준',
+    'ps.wtgCta': '달별 날씨·혼잡도·공휴일 보기',
   },
   ja: {
     'ps.crowdTitle': '空いている時間は？',
@@ -75,6 +83,10 @@ export const postStrings = {
     'ps.cardCta': 'Klookで見る',
     'ps.affNote': 'アフィリエイトリンクです。ご予約で当サイトに手数料が入る場合がありますが、追加料金はかかりません。',
     'ps.checkedOn': 'Google Placesで事実確認 · {date}',
+    'ps.wtgNow': '{month}の平均',
+    'ps.wtgBest': 'いちばん過ごしやすい月：{month}',
+    'ps.wtgCity': '{city}の気候記録にもとづく',
+    'ps.wtgCta': '月別の天気・混雑・祝日を見る',
   },
   es: {
     'ps.crowdTitle': '¿Cuándo hay menos gente?',
@@ -97,6 +109,10 @@ export const postStrings = {
     'ps.cardCta': 'Ver opciones en Klook',
     'ps.affNote': 'Enlace de afiliado: podemos recibir una comisión sin coste adicional para ti.',
     'ps.checkedOn': 'Datos verificados con Google Places · {date}',
+    'ps.wtgNow': 'Promedio de {month}',
+    'ps.wtgBest': 'Mes más cómodo: {month}',
+    'ps.wtgCity': 'Registro climático: {city}',
+    'ps.wtgCta': 'Clima y afluencia mes a mes',
   },
   zh: {
     'ps.crowdTitle': '什么时候人少？',
@@ -119,6 +135,10 @@ export const postStrings = {
     'ps.cardCta': '在Klook查看',
     'ps.affNote': '联盟链接：通过它预订我们可能获得佣金，你无需额外付费。',
     'ps.checkedOn': '已通过Google Places核实 · {date}',
+    'ps.wtgNow': '{month}平均',
+    'ps.wtgBest': '最舒适的月份：{month}',
+    'ps.wtgCity': '气候记录：{city}',
+    'ps.wtgCta': '查看每月天气、人流与节假日',
   },
 } as const;
 
