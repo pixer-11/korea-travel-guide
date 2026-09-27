@@ -2683,6 +2683,12 @@
   "reason": "publish gate: Traditional temple building with visitors, matches Lama Temple",
   "at": "2026-09-19T07:49:45.595Z"
  },
+ "beijing-liulichang\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Liulichang1.jpg/1920px-Liulichang1.jpg": {
+  "slug": "beijing-liulichang",
+  "verdict": "MATCH",
+  "reason": "publish gate: Authentic street view of Liulichang with Chinese signage",
+  "at": "2026-09-27T07:43:44.726Z"
+ },
  "beijing-mutianyu-great-wall-scenic-area-ticket-office\u0001https://fastly.4sqi.net/img/general/original/356223011_x0cAtCzPmkv62rYmJmQPUGI5xK9tvyt2zb8-fuhuEuI.jpg": {
   "slug": "beijing-mutianyu-great-wall-scenic-area-ticket-office",
   "verdict": "MISMATCH",
@@ -2727,6 +2733,12 @@
   "reason": "Palace Museum's iconic gate tower, Beijing.",
   "reasonKo": "베이징 궁박물관의 상징적 건물",
   "at": "2026-08-04T12:22:21.898Z"
+ },
+ "beijing-wangfujing-bookstore\u0001https://upload.wikimedia.org/wikipedia/commons/9/97/Wangfujing_Bookstore_20160825.jpg": {
+  "slug": "beijing-wangfujing-bookstore",
+  "verdict": "MATCH",
+  "reason": "publish gate: Building exterior clearly showing Wangfujing Bookstore signage at night",
+  "at": "2026-09-27T07:49:11.985Z"
  },
  "bengaluru-403-forbidden\u0001https://upload.wikimedia.org/wikipedia/commons/a/ab/403_Forbidden_error.png": {
   "slug": "bengaluru-403-forbidden",
@@ -4253,6 +4265,12 @@
   "reason": "Buddhist temple, not a baristro/café venue",
   "at": "2026-07-25T02:41:49.819Z"
  },
+ "chiang-mai-three-kings-monument\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B8%A9%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_%282%29.jpg/1920px-%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B8%A9%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_%282%29.jpg": {
+  "slug": "chiang-mai-three-kings-monument",
+  "verdict": "MATCH",
+  "reason": "publish gate: Iconic Three Kings Monument statue with Thai flag/building",
+  "at": "2026-09-27T07:40:37.983Z"
+ },
  "chiang-mai-wat-chedi-luang\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/20171105_Wat_Chedi_Luang_Chiang_Mai_9897_DxO.jpg/1920px-20171105_Wat_Chedi_Luang_Chiang_Mai_9897_DxO.jpg": {
   "slug": "chiang-mai-wat-chedi-luang",
   "verdict": "MATCH",
@@ -4565,6 +4583,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: audit: Oysters dish doesn't match Chicago trendy venue style",
   "at": "2026-08-20T19:59:44.535Z"
+ },
+ "chicago-heald-square-monument\u0001https://upload.wikimedia.org/wikipedia/commons/b/bc/Heald-Square-Monument-Chicago-September-2014.jpg": {
+  "slug": "chicago-heald-square-monument",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows the actual Heald Square Monument statue with Chicago skyline",
+  "at": "2026-09-27T07:42:14.181Z"
  },
  "chicago-illinois-lollapalooza-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/NewDad_Lollapalooza_2025.png/1920px-NewDad_Lollapalooza_2025.png": {
   "slug": "chicago-illinois-lollapalooza-2026",
@@ -6923,6 +6947,12 @@
   "reason": "Famous floating torii gate of Itsukushima Shrine",
   "at": "2026-07-25T02:43:52.751Z"
  },
+ "hiroshima-machiya-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Machiya_street._Miyajima.jpg/3840px-Machiya_street._Miyajima.jpg": {
+  "slug": "hiroshima-machiya-street",
+  "verdict": "MATCH",
+  "reason": "publish gate: Traditional machiya street scene, representative view",
+  "at": "2026-09-27T07:45:04.195Z"
+ },
  "hiroshima-mitaki-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Mitaki-dera_Taho-to.jpg/1920px-Mitaki-dera_Taho-to.jpg": {
   "slug": "hiroshima-mitaki-temple",
   "verdict": "MATCH",
@@ -8221,6 +8251,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior facade of the Istanbul Archaeological Museums building",
   "at": "2026-08-28T19:32:52.751Z"
+ },
+ "istanbul-istanbul-museum-of-modern-art\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Istanbul%2C_Turkey_%28November_2023%29_-_611.jpg/1920px-Istanbul%2C_Turkey_%28November_2023%29_-_611.jpg": {
+  "slug": "istanbul-istanbul-museum-of-modern-art",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Istanbul Modern with signage and sculpture",
+  "at": "2026-09-27T07:51:59.881Z"
  },
  "istanbul-kinu\u0001https://fastly.4sqi.net/img/general/original/382824581_n8tY4mL9rQfEFjw4Qqmrdjt8YC8csa9Pj-KI_44gTI0.jpg": {
   "slug": "istanbul-kinu",
@@ -10571,6 +10607,12 @@
   "reason": "Iconic orange torii gates of Fushimi Inari Taisha",
   "at": "2026-07-25T02:45:41.721Z"
  },
+ "kyoto-gion-corner\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/A_view_of_Gion_corner_in_Geisha_district%2C_Kyoto%2C_Japan.jpg/3840px-A_view_of_Gion_corner_in_Geisha_district%2C_Kyoto%2C_Japan.jpg": {
+  "slug": "kyoto-gion-corner",
+  "verdict": "MATCH",
+  "reason": "publish gate: Nighttime Gion street scene, representative of area",
+  "at": "2026-09-27T07:51:06.605Z"
+ },
  "kyoto-gyukatsu-kyoto-katsugyu-kyoto-ekimae\u0001https://fastly.4sqi.net/img/general/original/4990766_c8NgKNeQbLT4S6NBBw7wQhE_41_2I6b0GnwmpvFgEmU.jpg": {
   "slug": "kyoto-gyukatsu-kyoto-katsugyu-kyoto-ekimae",
   "verdict": "MATCH",
@@ -12657,6 +12699,12 @@
   "reason": "Iconic Mui Ne fishing village with colorful boats",
   "reasonKo": "뮤이네 어촌의 상징적인 알록달록한 배들",
   "at": "2026-08-14T13:59:13.803Z"
+ },
+ "mui-ne-phan-thiet-market\u0001https://upload.wikimedia.org/wikipedia/commons/1/1a/Phan_Thiet%2C_Market_-_panoramio.jpg": {
+  "slug": "mui-ne-phan-thiet-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Vietnamese street market scene, plausible for Phan Thiết",
+  "at": "2026-09-27T07:38:18.364Z"
  },
  "mui-ne-red-sand-dunes\u0001https://upload.wikimedia.org/wikipedia/commons/b/b3/Red_sand_dunes_-_panoramio.jpg": {
   "slug": "mui-ne-red-sand-dunes",
@@ -15394,6 +15442,12 @@
   "reason": "Cruise boat to Phi Phi Islands from Phuket",
   "at": "2026-07-25T02:48:14.847Z"
  },
+ "phuket-phuket-old-town\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Soi_Rommanee%2C_Phuket_Town.jpg/1920px-Soi_Rommanee%2C_Phuket_Town.jpg": {
+  "slug": "phuket-phuket-old-town",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative street view of Phuket Old Town architecture",
+  "at": "2026-09-27T07:45:43.382Z"
+ },
  "phuket-phuket-thai-hua-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Phuket_Thai_Hua_School_%28I%29.jpg/1920px-Phuket_Thai_Hua_School_%28I%29.jpg": {
   "slug": "phuket-phuket-thai-hua-museum",
   "verdict": "MATCH",
@@ -15942,6 +15996,12 @@
   "reason": "publish gate: Close view of Pantheon's exterior dome and cornice detail",
   "at": "2026-09-20T07:38:28.533Z"
  },
+ "rome-portico-of-octavia\u0001https://upload.wikimedia.org/wikipedia/commons/d/dd/Portico_of_Octavia_upper_detail_%285832983656%29.jpg": {
+  "slug": "rome-portico-of-octavia",
+  "verdict": "MATCH",
+  "reason": "publish gate: Ancient Roman ruin architecture, plausible view of Portico of Octavia",
+  "at": "2026-09-27T07:50:23.161Z"
+ },
  "rome-roman-forum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Foro_Romano_Musei_Capitolini_Roma.jpg/1920px-Foro_Romano_Musei_Capitolini_Roma.jpg": {
   "slug": "rome-roman-forum",
   "verdict": "MATCH",
@@ -16205,6 +16265,18 @@
   "reason": "Iconic Alcatraz Island with lighthouse and prison buildings",
   "reasonKo": "유명한 알카트라즈 섬, 등대와 감옥 건물 명확",
   "at": "2026-08-03T14:36:25.621Z"
+ },
+ "san-francisco-balmy-alley\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Balmy_Alley.jpg/3840px-Balmy_Alley.jpg": {
+  "slug": "san-francisco-balmy-alley",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows mural-covered alley representative of Balmy Alley",
+  "at": "2026-09-27T07:42:50.876Z"
+ },
+ "san-francisco-city-lights-booksellers-publishers\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/City_Lights_Booksellers.jpg/1920px-City_Lights_Booksellers.jpg": {
+  "slug": "san-francisco-city-lights-booksellers-publishers",
+  "verdict": "MATCH",
+  "reason": "publish gate: Storefront exterior with clear signage, representative venue view",
+  "at": "2026-09-27T07:47:31.669Z"
  },
  "san-francisco-ferry-building\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/San_Francisco_Ferry_Building_%28cropped%29.jpg/3840px-San_Francisco_Ferry_Building_%28cropped%29.jpg": {
   "slug": "san-francisco-ferry-building",
@@ -17411,6 +17483,12 @@
   "reason": "La Giralda tower and cathedral architecture clearly visible.",
   "reasonKo": "라 히랄다 탑과 대성당 건축물이 명확함.",
   "at": "2026-08-03T14:37:59.016Z"
+ },
+ "seville-las-cruces\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Apartamentos_Las_Cruces.jpg/3840px-Apartamentos_Las_Cruces.jpg": {
+  "slug": "seville-las-cruces",
+  "verdict": "MATCH",
+  "reason": "publish gate: Building facade showing Las Cruces apartment entrance and sign",
+  "at": "2026-09-27T07:46:39.681Z"
  },
  "seville-mercado-de-la-encarnacion\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Mercado_de_la_Encarnaci%C3%B3n_02.jpg/3840px-Mercado_de_la_Encarnaci%C3%B3n_02.jpg": {
   "slug": "seville-mercado-de-la-encarnacion",
@@ -18896,6 +18974,12 @@
   "reason": "Iconic Taal Volcano and lake view from Tagaytay",
   "reasonKo": "타갈타이에서의 타알화산 대표 풍경",
   "at": "2026-08-13T14:04:49.867Z"
+ },
+ "tagaytay-tagaytay-city-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Tagaytay_City_Souvenirs%2C_Cavite%2C_Jul_2025.jpg/3840px-Tagaytay_City_Souvenirs%2C_Cavite%2C_Jul_2025.jpg": {
+  "slug": "tagaytay-tagaytay-city-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Souvenir stall with Tagaytay-branded goods, representative market view",
+  "at": "2026-09-27T07:39:35.703Z"
  },
  "taguig-june-eatery\u0001https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Menomonee_Falls_June_2026_13_%28Poppy_%26_Thyme_and_The_Alumni_Club_Tavern_%26_Eatery%29.jpg/3840px-Menomonee_Falls_June_2026_13_%28Poppy_%26_Thyme_and_The_Alumni_Club_Tavern_%26_Eatery%29.jpg": {
   "slug": "taguig-june-eatery",
@@ -20963,6 +21047,12 @@
   "reason": "publish gate: Iconic exterior view of Lincoln Memorial, representative hero shot",
   "at": "2026-09-06T10:45:15.923Z"
  },
+ "washington-dc-lost-city-books\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Lost_City_Books_view_from_stairs.jpg/3840px-Lost_City_Books_view_from_stairs.jpg": {
+  "slug": "washington-dc-lost-city-books",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior view of bookstore, representative hero shot",
+  "at": "2026-09-27T07:48:19.718Z"
+ },
  "washington-dc-national-mall\u0001https://live.staticflickr.com/1430/1436584126_edd64be9db_b.jpg": {
   "slug": "washington-dc-national-mall",
   "verdict": "MATCH",
@@ -21001,6 +21091,12 @@
   "reason": "Surfside Taco Stand storefront clearly visible, DC urban set",
   "reasonKo": "서퍼사이드 타코 스탠드 외관, DC 도시 설정",
   "at": "2026-08-03T14:41:40.898Z"
+ },
+ "washington-dc-tudor-place\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Tudor_Place_%2816689233310%29.jpg/1920px-Tudor_Place_%2816689233310%29.jpg": {
+  "slug": "washington-dc-tudor-place",
+  "verdict": "MATCH",
+  "reason": "publish gate: Historic mansion exterior matches Tudor Place estate style",
+  "at": "2026-09-27T07:41:21.796Z"
  },
  "washington-dc-u-s-national-arboretum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/National_Capitol_Columns_-_Washington%2C_D.C..jpg/1920px-National_Capitol_Columns_-_Washington%2C_D.C..jpg": {
   "slug": "washington-dc-u-s-national-arboretum",

@@ -1,55 +1,55 @@
 ---
 lang: es
 slug: miami-perez-art-museum-miami
-srcHash: 'f1cc8e281ed6'
-title: 'Pérez Art Museum: Guía de viaje de Miami (4.5★)'
-description: 'El Pérez Art Museum Miami (PAMM) está frente a la bahía de Biscayne, en el 1103 de Biscayne Blvd, junto a Museum Park, en el centro de Miami. 4.5★ (7.952 reseñas): lo que dicen los visitantes, horarios y consejos.'
-quickAnswer: El Pérez Art Museum Miami (PAMM) está frente a la bahía de Biscayne, en el 1103 de Biscayne Blvd, junto a Museum Park, en el centro de Miami. Cierra los martes y miércoles, abre hasta las 9pm los jueves para quienes prefieren una visita nocturna más tranquila, y los fines de semana suele haber mucha afluencia de 11am a 6pm. Conviene reservar entre 90 minutos y dos horas para recorrer las galerías y los jardines colgantes.
+srcHash: '8e763bc42f85'
+title: 'Museo de Arte Pérez: Guía de viaje de Miami (4.5★)'
+description: 'El Museo de Arte Pérez de Miami (PAMM) se encuentra frente a la bahía de Biscayne, en el 1103 Biscayne Blvd, junto a Museum Park, en el centro de Miami. 4.5★ (7,952 reseñas): lo que dicen los visitantes, horarios y consejos.'
+quickAnswer: El Museo de Arte Pérez de Miami (PAMM) se encuentra frente a la bahía de Biscayne, en el 1103 Biscayne Blvd, junto a Museum Park, en el centro de Miami. Cierra los martes y miércoles, abre hasta las 9pm los jueves para una visita nocturna más tranquila, y los fines de semana suele haber mucha gente entre las 11am y las 6pm. Conviene reservar entre 90 minutos y dos horas para recorrer las galerías y los jardines colgantes.
 faq:
   - q: ¿Cuál es el horario del PAMM?
-    a: 11am–6pm los lunes, viernes, sábados y domingos; 11am–9pm los jueves; cerrado los martes y miércoles.
-  - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: El jueves por la tarde, después de que pasa la primera oleada de gente que sale del trabajo, ya que el museo permanece abierto hasta las 9pm. Los fines de semana, de 11am a 6pm, son constantemente el tramo con más gente, así que conviene evitarlo si se busca espacio en las galerías.
-  - q: ¿Cómo llegar al Pérez Art Museum Miami sin conducir?
-    a: Tome el Metromover gratuito hasta una parada del centro cercana a Museum Park; desde allí el museo queda a poca distancia a pie, lo que evita el problema del estacionamiento en el centro.
-  - q: ¿Cuánto tiempo hay que reservar para la visita?
+    a: De 11am a 6pm los lunes, viernes, sábados y domingos; de 11am a 9pm los jueves; cerrado los martes y miércoles.
+  - q: ¿Cuál es el mejor momento para visitarlo sin aglomeraciones?
+    a: El jueves por la tarde, una vez pasada la primera oleada de gente que sale del trabajo, ya que el museo permanece abierto hasta las 9pm. Los fines de semana, de 11am a 6pm, son sistemáticamente el horario de mayor afluencia, así que conviene evitar esa franja si se busca tranquilidad en las galerías.
+  - q: ¿Cómo se llega al Museo de Arte Pérez de Miami sin coche?
+    a: Tomando el Metromover gratuito hasta una parada del centro cercana a Museum Park; desde allí el museo queda a poca distancia a pie, evitando así el problema de estacionar en el centro.
+  - q: ¿Cuánto tiempo conviene reservar para la visita?
     a: Entre 90 minutos y dos horas alcanzan para recorrer las galerías principales, las terrazas exteriores y los jardines colgantes.
   - q: ¿Qué hay cerca?
-    a: El Phillip and Patricia Frost Museum of Science se encuentra dentro del mismo complejo de Museum Park, por lo que resulta fácil combinar ambos museos en un mismo día.
+    a: El Museo de Ciencias Phillip and Patricia Frost se encuentra dentro del mismo complejo de Museum Park, por lo que es fácil combinar ambas visitas en un solo día.
 ---
 
 ## Qué hay realmente dentro
 
-El Pérez Art Museum Miami es un museo de arte contemporáneo y moderno, no una colección enciclopédica que abarque varios siglos. Lo que encontrará son exposiciones temporales rotativas de artistas internacionales, junto con una colección permanente sólida en arte latinoamericano, caribeño y de la diáspora africana. El propio edificio es parte del atractivo: se alza sobre columnas de concreto y tiene jardines colgantes distribuidos a lo largo de sus pasillos exteriores.
+El Museo de Arte Pérez de Miami es un museo de arte contemporáneo y moderno, no una colección enciclopédica que abarque varios siglos. Lo habitual son exposiciones itinerantes de artistas internacionales junto a una colección permanente sólida en arte latinoamericano, caribeño y de la diáspora africana. El propio edificio, elevado sobre columnas de concreto y con jardines colgantes distribuidos a lo largo de las pasarelas exteriores, es parte del atractivo.
 
-En la planta baja, las terrazas dan directamente a la bahía de Biscayne; están a la sombra y se puede pasear por ellas libremente, incluso fuera del horario de entrada a las galerías.
+Las terrazas de la planta baja dan directamente a la bahía de Biscayne, y esos porches, además de estar cubiertos, se pueden recorrer libremente incluso fuera del horario de entrada a las galerías.
 
 ## Cómo llegar y moverse por Museum Park
 
-El museo se encuentra dentro de Museum Park, en el centro de Miami, en el 1103 de Biscayne Blvd, justo a orillas de la bahía. Comparte el parque con el Phillip and Patricia Frost Museum of Science, por lo que es sencillo visitar ambos en un mismo día. El Metromover (el transporte gratuito que recorre el centro de Miami) tiene una parada a poca distancia a pie, lo que permite evitar por completo el estacionamiento en el centro.
+El museo está dentro de Museum Park, en el centro de Miami, en el 1103 Biscayne Blvd, justo sobre la bahía. Comparte el parque con el Museo de Ciencias Phillip and Patricia Frost, por lo que combinar ambos en un mismo día resulta sencillo. El Metromover (el sistema gratuito de transporte automatizado del centro de Miami) tiene una parada a poca distancia a pie, lo que permite evitar por completo el estacionamiento en el centro.
 
-Si va en auto, el museo cuenta con su propio garaje en el lugar, aunque las tarifas no son lo bastante fijas como para indicarlas aquí.
+Si se llega en auto, el museo cuenta con su propio estacionamiento, aunque las tarifas no son lo bastante fijas como para indicarlas aquí.
 
 ## Cómo organizar la visita según el horario
 
-Conviene revisar el horario con atención antes de planear el día, ya que es bastante específico:
+Los horarios son específicos y conviene revisarlos antes de salir:
 
 - Lunes, viernes, sábado y domingo: 11am–6pm
 - Jueves: 11am–9pm (la única noche con horario extendido)
 - Martes y miércoles: cerrado
 
-Los fines de semana concentran la mayor afluencia de público, con el tramo de 11am a 6pm de sábado y domingo constantemente concurrido. Para tener más espacio en las galerías, el jueves por la tarde es la mejor opción: el museo permanece abierto tres horas más que en fin de semana y, para bien antes de las 9pm, ya se ha disipado la gente que sale del trabajo.
+Los fines de semana concentran la mayor cantidad de visitantes, con una afluencia constantemente alta entre las 11am y las 6pm los sábados y domingos. Para tener más espacio en las galerías, el jueves por la tarde es la mejor opción: el museo permanece abierto hasta las 9pm, varias horas más que cualquier otro día, lo que deja un buen tramo de la tarde para recorrerlo una vez que se han ido los visitantes del día.
 
-Llegar justo a las 11am en un día entre semana también permite ganarle a la afluencia del mediodía, antes de que suelan llegar los grupos turísticos y las visitas escolares.
+Llegar justo a las 11am en un día entre semana también permite evitar la hora pico del mediodía, antes de que suelan aparecer los grupos turísticos y las visitas escolares.
 
-## Cómo visitarlo como un habitual
+## Cómo visitarlo como un experto
 
-El PAMM recibe un volumen considerable de visitantes y no es precisamente un lugar poco conocido, así que conviene tomarse en serio los aspectos prácticos en lugar de esperar encontrar las salas vacías. Durante los periodos de mayor afluencia, las entradas para las exposiciones temporales más populares tienen horario asignado, de modo que comprarlas en línea con antelación antes de una visita de fin de semana evita esperas en la puerta.
+El PAMM recibe un volumen alto de visitantes y no es precisamente un lugar poco conocido, así que conviene tomarse en serio los aspectos prácticos en lugar de esperar encontrar salas vacías. Durante los períodos de mayor afluencia, las entradas para las exposiciones temporales más populares suelen tener horario asignado, por lo que comprarlas en línea antes de una visita de fin de semana evita esperas en la puerta.
 
-Algunas exposiciones especiales tienen un costo adicional al de la entrada general, así que conviene revisar qué exposición hay en cartel antes de asumir que una sola entrada cubre todo.
+Algunas exposiciones especiales tienen un costo aparte de la entrada general, así que conviene revisar qué se exhibe antes de dar por hecho que un solo boleto cubre todo.
 
-En el interior, por lo general se permite fotografiar en las galerías de la colección permanente, pero suele estar restringido en las exposiciones temporales en préstamo; es una práctica habitual en los museos que conviene confirmar en el mostrador de entrada en lugar de darla por sentada en un sentido u otro. Las terrazas exteriores y los jardines colgantes son la única parte del museo que se puede disfrutar sin entrada, algo útil si aún no está seguro de si la colección le interesa antes de pagar.
+En el interior, por lo general se permite fotografiar en las galerías de la colección permanente, pero suele estar restringido en las exposiciones temporales con obras en préstamo; se trata de una práctica habitual en los museos que conviene confirmar en el mostrador de entrada en lugar de suponerlo. Las terrazas exteriores y los jardines colgantes son la única parte del museo que se puede disfrutar sin boleto, algo útil si aún no se sabe si la colección será del gusto de uno antes de pagar.
 
-Muchos museos de Estados Unidos ofrecen franjas de entrada general gratuita en ciertas tardes; conviene revisar el sitio web del propio PAMM para confirmar si aplica algo así, ya que el horario por sí solo no lo indica.
+Muchos museos de Estados Unidos ofrecen entrada general gratuita en ciertas tardes; en el caso del PAMM, conviene confirmarlo directamente en su sitio web, ya que el horario por sí solo no lo indica.
 
-Complemente la visita con un paseo por el propio Museum Park, una franja de césped frente a la bahía que conecta el PAMM con el Frost Science, y así podrá recorrer el principal conjunto de museos del centro de Miami en una sola salida, sin necesidad de auto entre una parada y otra.
+Conviene combinar la visita con un paseo por el propio Museum Park, una franja de césped junto a la bahía que conecta el PAMM con el museo Frost Science, de modo que en una sola salida, y sin necesidad de auto entre una parada y otra, se recorre el principal conjunto de museos del centro de Miami.

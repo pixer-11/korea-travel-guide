@@ -1,69 +1,69 @@
 ---
 lang: es
 slug: washington-dc-baked-wired
-srcHash: 'dd1508818c7f'
-title: 'Baked & Wired: guía de viaje de Washington DC (4.5★)'
-description: 'Baked & Wired es una panadería y cafetería en Thomas Jefferson Street NW, en Georgetown, Washington DC, célebre por sus enormes cupcakes y su granola característica. 4.5★ (3.826 reseñas): opiniones de los visitantes, horarios y consejos.'
-quickAnswer: 'Baked & Wired es una panadería y cafetería en Thomas Jefferson Street NW, en Georgetown, Washington DC, célebre por sus enormes cupcakes y su granola característica. Abre todos los días de 8:00 a 16:00, y el momento más tranquilo es justo al abrir: de 8:00 a 10:00 los días de semana y de 8:00 a 9:00 los fines de semana. Los fines de semana el local se llena rápido después de las 9:00 y sigue concurrido hasta la hora de cierre.'
+srcHash: '8c516a9c696e'
+title: 'Baked & Wired: Guía de viaje de Washington DC (4.5★)'
+description: 'Baked & Wired es una panadería y cafetería en Thomas Jefferson Street NW, en Georgetown, Washington DC, conocida por sus enormes cupcakes y su granola característica. 4.5★ (3,826 reseñas): lo que dicen los visitantes, horarios y consejos.'
+quickAnswer: 'Baked & Wired es una panadería y cafetería en Thomas Jefferson Street NW, en Georgetown, Washington DC, conocida por sus enormes cupcakes y su granola característica. Abre todos los días de 8am a 4pm, y el momento más tranquilo es justo a la apertura: de 8am a 10am entre semana, y de 8am a 9am los fines de semana. Después de las 9am, los fines de semana se llenan rápido y siguen concurridos hasta el cierre.'
 faq:
   - q: ¿Por qué es conocido Baked & Wired?
-    a: Es una panadería y cafetería de Georgetown famosa por sus enormes cupcakes de sabores rotativos y por su granola característica, que se vende tanto en bolsa como en cuencos, además de las bebidas de espresso habituales.
+    a: Es una panadería y cafetería de Georgetown conocida por sus enormes cupcakes de sabores rotativos y por su granola característica, que se vende tanto en bolsa como en tazón, además de las bebidas de espresso habituales.
   - q: ¿Cuáles son los momentos más tranquilos para visitar Baked & Wired?
-    a: Entre semana, el momento más tranquilo es entre las 8:00 y las 10:00, justo después de la apertura. Los fines de semana esa ventana es más corta, solo de 8:00 a 9:00, antes de que el local se llene por el resto del día.
-  - q: ¿Cómo llegar a Baked & Wired sin auto?
-    a: Georgetown no tiene estación de metro propia. Las paradas más cercanas son Foggy Bottom-GWU o Rosslyn, ambas a unos 20 minutos caminando, o también se puede tomar el autobús DC Circulator, que recorre M Street.
+    a: Entre semana, el momento más tranquilo es entre 8am y 10am, justo después de abrir. Los fines de semana la franja tranquila es más corta, solo de 8am a 9am, antes de que el lugar se llene por el resto del día.
+  - q: ¿Cómo llego a Baked & Wired sin auto?
+    a: Georgetown no tiene estación de Metro propia. Las paradas más cercanas son Foggy Bottom-GWU o Rosslyn, ambas a unos 20 minutos a pie, o se puede tomar el autobús DC Circulator que recorre M Street.
   - q: ¿Cuál es el horario de apertura?
-    a: Baked & Wired abre todos los días de 8:00 a 16:00, los siete días de la semana, sin horario de tarde ni de noche, por lo que funciona mejor como parada matutina.
-  - q: ¿Qué hay cerca para aprovechar la mañana?
-    a: El sendero del Canal C&O y el Georgetown Waterfront Park están a poca distancia caminando cuesta abajo, y la zona comercial de M Street y Wisconsin Avenue queda cerca para pasear después.
+    a: Baked & Wired abre todos los días de 8am a 4pm, los siete días de la semana, sin horario de tarde-noche, por lo que funciona mejor como parada matutina.
+  - q: ¿Qué hay cerca si quiero aprovechar la mañana?
+    a: El sendero del Canal C&O y el Georgetown Waterfront Park quedan a poca distancia cuesta abajo, y la zona comercial de M Street y Wisconsin Avenue está cerca si se quiere ir de tiendas después.
 ---
 
-La calle principal de Georgetown está hecha de adoquines y casas adosadas, y Thomas Jefferson Street NW es una de esas callecitas laterales que bajan hacia el Potomac y el Canal C&O. Baked & Wired se encuentra en este tramo más tranquilo, a poca distancia a pie tanto del sendero del canal como del grupo de boutiques de Georgetown en M Street y Wisconsin Avenue.
+La calle principal de Georgetown está hecha de adoquines y casas adosadas, y Thomas Jefferson Street NW es una de esas calles laterales y estrechas que bajan hacia el río Potomac y el Canal C&O. Baked & Wired se encuentra en este tramo más tranquilo, a poca distancia a pie tanto del sendero del canal como de la zona de boutiques de Georgetown en M Street y Wisconsin Avenue.
 
-El nombre ya lo dice todo: panadería por un lado, café por el otro. Es de esos locales donde la vitrina del mostrador es la verdadera protagonista, con los cupcakes apilados en pisos de dos o tres, mientras la máquina de espresso resopla junto a la caja, a pocos pasos de donde se hace el pedido.
+El nombre ya lo dice todo: panadería por un lado, café por el otro. Es de esos lugares donde la vitrina del mostrador es la verdadera protagonista, con cupcakes apilados de dos o tres en fondo, mientras la máquina de espresso sisea en la caja, a pocos pasos de donde se hace el pedido.
 
-## El problema de los cupcakes
+## El asunto de los cupcakes
 
-Los cupcakes de Baked & Wired son famosos por ser realmente grandes, tanto que la palabra "cupcake" se queda corta. La panadería rota los sabores, así que la vitrina luce distinta según el día y la temporada.
+Los cupcakes de Baked & Wired son famosos por ser realmente grandes, tan altos que la palabra "cupcake" se queda corta. La panadería rota los sabores, así que la vitrina luce distinta según el día y la temporada.
 
-Vale la pena tener presente ese tamaño antes de pedir: no es un bocado de un solo mordisco, sino algo más cercano a un postre completo. Compartir uno entre dos es aquí lo normal, y no una señal de tacañería.
+Ese tamaño conviene tenerlo en cuenta antes de pedir: no es un bocado, sino más bien un postre completo. Aquí es normal compartir uno entre dos personas, y no se ve como algo tacaño, sino como lo más práctico.
 
-Acompañado de un café de filtro o un latte, ese es el pedido clásico. La granola característica de la casa, que se vende tanto en bolsa como servida en cuencos, es lo otro que hace volver a los clientes habituales, y además es una opción más ligera si se quiere ir con calma antes de seguir caminando por Georgetown.
+El pedido clásico es acompañarlo con un café de filtro o un latte. La granola característica, que se vende tanto en bolsa como en tazón, es lo otro que hace volver a los clientes habituales, y además es una opción más ligera si se quiere reservar apetito para seguir caminando por Georgetown.
 
 ## Cómo llegar
 
-Georgetown no tiene estación de metro propia, algo que suele desconcertar a quienes visitan la zona por primera vez. Las estaciones más cercanas son Foggy Bottom-GWU (líneas Blue, Orange y Silver) o Rosslyn, del lado de Virginia (Blue, Orange, Silver), ambas a unos 20 minutos caminando; también se puede tomar el autobús DC Circulator, que recorre M Street.
+Georgetown no tiene estación de Metro propia, algo que sorprende a muchos visitantes primerizos. Las estaciones más cercanas son Foggy Bottom-GWU (líneas Blue, Orange, Silver) o Rosslyn, del lado de Virginia (Blue, Orange, Silver), ambas a unos 20 minutos a pie, o bien se puede tomar el autobús DC Circulator que recorre M Street.
 
-Llegar en auto implica buscar un lugar en la calle o un garaje, ya que las calles residenciales de Georgetown son estrechas y tienen parquímetros. Para quienes ya estén recorriendo el sendero del Canal C&O o el paseo junto al río, Baked & Wired queda a un pequeño desvío cuesta arriba desde el agua.
+Ir en auto implica buscar estacionamiento en la calle o en un garaje, ya que las calles residenciales de Georgetown tienen parquímetros y son estrechas. Si ya se está recorriendo el sendero del Canal C&O o el paseo frente al agua, Baked & Wired queda a un breve desvío cuesta arriba desde el río.
 
 ## Cuándo ir si no se quiere esperar
 
-El patrón de afluencia aquí es constante y conviene tenerlo en cuenta al planear la visita. Entre semana, el tramo tranquilo va de 8:00 a 10:00, justo después de la apertura. Los fines de semana la ventana es más estrecha: solo entre 8:00 y 9:00 se mantiene la calma antes de que el ritmo se acelere.
+El patrón de afluencia aquí es constante y vale la pena planificar en función de él. Entre semana, el tramo tranquilo va de 8am a 10am, justo después de abrir. Los fines de semana el margen es más ajustado: solo la hora de 8am a 9am se mantiene tranquila antes de que empiece el ajetreo.
 
-Pasada esa hora, los fines de semana el local se mantiene concurrido prácticamente todo el día, desde las 9:00 hasta el cierre a las 16:00. Si la visita es un sábado o un domingo, conviene ver la primera hora tras la apertura como la verdadera oportunidad de conseguir mesa.
+Pasada esa franja, los fines de semana el lugar se mantiene ocupado prácticamente todo el día, desde las 9am hasta el cierre a las 4pm. Si se visita en sábado o domingo, conviene considerar la primera hora tras la apertura como la verdadera oportunidad de conseguir mesa.
 
-- Ventana tranquila entre semana: 8:00–10:00
-- Ventana tranquila los fines de semana: solo 8:00–9:00
-- Tramo de mayor concurrencia los fines de semana: 9:00–16:00, evitarlo si se quiere estar sentado
+- Franja tranquila entre semana: 8am–10am
+- Franja tranquila el fin de semana: solo 8am–9am
+- Horario concurrido el fin de semana: 9am–4pm, evitarlo si se quiere sentar
 
-Como el local cierra a las 16:00 todos los días de la semana, no es un lugar para reservar para una pausa de café por la tarde. Conviene tratarlo como parada matutina y no de mediodía, y organizar el paseo por Georgetown en torno a eso.
+Como el local cierra a las 4pm todos los días de la semana, no es un sitio para reservar como pausa de café por la tarde. Conviene tratarlo como parada matutina, no de mediodía, y organizar el paseo por Georgetown en torno a eso.
 
-## Pedir en el mostrador
+## Cómo pedir en el mostrador
 
-El sistema es de autoservicio en el mostrador: se pide y se paga por adelantado, y luego se busca un asiento o se lleva el pedido para afuera. Pagar con tarjeta es la práctica habitual en las cafeterías de Washington DC en general, aunque llevar algo de efectivo nunca está de más para quienes prefieran dejar propina de esa forma.
+El sistema es de autoservicio en el mostrador: se pide y se paga primero, y luego se busca asiento o se lleva para llevar. Pagar con tarjeta es lo habitual en las cafeterías de DC en general, aunque llevar algo de efectivo nunca está de más si se prefiere dejar propina de esa forma.
 
-Un frasco para propinas junto a la caja es habitual en panaderías como esta; dejar uno o dos dólares, o redondear el monto, es el gesto normal, sin que sea una obligación. El espacio para sentarse es limitado dado el tamaño del local, así que en una mañana concurrida de fin de semana no debería sorprender terminar comiendo el cupcake en un banco junto al canal en lugar de en una mesa dentro del local.
+Es típico encontrar un frasco de propinas en la caja, como en muchas panaderías de este tipo; dejar uno o dos dólares, o redondear el pago, es el gesto normal, no una obligación. El espacio para sentarse es limitado dado el tamaño del local, así que en una concurrida mañana de fin de semana no sería extraño terminar comiendo el cupcake en una banca junto al canal en lugar de en una mesa dentro del local.
 
-Para quienes tengan en mente un sabor específico de cupcake, llegar temprano ayuda por otra razón además de evitar el gentío: los sabores más populares pueden agotarse antes del cierre a las 16:00 en los días de mayor movimiento.
+Si se tiene en mente un sabor de cupcake en particular, ir temprano ayuda por otra razón además de evitar las multitudes: los sabores más populares pueden agotarse antes del cierre de las 4pm en los días de mayor movimiento.
 
 ## Qué más hay cerca
 
-La ubicación de Baked & Wired lo convierte en una parada complementaria antes que en un destino alrededor del cual armar todo el día. El sendero del Canal C&O queda lo bastante cerca como para un paseo antes o después del café, plano y con sombra, que corre junto al agua.
+Por su ubicación, Baked & Wired funciona más como una parada adicional que como un destino en torno al cual planear todo el día. El sendero del Canal C&O queda lo bastante cerca como para dar un paseo antes o después del café, un recorrido llano y con sombra a lo largo del agua.
 
-El campus de la Universidad de Georgetown está a poca distancia caminando cuesta arriba, y la zona comercial de M Street y Wisconsin Avenue reúne de todo, desde grandes cadenas hasta boutiques más pequeñas. El Georgetown Waterfront Park, justo sobre el Potomac, es otra parada sencilla para quienes quieran disfrutar de una vista del río y, del otro lado del agua, del Kennedy Center en Foggy Bottom.
+El campus de la Universidad de Georgetown está a poca distancia a pie cuesta arriba, y la zona comercial de M Street y Wisconsin Avenue reúne desde grandes cadenas hasta boutiques más pequeñas. El Georgetown Waterfront Park, justo sobre el Potomac, es otra parada sencilla si se busca una vista del río y del Kennedy Center, al otro lado del agua, en Foggy Bottom.
 
 ## El veredicto sobre precio y ritmo
 
-Con un nivel de precios moderado dentro de la categoría de cafeterías de Washington DC, Baked & Wired no es el local más económico de Georgetown, pero tampoco está pensado para presupuestos de alta gastronomía. Conviene esperar un gasto en la parte alta por un cupcake especial y un café, en línea con otras cafeterías-panaderías de estilo artístico en barrios tan caros como este.
+Con un nivel de precios moderado para el rubro de cafeterías de DC, Baked & Wired no es la opción más barata de Georgetown, pero tampoco apunta a presupuestos de alta cocina. Los precios están en línea con los de otras cafeterías-panaderías de estilo artístico en barrios igual de exclusivos.
 
-El ritmo se parece más al de un local de barrio que al de una parada turística: no hay reservas ni sistema formal de espera, solo el mostrador y los asientos que estén libres en ese momento. Con una calificación que se mantiene alta a lo largo de miles de reseñas, queda claro que se trata de un lugar muy conocido y no de un hallazgo secreto, así que conviene planear el horario de la visita en vez de confiar en encontrarlo vacío por casualidad.
+El ritmo del lugar se parece más al de un sitio de barrio que al de una parada turística: no hay reservas ni sistema formal de espera, solo el mostrador y los asientos que estén libres. Con una calificación que se mantiene alta a lo largo de miles de reseñas, queda claro que es un lugar conocido y no un hallazgo secreto, así que conviene planificar el horario de la visita en lugar de confiar en encontrarlo tranquilo por casualidad.

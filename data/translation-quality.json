@@ -560,11 +560,11 @@
   "at": "2026-09-21T07:58:01.719Z"
  },
  "es/bali-bajra-sandhi-monument": {
-  "hash": "86d71b0ab41e",
+  "hash": "a8376f2bc1f1",
   "score": 1,
   "registerBreak": false,
-  "worst": "Como el monumento se encuentra en medio de una plaza con forma de rotonda, conviene calcular unos minutos extra",
-  "at": "2026-09-21T07:58:03.685Z"
+  "worst": "Los datos de afluencia de fin de semana son concretos: la actividad tiende a aumentar a media mañana",
+  "at": "2026-09-27T08:19:10.442Z"
  },
  "es/bali-bali-botanical-garden": {
   "hash": "273db734dbbe",
@@ -8064,11 +8064,11 @@
   "at": "2026-09-21T08:01:30.124Z"
  },
  "ja/bali-bajra-sandhi-monument": {
-  "hash": "fa2d3e5e6e26",
+  "hash": "76c8051c0184",
   "score": 1,
   "registerBreak": false,
-  "worst": "この記念塔は、様々な歴史的時代を通じたバリの人々の苦闘を記念するものであり、レノンの中心的なシンボルとして立っています",
-  "at": "2026-09-21T07:58:18.258Z"
+  "worst": "記念塔はロータリー状の大きな広場の中央に位置しているため、交通の流れを横切って直接向かおうとするのではなく",
+  "at": "2026-09-27T08:19:34.870Z"
  },
  "ja/bali-bali-botanical-garden": {
   "hash": "06d03fd290dc",
@@ -15526,11 +15526,11 @@
   "at": "2026-09-21T07:58:20.052Z"
  },
  "ko/bali-bajra-sandhi-monument": {
-  "hash": "30314aad69cd",
+  "hash": "5e4ac3ea3bb9",
   "score": 1,
-  "registerBreak": false,
-  "worst": "이 기념관은 여러 역사적 시기를 거치며 발리 사람들이 겪은 투쟁을 기리는 곳으로, 덴파사르의 행정 구역인 레논의",
-  "at": "2026-09-21T07:58:27.045Z"
+  "registerBreak": true,
+  "worst": "레논은 덴파사르의 행정·관공서 지구이다 보니, 기념탑 주변 거리는... 넓고 정돈되어 있습니다.",
+  "at": "2026-09-27T08:19:46.455Z"
  },
  "ko/bali-bali-botanical-garden": {
   "hash": "d1e57b330dff",
@@ -23163,11 +23163,11 @@
   "at": "2026-09-22T00:46:28.278Z"
  },
  "zh/bali-bajra-sandhi-monument": {
-  "hash": "5efa59bc3f7f",
+  "hash": "87a1acda77a7",
   "score": 1,
   "registerBreak": false,
-  "worst": "不妨把上午晚些时候当作要避开的时段，把下午早些时候当作最佳到访窗口。",
-  "at": "2026-09-21T07:58:41.900Z"
+  "worst": "这才是“看到一座钟形建筑”和“真正理解它纪念的是什么”之间的区别。",
+  "at": "2026-09-27T08:19:51.211Z"
  },
  "zh/bali-bali-botanical-garden": {
   "hash": "7c29eba91358",
@@ -29666,11 +29666,11 @@
   "at": "2026-09-22T00:47:27.949Z"
  },
  "es/al-ain-al-ain-central-market": {
-  "hash": "f5a5ee32416a",
+  "hash": "1d0eb9fa4cf7",
   "score": 1,
   "registerBreak": false,
-  "worst": "Los números arábigos en las pantallas de las básculas pueden resultar confusos si no está familiar",
-  "at": "2026-09-22T07:58:18.936Z"
+  "worst": "la única fuente fiable es el propio cartel del mercado o preguntar directamente al vendedor",
+  "at": "2026-09-27T08:19:08.048Z"
  },
  "es/ayutthaya-chao-phrom-market": {
   "hash": "53248b8f2fdb",
@@ -29687,11 +29687,11 @@
   "at": "2026-09-22T07:58:22.798Z"
  },
  "ja/al-ain-al-ain-central-market": {
-  "hash": "d8883629b7c2",
+  "hash": "ebe484d6326f",
   "score": 1,
   "registerBreak": false,
-  "worst": "はかりのデジタル表示に使われるアラビア数字は、慣れていないと読み取りにくいことがあるので",
-  "at": "2026-09-22T08:00:34.200Z"
+  "worst": "はかりのデジタル表示に使われるアラビア数字は、慣れていないと読み取りにくいことがあるので、目分量で重さを推測する",
+  "at": "2026-09-27T08:19:28.761Z"
  },
  "ja/ayutthaya-chao-phrom-market": {
   "hash": "4144038f2207",
@@ -29708,11 +29708,11 @@
   "at": "2026-09-22T07:58:55.059Z"
  },
  "ko/al-ain-al-ain-central-market": {
-  "hash": "5f3967feb846",
+  "hash": "c81d46a9a3c6",
   "score": 1,
   "registerBreak": false,
-  "worst": "일상적인 시장으로서 거의 1,200건에 달하는 리뷰에서 4.4점을 받은 것은 상당히 높은 평가입니다.",
-  "at": "2026-09-22T08:00:36.789Z"
+  "worst": "거의 1,200개에 달하는 리뷰에서 4.4점을 기록한 것은 일상적인 시장치고는 상당히 높은 점수이며",
+  "at": "2026-09-27T08:20:27.555Z"
  },
  "ko/ayutthaya-chao-phrom-market": {
   "hash": "19c48669bdb6",
@@ -29722,11 +29722,11 @@
   "at": "2026-09-22T07:59:09.963Z"
  },
  "zh/al-ain-al-ain-central-market": {
-  "hash": "250d08eb744a",
+  "hash": "a544aa0863f8",
   "score": 1,
   "registerBreak": false,
-  "worst": "这在一个不少商铺都会因祈祷或午休而歇业数小时的城市里，实属难得。",
-  "at": "2026-09-22T07:59:28.246Z"
+  "worst": "这在一个不少店铺会因祈祷时间或午休而关门几个小时的城市里，算是相当方便。",
+  "at": "2026-09-27T08:20:29.281Z"
  },
  "zh/ayutthaya-chao-phrom-market": {
   "hash": "9262eece8402",
@@ -30070,5 +30070,33 @@
   "registerBreak": false,
   "worst": "로지아는 산책길 중 한 지점으로 들르기에 좋은 곳이고, 주변 거리들이 그런 산책을 쉽게 만들어 줍니다.",
   "at": "2026-09-26T08:00:26.037Z"
+ },
+ "es/abu-dhabi-formula-1-etihad-airways-abu-dhabi-grand-prix-2026": {
+  "hash": "915bf56365c6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "conviene contar con colas en los horarios de mayor salida, especialmente justo despué",
+  "at": "2026-09-27T08:19:00.382Z"
+ },
+ "ja/abu-dhabi-formula-1-etihad-airways-abu-dhabi-grand-prix-2026": {
+  "hash": "658af791258c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "タイトルの行方がすでに決まっている年でも、シーズンを締めくくる特別な雰りが漂います。",
+  "at": "2026-09-27T08:19:21.802Z"
+ },
+ "ko/abu-dhabi-formula-1-etihad-airways-abu-dhabi-grand-prix-2026": {
+  "hash": "9c4f4a5f489d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "메인 세션 사이사이는 대개 서포트 시리즈 경기들로 채워지기 때문에, 금요일 오전부터 시작되면 트랙이 오래 조용해지는 일은 거의 없습니다.",
+  "at": "2026-09-27T08:19:37.169Z"
+ },
+ "zh/abu-dhabi-formula-1-etihad-airways-abu-dhabi-grand-prix-2026": {
+  "hash": "612f75842445",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "由于座位图和票种权益每年都会有所调整，选定票种前，务必到阿布扎比大奖赛官方网站核对最新的看台方案。",
+  "at": "2026-09-27T08:19:48.169Z"
  }
 }

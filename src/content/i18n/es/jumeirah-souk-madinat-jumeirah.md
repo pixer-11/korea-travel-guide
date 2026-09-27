@@ -1,68 +1,68 @@
 ---
 lang: es
 slug: jumeirah-souk-madinat-jumeirah
-srcHash: '8ab2ea96358e'
+srcHash: '9657cd7e8d7c'
 title: 'Souk Madinat Jumeirah: guía de viaje (4,5★)'
-description: El Souk Madinat Jumeirah es un zoco cubierto de estilo árabe en Al Sufouh, Jumeirah, abierto todos los días de 10:00 a 23:00, con tiendas y restaurantes bajo arcadas de madera junto a canales con vistas al Burj Al Arab. Descubre aquí la valoración de 4,5★ (25.889 reseñas), qué opinan los visitantes, los horarios y algunos consejos prácticos.
-quickAnswer: El Souk Madinat Jumeirah es un zoco cubierto de estilo árabe situado en Al Sufouh, Jumeirah, abierto todos los días de 10:00 a 23:00. Sus tiendas y restaurantes se reparten bajo arcadas de madera junto a canales con vistas al Burj Al Arab. El momento más tranquilo para visitarlo es entre las 10:00 y las 14:00 los días de semana, y entre las 10:00 y las 13:00 los fines de semana. Conviene evitar los fines de semana entre las 16:00 y las 23:00, cuando la afluencia es máxima.
+description: 'Souk Madinat Jumeirah es un zoco cubierto de estilo árabe situado en Al Sufouh, Jumeirah, abierto todos los días de 10:00 a 23:00, con tiendas y restaurantes bajo galerías de madera junto a canales con vistas al Burj Al Arab. 4,5★ (25.889 reseñas): lo que dicen los visitantes, horarios y consejos.'
+quickAnswer: Souk Madinat Jumeirah es un zoco cubierto de estilo árabe situado en Al Sufouh, Jumeirah, abierto todos los días de 10:00 a 23:00, con tiendas y restaurantes bajo galerías de madera junto a canales con vistas al Burj Al Arab. El momento de menor afluencia es de 10:00 a 14:00 entre semana y de 10:00 a 13:00 los fines de semana. Conviene evitar los fines de semana de 16:00 a 23:00, cuando la afluencia es máxima.
 faq:
-  - q: ¿Cuál es el mejor momento para visitar el Souk Madinat Jumeirah sin aglomeraciones?
-    a: Los días de semana de 10:00 a 14:00 y los fines de semana de 10:00 a 13:00. Conviene evitar los fines de semana entre las 16:00 y las 23:00, el tramo de mayor afluencia.
+  - q: ¿Cuál es el mejor momento para visitar Souk Madinat Jumeirah sin aglomeraciones?
+    a: Entre semana de 10:00 a 14:00, y los fines de semana de 10:00 a 13:00. Conviene evitar los fines de semana de 16:00 a 23:00, que es el tramo de mayor afluencia.
   - q: ¿Cuál es el horario de apertura?
-    a: El zoco abre todos los días de la semana de 10:00 a 23:00. Cada restaurante puede tener, no obstante, su propio horario.
+    a: El zoco abre todos los días de la semana de 10:00 a 23:00. Cada restaurante puede tener su propio horario particular.
   - q: ¿Cómo se llega en transporte público?
-    a: No hay ninguna estación de metro a distancia a pie. Lo mejor es tomar la Línea Roja hasta la estación Mall of the Emirates y completar el trayecto con un breve trayecto en taxi hasta Al Sufouh.
-  - q: ¿Es el Souk Madinat Jumeirah un zoco tradicional auténtico?
-    a: No. Se construyó desde cero en la década de 2000 como parte del complejo Madinat Jumeirah, imitando el estilo árabe tradicional. Cuenta con aire acondicionado y la mayoría de las tiendas tienen precios fijos.
+    a: No hay ninguna estación de metro a poca distancia a pie. Lo mejor es tomar la Línea Roja hasta la estación de Mall of the Emirates y completar el trayecto con un breve viaje en taxi hasta Al Sufouh.
+  - q: ¿Es Souk Madinat Jumeirah un zoco tradicional auténtico?
+    a: No. Se construyó especialmente en la década de 2000 como parte del resort Madinat Jumeirah, siguiendo el estilo árabe tradicional. Cuenta con aire acondicionado y la mayoría de las tiendas tienen precios fijos.
   - q: ¿Cuánto tiempo conviene dedicarle a la visita?
-    a: Calcula unas dos horas para recorrerlo con calma y tomar algo junto a los canales. Si te quedas a cenar en algún restaurante junto al agua, reserva la tarde entera.
+    a: Calcule unas dos horas para recorrer las tiendas y tomar algo junto a los canales. Si piensa quedarse a cenar en un restaurante junto al agua, reserve toda una tarde-noche.
 ---
 
 ## Bajo el techo de madera
 
-Lo primero es mirar hacia arriba. Los pasillos del Souk Madinat Jumeirah transcurren bajo vigas de madera oscura y celosías, con hileras de faroles colgando del techo. Los muros de tono arenoso se elevan hasta formar torres de viento, las antiguas chimeneas de ventilación del Golfo conocidas como barjeel. Aquí cumplen sobre todo una función decorativa, ya que todo el zoco cuenta con aire acondicionado.
+Lo primero, mire hacia arriba. Los callejones de Souk Madinat Jumeirah discurren bajo vigas de madera oscura y celosías, con hileras de faroles colgando del techo. Los muros color arena se elevan hasta formar torres de viento, las antiguas chimeneas de ventilación del Golfo conocidas como barjeel. Aquí cumplen sobre todo una función decorativa, ya que todo el zoco cuenta con aire acondicionado.
 
-Conviene tener claro de qué se trata antes de ir. Se construyó desde cero en la década de 2000 como parte del complejo hotelero Madinat Jumeirah, junto a los hoteles Al Qasr y Mina A'Salam. Es, en esencia, un centro comercial disfrazado de antiguo bazar, no un zoco de comercio real como los de Deira. Y ese es precisamente su atractivo: la estética de un zoco sin el calor que suele acompañarlos.
+Conviene tener claro de qué se trata antes de ir. Se construyó especialmente en la década de 2000 como parte del resort Madinat Jumeirah, junto a los hoteles Al Qasr y Mina A'Salam. Es, en realidad, un centro comercial disfrazado de antiguo bazar, no un zoco de comercio real como los de Deira. Y ese es precisamente su atractivo: la apariencia de un zoco sin el calor que lo acompaña.
 
-Se trata además de uno de los lugares más reseñados de Jumeirah: más de 25.000 visitantes lo han valorado de forma consistentemente positiva. Hay que contar con encontrarse acompañado.
+Es también uno de los lugares con más reseñas de Jumeirah: más de 25.000 visitantes lo han valorado de forma consistentemente positiva. Hay que contar con encontrar bastante gente.
 
 ## Cómo llegar a Al Sufouh
 
-El zoco se encuentra en la calle King Salman Bin Abdulaziz Al Saud, en Al Sufouh 1, en la zona costera de la ciudad. No hay ninguna estación de metro a distancia a pie, por lo que la mayoría de los visitantes llega en taxi o mediante una aplicación de transporte privado.
+El zoco se encuentra en King Salman Bin Abdulaziz Al Saud Street, en Al Sufouh 1, en el lado costero de la ciudad. No hay ninguna estación de metro a poca distancia a pie, así que la mayoría de los visitantes llega en taxi o mediante una aplicación de transporte privado.
 
-- **En metro más taxi:** toma la Línea Roja hasta la estación Mall of the Emirates y desde allí completa el trayecto en un breve viaje en taxi hacia la costa.
-- **En taxi desde el centro (Downtown) o desde la Marina:** basta con pedir "Souk Madinat Jumeirah"; cualquier taxista de Dubái lo conoce.
-- **En coche:** el complejo dispone de aparcamiento y servicio de valet. Conviene consultar las condiciones vigentes en la entrada, ya que pueden variar.
+- **En metro más taxi:** tome la Línea Roja hasta la estación de Mall of the Emirates y complete el trayecto con un breve viaje en taxi hacia la costa.
+- **En taxi desde Downtown o la Marina:** basta con pedir "Souk Madinat Jumeirah"; cualquier taxista de Dubái lo conoce.
+- **En coche:** el resort dispone de aparcamiento y servicio de valet. Conviene consultar las condiciones vigentes a la entrada, ya que pueden cambiar.
 
-## Cómo evitar las multitudes
+## Cómo evitar las aglomeraciones
 
-Las franjas más tranquilas son de 10:00 a 14:00 los días de semana y de 10:00 a 13:00 los fines de semana. En esos horarios los pasillos están despejados y los comerciantes tienen tiempo de explicar con calma lo que venden. Como las puertas abren a las 10:00 todos los días, llegar justo a esa hora permite disfrutar de las arcadas casi en solitario.
+Las franjas de menor afluencia son de 10:00 a 14:00 entre semana y de 10:00 a 13:00 los fines de semana. En esos horarios los callejones están despejados y los comerciantes tienen tiempo de explicar con calma su mercancía. Llegar justo a la hora de apertura es la forma más segura de encontrar las galerías tranquilas.
 
-Conviene evitar acudir un fin de semana entre las 16:00 y las 23:00: ese es el momento de mayor afluencia y las mesas junto al agua se ocupan rápidamente. El fin de semana en los Emiratos es sábado y domingo.
+Conviene evitar acudir un fin de semana entre las 16:00 y las 23:00. Ese es el tramo de máxima afluencia, y las mesas junto al agua se ocupan enseguida. En los Emiratos, el fin de semana es sábado y domingo.
 
-Si el objetivo es ver el Burj Al Arab al atardecer, lo mejor es acudir en día de semana por la tarde. Esa vista atrae a mucha gente, y los fines de semana coincide además con la mayor concentración de visitantes.
+Si lo que se busca es ver el Burj Al Arab al atardecer, lo mejor es ir un día laborable por la tarde. Esa vista es la que más gente busca, y los fines de semana coincide con la mayor afluencia.
 
-## Comprar, pagar y vestirse adecuadamente
+## Comprar, pagar y vestirse para el zoco
 
-Las tiendas se orientan sobre todo a los recuerdos y las piezas decorativas. Se encuentran lámparas de metal calado, pashminas, alfombras, especias, aceites de perfume y artículos de decoración de estilo árabe. La mayoría de los establecimientos exhibe precios fijos, y aquí el regateo intenso se practica menos que en los zocos más antiguos. Aun así, en los puestos más pequeños sigue siendo habitual preguntar con educación por un mejor precio al comprar varias piezas.
+Las tiendas se orientan sobre todo a recuerdos y piezas decorativas. Se pueden encontrar lámparas de metal calado, pashminas, alfombras, especias, aceites perfumados y artículos de decoración de estilo árabe. La mayoría de los establecimientos muestra precios fijos, y el regateo intenso se espera menos aquí que en los zocos más antiguos. Aun así, en los puestos más pequeños sigue siendo normal preguntar amablemente por un mejor precio al comprar varias piezas.
 
-- **Pagos:** las tarjetas y los pagos sin contacto se aceptan en casi todos los establecimientos, incluidos los restaurantes.
-- **Propinas:** conviene revisar primero si la cuenta ya incluye cargo por servicio. Si no lo incluye, es costumbre dejar alrededor de un 10 por ciento cuando el servicio ha sido bueno.
-- **Vestimenta:** se trata de un espacio familiar en un país de costumbres conservadoras. Lo más prudente es llevar los hombros y las rodillas cubiertos; el traje de baño debe reservarse para la playa.
-- **Fotografías:** la arquitectura se puede fotografiar libremente. Antes de fotografiar al personal o a otros visitantes, especialmente a mujeres, es mejor pedir permiso.
+- **Pago:** las tarjetas y los pagos sin contacto se aceptan prácticamente en todas partes, incluidos los restaurantes.
+- **Propinas:** conviene revisar primero la cuenta por si ya incluye cargo por servicio. Si no lo incluye, es habitual dejar en torno al 10 por ciento por un buen servicio.
+- **Vestimenta:** se trata de un espacio familiar en un país conservador. Lo más prudente es llevar hombros y rodillas cubiertos; el bañador debe quedar reservado para la playa.
+- **Fotografías:** la arquitectura puede fotografiarse libremente. Antes de fotografiar al personal o a otros visitantes, especialmente mujeres, es preferible pedir permiso.
 
-Es habitual enviar a casa alfombras o lámparas de gran tamaño, y muchas tiendas se encargan de organizarlo. Conviene pedir por escrito los costes y los plazos de entrega antes de pagar.
+Es habitual enviar a casa alfombras o lámparas grandes, y muchas tiendas se encargan de organizarlo. Conviene pedir por escrito los costes y los plazos de entrega antes de pagar.
 
 ## Comer junto a los canales
 
-Restaurantes y cafeterías se suceden junto a los canales y los patios, y varios cuentan con terrazas orientadas al agua y al Burj Al Arab. La oferta gastronómica va de la cocina de Oriente Medio a propuestas internacionales. En cada entrada se exhiben las cartas con los precios actualizados, lo que permite comparar mientras se pasea.
+Restaurantes y cafés se alinean junto a los canales y los patios, y varios cuentan con terrazas frente al agua y al Burj Al Arab. La oferta gastronómica va de la cocina de Oriente Medio a propuestas internacionales. En cada entrada se exhiben las cartas con los precios actualizados, lo que permite comparar mientras se pasea.
 
-Para conseguir mesa en una terraza al atardecer, sobre todo en fin de semana, conviene reservar con antelación. Sin reserva se tiene mucha más suerte durante la franja tranquila del mediodía. Por los canales circulan además embarcaciones al estilo abra que dan servicio al complejo; es mejor preguntar en el propio resort sobre la disponibilidad actual en lugar de dar por sentado que se puede subir.
+Para conseguir una mesa en terraza al atardecer, especialmente en fin de semana, conviene reservar con antelación. Sin reserva, las opciones son mucho mejores durante la franja tranquila del mediodía. Por los propios canales circulan embarcaciones al estilo abra que dan servicio al resort. Es mejor preguntar en el resort por las condiciones de acceso vigentes en lugar de dar por hecho que se puede subir.
 
-Dentro del complejo se encuentra también el Madinat Theatre. Vale la pena revisar su programación si se quiere combinar la cena con algún espectáculo.
+Dentro del complejo también se encuentra el Madinat Theatre. Vale la pena consultar su programación si se quiere completar la cena con un espectáculo.
 
-## Más allá del zoco
+## Más allá de los muros del zoco
 
-El souk funciona mejor como una parada dentro de una tarde en la costa. El Burj Al Arab se ve desde las terrazas frente al agua y queda a solo unos minutos en coche. Entre las playas cercanas destaca Sunset Beach, en Umm Suqeim, conocida por su vista frontal del hotel con forma de vela. Kite Beach está un poco más adelante en la costa.
+El zoco funciona mejor como una parada dentro de una tarde en la costa. El Burj Al Arab se ve desde las terrazas junto al agua y queda a solo unos minutos en coche. Entre las playas cercanas está Sunset Beach, en Umm Suqeim, conocida por su vista frontal del hotel con forma de vela. Kite Beach queda un poco más adelante siguiendo la costa.
 
-Con dos horas es suficiente para recorrer el zoco con calma y tomar algo junto al agua. Si se añade la cena, la visita se convierte fácilmente en una velada completa. Si el tiempo obliga a buscar refugio bajo techo, Mall of the Emirates, con Ski Dubai en su interior, está a poca distancia en coche, tierra adentro.
+Con dos horas basta para recorrer bien las tiendas y tomar algo junto al agua. Si se añade la cena, la visita se convierte en una velada completa. Mall of the Emirates, con Ski Dubai en su interior, está a un corto trayecto en coche tierra adentro, por si el clima obliga a buscar un plan bajo techo.

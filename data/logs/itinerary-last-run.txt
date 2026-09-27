@@ -1,6 +1,8 @@
 SKIP new city "Lyon" — weekly new-city cap (2/7d) reached
 SKIP new city "Paris" — weekly new-city cap (2/7d) reached
+SKIP new city "San Francisco" — weekly new-city cap (2/7d) reached
 SKIP new city "Seattle" — weekly new-city cap (2/7d) reached
+SKIP new city "Washington DC" — weekly new-city cap (2/7d) reached
 
 Seoul, South Korea — 27 qualifying post(s), variants: 3, 5
   = Seoul 3d — unchanged, skipping

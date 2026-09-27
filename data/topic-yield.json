@@ -18,8 +18,8 @@
    "hits": 9
   },
   "art gallery": {
-   "attempts": 60,
-   "hits": 8
+   "attempts": 61,
+   "hits": 9
   },
   "night view": {
    "attempts": 56,
@@ -38,16 +38,16 @@
    "hits": 0
   },
   "old quarter": {
-   "attempts": 31,
-   "hits": 6
+   "attempts": 42,
+   "hits": 16
   },
   "local market": {
-   "attempts": 157,
-   "hits": 58
+   "attempts": 166,
+   "hits": 60
   },
   "bookshop": {
-   "attempts": 23,
-   "hits": 3
+   "attempts": 30,
+   "hits": 6
   },
   "seafood": {
    "attempts": 63,
@@ -82,7 +82,7 @@
    "hits": 1
   },
   "concept cafe": {
-   "attempts": 31,
+   "attempts": 32,
    "hits": 0
   },
   "top attraction": {
@@ -94,7 +94,7 @@
    "hits": 0
   },
   "design shop": {
-   "attempts": 31,
+   "attempts": 32,
    "hits": 0
   },
   "Sisowath Quay Riverside": {
@@ -190,5 +190,5 @@
    "hits": 1
   }
  },
- "updated": "2026-09-26T12:19:47.556Z"
+ "updated": "2026-09-27T07:51:59.905Z"
 }
