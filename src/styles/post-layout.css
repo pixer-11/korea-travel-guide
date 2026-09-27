@@ -28,7 +28,37 @@
     padding-top: 0.25rem;
     scrollbar-width: thin;
   }
+
+  /* 본문을 한 장의 카드로 (2026-09-28, 픽서님 요청). 넓은 화면에서 글자가
+     물결무늬 배경 위에 그대로 떠 있고 오른쪽만 카드라 좌우 무게가 안 맞았다.
+     윗칸(제목·사진·요약)과 아랫칸(본문)이 격자의 두 칸이라, 같은 면을 주고
+     위·아래 모서리만 둥글려 이어 붙인다 — 칸 사이 간격은 0이라 한 장으로 읽힌다.
+     카드 안쪽 여백만큼 이 페이지만 넓혀서 글 한 줄 길이는 그대로 둔다. */
+  .article.article--post { max-width: calc(var(--max) + 2 * var(--post-card-pad)); }
+  .post-grid {
+    --post-card-pad: 2.5rem;
+    grid-template-columns: minmax(0, calc(var(--max-prose) + 2 * var(--post-card-pad))) 300px;
+  }
+  .post-top, .post-body {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    padding-inline: var(--post-card-pad);
+  }
+  .post-top {
+    border-bottom: 0;
+    border-radius: var(--r-lg) var(--r-lg) 0 0;
+    padding-top: 2.25rem;
+  }
+  .post-body {
+    border-top: 0;
+    border-radius: 0 0 var(--r-lg) var(--r-lg);
+    padding-bottom: 2.5rem;
+  }
+  /* 카드 안의 사진은 테두리 한 줄로 — 그림자까지 두면 카드 속 카드가 된다. */
+  .post-grid .article-hero { box-shadow: none; border: 1px solid var(--line-soft); }
 }
+/* max-width 계산이 격자 밖(.article)에서도 같은 값을 쓰도록 */
+.article.article--post { --post-card-pad: 2.5rem; }
 
 /* ── Editor line ── */
 .post-byline { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.2rem 0.45rem; margin-top: 0.7rem; font-size: 0.9rem; color: var(--muted); }
