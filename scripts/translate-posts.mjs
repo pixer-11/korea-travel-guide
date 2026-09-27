@@ -41,7 +41,18 @@ import { unescapeEntities } from './lib/unescape-entities.mjs';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const OUT = fileURLToPath(new URL('../src/content/i18n/', import.meta.url));
-const MODEL = process.env.TRANSLATE_MODEL || 'claude-sonnet-5';
+// Opus 5.5 since 2026-09-28: a blind A/B on 12 live translations (3 posts x 4
+// languages, judged by Codex against the English source) went 12-0, accuracy
+// 8.4 vs 7.0, naturalness 8.5 vs 6.7; Sonnet invented proper names (Gao Family
+// Mansion -> "가부장원"). Through the batch below it costs what Sonnet did at
+// full price. TRANSLATE_MODEL=claude-sonnet-5 sends byte-for-byte the old request.
+const MODEL = process.env.TRANSLATE_MODEL || 'claude-opus-5-5';
+// Opus 5.5 answers a forced tool_choice with HTTP 400 and always thinks, which
+// draws on max_tokens (the writer hit both, 2026-09-24). Only these depend on
+// the model; the tool-only line is what 'auto' needs so a reply is never prose.
+const NO_FORCED_TOOL = /opus-5-5|fable-5|mythos-5/.test(MODEL);
+const toolChoice = (name) => (NO_FORCED_TOOL ? { type: 'auto' } : { type: 'tool', name });
+const toolOnly = (name) => (NO_FORCED_TOOL ? `\n\nAnswer ONLY by calling the ${name} tool. Do not reply with plain text.` : '');
 const CONCURRENCY = Number(process.env.TRANSLATE_CONCURRENCY || 4);
 
 const LANGS = { ko: 'Korean', ja: 'Japanese', es: 'Spanish', zh: 'Simplified Chinese' };
@@ -228,15 +239,15 @@ async function translateFaqOnly(langCode, data) {
   try {
     const msg = await client.messages.create({
       model: MODEL,
-      max_tokens: 4000,
+      max_tokens: NO_FORCED_TOOL ? 12000 : 4000,
       tools: [FAQ_TOOL],
-      tool_choice: { type: 'tool', name: 'submit_faq' },
+      tool_choice: toolChoice('submit_faq'),
       messages: [{
         role: 'user',
         content:
           `Translate these ${data.faq.length} FAQ entries into ${LANGS[langCode]}. ` +
           `Return exactly ${data.faq.length}, in the same order. Keep place names and dates as written. ` +
-          `Call submit_faq.\n\n${JSON.stringify(data.faq)}`,
+          `Call submit_faq.\n\n${JSON.stringify(data.faq)}` + toolOnly('submit_faq'),
       }],
     });
     if (msg.stop_reason === 'max_tokens') return null;
@@ -260,10 +271,11 @@ function translateParams(langCode, data) {
     // the schema — faq above all — came back empty. bangkok-the-grand-palace
     // (9KB source) failed its faq three retries in a row for exactly this
     // reason; the retries could never succeed, because the ceiling was the cause.
-    max_tokens: 16000,
+    // Opus: 24000 leaves room for its thinking on top of the longest body.
+    max_tokens: NO_FORCED_TOOL ? 24000 : 16000,
     tools: [TOOL],
-    tool_choice: { type: 'tool', name: 'submit_translation' },
-    messages: [{ role: 'user', content: prompt(LANGS[langCode], data) }],
+    tool_choice: toolChoice('submit_translation'),
+    messages: [{ role: 'user', content: prompt(LANGS[langCode], data) + toolOnly('submit_translation') }],
   };
 }
 

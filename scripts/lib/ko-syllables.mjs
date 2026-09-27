@@ -21,7 +21,9 @@ const KO_WANSUNG = new Set(readFileSync(new URL('../../src/data/ko-wansung.txt',
 // Exported: scripts/fix-broken-syllables.mjs reads THIS set rather than keeping
 // its own copy. Two copies drifted apart once already — the fixer repaired a
 // syllable the audit still called broken, so the warning never cleared.
-export const KO_EXTENDED_OK = new Set([...'웻똠쩻뻄뻭녓얙뻉뜽냣셱췩']);
+// 뱡: 뱡뱡면 (biangbiang noodles, Xi'an) — the gate held a correct Opus
+// translation of xi-an-beiyuanmen on it (2026-09-28 A/B).
+export const KO_EXTENDED_OK = new Set([...'웻똠쩻뻄뻭녓얙뻉뜽냣셱췩뱡']);
 
 // Every broken syllable in `text`, each with a little context so a human can see
 // the word it belongs to.
