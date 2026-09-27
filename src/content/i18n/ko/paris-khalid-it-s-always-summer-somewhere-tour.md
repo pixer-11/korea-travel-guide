@@ -2,7 +2,7 @@
 lang: ko
 slug: paris-khalid-it-s-always-summer-somewhere-tour
 srcHash: '4c2084254b73'
-title: '칼리드(Khalid) &lt;It''s Always Summer Somewhere&gt; 투어: 파리 공연 날짜, 티켓, 공연장 안내'
+title: '칼리드(Khalid) <It''s Always Summer Somewhere> 투어: 파리 공연 날짜, 티켓, 공연장 안내'
 description: 칼리드의 'It's Always Summer Somewhere' 투어가 2026년 10월 18일 프랑스 파리에서 열립니다. 공연 개요와 일정, 장소, 그리고 관람 준비 방법을 안내합니다.
 quickAnswer: 칼리드의 'It's Always Summer Somewhere' 투어 파리 공연은 2026년 10월 18일, 8구에 위치한 살 플레옐(Salle Pleyel)에서 열립니다. 파리 공연은 하루뿐이고 연속 공연이 아니므로 단 한 번뿐인 공연으로 생각하고, 여행 계획을 세우기 전에 공식 사이트에서 시간과 티켓 정보를 반드시 확인하시기 바랍니다. 살 플레옐은 샹젤리제 인근에 위치한 좌석제 콘서트홀이라, 아레나 공연과는 분위기가 사뭇 다를 것입니다.
 faq:

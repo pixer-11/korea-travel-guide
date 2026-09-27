@@ -36,6 +36,8 @@ import { koMangledSyllables } from './lib/ko-syllables.mjs';
 import { scriptLeakFlags } from './lib/translation-leak.mjs';
 import { findToolSpill } from './lib/tool-spill.mjs';
 import { namedIds, translatable } from './lib/translate-scope.mjs';
+import { runBatch } from './lib/claude-batch.mjs';
+import { unescapeEntities } from './lib/unescape-entities.mjs';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const OUT = fileURLToPath(new URL('../src/content/i18n/', import.meta.url));
@@ -247,8 +249,11 @@ async function translateFaqOnly(langCode, data) {
   }
 }
 
-async function translateOne(langCode, srcId, data, hash, attempt = 1) {
-  const msg = await client.messages.create({
+// The one request a translation sends. Built in one place because the batch
+// path (first attempts, half price) and the direct path (retries, and the whole
+// run when there are few jobs) must send byte-for-byte the same thing.
+function translateParams(langCode, data) {
+  return {
     model: MODEL,
     // 8000 silently truncated the longest posts: the tool-use input was cut off
     // mid-JSON, the parser salvaged what it could, and the FIELDS AT THE END of
@@ -259,7 +264,13 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1) {
     tools: [TOOL],
     tool_choice: { type: 'tool', name: 'submit_translation' },
     messages: [{ role: 'user', content: prompt(LANGS[langCode], data) }],
-  });
+  };
+}
+
+// `pre` is a reply the batch already fetched for attempt 1. Every retry below
+// calls this again without it, so retries always go direct.
+async function translateOne(langCode, srcId, data, hash, attempt = 1, pre = null) {
+  const msg = pre || await client.messages.create(translateParams(langCode, data));
   const out = msg.content.find((c) => c.type === 'tool_use')?.input;
   // The faq-only call below already refuses a reply cut at the ceiling; the
   // main call did not, and body is the LAST field in the schema — a cut body
@@ -467,6 +478,12 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1) {
     throw new Error(`translation came back in the wrong language after ${attempt} attempts (${kinds}) — not written`);
   }
 
+  // Plain characters only in frontmatter (see lib/unescape-entities.mjs).
+  out.title = unescapeEntities(out.title);
+  out.description = unescapeEntities(out.description);
+  out.quickAnswer = unescapeEntities(out.quickAnswer);
+  if (Array.isArray(out.faq)) out.faq = out.faq.map((f) => (f && typeof f === 'object' ? { ...f, q: unescapeEntities(f.q), a: unescapeEntities(f.a) } : f));
+
   const fm = {
     lang: langCode,
     slug: srcId,
@@ -565,13 +582,26 @@ for (const f of files) {
 console.log(`${jobs.length} translation(s) to do across ${posts} post(s) · model ${MODEL} · concurrency ${CONCURRENCY}`);
 if (!jobs.length) { console.log('Nothing to translate — all up to date.'); process.exit(0); }
 
+// ── first attempts through the Message Batches API (half price) ─
+// Translation is most of the automation's Claude bill and nobody waits on it.
+// A big run (the daily publish, the weekly prose-repair wave) sends every first
+// attempt as one batch; whatever comes back is checked by exactly the same
+// gates below, and anything missing — batch late, errored, cancelled — is
+// translated directly as before. TRANSLATE_BATCH=0 turns it off.
+const BATCH_MIN = Number(process.env.TRANSLATE_BATCH_MIN || 8);
+const prefetched = process.env.TRANSLATE_BATCH !== '0' && jobs.length >= BATCH_MIN
+  ? await runBatch(client, jobs.map((j) => ({ id: `${j.lang}/${j.id}`, params: translateParams(j.lang, j.data) })), {
+      waitMin: Number(process.env.TRANSLATE_BATCH_WAIT_MIN || 90),
+    })
+  : new Map();
+
 // ── run with a small concurrency pool ────────────────────────
 let done = 0, failed = 0, next = 0;
 async function worker() {
   while (next < jobs.length) {
     const j = jobs[next++];
     try {
-      await translateOne(j.lang, j.id, j.data, j.hash);
+      await translateOne(j.lang, j.id, j.data, j.hash, 1, prefetched.get(`${j.lang}/${j.id}`) || null);
       done++;
       console.log(`  ✅ ${j.lang}/${j.id}  (${done}/${jobs.length})`);
     } catch (e) {

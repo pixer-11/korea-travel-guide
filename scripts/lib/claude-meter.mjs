@@ -26,8 +26,9 @@ import { claudeUsd, kstDay } from './claude-cost.mjs';
 
 const tally = new Map(); // `${day}\u0000${model}` -> counts
 
-/** Count one response. Anything that is not a Claude message is ignored. */
-export function meterRecord(res, at = new Date()) {
+/** Count one response. Anything that is not a Claude message is ignored.
+ *  `scale` prices it: 0.5 for a Message Batches result (half price), 1 otherwise. */
+export function meterRecord(res, at = new Date(), scale = 1) {
   try {
     if (!res || res.type !== 'message' || !res.usage) return;
     const model = res.model || '?';
@@ -42,7 +43,7 @@ export function meterRecord(res, at = new Date()) {
     t.searches += u.server_tool_use?.web_search_requests || 0;
     const usd = claudeUsd(model, u);
     if (usd === null) t.unpriced += 1;
-    else t.usd += usd;
+    else t.usd += usd * scale;
     tally.set(key, t);
   } catch { /* never let accounting break a caller */ }
 }
