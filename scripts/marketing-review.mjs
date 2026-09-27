@@ -41,8 +41,16 @@ async function gscData() {
     const q = (body) => fetch(`https://searchconsole.googleapis.com/webmasters/v3/sites/${encodeURIComponent(process.env.GSC_SITE_URL)}/searchAnalytics/query`, {
       method: 'POST', headers: { Authorization: `Bearer ${tok.access_token}`, 'Content-Type': 'application/json' }, body: JSON.stringify(body),
     }).then((r) => r.json());
-    const queries = await q({ startDate: day(-8), endDate: day(-1), dimensions: ['query'], rowLimit: 25 });
-    return { topQueries: (queries.rows ?? []).map((r) => ({ q: r.keys[0], clicks: r.clicks, imp: r.impressions, pos: Math.round(r.position * 10) / 10 })) };
+    // 노출이 몇 번뿐인 검색어는 근거가 아니다. 09-28 제안은 노출 3회짜리(그것도
+    // `+"wolmido pier" "wolmimunhwa-ro"` 같은 주소 수집기 모양)와 노출 1회짜리
+    // "17위"를 "1페이지 직전"이라며 맨 앞에 세웠다. 넉넉히 받아 MIN_IMP 이상만 넘긴다.
+    const MIN_IMP = 10;
+    const queries = await q({ startDate: day(-8), endDate: day(-1), dimensions: ['query', 'page'], rowLimit: 1000 });
+    const rows = (queries.rows ?? []).filter((r) => r.impressions >= MIN_IMP);
+    return {
+      note: `only queries with >= ${MIN_IMP} impressions in 7 days; smaller ones are noise, not evidence`,
+      topQueries: rows.slice(0, 25).map((r) => ({ q: r.keys[0], page: r.keys[1].replace(/^https?:\/\/[^/]+/, ''), clicks: r.clicks, imp: r.impressions, pos: Math.round(r.position * 10) / 10 })),
+    };
   } catch { return null; }
 }
 
@@ -62,9 +70,30 @@ async function main() {
   }
   let perf = null;
   try { perf = JSON.parse(await readFile('data/performance-log.json', 'utf8')).slice(-1)[0]; } catch {}
+  // 주간 기록이 멈추면 제안은 옛 숫자를 "이번 주 급상승"으로 읽는다(09-28: 09-20 기록이
+  // 실패해 2주 전 숫자로 "25뷰 급상승"을 제안했다). 나이를 붙이고, 8일 넘으면 빼고 이유만 남긴다.
+  // 이 숫자는 Cloudflare 페이지 조회라 봇이 섞인다 — 사람 수가 아니다.
+  if (perf?.week) {
+    const ageDays = Math.floor((Date.now() - Date.parse(`${perf.week}T00:00:00Z`)) / 86400000);
+    perf = ageDays > 8
+      ? { stale: true, week: perf.week, ageDays, note: 'weekly snapshot is stale — do NOT cite its risers/fallers as current' }
+      : { ...perf, ageDays, note: 'Cloudflare page loads incl. bots; a +20 riser is noise, not a trend' };
+  }
   const gsc = await gscData();
 
   const facts = {
+    // 맨 앞에 둔다 — 아래 DATA 는 6,000자에서 잘리므로 뒤에 두면 이 목록이 먼저 잘린다.
+    // 매주 같은 헛제안이 돌아왔다(09-14 판정 5건 중 월미도·스키마·링크가 09-28에 또 옴).
+    // 이 기계는 지난 판정을 모른다 — 그래서 이미 결론 난 것을 여기 적는다.
+    // 새 판정이 나면 여기에도. 근거: memory wa-weekly-marketing-verdicts-*, wa-closed-experiments.
+    already_settled: [
+      'Retitling / rewriting titles or meta descriptions for CTR: CLOSED 2026-09-21 as unmeasurable (6-post pilot never recrawled). Do not propose title/meta changes.',
+      'Related-post blocks (nearby posts in the same city + destination hub link) are automatic on every post. Do not propose adding internal links between posts of one city.',
+      'when-to-go month pages already link all 12 months of their country; climate data is a fixed multi-year average (NASA POWER), so a "refresh" changes nothing.',
+      'Google Business Profiles belong to the venues, not to us. Never propose editing one.',
+      'incheon-wolmi-theme-park is about the theme park, not Wolmido Pier; retitling it to "pier" would be false.',
+      'The public crowd API (/api/crowd.json) was withdrawn 2026-09-26 at BestTime\'s request. Never propose promoting it.',
+    ],
     posts_live: total,
     events_posts: events,
     posts_by_country: byCountry,
