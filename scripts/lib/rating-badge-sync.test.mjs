@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { resyncBadge, readBadge, differsOnlyInBadge } from './rating-badge-sync.mjs';
+import { resyncBadge, readBadge, differsOnlyInBadge, translationBadgeCurrent } from './rating-badge-sync.mjs';
 
 test('rewrites the English badge', () => {
   assert.equal(
@@ -101,4 +101,33 @@ test('a Spanish badge-only difference is still recognised for the re-stamp', () 
     differsOnlyInBadge('Una cueva. 4,2★ (27.451 reseñas): x', 'Una cueva. 4,4★ (31.926 reseñas): x'),
     true,
   );
+});
+
+test('a star written in words is still a badge (zh 星 / 星评分, ko 점, ja つ星)', () => {
+  // 266 Chinese descriptions wrote the star this way on 2026-09-28 and kept
+  // their day-one figures, because only "★" was recognised.
+  const cases = [
+    ['4.4星（29,423条评价）——游客怎么说', '4.5星（30,120条评价）——游客怎么说'],
+    ['4.4星评分（29,423条评价）', '4.5星评分（30,120条评价）'],
+    ['4.4점(리뷰 29,423건) — 방문객 후기', '4.5점(리뷰 30,120건) — 방문객 후기'],
+    ['4.4つ星(レビュー29,423件)', '4.5つ星(レビュー30,120件)'],
+  ];
+  for (const [before, after] of cases) {
+    assert.equal(resyncBadge(before, 4.5, 30120), after, before);
+    assert.deepEqual(readBadge(before), { rating: 4.4, total: 29423 }, before);
+  }
+  assert.ok(differsOnlyInBadge('4.4星（29,423条评价）——好', '4.5星（30,120条评价）——好'));
+});
+
+test('a worded star without a decimal rating is not a badge', () => {
+  assert.equal(readBadge('만족도 10점(만점 10점 중)'), null);
+  assert.equal(resyncBadge('만족도 10점(만점 10점 중)', 4.5, 100), null);
+});
+
+test('a translation is current when its badge carries the live figures or it quotes none', () => {
+  assert.equal(translationBadgeCurrent('4.5星（30,120条评价）——好', 4.5, 30120), true);
+  assert.equal(translationBadgeCurrent('4.4星（29,423条评价）——好', 4.5, 30120), false);
+  assert.equal(translationBadgeCurrent('시장 안내와 영업시간.', 4.5, 30120), true, 'no figures: nothing to be wrong');
+  // Rating-shaped but unreadable: never certify it.
+  assert.equal(translationBadgeCurrent('평점 4.4 (리뷰 29,423건)', 4.5, 30120), false);
 });

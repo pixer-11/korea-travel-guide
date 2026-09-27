@@ -21,8 +21,8 @@ import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import { join } from 'node:path';
 import matter from 'gray-matter';
-import { resyncBadge, readBadge, differsOnlyInBadge } from './lib/rating-badge-sync.mjs';
-import { srcHashOfPostFile } from './lib/src-hash.mjs';
+import { resyncBadge, readBadge, differsOnlyInBadge, translationBadgeCurrent } from './lib/rating-badge-sync.mjs';
+import { srcHashOfPostFile, storedHashIn } from './lib/src-hash.mjs';
 
 const POSTS = 'src/content/posts';
 const I18N = 'src/content/i18n';
@@ -114,9 +114,6 @@ for (const file of (await readdir(POSTS)).filter((f) => f.endsWith('.md'))) {
     const tRaw = await readFile(tf, 'utf8');
     const tParts = splitFrontmatter(tRaw);
     if (!tParts) continue;
-    const frontAfter = resyncBadge(tParts.front, rating, total);
-    if (!frontAfter) continue;
-
     // Re-stamp so the freshness check does not read a number-only edit as
     // "the English changed, re-translate everything".
     // Hash the FILE the way translate-posts reads it. This used to be built
@@ -125,7 +122,24 @@ for (const file of (await readdir(POSTS)).filter((f) => f.endsWith('.md'))) {
     // translator did not recognise and every badge edit re-queued all four
     // translations anyway (measured 2026-08-17: 11 of the 18 posts in the
     // 08-16 refresh were re-translated the next day). See srcHashOfPostFile.
-    const newHash = badgeOnly ? srcHashOfPostFile(enParts.head.replace(enParts.front, resyncBadge(enParts.front, rating, total) ?? enParts.front) + enParts.body) : null;
+    // And only a translation that WAS current before this edit: one already
+    // stale for another reason must stay stale, or the re-stamp would certify
+    // prose nobody re-translated (5 such in the 30 days to 2026-09-28).
+    const wasCurrent = storedHashIn(tRaw) === srcHashOfPostFile(enRaw);
+    const newHash = badgeOnly && wasCurrent ? srcHashOfPostFile(enParts.head.replace(enParts.front, resyncBadge(enParts.front, rating, total) ?? enParts.front) + enParts.body) : null;
+    let frontAfter = resyncBadge(tParts.front, rating, total);
+    if (!frontAfter) {
+      // Nothing to rewrite here — but the English badge moved, so without a
+      // re-stamp this translation reads as stale and is re-translated in full.
+      // Until 2026-09-28 that is exactly what happened whenever the translated
+      // figures were already right or the translation never quoted any. Only
+      // when its description is current (or figure-free) — never over a badge
+      // in a shape this tool cannot read.
+      let tDesc = '';
+      try { tDesc = matter(tRaw).data.description; } catch { continue; }
+      if (!newHash || !translationBadgeCurrent(tDesc, rating, total)) continue;
+      frontAfter = tParts.front;
+    }
     let front = frontAfter;
     if (newHash) {
       front = front.replace(/^(srcHash:\s*)(['"]?)[0-9a-f]{12}\2(\s*)$/m, `$1$2${newHash}$2$3`);
