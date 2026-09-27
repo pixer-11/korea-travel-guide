@@ -4,7 +4,7 @@
 // comes back empty is reported, not fatal; a send Telegram refused IS fatal,
 // or the job goes green on a report nobody received.
 import { exitIfSlotServed } from './lib/slot-served.mjs';
-import { botSurge } from './lib/bot-surge.mjs';
+import { headlineLines } from './lib/report-headline.mjs';
 import { sendTelegram } from './lib/telegram.mjs';
 
 // The report went out twice on 2026-08-29 (watchdog rescue 12:22, GitHub's
@@ -107,10 +107,11 @@ async function report(text) {
 }
 
 // Both collectors RETURN data (or null); main() composes ONE Telegram message.
-// Why two sources at all: Cloudflare RUM counts visitors that ad/tracker blockers
-// hide from Plausible (so its totals are the truer volume), while only Plausible
-// records behaviour — bounce, dwell time, affiliate clicks, referrer. Merging
-// gives one honest picture instead of two messages the reader has to reconcile.
+// Why two sources at all: Plausible is the real-visitor count (it skips bots and
+// the owner's own visits) and the only one with behaviour — bounce, dwell time,
+// affiliate clicks, referrer; Cloudflare RUM sees all traffic, bots included, and
+// gives the country and page tables. Merging gives one honest picture instead of
+// two messages the reader has to reconcile (headline order: lib/report-headline.mjs).
 async function cfReport() {
   if (!CF_API_TOKEN || !CF_ACCOUNT_ID) {
     console.error('CF_API_TOKEN / CF_ACCOUNT_ID missing.');
@@ -330,23 +331,9 @@ async function main() {
 
   const L = [`📊 Wander Atlas — 일일 리포트 (${dayLabel} UTC)`, ''];
 
-  // Headline volume: Cloudflare when available (blocker-proof), else Plausible.
-  if (cfOk) {
-    // A bot wave reads as a record day unless the line says otherwise. On
-    // 2026-09-18/19 this headline said 7,498 and 6,125 while the behaviour line
-    // underneath stayed at 41 and 34 — the owner had to ask whether any of it
-    // was real. When the two disagree by this much AND every session views one
-    // page, the headline is labelled where it is read (lib/bot-surge.mjs).
-    const surge = plOk ? botSurge(cf, pl) : { suspect: false };
-    L.push(`👥 방문 ${cf.visits.toLocaleString()}명 · 페이지뷰 ${cf.pageviews.toLocaleString()}${surge.suspect ? ' ⚠️ 봇 의심' : ''}`);
-    if (plOk) L.push(`   └ 행동 추적 가능분: ${pl.visitors.toLocaleString()}명 (광고차단 사용자는 제외됨)`);
-    if (surge.suspect) {
-      L.push(`   └ ⚠️ 위 방문 수는 봇으로 부풀려졌을 가능성이 높습니다 (${surge.why}) — 실제 규모는 아래 "행동 추적 가능분"으로 보세요`);
-    }
-  } else {
-    L.push(`👥 방문 ${pl.visitors.toLocaleString()}명 · 페이지뷰 ${pl.pageviews.toLocaleString()}`);
-    L.push(`   └ ⚠️ 전체 집계(Cloudflare) 실패 — 실제 방문은 이보다 많습니다`);
-  }
+  // Real visitors first, all traffic under it — see lib/report-headline.mjs.
+  L.push(...headlineLines(cfOk ? cf : null, plOk ? pl : null));
+
 
   if (plOk) {
     L.push(`⏱️ 평균 체류 ${koDuration(pl.dur)} · ↩️ 이탈률 ${pl.bounce}%`);

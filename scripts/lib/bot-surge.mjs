@@ -1,7 +1,8 @@
 // Is the headline visit count a crowd, or a bot wave?
 //
-// The daily report leads with Cloudflare's count because ad blockers hide real
-// people from Plausible, so Cloudflare is normally the truer volume. On
+// The daily report led with Cloudflare's count until 2026-09-28 (now real
+// visitors lead; lib/report-headline.mjs), and Cloudflare still sits right under
+// it, so a bot wave on that line must be named. On
 // 2026-09-18 and 09-19 that line read 7,498 and 6,125 visits — 90x the
 // fortnight's average — while the people-with-behaviour line underneath stayed
 // at 41 and 34, exactly where it had been all month. The owner read the
