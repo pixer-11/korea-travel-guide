@@ -1,60 +1,91 @@
 ---
-title: "Gion Corner: Kyoto Travel Guide (4.2★)"
-description: "Gion Corner is a small theatre on Hanamikoji Street in Kyoto's Gion district that squeezes seven traditional Japanese performing arts, including maiko dance, bunraku puppetry and kyogen comedy, into one short evening programme. 4.2★ (2,852 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Kyoto"
-category: "hidden-gem"
-pubDate: "2026-09-27T07:51:20.594Z"
+title: 'Gion Corner: Kyoto Travel Guide (4.2★)'
+description: >-
+  Gion Corner is a small theatre on Hanamikoji Street in Kyoto's Gion district
+  that squeezes seven traditional Japanese performing arts, including maiko
+  dance, bunraku puppetry and kyogen comedy, into one short evening programme.
+  4.2★ (2,853 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Kyoto
+category: hidden-gem
+pubDate: '2026-09-27T07:51:20.594Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/A_view_of_Gion_corner_in_Geisha_district%2C_Kyoto%2C_Japan.jpg/3840px-A_view_of_Gion_corner_in_Geisha_district%2C_Kyoto%2C_Japan.jpg"
-  credit: "Photo: Joli Rumi / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:A_view_of_Gion_corner_in_Geisha_district,_Kyoto,_Japan.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/A_view_of_Gion_corner_in_Geisha_district%2C_Kyoto%2C_Japan.jpg/3840px-A_view_of_Gion_corner_in_Geisha_district%2C_Kyoto%2C_Japan.jpg
+  credit: 'Photo: Joli Rumi / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:A_view_of_Gion_corner_in_Geisha_district,_Kyoto,_Japan.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Gion_Corner_Bunraku_Puppet_Play.jpg"
-    credit: "Photo: sodai gomi / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Gion_Corner_Bunraku_Puppet_Play.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/3/3e/Gion_Corner_Bunraku_Puppet_Play.jpg
+    credit: 'Photo: sodai gomi / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Gion_Corner_Bunraku_Puppet_Play.jpg
 place:
-  id: "ChIJfwHp8MAIAWARSg0O3EYOO7o"
-  name: "Gion Corner"
-  address: "570-2 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074, Japan"
+  id: ChIJfwHp8MAIAWARSg0O3EYOO7o
+  name: Gion Corner
+  address: '570-2 Gionmachi Minamigawa, Higashiyama Ward, Kyoto, 605-0074, Japan'
   rating: 4.2
-  userRatingsTotal: 2852
-  googleMapsUrl: "https://maps.google.com/?cid=13419335212182932810&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2853
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13419335212182932810&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 35.001393
   lng: 135.7755068
-  phone: "+81 75-561-1119"
+  phone: +81 75-561-1119
   openingHours:
-    - "Monday: 5:30 – 8:00 PM"
-    - "Tuesday: 5:30 – 8:00 PM"
-    - "Wednesday: 5:30 – 8:00 PM"
-    - "Thursday: 5:30 – 8:00 PM"
-    - "Friday: 5:30 – 8:00 PM"
-    - "Saturday: 5:30 – 8:00 PM"
-    - "Sunday: 5:30 – 8:00 PM"
+    - 'Monday: 5:30 – 8:00 PM'
+    - 'Tuesday: 5:30 – 8:00 PM'
+    - 'Wednesday: 5:30 – 8:00 PM'
+    - 'Thursday: 5:30 – 8:00 PM'
+    - 'Friday: 5:30 – 8:00 PM'
+    - 'Saturday: 5:30 – 8:00 PM'
+    - 'Sunday: 5:30 – 8:00 PM'
 tags:
-  - "kyoto"
-  - "old quarter"
-quickAnswer: "Gion Corner is a small theatre on Hanamikoji Street in Kyoto's Gion district that squeezes seven traditional Japanese performing arts, including maiko dance, bunraku puppetry and kyogen comedy, into one short evening programme. It opens daily from 5:30 to 8:00 PM, it's a 5 to 10 minute walk from Gion-Shijo Station, and you should book ahead on the official site, which also posts current show times and ticket prices."
+  - kyoto
+  - old quarter
+quickAnswer: >-
+  Gion Corner is a small theatre on Hanamikoji Street in Kyoto's Gion district
+  that squeezes seven traditional Japanese performing arts, including maiko
+  dance, bunraku puppetry and kyogen comedy, into one short evening programme.
+  It opens daily from 5:30 to 8:00 PM, it's a 5 to 10 minute walk from
+  Gion-Shijo Station, and you should book ahead on the official site, which also
+  posts current show times and ticket prices.
 faq:
-  - q: "How do I get to Gion Corner?"
-    a: "Take the Keihan Main Line to Gion-Shijo Station, or the Hankyu Line to Kyoto-Kawaramachi. Walk east on Shijo-dori, then turn south onto Hanamikoji. The theatre is in Yasaka Hall, at 570-2 Gionmachi Minamigawa, about 10 minutes on foot."
-  - q: "What time is Gion Corner open?"
-    a: "The hall is open daily from 5:30 to 8:00 PM, including weekends. Individual show times can change, so check the official website before you go."
-  - q: "How long is the Gion Corner show?"
-    a: "It takes about an hour. Seven arts are covered in short segments: maiko dance, tea ceremony, ikebana, koto, gagaku, kyogen and bunraku."
-  - q: "Do I need to book in advance?"
-    a: "It's strongly recommended, especially in the spring and autumn peak seasons. The official Gion Corner website sells tickets and posts current prices."
-  - q: "What is there to do near Gion Corner?"
-    a: "Kennin-ji temple sits at the southern end of Hanamikoji. Yasaka Shrine is at the eastern end of Shijo-dori. The Shirakawa canal and Pontocho alley are both within easy walking distance for dinner after the show."
+  - q: How do I get to Gion Corner?
+    a: >-
+      Take the Keihan Main Line to Gion-Shijo Station, or the Hankyu Line to
+      Kyoto-Kawaramachi. Walk east on Shijo-dori, then turn south onto
+      Hanamikoji. The theatre is in Yasaka Hall, at 570-2 Gionmachi Minamigawa,
+      about 10 minutes on foot.
+  - q: What time is Gion Corner open?
+    a: >-
+      The hall is open daily from 5:30 to 8:00 PM, including weekends.
+      Individual show times can change, so check the official website before you
+      go.
+  - q: How long is the Gion Corner show?
+    a: >-
+      It takes about an hour. Seven arts are covered in short segments: maiko
+      dance, tea ceremony, ikebana, koto, gagaku, kyogen and bunraku.
+  - q: Do I need to book in advance?
+    a: >-
+      It's strongly recommended, especially in the spring and autumn peak
+      seasons. The official Gion Corner website sells tickets and posts current
+      prices.
+  - q: What is there to do near Gion Corner?
+    a: >-
+      Kennin-ji temple sits at the southern end of Hanamikoji. Yasaka Shrine is
+      at the eastern end of Shijo-dori. The Shirakawa canal and Pontocho alley
+      are both within easy walking distance for dinner after the show.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-27'
 ---
 
 ## Seven arts before dinner

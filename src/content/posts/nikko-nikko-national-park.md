@@ -1,15 +1,20 @@
 ---
 title: 'Nikko National Park: Travel Guide (4.4★)'
-description: Nikko National Park sprawls far beyond the famous shrines, up into the volcanic highlands around Lake Chuzenji, Kegon Falls, and the marshy plateau of Senjogahara. 4.4★ (943 reviews) — what visitors say, hours, and tips.
+description: >-
+  Nikko National Park sprawls far beyond the famous shrines, up into the
+  volcanic highlands around Lake Chuzenji, Kegon Falls, and the marshy plateau
+  of Senjogahara. 4.4★ (952 reviews) — what visitors say, hours, and tips.
 country: Japan
 region: Nikko
 category: hidden-gem
 pubDate: '2026-08-18T08:06:16.789Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Lake_chuzenji_and_kegon_waterfall.jpg/1280px-Lake_chuzenji_and_kegon_waterfall.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Lake_chuzenji_and_kegon_waterfall.jpg/1280px-Lake_chuzenji_and_kegon_waterfall.jpg
   credit: 'Photo: Uraomote yamaneko / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Lake_chuzenji_and_kegon_waterfall.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Lake_chuzenji_and_kegon_waterfall.jpg
   focus:
     x: 45
     'y': 55
@@ -17,10 +22,11 @@ gallery: []
 place:
   id: ChIJI_dSQzCzH2ARkpZzNs8sD4k
   name: Nikko National Park
-  address: Yumoto, Nikko, Tochigi 321-1662, Japan
+  address: 'Yumoto, Nikko, Tochigi 321-1662, Japan'
   rating: 4.4
-  userRatingsTotal: 943
-  googleMapsUrl: https://maps.google.com/?cid=9876161776330184338&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 952
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9876161776330184338&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 36.8936293
   lng: 139.6344196
@@ -36,20 +42,43 @@ place:
 tags:
   - nikko
   - hidden gem
-quickAnswer: 'Nikko National Park sprawls far beyond the famous shrines, up into the volcanic highlands around Lake Chuzenji, Kegon Falls, and the marshy plateau of Senjogahara. It''s open around the clock, but plan a full day: drive or bus up from Nikko station, walk the boardwalks at Senjogahara, and soak in Yumoto''s sulfur hot springs before dark. Late April through May and October foliage weeks are peak times to go; early mornings keep you ahead of the tour buses.'
+quickAnswer: >-
+  Nikko National Park sprawls far beyond the famous shrines, up into the
+  volcanic highlands around Lake Chuzenji, Kegon Falls, and the marshy plateau
+  of Senjogahara. It's open around the clock, but plan a full day: drive or bus
+  up from Nikko station, walk the boardwalks at Senjogahara, and soak in
+  Yumoto's sulfur hot springs before dark. Late April through May and October
+  foliage weeks are peak times to go; early mornings keep you ahead of the tour
+  buses.
 faq:
   - q: How do I get to Nikko National Park?
-    a: Take a bus from Tobu Nikko or JR Nikko station up to Chuzenji Onsen, Senjogahara, or Yumoto Onsen. The road climbs through the Irohazaka switchbacks; driving is also possible but the curves are tight.
+    a: >-
+      Take a bus from Tobu Nikko or JR Nikko station up to Chuzenji Onsen,
+      Senjogahara, or Yumoto Onsen. The road climbs through the Irohazaka
+      switchbacks; driving is also possible but the curves are tight.
   - q: How long should I spend in the park?
-    a: A half-day covers Lake Chuzenji and Kegon Falls. Add Senjogahara's boardwalks and Yumoto's hot springs and you'll want a full day, or an overnight stay.
+    a: >-
+      A half-day covers Lake Chuzenji and Kegon Falls. Add Senjogahara's
+      boardwalks and Yumoto's hot springs and you'll want a full day, or an
+      overnight stay.
   - q: When is the best time to visit?
-    a: Late April to May for fresh greenery and azaleas, mid-to-late October for autumn foliage. Summer is cooler than Tokyo but busier at the lake; winter is quiet but some roads and trails may close.
+    a: >-
+      Late April to May for fresh greenery and azaleas, mid-to-late October for
+      autumn foliage. Summer is cooler than Tokyo but busier at the lake; winter
+      is quiet but some roads and trails may close.
   - q: Is Nikko National Park crowded?
-    a: It's far less crowded than Nikko's shrine district. Arriving before 9am at Kegon Falls or Senjogahara puts you ahead of the tour buses that arrive later in the morning.
+    a: >-
+      It's far less crowded than Nikko's shrine district. Arriving before 9am at
+      Kegon Falls or Senjogahara puts you ahead of the tour buses that arrive
+      later in the morning.
   - q: What else is nearby?
-    a: Toshogu Shrine and central Nikko's temple complex sit below the park at the base of the Irohazaka road, making a natural add-on before or after your visit up top.
+    a: >-
+      Toshogu Shrine and central Nikko's temple complex sit below the park at
+      the base of the Irohazaka road, making a natural add-on before or after
+      your visit up top.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-27'
 ---
 The moment the road switches back up the Irohazaka slope, ears popping, you understand why this park is a different trip from the temple town below. Cedar gives way to birch, the air cools, and Lake Chuzenji appears through the trees like a sheet of hammered pewter.
 

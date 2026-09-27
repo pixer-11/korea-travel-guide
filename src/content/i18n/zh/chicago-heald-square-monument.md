@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: chicago-heald-square-monument
-srcHash: '1c2d9fb55ec5'
+srcHash: 'a630f82b4a05'
 title: 希尔德广场纪念碑：芝加哥旅行指南（4.6★）
-description: 希尔德广场纪念碑坐落于芝加哥卢普区（Loop）的东瓦克大道（East Wacker Drive）与北沃巴什大道（North Wabash Avenue）交叉口，紧邻河滨步道（Riverwalk）上方的芝加哥河南岸。4.6★（154条点评）——看看游客怎么说，附开放时间与游览贴士。
+description: 希尔德广场纪念碑坐落于芝加哥卢普区（Loop）的东瓦克大道（East Wacker Drive）与北沃巴什大道（North Wabash Avenue）交叉口，紧邻河滨步道（Riverwalk）上方的芝加哥河南岸。4.6★（153条点评）——看看游客怎么说，附开放时间与游览贴士。
 quickAnswer: 希尔德广场纪念碑坐落于芝加哥卢普区（Loop）的东瓦克大道（East Wacker Drive）与北沃巴什大道（North Wabash Avenue）交叉口，紧邻河滨步道（Riverwalk）上方的芝加哥河南岸。这是一组青铜群像，塑造的是乔治·华盛顿与两位资助独立革命的金融家——罗伯特·莫里斯（Robert Morris）与海姆·所罗门（Haym Salomon）。花上15到20分钟即可看完，比起专程前往，更适合安排进沿河散步的路线里。
 faq:
   - q: 希尔德广场纪念碑具体在哪里？

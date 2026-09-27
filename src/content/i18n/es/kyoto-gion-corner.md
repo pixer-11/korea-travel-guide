@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: kyoto-gion-corner
-srcHash: '3173f0d4ebf6'
+srcHash: '715742263a06'
 title: 'Gion Corner: Guía de viaje de Kioto (4,2★)'
-description: 'Gion Corner es un pequeño teatro en la calle Hanamikoji, en el barrio de Gion de Kioto, que reúne siete artes escénicas tradicionales japonesas —entre ellas la danza maiko, el teatro de marionetas bunraku y la comedia kyogen— en un breve programa nocturno. 4,2★ (2.852 reseñas): lo que opinan los visitantes, horarios y consejos.'
+description: 'Gion Corner es un pequeño teatro en la calle Hanamikoji, en el barrio de Gion de Kioto, que reúne siete artes escénicas tradicionales japonesas —entre ellas la danza maiko, el teatro de marionetas bunraku y la comedia kyogen— en un breve programa nocturno. 4,2★ (2.853 reseñas): lo que opinan los visitantes, horarios y consejos.'
 quickAnswer: Gion Corner es un pequeño teatro en la calle Hanamikoji, en el barrio de Gion de Kioto, que reúne siete artes escénicas tradicionales japonesas —entre ellas la danza maiko, el teatro de marionetas bunraku y la comedia kyogen— en un breve programa nocturno. Abre todos los días de 17:30 a 20:00, se encuentra a entre 5 y 10 minutos a pie de la estación de Gion-Shijo, y conviene reservar con antelación en el sitio web oficial, donde también se publican los horarios de las funciones y los precios de las entradas.
 faq:
   - q: ¿Cómo se llega a Gion Corner?

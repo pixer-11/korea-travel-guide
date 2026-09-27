@@ -1,45 +1,52 @@
 ---
-title: "Nikko Tamozawa Imperial Villa Memorial Park: Travel Guide"
-description: "Nikko Tamozawa Imperial Villa Memorial Park sits in the town of Nikko, a short walk from Tosho-gu shrine, and is open every day except Tuesday from 9am to 5pm. 4.4★ (2,450 reviews) — what visitors say, hours, and tips."
-country: "Japan"
-region: "Nikko"
-category: "attraction"
-pubDate: "2026-09-14T07:48:18.523Z"
+title: 'Nikko Tamozawa Imperial Villa Memorial Park: Travel Guide'
+description: >-
+  Nikko Tamozawa Imperial Villa Memorial Park sits in the town of Nikko, a short
+  walk from Tosho-gu shrine, and is open every day except Tuesday from 9am to
+  5pm. 4.4★ (2,460 reviews) — what visitors say, hours, and tips.
+country: Japan
+region: Nikko
+category: attraction
+pubDate: '2026-09-14T07:48:18.523Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/3/3c/Nikko_former_imperial_villa_Tamozawa.jpg"
-  credit: "Photo: Fabimaru / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Nikko_former_imperial_villa_Tamozawa.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/3/3c/Nikko_former_imperial_villa_Tamozawa.jpg
+  credit: 'Photo: Fabimaru / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Nikko_former_imperial_villa_Tamozawa.jpg
+  via: act
   focus:
     x: 55
-    y: 30
+    'y': 30
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nikko_20201003_121238.jpg/3840px-Nikko_20201003_121238.jpg"
-    credit: "Photo: Ka23 13 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Nikko_20201003_121238.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nikko_20201003_121238.jpg/3840px-Nikko_20201003_121238.jpg
+    credit: 'Photo: Ka23 13 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Nikko_20201003_121238.jpg'
 place:
-  id: "ChIJCzJYqt2mH2ARUD_73pkGbCM"
-  name: "Nikko Tamozawa Imperial Villa Memorial Park"
-  address: "8-27 Honchō, Nikko, Tochigi 321-1434, Japan"
+  id: ChIJCzJYqt2mH2ARUD_73pkGbCM
+  name: Nikko Tamozawa Imperial Villa Memorial Park
+  address: '8-27 Honchō, Nikko, Tochigi 321-1434, Japan'
   rating: 4.4
-  userRatingsTotal: 2450
-  googleMapsUrl: "https://maps.google.com/?cid=2552422346752999248&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2460
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2552422346752999248&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 36.7525307
   lng: 139.59114209999998
-  phone: "+81 288-53-6767"
+  phone: +81 288-53-6767
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: Closed"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-09-14
+    updated: 2026-09-14T00:00:00.000Z
     weekdayBusy:
       - 11
       - 12
@@ -52,24 +59,43 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_4d4362476b7033375f4455524132486d327471594a7a434a496843"
+    venueId: ven_4d4362476b7033375f4455524132486d327471594a7a434a496843
 tags:
-  - "nikko"
-  - "park"
-quickAnswer: "Nikko Tamozawa Imperial Villa Memorial Park sits in the town of Nikko, a short walk from Tosho-gu shrine, and is open every day except Tuesday from 9am to 5pm. It's best visited on a weekday morning, since weekends between 10am and 4pm draw the heaviest crowds through its wooden corridors. Budget 60-90 minutes to walk the 106-room villa and its landscaped garden."
+  - nikko
+  - park
+quickAnswer: >-
+  Nikko Tamozawa Imperial Villa Memorial Park sits in the town of Nikko, a short
+  walk from Tosho-gu shrine, and is open every day except Tuesday from 9am to
+  5pm. It's best visited on a weekday morning, since weekends between 10am and
+  4pm draw the heaviest crowds through its wooden corridors. Budget 60-90
+  minutes to walk the 106-room villa and its landscaped garden.
 faq:
-  - q: "How do I get to Tamozawa Imperial Villa from Nikko Station?"
-    a: "It's about a 15-20 minute walk from both Nikko and Tobu-Nikko stations, following the same road that leads up to Shinkyo Bridge and Tosho-gu, then continuing slightly further along Honcho."
-  - q: "What day is it closed?"
-    a: "Tuesdays. Every other day it's open 9am to 5pm, so plan around that if Tuesday is your only free day in Nikko."
-  - q: "How long should I spend there?"
-    a: "Most people spend 60-90 minutes covering both the 106-room villa interior and a loop through the strolling garden."
-  - q: "When is the best time to avoid crowds?"
-    a: "Weekday mornings are quietest. Weekends get busiest between 10am and 4pm, largely tour groups arriving after visiting Tosho-gu, so an early weekday visit is your best bet."
-  - q: "Is it worth visiting alongside Tosho-gu?"
-    a: "Yes, they're close enough to combine in one outing. Tamozawa offers a very different pace, a quiet wooden palace and garden rather than the ornate, crowded shrine complex."
+  - q: How do I get to Tamozawa Imperial Villa from Nikko Station?
+    a: >-
+      It's about a 15-20 minute walk from both Nikko and Tobu-Nikko stations,
+      following the same road that leads up to Shinkyo Bridge and Tosho-gu, then
+      continuing slightly further along Honcho.
+  - q: What day is it closed?
+    a: >-
+      Tuesdays. Every other day it's open 9am to 5pm, so plan around that if
+      Tuesday is your only free day in Nikko.
+  - q: How long should I spend there?
+    a: >-
+      Most people spend 60-90 minutes covering both the 106-room villa interior
+      and a loop through the strolling garden.
+  - q: When is the best time to avoid crowds?
+    a: >-
+      Weekday mornings are quietest. Weekends get busiest between 10am and 4pm,
+      largely tour groups arriving after visiting Tosho-gu, so an early weekday
+      visit is your best bet.
+  - q: Is it worth visiting alongside Tosho-gu?
+    a: >-
+      Yes, they're close enough to combine in one outing. Tamozawa offers a very
+      different pace, a quiet wooden palace and garden rather than the ornate,
+      crowded shrine complex.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-27'
 ---
 
 Most visitors to Nikko funnel straight from the station to Tosho-gu and never notice the turnoff toward this old imperial retreat. That's a mistake, because Tamozawa is one of the largest wooden palace buildings left in Japan, and walking through it feels nothing like queuing at a shrine.

@@ -1,60 +1,83 @@
 ---
-title: "Cake \"Bumer\": Nukus Travel Guide (4.1★)"
-description: "Cake \"Bumer\" is a bakery-café on Т. Кайыпбергенов 54 in Nukus, open daily 8:30am–11pm, known for its cakes, pastries and light meals in a bright, modern setting. 4.1★ (166 reviews) — what visitors say, hours, and tips."
-country: "Uzbekistan"
-region: "Nukus"
-category: "trendy"
-pubDate: "2026-08-21T09:11:33.928Z"
+title: 'Cake "Bumer": Nukus Travel Guide (4.1★)'
+description: >-
+  Cake "Bumer" is a bakery-café on Т. Кайыпбергенов 54 in Nukus, open daily
+  8:30am–11pm, known for its cakes, pastries and light meals in a bright, modern
+  setting. 4.1★ (173 reviews) — what visitors say, hours, and tips.
+country: Uzbekistan
+region: Nukus
+category: trendy
+pubDate: '2026-08-21T09:11:33.928Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/CAKE_BUMER.jpg/3840px-CAKE_BUMER.jpg"
-  credit: "Photo: Bekturdiyeva Laylo 05 09 / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:CAKE_BUMER.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/CAKE_BUMER.jpg/3840px-CAKE_BUMER.jpg
+  credit: 'Photo: Bekturdiyeva Laylo 05 09 / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:CAKE_BUMER.jpg'
   focus:
     x: 45
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/13086716_wtmCpCXFqzI5LhCDf3kLUrI3s9EuEfdRYOzcgBqYmos.jpg"
-    credit: "Photo: Foursquare user content (Cake Bumer)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/5e26ce78125b4c0007daee25"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/13086716_wtmCpCXFqzI5LhCDf3kLUrI3s9EuEfdRYOzcgBqYmos.jpg
+    credit: 'Photo: Foursquare user content (Cake Bumer)'
+    license: foursquare
+    source: 'https://foursquare.com/v/5e26ce78125b4c0007daee25'
 place:
-  id: "ChIJ3eC4QD-a3UERTLTwugyB_g8"
-  name: "Cake \"Bumer\""
-  address: "Т. Кайыпбергенов 54, Nukus, Republic of Karakalpakstan, Uzbekistan"
+  id: ChIJ3eC4QD-a3UERTLTwugyB_g8
+  name: Cake "Bumer"
+  address: 'Т. Кайыпбергенов 54, Nukus, Republic of Karakalpakstan, Uzbekistan'
   rating: 4.1
-  userRatingsTotal: 166
+  userRatingsTotal: 173
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=1152500446329353292&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1152500446329353292&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 42.4643801
   lng: 59.61179809999999
-  phone: "+998 99 013 77 57"
+  phone: +998 99 013 77 57
   openingHours:
-    - "Monday: 8:30 AM – 11:00 PM"
-    - "Tuesday: 8:30 AM – 11:00 PM"
-    - "Wednesday: 8:30 AM – 11:00 PM"
-    - "Thursday: 8:30 AM – 11:00 PM"
-    - "Friday: 8:30 AM – 11:00 PM"
-    - "Saturday: 8:30 AM – 11:00 PM"
-    - "Sunday: 8:30 AM – 11:00 PM"
+    - 'Monday: 8:30 AM – 11:00 PM'
+    - 'Tuesday: 8:30 AM – 11:00 PM'
+    - 'Wednesday: 8:30 AM – 11:00 PM'
+    - 'Thursday: 8:30 AM – 11:00 PM'
+    - 'Friday: 8:30 AM – 11:00 PM'
+    - 'Saturday: 8:30 AM – 11:00 PM'
+    - 'Sunday: 8:30 AM – 11:00 PM'
 tags:
-  - "nukus"
-  - "trendy cafe"
-quickAnswer: "Cake \"Bumer\" is a bakery-café on Т. Кайыпбергенов 54 in Nukus, open daily 8:30am–11pm, known for its cakes, pastries and light meals in a bright, modern setting. It's mid-range, well-rated (4.1 stars), and works equally well for a mid-morning coffee, a birthday cake pickup, or a late-evening dessert stop. Go outside the dinner rush (roughly 7–9pm) if you want a table without waiting."
+  - nukus
+  - trendy cafe
+quickAnswer: >-
+  Cake "Bumer" is a bakery-café on Т. Кайыпбергенов 54 in Nukus, open daily
+  8:30am–11pm, known for its cakes, pastries and light meals in a bright, modern
+  setting. It's mid-range, well-rated (4.1 stars), and works equally well for a
+  mid-morning coffee, a birthday cake pickup, or a late-evening dessert stop. Go
+  outside the dinner rush (roughly 7–9pm) if you want a table without waiting.
 faq:
-  - q: "What are the opening hours for Cake \"Bumer\"?"
-    a: "It's open daily from 8:30am to 11:00pm, with no day off — one of the longer daily windows among Nukus cafés."
-  - q: "How much does it cost to eat there?"
-    a: "It's mid-range for Nukus — not the cheapest bakery in town, but reasonable, especially for cake by the slice rather than a whole cake order."
-  - q: "Is it easy to get to from central Nukus?"
-    a: "Yes — it's a short taxi or ride-hail ride from most central hotels and the main square; show the driver the Cyrillic address if needed."
-  - q: "When is the best time to visit to avoid crowds?"
-    a: "Mornings tend to be calmer for coffee and pastries; try to avoid the roughly 7–9pm dinner-hour rush if you want a table without waiting."
-  - q: "What's nearby worth combining with a visit?"
-    a: "The Savitsky Museum, famous for its Soviet avant-garde art collection, is a natural pairing — sightsee, then stop for cake and tea afterward."
+  - q: What are the opening hours for Cake "Bumer"?
+    a: >-
+      It's open daily from 8:30am to 11:00pm, with no day off — one of the
+      longer daily windows among Nukus cafés.
+  - q: How much does it cost to eat there?
+    a: >-
+      It's mid-range for Nukus — not the cheapest bakery in town, but
+      reasonable, especially for cake by the slice rather than a whole cake
+      order.
+  - q: Is it easy to get to from central Nukus?
+    a: >-
+      Yes — it's a short taxi or ride-hail ride from most central hotels and the
+      main square; show the driver the Cyrillic address if needed.
+  - q: When is the best time to visit to avoid crowds?
+    a: >-
+      Mornings tend to be calmer for coffee and pastries; try to avoid the
+      roughly 7–9pm dinner-hour rush if you want a table without waiting.
+  - q: What's nearby worth combining with a visit?
+    a: >-
+      The Savitsky Museum, famous for its Soviet avant-garde art collection, is
+      a natural pairing — sightsee, then stop for cake and tea afterward.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-27'
 ---
 ## Why go
 

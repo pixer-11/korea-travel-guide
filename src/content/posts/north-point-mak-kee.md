@@ -1,65 +1,87 @@
 ---
-title: "Mak Kee: Where to Eat in North Point (4.0★)"
-description: "Mak Kee is a no-frills noodle counter on Fortress Street in North Point, best known for wonton noodles and shrimp roe noodles in a rich, dark broth. 4.0★ (702 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "North Point"
-category: "restaurant"
-pubDate: "2026-08-20T09:03:35.293Z"
+title: 'Mak Kee: Where to Eat in North Point (4.0★)'
+description: >-
+  Mak Kee is a no-frills noodle counter on Fortress Street in North Point, best
+  known for wonton noodles and shrimp roe noodles in a rich, dark broth. 4.0★
+  (721 reviews) — what visitors say, hours, and tips.
+country: Hong Kong
+region: North Point
+category: restaurant
+pubDate: '2026-08-20T09:03:35.293Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/HK_%E8%91%B5%E9%9D%92%E5%8D%80_Kwai_Tsing_%E9%9D%92%E8%A1%A3%E5%9F%8E_Maritime_Square_mall_shop_January_2022_Px3_85_Mak_Fat_Kee_Restaurant.jpg/3840px-HK_%E8%91%B5%E9%9D%92%E5%8D%80_Kwai_Tsing_%E9%9D%92%E8%A1%A3%E5%9F%8E_Maritime_Square_mall_shop_January_2022_Px3_85_Mak_Fat_Kee_Restaurant.jpg"
-  credit: "Photo: Ameiall Leissa / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:HK_%E8%91%B5%E9%9D%92%E5%8D%80_Kwai_Tsing_%E9%9D%92%E8%A1%A3%E5%9F%8E_Maritime_Square_mall_shop_January_2022_Px3_85_Mak_Fat_Kee_Restaurant.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/HK_%E8%91%B5%E9%9D%92%E5%8D%80_Kwai_Tsing_%E9%9D%92%E8%A1%A3%E5%9F%8E_Maritime_Square_mall_shop_January_2022_Px3_85_Mak_Fat_Kee_Restaurant.jpg/3840px-HK_%E8%91%B5%E9%9D%92%E5%8D%80_Kwai_Tsing_%E9%9D%92%E8%A1%A3%E5%9F%8E_Maritime_Square_mall_shop_January_2022_Px3_85_Mak_Fat_Kee_Restaurant.jpg
+  credit: 'Photo: Ameiall Leissa / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:HK_%E8%91%B5%E9%9D%92%E5%8D%80_Kwai_Tsing_%E9%9D%92%E8%A1%A3%E5%9F%8E_Maritime_Square_mall_shop_January_2022_Px3_85_Mak_Fat_Kee_Restaurant.jpg
   focus:
     x: 42
-    y: 30
+    'y': 30
 gallery: []
 place:
-  id: "ChIJgWiYjgMBBDQRs9XKXvJvNpQ"
-  name: "Mak Kee"
-  address: "Hong Kong, 香港島北角堡壘街美嘉洋樓21-23號"
+  id: ChIJgWiYjgMBBDQRs9XKXvJvNpQ
+  name: Mak Kee
+  address: 'Hong Kong, 香港島北角堡壘街美嘉洋樓21-23號'
   rating: 4
-  userRatingsTotal: 702
+  userRatingsTotal: 721
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=10679846653118830003&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10679846653118830003&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.2897932
   lng: 114.19659379999999
-  phone: "+852 5711 3599"
+  phone: +852 5711 3599
   openingHours:
-    - "Monday: 11:00 AM – 9:30 PM"
-    - "Tuesday: 9:30 AM – 9:30 PM"
-    - "Wednesday: 11:00 AM – 9:30 PM"
-    - "Thursday: 11:00 AM – 9:30 PM"
-    - "Friday: 11:00 AM – 9:30 PM"
-    - "Saturday: 11:00 AM – 9:30 PM"
-    - "Sunday: 11:00 AM – 9:30 PM"
+    - 'Monday: 11:00 AM – 9:30 PM'
+    - 'Tuesday: 9:30 AM – 9:30 PM'
+    - 'Wednesday: 11:00 AM – 9:30 PM'
+    - 'Thursday: 11:00 AM – 9:30 PM'
+    - 'Friday: 11:00 AM – 9:30 PM'
+    - 'Saturday: 11:00 AM – 9:30 PM'
+    - 'Sunday: 11:00 AM – 9:30 PM'
   busyness:
-    updated: 2026-08-20
+    updated: 2026-08-20T00:00:00.000Z
     weekendBusy:
       - 12
       - 13
       - 14
       - 18
       - 19
-    venueId: "ven_51704e764a76584b58397352514442424d676a596957674a496843"
+    venueId: ven_51704e764a76584b58397352514442424d676a596957674a496843
 tags:
-  - "north point"
-  - "street food"
-quickAnswer: "Mak Kee is a no-frills noodle counter on Fortress Street in North Point, best known for wonton noodles and shrimp roe noodles in a rich, dark broth. It's open daily except that Tuesday hours start earlier at 9:30am; expect it busiest from noon to 8pm on weekends, so an early lunch or mid-afternoon visit is your best bet for a seat."
+  - north point
+  - street food
+quickAnswer: >-
+  Mak Kee is a no-frills noodle counter on Fortress Street in North Point, best
+  known for wonton noodles and shrimp roe noodles in a rich, dark broth. It's
+  open daily except that Tuesday hours start earlier at 9:30am; expect it
+  busiest from noon to 8pm on weekends, so an early lunch or mid-afternoon visit
+  is your best bet for a seat.
 faq:
-  - q: "How do I get to Mak Kee?"
-    a: "Take the MTR to North Point Station (Island Line or Tseung Kwan O Line) and walk a few minutes to Fortress Street, where the shop sits at 21-23."
-  - q: "What should I order?"
-    a: "Start with the wonton noodles or shrimp roe noodles — both are the shop's signature dishes. Beef brisket noodles are a good heartier alternative."
-  - q: "When is Mak Kee least crowded?"
-    a: "Weekends get busy from noon to 8pm, so aim for right after the 11am opening or a late-afternoon visit to avoid the rush."
-  - q: "What are the opening hours?"
-    a: "Open daily from 11am to 9:30pm, except Tuesdays when it opens earlier at 9:30am. It closes at 9:30pm every night, so it's not a late-supper spot."
-  - q: "How much does a meal cost?"
-    a: "It's mid-range for a noodle shop — more than a cheap street stall but well below sit-down restaurant prices. Cash is the safest way to pay."
+  - q: How do I get to Mak Kee?
+    a: >-
+      Take the MTR to North Point Station (Island Line or Tseung Kwan O Line)
+      and walk a few minutes to Fortress Street, where the shop sits at 21-23.
+  - q: What should I order?
+    a: >-
+      Start with the wonton noodles or shrimp roe noodles — both are the shop's
+      signature dishes. Beef brisket noodles are a good heartier alternative.
+  - q: When is Mak Kee least crowded?
+    a: >-
+      Weekends get busy from noon to 8pm, so aim for right after the 11am
+      opening or a late-afternoon visit to avoid the rush.
+  - q: What are the opening hours?
+    a: >-
+      Open daily from 11am to 9:30pm, except Tuesdays when it opens earlier at
+      9:30am. It closes at 9:30pm every night, so it's not a late-supper spot.
+  - q: How much does a meal cost?
+    a: >-
+      It's mid-range for a noodle shop — more than a cheap street stall but well
+      below sit-down restaurant prices. Cash is the safest way to pay.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-27'
 ---
 ## Why go
 

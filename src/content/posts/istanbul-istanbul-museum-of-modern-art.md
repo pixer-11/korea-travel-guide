@@ -1,40 +1,46 @@
 ---
-title: "Istanbul Museum of Modern Art: Travel Guide (4.4★)"
-description: "The Istanbul Museum of Modern Art (İstanbul Modern) sits on the Bosphorus waterfront at Tophane in Karaköy, Beyoğlu, a short walk from Tophane stop on the T1 tram. 4.4★ (11,499 reviews) — what visitors say, hours, and tips."
-country: "Turkey"
-region: "Istanbul"
-category: "attraction"
-pubDate: "2026-09-27T07:52:14.869Z"
+title: 'Istanbul Museum of Modern Art: Travel Guide (4.4★)'
+description: >-
+  The Istanbul Museum of Modern Art (İstanbul Modern) sits on the Bosphorus
+  waterfront at Tophane in Karaköy, Beyoğlu, a short walk from Tophane stop on
+  the T1 tram. 4.4★ (11,502 reviews) — what visitors say, hours, and tips.
+country: Turkey
+region: Istanbul
+category: attraction
+pubDate: '2026-09-27T07:52:14.869Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Istanbul%2C_Turkey_%28November_2023%29_-_611.jpg/1920px-Istanbul%2C_Turkey_%28November_2023%29_-_611.jpg"
-  credit: "Photo: Another Believer / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Istanbul,_Turkey_(November_2023)_-_611.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Istanbul%2C_Turkey_%28November_2023%29_-_611.jpg/1920px-Istanbul%2C_Turkey_%28November_2023%29_-_611.jpg
+  credit: 'Photo: Another Believer / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Istanbul,_Turkey_(November_2023)_-_611.jpg
   focus:
     x: 45
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJw8JuD9m5yhQRnegQbG9Irjs"
-  name: "Istanbul Museum of Modern Art"
-  address: "Kılıçali Paşa, Tophane İskele Cd. No:1/1, 34433 Beyoğlu/İstanbul, Türkiye"
+  id: ChIJw8JuD9m5yhQRnegQbG9Irjs
+  name: Istanbul Museum of Modern Art
+  address: 'Kılıçali Paşa, Tophane İskele Cd. No:1/1, 34433 Beyoğlu/İstanbul, Türkiye'
   rating: 4.4
-  userRatingsTotal: 11499
-  googleMapsUrl: "https://maps.google.com/?cid=4300454337577019549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 11502
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4300454337577019549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.025919599999995
   lng: 28.982838299999997
-  phone: "+90 212 334 73 00"
+  phone: +90 212 334 73 00
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 6:00 PM"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 8:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 8:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-09-27
+    updated: 2026-09-27T00:00:00.000Z
     weekdayQuiet:
       - 18
     weekdayBusy:
@@ -50,24 +56,44 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_736a72493947625167656e52516879356d3944754a38774a496843"
+    venueId: ven_736a72493947625167656e52516879356d3944754a38774a496843
 tags:
-  - "istanbul"
-  - "art gallery"
-quickAnswer: "The Istanbul Museum of Modern Art (İstanbul Modern) sits on the Bosphorus waterfront at Tophane in Karaköy, Beyoğlu, a short walk from Tophane stop on the T1 tram. It's closed on Mondays and stays open until 8pm on Fridays. The quietest times are 6pm to 7pm on a Friday, or 10am to 11am at weekends; weekend afternoons from 1pm to 6pm are the busiest."
+  - istanbul
+  - art gallery
+quickAnswer: >-
+  The Istanbul Museum of Modern Art (İstanbul Modern) sits on the Bosphorus
+  waterfront at Tophane in Karaköy, Beyoğlu, a short walk from Tophane stop on
+  the T1 tram. It's closed on Mondays and stays open until 8pm on Fridays. The
+  quietest times are 6pm to 7pm on a Friday, or 10am to 11am at weekends;
+  weekend afternoons from 1pm to 6pm are the busiest.
 faq:
-  - q: "When is the quietest time to visit Istanbul Modern?"
-    a: "On weekdays the quietest window is 6pm to 7pm, but that only works on Friday, when the museum stays open until 8pm. At weekends, arrive between 10am and 11am. Avoid 1pm to 6pm on weekends, which is the busiest stretch."
-  - q: "Is Istanbul Modern open on Mondays?"
-    a: "No. It's closed every Monday. It opens 10am to 6pm Tuesday to Thursday and on weekends, and 10am to 8pm on Fridays."
-  - q: "How do I get to Istanbul Modern?"
-    a: "Take the T1 tram to Tophane and walk a few minutes toward the Bosphorus. Karaköy tram stop and Karaköy ferry pier are also within easy walking distance along the Galataport promenade."
-  - q: "How long should I spend at the museum?"
-    a: "Allow two to three hours for the permanent collection, the temporary exhibition and the rooftop terrace. Add more time if you plan to catch a film in the museum's cinema."
-  - q: "What is near Istanbul Modern?"
-    a: "The Kılıç Ali Paşa Mosque and Nusretiye Mosque are steps away. The Galataport promenade, Karaköy, the Galata Bridge and Galata Tower are all within a short walk."
+  - q: When is the quietest time to visit Istanbul Modern?
+    a: >-
+      On weekdays the quietest window is 6pm to 7pm, but that only works on
+      Friday, when the museum stays open until 8pm. At weekends, arrive between
+      10am and 11am. Avoid 1pm to 6pm on weekends, which is the busiest stretch.
+  - q: Is Istanbul Modern open on Mondays?
+    a: >-
+      No. It's closed every Monday. It opens 10am to 6pm Tuesday to Thursday and
+      on weekends, and 10am to 8pm on Fridays.
+  - q: How do I get to Istanbul Modern?
+    a: >-
+      Take the T1 tram to Tophane and walk a few minutes toward the Bosphorus.
+      Karaköy tram stop and Karaköy ferry pier are also within easy walking
+      distance along the Galataport promenade.
+  - q: How long should I spend at the museum?
+    a: >-
+      Allow two to three hours for the permanent collection, the temporary
+      exhibition and the rooftop terrace. Add more time if you plan to catch a
+      film in the museum's cinema.
+  - q: What is near Istanbul Modern?
+    a: >-
+      The Kılıç Ali Paşa Mosque and Nusretiye Mosque are steps away. The
+      Galataport promenade, Karaköy, the Galata Bridge and Galata Tower are all
+      within a short walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-27'
 ---
 
 ## A gallery with the Bosphorus for a backdrop

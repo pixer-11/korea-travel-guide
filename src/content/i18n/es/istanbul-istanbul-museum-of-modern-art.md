@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: istanbul-istanbul-museum-of-modern-art
-srcHash: '7b90df9e5c38'
+srcHash: 'c7c3aa76bc9c'
 title: 'Museo de Arte Moderno de Estambul: Guía de viaje (4,4★)'
-description: 'El Museo de Arte Moderno de Estambul (İstanbul Modern) se encuentra a orillas del Bósforo, en Tophane, dentro del barrio de Karaköy, en Beyoğlu, a poca distancia a pie de la parada de Tophane del tranvía T1. 4,4★ (11.499 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Museo de Arte Moderno de Estambul (İstanbul Modern) se encuentra a orillas del Bósforo, en Tophane, dentro del barrio de Karaköy, en Beyoğlu, a poca distancia a pie de la parada de Tophane del tranvía T1. 4,4★ (11.502 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Museo de Arte Moderno de Estambul (İstanbul Modern) se encuentra a orillas del Bósforo, en Tophane, dentro del barrio de Karaköy, en Beyoğlu, a poca distancia a pie de la parada de Tophane del tranvía T1. Permanece cerrado los lunes y los viernes abre hasta las 20:00. Los momentos con menos afluencia son de 18:00 a 19:00 los viernes, o de 10:00 a 11:00 los fines de semana; las tardes de fin de semana, de 13:00 a 18:00, son las de mayor concurrencia.
 faq:
   - q: ¿Cuál es el mejor momento para visitar İstanbul Modern con menos gente?

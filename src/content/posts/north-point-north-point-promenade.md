@@ -1,40 +1,47 @@
 ---
-title: "North Point Promenade: Travel Guide"
-description: "North Point Promenade is a slim strip of waterfront park along Victoria Harbour in North Point, open 24 hours and best enjoyed in the early morning or after dark when the container-port air cools and the skyline lights up."
-country: "Hong Kong"
-region: "North Point"
-category: "attraction"
-pubDate: "2026-08-12T17:22:09.996Z"
+title: 'North Point Promenade: Travel Guide'
+description: >-
+  North Point Promenade is a slim strip of waterfront park along Victoria
+  Harbour in North Point, open 24 hours and best enjoyed in the early morning or
+  after dark when the container-port air cools and the skyline lights up.
+country: Hong Kong
+region: North Point
+category: attraction
+pubDate: '2026-08-12T17:22:09.996Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/North_Point_Promenade_202007.jpg/3840px-North_Point_Promenade_202007.jpg"
-  credit: "Photo: Wpcpey / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:North_Point_Promenade_202007.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/North_Point_Promenade_202007.jpg/3840px-North_Point_Promenade_202007.jpg
+  credit: 'Photo: Wpcpey / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:North_Point_Promenade_202007.jpg'
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/North_Point_Promenade_Pavilion_202007.jpg/3840px-North_Point_Promenade_Pavilion_202007.jpg"
-    credit: "Photo: Wpcpey / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:North_Point_Promenade_Pavilion_202007.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/North_Point_Promenade_Pavilion_202007.jpg/3840px-North_Point_Promenade_Pavilion_202007.jpg
+    credit: 'Photo: Wpcpey / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:North_Point_Promenade_Pavilion_202007.jpg
 place:
-  id: "ChIJR4yeou8BBDQRsMV7zXwr4R0"
-  name: "North Point Promenade"
-  address: "North Point, Hong Kong"
+  id: ChIJR4yeou8BBDQRsMV7zXwr4R0
+  name: North Point Promenade
+  address: 'North Point, Hong Kong Island, Hong Kong'
   rating: 4.2
-  userRatingsTotal: 98
-  googleMapsUrl: "https://maps.google.com/?cid=2153049911883187632&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 102
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2153049911883187632&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.2933055
   lng: 114.2006821
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-08-12
+    updated: 2026-08-12T00:00:00.000Z
     weekendBusy:
       - 8
       - 9
@@ -49,24 +56,43 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_3052347277587a37564d73525144424238756f657934524a496843"
+    venueId: ven_3052347277587a37564d73525144424238756f657934524a496843
 tags:
-  - "north point"
-  - "top attraction"
-quickAnswer: "North Point Promenade is a slim strip of waterfront park along Victoria Harbour in North Point, open 24 hours and best enjoyed in the early morning or after dark when the container-port air cools and the skyline lights up. It's under-the-radar compared to Central's harbourfront, with none of the crowds — though weekends from 8am to 10pm draw the most local walkers, joggers and anglers. Budget 30–45 minutes, longer if you linger over the view toward Kowloon."
+  - north point
+  - top attraction
+quickAnswer: >-
+  North Point Promenade is a slim strip of waterfront park along Victoria
+  Harbour in North Point, open 24 hours and best enjoyed in the early morning or
+  after dark when the container-port air cools and the skyline lights up. It's
+  under-the-radar compared to Central's harbourfront, with none of the crowds —
+  though weekends from 8am to 10pm draw the most local walkers, joggers and
+  anglers. Budget 30–45 minutes, longer if you linger over the view toward
+  Kowloon.
 faq:
-  - q: "How do I get to North Point Promenade by MTR?"
-    a: "Take North Point Station on the Island Line or Tseung Kwan O Line, then walk toward the ferry pier or Wan Fu Street — it's about five to ten minutes to the water."
-  - q: "Is there an entrance fee?"
-    a: "No. It's a free public waterfront walkway with open access 24 hours a day, every day."
-  - q: "When is the quietest time to visit?"
-    a: "Weekday mornings or weeknights are calmest. Weekends from 8am to 10pm are the busiest window, so avoid that stretch if you want space to yourself."
-  - q: "How long should I plan to spend there?"
-    a: "Most visitors spend 30–45 minutes walking and taking in the view, longer if you continue on toward Quarry Bay or stop to watch the harbour traffic."
-  - q: "Is it worth combining with other North Point sights?"
-    a: "Yes — pair it with the North Point wet market, local cha chaan tengs, or a tram ride along King's Road for a fuller sense of the neighbourhood."
+  - q: How do I get to North Point Promenade by MTR?
+    a: >-
+      Take North Point Station on the Island Line or Tseung Kwan O Line, then
+      walk toward the ferry pier or Wan Fu Street — it's about five to ten
+      minutes to the water.
+  - q: Is there an entrance fee?
+    a: >-
+      No. It's a free public waterfront walkway with open access 24 hours a day,
+      every day.
+  - q: When is the quietest time to visit?
+    a: >-
+      Weekday mornings or weeknights are calmest. Weekends from 8am to 10pm are
+      the busiest window, so avoid that stretch if you want space to yourself.
+  - q: How long should I plan to spend there?
+    a: >-
+      Most visitors spend 30–45 minutes walking and taking in the view, longer
+      if you continue on toward Quarry Bay or stop to watch the harbour traffic.
+  - q: Is it worth combining with other North Point sights?
+    a: >-
+      Yes — pair it with the North Point wet market, local cha chaan tengs, or a
+      tram ride along King's Road for a fuller sense of the neighbourhood.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-27'
 ---
 ## Why go
 

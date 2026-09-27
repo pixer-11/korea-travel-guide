@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: nikko-nikko-tamozawa-imperial-villa-memorial-park
-srcHash: '25d93367e70d'
+srcHash: 'ff7e715e76eb'
 title: 'Parque Conmemorativo de la Villa Imperial Tamozawa de Nikko: Guía de viaje'
-description: 'El Parque Conmemorativo de la Villa Imperial Tamozawa de Nikko se encuentra en la localidad de Nikko, a poca distancia a pie del santuario Tosho-gu, y abre todos los días excepto los martes de 9:00 a 17:00. 4.4★ (2.450 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Parque Conmemorativo de la Villa Imperial Tamozawa de Nikko se encuentra en la localidad de Nikko, a poca distancia a pie del santuario Tosho-gu, y abre todos los días excepto los martes de 9:00 a 17:00. 4.4★ (2.460 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Parque Conmemorativo de la Villa Imperial Tamozawa de Nikko se encuentra en la localidad de Nikko, a poca distancia a pie del santuario Tosho-gu, y abre todos los días excepto los martes de 9:00 a 17:00. La mejor opción es visitarlo en horario laborable por la mañana, ya que los fines de semana entre las 10:00 y las 16:00 sus corredores de madera reciben la mayor afluencia de visitantes. Conviene reservar entre 60 y 90 minutos para recorrer la villa de 106 habitaciones y su jardín paisajístico.
 faq:
   - q: ¿Cómo se llega a la Villa Imperial Tamozawa desde la estación de Nikko?

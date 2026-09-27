@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: north-point-quarry-bay-park
-srcHash: '4c0fd74d9151'
+srcHash: '7381411ed4f6'
 title: 'Quarry Bay Park: Guía de viaje de North Point (4,2★)'
-description: 'Quarry Bay Park se encuentra en el paseo marítimo de North Point, junto a Hoi Tai Street, justo donde Quarry Bay se une al refugio para tifones de Kai Yuen Street. 4,2★ (1.656 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Quarry Bay Park se encuentra en el paseo marítimo de North Point, junto a Hoi Tai Street, justo donde Quarry Bay se une al refugio para tifones de Kai Yuen Street. 4,2★ (1.658 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Quarry Bay Park se encuentra en el paseo marítimo de North Point, junto a Hoi Tai Street, justo donde Quarry Bay se une al refugio para tifones de Kai Yuen Street. Abre todos los días de 7:00 a 23:00, la entrada es gratuita y conviene visitarlo a primera hora de la mañana o después del atardecer, cuando la brisa del puerto suaviza la humedad. Vale la pena ir por las vistas del skyline hacia Kowloon, los bancos frente al puerto y las pistas deportivas, más que por jardines o flores.
 faq:
   - q: ¿Cómo se llega a Quarry Bay Park?

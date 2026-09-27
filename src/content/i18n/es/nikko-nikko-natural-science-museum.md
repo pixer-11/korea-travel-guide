@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: nikko-nikko-natural-science-museum
-srcHash: '7ac644b041a4'
+srcHash: 'f71bf79ac7ae'
 title: 'Museo de Ciencias Naturales de Nikko: Guía de Viaje (4.0★)'
-description: 'El Museo de Ciencias Naturales de Nikko se encuentra en Chugushi, sobre la carretera que bordea el lago Chuzenji, cerca de la zona de Chuzenji-ko y las cataratas Kegon, abierto todos los días de 9:00 a 17:00. 4.0★ (416 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El Museo de Ciencias Naturales de Nikko se encuentra en Chugushi, sobre la carretera que bordea el lago Chuzenji, cerca de la zona de Chuzenji-ko y las cataratas Kegon, abierto todos los días de 9:00 a 17:00. 4.0★ (419 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo de Ciencias Naturales de Nikko se encuentra en Chugushi, sobre la carretera que bordea el lago Chuzenji, cerca de la zona de Chuzenji-ko y las cataratas Kegon, abierto todos los días de 9:00 a 17:00. Se trata de un pequeño museo dedicado a la naturaleza, centrado en los animales, insectos y plantas de la región, ideal para una parada de 30 a 45 minutos entre las cataratas y el lago. Conviene visitarlo de paso entre las cataratas Kegon y el lago Chuzenji, no como una excursión aparte.
 faq:
   - q: ¿Dónde se encuentra exactamente el Museo de Ciencias Naturales de Nikko?

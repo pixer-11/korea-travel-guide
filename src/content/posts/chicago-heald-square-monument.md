@@ -1,48 +1,75 @@
 ---
-title: "Heald Square Monument: Chicago Travel Guide (4.6★)"
-description: "Heald Square Monument stands at East Wacker Drive and North Wabash Avenue in Chicago's Loop, on the south bank of the Chicago River just above the Riverwalk. 4.6★ (154 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Chicago"
-category: "hidden-gem"
-pubDate: "2026-09-27T07:42:18.170Z"
+title: 'Heald Square Monument: Chicago Travel Guide (4.6★)'
+description: >-
+  Heald Square Monument stands at East Wacker Drive and North Wabash Avenue in
+  Chicago's Loop, on the south bank of the Chicago River just above the
+  Riverwalk. 4.6★ (153 reviews) — what visitors say, hours, and tips.
+country: United States
+region: Chicago
+category: hidden-gem
+pubDate: '2026-09-27T07:42:18.170Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Heald-Square-Monument-Chicago-September-2014.jpg"
-  credit: "Photo: Acediscovery / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Heald-Square-Monument-Chicago-September-2014.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/bc/Heald-Square-Monument-Chicago-September-2014.jpg
+  credit: 'Photo: Acediscovery / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Heald-Square-Monument-Chicago-September-2014.jpg
+  via: act
   focus:
     x: 50
-    y: 55
+    'y': 55
 gallery: []
 place:
-  id: "ChIJxX3Yo68sDogRU0dC0ZYQZNU"
-  name: "Heald Square Monument"
-  address: "North Wabash Avenue &, E Wacker Dr, Chicago, IL 60601, USA"
+  id: ChIJxX3Yo68sDogRU0dC0ZYQZNU
+  name: Heald Square Monument
+  address: 'North Wabash Avenue &, E Wacker Dr, Chicago, IL 60601, USA'
   rating: 4.6
-  userRatingsTotal: 154
-  googleMapsUrl: "https://maps.google.com/?cid=15376433267691636563&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 153
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15376433267691636563&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.8872175
   lng: -87.6268398
-  phone: "+1 312-742-7529"
+  phone: +1 312-742-7529
 tags:
-  - "chicago"
-  - "old quarter"
-quickAnswer: "Heald Square Monument stands at East Wacker Drive and North Wabash Avenue in Chicago's Loop, on the south bank of the Chicago River just above the Riverwalk. It's a bronze group of George Washington with the Revolution's two financiers, Robert Morris and Haym Salomon. Give it 15 to 20 minutes, and fit it into a walk along the river rather than making a separate trip."
+  - chicago
+  - old quarter
+quickAnswer: >-
+  Heald Square Monument stands at East Wacker Drive and North Wabash Avenue in
+  Chicago's Loop, on the south bank of the Chicago River just above the
+  Riverwalk. It's a bronze group of George Washington with the Revolution's two
+  financiers, Robert Morris and Haym Salomon. Give it 15 to 20 minutes, and fit
+  it into a walk along the river rather than making a separate trip.
 faq:
-  - q: "Where exactly is the Heald Square Monument?"
-    a: "It's at East Wacker Drive and North Wabash Avenue in the Loop, on the south side of the Chicago River at the foot of the Wabash Avenue Bridge. Stay on upper Wacker, the street level. Lower Wacker runs underneath."
-  - q: "What's the nearest L station?"
-    a: "State/Lake (Brown, Green, Orange, Pink and Purple Lines) is about a five-minute walk south. Lake station on the Red Line is a few minutes further."
-  - q: "How long should I spend there?"
-    a: "15 to 20 minutes covers the front, the Washington letter on the rear of the pedestal and a few photos. Pair it with the Riverwalk or the Chicago Architecture Center for a longer outing."
-  - q: "Who does the statue show?"
-    a: "George Washington with Robert Morris and Haym Salomon, two of the main financiers of the American Revolution. Lorado Taft designed it, Leonard Crunelle finished it, and it was dedicated in 1941."
-  - q: "What else is nearby?"
-    a: "The Chicago Riverwalk is directly below. The Chicago Architecture Center, the Wrigley Building, the Michigan Avenue Bridge and 35 East Wacker are all within a few blocks."
+  - q: Where exactly is the Heald Square Monument?
+    a: >-
+      It's at East Wacker Drive and North Wabash Avenue in the Loop, on the
+      south side of the Chicago River at the foot of the Wabash Avenue Bridge.
+      Stay on upper Wacker, the street level. Lower Wacker runs underneath.
+  - q: What's the nearest L station?
+    a: >-
+      State/Lake (Brown, Green, Orange, Pink and Purple Lines) is about a
+      five-minute walk south. Lake station on the Red Line is a few minutes
+      further.
+  - q: How long should I spend there?
+    a: >-
+      15 to 20 minutes covers the front, the Washington letter on the rear of
+      the pedestal and a few photos. Pair it with the Riverwalk or the Chicago
+      Architecture Center for a longer outing.
+  - q: Who does the statue show?
+    a: >-
+      George Washington with Robert Morris and Haym Salomon, two of the main
+      financiers of the American Revolution. Lorado Taft designed it, Leonard
+      Crunelle finished it, and it was dedicated in 1941.
+  - q: What else is nearby?
+    a: >-
+      The Chicago Riverwalk is directly below. The Chicago Architecture Center,
+      the Wrigley Building, the Michigan Avenue Bridge and 35 East Wacker are
+      all within a few blocks.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-27'
 ---
 
 ## Three men on a granite block

@@ -1,63 +1,89 @@
 ---
-title: "Phan Thiết Market: Mui Ne Travel Guide (4.3★)"
-description: "Phan Thiết Market is the main covered market on Lý Thường Kiệt street in central Phan Thiết, about 20 km west of the Mui Ne beach strip, and it's open daily from 5:30am to 6pm. 4.3★ (4,243 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Mui Ne"
-category: "hidden-gem"
-pubDate: "2026-09-27T07:38:18.346Z"
+title: 'Phan Thiết Market: Mui Ne Travel Guide (4.3★)'
+description: >-
+  Phan Thiết Market is the main covered market on Lý Thường Kiệt street in
+  central Phan Thiết, about 20 km west of the Mui Ne beach strip, and it's open
+  daily from 5:30am to 6pm. 4.3★ (4,245 reviews) — what visitors say, hours, and
+  tips.
+country: Vietnam
+region: Mui Ne
+category: hidden-gem
+pubDate: '2026-09-27T07:38:18.346Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Phan_Thiet%2C_Market_-_panoramio.jpg"
-  credit: "Photo: zabaluev / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Phan_Thiet,_Market_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/1a/Phan_Thiet%2C_Market_-_panoramio.jpg
+  credit: 'Photo: zabaluev / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Phan_Thiet,_Market_-_panoramio.jpg'
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJQ7FL83ODdjERb5DsLYrJWbs"
-  name: "Phan Thiết Market"
-  address: "Lý Thường Kiệt, Phan Thiết, Lâm Đồng 70000, Vietnam"
+  id: ChIJQ7FL83ODdjERb5DsLYrJWbs
+  name: Phan Thiết Market
+  address: 'Lý Thường Kiệt, Phan Thiết, Lâm Đồng 70000, Vietnam'
   rating: 4.3
-  userRatingsTotal: 4243
-  googleMapsUrl: "https://maps.google.com/?cid=13500042953332920431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4245
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13500042953332920431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.9257811
   lng: 108.09653569999999
   openingHours:
-    - "Monday: 5:30 AM – 6:00 PM"
-    - "Tuesday: 5:30 AM – 6:00 PM"
-    - "Wednesday: 5:30 AM – 6:00 PM"
-    - "Thursday: 5:30 AM – 6:00 PM"
-    - "Friday: 5:30 AM – 6:00 PM"
-    - "Saturday: 5:30 AM – 6:00 PM"
-    - "Sunday: 5:30 AM – 6:00 PM"
+    - 'Monday: 5:30 AM – 6:00 PM'
+    - 'Tuesday: 5:30 AM – 6:00 PM'
+    - 'Wednesday: 5:30 AM – 6:00 PM'
+    - 'Thursday: 5:30 AM – 6:00 PM'
+    - 'Friday: 5:30 AM – 6:00 PM'
+    - 'Saturday: 5:30 AM – 6:00 PM'
+    - 'Sunday: 5:30 AM – 6:00 PM'
   busyness:
-    updated: 2026-09-27
+    updated: 2026-09-27T00:00:00.000Z
     weekendBusy:
       - 8
       - 9
       - 10
       - 11
-    venueId: "ven_7362574a72594c7344356252456a64444f33384c4637514a496843"
+    venueId: ven_7362574a72594c7344356252456a64444f33384c4637514a496843
 tags:
-  - "mui ne"
-  - "local market"
-quickAnswer: "Phan Thiết Market is the main covered market on Lý Thường Kiệt street in central Phan Thiết, about 20 km west of the Mui Ne beach strip, and it's open daily from 5:30am to 6pm. Go for fish sauce, dried seafood, dragon fruit and a cheap breakfast. Avoid weekend mornings between 8am and 12pm, which are its busiest hours."
+  - mui ne
+  - local market
+quickAnswer: >-
+  Phan Thiết Market is the main covered market on Lý Thường Kiệt street in
+  central Phan Thiết, about 20 km west of the Mui Ne beach strip, and it's open
+  daily from 5:30am to 6pm. Go for fish sauce, dried seafood, dragon fruit and a
+  cheap breakfast. Avoid weekend mornings between 8am and 12pm, which are its
+  busiest hours.
 faq:
-  - q: "How far is Phan Thiết Market from Mui Ne?"
-    a: "It's in central Phan Thiết on Lý Thường Kiệt street, about 20 km west of the Mui Ne beach strip. That's roughly 30 minutes by Grab, taxi or motorbike along the coast road."
-  - q: "What are the opening hours?"
-    a: "Every day from 5:30am to 6pm, weekends included. The fresh-food sections trade most in the early morning. Dry goods and clothing keep going until closing."
-  - q: "When is the market most crowded?"
-    a: "Weekends from 8am to 12pm are the busiest hours. On a Saturday or Sunday, arrive before 8am or come in the afternoon."
-  - q: "What should I buy there?"
-    a: "The local specialties: Phan Thiết fish sauce (nước mắm), dried squid and shrimp, mắm ruốc shrimp paste and dragon fruit. Check your airline's rules before packing fish sauce, because several carriers restrict it."
-  - q: "What's nearby?"
-    a: "The Phan Thiết Water Tower on the Cà Ty River is a short walk away, and Dục Thanh School and its museum are close by. The Po Shanu Cham towers are on the road back to Mui Ne."
+  - q: How far is Phan Thiết Market from Mui Ne?
+    a: >-
+      It's in central Phan Thiết on Lý Thường Kiệt street, about 20 km west of
+      the Mui Ne beach strip. That's roughly 30 minutes by Grab, taxi or
+      motorbike along the coast road.
+  - q: What are the opening hours?
+    a: >-
+      Every day from 5:30am to 6pm, weekends included. The fresh-food sections
+      trade most in the early morning. Dry goods and clothing keep going until
+      closing.
+  - q: When is the market most crowded?
+    a: >-
+      Weekends from 8am to 12pm are the busiest hours. On a Saturday or Sunday,
+      arrive before 8am or come in the afternoon.
+  - q: What should I buy there?
+    a: >-
+      The local specialties: Phan Thiết fish sauce (nước mắm), dried squid and
+      shrimp, mắm ruốc shrimp paste and dragon fruit. Check your airline's rules
+      before packing fish sauce, because several carriers restrict it.
+  - q: What's nearby?
+    a: >-
+      The Phan Thiết Water Tower on the Cà Ty River is a short walk away, and
+      Dục Thanh School and its museum are close by. The Po Shanu Cham towers are
+      on the road back to Mui Ne.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-27'
 ---
 
 ## A working market, not a beach bazaar

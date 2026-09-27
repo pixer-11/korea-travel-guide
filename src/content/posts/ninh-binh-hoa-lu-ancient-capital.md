@@ -1,43 +1,50 @@
 ---
-title: "Hoa Lu Ancient Capital: Ninh Binh Travel Guide (4.3★)"
-description: "Hoa Lu Ancient Capital, about 12km northwest of Ninh Binh city, is the 10th-century seat of Vietnam's first independent dynasties, with two rebuilt temples (Dinh Tien Hoang and Le Dai Hanh) set against limestone karsts. 4.3★ (12,197 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Ninh Binh"
-category: "attraction"
-pubDate: "2026-08-20T08:13:25.355Z"
+title: 'Hoa Lu Ancient Capital: Ninh Binh Travel Guide (4.3★)'
+description: >-
+  Hoa Lu Ancient Capital, about 12km northwest of Ninh Binh city, is the
+  10th-century seat of Vietnam's first independent dynasties, with two rebuilt
+  temples (Dinh Tien Hoang and Le Dai Hanh) set against limestone karsts. 4.3★
+  (12,402 reviews) — what visitors say, hours, and tips.
+country: Vietnam
+region: Ninh Binh
+category: attraction
+pubDate: '2026-08-20T08:13:25.355Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Codohoalu2010k5.jpg/1920px-Codohoalu2010k5.jpg"
-  credit: "Photo: Kien1980v at Vietnamese Wikipedia / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Codohoalu2010k5.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Codohoalu2010k5.jpg/1920px-Codohoalu2010k5.jpg
+  credit: 'Photo: Kien1980v at Vietnamese Wikipedia / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Codohoalu2010k5.jpg'
   focus:
     x: 45
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ninh_Binh_-_NinhBinh1659.jpg/3840px-Ninh_Binh_-_NinhBinh1659.jpg"
-    credit: "Photo: lumoplank / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Ninh_Binh_-_NinhBinh1659.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ninh_Binh_-_NinhBinh1659.jpg/3840px-Ninh_Binh_-_NinhBinh1659.jpg
+    credit: 'Photo: lumoplank / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Ninh_Binh_-_NinhBinh1659.jpg'
 place:
-  id: "ChIJb0Y7QRN5NjER5x5tV30Zcws"
-  name: "Hoa Lu Ancient Capital"
-  address: "Tay Hoa Lu, Ninh Binh, Vietnam"
+  id: ChIJb0Y7QRN5NjER5x5tV30Zcws
+  name: Hoa Lu Ancient Capital
+  address: 'Tay Hoa Lu, Ninh Binh, Vietnam'
   rating: 4.3
-  userRatingsTotal: 12197
-  googleMapsUrl: "https://maps.google.com/?cid=825031182867308263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 12402
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=825031182867308263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 20.2843154
   lng: 105.90836069999999
   openingHours:
-    - "Monday: 7:00 AM – 5:00 PM"
-    - "Tuesday: 7:00 AM – 5:00 PM"
-    - "Wednesday: 7:00 AM – 5:00 PM"
-    - "Thursday: 7:00 AM – 5:00 PM"
-    - "Friday: 7:00 AM – 5:00 PM"
-    - "Saturday: 7:00 AM – 5:00 PM"
-    - "Sunday: 7:00 AM – 5:00 PM"
+    - 'Monday: 7:00 AM – 5:00 PM'
+    - 'Tuesday: 7:00 AM – 5:00 PM'
+    - 'Wednesday: 7:00 AM – 5:00 PM'
+    - 'Thursday: 7:00 AM – 5:00 PM'
+    - 'Friday: 7:00 AM – 5:00 PM'
+    - 'Saturday: 7:00 AM – 5:00 PM'
+    - 'Sunday: 7:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-08-20
+    updated: 2026-08-20T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -52,24 +59,41 @@ place:
       - 11
       - 12
       - 13
-    venueId: "ven_7377635a3033567435783552456a4e354e5251375930624a496843"
+    venueId: ven_7377635a3033567435783552456a4e354e5251375930624a496843
 tags:
-  - "ninh binh"
-  - "historic site"
-quickAnswer: "Hoa Lu Ancient Capital, about 12km northwest of Ninh Binh city, is the 10th-century seat of Vietnam's first independent dynasties, with two rebuilt temples (Dinh Tien Hoang and Le Dai Hanh) set against limestone karsts. It's open daily 7am–5pm; go right at opening on weekends (7am–8am) to beat the 9am–2pm tour-bus crush. Budget 1–1.5 hours, and pair it with a Trang An or Tam Coc boat ride the same day."
+  - ninh binh
+  - historic site
+quickAnswer: >-
+  Hoa Lu Ancient Capital, about 12km northwest of Ninh Binh city, is the
+  10th-century seat of Vietnam's first independent dynasties, with two rebuilt
+  temples (Dinh Tien Hoang and Le Dai Hanh) set against limestone karsts. It's
+  open daily 7am–5pm; go right at opening on weekends (7am–8am) to beat the
+  9am–2pm tour-bus crush. Budget 1–1.5 hours, and pair it with a Trang An or Tam
+  Coc boat ride the same day.
 faq:
-  - q: "How long should I spend at Hoa Lu Ancient Capital?"
-    a: "Plan for 1 to 1.5 hours to see both main temples and the citadel remains; add 30–45 minutes if you climb to the Yen Ngua Mountain viewpoint."
-  - q: "What's the quietest time to visit?"
-    a: "Weekdays are calm all day (7am–5pm). On weekends, go right at opening, 7am–8am, before tour buses arrive between 9am and 2pm."
-  - q: "How do I get to Hoa Lu from Ninh Binh city?"
-    a: "It's about 12km northwest, roughly a 20-minute drive by scooter, private car, or organized day tour — there's no direct public bus or train."
-  - q: "Can I combine Hoa Lu with other Ninh Binh sights in one day?"
-    a: "Yes — it's commonly paired with Trang An or Tam Coc boat tours, both a short drive away, making for a full but manageable day trip."
-  - q: "Is there an entrance fee?"
-    a: "There's typically a modest entrance and parking fee payable in cash (Vietnamese dong); confirm the current amount locally as it can change."
+  - q: How long should I spend at Hoa Lu Ancient Capital?
+    a: >-
+      Plan for 1 to 1.5 hours to see both main temples and the citadel remains;
+      add 30–45 minutes if you climb to the Yen Ngua Mountain viewpoint.
+  - q: What's the quietest time to visit?
+    a: >-
+      Weekdays are calm all day (7am–5pm). On weekends, go right at opening,
+      7am–8am, before tour buses arrive between 9am and 2pm.
+  - q: How do I get to Hoa Lu from Ninh Binh city?
+    a: >-
+      It's about 12km northwest, roughly a 20-minute drive by scooter, private
+      car, or organized day tour — there's no direct public bus or train.
+  - q: Can I combine Hoa Lu with other Ninh Binh sights in one day?
+    a: >-
+      Yes — it's commonly paired with Trang An or Tam Coc boat tours, both a
+      short drive away, making for a full but manageable day trip.
+  - q: Is there an entrance fee?
+    a: >-
+      There's typically a modest entrance and parking fee payable in cash
+      (Vietnamese dong); confirm the current amount locally as it can change.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-27'
 ---
 You feel it before you see it: the road narrows, rice paddies open up flat and green on both sides, and suddenly limestone karsts rise straight out of the earth like something drawn rather than formed. This is Hoa Lu, capital of Vietnam a thousand years before Hanoi took the title.
 

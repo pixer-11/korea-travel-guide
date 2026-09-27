@@ -1,27 +1,35 @@
 ---
 title: 'Nikkō Tōshōgū: Nikko Travel Guide (4.5★)'
-description: Nikkō Tōshōgū is the lavishly gilded 17th-century shrine complex honoring shogun Tokugawa Ieyasu, open daily 9am–4pm. 4.5★ (34,063 reviews) — what visitors say, hours, and tips.
+description: >-
+  Nikkō Tōshōgū is the lavishly gilded 17th-century shrine complex honoring
+  shogun Tokugawa Ieyasu, open daily 9am–4pm. 4.5★ (34,433 reviews) — what
+  visitors say, hours, and tips.
 country: Japan
 region: Nikko
 category: attraction
 pubDate: '2026-08-13T09:00:10.021Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/200801_Nikko_Tosho-gu_Nikko_Japan03s3.jpg/1920px-200801_Nikko_Tosho-gu_Nikko_Japan03s3.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/200801_Nikko_Tosho-gu_Nikko_Japan03s3.jpg/1920px-200801_Nikko_Tosho-gu_Nikko_Japan03s3.jpg
   credit: 'Photo: 663highland / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:200801_Nikko_Tosho-gu_Nikko_Japan03s3.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:200801_Nikko_Tosho-gu_Nikko_Japan03s3.jpg
 gallery:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nikk%C5%8D_T%C5%8Dsh%C5%8Dg%C5%AB_%2815976868928%29.jpg/1920px-Nikk%C5%8D_T%C5%8Dsh%C5%8Dg%C5%AB_%2815976868928%29.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nikk%C5%8D_T%C5%8Dsh%C5%8Dg%C5%AB_%2815976868928%29.jpg/1920px-Nikk%C5%8D_T%C5%8Dsh%C5%8Dg%C5%AB_%2815976868928%29.jpg
     credit: 'Photo: x768 / Wikimedia Commons (CC BY-SA 2.0)'
     license: wikimedia
-    source: https://commons.wikimedia.org/wiki/File:Nikk%C5%8D_T%C5%8Dsh%C5%8Dg%C5%AB_(15976868928).jpg
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Nikk%C5%8D_T%C5%8Dsh%C5%8Dg%C5%AB_(15976868928).jpg
 place:
   id: ChIJNSAhU8WmH2ARlA7wenFbUKs
   name: Nikkō Tōshōgū
-  address: 2301 Sannai, Nikko, Tochigi 321-1431, Japan
+  address: '2301 Sannai, Nikko, Tochigi 321-1431, Japan'
   rating: 4.5
-  userRatingsTotal: 34063
-  googleMapsUrl: https://maps.google.com/?cid=12344467121574514324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 34433
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12344467121574514324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 36.7580878
   lng: 139.5987466
@@ -49,20 +57,38 @@ place:
 tags:
   - nikko
   - top attraction
-quickAnswer: Nikkō Tōshōgū is the lavishly gilded 17th-century shrine complex honoring shogun Tokugawa Ieyasu, open daily 9am–4pm. Budget 90 minutes to two hours to see the Three Wise Monkeys, the sleeping cat carving, and the gold-leafed Yomeimon Gate. It's very popular, so aim for right at 9am opening on a weekday, since weekends fill fast between 10am and 3pm.
+quickAnswer: >-
+  Nikkō Tōshōgū is the lavishly gilded 17th-century shrine complex honoring
+  shogun Tokugawa Ieyasu, open daily 9am–4pm. Budget 90 minutes to two hours to
+  see the Three Wise Monkeys, the sleeping cat carving, and the gold-leafed
+  Yomeimon Gate. It's very popular, so aim for right at 9am opening on a
+  weekday, since weekends fill fast between 10am and 3pm.
 faq:
   - q: How do I get to Nikkō Tōshōgū from Tokyo?
-    a: Take the Tobu Nikko Line from Asakusa Station (about two hours) to Tobu Nikko Station, then walk 25-30 minutes uphill or take a local bus toward the Shrines and Temples area.
+    a: >-
+      Take the Tobu Nikko Line from Asakusa Station (about two hours) to Tobu
+      Nikko Station, then walk 25-30 minutes uphill or take a local bus toward
+      the Shrines and Temples area.
   - q: What are the opening hours?
-    a: The shrine is open daily from 9:00 AM to 4:00 PM, with no weekly closure day. Always confirm before visiting in case of seasonal changes.
+    a: >-
+      The shrine is open daily from 9:00 AM to 4:00 PM, with no weekly closure
+      day. Always confirm before visiting in case of seasonal changes.
   - q: When is the quietest time to visit?
-    a: Weekdays are calm throughout the full 9am-4pm window. Avoid weekends between 10am and 3pm, when tour buses arrive and paths near the main gate get congested.
+    a: >-
+      Weekdays are calm throughout the full 9am-4pm window. Avoid weekends
+      between 10am and 3pm, when tour buses arrive and paths near the main gate
+      get congested.
   - q: How long should I spend at Tōshōgū?
-    a: Plan for 90 minutes to two hours to see the main carvings, the Sleeping Cat passage, Ieyasu's tomb, and the Honji-do Hall's crying dragon ceiling.
+    a: >-
+      Plan for 90 minutes to two hours to see the main carvings, the Sleeping
+      Cat passage, Ieyasu's tomb, and the Honji-do Hall's crying dragon ceiling.
   - q: What else is nearby?
-    a: Tōshōgū sits within Nikko's World Heritage shrine and temple cluster, alongside Rinno-ji Temple and Futarasan Shrine, both an easy walk away.
+    a: >-
+      Tōshōgū sits within Nikko's World Heritage shrine and temple cluster,
+      alongside Rinno-ji Temple and Futarasan Shrine, both an easy walk away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-27'
 ---
 
 ## Why Tōshōgū stops you in your tracks

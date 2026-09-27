@@ -1,59 +1,85 @@
 ---
-title: "Bai Dinh Pagoda: Ninh Binh Travel Guide (4.9★)"
-description: "Bai Dinh Pagoda, on the edge of Ninh Binh's Hoa Lu district, is the largest Buddhist complex in Vietnam — open daily 7am–5:30pm. 4.9★ (25,303 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Ninh Binh"
-category: "attraction"
-pubDate: "2026-08-19T09:01:23.983Z"
+title: 'Bai Dinh Pagoda: Ninh Binh Travel Guide (4.8★)'
+description: >-
+  Bai Dinh Pagoda, on the edge of Ninh Binh's Hoa Lu district, is the largest
+  Buddhist complex in Vietnam — open daily 7am–5:30pm. 4.8★ (25,334 reviews) —
+  what visitors say, hours, and tips.
+country: Vietnam
+region: Ninh Binh
+category: attraction
+pubDate: '2026-08-19T09:01:23.983Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/M%E1%BB%98T_G%C3%93C_CH%C3%99A_B%C3%81I_%C4%90%C3%8DNH_-_panoramio.jpg/1920px-M%E1%BB%98T_G%C3%93C_CH%C3%99A_B%C3%81I_%C4%90%C3%8DNH_-_panoramio.jpg"
-  credit: "Photo: VŨ HÙNG / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:M%E1%BB%98T_G%C3%93C_CH%C3%99A_B%C3%81I_%C4%90%C3%8DNH_-_panoramio.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/M%E1%BB%98T_G%C3%93C_CH%C3%99A_B%C3%81I_%C4%90%C3%8DNH_-_panoramio.jpg/1920px-M%E1%BB%98T_G%C3%93C_CH%C3%99A_B%C3%81I_%C4%90%C3%8DNH_-_panoramio.jpg
+  credit: 'Photo: VŨ HÙNG / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:M%E1%BB%98T_G%C3%93C_CH%C3%99A_B%C3%81I_%C4%90%C3%8DNH_-_panoramio.jpg
   focus:
     x: 52
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/VT_Ninh_Binh_-_02_2023_-_MIC04159_-_Bai_Dinh_%281%29_-_Insta.jpg/3840px-VT_Ninh_Binh_-_02_2023_-_MIC04159_-_Bai_Dinh_%281%29_-_Insta.jpg"
-    credit: "Photo: Travelphotographery / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:VT_Ninh_Binh_-_02_2023_-_MIC04159_-_Bai_Dinh_(1)_-_Insta.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/VT_Ninh_Binh_-_02_2023_-_MIC04159_-_Bai_Dinh_%281%29_-_Insta.jpg/3840px-VT_Ninh_Binh_-_02_2023_-_MIC04159_-_Bai_Dinh_%281%29_-_Insta.jpg
+    credit: 'Photo: Travelphotographery / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:VT_Ninh_Binh_-_02_2023_-_MIC04159_-_Bai_Dinh_(1)_-_Insta.jpg
 place:
-  id: "ChIJU42tIrB-NjERhcIxUnHsSIs"
-  name: "Bai Dinh Pagoda"
-  address: "Xóm 6, Tay Hoa Lu, Ninh Binh, Vietnam"
-  rating: 4.9
-  userRatingsTotal: 25303
-  googleMapsUrl: "https://maps.google.com/?cid=10036531741049602693&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  id: ChIJU42tIrB-NjERhcIxUnHsSIs
+  name: Bai Dinh Pagoda
+  address: 'Xóm 6, Tay Hoa Lu, Ninh Binh, Vietnam'
+  rating: 4.8
+  userRatingsTotal: 25334
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10036531741049602693&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 20.2678711
   lng: 105.85551749999999
-  phone: "+84 913 899 135"
+  phone: +84 913 899 135
   openingHours:
-    - "Monday: 7:00 AM – 5:30 PM"
-    - "Tuesday: 7:00 AM – 5:30 PM"
-    - "Wednesday: 7:00 AM – 5:30 PM"
-    - "Thursday: 7:00 AM – 5:30 PM"
-    - "Friday: 7:00 AM – 5:30 PM"
-    - "Saturday: 7:00 AM – 5:30 PM"
-    - "Sunday: 7:00 AM – 5:30 PM"
+    - 'Monday: 7:00 AM – 5:30 PM'
+    - 'Tuesday: 7:00 AM – 5:30 PM'
+    - 'Wednesday: 7:00 AM – 5:30 PM'
+    - 'Thursday: 7:00 AM – 5:30 PM'
+    - 'Friday: 7:00 AM – 5:30 PM'
+    - 'Saturday: 7:00 AM – 5:30 PM'
+    - 'Sunday: 7:00 AM – 5:30 PM'
 tags:
-  - "ninh binh"
-  - "museum"
-quickAnswer: "Bai Dinh Pagoda, on the edge of Ninh Binh's Hoa Lu district, is the largest Buddhist complex in Vietnam — open daily 7am–5:30pm. Give it a half-day: a golf-cart or electric-buggy ride up, then an hour or more climbing between the giant Buddha halls and the 500-arhat corridor. Go right at opening or after 3pm to dodge the tour-bus crowds that pack the courtyards mid-morning."
+  - ninh binh
+  - museum
+quickAnswer: >-
+  Bai Dinh Pagoda, on the edge of Ninh Binh's Hoa Lu district, is the largest
+  Buddhist complex in Vietnam — open daily 7am–5:30pm. Give it a half-day: a
+  golf-cart or electric-buggy ride up, then an hour or more climbing between the
+  giant Buddha halls and the 500-arhat corridor. Go right at opening or after
+  3pm to dodge the tour-bus crowds that pack the courtyards mid-morning.
 faq:
-  - q: "How much time should I budget for Bai Dinh Pagoda?"
-    a: "Plan on at least 2 hours for the main halls and corridor, closer to 3 if you also climb to the hilltop stupa for the valley view."
-  - q: "What's the quietest time to visit?"
-    a: "Right at opening (7am) or after 3pm, before the tour buses that dominate mid-morning and early afternoon."
-  - q: "How do I get from Ninh Binh city to Bai Dinh?"
-    a: "It's about a 25-minute drive or taxi ride (roughly 15km); most travelers combine it with a trip to Trang An or Hoa Lu, both 10-15 minutes away."
-  - q: "Is there an entrance fee?"
-    a: "Entry to the pagoda grounds is generally free, but there's usually a small fee for the electric buggy that shuttles you up the hill — confirm current pricing on arrival."
-  - q: "Should I avoid festival season?"
-    a: "If you want a peaceful visit, yes — the period from Lunar New Year through the third lunar month (roughly February–April) brings heavy pilgrim crowds."
+  - q: How much time should I budget for Bai Dinh Pagoda?
+    a: >-
+      Plan on at least 2 hours for the main halls and corridor, closer to 3 if
+      you also climb to the hilltop stupa for the valley view.
+  - q: What's the quietest time to visit?
+    a: >-
+      Right at opening (7am) or after 3pm, before the tour buses that dominate
+      mid-morning and early afternoon.
+  - q: How do I get from Ninh Binh city to Bai Dinh?
+    a: >-
+      It's about a 25-minute drive or taxi ride (roughly 15km); most travelers
+      combine it with a trip to Trang An or Hoa Lu, both 10-15 minutes away.
+  - q: Is there an entrance fee?
+    a: >-
+      Entry to the pagoda grounds is generally free, but there's usually a small
+      fee for the electric buggy that shuttles you up the hill — confirm current
+      pricing on arrival.
+  - q: Should I avoid festival season?
+    a: >-
+      If you want a peaceful visit, yes — the period from Lunar New Year through
+      the third lunar month (roughly February–April) brings heavy pilgrim
+      crowds.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-27'
 ---
 
 ## Why go

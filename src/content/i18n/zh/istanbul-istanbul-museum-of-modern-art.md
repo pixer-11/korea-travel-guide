@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: istanbul-istanbul-museum-of-modern-art
-srcHash: '7b90df9e5c38'
+srcHash: 'c7c3aa76bc9c'
 title: 伊斯坦布尔现代艺术博物馆旅行指南（4.4★）
-description: 伊斯坦布尔现代艺术博物馆（İstanbul Modern）坐落在贝伊奥卢（Beyoğlu）卡拉柯伊（Karaköy）托普哈内（Tophane）一带的博斯普鲁斯海峡沿岸，从T1有轨电车托普哈内站步行即可到达。4.4★（11,499条评价）——游客怎么说、开放时间及实用建议一并奉上。
+description: 伊斯坦布尔现代艺术博物馆（İstanbul Modern）坐落在贝伊奥卢（Beyoğlu）卡拉柯伊（Karaköy）托普哈内（Tophane）一带的博斯普鲁斯海峡沿岸，从T1有轨电车托普哈内站步行即可到达。4.4★（11,502条评价）——游客怎么说、开放时间及实用建议一并奉上。
 quickAnswer: 伊斯坦布尔现代艺术博物馆（İstanbul Modern）坐落在贝伊奥卢（Beyoğlu）卡拉柯伊（Karaköy）托普哈内（Tophane）一带的博斯普鲁斯海峡沿岸，从T1有轨电车托普哈内站步行即可到达。博物馆周一闭馆，周五则延长开放至晚上8点。人流最少的时段是周五下午6点到7点，或周末上午10点到11点；周末下午1点到6点则是人最多的时候。
 faq:
   - q: 什么时候去伊斯坦布尔现代艺术博物馆人最少？

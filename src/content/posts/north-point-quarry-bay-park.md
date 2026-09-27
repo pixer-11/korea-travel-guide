@@ -1,59 +1,83 @@
 ---
-title: "Quarry Bay Park: North Point Travel Guide (4.2★)"
-description: "Quarry Bay Park sits on the North Point waterfront along Hoi Tai Street, right where Quarry Bay meets Kai Yuen Street's typhoon shelter. 4.2★ (1,656 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
-region: "North Point"
-category: "attraction"
-pubDate: "2026-09-18T07:50:24.576Z"
+title: 'Quarry Bay Park: North Point Travel Guide (4.2★)'
+description: >-
+  Quarry Bay Park sits on the North Point waterfront along Hoi Tai Street, right
+  where Quarry Bay meets Kai Yuen Street's typhoon shelter. 4.2★ (1,658 reviews)
+  — what visitors say, hours, and tips.
+country: Hong Kong
+region: North Point
+category: attraction
+pubDate: '2026-09-18T07:50:24.576Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Quarry_Bay_Park_1.JPG/1920px-Quarry_Bay_Park_1.JPG"
-  credit: "Photo: HK Arun / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Quarry_Bay_Park_1.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Quarry_Bay_Park_1.JPG/1920px-Quarry_Bay_Park_1.JPG
+  credit: 'Photo: HK Arun / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Quarry_Bay_Park_1.JPG'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/7617_Q7xC6Iexffg5kBrCkcDnb7ox9R2aBY67qLeGMYbdryw.jpg"
-    credit: "Photo: Foursquare user content (Quarry Bay Park (鰂魚涌公園))"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4cfb81af7f2db1f735f92dd4"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/7617_Q7xC6Iexffg5kBrCkcDnb7ox9R2aBY67qLeGMYbdryw.jpg
+    credit: 'Photo: Foursquare user content (Quarry Bay Park (鰂魚涌公園))'
+    license: foursquare
+    source: 'https://foursquare.com/v/4cfb81af7f2db1f735f92dd4'
 place:
-  id: "ChIJB1uK0nIBBDQRZL1mrXTvlVQ"
-  name: "Quarry Bay Park"
-  address: "Hoi Tai St, Quarry Bay, Hong Kong Island, Hong Kong"
+  id: ChIJB1uK0nIBBDQRZL1mrXTvlVQ
+  name: Quarry Bay Park
+  address: 'Hoi Tai St, Quarry Bay, Hong Kong Island, Hong Kong'
   rating: 4.2
-  userRatingsTotal: 1656
-  googleMapsUrl: "https://maps.google.com/?cid=6095040955120270692&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1658
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6095040955120270692&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.288425999999998
   lng: 114.21545100000002
-  phone: "+852 2513 8499"
+  phone: +852 2513 8499
   openingHours:
-    - "Monday: 7:00 AM – 11:00 PM"
-    - "Tuesday: 7:00 AM – 11:00 PM"
-    - "Wednesday: 7:00 AM – 11:00 PM"
-    - "Thursday: 7:00 AM – 11:00 PM"
-    - "Friday: 7:00 AM – 11:00 PM"
-    - "Saturday: 7:00 AM – 11:00 PM"
-    - "Sunday: 7:00 AM – 11:00 PM"
+    - 'Monday: 7:00 AM – 11:00 PM'
+    - 'Tuesday: 7:00 AM – 11:00 PM'
+    - 'Wednesday: 7:00 AM – 11:00 PM'
+    - 'Thursday: 7:00 AM – 11:00 PM'
+    - 'Friday: 7:00 AM – 11:00 PM'
+    - 'Saturday: 7:00 AM – 11:00 PM'
+    - 'Sunday: 7:00 AM – 11:00 PM'
 tags:
-  - "north point"
-  - "park"
-quickAnswer: "Quarry Bay Park sits on the North Point waterfront along Hoi Tai Street, right where Quarry Bay meets Kai Yuen Street's typhoon shelter. It's open daily 7am to 11pm, free to enter, and best visited in early morning or after sunset when the harbour breeze cuts the humidity. Come for skyline views across to Kowloon, harbour benches, and courts rather than gardens or flowers."
+  - north point
+  - park
+quickAnswer: >-
+  Quarry Bay Park sits on the North Point waterfront along Hoi Tai Street, right
+  where Quarry Bay meets Kai Yuen Street's typhoon shelter. It's open daily 7am
+  to 11pm, free to enter, and best visited in early morning or after sunset when
+  the harbour breeze cuts the humidity. Come for skyline views across to
+  Kowloon, harbour benches, and courts rather than gardens or flowers.
 faq:
-  - q: "How do I get to Quarry Bay Park?"
-    a: "Walk about 10-15 minutes from Quarry Bay MTR station (Island and Tseung Kwan O lines) via Kai Yuen Street, or hop off a King's Road tram nearby. There's no single main gate; approach from any side street toward the harbour railing."
-  - q: "Is there an entry fee?"
-    a: "No. It's a free public park, open daily from 7am to 11pm."
-  - q: "What's the best time to visit?"
-    a: "Early morning (around 7-8am) for cooler air and tai chi practitioners, or after 6pm when the harbour lights up and temperatures drop. Midday sun on the concrete promenade is harsh with little shade."
-  - q: "Can I just show up and use the tennis or basketball courts?"
-    a: "Casual play is generally first-come, first-served, but organised bookings through Hong Kong's Leisure and Cultural Services Department can reserve courts, particularly on weekends. Bring your own equipment."
-  - q: "What's nearby if I want food afterward?"
-    a: "Tong Chong Street in Quarry Bay, a short walk south, has cafes and a weekend farmers' market area worth combining with a park visit."
+  - q: How do I get to Quarry Bay Park?
+    a: >-
+      Walk about 10-15 minutes from Quarry Bay MTR station (Island and Tseung
+      Kwan O lines) via Kai Yuen Street, or hop off a King's Road tram nearby.
+      There's no single main gate; approach from any side street toward the
+      harbour railing.
+  - q: Is there an entry fee?
+    a: 'No. It''s a free public park, open daily from 7am to 11pm.'
+  - q: What's the best time to visit?
+    a: >-
+      Early morning (around 7-8am) for cooler air and tai chi practitioners, or
+      after 6pm when the harbour lights up and temperatures drop. Midday sun on
+      the concrete promenade is harsh with little shade.
+  - q: Can I just show up and use the tennis or basketball courts?
+    a: >-
+      Casual play is generally first-come, first-served, but organised bookings
+      through Hong Kong's Leisure and Cultural Services Department can reserve
+      courts, particularly on weekends. Bring your own equipment.
+  - q: What's nearby if I want food afterward?
+    a: >-
+      Tong Chong Street in Quarry Bay, a short walk south, has cafes and a
+      weekend farmers' market area worth combining with a park visit.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-27'
 ---
 
 Quarry Bay Park runs in a long strip along the North Point waterfront, squeezed between Kai Yuen Street's typhoon shelter and the harbour itself. It's not a green retreat: it's concrete promenade, chain-link courts, and open sky, built for people who live in the towers behind it rather than for postcard shots.

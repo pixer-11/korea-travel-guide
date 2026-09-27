@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: mui-ne-phan-thiet-market
-srcHash: 'b13583438e0b'
+srcHash: '9382892e89cc'
 title: 'Mercado de Phan Thiết: Guía de viaje de Mui Ne (4,3★)'
-description: 'El mercado de Phan Thiết es el principal mercado techado de la calle Lý Thường Kiệt, en el centro de Phan Thiết, a unos 20 km al oeste de la franja de playa de Mui Ne, y abre todos los días de 5:30 a 18:00. 4,3★ (4.243 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El mercado de Phan Thiết es el principal mercado techado de la calle Lý Thường Kiệt, en el centro de Phan Thiết, a unos 20 km al oeste de la franja de playa de Mui Ne, y abre todos los días de 5:30 a 18:00. 4,3★ (4.245 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El mercado de Phan Thiết es el principal mercado techado de la calle Lý Thường Kiệt, en el centro de Phan Thiết, a unos 20 km al oeste de la franja de playa de Mui Ne, y abre todos los días de 5:30 a 18:00. Vale la pena ir por el nước mắm (salsa de pescado), el marisco seco, la pitahaya y un desayuno económico. Conviene evitar las mañanas de fin de semana entre las 8:00 y las 12:00, que son las horas de mayor afluencia.
 faq:
   - q: ¿A qué distancia está el mercado de Phan Thiết desde Mui Ne?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: chicago-heald-square-monument
-srcHash: '1c2d9fb55ec5'
+srcHash: 'a630f82b4a05'
 title: 'Monumento Heald Square: Guía de viaje de Chicago (4.6★)'
-description: 'El monumento Heald Square se alza en la esquina de East Wacker Drive y North Wabash Avenue, en el Loop de Chicago, en la orilla sur del río Chicago, justo encima del Riverwalk. 4.6★ (154 reseñas): lo que dicen los visitantes, horarios y consejos.'
+description: 'El monumento Heald Square se alza en la esquina de East Wacker Drive y North Wabash Avenue, en el Loop de Chicago, en la orilla sur del río Chicago, justo encima del Riverwalk. 4.6★ (153 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El monumento Heald Square se alza en la esquina de East Wacker Drive y North Wabash Avenue, en el Loop de Chicago, en la orilla sur del río Chicago, justo encima del Riverwalk. Es un grupo de bronce que representa a George Washington junto a los dos financistas de la Revolución, Robert Morris y Haym Salomon. Basta con dedicarle entre 15 y 20 minutos, e conviene incluirlo dentro de un paseo junto al río en lugar de hacer una visita aparte.
 faq:
   - q: ¿Dónde se encuentra exactamente el monumento Heald Square?
