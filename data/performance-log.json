@@ -1490,5 +1490,200 @@
         "delta": -6
       }
     ]
+  },
+  {
+    "week": "2026-09-27",
+    "pageviews": 2126,
+    "visits": 1933,
+    "top": [
+      {
+        "path": "/",
+        "views": 69
+      },
+      {
+        "path": "/ko/",
+        "views": 34
+      },
+      {
+        "path": "/api/",
+        "views": 19
+      },
+      {
+        "path": "/zh/",
+        "views": 18
+      },
+      {
+        "path": "/zh/posts/chinatown-chinatown-complex/",
+        "views": 17
+      },
+      {
+        "path": "/zh/posts/paris-prix-de-l-arc-de-triomphe/",
+        "views": 14
+      },
+      {
+        "path": "/posts/bangkok-chinatown-night-market/",
+        "views": 14
+      },
+      {
+        "path": "/posts/xi-an-2026-xi-an-grand-prix-snooker/",
+        "views": 13
+      },
+      {
+        "path": "/zh/posts/nantou-2026-sun-moon-lake-music-fireworks-festival/",
+        "views": 11
+      },
+      {
+        "path": "/ko/destinations/japan/",
+        "views": 11
+      },
+      {
+        "path": "/ko/posts/tokyo-ueno-park/",
+        "views": 11
+      },
+      {
+        "path": "/ja/posts/philadelphia-philadelphia-museum-of-art/",
+        "views": 10
+      },
+      {
+        "path": "/es/posts/samarkand-chess-olympiad-2026/",
+        "views": 9
+      },
+      {
+        "path": "/tools/when-to-go/south-korea/october/",
+        "views": 8
+      },
+      {
+        "path": "/zh/posts/ayutthaya-wat-mahathat/",
+        "views": 8
+      },
+      {
+        "path": "/zh/posts/xi-an-2026-xi-an-grand-prix-snooker/",
+        "views": 8
+      },
+      {
+        "path": "/zh/posts/monza-italian-grand-prix-formula-1/",
+        "views": 8
+      },
+      {
+        "path": "/ja/posts/tokyo-ultra-japan-2026/",
+        "views": 8
+      },
+      {
+        "path": "/posts/milan-sandi/",
+        "views": 8
+      },
+      {
+        "path": "/ja/posts/marina-bay-skypark-observation-deck/",
+        "views": 7
+      },
+      {
+        "path": "/zh/posts/shanghai-rolex-shanghai-masters/",
+        "views": 7
+      },
+      {
+        "path": "/posts/shanghai-ignis-table/",
+        "views": 7
+      },
+      {
+        "path": "/posts/tsim-sha-tsui-kowloon-park/",
+        "views": 7
+      },
+      {
+        "path": "/posts/jakarta-the-weeknd-after-hours-til-dawn-tour/",
+        "views": 7
+      },
+      {
+        "path": "/zh/posts/beijing-china-open-tennis/",
+        "views": 7
+      },
+      {
+        "path": "/posts/central-hong-kong-zoological-and-botanical-gardens/",
+        "views": 6
+      },
+      {
+        "path": "/posts/beijing-china-open-tennis/",
+        "views": 6
+      },
+      {
+        "path": "/posts/tokyo-ise-sueyoshi/",
+        "views": 6
+      },
+      {
+        "path": "/zh/posts/central-central-mid-levels-escalators/",
+        "views": 6
+      },
+      {
+        "path": "/posts/sentosa-skyline-luge-singapore/",
+        "views": 6
+      }
+    ],
+    "risers": [
+      {
+        "path": "/",
+        "delta": 37
+      },
+      {
+        "path": "/zh/",
+        "delta": 18
+      },
+      {
+        "path": "/zh/posts/paris-prix-de-l-arc-de-triomphe/",
+        "delta": 14
+      },
+      {
+        "path": "/posts/bangkok-chinatown-night-market/",
+        "delta": 14
+      },
+      {
+        "path": "/posts/xi-an-2026-xi-an-grand-prix-snooker/",
+        "delta": 13
+      },
+      {
+        "path": "/zh/posts/nantou-2026-sun-moon-lake-music-fireworks-festival/",
+        "delta": 11
+      },
+      {
+        "path": "/ko/destinations/japan/",
+        "delta": 11
+      },
+      {
+        "path": "/ko/posts/tokyo-ueno-park/",
+        "delta": 11
+      }
+    ],
+    "fallers": [
+      {
+        "path": "/posts/washington-dc-old-ebbitt-grill/",
+        "delta": -25
+      },
+      {
+        "path": "/ko/tools/when-to-go/",
+        "delta": -23
+      },
+      {
+        "path": "/tools/when-to-go/malaysia/january/",
+        "delta": -23
+      },
+      {
+        "path": "/api/",
+        "delta": -21
+      },
+      {
+        "path": "/tools/esim/italy/",
+        "delta": -12
+      },
+      {
+        "path": "/ko/tools/when-to-go/united-states/december/",
+        "delta": -9
+      },
+      {
+        "path": "/es/posts/venice-venice-international-film-festival-mostra-del-cinema/",
+        "delta": -9
+      },
+      {
+        "path": "/zh/posts/seoul-seoul-forest-park/",
+        "delta": -9
+      }
+    ]
   }
 ]
