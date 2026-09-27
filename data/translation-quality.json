@@ -30098,5 +30098,40 @@
   "registerBreak": false,
   "worst": "由于座位图和票种权益每年都会有所调整，选定票种前，务必到阿布扎比大奖赛官方网站核对最新的看台方案。",
   "at": "2026-09-27T08:19:48.169Z"
+ },
+ "es/istanbul-boris-brejcha-reflections-tour": {
+  "hash": "be82cb5b92f1",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "...vinculadas al promotor, siendo la entrada general de pie el formato habitual...",
+  "at": "2026-09-27T13:12:15.707Z"
+ },
+ "ja/istanbul-boris-brejcha-reflections-tour": {
+  "hash": "b28aad9a483f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "倉庫や屋上クラブのような場所ではありません。キュチュックチフトリッキ・パークは、イスタンブールの...",
+  "at": "2026-09-27T13:13:25.592Z"
+ },
+ "ko/istanbul-boris-brejcha-reflections-tour": {
+  "hash": "3d9f8bbe3c66",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "헤드라이너 공연에 몰리는 인파를 고려하면, 오스만베이나 시슬리-메지디예쿄이까지는 자가 운전보다 대중교통을 이용하는 편이 대체로 더 예측 가능한 선택이었습니다.",
+  "at": "2026-09-27T13:12:32.053Z"
+ },
+ "ko/phuket-phuket-old-town": {
+  "hash": "4f55e14d26c4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이곳은 이미 잘 알려진 명소이지 숨겨진 장소가 아니어서, 한낮에는 단체 관광객들도 지나갑니다.",
+  "at": "2026-09-27T13:12:33.773Z"
+ },
+ "ko/pisa-logge-dei-banchi": {
+  "hash": "3187d436908f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "피사를 둘로 나누어 벌이는 유서 깊은 줄다리기 축제 '조코 델 폰테'가 매달 마지막 토요일 폰테 디 메초 위에서 펼쳐집니다.",
+  "at": "2026-09-27T13:12:40.452Z"
  }
 }
