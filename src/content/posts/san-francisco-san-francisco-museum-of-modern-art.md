@@ -28,8 +28,6 @@ place:
     weekdayBusy:
       - 13
       - 14
-    weekendQuiet:
-      - 17
     weekendBusy:
       - 11
       - 12
@@ -38,6 +36,15 @@ place:
       - 15
       - 16
     venueId: "ven_674d6667794e76316c565f5241596841326e59314933354a496843"
+  phone: '+1 415-357-4000'
+  openingHours:
+    - 'Monday: 10:00 AM – 5:00 PM'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: Closed'
+    - 'Thursday: 12:00 – 8:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
 tags:
   - "san francisco"
   - "museum"

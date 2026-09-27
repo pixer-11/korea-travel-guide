@@ -25,6 +25,7 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.819910899999996
   lng: -122.4785598
+  phone: '+1 415-921-5858'
 tags:
   - san francisco
   - Golden Gate Bridge

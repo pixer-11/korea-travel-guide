@@ -64,7 +64,7 @@ faq:
     a: Sri Veeramakaliamman Temple, Tekka Centre market, and Mustafa Centre are all within a 5-10 minute walk, making it easy to combine into a longer Little India walk.
 aiGenerated: true
 updatedDate: '2026-09-08'
-draft: false
+draft: true
 ---
 
 ## Why go
