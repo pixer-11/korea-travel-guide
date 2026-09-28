@@ -1722,7 +1722,6 @@
   "bandung-floating-market-lembang\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Floating_Market_Lembang_-_including_selfie_alays_%2827126485005%29.jpg/3840px-Floating_Market_Lembang_-_including_selfie_alays_%2827126485005%29.jpg": 3840,
   "chicago-the-mart\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Rooftop_-_Chicago_Merchandise_Mart_%2843590422992%29.jpg/3840px-Rooftop_-_Chicago_Merchandise_Mart_%2843590422992%29.jpg": 3840,
   "chinatown-chinatown-street-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Chinese_New_Year_market_in_Singapore_Chinatown_horizontal.jpg/3840px-Chinese_New_Year_market_in_Singapore_Chinatown_horizontal.jpg": 3840,
-  "daegu-seomun-market\u0001https://upload.wikimedia.org/wikipedia/commons/f/fd/10%EA%B2%BD_%EC%84%9C%EB%AC%B8%EC%8B%9C%EC%9E%A5.jpg": 680,
   "ha-long-bay-ha-long-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Local_merchants_in_Ha_Long_Bay.jpg/3840px-Local_merchants_in_Ha_Long_Bay.jpg": 3840,
   "hiroshima-hondori-shopping-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hiroshima-Hondori_Shopping_Street_at_night.jpg/3840px-Hiroshima-Hondori_Shopping_Street_at_night.jpg": 3840,
   "busan-seafood\u0001https://fastly.4sqi.net/img/general/original/22125934_j78eB_Vc33tOwEeAjO5Io9U9C9-67U4NihShdBoJjhA.jpg": 1960,
@@ -1861,62 +1860,120 @@
   "tagaytay-tagaytay-city-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Tagaytay_City_Souvenirs%2C_Cavite%2C_Jul_2025.jpg/3840px-Tagaytay_City_Souvenirs%2C_Cavite%2C_Jul_2025.jpg": 3840,
   "washington-dc-lost-city-books\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Lost_City_Books_view_from_stairs.jpg/3840px-Lost_City_Books_view_from_stairs.jpg": 3840,
   "washington-dc-national-mall\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/National_Mall%2C_Washington%2C_D.C._%2820100325-DSC01310%29.jpg/1920px-National_Mall%2C_Washington%2C_D.C._%2820100325-DSC01310%29.jpg": 1920,
-  "washington-dc-tudor-place\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Tudor_Place_%2816689233310%29.jpg/1920px-Tudor_Place_%2816689233310%29.jpg": 1920
+  "washington-dc-tudor-place\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Tudor_Place_%2816689233310%29.jpg/1920px-Tudor_Place_%2816689233310%29.jpg": 1920,
+  "abu-dhabi-uae-presidential-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/UAE_Presidential_Palace_entrance_01.jpg/3840px-UAE_Presidential_Palace_entrance_01.jpg": 3840,
+  "adelaide-adelaide-botanic-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Palm_House%2C_Adelaide_Botanic_Gardens.jpg/1920px-Palm_House%2C_Adelaide_Botanic_Gardens.jpg": 1920,
+  "adelaide-adelaide-himeji-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Adelaide_Himeji_Garden%2C_August_2026_%28028A9284%29.jpg/1920px-Adelaide_Himeji_Garden%2C_August_2026_%28028A9284%29.jpg": 1920,
+  "agra-jahangir-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Jahangir_Palace._Agra%2C_India_%2823286549200%29.jpg/3840px-Jahangir_Palace._Agra%2C_India_%2823286549200%29.jpg": 3840,
+  "alice-springs-alice-springs-telegraph-station-historical-reserve\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Alice_Springs_Telegraph_Station_3.jpg/1920px-Alice_Springs_Telegraph_Station_3.jpg": 1920,
+  "avignon-remparts-d-avignon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Avignon_-_Porte_universit%C3%A9_remparts.jpg/3840px-Avignon_-_Porte_universit%C3%A9_remparts.jpg": 3840,
+  "bhubaneswar-rani-gumpha\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Udayagiri_Caves_-_Rani_Gumpha_01.jpg/3840px-Udayagiri_Caves_-_Rani_Gumpha_01.jpg": 3840,
+  "austin-neill-cochran-house-museum\u0001https://upload.wikimedia.org/wikipedia/commons/d/df/Neill_cochran_house_2007.jpg": 2180,
+  "brisbane-brisbane-riverwalk\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Skylines_of_Brisbane_in_winter_misty_morning_seen_from_Kangaroo_Point%2C_Queensland_04.jpg/1920px-Skylines_of_Brisbane_in_winter_misty_morning_seen_from_Kangaroo_Point%2C_Queensland_04.jpg": 1920,
+  "brisbane-museum-of-brisbane\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Museum_of_Brisbane_at_the_Brisbane_City_Hall_L3.jpg/1920px-Museum_of_Brisbane_at_the_Brisbane_City_Hall_L3.jpg": 1920,
+  "bangkok-chinatown-bangkok-yaowarat\u0001https://upload.wikimedia.org/wikipedia/commons/4/48/Sampeng_Lane%2C_Bangkok%27s_Chinatown%2C_Bangkok%2C_Thailand.jpg": 3072,
+  "boston-acorn-street\u0001https://upload.wikimedia.org/wikipedia/commons/d/d2/Acorn_Street_Boston%2C_Massachusetts.jpg": 1800,
+  "cairns-crystal-cascades\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Crystal_Cascades_SF24334-02.jpg/3840px-Crystal_Cascades_SF24334-02.jpg": 3840,
+  "canberra-australian-war-memorial\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Australian_War_Memorial_front_view.jpg/1920px-Australian_War_Memorial_front_view.jpg": 1920,
+  "canberra-cockington-green-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cockington_green_-_St._Andrews_Church%2C_Kiev%2C_Ukraine.jpg/1920px-Cockington_green_-_St._Andrews_Church%2C_Kiev%2C_Ukraine.jpg": 1920,
+  "cebu-yap-san-diego-ancestral-house\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Yap-San_Diego_Ancestral_House.jpg/3840px-Yap-San_Diego_Ancestral_House.jpg": 3840,
+  "chiayi-chiayi-old-prison\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Old_Chiayi_Prison%2C_front_gate_%28Taiwan%29.jpg/1920px-Old_Chiayi_Prison%2C_front_gate_%28Taiwan%29.jpg": 1920,
+  "bologna-portici-di-bologna\u0001https://upload.wikimedia.org/wikipedia/commons/1/1e/Bologna%2C_Portici_di_via_S.Isaia.JPG": 640,
+  "byron-bay-cape-byron-lighthouse\u0001https://upload.wikimedia.org/wikipedia/commons/2/2b/Cape_Byron_Lighthouse%2C_Byron_Bay.jpg": 2585,
+  "darwin-darwin-military-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Darwin_Military_Museum%2C_September_2025_03.jpg/1920px-Darwin_Military_Museum%2C_September_2025_03.jpg": 1920,
+  "darwin-darwin-waterfront-precinct\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Darwin_Waterfront.jpg/1920px-Darwin_Waterfront.jpg": 1920,
+  "cairns-cairns-aquarium\u0001https://upload.wikimedia.org/wikipedia/commons/6/69/Entrance_to_the_Cairns_Aquarium%2C_Florence_Street%2C_Cairns_CBD%2C_2018.jpg": 1920,
+  "fremantle-fremantle-prison\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Freo_prison_WMAU_gnangarra-131.jpg/1920px-Freo_prison_WMAU_gnangarra-131.jpg": 1920,
+  "colmar-maison-pfister\u0001https://upload.wikimedia.org/wikipedia/commons/3/39/Colmar-Maison_Pfister_%281%29.jpg": 3544,
+  "gold-coast-natural-bridge-springbrook-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Natural_Bridge%2C_Springbrook_National_Park_18.jpg/3840px-Natural_Bridge%2C_Springbrook_National_Park_18.jpg": 3840,
+  "gold-coast-snapper-rocks\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Snapper-rocks-hi-res.jpg/1920px-Snapper-rocks-hi-res.jpg": 1920,
+  "dubai-al-bastakiya\u0001https://upload.wikimedia.org/wikipedia/commons/9/95/Camello_y_campamento%2C_Al_Bastakiya%2C_Dubai%2C_2009-11-23%2C_DD_8878.jpg": 1561,
+  "genoa-porta-dei-vacca\u0001https://upload.wikimedia.org/wikipedia/commons/0/04/Porta_dei_Vacca_-_Genova_-_panoramio.jpg": 1500,
+  "daegu-seomun-market\u0001https://fastly.4sqi.net/img/general/original/9063911_qxiHAljpzMp8TWCVK-3SmxsWxbivaktfh8pwPj7vJbs.jpg": 1440,
+  "hobart-mona\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MONA%2C_2013_%2802%29.jpg/3840px-MONA%2C_2013_%2802%29.jpg": 3840,
+  "hobart-elizabeth-street-pier\u0001https://upload.wikimedia.org/wikipedia/commons/1/12/Morning_View_Elizabeth_pier_2011.jpg": 1024,
+  "istanbul-sultanahmet-square\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/PXL_20241211_074621005_Sultanahmet_Square_Istanbul%2C_Turkiye_04.jpg/3840px-PXL_20241211_074621005_Sultanahmet_Square_Istanbul%2C_Turkiye_04.jpg": 3840,
+  "jakarta-jakarta-old-town\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Batavia_City_Hall_%28Jakarta_History_Museum%29_Fatahillah_Square_%282025%29_-_img_01.jpg/1920px-Batavia_City_Hall_%28Jakarta_History_Museum%29_Fatahillah_Square_%282025%29_-_img_01.jpg": 1920,
+  "iloilo-nelly-garden-mansion\u0001https://upload.wikimedia.org/wikipedia/commons/0/0c/Lopez_Heritage_House_or_Nelly%27s_Garden_%28Mansion_de_Lopez%29.jpg": 2601,
+  "kolkata-bow-barracks\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bow_Barracks.JPG/1920px-Bow_Barracks.JPG": 1920,
+  "kuala-lumpur-kwai-chai-hong\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Kwai_Chai_Hong%2C_Kuala_Lumpur_in_May_2020_04.jpg/3840px-Kwai_Chai_Hong%2C_Kuala_Lumpur_in_May_2020_04.jpg": 3840,
+  "madrid-puerta-de-alcala\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Puerta_de_Alcal%C3%A1_2025.jpg/1920px-Puerta_de_Alcal%C3%A1_2025.jpg": 1920,
+  "malacca-dutch-square-red-square-melaka\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Melaka%2C_Malaysia_-_Dutch_Square_or_Red_Square%2C_March_2023.jpg/3840px-Melaka%2C_Malaysia_-_Dutch_Square_or_Red_Square%2C_March_2023.jpg": 3840,
+  "melbourne-melbourne-museum\u0001https://upload.wikimedia.org/wikipedia/commons/a/af/Melbourne_Museum_%28217000837%29.jpeg": 2048,
+  "melbourne-melbourne-skydeck\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Melbourne_Skydeck_%28View_from_Eureka_Tower%29_05.jpg/3840px-Melbourne_Skydeck_%28View_from_Eureka_Tower%29_05.jpg": 3840,
+  "mumbai-gateway-of-india-mumbai\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg/3840px-Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg": 3840,
+  "okinawa-tamaudun\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%E7%8E%89%E9%99%B5_Tamaudun_Royal_Mausoleum.jpg/1920px-%E7%8E%89%E9%99%B5_Tamaudun_Royal_Mausoleum.jpg": 1920,
+  "paris-pantheon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Pantheon_of_Paris_007.JPG/1920px-Pantheon_of_Paris_007.JPG": 1920,
+  "pattaya-pattaya-walking-street\u0001https://upload.wikimedia.org/wikipedia/commons/5/53/Walking_street%2Cpattaya%2CTHAILAND_-_panoramio.jpg": 3456,
+  "perth-elizabeth-quay\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Elizabeth_Quay_June_2018_b.jpg/1920px-Elizabeth_Quay_June_2018_b.jpg": 1920,
+  "perth-mindeerup\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/South_Perth_Mindeerup_02_meerkats.jpg/3840px-South_Perth_Mindeerup_02_meerkats.jpg": 3840,
+  "philadelphia-elfreth-s-alley-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Elfreth%27s_Alley_%2853572700168%29.jpg/1920px-Elfreth%27s_Alley_%2853572700168%29.jpg": 1920,
+  "pisa-piazza-del-duomo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Piazza_del_Duomo%2C_Pisa_-_panoramio.jpg/3840px-Piazza_del_Duomo%2C_Pisa_-_panoramio.jpg": 3840,
+  "portland-japanese-american-historical-plaza\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Japanese_American_Historical_Plaza_-_Portland%2C_Oregon.jpg/1920px-Japanese_American_Historical_Plaza_-_Portland%2C_Oregon.jpg": 1920,
+  "seattle-olympic-sculpture-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Olympic_Sculpture_Park_from_Space_Needle_-_Seattle.JPG/1920px-Olympic_Sculpture_Park_from_Space_Needle_-_Seattle.JPG": 1920,
+  "shanghai-shanghai-old-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Xiaodongmen_%28Shanghai_Old_Street%29_20231211155420.jpg/3840px-Xiaodongmen_%28Shanghai_Old_Street%29_20231211155420.jpg": 3840,
+  "sunshine-coast-aussie-world\u0001https://upload.wikimedia.org/wikipedia/commons/7/76/Aussie_World_2005.jpg": 1500,
+  "sunshine-coast-sea-life-sunshine-coast-aquarium\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sea_Life_Sunshine_Coast%2C_January_2026_02.jpg/3840px-Sea_Life_Sunshine_Coast%2C_January_2026_02.jpg": 3840,
+  "surabaya-alun-alun-surabaya\u0001https://upload.wikimedia.org/wikipedia/commons/d/d8/Balai_Pemuda_%28Simpangsche_Soci%C3%ABteit%29_Alun-Alun_Surabaya.jpg": 1152,
+  "sydney-darling-harbour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/2019-04-10_Sydney_CBD_view_from_Pyrmont_at_sunset.jpg/1920px-2019-04-10_Sydney_CBD_view_from_Pyrmont_at_sunset.jpg": 1920,
+  "sydney-wendy-whiteley-s-secret-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Wendy_Whiteley%27s_Secret_Garden_pano.jpg/3840px-Wendy_Whiteley%27s_Secret_Garden_pano.jpg": 3840,
+  "taipei-tamsui-old-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tamsui_Old_Street_Buildings_08.23_%286%29.jpg/1920px-Tamsui_Old_Street_Buildings_08.23_%286%29.jpg": 1920,
+  "xi-an-xi-an-daxuexi-alley-mosque\u0001https://upload.wikimedia.org/wikipedia/commons/a/a9/Daxuexi_Alley_Mosque.jpg": 3040
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
    "width": 1080,
-   "attempts": 8,
-   "nextTry": "2026-09-28",
+   "attempts": 9,
+   "nextTry": "2026-10-05",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "ajman-souryana-restaurant-and-cafe": {
    "width": 1100,
-   "attempts": 8,
-   "nextTry": "2026-09-28",
+   "attempts": 9,
+   "nextTry": "2026-10-05",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "agra-itmad-ud-daula": {
    "width": 960,
-   "attempts": 8,
-   "nextTry": "2026-09-28",
+   "attempts": 9,
+   "nextTry": "2026-10-05",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "goa-fort-aguada": {
    "width": 960,
-   "attempts": 8,
-   "nextTry": "2026-09-28",
+   "attempts": 9,
+   "nextTry": "2026-10-05",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "hue-maison-trang": {
    "width": 1080,
-   "attempts": 8,
-   "nextTry": "2026-09-28",
+   "attempts": 9,
+   "nextTry": "2026-10-05",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "jeonju-jeonju-hanok-village-cafe-masirange": {
    "width": 1080,
-   "attempts": 8,
-   "nextTry": "2026-09-28",
+   "attempts": 9,
+   "nextTry": "2026-10-05",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "phuket-day-night-of-phuket": {
    "width": 1080,
-   "attempts": 8,
-   "nextTry": "2026-09-28",
+   "attempts": 9,
+   "nextTry": "2026-10-05",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "provence-lavender-sunflower-field": {
    "width": 1080,
-   "attempts": 8,
-   "nextTry": "2026-09-28",
+   "attempts": 9,
+   "nextTry": "2026-10-05",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
@@ -1929,8 +1986,8 @@
   },
   "el-nido-taraw-cliff": {
    "width": 960,
-   "attempts": 7,
-   "nextTry": "2026-09-28",
+   "attempts": 8,
+   "nextTry": "2026-10-05",
    "flaggedAt": "2026-08-10",
    "lastResult": "no-wider"
   },
@@ -2262,7 +2319,25 @@
    "attempts": 0,
    "nextTry": "2026-09-27",
    "flaggedAt": "2026-09-27"
+  },
+  "bologna-portici-di-bologna": {
+   "width": 640,
+   "attempts": 0,
+   "nextTry": "2026-09-28",
+   "flaggedAt": "2026-09-28"
+  },
+  "hobart-elizabeth-street-pier": {
+   "width": 1024,
+   "attempts": 0,
+   "nextTry": "2026-09-28",
+   "flaggedAt": "2026-09-28"
+  },
+  "surabaya-alun-alun-surabaya": {
+   "width": 1152,
+   "attempts": 0,
+   "nextTry": "2026-09-28",
+   "flaggedAt": "2026-09-28"
   }
  },
- "updated": "2026-09-27T22:30:42.664Z"
+ "updated": "2026-09-28T23:54:45.122Z"
 }
