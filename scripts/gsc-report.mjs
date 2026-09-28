@@ -84,7 +84,9 @@ async function main() {
     [totals, queries, pages] = await Promise.all([
       query(token, GSC_SITE_URL, { startDate, endDate, dimensions: [] }),
       query(token, GSC_SITE_URL, { startDate, endDate, dimensions: ['query'], rowLimit: 200 }),
-      query(token, GSC_SITE_URL, { startDate, endDate, dimensions: ['page'], rowLimit: 10 }),
+      // All pages, sorted here by impressions: the API orders by clicks, so a
+      // week of zero clicks listed /about/ and /contact/ as "top" (2026-09-28).
+      query(token, GSC_SITE_URL, { startDate, endDate, dimensions: ['page'], rowLimit: 1000 }),
     ]);
   } catch (e) {
     await telegram(`🔎 Wander Atlas — 검색 리포트 오류\n${e.message.slice(0, 300)}`);
@@ -104,6 +106,16 @@ async function main() {
     .sort((a, b) => b.impressions - a.impressions)
     .slice(0, 8);
 
+  // Already on page 1 and still unclicked: the one place a title or snippet
+  // can move clicks (see the closed retitle experiment — titles are a lever
+  // only for pages that are already seen). On 2026-09-28 the Japanese Gyeongju
+  // page sat at 1-5 for "慶州 観光" with ~50 impressions and no click, while
+  // this report said "nothing yet" because it only looked at positions 11-20.
+  const seenUnclicked = rows
+    .filter((r) => r.position <= 10 && r.impressions >= 5 && r.clicks === 0)
+    .sort((a, b) => b.impressions - a.impressions)
+    .slice(0, 6);
+
   const topQ = rows.slice().sort((a, b) => b.clicks - a.clicks).filter((r) => r.clicks > 0).slice(0, 5);
   const shortPage = (u) => decodeURIComponent(String(u).replace(/^https?:\/\/[^/]+/, '')).slice(0, 48) || '/';
 
@@ -122,12 +134,19 @@ async function main() {
     for (const r of nearMiss) lines.push(`  • ${r.keys[0]} — ${r.position.toFixed(1)}위, 노출 ${r.impressions}`);
     lines.push('  → 이 주제의 글 제목·본문을 보강하면 1페이지 진입 가능');
   } else {
-    lines.push('', '🎯 2페이지권 검색어: 아직 없음 (노출이 더 쌓이면 표시)');
+    lines.push('', '🎯 2페이지권 검색어: 없음 (11~20위에 노출 5회 이상인 검색어가 없다)');
   }
 
-  if (pages.rows?.length) {
-    lines.push('', '📄 검색 유입 상위 페이지:');
-    for (const r of pages.rows.slice(0, 5)) lines.push(`  • ${shortPage(r.keys[0])} — 클릭 ${r.clicks}, 노출 ${r.impressions}`);
+  if (seenUnclicked.length) {
+    lines.push('', '👀 1페이지에 보이는데 아무도 안 누른 검색어:');
+    for (const r of seenUnclicked) lines.push(`  • ${r.keys[0]} — ${r.position.toFixed(1)}위, 노출 ${r.impressions}, 클릭 0`);
+    lines.push('  → 검색 결과에 뜨는 제목·설명이 이 검색어에 답하지 않는 경우가 많다');
+  }
+
+  const topPages = (pages.rows ?? []).slice().sort((a, b) => b.clicks - a.clicks || b.impressions - a.impressions);
+  if (topPages.length) {
+    lines.push('', '📄 노출 상위 페이지:');
+    for (const r of topPages.slice(0, 5)) lines.push(`  • ${shortPage(r.keys[0])} — 클릭 ${r.clicks}, 노출 ${r.impressions}`);
   }
 
   const text = lines.join('\n');
