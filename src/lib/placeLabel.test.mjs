@@ -4,6 +4,9 @@
 // 접미사를 붙이기 때문이다.
 import test from 'node:test';
 import assert from 'node:assert/strict';
+import { readFileSync, readdirSync, statSync } from 'node:fs';
+import { join } from 'node:path';
+import { fileURLToPath } from 'node:url';
 import { shortPlaceLabel } from './placeLabel.mjs';
 
 test('구분자 없이 붙은 접미사를 뗀다', () => {
@@ -48,4 +51,36 @@ test('攻略 접미사와 접미사 뒤 (도시) 괄호를 뗀다 — 이름 안
   // 접미사가 앞에 없으면 끝 괄호도 이름이다.
   assert.equal(shortPlaceLabel('清迈夜市（Night Bazaar）', 'zh'), '清迈夜市（Night Bazaar）');
   assert.equal(shortPlaceLabel('나라 공원(Nara Park) 여행 가이드', 'ko'), '나라 공원(Nara Park)');
+});
+
+// 2026-09-28: 글 페이지 Klook 상자가 「スルタンアフメット広場：イスタンブール旅行ガイド（4.7★）の
+// ツアー・チケット」 로 떴다. 이 헬퍼는 있었는데 PostArticle 이 쓰지 않고 split(/[:—]/) 을 따로 했다.
+test('실제 글 제목 4개 언어 — 이스탄불 술탄아흐메트 광장', () => {
+  assert.equal(shortPlaceLabel('スルタンアフメット広場：イスタンブール旅行ガイド（4.7★）', 'ja'), 'スルタンアフメット広場');
+  assert.equal(shortPlaceLabel('苏丹艾哈迈德广场：伊斯坦布尔旅行指南（4.7★）', 'zh'), '苏丹艾哈迈德广场');
+  assert.equal(shortPlaceLabel('술탄아흐메트 광장: 이스탄불 여행 가이드 (4.7★)', 'ko'), '술탄아흐메트 광장');
+  assert.equal(shortPlaceLabel('Plaza de Sultanahmet: guía de viaje de Estambul (4.7★)', 'es'), 'Plaza de Sultanahmet');
+});
+
+// 부류 가드: 번역 제목을 ASCII 콜론으로만 자르는 코드가 src/ 에 다시 생기면 막는다.
+// 전각 콜론을 함께 넣은 split(/[:：]/) 은 통과한다 (WhenToGo 의 번역 문자열 자르기).
+test('🛑 src/ 에 전각 콜론을 모르는 제목 자르기가 없다', () => {
+  const root = fileURLToPath(new URL('../', import.meta.url));
+  const hits = [];
+  const walk = (dir) => {
+    for (const name of readdirSync(dir)) {
+      const full = join(dir, name);
+      if (statSync(full).isDirectory()) { if (name !== 'content') walk(full); continue; }
+      if (!/\.(astro|mjs|ts|js)$/.test(name) || name.endsWith('.test.mjs') || name === 'placeLabel.mjs') continue;
+      readFileSync(full, 'utf8').split(/\r?\n/).forEach((line, i) => {
+        if (/^\s*\/\//.test(line)) return;
+        for (const m of line.matchAll(/split\(\/\[([^\]]*)\]/g)) {
+          const cls = m[1];
+          if (cls.includes(':') && !cls.includes('：') && !cls.includes('\\uff1a')) hits.push(`${full}:${i + 1}`);
+        }
+      });
+    }
+  };
+  walk(root);
+  assert.deepEqual(hits, [], '번역 제목에서 장소 이름을 뽑을 땐 shortPlaceLabel 을 쓴다');
 });

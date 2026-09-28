@@ -23,6 +23,7 @@
 //  instead of racing into two.
 // ─────────────────────────────────────────────────────────────
 import { getCollection } from 'astro:content';
+import { shortPlaceLabel } from './placeLabel.mjs';
 
 const DEFAULT_COUNTRY = 'South Korea';
 const countryOf = (entry) => entry.data.country ?? DEFAULT_COUNTRY;
@@ -198,7 +199,9 @@ export async function linkTargetsFor(country, lang, { title, href }) {
     p = (async () => {
       const out = [];
       for (const r of await postsInCountry(country)) {
-        const name = title(r).split(/[:—|]/)[0].trim();
+        // Same trim as PostArticle's ownHead: ja/zh titles split on 「：」 or carry
+        // no separator at all, so a bare split left the whole headline here.
+        const name = shortPlaceLabel(title(r), lang);
         // Korean/Japanese/Chinese names are short ("경복궁" is three characters);
         // the five-character floor is for Latin names, where "Bar" would link noise.
         if (name.length < (/[぀-鿿가-힯]/.test(name) ? 2 : 5)) continue;

@@ -31,6 +31,7 @@ import countryFactsData from '../../data/country-facts.json';
 import { tileMosaic, zoomFor, TILE_ATTRIBUTION } from '../lib/osmTile.mjs';
 import { stripPlusCode } from '../lib/address.mjs';
 import { linkMentions } from '../lib/body-links.mjs';
+import { shortPlaceLabel } from '../lib/placeLabel.mjs';
 import ogMirror from '../../data/og-mirror.json';
 import { klookCityDest } from '../lib/klookCities';
 import CrowdBlock from './post/CrowdBlock.astro';
@@ -242,9 +243,12 @@ const placeName = cleanName(p?.name);
 // per-venue translation table — but the localized TITLE carries it ("광장시장:
 // 서울 여행 가이드"), so its leading segment is the venue name in the reader's
 // language. Falls back to the English name when a translation is missing.
+// The shared helper, not a bare split(/[:—]/): ja/zh titles use the FULL-WIDTH
+// colon 「：」, so the Klook box read 「スルタンアフメット広場：イスタンブール
+// 旅行ガイド（4.7★）のツアー・チケット」 (2026-09-28).
 const placeLabel = (lang === defaultLang
   ? placeName
-  : String(title).split(/[:—]/)[0].trim() || placeName) || placeName;
+  : shortPlaceLabel(title, lang) || placeName) || placeName;
 
 // Same trick for an event: the localized title's leading segment is the event's
 // name in the reader's language. On the English page the article suffix comes
@@ -262,7 +266,7 @@ const plateMeta = `${regionLabel}${p?.rating ? ` · ★ ${p.rating.toFixed(1)}` 
 
 const eventLabel = (lang === defaultLang
   ? eventSchemaName(post.data.title)
-  : String(title).split(/[:—]/)[0].trim()) || eventSchemaName(post.data.title);
+  : shortPlaceLabel(title, lang)) || eventSchemaName(post.data.title);
 
 // Photo alt text, in the reader's language. It used to be an English template
 // ("Gwangjang Market in Seoul, South Korea") on every page including the 1,431
@@ -428,7 +432,7 @@ const kmLabel = (km: number) => (Number.isFinite(km) ? (km < 1 ? `${Math.max(1, 
 // article, never inside an existing link or heading. A place guide carried
 // ONE body link against an event guide's six (UX audit 2026-08-23). Names
 // are the localised title heads, so a Korean page links Korean mentions.
-const ownHead = postTitle(post).split(/[:—|]/)[0].trim().toLowerCase();
+const ownHead = shortPlaceLabel(postTitle(post), lang).toLowerCase();
 // The names and hrefs are identical for every page of this country in this
 // language, so lib/post-index builds that list once and this drops the two
 // things that are particular to this page.
@@ -1048,7 +1052,7 @@ const saveQuiet = perDay
                   preferring it printed "Gyeongbokgung Palace" on the Korean page. */}
               {nearby.map(({ r, km }) => (
                 <a class="nearby-chip" href={postHref(r.id)}>
-                  <span class="nearby-chip-t">{postTitle(r).split(/[:—]/)[0].trim() || r.data.place?.name}</span>
+                  <span class="nearby-chip-t">{shortPlaceLabel(postTitle(r), lang) || r.data.place?.name}</span>
                   {kmLabel(km) && <span class="nearby-km">{kmLabel(km)}</span>}
                 </a>
               ))}
