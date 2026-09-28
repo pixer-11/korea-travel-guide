@@ -70,6 +70,9 @@ flags('city echoed in name AND suffix', 'CITY', { title: 'Seoul Tower: The Best 
 clean('city only in the suffix half', { title: 'Namsan Tower: The Best Views in Seoul' });
 clean('city repeated inside the raw place name only', { title: 'Gyukatsu Kyoto Katsugyu Kyoto: Where to Eat in Seoul' });
 flags('dangling connector before colon', 'BROKEN TITLE', { title: 'Classical Gardens of: Suzhou Highlights' });
+// 반대 방향: 악센트 글자 뒤 'on' 은 접속사가 아니다(paris-pantheon, 2026-09-28 오탐).
+clean('accented name ending in a connector-looking syllable', { title: 'Panthéon: Paris Travel Guide (4.6★)' });
+flags('dangling connector after an accented word', 'BROKEN TITLE', { title: 'Musée de: Paris Travel Guide' });
 flags('filler subtitle regression', 'FILLER', { title: "Bukchon Hanok Village: A Visitor's Guide" });
 
 // ── 프롬프트 서문 유출 (bukhara-bolo-hauz-mosque, 2026-08-31 라이브에서 발견) ──

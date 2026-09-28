@@ -344,7 +344,8 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10),
 
   // A title left dangling on a connector — the de-echo rule stripped the city out of
   // "Classical Gardens of Suzhou" and shipped "Classical Gardens of: Suzhou …".
-  if (/\b(of|the|de|du|des|at|in|on|and|for|el|la|le|les)\s*:\s/i.test(p.title) || /[&@+\-–—/]\s*:\s/.test(p.title)) {
+  // JS \b is ASCII-only: "Panthéon: …" read as "Panth" + "on:" (2026-09-28). Letter-aware boundary.
+  if (/(?<![\p{L}\p{N}])(of|the|de|du|des|at|in|on|and|for|el|la|le|les)\s*:\s/iu.test(p.title) || /[&@+\-–—/]\s*:\s/.test(p.title)) {
     issues.push(`BROKEN TITLE (dangling connector before ":"): ${p.f} — "${p.title}"`);
   }
 

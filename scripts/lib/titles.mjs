@@ -49,7 +49,8 @@ export function makeTitle(name, target, place) {
   // "Classical Gardens of Suzhou" / "CQ @ Clarke Quay" / "Vieux Lyon" left a
   // dangling connector — "Classical Gardens of: Suzhou Travel Guide" — or a
   // meaningless fragment. Those names need the city to make sense.
-  const danglesConnector = /\b(of|the|de|du|des|at|in|on|and|for|à|a|el|la|le|les)$|[&@+\-–—/]$/i.test(deEchoed);
+  // Letter-aware boundary — JS \b is ASCII-only, so "Panthéon" ended in "on" (2026-09-28).
+  const danglesConnector = /(?<![\p{L}\p{N}])(of|the|de|du|des|at|in|on|and|for|à|a|el|la|le|les)$|[&@+\-–—/]$/iu.test(deEchoed);
   if (deEchoed.length >= 5 && !danglesConnector) base = deEchoed;
   // If the venue name itself contains the city ("Tokyo Tower"), don't repeat it in
   // the suffix — "Tokyo Tower: Travel Guide", not "…: Tokyo Travel Guide".
