@@ -18,7 +18,7 @@ export const ESIM_INDEX_KEYS = [
   'wifiName', 'wifiFor', 'wifiPro1', 'wifiPro2', 'wifiCon',
   'roamName', 'roamFor', 'roamPro1', 'roamCon1', 'roamCon2',
   'countriesHeading', 'carriersLabel',
-  'region.eastAsia', 'region.southAsia', 'region.middleCentral', 'region.europeAmericas',
+  'region.eastAsia', 'region.southAsia', 'region.middleCentral', 'region.europeAmericas', 'region.oceania',
 ] as const;
 
 export type EsimIndexKey = (typeof ESIM_INDEX_KEYS)[number];
@@ -50,6 +50,7 @@ export const ESIM_INDEX_STRINGS: Record<Lang, Record<EsimIndexKey, string>> = {
     'region.southAsia': 'Southeast & South Asia',
     'region.middleCentral': 'Middle East & Central Asia',
     'region.europeAmericas': 'Europe & Americas',
+    'region.oceania': 'Oceania',
   },
   ko: {
     title: '나라별 여행 eSIM 가이드',
@@ -77,6 +78,7 @@ export const ESIM_INDEX_STRINGS: Record<Lang, Record<EsimIndexKey, string>> = {
     'region.southAsia': '동남아시아·남아시아',
     'region.middleCentral': '중동·중앙아시아',
     'region.europeAmericas': '유럽·미주',
+    'region.oceania': '오세아니아',
   },
   ja: {
     title: '国別・旅行eSIMガイド',
@@ -104,6 +106,7 @@ export const ESIM_INDEX_STRINGS: Record<Lang, Record<EsimIndexKey, string>> = {
     'region.southAsia': '東南アジア・南アジア',
     'region.middleCentral': '中東・中央アジア',
     'region.europeAmericas': 'ヨーロッパ・アメリカ',
+    'region.oceania': 'オセアニア',
   },
   es: {
     title: 'Guías de eSIM de viaje por país',
@@ -131,6 +134,7 @@ export const ESIM_INDEX_STRINGS: Record<Lang, Record<EsimIndexKey, string>> = {
     'region.southAsia': 'Sudeste asiático y Asia del Sur',
     'region.middleCentral': 'Oriente Medio y Asia Central',
     'region.europeAmericas': 'Europa y América',
+    'region.oceania': 'Oceanía',
   },
   zh: {
     title: '各国旅行 eSIM 攻略',
@@ -158,6 +162,7 @@ export const ESIM_INDEX_STRINGS: Record<Lang, Record<EsimIndexKey, string>> = {
     'region.southAsia': '东南亚与南亚',
     'region.middleCentral': '中东与中亚',
     'region.europeAmericas': '欧洲与美洲',
+    'region.oceania': '大洋洲',
   },
 };
 

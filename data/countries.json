@@ -542,6 +542,32 @@
         "Poipet"
       ],
       "continent": "Asia"
+    },
+    {
+      "name": "Australia",
+      "iso2": "au",
+      "priority": 19,
+      "slug": "australia",
+      "flag": "🇦🇺",
+      "active": true,
+      "blurb": "Harbour cities, the Great Barrier Reef and red outback earth, with world-class sport and festivals all year.",
+      "regions": [
+        "Sydney",
+        "Melbourne",
+        "Brisbane",
+        "Gold Coast",
+        "Perth",
+        "Adelaide",
+        "Cairns",
+        "Hobart",
+        "Canberra",
+        "Darwin",
+        "Byron Bay",
+        "Sunshine Coast",
+        "Alice Springs",
+        "Fremantle"
+      ],
+      "continent": "Oceania"
     }
   ]
 }

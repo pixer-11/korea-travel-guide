@@ -32,6 +32,7 @@ export const COUNTRY_TZ = {
 
 const ET = 'America/New_York', CT = 'America/Chicago', PT = 'America/Los_Angeles';
 const WIB = 'Asia/Jakarta', WITA = 'Asia/Makassar';
+const SYD = 'Australia/Sydney', BNE = 'Australia/Brisbane', PER = 'Australia/Perth', DRW = 'Australia/Darwin';
 
 export const REGION_TZ = {
   'United States': {
@@ -49,6 +50,15 @@ export const REGION_TZ = {
     Bali: WITA, Ubud: WITA, Uluwatu: WITA, 'Nusa Penida': WITA, Lombok: WITA,
     'Gili Islands': WITA, Mandalika: WITA, 'Labuan Bajo': WITA, Komodo: WITA,
     Makassar: WITA,
+  },
+  // 퀸즐랜드(브리즈번·골드코스트·선샤인코스트·케언즈)는 서머타임이 없어 시드니와 반년은
+  // 1시간 어긋난다. 바이런베이는 퀸즐랜드 경계 바로 아래 NSW 라 시드니 시간,
+  // 앨리스스프링스는 노던 준주라 다윈 시간(2026-09-28).
+  Australia: {
+    Sydney: SYD, Canberra: SYD, 'Byron Bay': SYD, Melbourne: 'Australia/Melbourne',
+    Brisbane: BNE, 'Gold Coast': BNE, 'Sunshine Coast': BNE, Cairns: BNE,
+    Perth: PER, Fremantle: PER, Adelaide: 'Australia/Adelaide', Hobart: 'Australia/Hobart',
+    Darwin: DRW, 'Alice Springs': DRW,
   },
 };
 

@@ -3,7 +3,7 @@
 // here would fall off the index, so esim-regions.test.mjs fails the build when
 // any country in data/esim-facts.json (and active in countries.json) is missing.
 
-export const ESIM_REGION_ORDER = ['eastAsia', 'southAsia', 'middleCentral', 'europeAmericas'];
+export const ESIM_REGION_ORDER = ['eastAsia', 'southAsia', 'middleCentral', 'europeAmericas', 'oceania'];
 
 /** @type {Record<string, string>} */
 export const ESIM_REGION_OF = {
@@ -31,6 +31,8 @@ export const ESIM_REGION_OF = {
   italy: 'europeAmericas',
   spain: 'europeAmericas',
   'united-states': 'europeAmericas',
+  // Oceania (2026-09-28)
+  australia: 'oceania',
 };
 
 /**

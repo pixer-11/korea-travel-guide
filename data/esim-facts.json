@@ -323,5 +323,21 @@
       "Inside the Angkor Archaeological Park signal is good near the main temples but drops on the remote circuits (Banteay Srei, Beng Mealea) — screenshot your ticket QR beforehand.",
       "Power cuts happen in the provinces; a phone that tethers a laptop through the outage is often the only internet a guesthouse has."
     ]
+  },
+  "australia": {
+    "name": "Australia",
+    "carriers": [
+      "Telstra",
+      "Optus",
+      "Vodafone"
+    ],
+    "intro": "Australia has three networks: Telstra, Optus and Vodafone. Telstra reaches furthest into regional and remote areas; Optus and Vodafone are strong in the cities and along the populated coast. Before buying a travel eSIM, check which of the three it uses.",
+    "coverage": "Signal follows people. The east coast, the capital cities and the main highways are well covered, but most of the continent is outback where any network can drop out for hours. Telstra holds on longest on remote roads such as the drive to Uluru, and even it has long gaps.",
+    "tips": [
+      "All three networks switched off 3G in 2023 and 2024, so your phone needs 4G calling (VoLTE) support to make and take calls here. Most recent phones have it; older or region-locked models may not.",
+      "Download offline maps before any outback or national park drive. Distances are long and the stretches without signal are longer than they look on a map.",
+      "Public transport in Sydney, Melbourne and Brisbane takes contactless bank cards at the gate, so getting around the cities does not depend on your data.",
+      "Free WiFi is common in libraries, cafes and many city centres, which takes pressure off your plan in town."
+    ]
   }
 }

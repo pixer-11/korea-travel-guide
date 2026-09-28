@@ -862,5 +862,48 @@
       ]
     },
     "_srcHash": "35c8f0ab84e46d3d"
+  },
+  "australia": {
+    "ko": {
+      "intro": "호주에는 텔스트라(Telstra), 옵터스(Optus), 보다폰(Vodafone) 이렇게 세 개의 통신사가 있습니다. 텔스트라는 지방과 오지까지 가장 멀리 전파가 닿는 통신사이고, 옵터스와 보다폰은 대도시와 인구가 밀집한 해안 지역에서 강세를 보입니다. 여행용 eSIM을 구매하기 전에 세 통신사 중 어느 곳의 망을 사용하는지 먼저 확인하세요.",
+      "coverage": "신호는 사람이 있는 곳을 따라갑니다. 동부 해안과 주요 도시들, 그리고 주요 고속도로는 통신이 잘 되지만, 대륙의 대부분은 아웃백이라 어떤 통신사든 몇 시간씩 신호가 끊길 수 있습니다. 울룰루로 가는 길처럼 외딴 도로에서는 텔스트라가 가장 오래 버티지만, 그런 텔스트라조차도 신호가 끊기는 구간이 길게 이어집니다.",
+      "tips": [
+        "세 통신사 모두 2023년과 2024년에 걸쳐 3G 서비스를 종료했기 때문에, 호주에서 전화를 걸고 받으려면 휴대폰이 4G 통화(VoLTE)를 지원해야 합니다. 최신 휴대폰 대부분은 이를 지원하지만, 구형 모델이나 특정 지역 전용 모델은 지원하지 않을 수 있습니다.",
+        "아웃백이나 국립공원으로 운전해서 갈 때는 출발 전에 오프라인 지도를 미리 다운로드하세요. 이동 거리가 길고, 신호가 끊기는 구간은 지도에서 보이는 것보다 훨씬 더 깁니다.",
+        "시드니, 멜버른, 브리즈번의 대중교통은 개찰구에서 컨택리스 은행 카드로 바로 이용할 수 있어서, 도시 내 이동은 데이터 연결 여부와 상관없이 문제없이 할 수 있습니다.",
+        "도서관, 카페, 그리고 여러 도심 지역에서는 무료 WiFi를 쉽게 이용할 수 있어서, 시내에서는 데이터 요금제에 대한 부담을 덜 수 있습니다."
+      ]
+    },
+    "ja": {
+      "intro": "オーストラリアには、テルストラ(Telstra)、オプタス(Optus)、ボーダフォン(Vodafone)の3つの通信キャリアがあります。地方や僻地までカバーしているのはテルストラが最も広く、オプタスとボーダフォンは都市部や人口の多い沿岸地域で強みを発揮します。旅行用eSIMを購入する前に、これら3社のどのネットワークを利用しているか確認しておきましょう。",
+      "coverage": "電波は人の住む場所に沿って届きます。東海岸や州都、主要ハイウェイ沿いは電波状態が良好ですが、大陸の大部分はアウトバック(内陸の未開拓地)で、どのキャリアでも数時間圏外になることがあります。ウルルへ向かう道など僻地の道路ではテルストラが最も長く電波を保持しますが、それでも長い圏外区間は避けられません。",
+      "tips": [
+        "2023年から2024年にかけて3社とも3G回線を停止したため、通話には4G通話機能(VoLTE)対応が必須です。最近の機種はほぼ対応していますが、古い機種や地域ロック機種は対応していない場合があります。",
+        "アウトバックや国立公園をドライブする前には、必ずオフラインマップをダウンロードしておきましょう。距離が長いうえ、圏外区間は地図で見るよりもずっと長く続きます。",
+        "シドニー、メルボルン、ブリスベンの公共交通機関では、改札で非接触型の銀行カードをそのままタッチして利用できるため、市内の移動はデータ通信に頼らずに済みます。",
+        "図書館やカフェ、多くの都市中心部では無料WiFiが利用できることが多く、街なかではデータ通信量の節約にもなります。"
+      ]
+    },
+    "es": {
+      "intro": "Australia cuenta con tres redes: Telstra, Optus y Vodafone. Telstra es la que más se adentra en las zonas regionales y remotas, mientras que Optus y Vodafone tienen buena cobertura en las ciudades y a lo largo de la costa poblada. Antes de comprar una eSIM para viajar, conviene comprobar cuál de las tres utiliza.",
+      "coverage": "La señal sigue a la gente. La costa este, las capitales y las autopistas principales tienen buena cobertura, pero la mayor parte del continente es outback, donde cualquier red puede quedarse sin señal durante horas. Telstra es la que aguanta más tiempo en carreteras remotas, como el trayecto hacia Uluru, aunque incluso ella tiene tramos largos sin cobertura.",
+      "tips": [
+        "Las tres redes apagaron el 3G en 2023 y 2024, así que tu teléfono necesita soporte de llamadas por 4G (VoLTE) para poder hacer y recibir llamadas aquí. La mayoría de los móviles recientes lo tienen; los modelos más antiguos o bloqueados por región puede que no.",
+        "Descarga mapas sin conexión antes de cualquier trayecto por el outback o por un parque nacional. Las distancias son largas y los tramos sin señal son más largos de lo que parecen en el mapa.",
+        "El transporte público de Sídney, Melbourne y Brisbane acepta tarjetas bancarias sin contacto directamente en el torniquete, así que moverte por las ciudades no depende de tus datos móviles.",
+        "El WiFi gratuito es habitual en bibliotecas, cafeterías y en muchos centros urbanos, lo que le quita presión a tu plan de datos cuando estás en la ciudad."
+      ]
+    },
+    "zh": {
+      "intro": "澳大利亚有三大网络运营商：Telstra、Optus 和 Vodafone。Telstra 在地区及偏远地区的覆盖范围最广；Optus 和 Vodafone 则在各大城市及人口密集的沿海地区信号强劲。购买旅行 eSIM 之前，请务必确认它使用的是这三家中的哪一家网络。",
+      "coverage": "信号的分布跟着人群走。东海岸、各州首府城市以及主要公路沿线覆盖良好，但大陆大部分地区都是内陆荒漠地带，在那里无论哪家网络都可能连续数小时没有信号。在通往乌鲁鲁（Uluru）等偏远公路上，Telstra 的信号维持时间最久，但即便如此，也会出现长时间的信号盲区。",
+      "tips": [
+        "三大运营商已在2023年和2024年相继关闭了3G网络，因此你的手机需要支持4G通话（VoLTE）功能才能在当地拨打和接听电话。大多数近期机型都支持此功能，但较旧或有地区锁定的型号可能不支持。",
+        "在前往内陆或国家公园自驾之前，请务必提前下载离线地图。当地路程遥远，而且无信号路段往往比地图上看起来的要长得多。",
+        "悉尼、墨尔本和布里斯班的公共交通可以直接在闸机处刷银行卡（非接触式）乘车，因此在城市内出行并不依赖于你的移动数据。",
+        "图书馆、咖啡馆以及许多市中心区域普遍提供免费WiFi，这能在城区内为你的流量套餐减轻不少压力。"
+      ]
+    },
+    "_srcHash": "e4d86c9abdb97b15"
   }
 }

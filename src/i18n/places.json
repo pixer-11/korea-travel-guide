@@ -11,6 +11,12 @@
     "es": "Abu Dabi",
     "zh": "阿布扎比"
   },
+  "Adelaide": {
+    "ko": "애들레이드",
+    "ja": "アデレード",
+    "es": "Adelaida",
+    "zh": "阿德莱德"
+  },
   "Agra": {
     "ko": "아그라",
     "ja": "アーグラ",
@@ -46,6 +52,12 @@
     "ja": "アルカニス",
     "es": "Alcañiz",
     "zh": "阿尔卡尼斯"
+  },
+  "Alice Springs": {
+    "ko": "앨리스스프링스",
+    "ja": "アリススプリングス",
+    "es": "Alice Springs",
+    "zh": "爱丽斯泉"
   },
   "Alishan": {
     "ko": "아리산",
@@ -112,6 +124,12 @@
     "ja": "オースティン",
     "es": "Austin",
     "zh": "奥斯汀"
+  },
+  "Australia": {
+    "ko": "호주",
+    "ja": "オーストラリア",
+    "es": "Australia",
+    "zh": "澳大利亚"
   },
   "Avignon": {
     "ko": "아비뇽",
@@ -245,6 +263,12 @@
     "es": "Boston",
     "zh": "波士顿"
   },
+  "Brisbane": {
+    "ko": "브리즈번",
+    "ja": "ブリスベン",
+    "es": "Brisbane",
+    "zh": "布里斯班"
+  },
   "Bugis": {
     "ko": "부기스",
     "ja": "ブギス",
@@ -281,6 +305,18 @@
     "es": "Buñol",
     "zh": "布尼奥尔"
   },
+  "Byron Bay": {
+    "ko": "바이런베이",
+    "ja": "バイロンベイ",
+    "es": "Byron Bay",
+    "zh": "拜伦湾"
+  },
+  "Cairns": {
+    "ko": "케언즈",
+    "ja": "ケアンズ",
+    "es": "Cairns",
+    "zh": "凯恩斯"
+  },
   "Cambodia": {
     "ko": "캄보디아",
     "ja": "カンボジア",
@@ -298,6 +334,12 @@
     "ja": "カントー",
     "es": "Can Tho",
     "zh": "芹苴"
+  },
+  "Canberra": {
+    "ko": "캔버라",
+    "ja": "キャンベラ",
+    "es": "Canberra",
+    "zh": "堪培拉"
   },
   "Cannes": {
     "ko": "칸",
@@ -473,6 +515,12 @@
     "es": "Danyang",
     "zh": "丹阳"
   },
+  "Darwin": {
+    "ko": "다윈",
+    "ja": "ダーウィン",
+    "es": "Darwin",
+    "zh": "达尔文"
+  },
   "Davao": {
     "ko": "다바오",
     "ja": "ダバオ",
@@ -569,6 +617,12 @@
     "es": "Francia",
     "zh": "法国"
   },
+  "Fremantle": {
+    "ko": "프리맨틀",
+    "ja": "フリーマントル",
+    "es": "Fremantle",
+    "zh": "弗里曼特尔"
+  },
   "Fujairah": {
     "ko": "푸자이라",
     "ja": "フジャイラ",
@@ -628,6 +682,12 @@
     "ja": "ゴア",
     "es": "Goa",
     "zh": "果阿"
+  },
+  "Gold Coast": {
+    "ko": "골드코스트",
+    "ja": "ゴールドコースト",
+    "es": "Gold Coast",
+    "zh": "黄金海岸"
   },
   "Goyang": {
     "ko": "고양",
@@ -706,6 +766,12 @@
     "ja": "ホーチミン市",
     "es": "Ciudad Ho Chi Minh",
     "zh": "胡志明市"
+  },
+  "Hobart": {
+    "ko": "호바트",
+    "ja": "ホバート",
+    "es": "Hobart",
+    "zh": "霍巴特"
   },
   "Hoi An": {
     "ko": "호이안",
@@ -1223,6 +1289,12 @@
     "es": "Medan",
     "zh": "棉兰"
   },
+  "Melbourne": {
+    "ko": "멜버른",
+    "ja": "メルボルン",
+    "es": "Melbourne",
+    "zh": "墨尔本"
+  },
   "Miami": {
     "ko": "마이애미",
     "ja": "マイアミ",
@@ -1486,6 +1558,12 @@
     "ja": "プルフンティアン諸島",
     "es": "Islas Perhentian",
     "zh": "停泊岛"
+  },
+  "Perth": {
+    "ko": "퍼스",
+    "ja": "パース",
+    "es": "Perth",
+    "zh": "珀斯"
   },
   "Philadelphia": {
     "ko": "필라델피아",
@@ -1841,6 +1919,12 @@
     "es": "Suncheon",
     "zh": "顺天"
   },
+  "Sunshine Coast": {
+    "ko": "선샤인코스트",
+    "ja": "サンシャインコースト",
+    "es": "Sunshine Coast",
+    "zh": "阳光海岸"
+  },
   "Surabaya": {
     "ko": "수라바야",
     "ja": "スラバヤ",
@@ -1858,6 +1942,12 @@
     "ja": "蘇州",
     "es": "Suzhou",
     "zh": "苏州"
+  },
+  "Sydney": {
+    "ko": "시드니",
+    "ja": "シドニー",
+    "es": "Sídney",
+    "zh": "悉尼"
   },
   "Tagaytay": {
     "ko": "타가이타이",
