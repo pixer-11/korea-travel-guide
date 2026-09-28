@@ -2,53 +2,73 @@
 country: "China"
 title: "China Travel Essentials: Visa, Transport & More"
 description: "Know before you go to China — current visa & entry, getting around, money, best time to visit, and emergency numbers, with official sources."
-lastReviewed: 2026-09-01
+lastReviewed: 2026-09-28
 draft: false
 ---
 
-**Quick answer:** Most visitors from around 50 countries (including the EU, UK, Canada, Australia, and New Zealand) can enter mainland China visa-free for up to 30 days through 2026, while many others qualify for a 240-hour visa-free transit; pack Alipay or WeChat Pay plus a little cash, and aim for April to May or September to October for the best weather.
+**Quick answer:** Most visitors from around 50 countries, including the UK, most of the EU, Australia, and Canada (but not the US), can enter mainland China visa-free for up to 30 days in 2026; pay with a phone (Alipay or WeChat Pay linked to a foreign card) plus some cash, ride the metro and high-speed rail with ease, and remember there is no single "911": call 110 for police, 120 for ambulance, and 119 for fire.
 
 ## Visa & entry
+China's unilateral visa-free policy has expanded steadily. As of 2026, roughly 50 nationalities can enter mainland China without a visa for stays of up to 30 days for tourism, business, family visits, exchanges, or transit, with the current arrangement running through 31 December 2026. As of February 17, 2026, ordinary passport holders from the United Kingdom and Canada can enter mainland China and stay up to 30 days with no visa at all, bringing the list to 50 countries, with the whole scheme running through December 31, 2026. Notably, the United States is not currently on this list, so American passport holders still need to apply for a standard visa.
 
-The policy allows ordinary passport holders from participating countries to enter China without a visa for up to 30 days for tourism, business, visiting relatives, or transit. China has extended its visa-free travel policy until December 31, 2026, aiming to enhance international tourism and strengthen global engagement by allowing eligible travelers to enter China for up to 30 days without a visa. As of February 17, 2026, ordinary passport holders from the United Kingdom and Canada can enter mainland China and stay up to 30 days with no visa at all, a status China's foreign ministry confirmed when it added the two countries to its unilateral visa-free program. That brings the list to 50 countries, and the whole scheme now runs through December 31, 2026.
+There is also a separate transit option: citizens of 55 eligible countries, including the US, UK, and most of Europe, can stay in China up to 10 days without a visa while transiting to a third country or region.
 
-If your country is not on the 30-day list, check the separate transit option: the policy allows eligible travelers to enter China without a visa and stay for up to 240 hours (10 days) within designated areas, provided they are genuinely transiting to a third country or region. Since August 20, 2026, nationals of 57 countries are eligible. Notably, the United States is not on that 30-day visa-free list. US passport holders still need a visa to fly in for a normal trip. What Americans gained instead is the 240-hour visa-free transit policy, which lets US travelers stay up to 10 days at dozens of ports as long as they are passing through to a third destination. India is also excluded from the 30-day list: India is not on the unilateral 30-day visa-free list as of May 2026. Indian passport holders can use the 240-hour visa-free transit policy if passing through China to a third country.
+Practical entry notes for visa-free travellers:
+- Your passport must be valid for at least six months and have two blank pages, and you must register with the local Public Security Bureau within 24 hours of arrival if you are not staying in a hotel (hotels register you automatically).
+- The 30-day period is calculated from the day after entry, and those intending to stay longer generally need the appropriate visa or, in qualifying circumstances, must apply for an extension in China.
+- Overstaying is taken seriously: overstays incur fines of RMB 500 per day and can trigger bans of up to five years, according to the Ministry of Foreign Affairs.
+- Hong Kong, Macau, and Taiwan have their own distinct entry requirements and are not covered by this mainland policy.
 
-A few practical notes: the arrival card has been replaced by an electronic version completed via the China Customs app or at airport kiosks. Within 24 hours of arrival you must register your address with the local Public Security Bureau (PSB), hotels handle this automatically; if staying privately, register yourself. Regional schemes also exist, such as Hainan's own visa-free entry for a longer list of nationalities. **Because these lists and durations change often (they were revised several times in 2025-2026 alone), always verify your specific passport's eligibility, exact stay length, and entry ports on the official National Immigration Administration and Chinese visa portals below before booking flights.**
+Because eligibility lists and dates shift frequently, always **confirm your specific nationality's status, exact permitted stay, and required documents directly with the National Immigration Administration or your nearest Chinese embassy/consulate before booking flights.**
 
 ## Getting around
+Domestic transport in China is fast, cheap by comparison to the West, and increasingly foreigner-friendly.
 
-China's rail and metro networks are excellent and increasingly foreigner-friendly. For high-speed trains, in 2026, foreigners can book China high-speed rail directly on the official 12306 app, register with a passport (no Chinese phone number needed), pay with Visa, Mastercard, JCB or Diners Club (or a linked Alipay/WeChat), and tap your passport at the orange gate at the station. Note that American Express is not accepted, and tickets open exactly 15 days before departure, so plan bookings accordingly, especially around holidays.
-
-For city transport, China's public transportation is fast, clean, affordable, and almost entirely cashless. Set up AliPay and WeChat before you arrive, and you'll tap through turnstiles, board buses, and hail DiDi rides the same way a Beijing local does, no Chinese bank account or phone number required. In the two biggest cities, in Beijing and Shanghai, you can also tap in with a foreign contactless credit card on the metro, though it usually costs slightly more than paying with AliPay. For taxis and ride-hailing, you can use DiDi directly from WeChat as a built-in mini program with no separate app and no Chinese phone number needed, just link your foreign credit card to WeChat Pay.
+- **High-speed rail** is the backbone of long-distance travel. Book through the official 12306 platform or its app; note that intercity trains release tickets exactly 15 days before departure, at 2pm China time, and popular routes can vanish within minutes.
+- **City metros** in Beijing, Shanghai, Guangzhou, Shenzhen, and other major cities are extensive, English-signed, and accept mobile QR payment; many visitors report that in major cities like Shanghai, Beijing, Suzhou, Guangzhou, Shenzhen, Hangzhou, and Chengdu, Alipay works for convenience stores, coffee shops, restaurants, and metro and transport mini-apps in some cities.
+- **Ride-hailing**: Didi is the dominant app; some listings mention it explicitly as the go-to for taxis, especially during busy periods.
+- Set up a payment app before you need transport, since many small restaurants and metro ticket machines only accept Chinese payment apps.
+- For flights and trains during holiday periods, book well ahead: international flights should be booked 3 to 6 months ahead for Spring Festival or Golden Week, and hotels the same, especially in tourist towns.
 
 ## Money & costs
+The currency is the Renminbi (RMB/yuan). China is largely a mobile-payment society, but the barriers for foreign visitors have dropped substantially in 2026.
 
-China's currency is the Renminbi (RMB/yuan). The country runs on mobile payments, but China is one of the world's most cashless societies, but paying here works nothing like home. The short version of how to pay in China as a foreigner in 2026: set up two apps before you fly, Alipay and WeChat Pay, and you'll cover roughly 90% of situations. The international bank card network supported by Alipay includes Visa, Mastercard, JCB, Discover, Diners Club, American Express and UnionPay card, though most supported cards must be credit cards while some debit cards may work depending on issuing bank.
+- Since late 2023, Alipay allows foreigners to link a Visa or Mastercard directly without needing a Chinese bank account or a Chinese phone number, and it has opened to travellers from the US, EU, UK, Australia, and most other nationalities. WeChat Pay has followed a similar path.
+- Fees are manageable for typical tourist spending: single transactions of 200 RMB or less carry a 0% cross-border handling fee, covering most meals, coffee, metro rides and taxi fares, while transactions over 200 RMB incur a fixed 3% fee.
+- Limits for verified foreign users are generous: Alipay's direct-binding option caps single payments at roughly ¥35,000 and totals near ¥350,000 per year for passport-verified users.
+- Despite the cashless culture, keep a small cash buffer; guides commonly suggest carrying 100 to 300 RMB in cash for small stalls, taxi edge cases, or network failures.
+- International Visa/Mastercard plastic still works in places, but international cards are usually accepted in high-end hotels and tourist restaurants and shops, but far less in small local places, so a set-up mobile wallet is genuinely worth the ten minutes it takes.
 
-Keep a physical card and some cash as backup: physical foreign cards work at international hotels, upscale restaurants, airports, and big malls, but not at most restaurants, taxis, metros, or street vendors. To pay almost everywhere, link your Visa or Mastercard into Alipay or WeChat Pay instead of swiping. For withdrawing cash, stick to the big state-bank ATMs (Bank of China, ICBC, China Construction Bank) at airports and city centers; they reliably accept Visa, Mastercard, and UnionPay. When the machine asks whether to "charge in your home currency," decline; that's DCC, a marked-up conversion. Always pick RMB. Also worth knowing: as of early 2026, the single transaction limit for verified foreign users has been raised to $5,000 USD (approximately 35,000 RMB), with a total annual limit of $50,000 USD on these mobile wallets, which is generally more than enough for typical trip spending. Overall China remains reasonably priced compared to Western Europe or North America for meals, local transport and mid-range hotels, though international-brand hotels and first-class rail can approach Western prices.
+Budget-wise, costs vary hugely by city and season; Golden Week and Spring Festival push hotel and flight prices up sharply, while shoulder-season travel is markedly cheaper.
 
 ## Best time to visit
+China's size means "best time" depends on region, but two windows are consistently recommended nationwide: spring (April–May) and autumn (September–October), for clear skies and comfortable walking weather.
 
-Spring (March to May) and autumn (September to November) are generally the most recommended times to travel, as they combine pleasant weather, stunning scenery, and relatively lighter tourist traffic. October in particular stands out: if you want one month that works well across the widest range of destinations, October after National Day Golden Week is one of the strongest choices. Temperatures are generally mild, humidity has eased in many regions and visibility is often excellent in North China, the east, Yunnan and many mountain areas.
+Autumn in particular stands out: from October, after Golden Week ends on October 7, Beijing runs 10–20°C with clear skies, Shanghai sits at 18–25°C, and mid-October is widely considered the sweet spot.
 
-Plan around three major holiday crunches: Chinese New Year (Feb 15–23 in 2026), Labor Day (May 1–5), and National Day Golden Week (Oct 1–7). Golden Week deserves special caution: October 1–7 is National Day Golden Week. Tourist sites get dangerously overcrowded. The Badaling Great Wall becomes a standing-room human conveyor. Hotels run two to three times normal price, and train tickets vanish seconds after release on 12306. If your trip must fall in that window, we suggest you visit some remoter areas in Yunnan, Western Sichuan, Guizhou, Tibet, etc. and avoid the biggest cities.
+Avoid, or plan carefully around, China's two mass travel holidays:
+- **National Day "Golden Week,"** 1–7 October 2026, is a settled seven-day block, and it is widely called the single worst time to visit China as a tourist, with real crowds, higher prices, and stress. If you must travel then, arriving 8 October or later gets you autumn weather with post-holiday emptiness.
+- **Spring Festival (Chinese New Year)**, which moves with the lunar calendar, sees similarly enormous domestic travel volumes and sold-out trains.
 
-Summer (July-August) brings heat and rain to much of the country, while winter can be striking in the north (Harbin's ice festival) and mild in the south (Hainan), but requires very different packing depending on region: on January 5, 2026, Harbin opened its 42nd International Ice and Snow Festival in air so cold that phone batteries die in minutes, around −20°C, give or take. That same week, people on Sanya's beaches 3,700 km to the south were in swimwear at about 25°C.
+Summer (July–August) brings serious heat on the eastern plains: on the eastern plains, including Beijing, Shanghai, and Guangzhou, July and August mean 30–38°C with high humidity. Winter suits northern snow destinations (Harbin) and southern beach escapes (Sanya) rather than general sightseeing in the big eastern cities.
 
 ## Emergencies & safety
+China does not use a single unified emergency number like 911 or 112; instead, dial the specific service you need:
 
-China does not use a single unified emergency number like 911 or 112. Instead: China does not have a single all-in-one emergency number like 911 or 999. 110: Police, crime, theft, disputes, anything requiring law enforcement. 120: Medical ambulance. Fire: 119. Traffic accidents: 122. 110, 120 and 119 are free calls. 110 may be used for all emergencies. It is the first number to call.
+- **Police: 110**
+- **Ambulance (medical): 120**
+- **Fire: 119**
+- **Traffic accidents: 122**
 
-Language can be a barrier when calling: Beijing and Shanghai have English-language tourist assistance lines, but for the main emergency numbers, English support is inconsistent. The practical solutions: have your hotel call on your behalf, use Alipay's SOS function which can connect to emergency services, or have your location and situation written in Chinese ready to read out. If you have property stolen, report to local police (110) first to get a loss report, then contact your embassy. There's also a text-based backup: if you are unable to call the police, you can also notify the police by sending an SMS to 12110 plus the last three numbers of your city's digit area code; note that 12110 is an auxiliary, non-emergency way to notify the police for help, so the best way is to directly call 110 if you can. Register your embassy's location before you travel and keep a photo of your passport and visa/entry stamp on your phone and in the cloud.
+You call the specific service directly, police 110, medical ambulance 120, fire 119, traffic accidents 122; there is no equivalent of 911, 999, or 112. These core numbers are free to call: Police is 110, Fire Alarm is 119, First-aid Ambulance is 120, and 110, 120 and 119 are free calls. 110 may be used for all emergencies and is the first number to call if you are unsure which service you need.
+
+English-language support on these lines is inconsistent outside major cities; Beijing and Shanghai have English-language tourist assistance lines, but for the main emergency numbers, English support is inconsistent. Practical tips: have your hotel staff call on your behalf, use a translation app or a written note of your situation in Chinese, and keep your embassy's emergency contact number saved offline. For a lost or stolen passport, report to local police (110) first to get a loss report, then contact your embassy.
+
+General safety in China is good by international standards for violent crime, though petty scams around tourist sites and taxi/ride-hailing overcharging do occur; standard travel precautions apply.
 
 ## Official sources
-
-- [China National Immigration Administration](https://www.nia.gov.cn/) — official visa-free policy updates, port lists, and entry rules
-- [Chinese Visa Application Service Center](https://www.visaforchina.cn/) — official e-visa/visa application portal and country-specific requirements
-- [China Railway 12306](https://www.12306.cn/) — official high-speed rail booking platform for foreign passport holders
-- [China National Tourist Office](http://www.cnto.org/) — official tourism board information for international visitors
-- [Ministry of Foreign Affairs of the People's Republic of China](https://www.mfa.gov.cn/eng/) — policy announcements and travel advisories
-- [Alipay official site](https://www.alipay.com/) and [WeChat Pay official site](https://pay.weixin.qq.com/) — set up mobile payment before arrival
-
-**Always confirm current visa-free eligibility, stay length, and entry-port rules for your specific nationality on the official NIA and Visa for China sites shortly before you travel, as these policies have changed multiple times in 2025-2026.**
+- [National Immigration Administration of China (entry-exit rules, visa-free policy updates)](https://www.nia.gov.cn)
+- [China Visa Application Service Center (visa applications and requirements by country)](https://www.visaforchina.cn)
+- [China Railway 12306 (official high-speed rail booking)](https://www.12306.cn)
+- [Ministry of Foreign Affairs of the People's Republic of China, Consular Services](http://cs.mfa.gov.cn/)
+- [China National Tourist Office](https://www.cnto.org)

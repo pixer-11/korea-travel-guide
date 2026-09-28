@@ -38,8 +38,8 @@
    "hits": 0
   },
   "old quarter": {
-   "attempts": 43,
-   "hits": 16
+   "attempts": 61,
+   "hits": 32
   },
   "local market": {
    "attempts": 166,
@@ -50,7 +50,7 @@
    "hits": 6
   },
   "seafood": {
-   "attempts": 63,
+   "attempts": 65,
    "hits": 2
   },
   "hidden gem": {
@@ -190,5 +190,5 @@
    "hits": 1
   }
  },
- "updated": "2026-09-27T13:09:41.541Z"
+ "updated": "2026-09-28T07:52:39.685Z"
 }

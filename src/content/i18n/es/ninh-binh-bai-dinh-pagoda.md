@@ -1,70 +1,70 @@
 ---
 lang: es
 slug: ninh-binh-bai-dinh-pagoda
-srcHash: 'd5aeca961936'
-title: 'Pagoda Bai Dinh: Guía de viaje de Ninh Binh (4,9★)'
-description: La pagoda Bai Dinh, a las afueras del distrito de Hoa Lu en Ninh Binh, es el complejo budista más grande de Vietnam y abre todos los días de 7:00 a 17:30. Descubre qué opinan los visitantes, los horarios y algunos consejos, con una valoración de 4,8★ (25.334 reseñas).
-quickAnswer: 'La pagoda Bai Dinh, a las afueras del distrito de Hoa Lu en Ninh Binh, es el complejo budista más grande de Vietnam y abre todos los días de 7:00 a 17:30. Conviene reservarle medio día: un trayecto en carrito de golf o buggy eléctrico para subir, y luego una hora o más recorriendo a pie los pabellones del Buda gigante y el corredor de los 500 arhats. Lo mejor es ir justo a la apertura o después de las 15:00 para evitar las multitudes de autobuses turísticos que llenan los patios a media mañana.'
+srcHash: 'e99c87017652'
+title: 'Pagoda de Bai Dinh: guía de viaje de Ninh Binh (4.8★)'
+description: En las afueras del distrito de Hoa Lu, en Ninh Binh, la pagoda de Bai Dinh es el mayor complejo budista de Vietnam y abre todos los días de 7:00 a 17:30. Con una valoración de 4.8★ (25,334 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
+quickAnswer: En las afueras del distrito de Hoa Lu, en Ninh Binh, se levanta la pagoda de Bai Dinh, el mayor complejo budista de Vietnam, que abre todos los días de 7:00 a 17:30. Conviene reservarle media jornada. La subida se hace en carrito de golf o en vehículo eléctrico, y después hay que contar con una hora o más para recorrer a pie los salones de los grandes budas y la galería de los 500 arhats. Lo ideal es llegar justo a la hora de apertura o después de las 15:00, porque a media mañana los autobuses turísticos llenan los patios.
 faq:
-  - q: ¿Cuánto tiempo debería reservar para visitar la pagoda Bai Dinh?
-    a: Calcula al menos 2 horas para los pabellones principales y el corredor, y cerca de 3 si además subes hasta la estupa de la colina para disfrutar de la vista del valle.
+  - q: ¿Cuánto tiempo hay que dedicar a la pagoda de Bai Dinh?
+    a: Para ver los salones principales y la galería hacen falta al menos 2 horas. Si además quiere subir a la estupa de la cima para contemplar el valle, calcule unas 3.
   - q: ¿Cuál es el momento más tranquilo para visitarla?
-    a: Justo a la apertura (7:00) o después de las 15:00, antes de que lleguen los autobuses turísticos que dominan la media mañana y primera parte de la tarde.
-  - q: ¿Cómo llego desde la ciudad de Ninh Binh hasta Bai Dinh?
-    a: Son unos 25 minutos en coche o taxi (unos 15 km); la mayoría de los viajeros lo combina con una visita a Trang An o Hoa Lu, ambos a 10-15 minutos de distancia.
+    a: Justo a la hora de apertura (7:00) o después de las 15:00. A media mañana y a primera hora de la tarde predominan los autobuses turísticos.
+  - q: ¿Cómo se llega a Bai Dinh desde la ciudad de Ninh Binh?
+    a: El trayecto, de unos 15 km, dura aproximadamente 25 minutos en coche o en taxi. La mayoría de los viajeros aprovecha para visitar también Trang An o Hoa Lu, que están a 10-15 minutos.
   - q: ¿Hay que pagar entrada?
-    a: El acceso al recinto de la pagoda suele ser gratuito, pero normalmente hay una pequeña tarifa por el buggy eléctrico que te lleva colina arriba; conviene confirmar el precio actual al llegar.
-  - q: ¿Debería evitar la temporada de festivales?
-    a: 'Si buscas una visita tranquila, sí: el período que va desde el Año Nuevo Lunar hasta el tercer mes lunar (aproximadamente de febrero a abril) trae consigo una gran afluencia de peregrinos.'
+    a: Por lo general, el acceso al recinto de la pagoda es gratuito. Lo que suele cobrarse es una pequeña tarifa por el vehículo eléctrico que sube a los visitantes por la colina. Le recomendamos confirmar el precio vigente al llegar.
+  - q: ¿Conviene evitar la temporada de festividades?
+    a: Sí, si busca una visita tranquila. Desde el Año Nuevo lunar hasta el tercer mes lunar (aproximadamente de febrero a abril), la pagoda recibe multitudes de peregrinos.
 ---
 
 ## Por qué ir
 
-Bai Dinh no es un templo tranquilo de campo: es un monumento a escala de montaña. Se extiende por una ladera de piedra caliza en Hoa Lu y reúne una serie de récords del sudeste asiático: el Buda de bronce más alto fundido en Vietnam, la campana más grande y el corredor de estatuas de arhats más largo.
+Quien espere un templo rural apacible se llevará una sorpresa: Bai Dinh es un monumento a la grandiosidad del tamaño de una montaña. El complejo se extiende por una ladera de piedra caliza de Hoa Lu y acumula varios récords del Sudeste Asiático. Aquí se encuentran el buda de bronce más alto fundido en Vietnam, la campana más grande y la galería de estatuas de arhats más larga.
 
-Antes de sentir nada espiritual, uno siente el tamaño. Solo el patio principal podría tragarse un campo de fútbol, flanqueado por galerías con columnas que parecen no tener fin.
+Antes que cualquier emoción espiritual, lo que impresiona es la escala. Solo el patio principal podría albergar un campo de fútbol. A ambos lados lo flanquean pasarelas con columnas que parecen no tener fin.
 
-Esa magnitud es precisamente el objetivo. No se trata de la pagoda íntima y envuelta en incienso del viejo Hanói, sino de un complejo de peregrinación moderno, construido a partir de 2003 junto a un templo original mucho más antiguo, pensado para hacerte sentir pequeño.
+Y esa escala es precisamente la razón de ser del lugar. Nada tiene que ver con las pagodas íntimas y envueltas en incienso del viejo Hanói. Se trata de un complejo de peregrinación moderno, construido a partir de 2003 junto a un templo original mucho más antiguo, y concebido para que el visitante se sienta pequeño.
 
 ## Cómo llegar
 
-Bai Dinh se encuentra unos 15 km al noroeste de la ciudad de Ninh Binh, a unos 25 minutos en coche o taxi desde la estación de tren o desde Tam Coc.
+Bai Dinh está a unos 15 km al noroeste de la ciudad de Ninh Binh. Desde la estación de tren o desde Tam Coc se tarda unos 25 minutos en coche o en taxi.
 
-La mayoría de los visitantes lo combina con Trang An o con la Antigua Capital de Hoa Lu en la misma excursión de un día, ya que están a solo 10-15 minutos en coche.
+Como Trang An y la antigua capital de Hoa Lu quedan a solo 10-15 minutos en coche, la mayoría de los visitantes las incluye en la misma excursión de un día.
 
-Si no conduces por tu cuenta, la opción más sencilla es alquilar una motocicleta o reservar un tour de un día desde Ninh Binh o desde los alojamientos de Tam Coc, en Ninh Binh. No hay tren ni autobús público que te deje cerca.
+Si no conduce usted mismo, lo más sencillo es alquilar una moto o contratar una excursión de un día desde Ninh Binh o desde las casas de huéspedes de Tam Coc. Ni el tren ni el autobús público le dejarán cerca.
 
 ## Qué ver
 
-Desde el aparcamiento hay una larga caminata cuesta arriba hasta los pabellones principales; la mayoría de los visitantes opta por el buggy eléctrico, que sube a los visitantes a cambio de una pequeña tarifa.
+Entre el aparcamiento y los salones principales hay una larga caminata cuesta arriba. Por eso casi todo el mundo toma el vehículo eléctrico que sube a los visitantes por una pequeña tarifa.
 
-Una vez dentro, vale la pena no quedarse solo con las grandes estatuas y fijarse también en los detalles:
+Una vez dentro, no se limite a las grandes estatuas y fíjese también en los detalles:
 
-- **El Salón Tam The** – tres imponentes budas de bronce que representan el pasado, el presente y el futuro
-- **El corredor de los 500 Arhats** – una galería cubierta bordeada de estatuas de piedra de tamaño natural, cada una con un rostro y una postura distintos
-- **La torre de la campana de bronce** – alberga una de las campanas más grandes del sudeste asiático, cuyo tono grave se escucha por todo el complejo
-- **El Salón Quan Am** – dedicado a la Bodhisattva de la Misericordia, más tranquilo e íntimo que los pabellones principales
+- **Salón Tam The**: alberga tres imponentes budas de bronce que representan el pasado, el presente y el futuro.
+- **La galería de los 500 arhats**: en esta pasarela cubierta se alinean estatuas de piedra a tamaño natural, cada una con su propio rostro y su propia postura.
+- **El campanario de bronce**: guarda una de las campanas más grandes del Sudeste Asiático, cuyo tañido grave se oye en todo el complejo.
+- **Salón Quan Am**: está consagrado a la bodhisattva de la misericordia y resulta más tranquilo e íntimo que los salones principales.
 
-Si quieres ver el complejo con calma, calcula al menos dos horas; tres si además subes hasta la estupa de la colina para disfrutar de la vista panorámica sobre el valle kárstico.
+Para recorrer bien el complejo, calcule al menos dos horas. Si va a subir a la estupa de la cima para disfrutar de la vista panorámica del valle kárstico, cuente con tres.
 
 ## Cuándo ir
 
-Bai Dinh abre todos los días de 7:00 a 17:30, y aquí, más que en casi cualquier otro lugar de Ninh Binh, la hora que elijas marca la diferencia.
+Bai Dinh abre todos los días de 7:00 a 17:30. Aquí la hora elegida importa más que en casi cualquier otro lugar de Ninh Binh.
 
-Los autobuses turísticos suelen llegar a media mañana y de nuevo después del almuerzo, llenando los patios y la cola del buggy. Si llegas justo a las 7:00, o después de las 15:00, encontrarás los pabellones con mucho más espacio para moverte.
+Los autobuses turísticos suelen llegar a media mañana y de nuevo después de comer, y entonces se llenan los patios y la cola del vehículo eléctrico. Si llega a las 7:00 en punto o después de las 15:00, encontrará los salones mucho más despejados.
 
-Desde el Año Nuevo Lunar hasta el tercer mes lunar (aproximadamente de febrero a abril) es temporada de festivales, cuando Bai Dinh se convierte en uno de los sitios de peregrinación más concurridos del norte de Vietnam. El ambiente es hermoso, pero las multitudes son intensas: conviene visitarlo fuera de esos meses si quieres espacio para contemplar las estatuas con calma.
+Desde el Año Nuevo lunar hasta el tercer mes lunar (aproximadamente de febrero a abril) se celebra la temporada de festividades. En esas fechas, Bai Dinh se convierte en uno de los centros de peregrinación más concurridos del norte de Vietnam. El ambiente es precioso, pero las aglomeraciones son agotadoras. Si quiere contemplar las estatuas con calma, evite esos meses.
 
-## Cómo visitarlo como un local
+## Cómo visitarla como un local
 
-Bai Dinh atrae tanto a fieles como a turistas, así que unas nociones básicas de etiqueta en el templo son muy útiles.
+Bai Dinh atrae tanto a fieles como a turistas, así que respetar unas normas básicas de etiqueta marca la diferencia.
 
-- Viste con recato: hombros y rodillas cubiertos, nada transparente
-- Habla en voz baja dentro de los pabellones; este es un lugar de culto activo, no solo un escenario para fotos
-- Camina en el sentido de las agujas del reloj alrededor de las estatuas y las estupas, como hacen los peregrinos budistas
-- Lleva efectivo en pequeñas denominaciones (dong vietnamitas) para el buggy y las ofrendas, ya que las tarjetas no son prácticas aquí
-- Usa calzado fácil de quitar, porque algunas entradas a los pabellones lo exigen
+- Vístase con recato: hombros y rodillas cubiertos y nada de prendas transparentes.
+- Hable en voz baja dentro de los salones. Se trata de un lugar de culto en activo y no de un simple decorado para fotos.
+- Rodee las estatuas y las estupas en el sentido de las agujas del reloj, como hacen los peregrinos budistas.
+- Lleve dinero en efectivo en billetes pequeños (dongs vietnamitas) para el vehículo eléctrico y las ofrendas, porque aquí las tarjetas no resultan prácticas.
+- Póngase un calzado fácil de quitar, ya que en la entrada de algunos salones es obligatorio descalzarse.
 
-El error más común entre quienes visitan Bai Dinh por primera vez es subestimar la caminata. Entre el aparcamiento, la parada del buggy y la subida hasta la pagoda superior, recorrerás varios kilómetros sobre escalones de piedra irregulares, así que lleva calzado adecuado, no sandalias.
+El error más habitual de quienes van por primera vez es subestimar la caminata. Entre el aparcamiento, la parada del vehículo eléctrico y la subida a la pagoda superior, recorrerá varios kilómetros por escalones de piedra irregulares. Lleve un calzado adecuado y deje las sandalias.
 
-Al tratarse de un lugar genuinamente enorme y muy popular, y no de un rincón oculto, la estrategia para evitar las multitudes importa más que cualquier entrada secreta o camino alternativo. La primera hora de la mañana es tu mejor baza, y si combinas la visita con Trang An el mismo día (primero Bai Dinh y después el paseo en barca), podrás adelantarte tanto a los autobuses del templo como a las colas vespertinas del río.
+Bai Dinh no es ningún rincón escondido, sino un lugar enorme y muy popular. Por eso, más que buscar una entrada secreta o un camino alternativo, lo que cuenta es la estrategia para esquivar a la multitud. Su mejor baza es madrugar. Además, si combina la visita con Trang An en el mismo día, primero Bai Dinh y después el paseo en barca, se adelantará tanto a los autobuses del templo como a las colas del río por la tarde.

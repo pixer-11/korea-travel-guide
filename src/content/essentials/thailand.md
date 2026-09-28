@@ -2,75 +2,56 @@
 country: "Thailand"
 title: "Thailand Travel Essentials: Visa, Transport & More"
 description: "Know before you go to Thailand — current visa & entry, getting around, money, best time to visit, and emergency numbers, with official sources."
-lastReviewed: 2026-08-01
+lastReviewed: 2026-09-28
 draft: false
-sectionsReviewed:
-  luggage-storage: 2026-09-05
 ---
 
-**Quick answer:** Most Western, EU, and many Asian passport holders can currently enter Thailand visa-free (60 days as of mid-2026, though a cut to 30 days is pending) plus a mandatory free Thailand Digital Arrival Card (TDAC); getting around mixes efficient Bangkok trains with cash-friendly regional buses, and 1155 (Tourist Police) is the number to save before you land.
+**Quick answer:** Since 15 September 2026, most nationalities (including the US, UK, EU, Canada, Australia and New Zealand) get a 30 day visa-free tourist entry, not the old 60 days, and everyone must file a Thailand Digital Arrival Card (TDAC) online before landing; always double-check the current rule for your passport on the official immigration site before you fly.
 
 ## Visa & entry
 
-As of mid-2026, citizens of 93 nationalities receive an automatic 60-day visa exemption upon arrival in Thailand, with no application required—you simply arrive, present your passport, and receive a stamp. This exemption covers EU/EEA countries, the United States, United Kingdom, Australia, Canada, New Zealand, Japan, South Korea, Singapore, Hong Kong, Brazil, Argentina, and many others.
+Thailand overhauled its entry system in 2026. Thailand's visa exemption rules took effect on 15 September 2026, replacing the special 60-day exemption introduced in 2024. The 30-day group includes all 27 EU Member States, as well as Australia, Canada, India, Japan, New Zealand, Switzerland, the United Kingdom, the United States and other countries and territories listed in the final Royal Gazette notice. A couple of nationalities are limited to a shorter stay: a separate 15-day exemption applies to nationals of the Maldives, Mauritius, and Seychelles. A few nationalities that previously used visa-free entry now need a Visa on Arrival instead: Azerbaijan, Belarus, and Serbia now apply for a visa at the airport on arrival, for a stay of up to 15 days and a fee of around 2,000 THB.
 
-However, this is genuinely in flux: Thailand's Cabinet approved the end of the 60-day visa-free scheme on May 19, 2026, reverting most nationalities to 30 days, and as of early July 2026 the visa-exempt stay is due to return to 30 days once new rules take effect, becoming effective 15 days after publication in the Royal Gazette, though as of 2 July 2026 the publication date had not yet been announced and the current rules remained in force. **Do not assume 60 days — confirm your exact allowance on the official portals below before booking.**
+Important restrictions to know before you plan: as of 15 September 2026 the exemption covers tourism only, and it does not allow work of any kind. If you plan to enter and exit repeatedly overland, note that for travellers using the new 30-day exemption, entry through a land-border checkpoint is generally limited to two times per calendar year, with an exemption for nationals of Malaysia, Brunei, Indonesia and Singapore. A visa-exempt stay can usually be extended once inside the country: a visa-exempt stay can be extended once at a Thai immigration office by an additional 30 days, for about 1,900 THB in cash.
 
-Regardless of visa status, your passport must be valid for at least 6 months from the date of entry, and all foreign travellers must complete the Thailand Digital Arrival Card (TDAC) within 72 hours before arrival, free of charge via the official Thai Immigration website. The official TDAC is free — avoid unofficial websites that charge travellers to submit the form. Note that TDAC is single-entry — if you do a border run and re-enter, you need a fresh TDAC for the new arrival.
+Regardless of visa status, every traveler now needs an arrival declaration. The Thailand Digital Arrival Card (TDAC) has been required for all foreign travelers since 1 May 2025, and travelers must complete the form no more than 72 hours before their arrival in Thailand. TDAC is not a visa or any kind of travel document; it is an entry requirement that must be satisfied in addition to acquiring an appropriate Thai visa. Submit it only at the official portal, tdac.immigration.go.th, and never through a third-party site, since Thai Immigration police have warned travelers to watch out for fake TDAC websites that charge money and collect sensitive data.
 
-If you need more than 30–60 days, options include a single extension at an immigration office — currently a single 30-day extension is available at a local immigration office for 1,900 THB, subject to officer approval — or a proper visa arranged in advance, such as the long-stay Destination Thailand Visa. Remember that visa exemption is for genuine tourism and short visits; repeated entries using back-to-back exemptions for long-term stays are subject to immigration discretion, and officers may question, warn, or refuse entry to travelers who show a pattern of consecutive exemption entries.
-
-**Bottom line:** Rules are changing mid-year 2026. Always verify current stay lengths, eligible nationalities, and TDAC requirements directly on Thai Immigration's site before you travel.
+Because these rules changed abruptly in 2026 and could change again, treat everything above as a starting point only. Confirm your exact allowed stay, required documents, and any new fees on the official Thai Immigration Bureau and e-Visa websites before booking flights, especially if you are a long-stay visitor, retiree, remote worker, or planning multiple entries in one year.
 
 ## Getting around
 
-Bangkok's rail network is the easiest way to beat traffic. The **BTS Skytrain** (elevated) and **MRT** (underground) are separate systems with separate ticketing. Fares are distance-based, roughly 17 to 65 baht per trip, and the 150 baht One-Day Pass offers unlimited BTS rides and pays off on busy sightseeing days. For multiple visits, get a Rabbit Card: it costs 200 baht — a 100 baht issuing fee plus 100 baht of credit — and skips the ticket-machine queue; a passport is required. Good news for MRT users: since mid-2026 the MRT gates take contactless Visa and Mastercard directly, so you tap in like a local, while the BTS still uses its own tickets and the Rabbit Card.
+Bangkok's elevated BTS Skytrain and underground MRT are the easiest way to dodge the city's notorious traffic. As one transit guide puts it, the Thai capital sits in gridlock for most of the day, a taxi from Sukhumvit to the Old City can take an hour in the afternoon, while the same trip by train takes 20 minutes, so the metro is the default way to move around, not a novelty.
 
-From Suvarnabhumi Airport, the Airport Rail Link runs to Phaya Thai station in about 26 minutes for 45 baht, where you connect to the BTS. Note that the Airport Rail Link does not accept Rabbit cards used on the BTS — if transferring to the BTS or MRT, you'll need the payment method those systems support. Don't be fooled by headlines about Thailand's flat-fare scheme: the much-publicised 20 baht flat fare applies to Thai citizens registered through a government app, so visitors pay standard fares.
+Payment differs by line, which trips up many first-timers. In 2026, the MRT, Airport Rail Link, and SRT Red Line take any contactless Visa or Mastercard straight at the gate, while the BTS Skytrain, Gold Line, and Chao Phraya Tourist Boat still need a Rabbit Card. A Rabbit card is cheap and easy to get: a foreign visitor can register a Rabbit card with an original passport, and it has no deposit, accepts up to THB 4,000, and keeps value valid for two years after the last transaction. Fares are modest either way: on the BTS you pay THB 17 to 65 per adult Rabbit journey, while MRT Blue and Purple fares depend on the stations you pick. Services run roughly from early morning to midnight, since trains start between about 05:00 and 06:00 and finish between midnight and 01:00, depending on the line and station.
 
-Beyond rail, combine BTS/MRT with river boats for the Old Town, electric tuk-tuks for short hops, and ride-hailing apps like Grab for everything else. For inter-city travel, domestic flights, overnight trains, and long-distance buses/minivans connect major regions cheaply — book flights and trains a few days ahead in high season.
-
-## Luggage storage
-
-At Suvarnabhumi Airport, Bellugg operates a staffed luggage storage service with counters on Level 2 and Level 4. Reservations should be made at least an hour in advance. Bags are charged by size and by 24 hour period: smaller pieces, up to 22 inches, cost 100 baht per piece per day; medium pieces, between 22 and 26 inches, cost 120 baht per piece per day; and larger pieces, over 26 inches, cost 150 baht per piece per day. If storage is needed beyond the booked period, travellers are asked to contact the service counter directly to arrange an extension.
-
-Beyond the airport, travellers in Thailand have other options for storing bags for a few hours or overnight, including lockers at transit stations and shopping centres, staffed counters run by private companies, and hotels, which will often hold luggage at reception both after checkout and before check-in. Anyone relying on these alternatives should confirm opening hours, accepted payment methods and any size limits directly with the provider, since terms vary by location and are not standardised across the city.
-
-Sources:
-- [Suvarnabhumi Airport: Bellugg luggage storage](https://suvarnabhumi.airportthai.co.th/explore/promotion/detail/410)
+From Suvarnabhumi Airport, the Airport Rail Link is the quickest low-cost route into the center: from Suvarnabhumi the Airport Rail Link brings you to Phaya Thai in no more than 30 minutes for THB 45. Note that this line runs on its own tickets, since the Airport Rail Link does not accept Rabbit Cards, MRT Cards, or contactless bank cards; you must buy a dedicated ARL token from the vending machines, which accept both coins and banknotes. Don Mueang Airport has no rail connection at all, so from DMK your options are a metered taxi (roughly 180 to 250 THB plus expressway toll), Grab, or public bus Route A1 for 30 THB. Outside Bangkok, buses, domestic flights, overnight trains, and ride-hailing apps such as Grab cover most journeys between cities, beaches, and northern hill towns.
 
 ## Money & costs
 
-The currency is the Thai baht (sign: ฿, code: THB), divided into 100 satang. As of mid-2026, one US dollar buys roughly ฿32–33. Thailand remains a cash-first country outside hotels and malls — street food, taxis, markets, and temple entry are cash-only — but every tourist area is dense with ATMs and exchange booths.
+The currency is the Thai baht (THB). Thailand still runs largely on cash outside malls and hotels: Visa and Mastercard are widely accepted in tourist areas, Amex only at major hotels, and cash is still needed for markets, street food, and transport, with contactless payment less common on islands and in rural areas.
 
-ATM fees have crept up: for years most guides mentioned fees of around 220 baht, but in 2026 some ATMs display higher fees, including 250 baht with Visa and up to 350 baht with some foreign Mastercard cards. Two simple rules save money: always charge in baht, never your home currency, and withdraw large amounts rarely, since the flat ATM fee is the same whether you take 1,000 or 25,000 baht. Also decline any on-screen offer to "convert" to your home currency — this dynamic currency conversion adds 5–8% in hidden fees; always choose to be charged in the local currency. Note that AEON's cheap ATM network was removed in early 2024, so plan around mainstream banks rather than outdated low-fee tips. Credit/debit cards are widely accepted in cities, malls, and mid-range+ restaurants, but carry small baht notes for markets, songthaews, and street food.
+ATMs are everywhere but foreign cards pay a flat surcharge on top of your own bank's fees. In 2026 some ATMs charge 250 baht with Visa and up to 350 baht with some foreign Mastercard cards. To minimize the sting, withdraw larger amounts less often, since a single 10,000 baht withdrawal could cost around 520 to 670 baht once your home bank's fees are added. If you want the lowest local fee, Aeon-branded ATMs are usually the cheapest at roughly 150 baht per withdrawal. At any machine, always choose to be charged in baht rather than accepting "dynamic currency conversion," because choosing your home currency lets the ATM apply its own made-up exchange rate, which is a bad deal, so you should always press "no."
+
+Thailand's local QR system, PromptPay, is everywhere but generally unavailable to foreign visitors: Thailand's own QR payment system is everywhere, but it needs a Thai bank account, so as a visitor you'll watch locals scan while you pay cash. A reasonable daily cash budget for markets, transport, and casual meals is roughly 1,000 to 2,000 baht, topped up with card payments for hotels and larger restaurants.
 
 ## Best time to visit
 
-Thailand has three broad seasons. November to February is Thailand's peak tourist period, with daytime temperatures typically between the low 20s and low 30s °C, lower humidity, and clear skies — the easiest window for a multi-stop trip covering cities, temples, and beaches. March to May are the hottest months, with daytime temperatures regularly above 35°C in Bangkok and inland areas, though beach destinations stay comfortable thanks to sea breezes. June to October is monsoon season, bringing heavier rainfall, lush landscapes, fewer crowds, and lower prices, though rain typically falls in short, heavy bursts rather than all day.
-
-Regional nuance matters: the biggest difference is between the Andaman Coast and the Gulf Coast in the south, which follow different monsoon patterns, so a rainy month on one coast can be dry on the other. For first-timers wanting reliable weather across the whole country, November–February is the safest bet — just expect higher prices and bigger crowds at that time.
+Thailand's climate splits into three broad seasons. The cool, dry season from around November to February brings the lowest humidity and rainfall, making it the most popular and comfortable window for both Bangkok and the beaches. March through May turns hot and increasingly humid, with April typically the hottest month and the Songkran (Thai New Year) water festival mid-month. The southwest monsoon runs roughly June to October, bringing afternoon downpours, especially on the Andaman coast, while the Gulf coast islands (like Koh Samui) have a slightly different rain pattern and can stay drier into autumn. For most first-time visitors chasing sunshine, November to February remains the safest bet, though it is also peak season for prices and crowds.
 
 ## Emergencies & safety
 
-Save these before you land — Thailand doesn't have one universal 911-style number for everything:
+Thailand does not have one single number for every emergency, so it is worth saving several before you travel. Essential tourist assistance contact numbers include the Tourist Information Center (TAT) at 1672, the Tourist Police Bureau at 1155, the Emergency Call Center (Royal Thai Police) at 191, the Medical Emergency Call Center at 1669, and the Immigration Bureau at 1178. Fire emergencies use a separate line, since Thailand uses 1155 for Tourist Police, 191 for police emergencies, 1669 for medical emergencies and 199 for fire.
 
-- **General police / emergencies: 191**
-- **Tourist Police (English-speaking, 24/7): 1155** — this is your lifeline, available 24 hours a day with English-speaking operators, helping with anything from reporting a crime to a dispute with a taxi driver. You can also reach them via the "Tourist Police i lert u" app.
-- **Medical emergency / ambulance: 1669** (also 1554 for ambulance and rescue in some areas)
-- **Fire: 199**
-- **Tourism Authority of Thailand info line: 1672**
-- **Disaster Prevention hotline: 1784**
-
-General safety notes: traffic accidents (including motorbike rentals) are a leading cause of tourist injury, so wear a helmet and check your travel insurance covers scooters. Carry a photocopy or photo of your passport and visa stamp/TDAC confirmation. If you lose your passport, contact your embassy and get a police report from the Tourist Police to support an emergency travel document.
+The Tourist Police exist specifically to help foreign visitors and are usually the best first call for theft, scams, or disputes. Tourist Police operate 24 hours a day and provide multilingual assistance for international visitors. Many visitors also register on the dedicated app: UK government travel guidance says the Thailand Tourist Police app can be used without a Thai SIM card, provided your phone has an internet connection. If you need an official police report for an insurance claim, remember that theft should be reported to the local police station, not just the Tourist Police, though Tourist Police can assist with that process. Also keep in mind that emergency response is best in Bangkok and major tourist areas like Phuket, Chiang Mai, and Pattaya, while response in rural and island areas may be delayed, so consider travel insurance with medical evacuation cover if you plan to venture off the main tourist trail.
 
 ## Official sources
 
-- [Thailand Immigration Bureau](https://www.immigration.go.th)
-- [Thailand Digital Arrival Card (TDAC) — official portal](https://tdac.immigration.go.th)
-- [Ministry of Foreign Affairs Thailand — e-Visa](https://www.thaievisa.go.th)
-- [Tourism Authority of Thailand (TAT)](https://www.tourismthailand.org)
-- [Bangkok Mass Transit System (BTS Skytrain)](https://www.bts.co.th)
-- [Bangkok Expressway and Metro (MRT)](https://www.bemplc.co.th)
-- [Airports of Thailand — Suvarnabhumi & Don Mueang](https://www.airportthai.co.th)
-- [Bank of Thailand — currency & exchange information](https://www.bot.or.th)
+- [Thailand Digital Arrival Card (TDAC), official portal, Thai Immigration Bureau](https://tdac.immigration.go.th/)
+- [Immigration Bureau, Royal Thai Police](https://www.immigration.go.th/)
+- [Thailand e-Visa, Ministry of Foreign Affairs](https://www.thaievisa.go.th/)
+- [Tourism Authority of Thailand (TAT)](https://www.tourismthailand.org/)
+- [Thailand.go.th, Government Public Relations Department, tourist assistance numbers](https://thailand.go.th/)
+- [Tourist Police Bureau](https://www.touristpolice.go.th/en/main)
+- [Bangkok Mass Transit System (BTS Skytrain)](https://www.bts.co.th/)
+- [Bangkok Expressway and Metro (MRT Blue/Purple lines)](https://www.bemplc.co.th/)
+- [Airports of Thailand (Suvarnabhumi and Don Mueang)](https://www.airportthai.co.th/)

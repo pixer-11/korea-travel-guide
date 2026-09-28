@@ -309,6 +309,12 @@
   "reason": "patrol reject: Shows Santa Monica, USA street, not Abu Dhabi",
   "at": "2026-08-23T06:12:12.650Z"
  },
+ "abu-dhabi-uae-presidential-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/UAE_Presidential_Palace_entrance_01.jpg/3840px-UAE_Presidential_Palace_entrance_01.jpg": {
+  "slug": "abu-dhabi-uae-presidential-palace",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows domed palace building, representative view, in Abu Dhabi",
+  "at": "2026-09-28T07:51:51.628Z"
+ },
  "abu-dhabi-ufc-fight-night-ankalaev-vs-rountree-jr\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/UFC_Fight_Night_Fiziev_vs._Torres_brand_activation_event_in_Baku_Boulevard_%2832821%29.jpg/1920px-UFC_Fight_Night_Fiziev_vs._Torres_brand_activation_event_in_Baku_Boulevard_%2832821%29.jpg": {
   "slug": "abu-dhabi-ufc-fight-night-ankalaev-vs-rountree-jr",
   "verdict": "MATCH",
@@ -1680,6 +1686,12 @@
   "verdict": "MISMATCH",
   "reason": "Buddhist temple altar, not Bangkok street food",
   "at": "2026-07-25T02:38:40.585Z"
+ },
+ "bangkok-chinatown-bangkok-yaowarat\u0001https://upload.wikimedia.org/wikipedia/commons/4/48/Sampeng_Lane%2C_Bangkok%27s_Chinatown%2C_Bangkok%2C_Thailand.jpg": {
+  "slug": "bangkok-chinatown-bangkok-yaowarat",
+  "verdict": "MATCH",
+  "reason": "publish gate: Busy Thai market alley with Thai signage, shoes, stalls",
+  "at": "2026-09-28T07:38:57.645Z"
  },
  "bangkok-chinatown-night-market\u0001https://fastly.4sqi.net/img/general/original/2169583_x--g2xZF5DwgD7rEjMB8nV1CLceKr-FvupLzgmhfzow.jpg": {
   "slug": "bangkok-chinatown-night-market",
@@ -5201,6 +5213,12 @@
   "reason": "publish gate: Shows Zabeel Palace gate archway in Downtown Dubai plausibly",
   "at": "2026-09-15T07:48:21.928Z"
  },
+ "dubai-al-bastakiya\u0001https://upload.wikimedia.org/wikipedia/commons/9/95/Camello_y_campamento%2C_Al_Bastakiya%2C_Dubai%2C_2009-11-23%2C_DD_8878.jpg": {
+  "slug": "dubai-al-bastakiya",
+  "verdict": "MATCH",
+  "reason": "publish gate: Traditional Dubai architecture with wind towers, representative of Al Bastakiya",
+  "at": "2026-09-28T07:43:37.268Z"
+ },
  "dubai-al-fahidi-historical-neighbourhood\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Al_Fahidi_Historical_Neighbourhood%2C_Dubai.jpg/1920px-Al_Fahidi_Historical_Neighbourhood%2C_Dubai.jpg": {
   "slug": "dubai-al-fahidi-historical-neighbourhood",
   "verdict": "MATCH",
@@ -8376,6 +8394,12 @@
   "reason": "Istanbul waterfront venue with Bosphorus bridge view",
   "at": "2026-07-25T02:44:34.409Z"
  },
+ "istanbul-sultanahmet-square\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/PXL_20241211_074621005_Sultanahmet_Square_Istanbul%2C_Turkiye_04.jpg/3840px-PXL_20241211_074621005_Sultanahmet_Square_Istanbul%2C_Turkiye_04.jpg": {
+  "slug": "istanbul-sultanahmet-square",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Sultanahmet Square with fountain, mosque, and plaza",
+  "at": "2026-09-28T07:39:57.644Z"
+ },
  "istanbul-tiesto-live-istanbul-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Tiesto_%40_Spring_Awakening_6_11_2014_%2814476258533%29.jpg/3840px-Tiesto_%40_Spring_Awakening_6_11_2014_%2814476258533%29.jpg": {
   "slug": "istanbul-tiesto-live-istanbul-festival",
   "verdict": "MATCH",
@@ -8590,6 +8614,12 @@
   "verdict": "MATCH",
   "reason": "Jakarta roastery with outdoor seating, plants, skyline",
   "at": "2026-07-25T02:44:41.804Z"
+ },
+ "jakarta-jakarta-old-town\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Batavia_City_Hall_%28Jakarta_History_Museum%29_Fatahillah_Square_%282025%29_-_img_01.jpg/1920px-Batavia_City_Hall_%28Jakarta_History_Museum%29_Fatahillah_Square_%282025%29_-_img_01.jpg": {
+  "slug": "jakarta-jakarta-old-town",
+  "verdict": "MATCH",
+  "reason": "publish gate: Colonial building in Jakarta Old Town, representative exterior view",
+  "at": "2026-09-28T07:44:44.852Z"
  },
  "jakarta-lalala-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/1/11/Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_013.jpg": {
   "slug": "jakarta-lalala-festival-2026",
@@ -10413,6 +10443,12 @@
   "reason": "publish gate: KLCC Park with lake, fountains, skyline, and KLCC sign visible",
   "at": "2026-08-21T08:03:28.547Z"
  },
+ "kuala-lumpur-kwai-chai-hong\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Kwai_Chai_Hong%2C_Kuala_Lumpur_in_May_2020_04.jpg/3840px-Kwai_Chai_Hong%2C_Kuala_Lumpur_in_May_2020_04.jpg": {
+  "slug": "kuala-lumpur-kwai-chai-hong",
+  "verdict": "MATCH",
+  "reason": "publish gate: Represents Kwai Chai Hong's mural-lined alley with lanterns",
+  "at": "2026-09-28T07:42:59.508Z"
+ },
  "kuala-lumpur-merdeka-grill-park-hyatt-kuala-lumpur\u0001https://fastly.4sqi.net/img/general/original/5230553_AY3K-DsTYFwidUlQ0LBFFkjN08I5XHi02lowzNFVsVI.jpg": {
   "slug": "kuala-lumpur-merdeka-grill-park-hyatt-kuala-lumpur",
   "verdict": "MISMATCH",
@@ -11809,6 +11845,12 @@
   "reasonKo": "마드리드 플라자 마요르, 상징적 동상과 건축",
   "at": "2026-08-03T14:31:11.308Z"
  },
+ "madrid-puerta-de-alcala\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Puerta_de_Alcal%C3%A1_2025.jpg/1920px-Puerta_de_Alcal%C3%A1_2025.jpg": {
+  "slug": "madrid-puerta-de-alcala",
+  "verdict": "MATCH",
+  "reason": "publish gate: Iconic full view of Puerta de Alcalá monument",
+  "at": "2026-09-28T07:50:58.024Z"
+ },
  "madrid-royal-palace-of-madrid\u0001https://fastly.4sqi.net/img/general/original/375438299_mWPNNlVOJdgVKcbT4HVtgxHvINVkNBBEyvivhbVB5V0.jpg": {
   "slug": "madrid-royal-palace-of-madrid",
   "verdict": "MATCH",
@@ -12761,6 +12803,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Close-up plated dish, not representative venue hero shot",
   "at": "2026-09-17T22:24:10.203Z"
+ },
+ "mumbai-gateway-of-india-mumbai\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg/3840px-Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg": {
+  "slug": "mumbai-gateway-of-india-mumbai",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Gateway of India arch clearly among Mumbai skyline",
+  "at": "2026-09-28T07:45:43.380Z"
  },
  "mumbai-hanging-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Mumbai_03-2016_22_Hanging_Garden.jpg/3840px-Mumbai_03-2016_22_Hanging_Garden.jpg": {
   "slug": "mumbai-hanging-garden",
@@ -14170,6 +14218,12 @@
   "reasonKo": "식물원과 무관한 티피 구조물",
   "at": "2026-08-03T14:34:11.509Z"
  },
+ "okinawa-tamaudun\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%E7%8E%89%E9%99%B5_Tamaudun_Royal_Mausoleum.jpg/1920px-%E7%8E%89%E9%99%B5_Tamaudun_Royal_Mausoleum.jpg": {
+  "slug": "okinawa-tamaudun",
+  "verdict": "MATCH",
+  "reason": "publish gate: Ryukyu stone mausoleum architecture matches Tamaudun in Okinawa",
+  "at": "2026-09-28T07:47:47.432Z"
+ },
  "okinawa-zhyvago-coffee-works-okinawa\u0001https://fastly.4sqi.net/img/general/original/147795368_1lBraiQEz7KKBMS50aoiEoKCR2_GdoT_LGGZegS9Rco.jpg": {
   "slug": "okinawa-zhyvago-coffee-works-okinawa",
   "verdict": "MATCH",
@@ -14703,6 +14757,12 @@
   "reasonKo": "베르사유 궁전 정원과 건물의 항공 사진",
   "at": "2026-08-03T14:35:04.449Z"
  },
+ "paris-pantheon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Pantheon_of_Paris_007.JPG/1920px-Pantheon_of_Paris_007.JPG": {
+  "slug": "paris-pantheon",
+  "verdict": "MATCH",
+  "reason": "publish gate: Iconic exterior view of the Panthéon, Paris",
+  "at": "2026-09-28T07:41:23.658Z"
+ },
  "paris-plk-stade-de-france-concerts\u0001https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Stade_de_France_5_August_2024.jpg/3840px-Stade_de_France_5_August_2024.jpg": {
   "slug": "paris-plk-stade-de-france-concerts",
   "verdict": "MATCH",
@@ -14952,6 +15012,12 @@
   "reason": "publish gate: Night market street scene in Pattaya, representative view",
   "at": "2026-09-23T07:37:55.806Z"
  },
+ "pattaya-pattaya-walking-street\u0001https://upload.wikimedia.org/wikipedia/commons/5/53/Walking_street%2Cpattaya%2CTHAILAND_-_panoramio.jpg": {
+  "slug": "pattaya-pattaya-walking-street",
+  "verdict": "MATCH",
+  "reason": "publish gate: Neon-lit street scene matches Pattaya Walking Street's vibrant character",
+  "at": "2026-09-28T07:48:57.092Z"
+ },
  "pattaya-prince-of-chumphon-monument\u0001https://upload.wikimedia.org/wikipedia/commons/9/93/Prince_of_Chumphon_Monument%2C_Phra_Tamnak%2C_Pattaya_-_panoramio.jpg": {
   "slug": "pattaya-prince-of-chumphon-monument",
   "verdict": "MATCH",
@@ -15052,6 +15118,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Historic stone house with garden, matches Bartram's Garden",
   "at": "2026-09-11T07:38:03.101Z"
+ },
+ "philadelphia-elfreth-s-alley-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Elfreth%27s_Alley_%2853572700168%29.jpg/1920px-Elfreth%27s_Alley_%2853572700168%29.jpg": {
+  "slug": "philadelphia-elfreth-s-alley-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Historic cobblestone alley with brick rowhouses, matches Elfreth's Alley",
+  "at": "2026-09-28T07:52:39.671Z"
  },
  "philadelphia-independence-hall\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Independence_Hall.jpg/1920px-Independence_Hall.jpg": {
   "slug": "philadelphia-independence-hall",
@@ -16590,6 +16662,12 @@
   "reason": "publish gate: Storefront with visible Le Panier sign, exterior view",
   "at": "2026-09-06T10:55:11.121Z"
  },
+ "seattle-olympic-sculpture-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Olympic_Sculpture_Park_from_Space_Needle_-_Seattle.JPG/1920px-Olympic_Sculpture_Park_from_Space_Needle_-_Seattle.JPG": {
+  "slug": "seattle-olympic-sculpture-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view shows Olympic Sculpture Park with red sculpture visible",
+  "at": "2026-09-28T07:46:52.535Z"
+ },
  "seattle-pike-place-fish-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Pike_Place_Fish_1.jpg/1920px-Pike_Place_Fish_1.jpg": {
   "slug": "seattle-pike-place-fish-market",
   "verdict": "MATCH",
@@ -17814,6 +17892,12 @@
   "reason": "width upgrade: Ancient bronze artifact, plausible museum exhibit close-up",
   "at": "2026-08-19T20:10:34.070Z"
  },
+ "shanghai-shanghai-old-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Xiaodongmen_%28Shanghai_Old_Street%29_20231211155420.jpg/3840px-Xiaodongmen_%28Shanghai_Old_Street%29_20231211155420.jpg": {
+  "slug": "shanghai-shanghai-old-street",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows entrance archway and street of Shanghai Old Street",
+  "at": "2026-09-28T07:40:42.075Z"
+ },
  "shanghai-shanghai-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Shanghai_-_Shanghai_Tower_-_0002.jpg/1920px-Shanghai_-_Shanghai_Tower_-_0002.jpg": {
   "slug": "shanghai-shanghai-tower",
   "verdict": "MATCH",
@@ -18791,6 +18875,12 @@
   "reason": "width upgrade: Windmill and tulip garden scene fits Suncheon Bay National Garden",
   "at": "2026-08-11T21:07:49.645Z"
  },
+ "surabaya-alun-alun-surabaya\u0001https://upload.wikimedia.org/wikipedia/commons/d/d8/Balai_Pemuda_%28Simpangsche_Soci%C3%ABteit%29_Alun-Alun_Surabaya.jpg": {
+  "slug": "surabaya-alun-alun-surabaya",
+  "verdict": "MATCH",
+  "reason": "publish gate: Colonial corridor plausible for Alun-Alun Surabaya area landmark",
+  "at": "2026-09-28T07:50:01.620Z"
+ },
  "surabaya-black-owl-surabaya\u0001https://fastly.4sqi.net/img/general/original/42531918_JX0CtbbJtCamTZ6Ph9F8-6DqCJ6kSL_3QkQlR7zEuHc.jpg": {
   "slug": "surabaya-black-owl-surabaya",
   "verdict": "MATCH",
@@ -19411,6 +19501,12 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Taipei Fringe Festival 2026 venue exterior clearly visible",
   "at": "2026-08-09T04:40:02.321Z"
+ },
+ "taipei-tamsui-old-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tamsui_Old_Street_Buildings_08.23_%286%29.jpg/1920px-Tamsui_Old_Street_Buildings_08.23_%286%29.jpg": {
+  "slug": "taipei-tamsui-old-street",
+  "verdict": "MATCH",
+  "reason": "publish gate: Street-level view of Tamsui Old Street buildings and shops",
+  "at": "2026-09-28T07:38:07.032Z"
  },
  "taipei-the-who-cafe\u0001https://fastly.4sqi.net/img/general/original/56802654_yDAHZYxJnORYkFWLg0h1rxv6aL8dNOF0zZFfomYDIQA.jpg": {
   "slug": "taipei-the-who-cafe",

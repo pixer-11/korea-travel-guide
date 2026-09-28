@@ -2,60 +2,65 @@
 country: "Indonesia"
 title: "Indonesia Travel Essentials: Visa, Transport & More"
 description: "Know before you go to Indonesia — current visa & entry, getting around, money, best time to visit, and emergency numbers, with official sources."
-lastReviewed: 2026-08-01
+lastReviewed: 2026-09-28
 draft: false
 ---
 
-**Quick answer:** Most nationalities need a paid Visa on Arrival (IDR 500,000, about US$35, valid 30 days, extendable once) or an e-Visa, while only about a dozen countries (mostly ASEAN) get visa-free 30-day entry — always verify your specific nationality on the official Immigration e-Visa portal before flying. Bring a mix of rupiah cash and an internationally-enabled debit/credit card, dial 112 for any emergency, and aim for the May–September dry season for the best weather across most of the archipelago.
+**Quick answer:** Most visitors get a 30-day visa-free or Visa on Arrival (eVOA, about IDR 500,000) entry through evisa.imigrasi.go.id, pay in Indonesian rupiah with cash for everyday things, and the safest months weather-wise are the dry season from roughly April to October; always double-check your specific nationality's rules before you fly, since Indonesia's immigration system has been tightening and digitising through 2026.
 
 ## Visa & entry
 
-Indonesia's entry rules have tightened and been restructured several times in recent years, so treat any list of "visa-free countries" as a starting point, not gospel.
+Indonesia now runs entry almost entirely through the government's Directorate General of Immigration portal. The evisa.imigrasi.go.id site is a government portal run by the Directorate General of Immigration, Ministry of Law and Human Rights, used for issuing e-Visas to foreigners entering Indonesia.
 
-- **Visa-free entry (Bebas Visa Kunjungan):** As of the July 2026 update, visa-free entry is available to citizens of all ASEAN member states: Brunei Darussalam, Cambodia, Laos, Malaysia, Myanmar, the Philippines, Singapore, Thailand, Timor-Leste and Vietnam, plus a small number of other countries such as Hong Kong, Suriname, Colombia, Brazil and Peru. This entry is for tourism only — sightseeing, visiting friends or family, leisure travel — and the stay is limited to 30 days and cannot be extended.
-- **Visa on Arrival (VOA):** Travelers from most other countries (US, UK, EU, Australia, etc.) qualify for a VOA. Most visitors pay the Visa on Arrival at Rp 500,000 (about US$35), which covers 30 days and can be extended once for another 30 at a further Rp 500,000. It can be arranged in advance as an e-VOA or paid on the spot; VOA is available only at designated international airports and seaports, including Jakarta and Bali.
-- **e-Visa / Visitor Visa:** For nationalities or purposes not covered by VOA, apply through the official e-Visa system. The Visitor Visa is a single-entry visa valid for a 30-day stay in Indonesia for tourism, government visits, business meetings, goods purchasing, or transit only.
-- **Passport & document rules:** Visitors must hold a passport valid for at least six months from the date of arrival and may be asked to present proof of onward or return travel.
-- **Arrival Card:** Regardless of visa type, all travellers are required to submit an arrival card within three days prior to arrival in Indonesia, via the official e-Visa portal.
-- **Overstays are taken seriously:** If you overstay your visa, you might be asked to pay fines of IDR 1,000,000 per day, or be detained, deported, or banned from future travel to Indonesia for a specific period.
-- Policy is actively evolving — as of mid-2026, lawmakers were even formally requesting that the Directorate General of Immigration reconsider granting Visa-Free Visit status to nationals from countries including China, Australia, Japan, South Korea, India and New Zealand, but this had not been finalized. **Always double-check your exact nationality's rules on the official Immigration and e-Visa websites shortly before you travel.**
+For short tourist trips there are three main pathways in 2026:
+
+- **Visa-free (selected nationalities):** Citizens of ASEAN member states can enter Indonesia without a visa for stays up to 30 days, though this cannot be extended or converted to another visa type.
+- **Visa on Arrival / e-VOA (most Western passports, plus around 90+ nationalities):** Nationals from over 90 countries can purchase a Visa on Arrival at major airports and seaports for IDR 500,000, roughly USD 35, valid for 30 days and extendable once for another 30 days. It can also be bought online in advance rather than queued for on arrival.
+- **e-Visa (other nationalities or longer/other purposes):** a Visitor Visa applied for entirely online, which is a single-entry visa valid for 30 days' stay for tourism, government visit, business meeting, goods purchasing, or transit, with the visa document itself carrying a 90-day validity period during which you must enter.
+
+Regardless of category, come prepared: you must hold a passport with an expiration date at least six months from the date of arrival. Officers may also want proof you're leaving. Immigration officers may also ask for proof of an onward or return ticket, showing that you plan to leave Indonesia within the permitted stay period.
+
+Be aware Indonesia has been actively tightening enforcement in 2026. A 2026 update integrated a "One Person, One Visa" policy linking applications to biometric databases, now covering e-VoA, single-entry visit visas, and multiple-entry visas. Longer or work-related stays run through separate KITAS/ITAS permits and are outside the scope of ordinary tourism.
+
+**Important:** visa categories, fees, and eligible-country lists change without much notice. Confirm your exact requirements on the official evisa.imigrasi.go.id portal before booking flights, and avoid third-party "visa agent" sites that mimic the government portal.
 
 ## Getting around
 
-Indonesia is a vast archipelago, so transport strategy differs sharply between cities and islands.
+Jakarta has a genuinely modern, if still-growing, transit network. The 16-kilometer north-south MRT line links Lebak Bulus in South Jakarta to Bundaran HI in the center in about 30 minutes. Note that the MRT does not yet reach Kota Tua (Old Town); the Phase 2A extension is still under construction as of 2026, with the first segment targeted for 2027. For that leg use TransJakarta, the KRL commuter line, or a ride-hailing app.
 
-- **Jakarta:** The capital has an increasingly integrated public transport network. Jakarta's Mass Rapid Transit (MRT) is the city's most modern transport option, connecting the southern and central parts of Jakarta, running on the North–South line from Lebak Bulus to Bundaran HI, operating 5:00 AM to 12:00 AM daily. TransJakarta buses and LRT complete the network, and these services work on TransJakarta buses, MRT Jakarta, LRT, and JakLingko integrated transport, making it much easier to move between different parts of the city. Get a **JakLingko card** — it costs 50,000 IDR (including 15,000 IDR of initial credit), is non-transferable, and is available at MRT and LRT stations and certain stores like Indomaret. Note that you should plan on electronic payment rather than cash on Transjakarta — use a supported card, JakLingko option, or official digital payment method where accepted.
-- **Ride-hailing apps:** Grab and Gojek operate island-wide and are the easiest way to get around for most tourists, especially in Bali, Yogyakarta, and smaller cities where formal transit is limited.
-- **Inter-city travel on Java:** Java has a well-developed train network connecting Jakarta, Yogyakarta, Surabaya and other major cities — a comfortable and scenic alternative to flying or driving.
-- **Inter-island travel:** Domestic flights (Garuda Indonesia, Lion Air, Citilink, etc.) are the standard way to hop between islands such as Bali, Lombok, and beyond; ferries connect nearby islands but can be slow.
-- **On Bali and other tourist islands:** Scooters and private drivers hired by the day are common; public transit is minimal outside Denpasar, so plan on ride-hailing apps or a hired driver for sightseeing.
+TransJakarta itself is the backbone of surface transit: it operates about 5,000 buses and, as of March 2026, serves an average of 1.4 million passengers daily, covering 92.5% of Jakarta's area. Payment is card-based rather than cash: Transjakarta payment uses Kartu Uang Elektronik (electronic money card), Kartu JakLingko, or the JakLingko app. Buy a stored-value card (JakLingko, or a bank e-money card like Flazz/e-Toll) at a convenience store or station on arrival, since foreign credit cards generally can't be tapped directly at MRT gates.
+
+Outside Jakarta, the pattern across Indonesia is similar: apps rule the road. Grab and Gojek (ride-hailing, food, and motorbike-taxi apps) are the default way most travellers and locals get around cities and tourist areas like Bali, and metered Bluebird taxis remain a trusted option in Jakarta. Inter-island and inter-city travel relies heavily on domestic flights and ferries, given Indonesia's archipelagic geography, so budget extra buffer time for weather-related ferry or flight delays, especially in the wet season.
 
 ## Money & costs
 
-- **Currency:** The Indonesian rupiah (IDR). The rupiah is a currency of many zeros, and through 2026 the exchange rate has sat in the region of Rp 16,500 to Rp 17,000 to one US dollar — a rough shortcut is to drop four zeros and multiply by about 0.6 for a dollar estimate.
-- **Cash vs. cards:** Indonesia is still largely a cash economy outside the tourist cores; cards and QRIS payments work in Bali's main areas, Jakarta and mid-to-upper hotels, but warungs, homestays, drivers, boat captains and ticket booths want rupiah. QRIS (Indonesia's unified QR payment system) is increasingly common in cities and tourist areas for cashless payment via local e-wallets.
-- **ATMs:** ATMs charge a fixed fee of around Rp 25,000 to Rp 50,000 per withdrawal, so it's wise to take out larger amounts less often. Fees vary by bank — for example, Bank Mandiri charges a Rp50,000 Access Fee for foreign Visa and Mastercard cards as of 22 February 2026, while other banks like BCA still allow foreign card withdrawals without an extra local surcharge (though your home bank may add its own fee). Use ATMs inside bank branches or malls for safety and reliability.
-- **Visa/entry costs to budget for:** the VOA fee (IDR 500,000) and, if visiting Bali specifically, the Rp 150,000 (about US$10) Bali tourist levy, paid once per visit through the official Love Bali platform.
-- **Daily budgets** vary widely by style: budget travelers manage on $30-40 daily, mid-range travelers spend $70-100 daily, while luxury experiences cost $200-400+ daily.
+The currency is the Indonesian Rupiah (IDR, symbol Rp), and the country still leans heavily on cash. The Rupiah is the official currency, and while cards are accepted in high-end hotels and urban malls, cash still dominates local markets, taxis, ferries, and rural towns, with tourists using cash for an estimated 70 to 80 percent of transactions.
+
+For withdrawing cash, stick to major bank ATMs. ATMs from BCA and Mandiri are most reliable for international cards but charge approximately IDR 30,000 to 50,000 per withdrawal. Skimming is a known issue in tourist zones, so Bali's tourist areas such as Kuta, Seminyak, and Legian are known hotspots for ATM skimming; always use ATMs inside BCA, BNI, or Mandiri bank branches and cover the keypad when entering your PIN. Also expect per-transaction withdrawal caps; foreign cards work at most major bank ATMs, though withdrawal limits per transaction tend to be lower than travellers are used to, often capped around 2 to 3 million rupiah, so plan multiple withdrawals for a multi-day trip.
+
+When paying by card, always choose to be charged in rupiah, not your home currency. At hotels and large restaurants the card machine sometimes asks whether to charge in rupiah or your home currency; always pick rupiah, since the home-currency option is dynamic currency conversion and adds a markup on top of whatever your card already charges.
+
+On typical budgets, budget travellers can manage on approximately USD 40 to 65 per day covering a basic guesthouse, warung meals, and local transport; mid-range travel runs approximately USD 115 to 190 per day including a 3-star hotel, cafés, and day tours; and comfort travel with a villa, fine dining, and a private driver starts from around USD 260 per day. Note that Bali generally costs more than other regions; Bali is typically 20 to 30 percent more expensive than mainland Java or Sumatra for tourist activities.
 
 ## Best time to visit
 
-Indonesia straddles the equator, so "seasons" are really wet vs. dry rather than hot vs. cold. For most of the archipelago (Java, Bali, Lombok, and the eastern islands), the May–September dry season offers ideal weather, while April and October provide shoulder-season value with lower accommodation costs. The wet season (roughly November–March) brings heavier, more frequent downpours, especially in the afternoons, though showers are often short and destinations remain accessible. If your trip includes Jakarta specifically, during the rainy season it's worth choosing hotels with covered access to shopping malls or MRT stations to minimize exposure to sudden downpours. Note that Indonesia's geography is huge — Sumatra, Kalimantan and parts of eastern Indonesia can have somewhat different rainfall patterns, so check region-specific forecasts if traveling outside Java/Bali.
+Indonesia is equatorial, so temperatures stay warm and humid year-round; the real variable is rainfall. The dry season, roughly April through October, is generally the most reliable window for beach time in Bali and Lombok, trekking, and diving visibility, and it coincides with the busiest and most expensive travel months (July, August, and the December holidays). The wet season, roughly November through March, brings heavier afternoon downpours, higher humidity, and a greater chance of ferry or flight disruption in outer islands, though prices are lower and landscapes are lush. Shoulder months (April, May, June, September) often give a good balance of decent weather and smaller crowds. Because rainfall patterns vary by island (Bali/Java's dry season differs somewhat from Sumatra's), check a destination-specific forecast a few weeks before travel rather than relying only on general "Indonesia weather" guides.
 
 ## Emergencies & safety
 
-- **Universal emergency number:** Dial **112** — this is available for the public to reach first responders from various units, including health centers or regional hospitals, the transportation agency, fire departments, disaster mitigation agencies, and sectoral police. It's free to call and works nationwide from mobile phones, though Jakarta and Bali have the most reliable response, while outer islands can be much slower.
-- **Other direct-dial numbers** you may hear used locally: Police 110, Ambulance 118, Fire 113, and Tourist Police 155 (Bali). Nationally, Basarnas (search and rescue) is 115, BNPB (National Disaster Management Agency) is 117, and ambulance services can also be reached on 118 and 119.
-- **Tourist Police:** In Bali specifically, it's highly recommended to call the Tourist Police hotline first for disputes, lost items, or wayfinding help, as they tend to be more empathetic toward foreign visitors and have better English.
-- **Practical safety tips:** Save your embassy's 24-hour emergency consular number before you arrive, keep photocopies/digital scans of your passport and visa, and be aware that due to traffic and infrastructure challenges, it might be faster to use local transportation to get to the nearest medical facility rather than waiting for an ambulance in congested cities.
-- **General safety:** Indonesia is generally safe for tourists, but standard precautions apply — watch for petty theft in crowded tourist areas, be cautious with scooter rentals (many travel insurance policies exclude scooter accidents without a valid motorcycle license), and check government travel advisories for any region-specific alerts (e.g., volcanic activity, which is monitored closely across the archipelago).
+Indonesia's nationwide emergency number is straightforward: the emergency call service on 112 is designed to connect callers with various emergency services, including the police, fire department, and medical assistance, and it works even without credit or a SIM in many cases. Traditional single-service numbers still work alongside it: Emergency 112, Ambulance 118, Police 110, Fire 113.
+
+In Bali specifically, there's also a tourist-focused line: Bali's universal emergency number is 112 for all emergencies, plus Police 110, Ambulance 118, Fire 113, and Tourist Police 155. If you're a tourist dealing with a dispute, lost item, or need help finding your way, it's recommended to call the Tourist Police hotline first, as they're generally more used to helping foreign visitors and have better English.
+
+Practical safety notes: save these numbers in your phone before you land, keep photos of your passport and visa stored separately from the originals, and use hotel/embassy contacts as backup if language is a barrier. For medical emergencies in tourist hubs, international-standard hospitals and clinics (commonly used by visitors in Bali and Jakarta) are usually the fastest route to English-speaking care, sometimes faster than waiting on an ambulance in heavy traffic.
 
 ## Official sources
 
-- [Directorate General of Immigration – Official e-Visa Portal](https://evisa.imigrasi.go.id/)
-- [Indonesian Immigration (Imigrasi) – Main Site](https://www.imigrasi.go.id/en/)
-- [Wonderful Indonesia – Official Tourism Board](https://www.indonesia.travel/)
-- [JakLingko – Jakarta Integrated Transport](https://www.jaklingkoindonesia.co.id/)
-- [TransJakarta – Official Bus Rapid Transit](https://www.transjakarta.co.id/)
-- [Bank Indonesia – Central Bank (currency & exchange info)](https://www.bi.go.id/en/default.aspx)
-- [Kominfo Emergency Call Center 112](https://layanan112.kominfo.go.id/)
+- [Directorate General of Immigration, e-Visa portal (evisa.imigrasi.go.id)](https://evisa.imigrasi.go.id/)
+- [Indonesian Immigration, eVOA / visa-on-arrival information](https://evisa.imigrasi.go.id/front/info/evoa)
+- [Wonderful Indonesia, official tourism board site](https://www.indonesia.travel/)
+- [Ministry of Tourism and Creative Economy of the Republic of Indonesia](https://kemenparekraf.go.id/)
+- [Transjakarta, official operator site](https://transjakarta.co.id/)
+- [MRT Jakarta, official site](https://www.jakartamrt.co.id/)
+- [Indonesian National Police (POLRI)](https://www.polri.go.id/)
+- [Bank Indonesia (central bank, currency and exchange information)](https://www.bi.go.id/)

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23",
+  "updated": "2026-09-28",
   "countries": {
     "South Korea": {
       "climate": [
@@ -389,8 +389,8 @@
         }
       ],
       "climateCity": "Tokyo",
-      "climateLat": 35.6647703,
-      "climateLng": 139.7702515,
+      "climateLat": 35.710068199999995,
+      "climateLng": 139.7746009,
       "climateYears": 10,
       "holidays": [
         {
@@ -1577,80 +1577,80 @@
       "climate": [
         {
           "m": 1,
-          "hi": 22,
-          "lo": 10,
-          "rain": 57
+          "hi": 2,
+          "lo": -10,
+          "rain": 2
         },
         {
           "m": 2,
-          "hi": 23,
-          "lo": 12,
-          "rain": 60
+          "hi": 6,
+          "lo": -7,
+          "rain": 7
         },
         {
           "m": 3,
-          "hi": 27,
-          "lo": 16,
-          "rain": 119
+          "hi": 15,
+          "lo": -1,
+          "rain": 11
         },
         {
           "m": 4,
-          "hi": 30,
-          "lo": 20,
-          "rain": 181
+          "hi": 22,
+          "lo": 6,
+          "rain": 23
         },
         {
           "m": 5,
-          "hi": 31,
-          "lo": 23,
-          "rain": 292
+          "hi": 29,
+          "lo": 13,
+          "rain": 43
         },
         {
           "m": 6,
-          "hi": 31,
-          "lo": 26,
-          "rain": 369
+          "hi": 33,
+          "lo": 19,
+          "rain": 68
         },
         {
           "m": 7,
           "hi": 32,
-          "lo": 26,
-          "rain": 211
+          "lo": 22,
+          "rain": 236
         },
         {
           "m": 8,
-          "hi": 32,
-          "lo": 26,
-          "rain": 310
+          "hi": 30,
+          "lo": 20,
+          "rain": 178
         },
         {
           "m": 9,
-          "hi": 32,
-          "lo": 24,
-          "rain": 193
+          "hi": 27,
+          "lo": 15,
+          "rain": 68
         },
         {
           "m": 10,
-          "hi": 29,
-          "lo": 20,
-          "rain": 59
+          "hi": 19,
+          "lo": 6,
+          "rain": 38
         },
         {
           "m": 11,
-          "hi": 27,
-          "lo": 16,
-          "rain": 44
+          "hi": 10,
+          "lo": -2,
+          "rain": 19
         },
         {
           "m": 12,
-          "hi": 22,
-          "lo": 10,
-          "rain": 14
+          "hi": 3,
+          "lo": -8,
+          "rain": 3
         }
       ],
-      "climateCity": "Guangzhou",
-      "climateLat": 23.1298714,
-      "climateLng": 113.24011189999999,
+      "climateCity": "Beijing",
+      "climateLat": 39.9168038,
+      "climateLng": 116.39716209999999,
       "climateYears": 10,
       "holidays": [
         {
@@ -2516,9 +2516,9 @@
           "rain": 92
         }
       ],
-      "climateCity": "New Taipei",
-      "climateLat": 25.036838,
-      "climateLng": 121.50216479999999,
+      "climateCity": "Taipei",
+      "climateLat": 25.0508047,
+      "climateLng": 121.51897659999999,
       "climateYears": 10,
       "holidays": [
         {
@@ -2829,8 +2829,8 @@
         }
       ],
       "climateCity": "Bali",
-      "climateLat": -8.276121500000002,
-      "climateLng": 115.15420289999999,
+      "climateLat": -8.6564332,
+      "climateLng": 115.21248989999998,
       "climateYears": 10,
       "holidays": [
         {
@@ -3014,80 +3014,80 @@
       "climate": [
         {
           "m": 1,
-          "hi": 27,
+          "hi": 29,
           "lo": 22,
-          "rain": 235
+          "rain": 250
         },
         {
           "m": 2,
-          "hi": 27,
+          "hi": 30,
           "lo": 22,
           "rain": 136
         },
         {
           "m": 3,
-          "hi": 28,
+          "hi": 31,
           "lo": 22,
-          "rain": 121
+          "rain": 195
         },
         {
           "m": 4,
-          "hi": 29,
+          "hi": 31,
           "lo": 23,
-          "rain": 134
+          "rain": 211
         },
         {
           "m": 5,
-          "hi": 29,
+          "hi": 30,
           "lo": 24,
-          "rain": 215
+          "rain": 213
         },
         {
           "m": 6,
-          "hi": 27,
+          "hi": 29,
           "lo": 23,
-          "rain": 257
+          "rain": 212
         },
         {
           "m": 7,
-          "hi": 27,
+          "hi": 29,
           "lo": 23,
-          "rain": 249
+          "rain": 166
         },
         {
           "m": 8,
-          "hi": 27,
+          "hi": 29,
           "lo": 23,
-          "rain": 265
+          "rain": 191
         },
         {
           "m": 9,
-          "hi": 27,
+          "hi": 29,
           "lo": 23,
-          "rain": 278
+          "rain": 208
         },
         {
           "m": 10,
-          "hi": 27,
+          "hi": 29,
           "lo": 23,
-          "rain": 291
+          "rain": 248
         },
         {
           "m": 11,
-          "hi": 28,
+          "hi": 29,
           "lo": 23,
-          "rain": 279
+          "rain": 348
         },
         {
           "m": 12,
-          "hi": 27,
-          "lo": 23,
-          "rain": 288
+          "hi": 29,
+          "lo": 22,
+          "rain": 343
         }
       ],
-      "climateCity": "Kota Kinabalu",
-      "climateLat": 5.982156799999999,
-      "climateLng": 116.07731840000001,
+      "climateCity": "Kuala Lumpur",
+      "climateLat": 3.2378844,
+      "climateLng": 101.6840385,
       "climateYears": 10,
       "holidays": [
         {
@@ -3872,8 +3872,8 @@
         }
       ],
       "climateCity": "Istanbul",
-      "climateLat": 41.016500099999995,
-      "climateLng": 28.9705194,
+      "climateLat": 41.03375,
+      "climateLng": 29.029934,
       "climateYears": 10,
       "holidays": [
         {
@@ -5008,6 +5008,80 @@
           "date": "2027-12-29",
           "name": "Peace Day in Cambodia",
           "localName": "ទិវាសន្តិភាពនៅកម្ពុជា"
+        }
+      ]
+    },
+    "Australia": {
+      "holidays": [
+        {
+          "date": "2026-01-01",
+          "name": "New Year's Day",
+          "localName": "New Year's Day"
+        },
+        {
+          "date": "2026-01-26",
+          "name": "Australia Day",
+          "localName": "Australia Day"
+        },
+        {
+          "date": "2026-04-03",
+          "name": "Good Friday",
+          "localName": "Good Friday"
+        },
+        {
+          "date": "2026-04-06",
+          "name": "Easter Monday",
+          "localName": "Easter Monday"
+        },
+        {
+          "date": "2026-04-25",
+          "name": "ANZAC Day",
+          "localName": "ANZAC Day"
+        },
+        {
+          "date": "2026-12-25",
+          "name": "Christmas Day",
+          "localName": "Christmas Day"
+        },
+        {
+          "date": "2026-12-26",
+          "name": "Boxing Day",
+          "localName": "Boxing Day"
+        },
+        {
+          "date": "2027-01-01",
+          "name": "New Year's Day",
+          "localName": "New Year's Day"
+        },
+        {
+          "date": "2027-01-26",
+          "name": "Australia Day",
+          "localName": "Australia Day"
+        },
+        {
+          "date": "2027-03-26",
+          "name": "Good Friday",
+          "localName": "Good Friday"
+        },
+        {
+          "date": "2027-03-29",
+          "name": "Easter Monday",
+          "localName": "Easter Monday"
+        },
+        {
+          "date": "2027-04-25",
+          "name": "ANZAC Day",
+          "localName": "ANZAC Day"
+        },
+        {
+          "date": "2027-12-25",
+          "name": "Christmas Day",
+          "localName": "Christmas Day"
+        },
+        {
+          "date": "2027-12-26",
+          "name": "Boxing Day",
+          "localName": "Boxing Day"
         }
       ]
     }
