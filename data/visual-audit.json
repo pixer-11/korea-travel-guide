@@ -352,6 +352,12 @@
   "reason": "Itmad-ud-Daula mausoleum, distinctive architecture, Agra",
   "at": "2026-07-27T12:44:12.257Z"
  },
+ "agra-jahangir-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Jahangir_Palace._Agra%2C_India_%2823286549200%29.jpg/3840px-Jahangir_Palace._Agra%2C_India_%2823286549200%29.jpg": {
+  "slug": "agra-jahangir-palace",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative exterior view of Jahangir Palace building in Agra",
+  "at": "2026-09-28T15:45:00.992Z"
+ },
  "agra-mehtab-bagh\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mehtab_Bagh_facing_Taj_Mahal.JPG/1920px-Mehtab_Bagh_facing_Taj_Mahal.JPG": {
   "slug": "agra-mehtab-bagh",
   "verdict": "MATCH",
@@ -995,6 +1001,12 @@
   "reasonKo": "오스틴 거리의 박물관 외관 명확히 보임",
   "at": "2026-08-18T13:26:30.027Z"
  },
+ "austin-neill-cochran-house-museum\u0001https://upload.wikimedia.org/wikipedia/commons/d/df/Neill_cochran_house_2007.jpg": {
+  "slug": "austin-neill-cochran-house-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Greek Revival mansion facade matches museum's exterior",
+  "at": "2026-09-28T15:40:04.462Z"
+ },
  "austin-radha-madhav-dham\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Radha_Madhav_Dham_%282014%29_by_Highsmith%2C_Carol.png/1920px-Radha_Madhav_Dham_%282014%29_by_Highsmith%2C_Carol.png": {
   "slug": "austin-radha-madhav-dham",
   "verdict": "MATCH",
@@ -1038,6 +1050,12 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Palace of Popes, Place du Palais, Avignon nightscape",
   "at": "2026-08-18T19:52:42.543Z"
+ },
+ "avignon-remparts-d-avignon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Avignon_-_Porte_universit%C3%A9_remparts.jpg/3840px-Avignon_-_Porte_universit%C3%A9_remparts.jpg": {
+  "slug": "avignon-remparts-d-avignon",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Avignon ramparts wall with archway entrance, representative view",
+  "at": "2026-09-28T15:46:11.973Z"
  },
  "avignon-the-bridge-of-avignon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Avignon_France_Bridge_-_Pont_Saint-Benezet_Rhone_River.jpg/3840px-Avignon_France_Bridge_-_Pont_Saint-Benezet_Rhone_River.jpg": {
   "slug": "avignon-the-bridge-of-avignon",
@@ -2872,6 +2890,12 @@
   "reason": "publish gate: Shows museum entrance gate with clear signage, representative view",
   "at": "2026-09-10T07:52:27.510Z"
  },
+ "bhubaneswar-rani-gumpha\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Udayagiri_Caves_-_Rani_Gumpha_01.jpg/3840px-Udayagiri_Caves_-_Rani_Gumpha_01.jpg": {
+  "slug": "bhubaneswar-rani-gumpha",
+  "verdict": "MATCH",
+  "reason": "publish gate: Rock-cut cave architecture matching Rani Gumpha, Bhubaneswar",
+  "at": "2026-09-28T15:41:49.004Z"
+ },
  "bhubaneswar-regional-museum-of-natural-history\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Regional_Museum_of_Natural_History_Bhubaneswar.jpg/1920px-Regional_Museum_of_Natural_History_Bhubaneswar.jpg": {
   "slug": "bhubaneswar-regional-museum-of-natural-history",
   "verdict": "MATCH",
@@ -3098,6 +3122,12 @@
   "reason": "Piazza Maggiore Bologna, distinctive architecture visible",
   "at": "2026-07-27T12:45:42.718Z"
  },
+ "bologna-portici-di-bologna\u0001https://upload.wikimedia.org/wikipedia/commons/1/1e/Bologna%2C_Portici_di_via_S.Isaia.JPG": {
+  "slug": "bologna-portici-di-bologna",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows portico arcade, iconic Bologna covered walkway",
+  "at": "2026-09-28T15:52:29.567Z"
+ },
  "boracay-i-love-boracay\u0001https://upload.wikimedia.org/wikipedia/commons/a/a9/I_love_Boracay.jpg": {
   "slug": "boracay-i-love-boracay",
   "verdict": "MATCH",
@@ -3221,6 +3251,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed: a pottery artifact photographed at the Buyeo National Museum, a different museum from the National Museum of Korea in Seoul (2026-09-14)",
   "at": "2026-09-14T02:36:57.651Z"
+ },
+ "boston-acorn-street\u0001https://upload.wikimedia.org/wikipedia/commons/d/d2/Acorn_Street_Boston%2C_Massachusetts.jpg": {
+  "slug": "boston-acorn-street",
+  "verdict": "MATCH",
+  "reason": "publish gate: Cobblestone street with brick townhouses, representative of Acorn Street",
+  "at": "2026-09-28T15:43:16.076Z"
  },
  "boston-boston-common\u0001https://fastly.4sqi.net/img/general/original/9216963_48S2ZzsxS1Cbpm-LGsK7rPEieZkvXTXiJTwURY-zIOU.jpg": {
   "slug": "boston-boston-common",
@@ -3864,6 +3900,12 @@
   "reasonKo": "가게 이름 표지판과 모던한 인테리어가 명확함",
   "at": "2026-09-17T17:14:31.205Z"
  },
+ "cebu-yap-san-diego-ancestral-house\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Yap-San_Diego_Ancestral_House.jpg/3840px-Yap-San_Diego_Ancestral_House.jpg": {
+  "slug": "cebu-yap-san-diego-ancestral-house",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of the actual ancestral house building",
+  "at": "2026-09-28T15:54:43.141Z"
+ },
  "central-avenue-of-stars-hk\u0001https://upload.wikimedia.org/wikipedia/commons/d/d6/HK_%E5%B0%96%E6%B2%99%E5%92%80_TST_%E9%A6%99%E6%B8%AF%E6%98%9F%E5%85%89%E5%A4%A7%E9%81%93_Avenue_of_Stars_November_2019_SS2_05.jpg": {
   "slug": "central-avenue-of-stars-hk",
   "verdict": "MATCH",
@@ -4420,6 +4462,12 @@
   "reason": "width upgrade: Representative exterior facade of the temple gate",
   "at": "2026-09-03T22:14:54.168Z"
  },
+ "chiayi-chiayi-old-prison\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Old_Chiayi_Prison%2C_front_gate_%28Taiwan%29.jpg/1920px-Old_Chiayi_Prison%2C_front_gate_%28Taiwan%29.jpg": {
+  "slug": "chiayi-chiayi-old-prison",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior facade of Chiayi Old Prison building shown",
+  "at": "2026-09-28T15:48:43.282Z"
+ },
  "chiayi-chiayi-park\u0001https://upload.wikimedia.org/wikipedia/commons/b/b7/Chia_yi_park_wt.JPG": {
   "slug": "chiayi-chiayi-park",
   "verdict": "MATCH",
@@ -4846,6 +4894,12 @@
   "verdict": "MATCH",
   "reason": "patrol re-check: Colmar canal with half-timbered houses, classic La Petite Venise view",
   "at": "2026-08-16T19:56:19.715Z"
+ },
+ "colmar-maison-pfister\u0001https://upload.wikimedia.org/wikipedia/commons/3/39/Colmar-Maison_Pfister_%281%29.jpg": {
+  "slug": "colmar-maison-pfister",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Maison Pfister's iconic painted facade panels and balcony",
+  "at": "2026-09-28T15:49:43.830Z"
  },
  "colmar-musee-unterlinden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mus%C3%A9e_d%27Unterlinden_Colmar.jpg/1920px-Mus%C3%A9e_d%27Unterlinden_Colmar.jpg": {
   "slug": "colmar-musee-unterlinden",
@@ -6022,6 +6076,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Plausible open square in Genoa with cafes, matches venue",
   "at": "2026-09-25T08:08:39.133Z"
+ },
+ "genoa-porta-dei-vacca\u0001https://upload.wikimedia.org/wikipedia/commons/0/04/Porta_dei_Vacca_-_Genova_-_panoramio.jpg": {
+  "slug": "genoa-porta-dei-vacca",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows the actual arch gate structure in Genoa",
+  "at": "2026-09-28T15:47:38.467Z"
  },
  "genoa-porta-soprana\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Porta_Soprana_Exterior_Close_Genoa_Italy_Sep23_A7C_06588.jpg/3840px-Porta_Soprana_Exterior_Close_Genoa_Italy_Sep23_A7C_06588.jpg": {
   "slug": "genoa-porta-soprana",
@@ -7875,6 +7935,12 @@
   "reason": "metadata veto: Commons names Iloilo (vision said: Fossil skeleton display, not Iloilo museum)",
   "reasonKo": null,
   "at": "2026-08-19T13:28:54.601Z"
+ },
+ "iloilo-nelly-garden-mansion\u0001https://upload.wikimedia.org/wikipedia/commons/0/0c/Lopez_Heritage_House_or_Nelly%27s_Garden_%28Mansion_de_Lopez%29.jpg": {
+  "slug": "iloilo-nelly-garden-mansion",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows the mansion exterior, representative hero shot",
+  "at": "2026-09-28T15:50:53.997Z"
  },
  "iloilo-oton-public-market\u0001https://upload.wikimedia.org/wikipedia/commons/5/5b/Oton_Public_Market%2C_Iloilo%2C_Sep_2026.jpg": {
   "slug": "iloilo-oton-public-market",
@@ -10050,6 +10116,12 @@
   "reasonKo": "비스와방글라게이트의 특징적인 나선형 구조",
   "at": "2026-08-17T13:25:03.649Z"
  },
+ "kolkata-bow-barracks\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bow_Barracks.JPG/1920px-Bow_Barracks.JPG": {
+  "slug": "kolkata-bow-barracks",
+  "verdict": "MATCH",
+  "reason": "publish gate: Street view of Bow Barracks-style red colonial buildings, Kolkata",
+  "at": "2026-09-28T15:53:50.279Z"
+ },
  "kolkata-calcutta-riverside\u0001https://upload.wikimedia.org/wikipedia/commons/1/19/Calcutta_Riverside%2C_Batanagar.jpg": {
   "slug": "kolkata-calcutta-riverside",
   "verdict": "MATCH",
@@ -11971,6 +12043,12 @@
   "reason": "Cheng Hoon Teng Temple exterior with red lanterns, authentic",
   "reasonKo": "청훈텅사원 외부, 빨간 랜턴, 전형적 건축",
   "at": "2026-08-19T13:29:25.166Z"
+ },
+ "malacca-dutch-square-red-square-melaka\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Melaka%2C_Malaysia_-_Dutch_Square_or_Red_Square%2C_March_2023.jpg/3840px-Melaka%2C_Malaysia_-_Dutch_Square_or_Red_Square%2C_March_2023.jpg": {
+  "slug": "malacca-dutch-square-red-square-melaka",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Dutch Square Melaka red buildings, fountain, plaza at night",
+  "at": "2026-09-28T15:44:00.660Z"
  },
  "malacca-jonker-street-night-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Jonker_Street_Night_Market_in_Melaka%2C_Malaysia.jpg/3840px-Jonker_Street_Night_Market_in_Melaka%2C_Malaysia.jpg": {
   "slug": "malacca-jonker-street-night-market",
@@ -15635,6 +15713,12 @@
   "reasonKo": "피사 카발리에리 광장, 건축물 확인됨",
   "at": "2026-08-14T13:59:17.231Z"
  },
+ "pisa-piazza-del-duomo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Piazza_del_Duomo%2C_Pisa_-_panoramio.jpg/3840px-Piazza_del_Duomo%2C_Pisa_-_panoramio.jpg": {
+  "slug": "pisa-piazza-del-duomo",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial night view of Piazza del Duomo area buildings, Pisa",
+  "at": "2026-09-28T15:51:33.179Z"
+ },
  "pisa-tower-of-pisa\u0001https://fastly.4sqi.net/img/general/original/26490270_-BgeN3dyKqMrhRQJOcGNmCFbj5irjGTfzW2Pf64mVlM.jpg": {
   "slug": "pisa-tower-of-pisa",
   "verdict": "MATCH",
@@ -15715,6 +15799,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Garden with pond, rhododendrons and bridge, representative view",
   "at": "2026-09-10T07:43:11.930Z"
+ },
+ "portland-japanese-american-historical-plaza\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Japanese_American_Historical_Plaza_-_Portland%2C_Oregon.jpg/1920px-Japanese_American_Historical_Plaza_-_Portland%2C_Oregon.jpg": {
+  "slug": "portland-japanese-american-historical-plaza",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows plaza stones in Portland, representative of memorial site",
+  "at": "2026-09-28T15:39:00.228Z"
  },
  "portland-omsi\u0001https://upload.wikimedia.org/wikipedia/commons/1/1f/OMSI_exhibits_sign%2C_Portland%2C_OR.JPG": {
   "slug": "portland-omsi",
@@ -21363,6 +21453,12 @@
   "verdict": "MATCH",
   "reason": "patrol re-check: Shows Tang Paradise architecture and signage with reflection, representative view",
   "at": "2026-08-16T20:37:33.694Z"
+ },
+ "xi-an-xi-an-daxuexi-alley-mosque\u0001https://upload.wikimedia.org/wikipedia/commons/a/a9/Daxuexi_Alley_Mosque.jpg": {
+  "slug": "xi-an-xi-an-daxuexi-alley-mosque",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of mosque hall, representative of venue",
+  "at": "2026-09-28T15:40:40.118Z"
  },
  "xi-an-xi-an-museum\u0001https://upload.wikimedia.org/wikipedia/commons/b/be/Xi%27an_Museum.jpg": {
   "slug": "xi-an-xi-an-museum",

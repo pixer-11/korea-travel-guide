@@ -31,7 +31,7 @@ Hong Kong, Hong Kong — 83 qualifying post(s), variants: 3, 5
   = Hong Kong 5d — unchanged, skipping
 
 Istanbul, Turkey — 12 qualifying post(s), variants: 3
-NEW_ITINERARY: Istanbul 3d
+  = Istanbul 3d — unchanged, skipping
 
 Los Angeles, United States — 16 qualifying post(s), variants: 3
   = Los Angeles 3d — unchanged, skipping
@@ -49,7 +49,7 @@ Singapore, Singapore — 76 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
   = Singapore 5d — unchanged, skipping
 
-Done.
+Done. Nothing changed.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0

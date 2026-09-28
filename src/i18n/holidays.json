@@ -1,4 +1,46 @@
 {
+  "Australia|ANZAC Day": {
+    "ko": "안작의 날",
+    "ja": "アンザックデー",
+    "es": "Día de ANZAC",
+    "zh": "澳新军团日"
+  },
+  "Australia|Australia Day": {
+    "ko": "호주의 날",
+    "ja": "オーストラリアの日",
+    "es": "Día de Australia",
+    "zh": "澳大利亚国庆日"
+  },
+  "Australia|Boxing Day": {
+    "ko": "박싱 데이",
+    "ja": "ボクシングデー",
+    "es": "San Esteban",
+    "zh": "节礼日"
+  },
+  "Australia|Christmas Day": {
+    "ko": "크리스마스",
+    "ja": "クリスマス",
+    "es": "Navidad",
+    "zh": "圣诞节"
+  },
+  "Australia|Easter Monday": {
+    "ko": "부활절 월요일",
+    "ja": "イースターマンデー",
+    "es": "Lunes de Pascua",
+    "zh": "复活节星期一"
+  },
+  "Australia|Good Friday": {
+    "ko": "성금요일",
+    "ja": "聖金曜日",
+    "es": "Viernes Santo",
+    "zh": "耶稣受难日"
+  },
+  "Australia|New Year's Day": {
+    "ko": "신정",
+    "ja": "元日",
+    "es": "Año Nuevo",
+    "zh": "元旦"
+  },
   "Cambodia|Cambodia Peace Day": {
     "ko": "캄보디아 평화의 날",
     "ja": "カンボジア平和の日",

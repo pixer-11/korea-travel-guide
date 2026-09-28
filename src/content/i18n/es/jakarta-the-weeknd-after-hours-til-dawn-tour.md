@@ -1,59 +1,53 @@
 ---
 lang: es
 slug: jakarta-the-weeknd-after-hours-til-dawn-tour
-srcHash: 'fe8f2e871299'
-title: 'The Weeknd – After Hours Til Dawn Tour: lo que hay que saber (Yakarta)'
-description: The Weeknd – After Hours Til Dawn Tour en Yakarta, Indonesia — 26 y 27 de septiembre de 2026. Qué es, cuándo y dónde, y cómo organizar tu viaje.
-quickAnswer: 'The Weeknd lleva el AFTER HOURS TIL DAWN World Tour al Jakarta International Stadium (JIS) durante dos noches, del 26 al 27 de septiembre de 2026 — la primera parada del tour en el Sudeste Asiático. Trata ambas fechas como un solo evento a la hora de planificar: reserva vuelos y hotel para una estadía de varias noches en el norte de Yakarta, y confirma los horarios exactos de apertura de puertas, detalles del setlist y categorías de entradas en el sitio oficial del tour de The Weeknd o en Live Nation Indonesia antes de comprar, ya que nada de eso se ha confirmado públicamente todavía.'
+srcHash: '710928436cf0'
+title: 'The Weeknd en Yakarta: claves de la gira After Hours Til Dawn'
+description: La gira After Hours Til Dawn de The Weeknd tenía previstas dos fechas, el 26 y el 27 de septiembre de 2026, en el Estadio Internacional de Yakarta (Jakarta International Stadium). Iba a ser la primera parada del tour en el Sudeste Asiático.
+quickAnswer: La gira mundial AFTER HOURS TIL DAWN de The Weeknd tenía programadas dos noches en el Estadio Internacional de Yakarta (Jakarta International Stadium, JIS), el 26 y el 27 de septiembre de 2026. Con ellas, el tour iba a estrenarse en el Sudeste Asiático. Ambas fechas formaban una misma tanda de conciertos en Yakarta Norte, lo que obligaba a quienes venían de fuera a pasar varias noches en la ciudad. No llegaron a hacerse públicos ni el horario exacto de apertura de puertas ni detalles del repertorio o de las categorías de entradas. De las fechas de Yakarta se encargaba Live Nation Indonesia junto con el equipo de gira de The Weeknd.
 faq:
-  - q: ¿Cuáles son las fechas y el recinto confirmados?
-    a: El 26 y 27 de septiembre de 2026, en el Jakarta International Stadium (JIS), en Tanjung Priok, norte de Yakarta — la primera parada del tour en el Sudeste Asiático. Confirma en el sitio oficial del tour a medida que se acerque la fecha, ya que los detalles del recinto y el horario aún pueden actualizarse.
-  - q: ¿Cómo llego al Jakarta International Stadium?
-    a: Las aplicaciones de transporte (Gojek, Grab) o las rutas de autobús TransJakarta hacia Tanjung Priok son las opciones más prácticas; la zona no cuenta con buen transporte orientado al turista, así que calcula entre 45 minutos y más de una hora desde el centro de Yakarta, y más aún en noches de show.
-  - q: ¿Dónde se anuncian las entradas y los precios?
-    a: Ninguno de los dos se ha publicado oficialmente al momento de escribir esto — dirígete directamente a la página oficial del tour de The Weeknd o a Live Nation Indonesia para conocer las categorías de entradas verificadas, las fechas de venta y los precios, y desconfía de las reventas no oficiales.
-  - q: ¿Debería asistir las dos noches o solo una?
-    a: Si el presupuesto y el tiempo lo permiten, planea ir ambas noches — los setlists de este tour han variado según la ciudad, y no está garantizado que futuras etapas incluyan dos noches en un mismo lugar, así que es una oportunidad poco común de ver el show dos veces en un mismo viaje.
-  - q: ¿Dónde debería alojarme si vengo del extranjero?
-    a: El centro de Yakarta (Central Jakarta) o Kelapa Gading son bases prácticas, con más hoteles y opciones gastronómicas que los alrededores inmediatos del estadio, en la zona portuaria; ambas quedan a entre 20 y 45 minutos del JIS, según el tráfico.
+  - q: ¿Cuáles eran las fechas y la sede confirmadas?
+    a: El 26 y el 27 de septiembre de 2026, en el Estadio Internacional de Yakarta (Jakarta International Stadium, JIS), situado en Tanjung Priok, en Yakarta Norte. Iba a ser la primera parada de la gira en el Sudeste Asiático.
+  - q: ¿Cómo se llegaba al Estadio Internacional de Yakarta?
+    a: Las opciones más prácticas eran las aplicaciones de transporte con conductor (Gojek, Grab) o las líneas de autobús de TransJakarta en dirección a Tanjung Priok. La zona no cuenta con un transporte público cómodo para el turista, así que desde el centro de Yakarta el trayecto dura entre 45 minutos y más de una hora, y aún más las noches de concierto.
+  - q: ¿Dónde se anunciaban las entradas y sus precios?
+    a: Para las fechas de Yakarta nunca se hicieron públicos las categorías de entradas, las fechas de venta ni los precios. El promotor local era Live Nation Indonesia, y las ofertas de reventa no oficiales entrañaban los riesgos habituales.
+  - q: ¿Merecía la pena asistir a las dos noches o bastaba con una?
+    a: En esta gira el repertorio cambiaba según la ciudad, y en otras etapas era poco común que una misma ciudad acogiera dos noches seguidas. Las dos fechas de Yakarta brindaban, por tanto, una ocasión excepcional de ver el espectáculo dos veces en un mismo viaje.
+  - q: ¿Dónde convenía alojarse al venir desde el extranjero?
+    a: El centro de Yakarta y Kelapa Gading eran bases prácticas, con más hoteles y restaurantes que el barrio portuario que rodea el estadio. Ambas zonas están a unos 20–45 minutos del JIS, según el tráfico.
 ---
 
-## Por qué este show importa
+## Por qué este concierto era importante
 
-El Sudeste Asiático ha esperado mucho tiempo una fecha de estadio de The Weeknd, y Yakarta se lleva la primicia. El tour AFTER HOURS TIL DAWN se ha construido en torno a la producción cinematográfica y bañada en neón que el cantante estrenó en las giras norteamericana y europea — un show que se apoya fuertemente en la estética de After Hours/Dawn FM, con trajes rojos, escenarios espejados y un setlist que abarca "Blinding Lights", "Save Your Tears" y piezas más profundas de todo su catálogo.
+El Sudeste Asiático llevaba mucho tiempo esperando a The Weeknd en un estadio, y fue Yakarta la primera ciudad de la región en conseguirlo. La gira AFTER HOURS TIL DAWN giraba en torno a la producción cinematográfica y bañada en neón que el cantante había estrenado en sus etapas por Norteamérica y Europa. El espectáculo apostaba de lleno por la estética de After Hours y Dawn FM: trajes rojos, escenarios de espejos y un repertorio que iba de «Blinding Lights» y «Save Your Tears» a temas menos conocidos de toda su discografía.
 
-Dos noches en el Jakarta International Stadium significan que los promotores esperan una demanda considerable, y también significan que tienes una opción poco común: si no consigues entradas para una fecha, tienes una segunda oportunidad la noche siguiente.
+Que se reservaran dos noches en el Estadio Internacional de Yakarta indicaba que los promotores esperaban una demanda muy alta. Además, los fans tenían una alternativa poco habitual: quien no consiguiera entradas para una fecha disponía de un segundo concierto a la noche siguiente.
 
-## Cómo llegar al Jakarta International Stadium
+## Cómo llegar al Estadio Internacional de Yakarta
 
-El JIS se encuentra en Tanjung Priok, norte de Yakarta, un estadio construido especialmente que se ha convertido en el recinto preferido de la ciudad para eventos de esta magnitud. No está en el núcleo turístico central, así que calcula tiempo real para el trayecto. El estadio está conectado por corredores de autobús TransJakarta que van hacia Tanjung Priok, y las aplicaciones de transporte (Gojek, Grab) son la forma más sencilla de llegar para la mayoría de los visitantes — solo ten en cuenta las tarifas dinámicas y el tráfico intenso en las horas previas a la apertura de puertas, especialmente con dos noches consecutivas de aforo completo acumulando tráfico una sobre otra.
+El JIS se encuentra en Tanjung Priok, en Yakarta Norte. Se construyó expresamente como estadio y se ha convertido en el recinto de referencia de la ciudad para eventos de esta envergadura. Como queda lejos del centro turístico, el trayecto lleva su tiempo. Hasta allí llegan varios corredores de autobús de TransJakarta en dirección a Tanjung Priok, aunque para la mayoría de los visitantes lo más sencillo son las aplicaciones de transporte con conductor, como Gojek o Grab.
 
-Si te alojas en el sur o el centro de Yakarta (Senayan, SCBD, Menteng), calcula entre 45 minutos y más de una hora por trayecto, dependiendo de la hora y de si es noche de show.
+Desde el sur o el centro de Yakarta (Senayan, SCBD, Menteng), cada trayecto dura entre 45 minutos y más de una hora, según la hora del día y según haya o no concierto esa noche.
 
-## Qué esperar dentro
+## Qué esperar dentro del recinto
 
-Los shows de estadio de esta magnitud en Yakarta suelen dividir la pista en sectores de pie más cercanos al escenario, con gradas escalonadas alrededor — espera los extras habituales del tour, como paquetes VIP, entrada anticipada y puestos de merchandising que abren mucho antes del acto principal. Ninguna de las categorías de entradas, precios u horarios de apertura de puertas específicos para Yakarta se ha confirmado oficialmente al momento de escribir esto, así que no planifiques tu noche en torno a cifras que hayas visto circulando en sitios de reventa o foros de fans.
+En los conciertos de estadio de estas dimensiones en Yakarta, la pista suele dividirse en zonas de pie junto al escenario, rodeadas por gradas escalonadas. Los paquetes VIP, el acceso anticipado y los puestos de productos oficiales formaban parte del montaje habitual de la gira.
 
-Consulta la página oficial del tour o el listado de Live Nation Indonesia para conocer los horarios reales de puertas y del show una vez publicados, y trata cualquier otra cosa como rumor hasta entonces.
+## Cuándo llegar y cómo organizarse para dos noches
 
-## Cuándo llegar y cómo organizar las dos noches
+Lo contratado en Yakarta eran dos conciertos completos en noches consecutivas, el 26 y el 27 de septiembre, y no una fecha principal con otra de reserva. El repertorio de esta gira había cambiado de una ciudad a otra, y en las tandas de dos noches los promotores suelen escalonar la entrada del público para evitar aglomeraciones.
 
-Con fechas consecutivas, resiste la tentación de tratar la primera noche como el "show de verdad" y la segunda como algo secundario — los setlists de este tour han variado de ciudad en ciudad, y los promotores a menudo escalonan el flujo del público en tandas de dos noches precisamente para aliviar las aglomeraciones. Llega más temprano de lo que crees necesario la primera noche, ya que todavía nadie sabe cómo manejarán las puertas de entrada del JIS a una multitud de este tamaño, y luego usa lo aprendido para ajustar tu hora de llegada en la segunda noche.
+Para quienes llegaban en vuelo internacional, el aeropuerto Soekarno-Hatta (CGK) de Yakarta está a unos 90 minutos del JIS con tráfico normal, y a más en la hora punta de la tarde.
 
-Deja un día de margen antes o después del 26–27 de septiembre si viajas desde el extranjero — el aeropuerto Soekarno-Hatta de Yakarta (CGK) está aproximadamente a 90 minutos del JIS con tráfico normal, más durante la hora pico de la tarde.
+## Dónde alojarse y comer en los alrededores
 
-## Dónde alojarse y comer cerca
+Tanjung Priok es un barrio portuario en plena actividad, con pocos hoteles y escasos restaurantes pensados para el turista. Por eso, quienes acuden a conciertos allí suelen alojarse en el centro de Yakarta o en Kelapa Gading, una zona residencial y de centros comerciales situada a unos 20–30 minutos del estadio, donde abundan los restaurantes, los hoteles y las tiendas de conveniencia abiertas las 24 horas. Kelapa Gading es también una buena alternativa para cenar antes del concierto lejos del gentío que se concentra junto al estadio.
 
-Tanjung Priok en sí es un distrito portuario de trabajo, con pocos hoteles y opciones gastronómicas dedicadas al turista, así que la mayoría de los visitantes se instala en el centro de Yakarta (Central Jakarta) o en los alrededores de Kelapa Gading, una zona de centros comerciales y residencias a unos 20–30 minutos del estadio, con una alta concentración de restaurantes, hoteles y tiendas de conveniencia abiertas las 24 horas — útil si vuelves tarde después del show.
+## Cómo moverse como un local
 
-Kelapa Gading también te da una alternativa para cenar antes del show sin lidiar con las multitudes cercanas al estadio.
+Ante un concierto de estadio de este tamaño, los yakartinos casi nunca van en coche propio: recurren casi exclusivamente a Gojek, Grab y TransJakarta, porque aparcar cerca del JIS se vuelve caótico las noches de evento. En los puestos de comida y de productos oficiales de toda Yakarta lo normal es pagar sin efectivo, y un monedero electrónico local (GoPay, OVO) o una tarjeta resultan más prácticos que los billetes.
 
-## Cómo visitarlo como un local
+Un error frecuente entre los fans extranjeros en los conciertos de estadio de Yakarta es subestimar la avalancha de la salida, cuando decenas de miles de personas se dirigen a la vez hacia las mismas pocas calles. En lugar de correr hacia la puerta, los locales suelen quedarse dentro entre 20 y 30 minutos después de la última canción, ya sea para comprar productos oficiales o para dejar que la multitud se disperse.
 
-Los habitantes de Yakarta que se enfrentan a un show de estadio de esta magnitud dependen casi por completo de Gojek/Grab y TransJakarta en lugar de conducir ellos mismos, precisamente porque el estacionamiento cerca del JIS se vuelve caótico en las noches de evento — haz lo mismo en vez de alquilar un auto. Los pagos sin efectivo son la norma en los puestos de comida y merchandising en toda Yakarta hoy en día, así que una billetera electrónica local (GoPay, OVO) o una tarjeta funcionan mejor que buscar efectivo.
-
-El error más grande que cometen los fans internacionales en los shows de estadio de Yakarta es subestimar la aglomeración a la salida — decenas de miles de personas convergen al mismo tiempo en las mismas pocas calles, así que los locales suelen quedarse entre 20 y 30 minutos dentro después de la última canción, comprando merchandising o simplemente dejando que la multitud se disperse, en lugar de correr hacia la salida.
-
-El público de conciertos indonesio también es entusiasta pero ordenado a la hora de hacer fila en las puertas de entrada horas antes de que abran — únete a la fila temprano en lugar de asumir que puedes entrar tranquilamente cerca de la hora del show.
-
-Dado que ninguno de los detalles de entradas, horarios o asientos está finalizado públicamente todavía, guarda en tus marcadores el sitio oficial del tour AFTER HOURS TIL DAWN y la página del evento de Live Nation Indonesia, y revísalos de nuevo cerca de septiembre de 2026 antes de confirmar tus vuelos o la reserva de hotel.
+El público indonesio es conocido, además, por hacer cola en los accesos varias horas antes de que se abran las puertas.

@@ -26,7 +26,7 @@
    "hits": 8
   },
   "waterfront": {
-   "attempts": 43,
+   "attempts": 44,
    "hits": 4
   },
   "museum": {
@@ -38,8 +38,8 @@
    "hits": 0
   },
   "old quarter": {
-   "attempts": 61,
-   "hits": 32
+   "attempts": 91,
+   "hits": 48
   },
   "local market": {
    "attempts": 166,
@@ -90,7 +90,7 @@
    "hits": 2
   },
   "grill": {
-   "attempts": 35,
+   "attempts": 36,
    "hits": 0
   },
   "design shop": {
@@ -190,5 +190,5 @@
    "hits": 1
   }
  },
- "updated": "2026-09-28T07:52:39.685Z"
+ "updated": "2026-09-28T15:54:43.163Z"
 }

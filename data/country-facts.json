@@ -3251,80 +3251,80 @@
       "climate": [
         {
           "m": 1,
-          "hi": 29,
-          "lo": 15,
-          "rain": 5
+          "hi": 26,
+          "lo": 12,
+          "rain": 10
         },
         {
           "m": 2,
-          "hi": 33,
+          "hi": 31,
           "lo": 16,
-          "rain": 4
+          "rain": 36
         },
         {
           "m": 3,
           "hi": 35,
-          "lo": 19,
-          "rain": 15
+          "lo": 21,
+          "rain": 37
         },
         {
           "m": 4,
-          "hi": 37,
-          "lo": 22,
-          "rain": 34
+          "hi": 39,
+          "lo": 25,
+          "rain": 55
         },
         {
           "m": 5,
-          "hi": 33,
-          "lo": 22,
-          "rain": 136
+          "hi": 36,
+          "lo": 26,
+          "rain": 228
         },
         {
           "m": 6,
-          "hi": 30,
-          "lo": 20,
-          "rain": 101
+          "hi": 33,
+          "lo": 27,
+          "rain": 271
         },
         {
           "m": 7,
-          "hi": 29,
-          "lo": 20,
-          "rain": 102
+          "hi": 32,
+          "lo": 27,
+          "rain": 444
         },
         {
           "m": 8,
-          "hi": 29,
-          "lo": 20,
-          "rain": 155
+          "hi": 31,
+          "lo": 26,
+          "rain": 429
         },
         {
           "m": 9,
-          "hi": 28,
-          "lo": 19,
-          "rain": 143
+          "hi": 31,
+          "lo": 26,
+          "rain": 315
         },
         {
           "m": 10,
-          "hi": 28,
-          "lo": 19,
-          "rain": 147
+          "hi": 30,
+          "lo": 24,
+          "rain": 217
         },
         {
           "m": 11,
           "hi": 28,
           "lo": 17,
-          "rain": 60
+          "rain": 38
         },
         {
           "m": 12,
-          "hi": 28,
-          "lo": 16,
-          "rain": 35
+          "hi": 25,
+          "lo": 13,
+          "rain": 26
         }
       ],
-      "climateCity": "Bengaluru",
-      "climateLat": 13.0063949,
-      "climateLng": 77.5920718,
+      "climateCity": "Kolkata",
+      "climateLat": 22.5787154,
+      "climateLng": 88.4718362,
       "climateYears": 10,
       "holidays": [
         {
@@ -3518,80 +3518,80 @@
       "climate": [
         {
           "m": 1,
-          "hi": 27,
-          "lo": 22,
-          "rain": 191
+          "hi": 29,
+          "lo": 25,
+          "rain": 109
         },
         {
           "m": 2,
-          "hi": 28,
-          "lo": 21,
-          "rain": 185
+          "hi": 29,
+          "lo": 25,
+          "rain": 83
         },
         {
           "m": 3,
-          "hi": 30,
-          "lo": 22,
-          "rain": 135
+          "hi": 31,
+          "lo": 25,
+          "rain": 54
         },
         {
           "m": 4,
-          "hi": 33,
-          "lo": 24,
-          "rain": 133
+          "hi": 32,
+          "lo": 27,
+          "rain": 80
         },
         {
           "m": 5,
-          "hi": 33,
-          "lo": 25,
-          "rain": 177
+          "hi": 32,
+          "lo": 28,
+          "rain": 210
         },
         {
           "m": 6,
-          "hi": 31,
-          "lo": 25,
-          "rain": 280
+          "hi": 30,
+          "lo": 27,
+          "rain": 318
         },
         {
           "m": 7,
-          "hi": 30,
-          "lo": 25,
-          "rain": 381
+          "hi": 29,
+          "lo": 27,
+          "rain": 375
         },
         {
           "m": 8,
           "hi": 29,
-          "lo": 25,
-          "rain": 276
+          "lo": 27,
+          "rain": 374
         },
         {
           "m": 9,
-          "hi": 30,
-          "lo": 24,
-          "rain": 339
+          "hi": 29,
+          "lo": 27,
+          "rain": 316
         },
         {
           "m": 10,
           "hi": 29,
-          "lo": 24,
-          "rain": 417
+          "lo": 27,
+          "rain": 374
         },
         {
           "m": 11,
           "hi": 29,
-          "lo": 24,
-          "rain": 373
+          "lo": 27,
+          "rain": 188
         },
         {
           "m": 12,
-          "hi": 28,
-          "lo": 23,
-          "rain": 435
+          "hi": 29,
+          "lo": 26,
+          "rain": 211
         }
       ],
-      "climateCity": "Manila",
-      "climateLat": 14.5570493,
-      "climateLng": 121.0244961,
+      "climateCity": "Iloilo",
+      "climateLat": 10.7022163,
+      "climateLng": 122.56024250000002,
       "climateYears": 10,
       "holidays": [
         {

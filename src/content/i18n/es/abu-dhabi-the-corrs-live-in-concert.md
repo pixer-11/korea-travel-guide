@@ -1,55 +1,59 @@
 ---
 lang: es
 slug: abu-dhabi-the-corrs-live-in-concert
-srcHash: '21ae818406cc'
+srcHash: 'f22f03564bc3'
 title: 'The Corrs en concierto: lo que hay que saber (Abu Dabi)'
-description: The Corrs en concierto en Abu Dabi, Emiratos Árabes Unidos — 27 de septiembre de 2026. Qué es, cuándo y dónde es, y cómo organizar tu viaje en torno a él.
-quickAnswer: The Corrs ofrecen un único concierto en el Etihad Arena, en Yas Island (Abu Dabi), el 27 de septiembre de 2026. Todavía no se han confirmado precios de entradas, horarios de apertura de puertas ni artistas teloneros, así que conviene revisar el sitio oficial del Etihad Arena o los canales oficiales de The Corrs más cerca de la fecha antes de reservar el viaje.
+description: The Corrs en concierto en Abu Dabi (Emiratos Árabes Unidos), el 27 de septiembre de 2026. El recinto, cómo llegar y todo lo que se anunció sobre el espectáculo.
+quickAnswer: The Corrs tenían programada una única actuación en el Etihad Arena, en la isla de Yas (Yas Island), en Abu Dabi, el 27 de septiembre de 2026.
 faq:
-  - q: ¿Dónde se celebra exactamente el concierto?
-    a: En el Etihad Arena, en Yas Island (Abu Dabi), el mismo recinto techado que acoge desde 2023 a la mayoría de los grandes artistas en gira que pasan por la ciudad.
-  - q: ¿A qué hora abren las puertas?
-    a: Todavía no se ha anunciado. Por ahora solo están confirmados la fecha (27 de septiembre de 2026) y el recinto; conviene revisar más cerca de la fecha el listado oficial del Etihad Arena o el vinculado a Ticketmaster para conocer la hora de apertura de puertas y de inicio.
-  - q: ¿Cuánto cuestan las entradas?
-    a: Los precios aún no se han publicado. Al tratarse de un único concierto en un recinto de tipo arena, conviene reservar cuanto antes en cuanto salgan a la venta las entradas, y comprarlas únicamente a través de vendedores oficiales o verificados.
-  - q: ¿Cómo se llega al Etihad Arena desde Dubái o el centro de Abu Dabi?
-    a: 'En coche o en taxi/aplicación de transporte privado: unos 45–60 minutos desde Dubái y 20–30 minutos desde el centro de Abu Dabi. No hay conexión de metro con Yas Island, así que ir en coche o pedir un traslado privado es la opción más práctica.'
-  - q: ¿Qué más se puede hacer cerca antes o después del concierto?
-    a: Yas Island cuenta con Yas Mall, Ferrari World, Warner Bros. World y los restaurantes frente al mar de Yas Marina, todo a poca distancia en coche del recinto, lo que facilita planear una velada completa alrededor del concierto.
+  - q: ¿Dónde exactamente estaba previsto el concierto?
+    a: En el Etihad Arena, en la isla de Yas (Yas Island), en Abu Dabi. Es el mismo pabellón cubierto que acoge desde 2023 la mayoría de las grandes giras que pasan por la ciudad.
+  - q: ¿A qué hora estaba prevista la apertura de puertas?
+    a: No se comunicó ningún horario de apertura de puertas. El anuncio se limitó a la fecha, el 27 de septiembre de 2026, y al recinto.
+  - q: ¿Cuánto costaban las entradas?
+    a: Los precios nunca llegaron a publicarse. Se trataba de un único concierto en pabellón, y la recomendación de los organizadores fue comprar solo a través de vendedores oficiales o verificados.
+  - q: ¿Cómo se llega al Etihad Arena desde Dubái o desde el centro de Abu Dabi?
+    a: En coche, en taxi o mediante aplicaciones de vehículos con conductor. El trayecto dura entre 45 y 60 minutos desde Dubái y entre 20 y 30 minutos desde el centro de Abu Dabi. Como el metro no llega a la isla de Yas, el coche o los vehículos con conductor son la opción más práctica.
+  - q: ¿Qué otros planes había en los alrededores antes o después del concierto?
+    a: En la isla de Yas se encuentran Yas Mall, Ferrari World, Warner Bros. World y los restaurantes del paseo marítimo de Yas Marina, todos a pocos minutos en coche del pabellón y abiertos hasta bien entrada la noche.
 ---
 
-## Por qué importa este concierto
+## Por qué este concierto era especial
 
-The Corrs —el grupo familiar de Dundalk que a mediados de los años 90 y 2000 entretejió líneas de violín celta con un pop-rock hecho para la radio ("Breathless", "What Can I Do", "Runaway")— tiene programado un concierto único en Abu Dabi el 27 de septiembre de 2026. Para una banda que construyó su sonido a partir del tin whistle, el bodhrán y la voz inconfundible de Andrea Corr, una fecha en un recinto del Golfo es todo un acontecimiento y no una parada más de gira: no pasan por la región con frecuencia, y el público en los EAU suele combinar a fans de toda la vida que crecieron con esos discos con expatriados que por fin pueden ver en directo a una banda que nunca lograron ver en su país de origen.
+Oriundos de Dundalk, los hermanos de The Corrs se dedicaron desde mediados de los noventa y durante la década de 2000 a entrelazar melodías celtas de violín con un pop-rock hecho a la medida de la radio, en temas como "Breathless", "What Can I Do" o "Runaway". Para el 27 de septiembre de 2026 tenían anunciado un único concierto en Abu Dabi.
 
-## El recinto: Etihad Arena, Yas Island
+Hablamos de un grupo cuyo sonido descansa sobre el silbato irlandés, el bodhrán y la inconfundible voz de Andrea Corr, así que una fecha en un pabellón del Golfo suponía todo un acontecimiento y no una simple parada más de la gira. La banda no suele dejarse ver por la región, y en los Emiratos el público de este tipo de conciertos acostumbra a reunir a seguidores de siempre, que crecieron con aquellos discos, y a expatriados que nunca lograron verlos en directo en su país.
 
-El concierto se celebrará en el Etihad Arena, el recinto techado de Yas Island que desde su apertura en 2023 se ha convertido en el hogar habitual de los grandes artistas en gira que visitan Abu Dabi. Se trata de un recinto construido para este fin, con aire acondicionado —todo un alivio a finales de septiembre, cuando las temperaturas nocturnas al aire libre en Abu Dabi rondan cómodamente los 30 °C—, con gradas escalonadas que ofrecen buena visibilidad al escenario desde la mayoría de las localidades, a diferencia de algunos conciertos celebrados en salas de convenciones adaptadas.
+## El recinto: Etihad Arena, isla de Yas
 
-Yas Island es, en sí misma, el distrito de entretenimiento de Abu Dabi, así que el recinto queda a poca distancia en coche de Yas Mall, Ferrari World, Warner Bros. World y una hilera de restaurantes y bares frente al mar que se llenan antes y después de los grandes conciertos.
+La cita estaba prevista en el Etihad Arena, el pabellón cubierto de la isla de Yas que, desde su apertura en 2023, se ha convertido en la sede habitual de las grandes giras que pasan por Abu Dabi. Se trata de un espacio construido expresamente para espectáculos y dotado de aire acondicionado, todo un alivio a finales de septiembre, cuando por la noche los termómetros de Abu Dabi siguen marcando más de 30 °C al aire libre.
+
+Su graderío escalonado ofrece desde la mayoría de las localidades una visión realmente despejada del escenario, algo que no siempre sucede en los conciertos celebrados en antiguos palacios de congresos reconvertidos.
+
+La isla de Yas es, además, el distrito de ocio de Abu Dabi. A pocos minutos en coche del pabellón se encuentran Yas Mall, Ferrari World, Warner Bros. World y una hilera de restaurantes y bares frente al mar que se llenan en las noches de grandes conciertos.
 
 ## Cómo llegar
 
-Yas Island está a unos 20–30 minutos en coche del centro de Abu Dabi y a unos 45–60 minutos desde Dubái, según el tráfico, lo que lo convierte en una escapada nocturna perfectamente factible incluso para quienes se alojan en esta última. Los taxis y las aplicaciones de transporte privado (Careem, Uber) son la forma más sencilla de llegar desde cualquiera de las dos ciudades; no hay conexión de metro con Yas Island, así que el transporte público no es realmente una opción salvo que ya te alojes en la isla.
+Según el tráfico, desde el centro de Abu Dabi se tarda entre 20 y 30 minutos en coche hasta la isla de Yas, y desde Dubái, entre 45 y 60 minutos, de modo que una escapada nocturna resulta factible incluso para quienes se alojan allí. Desde cualquiera de las dos ciudades, lo más sencillo es el taxi o las aplicaciones de vehículos con conductor (Careem, Uber).
 
-Si conduces tú mismo, el Etihad Arena cuenta con aparcamiento habilitado para eventos, pero llega con bastante margen: las noches de concierto en Yas suelen colapsar las vías de acceso en la hora previa a la apertura de puertas.
+El metro no llega a la isla de Yas, por lo que el transporte público apenas es una alternativa para quien no se hospede ya en ella.
 
-## Qué esperar del repertorio
+El Etihad Arena dispone de aparcamiento propio para los eventos, aunque en las noches de concierto los accesos a Yas suelen colapsarse durante la hora previa a la apertura de puertas.
 
-El catálogo de The Corrs abarca ya cuatro décadas, desde el éxito de *Forgiven, Not Forgotten* y la época de *Talk on Corners* hasta *In Blue* y su trabajo más reciente, así que cabe esperar un repertorio centrado en los grandes éxitos —los singles mencionados, además de clásicos como "So Young" y "Only When I Sleep"— probablemente combinados con algunos de sus pasajes instrumentales de raíz tradicional irlandesa.
+## Qué repertorio cabía esperar
 
-Al momento de escribir esto no se ha confirmado el repertorio oficial, la hora de inicio ni ningún artista telonero, así que cualquier detalle sobre el cartel que circule en internet debe tomarse como especulación hasta que lo confirmen el promotor o el recinto.
+La discografía de The Corrs abarca ya cuatro décadas: desde la etapa de su despegue con *Forgiven, Not Forgotten* y *Talk on Corners*, pasando por *In Blue*, hasta sus trabajos más recientes. Sus conciertos suelen girar en torno a los éxitos, es decir, los sencillos ya citados y otros imprescindibles como "So Young" u "Only When I Sleep", intercalados con algunos pasajes instrumentales de música tradicional irlandesa. Para la fecha de Abu Dabi no se anunció ni repertorio, ni hora de inicio, ni teloneros.
 
 ## Entradas y horarios
 
-Todavía no se han confirmado precios de entradas, fechas de venta ni horarios exactos de apertura de puertas o inicio para este concierto; solo están confirmados la fecha, el recinto y la ciudad. A juzgar por la trayectoria del recinto, es probable que las entradas se vendan a través del sitio oficial del Etihad Arena o de plataformas regionales del estilo de Ticketmaster vinculadas al promotor, y que estén organizadas por zonas de asiento.
+El anuncio no incluyó precios, fechas de puesta a la venta ni horarios exactos de apertura de puertas o de comienzo; solo la fecha, el recinto y la ciudad. Las entradas para los espectáculos de este pabellón suelen venderse a través de la taquilla oficial del Etihad Arena y de las plataformas regionales de venta vinculadas al promotor, al estilo de Ticketmaster, con precios diferenciados por zonas.
 
-Al tratarse de una única fecha y no de una serie de conciertos, es de esperar una fuerte demanda inicial tanto por parte de los fans residentes en los EAU como de viajeros que organicen su viaje en torno a este evento. Conviene confirmar la fecha exacta, la hora de apertura de puertas y el enlace de compra de entradas en el sitio web oficial del Etihad Arena o en los canales oficiales de The Corrs antes de reservar vuelos u hoteles: detalles como la hora de inicio o un posible telonero son precisamente el tipo de información que puede cambiar a medida que se acerca la fecha.
+Se trataba de una fecha única y no de una serie de varias noches, un tipo de programación que suele atraer tanto a seguidores residentes en los Emiratos como a viajeros que organizan su visita en torno a ella. En los conciertos de este pabellón, la hora de comienzo y los teloneros suelen concretarse en las semanas previas.
 
-## Cómo vivirlo como un local
+## Cómo vivirlo como un residente
 
-Quienes asisten a conciertos en el Etihad Arena, en Yas Island, suelen cenar en la propia isla en lugar de llegar con prisas de última hora: tanto Yas Mall como el paseo marítimo de Yas Marina ofrecen entre 45 minutos y una hora cómodos de opciones para cenar, a poca distancia en taxi del recinto, así que conviene llegar a Yas al principio de la tarde-noche en lugar de apurar el tiempo.
+Quienes acuden a los conciertos del pabellón de la isla de Yas no suelen llegar con prisas, sino que cenan en la propia isla. Tanto Yas Mall como el paseo marítimo de Yas Marina ofrecen opciones para cenar tranquilamente en 45 minutos o una hora, a un corto trayecto en taxi del recinto; por eso la mayoría del público ya está en Yas a primera hora de la noche.
 
-Dentro del recinto, el pago se hace mayoritariamente con tarjeta y pago móvil (Apple Pay, Google Pay) más que en efectivo, y lo mismo ocurre en los puestos de merchandising. El código de vestimenta es informal pero cuidado: los EAU no exigen un código de vestimenta estricto para conciertos en recintos como este, pero una vestimenta modesta (hombros y rodillas cubiertos) sigue siendo la opción más segura, sobre todo si combinas la noche del concierto con turismo en otras zonas durante el viaje.
+Dentro del recinto se paga casi siempre con tarjeta o con el móvil (Apple Pay, Google Pay) en lugar de en efectivo, también en los puestos de merchandising. La vestimenta habitual es informal pero cuidada. En los Emiratos no existe un código de vestimenta estricto para los conciertos en pabellones, aunque lo más común es optar por ropa discreta que cubra hombros y rodillas, sobre todo si la noche se combina con visitas turísticas en otros lugares.
 
-Si no conduces, reserva con antelación tu traslado de vuelta con la aplicación de transporte privado o acuerda un punto de recogida antes de que empiece el concierto: la demanda de traslados en Yas Island se dispara en cuanto se abren las puertas al finalizar el evento, y los conductores disponibles escasean rápidamente. El error más común entre los visitantes es tratar esto como un espectáculo al que se puede ir de improviso; reserva entradas y transporte con bastante antelación, y confirma la fecha y los detalles oficiales del recinto cerca de septiembre de 2026, ya que algunos aspectos aún pueden cambiar.
+Entre quienes no van en coche, la costumbre local es acordar un punto de recogida antes de que empiece el concierto: en cuanto el pabellón se vacía, la demanda de vehículos en la isla de Yas se dispara y los conductores escasean enseguida. Rara vez se trata de noches para comprar la entrada en taquilla; casi todo el mundo llega a Yas con la entrada y el trayecto de vuelta ya resueltos.
