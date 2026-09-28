@@ -9,6 +9,13 @@ export interface RegionInfo {
   blurb: string;
   getting: string;
   days: string;
+  // Optional search-result title/description for ONE region in ONE language,
+  // used only where Search Console shows the page already on page 1 for a
+  // query the generic "{region}旅行ガイド" title does not answer. First use:
+  // ja/Gyeongju, 2026-09-28 — 1-5位 for 「慶州 観光」, ~50 impressions/week, 0 clicks.
+  // Tracked in data/serp-title-trials.json; do not spread without its result.
+  metaTitle?: string;
+  metaDesc?: string;
 }
 
 // English source. Kept here (not in the page) so the English route and the

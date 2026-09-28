@@ -1,0 +1,97 @@
+{
+  "note": "Search-result title/description changes on single pages that are ALREADY on page 1 of Google. Not the closed retitle experiment (that one failed because pilot pages were never recrawled): each entry here waits for Google to recrawl before it is judged, and is judged by CTR at a comparable position, not by impressions (impressions on these pages are still rising on their own).",
+  "trials": [
+    {
+      "id": "ja-gyeongju-2026-09-28",
+      "page": "https://wanderatlasguides.com/ja/regions/gyeongju/",
+      "changedAt": "2026-09-28",
+      "before": {
+        "title": "慶州旅行ガイド · Wander Atlas",
+        "description": "千年近く新羅（シルラ）の都だった慶州（キョンジュ）は、しばしば「屋根のない博物館」と呼ばれます。"
+      },
+      "after": {
+        "title": "慶州観光ガイド：仏国寺・石窟庵・王陵と月池の巡り方",
+        "description": "新羅の都・慶州の観光ガイド。世界遺産の仏国寺と石窟庵、芝に覆われた王陵、夜の東宮と月池を歩いて巡れます。ソウルからKTXで約2時間、1〜2日で主な見どころを回れます。"
+      },
+      "why": "1-5位 for 「慶州 観光」 family, 55 impressions in 4 weeks, 0 clicks; the generic title says 旅行ガイド while every query says 観光.",
+      "baseline": {
+        "page": "https://wanderatlasguides.com/ja/regions/gyeongju/",
+        "window": {
+          "startDate": "2026-08-31",
+          "endDate": "2026-09-27"
+        },
+        "clicks": 0,
+        "impressions": 55,
+        "position": 3.9,
+        "byWeek": {
+          "2026-08-31": {
+            "clicks": 0,
+            "impressions": 0
+          },
+          "2026-09-07": {
+            "clicks": 0,
+            "impressions": 0
+          },
+          "2026-09-14": {
+            "clicks": 0,
+            "impressions": 7
+          },
+          "2026-09-21": {
+            "clicks": 0,
+            "impressions": 48
+          }
+        },
+        "queries": [
+          {
+            "q": "慶州 観光",
+            "impressions": 26,
+            "clicks": 0,
+            "position": 5.2
+          },
+          {
+            "q": "慶州観光",
+            "impressions": 8,
+            "clicks": 0,
+            "position": 4.4
+          },
+          {
+            "q": "キョンジュ 観光",
+            "impressions": 7,
+            "clicks": 0,
+            "position": 1
+          },
+          {
+            "q": "韓国慶州 観光",
+            "impressions": 6,
+            "clicks": 0,
+            "position": 3.2
+          },
+          {
+            "q": "韓国 慶州 観光",
+            "impressions": 4,
+            "clicks": 0,
+            "position": 2.8
+          },
+          {
+            "q": "韓国 キョンジュ 観光",
+            "impressions": 2,
+            "clicks": 0,
+            "position": 1
+          }
+        ]
+      },
+      "judge": {
+        "waitFor": "URL Inspection lastCrawlTime after 2026-09-28 (Google has seen the new title)",
+        "compare": "CTR over the 4 weeks after the recrawl vs 0/55 before, only queries at position <= 10",
+        "success": "at least 2 clicks and CTR >= 2% on >= 60 impressions",
+        "noEffect": "0 clicks on >= 60 impressions after recrawl",
+        "insufficient": "fewer than 60 impressions after recrawl → keep waiting, do not call it"
+      },
+      "checks": [
+        "2026-10-12",
+        "2026-10-26"
+      ],
+      "result": null
+    }
+  ]
+}
