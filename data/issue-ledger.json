@@ -1,5 +1,11 @@
 {
-  "validate-content": {},
+  "validate-content": {
+    "BROKEN \"):": {
+      "since": "2026-09-28",
+      "last": "2026-09-28",
+      "seen": 1
+    }
+  },
   "audit-translations": {},
   "audit-hours-claims": {}
 }
