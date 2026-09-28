@@ -1,10 +1,14 @@
 name: Discover current events (web search)
 
-# Weekly: web-search each active country for big upcoming events (concerts,
+# Twice a week: web-search each active country for big upcoming events (concerts,
 # sports, festivals, exhibitions) and publish timely guides for new ones.
+# 주 2회(2026-09-28, 픽서님 승인): 최근 30일 실제 방문자 기준 행사 글은 1편당
+# 0.90명으로 장소 글(0.22~0.28)의 3~4배인데, 발굴이 주 1회라 14일 새 글 316편 중
+# 행사는 40편(13%)뿐이었다. 이미 다룬 행사는 생성 전에 건너뛰므로 중복은 안 생긴다.
 on:
   schedule:
     - cron: '37 20 * * 3' # Wednesdays 20:37 UTC (off the hour)
+    - cron: '37 20 * * 0' # Sundays 20:37 UTC = 월요일 05:37 KST
   workflow_dispatch: {}
 
 permissions:
