@@ -98,16 +98,49 @@ on:
 # became indistinguishable from the noise. The repo is public, so Actions
 # minutes cost nothing and there is nothing to save by killing runs. Queued runs
 # finish in order and every commit gets a verdict of its own.
-concurrency:
-  group: build-check
-  cancel-in-progress: false
+# The group lives on the `build` job, not here (moved 2026-09-28): see there.
 
 jobs:
-  build:
+  # Did the producer that woke us actually do anything? The evening schedule
+  # publish arrives after the afternoon batch already went out, its slot guard
+  # skips `generate`, and it still completes "success" — which used to ship the
+  # same main a second time. Since 2026-09-28 the afternoon batch hands off to
+  # this workflow itself (publish.yml deploy-handoff), so that evening deploy
+  # would be pure duplicate. Idle = every job other than a guard was skipped.
+  # Fails open: if the API cannot be read, idle stays empty and we build — a
+  # stale site is the worse failure.
+  gate:
+    if: ${{ github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
-    # A producer that failed or was cancelled pushed nothing worth shipping;
-    # pushes and manual runs are unaffected by this condition.
-    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
+    permissions:
+      actions: read
+    outputs:
+      idle: ${{ steps.look.outputs.idle }}
+    steps:
+      - id: look
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # Guards are `slot` (publish) and `gate` (backfill), also as "fill / slot".
+          n=$(gh api "repos/$GITHUB_REPOSITORY/actions/runs/${{ github.event.workflow_run.id }}/jobs?per_page=100" \
+                --jq '[.jobs[] | select((.name | test("(^|/ )(slot|gate)$")) | not) | select(.conclusion != "skipped")] | length') || n=""
+          echo "producer jobs that did work: ${n:-unknown}"
+          if [ "$n" = "0" ]; then echo "idle=true" >> "$GITHUB_OUTPUT"; echo "nothing new to ship — skipping the deploy"; fi
+
+  build:
+    needs: gate
+    runs-on: ubuntu-latest
+    # On the JOB, not the workflow, so a run the gate turns away never enters the
+    # queue. GitHub keeps one pending run per group and a newcomer replaces it —
+    # at workflow level an idle evening run would displace a real pending deploy
+    # and then ship nothing (codex review, 2026-09-28).
+    concurrency:
+      group: build-check
+      cancel-in-progress: false
+    # A producer that failed or was cancelled pushed nothing worth shipping, and
+    # one whose work jobs were all skipped pushed nothing at all (gate above).
+    # Pushes and manual runs skip the gate; !cancelled() lets build run past it.
+    if: ${{ !cancelled() && (github.event_name != 'workflow_run' || (github.event.workflow_run.conclusion == 'success' && needs.gate.outputs.idle != 'true')) }}
     steps:
       - uses: actions/checkout@v5
         with:

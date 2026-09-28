@@ -52,7 +52,10 @@ permissions:
   # its day guard. A reusable workflow may not request more than its caller grants,
   # so from 08-30 to 09-03 every call died as startup_failure with zero jobs and
   # no log — the country top-up silently stopped for five days (found 09-04).
-  actions: read
+  # write since 2026-09-28: publish.yml's deploy-handoff job asks for it (it
+  # never runs from here — event_name is ours — but the grant is checked at
+  # startup regardless). audit-automation's CALLEE-OVERREACH now guards this.
+  actions: write
 
 # Shared with backfill-details.yml — see the note there.
 concurrency: places-bulk

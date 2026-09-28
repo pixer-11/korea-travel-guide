@@ -352,6 +352,50 @@ ${TELEGRAM}
   return clean(r) ? null : `오탐: ${r.out}`;
 });
 
+// ── CALLEE-OVERREACH (2026-09-28) ─────────────────────────────
+// 08-30~09-03 backfill.yml 이 publish.yml 을 부르는데 publish 가 actions:read 를
+// 요구해 매번 시작 실패(잡 0개·로그 없음). 불려 가는 쪽이 더 달라고 하면 잡는다.
+const CALLEE = (jobPerm) => `name: Callee\non:\n  workflow_call:\npermissions:\n  contents: write\njobs:\n  a:\n    runs-on: ubuntu-latest\n${jobPerm}    steps:\n      - run: echo hi\n`;
+// 요약 줄에도 "CALLEE-OVERREACH=0" 이 찍히므로 지적 줄(행 머리)만 본다.
+const CALLER = (grant) => `name: Caller\npermissions:\n  contents: write\n${grant}jobs:\n  fill:\n    uses: ./.github/workflows/callee.yml\n    secrets: inherit\n`;
+
+t('불려 가는 워크플로의 잡이 호출자보다 큰 권한을 요구하면 잡는다', () => {
+  const r = audit({
+    'callee.yml': CALLEE('    permissions:\n      actions: write\n'),
+    'caller.yml': CALLER('  actions: read\n'),
+  });
+  return /^CALLEE-OVERREACH /m.test(r.out) && /actions: write/.test(r.out) ? null : `놓침: ${r.out}`;
+});
+
+t('호출자가 권한을 아예 안 주면(08-30 모양) 잡는다', () => {
+  const r = audit({ 'callee.yml': CALLEE('    permissions:\n      actions: read\n'), 'caller.yml': CALLER('') });
+  return /^CALLEE-OVERREACH /m.test(r.out) ? null : `놓침: ${r.out}`;
+});
+
+t('read-all / write-all 도 펼쳐서 비교한다 (코덱스 09-28)', () => {
+  const a = audit({ 'callee.yml': CALLEE('    permissions:\n      contents: write\n'), 'caller.yml': CALLER('').replace('permissions:\n  contents: write\n', 'permissions: read-all\n') });
+  const b = audit({ 'callee.yml': CALLEE('    permissions: write-all\n'), 'caller.yml': CALLER('') });
+  const c = audit({ 'callee.yml': CALLEE('    permissions:\n      actions: write\n'), 'caller.yml': CALLER('').replace('permissions:\n  contents: write\n', 'permissions: write-all\n') });
+  if (!/^CALLEE-OVERREACH /m.test(a.out)) return `놓침(read-all 호출자): ${a.out}`;
+  if (!/^CALLEE-OVERREACH /m.test(b.out)) return `놓침(write-all 피호출자): ${b.out}`;
+  if (/^CALLEE-OVERREACH /m.test(c.out)) return `오탐(write-all 호출자): ${c.out}`;
+  // 코덱스 2차: 우리 손 목록에 없는 권한 이름이 오탐을 냈다. write-all 은 무엇이든 덮는다.
+  const d = audit({ 'callee.yml': CALLEE('    permissions:\n      artifact-metadata: read\n'), 'caller.yml': CALLER('').replace('permissions:\n  contents: write\n', 'permissions: write-all\n') });
+  if (/^CALLEE-OVERREACH /m.test(d.out)) return `오탐(목록 밖 권한): ${d.out}`;
+  // read-all 은 id-token 을 주지 않는다.
+  const e = audit({ 'callee.yml': CALLEE('    permissions:\n      id-token: write\n'), 'caller.yml': CALLER('').replace('permissions:\n  contents: write\n', 'permissions: read-all\n') });
+  if (!/^CALLEE-OVERREACH /m.test(e.out)) return `놓침(read-all 에 id-token): ${e.out}`;
+  return null;
+});
+
+t('호출자가 같거나 더 큰 권한을 주면 잡지 않는다', () => {
+  const r = audit({
+    'callee.yml': CALLEE('    permissions:\n      actions: write\n'),
+    'caller.yml': CALLER('  actions: write\n'),
+  });
+  return /^CALLEE-OVERREACH /m.test(r.out) ? `오탐: ${r.out}` : null;
+});
+
 t('저장소의 실제 워크플로가 지금 깨끗하다', () => {
   try {
     execFileSync(process.execPath, ['scripts/audit-automation.mjs'], { encoding: 'utf8' });

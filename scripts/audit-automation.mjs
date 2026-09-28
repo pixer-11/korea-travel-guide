@@ -321,8 +321,58 @@ for (const [f, src] of sources) {
   }
 }
 
+// ── CALLEE-OVERREACH ────────────────────────────────────────
+// A reusable workflow may not request more token permissions than its caller
+// grants. When it does, GitHub refuses the whole caller at startup — zero jobs,
+// no log, no failure email. publish.yml asked for actions:read on 2026-08-30
+// and backfill.yml (which CALLS it) did not grant it: the country top-up died
+// silently for five days (found 09-04). Compare every `uses: ./.github/
+// workflows/X` job's grant with everything X asks for, workflow- and job-level.
+{
+  const RANK = { none: 0, read: 1, write: 2 };
+  const parse = (src) => { try { return yaml.load(src); } catch { return null; } };
+  // A missing block leaves the grant to repo settings this file cannot see — not
+  // a verdict. read-all / write-all are explicit, so they count (codex review
+  // 2026-09-28: they used to be dropped, hiding a real overreach) — but they are
+  // compared as a whole, never expanded into a scope list of our own: GitHub's
+  // list grows and scopes have their own allowed levels (id-token, models), and
+  // a hand-kept copy turned into false alarms in the second review.
+  const norm = (p) => {
+    if (p === 'read-all' || p === 'write-all') return { all: p.slice(0, -4), map: {} };
+    if (p && typeof p === 'object') return { all: null, map: p };
+    return null;
+  };
+  // What the caller grants for one scope. read-all never includes id-token.
+  const granted = (g, scope) => {
+    const viaAll = g.all && !(scope === 'id-token' && g.all === 'read') ? RANK[g.all] : 0;
+    return Math.max(viaAll, RANK[g.map[scope]] ?? 0);
+  };
+  const LEVEL = ['none', 'read', 'write'];
+  for (const [f, src] of sources) {
+    const doc = parse(src);
+    for (const [jobName, job] of Object.entries(doc?.jobs ?? {})) {
+      const m = /^\.\/\.github\/workflows\/(.+\.ya?ml)$/.exec(String(job?.uses ?? ''));
+      if (!m || !sources.has(m[1])) continue;
+      const grant = norm(job.permissions ?? doc.permissions);
+      if (!grant) continue;
+      const callee = parse(sources.get(m[1]));
+      const asks = [norm(callee?.permissions), ...Object.values(callee?.jobs ?? {}).map((j) => norm(j?.permissions))].filter(Boolean);
+      const say = (asked, has) => add('CALLEE-OVERREACH', f,
+        `job "${jobName}" calls ${m[1]}, which asks for \`${asked}\`, but the caller grants only \`${has}\` — GitHub refuses the whole run at startup with no jobs and no log`);
+      for (const ask of asks) {
+        // A callee asking for everything is covered only by a caller granting everything.
+        if (ask.all && (RANK[grant.all] ?? 0) < RANK[ask.all]) say(`permissions: ${ask.all}-all`, grant.all ? `${grant.all}-all` : 'a scope list');
+        for (const [scope, level] of Object.entries(ask.map)) {
+          const has = granted(grant, scope);
+          if ((RANK[level] ?? 0) > has) say(`${scope}: ${level}`, `${scope}: ${LEVEL[has]}`);
+        }
+      }
+    }
+  }
+}
+
 // ── report ──────────────────────────────────────────────────
-const order = ['UNGATED-COMMIT', 'BLANK-CARD', 'EMPTY-PASS', 'CANCELLED-RUN', 'CONCURRENCY-CANCEL', 'HEREDOC-GLUE', 'MUTED-CHECK', 'SILENT-JOB', 'SWALLOWED', 'PUSH-NO-WRITE'];
+const order = ['CALLEE-OVERREACH', 'UNGATED-COMMIT', 'BLANK-CARD', 'EMPTY-PASS', 'CANCELLED-RUN', 'CONCURRENCY-CANCEL', 'HEREDOC-GLUE', 'MUTED-CHECK', 'SILENT-JOB', 'SWALLOWED', 'PUSH-NO-WRITE'];
 findings.sort((a, b) => order.indexOf(a.kind) - order.indexOf(b.kind) || a.file.localeCompare(b.file));
 for (const x of findings) console.log(`${x.kind.padEnd(13)} ${x.file}\n              ${x.detail}\n`);
 

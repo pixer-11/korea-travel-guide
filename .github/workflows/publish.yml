@@ -1367,3 +1367,27 @@ jobs:
               --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
               --data-urlencode "text=$TXT" >/dev/null || true
           fi
+
+  # A publish started by a bot never reaches the deploy. GitHub creates no
+  # workflow_run event for a run that GITHUB_TOKEN started, and the afternoon
+  # publish is almost always one: publish-watchdog dispatches it with
+  # GITHUB_TOKEN because GitHub delivers our own cron hours late. So
+  # build-check's `workflow_run: Auto-generate & publish posts` stayed silent,
+  # and the day's posts waited for the evening schedule run (~22:00 KST) to
+  # wake it — about five hours on main and not on the site (found 2026-09-28,
+  # same on 09-27; triggering_actor=github-actions[bot] on both).
+  # workflow_dispatch is the one event GITHUB_TOKEN may start, so hand off
+  # explicitly — only for a bot-started run. A schedule or human run still gets
+  # its workflow_run, so the two paths never both fire for one publish. When
+  # backfill.yml calls this file, event_name is the caller's, so this skips.
+  deploy-handoff:
+    needs: generate
+    if: success() && github.event_name == 'workflow_dispatch' && github.triggering_actor == 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+    steps:
+      - name: Start the deploy (build-check) on main
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run build-check.yml --repo "$GITHUB_REPOSITORY" --ref main
