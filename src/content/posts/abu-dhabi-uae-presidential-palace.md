@@ -1,55 +1,80 @@
 ---
-title: "UAE Presidential Palace: Abu Dhabi Travel Guide (4.8★)"
-description: "The UAE Presidential Palace, opened to visitors as Qasr Al Watan, is a working palace compound at Al Ras Al Akhdar on the western tip of Abu Dhabi island, next door to Emirates Palace. 4.8★ (11,538 reviews) — what visitors say, hours, and tips."
-country: "United Arab Emirates"
-region: "Abu Dhabi"
-category: "hidden-gem"
-pubDate: "2026-09-28T07:52:05.621Z"
+title: 'UAE Presidential Palace: Abu Dhabi Travel Guide (4.8★)'
+description: >-
+  The UAE Presidential Palace, opened to visitors as Qasr Al Watan, is a working
+  palace compound at Al Ras Al Akhdar on the western tip of Abu Dhabi island,
+  next door to Emirates Palace. 4.8★ (11,540 reviews) — what visitors say,
+  hours, and tips.
+country: United Arab Emirates
+region: Abu Dhabi
+category: hidden-gem
+pubDate: '2026-09-28T07:52:05.621Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/UAE_Presidential_Palace_entrance_01.jpg/3840px-UAE_Presidential_Palace_entrance_01.jpg"
-  credit: "Photo: Davide Mauro / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:UAE_Presidential_Palace_entrance_01.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/UAE_Presidential_Palace_entrance_01.jpg/3840px-UAE_Presidential_Palace_entrance_01.jpg
+  credit: 'Photo: Davide Mauro / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:UAE_Presidential_Palace_entrance_01.jpg
+  via: act
   focus:
     x: 47
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJmZEzMKBlXj4Ry1f-xMO1BYU"
-  name: "UAE Presidential Palace"
-  address: "Abu Dhabi - Al Ras Al Akhdar - Abu Dhabi - United Arab Emirates"
+  id: ChIJmZEzMKBlXj4Ry1f-xMO1BYU
+  name: UAE Presidential Palace
+  address: Abu Dhabi - Al Ras Al Akhdar - Abu Dhabi - United Arab Emirates
   rating: 4.8
-  userRatingsTotal: 11538
-  googleMapsUrl: "https://maps.google.com/?cid=9585267234356221899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 11540
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9585267234356221899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 24.4620408
   lng: 54.3056918
   openingHours:
-    - "Monday: 11:00 AM – 6:00 PM"
-    - "Tuesday: 11:00 AM – 6:00 PM"
-    - "Wednesday: 11:00 AM – 6:00 PM"
-    - "Thursday: 11:00 AM – 6:00 PM"
-    - "Friday: 11:00 AM – 6:00 PM"
-    - "Saturday: 11:00 AM – 6:00 PM"
-    - "Sunday: 11:00 AM – 6:00 PM"
+    - 'Monday: 11:00 AM – 6:00 PM'
+    - 'Tuesday: 11:00 AM – 6:00 PM'
+    - 'Wednesday: 11:00 AM – 6:00 PM'
+    - 'Thursday: 11:00 AM – 6:00 PM'
+    - 'Friday: 11:00 AM – 6:00 PM'
+    - 'Saturday: 11:00 AM – 6:00 PM'
+    - 'Sunday: 11:00 AM – 6:00 PM'
 tags:
-  - "abu dhabi"
-  - "old quarter"
-quickAnswer: "The UAE Presidential Palace, opened to visitors as Qasr Al Watan, is a working palace compound at Al Ras Al Akhdar on the western tip of Abu Dhabi island, next door to Emirates Palace. It opens daily from 11am to 6pm; plan on two to three hours, and arrive at 11am if you want to get ahead of the tour groups."
+  - abu dhabi
+  - old quarter
+quickAnswer: >-
+  The UAE Presidential Palace, opened to visitors as Qasr Al Watan, is a working
+  palace compound at Al Ras Al Akhdar on the western tip of Abu Dhabi island,
+  next door to Emirates Palace. It opens daily from 11am to 6pm; plan on two to
+  three hours, and arrive at 11am if you want to get ahead of the tour groups.
 faq:
-  - q: "What are the UAE Presidential Palace opening hours?"
-    a: "It opens every day from 11am to 6pm, weekends included. Check the official Qasr Al Watan website before you go in case of closures for state events."
-  - q: "How long should I spend at Qasr Al Watan?"
-    a: "Plan on two to three hours. That covers security, the shuttle ride and the main halls: the Great Hall, the Spirit of Collaboration, the Hall of Presidential Gifts and the library."
-  - q: "What is the dress code?"
-    a: "Cover your shoulders and knees; this applies to men and women. Avoid tight or sheer clothing, because staff at the entrance enforce the rule."
-  - q: "How do I get to the Presidential Palace in Abu Dhabi?"
-    a: "Take a taxi or ride-hailing app to Qasr Al Watan at Al Ras Al Akhdar, at the western end of the Corniche next to Emirates Palace. Abu Dhabi has no metro. From Dubai the drive takes roughly one and a half to two hours."
-  - q: "What else is nearby?"
-    a: "Emirates Palace hotel is right next door. The Etihad Towers and the Corniche beach are a short drive away, and the Sheikh Zayed Grand Mosque makes a natural second stop."
+  - q: What are the UAE Presidential Palace opening hours?
+    a: >-
+      It opens every day from 11am to 6pm, weekends included. Check the official
+      Qasr Al Watan website before you go in case of closures for state events.
+  - q: How long should I spend at Qasr Al Watan?
+    a: >-
+      Plan on two to three hours. That covers security, the shuttle ride and the
+      main halls: the Great Hall, the Spirit of Collaboration, the Hall of
+      Presidential Gifts and the library.
+  - q: What is the dress code?
+    a: >-
+      Cover your shoulders and knees; this applies to men and women. Avoid tight
+      or sheer clothing, because staff at the entrance enforce the rule.
+  - q: How do I get to the Presidential Palace in Abu Dhabi?
+    a: >-
+      Take a taxi or ride-hailing app to Qasr Al Watan at Al Ras Al Akhdar, at
+      the western end of the Corniche next to Emirates Palace. Abu Dhabi has no
+      metro. From Dubai the drive takes roughly one and a half to two hours.
+  - q: What else is nearby?
+    a: >-
+      Emirates Palace hotel is right next door. The Etihad Towers and the
+      Corniche beach are a short drive away, and the Sheikh Zayed Grand Mosque
+      makes a natural second stop.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-28'
 ---
 
 ## A palace that still does its job

@@ -1,44 +1,54 @@
 ---
-title: "Chinatown Bangkok (Yaowarat): Travel Guide (4.5★)"
-description: "Chinatown Bangkok (Yaowarat) is the city's old Chinese quarter, strung along Yaowarat Road in Samphanthawong district. 4.5★ (35,083 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Bangkok"
-category: "hidden-gem"
-pubDate: "2026-09-28T07:38:58.637Z"
+title: 'Chinatown Bangkok (Yaowarat): Travel Guide (4.5★)'
+description: >-
+  Chinatown Bangkok (Yaowarat) is the city's old Chinese quarter, strung along
+  Yaowarat Road in Samphanthawong district. 4.5★ (35,096 reviews) — what
+  visitors say, hours, and tips.
+country: Thailand
+region: Bangkok
+category: hidden-gem
+pubDate: '2026-09-28T07:38:58.637Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/4/48/Sampeng_Lane%2C_Bangkok%27s_Chinatown%2C_Bangkok%2C_Thailand.jpg"
-  credit: "Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Sampeng_Lane,_Bangkok%27s_Chinatown,_Bangkok,_Thailand.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/48/Sampeng_Lane%2C_Bangkok%27s_Chinatown%2C_Bangkok%2C_Thailand.jpg
+  credit: 'Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Sampeng_Lane,_Bangkok%27s_Chinatown,_Bangkok,_Thailand.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/2016_Bangkok%2C_Dystrykt_Samphanthawong%2C_Ulica_Yaowarat_%2805%29.jpg/3840px-2016_Bangkok%2C_Dystrykt_Samphanthawong%2C_Ulica_Yaowarat_%2805%29.jpg"
-    credit: "Photo: Marcin Konsek / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:2016_Bangkok,_Dystrykt_Samphanthawong,_Ulica_Yaowarat_(05).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/2016_Bangkok%2C_Dystrykt_Samphanthawong%2C_Ulica_Yaowarat_%2805%29.jpg/3840px-2016_Bangkok%2C_Dystrykt_Samphanthawong%2C_Ulica_Yaowarat_%2805%29.jpg
+    credit: 'Photo: Marcin Konsek / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:2016_Bangkok,_Dystrykt_Samphanthawong,_Ulica_Yaowarat_(05).jpg
 place:
-  id: "ChIJrdfOcJOZ4jAR1Grh5w74V1g"
-  name: "Chinatown Bangkok (Yaowarat)"
-  address: "Yaowarat Rd, Khwaeng Chakkrawat, Khet Samphanthawong, Krung Thep Maha Nakhon 10100, Thailand"
+  id: ChIJrdfOcJOZ4jAR1Grh5w74V1g
+  name: Chinatown Bangkok (Yaowarat)
+  address: >-
+    Yaowarat Rd, Khwaeng Chakkrawat, Khet Samphanthawong, Krung Thep Maha Nakhon
+    10100, Thailand
   rating: 4.5
-  userRatingsTotal: 35083
-  googleMapsUrl: "https://maps.google.com/?cid=6365829341215025876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 35096
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6365829341215025876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 13.7408624
   lng: 100.5086773
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-09-28
+    updated: 2026-09-28T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekdayBusy:
@@ -56,24 +66,46 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_673156343777356872473152416a345a4f4a634f6664724a496843"
+    venueId: ven_673156343777356872473152416a345a4f4a634f6664724a496843
 tags:
-  - "bangkok"
-  - "old quarter"
-quickAnswer: "Chinatown Bangkok (Yaowarat) is the city's old Chinese quarter, strung along Yaowarat Road in Samphanthawong district. The street never closes, and it's best known for gold shops, neon signs and street food after dark. It's quietest from 7am to 8am every day, and weekend evenings from 5pm to 11pm are the crush to avoid. Take the MRT Blue Line to Wat Mangkon or the river boat to Ratchawong Pier."
+  - bangkok
+  - old quarter
+quickAnswer: >-
+  Chinatown Bangkok (Yaowarat) is the city's old Chinese quarter, strung along
+  Yaowarat Road in Samphanthawong district. The street never closes, and it's
+  best known for gold shops, neon signs and street food after dark. It's
+  quietest from 7am to 8am every day, and weekend evenings from 5pm to 11pm are
+  the crush to avoid. Take the MRT Blue Line to Wat Mangkon or the river boat to
+  Ratchawong Pier.
 faq:
-  - q: "When is the quietest time to visit Yaowarat?"
-    a: "Between 7am and 8am, weekdays and weekends alike. The busiest window is weekend evenings from 5pm to 11pm, so arrive earlier or come on a weeknight if you want space to walk."
-  - q: "How do I get to Chinatown Bangkok by public transport?"
-    a: "Take the MRT Blue Line to Wat Mangkon station, where Exit 1 comes up on Charoen Krung Road near Yaowarat. You can also take the Chao Phraya Express Boat to Ratchawong Pier and walk inland."
-  - q: "Is Yaowarat better in the morning or at night?"
-    a: "Both, for different reasons. Mornings are quiet and good for Talat Mai and the temples. Evenings are when the street food stalls set up along Yaowarat Road."
-  - q: "How long should I spend in Chinatown?"
-    a: "Plan on two to three hours for a morning walk covering the markets and temples, or an evening of eating along Yaowarat Road. Doing both on the same day works well."
-  - q: "What is near Yaowarat Road?"
-    a: "Wat Traimit and its gold Buddha by the Chinatown Gate, Wat Mangkon Kamalawat on Charoen Krung, Sampeng Lane's wholesale market and Hua Lamphong railway station at the eastern end."
+  - q: When is the quietest time to visit Yaowarat?
+    a: >-
+      Between 7am and 8am, weekdays and weekends alike. The busiest window is
+      weekend evenings from 5pm to 11pm, so arrive earlier or come on a
+      weeknight if you want space to walk.
+  - q: How do I get to Chinatown Bangkok by public transport?
+    a: >-
+      Take the MRT Blue Line to Wat Mangkon station, where Exit 1 comes up on
+      Charoen Krung Road near Yaowarat. You can also take the Chao Phraya
+      Express Boat to Ratchawong Pier and walk inland.
+  - q: Is Yaowarat better in the morning or at night?
+    a: >-
+      Both, for different reasons. Mornings are quiet and good for Talat Mai and
+      the temples. Evenings are when the street food stalls set up along
+      Yaowarat Road.
+  - q: How long should I spend in Chinatown?
+    a: >-
+      Plan on two to three hours for a morning walk covering the markets and
+      temples, or an evening of eating along Yaowarat Road. Doing both on the
+      same day works well.
+  - q: What is near Yaowarat Road?
+    a: >-
+      Wat Traimit and its gold Buddha by the Chinatown Gate, Wat Mangkon
+      Kamalawat on Charoen Krung, Sampeng Lane's wholesale market and Hua
+      Lamphong railway station at the eastern end.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-28'
 ---
 
 ## A street that runs on gold and neon

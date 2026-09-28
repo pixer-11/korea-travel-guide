@@ -1,50 +1,80 @@
 ---
-title: "Brisbane Riverwalk: Travel Guide"
-description: "The Brisbane Riverwalk runs along the Brisbane River from the Eagle Street end of Brisbane City, passing Howard Smith Wharves and the Story Bridge on its way to New Farm."
-country: "Australia"
-region: "Brisbane"
-category: "attraction"
-pubDate: "2026-09-28T17:00:35.983Z"
+title: 'Brisbane Riverwalk: Travel Guide'
+description: >-
+  The Brisbane Riverwalk runs along the Brisbane River from the Eagle Street end
+  of Brisbane City, passing Howard Smith Wharves and the Story Bridge on its way
+  to New Farm.
+country: Australia
+region: Brisbane
+category: attraction
+pubDate: '2026-09-28T17:00:35.983Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Skylines_of_Brisbane_in_winter_misty_morning_seen_from_Kangaroo_Point%2C_Queensland_04.jpg/1920px-Skylines_of_Brisbane_in_winter_misty_morning_seen_from_Kangaroo_Point%2C_Queensland_04.jpg"
-  credit: "Photo: Chris Olszewski / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Skylines_of_Brisbane_in_winter_misty_morning_seen_from_Kangaroo_Point,_Queensland_04.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Skylines_of_Brisbane_in_winter_misty_morning_seen_from_Kangaroo_Point%2C_Queensland_04.jpg/1920px-Skylines_of_Brisbane_in_winter_misty_morning_seen_from_Kangaroo_Point%2C_Queensland_04.jpg
+  credit: 'Photo: Chris Olszewski / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Skylines_of_Brisbane_in_winter_misty_morning_seen_from_Kangaroo_Point,_Queensland_04.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/7/79/Riverwalk_Brisbane_at_South_Brisbane%2C_Queensland.jpg"
-    credit: "Photo: Kgbo / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Riverwalk_Brisbane_at_South_Brisbane,_Queensland.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/7/79/Riverwalk_Brisbane_at_South_Brisbane%2C_Queensland.jpg
+    credit: 'Photo: Kgbo / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Riverwalk_Brisbane_at_South_Brisbane,_Queensland.jpg
 place:
-  id: "ChIJv1hse8xbkWsRct89cIag-gw"
-  name: "Brisbane Riverwalk"
-  address: "45D Eagle St, Brisbane City QLD 4000, Australia"
+  id: ChIJv1hse8xbkWsRct89cIag-gw
+  name: Brisbane Riverwalk
+  address: '45D Eagle St, Brisbane City QLD 4000, Australia'
   rating: 4.7
-  userRatingsTotal: 96
-  googleMapsUrl: "https://maps.google.com/?cid=935236371901964146&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 97
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=935236371901964146&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -27.4693571
   lng: 153.030845
 tags:
-  - "brisbane"
-  - "top attraction"
-quickAnswer: "The Brisbane Riverwalk runs along the Brisbane River from the Eagle Street end of Brisbane City, passing Howard Smith Wharves and the Story Bridge on its way to New Farm. It's free and has separate lanes for walkers and cyclists. Plan on 45 minutes to 1.5 hours one way, and try to walk it around sunset, when the Kangaroo Point Cliffs across the water catch the last light."
+  - brisbane
+  - top attraction
+quickAnswer: >-
+  The Brisbane Riverwalk runs along the Brisbane River from the Eagle Street end
+  of Brisbane City, passing Howard Smith Wharves and the Story Bridge on its way
+  to New Farm. It's free and has separate lanes for walkers and cyclists. Plan
+  on 45 minutes to 1.5 hours one way, and try to walk it around sunset, when the
+  Kangaroo Point Cliffs across the water catch the last light.
 faq:
-  - q: "How long does it take to walk the Brisbane Riverwalk?"
-    a: "Walking at an easy pace from the Eagle Street end to New Farm takes about 45 minutes to 1.5 hours, depending on how often you stop. Many people walk one way and catch the CityCat ferry back."
-  - q: "How do I get to the start of the Riverwalk?"
-    a: "The city end is around 45D Eagle St, Brisbane City, an easy walk from Queen Street Mall and Central Station. The Riverside, Howard Smith Wharves and New Farm Park CityCat terminals are all close to the route. The ferry takes a go card or a contactless card or phone."
-  - q: "When is the best time to walk it?"
-    a: "Late afternoon into dusk gives you the lit-up Kangaroo Point Cliffs and a floodlit Story Bridge. May to September is the most comfortable season. In summer, avoid the middle of the day because there's little shade over the water."
-  - q: "Can I cycle on the Brisbane Riverwalk?"
-    a: "Yes. The walkway has separate lanes for cyclists and pedestrians. Keep to your lane and stay left, because commuters ride it at speed."
-  - q: "What's nearby?"
-    a: "Howard Smith Wharves and the Story Bridge are along the route. New Farm Park and the Brisbane Powerhouse are at the New Farm end. The City Botanic Gardens and the Kangaroo Point Cliffs are a short walk from the city end."
+  - q: How long does it take to walk the Brisbane Riverwalk?
+    a: >-
+      Walking at an easy pace from the Eagle Street end to New Farm takes about
+      45 minutes to 1.5 hours, depending on how often you stop. Many people walk
+      one way and catch the CityCat ferry back.
+  - q: How do I get to the start of the Riverwalk?
+    a: >-
+      The city end is around 45D Eagle St, Brisbane City, an easy walk from
+      Queen Street Mall and Central Station. The Riverside, Howard Smith Wharves
+      and New Farm Park CityCat terminals are all close to the route. The ferry
+      takes a go card or a contactless card or phone.
+  - q: When is the best time to walk it?
+    a: >-
+      Late afternoon into dusk gives you the lit-up Kangaroo Point Cliffs and a
+      floodlit Story Bridge. May to September is the most comfortable season. In
+      summer, avoid the middle of the day because there's little shade over the
+      water.
+  - q: Can I cycle on the Brisbane Riverwalk?
+    a: >-
+      Yes. The walkway has separate lanes for cyclists and pedestrians. Keep to
+      your lane and stay left, because commuters ride it at speed.
+  - q: What's nearby?
+    a: >-
+      Howard Smith Wharves and the Story Bridge are along the route. New Farm
+      Park and the Brisbane Powerhouse are at the New Farm end. The City Botanic
+      Gardens and the Kangaroo Point Cliffs are a short walk from the city end.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-28'
 ---
 
 Your shoes ring faintly on concrete, and there is nothing under the deck but the brown, slow-moving Brisbane River. The Riverwalk runs out over the water and follows the bend from the city towards New Farm. Office towers are at your back, and the Story Bridge's steel girders are ahead.

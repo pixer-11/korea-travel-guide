@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: abu-dhabi-uae-presidential-palace
-srcHash: '388edd895d96'
+srcHash: '490321485a88'
 title: 阿联酋总统府：阿布扎比旅行指南（4.8★）
-description: 阿联酋总统府以“国家宫”（Qasr Al Watan）之名对游客开放。这座至今仍在使用的宫殿建筑群坐落在阿布扎比岛西端的拉斯阿赫达尔（Al Ras Al Akhdar），与酋长皇宫酒店比邻。评分4.8★（11,538条评价），本文汇总游客评价、开放时间和参观贴士。
+description: 阿联酋总统府以“国家宫”（Qasr Al Watan）之名对游客开放。这座至今仍在使用的宫殿建筑群坐落在阿布扎比岛西端的拉斯阿赫达尔（Al Ras Al Akhdar），与酋长皇宫酒店比邻。评分4.8★（11,540条评价），本文汇总游客评价、开放时间和参观贴士。
 quickAnswer: 阿联酋总统府以“国家宫”（Qasr Al Watan）之名对游客开放，位于阿布扎比岛西端的拉斯阿赫达尔（Al Ras Al Akhdar），紧挨着酋长皇宫酒店，至今仍在承担国事职能。宫殿每天11am至6pm开放，参观一般需要两到三小时。想赶在旅行团之前入场，最好11am开门时就到。
 faq:
   - q: 阿联酋总统府的开放时间是什么？

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: chiayi-chiayi-old-prison
-srcHash: 'cd068d8f47c2'
+srcHash: 'f8b81484b73a'
 title: 'Antigua Prisión de Chiayi: guía de viaje (4.3★)'
-description: En la calle Weixin, dentro del Distrito Este de la ciudad de Chiayi, se levanta una cárcel de la época japonesa que se terminó en 1922 y se convirtió en museo en 2011. Con 4.3★ (6,589 reseñas), aquí encontrará lo que opinan los visitantes, además de horarios y consejos.
+description: En la calle Weixin, dentro del Distrito Este de la ciudad de Chiayi, se levanta una cárcel de la época japonesa que se terminó en 1922 y se convirtió en museo en 2011. Con 4.3★ (6,590 reseñas), aquí encontrará lo que opinan los visitantes, además de horarios y consejos.
 quickAnswer: La Antigua Prisión de Chiayi (Chiayi Old Prison) se encuentra en la calle Weixin (Weixin Road), en el Distrito Este de la ciudad de Chiayi. Esta cárcel de la época japonesa se terminó en 1922 y en 2011 se convirtió en museo. Abre de martes a domingo, de 9am a 5pm, y cierra los lunes. Conviene reservarle entre 1 y 2 horas y completar la visita con la Aldea Hinoki (Hinoki Village), que queda a pocos pasos.
 faq:
   - q: ¿Abre la Antigua Prisión de Chiayi los lunes?

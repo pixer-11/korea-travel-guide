@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bangkok-chinatown-bangkok-yaowarat
-srcHash: '8e5af2528e51'
+srcHash: 'a38a3577686f'
 title: 'Barrio chino de Bangkok (Yaowarat): guía de viaje (4.5★)'
-description: El antiguo barrio chino de Bangkok (Yaowarat) se extiende a lo largo de Yaowarat Road, en el distrito de Samphanthawong. Con 4.5★ (35,083 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
+description: El antiguo barrio chino de Bangkok (Yaowarat) se extiende a lo largo de Yaowarat Road, en el distrito de Samphanthawong. Con 4.5★ (35,096 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: El barrio chino de Bangkok (Yaowarat) es el antiguo enclave chino de la ciudad y se extiende a lo largo de Yaowarat Road, en el distrito de Samphanthawong. La calle no cierra nunca. Es famosa por sus joyerías de oro, sus letreros de neón y la comida callejera que aparece al caer la noche. La hora más tranquila es de 7am a 8am, todos los días. Conviene evitar las noches de fin de semana, de 5pm a 11pm, cuando se forman las mayores aglomeraciones. Para llegar, tome la línea azul del MRT hasta Wat Mangkon o el barco fluvial hasta el muelle de Ratchawong (Ratchawong Pier).
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Yaowarat?

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: bangkok-chinatown-bangkok-yaowarat
-srcHash: '8e5af2528e51'
+srcHash: 'a38a3577686f'
 title: 曼谷唐人街（耀华力）旅行指南（4.5★）
-description: 曼谷唐人街（耀华力，Yaowarat）是这座城市的老华人街区，沿三攀他旺区的耀华力路一路铺开。评分4.5★（35,083条评价），游客评价、开放时间和实用贴士都在这里。
+description: 曼谷唐人街（耀华力，Yaowarat）是这座城市的老华人街区，沿三攀他旺区的耀华力路一路铺开。评分4.5★（35,096条评价），游客评价、开放时间和实用贴士都在这里。
 quickAnswer: 曼谷唐人街（耀华力，Yaowarat）是这座城市的老华人街区，沿三攀他旺区（Samphanthawong）的耀华力路（Yaowarat Road）一路铺开。这条街全天开放，最出名的是金铺、霓虹招牌和入夜后的街头小吃。每天早上7点到8点人最少；周末傍晚5点到晚上11点最拥挤，最好错开。可乘MRT蓝线到龙莲寺站（Wat Mangkon），或坐船到叻差旺码头（Ratchawong Pier）。
 faq:
   - q: 什么时候去耀华力人最少？

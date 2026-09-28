@@ -1,55 +1,78 @@
 ---
-title: "Chiayi Old Prison: Travel Guide (4.3★)"
-description: "Chiayi Old Prison sits on Weixin Road in Chiayi City's East District. It is a Japanese-era jail completed in 1922 and turned into a museum in 2011. 4.3★ (6,589 reviews) — what visitors say, hours, and tips."
-country: "Taiwan"
-region: "Chiayi"
-category: "hidden-gem"
-pubDate: "2026-09-28T15:48:52.269Z"
+title: 'Chiayi Old Prison: Travel Guide (4.3★)'
+description: >-
+  Chiayi Old Prison sits on Weixin Road in Chiayi City's East District. It is a
+  Japanese-era jail completed in 1922 and turned into a museum in 2011. 4.3★
+  (6,590 reviews) — what visitors say, hours, and tips.
+country: Taiwan
+region: Chiayi
+category: hidden-gem
+pubDate: '2026-09-28T15:48:52.269Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Old_Chiayi_Prison%2C_front_gate_%28Taiwan%29.jpg/1920px-Old_Chiayi_Prison%2C_front_gate_%28Taiwan%29.jpg"
-  credit: "Photo: Mk2010 / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Old_Chiayi_Prison,_front_gate_(Taiwan).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Old_Chiayi_Prison%2C_front_gate_%28Taiwan%29.jpg/1920px-Old_Chiayi_Prison%2C_front_gate_%28Taiwan%29.jpg
+  credit: 'Photo: Mk2010 / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Old_Chiayi_Prison,_front_gate_(Taiwan).jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJZQXTocqVbjQRC5IKyMH0RdY"
-  name: "Chiayi Old Prison"
-  address: "No. 140號, Weixin Rd, Taiping Village, East District, Chiayi City, Taiwan 600"
+  id: ChIJZQXTocqVbjQRC5IKyMH0RdY
+  name: Chiayi Old Prison
+  address: 'No. 140號, Weixin Rd, Taiping Village, East District, Chiayi City, Taiwan 600'
   rating: 4.3
-  userRatingsTotal: 6589
-  googleMapsUrl: "https://maps.google.com/?cid=15440016010631614987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 6590
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15440016010631614987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 23.486164799999997
   lng: 120.45865640000001
-  phone: "+886 5 278 9242"
+  phone: +886 5 278 9242
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
 tags:
-  - "chiayi"
-  - "old quarter"
-quickAnswer: "Chiayi Old Prison sits on Weixin Road in Chiayi City's East District. It is a Japanese-era jail completed in 1922 and turned into a museum in 2011. It opens 9am to 5pm Tuesday to Sunday and closes on Mondays, so plan on 1 to 2 hours and pair it with Hinoki Village, a short walk away."
+  - chiayi
+  - old quarter
+quickAnswer: >-
+  Chiayi Old Prison sits on Weixin Road in Chiayi City's East District. It is a
+  Japanese-era jail completed in 1922 and turned into a museum in 2011. It opens
+  9am to 5pm Tuesday to Sunday and closes on Mondays, so plan on 1 to 2 hours
+  and pair it with Hinoki Village, a short walk away.
 faq:
-  - q: "Is Chiayi Old Prison open on Mondays?"
-    a: "No. It's closed on Mondays. From Tuesday to Sunday it opens 9am to 5pm."
-  - q: "How long should I spend at Chiayi Old Prison?"
-    a: "Allow 1 to 2 hours inside, depending on the tour. Add another hour or two if you walk on to the old staff dormitories, Hinoki Village and Beimen Station nearby."
-  - q: "Are there English-language tours?"
-    a: "Most docent tours are in Mandarin. Ask in advance through the Chiayi Prison Museum's official channels whether an English tour can be arranged, and check the current tour format before you go."
-  - q: "How do I get there from Chiayi train station?"
-    a: "It's roughly a 20 to 25 minute walk north-east of Chiayi TRA Station, or a short taxi ride. From the HSR station, take the shuttle bus or BRT into the city first."
-  - q: "What else is near Chiayi Old Prison?"
-    a: "The former prison staff dormitories, Hinoki Village, Beimen Station on the Alishan Forest Railway and Chiayi Forestry Culture Park are all within walking distance."
+  - q: Is Chiayi Old Prison open on Mondays?
+    a: No. It's closed on Mondays. From Tuesday to Sunday it opens 9am to 5pm.
+  - q: How long should I spend at Chiayi Old Prison?
+    a: >-
+      Allow 1 to 2 hours inside, depending on the tour. Add another hour or two
+      if you walk on to the old staff dormitories, Hinoki Village and Beimen
+      Station nearby.
+  - q: Are there English-language tours?
+    a: >-
+      Most docent tours are in Mandarin. Ask in advance through the Chiayi
+      Prison Museum's official channels whether an English tour can be arranged,
+      and check the current tour format before you go.
+  - q: How do I get there from Chiayi train station?
+    a: >-
+      It's roughly a 20 to 25 minute walk north-east of Chiayi TRA Station, or a
+      short taxi ride. From the HSR station, take the shuttle bus or BRT into
+      the city first.
+  - q: What else is near Chiayi Old Prison?
+    a: >-
+      The former prison staff dormitories, Hinoki Village, Beimen Station on the
+      Alishan Forest Railway and Chiayi Forestry Culture Park are all within
+      walking distance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-28'
 ---
 
 ## Behind the Wall on Weixin Road

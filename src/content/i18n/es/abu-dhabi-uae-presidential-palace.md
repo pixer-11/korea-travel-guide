@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: abu-dhabi-uae-presidential-palace
-srcHash: '388edd895d96'
+srcHash: '490321485a88'
 title: 'Palacio Presidencial de los EAU: guía de viaje de Abu Dabi (4.8★)'
-description: Abierto al público con el nombre de Qasr Al Watan, el Palacio Presidencial de los EAU es un complejo palaciego aún en funcionamiento. Se encuentra en Al Ras Al Akhdar, en el extremo occidental de la isla de Abu Dabi, junto al Emirates Palace. Con una valoración de 4.8★ (11,538 reseñas), aquí encontrará las opiniones de los visitantes, el horario y varios consejos.
+description: Abierto al público con el nombre de Qasr Al Watan, el Palacio Presidencial de los EAU es un complejo palaciego aún en funcionamiento. Se encuentra en Al Ras Al Akhdar, en el extremo occidental de la isla de Abu Dabi, junto al Emirates Palace. Con una valoración de 4.8★ (11,540 reseñas), aquí encontrará las opiniones de los visitantes, el horario y varios consejos.
 quickAnswer: Abierto al público con el nombre de Qasr Al Watan, el Palacio Presidencial de los EAU es un complejo palaciego que sigue en funcionamiento. Está en Al Ras Al Akhdar, en el extremo occidental de la isla de Abu Dabi, justo al lado del Emirates Palace. Abre todos los días de 11am a 6pm. Calcule entre dos y tres horas de visita y, si quiere adelantarse a los grupos organizados, llegue a las 11am.
 faq:
   - q: ¿Cuál es el horario del Palacio Presidencial de los EAU?
