@@ -8872,5 +8872,378 @@
       "getting": "大多数旅客会经西雅图-塔科马国际机场(SEA)抵达,这里是华盛顿州的主要门户,坐落于西塔科市。从机场出发,搭乘Sound Transit运营的Link轻轨可直达西雅图市中心,车程约35至40分钟,是出租车或网约车之外便捷实用的选择。",
       "days": "建议预留约4到7天时间,探索西雅图各个街区,并安排一两次前往山区或岛屿的一日游;若想深入奥林匹克半岛和华盛顿州中部,则可安排约10天或更长的行程。"
     }
+  },
+  "Adelaide": {
+    "en": {
+      "blurb": "Adelaide is a compact, grid-planned capital wrapped in green parklands, known for its laid-back pace, church spires, and easy access to world-class wine country. It punches above its weight for food and festivals, with a walkable centre that opens onto the Adelaide Hills, Barossa Valley, and McLaren Vale within an hour's drive.",
+      "getting": "Most travellers arrive via Adelaide Airport (ADL), just a few kilometres from the city centre; there is no direct rail link, so the standard route in is the JetBus public bus service into the CBD, with taxis and rideshare also readily available.",
+      "days": "Allow ~2 to 3 days to cover the city centre, Central Market, and North Terrace cultural precinct, or extend to ~4 to 5 days if adding a day trip into the wine regions."
+    },
+    "ko": {
+      "blurb": "애들레이드는 격자형으로 잘 정비된 아담한 주도로, 도심을 둘러싼 푸른 공원 지대와 여유로운 분위기, 곳곳에 자리한 교회 첨탑, 그리고 세계적인 와인 산지로의 편리한 접근성으로 잘 알려져 있습니다. 도시 규모에 비해 음식과 축제 문화가 유난히 풍부하며, 걸어서 다닐 수 있는 도심에서 차로 한 시간 거리 안에 애들레이드 힐스, 바로사 밸리, 맥라렌 베일 같은 명소들이 펼쳐집니다.\",\"getting\":\"대부분의 여행객은 시내에서 불과 몇 킬로미터 떨어진 애들레이드 공항(ADL)을 통해 입국합니다. 공항과 시내를 잇는 직통 철도는 없기 때문에, 시내 중심가(CBD)로 이동하는 가장 일반적인 방법은 젯버스(JetBus) 대중 버스를 이용하는 것이며, 택시와 라이드셰어 서비스도 쉽게 이용할 수 있습니다.",
+      "getting": "대부분의 여행객은 시내에서 불과 몇 킬로미터 떨어진 애들레이드 공항(ADL)을 통해 입국합니다. 공항과 시내를 잇는 직통 철도는 없기 때문에, 시내 중심가(CBD)로 이동하는 가장 일반적인 방법은 젯버스(JetBus) 대중 버스를 이용하는 것이며, 택시와 라이드셰어 서비스도 쉽게 이용할 수 있습니다.",
+      "days": "도심과 센트럴 마켓, 노스 테라스 문화 지구를 둘러보는 데는 약 2~3일이면 충분하며, 와인 산지로의 당일 여행을 추가한다면 4~5일 정도로 일정을 늘리는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "アデレードは緑豊かなパークランドに囲まれた、碁盤の目状に整然と区画されたコンパクトな州都です。のんびりとした雰囲気や教会の尖塔が並ぶ街並みで知られ、世界屈指のワイン産地へも気軽にアクセスできます。食やフェスティバルの充実ぶりは都市の規模を超えており、徒歩で回れる中心街から車で1時間圏内には、アデレードヒルズ、バロッサバレー、マクラーレンベールといったワイン産地が広がっています。\",\"getting\":\"多くの旅行者はアデレード空港(ADL)から入国します。空港は市中心部からわずか数キロという近さですが、鉄道の直通便はないため、CBD(中心業務地区)へはJetBusの路線バスを利用するのが定番のアクセス方法です。タクシーや配車サービスも利用しやすく、選択肢は豊富です。\",\"days\":\"市中心部、セントラルマーケット、ノーステラスの文化エリアを巡るなら2〜3日ほど見ておくとよいでしょう。ワイン産地への日帰り旅行を加える場合は、4〜5日程度に延ばすのがおすすめです。",
+      "getting": "アデレード空港(ADL)から入国する旅行者がほとんどです。空港は市中心部からわずか数キロという近さですが、鉄道の直通便はないため、CBD(中心業務地区)へはJetBusの路線バスを利用するのが定番のアクセス方法です。タクシーや配車サービスも利用しやすく、選択肢は豊富です。",
+      "days": "市中心部、セントラルマーケット、ノーステラスの文化エリアを巡るなら2〜3日ほど見ておくとよいでしょう。ワイン産地への日帰り旅行を加える場合は、4〜5日程度に延ばすのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Adelaide es una capital compacta, de trazado reticular, envuelta en parques y espacios verdes, conocida por su ritmo relajado, sus campanarios y su fácil acceso a viñedos de talla mundial. Destaca especialmente por su gastronomía y sus festivales, con un centro fácil de recorrer a pie que se abre hacia las colinas de Adelaide (Adelaide Hills), el valle de Barossa y McLaren Vale, todos a menos de una hora en coche.",
+      "getting": "La mayoría de los viajeros llega por el Aeropuerto de Adelaide (ADL), a solo unos kilómetros del centro de la ciudad; no hay conexión ferroviaria directa, por lo que la opción habitual para llegar al centro (CBD) es el autobús público JetBus, aunque también hay taxis y servicios de transporte privado (rideshare) fácilmente disponibles.",
+      "days": "Calcula entre 2 y 3 días para recorrer el centro de la ciudad, el Mercado Central y el distrito cultural de North Terrace, o amplía la estancia a entre 4 y 5 días si quieres añadir una excursión de un día a las regiones vinícolas."
+    },
+    "zh": {
+      "blurb": "阿德莱德是一座布局紧凑、街道呈棋盘式规划的首府城市,四周环绕着大片绿地公园,以悠闲的生活节奏、林立的教堂尖顶,以及便捷通达世界级葡萄酒产区而闻名。这座城市在美食和节庆方面的表现远超其规模,步行可达的市中心向外延伸,一小时车程内即可抵达阿德莱德山、巴罗萨谷和麦克拉伦谷等地。",
+      "getting": "大多数旅客通过阿德莱德机场(ADL)抵达,机场距市中心仅数公里之遥。由于没有直达的铁路线,进城的常规方式是搭乘JetBus公共巴士前往中央商务区,出租车和网约车也十分便捷易得。",
+      "days": "游览市中心、中央市场以及北大道文化区,大约需要2到3天时间;若想再安排一天前往葡萄酒产区一日游,则可将行程延长至4到5天左右。"
+    }
+  },
+  "Alice Springs": {
+    "en": {
+      "blurb": "Alice Springs sits at the heart of the continent, ringed by the ochre ridges of the MacDonnell Ranges and long home to the Arrernte people, whose connection to this desert country runs back tens of thousands of years. It functions as the outback's main service town: a compact grid of galleries, bush tucker cafes and heritage telegraph buildings that serves as most travellers' launching point for Uluru, Kata Tjuta and the wider Red Centre.",
+      "getting": "Most visitors fly into Alice Springs Airport (ASP), a small domestic hub about 13km south of town with regular connections to major Australian cities. The town is also a scheduled stop on the Ghan, the transcontinental train that runs the Adelaide to Darwin line, with its Alice Springs station allowing passengers to break their journey and explore before continuing on.",
+      "days": "Plan on ~2 to 3 days to cover the town itself, its museums and the nearby gorges, more if you are using it as a base for multi day trips out to Uluru or the wider West MacDonnell Ranges."
+    },
+    "ko": {
+      "blurb": "호주 대륙의 정중앙에 자리한 앨리스 스프링스(Alice Springs)는 황토빛 능선이 둘러싼 맥도넬 산맥(MacDonnell Ranges) 자락에 위치하며, 수만 년 전부터 이 사막 땅과 깊은 유대를 이어온 아룬타족(Arrernte) 원주민의 오랜 터전이기도 합니다. 오늘날 이곳은 아웃백 여행의 관문이자 핵심 거점 도시로, 갤러리와 토속 음식을 맛볼 수 있는 카페, 유서 깊은 전신국 건물들이 아담하게 모여 있어 울룰루(Uluru)와 카타 추타(Kata Tjuta)를 비롯한 레드 센터(Red Centre) 지역 여행의 출발점으로 많은 여행자들이 찾는 곳입니다.\",\"getting\":\"대부분의 여행자는 앨리스 스프링스 공항(ASP)을 이용해 이곳에 도착합니다. 시내에서 남쪽으로 약 13km 떨어진 소규모 국내선 공항으로, 호주 주요 도시들과 정기 항공편으로 연결됩니다. 또한 이 도시는 애들레이드(Adelaide)와 다윈(Darwin)을 잇는 대륙 횡단 열차 간(The Ghan)의 정차역이기도 해서, 앨리스 스프링스 역에서 잠시 여정을 멈추고 도시를 둘러본 뒤 다시 열차 여행을 이어가는 것도 가능합니다.",
+      "getting": "대부분의 여행자는 앨리스 스프링스 공항(ASP)을 이용해 이곳에 도착합니다. 시내에서 남쪽으로 약 13km 떨어진 소규모 국내선 공항으로, 호주 주요 도시들과 정기 항공편으로 연결됩니다. 또한 이 도시는 애들레이드(Adelaide)와 다윈(Darwin)을 잇는 대륙 횡단 열차 간(The Ghan)의 정차역이기도 해서, 앨리스 스프링스 역에서 잠시 여정을 멈추고 도시를 둘러본 뒤 다시 열차 여행을 이어가는 것도 가능합니다.",
+      "days": "시내 자체와 박물관, 인근 협곡을 둘러보는 데는 약 2~3일 정도를 계획하면 좋습니다. 울룰루나 웨스트 맥도넬 산맥(West MacDonnell Ranges) 등으로 며칠간 여행을 떠나는 베이스캠프로 삼을 계획이라면 그보다 더 넉넉히 일정을 잡는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "アリススプリングスはオーストラリア大陸のまさに中心に位置し、赭色に染まるマクドネル山脈の尾根に囲まれた町だ。この砂漠の地には、数万年にわたってアレンテ族が深い結びつきを育んできた歴史がある。今ではアウトバック随一の拠点都市として機能しており、ギャラリーやブッシュタッカーを味わえるカフェ、歴史ある電信局の建物などがコンパクトに集まる街並みは、多くの旅行者にとってウルル、カタジュタ、そして広大なレッドセンターへ向かう際の出発地点となっている。",
+      "getting": "多くの旅行者は、町の南約13kmに位置する小規模な国内線ハブ、アリススプリングス空港(ASP)を利用して訪れる。オーストラリア主要都市との定期便が就航している。また、この町はアデレードとダーウィンを結ぶ大陸横断鉄道「ザ・ガン」の停車駅にもなっており、アリススプリングス駅で下車して観光を楽しんでから、再び旅を続けることも可能だ。",
+      "days": "町自体の見どころや博物館、近郊の渓谷を巡るなら2〜3日ほどを目安にするとよい。ウルルや西マクドネル山脈方面への数日がかりのツアーの拠点として利用する場合は、さらに日数を確保しておきたい。"
+    },
+    "es": {
+      "blurb": "Alice Springs se encuentra en pleno corazón del continente, rodeada por las crestas ocres de las MacDonnell Ranges y hogar desde hace milenios del pueblo arrernte, cuya conexión con estas tierras desérticas se remonta a decenas de miles de años. La ciudad funciona como el principal centro de servicios del outback: una compacta cuadrícula de galerías de arte, cafés de comida bush tucker y edificios históricos del telégrafo, que sirve como punto de partida para la mayoría de los viajeros que se dirigen a Uluru, Kata Tjuta y el resto del Red Centre.",
+      "getting": "La mayoría de los visitantes llega en avión al Aeropuerto de Alice Springs (ASP), un pequeño centro doméstico ubicado a unos 13 km al sur de la ciudad, con conexiones regulares a las principales ciudades australianas. La ciudad también es una parada programada del Ghan, el tren transcontinental que recorre la línea Adelaide-Darwin; su estación en Alice Springs permite a los pasajeros interrumpir el viaje para explorar la zona antes de continuar.",
+      "days": "Se recomienda destinar entre 2 y 3 días para conocer la ciudad, sus museos y los desfiladeros cercanos, y más tiempo si se utiliza como base para excursiones de varios días a Uluru o a la extensa West MacDonnell Ranges."
+    },
+    "zh": {
+      "blurb": "爱丽斯泉地处澳大利亚大陆的中心地带,四周环绕着赭红色的麦克唐奈山脉,阿伦特人世代居住于此,与这片沙漠故土的联系可追溯至数万年前。如今,爱丽斯泉是内陆地区的主要服务重镇:紧凑的城区街道上,画廊、原住民风味咖啡馆和历史悠久的电报站建筑鳞次栉比,是大多数旅人前往乌鲁鲁、卡塔丘塔及红色中心地区其他景点的必经门户。",
+      "getting": "大多数游客选择飞抵爱丽斯泉机场(ASP),这是一座小型国内枢纽机场,位于市区以南约13公里处,与澳大利亚各大城市间有固定航班往来。此外,爱丽斯泉也是“甘号”列车的定期停靠站——这条贯穿大陆南北、连接阿德莱德与达尔文的铁路线,让旅客可以在爱丽斯泉站中途下车,游览一番后再继续行程。",
+      "days": "建议安排约2至3天时间游览市区、各大博物馆及周边峡谷;若计划以此为据点,前往乌鲁鲁或西麦克唐奈山脉一带展开多日行程,则需预留更多时间。"
+    }
+  },
+  "Brisbane": {
+    "en": {
+      "blurb": "Brisbane is Australia's laid-back river capital, a subtropical city where glass towers rise beside Victorian-era timber cottages and the Brisbane River winds through the CBD via looping green bends. It trades Sydney's polish and Melbourne's chill for a slower, sun-drenched rhythm: outdoor dining, riverside parklands and a climate that rewards being outside almost year-round.",
+      "getting": "Most visitors arrive at Brisbane Airport (BNE), from where the Airtrain rail line runs directly into the city centre, reaching Central Station or Roma Street in roughly 20 to 25 minutes. Taxis and rideshare cover the same route in a similar time outside peak hours, while cheaper public buses and trains take longer with a transfer.",
+      "days": "Plan on 3 to 4 days to cover the riverside CBD, South Bank and a day trip to nearby koala sanctuaries or the coast, with extra days if you're using Brisbane as a base for the Gold Coast or Sunshine Coast."
+    },
+    "ko": {
+      "blurb": "브리즈번은 호주에서 가장 여유로운 강변 도시로, 아열대 기후 속에 유리로 뒤덮인 고층 빌딩과 빅토리아 시대풍 목조 주택이 나란히 자리한 곳입니다. 브리즈번 강은 완만하게 굽이치며 CBD(중심업무지구)를 가로질러 흐르죠. 시드니 특유의 세련미나 멜버른의 쿨함 대신, 브리즈번은 느긋하고 햇살 가득한 리듬을 자랑합니다. 야외 다이닝, 강변 공원, 그리고 거의 일 년 내내 바깥 활동을 즐기기 좋은 날씨가 이곳의 매력이죠.\",\"getting\":\"대부분의 여행객은 브리즈번 공항(BNE)을 통해 입국하며, 이곳에서 에어트레인(Airtrain) 철도를 타면 약 20~25분 만에 시내 중심가, 즉 센트럴 역(Central Station)이나 로마 스트리트(Roma Street)까지 바로 이동할 수 있습니다. 택시나 라이드셰어도 혼잡 시간대를 피하면 비슷한 소요 시간으로 같은 경로를 이동할 수 있으며, 더 저렴한 시내버스나 기차는 환승이 필요해 시간이 조금 더 걸립니다.",
+      "getting": "대부분의 여행객은 브리즈번 공항(BNE)을 통해 입국하며, 이곳에서 에어트레인(Airtrain) 철도를 타면 약 20~25분 만에 시내 중심가, 즉 센트럴 역(Central Station)이나 로마 스트리트(Roma Street)까지 바로 이동할 수 있습니다. 택시나 라이드셰어도 혼잡 시간대를 피하면 비슷한 소요 시간으로 같은 경로를 이동할 수 있으며, 더 저렴한 시내버스나 기차는 환승이 필요해 시간이 조금 더 걸립니다.",
+      "days": "강변의 CBD와 사우스뱅크(South Bank)를 둘러보고, 근처 코알라 보호구역이나 해안으로 당일치기 여행을 다녀오려면 3~4일 정도 계획하시면 좋습니다. 골드코스트나 선샤인코스트를 여행하기 위한 거점으로 브리즈번을 활용하실 경우에는 며칠 더 여유를 두는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "ブリスベンはオーストラリアが誇る、リバーサイドにたたずむのんびりとした州都だ。亜熱帯気候のこの街では、ガラス張りの高層ビルとヴィクトリア朝様式の木造コテージが軒を連ね、ブリスベン川がゆったりと蛇行しながらCBD(中心業務地区)を流れていく。シドニーの洗練さやメルボルンのクールさとは一線を画し、屋外での食事やリバーサイドの公園、そして一年を通してほぼ毎日外で過ごせる気候が生み出す、太陽の光に満ちたスローなリズムこそがこの街の持ち味だ。",
+      "getting": "ほとんどの旅行者はブリスベン空港(BNE)に到着する。そこからエアトレイン(Airtrain)に乗れば市内中心部まで直通で、セントラル駅(Central Station)やローマストリート駅(Roma Street)までおよそ20〜25分ほどだ。タクシーやライドシェアもピーク時間帯を除けば同程度の所要時間でカバーしてくれるが、割安な路線バスや電車を利用する場合は乗り換えが必要になり、その分時間もかかる。",
+      "days": "リバーサイドのCBDとサウスバンク(South Bank)を巡り、さらに近郊のコアラ保護区や海岸への日帰り旅行を加えるなら、3〜4日ほど見ておくとよいだろう。ゴールドコーストやサンシャインコーストを訪れる際の拠点としてブリスベンを利用するなら、さらに数日プラスするのがおすすめだ。"
+    },
+    "es": {
+      "blurb": "Brisbane es la relajada capital fluvial de Australia, una ciudad subtropical donde las torres de cristal se alzan junto a casitas de madera de la época victoriana y el río Brisbane serpentea por el centro (CBD) trazando amplias curvas verdes. A cambio del pulido de Sídney y el aire sofisticado de Melbourne, ofrece un ritmo más pausado y bañado de sol: restaurantes al aire libre, parques junto al río y un clima que invita a estar fuera de casa casi todo el año.",
+      "getting": "La mayoría de los visitantes llega al Aeropuerto de Brisbane (BNE), desde donde el tren Airtrain va directo al centro de la ciudad, llegando a Central Station o Roma Street en unos 20 a 25 minutos. Los taxis y los servicios de transporte privado (rideshare) cubren el mismo trayecto en un tiempo similar fuera de las horas punta, mientras que los autobuses y trenes públicos, más económicos, tardan más y requieren trasbordo.",
+      "days": "Conviene reservar de 3 a 4 días para recorrer el centro junto al río, South Bank y hacer una excursión de un día a los santuarios de koalas cercanos o a la costa, sumando días extra si usas Brisbane como base para explorar la Gold Coast o la Sunshine Coast."
+    },
+    "zh": {
+      "blurb": "布里斯班是澳大利亚悠闲惬意的“河畔之都”，这座亚热带城市里，玻璃幕墙高楼与维多利亚时期的木屋比邻而立，布里斯班河蜿蜒穿过中央商务区，绕出一道道绿意盎然的河湾。相比悉尼的精致时尚和墨尔本的疏离清冷，布里斯班多了一份阳光浸润下的慢生活节奏：露天餐饮、河畔绿地，加上几乎全年皆宜的户外好天气。",
+      "getting": "大多数游客经由布里斯班机场（BNE）抵达，从机场可乘坐Airtrain机场快线直达市中心，约20至25分钟即可到达中央车站（Central Station）或罗马街车站（Roma Street）。非高峰时段，出租车和网约车走同样的路线，耗时相近；而更便宜的公共巴士和火车则需要换乘，耗时较长。",
+      "days": "建议安排3至4天游览河畔中央商务区、南岸公园（South Bank），并抽一天前往附近的考拉保护区或海滨地区一日游；如果打算以布里斯班为据点前往黄金海岸或阳光海岸，则需再多预留几天时间。"
+    }
+  },
+  "Byron Bay": {
+    "en": {
+      "blurb": "Byron Bay sits at Cape Byron, the easternmost point of mainland Australia, where surf beaches, a working lighthouse and pockets of subtropical rainforest meet a famously laid-back, wellness-and-arts driven culture. It has grown from a sleepy dairy and whaling town into one of the east coast's most popular stops, prized for its beaches, cafes and live-music scene as much as its scenery.",
+      "getting": "The nearest airport is Ballina Byron Gateway Airport (BNK), roughly a 30 minute drive south of town, with Gold Coast Airport (OOL) and Brisbane Airport (BNE) as slightly more distant alternatives; all three connect to Byron Bay by shuttle bus, coach or rental car. Byron Bay's own railway station closed to mainline trains in 2004, so most travellers arrive by road rather than rail, whether flying into one of these regional hubs or driving up the coast from Sydney or down from Brisbane.",
+      "days": "Most visitors allow around 2 to 4 days in Byron Bay, enough to cover the main beaches, the Cape Byron lighthouse walk and a taste of the surrounding hinterland villages."
+    },
+    "ko": {
+      "blurb": "바이런 베이는 호주 본토의 최동단 지점인 케이프 바이런에 자리하고 있으며, 서핑을 즐길 수 있는 해변과 현재도 운영 중인 등대, 그리고 곳곳에 펼쳐진 아열대 우림이 여유롭고 웰빙과 예술을 중시하는 특유의 문화와 어우러지는 곳이다. 한때는 조용한 낙농업과 포경업 마을이었지만, 이제는 아름다운 해변과 카페, 라이브 음악 씬 덕분에 동부 해안에서 가장 인기 있는 여행지 중 하나로 성장했다.\",\"getting\":\"가장 가까운 공항은 발리나 바이런 게이트웨이 공항(BNK)으로, 시내에서 남쪽으로 차로 약 30분 거리에 있다. 조금 더 멀리 있는 대안으로는 골드코스트 공항(OOL)과 브리즈번 공항(BNE)이 있으며, 세 공항 모두 셔틀버스, 고속버스 또는 렌터카를 이용해 바이런 베이까지 이동할 수 있다. 바이런 베이 자체의 기차역은 2004년에 간선 열차 운행이 중단되었기 때문에, 대부분의 여행객은 기차보다는 도로를 이용해 도착한다. 이들 지역 공항을 이용하든, 시드니에서 해안을 따라 북쪽으로 올라오든, 브리즈번에서 남쪽으로 내려오든 마찬가지다.",
+      "getting": "가장 가까운 공항은 발리나 바이런 게이트웨이 공항(BNK)으로, 시내에서 남쪽으로 차로 약 30분 거리에 있다. 조금 더 멀리 있는 대안으로는 골드코스트 공항(OOL)과 브리즈번 공항(BNE)이 있으며, 세 공항 모두 셔틀버스, 고속버스 또는 렌터카를 이용해 바이런 베이까지 이동할 수 있다. 바이런 베이 자체의 기차역은 2004년에 간선 열차 운행이 중단되었기 때문에, 대부분의 여행객은 기차보다는 도로를 이용해 도착한다. 이들 지역 공항을 이용하든, 시드니에서 해안을 따라 북쪽으로 올라오든, 브리즈번에서 남쪽으로 내려오든 마찬가지다.",
+      "days": "대부분의 방문객은 바이런 베이에서 2일에서 4일 정도를 보내며, 이 기간이면 주요 해변들과 케이프 바이런 등대 산책로를 둘러보고 주변 내륙 마을들도 살짝 맛볼 수 있다."
+    },
+    "ja": {
+      "blurb": "バイロン・ベイは、オーストラリア本土最東端にあたるケープ・バイロンに位置し、サーフビーチや現役の灯台、亜熱帯雨林が点在する自然環境と、のんびりとした空気の中でウェルネスとアートを重んじるカルチャーが融合した町です。かつては酪農と捕鯨で細々と営まれていた静かな町でしたが、今では美しいビーチやカフェ、ライブミュージックシーンに加え、その風光明媚な景観も相まって、東海岸を代表する人気の旅先へと成長を遂げました。",
+      "getting": "最寄りの空港はバリーナ・バイロン・ゲートウェイ空港(BNK)で、町から南へ車で約30分の距離にあります。ゴールドコースト空港(OOL)やブリスベン空港(BNE)も少し離れていますが利用可能な選択肢で、いずれの空港からもシャトルバス、長距離バス、レンタカーでバイロン・ベイへアクセスできます。バイロン・ベイ自体の駅は2004年に本線列車の運行を終了しているため、これらの地方空港を利用するか、シドニーから海岸沿いを北上、あるいはブリスベンから南下する形で、鉄道ではなく道路経由で訪れる旅行者がほとんどです。",
+      "days": "多くの旅行者は、バイロン・ベイに2~4日程度の滞在を予定しています。これだけあれば、主要なビーチを巡り、ケープ・バイロンの灯台ウォークを楽しみ、さらに周辺の内陸部にある村々の雰囲気も味わうことができます。"
+    },
+    "es": {
+      "blurb": "Byron Bay se encuentra en Cape Byron, el punto más oriental de la Australia continental, donde playas para surfear, un faro aún en funcionamiento y bolsones de selva subtropical conviven con una cultura relajada, volcada al bienestar y muy ligada al arte. Lo que fue un tranquilo pueblo lechero y ballenero se ha convertido en una de las paradas más populares de la costa este, apreciada tanto por sus playas, cafés y escena de música en vivo como por sus paisajes.",
+      "getting": "El aeropuerto más cercano es el Ballina Byron Gateway Airport (BNK), a unos 30 minutos en auto al sur de la ciudad, con el Gold Coast Airport (OOL) y el Brisbane Airport (BNE) como alternativas un poco más alejadas; los tres se conectan con Byron Bay mediante shuttle, autobús o auto de alquiler. La propia estación de trenes de Byron Bay dejó de recibir servicios de larga distancia en 2004, así que la mayoría de los viajeros llega por carretera en lugar de en tren, ya sea volando a uno de estos aeropuertos regionales o conduciendo por la costa desde Sídney o desde Brisbane.",
+      "days": "La mayoría de los visitantes reserva entre 2 y 4 días para Byron Bay, tiempo suficiente para recorrer las principales playas, hacer la caminata al faro de Cape Byron y disfrutar de una probadita de los pueblos del interior cercano."
+    },
+    "zh": {
+      "blurb": "拜伦湾（Byron Bay）坐落于澳大利亚大陆最东端的拜伦角（Cape Byron），冲浪海滩、一座仍在运作的灯塔与成片的亚热带雨林，在这里与远近闻名的悠闲氛围、身心疗愈和艺术气息交融共生。如今的它，已从当年宁静的乳牛养殖与捕鲸小镇，蜕变为东海岸最受欢迎的旅游胜地之一——不仅风光旖旎，海滩、咖啡馆与live house音乐现场同样是这里的一大亮点。",
+      "getting": "距离拜伦湾最近的机场是巴利纳拜伦门户机场（Ballina Byron Gateway Airport，机场代码BNK），驾车南下约30分钟即可到达；黄金海岸机场（Gold Coast Airport，OOL）和布里斯班机场（Brisbane Airport，BNE）则稍远一些，也是不错的备选。从这三座机场出发，都可以通过接驳巴士、长途大巴或租车前往拜伦湾。拜伦湾本地的火车站早在2004年就已停止运营干线列车服务，因此大多数游客都是走陆路而非铁路抵达——无论是飞抵上述某个区域枢纽机场，还是自驾沿海岸线从悉尼北上或从布里斯班南下，都是常见的到达方式。",
+      "days": "大多数游客会安排2到4天左右的时间游览拜伦湾，足以打卡主要海滩、走一趟拜伦角灯塔步道，再顺道感受一下周边内陆村镇的风情。"
+    }
+  },
+  "Cairns": {
+    "en": {
+      "blurb": "Cairns is one of the few places on Earth where a UNESCO-listed coral reef and an ancient rainforest sit within an hour of each other, with the Great Barrier Reef's outer edge roughly ninety minutes offshore by catamaran and the Daintree rainforest about the same distance north by road. It is a compact, tropical city built almost entirely around getting visitors to those two natural wonders, rather than around grand architecture or big-city sights of its own.",
+      "getting": "Most travellers arrive via Cairns Airport (CNS), which sits about 7km north of the city centre and handles both domestic flights from major Australian cities and a smaller number of direct international routes. There is no passenger rail link from the airport into town, so the typical route in is by taxi, pre-booked shuttle, or airport bus to CBD accommodation.",
+      "days": "Most visitors spend 3 to 5 days in Cairns, enough time to fit in a reef trip, a rainforest or Atherton Tablelands day tour, and some time along the Esplanade itself."
+    },
+    "ko": {
+      "blurb": "케언즈는 유네스코에 등재된 산호초와 태고의 열대우림이 서로 한 시간 거리 안에 공존하는, 지구상에서 몇 안 되는 곳 중 하나입니다. 그레이트 배리어 리프의 외곽 지대는 카타마란으로 약 90분 거리에 있고, 데인트리 열대우림도 육로로 북쪽에 비슷한 시간이면 닿을 수 있습니다. 케언즈는 화려한 건축물이나 대도시다운 볼거리보다는, 이 두 가지 자연의 경이로움으로 여행객을 안내하는 데 집중한 아담한 열대 도시입니다.",
+      "getting": "대부분의 여행객은 케언즈 공항(CNS)을 통해 도착합니다. 공항은 시내 중심에서 북쪽으로 약 7km 떨어져 있으며, 호주 주요 도시를 잇는 국내선과 소수의 국제 직항편을 운항하고 있습니다. 공항에서 시내로 연결되는 여객 철도는 없기 때문에, 보통 택시나 사전 예약한 셔틀, 공항버스를 이용해 시내(CBD) 숙소까지 이동합니다.",
+      "days": "대부분의 방문객은 케언즈에서 3~5일 정도 머무르며, 그 정도면 리프 투어와 열대우림 또는 애서턴 테이블랜드 당일 투어, 그리고 에스플러네이드에서 여유롭게 시간을 보내기에 충분합니다."
+    },
+    "ja": {
+      "blurb": "ケアンズは、ユネスコ世界遺産に登録されたサンゴ礁と太古の熱帯雨林が、わずか1時間圏内に共存する地球上でも稀な場所だ。グレートバリアリーフの外縁部までは、カタマラン船でおよそ90分の沖合、そしてデインツリー熱帯雨林までも、車で北へ同じくらいの距離にある。ケアンズはコンパクトな熱帯都市であり、壮大な建築物や大都市らしい観光名所を売りにするのではなく、街そのものがこの二つの自然の驚異へ旅行者を送り出すために存在していると言っても過言ではない。",
+      "getting": "多くの旅行者はケアンズ空港(CNS)を利用して訪れる。空港は市街中心部から北へ約7kmの場所にあり、オーストラリア国内主要都市からの便に加え、数は少ないものの国際線の直行便も発着している。空港から市内への鉄道による旅客輸送はないため、タクシーや事前予約のシャトルバス、空港バスを利用して中心business地区(CBD)の宿泊先へ向かうのが一般的だ。",
+      "days": "たいていの旅行者はケアンズに3日から5日ほど滞在する。この日数があれば、リーフツアーに加え、熱帯雨林やアサートン高原を巡る日帰りツアー、そしてエスプラネード沿いでのんびり過ごす時間も十分に確保できる。"
+    },
+    "es": {
+      "blurb": "Cairns es uno de los pocos lugares del planeta donde un arrecife de coral declarado Patrimonio de la Humanidad por la UNESCO y una selva tropical milenaria se encuentran a apenas una hora de distancia uno del otro: el borde exterior de la Gran Barrera de Coral queda a unos noventa minutos en catamarán mar adentro, mientras que la selva de Daintree está a una distancia similar por carretera hacia el norte. Es una ciudad tropical compacta, construida casi por completo en torno a llevar a los visitantes hacia estas dos maravillas naturales, más que en torno a una arquitectura imponente o atractivos propios de una gran urbe.",
+      "getting": "La mayoría de los viajeros llega a través del aeropuerto de Cairns (CNS), ubicado a unos 7 km al norte del centro de la ciudad, que recibe tanto vuelos nacionales desde las principales ciudades australianas como un número más reducido de rutas internacionales directas. El aeropuerto no cuenta con conexión ferroviaria de pasajeros hacia la ciudad, por lo que lo habitual es trasladarse en taxi, en traslado privado reservado con antelación o en autobús del aeropuerto hasta el alojamiento en el centro (CBD).",
+      "days": "La mayoría de los visitantes pasa entre 3 y 5 días en Cairns, tiempo suficiente para hacer una excursión al arrecife, una salida de un día a la selva tropical o a las Atherton Tablelands, y disfrutar de un tiempo junto al Esplanade."
+    },
+    "zh": {
+      "blurb": "凯恩斯是地球上少数几个能让人在一小时内、于联合国教科文组织认定的珊瑚礁与古老雨林之间自由切换的地方之一:乘双体船出海约九十分钟,便可抵达大堡礁外缘;沿公路往北行驶差不多同样的时长,则能进入戴恩树雨林。这座紧凑的热带小城,几乎所有一切都是为了方便游客前往这两大自然奇观而存在,而非依靠宏伟建筑或大城市式的景点来吸引人。",
+      "getting": "大多数游客经由凯恩斯机场(CNS)抵达,该机场位于市中心以北约7公里处,既有来自澳大利亚各大城市的国内航班,也有少量国际直飞航线。机场没有通往市区的客运铁路,因此前往市中心住宿地的常见方式是搭乘出租车、提前预订的接驳车,或机场巴士。",
+      "days": "大多数游客会在凯恩斯停留3到5天,这样的时间足以安排一次大堡礁之行、一次雨林或阿瑟顿高原一日游,再留出一些时间漫步埃斯普拉纳德海滨大道。"
+    }
+  },
+  "Canberra": {
+    "en": {
+      "blurb": "Canberra is Australia's purpose-built capital, a planned city of lake-side boulevards and national institutions rather than a port or trading town that grew organically. Its low-rise, garden-city layout puts parliament, war memorials and world-class museums within a short walk or cycle of each other, framed by bushland ridges on every horizon.",
+      "getting": "Most travellers fly into Canberra Airport (CBR), roughly 8km from the city centre, then take the Rapid Bus 3 service which runs between the terminal and the City Interchange. Others arrive by direct train from Sydney to Canberra Railway Station in Kingston, or drive in (~3 hours from Sydney).",
+      "days": "Allow ~2 to 3 days to take in the main national galleries, museums and memorials clustered around the lake, with an extra day if you want to range further into the surrounding bush parks."
+    },
+    "ko": {
+      "blurb": "캔버라는 항구나 교역 도시로 자연스럽게 형성된 곳이 아니라, 애초부터 계획하여 세운 호주의 수도입니다. 호수를 따라 대로가 뻗어 있고 국가 주요 기관들이 자리한 이 계획도시는, 저층 건물과 정원 도시 특유의 구조 덕분에 국회의사당, 전쟁기념관, 세계적 수준의 박물관들을 도보나 자전거로 짧은 거리 안에서 오갈 수 있습니다. 사방으로는 숲이 우거진 산등성이가 지평선을 감싸고 있습니다.\",\"getting\":\"대부분의 여행객은 캔버라 공항(CBR)으로 입국하며, 시내에서 약 8km 떨어진 이곳에서 래피드 버스 3번을 타면 터미널과 시티 인터체인지를 오갈 수 있습니다. 그 외에도 시드니에서 킹스턴에 위치한 캔버라 기차역까지 직행 열차를 타거나, 직접 차를 몰고 오는 경우도 있습니다(시드니에서 약 3시간 소요).",
+      "getting": "대부분의 여행객은 캔버라 공항(CBR)으로 입국하며, 시내에서 약 8km 떨어진 이곳에서 래피드 버스 3번을 타면 터미널과 시티 인터체인지를 오갈 수 있습니다. 그 외에도 시드니에서 킹스턴에 위치한 캔버라 기차역까지 직행 열차를 타거나, 직접 차를 몰고 오는 경우도 있습니다(시드니에서 약 3시간 소요).",
+      "days": "호수 주변에 모여 있는 주요 국립 미술관, 박물관, 기념관들을 둘러보려면 2~3일 정도가 적당하며, 주변의 자연 공원까지 더 둘러보고 싶다면 하루 정도 더 여유를 두는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "キャンベラは、自然発生的に発展した港町や商業都市とは一線を画す、オーストラリアが国家事業として一から築き上げた計画都市です。湖畔に大通りが延び、国の主要機関が立ち並ぶこの街は、低層の建物が緑豊かな街並みに溶け込む「ガーデンシティ」として設計されており、国会議事堂や戦争記念館、世界水準の博物館群が徒歩や自転車圏内に集まっています。四方を取り囲む丘陵地帯の緑が、街全体を優しく縁取っています。",
+      "getting": "多くの旅行者は、市中心部から約8kmに位置するキャンベラ空港(CBR)を利用し、そこからターミナルとシティ・インターチェンジを結ぶ急行バス「Rapid Bus 3」で市内へ向かいます。シドニーからは、キングストン地区にあるキャンベラ駅まで直通列車で行く方法もあれば、車で約3時間かけて移動する旅行者もいます。",
+      "days": "湖の周辺に集まる主要な国立ギャラリーや博物館、記念施設をひと通り巡るには2〜3日ほど見ておくとよいでしょう。周辺のブッシュ(自然公園)まで足を延ばしたい場合は、もう1日プラスするのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Canberra es la capital de Australia construida desde cero, una ciudad planificada de bulevares junto al lago e instituciones nacionales, y no un puerto o centro comercial que fue creciendo con el tiempo. Su trazado bajo, al estilo ciudad jardín, sitúa al parlamento, los memoriales de guerra y museos de primer nivel a un corto paseo a pie o en bicicleta unos de otros, todo enmarcado por colinas de monte nativo en cada horizonte.",
+      "getting": "La mayoría de los viajeros llega en avión al Aeropuerto de Canberra (CBR), a unos 8 km del centro de la ciudad, y luego toma el autobús rápido Rapid Bus 3, que conecta la terminal con el City Interchange. Otros llegan en tren directo desde Sídney hasta la Estación de Tren de Canberra, en Kingston, o en coche (unas 3 horas desde Sídney).",
+      "days": "Se recomienda destinar entre 2 y 3 días para recorrer las principales galerías nacionales, museos y memoriales que se concentran alrededor del lago, y sumar un día más si se desea explorar los parques naturales de los alrededores."
+    },
+    "zh": {
+      "blurb": "堪培拉是澳大利亚特意规划建造的首都，与那些由港口或贸易集镇自然发展而成的城市不同，它是一座沿湖大道纵横、国家机构云集的规划之城。城中低层建筑与花园城市的布局，让国会大厦、战争纪念馆和世界一流的博物馆彼此相距不远，步行或骑行即可轻松抵达，四周地平线上则环绕着丛林覆盖的山脊。",
+      "getting": "大多数旅客会飞抵堪培拉机场（CBR），该机场距市中心约8公里，抵达后可乘坐Rapid Bus 3路快线往返于航站楼与City Interchange市区枢纽站之间。也有人选择乘坐从悉尼直达的火车，抵达位于金斯顿（Kingston）的堪培拉火车站，或自驾前往（从悉尼出发车程约3小时）。",
+      "days": "建议安排约2至3天时间，参观环湖而建的主要国家美术馆、博物馆和纪念馆；如果还想深入周边的丛林公园探索，不妨多留一天。"
+    }
+  },
+  "Darwin": {
+    "en": {
+      "blurb": "Darwin is Australia's tropical northern gateway: a small, sun-baked capital where Southeast Asia feels closer than Sydney, and where Aboriginal culture, WWII history and Top End wilderness meet at the water's edge. Life here runs on wet and dry seasons rather than four, with a laid-back waterfront, markets and a frontier feel that owes as much to Darwin's isolation as to its cyclone and wartime past.",
+      "getting": "Darwin International Airport (DRW) is the city's main air gateway, located a few kilometres north of the centre; taxis, rideshares and airport shuttles cover the trip to downtown in around 15 minutes, while public buses run to the city's Casuarina interchange for a cheaper but slower option. There is no passenger rail into Darwin, so most travellers arrive by air, or by road along the Stuart Highway from central Australia.",
+      "days": "Allow ~2 to 3 days to cover Darwin's waterfront, museums and markets, though many visitors use it as a base before or after multi-day trips to Kakadu or Litchfield National Parks."
+    },
+    "ko": {
+      "blurb": "다윈은 호주 북부 열대 지역으로 통하는 관문 도시다. 시드니보다 동남아시아가 더 가깝게 느껴지는 이 작고 햇살 가득한 주도(州都)에서는 원주민 문화와 제2차 세계대전의 역사, 그리고 톱 엔드(Top End)의 야생이 물가에서 하나로 만난다. 이곳의 삶은 사계절이 아니라 건기와 우기를 중심으로 흘러가며, 여유로운 워터프론트와 시장들, 그리고 개척지 특유의 분위기가 도시를 감싸고 있다. 이런 분위기는 다윈의 지리적 고립성뿐 아니라 사이클론과 전쟁의 과거에서도 비롯된 것이다.",
+      "getting": "다윈 국제공항(DRW)은 시내 중심에서 북쪽으로 몇 킬로미터 떨어진 곳에 위치한 이 도시의 주요 공중 관문이다. 택시, 라이드셰어, 공항 셔틀을 이용하면 다운타운까지 약 15분 만에 도착할 수 있으며, 대중버스를 타면 카수아리나(Casuarina) 환승 터미널까지 더 저렴하지만 시간이 더 걸리는 방식으로 이동할 수 있다. 다윈까지 이어지는 여객 철도는 없기 때문에, 대부분의 여행자는 비행기를 이용하거나 스튜어트 하이웨이(Stuart Highway)를 따라 호주 중앙부에서 도로로 이동해 온다.",
+      "days": "다윈의 워터프론트, 박물관, 시장을 둘러보는 데는 약 2~3일이면 충분하지만, 많은 여행자들이 카카두(Kakadu)나 리치필드(Litchfield) 국립공원으로 떠나는 며칠간의 여행 전후 거점 도시로 다윈을 활용하기도 한다."
+    },
+    "ja": {
+      "blurb": "ダーウィンはオーストラリア北部、熱帯地方の玄関口だ。シドニーよりも東南アジアの方が近く感じられる、灼熱の太陽が照りつける小さな州都で、アボリジニ文化、第二次世界大戦の歴史、そしてトップエンドの大自然が水辺で交わる場所でもある。ここでの暮らしは四季ではなく雨季と乾季を軸に回っており、のんびりとしたウォーターフロントやマーケットが点在する。その開拓地のような雰囲気は、サイクロンや戦時中の歴史だけでなく、ダーウィンならではの地理的な孤立感によるところも大きい。",
+      "getting": "ダーウィン国際空港(DRW)は市の中心部から数キロ北に位置する、街の主要な空の玄関口だ。タクシーやライドシェア、空港シャトルを利用すれば市街地まで約15分で到着する。一方、公共バスはカスアリナ・インターチェンジまで運行しており、料金は安いものの時間がかかる。ダーウィンには旅客鉄道が乗り入れていないため、ほとんどの旅行者は飛行機で訪れるか、あるいはオーストラリア中央部からスチュアート・ハイウェイを陸路で走ってやって来る。",
+      "days": "ダーウィンのウォーターフロント、博物館、マーケットを巡るには2〜3日ほど見ておくとよいだろう。ただ、多くの旅行者はここを拠点として、カカドゥ国立公園やリッチフィールド国立公園への数日がかりの旅の前後に滞在することが多い。"
+    },
+    "es": {
+      "blurb": "Darwin es la puerta tropical del norte de Australia: una pequeña capital abrasada por el sol donde el Sudeste Asiático se siente más cercano que Sídney, y donde la cultura aborigen, la historia de la Segunda Guerra Mundial y la naturaleza salvaje del Top End se encuentran a la orilla del agua. Aquí la vida transcurre entre temporada húmeda y seca, no entre cuatro estaciones, con un paseo marítimo relajado, mercados animados y un ambiente de frontera que debe tanto al aislamiento de Darwin como a su pasado marcado por ciclones y guerra.",
+      "getting": "El aeropuerto internacional de Darwin (DRW) es la principal puerta de entrada aérea de la ciudad, ubicado a pocos kilómetros al norte del centro; taxis, servicios de transporte privado y traslados en shuttle cubren el trayecto al centro en unos 15 minutos, mientras que los autobuses públicos llegan hasta el intercambiador de Casuarina, una opción más económica aunque más lenta. Darwin no cuenta con conexión ferroviaria de pasajeros, así que la mayoría de los viajeros llega en avión, o por carretera a través de la Stuart Highway desde el centro de Australia.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer el paseo marítimo, los museos y los mercados de Darwin, aunque muchos viajeros la usan como base antes o después de excursiones de varios días a los parques nacionales de Kakadu o Litchfield."
+    },
+    "zh": {
+      "blurb": "达尔文是澳大利亚通往热带北部的门户:一座被烈日晒透的小首府,论地理距离,东南亚甚至比悉尼更近。在这里,原住民文化、二战历史与\"顶端地区\"(Top End)的荒野风光在水岸边交汇。当地不分四季,只分雨季和旱季;悠闲的滨水区、热闹的集市,再加上那种边陲小城的独特气质,既源于达尔文的地理孤立,也离不开它曾经历的飓风与战火岁月。",
+      "getting": "达尔文国际机场(DRW)是这座城市的主要空中门户,位于市中心以北几公里处;搭乘出租车、网约车或机场班车前往市区大约只需15分钟,而公交车虽然价格更便宜,但路线较慢,主要通往卡苏阿里纳(Casuarina)换乘中心。达尔文没有客运铁路,因此大多数旅客都是乘飞机抵达,或沿斯图尔特公路(Stuart Highway)从澳大利亚中部驱车而来。",
+      "days": "建议预留2到3天时间,游览达尔文的滨水区、各类博物馆和集市;不过很多游客会把这里当作大本营,在前往卡卡杜(Kakadu)或利奇菲尔德(Litchfield)国家公园进行多日游之前或之后,在此稍作停留。"
+    }
+  },
+  "Fremantle": {
+    "en": {
+      "blurb": "Fremantle is a port city at the mouth of the Swan River, prized for its intact 19th century streetscape, working harbour and laid back café culture. Its limestone warehouses, markets and pubs give it a distinct character quite separate from nearby Perth, despite sitting almost on its doorstep.",
+      "getting": "Most travellers fly into Perth Airport (PER), the nearest major airport, then continue on to Fremantle by car or train, a trip of roughly 25 to 30 kilometres that takes about ~30 to 40 minutes. Transperth's Fremantle railway line runs direct from Perth's CBD to Fremantle station, making the train the simplest onward option for those without a car.",
+      "days": "Plan on ~2 to 3 days to cover the historic centre, markets, prison and waterfront at an easy pace, with an extra day if you want to add a Rottnest Island side trip."
+    },
+    "ko": {
+      "blurb": "프리맨틀은 스완강 하구에 자리한 항구 도시로, 19세기 모습을 고스란히 간직한 거리 풍경과 현재도 살아 움직이는 항만, 그리고 여유로운 카페 문화로 사랑받는 곳이다. 석회암으로 지어진 창고 건물들과 시장, 펍들이 어우러져 바로 옆에 있는 퍼스와는 확연히 다른 독자적인 분위기를 자아낸다.",
+      "getting": "대부분의 여행객은 가장 가까운 주요 공항인 퍼스 공항(PER)으로 입국한 뒤, 자동차나 기차로 프리맨틀까지 이동한다. 거리는 약 25~30km로, 소요 시간은 대략 30~40분 정도다. 트랜스퍼스(Transperth)의 프리맨틀 철도 노선은 퍼스 시내(CBD)에서 프리맨틀역까지 직행으로 운행되어, 차가 없는 여행객이라면 기차를 이용하는 것이 가장 간편한 방법이다.",
+      "days": "역사 지구, 시장, 교도소, 워터프론트를 여유롭게 둘러보려면 약 2~3일 정도를 잡으면 되고, 로트네스트 섬으로 당일 여행을 다녀오고 싶다면 하루를 더 추가하는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "フリーマントルはスワン川の河口に位置する港湾都市で、19世紀の街並みがそのまま残る景観、今も稼働する港、そしてのんびりとしたカフェ文化が魅力です。石灰岩造りの倉庫群、マーケット、パブが独特の雰囉気を醸し出し、パースのすぐ隣に位置しながらも、まったく異なる個性を持つ町となっています。",
+      "getting": "多くの旅行者は、最寄りの主要空港であるパース空港(PER)に到着し、そこから車や電車でフリーマントルへ向かいます。距離は約25〜30キロメートルで、所要時間はおよそ30〜40分です。TransperthのフリーマントルラインはパースのCBDからフリーマントル駅まで直通運行しているため、車を持たない旅行者にとっては電車が最も手軽な移動手段となります。",
+      "days": "歴史的な中心地区、マーケット、監獄、ウォーターフロントをゆったりと巡るなら、2〜3日ほど見ておくとよいでしょう。ロットネスト島への日帰り旅行を加えたい場合は、もう1日プラスするのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Fremantle es una ciudad portuaria situada en la desembocadura del río Swan, apreciada por su trama urbana del siglo XIX que se conserva casi intacta, su puerto en pleno funcionamiento y su relajada cultura de cafés. Sus almacenes de piedra caliza, sus mercados y sus pubs le dan un carácter propio, bien diferenciado del cercano Perth, pese a encontrarse prácticamente a sus puertas.",
+      "getting": "La mayoría de los viajeros llega al aeropuerto de Perth (PER), el principal de la zona, y desde allí continúa hasta Fremantle en coche o en tren, un trayecto de unos 25 a 30 kilómetros que dura aproximadamente entre 30 y 40 minutos. La línea ferroviaria de Fremantle, operada por Transperth, conecta directamente el centro de Perth con la estación de Fremantle, por lo que el tren es la opción más sencilla para quienes no disponen de coche.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer con calma el centro histórico, los mercados, la antigua prisión y el frente marítimo, y sumar un día más si se quiere hacer una excursión a la isla Rottnest."
+    },
+    "zh": {
+      "blurb": "弗里曼特尔（Fremantle）是天鹅河（Swan River）入海口的一座港口城市，以保存完好的19世纪街景、繁忙的工作港口以及悠闲的咖啡文化而闻名。这里的石灰岩仓库、集市和酒吧赋予了它独特的气质，虽然几乎与珀斯（Perth）近在咫尺，却自成一格，别具风情。",
+      "getting": "大多数游客会先飞抵珀斯机场（PER），这是距离最近的主要机场，随后再驱车或乘火车前往弗里曼特尔，全程约25至30公里，车程大约30到40分钟。Transperth运营的弗里曼特尔铁路线可从珀斯市中心直达弗里曼特尔火车站，对于没有自驾的游客来说，坐火车是最简便的出行方式。",
+      "days": "建议安排约2到3天时间，以轻松的节奏游览历史城区、集市、监狱和海滨一带；如果还想安排罗特尼斯岛（Rottnest Island）一日游，可以再多留一天。"
+    }
+  },
+  "Gold Coast": {
+    "en": {
+      "blurb": "The Gold Coast is Australia's high-rise beach capital, a long ribbon of surf suburbs anchored by the towers of Surfers Paradise and backed by the rainforested Gold Coast hinterland. It mixes big theme parks, a famous surf break at Burleigh Heads and a laid-back canal-side quarter around Broadbeach, so the character shifts noticeably as you move along the coast.",
+      "getting": "Most travellers arrive through Gold Coast Airport (OOL) at Coolangatta, which <cite index=\"10-4\">has no direct train station at the airport, though travellers have several convenient options to reach their hotel</cite>. The standard public transport route is <cite index=\"16-5,16-7\">Bus Route 777 to Broadbeach South tram station, where you can transfer to the G:link light rail, a trip that takes approximately 30 minutes</cite>; a second bus, route 760, connects the airport area to Varsity Lakes station for the heavy rail line north to Brisbane.",
+      "days": "Allow ~3 to 5 days to cover the main beach strip, a theme park or two and a hinterland day trip without rushing."
+    },
+    "ko": {
+      "blurb": "골드코스트는 호주를 대표하는 고층 해변 도시로, 서퍼스 파라다이스의 마천루를 중심으로 서핑 타운들이 기다랗게 이어지며, 뒤로는 열대우림이 우거진 골드코스트 힌터랜드가 펼쳐집니다. 대형 테마파크들, 벌리 헤즈의 유명한 서핑 포인트, 그리고 브로드비치 주변의 여유로운 운하변 지구가 한데 어우러져 있어, 해안을 따라 이동할수록 분위기가 확연히 달라지는 것을 느낄 수 있습니다.",
+      "getting": "대부분의 여행객은 쿨랑가타에 위치한 골드코스트 공항(OOL)을 통해 입국합니다. 공항에는 직통 기차역이 없지만, 숙소까지 이동할 수 있는 편리한 방법이 여러 가지 있습니다. 가장 일반적인 대중교통 경로는 777번 버스를 타고 브로드비치 사우스 트램역까지 간 뒤 G:link 경전철로 환승하는 것으로, 약 30분 정도 소요됩니다. 또한 760번 버스를 이용하면 공항 인근에서 바시티 레이크스역까지 이동할 수 있으며, 이곳에서 브리즈번 방면 간선철도로 갈아탈 수 있습니다.",
+      "days": "주요 해변 지역과 테마파크 한두 곳, 그리고 힌터랜드 당일치기 여행까지 여유롭게 즐기려면 약 3~5일 정도 일정을 잡는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "ゴールドコーストは、オーストラリアを代表する高層ビル林立のビーチリゾートだ。サーファーズパラダイスの摩天楼を中心に、サーフタウンが海岸線に沿って帯状に連なり、その背後には熱帯雨林に覆われたゴールドコースト・ヒンターランドが広がる。大型テーマパーク、バーレイヘッズの名高いサーフブレイク、そしてブロードビーチ周辺の運河沿いに広がるのんびりとしたエリアが混在し、海岸を移動するにつれて街の表情がガラリと変わっていくのが魅力だ。",
+      "getting": "多くの旅行者はクーランガッタにあるゴールドコースト空港(OOL)から入国する。空港に鉄道駅はないものの、市内へのアクセス手段はいくつか用意されており、不便はない。定番のルートは、バス777系統でブロードビーチ・サウス・トラム駅まで行き、そこからG:link(ライトレール)に乗り継ぐ方法で、所要時間は約30分。もう一つの選択肢として、バス760系統は空港エリアとヴァーシティ・レイクス駅を結んでおり、そこから北へ向かう在来線(ヘビーレール)でブリスベン方面へアクセスできる。",
+      "days": "ビーチ沿いの主要エリア、テーマパーク1〜2カ所、そしてヒンターランドへの日帰り旅行を無理なく楽しむなら、3〜5日ほど見ておくとよいだろう。"
+    },
+    "es": {
+      "blurb": "La Gold Coast es la capital australiana de las playas con rascacielos, una larga franja de suburbios surfistas anclada por las torres de Surfers Paradise y respaldada por el interior selvático de la Gold Coast hinterland. Combina grandes parques temáticos, una famosa rompiente de surf en Burleigh Heads y un relajado barrio junto a los canales en torno a Broadbeach, por lo que el ambiente cambia notablemente a medida que se recorre la costa.",
+      "getting": "La mayoría de los viajeros llega a través del Gold Coast Airport (OOL), en Coolangatta, que no cuenta con estación de tren propia en el aeropuerto, aunque hay varias opciones cómodas para llegar al hotel. La ruta de transporte público estándar es el autobús 777 hasta la estación de tram de Broadbeach South, donde se puede hacer transbordo al tren ligero G:link, trayecto que dura aproximadamente 30 minutos; otro autobús, la ruta 760, conecta la zona del aeropuerto con la estación de Varsity Lakes, desde donde parte la línea de tren de cercanías hacia el norte, a Brisbane.",
+      "days": "Conviene reservar entre 3 y 5 días para recorrer la franja principal de playas, visitar uno o dos parques temáticos y hacer una excursión de un día al interior, sin apresurarse."
+    },
+    "zh": {
+      "blurb": "黄金海岸是澳大利亚高楼林立的海滩之都,冲浪者天堂的摩天大楼群是其地标,身后则是林木葱郁的黄金海岸内陆山地,沿海延伸出一连串冲浪胜地小镇。这里既有大型主题乐园,又有伯利角(Burleigh Heads)闻名遐迩的冲浪浪点,还有宽阔海滩(Broadbeach)一带悠闲惬意的运河社区,因此沿海岸线一路走下来,风情氛围也随之明显变化。",
+      "getting": "大多数游客经库兰加塔(Coolangatta)的黄金海岸机场(OOL)抵达。机场本身没有直达火车站,不过游客仍有几种便捷方式前往酒店。最常见的公共交通方式是先搭乘777路巴士前往宽阔海滩南(Broadbeach South)有轨电车站,再换乘G:link轻轨,全程约需30分钟;此外还有760路巴士,连接机场区域与瓦西迪湖(Varsity Lakes)车站,可在那里搭乘北上布里斯班的重轨列车。",
+      "days": "建议安排约3至5天时间,从容游览主要海滩沿线、一两个主题乐园,再抽出一天前往内陆山地一日游。"
+    }
+  },
+  "Hobart": {
+    "en": {
+      "blurb": "Hobart is Australia's southernmost capital, wrapped around the Derwent River and watched over by the dolerite bulk of kunanyi/Mount Wellington. It pairs convict-era sandstone warehouses and the Salamanca Market with a reputation as a launchpad for Antarctic expeditions and a base for the MONA art museum upriver.",
+      "getting": "Most travellers arrive at Hobart Airport (HBA), about 17km northeast of the city centre in Cambridge. Tasmania has no passenger rail service, so the reliable route into town is by airport shuttle bus, taxi or rental car; there is no train link.",
+      "days": "Allow ~3 to 4 days to cover the waterfront, Salamanca, MONA and a side trip up Mount Wellington, with extra days if you plan to branch out to the wider Tasmanian coast."
+    },
+    "ko": {
+      "blurb": "호바트는 호주에서 가장 남쪽에 위치한 주도로, 더웬트강을 끼고 자리 잡았으며 도러라이트 암반으로 이루어진 쿠나니/마운트 웰링턴이 도시를 굽어보고 있습니다. 죄수 유배 시대에 지어진 사암 창고 건물들과 살라만카 마켓이 어우러진 이곳은 남극 탐험의 관문이자, 강 상류에 자리한 현대미술관 모나(MONA)의 근거지로도 명성이 높습니다.",
+      "getting": "대부분의 여행객은 시내 북동쪽으로 약 17km 떨어진 케임브리지 지역에 위치한 호바트 공항(HBA)을 통해 도착합니다. 태즈메이니아에는 여객 열차가 운행되지 않으므로, 공항 셔틀버스나 택시, 렌터카를 이용하는 것이 시내로 들어가는 가장 확실한 방법입니다. 기차 노선은 없습니다.",
+      "days": "워터프론트, 살라만카, 모나(MONA), 그리고 마운트 웰링턴 당일 여행까지 둘러보려면 약 3~4일 정도 일정을 잡는 것이 좋으며, 태즈메이니아 해안 지역까지 폭넓게 둘러볼 계획이라면 며칠 더 여유를 두는 것을 추천합니다."
+    },
+    "ja": {
+      "blurb": "ホバートはオーストラリア最南端の州都で、ダーウェント川を抱くように広がり、玄武岩質のクナニ/ウェリントン山がその街並みを見守っています。流刑地時代の砂岩造りの倉庫群やサラマンカ・マーケットといった歴史情緒を持ちながら、南極探検の拠点として、また川の上流にあるMONA(モナ現代美術館)の拠点としても知られています。",
+      "getting": "多くの旅行者はホバート空港(HBA)を利用します。空港は市街地から北東へ約17km、ケンブリッジ地区に位置しています。タスマニアには旅客鉄道がないため、市内へのアクセスは空港シャトルバス、タクシー、レンタカーが基本となり、鉄道での移動はできません。",
+      "days": "ウォーターフロント、サラマンカ、MONA、そしてウェリントン山への小旅行を楽しむには3〜4日ほど見ておくとよいでしょう。タスマニア沿岸部までさらに足を延ばす予定があれば、その分の日程を追加することをおすすめします。"
+    },
+    "es": {
+      "blurb": "Hobart es la capital más austral de Australia, extendida a orillas del río Derwent y vigilada por la imponente mole de dolerita del kunanyi/Monte Wellington. Combina los antiguos almacenes de arenisca de la época colonial y el mercado de Salamanca con su fama de ser el punto de partida de las expediciones a la Antártida y sede del museo de arte MONA, río arriba.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto de Hobart (HBA), situado a unos 17 km al noreste del centro, en Cambridge. Tasmania no cuenta con servicio ferroviario de pasajeros, así que la forma más segura de llegar a la ciudad es en el autobús lanzadera del aeropuerto, en taxi o en coche de alquiler; no existe conexión en tren.",
+      "days": "Conviene reservar entre 3 y 4 días para recorrer el paseo marítimo, Salamanca, el MONA y hacer una excursión al Monte Wellington, sumando días adicionales si se planea explorar el resto de la costa de Tasmania."
+    },
+    "zh": {
+      "blurb": "霍巴特是澳大利亚最靠南的首府城市,依偎在德文特河畔,由雄伟的辉绿岩山体kunanyi/惠灵顿山守护着。这里既有殖民时期遗留下来的砂岩仓库和萨拉曼卡市场,又是南极科考探险的重要出发地,还是河流上游MONA现代艺术博物馆的所在地,古今交融,别具一格。",
+      "getting": "大多数游客从霍巴特机场(HBA)抵达,该机场位于市中心东北约17公里处的坎布里奇。塔斯马尼亚没有客运铁路服务,因此进城最可靠的方式是搭乘机场班车、出租车或自驾租车,并无火车可供选择。",
+      "days": "建议预留约3至4天时间游览海滨区、萨拉曼卡、MONA艺术博物馆,并抽空前往惠灵顿山一游;如计划继续探索塔斯马尼亚更广阔的海岸线,则需再多安排几天。"
+    }
+  },
+  "Melbourne": {
+    "en": {
+      "blurb": "Melbourne pairs a tightly grid-planned Victorian era CBD with a restless creative undercurrent, its laneways hiding espresso bars, street art and small theatres behind unassuming doors. Trams still rattle down the main boulevards as they have for well over a century, giving the city a distinct rhythm that separates it from Australia's newer, car-first metropolises.",
+      "getting": "Most travellers arrive at Melbourne Airport (MEL, in Tullamarine, roughly 23 to 25km northwest of the CBD): there is no train line to the airport yet, so the SkyBus coach service to Southern Cross Station is the standard, reliable link into the city, taking around 30 to 45 minutes depending on traffic. A rail connection has been under construction for some time but is not expected to open until the early 2030s, so buses and taxis remain the practical options for now.",
+      "days": "Plan on ~3 to 4 days to cover the CBD's laneways, galleries and food scene, with an extra day or two if you want to branch out to nearby regions like the Yarra Valley or the Mornington Peninsula."
+    },
+    "ko": {
+      "blurb": "멜버른은 빅토리아 시대에 격자형으로 촘촘히 설계된 CBD와 그 안에서 끊임없이 꿈틀대는 창의적인 기운이 공존하는 도시다. 골목길 안쪽, 특별할 것 없어 보이는 문 뒤로는 에스프레소 바와 스트리트 아트, 아담한 소극장들이 숨어 있다. 100년이 넘도록 도심 대로를 오가는 트램은 지금도 여전히 덜컹거리며 달리고, 이 특유의 리듬 덕분에 멜버른은 자동차 중심으로 발전한 호주의 다른 신흥 대도시들과는 확연히 다른 매력을 지니게 되었다.",
+      "getting": "대부분의 여행자는 멜버른 공항(MEL, 툴라마린 지역에 위치하며 CBD에서 북서쪽으로 약 23~25km 거리)을 통해 입국한다. 아직 공항까지 연결되는 기차 노선이 없어서, 서던크로스역까지 운행하는 스카이버스 코치가 시내로 향하는 가장 표준적이고 믿을 만한 교통수단이며, 교통 상황에 따라 30~45분 정도 소요된다. 철도 연결 공사가 한동안 진행되어 왔지만 개통은 2030년대 초반에나 가능할 것으로 예상되어, 당분간은 버스와 택시가 현실적인 이동 수단으로 남아 있다.",
+      "days": "CBD의 골목길과 갤러리, 다양한 먹거리를 둘러보는 데는 3~4일 정도를 잡으면 되고, 야라 밸리나 모닝턴 반도 같은 인근 지역까지 발길을 넓히고 싶다면 하루나 이틀 정도 더 여유를 두는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "メルボルンは、ヴィクトリア朝時代に整然と区画されたCBD(中心業務地区)と、絶えず息づくクリエイティブな気風を併せ持つ街だ。細い路地(レーンウェイ)には、何気ないドアの奥にエスプレッソバーやストリートアート、小さな劇場が隠れている。メインストリートには1世紀以上前から変わらずトラムが走り続け、車社会が主流のオーストラリアの新興都市とは一線を画す独特のリズムを街に刻んでいる。",
+      "getting": "多くの旅行者はメルボルン空港(MEL、タラマリン地区にあり、CBDから北西へ約23~25km)から入国する。空港へ直結する鉄道はまだないため、サザンクロス駅行きのスカイバス(SkyBus)が定番かつ信頼できる市内へのアクセス手段で、所要時間は交通状況により30~45分程度。鉄道接続は以前から建設が進められているものの、開通は2030年代前半になる見込みで、当面はバスやタクシーが現実的な選択肢となる。",
+      "days": "CBDのレーンウェイ巡りやギャラリー、グルメを満喫するには3~4日が目安。ヤラ・バレーやモーニントン半島など近郊エリアまで足を延ばすなら、さらに1~2日追加しておくとよい。"
+    },
+    "es": {
+      "blurb": "Melbourne combina un centro urbano de trazado reticular de la época victoriana con una inquieta corriente creativa de fondo: sus callejones esconden bares de café exprés, arte urbano y pequeños teatros tras puertas discretas que apenas llaman la atención. Los tranvías siguen recorriendo traqueteando los bulevares principales, tal como lo han hecho durante más de un siglo, dándole a la ciudad un ritmo propio que la distingue de las metrópolis australianas más nuevas, pensadas ante todo para el automóvil.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto de Melbourne (MEL, en Tullamarine, a unos 23-25 km al noroeste del centro): todavía no existe una línea de tren hasta el aeropuerto, así que el servicio de autobús SkyBus hasta la estación Southern Cross es la conexión estándar y confiable con la ciudad, con un trayecto de entre 30 y 45 minutos según el tráfico. Desde hace tiempo se viene construyendo una conexión ferroviaria, pero no se espera que esté lista antes de principios de la década de 2030, por lo que, de momento, los autobuses y los taxis siguen siendo las opciones más prácticas.",
+      "days": "Conviene reservar entre 3 y 4 días para recorrer los callejones, galerías y la escena gastronómica del centro, y sumar uno o dos días más si se quiere explorar regiones cercanas como el Yarra Valley o la península de Mornington."
+    },
+    "zh": {
+      "blurb": "墨尔本将维多利亚时代规整的棋盘式市中心（CBD），与一股不安分的创意暗流巧妙融合：城中巷弄深处，不起眼的门后往往藏着咖啡馆、街头艺术和小剧场，别有洞天。有轨电车依旧沿着主干道叮当作响，一如一个多世纪以来那般，为这座城市赋予了独特的节奏感，使其有别于澳大利亚其他那些以汽车为导向的新兴都市。",
+      "getting": "大多数旅客经墨尔本机场（MEL，位于图拉马林，距市中心西北方约23至25公里）入境。目前机场尚无直达火车，因此搭乘SkyBus机场巴士前往南十字星车站（Southern Cross Station）是进城的标准便捷方式，车程视路况而定，约需30至45分钟。连接机场的铁路线已动工多年，但预计要到2030年代初才能通车，因此现阶段巴士和出租车仍是切实可行的选择。",
+      "days": "建议安排约3至4天，探索市中心的街巷、画廊和美食；若还想前往雅拉河谷（Yarra Valley）或莫宁顿半岛（Mornington Peninsula）等周边地区，则可再多留一两天。"
+    }
+  },
+  "Perth": {
+    "en": {
+      "blurb": "Perth is one of the world's most isolated major cities, a sun-drenched capital on Western Australia's coast where turquoise beaches, the Swan River and vast native bushland sit right at the edge of downtown. Its relaxed, outdoorsy pace and nearby wine regions and islands make it feel more like a resort city than a state capital.",
+      "getting": "Most travellers arrive at Perth Airport (PER), which connects to the city centre via the Airport Line train: services from Airport Central Station (serving Terminals 1 and 2) reach Perth Station in the CBD in around 18 minutes, while Terminals 3 and 4 require a short bus transfer to Redcliffe Station on the same line. Taxis and rideshares are also readily available and take roughly 20-25 minutes to the city.",
+      "days": "Plan on 3-4 days to cover the city centre, Fremantle and the Swan River, with an extra day or two if you want to add Rottnest Island or the Swan Valley wine region."
+    },
+    "ja": {
+      "blurb": "パースは世界でも屈指の「隔絶された大都市」であり、西オーストラリア州の海岸に広がる陽光あふれる州都です。ターコイズブルーに輝くビーチ、スワン川、そして手つかずの自然林が、ダウンタウンのすぐそばに広がっています。のんびりとしたアウトドア志向のライフスタイルに加え、近郊にワイナリー地帯や離島を控えていることから、州都というよりもリゾートタウンのような雰囲気を漂わせています。",
+      "getting": "多くの旅行者はパース空港(PER)から入国します。空港から市街地へは「エアポートライン」の鉄道が便利で、ターミナル1・2に近いエアポート・セントラル駅からパース中心部(CBD)のパース駅まで約18分で到着します。ターミナル3・4を利用する場合は、シャトルバスで同路線のレッドクリフ駅まで移動する必要があります。タクシーやライドシェアも利用しやすく、市内中心部まではおよそ20〜25分です。",
+      "days": "市街地、フリーマントル、スワン川エリアを巡るには3〜4日を見ておくとよいでしょう。さらにロットネスト島やスワンバレーのワイン産地にも足を延ばしたい場合は、1〜2日多めに予定を組むのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Perth es una de las ciudades importantes más aisladas del mundo, una capital bañada por el sol en la costa de Australia Occidental, donde playas de aguas turquesas, el río Swan y una extensa vegetación autóctona bordean el mismo centro urbano. Su ritmo relajado y amante del aire libre, junto con las regiones vinícolas e islas cercanas, hacen que se sienta más como una ciudad de resort que como una capital estatal.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto de Perth (PER), que se conecta con el centro de la ciudad mediante el tren Airport Line: los servicios desde Airport Central Station (que atiende las Terminales 1 y 2) llegan a Perth Station, en el CBD, en unos 18 minutos, mientras que desde las Terminales 3 y 4 es necesario tomar un breve traslado en autobús hasta Redcliffe Station, en la misma línea. También hay taxis y servicios de transporte privado fácilmente disponibles, con un trayecto de entre 20 y 25 minutos hasta la ciudad.",
+      "days": "Se recomienda destinar entre 3 y 4 días para recorrer el centro de la ciudad, Fremantle y el río Swan, y sumar uno o dos días más si se desea visitar la isla Rottnest o la región vinícola de Swan Valley."
+    },
+    "zh": {
+      "blurb": "珀斯是世界上最与世隔绝的大城市之一，这座阳光明媚的首府城市坐落在西澳大利亚的海岸线上，蔚蓝的海滩、天鹅河（Swan River）以及广袤的原生丛林紧邻市区边缘。悠闲自在的户外生活节奏，加上周边的葡萄酒产区和岛屿，让这里更像一座度假胜地，而不只是一座州府城市。",
+      "getting": "大多数旅客会抵达珀斯机场（PER），该机场通过机场线（Airport Line）与市中心相连：从机场中央站（Airport Central Station，服务1号和2号航站楼）出发，约18分钟即可到达市中心的珀斯站（Perth Station）；如果是3号和4号航站楼，则需先乘坐短途接驳巴士前往同一线路上的Redcliffe站。此外，出租车和网约车也十分方便，前往市区大约需要20-25分钟。",
+      "days": "建议安排3-4天时间游览市中心、弗里曼特尔（Fremantle）和天鹅河一带，如果还想去罗特尼斯岛（Rottnest Island）或天鹅谷葡萄酒产区（Swan Valley），可以再多留一两天。"
+    }
+  },
+  "Sydney": {
+    "en": {
+      "blurb": "Sydney wraps around one of the world's great natural harbours, its skyline anchored by the white sails of the Opera House and the steel arc of the Harbour Bridge. Beyond the postcard views, the city mixes ocean beaches, bushland headlands and a dense, walkable centre, giving visitors both a big-city pulse and easy access to the water.",
+      "getting": "Most travellers arrive at Sydney Airport (SYD), whose International and Domestic terminals sit directly on the T8 Airport & South Line into the city centre. Trains run roughly every 10 minutes and reach Central Station in about 13 minutes, making rail the fastest and most reliable way in.",
+      "days": "Plan on ~3-4 days to cover the harbour icons, a beach or two and a couple of inner neighbourhoods without rushing."
+    },
+    "ko": {
+      "blurb": "시드니는 세계적인 천혜의 항구를 감싸듯 자리하고 있으며, 오페라 하우스의 하얀 돛과 하버 브리지의 강철 아치가 도시의 스카이라인을 상징적으로 장식하고 있습니다. 그림 같은 풍경 너머로, 이 도시는 해변과 자연 그대로의 곶, 그리고 걸어서 다니기 좋은 밀집된 도심을 함께 품고 있어, 방문객들에게 대도시의 활기와 바다로의 편리한 접근성을 동시에 선사합니다.",
+      "getting": "대부분의 여행객은 시드니 공항(SYD)을 통해 도착하는데, 국제선과 국내선 터미널 모두 시내로 향하는 T8 공항·사우스 라인(Airport & South Line)과 바로 연결되어 있습니다. 열차는 약 10분 간격으로 운행되며 센트럴역(Central Station)까지 약 13분이면 도착해, 기차가 가장 빠르고 믿을 만한 이동 수단입니다.",
+      "days": "항구의 명소들과 해변 한두 곳, 그리고 시내 인근 몇몇 동네를 여유롭게 둘러보려면 3~4일 정도를 계획하는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "シドニーの街は、世界屈指の美しい天然の湾を抱くように広がっており、その象徴的なスカイラインには、白い帆のようなオペラハウスと鋼鉄のアーチを描くハーバーブリッジがそびえ立っています。絵葉書のような景観だけでなく、街には海に面したビーチ、緑豊かなブッシュランドの岬、そして歩いて楽しめる密度の高い中心部が共存しており、訪れる人は大都市ならではの活気を感じながら、気軽に水辺へアクセスすることができます。",
+      "getting": "多くの旅行者はシドニー空港(SYD)から旅を始めます。国際線・国内線ターミナルはどちらも、市内中心部へ向かうT8空港・南線の駅に直結しています。電車はおよそ10分間隔で運行しており、約13分でセントラル駅に到着するため、鉄道が最も速く、最も信頼できる移動手段です。",
+      "days": "ハーバーの名所や、ビーチを1〜2カ所、さらに中心部からほど近いエリアをいくつか、慌ただしくならずに巡るなら、目安として3〜4日ほど見ておくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Sídney se despliega alrededor de uno de los puertos naturales más espectaculares del mundo, con un horizonte marcado por las velas blancas de la Ópera y el arco de acero del Harbour Bridge. Más allá de las postales, la ciudad combina playas oceánicas, promontorios de bosque nativo y un centro compacto y perfecto para recorrer a pie, ofreciendo a los visitantes tanto el pulso de una gran ciudad como un fácil acceso al agua.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto de Sídney (SYD), cuyas terminales Internacional y Doméstica se conectan directamente con la línea T8 Airport & South hacia el centro de la ciudad. Los trenes pasan aproximadamente cada 10 minutos y llegan a Central Station en unos 13 minutos, lo que convierte al tren en la forma más rápida y confiable de llegar.",
+      "days": "Se recomienda dedicar entre 3 y 4 días para conocer los íconos del puerto, alguna playa y un par de barrios del centro sin apuros."
+    },
+    "zh": {
+      "blurb": "悉尼环绕着世界著名的天然海港而建,标志性的悉尼歌剧院白色帆状屋顶与海港大桥的钢铁桁架交相辉映,构成了这座城市的天际线。除了这些明信片般的经典景致之外,悉尼还兼具海滩、丛林海角与紧凑宜行的市中心,让游客既能感受大都市的活力,又能轻松亲近海洋。",
+      "getting": "大多数游客都会从悉尼机场(SYD)抵达,其国际和国内航站楼都直接连接T8机场及南线列车,可直达市中心。列车大约每10分钟一班,约13分钟即可到达中央车站(Central Station),是进入市区最快捷、最可靠的方式。",
+      "days": "建议安排约3至4天的行程,从容游览海港标志性景点,顺游一两处海滩,再逛逛几个市区周边街区。"
+    }
+  },
+  "Sunshine Coast": {
+    "en": {
+      "blurb": "The Sunshine Coast stretches along Queensland's coast north of Brisbane, pairing surf beaches and laid-back seaside towns like Noosa, Mooloolaba and Maroochydore with a green hinterland of rainforest, waterfalls and the volcanic spires of the Glass House Mountains. It is a region built for slow mornings and long coastal walks, where the beach and the bush sit only a short drive apart.",
+      "getting": "Most travellers fly into Sunshine Coast Airport (MCY) at Marcoola, or drive up the Bruce Highway from Brisbane, ~90km to the north. Queensland Rail trains also run from Brisbane to Nambour and Landsborough stations, from where local buses connect on to the coastal towns.",
+      "days": "Plan on ~3-4 days to cover a mix of beach time in Noosa or Mooloolaba and a day trip into the hinterland."
+    },
+    "ko": {
+      "blurb": "선샤인 코스트는 브리즈번 북쪽, 퀸즐랜드 해안을 따라 펼쳐진 지역으로, 노사(Noosa), 물루라바(Mooloolaba), 마루치도어(Maroochydore) 같은 여유로운 해변 마을들과 서핑 비치가 열대우림, 폭포, 그리고 글래스 하우스 마운틴스(Glass House Mountains)의 화산 봉우리들로 이루어진 초록빛 내륙 지대와 어우러진 곳입니다. 느긋한 아침과 긴 해안 산책을 위해 만들어진 듯한 이 지역에서는 해변과 숲이 차로 잠깐이면 오갈 수 있을 만큼 가깝게 맞닿아 있습니다.",
+      "getting": "대부분의 여행객은 마르쿨라(Marcoola)에 위치한 선샤인 코스트 공항(MCY)으로 비행기를 타고 오거나, 브리즈번에서 브루스 하이웨이(Bruce Highway)를 따라 북쪽으로 약 90km를 운전해서 옵니다. 퀸즐랜드 철도(Queensland Rail) 열차도 브리즈번에서 남붐(Nambour)과 랜즈버러(Landsborough) 역까지 운행하며, 이곳에서 지역 버스로 갈아타면 해안 마을들과 연결됩니다.",
+      "days": "노사나 물루라바에서의 해변 시간과 내륙 지역으로의 당일 여행을 함께 즐기려면 약 3~4일 정도 일정을 잡는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "サンシャインコーストは、ブリスベンの北に広がるクイーンズランド州の海岸沿いのエリアで、ヌーサ、ムールーラバ、マルーチードアといったのんびりとした雰囲気のビーチタウンと、熱帯雨林や滝、火山でできたグラスハウス・マウンテンズの尖峰がそびえる緑豊かな内陸部を併せ持っています。ゆったりとした朝の時間や長い海岸線の散策にぴったりの地域で、ビーチと自然の奥地がほんの少しのドライブでつながっているのも魅力です。",
+      "getting": "多くの旅行者は、マルクーラにあるサンシャインコースト空港(MCY)を利用するか、ブリスベンからブルース・ハイウェイを北へ約90km走って向かいます。また、クイーンズランド鉄道の列車がブリスベンからナンブアーやランズボロー駅まで運行しており、そこから路線バスで沿岸の町へ乗り継ぐこともできます。",
+      "days": "ヌーサやムールーラバでのビーチ滞在と内陸部への日帰り旅行を組み合わせるなら、3〜4日程度を見ておくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "La Sunshine Coast se extiende a lo largo de la costa de Queensland, al norte de Brisbane, combinando playas para surfear y pueblos costeros relajados como Noosa, Mooloolaba y Maroochydore con un interior verde de selva tropical, cascadas y las agujas volcánicas de las Glass House Mountains. Es una región pensada para las mañanas tranquilas y los largos paseos por la costa, donde la playa y el monte quedan a solo un corto trayecto en coche.",
+      "getting": "La mayoría de los viajeros llega en avión al Sunshine Coast Airport (MCY), en Marcoola, o conduce por la Bruce Highway desde Brisbane, a unos 90 km al norte. Los trenes de Queensland Rail también conectan Brisbane con las estaciones de Nambour y Landsborough, desde donde autobuses locales enlazan con los pueblos costeros.",
+      "days": "Conviene reservar entre 3 y 4 días para combinar tiempo de playa en Noosa o Mooloolaba con una excursión de un día al interior."
+    },
+    "zh": {
+      "blurb": "阳光海岸(Sunshine Coast)沿着昆士兰州海岸线延伸,坐落于布里斯班以北,这里既有冲浪海滩和努萨(Noosa)、莫罗拉巴(Mooloolaba)、玛卢奇多尔(Maroochydore)等悠闲惬意的海滨小镇,又坐拥雨林、瀑布与玻璃屋山(Glass House Mountains)火山尖峰构成的绿意盎然的内陆腹地。这是一片专为悠闲晨光和漫长海岸漫步而生的地方,海滩与丛林之间仅需片刻车程。",
+      "getting": "大多数旅行者会飞抵位于马科拉(Marcoola)的阳光海岸机场(MCY),或沿布鲁斯公路(Bruce Highway)从布里斯班驱车北上,约90公里即达。昆士兰铁路(Queensland Rail)也开通了从布里斯班到南博(Nambour)和兰兹伯勒(Landsborough)车站的列车,抵达后可换乘当地巴士前往各海滨小镇。",
+      "days": "建议安排约3-4天行程,既能在努萨或莫罗拉巴享受海滩时光,也能抽出一天前往内陆腹地一日游。"
+    }
   }
 }
