@@ -94,9 +94,14 @@ for (let i = 0; i < targets.length; i += BATCH) {
   // held as a draft keeps its old translation, and only an explicitly named slug
   // gets a draft re-translated (lib/translate-scope.mjs). ja/mumbai-fielia sat
   // unrepairable for exactly that reason until 2026-09-20.
-  const only = `--only=${batch.map((j) => j.key).join(',')}`;
   let summary = '(no summary)';
   for (let attempt = 1; attempt <= 3; attempt++) {
+    // Retry only what is still missing. A named slug is re-translated even when
+    // its file exists, so re-sending the whole batch paid again for every file
+    // the first attempt already wrote: on 2026-09-28 one post that kept failing
+    // (ko/bengaluru-chet-faker…) had seven finished ones re-translated twice
+    // over — 13, 12, 12 calls, about $1.6 for nothing.
+    const only = `--only=${batch.filter((j) => !existsSync(j.file)).map((j) => j.key).join(',')}`;
     const run = spawnSync(process.execPath, ['scripts/translate-posts.mjs', only], {
       encoding: 'utf8', stdio: ['ignore', 'pipe', 'pipe'], maxBuffer: 5e7,
     });
