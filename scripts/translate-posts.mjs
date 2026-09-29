@@ -22,7 +22,7 @@ import Anthropic from '@anthropic-ai/sdk';
 import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { readdir, readFile, writeFile, mkdir } from 'node:fs/promises';
 import { latinDrops } from './lib/latin-drop.mjs';
-import { UPCOMING, upcomingText } from './lib/ended-event-tense.mjs';
+import { UPCOMING, upcomingText, stackedSchedule } from './lib/ended-event-tense.mjs';
 import { existsSync, readFileSync } from 'node:fs';
 import { srcHashOfPostFile, storedHashIn } from './lib/src-hash.mjs';
 import { join } from 'node:path';
@@ -138,6 +138,21 @@ const REGISTER = {
   Spanish: 'Use neutral, polished written Spanish (usted-neutral, no regional slang).',
 };
 
+// How to say "the schedule was" for a FINISHED event, per language — injected
+// only for that language, for the reason given above REGISTER. Until
+// 2026-09-29 the ended-event rule showed every language the Korean example
+// "…열릴 예정이었습니다" and told the model to use it for EVERY scheduling
+// statement. It did: 31 Korean, 22 Japanese and 6 Chinese finished events said
+// "scheduled" two or three times in one paragraph, and stacked like that the
+// sentence reads as a plan that fell through. 픽서님 took the Verona opera
+// festival, which ran to its closing night, for a cancelled one.
+const ENDED_SCHEDULE = {
+  Korean: 'Give the dates once as the schedule — "일정은 2026년 9월 20~24일이었습니다", or "2026년 9월 20~24일 일정의 (event)". Any other date is a plain fact about that schedule ("결승 일정은 9월 5일, 장소는 호찌민시였습니다"). Use 예정 at most once in a title, description, answer or paragraph, and never the form "열릴 예정이었던": Korean reads that as an event that was called off.',
+  Japanese: 'Give the dates once as the schedule — "会期は2026年9月20日〜24日でした". Any other date is a plain fact about that schedule ("決勝は9月5日、会場はホーチミン市でした"). Use 予定 at most once in a title, description, answer or paragraph.',
+  'Simplified Chinese': 'Give the dates once as the schedule — "日程为2026年9月20日至24日". Any other date is a plain fact about that schedule ("决赛日期为9月5日，地点为胡志明市"). Do not write 原定: it tells a Chinese reader the plan was changed. Never write 定于, 将于 or 将在.',
+  Spanish: 'Give the dates once as the schedule — "Las fechas anunciadas eran del 20 al 24 de septiembre de 2026". Any other date is a plain fact about that schedule ("la final era el 5 de septiembre, en Ciudad Ho Chi Minh"). Use prevista/programada at most once in a title, description, answer or paragraph.',
+};
+
 function prompt(langName, data) {
   return `Rewrite this English travel guide in ${langName}, as if a native ${langName} travel editor had written it from scratch. Every word of your output must be in ${langName}.
 
@@ -160,8 +175,9 @@ RULES
 - Keep the same number of FAQ items, in the same order.
 - Do not add, remove, or embellish facts. Do not add a translator's note.
 ${data.ended ? `- This event has ALREADY TAKEN PLACE. The source is written as a record of what was announced; keep it that way.
-  · TENSE: English can state a date without a tense ("The dates are September 3 and 4"), but Korean, Japanese and Chinese must choose one, and choosing the present makes a finished event read as upcoming. Render every scheduling statement as WHAT WAS ANNOUNCED, in the past: "was scheduled for", "were to be held", "the announced dates were". In Korean that is "…열릴 예정이었습니다", never "…열립니다".
-  · But do NOT claim the event actually happened. "was scheduled to open" is right; "was held", "took place", "went ahead" are outcomes the source does not state.
+  · TENSE: English can state a date without a tense ("The dates are September 3 and 4"), but Korean, Japanese and Chinese must choose one, and choosing the present makes a finished event read as upcoming. Write it as a record of what was announced, in the past — but say "scheduled" ONCE. Repeated ("was scheduled… was to be held… was planned…") it reads as a plan that fell through, and nothing says this one did.${ENDED_SCHEDULE[langName] ? `\n  · ${langName}: ${ENDED_SCHEDULE[langName]}` : ''}
+  · But do NOT claim the event actually happened. "the schedule was" is right; "was held", "took place", "went ahead" are outcomes the source does not state.
+  · Plain voice. A closing signpost such as "What it was, when and where." is not content: render it as one short natural sentence or fold it into the sentence before. Never unfold it into a list of questions ("what it was, when and where it was to be held, what was announced…") — that reads as machine-written.
   · Drop nothing: a question like "Where can I eat before the show?" keeps its answer, but the framing follows the same rule — it describes what was there, not what a reader should do now.
   · Add no instruction to check, confirm, verify, book, reserve or arrive early.` : ''}
 
@@ -467,6 +483,18 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1, pre = null
         return translateOne(langCode, srcId, data, hash, attempt + 1);
       }
       throw new Error(`finished event still reads as upcoming in ${langCode} after ${attempt} attempts: ${upcoming.slice(0, 3).join(', ')}`);
+    }
+    // The opposite slip: "scheduled" said twice in one unit, which reads as a
+    // cancellation (lib/ended-event-tense.mjs). A matter of voice, not of fact,
+    // so the last attempt is kept rather than thrown away — a missing
+    // translation shows the reader English, which is worse than a stiff one.
+    const stacked = stackedSchedule(out, langCode);
+    if (stacked) {
+      if (attempt < 3) {
+        console.log(`     ↻ ${langCode}/${srcId} — finished event says "scheduled" twice in ${stacked.unit}, retrying (attempt ${attempt + 1})`);
+        return translateOne(langCode, srcId, data, hash, attempt + 1);
+      }
+      console.log(`     ⚠ ${langCode}/${srcId} — still stacks "scheduled" in ${stacked.unit} after ${attempt} attempts; kept`);
     }
   }
 

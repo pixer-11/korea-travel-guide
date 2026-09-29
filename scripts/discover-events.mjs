@@ -27,6 +27,8 @@ import { eventSchemaName, eventProperName, eventAcronym } from '../src/lib/event
 import { normalizeOffer, normalizePerformer } from '../src/lib/eventOffers.mjs';
 import yaml from 'js-yaml';
 import { slugify } from './lib/slugify.mjs';
+import { clip } from './lib/serp.mjs';
+import { bracketsBalanced, endsInAbbreviation } from '../src/lib/sentence-boundary.mjs';
 import { writeArticle } from './lib/writer.mjs';
 import { resolveHero, loadUsedImageUrls, eventTopic } from './lib/images.mjs';
 import { isImageAllowed } from './lib/guardrails.mjs';
@@ -319,9 +321,25 @@ async function writeDiscovered(item, ctx) {
     }
   }
 
+  // The meta description is the answer-first summary, clipped on a sentence —
+  // the rule generate.mjs has used for every place guide since 08-01
+  // (lib/serp.mjs). Until 2026-09-29 events got a fixed template instead:
+  // 83 live descriptions ended in the same "What it is, when and where, and how
+  // to plan around it.", a signpost that says nothing, reads as machine-written
+  // in every language it was translated into, and spends half the snippet.
+  // The template stays only as the fallback for an empty summary.
+  // Only a clip that ends as a sentence: a summary like "Seoul Jazz Festival
+  // tickets and lineup for September 2026" has no full stop, and validate-content
+  // would hold the post as TRUNCATED-DESCRIPTION (Codex, 2026-09-29). Same
+  // health test backfill-descriptions.mjs applies to the back catalogue.
+  const qaClip = clip(String(quickAnswer || '').trim().replace(/\s+/g, ' '));
+  const qaDesc = qaClip && /[.!?…](['"”’)\]]*)?$/.test(qaClip) && bracketsBalanced(qaClip) && !endsInAbbreviation(qaClip)
+    ? qaClip : '';
   const data = {
     title,
-    description: kind === 'event'
+    description: qaDesc
+      ? qaDesc
+      : kind === 'event'
       ? `${item.name} in ${item.city}, ${country}${item.date ? ` — ${item.date}` : ''}. What it is, when and where, and how to plan around it.`
       : `${item.name} in ${item.city}, ${country} — a new/trending spot: what it is, where it is, and how to visit.`,
     country, region: item.city, category: cat,

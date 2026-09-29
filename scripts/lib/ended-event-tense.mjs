@@ -65,3 +65,50 @@ export function upcomingText(out) {
     .filter(Boolean)
     .join('\n');
 }
+
+// ─────────────────────────────────────────────────────────────
+//  THE OPPOSITE FAILURE: "SCHEDULED" SAID OVER AND OVER.
+//
+//  2026-09-29: the prompt told Korean to render EVERY scheduling statement as
+//  "…열릴 예정이었습니다", so a single description read "바르셀로나의 라 메르세
+//  축제는 9월 20–24일에 열릴 예정이었습니다. 어떤 축제인지, 언제 어디서 열릴
+//  예정이었는지…". Stacked like that, Korean reads as a plan that fell through —
+//  픽서님 read the Verona opera festival (which ran to its last night) as
+//  cancelled. Census that day: 31 ko, 22 ja, 6 zh, 1 es of 181 finished events.
+//
+//  The rule is "say the schedule once, then write a plain record". This finds a
+//  unit (title, description, quick answer, one FAQ answer, one body paragraph)
+//  that says it twice, and the Korean adnominal 열릴 예정이었던 even once — "the
+//  X that was to be held" is how Korean introduces something that did not happen.
+// ─────────────────────────────────────────────────────────────
+export const PLANNED = {
+  ko: /예정/g,
+  ja: /予定/g,
+  // Word-bounded: without it "imprevistos" (the unforeseen) counted as a second
+  // "previsto" and sent a clean translation back twice (Codex, 2026-09-29).
+  es: /\b(?:previst|programad)[oa]s?\b/gi,
+  zh: /原定|预定|计划于/g,
+};
+export const READS_CANCELLED = {
+  ko: /(?:열릴|개최될|진행될|펼쳐질) 예정이었던/,
+};
+
+/** First unit that stacks the "scheduled" word, as { unit, text }, or null. */
+export function stackedSchedule(out, lang) {
+  const re = PLANNED[lang];
+  if (!re) return null;
+  const answers = Array.isArray(out?.faq) ? out.faq.map((f) => f?.a).filter(Boolean) : [];
+  const paras = String(out?.body || '').split(/\n\s*\n/);
+  const units = [
+    ['title', out?.title], ['description', out?.description], ['quickAnswer', out?.quickAnswer],
+    ...answers.map((a, i) => [`faq${i + 1}`, a]),
+    ...paras.map((p, i) => [`body¶${i + 1}`, p]),
+  ];
+  for (const [unit, text] of units) {
+    if (!text) continue;
+    const s = String(text);
+    if ((s.match(new RegExp(re.source, re.flags)) || []).length >= 2) return { unit, text: s };
+    if (READS_CANCELLED[lang]?.test(s)) return { unit, text: s };
+  }
+  return null;
+}

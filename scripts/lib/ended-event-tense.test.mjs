@@ -6,7 +6,7 @@
 // 그래서 이 테스트는 **모든 항목이 실제 문장에서 발화하는지**를 검사한다.
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { UPCOMING, upcomingText } from './ended-event-tense.mjs';
+import { UPCOMING, upcomingText, stackedSchedule, PLANNED } from './ended-event-tense.mjs';
 
 // 각 패턴이 실제로 잡아야 하는 문장. 새 패턴을 넣으면 여기에도 넣어야 한다.
 const FIRES = {
@@ -101,4 +101,60 @@ test('검사 범위: faq 가 없거나 이상해도 죽지 않는다', () => {
   assert.equal(upcomingText({ title: 'x', faq: null }), 'x');
   assert.equal(upcomingText({ title: 'x', faq: [null, { q: 'q' }] }), 'x');
   assert.equal(upcomingText(null), '');
+});
+
+// ── "예정" 겹쌓기 (2026-09-29) ─────────────────────────────────────────
+// 실제로 라이브에 나가 있던 문장들이다. 이렇게 겹치면 취소된 행사처럼 읽힌다.
+test('겹쌓기: 실제 라이브 문장에서 발화한다', () => {
+  const live = {
+    ko: '인도네시아 발리에서 열릴 예정이었던 데크맨텔 x 포테이토 헤드는 2026년 9월 25일로 예정되어 있었습니다.',
+    ja: 'ラ・メルセ祭は9月20日から24日にかけて開催される予定でした。無料の催しが予定されており、パレードが行われる予定でした。',
+    zh: '总决赛原定于9月5日在胡志明市举行，赛程原定为一个月。',
+    es: 'La edición estaba prevista del 21 de agosto al 6 de septiembre y la final estaba programada para el 6.',
+  };
+  for (const [lang, sentence] of Object.entries(live)) {
+    assert.ok(stackedSchedule({ description: sentence }, lang), `${lang}: 겹쌓기를 못 잡았다`);
+  }
+});
+
+test('겹쌓기: 한국어 "열릴 예정이었던" 은 한 번만 나와도 잡는다', () => {
+  assert.ok(stackedSchedule({ quickAnswer: '베로나에서 열릴 예정이었던 오페라 축제입니다.' }, 'ko'));
+});
+
+test('🛑 새로 권하는 담백한 문장은 두 검사기 어디에도 안 걸린다 — 걸리면 재시도가 영원히 돈다', () => {
+  const plain = {
+    ko: '라 메르세 축제의 일정은 2026년 9월 20~24일이었습니다. 결승 일정은 9월 5일, 장소는 호찌민시였습니다.',
+    ja: '会期は2026年9月20日〜24日でした。決勝は9月5日、会場はホーチミン市でした。',
+    zh: '日程为2026年9月20日至24日。决赛日期为9月5日，地点为胡志明市。',
+    es: 'Las fechas anunciadas eran del 20 al 24 de septiembre de 2026; la final era el 5 de septiembre, en Ciudad Ho Chi Minh.',
+  };
+  for (const [lang, sentence] of Object.entries(plain)) {
+    assert.equal(stackedSchedule({ description: sentence, body: sentence }, lang), null, `${lang}: 담백한 문장이 겹쌓기로 걸렸다`);
+    for (const re of UPCOMING[lang]) {
+      assert.equal(new RegExp(re.source, re.flags).test(sentence), false, `${lang}: 담백한 문장이 "${re.source}" 에 걸렸다`);
+    }
+  }
+});
+
+test('겹쌓기: 단위는 칸·문단별이다 — 서로 다른 칸에 한 번씩은 정상', () => {
+  const out = {
+    description: '2026년 9월 25일 일정으로 예정된 공연입니다.',
+    quickAnswer: '티켓은 8월 판매 예정이었습니다.',
+    body: '첫 문단에 예정 한 번.\n\n둘째 문단에도 예정 한 번.',
+  };
+  assert.equal(stackedSchedule(out, 'ko'), null);
+  assert.equal(stackedSchedule({ body: '예정 한 번. 같은 문단에 예정 또.' }, 'ko').unit, 'body¶1');
+});
+
+test('겹쌓기: 스페인어는 단어 안의 부분 문자열을 세지 않는다 (imprevistos)', () => {
+  const s = 'El concierto estaba previsto para el 20 de septiembre; el recinto disponía de accesos alternativos para imprevistos.';
+  assert.equal(stackedSchedule({ body: s }, 'es'), null);
+  assert.ok(stackedSchedule({ body: 'Estaba previsto el 20 y la final estaba programada el 21.' }, 'es'), '진짜 두 번은 여전히 잡는다');
+});
+
+test('겹쌓기: 모든 언어에 어휘가 있고, 없는 언어·빈 입력에 죽지 않는다', () => {
+  for (const lang of ['ko', 'ja', 'es', 'zh']) assert.ok(PLANNED[lang], `${lang} 어휘 없음`);
+  assert.equal(stackedSchedule({ title: 'x' }, 'fr'), null);
+  assert.equal(stackedSchedule(null, 'ko'), null);
+  assert.equal(stackedSchedule({ faq: [null, { q: 'q' }] }, 'ko'), null);
 });
