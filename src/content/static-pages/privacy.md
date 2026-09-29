@@ -1,22 +1,47 @@
 ---
 metaTitle: "Privacy Policy"
-metaDescription: "Privacy policy for Wander Atlas — what data is collected and how it is used."
+metaDescription: "Privacy policy for Wander Atlas — what data is collected, which services process it, and the choices you have."
 eyebrow: "Legal"
 h1: "Privacy Policy"
-lastUpdated: "2026-08-04"
+lastUpdated: "2026-09-29"
 ---
 
-This policy explains what information Wander Atlas (the "Site") collects and how it is used. Review it before running ads or analytics, and update the specifics to match the tools you actually enable.
+This policy explains what information Wander Atlas (the "Site"), an independent travel publication run by its editor, Pixer, collects, which services process it, and the choices you have.
 
 ## Information we collect
 
-The Site is primarily a static publication and does not require you to create an account. We do not intentionally collect personal information from visitors. If you email us, we receive the information you choose to send.
+You can read the Site without creating an account. We collect personal information only in these cases:
 
-## Cookies, analytics & advertising
+- **Newsletter.** If you subscribe, we collect your email address and the preferences you choose (your language and the region you want to hear about). The list is stored and sent by our email provider, [MailerLite](https://www.mailerlite.com/legal/privacy-policy), and is used only to send the newsletter you asked for. You can unsubscribe or change your preferences at any time from the link in every email.
+- **Email to us.** If you write to us, we receive the information you choose to send and use it only to reply.
+- **Server logs.** Like any website, our hosting provider automatically processes technical data such as IP address, browser type and the page requested, to deliver pages and protect the Site against abuse.
 
-If enabled, the Site may use analytics and advertising partners (for example, Google Analytics and Google AdSense) that set cookies or use similar technologies to measure traffic and serve relevant ads. These third parties may collect information such as your IP address, device and browser type, and pages viewed, in accordance with their own privacy policies. Google's use of advertising cookies is described in Google's Privacy & Terms.
+We do not sell or rent your personal information.
 
-You can control or disable cookies through your browser settings, and you can opt out of personalized advertising through your ad settings with the relevant provider.
+## Analytics
+
+We measure traffic with [Plausible Analytics](https://plausible.io/privacy-focused-web-analytics), a privacy-friendly tool that does not use cookies and does not collect personal data. It gives us aggregate statistics only (for example, how many people visited a page and which country or website they came from).
+
+## Information stored on your device
+
+Some features save small pieces of information in your own browser (local storage), such as places you save to "My trip" and whether you have already closed the newsletter prompt. This information stays on your device, is not sent to us, and can be cleared at any time from your browser settings.
+
+## Affiliate links and partner services
+
+Some links on the Site are affiliate links to travel services (for example, Klook and partners of the Travelpayouts network such as Aviasales, Kiwitaxi, Localrent and Yesim). If you click one and make a booking, we may earn a commission at no extra cost to you. These links are marked, and they never affect what we write.
+
+When you follow an affiliate link, or use a partner search widget shown on some pages (such as the flight search), the partner may set cookies or collect information to track the referral and provide its service. That processing is governed by the partner's own privacy policy.
+
+## Advertising
+
+The Site does not currently display ads. If we begin showing ads, for example through Google AdSense, the following will apply:
+
+- Third-party vendors, including Google, use cookies to serve ads based on your prior visits to this website or other websites.
+- Google's use of advertising cookies enables it and its partners to serve ads to you based on your visits to this Site and/or other sites on the Internet. You can learn more in [How Google uses information from sites or apps that use its services](https://policies.google.com/technologies/partner-sites).
+- You can opt out of personalized advertising by visiting [Google Ads Settings](https://adssettings.google.com). You can also opt out of some third-party vendors' use of cookies for personalized advertising at [www.aboutads.info](https://www.aboutads.info/choices/) or, in Europe, [www.youronlinechoices.eu](https://www.youronlinechoices.eu/).
+- Visitors in the European Economic Area, the United Kingdom and Switzerland will be asked for consent through a consent tool before such cookies are used.
+
+We will update this policy when ads are turned on.
 
 ## Pinterest API
 
@@ -28,9 +53,13 @@ If we disconnect the account — or if you revoke our access from your Pinterest
 
 We do not sell, resell, license, redistribute, or otherwise make Pinterest content or Pinterest-derived data available to any third party, and we do not use it for advertising or profiling.
 
+## How long we keep data
+
+We keep your newsletter email address until you unsubscribe, and emails you send us for as long as needed to answer them. Analytics data is aggregate and contains no personal data.
+
 ## Your choices (GDPR / CCPA)
 
-Depending on where you live, you may have rights to access, correct, or delete personal data held about you, or to object to certain processing. To make a request, contact us at the address below.
+Depending on where you live, you may have rights to access, correct, or delete personal data held about you, to object to or restrict certain processing, and to withdraw consent at any time. We do not sell personal information. To make a request, contact us at the address below.
 
 ## Children
 
