@@ -1,10 +1,16 @@
 name: Check affiliate program status
 
-# Once a day, check whether the Travelpayouts flight/hotel programs are live for
-# our marker (the Hotellook widget starts returning content on approval). When it
-# flips to LIVE, open a one-time GitHub issue so you get an email — no need to
-# watch the dashboard. The site already shows the widgets automatically on
-# approval, so this is purely a notification.
+# Once a day, follow every affiliate link the site ships (Travelpayouts
+# shortlinks found in src/, the /go/klook hotel route, the partner widgets) and
+# confirm each still reaches the partner with our marker 754088 attached.
+# A broken link fails the job, and job-failure-alert.yml (which lists this
+# workflow BY NAME — keep the name) sends the Telegram alert.
+#
+# Until 2026-09-29 this waited for the Hotellook widget to "go live" and opened
+# a GitHub issue when it did. Hotellook closed on 2025-10-20 and the site stopped
+# using it on 09-23, so that check could only ever print PENDING. The Kiwitaxi
+# typo of 07-21 (six days of 404, found by chance) is the kind of break this
+# catches now.
 on:
   schedule:
     - cron: '11 7 * * *' # 07:11 UTC daily (off the hour)
@@ -12,7 +18,6 @@ on:
 
 permissions:
   contents: read
-  issues: write
 
 jobs:
   check:
@@ -23,21 +28,5 @@ jobs:
         with:
           node-version: 24
 
-      - name: Check Hotellook/Aviasales status
-        id: status
+      - name: Follow every affiliate link and check the marker
         run: node scripts/check-affiliate-status.mjs
-
-      - name: Notify once when live
-        if: steps.status.outputs.live == 'true'
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          # Only open the issue the first time (don't spam on later runs).
-          existing=$(gh issue list --state all --search "Affiliate programs are LIVE in:title" --json number --jq 'length')
-          if [ "$existing" = "0" ]; then
-            gh issue create \
-              --title "🎉 Affiliate programs are LIVE" \
-              --body "The Travelpayouts flight (Aviasales) and hotel (Hotellook) programs are now approved for marker 754088. The hotel blocks now appear on posts and flight search works — no action needed. You can disable this workflow (.github/workflows/affiliate-status.yml)."
-          else
-            echo "Already notified — skipping."
-          fi
