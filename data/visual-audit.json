@@ -613,6 +613,12 @@
   "reason": "publish gate: Historic stone buildings with tin roofs, matches site",
   "at": "2026-09-28T16:56:27.846Z"
  },
+ "alice-springs-anzac-hill\u0001https://upload.wikimedia.org/wikipedia/commons/8/8a/Anzac_hill_stairs.jpg": {
+  "slug": "alice-springs-anzac-hill",
+  "verdict": "MATCH",
+  "reason": "publish gate: Hill with flag atop, matches ANZAC Hill viewpoint",
+  "at": "2026-09-29T07:48:15.650Z"
+ },
  "alishan-alishan-forest-railway-garage-park\u0001https://upload.wikimedia.org/wikipedia/commons/6/64/Alishan_Forest_Railway_Garage_Park_20160730.jpg": {
   "slug": "alishan-alishan-forest-railway-garage-park",
   "verdict": "MATCH",
@@ -4016,6 +4022,12 @@
   "reasonKo": "맨모 사원의 상징적 향 소용돌이",
   "at": "2026-08-19T13:28:21.224Z"
  },
+ "central-stone-slab-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Pottinger_Street_stone_steps_at_the_bottom.JPG/3840px-Pottinger_Street_stone_steps_at_the_bottom.JPG": {
+  "slug": "central-stone-slab-street",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Central Hong Kong street stairs with shops, plausible venue",
+  "at": "2026-09-29T07:45:15.452Z"
+ },
  "central-tai-kwun\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/HK_%E4%B8%AD%E7%92%B0_Central_%E5%A4%A7%E9%A4%A8_Tai_Kwun_September_2024_R12S_15.jpg/3840px-HK_%E4%B8%AD%E7%92%B0_Central_%E5%A4%A7%E9%A4%A8_Tai_Kwun_September_2024_R12S_15.jpg": {
   "slug": "central-tai-kwun",
   "verdict": "MATCH",
@@ -4034,6 +4046,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Mountain wildlife park landscape near Chamonix, plausible representative view",
   "at": "2026-09-20T07:49:50.794Z"
+ },
+ "chamonix-telepherique-aiguille-du-midi\u0001https://upload.wikimedia.org/wikipedia/commons/7/75/Chamonix_-_Le_Telepherique_de_l_aiguille_du_midi_-_panoramio.jpg": {
+  "slug": "chamonix-telepherique-aiguille-du-midi",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Aiguille du Midi station building with mountains, Chamonix",
+  "at": "2026-09-29T07:50:37.934Z"
  },
  "chandigarh-quick-style-india-tour-2026\u0001https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Soudal_Quick-Step_at_stage_3_team_presentation_of_Itzulia_Basque_Country_Tour_2024.jpg/3840px-Soudal_Quick-Step_at_stage_3_team_presentation_of_Itzulia_Basque_Country_Tour_2024.jpg": {
   "slug": "chandigarh-quick-style-india-tour-2026",
@@ -4998,6 +5016,12 @@
   "reasonKo": "알카사르 궁전 안뜰과 특징적 구조",
   "at": "2026-08-15T13:11:08.969Z"
  },
+ "cordoba-cordoba-synagogue\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/West_wall_of_the_Synagogue_of_C%C3%B3rdoba.JPG/1920px-West_wall_of_the_Synagogue_of_C%C3%B3rdoba.JPG": {
+  "slug": "cordoba-cordoba-synagogue",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior wall with Moorish-style carvings, plausible synagogue detail",
+  "at": "2026-09-29T07:40:06.642Z"
+ },
  "cordoba-mercado-victoria\u0001https://upload.wikimedia.org/wikipedia/commons/7/71/Mercado_Victoria_La_Gamba_de_ORO_Stand_de_pescado_y_marisco.jpg": {
   "slug": "cordoba-mercado-victoria",
   "verdict": "MATCH",
@@ -5790,6 +5814,12 @@
   "reason": "Renaissance fresco from Palazzo Vecchio interior",
   "at": "2026-07-27T12:46:59.950Z"
  },
+ "florence-ponte-vecchio\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ponte_Vecchio_from_Ponte_alle_Grazie.jpg/1920px-Ponte_Vecchio_from_Ponte_alle_Grazie.jpg": {
+  "slug": "florence-ponte-vecchio",
+  "verdict": "MATCH",
+  "reason": "publish gate: Accurate iconic view of Ponte Vecchio in Florence",
+  "at": "2026-09-29T07:39:07.588Z"
+ },
  "florence-uffizi-galleries\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Uffizi_Gallery%2C_Florence-2.jpg/1920px-Uffizi_Gallery%2C_Florence-2.jpg": {
   "slug": "florence-uffizi-galleries",
   "verdict": "MATCH",
@@ -5807,6 +5837,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Represents Fremantle Prison exterior, historic building complex.",
   "at": "2026-09-28T16:57:27.233Z"
+ },
+ "fremantle-wa-shipwrecks-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Boola_bardip_151120_gnangarra-101.jpg/1920px-Boola_bardip_151120_gnangarra-101.jpg": {
+  "slug": "fremantle-wa-shipwrecks-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Historic building matching WA Shipwrecks Museum in Fremantle",
+  "at": "2026-09-29T07:52:17.579Z"
  },
  "fujairah-al-bithnah-fort\u0001https://upload.wikimedia.org/wikipedia/commons/5/56/Al_Bithnah_Fort%2C_Fujairah%2C_UAE.jpg": {
   "slug": "fujairah-al-bithnah-fort",
@@ -6757,6 +6793,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Outdoor market stall with vegetables, plausible Ha Giang scene",
   "at": "2026-09-24T07:38:10.384Z"
+ },
+ "ha-long-bay-dau-go-cave\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Dau_Go_cave%2C_H%E1%BA%A1_Long_Bay%2C_Vietnam_%2854146979492%29.jpg/3840px-Dau_Go_cave%2C_H%E1%BA%A1_Long_Bay%2C_Vietnam_%2854146979492%29.jpg": {
+  "slug": "ha-long-bay-dau-go-cave",
+  "verdict": "MATCH",
+  "reason": "publish gate: Cave interior with light beam, representative of Dau Go Cave",
+  "at": "2026-09-29T07:41:58.907Z"
  },
  "ha-long-bay-ha-long-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Local_merchants_in_Ha_Long_Bay.jpg/3840px-Local_merchants_in_Ha_Long_Bay.jpg": {
   "slug": "ha-long-bay-ha-long-market",
@@ -7956,6 +7998,12 @@
   "reason": "Generic cityscape, not restaurant interior/exterior",
   "at": "2026-07-25T02:44:20.819Z"
  },
+ "hyderabad-purani-haveli\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Purani_Haveli_-_Nizam_Palace_Exterior_%282%29.jpg/1920px-Purani_Haveli_-_Nizam_Palace_Exterior_%282%29.jpg": {
+  "slug": "hyderabad-purani-haveli",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior facade of historic Purani Haveli building shown",
+  "at": "2026-09-29T07:40:59.729Z"
+ },
  "ibiza-castle-of-ibiza\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ibiza_castle_%287101908669%29.jpg/1920px-Ibiza_castle_%287101908669%29.jpg": {
   "slug": "ibiza-castle-of-ibiza",
   "verdict": "MATCH",
@@ -9141,6 +9189,12 @@
   "reason": "Tropical beach with turquoise waters, white sand, island vis",
   "at": "2026-07-25T02:44:51.018Z"
  },
+ "jeju-jeju-mok-government-office\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/%EC%A0%9C%EC%A3%BC%EB%AA%A9_%EA%B4%80%EC%95%84_%EC%A0%84%EA%B2%BD.jpg/1920px-%EC%A0%9C%EC%A3%BC%EB%AA%A9_%EA%B4%80%EC%95%84_%EC%A0%84%EA%B2%BD.jpg": {
+  "slug": "jeju-jeju-mok-government-office",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of traditional Korean government office complex, Jeju",
+  "at": "2026-09-29T07:47:16.128Z"
+ },
  "jeju-jeju-national-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Jeju_Island_20141129_10_%2815926202611%29.jpg/1920px-Jeju_Island_20141129_10_%2815926202611%29.jpg": {
   "slug": "jeju-jeju-national-museum",
   "verdict": "MATCH",
@@ -9830,6 +9884,12 @@
   "reason": "publish gate: Full temple facade shown, representative hero shot",
   "at": "2026-09-20T07:40:41.248Z"
  },
+ "kennedy-town-old-hong-kong\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Streets_of_Old_Hong_Kong%2C_Ocean_Park_%28Hong_Kong%29.jpg/3840px-Streets_of_Old_Hong_Kong%2C_Ocean_Park_%28Hong_Kong%29.jpg": {
+  "slug": "kennedy-town-old-hong-kong",
+  "verdict": "MATCH",
+  "reason": "publish gate: Old-style Hong Kong street with shops, signage, decorations",
+  "at": "2026-09-29T07:49:38.075Z"
+ },
  "kenting-eluanbi-lighthouse\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Eluanbi_Lighthouse_02.jpg/1920px-Eluanbi_Lighthouse_02.jpg": {
   "slug": "kenting-eluanbi-lighthouse",
   "verdict": "MATCH",
@@ -10091,6 +10151,12 @@
   "reason": "publish gate: Tropical beach with palms and rocks matches Koh Chang park",
   "at": "2026-08-24T08:20:12.168Z"
  },
+ "koh-chang-salak-khok-fishing-village\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Salak_Khok_Fishing_Village_bay.jpg/3840px-Salak_Khok_Fishing_Village_bay.jpg": {
+  "slug": "koh-chang-salak-khok-fishing-village",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of fishing village on river matches locale",
+  "at": "2026-09-29T07:43:42.501Z"
+ },
  "koh-phi-phi-hat-noppharat-thara-mu-ko-phi-phi-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Hat_Noppharat_Thara%E2%80%93Mu_Ko_Phi_Phi_National_Park.jpg/3840px-Hat_Noppharat_Thara%E2%80%93Mu_Ko_Phi_Phi_National_Park.jpg": {
   "slug": "koh-phi-phi-hat-noppharat-thara-mu-ko-phi-phi-national-park",
   "verdict": "MATCH",
@@ -10191,6 +10257,12 @@
   "reason": "Coastal bay view matches Koh Tao Thailand setting",
   "reasonKo": "태국 코타오의 해변 풍경과 일치",
   "at": "2026-08-16T13:14:56.225Z"
+ },
+ "koh-tao-mae-haad-pier\u0001https://upload.wikimedia.org/wikipedia/commons/3/3d/Haven_op_koh_tao-mae_haad_bay_-_panoramio.jpg": {
+  "slug": "koh-tao-mae-haad-pier",
+  "verdict": "MATCH",
+  "reason": "publish gate: Pier, boats, and harbor scene consistent with Koh Tao",
+  "at": "2026-09-29T07:51:38.319Z"
  },
  "koh-tao-view-point-resort\u0001https://upload.wikimedia.org/wikipedia/commons/0/0c/View_Point_resort_view_-_panoramio.jpg": {
   "slug": "koh-tao-view-point-resort",
@@ -13567,6 +13639,12 @@
   "reasonKo": "현대 박물관 건축, 뉴델리 스타일",
   "at": "2026-08-16T13:15:07.081Z"
  },
+ "new-delhi-purana-qila\u0001https://upload.wikimedia.org/wikipedia/commons/9/98/Purana_Qila_01.jpg": {
+  "slug": "new-delhi-purana-qila",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Purana Qila's iconic gate and fort walls",
+  "at": "2026-09-29T07:38:20.908Z"
+ },
  "new-delhi-safdarjung-tomb-delhi\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Safdarjung_tomb_new_delhi_rj.jpg/3840px-Safdarjung_tomb_new_delhi_rj.jpg": {
   "slug": "new-delhi-safdarjung-tomb-delhi",
   "verdict": "MATCH",
@@ -15192,6 +15270,12 @@
   "reason": "publish gate: Shows dinosaur statues and gardens matching Nong Nooch",
   "at": "2026-08-29T13:14:46.674Z"
  },
+ "pattaya-pattaya-beach\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pattaya_beach_from_view_point.jpg/1920px-Pattaya_beach_from_view_point.jpg": {
+  "slug": "pattaya-pattaya-beach",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Pattaya Beach bay and cityscape",
+  "at": "2026-09-29T07:42:54.575Z"
+ },
  "pattaya-pattaya-international-fireworks-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Skyline_of_Pattaya_city_from_the_Ocean_Lana%2C_Cafe_Ferry.jpg/3840px-Skyline_of_Pattaya_city_from_the_Ocean_Lana%2C_Cafe_Ferry.jpg": {
   "slug": "pattaya-pattaya-international-fireworks-festival-2026",
   "verdict": "MATCH",
@@ -15278,6 +15362,12 @@
   "reason": "Kek Lok Si Temple with distinctive architecture, pagoda, gol",
   "reasonKo": "겔록시 사원의 특징적인 건축과 탑, 금색 지붕",
   "at": "2026-08-19T13:29:45.995Z"
+ },
+ "penang-penang-street-art\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Georgetown_penang_street_arts.jpg/3840px-Georgetown_penang_street_arts.jpg": {
+  "slug": "penang-penang-street-art",
+  "verdict": "MATCH",
+  "reason": "publish gate: Man posing with Penang street mural, representative art scene",
+  "at": "2026-09-29T07:53:23.226Z"
  },
  "penang-pinang-peranakan-mansion\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pinang_Peranakan_Mansion_%28I%29.jpg/1920px-Pinang_Peranakan_Mansion_%28I%29.jpg": {
   "slug": "penang-pinang-peranakan-mansion",
@@ -19045,6 +19135,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows pier docks with boats at Sun Moon Lake",
   "at": "2026-09-26T07:48:02.892Z"
+ },
+ "sun-moon-lake-sun-moon-lake-national-scenic-area\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sun_Moon_Lake_National_Scenic_Area_Administration_20131212.jpg/3840px-Sun_Moon_Lake_National_Scenic_Area_Administration_20131212.jpg": {
+  "slug": "sun-moon-lake-sun-moon-lake-national-scenic-area",
+  "verdict": "MATCH",
+  "reason": "publish gate: Entrance of Sun Moon Lake National Scenic Area Administration building",
+  "at": "2026-09-29T07:46:21.266Z"
  },
  "sun-moon-lake-year-of-steps-at-wenwu-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Year_of_Steps_at_Wenwu_Temple.jpg/3840px-Year_of_Steps_at_Wenwu_Temple.jpg": {
   "slug": "sun-moon-lake-year-of-steps-at-wenwu-temple",

@@ -26,8 +26,8 @@
    "hits": 8
   },
   "waterfront": {
-   "attempts": 44,
-   "hits": 4
+   "attempts": 45,
+   "hits": 5
   },
   "museum": {
    "attempts": 134,
@@ -38,8 +38,8 @@
    "hits": 0
   },
   "old quarter": {
-   "attempts": 92,
-   "hits": 48
+   "attempts": 119,
+   "hits": 61
   },
   "local market": {
    "attempts": 166,
@@ -50,7 +50,7 @@
    "hits": 6
   },
   "seafood": {
-   "attempts": 65,
+   "attempts": 66,
    "hits": 2
   },
   "hidden gem": {
@@ -86,8 +86,8 @@
    "hits": 0
   },
   "top attraction": {
-   "attempts": 24,
-   "hits": 14
+   "attempts": 26,
+   "hits": 16
   },
   "grill": {
    "attempts": 36,
@@ -190,5 +190,5 @@
    "hits": 1
   }
  },
- "updated": "2026-09-28T17:09:00.067Z"
+ "updated": "2026-09-29T07:53:23.244Z"
 }

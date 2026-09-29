@@ -30106,13 +30106,6 @@
   "worst": "여행 가방을 영어 페이퍼백으로 가득 채우려 하기보다는, 가볍게 둘러보는 마음으로 방문하시는 편이 좋습니다.",
   "at": "2026-09-28T07:59:02.223Z"
  },
- "ko/bengaluru-chet-faker-a-love-for-strangers-tour": {
-  "hash": "e48486c9f2a8",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "다만 지하철 운행 시간이 심야에는 제한적이라, 공연 후 귀가 수단으로는 지하철을 배제할 수밖에 없는 상황이었습니다.",
-  "at": "2026-09-28T07:59:04.149Z"
- },
  "ko/boston-faneuil-hall-marketplace": {
   "hash": "911b9844d2e6",
   "score": 1,
@@ -30351,13 +30344,6 @@
   "worst": "",
   "at": "2026-09-28T16:01:18.585Z"
  },
- "ko/barcelona-chambacu": {
-  "hash": "ad19327467c0",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "코스 요리를 제대로 즐기고 싶다면 예약할 때 그냥 '테이블'을 달라고 하기보다 코스 요리 공간을 콕 집어 요청해야 할 가능성이 큽니다.",
-  "at": "2026-09-28T16:01:19.553Z"
- },
  "ko/cebu-twist-buckle": {
   "hash": "34f5bbb8f56b",
   "score": 1,
@@ -30371,20 +30357,6 @@
   "registerBreak": false,
   "worst": "이 집은 요일과 관계없이 매일 오전 9시부터 오후 7시까지 같은 시간에 운영합니다.",
   "at": "2026-09-28T16:01:21.280Z"
- },
- "ko/daegu-donghwasa": {
-  "hash": "78dd22ee0607",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "법당 하나가 아니라, 산비탈을 따라 마당과 문, 전각들이 겹겹이 이어지는 넓은 사찰 단지이기 때문입니다.",
-  "at": "2026-09-28T16:01:28.432Z"
- },
- "ko/daegu-seomun-market": {
-  "hash": "55aea56ea3a6",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "이곳의 혼잡도는 평일과 주말 오전에는 이례적으로 평탄한 편이라, 오전 9시부터 오후 6시까지 내내 비교적 여유롭습니다.",
-  "at": "2026-09-28T16:01:30.595Z"
  },
  "ko/davao-malagos-garden-resort": {
   "hash": "37ae49d330b6",
@@ -30449,13 +30421,6 @@
   "worst": "각 기둥은 1971년 연방에 서명한 일곱 개 토후국을 하나씩 상징합니다.",
   "at": "2026-09-28T16:01:51.847Z"
  },
- "ko/dubai-def-leppard-live-in-concert": {
-  "hash": "c4aca3fe0884",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "그리고 시간대와 상관없이, 이곳에서 보내는 저녁은 두 가지 기후를 오가게 됩니다.",
-  "at": "2026-09-28T16:01:53.067Z"
- },
  "ko/dubai-amr-diab-live-in-dubai": {
   "hash": "7dab97313c4b",
   "score": 1,
@@ -30463,33 +30428,12 @@
   "worst": "멋스럽게 늦게 도착하는 현지 관행을 따르기보다는 개장 시간에 맞춰 가시는 편이 좋습니다.",
   "at": "2026-09-28T16:01:55.378Z"
  },
- "ko/dubai-nancy-ajram-live-in-dubai": {
-  "hash": "d542f8c1f7ea",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "관객들이 특정 곡을 특정 방식으로 듣기 위해 모이는 이런 공연에서는, 오프닝 곡이 시작되기 전에 미리 입장해 있는 것이 일찍 서두른 만큼의 가치가 있습니다.",
-  "at": "2026-09-28T16:01:58.105Z"
- },
  "ko/dubai-najwa-karam-live-in-dubai": {
   "hash": "df234109b2f2",
   "score": 1,
   "registerBreak": false,
   "worst": "이들에게 그녀의 콘서트는 단순한 배경음악이 아니라 하나의 진짜 이벤트로 여겨집니다.",
   "at": "2026-09-28T16:02:05.153Z"
- },
- "ko/dubai-dubai-summer-surprises-dss-2026": {
-  "hash": "37582ee98407",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "DSS 2026은 7월 3일부터 8월 30일까지 열릴 예정이었습니다.",
-  "at": "2026-09-28T16:02:07.004Z"
- },
- "ko/dubai-suteki": {
-  "hash": "1f61308351fc",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "스테키는 최근에 문을 열었고, 이는 두 가지 측면을 동시에 지닙니다.",
-  "at": "2026-09-28T16:02:07.383Z"
  },
  "ko/dubai-waterfront-market": {
   "hash": "b3bdebba2661",
@@ -30840,5 +30784,89 @@
   "registerBreak": false,
   "worst": "상층: \"기억과 이주(Memoria e Migrazioni)\"라는 이름의 전시로, 엘리스 아일랜드 스타일로 재현한 대기실과 선실을 통해 이탈리아 이민사를 다루는데 실제로 깊은 감동을 줍니다",
   "at": "2026-09-28T17:15:07.496Z"
+ },
+ "es/alice-springs-anzac-hill": {
+  "hash": "b5f300896d59",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-09-29T09:50:14.933Z"
+ },
+ "es/central-stone-slab-street": {
+  "hash": "a7df3a657573",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Los precios figuran en etiquetas o se preguntan.",
+  "at": "2026-09-29T09:50:16.883Z"
+ },
+ "es/chamonix-telepherique-aiguille-du-midi": {
+  "hash": "34a278f063ec",
+  "score": 2,
+  "registerBreak": false,
+  "worst": "Ese es su destino: a 3,842 metros de altitud, justo frente al Mont Blanc",
+  "at": "2026-09-29T09:51:47.655Z"
+ },
+ "ja/alice-springs-anzac-hill": {
+  "hash": "942b09d0b51a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "週末は午前9時〜午後9時に頂上が混雑します。その時間帯のさなかに訪れると、駐車場は満車で、手すり沿いにもずらりと人が並んでいるはずです。",
+  "at": "2026-09-29T09:50:28.004Z"
+ },
+ "ja/central-stone-slab-street": {
+  "hash": "461d00c2e5b7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "通りそのものは15〜30分ほどで歩けるので、そのまま周辺にも足を延ばしましょう。",
+  "at": "2026-09-29T09:50:30.387Z"
+ },
+ "ja/chamonix-telepherique-aiguille-du-midi": {
+  "hash": "70750f359fd1",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "駅舎の屋根から延びるケーブルの先には、空に描かれた絵のように見えるほど高い花崗岩の尖峰がそびえています。",
+  "at": "2026-09-29T09:50:37.563Z"
+ },
+ "ko/alice-springs-anzac-hill": {
+  "hash": "df0b5e101570",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-09-29T09:50:39.175Z"
+ },
+ "ko/central-stone-slab-street": {
+  "hash": "72a6a5142088",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "홈이 파인 계단식 바닥 덕분에 짐을 지거나 손수레를 끌고 비탈을 오르던 사람들이 미끄러지지 않을 수 있었고...",
+  "at": "2026-09-29T09:50:41.903Z"
+ },
+ "ko/chamonix-telepherique-aiguille-du-midi": {
+  "hash": "f065a5bd32f7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "케이블카가 펠르랭 빙하(Glacier des Pèlerins) 위 허공에 매달려 있는 것처럼 느껴집니다.",
+  "at": "2026-09-29T09:50:43.444Z"
+ },
+ "zh/alice-springs-anzac-hill": {
+  "hash": "87a23dc66aa0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "想弄清自己身处澳大利亚中部的什么位置，没有比这更快的办法了。",
+  "at": "2026-09-29T09:50:45.500Z"
+ },
+ "zh/central-stone-slab-street": {
+  "hash": "761efcc57caf",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-09-29T09:50:47.666Z"
+ },
+ "zh/chamonix-telepherique-aiguille-du-midi": {
+  "hash": "8c4c6807d8f4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这里��法国阿尔卑斯地区游客最多的景点之一，整套运营体系就是为应对大客流设计的。",
+  "at": "2026-09-29T09:50:52.756Z"
  }
 }
