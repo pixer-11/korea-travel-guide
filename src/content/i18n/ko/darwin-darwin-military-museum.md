@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: darwin-darwin-military-museum
-srcHash: '92369a3dc08c'
+srcHash: 'a7645633993d'
 title: 다윈 군사 박물관 여행 가이드 (4.6★)
-description: 다윈 군사 박물관(Darwin Military Museum)은 다윈 시내에서 차로 조금만 북쪽으로 달리면 닿는 이스트 포인트(East Point) 곶, 5434 Alec Fong Lim Dr, East Point에 있습니다. 평점 4.6★(리뷰 2,315개)를 받은 이곳의 방문객 후기와 운영 시간, 관람 팁을 정리했습니다.
+description: 다윈 군사 박물관(Darwin Military Museum)은 다윈 시내에서 차로 조금만 북쪽으로 달리면 닿는 이스트 포인트(East Point) 곶, 5434 Alec Fong Lim Dr, East Point에 있습니다. 평점 4.6★(리뷰 2,316개)를 받은 이곳의 방문객 후기와 운영 시간, 관람 팁을 정리했습니다.
 quickAnswer: 다윈 군사 박물관(Darwin Military Museum)은 다윈 시내에서 북쪽으로 차를 타고 조금만 가면 나오는 이스트 포인트(East Point) 곶, 5434 Alec Fong Lim Dr, East Point에 자리하고 있습니다. 가장 중요한 전시는 1942년 일본군의 다윈 공습을 멀티미디어로 풀어낸 '디펜스 오브 다윈 익스피리언스(Defence of Darwin Experience)'입니다. 관람에는 두세 시간 정도를 잡아 두시면 됩니다. 평일과 토요일에는 9:30am–4pm, 일요일에는 10am–3pm 동안 비교적 한산합니다. 다만 주말 11am에서 2pm 사이는 가장 붐비는 시간이므로 이때 도착하는 것은 피하시는 편이 좋습니다.
 faq:
   - q: 다윈 군사 박물관을 가장 한산하게 둘러볼 수 있는 시간은 언제인가요?

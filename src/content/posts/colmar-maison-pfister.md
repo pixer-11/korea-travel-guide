@@ -1,44 +1,50 @@
 ---
-title: "Maison Pfister: Colmar Travel Guide (4.7★)"
-description: "Maison Pfister is a painted Renaissance house from 1537 at 11 Rue des Marchands in Colmar's old town, a few minutes' walk from the Collégiale Saint-Martin. 4.7★ (866 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Colmar"
-category: "hidden-gem"
-pubDate: "2026-09-28T15:49:53.818Z"
+title: 'Maison Pfister: Colmar Travel Guide (4.7★)'
+description: >-
+  Maison Pfister is a painted Renaissance house from 1537 at 11 Rue des
+  Marchands in Colmar's old town, a few minutes' walk from the Collégiale
+  Saint-Martin. 4.7★ (868 reviews) — what visitors say, hours, and tips.
+country: France
+region: Colmar
+category: hidden-gem
+pubDate: '2026-09-28T15:49:53.818Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/3/39/Colmar-Maison_Pfister_%281%29.jpg"
-  credit: "Photo: Ji-Elle / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Colmar-Maison_Pfister_(1).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/3/39/Colmar-Maison_Pfister_%281%29.jpg
+  credit: 'Photo: Ji-Elle / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Colmar-Maison_Pfister_(1).jpg'
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Colmar-Maison_Pfister_%282%29.jpg"
-    credit: "Photo: Ji-Elle / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Colmar-Maison_Pfister_(2).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/0/0f/Colmar-Maison_Pfister_%282%29.jpg
+    credit: 'Photo: Ji-Elle / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Colmar-Maison_Pfister_(2).jpg'
 place:
-  id: "ChIJlROCTH5lkUcRGWWWsjuBQXY"
-  name: "Maison Pfister"
-  address: "11 Rue des Marchands, 68000 Colmar, France"
+  id: ChIJlROCTH5lkUcRGWWWsjuBQXY
+  name: Maison Pfister
+  address: '11 Rue des Marchands, 68000 Colmar, France'
   rating: 4.7
-  userRatingsTotal: 866
-  googleMapsUrl: "https://maps.google.com/?cid=8521234063360943385&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 868
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8521234063360943385&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 48.0767151
   lng: 7.358163900000001
   openingHours:
-    - "Monday: 10:00 AM – 7:00 PM"
-    - "Tuesday: 10:00 AM – 7:00 PM"
-    - "Wednesday: 10:00 AM – 7:00 PM"
-    - "Thursday: 10:00 AM – 7:00 PM"
-    - "Friday: 10:00 AM – 7:00 PM"
-    - "Saturday: 10:00 AM – 7:00 PM"
-    - "Sunday: 10:00 AM – 7:00 PM"
+    - 'Monday: 10:00 AM – 7:00 PM'
+    - 'Tuesday: 10:00 AM – 7:00 PM'
+    - 'Wednesday: 10:00 AM – 7:00 PM'
+    - 'Thursday: 10:00 AM – 7:00 PM'
+    - 'Friday: 10:00 AM – 7:00 PM'
+    - 'Saturday: 10:00 AM – 7:00 PM'
+    - 'Sunday: 10:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-09-28
+    updated: 2026-09-28T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 11
@@ -52,24 +58,46 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_59585142756a73575757475263556b6c354854434f526c4a496843"
+    venueId: ven_59585142756a73575757475263556b6c354854434f526c4a496843
 tags:
-  - "colmar"
-  - "old quarter"
-quickAnswer: "Maison Pfister is a painted Renaissance house from 1537 at 11 Rue des Marchands in Colmar's old town, a few minutes' walk from the Collégiale Saint-Martin. It's quietest on weekdays anywhere between 10am and 7pm; on weekends, try to avoid 12pm to 5pm. Plan on 15 to 20 minutes for the façade, then fold it into a walk to Petite Venise."
+  - colmar
+  - old quarter
+quickAnswer: >-
+  Maison Pfister is a painted Renaissance house from 1537 at 11 Rue des
+  Marchands in Colmar's old town, a few minutes' walk from the Collégiale
+  Saint-Martin. It's quietest on weekdays anywhere between 10am and 7pm; on
+  weekends, try to avoid 12pm to 5pm. Plan on 15 to 20 minutes for the façade,
+  then fold it into a walk to Petite Venise.
 faq:
-  - q: "When is the quietest time to visit Maison Pfister?"
-    a: "Weekdays are quiet right through the listed hours, from 10am to 7pm. On weekends, avoid 12pm to 5pm, when it gets busiest. Before noon or after 5pm on Saturday and Sunday is much calmer."
-  - q: "Can you go inside Maison Pfister?"
-    a: "It isn't a museum. The ground floor trades as a shop, with listed hours of 10am to 7pm every day. The painted façade, the wooden gallery and the corner oriel are what people come for, and you can see them all from the street at any time."
-  - q: "How do I get to Maison Pfister from Colmar station?"
-    a: "Walk roughly 15 to 20 minutes northeast through the Champ de Mars toward the Collégiale Saint-Martin. The house is at 11 Rue des Marchands, at the corner with Rue Mercière, a short walk from the church."
-  - q: "How long should I spend there?"
-    a: "Give it 15 to 20 minutes to read the murals from across the street and from up close. Then carry on to the Musée Bartholdi, the Koïfhus and Petite Venise, which are all within easy walking distance."
-  - q: "Is it worth seeing during the Christmas markets?"
-    a: "Yes. The old town is lit up from late November through December. It's also at its most crowded then, so come on a weekday morning to get a clear view of the façade."
+  - q: When is the quietest time to visit Maison Pfister?
+    a: >-
+      Weekdays are quiet right through the listed hours, from 10am to 7pm. On
+      weekends, avoid 12pm to 5pm, when it gets busiest. Before noon or after
+      5pm on Saturday and Sunday is much calmer.
+  - q: Can you go inside Maison Pfister?
+    a: >-
+      It isn't a museum. The ground floor trades as a shop, with listed hours of
+      10am to 7pm every day. The painted façade, the wooden gallery and the
+      corner oriel are what people come for, and you can see them all from the
+      street at any time.
+  - q: How do I get to Maison Pfister from Colmar station?
+    a: >-
+      Walk roughly 15 to 20 minutes northeast through the Champ de Mars toward
+      the Collégiale Saint-Martin. The house is at 11 Rue des Marchands, at the
+      corner with Rue Mercière, a short walk from the church.
+  - q: How long should I spend there?
+    a: >-
+      Give it 15 to 20 minutes to read the murals from across the street and
+      from up close. Then carry on to the Musée Bartholdi, the Koïfhus and
+      Petite Venise, which are all within easy walking distance.
+  - q: Is it worth seeing during the Christmas markets?
+    a: >-
+      Yes. The old town is lit up from late November through December. It's also
+      at its most crowded then, so come on a weekday morning to get a clear view
+      of the façade.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-29'
 ---
 
 Stand at the corner where Rue des Marchands meets Rue Mercière and tip your head back. Above you is a corner oriel, a turret-like bay jutting from the first floor. Over it runs a wooden gallery, and every stretch of plaster between the timbers is painted. Maison Pfister has stood on this corner since 1537, making it one of the oldest houses in Colmar's old town. It is also one of the most photographed.

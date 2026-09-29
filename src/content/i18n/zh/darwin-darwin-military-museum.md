@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: darwin-darwin-military-museum
-srcHash: '92369a3dc08c'
+srcHash: 'a7645633993d'
 title: 达尔文军事博物馆旅行指南（4.6★）
-description: 达尔文军事博物馆坐落在东角（East Point）岬角上，地址为5434 Alec Fong Lim Dr, East Point，从达尔文市区往北开车不远即到。4.6★（2,315条评价），这里汇总了游客评价、开放时间和参观贴士。
+description: 达尔文军事博物馆坐落在东角（East Point）岬角上，地址为5434 Alec Fong Lim Dr, East Point，从达尔文市区往北开车不远即到。4.6★（2,316条评价），这里汇总了游客评价、开放时间和参观贴士。
 quickAnswer: 达尔文军事博物馆坐落在东角（East Point）岬角上，地址为5434 Alec Fong Lim Dr, East Point，从达尔文市区往北开车不远即到。馆内的重头戏是多媒体展厅“保卫达尔文体验馆”（Defence of Darwin Experience），讲述1942年日军轰炸达尔文的历史，建议预留两到三个小时。工作日和周六9:30am–4pm、周日10am–3pm人都不多，但周末11am到2pm是全馆最拥挤的时段，最好错开。
 faq:
   - q: 什么时候去达尔文军事博物馆人最少？

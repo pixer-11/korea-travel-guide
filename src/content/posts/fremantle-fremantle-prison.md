@@ -1,26 +1,30 @@
 ---
-title: "Fremantle Prison: Travel Guide (4.7★)"
-description: Fremantle Prison sits at 1 The Terrace, on the hill above central Fremantle. 4.7★ (4,291 reviews) — what visitors say, hours, and tips.
+title: 'Fremantle Prison: Travel Guide (4.7★)'
+description: >-
+  Fremantle Prison sits at 1 The Terrace, on the hill above central Fremantle.
+  4.7★ (4,296 reviews) — what visitors say, hours, and tips.
 country: Australia
 region: Fremantle
 category: hidden-gem
-pubDate: "2026-09-28T16:57:39.221Z"
+pubDate: '2026-09-28T16:57:39.221Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Freo_prison_WMAU_gnangarra-131.jpg/1920px-Freo_prison_WMAU_gnangarra-131.jpg
-  credit: "Photo: Gnangarra / Wikimedia Commons (CC BY 2.5 au)"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Freo_prison_WMAU_gnangarra-131.jpg/1920px-Freo_prison_WMAU_gnangarra-131.jpg
+  credit: 'Photo: Gnangarra / Wikimedia Commons (CC BY 2.5 au)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Freo_prison_WMAU_gnangarra-131.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Freo_prison_WMAU_gnangarra-131.jpg'
   focus:
     x: 45
-    "y": 45
+    'y': 45
 gallery: []
 place:
   id: ChIJdY_ZAX2hMioRGmzlcmfSgQo
   name: Fremantle Prison
-  address: 1 The Terrace, Fremantle WA 6160, Australia
+  address: '1 The Terrace, Fremantle WA 6160, Australia'
   rating: 4.7
-  userRatingsTotal: 4291
-  googleMapsUrl: https://maps.google.com/?cid=757117554126056474&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 4296
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=757117554126056474&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: -32.054983799999995
   lng: 115.7536591
@@ -40,30 +44,48 @@ place:
     venueId: ven_6f516753666d636c7a6d47526f694d683258415a5f59644a496843
   phone: +61 8 9336 9200
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
 tags:
   - fremantle
   - hidden gem
-quickAnswer: Fremantle Prison sits at 1 The Terrace, on the hill above central Fremantle. It's a convict-built limestone jail that is now a UNESCO World Heritage site, and you see it on guided tours through the cells, the gallows and the tunnels underneath. Weekends are busiest between 11am and 4pm, so a weekday visit gives you the quietest tours.
+quickAnswer: >-
+  Fremantle Prison sits at 1 The Terrace, on the hill above central Fremantle.
+  It's a convict-built limestone jail that is now a UNESCO World Heritage site,
+  and you see it on guided tours through the cells, the gallows and the tunnels
+  underneath. Weekends are busiest between 11am and 4pm, so a weekday visit
+  gives you the quietest tours.
 faq:
   - q: How do I get to Fremantle Prison from Perth?
-    a: Take the Fremantle train line to Fremantle Station, the last stop. It's about a 15-minute walk to 1 The Terrace, uphill at the end. The free Fremantle CAT bus also loops through town.
+    a: >-
+      Take the Fremantle train line to Fremantle Station, the last stop. It's
+      about a 15-minute walk to 1 The Terrace, uphill at the end. The free
+      Fremantle CAT bus also loops through town.
   - q: When is the quietest time to visit Fremantle Prison?
-    a: Weekdays are quiet between 9am and 5pm. On weekends, avoid 11am to 4pm, which is the busiest window. The rest of the 9am to 5pm day is calmer.
+    a: >-
+      Weekdays are quiet between 9am and 5pm. On weekends, avoid 11am to 4pm,
+      which is the busiest window. The rest of the 9am to 5pm day is calmer.
   - q: How long should I spend at Fremantle Prison?
-    a: Each guided tour runs about 60 to 90 minutes. If you want to do two tours, say Doing Time and Tunnels, and have lunch at the café, allow half a day.
+    a: >-
+      Each guided tour runs about 60 to 90 minutes. If you want to do two tours,
+      say Doing Time and Tunnels, and have lunch at the café, allow half a day.
   - q: Is the Tunnels Tour suitable for everyone?
-    a: No. You climb down a shaft in a harness and go through flooded tunnels, partly by boat, so age and fitness rules apply. Check them on the official site when you book.
+    a: >-
+      No. You climb down a shaft in a harness and go through flooded tunnels,
+      partly by boat, so age and fitness rules apply. Check them on the official
+      site when you book.
   - q: What else is near Fremantle Prison?
-    a: Fremantle Markets are just downhill on South Terrace, next to the café strip. The Round House and Fremantle Arts Centre are both walkable too.
+    a: >-
+      Fremantle Markets are just downhill on South Terrace, next to the café
+      strip. The Round House and Fremantle Arts Centre are both walkable too.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-29'
 ---
 
 ## A jail built from the hill it stands on

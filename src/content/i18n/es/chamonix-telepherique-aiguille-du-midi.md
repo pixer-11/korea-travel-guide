@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: chamonix-telepherique-aiguille-du-midi
-srcHash: '1d61fd20bb3b'
+srcHash: '5fa6f8795bc3'
 title: 'Teleférico de la Aiguille du Midi: guía de viaje de Chamonix (4.7★)'
-description: Desde el extremo sur del centro de Chamonix, el teleférico de la Aiguille du Midi sube en dos tramos hasta una cumbre de 3,842 metros situada frente al Mont Blanc. Con una valoración de 4.7★ (16,539 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
+description: Desde el extremo sur del centro de Chamonix, el teleférico de la Aiguille du Midi sube en dos tramos hasta una cumbre de 3,842 metros situada frente al Mont Blanc. Con una valoración de 4.7★ (16,547 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: Desde el extremo sur del centro de Chamonix, el teleférico de la Aiguille du Midi (Téléphérique Aiguille du Midi) sube en dos tramos hasta una cumbre de 3,842 metros situada frente al Mont Blanc. Lo más recomendable es reservar por internet con antelación un billete con hora asignada y elegir la cabina más temprana posible, porque las mañanas suelen ser las más despejadas. Calcule media jornada para la visita. Haga el tiempo que haga en el pueblo, lleve ropa de abrigo de verdad y gafas de sol.
 faq:
   - q: ¿Cómo se llega a la estación del teleférico de la Aiguille du Midi?

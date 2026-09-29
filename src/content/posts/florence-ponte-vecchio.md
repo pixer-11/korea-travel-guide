@@ -1,50 +1,82 @@
 ---
-title: "Ponte Vecchio: Florence Travel Guide (4.7★)"
-description: "Ponte Vecchio is Florence's oldest bridge over the Arno, a medieval stone crossing lined with jewellers' shops that links the Uffizi side of the city to the Oltrarno. 4.7★ (154,405 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Florence"
-category: "hidden-gem"
-pubDate: "2026-09-29T07:39:08.579Z"
+title: 'Ponte Vecchio: Florence Travel Guide (4.7★)'
+description: >-
+  Ponte Vecchio is Florence's oldest bridge over the Arno, a medieval stone
+  crossing lined with jewellers' shops that links the Uffizi side of the city to
+  the Oltrarno. 4.7★ (154,425 reviews) — what visitors say, hours, and tips.
+country: Italy
+region: Florence
+category: hidden-gem
+pubDate: '2026-09-29T07:39:08.579Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ponte_Vecchio_from_Ponte_alle_Grazie.jpg/1920px-Ponte_Vecchio_from_Ponte_alle_Grazie.jpg"
-  credit: "Photo: Ingo Mehling / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ponte_Vecchio_from_Ponte_alle_Grazie.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ponte_Vecchio_from_Ponte_alle_Grazie.jpg/1920px-Ponte_Vecchio_from_Ponte_alle_Grazie.jpg
+  credit: 'Photo: Ingo Mehling / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Ponte_Vecchio_from_Ponte_alle_Grazie.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Ponte_Vecchio_at_dusk_1.JPG/3840px-Ponte_Vecchio_at_dusk_1.JPG"
-    credit: "Photo: Martin Falbisoner / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Ponte_Vecchio_at_dusk_1.JPG"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Ponte_Vecchio_at_dusk_1.JPG/3840px-Ponte_Vecchio_at_dusk_1.JPG
+    credit: 'Photo: Martin Falbisoner / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Ponte_Vecchio_at_dusk_1.JPG'
 place:
-  id: "ChIJZ7bcoqpWKhMR6ALnMOgKMUA"
-  name: "Ponte Vecchio"
-  address: "Ponte Vecchio, 50125 Firenze FI, Italy"
+  id: ChIJZ7bcoqpWKhMR6ALnMOgKMUA
+  name: Ponte Vecchio
+  address: 'Ponte Vecchio, 50125 Firenze FI, Italy'
   rating: 4.7
-  userRatingsTotal: 154405
-  googleMapsUrl: "https://maps.google.com/?cid=4625490284655346408&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 154425
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4625490284655346408&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.767925
   lng: 11.2531435
 tags:
-  - "florence"
-  - "old quarter"
-quickAnswer: "Ponte Vecchio is Florence's oldest bridge over the Arno, a medieval stone crossing lined with jewellers' shops that links the Uffizi side of the city to the Oltrarno. It's one of the most-visited sights in Italy, so the best time to go is early morning, before the shutters open and the tour groups arrive, or after dark. For the classic photo, walk one bridge west to Ponte Santa Trinita."
+  - florence
+  - old quarter
+quickAnswer: >-
+  Ponte Vecchio is Florence's oldest bridge over the Arno, a medieval stone
+  crossing lined with jewellers' shops that links the Uffizi side of the city to
+  the Oltrarno. It's one of the most-visited sights in Italy, so the best time
+  to go is early morning, before the shutters open and the tour groups arrive,
+  or after dark. For the classic photo, walk one bridge west to Ponte Santa
+  Trinita.
 faq:
-  - q: "How do I get to Ponte Vecchio?"
-    a: "Walk. The historic centre is a restricted traffic zone (ZTL), and the bridge is about 15 minutes on foot from Santa Maria Novella station. From Piazza della Signoria and the Uffizi it's a couple of minutes down Via Por Santa Maria."
-  - q: "When is the best time to visit Ponte Vecchio?"
-    a: "Early morning is calmest. The shops are still shuttered and the guided groups haven't arrived yet. After dark is also good, once the shops have closed and the bridge is lit. For photos of the bridge itself, go to Ponte Santa Trinita around sunset."
-  - q: "How long should I spend there?"
-    a: "About 20 minutes covers the crossing and the central terraces. Allow an hour or more if you want to browse the jewellers or walk to the viewpoints at Ponte Santa Trinita and Ponte alle Grazie."
-  - q: "Can I walk through the Vasari Corridor above the bridge?"
-    a: "Yes. The corridor reopened after restoration and is visited by timed ticket through the Uffizi Galleries. Check the Uffizi's official website for availability and current prices."
-  - q: "What's near Ponte Vecchio?"
-    a: "On the north bank you'll find the Uffizi, Piazza della Signoria, Palazzo Vecchio and the Mercato Nuovo with its bronze boar. On the Oltrarno side, Via de' Guicciardini leads to Palazzo Pitti and the Boboli Gardens, and further on is Piazzale Michelangelo's view over the river."
+  - q: How do I get to Ponte Vecchio?
+    a: >-
+      Walk. The historic centre is a restricted traffic zone (ZTL), and the
+      bridge is about 15 minutes on foot from Santa Maria Novella station. From
+      Piazza della Signoria and the Uffizi it's a couple of minutes down Via Por
+      Santa Maria.
+  - q: When is the best time to visit Ponte Vecchio?
+    a: >-
+      Early morning is calmest. The shops are still shuttered and the guided
+      groups haven't arrived yet. After dark is also good, once the shops have
+      closed and the bridge is lit. For photos of the bridge itself, go to Ponte
+      Santa Trinita around sunset.
+  - q: How long should I spend there?
+    a: >-
+      About 20 minutes covers the crossing and the central terraces. Allow an
+      hour or more if you want to browse the jewellers or walk to the viewpoints
+      at Ponte Santa Trinita and Ponte alle Grazie.
+  - q: Can I walk through the Vasari Corridor above the bridge?
+    a: >-
+      Yes. The corridor reopened after restoration and is visited by timed
+      ticket through the Uffizi Galleries. Check the Uffizi's official website
+      for availability and current prices.
+  - q: What's near Ponte Vecchio?
+    a: >-
+      On the north bank you'll find the Uffizi, Piazza della Signoria, Palazzo
+      Vecchio and the Mercato Nuovo with its bronze boar. On the Oltrarno side,
+      Via de' Guicciardini leads to Palazzo Pitti and the Boboli Gardens, and
+      further on is Piazzale Michelangelo's view over the river.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-29'
 ---
 
 ## Shops hanging over the Arno

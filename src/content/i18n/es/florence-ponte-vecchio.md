@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: florence-ponte-vecchio
-srcHash: '05cae8e21e45'
+srcHash: 'b62fa71f40a3'
 title: 'Ponte Vecchio: guía de viaje de Florencia (4.7★)'
-description: 'El Ponte Vecchio es el puente más antiguo de Florencia sobre el Arno. Este paso medieval de piedra, flanqueado por joyerías, une la orilla de los Uffizi con el Oltrarno. 4.7★ (154,405 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Ponte Vecchio es el puente más antiguo de Florencia sobre el Arno. Este paso medieval de piedra, flanqueado por joyerías, une la orilla de los Uffizi con el Oltrarno. 4.7★ (154,425 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Ponte Vecchio es el puente más antiguo de Florencia sobre el Arno. Este paso medieval de piedra, flanqueado por joyerías, une la orilla de los Uffizi con el Oltrarno. Figura entre los lugares más visitados de Italia, así que conviene ir a primera hora de la mañana, antes de que se abran las persianas y lleguen los grupos organizados, o bien de noche. Si busca la foto clásica, camine hasta el siguiente puente hacia el oeste, el Ponte Santa Trinita.
 faq:
   - q: ¿Cómo se llega al Ponte Vecchio?

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: chamonix-telepherique-aiguille-du-midi
-srcHash: '1d61fd20bb3b'
+srcHash: '5fa6f8795bc3'
 title: 南针峰缆车：霞慕尼旅行指南（4.7★）
-description: 南针峰缆车（Téléphérique Aiguille du Midi）从霞慕尼镇中心南端出发，分两段直上与勃朗峰遥遥相对的3,842米峰顶。评分4.7★（16,539条评价），本文汇总游客评价、开放时间与实用建议。
+description: 南针峰缆车（Téléphérique Aiguille du Midi）从霞慕尼镇中心南端出发，分两段直上与勃朗峰遥遥相对的3,842米峰顶。评分4.7★（16,547条评价），本文汇总游客评价、开放时间与实用建议。
 quickAnswer: 南针峰缆车从霞慕尼镇中心南端出发，分两段直上与勃朗峰遥遥相对的3,842米峰顶。建议提前在网上预订分时段门票，并尽量抢最早的一班，因为早上通常天最晴。游览需要预留半天时间。无论镇上天气如何，都请带上真正的冬季保暖衣物和墨镜。
 faq:
   - q: 怎么去南针峰缆车站？

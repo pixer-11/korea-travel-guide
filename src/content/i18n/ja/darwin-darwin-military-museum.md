@@ -1,9 +1,9 @@
 ---
 lang: ja
 slug: darwin-darwin-military-museum
-srcHash: '92369a3dc08c'
+srcHash: 'a7645633993d'
 title: ダーウィン軍事博物館 旅行ガイド（4.6★）
-description: ダーウィン軍事博物館は、ダーウィン市街から車で北へすぐのイーストポイント岬にあります（5434 Alec Fong Lim Dr, East Point）。評価は4.6★（2,315件）で、訪れた人の声や開館時間、見学のコツをまとめました。
+description: ダーウィン軍事博物館は、ダーウィン市街から車で北へすぐのイーストポイント岬にあります（5434 Alec Fong Lim Dr, East Point）。評価は4.6★（2,316件）で、訪れた人の声や開館時間、見学のコツをまとめました。
 quickAnswer: ダーウィン軍事博物館（Darwin Military Museum）は、ダーウィン市街から車で北へすぐのイーストポイント岬にあります（5434 Alec Fong Lim Dr, East Point）。見どころの中心は、1942年に日本軍が行ったダーウィン空襲を扱うマルチメディア展示「ディフェンス・オブ・ダーウィン・エクスペリエンス（Defence of Darwin Experience）」です。所要時間は2〜3時間を見ておきましょう。平日と土曜の9:30am–4pm、日曜の10am–3pmは比較的すいています。ただし週末の11am〜2pmは最も混み合う時間帯なので、この時間の到着はできるだけ避けてください。
 faq:
   - q: ダーウィン軍事博物館が最もすいているのはいつですか？

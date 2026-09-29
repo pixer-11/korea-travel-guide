@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: hobart-mona
-srcHash: '9b11fc8e523a'
+srcHash: 'a06dd8e28ecc'
 title: 古今艺术博物馆（MONA）：霍巴特旅行指南（4.3★）
-description: 古今艺术博物馆（MONA）坐落在霍巴特北郊贝里代尔（Berriedale）的穆里拉酒庄半岛上，地址为655 Main Rd。评分4.3★（13,833条评价），本文汇总游客评价、开放时间与参观贴士。
+description: 古今艺术博物馆（MONA）坐落在霍巴特北郊贝里代尔（Berriedale）的穆里拉酒庄半岛上，地址为655 Main Rd。评分4.3★（13,835条评价），本文汇总游客评价、开放时间与参观贴士。
 quickAnswer: 古今艺术博物馆（MONA）位于霍巴特北郊贝里代尔（Berriedale）的穆里拉（Moorilla）酒庄半岛上，地址为655 Main Rd。馆内大部分展厅都深藏在地下的砂岩层里。每周一及周四至周日上午10点至下午5点开放，周二、周三闭馆。周末从上午10点开门到下午5点关门，人流始终不断，想安安静静地看展，最好选周一、周四或周五前往。
 faq:
   - q: MONA每周哪几天开放？

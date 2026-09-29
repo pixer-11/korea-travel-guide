@@ -1,52 +1,85 @@
 ---
-title: "Téléphérique Aiguille du Midi: Chamonix Travel Guide (4.7★)"
-description: "The Téléphérique Aiguille du Midi leaves from the south end of Chamonix town centre and climbs in two stages to a 3,842-metre summit facing Mont Blanc. 4.7★ (16,539 reviews) — what visitors say, hours, and tips."
-country: "France"
-region: "Chamonix"
-category: "hidden-gem"
-pubDate: "2026-09-29T07:50:49.926Z"
+title: 'Téléphérique Aiguille du Midi: Chamonix Travel Guide (4.7★)'
+description: >-
+  The Téléphérique Aiguille du Midi leaves from the south end of Chamonix town
+  centre and climbs in two stages to a 3,842-metre summit facing Mont Blanc.
+  4.7★ (16,547 reviews) — what visitors say, hours, and tips.
+country: France
+region: Chamonix
+category: hidden-gem
+pubDate: '2026-09-29T07:50:49.926Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/7/75/Chamonix_-_Le_Telepherique_de_l_aiguille_du_midi_-_panoramio.jpg"
-  credit: "Photo: Patrick Nouhailler's… / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Chamonix_-_Le_Telepherique_de_l_aiguille_du_midi_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/75/Chamonix_-_Le_Telepherique_de_l_aiguille_du_midi_-_panoramio.jpg
+  credit: 'Photo: Patrick Nouhailler''s… / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Chamonix_-_Le_Telepherique_de_l_aiguille_du_midi_-_panoramio.jpg
+  via: act
   focus:
     x: 40
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/8/8d/France_ARA_74_Chamonix-Mont-Blanc_Aiguille_du_Midi_01.jpg"
-    credit: "Photo: Calips / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:France_ARA_74_Chamonix-Mont-Blanc_Aiguille_du_Midi_01.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/8/8d/France_ARA_74_Chamonix-Mont-Blanc_Aiguille_du_Midi_01.jpg
+    credit: 'Photo: Calips / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:France_ARA_74_Chamonix-Mont-Blanc_Aiguille_du_Midi_01.jpg
 place:
-  id: "ChIJSbIVSHBOiUcR_tFiv4DRYzI"
-  name: "Téléphérique Aiguille du Midi"
-  address: "100 Pl. de l'Aiguille du Midi, 74400 Chamonix-Mont-Blanc, France"
+  id: ChIJSbIVSHBOiUcR_tFiv4DRYzI
+  name: Téléphérique Aiguille du Midi
+  address: '100 Pl. de l''Aiguille du Midi, 74400 Chamonix-Mont-Blanc, France'
   rating: 4.7
-  userRatingsTotal: 16539
-  googleMapsUrl: "https://maps.google.com/?cid=3630976075487695358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 16547
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3630976075487695358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 45.9183333
   lng: 6.87
-  phone: "+33 4 50 53 22 75"
+  phone: +33 4 50 53 22 75
 tags:
-  - "chamonix"
-  - "old quarter"
-quickAnswer: "The Téléphérique Aiguille du Midi leaves from the south end of Chamonix town centre and climbs in two stages to a 3,842-metre summit facing Mont Blanc. Book a timed slot online in advance and aim for the earliest cabin you can get, since mornings tend to be clearest. Allow half a day. Bring real winter layers and sunglasses, whatever the weather is doing in town."
+  - chamonix
+  - old quarter
+quickAnswer: >-
+  The Téléphérique Aiguille du Midi leaves from the south end of Chamonix town
+  centre and climbs in two stages to a 3,842-metre summit facing Mont Blanc.
+  Book a timed slot online in advance and aim for the earliest cabin you can
+  get, since mornings tend to be clearest. Allow half a day. Bring real winter
+  layers and sunglasses, whatever the weather is doing in town.
 faq:
-  - q: "How do I get to the Aiguille du Midi cable car station?"
-    a: "The lower station is at 100 Place de l'Aiguille du Midi, at the southern edge of Chamonix's pedestrian centre. From Chamonix-Mont-Blanc train station (Mont-Blanc Express line) it is a flat walk of about 10 to 15 minutes. Car parks nearby fill up early on clear days."
-  - q: "What is the best time of day to go up?"
-    a: "Early morning. Alpine peaks are often clear at the start of the day, and cloud tends to build later. Check the summit webcams on the Compagnie du Mont-Blanc website first. If the peak is in cloud from town, choose another day."
-  - q: "How long should I allow for the visit?"
-    a: "About half a day for the round trip, including time on the summit terraces and the lift change at Plan de l'Aiguille. Plan for a full day if you add the summer gondola to Pointe Helbronner in Italy or the Grand Balcon Nord walk to Montenvers."
-  - q: "Will the altitude affect me?"
-    a: "Possibly. You climb to 3,842 metres in about twenty minutes, and light-headedness or a headache is common. Move slowly, drink water and go down if symptoms get worse. People with heart or breathing conditions should get medical advice before going."
-  - q: "Do I need to book in advance?"
-    a: "In peak season, yes. Tickets with timed boarding slots are sold on the Compagnie du Mont-Blanc website, and current prices are posted there. Walk-up slots on clear summer days can sell out early."
+  - q: How do I get to the Aiguille du Midi cable car station?
+    a: >-
+      The lower station is at 100 Place de l'Aiguille du Midi, at the southern
+      edge of Chamonix's pedestrian centre. From Chamonix-Mont-Blanc train
+      station (Mont-Blanc Express line) it is a flat walk of about 10 to 15
+      minutes. Car parks nearby fill up early on clear days.
+  - q: What is the best time of day to go up?
+    a: >-
+      Early morning. Alpine peaks are often clear at the start of the day, and
+      cloud tends to build later. Check the summit webcams on the Compagnie du
+      Mont-Blanc website first. If the peak is in cloud from town, choose
+      another day.
+  - q: How long should I allow for the visit?
+    a: >-
+      About half a day for the round trip, including time on the summit terraces
+      and the lift change at Plan de l'Aiguille. Plan for a full day if you add
+      the summer gondola to Pointe Helbronner in Italy or the Grand Balcon Nord
+      walk to Montenvers.
+  - q: Will the altitude affect me?
+    a: >-
+      Possibly. You climb to 3,842 metres in about twenty minutes, and
+      light-headedness or a headache is common. Move slowly, drink water and go
+      down if symptoms get worse. People with heart or breathing conditions
+      should get medical advice before going.
+  - q: Do I need to book in advance?
+    a: >-
+      In peak season, yes. Tickets with timed boarding slots are sold on the
+      Compagnie du Mont-Blanc website, and current prices are posted there.
+      Walk-up slots on clear summer days can sell out early.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-29'
 ---
 
 Stand on the Place de l'Aiguille du Midi and look straight up. The cables leave the station roof and run towards a granite needle so high it looks painted onto the sky. That needle is where you are going: 3,842 metres up, directly across the glaciers from Mont Blanc. The trip takes about twenty minutes. You start among Chamonix's bakeries and finish in air that makes a flight of stairs feel like work.

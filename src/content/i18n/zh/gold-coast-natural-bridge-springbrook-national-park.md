@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: gold-coast-natural-bridge-springbrook-national-park
-srcHash: '1c7b52e0320b'
+srcHash: '44359a13d8a1'
 title: 春溪国家公园天然桥：黄金海岸旅行指南
-description: 春溪国家公园天然桥（Natural Bridge）位于努明巴谷（Numinbah Valley）的 Bakers Rd 旁，从黄金海岸向内陆驾车约一小时可达。评分 4.8★（4,438 条评价），本文汇总游客评价、开放时间与实用贴士。
+description: 春溪国家公园天然桥（Natural Bridge）位于努明巴谷（Numinbah Valley）的 Bakers Rd 旁，从黄金海岸向内陆驾车约一小时可达。评分 4.8★（4,439 条评价），本文汇总游客评价、开放时间与实用贴士。
 quickAnswer: 春溪国家公园天然桥位于努明巴谷的 Bakers Rd 旁，从黄金海岸向内陆开车约一小时即到。最佳到访时段是 7am–8am，无论工作日还是周末，这一小时游人都最少。周末 10am 至 10pm 最为拥挤，夜间来看萤火虫的人潮也在其中。
 faq:
   - q: 什么时候去天然桥人最少？

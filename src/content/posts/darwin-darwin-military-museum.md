@@ -1,26 +1,32 @@
 ---
-title: "Darwin Military Museum: Travel Guide (4.6★)"
-description: Darwin Military Museum sits on the East Point headland at 5434 Alec Fong Lim Dr, East Point, a short drive north of Darwin city. 4.6★ (2,315 reviews) — what visitors say, hours, and tips.
+title: 'Darwin Military Museum: Travel Guide (4.6★)'
+description: >-
+  Darwin Military Museum sits on the East Point headland at 5434 Alec Fong Lim
+  Dr, East Point, a short drive north of Darwin city. 4.6★ (2,316 reviews) —
+  what visitors say, hours, and tips.
 country: Australia
 region: Darwin
 category: hidden-gem
-pubDate: "2026-09-28T16:54:37.114Z"
+pubDate: '2026-09-28T16:54:37.114Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Darwin_Military_Museum%2C_September_2025_03.jpg/1920px-Darwin_Military_Museum%2C_September_2025_03.jpg
-  credit: "Photo: DaHuzyBru / Wikimedia Commons (CC BY-SA 4.0)"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Darwin_Military_Museum%2C_September_2025_03.jpg/1920px-Darwin_Military_Museum%2C_September_2025_03.jpg
+  credit: 'Photo: DaHuzyBru / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Darwin_Military_Museum,_September_2025_03.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Darwin_Military_Museum,_September_2025_03.jpg
   focus:
     x: 55
-    "y": 45
+    'y': 45
 gallery: []
 place:
   id: ChIJyxzAJluSwCwRO7O2h6h4dH8
   name: Darwin Military Museum
-  address: 5434 Alec Fong Lim Dr, East Point NT 0820, Australia
+  address: '5434 Alec Fong Lim Dr, East Point NT 0820, Australia'
   rating: 4.6
-  userRatingsTotal: 2315
-  googleMapsUrl: https://maps.google.com/?cid=9184098205342020411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 2316
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9184098205342020411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: -12.4080098
   lng: 130.8196762
@@ -37,30 +43,55 @@ place:
     venueId: ven_38486434683668324f374f5277437753756c4a417a78794a496843
   phone: +61 8 8981 9702
   openingHours:
-    - "Monday: 9:30 AM – 4:00 PM"
-    - "Tuesday: 9:30 AM – 4:00 PM"
-    - "Wednesday: 9:30 AM – 4:00 PM"
-    - "Thursday: 9:30 AM – 4:00 PM"
-    - "Friday: 9:30 AM – 4:00 PM"
-    - "Saturday: 9:30 AM – 4:00 PM"
-    - "Sunday: 10:00 AM – 3:00 PM"
+    - 'Monday: 9:30 AM – 4:00 PM'
+    - 'Tuesday: 9:30 AM – 4:00 PM'
+    - 'Wednesday: 9:30 AM – 4:00 PM'
+    - 'Thursday: 9:30 AM – 4:00 PM'
+    - 'Friday: 9:30 AM – 4:00 PM'
+    - 'Saturday: 9:30 AM – 4:00 PM'
+    - 'Sunday: 10:00 AM – 3:00 PM'
 tags:
   - darwin
   - hidden gem
-quickAnswer: Darwin Military Museum sits on the East Point headland at 5434 Alec Fong Lim Dr, East Point, a short drive north of Darwin city. Its centrepiece is the multimedia Defence of Darwin Experience about the 1942 Japanese bombing raids; plan on two to three hours. Crowds are light from 9:30am–4pm on weekdays and Saturdays (and 10am–3pm on Sundays), but try not to arrive between 11am and 2pm on weekends, the museum's busiest window.
+quickAnswer: >-
+  Darwin Military Museum sits on the East Point headland at 5434 Alec Fong Lim
+  Dr, East Point, a short drive north of Darwin city. Its centrepiece is the
+  multimedia Defence of Darwin Experience about the 1942 Japanese bombing raids;
+  plan on two to three hours. Crowds are light from 9:30am–4pm on weekdays and
+  Saturdays (and 10am–3pm on Sundays), but try not to arrive between 11am and
+  2pm on weekends, the museum's busiest window.
 faq:
   - q: When is the quietest time to visit Darwin Military Museum?
-    a: Crowds are lightest from 9:30am–4pm on weekdays and Saturdays, and from 10am–3pm on Sundays, which is also a calm stretch. Avoid weekends from 11am to 2pm, the busiest window. Check the official website for current opening hours before you go.
+    a: >-
+      Crowds are lightest from 9:30am–4pm on weekdays and Saturdays, and from
+      10am–3pm on Sundays, which is also a calm stretch. Avoid weekends from
+      11am to 2pm, the busiest window. Check the official website for current
+      opening hours before you go.
   - q: How long should I spend at the museum?
-    a: Plan on two to three hours. Give the Defence of Darwin Experience at least an hour, then leave time for the outdoor displays and the wartime structures on the grounds.
+    a: >-
+      Plan on two to three hours. Give the Defence of Darwin Experience at least
+      an hour, then leave time for the outdoor displays and the wartime
+      structures on the grounds.
   - q: How do I get to Darwin Military Museum from the city?
-    a: It's at 5434 Alec Fong Lim Dr in the East Point Reserve, a short drive north of the CBD via Fannie Bay, with parking on site. You can also cycle the coastal shared path or take a taxi or rideshare. Check current bus routes before relying on public transport.
+    a: >-
+      It's at 5434 Alec Fong Lim Dr in the East Point Reserve, a short drive
+      north of the CBD via Fannie Bay, with parking on site. You can also cycle
+      the coastal shared path or take a taxi or rideshare. Check current bus
+      routes before relying on public transport.
   - q: Is the Defence of Darwin Experience suitable for children?
-    a: School-age children usually get a lot from it, but the multimedia gallery about the 1942 bombing raids includes loud, confronting audiovisual material. Parents of young children may want to preview it first.
+    a: >-
+      School-age children usually get a lot from it, but the multimedia gallery
+      about the 1942 bombing raids includes loud, confronting audiovisual
+      material. Parents of young children may want to preview it first.
   - q: What else is near the museum?
-    a: The surrounding East Point Reserve has coastal paths, Lake Alexander for swimming and wallabies grazing in the late afternoon. Fannie Bay Gaol, the Museum and Art Gallery of the Northern Territory and Mindil Beach are all a short drive back towards the city.
+    a: >-
+      The surrounding East Point Reserve has coastal paths, Lake Alexander for
+      swimming and wallabies grazing in the late afternoon. Fannie Bay Gaol, the
+      Museum and Art Gallery of the Northern Territory and Mindil Beach are all
+      a short drive back towards the city.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-29'
 ---
 
 Out at East Point, the city drops away behind you and the road runs past grass, mangroves and the flat water of Fannie Bay. Then concrete appears among the trees: gun emplacements and bunkers built to face the Timor Sea. The Darwin Military Museum is built around them. You are standing on ground that was actually defended, and that shapes the whole visit.

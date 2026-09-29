@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: darwin-darwin-waterfront-precinct
-srcHash: '763bcbb74a1c'
+srcHash: 'df6324f9c7ad'
 title: 'Darwin Waterfront Precinct: guía de viaje (4.6★)'
-description: A pocos minutos cuesta abajo del Smith Street Mall, en Kitchener Drive (Darwin City), el Darwin Waterfront Precinct reúne una laguna de baño protegida con redes, una laguna de olas de pago y una hilera de restaurantes y bares frente al puerto. Con 4.6★ (4,499 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y algunos consejos.
+description: A pocos minutos cuesta abajo del Smith Street Mall, en Kitchener Drive (Darwin City), el Darwin Waterfront Precinct reúne una laguna de baño protegida con redes, una laguna de olas de pago y una hilera de restaurantes y bares frente al puerto. Con 4.6★ (4,501 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y algunos consejos.
 quickAnswer: A pocos minutos cuesta abajo del Smith Street Mall, en Kitchener Drive (Darwin City), el Darwin Waterfront Precinct reúne una laguna de baño protegida con redes, una laguna de olas de pago y una hilera de restaurantes y bares frente al puerto. Los fines de semana, entre las 11am y las 11pm, es cuando más gente acude, así que conviene evitar esa franja. Para bañarse con más tranquilidad y conseguir mesa sin esperar, lo mejor es ir entre semana o durante la estación seca, más fresca, de mayo a octubre.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Darwin Waterfront Precinct?

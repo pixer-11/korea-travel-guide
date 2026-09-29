@@ -1,44 +1,51 @@
 ---
-title: "Córdoba Synagogue: Cordoba Travel Guide (4.3★)"
-description: "The Córdoba Synagogue sits at Calle Judíos 20 in Córdoba's Judería (the old Jewish quarter), a few minutes' walk from the Mezquita-Catedral. 4.3★ (4,856 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "Cordoba"
-category: "hidden-gem"
-pubDate: "2026-09-29T07:40:08.633Z"
+title: 'Córdoba Synagogue: Cordoba Travel Guide (4.3★)'
+description: >-
+  The Córdoba Synagogue sits at Calle Judíos 20 in Córdoba's Judería (the old
+  Jewish quarter), a few minutes' walk from the Mezquita-Catedral. 4.3★ (4,857
+  reviews) — what visitors say, hours, and tips.
+country: Spain
+region: Cordoba
+category: hidden-gem
+pubDate: '2026-09-29T07:40:08.633Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/West_wall_of_the_Synagogue_of_C%C3%B3rdoba.JPG/1920px-West_wall_of_the_Synagogue_of_C%C3%B3rdoba.JPG"
-  credit: "Photo: Américo Toledano / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:West_wall_of_the_Synagogue_of_C%C3%B3rdoba.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/West_wall_of_the_Synagogue_of_C%C3%B3rdoba.JPG/1920px-West_wall_of_the_Synagogue_of_C%C3%B3rdoba.JPG
+  credit: 'Photo: Américo Toledano / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:West_wall_of_the_Synagogue_of_C%C3%B3rdoba.JPG
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/C%C3%B3rdoba_Synagogue_walls_1.jpg/3840px-C%C3%B3rdoba_Synagogue_walls_1.jpg"
-    credit: "Photo: Ymblanter / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:C%C3%B3rdoba_Synagogue_walls_1.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/C%C3%B3rdoba_Synagogue_walls_1.jpg/3840px-C%C3%B3rdoba_Synagogue_walls_1.jpg
+    credit: 'Photo: Ymblanter / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:C%C3%B3rdoba_Synagogue_walls_1.jpg'
 place:
-  id: "ChIJFx1PuJ0gbQ0R5BYdygFbbM8"
-  name: "Córdoba Synagogue"
-  address: "C. Judíos, 20, Centro, 14004 Córdoba, Spain"
+  id: ChIJFx1PuJ0gbQ0R5BYdygFbbM8
+  name: Córdoba Synagogue
+  address: 'C. Judíos, 20, Centro, 14004 Córdoba, Spain'
   rating: 4.3
-  userRatingsTotal: 4856
-  googleMapsUrl: "https://maps.google.com/?cid=14946421326579832548&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4857
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14946421326579832548&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.8797069
   lng: -4.7833429
-  phone: "+34 957 01 53 34"
+  phone: +34 957 01 53 34
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 9:00 AM – 3:00 PM"
-    - "Wednesday: 9:00 AM – 3:00 PM"
-    - "Thursday: 9:00 AM – 3:00 PM"
-    - "Friday: 9:00 AM – 3:00 PM"
-    - "Saturday: 9:00 AM – 3:00 PM"
-    - "Sunday: 9:00 AM – 3:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 9:00 AM – 3:00 PM'
+    - 'Wednesday: 9:00 AM – 3:00 PM'
+    - 'Thursday: 9:00 AM – 3:00 PM'
+    - 'Friday: 9:00 AM – 3:00 PM'
+    - 'Saturday: 9:00 AM – 3:00 PM'
+    - 'Sunday: 9:00 AM – 3:00 PM'
   busyness:
-    updated: 2026-09-29
+    updated: 2026-09-29T00:00:00.000Z
     weekdayBusy:
       - 10
       - 11
@@ -50,24 +57,42 @@ place:
       - 12
       - 13
       - 14
-    venueId: "ven_384d6262466779645942355230516267304a75503178464a496843"
+    venueId: ven_384d6262466779645942355230516267304a75503178464a496843
 tags:
-  - "cordoba"
-  - "old quarter"
-quickAnswer: "The Córdoba Synagogue sits at Calle Judíos 20 in Córdoba's Judería (the old Jewish quarter), a few minutes' walk from the Mezquita-Catedral. It is the only medieval synagogue left in Andalusia, and 20 to 30 minutes covers it. It opens 9am to 3pm Tuesday to Sunday and is closed Mondays; weekends are busiest from 11am to 3pm, so come at 9am."
+  - cordoba
+  - old quarter
+quickAnswer: >-
+  The Córdoba Synagogue sits at Calle Judíos 20 in Córdoba's Judería (the old
+  Jewish quarter), a few minutes' walk from the Mezquita-Catedral. It is the
+  only medieval synagogue left in Andalusia, and 20 to 30 minutes covers it. It
+  opens 9am to 3pm Tuesday to Sunday and is closed Mondays; weekends are busiest
+  from 11am to 3pm, so come at 9am.
 faq:
-  - q: "When is the quietest time to visit the Córdoba Synagogue?"
-    a: "Weekends are busiest from 11am to 3pm, so avoid that window. The best time is 9am opening, ideally on a weekday from Tuesday to Friday."
-  - q: "Is the Córdoba Synagogue open on Mondays?"
-    a: "No. It is closed all day Monday. From Tuesday to Sunday it opens 9am to 3pm."
-  - q: "How long do I need there?"
-    a: "About 20 to 30 minutes. It is one courtyard, one prayer hall and a women's gallery, but the stucco rewards slow reading."
-  - q: "How do I get there from the Mezquita?"
-    a: "Walk northwest through the Judería lanes towards the Puerta de Almodóvar, a few minutes on foot. The synagogue is at Calle Judíos 20, near the Maimonides statue in Plaza de Tiberíades."
-  - q: "What else is nearby?"
-    a: "Casa de Sefarad is across the lane. The Zoco Municipal craft courtyard, the Maimonides statue, the Puerta de Almodóvar and the city walls are all within a few minutes' walk."
+  - q: When is the quietest time to visit the Córdoba Synagogue?
+    a: >-
+      Weekends are busiest from 11am to 3pm, so avoid that window. The best time
+      is 9am opening, ideally on a weekday from Tuesday to Friday.
+  - q: Is the Córdoba Synagogue open on Mondays?
+    a: >-
+      No. It is closed all day Monday. From Tuesday to Sunday it opens 9am to
+      3pm.
+  - q: How long do I need there?
+    a: >-
+      About 20 to 30 minutes. It is one courtyard, one prayer hall and a women's
+      gallery, but the stucco rewards slow reading.
+  - q: How do I get there from the Mezquita?
+    a: >-
+      Walk northwest through the Judería lanes towards the Puerta de Almodóvar,
+      a few minutes on foot. The synagogue is at Calle Judíos 20, near the
+      Maimonides statue in Plaza de Tiberíades.
+  - q: What else is nearby?
+    a: >-
+      Casa de Sefarad is across the lane. The Zoco Municipal craft courtyard,
+      the Maimonides statue, the Puerta de Almodóvar and the city walls are all
+      within a few minutes' walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-29'
 ---
 
 ## A plaster room from 1315

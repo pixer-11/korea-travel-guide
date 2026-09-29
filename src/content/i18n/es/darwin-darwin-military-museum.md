@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: darwin-darwin-military-museum
-srcHash: '92369a3dc08c'
+srcHash: 'a7645633993d'
 title: 'Museo Militar de Darwin: guía de viaje (4.6★)'
-description: En el promontorio de East Point, a pocos minutos en coche al norte del centro de Darwin, se encuentra el Museo Militar de Darwin (5434 Alec Fong Lim Dr, East Point). Tiene una valoración de 4.6★ (2,315 reseñas). Aquí encontrará las opiniones de los visitantes, información sobre horarios y consejos prácticos.
+description: En el promontorio de East Point, a pocos minutos en coche al norte del centro de Darwin, se encuentra el Museo Militar de Darwin (5434 Alec Fong Lim Dr, East Point). Tiene una valoración de 4.6★ (2,316 reseñas). Aquí encontrará las opiniones de los visitantes, información sobre horarios y consejos prácticos.
 quickAnswer: El Museo Militar de Darwin (Darwin Military Museum) está en el promontorio de East Point, en 5434 Alec Fong Lim Dr, East Point, a pocos minutos en coche al norte del centro de Darwin. Su principal atractivo es la Defence of Darwin Experience, una galería multimedia dedicada a los bombardeos japoneses de 1942. Conviene reservar entre dos y tres horas para la visita. Entre semana y los sábados, de 9:30am a 4pm, hay poca afluencia, y lo mismo ocurre los domingos de 10am a 3pm. Los fines de semana, en cambio, es mejor no llegar entre las 11am y las 2pm, que es cuando más gente acude.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Museo Militar de Darwin?

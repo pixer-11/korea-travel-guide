@@ -1,35 +1,43 @@
 ---
-title: "Darwin Waterfront Precinct: Travel Guide (4.6★)"
-description: "Darwin Waterfront Precinct sits on Kitchener Drive in Darwin City, a short walk downhill from Smith Street Mall, with a netted swimming lagoon, a paid Wave Lagoon and a strip of restaurants and bars facing the harbour. 4.6★ (4,499 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Darwin"
-category: "attraction"
-pubDate: "2026-09-28T17:07:16.127Z"
+title: 'Darwin Waterfront Precinct: Travel Guide (4.6★)'
+description: >-
+  Darwin Waterfront Precinct sits on Kitchener Drive in Darwin City, a short
+  walk downhill from Smith Street Mall, with a netted swimming lagoon, a paid
+  Wave Lagoon and a strip of restaurants and bars facing the harbour. 4.6★
+  (4,501 reviews) — what visitors say, hours, and tips.
+country: Australia
+region: Darwin
+category: attraction
+pubDate: '2026-09-28T17:07:16.127Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Darwin_Waterfront.jpg/1920px-Darwin_Waterfront.jpg"
-  credit: "Photo: eGuide Travel / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Darwin_Waterfront.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Darwin_Waterfront.jpg/1920px-Darwin_Waterfront.jpg
+  credit: 'Photo: eGuide Travel / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Darwin_Waterfront.jpg'
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Darwin_%28AU%29%2C_Darwin_Waterfront_--_2019_--_4423-5.jpg/3840px-Darwin_%28AU%29%2C_Darwin_Waterfront_--_2019_--_4423-5.jpg"
-    credit: "Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Darwin_(AU),_Darwin_Waterfront_--_2019_--_4423-5.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Darwin_%28AU%29%2C_Darwin_Waterfront_--_2019_--_4423-5.jpg/3840px-Darwin_%28AU%29%2C_Darwin_Waterfront_--_2019_--_4423-5.jpg
+    credit: 'Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Darwin_(AU),_Darwin_Waterfront_--_2019_--_4423-5.jpg
 place:
-  id: "ChIJCUMSuwSRwCwRTDSmAixe02M"
-  name: "Darwin Waterfront Precinct"
-  address: "19B Kitchener Dr, Darwin City NT 0800, Australia"
+  id: ChIJCUMSuwSRwCwRTDSmAixe02M
+  name: Darwin Waterfront Precinct
+  address: '19B Kitchener Dr, Darwin City NT 0800, Australia'
   rating: 4.6
-  userRatingsTotal: 4499
-  googleMapsUrl: "https://maps.google.com/?cid=7193196572956832844&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4501
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7193196572956832844&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -12.467319999999999
   lng: 130.84674920000003
   busyness:
-    updated: 2026-09-28
+    updated: 2026-09-28T00:00:00.000Z
     weekdayBusy:
       - 18
       - 19
@@ -46,8 +54,8 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_4d3230657869416d5344545277437752537775534d55434a496843"
-  phone: '+61 8 8999 5155'
+    venueId: ven_4d3230657869416d5344545277437752537775534d55434a496843
+  phone: +61 8 8999 5155
   openingHours:
     - 'Monday: Open 24 hours'
     - 'Tuesday: Open 24 hours'
@@ -57,22 +65,44 @@ place:
     - 'Saturday: Open 24 hours'
     - 'Sunday: Open 24 hours'
 tags:
-  - "darwin"
-  - "top attraction"
-quickAnswer: "Darwin Waterfront Precinct sits on Kitchener Drive in Darwin City, a short walk downhill from Smith Street Mall, with a netted swimming lagoon, a paid Wave Lagoon and a strip of restaurants and bars facing the harbour. Try not to arrive between 11am and 11pm on weekends, which is when it runs busiest. Come on a weekday or in the cooler dry season from May to October for easier swimming and a table without a wait."
+  - darwin
+  - top attraction
+quickAnswer: >-
+  Darwin Waterfront Precinct sits on Kitchener Drive in Darwin City, a short
+  walk downhill from Smith Street Mall, with a netted swimming lagoon, a paid
+  Wave Lagoon and a strip of restaurants and bars facing the harbour. Try not to
+  arrive between 11am and 11pm on weekends, which is when it runs busiest. Come
+  on a weekday or in the cooler dry season from May to October for easier
+  swimming and a table without a wait.
 faq:
-  - q: "When is the quietest time to visit Darwin Waterfront Precinct?"
-    a: "We only have measured data for the busy period: weekends from 11am to 11pm. Avoid that stretch by coming on a weekday, or arrive before 11am if you have to come on a weekend."
-  - q: "Can you swim safely at Darwin Waterfront?"
-    a: "Yes. The Recreation Lagoon is a netted beach area kept separate from the harbour, and the Wave Lagoon is a supervised pool. Both keep you away from the box jellyfish and crocodiles found in the open sea."
-  - q: "How do I get there from the city centre?"
-    a: "Walk from Smith Street and take the lift and Sky Bridge down to the waterfront. It takes about ten minutes from Smith Street Mall. You can also drive and park along Kitchener Drive."
-  - q: "Is the Wave Lagoon free?"
-    a: "No, the Wave Lagoon charges for entry. Current prices and session times are posted at the entrance and on the official Waterfront website. The Recreation Lagoon is open to the public."
-  - q: "What else is nearby?"
-    a: "Stokes Hill Wharf, the Royal Flying Doctor Service Tourist Facility and the WWII Oil Storage Tunnels are all within walking distance along the waterfront and Kitchener Drive."
+  - q: When is the quietest time to visit Darwin Waterfront Precinct?
+    a: >-
+      We only have measured data for the busy period: weekends from 11am to
+      11pm. Avoid that stretch by coming on a weekday, or arrive before 11am if
+      you have to come on a weekend.
+  - q: Can you swim safely at Darwin Waterfront?
+    a: >-
+      Yes. The Recreation Lagoon is a netted beach area kept separate from the
+      harbour, and the Wave Lagoon is a supervised pool. Both keep you away from
+      the box jellyfish and crocodiles found in the open sea.
+  - q: How do I get there from the city centre?
+    a: >-
+      Walk from Smith Street and take the lift and Sky Bridge down to the
+      waterfront. It takes about ten minutes from Smith Street Mall. You can
+      also drive and park along Kitchener Drive.
+  - q: Is the Wave Lagoon free?
+    a: >-
+      No, the Wave Lagoon charges for entry. Current prices and session times
+      are posted at the entrance and on the official Waterfront website. The
+      Recreation Lagoon is open to the public.
+  - q: What else is nearby?
+    a: >-
+      Stokes Hill Wharf, the Royal Flying Doctor Service Tourist Facility and
+      the WWII Oil Storage Tunnels are all within walking distance along the
+      waterfront and Kitchener Drive.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-29'
 ---
 
 ## Swimming without the stingers

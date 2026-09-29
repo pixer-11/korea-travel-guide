@@ -1,59 +1,89 @@
 ---
-title: "Porta dei Vacca: Genoa Travel Guide (4.3★)"
-description: "Porta dei Vacca is a 12th-century city gate at the western end of Via del Campo in Genoa's old town, a short walk from Porto Antico and Genova Principe station. 4.3★ (280 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Genoa"
-category: "hidden-gem"
-pubDate: "2026-09-28T15:47:46.456Z"
+title: 'Porta dei Vacca: Genoa Travel Guide (4.3★)'
+description: >-
+  Porta dei Vacca is a 12th-century city gate at the western end of Via del
+  Campo in Genoa's old town, a short walk from Porto Antico and Genova Principe
+  station. 4.3★ (281 reviews) — what visitors say, hours, and tips.
+country: Italy
+region: Genoa
+category: hidden-gem
+pubDate: '2026-09-28T15:47:46.456Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/0/04/Porta_dei_Vacca_-_Genova_-_panoramio.jpg"
-  credit: "Photo: kajikawa / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Porta_dei_Vacca_-_Genova_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/0/04/Porta_dei_Vacca_-_Genova_-_panoramio.jpg
+  credit: 'Photo: kajikawa / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Porta_dei_Vacca_-_Genova_-_panoramio.jpg
+  via: act
   focus:
     x: 48
-    y: 30
+    'y': 30
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/d/de/Porta_dei_vacca_02.jpg"
-    credit: "Photo: Alessio Sbarbaro / Wikimedia Commons (CC BY-SA 2.5)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Porta_dei_vacca_02.jpg"
+  - url: 'https://upload.wikimedia.org/wikipedia/commons/d/de/Porta_dei_vacca_02.jpg'
+    credit: 'Photo: Alessio Sbarbaro / Wikimedia Commons (CC BY-SA 2.5)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Porta_dei_vacca_02.jpg'
 place:
-  id: "ChIJa_EZLeJD0xIRNqu7N_Zw-fU"
-  name: "Porta dei Vacca"
-  address: "Via del Campo, 16124 Genova GE, Italy"
+  id: ChIJa_EZLeJD0xIRNqu7N_Zw-fU
+  name: Porta dei Vacca
+  address: 'Via del Campo, 16124 Genova GE, Italy'
   rating: 4.3
-  userRatingsTotal: 280
-  googleMapsUrl: "https://maps.google.com/?cid=17724322011292609334&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 281
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17724322011292609334&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 44.412952700000005
   lng: 8.9271646
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: Closed"
-    - "Wednesday: Closed"
-    - "Thursday: Closed"
-    - "Friday: Closed"
-    - "Saturday: Closed"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: Closed'
+    - 'Thursday: Closed'
+    - 'Friday: Closed'
+    - 'Saturday: Closed'
+    - 'Sunday: 9:00 AM – 5:00 PM'
 tags:
-  - "genoa"
-  - "old quarter"
-quickAnswer: "Porta dei Vacca is a 12th-century city gate at the western end of Via del Campo in Genoa's old town, a short walk from Porto Antico and Genova Principe station. Its listed hours are Sunday and Monday, 9am to 5pm, and it is closed Tuesday to Saturday, so plan your proper visit for one of those two days. Allow 20 to 30 minutes for the gate, or an hour if you also walk Via del Campo and Via Prè."
+  - genoa
+  - old quarter
+quickAnswer: >-
+  Porta dei Vacca is a 12th-century city gate at the western end of Via del
+  Campo in Genoa's old town, a short walk from Porto Antico and Genova Principe
+  station. Its listed hours are Sunday and Monday, 9am to 5pm, and it is closed
+  Tuesday to Saturday, so plan your proper visit for one of those two days.
+  Allow 20 to 30 minutes for the gate, or an hour if you also walk Via del Campo
+  and Via Prè.
 faq:
-  - q: "When is Porta dei Vacca open?"
-    a: "Its listed hours are Sunday and Monday, 9am to 5pm. It is listed as closed Tuesday to Saturday, so plan your visit for a Sunday or Monday and check the listing shortly before you go."
-  - q: "How do I get to Porta dei Vacca?"
-    a: "It is at the western end of Via del Campo in Genoa's old town. Genova Principe station is roughly a ten-minute walk away, and Darsena metro stop is a few minutes away. From Porto Antico and the Aquarium, walk northwest along the waterfront."
-  - q: "How long should I spend there?"
-    a: "Allow 20 to 30 minutes for the gate itself. Allow an hour or two if you combine it with Via del Campo, Via Prè, the Commenda di San Giovanni di Prè and the Darsena."
-  - q: "What is the connection to Fabrizio De André?"
-    a: "The gate stands at the end of Via del Campo, the street De André named a song after on his 1967 album. At Via del Campo 29 rosso, a small space is dedicated to him and the Genoese songwriters. Check its hours separately."
-  - q: "How is it different from Porta Soprana?"
-    a: "Both gates were part of the 1155 Barbarossa walls and share the same design of a single arch between two towers. Porta Soprana guarded the eastern approach. Porta dei Vacca guarded the western coastal approach and is tucked among houses at the working port edge of the old town."
+  - q: When is Porta dei Vacca open?
+    a: >-
+      Its listed hours are Sunday and Monday, 9am to 5pm. It is listed as closed
+      Tuesday to Saturday, so plan your visit for a Sunday or Monday and check
+      the listing shortly before you go.
+  - q: How do I get to Porta dei Vacca?
+    a: >-
+      It is at the western end of Via del Campo in Genoa's old town. Genova
+      Principe station is roughly a ten-minute walk away, and Darsena metro stop
+      is a few minutes away. From Porto Antico and the Aquarium, walk northwest
+      along the waterfront.
+  - q: How long should I spend there?
+    a: >-
+      Allow 20 to 30 minutes for the gate itself. Allow an hour or two if you
+      combine it with Via del Campo, Via Prè, the Commenda di San Giovanni di
+      Prè and the Darsena.
+  - q: What is the connection to Fabrizio De André?
+    a: >-
+      The gate stands at the end of Via del Campo, the street De André named a
+      song after on his 1967 album. At Via del Campo 29 rosso, a small space is
+      dedicated to him and the Genoese songwriters. Check its hours separately.
+  - q: How is it different from Porta Soprana?
+    a: >-
+      Both gates were part of the 1155 Barbarossa walls and share the same
+      design of a single arch between two towers. Porta Soprana guarded the
+      eastern approach. Porta dei Vacca guarded the western coastal approach and
+      is tucked among houses at the working port edge of the old town.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-29'
 ---
 
 Two stone towers rise from the end of a narrow Genoese street, with a pointed arch between them. Via del Campo is barely wide enough for a delivery van, and it runs straight into that arch. Walk through and the medieval city ends. On the far side are the traffic of the port road and the open sky over the harbour.

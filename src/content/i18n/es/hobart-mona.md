@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: hobart-mona
-srcHash: '9b11fc8e523a'
+srcHash: 'a06dd8e28ecc'
 title: 'MONA: guía de viaje de Hobart (4.3★)'
-description: El MONA se encuentra en 655 Main Rd, en Berriedale, un barrio del norte de Hobart situado en la península de la bodega Moorilla. Tiene una valoración de 4.3★ (13,833 reseñas). Aquí encontrará lo que opinan los visitantes, además de horarios y consejos.
+description: El MONA se encuentra en 655 Main Rd, en Berriedale, un barrio del norte de Hobart situado en la península de la bodega Moorilla. Tiene una valoración de 4.3★ (13,835 reseñas). Aquí encontrará lo que opinan los visitantes, además de horarios y consejos.
 quickAnswer: El MONA se encuentra en 655 Main Rd, en Berriedale, un barrio del norte de Hobart situado en la península de la bodega Moorilla. Casi todo el museo está excavado bajo tierra, en la arenisca. Abre de 10am a 5pm los lunes y de jueves a domingo, y cierra martes y miércoles. Los fines de semana hay mucha gente durante todo el horario de apertura, de 10am a 5pm, así que la visita más tranquila es la de un lunes, un jueves o un viernes.
 faq:
   - q: ¿Qué días abre el MONA?

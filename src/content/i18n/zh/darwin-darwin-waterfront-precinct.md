@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: darwin-darwin-waterfront-precinct
-srcHash: '763bcbb74a1c'
+srcHash: 'df6324f9c7ad'
 title: 达尔文海滨区旅行指南（4.6★）
-description: 达尔文海滨区位于达尔文市中心的Kitchener Drive，从史密斯街购物中心（Smith Street Mall）沿坡而下，步行片刻即到。这里有围网保护的游泳泻湖和收费的造浪泻湖，还有一排面朝港湾的餐厅和酒吧。评分4.6★（4,499条评价），下面整理了游客评价、开放时间和游玩建议。
+description: 达尔文海滨区位于达尔文市中心的Kitchener Drive，从史密斯街购物中心（Smith Street Mall）沿坡而下，步行片刻即到。这里有围网保护的游泳泻湖和收费的造浪泻湖，还有一排面朝港湾的餐厅和酒吧。评分4.6★（4,501条评价），下面整理了游客评价、开放时间和游玩建议。
 quickAnswer: 达尔文海滨区位于达尔文市中心的Kitchener Drive，从史密斯街购物中心（Smith Street Mall）沿坡而下，步行片刻即到。这里有围网保护的游泳泻湖和收费的造浪泻湖，港湾边还有一排餐厅和酒吧。周末上午11点至晚上11点人最多，尽量错开这段时间。工作日来，或者赶在5月至10月凉爽的旱季来，游泳更舒服，吃饭也基本不用排队。
 faq:
   - q: 达尔文海滨区什么时候去人最少？

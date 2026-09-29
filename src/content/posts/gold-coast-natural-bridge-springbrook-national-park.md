@@ -1,44 +1,52 @@
 ---
-title: "Natural Bridge, Springbrook National Park: Gold Coast Travel Guide"
-description: "Natural Bridge, Springbrook National Park sits off Bakers Rd in the Numinbah Valley, about an hour's drive inland from the Gold Coast. 4.8★ (4,438 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Gold Coast"
-category: "hidden-gem"
-pubDate: "2026-09-28T16:47:27.546Z"
+title: 'Natural Bridge, Springbrook National Park: Gold Coast Travel Guide'
+description: >-
+  Natural Bridge, Springbrook National Park sits off Bakers Rd in the Numinbah
+  Valley, about an hour's drive inland from the Gold Coast. 4.8★ (4,439 reviews)
+  — what visitors say, hours, and tips.
+country: Australia
+region: Gold Coast
+category: hidden-gem
+pubDate: '2026-09-28T16:47:27.546Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Natural_Bridge%2C_Springbrook_National_Park_18.jpg/3840px-Natural_Bridge%2C_Springbrook_National_Park_18.jpg"
-  credit: "Photo: Aliceinthealice / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Natural_Bridge,_Springbrook_National_Park_18.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Natural_Bridge%2C_Springbrook_National_Park_18.jpg/3840px-Natural_Bridge%2C_Springbrook_National_Park_18.jpg
+  credit: 'Photo: Aliceinthealice / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Natural_Bridge,_Springbrook_National_Park_18.jpg
+  via: act
   focus:
     x: 30
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/d/db/Natural_Bridge_%28Natural_Arch%29%2C_Gold_Coast_hinterland%2C_Australia_-_panoramio.jpg"
-    credit: "Photo: zpunout / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Natural_Bridge_(Natural_Arch),_Gold_Coast_hinterland,_Australia_-_panoramio.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/d/db/Natural_Bridge_%28Natural_Arch%29%2C_Gold_Coast_hinterland%2C_Australia_-_panoramio.jpg
+    credit: 'Photo: zpunout / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Natural_Bridge_(Natural_Arch),_Gold_Coast_hinterland,_Australia_-_panoramio.jpg
 place:
-  id: "ChIJwd6zrMvgkGsRmg6haHwhDro"
-  name: "Natural Bridge, Springbrook National Park"
-  address: "Bakers Rd, Natural Bridge QLD 4211, Australia"
+  id: ChIJwd6zrMvgkGsRmg6haHwhDro
+  name: 'Natural Bridge, Springbrook National Park'
+  address: 'Bakers Rd, Natural Bridge QLD 4211, Australia'
   rating: 4.8
-  userRatingsTotal: 4438
-  googleMapsUrl: "https://maps.google.com/?cid=13406689958943592090&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4439
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13406689958943592090&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -28.2305423
   lng: 153.2424494
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-09-28
+    updated: 2026-09-28T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekendQuiet:
@@ -56,24 +64,42 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_6f7244687748616836676d5273476b67764d727a3664774a496843"
+    venueId: ven_6f7244687748616836676d5273476b67764d727a3664774a496843
 tags:
-  - "gold coast"
-  - "hidden gem"
-quickAnswer: "Natural Bridge, Springbrook National Park sits off Bakers Rd in the Numinbah Valley, about an hour's drive inland from the Gold Coast. Its best time is 7am–8am, the quietest hour on both weekdays and weekends. Weekends from 10am to 10pm are the busiest, and that includes the evening glow-worm crowd."
+  - gold coast
+  - hidden gem
+quickAnswer: >-
+  Natural Bridge, Springbrook National Park sits off Bakers Rd in the Numinbah
+  Valley, about an hour's drive inland from the Gold Coast. Its best time is
+  7am–8am, the quietest hour on both weekdays and weekends. Weekends from 10am
+  to 10pm are the busiest, and that includes the evening glow-worm crowd.
 faq:
-  - q: "When is the quietest time to visit Natural Bridge?"
-    a: "7am–8am is the quietest hour on both weekdays and weekends. Avoid weekends between 10am and 10pm, the busiest period."
-  - q: "How long does the Natural Bridge walk take?"
-    a: "The loop is roughly 1 km on a sealed path with steps. Allow 45 minutes to an hour, or longer if you stay at night to watch the glow worms."
-  - q: "Can you see the glow worms, and when?"
-    a: "Yes. The glow worms light up the cave roof after dark, and the track is listed as open 24 hours. The display is strongest in warm, humid months, roughly December to March. Use a red-filtered torch and no flash."
-  - q: "How do I get to Natural Bridge from the Gold Coast?"
-    a: "Drive from Nerang along the Nerang–Murwillumbah Road through the Numinbah Valley and follow the signs to Bakers Rd. It takes about an hour from Surfers Paradise. There is no public transport, so if you don't have a car, go with a tour."
-  - q: "Can you swim at Natural Bridge?"
-    a: "No. Swimming in the plunge pool and Cave Creek is banned. Stay on the path and behind the railings."
+  - q: When is the quietest time to visit Natural Bridge?
+    a: >-
+      7am–8am is the quietest hour on both weekdays and weekends. Avoid weekends
+      between 10am and 10pm, the busiest period.
+  - q: How long does the Natural Bridge walk take?
+    a: >-
+      The loop is roughly 1 km on a sealed path with steps. Allow 45 minutes to
+      an hour, or longer if you stay at night to watch the glow worms.
+  - q: 'Can you see the glow worms, and when?'
+    a: >-
+      Yes. The glow worms light up the cave roof after dark, and the track is
+      listed as open 24 hours. The display is strongest in warm, humid months,
+      roughly December to March. Use a red-filtered torch and no flash.
+  - q: How do I get to Natural Bridge from the Gold Coast?
+    a: >-
+      Drive from Nerang along the Nerang–Murwillumbah Road through the Numinbah
+      Valley and follow the signs to Bakers Rd. It takes about an hour from
+      Surfers Paradise. There is no public transport, so if you don't have a
+      car, go with a tour.
+  - q: Can you swim at Natural Bridge?
+    a: >-
+      No. Swimming in the plunge pool and Cave Creek is banned. Stay on the path
+      and behind the railings.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-29'
 ---
 
 ## A creek that falls through a cave roof

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: fremantle-fremantle-prison
-srcHash: '03d172a18fcd'
+srcHash: 'c019daf01404'
 title: 'Prisión de Fremantle: guía de viaje (4.7★)'
 description: En lo alto de la colina que domina el centro de Fremantle, en 1 The Terrace, se alza la antigua prisión de la ciudad. Tiene una valoración de 4.7★ con 4,291 reseñas. Aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: La prisión de Fremantle (Fremantle Prison) se encuentra en 1 The Terrace, en la colina que domina el centro de Fremantle. Los convictos la levantaron en piedra caliza y hoy es Patrimonio de la Humanidad de la UNESCO. Se recorre con visitas guiadas que pasan por las celdas, el patíbulo y los túneles del subsuelo. Los fines de semana, la mayor afluencia se concentra entre las 11am y las 4pm. Si busca visitas más tranquilas, le conviene ir un día laborable.

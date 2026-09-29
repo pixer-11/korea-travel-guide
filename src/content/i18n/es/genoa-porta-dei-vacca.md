@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: genoa-porta-dei-vacca
-srcHash: '610e9dd8e262'
+srcHash: 'a5cf988d5e32'
 title: 'Porta dei Vacca: guía de viaje de Génova (4.3★)'
-description: 'En el extremo occidental de Via del Campo, en pleno casco antiguo de Génova, se alza Porta dei Vacca, una puerta de la muralla del siglo XII a poca distancia a pie del Porto Antico y de la estación de Genova Principe. 4.3★ (280 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el extremo occidental de Via del Campo, en pleno casco antiguo de Génova, se alza Porta dei Vacca, una puerta de la muralla del siglo XII a poca distancia a pie del Porto Antico y de la estación de Genova Principe. 4.3★ (281 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el extremo occidental de Via del Campo, en pleno casco antiguo de Génova, se alza Porta dei Vacca, una puerta de la muralla del siglo XII a poca distancia a pie del Porto Antico y de la estación de Genova Principe. Según el horario publicado, abre los domingos y los lunes de 9:00 a 17:00 y permanece cerrada de martes a sábado, así que conviene reservar uno de esos dos días para visitarla con calma. La puerta en sí requiere entre 20 y 30 minutos; si además recorre Via del Campo y Via Prè, calcule una hora.
 faq:
   - q: ¿Qué días abre Porta dei Vacca?

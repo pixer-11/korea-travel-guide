@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: colmar-maison-pfister
-srcHash: 'fd770760c09c'
+srcHash: '13705a2772fa'
 title: 普菲斯特之家：科尔马旅行指南（4.7★）
-description: 普菲斯特之家（Maison Pfister）位于科尔马老城商人街11号（11 Rue des Marchands），是一座建于1537年的文艺复兴彩绘老宅，步行几分钟就能到圣马丁教堂（Collégiale Saint-Martin）。评分4.7★（866条评价）。本文汇总了游客评价、开放时间和参观建议。
+description: 普菲斯特之家（Maison Pfister）位于科尔马老城商人街11号（11 Rue des Marchands），是一座建于1537年的文艺复兴彩绘老宅，步行几分钟就能到圣马丁教堂（Collégiale Saint-Martin）。评分4.7★（868条评价）。本文汇总了游客评价、开放时间和参观建议。
 quickAnswer: 普菲斯特之家（Maison Pfister）位于科尔马老城商人街11号（11 Rue des Marchands），是一座1537年建成的文艺复兴彩绘老宅，离圣马丁教堂（Collégiale Saint-Martin）只有几分钟步行路程。工作日上午10点至晚上7点人都不多。周末最好错开中午12点至下午5点。看外立面留出15到20分钟就够，看完可以顺路走去小威尼斯（Petite Venise）。
 faq:
   - q: 什么时候去普菲斯特之家人最少？

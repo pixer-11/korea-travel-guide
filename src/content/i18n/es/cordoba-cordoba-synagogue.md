@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: cordoba-cordoba-synagogue
-srcHash: 'ee0758ed2713'
+srcHash: '0f694f4d6614'
 title: 'Sinagoga de Córdoba: guía de viaje de Córdoba (4.3★)'
-description: 'En plena Judería cordobesa, a pocos minutos a pie de la Mezquita-Catedral, se encuentra la Sinagoga de Córdoba (Calle Judíos 20). Valoración de 4.3★ (4,856 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En plena Judería cordobesa, a pocos minutos a pie de la Mezquita-Catedral, se encuentra la Sinagoga de Córdoba (Calle Judíos 20). Valoración de 4.3★ (4,857 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La Sinagoga de Córdoba se halla en la Calle Judíos 20, en la Judería, el antiguo barrio judío de la ciudad, a pocos minutos a pie de la Mezquita-Catedral. Es la única sinagoga medieval que se conserva en Andalucía y basta con 20 a 30 minutos para recorrerla. Abre de martes a domingo, de 9am a 3pm, y cierra los lunes. Como los fines de semana la mayor afluencia se concentra entre las 11am y las 3pm, conviene llegar a las 9am.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la Sinagoga de Córdoba?

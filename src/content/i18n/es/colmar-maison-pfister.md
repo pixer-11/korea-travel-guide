@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: colmar-maison-pfister
-srcHash: 'fd770760c09c'
+srcHash: '13705a2772fa'
 title: 'Casa Pfister (Maison Pfister): guía de viaje de Colmar (4.7★)'
 description: La Casa Pfister, levantada en 1537, es una casa renacentista pintada que se encuentra en el 11 Rue des Marchands, en el casco antiguo de Colmar, a pocos minutos a pie de la Colegiata de San Martín (Collégiale Saint-Martin). Tiene una valoración de 4.7★ con 866 reseñas. Aquí encontrará las opiniones de los visitantes, el horario y varios consejos.
 quickAnswer: En pleno casco antiguo de Colmar, en el 11 Rue des Marchands, se alza la Casa Pfister (Maison Pfister), una casa renacentista pintada que data de 1537. La Colegiata de San Martín (Collégiale Saint-Martin) queda a pocos minutos a pie. Entre semana hay poca gente a cualquier hora entre las 10am y las 7pm, mientras que los fines de semana conviene evitar la franja de 12pm a 5pm. La fachada se ve en 15 a 20 minutos, así que lo ideal es incluirla en un paseo hacia la Pequeña Venecia (Petite Venise).

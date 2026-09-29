@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: cordoba-cordoba-synagogue
-srcHash: 'ee0758ed2713'
+srcHash: '0f694f4d6614'
 title: 科尔多瓦犹太会堂：科尔多瓦旅行指南（4.3★）
-description: 科尔多瓦犹太会堂位于老犹太区（Judería）的Calle Judíos 20号，从清真寺-主教座堂步行过去只要几分钟。4.3★（4,856条评价），游客评价、开放时间和实用贴士都在这里。
+description: 科尔多瓦犹太会堂位于老犹太区（Judería）的Calle Judíos 20号，从清真寺-主教座堂步行过去只要几分钟。4.3★（4,857条评价），游客评价、开放时间和实用贴士都在这里。
 quickAnswer: 科尔多瓦犹太会堂位于老犹太区（Judería）的Calle Judíos 20号，从清真寺-主教座堂（Mezquita-Catedral）走过去只需几分钟。这是安达卢西亚仅存的一座中世纪犹太会堂，逛一圈花20到30分钟就够了。开放时间为周二至周日9am至3pm，周一闭馆。周末11am到3pm人最多，建议9am开门时就到��
 faq:
   - q: 什么时候去科尔多瓦犹太会堂人最少？
