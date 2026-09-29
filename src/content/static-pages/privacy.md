@@ -55,7 +55,7 @@ We do not sell, resell, license, redistribute, or otherwise make Pinterest conte
 
 ## How long we keep data
 
-We keep your newsletter email address until you unsubscribe, and emails you send us for as long as needed to answer them. Analytics data is aggregate and contains no personal data.
+When you unsubscribe, we stop sending you emails straight away. Your address then stays in our email provider's list marked as unsubscribed, which is what prevents it from being emailed again by mistake. If you would rather it be deleted completely, email us and we will erase it. Emails you send us are kept for as long as needed to answer them. Analytics data is aggregate and contains no personal data.
 
 ## Your choices (GDPR / CCPA)
 

@@ -48,21 +48,47 @@ for (const f of walk(SRC)) {
   }
 }
 
-async function get(url, init = {}) {
+// The timeout covers the BODY too (withBody): a connection that drops after the
+// headers must come back as a network error, not escape as an unhandled throw.
+async function get(url, init = {}, withBody = false) {
   const ctrl = new AbortController();
   const t = setTimeout(() => ctrl.abort(), 20000);
   try {
-    return await fetch(url, { ...init, signal: ctrl.signal, headers: { 'User-Agent': UA, ...(init.headers || {}) } });
+    const res = await fetch(url, { ...init, signal: ctrl.signal, headers: { 'User-Agent': UA, ...(init.headers || {}) } });
+    return withBody ? { res, body: await res.text() } : { res, body: '' };
   } finally { clearTimeout(t); }
 }
 
+// Seeing 754088 is not always enough. Klook credits a click only through the
+// token Travelpayouts mints into aid=api|13694|<token>-754088; the worker's own
+// fallback carries an EMPTY token (api|13694|-754088), still reaches Klook and
+// earns nothing (worker/index.mjs, "Klook click relay"). Codex review 09-29.
+// Only the aid parameter itself is judged (URLSearchParams decodes it safely —
+// a stray "%" elsewhere in the URL must not throw, and a token-looking string
+// in some other parameter must not vouch for an empty aid).
+const KLOOK_AID = new RegExp(String.raw`^api\|13694\|[0-9a-f]{8,}-${MARKER}(\||$)`);
+function markerProblem(url) {
+  let u;
+  try { u = new URL(url); } catch { return null; }
+  if (u.hostname === 'affiliate.klook.com' && !KLOOK_AID.test(u.searchParams.get('aid') ?? '')) {
+    return 'Klook aid has no click token (api|13694|-754088) — reaches Klook but cannot be credited';
+  }
+  return null;
+}
+
 // Follow redirects by hand so every hop's URL can be searched for the marker.
+// MAX_HOPS redirects are followed and the URL they land on is still judged.
+const MAX_HOPS = 8;
 async function followLink(url) {
   let cur = url;
-  for (let hop = 0; hop < 8; hop++) {
-    if (cur.includes(MARKER)) return { verdict: 'ok', detail: new URL(cur).hostname };
+  for (let hop = 0; ; hop++) {
+    if (cur.includes(MARKER)) {
+      const why = markerProblem(cur);
+      return why ? { verdict: 'broken', detail: why } : { verdict: 'ok', detail: new URL(cur).hostname };
+    }
+    if (hop === MAX_HOPS) return { verdict: 'broken', detail: 'too many redirects' };
     let res;
-    try { res = await get(cur, { redirect: 'manual' }); }
+    try { ({ res } = await get(cur, { redirect: 'manual' })); }
     catch (e) { return { verdict: 'unmeasured', detail: e.name === 'AbortError' ? 'timeout' : e.message }; }
     if (res.status >= 300 && res.status < 400 && res.headers.get('location')) {
       cur = new URL(res.headers.get('location'), cur).href;
@@ -72,17 +98,27 @@ async function followLink(url) {
     if (res.status >= 400) return { verdict: 'broken', detail: `HTTP ${res.status} at ${new URL(cur).hostname} before the marker appeared` };
     return { verdict: 'broken', detail: `ended at ${new URL(cur).hostname} (HTTP ${res.status}) without marker ${MARKER}` };
   }
-  return cur.includes(MARKER) ? { verdict: 'ok', detail: new URL(cur).hostname } : { verdict: 'broken', detail: 'too many redirects' };
 }
 
+const WIDGET_BASE = process.env.WIDGET_BASE || 'https://tpemd.com';   // overridable only for the test
 async function checkWidget(promo) {
-  const url = `https://tpemd.com/content?currency=usd&trs=553157&shmarker=${MARKER}&locale=en&powered_by=true&promo_id=${promo}${promo === '4497' ? '&campaign_id=137&city_id=13&category=1&amount=3' : '&campaign_id=100&show_hotels=false&searchUrl=www.aviasales.com%2Fsearch'}`;
-  let res;
-  try { res = await get(url); } catch (e) { return { verdict: 'unmeasured', detail: e.name === 'AbortError' ? 'timeout' : e.message }; }
+  const url = `${WIDGET_BASE}/content?currency=usd&trs=553157&shmarker=${MARKER}&locale=en&powered_by=true&promo_id=${promo}${promo === '4497' ? '&campaign_id=137&city_id=13&category=1&amount=3' : '&campaign_id=100&show_hotels=false&searchUrl=www.aviasales.com%2Fsearch'}`;
+  let res, body;
+  try { ({ res, body } = await get(url, {}, true)); } catch (e) { return { verdict: 'unmeasured', detail: e.name === 'AbortError' ? 'timeout' : e.message }; }
   if (res.status >= 500 || res.status === 408 || res.status === 429) return { verdict: 'unmeasured', detail: `HTTP ${res.status}` };
-  const len = (await res.text()).trim().length;
-  // A widget whose program the marker is not subscribed to answers an empty body.
-  return len > 1000 ? { verdict: 'ok', detail: `${len} bytes` } : { verdict: 'broken', detail: `HTTP ${res.status}, ${len} bytes (empty widget)` };
+  const text = body.trim();
+  // A widget whose program the marker is not subscribed to answers an empty body;
+  // an error page is HTML. Only a 2xx JavaScript body counts (codex review 09-29:
+  // a 2.6 KB 403 page used to pass on length alone).
+  if (!res.ok) return { verdict: 'broken', detail: `HTTP ${res.status}` };
+  if (text.length <= 1000) return { verdict: 'broken', detail: `HTTP ${res.status}, ${text.length} bytes (empty widget)` };
+  // HTML by header, or by how the body STARTS once leading comments are skipped
+  // (a proxy error page can open with one). Not "contains <html>" — a healthy
+  // widget script may carry an iframe document string (codex review, 3rd pass).
+  const lead = text.replace(/^(\s*<!--[\s\S]*?-->)+\s*/, '');
+  const isHtml = /text\/html/i.test(res.headers.get('content-type') ?? '') || /^<(!doctype\s+html|html[\s>])/i.test(lead);
+  if (isHtml) return { verdict: 'broken', detail: `HTTP ${res.status}, an HTML page instead of the widget script` };
+  return { verdict: 'ok', detail: `${text.length} bytes` };
 }
 
 // The hotel button is not a shortlink: it goes through our own worker route
@@ -124,6 +160,8 @@ if (process.env.GITHUB_STEP_SUMMARY) {
   appendFileSync(process.env.GITHUB_STEP_SUMMARY, `### Affiliate links\n\n${rows.map((r) => `- ${icon[r.verdict]} \`${r.what}\` — ${r.detail}`).join('\n')}\n\n${summary}\n`);
 }
 
-if (!rows.length) { console.error('No affiliate links found in the source — the scan is broken, not the links.'); process.exit(1); }
-if (!measured.length) { console.error('Nothing could be measured (all network errors) — refusing to pass blind.'); process.exit(1); }
-if (broken.length) process.exit(1);
+// exitCode, not process.exit(): exiting while fetch's keep-alive sockets are
+// still open crashes Node on Windows (0xC0000409) instead of returning 1.
+if (!rows.length) { console.error('No affiliate links found in the source — the scan is broken, not the links.'); process.exitCode = 1; }
+else if (!measured.length) { console.error('Nothing could be measured (all network errors) — refusing to pass blind.'); process.exitCode = 1; }
+else if (broken.length) process.exitCode = 1;
