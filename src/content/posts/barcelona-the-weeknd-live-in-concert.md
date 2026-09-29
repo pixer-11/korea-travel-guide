@@ -1,6 +1,6 @@
 ---
 title: 'The Weeknd Live in Concert: What to Know (Barcelona)'
-description: 'The Weeknd Live in Concert in Barcelona, Spain — September 1, 2026. What was announced: the Montjuïc venue, getting up the hill, and the neighbourhood.'
+description: The Weeknd's stadium tour was set for Barcelona's Estadi Olímpic Lluís Companys on September 1, 2026.
 country: Spain
 region: Barcelona
 category: event

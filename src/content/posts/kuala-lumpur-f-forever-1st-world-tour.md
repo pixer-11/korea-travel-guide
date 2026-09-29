@@ -1,6 +1,6 @@
 ---
 title: 'F✦FOREVER 1st World Tour: What to Know (Kuala Lumpur)'
-description: F✦FOREVER 1st World Tour was set for August 7, 2026 at Axiata Arena, Bukit Jalil, Kuala Lumpur. What the show was, and who was on the bill.
+description: F✦FOREVER — the supergroup pairing Jerry Yan, Van Ness Wu and Vic Chou (of F4 fame) with Mayday's Ashin — was set to bring its 1st World Tour to Axiata Arena, Bukit Jalil, Kuala Lumpur on August 7, 2026.
 country: Malaysia
 region: Kuala Lumpur
 category: event

@@ -189,3 +189,24 @@ test('일반론: 중국어 "一般门票"(일반 입장권)는 일반론 표지�
   assert.deepEqual(upcomingHits({ body: '本届音乐节的一般门票将于2026年9月1日发售。' }, 'zh'), ['将于']);
   assert.deepEqual(upcomingHits({ body: '一般来说，这类赛事将在一天内完成。' }, 'zh'), []);
 });
+
+test('반복 일정 규칙은 일반론이다 — 이번 회차 날짜는 아니다 (라 토마티나 09-29)', () => {
+  assert.deepEqual(upcomingHits({ description: 'La Tomatina se celebra el último miércoles de agosto, y la edición de 2026 estaba prevista para el 26 de agosto.' }, 'es'), []);
+  assert.deepEqual(upcomingHits({ description: 'La Tomatina se celebra el 26 de agosto de 2026.' }, 'es'), ['se celebra el']);
+  assert.deepEqual(upcomingHits({ body: '아와오도리는 매년 오봉 기간에 열립니다.' }, 'ko'), []);
+  assert.deepEqual(upcomingHits({ body: '올해 아와오도리는 8월 11일에 열립니다.' }, 'ko'), ['열립니다']);
+});
+
+test('일반론 표지가 있어도 이번 회차를 특정하면 면제하지 않는다 (코덱스 09-29 3건)', () => {
+  const cases = [
+    ['ko', '매년 열리는 이 축제의 2026년 행사는 8월 11일에 열립니다.', '열립니다'],
+    ['zh', '每年一度的本届音乐节将于2026年8月11日举行。', '将于'],
+    ['ja', '毎年恒例の今年の祭りは2026年8月11日に開催されます。', '開催されます'],
+    ['es', 'Como cada año la edición de 2026 se celebrará el 26 de agosto.', 'se celebrará'],
+    ['es', 'El concierto se celebra el primer día del festival (20 de septiembre de 2026).', 'se celebra el'],
+    ['ja', '通常とは異なり今年の公演は2026年9月20日に開催されます。', '開催されます'],
+  ];
+  for (const [lang, s, want] of cases) {
+    assert.ok(upcomingHits({ body: s }, lang).includes(want), `${lang}: "${s}" 를 놓쳤다`);
+  }
+});

@@ -1,6 +1,6 @@
 ---
 title: 'Chess Olympiad 2026: Dates, Tickets & Venue (Samarkand)'
-description: The 46th Chess Olympiad was set for September 15–27, 2026 in Samarkand, Uzbekistan, with around 200 national teams entered. What it is, when and where.
+description: The 46th Chess Olympiad was set for September 15–27, 2026 in Samarkand, Uzbekistan, with organisers planning for around 200 national teams from across the globe.
 country: Uzbekistan
 region: Samarkand
 category: event

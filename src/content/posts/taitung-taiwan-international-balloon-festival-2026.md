@@ -1,6 +1,6 @@
 ---
 title: 'Taiwan International Balloon Festival 2026: What to Know (Taitung)'
-description: Taiwan International Balloon Festival 2026 in Taitung was set for July 4 – August 20 at Luye Highland. What it is, when and where, and the announced programme.
+description: The Taiwan International Balloon Festival 2026 was set for July 4 – August 20 at Luye Highland (鹿野高台) in Taitung.
 country: Taiwan
 region: Taitung
 category: event

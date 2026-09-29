@@ -1,6 +1,6 @@
 ---
 title: 'World Athletics Continental Tour Silver Meet (Indian Open): What to Know (Bhubaneswar)'
-description: World Athletics Continental Tour Silver Meet (Indian Open) in Bhubaneswar, India — August 22, 2026. What was announced, and the city around it.
+description: India's first World Athletics Continental Tour Silver Meet — the Indian Open — was set for Kalinga Stadium in Bhubaneswar on August 22, 2026, an upgrade from the bronze-level meet held there in 2025.
 country: India
 region: Bhubaneswar
 category: event

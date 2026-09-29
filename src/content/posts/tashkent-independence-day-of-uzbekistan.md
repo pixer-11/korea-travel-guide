@@ -1,6 +1,6 @@
 ---
 title: 'Independence Day of Uzbekistan: Dates, Tickets & Venue (Tashkent)'
-description: Independence Day of Uzbekistan in Tashkent, Uzbekistan — September 1, 2026. What it is, when and where, and the shape of the capital's celebration.
+description: Independence Day of Uzbekistan falls on September 1 each year, and the 2026 Tashkent celebration was set for National Park (Independence Park) in the capital.
 country: Uzbekistan
 region: Tashkent
 category: event

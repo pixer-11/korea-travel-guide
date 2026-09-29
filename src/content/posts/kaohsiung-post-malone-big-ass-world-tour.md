@@ -1,6 +1,6 @@
 ---
 title: 'Post Malone – Big Ass World Tour: Dates, Tickets & Venue (Kaohsiung)'
-description: Post Malone's Big Ass World Tour was set for Kaohsiung National Stadium on September 19, 2026. The venue, the transit and what was announced.
+description: Post Malone was set to play Kaohsiung National Stadium on September 19, 2026, as part of the Asia leg of his Big Ass World Tour.
 country: Taiwan
 region: Kaohsiung
 category: event

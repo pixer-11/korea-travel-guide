@@ -1,61 +1,63 @@
 ---
 lang: es
 slug: barcelona-la-merce-festival
-srcHash: '03efccf1f189'
-title: 'Festival de La Mercè: lo que hay que saber (Barcelona)'
-description: El Festival de La Mercè en Barcelona, España, estaba previsto para el 20 al 24 de septiembre de 2026. Qué es, cuándo y dónde se celebraba, y qué incluía el programa anunciado.
-quickAnswer: 'La Mercè, la fiesta callejera más importante de Barcelona, estaba prevista para el 20 al 24 de septiembre de 2026, con actividades gratuitas repartidas por casi todos los distritos: correfocs, castells (torres humanas), desfiles de gigantes y conciertos al aire libre. Casi todo el programa era gratuito y se desarrollaba al aire libre; la contrapartida eran las aglomeraciones, especialmente en la Plaça Sant Jaume y la Via Laietana, escenarios de los momentos más destacados.'
+srcHash: '3e6c15779033'
+title: 'La Mercè: claves de la gran fiesta de Barcelona'
+description: 'Las fechas anunciadas para La Mercè, la mayor fiesta callejera de Barcelona, eran del 20 al 24 de septiembre de 2026. El programa reunía actos gratuitos en casi todos los distritos: correfocs, castellers, desfiles de gigantes y conciertos al aire libre.'
+quickAnswer: 'Las fechas anunciadas para La Mercè, la mayor fiesta callejera de Barcelona, eran del 20 al 24 de septiembre de 2026. Casi todos los distritos acogían actos gratuitos: correfocs, castellers (torres humanas), desfiles de gigantes y conciertos al aire libre. Prácticamente todo el programa era gratuito y se celebraba en la calle, a cambio de unas aglomeraciones considerables. Los grandes momentos tenían como escenario la plaza de Sant Jaume y la Via Laietana.'
 faq:
-  - q: ¿Cuáles son las fechas exactas de La Mercè 2026?
-    a: El festival estaba previsto para el 20 al 24 de septiembre de 2026. Esas son las fechas habituales de La Mercè, organizadas en torno al 24 de septiembre, día de la Virgen de la Mercè.
-  - q: ¿Se necesitan entradas?
-    a: No, para la gran mayoría de las actividades. Los correfocs, los castells, los desfiles de gigantes y la mayoría de los conciertos eran gratuitos y al aire libre. Puntualmente, algún escenario o recinto concreto podía requerir inscripción previa, algo que varía de un año a otro.
-  - q: ¿Cuál es la mejor zona para alojarse durante el festival?
-    a: El Barrio Gótico y el Born, cerca de las estaciones de metro Jaume I (L4) o Catalunya (L1/L3), quedaban a poca distancia a pie tanto del recorrido principal de los correfocs por la Via Laietana como de los castells en la Plaça Sant Jaume.
-  - q: ¿A qué hora conviene llegar para conseguir un buen sitio en el correfoc o en la exhibición de castells?
-    a: Los habituales solían llegar entre 30 y 45 minutos antes de la hora anunciada para los eventos principales, como los castells en la Plaça Sant Jaume. Esas plazas se llenaban rápido, y los locales acostumbraban a reservar su sitio con antelación.
-  - q: ¿Es La Mercè adecuada para niños?
-    a: Las actividades diurnas, como los desfiles de gigantes (gegants), estaban pensadas para toda la familia. Los correfocs nocturnos, en cambio, incluían fuegos artificiales y aglomeraciones en movimiento, por lo que las familias con niños pequeños solían mantenerse a buena distancia de ellos.
+  - q: ¿Cuáles eran las fechas exactas de La Mercè 2026?
+    a: Las fechas anunciadas eran del 20 al 24 de septiembre de 2026. Es el periodo habitual de La Mercè, que gira en torno al 24 de septiembre, festividad de la Virgen de la Merced.
+  - q: ¿Hacían falta entradas?
+    a: No para la inmensa mayoría de los actos. Los correfocs, los castellers, los desfiles de gigantes y la mayoría de los conciertos son gratuitos y al aire libre. En ocasiones, algún escenario o espacio concreto puede exigir inscripción previa, algo que cambia de un año a otro.
+  - q: ¿Cuál era la mejor zona para alojarse durante la fiesta?
+    a: El Barrio Gótico y el Born, cerca de las estaciones de metro de Jaume I (L4) o Catalunya (L1/L3). Desde allí se llega a pie tanto al recorrido principal del correfoc, en la Via Laietana, como a los castellers de la plaza de Sant Jaume.
+  - q: ¿Con cuánta antelación había que llegar para ver bien el correfoc o los castells?
+    a: Los habituales llegan entre 30–45 minutos antes de la hora anunciada para los actos más destacados, como los castellers de la plaza de Sant Jaume. Esas plazas se llenan enseguida y los vecinos toman posiciones pronto.
+  - q: ¿Era La Mercè apta para niños?
+    a: Los actos diurnos, como los desfiles de gigantes (gegants), son aptos para toda la familia. Los correfocs de la noche, en cambio, incluyen pirotecnia y multitudes densas en movimiento, por lo que las familias con niños pequeños suelen mantenerse bien apartadas.
 ---
 
-## Por qué La Mercè transforma la ciudad
+## Por qué La Mercè se adueña de la ciudad
 
-Durante cinco días cada septiembre, Barcelona deja de ser una ciudad que tiene un festival y se convierte en un festival que, de paso, envuelve a toda una ciudad. La Mercè honra a la Virgen de la Mercè, una de las patronas de Barcelona, y con las décadas ha pasado de ser una celebración religiosa a convertirse en la mayor fiesta pública gratuita de Cataluña.
+Cada septiembre, durante cinco días, Barcelona deja de ser una ciudad con fiesta para convertirse en una fiesta que resulta tener una ciudad alrededor. La Mercè rinde homenaje a la Virgen de la Merced, una de las patronas de Barcelona. Con el paso de las décadas, lo que empezó como una celebración religiosa se ha convertido en la mayor fiesta pública y gratuita de Cataluña.
 
-Se nota antes incluso de que empiece ningún acto: los andamios para los escenarios que van levantándose a lo largo del Passeig de Gràcia, las ferreterías que se quedan sin tapones para los oídos, los grupos de WhatsApp de los barrios que no paran de comentar qué esquina ofrece la mejor vista del correfoc.
+El ambiente se percibe antes incluso de que empiece el primer acto: en el paseo de Gràcia se montan los andamios de los escenarios, las ferreterías agotan los tapones para los oídos y en los grupos de WhatsApp del barrio no se habla de otra cosa que de qué esquina ofrece la mejor vista del correfoc.
 
-## Qué incluía realmente el programa
+## Qué ocurre realmente
 
-El espectáculo más emblemático son los correfocs, auténticos recorridos de fuego en los que diablos y dragones disfrazados hacen girar fuegos artificiales chisporroteantes entre el público a lo largo de un recorrido fijo, que suele bajar por la Via Laietana en dirección al puerto. El calzado cerrado y el pelo recogido son habituales entre quienes se sitúan cerca del recorrido, y acabar con un ligero olor a quemado forma parte de la tradición, no un imprevisto.
+El gran espectáculo por excelencia es el correfoc. En estos «correfuegos», diablos y dragones disfrazados hacen girar fuegos artificiales entre el público a lo largo de un recorrido fijo, que suele bajar por la Via Laietana hacia el puerto. Quienes se colocan cerca del recorrido acostumbran a llevar calzado cerrado y el pelo recogido. Volver a casa con cierto olor a chamuscado forma parte de la tradición, no es ningún percance.
 
-Igual de centrales son los castells, las torres humanas reconocidas por la UNESCO como patrimonio inmaterial: los equipos se apilan hasta alcanzar ocho o nueve pisos de altura en la Plaça Sant Jaume, mientras el público contiene la respiración esperando a la "enxaneta", el niño o niña que trepa hasta la cima y levanta la mano para señalar que la torre se ha completado.
+Igual de esenciales son los castells, las torres humanas que la UNESCO reconoce como patrimonio inmaterial. En la plaza de Sant Jaume, las collas levantan torres de ocho o nueve pisos mientras el público contiene la respiración pendiente de la «enxaneta», el niño que trepa hasta lo más alto y alza la mano para dar por coronado el castillo.
 
-Junto a ellos desfilan los gegants, figuras gigantes pintadas y vestidas sobre estructuras a modo de zancos, que recorren el Barrio Gótico. A esto se suman los conciertos gratuitos repartidos en escenarios que van desde Montjuïc hasta el Parque de la Ciutadella, con una oferta que abarca desde el rock catalán hasta artistas internacionales de gira.
+A todo ello se suman los gegants, enormes figuras pintadas y vestidas sobre armazones parecidos a zancos, que desfilan por el Barrio Gótico. También hay conciertos gratuitos en escenarios repartidos desde Montjuïc hasta el parque de la Ciutadella, con propuestas que van del rock catalán a artistas internacionales de gira.
 
-## Cómo llegar y moverse por la ciudad
+## Cómo llegar y moverse
 
-Casi todos los barrios se conectan con el festival, pero el peso principal recae sobre el centro histórico. La línea L4 (amarilla) del metro, hasta la parada de Jaume I, deja al visitante a pocos pasos de la Plaça Sant Jaume y de las procesiones del Barrio Gótico; la L1 o la L3 hasta Catalunya dejan en la parte alta de la Via Laietana y de Las Ramblas.
+Casi todos los barrios participan en la fiesta, aunque el peso recae sobre el casco histórico. La línea L4 del metro (amarilla) lleva hasta Jaume I, a pocos pasos de la plaza de Sant Jaume y de las comitivas del Barrio Gótico. Con la L1 o la L3 se llega a Catalunya, en lo alto de la Via Laietana y de Las Ramblas. Para los conciertos o los fuegos artificiales de Montjuïc, la L2 o la L3 hasta Paral·lel enlazan con el funicular que sube a la montaña.
 
-Para los conciertos o los fuegos artificiales de Montjuïc, la L2 o la L3 hasta Paral·lel conectan con el funicular que sube la montaña.
+En las horas punta se cortan al tráfico varias calles céntricas. A primera hora de la tarde, cuando coinciden los correfocs y los conciertos, el metro va mucho más lleno de lo habitual, de modo que los trayectos por el centro llevan más tiempo del que aparenta el mapa.
 
-Varias calles del centro cierran al tráfico durante las horas de más actividad, y el metro se llena de forma inusual a primera hora de la tarde, cuando los correfocs y los conciertos coinciden, de modo que cruzar el centro lleva más tiempo del que sugiere el plano.
+## Qué días elegir
 
-## Cuándo ir durante los cinco días
+La fiesta va cobrando intensidad a lo largo de la semana y alcanza su punto álgido el fin de semana más cercano al 24 de septiembre. Es entonces cuando suelen concentrarse los correfocs, la gran exhibición castellera y los fuegos artificiales de clausura sobre el puerto. Durante el día, las primeras jornadas son bastante más tranquilas: hasta el anochecer predominan los desfiles de gigantes y las actividades familiares, mientras que los correfocs y los conciertos de grandes nombres atraen a las mayores multitudes cuando ya ha oscurecido.
 
-El festival gana intensidad a lo largo de la semana y alcanza su punto álgido el fin de semana más cercano al 24 de septiembre, cuando suelen coincidir los correfocs, la exhibición principal de castells y los fuegos artificiales de clausura sobre el puerto. Las horas diurnas del primer día o los dos primeros son notablemente más tranquilas: antes del anochecer predominan los desfiles de gigantes y las actividades familiares, mientras que los correfocs y los conciertos con artistas de renombre concentran las multitudes más grandes ya de noche.
+El programa completo, con escenarios, horarios y recorridos exactos de cada comitiva, no suele cerrarse hasta pocas semanas antes. Por eso, cualquier calendario que circule con antelación es provisional.
 
-El programa completo, día por día —escenarios concretos, horarios exactos, recorridos precisos de las procesiones—, suele quedar fijado solo unas semanas antes, de modo que cualquier calendario que circule con antelación tiene carácter provisional.
+## Cómo vivirla como un barcelonés
 
-## Cómo vivir el festival como un local
+Los barceloneses se toman La Mercè como una carrera de fondo y no como un esprint. En lugar de intentar verlo todo, eligen dos o tres actos que de verdad les interesan, ya que el programa ocupa decenas de espacios sin descanso. La fiesta en sí apenas supone gasto, porque casi todos los actos principales son gratuitos y al aire libre.
 
-Los barceloneses afrontan La Mercè como una maratón, no como una carrera de velocidad: eligen dos o tres actos que realmente les interesan en lugar de intentar verlo todo, ya que el programa llena decenas de escenarios sin descanso. El dinero no supone un problema para el festival en sí, puesto que casi todos los actos principales son gratuitos y al aire libre; el efectivo o la tarjeta se reservan sobre todo para los food trucks y los bares situados junto a los recorridos, donde las colas avanzan más rápido si se lleva algo de cambio a mano.
+El efectivo o la tarjeta sirven sobre todo en los food trucks y los bares de los recorridos, donde las colas avanzan más deprisa si se lleva preparado dinero suelto.
 
-En el caso concreto de los correfocs, los asistentes con más experiencia se mantienen alejados de las vallas en lugar de pegarse a ellas, ya que las chispas llegan más lejos de lo que los recién llegados suelen esperar, y evitan cualquier prenda sintética que pueda fundirse o prenderse. El error más habitual entre los turistas es presentarse justo a la hora de inicio de un acto principal esperando tener buena vista; los habituales reservan su sitio a lo largo del recorrido con al menos 30 o 45 minutos de antelación, sobre todo cerca de la Plaça Sant Jaume para ver los castells.
+En los correfocs, los asistentes veteranos se quedan a cierta distancia de las vallas en lugar de pegarse a ellas, porque las chispas llegan más lejos de lo que imaginan los novatos. También evitan las prendas sintéticas, que pueden derretirse o prender. El error más frecuente entre los turistas es presentarse justo a la hora de inicio de un acto destacado con la esperanza de verlo sin obstáculos.
 
-Un punto de observación más tranquilo se encuentra una o dos calles apartado de los recorridos principales, donde el sonido de los tambores todavía se escucha y el olor a pólvora sigue en el aire, pero sin las aglomeraciones de codo a codo.
+Los habituales, en cambio, toman posiciones en el recorrido con 30–45 minutos de antelación como mínimo, sobre todo cerca de la plaza de Sant Jaume para los castells.
+
+A una o dos calles de los recorridos principales se encuentran rincones más tranquilos. Allí los tambores siguen oyéndose y el olor a pólvora sigue flotando en el aire, pero sin los apretujones.
 
 ## Notas prácticas
 
-Septiembre en Barcelona es caluroso, con un ambiente que durante el día todavía invita a la playa y que solo refresca ligeramente por la noche: calor durante el día, y conviene llevar alguna prenda de abrigo ligera para los conciertos nocturnos al aire libre. El alojamiento en el Barrio Gótico y el Born se agota durante esta semana, y las habitaciones a poca distancia de los actos principales son las primeras en desaparecer.
+En septiembre, Barcelona disfruta de temperaturas cálidas y, de día, a menudo aún hace tiempo de playa. Por la noche refresca solo un poco: calor durante el día y una prenda de abrigo ligera que viene bien en los conciertos nocturnos al aire libre. Los alojamientos del Barrio Gótico y del Born se llenan esa semana, y las habitaciones cercanas a los actos principales son las primeras en agotarse.
 
-Los cortes de tráfico alrededor del recorrido de los correfocs y de las plazas principales son habituales durante la semana, y van desplazándose a medida que el programa se traslada de un distrito a otro.
+Los cortes de tráfico en torno al recorrido del correfoc y a las plazas principales forman parte de la semana y cambian a medida que el programa pasa de un distrito a otro.

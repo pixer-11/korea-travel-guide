@@ -1,6 +1,6 @@
 ---
 title: 'Amr Diab Live in Istanbul: What to Know (Istanbul)'
-description: Amr Diab was set to play Istanbul on August 2, 2026. What was announced about the show, the venue question, tickets and getting around.
+description: Amr Diab, the Egyptian superstar behind decades of Arabic pop hits, was set to perform live in Istanbul on August 2, 2026.
 country: Turkey
 region: Istanbul
 category: event

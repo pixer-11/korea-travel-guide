@@ -1,6 +1,6 @@
 ---
 title: 'Def Leppard Live in Concert: What to Know (Dubai)'
-description: 'Def Leppard were set to play Coca-Cola Arena in Dubai on August 2, 2026. What was announced: the date, the venue, tickets, and getting there.'
+description: Def Leppard were set to play Coca-Cola Arena in Dubai on August 2, 2026, a single-night stop.
 country: United Arab Emirates
 region: Dubai
 category: event

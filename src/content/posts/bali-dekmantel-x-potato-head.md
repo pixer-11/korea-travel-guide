@@ -1,6 +1,6 @@
 ---
 title: 'Dekmantel x Potato Head: Dates, Tickets & Venue (Bali)'
-description: Dekmantel x Potato Head in Bali, Indonesia was set for September 25, 2026. What the event is, where it sits, and how the date was announced.
+description: Dekmantel x Potato Head was set for September 25, 2026 at Desa Potato Head in Seminyak, Bali.
 country: Indonesia
 region: Bali
 category: event

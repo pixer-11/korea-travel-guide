@@ -1,6 +1,6 @@
 ---
 title: 'Bruno Mars: The Romantic Tour: What to Know (East Rutherford)'
-description: 'Bruno Mars: The Romantic Tour was set for August 21–26, 2026 at MetLife Stadium in East Rutherford, New Jersey. What was announced, and the venue.'
+description: 'Bruno Mars: The Romantic Tour was set for a six-night run at MetLife Stadium in East Rutherford, New Jersey, on August 21–26, 2026.'
 country: United States
 region: East Rutherford
 category: event

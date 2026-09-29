@@ -1,6 +1,6 @@
 ---
 title: 'Dubai Summer Surprises (DSS) 2026: What to Know (Dubai)'
-description: Dubai Summer Surprises (DSS) 2026 in Dubai, United Arab Emirates — July 3 to August 30, 2026. What it is, and what organisers announced.
+description: Dubai Summer Surprises (DSS) 2026 was set to run citywide from July 3 to August 30, 2026, with mall-based retail promotions, raffles, and family entertainment across Dubai.
 country: United Arab Emirates
 region: Dubai
 category: event

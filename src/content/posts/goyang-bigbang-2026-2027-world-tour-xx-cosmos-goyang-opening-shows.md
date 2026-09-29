@@ -1,6 +1,6 @@
 ---
 title: 'BIGBANG 2026-2027 World Tour “XX: COSMOS” - Goyang Opening Shows: What to Know (Goyang)'
-description: 'BIGBANG''s “XX: COSMOS” world tour was set for three nights at Goyang Stadium on August 21–23, 2026. The venue, the transit links and what was announced.'
+description: 'BIGBANG was set to play three stadium shows at Goyang Stadium on August 21–23, 2026, as part of their "XX: COSMOS" world tour marking 20 years since debut.'
 country: South Korea
 region: Goyang
 category: event

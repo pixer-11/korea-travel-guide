@@ -1,60 +1,60 @@
 ---
 lang: es
 slug: samarkand-chess-olympiad-2026
-srcHash: '16a7381d59bb'
+srcHash: '4eb38031692b'
 title: 'Olimpiada de Ajedrez 2026: fechas, entradas y sede (Samarcanda)'
-description: La 46.ª Olimpiada de Ajedrez estaba prevista del 15 al 27 de septiembre de 2026 en Samarcanda (Uzbekistán), con unos 200 equipos nacionales inscritos. Qué es, cuándo y dónde.
-quickAnswer: La 46.ª Olimpiada de Ajedrez estaba prevista del 15 al 27 de septiembre de 2026 en Samarcanda (Uzbekistán), y los organizadores contaban con la participación de unos 200 equipos nacionales de todo el mundo. Como el casco histórico de Samarcanda es compacto, las partidas quedaban a una tarde tranquila de paseo del Registán y del Gur-e-Amir.
+description: Las fechas anunciadas para la 46.ª Olimpiada de Ajedrez eran del 15 al 27 de septiembre de 2026, en Samarcanda (Uzbekistán). La organización contaba con unos 200 equipos nacionales de todo el mundo.
+quickAnswer: Las fechas anunciadas para la 46.ª Olimpiada de Ajedrez eran del 15 al 27 de septiembre de 2026, en Samarcanda (Uzbekistán). La organización contaba con unos 200 equipos nacionales de todo el mundo. El casco histórico de Samarcanda es compacto, así que ver las partidas y pasear por el Registán y el mausoleo de Gur-e-Amir cabía sin prisas en una misma tarde.
 faq: []
 ---
 
-## Por qué esta Olimpiada era especial
+## Por qué importa esta Olimpiada
 
-Con esta cita, la historia del ajedrez llegaba a territorio nuevo. La Olimpiada de Ajedrez es la mayor competición por equipos de la FIDE y nunca antes se había celebrado en Asia Central. La edición de 2026 tenía como sede Samarcanda. Estaba previsto que unas 200 federaciones nacionales inscribieran equipos en las categorías abierta y femenina durante dos semanas de intensa competición.
+Esta vez, la historia del ajedrez llegaba a un lugar nuevo. La Olimpiada de Ajedrez es la mayor competición por equipos de la FIDE y nunca antes se había disputado en Asia Central. Para la edición de 2026 se eligió Samarcanda. Durante dos semanas de intensa competición, unas 200 federaciones nacionales iban a presentar equipos en las categorías absoluta y femenina.
 
-Samarcanda tampoco era un escenario cualquiera. Uzbekistán ha apostado con fuerza por el ajedrez como pasatiempo nacional, y esta antigua capital de la Ruta de la Seda, cuyos habitantes sienten auténtica pasión por el juego, resulta una anfitriona muy adecuada.
+Samarcanda tampoco es un simple telón de fondo. Uzbekistán ha invertido mucho en el ajedrez como pasatiempo nacional. Esta antigua capital de la Ruta de la Seda, donde el juego tiene muchos aficionados, resulta además una sede muy apropiada.
 
 ## Cómo llegar y orientarse
 
-Al Aeropuerto Internacional de Samarcanda llegan vuelos directos desde varios centros regionales. Además, el tren de alta velocidad Afrosiyob une la ciudad con Taskent en menos de dos horas. La mayoría de los visitantes se aloja cerca de la ciudad vieja, a poca distancia a pie del conjunto del Registán.
+El Aeropuerto Internacional de Samarcanda recibe vuelos directos desde varios centros regionales. El tren de alta velocidad Afrosiyob une la ciudad con Taskent en menos de dos horas. La mayoría de los visitantes se aloja cerca de la ciudad vieja, a poca distancia a pie del conjunto monumental del Registán.
 
-Los primeros anuncios nunca detallaron la sede concreta del torneo. Los grandes eventos internacionales de este tipo suelen celebrarse en un centro de congresos o de exposiciones, ya sea construido para la ocasión o adaptado. Por eso conviene tener en cuenta lo siguiente:
+Los primeros anuncios no detallaron la sede del torneo. Los grandes eventos internacionales de este tipo suelen celebrarse en un centro de congresos o de exposiciones, construido para la ocasión o adaptado. Por eso:
 
-- La FIDE no incluyó una dirección concreta de la sede en lo que anunció sobre la Olimpiada
-- Es habitual que los hoteles de los equipos y las sedes secundarias se vayan sumando al mapa a medida que se acerca una Olimpiada
-- Dado el espacio que exigen las grandes Olimpiadas, la sala principal de un evento de estas dimensiones suele ubicarse algo alejada del casco histórico
+- La FIDE no incluyó la dirección de la sede entre los datos que dio a conocer sobre la Olimpiada
+- A medida que se acerca una Olimpiada, es habitual que se vayan sumando al mapa los hoteles de los equipos y las sedes secundarias
+- Un evento de estas dimensiones necesita mucho espacio, por lo que la sala principal suele quedar algo alejada del casco histórico
 
-## Qué ocurre durante las jornadas
+## Qué ocurre realmente durante la competición
 
-Quienes frecuentan los torneos de ajedrez conocen bien el ritmo. Hay rondas de mañana y de tarde, jornadas de descanso repartidas a lo largo de las dos semanas y una sala de juego en plena efervescencia, con cientos de tableros en marcha al mismo tiempo.
+Quien conozca los torneos de ajedrez reconocerá el ritmo. Hay rondas de mañana y de tarde, con días de descanso repartidos a lo largo de las dos semanas. La sala de juego bulle de actividad, con cientos de tableros en juego a la vez.
 
-En la sala se oye un murmullo constante, nunca un estruendo. Los árbitros circulan en silencio entre las mesas, los tableros digitales transmiten las partidas principales a pantallas gigantes y los espectadores se agolpan junto a los cordones que rodean los enfrentamientos más destacados. En las salas anexas suele haber comentarios en directo, sesiones de análisis con grandes maestros invitados y una animada feria de libros y artículos de ajedrez.
+En la sala se oye un murmullo, no un estruendo. Los árbitros pasan en silencio entre las mesas, y los tableros digitales envían las partidas de los mejores jugadores a pantallas gigantes. Junto a los enfrentamientos más destacados, grupos de espectadores se agolpan contra los cordones. En las salas anexas suele haber comentarios, análisis con grandes maestros invitados y una animada feria de libros y artículos de ajedrez.
 
-Las ceremonias de inauguración y clausura suelen ser los momentos más ruidosos y fotogénicos. En ellas hay desfiles de banderas, discursos y, a menudo, un espectáculo cultural inspirado en el país anfitrión.
+Las ceremonias de inauguración y de clausura suelen ser los momentos más ruidosos y fotogénicos. Hay desfiles de banderas y discursos, y a menudo un espectáculo cultural que refleja la identidad del país anfitrión.
 
 ## Más allá de los tableros: qué ver en Samarcanda
 
-Entre ronda y ronda, parte de la arquitectura más fotografiada de Asia Central queda a solo diez minutos en taxi.
+Entre ronda y ronda, a diez minutos en taxi se encuentra parte de la arquitectura más fotografiada de Asia Central.
 
-- **Plaza del Registán**: tres monumentales madrasas revestidas de azulejos turquesa. El mejor momento para verlas es la hora dorada, cuando el sol bajo ilumina los mosaicos
-- **Mausoleo de Gur-e-Amir**: aquí descansa Tamerlán, bajo una cúpula acanalada de color azul celeste que se distingue desde varias calles de distancia
-- **Bazar Siab (Siab Bazaar)**: un mercado en plena actividad donde se vende pan recién hecho, fruta seca y especias entre el griterío de los comerciantes que anuncian sus precios
-- **Shah-i-Zinda**: una estrecha avenida de mausoleos alicatados que asciende por una ladera. Es más tranquila que el Registán y se llega fácilmente a pie
+- **Plaza del Registán**: la forman tres monumentales madrasas revestidas de azulejos turquesa. Luce más a la hora dorada, cuando el sol bajo ilumina los mosaicos
+- **Mausoleo de Gur-e-Amir**: aquí reposa Tamerlán (Timur), bajo una cúpula azul acanalada que se ve desde varias calles de distancia
+- **Bazar Siab (Siab Bazaar)**: en este mercado tradicional se venden pan recién hecho, fruta desecada y especias, entre el griterío de los vendedores que anuncian sus precios
+- **Shah-i-Zinda**: una estrecha avenida de mausoleos alicatados sube por la ladera de una colina. Hay menos gente que en el Registán y se llega fácilmente a pie
 
 ## Cuándo ir y qué depara septiembre
 
-En Samarcanda, la segunda quincena de septiembre trae días cálidos y noches más frescas, sin el calor agobiante del verano. Es una época agradable para recorrer la ciudad vieja entre ronda y ronda.
+En Samarcanda, la segunda quincena de septiembre trae días cálidos y noches más frescas, lejos del calor agobiante del verano. Entre ronda y ronda, es una época agradable para recorrer a pie la ciudad vieja.
 
-Las plazas de alojamiento cerca del centro histórico son escasas. Un evento que atrae a jugadores, delegaciones y periodistas de unos 200 países somete la oferta hotelera de la ciudad a una presión considerable.
+Cerca del centro histórico hay poco alojamiento. Un evento que atrae a jugadores, delegaciones y periodistas de unos 200 países pone a prueba la capacidad hotelera de la ciudad.
 
-## Cómo vivirlo como un local
+## Cómo vivirla como un local
 
-Los uzbekos siguen el ajedrez muy de cerca, y en las ciudades que acogen una Olimpiada suele respirarse un entusiasmo popular sincero, no indiferencia. En los cafés no se habla de otra cosa que de los resultados de la víspera.
+Los uzbekos siguen el ajedrez con atención. En las ciudades que acogen una Olimpiada suele notarse un entusiasmo popular auténtico, no indiferencia. En los cafés se comentan sin parar los resultados de la víspera.
 
-- **Entradas**: la FIDE suele vender abonos para espectadores por internet con antelación y, en ocasiones, también en taquilla
-- **Pago**: conviene disponer tanto de efectivo (som uzbeko) como de tarjeta, ya que los pequeños comercios y los puestos del bazar a menudo prefieren el efectivo
-- **Dosificar las fuerzas**: las rondas son largas, y los locales van a verlas cuando les apetece, sin sentirse obligados a quedarse hasta el final
-- **Normas de conducta**: cerca de los tableros, los teléfonos deben estar en silencio y se habla en voz baja. Los árbitros hacen respetar el silencio
-- **Un error frecuente**: la sede de juego de una Olimpiada rara vez se encuentra dentro de un centro histórico, y los desplazamientos entre el hotel, la sede y los monumentos suman mucho tiempo a lo largo del día
+- **Entradas**: la FIDE suele vender abonos para espectadores por internet con antelación y, en ocasiones, también en la taquilla
+- **Pago**: resultan útiles tanto el efectivo (som uzbeko) como la tarjeta, ya que los pequeños comercios y los puestos del bazar suelen preferir efectivo
+- **Sin prisas**: las rondas son largas. Los habitantes de la ciudad se acercan a ver las partidas cuando les apetece, sin sentirse obligados a quedarse de principio a fin
+- **Normas de conducta**: cerca de los tableros, los teléfonos se mantienen en silencio y se habla en voz baja. Los árbitros velan por que se respete el silencio
+- **Un error frecuente**: la sede de juego de una Olimpiada rara vez está en pleno centro histórico, y a lo largo del día los desplazamientos entre el hotel, la sala y los monumentos suman mucho tiempo
 
-Cuando una ciudad acoge el evento por primera vez, la logística suele concretarse tarde, y Samarcanda no contaba con ninguna Olimpiada anterior en el país que le sirviera de modelo.
+Cuando una ciudad acoge la Olimpiada por primera vez, la logística suele concretarse tarde, y Samarcanda no tenía ninguna experiencia local previa en la que apoyarse.

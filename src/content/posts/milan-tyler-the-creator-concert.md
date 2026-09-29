@@ -1,6 +1,6 @@
 ---
 title: 'Tyler, the Creator Concert: What to Know (Milan)'
-description: Tyler, the Creator was set to play Fiera Milano Live in Rho, Milan, on August 25, 2026. What was announced about the show, the venue and getting there.
+description: Tyler, The Creator's Milan show was set for August 25, 2026 at Fiera Milano Live in Rho, part of the tour behind his latest album.
 country: Italy
 region: Milan
 category: event

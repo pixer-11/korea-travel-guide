@@ -1,6 +1,6 @@
 ---
 title: 'George Town Festival 2026 (Beyond Boundaries): What to Know (George Town)'
-description: George Town Festival 2026 (Beyond Boundaries) in George Town, Malaysia — August 1-9, 2026. What it was, when and where, and the announced programme.
+description: The George Town Festival 2026 ("Beyond Boundaries") was set for August 1–9 in Penang's UNESCO World Heritage core, with 40+ international theatre, dance, music, and arts programmes across historic streets and buildings.
 country: Malaysia
 region: George Town
 category: event

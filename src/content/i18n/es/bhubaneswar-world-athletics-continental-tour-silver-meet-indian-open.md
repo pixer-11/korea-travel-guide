@@ -1,51 +1,53 @@
 ---
 lang: es
 slug: bhubaneswar-world-athletics-continental-tour-silver-meet-indian-open
-srcHash: 'ea4d6bf2ae0e'
-title: 'Reunión Continental Tour Silver de World Athletics (Indian Open): lo que hay que saber (Bhubaneswar)'
-description: 'Reunión Continental Tour Silver de World Athletics (Indian Open) en Bhubaneswar, India, el 22 de agosto de 2026: lo anunciado y la ciudad que lo rodea.'
-quickAnswer: El primer Continental Tour Silver de World Athletics en India, el Indian Open, quedó programado para el Estadio Kalinga de Bhubaneswar el 22 de agosto de 2026, un ascenso respecto a la reunión de nivel bronce celebrada allí en 2025. Los organizadores anunciaron una jornada única de atletismo internacional con el mayor peso en la sesión vespertina, y las entradas, los horarios de apertura de puertas y el programa completo se difundieron a través de los canales oficiales de World Athletics y del deporte de Odisha.
+srcHash: 'f81ff2ec055b'
+title: 'Mitin Plata del World Athletics Continental Tour (Indian Open) en Bhubaneswar: lo esencial'
+description: El Indian Open, primer mitin de categoría Plata del World Athletics Continental Tour celebrado en la India, tenía como fecha el 22 de agosto de 2026 en el Estadio Kalinga de Bhubaneswar. Supuso un ascenso respecto al mitin de categoría Bronce que la ciudad acogió en 2025.
+quickAnswer: El Indian Open, primer mitin de categoría Plata del World Athletics Continental Tour en la India, tenía como fecha el 22 de agosto de 2026 en el Estadio Kalinga de Bhubaneswar. Supuso un ascenso respecto al mitin de categoría Bronce que acogió el mismo estadio en 2025. Los organizadores anunciaron una sola jornada de atletismo internacional, con el grueso de las pruebas por la tarde-noche. Las entradas, los horarios de apertura de puertas y el programa completo se dieron a conocer a través de los canales oficiales de World Athletics y de los organismos deportivos de Odisha.
 faq:
-  - q: ¿En qué fecha se celebra el Indian Open en Bhubaneswar?
-    a: El Indian Open 2026 quedó programado para el 22 de agosto de 2026 en el Estadio Kalinga de Bhubaneswar. Las fechas del Continental Tour suelen confirmarse unas semanas antes en el calendario de World Athletics y a través de los canales del deporte de Odisha.
+  - q: ¿En qué fecha se celebraba el Indian Open de Bhubaneswar?
+    a: La fecha anunciada para el Indian Open de 2026 era el 22 de agosto de 2026, en el Estadio Kalinga de Bhubaneswar. Por lo general, las fechas del Continental Tour se confirman con unas semanas de antelación en el calendario de World Athletics y en los canales deportivos de Odisha.
   - q: ¿Cómo se llega al Estadio Kalinga?
-    a: Tanto el Aeropuerto Internacional Biju Patnaik (BBI) como la estación de tren de Bhubaneswar quedan a unos 15-20 minutos del estadio en taxi o autorickshaw.
-  - q: ¿Cuánto cuestan las entradas y dónde se compran?
-    a: El precio no se hizo público con antelación oficialmente. Las entradas, cuando se pusieron a la venta, se gestionaron a través de anuncios verificados de World Athletics y del gobierno de Odisha, y no mediante revendedores no oficiales.
-  - q: ¿Cuánto tiempo conviene prever en el recinto?
-    a: Las reuniones del Continental Tour suelen ocupar el día completo, con series y pruebas de campo por la tarde y las finales estelares por la noche, de modo que las pruebas más destacadas llegan varias horas después del inicio del programa.
-  - q: ¿Qué más se puede hacer en Bhubaneswar en torno al evento?
-    a: El Templo de Lingaraj, el Templo de Mukteshwar y las Cuevas de Khandagiri-Udayagiri están todos a poca distancia en coche del centro de la ciudad, lo que los convierte en un complemento sencillo a una jornada en el estadio.
+    a: Tanto el Aeropuerto Internacional Biju Patnaik (BBI) como la estación de ferrocarril de Bhubaneswar quedan a unos 15–20 minutos del estadio en taxi o en mototaxi (autorickshaw).
+  - q: ¿Cuánto costaban las entradas y dónde se vendían?
+    a: Los precios no se hicieron públicos oficialmente con antelación. Las entradas que llegaron a ponerse a la venta se gestionaron mediante los anuncios verificados de World Athletics y del departamento de deportes del Gobierno de Odisha, y no a través de revendedores no oficiales.
+  - q: ¿Cuánto tiempo duraba la jornada en el estadio?
+    a: Los mitines del Continental Tour suelen ocupar un día entero. Las series y los concursos se disputan por la tarde y las finales estelares llegan por la noche, de modo que las carreras más esperadas se sitúan varias horas después del inicio del programa.
+  - q: ¿Qué más había para ver en Bhubaneswar en torno al evento?
+    a: El templo de Lingaraj, el templo de Mukteshwar y las cuevas de Khandagiri y Udayagiri se encuentran a poca distancia en coche del centro de la ciudad, por lo que resultaban un complemento sencillo para una jornada en el estadio.
 ---
 
-## Por qué importa esta reunión
+## Por qué importaba este mitin
 
-Durante la última década, Bhubaneswar se ha ganado la reputación de ser la ciudad india más fiable para acoger grandes eventos deportivos, y el Indian Open fue la incorporación más reciente a ese historial. Tras albergar en 2025 una reunión de nivel bronce del Continental Tour en el Estadio Kalinga, Bhubaneswar ascendió a categoría Silver para 2026, un peldaño por encima de la mayoría de las reuniones regionales del circuito mundial de World Athletics y uno por debajo de las pruebas de la Diamond League.
+A lo largo de la última década, Bhubaneswar se ha ganado la fama de ser la sede más fiable de la India para el deporte de élite, y el Indian Open vino a sumarse a esa trayectoria. La ciudad ya había acogido en 2025 un mitin del Continental Tour de categoría Bronce en el Estadio Kalinga, y para 2026 obtuvo la categoría Plata.
 
-Una designación Silver suele atraer una lista de participantes internacionales más sólida, más puntos en juego para el ranking mundial y estándares de competición más exigentes, lo que significa atletas en busca de marcas de clasificación para campeonatos globales junto a un fuerte talento nacional indio.
+Con ello quedó un escalón por encima de la mayoría de los mitines regionales del circuito mundial de World Athletics y uno por debajo de las pruebas de la Diamond League.
+
+La categoría Plata suele traer consigo una nómina internacional de mayor nivel, más puntos en juego para el ranking mundial y requisitos de competición más exigentes. En la práctica, esto significa que atletas en busca de mínimas para los campeonatos mundiales comparten pista con los mejores talentos nacionales de la India.
 
 ## Cómo llegar
 
-El Estadio Kalinga se encuentra en la zona de Kalinga Nagar/Nayapalli de Bhubaneswar, a pocos kilómetros del centro de la ciudad y a unos 15-20 minutos en coche del Aeropuerto Internacional Biju Patnaik (BBI), que cuenta con conexiones directas a Delhi, Bombay, Bangalore, Chennai y otros grandes núcleos indios. La estación de tren de Bhubaneswar (Bhubaneswar Railway Station), situada en las principales líneas ferroviarias de la costa este, queda a una distancia similar. Los autorickshaws y los taxis solicitados por aplicación (Ola, Uber) son la forma más sencilla de llegar al estadio.
+El Estadio Kalinga se encuentra en la zona de Kalinga Nagar/Nayapalli, a pocos kilómetros del centro de Bhubaneswar. Por carretera, el trayecto desde el Aeropuerto Internacional Biju Patnaik (BBI) ronda los 15–20 minutos; este aeropuerto tiene vuelos directos a Delhi, Bombay, Bangalore, Chennai y otros grandes centros del país. A una distancia parecida queda la estación de ferrocarril de Bhubaneswar, situada en las principales líneas de la costa este. Para llegar al estadio, lo más cómodo son los mototaxis (autorickshaws) y los taxis por aplicación (Ola, Uber).
 
-## Qué esperar en el Estadio Kalinga
+## El Estadio Kalinga
 
-El Estadio Kalinga es el gran recinto multideportivo de Odisha, utilizado anteriormente para la Copa del Mundo de Hockey y las reuniones de atletismo del Indian Grand Prix. Su zona de atletismo cuenta con pista sintética y gradas que albergan con regularidad competiciones nacionales e internacionales, por lo que su infraestructura está bien probada para un evento de este tipo.
+Principal recinto polideportivo de Odisha, el Estadio Kalinga ya ha albergado la Copa del Mundo de Hockey y los mitines de atletismo del Indian Grand Prix. Su instalación de atletismo cuenta con pista sintética y con gradas que acogen con regularidad competiciones nacionales e internacionales, así que la infraestructura está sobradamente probada para un evento de este tipo. En un mitin del Continental Tour, el programa suele concentrarse en una sola jornada.
 
-En una reunión del Continental Tour, el programa suele desarrollarse a lo largo de un único día: las series y las pruebas de campo se disputan por la tarde y dan paso a las finales estelares —velocidad, medio fondo y saltos o lanzamientos— en la sesión nocturna, cuando bajan las temperaturas y el público es más numeroso.
+Las series y los concursos ocupan la tarde, y la emoción va en aumento hasta la sesión nocturna, reservada a las finales estelares de velocidad, medio fondo, saltos y lanzamientos. Es entonces cuando baja la temperatura y el público alcanza su mayor afluencia.
 
 ## Cuándo ir
 
-Agosto en Bhubaneswar está en pleno monzón: caluroso, húmedo y con chubascos repentinos. Es época de ropa ligera y transpirable, un paraguas compacto o un chubasquero, y agua a mano. Las sesiones de noche resultan más agradables que las de tarde. Esta fue la primera reunión de nivel Silver de la ciudad, un paso más allá de las ediciones de nivel bronce que la precedieron.
+En agosto, Bhubaneswar está en plena temporada del monzón: hace calor, la humedad es alta y los chaparrones llegan sin avisar. Es un clima que pide ropa ligera y transpirable, un paraguas plegable o un chubasquero y agua. Las sesiones nocturnas resultan más llevaderas que las de la tarde. Se trataba del primer mitin de categoría Plata de la ciudad, un paso adelante respecto a las ediciones de categoría Bronce que lo precedieron.
 
 ## Más allá de la pista
 
-Bhubaneswar, la "Ciudad de los Templos", merece uno o dos días adicionales antes o después de la reunión. El Templo de Lingaraj, del siglo XI, y el cercano Templo de Mukteshwar son referencias arquitectónicas del estilo templario propio de Odisha. Las Cuevas de Khandagiri y Udayagiri, antiguos refugios jainistas excavados en roca, se encuentran en el extremo occidental de la ciudad, y el Museo Estatal de Odisha ofrece un contexto útil sobre la historia regional y el arte tribal.
+Conocida como la «Ciudad de los Templos», Bhubaneswar merece uno o dos días más antes o después de un mitin. El templo de Lingaraj, del siglo XI, y el cercano templo de Mukteshwar son joyas del singular estilo arquitectónico de los templos de Odisha. En el extremo occidental de la ciudad se hallan las cuevas de Khandagiri y Udayagiri, antiguos refugios jainistas excavados en la roca, mientras que el Museo Estatal de Odisha ofrece un buen contexto sobre la historia de la región y el arte tribal.
 
-Los thalis odias y dulces locales como el chhena poda y el rasabali se consiguen fácilmente en los mercados del Unit central de la ciudad.
+En los mercados céntricos de las Units abundan los thalis odias y dulces locales como el chhena poda y el rasabali.
 
-## Cómo visitarlo como un local
+## Cómo lo viven los aficionados locales
 
-Los revendedores no oficiales que rondan las puertas de acceso son habituales en los grandes eventos deportivos indios y no ofrecen garantías para conseguir asientos auténticos. Los habitantes de la zona que asisten a grandes reuniones en el Estadio Kalinga suelen llegar con bastante antelación a las finales estelares de la noche, antes de que se formen las colas en los controles de seguridad, y luego se instalan con aperitivos comprados fuera, en lugar de depender de una oferta amplia de puestos de comida dentro del recinto.
+En los grandes eventos deportivos de la India es habitual encontrar revendedores junto a las puertas de los recintos, y sus entradas no son una garantía de asiento auténtico. Cuando hay grandes mitines en el Estadio Kalinga, el público local suele llegar con bastante antelación a las finales nocturnas para esquivar los atascos en los controles de seguridad. Después se acomoda con algo de picar comprado fuera, sin fiarse de una gran oferta de comida en el interior.
 
-Tanto el efectivo como los pagos móviles mediante UPI están muy extendidos en Bhubaneswar, aunque conviene llevar algo de efectivo pequeño para las tarifas de los autorickshaws y los puestos de comida callejera cercanos al estadio, donde no siempre se acepta el pago digital. Las vías de acceso suelen restringirse durante los grandes eventos, lo que implica un breve trayecto a pie desde el punto de bajada hasta la puerta.
+En Bhubaneswar se usan mucho tanto el efectivo como los pagos móviles por UPI. Aun así, conviene llevar billetes pequeños para los mototaxis y para los puestos de comida callejera cercanos al estadio, donde no siempre se aceptan pagos digitales. Durante los grandes eventos, el acceso a las vías que llevan al recinto suele estar restringido, lo que obliga a caminar un poco desde el punto de bajada hasta la puerta.

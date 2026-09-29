@@ -16,7 +16,7 @@
 // ─────────────────────────────────────────────────────────────
 import { readFileSync, readdirSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
-import { UPCOMING } from './lib/ended-event-tense.mjs';
+import { upcomingHits } from './lib/ended-event-tense.mjs';
 
 const POSTS = 'src/content/posts';
 const I18N = 'src/content/i18n';
@@ -124,7 +124,13 @@ for (const file of readdirSync(POSTS).filter((f) => f.endsWith('.md'))) {
         keep.out.push(line);
         return keep;
       }, { out: [], skipUnder: null }).out.join('\n');
-    const found = UPCOMING[lang].flatMap((re) => text.match(re) ?? []);
+    // The same clause-by-clause judgement the translator's guard uses
+    // (lib/ended-event-tense.mjs upcomingHits): a general norm or a recurring
+    // rule ("se celebra el último miércoles de agosto") is not about this
+    // edition. The two read raw vocabulary separately until 2026-09-29, so a
+    // translation the guard accepted was reported here every week and sent
+    // back for a paid re-translation that could only return the same sentence.
+    const found = upcomingHits({ body: text }, lang);
 
     // The body was excluded wholesale, and that hid a real one: the Chinese
     // Foxborough page said the band 将于8月15日至16日 play Arlington — a date three
@@ -140,7 +146,7 @@ for (const file of readdirSync(POSTS).filter((f) => f.endsWith('.md'))) {
     const bodyFound = [];
     for (const sentence of body.split(/(?<=[。．.!?！？\n])/)) {
       if (!DATED[lang].test(sentence)) continue;
-      bodyFound.push(...UPCOMING[lang].flatMap((re) => sentence.match(re) ?? []));
+      bodyFound.push(...upcomingHits({ body: sentence }, lang));
     }
 
     const all = [...found, ...bodyFound];

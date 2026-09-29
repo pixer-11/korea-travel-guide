@@ -1,6 +1,6 @@
 ---
 title: 'Aomori Nebuta Matsuri: What to Know (Aomori)'
-description: Aomori Nebuta Matsuri in Aomori, Japan — August 2-7, 2026. What it is, when and where, and what was announced for the festival week.
+description: The Aomori Nebuta Matsuri was set for August 2–7, 2026, in Aomori City, northern Honshu.
 country: Japan
 region: Aomori
 category: event

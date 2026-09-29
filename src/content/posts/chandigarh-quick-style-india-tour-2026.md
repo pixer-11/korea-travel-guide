@@ -1,7 +1,7 @@
 ---
 draft: false
 title: 'Quick Style India Tour 2026: What to Know (Chandigarh)'
-description: Quick Style India Tour 2026 in Chandigarh, India — August 29, 2026. What was announced about the show, and what the city is like around it.
+description: Quick Style, the Norwegian dance trio famous for viral street-style routines, was set to bring its 2026 India tour to Chandigarh on August 29, 2026, after stops in Delhi, Mumbai and Bengaluru.
 country: India
 region: Chandigarh
 category: event

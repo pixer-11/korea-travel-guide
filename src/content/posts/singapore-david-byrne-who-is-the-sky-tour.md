@@ -1,6 +1,6 @@
 ---
 title: 'David Byrne: Who Is The Sky? Tour: What to Know (Singapore)'
-description: 'David Byrne: Who Is The Sky? Tour in Singapore — August 7, 2026 at The Star Theatre. What was announced: the show, the venue and the area around it.'
+description: David Byrne's "Who Is The Sky?" tour was set for The Star Theatre at The Star Performing Arts Centre on Singapore's Sentosa Gateway on August 7, 2026, with a 13-piece band of musicians, singers and dancers.
 country: Singapore
 region: Singapore
 category: event

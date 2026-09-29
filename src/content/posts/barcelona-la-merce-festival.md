@@ -1,6 +1,6 @@
 ---
 title: 'La Mercè Festival: What to Know (Barcelona)'
-description: La Mercè Festival in Barcelona, Spain was set for September 20–24, 2026. What it is, when and where, and what the announced programme covered.
+description: La Mercè, Barcelona's biggest street festival, was set for September 20–24, 2026, with free events across almost every district — correfocs (fire runs), castellers (human towers), giant-figure parades, and open-air concerts.
 country: Spain
 region: Barcelona
 category: event

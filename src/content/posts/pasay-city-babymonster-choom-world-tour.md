@@ -1,6 +1,6 @@
 ---
 title: 'BABYMONSTER CHOOM World Tour: What to Know (Pasay City)'
-description: 'BABYMONSTER''s CHOOM World Tour was set for SM Mall of Asia Arena in Pasay City on September 5, 2026. What was announced: venue, transit, and timing.'
+description: BABYMONSTER's CHOOM World Tour was set for SM Mall of Asia Arena in Pasay City on September 5, 2026, with doors listed at 6pm.
 country: Philippines
 region: 'Pasay'
 category: event

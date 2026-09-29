@@ -1,6 +1,6 @@
 ---
 title: 'Arena di Verona Opera Festival: What to Know (Verona)'
-description: 'Arena di Verona Opera Festival in Verona, Italy: the 103rd edition was set for June 12 to September 12, 2026. What it was, when and where.'
+description: The Arena di Verona Opera Festival's 103rd edition was set for June 12 through September 12, 2026, in the 2,000-year-old Roman amphitheatre on Piazza Bra.
 country: Italy
 region: Verona
 category: event

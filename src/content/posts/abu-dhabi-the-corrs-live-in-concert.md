@@ -1,6 +1,6 @@
 ---
 title: 'The Corrs Live in Concert: What to Know (Abu Dhabi)'
-description: The Corrs Live in Concert in Abu Dhabi, United Arab Emirates — September 27, 2026. The venue, getting there, and what was announced for the show.
+description: The Corrs were booked for a one-night-only show at Etihad Arena on Yas Island, Abu Dhabi, on September 27, 2026.
 country: United Arab Emirates
 region: Abu Dhabi
 category: event

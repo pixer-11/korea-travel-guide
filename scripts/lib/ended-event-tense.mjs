@@ -73,14 +73,25 @@ export function upcomingText(out) {
 // failed three attempts in a row over that one true sentence, and the plainer
 // prompt of the same day made such sentences common. Judged sentence by
 // sentence, like ENDED_HISTORY in translate-posts.
+// A recurring rule is a norm too: "La Tomatina falls on the last Wednesday of
+// August" came back as "se celebra el último miércoles de agosto" and failed
+// three attempts (2026-09-29). An ordinal weekday is a rule; this edition's
+// date ("el 26 de agosto") still is not exempt.
 export const GENERIC = {
-  ko: /보통|대개|일반적으로|흔히|대체로|통상/,
-  ja: /通常|一般的に|たいてい|普通は|多くの場合/,
-  es: /normalmente|habitualmente|por lo general|suele|suelen|generalmente/i,
+  ko: /보통|대개|일반적으로|흔히|대체로|통상|매년|해마다/,
+  ja: /通常|一般的に|たいてい|普通は|多くの場合|毎年|例年/,
+  es: /normalmente|habitualmente|por lo general|suele|suelen|generalmente|cada año|todos los años|se celebra el (?:último|primer|segundo|tercer|cuarto)\b/i,
   // Not a bare 一般: 一般门票 is a ticket type, and "本届的一般门票将于9月1日发售"
   // is this edition's future (Codex, 2026-09-29).
-  zh: /通常|一般来说|一般而言|往往|大多数情况下/,
+  zh: /通常|一般来说|一般而言|往往|大多数情况下|每年|历年/,
 };
+
+// A clause that names THIS occasion — a year, a day of a month, "this year",
+// "this edition" — is not a general norm whatever marker it carries:
+// "매년 열리는 이 축제의 2026년 행사는 8월 11일에 열립니다", "通常とは異なり今年の
+// 公演は…", "se celebra el primer día del festival (20 de septiembre de 2026)"
+// are all this edition's tense error (Codex, 2026-09-29).
+const SPECIFIC = /20\d\d|\d{1,2}\s*월\s*\d{1,2}\s*일|\d{1,2}\s*月\s*\d{1,2}\s*[日号]|\b\d{1,2} de [a-záéíóú]+|올해|이번 ?(?:대회|행사|공연|축제|회차)|今年|今回|本届|本次|今年度|esta edición|este año/i;
 
 /** UPCOMING matches in `out`, skipping sentences that state a general norm. */
 export function upcomingHits(out, lang) {
@@ -97,8 +108,9 @@ export function upcomingHits(out, lang) {
   const endsOnMarker = generic && new RegExp(`(?:${generic.source})[\\s,;，；、]*$`, generic.flags.replace('g', ''));
   let carry = false;
   for (const sentence of upcomingText(out).split(/(?<=[.。!?！？,;，；、])\s*|\n+/)) {
-    const isNorm = !!(generic && generic.test(sentence));
-    const exempt = isNorm || carry;
+    const specific = SPECIFIC.test(sentence);
+    const isNorm = !!(generic && generic.test(sentence)) && !specific;
+    const exempt = isNorm || (carry && !specific);
     carry = isNorm && endsOnMarker.test(sentence);
     if (exempt) continue;
     for (const re of vocab) {

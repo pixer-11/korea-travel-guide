@@ -1,6 +1,6 @@
 ---
 title: 'Vietnamese Super Cup 2026: What to Know (Hanoi)'
-description: Vietnamese Super Cup 2026 in Hanoi, Vietnam — August 30, 2026. What it is, when and where, and what was announced around the fixture.
+description: The 2026 Vietnamese Super Cup — pitting the V.League 1 champions against the Vietnamese Cup winners — was set for August 30, 2026 at Hàng Đẫy Stadium in central Hanoi.
 country: Vietnam
 region: Hanoi
 category: event

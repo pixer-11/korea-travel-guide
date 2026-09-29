@@ -1,6 +1,6 @@
 ---
 title: 'MotoGP Aragon Grand Prix: What to Know (Alcañiz)'
-description: MotoGP Aragon Grand Prix in Alcañiz, Spain, was set for August 28–30, 2026 at MotorLand Aragón. The circuit, the schedule and the area around it.
+description: The MotoGP Aragon Grand Prix was set for August 28–30, 2026 at MotorLand Aragón, a purpose-built circuit about 6 km outside Alcañiz in Spain's Teruel province.
 country: Spain
 region: Alcañiz
 category: event

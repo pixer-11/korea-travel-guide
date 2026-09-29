@@ -1,6 +1,6 @@
 ---
 title: 'September Grand Sumo Tournament (Aki Basho): What to Know (Tokyo)'
-description: September Grand Sumo Tournament (Aki Basho) in Tokyo was set for September 13–27, 2026 at Ryogoku Kokugikan. What it is, when and where.
+description: The Aki Basho (September Grand Sumo Tournament) was set for September 13–27, 2026, at Ryogoku Kokugikan in Tokyo's Ryogoku district, with bouts on 15 straight days.
 country: Japan
 region: Tokyo
 category: event

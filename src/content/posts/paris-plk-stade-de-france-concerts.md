@@ -1,6 +1,6 @@
 ---
 title: 'PLK Stade de France Concerts: What to Know (Paris)'
-description: PLK was set to play the Stade de France in Saint-Denis on September 4–5, 2026. What the two-night booking involved and how the venue works.
+description: PLK was set to play two nights at the Stade de France on September 4–5, 2026 — a milestone for a French rapper who built one of the biggest streaming numbers in the country without ever courting the mainstream.
 country: France
 region: Paris
 category: event

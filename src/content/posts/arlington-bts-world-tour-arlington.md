@@ -1,6 +1,6 @@
 ---
 title: 'BTS World Tour – Arlington: What to Know (Arlington)'
-description: 'BTS World Tour – Arlington in Arlington, United States — August 15-16, 2026. What was announced: the venue, the dates and the district around it.'
+description: BTS's fourth world tour was set for AT&T Stadium in Arlington, Texas on August 15-16, 2026 — the first stadium run since the members completed South Korea's mandatory military service.
 country: United States
 region: Arlington
 category: event

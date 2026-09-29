@@ -1,55 +1,59 @@
 ---
 lang: es
 slug: seoul-stray-kids-concert
-srcHash: 'e210c9b3e33b'
-title: 'Concierto de Stray Kids: lo que hay que saber (Seúl)'
-description: Stray Kids tenían previsto actuar en el KSPO Dome, en el Parque Olímpico de Seúl, los días 1 y 2 de agosto de 2026, dentro de su gira veraniega de conciertos. Qué era, cuándo y dónde.
-quickAnswer: Stray Kids tenían previsto actuar en el KSPO Dome, en el Parque Olímpico de Seúl, los días 1 y 2 de agosto de 2026, dentro de su gira veraniega de conciertos. No se anunciaron oficialmente ni la venta de entradas ni los horarios exactos de las actuaciones ni detalles sobre el cartel o los teloneros; los canales oficiales de Stray Kids y de JYP Entertainment difundieron las fechas de Seúl.
+srcHash: '6adff06240e8'
+title: 'Concierto de Stray Kids en Seúl: lo esencial'
+description: Stray Kids tenían anunciados dos conciertos en el KSPO Dome, dentro del Parque Olímpico de Seúl, el 1–2 de agosto de 2026, como parte de su gira de verano.
+quickAnswer: Las fechas anunciadas para los conciertos de Stray Kids en el KSPO Dome, situado en el Parque Olímpico de Seúl, eran el 1–2 de agosto de 2026, dentro de su gira de verano. No se comunicaron oficialmente ni la venta de entradas ni los horarios exactos, como tampoco el cartel o posibles teloneros. Las fechas de Seúl se difundieron a través de los canales oficiales de Stray Kids y de JYP Entertainment.
 faq:
-  - q: ¿Está confirmada la fecha del 1 y 2 de agosto de 2026?
-    a: El 1 y 2 de agosto de 2026 eran las fechas anunciadas para la parada de Stray Kids en Seúl, en el KSPO Dome. Las giras, los recintos y los detalles se publican en los canales oficiales de redes sociales de Stray Kids y en el sitio web de JYP Entertainment.
+  - q: ¿Estaban confirmadas las fechas del 1–2 de agosto de 2026?
+    a: Fueron las fechas anunciadas para la parada de Stray Kids en el KSPO Dome de Seúl. El grupo publica sus fechas de gira, sus recintos y los demás detalles en sus redes sociales oficiales y en la web de JYP Entertainment.
   - q: ¿Cómo se llega al KSPO Dome?
-    a: Tomando la Línea 5 o la Línea 9 del metro hasta la estación de Olympic Park (Olympic Park Station) y caminando unos 10-15 minutos a través del Parque Olímpico hasta llegar al recinto. Es la ruta más fiable, ya que las carreteras alrededor del lugar se congestionan las noches de concierto.
+    a: 'En metro: con la línea 5 o la línea 9 hasta la estación Olympic Park, y desde allí se cruza el Parque Olímpico a pie hasta el pabellón en unos 10–15 minutos. Es la ruta más fiable, porque las calles que rodean el recinto se colapsan las noches de concierto.'
   - q: ¿Dónde se ponen a la venta las entradas?
-    a: Los conciertos de K-pop coreanos suelen venderse a través de plataformas como Interpark o Yes24, a menudo con una preventa previa para el club de fans. Para este concierto no se publicó ninguna fecha de venta ni precio.
-  - q: ¿Pueden los fans internacionales comprar entradas con facilidad?
-    a: Puede resultar complicado, ya que las plataformas coreanas suelen exigir un número de teléfono local para la verificación. Muchos fans internacionales recurren a un servicio de compra por intermediario de confianza o a una membresía verificada del club de fans; los revendedores no oficiales suponen un riesgo real de entradas falsificadas.
-  - q: ¿Qué más se puede hacer cerca del recinto?
-    a: El KSPO Dome se encuentra dentro del Parque Olímpico, que alberga los terrenos del estadio olímpico de 1988, un parque de esculturas al aire libre y un museo, todo ello a poca distancia a pie del recinto.
+    a: En Corea, las entradas para conciertos de K-pop suelen venderse en plataformas como Interpark o Yes24, y a menudo hay antes una preventa para el club de fans. Para este concierto no se publicaron ni la fecha de venta ni los precios.
+  - q: ¿Lo tienen fácil los fans extranjeros para comprar entradas?
+    a: Puede resultar complicado, ya que las plataformas coreanas suelen pedir un número de teléfono local para la verificación. Muchos fans internacionales recurren a un servicio de compra por encargo de confianza o a una membresía verificada del club de fans. Con los revendedores no oficiales, el riesgo de acabar con una entrada falsa es real.
+  - q: ¿Qué más hay cerca del recinto?
+    a: El KSPO Dome se encuentra dentro del Parque Olímpico. Allí están las instalaciones del estadio olímpico de 1988, un parque de esculturas al aire libre y un museo, y a todo ello se llega andando desde el pabellón.
 ---
 
 ## Por qué importaba este concierto
 
-Stray Kids ya no tocan en salas pequeñas. Lo que comenzó como una alineación surgida de un programa de supervivencia de JYP se ha convertido en uno de los actos autoproducidos más grandes del K-pop, el tipo de grupo capaz de llenar un estadio dos noches seguidas y dejar aun así a gente fuera esperando una entrada de reventa. Una fecha en Seúl es distinta de una parada más en su gira mundial: esta se planteó como un concierto de regreso a casa, ante la base del fandom que los siguió desde sus días como aprendices (trainees).
+Hace tiempo que las salas pequeñas se le quedaron cortas a Stray Kids. Nacido como la formación de un programa de supervivencia de JYP, el grupo se ha convertido en uno de los mayores fenómenos autoproducidos del K-pop. Es capaz de llenar un pabellón dos noches seguidas y, aun así, dejar a gente fuera con la esperanza de conseguir una entrada de reventa.
 
-Una fecha en Seúl trae consigo cánticos que no necesitan traducción, coreografías que el público ya domina de memoria y una escala de producción que un escenario de gira en el extranjero muchas veces no logra replicar del todo.
+Un concierto en Seúl no es una parada más de su gira mundial. Este se planteó como una vuelta a casa, ante la base de fans que los sigue desde su etapa de aprendices.
+
+Tocar en Seúl significa cánticos que no necesitan traducción y un público que se sabe las coreografías de memoria. Además, supone una producción de una envergadura que un escenario de gira en el extranjero no siempre logra reproducir del todo.
 
 ## Cómo llegar al KSPO Dome
 
-El KSPO Dome se encuentra dentro del complejo del Parque Olímpico, en el distrito de Songpa-gu, al este de la ciudad, el mismo extenso espacio verde que albergó los Juegos Olímpicos de Verano de 1988. La ruta más sencilla es el metro: Línea 5 o Línea 9 hasta la estación de Olympic Park, y desde allí seguir las señales a través del parque en dirección al recinto, un paseo de unos diez a quince minutos junto a fuentes, explanadas con esculturas y la vieja estructura del estadio olímpico.
+El KSPO Dome se levanta dentro del complejo del Parque Olímpico, en el distrito de Songpa-gu, al este de la ciudad. Es el mismo gran espacio verde que acogió los Juegos Olímpicos de verano de 1988. Lo más sencillo es ir en metro con la línea 5 o la línea 9 hasta la estación Olympic Park. Desde allí, unas señales atraviesan el parque hasta el pabellón. Son entre diez y quince minutos a pie entre fuentes, praderas con esculturas y la vieja estructura del estadio olímpico.
 
-Las noches de concierto, ese sendero suele convertirse en un lento río de fans con merchandising y palos de luz. Los taxis pueden dejar a los pasajeros más cerca de las puertas de entrada del recinto, pero el acceso por carretera se congestiona rápidamente a medida que se acerca la apertura de puertas, así que el metro es, sin duda, la opción más fiable en este caso.
+Las noches de concierto, ese camino suele convertirse en un lento río de fans con productos oficiales y *light sticks*. En taxi se puede llegar más cerca de las puertas de acceso, pero las calles se colapsan en cuanto se acerca la hora de apertura. Por eso el metro es, de verdad, la opción más fiable.
 
-## Cómo solía transcurrir la noche
+## Cómo solían ser estas noches
 
-Así suelen desarrollarse los conciertos de K-pop en estadios en este recinto: una larga espera previa fuera del lugar mientras la seguridad revisa bolsos y palos de luz, una fila para el merchandising que puede consumir una hora o más a quien llegue justo a la apertura de puertas, y un espectáculo pensado para combinar números con el grupo completo, presentaciones por subunidades y momentos en solitario, ya que los shows de Stray Kids están concebidos para mostrar a los ocho integrantes tanto individualmente como en conjunto.
+En este recinto, los conciertos de K-pop suelen seguir un mismo guion. Primero llega una larga espera en el exterior mientras seguridad revisa bolsos y *light sticks*. La cola de productos oficiales puede llevarse una hora o más a quien llegue justo a la apertura de puertas. El espectáculo combina números de todo el grupo con actuaciones por subunidades y momentos en solitario, porque los conciertos de Stray Kids están pensados para lucir a sus ocho miembros tanto por separado como juntos.
 
-El palo de luz oficial, el "Kandy Bong", se sincroniza con las señales de iluminación del espectáculo, marcando a su dueño como parte del coro de miles de voces que devuelven los cánticos de los fans hacia el escenario.
+El *light stick* oficial, el «Kandy Bong», se sincroniza con las luces del espectáculo. Quien lo lleva pasa a formar parte de un coro de miles de voces que devuelve los cánticos hacia el escenario.
 
-## Entradas y el plan anunciado
+## Entradas y lo que se anunció
 
-Las entradas para conciertos de K-pop coreanos de esta magnitud suelen venderse a través de plataformas de venta coreanas como Interpark o Yes24, a menudo con una ventana de preventa para el club de fans antes de la venta general. Los fans internacionales generalmente necesitan un paso de verificación con número de teléfono coreano, un servicio de compra por intermediario o una membresía de club de fans para tener una opción realista, y los precios de reventa de conciertos de K-pop agotados en estadios de Seúl pueden llegar a superar con creces el valor nominal.
+En Corea, las entradas para conciertos de K-pop de esta magnitud suelen venderse en plataformas locales como Interpark o Yes24, y a menudo hay una preventa para el club de fans antes de la venta general. Para tener opciones reales, los fans extranjeros suelen necesitar verificarse con un número de teléfono coreano, recurrir a un servicio de compra por encargo o ser miembros del club de fans. En la reventa, los precios de los conciertos agotados de K-pop en los pabellones de Seúl pueden superar con creces el valor nominal.
 
-Los canales oficiales o claramente verificados son importantes, ya que los códigos QR falsificados representan un riesgo real dada la magnitud de este fandom.
+Los canales oficiales o claramente verificados son importantes, porque con un fandom de este tamaño las entradas QR falsificadas son un riesgo real.
 
-## Cómo visitarlo como un local
+## Cómo vivirlo como un local
 
-Los asistentes coreanos a conciertos suelen llegar temprano no tanto por el espectáculo en sí, sino por los puestos de merchandising y las zonas de fotos instaladas fuera del recinto, por lo que las colas en los puestos oficiales son más largas justo antes de la apertura de puertas. En esos puestos se acepta tanto efectivo como tarjeta, pero el pago móvil (aplicaciones coreanas como Kakao Pay) es habitual entre los locales y agiliza las colas más que lidiar con tarjetas extranjeras.
+El público coreano suele llegar pronto, pero no por el concierto en sí, sino por los puestos de productos oficiales y las zonas de fotos que se montan fuera del recinto. Por eso las colas de los puestos oficiales alcanzan su punto máximo en torno a la apertura de puertas. En esos puestos se acepta tanto efectivo como tarjeta, aunque entre los locales es habitual el pago con el móvil (con aplicaciones coreanas como Kakao Pay), que agiliza las colas mucho más que pelearse con una tarjeta extranjera.
 
-Los fans normalmente hacen fila según el número de sección de su entrada, no por orden de llegada en la puerta, de modo que cada sección forma su propia fila en lugar de una gran aglomeración. El mayor tropiezo para los fans que visitan desde fuera es el propio proceso de compra de entradas: las plataformas coreanas se agotan en minutos y no siempre aceptan métodos de pago internacionales, razón por la cual la mayoría de los fans internacionales resuelven su estrategia (servicio de compra por intermediario, club de fans o reventa verificada) con semanas de antelación en lugar de días.
+En la entrada no se sigue el orden de llegada. Lo habitual es hacer cola según el número de sección de la entrada, de modo que cada sección forma su propia fila en lugar de una gran aglomeración. El mayor escollo para los fans que vienen de fuera es la propia compra de entradas. Las plataformas coreanas agotan el aforo en minutos y no siempre admiten métodos de pago internacionales.
 
-En cuanto a la etiqueta, es el público el que marca la pauta en los cánticos de fans y los colores de los palos de luz: los locales suelen ayudar a los recién llegados a aprenderlos durante el propio espectáculo, en lugar de reprenderlos por equivocarse.
+Por eso la mayoría de los fans extranjeros deciden con semanas de antelación, y no con días, qué vía van a usar: servicio de compra por encargo, club de fans o reventa verificada.
+
+En cuanto a las normas de etiqueta, es el público quien marca los cánticos y los colores de los *light sticks*. Si un recién llegado se equivoca, lo normal es que los locales lo ayuden a cogerle el ritmo en pleno concierto en lugar de mandarlo callar.
 
 ## Más allá del concierto
 
-Como el KSPO Dome se encuentra dentro del Parque Olímpico, el parque en sí forma parte de la experiencia: el Museo Olímpico, el parque de esculturas al aire libre y la vuelta al lago quedan todos a un corto paseo del recinto, y son una manera fácil y tranquila de llenar una tarde antes de una noche gritando de vuelta al escenario las letras de Stray Kids.
+Como el KSPO Dome está dentro del Parque Olímpico, el propio parque forma parte de la visita. El Museo Olímpico, el parque de esculturas al aire libre y el paseo alrededor del lago quedan a un corto paseo del pabellón. Son una forma fácil y tranquila de pasar la tarde antes de una noche coreando a gritos las canciones de Stray Kids.

@@ -1,55 +1,57 @@
 ---
 lang: es
 slug: siena-palio-dell-assunta-palio-di-siena
-srcHash: '11de1caba26c'
-title: 'Palio dell''Assunta (Palio de Siena): lo que hay que saber (Siena)'
-description: El Palio dell'Assunta (Palio de Siena) se celebra en Siena, Italia, el 16 de agosto de 2026. Qué es, cuándo y dónde tiene lugar, y cómo estaba previsto que se desarrollara la jornada.
-quickAnswer: 'El Palio dell''Assunta estaba previsto para el 16 de agosto de 2026 en la Piazza del Campo de Siena: una carrera de caballos a pelo de 90 segundos entre 10 de las 17 contradas (los barrios) de la ciudad, precedida por horas de pompa y un lento desfile histórico. Los sitios de pie gratuitos en el centro de la plaza se abren horas antes de la carrera y se llenan rápidamente; un asiento en un balcón o en las gradas provisionales se gestiona con antelación a través de una contrada, un hotel o un revendedor autorizado.'
+srcHash: 'c14a97cb6d9e'
+title: 'Palio dell''Assunta (Palio de Siena): lo esencial (Siena)'
+description: El Palio dell'Assunta estaba previsto para el 16 de agosto de 2026 en la Piazza del Campo de Siena. Tras horas de ceremonias y un pausado desfile histórico, 10 de las 17 contrade (barrios históricos) de la ciudad se disputaban una carrera de caballos a pelo de apenas 90 segundos.
+quickAnswer: Para el 16 de agosto de 2026 estaba programado el Palio dell'Assunta en la Piazza del Campo de Siena. Tras horas de ceremonias y un pausado desfile histórico, 10 de las 17 contrade (barrios históricos) de la ciudad se disputaban una carrera de caballos a pelo de apenas 90 segundos. Los espacios gratuitos para ver la carrera de pie, en el centro de la plaza, se abrían horas antes y se llenaban enseguida. Los asientos en balcones o en las gradas provisionales se gestionaban con mucha antelación a través de una contrada, de un hotel o de un revendedor autorizado.
 faq:
-  - q: ¿Hace falta entrada para ver el Palio?
-    a: 'Permanecer de pie en la zona central de la Piazza del Campo es gratuito, y la gente reserva su sitio con muchas horas de antelación. Las vistas sentadas, en gradas o balcones, se reservan de antemano a través de hoteles, contradas o revendedores autorizados: no existe una taquilla pública oficial.'
+  - q: ¿Hacía falta entrada para ver el Palio?
+    a: No para verlo de pie en la zona central de la Piazza del Campo, que era gratuita. Allí la gente ocupaba su sitio con horas de antelación. Las localidades sentadas en gradas o balcones se reservaban por adelantado mediante hoteles, contrade o revendedores autorizados, porque no existía ninguna taquilla oficial abierta al público.
   - q: ¿Cuánto dura realmente la carrera?
-    a: La carrera en sí es extremadamente breve, unos 90 segundos para completar tres vueltas al Campo, pero el desfile que la rodea (el Corteo Storico) y las ceremonias previas pueden ocupar buena parte de la tarde y la noche.
-  - q: ¿Cuál es la mejor forma de llegar a Siena para el evento?
-    a: Tren o autobús desde Florencia (unos 90 minutos) o desde Roma, y después un paseo hasta el centro histórico, cerrado al tráfico; el día de la carrera no es posible aparcar cerca del Campo.
-  - q: ¿Conviene ir a la carrera propiamente dicha o a una prueba (prova)?
-    a: Las carreras de ensayo (prove) se celebran en los días previos a cada Palio. Son gratuitas, mucho menos concurridas y permiten hacerse una idea genuina del recorrido, mientras que el propio día de la carrera trae una aglomeración extrema en el Campo.
-  - q: ¿Es la fecha fija cada año?
-    a: El Palio dell'Assunta se celebra tradicionalmente el 16 de agosto, junto con el Palio di Provenzano del 2 de julio. La oficina de turismo oficial de Siena publica cada año la fecha exacta, la hora de inicio y cualquier cambio de última hora.
+    a: 'La carrera en sí es brevísima: dar tres vueltas al Campo lleva unos 90 segundos. En cambio, el desfile que la acompaña (Corteo Storico) y las ceremonias previas pueden ocupar buena parte de la tarde y de la noche.'
+  - q: ¿Cuál era la mejor forma de llegar a Siena para el evento?
+    a: En tren o en autobús desde Florencia (unos 90 minutos) o desde Roma. Después había que llegar a pie al centro histórico, que estaba cerrado al tráfico. El día de la carrera no se podía aparcar cerca del Campo.
+  - q: ¿Qué merecía más la pena, la carrera o una de las pruebas (prova)?
+    a: En los días anteriores a cada Palio se disputan carreras de prueba (prove). Son gratuitas, atraen a mucho menos público y permiten hacerse una idea fiel del recorrido. El día de la carrera, en cambio, el Campo se llena hasta el límite.
+  - q: ¿La fecha es la misma todos los años?
+    a: Por tradición, el Palio dell'Assunta se corre el 16 de agosto y el Palio di Provenzano, el 2 de julio. Cada año, la oficina oficial de turismo de Siena publica la fecha exacta, la hora de salida y los cambios de última hora, si los hay.
 ---
 
 ## Por qué ir
 
-El Palio de Siena no es una recreación ni un espectáculo montado para turistas: es un ritual cívico centenario que las familias sienesas viven con intensidad durante todo el año. Dos veces al año, el 2 de julio y el 16 de agosto, diez de las diecisiete contradas de Siena lanzan a un caballo y su jinete alrededor del perímetro de la Piazza del Campo en tres vueltas vertiginosas que apenas duran 90 segundos.
+El Palio de Siena no es una recreación histórica ni un espectáculo montado para turistas. Es un ritual cívico con siglos de historia, y las familias sienesas lo viven con pasión durante todo el año. Dos veces al año, el 2 de julio y el 16 de agosto, diez de las diecisiete contrade de Siena presentan cada una un caballo con su jinete. Juntos dan tres vueltas vertiginosas al perímetro de la Piazza del Campo, y la carrera apenas llega a los 90 segundos.
 
-La edición de agosto, el Palio dell'Assunta, se celebra en honor a la Asunción de la Virgen María y cae de lleno en el periodo vacacional del Ferragosto italiano, por lo que la ciudad se llena a la vez de devoción y de calor. Miles de sienenses se agolpan en el Campo, cantando los himnos de sus contradas y llorando o aclamando según se va decidiendo el resultado: una experiencia mucho más viceral que la propia carrera.
+La edición de agosto, llamada Palio dell'Assunta, se dedica a la Asunción de la Virgen María. Como coincide de lleno con el Ferragosto, las fiestas italianas de mediados de agosto, la ciudad se llena de fervor religioso y también de calor. Miles de sieneses abarrotan el Campo para cantar los himnos de sus contrade. Según se decide el resultado, unos lloran y otros lo celebran a gritos. Esa emoción impresiona mucho más que la propia carrera.
 
 ## Qué ocurre en realidad
 
-La carrera del 16 de agosto de 2026 estaba prevista como el punto culminante de varios días de preparativos. En los días anteriores se corren las pruebas (prove), que permiten a jinetes y caballos familiarizarse con las curvas cerradas y peraltadas de la plaza, en particular con la peligrosa curva de San Martino. El día de la carrera, un largo desfile histórico, el Corteo Storico, recorre la ciudad y da la vuelta al Campo: cientos de participantes vestidos de época renacentista, abanderados (alfieri), tambores y representantes de cada contrada portan el palio, el estandarte de seda pintado que da nombre al evento.
+La carrera del 16 de agosto de 2026 era el punto culminante de varios días de preparativos. En los días previos se disputan carreras de prueba (prove) para que jinetes y caballos se acostumbren a las curvas cerradas y peraltadas de la plaza, sobre todo a la peligrosa curva de San Martino. El día de la carrera, un largo desfile histórico, el Corteo Storico, recorre la ciudad y rodea el Campo.
 
-Solo después de este desfile, y una vez que los caballos han sido bendecidos en la iglesia de cada contrada, comienza la carrera: los jinetes corren a pelo, y un caballo puede incluso ganar sin su jinete a lomos.
+En él participan cientos de figurantes vestidos a la usanza renacentista, abanderados (alfieri), tamborileros y representantes de cada contrada. También se lleva en procesión el palio, el estandarte de seda pintada que da nombre a la fiesta.
+
+La carrera solo comienza cuando termina ese desfile y después de que cada contrada haya bendecido a su caballo en su propia iglesia. Los jinetes montan a pelo, y un caballo puede ganar aunque haya perdido a su jinete por el camino.
 
 ## Cómo llegar y cómo entrar
 
-El día de la carrera, el centro histórico de Siena permanece cerrado a casi todo el tráfico, así que los visitantes llegan a pie desde alguno de los aparcamientos periféricos o en tren y autobús desde Florencia (unos 90 minutos) o desde Roma. El propio Campo se encuentra en el corazón del casco antiguo, a un cómodo paseo cuesta abajo desde el Duomo y la Piazza del Duomo.
+El día de la carrera, el centro histórico de Siena estaba cerrado a la mayor parte del tráfico. Los visitantes llegaban a pie desde alguno de los aparcamientos de la periferia o en tren y autobús desde Florencia (unos 90 minutos) o Roma. El Campo se encuentra en pleno casco antiguo. Desde la catedral (Duomo) y la Piazza del Duomo se llega a él con un paseo cómodo cuesta abajo.
 
-La entrada gratuita a la zona central de pie de la plaza (dentro del anillo, no junto a la pista) se abre por la tarde, horas antes del inicio nocturno, y el espacio se llena por completo; una vez dentro, generalmente hay que resignarse a permanecer de pie bajo el sol o el calor durante varias horas, sin salida posible y sin acceso a baños.
+La zona central de la plaza, dentro del anillo y no junto a la pista, era gratuita para ver la carrera de pie. Se abría por la tarde, horas antes de la salida vespertina, y se llenaba por completo. Una vez dentro, lo normal era pasar varias horas de pie al sol y con calor, sin posibilidad de salir ni de ir al baño.
 
-Los asientos de pago, en gradas o en balcones con vistas a la pista, se reservan con antelación a través de hoteles, contactos de las contradas o agencias de venta de entradas; no existe una taquilla oficial que venda entradas para balcones el mismo día.
+Las localidades de pago en gradas o en balcones con vistas a la pista se conseguían por adelantado a través de hoteles, de contactos en las contrade o de agencias de venta de entradas. No había ninguna taquilla oficial que vendiera en el momento plazas en los balcones.
 
-## Qué ver y hacer más allá de la carrera
+## Qué ver y hacer además de la carrera
 
-Incluso fuera de la semana del Palio, merece la pena visitar el Campo, la Torre del Mangia y el Palazzo Pubblico, y cada una de las 17 contradas cuenta con su propio pequeño museo, donde se exhiben palios antiguos, trajes y trofeos. En los días alrededor del 16 de agosto, cada contrada organiza por la noche su cena in strada, cenas comunitarias al aire libre en las que los vecinos comen juntos en la calle, un ambiente mucho más tranquilo y revelador de la vida local que el bullicio de la carrera.
+Fuera de la semana del Palio, también merece la pena visitar el Campo, la Torre del Mangia y el Palazzo Pubblico. Además, cada una de las 17 contrade tiene un pequeño museo propio con palios de otros años, trajes y trofeos. En los días cercanos al 16 de agosto, cada barrio organizaba por la noche su cena in strada, una cena popular al aire libre en la que los vecinos comían juntos en plena calle. El ambiente era mucho más tranquilo que entre el público de la carrera y mostraba mejor la vida local.
 
 ## Cuándo ir
 
-Muchos visitantes llegan a Siena al menos un día antes para ver una carrera de ensayo (prova) en un Campo mucho menos abarrotado: es la forma más sencilla de entender el recorrido y el ambiente sin sufrir la aglomeración del día de la carrera. La ciudad alcanza su punto más intenso y caluroso a mediados de agosto, y las primeras horas de la mañana y las últimas de la tarde son los únicos momentos cómodos para recorrer el centro.
+Muchos visitantes llegaban a Siena al menos un día antes para ver una carrera de prueba (prova) con el Campo mucho más despejado. Era la manera más sencilla de entender el recorrido y el estruendo sin las aglomeraciones del gran día. A mediados de agosto la ciudad vive su momento de mayor intensidad y de más calor, y solo a primera hora de la mañana y a última de la tarde resulta agradable recorrer el centro.
 
-## Cómo visitarlo como un local
+## Cómo vivirlo como un sienés
 
-Los sienenses no ven el Palio como espectadores, sino como miembros de una contrada, y el error más grande que cometen los visitantes es tratar el día de la carrera como si fuera una feria por la que pasear con calma. El espacio de pie en el centro del Campo se lo llevan quienes reservan su sitio a primera hora de la tarde con agua, sombrero y paciencia: allí no hay sombra ni posibilidad de volver a entrar una vez que la multitud se ha asentado.
+Los sieneses no ven el Palio como simples espectadores, sino como miembros de una contrada. Por eso, el mayor error de los visitantes es tomarse el día de la carrera como una fiesta por la que pasear sin más. El espacio para ver la carrera de pie en el centro del Campo era para quienes ocupaban su sitio a primera hora de la tarde con agua, sombrero y paciencia. No había sombra, y quien salía cuando la multitud ya estaba colocada no podía volver a entrar.
 
-Los colores y pañuelos de las contradas es mejor dejarlos para quienes realmente los entienden; entre ellas existen rivalidades feroces, y para un forastero resulta más prudente y respetuoso mantenerse neutral. El pago de los asientos oficiales o de las visitas organizadas se gestiona por adelantado y por escrito, ya que no existe una ventanilla informal de venta de entradas. Un bar o restaurante con terraza frente al Campo, reservado con bastante antelación, es la alternativa realista y a la manera local frente a un asiento en las gradas.
+Los colores y pañuelos de las contrade conviene dejarlos a quienes entienden su significado. Entre ellas hay rivalidades feroces, y para un forastero mantenerse neutral es más seguro y más respetuoso. Las localidades oficiales y las visitas guiadas se pagaban por adelantado y por escrito, porque no existía ninguna ventanilla donde comprar en el momento. La alternativa realista al estilo local era una mesa en la terraza de un bar o restaurante con vistas al Campo, reservada con mucha antelación.
 
-Las fechas, los cortes de tráfico y las horas de inicio varían ligeramente de un año a otro, y la oficina de turismo de Siena junto con las páginas del Palio del Comune di Siena ofrecen el calendario oficial y los detalles sobre la venta de entradas.
+Las fechas, los cortes de tráfico y las horas de salida varían ligeramente de un año a otro. El calendario oficial y la información sobre entradas figuran en la oficina de turismo de Siena y en las páginas del Palio del Comune di Siena.

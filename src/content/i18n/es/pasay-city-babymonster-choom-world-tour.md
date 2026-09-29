@@ -1,57 +1,61 @@
 ---
 lang: es
 slug: pasay-city-babymonster-choom-world-tour
-srcHash: 'd90d09cdf8b2'
-title: 'Gira Mundial CHOOM de BABYMONSTER: lo que se anunció (Pasay City)'
-description: La gira mundial CHOOM de BABYMONSTER tenía fecha en el SM Mall of Asia Arena de Pasay City el 5 de septiembre de 2026. Esto fue lo que se anunció sobre el recinto, el transporte y los horarios.
-quickAnswer: La gira mundial CHOOM de BABYMONSTER tenía fecha en el SM Mall of Asia Arena de Pasay City el 5 de septiembre de 2026, con apertura de puertas anunciada a las 6pm. Las entradas se vendieron a través de los canales oficiales de BABYMONSTER y de SM Tickets/el recinto, que también gestionaron las categorías de boletos.
+srcHash: '72112556088d'
+title: 'Gira mundial CHOOM de BABYMONSTER en Pasay: datos clave'
+description: La gira mundial CHOOM de BABYMONSTER tenía fecha el 5 de septiembre de 2026 en el SM Mall of Asia Arena de la ciudad de Pasay, con apertura de puertas anunciada a las 6pm.
+quickAnswer: La gira mundial CHOOM de BABYMONSTER tenía fecha el 5 de septiembre de 2026 en el SM Mall of Asia Arena de la ciudad de Pasay (Pasay City), con apertura de puertas anunciada a las 6pm. Las entradas se vendieron a través de los canales oficiales de BABYMONSTER y de SM Tickets o las taquillas del recinto. Estos mismos canales gestionaron también las distintas categorías de localidades.
 faq:
-  - q: ¿Dónde es exactamente el concierto?
-    a: En el SM Mall of Asia Arena, en Pasay City, dentro del complejo SM Mall of Asia a orillas de la bahía de Manila, cerca de la zona aeroportuaria de Metro Manila.
-  - q: ¿Cómo se llega al recinto sin auto?
-    a: Tomando el LRT-1 hasta la estación Taft Avenue o EDSA y, para el tramo final, un autobús P2P o un taxi/servicio de transporte privado, ya que ninguna línea de tren entra directamente al complejo de Mall of Asia.
-  - q: ¿Cuándo salen a la venta las entradas y cuánto cuestan?
-    a: Las categorías en este recinto suelen ir desde el piso de admisión general hasta los asientos de niveles superiores, con precios y fechas de venta gestionados por el socio oficial de boletería.
-  - q: ¿Con cuánta anticipación conviene llegar?
-    a: El público local suele llegar de 3 a 4 horas antes para comer, comprar mercancía y hacer fila con calma en lugar de apurarse a la apertura de puertas, ya que las filas de piso y de palcos se forman por separado y la mercancía suele agotarse temprano.
-  - q: ¿Es definitiva la fecha del 5 de septiembre de 2026?
-    a: El 5 de septiembre de 2026 fue la fecha anunciada para esta parada en Manila de la gira mundial CHOOM, en el SM Mall of Asia Arena de Pasay City.
+  - q: ¿Dónde era exactamente el concierto?
+    a: En el SM Mall of Asia Arena de la ciudad de Pasay. El recinto forma parte del complejo SM Mall of Asia, a orillas de la bahía de Manila y cerca de la zona del aeropuerto de la Gran Manila (Metro Manila).
+  - q: ¿Cómo se llegaba al recinto sin coche?
+    a: Lo habitual era tomar la LRT-1 hasta la estación Taft Avenue o EDSA y cubrir el último tramo en autobús P2P, en taxi o con una aplicación de transporte. Ninguna línea ferroviaria llega directamente al complejo Mall of Asia.
+  - q: ¿Cuándo salieron a la venta las entradas y cuánto costaban?
+    a: En este recinto, las categorías suelen ir desde la pista general hasta las gradas superiores. Los precios y las fechas de venta corrían a cargo del socio oficial de venta de entradas.
+  - q: ¿Con cuánta antelación solía llegar el público?
+    a: El público local suele llegar con 3-4 horas de antelación. Así tiene tiempo de comer, comprar mercancía y hacer cola con calma en lugar de correr a la apertura de puertas. Las colas de pista y de palco se forman por separado, y la mercancía a menudo se agota pronto.
+  - q: ¿Era definitiva la fecha del 5 de septiembre de 2026?
+    a: El 5 de septiembre de 2026 fue la fecha anunciada para la parada en Manila de la gira mundial CHOOM, en el SM Mall of Asia Arena de la ciudad de Pasay.
 ---
 
-El Mall of Asia Arena se siente antes de verse. El complejo se extiende a lo largo del malecón ganado al mar en la bahía de Manila, en Pasay City: una muralla de pantallas LED, autobuses de traslado y vendedores que, días antes de un concierto, montan mesas plegables con light sticks y photocards. A este recinto llegó BABYMONSTER —el grupo femenino más reciente de YG Entertainment, formado por integrantes como Ruka, Ahyeon, Asa y Pharita— el 5 de septiembre de 2026, en una parada de su gira mundial CHOOM, la primera desde su debut.
+Al Mall of Asia Arena se le siente antes de verlo. El complejo se extiende por el litoral ganado al mar de la bahía de Manila, en la ciudad de Pasay (Pasay City). En los días previos a cada espectáculo aparecen muros de pantallas LED y autobuses lanzadera, y los vendedores montan mesas plegables repletas de barras de luz y tarjetas fotográficas.
+
+En este recinto tenía fecha BABYMONSTER el 5 de septiembre de 2026, dentro de su gira mundial CHOOM (CHOOM World Tour). Era su primera gira de alcance global desde el debut. El grupo es la formación femenina más reciente de YG Entertainment y cuenta entre sus integrantes con Ruka, Ahyeon, Asa y Pharita.
 
 ## Por qué importaba esta parada
 
-Manila se ha convertido en una escala habitual de las giras mundiales del K-pop, en parte gracias a este recinto. El SM Mall of Asia Arena tiene capacidad para decenas de miles de personas y ya había recibido antes a una larga lista de artistas de K-pop, por lo que el flujo del público, el montaje de la mercancía y la cultura de los proyectos de fans estaban ya rodados en lugar de improvisarse.
+Si Manila se ha consolidado como escala habitual de las giras mundiales de K-pop, es en parte gracias a este recinto. El SM Mall of Asia Arena tiene capacidad para decenas de miles de espectadores y, antes de BABYMONSTER, ya había recibido a una larga lista de artistas del género. Por eso el movimiento del público, la organización de la mercancía y la cultura de los proyectos de fans respondían allí a la experiencia y no a la improvisación.
 
-Para BABYMONSTER, cuyo fandom (conocido como MONSTIEZ) había crecido rápidamente desde su debut en 2023, una fecha en Manila era una muestra de cuánto había crecido su alcance en el sudeste asiático en apenas un par de años.
+El fandom de BABYMONSTER, conocido como MONSTIEZ, había crecido con rapidez desde el debut del grupo en 2023. Una fecha en Manila demostraba hasta dónde había llegado su alcance en el Sudeste Asiático en apenas un par de años.
 
 ## Cómo llegar al SM Mall of Asia Arena
 
-El recinto se ubica dentro del complejo más amplio de SM Mall of Asia, justo a orillas de la bahía, en Pasay City, junto a la zona aeroportuaria de Metro Manila. Desde el norte (Makati, Ortigas, Quezon City), los taxis y las aplicaciones de transporte privado son la opción más sencilla, aunque el tráfico por Roxas Boulevard y la EDSA puede ser intenso en las horas previas a un gran concierto.
+El recinto se encuentra dentro del gran complejo SM Mall of Asia, junto a la misma bahía, en Pasay, y linda con la zona del aeropuerto de la Gran Manila (Metro Manila). Desde el norte (Makati, Ortigas, Quezon City), lo más sencillo era recurrir a un taxi o a una aplicación de transporte. Eso sí, en las horas previas a un gran concierto el tráfico podía ser intenso en el bulevar Roxas (Roxas Boulevard) y en la EDSA.
 
-Muchos asistentes prefieren tomar el LRT-1 hasta las estaciones EDSA o Taft Avenue y, para el último tramo, hacer trasbordo a un autobús P2P o a un taxi, ya que ninguna línea de tren llega directamente al complejo de Mall of Asia. Como el recinto se encuentra dentro de una zona comercial, es habitual que el público llegue con varias horas de antelación, coma, compre mercancía dentro del centro comercial y camine hasta el arena, lo que les permite evitar el tráfico cercano al recinto en el último momento.
+Muchos asistentes preferían tomar la LRT-1 hasta las estaciones EDSA o Taft Avenue y hacer el último tramo en autobús P2P o en taxi, porque ninguna línea ferroviaria entra directamente en el complejo Mall of Asia. Como el recinto forma parte de una zona comercial, era frecuente llegar con horas de antelación. La gente comía, compraba mercancía en el centro comercial y después iba caminando hasta el estadio, lo que le ahorraba los atascos de última hora en los alrededores.
 
-## Qué estaba previsto para la noche
+## Lo que se esperaba de la noche
 
-Se esperaba que el repertorio de la gira mundial CHOOM combinara los temas más marcados por el baile de BABYMONSTER con sus sencillos más melódicos, interpretados con la elaborada puesta en escena por la que son conocidas las giras de YG: plataformas móviles, pirotecnia y una pantalla de fondo de gran formato.
+Se esperaba un repertorio de la gira CHOOM centrado en los temas más contundentes y bailables de BABYMONSTER, alternados con sus sencillos más melódicos. Todo ello con la espectacular puesta en escena que caracteriza las giras de YG: plataformas móviles, pirotecnia y una pantalla que ocupaba todo el fondo del escenario.
 
-## Entradas y planificación práctica
+## Entradas y organización práctica
 
-Las categorías de entradas para los conciertos de K-pop en este recinto suelen ir desde el piso de admisión general y los palcos inferiores hasta los asientos de niveles superiores, más alejados del escenario, con precios y fechas de venta que establece por separado el socio oficial de boletería. Se esperaba que la fecha de BABYMONSTER en Manila atrajera a grandes multitudes, incluidos fans internacionales que viajaban específicamente para el concierto, y las entradas de conciertos anteriores de K-pop en este recinto se habían agotado en cuestión de horas tras su salida a la venta.
+En los conciertos de K-pop que acoge este recinto, las categorías de entradas suelen abarcar desde la pista general y los palcos inferiores hasta las gradas superiores, más alejadas del escenario. El socio oficial de venta de entradas fijaba por separado los precios y las fechas de venta. Se preveía que la fecha de BABYMONSTER en Manila atrajera a un público numeroso, incluidos fans internacionales que viajaban expresamente para el concierto.
 
-Las entradas se vendieron a través de canales oficiales de boletería. Durante las semanas de grandes conciertos son frecuentes los anuncios de reventa en los alrededores de Mall of Asia, y no hay garantía de que sean auténticos.
+De hecho, las entradas de anteriores conciertos de K-pop en este recinto se habían agotado a las pocas horas de salir a la venta.
 
-## Cómo suele acudir el público local
+Las entradas se vendieron a través de los canales oficiales. En las semanas de grandes conciertos abundan las ofertas de reventa en los alrededores del Mall of Asia, y nada garantiza que sean auténticas.
 
-Los asistentes de Manila rara vez llegan justo a la apertura de puertas: tienden a vivir todo el complejo de Mall of Asia como parte de la noche, llegando tres o cuatro horas antes para comer en los restaurantes del centro comercial, pasear por el malecón junto a la bahía y hacer fila para la mercancía oficial, que históricamente ha agotado sus primeras tandas con rapidez.
+## Cómo lo vive el público local
 
-El efectivo funciona en todas partes, pero las tarjetas sin contacto y las billeteras electrónicas como GCash también son ampliamente aceptadas para comida, transporte y mercancía dentro del complejo.
+El público de Manila rara vez se presenta justo a la hora de apertura. Para él, todo el complejo Mall of Asia forma parte de la salida. Llega con tres o cuatro horas de antelación para comer en los restaurantes del centro comercial, pasear por el paseo marítimo y hacer cola en los puestos de mercancía oficial, cuyas primeras tandas históricamente se han agotado enseguida.
 
-Para las entradas de piso de admisión general, los fans suelen formar fila a lo largo de los carriles designados del recinto bastante antes de la apertura de puertas, mientras el personal del arena (con chalecos amarillos o de marca) dirige a cada categoría de boleto hacia su fila correspondiente, ya que las filas de piso y de palcos suelen estar separadas.
+El efectivo se acepta en todas partes. Aun así, dentro del complejo también se admiten de forma generalizada las tarjetas sin contacto y los monederos electrónicos como GCash, tanto para comida como para transporte y mercancía.
 
-Un problema habitual para quienes acuden por primera vez es el tráfico a la salida: cuando un concierto a plena capacidad termina, Roxas Boulevard y las vías internas del centro comercial suelen congestionarse casi de inmediato.
+Con entrada de pista general, los fans suelen formar fila en los carriles de espera habilitados por el recinto mucho antes de que se abran las puertas. Las colas de pista y de palco suelen ir por separado, así que el personal del recinto, con chalecos amarillos o con la marca del evento, indica a cada categoría cuál es su fila.
 
-## La apertura de puertas estaba fijada para las 6pm
+Un problema frecuente para quienes acuden por primera vez es el tráfico a la salida. Cuando termina un concierto con el aforo completo, el bulevar Roxas y las vías internas del centro comercial se colapsan casi de inmediato.
 
-La apertura de puertas de la etapa de Manila de la gira mundial CHOOM estaba anunciada para las 6pm del 5 de septiembre de 2026, en el SM Mall of Asia Arena.
+## Apertura de puertas a las 6pm
+
+Para la etapa de Manila de la gira mundial CHOOM, la apertura de puertas figuraba a las 6pm del 5 de septiembre de 2026, en el SM Mall of Asia Arena.

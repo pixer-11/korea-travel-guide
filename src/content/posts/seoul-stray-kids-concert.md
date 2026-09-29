@@ -1,6 +1,6 @@
 ---
 title: 'Stray Kids Concert: What to Know (Seoul)'
-description: Stray Kids were set for KSPO Dome in Seoul's Olympic Park on August 1–2, 2026, as part of their summer concert run. What it is, when and where.
+description: Stray Kids were set to play KSPO Dome in Seoul's Olympic Park on August 1–2, 2026, as part of their summer concert run.
 country: South Korea
 region: Seoul
 category: event

@@ -1,6 +1,6 @@
 ---
 title: 'U-KNOW Project 26: SCENE#1 (TVXQ''s U-Know Yunho solo tour): What to Know (Ho Chi Minh City)'
-description: U-Know Yunho's SCENE#1 solo tour was set for Military Zone 7 Indoor Stadium in Ho Chi Minh City on September 19, 2026. What was announced.
+description: U-Know Yunho's solo tour "SCENE#1" was set for Ho Chi Minh City's Military Zone 7 Indoor Stadium in Tan Binh District on September 19, 2026.
 country: Vietnam
 region: Ho Chi Minh City
 category: event

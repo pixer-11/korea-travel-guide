@@ -1,6 +1,6 @@
 ---
 title: 'Tokushima Awa Odori: What to Know (Tokushima)'
-description: 'Tokushima Awa Odori in Tokushima, Japan — August 11-15, 2026. What was announced: the dates, the venues, and the shape of the festival.'
+description: Tokushima Awa Odori was set for August 11–15, 2026, taking over the streets of central Tokushima City each evening during Japan's Obon holiday.
 country: Japan
 region: Tokushima
 category: event
