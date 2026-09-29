@@ -16,6 +16,7 @@ import { wikimediaThumb } from '../lib/wikimediaThumb.mjs';
 import PlanTrip from './PlanTrip.astro';
 import PostCard from './PostCard.astro';
 import StickyBook from './StickyBook.astro';
+import { hotelUrl } from '../lib/hotel-link.mjs';
 import Emoji from './Emoji.astro';
 import { isEventPast } from '../lib/eventStatus';
 import { eventSchemaName } from '../lib/eventName';
@@ -328,15 +329,30 @@ const gettingThereId = gtIdx < 0
     ? enH2Ids[gtIdx]
     : (() => { const ids = h2Ids(renderedHtml); return ids.length === enH2Ids.length ? ids[gtIdx] : null; })();
 // The ONE affiliate card (desktop sidebar; hidden on phones, which have the
-// sticky bar). The venue's own tickets when it is a ticketed kind of place,
-// the city's tours otherwise. A finished event gets none, as before.
-const sideAffiliate = isEventPast(d)
+// sticky bar). Still one card per page (2026-09-24 redesign) — only what it
+// offers depends on the page:
+//   upcoming event → where to stay in the city. Someone travelling to a show
+//     needs a bed more than a tour; the event's own top box keeps the official
+//     ticket page (2026-09-29, revenue review).
+//   finished event → the city's tours. It used to get no card, but whoever
+//     lands after the show is planning a later trip, which is what the top
+//     box's "upcoming events / month" links already assume.
+//   place guide → the venue's own tickets when it is a ticketed kind of place,
+//     the city's tours otherwise (unchanged).
+const sideAffiliate = !d.region && !(ticketable && p?.name)
   ? null
-  : ticketable && p?.name
-    ? { href: klookPlace, title: t('post.ticketsFor').replace('{place}', placeLabel) }
-    : d.region
-      ? { href: klookTop, title: ps('ps.cardCity').replace('{city}', regionLabel) }
-      : null;
+  : isEvent && isEventPast(d)
+    ? { href: klookTop, title: ps('ps.cardCity').replace('{city}', regionLabel), placement: 'post-sidebar-ended' }
+    : isEvent
+      ? {
+          href: hotelUrl({ submarker: 'event_sidebar', locale: klookLocale(lang), place: d.region, country: d.country }),
+          title: t('widget.whereToStay').replace('{city}', regionLabel),
+          kind: 'stay' as const,
+          placement: 'post-sidebar-stay',
+        }
+      : ticketable && p?.name
+        ? { href: klookPlace, title: t('post.ticketsFor').replace('{place}', placeLabel) }
+        : { href: klookTop, title: ps('ps.cardCity').replace('{city}', regionLabel) };
 const fmtDate = (x: Date) => x.toLocaleDateString(localeCodes[lang], { year: 'numeric', month: 'long', day: 'numeric' });
 const fmtDateShort = (x: Date) => x.toLocaleDateString(localeCodes[lang], { year: 'numeric', month: 'short', day: 'numeric' });
 

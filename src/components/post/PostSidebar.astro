@@ -35,7 +35,7 @@ interface Props {
   mapMosaic?: any;
   gettingThereId?: string | null;
   tocItems?: { id: string; label: string }[];
-  affiliate?: { href: string; title: string } | null;
+  affiliate?: { href: string; title: string; kind?: 'stay'; placement?: string } | null;
   wtgHref?: string | null;
   wtgLabel?: string | null;
   wtgCard?: {
@@ -166,9 +166,12 @@ const hasFacts = !!(p && (statusData || hourGroups || hoursAllDay || rawHours.le
       938px inside a sticky column that shows ~800px, so on a desktop it was
       never on screen unless the reader scrolled the column itself — the
       page's only desktop affiliate surface (2026-09-24 visual check). */}
+  {/* kind 'stay' (upcoming events, 2026-09-29): same card, hotel icon and a
+      "Where to stay" kicker. placement keeps the event cards apart from the
+      place-guide card in the click report. */}
   {affiliate && (
-    <div class="side-box side-card" data-affiliate-placement="post-sidebar">
-      <span class="side-card-k"><Emoji name="admission-tickets" /> {ps('ps.cardKicker')}</span>
+    <div class="side-box side-card" data-affiliate-placement={affiliate.placement ?? 'post-sidebar'}>
+      <span class="side-card-k"><Emoji name={affiliate.kind === 'stay' ? 'hotel' : 'admission-tickets'} /> {ps(affiliate.kind === 'stay' ? 'ps.cardKickerStay' : 'ps.cardKicker')}</span>
       <p class="side-card-t">{affiliate.title}</p>
       <a class="side-card-btn" href={affiliate.href} target="_blank" rel="sponsored noopener">{ps('ps.cardCta')} →</a>
       <p class="side-card-note">{ps('ps.affNote')}</p>
