@@ -3721,6 +3721,12 @@
   "reason": "publish gate: Rainforest creek with rocks matches Crystal Cascades scenery",
   "at": "2026-09-28T16:50:40.928Z"
  },
+ "cairns-the-chambers\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Mulgrave_Gallery%2C_formerly_Mulgrave_Shire_Council_Chambers%2C_Cairns%2C_2025%2C_01.jpg/3840px-Mulgrave_Gallery%2C_formerly_Mulgrave_Shire_Council_Chambers%2C_Cairns%2C_2025%2C_01.jpg": {
+  "slug": "cairns-the-chambers",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of heritage building plausibly matching venue in Cairns",
+  "at": "2026-09-29T14:19:17.090Z"
+ },
  "cameron-highlands-cactus-valley\u0001https://upload.wikimedia.org/wikipedia/commons/6/6c/Cactus_at_Cactus_Valley_-_Near_Brinchang_-_Cameron_Highlands_-_Malaysia_%2835398159902%29.jpg": {
   "slug": "cameron-highlands-cactus-valley",
   "verdict": "MATCH",
@@ -6349,6 +6355,12 @@
   "reasonKo": "힌두 사원, 특징적 건축, 연못, 빨간 기와",
   "at": "2026-08-15T13:11:13.650Z"
  },
+ "gold-coast-cafe-gold-coast\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Cafe_at_Griffith_University_Gold_Coast_Campus.jpg/3840px-Cafe_at_Griffith_University_Gold_Coast_Campus.jpg": {
+  "slug": "gold-coast-cafe-gold-coast",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows outdoor cafe seating area under shade structure with signage",
+  "at": "2026-09-29T14:17:21.546Z"
+ },
  "gold-coast-natural-bridge-springbrook-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Natural_Bridge%2C_Springbrook_National_Park_18.jpg/3840px-Natural_Bridge%2C_Springbrook_National_Park_18.jpg": {
   "slug": "gold-coast-natural-bridge-springbrook-national-park",
   "verdict": "MATCH",
@@ -7288,6 +7300,12 @@
   "verdict": "MATCH",
   "reason": "editor-shot on site 2026-08-15; venue name on noren + lantern in frame",
   "at": "2026-08-15T01:07:39.690Z"
+ },
+ "hobart-born-in-brunswick\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/%27Born_in_Brunswick%27_and_mural_on_side_of_cafe_on_Elizabeth_Street_in_North_Hobart%2C_Tasmania_%2855537294375%29.jpg/3840px-%27Born_in_Brunswick%27_and_mural_on_side_of_cafe_on_Elizabeth_Street_in_North_Hobart%2C_Tasmania_%2855537294375%29.jpg": {
+  "slug": "hobart-born-in-brunswick",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior storefront with venue signage, representative hero shot",
+  "at": "2026-09-29T14:20:22.660Z"
  },
  "hobart-elizabeth-street-pier\u0001https://upload.wikimedia.org/wikipedia/commons/1/12/Morning_View_Elizabeth_pier_2011.jpg": {
   "slug": "hobart-elizabeth-street-pier",

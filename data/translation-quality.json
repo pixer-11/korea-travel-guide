@@ -30470,13 +30470,6 @@
   "worst": "두바이 관객들은 다른 지역에서 예상하는 것보다 아레나 공연에서 다소 격식 있게 차려입는 경향이 있습니다",
   "at": "2026-09-28T16:02:15.235Z"
  },
- "ko/east-rutherford-bruno-mars-the-romantic-tour": {
-  "hash": "f2738a09538a",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "이는 뉴욕·뉴저지 시장이 얼마나 많은 수요를 흡수할 수 있는지를 보여주는 대목이자 단발성 공연이 아닌 연속 공연으로 기획되었음을 뜻했습니다.",
-  "at": "2026-09-28T16:02:19.804Z"
- },
  "es/adelaide-adelaide-botanic-garden": {
   "hash": "3265b37f895f",
   "score": 1,
@@ -30583,11 +30576,11 @@
   "at": "2026-09-28T17:14:04.183Z"
  },
  "ko/cairns-cairns-aquarium": {
-  "hash": "3bc95467cb6e",
+  "hash": "8983f0dfa8e6",
   "score": 1,
   "registerBreak": false,
-  "worst": "언제 가야 하는지는 혼잡도 데이터가 분명히 알려 줍니다.",
-  "at": "2026-09-28T17:14:04.419Z"
+  "worst": "관람 동선은 물이 산을 타고 흘러내리는 순서를 그대로 따릅니다.",
+  "at": "2026-09-29T14:26:10.518Z"
  },
  "ko/chandigarh-quick-style-india-tour-2026": {
   "hash": "8dddc6a63de2",
@@ -30604,18 +30597,18 @@
   "at": "2026-09-28T17:14:07.807Z"
  },
  "ko/canberra-australian-war-memorial": {
-  "hash": "71aadb46c309",
+  "hash": "44ab26e95285",
   "score": 1,
   "registerBreak": false,
-  "worst": "기념관이 애초에 염두에 두고 설계된 풍경을 보고 싶다면, 건물 뒤편에서 시작되는 산책로를 따라",
-  "at": "2026-09-28T17:14:08.886Z"
+  "worst": "기념관이 애초에 염두에 두고 설계된 풍경을 보고 싶다면 건물 뒤편 산책로를 따라 에인슬리산에 올라 보십시오.",
+  "at": "2026-09-29T14:26:16.540Z"
  },
  "ko/canberra-cockington-green-gardens": {
-  "hash": "cbe2e48f2e61",
+  "hash": "1a9547fd54be",
   "score": 1,
   "registerBreak": false,
-  "worst": "이곳의 혼잡도 정보는 그대로 따르기 쉽습니다.",
-  "at": "2026-09-28T17:14:09.594Z"
+  "worst": "모형을 어떻게 감상하면 좋은지 알려 드리겠습니다.",
+  "at": "2026-09-29T14:26:18.213Z"
  },
  "ko/darwin-darwin-military-museum": {
   "hash": "3d49a2e27df9",
@@ -30680,13 +30673,6 @@
   "worst": "워낙 잘 알려지지 않은 곳이다 보니 애초에 인파는 문제가 되지 않았습니다.",
   "at": "2026-09-28T17:14:18.789Z"
  },
- "ko/delhi-nisaba": {
-  "hash": "0523ad9bf432",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "셰프의 이력만으로도 손님이 몰리기에 충분하지만, 지금 델리의 다른 어떤 식당과도 다른 경험을 선사하는",
-  "at": "2026-09-28T17:14:20.696Z"
- },
  "ko/fethiye-tlos-ruins": {
   "hash": "98e3761568a1",
   "score": 1,
@@ -30700,13 +30686,6 @@
   "registerBreak": false,
   "worst": "15세기 피렌체의 은행가 가문이 자신들의 시대 옷차림 그대로 성경 속 배경에 등장시켜 스스로를 어떻게 기억되고",
   "at": "2026-09-28T17:14:34.031Z"
- },
- "ko/fremantle-fremantle-prison": {
-  "hash": "c99900a320d0",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "편집부 요약에 따르면 죄수들의 생활을 다룬 체험형 전시와 카페도 있습니다.",
-  "at": "2026-09-28T17:14:35.666Z"
  },
  "ko/fujairah-al-bithnah-fort": {
   "hash": "5e99724e3cf5",
@@ -30743,13 +30722,6 @@
   "worst": "평일 저녁 시간대 역시 비교적 한산한 편인데, 운영시간이 길어 퇴근·하교 후 방문객들이 정오에 몰리지 않고 분산되기 때문입니다.",
   "at": "2026-09-28T17:14:42.432Z"
  },
- "ko/foxborough-bts-world-tour": {
-  "hash": "a6d135422677",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "동부 해안 지역 아미(ARMY)에게는 뉴잉글랜드에서 가장 가까운 대규모 스타디움 공연이었던 만큼, 매사추세츠는 물론 코네티컷",
-  "at": "2026-09-28T17:14:42.595Z"
- },
  "ko/fukuoka-kyushu-basho-fukuoka-grand-sumo-tournament": {
   "hash": "c32480c5b9db",
   "score": 1,
@@ -30763,13 +30735,6 @@
   "registerBreak": false,
   "worst": "이곳은 하카타를 지키는 수호 신사이지만, 그 위상을 증명하기 위해 거창한 진입로 따위는 필요치 않습니다.",
   "at": "2026-09-28T17:14:52.680Z"
- },
- "ko/fukuoka-ohori-park-japanese-garden": {
-  "hash": "b0c019b4b555",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "방금 전까지 조깅하는 사람들과 페달보트가 떠다니는 널찍한 공공 호수 옆에 있었는데, 어느새 고요한 사색을 위해",
-  "at": "2026-09-28T17:14:58.173Z"
  },
  "ko/gangneung-gangneung-jungang-market": {
   "hash": "0be2b8434b40",
@@ -30798,13 +30763,6 @@
   "registerBreak": false,
   "worst": "Los precios figuran en etiquetas o se preguntan.",
   "at": "2026-09-29T09:50:16.883Z"
- },
- "es/chamonix-telepherique-aiguille-du-midi": {
-  "hash": "34a278f063ec",
-  "score": 2,
-  "registerBreak": false,
-  "worst": "Ese es su destino: a 3,842 metros de altitud, justo frente al Mont Blanc",
-  "at": "2026-09-29T09:51:47.655Z"
  },
  "ja/alice-springs-anzac-hill": {
   "hash": "942b09d0b51a",
@@ -30868,5 +30826,61 @@
   "registerBreak": false,
   "worst": "这里��法国阿尔卑斯地区游客最多的景点之一，整套运营体系就是为应对大客流设计的。",
   "at": "2026-09-29T09:50:52.756Z"
+ },
+ "es/cairns-cairns-aquarium": {
+  "hash": "f297b01ed7b5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "...las mismas especies que más tarde le señalarán en los barcos al arrecife y en las excursiones...",
+  "at": "2026-09-29T14:25:47.619Z"
+ },
+ "es/canberra-australian-war-memorial": {
+  "hash": "b2f2f86ff628",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-09-29T14:25:54.112Z"
+ },
+ "es/canberra-cockington-green-gardens": {
+  "hash": "5cb3a69df9a2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Procure no llegar entre las 10am y las 4pm un sábado o un domingo.",
+  "at": "2026-09-29T14:25:56.555Z"
+ },
+ "ja/cairns-cairns-aquarium": {
+  "hash": "aa326a763992",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "ケアンズが初めての方にとっては、よい予習になるでしょう。このあとリーフボートや熱帯雨林ツアーで目にする生き物を、ひと足先に水槽で見ておけるからです。",
+  "at": "2026-09-29T14:25:59.941Z"
+ },
+ "ja/canberra-australian-war-memorial": {
+  "hash": "ba132a2e038d",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-09-29T14:26:02.066Z"
+ },
+ "ja/canberra-cockington-green-gardens": {
+  "hash": "1461803821cb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "通路は散策しやすく設計されているので、道から外れないようにしましょう。",
+  "at": "2026-09-29T14:26:08.686Z"
+ },
+ "zh/cairns-cairns-aquarium": {
+  "hash": "3e39bbac4fb8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "什么时候去，我们的客流数据说得很清楚。",
+  "at": "2026-09-29T14:26:19.774Z"
+ },
+ "zh/canberra-australian-war-memorial": {
+  "hash": "cc9405fc4476",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "客流数据的结论很明确：工作日上午10点至下午4点最清静。",
+  "at": "2026-09-29T14:26:22.027Z"
  }
 }
