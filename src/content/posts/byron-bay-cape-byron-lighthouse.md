@@ -29,6 +29,15 @@ place:
   businessStatus: "OPERATIONAL"
   lat: -28.638465000000004
   lng: 153.6362461
+  phone: '+61 2 6639 8300'
+  openingHours:
+    - 'Monday: 10:00 AM – 4:00 PM'
+    - 'Tuesday: 10:00 AM – 4:00 PM'
+    - 'Wednesday: 10:00 AM – 4:00 PM'
+    - 'Thursday: 10:00 AM – 4:00 PM'
+    - 'Friday: 10:00 AM – 4:00 PM'
+    - 'Saturday: 10:00 AM – 4:00 PM'
+    - 'Sunday: 10:00 AM – 4:00 PM'
 tags:
   - "byron bay"
   - "top attraction"

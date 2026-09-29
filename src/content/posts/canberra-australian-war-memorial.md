@@ -1,58 +1,65 @@
 ---
 title: "Australian War Memorial: Canberra Travel Guide (4.8★)"
-description: "The Australian War Memorial sits at the top of Anzac Parade in Campbell, Canberra, and combines a national shrine with one of the country's largest museums; general admission is free. 4.8★ (14,612 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Canberra"
-category: "attraction"
+description: The Australian War Memorial sits at the top of Anzac Parade in Campbell, Canberra, and combines a national shrine with one of the country's largest museums; general admission is free. 4.8★ (14,612 reviews) — what visitors say, hours, and tips.
+country: Australia
+region: Canberra
+category: attraction
 pubDate: "2026-09-28T17:06:31.246Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Australian_War_Memorial_front_view.jpg/1920px-Australian_War_Memorial_front_view.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Australian_War_Memorial_front_view.jpg/1920px-Australian_War_Memorial_front_view.jpg
   credit: "Photo: Shkuru Afshar / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Australian_War_Memorial_front_view.jpg"
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Australian_War_Memorial_front_view.jpg
   focus:
     x: 50
-    y: 45
+    "y": 45
 gallery: []
 place:
-  id: "ChIJ7wRAy3ZNFmsR5izUOK6G70E"
-  name: "Australian War Memorial"
-  address: "Treloar Cres, Campbell ACT 2612, Australia"
+  id: ChIJ7wRAy3ZNFmsR5izUOK6G70E
+  name: Australian War Memorial
+  address: Treloar Cres, Campbell ACT 2612, Australia
   rating: 4.8
   userRatingsTotal: 14612
-  googleMapsUrl: "https://maps.google.com/?cid=4751164214735023334&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=4751164214735023334&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -35.2811355
   lng: 149.1484327
   busyness:
-    updated: 2026-09-28
+    updated: 2026-09-28T00:00:00.000Z
     weekdayQuiet:
       - 10
-      - 16
     weekendQuiet:
       - 10
-      - 16
     weekendBusy:
       - 11
       - 12
       - 13
       - 14
-    venueId: "ven_45303747364b4f557a693552736d464e5a3379415277374a496843"
+    venueId: ven_45303747364b4f557a693552736d464e5a3379415277374a496843
+  phone: +61 2 6243 4211
+  openingHours:
+    - "Monday: 10:00 AM – 4:00 PM"
+    - "Tuesday: 10:00 AM – 4:00 PM"
+    - "Wednesday: 10:00 AM – 4:00 PM"
+    - "Thursday: 10:00 AM – 4:00 PM"
+    - "Friday: 10:00 AM – 4:00 PM"
+    - "Saturday: 10:00 AM – 4:00 PM"
+    - "Sunday: 10:00 AM – 4:00 PM"
 tags:
-  - "canberra"
-  - "top attraction"
-quickAnswer: "The Australian War Memorial sits at the top of Anzac Parade in Campbell, Canberra, and combines a national shrine with one of the country's largest museums; general admission is free. It is calmest on weekdays between 10am and 5pm; on weekends, avoid 11am–3pm, when it is busiest. Give it at least three hours, and stay for the Last Post Ceremony at the end of the day."
+  - canberra
+  - top attraction
+quickAnswer: The Australian War Memorial sits at the top of Anzac Parade in Campbell, Canberra, and combines a national shrine with one of the country's largest museums; general admission is free. It is calmest on weekdays between 10am and 4pm; on weekends, avoid 11am–3pm, when it is busiest. Give it at least three hours, and stay for the Last Post Ceremony at the end of the day.
 faq:
-  - q: "When is the quietest time to visit the Australian War Memorial?"
-    a: "Weekdays between 10am and 5pm are the calmest. On weekends, avoid 11am–3pm, which is the busiest window."
-  - q: "How long should I spend there?"
-    a: "Allow at least three hours for the Commemorative Area and the main galleries. If you are staying for the Last Post Ceremony at closing, plan on most of a day."
-  - q: "What is the Last Post Ceremony?"
-    a: "It is a daily ceremony at closing time in the Commemorative Area. It tells the story of one person named on the Roll of Honour and ends with a bugler playing the Last Post. Check the official site for the current time."
-  - q: "How do I get there from central Canberra?"
-    a: "The Memorial is on Treloar Crescent in Campbell, at the northern end of Anzac Parade. You can drive and use the on-site parking, or walk up Anzac Parade from Lake Burley Griffin."
-  - q: "What else is nearby?"
-    a: "The memorials along Anzac Parade, the Mount Ainslie walking track and summit lookout directly behind the building, and Lake Burley Griffin at the southern end of the parade."
+  - q: When is the quietest time to visit the Australian War Memorial?
+    a: Weekdays between 10am and 4pm are the calmest. On weekends, avoid 11am–3pm, which is the busiest window.
+  - q: How long should I spend there?
+    a: Allow at least three hours for the Commemorative Area and the main galleries. If you are staying for the Last Post Ceremony at closing, plan on most of a day.
+  - q: What is the Last Post Ceremony?
+    a: It is a daily ceremony at closing time in the Commemorative Area. It tells the story of one person named on the Roll of Honour and ends with a bugler playing the Last Post. Check the official site for the current time.
+  - q: How do I get there from central Canberra?
+    a: The Memorial is on Treloar Crescent in Campbell, at the northern end of Anzac Parade. You can drive and use the on-site parking, or walk up Anzac Parade from Lake Burley Griffin.
+  - q: What else is nearby?
+    a: The memorials along Anzac Parade, the Mount Ainslie walking track and summit lookout directly behind the building, and Lake Burley Griffin at the southern end of the parade.
 aiGenerated: true
 draft: false
 ---
@@ -78,7 +85,7 @@ The galleries below and behind hold:
 
 ## Timing the crowds and the Last Post
 
-Crowd data points one way: weekdays between 10am and 5pm are the calmest. On weekends, try not to arrive between 11am and 3pm. That is peak time, when the Hall of Memory and the big aircraft galleries fill with people.
+Crowd data points one way: weekdays between 10am and 4pm are the calmest. On weekends, try not to arrive between 11am and 3pm. That is peak time, when the Hall of Memory and the big aircraft galleries fill with people.
 
 On a Saturday, come at opening, walk the Commemorative Area first and leave the galleries until later. Opening hours are not listed here, so check the official site before you go.
 

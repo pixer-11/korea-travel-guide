@@ -36,6 +36,14 @@ place:
   businessStatus: OPERATIONAL
   lat: -27.4693571
   lng: 153.030845
+  openingHours:
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
   - brisbane
   - top attraction

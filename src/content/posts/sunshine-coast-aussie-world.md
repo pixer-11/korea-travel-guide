@@ -25,6 +25,15 @@ place:
   businessStatus: "OPERATIONAL"
   lat: -26.749752299999997
   lng: 153.04643339999998
+  phone: '+61 7 5494 5444'
+  openingHours:
+    - 'Monday: 10:00 AM – 4:00 PM'
+    - 'Tuesday: 10:00 AM – 4:00 PM'
+    - 'Wednesday: 10:00 AM – 4:00 PM'
+    - 'Thursday: 10:00 AM – 4:00 PM'
+    - 'Friday: 10:00 AM – 4:00 PM'
+    - 'Saturday: 10:00 AM – 4:00 PM'
+    - 'Sunday: 10:00 AM – 4:00 PM'
 tags:
   - "sunshine coast"
   - "hidden gem"

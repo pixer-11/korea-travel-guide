@@ -1,42 +1,38 @@
 ---
 title: "Cockington Green Gardens: Canberra Travel Guide (4.4★)"
-description: "Cockington Green Gardens is a long-running miniature village and landscaped park at 11 Gold Creek Rd in Nicholls, Canberra's northern Gold Creek precinct. 4.4★ (4,222 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Canberra"
-category: "hidden-gem"
+description: Cockington Green Gardens is a long-running miniature village and landscaped park at 11 Gold Creek Rd in Nicholls, Canberra's northern Gold Creek precinct. 4.4★ (4,222 reviews) — what visitors say, hours, and tips.
+country: Australia
+region: Canberra
+category: hidden-gem
 pubDate: "2026-09-28T16:53:28.374Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cockington_green_-_St._Andrews_Church%2C_Kiev%2C_Ukraine.jpg/1920px-Cockington_green_-_St._Andrews_Church%2C_Kiev%2C_Ukraine.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cockington_green_-_St._Andrews_Church%2C_Kiev%2C_Ukraine.jpg/1920px-Cockington_green_-_St._Andrews_Church%2C_Kiev%2C_Ukraine.jpg
   credit: "Photo: Maksym Kozlenko / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Cockington_green_-_St._Andrews_Church,_Kiev,_Ukraine.jpg"
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Cockington_green_-_St._Andrews_Church,_Kiev,_Ukraine.jpg
   focus:
     x: 30
-    y: 45
+    "y": 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/2015-09-18_Cockington_Green_Gardens_-.jpg/3840px-2015-09-18_Cockington_Green_Gardens_-.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/2015-09-18_Cockington_Green_Gardens_-.jpg/3840px-2015-09-18_Cockington_Green_Gardens_-.jpg
     credit: "Photo: Maksym Kozlenko / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:2015-09-18_Cockington_Green_Gardens_-.jpg"
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:2015-09-18_Cockington_Green_Gardens_-.jpg
 place:
-  id: "ChIJEZ4yqr6sF2sRGEFZkiSjCv8"
-  name: "Cockington Green Gardens"
-  address: "11 Gold Creek Rd, Nicholls ACT 2913, Australia"
+  id: ChIJEZ4yqr6sF2sRGEFZkiSjCv8
+  name: Cockington Green Gardens
+  address: 11 Gold Creek Rd, Nicholls ACT 2913, Australia
   rating: 4.4
   userRatingsTotal: 4222
-  googleMapsUrl: "https://maps.google.com/?cid=18377680606908203288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=18377680606908203288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -35.1916089
   lng: 149.0863082
   busyness:
-    updated: 2026-09-28
+    updated: 2026-09-28T00:00:00.000Z
     weekdayQuiet:
-      - 9
       - 15
       - 16
-      - 17
-    weekendQuiet:
-      - 17
     weekendBusy:
       - 10
       - 11
@@ -44,22 +40,31 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_3876436a53696b5a464547527332467336727179345a454a496843"
+    venueId: ven_3876436a53696b5a464547527332467336727179345a454a496843
+  phone: +61 2 6230 2273
+  openingHours:
+    - "Monday: 9:30 AM – 5:00 PM"
+    - "Tuesday: 9:30 AM – 5:00 PM"
+    - "Wednesday: 9:30 AM – 5:00 PM"
+    - "Thursday: 9:30 AM – 5:00 PM"
+    - "Friday: 9:30 AM – 5:00 PM"
+    - "Saturday: 9:30 AM – 5:00 PM"
+    - "Sunday: 9:30 AM – 5:00 PM"
 tags:
-  - "canberra"
-  - "hidden gem"
-quickAnswer: "Cockington Green Gardens is a long-running miniature village and landscaped park at 11 Gold Creek Rd in Nicholls, Canberra's northern Gold Creek precinct. Allow one and a half to two hours to see the model buildings, the gardens and the cafe. For the calmest visit, go on a weekday, when it stays quiet from 9am to 6pm, and skip weekends between 10am and 4pm, when the crowds are at their peak."
+  - canberra
+  - hidden gem
+quickAnswer: Cockington Green Gardens is a long-running miniature village and landscaped park at 11 Gold Creek Rd in Nicholls, Canberra's northern Gold Creek precinct. Allow one and a half to two hours to see the model buildings, the gardens and the cafe. For the calmest visit, go on a weekday, when it stays quiet from 9:30am to 5pm, and skip weekends between 10am and 4pm, when the crowds are at their peak.
 faq:
-  - q: "When is the quietest time to visit Cockington Green Gardens?"
-    a: "Weekdays are quiet all day, from 9am to 6pm. On weekends the quietest window is 5pm to 6pm, and 10am to 4pm is the busiest stretch to avoid. Check the official website for closing times before planning a late weekend visit."
-  - q: "How do I get to Cockington Green Gardens?"
-    a: "It's at 11 Gold Creek Rd, Nicholls, in Canberra's Gold Creek precinct, about 20 minutes' drive north of Civic via the Barton Highway or Gungahlin Drive. Buses serve the Gungahlin area, but check the Transport Canberra journey planner for current routes."
-  - q: "How long should I spend there?"
-    a: "Plan on one and a half to two hours to walk the miniature village and international section, ride the train if it's running and stop at the cafe. Add more time if you're also visiting the other Gold Creek attractions."
-  - q: "What else is nearby?"
-    a: "The National Dinosaur Museum, Canberra Reptile Zoo and Gold Creek Village are all in the same precinct, so you can easily combine them into a half-day outing."
-  - q: "What are the opening hours?"
-    a: "Hours aren't confirmed here and can change with the seasons and school holidays. Check the official Cockington Green Gardens website before you go."
+  - q: When is the quietest time to visit Cockington Green Gardens?
+    a: Weekdays are quiet all day, from 9:30am to 5pm. On weekends the quietest window is 4:30pm to 5pm, and 10am to 4pm is the busiest stretch to avoid. Check the official website for closing times before planning a late weekend visit.
+  - q: How do I get to Cockington Green Gardens?
+    a: It's at 11 Gold Creek Rd, Nicholls, in Canberra's Gold Creek precinct, about 20 minutes' drive north of Civic via the Barton Highway or Gungahlin Drive. Buses serve the Gungahlin area, but check the Transport Canberra journey planner for current routes.
+  - q: How long should I spend there?
+    a: Plan on one and a half to two hours to walk the miniature village and international section, ride the train if it's running and stop at the cafe. Add more time if you're also visiting the other Gold Creek attractions.
+  - q: What else is nearby?
+    a: The National Dinosaur Museum, Canberra Reptile Zoo and Gold Creek Village are all in the same precinct, so you can easily combine them into a half-day outing.
+  - q: What are the opening hours?
+    a: Hours aren't confirmed here and can change with the seasons and school holidays. Check the official Cockington Green Gardens website before you go.
 aiGenerated: true
 draft: false
 ---
@@ -106,11 +111,11 @@ A few habits pay off here:
 
 ## Beating the weekend rush
 
-The crowd data here is easy to act on. On weekdays the park is quiet all day, from 9am to 6pm, so any weekday visit gets you room at the fences and clear photos.
+The crowd data here is easy to act on. On weekdays the park is quiet all day, from 9:30am to 5pm, so any weekday visit gets you room at the fences and clear photos.
 
 Weekends are different. Try not to arrive between 10am and 4pm on a Saturday or Sunday. That's the busy window, with families packing the paths, a queue at the train and people crowding the most photographed models.
 
-On a weekend, the quiet window is 5pm to 6pm. We don't have confirmed opening hours, so check the official website for the day's closing time before you rely on a late visit. Arriving at 5pm to find the gate shut would waste the drive.
+On a weekend, the quiet window is 4:30pm to 5pm. We don't have confirmed opening hours, so check the official website for the day's closing time before you rely on a late visit. Arriving at 4:45pm to find the gate shut would waste the drive.
 
 ## Moving through the gardens
 

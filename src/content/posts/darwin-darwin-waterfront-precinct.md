@@ -47,6 +47,15 @@ place:
       - 21
       - 22
     venueId: "ven_4d3230657869416d5344545277437752537775534d55434a496843"
+  phone: '+61 8 8999 5155'
+  openingHours:
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
   - "darwin"
   - "top attraction"

@@ -24,6 +24,15 @@ place:
   businessStatus: "OPERATIONAL"
   lat: -23.671627
   lng: 133.8868426
+  phone: '+61 8 8951 8250'
+  openingHours:
+    - 'Monday: 8:00 AM – 4:00 PM'
+    - 'Tuesday: 8:00 AM – 4:00 PM'
+    - 'Wednesday: 8:00 AM – 4:00 PM'
+    - 'Thursday: 8:00 AM – 4:00 PM'
+    - 'Friday: 8:00 AM – 4:00 PM'
+    - 'Saturday: 8:00 AM – 4:00 PM'
+    - 'Sunday: 8:00 AM – 4:00 PM'
 tags:
   - "alice springs"
   - "hidden gem"

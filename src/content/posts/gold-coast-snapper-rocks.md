@@ -28,6 +28,14 @@ place:
   businessStatus: "OPERATIONAL"
   lat: -28.1625336
   lng: 153.55001289999998
+  openingHours:
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
   - "gold coast"
   - "top attraction"

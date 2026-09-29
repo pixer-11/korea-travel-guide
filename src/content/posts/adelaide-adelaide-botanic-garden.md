@@ -24,6 +24,15 @@ place:
   businessStatus: "OPERATIONAL"
   lat: -34.9202716
   lng: 138.6110115
+  phone: '+61 8 8222 9311'
+  openingHours:
+    - 'Monday: 7:15 AM – 5:30 PM'
+    - 'Tuesday: 7:15 AM – 5:30 PM'
+    - 'Wednesday: 7:15 AM – 5:30 PM'
+    - 'Thursday: 7:15 AM – 5:30 PM'
+    - 'Friday: 7:15 AM – 5:30 PM'
+    - 'Saturday: 9:00 AM – 5:30 PM'
+    - 'Sunday: 9:00 AM – 5:30 PM'
 tags:
   - "adelaide"
   - "top attraction"

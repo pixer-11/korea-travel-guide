@@ -29,6 +29,14 @@ place:
   businessStatus: "OPERATIONAL"
   lat: -42.88438670000001
   lng: 147.3345886
+  openingHours:
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
   - "hobart"
   - "top attraction"

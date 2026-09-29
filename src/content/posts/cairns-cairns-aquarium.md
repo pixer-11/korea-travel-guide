@@ -1,61 +1,64 @@
 ---
 title: "Cairns Aquarium: Travel Guide (4.6★)"
-description: "Cairns Aquarium sits at 5 Florence St in Cairns City, a short walk from the Esplanade, and holds more than 16,000 specimens across 9 ecosystems, from inland rivers out to the reef. 4.6★ (7,466 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Cairns"
-category: "attraction"
+description: Cairns Aquarium sits at 5 Florence St in Cairns City, a short walk from the Esplanade, and holds more than 16,000 specimens across 9 ecosystems, from inland rivers out to the reef. 4.6★ (7,466 reviews) — what visitors say, hours, and tips.
+country: Australia
+region: Cairns
+category: attraction
 pubDate: "2026-09-28T17:04:35.252Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/6/69/Entrance_to_the_Cairns_Aquarium%2C_Florence_Street%2C_Cairns_CBD%2C_2018.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/6/69/Entrance_to_the_Cairns_Aquarium%2C_Florence_Street%2C_Cairns_CBD%2C_2018.jpg
   credit: "Photo: Kerry Raymond / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Entrance_to_the_Cairns_Aquarium,_Florence_Street,_Cairns_CBD,_2018.jpg"
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Entrance_to_the_Cairns_Aquarium,_Florence_Street,_Cairns_CBD,_2018.jpg
   focus:
     x: 65
-    y: 45
+    "y": 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Inside_Cairns_Aquarium%2C_2018_01.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/e/e3/Inside_Cairns_Aquarium%2C_2018_01.jpg
     credit: "Photo: Kerry Raymond / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Inside_Cairns_Aquarium,_2018_01.jpg"
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Inside_Cairns_Aquarium,_2018_01.jpg
 place:
-  id: "ChIJu_Gq741meGkReuRWPJkdQDo"
-  name: "Cairns Aquarium"
-  address: "5 Florence St, Cairns City QLD 4870, Australia"
+  id: ChIJu_Gq741meGkReuRWPJkdQDo
+  name: Cairns Aquarium
+  address: 5 Florence St, Cairns City QLD 4870, Australia
   rating: 4.6
   userRatingsTotal: 7466
-  googleMapsUrl: "https://maps.google.com/?cid=4197387396688831610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=4197387396688831610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -16.9184171
   lng: 145.77383129999998
   busyness:
-    updated: 2026-09-28
-    weekdayQuiet:
-      - 9
-      - 15
-    weekendQuiet:
-      - 9
-      - 15
+    updated: 2026-09-28T00:00:00.000Z
     weekendBusy:
       - 11
       - 12
       - 13
-    venueId: "ven_6f4451646b4a5057527565526b47656d31343771475f754a496843"
+    venueId: ven_6f4451646b4a5057527565526b47656d31343771475f754a496843
+  phone: +61 7 4044 7300
+  openingHours:
+    - "Monday: 9:30 AM – 3:30 PM"
+    - "Tuesday: 9:30 AM – 3:30 PM"
+    - "Wednesday: 9:30 AM – 3:30 PM"
+    - "Thursday: 9:30 AM – 3:30 PM"
+    - "Friday: 9:30 AM – 3:30 PM"
+    - "Saturday: 9:30 AM – 3:30 PM"
+    - "Sunday: 9:30 AM – 3:30 PM"
 tags:
-  - "cairns"
-  - "top attraction"
-quickAnswer: "Cairns Aquarium sits at 5 Florence St in Cairns City, a short walk from the Esplanade, and holds more than 16,000 specimens across 9 ecosystems, from inland rivers out to the reef. Our crowd data shows the building is quietest between 9am and 4pm. On weekends, avoid 11am–2pm, when it's at its busiest."
+  - cairns
+  - top attraction
+quickAnswer: Cairns Aquarium sits at 5 Florence St in Cairns City, a short walk from the Esplanade, and holds more than 16,000 specimens across 9 ecosystems, from inland rivers out to the reef. Our crowd data shows the building is quietest between 9:30am and 3:30pm. On weekends, avoid 11am–2pm, when it's at its busiest.
 faq:
-  - q: "When is the quietest time to visit Cairns Aquarium?"
-    a: "Crowd data shows 9am–4pm is the quietest window on both weekdays and weekends. On weekends, avoid 11am–2pm, which is the busiest period. Aim for the first part of the morning or after 2pm."
-  - q: "How long should I spend at Cairns Aquarium?"
-    a: "Plan on two to three hours to get through all 9 ecosystems, catch a scheduled talk and stop at the eatery. Families with young children often stay longer."
-  - q: "How do I get to Cairns Aquarium?"
-    a: "It's at 5 Florence St in Cairns City. From most CBD accommodation it's a short walk, and it's a few blocks inland from the Esplanade and the Lagoon."
-  - q: "Is Cairns Aquarium good on a rainy day?"
-    a: "Yes. The whole visit is indoors, which makes it a reliable option in the wet season when reef trips are cancelled or the weather turns."
-  - q: "What's near Cairns Aquarium?"
-    a: "The Esplanade Lagoon and boardwalk, the Cairns Night Markets and the Reef Fleet Terminal, where reef boats depart, are all within easy walking distance."
+  - q: When is the quietest time to visit Cairns Aquarium?
+    a: Crowd data shows 9:30am–3:30pm is the quietest window on both weekdays and weekends. On weekends, avoid 11am–2pm, which is the busiest period. Aim for the first part of the morning or after 2pm.
+  - q: How long should I spend at Cairns Aquarium?
+    a: Plan on two to three hours to get through all 9 ecosystems, catch a scheduled talk and stop at the eatery. Families with young children often stay longer.
+  - q: How do I get to Cairns Aquarium?
+    a: It's at 5 Florence St in Cairns City. From most CBD accommodation it's a short walk, and it's a few blocks inland from the Esplanade and the Lagoon.
+  - q: Is Cairns Aquarium good on a rainy day?
+    a: Yes. The whole visit is indoors, which makes it a reliable option in the wet season when reef trips are cancelled or the weather turns.
+  - q: What's near Cairns Aquarium?
+    a: The Esplanade Lagoon and boardwalk, the Cairns Night Markets and the Reef Fleet Terminal, where reef boats depart, are all within easy walking distance.
 aiGenerated: true
 draft: false
 ---
@@ -74,11 +77,11 @@ The address is 5 Florence St, Cairns City, inside the compact CBD grid.
 - **Pair it with:** the Esplanade Lagoon and boardwalk, a few blocks toward the water, and the Cairns Night Markets for dinner afterwards.
 - **Reef day tie-in:** the Reef Fleet Terminal is at the southern end of the Esplanade. The aquarium makes an easy half-day before an early boat or after a late return.
 
-We have no confirmed opening hours. Check the official Cairns Aquarium website before you go, including on public holidays.
+The aquarium is open daily from 9:30am to 3:30pm. Check the official Cairns Aquarium website before you go, including on public holidays.
 
 ## Timing the tanks
 
-Our crowd data is clear about when to go. On weekdays, foot traffic stays light across the whole 9am–4pm stretch, so any time of day works.
+Our crowd data is clear about when to go. On weekdays, foot traffic stays light across the whole 9:30am–3:30pm stretch, so any time of day works.
 
 Weekends are harder. Try not to arrive between 11am and 2pm. That's when family groups fill the galleries and the eatery gets crowded. Go for the first part of the morning or come after 2pm, and you'll have more room at the glass for photos without other people's reflections.
 
