@@ -1,36 +1,30 @@
 ---
 title: 'Fashion Street: Mumbai Travel Guide (4.0★)'
-description: >-
-  Fashion Street in Churchgate, Mumbai, is the stretch of roadside stalls
-  opposite Bombay Gymkhana on New Marine Lines, open daily 10am–10pm. 4.0★
-  (43,183 reviews) — what visitors say, hours, and tips.
+description: Fashion Street in Churchgate, Mumbai, is the stretch of roadside stalls opposite Bombay Gymkhana on New Marine Lines, open daily 10am–10pm. 4.0★ (43,183 reviews) — what visitors say, hours, and tips.
 country: India
 region: Mumbai
 category: hidden-gem
 pubDate: '2026-09-22T07:38:21.427Z'
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/e/e8/Fs1.jpg'
-  credit: 'Photo: Vishalngp / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Fs1.jpg'
+  url: https://fastly.4sqi.net/img/general/original/3791537_KgYGxT79ok-nm898QmwMc4-iq4RcGojmzwxoMwS8s3A.jpg
+  credit: 'Photo: Foursquare user content (Fashion Street)'
+  license: foursquare
+  source: https://foursquare.com/v/4b0587ddf964a520cba422e3
   focus:
-    x: 50
-    'y': 50
+    x: 70
+    'y': 40
 gallery:
-  - url: 'https://upload.wikimedia.org/wikipedia/commons/4/40/Fashion-Street.jpg'
-    credit: >-
-      Photo: No machine-readable author provided. / Wikimedia Commons (CC BY-SA
-      2.5)
+  - url: https://upload.wikimedia.org/wikipedia/commons/4/40/Fashion-Street.jpg
+    credit: 'Photo: No machine-readable author provided. / Wikimedia Commons (CC BY-SA 2.5)'
     license: wikimedia
-    source: 'https://commons.wikimedia.org/wiki/File:Fashion-Street.jpg'
+    source: https://commons.wikimedia.org/wiki/File:Fashion-Street.jpg
 place:
   id: ChIJI1VscN7R5zsRO3y8QF7i6PY
   name: Fashion Street
-  address: 'New Marine Lines, Churchgate, Mumbai, Maharashtra 400020, India'
+  address: New Marine Lines, Churchgate, Mumbai, Maharashtra 400020, India
   rating: 4
   userRatingsTotal: 43183
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=17791719222368042043&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=17791719222368042043&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 18.9389419
   lng: 72.83010689999999
@@ -63,36 +57,18 @@ place:
 tags:
   - mumbai
   - local market
-quickAnswer: >-
-  Fashion Street in Churchgate, Mumbai, is the stretch of roadside stalls
-  opposite Bombay Gymkhana on New Marine Lines, open daily 10am–10pm. It's well
-  over 43,000 reviews strong and always busy, so go weekday mornings between
-  10am and 1pm if you want room to actually browse. Skip weekend afternoons
-  after 2pm, when it's packed solid until closing.
+quickAnswer: Fashion Street in Churchgate, Mumbai, is the stretch of roadside stalls opposite Bombay Gymkhana on New Marine Lines, open daily 10am–10pm. It's well over 43,000 reviews strong and always busy, so go weekday mornings between 10am and 1pm if you want room to actually browse. Skip weekend afternoons after 2pm, when it's packed solid until closing.
 faq:
   - q: How do I get to Fashion Street in Mumbai?
-    a: >-
-      Walk five minutes from Churchgate station (Western Line) or ten minutes
-      from CST (Central Line). It's on Mahapalika Marg, opposite Bombay
-      Gymkhana.
+    a: Walk five minutes from Churchgate station (Western Line) or ten minutes from CST (Central Line). It's on Mahapalika Marg, opposite Bombay Gymkhana.
   - q: What is the quietest time to visit?
-    a: >-
-      Weekday mornings between 10am and 1pm are calmest, with weekend mornings
-      before noon a close second. Avoid weekends from 2pm to 9pm, the busiest
-      window.
+    a: Weekday mornings between 10am and 1pm are calmest, with weekend mornings before noon a close second. Avoid weekends from 2pm to 9pm, the busiest window.
   - q: What does Fashion Street sell?
-    a: >-
-      Mostly export-surplus and export-reject clothing: jeans, t-shirts, kurtas,
-      dresses and bags, sold from around 400 open-air stalls under green
-      tarpaulin covers.
+    a: 'Mostly export-surplus and export-reject clothing: jeans, t-shirts, kurtas, dresses and bags, sold from around 400 open-air stalls under green tarpaulin covers.'
   - q: Can I bargain and how do I pay?
-    a: >-
-      Yes, bargaining is expected; counter at roughly half the first quote. Cash
-      is most common, though many stalls now accept UPI QR payments.
+    a: Yes, bargaining is expected; counter at roughly half the first quote. Cash is most common, though many stalls now accept UPI QR payments.
   - q: What's nearby if I want to extend the trip?
-    a: >-
-      Oval Maidan and the Kala Ghoda gallery and cafe district are both a short
-      walk away, along with Churchgate's colonial-era railway building.
+    a: Oval Maidan and the Kala Ghoda gallery and cafe district are both a short walk away, along with Churchgate's colonial-era railway building.
 aiGenerated: true
 draft: false
 updatedDate: '2026-09-22'

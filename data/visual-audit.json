@@ -13068,6 +13068,12 @@
   "reason": "Museum building with distinctive dome, Mumbai setting",
   "at": "2026-07-27T12:50:00.518Z"
  },
+ "mumbai-fashion-street\u0001https://fastly.4sqi.net/img/general/original/3791537_KgYGxT79ok-nm898QmwMc4-iq4RcGojmzwxoMwS8s3A.jpg": {
+  "slug": "mumbai-fashion-street",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Street market stall with clothes, crowd, matches Fashion Street",
+  "at": "2026-09-29T23:09:31.083Z"
+ },
  "mumbai-fashion-street\u0001https://upload.wikimedia.org/wikipedia/commons/e/e8/Fs1.jpg": {
   "slug": "mumbai-fashion-street",
   "verdict": "MATCH",
