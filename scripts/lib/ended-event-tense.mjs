@@ -66,6 +66,50 @@ export function upcomingText(out) {
     .join('\n');
 }
 
+// A sentence about how such events USUALLY go is not about this edition, and
+// the English rules keep it in the present ("the programme usually runs across
+// a single day"). Korean renders that "보통 하루 동안 진행됩니다", which the
+// vocabulary above matched: on 2026-09-29 the Bhubaneswar athletics guide
+// failed three attempts in a row over that one true sentence, and the plainer
+// prompt of the same day made such sentences common. Judged sentence by
+// sentence, like ENDED_HISTORY in translate-posts.
+export const GENERIC = {
+  ko: /보통|대개|일반적으로|흔히|대체로|통상/,
+  ja: /通常|一般的に|たいてい|普通は|多くの場合/,
+  es: /normalmente|habitualmente|por lo general|suele|suelen|generalmente/i,
+  // Not a bare 一般: 一般门票 is a ticket type, and "本届的一般门票将于9月1日发售"
+  // is this edition's future (Codex, 2026-09-29).
+  zh: /通常|一般来说|一般而言|往往|大多数情况下/,
+};
+
+/** UPCOMING matches in `out`, skipping sentences that state a general norm. */
+export function upcomingHits(out, lang) {
+  const vocab = UPCOMING[lang] ?? [];
+  const generic = GENERIC[lang];
+  const hits = [];
+  // Clauses, not sentences: "입장은 보통 두 시간 전부터이며, 이번 공연은 9월 20일에
+  // 열립니다" carries the norm and this edition's error in one sentence, and a
+  // sentence-wide exemption let the error through (Codex, 2026-09-29). Cutting
+  // at commas too can only cost a retry on a norm split from its verb — the safe
+  // direction.
+  // A clause that ENDS on the marker ("この種の大会は通常、", "一般来说，",
+  // "Normalmente,") opens the clause after it, so that one is exempt too.
+  const endsOnMarker = generic && new RegExp(`(?:${generic.source})[\\s,;，；、]*$`, generic.flags.replace('g', ''));
+  let carry = false;
+  for (const sentence of upcomingText(out).split(/(?<=[.。!?！？,;，；、])\s*|\n+/)) {
+    const isNorm = !!(generic && generic.test(sentence));
+    const exempt = isNorm || carry;
+    carry = isNorm && endsOnMarker.test(sentence);
+    if (exempt) continue;
+    for (const re of vocab) {
+      const m = sentence.match(new RegExp(re.source, re.flags.replace('g', '')));
+      if (m) hits.push(m[0]);
+    }
+  }
+  // The vocabulary lists a few verbs twice (개최됩니다, 開催されます).
+  return [...new Set(hits)];
+}
+
 // ─────────────────────────────────────────────────────────────
 //  THE OPPOSITE FAILURE: "SCHEDULED" SAID OVER AND OVER.
 //

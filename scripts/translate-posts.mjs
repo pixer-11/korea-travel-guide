@@ -22,7 +22,7 @@ import Anthropic from '@anthropic-ai/sdk';
 import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { readdir, readFile, writeFile, mkdir } from 'node:fs/promises';
 import { latinDrops } from './lib/latin-drop.mjs';
-import { UPCOMING, upcomingText, stackedSchedule } from './lib/ended-event-tense.mjs';
+import { upcomingHits, stackedSchedule } from './lib/ended-event-tense.mjs';
 import { existsSync, readFileSync } from 'node:fs';
 import { srcHashOfPostFile, storedHashIn } from './lib/src-hash.mjs';
 import { join } from 'node:path';
@@ -147,8 +147,8 @@ const REGISTER = {
 // sentence reads as a plan that fell through. 픽서님 took the Verona opera
 // festival, which ran to its closing night, for a cancelled one.
 const ENDED_SCHEDULE = {
-  Korean: 'Give the dates once as the schedule — "일정은 2026년 9월 20~24일이었습니다", or "2026년 9월 20~24일 일정의 (event)". Any other date is a plain fact about that schedule ("결승 일정은 9월 5일, 장소는 호찌민시였습니다"). Use 예정 at most once in a title, description, answer or paragraph, and never the form "열릴 예정이었던": Korean reads that as an event that was called off.',
-  Japanese: 'Give the dates once as the schedule — "会期は2026年9月20日〜24日でした". Any other date is a plain fact about that schedule ("決勝は9月5日、会場はホーチミン市でした"). Use 予定 at most once in a title, description, answer or paragraph.',
+  Korean: 'Give the dates once as the schedule — "일정은 2026년 9월 20~24일이었습니다", or "2026년 9월 20~24일 일정의 (event)". Any other date is a plain fact about that schedule ("결승 일정은 9월 5일, 장소는 호찌민시였습니다"). Use 예정 at most once in a title, description, answer or paragraph, and never the form "열릴 예정이었던": Korean reads that as an event that was called off. For this edition never the present (열립니다, 진행됩니다, 개최됩니다) and never the outcome (열렸습니다, 진행되었습니다, 개최되었습니다). An always-true fact about the venue avoids those verbs too ("입장은 보통 공연 두 시간 전부터입니다").',
+  Japanese: 'Give the dates once as the schedule — "会期は2026年9月20日〜24日でした". Any other date is a plain fact about that schedule ("決勝は9月5日、会場はホーチミン市でした"). Use 予定 at most once in a title, description, answer or paragraph. For this edition never the present (行われます, 開催されます) and never the outcome (行われました, 開催されました).',
   'Simplified Chinese': 'Give the dates once as the schedule — "日程为2026年9月20日至24日". Any other date is a plain fact about that schedule ("决赛日期为9月5日，地点为胡志明市"). Do not write 原定: it tells a Chinese reader the plan was changed. Never write 定于, 将于 or 将在.',
   Spanish: 'Give the dates once as the schedule — "Las fechas anunciadas eran del 20 al 24 de septiembre de 2026". Any other date is a plain fact about that schedule ("la final era el 5 de septiembre, en Ciudad Ho Chi Minh"). Use prevista/programada at most once in a title, description, answer or paragraph.',
 };
@@ -475,8 +475,8 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1, pre = null
   // Same vocabulary the audit uses, so the two cannot drift apart.
   if (data.ended) {
     // Scope lives in lib/ended-event-tense.mjs: answers yes, questions no.
-    const text2 = upcomingText(out);
-    const upcoming = (UPCOMING[langCode] ?? []).map((re) => (text2.match(new RegExp(re.source, re.flags)) || [])[0]).filter(Boolean);
+    // Sentence by sentence, skipping general norms ("보통 하루 동안 진행됩니다").
+    const upcoming = upcomingHits(out, langCode);
     if (upcoming.length) {
       if (attempt < 3) {
         console.log(`     ↻ ${langCode}/${srcId} — finished event still reads as upcoming (${upcoming.slice(0, 2).join(', ')}), retrying (attempt ${attempt + 1})`);

@@ -6,7 +6,7 @@
 // 그래서 이 테스트는 **모든 항목이 실제 문장에서 발화하는지**를 검사한다.
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { UPCOMING, upcomingText, stackedSchedule, PLANNED } from './ended-event-tense.mjs';
+import { UPCOMING, upcomingText, stackedSchedule, PLANNED, upcomingHits, GENERIC } from './ended-event-tense.mjs';
 
 // 각 패턴이 실제로 잡아야 하는 문장. 새 패턴을 넣으면 여기에도 넣어야 한다.
 const FIRES = {
@@ -157,4 +157,35 @@ test('겹쌓기: 모든 언어에 어휘가 있고, 없는 언어·빈 입력에
   assert.equal(stackedSchedule({ title: 'x' }, 'fr'), null);
   assert.equal(stackedSchedule(null, 'ko'), null);
   assert.equal(stackedSchedule({ faq: [null, { q: 'q' }] }, 'ko'), null);
+});
+
+// ── 일반론 문장 면제 (2026-09-29, 부바네스와르 육상 3연속 실패) ──────────────
+test('일반론: "보통 ~진행됩니다" 는 이번 회차 이야기가 아니라 통과한다', () => {
+  const norm = {
+    ko: '이런 대회는 보통 하루 동안 진행됩니다.',
+    ja: 'この種の大会は通常、1日で行われます。',
+    es: 'Este tipo de reunión normalmente se celebra el mismo día.',
+    zh: '这类赛事通常将在一天内完成。',
+  };
+  for (const [lang, s] of Object.entries(norm)) {
+    assert.deepEqual(upcomingHits({ body: s }, lang), [], `${lang}: 일반론 문장이 걸렸다`);
+  }
+});
+
+test('일반론: 같은 글이라도 이번 회차의 현재형은 여전히 잡힌다', () => {
+  const out = { body: '이런 대회는 보통 하루 동안 진행됩니다. 올해 대회는 8월 3일에 열립니다.' };
+  assert.deepEqual(upcomingHits(out, 'ko'), ['열립니다']);
+  assert.deepEqual(upcomingHits({ description: '音楽祭は8月に開催されます。' }, 'ja'), ['開催されます']);
+  assert.deepEqual(upcomingHits({ faq: [{ q: '¿Cuándo?', a: 'El festival se celebrará en agosto.' }] }, 'es'), ['se celebrará']);
+  for (const lang of ['ko', 'ja', 'es', 'zh']) assert.ok(GENERIC[lang], `${lang} 일반론 표지 없음`);
+});
+
+test('일반론: 같은 문장에 쉼표로 붙은 이번 회차 오류는 면제되지 않는다 (코덱스 09-29)', () => {
+  assert.deepEqual(upcomingHits({ body: '입장은 보통 공연 두 시간 전부터이며, 이번 공연은 2026년 9월 20일에 열립니다.' }, 'ko'), ['열립니다']);
+  assert.deepEqual(upcomingHits({ body: 'Normalmente dura un día; esta edición se celebrará el 20 de septiembre de 2026.' }, 'es'), ['se celebrará']);
+});
+
+test('일반론: 중국어 "一般门票"(일반 입장권)는 일반론 표지가 아니다', () => {
+  assert.deepEqual(upcomingHits({ body: '本届音乐节的一般门票将于2026年9月1日发售。' }, 'zh'), ['将于']);
+  assert.deepEqual(upcomingHits({ body: '一般来说，这类赛事将在一天内完成。' }, 'zh'), []);
 });

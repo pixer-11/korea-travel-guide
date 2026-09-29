@@ -2,52 +2,52 @@
 lang: es
 slug: new-york-flushing-queens-us-open-tennis-championships-2026
 srcHash: '8267458cadaa'
-title: 'US Open de Tenis 2026: lo que hay que saber (Nueva York)'
-description: El US Open 2026 estaba previsto para el 23 de agosto al 13 de septiembre en el USTA Billie Jean King National Tennis Center, en Flushing Meadows-Corona Park, Queens.
-quickAnswer: El US Open 2026 estaba previsto para el 23 de agosto al 13 de septiembre en el USTA Billie Jean King National Tennis Center, en Flushing Meadows-Corona Park, Queens. Según el calendario anunciado, la Fan Week y la fase de clasificación se celebrarían el 23 de agosto, el cuadro principal individual comenzaría el 30 de agosto y las finales tendrían lugar a mediados de septiembre. El tren 7 da servicio a la estación Mets-Willets Point, y las entradas se vendían a través de usopen.org, donde el orden de juego, los horarios de apertura de puertas y los precios variaban de una sesión a otra.
+title: 'US Open de tenis 2026: lo esencial (Nueva York)'
+description: El US Open 2026 tenía como fechas del 23 de agosto al 13 de septiembre, en el USTA Billie Jean King National Tennis Center del parque Flushing Meadows–Corona, en Queens.
+quickAnswer: Las fechas anunciadas para el US Open 2026 eran del 23 de agosto al 13 de septiembre, en el USTA Billie Jean King National Tennis Center del parque Flushing Meadows–Corona (Flushing Meadows–Corona Park), en Queens. Según el calendario, la Fan Week y la fase previa arrancaban el 23 de agosto y el cuadro principal individual, el 30 de agosto. Las finales llegaban a mediados de septiembre. La estación Mets–Willets Point tiene servicio del tren 7. Las entradas se vendían en usopen.org, y cada sesión tenía su propio orden de juego, su horario de apertura de puertas y sus precios.
 faq:
-  - q: ¿Cuáles son las fechas exactas del US Open 2026?
-    a: Del 23 de agosto al 13 de septiembre de 2026. La Fan Week y la fase de clasificación estaban previstas para el 23 de agosto, con el cuadro principal individual a partir del 30 de agosto y las finales a mediados de septiembre.
-  - q: ¿Cómo se llega al recinto desde Manhattan?
-    a: 'Se puede tomar el tren 7 hasta la estación Mets-Willets Point, a unos 25-35 minutos desde Midtown, o el LIRR desde Penn Station (alrededor de 20 minutos) los días de partido. Ir en coche resulta complicado: el aparcamiento es limitado y el tráfico alrededor del parque es intenso en los días de competición.'
-  - q: ¿Cuánto cuestan las entradas?
-    a: Los precios variaban mucho según la sesión, la pista y la ronda, desde pases de recinto relativamente asequibles durante la Fan Week hasta precios elevados para los asientos de las finales en el Arthur Ashe. Las entradas se vendían a través de la venta oficial y de las páginas de reventa autorizada en usopen.org, con precios fijados sesión por sesión y no a una tarifa única.
-  - q: ¿Cuántos días conviene reservar para la visita?
-    a: Una sola sesión de un día basta para conocer el recinto y ver algunos partidos, pero muchos aficionados al tenis dedican entre 2 y 3 días a lo largo de las dos semanas del torneo para combinar partidos en las pistas exteriores con una sesión de estadio.
-  - q: ¿Qué más hay cerca para alargar la visita?
-    a: Flushing Meadows-Corona Park cuenta con el Unisphere, el Queens Museum y el New York Hall of Science a poca distancia a pie, y el barrio chino de Flushing queda a un breve trayecto en metro, siendo una de las mejores zonas gastronómicas de Nueva York.
+  - q: ¿Cuáles eran las fechas exactas del US Open 2026?
+    a: Del 23 de agosto al 13 de septiembre de 2026. La Fan Week y la fase previa comenzaban el 23 de agosto. El cuadro principal individual empezaba el 30 de agosto y las finales se jugaban a mediados de septiembre.
+  - q: ¿Cómo se llega a las instalaciones desde Manhattan?
+    a: El tren 7 para en la estación Mets–Willets Point, a unos 25-35 minutos de Midtown. Los días de partido también llegaba hasta allí el Long Island Rail Road (LIRR) desde Penn Station, con un trayecto de unos 20 minutos. En coche el acceso era complicado, porque el aparcamiento escaseaba y los días de competición se formaban grandes atascos alrededor del parque.
+  - q: ¿Cuánto costaban las entradas?
+    a: Los precios dependían mucho de la sesión, la pista y la ronda. Los pases de recinto de la Fan Week eran relativamente asequibles, mientras que las localidades para las finales en el Arthur Ashe alcanzaban precios de lujo. Las entradas se vendían en usopen.org, tanto en la venta oficial como en la plataforma oficial de reventa. No había una tarifa única y cada sesión tenía su propio precio.
+  - q: ¿Cuántos días conviene dedicar a la visita?
+    a: Con una sola sesión diurna bastaba para recorrer el recinto y ver algunos partidos. Aun así, muchos aficionados al tenis repartían 2-3 días a lo largo de las dos semanas del torneo para ver partidos en las pistas exteriores y asistir también a una sesión en un estadio.
+  - q: ¿Qué más hay en los alrededores para alargar el viaje?
+    a: Dentro del mismo parque Flushing Meadows–Corona, a poca distancia a pie, se encuentran la Unisphere, el Queens Museum y el New York Hall of Science. A pocas paradas de metro está el barrio chino de Flushing, una de las mejores zonas gastronómicas de Nueva York.
 ---
 
-## Por qué ir
+## Por qué merece la pena
 
-El US Open es el último Grand Slam de la temporada de tenis y el único que se disputa por completo en sesiones nocturnas bajo luces artificiales, lo que le da una atmósfera eléctrica y muy particular en comparación con Wimbledon o Roland Garros. Es también el major más accesible para el público: los pases de recinto permiten recorrer más de 20 pistas, ver los entrenamientos de cerca y disfrutar de jugadores emergentes en las pistas exteriores por una fracción de lo que cuesta un asiento en el Arthur Ashe Stadium.
+Con el US Open se cierra la temporada de Grand Slam. Es además el único de los cuatro grandes que se disputa por completo en sesiones nocturnas bajo los focos, algo que le da un ambiente propio y electrizante, muy distinto del de Wimbledon o Roland Garros. También es el grande más cercano al aficionado. Con un pase de recinto se puede circular entre más de 20 pistas, ver de cerca los entrenamientos y seguir en las pistas exteriores a jugadores emergentes, y todo ello por una fracción de lo que cuesta un asiento en el estadio Arthur Ashe.
 
-La edición de 2026 estaba prevista del 23 de agosto al 13 de septiembre en el USTA Billie Jean King National Tennis Center, en Flushing Meadows-Corona Park, Queens, el mismo complejo de 46 acres que ha acogido el torneo desde 1978.
+Las fechas anunciadas para la edición de 2026 eran del 23 de agosto al 13 de septiembre. La sede era el USTA Billie Jean King National Tennis Center, en el parque Flushing Meadows–Corona (Flushing Meadows–Corona Park) de Queens. Se trata del mismo complejo de 46 acres que acoge el torneo desde 1978.
 
 ## Cómo llegar
 
-El recinto se encuentra dentro de Flushing Meadows-Corona Park y resulta fácil de alcanzar en transporte público desde Manhattan. El tren 7 (en dirección a Flushing) se detiene en la estación Mets-Willets Point, que queda justo enfrente del National Tennis Center, a unos 25-35 minutos desde Midtown. Los días de partido, el Long Island Rail Road también para en Mets-Willets Point, lo que reduce el trayecto desde Penn Station a unos 20 minutos, algo especialmente útil en las sesiones nocturnas de mayor afluencia, cuando el tren 7 va abarrotado.
+El recinto está dentro del parque Flushing Meadows–Corona, y desde Manhattan se llega con facilidad en transporte público. El tren 7, en dirección a Flushing, para en la estación Mets–Willets Point. Su salida da justo enfrente del National Tennis Center, a unos 25-35 minutos de Midtown. Los días de partido, el Long Island Rail Road también paraba en Mets–Willets Point y dejaba el trayecto desde Penn Station en unos 20 minutos. Era una gran ventaja en las sesiones nocturnas de más afluencia, cuando el tren 7 iba abarrotado.
 
-Ir en coche es la opción más complicada: el aparcamiento en el recinto es limitado y caro, y el tráfico alrededor del parque se congestiona bastante durante la llegada de las sesiones nocturnas. Desde los aeropuertos JFK o LaGuardia, tomar un taxi o un servicio de transporte privado hasta el recinto es sencillo, aunque la congestión propia de los días de competición alarga el trayecto.
+El coche era la opción más complicada. En el propio recinto había pocas plazas de aparcamiento y eran caras, y cuando el público llegaba para las sesiones nocturnas el tráfico alrededor del parque se colapsaba. Desde los aeropuertos JFK o LaGuardia, llegar en taxi o con un servicio de VTC no tenía complicación, aunque los atascos de los días de partido alargaban el trayecto.
 
 ## Qué ver y hacer
 
-La Fan Week (del 23 al 29 de agosto) coincide con la fase de clasificación y suele tener entrada gratuita o de bajo coste, lo que la convierte en una buena opción económica para vivir el ambiente del recinto y, de paso, avistar a alguna celebridad cerca de las pistas de entrenamiento. El cuadro principal individual estaba programado para comenzar el 30 de agosto, y a partir de la segunda semana el cuadro se va reduciendo camino de los cuartos de final, las semifinales y las finales, previstas para mediados de septiembre, cuando las sesiones en el Arthur Ashe Stadium se convierten en las entradas más codiciadas.
+La Fan Week (del 23 al 29 de agosto) coincidía con la fase previa y suele ser gratuita o de bajo coste. Era, por tanto, una buena puerta de entrada al recinto para presupuestos ajustados, con la posibilidad añadida de ver a alguna figura entrenando en las pistas de prácticas. El cuadro principal individual empezaba el 30 de agosto. Durante la segunda semana el cuadro se iba reduciendo hasta los cuartos de final, las semifinales y las finales de mediados de septiembre, cuando las sesiones del estadio Arthur Ashe eran las entradas más codiciadas.
 
-Más allá del Ashe, el Louis Armstrong Stadium (con su techo retráctil) y la íntima pista Grandstand suelen ofrecer mejor relación calidad-precio y vistas más cercanas en las sesiones de día. Los pases de recinto tienen especial valor al principio del torneo: permiten moverse entre pistas, ver partidos de dobles y de categorías juveniles, y a menudo presenciar a los mejores jugadores de individuales en las primeras rondas sin pagar por un asiento de estadio.
+Además del Ashe estaban el estadio Louis Armstrong, con techo retráctil, y la recogida pista Grandstand. En las sesiones diurnas, ambas solían ofrecer mejor relación calidad-precio y una visión más cercana del juego. El pase de recinto tenía más valor en los primeros días del torneo. Permitía ir de una pista a otra, ver partidos de dobles y de juniors y, a menudo, seguir a los mejores jugadores del cuadro individual en las primeras rondas sin tener que pagar un asiento en un estadio.
 
-Las zonas de comida del recinto apuestan por sabores neoyorquinos junto a la oferta habitual de este tipo de torneos, y merece la pena darse una vuelta por los bares temporales y las zonas de patrocinadores, que cambian cada año, aunque no se vaya a comer allí. Las tiendas de merchandising venden artículos oficiales; las colas se alargan los fines de semana y durante la semana de las finales, mientras que por las mañanas temprano el ambiente es más tranquilo.
+En las zonas de restauración, la cocina típica de los torneos convivía con sabores muy neoyorquinos. Los bares efímeros y las zonas de los patrocinadores cambian de un año a otro y merecían un paseo aunque no se fuera a comer allí. En las tiendas se vendía el material oficial del torneo. Las colas eran largas los fines de semana y durante la semana de las finales, mientras que a primera hora de la mañana había más calma.
 
 ## Cuándo ir
 
-Las sesiones diurnas de los días de semana (que suelen empezar alrededor del mediodía) tienden a tener menos gente y precios más bajos que las sesiones nocturnas, que comienzan más tarde y ofrecen un ambiente más animado y caro bajo las luces. La primera semana concentra más partidos simultáneos en distintas pistas, por lo que resulta ideal para moverse de una a otra y ver varios encuentros en una sola visita.
+Las sesiones diurnas entre semana, que empezaban hacia el mediodía, solían tener menos público y precios más bajos. Las nocturnas comenzaban más tarde, eran más caras y tenían un ambiente más animado bajo los focos. En la primera semana se jugaban más partidos a la vez en las distintas pistas, así que era el momento ideal para ir de una a otra y ver varios encuentros en una misma visita.
 
-Entre finales de agosto y principios de septiembre, Nueva York suele tener un clima cálido y húmedo, por lo que la protección solar y la hidratación forman parte casi obligada de una sesión de tarde durante la primera semana; para las semifinales y las finales de mediados de septiembre, las noches ya refrescan de forma notable.
+En Nueva York, el final de agosto y el comienzo de septiembre suelen ser calurosos y húmedos. Por eso, en una sesión de tarde de la primera semana la protección solar y la hidratación eran imprescindibles. Para las semifinales y las finales de mediados de septiembre, las noches refrescaban de forma notable.
 
-El protagonismo de las grandes estrellas tiene su precio en las finales: esas sesiones son las más caras del torneo y las primeras en agotarse.
+Ver a las grandes estrellas en las finales tenía su precio, ya que esas sesiones eran las más caras del torneo y las primeras en agotarse.
 
 ## Alrededores y consejos
 
-El propio Flushing Meadows-Corona Park merece tiempo adicional. El Unisphere, el Queens Museum y el New York Hall of Science están todos a poca distancia a pie del centro de tenis, lo que facilita convertir un partido en una salida de medio día. El barrio chino de Flushing, unas cuantas paradas más adelante en el tren 7, es uno de los mejores destinos gastronómicos de la ciudad para comer antes o después de una sesión.
+El propio parque Flushing Meadows–Corona merece que se le dedique más tiempo. La Unisphere, el Queens Museum y el New York Hall of Science están a un corto paseo del recinto de tenis, de modo que un partido podía convertirse fácilmente en una excursión de media jornada. Unas paradas más allá en el tren 7 se encuentra el barrio chino de Flushing, uno de los mejores destinos gastronómicos de la ciudad para comer antes o después de una sesión.
 
-Se trata de un gran evento anual cuyos detalles cambian cada edición: precios de las entradas, políticas de acceso y seguridad, orden de juego y horarios de inicio de las sesiones. Para 2026, las entradas se vendían a través del sitio oficial del US Open / USTA.
+Como gran cita anual, el torneo cambia cada año algunos detalles: los precios de las entradas, las normas de acceso y seguridad, el orden de juego y los horarios de inicio de las sesiones. En 2026, las entradas se vendían en la web oficial del US Open / USTA.
