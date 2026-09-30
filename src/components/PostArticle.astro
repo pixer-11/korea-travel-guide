@@ -26,6 +26,8 @@ import { resolveBusyness, perDayBusyness, DAY_NAMES } from '../lib/busyness.mjs'
 import { slugifyRegion } from '../lib/slug';
 import { getLangFromUrl, useTranslations, localeCodes, defaultLang, localizePath, klookLocale } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
+import { editorHasTraveled } from '../lib/editorVisited';
+import { eunNeun } from '../lib/ko-particle.mjs';
 import { formatHourRanges, localizeOpeningLine } from '../lib/hours.mjs';
 import { eligibleCountries, monthSlug as wtgMonthSlug, bestMonth } from '../lib/when-to-go.mjs';
 import countryFactsData from '../../data/country-facts.json';
@@ -101,6 +103,21 @@ const tocItems = [...renderedHtml.matchAll(/<h2 id="([^"]+)"[^>]*>([\s\S]*?)<\/h
 const showToc = tocItems.length >= 4;
 const tr = translation?.data;
 const title = tr?.title ?? post.data.title;
+// "Our editor has traveled this country" under the byline (픽서님 chose option
+// A, 2026-09-30). Country level only — it never claims this venue. Skipped on
+// the Korean page of a Korean guide: a Korean editor saying "대한민국은 제가
+// 여행한 나라입니다" to Korean readers reads oddly; other languages keep it.
+// The country value alone decides — not the region fallback editorHasTraveled
+// also accepts, which would name the post's COUNTRY on the strength of a region
+// match (Codex, 09-30). A missing country is South Korea, the corpus-wide rule
+// for the original Korea-only posts (HomePage and the hubs read it the same way).
+const traveledCountry = d.country ?? 'South Korea';
+const traveledLine = editorHasTraveled(traveledCountry) && !(lang === 'ko' && traveledCountry === 'South Korea')
+  ? (() => {
+      const name = localizePlace(traveledCountry, lang);
+      return t('post.editorTraveled').replace('{country}', name).replace('{eun}', eunNeun(name));
+    })()
+  : null;
 const description = tr?.description ?? post.data.description;
 const quickAnswer = tr?.quickAnswer ?? post.data.quickAnswer;
 const faq = (tr?.faq?.length ? tr.faq : post.data.faq) ?? [];
@@ -743,6 +760,7 @@ const saveQuiet = perDay
           <><span class="sep" aria-hidden="true">·</span><time datetime={updated.toISOString()}>{t('post.updated')} {fmtDate(updated)}</time></>
         ) : null}
       </p>
+      {traveledLine && <p class="byline-traveled">{traveledLine}</p>}
       {/* The AI/data disclosure, collapsed, beside the byline it qualifies. */}
       <details class="disclosure-details">
         <summary>{t('post.disclosureTitle')}</summary>

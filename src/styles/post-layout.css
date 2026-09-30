@@ -65,6 +65,9 @@
 .post-byline a { color: var(--ink-soft); font-weight: 600; }
 .post-byline .sep { color: var(--line); }
 .post-byline .byline-check { color: var(--pine); font-weight: 600; }
+/* --gold-text, not --gold: the plain gold is 3.2:1 on the page background, too
+   faint for 0.9rem text; --gold-text clears AA in light and dark alike. */
+.byline-traveled { margin-top: 0.3rem; font-size: 0.9rem; font-weight: 600; color: var(--gold-text); }
 .article--post .article-head .disclosure-details { margin: 0.45rem 0 0; }
 
 /* ── "When is it quiet?" ── */
