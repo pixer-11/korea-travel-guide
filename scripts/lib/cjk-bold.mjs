@@ -22,9 +22,15 @@ const OPTS = { extensions: [gfm()], htmlExtensions: [gfmHtml()] };
 export const rendersBold = (line) => !micromark(line, OPTS).includes('**');
 
 // **text(gloss)** → **text**(gloss)     — closer moved before the parenthetical
-const PAREN = /\*\*([^*\n]+?)([(（][^)）\n]*[)）])\*\*(?=[^\s*])/g;
+// Either rule's closer may also be followed by an ITALIC opener: "**Other Dutch
+// wrecks:** *Vergulde Draeck*" came back in Chinese as "**其他荷兰沉船：***镀金龙号*"
+// (no space after a full-width colon), and the old lookahead [^\s*] refused the
+// following * — so the guide failed three attempts and shipped with no Chinese
+// page at all, and every Chinese list linking it 404'd (2026-09-29,
+// fremantle-wa-shipwrecks-museum). One * is allowed; ** still is not.
+const PAREN = /\*\*([^*\n]+?)([(（][^)）\n]*[)）])\*\*(?=[^\s*]|\*(?!\*))/g;
 // **text、** → **text**、               — closer moved before trailing punctuation
-const PUNCT = /\*\*([^*\n]+?)([、。，,.:：;；!！?？…·]+)\*\*(?=[^\s*])/g;
+const PUNCT = /\*\*([^*\n]+?)([、。，,.:：;；!！?？…·]+)\*\*(?=[^\s*]|\*(?!\*))/g;
 // **「text」** → 「**text**」            — brackets pushed outside the emphasis.
 // The mirror image of the two above: punctuation immediately AFTER the opener,
 // with a word character in front of it, stops ** from OPENING at all. That is
@@ -41,10 +47,24 @@ const PUNCT = /\*\*([^*\n]+?)([、。，,.:：;；!！?？…·]+)\*\*(?=[^\s*])
 const LEAD = /\*\*(["'「『（【〈《〔“‘]+)(?=[^\s*])/g;
 const TRAIL = /(["'」』）】〉》〕”’]+)\*\*/g;
 
+// *italic* inside or against a bold span. CJK typesetting has no italics, and a
+// single * inside **…** hides the span from every rule above: the retry of the
+// Fremantle guide came back "**桑索号蒸汽船（SS *Xantho*）：**一艘…" three times
+// (2026-09-30). Dropping the italic markers is the LAST resort, tried only after
+// every non-destructive rewrite failed and kept only if the line then renders.
+// Only italics INSIDE a bold span are touched — the first version stripped the
+// whole line, so a Spanish "…lee *Don Quijote*." lost an italic that had nothing
+// to do with the broken bold, and a list marker "* " paired with the next * and
+// turned the list into a paragraph (Codex, 2026-09-30). An italic opener must be
+// followed by a non-space, which a list marker never is.
+const ITALIC = /\*\*((?:[^*\n]|\*(?![*\s])[^*\n]*?[^*\s]\*(?!\*))+?)\*\*/g;
+const unItalic = (_, inner) => `**${inner.replace(/\*(?![*\s])([^*\n]*?[^*\s])\*(?!\*)/g, '$1')}**`;
+
 // Each rule with the replacement that lifts its punctuation out of the span.
-const MOVES = new Map([[PAREN, '**$1**$2'], [PUNCT, '**$1**$2'], [LEAD, '$1**'], [TRAIL, '**$1']]);
+const MOVES = new Map([[PAREN, '**$1**$2'], [PUNCT, '**$1**$2'], [LEAD, '$1**'], [TRAIL, '**$1'], [ITALIC, unItalic]]);
 // Tried in order; the first rewrite that actually renders wins.
-const SEQUENCES = [[PAREN], [PUNCT], [LEAD, TRAIL], [LEAD], [TRAIL], [PAREN, PUNCT], [LEAD, TRAIL, PAREN, PUNCT]];
+const SEQUENCES = [[PAREN], [PUNCT], [LEAD, TRAIL], [LEAD], [TRAIL], [PAREN, PUNCT], [LEAD, TRAIL, PAREN, PUNCT],
+  [ITALIC], [ITALIC, PUNCT], [ITALIC, PAREN], [ITALIC, PAREN, PUNCT], [ITALIC, LEAD, TRAIL, PAREN, PUNCT]];
 
 /**
  * Repair one line's unclosable bold. Returns the line unchanged when there is

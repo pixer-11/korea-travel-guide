@@ -108,3 +108,41 @@ test('원문에도 있는 코드 표기 속 ** 는 번역 탓으로 세지 않�
   assert.ok(literalBoldCount(zh) <= literalBoldCount(src), '같은 코드 표기가 번역 실패로 잡힌다');
   assert.ok(literalBoldCount(zh + ' 多余**') > literalBoldCount(src), '남는 ** 를 못 센다');
 });
+
+// 2026-09-29: "**Other Dutch wrecks:** *Vergulde Draeck*" → 중국어 "**其他荷兰沉船：***镀金龙号*".
+// 닫는 ** 뒤에 기울임 * 가 바로 붙어 수리 규칙이 건너뛰었고, 세 번 다 실패해 중국어 페이지가
+// 아예 안 만들어졌다(목록 링크 404). 기울임 * 하나는 허용, ** 는 여전히 불허.
+test('닫는 ** 뒤에 기울임 * 가 붙어도 문장부호를 밖으로 뺀다', () => {
+  const line = '- **其他荷兰沉船：***镀金龙号*（Vergulde Draeck）和*宗伊特多普号*（Zuytdorp）。';
+  const fixed = fixCjkBoldLine(line);
+  assert.equal(fixed, '- **其他荷兰沉船**：*镀金龙号*（Vergulde Draeck）和*宗伊特多普号*（Zuytdorp）。');
+  assert.ok(rendersBold(fixed));
+  assert.equal(fixCjkBoldLine('- **赞索号（SS Xantho）***早期蒸汽船*。'), '- **赞索号**（SS Xantho）*早期蒸汽船*。');
+});
+
+test('역방향: 이미 렌더되는 줄과 ** 가 이어지는 줄은 건드리지 않는다', () => {
+  const ok = '- **其他荷兰沉船**：*镀金龙号*。';
+  assert.equal(fixCjkBoldLine(ok), ok);
+  const doubled = '**甲：****乙**丙';
+  const out = fixCjkBoldLine(doubled);
+  assert.ok(out === doubled || rendersBold(out), '고친다면 반드시 렌더되어야 한다');
+});
+
+test('굵은 글씨 안의 기울임은 마지막 수단으로만 벗긴다 (프리맨틀 09-30)', () => {
+  const line = '- **桑索号蒸汽船（SS *Xantho*）：**一艘早期蒸汽船。';
+  const fixed = fixCjkBoldLine(line);
+  assert.ok(rendersBold(fixed), fixed);
+  assert.ok(fixed.includes('**桑索号蒸汽船'), '굵은 글씨는 남아야 한다');
+  // 기울임만 있고 굵은 글씨가 멀쩡한 줄은 그대로 — 벗기지 않는다.
+  const fine = '- **赞索号**：一艘*早期*蒸汽船。';
+  assert.equal(fixCjkBoldLine(fine), fine);
+});
+
+test('역방향: 굵은 글씨 밖의 기울임과 목록 기호는 지우지 않는다 (코덱스 09-30)', () => {
+  const es = fixCjkBoldLine('**Barco *Xantho*:**visita el museo y lee *Don Quijote*.');
+  assert.ok(es.includes('*Don Quijote*'), `굵은 글씨 밖 기울임이 사라졌다: ${es}`);
+  assert.ok(rendersBold(es) || es === '**Barco *Xantho*:**visita el museo y lee *Don Quijote*.');
+  const list = '* Visita *Xantho* y **barco *SS Xantho*:**descubre su historia.';
+  const out = fixCjkBoldLine(list);
+  assert.ok(out.startsWith('* Visita *Xantho* y '), `목록 기호·앞 기울임이 망가졌다: ${out}`);
+});
