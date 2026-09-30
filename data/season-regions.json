@@ -1,0 +1,30 @@
+{
+  "_about": "Per-region season rows for the best-time grid on /essentials/best-time-to-visit, for countries whose guide describes regions that differ (owner, 2026-10-01: 'Vietnam by region'). Every month here must be stated by the guide's own 'Best time to visit' section: each region carries the exact sentences it rests on (quotes), and season-regions.test.mjs fails if a quote is no longer in the guide, so a rewritten guide cannot leave these rows standing on text that is gone. Partial months the guide words loosely ('late Sep', 'early May') are left unrated rather than guessed.",
+  "Vietnam": {
+    "quotes": [
+      "the general dry-season windows being south Nov-Feb, central Feb-early May, and north late Sep-Nov and Mar-Apr",
+      "most of the country has one rainy season from May to September",
+      "Central Vietnam has its own pattern, with a typhoon season from September to November"
+    ],
+    "regions": [
+      {
+        "key": "north",
+        "label": { "en": "North", "ko": "북부", "ja": "北部", "es": "Norte", "zh": "北部" },
+        "best": [3, 4, 10, 11],
+        "avoid": [5, 6, 7, 8]
+      },
+      {
+        "key": "central",
+        "label": { "en": "Central", "ko": "중부", "ja": "中部", "es": "Centro", "zh": "中部" },
+        "best": [2, 3, 4],
+        "avoid": [9, 10, 11]
+      },
+      {
+        "key": "south",
+        "label": { "en": "South", "ko": "남부", "ja": "南部", "es": "Sur", "zh": "南部" },
+        "best": [11, 12, 1, 2],
+        "avoid": [5, 6, 7, 8, 9]
+      }
+    ]
+  }
+}

@@ -13,6 +13,7 @@ import { bodyHash } from '../../scripts/lib/essentials-facts.mjs';
 import essentialsFacts from '../../data/essentials-facts.json';
 import countriesData from '../../data/countries.json';
 import esimFacts from '../../data/esim-facts.json';
+import seasonRegions from '../../data/season-regions.json';
 
 // Shared essentials-topic page (visa / transport / luggage storage / money /
 // best time / emergency) for the English route and /[lang]/essentials/<topic>.
@@ -119,6 +120,13 @@ const rows = guides.map((g) => {
     seasonRated: best.size + busy.size + avoid.size > 0,
     numbers: nums,
     police: nums.filter(isPolice), medical: nums.filter(isMedical), other: nums.filter((n: any) => !isPolice(n) && !isMedical(n)),
+    // Regions whose seasons differ, split out on the best-time grid (Vietnam:
+    // north / central / south, owner 10-01) — data/season-regions.json, each
+    // row resting on its guide's own sentences (season-regions.test.mjs).
+    seasonRegions: ((seasonRegions as any)[g.data.country]?.regions ?? []).map((x: any) => ({
+      label: x.label?.[lang] ?? x.label?.en ?? x.key,
+      months: Array.from({ length: 12 }, (_, i) => (x.best?.includes(i + 1) ? 'best' : x.busy?.includes(i + 1) ? 'busy' : x.avoid?.includes(i + 1) ? 'avoid' : '')),
+    })),
     reviewed: g.data.lastReviewed as Date,
   };
 }).filter(Boolean)
@@ -140,7 +148,11 @@ const regionChips = REGION_ORDER.filter((r) => tableRows.some((x) => x.region ==
 // ── Season: the month picker and the 12-month grid ──
 const monthLong = (m: number) => new Intl.DateTimeFormat(locale, { month: 'long', timeZone: 'UTC' }).format(new Date(Date.UTC(2026, m - 1, 1)));
 const monthShort = (m: number) => new Intl.DateTimeFormat(locale, { month: 'short', timeZone: 'UTC' }).format(new Date(Date.UTC(2026, m - 1, 1)));
-const seasonRows = (lang === 'ko' ? rows.filter((r) => r.slug !== 'south-korea') : rows).filter((r) => r.seasonRated);
+// A country with region rows stands as one entry per region ("Vietnam · North").
+const bySeasonRegion = (list: any[]) => list.flatMap((r) => (r.seasonRegions.length
+  ? r.seasonRegions.map((x: any) => ({ ...r, label: `${r.label} · ${x.label}`, months: x.months, seasonRated: true }))
+  : [r]));
+const seasonRows = bySeasonRegion(lang === 'ko' ? rows.filter((r) => r.slug !== 'south-korea') : rows).filter((r) => r.seasonRated);
 const monthBlocks = Array.from({ length: 12 }, (_, i) => {
   const m = i + 1;
   return {
@@ -262,7 +274,7 @@ const cellOf = (r: any) => (k === 'Visa' ? r.entry : k === 'Transport' ? r.trans
         <section class="tph-sec tph-pick" data-months data-build-month={buildMonth}>
           <div class="tph-head">
             <h2>{pickTitle}</h2>
-            <span class="tph-note">{s('pickNote', { n: seasonRows.length })}</span>
+            <span class="tph-note">{s('pickNote', { n: new Set(seasonRows.map((r) => r.slug)).size })}</span>
           </div>
           <div class="tph-chips tph-chips--months" role="group" aria-label={pickTitle}>
             {monthBlocks.map((b) => (
@@ -464,7 +476,7 @@ const cellOf = (r: any) => (k === 'Visa' ? r.entry : k === 'Transport' ? r.trans
                 <caption class="sr-only">{s('sGrid')}</caption>
                 <thead><tr><th scope="col">{s('colCountry')}</th>{monthBlocks.map((b) => <th scope="col" class="tph-m">{b.short}</th>)}</tr></thead>
                 <tbody>
-                  {tableRows.filter((r) => r.seasonRated).map((r) => (
+                  {bySeasonRegion(tableRows).filter((r) => r.seasonRated).map((r) => (
                     <tr data-region={r.region} data-names={`${r.label} ${r.name}`.toLowerCase()}>
                       <th scope="row"><a href={`${r.href}#ess-season`}><Flag code={r.iso2} size="1em" /> {r.label}</a></th>
                       {r.months.map((v: string, i: number) => (
