@@ -5,7 +5,6 @@ country: South Korea
 region: Seoul
 category: trendy
 pubDate: '2026-09-23'
-gallery: []
 tags:
   - seoul
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: How do I get there by subway?
     a: Gangnam Station on Line 2 is the nearest major stop and one of Seoul's busiest transfer points. From there it's a walk into the surrounding commercial blocks; confirm the exact route once the address is listed online.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/481575646_kuEWmu-njr-B1PZaVpKT92UNnJHs_6XRPP7gkvCGOjk.jpg
+  credit: 'Photo: Foursquare user content (Gangnam Myeonok (강남면옥))'
+  license: foursquare
+  source: https://foursquare.com/v/4da1308fb521224bd8ecefed
+  focus:
+    x: 60
+    'y': 40
 ---
 
 ## Why this branch matters

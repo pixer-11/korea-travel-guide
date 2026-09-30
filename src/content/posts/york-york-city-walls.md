@@ -1,39 +1,39 @@
 ---
-title: "York City Walls: Travel Guide (4.7★)"
-description: "York City Walls ring the centre of York, and they are open to walk every day from 8am to 8pm with no ticket needed. 4.7★ (2,715 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "York"
-category: "attraction"
-pubDate: "2026-09-30T14:05:44.727Z"
+title: 'York City Walls: Travel Guide (4.7★)'
+description: York City Walls ring the centre of York, and they are open to walk every day from 8am to 8pm with no ticket needed. 4.7★ (2,715 reviews) — what visitors say, hours, and tips.
+country: United Kingdom
+region: York
+category: attraction
+pubDate: '2026-09-30T14:05:44.727Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/b/b7/York_city.jpg"
-  credit: "Photo: The original uploader was Steve nova at English Wikipedia. / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:York_city.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/b/b7/York_city.jpg
+  credit: 'Photo: The original uploader was Steve nova at English Wikipedia. / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:York_city.jpg
   focus:
     x: 30
-    y: 55
+    'y': 55
 gallery: []
 place:
-  id: "ChIJtYOOP0sxeUgRDco_p0Uvjn0"
-  name: "York City Walls"
-  address: "York YO1 7LJ, UK"
+  id: ChIJtYOOP0sxeUgRDco_p0Uvjn0
+  name: York City Walls
+  address: York YO1 7LJ, UK
   rating: 4.7
   userRatingsTotal: 2715
-  googleMapsUrl: "https://maps.google.com/?cid=9047220677639129613&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=9047220677639129613&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 53.9621553
   lng: -1.0774092
   openingHours:
-    - "Monday: 8:00 AM – 8:00 PM"
-    - "Tuesday: 8:00 AM – 8:00 PM"
-    - "Wednesday: 8:00 AM – 8:00 PM"
-    - "Thursday: 8:00 AM – 8:00 PM"
-    - "Friday: 8:00 AM – 8:00 PM"
-    - "Saturday: 8:00 AM – 8:00 PM"
-    - "Sunday: 8:00 AM – 8:00 PM"
+    - 'Monday: 8:00 AM – 8:00 PM'
+    - 'Tuesday: 8:00 AM – 8:00 PM'
+    - 'Wednesday: 8:00 AM – 8:00 PM'
+    - 'Thursday: 8:00 AM – 8:00 PM'
+    - 'Friday: 8:00 AM – 8:00 PM'
+    - 'Saturday: 8:00 AM – 8:00 PM'
+    - 'Sunday: 8:00 AM – 8:00 PM'
   busyness:
-    updated: 2026-09-30
+    updated: 2026-09-30T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 18
@@ -53,24 +53,24 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_306e6a765530705f6f634452675565787330504f4f59744a496843"
+    venueId: ven_306e6a765530705f6f634452675565787330504f4f59744a496843
 tags:
-  - "york"
-  - "top attraction"
-quickAnswer: "York City Walls ring the centre of York, and they are open to walk every day from 8am to 8pm with no ticket needed. They are calm on weekdays throughout those opening hours. On weekends, avoid 11am to 6pm, when the narrow walkway gets busiest; the Bootham Bar to Monk Bar stretch, with its views of York Minster, is the one to prioritise."
+  - york
+  - top attraction
+quickAnswer: York City Walls ring the centre of York, and they are open to walk every day from 8am to 8pm with no ticket needed. They are calm on weekdays throughout those opening hours. On weekends, avoid 11am to 6pm, when the narrow walkway gets busiest; the Bootham Bar to Monk Bar stretch, with its views of York Minster, is the one to prioritise.
 faq:
-  - q: "When is the quietest time to walk York City Walls?"
-    a: "Weekdays are quiet across the full opening day, 8am to 8pm. On weekends, avoid 11am to 6pm, which is the busiest period; an 8am weekend start is calmest."
-  - q: "How long does it take to walk the whole circuit?"
-    a: "The circuit is about two miles, with a few street-level gaps between sections. Allow roughly two hours at a relaxed pace. The Bootham Bar to Monk Bar stretch alone takes well under an hour."
-  - q: "Which part of the walls has the best view of York Minster?"
-    a: "The northern stretch between Bootham Bar and Monk Bar. The Minster's towers rise just beyond the Deanery gardens for most of the way."
-  - q: "How do I get onto the walls from York railway station?"
-    a: "The station sits just outside the southwest section of the walls. There are steps up near Station Road, so you can be on the walkway within minutes of arriving."
-  - q: "Are the walls suitable for young children or people with limited mobility?"
-    a: "You get up at each bar by steep, uneven steps, and there is no step-free access to most of the circuit. Parts of the inner side have no railing, so keep small children close and on the wall side."
+  - q: When is the quietest time to walk York City Walls?
+    a: Weekdays are quiet across the full opening day, 8am to 8pm. On weekends, avoid 11am to 6pm, which is the busiest period; an 8am weekend start is calmest.
+  - q: How long does it take to walk the whole circuit?
+    a: The circuit is about two miles, with a few street-level gaps between sections. Allow roughly two hours at a relaxed pace. The Bootham Bar to Monk Bar stretch alone takes well under an hour.
+  - q: Which part of the walls has the best view of York Minster?
+    a: The northern stretch between Bootham Bar and Monk Bar. The Minster's towers rise just beyond the Deanery gardens for most of the way.
+  - q: How do I get onto the walls from York railway station?
+    a: The station sits just outside the southwest section of the walls. There are steps up near Station Road, so you can be on the walkway within minutes of arriving.
+  - q: Are the walls suitable for young children or people with limited mobility?
+    a: You get up at each bar by steep, uneven steps, and there is no step-free access to most of the circuit. Parts of the inner side have no railing, so keep small children close and on the wall side.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## A walkway at rooftop height

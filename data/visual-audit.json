@@ -11444,8 +11444,8 @@
  "little-india-former-house-of-tan-teng-niah\u0001https://fastly.4sqi.net/img/general/original/1608906_BP7rP1M3Vv9A4npYC4s_fdA_ZuUUfS0wvaIJ6MRFIi8.jpg": {
   "slug": "little-india-former-house-of-tan-teng-niah",
   "verdict": "MATCH",
-  "reason": "patrol replace: Colorful colonial architecture, Little India Singapore setti",
-  "at": "2026-09-27T22:28:10.199Z"
+  "reason": "patrol replace: Colorful heritage building in Little India, Singapore",
+  "at": "2026-09-30T23:10:15.896Z"
  },
  "little-india-former-house-of-tan-teng-niah\u0001https://fastly.4sqi.net/img/general/original/58563680_9ZCugZu4LqvzpKjyZGIn8k1lQBv17Sjro6AqDSH0VXY.jpg": {
   "slug": "little-india-former-house-of-tan-teng-niah",
@@ -17730,6 +17730,12 @@
   "reason": "patrol reject: Korean signage shows different restaurant, not Chipotle Gangnam",
   "at": "2026-09-24T22:47:25.592Z"
  },
+ "seoul-chipotle-gangnam\u0001https://fastly.4sqi.net/img/general/original/481575646_kuEWmu-njr-B1PZaVpKT92UNnJHs_6XRPP7gkvCGOjk.jpg": {
+  "slug": "seoul-chipotle-gangnam",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Korean BBQ/hot pot cuisine, trendy Seoul restaurant setting",
+  "at": "2026-09-30T23:11:36.597Z"
+ },
  "seoul-chipotle-gangnam\u0001https://fastly.4sqi.net/img/general/original/554534777_XiIBQe7k7S8b4W5uttbnZWYxK5nju3vOul_x39LFzOc.jpg": {
   "slug": "seoul-chipotle-gangnam",
   "verdict": "MISMATCH",
@@ -22221,9 +22227,10 @@
  },
  "york-york-city-walls\u0001https://upload.wikimedia.org/wikipedia/commons/b/b7/York_city.jpg": {
   "slug": "york-york-city-walls",
-  "verdict": "MATCH",
-  "reason": "publish gate: Shows York City Walls walkway overlooking city skyline",
-  "at": "2026-09-30T14:05:37.738Z"
+  "verdict": "MISMATCH",
+  "reason": "hero is only 600px wide — unusable as a banner",
+  "reasonKo": "사진이 600px로 너무 작음",
+  "at": "2026-09-30T23:12:29.492Z"
  },
  "zamboanga-city-zamboanga-hermosa-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Hermosa_Festival_of_Zamboanga.jpg/3840px-Hermosa_Festival_of_Zamboanga.jpg": {
   "slug": "zamboanga-city-zamboanga-hermosa-festival",
