@@ -1,37 +1,34 @@
 ---
 title: "Melbourne Skydeck: Travel Guide (4.5★)"
-description: "Melbourne Skydeck is the observation deck on the 88th floor of Eureka Tower at 7 Riverside Quay, Southbank, and it has the highest public view in the city. 4.5★ (17,571 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Melbourne"
-category: "attraction"
+description: Melbourne Skydeck is the observation deck on the 88th floor of Eureka Tower at 7 Riverside Quay, Southbank, and it has the highest public view in the city. 4.5★ (17,571 reviews) — what visitors say, hours, and tips.
+country: Australia
+region: Melbourne
+category: attraction
 pubDate: "2026-09-28T16:59:34.535Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Melbourne_Skydeck_%28View_from_Eureka_Tower%29_05.jpg/3840px-Melbourne_Skydeck_%28View_from_Eureka_Tower%29_05.jpg"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Melbourne_Skydeck_%28View_from_Eureka_Tower%29_05.jpg/3840px-Melbourne_Skydeck_%28View_from_Eureka_Tower%29_05.jpg
   credit: "Photo: Indrajit Das / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Melbourne_Skydeck_(View_from_Eureka_Tower)_05.jpg"
-  via: "act"
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Melbourne_Skydeck_(View_from_Eureka_Tower)_05.jpg
+  via: act
   focus:
     x: 50
-    y: 40
+    "y": 40
 gallery: []
 place:
-  id: "ChIJQffkhK1C1moR3Z0-w-t8SS8"
-  name: "Melbourne Skydeck"
-  address: "7 Riverside Quay, Southbank VIC 3006, Australia"
+  id: ChIJQffkhK1C1moR3Z0-w-t8SS8
+  name: Melbourne Skydeck
+  address: 7 Riverside Quay, Southbank VIC 3006, Australia
   rating: 4.5
   userRatingsTotal: 17571
-  googleMapsUrl: "https://maps.google.com/?cid=3407391945117310429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=3407391945117310429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -37.8213341
   lng: 144.9646982
   busyness:
-    updated: 2026-09-28
+    updated: 2026-09-28T00:00:00.000Z
     weekdayQuiet:
       - 12
-      - 21
-    weekendQuiet:
-      - 21
     weekendBusy:
       - 14
       - 15
@@ -40,22 +37,31 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_38535338742d772d305a33526f6d3143314b686b6666514a496843"
+    venueId: ven_38535338742d772d305a33526f6d3143314b686b6666514a496843
+  phone: +61 3 9693 8888
+  openingHours:
+    - "Monday: 12:00 – 9:00 PM"
+    - "Tuesday: 12:00 – 9:00 PM"
+    - "Wednesday: 12:00 – 9:00 PM"
+    - "Thursday: 12:00 – 9:00 PM"
+    - "Friday: 12:00 – 9:00 PM"
+    - "Saturday: 12:00 – 9:00 PM"
+    - "Sunday: 12:00 – 9:00 PM"
 tags:
-  - "melbourne"
-  - "top attraction"
-quickAnswer: "Melbourne Skydeck is the observation deck on the 88th floor of Eureka Tower at 7 Riverside Quay, Southbank, and it has the highest public view in the city. On weekdays it's calmest anywhere from 12pm to 10pm. At weekends, go between 9pm and 10pm and stay away from the 2pm–9pm peak."
+  - melbourne
+  - top attraction
+quickAnswer: Melbourne Skydeck is the observation deck on the 88th floor of Eureka Tower at 7 Riverside Quay, Southbank, and it has the highest public view in the city. On weekdays it's calmest anywhere from 12pm to 9pm. At weekends, go between 8pm and 9pm and stay away from the 2pm–9pm peak.
 faq:
-  - q: "When is the quietest time to visit Melbourne Skydeck?"
-    a: "On weekdays it's quiet from 12pm to 10pm. At weekends the quiet window is 9pm to 10pm. Try not to go between 2pm and 9pm on weekends, because that's the busiest time."
-  - q: "How do I get to Melbourne Skydeck?"
-    a: "Walk from Flinders Street Station across the Yarra on the Evan Walker Bridge or Princes Bridge, then head west along Southbank to 7 Riverside Quay. It takes about ten minutes."
-  - q: "How long should I spend at the Skydeck?"
-    a: "Allow 60 to 90 minutes. Add The Edge or stay on for sunset and it can take a couple of hours."
-  - q: "Is The Edge included with a Skydeck ticket?"
-    a: "No, The Edge needs a separate ticket. You can buy it with your deck entry on the official Melbourne Skydeck website, where the current prices are listed."
-  - q: "What are the opening hours?"
-    a: "Hours vary with the season and with events, so check the official Melbourne Skydeck website before you go."
+  - q: When is the quietest time to visit Melbourne Skydeck?
+    a: On weekdays it's quiet from 12pm to 9pm. At weekends the quiet window is 8pm to 9pm, right before closing. Try not to go between 2pm and 9pm on weekends, because that's the busiest time.
+  - q: How do I get to Melbourne Skydeck?
+    a: Walk from Flinders Street Station across the Yarra on the Evan Walker Bridge or Princes Bridge, then head west along Southbank to 7 Riverside Quay. It takes about ten minutes.
+  - q: How long should I spend at the Skydeck?
+    a: Allow 60 to 90 minutes. Add The Edge or stay on for sunset and it can take a couple of hours.
+  - q: Is The Edge included with a Skydeck ticket?
+    a: No, The Edge needs a separate ticket. You can buy it with your deck entry on the official Melbourne Skydeck website, where the current prices are listed.
+  - q: What are the opening hours?
+    a: Hours vary with the season and with events, so check the official Melbourne Skydeck website before you go.
 aiGenerated: true
 draft: false
 ---
@@ -85,9 +91,9 @@ It doesn't last long and it isn't for everyone. People with a fear of heights of
 
 ## When the deck is quiet
 
-Weekdays are simple. Our crowd data shows the deck stays calm from 12pm to 10pm, so a weekday lunchtime or sunset visit is usually relaxed. You'll get space at the glass and a short wait for The Edge.
+Weekdays are simple. Our crowd data shows the deck stays calm from 12pm to 9pm, so a weekday lunchtime or sunset visit is usually relaxed. You'll get space at the glass and a short wait for The Edge.
 
-Weekends are harder. Try not to arrive between 2pm and 9pm on a Saturday or Sunday, because the deck is at its busiest then. That's when people crowd the window ledges and the queue for The Edge gets long. The quiet weekend window is 9pm to 10pm, when the city is lit and most visitors have gone.
+Weekends are harder. Try not to arrive between 2pm and 9pm on a Saturday or Sunday, because the deck is at its busiest then. That's when people crowd the window ledges and the queue for The Edge gets long. The quiet weekend window is 8pm to 9pm, right before closing, when the city is lit and most visitors have gone.
 
 ## Getting to Riverside Quay
 

@@ -54,6 +54,14 @@ place:
       - 21
       - 22
     venueId: "ven_676152706551487132646a526f694d37715353797357314a496843"
+  openingHours:
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
   - "perth"
   - "top attraction"
