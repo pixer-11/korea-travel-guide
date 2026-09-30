@@ -21,7 +21,7 @@ import { readFile, writeFile, readdir } from 'node:fs/promises';
 import matter from 'gray-matter';
 import Anthropic from '@anthropic-ai/sdk';
 import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
-import { findToolSpill } from './lib/tool-spill.mjs';
+import { findToolSpill, stripCitations } from './lib/tool-spill.mjs';
 
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 const MODEL = process.env.WRITER_MODEL || 'claude-sonnet-5';
@@ -94,7 +94,7 @@ async function genEnglish(region, country) {
   // the FAQPage structured data. A field the model omitted must come back absent
   // so the page falls back, never as text that renders.
   const clean = (v) => {
-    const s = typeof v === 'string' ? v.trim() : '';
+    const s = typeof v === 'string' ? stripCitations(v).trim() : '';
     return s && s !== 'undefined' && s !== 'null' ? s : null;
   };
   const out = { blurb: clean(j.blurb), getting: clean(j.getting), days: clean(j.days) };
@@ -122,7 +122,7 @@ async function translateOne(region, en, lang) {
   // not be stored, or it renders as that word on the localized page.
   const fields = toolArgs(msg, 'submit_translation') || {};
   const kept = Object.fromEntries(
-    Object.entries(fields).filter(([, v]) => {
+    Object.entries(fields).map(([k, v]) => [k, typeof v === 'string' ? stripCitations(v) : v]).filter(([, v]) => {
       const t = typeof v === 'string' ? v.trim() : '';
       return t && t !== 'undefined' && t !== 'null';
     })

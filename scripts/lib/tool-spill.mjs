@@ -53,6 +53,16 @@ export function findToolSpill(out) {
   return hits;
 }
 
+/**
+ * The web-search tool's citation markup, copied into a value by the model:
+ * `<cite index="8-3,8-5">ITX-Cheongchun …</cite>`. 47 region intros across 24
+ * cities carried it, raw on /regions/gapyeong and inside the FAQPage answer
+ * sent to search engines (2026-10-01). The cited words stay; the tags go.
+ */
+export function stripCitations(s) {
+  return String(s).replace(/<\/?cite\b[^>]*>/gi, '');
+}
+
 /** Names of required fields that came back missing or blank. Empty = complete. */
 export function missingFields(out, required) {
   if (!out || typeof out !== 'object') return [...required];

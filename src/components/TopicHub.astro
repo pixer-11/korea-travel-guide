@@ -1,20 +1,192 @@
 ---
-import { render } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import { siteHref } from '../lib/urls.mjs';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import EssentialsCountryIndex from './EssentialsCountryIndex.astro';
-import PlanTrip from './PlanTrip.astro';
-import { useTranslations, localizePath, type Lang } from '../i18n/utils';
+import Flag from './Flag.astro';
+import Emoji from './Emoji.astro';
+import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
+import { localizePlace } from '../i18n/places';
+import { essTopicStrings, type EssTopicKey } from '../i18n/essentials-topic-strings';
+import { essHubStrings } from '../i18n/essentials-hub-strings';
+import { hubRegion, type HubRegion } from '../lib/countryTime';
+import { bodyHash } from '../../scripts/lib/essentials-facts.mjs';
+import essentialsFacts from '../../data/essentials-facts.json';
+import countriesData from '../../data/countries.json';
+import esimFacts from '../../data/esim-facts.json';
 
-// Shared essentials-topic hub (visa/transport/money/best-time/emergency) for the
-// English route and /[lang]/essentials/<topic>. Chrome from ui.ts; the topic's
-// own copy (h1, dek, quickAnswer, prose, faq, disclosure) comes from the content
-// collection — translated when a translation exists, else English.
+// Shared essentials-topic page (visa / transport / luggage storage / money /
+// best time / emergency) for the English route and /[lang]/essentials/<topic>.
+//
+// Redesign 2026-10-01 from the owner's "주제별 필수정보 개선안": topic tabs, a
+// hero, the quick answer, an interactive picker (country, month or situation),
+// the topic's own prose as numbered basics, a comparison table across every
+// country, one call-to-action band, the FAQ, and the other five topics.
+//
+// Everything per country comes from the vetted cards in
+// data/essentials-facts.json, used only while fresh against the guide's body
+// (same rule as the country pages and the hub), in the page's language. A new
+// country guide with vetted facts appears in every picker and table on the
+// next build; a country without them is simply not listed. Nothing is
+// hand-kept per country here.
 interface Props { topic: any; translation: any; lang: Lang }
 const { topic, translation, lang } = Astro.props;
 const t = useTranslations(lang);
+const s = essTopicStrings(lang);
+const h = essHubStrings(lang);
 const d = translation?.data ?? topic.data;
-const { Content } = await render(translation ?? topic);
+const locale = localeCodes[lang];
+const entry = translation ?? topic;
+await render(entry);
+
+type K = 'Visa' | 'Transport' | 'Luggage' | 'Money' | 'Season' | 'Emergency';
+const TOPICS: { id: string; k: K }[] = [
+  { id: 'visa', k: 'Visa' }, { id: 'transport', k: 'Transport' }, { id: 'luggage-storage', k: 'Luggage' },
+  { id: 'money', k: 'Money' }, { id: 'best-time-to-visit', k: 'Season' }, { id: 'emergency', k: 'Emergency' },
+];
+const k: K = TOPICS.find((x) => x.id === topic.id)?.k ?? 'Visa';
+const key = (base: string) => `${base}${k}` as EssTopicKey;
+
+// ── Topic tabs: each topic's own (translated) short name and icon ──
+const allTopics = await getCollection('essentialsTopics');
+const allTr = lang === 'en' ? [] : await getCollection('essentialsTopicsI18n', (e) => e.id.startsWith(`${lang}/`));
+const tabs = TOPICS.map((x) => {
+  const en = allTopics.find((e) => e.id === x.id);
+  const tr = allTr.find((e) => e.id === `${lang}/${x.id}`);
+  return { ...x, name: (tr?.data ?? en?.data)?.breadcrumbName ?? x.id, icon: en?.data.icon ?? 'globe-with-meridians', href: localizePath(`/essentials/${x.id}`, lang) };
+}).filter((x) => allTopics.some((e) => e.id === x.id));
+
+// ── Countries: every non-draft guide whose vetted facts are fresh ──
+const guides = await getCollection('essentials', ({ data }) => !data.draft);
+const byName = new Map(countriesData.countries.map((c) => [c.name, c]));
+const facts = (essentialsFacts as any).countries ?? {};
+const esim = new Set(Object.keys(esimFacts).filter((x) => !x.startsWith('_')));
+const collator = new Intl.Collator(locale);
+const rows = guides.map((g) => {
+  const c: any = byName.get(g.data.country);
+  const fe = facts[g.data.country];
+  if (!c || !fe || fe.srcHash !== bodyHash(String(g.body ?? ''))) return null;
+  const F: any = lang === 'en' ? fe.en : fe[lang];
+  if (!F) return null;
+  const E: any = fe.en; // English labels, only to sort emergency numbers into columns
+  const visa0 = F.visa?.cards?.[0];
+  const card = (kk: string) => F.summary?.find((x: any) => x.key === kk);
+  const entryCard = card('entry') ?? (visa0 ? { title: visa0.name, sub: [visa0.stay, visa0.cost].filter(Boolean).join(' · ') } : null);
+  const moneyCard = card('money') ?? (F.money?.budget ? { title: F.money.budget.amount, sub: F.money.budget.label } : F.money?.tips?.[0] ? { title: F.money.tips[0].title, sub: '' } : null);
+  const transportCard = card('transport') ?? (F.transport?.tips?.[0] ? { title: F.transport.tips[0].title, sub: '' } : null);
+  // Season: a month is "best" if any row says so, else "busy", else "avoid".
+  const best = new Set<number>([...(F.season?.best ?? []), ...(F.season?.rows ?? []).flatMap((r: any) => r.best ?? [])]);
+  const busy = new Set<number>((F.season?.rows ?? []).flatMap((r: any) => r.busy ?? []));
+  const avoid = new Set<number>((F.season?.rows ?? []).flatMap((r: any) => r.avoid ?? []));
+  const monthOf = (m: number) => (best.has(m) ? 'best' : busy.has(m) ? 'busy' : avoid.has(m) ? 'avoid' : '');
+  const nums = (F.emergency?.numbers ?? []).map((n: any, i: number) => ({ ...n, en: String(E?.emergency?.numbers?.[i]?.label ?? '') }));
+  // Sorted by the ENGLISH label. A unified number (Australia's Triple Zero, the
+  // UK's 999, the US 911, Spain's 112 "General emergency") answers for police
+  // and ambulance both; a backup / SMS / tourist / advice line is "other" —
+  // Triple Zero first sat under "other" with two empty columns (10-01).
+  const backup = (n: any) => /alternat|backup|mobile emergency|international emergency|eu emergency|sms/i.test(n.en);
+  const aside = (n: any) => backup(n) || /non-emergency|advice|tourist|hotline|info|coast ?guard|red cross|weather|traffic|social|search and rescue/i.test(n.en);
+  const unified = (n: any) => !backup(n) && /triple zero|unified|national emergency|general emergency|^police, (fire|ambulance)/i.test(n.en);
+  const isPolice = (n: any) => unified(n) || (!aside(n) && /police|polic[ií]a|guardia civil/i.test(n.en));
+  const isMedical = (n: any) => unified(n) || (!aside(n) && /ambulance|medical|fire|samu/i.test(n.en));
+  return {
+    slug: g.id, name: g.data.country, iso2: c.iso2, priority: c.priority ?? 99,
+    region: hubRegion(c.continent, c.iso2) as HubRegion,
+    label: localizePlace(g.data.country, lang),
+    href: localizePath(`/essentials/${g.id}`, lang),
+    esim: esim.has(g.id) ? localizePath(`/tools/esim/${g.id}`, lang) : '',
+    entry: entryCard, money: moneyCard, transport: transportCard,
+    visaCards: (F.visa?.cards ?? []).slice(0, 3), warning: F.visa?.warnings?.[0] ?? null,
+    transportTips: (F.transport?.tips ?? []).slice(0, 3),
+    budget: F.money?.budget ?? null, moneyTips: (F.money?.tips ?? []).slice(0, 4),
+    months: Array.from({ length: 12 }, (_, i) => monthOf(i + 1)),
+    seasonRated: best.size + busy.size + avoid.size > 0,
+    numbers: nums,
+    police: nums.filter(isPolice), medical: nums.filter(isMedical), other: nums.filter((n: any) => !isPolice(n) && !isMedical(n)),
+    reviewed: g.data.lastReviewed as Date,
+  };
+}).filter(Boolean)
+  .sort((a: any, b: any) => a.priority - b.priority || collator.compare(a.label, b.label)) as any[];
+
+// A Korean reader is not travelling to Korea: the picker skips it (same rule
+// as the hub). The comparison table keeps every country.
+const pickRows = (lang === 'ko' ? rows.filter((r) => r.slug !== 'south-korea') : rows)
+  .filter((r) => (k === 'Visa' ? r.entry : k === 'Transport' ? r.transport : k === 'Money' ? r.money : k === 'Emergency' ? r.numbers.length : true));
+const defaultSlug = pickRows[0]?.slug ?? '';
+const tableRows = [...rows].sort((a, b) => collator.compare(a.label, b.label));
+const latest = rows.reduce((m, r) => (r.reviewed > m ? r.reviewed : m), new Date(0));
+const latestLabel = latest.getTime() ? latest.toLocaleDateString(locale, { year: 'numeric', month: 'long', day: 'numeric' }) : '';
+
+const REGION_ORDER: HubRegion[] = ['asia', 'europe', 'meca', 'amoc'];
+const REGION_LABEL: Record<HubRegion, string> = { asia: h('rAsia'), europe: h('rEurope'), meca: h('rMeca'), amoc: h('rAmOc') };
+const regionChips = REGION_ORDER.filter((r) => tableRows.some((x) => x.region === r)).map((r) => ({ key: r, label: REGION_LABEL[r] }));
+
+// ── Season: the month picker and the 12-month grid ──
+const monthLong = (m: number) => new Intl.DateTimeFormat(locale, { month: 'long', timeZone: 'UTC' }).format(new Date(Date.UTC(2026, m - 1, 1)));
+const monthShort = (m: number) => new Intl.DateTimeFormat(locale, { month: 'short', timeZone: 'UTC' }).format(new Date(Date.UTC(2026, m - 1, 1)));
+const seasonRows = (lang === 'ko' ? rows.filter((r) => r.slug !== 'south-korea') : rows).filter((r) => r.seasonRated);
+const monthBlocks = Array.from({ length: 12 }, (_, i) => {
+  const m = i + 1;
+  return {
+    m, name: monthLong(m), short: monthShort(m),
+    best: seasonRows.filter((r) => r.months[i] === 'best'),
+    busy: seasonRows.filter((r) => r.months[i] === 'busy'),
+    avoid: seasonRows.filter((r) => r.months[i] === 'avoid'),
+  };
+});
+// The build's month; the script moves to the reader's own month on load.
+const buildMonth = new Date().getUTCMonth() + 1;
+
+// ── Luggage: country guides that carry a "Luggage storage" section, linked
+// to it (the country page ids its extra sections by position: ess-more-N) ──
+const luggage = k !== 'Luggage' ? [] : guides
+  .map((g) => {
+    const heads = [...String(g.body ?? '').matchAll(/^## (.+)$/gm)].map((m) => m[1].trim().toLowerCase());
+    const i = heads.findIndex((x) => x.startsWith('luggage storage'));
+    const c: any = byName.get(g.data.country);
+    return i < 0 || !c ? null : { slug: g.id, iso2: c.iso2, label: localizePlace(g.data.country, lang), href: `${localizePath(`/essentials/${g.id}`, lang)}#ess-more-${i + 1}` };
+  })
+  .filter(Boolean)
+  .sort((a: any, b: any) => collator.compare(a.label, b.label)) as any[];
+const situations = [1, 2, 3, 4, 5].map((n) => ({
+  n, label: s(`l${n}` as EssTopicKey), where: s(`l${n}Where` as EssTopicKey), text: s(`l${n}Text` as EssTopicKey),
+  cost: s(`l${n}Cost` as EssTopicKey), watch: s(`l${n}Watch` as EssTopicKey),
+}));
+
+// ── The topic's own prose as numbered cards (every word stays on the page) ──
+// Numeric entities too: the renderer writes "&" as &#x26;, and "City subways
+// &#x26; buses" showed literally (Codex review, 10-01).
+const decode = (x: string) => x.replace(/&#x([0-9a-f]+);/gi, (_, n) => String.fromCodePoint(parseInt(n, 16))).replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n))).replace(/&#x27;|&#39;/g, "'").replace(/&quot;/g, '"').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
+const html = String(entry.rendered?.html ?? '');
+const parts = html.split(/<h2[^>]*>/);
+const intro = parts[0].trim();
+const basics = parts.slice(1).map((p) => {
+  const end = p.indexOf('</h2>');
+  return { title: decode(p.slice(0, end).replace(/<[^>]+>/g, '')).trim(), html: p.slice(end + 5) };
+});
+
+// ── Call to action: one band per topic, two links ──
+const esimHref = localizePath('/tools/esim', lang);
+const pickup = `https://kiwitaxi.tpx.lv/yRbl5tIp?sub_id=essentials_${topic.id}`;
+const CTA: Record<K, { a: [string, string, string]; b: [string, string, string] }> = {
+  Visa: { a: [s('goNewsletter'), s('tagFree'), localizePath('/newsletter', lang)], b: [s('goFlights'), s('tagFlights'), localizePath('/flights', lang)] },
+  Transport: { a: [s('goPickup'), s('tagPickup'), pickup], b: [s('goEsim'), s('tagEsim'), esimHref] },
+  Luggage: { a: [s('goTours'), s('tagTours'), 'https://klook.tpx.lv/2NXPH8MA'], b: [s('goPickup'), s('tagPickupBags'), pickup] },
+  Money: { a: [s('goChecklist'), s('tagPrint'), localizePath('/free/trip-checklist', lang)], b: [s('goEsim'), s('tagEsimPay'), esimHref] },
+  Season: { a: [s('goFlights'), s('tagFlights'), localizePath('/flights', lang)], b: [s('goEvents'), s('tagEvents'), localizePath('/events', lang)] },
+  Emergency: { a: [s('goChecklist'), s('tagPrint'), localizePath('/free/trip-checklist', lang)], b: [s('goEsim'), s('tagEsimCalls'), esimHref] },
+};
+const cta = CTA[k];
+const external = (href: string) => /^https?:/.test(href);
+
+const related = tabs.filter((x) => x.id !== topic.id).map((x) => ({ ...x, blurb: s(`rel${x.k}` as EssTopicKey) }));
+// Only a dialable number becomes a tel: link — the Philippines lists "VHF
+// Channel 16", which would have dialled 16.
+const telOf = (n: string) => (/[a-z]/i.test(String(n)) ? undefined : `tel:${String(n).replace(/[^\d+]/g, '')}`);
+// An SMS-only line (Hong Kong 992, Singapore 70999) opens the messages app, not
+// the dialer — someone who cannot speak is exactly who uses it (Codex review).
+const isSms = (n: any) => /sms/i.test(String(n.en ?? ''));
+const linkOf = (n: any) => { const tel = telOf(n.number); return tel && isSms(n) ? tel.replace(/^tel:/, 'sms:') : tel; };
+const vcf = (r: any) => JSON.stringify({ name: r.label, numbers: r.numbers.filter((n: any) => telOf(n.number)).map((n: any) => ({ number: n.number, label: n.label })) });
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const pageUrl = siteHref(Astro.url.pathname, Astro.site);
@@ -24,58 +196,663 @@ const jsonLd = {
     { '@type': 'WebPage', name: d.metaTitle, description: d.metaDescription, url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
     { '@type': 'BreadcrumbList', itemListElement: [
       { '@type': 'ListItem', position: 1, name: t('post.home'), item: siteHref(localizePath('/', lang), Astro.site) },
-      { '@type': 'ListItem', position: 2, name: d.breadcrumbName, item: pageUrl },
+      { '@type': 'ListItem', position: 2, name: t('ess.label'), item: siteHref(localizePath('/essentials', lang), Astro.site) },
+      { '@type': 'ListItem', position: 3, name: d.breadcrumbName, item: pageUrl },
     ] },
     { '@type': 'FAQPage', mainEntity: (d.faq ?? []).map((f: any) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
   ],
 };
+const pickTitle = s(key('pick'));
+const tableHead = k === 'Visa' ? s('colEntry') : k === 'Transport' ? s('colTransport') : s('colMoney');
+const cellOf = (r: any) => (k === 'Visa' ? r.entry : k === 'Transport' ? r.transport : r.money);
 ---
 
 <BaseLayout title={d.metaTitle} description={d.metaDescription} jsonLd={jsonLd} localized={true}>
-  <div class="page-hero">
+  <div class="tph" data-topic={topic.id}>
     <div class="wrap">
-      <p class="eyebrow">{t('ess.label')}</p>
-      <h1>{d.h1}</h1>
-      <p>{d.dek}</p>
+      <nav class="tph-crumbs" aria-label="breadcrumb">
+        <a href={localizePath('/', lang)}>{t('post.home')}</a><span aria-hidden="true">·</span>
+        <a href={localizePath('/essentials', lang)}>{t('ess.label')}</a><span aria-hidden="true">·</span>
+        <span class="tph-here">{d.breadcrumbName}</span>
+      </nav>
+
+      <nav class="tph-tabs" aria-label={s('tabsLabel')}>
+        {tabs.map((x) => (
+          <a class:list={['tph-tab', { on: x.id === topic.id }]} href={x.href} aria-current={x.id === topic.id ? 'page' : undefined}>
+            <Emoji name={x.icon} /> <span>{x.name}</span>
+          </a>
+        ))}
+      </nav>
+
+      <header class="tph-hero">
+        <div class="tph-hero-text">
+          <p class="tph-kicker">{t('ess.label')} · {d.breadcrumbName}</p>
+          <h1>{d.h1}</h1>
+          <p class="tph-hook">{s(key('hook'))}</p>
+          <p class="tph-dek">{d.dek}</p>
+          {latestLabel && <p class="tph-checked"><span aria-hidden="true">✓</span> {s('checked', { date: latestLabel, n: rows.length })}</p>}
+        </div>
+        <div class="tph-hero-art" aria-hidden="true"><Emoji name={topic.data.icon ?? 'globe-with-meridians'} /></div>
+      </header>
+
+      <aside class="tph-quick">
+        <span class="tph-quick-label">{t('post.quickAnswer')}</span>
+        <p>{d.quickAnswer}</p>
+      </aside>
+
+      {/* ── The picker: a country (four topics), a month, or a situation ── */}
+      {k === 'Season' ? (
+        <section class="tph-sec tph-pick" data-months data-build-month={buildMonth}>
+          <div class="tph-head">
+            <h2>{pickTitle}</h2>
+            <span class="tph-note">{s('pickNote', { n: seasonRows.length })}</span>
+          </div>
+          <div class="tph-chips tph-chips--months" role="group" aria-label={pickTitle}>
+            {monthBlocks.map((b) => (
+              <button type="button" class="tph-chip" data-month={b.m} aria-pressed={b.m === buildMonth ? 'true' : 'false'}>{b.short}</button>
+            ))}
+          </div>
+          {monthBlocks.map((b) => (
+            <div class="tph-months" data-mblock={b.m} hidden={b.m !== buildMonth}>
+              {b.best.length + b.busy.length + b.avoid.length === 0 ? <p class="tph-empty">{s('sNone', { m: b.name })}</p> : (
+                <div class="tph-mgrid">
+                  {b.best.length > 0 && (
+                    <div class="tph-mcol tph-mcol--best">
+                      <h3>{s('sBest', { m: b.name })}</h3>
+                      <ul>{b.best.map((r) => <li><a href={`${r.href}#ess-season`}><Flag code={r.iso2} size="1.1em" /> {r.label}</a></li>)}</ul>
+                    </div>
+                  )}
+                  {b.busy.length > 0 && (
+                    <div class="tph-mcol tph-mcol--busy">
+                      <h3>{s('sBusy')}</h3>
+                      <ul>{b.busy.map((r) => <li><a href={`${r.href}#ess-season`}><Flag code={r.iso2} size="1.1em" /> {r.label}</a></li>)}</ul>
+                    </div>
+                  )}
+                  {b.avoid.length > 0 && (
+                    <div class="tph-mcol tph-mcol--avoid">
+                      <h3>{s('sAvoid', { m: b.name })}</h3>
+                      <ul>{b.avoid.map((r) => <li><a href={`${r.href}#ess-season`}><Flag code={r.iso2} size="1.1em" /> {r.label}</a></li>)}</ul>
+                    </div>
+                  )}
+                </div>
+              )}
+            </div>
+          ))}
+        </section>
+      ) : k === 'Luggage' ? (
+        <section class="tph-sec tph-pick" data-situations>
+          <div class="tph-head"><h2>{pickTitle}</h2></div>
+          <div class="tph-sit">
+            <div class="tph-sit-list" role="group" aria-label={pickTitle}>
+              {situations.map((x) => (
+                <button type="button" class="tph-sit-btn" data-sit={x.n} aria-pressed={x.n === 1 ? 'true' : 'false'}>{x.label}</button>
+              ))}
+            </div>
+            {situations.map((x) => (
+              <div class="tph-sit-card" data-sitblock={x.n} hidden={x.n !== 1}>
+                <p class="tph-sit-kicker">{s('lWhere')}</p>
+                <h3>{x.where}</h3>
+                <p>{x.text}</p>
+                <dl>
+                  <div><dt>{s('lCost')}</dt><dd>{x.cost}</dd></div>
+                  <div><dt>{s('lWatch')}</dt><dd>{x.watch}</dd></div>
+                </dl>
+              </div>
+            ))}
+          </div>
+        </section>
+      ) : pickRows.length > 0 && (
+        <section class="tph-sec tph-pick" data-countries data-default={defaultSlug}>
+          <div class="tph-head">
+            <h2>{pickTitle}</h2>
+            <span class="tph-note">{s('pickNote', { n: pickRows.length })}</span>
+          </div>
+          <div class="tph-chips" role="group" aria-label={pickTitle}>
+            {pickRows.map((r) => (
+              <button type="button" class="tph-chip" data-pick={r.slug} aria-pressed={r.slug === defaultSlug ? 'true' : 'false'}><Flag code={r.iso2} size="1.05em" /> {r.label}</button>
+            ))}
+          </div>
+          <p class="tph-remember">{s('remember')}</p>
+          {pickRows.map((r) => (
+            <div class="tph-panel" data-panel={r.slug} hidden={r.slug !== defaultSlug}>
+              {k === 'Visa' && (
+                <div class="tph-pgrid">
+                  <div class="tph-big">
+                    <p class="tph-big-kicker"><Flag code={r.iso2} size="1em" /> {r.label} · {s('colEntry')}</p>
+                    <p class="tph-big-title">{r.entry?.title}</p>
+                    {r.entry?.sub && <p class="tph-big-sub">{r.entry.sub}</p>}
+                    <a class="tph-big-link" href={`${r.href}#ess-visa`}>{s('fullGuide', { c: r.label })}</a>
+                  </div>
+                  {r.visaCards.map((v: any) => (
+                    <div class="tph-cell">
+                      <p class="tph-cell-kicker">{v.name}</p>
+                      {v.who && <p class="tph-cell-title">{v.who}</p>}
+                      <p class="tph-cell-sub">{[v.stay && `${s('lblStay')} ${v.stay}`, v.cost && `${s('lblCost')} ${v.cost}`].filter(Boolean).join(' · ')}</p>
+                    </div>
+                  ))}
+                  {r.warning && (
+                    <div class="tph-cell tph-cell--warn">
+                      <p class="tph-cell-kicker">{s('lblKeep')}</p>
+                      <p class="tph-cell-title">{r.warning.title}</p>
+                      <p class="tph-cell-sub">{r.warning.text}</p>
+                    </div>
+                  )}
+                </div>
+              )}
+              {k === 'Transport' && (
+                <div class="tph-pgrid">
+                  <div class="tph-big">
+                    <p class="tph-big-kicker"><Flag code={r.iso2} size="1em" /> {r.label} · {s('colTransport')}</p>
+                    <p class="tph-big-title">{r.transport?.title}</p>
+                    {r.transport?.sub && <p class="tph-big-sub">{r.transport.sub}</p>}
+                    <a class="tph-big-link" href={`${r.href}#ess-transport`}>{s('fullGuide', { c: r.label })}</a>
+                  </div>
+                  {r.transportTips.map((x: any, i: number) => (
+                    <div class="tph-cell tph-cell--step">
+                      <span class="tph-step">{i + 1}</span>
+                      <p class="tph-cell-title">{x.title}</p>
+                      <p class="tph-cell-sub">{x.text}</p>
+                    </div>
+                  ))}
+                </div>
+              )}
+              {k === 'Money' && (
+                <div class="tph-pgrid">
+                  <div class="tph-big">
+                    <p class="tph-big-kicker"><Flag code={r.iso2} size="1em" /> {r.label} · {s('colMoney')}</p>
+                    <p class="tph-big-title">{r.money?.title}</p>
+                    {r.money?.sub && <p class="tph-big-sub">{r.money.sub}</p>}
+                    {r.budget && r.money?.title !== r.budget.amount && <p class="tph-big-sub"><strong>{s('lblBudget')}</strong> {r.budget.amount} · {r.budget.label}</p>}
+                    <a class="tph-big-link" href={`${r.href}#ess-money`}>{s('fullGuide', { c: r.label })}</a>
+                  </div>
+                  {r.moneyTips.map((x: any) => (
+                    <div class="tph-cell">
+                      <p class="tph-cell-title">{x.title}</p>
+                      <p class="tph-cell-sub">{x.text}</p>
+                    </div>
+                  ))}
+                </div>
+              )}
+              {k === 'Emergency' && (
+                <div class="tph-egrid">
+                  {r.numbers.map((n: any) => (
+                    <a class="tph-num" href={linkOf(n)}>
+                      <span class="tph-num-label">{n.label}</span>
+                      <strong class:list={['tph-num-n', { 'tph-num-n--long': String(n.number).length > 7 }]}>{n.number}</strong>
+                      {n.note && <span class="tph-num-note">{n.note}</span>}
+                      {linkOf(n) && <span class="tph-num-go">{isSms(n) ? s('text') : s('call')} →</span>}
+                    </a>
+                  ))}
+                  {lang === 'ko' && (
+                    <a class="tph-num tph-num--ko" href="tel:+82232100404">
+                      <span class="tph-num-label">한국어로 도움받기 · 24시간</span>
+                      <strong class="tph-num-n tph-num-n--long">+82-2-3210-0404</strong>
+                      <span class="tph-num-note">외교부 영사콜센터. 여권 분실·사건사고 때.</span>
+                      <span class="tph-num-go">{s('call')} →</span>
+                    </a>
+                  )}
+                  <div class="tph-eactions">
+                    <button type="button" class="tph-save" data-vcf={vcf(r)}>{s('saveContacts', { c: r.label })}</button>
+                    <a class="tph-big-link tph-big-link--plain" href={`${r.href}#ess-emergency`}>{s('fullGuide', { c: r.label })}</a>
+                  </div>
+                </div>
+              )}
+            </div>
+          ))}
+        </section>
+      )}
+
+      {/* ── The topic's own prose, as numbered basics ── */}
+      {basics.length > 0 && (
+        <section class="tph-sec">
+          <h2 class="tph-h2">{s(key('basics'))}</h2>
+          {intro && <div class="tph-intro prose" set:html={intro} />}
+          <ol class:list={['tph-basics', { 'tph-basics--odd': basics.length % 2 === 1 }]}>
+            {basics.map((b, i) => (
+              <li class="tph-basic">
+                <span class="tph-basic-n">{i + 1}</span>
+                <h3>{b.title}</h3>
+                <div class="prose" set:html={b.html} />
+              </li>
+            ))}
+          </ol>
+        </section>
+      )}
+
+      {/* ── Every country at a glance ── */}
+      {k === 'Luggage' ? luggage.length > 0 && (
+        <section class="tph-sec">
+          <div class="tph-head">
+            <div><h2 class="tph-h2">{s('lcTitle')}</h2><p class="tph-note">{s('lcSub', { n: luggage.length })}</p></div>
+          </div>
+          <ul class="tph-lug">
+            {luggage.map((x) => <li><a href={x.href}><Flag code={x.iso2} size="1.3em" /> <span>{s('lcLink', { c: x.label })}</span></a></li>)}
+          </ul>
+        </section>
+      ) : (
+        <section class="tph-sec" data-table>
+          <div class="tph-head">
+            <div><h2 class="tph-h2">{d.countryHeading}</h2><p class="tph-note">{s('tableSub')}</p></div>
+            <input class="tph-search" type="search" placeholder={s('search')} aria-label={s('search')} data-search />
+          </div>
+          {regionChips.length > 1 && (
+            <div class="tph-chips tph-chips--small" role="group" aria-label={s('colCountry')}>
+              <button type="button" class="tph-chip" data-region="all" aria-pressed="true">{s('all')}</button>
+              {regionChips.map((r) => <button type="button" class="tph-chip" data-region={r.key} aria-pressed="false">{r.label}</button>)}
+            </div>
+          )}
+          <div class="tph-table-wrap">
+            {k === 'Season' ? (
+              <table class="tph-table tph-table--season">
+                <caption class="sr-only">{s('sGrid')}</caption>
+                <thead><tr><th scope="col">{s('colCountry')}</th>{monthBlocks.map((b) => <th scope="col" class="tph-m">{b.short}</th>)}</tr></thead>
+                <tbody>
+                  {tableRows.filter((r) => r.seasonRated).map((r) => (
+                    <tr data-region={r.region} data-names={`${r.label} ${r.name}`.toLowerCase()}>
+                      <th scope="row"><a href={`${r.href}#ess-season`}><Flag code={r.iso2} size="1em" /> {r.label}</a></th>
+                      {r.months.map((v: string, i: number) => (
+                        <td class={`tph-m tph-m--${v || 'none'}`} title={`${monthBlocks[i].name}: ${v === 'best' ? s('sLegendBest') : v === 'busy' ? s('sLegendBusy') : v === 'avoid' ? s('sLegendAvoid') : s('sLegendNone')}`}><span class="sr-only">{v === 'best' ? s('sLegendBest') : v === 'busy' ? s('sLegendBusy') : v === 'avoid' ? s('sLegendAvoid') : s('sLegendNone')}</span></td>
+                      ))}
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            ) : k === 'Emergency' ? (
+              <table class="tph-table">
+                <thead><tr><th scope="col">{s('colCountry')}</th><th scope="col">{s('colPolice')}</th><th scope="col">{s('colMedical')}</th><th scope="col">{s('colOther')}</th></tr></thead>
+                <tbody>
+                  {tableRows.filter((r) => r.numbers.length).map((r) => (
+                    <tr data-region={r.region} data-names={`${r.label} ${r.name}`.toLowerCase()}>
+                      <th scope="row"><a href={`${r.href}#ess-emergency`}><Flag code={r.iso2} size="1em" /> {r.label}</a></th>
+                      <td data-label={s('colPolice')} class:list={[{ 'tph-nil': !r.police.length }]}>{r.police.length ? r.police.map((n: any) => <a class="tph-tel" href={linkOf(n)}>{n.number}</a>) : '—'}</td>
+                      <td data-label={s('colMedical')} class:list={[{ 'tph-nil': !r.medical.length }]}>{r.medical.length ? r.medical.map((n: any) => <a class="tph-tel" href={linkOf(n)}>{n.number}</a>) : '—'}</td>
+                      <td data-label={s('colOther')} class:list={[{ 'tph-nil': !r.other.length }]}>{r.other.length ? r.other.slice(0, 2).map((n: any) => <span class="tph-other"><a class="tph-tel" href={linkOf(n)}>{n.number}</a> <small>{n.label}</small></span>) : '—'}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            ) : (
+              <table class="tph-table">
+                <thead><tr><th scope="col">{s('colCountry')}</th><th scope="col">{tableHead}</th><th scope="col">{s('colDetail')}</th></tr></thead>
+                <tbody>
+                  {tableRows.filter((r) => cellOf(r)).map((r) => (
+                    <tr data-region={r.region} data-names={`${r.label} ${r.name}`.toLowerCase()}>
+                      <th scope="row"><a href={r.href}><Flag code={r.iso2} size="1em" /> {r.label}</a></th>
+                      <td><span class="tph-pill">{cellOf(r).title}</span></td>
+                      <td class="tph-detail">{cellOf(r).sub || '—'}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            )}
+          </div>
+          {k === 'Season' && (
+            <ul class="tph-legend">
+              <li><span class="tph-m--best"></span>{s('sLegendBest')}</li>
+              <li><span class="tph-m--busy"></span>{s('sLegendBusy')}</li>
+              <li><span class="tph-m--avoid"></span>{s('sLegendAvoid')}</li>
+              <li><span class="tph-m--none"></span>{s('sLegendNone')}</li>
+            </ul>
+          )}
+          <p class="tph-empty" data-nomatch hidden>{s('noMatch')}</p>
+        </section>
+      )}
+
+      {/* ── One call to action ── */}
+      <section class="tph-cta">
+        <div class="tph-cta-text">
+          <h2>{s(`cta${k}T` as EssTopicKey)}</h2>
+          <p>{s(`cta${k}S` as EssTopicKey)}</p>
+        </div>
+        <div class="tph-cta-links">
+          {[cta.a, cta.b].map(([label, tag, href]) => (
+            <a class="tph-cta-link" href={href} rel={external(href) ? 'sponsored noopener' : undefined} target={external(href) ? '_blank' : undefined}>
+              <span>{label}</span><small>{tag}</small>
+            </a>
+          ))}
+          <p class="tph-aff">{s('affNote')}</p>
+        </div>
+      </section>
+
+      {/* ── FAQ, the first one open ── */}
+      {(d.faq ?? []).length > 0 && (
+        <section class="tph-sec tph-faq">
+          <div class="tph-faq-head">
+            <h2 class="tph-h2">{t('post.faqTitle')}</h2>
+            <p class="tph-note">{d.disclosure}</p>
+          </div>
+          <div class="tph-faq-list">
+            {(d.faq ?? []).map((f: any, i: number) => (
+              <details open={i === 0}>
+                <summary>{f.q}</summary>
+                <p>{f.a}</p>
+              </details>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <section class="tph-sec tph-more">
+        <h2 class="tph-more-title">{s('moreTitle')}</h2>
+        <ul class="tph-rel">
+          {related.map((x) => (
+            <li><a href={x.href}><strong><Emoji name={x.icon} /> {x.name} →</strong><span>{x.blurb}</span></a></li>
+          ))}
+        </ul>
+      </section>
     </div>
   </div>
-
-  <article class="article wrap">
-    <aside class="quick-answer">
-      <span class="qa-label">{t('post.quickAnswer')}</span>
-      <p>{d.quickAnswer}</p>
-    </aside>
-
-    <div class="prose">
-      <Content />
-    </div>
-
-    <EssentialsCountryIndex heading={d.countryHeading} lang={lang} />
-
-    {/* These five topic pages carried no booking link at all, and they are the
-        highest purchase-intent reading on the site: someone on /essentials/
-        transport/ is working out how to get from the airport, someone on
-        /essentials/visa/ is about to need a data plan. Measured against 30 days
-        of Plausible, /essentials/best-time-to-visit/ has an 86% scroll depth —
-        readers finish these — and every one of them reached the end with
-        nothing to act on.
-
-        No city is passed, so PlanTrip renders its city-agnostic links; the
-        reader picks their own destination on the partner's page. Placed after
-        the prose and the country list, before the FAQ — at the point the
-        question has been answered, not in front of it. */}
-    <PlanTrip city="" />
-
-    <section class="faq">
-      <h2>{t('post.faqTitle')}</h2>
-      {(d.faq ?? []).map((f: any) => (
-        <details>
-          <summary>{f.q}</summary>
-          <p>{f.a}</p>
-        </details>
-      ))}
-    </section>
-
-    <p class="disclosure">{d.disclosure}</p>
-  </article>
 </BaseLayout>
+
+<script>
+  // Progressive: without this every panel's content is still in the page and
+  // the default country / the build's month / the first situation shows.
+  const KEY = 'wa-ess-country';
+  const store = {
+    get() { try { return localStorage.getItem(KEY) || ''; } catch { return ''; } },
+    set(v: string) { try { localStorage.setItem(KEY, v); } catch { /* private mode */ } },
+  };
+  const hashGet = (k: string) => new RegExp(`(?:^|[#&])${k}=([^&]+)`).exec(location.hash)?.[1] ?? '';
+  const hashSet = (k: string, v: string) => history.replaceState(null, '', `#${k}=${v}`);
+
+  // 1. Country picker: hash (#c=japan) > the reader's last pick > default.
+  const pick = document.querySelector<HTMLElement>('[data-countries]');
+  if (pick) {
+    const chips = [...pick.querySelectorAll<HTMLButtonElement>('[data-pick]')];
+    const panels = [...pick.querySelectorAll<HTMLElement>('[data-panel]')];
+    const valid = new Set(chips.map((c) => c.dataset.pick || ''));
+    const show = (slug: string, save: boolean) => {
+      if (!valid.has(slug)) return;
+      for (const c of chips) c.setAttribute('aria-pressed', String(c.dataset.pick === slug));
+      for (const p of panels) p.hidden = p.dataset.panel !== slug;
+      if (save) { store.set(slug); hashSet('c', slug); }
+    };
+    for (const c of chips) c.addEventListener('click', () => show(c.dataset.pick || '', true));
+    // Bring the picked chip into view sideways only: scrollIntoView also moved
+    // the page down past the heading on a phone (Codex review, 10-01).
+    const centre = () => {
+      const on = chips.find((c) => c.getAttribute('aria-pressed') === 'true');
+      const row = on?.parentElement;
+      if (on && row && row.scrollWidth > row.clientWidth) row.scrollLeft = on.offsetLeft - row.offsetLeft - (row.clientWidth - on.offsetWidth) / 2;
+    };
+    const first = hashGet('c') || store.get();
+    if (first) show(first, false);
+    centre();
+    addEventListener('hashchange', () => { const c = hashGet('c'); if (c) { show(c, false); centre(); } });
+  }
+
+  // 2. Month picker: hash (#m=4) > the reader's own month.
+  const months = document.querySelector<HTMLElement>('[data-months]');
+  if (months) {
+    const btns = [...months.querySelectorAll<HTMLButtonElement>('[data-month]')];
+    const blocks = [...months.querySelectorAll<HTMLElement>('[data-mblock]')];
+    const show = (m: string, save: boolean) => {
+      if (!btns.some((b) => b.dataset.month === m)) return;
+      for (const b of btns) b.setAttribute('aria-pressed', String(b.dataset.month === m));
+      for (const b of blocks) b.hidden = b.dataset.mblock !== m;
+      if (save) hashSet('m', m);
+    };
+    for (const b of btns) b.addEventListener('click', () => show(b.dataset.month || '', true));
+    show(hashGet('m') || String(new Date().getMonth() + 1), false);
+    addEventListener('hashchange', () => { const m = hashGet('m'); if (m) show(m, false); });
+  }
+
+  // 3. Luggage situations.
+  const sits = document.querySelector<HTMLElement>('[data-situations]');
+  if (sits) {
+    const btns = [...sits.querySelectorAll<HTMLButtonElement>('[data-sit]')];
+    const cards = [...sits.querySelectorAll<HTMLElement>('[data-sitblock]')];
+    for (const b of btns) b.addEventListener('click', () => {
+      for (const x of btns) x.setAttribute('aria-pressed', String(x === b));
+      for (const c of cards) c.hidden = c.dataset.sitblock !== b.dataset.sit;
+    });
+  }
+
+  // 4. Table: region chips × search.
+  const table = document.querySelector<HTMLElement>('[data-table]');
+  if (table) {
+    const rows = [...table.querySelectorAll<HTMLElement>('tbody tr')];
+    const chips = [...table.querySelectorAll<HTMLButtonElement>('[data-region]')].filter((b) => b.tagName === 'BUTTON');
+    const input = table.querySelector<HTMLInputElement>('[data-search]');
+    const none = table.querySelector<HTMLElement>('[data-nomatch]');
+    let region = 'all';
+    const apply = () => {
+      const q = (input?.value || '').trim().toLowerCase();
+      let n = 0;
+      for (const r of rows) {
+        const on = (region === 'all' || r.dataset.region === region) && (!q || (r.dataset.names || '').includes(q));
+        r.hidden = !on;
+        if (on) n++;
+      }
+      if (none) none.hidden = n > 0;
+    };
+    for (const c of chips) c.addEventListener('click', () => {
+      region = c.dataset.region || 'all';
+      for (const x of chips) x.setAttribute('aria-pressed', String(x === c));
+      apply();
+    });
+    input?.addEventListener('input', apply);
+  }
+
+  // 5. Emergency numbers → a contact card the phone can import.
+  for (const btn of document.querySelectorAll<HTMLButtonElement>('[data-vcf]')) {
+    btn.addEventListener('click', () => {
+      let data: { name: string; numbers: { number: string; label: string }[] };
+      try { data = JSON.parse(btn.dataset.vcf || ''); } catch { return; }
+      const esc = (x: string) => x.replace(/[\\,;]/g, (m) => `\\${m}`).replace(/\n/g, ' ');
+      const lines = ['BEGIN:VCARD', 'VERSION:3.0', `FN:${esc(`${data.name} SOS`)}`, `N:SOS;${esc(data.name)};;;`];
+      data.numbers.forEach((n, i) => {
+        lines.push(`item${i + 1}.TEL:${n.number}`, `item${i + 1}.X-ABLabel:${esc(n.label)}`);
+      });
+      lines.push(`NOTE:${esc(data.numbers.map((n) => `${n.label} ${n.number}`).join(' / '))}`, 'END:VCARD');
+      const url = URL.createObjectURL(new Blob([lines.join('\r\n')], { type: 'text/vcard' }));
+      const a = Object.assign(document.createElement('a'), { href: url, download: `${data.name}-SOS.vcf` });
+      document.body.append(a); a.click(); a.remove();
+      setTimeout(() => URL.revokeObjectURL(url), 2000);
+    });
+  }
+</script>
+
+<style>
+  .tph {
+    --tp-brown: #6b3413; --tp-brown-2: #5a2c10; --tp-peach: #fde3d4; --tp-sand: #f3ebdd; --tp-cream: #fbf7ef;
+    --tp-leaf: #e3ecd0; --tp-amber: #f6e0b5; --tp-red: #f5c9b8; --tp-on-dark: #f6f1e6;
+    padding: 1.4rem 0 3rem;
+  }
+  @media (prefers-color-scheme: dark) {
+    :global(:root:not([data-theme='light'])) .tph { --tp-brown: #4a2610; --tp-brown-2: #3d1f0d; --tp-peach: #3a2620; --tp-sand: #2a251d; --tp-cream: #221f19; --tp-leaf: #26301c; --tp-amber: #3a3020; --tp-red: #432720; }
+  }
+  :global(:root[data-theme='dark']) .tph { --tp-brown: #4a2610; --tp-brown-2: #3d1f0d; --tp-peach: #3a2620; --tp-sand: #2a251d; --tp-cream: #221f19; --tp-leaf: #26301c; --tp-amber: #3a3020; --tp-red: #432720; }
+
+  .tph-crumbs { display: flex; flex-wrap: wrap; gap: .45rem; font-size: .85rem; color: var(--muted); margin-bottom: 1rem; }
+  .tph-crumbs a { color: inherit; text-decoration: none; }
+  .tph-crumbs a:hover { color: var(--accent-text); }
+  .tph-here { color: var(--ink); font-weight: 700; }
+
+  /* Flex, not six equal columns: "Emergencies & safety" was cut to "Emergency & sa…". */
+  .tph-tabs { display: flex; gap: .5rem; margin-bottom: 1rem; overflow-x: auto; scrollbar-width: none; }
+  .tph-tab { flex: 1 0 auto; display: flex; align-items: center; justify-content: center; gap: .4rem; padding: .7rem .6rem; border-radius: var(--r-pill); background: var(--tp-cream); border: 1px solid var(--line-soft, var(--line)); color: var(--ink); text-decoration: none; font-weight: 700; font-size: .9rem; min-width: 0; }
+  .tph-tab span { white-space: nowrap; }
+  .tph-tab:hover { border-color: var(--accent); }
+  .tph-tab.on { background: var(--tp-brown); color: var(--tp-on-dark); border-color: var(--tp-brown); }
+
+  .tph-hero { position: relative; overflow: hidden; display: grid; grid-template-columns: minmax(0, 1.6fr) minmax(0, 1fr); gap: 1.5rem; align-items: center; background: var(--tp-brown); color: var(--tp-on-dark); border-radius: 28px; padding: 2.4rem 2.2rem; }
+  .tph-kicker { display: inline-block; margin: 0 0 1rem; padding: .25rem .7rem; border-radius: var(--r-pill); background: rgba(255, 255, 255, .12); font-size: .8rem; font-weight: 600; }
+  .tph-hero h1 { font-family: var(--font-display); font-size: clamp(1.9rem, 4.6vw, 2.9rem); line-height: 1.15; letter-spacing: -0.02em; margin: 0; color: #fff; word-break: keep-all; overflow-wrap: anywhere; }
+  .tph-hook { font-family: var(--font-display); font-size: clamp(1.3rem, 3vw, 1.9rem); font-weight: 800; line-height: 1.2; color: #f2b48a; margin: .35rem 0 1rem; word-break: keep-all; overflow-wrap: anywhere; }
+  .tph-dek { margin: 0; line-height: 1.7; max-width: 38rem; opacity: .92; }
+  .tph-checked { margin: 1rem 0 0; font-size: .85rem; font-weight: 600; opacity: .85; }
+  .tph-hero-art { justify-self: end; width: min(15rem, 100%); aspect-ratio: 1; border-radius: 50%; background: rgba(255, 255, 255, .1); display: grid; place-items: center; font-size: clamp(4rem, 10vw, 7rem); }
+
+  .tph-quick { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 1rem; align-items: start; margin: 1rem 0 0; padding: 1.3rem 1.5rem; border-radius: 22px; background: var(--tp-peach); }
+  .tph-quick p { margin: 0; line-height: 1.75; color: var(--ink); }
+  .tph-quick-label { padding: .2rem .65rem; border-radius: var(--r-pill); background: var(--tp-cream); font-size: .75rem; font-weight: 700; white-space: nowrap; }
+
+  .tph-sec { margin-top: 2.6rem; }
+  .tph-head { display: flex; align-items: flex-end; justify-content: space-between; gap: .6rem 1rem; flex-wrap: wrap; margin-bottom: 1rem; }
+  .tph-head h2, .tph-h2 { font-family: var(--font-display); font-size: clamp(1.35rem, 3.2vw, 1.75rem); font-weight: 800; margin: 0; color: var(--ink); letter-spacing: -0.01em; }
+  .tph-h2 { margin-bottom: 1rem; }
+  .tph-head .tph-h2 { margin-bottom: .2rem; }
+  .tph-note { color: var(--muted); font-size: .88rem; margin: 0; }
+  .tph-remember { color: var(--muted); font-size: .82rem; margin: .2rem 0 1rem; }
+
+  .tph-chips { display: flex; flex-wrap: wrap; gap: .45rem; margin-bottom: .6rem; }
+  .tph-chip { font: inherit; font-size: .9rem; font-weight: 700; display: inline-flex; align-items: center; gap: .35rem; padding: .45rem .95rem; border-radius: var(--r-pill); border: 1px solid var(--line); background: var(--surface); color: var(--ink); cursor: pointer; }
+  .tph-chip:hover { border-color: var(--accent); }
+  .tph-chip[aria-pressed='true'] { background: var(--tp-brown); border-color: var(--tp-brown); color: var(--tp-on-dark); }
+  .tph-chips--small .tph-chip { font-size: .84rem; padding: .35rem .8rem; }
+
+  .tph-pgrid { display: grid; grid-template-columns: minmax(0, 1.25fr) repeat(2, minmax(0, 1fr)); gap: .8rem; }
+  .tph-big { grid-row: span 2; display: flex; flex-direction: column; gap: .5rem; padding: 1.6rem; border-radius: 24px; background: var(--tp-brown); color: var(--tp-on-dark); }
+  .tph-big-kicker { margin: 0; font-size: .85rem; font-weight: 700; display: flex; align-items: center; gap: .35rem; }
+  .tph-big-title { margin: .4rem 0 0; font-family: var(--font-display); font-size: clamp(1.6rem, 3.6vw, 2.3rem); font-weight: 800; line-height: 1.15; color: #fff; overflow-wrap: anywhere; }
+  .tph-big-sub { margin: 0; line-height: 1.6; opacity: .9; }
+  .tph-big-link { align-self: flex-start; margin-top: auto; padding: .55rem 1rem; border-radius: var(--r-pill); background: var(--tp-on-dark); color: #3a1c08; font-weight: 700; font-size: .88rem; text-decoration: none; }
+  .tph-big-link--plain { background: var(--tp-sand); color: var(--ink); margin-top: 0; }
+  .tph-cell { padding: 1.1rem 1.2rem; border-radius: 20px; background: var(--tp-cream); border: 1px solid var(--line-soft, var(--line)); min-width: 0; }
+  .tph-cell--warn { background: var(--tp-peach); border-color: transparent; }
+  .tph-cell-kicker { margin: 0 0 .3rem; font-size: .78rem; font-weight: 700; color: var(--muted); }
+  .tph-cell-title { margin: 0 0 .3rem; font-weight: 800; color: var(--ink); line-height: 1.35; }
+  .tph-cell-sub { margin: 0; font-size: .88rem; line-height: 1.6; color: var(--ink-soft); }
+  .tph-cell--step { position: relative; padding-top: 2.8rem; }
+  .tph-step { position: absolute; top: 1rem; left: 1.2rem; width: 1.6rem; height: 1.6rem; border-radius: 50%; display: grid; place-items: center; background: var(--tp-peach); color: var(--accent-text); font-weight: 800; font-size: .85rem; }
+
+  .tph-egrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 14rem), 1fr)); gap: .8rem; }
+  .tph-num { display: flex; flex-direction: column; gap: .25rem; padding: 1.2rem 1.3rem; border-radius: 22px; background: var(--tp-cream); border: 1px solid var(--line-soft, var(--line)); color: var(--ink); text-decoration: none; }
+  .tph-num:first-child { background: var(--tp-brown); color: var(--tp-on-dark); border-color: var(--tp-brown); }
+  .tph-num:hover { border-color: var(--accent); }
+  .tph-num-label { font-size: .82rem; font-weight: 700; opacity: .85; }
+  .tph-num-n { font-family: var(--font-display); font-size: clamp(1.7rem, 4vw, 2.3rem); line-height: 1.1; letter-spacing: -0.01em; overflow-wrap: anywhere; }
+  /* A long line (050-3816-2787) broke mid-number at the display size. */
+  .tph-num-n--long { font-size: clamp(1.25rem, 2.6vw, 1.5rem); white-space: nowrap; }
+  .tph-num-note { font-size: .82rem; line-height: 1.5; opacity: .85; }
+  .tph-num-go { margin-top: auto; padding-top: .4rem; font-size: .82rem; font-weight: 700; color: var(--accent-text); }
+  .tph-num:first-child .tph-num-go { color: #f2b48a; }
+  .tph-num--ko { background: var(--tp-peach); border-color: transparent; }
+  .tph-eactions { grid-column: 1 / -1; display: flex; flex-wrap: wrap; gap: .6rem; align-items: center; }
+  .tph-save { font: inherit; font-weight: 700; font-size: .9rem; padding: .6rem 1.1rem; border-radius: var(--r-pill); border: 0; background: var(--tp-brown); color: var(--tp-on-dark); cursor: pointer; }
+
+  .tph-months { margin-top: .8rem; }
+  .tph-mgrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr)); gap: .8rem; }
+  .tph-mcol { padding: 1.2rem 1.3rem; border-radius: 22px; background: var(--tp-cream); border: 1px solid var(--line-soft, var(--line)); }
+  .tph-mcol--best { background: var(--tp-leaf); border-color: transparent; }
+  .tph-mcol--avoid { background: var(--tp-red); border-color: transparent; }
+  .tph-mcol h3 { margin: 0 0 .7rem; font-size: 1rem; font-weight: 800; color: var(--ink); }
+  .tph-mcol ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: .4rem; }
+  .tph-mcol a { display: inline-flex; align-items: center; gap: .35rem; padding: .35rem .75rem; border-radius: var(--r-pill); background: var(--surface); color: var(--ink); text-decoration: none; font-weight: 700; font-size: .88rem; }
+  .tph-mcol a:hover { color: var(--accent-text); }
+
+  .tph-sit { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.3fr); gap: .8rem; }
+  .tph-sit-list { display: flex; flex-direction: column; gap: .45rem; }
+  .tph-sit-btn { font: inherit; text-align: left; font-weight: 700; padding: .85rem 1.1rem; border-radius: 16px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); cursor: pointer; }
+  .tph-sit-btn[aria-pressed='true'] { background: var(--tp-brown); color: var(--tp-on-dark); border-color: var(--tp-brown); }
+  .tph-sit-card { padding: 1.6rem; border-radius: 24px; background: var(--tp-cream); border: 1px solid var(--line-soft, var(--line)); }
+  .tph-sit-kicker { margin: 0; font-size: .8rem; font-weight: 700; color: var(--muted); }
+  .tph-sit-card h3 { margin: .3rem 0 .6rem; font-family: var(--font-display); font-size: clamp(1.4rem, 3vw, 1.9rem); font-weight: 800; color: var(--ink); }
+  .tph-sit-card p { margin: 0; line-height: 1.7; color: var(--ink-soft); }
+  .tph-sit-card dl { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .6rem; margin: 1.1rem 0 0; }
+  .tph-sit-card dl div { padding: .8rem 1rem; border-radius: 16px; background: var(--surface); }
+  .tph-sit-card dt { font-size: .78rem; font-weight: 700; color: var(--muted); }
+  .tph-sit-card dd { margin: .2rem 0 0; font-weight: 700; color: var(--ink); line-height: 1.45; }
+
+  .tph-intro { margin-bottom: 1rem; }
+  .tph-intro :global(blockquote) { margin: 0; padding: .9rem 1.1rem; border-radius: 16px; background: var(--tp-sand); border: 0; color: var(--ink-soft); font-size: .92rem; }
+  .tph-intro :global(blockquote p) { margin: 0; }
+  .tph-basics { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .8rem; }
+  .tph-basics--odd .tph-basic:first-child { grid-column: 1 / -1; }
+  .tph-basic { padding: 1.4rem 1.5rem; border-radius: 22px; background: var(--tp-cream); border: 1px solid var(--line-soft, var(--line)); min-width: 0; }
+  .tph-basic-n { display: grid; place-items: center; width: 2rem; height: 2rem; border-radius: 50%; background: var(--tp-peach); color: var(--accent-text); font-weight: 800; }
+  .tph-basic:first-child .tph-basic-n { background: var(--tp-brown); color: var(--tp-on-dark); }
+  .tph-basic h3 { margin: .7rem 0 .4rem; font-size: 1.12rem; font-weight: 800; color: var(--ink); }
+  .tph-basic .prose { font-size: .95rem; }
+  .tph-basic .prose :global(p) { margin: 0 0 .7rem; line-height: 1.7; }
+  .tph-basic .prose :global(p:last-child) { margin-bottom: 0; }
+
+  .tph-search { font: inherit; font-size: .92rem; padding: .55rem 1rem; border-radius: var(--r-pill); border: 1px solid var(--line); background: var(--surface); color: var(--ink); min-width: min(100%, 15rem); }
+  /* position: the month cells' sr-only labels are absolutely placed; without
+     a positioned box they escaped the scroller and widened the phone page. */
+  .tph-table-wrap { position: relative; overflow-x: auto; border-radius: 22px; border: 1px solid var(--line-soft, var(--line)); background: var(--tp-cream); }
+  .tph-table { width: 100%; border-collapse: collapse; font-size: .92rem; }
+  .tph-table th, .tph-table td { padding: .8rem 1rem; text-align: left; vertical-align: top; border-bottom: 1px solid var(--line-soft, var(--line)); }
+  .tph-table thead th { background: var(--tp-sand); font-size: .8rem; font-weight: 700; color: var(--muted); white-space: nowrap; }
+  .tph-table tbody tr:last-child th, .tph-table tbody tr:last-child td { border-bottom: 0; }
+  .tph-table tbody th a { display: inline-flex; align-items: center; gap: .4rem; color: var(--ink); font-weight: 800; text-decoration: none; white-space: nowrap; }
+  .tph-table tbody th a:hover { color: var(--accent-text); }
+  .tph-table tbody th a::after { content: ' →'; }
+  .tph-table tbody tr[hidden] { display: none; }
+  .tph-pill { display: inline-block; padding: .2rem .65rem; border-radius: 12px; background: var(--tp-leaf); font-weight: 700; color: var(--ink); line-height: 1.4; }
+  .tph-detail { color: var(--ink-soft); line-height: 1.55; }
+  .tph-tel { display: inline-block; margin-right: .5rem; font-weight: 800; color: var(--accent-text); text-decoration: none; white-space: nowrap; }
+  .tph-other { display: block; }
+  .tph-other small { color: var(--muted); }
+  .tph-table--season th, .tph-table--season td { padding: .55rem .35rem; }
+  .tph-table--season tbody th { padding-left: 1rem; }
+  .tph-m { text-align: center !important; min-width: 2.2rem; }
+  td.tph-m::before { content: ''; display: block; height: 1.35rem; border-radius: 6px; background: var(--line-soft, var(--line)); }
+  td.tph-m--best::before, .tph-legend .tph-m--best { background: #7da453; }
+  td.tph-m--busy::before, .tph-legend .tph-m--busy { background: #e2b25c; }
+  td.tph-m--avoid::before, .tph-legend .tph-m--avoid { background: #d9826a; }
+  .tph-legend { list-style: none; display: flex; flex-wrap: wrap; gap: .4rem 1rem; padding: 0; margin: .8rem 0 0; font-size: .85rem; color: var(--muted); }
+  .tph-legend li { display: inline-flex; align-items: center; gap: .4rem; }
+  .tph-legend span { width: 1rem; height: 1rem; border-radius: 4px; background: var(--line-soft, var(--line)); }
+  .tph-empty { color: var(--muted); margin: .8rem 0 0; }
+
+  .tph-lug { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 15rem), 1fr)); gap: .6rem; }
+  .tph-lug a { display: flex; align-items: center; gap: .6rem; padding: 1rem 1.2rem; border-radius: 18px; background: var(--tp-cream); border: 1px solid var(--line-soft, var(--line)); color: var(--ink); font-weight: 800; text-decoration: none; }
+  .tph-lug a:hover { border-color: var(--accent); color: var(--accent-text); }
+
+  .tph-cta { position: relative; overflow: hidden; margin-top: 2.8rem; display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); gap: 1.5rem; align-items: center; padding: 2.2rem; border-radius: 28px; background: var(--tp-brown); color: var(--tp-on-dark); }
+  .tph-cta h2 { margin: 0 0 .5rem; font-family: var(--font-display); font-size: clamp(1.35rem, 3vw, 1.8rem); font-weight: 800; color: #fff; }
+  .tph-cta p { margin: 0; line-height: 1.65; opacity: .92; }
+  .tph-cta-links { display: flex; flex-direction: column; gap: .55rem; }
+  .tph-cta-link { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: .85rem 1.3rem; border-radius: var(--r-pill); background: var(--tp-on-dark); color: #3a1c08; font-weight: 800; text-decoration: none; }
+  .tph-cta-link + .tph-cta-link { background: rgba(255, 255, 255, .14); color: #fff; }
+  .tph-cta-link small { font-weight: 600; opacity: .75; white-space: nowrap; }
+  .tph-cta-link:hover { filter: brightness(1.05); }
+  .tph-aff { font-size: .78rem; text-align: center; opacity: .75 !important; }
+
+  .tph-faq { display: grid; grid-template-columns: minmax(0, .8fr) minmax(0, 1.2fr); gap: 1.5rem; align-items: start; }
+  .tph-faq-list { display: flex; flex-direction: column; gap: .6rem; }
+  .tph-faq details { border-radius: 20px; background: var(--tp-cream); border: 1px solid var(--line-soft, var(--line)); padding: 0 1.3rem; }
+  .tph-faq summary { cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center; gap: 1rem; padding: 1.05rem 0; font-weight: 800; color: var(--ink); }
+  .tph-faq summary::-webkit-details-marker { display: none; }
+  .tph-faq summary::after { content: '+'; flex: none; width: 1.7rem; height: 1.7rem; border-radius: 50%; display: grid; place-items: center; background: var(--tp-sand); font-weight: 800; }
+  .tph-faq details[open] summary::after { content: '−'; background: var(--tp-brown); color: var(--tp-on-dark); }
+  .tph-faq details p { margin: 0 0 1.1rem; line-height: 1.7; color: var(--ink-soft); }
+
+  .tph-more-title { font-size: .95rem; font-weight: 700; color: var(--muted); margin: 0 0 .8rem; }
+  .tph-rel { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: .6rem; }
+  .tph-rel a { display: flex; flex-direction: column; gap: .3rem; height: 100%; padding: 1rem 1.1rem; border-radius: 20px; background: var(--tp-cream); border: 1px solid var(--line-soft, var(--line)); color: var(--ink); text-decoration: none; }
+  .tph-rel a:hover { border-color: var(--accent); }
+  .tph-rel strong { font-size: .95rem; }
+  .tph-rel span { font-size: .82rem; color: var(--muted); line-height: 1.45; }
+
+  .tph [hidden] { display: none !important; }
+
+  @media (max-width: 959px) {
+    .tph-pgrid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .tph-big { grid-column: 1 / -1; grid-row: auto; }
+    .tph-rel { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .tph-faq { grid-template-columns: 1fr; gap: .5rem; }
+  }
+  @media (max-width: 719px) {
+    .tph-hero { grid-template-columns: 1fr; padding: 1.8rem 1.4rem; }
+    .tph-hero-art { display: none; }
+    .tph-quick { grid-template-columns: 1fr; gap: .5rem; padding: 1.1rem 1.2rem; }
+    .tph-pgrid, .tph-basics, .tph-sit, .tph-cta, .tph-sit-card dl { grid-template-columns: 1fr; }
+    .tph-chips:not(.tph-chips--small) { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; padding-bottom: .2rem; }
+    .tph-chip { flex: 0 0 auto; }
+    .tph-cta { padding: 1.6rem 1.3rem; }
+    .tph-rel { grid-template-columns: 1fr; }
+    .tph-table th, .tph-table td { padding: .7rem .75rem; }
+    /* Three squeezed columns read badly on a phone: each country becomes a card. */
+    .tph-table:not(.tph-table--season) thead { display: none; }
+    .tph-table:not(.tph-table--season) tr { display: block; padding: .8rem 1rem; border-bottom: 1px solid var(--line-soft, var(--line)); }
+    .tph-table:not(.tph-table--season) tbody tr:last-child { border-bottom: 0; }
+    .tph-table:not(.tph-table--season) th, .tph-table:not(.tph-table--season) td { display: block; padding: .15rem 0; border: 0; }
+    .tph-table td[data-label]::before { content: attr(data-label); display: block; font-size: .75rem; font-weight: 700; color: var(--muted); margin-top: .35rem; }
+    .tph-table td.tph-nil { display: none; }
+    /* The 12-month grid scrolls sideways; the country stays in view. */
+    .tph-table--season tbody th { position: sticky; left: 0; z-index: 1; background: var(--tp-cream); }
+  }
+</style>

@@ -33,6 +33,8 @@ test('no src/i18n JSON store carries tool-call spill', () => {
       // (regions.json Chicago.zh held `{"blurb": "…", "getting": …}`).
       for (const v of Object.values(obj)) {
         if (typeof v === 'string' && /^\s*\{\s*"[A-Za-z_]+"\s*:/.test(v)) hits.push(`${f}: ${v.slice(0, 60)}`);
+        // The web-search tool's citation markup (47 region intros, 10-01).
+        if (typeof v === 'string' && /<\/?cite\b/i.test(v)) hits.push(`${f}: cite tag in …${v.slice(0, 60)}`);
       }
     }
   }
