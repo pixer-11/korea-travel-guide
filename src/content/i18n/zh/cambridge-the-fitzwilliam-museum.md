@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: cambridge-the-fitzwilliam-museum
-srcHash: '113109a72b31'
+srcHash: 'd794f3481622'
 title: 菲茨威廉博物馆：剑桥旅行指南（4.7★）
-description: 菲茨威廉博物馆（The Fitzwilliam Museum）位于特兰平顿街，是剑桥大学的艺术与古物博物馆，从国王学院往南步行10分钟即到。评分4.7★（9,489条评价），本文整理了游客评价、开放时间和参观建议。
+description: 菲茨威廉博物馆（The Fitzwilliam Museum）位于特兰平顿街，是剑桥大学的艺术与古物博物馆，从国王学院往南步行10分钟即到。评分4.7★（9,491条评价），本文整理了游客评价、开放时间和参观建议。
 quickAnswer: 菲茨威廉博物馆（The Fitzwilliam Museum）是剑桥大学的艺术与古物博物馆，坐落在特兰平顿街（Trumpington Street）上，从国王学院往南步行10分钟即到。参观一趟建议预留两到三小时。注意周一闭馆，周日中午才开门。周末上午11点至下午5点人最多，最好错开。想在清静的展厅里慢慢看，可以选周二至周五的任意一天，或者周六上午10点开馆时就进场。
 faq:
   - q: 什么时候去菲茨威廉博物馆人最少？

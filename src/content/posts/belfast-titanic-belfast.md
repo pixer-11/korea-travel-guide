@@ -1,59 +1,88 @@
 ---
-title: "Titanic: Belfast Travel Guide (4.5★)"
-description: "Titanic Belfast is a self-guided museum in Belfast's Titanic Quarter, built on the Harland & Wolff slipways where the ship was constructed. 4.5★ (43,310 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Belfast"
-category: "attraction"
-pubDate: "2026-09-30T14:16:49.124Z"
+title: 'Titanic: Belfast Travel Guide (4.5★)'
+description: >-
+  Titanic Belfast is a self-guided museum in Belfast's Titanic Quarter, built on
+  the Harland & Wolff slipways where the ship was constructed. 4.5★ (43,316
+  reviews) — what visitors say, hours, and tips.
+country: United Kingdom
+region: Belfast
+category: attraction
+pubDate: '2026-09-30T14:16:49.124Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Titanic_Belfast_HDR.jpg"
-  credit: "Photo: Own work / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Titanic_Belfast_HDR.jpg"
+  url: 'https://upload.wikimedia.org/wikipedia/commons/c/c0/Titanic_Belfast_HDR.jpg'
+  credit: 'Photo: Own work / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Titanic_Belfast_HDR.jpg'
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/4/44/Titanic_Belfast_side_view.jpg"
-    credit: "Photo: Own work / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Titanic_Belfast_side_view.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/4/44/Titanic_Belfast_side_view.jpg
+    credit: 'Photo: Own work / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Titanic_Belfast_side_view.jpg'
 place:
-  id: "ChIJcYljJ7AJYUgREnKW65tyJUw"
-  name: "Titanic Belfast"
-  address: "1 Olympic Wy, Belfast BT3 9EP, UK"
+  id: ChIJcYljJ7AJYUgREnKW65tyJUw
+  name: Titanic Belfast
+  address: '1 Olympic Wy, Belfast BT3 9EP, UK'
   rating: 4.5
-  userRatingsTotal: 43310
-  googleMapsUrl: "https://maps.google.com/?cid=5486917735018820114&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 43316
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5486917735018820114&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 54.608110599999996
   lng: -5.909951100000001
-  phone: "+44 28 9076 6386"
+  phone: +44 28 9076 6386
   openingHours:
-    - "Monday: 8:30 AM – 6:00 PM"
-    - "Tuesday: 8:30 AM – 6:00 PM"
-    - "Wednesday: 8:30 AM – 6:00 PM"
-    - "Thursday: 8:30 AM – 6:00 PM"
-    - "Friday: 8:30 AM – 6:00 PM"
-    - "Saturday: 8:30 AM – 6:00 PM"
-    - "Sunday: 8:30 AM – 6:00 PM"
+    - 'Monday: 8:30 AM – 6:00 PM'
+    - 'Tuesday: 8:30 AM – 6:00 PM'
+    - 'Wednesday: 8:30 AM – 6:00 PM'
+    - 'Thursday: 8:30 AM – 6:00 PM'
+    - 'Friday: 8:30 AM – 6:00 PM'
+    - 'Saturday: 8:30 AM – 6:00 PM'
+    - 'Sunday: 8:30 AM – 6:00 PM'
 tags:
-  - "belfast"
-  - "top attraction"
-quickAnswer: "Titanic Belfast is a self-guided museum in Belfast's Titanic Quarter, built on the Harland & Wolff slipways where the ship was constructed. It has nine galleries, it's open daily from 8:30am to 6pm, and most visitors need two to three hours. Book a timed slot online and aim for the first entry of the day to get ahead of the tour coaches."
+  - belfast
+  - top attraction
+quickAnswer: >-
+  Titanic Belfast is a self-guided museum in Belfast's Titanic Quarter, built on
+  the Harland & Wolff slipways where the ship was constructed. It has nine
+  galleries, it's open daily from 8:30am to 6pm, and most visitors need two to
+  three hours. Book a timed slot online and aim for the first entry of the day
+  to get ahead of the tour coaches.
 faq:
-  - q: "How do I get to Titanic Belfast from the city centre?"
-    a: "Take the Glider G2 bus, which stops close to the building. You can also take the train to Titanic Quarter station on the Bangor line and walk 10 to 15 minutes. Walking from City Hall along the River Lagan takes about 25 minutes."
-  - q: "How long should I spend at Titanic Belfast?"
-    a: "Allow two to three hours for the nine galleries. Add another hour or two if you also want to see SS Nomadic, Thompson Dock and the Titanic Hotel's Drawing Offices."
-  - q: "What are the opening hours, and when should I arrive?"
-    a: "It opens every day from 8:30am to 6pm. Book a timed slot online. The first entry of the day usually puts you ahead of the coach and cruise groups. Check the last entry time, which is earlier than closing."
-  - q: "Is SS Nomadic part of the visit?"
-    a: "SS Nomadic, the White Star Line tender that carried passengers out to Titanic at Cherbourg, is moored in Hamilton Dock next door. Check the official Titanic Belfast website to see whether your ticket type includes it."
-  - q: "What else is nearby in Titanic Quarter?"
-    a: "Close by you'll find the marked-out Titanic slipways, Thompson Dock and Pump-House, the Titanic Hotel in the old Harland & Wolff Drawing Offices, and the Samson and Goliath cranes. The Titanic Memorial at City Hall is back in the city centre."
+  - q: How do I get to Titanic Belfast from the city centre?
+    a: >-
+      Take the Glider G2 bus, which stops close to the building. You can also
+      take the train to Titanic Quarter station on the Bangor line and walk 10
+      to 15 minutes. Walking from City Hall along the River Lagan takes about 25
+      minutes.
+  - q: How long should I spend at Titanic Belfast?
+    a: >-
+      Allow two to three hours for the nine galleries. Add another hour or two
+      if you also want to see SS Nomadic, Thompson Dock and the Titanic Hotel's
+      Drawing Offices.
+  - q: 'What are the opening hours, and when should I arrive?'
+    a: >-
+      It opens every day from 8:30am to 6pm. Book a timed slot online. The first
+      entry of the day usually puts you ahead of the coach and cruise groups.
+      Check the last entry time, which is earlier than closing.
+  - q: Is SS Nomadic part of the visit?
+    a: >-
+      SS Nomadic, the White Star Line tender that carried passengers out to
+      Titanic at Cherbourg, is moored in Hamilton Dock next door. Check the
+      official Titanic Belfast website to see whether your ticket type includes
+      it.
+  - q: What else is nearby in Titanic Quarter?
+    a: >-
+      Close by you'll find the marked-out Titanic slipways, Thompson Dock and
+      Pump-House, the Titanic Hotel in the old Harland & Wolff Drawing Offices,
+      and the Samson and Goliath cranes. The Titanic Memorial at City Hall is
+      back in the city centre.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-30'
 ---
 
 ## A silver hull on Queen's Island

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: cappadocia-kaymakli-underground-city
-srcHash: '02f5926d7484'
+srcHash: 'd7ac59ca7079'
 title: 卡伊马克利地下城：卡帕多奇亚旅行指南（4.7★）
-description: 卡伊马克利地下城（Kaymakli Underground City）位于卡帕多奇亚的卡伊马克利小镇地下，在内夫谢希尔（Nevşehir）以南约20km处，每天8:00 AM至7:15 PM开放。4.7★（21,203条评价），本文汇总游客评价、开放时间和实用贴士。
+description: 卡伊马克利地下城（Kaymakli Underground City）位于卡帕多奇亚的卡伊马克利小镇地下，在内夫谢希尔（Nevşehir）以南约20km处，每天8:00 AM至7:15 PM开放。4.7★（21,206条评价），本文汇总游客评价、开放时间和实用贴士。
 quickAnswer: 卡伊马克利地下城位于卡帕多奇亚的卡伊马克利（Kaymaklı）小镇地下，在内夫谢希尔以南约20km处，每天8:00 AM至7:15 PM开放。工作日游客最少。10am到5pm之间旅行团扎堆，隧道里人挤人，所以周末最好赶在10am之前或5pm之后到。
 faq:
   - q: 什么时候去卡伊马克利地下城人最少？

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: glasgow-riverside-museum
-srcHash: '941c397cf7ae'
+srcHash: '30f204fcef2d'
 title: 格拉斯哥河滨博物馆旅行指南（4.7★）
-description: 河滨博物馆（Riverside Museum）位于格拉斯哥帕蒂克区的波因特豪斯码头（Pointhouse Quay），就在凯尔文河汇入克莱德河的地方。从帕蒂克站步行过去约需10至15分钟。4.7★（21,206条评价），本文汇总游客评价、开放时间和参观建议。
+description: 河滨博物馆（Riverside Museum）位于格拉斯哥帕蒂克区的波因特豪斯码头（Pointhouse Quay），就在凯尔文河汇入克莱德河的地方。从帕蒂克站步行过去约需10至15分钟。4.7★（21,209条评价），本文汇总游客评价、开放时间和参观建议。
 quickAnswer: 河滨博物馆（Riverside Museum）位于格拉斯哥帕蒂克区的波因特豪斯码头（Pointhouse Quay），就在凯尔文河与克莱德河交汇处，从帕蒂克站（Partick）步行约10至15分钟。工作日人最少，从上午10点到下午5点整个开放时段都很清静（周五上午11点才开门）。周末上午11点至下午5点最为拥挤，周六去的话最好赶在上午10点开门时入场。
 faq:
   - q: 什么时候去河滨博物馆人最少？

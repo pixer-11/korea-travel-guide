@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: hue-an-dinh-palace
-srcHash: '5b16c3452912'
+srcHash: '9a4d221b26b5'
 title: 'Palacio An Dinh: guía de viaje de Hue (4.5★)'
-description: El Palacio An Dinh se encuentra en el 179 de Phan Đình Phùng, en el barrio de Thuận Hóa, al sur del río de los Perfumes, en Hue. Con 4.5★ (3,253 reseñas), le contamos qué opinan los visitantes, cuál es el horario y qué conviene saber antes de ir.
+description: El Palacio An Dinh se encuentra en el 179 de Phan Đình Phùng, en el barrio de Thuận Hóa, al sur del río de los Perfumes, en Hue. Con 4.5★ (3,254 reseñas), le contamos qué opinan los visitantes, cuál es el horario y qué conviene saber antes de ir.
 quickAnswer: En el 179 de Phan Đình Phùng, en el barrio de Thuận Hóa y al sur del río de los Perfumes, se levanta el Palacio An Dinh de Hue. A comienzos del siglo XX fue la residencia de los últimos emperadores de Vietnam. Hoy el visitante puede recorrer sus estancias de época restauradas y contemplar obras de arte. Abre todos los días de 7am a 5pm. Los fines de semana la afluencia alcanza su punto máximo entre las 8am–11am, así que conviene evitar esa franja.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Palacio An Dinh?

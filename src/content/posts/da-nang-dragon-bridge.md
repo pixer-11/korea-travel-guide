@@ -1,68 +1,95 @@
 ---
-title: "Dragon Bridge: Da Nang Travel Guide (4.5★)"
-description: "Dragon Bridge (Cầu Rồng) crosses the Han River in central Da Nang, linking the city-centre riverfront to An Hai on the east bank. 4.5★ (9,583 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Da Nang"
-category: "hidden-gem"
-pubDate: "2026-09-30T07:41:03.072Z"
+title: 'Dragon Bridge: Da Nang Travel Guide (4.5★)'
+description: >-
+  Dragon Bridge (Cầu Rồng) crosses the Han River in central Da Nang, linking the
+  city-centre riverfront to An Hai on the east bank. 4.5★ (9,591 reviews) — what
+  visitors say, hours, and tips.
+country: Vietnam
+region: Da Nang
+category: hidden-gem
+pubDate: '2026-09-30T07:41:03.072Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Da_Nang_Dragon_Bridge_%28I%29.jpg/3840px-Da_Nang_Dragon_Bridge_%28I%29.jpg"
-  credit: "Photo: Supanut Arunoprayote / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Da_Nang_Dragon_Bridge_(I).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Da_Nang_Dragon_Bridge_%28I%29.jpg/3840px-Da_Nang_Dragon_Bridge_%28I%29.jpg
+  credit: 'Photo: Supanut Arunoprayote / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Da_Nang_Dragon_Bridge_(I).jpg'
+  via: act
   focus:
     x: 40
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Da_Nang_Dragon_Bridge.jpg/3840px-Da_Nang_Dragon_Bridge.jpg"
-    credit: "Photo: Person-with-No Name / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Da_Nang_Dragon_Bridge.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Da_Nang_Dragon_Bridge.jpg/3840px-Da_Nang_Dragon_Bridge.jpg
+    credit: 'Photo: Person-with-No Name / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Da_Nang_Dragon_Bridge.jpg'
 place:
-  id: "ChIJL1GKWJYZQjERLrEGqlK2kwQ"
-  name: "Dragon Bridge"
-  address: "Cầu Rồng, An Hải, Đà Nẵng 550000, Vietnam"
+  id: ChIJL1GKWJYZQjERLrEGqlK2kwQ
+  name: Dragon Bridge
+  address: 'Cầu Rồng, An Hải, Đà Nẵng 550000, Vietnam'
   rating: 4.5
-  userRatingsTotal: 9583
-  googleMapsUrl: "https://maps.google.com/?cid=329807663884316974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 9591
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=329807663884316974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 16.0611042
   lng: 108.2276926
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-09-30
+    updated: 2026-09-30T00:00:00.000Z
     weekendBusy:
       - 18
       - 19
       - 20
       - 21
       - 22
-    venueId: "ven_51776b324b6c714745724c52456a515a594a574b47314c4a496843"
+    venueId: ven_51776b324b6c714745724c52456a515a594a574b47314c4a496843
 tags:
-  - "da nang"
-  - "old quarter"
-quickAnswer: "Dragon Bridge (Cầu Rồng) crosses the Han River in central Da Nang, linking the city-centre riverfront to An Hai on the east bank. It is free and open 24 hours. The main draw is the weekend fire-and-water show from the dragon's head, but try not to arrive between 6pm and 11pm on weekends unless you are there for the show, because those are the busiest hours."
+  - da nang
+  - old quarter
+quickAnswer: >-
+  Dragon Bridge (Cầu Rồng) crosses the Han River in central Da Nang, linking the
+  city-centre riverfront to An Hai on the east bank. It is free and open 24
+  hours. The main draw is the weekend fire-and-water show from the dragon's
+  head, but try not to arrive between 6pm and 11pm on weekends unless you are
+  there for the show, because those are the busiest hours.
 faq:
-  - q: "When does Dragon Bridge breathe fire?"
-    a: "On Saturday and Sunday nights. The show has long been held at 9pm, first fire and then water from the head at the eastern end. It can be cancelled on some holidays, so check locally that day."
-  - q: "When is the busiest time to visit Dragon Bridge?"
-    a: "Weekends from 6pm to 11pm are the busiest hours. If you only want to see the lit-up bridge rather than the show, a weeknight is less crowded."
-  - q: "Where is the best spot to watch the fire show?"
-    a: "The east bank beside the dragon's head in An Hai is closest, but you will get soaked by the water spray. The west bank riverfront on Bach Dang Street gives a dry view of the whole bridge, and a river cruise puts you underneath it."
-  - q: "Can you walk across Dragon Bridge?"
-    a: "Yes. It is open 24 hours with walkways beside the traffic lanes. The 666-metre crossing takes about fifteen minutes on foot."
-  - q: "What is near Dragon Bridge?"
-    a: "The Museum of Cham Sculpture is at the western end. The Carp Transforming into Dragon statue and the Love Lock Bridge are on the east bank just north. Han Market is up Bach Dang Street, and My Khe Beach is about two kilometres east."
+  - q: When does Dragon Bridge breathe fire?
+    a: >-
+      On Saturday and Sunday nights. The show has long been held at 9pm, first
+      fire and then water from the head at the eastern end. It can be cancelled
+      on some holidays, so check locally that day.
+  - q: When is the busiest time to visit Dragon Bridge?
+    a: >-
+      Weekends from 6pm to 11pm are the busiest hours. If you only want to see
+      the lit-up bridge rather than the show, a weeknight is less crowded.
+  - q: Where is the best spot to watch the fire show?
+    a: >-
+      The east bank beside the dragon's head in An Hai is closest, but you will
+      get soaked by the water spray. The west bank riverfront on Bach Dang
+      Street gives a dry view of the whole bridge, and a river cruise puts you
+      underneath it.
+  - q: Can you walk across Dragon Bridge?
+    a: >-
+      Yes. It is open 24 hours with walkways beside the traffic lanes. The
+      666-metre crossing takes about fifteen minutes on foot.
+  - q: What is near Dragon Bridge?
+    a: >-
+      The Museum of Cham Sculpture is at the western end. The Carp Transforming
+      into Dragon statue and the Love Lock Bridge are on the east bank just
+      north. Han Market is up Bach Dang Street, and My Khe Beach is about two
+      kilometres east.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-30'
 ---
 
 ## A steel dragon over the Han

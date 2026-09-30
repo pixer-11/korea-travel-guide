@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: cardiff-cardiff-castle
-srcHash: 'a7d193792d92'
+srcHash: '25ad5f05ef2f'
 title: 카디프 성 여행 가이드 (4.6★)
 description: 카디프 성은 카디프 도심의 캐슬 스트리트에 있으며, 카디프 센트럴역과 퀸 스트리트역에서 모두 걸어서 금방입니다. 리뷰 23,101개에 평점 4.6★를 받은 이곳의 방문객 평가와 운영 시간, 관람 팁을 정리했습니다.
 quickAnswer: 카디프 성(Cardiff Castle)은 카디프 도심의 캐슬 스트리트(Castle Street)에 있습니다. 카디프 센트럴역(Cardiff Central)과 퀸 스트리트역(Queen Street)에서 모두 걸어서 금방입니다. 한곳에서 로마 시대 성벽과 노르만 시대 성채, 윌리엄 버지스가 화려하게 꾸민 빅토리아 시대 고딕 양식 실내를 함께 볼 수 있습니다. 매일 5pm까지 문을 엽니다. 평일에는 10am–11am, 주말에는 9am–10am이 가장 한산합니다. 주말 11am–5pm에는 사람이 몰리니 그 전에 도착하는 것이 좋습니다.

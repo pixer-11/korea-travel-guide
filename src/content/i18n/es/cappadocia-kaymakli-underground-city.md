@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: cappadocia-kaymakli-underground-city
-srcHash: '02f5926d7484'
+srcHash: 'd7ac59ca7079'
 title: 'Ciudad subterránea de Kaymaklı: guía de viaje por Capadocia (4.7★)'
-description: Bajo la localidad de Kaymaklı, en Capadocia y a unos 20km al sur de Nevşehir, se esconde esta ciudad subterránea, abierta todos los días de 8:00 AM a 7:15 PM. Con 4.7★ (21,203 reseñas), le contamos qué opinan los visitantes, cuáles son los horarios y qué conviene saber.
+description: Bajo la localidad de Kaymaklı, en Capadocia y a unos 20km al sur de Nevşehir, se esconde esta ciudad subterránea, abierta todos los días de 8:00 AM a 7:15 PM. Con 4.7★ (21,206 reseñas), le contamos qué opinan los visitantes, cuáles son los horarios y qué conviene saber.
 quickAnswer: La ciudad subterránea de Kaymaklı se extiende bajo la localidad del mismo nombre, en Capadocia, a unos 20km al sur de Nevşehir, y abre todos los días de 8:00 AM a 7:15 PM. Entre semana es cuando hay más tranquilidad. Los fines de semana, entre las 10am y las 5pm, los grupos organizados llenan los túneles, así que lo ideal es llegar antes de las 10am o después de las 5pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la ciudad subterránea de Kaymaklı?

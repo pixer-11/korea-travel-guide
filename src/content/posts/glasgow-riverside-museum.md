@@ -1,40 +1,45 @@
 ---
-title: "Riverside Museum: Glasgow Travel Guide (4.7★)"
-description: "Riverside Museum sits on Pointhouse Quay in Glasgow's Partick area, where the River Kelvin meets the Clyde, about a 10 to 15 minute walk from Partick Station. 4.7★ (21,206 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Glasgow"
-category: "attraction"
-pubDate: "2026-09-30T14:10:11.944Z"
+title: 'Riverside Museum: Glasgow Travel Guide (4.7★)'
+description: >-
+  Riverside Museum sits on Pointhouse Quay in Glasgow's Partick area, where the
+  River Kelvin meets the Clyde, about a 10 to 15 minute walk from Partick
+  Station. 4.7★ (21,209 reviews) — what visitors say, hours, and tips.
+country: United Kingdom
+region: Glasgow
+category: attraction
+pubDate: '2026-09-30T14:10:11.944Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Riverside_Museum_Glasgow_EC2018.jpg/1920px-Riverside_Museum_Glasgow_EC2018.jpg"
-  credit: "Photo: Cutkiller2018 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Riverside_Museum_Glasgow_EC2018.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Riverside_Museum_Glasgow_EC2018.jpg/1920px-Riverside_Museum_Glasgow_EC2018.jpg
+  credit: 'Photo: Cutkiller2018 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Riverside_Museum_Glasgow_EC2018.jpg'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJ7zFC8tBFiEgRA1AWs9n2fAs"
-  name: "Riverside Museum"
-  address: "100 Pointhouse Rd, Glasgow G3 8RS, UK"
+  id: ChIJ7zFC8tBFiEgRA1AWs9n2fAs
+  name: Riverside Museum
+  address: '100 Pointhouse Rd, Glasgow G3 8RS, UK'
   rating: 4.7
-  userRatingsTotal: 21206
-  googleMapsUrl: "https://maps.google.com/?cid=827807846402248707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 21209
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=827807846402248707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 55.865103
   lng: -4.3062062
-  phone: "+44 141 287 2720"
+  phone: +44 141 287 2720
   openingHours:
-    - "Monday: 10:00 AM – 5:00 PM"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 11:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 11:00 AM – 5:00 PM"
+    - 'Monday: 10:00 AM – 5:00 PM'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 11:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 11:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-09-30
+    updated: 2026-09-30T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 16
@@ -45,24 +50,44 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_734166326e397357413141526745694642743843467a374a496843"
+    venueId: ven_734166326e397357413141526745694642743843467a374a496843
 tags:
-  - "glasgow"
-  - "top attraction"
-quickAnswer: "Riverside Museum sits on Pointhouse Quay in Glasgow's Partick area, where the River Kelvin meets the Clyde, about a 10 to 15 minute walk from Partick Station. It's quietest on weekdays across its full 10am–5pm opening (Fridays open at 11am). Weekends are busiest from 11am to 5pm, so on a Saturday arrive at the 10am opening."
+  - glasgow
+  - top attraction
+quickAnswer: >-
+  Riverside Museum sits on Pointhouse Quay in Glasgow's Partick area, where the
+  River Kelvin meets the Clyde, about a 10 to 15 minute walk from Partick
+  Station. It's quietest on weekdays across its full 10am–5pm opening (Fridays
+  open at 11am). Weekends are busiest from 11am to 5pm, so on a Saturday arrive
+  at the 10am opening.
 faq:
-  - q: "When is the quietest time to visit Riverside Museum?"
-    a: "Weekdays are quietest for the whole of opening, from 10am to 5pm. Note that Friday opens at 11am. Weekends are busiest from 11am to 5pm, so on a Saturday get there for the 10am opening."
-  - q: "What are the opening hours?"
-    a: "It's open 10am to 5pm Monday to Thursday and on Saturday, and 11am to 5pm on Friday and Sunday."
-  - q: "How do I get to Riverside Museum by public transport?"
-    a: "Take the Glasgow Subway or a suburban train to Partick. From there it's a 10 to 15 minute walk south to 100 Pointhouse Rd on the Clyde. You can also walk the Clyde Walkway west from the city centre."
-  - q: "How long should I spend there?"
-    a: "Allow about two hours for the main hall. Add around 45 minutes if you board the Tall Ship Glenlee moored outside, and more if you have children with you."
-  - q: "What else is nearby?"
-    a: "The Tall Ship Glenlee is at the back door. Kelvingrove Art Gallery and Museum is about 20 minutes' walk north, and the SEC and OVO Hydro are along the riverside towards the centre."
+  - q: When is the quietest time to visit Riverside Museum?
+    a: >-
+      Weekdays are quietest for the whole of opening, from 10am to 5pm. Note
+      that Friday opens at 11am. Weekends are busiest from 11am to 5pm, so on a
+      Saturday get there for the 10am opening.
+  - q: What are the opening hours?
+    a: >-
+      It's open 10am to 5pm Monday to Thursday and on Saturday, and 11am to 5pm
+      on Friday and Sunday.
+  - q: How do I get to Riverside Museum by public transport?
+    a: >-
+      Take the Glasgow Subway or a suburban train to Partick. From there it's a
+      10 to 15 minute walk south to 100 Pointhouse Rd on the Clyde. You can also
+      walk the Clyde Walkway west from the city centre.
+  - q: How long should I spend there?
+    a: >-
+      Allow about two hours for the main hall. Add around 45 minutes if you
+      board the Tall Ship Glenlee moored outside, and more if you have children
+      with you.
+  - q: What else is nearby?
+    a: >-
+      The Tall Ship Glenlee is at the back door. Kelvingrove Art Gallery and
+      Museum is about 20 minutes' walk north, and the SEC and OVO Hydro are
+      along the riverside towards the centre.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-30'
 ---
 
 ## A zinc roof folded like a pleat

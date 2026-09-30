@@ -1,41 +1,47 @@
 ---
-title: "The Roman Baths: Bath Travel Guide (4.6★)"
-description: "The Roman Baths sit on Abbey Churchyard in central Bath, beside Bath Abbey and a short walk from Bath Spa station, and open daily 9am to 6pm. 4.6★ (40,840 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Bath"
-category: "attraction"
-pubDate: "2026-09-30T14:04:13.287Z"
+title: 'The Roman Baths: Bath Travel Guide (4.6★)'
+description: >-
+  The Roman Baths sit on Abbey Churchyard in central Bath, beside Bath Abbey and
+  a short walk from Bath Spa station, and open daily 9am to 6pm. 4.6★ (40,841
+  reviews) — what visitors say, hours, and tips.
+country: United Kingdom
+region: Bath
+category: attraction
+pubDate: '2026-09-30T14:04:13.287Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/0/08/Roman_Baths_in_Bath_Spa%2C_England_-_July_2006.jpg"
-  credit: "Photo: Diliff / Wikimedia Commons (CC BY 2.5)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Roman_Baths_in_Bath_Spa,_England_-_July_2006.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/0/08/Roman_Baths_in_Bath_Spa%2C_England_-_July_2006.jpg
+  credit: 'Photo: Diliff / Wikimedia Commons (CC BY 2.5)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Roman_Baths_in_Bath_Spa,_England_-_July_2006.jpg
+  via: act
   focus:
     x: 50
-    y: 55
+    'y': 55
 gallery: []
 place:
-  id: "ChIJtTDV3hOBcUgRTSLxFGi-Rg4"
-  name: "The Roman Baths"
-  address: "Abbey Churchyard, Bath BA1 1LZ, UK"
+  id: ChIJtTDV3hOBcUgRTSLxFGi-Rg4
+  name: The Roman Baths
+  address: 'Abbey Churchyard, Bath BA1 1LZ, UK'
   rating: 4.6
-  userRatingsTotal: 40840
-  googleMapsUrl: "https://maps.google.com/?cid=1028718919137960525&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 40841
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1028718919137960525&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.381071999999996
   lng: -2.359619
-  phone: "+44 1225 477785"
+  phone: +44 1225 477785
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-09-30
+    updated: 2026-09-30T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -49,24 +55,42 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_3467522d694746784c535452675563424f6833564454744a496843"
+    venueId: ven_3467522d694746784c535452675563424f6833564454744a496843
 tags:
-  - "bath"
-  - "top attraction"
-quickAnswer: "The Roman Baths sit on Abbey Churchyard in central Bath, beside Bath Abbey and a short walk from Bath Spa station, and open daily 9am to 6pm. Weekdays are calm from 9am to 6pm, while weekends are only quiet from 9am to 10am, so avoid 11am to 5pm on Saturday and Sunday. Book a timed ticket online and allow about two hours."
+  - bath
+  - top attraction
+quickAnswer: >-
+  The Roman Baths sit on Abbey Churchyard in central Bath, beside Bath Abbey and
+  a short walk from Bath Spa station, and open daily 9am to 6pm. Weekdays are
+  calm from 9am to 6pm, while weekends are only quiet from 9am to 10am, so avoid
+  11am to 5pm on Saturday and Sunday. Book a timed ticket online and allow about
+  two hours.
 faq:
-  - q: "When is the quietest time to visit the Roman Baths?"
-    a: "Weekdays are calm through the whole day, 9am to 6pm. On weekends only 9am to 10am is quiet; avoid 11am to 5pm on Saturday and Sunday, which is the busiest stretch."
-  - q: "How long should I spend at the Roman Baths?"
-    a: "Around two hours with the included audio guide. Allow longer if you listen to every commentary track."
-  - q: "How do I get to the Roman Baths from Bath Spa station?"
-    a: "Walk north for about ten minutes via Manvers Street and Stall Street to Abbey Churchyard. The entrance faces Bath Abbey."
-  - q: "Can you swim in the Roman Baths?"
-    a: "No. The water is untreated and must not be touched. You can taste treated spa water at the end, or bathe at Thermae Bath Spa nearby, which draws on the same thermal water."
-  - q: "Do I need to book tickets in advance?"
-    a: "Booking a timed slot online is strongly advised, especially on weekends. Current prices and slots are on the official Roman Baths website."
+  - q: When is the quietest time to visit the Roman Baths?
+    a: >-
+      Weekdays are calm through the whole day, 9am to 6pm. On weekends only 9am
+      to 10am is quiet; avoid 11am to 5pm on Saturday and Sunday, which is the
+      busiest stretch.
+  - q: How long should I spend at the Roman Baths?
+    a: >-
+      Around two hours with the included audio guide. Allow longer if you listen
+      to every commentary track.
+  - q: How do I get to the Roman Baths from Bath Spa station?
+    a: >-
+      Walk north for about ten minutes via Manvers Street and Stall Street to
+      Abbey Churchyard. The entrance faces Bath Abbey.
+  - q: Can you swim in the Roman Baths?
+    a: >-
+      No. The water is untreated and must not be touched. You can taste treated
+      spa water at the end, or bathe at Thermae Bath Spa nearby, which draws on
+      the same thermal water.
+  - q: Do I need to book tickets in advance?
+    a: >-
+      Booking a timed slot online is strongly advised, especially on weekends.
+      Current prices and slots are on the official Roman Baths website.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-30'
 ---
 
 ## Steam over green water

@@ -1,44 +1,50 @@
 ---
-title: "Cardiff Castle: Travel Guide (4.6★)"
-description: "Cardiff Castle sits on Castle Street in Cardiff city centre, a short walk from both Cardiff Central and Queen Street stations. 4.6★ (23,101 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Cardiff"
-category: "attraction"
-pubDate: "2026-09-30T14:14:29.726Z"
+title: 'Cardiff Castle: Travel Guide (4.6★)'
+description: >-
+  Cardiff Castle sits on Castle Street in Cardiff city centre, a short walk from
+  both Cardiff Central and Queen Street stations. 4.6★ (23,100 reviews) — what
+  visitors say, hours, and tips.
+country: United Kingdom
+region: Cardiff
+category: attraction
+pubDate: '2026-09-30T14:14:29.726Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_view_of_Cardiff_Castle.jpg/1920px-Aerial_view_of_Cardiff_Castle.jpg"
-  credit: "Photo: Clint Budd / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Cardiff_Castle.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_view_of_Cardiff_Castle.jpg/1920px-Aerial_view_of_Cardiff_Castle.jpg
+  credit: 'Photo: Clint Budd / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Aerial_view_of_Cardiff_Castle.jpg'
   focus:
     x: 45
-    y: 65
+    'y': 65
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/8/89/Cardiff_Castle_keep_2018.jpg"
-    credit: "Photo: DeFacto / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Cardiff_Castle_keep_2018.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/8/89/Cardiff_Castle_keep_2018.jpg
+    credit: 'Photo: DeFacto / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Cardiff_Castle_keep_2018.jpg'
 place:
-  id: "ChIJ2bdx468cbkgRc2a8GS-hBUQ"
-  name: "Cardiff Castle"
-  address: "Castle St, Cardiff CF10 3RB, UK"
+  id: ChIJ2bdx468cbkgRc2a8GS-hBUQ
+  name: Cardiff Castle
+  address: 'Castle St, Cardiff CF10 3RB, UK'
   rating: 4.6
-  userRatingsTotal: 23101
-  googleMapsUrl: "https://maps.google.com/?cid=4901500993129965171&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 23100
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4901500993129965171&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.482231299999995
   lng: -3.1811767
-  phone: "+44 29 2087 8100"
+  phone: +44 29 2087 8100
   openingHours:
-    - "Monday: 10:00 AM – 5:00 PM"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 10:00 AM – 5:00 PM'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-09-30
+    updated: 2026-09-30T00:00:00.000Z
     weekdayQuiet:
       - 10
     weekendQuiet:
@@ -50,24 +56,43 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_515542682d53473861326352676b6263383634786462324a496843"
+    venueId: ven_515542682d53473861326352676b6263383634786462324a496843
 tags:
-  - "cardiff"
-  - "top attraction"
-quickAnswer: "Cardiff Castle sits on Castle Street in Cardiff city centre, a short walk from both Cardiff Central and Queen Street stations. It combines Roman walls, a Norman keep and William Burges's lavish Victorian Gothic interiors. It is open daily until 5pm, and the calmest times are 10am–11am on weekdays and 9am–10am at weekends, before the 11am–5pm weekend crush."
+  - cardiff
+  - top attraction
+quickAnswer: >-
+  Cardiff Castle sits on Castle Street in Cardiff city centre, a short walk from
+  both Cardiff Central and Queen Street stations. It combines Roman walls, a
+  Norman keep and William Burges's lavish Victorian Gothic interiors. It is open
+  daily until 5pm, and the calmest times are 10am–11am on weekdays and 9am–10am
+  at weekends, before the 11am–5pm weekend crush.
 faq:
-  - q: "When is the quietest time to visit Cardiff Castle?"
-    a: "On weekdays it is calmest from 10am–11am, just after opening. At weekends the quietest window is 9am–10am. Try not to arrive between 11am and 5pm on Saturday or Sunday, when it is at its busiest."
-  - q: "What are Cardiff Castle's opening hours?"
-    a: "It opens 10am–5pm Monday to Friday and 9am–5pm on Saturday and Sunday. Check the official website for event-day changes before you go."
-  - q: "How do I get to Cardiff Castle from the train station?"
-    a: "The castle is on Castle Street, CF10 3RB. From Cardiff Central, walk north up St Mary Street for roughly ten to fifteen minutes. Queen Street station is a similar walk away to the east."
-  - q: "How long should I spend at Cardiff Castle?"
-    a: "Allow two to three hours for the house interiors, the Norman keep and the wartime tunnels. Allow longer if you join a guided house tour."
-  - q: "What is there to do near Cardiff Castle?"
-    a: "You can walk the carved Animal Wall on Castle Street, explore Bute Park behind the castle, or head to National Museum Cardiff and City Hall in Cathays Park. The Victorian arcades and Cardiff Market are just south."
+  - q: When is the quietest time to visit Cardiff Castle?
+    a: >-
+      On weekdays it is calmest from 10am–11am, just after opening. At weekends
+      the quietest window is 9am–10am. Try not to arrive between 11am and 5pm on
+      Saturday or Sunday, when it is at its busiest.
+  - q: What are Cardiff Castle's opening hours?
+    a: >-
+      It opens 10am–5pm Monday to Friday and 9am–5pm on Saturday and Sunday.
+      Check the official website for event-day changes before you go.
+  - q: How do I get to Cardiff Castle from the train station?
+    a: >-
+      The castle is on Castle Street, CF10 3RB. From Cardiff Central, walk north
+      up St Mary Street for roughly ten to fifteen minutes. Queen Street station
+      is a similar walk away to the east.
+  - q: How long should I spend at Cardiff Castle?
+    a: >-
+      Allow two to three hours for the house interiors, the Norman keep and the
+      wartime tunnels. Allow longer if you join a guided house tour.
+  - q: What is there to do near Cardiff Castle?
+    a: >-
+      You can walk the carved Animal Wall on Castle Street, explore Bute Park
+      behind the castle, or head to National Museum Cardiff and City Hall in
+      Cathays Park. The Victorian arcades and Cardiff Market are just south.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-30'
 ---
 
 Cardiff's shopping streets run straight into a stone wall. At the top of St Mary Street, the traffic turns along Castle Street and a long curtain of masonry takes over, broken by a gatehouse and a clock tower. Cardiff Castle is not tucked away somewhere. It is the city's centre of gravity, and you reach it by walking out of a shop door.

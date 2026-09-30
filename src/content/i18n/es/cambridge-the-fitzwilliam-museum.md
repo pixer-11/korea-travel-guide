@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: cambridge-the-fitzwilliam-museum
-srcHash: '113109a72b31'
+srcHash: 'd794f3481622'
 title: 'Museo Fitzwilliam: guía de viaje de Cambridge (4.7★)'
-description: El Museo Fitzwilliam, que alberga el arte y las antigüedades de la Universidad de Cambridge, se encuentra en Trumpington Street, a 10 minutos a pie al sur del King's College. Con una valoración de 4.7★ (9,489 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
+description: El Museo Fitzwilliam, que alberga el arte y las antigüedades de la Universidad de Cambridge, se encuentra en Trumpington Street, a 10 minutos a pie al sur del King's College. Con una valoración de 4.7★ (9,491 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: En Trumpington Street, a 10 minutos a pie al sur del King's College, se alza el Museo Fitzwilliam (Fitzwilliam Museum), donde la Universidad de Cambridge reúne sus colecciones de arte y antigüedades. Conviene reservar entre dos y tres horas para la visita. Tenga en cuenta que cierra los lunes y que los domingos no abre hasta el mediodía. Los fines de semana, entre las 11am y las 5pm, es cuando más gente acude, así que es mejor evitar esa franja. Las salas están más tranquilas si llega el sábado a las 10am, a la hora de apertura, o si lo visita cualquier día entre martes y viernes.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Museo Fitzwilliam?

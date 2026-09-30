@@ -1,56 +1,81 @@
 ---
-title: "Brighton i360: Travel Guide (4.5★)"
-description: "Brighton i360 is the glass observation pod on Brighton seafront, at the foot of the West Pier ruins on Lower Kings Road, open daily from 8am to 7pm. 4.5★ (15,124 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Brighton"
-category: "attraction"
-pubDate: "2026-09-30T14:06:42.154Z"
+title: 'Brighton i360: Travel Guide (4.5★)'
+description: >-
+  Brighton i360 is the glass observation pod on Brighton seafront, at the foot
+  of the West Pier ruins on Lower Kings Road, open daily from 8am to 7pm. 4.5★
+  (15,126 reviews) — what visitors say, hours, and tips.
+country: United Kingdom
+region: Brighton
+category: attraction
+pubDate: '2026-09-30T14:06:42.154Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Brighton_i360_with_the_moon_2025-07-02.jpg/3840px-Brighton_i360_with_the_moon_2025-07-02.jpg"
-  credit: "Photo: Andy Li / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Brighton_i360_with_the_moon_2025-07-02.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Brighton_i360_with_the_moon_2025-07-02.jpg/3840px-Brighton_i360_with_the_moon_2025-07-02.jpg
+  credit: 'Photo: Andy Li / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Brighton_i360_with_the_moon_2025-07-02.jpg
+  via: act
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJ26LLRBKFdUgRTQ4xFyZmOYc"
-  name: "Brighton i360"
-  address: "Lower Kings Road, Brighton BN1 2LN, UK"
+  id: ChIJ26LLRBKFdUgRTQ4xFyZmOYc
+  name: Brighton i360
+  address: 'Lower Kings Road, Brighton BN1 2LN, UK'
   rating: 4.5
-  userRatingsTotal: 15124
-  googleMapsUrl: "https://maps.google.com/?cid=9743931582576660045&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 15126
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9743931582576660045&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 50.821373099999995
   lng: -0.1509064
-  phone: "+44 1273 927318"
+  phone: +44 1273 927318
   openingHours:
-    - "Monday: 8:00 AM – 7:00 PM"
-    - "Tuesday: 8:00 AM – 7:00 PM"
-    - "Wednesday: 8:00 AM – 7:00 PM"
-    - "Thursday: 8:00 AM – 7:00 PM"
-    - "Friday: 8:00 AM – 7:00 PM"
-    - "Saturday: 8:00 AM – 7:00 PM"
-    - "Sunday: 8:00 AM – 7:00 PM"
+    - 'Monday: 8:00 AM – 7:00 PM'
+    - 'Tuesday: 8:00 AM – 7:00 PM'
+    - 'Wednesday: 8:00 AM – 7:00 PM'
+    - 'Thursday: 8:00 AM – 7:00 PM'
+    - 'Friday: 8:00 AM – 7:00 PM'
+    - 'Saturday: 8:00 AM – 7:00 PM'
+    - 'Sunday: 8:00 AM – 7:00 PM'
 tags:
-  - "brighton"
-  - "top attraction"
-quickAnswer: "Brighton i360 is the glass observation pod on Brighton seafront, at the foot of the West Pier ruins on Lower Kings Road, open daily from 8am to 7pm. A flight lasts around 20 to 25 minutes, lifting you to about 138 metres for views along the coast and inland to the South Downs. The best time to go is a clear, calm day; book online, and check the weather first because high winds can pause flights."
+  - brighton
+  - top attraction
+quickAnswer: >-
+  Brighton i360 is the glass observation pod on Brighton seafront, at the foot
+  of the West Pier ruins on Lower Kings Road, open daily from 8am to 7pm. A
+  flight lasts around 20 to 25 minutes, lifting you to about 138 metres for
+  views along the coast and inland to the South Downs. The best time to go is a
+  clear, calm day; book online, and check the weather first because high winds
+  can pause flights.
 faq:
-  - q: "How long does the Brighton i360 flight last?"
-    a: "Around 20 to 25 minutes from boarding to landing. Allow about an hour for the whole visit."
-  - q: "What are the Brighton i360 opening hours?"
-    a: "8am to 7pm every day, Monday to Sunday. The last flight leaves before closing, so check the final departure time when you book."
-  - q: "How do I get to Brighton i360 from Brighton station?"
-    a: "Walk about 15 minutes downhill via Queen's Road and West Street to the seafront, then turn right. The tower is on Lower Kings Road beside the West Pier ruins."
-  - q: "Does bad weather stop the i360?"
-    a: "Strong winds can pause flights, and haze cuts the view to the South Downs. Check the official site on a windy day and aim for clear, calm weather."
-  - q: "What is near Brighton i360?"
-    a: "The West Pier ruins are right in front, Regency Square is behind it, and Brighton Palace Pier, The Lanes and the Royal Pavilion are all within about 15 minutes' walk."
+  - q: How long does the Brighton i360 flight last?
+    a: >-
+      Around 20 to 25 minutes from boarding to landing. Allow about an hour for
+      the whole visit.
+  - q: What are the Brighton i360 opening hours?
+    a: >-
+      8am to 7pm every day, Monday to Sunday. The last flight leaves before
+      closing, so check the final departure time when you book.
+  - q: How do I get to Brighton i360 from Brighton station?
+    a: >-
+      Walk about 15 minutes downhill via Queen's Road and West Street to the
+      seafront, then turn right. The tower is on Lower Kings Road beside the
+      West Pier ruins.
+  - q: Does bad weather stop the i360?
+    a: >-
+      Strong winds can pause flights, and haze cuts the view to the South Downs.
+      Check the official site on a windy day and aim for clear, calm weather.
+  - q: What is near Brighton i360?
+    a: >-
+      The West Pier ruins are right in front, Regency Square is behind it, and
+      Brighton Palace Pier, The Lanes and the Royal Pavilion are all within
+      about 15 minutes' walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-09-30'
 ---
 
 ## A slim tower above the West Pier

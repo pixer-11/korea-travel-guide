@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: belfast-titanic-belfast
-srcHash: 'bd847f96f9ca'
+srcHash: 'a9f7e3b85b10'
 title: 'Titanic Belfast: guía de viaje (4.5★)'
-description: Titanic Belfast es un museo de visita libre en el Titanic Quarter de Belfast, levantado sobre las gradas de Harland & Wolff donde se construyó el barco. Con 4.5★ (43,310 reseñas), reunimos la opinión de los visitantes, los horarios y varios consejos.
+description: Titanic Belfast es un museo de visita libre en el Titanic Quarter de Belfast, levantado sobre las gradas de Harland & Wolff donde se construyó el barco. Con 4.5★ (43,316 reseñas), reunimos la opinión de los visitantes, los horarios y varios consejos.
 quickAnswer: Titanic Belfast es un museo de visita libre situado en el Titanic Quarter de Belfast. Se levanta sobre las mismas gradas de Harland & Wolff donde se construyó el barco. Consta de nueve galerías y abre todos los días de 8:30am a 6pm. La mayoría de los visitantes tarda entre dos y tres horas en recorrerlo. Conviene reservar por internet una franja horaria, a ser posible la primera del día, para adelantarse a los autocares de excursiones.
 faq:
   - q: ¿Cómo se llega a Titanic Belfast desde el centro de la ciudad?

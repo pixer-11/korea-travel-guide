@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: brighton-brighton-i360
-srcHash: '2240ccba7c75'
+srcHash: '48e5f531512d'
 title: 'Brighton i360: guía de viaje (4.5★)'
-description: En el paseo marítimo de Brighton, a los pies de las ruinas del West Pier en Lower Kings Road, se alza el Brighton i360, una cápsula acristalada de observación que abre a diario de 8am a 7pm. Con 4.5★ (15,124 reseñas), le contamos qué opinan los visitantes, además de horarios y consejos.
+description: En el paseo marítimo de Brighton, a los pies de las ruinas del West Pier en Lower Kings Road, se alza el Brighton i360, una cápsula acristalada de observación que abre a diario de 8am a 7pm. Con 4.5★ (15,126 reseñas), le contamos qué opinan los visitantes, además de horarios y consejos.
 quickAnswer: En el paseo marítimo de Brighton, a los pies de las ruinas del West Pier en Lower Kings Road, se alza el Brighton i360, una cápsula acristalada de observación que abre todos los días de 8am a 7pm. Cada vuelo dura entre 20 y 25 minutos y lo eleva a unos 138 metros, desde donde se contempla la costa y, tierra adentro, los South Downs. Lo ideal es subir un día despejado y sin viento. Conviene reservar por internet y consultar antes el pronóstico, ya que los vuelos pueden suspenderse cuando sopla con fuerza.
 faq:
   - q: ¿Cuánto dura el vuelo del Brighton i360?

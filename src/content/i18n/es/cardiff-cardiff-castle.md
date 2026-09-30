@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: cardiff-cardiff-castle
-srcHash: 'a7d193792d92'
+srcHash: '25ad5f05ef2f'
 title: 'Castillo de Cardiff (Cardiff Castle): guía de viaje (4.6★)'
-description: El Castillo de Cardiff se alza en Castle Street, en pleno centro de Cardiff, a pocos minutos a pie de las estaciones de Cardiff Central y Queen Street. Con una valoración de 4.6★ (23,101 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y algunos consejos.
+description: El Castillo de Cardiff se alza en Castle Street, en pleno centro de Cardiff, a pocos minutos a pie de las estaciones de Cardiff Central y Queen Street. Con una valoración de 4.6★ (23,100 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y algunos consejos.
 quickAnswer: El Castillo de Cardiff (Cardiff Castle) se encuentra en Castle Street, en el centro de la ciudad, a poca distancia a pie tanto de la estación de Cardiff Central como de la de Queen Street. En un mismo recinto reúne murallas romanas, una torre del homenaje normanda y los suntuosos interiores neogóticos victorianos de William Burges. Abre todos los días hasta las 5 de la tarde. Los momentos más tranquilos son de 10 a 11 de la mañana entre semana y de 9 a 10 de la mañana los fines de semana, antes de la gran afluencia que se registra de 11 de la mañana a 5 de la tarde el sábado y el domingo.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Castillo de Cardiff?

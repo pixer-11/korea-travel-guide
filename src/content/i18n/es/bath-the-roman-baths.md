@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bath-the-roman-baths
-srcHash: '5740a90867fd'
+srcHash: 'c3aca408f64c'
 title: 'Termas romanas (Roman Baths): guía de viaje de Bath (4.6★)'
-description: En pleno centro de Bath, las termas romanas ocupan Abbey Churchyard, junto a la abadía y a pocos minutos a pie de la estación de Bath Spa. Abren todos los días de 9am a 6pm. Tienen una valoración de 4.6★ (40,840 reseñas); aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
+description: En pleno centro de Bath, las termas romanas ocupan Abbey Churchyard, junto a la abadía y a pocos minutos a pie de la estación de Bath Spa. Abren todos los días de 9am a 6pm. Tienen una valoración de 4.6★ (40,841 reseñas); aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: En pleno centro de Bath, las termas romanas (Roman Baths) ocupan Abbey Churchyard, junto a la abadía de Bath (Bath Abbey) y a pocos minutos a pie de la estación de Bath Spa. Abren todos los días de 9am a 6pm. Entre semana hay tranquilidad durante toda la jornada, de 9am a 6pm. En fin de semana, en cambio, solo se está a gusto de 9am a 10am, por lo que conviene evitar la franja de 11am a 5pm los sábados y domingos. Lo recomendable es comprar por internet una entrada con hora asignada y reservar unas dos horas para la visita.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar las termas romanas?

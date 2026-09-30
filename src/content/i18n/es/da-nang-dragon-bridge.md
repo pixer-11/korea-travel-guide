@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: da-nang-dragon-bridge
-srcHash: 'd74367ed6042'
+srcHash: '381d773491ea'
 title: 'Puente del Dragón: guía de viaje de Da Nang (4.5★)'
-description: El Puente del Dragón (Cầu Rồng) atraviesa el río Han en pleno centro de Da Nang y une el paseo fluvial del centro con An Hai, en la orilla este. Con una valoración de 4.5★ (9,583 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
+description: El Puente del Dragón (Cầu Rồng) atraviesa el río Han en pleno centro de Da Nang y une el paseo fluvial del centro con An Hai, en la orilla este. Con una valoración de 4.5★ (9,591 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: El Puente del Dragón (Cầu Rồng) cruza el río Han en el centro de Da Nang y conecta el paseo fluvial del centro con An Hai, en la orilla oriental. La entrada es gratuita y se puede visitar las 24 horas. Su gran atractivo es el espectáculo de fuego y agua que la cabeza del dragón ofrece los fines de semana. Si no va a verlo, procure evitar los fines de semana entre las 6pm y las 11pm, que es cuando más gente se concentra.
 faq:
   - q: ¿Cuándo escupe fuego el Puente del Dragón?

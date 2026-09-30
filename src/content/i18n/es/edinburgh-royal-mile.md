@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: edinburgh-royal-mile
-srcHash: '694af5bb21ea'
+srcHash: 'd59dd4e60162'
 title: 'Royal Mile: guía de viaje de Edimburgo (4.7★)'
-description: 'La Royal Mile es la sucesión de calles que atraviesa el casco antiguo de Edimburgo y desciende desde el castillo hasta el Palacio de Holyroodhouse a lo largo de una milla escocesa, más o menos. 4.7★ (25,604 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'La Royal Mile es la sucesión de calles que atraviesa el casco antiguo de Edimburgo y desciende desde el castillo hasta el Palacio de Holyroodhouse a lo largo de una milla escocesa, más o menos. 4.7★ (25,613 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La Royal Mile es la sucesión de calles que cruza el casco antiguo (Old Town) de Edimburgo y baja desde el Castillo de Edimburgo (Edinburgh Castle) hasta el Palacio de Holyroodhouse (Palace of Holyroodhouse). Su longitud ronda una milla escocesa. Recorrerla a pie lleva unos 30 minutos, aunque conviene reservarle media jornada si se quiere visitar la Catedral de St Giles (St Giles' Cathedral), asomarse a algunos callejones y llegar hasta el Canongate. Lo ideal es empezar por el extremo del castillo para aprovechar la pendiente y llegar a primera hora de la mañana si se desea disfrutar de las aceras sin aglomeraciones.
 faq:
   - q: ¿Por qué extremo de la Royal Mile es mejor empezar?
