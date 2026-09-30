@@ -40,9 +40,15 @@ export function findToolSpill(out) {
   if (!out || typeof out !== 'object') return [];
   const keys = Object.keys(out).filter((k) => SAFE_KEY.test(k));
   const fieldTag = keys.length ? new RegExp(`</(?:${keys.join('|')})\\s*>`, 'i') : null;
+  // The JSON form of the same spill: the model writes the whole reply as JSON
+  // text into one field — `blurb: "…\",\"getting\":\"…"` or a value that opens
+  // with `{"blurb":`. 45 region intros shipped that way, the raw `","getting":"`
+  // printed mid-paragraph on /ko/regions/siem-reap and 44 others (owner,
+  // 2026-10-01).
+  const fieldJson = keys.length ? new RegExp(`"\\s*,\\s*"(?:${keys.join('|')})"\\s*:|^\\s*\\{\\s*"(?:${keys.join('|')})"\\s*:`) : null;
   const hits = [];
   walk(out, '', (path, str) => {
-    if (TOOL_MARKERS.test(str) || (fieldTag && fieldTag.test(str))) hits.push(path);
+    if (TOOL_MARKERS.test(str) || (fieldTag && fieldTag.test(str)) || (fieldJson && fieldJson.test(str))) hits.push(path);
   });
   return hits;
 }

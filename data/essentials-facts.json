@@ -5826,18 +5826,23 @@
         "summary": [
           {
             "key": "entry",
-            "title": "90 days visa-free",
-            "sub": "Western passports, no ETIAS yet needed as of Sept 2026"
+            "title": "Visa-free 90/180 days",
+            "sub": "US/UK/Canada/Australia/EU, no ETIAS yet required"
           },
           {
             "key": "money",
-            "title": "Cash plus card",
-            "sub": "Contactless widely accepted, keep cash for cafés and tips"
+            "title": "Cash plus tourist tax",
+            "sub": "Overnight tax per person/night, varies by city"
           },
           {
             "key": "season",
             "title": "Shoulder season best",
-            "sub": "April–May and Sept–Oct: 18–25°C, fewer crowds"
+            "sub": "April–May and September–October, 18–25°C"
+          },
+          {
+            "key": "transport",
+            "title": "High-speed rail backbone",
+            "sub": "Trenitalia and Italo link major cities"
           }
         ],
         "visa": {
@@ -5848,7 +5853,7 @@
               "who": "US, UK, Canadian, Australian and EU/Schengen passport holders",
               "cost": "Free",
               "stay": "90 days per 180-day period",
-              "note": "Shared across whole Schengen Area, not just Italy"
+              "note": "Shared across the whole Schengen zone, not just Italy"
             }
           ],
           "warnings": [
@@ -5857,8 +5862,8 @@
               "text": "Illegal stay is punishable by a fine of €5,000 to €10,000, plus possible expulsion and an entry ban."
             },
             {
-              "title": "90-day allowance shared",
-              "text": "A day spent in France or elsewhere in Schengen counts against your Italian allowance."
+              "title": "Schengen days shared",
+              "text": "A day spent in France counts against your Italian/Schengen allowance."
             },
             {
               "title": "Rules still changing",
@@ -5870,16 +5875,12 @@
           "rows": [],
           "tips": [
             {
-              "title": "Book ahead for discounts",
-              "text": "Advance-purchase discounts are available online up to six months ahead for reserved, medium-speed and faster trains."
-            },
-            {
-              "title": "Validate regional tickets",
-              "text": "Paper tickets must be validated before boarding; contactless tap & tap is piloted on select routes like Florence-Pisa-Livorno and Venice Santa Lucia-Venice Mestre-Padua-Verona."
+              "title": "Book high-speed trains ahead",
+              "text": "Advance-purchase discounts available online up to six months ahead, in Super Economy, Economy and Base fares."
             },
             {
               "title": "Watch for ZTL cameras",
-              "text": "Limited traffic zone cameras in historic centers issue automatic fines by mail if you drive in."
+              "text": "Limited traffic zone cameras in historic centers issue automatic fines by mail."
             }
           ]
         },
@@ -5888,19 +5889,19 @@
           "tips": [
             {
               "title": "Carry some cash",
-              "text": "Keep cash for small cafés, markets and tips even though contactless is widely accepted."
+              "text": "Contactless cards are widely accepted, but keep cash for small cafés, markets and tips."
             },
             {
               "title": "High VAT rate",
-              "text": "Italy's standard IVA rate is 22%, among the highest in the EU."
+              "text": "Standard IVA rate is 22%, among the highest in the EU."
             },
             {
-              "title": "VAT refund for non-EU visitors",
+              "title": "VAT refund for non-EU residents",
               "text": "Spend at least 70 Euros in one store on one day to be eligible for a partial sales tax refund."
             },
             {
               "title": "Budget for tourist tax",
-              "text": "Nearly every city charges a per-person, per-night overnight tourist tax, e.g. Rome €10 (5-star) down to €3 (campsites)."
+              "text": "Overnight tourist tax is charged per person per night, e.g. Rome ranges from €10 in five-star hotels to €3 in campsites, up to 10 consecutive nights."
             }
           ]
         },
@@ -5914,25 +5915,12 @@
           "rows": [
             {
               "label": "Shoulder season",
-              "sub": "April-May and September-October",
+              "sub": "Pleasant temperatures, manageable crowds, lower prices",
               "best": [
                 4,
                 5,
                 9,
                 10
-              ],
-              "busy": [],
-              "avoid": []
-            },
-            {
-              "label": "Winter (cities)",
-              "sub": "Lowest prices, thinnest crowds, good for Rome, Florence, Milan",
-              "best": [
-                11,
-                12,
-                1,
-                2,
-                3
               ],
               "busy": [],
               "avoid": []
@@ -5943,8 +5931,8 @@
           "numbers": [
             {
               "number": "112",
-              "label": "General emergency",
-              "note": "EU-wide, English available, free from any landline or mobile"
+              "label": "General emergency (EU-wide)",
+              "note": "English available, free from any landline or mobile"
             },
             {
               "number": "113",
@@ -5963,55 +5951,58 @@
             }
           ],
           "chips": [
-            "Beware pickpockets at transit hubs",
-            "Violent crime against tourists is rare",
-            "Healthcare system is excellent",
+            "Pickpocketing common at transit hubs",
             "Get travel insurance for medical costs",
-            "ACI roadside: 803 116"
+            "Violent crime against tourists rare"
           ]
         }
       },
       "ko": {
         "summary": [
           {
-            "title": "90일 무비자 체류",
-            "sub": "서구권 여권 소지자, 2026년 9월 기준 ETIAS 아직 불필요",
+            "title": "180일 중 90일 무비자",
+            "sub": "미국/영국/캐나다/호주/EU, 아직 ETIAS 불필요",
             "key": "entry"
           },
           {
-            "title": "현금과 카드 함께",
-            "sub": "비접촉 결제 널리 사용, 카페와 팁을 위해 현금도 준비",
+            "title": "현금과 숙박세 준비",
+            "sub": "1인/1박당 부과되는 숙박세, 도시마다 다름",
             "key": "money"
           },
           {
-            "title": "어깨철이 최고",
-            "sub": "4~5월, 9~10월: 18–25°C, 인파 적음",
+            "title": "어깨철이 최적",
+            "sub": "4월~5월, 9월~10월, 18–25°C",
             "key": "season"
+          },
+          {
+            "title": "고속철도 근간",
+            "sub": "Trenitalia와 Italo가 주요 도시를 연결",
+            "key": "transport"
           }
         ],
         "visa": {
           "cards": [
             {
-              "name": "무비자 셍겐 입국",
+              "name": "셍겐 무비자 입국",
               "code": "",
-              "who": "미국, 영국, 캐나다, 호주, EU/셍겐 여권 소지자",
+              "who": "미국, 영국, 캐나다, 호주 및 EU/셍겐 여권 소지자",
               "cost": "무료",
               "stay": "180일 중 90일",
-              "note": "이탈리아만이 아니라 셍겐 지역 전체에서 공유됨"
+              "note": "이탈리아뿐 아니라 셍겐 지역 전체에서 공유됨"
             }
           ],
           "warnings": [
             {
-              "title": "체류 초과 벌금",
-              "text": "불법 체류 시 5,000~10,000유로의 벌금이 부과되며, 추방 및 입국 금지 조치가 내려질 수 있습니다."
+              "title": "초과 체류 벌금",
+              "text": "불법 체류 시 5,000~10,000유로의 벌금이 부과되며, 추방 및 입국 금지 조치가 취해질 수 있습니다."
             },
             {
-              "title": "90일 한도는 공유됨",
-              "text": "프랑스나 다른 셍겐 지역에서 보낸 날도 이탈리아 체류 한도에 포함됩니다."
+              "title": "셍겐 체류일 공유",
+              "text": "프랑스에서 보낸 하루도 이탈리아/셍겐 체류 허용 일수에 포함됩니다."
             },
             {
-              "title": "규정은 계속 변경 중",
-              "text": "특히 2026년 하반기 예약 전에는 정확한 요건을 반드시 확인하세요."
+              "title": "규정이 계속 변경 중",
+              "text": "특히 2026년 말에는 예약 전 정확한 요건을 확인하세요."
             }
           ]
         },
@@ -6019,16 +6010,12 @@
           "rows": [],
           "tips": [
             {
-              "title": "할인은 미리 예약",
-              "text": "예약제, 중속 및 고속 열차는 최대 6개월 전부터 온라인 사전 구매 할인이 제공됩니다."
-            },
-            {
-              "title": "지역 열차 티켓은 개찰 필수",
-              "text": "종이 티켓은 탑승 전 반드시 개찰해야 합니다. 피렌체-피사-리보르노, 베니스 산타루치아-베니스 메스트레-파도바-베로나 등 일부 노선에서는 비접촉 탭 방식이 시범 운영 중입니다."
+              "title": "고속열차 미리 예약",
+              "text": "최대 6개월 전부터 온라인으로 Super Economy, Economy, Base 요금제의 사전 구매 할인을 받을 수 있습니다."
             },
             {
               "title": "ZTL 카메라 주의",
-              "text": "역사 지구의 제한 교통 구역 카메라는 차량으로 진입 시 우편으로 자동 벌금을 부과합니다."
+              "text": "역사 지구의 제한 교통 구역 카메라는 우편으로 자동 벌금을 부과합니다."
             }
           ]
         },
@@ -6036,20 +6023,20 @@
           "budget": null,
           "tips": [
             {
-              "title": "현금 약간 소지",
-              "text": "비접촉 결제가 널리 통용되지만 작은 카페, 시장, 팁을 위해 현금을 챙기세요."
+              "title": "현금을 소지하세요",
+              "text": "비접촉 카드가 널리 통용되지만, 소규모 카페, 시장, 팁을 위해 현금을 준비하세요."
             },
             {
               "title": "높은 부가가치세율",
-              "text": "이탈리아의 표준 IVA(부가가치세)율은 22%로 EU 내에서도 높은 편입니다."
+              "text": "표준 IVA 세율은 22%로 EU 내에서도 가장 높은 수준입니다."
             },
             {
-              "title": "비EU 방문객 세금 환급",
-              "text": "하루에 한 매장에서 70유로 이상 구매 시 일부 판매세 환급 대상이 됩니다."
+              "title": "비EU 거주자 부가세 환급",
+              "text": "하루에 한 매장에서 최소 70유로를 지출하면 일부 판매세 환급을 받을 수 있습니다."
             },
             {
-              "title": "관광세 예산 확보",
-              "text": "거의 모든 도시에서 1인당 1박당 숙박 관광세를 부과합니다. 예: 로마는 5성급 호텔 10유로부터 캠핑장 3유로까지."
+              "title": "숙박세 예산 확보",
+              "text": "숙박세는 1인 1박당 부과되며, 예를 들어 로마는 5성급 호텔 €10부터 캠핑장 €3까지이며 최대 연속 10박까지 적용됩니다."
             }
           ]
         },
@@ -6057,25 +6044,12 @@
           "rows": [
             {
               "label": "어깨철",
-              "sub": "4월~5월, 9월~10월",
+              "sub": "쾌적한 기온, 적당한 인파, 낮은 가격",
               "best": [
                 4,
                 5,
                 9,
                 10
-              ],
-              "busy": [],
-              "avoid": []
-            },
-            {
-              "label": "겨울 (도시)",
-              "sub": "가장 낮은 가격, 가장 적은 인파, 로마·피렌체·밀라노에 적합",
-              "best": [
-                11,
-                12,
-                1,
-                2,
-                3
               ],
               "busy": [],
               "avoid": []
@@ -6092,8 +6066,8 @@
           "numbers": [
             {
               "number": "112",
-              "label": "일반 긴급전화",
-              "note": "EU 전역, 영어 가능, 유선/휴대전화 어디서나 무료"
+              "label": "일반 응급 (EU 전역)",
+              "note": "영어 가능, 모든 유선/휴대전화에서 무료"
             },
             {
               "number": "113",
@@ -6112,30 +6086,33 @@
             }
           ],
           "chips": [
-            "교통 거점에서 소매치기 주의",
-            "관광객 대상 강력범죄는 드묾",
-            "의료 시스템 우수",
-            "의료비 대비 여행자 보험 가입 권장",
-            "ACI 도로 지원: 803 116"
+            "환승 거점에서 소매치기 빈번",
+            "의료비 대비 여행자 보험 가입",
+            "관광객 대상 강력 범죄는 드묾"
           ]
         }
       },
       "ja": {
         "summary": [
           {
-            "title": "90日間ビザなし滞在",
-            "sub": "西側諸国のパスポート保持者、2026年9月時点でETIASはまだ不要",
+            "title": "180日中90日ビザなし滞在",
+            "sub": "米国/英国/カナダ/オーストラリア/EU、ETIASはまだ不要",
             "key": "entry"
           },
           {
-            "title": "現金とカードの併用",
-            "sub": "非接触決済は広く普及、カフェやチップ用に現金も準備",
+            "title": "現金と宿泊税の準備",
+            "sub": "1人1泊ごとの宿泊税、都市により異なる",
             "key": "money"
           },
           {
             "title": "ショルダーシーズンが最適",
-            "sub": "4〜5月と9〜10月：18〜25°C、混雑が少ない",
+            "sub": "4月〜5月、9月〜10月、18–25°C",
             "key": "season"
+          },
+          {
+            "title": "高速鉄道網が中心",
+            "sub": "TrenitaliaとItaloが主要都市を結ぶ",
+            "key": "transport"
           }
         ],
         "visa": {
@@ -6143,24 +6120,24 @@
             {
               "name": "シェンゲン協定ビザなし入国",
               "code": "",
-              "who": "米国、英国、カナダ、オーストラリア、EU/シェンゲン圏のパスポート保持者",
+              "who": "米国、英国、カナダ、オーストラリア、EU/シェンゲン諸国のパスポート保持者",
               "cost": "無料",
-              "stay": "180日間のうち90日間",
-              "note": "イタリアだけでなくシェンゲン圏全体で共有"
+              "stay": "180日間で90日",
+              "note": "イタリアだけでなくシェンゲン圏全体で共有されます"
             }
           ],
           "warnings": [
             {
-              "title": "滞在超過の罰則",
-              "text": "不法滞在は5,000〜10,000ユーロの罰金の対象となり、国外退去や入国禁止の可能性もあります。"
+              "title": "オーバーステイの罰則",
+              "text": "不法滞在には5,000〜10,000ユーロの罰金が科され、国外退去や入国禁止となる可能性があります。"
             },
             {
-              "title": "90日間の枠は共有",
-              "text": "フランスなど他のシェンゲン圏で過ごした日もイタリアの滞在枠に含まれます。"
+              "title": "シェンゲン滞在日数は共有",
+              "text": "フランスで過ごした日もイタリア/シェンゲンの滞在許可日数に含まれます。"
             },
             {
-              "title": "規則は変更され続けている",
-              "text": "特に2026年後半は、予約前に正確な要件を必ず確認してください。"
+              "title": "規則は変更される可能性あり",
+              "text": "特に2026年末に向けて、予約前に正確な要件を確認してください。"
             }
           ]
         },
@@ -6168,16 +6145,12 @@
           "rows": [],
           "tips": [
             {
-              "title": "早めの予約で割引",
-              "text": "予約制の中速・高速列車は、最大6か月前からオンラインで早期購入割引が利用できます。"
-            },
-            {
-              "title": "地域列車の切符は刻印が必要",
-              "text": "紙の切符は乗車前に刻印が必要です。フィレンツェ〜ピサ〜リヴォルノ、ヴェネツィア・サンタルチア〜ヴェネツィア・メストレ〜パドヴァ〜ヴェローナなど一部路線では非接触タップ方式が試験導入されています。"
+              "title": "高速列車は事前予約を",
+              "text": "最大6か月前からオンラインでSuper Economy、Economy、Base運賃の早期購入割引が利用できます。"
             },
             {
               "title": "ZTLカメラに注意",
-              "text": "歴史地区の交通制限区域のカメラは、車で進入すると郵送で自動的に罰金が科されます。"
+              "text": "歴史地区の交通制限区域のカメラは自動的に罰金を郵送で通知します。"
             }
           ]
         },
@@ -6185,20 +6158,20 @@
           "budget": null,
           "tips": [
             {
-              "title": "現金を少し持参",
-              "text": "非接触決済は広く使えますが、小さなカフェや市場、チップ用に現金を持っておきましょう。"
+              "title": "現金を持ち歩く",
+              "text": "非接触型カードは広く使えますが、小さなカフェや市場、チップ用に現金を用意しておきましょう。"
             },
             {
               "title": "高い付加価値税率",
-              "text": "イタリアの標準IVA（付加価値税）率は22%で、EU内でも高い部類に入ります。"
+              "text": "標準IVA税率は22%で、EU内でも最も高い部類です。"
             },
             {
-              "title": "EU域外旅行者向け付加価値税還付",
-              "text": "1日に1店舗で70ユーロ以上使うと、一部の消費税還付を受けられます。"
+              "title": "非EU居住者向けVAT還付",
+              "text": "1日1店舗で70ユーロ以上購入すると、一部の売上税還付を受けられます。"
             },
             {
-              "title": "観光税の予算を確保",
-              "text": "ほぼすべての都市で1人1泊ごとの宿泊観光税が課されます。例：ローマは5つ星ホテルで10ユーロ、キャンプ場で3ユーロ。"
+              "title": "宿泊税の予算を確保",
+              "text": "宿泊税は1人1泊ごとに課され、例えばローマでは五つ星ホテルで€10からキャンプ場で€3まで、最大連続10泊まで適用されます。"
             }
           ]
         },
@@ -6206,25 +6179,12 @@
           "rows": [
             {
               "label": "ショルダーシーズン",
-              "sub": "4月〜5月、9月〜10月",
+              "sub": "快適な気温、程よい人出、価格も控えめ",
               "best": [
                 4,
                 5,
                 9,
                 10
-              ],
-              "busy": [],
-              "avoid": []
-            },
-            {
-              "label": "冬（都市部）",
-              "sub": "最も安く、混雑も少なく、ローマ、フィレンツェ、ミラノに最適",
-              "best": [
-                11,
-                12,
-                1,
-                2,
-                3
               ],
               "busy": [],
               "avoid": []
@@ -6241,8 +6201,8 @@
           "numbers": [
             {
               "number": "112",
-              "label": "総合緊急番号",
-              "note": "EU全域対応、英語可、固定電話・携帯電話から無料"
+              "label": "総合緊急通報(EU全域)",
+              "note": "英語対応可、固定電話・携帯電話から無料"
             },
             {
               "number": "113",
@@ -6256,35 +6216,38 @@
             },
             {
               "number": "118",
-              "label": "救急",
+              "label": "救急車",
               "note": ""
             }
           ],
           "chips": [
-            "交通拠点でのスリに注意",
-            "観光客を狙った凶悪犯罪はまれ",
-            "医療制度は非常に優れている",
+            "交通拠点でのスリが多い",
             "医療費に備えて旅行保険に加入",
-            "ACIロードサービス：803 116"
+            "観光客を狙った凶悪犯罪はまれ"
           ]
         }
       },
       "es": {
         "summary": [
           {
-            "title": "90 días sin visado",
-            "sub": "Titulares de pasaportes occidentales, aún sin necesidad de ETIAS a septiembre de 2026",
+            "title": "90/180 días sin visado",
+            "sub": "EE. UU./Reino Unido/Canadá/Australia/UE, ETIAS aún no requerido",
             "key": "entry"
           },
           {
-            "title": "Efectivo más tarjeta",
-            "sub": "Pago sin contacto ampliamente aceptado, lleva efectivo para cafés y propinas",
+            "title": "Efectivo más tasa turística",
+            "sub": "Tasa por pernoctación por persona/noche, varía según la ciudad",
             "key": "money"
           },
           {
-            "title": "Mejor temporada media",
-            "sub": "Abril–mayo y sept–oct: 18–25°C, menos multitudes",
+            "title": "La temporada media es la mejor",
+            "sub": "Abril–mayo y septiembre–octubre, 18–25°C",
             "key": "season"
+          },
+          {
+            "title": "Red de alta velocidad ferroviaria",
+            "sub": "Trenitalia e Italo conectan las principales ciudades",
+            "key": "transport"
           }
         ],
         "visa": {
@@ -6294,17 +6257,21 @@
               "code": "",
               "who": "Titulares de pasaporte de EE. UU., Reino Unido, Canadá, Australia y UE/Schengen",
               "cost": "Gratis",
-              "stay": "90 días por cada período de 180 días",
-              "note": "Compartido en toda el área Schengen, no solo Italia"
+              "stay": "90 días cada 180 días",
+              "note": "Se comparte en toda la zona Schengen, no solo en Italia"
             }
           ],
           "warnings": [
             {
-              "title": "El límite de 90 días es compartido",
-              "text": "Un día pasado en Francia o en otro país Schengen cuenta para tu límite en Italia."
+              "title": "Sanciones por exceso de estancia",
+              "text": "La estancia ilegal se sanciona con una multa de entre 5.000 € y 10.000 €, además de posible expulsión y prohibición de entrada."
             },
             {
-              "title": "Las normas siguen cambiando",
+              "title": "Días Schengen compartidos",
+              "text": "Un día pasado en Francia se descuenta de tu límite italiano/Schengen."
+            },
+            {
+              "title": "Normas aún en cambio",
               "text": "Confirma los requisitos exactos antes de reservar, especialmente en los últimos meses de 2026."
             }
           ]
@@ -6313,16 +6280,12 @@
           "rows": [],
           "tips": [
             {
-              "title": "Reserva con antelación para descuentos",
-              "text": "Hay descuentos por compra anticipada disponibles en línea hasta con seis meses de antelación para trenes con reserva, de velocidad media y rápidos."
-            },
-            {
-              "title": "Valida los billetes regionales",
-              "text": "Los billetes de papel deben validarse antes de subir; el sistema sin contacto de tap & tap se está probando en rutas seleccionadas como Florencia-Pisa-Livorno y Venecia Santa Lucía-Venecia Mestre-Padua-Verona."
+              "title": "Reserva los trenes de alta velocidad con antelación",
+              "text": "Descuentos por compra anticipada disponibles en línea hasta con seis meses de antelación, en tarifas Super Economy, Economy y Base."
             },
             {
               "title": "Cuidado con las cámaras ZTL",
-              "text": "Las cámaras de las zonas de tráfico limitado en los centros históricos emiten multas automáticas por correo si conduces dentro de ellas."
+              "text": "Las cámaras de zonas de tráfico limitado en los centros históricos emiten multas automáticas por correo."
             }
           ]
         },
@@ -6331,19 +6294,19 @@
           "tips": [
             {
               "title": "Lleva algo de efectivo",
-              "text": "Guarda efectivo para cafés pequeños, mercados y propinas, aunque el pago sin contacto esté muy extendido."
+              "text": "Las tarjetas sin contacto se aceptan ampliamente, pero conserva efectivo para cafés pequeños, mercados y propinas."
             },
             {
-              "title": "IVA alto",
-              "text": "El tipo estándar de IVA en Italia es del 22%, uno de los más altos de la UE."
+              "title": "Tipo de IVA alto",
+              "text": "La tasa estándar de IVA es del 22%, una de las más altas de la UE."
             },
             {
-              "title": "Devolución de IVA para visitantes de fuera de la UE",
-              "text": "Gasta al menos 70 euros en una tienda en un mismo día para poder optar a una devolución parcial del impuesto sobre ventas."
+              "title": "Devolución de IVA para no residentes de la UE",
+              "text": "Gasta al menos 70 euros en una tienda en un mismo día para tener derecho a una devolución parcial del impuesto sobre ventas."
             },
             {
               "title": "Presupuesta la tasa turística",
-              "text": "Casi todas las ciudades cobran una tasa turística por persona y por noche, p. ej. Roma 10 € (5 estrellas) hasta 3 € (campings)."
+              "text": "La tasa turística por pernoctación se cobra por persona y noche, por ejemplo en Roma va desde €10 en hoteles de cinco estrellas hasta €3 en campings, hasta 10 noches consecutivas."
             }
           ]
         },
@@ -6351,25 +6314,12 @@
           "rows": [
             {
               "label": "Temporada media",
-              "sub": "Abril-mayo y septiembre-octubre",
+              "sub": "Temperaturas agradables, aglomeraciones manejables, precios más bajos",
               "best": [
                 4,
                 5,
                 9,
                 10
-              ],
-              "busy": [],
-              "avoid": []
-            },
-            {
-              "label": "Invierno (ciudades)",
-              "sub": "Precios más bajos, menos multitudes, ideal para Roma, Florencia, Milán",
-              "best": [
-                11,
-                12,
-                1,
-                2,
-                3
               ],
               "busy": [],
               "avoid": []
@@ -6386,8 +6336,8 @@
           "numbers": [
             {
               "number": "112",
-              "label": "Emergencias generales",
-              "note": "Válido en toda la UE, disponible en inglés, gratis desde cualquier fijo o móvil"
+              "label": "Emergencia general (en toda la UE)",
+              "note": "Disponible en inglés, gratis desde cualquier teléfono fijo o móvil"
             },
             {
               "number": "113",
@@ -6406,30 +6356,33 @@
             }
           ],
           "chips": [
-            "Cuidado con los carteristas en los nodos de transporte",
-            "El delito violento contra turistas es raro",
-            "El sistema de salud es excelente",
+            "Carteristas frecuentes en nudos de transporte",
             "Contrata un seguro de viaje para gastos médicos",
-            "Asistencia en carretera ACI: 803 116"
+            "Los delitos violentos contra turistas son poco comunes"
           ]
         }
       },
       "zh": {
         "summary": [
           {
-            "title": "免签90天",
-            "sub": "西方护照持有人，截至2026年9月尚不需要ETIAS",
+            "title": "180天内可免签90天",
+            "sub": "美国/英国/加拿大/澳大利亚/欧盟，暂不需要ETIAS",
             "key": "entry"
           },
           {
-            "title": "现金加银行卡",
-            "sub": "非接触支付被广泛接受，咖啡馆和小费请备现金",
+            "title": "现金加旅游税",
+            "sub": "按每人每晚收取的过夜税，因城市而异",
             "key": "money"
           },
           {
             "title": "平季最佳",
-            "sub": "4-5月和9-10月：18–25°C，游客较少",
+            "sub": "4月至5月及9月至10月，18–25°C",
             "key": "season"
+          },
+          {
+            "title": "高速铁路网络",
+            "sub": "Trenitalia和Italo连接主要城市",
+            "key": "transport"
           }
         ],
         "visa": {
@@ -6437,24 +6390,24 @@
             {
               "name": "申根区免签入境",
               "code": "",
-              "who": "美国、英国、加拿大、澳大利亚及欧盟/申根护照持有人",
+              "who": "美国、英国、加拿大、澳大利亚及欧盟/申根护照持有者",
               "cost": "免费",
               "stay": "每180天内可停留90天",
-              "note": "整个申根区共享，不仅限于意大利"
+              "note": "该额度在整个申根区共享，而不仅限于意大利"
             }
           ],
           "warnings": [
             {
               "title": "逾期滞留处罚",
-              "text": "非法滞留将被处以5,000至10,000欧元的罚款，并可能被驱逐出境及禁止入境。"
+              "text": "非法滞留将被处以5,000至10,000欧元的罚款，并可能面临驱逐出境及入境禁令。"
             },
             {
-              "title": "90天额度共享",
-              "text": "在法国或申根区其他地方停留的天数也会计入你在意大利的停留额度。"
+              "title": "申根天数共享",
+              "text": "在法国停留的一天也会计入你的意大利/申根停留天数。"
             },
             {
               "title": "规定仍在变化",
-              "text": "预订前请务必确认最新的具体要求，尤其是在2026年最后几个月。"
+              "text": "预订前请确认最新要求，尤其是在2026年末前后。"
             }
           ]
         },
@@ -6462,16 +6415,12 @@
           "rows": [],
           "tips": [
             {
-              "title": "提前预订享折扣",
-              "text": "对于需预订的中速及高速列车，最多可提前六个月在线购票享受折扣。"
+              "title": "提前预订高铁票",
+              "text": "最多可提前六个月在线购票，享受Super Economy、Economy和Base票价的提前购票折扣。"
             },
             {
-              "title": "区域列车车票需打卡验证",
-              "text": "纸质车票必须在上车前打卡验证；佛罗伦萨-比萨-里窝那、威尼斯圣露西亚-威尼斯梅斯特雷-帕多瓦-维罗纳等部分路线正在试行非接触式刷卡验票。"
-            },
-            {
-              "title": "留意ZTL限行摄像头",
-              "text": "历史中心的限行区摄像头会自动通过邮寄方式对驶入车辆开出罚单。"
+              "title": "注意ZTL摄像头",
+              "text": "历史中心的限行区摄像头会通过邮寄方式自动开出罚单。"
             }
           ]
         },
@@ -6480,15 +6429,19 @@
           "tips": [
             {
               "title": "随身携带一些现金",
-              "text": "尽管非接触支付被广泛接受，小咖啡馆、市场和小费仍需现金。"
+              "text": "非接触式银行卡使用广泛，但小咖啡馆、市场和小费仍需准备现金。"
             },
             {
-              "title": "增值税率较高",
-              "text": "意大利的标准增值税（IVA）税率为22%，是欧盟中较高的国家之一。"
+              "title": "增值税税率较高",
+              "text": "标准增值税税率为22%，是欧盟中最高的税率之一。"
             },
             {
-              "title": "非欧盟游客可退税",
-              "text": "同一天在同一商店消费满70欧元即可申请部分销售税退税。"
+              "title": "非欧盟居民可退税",
+              "text": "在同一天同一家商店消费满70欧元即可申请部分销售税退税。"
+            },
+            {
+              "title": "预留旅游税预算",
+              "text": "过夜旅游税按每人每晚收取，例如罗马从五星级酒店的€10到露营地的€3不等，最多连续收取10晚。"
             }
           ]
         },
@@ -6496,25 +6449,12 @@
           "rows": [
             {
               "label": "平季",
-              "sub": "4月至5月及9月至10月",
+              "sub": "气温宜人，游客适中，价格较低",
               "best": [
                 4,
                 5,
                 9,
                 10
-              ],
-              "busy": [],
-              "avoid": []
-            },
-            {
-              "label": "冬季（城市）",
-              "sub": "价格最低，游客最少，适合罗马、佛罗伦萨、米兰",
-              "best": [
-                11,
-                12,
-                1,
-                2,
-                3
               ],
               "busy": [],
               "avoid": []
@@ -6531,8 +6471,8 @@
           "numbers": [
             {
               "number": "112",
-              "label": "综合紧急电话",
-              "note": "覆盖全欧盟，提供英语服务，座机和手机拨打均免费"
+              "label": "通用紧急电话（全欧盟）",
+              "note": "提供英语服务，任何座机或手机拨打均免费"
             },
             {
               "number": "113",
@@ -6551,11 +6491,9 @@
             }
           ],
           "chips": [
-            "在交通枢纽小心扒手",
-            "针对游客的暴力犯罪很少见",
-            "医疗系统非常完善",
+            "交通枢纽扒手较常见",
             "购买旅行保险以应对医疗费用",
-            "ACI道路救援：803 116"
+            "针对游客的暴力犯罪较少见"
           ]
         }
       }
@@ -12221,38 +12159,35 @@
       "en": {
         "summary": [
           {
+            "key": "entry",
+            "title": "30-day visa exemption",
+            "sub": "Since 15 Sep 2026; TDAC form required before landing"
+          },
+          {
             "key": "money",
             "title": "Cash still king",
-            "sub": "1,000–2,000 baht/day for markets, transport, meals"
+            "sub": "Carry baht; ATMs charge foreign card surcharges"
           },
           {
             "key": "season",
-            "title": "Nov–Feb best",
-            "sub": "Cool, dry season is most comfortable but busiest"
+            "title": "Nov–Feb best overall",
+            "sub": "Cool, dry, but peak prices and crowds"
           },
           {
             "key": "transport",
             "title": "BTS/MRT beat traffic",
-            "sub": "Train: 20 min vs taxi 1 hr, Sukhumvit to Old City"
+            "sub": "20 min by train vs 1 hour by taxi across town"
           }
         ],
         "visa": {
           "cards": [
             {
-              "name": "30-day visa exemption",
-              "code": "",
-              "who": "Most nationalities incl. US, UK, EU, Canada, Australia, NZ",
-              "cost": "Free",
-              "stay": "30 days",
-              "note": "Tourism only, no work allowed; extendable once"
-            },
-            {
-              "name": "15-day visa exemption",
+              "name": "Short exemption",
               "code": "",
               "who": "Mauritius and Seychelles nationals",
               "cost": "Free",
               "stay": "15 days",
-              "note": ""
+              "note": "Maldives is on the 30-day list instead"
             },
             {
               "name": "Visa on Arrival",
@@ -12260,7 +12195,7 @@
               "who": "Azerbaijan, Belarus, Serbia nationals",
               "cost": "around 2,000 THB",
               "stay": "up to 15 days",
-              "note": "Applied for at the airport on arrival"
+              "note": "Previously visa-free, now must apply at airport on arrival"
             }
           ],
           "warnings": [
@@ -12270,11 +12205,11 @@
             },
             {
               "title": "Land border entry limit",
-              "text": "Under the new 30-day exemption, land-border entry is generally limited to two times per calendar year, with exemptions for Malaysia, Brunei, Indonesia and Singapore nationals."
+              "text": "Travellers using the 30-day exemption can generally only enter through a land-border checkpoint twice per calendar year."
             },
             {
               "title": "Tourism only",
-              "text": "The exemption covers tourism only and does not allow work of any kind."
+              "text": "The 30-day exemption covers tourism only and does not allow work of any kind."
             }
           ]
         },
@@ -12283,15 +12218,15 @@
           "tips": [
             {
               "title": "Payment differs by line",
-              "text": "MRT, Airport Rail Link, and SRT Red Line take contactless Visa/Mastercard; BTS Skytrain, Gold Line, and Chao Phraya Tourist Boat still need a Rabbit Card."
+              "text": "MRT, Airport Rail Link, and SRT Red Line take contactless Visa/Mastercard; BTS, Gold Line, and Chao Phraya Tourist Boat need a Rabbit Card."
             },
             {
-              "title": "Airport Rail Link into the city",
-              "text": "From Suvarnabhumi, the ARL reaches Phaya Thai in no more than 30 minutes for THB 45; contactless cards work at all ARL stations since 8 Nov 2025."
+              "title": "Airport Rail Link",
+              "text": "From Suvarnabhumi, ARL reaches Phaya Thai in under 30 minutes for THB 45; since 8 Nov 2025 contactless cards work at all ARL stations."
             },
             {
               "title": "Don Mueang has no rail link",
-              "text": "From DMK use a metered taxi (roughly 180–250 THB plus toll), Grab, or public bus Route A1 for 30 THB."
+              "text": "From DMK use a metered taxi (roughly 180-250 THB plus toll), Grab, or public bus Route A1 for 30 THB."
             }
           ]
         },
@@ -12300,19 +12235,19 @@
           "tips": [
             {
               "title": "Cash still needed",
-              "text": "Cash is needed for markets, street food, and transport; cards are widely accepted only in tourist areas and hotels."
+              "text": "Markets, street food, and transport often require cash; contactless is less common on islands and rural areas."
             },
             {
-              "title": "ATM surcharges",
-              "text": "Some ATMs charge 250 baht with Visa and up to 350 baht with some foreign Mastercard cards; withdraw larger amounts less often."
+              "title": "Avoid dynamic currency conversion",
+              "text": "Always choose to be charged in baht at ATMs, not your home currency."
             },
             {
-              "title": "Cheapest ATMs",
-              "text": "Aeon-branded ATMs are usually the cheapest at roughly 150 baht per withdrawal."
+              "title": "Pick cheaper ATMs",
+              "text": "Aeon-branded ATMs are usually cheapest at roughly 150 baht per withdrawal; some ATMs charge 250-350 baht."
             },
             {
-              "title": "Decline dynamic currency conversion",
-              "text": "Always choose to be charged in baht, not your home currency, at ATMs."
+              "title": "Withdraw larger amounts less often",
+              "text": "A single 10,000 baht withdrawal could cost around 520 to 670 baht once fees are added."
             }
           ]
         },
@@ -12325,7 +12260,7 @@
           ],
           "rows": [
             {
-              "label": "Cool, dry season",
+              "label": "Cool dry season",
               "sub": "Bangkok and beaches",
               "best": [
                 11,
@@ -12342,8 +12277,13 @@
           "numbers": [
             {
               "number": "191",
-              "label": "Police emergencies",
+              "label": "Police emergency",
               "note": "Emergency Call Center, Royal Thai Police"
+            },
+            {
+              "number": "1669",
+              "label": "Medical emergency",
+              "note": "Medical Emergency Call Center"
             },
             {
               "number": "1155",
@@ -12351,78 +12291,71 @@
               "note": "24 hours, multilingual assistance for foreign visitors"
             },
             {
-              "number": "1669",
-              "label": "Medical Emergency",
-              "note": "Medical Emergency Call Center"
-            },
-            {
               "number": "199",
               "label": "Fire",
-              "note": "Separate line for fire emergencies"
+              "note": "Separate fire emergency line"
             }
           ],
           "chips": [
-            "Rural/island response can be slower"
+            "Call Tourist Police for scams/theft",
+            "Rural/island response can be delayed"
           ]
         }
       },
       "ko": {
         "summary": [
           {
-            "title": "현금이 여전히 최고",
-            "sub": "시장, 교통, 식사에 하루 1,000–2,000바트",
+            "title": "30일 무비자 입국",
+            "sub": "2026년 9월 15일부터 시행; 입국 전 TDAC 양식 작성 필수",
+            "key": "entry"
+          },
+          {
+            "title": "여전히 현금이 최고",
+            "sub": "바트화를 소지하세요; ATM은 해외 카드 수수료를 부과합니다",
             "key": "money"
           },
           {
-            "title": "11월–2월이 최적",
-            "sub": "선선하고 건조한 시즌이 가장 쾌적하지만 가장 붐빔",
+            "title": "11월~2월이 최적기",
+            "sub": "시원하고 건조하지만 성수기 요금과 인파가 있습니다",
             "key": "season"
           },
           {
-            "title": "BTS/MRT가 교통체증 이김",
-            "sub": "기차: 20분 vs 택시 1시간, 수쿰빗에서 올드시티",
+            "title": "BTS/MRT로 교통체증 피하기",
+            "sub": "도심 횡단 시 택시로 1시간, 기차로는 20분",
             "key": "transport"
           }
         ],
         "visa": {
           "cards": [
             {
-              "name": "30일 무비자 입국",
-              "code": "",
-              "who": "미국, 영국, EU, 캐나다, 호주, 뉴질랜드 등 대부분 국가",
-              "cost": "무료",
-              "stay": "30일",
-              "note": "관광 목적만 가능, 취업 불가; 1회 연장 가능"
-            },
-            {
-              "name": "15일 무비자 입국",
+              "name": "단기 무비자",
               "code": "",
               "who": "모리셔스 및 세이셸 국민",
               "cost": "무료",
               "stay": "15일",
-              "note": ""
+              "note": "몰디브는 대신 30일 목록에 포함됩니다"
             },
             {
               "name": "도착 비자",
               "code": "",
               "who": "아제르바이잔, 벨라루스, 세르비아 국민",
-              "cost": "약 2,000태국바트",
+              "cost": "약 2,000 THB",
               "stay": "최대 15일",
-              "note": "공항 도착 시 신청"
+              "note": "이전에는 무비자였으나, 이제는 공항 도착 시 신청해야 합니다"
             }
           ],
           "warnings": [
             {
               "title": "가짜 TDAC 웹사이트",
-              "text": "태국 이민청은 요금을 청구하고 민감한 정보를 수집하는 가짜 TDAC 사이트에 대해 경고합니다; tdac.immigration.go.th만 이용하세요."
+              "text": "태국 이민국 경찰은 요금을 부과하고 민감한 정보를 수집하는 가짜 TDAC 사이트에 대해 경고합니다; tdac.immigration.go.th만 이용하세요."
             },
             {
-              "title": "육로 입국 제한",
-              "text": "새로운 30일 무비자 제도에서는 육로 입국이 일반적으로 연간 2회로 제한되며, 말레이시아, 브루나이, 인도네시아, 싱가포르 국민은 예외입니다."
+              "title": "육로 국경 입국 제한",
+              "text": "30일 무비자 혜택을 이용하는 여행자는 일반적으로 연간 2회까지만 육로 국경 검문소를 통해 입국할 수 있습니다."
             },
             {
               "title": "관광 목적만 가능",
-              "text": "무비자 입국은 관광 목적만 허용되며 어떠한 형태의 취업도 허용되지 않습니다."
+              "text": "30일 무비자 혜택은 관광 목적에만 해당되며 어떠한 형태의 취업도 허용하지 않습니다."
             }
           ]
         },
@@ -12430,16 +12363,16 @@
           "rows": [],
           "tips": [
             {
-              "title": "노선별로 결제 방식 다름",
-              "text": "MRT, 공항철도(Airport Rail Link), SRT 레드라인은 비접촉식 Visa/Mastercard 사용 가능; BTS 스카이트레인, 골드라인, 차오프라야 관광 보트는 여전히 래빗 카드가 필요합니다."
+              "title": "노선별 결제 방식이 다릅니다",
+              "text": "MRT, 공항철도(Airport Rail Link), SRT 레드라인은 비접촉식 Visa/Mastercard를 사용할 수 있으며; BTS, 골드라인, 차오프라야 관광 보트는 래빗 카드(Rabbit Card)가 필요합니다."
             },
             {
-              "title": "공항철도로 시내 진입",
-              "text": "수완나품에서 ARL로 파야타이까지 최대 30분 소요, 요금은 45태국바트; 2025년 11월 8일부터 모든 ARL 역에서 비접촉식 카드 사용 가능."
+              "title": "공항철도(Airport Rail Link)",
+              "text": "수완나품 공항에서 ARL을 이용하면 30분 이내에 파야타이역에 45 THB로 도착합니다; 2025년 11월 8일부터 모든 ARL 역에서 비접촉식 카드가 사용 가능합니다."
             },
             {
-              "title": "돈므앙에는 철도 연결 없음",
-              "text": "DMK에서는 미터 택시(통행료 포함 약 180–250태국바트), Grab, 또는 30태국바트인 A1 노선 공영버스를 이용하세요."
+              "title": "돈므앙 공항은 철도 연결이 없습니다",
+              "text": "DMK에서는 미터 택시(통행료 포함 약 180-250 THB), Grab, 또는 30 THB의 공공버스 A1 노선을 이용하세요."
             }
           ]
         },
@@ -12447,28 +12380,28 @@
           "budget": null,
           "tips": [
             {
-              "title": "현금은 여전히 필요",
-              "text": "시장, 길거리 음식, 교통에는 현금이 필요합니다; 카드는 관광지와 호텔에서만 널리 받아들여집니다."
+              "title": "현금이 여전히 필요합니다",
+              "text": "시장, 길거리 음식, 교통수단은 종종 현금이 필요합니다; 섬과 시골 지역에서는 비접촉 결제가 덜 일반적입니다."
             },
             {
-              "title": "ATM 수수료",
-              "text": "일부 ATM은 Visa 사용 시 250바트, 일부 해외 Mastercard는 최대 350바트를 부과합니다; 큰 금액을 한 번에 인출하세요."
+              "title": "동적 환율 전환(DCC) 피하기",
+              "text": "ATM에서는 항상 자국 통화가 아닌 바트화로 청구되도록 선택하세요."
             },
             {
-              "title": "가장 저렴한 ATM",
-              "text": "이온(Aeon) 브랜드 ATM이 보통 가장 저렴하며 1회 인출당 약 150바트입니다."
+              "title": "저렴한 ATM 선택하기",
+              "text": "Aeon 브랜드 ATM이 보통 가장 저렴하며 인출당 약 150 바트입니다; 일부 ATM은 250-350 바트를 부과합니다."
             },
             {
-              "title": "동적환율전환(DCC) 거절하기",
-              "text": "ATM에서는 항상 본국 통화가 아닌 바트로 청구되도록 선택하세요."
+              "title": "큰 금액을 덜 자주 인출하세요",
+              "text": "한 번에 10,000 바트를 인출하면 수수료가 더해져 약 520~670 바트가 들 수 있습니다."
             }
           ]
         },
         "season": {
           "rows": [
             {
-              "label": "선선하고 건조한 시즌",
-              "sub": "방콕과 해변",
+              "label": "시원한 건기",
+              "sub": "방콕과 해변 지역",
               "best": [
                 11,
                 12,
@@ -12494,83 +12427,81 @@
               "note": "태국 왕립 경찰 긴급 콜센터"
             },
             {
+              "number": "1669",
+              "label": "응급 의료",
+              "note": "응급 의료 콜센터"
+            },
+            {
               "number": "1155",
               "label": "관광 경찰",
               "note": "24시간, 외국인 방문객을 위한 다국어 지원"
             },
             {
-              "number": "1669",
-              "label": "의료 응급",
-              "note": "의료 응급 콜센터"
-            },
-            {
               "number": "199",
-              "label": "화재",
-              "note": "화재 응급 전용 회선"
+              "label": "화재 신고",
+              "note": "별도의 화재 긴급 전화선"
             }
           ],
           "chips": [
-            "시골/섬 지역은 대응이 느릴 수 있음"
+            "사기/절도 발생 시 관광 경찰에 전화하세요",
+            "시골/섬 지역은 대응이 지연될 수 있습니다"
           ]
         }
       },
       "ja": {
         "summary": [
           {
-            "title": "現金がやはり必須",
-            "sub": "市場、交通、食事に1日1,000〜2,000バーツ",
+            "title": "30日間のビザ免除",
+            "sub": "2026年9月15日から適用；入国前にTDACフォームの提出が必要",
+            "key": "entry"
+          },
+          {
+            "title": "やはり現金が頼り",
+            "sub": "バーツを持参してください；ATMは海外カードに手数料を課します",
             "key": "money"
           },
           {
-            "title": "11月〜2月がベスト",
-            "sub": "涼しく乾燥した季節が最も快適だが最も混雑",
+            "title": "11月～2月が総合的にベスト",
+            "sub": "涼しく乾燥していますが、ハイシーズン料金と混雑があります",
             "key": "season"
           },
           {
-            "title": "BTS/MRTなら渋滞回避",
-            "sub": "電車：20分 vs タクシー1時間、スクンビットからオールドシティ",
+            "title": "BTS/MRTで渋滞を回避",
+            "sub": "市内横断はタクシーで1時間、電車なら20分",
             "key": "transport"
           }
         ],
         "visa": {
           "cards": [
             {
-              "name": "30日間ビザ免除",
+              "name": "短期ビザ免除",
               "code": "",
-              "who": "米国、英国、EU、カナダ、オーストラリア、ニュージーランドなど大半の国籍",
-              "cost": "無料",
-              "stay": "30日間",
-              "note": "観光目的のみ、就労不可；1回延長可能"
-            },
-            {
-              "name": "15日間ビザ免除",
-              "code": "",
-              "who": "モーリシャスおよびセーシェル国籍",
+              "who": "モーリシャスおよびセーシェル国民",
               "cost": "無料",
               "stay": "15日間",
-              "note": ""
+              "note": "モルディブは代わりに30日間リストに含まれます"
             },
             {
               "name": "アライバルビザ",
               "code": "",
-              "who": "アゼルバイジャン、ベラルーシ、セルビア国籍",
-              "cost": "約2,000THB",
+              "who": "アゼルバイジャン、ベラルーシ、セルビア国民",
+              "cost": "約2,000 THB",
               "stay": "最大15日間",
-              "note": "到着時に空港で申請"
+              "note": "以前はビザ免除でしたが、現在は空港到着時に申請が必要です"
             }
           ],
           "warnings": [
             {
-              "title": "偽のTDACサイト",
-              "text": "タイ入国管理局は、料金を請求し機密情報を収集する偽のTDACサイトについて警告しています；必ずtdac.immigration.go.thのみを利用してください。"
+              "title": "偽のTDACウェブサイト",
+              "text": "タイ入国管理局警察は、料金を請求し機密情報を収集する偽のTDACサイトについて警告しています；tdac.immigration.go.thのみを使用してください。"
             },
             {
-              "title": "陸路入国の回数制限",
-              "text": "新しい30日間ビザ免除では、陸路からの入国は原則として暦年で2回までに制限されますが、マレーシア、ブルネイ、インドネシア、シンガポール国籍は例外です。"
+              "title": "陸路国境入国の制限",
+              "text": "30日間のビザ免除を利用する旅行者は、通常、暦年に2回までしか陸路の国境検問所から入国できません。"
             },
             {
               "title": "観光目的のみ",
-              "text": "この免除は観光目的のみを対象としており、いかなる形の就労も認められません。"
+              "text": "30日間のビザ免除は観光目的のみに適用され、いかなる形態の就労も認められません。"
             }
           ]
         },
@@ -12578,16 +12509,16 @@
           "rows": [],
           "tips": [
             {
-              "title": "路線によって支払い方法が異なる",
-              "text": "MRT、エアポート・レール・リンク、SRTレッドラインは非接触型Visa/Mastercardに対応；BTSスカイトレイン、ゴールドライン、チャオプラヤー観光ボートは依然としてラビットカードが必要です。"
+              "title": "路線によって支払い方法が異なります",
+              "text": "MRT、エアポートレールリンク、SRTレッドラインは非接触型Visa/Mastercardに対応しています；BTS、ゴールドライン、チャオプラヤー観光ボートはラビットカードが必要です。"
             },
             {
-              "title": "エアポート・レール・リンクで市内へ",
-              "text": "スワンナプームからARLでパヤタイまで最大30分、料金は45THB；2025年11月8日以降、すべてのARL駅で非接触型カードが利用可能です。"
+              "title": "エアポートレールリンク",
+              "text": "スワンナプーム空港からARLでパヤタイ駅まで30分以内、料金は45 THB；2025年11月8日以降、すべてのARL駅で非接触型カードが利用可能です。"
             },
             {
-              "title": "ドンムアン空港には鉄道接続なし",
-              "text": "DMKからはメータータクシー（通行料込みで約180〜250THB）、Grab、または30THBの公共バスA1路線を利用してください。"
+              "title": "ドンムアン空港には鉄道の乗り入れがありません",
+              "text": "DMKからはメータータクシー（通行料込みで約180～250 THB）、Grab、または30 THBの路線バスA1をご利用ください。"
             }
           ]
         },
@@ -12595,27 +12526,27 @@
           "budget": null,
           "tips": [
             {
-              "title": "現金はまだ必要",
-              "text": "市場、屋台料理、交通には現金が必要です；カードは観光地やホテルでのみ広く利用可能です。"
+              "title": "現金はまだ必要です",
+              "text": "市場、屋台料理、交通機関では現金が必要な場合が多く、島や地方部では非接触決済が普及していません。"
             },
             {
-              "title": "ATM手数料",
-              "text": "一部のATMではVisaで250バーツ、海外Mastercardによっては最大350バーツを請求されます；まとめて多めに引き出すのがお得です。"
+              "title": "ダイナミック・カレンシー・コンバージョンを避ける",
+              "text": "ATMでは必ず自国通貨ではなくバーツで請求されるよう選択してください。"
             },
             {
-              "title": "最も手数料が安いATM",
-              "text": "イオン（Aeon）ブランドのATMが通常最も安く、1回の引き出しで約150バーツです。"
+              "title": "手数料の安いATMを選ぶ",
+              "text": "イオン系のATMは通常最も安く、1回の引き出しにつき約150バーツです；一部のATMは250～350バーツを請求します。"
             },
             {
-              "title": "ダイナミック・カレンシー・コンバージョンは拒否",
-              "text": "ATMでは常に自国通貨ではなくバーツで請求されるよう選択してください。"
+              "title": "一度に多めに引き出す",
+              "text": "10,000バーツを一度に引き出すと、手数料を含めて約520～670バーツかかる場合があります。"
             }
           ]
         },
         "season": {
           "rows": [
             {
-              "label": "涼しく乾燥した季節",
+              "label": "乾季（涼しい時期）",
               "sub": "バンコクとビーチ",
               "best": [
                 11,
@@ -12639,78 +12570,84 @@
             {
               "number": "191",
               "label": "警察緊急通報",
-              "note": "タイ王国警察 緊急コールセンター"
+              "note": "タイ王国警察緊急コールセンター"
+            },
+            {
+              "number": "1669",
+              "label": "医療緊急通報",
+              "note": "医療緊急コールセンター"
             },
             {
               "number": "1155",
               "label": "観光警察",
-              "note": "24時間、外国人旅行者向けの多言語対応"
-            },
-            {
-              "number": "1669",
-              "label": "医療緊急",
-              "note": "医療緊急コールセンター"
+              "note": "24時間対応、外国人訪問者向け多言語サポート"
             },
             {
               "number": "199",
               "label": "消防",
-              "note": "火災緊急専用回線"
+              "note": "独立した火災緊急通報専用回線"
             }
           ],
           "chips": [
-            "地方や離島では対応が遅くなる場合あり"
+            "詐欺・盗難の際は観光警察に連絡してください",
+            "地方部・離島では対応が遅れる場合があります"
           ]
         }
       },
       "es": {
         "summary": [
           {
+            "title": "Exención de visado de 30 días",
+            "sub": "Desde el 15 de septiembre de 2026; formulario TDAC obligatorio antes de aterrizar",
+            "key": "entry"
+          },
+          {
             "title": "El efectivo sigue siendo el rey",
-            "sub": "",
+            "sub": "Lleva baht; los cajeros cobran recargos por tarjetas extranjeras",
             "key": "money"
           },
           {
-            "title": "Nov–feb es lo mejor",
-            "sub": "La estación fresca y seca es la más cómoda pero también la más concurrida",
+            "title": "Nov–feb, lo mejor en general",
+            "sub": "Fresco y seco, pero con precios de temporada alta y aglomeraciones",
             "key": "season"
           },
           {
-            "title": "BTS/MRT vencen al tráfico",
-            "sub": "Tren: 20 min vs taxi 1 hora, de Sukhumvit a la Ciudad Vieja",
+            "title": "BTS/MRT evitan el tráfico",
+            "sub": "20 minutos en tren frente a 1 hora en taxi cruzando la ciudad",
             "key": "transport"
           }
         ],
         "visa": {
           "cards": [
             {
-              "name": "Exención de visado de 30 días",
+              "name": "Exención de corta duración",
               "code": "",
-              "who": "La mayoría de nacionalidades, incl. EE. UU., Reino Unido, UE, Canadá, Australia, NZ",
-              "cost": "Gratis",
-              "stay": "30 días",
-              "note": "Solo turismo, no se permite trabajar; se puede extender una vez"
-            },
-            {
-              "name": "Exención de visado de 15 días",
-              "code": "",
-              "who": "Nacionales de Mauricio y Seychelles",
+              "who": "Ciudadanos de Mauricio y Seychelles",
               "cost": "Gratis",
               "stay": "15 días",
-              "note": ""
+              "note": "Maldivas está en la lista de 30 días en su lugar"
+            },
+            {
+              "name": "Visado a la llegada",
+              "code": "",
+              "who": "Ciudadanos de Azerbaiyán, Bielorrusia, Serbia",
+              "cost": "alrededor de 2,000 THB",
+              "stay": "hasta 15 días",
+              "note": "Antes exento de visado, ahora debe solicitarse al llegar al aeropuerto"
             }
           ],
           "warnings": [
             {
               "title": "Sitios web falsos de TDAC",
-              "text": "La policía de inmigración tailandesa advierte sobre sitios falsos de TDAC que cobran dinero y recopilan datos sensibles; usa únicamente tdac.immigration.go.th."
+              "text": "La policía de inmigración tailandesa advierte sobre sitios falsos de TDAC que cobran dinero y recopilan datos sensibles; usa solo tdac.immigration.go.th."
             },
             {
-              "title": "Límite de entradas por frontera terrestre",
-              "text": "Con la nueva exención de 30 días, la entrada por frontera terrestre generalmente se limita a dos veces por año calendario, con excepciones para nacionales de Malasia, Brunéi, Indonesia y Singapur."
+              "title": "Límite de entrada por frontera terrestre",
+              "text": "Los viajeros que usan la exención de 30 días generalmente solo pueden entrar por un puesto fronterizo terrestre dos veces por año calendario."
             },
             {
               "title": "Solo turismo",
-              "text": "La exención cubre únicamente el turismo y no permite ningún tipo de trabajo."
+              "text": "La exención de 30 días cubre únicamente turismo y no permite ningún tipo de trabajo."
             }
           ]
         },
@@ -12719,15 +12656,15 @@
           "tips": [
             {
               "title": "El pago varía según la línea",
-              "text": "MRT, Airport Rail Link y la línea roja de SRT aceptan Visa/Mastercard sin contacto; BTS Skytrain, la línea dorada y el Chao Phraya Tourist Boat todavía requieren una Rabbit Card."
+              "text": "MRT, Airport Rail Link y la línea roja de SRT aceptan Visa/Mastercard sin contacto; BTS, la línea dorada y el Chao Phraya Tourist Boat requieren una Rabbit Card."
             },
             {
-              "title": "Airport Rail Link hacia la ciudad",
-              "text": "Desde Suvarnabhumi, el ARL llega a Phaya Thai en no más de 30 minutos por 45 THB; las tarjetas sin contacto funcionan en todas las estaciones del ARL desde el 8 de noviembre de 2025."
+              "title": "Airport Rail Link",
+              "text": "Desde Suvarnabhumi, el ARL llega a Phaya Thai en menos de 30 minutos por 45 THB; desde el 8 de noviembre de 2025 las tarjetas sin contacto funcionan en todas las estaciones del ARL."
             },
             {
               "title": "Don Mueang no tiene conexión ferroviaria",
-              "text": "Desde DMK, usa un taxi con taxímetro (aproximadamente 180–250 THB más peaje), Grab, o el autobús público de la ruta A1 por 30 THB."
+              "text": "Desde DMK usa un taxi con taxímetro (aproximadamente 180-250 THB más peaje), Grab, o el autobús público de la Ruta A1 por 30 THB."
             }
           ]
         },
@@ -12736,27 +12673,27 @@
           "tips": [
             {
               "title": "El efectivo sigue siendo necesario",
-              "text": "Se necesita efectivo para mercados, comida callejera y transporte; las tarjetas se aceptan ampliamente solo en zonas turísticas y hoteles."
+              "text": "Los mercados, la comida callejera y el transporte a menudo requieren efectivo; el pago sin contacto es menos común en las islas y zonas rurales."
             },
             {
-              "title": "Recargos de cajeros automáticos",
-              "text": "Algunos cajeros cobran 250 baht con Visa y hasta 350 baht con algunas tarjetas Mastercard extranjeras; retira montos mayores con menos frecuencia."
+              "title": "Evita la conversión dinámica de moneda",
+              "text": "Elige siempre que te cobren en baht en los cajeros, no en tu moneda local."
             },
             {
-              "title": "Los cajeros más económicos",
-              "text": "Los cajeros de la marca Aeon suelen ser los más baratos, con aproximadamente 150 baht por retiro."
+              "title": "Elige cajeros más baratos",
+              "text": "Los cajeros de la marca Aeon suelen ser los más económicos, alrededor de 150 baht por retiro; algunos cajeros cobran entre 250 y 350 baht."
             },
             {
-              "title": "Rechaza la conversión de divisas dinámica",
-              "text": "Elige siempre que te cobren en baht, no en tu moneda local, en los cajeros automáticos."
+              "title": "Retira cantidades mayores con menos frecuencia",
+              "text": "Un solo retiro de 10,000 baht podría costar entre 520 y 670 baht una vez sumadas las comisiones."
             }
           ]
         },
         "season": {
           "rows": [
             {
-              "label": "Estación fresca y seca",
-              "sub": "Bangkok y playas",
+              "label": "Temporada fresca y seca",
+              "sub": "Bangkok y las playas",
               "best": [
                 11,
                 12,
@@ -12778,8 +12715,13 @@
           "numbers": [
             {
               "number": "191",
-              "label": "Emergencias policiales",
-              "note": "Centro de llamadas de emergencia, Real Policía Tailandesa"
+              "label": "Emergencia policial",
+              "note": "Centro de Llamadas de Emergencia, Policía Real Tailandesa"
+            },
+            {
+              "number": "1669",
+              "label": "Emergencia médica",
+              "note": "Centro de Llamadas de Emergencia Médica"
             },
             {
               "number": "1155",
@@ -12787,78 +12729,71 @@
               "note": "24 horas, asistencia multilingüe para visitantes extranjeros"
             },
             {
-              "number": "1669",
-              "label": "Emergencia Médica",
-              "note": "Centro de llamadas de emergencia médica"
-            },
-            {
               "number": "199",
               "label": "Bomberos",
-              "note": "Línea separada para emergencias de incendio"
+              "note": "Línea de emergencia independiente para incendios"
             }
           ],
           "chips": [
-            "La respuesta en zonas rurales/islas puede ser más lenta"
+            "Llama a la Policía Turística por estafas/robos",
+            "La respuesta en zonas rurales/islas puede retrasarse"
           ]
         }
       },
       "zh": {
         "summary": [
           {
-            "title": "现金仍是王道",
-            "sub": "市场、交通、餐饮每天需1,000–2,000泰铢",
+            "title": "30天免签",
+            "sub": "自2026年9月15日起实施；入境前须填写TDAC表格",
+            "key": "entry"
+          },
+          {
+            "title": "现金依然为王",
+            "sub": "请携带泰铢；ATM机会对外国卡收取附加费",
             "key": "money"
           },
           {
-            "title": "11月–2月最佳",
-            "sub": "凉爽干燥季最舒适，但也最拥挤",
+            "title": "11月至2月总体最佳",
+            "sub": "凉爽干燥，但旺季价格高、人多拥挤",
             "key": "season"
           },
           {
-            "title": "BTS/MRT胜过堵车",
-            "sub": "火车：20分钟 vs 出租车1小时，从素坤逸到古城",
+            "title": "BTS/MRT可避开交通拥堵",
+            "sub": "市内穿行，乘火车仅需20分钟，而出租车需1小时",
             "key": "transport"
           }
         ],
         "visa": {
           "cards": [
             {
-              "name": "30天免签",
-              "code": "",
-              "who": "大多数国籍，包括美国、英国、欧盟、加拿大、澳大利亚、新西兰",
-              "cost": "免费",
-              "stay": "30天",
-              "note": "仅限旅游，不得工作；可延期一次"
-            },
-            {
-              "name": "15天免签",
+              "name": "短期免签",
               "code": "",
               "who": "毛里求斯和塞舌尔公民",
               "cost": "免费",
               "stay": "15天",
-              "note": ""
+              "note": "马尔代夫则被列入30天免签名单"
             },
             {
               "name": "落地签证",
               "code": "",
               "who": "阿塞拜疆、白俄罗斯、塞尔维亚公民",
               "cost": "约2,000泰铢",
-              "stay": "最多15天",
-              "note": "抵达机场时办理申请"
+              "stay": "最长15天",
+              "note": "此前免签，现须在抵达机场时办理签证"
             }
           ],
           "warnings": [
             {
               "title": "虚假TDAC网站",
-              "text": "泰国移民局警告存在收取费用并收集敏感数据的虚假TDAC网站；请务必仅使用tdac.immigration.go.th。"
+              "text": "泰国移民警方警告存在收取费用并收集敏感数据的虚假TDAC网站；请仅使用tdac.immigration.go.th。"
             },
             {
-              "title": "陆路入境次数限制",
-              "text": "根据新的30天免签政策，陆路入境通常每个日历年限二次，马来西亚、文莱、印度尼西亚和新加坡公民除外。"
+              "title": "陆路口岸入境次数限制",
+              "text": "使用30天免签政策的旅客通常每个日历年只能通过陆路口岸入境两次。"
             },
             {
               "title": "仅限旅游",
-              "text": "该免签仅适用于旅游目的，不允许任何形式的工作。"
+              "text": "30天免签仅适用于旅游目的，不允许从事任何形式的工作。"
             }
           ]
         },
@@ -12867,15 +12802,15 @@
           "tips": [
             {
               "title": "各线路支付方式不同",
-              "text": "MRT、机场快线（Airport Rail Link）和SRT红线支持非接触式Visa/Mastercard支付；BTS空铁、金线和昭披耶河旅游船仍需使用Rabbit Card。"
+              "text": "MRT、机场快线（Airport Rail Link）和SRT红线支持非接触式Visa/Mastercard支付；BTS、金线和昭披耶河旅游船则需要使用兔子卡（Rabbit Card）。"
             },
             {
-              "title": "机场快线进城",
-              "text": "从素万那普机场乘ARL到帕亚泰站最多30分钟，票价45泰铢；自2025年11月8日起，所有ARL车站均可使用非接触式银行卡。"
+              "title": "机场快线（Airport Rail Link）",
+              "text": "从素万那普机场出发，ARL可在30分钟内抵达帕亚泰站，票价45泰铢；自2025年11月8日起，所有ARL车站均可使用非接触式银行卡。"
             },
             {
-              "title": "廊曼机场没有铁路连接",
-              "text": "从廊曼机场可乘坐计程车（含过路费约180–250泰铢）、Grab打车，或搭乘票价30泰铢的A1路公交车。"
+              "title": "廊曼机场没有轨道交通连接",
+              "text": "从廊曼机场出发，可乘坐计程车（含过路费约180-250泰铢）、Grab，或乘坐票价30泰铢的A1路公交车。"
             }
           ]
         },
@@ -12883,27 +12818,27 @@
           "budget": null,
           "tips": [
             {
-              "title": "仍需准备现金",
-              "text": "市场、街头小吃和交通都需要现金；银行卡通常仅在旅游区和酒店被广泛接受。"
+              "title": "仍需携带现金",
+              "text": "市场、街头小吃和交通出行通常需要现金；在离岛和乡村地区，非接触式支付并不普及。"
             },
             {
-              "title": "ATM手续费",
-              "text": "部分ATM使用Visa卡收取250泰铢手续费，部分外国Mastercard最高可收取350泰铢；建议减少取款次数、每次多取一些。"
+              "title": "避免动态货币转换（DCC）",
+              "text": "在ATM机上请始终选择以泰铢计价扣款，而非本国货币。"
             },
             {
-              "title": "手续费最低的ATM",
-              "text": "永旺（Aeon）品牌ATM通常最便宜，每次取款约150泰铢。"
+              "title": "选择手续费较低的ATM",
+              "text": "永旺（Aeon）品牌的ATM通常最便宜，每次取款约150泰铢；部分ATM收取250-350泰铢。"
             },
             {
-              "title": "拒绝动态货币转换",
-              "text": "在ATM取款时，务必选择以泰铢计费，而非本国货币。"
+              "title": "减少取款次数、增加单次取款金额",
+              "text": "一次性取款10,000泰铢，算上手续费后费用大约在520至670泰铢之间。"
             }
           ]
         },
         "season": {
           "rows": [
             {
-              "label": "凉爽干燥季",
+              "label": "凉爽干季",
               "sub": "曼谷及海滩地区",
               "best": [
                 11,
@@ -12926,27 +12861,28 @@
           "numbers": [
             {
               "number": "191",
-              "label": "警察报警电话",
+              "label": "警察报警",
               "note": "泰国皇家警察紧急呼叫中心"
-            },
-            {
-              "number": "1155",
-              "label": "旅游警察",
-              "note": "全天候24小时，为外国游客提供多语言协助"
             },
             {
               "number": "1669",
               "label": "医疗急救",
-              "note": "医疗急救呼叫中心"
+              "note": "医疗紧急呼叫中心"
+            },
+            {
+              "number": "1155",
+              "label": "旅游警察",
+              "note": "全天24小时为外国游客提供多语言协助"
             },
             {
               "number": "199",
               "label": "消防",
-              "note": "火灾紧急情况专用热线"
+              "note": "独立的火警紧急热线"
             }
           ],
           "chips": [
-            "偏远地区/岛屿响应速度可能较慢"
+            "遇诈骗/盗窃请致电旅游警察",
+            "乡村/离岛地区响应可能较慢"
           ]
         }
       }

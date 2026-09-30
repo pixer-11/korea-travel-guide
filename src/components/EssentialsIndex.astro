@@ -49,7 +49,11 @@ const rows = guides
     const fe = facts[g.data.country];
     const fresh = !!fe && fe.srcHash === bodyHash(String(g.body ?? ''));
     const F: any = fresh ? (lang === 'en' ? fe.en : fe[lang]) : null;
-    const card = (key: string) => F?.summary?.find((s: any) => s.key === key) ?? null;
+    const visa0 = F?.visa?.cards?.[0];
+    const card = (key: string) => F?.summary?.find((s: any) => s.key === key)
+      // No vetted entry summary (Hong Kong's named an office the guide does not):
+      // the first vetted visa card says the same thing in its own words.
+      ?? (key === 'entry' && visa0 ? { title: visa0.name, sub: [visa0.stay, visa0.cost].filter(Boolean).join(' · ') } : null);
     const nums = (F?.emergency?.numbers ?? []).slice(0, 2);
     const pw = plugs[g.data.country];
     const time = COUNTRY_TIME[String(c.iso2).toUpperCase()];

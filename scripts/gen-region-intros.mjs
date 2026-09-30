@@ -21,6 +21,7 @@ import { readFile, writeFile, readdir } from 'node:fs/promises';
 import matter from 'gray-matter';
 import Anthropic from '@anthropic-ai/sdk';
 import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
+import { findToolSpill } from './lib/tool-spill.mjs';
 
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 const MODEL = process.env.WRITER_MODEL || 'claude-sonnet-5';
@@ -97,6 +98,9 @@ async function genEnglish(region, country) {
     return s && s !== 'undefined' && s !== 'null' ? s : null;
   };
   const out = { blurb: clean(j.blurb), getting: clean(j.getting), days: clean(j.days) };
+  // The whole reply written as JSON into one field printed `","getting":"`
+  // mid-paragraph on 45 region pages (2026-10-01): refuse it, the caller retries.
+  if (findToolSpill(out).length) throw new Error(`tool spill in ${findToolSpill(out).join(', ')}`);
   return Object.fromEntries(Object.entries(out).filter(([, v]) => v));
 }
 
@@ -126,6 +130,7 @@ async function translateOne(region, en, lang) {
   // A partial translation is worse than none: the page would mix languages
   // field by field. All three or nothing.
   if (!kept.blurb || !kept.getting || !kept.days) throw new Error(`${lang}: incomplete translation`);
+  if (findToolSpill(kept).length) throw new Error(`${lang}: tool spill in ${findToolSpill(kept).join(', ')}`);
   return kept;
 }
 

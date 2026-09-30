@@ -63,3 +63,10 @@ test('blank, whitespace and empty-array fields count as missing', () => {
     'countryHeading',
   ]);
 });
+
+test('the JSON form of a spill is caught; an ordinary quotation is not', () => {
+  // 45 region intros, 2026-10-01: the whole reply landed in `blurb`.
+  assert.deepEqual(findToolSpill({ blurb: 'Temple town.","getting":"Fly into SAI.', getting: 'Fly into SAI.', days: '3' }), ['blurb']);
+  assert.deepEqual(findToolSpill({ blurb: '{"blurb": "x", "getting": "y"}', getting: 'y', days: 'z' }), ['blurb']);
+  assert.deepEqual(findToolSpill({ blurb: 'Locals call it "the Loop", and so will you.', getting: 'ok', days: 'ok' }), []);
+});

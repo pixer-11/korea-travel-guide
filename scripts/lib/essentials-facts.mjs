@@ -265,11 +265,14 @@ export function vetFacts(raw, body) {
     // Each card against ITS section (plus the quick answer), not the whole
     // guide: "June to August best" passed because "August" was in the
     // emergencies section (review, 2026-09-30). A month a card names must be
-    // named in the best-time section.
+    // named in THAT card's section — the best-time section for the season
+    // card, the visa section for the entry card. (Checking every card against
+    // best-time dropped Thailand's entry card for naming the September rule
+    // change, and the hub showed Thailand with no entry cell — owner, 10-01.)
     const own = { entry: byKey.visa, money: byKey.money, season: byKey.season, transport: byKey.transport }[key] ?? '';
     const named = monthsNamedIn(`${card.title} ${card.sub}`);
-    const stray = named.filter((m) => !monthNamed(m, byKey.season ?? ''));
-    if (stray.length) { dropped.push(`summary.${key}: months not named in the best-time section (${stray.map((m) => MONTHS[m - 1]).join(', ')})`); continue; }
+    const stray = named.filter((m) => !monthNamed(m, own));
+    if (stray.length) { dropped.push(`summary.${key}: months not named in its section (${stray.map((m) => MONTHS[m - 1]).join(', ')})`); continue; }
     if (keep(`summary.${key}`, card, `${own}\n${lead}`)) out.summary.push(card);
   }
 
@@ -360,7 +363,9 @@ export function translationProblems(en, tr) {
   // "24/7" is one idea, not the numbers 24 and 7: Korean says 24시간 연중무휴,
   // and the strict set match refused that in five countries (2026-09-30).
   // A brand whose name is a number is a name: 7-Eleven is 세븐일레븐 in Korean.
-  const norm = (x) => String(x).replace(/24\s*\/\s*7/g, '24').replace(/\b7[-‑]?(?:Eleven|11)\b|セブン-?イレブン|세븐일레븐|7-ELEVEN/gi, 'SEVENELEVEN');
+  // "1.000" / "1 000" are Spanish and French ways of writing 1,000 — the same
+  // number, not an added one (Spanish cards lost their budget lines to this).
+  const norm = (x) => String(x).replace(/(\d)[.   ](?=\d{3}(?!\d))/g, '$1').replace(/24\s*\/\s*7/g, '24').replace(/\b7[-‑]?(?:Eleven|11)\b|セブン-?イレブン|세븐일레븐|7-ELEVEN/gi, 'SEVENELEVEN');
   const walk = (a, b, path) => {
     if (typeof a === 'string') {
       a = norm(a);
