@@ -126,6 +126,13 @@ const closingSoon = nowByEnd.filter((p) => endNum(p) - todayNum <= 14);
 const endingTitle = closingSoon.length ? e('endingTitle') : nowLabel;
 const endingCards = (closingSoon.length ? closingSoon : nowByEnd).slice(0, ENDING);
 const nowRest = nowByEnd.filter((p) => !endingCards.includes(p));
+// The page is built on the UTC date, so from midnight in Asia until the next
+// build an event that closed "yesterday" still stood among the four cards,
+// labelled "Ended" (owner, 2026-10-01 01:00 KST: three of four). The next
+// closers ride along hidden, and the script below drops what has ended by the
+// reader's own date and moves these up.
+const SPARE = 4;
+const spareCards = nowRest.slice(0, SPARE);
 const CAP = 8;
 
 // A real photo where the guide has one (the same 640px WebP the home wall
@@ -157,6 +164,7 @@ const monthChips = chips.filter((c) => monthCat(c) > 0);
 const clientStrings = JSON.stringify({
   count: e('count'), countOne: e('countOne'), daysLeft: e('daysLeft'), dayLeft: e('dayLeft'),
   lastDay: e('lastDay'), ended: e('ended'), progress: e('progress'),
+  endingSub: e('endingSub'), allNow: e('allNow'),
 });
 
 const row = (p: any, withBadge = true) => ({ p, cat: catOf(p), b: withBadge ? badge(p) : null });
@@ -168,15 +176,16 @@ const row = (p: any, withBadge = true) => ({ p, cat: catOf(p), b: withBadge ? ba
       <div class="wrap">
         <div class="ev-head">
           <h2 class="ev-h2"><span class="ev-dot" aria-hidden="true"></span>{endingTitle}</h2>
-          <span class="ev-count">{e('endingSub', { n: nowItems.length })}</span>
+          <span class="ev-count" data-now-sub data-n={nowItems.length}>{e('endingSub', { n: nowItems.length })}</span>
         </div>
         <div class="ev-end-grid">
-          {endingCards.map((p) => {
+          {[...endingCards, ...spareCards].map((p, i) => {
             const cat = catOf(p);
+            const spare = i >= endingCards.length;
             const st = runState(p);
             const ph = photoOf(p);
             return (
-              <a class="ev-end-card" href={card.href(p.id)} data-start={iso(p.data.eventStartDate)} data-end={iso(p.data.eventEndDate)}>
+              <a class="ev-end-card" href={card.href(p.id)} hidden={spare} data-spare={spare ? '' : undefined} data-start={iso(p.data.eventStartDate)} data-end={iso(p.data.eventEndDate)}>
                 {ph && <img class="ev-end-img" src={ph.src} alt="" loading="lazy" decoding="async" width="640" height="360" style={`object-position:${ph.pos}`} />}
                 <span class="ev-end-body">
                   <span class="ev-end-top">
@@ -197,7 +206,7 @@ const row = (p: any, withBadge = true) => ({ p, cat: catOf(p), b: withBadge ? ba
         </div>
         {nowRest.length > 0 && (
           <details class="ev-fold ev-fold--now">
-            <summary>{e('allNow', { n: nowItems.length })}</summary>
+            <summary data-now-all>{e('allNow', { n: nowItems.length })}</summary>
             <ul class="ev-rows">
               {nowRest.map((p) => {
                 const cat = catOf(p);
@@ -394,6 +403,45 @@ const row = (p: any, withBadge = true) => ({ p, cat: catOf(p), b: withBadge ? ba
       }
     }
 
+    // 1b. What has ended by the reader's date leaves "on now": the build ran on
+    //     the UTC date, so after midnight in Asia yesterday's closers were still
+    //     cards here, labelled "Ended". Hide them, move the hidden spares up
+    //     to keep four cards, and recount.
+    const nowSec = root.querySelector<HTMLElement>('.ev-now');
+    if (nowSec) {
+      const over = (el: HTMLElement) => Date.parse(el.dataset.end || '') / DAY < today;
+      const cards = [...nowSec.querySelectorAll<HTMLAnchorElement>('.ev-end-card')];
+      const rows = [...nowSec.querySelectorAll<HTMLElement>('.ev-fold--now li[data-end]')];
+      const gone = new Set<string>();
+      for (const el of [...cards, ...rows]) {
+        const href = el.getAttribute('href') ?? el.querySelector('a')?.getAttribute('href') ?? '';
+        if (over(el)) gone.add(href);
+      }
+      if (gone.size) {
+        const slots = cards.length - cards.filter((c) => c.hasAttribute('data-spare')).length;
+        const shown = new Set<string>();
+        for (const c of cards) {
+          const on = shown.size < slots && !over(c);
+          c.hidden = !on;
+          if (on) shown.add(c.getAttribute('href') ?? '');
+        }
+        let rest = 0;
+        for (const li of rows) {
+          const href = li.querySelector('a')?.getAttribute('href') ?? '';
+          li.hidden = over(li) || shown.has(href);
+          if (!li.hidden) rest++;
+        }
+        const fold = nowSec.querySelector<HTMLDetailsElement>('.ev-fold--now');
+        if (fold) fold.hidden = rest === 0;
+        const n = Math.max(Number(nowSec.querySelector<HTMLElement>('[data-now-sub]')?.dataset.n || 0) - gone.size, 0);
+        if (n === 0) nowSec.hidden = true;
+        const sub = nowSec.querySelector<HTMLElement>('[data-now-sub]');
+        if (sub && S.endingSub) sub.textContent = fill(S.endingSub, n);
+        const all = nowSec.querySelector<HTMLElement>('[data-now-all]');
+        if (all && S.allNow) all.textContent = fill(S.allNow, n);
+      }
+    }
+
     // 2. Month tabs × category chips: show/hide rows, recount each month,
     //    hide empty months, and open the folds while a filter is on (a
     //    filtered list is short; hiding half of it again would confuse).
@@ -495,6 +543,9 @@ const row = (p: any, withBadge = true) => ({ p, cat: catOf(p), b: withBadge ? ba
   /* Ending soon: four photo cards */
   .ev-now .ev-head { margin-bottom: 1rem; }
   .ev-end-grid { display: grid; gap: 1rem; grid-template-columns: repeat(4, minmax(0, 1fr)); }
+  /* The spares and whatever the script drops stay out even where a display
+     rule below would win over the hidden attribute. */
+  .ev-end-card[hidden], .ev-now[hidden], .ev-fold[hidden], .ev-rows li[hidden] { display: none; }
   .ev-end-card {
     display: flex; flex-direction: column; min-width: 0; overflow: hidden;
     border-radius: 22px; background: var(--surface); border: 1px solid var(--line-soft);

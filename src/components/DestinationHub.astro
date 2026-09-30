@@ -382,7 +382,7 @@ const metaDesc = blurb ? clip(blurb) : countryLabel;
                     {upcomingEvents.map((post) => {
                       const start = post.data.eventStartDate ? new Date(post.data.eventStartDate) : null;
                       return (
-                        <li>
+                        <li data-ev-end={post.data.eventEndDate ? new Date(post.data.eventEndDate).toISOString().slice(0, 10) : undefined}>
                           <a href={card.href(post.id)}>
                             {start ? (
                               <span class="dh-date"><span>{badgeMonth(start)}</span><strong>{badgeDay(start)}</strong></span>
@@ -455,6 +455,11 @@ const metaDesc = blurb ? clip(blurb) : countryLabel;
     dek={t('dest.newsletterDek').replace('{country}', countryLabel)}
   />
 </BaseLayout>
+
+<script>
+  import { hideEnded } from '../lib/hideEnded';
+  hideEnded();
+</script>
 
 <style>
   /* ── Hero ── */

@@ -289,7 +289,7 @@ const fmtEventDates = (p: any) => {
         <p class="ess-dek">{t('home.monthly.dek')}</p>
         <div class="stories">
           {monthlyPicks.map((p) => (
-            <a class="story" href={localizePath(`/posts/${p.id}`, lang)}>
+            <a class="story" href={localizePath(`/posts/${p.id}`, lang)} data-ev-end={new Date((p.data.eventEndDate ?? p.data.eventStartDate) as any).toISOString().slice(0, 10)}>
               <div class="story-thumb">
                 {p.data.heroImage ? (
                   <img src={tileSize(p.data.heroImage.url)} alt={eventSchemaName(p.data.title)} loading="lazy" width="600" height="400" />
@@ -543,6 +543,8 @@ const fmtEventDates = (p: any) => {
   )}
 
   <script>
+    import { hideEnded } from '../lib/hideEnded';
+    hideEnded();
     const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     if (!reduce && 'IntersectionObserver' in window) {
       const els = Array.from(document.querySelectorAll('main .story, main .dest-tile, main .essential-card, main .card')) as HTMLElement[];

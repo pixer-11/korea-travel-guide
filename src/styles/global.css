@@ -1922,3 +1922,7 @@ main:focus { outline: none; }
      reach. Six is a taste; the rest live one tap away on /destinations. */
   .sec-more .grid > :nth-child(n+7) { display: none; }
 }
+
+/* Event links an in-page script hides once they have ended by the reader's
+   date (lib/hideEnded.ts); .story and list rows set their own display. */
+[data-ev-end][hidden] { display: none !important; }
