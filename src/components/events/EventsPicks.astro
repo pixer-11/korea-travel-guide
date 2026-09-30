@@ -1,0 +1,179 @@
+---
+// The three photo cards at the top of both events hubs. Which three is a rule
+// (lib/eventHub pickEvents), re-run on every build; the blurb is the guide's
+// own quick answer in the page's language. Each card has the guide button and
+// a second link that always exists: the city's itinerary where there is one,
+// else the country's essentials page (every active country has one) — a card
+// with nothing beside its button read as text that failed to show (owner,
+// 2026-09-30).
+import { getCollection } from 'astro:content';
+import { eventCategory } from '../../lib/eventCategory.mjs';
+import { eventShortName } from '../../lib/eventShortName.mjs';
+import { fmtEventRange } from '../../lib/eventDates.mjs';
+import { tileSize } from '../../lib/repImage';
+import { pickEvents, startN, endN, todayNumOf, firstSentences } from '../../lib/eventHub';
+import countriesData from '../../../data/countries.json';
+import { useTranslations, localizePath, localeCodes, type Lang } from '../../i18n/utils';
+import { localizePlace } from '../../i18n/places';
+import { evStrings } from '../../i18n/events-strings';
+
+interface Props {
+  lang: Lang;
+  upcoming: any[];
+  today: Date;
+  card: { title: (id: string, en: string) => string; desc: (id: string, en: string) => string; href: (id: string) => string };
+  trTitles: Map<string, { title: string }>;
+  distinctCountry?: boolean;
+}
+const { lang, upcoming, today, card, trTitles, distinctCountry = true } = Astro.props as Props;
+const t = useTranslations(lang);
+const e = evStrings(lang);
+const locale = localeCodes[lang];
+const todayNum = todayNumOf(today);
+
+const picks = pickEvents(upcoming, today, { distinctCountry });
+const allAnnual = picks.length > 0 && picks.every((p) => p.data.eventRecurring === true);
+
+const qaByPost = lang === 'en' ? new Map<string, string>()
+  : new Map((await getCollection('postI18n', ({ data }) => data.lang === lang)).map((x) => [x.data.slug, x.data.quickAnswer ?? '']));
+const itineraries = (await getCollection('itineraries', ({ data }) => !data.draft)).sort((a, b) => a.data.days - b.data.days);
+const slugOf = new Map(countriesData.countries.map((c) => [c.name, c.slug]));
+const essSlugs = new Set((await getCollection('essentials', ({ data }) => !data.draft)).map((x) => x.id));
+
+const CAT_KEY = { concerts: 'catConcerts', sports: 'catSports', festivals: 'catFestivals', exhibitions: 'catExhibitions', other: 'catOther' } as const;
+const nameOf = (p: any) => {
+  const x = trTitles.get(p.id);
+  return x ? eventShortName(x.title, lang) : eventShortName(p.data.title, 'en');
+};
+const whereOf = (p: any) => {
+  const city = localizePlace(p.data.region, lang);
+  const ctry = localizePlace(p.data.country ?? 'South Korea', lang);
+  return !city || city === ctry ? ctry : `${city} · ${ctry}`;
+};
+const wd = new Intl.DateTimeFormat(locale, { weekday: 'short', timeZone: 'UTC' });
+const mon = new Intl.DateTimeFormat(locale, { month: 'short', timeZone: 'UTC' });
+
+const view = picks.map((p, i) => {
+  const s = new Date(p.data.eventStartDate);
+  const len = p.data.eventEndDate ? endN(p) - startN(p) + 1 : 0;
+  const h = p.data.heroImage;
+  const dd = startN(p) - todayNum;
+  const cat = eventCategory(p.data) as keyof typeof CAT_KEY;
+  const it = itineraries.find((x) => x.data.city === p.data.region);
+  const ctry = p.data.country ?? 'South Korea';
+  const ess = slugOf.get(ctry);
+  const second = it
+    ? { href: localizePath(`/itinerary/${it.id}`, lang), label: e('ctaItin', { city: localizePlace(it.data.city, lang) }) }
+    : ess && essSlugs.has(ess) ? { href: localizePath(`/essentials/${ess}`, lang), label: e('ctaEss', { country: localizePlace(ctry, lang) }) } : null;
+  return {
+    p, tone: ['brown', 'night', 'cream'][i % 3], cat, catLabel: e(CAT_KEY[cat] ?? 'catOther'),
+    start: s.toISOString().slice(0, 10),
+    day: s.getUTCDate(), when: `${mon.format(s)} · ${wd.format(s)}`,
+    range: fmtEventRange(p.data.eventStartDate, p.data.eventEndDate, locale),
+    dday: dd <= 0 ? e('dToday') : e('dDay', { n: dd }),
+    len: !len ? '' : len === 1 ? e('oneDay') : e('nDays', { n: len }),
+    blurb: firstSentences((lang === 'en' ? p.data.quickAnswer : qaByPost.get(p.id)) || '') || card.desc(p.id, p.data.description),
+    img: tileSize(h.url), pos: h.focus ? `${h.focus.x}% ${h.focus.y}%` : '50% 50%',
+    credit: h.credit ?? '', source: h.source ?? '',
+    second,
+  };
+});
+---
+
+{view.length > 0 && (
+  <section class="section evp" data-dday-strings={JSON.stringify({ d: e('dDay'), today: e('dToday') })}>
+    <div class="wrap">
+      <div class="evp-head">
+        <h2 class="evp-h2">{allAnnual ? e('pickTitle') : e('pickTitleAny')}</h2>
+        <span class="evp-sub">{allAnnual ? e('pickSub') : e('pickSubAny')}</span>
+      </div>
+      <div class="evp-grid">
+        {view.map((v) => (
+          <article class={`evp-card evp-card--${v.tone}`} data-start={v.start}>
+            <a class="evp-photo" href={card.href(v.p.id)} tabindex="-1" aria-hidden="true">
+              <img src={v.img} alt="" loading="lazy" decoding="async" width="640" height="400" style={`object-position:${v.pos}`} />
+            </a>
+            {v.source && <a class="evp-credit" href={v.source} rel="nofollow noopener" target="_blank" title={v.credit}>{t('ess.photoBy')}</a>}
+            <div class="evp-body">
+              <div class="evp-top">
+                <span class="evp-tag">{v.catLabel}</span>
+                <span class="evp-dday" data-dday>{v.dday}</span>
+              </div>
+              <p class="evp-date"><span class="evp-day">{v.day}</span><span class="evp-when">{v.when}<br />{v.range}</span></p>
+              <h3 class="evp-name"><a href={card.href(v.p.id)}>{nameOf(v.p)}</a></h3>
+              <p class="evp-blurb">{v.blurb}</p>
+              <p class="evp-pills"><span>{whereOf(v.p)}</span>{v.len && <span>{v.len}</span>}</p>
+              <div class="evp-cta">
+                <a class="evp-btn" href={card.href(v.p.id)}>{e('ctaGuide')} <span aria-hidden="true">→</span></a>
+                {v.second && <a class="evp-link" href={v.second.href}>{v.second.label}</a>}
+              </div>
+            </div>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+)}
+
+<script>
+  // D-day from the reader's own date (the build's is a day stale by evening).
+  const DAY = 86_400_000;
+  const n = new Date();
+  const today = Date.UTC(n.getFullYear(), n.getMonth(), n.getDate()) / DAY;
+  for (const sec of document.querySelectorAll<HTMLElement>('[data-dday-strings]')) {
+    let S: Record<string, string> = {};
+    try { S = JSON.parse(sec.dataset.ddayStrings || '{}'); } catch { /* keep build-time labels */ }
+    for (const cardEl of sec.querySelectorAll<HTMLElement>('[data-start]')) {
+      const s = Date.parse(cardEl.dataset.start || '') / DAY;
+      const out = cardEl.querySelector('[data-dday]');
+      if (!Number.isFinite(s) || !out || !S.d) continue;
+      const left = s - today;
+      out.textContent = left <= 0 ? S.today : S.d.split('{n}').join(String(left));
+    }
+  }
+</script>
+
+<style>
+  .evp { --ev-night: #262d1b; --ev-brown: #6b3413; --ev-sand: #ece5d6; --ev-cream: #fbf7ef; --ev-on-dark: #f6f1e6; }
+  @media (prefers-color-scheme: dark) { :global(:root:not([data-theme='light'])) .evp { --ev-sand: #2a251d; --ev-cream: #221f19; } }
+  :global(:root[data-theme='dark']) .evp { --ev-sand: #2a251d; --ev-cream: #221f19; }
+  .evp-head { display: flex; align-items: baseline; justify-content: space-between; gap: .4rem 1rem; flex-wrap: wrap; margin-bottom: 1rem; }
+  .evp-h2 { font-family: var(--font-display); font-size: clamp(1.35rem, 3.4vw, 1.75rem); font-weight: 800; letter-spacing: -0.01em; margin: 0; color: var(--ink); }
+  .evp-sub { color: var(--muted); font-size: .88rem; }
+  .evp-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; }
+  .evp-card { position: relative; display: flex; flex-direction: column; min-width: 0; overflow: hidden; border-radius: 26px; }
+  .evp-card--brown { background: var(--ev-brown); color: var(--ev-on-dark); }
+  .evp-card--night { background: var(--ev-night); color: var(--ev-on-dark); }
+  .evp-card--cream { background: var(--ev-cream); color: var(--ink); border: 1px solid var(--line-soft); }
+  .evp-photo { display: block; }
+  .evp-photo img { display: block; width: 100%; aspect-ratio: 16 / 10; height: auto; object-fit: cover; background: var(--ev-sand); }
+  .evp-credit { position: absolute; top: .6rem; right: .7rem; font-size: .68rem; padding: .15rem .5rem; border-radius: var(--r-pill); background: rgba(0, 0, 0, .45); color: #fff; text-decoration: none; }
+  .evp-body { display: flex; flex-direction: column; gap: .55rem; padding: 1.1rem 1.25rem 1.3rem; flex: 1; }
+  .evp-top { display: flex; justify-content: space-between; align-items: center; gap: .5rem; }
+  .evp-tag { display: inline-block; padding: .18rem .65rem; border-radius: var(--r-pill); font-size: .75rem; font-weight: 700; background: rgba(255, 255, 255, .16); }
+  .evp-card--cream .evp-tag { background: var(--ev-sand); color: var(--ink-soft); }
+  .evp-dday { font-size: .82rem; font-weight: 800; letter-spacing: .02em; }
+  .evp-date { display: flex; align-items: flex-end; gap: .6rem; margin: .1rem 0 0; }
+  .evp-day { font-family: var(--font-display); font-size: 3rem; line-height: .9; font-weight: 800; }
+  .evp-when { font-size: .82rem; font-weight: 600; line-height: 1.35; opacity: .9; }
+  .evp-name { font-family: var(--font-display); font-size: 1.25rem; line-height: 1.3; margin: .2rem 0 0; }
+  .evp-name a { color: inherit; text-decoration: none; }
+  .evp-name a:hover { text-decoration: underline; }
+  .evp-blurb { margin: 0; font-size: .9rem; line-height: 1.6; opacity: .9; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .evp-pills { display: flex; flex-wrap: wrap; gap: .4rem; margin: .2rem 0 0; }
+  .evp-pills span { font-size: .78rem; font-weight: 700; padding: .3rem .7rem; border-radius: var(--r-pill); background: rgba(255, 255, 255, .12); }
+  .evp-card--cream .evp-pills span { background: var(--ev-sand); }
+  .evp-cta { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem 1rem; margin-top: auto; padding-top: .6rem; }
+  .evp-btn { display: inline-flex; align-items: center; gap: .4rem; padding: .7rem 1.2rem; border-radius: var(--r-pill); font-weight: 700; text-decoration: none; background: var(--ev-on-dark); color: #262d1b; }
+  .evp-card--cream .evp-btn { background: var(--ev-brown); color: #fff; }
+  .evp-link { font-size: .88rem; font-weight: 600; color: inherit; opacity: .92; text-underline-offset: 3px; }
+  @media (max-width: 959px) { .evp-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+  /* Three tall cards stacked were two phone screens before the first list;
+     one swipeable row instead, the next card peeking in. */
+  @media (max-width: 599px) {
+    .evp-grid { grid-template-columns: none; grid-auto-flow: column; grid-auto-columns: 86%;
+      overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: .4rem; }
+    .evp-grid > * { scroll-snap-align: start; }
+    .evp-photo img { aspect-ratio: 16 / 9; }
+  }
+</style>

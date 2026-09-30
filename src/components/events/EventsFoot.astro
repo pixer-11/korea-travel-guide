@@ -1,0 +1,80 @@
+---
+// Foot of both events hubs, above the past-events archive: links to the
+// country hubs, and annual events whose run ended this year
+// (lib/eventHub annualEndedThisYear — "this year" is checked, not assumed).
+import Flag from '../Flag.astro';
+import { eventShortName } from '../../lib/eventShortName.mjs';
+import { fmtEventRange } from '../../lib/eventDates.mjs';
+import { localizePath, localeCodes, type Lang } from '../../i18n/utils';
+import { localizePlace } from '../../i18n/places';
+import { evStrings } from '../../i18n/events-strings';
+
+interface CountryLink { name: string; slug: string; flag: string; up: number }
+interface Props {
+  lang: Lang;
+  countryLinks: CountryLink[];
+  countriesTitle: string;
+  countriesDek: string;
+  again: any[];
+  pastCount: number;
+  card: { href: (id: string) => string };
+  trTitles: Map<string, { title: string }>;
+}
+const { lang, countryLinks, countriesTitle, countriesDek, again, pastCount, card, trTitles } = Astro.props as Props;
+const e = evStrings(lang);
+const locale = localeCodes[lang];
+const nameOf = (p: any) => {
+  const x = trTitles.get(p.id);
+  return x ? eventShortName(x.title, lang) : eventShortName(p.data.title, 'en');
+};
+---
+
+{(countryLinks.length > 0 || again.length > 0) && (
+  <section class="section evf">
+    <div class="wrap evf-grid">
+      {countryLinks.length > 0 && (
+        <div class="evf-box">
+          <h2 class="evf-h">{countriesTitle}</h2>
+          <p class="evf-dek">{countriesDek}</p>
+          <nav class="evf-countries" aria-label={e('countriesLabel')}>
+            {countryLinks.map((c) => (
+              <a href={localizePath(`/events/${c.slug}`, lang)}><Flag code={c.flag} size="1em" class="flag-ico" /> {localizePlace(c.name, lang)}{c.up > 0 && <span class="evf-n">{c.up}</span>}</a>
+            ))}
+          </nav>
+        </div>
+      )}
+      {again.length > 0 && (
+        <div class="evf-box">
+          <h2 class="evf-h">{e('againTitle')}</h2>
+          <p class="evf-dek">{e('againDek')}</p>
+          <ul class="evf-again">
+            {again.map((p) => (
+              <li><a href={card.href(p.id)}><strong>{nameOf(p)}</strong><span>{e('againWhen', { date: fmtEventRange(p.data.eventStartDate, p.data.eventEndDate, locale) })}</span></a></li>
+            ))}
+          </ul>
+          {pastCount > 0 && <a class="evf-past" href="#past-events">{e('pastAll', { n: pastCount })} →</a>}
+        </div>
+      )}
+    </div>
+  </section>
+)}
+
+<style>
+  .evf { --ev-sand: #ece5d6; --ev-peach: #fde3d4; }
+  @media (prefers-color-scheme: dark) { :global(:root:not([data-theme='light'])) .evf { --ev-sand: #2a251d; --ev-peach: #3a2620; } }
+  :global(:root[data-theme='dark']) .evf { --ev-sand: #2a251d; --ev-peach: #3a2620; }
+  .evf-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 22rem), 1fr)); gap: 1rem; }
+  .evf-box { background: var(--surface); border: 1px solid var(--line-soft); border-radius: 26px; padding: 1.4rem 1.5rem; min-width: 0; }
+  .evf-h { font-family: var(--font-display); font-size: 1.3rem; margin: 0 0 .4rem; color: var(--ink); }
+  .evf-dek { color: var(--ink-soft); font-size: .92rem; line-height: 1.6; margin: 0 0 1rem; }
+  .evf-countries { display: flex; flex-wrap: wrap; gap: .45rem; }
+  .evf-countries a { display: inline-flex; align-items: center; gap: .35rem; padding: .4rem .8rem; border-radius: var(--r-pill); background: var(--ev-sand); color: var(--ink); font-size: .88rem; font-weight: 600; text-decoration: none; }
+  .evf-countries a:hover { background: var(--ev-peach); }
+  .evf-n { font-size: .75rem; color: var(--muted); font-weight: 500; }
+  .evf-again { list-style: none; margin: 0; padding: 0; display: grid; gap: .45rem; }
+  .evf-again a { display: flex; justify-content: space-between; align-items: center; gap: .3rem 1rem; flex-wrap: wrap; padding: .7rem 1rem; border-radius: 16px; background: var(--ev-sand); color: var(--ink); text-decoration: none; }
+  .evf-again a:hover strong { color: var(--accent-text); }
+  .evf-again strong { font-size: .95rem; overflow-wrap: anywhere; }
+  .evf-again span { font-size: .8rem; color: var(--muted); }
+  .evf-past { display: inline-block; margin-top: 1rem; font-weight: 700; color: var(--accent-text); font-size: .92rem; }
+</style>

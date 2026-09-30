@@ -1,0 +1,110 @@
+---
+// Top of both events hubs: breadcrumbs, the two-line headline, and the panel
+// with what is on now / starting within 7 days / ending today plus the
+// calendar feed. The numbers are counted at build time (lib/eventHub hubStats)
+// and recounted in the browser from the list's data-start/data-end, since the
+// page is built once a day and read in every time zone.
+import Flag from '../Flag.astro';
+import { useTranslations, type Lang } from '../../i18n/utils';
+import { evStrings } from '../../i18n/events-strings';
+
+interface Crumb { label: string; href?: string }
+interface Props {
+  lang: Lang;
+  crumbs: Crumb[];
+  h1a: string;
+  h1b: string;
+  dek: string;
+  stats: { now: number; week: number; today: number };
+  icsHref: string;
+  flag?: string;
+  note?: string;            // e.g. the editor-traveled line, only when true
+  links?: { label: string; href: string }[];
+}
+const { lang, crumbs, h1a, h1b, dek, stats, icsHref, flag, note, links = [] } = Astro.props as Props;
+const t = useTranslations(lang);
+const e = evStrings(lang);
+// A country name makes the first line longer; a step down keeps it to one line
+// on a desktop instead of stranding the last word.
+const long = h1a.length > 14;
+---
+
+<section class="evh">
+  <div class="wrap evh-grid">
+    <div class="evh-copy">
+      <nav class="evh-crumbs" aria-label="breadcrumb">
+        {crumbs.map((c, i) => (
+          <>
+            {i > 0 && <span aria-hidden="true">·</span>}
+            {c.href ? <a href={c.href}>{c.label}</a> : <span class="evh-here">{flag && <Flag code={flag} size="1em" class="flag-ico" />} {c.label}</span>}
+          </>
+        ))}
+      </nav>
+      <h1 class:list={['evh-h1', { 'evh-h1--long': long }]}>{h1a}<span>{h1b}</span></h1>
+      <p class="evh-dek">{dek}</p>
+      {note && <p class="evh-note">{note}</p>}
+      {links.length > 0 && (
+        <p class="evh-links">{links.map((l) => <a href={l.href}>{l.label}</a>)}</p>
+      )}
+    </div>
+    <div class="evh-panel" data-ev-stats>
+      <div class="evh-stats">
+        <div class="evh-stat"><span>{e('statNow')}</span><strong data-stat="now">{stats.now}</strong></div>
+        <div class="evh-stat"><span>{e('statWeek')}</span><strong data-stat="week">{stats.week}</strong></div>
+        <div class="evh-stat"><span>{e('statToday')}</span><strong data-stat="today">{stats.today}</strong></div>
+      </div>
+      <a class="evh-cal" href={icsHref}>
+        <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M7 3v3M17 3v3M4 9h16M5 5h14a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1zM12 12v5M9.5 14.5h5"/></svg>
+        {e('subscribe')}
+      </a>
+      <p class="evh-cal-hint">{t('ev.addToCalendarHint')}</p>
+    </div>
+  </div>
+</section>
+
+<script>
+  const DAY = 86_400_000;
+  const n = new Date();
+  const today = Date.UTC(n.getFullYear(), n.getMonth(), n.getDate()) / DAY;
+  for (const panel of document.querySelectorAll<HTMLElement>('[data-ev-stats]')) {
+    let now = 0, week = 0, end = 0;
+    for (const el of document.querySelectorAll<HTMLElement>('[data-ev-list] [data-start]')) {
+      const s = Date.parse(el.dataset.start || '') / DAY;
+      const e = el.dataset.end ? Date.parse(el.dataset.end) / DAY : Infinity;
+      if (!Number.isFinite(s)) continue;
+      if (s <= today && e >= today) now++;
+      if (s >= today && s <= today + 6) week++;
+      if (e === today) end++;
+    }
+    const set = (k: string, v: number) => { const x = panel.querySelector(`[data-stat="${k}"]`); if (x) x.textContent = String(v); };
+    set('now', now); set('week', week); set('today', end);
+  }
+</script>
+
+<style>
+  .evh { --ev-night: #262d1b; --ev-brown: #6b3413; --ev-on-dark: #f6f1e6; padding: 2.2rem 0 1rem; }
+  .evh-grid { display: grid; grid-template-columns: minmax(0, 1.35fr) minmax(0, 1fr); gap: 2rem; align-items: center; }
+  .evh-crumbs { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem; font-size: .85rem; color: var(--muted); margin-bottom: 1rem; }
+  .evh-crumbs a { color: inherit; text-decoration: none; }
+  .evh-crumbs a:hover { color: var(--accent-text); }
+  .evh-here { color: var(--ink); font-weight: 700; display: inline-flex; align-items: center; gap: .3rem; }
+  .evh-h1 { font-family: var(--font-display); font-size: clamp(2rem, 5.2vw, 3.3rem); line-height: 1.12; letter-spacing: -0.02em; margin: 0 0 1rem; color: var(--ink); word-break: keep-all; overflow-wrap: anywhere; }
+  .evh-h1--long { font-size: clamp(1.8rem, 4.2vw, 2.6rem); }
+  .evh-h1 span { display: block; color: var(--ev-brown); }
+  :global(:root[data-theme='dark']) .evh-h1 span { color: #e8a577; }
+  @media (prefers-color-scheme: dark) { :global(:root:not([data-theme='light'])) .evh-h1 span { color: #e8a577; } }
+  .evh-dek { color: var(--ink-soft); font-size: 1.05rem; line-height: 1.7; margin: 0; max-width: 36rem; }
+  .evh-note { margin: .8rem 0 0; font-size: .9rem; font-weight: 600; color: var(--pine); }
+  .evh-links { display: flex; flex-wrap: wrap; gap: .4rem .6rem; margin: 1rem 0 0; }
+  .evh-links a { font-size: .88rem; font-weight: 600; padding: .35rem .8rem; border-radius: var(--r-pill); border: 1px solid var(--line); background: var(--surface); color: var(--ink); text-decoration: none; }
+  .evh-links a:hover { border-color: var(--accent); color: var(--accent-text); }
+  .evh-panel { background: var(--ev-night); color: var(--ev-on-dark); border-radius: 28px; padding: 1.4rem; }
+  .evh-stats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .6rem; }
+  .evh-stat { background: rgba(255, 255, 255, .09); border-radius: 18px; padding: .8rem .9rem; display: flex; flex-direction: column; gap: .25rem; min-width: 0; }
+  .evh-stat span { font-size: .8rem; font-weight: 600; opacity: .85; line-height: 1.3; }
+  .evh-stat strong { font-family: var(--font-display); font-size: 2rem; line-height: 1; }
+  .evh-cal { display: flex; align-items: center; justify-content: center; gap: .5rem; margin-top: 1rem; padding: .75rem 1rem; border-radius: var(--r-pill); background: var(--ev-on-dark); color: #262d1b; font-weight: 700; text-decoration: none; }
+  .evh-cal:hover { filter: brightness(.96); }
+  .evh-cal-hint { margin: .6rem 0 0; font-size: .8rem; text-align: center; opacity: .8; }
+  @media (max-width: 859px) { .evh-grid { grid-template-columns: 1fr; gap: 1.4rem; } }
+</style>
