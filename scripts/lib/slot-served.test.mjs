@@ -26,6 +26,19 @@ const api = (runs, workflow = 'pinterest\\.yml') => async (url, init) => {
   return { ok: true, json: async () => ({ workflow_runs: runs }) };
 };
 
+// publish names a workJob: a run only serves the day if its generate job ran.
+// A run carrying `generate: 'skipped'` is a late cron that stood down.
+const apiPub = (runs) => async (url, init) => {
+  assert.equal(init.headers.Authorization, 'Bearer tok');
+  const m = url.match(/\/actions\/runs\/(\d+)\/jobs/);
+  if (m) {
+    const r = runs.find((x) => String(x.id) === m[1]);
+    return { ok: true, json: async () => ({ jobs: [{ name: 'slot', conclusion: 'success' }, { name: 'generate', conclusion: r?.generate ?? 'success' }] }) };
+  }
+  assert.match(url, /\/actions\/workflows\/publish\.yml\/runs\?created=/);
+  return { ok: true, json: async () => ({ workflow_runs: runs }) };
+};
+
 test('the 08-29 incident shape: rescue succeeded in-window → late original is served', async () => {
   const rescue = { id: 65, conclusion: 'success', created_at: '2026-08-29T03:22:46Z' };
   const v = await slotAlreadyServed('pinterest.yml', { now: NOW, env: baseEnv, fetchImpl: api([rescue]) });
@@ -78,7 +91,7 @@ test('publish (kstDay): the accidental 01:20 batch serves the whole KST day', as
   const at1619 = Date.parse('2026-08-30T07:20:00Z'); // 16:20 KST 08-30
   const batch0120 = { id: 500, conclusion: 'success', created_at: '2026-08-29T16:20:00Z' }; // 01:20 KST 08-30
   const v = await slotAlreadyServed('publish.yml', {
-    now: at1619, env: baseEnv, fetchImpl: api([batch0120], 'publish\\.yml'),
+    now: at1619, env: baseEnv, fetchImpl: apiPub([batch0120]),
   });
   assert.equal(v.served, true);
 });
@@ -87,8 +100,57 @@ test('publish (kstDay): yesterday evening\'s late batch does not serve today', a
   const at1619 = Date.parse('2026-08-30T07:20:00Z');
   const lastNight = { id: 501, conclusion: 'success', created_at: '2026-08-29T14:05:00Z' }; // 23:05 KST 08-29
   const v = await slotAlreadyServed('publish.yml', {
-    now: at1619, env: baseEnv, fetchImpl: api([lastNight], 'publish\\.yml'),
+    now: at1619, env: baseEnv, fetchImpl: apiPub([lastNight]),
   });
+  assert.equal(v.served, false);
+});
+
+// 2026-09-29: GitHub delivered 09-28's 16:19 publish at 00:37 KST on 09-29. The
+// window was midnight of NOW, so the 09-28 batch fell outside it and the late
+// cron ran a full second publish (32 posts that day). The cron's own fire day
+// decides now.
+test('publish (kstDay): a cron delivered after midnight belongs to the day it was meant for', async () => {
+  const at0037 = Date.parse('2026-09-28T15:37:00Z'); // 00:37 KST 09-29
+  const batch0928 = { id: 600, conclusion: 'success', created_at: '2026-09-28T07:36:25Z' }; // 16:36 KST 09-28
+  const v = await slotAlreadyServed('publish.yml', {
+    now: at0037, env: baseEnv, fetchImpl: apiPub([batch0928]),
+  });
+  assert.equal(v.served, true);
+});
+
+test('publish (kstDay): …and runs when that day really had no batch', async () => {
+  const at0037 = Date.parse('2026-09-28T15:37:00Z');
+  const twoDaysAgo = { id: 601, conclusion: 'success', created_at: '2026-09-27T07:36:00Z' }; // 16:36 KST 09-27
+  const v = await slotAlreadyServed('publish.yml', {
+    now: at0037, env: baseEnv, fetchImpl: apiPub([twoDaysAgo]),
+  });
+  assert.equal(v.served, false);
+});
+
+test('publish (kstDay): a cron queued a few minutes early still belongs to today', async () => {
+  const at1612 = Date.parse('2026-09-30T07:12:00Z'); // 16:12 KST 09-30, 7 min before 16:19
+  const yesterday = { id: 602, conclusion: 'success', created_at: '2026-09-29T07:36:19Z' }; // 16:36 KST 09-29
+  const v = await slotAlreadyServed('publish.yml', {
+    now: at1612, env: baseEnv, fetchImpl: apiPub([yesterday]),
+  });
+  assert.equal(v.served, false, "어제 배치가 오늘 몫을 막으면 하루가 빠진다");
+});
+
+
+test('publish (kstDay): a run that stood down on the guard does not serve the next day (코덱스 09-30)', async () => {
+  const at1619 = Date.parse('2026-09-29T07:20:00Z'); // 16:20 KST 09-29 — the day's real cron
+  const standDown = { id: 700, conclusion: 'success', created_at: '2026-09-28T15:37:00Z', generate: 'skipped' }; // 00:37 KST 09-29
+  const v = await slotAlreadyServed('publish.yml', { now: at1619, env: baseEnv, fetchImpl: apiPub([standDown]) });
+  assert.equal(v.served, false);
+});
+
+test('publish (kstDay): a jobs lookup that fails counts as not served (fail open)', async () => {
+  const at1619 = Date.parse('2026-09-29T07:20:00Z');
+  const run = { id: 701, conclusion: 'success', created_at: '2026-09-29T07:36:00Z' };
+  const fetchImpl = async (url) => (url.includes('/jobs')
+    ? { ok: false, status: 502, json: async () => ({}) }
+    : { ok: true, json: async () => ({ workflow_runs: [run] }) });
+  const v = await slotAlreadyServed('publish.yml', { now: at1619, env: baseEnv, fetchImpl });
   assert.equal(v.served, false);
 });
 

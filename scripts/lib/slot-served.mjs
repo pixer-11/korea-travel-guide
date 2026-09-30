@@ -37,9 +37,21 @@ export async function slotAlreadyServed(workflowFile, {
   // parse, and outside the try that exception killed the payload it guards —
   // the opposite of the fail-open contract above (Codex, 2026-09-02).
   try {
-    const slotStart = entry.guard === 'kstDay'
-      ? now - ((now + 9 * 3600000) % 86400000) // KST midnight, as a UTC timestamp
-      : Math.max(...entry.crons.map((c) => lastFireBefore(c, now))) - EARLY_TOLERANCE_MS;
+    // kstDay is the KST day the cron was MEANT to fire, not the day it arrived.
+    // Until 2026-09-30 it was midnight of `now`: GitHub delivered 09-28's 16:19
+    // publish at 00:37 on 09-29, the window started at 09-29 00:00, the 09-28
+    // batch was outside it, and the late cron ran a full second publish — 32
+    // posts and double the bill on 09-29, against the one-batch-a-day promise
+    // the 10-07 throttle verdict depends on. The fire time (with the same early
+    // tolerance as the slot shape, so a run queued a few minutes before 16:19
+    // is not dated to yesterday) names the day; a batch that day serves it.
+    let slotStart;
+    if (entry.guard === 'kstDay') {
+      const fired = Math.max(...entry.crons.map((c) => lastFireBefore(c, now + EARLY_TOLERANCE_MS)));
+      slotStart = fired - ((fired + 9 * 3600000) % 86400000); // KST midnight of the fire day, as a UTC timestamp
+    } else {
+      slotStart = Math.max(...entry.crons.map((c) => lastFireBefore(c, now))) - EARLY_TOLERANCE_MS;
+    }
     const since = new Date(slotStart).toISOString();
     const res = await fetchImpl(
       `https://api.github.com/repos/${repo}/actions/workflows/${workflowFile}/runs` +
@@ -53,11 +65,28 @@ export async function slotAlreadyServed(workflowFile, {
     // created_at is re-checked here even though the API call already filters:
     // trusting the server filter alone left the window unenforced in any
     // context that returns unfiltered runs (the tests caught exactly that).
-    const hit = runs.find(
+    const candidates = runs.filter(
       (r) => String(r.id) !== String(env.GITHUB_RUN_ID)
         && r.conclusion === 'success'
         && Date.parse(r.created_at) >= slotStart,
     );
+    // A run that stood down on this very guard also ends in `success`. Once the
+    // window became the cron's own day, 09-29's 00:37 stand-down sat inside
+    // 09-29's window and would have "served" 09-29's real 16:19 cron (Codex,
+    // 2026-09-30). Where the manifest names the job that does the work, only a
+    // run whose job actually succeeded counts. A jobs lookup that fails counts
+    // as not served — the guard's fail-open contract.
+    let hit = null;
+    for (const r of candidates) {
+      if (!entry.workJob) { hit = r; break; }
+      const jr = await fetchImpl(
+        `https://api.github.com/repos/${repo}/actions/runs/${r.id}/jobs?per_page=100`,
+        { headers: { Authorization: `Bearer ${token}`, Accept: 'application/vnd.github+json' } },
+      );
+      if (!jr.ok) continue;
+      const jobs = (await jr.json()).jobs ?? [];
+      if (jobs.some((j) => j.name === entry.workJob && j.conclusion === 'success')) { hit = r; break; }
+    }
     return { active: true, served: Boolean(hit), by: hit?.id, slotStart };
   } catch (e) {
     return { active: false, served: false, error: e?.message ?? String(e) };

@@ -26,7 +26,9 @@ export const MANIFEST = [
   // 발행 감시견 자신이 4.6h 지각 배달돼 자정을 넘겨 "오늘(새 날짜) 발행 없음"
   // 으로 오판, 01:20 에 하루 두 번째 배치를 발행했다. 스로틀 실험(5편/일,
   // 09-10 판정)은 날짜당 한 배치가 약속이다.
-  { file: 'publish.yml', name: '일일 발행', crons: ['19 7 * * *'], rescue: false, guard: 'kstDay' },
+  // workJob: 그날 몫을 "해낸" 실행의 증거는 conclusion 이 아니라 이 작업의 성공이다.
+  // 늦게 와서 가드에 멈춘 실행도 success 로 끝나기 때문(코덱스 2026-09-30).
+  { file: 'publish.yml', name: '일일 발행', crons: ['19 7 * * *'], rescue: false, guard: 'kstDay', workJob: 'generate' },
   // 발행 감시견 자신은 크론이 하나뿐인데 아무도 보지 않았다 — 2026-08-30 사고의
   // 뿌리가 여기다(4.6h 지각해 자정을 넘겼고, 아예 증발했다면 발행이 멈춘 것을
   // 알아챌 사람이 없었다). 구조 발화는 안전하다: check-publish-ran 은 슬롯
