@@ -339,6 +339,12 @@
   "reason": "publish gate: Japanese garden with stone lantern, path, plausible Himeji Garden view",
   "at": "2026-09-28T16:49:41.221Z"
  },
+ "adelaide-south-australian-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/South_Australian_Museum_on_27_February_2025.jpg/1920px-South_Australian_Museum_on_27_February_2025.jpg": {
+  "slug": "adelaide-south-australian-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of South Australian Museum with signage visible",
+  "at": "2026-09-30T14:18:41.189Z"
+ },
  "agra-agra-bazaar\u0001https://upload.wikimedia.org/wikipedia/commons/d/d2/Busy_street_in_the_old_Bazaar%2C_Agra%2C_11-2009_-_panoramio.jpg": {
   "slug": "agra-agra-bazaar",
   "verdict": "MATCH",
@@ -2658,6 +2664,12 @@
   "reason": "event-mode back-audit: Performer on stage with mic, matches concert event type",
   "at": "2026-08-07T13:02:53.645Z"
  },
+ "bath-the-roman-baths\u0001https://upload.wikimedia.org/wikipedia/commons/0/08/Roman_Baths_in_Bath_Spa%2C_England_-_July_2006.jpg": {
+  "slug": "bath-the-roman-baths",
+  "verdict": "MATCH",
+  "reason": "publish gate: Iconic view of Roman Baths pool and abbey",
+  "at": "2026-09-30T14:04:07.298Z"
+ },
  "battambang-bamboo-train-battambang\u0001https://upload.wikimedia.org/wikipedia/commons/1/10/Bamboo_railway_at_Battambang_-_panoramio.jpg": {
   "slug": "battambang-bamboo-train-battambang",
   "verdict": "MATCH",
@@ -2799,6 +2811,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Building exterior clearly showing Wangfujing Bookstore signage at night",
   "at": "2026-09-27T07:49:11.985Z"
+ },
+ "belfast-titanic-belfast\u0001https://upload.wikimedia.org/wikipedia/commons/c/c0/Titanic_Belfast_HDR.jpg": {
+  "slug": "belfast-titanic-belfast",
+  "verdict": "MATCH",
+  "reason": "publish gate: Iconic exterior of Titanic Belfast building shown clearly",
+  "at": "2026-09-30T14:16:32.135Z"
  },
  "bengaluru-403-forbidden\u0001https://upload.wikimedia.org/wikipedia/commons/a/ab/403_Forbidden_error.png": {
   "slug": "bengaluru-403-forbidden",
@@ -3034,6 +3052,12 @@
   "reason": "Gourmet pintxos display, typical Bilbao cuisine",
   "reasonKo": "빌바오 특식 핀초스 진열",
   "at": "2026-08-04T11:57:23.749Z"
+ },
+ "birmingham-national-sea-life-centre-birmingham\u0001https://upload.wikimedia.org/wikipedia/commons/3/3a/National_Sea_Life_Centre_and_BCN_canal%2C_Birmingham.jpg": {
+  "slug": "birmingham-national-sea-life-centre-birmingham",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior with clear National SEA LIFE Centre signage",
+  "at": "2026-09-30T14:12:02.873Z"
  },
  "bocaue-post-malone-live-in-manila\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Post_Malone_%2828688652561%29.jpg/3840px-Post_Malone_%2828688652561%29.jpg": {
   "slug": "bocaue-post-malone-live-in-manila",
@@ -3325,6 +3349,12 @@
   "reason": "publish gate: Exterior view of the historic Paul Revere House building",
   "at": "2026-09-12T07:39:18.982Z"
  },
+ "brighton-brighton-i360\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Brighton_i360_with_the_moon_2025-07-02.jpg/3840px-Brighton_i360_with_the_moon_2025-07-02.jpg": {
+  "slug": "brighton-brighton-i360",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear iconic image of Brighton i360 tower and pod",
+  "at": "2026-09-30T14:06:34.165Z"
+ },
  "brisbane-brisbane-riverwalk\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Skylines_of_Brisbane_in_winter_misty_morning_seen_from_Kangaroo_Point%2C_Queensland_04.jpg/1920px-Skylines_of_Brisbane_in_winter_misty_morning_seen_from_Kangaroo_Point%2C_Queensland_04.jpg": {
   "slug": "brisbane-brisbane-riverwalk",
   "verdict": "MATCH",
@@ -3336,6 +3366,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Interior entrance desk with clear Museum of Brisbane signage",
   "at": "2026-09-28T16:46:34.619Z"
+ },
+ "brisbane-queensland-museum-kurilpa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Facade_of_Queensland_Museum_02.jpg/1920px-Facade_of_Queensland_Museum_02.jpg": {
+  "slug": "brisbane-queensland-museum-kurilpa",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Queensland Museum with clear signage and entrance",
+  "at": "2026-09-30T14:13:06.397Z"
  },
  "bugis-albert-centre-market-food-centre\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Albert_Centre_Market_and_Food_Centre%2C_exterior.jpg/3840px-Albert_Centre_Market_and_Food_Centre%2C_exterior.jpg": {
   "slug": "bugis-albert-centre-market-food-centre",
@@ -3739,6 +3775,12 @@
   "reason": "publish gate: Exterior of heritage building plausibly matching venue in Cairns",
   "at": "2026-09-29T14:19:17.090Z"
  },
+ "cambridge-the-fitzwilliam-museum\u0001https://upload.wikimedia.org/wikipedia/commons/6/68/FitzwilliamMuseum.jpg": {
+  "slug": "cambridge-the-fitzwilliam-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Represents Fitzwilliam Museum's iconic neoclassical facade in Cambridge",
+  "at": "2026-09-30T14:03:07.805Z"
+ },
  "cameron-highlands-cactus-valley\u0001https://upload.wikimedia.org/wikipedia/commons/6/6c/Cactus_at_Cactus_Valley_-_Near_Brinchang_-_Cameron_Highlands_-_Malaysia_%2835398159902%29.jpg": {
   "slug": "cameron-highlands-cactus-valley",
   "verdict": "MATCH",
@@ -3825,6 +3867,18 @@
   "verdict": "MATCH",
   "reason": "publish gate: Miniature building with visitors, matches Cockington Green Gardens",
   "at": "2026-09-28T16:53:20.388Z"
+ },
+ "canberra-national-museum-of-australia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Market_in_the_National_Museum_of_Australia_foyer_November_2025.jpg/3840px-Market_in_the_National_Museum_of_Australia_foyer_November_2025.jpg": {
+  "slug": "canberra-national-museum-of-australia",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior with distinctive angular architecture matching the museum",
+  "at": "2026-09-30T14:19:42.289Z"
+ },
+ "canberra-the-mandalay-bus\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Mandalay_bus_September_2020.jpg/3840px-Mandalay_bus_September_2020.jpg": {
+  "slug": "canberra-the-mandalay-bus",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of the actual Mandalay Bus venue in Canberra",
+  "at": "2026-09-30T14:07:46.200Z"
  },
  "cannes-abbaye-de-lerins\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/%D0%9B%D0%B5%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0_%D0%B8_%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2_%D0%AD%D1%81%D1%82%D0%B5%D1%80%D0%B5%D0%BB%D1%8C.jpg/1920px-%D0%9B%D0%B5%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0_%D0%B8_%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2_%D0%AD%D1%81%D1%82%D0%B5%D1%80%D0%B5%D0%BB%D1%8C.jpg": {
   "slug": "cannes-abbaye-de-lerins",
@@ -3918,6 +3972,12 @@
   "reason": "Zelve cave dwellings, typical Cappadocia landscape",
   "reasonKo": "젤베 동굴 주거지, 카파도키아 특징",
   "at": "2026-08-18T13:26:42.111Z"
+ },
+ "cardiff-cardiff-castle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_view_of_Cardiff_Castle.jpg/1920px-Aerial_view_of_Cardiff_Castle.jpg": {
+  "slug": "cardiff-cardiff-castle",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Cardiff Castle keep and grounds",
+  "at": "2026-09-30T14:14:14.738Z"
  },
  "causeway-bay-east-coast-park-precinct\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/East_Coast_Park_Precinct%2C_Fortress_Hill_07-01-2023%286%29.jpg/3840px-East_Coast_Park_Precinct%2C_Fortress_Hill_07-01-2023%286%29.jpg": {
   "slug": "causeway-bay-east-coast-park-precinct",
@@ -5298,6 +5358,12 @@
   "reason": "publish gate: Shows waterfront lagoon, park, and buildings representative of precinct",
   "at": "2026-09-28T17:06:54.138Z"
  },
+ "darwin-museum-and-art-gallery-of-the-northern-territory\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/MAGNT_Darwin%2C_2023_%2801%29.jpg/1920px-MAGNT_Darwin%2C_2023_%2801%29.jpg": {
+  "slug": "darwin-museum-and-art-gallery-of-the-northern-territory",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of museum building with banner, plausible hero shot",
+  "at": "2026-09-30T14:22:37.146Z"
+ },
  "davao-malagos-garden-resort\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Malagos_Garden_Resort_Aviary_%2849483553792%29.jpg/1920px-Malagos_Garden_Resort_Aviary_%2849483553792%29.jpg": {
   "slug": "davao-malagos-garden-resort",
   "verdict": "MATCH",
@@ -5708,6 +5774,12 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Bruno Mars performance at concert venue",
   "at": "2026-08-09T04:12:23.094Z"
+ },
+ "edinburgh-royal-mile\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/High_Street%2C_Edinburgh.JPG/1920px-High_Street%2C_Edinburgh.JPG": {
+  "slug": "edinburgh-royal-mile",
+  "verdict": "MATCH",
+  "reason": "publish gate: Royal Mile street view with clock tower, representative",
+  "at": "2026-09-30T13:59:06.633Z"
  },
  "el-nido-cadlao-lagoon\u0001https://fastly.4sqi.net/img/general/original/125542906_Mo31fgMNRtyAUxSCI4bHSS2J0uwf98yz7zrJ0vhJiQ0.jpg": {
   "slug": "el-nido-cadlao-lagoon",
@@ -6344,6 +6416,12 @@
   "reason": "Sunset beach scene, horse rider, Gili Islands setting",
   "reasonKo": "길리섬 해변 석양, 말 탄 사람, 적절한 배경",
   "at": "2026-09-18T16:41:41.491Z"
+ },
+ "glasgow-riverside-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Riverside_Museum_Glasgow_EC2018.jpg/1920px-Riverside_Museum_Glasgow_EC2018.jpg": {
+  "slug": "glasgow-riverside-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Riverside Museum, recognisable zigzag facade",
+  "at": "2026-09-30T14:10:00.955Z"
  },
  "goa-fort-aguada\u0001https://upload.wikimedia.org/wikipedia/commons/a/ad/Fort_aguada.jpg": {
   "slug": "goa-fort-aguada",
@@ -11437,6 +11515,18 @@
   "reason": "Fruit market, not restaurant interior or food",
   "at": "2026-07-25T02:46:00.410Z"
  },
+ "liverpool-liverpool-cathedral\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LIVERPOOL_ANGLICAN_CATHEDRAL_SEP2012_%287916053494%29.jpg/1920px-LIVERPOOL_ANGLICAN_CATHEDRAL_SEP2012_%287916053494%29.jpg": {
+  "slug": "liverpool-liverpool-cathedral",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of Liverpool Cathedral, recognizable and representative",
+  "at": "2026-09-30T14:01:22.962Z"
+ },
+ "liverpool-the-beatles-statues\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Ringo%2CPaul%2CGeorge_%26_John._%28The_Beatles%29_-_The_Beatles_statues%2C_Hard_Days_Night_Hotel%2C_North_John_Street_%26_Mathew_Street%2C_Liverpool_%282015-11-11_16.15.18_by_Loco_Steve%29.jpg/3840px-thumbnail.jpg": {
+  "slug": "liverpool-the-beatles-statues",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows the Beatles statues on building, representative hero shot",
+  "at": "2026-09-30T14:23:38.911Z"
+ },
  "lombok-bukit-merese\u0001https://upload.wikimedia.org/wikipedia/commons/4/49/Merese.jpg": {
   "slug": "lombok-bukit-merese",
   "verdict": "MATCH",
@@ -11504,6 +11594,18 @@
   "verdict": "MISMATCH",
   "reason": "Image shows coastal bay, not waterfall",
   "at": "2026-07-25T02:46:05.832Z"
+ },
+ "london-london-eye\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/London-Eye-2009.JPG/1920px-London-Eye-2009.JPG": {
+  "slug": "london-london-eye",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear, representative view of the London Eye landmark",
+  "at": "2026-09-30T13:57:57.480Z"
+ },
+ "london-the-british-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/British_Museum_from_NE_2.JPG/1920px-British_Museum_from_NE_2.JPG": {
+  "slug": "london-the-british-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Iconic British Museum facade with columns and pediment",
+  "at": "2026-09-30T14:17:34.898Z"
  },
  "los-angeles-bad-roman\u0001https://fastly.4sqi.net/img/general/original/463594059_7nz7Ts1VXjrzksDpOwFLwPdKlKTK4iz6Y072O7s2wSs.jpg": {
   "slug": "los-angeles-bad-roman",
@@ -12379,6 +12481,18 @@
   "reasonKo": "전통 인도네시아 시장의 음식 노점",
   "at": "2026-08-16T13:15:03.842Z"
  },
+ "manchester-fletcher-moss-botanical-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fletcher_Moss_Gardens%2C_Didsbury_00_23_39_971000.jpeg/3840px-Fletcher_Moss_Gardens%2C_Didsbury_00_23_39_971000.jpeg": {
+  "slug": "manchester-fletcher-moss-botanical-gardens",
+  "verdict": "MATCH",
+  "reason": "publish gate: Garden path with maple tree, matches botanical garden setting",
+  "at": "2026-09-30T14:20:54.111Z"
+ },
+ "manchester-manchester-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/The_Manchester_Museum.jpg/1920px-The_Manchester_Museum.jpg": {
+  "slug": "manchester-manchester-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Manchester Museum building, representative view",
+  "at": "2026-09-30T14:00:29.267Z"
+ },
  "mandalika-pertamina-grand-prix-of-indonesia-motogp-mandalika\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/MotoGP_di_Sirkuit_Balapan_Pertamina_Mandalika%2C_NTB%2C_Indonesia.jpg/1920px-MotoGP_di_Sirkuit_Balapan_Pertamina_Mandalika%2C_NTB%2C_Indonesia.jpg": {
   "slug": "mandalika-pertamina-grand-prix-of-indonesia-motogp-mandalika",
   "verdict": "MATCH",
@@ -12705,6 +12819,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Aerial view of Melbourne skyline from Skydeck viewpoint",
   "at": "2026-09-28T16:59:20.547Z"
+ },
+ "melbourne-national-gallery-of-victoria\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/National_Gallery_of_Victoria_2024.jpg/1920px-National_Gallery_of_Victoria_2024.jpg": {
+  "slug": "melbourne-national-gallery-of-victoria",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior facade of NGV with signage and entrance shown",
+  "at": "2026-09-30T14:11:18.585Z"
  },
  "miami-bayside-marketplace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bayside%2C_Miami%2C_Florida_June_2021_-_03.jpg/1920px-Bayside%2C_Miami%2C_Florida_June_2021_-_03.jpg": {
   "slug": "miami-bayside-marketplace",
@@ -14778,6 +14898,18 @@
   "reason": "publish gate: Shows Shitennō-ji pagoda and hall, representative view",
   "at": "2026-09-09T07:38:31.303Z"
  },
+ "oxford-oxford-botanic-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Oxford_Botanic_Garden_LV_2025.jpg/1920px-Oxford_Botanic_Garden_LV_2025.jpg": {
+  "slug": "oxford-oxford-botanic-garden",
+  "verdict": "MATCH",
+  "reason": "publish gate: Garden path with urn and Magdalen Tower view, representative",
+  "at": "2026-09-30T14:02:04.547Z"
+ },
+ "oxford-oxford-university-museum-of-natural-history\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Oxford_University_Museum_of_Natural_History_exterior.JPG/1920px-Oxford_University_Museum_of_Natural_History_exterior.JPG": {
+  "slug": "oxford-oxford-university-museum-of-natural-history",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Oxford University Museum of Natural History building",
+  "at": "2026-09-30T14:24:44.669Z"
+ },
  "pai-huai-nam-dang-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/e/ec/Huai_Nam_Dang_National_Park.jpg": {
   "slug": "pai-huai-nam-dang-national-park",
   "verdict": "MATCH",
@@ -15490,6 +15622,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Elizabeth Quay/Mindeerup meerkat sculptures, ferry, Perth skyline",
   "at": "2026-09-28T16:48:47.225Z"
+ },
+ "perth-the-art-gallery-of-western-australia-agwa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Converted_courtroom_in_the_Art_Gallery_of_Western_Australia_June_2018.jpg/3840px-Converted_courtroom_in_the_Art_Gallery_of_Western_Australia_June_2018.jpg": {
+  "slug": "perth-the-art-gallery-of-western-australia-agwa",
+  "verdict": "MATCH",
+  "reason": "publish gate: Gallery interior with framed artworks, representative of AGWA",
+  "at": "2026-09-30T14:15:23.515Z"
  },
  "philadelphia-bartram-s-garden\u0001https://fastly.4sqi.net/img/general/original/71124115_MlbE8k3ijYHrEL0nDQSB7gclLGLZT9MvewrKtqaNBXY.jpg": {
   "slug": "philadelphia-bartram-s-garden",
@@ -19483,6 +19621,12 @@
   "reasonKo": "수저우박물관의 독특한 현대 건축물 확실히 보임",
   "at": "2026-08-05T15:00:45.890Z"
  },
+ "sydney-australian-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Australian_Museum%2C_Sydney-William_Street_view.jpg/1920px-Australian_Museum%2C_Sydney-William_Street_view.jpg": {
+  "slug": "sydney-australian-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Australian Museum building with visible logo/signage",
+  "at": "2026-09-30T14:08:53.735Z"
+ },
  "sydney-darling-harbour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/2019-04-10_Sydney_CBD_view_from_Pyrmont_at_sunset.jpg/1920px-2019-04-10_Sydney_CBD_view_from_Pyrmont_at_sunset.jpg": {
   "slug": "sydney-darling-harbour",
   "verdict": "MATCH",
@@ -22074,6 +22218,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Aerial view of Yokohama Red Brick Warehouse complex",
   "at": "2026-09-22T07:42:49.173Z"
+ },
+ "york-york-city-walls\u0001https://upload.wikimedia.org/wikipedia/commons/b/b7/York_city.jpg": {
+  "slug": "york-york-city-walls",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows York City Walls walkway overlooking city skyline",
+  "at": "2026-09-30T14:05:37.738Z"
  },
  "zamboanga-city-zamboanga-hermosa-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Hermosa_Festival_of_Zamboanga.jpg/3840px-Hermosa_Festival_of_Zamboanga.jpg": {
   "slug": "zamboanga-city-zamboanga-hermosa-festival",

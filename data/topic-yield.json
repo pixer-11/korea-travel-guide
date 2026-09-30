@@ -30,8 +30,8 @@
    "hits": 5
   },
   "museum": {
-   "attempts": 134,
-   "hits": 73
+   "attempts": 143,
+   "hits": 80
   },
   "noodles": {
    "attempts": 47,
@@ -54,8 +54,8 @@
    "hits": 2
   },
   "hidden gem": {
-   "attempts": 52,
-   "hits": 32
+   "attempts": 57,
+   "hits": 36
   },
   "breakfast": {
    "attempts": 43,
@@ -66,8 +66,8 @@
    "hits": 5
   },
   "street food": {
-   "attempts": 59,
-   "hits": 5
+   "attempts": 61,
+   "hits": 6
   },
   "bakery": {
    "attempts": 36,
@@ -86,8 +86,8 @@
    "hits": 0
   },
   "top attraction": {
-   "attempts": 26,
-   "hits": 16
+   "attempts": 40,
+   "hits": 29
   },
   "grill": {
    "attempts": 36,
@@ -190,5 +190,5 @@
    "hits": 1
   }
  },
- "updated": "2026-09-30T09:59:23.223Z"
+ "updated": "2026-09-30T14:24:44.698Z"
 }

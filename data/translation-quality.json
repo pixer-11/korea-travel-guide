@@ -1134,11 +1134,11 @@
   "at": "2026-08-15T03:16:09.205Z"
  },
  "es/bocaue-post-malone-live-in-manila": {
-  "hash": "d77f6113d411",
+  "hash": "32c7c6f88ed2",
   "score": 1,
   "registerBreak": false,
-  "worst": "que las promotoras del concierto suelen operar desde puntos de recogida designados en Metro Manila",
-  "at": "2026-08-15T03:16:09.298Z"
+  "worst": "con los aparcacoches informales de los alrededores todavía se usa el efectivo",
+  "at": "2026-09-30T16:26:18.178Z"
  },
  "es/bodrum-bodrum-castle": {
   "hash": "3a332c78f310",
@@ -30945,5 +30945,82 @@
   "registerBreak": false,
   "worst": "华人商贾觉得此处河道的弯曲形似鲤鱼的肚腹，视之为兴旺发达的吉兆，于是南岸渐渐挤满了他们的货仓和店屋。",
   "at": "2026-09-30T09:58:14.090Z"
+ },
+ "es/melbourne-melbourne-skydeck": {
+  "hash": "d97ea8f1e083",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Es entonces cuando la gente se agolpa junto a las repisas de las ventanas y la cola de The Edge se alarga.",
+  "at": "2026-09-30T16:26:19.638Z"
+ },
+ "ja/melbourne-melbourne-skydeck": {
+  "hash": "c89ee9dfb47e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "高所が苦手な人は入口で待つことも多いのですが、それでまったく構いません。",
+  "at": "2026-09-30T16:26:21.391Z"
+ },
+ "ko/melbourne-melbourne-skydeck": {
+  "hash": "5a75f31ee679",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "저희가 집계한 혼잡도 데이터에 따르면 평일에는 오후 12시부터 오후 9시까지 전망대가 한산합니다.",
+  "at": "2026-09-30T16:26:27.767Z"
+ },
+ "zh/melbourne-melbourne-skydeck": {
+  "hash": "8047ac33190d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "根据我们的客流数据，中午12点至晚上9点观景台都很清静，工作日午间或日落时分前往，通常都能从容游览。",
+  "at": "2026-09-30T16:26:34.693Z"
+ },
+ "es/adelaide-south-australian-museum": {
+  "hash": "f2f9959ace3f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Según la opinión más extendida, la Galería de Culturas Aborígenes Australianas reúne la mayor col",
+  "at": "2026-09-30T16:26:36.261Z"
+ },
+ "ja/adelaide-south-australian-museum": {
+  "hash": "6e2f53610956",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "駆け足で回った人の多くが、あとになって後悔しています。",
+  "at": "2026-09-30T16:26:38.159Z"
+ },
+ "ja/bath-the-roman-baths": {
+  "hash": "3a40e9d8e16d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "スリス・ミネルウァ神殿：残されていた彫刻入りの破風をもとに復元されたもので、ゴルゴンの頭部も見られます",
+  "at": "2026-09-30T16:26:44.374Z"
+ },
+ "ko/adelaide-south-australian-museum": {
+  "hash": "81e6252e4ed6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 박물관을 찾을 이유는 바로 이 전시관입니다.",
+  "at": "2026-09-30T16:26:51.988Z"
+ },
+ "ko/bath-the-roman-baths": {
+  "hash": "74ffad1efe3c",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-09-30T16:26:54.155Z"
+ },
+ "zh/adelaide-south-australian-museum": {
+  "hash": "9a6f066e3de4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "木框玻璃展柜陈列在一座维多利亚时代的展示大厅里，如今仍在使用的同类展厅已所剩无几。",
+  "at": "2026-09-30T16:27:03.358Z"
+ },
+ "zh/bath-the-roman-baths": {
+  "hash": "b3f2684583dc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "游客先在露台上俯瞰整个水池，再沿参观路线往下走，踏上与水面齐平的罗马时代原始地面。",
+  "at": "2026-09-30T16:27:05.586Z"
  }
 }

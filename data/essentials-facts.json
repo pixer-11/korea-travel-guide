@@ -14499,6 +14499,674 @@
         }
       }
     },
+    "United Kingdom": {
+      "srcHash": "ee2b71a9076e",
+      "en": {
+        "summary": [
+          {
+            "key": "entry",
+            "title": "ETA or Visitor visa",
+            "sub": "Most visitors need a paid ETA before flying, £20"
+          },
+          {
+            "key": "money",
+            "title": "Contactless widely accepted",
+            "sub": "Cash rarely needed except small cash-only vendors"
+          },
+          {
+            "key": "season",
+            "title": "May and September best",
+            "sub": "Mild weather, long days, lighter crowds"
+          },
+          {
+            "key": "transport",
+            "title": "Tap-and-go contactless",
+            "sub": "Contactless bank card simplest for London transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "Electronic Travel Authorisation",
+              "code": "",
+              "who": "Nationals of 80+ countries incl. USA, EU, Australia, Canada not holding UK visa",
+              "cost": "£20 per traveller",
+              "stay": "up to 6 months",
+              "note": "Apply online or via app; not a guarantee of entry, Border Force decides"
+            },
+            {
+              "name": "Standard Visitor visa",
+              "code": "",
+              "who": "",
+              "cost": "£135",
+              "stay": "up to 6 months",
+              "note": "Can apply as early as 3 months before travel"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "No ETA, no boarding",
+              "text": "If you need an ETA and don't have one, the carrier is likely to refuse boarding."
+            },
+            {
+              "title": "No right of appeal",
+              "text": "If an ETA is refused there is no right of appeal, though you may reapply or apply for a visa."
+            },
+            {
+              "title": "Confirm official requirements",
+              "text": "Always confirm your exact requirement on the official GOV.UK visa checker, not third-party sites."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "Use contactless card or phone",
+              "text": "For most visitors a contactless bank card or phone wallet is simpler than buying a physical Oyster card, with identical fares and caps."
+            },
+            {
+              "title": "Check foreign transaction fees",
+              "text": "If your foreign card charges fees on every tap, check with your bank or consider a physical Oyster card instead."
+            },
+            {
+              "title": "Avoid single paper tickets",
+              "text": "Single paper tickets are poor value compared with tap-and-go pay-as-you-go fares."
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "Carry only small cash",
+              "text": "Contactless is accepted almost everywhere; carry a small amount of cash for emergencies or cash-only vendors."
+            },
+            {
+              "title": "Book ahead to save",
+              "text": "Booking accommodation and transport three months ahead typically saves 20-30% compared with last-minute bookings."
+            },
+            {
+              "title": "Costs vary by city and season",
+              "text": "London runs notably higher than the rest of the country for hotels, dining and attractions."
+            },
+            {
+              "title": "Tipping is optional",
+              "text": "Rounding up or adding around 10% in restaurants is common, but not expected in pubs, cafes or taxis."
+            }
+          ]
+        },
+        "season": {
+          "best": [
+            5,
+            9
+          ],
+          "rows": []
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "999",
+              "label": "Police, ambulance, fire, coastguard",
+              "note": "Official emergency number, calls are free"
+            },
+            {
+              "number": "112",
+              "label": "EU emergency number",
+              "note": "Connects to the same services as 999"
+            },
+            {
+              "number": "101",
+              "label": "Police non-emergency",
+              "note": ""
+            },
+            {
+              "number": "111",
+              "label": "NHS urgent medical advice",
+              "note": "Free, 24/7 helpline"
+            }
+          ],
+          "chips": [
+            "Watch belongings at transport hubs",
+            "Be alert to pickpocketing",
+            "Keep ETA/visa confirmation accessible",
+            "Know your embassy location"
+          ]
+        }
+      },
+      "ko": {
+        "summary": [
+          {
+            "title": "ETA 또는 방문 비자",
+            "sub": "대부분의 방문객은 출국 전 유료 ETA가 필요, £20",
+            "key": "entry"
+          },
+          {
+            "title": "비접촉 결제 널리 통용",
+            "sub": "현금 전용 소규모 상점 외에는 현금이 거의 필요 없음",
+            "key": "money"
+          },
+          {
+            "title": "5월과 9월이 최적",
+            "sub": "온화한 날씨, 긴 낮 시간, 적은 인파",
+            "key": "season"
+          },
+          {
+            "title": "탭 앤 고 비접촉 결제",
+            "sub": "런던 교통에는 비접촉 카드가 가장 간편",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "전자여행허가(ETA)",
+              "code": "",
+              "who": "미국, EU, 호주, 캐나다 등 80개국 이상 국민 중 영국 비자 미소지자",
+              "cost": "여행자 1인당 £20",
+              "stay": "최대 6개월",
+              "note": "온라인 또는 앱으로 신청; 입국을 보장하지 않으며 최종 결정은 국경관리국이 함"
+            },
+            {
+              "name": "일반 방문 비자",
+              "code": "",
+              "who": "",
+              "cost": "£135",
+              "stay": "최대 6개월",
+              "note": "출발 최대 3개월 전부터 신청 가능"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "ETA 없으면 탑승 불가",
+              "text": "ETA가 필요한데 없을 경우 항공사가 탑승을 거부할 가능성이 높습니다."
+            },
+            {
+              "title": "이의 신청 불가",
+              "text": "ETA가 거부되면 이의 신청 권리는 없지만, 재신청하거나 비자를 신청할 수 있습니다."
+            },
+            {
+              "title": "공식 요건 확인",
+              "text": "제3자 사이트가 아닌 공식 GOV.UK 비자 확인 도구에서 정확한 요건을 항상 확인하세요."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "비접촉 카드나 휴대폰 사용",
+              "text": "대부분의 방문객에게는 실물 오이스터 카드 구매보다 비접촉 은행 카드나 휴대폰 지갑이 더 간편하며, 요금과 상한액은 동일합니다."
+            },
+            {
+              "title": "해외 거래 수수료 확인",
+              "text": "해외 카드가 매번 태그할 때마다 수수료를 부과한다면, 은행에 확인하거나 실물 오이스터 카드를 고려하세요."
+            },
+            {
+              "title": "종이 1회권 피하기",
+              "text": "종이 1회권은 탭 앤 고 선불 요금에 비해 가성비가 떨어집니다."
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "소액 현금만 소지",
+              "text": "비접촉 결제는 거의 모든 곳에서 사용 가능하니, 비상 상황이나 현금 전용 상점을 위해 소액 현금만 소지하세요."
+            },
+            {
+              "title": "미리 예약해 절약",
+              "text": "숙소와 교통편을 3개월 전에 예약하면 임박 예약 대비 보통 20-30% 절약됩니다."
+            },
+            {
+              "title": "도시와 계절별 비용 차이",
+              "text": "런던은 호텔, 식사, 관광지 비용이 다른 지역보다 눈에 띄게 높습니다."
+            },
+            {
+              "title": "팁은 선택 사항",
+              "text": "레스토랑에서는 반올림하거나 약 10%를 추가하는 것이 일반적이지만, 펍, 카페, 택시에서는 기대하지 않습니다."
+            }
+          ]
+        },
+        "season": {
+          "rows": [],
+          "best": [
+            5,
+            9
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "999",
+              "label": "경찰, 구급차, 소방, 해안경비대",
+              "note": "공식 응급 번호, 통화 무료"
+            },
+            {
+              "number": "112",
+              "label": "EU 응급 번호",
+              "note": "999와 동일한 서비스로 연결"
+            },
+            {
+              "number": "101",
+              "label": "경찰 비응급 신고",
+              "note": ""
+            },
+            {
+              "number": "111",
+              "label": "NHS 긴급 의료 상담",
+              "note": "무료, 24시간 상담 전화"
+            }
+          ],
+          "chips": [
+            "교통 거점에서 소지품 주의",
+            "소매치기 주의",
+            "ETA/비자 확인서 소지",
+            "대사관 위치 파악"
+          ]
+        }
+      },
+      "ja": {
+        "summary": [
+          {
+            "title": "ETAまたは訪問ビザ",
+            "sub": "ほとんどの旅行者は出発前に有料ETAが必要、£20",
+            "key": "entry"
+          },
+          {
+            "title": "非接触決済が広く普及",
+            "sub": "現金のみの小規模店舗を除き、現金はほぼ不要",
+            "key": "money"
+          },
+          {
+            "title": "5月と9月が最適",
+            "sub": "穏やかな気候、日が長く、混雑が少ない",
+            "key": "season"
+          },
+          {
+            "title": "タップ決済の非接触型",
+            "sub": "ロンドンの交通機関には非接触型銀行カードが最も簡単",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "電子渡航認証（ETA）",
+              "code": "",
+              "who": "米国、EU、オーストラリア、カナダなど80か国以上の国民で英国ビザ未所持者",
+              "cost": "旅行者1人あたり£20",
+              "stay": "最大6か月",
+              "note": "オンラインまたはアプリで申請。入国を保証するものではなく、国境警備隊が最終判断"
+            },
+            {
+              "name": "標準訪問ビザ",
+              "code": "",
+              "who": "",
+              "cost": "£135",
+              "stay": "最大6か月",
+              "note": "渡航の最大3か月前から申請可能"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "ETAがないと搭乗不可",
+              "text": "ETAが必要なのに持っていない場合、航空会社は搭乗を拒否する可能性が高いです。"
+            },
+            {
+              "title": "異議申し立て不可",
+              "text": "ETAが拒否された場合、異議申し立ての権利はありませんが、再申請やビザ申請は可能です。"
+            },
+            {
+              "title": "公式要件を確認",
+              "text": "第三者サイトではなく、公式のGOV.UKビザチェッカーで正確な要件を必ず確認してください。"
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "非接触カードまたは携帯を利用",
+              "text": "ほとんどの旅行者にとって、物理的なオイスターカードを購入するより、非接触型銀行カードやスマホウォレットの方が簡単で、運賃や上限額は同じです。"
+            },
+            {
+              "title": "海外取引手数料を確認",
+              "text": "海外カードがタップごとに手数料を請求する場合は、銀行に確認するか、物理的なオイスターカードの利用を検討してください。"
+            },
+            {
+              "title": "紙の片道券は避ける",
+              "text": "紙の片道券は、タップ決済の従量制運賃に比べてお得ではありません。"
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "少額の現金のみ携帯",
+              "text": "非接触決済はほぼどこでも利用可能。緊急時や現金のみの店のために少額の現金を携帯しましょう。"
+            },
+            {
+              "title": "事前予約で節約",
+              "text": "宿泊や交通を3か月前に予約すると、直前予約に比べて通常20-30%節約できます。"
+            },
+            {
+              "title": "都市や季節により費用が変動",
+              "text": "ロンドンはホテル、食事、観光地の費用が他の地域より著しく高くなっています。"
+            },
+            {
+              "title": "チップは任意",
+              "text": "レストランでは端数を切り上げたり約10%を追加するのが一般的ですが、パブやカフェ、タクシーでは期待されていません。"
+            }
+          ]
+        },
+        "season": {
+          "rows": [],
+          "best": [
+            5,
+            9
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "999",
+              "label": "警察、救急、消防、沿岸警備隊",
+              "note": "公式緊急番号、通話無料"
+            },
+            {
+              "number": "112",
+              "label": "EU緊急番号",
+              "note": "999と同じサービスに接続"
+            },
+            {
+              "number": "101",
+              "label": "警察の緊急性のない通報",
+              "note": ""
+            },
+            {
+              "number": "111",
+              "label": "NHS緊急医療相談",
+              "note": "無料、24時間対応のヘルプライン"
+            }
+          ],
+          "chips": [
+            "交通拠点では荷物に注意",
+            "スリに警戒",
+            "ETA/ビザ確認書を携帯",
+            "大使館の場所を把握"
+          ]
+        }
+      },
+      "es": {
+        "summary": [
+          {
+            "title": "ETA o visa de visitante",
+            "sub": "La mayoría de visitantes necesita una ETA de pago antes de volar, £20",
+            "key": "entry"
+          },
+          {
+            "title": "Pago sin contacto ampliamente aceptado",
+            "sub": "Rara vez se necesita efectivo, salvo en pequeños comercios que solo aceptan efectivo",
+            "key": "money"
+          },
+          {
+            "title": "Mayo y septiembre son ideales",
+            "sub": "Clima templado, días largos, menos multitudes",
+            "key": "season"
+          },
+          {
+            "title": "Pago sin contacto tap-and-go",
+            "sub": "La tarjeta bancaria sin contacto es lo más sencillo para el transporte de Londres",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "Autorización Electrónica de Viaje (ETA)",
+              "code": "",
+              "who": "Nacionales de más de 80 países, incl. EE. UU., UE, Australia, Canadá, que no tengan visa del Reino Unido",
+              "cost": "£20 por viajero",
+              "stay": "hasta 6 meses",
+              "note": "Solicitar en línea o por app; no garantiza la entrada, la decisión final la toma la Border Force"
+            },
+            {
+              "name": "Visa estándar de visitante",
+              "code": "",
+              "who": "",
+              "cost": "£135",
+              "stay": "hasta 6 meses",
+              "note": "Se puede solicitar hasta 3 meses antes del viaje"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "Sin ETA, sin embarque",
+              "text": "Si necesitas una ETA y no la tienes, es probable que la aerolínea te niegue el embarque."
+            },
+            {
+              "title": "Sin derecho a apelación",
+              "text": "Si se rechaza una ETA no hay derecho a apelación, aunque puedes volver a solicitarla o pedir una visa."
+            },
+            {
+              "title": "Confirma los requisitos oficiales",
+              "text": "Confirma siempre tu requisito exacto en el verificador oficial de visas de GOV.UK, no en sitios de terceros."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "Usa tarjeta o teléfono sin contacto",
+              "text": "Para la mayoría de visitantes, una tarjeta bancaria sin contacto o billetera móvil es más sencilla que comprar una tarjeta Oyster física, con las mismas tarifas y topes."
+            },
+            {
+              "title": "Verifica comisiones por transacciones al extranjero",
+              "text": "Si tu tarjeta extranjera cobra comisión en cada uso, consulta con tu banco o considera una tarjeta Oyster física."
+            },
+            {
+              "title": "Evita los billetes sencillos en papel",
+              "text": "Los billetes sencillos en papel ofrecen poco valor comparados con las tarifas de pago por uso sin contacto."
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "Lleva solo algo de efectivo",
+              "text": "El pago sin contacto se acepta casi en todas partes; lleva algo de efectivo para emergencias o comercios que solo aceptan efectivo."
+            },
+            {
+              "title": "Reserva con antelación para ahorrar",
+              "text": "Reservar alojamiento y transporte con tres meses de anticipación suele ahorrar un 20-30% comparado con reservas de última hora."
+            },
+            {
+              "title": "Los costos varían según ciudad y temporada",
+              "text": "Londres resulta notablemente más caro que el resto del país en hoteles, comida y atracciones."
+            },
+            {
+              "title": "La propina es opcional",
+              "text": "Redondear o añadir alrededor de un 10% en restaurantes es común, pero no se espera en pubs, cafeterías o taxis."
+            }
+          ]
+        },
+        "season": {
+          "rows": [],
+          "best": [
+            5,
+            9
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "999",
+              "label": "Policía, ambulancia, bomberos, guardacostas",
+              "note": "Número de emergencia oficial, llamadas gratuitas"
+            },
+            {
+              "number": "112",
+              "label": "Número de emergencia de la UE",
+              "note": "Conecta con los mismos servicios que el 999"
+            },
+            {
+              "number": "101",
+              "label": "Policía, asuntos no urgentes",
+              "note": ""
+            },
+            {
+              "number": "111",
+              "label": "Consejo médico urgente del NHS",
+              "note": "Línea de ayuda gratuita, 24/7"
+            }
+          ],
+          "chips": [
+            "Vigila tus pertenencias en centros de transporte",
+            "Ten cuidado con los carteristas",
+            "Ten accesible la confirmación de ETA/visa",
+            "Conoce la ubicación de tu embajada"
+          ]
+        }
+      },
+      "zh": {
+        "summary": [
+          {
+            "title": "ETA或访客签证",
+            "sub": "大多数访客在飞行前需申请付费ETA，£20",
+            "key": "entry"
+          },
+          {
+            "title": "非接触支付广泛接受",
+            "sub": "除小型只收现金的商家外，几乎不需要现金",
+            "key": "money"
+          },
+          {
+            "title": "5月和9月最佳",
+            "sub": "气候温和、白昼长、游客较少",
+            "key": "season"
+          },
+          {
+            "title": "拍卡即付非接触支付",
+            "sub": "非接触银行卡是伦敦交通最简便的方式",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "电子旅行许可（ETA）",
+              "code": "",
+              "who": "来自美国、欧盟、澳大利亚、加拿大等80多个国家且未持有英国签证的公民",
+              "cost": "每位旅客£20",
+              "stay": "最长6个月",
+              "note": "通过在线或应用程序申请；不保证入境，最终由边境部队决定"
+            },
+            {
+              "name": "标准访客签证",
+              "code": "",
+              "who": "",
+              "cost": "£135",
+              "stay": "最长6个月",
+              "note": "最早可在出发前3个月申请"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "没有ETA无法登机",
+              "text": "如果您需要ETA但没有申请，航空公司很可能会拒绝您登机。"
+            },
+            {
+              "title": "无上诉权",
+              "text": "如果ETA被拒，没有上诉权，但您可以重新申请或申请签证。"
+            },
+            {
+              "title": "确认官方要求",
+              "text": "请务必在官方GOV.UK签证查询工具上确认您的具体要求，而非第三方网站。"
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "使用非接触银行卡或手机",
+              "text": "对大多数访客来说，非接触银行卡或手机钱包比购买实体牡蛎卡（Oyster）更简便，票价和封顶金额相同。"
+            },
+            {
+              "title": "留意境外交易手续费",
+              "text": "如果您的境外银行卡每次刷卡都收取手续费，请咨询银行或考虑改用实体牡蛎卡。"
+            },
+            {
+              "title": "避免购买单程纸质车票",
+              "text": "与拍卡即付的现付车费相比，单程纸质车票性价比较低。"
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "只随身携带少量现金",
+              "text": "几乎所有地方都接受非接触支付；请随身携带少量现金以备紧急情况或仅收现金的商家使用。"
+            },
+            {
+              "title": "提前预订以节省费用",
+              "text": "提前三个月预订住宿和交通通常比临时预订节省20-30%。"
+            },
+            {
+              "title": "费用因城市和季节而异",
+              "text": "伦敦的酒店、餐饮和景点费用明显高于该国其他地区。"
+            },
+            {
+              "title": "小费为可选",
+              "text": "在餐厅将账单凑整或加约10%的小费很常见，但在酒吧、咖啡馆或出租车中并非惯例。"
+            }
+          ]
+        },
+        "season": {
+          "rows": [],
+          "best": [
+            5,
+            9
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "999",
+              "label": "警察、救护车、消防、海岸警卫队",
+              "note": "官方紧急号码，通话免费"
+            },
+            {
+              "number": "112",
+              "label": "欧盟紧急号码",
+              "note": "与999连接至相同服务"
+            },
+            {
+              "number": "101",
+              "label": "警察非紧急报案",
+              "note": ""
+            },
+            {
+              "number": "111",
+              "label": "NHS紧急医疗建议",
+              "note": "免费，24小时服务热线"
+            }
+          ],
+          "chips": [
+            "在交通枢纽看管好随身物品",
+            "留意扒手",
+            "随身携带ETA/签证确认信息",
+            "了解所在使馆位置"
+          ]
+        }
+      }
+    },
     "United States": {
       "srcHash": "fd6326bc9380",
       "en": {
