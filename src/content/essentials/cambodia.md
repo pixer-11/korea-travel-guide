@@ -14,7 +14,7 @@ Most visitors to Cambodia must obtain a visa, either a visa on arrival or an e-V
 
 The Cambodia e-visa, applied for at evisa.gov.kh, lets eligible travelers apply online before departure through the government's official portal by completing a form, uploading a photo, paying online, and receiving approval electronically, then presenting the e-Visa certificate to immigration on arrival. The e-Visa is valid for only three months from issuance, so it is recommended to apply within 30 days before departure. Holders of an approved e-Visa can enter through major airports in Phnom Penh, Siem Reap and Sihanoukville, plus selected land checkpoints with Thailand, Vietnam and Laos.
 
-A newer requirement to know about: starting January 2025, all visitors flying to Cambodia are required to submit the Cambodia e-Arrival Card within seven days before their arrival.
+A newer requirement to know about: all visitors flying to Cambodia are required to submit the free Cambodia e-Arrival Card, which can be submitted up to seven days before arrival.
 
 Basic entry conditions apply across the board: all visitors must have a passport valid for at least six months with at least one empty page, and all foreign citizens must hold a return or onward ticket.
 
@@ -28,7 +28,7 @@ Basic entry conditions apply across the board: all visitors must have a passport
 
 Phnom Penh also has a growing formal bus network: as of recent expansion, public bus transportation in Phnom Penh consists of numerous lines covering much of the city, though it is aimed more at commuters than sightseers.
 
-**Angkor Archaeological Park:** buy tickets only through the official channel. Tickets can be purchased through the official Angkor Pass website. Pass tiers cover one day, three days, or seven days, with the multi-day options letting you spread visits over a longer window; a seven-day pass costs around 400,000 KHR (about $100) and lets visitors see less-visited temples at a relaxed pace.
+**Angkor Archaeological Park:** buy tickets only through official channels. Tickets can be purchased through the official Angkor Pass website or app, or at the official ticket office and kiosks. Pass tiers cover one day, three days, or seven days, with the multi-day options letting you spread visits over a longer window; a seven-day pass costs around 400,000 KHR (about $100) and lets visitors see less-visited temples at a relaxed pace.
 
 ## Money & costs
 

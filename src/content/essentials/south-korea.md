@@ -49,7 +49,7 @@ South Korea splits its emergency numbers by service rather than using one univer
 - **112** – Police. Call 112 for immediate police response; English-speaking operators are available.
 - **119** – Fire and ambulance. This is the direct-dial emergency telephone number in South Korea for fire brigade and ambulance service, operated by the National Emergency Management Agency; the caller's location is automatically traced once the call is connected, and operators who can speak Chinese, English, Japanese, and Korean should be available.
 - **1330** – Korea Travel Hotline (tourist help and interpretation, 24/7). For non-life threatening emergencies such as transportation inquiries or interpretation services, call the 1330 Korea Travel Hotline, operated by the Korea Tourism Organization; this one-stop helpline is available as a public service for both local and international travelers. It also doubles as an interpretation bridge: if you need an ambulance but the local 119 operator doesn't speak English, you can call 1330, and they'll contact a nearby hospital and set up a conference call.
-- **1339** – Non-emergency medical/disease information. For medical emergencies you can also call 1339, who will help connect you with the nearest hospital, though for genuine emergencies police is 112 and fire department is 119.
+- **1339** – KDCA disease and infectious-disease information and consultation call centre (24/7). It does not connect you to a hospital; for medical emergencies call 119. For help in other languages, call 1330 (Korea Tourism Organization, 8 languages) or 1345 (immigration, 20 languages).
 
 All these lines are free to call from any phone. Overall, South Korea is considered a very safe destination for travelers, with low violent crime and excellent medical and transport infrastructure; the main practical risk for visitors is the language barrier in a fast-moving emergency, which is exactly what the 1330 and multilingual 119 lines exist to solve. Keep your embassy's contact details handy in case of lost passports or serious legal issues, and save 112, 119, and 1330 in your phone before you land.
 
@@ -57,6 +57,7 @@ All these lines are free to call from any phone. Overall, South Korea is conside
 
 - [Korea Electronic Travel Authorization (K-ETA) official portal](https://www.k-eta.go.kr)
 - [HiKorea – Korea Immigration Service official portal](https://www.hikorea.go.kr)
+- [KDCA – 1339 call centre](https://www.kdca.go.kr/kdca/2777/subview.do)
 - [Ministry of Justice, Republic of Korea (Immigration policy)](https://www.moj.go.kr)
 - [Korea Tourism Organization – Official Visit Korea site](https://english.visitkorea.or.kr)
 - [Seoul Metropolitan Government – Climate Card / public transport](https://tmoney.co.kr)

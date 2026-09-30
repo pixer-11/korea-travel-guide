@@ -4,13 +4,15 @@ title: "Thailand Travel Essentials: Visa, Transport & More"
 description: "Know before you go to Thailand — current visa & entry, getting around, money, best time to visit, and emergency numbers, with official sources."
 lastReviewed: 2026-09-28
 draft: false
+sectionsReviewed:
+  luggage-storage: '2026-09-05'
 ---
 
 **Quick answer:** Since 15 September 2026, most nationalities (including the US, UK, EU, Canada, Australia and New Zealand) get a 30 day visa-free tourist entry, not the old 60 days, and everyone must file a Thailand Digital Arrival Card (TDAC) online before landing; always double-check the current rule for your passport on the official immigration site before you fly.
 
 ## Visa & entry
 
-Thailand overhauled its entry system in 2026. Thailand's visa exemption rules took effect on 15 September 2026, replacing the special 60-day exemption introduced in 2024. The 30-day group includes all 27 EU Member States, as well as Australia, Canada, India, Japan, New Zealand, Switzerland, the United Kingdom, the United States and other countries and territories listed in the final Royal Gazette notice. A couple of nationalities are limited to a shorter stay: a separate 15-day exemption applies to nationals of the Maldives, Mauritius, and Seychelles. A few nationalities that previously used visa-free entry now need a Visa on Arrival instead: Azerbaijan, Belarus, and Serbia now apply for a visa at the airport on arrival, for a stay of up to 15 days and a fee of around 2,000 THB.
+Thailand overhauled its entry system in 2026. Thailand's visa exemption rules took effect on 15 September 2026, replacing the special 60-day exemption introduced in 2024. The 30-day group includes all 27 EU Member States, as well as Australia, Canada, India, Japan, New Zealand, Switzerland, the United Kingdom, the United States and other countries and territories listed in the final Royal Gazette notice. A couple of nationalities are limited to a shorter stay: a separate 15-day exemption applies to nationals of Mauritius and Seychelles (the Maldives is on the 30-day list). A few nationalities that previously used visa-free entry now need a Visa on Arrival instead: Azerbaijan, Belarus, and Serbia now apply for a visa at the airport on arrival, for a stay of up to 15 days and a fee of around 2,000 THB.
 
 Important restrictions to know before you plan: as of 15 September 2026 the exemption covers tourism only, and it does not allow work of any kind. If you plan to enter and exit repeatedly overland, note that for travellers using the new 30-day exemption, entry through a land-border checkpoint is generally limited to two times per calendar year, with an exemption for nationals of Malaysia, Brunei, Indonesia and Singapore. A visa-exempt stay can usually be extended once inside the country: a visa-exempt stay can be extended once at a Thai immigration office by an additional 30 days, for about 1,900 THB in cash.
 
@@ -24,7 +26,16 @@ Bangkok's elevated BTS Skytrain and underground MRT are the easiest way to dodge
 
 Payment differs by line, which trips up many first-timers. In 2026, the MRT, Airport Rail Link, and SRT Red Line take any contactless Visa or Mastercard straight at the gate, while the BTS Skytrain, Gold Line, and Chao Phraya Tourist Boat still need a Rabbit Card. A Rabbit card is cheap and easy to get: a foreign visitor can register a Rabbit card with an original passport, and it has no deposit, accepts up to THB 4,000, and keeps value valid for two years after the last transaction. Fares are modest either way: on the BTS you pay THB 17 to 65 per adult Rabbit journey, while MRT Blue and Purple fares depend on the stations you pick. Services run roughly from early morning to midnight, since trains start between about 05:00 and 06:00 and finish between midnight and 01:00, depending on the line and station.
 
-From Suvarnabhumi Airport, the Airport Rail Link is the quickest low-cost route into the center: from Suvarnabhumi the Airport Rail Link brings you to Phaya Thai in no more than 30 minutes for THB 45. Note that this line runs on its own tickets, since the Airport Rail Link does not accept Rabbit Cards, MRT Cards, or contactless bank cards; you must buy a dedicated ARL token from the vending machines, which accept both coins and banknotes. Don Mueang Airport has no rail connection at all, so from DMK your options are a metered taxi (roughly 180 to 250 THB plus expressway toll), Grab, or public bus Route A1 for 30 THB. Outside Bangkok, buses, domestic flights, overnight trains, and ride-hailing apps such as Grab cover most journeys between cities, beaches, and northern hill towns.
+From Suvarnabhumi Airport, the Airport Rail Link is the quickest low-cost route into the center: from Suvarnabhumi the Airport Rail Link brings you to Phaya Thai in no more than 30 minutes for THB 45. Note that this line runs its own ticketing: the Airport Rail Link does not accept Rabbit Cards or MRT Cards, but since 8 November 2025 contactless credit and debit cards work at all ARL stations; otherwise, buy a dedicated ARL token from the vending machines, which accept both coins and banknotes. Don Mueang Airport has no rail connection at all, so from DMK your options are a metered taxi (roughly 180 to 250 THB plus expressway toll), Grab, or public bus Route A1 for 30 THB. Outside Bangkok, buses, domestic flights, overnight trains, and ride-hailing apps such as Grab cover most journeys between cities, beaches, and northern hill towns.
+
+## Luggage storage
+
+At Suvarnabhumi Airport, Bellugg operates a staffed luggage storage service with counters on Level 2 and Level 4. Reservations should be made at least an hour in advance. Bags are charged by size and by 24 hour period: smaller pieces, up to 22 inches, cost 100 baht per piece per day; medium pieces, between 22 and 26 inches, cost 120 baht per piece per day; and larger pieces, over 26 inches, cost 150 baht per piece per day. If storage is needed beyond the booked period, travellers are asked to contact the service counter directly to arrange an extension.
+
+Beyond the airport, travellers in Thailand have other options for storing bags for a few hours or overnight, including lockers at transit stations and shopping centres, staffed counters run by private companies, and hotels, which will often hold luggage at reception both after checkout and before check-in. Anyone relying on these alternatives should confirm opening hours, accepted payment methods and any size limits directly with the provider, since terms vary by location and are not standardised across the city.
+
+Sources:
+- [Suvarnabhumi Airport: Bellugg luggage storage](https://suvarnabhumi.airportthai.co.th/explore/promotion/detail/410)
 
 ## Money & costs
 
@@ -48,6 +59,7 @@ The Tourist Police exist specifically to help foreign visitors and are usually t
 
 - [Thailand Digital Arrival Card (TDAC), official portal, Thai Immigration Bureau](https://tdac.immigration.go.th/)
 - [Immigration Bureau, Royal Thai Police](https://www.immigration.go.th/)
+- [TAT Newsroom: new 30-day and 15-day visa exemption rules from 15 September](https://www.tatnews.org/2026/09/thailand-introduces-new-30-day-and-15-day-visa-exemption-rules-from-15-september/)
 - [Thailand e-Visa, Ministry of Foreign Affairs](https://www.thaievisa.go.th/)
 - [Tourism Authority of Thailand (TAT)](https://www.tourismthailand.org/)
 - [Thailand.go.th, Government Public Relations Department, tourist assistance numbers](https://thailand.go.th/)

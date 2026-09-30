@@ -6,16 +6,27 @@ import Newsletter from './Newsletter.astro';
 import PlanTrip from './PlanTrip.astro';
 import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
-import { holidayLabel } from '../i18n/holidays';
+import { holidayParts } from '../i18n/holidays';
 import { slugifyRegion } from '../lib/slug';
 import countryFacts from '../../data/country-facts.json';
 import countriesData from '../../data/countries.json';
+import essentialsFacts from '../../data/essentials-facts.json';
 import { pickOgPhoto } from '../lib/ogPhoto.mjs';
+import { wikimediaThumb } from '../lib/wikimediaThumb.mjs';
+import { bodyHash } from '../../scripts/lib/essentials-facts.mjs';
 
-// Shared per-country essentials page for /essentials/<country> (en) +
-// /[lang]/essentials/<country>. Renders the translated body when a translation
-// exists, else the English source. Hard facts (lastReviewed, official links) come
-// from the English source's frontmatter/body.
+// Per-country essentials page for /essentials/<country> (en) and
+// /[lang]/essentials/<country>. Redesigned 2026-09-30 from 픽서님's "호주
+// 필수정보 개선안": photo hero, four-card summary, sticky contents, the quick
+// answer first, climate as bars, holiday badges, and cards/tables per section.
+//
+// The cards come from data/essentials-facts.json, which holds ONLY what the
+// country's reviewed guide states (scripts/lib/essentials-facts.mjs refuses any
+// number, name or month the guide does not). Where a section has no vetted
+// facts — or the English guide changed since they were built — that section
+// shows its prose, exactly as before. The full prose of every section stays on
+// the page either way, under "read the full section": the cards summarise it,
+// they do not replace it.
 interface Props { entry: any; translation: any; lang: Lang }
 const { entry, translation, lang } = Astro.props;
 const t = useTranslations(lang);
@@ -29,29 +40,133 @@ const reviewed = d.lastReviewed.toLocaleDateString(localeCodes[lang], { year: 'n
 const policyLink = `<a href="${localizePath('/about', lang)}">${t('footer.editorialPolicy')}</a>`;
 const reviewedNote = t('ess.reviewedNote').replace('{date}', reviewed).replace('{policy}', policyLink);
 
-// Climate + holidays from data/country-facts.json (NASA POWER + Nager.Date,
-// refreshed monthly by refresh-country-facts.yml). Either may be absent for a
-// country — sections render only when there is real data.
-const facts = (countryFacts as any).countries?.[d.country] ?? {};
-const monthName = (m: number) =>
-  new Intl.DateTimeFormat(localeCodes[lang], { month: 'short' }).format(new Date(Date.UTC(2026, m - 1, 1)));
-const todayIso = new Date().toISOString().slice(0, 10);
-const upcomingHolidays = (facts.holidays ?? []).filter((h: any) => h.date >= todayIso).slice(0, 10);
-const holidayDate = (iso: string) =>
-  new Intl.DateTimeFormat(localeCodes[lang], { month: 'long', day: 'numeric', timeZone: 'UTC' }).format(new Date(iso + 'T00:00:00Z'));
+// ── Facts: vetted cards, used only while the English guide is unchanged ──
+const englishBody = String(entry.body ?? '');
+const factEntry = (essentialsFacts as any).countries?.[d.country];
+const factsFresh = !!factEntry && factEntry.srcHash === bodyHash(englishBody);
+const F: any = factsFresh ? (lang === 'en' ? factEntry.en : factEntry[lang]) : null;
 
-// These pages were dead ends: eight sections of visa, money and transport advice
-// for a country, and the only body links out were /about and the trip checklist.
-// Nothing pointed at that country's cities, guides, events or itineraries — the
-// exact things someone reading its entry rules is about to want — so the reader
-// had to go back through the nav, and the crawler saw 23 leaves (115 across the
-// languages) hanging off the country hub with nothing under them.
-const countrySlug =
-  countriesData.countries.find((c: any) => c.name === d.country)?.slug ?? null;
+// ── Prose, split into its sections (same six in every guide and language) ──
+const html: string = (translation ?? entry).rendered?.html ?? '';
+const parts = html.split(/<h2[^>]*>/);
+const lead = parts.shift() ?? '';
+// Text lifted out of rendered HTML keeps its entities: "Visa &#x26; entry"
+// showed literally in the heading and the contents list (caught in the
+// English dark-mode screenshot, 2026-09-30). Decode before printing as text.
+const decode = (s: string) => s
+  .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16)))
+  .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n)))
+  .replace(/&quot;/g, '"').replace(/&apos;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&nbsp;/g, ' ')
+  .replace(/&amp;/g, '&');
+const textOf = (h: string) => decode(h.replace(/<[^>]+>/g, ''));
+const sections = parts.map((p) => {
+  const end = p.indexOf('</h2>');
+  return { heading: textOf(p.slice(0, end)).trim(), html: p.slice(end + 5) };
+});
+const SECTION_KEYS = ['visa', 'transport', 'money', 'season', 'emergency', 'sources'] as const;
+// Sections are known by their ENGLISH headings, not their position: the next
+// essentials topic (luggage storage) inserts a seventh section after "Getting
+// around", and matching by position would have put it in the money slot — or,
+// as first written, dropped every country back to plain prose (review,
+// 2026-09-30). A translation takes the English key at the same index, and only
+// when it has the same number of sections; otherwise it renders whole.
+const keyOf = (h: string) => {
+  const s = h.toLowerCase();
+  return s.startsWith('visa') ? 'visa' : s.startsWith('getting around') ? 'transport' : s.startsWith('money') ? 'money'
+    : s.startsWith('best time') ? 'season' : s.startsWith('emergenc') ? 'emergency' : s.startsWith('official source') ? 'sources' : null;
+};
+const enKeys = String(entry.rendered?.html ?? '').split(/<h2[^>]*>/).slice(1)
+  .map((p) => keyOf(textOf(p.slice(0, p.indexOf('</h2>'))).trim()));
+const aligned = sections.length === enKeys.length;
+const sec: Record<string, { heading: string; html: string } | undefined> = {};
+const extras: { heading: string; html: string; id: string }[] = [];
+sections.forEach((s, i) => {
+  const k = aligned ? enKeys[i] : null;
+  if (k && !sec[k]) sec[k] = s;
+  else extras.push({ ...s, id: `ess-more-${i + 1}` });
+});
+const structured = aligned && SECTION_KEYS.every((k) => sec[k]);
+const quickAnswer = lead.replace(/^\s*<p>\s*<strong>[^<]*<\/strong>\s*/, '<p>').trim();
+const firstPara = (h = '') => (h.match(/<p>[\s\S]*?<\/p>/) ?? [''])[0];
+// The lede above the cards: the first sentence or two of the section, as plain
+// text. The design shows a line of context, not the paragraph the cards
+// summarise — the full text stays under "read the full section".
+const lede = (h = '') => {
+  const text = textOf(firstPara(h)).replace(/\s+/g, ' ').trim();
+  // Latin stops need a space after them; CJK stops do not have one ("。" runs
+  // straight into the next sentence), so Japanese and Chinese showed the whole
+  // paragraph (review, 09-30). CJK sentences are denser: cut sooner.
+  const ends = [...text.matchAll(/[.!?](?=\s|$)|[。！？]/g)].map((m) => (m.index ?? 0) + m[0].length);
+  const min = /[。！？]/.test(text) ? 30 : 70;
+  const cut = ends.find((i) => i >= min) ?? text.length;
+  return text.slice(0, cut).trim();
+};
+
+// Official sources: the links of the last section, shown as chips.
+const sources = [...String(sec.sources?.html ?? '').matchAll(/<a[^>]*href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/g)]
+  // Decoded both: Astro re-escapes on output, so an "&amp;" left in would reach
+  // the page as "&amp;amp;" and break the link's query string.
+  .map((m) => ({ href: decode(m[1]), label: textOf(m[2]).trim() }));
+
+// ── Climate + holidays from data/country-facts.json ──
+const facts = (countryFacts as any).countries?.[d.country] ?? {};
+const monthShort = (m: number) =>
+  new Intl.DateTimeFormat(localeCodes[lang], { month: 'short' }).format(new Date(Date.UTC(2026, m - 1, 1)));
+const bestMonths: number[] = F?.season?.best ?? [];
+const climate: any[] = facts.climate ?? [];
+const tMin = Math.min(...climate.map((c) => c.lo));
+const tMax = Math.max(...climate.map((c) => c.hi));
+const rainMax = Math.max(1, ...climate.map((c) => c.rain));
+const pct = (v: number) => ((v - tMin) / Math.max(1, tMax - tMin)) * 100;
+
+// Each holiday once — its next date — within the coming year. The old list ran
+// two calendar years together, so Christmas and Boxing Day showed twice.
+const todayIso = new Date().toISOString().slice(0, 10);
+const yearAhead = new Date(Date.now() + 365 * 86400000).toISOString().slice(0, 10);
+const seenHoliday = new Set<string>();
+const holidays = (facts.holidays ?? [])
+  .filter((h: any) => h.date >= todayIso && h.date < yearAhead)
+  .sort((a: any, b: any) => a.date.localeCompare(b.date))
+  .filter((h: any) => (seenHoliday.has(h.name) ? false : (seenHoliday.add(h.name), true)))
+  .slice(0, 10)
+  .sort((a: any, b: any) => a.date.slice(5).localeCompare(b.date.slice(5)));
+const hMonth = (iso: string) => new Intl.DateTimeFormat(localeCodes[lang], { month: 'short', timeZone: 'UTC' }).format(new Date(iso + 'T00:00:00Z'));
+const hDay = (iso: string) => Number(iso.slice(8, 10));
+
+// ── Summary cards; the "best time" card falls back to the vetted months ──
+const runs = (ms: number[]) => {
+  const s = [...new Set(ms)].sort((a, b) => a - b);
+  const out: [number, number][] = [];
+  for (const m of s) {
+    const last = out.at(-1);
+    if (last && m === last[1] + 1) last[1] = m; else out.push([m, m]);
+  }
+  if (out.length > 1 && out[0][0] === 1 && out.at(-1)![1] === 12) { const f = out.shift()!; out.at(-1)![1] = f[1]; }
+  return out.map(([a, b]) => (a === b ? monthShort(a) : `${monthShort(a)}–${monthShort(b)}`)).join(' · ');
+};
+const SUMMARY = [
+  { key: 'entry', label: t('ess.sumEntry'), href: '#ess-visa', icon: 'doc' },
+  { key: 'money', label: t('ess.sumMoney'), href: '#ess-money', icon: 'wallet' },
+  { key: 'season', label: t('ess.sumSeason'), href: '#ess-season', icon: 'cal' },
+  { key: 'transport', label: t('ess.sumTransport'), href: '#ess-transport', icon: 'bus' },
+];
+const summaryCards = F && structured
+  ? SUMMARY.map((s) => {
+      const c = (F.summary ?? []).find((x: any) => x.key === s.key);
+      // The design's "best time" card leads with the months ("3–5월 · 9–11월"),
+      // not a phrase like "shoulder seasons best": use the vetted months when
+      // there are any, and let the model's phrase become the supporting line.
+      if (s.key === 'season' && bestMonths.length) return { ...s, title: runs(bestMonths), sub: c?.title && c.title !== runs(bestMonths) ? c.title : c?.sub ?? '' };
+      if (c) return { ...s, title: c.title, sub: c.sub };
+      if (s.key === 'season' && bestMonths.length) return { ...s, title: runs(bestMonths), sub: '' };
+      return null;
+    }).filter(Boolean) as any[]
+  : [];
+
+// ── Onward links (cities, itineraries, latest guides) ──
+const countrySlug = countriesData.countries.find((c: any) => c.name === d.country)?.slug ?? null;
 const countryPosts = (await getCollection('posts', ({ data }) => !data.draft))
   .filter((p) => (p.data.country ?? 'South Korea') === d.country);
-
-// Cities, busiest first — the ones with enough guides to be worth a click.
 const cityCounts = new Map<string, number>();
 for (const p of countryPosts) {
   if (p.data.region) cityCounts.set(p.data.region, (cityCounts.get(p.data.region) ?? 0) + 1);
@@ -59,14 +174,17 @@ for (const p of countryPosts) {
 const topCities = [...cityCounts.entries()]
   .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
   .slice(0, 12);
-
-const latestGuides = [...countryPosts]
-  .sort((a, b) => (b.data.pubDate > a.data.pubDate ? 1 : -1))
-  .slice(0, 6);
-
 const countryItineraries = (await getCollection('itineraries', ({ data }) => !data.draft))
   .filter((it) => it.data.country === d.country)
   .slice(0, 4);
+
+// ── Hero photo: the country's best wide hero, with its credit (CC licences
+// require it) and the focus point the vision check recorded. ──
+const ogPhoto = pickOgPhoto(countryPosts);
+const heroPost = ogPhoto ? countryPosts.find((p) => p.data.heroImage?.url === ogPhoto) : null;
+const hero = heroPost?.data.heroImage ?? null;
+const heroSrc = hero ? wikimediaThumb(hero.url, 1600) : null;
+const heroFocus = hero?.focus ? `${hero.focus.x ?? 50}% ${hero.focus.y ?? 50}%` : '50% 50%';
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const pageUrl = siteHref(Astro.url.pathname, Astro.site);
@@ -81,134 +199,353 @@ const jsonLd = {
     ] },
   ],
 };
-// Share card: a hub about a place should unfurl as that place, not the
-// logo. Falls through to the brand default in BaseLayout when the list is
-// empty or the hero has no built thumbnail yet.
-// og:image gets the FULL-SIZE hero, not the 640px wall thumb: crawlers fetch
-// og:image separately (page weight is unaffected) and Google Discover only
-// serves large cards from images ≥1200px wide. Wall thumbs stay for on-page grids.
-const ogPhoto = pickOgPhoto(countryPosts);
 
+const toc = [
+  { id: 'ess-quick', label: t('ess.quickAnswer'), show: !!quickAnswer && structured },
+  { id: 'ess-climate', label: t('ess.climateTitle'), show: climate.length === 12 },
+  { id: 'ess-holidays', label: t('ess.holidaysTitle'), show: holidays.length > 0 },
+  ...SECTION_KEYS.filter((k) => k !== 'sources').map((k) => ({ id: `ess-${k}`, label: sec[k]?.heading ?? '', show: structured && !!sec[k] })),
+  ...extras.map((x) => ({ id: x.id, label: x.heading, show: structured })),
+  { id: 'ess-sources', label: sec.sources?.heading ?? '', show: structured && !!sec.sources },
+].filter((x) => x.show);
+// Both link into sections that exist only on a structured page.
+const emergencyTop = structured ? (F?.emergency?.numbers?.[0] ?? null) : null;
+const cityTone = ['tone-green', 'tone-brown', 'tone-sand'];
 ---
 
 <BaseLayout image={ogPhoto} title={title} description={description} jsonLd={jsonLd} localized={true}>
-  <div class="page-hero">
-    <div class="wrap">
-      <p class="eyebrow">{t('ess.label')} · {countryLabel}</p>
-      <h1>{t('ess.knowBeforeYouGo').replace('{country}', countryLabel)}</h1>
-      <p>{t('ess.countryDek')}</p>
+  <div class="ess wrap">
+    <header class:list={['ess-hero', { 'has-photo': !!heroSrc }]}>
+      {heroSrc && <img class="ess-hero-img" src={heroSrc} alt="" style={`object-position:${heroFocus}`} fetchpriority="high" decoding="async" />}
+      <div class="ess-hero-body">
+        <nav class="ess-crumbs" aria-label="breadcrumb">
+          <a href={localizePath('/', lang)}>{t('post.home')}</a><span aria-hidden="true">·</span>
+          <a href={localizePath('/essentials', lang)}>{t('ess.label')}</a><span aria-hidden="true">·</span>
+          <strong>{countryLabel}</strong>
+        </nav>
+        <h1>{t('ess.knowBeforeYouGo').replace('{country}', countryLabel)}</h1>
+        <p class="ess-dek">{t('ess.countryDek')}</p>
+        <p class="ess-chips">
+          <span class="ess-chip">✓ {t('ess.checkedChip').replace('{date}', reviewed)}</span>
+          {sources.length > 0 && <a class="ess-chip" href="#ess-sources">{t('ess.sourcesChip').replace('{n}', String(sources.length))}</a>}
+        </p>
+      </div>
+      {hero?.credit && (
+        <p class="ess-credit">{hero.source ? <a href={hero.source} rel="noopener nofollow" target="_blank">{hero.credit}</a> : hero.credit}</p>
+      )}
+    </header>
+
+    {summaryCards.length > 0 && (
+      <div class:list={['ess-summary', `n${summaryCards.length}`]}>
+        {summaryCards.map((c, i) => (
+          <a class:list={['ess-sum', { lead: i === 0 }]} href={c.href}>
+            <span class="ess-ico" aria-hidden="true">
+              {c.icon === 'doc' && <svg viewBox="0 0 24 24"><path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"/><path d="M14 3v5h5"/><path d="m9 14 2 2 4-4"/></svg>}
+              {c.icon === 'wallet' && <svg viewBox="0 0 24 24"><path d="M19 7V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-3"/><path d="M21 9h-5a3 3 0 0 0 0 6h5z"/></svg>}
+              {c.icon === 'cal' && <svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M16 3v4M8 3v4M3 10h18"/></svg>}
+              {c.icon === 'bus' && <svg viewBox="0 0 24 24"><rect x="4" y="4" width="16" height="13" rx="3"/><path d="M4 11h16M8 20v-3M16 20v-3"/><circle cx="8" cy="14" r="1"/><circle cx="16" cy="14" r="1"/></svg>}
+            </span>
+            <span class="ess-sum-label">{c.label}</span>
+            <strong class="ess-sum-title">{c.title}</strong>
+            {c.sub && <span class="ess-sum-sub">{c.sub}</span>}
+          </a>
+        ))}
+      </div>
+    )}
+
+    <div class="ess-grid">
+      <aside class="ess-side">
+        {toc.length > 2 && (
+          <nav class="ess-toc" aria-label={t('ess.onThisPage')}>
+            <p class="ess-toc-title">{t('ess.onThisPage')}</p>
+            <ol>{toc.map((x) => <li><a href={`#${x.id}`}>{x.label}</a></li>)}</ol>
+          </nav>
+        )}
+        {emergencyTop && (
+          <a class="ess-sos" href="#ess-emergency">
+            <span class="ess-sos-label">{t('ess.emergencyShort')}</span>
+            <strong>{emergencyTop.number}</strong>
+            {emergencyTop.label && <span>{emergencyTop.label}</span>}
+          </a>
+        )}
+      </aside>
+
+      <article class="ess-main">
+        {/* Climate and holidays come from data, not the guide's sections, so
+            they render whatever shape the guide is in — the review found them
+            inside the structured branch, where a seventh section would have
+            taken them off every country's page (2026-09-30). */}
+            {structured && quickAnswer && (
+              <section id="ess-quick" class="ess-quick">
+                <span class="ess-pill">{t('ess.quickAnswer')}</span>
+                <div class="ess-quick-text" set:html={quickAnswer} />
+                <p class="ess-quick-note">{t('ess.disclaimer')}</p>
+              </section>
+            )}
+
+            {climate.length === 12 && (
+              <section id="ess-climate" class="ess-sec">
+                <h2>{t('ess.climateTitle')}</h2>
+                <p class="ess-sec-dek">{t('ess.climateBasis').replace('{city}', localizePlace(facts.climateCity ?? countryLabel, lang)).replace('{n}', String(facts.climateYears ?? 10))}</p>
+                <p class="ess-legend">
+                  <span><i class="dot temp"></i>{t('ess.legendTemp')}</span>
+                  <span><i class="dot rain"></i>{t('ess.legendRain')}</span>
+                  {bestMonths.length > 0 && <span><i class="dot best"></i>{t('ess.legendBest')}</span>}
+                </p>
+                <div class="ess-card ess-climate" role="img" aria-label={t('ess.climateTitle')}>
+                  {climate.map((c: any) => (
+                    <div class:list={['ess-mo', { best: bestMonths.includes(c.m) }]}>
+                      <span class="hi">{c.hi}°</span>
+                      <span class="temp-track"><span class="temp-bar" style={`bottom:${pct(c.lo)}%;height:${Math.max(6, pct(c.hi) - pct(c.lo))}%`}></span></span>
+                      <span class="lo">{c.lo}°</span>
+                      <span class="rain-track"><span class="rain-bar" style={`height:${Math.max(6, (c.rain / rainMax) * 100)}%`}></span></span>
+                      <span class="rain">{c.rain}</span>
+                      <span class="mo">{monthShort(c.m)}</span>
+                    </div>
+                  ))}
+                </div>
+                {/* The same numbers as text, for screen readers and search engines. */}
+                <table class="sr-only">
+                  <caption>{t('ess.climateTitle')}</caption>
+                  <thead><tr><th scope="col">{t('ess.month')}</th><th scope="col">{t('ess.hi')} °C</th><th scope="col">{t('ess.lo')} °C</th><th scope="col">{t('ess.rain')}</th></tr></thead>
+                  <tbody>{climate.map((c: any) => <tr><th scope="row">{monthShort(c.m)}</th><td>{c.hi}</td><td>{c.lo}</td><td>{c.rain}</td></tr>)}</tbody>
+                </table>
+              </section>
+            )}
+
+            {holidays.length > 0 && (
+              <section id="ess-holidays" class="ess-sec">
+                <h2>{t('ess.holidaysTitle')}</h2>
+                <p class="ess-sec-dek">{t('ess.holidaysDek')}</p>
+                <ul class="ess-hol">
+                  {holidays.map((h: any) => {
+                    const hp = holidayParts(d.country, h.localName, h.name, lang);
+                    return (
+                      <li>
+                        <span class:list={['ess-hol-date', { best: bestMonths.includes(Number(h.date.slice(5, 7))) }]}>
+                          <small>{hMonth(h.date)}</small><b>{hDay(h.date)}</b>
+                        </span>
+                        <span class="ess-hol-name"><strong>{hp.primary}</strong>{hp.secondary && <small>{hp.secondary}</small>}</span>
+                      </li>
+                    );
+                  })}
+                </ul>
+              </section>
+            )}
+
+        {structured ? (
+          <>
+            {/* ── Visa & entry ── */}
+            <section id="ess-visa" class="ess-sec">
+              <h2>{sec.visa?.heading}</h2>
+              {F?.visa?.cards?.length ? (
+                <>
+                  <p class="ess-lede">{lede(sec.visa?.html)}</p>
+                  <div class:list={['ess-visa', `n${F.visa.cards.length}`]}>
+                    {F.visa.cards.map((v: any, i: number) => (
+                      <div class:list={['ess-visa-card', { lead: i === 0 }]}>
+                        <p class="ess-visa-head"><strong>{v.name}</strong>{v.code && <span class="ess-code">{v.code}</span>}</p>
+                        {v.who && <p class="ess-visa-who">{v.who}</p>}
+                        {(v.cost || v.stay) && (
+                          <div class="ess-visa-stats">
+                            {v.cost && <span><small>{t('ess.visaCost')}</small>{v.cost}</span>}
+                            {v.stay && <span><small>{t('ess.visaStay')}</small>{v.stay}</span>}
+                          </div>
+                        )}
+                        {v.note && <p class="ess-visa-note">{v.note}</p>}
+                      </div>
+                    ))}
+                  </div>
+                  {F.visa.warnings?.length > 0 && (
+                    <div class="ess-warn">
+                      {F.visa.warnings.map((w: any) => <p><strong>{w.title}.</strong> {w.text}</p>)}
+                    </div>
+                  )}
+                  <details class="ess-more"><summary>{t('ess.readMore')}</summary><div class="prose" set:html={sec.visa?.html} /></details>
+                </>
+              ) : <div class="prose" set:html={sec.visa?.html} />}
+            </section>
+
+            {/* ── Getting around ── */}
+            <section id="ess-transport" class="ess-sec">
+              <h2>{sec.transport?.heading}</h2>
+              {(F?.transport?.rows?.length ?? 0) >= 2 || F?.transport?.tips?.length ? (
+                <>
+                  <p class="ess-lede">{lede(sec.transport?.html)}</p>
+                  {/* A table of one city is a sentence in a table's clothes —
+                      translation pruning can leave one row (review, 09-30). */}
+                  {F.transport.rows?.length >= 2 && (
+                    <div class="ess-table-wrap">
+                      <table class="ess-table">
+                        <thead><tr><th scope="col">{t('ess.thCity')}</th><th scope="col">{t('ess.thCard')}</th>{F.transport.rows.some((r: any) => r.contactless) && <th scope="col">{t('ess.thTap')}</th>}</tr></thead>
+                        <tbody>
+                          {F.transport.rows.map((r: any) => (
+                            <tr>
+                              <th scope="row">{r.city}</th>
+                              <td>{r.card}</td>
+                              {F.transport.rows.some((x: any) => x.contactless) && (
+                                <td>{r.contactless && <span class:list={['ess-tap', r.contactless]}>{t(r.contactless === 'yes' ? 'ess.tapYes' : r.contactless === 'soon' ? 'ess.tapSoon' : 'ess.tapNo')}</span>}</td>
+                              )}
+                            </tr>
+                          ))}
+                        </tbody>
+                      </table>
+                    </div>
+                  )}
+                  {F.transport.tips?.length > 0 && (
+                    <div class="ess-tips green">{F.transport.tips.map((x: any) => <div><strong>{x.title}</strong><p>{x.text}</p></div>)}</div>
+                  )}
+                  <details class="ess-more"><summary>{t('ess.readMore')}</summary><div class="prose" set:html={sec.transport?.html} /></details>
+                </>
+              ) : <div class="prose" set:html={sec.transport?.html} />}
+            </section>
+
+            {/* ── Money & costs ── */}
+            <section id="ess-money" class="ess-sec">
+              <h2>{sec.money?.heading}</h2>
+              {F?.money?.budget || F?.money?.tips?.length ? (
+                <>
+                  <div class:list={['ess-money', { 'no-budget': !F.money.budget }]}>
+                    {F.money.budget && (
+                      <div class="ess-budget">
+                        <small>{t('ess.budgetKicker')}{F.money.budget.label && ` · ${F.money.budget.label}`}</small>
+                        {(() => {
+                          // "AUD" on one line, "220–380" on the next — never "AUD 220–" / "380".
+                          const m = String(F.money.budget.amount).match(/^([A-Z]{2,4}\$?|[^\d\s]{1,3})\s*(\d.*)$/);
+                          return m
+                            ? <strong><span class="cur">{m[1]}</span> <span class="num">{m[2]}</span></strong>
+                            : <strong>{F.money.budget.amount}</strong>;
+                        })()}
+                        {F.money.budget.note && <p>{F.money.budget.note}</p>}
+                      </div>
+                    )}
+                    {F.money.tips?.length > 0 && (
+                      <div class="ess-money-tips">{F.money.tips.map((x: any) => <div><strong>{x.title}</strong><p>{x.text}</p></div>)}</div>
+                    )}
+                  </div>
+                  <details class="ess-more"><summary>{t('ess.readMore')}</summary><div class="prose" set:html={sec.money?.html} /></details>
+                </>
+              ) : <div class="prose" set:html={sec.money?.html} />}
+            </section>
+
+            {/* ── Best time to visit ── */}
+            <section id="ess-season" class="ess-sec">
+              <h2>{sec.season?.heading}</h2>
+              {F?.season?.rows?.length ? (
+                <>
+                  <p class="ess-lede">{lede(sec.season?.html)}</p>
+                  <div class="ess-card ess-season">
+                    {/* A grid, not a table: on a phone the label goes above its
+                        row so all twelve months fit — the table showed Jan–Apr
+                        and hid the rest behind a sideways scroll. */}
+                    <div class="ess-sgrid">
+                      <div class="ess-shead" aria-hidden="true"><span></span>{Array.from({ length: 12 }, (_, i) => <span>{i + 1}</span>)}</div>
+                      {F.season.rows.map((r: any) => (
+                        <div class="ess-srow">
+                          <p class="ess-slabel"><strong>{r.label}</strong>{r.sub && <small>{r.sub}</small>}</p>
+                          <ol class="ess-sdots">
+                            {Array.from({ length: 12 }, (_, i) => {
+                              const m = i + 1;
+                              const st = r.best.includes(m) ? 'best' : r.busy?.includes(m) ? 'busy' : r.avoid?.includes(m) ? 'avoid' : 'none';
+                              const lab = st === 'best' ? t('ess.seasonBest') : st === 'busy' ? t('ess.seasonBusy') : st === 'avoid' ? t('ess.seasonAvoid') : '';
+                              return <li class:list={['ess-dot', st]} title={lab ? `${monthShort(m)} · ${lab}` : monthShort(m)}><span class="sr-only">{monthShort(m)}{lab && ` · ${lab}`}</span></li>;
+                            })}
+                          </ol>
+                        </div>
+                      ))}
+                    </div>
+                    <p class="ess-legend">
+                      <span><i class="dot s-best"></i>{t('ess.seasonBest')}</span>
+                      {F.season.rows.some((r: any) => r.busy?.length) && <span><i class="dot busy"></i>{t('ess.seasonBusy')}</span>}
+                      {F.season.rows.some((r: any) => r.avoid?.length) && <span><i class="dot avoid"></i>{t('ess.seasonAvoid')}</span>}
+                    </p>
+                  </div>
+                  <details class="ess-more"><summary>{t('ess.readMore')}</summary><div class="prose" set:html={sec.season?.html} /></details>
+                </>
+              ) : <div class="prose" set:html={sec.season?.html} />}
+            </section>
+
+            {/* ── Emergencies & safety ── */}
+            <section id="ess-emergency" class="ess-sec">
+              <h2>{sec.emergency?.heading}</h2>
+              {F?.emergency?.numbers?.length ? (
+                <>
+                  <div class:list={['ess-sosgrid', `n${F.emergency.numbers.length}`]}>
+                    {F.emergency.numbers.map((n: any, i: number) => (
+                      <div class:list={['ess-num', `t${Math.min(i, 2)}`]}>
+                        <strong>{n.number}</strong>
+                        {n.label && <span class="ess-num-label">{n.label}</span>}
+                        {n.note && <p>{n.note}</p>}
+                      </div>
+                    ))}
+                  </div>
+                  {F.emergency.chips?.length > 0 && <p class="ess-chiprow">{F.emergency.chips.map((c: string) => <span>{c}</span>)}</p>}
+                  <details class="ess-more"><summary>{t('ess.readMore')}</summary><div class="prose" set:html={sec.emergency?.html} /></details>
+                </>
+              ) : <div class="prose" set:html={sec.emergency?.html} />}
+            </section>
+
+            {/* ── Sections the page has no cards for (e.g. luggage storage),
+                in the guide's own words ── */}
+            {extras.map((x) => (
+              <section id={x.id} class="ess-sec">
+                <h2>{x.heading}</h2>
+                <div class="prose" set:html={x.html} />
+              </section>
+            ))}
+
+            {/* ── Official sources ── */}
+            <section id="ess-sources" class="ess-sec ess-card ess-sources">
+              <h2>{sec.sources?.heading}</h2>
+              {sources.length > 0 ? (
+                <ul>{sources.map((s) => <li><a href={s.href} rel="noopener" target="_blank">{s.label}<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg></a></li>)}</ul>
+              ) : <div class="prose" set:html={sec.sources?.html} />}
+              <p class="ess-reviewed" set:html={reviewedNote}></p>
+            </section>
+          </>
+        ) : (
+          <div class="prose"><Content /></div>
+        )}
+
+        {topCities.length > 0 && (
+          <section class="ess-sec ess-onward">
+            <div class="ess-onward-head">
+              <h2>{t('ess.exploreTitle').replace('{country}', countryLabel)}</h2>
+              {countrySlug && <a href={localizePath(`/destinations/${countrySlug}`, lang)}>{t('ess.allGuides').replace('{country}', countryLabel)} →</a>}
+            </div>
+            {topCities.length > 0 && (
+              <>
+                <div class="ess-bigcities">
+                  {topCities.slice(0, 3).map(([region, n], i) => (
+                    <a class:list={['ess-bigcity', cityTone[i]]} href={localizePath(`/regions/${slugifyRegion(region)}`, lang)}>
+                      <small>{t('ess.guidesN').replace('{n}', String(n))}</small>
+                      <strong>{localizePlace(region, lang)}</strong>
+                      <span>{t('ess.viewCity')} →</span>
+                    </a>
+                  ))}
+                </div>
+                {topCities.length > 3 && (
+                  <ul class="ess-cities">
+                    {topCities.slice(3).map(([region, n]) => (
+                      <li><a href={localizePath(`/regions/${slugifyRegion(region)}`, lang)}><span>{localizePlace(region, lang)}</span><small>{t('ess.guidesN').replace('{n}', String(n))}</small></a></li>
+                    ))}
+                  </ul>
+                )}
+              </>
+            )}
+            {countryItineraries.length > 0 && (
+              <ul class="ess-links">
+                {countryItineraries.map((it: any) => <li><a href={localizePath(`/itinerary/${it.id}`, lang)}>{it.data.title}</a></li>)}
+              </ul>
+            )}
+          </section>
+        )}
+      </article>
     </div>
   </div>
 
-  <article class="article wrap">
-    <blockquote>
-      {t('ess.disclaimer')} <strong>{t('ess.lastReviewedLabel').replace('{date}', reviewed)}</strong>
-    </blockquote>
-
-    {facts.climate && (
-      <section class="climate">
-        <h2>{t('ess.climateTitle')}</h2>
-        <p class="section-dek">{t('ess.climateDek')}</p>
-        <div class="climate-scroll">
-          <table>
-            <thead>
-              <tr>
-                <th scope="col">{t('ess.month')}</th>
-                {facts.climate.map((c: any) => <th scope="col">{monthName(c.m)}</th>)}
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <th scope="row">{t('ess.hi')} °C</th>
-                {facts.climate.map((c: any) => <td>{c.hi}</td>)}
-              </tr>
-              <tr>
-                <th scope="row">{t('ess.lo')} °C</th>
-                {facts.climate.map((c: any) => <td>{c.lo}</td>)}
-              </tr>
-              <tr>
-                <th scope="row">{t('ess.rain')}</th>
-                {facts.climate.map((c: any) => <td>{c.rain}</td>)}
-              </tr>
-            </tbody>
-          </table>
-        </div>
-      </section>
-    )}
-
-    {upcomingHolidays.length > 0 && (
-      <section class="holidays">
-        <h2>{t('ess.holidaysTitle')}</h2>
-        <p class="section-dek">{t('ess.holidaysDek')}</p>
-        <ul class="holiday-list">
-          {upcomingHolidays.map((h: any) => (
-            <li>
-              <span class="holiday-date">{holidayDate(h.date)}</span>
-              <span class="holiday-name">{holidayLabel(d.country, h.localName, h.name, lang)}</span>
-            </li>
-          ))}
-        </ul>
-      </section>
-    )}
-
-    <div class="prose">
-      <Content />
-    </div>
-
-    <p class="disclosure" set:html={reviewedNote}></p>
-    {(topCities.length > 0 || latestGuides.length > 0) && (
-      <section class="ess-onward">
-        <h2>{t('ess.exploreTitle').replace('{country}', countryLabel)}</h2>
-
-        {topCities.length > 0 && (
-          <ul class="ess-cities">
-            {topCities.map(([region, n]) => (
-              <li>
-                {/* slugifyRegion, not a local lowercase-and-dash: the ad-hoc
-                    version kept apostrophes and accents, so Xi'an, Alcañiz and
-                    Buñol linked to /regions/xi'an/ etc. — 13 dead links on the
-                    localized essentials pages, where no rescue redirect exists. */}
-                <a href={localizePath(`/regions/${slugifyRegion(region)}`, lang)}>
-                  {localizePlace(region, lang)} <span class="ess-count">{n}</span>
-                </a>
-              </li>
-            ))}
-          </ul>
-        )}
-
-        {countryItineraries.length > 0 && (
-          <ul class="ess-links">
-            {countryItineraries.map((it: any) => (
-              <li><a href={localizePath(`/itinerary/${it.id}`, lang)}>{it.data.title}</a></li>
-            ))}
-          </ul>
-        )}
-
-        {latestGuides.length > 0 && (
-          <ul class="ess-links">
-            {latestGuides.map((g: any) => (
-              <li>
-                <a href={localizePath(`/posts/${g.id}`, lang)}>{g.data.place?.name ?? g.data.title}</a>
-                {g.data.region && <span class="ess-count">{localizePlace(g.data.region, lang)}</span>}
-              </li>
-            ))}
-          </ul>
-        )}
-
-        {countrySlug && (
-          <p class="ess-all">
-            <a href={localizePath(`/destinations/${countrySlug}`, lang)}>
-              {t('ess.allGuides').replace('{country}', countryLabel)} →
-            </a>
-          </p>
-        )}
-      </section>
-    )}
-  </article>
-
-  {/* These are the highest-planning-intent pages on the site — someone reading a
-      country's visa and money rules is booking — and they carried no booking
-      surface at all. */}
+  {/* The highest-planning-intent pages on the site: someone reading a
+      country's visa and money rules is booking. */}
   <PlanTrip city={countryLabel} country={d.country} />
 
   <Newsletter
@@ -219,35 +556,265 @@ const ogPhoto = pickOgPhoto(countryPosts);
 </BaseLayout>
 
 <style>
-  /* Onward links out of what used to be a dead-end page. Cities first (widest
-     net), then itineraries and recent guides. */
-  .ess-onward { margin-top: 2.8rem; padding-top: 1.6rem; border-top: 1px solid var(--line); }
-  .ess-onward h2 { margin: 0 0 0.9rem; font-size: 1.15rem; }
-  .ess-cities { list-style: none; margin: 0 0 1rem; padding: 0; display: flex; flex-wrap: wrap; gap: 0.5rem; }
-  .ess-cities a {
-    display: inline-flex; align-items: baseline; gap: 0.4rem;
-    padding: 0.4rem 0.75rem; border: 1px solid var(--line); border-radius: 999px;
-    background: var(--surface); color: var(--ink); text-decoration: none; font-size: 0.9rem;
+  .ess {
+    --ess-forest: #3b4a2c; --ess-night: #262d1b; --ess-moss: #8fa06f; --ess-leaf: #e3ecd0;
+    --ess-rust: #cf7a45; --ess-brown: #6b3413; --ess-peach: #fde3d4; --ess-sand: #ece5d6;
+    --ess-card: var(--surface); --ess-on-dark: #f6f1e6;
+    padding-top: 1.2rem; padding-bottom: 2rem;
   }
-  .ess-cities a:hover { border-color: var(--accent); color: var(--accent); }
+  @media (prefers-color-scheme: dark) {
+    :global(:root:not([data-theme='light'])) .ess { --ess-leaf: #26301c; --ess-peach: #3a2620; --ess-sand: #2a251d; --ess-moss: #7f9460; }
+  }
+  :global(:root[data-theme='dark']) .ess { --ess-leaf: #26301c; --ess-peach: #3a2620; --ess-sand: #2a251d; --ess-moss: #7f9460; }
+
+  /* Hero */
+  .ess-hero { position: relative; overflow: hidden; border-radius: 28px; background: var(--ess-forest); color: #fff; min-height: 400px; display: flex; align-items: flex-end; }
+  .ess-hero-img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+  .ess-hero.has-photo::after { content: ''; position: absolute; inset: 0; background: linear-gradient(90deg, rgba(18, 22, 12, 0.82) 0%, rgba(18, 22, 12, 0.62) 50%, rgba(18, 22, 12, 0.3) 100%), linear-gradient(0deg, rgba(18, 22, 12, 0.5), transparent 65%); }
+  .ess-hero-body { position: relative; z-index: 1; padding: 3.2rem 3rem 2.4rem; max-width: 760px; }
+  .ess-crumbs { display: flex; flex-wrap: wrap; gap: 0.5rem; font-size: 0.85rem; opacity: 0.92; margin-bottom: 0.9rem; }
+  .ess-crumbs a { color: inherit; text-decoration: none; }
+  .ess-crumbs a:hover { text-decoration: underline; }
+  .ess-hero h1 { font-family: var(--font-display); font-size: clamp(2rem, 4.6vw, 3.4rem); line-height: 1.12; margin: 0 0 0.9rem; color: #fff; text-wrap: balance; }
+  .ess-dek { margin: 0 0 1.2rem; font-size: 1.02rem; color: rgba(255, 255, 255, 0.94); max-width: 58ch; }
+  .ess-chips { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 0; }
+  .ess-chip { display: inline-flex; align-items: center; padding: 0.42rem 0.9rem; border-radius: 999px; background: rgba(255, 255, 255, 0.18); backdrop-filter: blur(6px); color: #fff; font-size: 0.84rem; font-weight: 600; text-decoration: none; }
+  a.ess-chip:hover { background: rgba(255, 255, 255, 0.28); }
+  .ess-credit { position: absolute; right: 1rem; bottom: 0.6rem; z-index: 1; margin: 0; font-size: 0.7rem; opacity: 0.75; max-width: 60%; text-align: right; }
+  .ess-credit a { color: #fff; }
+
+  /* Summary */
+  .ess-summary { display: grid; gap: 0.8rem; margin: 0.9rem 0 1.6rem; grid-template-columns: repeat(4, 1fr); }
+  .ess-summary.n3 { grid-template-columns: repeat(3, 1fr); }
+  .ess-summary.n2 { grid-template-columns: repeat(2, 1fr); }
+  .ess-summary.n1 { grid-template-columns: 1fr; }
+  .ess-sum { display: flex; flex-direction: column; gap: 0.35rem; padding: 1.3rem 1.3rem 1.4rem; border-radius: 24px; background: var(--ess-card); color: var(--ink); text-decoration: none; box-shadow: var(--shadow-sm); transition: transform 0.15s; }
+  .ess-sum:hover { transform: translateY(-2px); }
+  .ess-sum.lead { background: var(--ess-forest); color: var(--ess-on-dark); }
+  .ess-ico { width: 2.6rem; height: 2.6rem; border-radius: 50%; display: grid; place-items: center; background: var(--ess-sand); margin-bottom: 0.9rem; }
+  .ess-sum.lead .ess-ico { background: rgba(255, 255, 255, 0.14); }
+  .ess-ico svg { width: 1.2rem; height: 1.2rem; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+  .ess-sum-label { font-size: 0.8rem; font-weight: 600; opacity: 0.8; }
+  .ess-sum-title { font-size: 1.25rem; line-height: 1.3; }
+  .ess-sum-sub { font-size: 0.86rem; opacity: 0.82; line-height: 1.45; }
+
+  /* Two columns */
+  .ess-grid { display: grid; grid-template-columns: 260px minmax(0, 1fr); gap: 2rem; align-items: start; margin-top: 1.2rem; }
+  .ess-summary + .ess-grid { margin-top: 0; }
+  .ess-dek { text-shadow: 0 1px 2px rgba(0, 0, 0, 0.35); }
+  .ess-side { position: sticky; top: 5.5rem; display: flex; flex-direction: column; gap: 0.9rem; }
+  .ess-toc { background: var(--ess-card); border-radius: 24px; padding: 1.1rem 0.8rem 1rem; box-shadow: var(--shadow-sm); }
+  .ess-toc-title { margin: 0 0 0.5rem 0.6rem; font-size: 0.8rem; font-weight: 700; color: var(--muted); }
+  .ess-toc ol { list-style: none; margin: 0; padding: 0; }
+  .ess-toc a { display: block; padding: 0.45rem 0.7rem; border-radius: 999px; color: var(--ink-soft); text-decoration: none; font-size: 0.92rem; }
+  .ess-toc a::before { content: '•'; color: var(--line-strong); margin-right: 0.55rem; }
+  .ess-toc a:hover { background: var(--ess-sand); color: var(--ink); }
+  .ess-sos { display: flex; flex-direction: column; gap: 0.2rem; padding: 1.1rem 1.3rem 1.2rem; border-radius: 24px; background: var(--ess-peach); color: var(--ink); text-decoration: none; }
+  .ess-sos-label { font-size: 0.8rem; font-weight: 700; }
+  .ess-sos strong { font-family: var(--font-display); font-size: 2.3rem; line-height: 1.1; }
+  .ess-sos span:last-child { font-size: 0.86rem; color: var(--ink-soft); }
+
+  /* Sections */
+  .ess-main { min-width: 0; }
+  .ess-sec { margin: 0 0 2.6rem; scroll-margin-top: 5.5rem; }
+  .ess-sec h2 { font-family: var(--font-display); font-size: clamp(1.45rem, 2.4vw, 1.85rem); margin: 0 0 0.4rem; }
+  .ess-sec-dek { color: var(--muted); margin: 0 0 0.9rem; }
+  .ess-card { background: var(--ess-card); border-radius: 24px; padding: 1.4rem; box-shadow: var(--shadow-sm); }
+  .ess-lede { margin: 0.3rem 0 1rem; color: var(--ink-soft); line-height: 1.75; }
+  .ess-pill { display: inline-block; padding: 0.22rem 0.7rem; border-radius: 999px; background: rgba(255, 255, 255, 0.14); font-size: 0.8rem; font-weight: 600; }
+
+  .ess-quick { background: var(--ess-night); color: var(--ess-on-dark); border-radius: 28px; padding: 1.7rem 1.9rem 1.5rem; margin-bottom: 2.6rem; scroll-margin-top: 5.5rem; }
+  .ess-quick-text :global(p) { font-size: 1.08rem; line-height: 1.8; margin: 0.9rem 0 0.6rem; }
+  .ess-quick-text :global(strong) { color: #fff; }
+  .ess-quick-note { margin: 0.6rem 0 0; font-size: 0.8rem; opacity: 0.72; }
+
+  .ess-legend { display: flex; flex-wrap: wrap; gap: 1.1rem; margin: 0.4rem 0 0.9rem; font-size: 0.84rem; color: var(--ink-soft); }
+  .ess-legend span { display: inline-flex; align-items: center; gap: 0.4rem; }
+  .dot { display: inline-block; width: 0.8rem; height: 0.8rem; border-radius: 999px; }
+  .dot.temp { background: var(--ess-rust); }
+  .dot.rain { background: var(--ess-moss); }
+  .dot.best { background: var(--ess-leaf); outline: 1px solid var(--ess-moss); }
+  .dot.busy { background: #f4a06a; }
+  .dot.s-best { background: var(--ess-moss); }
+  .dot.avoid { background: #cfc5b2; }
+
+  /* Climate bars */
+  .ess-climate { display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); gap: 0.35rem; padding: 1.1rem 0.9rem; overflow-x: auto; }
+  .ess-mo { display: grid; grid-template-rows: auto 120px auto 60px auto auto; justify-items: center; gap: 0.3rem; padding: 0.6rem 0.1rem 0.7rem; border-radius: 999px; min-width: 2.4rem; }
+  .ess-mo.best { background: var(--ess-leaf); }
+  .ess-mo .hi { font-weight: 700; font-size: 0.86rem; color: var(--ess-brown); }
+  :global(:root[data-theme='dark']) .ess-mo .hi { color: #f0b184; }
+  @media (prefers-color-scheme: dark) { :global(:root:not([data-theme='light'])) .ess-mo .hi { color: #f0b184; } }
+  .temp-track { position: relative; width: 0.9rem; height: 100%; }
+  .temp-bar { position: absolute; left: 0; right: 0; background: var(--ess-rust); border-radius: 999px; }
+  .ess-mo .lo { font-size: 0.8rem; color: var(--muted); }
+  .rain-track { position: relative; width: 1.9rem; height: 100%; display: flex; align-items: flex-end; }
+  .rain-bar { width: 100%; background: var(--ess-moss); border-radius: 10px; opacity: 0.85; }
+  .ess-mo .rain { font-size: 0.76rem; color: var(--ink-soft); }
+  .ess-mo .mo { font-weight: 700; font-size: 0.84rem; }
+
+  /* Holidays */
+  .ess-hol { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.7rem; }
+  .ess-hol li { display: flex; align-items: center; gap: 0.9rem; padding: 0.5rem 1rem 0.5rem 0.5rem; background: var(--ess-card); border-radius: 999px; box-shadow: var(--shadow-sm); }
+  .ess-hol-date { flex: none; width: 3.3rem; height: 3.3rem; border-radius: 50%; display: grid; place-content: center; text-align: center; background: #8a4a1c; color: #fff; line-height: 1.05; }
+  .ess-hol-date.best { background: var(--ess-forest); }
+  .ess-hol-date small { font-size: 0.66rem; font-weight: 600; }
+  .ess-hol-date b { font-size: 1.15rem; }
+  .ess-hol-name { display: flex; flex-direction: column; min-width: 0; }
+  .ess-hol-name strong { font-size: 0.98rem; }
+  .ess-hol-name small { color: var(--muted); font-size: 0.8rem; }
+
+  /* Visa */
+  .ess-visa { display: grid; gap: 0.8rem; grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .ess-visa.n1 { grid-template-columns: minmax(0, 1fr); }
+  .ess-visa.n2, .ess-visa.n4 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .ess-visa-card { background: var(--ess-card); border-radius: 24px; padding: 1.3rem; box-shadow: var(--shadow-sm); display: flex; flex-direction: column; gap: 0.7rem; }
+  .ess-visa-card.lead { background: var(--ess-night); color: var(--ess-on-dark); }
+  .ess-visa-head { display: flex; justify-content: space-between; align-items: center; gap: 0.6rem; margin: 0; }
+  .ess-visa-head strong { font-size: 1.2rem; min-width: 0; }
+  /* Names like "Visa-free (US/Canada/Australia/NZ/Singapore)" have no space
+     to break at and pushed the Hong Kong page sideways on a phone (sweep, 09-30). */
+  .ess-visa-card, .ess-sum, .ess-num, .ess-tips > div, .ess-money-tips > div, .ess-warn p, .ess-slabel { overflow-wrap: anywhere; }
+  .ess-code { padding: 0.18rem 0.6rem; border-radius: 999px; background: var(--ess-sand); font-size: 0.78rem; color: var(--ink-soft); white-space: nowrap; }
+  .ess-visa-card.lead .ess-code { background: rgba(255, 255, 255, 0.16); color: var(--ess-on-dark); }
+  .ess-visa-who { margin: 0; font-weight: 600; font-size: 0.92rem; line-height: 1.5; }
+  .ess-visa-stats { display: grid; grid-template-columns: 1fr 1fr; gap: 0.5rem; }
+  .ess-visa-stats span { background: var(--ess-sand); border-radius: 16px; padding: 0.6rem 0.75rem; font-weight: 700; font-size: 0.92rem; line-height: 1.4; }
+  .ess-visa-card.lead .ess-visa-stats span { background: var(--ess-forest); }
+  .ess-visa-stats small { display: block; font-weight: 600; font-size: 0.72rem; opacity: 0.75; margin-bottom: 0.15rem; }
+  .ess-visa-note { margin: 0; font-size: 0.88rem; line-height: 1.55; opacity: 0.9; }
+  .ess-warn { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 0.7rem; margin-top: 0.8rem; }
+  .ess-warn p { margin: 0; padding: 1rem 1.2rem; border-radius: 22px; background: var(--ess-peach); font-size: 0.92rem; line-height: 1.6; }
+
+  /* Transport */
+  .ess-table-wrap { overflow-x: auto; border-radius: 22px; box-shadow: var(--shadow-sm); }
+  .ess-table { width: 100%; border-collapse: collapse; background: var(--ess-card); font-size: 0.95rem; }
+  .ess-table thead th { background: var(--ess-sand); text-align: left; font-size: 0.82rem; font-weight: 700; padding: 0.8rem 1.1rem; }
+  .ess-table th[scope='row'] { text-align: left; font-weight: 700; }
+  .ess-table th, .ess-table td { padding: 0.8rem 1.1rem; border-top: 1px solid var(--line-soft); }
+  .ess-tap { display: inline-flex; align-items: center; gap: 0.45rem; font-weight: 600; }
+  .ess-tap::before { content: ''; width: 0.6rem; height: 0.6rem; border-radius: 50%; background: var(--ess-moss); }
+  .ess-tap.soon { color: var(--gold-text); }
+  .ess-tap.soon::before { background: var(--ess-rust); }
+  .ess-tap.no::before { background: var(--line-strong); }
+  .ess-tips { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 0.7rem; margin-top: 0.8rem; }
+  .ess-tips > div { background: var(--ess-leaf); border-radius: 22px; padding: 1rem 1.2rem; }
+  .ess-tips strong, .ess-money-tips strong { display: block; margin-bottom: 0.3rem; }
+  .ess-tips p, .ess-money-tips p { margin: 0; font-size: 0.9rem; line-height: 1.6; color: var(--ink-soft); }
+
+  /* Money */
+  .ess-money { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); gap: 0.8rem; }
+  .ess-money.no-budget { grid-template-columns: minmax(0, 1fr); }
+  .ess-budget { background: var(--ess-brown); color: var(--ess-on-dark); border-radius: 26px; padding: 1.6rem 1.7rem; display: flex; flex-direction: column; gap: 0.6rem; }
+  .ess-budget small { font-size: 0.84rem; font-weight: 600; opacity: 0.9; }
+  .ess-budget strong { font-family: var(--font-display); font-size: clamp(2.2rem, 5vw, 3.3rem); line-height: 1.08; color: #fff; overflow-wrap: anywhere; }
+  .ess-budget .cur, .ess-budget .num { display: block; }
+  /* May wrap: nowrap pushed "$50-$250 per day" past a phone-width card (review, 09-30). */
+  .ess-budget .num { overflow-wrap: anywhere; }
+  .ess-budget p { margin: auto 0 0; font-size: 0.9rem; opacity: 0.88; line-height: 1.6; }
+  .ess-money-tips { display: flex; flex-direction: column; gap: 0.6rem; }
+  .ess-money-tips > div { background: var(--ess-card); border-radius: 20px; padding: 0.9rem 1.1rem; box-shadow: var(--shadow-sm); }
+  .ess-money.no-budget .ess-money-tips { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
+
+  /* Season grid */
+  .ess-sgrid { display: flex; flex-direction: column; gap: 0.7rem; }
+  .ess-shead, .ess-srow { display: grid; grid-template-columns: minmax(8rem, 12rem) minmax(0, 1fr); align-items: center; gap: 0.8rem; }
+  .ess-shead { grid-template-columns: minmax(8rem, 12rem) repeat(12, minmax(0, 1fr)); gap: 0.8rem 0.3rem; font-size: 0.8rem; font-weight: 700; color: var(--ink-soft); text-align: center; }
+  .ess-slabel { margin: 0; }
+  .ess-slabel strong { display: block; font-size: 0.95rem; line-height: 1.35; }
+  .ess-slabel small { display: block; color: var(--muted); font-size: 0.76rem; line-height: 1.35; }
+  .ess-sdots { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); gap: 0.3rem; justify-items: center; }
+  .ess-dot { display: block; width: min(1.9rem, 100%); aspect-ratio: 1; border-radius: 50%; background: transparent; border: 1.5px dashed var(--line); }
+  .ess-dot.best { background: var(--ess-moss); border-color: transparent; }
+  .ess-dot.busy { background: #f4a06a; border-color: transparent; }
+  .ess-dot.avoid { background: #d9d1c1; border-color: transparent; }
+  :global(:root[data-theme='dark']) .ess-dot.avoid { background: #4a4234; }
+  @media (prefers-color-scheme: dark) { :global(:root:not([data-theme='light'])) .ess-dot.avoid { background: #4a4234; } }
+
+  /* Emergency */
+  .ess-sosgrid { display: grid; gap: 0.8rem; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); }
+  .ess-num { border-radius: 26px; padding: 1.3rem 1.4rem; display: flex; flex-direction: column; gap: 0.3rem; }
+  .ess-num strong { font-family: var(--font-display); font-size: 2.4rem; line-height: 1.08; overflow-wrap: anywhere; }
+  .ess-num.t0 { background: var(--ess-brown); color: var(--ess-on-dark); }
+  .ess-num.t0 strong { color: #fff; }
+  .ess-num.t1 { background: var(--ess-peach); }
+  .ess-num.t2 { background: var(--ess-card); box-shadow: var(--shadow-sm); }
+  .ess-num-label { font-weight: 700; }
+  .ess-num p { margin: 0.2rem 0 0; font-size: 0.88rem; line-height: 1.55; opacity: 0.9; }
+  .ess-chiprow { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 0.9rem 0 0; }
+  .ess-chiprow span { padding: 0.4rem 0.9rem; border-radius: 999px; background: var(--ess-card); font-size: 0.86rem; box-shadow: var(--shadow-sm); }
+
+  /* Read more (full prose kept on the page) */
+  .ess-more { margin-top: 0.9rem; }
+  .ess-more summary { cursor: pointer; display: inline-flex; align-items: center; gap: 0.4rem; font-weight: 600; font-size: 0.92rem; color: var(--accent-text); padding: 0.3rem 0; }
+  .ess-more[open] summary { margin-bottom: 0.4rem; }
+  .ess-more .prose { max-width: 100%; }
+
+  /* Sources */
+  .ess-sources { padding: 1.6rem 1.8rem; }
+  .ess-sources h2 { font-size: 1.3rem; margin-bottom: 0.9rem; }
+  .ess-sources ul { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 0.55rem; }
+  .ess-sources a { display: flex; justify-content: space-between; align-items: center; gap: 0.7rem; padding: 0.7rem 1rem; border-radius: 999px; background: var(--ess-sand); color: var(--ink); text-decoration: none; font-weight: 600; font-size: 0.9rem; }
+  .ess-sources a:hover { color: var(--accent-text); }
+  .ess-sources svg { flex: none; width: 1rem; height: 1rem; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+  .ess-reviewed { margin: 1rem 0 0; font-size: 0.84rem; color: var(--muted); }
+  .ess-reviewed :global(a) { color: var(--accent-text); font-weight: 600; }
+
+  /* Onward */
+  .ess-onward-head { display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; flex-wrap: wrap; margin-bottom: 0.9rem; }
+  .ess-onward-head a { color: var(--accent-text); font-weight: 600; text-decoration: none; }
+  .ess-bigcities { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 0.8rem; margin-bottom: 0.8rem; }
+  .ess-bigcity { display: flex; flex-direction: column; gap: 0.3rem; padding: 1.3rem 1.4rem; border-radius: 26px; text-decoration: none; min-height: 150px; }
+  .ess-bigcity small { font-size: 0.8rem; font-weight: 600; opacity: 0.85; }
+  .ess-bigcity strong { font-family: var(--font-display); font-size: 1.7rem; line-height: 1.15; }
+  .ess-bigcity span { margin-top: auto; font-size: 0.86rem; opacity: 0.9; }
+  .tone-green { background: var(--ess-forest); color: var(--ess-on-dark); }
+  .tone-brown { background: var(--ess-brown); color: var(--ess-on-dark); }
+  .tone-sand { background: var(--ess-sand); color: var(--ink); }
+  .ess-cities { list-style: none; margin: 0 0 1rem; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 0.55rem; }
+  .ess-cities a { display: flex; justify-content: space-between; align-items: baseline; gap: 0.5rem; padding: 0.7rem 1.1rem; border-radius: 999px; background: var(--ess-card); color: var(--ink); text-decoration: none; font-weight: 600; box-shadow: var(--shadow-sm); }
+  .ess-cities a:hover { color: var(--accent-text); }
+  .ess-cities small { color: var(--muted); font-weight: 500; }
   .ess-links { list-style: none; margin: 0 0 0.9rem; padding: 0; }
   .ess-links li { padding: 0.45rem 0; border-bottom: 1px solid var(--line-soft); }
   .ess-links a { color: var(--ink); text-decoration: none; }
-  .ess-links a:hover { color: var(--accent); text-decoration: underline; }
+  .ess-links a:hover { color: var(--accent-text); text-decoration: underline; }
   .ess-count { color: var(--muted); font-size: 0.78rem; margin-left: 0.4rem; }
-  .ess-all { margin: 0.6rem 0 0; }
-  .ess-all a { color: var(--accent); font-weight: 600; text-decoration: none; }
-  .ess-all a:hover { text-decoration: underline; }
 
-  .climate, .holidays { margin-top: 2.6rem; }
-  .section-dek { color: var(--muted, #6b6357); margin: 0.3rem 0 1rem; }
-  .climate-scroll { overflow-x: auto; }
-  .climate table { border-collapse: collapse; font-size: 0.92rem; min-width: 640px; }
-  .climate th, .climate td { padding: 0.45rem 0.6rem; text-align: center; border-bottom: 1px solid var(--line, #e5dfd2); }
-  .climate thead th { font-weight: 650; }
-  .climate tbody th { text-align: left; font-weight: 600; white-space: nowrap; }
-  .holiday-list { list-style: none; padding: 0; margin: 0; }
-  .holiday-list li { display: flex; gap: 0.9rem; padding: 0.45rem 0; border-bottom: 1px solid var(--line, #e5dfd2); }
-  .holiday-date { min-width: 7.5rem; font-weight: 600; white-space: nowrap; }
-  .holiday-name { color: var(--ink, #201c17); }
+  .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+
+  /* Tablet and phone */
+  @media (max-width: 960px) {
+    .ess-grid { grid-template-columns: minmax(0, 1fr); gap: 1rem; }
+    .ess-side { position: static; flex-direction: row; flex-wrap: wrap; }
+    /* min-width 0: a flex item grows to its content by default, so the pill
+       row pushed the whole page sideways on a phone (overflow check, 09-30). */
+    .ess-side, .ess-toc { min-width: 0; max-width: 100%; }
+    .ess-toc { flex: 1 1 100%; padding: 0.7rem; }
+    .ess-toc-title { display: none; }
+    .ess-toc ol { display: flex; gap: 0.35rem; overflow-x: auto; scrollbar-width: none; }
+    .ess-toc a { white-space: nowrap; background: var(--ess-sand); }
+    .ess-toc a::before { display: none; }
+    .ess-sos { display: none; }
+    .ess-summary, .ess-summary.n3 { grid-template-columns: repeat(2, 1fr); }
+    .ess-visa, .ess-visa.n2, .ess-visa.n4 { grid-template-columns: minmax(0, 1fr); }
+    .ess-money { grid-template-columns: minmax(0, 1fr); }
+  }
+  @media (max-width: 600px) {
+    .ess-shead { grid-template-columns: repeat(12, minmax(0, 1fr)); }
+    .ess-shead > span:first-child { display: none; }
+    .ess-srow { grid-template-columns: minmax(0, 1fr); gap: 0.35rem; }
+    .ess-hero { min-height: 300px; border-radius: 22px; }
+    .ess-hero-body { padding: 2.4rem 1.3rem 2rem; }
+    .ess-credit { position: static; max-width: none; text-align: left; padding: 0 1.3rem 0.8rem; margin-top: -1.2rem; }
+    .ess-hero { flex-direction: column; justify-content: flex-end; align-items: stretch; }
+    .ess-summary, .ess-summary.n3, .ess-summary.n2 { grid-template-columns: minmax(0, 1fr); }
+    .ess-sum { flex-direction: row; flex-wrap: wrap; align-items: center; column-gap: 0.8rem; padding: 1rem 1.1rem; }
+    .ess-sum .ess-ico { margin: 0; width: 2.2rem; height: 2.2rem; }
+    .ess-sum-label { flex: 1; }
+    .ess-sum-title, .ess-sum-sub { flex-basis: 100%; }
+    .ess-quick { padding: 1.3rem 1.2rem; border-radius: 22px; }
+    .ess-hol { grid-template-columns: minmax(0, 1fr); }
+    .ess-climate { grid-template-columns: repeat(12, 2.6rem); }
+  }
 </style>

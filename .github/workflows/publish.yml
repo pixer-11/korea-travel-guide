@@ -484,7 +484,7 @@ jobs:
           if echo "$MISSING" | grep -q '"essentials":\[\]'; then
             echo "나라 실용정보: 빠진 나라 없음 — 건너뜁니다."
           else
-            node scripts/build-essentials.mjs
+            ONLY_MISSING=1 node scripts/build-essentials.mjs
             # The guide alone is not the job. This step used to stop at the
             # English file, and the four translations waited for the MONTHLY
             # refresh-essentials cron — a country added on the 2nd shipped
@@ -493,6 +493,10 @@ jobs:
             # idempotent (skips what already exists), so this costs nothing on
             # days when nothing is new.
             node scripts/translate-essentials.mjs
+            # The page's cards (visa, transit table, budget, season grid),
+            # vetted against the new guide. A failure only costs the cards —
+            # the page shows its prose — so it must not fail the publish.
+            node scripts/build-essentials-facts.mjs || echo "필수정보 카드 추출 실패 — 해당 나라는 본문으로 표시됩니다."
           fi
 
       # Assembles/refreshes src/content/itineraries/<city>-<n>-days.md for any
@@ -759,7 +763,7 @@ jobs:
           # essentials-topics-i18n / static-pages-i18n: their translators joined
           # this workflow on 2026-09-02; unstaged, a re-translation would be
           # produced every night and dropped every night.
-          git add data/places-budget.json data/topic-yield.json data/visual-audit.json data/translation-quality.json src/content/posts src/content/i18n data/published.json public/wall data/wall.json src/i18n/places.json src/i18n/country-blurbs.json src/i18n/regions.json src/i18n/holidays.json src/content/itineraries src/content/itineraries-i18n data/itineraries-state.json data/logs/itinerary-last-run.txt data/country-facts.json src/content/essentials src/content/essentials-i18n src/content/essentials-topics-i18n src/content/static-pages-i18n
+          git add data/places-budget.json data/topic-yield.json data/visual-audit.json data/translation-quality.json src/content/posts src/content/i18n data/published.json public/wall data/wall.json src/i18n/places.json src/i18n/country-blurbs.json src/i18n/regions.json src/i18n/holidays.json src/content/itineraries src/content/itineraries-i18n data/itineraries-state.json data/logs/itinerary-last-run.txt data/country-facts.json data/essentials-facts.json src/content/essentials src/content/essentials-i18n src/content/essentials-topics-i18n src/content/static-pages-i18n
           # Count PUBLISHED and HELD separately. The gate flips a defective new
           # post to draft before this commit, and format-post-list already skips
           # drafts — but this count didn't, so the report said "새 글 6개" over

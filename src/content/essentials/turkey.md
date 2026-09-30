@@ -4,6 +4,8 @@ title: "Turkey Travel Essentials: Visa, Transport & More"
 description: "Know before you go to Turkey — current visa & entry, getting around, money, best time to visit, and emergency numbers, with official sources."
 lastReviewed: 2026-09-28
 draft: false
+sectionsReviewed:
+  luggage-storage: '2026-09-05'
 ---
 
 **Quick answer:** Most Western passport holders (US, UK, EU, Canada, Australia, New Zealand) can enter Turkey visa-free for up to 90 days in any 180-day period, while many other nationalities need an e-Visa from evisa.gov.tr; pack a mix of Turkish lira and a contactless card, and dial 112 for any emergency.
@@ -12,7 +14,7 @@ draft: false
 
 As of August 2026, ordinary passport holders from the United States, United Kingdom, all EU member states, Canada, Australia and New Zealand enter Türkiye visa-free for tourism for up to 90 days in any 180-day period, according to the Turkish Ministry of Foreign Affairs. Türkiye scrapped its e-visa requirement for US and Canadian citizens on 23 December 2023, later extended the exemption to Australians, and on 2 January 2026 added Chinese ordinary-passport holders to the visa-free list.
 
-Travellers from India and South Africa, by contrast, still need a visa, either an e-visa from the official portal, evisa.gov.tr, or a sticker visa from a Turkish consulate. If you do need an e-Visa, it is valid for 180 days with a maximum stay of 30 days, your passport must be valid for at least 6 months from the date of entry, and visa on arrival is also available for some nationalities.
+Travellers from India and South Africa, by contrast, still need a visa, either an e-visa from the official portal, evisa.gov.tr, or a sticker visa from a Turkish consulate. If you do need an e-Visa, it is valid for 180 days with a maximum stay of 30 days, your passport must legally be valid for your stay plus at least 60 days (6 months from the date of entry is recommended), and visa on arrival is also available for some nationalities.
 
 The 90-day rule works like the Schengen system: it is 90 days of total presence in any rolling 180-day window, counted across all entries, and border-hopping to a nearby country and returning does not reset the clock. Overstaying is not a minor matter: exit officers levy a fine calculated on the length of the overstay, and travellers who overstay or refuse to pay can face an entry ban ranging from several months to five years.
 
@@ -25,6 +27,15 @@ Istanbul's public transport (metro, tram, bus, funicular and ferry) runs on a si
 As of 2026, a blank Istanbulkart costs 165 Turkish Lira, a non-refundable card fee, and it can be loaded with credits up to 2,750 TL at ticket offices, special-purpose machines, vending machines on the metro, or at newsstands and small shops that offer the service. Buy one at the airport or any metro/tram station: the classic Istanbulkart can be purchased from the yellow-and-black "Biletmatik" machines located at metro, tram, ferry, and major bus stations across the city, including key areas such as Sultanahmet and Taksim.
 
 If you'd rather not buy a card, most stations now accept bank cards directly: your contactless credit card should work on all public transportation lines, though using an Istanbulkart is generally more reliable and cost-effective. For inter-city travel, domestic flights, intercity buses ("otobüs") and high-speed rail (YHT) connect major cities efficiently; taxis and ride-hailing apps are common in Istanbul, Ankara and Antalya, but confirm the meter is running or agree a fare in advance.
+
+## Luggage storage
+
+Istanbul Airport runs left luggage offices in the terminal building, next to the domestic passenger exit and opposite exit number 13 on the arrivals floor, with further locker locations across exit 8 and exit 14. Luggage lockers are also available on the departures level, near gates 1 and 6. Pricing is tiered by size and billed per 24 hours: a small bag costs TRY 210, a medium (cabin sized) bag costs TRY 270, a large bag costs TRY 550, an XL item such as a bicycle or surfboard costs TRY 690, and an XXL item costs TRY 860.
+
+Away from the airport, staffed left luggage rooms at train stations and city centre locations are uncommon, and travellers generally rely on hotels, which will often hold bags informally before check-in or after check-out. Anyone arriving by rail or needing storage away from the airport should check locally, as consistent nationwide provision cannot be assumed.
+
+Sources:
+- [Istanbul Airport: Left Luggage Offices and Storage Lockers](https://www.istairport.com/en/services/discover/airport-facilities/left-luggage-offices-and-storage-lockers?locale=en)
 
 ## Money & costs
 
@@ -50,7 +61,7 @@ Turkey has a single unified emergency number, similar to 911 or 999. The most im
 
 The line is free and works even without phone credit: 112 works from all phones, even without credit, and is free of charge throughout Turkey. English-speaking help is generally available: emergency operators in Turkey are trained to assist callers in English. If you accidentally dial the number, stay on the line rather than hanging up, because if you accidentally call, you should not hang up immediately; tell them it was a mistake so they do not dispatch a unit unnecessarily.
 
-Other useful direct lines exist alongside 112: Fire Department: 110, Traffic Hotline: 154, Police Emergency: 155, Gendarmerie Emergency: 156, Doctor Hotline: 113. For non-emergency welfare concerns, for domestic violence or child welfare issues, it is recommended to call the Family, Women, Children, and Disabled Social Services Advice Line on 183.
+Since 2021 the old separate emergency lines (such as 155 for police, 156 for gendarmerie and 110 for fire) have been merged into 112 in all 81 provinces, and dialling them simply redirects you to 112. Other useful direct lines: Traffic Hotline: 154, Doctor Hotline: 113. For non-emergency welfare concerns, for domestic violence or child welfare issues, it is recommended to call the Family, Women, Children, and Disabled Social Services Advice Line on 183.
 
 General safety tips: keep photocopies (digital and paper) of your passport and visa/e-Visa, use hotel safes rather than carrying large amounts of cash, and always check your own government's current travel advisory for any region-specific warnings (including areas near the Syrian border) before finalising your itinerary, since advisories can change with little notice.
 
@@ -58,6 +69,7 @@ General safety tips: keep photocopies (digital and paper) of your passport and v
 
 - [Republic of Türkiye e-Visa Portal (official)](https://www.evisa.gov.tr/en/)
 - [Turkish Ministry of Foreign Affairs, Visa Information for Foreigners](https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa)
+- [Turkish Ministry of Interior, all emergency numbers merged into 112](https://www.icisleri.gov.tr/tum-acil-numaralar-112de-toplandi)
 - [Go Türkiye, official tourism portal](https://goturkiye.com/)
 - [Istanbulkart, official public transport card site](https://www.istanbulkart.istanbul/)
 - [Istanbul Electric Tramway and Tunnel Administration (IETT), official transit operator](https://www.iett.istanbul/)

@@ -20,6 +20,8 @@ import Anthropic from '@anthropic-ai/sdk';
 import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { slugify } from './lib/slugify.mjs';
 import { HOUSE_STYLE } from './lib/prose-style.mjs';
+import { editFrontmatter, readFrontmatter } from './lib/frontmatter-edit.mjs';
+import { REQUIRED_H2, carryExtraSections, requiredOnly } from './lib/essentials-sections.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
@@ -30,6 +32,7 @@ const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 const MODEL = process.env.WRITER_MODEL || 'claude-sonnet-5';
 const REFRESH_DAYS = Number(process.env.REFRESH_DAYS ?? 25);
 const FORCE = process.env.FORCE === '1';
+const ONLY_MISSING = process.env.ONLY_MISSING === '1';
 
 function recentlyReviewed(md) {
   const m = md.match(/^lastReviewed:\s*"?(\d{4}-\d{2}-\d{2})/m);
@@ -38,12 +41,20 @@ function recentlyReviewed(md) {
   return days < REFRESH_DAYS;
 }
 
-async function research(country) {
+async function research(country, baseline) {
   const now = new Date();
   const monthYear = now.toLocaleString('en-US', { month: 'long', year: 'numeric' });
+  // The existing guide goes in as the starting point. Writing from nothing each
+  // month threw away every correction: on 2026-09-30, 44 facts in the 09-28
+  // guides were checked against official pages and found wrong (Japan's visa
+  // list at 68 countries, not 74; Indonesia's ambulance at 118, not 119), and a
+  // blank-page rewrite would simply roll the dice again.
+  const base = baseline
+    ? `\n\nCURRENT GUIDE (last updated ${baseline.reviewed}; it may still contain errors). Update it rather than starting over: check its specific facts (numbers, fees, country lists, dates, phone numbers) with your searches, correct anything an official source contradicts, drop a specific you cannot confirm rather than repeat it, and add anything important that is missing. Keep its wording where it is still right.\n\n<current_guide>\n${baseline.body}\n</current_guide>\n`
+    : '';
   const prompt =
     `You are writing a factual "Know Before You Go" travel essentials guide for international visitors to ${country}, current as of ${monthYear}. ` +
-    `Use web search to confirm CURRENT (2026) entry/visa rules, public transport, money/cards, best time to visit, and emergency numbers.\n\n` +
+    `Use web search to confirm CURRENT (2026) entry/visa rules, public transport, money/cards, best time to visit, and emergency numbers.${base}\n\n` +
     `Write a well-structured GitHub-flavored Markdown guide of about 700–1000 words with EXACTLY these H2 sections in order:\n` +
     `## Visa & entry\n## Getting around\n## Money & costs\n## Best time to visit\n## Emergencies & safety\n## Official sources\n\n` +
     `Rules:\n` +
@@ -90,11 +101,21 @@ async function main() {
 
   for (const c of active) {
     const file = join(OUT_DIR, `${c.slug}.md`);
-    if (!FORCE && existsSync(file) && recentlyReviewed(await readFile(file, 'utf8'))) {
+    const existing = existsSync(file) ? await readFile(file, 'utf8') : null;
+    // publish.yml calls this to fill a NEW country's guide. Without this, the
+    // call also rewrote every guide older than REFRESH_DAYS (2026-09-28: adding
+    // Australia rewrote all twenty).
+    if (ONLY_MISSING && existing) { skipped++; continue; }
+    if (!FORCE && existing && recentlyReviewed(existing)) {
       console.log(`  ⏭️   ${c.name} — reviewed recently`); skipped++; continue;
     }
+    const oldFm = existing ? readFrontmatter(existing) : null;
+    const oldBody = existing ? existing.slice(existing.indexOf('\n---', 3) + 4).trim() : '';
     try {
-      let body = await research(c.name);
+      const baseline = existing && oldFm?.lastReviewed
+        ? { reviewed: new Date(oldFm.lastReviewed).toISOString().slice(0, 10), body: requiredOnly(oldBody) }
+        : null;
+      let body = await research(c.name, baseline);
       // strip an accidental leading markdown fence
       body = body.replace(/^```(markdown)?\n/i, '').replace(/\n```\s*$/i, '').trim();
       // A web-search run interleaves the model's working notes between tool
@@ -108,14 +129,11 @@ async function main() {
       // Completeness gate: a guide missing any of the 6 required sections (usually
       // from truncation) must NOT ship — the topic hubs deep-link to these anchors,
       // and a half-written essentials page is worse than none on a young domain.
-      const REQUIRED_H2 = [
-        '## Visa & entry', '## Getting around', '## Money & costs',
-        '## Best time to visit', '## Emergencies & safety', '## Official sources',
-      ];
       const missing = REQUIRED_H2.filter((h) => !body.includes(h));
       if (body.length < 400 || missing.length) {
         console.log(`  ⚠️  ${c.name} — incomplete (${missing.length ? 'missing: ' + missing.join(', ') : 'too thin'})`); failed++; continue;
       }
+      if (existing) body = carryExtraSections(oldBody, body);
       const today = new Date().toISOString().slice(0, 10);
       const fm =
         `---\n` +
@@ -125,7 +143,14 @@ async function main() {
         `lastReviewed: ${today}\n` +
         `draft: false\n` +
         `---\n\n`;
-      await writeFile(file, fm + body + '\n', 'utf8');
+      let out = fm + body + '\n';
+      // The carried sections keep their own review dates.
+      if (oldFm?.sectionsReviewed) {
+        const kept = Object.fromEntries(Object.entries(oldFm.sectionsReviewed)
+          .map(([k, v]) => [k, new Date(v).toISOString().slice(0, 10)]));
+        out = editFrontmatter(out, { sectionsReviewed: kept });
+      }
+      await writeFile(file, out, 'utf8');
       made++;
       console.log(`  ✅  ${c.slug}.md`);
     } catch (e) {

@@ -56,6 +56,32 @@ export function localizeHoliday(
  * name after a separator when it adds something. Never English on a localized
  * page, never a duplicate ("元日 · 元日"), never empty.
  */
+/**
+ * The same name as two lines — the reader's language large, the local name
+ * small underneath (essentials redesign, 2026-09-30). holidayLabel's one-line
+ * "local · gloss" put "New Year's Day · 신정" first on the Korean page and then
+ * repeated the English below it.
+ */
+export function holidayParts(
+  country: string | undefined | null,
+  localName: string | undefined | null,
+  name: string | undefined | null,
+  lang: Lang,
+): { primary: string; secondary: string } {
+  const rawLocal = String(localName ?? '');
+  const rawName = String(name ?? '');
+  const tentative = TENTATIVE.test(rawLocal) || TENTATIVE.test(rawName);
+  const local = rawLocal.replace(TENTATIVE, '').trim();
+  const english = rawName.replace(TENTATIVE, '').trim();
+  const gloss = localizeHoliday(country, english, lang) ?? (lang === 'en' ? english : null);
+  const primary = gloss ?? (local || english);
+  // Underneath: the name as locals say it — never an English gloss on a
+  // localized page (the rule holidayLabel keeps). Where the local name IS
+  // English (Australia, the US) that is the local name, and it shows.
+  const secondary = local && local !== primary ? local : '';
+  return { primary: tentative ? `${primary}${TENTATIVE_LABEL[lang]}` : primary, secondary };
+}
+
 export function holidayLabel(
   country: string | undefined | null,
   localName: string | undefined | null,

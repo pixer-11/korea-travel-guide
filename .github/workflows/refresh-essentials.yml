@@ -30,7 +30,10 @@ jobs:
       - name: Refresh essentials guides
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          FORCE: '1'
+        # No FORCE: a guide reviewed in the last REFRESH_DAYS (25) is left alone,
+        # so a hand-checked correction is not rewritten a few days later. Older
+        # guides are updated from their current text, not written from nothing
+        # (see research() in the script).
         run: node scripts/build-essentials.mjs
 
       # Re-translate ONLY the country guides that actually changed this run. This
@@ -51,11 +54,21 @@ jobs:
           fi
           node scripts/translate-essentials.mjs
 
+      # The page's cards come from the guide text; a guide rewritten this month
+      # has a new bodyHash, so only the changed countries are re-extracted.
+      # continue-on-error: stale cards are not shown (the page checks the hash
+      # and falls back to prose), so a failure here costs nothing but the cards.
+      - name: Rebuild essentials page cards
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/build-essentials-facts.mjs
+
       - name: Commit updates
         run: |
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add src/content/essentials src/content/essentials-i18n
+          git add src/content/essentials src/content/essentials-i18n data/essentials-facts.json
           if git diff --staged --quiet; then
             echo "No essentials changes."
           else

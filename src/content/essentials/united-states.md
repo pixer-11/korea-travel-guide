@@ -19,7 +19,7 @@ Key 2026 details to know:
 - CBP recommends that travelers apply for ESTA as soon as they begin planning their trip and no later than 72 hours before departure.
 - Screening has gotten stricter: starting in January 2026, CBP added new screening questions covering social media activity and prior travel to active conflict zones, and applicants who have visited restricted countries generally lose ESTA eligibility and must instead apply for a standard B-1/B-2 visitor visa.
 - Land-border travelers pay separately: the I-94 Arrival/Departure Record fee, required for travelers entering the U.S. by road from Canada or Mexico, climbed from $6 to $30.
-- The country list shifts: sources describe both 41 and 42 member countries in 2026 and note ongoing disputes over whether Romania has actually joined, so check the official State Department or CBP pages directly rather than trusting a secondhand list.
+- The country list does shift: CBP currently lists 42 participating countries, and Romania is not among them because its designation was rescinded on 2 May 2025, so check the official CBP page directly rather than trusting a secondhand list.
 - Not everyone qualifies for ESTA even from a member nation; citizens of non-VWP countries need a traditional B-1/B-2 visitor visa from a US embassy or consulate, which now involves longer interview requirements in some cases.
 
 **Bottom line:** confirm your eligibility, passport requirements and current fee directly on the official ESTA portal and CBP site before booking, because these rules and country lists are revised throughout the year.

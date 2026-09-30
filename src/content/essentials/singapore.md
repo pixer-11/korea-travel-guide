@@ -4,13 +4,15 @@ title: "Singapore Travel Essentials: Visa, Transport & More"
 description: "Know before you go to Singapore — current visa & entry, getting around, money, best time to visit, and emergency numbers, with official sources."
 lastReviewed: 2026-09-28
 draft: false
+sectionsReviewed:
+  luggage-storage: '2026-09-05'
 ---
 
 **Quick answer:** Most visitors from Western countries, including the US, UK, EU, Australia, Canada and Japan, can enter Singapore visa-free for tourism, but everyone must submit a free digital SG Arrival Card before landing, tap a contactless bank card or phone for buses and trains, pay in Singapore Dollars, and remember 999 for police and 995 for fire or ambulance.
 
 ## Visa & entry
 
-Singapore's immigration system centres on two separate things: your visa eligibility and the mandatory SG Arrival Card (SGAC). Singapore grants visa-free entry to nationals of over 160 countries, including the most relevant for international visitors: visa-free for 90 days for the United States, United Kingdom, all EU member states, Australia, New Zealand, Canada, Japan, South Korea, Switzerland, Norway, and Sweden, while some nationalities receive 30 days rather than 90. Nationals who do require a visa can sometimes use the Visa-Free Transit Facility for a stay of less than 96 hours in Singapore, if eligible, though this is a transit facility, not a full visa waiver, and it is not guaranteed. Importantly, Singapore does not offer a general visa on arrival for visa-required passports, so anyone who needs a visa must apply in advance.
+Singapore's immigration system centres on two separate things: your visa eligibility and the mandatory SG Arrival Card (SGAC). Singapore grants visa-free entry to nationals of over 160 countries, including most Western and many Asian passports, with a visa-free stay of 30 to 90 days depending on nationality; the ICA officer sets your permitted length of stay when you enter. Nationals who do require a visa can sometimes use the Visa-Free Transit Facility for a stay of less than 96 hours in Singapore, if eligible, though this is a transit facility, not a full visa waiver, and it is not guaranteed. Importantly, Singapore does not offer a general visa on arrival for visa-required passports, so anyone who needs a visa must apply in advance.
 
 Regardless of your passport, all travellers are required to submit the SG Arrival Card within three days (including the day of arrival) before arriving in Singapore, with narrow exemptions for people transiting without clearing immigration and for citizens, permanent residents and long-term pass holders entering via the land checkpoints. It's a free digital form that collects your personal details, travel information, accommodation address, and a short health declaration, and critically, the SG Arrival Card is not a visa. Submit it only through official channels: submission of the SGAC is free and can be done via the SGAC e-Service or the MyICA Mobile app, and numerous fraudulent third-party websites charge a fee for this free government service, so never pay for it. Note that ICA has been rolling out an updated version of the arrival card, with a new version available for early access on the ICA website starting August 26, 2026, so the exact look of the form may differ from older screenshots online. Also be aware that since 30 January 2026, ICA can ask an airline to verify SGAC or visa in a case-specific no-boarding check, so complete your submission before heading to the airport.
 
@@ -26,6 +28,15 @@ If you plan to travel heavily, compare that against the Singapore Tourist Pass, 
 
 Beyond trains and buses, metered taxis and ride-hailing apps such as Grab are widely available and can be booked from the arrivals hall at Changi Airport. From the airport itself, the MRT's East-West Line connects directly into the city.
 
+## Luggage storage
+
+Public luggage lockers are not a feature of Singapore's train network or city streets. Away from the airport, short-term storage means asking a hotel, a shopping mall concierge or a private storage shop, and rates there are set by whoever is holding the bag.
+
+At Changi Airport, Left Baggage counters run 24 hours a day in the public areas of Jewel Level 1, and in Terminals 2, 3 and 4, with further transit-area counters in Terminals 1, 2, 3 and 4. Rates per 24 hours are S$6 for loose items, S$11 for small items under 10kg, S$16 for big or odd-sized items over 10kg and S$19 for extra-large items, all inclusive of GST. Items are inspected before they can be accepted, and flammable liquids, perishable goods and valuables such as jewellery or important documents are not permitted. A baggage delivery service is also available, taking bags from the storage counters to a hotel or other destination, charged per piece and by size.
+
+Sources:
+- [Changi Airport: Secure Baggage Storage Services](https://www.changiairport.com/en/at-changi/facilities-and-services-directory/baggage-storage.html)
+
 ## Money & costs
 
 The official currency is the Singapore Dollar (SGD), symbolized as S$ or SGD. Singapore is highly cashless: Apple Pay is widely accepted throughout Singapore, and Google Pay works at most businesses that accept contactless payments. That said, keep some local cash on hand, because Hawker Centers and small neighborhood shops still frequently require cash or local QR-code payments, which may not be accessible to foreign bank apps. A practical target is about $50 to $100 SGD in small denominations for food markets, while using your contactless card or phone for everything else.
@@ -38,9 +49,9 @@ Singapore sits almost on the equator, so temperatures and humidity stay high and
 
 ## Emergencies & safety
 
-Singapore has a low crime rate and a well-organised emergency response system, but you should still memorise the correct numbers before you arrive. Police Emergencies are 999, Police Emergency SMS is 70999, the Police Hotline is 1800 255 0000, SCDF Ambulance and Fire Service is 995, the Non-Emergency Ambulance Service is 1777, and the Traffic Police Information Hotline is 6547 0000. In practice, you can reach the police in Singapore at 999 for crimes or situations requiring immediate police intervention, while in any emergency involving fire, you should call the Singapore Civil Defence Force at 995, which also dispatches ambulances. Both 995 and 999 operate 24/7 and are free to call, including from mobile phones without a local SIM.
+Singapore has a low crime rate and a well-organised emergency response system, but you should still memorise the correct numbers before you arrive. Police Emergencies are 999, Police Emergency SMS is 70999, the Police Hotline is 1800 255 0000, SCDF Ambulance and Fire Service is 995, the Non-Emergency Ambulance Service is 1777 (scheduled to end on 1 January 2027), and the Traffic Police Information Hotline is 6547 0000. In practice, you can reach the police in Singapore at 999 for crimes or situations requiring immediate police intervention, while in any emergency involving fire, you should call the Singapore Civil Defence Force at 995, which also dispatches ambulances. Both 995 and 999 operate 24/7 and are free to call, including from mobile phones without a local SIM.
 
-Be careful to use the right number for the right situation: calling 995 in non-emergencies will result in a fine, and for less urgent medical needs you can seek treatment at clinics or call 1777 for the SCDF ambulance service, though a fee applies for non-emergency use of that service. If you cannot safely speak on a call, note that Police SMS for when it is unsafe to talk is 70999. Healthcare in Singapore is of a very high standard, though not free for visitors, so travel insurance covering medical treatment is strongly recommended.
+Be careful to use the right number for the right situation: SCDF may impose a S$274 charge if a 995 ambulance is used for a non-emergency, and for less urgent medical needs you can seek treatment at clinics or call 1777 for a non-emergency ambulance (a fee applies, and the 1777 line is scheduled to end on 1 January 2027). If you cannot safely speak on a call, note that Police SMS for when it is unsafe to talk is 70999. Healthcare in Singapore is of a very high standard, though not free for visitors, so travel insurance covering medical treatment is strongly recommended.
 
 General safety tips: Singapore enforces strict laws on drugs, littering, jaywalking and vaping, with penalties that are far stricter than in many home countries, so it pays to research local regulations before you arrive rather than assume Western norms apply.
 
