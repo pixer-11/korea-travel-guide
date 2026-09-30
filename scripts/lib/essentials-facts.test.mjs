@@ -269,3 +269,10 @@ test('역방향: 달 나열(April, May)·약어(Feb-Apr)·글자로 옮긴 숫�
   assert.deepEqual(translationProblems({ s: 'Stay six months' }, { s: 'Estancia de seis meses' }), []);
   assert.deepEqual(translationProblems({ s: 'Stay 6 months' }, { s: 'Estancia de seis meses' }).length, 1);
 });
+
+test('a thousands dot is read as such only in the translation — an English decimal stays a decimal', () => {
+  assert.deepEqual(translationProblems({ s: 'About 1,000 baht a day' }, { s: 'Unos 1.000 baht al día' }), []);
+  // Codex review 2026-10-01: stripping the dot on the English side too let
+  // 1.25 km pass as 1,250 km.
+  assert.equal(translationProblems({ s: 'The walk is 1.250 km.' }, { s: '1,250km' }).length, 1);
+});

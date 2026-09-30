@@ -132,7 +132,10 @@ const nowRest = nowByEnd.filter((p) => !endingCards.includes(p));
 // closers ride along hidden, and the script below drops what has ended by the
 // reader's own date and moves these up.
 const SPARE = 4;
-const spareCards = nowRest.slice(0, SPARE);
+// Spares keep the heading honest: under "Ending soon" only other closers
+// within the two weeks may move up (Codex review, 10-01: the US hub promoted
+// a show with a month left).
+const spareCards = (closingSoon.length ? closingSoon.slice(ENDING) : nowRest).slice(0, SPARE);
 const CAP = 8;
 
 // A real photo where the guide has one (the same 640px WebP the home wall
@@ -164,18 +167,18 @@ const monthChips = chips.filter((c) => monthCat(c) > 0);
 const clientStrings = JSON.stringify({
   count: e('count'), countOne: e('countOne'), daysLeft: e('daysLeft'), dayLeft: e('dayLeft'),
   lastDay: e('lastDay'), ended: e('ended'), progress: e('progress'),
-  endingSub: e('endingSub'), allNow: e('allNow'),
+  endingSub: e('endingSub'), allNow: e('allNow'), nowOn: nowLabel,
 });
 
 const row = (p: any, withBadge = true) => ({ p, cat: catOf(p), b: withBadge ? badge(p) : null });
 ---
 
 <div class="ev-list" data-ev-list data-strings={clientStrings}>
-  {endingCards.length > 0 && (
-    <section class="section ev-now">
+  {(endingCards.length > 0 || monthGroups.length > 0) && (
+    <section class="section ev-now" hidden={endingCards.length === 0}>
       <div class="wrap">
         <div class="ev-head">
-          <h2 class="ev-h2"><span class="ev-dot" aria-hidden="true"></span>{endingTitle}</h2>
+          <h2 class="ev-h2"><span class="ev-dot" aria-hidden="true"></span><span data-now-title>{endingTitle}</span></h2>
           <span class="ev-count" data-now-sub data-n={nowItems.length}>{e('endingSub', { n: nowItems.length })}</span>
         </div>
         <div class="ev-end-grid">
@@ -204,8 +207,8 @@ const row = (p: any, withBadge = true) => ({ p, cat: catOf(p), b: withBadge ? ba
             );
           })}
         </div>
-        {nowRest.length > 0 && (
-          <details class="ev-fold ev-fold--now">
+        {(
+          <details class="ev-fold ev-fold--now" hidden={nowRest.length === 0}>
             <summary data-now-all>{e('allNow', { n: nowItems.length })}</summary>
             <ul class="ev-rows">
               {nowRest.map((p) => {
@@ -403,43 +406,60 @@ const row = (p: any, withBadge = true) => ({ p, cat: catOf(p), b: withBadge ? ba
       }
     }
 
-    // 1b. What has ended by the reader's date leaves "on now": the build ran on
-    //     the UTC date, so after midnight in Asia yesterday's closers were still
-    //     cards here, labelled "Ended". Hide them, move the hidden spares up
-    //     to keep four cards, and recount.
+    // 1b. "On now" by the reader's date, not the build's: the build ran on the
+    //     UTC date, so after midnight in Asia yesterday's closers were still
+    //     cards here, labelled "Ended" (owner, 10-01), and today's openers sat
+    //     in the month lists while the hero already counted them (Codex review,
+    //     10-01). Hide what has ended, move the hidden spares up to keep the
+    //     cards full, move what has started into the "on now" list, and give
+    //     the hero and this section one count.
     const nowSec = root.querySelector<HTMLElement>('.ev-now');
+    let movedRows = 0;
     if (nowSec) {
-      const over = (el: HTMLElement) => Date.parse(el.dataset.end || '') / DAY < today;
+      const endOf = (el: HTMLElement) => Date.parse(el.dataset.end || el.dataset.start || '') / DAY;
+      const over = (el: HTMLElement) => endOf(el) < today;
+      const fold = nowSec.querySelector<HTMLDetailsElement>('.ev-fold--now');
+      const foldList = fold?.querySelector<HTMLElement>('.ev-rows');
+      if (foldList) {
+        for (const li of root.querySelectorAll<HTMLElement>('[data-ev-group] li[data-category][data-start]')) {
+          const s = Date.parse(li.dataset.start || '') / DAY;
+          if (Number.isFinite(s) && s <= today && !over(li)) { foldList.append(li); movedRows++; }
+        }
+        if (movedRows) {
+          const byEnd = [...foldList.children as HTMLCollectionOf<HTMLElement>].sort((a, b) => endOf(a) - endOf(b));
+          foldList.append(...byEnd);
+        }
+      }
       const cards = [...nowSec.querySelectorAll<HTMLAnchorElement>('.ev-end-card')];
-      const rows = [...nowSec.querySelectorAll<HTMLElement>('.ev-fold--now li[data-end]')];
-      const gone = new Set<string>();
-      for (const el of [...cards, ...rows]) {
-        const href = el.getAttribute('href') ?? el.querySelector('a')?.getAttribute('href') ?? '';
-        if (over(el)) gone.add(href);
+      const rows = [...nowSec.querySelectorAll<HTMLElement>('.ev-fold--now li[data-start]')];
+      const slots = cards.length - cards.filter((c) => c.hasAttribute('data-spare')).length;
+      const shown = new Set<string>();
+      for (const c of cards) {
+        const on = shown.size < slots && !over(c);
+        c.hidden = !on;
+        if (on) shown.add(c.getAttribute('href') ?? '');
       }
-      if (gone.size) {
-        const slots = cards.length - cards.filter((c) => c.hasAttribute('data-spare')).length;
-        const shown = new Set<string>();
-        for (const c of cards) {
-          const on = shown.size < slots && !over(c);
-          c.hidden = !on;
-          if (on) shown.add(c.getAttribute('href') ?? '');
-        }
-        let rest = 0;
-        for (const li of rows) {
-          const href = li.querySelector('a')?.getAttribute('href') ?? '';
-          li.hidden = over(li) || shown.has(href);
-          if (!li.hidden) rest++;
-        }
-        const fold = nowSec.querySelector<HTMLDetailsElement>('.ev-fold--now');
-        if (fold) fold.hidden = rest === 0;
-        const n = Math.max(Number(nowSec.querySelector<HTMLElement>('[data-now-sub]')?.dataset.n || 0) - gone.size, 0);
-        if (n === 0) nowSec.hidden = true;
-        const sub = nowSec.querySelector<HTMLElement>('[data-now-sub]');
-        if (sub && S.endingSub) sub.textContent = fill(S.endingSub, n);
-        const all = nowSec.querySelector<HTMLElement>('[data-now-all]');
-        if (all && S.allNow) all.textContent = fill(S.allNow, n);
+      let rest = 0;
+      for (const li of rows) {
+        li.hidden = over(li) || shown.has(li.querySelector('a')?.getAttribute('href') ?? '');
+        if (!li.hidden) rest++;
       }
+      const n = shown.size + rest;
+      const grid = nowSec.querySelector<HTMLElement>('.ev-end-grid');
+      if (grid) grid.hidden = shown.size === 0;
+      if (fold) {
+        fold.hidden = rest === 0;
+        // No card left to lead with: the list itself is "on now", open.
+        if (shown.size === 0 && rest > 0) fold.open = true;
+      }
+      const title = nowSec.querySelector<HTMLElement>('[data-now-title]');
+      if (title && shown.size === 0 && S.nowOn) title.textContent = S.nowOn;
+      nowSec.hidden = n === 0;
+      const sub = nowSec.querySelector<HTMLElement>('[data-now-sub]');
+      if (sub && S.endingSub && Number(sub.dataset.n) !== n) sub.textContent = fill(S.endingSub, n);
+      const all = nowSec.querySelector<HTMLElement>('[data-now-all]');
+      // "All 1 events on now" reads wrong in English and Spanish; one is just "on now".
+      if (all && S.allNow) all.textContent = n === 1 && S.nowOn ? S.nowOn : fill(S.allNow, n);
     }
 
     // 2. Month tabs × category chips: show/hide rows, recount each month,
@@ -494,7 +514,25 @@ const row = (p: any, withBadge = true) => ({ p, cat: catOf(p), b: withBadge ? ba
     for (const c of chips) c.addEventListener('click', () => { state.cat = c.dataset.filter || 'all'; apply(); toHash(); });
     for (const t of tabs) t.addEventListener('click', () => { state.month = t.dataset.month || 'all'; apply(); toHash(); });
     fromHash();
-    if (state.cat !== 'all' || state.month !== 'all') apply();
+    if (state.cat !== 'all' || state.month !== 'all' || movedRows) apply();
+    // Rows that moved into "on now" leave their month: recount the tabs and
+    // chips, and drop a tab whose month has emptied.
+    if (movedRows) {
+      const items = [...root.querySelectorAll<HTMLElement>('[data-ev-group] [data-category]')];
+      const setN = (b: HTMLElement, v: number) => { const x = b.querySelector('.ev-chip-n'); if (x) x.textContent = String(v); };
+      for (const t of tabs) {
+        const m = t.dataset.month || 'all';
+        const v = items.filter((i) => m === 'all' || i.closest<HTMLElement>('[data-ev-group]')?.dataset.month === m).length;
+        setN(t, v);
+        if (m !== 'all') t.hidden = v === 0;
+      }
+      for (const c of chips) {
+        const f = c.dataset.filter || 'all';
+        const v = items.filter((i) => f === 'all' || i.dataset.category === f).length;
+        setN(c, v);
+        if (f !== 'all') c.hidden = v === 0;
+      }
+    }
     addEventListener('hashchange', () => {
       const before = state.cat + state.month;
       fromHash();
@@ -545,7 +583,7 @@ const row = (p: any, withBadge = true) => ({ p, cat: catOf(p), b: withBadge ? ba
   .ev-end-grid { display: grid; gap: 1rem; grid-template-columns: repeat(4, minmax(0, 1fr)); }
   /* The spares and whatever the script drops stay out even where a display
      rule below would win over the hidden attribute. */
-  .ev-end-card[hidden], .ev-now[hidden], .ev-fold[hidden], .ev-rows li[hidden] { display: none; }
+  .ev-end-card[hidden], .ev-now[hidden], .ev-fold[hidden], .ev-rows li[hidden], .ev-end-grid[hidden], .ev-tab[hidden], .ev-chip[hidden] { display: none; }
   .ev-end-card {
     display: flex; flex-direction: column; min-width: 0; overflow: hidden;
     border-radius: 22px; background: var(--surface); border: 1px solid var(--line-soft);

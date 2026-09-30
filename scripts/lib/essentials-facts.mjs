@@ -365,11 +365,15 @@ export function translationProblems(en, tr) {
   // A brand whose name is a number is a name: 7-Eleven is 세븐일레븐 in Korean.
   // "1.000" / "1 000" are Spanish and French ways of writing 1,000 — the same
   // number, not an added one (Spanish cards lost their budget lines to this).
-  const norm = (x) => String(x).replace(/(\d)[.   ](?=\d{3}(?!\d))/g, '$1').replace(/24\s*\/\s*7/g, '24').replace(/\b7[-‑]?(?:Eleven|11)\b|セブン-?イレブン|세븐일레븐|7-ELEVEN/gi, 'SEVENELEVEN');
+  // A space-grouped number ("023 724 891", "1 000") reads the same on both
+  // sides; a DOT is a thousands mark only in the translation — in the English
+  // source "1.250 km" is a decimal, and stripping it there let 1.25 km pass as
+  // 1,250 km (Codex review, 10-01).
+  const norm = (x, translated = false) => String(x).replace(translated ? /(\d)[.   ](?=\d{3}(?!\d))/g : /(\d)[   ](?=\d{3}(?!\d))/g, '$1').replace(/24\s*\/\s*7/g, '24').replace(/\b7[-‑]?(?:Eleven|11)\b|セブン-?イレブン|세븐일레븐|7-ELEVEN/gi, 'SEVENELEVEN');
   const walk = (a, b, path) => {
     if (typeof a === 'string') {
       a = norm(a);
-      if (typeof b === 'string') b = norm(b);
+      if (typeof b === 'string') b = norm(b, true);
       if (typeof b !== 'string' || (a && !b.trim())) { problems.push(`${path}: missing`); return; }
       // Whole-number tokens both ways (years included). Every English number
       // must survive, and the translation may ADD none — "up to 3 months" →

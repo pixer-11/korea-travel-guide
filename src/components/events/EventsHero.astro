@@ -68,7 +68,8 @@ const long = h1a.length > 14;
   const today = Date.UTC(n.getFullYear(), n.getMonth(), n.getDate()) / DAY;
   for (const panel of document.querySelectorAll<HTMLElement>('[data-ev-stats]')) {
     let now = 0, week = 0, end = 0;
-    for (const el of document.querySelectorAll<HTMLElement>('[data-ev-list] [data-start]')) {
+    // A spare card repeats a row of the "on now" list; count the row.
+    for (const el of document.querySelectorAll<HTMLElement>('[data-ev-list] [data-start]:not([data-spare])')) {
       const s = Date.parse(el.dataset.start || '') / DAY;
       const e = el.dataset.end ? Date.parse(el.dataset.end) / DAY : Infinity;
       if (!Number.isFinite(s)) continue;
