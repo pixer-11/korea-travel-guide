@@ -1,65 +1,531 @@
 ---
+import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { siteHref } from '../lib/urls.mjs';
+import Flag from './Flag.astro';
 import Emoji from './Emoji.astro';
-import EssentialsCountryIndex from './EssentialsCountryIndex.astro';
-import { useTranslations, localizePath, type Lang } from '../i18n/utils';
+import Newsletter from './Newsletter.astro';
+import { siteHref } from '../lib/urls.mjs';
+import { pickOgPhoto } from '../lib/ogPhoto.mjs';
+import { wikimediaThumb } from '../lib/wikimediaThumb.mjs';
+import { COUNTRY_TIME, hubRegion, type HubRegion } from '../lib/countryTime';
+import { bodyHash } from '../../scripts/lib/essentials-facts.mjs';
+import essentialsFacts from '../../data/essentials-facts.json';
+import countryPlugs from '../../data/country-plugs.json';
+import countriesData from '../../data/countries.json';
+import esimFacts from '../../data/esim-facts.json';
+import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
+import { localizePlace } from '../i18n/places';
+import { essHubStrings } from '../i18n/essentials-hub-strings';
 
-// Shared /essentials index for en + /[lang]/essentials.
+// Shared /essentials hub for en + /[lang]/essentials. Redesign 2026-09-30
+// after the owner's "필수정보 허브 개선안": a hero with a country finder, a
+// dark "30-second summary" panel per country, the six topics as cards with
+// the question each answers, countries by region, tools, an FAQ, the
+// newsletter.
+//
+// Everything country-shaped is generated from the essentials collection, so a
+// country appears here the day its guide is published. The summary cells come
+// from the same vetted cards the country page uses (data/essentials-facts.json,
+// only while the English guide is unchanged — the country page's own rule),
+// plus data/country-plugs.json and lib/countryTime for power and time. A cell
+// with no data is left out, never guessed.
 interface Props { lang: Lang }
-const { lang } = Astro.props;
+const { lang } = Astro.props as Props;
 const t = useTranslations(lang);
+const h = essHubStrings(lang);
+const locale = localeCodes[lang];
 
+const guides = await getCollection('essentials', ({ data }) => !data.draft);
+const byName = new Map(countriesData.countries.map((c) => [c.name, c]));
+const facts = (essentialsFacts as any).countries ?? {};
+const plugs = (countryPlugs as any).countries ?? {};
+const esim = new Set(Object.keys(esimFacts).filter((k) => !k.startsWith('_')));
+
+const KO_PLUG_OK = new Set(['C', 'E', 'F']);
+const rows = guides
+  .map((g) => {
+    const c: any = byName.get(g.data.country);
+    if (!c) return null;
+    const fe = facts[g.data.country];
+    const fresh = !!fe && fe.srcHash === bodyHash(String(g.body ?? ''));
+    const F: any = fresh ? (lang === 'en' ? fe.en : fe[lang]) : null;
+    const card = (key: string) => F?.summary?.find((s: any) => s.key === key) ?? null;
+    const nums = (F?.emergency?.numbers ?? []).slice(0, 2);
+    const pw = plugs[g.data.country];
+    const time = COUNTRY_TIME[String(c.iso2).toUpperCase()];
+    const cells = [
+      { key: 'entry', label: h('cellEntry'), tone: 'leaf', title: card('entry')?.title, sub: card('entry')?.sub },
+      { key: 'money', label: h('cellMoney'), title: card('money')?.title, sub: card('money')?.sub },
+      pw && {
+        key: 'plug', label: h('cellPlug'), title: h('plug', { v: pw.v, p: pw.plugs.join('·') }),
+        // Korean sockets take C and F plugs; a Korean reader is told whether
+        // those fit and whether 220 V-only kit needs a converter. Other
+        // readers' home plugs differ, so they get the facts alone.
+        sub: lang === 'ko'
+          ? [pw.plugs.every((p: string) => KO_PLUG_OK.has(p)) ? '한국 플러그 그대로 사용 가능'
+              : pw.plugs.some((p: string) => KO_PLUG_OK.has(p)) ? '꽂히는 곳이 많지만 어댑터 챙기기 권장'
+              : '한국 기기는 어댑터(돼지코) 필요',
+             Number(pw.v) < 200 ? '220V 전용 기기는 변압기 필요' : ''].filter(Boolean).join(' · ')
+          : `${pw.hz} Hz`,
+      },
+      nums.length && { key: 'emergency', label: h('cellEmergency'), tone: 'peach', title: nums.map((n: any) => n.number).join(' · '), sub: nums.map((n: any) => n.label).join(' · ') },
+      time && { key: 'time', label: h('cellTime'), tz: time.tz, multi: time.multi ? h('multi', { city: localizePlace(time.city, lang) }) : '' },
+      { key: 'transport', label: h('cellTransit'), title: card('transport')?.title, sub: card('transport')?.sub },
+    ].filter((x: any) => x && (x.title || x.tz));
+    return {
+      slug: g.id, name: g.data.country, iso2: c.iso2, priority: c.priority ?? 99, continent: c.continent,
+      label: localizePlace(g.data.country, lang), reviewed: g.data.lastReviewed as Date,
+      href: localizePath(`/essentials/${g.id}`, lang),
+      esim: esim.has(g.id) ? localizePath(`/tools/esim/${g.id}`, lang) : '',
+      cells,
+    };
+  })
+  .filter(Boolean)
+  .sort((a: any, b: any) => a.priority - b.priority || a.label.localeCompare(b.label)) as any[];
+
+const n = rows.length;
+// A Korean reader is not going to Korea: their jump list and default panel
+// skip it. Every other language keeps it (it is a destination for them).
+const destRows = lang === 'ko' ? rows.filter((r) => r.slug !== 'south-korea') : rows;
+const quick = destRows.slice(0, 5);
+const defaultSlug = (destRows.find((r) => r.cells.length >= 4) ?? destRows[0])?.slug;
+const latest = rows.reduce((m, r) => (r.reviewed > m ? r.reviewed : m), new Date(0));
+const latestLabel = latest.getTime() ? latest.toLocaleDateString(locale, { month: 'long', day: 'numeric' }) : '';
+
+const REGION_ORDER: HubRegion[] = ['asia', 'europe', 'meca', 'amoc'];
+const REGION_LABEL: Record<HubRegion, string> = { asia: h('rAsia'), europe: h('rEurope'), meca: h('rMeca'), amoc: h('rAmOc') };
+const collator = new Intl.Collator(locale);
+const regions = REGION_ORDER
+  .map((key) => ({ key, label: REGION_LABEL[key], list: rows.filter((r) => hubRegion(r.continent, r.iso2) === key).sort((a, b) => collator.compare(a.label, b.label)) }))
+  .filter((g) => g.list.length);
+
+// Hero photo: the best-rated real place photo among these countries' guides
+// (pickOgPhoto keeps the 1200px floor), shown with its credit.
+const names = new Set(rows.map((r) => r.name));
+const placePosts = (await getCollection('posts', ({ data }) => !data.draft && data.category !== 'event' && names.has(data.country ?? 'South Korea')))
+  .sort((a, b) => ((b.data.place?.rating ?? 0) * Math.log10((b.data.place?.userRatingsTotal ?? 0) + 10)) - ((a.data.place?.rating ?? 0) * Math.log10((a.data.place?.userRatingsTotal ?? 0) + 10)));
+const ogPhoto = pickOgPhoto(placePosts);
+const heroPost = ogPhoto ? placePosts.find((p) => p.data.heroImage?.url === ogPhoto) : null;
+const hero = heroPost?.data.heroImage ?? null;
+const heroSrc = hero ? wikimediaThumb(hero.url, 960) : null;
+const heroFocus = hero?.focus ? `${hero.focus.x ?? 50}% ${hero.focus.y ?? 50}%` : '50% 50%';
+
+const ICON: Record<string, string> = {
+  visa: 'M9 12.5l2 2 4-4M7 3h7l5 5v12a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1z',
+  transport: 'M9 4L3 6v14l6-2 6 2 6-2V4l-6 2-6-2zM9 4v14M15 6v14',
+  luggage: 'M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2M6 7h12a1 1 0 0 1 1 1v11a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V8a1 1 0 0 1 1-1zM9 7v13M15 7v13',
+  money: 'M4 7h14a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V7zm0 0l1.5-3H17M16 13.5h.01',
+  season: 'M7 3v3M17 3v3M4 9h16M5 5h14a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1z',
+  emergency: 'M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z',
+  entry: 'M9 12.5l2 2 4-4M7 3h7l5 5v12a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1z',
+  plug: 'M9 3v5M15 3v5M6 8h12v3a6 6 0 0 1-12 0V8zM12 17v4',
+  time: 'M12 7v5l3 2M12 21a9 9 0 1 0 0-18 9 9 0 0 0 0 18z',
+};
+// icon: the registry name (src/data/icons-line.json) the topic uses elsewhere;
+// scripts/essentials-topics-registered.test.mjs checks every topic has one.
 const topics = [
-  { href: '/essentials/visa', icon: 'passport-control', h: 'ess.visa', p: 'ess.visaDek' },
-  { href: '/essentials/transport', icon: 'metro', h: 'ess.transport', p: 'ess.transportDek' },
-  { href: '/essentials/luggage-storage', icon: 'luggage', h: 'ess.luggage', p: 'ess.luggageDek' },
-  { href: '/essentials/money', icon: 'credit-card', h: 'ess.money', p: 'ess.moneyDek' },
-  { href: '/essentials/best-time-to-visit', icon: 'cherry-blossom', h: 'ess.bestTime', p: 'ess.bestTimeDek' },
-  { href: '/essentials/emergency', icon: 'police-car-light', h: 'ess.emergency', p: 'ess.emergencyDek' },
-] as const;
+  { key: 'visa', icon: 'passport-control', href: '/essentials/visa', name: t('ess.visa'), dek: t('ess.visaDek'), q: h('qVisa'), tone: 'brown' },
+  { key: 'transport', icon: 'metro', href: '/essentials/transport', name: t('ess.transport'), dek: t('ess.transportDek'), q: h('qTransport') },
+  { key: 'luggage', icon: 'luggage', href: '/essentials/luggage-storage', name: t('ess.luggage'), dek: t('ess.luggageDek'), q: h('qLuggage') },
+  { key: 'money', icon: 'credit-card', href: '/essentials/money', name: t('ess.money'), dek: t('ess.moneyDek'), q: h('qMoney'), tone: 'forest' },
+  { key: 'season', icon: 'cherry-blossom', href: '/essentials/best-time-to-visit', name: t('ess.bestTime'), dek: t('ess.bestTimeDek'), q: h('qSeason') },
+  { key: 'emergency', icon: 'police-car-light', href: '/essentials/emergency', name: t('ess.emergency'), dek: t('ess.emergencyDek'), q: h('qEmergency'), tone: 'peach' },
+];
+const tools = [
+  { href: '/tools/whats-closed', name: h('tClosed'), dek: h('tClosedDek') },
+  { href: '/tools/when-to-go', name: h('tWhen'), dek: h('tWhenDek') },
+  { href: '/tools/esim', name: h('tEsim'), dek: h('tEsimDek') },
+  { href: '/free/trip-checklist', name: h('tChecklist'), dek: h('tChecklistDek') },
+];
+const faq = [1, 2, 3, 4, 5].map((i) => ({ q: h(`faq${i}q` as any), a: h(`faq${i}a` as any) }));
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const pageUrl = siteHref(Astro.url.pathname, Astro.site);
+const title = h('seoTitle');
+const description = h('dek');
 const jsonLd = {
   '@context': 'https://schema.org',
   '@graph': [
-    { '@type': 'CollectionPage', name: t('home.travelEssentials'), description: t('ess.indexDek'), url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
+    { '@type': 'CollectionPage', name: title, description, url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
     { '@type': 'BreadcrumbList', itemListElement: [
       { '@type': 'ListItem', position: 1, name: t('post.home'), item: siteHref(localizePath('/', lang), Astro.site) },
       { '@type': 'ListItem', position: 2, name: t('home.travelEssentials'), item: pageUrl },
     ] },
+    { '@type': 'ItemList', itemListElement: rows.map((r, i) => ({ '@type': 'ListItem', position: i + 1, url: siteHref(r.href, Astro.site), name: r.label })) },
+    { '@type': 'FAQPage', mainEntity: faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) },
   ],
 };
 ---
 
-<BaseLayout
-  title={`${t('home.travelEssentials')} — ${t('ess.visa')}, ${t('ess.transport')}, ${t('ess.money')}`}
-  description={t('ess.indexDek')}
-  jsonLd={jsonLd}
-  localized={true}
->
-  <div class="page-hero">
-    <div class="wrap">
-      <p class="eyebrow">{t('ess.label')}</p>
-      <h1>{t('home.travelEssentials')}</h1>
-      <p>{t('ess.indexDek')}</p>
-    </div>
-  </div>
+<BaseLayout title={title} description={description} jsonLd={jsonLd} localized={true} image={ogPhoto ?? undefined}>
+  <div class="exh" data-exh data-ahead={h('ahead')} data-behind={h('behind')} data-same={h('same')} data-now={h('timeNow')}>
+    <section class="exh-hero">
+      <div class="wrap exh-hero-grid">
+        <div>
+          <nav class="exh-crumbs" aria-label="breadcrumb"><a href={localizePath('/', lang)}>{t('post.home')}</a><span aria-hidden="true">·</span><span>{t('home.travelEssentials')}</span></nav>
+          <p class="exh-badge">{h('badge', { n })}</p>
+          <h1 class="exh-h1">{h('h1a')}<span>{h('h1b')}</span></h1>
+          <p class="exh-dek">{h('dek')}</p>
+          <div class="exh-search" data-exh-search>
+            <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M11 19a8 8 0 1 0 0-16 8 8 0 0 0 0 16zM21 21l-4.3-4.3"/></svg>
+            <input type="search" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="exh-suggest" aria-label={h('searchLabel')} placeholder={h('searchPh', { ex: quick.slice(0, 2).map((r) => r.label).join(', ') })} autocomplete="off" data-exh-q />
+            <ul class="exh-suggest" id="exh-suggest" data-exh-suggest hidden>
+              {rows.map((r) => (
+                <li><button type="button" data-exh-go={r.slug} data-search={`${r.label} ${r.name}${r.slug === 'south-korea' ? ' 한국 korea' : ''}`.toLowerCase()}><Flag code={r.iso2} size="1.1em" class="flag-ico" /> {r.label}</button></li>
+              ))}
+            </ul>
+          </div>
+          <p class="exh-quick"><span>{h('quick')}</span>{quick.map((r) => <button type="button" data-exh-pick={r.slug}>{r.label}</button>)}</p>
+        </div>
+        {heroSrc && (
+          <figure class="exh-photo">
+            <img src={heroSrc} alt="" width="960" height="1100" style={`object-position:${heroFocus}`} fetchpriority="high" />
+            {hero?.source && <a class="exh-credit" href={hero.source} rel="nofollow noopener" target="_blank" title={hero.credit ?? ''}>{t('ess.photoBy')}</a>}
+            {latestLabel && (
+              <figcaption class="exh-reviewed">
+                <span class="exh-check" aria-hidden="true">✓</span>
+                <span><strong>{h('reviewed', { date: latestLabel })}</strong><small>{h('reviewedSub')}</small></span>
+              </figcaption>
+            )}
+          </figure>
+        )}
+      </div>
+    </section>
 
-  <section class="section">
-    <div class="wrap">
-      <h2 class="sr-only">{t('a11y.list')}</h2>
-      <div class="essentials-strip">
-        {topics.map((topic) => (
-          <a class="essential-card" href={localizePath(topic.href, lang)}>
-            <span class="ico"><Emoji name={topic.icon} /></span>
-            <div><h3>{t(topic.h)}</h3><p>{t(topic.p)}</p></div>
+    <section class="section exh-summary-sec" id="summary">
+      <div class="wrap">
+        <div class="exh-summary">
+          <p class="exh-kicker">{h('panelKicker')}</p>
+          <div class="exh-tabs" role="tablist" aria-label={h('searchLabel')}>
+            {destRows.map((r) => (
+              <button type="button" role="tab" id={`exh-tab-${r.slug}`} aria-controls={`exh-panel-${r.slug}`} aria-selected={r.slug === defaultSlug ? 'true' : 'false'} tabindex={r.slug === defaultSlug ? 0 : -1} data-exh-tab={r.slug}>{r.label}</button>
+            ))}
+          </div>
+          {destRows.map((r) => (
+            <div class="exh-panel" role="tabpanel" id={`exh-panel-${r.slug}`} aria-labelledby={`exh-tab-${r.slug}`} data-exh-panel={r.slug} hidden={r.slug !== defaultSlug}>
+              <h2 class="exh-panel-title"><Flag code={r.iso2} size="0.9em" class="flag-ico" /> {h('panelTitle', { c: r.label })}</h2>
+              {r.cells.length > 0 && (
+                <div class="exh-cells">
+                  {r.cells.map((c: any) => (
+                    <div class:list={['exh-cell', c.tone && `exh-cell--${c.tone}`]} data-tz={c.tz}>
+                      <span class="exh-cell-ico" aria-hidden="true"><svg viewBox="0 0 24 24" width="18" height="18"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d={ICON[c.key] ?? ICON.entry} /></svg></span>
+                      <span class="exh-cell-body">
+                        <small>{c.label}</small>
+                        {c.tz
+                          ? (<><strong data-exh-diff>—</strong><span data-exh-now>{c.multi}</span></>)
+                          : (<><strong>{c.title}</strong>{c.sub && <span>{c.sub}</span>}</>)}
+                      </span>
+                    </div>
+                  ))}
+                </div>
+              )}
+              <p class="exh-disclaimer">{h('disclaimer')}</p>
+              <p class="exh-cta">
+                {r.esim && <a class="exh-btn exh-btn--ghost" href={r.esim}>{h('ctaEsim', { c: r.label })}</a>}
+                <a class="exh-btn" href={r.href}>{h('ctaAll', { c: r.label })}</a>
+              </p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="wrap">
+        <div class="exh-head"><h2 class="exh-h2">{h('topicsTitle')}</h2><span>{h('topicsSub', { n })}</span></div>
+        <div class="exh-topics">
+          {topics.map((tp) => (
+            <a class:list={['exh-topic', tp.tone && `exh-topic--${tp.tone}`]} href={localizePath(tp.href, lang)}>
+              <span class="exh-topic-top">
+                <span class="exh-topic-ico" aria-hidden="true"><Emoji name={tp.icon} size="1.35rem" /></span>
+                <span aria-hidden="true">→</span>
+              </span>
+              <strong>{tp.name}</strong>
+              <span class="exh-topic-dek">{tp.dek}</span>
+              <span class="exh-topic-q"><b>{h('answers')}</b> · {tp.q}</span>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="wrap">
+        <div class="exh-head"><h2 class="exh-h2">{h('countriesTitle')}</h2><span>{h('countriesSub', { n })}</span></div>
+        <div class="exh-regions">
+          {regions.map((g) => (
+            <div class:list={['exh-region', { 'exh-region--wide': g.list.length > 6 }]}>
+              <div class="exh-region-head"><h3>{g.label}</h3><span>{h('countN', { n: g.list.length })}</span></div>
+              <ul>
+                {g.list.map((r) => (
+                  <li><a href={r.href}><Flag code={r.iso2} size="1.05em" class="flag-ico" /> {r.label}</a></li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="section exh-tools-sec">
+      <div class="wrap exh-tools">
+        {tools.map((tl) => (
+          <a class="exh-tool" href={localizePath(tl.href, lang)}>
+            <small>{h('toolsKicker')}</small>
+            <strong>{tl.name}</strong>
+            <span>{tl.dek}</span>
           </a>
         ))}
       </div>
+    </section>
 
-      <EssentialsCountryIndex heading={t('ess.byCountry')} lang={lang} />
-    </div>
-  </section>
+    <section class="section">
+      <div class="wrap exh-faq-grid">
+        <div>
+          <h2 class="exh-h2">{h('faqTitle')}</h2>
+          <p class="exh-faq-dek">{h('faqDek')}</p>
+        </div>
+        <div class="exh-faq">
+          {faq.map((f, i) => (
+            <details open={i === 0}>
+              <summary>{f.q}<span aria-hidden="true"></span></summary>
+              <p>{f.a}</p>
+            </details>
+          ))}
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <Newsletter lang={lang} heading={h('nlHeading')} dek={h('nlDek')} />
 </BaseLayout>
+
+<script>
+  for (const root of document.querySelectorAll<HTMLElement>('[data-exh]')) {
+    const tabs = [...root.querySelectorAll<HTMLButtonElement>('[data-exh-tab]')];
+    const panels = [...root.querySelectorAll<HTMLElement>('[data-exh-panel]')];
+    const show = (slug: string, scroll = false) => {
+      if (!panels.some((p) => p.dataset.exhPanel === slug)) {
+        // Not in the summary (e.g. the reader's own country): go to its page.
+        const go = root.querySelector<HTMLButtonElement>(`[data-exh-go="${slug}"]`);
+        const href = root.querySelector<HTMLAnchorElement>(`.exh-region a[href$="/essentials/${slug}"]`)?.href;
+        if (go && href) location.href = href;
+        return;
+      }
+      for (const t of tabs) { const on = t.dataset.exhTab === slug; t.setAttribute('aria-selected', String(on)); t.tabIndex = on ? 0 : -1; }
+      for (const p of panels) p.hidden = p.dataset.exhPanel !== slug;
+      history.replaceState(null, '', `#c=${slug}`);
+      if (scroll) root.querySelector('#summary')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    };
+    for (const t of tabs) t.addEventListener('click', () => show(t.dataset.exhTab!));
+    root.querySelector('.exh-tabs')?.addEventListener('keydown', (ev: Event) => {
+      const e = ev as KeyboardEvent;
+      if (e.key !== 'ArrowRight' && e.key !== 'ArrowLeft') return;
+      const i = tabs.findIndex((t) => t.getAttribute('aria-selected') === 'true');
+      const next = tabs[(i + (e.key === 'ArrowRight' ? 1 : -1) + tabs.length) % tabs.length];
+      show(next.dataset.exhTab!); next.focus();
+    });
+    for (const b of root.querySelectorAll<HTMLButtonElement>('[data-exh-pick]')) b.addEventListener('click', () => show(b.dataset.exhPick!, true));
+
+    // Country finder: filter as you type, Enter takes the first match.
+    const q = root.querySelector<HTMLInputElement>('[data-exh-q]')!;
+    const list = root.querySelector<HTMLElement>('[data-exh-suggest]')!;
+    const opts = [...list.querySelectorAll<HTMLButtonElement>('[data-exh-go]')];
+    const filter = () => {
+      const v = q.value.trim().toLowerCase();
+      let shown = 0;
+      for (const o of opts) { const on = !v || o.dataset.search!.includes(v); o.parentElement!.hidden = !on; if (on) shown++; }
+      list.hidden = shown === 0 || (document.activeElement !== q && !list.contains(document.activeElement));
+      q.setAttribute('aria-expanded', String(!list.hidden));
+    };
+    const closeList = () => { list.hidden = true; q.setAttribute('aria-expanded', 'false'); };
+    // Tabbing out of the finder closes it (it used to stay open over the panel).
+    root.querySelector('[data-exh-search]')?.addEventListener('focusout', (e) => {
+      const next = (e as FocusEvent).relatedTarget as Node | null;
+      if (!next || !root.querySelector('[data-exh-search]')!.contains(next)) closeList();
+    });
+    q.addEventListener('input', filter);
+    q.addEventListener('focus', filter);
+    q.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') { e.preventDefault(); if (q.value.trim()) opts.find((o) => !o.parentElement!.hidden)?.click(); }
+      if (e.key === 'Escape') closeList();
+    });
+    document.addEventListener('click', (e) => { if (!(e.target as Element).closest('[data-exh-search]')) closeList(); });
+    for (const o of opts) o.addEventListener('click', () => { q.value = ''; closeList(); show(o.dataset.exhGo!, true); });
+
+    // A shared link (#c=japan) opens on that country, as does a hash change on
+    // this page (the back button, a pasted link).
+    const fromHash = () => {
+      const m = /(?:^|[#&])c=([a-z-]+)/.exec(location.hash);
+      if (m && panels.some((p) => p.dataset.exhPanel === m[1])) show(m[1]);
+    };
+    fromHash();
+    addEventListener('hashchange', fromHash);
+
+    // Time cells, against the reader's own clock (DST included by Intl).
+    const S = { ahead: root.dataset.ahead, behind: root.dataset.behind, same: root.dataset.same, now: root.dataset.now };
+    const offsetMin = (tz: string, at: Date) => {
+      const p = Object.fromEntries(new Intl.DateTimeFormat('en-US', { timeZone: tz, hourCycle: 'h23', year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' }).formatToParts(at).map((x) => [x.type, x.value]));
+      return (Date.UTC(+p.year, +p.month - 1, +p.day, +p.hour, +p.minute) - Date.UTC(at.getUTCFullYear(), at.getUTCMonth(), at.getUTCDate(), at.getUTCHours(), at.getUTCMinutes())) / 60000;
+    };
+    const tick = () => {
+      const now = new Date();
+      const mine = -now.getTimezoneOffset();
+      for (const cell of root.querySelectorAll<HTMLElement>('[data-tz]')) {
+        const tz = cell.dataset.tz!;
+        let there: number;
+        try { there = offsetMin(tz, now); } catch { continue; }
+        const d = (there - mine) / 60;
+        const hrs = Number.isInteger(d) ? String(Math.abs(d)) : Math.abs(d).toFixed(1);
+        const diff = cell.querySelector<HTMLElement>('[data-exh-diff]');
+        const nowEl = cell.querySelector<HTMLElement>('[data-exh-now]');
+        if (diff && S.ahead && S.behind && S.same) diff.textContent = d === 0 ? S.same : (d > 0 ? S.ahead : S.behind).replace('{h}', hrs);
+        if (nowEl && S.now) {
+          const clock = new Intl.DateTimeFormat(document.documentElement.lang || undefined, { timeZone: tz, hour: '2-digit', minute: '2-digit' }).format(now);
+          const multi = nowEl.dataset.multi ?? (nowEl.dataset.multi = nowEl.textContent || '');
+          nowEl.textContent = S.now.replace('{t}', clock) + (multi ? ` · ${multi}` : '');
+        }
+      }
+    };
+    tick();
+    setInterval(tick, 60_000);
+  }
+</script>
+
+<style>
+  .exh {
+    --x-forest: #3b4a2c; --x-night: #262d1b; --x-brown: #6b3413; --x-rust: #c8733f; --x-leaf: #e3ecd0; --x-peach: #fde3d4;
+    --x-sand: #f3e8d8; --x-card: #fbf7ef; --x-on-dark: #f6f1e6; --x-cell: #3c4a2e;
+  }
+  @media (prefers-color-scheme: dark) { :global(:root:not([data-theme='light'])) .exh { --x-leaf: #33422a; --x-peach: #3a2620; --x-sand: #2c261d; --x-card: #221f19; } }
+  :global(:root[data-theme='dark']) .exh { --x-leaf: #33422a; --x-peach: #3a2620; --x-sand: #2c261d; --x-card: #221f19; }
+
+  /* Hero */
+  .exh-hero { padding: 2.2rem 0 1.2rem; }
+  .exh-hero-grid { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, .85fr); gap: 2.4rem; align-items: center; }
+  .exh-crumbs { display: flex; gap: .5rem; font-size: .85rem; color: var(--muted); margin-bottom: .9rem; }
+  .exh-crumbs a { color: inherit; text-decoration: none; }
+  .exh-crumbs span:last-child { color: var(--ink); font-weight: 700; }
+  .exh-badge { display: inline-block; margin: 0 0 .9rem; padding: .25rem .75rem; border-radius: var(--r-pill); background: var(--x-leaf); color: var(--pine); font-size: .82rem; font-weight: 700; }
+  .exh-h1 { font-family: var(--font-display); font-size: clamp(2.1rem, 5.4vw, 3.4rem); line-height: 1.12; letter-spacing: -0.02em; margin: 0 0 1rem; color: var(--ink); word-break: keep-all; }
+  .exh-h1 span { display: block; color: var(--x-brown); }
+  :global(:root[data-theme='dark']) .exh-h1 span { color: #e8a577; }
+  @media (prefers-color-scheme: dark) { :global(:root:not([data-theme='light'])) .exh-h1 span { color: #e8a577; } }
+  .exh-dek { color: var(--ink-soft); font-size: 1.05rem; line-height: 1.7; margin: 0 0 1.3rem; max-width: 34rem; }
+  .exh-search { position: relative; display: flex; align-items: center; gap: .6rem; max-width: 30rem; padding: .85rem 1.2rem; border-radius: var(--r-pill); background: var(--surface); border: 1px solid var(--line); color: var(--muted); }
+  .exh-search:focus-within { border-color: var(--accent); box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 18%, transparent); }
+  .exh-search input { flex: 1; min-width: 0; border: 0; background: none; font: inherit; font-size: 1rem; color: var(--ink); outline: none; }
+  .exh-suggest { position: absolute; left: 0; right: 0; top: calc(100% + .4rem); z-index: 20; list-style: none; margin: 0; padding: .5rem; max-height: 18rem; overflow-y: auto;
+    display: grid; grid-template-columns: 1fr 1fr; gap: .3rem; background: var(--surface); border: 1px solid var(--line); border-radius: 18px; box-shadow: 0 18px 40px rgba(20, 16, 8, .18); }
+  .exh-suggest[hidden] { display: none; }
+  .exh-suggest button { width: 100%; display: flex; align-items: center; gap: .45rem; padding: .5rem .7rem; border: 0; border-radius: 12px; background: var(--x-sand); color: var(--ink); font: inherit; font-size: .92rem; font-weight: 600; text-align: left; cursor: pointer; }
+  .exh-suggest button:hover { background: var(--x-leaf); }
+  .exh-quick { display: flex; flex-wrap: wrap; align-items: center; gap: .4rem; margin: .9rem 0 0; font-size: .85rem; color: var(--muted); }
+  .exh-quick span { margin-right: .2rem; }
+  .exh-quick button { font: inherit; font-size: .85rem; font-weight: 700; padding: .35rem .8rem; border-radius: var(--r-pill); border: 0; background: var(--x-sand); color: var(--ink); cursor: pointer; }
+  .exh-quick button:hover { background: var(--x-leaf); }
+  .exh-photo { position: relative; margin: 0; border-radius: 220px 220px 28px 28px; overflow: hidden; aspect-ratio: 4 / 4.6; background: var(--x-sand); }
+  .exh-photo img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .exh-credit { position: absolute; top: 1rem; right: 1.2rem; font-size: .7rem; padding: .15rem .5rem; border-radius: var(--r-pill); background: rgba(0, 0, 0, .45); color: #fff; text-decoration: none; }
+  .exh-reviewed { position: absolute; left: 1.2rem; right: 1.2rem; bottom: 1.2rem; display: flex; align-items: center; gap: .8rem; padding: .9rem 1.1rem; border-radius: 20px; background: var(--surface); box-shadow: 0 10px 30px rgba(0, 0, 0, .18); }
+  .exh-check { flex: none; display: grid; place-items: center; width: 2.4rem; height: 2.4rem; border-radius: 50%; background: var(--x-leaf); color: var(--pine); font-weight: 800; }
+  .exh-reviewed strong { display: block; font-size: .92rem; color: var(--ink); }
+  .exh-reviewed small { display: block; font-size: .8rem; color: var(--muted); line-height: 1.4; margin-top: .1rem; }
+  @media (max-width: 859px) { .exh-hero-grid { grid-template-columns: 1fr; } .exh-photo { aspect-ratio: 16 / 11; border-radius: 28px; } }
+
+  /* Summary panel */
+  .exh-summary { background: var(--x-night); color: var(--x-on-dark); border-radius: 30px; padding: 1.8rem 1.8rem 1.6rem; }
+  .exh-kicker { margin: 0 0 .5rem; font-size: .82rem; font-weight: 700; opacity: .85; }
+  .exh-tabs { display: flex; flex-wrap: wrap; gap: .4rem; margin-bottom: 1.3rem; }
+  .exh-tabs button { font: inherit; font-size: .88rem; font-weight: 700; padding: .4rem .95rem; border-radius: var(--r-pill); border: 1px solid rgba(255, 255, 255, .28); background: transparent; color: var(--x-on-dark); cursor: pointer; }
+  .exh-tabs button:hover { border-color: rgba(255, 255, 255, .6); }
+  .exh-tabs button[aria-selected='true'] { background: #e3ecd0; border-color: #e3ecd0; color: #262d1b; }
+  .exh-panel-title { font-family: var(--font-display); font-size: clamp(1.5rem, 3.6vw, 2rem); margin: 0 0 1rem; color: #fff; display: flex; align-items: center; gap: .5rem; }
+  .exh-cells { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .8rem; }
+  .exh-cell { display: flex; gap: .8rem; align-items: flex-start; padding: 1.1rem 1.1rem; border-radius: 22px; background: var(--x-cell); min-width: 0; }
+  .exh-cell-ico { flex: none; display: grid; place-items: center; width: 2.4rem; height: 2.4rem; border-radius: 50%; background: rgba(255, 255, 255, .1); }
+  .exh-cell-body { display: flex; flex-direction: column; gap: .2rem; min-width: 0; }
+  .exh-cell-body small { font-size: .78rem; font-weight: 700; opacity: .8; }
+  .exh-cell-body strong { font-size: 1.1rem; line-height: 1.3; color: #fff; overflow-wrap: anywhere; }
+  .exh-cell-body span { font-size: .85rem; line-height: 1.5; opacity: .85; overflow-wrap: anywhere; }
+  .exh-cell--leaf { background: #e3ecd0; color: #262d1b; }
+  .exh-cell--peach { background: #fde3d4; color: #3a2016; }
+  .exh-cell--leaf strong, .exh-cell--peach strong { color: #1f2415; }
+  .exh-cell--leaf .exh-cell-ico, .exh-cell--peach .exh-cell-ico { background: rgba(255, 255, 255, .7); }
+  .exh-disclaimer { margin: 1.3rem 0 0; padding-top: 1rem; border-top: 1px solid rgba(255, 255, 255, .14); font-size: .85rem; opacity: .8; }
+  .exh-cta { display: flex; flex-wrap: wrap; gap: .6rem; margin: 1rem 0 0; }
+  .exh-btn { padding: .65rem 1.2rem; border-radius: var(--r-pill); background: var(--x-rust); color: #fff; font-weight: 700; text-decoration: none; }
+  .exh-btn--ghost { background: transparent; border: 1px solid rgba(255, 255, 255, .35); color: var(--x-on-dark); }
+  .exh-btn:hover { filter: brightness(1.08); }
+  @media (max-width: 859px) { .exh-cells { grid-template-columns: 1fr 1fr; } }
+  @media (max-width: 559px) {
+    .exh-summary { padding: 1.3rem 1.1rem; border-radius: 24px; }
+    .exh-tabs { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; margin-inline: -1.1rem; padding-inline: 1.1rem; }
+    .exh-tabs button { flex: 0 0 auto; }
+    .exh-cells { grid-template-columns: 1fr; }
+  }
+
+  /* Section heads */
+  .exh-head { display: flex; align-items: baseline; justify-content: space-between; gap: .4rem 1rem; flex-wrap: wrap; margin-bottom: 1.1rem; }
+  .exh-head span { color: var(--muted); font-size: .88rem; }
+  .exh-h2 { font-family: var(--font-display); font-size: clamp(1.5rem, 3.6vw, 2rem); letter-spacing: -0.01em; margin: 0; color: var(--ink); }
+
+  /* Topics */
+  .exh-topics { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; }
+  .exh-topic { display: flex; flex-direction: column; gap: .6rem; padding: 1.4rem 1.4rem 1.5rem; border-radius: 26px; background: var(--x-card); border: 1px solid var(--line-soft); color: var(--ink); text-decoration: none; transition: transform .15s ease; }
+  .exh-topic:hover { transform: translateY(-3px); }
+  .exh-topic-top { display: flex; justify-content: space-between; align-items: flex-start; color: var(--muted); }
+  .exh-topic-ico { display: grid; place-items: center; width: 2.8rem; height: 2.8rem; border-radius: 50%; background: var(--x-sand); color: var(--x-brown); }
+  .exh-topic strong { font-family: var(--font-display); font-size: 1.35rem; }
+  .exh-topic-dek { font-size: .92rem; line-height: 1.6; color: var(--ink-soft); }
+  .exh-topic-q { margin-top: auto; font-size: .85rem; line-height: 1.5; color: var(--ink-soft); }
+  .exh-topic-q b { font-weight: 800; }
+  .exh-topic--brown { background: var(--x-brown); border-color: transparent; color: var(--x-on-dark); }
+  .exh-topic--forest { background: var(--x-forest); border-color: transparent; color: var(--x-on-dark); }
+  .exh-topic--peach { background: var(--x-peach); border-color: transparent; }
+  .exh-topic--brown .exh-topic-dek, .exh-topic--brown .exh-topic-q, .exh-topic--brown .exh-topic-top,
+  .exh-topic--forest .exh-topic-dek, .exh-topic--forest .exh-topic-q, .exh-topic--forest .exh-topic-top { color: rgba(246, 241, 230, .85); }
+  .exh-topic--brown .exh-topic-ico, .exh-topic--forest .exh-topic-ico { background: rgba(255, 255, 255, .15); color: #fff; }
+  .exh-topic--peach .exh-topic-ico { background: rgba(255, 255, 255, .6); }
+  @media (max-width: 859px) { .exh-topics { grid-template-columns: 1fr 1fr; } }
+  @media (max-width: 559px) { .exh-topics { grid-template-columns: 1fr; } }
+
+  /* Regions */
+  .exh-regions { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 1rem; align-items: start; }
+  /* The biggest region (Asia, 13 of 21) takes two columns and lists in two, so
+     it does not run three times the height of the others. */
+  .exh-region--wide { grid-column: span 2; }
+  .exh-region--wide ul { grid-template-columns: 1fr 1fr; }
+  .exh-region { background: var(--x-card); border: 1px solid var(--line-soft); border-radius: 26px; padding: 1.3rem; }
+  .exh-region-head { display: flex; justify-content: space-between; align-items: baseline; gap: .5rem; margin-bottom: .9rem; }
+  .exh-region h3 { font-family: var(--font-display); font-size: 1.15rem; margin: 0; }
+  .exh-region-head span { font-size: .8rem; color: var(--muted); white-space: nowrap; }
+  .exh-region ul { list-style: none; margin: 0; padding: 0; display: grid; gap: .4rem; }
+  .exh-region a { display: flex; align-items: center; gap: .5rem; padding: .5rem .8rem; border-radius: var(--r-pill); background: var(--x-sand); color: var(--ink); font-weight: 700; font-size: .92rem; text-decoration: none; }
+  .exh-region a:hover { background: var(--x-leaf); }
+  @media (max-width: 959px) { .exh-regions { grid-template-columns: 1fr 1fr; } }
+  @media (max-width: 559px) { .exh-regions { grid-template-columns: 1fr; } .exh-region--wide { grid-column: auto; } }
+
+  /* Tools */
+  .exh-tools { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1rem; }
+  .exh-tool { display: flex; flex-direction: column; gap: .3rem; padding: 1.2rem 1.3rem; border-radius: 24px; background: var(--x-peach); color: var(--ink); text-decoration: none; }
+  .exh-tool small { font-size: .78rem; font-weight: 700; color: var(--ink-soft); }
+  .exh-tool strong { font-size: 1.05rem; }
+  .exh-tool span { font-size: .88rem; color: var(--ink-soft); line-height: 1.5; }
+  .exh-tool:hover strong { color: var(--accent-text); }
+  @media (max-width: 859px) { .exh-tools { grid-template-columns: 1fr 1fr; } }
+
+  /* FAQ */
+  .exh-faq-grid { display: grid; grid-template-columns: minmax(0, .8fr) minmax(0, 1.2fr); gap: 2rem; align-items: start; }
+  .exh-faq-dek { color: var(--ink-soft); line-height: 1.7; margin: .6rem 0 0; }
+  .exh-faq { display: grid; gap: .6rem; }
+  .exh-faq details { background: var(--x-card); border: 1px solid var(--line-soft); border-radius: 22px; padding: 0 1.3rem; }
+  .exh-faq summary { list-style: none; cursor: pointer; display: flex; justify-content: space-between; align-items: center; gap: 1rem; padding: 1.1rem 0; font-weight: 700; color: var(--ink); }
+  .exh-faq summary::-webkit-details-marker { display: none; }
+  .exh-faq summary span { flex: none; width: 1.9rem; height: 1.9rem; border-radius: 50%; background: var(--x-sand); display: grid; place-items: center; }
+  .exh-faq summary span::before { content: '+'; font-weight: 800; color: var(--x-brown); }
+  .exh-faq details[open] summary span { background: var(--x-brown); }
+  .exh-faq details[open] summary span::before { content: '−'; color: #fff; }
+  .exh-faq details p { margin: 0 0 1.2rem; line-height: 1.75; color: var(--ink-soft); }
+  @media (max-width: 859px) { .exh-faq-grid { grid-template-columns: 1fr; gap: 1rem; } }
+</style>

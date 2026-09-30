@@ -1,0 +1,27 @@
+{
+  "_comment": "Mains voltage and socket types (IEC letters) per country, for the essentials hub's power cell. Keyed by the country name in data/countries.json. Checked 2026-09-30 against tourism boards / official pages where they state it (src); IEC retired its per-country guide, so worldstandards.eu is the fallback reference where no official page gives plug letters. Tourism boards often print the old '220V' for the 230 V European standard; the standard value is kept. China keeps C: GB 1002-2021 dropped it, but Beijing's tourism board still tells visitors round two-pin plugs work in many sockets. A country missing here shows no power cell.",
+  "countries": {
+    "South Korea": { "v": "220", "hz": "60", "plugs": ["C", "F"], "src": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140041" },
+    "Japan": { "v": "100", "hz": "50/60", "plugs": ["A", "B"], "src": "https://www.japan.travel/en/plan/plug-and-electricity/" },
+    "United States": { "v": "120", "hz": "60", "plugs": ["A", "B"], "src": "https://www.energy.gov/oe/electricity-101" },
+    "Thailand": { "v": "230", "hz": "50", "plugs": ["A", "B", "C", "O"], "src": "https://www.tourismthailand.org/Articles/plan-your-trip-electricity" },
+    "France": { "v": "230", "hz": "50", "plugs": ["C", "E"], "src": "https://www.france.fr/en/article/what-are-electricity-requirements-france/" },
+    "Italy": { "v": "230", "hz": "50", "plugs": ["C", "F", "L"], "src": "https://www.italia.it/en/italy/practical-information" },
+    "China": { "v": "220", "hz": "50", "plugs": ["A", "C", "I"], "src": "https://english.visitbeijing.com.cn/article/4JQ2QuGYk78" },
+    "Spain": { "v": "230", "hz": "50", "plugs": ["C", "F"], "src": "https://www.spain.info/en/travel-tips/plugs-electricity/" },
+    "Vietnam": { "v": "220", "hz": "50", "plugs": ["A", "B", "C"], "src": "https://vietnam.travel/plan-your-trip" },
+    "United Arab Emirates": { "v": "230", "hz": "50", "plugs": ["G"], "src": "https://www.visitdubai.com/" },
+    "Taiwan": { "v": "110", "hz": "60", "plugs": ["A", "B"], "src": "https://eng.taiwan.net.tw/m1.aspx?sNo=0002064" },
+    "Indonesia": { "v": "230", "hz": "50", "plugs": ["C", "F"], "src": "https://www.indonesia.travel/us/en/general-information/plugs-electricity" },
+    "Malaysia": { "v": "240", "hz": "50", "plugs": ["G"], "src": "https://www.malaysia.travel/about-malaysia/travel-guide" },
+    "India": { "v": "230", "hz": "50", "plugs": ["C", "D", "M"], "src": "https://en.wikipedia.org/wiki/Mains_electricity_by_country" },
+    "Philippines": { "v": "220", "hz": "60", "plugs": ["A", "B", "C"], "src": "https://tourism.gov.ph/explore/reminders/" },
+    "Turkey": { "v": "230", "hz": "50", "plugs": ["C", "F"], "src": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/" },
+    "Singapore": { "v": "230", "hz": "50", "plugs": ["G"], "src": "https://www.visitsingapore.com/travel-tips/essential-travel-information/" },
+    "Hong Kong": { "v": "220", "hz": "50", "plugs": ["G"], "src": "https://www.discoverhongkong.com/eng/travel-guide/traveller-essentials.html" },
+    "Uzbekistan": { "v": "220", "hz": "50", "plugs": ["C", "F"], "src": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/uzbekistan/" },
+    "Cambodia": { "v": "220", "hz": "50", "plugs": ["A", "C", "G"], "src": "https://www.tourismcambodia.com/destinations/cambodia-facts.htm" },
+    "Australia": { "v": "230", "hz": "50", "plugs": ["I"], "src": "https://www.australia.com/en-my/facts-and-planning/about-australia/useful-tips.html" },
+    "United Kingdom": { "v": "230", "hz": "50", "plugs": ["G"], "src": "https://www.visitbritain.com/en/plan-your-trip/useful-information" }
+  }
+}
