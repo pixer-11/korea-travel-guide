@@ -1,7 +1,14 @@
 ---
+import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Newsletter from './Newsletter.astro';
+import Flag from './Flag.astro';
+import { countryLinksOf } from '../lib/eventHub';
+import { whenToGoCountryPages } from '../lib/when-to-go-paths.mjs';
+import countriesData from '../../data/countries.json';
+import esimFacts from '../../data/esim-facts.json';
 import { localizePath, localeCodes, type Lang } from '../i18n/utils';
+import { localizePlace } from '../i18n/places';
 
 // Shared trip-planning checklist lead magnet for /free/trip-checklist (en) +
 // /[lang]/free/trip-checklist. Redesign 2026-09-30 after the owner's
@@ -129,7 +136,100 @@ const T: Record<Lang, {
   },
 };
 const L = T[lang];
-const clientData = JSON.stringify({ by: L.by, byBlank: L.byBlank, locale: localeCodes[lang] });
+
+// ── Pickers, how-to and the country shortcuts (2026-09-30, owner: "the date
+// and destination change nothing I can see — say how to use it") ──
+const U: Record<Lang, Record<string, string>> = {
+  en: {
+    pickDate: 'Pick a date', pickDest: 'Pick a destination', clear: 'Clear', today: 'Today', prev: 'Previous month', next: 'Next month',
+    search: 'Search or type a place', typeOwn: 'Use “{q}”', countdown: '{n} days to go', countdownToday: 'Departure day!', countdownPast: 'Departed',
+    how1: 'Pick your departure date: each stage gets its deadline, and the countdown starts.',
+    how2: 'Pick where you are going: visa, money, eSIM, weather and emergency items link to that country.',
+    how3: 'Ticks stay on this device only. Print it and it comes out as two A4 pages.',
+    howTitle: 'How to use it', forTrip: 'Shortcuts for {c}',
+    visa: '{c} visa & entry', flights: 'Compare flights', esim: '{c} eSIM', money: '{c} money & cards', weather: '{c} weather by month', transport: '{c} getting around', emergency: '{c} emergency numbers',
+    sEss: '{c} essentials', sEvents: 'Events in {c}', sClosed: 'What’s closed on my dates', sEsim: '{c} eSIM guide', sWeather: 'When to go to {c}',
+  },
+  ko: {
+    pickDate: '날짜 선택', pickDest: '여행지 선택', clear: '지우기', today: '오늘', prev: '이전 달', next: '다음 달',
+    search: '나라 검색 또는 직접 입력', typeOwn: '“{q}” 직접 입력', countdown: '출발까지 D-{n}', countdownToday: '오늘 출발!', countdownPast: '출발했어요',
+    how1: '출발일을 고르면 단계마다 마감일이 채워지고 출발까지 남은 날이 보여요.',
+    how2: '여행지를 고르면 비자·환전·eSIM·날씨·응급번호 항목에 그 나라 정보 바로가기가 붙어요.',
+    how3: '체크한 항목은 이 기기에만 저장돼요. 인쇄하면 A4 두 장으로 나와요.',
+    howTitle: '이렇게 쓰세요', forTrip: '{c} 여행 바로가기',
+    visa: '{c} 비자·입국', flights: '항공권 비교', esim: '{c} eSIM', money: '{c} 돈·카드', weather: '{c} 월별 날씨', transport: '{c} 교통', emergency: '{c} 응급 번호',
+    sEss: '{c} 여행 필수정보', sEvents: '{c} 이벤트 일정', sClosed: '내 날짜에 뭐가 닫나', sEsim: '{c} eSIM 가이드', sWeather: '{c} 언제 갈까',
+  },
+  ja: {
+    pickDate: '日付を選ぶ', pickDest: '行き先を選ぶ', clear: '消す', today: '今日', prev: '前の月', next: '次の月',
+    search: '国を検索、または直接入力', typeOwn: '「{q}」で入力', countdown: '出発まであと{n}日', countdownToday: '今日出発！', countdownPast: '出発済み',
+    how1: '出発日を選ぶと、段階ごとの期限と出発までの日数が表示されます。',
+    how2: '行き先を選ぶと、ビザ・お金・eSIM・天気・緊急番号の項目にその国の情報へのリンクが付きます。',
+    how3: 'チェックはこの端末だけに保存されます。印刷するとA4 2枚になります。',
+    howTitle: '使い方', forTrip: '{c}旅行のショートカット',
+    visa: '{c}のビザ・入国', flights: '航空券を比較', esim: '{c}のeSIM', money: '{c}のお金・カード', weather: '{c}の月別の天気', transport: '{c}の交通', emergency: '{c}の緊急番号',
+    sEss: '{c}の旅行基本情報', sEvents: '{c}のイベント', sClosed: '旅の日付に閉まるもの', sEsim: '{c}のeSIMガイド', sWeather: '{c}はいつ行く？',
+  },
+  es: {
+    pickDate: 'Elige una fecha', pickDest: 'Elige un destino', clear: 'Borrar', today: 'Hoy', prev: 'Mes anterior', next: 'Mes siguiente',
+    search: 'Busca un país o escribe un lugar', typeOwn: 'Usar «{q}»', countdown: 'Faltan {n} días', countdownToday: '¡Hoy sales!', countdownPast: 'Ya saliste',
+    how1: 'Elige tu fecha de salida: cada etapa tendrá su plazo y empezará la cuenta atrás.',
+    how2: 'Elige tu destino: visado, dinero, eSIM, clima y emergencias enlazarán a ese país.',
+    how3: 'Las marcas se guardan solo en este dispositivo. Al imprimir salen dos páginas A4.',
+    howTitle: 'Cómo usarla', forTrip: 'Accesos para {c}',
+    visa: 'Visado y entrada en {c}', flights: 'Comparar vuelos', esim: 'eSIM para {c}', money: 'Dinero y tarjetas en {c}', weather: 'Clima de {c} por meses', transport: 'Transporte en {c}', emergency: 'Emergencias en {c}',
+    sEss: 'Lo esencial de {c}', sEvents: 'Eventos en {c}', sClosed: 'Qué cierra en mis fechas', sEsim: 'Guía de eSIM para {c}', sWeather: 'Cuándo ir a {c}',
+  },
+  zh: {
+    pickDate: '选择日期', pickDest: '选择目的地', clear: '清除', today: '今天', prev: '上个月', next: '下个月',
+    search: '搜索国家或直接输入', typeOwn: '使用“{q}”', countdown: '距出发还有 {n} 天', countdownToday: '今天出发！', countdownPast: '已出发',
+    how1: '选好出发日期，每个阶段的截止日和出发倒计时就会出现。',
+    how2: '选好目的地，签证、钱、eSIM、天气和紧急电话等项目会链接到该国的信息。',
+    how3: '勾选只保存在这台设备上。打印出来是两页 A4。',
+    howTitle: '使用方法', forTrip: '{c}旅行快捷入口',
+    visa: '{c}签证与入境', flights: '比较机票', esim: '{c} eSIM', money: '{c}钱与银行卡', weather: '{c}每月天气', transport: '{c}交通', emergency: '{c}紧急电话',
+    sEss: '{c}旅行须知', sEvents: '{c}活动日程', sClosed: '我的日期哪里关门', sEsim: '{c} eSIM 指南', sWeather: '{c}什么时候去',
+  },
+};
+const u = U[lang];
+
+// Which items get a country link, by stage-item index (the same five lists
+// in every language). Only where the site has the page: essentials for all
+// 21 active countries, eSIM and when-to-go where they exist.
+const LINK_KEYS: Record<string, string> = { '0-1': 'visa', '0-2': 'flights', '2-0': 'esim', '2-1': 'money', '2-2': 'weather', '4-1': 'transport', '4-3': 'emergency' };
+
+const essentials = (await getCollection('essentials', ({ data }) => !data.draft));
+const countryBy = new Map(countriesData.countries.map((c) => [c.slug, c]));
+const eventCountries = new Set(countryLinksOf(
+  await getCollection('posts', ({ data }) => !data.draft && data.category === 'event'), [], countriesData.countries,
+).map((c) => c.slug));
+const wtgSlugs = new Set((await whenToGoCountryPages()).map((x) => x.countrySlug));
+const esimSlugs = new Set(Object.keys(esimFacts).filter((k) => !k.startsWith('_')));
+const collator = new Intl.Collator(localeCodes[lang]);
+const destCountries = essentials
+  .map((x) => countryBy.get(x.id))
+  .filter(Boolean)
+  .map((c: any) => {
+    const ess = localizePath(`/essentials/${c.slug}`, lang);
+    return {
+      slug: c.slug, name: c.name, iso2: c.iso2, label: localizePlace(c.name, lang),
+      links: {
+        ess,
+        visa: `${ess}#ess-visa`, money: `${ess}#ess-money`, transport: `${ess}#ess-transport`, emergency: `${ess}#ess-emergency`,
+        flights: localizePath('/flights', lang),
+        esim: esimSlugs.has(c.slug) ? localizePath(`/tools/esim/${c.slug}`, lang) : '',
+        weather: wtgSlugs.has(c.slug) ? localizePath(`/tools/when-to-go/${c.slug}`, lang) : '',
+        events: eventCountries.has(c.slug) ? localizePath(`/events/${c.slug}`, lang) : '',
+        closed: localizePath('/tools/whats-closed', lang),
+      },
+    };
+  })
+  .sort((a, b) => collator.compare(a.label, b.label));
+
+const clientData = JSON.stringify({
+  by: L.by, byBlank: L.byBlank, locale: localeCodes[lang], u,
+  countries: destCountries.map(({ slug, name, label, links }) => ({ slug, name, label, links })),
+}).replace(/</g, '\\u003c');
 ---
 
 <BaseLayout title={L.metaTitle} description={L.metaDesc} localized={true}>
@@ -146,19 +246,61 @@ const clientData = JSON.stringify({ by: L.by, byBlank: L.byBlank, locale: locale
           </p>
         </div>
         <div class="ck-trip">
-          <label class="ck-field">
-            <span>{L.depart}</span>
-            <input type="date" data-ck-depart autocomplete="off" />
-          </label>
-          <label class="ck-field">
-            <span>{L.dest}</span>
-            <input type="text" data-ck-dest placeholder={L.destPh} maxlength="60" autocomplete="off" />
-          </label>
+          <div class="ck-field">
+            <span class="ck-label" id="ck-depart-label">{L.depart}</span>
+            <button type="button" class="ck-pick" data-ck-open="date" aria-haspopup="dialog" aria-expanded="false" aria-labelledby="ck-depart-label ck-depart-val">
+              <span id="ck-depart-val" data-ck-date-text data-empty={u.pickDate}>{u.pickDate}</span>
+              <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M7 3v3M17 3v3M4 9h16M5 5h14a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1z"/></svg>
+            </button>
+            <div class="ck-pop ck-cal" data-ck-pop="date" role="dialog" aria-label={L.depart} hidden>
+              <div class="ck-cal-head">
+                <button type="button" class="ck-cal-nav" data-ck-month="-1" aria-label={u.prev}>‹</button>
+                <strong data-ck-cal-title></strong>
+                <button type="button" class="ck-cal-nav" data-ck-month="1" aria-label={u.next}>›</button>
+              </div>
+              <div class="ck-cal-grid" data-ck-cal-grid role="grid"></div>
+              <div class="ck-cal-foot">
+                <button type="button" data-ck-cal-clear>{u.clear}</button>
+                <button type="button" data-ck-cal-today>{u.today}</button>
+              </div>
+            </div>
+          </div>
+          <div class="ck-field">
+            <span class="ck-label" id="ck-dest-label">{L.dest}</span>
+            <button type="button" class="ck-pick" data-ck-open="dest" aria-haspopup="dialog" aria-expanded="false" aria-labelledby="ck-dest-label ck-dest-val">
+              <span id="ck-dest-val" data-ck-dest-text data-empty={u.pickDest}>{u.pickDest}</span>
+              <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M12 21s-7-6.1-7-11.5A7 7 0 0 1 19 9.5C19 14.9 12 21 12 21zM12 12a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z"/></svg>
+            </button>
+            <div class="ck-pop ck-dest" data-ck-pop="dest" role="dialog" aria-label={L.dest} hidden>
+              <input type="search" class="ck-dest-search" data-ck-dest-search placeholder={u.search} maxlength="40" autocomplete="off" />
+              <button type="button" class="ck-dest-own" data-ck-dest-own hidden></button>
+              <ul class="ck-dest-list" role="listbox">
+                {destCountries.map((c) => (
+                  <li><button type="button" role="option" data-ck-country={c.slug} data-search={`${c.label} ${c.name}`.toLowerCase()}><Flag code={c.iso2} size="1.1em" class="flag-ico" /> {c.label}</button></li>
+                ))}
+              </ul>
+            </div>
+          </div>
+          <p class="ck-countdown" data-ck-countdown hidden></p>
         </div>
       </header>
 
+      <section class="ck-how no-print" aria-label={u.howTitle}>
+        <strong>{u.howTitle}</strong>
+        <ol>
+          <li data-ck-how="date"><span>1</span>{u.how1}</li>
+          <li data-ck-how="dest"><span>2</span>{u.how2}</li>
+          <li><span>3</span>{u.how3}</li>
+        </ol>
+      </section>
+
+      <section class="ck-shortcuts no-print" data-ck-shortcuts hidden>
+        <strong data-ck-shortcuts-title></strong>
+        <p class="ck-shortcut-list" data-ck-shortcut-list></p>
+      </section>
+
       {L.groups.map((g, gi) => (
-        <section class="ck-stage" data-ck-stage data-by={g.by ?? ''}>
+        <section class:list={['ck-stage', { 'ck-stage--break': gi === 2 }]} data-ck-stage data-by={g.by ?? ''}>
           <div class="ck-stage-head">
             <h2><span class="ck-num">{String(gi + 1).padStart(2, '0')}</span> {g.title}</h2>
             <p class="ck-stage-meta">
@@ -175,6 +317,7 @@ const clientData = JSON.stringify({ by: L.by, byBlank: L.byBlank, locale: locale
                   <span class="ck-box" aria-hidden="true"></span>
                   <span class="ck-text">{text}{note && <small> · {note}</small>}</span>
                 </label>
+                {LINK_KEYS[`${gi}-${ii}`] && <a class="ck-ilink no-print" data-ck-link={LINK_KEYS[`${gi}-${ii}`]} hidden></a>}
               </li>
             ))}
           </ul>
@@ -205,53 +348,209 @@ const clientData = JSON.stringify({ by: L.by, byBlank: L.byBlank, locale: locale
   // storage throw), never to a server.
   const KEY = 'wa-trip-checklist-v1';
   const DAY = 86_400_000;
+  const iso = (d: Date) => d.toISOString().slice(0, 10);
+  const fill = (s: string, k: string, v: string | number) => s.split(`{${k}}`).join(String(v));
+
   for (const root of document.querySelectorAll<HTMLElement>('[data-ck]')) {
-    let S: { by?: string; byBlank?: string; locale?: string } = {};
+    let S: any = {};
     try { S = JSON.parse(root.dataset.strings || '{}'); } catch { /* defaults */ }
+    const u = S.u || {};
+    const countries: any[] = S.countries || [];
     const load = () => { try { return JSON.parse(localStorage.getItem(KEY) || '{}'); } catch { return {}; } };
-    const save = (v: any) => { try { localStorage.setItem(KEY, JSON.stringify(v)); } catch { /* not kept */ } };
-    const state = Object.assign({ depart: '', dest: '', done: [] as string[] }, load());
+    const save = () => { try { localStorage.setItem(KEY, JSON.stringify(state)); } catch { /* not kept */ } };
+    const state = Object.assign({ depart: '', dest: '', country: '', done: [] as string[] }, load());
 
-    const depart = root.querySelector<HTMLInputElement>('[data-ck-depart]')!;
-    const dest = root.querySelector<HTMLInputElement>('[data-ck-dest]')!;
     const boxes = [...root.querySelectorAll<HTMLInputElement>('input[data-ck-id]')];
-    // "10/21" as on the printed sheet where that is how dates are written
-    // (ko/ja/zh — Intl gives "10. 21." for Korean); "Oct 21" / "21 oct" elsewhere.
     const numeric = /^(ko|ja|zh)/.test(S.locale || '');
-    const intl = new Intl.DateTimeFormat(S.locale || undefined, { month: 'short', day: 'numeric', timeZone: 'UTC' });
-    const fmt = { format: (d: Date) => (numeric ? `${d.getUTCMonth() + 1}/${d.getUTCDate()}` : intl.format(d)) };
+    const intlMD = new Intl.DateTimeFormat(S.locale || undefined, { month: 'short', day: 'numeric', timeZone: 'UTC' });
+    const md = (d: Date) => (numeric ? `${d.getUTCMonth() + 1}/${d.getUTCDate()}` : intlMD.format(d));
+    const full = new Intl.DateTimeFormat(S.locale || undefined, { year: 'numeric', month: 'long', day: 'numeric', weekday: 'short', timeZone: 'UTC' });
+    const now = new Date();
+    const todayUTC = Date.UTC(now.getFullYear(), now.getMonth(), now.getDate());
 
-    const render = () => {
+    // ── render everything that depends on the date / destination / ticks ──
+    const dateText = root.querySelector<HTMLElement>('[data-ck-date-text]')!;
+    const destText = root.querySelector<HTMLElement>('[data-ck-dest-text]')!;
+    const countdown = root.querySelector<HTMLElement>('[data-ck-countdown]')!;
+    const shortcuts = root.querySelector<HTMLElement>('[data-ck-shortcuts]')!;
+    const render = (flash = false) => {
       const t = Date.parse(state.depart);
+      const has = Number.isFinite(t);
+      dateText.textContent = has ? full.format(new Date(t)) : dateText.dataset.empty || '';
+      dateText.classList.toggle('is-empty', !has);
+      destText.textContent = state.dest || destText.dataset.empty || '';
+      destText.classList.toggle('is-empty', !state.dest);
+      if (has) {
+        const left = Math.round((t - todayUTC) / DAY);
+        countdown.textContent = left > 0 ? fill(u.countdown, 'n', left) : left === 0 ? u.countdownToday : u.countdownPast;
+      }
+      countdown.hidden = !has;
       for (const stage of root.querySelectorAll<HTMLElement>('[data-ck-stage]')) {
         const by = Number(stage.dataset.by);
         const out = stage.querySelector<HTMLElement>('[data-ck-by]');
-        if (out && by) out.textContent = '· ' + (Number.isFinite(t) && S.by ? S.by.replace('{d}', fmt.format(new Date(t - by * DAY))) : S.byBlank || '');
+        if (out && by) {
+          out.textContent = has && S.by ? S.by.replace('{d}', md(new Date(t - by * DAY))) : '· ' + (S.byBlank || '');
+          out.classList.toggle('is-set', has);
+          out.classList.toggle('is-late', has && t - by * DAY < todayUTC);
+          if (flash && has) { out.classList.remove('is-flash'); void out.offsetWidth; out.classList.add('is-flash'); }
+        }
         const mine = [...stage.querySelectorAll<HTMLInputElement>('input[data-ck-id]')];
         const c = stage.querySelector<HTMLElement>('[data-ck-count]');
         if (c) c.textContent = `${mine.filter((b) => b.checked).length}/${mine.length}`;
         stage.classList.toggle('is-done', mine.length > 0 && mine.every((b) => b.checked));
       }
+      root.querySelector('[data-ck-how="date"]')?.classList.toggle('is-done', has);
+      root.querySelector('[data-ck-how="dest"]')?.classList.toggle('is-done', !!state.dest);
+
+      // Country links: on the items, and a shortcut card under the header.
+      const c = countries.find((x) => x.slug === state.country);
+      for (const a of root.querySelectorAll<HTMLAnchorElement>('[data-ck-link]')) {
+        const key = a.dataset.ckLink!;
+        const href = c?.links?.[key];
+        a.hidden = !href;
+        if (href) { a.href = href; a.textContent = '→ ' + fill(u[key] || '', 'c', c.label); }
+      }
+      shortcuts.hidden = !c;
+      if (c) {
+        root.querySelector('[data-ck-shortcuts-title]')!.textContent = fill(u.forTrip, 'c', c.label);
+        const list = root.querySelector<HTMLElement>('[data-ck-shortcut-list]')!;
+        const closedHref = has ? `${c.links.closed}?${new URLSearchParams({ c: c.name, from: iso(new Date(t)), to: iso(new Date(t + 6 * DAY)) })}` : c.links.closed;
+        const items: [string, string][] = [
+          [c.links.ess, fill(u.sEss, 'c', c.label)],
+          [c.links.events, fill(u.sEvents, 'c', c.label)],
+          [closedHref, u.sClosed],
+          [c.links.esim, fill(u.sEsim, 'c', c.label)],
+          [c.links.weather, fill(u.sWeather, 'c', c.label)],
+        ];
+        list.replaceChildren(...items.filter(([h]) => h).map(([h, label]) => {
+          const a = document.createElement('a'); a.href = h; a.textContent = label; return a;
+        }));
+        if (flash) { shortcuts.classList.remove('is-flash'); void shortcuts.offsetWidth; shortcuts.classList.add('is-flash'); }
+      }
     };
 
-    depart.value = state.depart || '';
-    dest.value = state.dest || '';
     for (const b of boxes) b.checked = state.done.includes(b.dataset.ckId!);
     render();
 
-    depart.addEventListener('change', () => { state.depart = depart.value; save(state); render(); });
-    dest.addEventListener('input', () => { state.dest = dest.value; save(state); });
     for (const b of boxes) b.addEventListener('change', () => {
       state.done = boxes.filter((x) => x.checked).map((x) => x.dataset.ckId!);
-      save(state); render();
+      save(); render();
     });
     root.querySelector('[data-ck-reset]')?.addEventListener('click', () => {
       for (const b of boxes) b.checked = false;
-      state.done = []; save(state); render();
+      state.done = []; save(); render();
     });
     root.querySelector('[data-ck-print]')?.addEventListener('click', () => {
       (window as any).plausible?.('Checklist print');
       window.print();
+    });
+
+    // ── popovers ──
+    const openers = [...root.querySelectorAll<HTMLButtonElement>('[data-ck-open]')];
+    const pops = [...root.querySelectorAll<HTMLElement>('[data-ck-pop]')];
+    let openName = '';
+    const close = (focusBack = true) => {
+      if (!openName) return;
+      const opener = openers.find((o) => o.dataset.ckOpen === openName);
+      pops.forEach((p) => (p.hidden = true));
+      openers.forEach((o) => o.setAttribute('aria-expanded', 'false'));
+      openName = '';
+      if (focusBack) opener?.focus();
+    };
+    const open = (name: string) => {
+      close(false);
+      openName = name;
+      root.querySelector<HTMLElement>(`[data-ck-pop="${name}"]`)!.hidden = false;
+      openers.find((o) => o.dataset.ckOpen === name)?.setAttribute('aria-expanded', 'true');
+      if (name === 'date') drawCal(true);
+      if (name === 'dest') { search.value = ''; filterDest(); search.focus(); }
+    };
+    for (const o of openers) o.addEventListener('click', (ev) => { ev.stopPropagation(); openName === o.dataset.ckOpen ? close() : open(o.dataset.ckOpen!); });
+    document.addEventListener('click', (ev) => { if (openName && !(ev.target as Element).closest('[data-ck-pop], [data-ck-open]')) close(false); });
+    document.addEventListener('keydown', (ev) => { if (ev.key === 'Escape' && openName) close(); });
+
+    // ── calendar ──
+    const grid = root.querySelector<HTMLElement>('[data-ck-cal-grid]')!;
+    const title = root.querySelector<HTMLElement>('[data-ck-cal-title]')!;
+    const monthFmt = new Intl.DateTimeFormat(S.locale || undefined, { year: 'numeric', month: 'long', timeZone: 'UTC' });
+    const wdFmt = new Intl.DateTimeFormat(S.locale || undefined, { weekday: 'narrow', timeZone: 'UTC' });
+    let view = new Date(todayUTC);
+    const setDate = (t: number | null) => {
+      state.depart = t === null ? '' : iso(new Date(t));
+      save(); render(true); close();
+    };
+    const drawCal = (reset = false) => {
+      if (reset) { const t = Date.parse(state.depart); view = new Date(Number.isFinite(t) ? t : todayUTC); }
+      const y = view.getUTCFullYear(), m = view.getUTCMonth();
+      title.textContent = monthFmt.format(new Date(Date.UTC(y, m, 1)));
+      const first = new Date(Date.UTC(y, m, 1)).getUTCDay();
+      const days = new Date(Date.UTC(y, m + 1, 0)).getUTCDate();
+      const sel = Date.parse(state.depart);
+      const cells: HTMLElement[] = [];
+      for (let i = 0; i < 7; i++) {
+        const h = document.createElement('span'); h.className = 'ck-cal-wd'; h.setAttribute('role', 'columnheader');
+        h.textContent = wdFmt.format(new Date(Date.UTC(2026, 0, 4 + i))); cells.push(h);
+      }
+      for (let i = 0; i < first; i++) { const s = document.createElement('span'); s.className = 'ck-cal-pad'; cells.push(s); }
+      for (let d = 1; d <= days; d++) {
+        const t = Date.UTC(y, m, d);
+        const b = document.createElement('button');
+        b.type = 'button'; b.textContent = String(d); b.dataset.t = String(t);
+        b.setAttribute('role', 'gridcell');
+        b.setAttribute('aria-label', full.format(new Date(t)));
+        if (t < todayUTC) b.disabled = true;
+        if (t === todayUTC) b.classList.add('is-today');
+        if (t === sel) { b.classList.add('is-sel'); b.setAttribute('aria-selected', 'true'); }
+        b.tabIndex = t === (Number.isFinite(sel) ? sel : todayUTC) ? 0 : -1;
+        b.addEventListener('click', () => setDate(t));
+        cells.push(b);
+      }
+      grid.replaceChildren(...cells);
+      const focus = grid.querySelector<HTMLButtonElement>('button[tabindex="0"]') ?? grid.querySelector<HTMLButtonElement>('button:not(:disabled)');
+      focus?.focus({ preventScroll: true });
+    };
+    for (const nav of root.querySelectorAll<HTMLButtonElement>('[data-ck-month]')) nav.addEventListener('click', () => {
+      view = new Date(Date.UTC(view.getUTCFullYear(), view.getUTCMonth() + Number(nav.dataset.ckMonth), 1)); drawCal();
+    });
+    grid.addEventListener('keydown', (ev) => {
+      const cur = document.activeElement as HTMLButtonElement;
+      if (!cur?.dataset?.t) return;
+      const step: Record<string, number> = { ArrowLeft: -1, ArrowRight: 1, ArrowUp: -7, ArrowDown: 7 };
+      if (!(ev.key in step)) return;
+      ev.preventDefault();
+      const t = Number(cur.dataset.t) + step[ev.key] * DAY;
+      const d = new Date(t);
+      if (d.getUTCMonth() !== view.getUTCMonth()) { view = new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), 1)); drawCal(); }
+      grid.querySelector<HTMLButtonElement>(`button[data-t="${t}"]`)?.focus();
+    });
+    root.querySelector('[data-ck-cal-today]')?.addEventListener('click', () => setDate(todayUTC));
+    root.querySelector('[data-ck-cal-clear]')?.addEventListener('click', () => setDate(null));
+
+    // ── destination ──
+    const search = root.querySelector<HTMLInputElement>('[data-ck-dest-search]')!;
+    const own = root.querySelector<HTMLButtonElement>('[data-ck-dest-own]')!;
+    const options = [...root.querySelectorAll<HTMLButtonElement>('[data-ck-country]')];
+    const filterDest = () => {
+      const q = search.value.trim().toLowerCase();
+      for (const o of options) o.parentElement!.hidden = !!q && !o.dataset.search!.includes(q);
+      own.hidden = !q;
+      own.textContent = fill(u.typeOwn || '', 'q', search.value.trim());
+      for (const o of options) o.setAttribute('aria-selected', String(o.dataset.ckCountry === state.country));
+    };
+    const setDest = (label: string, slug: string) => { state.dest = label; state.country = slug; save(); render(true); close(); };
+    search.addEventListener('input', filterDest);
+    search.addEventListener('keydown', (ev) => {
+      if (ev.key !== 'Enter') return;
+      ev.preventDefault();
+      const first = options.find((o) => !o.parentElement!.hidden);
+      const q = search.value.trim();
+      if (first && q) first.click();
+      else if (q) own.click();
+    });
+    own.addEventListener('click', () => setDest(search.value.trim(), ''));
+    for (const o of options) o.addEventListener('click', () => {
+      const c = countries.find((x) => x.slug === o.dataset.ckCountry);
+      if (c) setDest(c.label, c.slug);
     });
   }
 </script>
@@ -259,7 +558,7 @@ const clientData = JSON.stringify({ by: L.by, byBlank: L.byBlank, locale: locale
 <style>
   .ck {
     --ck-sand: #f3e8d8; --ck-paper: #f8f3ea; --ck-row: #f1e6d6; --ck-night: #262d1b;
-    --ck-brown: #8a4a1c; --ck-peach: #fde3d4; --ck-ring: #a89478; --ck-on-dark: #e8eed9;
+    --ck-brown: #8a4a1c; --ck-peach: #fde3d4; --ck-ring: #a89478; --ck-on-dark: #e8eed9; --ck-leaf: #8fa06f;
     padding: 1.6rem 0 2rem;
   }
   @media (prefers-color-scheme: dark) {
@@ -269,7 +568,7 @@ const clientData = JSON.stringify({ by: L.by, byBlank: L.byBlank, locale: locale
   .ck-sheet { max-width: 860px; display: grid; gap: 1rem; }
 
   /* Header card */
-  .ck-head { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 15rem); gap: 1.4rem; align-items: center; background: var(--ck-sand); border-radius: 22px; padding: 1.6rem 1.7rem; }
+  .ck-head { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 17rem); gap: 1.4rem; align-items: center; background: var(--ck-sand); border-radius: 22px; padding: 1.6rem 1.7rem; }
   .ck-eyebrow { margin: 0 0 .6rem; font-size: .88rem; font-weight: 700; color: var(--ink-soft); }
   .ck-h1 { font-family: var(--font-display); font-size: clamp(1.8rem, 4.6vw, 2.5rem); line-height: 1.2; letter-spacing: -0.02em; margin: 0 0 .7rem; color: var(--ink); word-break: keep-all; }
   .ck-h1 span { display: block; }
@@ -281,11 +580,61 @@ const clientData = JSON.stringify({ by: L.by, byBlank: L.byBlank, locale: locale
   :global(:root[data-theme='dark']) .ck-print { color: #1d1a15; }
   @media (prefers-color-scheme: dark) { :global(:root:not([data-theme='light'])) .ck-print { color: #1d1a15; } }
   .ck-reset { background: transparent; color: var(--ink-soft); border: 1px solid var(--line-strong); }
-  .ck-trip { background: var(--ck-night); color: var(--ck-on-dark); border-radius: 18px; padding: 1.1rem 1.2rem; display: grid; gap: .9rem; }
-  .ck-field { display: grid; gap: .35rem; font-size: .85rem; font-weight: 700; }
-  .ck-field input { font: inherit; font-weight: 500; color: #fff; background: transparent; border: 0; border-bottom: 1.5px solid #8fa06f; padding: .3rem 0; width: 100%; color-scheme: dark; }
-  .ck-field input::placeholder { color: rgba(255, 255, 255, .45); }
-  .ck-field input:focus { outline: none; border-bottom-color: #fff; }
+
+  /* Trip panel + pickers */
+  .ck-trip { position: relative; background: var(--ck-night); color: var(--ck-on-dark); border-radius: 18px; padding: 1.1rem 1.2rem; display: grid; gap: .9rem; }
+  .ck-field { position: relative; display: grid; gap: .35rem; }
+  .ck-label { font-size: .85rem; font-weight: 700; }
+  .ck-pick { display: flex; align-items: center; justify-content: space-between; gap: .5rem; width: 100%; font: inherit; font-weight: 600; text-align: left;
+    color: #fff; background: rgba(255, 255, 255, .06); border: 0; border-bottom: 1.5px solid var(--ck-leaf); border-radius: 8px 8px 0 0; padding: .45rem .5rem; cursor: pointer; }
+  .ck-pick:hover, .ck-pick[aria-expanded='true'] { background: rgba(255, 255, 255, .12); border-bottom-color: #fff; }
+  .ck-pick .is-empty { color: rgba(255, 255, 255, .55); font-weight: 500; }
+  .ck-pick svg { flex: none; opacity: .8; }
+  .ck-countdown { margin: 0; padding: .45rem .8rem; border-radius: var(--r-pill); background: var(--ck-leaf); color: #1f2915; font-weight: 800; font-size: .9rem; text-align: center; }
+
+  .ck-pop { position: absolute; top: calc(100% + .4rem); right: 0; z-index: 30; width: min(20rem, calc(100vw - 2rem));
+    background: var(--surface); color: var(--ink); border: 1px solid var(--line); border-radius: 18px; box-shadow: 0 18px 40px rgba(20, 16, 8, .22); padding: .9rem; }
+  .ck-cal-head { display: flex; align-items: center; justify-content: space-between; margin-bottom: .5rem; }
+  .ck-cal-head strong { font-family: var(--font-display); font-size: 1.05rem; }
+  .ck-cal-nav { width: 2rem; height: 2rem; border-radius: 50%; border: 0; background: var(--ck-row); color: var(--ink); font-size: 1.2rem; line-height: 1; cursor: pointer; }
+  .ck-cal-nav:hover { background: var(--ck-sand); }
+  .ck-cal-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: .15rem; }
+  .ck-cal-grid :global(.ck-cal-wd) { font-size: .72rem; font-weight: 700; color: var(--muted); text-align: center; padding: .2rem 0 .35rem; }
+  .ck-cal-grid :global(button) { aspect-ratio: 1; border: 0; border-radius: 50%; background: transparent; color: var(--ink); font: inherit; font-size: .9rem; font-weight: 600; cursor: pointer; }
+  .ck-cal-grid :global(button:hover:not(:disabled)) { background: var(--ck-row); }
+  .ck-cal-grid :global(button:disabled) { color: var(--muted); opacity: .45; cursor: default; }
+  .ck-cal-grid :global(button.is-today) { box-shadow: inset 0 0 0 1.5px var(--ck-brown); }
+  .ck-cal-grid :global(button.is-sel) { background: var(--ck-brown); color: #fff; }
+  .ck-cal-grid :global(button:focus-visible) { outline: 2px solid var(--accent); outline-offset: 1px; }
+  .ck-cal-foot { display: flex; justify-content: space-between; margin-top: .6rem; padding-top: .6rem; border-top: 1px solid var(--line-soft); }
+  .ck-cal-foot button { font: inherit; font-size: .88rem; font-weight: 700; border: 0; background: none; color: var(--ck-brown); cursor: pointer; padding: .3rem .4rem; }
+
+  .ck-dest-search { width: 100%; font: inherit; padding: .55rem .8rem; border-radius: 12px; border: 1px solid var(--line-strong); background: var(--bg, #fff); color: var(--ink); }
+  .ck-dest-own[hidden] { display: none; }
+  .ck-dest-own { display: block; width: 100%; margin-top: .5rem; text-align: left; font: inherit; font-weight: 700; padding: .5rem .8rem; border-radius: 12px; border: 1px dashed var(--ck-ring); background: none; color: var(--ck-brown); cursor: pointer; }
+  .ck-dest-list { list-style: none; margin: .6rem 0 0; padding: 0; max-height: 15rem; overflow-y: auto; display: grid; grid-template-columns: 1fr 1fr; gap: .3rem; }
+  .ck-dest-list button { width: 100%; display: flex; align-items: center; gap: .4rem; text-align: left; font: inherit; font-size: .9rem; font-weight: 600; padding: .45rem .6rem; border-radius: 10px; border: 0; background: var(--ck-row); color: var(--ink); cursor: pointer; }
+  .ck-dest-list button:hover { background: var(--ck-sand); }
+  .ck-dest-list button[aria-selected='true'] { background: var(--ck-brown); color: #fff; }
+
+  /* How-to and shortcuts */
+  .ck-how { display: flex; flex-wrap: wrap; gap: .5rem 1rem; align-items: baseline; background: var(--surface); border: 1px dashed var(--line-strong); border-radius: 18px; padding: .9rem 1.1rem; }
+  .ck-how > strong { font-size: .9rem; color: var(--ink); }
+  .ck-how ol { list-style: none; margin: 0; padding: 0; display: grid; gap: .35rem; flex: 1 1 26rem; }
+  .ck-how li { display: flex; gap: .5rem; align-items: baseline; font-size: .9rem; color: var(--ink-soft); line-height: 1.5; }
+  .ck-how li span { flex: none; display: inline-grid; place-items: center; width: 1.35rem; height: 1.35rem; border-radius: 50%; background: var(--ck-row); color: var(--ink); font-size: .75rem; font-weight: 800; }
+  .ck-how li.is-done span { background: #6f8a4c; color: #fff; }
+  .ck-how li.is-done span::before { content: '✓'; }
+  .ck-how li.is-done span { font-size: 0; }
+  .ck-how li.is-done span::before { font-size: .75rem; }
+  .ck-shortcuts { background: var(--ck-night); color: var(--ck-on-dark); border-radius: 18px; padding: 1rem 1.2rem; }
+  .ck-shortcuts strong { display: block; font-size: .95rem; margin-bottom: .6rem; }
+  .ck-shortcut-list { display: flex; flex-wrap: wrap; gap: .45rem; margin: 0; }
+  .ck-shortcut-list :global(a) { padding: .4rem .85rem; border-radius: var(--r-pill); background: rgba(255, 255, 255, .1); color: #fff; font-size: .88rem; font-weight: 600; text-decoration: none; }
+  .ck-shortcut-list :global(a:hover) { background: rgba(255, 255, 255, .2); }
+  .is-flash { animation: ck-flash 1.2s ease-out; }
+  @keyframes ck-flash { 0% { box-shadow: 0 0 0 0 rgba(143, 160, 111, .9); } 100% { box-shadow: 0 0 0 14px rgba(143, 160, 111, 0); } }
+  @media (prefers-reduced-motion: reduce) { .is-flash { animation: none; } }
 
   /* Stages */
   .ck-stage { background: var(--surface); border: 1px solid var(--line-soft); border-radius: 22px; padding: 1.2rem 1.3rem 1.3rem; }
@@ -293,9 +642,13 @@ const clientData = JSON.stringify({ by: L.by, byBlank: L.byBlank, locale: locale
   .ck-stage h2 { font-family: var(--font-display); font-size: 1.35rem; margin: 0; color: var(--ink); }
   .ck-num { color: var(--ck-brown); }
   .ck-stage-meta { display: flex; flex-wrap: wrap; align-items: center; gap: .3rem .5rem; margin: 0; font-size: .85rem; color: var(--ink-soft); }
+  .ck-by.is-set.is-late { color: #b3261e; }
+  :global(:root[data-theme='dark']) .ck-by.is-set.is-late { color: #ff8a80; }
+  .ck-by.is-set { font-weight: 800; color: var(--ck-brown); padding: .05rem .5rem; border-radius: var(--r-pill); background: var(--ck-row); }
   .ck-count { font-weight: 700; font-size: .78rem; padding: .1rem .55rem; border-radius: var(--r-pill); background: var(--ck-row); }
   .ck-stage.is-done .ck-count { background: #d7e4c0; color: #2f4a1b; }
   .ck-items { list-style: none; margin: 0; padding: 0; display: grid; gap: .45rem; }
+  .ck-items > li { display: grid; gap: .25rem; }
   .ck-item { position: relative; display: flex; align-items: center; gap: .75rem; padding: .6rem .9rem; border-radius: 16px; background: var(--ck-row); cursor: pointer; line-height: 1.45; }
   .ck-item input { position: absolute; opacity: 0; width: 1px; height: 1px; }
   .ck-box { flex: none; width: 22px; height: 22px; border-radius: 50%; border: 2px solid var(--ck-ring); display: grid; place-items: center; }
@@ -305,6 +658,8 @@ const clientData = JSON.stringify({ by: L.by, byBlank: L.byBlank, locale: locale
   .ck-item input:focus-visible + .ck-box { outline: 2px solid var(--accent); outline-offset: 2px; }
   .ck-text { color: var(--ink); overflow-wrap: anywhere; }
   .ck-text small { color: var(--muted); font-size: .82em; }
+  .ck-ilink { justify-self: start; margin-left: 2.9rem; font-size: .82rem; font-weight: 700; color: var(--ck-brown); text-decoration: none; }
+  .ck-ilink:hover { text-decoration: underline; }
 
   /* Closing band */
   .ck-band { display: flex; justify-content: space-between; align-items: center; gap: .6rem 1.2rem; flex-wrap: wrap; background: var(--ck-peach); border-radius: 22px; padding: 1.1rem 1.3rem; }
@@ -315,24 +670,27 @@ const clientData = JSON.stringify({ by: L.by, byBlank: L.byBlank, locale: locale
 
   @media (max-width: 640px) {
     .ck-head { grid-template-columns: 1fr; padding: 1.3rem 1.2rem; }
+    .ck-pop { left: 0; right: auto; }
     .ck-stage { padding: 1rem 1rem 1.1rem; }
     .ck-item { padding: .55rem .75rem; }
+    .ck-dest-list { grid-template-columns: 1fr; }
   }
 
   /* Print: the two-page sheet of the mock-up. Site chrome, the buttons, the
-     counters and the newsletter go; the fields print what was typed, or a
-     blank line to write on. */
+     counters, pop-ups and the newsletter go; the fields print what was
+     chosen, or a blank line to write on. */
   @media print {
-    :global(.site-header), :global(.site-footer), :global(.topbar), :global(.nl-popup), .no-print { display: none !important; }
+    :global(.site-header), :global(.site-footer), :global(.topbar), :global(.nl-popup), .no-print, .ck-pop, .ck-pick svg { display: none !important; }
     .print-only { display: inline; }
     .ck { padding: 0; --ck-sand: #f3e8d8; --ck-paper: #f8f3ea; --ck-row: #f1e6d6; --ck-peach: #fde3d4; --ck-brown: #8a4a1c; }
     .ck, .ck * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
     .ck-sheet { max-width: none; gap: .7rem; }
     .ck-head { padding: 1.1rem 1.3rem; }
     .ck-trip { padding: .9rem 1rem; }
-    .ck-field input { color: #fff; }
+    .ck-pick { background: none; }
+    .ck-pick .is-empty { visibility: hidden; }
     .ck-stage { break-inside: avoid; padding: .9rem 1rem 1rem; }
-    .ck-stage:nth-of-type(3) { break-before: page; }
+    .ck-stage--break { break-before: page; }
     .ck-item { padding: .45rem .8rem; }
     .ck-band a { text-decoration: none; }
   }
