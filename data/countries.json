@@ -568,6 +568,32 @@
         "Fremantle"
       ],
       "continent": "Oceania"
+    },
+    {
+      "name": "United Kingdom",
+      "iso2": "gb",
+      "priority": 20,
+      "slug": "united-kingdom",
+      "flag": "🇬🇧",
+      "active": true,
+      "blurb": "Royal London, Scottish castles and storybook villages, with a packed calendar of festivals, sport and seasonal markets.",
+      "regions": [
+        "London",
+        "Edinburgh",
+        "Manchester",
+        "Liverpool",
+        "Oxford",
+        "Cambridge",
+        "Bath",
+        "York",
+        "Brighton",
+        "Glasgow",
+        "Birmingham",
+        "Cardiff",
+        "Belfast",
+        "Inverness"
+      ],
+      "continent": "Europe"
     }
   ]
 }

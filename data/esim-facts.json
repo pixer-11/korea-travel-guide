@@ -339,5 +339,22 @@
       "Public transport in Sydney, Melbourne and Brisbane takes contactless bank cards at the gate, so getting around the cities does not depend on your data.",
       "Free WiFi is common in libraries, cafes and many city centres, which takes pressure off your plan in town."
     ]
+  },
+  "united-kingdom": {
+    "name": "United Kingdom",
+    "carriers": [
+      "EE",
+      "Vodafone",
+      "O2",
+      "Three"
+    ],
+    "intro": "The UK has four networks: EE, Vodafone, O2 and Three. EE is usually counted as the widest-reaching; all four cover the cities and main towns well. Vodafone and Three merged into one company in 2025 and are joining their networks, so the two may share masts. Before buying a travel eSIM, check which network it uses.",
+    "coverage": "Cities, towns and the main rail lines are well covered. Signal thins out in the Scottish Highlands and islands, in parts of Wales and in national parks such as the Lake District and the Peak District, where valleys can have no signal at all. On the London Underground some lines and stations now have signal, but many tunnel sections still do not.",
+    "tips": [
+      "The UK has left the EU, so an eSIM sold as a \"Europe\" plan does not always include it. Check that the United Kingdom is on the country list before you buy.",
+      "The networks have switched off, or are switching off, their old 3G service, so your phone needs 4G calling (VoLTE) support to make and take calls reliably. Most recent phones have it.",
+      "London buses, the Tube and most rail in the capital take contactless bank cards and phone wallets at the gate, so getting around does not depend on your data.",
+      "Download offline maps before a Highlands drive or a national park walk, and do not rely on your phone for navigation on the hills."
+    ]
   }
 }

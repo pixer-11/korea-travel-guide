@@ -185,6 +185,12 @@
     "es": "Barcelona",
     "zh": "巴塞罗那"
   },
+  "Bath": {
+    "ko": "바스",
+    "ja": "バース",
+    "es": "Bath",
+    "zh": "巴斯"
+  },
   "Battambang": {
     "ko": "바탐방",
     "ja": "バッタンバン",
@@ -196,6 +202,12 @@
     "ja": "北京",
     "es": "Pekín",
     "zh": "北京"
+  },
+  "Belfast": {
+    "ko": "벨파스트",
+    "ja": "ベルファスト",
+    "es": "Belfast",
+    "zh": "贝尔法斯特"
   },
   "Bengaluru": {
     "ko": "벵갈루루",
@@ -214,6 +226,12 @@
     "ja": "ビルバオ",
     "es": "Bilbao",
     "zh": "毕尔巴鄂"
+  },
+  "Birmingham": {
+    "ko": "버밍엄",
+    "ja": "バーミンガム",
+    "es": "Birmingham",
+    "zh": "伯明翰"
   },
   "Bocaue": {
     "ko": "보카우에",
@@ -262,6 +280,12 @@
     "ja": "ボストン",
     "es": "Boston",
     "zh": "波士顿"
+  },
+  "Brighton": {
+    "ko": "브라이턴",
+    "ja": "ブライトン",
+    "es": "Brighton",
+    "zh": "布莱顿"
   },
   "Brisbane": {
     "ko": "브리즈번",
@@ -323,6 +347,12 @@
     "es": "Camboya",
     "zh": "柬埔寨"
   },
+  "Cambridge": {
+    "ko": "케임브리지",
+    "ja": "ケンブリッジ",
+    "es": "Cambridge",
+    "zh": "剑桥"
+  },
   "Cameron Highlands": {
     "ko": "카메론 하이랜드",
     "ja": "キャメロンハイランド",
@@ -352,6 +382,12 @@
     "ja": "カッパドキア",
     "es": "Capadocia",
     "zh": "卡帕多西亚"
+  },
+  "Cardiff": {
+    "ko": "카디프",
+    "ja": "カーディフ",
+    "es": "Cardiff",
+    "zh": "卡迪夫"
   },
   "Causeway Bay": {
     "ko": "코즈웨이베이",
@@ -581,6 +617,12 @@
     "es": "East Rutherford",
     "zh": "东拉瑟福德"
   },
+  "Edinburgh": {
+    "ko": "에든버러",
+    "ja": "エディンバラ",
+    "es": "Edimburgo",
+    "zh": "爱丁堡"
+  },
   "El Nido": {
     "ko": "엘니도",
     "ja": "エルニド",
@@ -676,6 +718,12 @@
     "ja": "ギリ諸島",
     "es": "Islas Gili",
     "zh": "吉利群岛"
+  },
+  "Glasgow": {
+    "ko": "글래스고",
+    "ja": "グラスゴー",
+    "es": "Glasgow",
+    "zh": "格拉斯哥"
   },
   "Goa": {
     "ko": "고아",
@@ -850,6 +898,12 @@
     "ja": "インドネシア",
     "es": "Indonesia",
     "zh": "印度尼西亚"
+  },
+  "Inverness": {
+    "ko": "인버네스",
+    "ja": "インヴァネス",
+    "es": "Inverness",
+    "zh": "因弗内斯"
   },
   "Ipoh": {
     "ko": "이포",
@@ -1169,11 +1223,23 @@
     "es": "Little India",
     "zh": "小印度"
   },
+  "Liverpool": {
+    "ko": "리버풀",
+    "ja": "リバプール",
+    "es": "Liverpool",
+    "zh": "利物浦"
+  },
   "Lombok": {
     "ko": "롬복",
     "ja": "ロンボク島",
     "es": "Lombok",
     "zh": "龙目岛"
+  },
+  "London": {
+    "ko": "런던",
+    "ja": "ロンドン",
+    "es": "Londres",
+    "zh": "伦敦"
   },
   "Los Angeles": {
     "ko": "로스앤젤레스",
@@ -1234,6 +1300,12 @@
     "ja": "マレーシア",
     "es": "Malasia",
     "zh": "马来西亚"
+  },
+  "Manchester": {
+    "ko": "맨체스터",
+    "ja": "マンチェスター",
+    "es": "Mánchester",
+    "zh": "曼彻斯特"
   },
   "Mandalika": {
     "ko": "만달리카",
@@ -1486,6 +1558,12 @@
     "ja": "大阪",
     "es": "Osaka",
     "zh": "大阪"
+  },
+  "Oxford": {
+    "ko": "옥스퍼드",
+    "ja": "オックスフォード",
+    "es": "Oxford",
+    "zh": "牛津"
   },
   "Pai": {
     "ko": "빠이",
@@ -2135,6 +2213,12 @@
     "es": "Emiratos Árabes Unidos",
     "zh": "阿拉伯联合酋长国"
   },
+  "United Kingdom": {
+    "ko": "영국",
+    "ja": "イギリス",
+    "es": "Reino Unido",
+    "zh": "英国"
+  },
   "United States": {
     "ko": "미국",
     "ja": "アメリカ",
@@ -2260,6 +2344,12 @@
     "ja": "横浜",
     "es": "Yokohama",
     "zh": "横滨"
+  },
+  "York": {
+    "ko": "요크",
+    "ja": "ヨーク",
+    "es": "York",
+    "zh": "约克"
   },
   "Zamboanga City": {
     "ko": "삼보앙가",

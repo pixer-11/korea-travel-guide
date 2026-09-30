@@ -905,5 +905,48 @@
       ]
     },
     "_srcHash": "e4d86c9abdb97b15"
+  },
+  "united-kingdom": {
+    "ko": {
+      "intro": "영국에는 EE, 보다폰(Vodafone), O2, 스리(Three) 이렇게 네 개의 통신사가 있습니다. 그중 EE가 보통 가장 넓은 커버리지를 자랑하는 것으로 꼽히며, 네 곳 모두 도시와 주요 소도시는 무리 없이 잘 커버합니다. 보다폰과 스리는 2025년에 하나의 회사로 합병되어 네트워크 통합을 진행 중이라, 두 통신사가 같은 기지국을 공유하는 경우도 있습니다. 여행용 eSIM을 구매하기 전에 어떤 통신사망을 사용하는지 미리 확인해 두는 것이 좋습니다.",
+      "coverage": "도시와 소도시, 주요 철도 노선은 대체로 신호가 잘 잡힙니다. 다만 스코틀랜드 하이랜드 지역과 섬 지역, 웨일스 일부 지역, 레이크 디스트릭트나 피크 디스트릭트 같은 국립공원에서는 신호가 약해지며, 골짜기 지역은 아예 신호가 잡히지 않는 경우도 있습니다. 런던 지하철(튜브)의 경우 일부 노선과 역에서는 신호가 들어오게 되었지만, 여전히 많은 터널 구간에서는 신호가 잡히지 않습니다.",
+      "tips": [
+        "영국은 EU를 탈퇴한 국가이기 때문에, '유럽' 플랜으로 판매되는 eSIM이라고 해서 항상 영국을 포함하는 것은 아닙니다. 구매 전 국가 목록에 영국(United Kingdom)이 포함되어 있는지 꼭 확인하세요.",
+        "각 통신사들이 기존 3G 서비스를 이미 종료했거나 종료하는 중이므로, 안정적으로 통화를 걸고 받으려면 스마트폰이 4G 통화(VoLTE)를 지원해야 합니다. 최신 스마트폰 대부분은 이를 지원합니다.",
+        "런던의 버스, 지하철, 그리고 수도권 대부분의 철도는 개찰구에서 컨택리스 신용카드나 휴대폰 결제(모바일 월렛)로 이용할 수 있어서, 이동 자체는 데이터 연결에 좌우되지 않습니다.",
+        "하이랜드 지역을 자동차로 여행하거나 국립공원에서 도보 여행을 하기 전에는 미리 오프라인 지도를 다운로드해 두고, 산악 지형에서는 휴대폰 내비게이션에 전적으로 의존하지 마세요."
+      ]
+    },
+    "ja": {
+      "intro": "英国には4つの通信網、EE、Vodafone、O2、Threeがある。カバーエリアの広さでは通常EEが最も広いとされているが、4社ともに主要都市や町はしっかりカバーしている。VodafoneとThreeは2025年に合併して1つの会社となり、両者のネットワーク統合を進めているため、この2社は同じ基地局を共有することがある。旅行用のeSIMを購入する前に、どのネットワークを利用しているか確認しておこう。",
+      "coverage": "都市や町、主要な鉄道路線沿いは電波状況が良好だ。一方でスコットランドのハイランド地方や島々、ウェールズの一部、そしてレイクディストリクトやピークディストリクトといった国立公園では電波が弱くなり、谷間では電波が全く入らないこともある。ロンドンの地下鉄では一部の路線や駅で電波が入るようになったが、多くのトンネル区間ではまだ電波が届かない。",
+      "tips": [
+        "英国はEUを離脱しているため、「ヨーロッパ」向けとして販売されているeSIMプランに英国が含まれていない場合がある。購入前に対象国リストに「United Kingdom(英国)」が入っているか確認しよう。",
+        "各通信会社は旧来の3Gサービスを停波済み、または停波を進めているため、通話を安定して発着信するには端末が4G通話(VoLTE)に対応している必要がある。最近の機種であればほとんど対応している。",
+        "ロンドンのバスや地下鉄、首都圏の大半の鉄道では、非接触型のクレジットカードやスマートフォンのウォレットを改札でタッチして利用できるため、移動そのものはデータ通信に依存しない。",
+        "ハイランド地方をドライブする前や国立公園でハイキングをする前には、事前にオフラインマップをダウンロードしておこう。山間部ではスマートフォンのナビに頼りすぎないこと。"
+      ]
+    },
+    "es": {
+      "intro": "El Reino Unido cuenta con cuatro operadoras: EE, Vodafone, O2 y Three. EE suele considerarse la de mayor cobertura, aunque las cuatro cubren bien las ciudades y los pueblos principales. Vodafone y Three se fusionaron en una sola empresa en 2025 y están integrando sus redes, por lo que ambas pueden compartir antenas. Antes de comprar una eSIM de viaje, comprueba a qué red pertenece.",
+      "coverage": "Las ciudades, los pueblos y las principales líneas de ferrocarril tienen buena cobertura. La señal se debilita en las Tierras Altas de Escocia y sus islas, en algunas zonas de Gales y en parques nacionales como el Lake District y el Peak District, donde en algunos valles puede no haber señal alguna. En el metro de Londres, algunas líneas y estaciones ya tienen señal, pero muchos tramos subterráneos todavía carecen de ella.",
+      "tips": [
+        "El Reino Unido ya no forma parte de la UE, así que una eSIM vendida como plan \"Europa\" no siempre lo incluye. Verifica que el Reino Unido aparezca en la lista de países antes de comprarla.",
+        "Las operadoras han apagado, o están apagando, su antiguo servicio 3G, por lo que tu teléfono necesita soporte de llamadas por 4G (VoLTE) para hacer y recibir llamadas con fiabilidad. La mayoría de los móviles recientes lo tienen.",
+        "Los autobuses de Londres, el metro y la mayoría de los trenes de la capital aceptan tarjetas bancarias sin contacto y billeteras del móvil en los tornos de acceso, así que moverte por la ciudad no depende de tus datos.",
+        "Descarga mapas sin conexión antes de conducir por las Tierras Altas o hacer una caminata en un parque nacional, y no dependas del teléfono para orientarte en las colinas."
+      ]
+    },
+    "zh": {
+      "intro": "英国有四大运营商:EE、Vodafone、O2 和 Three。EE 通常被认为覆盖范围最广,不过这四家运营商在城市和主要城镇的信号都相当不错。Vodafone 和 Three 已于2025年合并为一家公司,并正在整合双方的网络,因此这两家运营商今后可能会共用基站。购买旅行用 eSIM 前,请先确认它使用的是哪家运营商的网络。",
+      "coverage": "城市、城镇以及主要铁路沿线的信号覆盖都很好。但在苏格兰高地及各岛屿、威尔士部分地区,以及湖区(Lake District)、峰区(Peak District)等国家公园,信号会明显减弱,一些山谷地带甚至完全没有信号。伦敦地铁方面,部分线路和车站如今已经有信号,但仍有不少隧道区段没有信号覆盖。",
+      "tips": [
+        "英国已经脱离欧盟,因此标注为“欧洲”套餐的 eSIM 并不一定包含英国。购买前请务必确认国家列表中列有“United Kingdom(英国)”。",
+        "各运营商已经或正在关闭旧有的3G服务,因此你的手机需要支持4G通话(VoLTE)才能稳定地拨打和接听电话。大多数新款手机都支持这一功能。",
+        "伦敦的公交车、地铁以及市内大部分铁路都可以在闸机处直接刷非接触式银行卡或手机钱包进出站,因此出行并不依赖于数据网络。",
+        "在前往高地自驾或去国家公园徒步之前,请提前下载离线地图,山区里不要完全依赖手机进行导航。"
+      ]
+    },
+    "_srcHash": "47b06cb588d3fe91"
   }
 }

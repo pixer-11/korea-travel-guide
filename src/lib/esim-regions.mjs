@@ -31,6 +31,7 @@ export const ESIM_REGION_OF = {
   italy: 'europeAmericas',
   spain: 'europeAmericas',
   'united-states': 'europeAmericas',
+  'united-kingdom': 'europeAmericas', // 2026-09-30
   // Oceania (2026-09-28)
   australia: 'oceania',
 };
