@@ -127,9 +127,18 @@ async function translateOne(region, en, lang) {
       return t && t !== 'undefined' && t !== 'null';
     })
   );
+  // Only the fields the English HAS. The tool asks for all three, so where the
+  // English had no "days" the model wrote one anyway: "미정", "<UNKNOWN>", a
+  // heading ("고양 가는 방법"), or an invented "3~4일" for Bilbao — 59 values,
+  // live on /ko/regions/johor-bahru (owner review pass, 2026-10-01).
+  for (const k of Object.keys(kept)) if (!(typeof en[k] === 'string' && en[k].trim())) delete kept[k];
   // A partial translation is worse than none: the page would mix languages
-  // field by field. All three or nothing.
-  if (!kept.blurb || !kept.getting || !kept.days) throw new Error(`${lang}: incomplete translation`);
+  // field by field. Every field the English has, or nothing.
+  const want = ['blurb', 'getting', 'days'].filter((k) => typeof en[k] === 'string' && en[k].trim());
+  if (!want.length || want.some((k) => !kept[k])) throw new Error(`${lang}: incomplete translation`);
+  // A stub is not a translation: Bacolod.zh said "describes here" in all three.
+  const stub = /^(placeholder|describes here|<?unknown>?|tbd|n\/a|미정|未定|待定|por (determinar|confirmar))$/i;
+  if (want.some((k) => stub.test(String(kept[k]).trim()) || String(kept[k]).trim().length < 8)) throw new Error(`${lang}: stub translation`);
   if (findToolSpill(kept).length) throw new Error(`${lang}: tool spill in ${findToolSpill(kept).join(', ')}`);
   return kept;
 }

@@ -40,3 +40,40 @@ test('no src/i18n JSON store carries tool-call spill', () => {
   }
   assert.deepEqual(hits.slice(0, 10), [], `${hits.length} spilled value(s)`);
 });
+
+// A region intro's translation carries only the fields its English has. Where
+// the English had no "days", translations said "미정", "<UNKNOWN>", a heading
+// ("고양 가는 방법") or an invented "3~4일" (Bilbao) — 59 values, 2026-10-01.
+test('regions.json: a translation has no field its English lacks', () => {
+  const regions = JSON.parse(readFileSync(new URL('regions.json', DIR), 'utf8'));
+  const extra = [];
+  for (const [city, v] of Object.entries(regions)) {
+    if (!v.en) continue; // hand-written cities keep their English elsewhere
+    for (const k of ['blurb', 'getting', 'days']) {
+      if (typeof v.en[k] === 'string' && v.en[k].trim()) continue;
+      for (const l of ['ko', 'ja', 'es', 'zh']) if (v[l]?.[k]) extra.push(`${city}.${l}.${k}`);
+    }
+  }
+  assert.deepEqual(extra.slice(0, 10), [], `${extra.length} translated field(s) with no English`);
+});
+
+// A translation is an intro, not a stub: Langkawi.es was
+// {ko:'placeholder', ja:'placeholder', …}, Monza.es nested its intro one level
+// down under "es", and Bacolod.zh said "describes here"
+// in all three fields (2026-10-01).
+test('regions.json: every language block is a real intro', () => {
+  const regions = JSON.parse(readFileSync(new URL('regions.json', DIR), 'utf8'));
+  const FIELDS = new Set(['blurb', 'getting', 'days', 'metaTitle', 'metaDesc']);
+  const STUB = /^(placeholder|describes here|<?unknown>?|tbd|n\/a|미정|未定|待定|por (determinar|confirmar))$/i;
+  const bad = [];
+  for (const [city, v] of Object.entries(regions)) {
+    for (const [l, o] of Object.entries(v)) {
+      if (!o || typeof o !== 'object') { bad.push(`${city}.${l}: not an object`); continue; }
+      for (const [k, s] of Object.entries(o)) {
+        if (!FIELDS.has(k)) bad.push(`${city}.${l}.${k}: unknown field`);
+        else if (typeof s !== 'string' || STUB.test(s.trim())) bad.push(`${city}.${l}.${k}: "${s}"`);
+      }
+    }
+  }
+  assert.deepEqual(bad.slice(0, 10), [], `${bad.length} stub value(s)`);
+});
