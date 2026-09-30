@@ -261,7 +261,7 @@
               "note": "연장 불가"
             },
             {
-              "name": "Visitor visa",
+              "name": "방문자 비자(Visitor visa)",
               "code": "600",
               "who": "모든 국적",
               "cost": "신청 수수료(금액 미기재)",
@@ -483,7 +483,7 @@
               "note": "延長不可"
             },
             {
-              "name": "Visitor visa",
+              "name": "訪問者ビザ（Visitor visa）",
               "code": "600",
               "who": "全ての国籍",
               "cost": "申請手数料（金額未記載）",
@@ -705,7 +705,7 @@
               "note": "No se puede extender"
             },
             {
-              "name": "Visitor visa",
+              "name": "Visado de visitante (Visitor visa)",
               "code": "600",
               "who": "Todas las nacionalidades",
               "cost": "Tarifa de solicitud (monto no especificado)",
@@ -927,7 +927,7 @@
               "note": "不可延期"
             },
             {
-              "name": "Visitor visa",
+              "name": "访客签证（Visitor visa）",
               "code": "600",
               "who": "所有国籍",
               "cost": "申请费用（未注明金额）",

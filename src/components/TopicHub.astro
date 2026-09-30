@@ -70,13 +70,30 @@ const rows = guides.map((g) => {
   const E: any = fe.en; // English labels, only to sort emergency numbers into columns
   const visa0 = F.visa?.cards?.[0];
   const card = (kk: string) => F.summary?.find((x: any) => x.key === kk);
-  const entryCard = card('entry') ?? (visa0 ? { title: visa0.name, sub: [visa0.stay, visa0.cost].filter(Boolean).join(' · ') } : null);
+  // No country-wide entry card: one visa card can stand for the country, but
+  // several are per-nationality ("Visa-free (US/Canada/…)" read to a Korean as
+  // "not me" on Hong Kong — subagent review, 10-01): say so, and list them.
+  const vCards: any[] = F.visa?.cards ?? [];
+  const entryCard = card('entry') ?? (vCards.length > 1
+    ? { title: s('byPassport'), sub: vCards.map((c: any) => c.name).join(' · ') }
+    : visa0 ? { title: visa0.name, sub: [visa0.stay, visa0.cost].filter(Boolean).join(' · ') } : null);
   const moneyCard = card('money') ?? (F.money?.budget ? { title: F.money.budget.amount, sub: F.money.budget.label } : F.money?.tips?.[0] ? { title: F.money.tips[0].title, sub: '' } : null);
   const transportCard = card('transport') ?? (F.transport?.tips?.[0] ? { title: F.transport.tips[0].title, sub: '' } : null);
-  // Season: a month is "best" if any row says so, else "busy", else "avoid".
-  const best = new Set<number>([...(F.season?.best ?? []), ...(F.season?.rows ?? []).flatMap((r: any) => r.best ?? [])]);
-  const busy = new Set<number>((F.season?.rows ?? []).flatMap((r: any) => r.busy ?? []));
-  const avoid = new Set<number>((F.season?.rows ?? []).flatMap((r: any) => r.avoid ?? []));
+  // Season, for the COUNTRY: the guide's own country-wide best months
+  // (season.best) plus rows that speak for the whole country ("Whole country",
+  // "Peninsula overall"). Region and niche rows stay on the country page:
+  // unioning them painted India best in July (Ladakh), Uzbekistan in August
+  // (Nuratau), the Philippines in typhoon season ("Shoulder months") and the
+  // UAE in May (subagent review, 10-01). Only a guide with no country-wide
+  // months falls back to all its rows (Japan's are nationwide seasons).
+  const sRows: any[] = F.season?.rows ?? [];
+  const sEn: any[] = E?.season?.rows ?? [];
+  const national = sRows.filter((_: any, i: number) => /whole country|overall|nationwide|entire country/i.test(String(sEn[i]?.label ?? '')));
+  const top: number[] = F.season?.best ?? [];
+  const useRows = top.length ? national : sRows;
+  const best = new Set<number>([...top, ...useRows.flatMap((r: any) => r.best ?? [])]);
+  const busy = new Set<number>(useRows.flatMap((r: any) => r.busy ?? []));
+  const avoid = new Set<number>(useRows.flatMap((r: any) => r.avoid ?? []));
   const monthOf = (m: number) => (best.has(m) ? 'best' : busy.has(m) ? 'busy' : avoid.has(m) ? 'avoid' : '');
   const nums = (F.emergency?.numbers ?? []).map((n: any, i: number) => ({ ...n, en: String(E?.emergency?.numbers?.[i]?.label ?? '') }));
   // Sorted by the ENGLISH label. A unified number (Australia's Triple Zero, the

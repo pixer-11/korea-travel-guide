@@ -53,6 +53,9 @@ const rows = guides
     const card = (key: string) => F?.summary?.find((s: any) => s.key === key)
       // No vetted entry summary (Hong Kong's named an office the guide does not):
       // the first vetted visa card says the same thing in its own words.
+      // …unless the guide has several per-nationality cards: then the country's
+      // answer is "it depends", with the cards named (10-01, Hong Kong).
+      ?? (key === 'entry' && (F?.visa?.cards?.length ?? 0) > 1 ? { title: h('byPassport'), sub: F.visa.cards.map((c: any) => c.name).join(' · ') } : null)
       ?? (key === 'entry' && visa0 ? { title: visa0.name, sub: [visa0.stay, visa0.cost].filter(Boolean).join(' · ') } : null);
     const nums = (F?.emergency?.numbers ?? []).slice(0, 2);
     const pw = plugs[g.data.country];
