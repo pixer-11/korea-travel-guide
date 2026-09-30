@@ -8588,13 +8588,6 @@
   "worst": "常連のようにピンチョスを注文するなら、カウンターで小皿を手に取り、欲しいものを指差して選び、メニューを求めるのではなく自分の皿を積み重ねていくのがコツです。",
   "at": "2026-08-15T06:23:38.793Z"
  },
- "ja/bocaue-post-malone-live-in-manila": {
-  "hash": "0afb1d6f00b0",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "ドーム状の屋根の下に広がる客席は反対側の観客が小さく見えるほど大きく弧を描き、オープニングアクトが終わる頃には総立ちのフロア席が密集した揺れる人の波と化します。",
-  "at": "2026-08-15T06:23:40.706Z"
- },
  "ja/bodrum-bodrum-castle": {
   "hash": "2838889fbfed",
   "score": 1,
@@ -16120,13 +16113,6 @@
   "worst": "파사드에는 지금도 화려한 페인트 글씨와 철제 장식이 남아 있어 술집보다는 19세기 약국처럼 보일 정도입니다.",
   "at": "2026-09-21T03:37:05.997Z"
  },
- "ko/bocaue-post-malone-live-in-manila": {
-  "hash": "d4b3768756b3",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "최신 월드투어가 2026년 9월 29일 보카우에를 거친다는 소식이 전해졌을 때, 이 공연은 이미...",
-  "at": "2026-09-21T03:37:06.180Z"
- },
  "ko/bodrum-bodrum-castle": {
   "hash": "61a64dbd799a",
   "score": 1,
@@ -23497,13 +23483,6 @@
   "registerBreak": false,
   "worst": "大多数初次到访的人常犯的错误，是周五晚上9点整准点到店，还指望能有宽敞的空间——把时间提前或推后一两个小时，整个体验就会轻松许多。",
   "at": "2026-08-15T03:45:03.220Z"
- },
- "zh/bocaue-post-malone-live-in-manila": {
-  "hash": "b85d88428dba",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "当他最新世界巡演将于2026年9月29日途经布拉考(Bocaue)的消息传出时,这座场馆早已是...",
-  "at": "2026-08-15T03:45:03.581Z"
  },
  "zh/bodrum-bodrum-castle": {
   "hash": "4a2584590998",
@@ -30882,5 +30861,89 @@
   "registerBreak": false,
   "worst": "客流数据的结论很明确：工作日上午10点至下午4点最清静。",
   "at": "2026-09-29T14:26:22.027Z"
+ },
+ "es/ayutthaya-ayutthaya-royal-palace": {
+  "hash": "2202c8a9f8f4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Las puertas abren a las 8:00 AM, y el ladrillo retiene el calor durante toda la tarde.",
+  "at": "2026-09-30T09:57:36.032Z"
+ },
+ "es/cappadocia-kaymakli-underground-city": {
+  "hash": "e36b2b885419",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Si llega justo a las 8:00 AM o después de las 5pm (el cierre es a las 7:15 PM)",
+  "at": "2026-09-30T09:57:42.238Z"
+ },
+ "es/clarke-quay-boat-quay": {
+  "hash": "6aa76d3819a0",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-09-30T09:57:43.664Z"
+ },
+ "ja/ayutthaya-ayutthaya-royal-palace": {
+  "hash": "ae1f0395a8c5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "歴史公園内では遺跡に登ることが禁止されていて、係員から降りるよう注意されます。",
+  "at": "2026-09-30T09:57:46.364Z"
+ },
+ "ja/cappadocia-kaymakli-underground-city": {
+  "hash": "d54acdcd31c3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "内側にいる人は階層ごと封鎖でき、外からは誰も入り込めなかったのです。",
+  "at": "2026-09-30T09:57:48.206Z"
+ },
+ "ja/clarke-quay-boat-quay": {
+  "hash": "36ba01bff6b8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "ボート・キーは、古いシンガポールと金融街とのすき間にある場所なのです。",
+  "at": "2026-09-30T09:57:55.489Z"
+ },
+ "ko/ayutthaya-ayutthaya-royal-palace": {
+  "hash": "354264b3e9cb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "파괴를 면한 벽돌도 상당수가 훗날 강 하류로 실려 가 초창기 방콕을 짓는 데 쓰였습니다.",
+  "at": "2026-09-30T09:57:57.620Z"
+ },
+ "ko/cappadocia-kaymakli-underground-city": {
+  "hash": "df22c5127fe9",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-09-30T09:57:59.503Z"
+ },
+ "ko/clarke-quay-boat-quay": {
+  "hash": "558f42e89523",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "가장 간단한 방법은 동서선과 남북선이 지나는 래플스 플레이스 MRT역을 이용하는 것입니다.",
+  "at": "2026-09-30T09:58:01.487Z"
+ },
+ "zh/ayutthaya-ayutthaya-royal-palace": {
+  "hash": "9d38c844809a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这正是如今这里几乎没有建筑高过膝盖的原因。",
+  "at": "2026-09-30T09:58:08.826Z"
+ },
+ "zh/cappadocia-kaymakli-underground-city": {
+  "hash": "18b950addd69",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "通道只容一人通过，迎面过来一个四十人的团，大家都得贴着墙等他们走完。",
+  "at": "2026-09-30T09:58:11.721Z"
+ },
+ "zh/clarke-quay-boat-quay": {
+  "hash": "a65052e1f5b5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "华人商贾觉得此处河道的弯曲形似鲤鱼的肚腹，视之为兴旺发达的吉兆，于是南岸渐渐挤满了他们的货仓和店屋。",
+  "at": "2026-09-30T09:58:14.090Z"
  }
 }

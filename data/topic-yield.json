@@ -34,15 +34,15 @@
    "hits": 73
   },
   "noodles": {
-   "attempts": 46,
+   "attempts": 47,
    "hits": 0
   },
   "old quarter": {
-   "attempts": 119,
-   "hits": 61
+   "attempts": 164,
+   "hits": 78
   },
   "local market": {
-   "attempts": 166,
+   "attempts": 167,
    "hits": 60
   },
   "bookshop": {
@@ -50,7 +50,7 @@
    "hits": 6
   },
   "seafood": {
-   "attempts": 66,
+   "attempts": 67,
    "hits": 2
   },
   "hidden gem": {
@@ -190,5 +190,5 @@
    "hits": 1
   }
  },
- "updated": "2026-09-29T14:22:28.493Z"
+ "updated": "2026-09-30T09:59:23.223Z"
 }

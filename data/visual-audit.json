@@ -1100,6 +1100,12 @@
   "reason": "Authentic Ayutthaya temple with Buddha statues",
   "at": "2026-07-25T02:40:40.179Z"
  },
+ "ayutthaya-ayutthaya-royal-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bang_Pa-in_summer_palace%2C_Ayutthaya_province%2C_Thailand.jpg/3840px-Bang_Pa-in_summer_palace%2C_Ayutthaya_province%2C_Thailand.jpg": {
+  "slug": "ayutthaya-ayutthaya-royal-palace",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of palace-like buildings, grounds, and water",
+  "at": "2026-09-30T07:48:06.517Z"
+ },
  "ayutthaya-bueng-phra-ram-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bueng_Phra_Ram.jpg/3840px-Bueng_Phra_Ram.jpg": {
   "slug": "ayutthaya-bueng-phra-ram-park",
   "verdict": "MATCH",
@@ -3703,6 +3709,12 @@
   "reasonKo": "용두산공원 광장과 타워 명확히 보임",
   "at": "2026-08-09T13:34:01.177Z"
  },
+ "byron-bay-cape-byron\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2020-12-19_Cape_Byron.jpg/1920px-2020-12-19_Cape_Byron.jpg": {
+  "slug": "byron-bay-cape-byron",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Cape Byron headland with lighthouse, representative shot",
+  "at": "2026-09-30T09:59:23.200Z"
+ },
  "byron-bay-cape-byron-lighthouse\u0001https://upload.wikimedia.org/wikipedia/commons/2/2b/Cape_Byron_Lighthouse%2C_Byron_Bay.jpg": {
   "slug": "byron-bay-cape-byron-lighthouse",
   "verdict": "MATCH",
@@ -3868,6 +3880,12 @@
   "verdict": "MISMATCH",
   "reason": "Generic Cappadocia rock formations, not restaurant interior/",
   "at": "2026-07-25T02:41:32.740Z"
+ },
+ "cappadocia-kaymakli-underground-city\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kaymakl%C4%B1_Underground_City_large_room.JPG/1920px-Kaymakl%C4%B1_Underground_City_large_room.JPG": {
+  "slug": "cappadocia-kaymakli-underground-city",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative underground tunnel/rooms view of Kaymakli",
+  "at": "2026-09-30T07:40:07.018Z"
  },
  "cappadocia-pigeon-valley\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Cappadocia_balloon_trip%2C_Ortahisar_Castle_%2811893715185%29.jpg/1920px-Cappadocia_balloon_trip%2C_Ortahisar_Castle_%2811893715185%29.jpg": {
   "slug": "cappadocia-pigeon-valley",
@@ -4919,6 +4937,12 @@
   "reason": "publish gate: Iconic exterior view of ArtScience Museum, Singapore skyline",
   "at": "2026-08-25T08:08:26.664Z"
  },
+ "clarke-quay-boat-quay\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Boat_quay_sct.JPG/1920px-Boat_quay_sct.JPG": {
+  "slug": "clarke-quay-boat-quay",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Boat Quay riverside shophouses in Singapore",
+  "at": "2026-09-30T07:49:02.366Z"
+ },
  "clarke-quay-clarke-quay-jetty\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Clarke_Quay%2C_Singapore_%2842344723700%29.jpg/1920px-Clarke_Quay%2C_Singapore_%2842344723700%29.jpg": {
   "slug": "clarke-quay-clarke-quay-jetty",
   "verdict": "MATCH",
@@ -5128,6 +5152,12 @@
   "reason": "Cham stone sculptures displayed in museum setting.",
   "reasonKo": "박물관 내 참 석조 조각상 전시",
   "at": "2026-08-18T13:26:47.177Z"
+ },
+ "da-nang-dragon-bridge\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Da_Nang_Dragon_Bridge_%28I%29.jpg/3840px-Da_Nang_Dragon_Bridge_%28I%29.jpg": {
+  "slug": "da-nang-dragon-bridge",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear representative view of Dragon Bridge, Da Nang",
+  "at": "2026-09-30T07:41:01.085Z"
  },
  "da-nang-my-son\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/2024_-_M%E1%BB%B9_S%C6%A1n_Group_B%2C_C_and_D_-_img_23.jpg/1920px-2024_-_M%E1%BB%B9_S%C6%A1n_Group_B%2C_C_and_D_-_img_23.jpg": {
   "slug": "da-nang-my-son",
@@ -7905,6 +7935,12 @@
   "reason": "patrol re-check: Steam train on rails at railway park, representative view",
   "at": "2026-08-15T15:04:11.039Z"
  },
+ "hue-an-dinh-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/An_Dinh_Palace_-_Cung_An_%C4%90%E1%BB%8Bnh_%282024%29_-_front_facade_-_img_05.jpg/3840px-An_Dinh_Palace_-_Cung_An_%C4%90%E1%BB%8Bnh_%282024%29_-_front_facade_-_img_05.jpg": {
+  "slug": "hue-an-dinh-palace",
+  "verdict": "MATCH",
+  "reason": "publish gate: Ornate palace facade, representative exterior view of An Dinh",
+  "at": "2026-09-30T07:54:11.551Z"
+ },
  "hue-dong-ba-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Dong_Ba_Market_%28Hue%29_-_Ch%E1%BB%A3_%C4%90%C3%B4ng_Ba_Hu%E1%BA%BF_%28July_2024%29_-_img_02.jpg/1920px-Dong_Ba_Market_%28Hue%29_-_Ch%E1%BB%A3_%C4%90%C3%B4ng_Ba_Hu%E1%BA%BF_%28July_2024%29_-_img_02.jpg": {
   "slug": "hue-dong-ba-market",
   "verdict": "MATCH",
@@ -9421,6 +9457,12 @@
   "reasonKo": "조호바루 레고랜드 건물 외관",
   "at": "2026-08-19T13:29:08.453Z"
  },
+ "johor-bahru-tan-hiok-nee\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/56_Jalan_Tan_Hiok_Nee%2C_Johor_Bahru_%282025%29_-_img_04.jpg/3840px-56_Jalan_Tan_Hiok_Nee%2C_Johor_Bahru_%282025%29_-_img_04.jpg": {
+  "slug": "johor-bahru-tan-hiok-nee",
+  "verdict": "MATCH",
+  "reason": "publish gate: Street view of iconic red heritage building on Tan Hiok Nee street",
+  "at": "2026-09-30T07:51:46.658Z"
+ },
  "jordan-australia-dairy-company\u0001https://upload.wikimedia.org/wikipedia/commons/3/39/Australia_Dairy_Company_outlook.JPG": {
   "slug": "jordan-australia-dairy-company",
   "verdict": "MATCH",
@@ -10488,6 +10530,12 @@
   "reason": "Beachfront park with gazebo, tropical setting fits venue",
   "reasonKo": "해변공원, 정자, 열대지역 설정 일치",
   "at": "2026-08-03T14:29:18.426Z"
+ },
+ "krabi-emerald-pool\u0001https://upload.wikimedia.org/wikipedia/commons/c/ca/Emerald_pool_park%2C_Krabi_province%2C_Thailand_2018_6.jpg": {
+  "slug": "krabi-emerald-pool",
+  "verdict": "MATCH",
+  "reason": "publish gate: Forest pool matches Emerald Pool's natural jungle setting",
+  "at": "2026-09-30T07:50:01.633Z"
  },
  "krabi-into-the-forest\u0001https://fastly.4sqi.net/img/general/original/192655554_7znbIxg0f1-yYQatjd3_yBgfdwPUa_2zlPrAGNvaO6s.jpg": {
   "slug": "krabi-into-the-forest",
@@ -13270,6 +13318,12 @@
   "reason": "Image shows barber shop, not coffee roastery",
   "at": "2026-07-25T02:46:48.568Z"
  },
+ "nagoya-nagoya-castle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Nagoya_Castle_7.jpg/1920px-Nagoya_Castle_7.jpg": {
+  "slug": "nagoya-nagoya-castle",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear representative exterior view of Nagoya Castle",
+  "at": "2026-09-30T07:43:13.103Z"
+ },
  "nagoya-noritake-garden\u0001https://fastly.4sqi.net/img/general/original/24392102_6y_JHt2YHw_BbzpQnJ39XJAceFOs7wfyJF32bEcj0go.jpg": {
   "slug": "nagoya-noritake-garden",
   "verdict": "MISMATCH",
@@ -13473,6 +13527,12 @@
   "verdict": "MISMATCH",
   "reason": "Image shows donut shop, not coffee roaster",
   "at": "2026-07-25T02:46:55.228Z"
+ },
+ "nara-gango-ji-gokurakubo\u0001https://upload.wikimedia.org/wikipedia/commons/2/2b/Gango-ji_Gokurakubo.jpg": {
+  "slug": "nara-gango-ji-gokurakubo",
+  "verdict": "MATCH",
+  "reason": "publish gate: Traditional Japanese temple building, matches Gango-ji architecture",
+  "at": "2026-09-30T07:50:47.596Z"
  },
  "nara-mizuya-chaya\u0001https://fastly.4sqi.net/img/general/original/10469860_Cjxy4-AuDDr7n4Mt2gDsEiSrcmi8s7I2q38wWYSWTcw.jpg": {
   "slug": "nara-mizuya-chaya",
@@ -14656,6 +14716,12 @@
   "verdict": "MATCH",
   "reason": "Dotonbori canal street with restaurants and signage",
   "at": "2026-07-25T02:47:35.021Z"
+ },
+ "osaka-hozenji-yokocho\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hozenji_Yokocho_at_night.jpg/3840px-Hozenji_Yokocho_at_night.jpg": {
+  "slug": "osaka-hozenji-yokocho",
+  "verdict": "MATCH",
+  "reason": "publish gate: Nighttime alley with lanterns, matches Hozenji Yokocho atmosphere",
+  "at": "2026-09-30T07:55:27.122Z"
  },
  "osaka-kuromon-market\u0001https://upload.wikimedia.org/wikipedia/commons/d/dd/Kuromon_Ichiba_Market_at_Lalaport_Kadoma2.jpg": {
   "slug": "osaka-kuromon-market",
@@ -16892,6 +16958,12 @@
   "reasonKo": null,
   "at": "2026-08-14T16:51:10.344Z"
  },
+ "sapporo-historical-village-of-hokkaido\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/220722_Historical_Village_of_Hokkaido_Sapporo_Hokkaido_Japan25s12.jpg/3840px-220722_Historical_Village_of_Hokkaido_Sapporo_Hokkaido_Japan25s12.jpg": {
+  "slug": "sapporo-historical-village-of-hokkaido",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior of historical building with period bedding/artifacts, Hokkaido-style",
+  "at": "2026-09-30T07:46:12.175Z"
+ },
  "sapporo-hokkaido-jingu\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/%28JPN-Hokkaido%29_Hokkaido_Shrine_2026-06-06.jpg/1920px-%28JPN-Hokkaido%29_Hokkaido_Shrine_2026-06-06.jpg": {
   "slug": "sapporo-hokkaido-jingu",
   "verdict": "MATCH",
@@ -18363,6 +18435,12 @@
   "verdict": "MATCH",
   "reason": "patrol re-check: Chinese archway entrance, plausible entrance to Hollywood Road Park",
   "at": "2026-08-12T21:03:50.808Z"
+ },
+ "sheung-wan-lan-kwai-fong\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/LKF_Street_View01.jpg/1920px-LKF_Street_View01.jpg": {
+  "slug": "sheung-wan-lan-kwai-fong",
+  "verdict": "MATCH",
+  "reason": "publish gate: Nightlife street scene matches Lan Kwai Fong bar district",
+  "at": "2026-09-30T07:41:55.891Z"
  },
  "sheung-wan-liang-yi-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/LiangYi-Exterior.jpg/1920px-LiangYi-Exterior.jpg": {
   "slug": "sheung-wan-liang-yi-museum",
@@ -21144,6 +21222,12 @@
   "reason": "publish gate: Park scene with autumn trees, plausible for Parco del Valentino",
   "at": "2026-08-28T08:59:10.060Z"
  },
+ "turin-piazza-san-carlo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Turin_piazza_san_carlo_2009.JPG/1920px-Turin_piazza_san_carlo_2009.JPG": {
+  "slug": "turin-piazza-san-carlo",
+  "verdict": "MATCH",
+  "reason": "publish gate: Piazza with statue, buildings, and church towers, Turin",
+  "at": "2026-09-30T07:44:16.904Z"
+ },
  "turin-royal-palace-of-turin\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Torino_-_Palazzo_Reale_-_1.jpg/1920px-Torino_-_Palazzo_Reale_-_1.jpg": {
   "slug": "turin-royal-palace-of-turin",
   "verdict": "MATCH",
@@ -21393,6 +21477,12 @@
   "reason": "patrol re-check: Clear frontal view of Saint Mark's Basilica facade",
   "at": "2026-08-16T20:36:37.980Z"
  },
+ "venice-squero-vecio\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Venedig_Squero_Vecio_Caorlina-20110312-RM-085103.jpg/3840px-Venedig_Squero_Vecio_Caorlina-20110312-RM-085103.jpg": {
+  "slug": "venice-squero-vecio",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Squero Vecio boatyard with workers and gondolas",
+  "at": "2026-09-30T07:53:15.753Z"
+ },
  "venice-venice-international-film-festival-mostra-del-cinema\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Chloe_Sevigny_at_the_2025_Venice_Film_Festival.jpg/1920px-Chloe_Sevigny_at_the_2025_Venice_Film_Festival.jpg": {
   "slug": "venice-venice-international-film-festival-mostra-del-cinema",
   "verdict": "MATCH",
@@ -21452,6 +21542,12 @@
   "verdict": "MATCH",
   "reason": "patrol re-check: Plaza with statue monument, plausible representative hero for the plaza",
   "at": "2026-08-16T20:36:47.115Z"
+ },
+ "wan-chai-central-plaza\u0001https://upload.wikimedia.org/wikipedia/commons/e/ea/HK_Central_Waterfront_Promenade_%26_Public_Pier_9_view_Wan_Chai_North_Central_Plaza_Nov-2012.JPG": {
+  "slug": "wan-chai-central-plaza",
+  "verdict": "MATCH",
+  "reason": "publish gate: Central Plaza tower visible in Hong Kong skyline view",
+  "at": "2026-09-30T07:38:52.664Z"
  },
  "wan-chai-golden-bauhinia-square\u0001https://fastly.4sqi.net/img/general/original/41798359_YbTSmeRY2_hdncx5pHJ9nFdy7xu30nHBEDM3a7O__5k.jpg": {
   "slug": "wan-chai-golden-bauhinia-square",
@@ -21856,6 +21952,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Hong Kong street food scene, not Yogyakarta restaurant",
   "at": "2026-09-19T21:42:00.818Z"
+ },
+ "yogyakarta-keraton-ngayogyakarta-hadiningrat\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Jogja_-_Kraton_Yogyakarta_-_Donopratono_gate_%282025%29_-_img_02.jpg/1920px-Jogja_-_Kraton_Yogyakarta_-_Donopratono_gate_%282025%29_-_img_02.jpg": {
+  "slug": "yogyakarta-keraton-ngayogyakarta-hadiningrat",
+  "verdict": "MATCH",
+  "reason": "publish gate: Represents Keraton entrance pavilion with guardian statues in Yogyakarta",
+  "at": "2026-09-30T07:47:15.794Z"
  },
  "yogyakarta-museum-sonobudoyo-unit-i\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Museum_Sonobudoyo%2C_Jogja_%282025%29_-_img_04.jpg/3840px-Museum_Sonobudoyo%2C_Jogja_%282025%29_-_img_04.jpg": {
   "slug": "yogyakarta-museum-sonobudoyo-unit-i",

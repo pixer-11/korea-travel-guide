@@ -25,7 +25,7 @@ Busan, South Korea — 13 qualifying post(s), variants: 3
 Dubai, United Arab Emirates — 13 qualifying post(s), variants: 3
   = Dubai 3d — unchanged, skipping
 
-Hong Kong, Hong Kong — 85 qualifying post(s), variants: 3, 5
+Hong Kong, Hong Kong — 87 qualifying post(s), variants: 3, 5
   = Hong Kong 3d — unchanged, skipping
   = Hong Kong 5d — unchanged, skipping
 
@@ -47,7 +47,7 @@ New York, United States — 16 qualifying post(s), variants: 3
 Siem Reap, Cambodia — 16 qualifying post(s), variants: 3
   = Siem Reap 3d — unchanged, skipping
 
-Singapore, Singapore — 76 qualifying post(s), variants: 3, 5
+Singapore, Singapore — 77 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
   = Singapore 5d — unchanged, skipping
 
