@@ -162,7 +162,7 @@ const jsonLd = {
     <section class="exh-hero">
       <div class="wrap exh-hero-grid">
         <div>
-          <nav class="exh-crumbs" aria-label="breadcrumb"><a href={localizePath('/', lang)}>{t('post.home')}</a><span aria-hidden="true">·</span><span>{t('home.travelEssentials')}</span></nav>
+          <nav class="exh-crumbs" aria-label={t('a11y.breadcrumb')}><a href={localizePath('/', lang)}>{t('post.home')}</a><span aria-hidden="true">·</span><span>{t('home.travelEssentials')}</span></nav>
           <p class="exh-badge">{h('badge', { n })}</p>
           <h1 class="exh-h1">{h('h1a')}<span>{h('h1b')}</span></h1>
           <p class="exh-dek">{h('dek')}</p>
@@ -407,7 +407,7 @@ const jsonLd = {
   .exh-crumbs a { color: inherit; text-decoration: none; }
   .exh-crumbs span:last-child { color: var(--ink); font-weight: 700; }
   .exh-badge { display: inline-block; margin: 0 0 .9rem; padding: .25rem .75rem; border-radius: var(--r-pill); background: var(--x-leaf); color: var(--pine); font-size: .82rem; font-weight: 700; }
-  .exh-h1 { font-family: var(--font-display); font-size: clamp(2.1rem, 5.4vw, 3.4rem); line-height: 1.12; letter-spacing: -0.02em; margin: 0 0 1rem; color: var(--ink); word-break: keep-all; }
+  .exh-h1 { font-family: var(--font-display); font-size: clamp(2.1rem, 5.4vw, 3.4rem); line-height: 1.12; letter-spacing: -0.02em; margin: 0 0 1rem; color: var(--ink); word-break: keep-all; overflow-wrap: anywhere; }
   .exh-h1 span { display: block; color: var(--x-brown); }
   :global(:root[data-theme='dark']) .exh-h1 span { color: #e8a577; }
   @media (prefers-color-scheme: dark) { :global(:root:not([data-theme='light'])) .exh-h1 span { color: #e8a577; } }
@@ -431,7 +431,7 @@ const jsonLd = {
   .exh-check { flex: none; display: grid; place-items: center; width: 2.4rem; height: 2.4rem; border-radius: 50%; background: var(--x-leaf); color: var(--pine); font-weight: 800; }
   .exh-reviewed strong { display: block; font-size: .92rem; color: var(--ink); }
   .exh-reviewed small { display: block; font-size: .8rem; color: var(--muted); line-height: 1.4; margin-top: .1rem; }
-  @media (max-width: 859px) { .exh-hero-grid { grid-template-columns: 1fr; } .exh-photo { aspect-ratio: 16 / 11; border-radius: 28px; } }
+  @media (max-width: 859px) { .exh-hero-grid { grid-template-columns: minmax(0, 1fr); } .exh-photo { aspect-ratio: 16 / 11; border-radius: 28px; } }
 
   /* Summary panel */
   .exh-summary { background: var(--x-night); color: var(--x-on-dark); border-radius: 30px; padding: 1.8rem 1.8rem 1.6rem; }

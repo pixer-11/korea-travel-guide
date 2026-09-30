@@ -1,0 +1,404 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Newsletter from './Newsletter.astro';
+import { siteHref } from '../lib/urls.mjs';
+import { thumbOr } from '../lib/wall';
+import { heroOf, TOOL_OG } from '../lib/toolOgPhoto.mjs';
+import { hubRegion, type HubRegion } from '../lib/countryTime';
+import { topCats, HUB_CATS, type HubCat } from '../lib/itineraryCats';
+import { bodyHash } from '../../scripts/lib/essentials-facts.mjs';
+import essentialsFacts from '../../data/essentials-facts.json';
+import countriesData from '../../data/countries.json';
+import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
+import { localizePlace } from '../i18n/places';
+import { itinUi } from '../i18n/itinerary-ui-strings';
+
+// Shared /itinerary hub for en + /[lang]/itinerary (the two pages were copies of
+// each other until 2026-09-30). Redesign after the owner's "일정 목록 개선안":
+// a "how many days?" hero with a 30-second finder, courses good this month,
+// one card per CITY holding its 3- and 5-day courses, the four promises, the
+// newsletter. Everything is read from the itineraries and their stops' posts,
+// so a new course or city appears on the next build with no edit here.
+interface Props { lang: Lang }
+const { lang } = Astro.props as Props;
+const t = useTranslations(lang);
+const u = itinUi(lang);
+const locale = localeCodes[lang];
+
+const itineraries = await getCollection('itineraries', ({ data }) => !data.draft);
+const posts = await getCollection('posts', ({ data }) => !data.draft);
+const postsById = new Map(posts.map((p) => [p.id, p]));
+const trBySlug = lang === 'en' ? new Map<string, any>()
+  : new Map((await getCollection('itinerariesI18n', ({ data }) => data.lang === lang)).map((x) => [x.data.slug, x.data]));
+const byCountryName = new Map(countriesData.countries.map((c) => [c.name, c]));
+
+// ── one entry per city, its courses inside ──
+const cityMap = new Map<string, any>();
+for (const it of itineraries) {
+  const tr = trBySlug.get(it.id);
+  const stops = it.data.itinerary.flatMap((d) => d.stops.map((s) => postsById.get(s.slug))).filter(Boolean) as any[];
+  const course = {
+    id: it.id, days: it.data.days, href: localizePath(`/itinerary/${it.id}`, lang),
+    title: tr?.title ?? it.data.title,
+    dayLabels: it.data.itinerary.map((d, i) => tr?.days?.[i]?.label ?? d.label),
+    stopCount: stops.length, stops,
+  };
+  const key = `${it.data.country}|${it.data.city}`;
+  const c = cityMap.get(key) ?? { city: it.data.city, country: it.data.country, courses: [] as any[] };
+  c.courses.push(course);
+  cityMap.set(key, c);
+}
+const collator = new Intl.Collator(locale);
+const cities = [...cityMap.values()].map((c) => {
+  c.courses.sort((a: any, b: any) => a.days - b.days);
+  const ctry: any = byCountryName.get(c.country);
+  const allStops = c.courses.flatMap((x: any) => x.stops);
+  // The card's photo: the first stop that HAS one (a first stop without a hero
+  // left New York, Seoul and Siem Reap as blank beige cards).
+  const photoPost = allStops.find((p: any) => p.data.heroImage?.url && p.data.heroImage.license !== 'placeholder');
+  return {
+    ...c,
+    key: String(c.city).toLowerCase().replace(/\s+/g, '-'),
+    label: localizePlace(c.city, lang), countryLabel: localizePlace(c.country, lang),
+    region: hubRegion(ctry?.continent, String(ctry?.iso2 ?? '')) as HubRegion,
+    cats: topCats(allStops, 3),
+    // The finder matches EVERY bucket a city has at least once; the card shows
+    // only its top three (Tokyo's views and art were filtered out before).
+    allCats: topCats(allStops, 5),
+    photo: photoPost ? thumbOr(photoPost.data.heroImage.url) : '',
+    focus: photoPost?.data.heroImage.focus ? `${photoPost.data.heroImage.focus.x}% ${photoPost.data.heroImage.focus.y}%` : '50% 50%',
+    maxStops: Math.max(...c.courses.map((x: any) => x.stopCount)),
+  };
+}).sort((a, b) => collator.compare(a.label, b.label));
+
+const courseCount = itineraries.length;
+const dayOptions = [...new Set(itineraries.map((i) => i.data.days))].sort((a, b) => a - b);
+const regionOptions = (['asia', 'europe', 'meca', 'amoc'] as HubRegion[]).filter((r) => cities.some((c) => c.region === r));
+const catOptions = HUB_CATS.filter((k) => cities.some((c) => c.cats.includes(k)));
+const CAT_LABEL: Record<HubCat, string> = { history: u('catHistory'), food: u('catFood'), nature: u('catNature'), views: u('catViews'), art: u('catArt') };
+const REGION_LABEL: Record<HubRegion, string> = { asia: u('rAsia'), europe: u('rEurope'), meca: u('rMeca'), amoc: u('rAmOc') };
+const daysText = dayOptions.join('·');
+
+// ── good this month: countries whose essentials guide lists this month among
+// its best (vetted cards, only while the guide is unchanged) ──
+const today = new Date();
+const month = today.getUTCMonth() + 1;
+const monthName = new Intl.DateTimeFormat(locale, { month: 'long', timeZone: 'UTC' }).format(today);
+const guides = await getCollection('essentials', ({ data }) => !data.draft);
+const facts = (essentialsFacts as any).countries ?? {};
+const seasonOf = new Map<string, { good: boolean; line: string }>();
+for (const g of guides) {
+  const fe = facts[g.data.country];
+  if (!fe || fe.srcHash !== bodyHash(String(g.body ?? ''))) continue;
+  const F = lang === 'en' ? fe.en : fe[lang];
+  const best: number[] = fe.en?.season?.best ?? [];
+  const card = F?.summary?.find((s: any) => s.key === 'season');
+  seasonOf.set(g.data.country, { good: best.includes(month), line: card ? [card.title, card.sub].filter(Boolean).join(' · ') : '' });
+}
+const picks: any[] = [];
+for (const c of [...cities].sort((a, b) => b.maxStops - a.maxStops)) {
+  if (picks.length >= 3) break;
+  if (!seasonOf.get(c.country)?.good) continue;
+  if (picks.some((p) => p.country === c.country)) continue;
+  picks.push(c);
+}
+
+const title = u('seoTitle', { days: daysText });
+const description = u('dek', { n: courseCount, c: cities.length, days: daysText });
+const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const pageUrl = siteHref(Astro.url.pathname, Astro.site);
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'CollectionPage', name: title, description, url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
+    { '@type': 'BreadcrumbList', itemListElement: [
+      { '@type': 'ListItem', position: 1, name: t('post.home'), item: siteHref(localizePath('/', lang), Astro.site) },
+      { '@type': 'ListItem', position: 2, name: t('itin.indexEyebrow'), item: pageUrl },
+    ] },
+    { '@type': 'ItemList', itemListElement: cities.flatMap((c) => c.courses).map((x: any, i: number) => ({ '@type': 'ListItem', position: i + 1, url: siteHref(x.href, Astro.site), name: x.title })) },
+  ],
+};
+const ICON = {
+  route: 'M9 4L3 6v14l6-2 6 2 6-2V4l-6 2-6-2zM9 4v14M15 6v14',
+  quiet: 'M12 7v5l3 2M12 21a9 9 0 1 0 0-18 9 9 0 0 0 0 18z',
+  closed: 'M7 3v3M17 3v3M4 9h16M5 5h14a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1z',
+  rain: 'M7 16a4 4 0 0 1-.5-7.97A6 6 0 0 1 18 9a3.5 3.5 0 0 1 0 7M8 19l-1 2M12 19l-1 2M16 19l-1 2',
+};
+const features = [
+  { icon: ICON.route, h: u('featRouteT'), p: u('featRouteD'), tone: 'leaf' },
+  { icon: ICON.quiet, h: u('featQuietT'), p: u('featQuietD'), tone: 'peach' },
+  { icon: ICON.closed, h: u('featClosedT'), p: u('featClosedD'), tone: 'sand' },
+  { icon: ICON.rain, h: u('featRainT'), p: u('featRainD'), tone: 'leaf' },
+];
+---
+
+<BaseLayout image={heroOf(posts, TOOL_OG.itinerary)} title={title} description={description} jsonLd={jsonLd} localized={true}>
+  <div class="ixh" data-ixh data-fshow={u('fShow')}>
+    <section class="ixh-hero">
+      <div class="wrap ixh-hero-grid">
+        <div>
+          <nav class="ixh-crumbs" aria-label={t('a11y.breadcrumb')}><a href={localizePath('/', lang)}>{t('post.home')}</a><span aria-hidden="true">·</span><span>{t('itin.indexEyebrow')}</span></nav>
+          <h1 class="ixh-h1">{u('h1a')}<span>{u('h1b')}</span></h1>
+          <p class="ixh-dek">{description}</p>
+          <ul class="ixh-feats">
+            {[u('feat1'), u('feat2'), u('feat3')].map((f) => <li><span aria-hidden="true">✓</span>{f}</li>)}
+          </ul>
+        </div>
+        <form class="ixh-finder" data-ixh-finder onsubmit="return false">
+          <p class="ixh-finder-kicker">{u('finderKicker')}</p>
+          {dayOptions.length > 1 && (
+            <fieldset>
+              <legend>{u('fDays')}</legend>
+              <div class="ixh-seg">
+                <label><input type="radio" name="days" value="" checked /><span>{u('fAny')}</span></label>
+                {dayOptions.map((d) => <label><input type="radio" name="days" value={String(d)} /><span>{u('fDaysN', { n: d })}</span></label>)}
+              </div>
+            </fieldset>
+          )}
+          {regionOptions.length > 1 && (
+            <fieldset>
+              <legend>{u('fRegion')}</legend>
+              <div class="ixh-seg ixh-seg--wrap">
+                <label><input type="radio" name="region" value="" checked /><span>{u('fAny')}</span></label>
+                {regionOptions.map((r) => <label><input type="radio" name="region" value={r} /><span>{REGION_LABEL[r]}</span></label>)}
+              </div>
+            </fieldset>
+          )}
+          <fieldset>
+            <legend>{u('fInterest')}</legend>
+            <div class="ixh-chips">
+              {catOptions.map((k) => <label><input type="checkbox" name="cat" value={k} /><span>{CAT_LABEL[k]}</span></label>)}
+            </div>
+          </fieldset>
+          <a class="ixh-go" href="#courses" data-ixh-go>{u('fShow', { n: courseCount })}</a>
+        </form>
+      </div>
+    </section>
+
+    {picks.length > 0 && (
+      <section class="section ixh-month">
+        <div class="wrap">
+          <div class="ixh-head"><h2 class="ixh-h2">{u('monthTitle', { m: monthName })}</h2><span>{u('monthSub')}</span></div>
+          <div class="ixh-picks">
+            {picks.map((c, i) => {
+              const x = c.courses[0];
+              return (
+                <a class:list={['ixh-pick', `ixh-pick--${['photo', 'brown', 'forest'][i % 3]}`]} href={x.href}>
+                  {c.photo && <img src={c.photo} alt="" loading="lazy" decoding="async" width="640" height="400" style={`object-position:${c.focus}`} />}
+                  <span class="ixh-pick-body">
+                    <span class="ixh-pill">{u('daysN', { n: x.days })} · {u('stopsN', { n: x.stopCount })}</span>
+                    <strong>{x.title}</strong>
+                    {seasonOf.get(c.country)?.line && <span class="ixh-pick-line">{seasonOf.get(c.country)!.line}</span>}
+                    <span class="ixh-pick-cta">{u('viewCourse')}</span>
+                  </span>
+                </a>
+              );
+            })}
+          </div>
+        </div>
+      </section>
+    )}
+
+    <section class="section" id="courses">
+      <div class="wrap">
+        <div class="ixh-listhead">
+          <strong data-ixh-count>{u('listCount', { n: courseCount, c: cities.length })}</strong>
+          <label class="ixh-sort">{u('sort')}
+            <select data-ixh-sort>
+              <option value="name">{u('sortName')}</option>
+              <option value="stops">{u('sortStops')}</option>
+            </select>
+          </label>
+        </div>
+        <p class="ixh-none" data-ixh-none hidden>{u('fNone')}</p>
+        <div class="ixh-grid" data-ixh-grid>
+          {cities.map((c, ci) => (
+            <article class:list={['ixh-card', `ixh-card--${['brown', 'forest', 'sand'][ci % 3]}`]} data-city-card data-name={c.label} data-stops={c.maxStops}
+              data-days={c.courses.map((x: any) => x.days).join(',')} data-region={c.region} data-cats={c.allCats.join(',')}>
+              <div class="ixh-card-head">
+                {c.photo && <img src={c.photo} alt="" loading="lazy" decoding="async" width="640" height="400" style={`object-position:${c.focus}`} />}
+                <span class="ixh-card-head-in">
+                  <small>{c.countryLabel === c.label ? '' : c.countryLabel}</small>
+                  <h2>{c.label}</h2>
+                  <span class="ixh-tags">{c.cats.map((k: HubCat) => <span>{CAT_LABEL[k]}</span>)}</span>
+                </span>
+              </div>
+              <div class="ixh-card-body">
+                {c.courses.length > 1 && (
+                  <div class="ixh-toggle" role="group" aria-label={u('fDays')}>
+                    {c.courses.map((x: any, i: number) => (
+                      <button type="button" aria-pressed={i === 0 ? 'true' : 'false'} data-course-tab={x.days}>{u('daysN', { n: x.days })}</button>
+                    ))}
+                  </div>
+                )}
+                {c.courses.map((x: any, i: number) => (
+                  <div class="ixh-course" data-course={x.days} hidden={i !== 0}>
+                    <h3><a href={x.href}>{x.title}</a></h3>
+                    <ol>{x.dayLabels.slice(0, 5).map((l: string) => <li>{l}</li>)}</ol>
+                    <p class="ixh-card-foot"><span>{u('routeDone', { n: x.stopCount })}</span><a class="ixh-btn" href={x.href}>{u('viewCourse')}</a></p>
+                  </div>
+                ))}
+              </div>
+            </article>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="wrap ixh-feats-grid">
+        {features.map((f) => (
+          <div class="ixh-feat">
+            <span class:list={['ixh-feat-ico', `ixh-feat-ico--${f.tone}`]} aria-hidden="true"><svg viewBox="0 0 24 24" width="20" height="20"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d={f.icon} /></svg></span>
+            <strong>{f.h}</strong>
+            <span>{f.p}</span>
+          </div>
+        ))}
+      </div>
+    </section>
+  </div>
+
+  <Newsletter lang={lang} heading={u('nlHeading')} dek={u('nlDek')} />
+</BaseLayout>
+
+<script>
+  for (const root of document.querySelectorAll<HTMLElement>('[data-ixh]')) {
+    const form = root.querySelector<HTMLFormElement>('[data-ixh-finder]')!;
+    const cards = [...root.querySelectorAll<HTMLElement>('[data-city-card]')];
+    const grid = root.querySelector<HTMLElement>('[data-ixh-grid]')!;
+    const go = root.querySelector<HTMLAnchorElement>('[data-ixh-go]')!;
+    const none = root.querySelector<HTMLElement>('[data-ixh-none]')!;
+    const showCourse = (card: HTMLElement, days: string) => {
+      for (const tab of card.querySelectorAll<HTMLButtonElement>('[data-course-tab]')) tab.setAttribute('aria-pressed', String(tab.dataset.courseTab === days));
+      for (const c of card.querySelectorAll<HTMLElement>('[data-course]')) c.hidden = c.dataset.course !== days;
+    };
+    for (const card of cards) for (const tab of card.querySelectorAll<HTMLButtonElement>('[data-course-tab]')) tab.addEventListener('click', () => showCourse(card, tab.dataset.courseTab!));
+
+    const apply = () => {
+      const fd = new FormData(form);
+      const days = String(fd.get('days') ?? '');
+      const region = String(fd.get('region') ?? '');
+      const cats = fd.getAll('cat').map(String);
+      let courses = 0;
+      for (const card of cards) {
+        const cardDays = (card.dataset.days || '').split(',');
+        const on = (!days || cardDays.includes(days)) && (!region || card.dataset.region === region)
+          && (!cats.length || cats.some((k) => (card.dataset.cats || '').split(',').includes(k)));
+        card.hidden = !on;
+        if (on) {
+          courses += days ? 1 : cardDays.length;
+          showCourse(card, days && cardDays.includes(days) ? days : cardDays[0]);
+        }
+      }
+      go.textContent = (root.dataset.fshow || '').replace('{n}', String(courses));
+      none.hidden = courses > 0;
+    };
+    form.addEventListener('change', apply);
+
+    const sort = root.querySelector<HTMLSelectElement>('[data-ixh-sort]');
+    const collator = new Intl.Collator(document.documentElement.lang || undefined);
+    sort?.addEventListener('change', () => {
+      const by = sort.value;
+      const sorted = [...cards].sort((a, b) => by === 'stops'
+        ? Number(b.dataset.stops) - Number(a.dataset.stops) || collator.compare(a.dataset.name!, b.dataset.name!)
+        : collator.compare(a.dataset.name!, b.dataset.name!));
+      grid.append(...sorted);
+    });
+  }
+</script>
+
+<style>
+  .ixh { --x-brown-ink: #6b3413; --x-night: #262d1b; --x-forest: #3b4a2c; --x-brown: #6b3413; --x-rust: #c8733f; --x-leaf: #e3ecd0; --x-peach: #fde3d4; --x-sand: #f3e8d8; --x-card: #fbf7ef; --x-on-dark: #f6f1e6; }
+  @media (prefers-color-scheme: dark) { :global(:root:not([data-theme='light'])) .ixh { --x-brown-ink: #f0b184; --x-leaf: #33422a; --x-peach: #3a2620; --x-sand: #2c261d; --x-card: #221f19; } }
+  :global(:root[data-theme='dark']) .ixh { --x-brown-ink: #f0b184; --x-leaf: #33422a; --x-peach: #3a2620; --x-sand: #2c261d; --x-card: #221f19; }
+
+  .ixh-hero { padding: 2.2rem 0 1rem; }
+  .ixh-hero-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 27rem); gap: 2.4rem; align-items: center; }
+  .ixh-crumbs { display: flex; gap: .5rem; font-size: .85rem; color: var(--muted); margin-bottom: 1rem; }
+  .ixh-crumbs a { color: inherit; text-decoration: none; }
+  .ixh-crumbs span:last-child { color: var(--ink); font-weight: 700; }
+  .ixh-h1 { font-family: var(--font-display); font-size: clamp(2rem, 4.6vw, 3rem); line-height: 1.12; letter-spacing: -0.02em; margin: 0 0 1rem; color: var(--ink); word-break: keep-all; overflow-wrap: anywhere; }
+  .ixh-h1 span { display: block; color: var(--x-brown); }
+  :global(:root[data-theme='dark']) .ixh-h1 span { color: #e8a577; }
+  @media (prefers-color-scheme: dark) { :global(:root:not([data-theme='light'])) .ixh-h1 span { color: #e8a577; } }
+  .ixh-dek { color: var(--ink-soft); font-size: 1.05rem; line-height: 1.7; margin: 0 0 1rem; max-width: 34rem; }
+  .ixh-feats { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: .5rem 1.4rem; font-size: .9rem; color: var(--ink-soft); }
+  .ixh-feats li span { color: var(--pine); font-weight: 800; margin-right: .4rem; }
+
+  .ixh-finder { position: relative; overflow: hidden; background: var(--x-night); color: var(--x-on-dark); border-radius: 30px; padding: 1.6rem 1.6rem 1.4rem; display: grid; gap: 1rem; }
+  .ixh-finder::before { content: ''; position: absolute; right: -4rem; top: -4rem; width: 11rem; height: 11rem; border-radius: 50%; background: rgba(255, 255, 255, .06); }
+  .ixh-finder-kicker { margin: 0; font-size: .85rem; font-weight: 700; opacity: .85; position: relative; }
+  .ixh-finder fieldset { border: 0; margin: 0; padding: 0; position: relative; }
+  .ixh-finder legend { font-size: .82rem; font-weight: 700; margin-bottom: .45rem; padding: 0; }
+  .ixh-seg { display: flex; gap: .25rem; padding: .25rem; border-radius: var(--r-pill); background: rgba(255, 255, 255, .08); }
+  .ixh-seg--wrap { flex-wrap: wrap; border-radius: 18px; }
+  .ixh-seg label, .ixh-chips label { position: relative; cursor: pointer; }
+  .ixh-seg label { flex: 1 1 auto; }
+  .ixh-finder input { position: absolute; opacity: 0; width: 1px; height: 1px; }
+  .ixh-seg span { display: block; text-align: center; padding: .45rem .7rem; border-radius: var(--r-pill); font-size: .88rem; font-weight: 700; white-space: nowrap; }
+  .ixh-seg input:checked + span { background: #e3ecd0; color: #262d1b; }
+  .ixh-chips { display: flex; flex-wrap: wrap; gap: .4rem; }
+  .ixh-chips span { display: inline-block; padding: .4rem .85rem; border-radius: var(--r-pill); border: 1px solid rgba(255, 255, 255, .3); font-size: .85rem; font-weight: 700; }
+  .ixh-chips input:checked + span { background: #e3ecd0; border-color: #e3ecd0; color: #262d1b; }
+  .ixh-finder input:focus-visible + span { outline: 2px solid #fff; outline-offset: 2px; }
+  .ixh-go { position: relative; display: block; text-align: center; padding: .75rem 1rem; border-radius: var(--r-pill); background: var(--x-on-dark); color: #262d1b; font-weight: 800; text-decoration: none; }
+  @media (max-width: 899px) { .ixh-hero-grid { grid-template-columns: minmax(0, 1fr); } }
+
+  .ixh-head { display: flex; align-items: baseline; justify-content: space-between; gap: .4rem 1rem; flex-wrap: wrap; margin-bottom: 1.1rem; }
+  .ixh-head span { color: var(--muted); font-size: .88rem; }
+  .ixh-h2 { font-family: var(--font-display); font-size: clamp(1.5rem, 3.6vw, 2rem); margin: 0; color: var(--ink); }
+  .ixh-picks { display: grid; grid-template-columns: 1.3fr 1fr 1fr; gap: 1rem; }
+  .ixh-pick { position: relative; overflow: hidden; display: flex; min-height: 17rem; border-radius: 26px; text-decoration: none; color: #fff; background: var(--x-brown); }
+  .ixh-pick--forest { background: var(--x-forest); }
+  .ixh-pick img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+  .ixh-pick--brown img, .ixh-pick--forest img { opacity: .28; }
+  .ixh-pick--photo::after { content: ''; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(0, 0, 0, .05) 20%, rgba(0, 0, 0, .72)); }
+  .ixh-pick-body { position: relative; z-index: 1; margin-top: auto; display: flex; flex-direction: column; gap: .5rem; padding: 1.4rem; }
+  .ixh-pill { align-self: flex-start; font-size: .75rem; font-weight: 800; padding: .2rem .65rem; border-radius: var(--r-pill); background: var(--x-rust); }
+  .ixh-pick strong { font-family: var(--font-display); font-size: 1.3rem; line-height: 1.3; }
+  .ixh-pick-line { font-size: .88rem; line-height: 1.55; opacity: .9; }
+  .ixh-pick-cta { font-size: .88rem; font-weight: 800; margin-top: .3rem; }
+  @media (max-width: 899px) { .ixh-picks { grid-template-columns: none; grid-auto-flow: column; grid-auto-columns: 84%; overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: .4rem; } .ixh-picks > * { scroll-snap-align: start; } }
+
+  .ixh-listhead { display: flex; justify-content: space-between; align-items: center; gap: .6rem; flex-wrap: wrap; padding-bottom: .9rem; margin-bottom: 1.2rem; border-bottom: 1px solid var(--line); }
+  .ixh-sort { display: flex; align-items: center; gap: .5rem; font-size: .85rem; color: var(--muted); }
+  .ixh-sort select { font: inherit; font-size: .88rem; font-weight: 700; padding: .4rem .8rem; border-radius: var(--r-pill); border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+  .ixh-none { text-align: center; padding: 1.2rem; border-radius: 18px; background: var(--x-card); color: var(--ink-soft); }
+  .ixh-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; align-items: start; }
+  .ixh-grid > [hidden] { display: none; }
+  .ixh-card { overflow: hidden; border-radius: 26px; background: var(--x-card); border: 1px solid var(--line-soft); }
+  .ixh-card-head { position: relative; min-height: 9.5rem; display: flex; background: var(--x-brown); color: #fff; }
+  .ixh-card--forest .ixh-card-head { background: var(--x-forest); }
+  .ixh-card--sand .ixh-card-head { background: #8a5a36; }
+  .ixh-card-head img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: .38; }
+  .ixh-card-head-in { position: relative; margin-top: auto; padding: 1.1rem 1.3rem 1.1rem; display: flex; flex-direction: column; gap: .15rem; }
+  .ixh-card-head small { font-size: .78rem; font-weight: 700; opacity: .9; min-height: 1em; }
+  .ixh-card-head h2 { font-family: var(--font-display); font-size: 1.9rem; margin: 0 0 .4rem; color: #fff; }
+  .ixh-tags { display: flex; flex-wrap: wrap; gap: .3rem; }
+  .ixh-tags span { font-size: .72rem; font-weight: 700; padding: .2rem .6rem; border-radius: var(--r-pill); background: rgba(255, 255, 255, .2); }
+  .ixh-card-body { padding: 1.1rem 1.3rem 1.3rem; }
+  .ixh-toggle { display: flex; gap: .25rem; padding: .25rem; border-radius: var(--r-pill); background: var(--x-sand); margin-bottom: .9rem; }
+  .ixh-toggle button { flex: 1; font: inherit; font-size: .85rem; font-weight: 800; padding: .4rem; border: 0; border-radius: var(--r-pill); background: transparent; color: var(--ink-soft); cursor: pointer; }
+  .ixh-toggle button[aria-pressed='true'] { background: var(--x-brown); color: #fff; }
+  .ixh-course h3 { font-size: 1rem; line-height: 1.4; margin: 0 0 .7rem; }
+  .ixh-course h3 a { color: var(--ink); text-decoration: none; }
+  .ixh-course h3 a:hover { color: var(--accent-text); }
+  .ixh-course ol { list-style: none; counter-reset: d; margin: 0; padding: 0; display: grid; gap: .45rem; }
+  .ixh-course li { counter-increment: d; display: flex; gap: .6rem; align-items: baseline; font-size: .88rem; color: var(--ink-soft); line-height: 1.45; }
+  .ixh-course li::before { content: counter(d); flex: none; display: inline-grid; place-items: center; width: 1.45rem; height: 1.45rem; border-radius: 50%; background: var(--x-sand); color: var(--x-brown-ink); font-size: .75rem; font-weight: 800; }
+  .ixh-card-foot { display: flex; justify-content: space-between; align-items: center; gap: .6rem; margin: 1rem 0 0; font-size: .82rem; color: var(--muted); }
+  .ixh-btn { flex: none; padding: .55rem 1rem; border-radius: var(--r-pill); background: var(--x-rust); color: #fff; font-weight: 800; text-decoration: none; font-size: .85rem; }
+  @media (max-width: 959px) { .ixh-grid { grid-template-columns: 1fr 1fr; } }
+  @media (max-width: 599px) { .ixh-grid { grid-template-columns: 1fr; } }
+
+  .ixh-feats-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1rem; }
+  .ixh-feat { display: flex; flex-direction: column; gap: .4rem; padding: 1.3rem; border-radius: 24px; background: var(--x-card); border: 1px solid var(--line-soft); }
+  .ixh-feat strong { color: var(--ink); margin-top: .3rem; }
+  .ixh-feat span:last-child { font-size: .88rem; line-height: 1.6; color: var(--ink-soft); }
+  .ixh-feat-ico { display: grid; place-items: center; width: 2.6rem; height: 2.6rem; border-radius: 50%; color: var(--x-brown-ink); }
+  .ixh-feat-ico--leaf { background: var(--x-leaf); color: var(--pine); }
+  .ixh-feat-ico--peach { background: var(--x-peach); }
+  .ixh-feat-ico--sand { background: var(--x-sand); }
+  @media (max-width: 899px) { .ixh-feats-grid { grid-template-columns: 1fr 1fr; } }
+</style>

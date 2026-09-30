@@ -26,6 +26,10 @@ import TypesetPlate from './TypesetPlate.astro';
 import { formatHourRanges } from '../lib/hours.mjs';
 import { klookCityDest } from '../lib/klookCities';
 import { closedDaysOf } from '../lib/itinerary.mjs';
+import SaveButton from './SaveButton.astro';
+import { hotelUrl } from '../lib/hotel-link.mjs';
+import { itinUi } from '../i18n/itinerary-ui-strings';
+import { recommendsBooking } from '../lib/bookAhead.mjs';
 
 interface Props {
   itinerary: any; // CollectionEntry<'itineraries'>
@@ -292,6 +296,37 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': graph };
 // every itinerary renders at every locale immediately; missing translations
 // fall back to English prose per-field rather than skipping the page).
 const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
+
+// ── Redesign 2026-09-30 ("바르셀로나 일정 개선안"): hero numbers, photo mosaic,
+// the dark arrival bar, a sidebar. Every number below is counted from the
+// course itself; nothing is estimated beyond what the page already shows. ──
+const u = itinUi(lang);
+const [titleA, titleB] = (() => {
+  const i = title.search(/[:：]/);
+  return i > 0 ? [title.slice(0, i + 1), title.slice(i + 1).trim()] : [title, ''];
+})();
+// Counted over what the page shows by default: the normal pace keeps the first
+// four stops of a day (the filter script hides the rest), so a fifth stop must
+// not add hours, kilometres or a booking the reader cannot see.
+const shownByDefault = (si: number) => !paceCanChangeSomething || si < 4;
+const everyStop = days.flatMap((day: any) => day.stops.filter((_: any, si: number) => shownByDefault(si)));
+const dwellHours = Math.round((everyStop.reduce((n: number, s: any) => n + (s.dwellMin || 0), 0) / 60) * 2) / 2;
+const walkKm = Math.round(days.flatMap((day: any) => day.stops.filter((_: any, si: number) => shownByDefault(si + 1)))
+  .reduce((n: number, s: any) => n + (s.walkToNext && !s.walkToNext.transit ? s.walkToNext.km : 0), 0) * 10) / 10;
+// "Book ahead": the stop's own (vetted) guide recommends booking — read
+// sentence by sentence from the English body (lib/bookAhead.mjs).
+const bookAhead = days.flatMap((day: any, di: number) => day.stops
+  .filter((s: any, si: number) => shownByDefault(si) && recommendsBooking(String(s.post.body ?? '')))
+  .map((s: any) => ({ slug: s.post.id, di, label: shortPlaceLabel(postTitleFor(s.post), lang) || s.post.data.place?.name || postTitleFor(s.post) })));
+const bookSet = new Set(bookAhead.map((b: any) => b.slug));
+const hasRain = days.some((day: any) => day.rainPost);
+const mosaic = allStopPosts
+  .filter((p: any) => p.data.heroImage?.url && p.data.heroImage.license !== 'placeholder')
+  .filter((p: any, i: number, a: any[]) => a.findIndex((q: any) => q.id === p.id) === i)
+  .slice(0, 3)
+  .map((p: any) => ({ src: thumbOr(p.data.heroImage.url), pos: p.data.heroImage.focus ? `${p.data.heroImage.focus.x}% ${p.data.heroImage.focus.y}%` : '50% 50%' }));
+const stayHref = hotelUrl({ submarker: 'itinerary_side', locale: klookLocale(lang), place: d.city, country: d.country });
+const coverImage = mosaic[0]?.src;
 ---
 
 <BaseLayout
@@ -302,52 +337,52 @@ const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
   localizedLangs={availableLangs}
   suppressPopup={true}
 >
-  <article class="article wrap itin-page">
-    <nav class="crumbs" aria-label={t('a11y.breadcrumb')}>
-      <a href={lang === 'en' ? '/' : `/${lang}/`}>{t('post.home')}</a> <span>/</span>
-      <a href={localizePath(`/destinations/${countrySlug}`, lang)}>{countryLabel}</a> <span>/</span>
-      {!sameRegionCountry && (
-        <><a href={localizePath(`/regions/${slugifyRegion(d.city)}`, lang)}>{regionLabel}</a> <span>/</span></>
-      )}
-      <span aria-current="page">{t('itin.indexEyebrow')}</span>
-    </nav>
-
-    {/* 1. H1 + quickAnswer (answer-first) */}
-    <div class="article-head">
-      <div class="kicker">
-        <span class="badge">{t('itin.badge').replace('{n}', String(d.days))}</span>
-        <span>{regionLabel}</span>
+  <article class="article wrap itin-page" data-itin-page data-slug={itinerary.id}
+    data-clash-none={u('clashNone')} data-clash-n={u('clashN')} data-clash-tip={u('clashTip')} data-day-word={t('itin.day')}
+    data-rain-on={u('rainOn')} data-rain-off={u('rainOff')} data-copied={u('copied')} data-book-count={u('bookCount')}>
+    <div class="ith">
+      <div class="ith-copy">
+        <nav class="crumbs ith-crumbs" aria-label={t('a11y.breadcrumb')}>
+          <a href={lang === 'en' ? '/' : `/${lang}/`}>{t('post.home')}</a> <span>·</span>
+          <a href={localizePath(`/destinations/${countrySlug}`, lang)}>{countryLabel}</a> <span>·</span>
+          {!sameRegionCountry && (
+            <><a href={localizePath(`/regions/${slugifyRegion(d.city)}`, lang)}>{regionLabel}</a> <span>·</span></>
+          )}
+          <span aria-current="page">{t('itin.badge').replace('{n}', String(d.days))}</span>
+        </nav>
+        <p class="ith-badges">
+          <span class="ith-badge">{t('itin.badge').replace('{n}', String(d.days))}</span>
+          {hasRain && <span class="ith-badge ith-badge--leaf">{u('badgeRain')}</span>}
+        </p>
+        <h1 class="ith-h1">{titleA}{titleB && <span>{titleB}</span>}</h1>
+        {quickAnswer && <p class="ith-dek">{quickAnswer}</p>}
+        <div class="ith-stats">
+          <div><small>{u('statPlaces')}</small><strong>{u('statN', { n: allStopPosts.length })}</strong></div>
+          {dwellHours > 0 && <div><small>{u('statDwell')}</small><strong>{u('statDwellV', { h: dwellHours })}</strong></div>}
+          {walkKm >= 1 && <div><small>{u('statWalk')}</small><strong>{u('statWalkV', { km: walkKm })}</strong></div>}
+          {bookAhead.length > 0 && <div class="ith-stat--peach"><small>{u('statBook')}</small><strong>{u('statN', { n: bookAhead.length })}</strong></div>}
+        </div>
+        <p class="itin-trust">
+          ✓ {t('itin.trustStrip').replace('{date}', updated.toLocaleDateString(localeCodes[lang], { year: 'numeric', month: 'long', day: 'numeric' }))}
+        </p>
+        <details class="disclosure-details">
+          <summary>{t('post.disclosureTitle')}</summary>
+          <p>{t('post.disclosureBody')} <a href={localizePath('/about', lang)}>{t('post.editorialPolicy')}</a></p>
+        </details>
       </div>
-      <h1>{title}</h1>
-      {/* The page's own pitch is "hand it to a friend" — this is the hand.
-          Post pages have carried ShareRow (native sheet on mobile, per-language
-          links elsewhere) since it was built; the one page whose whole promise
-          is sharing never got it (2026-08-22). */}
-      <div class="itin-share"><ShareRow url={Astro.url.toString()} title={title} lang={lang} /></div>
+      {mosaic.length > 0 && (
+        <div class:list={['ith-mosaic', `ith-mosaic--${mosaic.length}`]} aria-hidden="true">
+          {mosaic.map((m: any) => <img src={m.src} alt="" width="640" height="640" loading="eager" decoding="async" style={`object-position:${m.pos}`} />)}
+        </div>
+      )}
     </div>
 
-    {quickAnswer && (
-      <aside class="quick-answer">
-        <span class="qa-label">{t('post.quickAnswer')}</span>
-        <p>{quickAnswer}</p>
-      </aside>
-    )}
-
-    {/* 2. Trust strip + AI disclosure */}
-    <p class="itin-trust">
-      ✓ {t('itin.trustStrip').replace('{date}', updated.toLocaleDateString(localeCodes[lang], { year: 'numeric', month: 'long', day: 'numeric' }))}
-    </p>
-    <details class="disclosure-details">
-      <summary>{t('post.disclosureTitle')}</summary>
-      <p>{t('post.disclosureBody')} <a href={localizePath('/about', lang)}>{t('post.editorialPolicy')}</a></p>
-    </details>
-
-    {/* 3. Filter bar — progressive enhancement, works as plain content without JS.
-        Task 7 wires the actual filtering behavior. */}
-    <details class="itin-filters" name="itin-filters">
-      <summary>{t('itin.filterTitle')}</summary>
+    {/* The dark bar: arrival date, what it clashes with, the rainy-day view,
+        and the older fine-tuning controls folded underneath. The form keeps
+        every name and data-* the page script reads. */}
+    <div class="ith-bar">
       <form
-        class="itin-filter-grid"
+        class="ith-form"
         data-itin-filters
         data-locale={localeCodes[lang]}
         data-trip-title={title}
@@ -359,53 +394,69 @@ const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
         data-t-long-walk={t('itin.longWalkAdvisory')}
         data-t-save-heading={t('itin.savePlanHeading')}
       >
-        {/* Pace only ever trims a day's trailing stops (relaxed keeps 3, normal
-            keeps 4), so on an itinerary whose busiest day already has 3 stops
-            every option renders the identical plan. Showing it there gives the
-            reader a control that visibly does nothing — worse than not offering
-            it — so it appears only when it can actually change something. */}
-        {paceCanChangeSomething && (
-          <fieldset>
-            <legend>{t('itin.pace')}</legend>
-            <label><input type="radio" name="pace" value="relaxed" /> {t('itin.paceRelaxed')}</label>
-            <label><input type="radio" name="pace" value="normal" checked /> {t('itin.paceNormal')}</label>
-            {d.packedAvailable && (
-              <label><input type="radio" name="pace" value="packed" /> {t('itin.pacePacked')}</label>
+        <div class="ith-bar-row">
+          <label class="ith-arrival" for="itin-arrival">
+            <small>{u('arrivalLabel')}</small>
+            <input type="date" name="arrival" id="itin-arrival" />
+          </label>
+          <p class="ith-clash" data-itin-clash aria-live="polite"><span class="ith-clash-dot" aria-hidden="true"></span><span data-itin-clash-text>{u('arrivalHint')}</span></p>
+          {hasRain && (
+            <button type="button" class="ith-rain-btn" data-itin-rain aria-pressed="false">
+              <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M7 16a4 4 0 0 1-.5-7.97A6 6 0 0 1 18 9a3.5 3.5 0 0 1 0 7M8 19l-1 2M12 19l-1 2M16 19l-1 2"/></svg>
+              <span data-itin-rain-label>{u('rainOn')}</span>
+            </button>
+          )}
+        </div>
+        <details class="ith-more" name="itin-filters">
+          <summary>{t('itin.filterTitle')}</summary>
+          <div class="ith-more-grid">
+            {/* Pace only ever trims a day's trailing stops (relaxed keeps 3, normal
+                keeps 4), so on an itinerary whose busiest day already has 3 stops
+                every option renders the identical plan — shown only when it can
+                actually change something. */}
+            {paceCanChangeSomething && (
+              <fieldset>
+                <legend>{t('itin.pace')}</legend>
+                <label><input type="radio" name="pace" value="relaxed" /> {t('itin.paceRelaxed')}</label>
+                <label><input type="radio" name="pace" value="normal" checked /> {t('itin.paceNormal')}</label>
+                {d.packedAvailable && (
+                  <label><input type="radio" name="pace" value="packed" /> {t('itin.pacePacked')}</label>
+                )}
+              </fieldset>
             )}
-          </fieldset>
-        )}
-        <fieldset>
-          <legend>{t('itin.party')}</legend>
-          <label><input type="radio" name="party" value="solo" /> {t('itin.partySolo')}</label>
-          <label><input type="radio" name="party" value="couple" /> {t('itin.partyCouple')}</label>
-          <label><input type="radio" name="party" value="family" /> {t('itin.partyFamily')}</label>
-          <label><input type="radio" name="party" value="seniors" /> {t('itin.partySeniors')}</label>
-        </fieldset>
-        <fieldset>
-          <legend>{t('itin.interests')}</legend>
-          <label><input type="checkbox" name="interest" value="food" /> {t('itin.interestFood')}</label>
-          <label><input type="checkbox" name="interest" value="culture" /> {t('itin.interestCulture')}</label>
-          <label><input type="checkbox" name="interest" value="nature" /> {t('itin.interestNature')}</label>
-          <label><input type="checkbox" name="interest" value="shopping" /> {t('itin.interestShopping')}</label>
-          <label><input type="checkbox" name="interest" value="nightlife" /> {t('itin.interestNightlife')}</label>
-        </fieldset>
-        <fieldset>
-          <legend>{t('itin.arrivalDate')}</legend>
-          <label class="sr-only" for="itin-arrival">{t('itin.arrivalDate')}</label>
-          <input type="date" name="arrival" id="itin-arrival" />
-        </fieldset>
+            <fieldset>
+              <legend>{t('itin.party')}</legend>
+              <label><input type="radio" name="party" value="solo" /> {t('itin.partySolo')}</label>
+              <label><input type="radio" name="party" value="couple" /> {t('itin.partyCouple')}</label>
+              <label><input type="radio" name="party" value="family" /> {t('itin.partyFamily')}</label>
+              <label><input type="radio" name="party" value="seniors" /> {t('itin.partySeniors')}</label>
+            </fieldset>
+            <fieldset>
+              <legend>{t('itin.interests')}</legend>
+              <label><input type="checkbox" name="interest" value="food" /> {t('itin.interestFood')}</label>
+              <label><input type="checkbox" name="interest" value="culture" /> {t('itin.interestCulture')}</label>
+              <label><input type="checkbox" name="interest" value="nature" /> {t('itin.interestNature')}</label>
+              <label><input type="checkbox" name="interest" value="shopping" /> {t('itin.interestShopping')}</label>
+              <label><input type="checkbox" name="interest" value="nightlife" /> {t('itin.interestNightlife')}</label>
+            </fieldset>
+          </div>
+        </details>
       </form>
       <p class="itin-save-hint" data-itin-save-hint hidden>
-        <a href="#newsletter" data-itin-save-link>{t('itin.savePlanHeading')}</a>
+        <a href="#itin-email-slot" data-itin-save-link>{t('itin.savePlanHeading')}</a>
       </p>
-    </details>
+    </div>
 
-    {/* 4. Sticky day nav */}
+    {/* Sticky day tabs; the date and a clash dot are filled in by the script. */}
     <nav class="itin-day-nav" aria-label={t('itin.indexEyebrow')}>
       {days.map((_: any, i: number) => (
-        <a href={`#day-${i + 1}`}>{t('itin.day').replace('{n}', String(i + 1))}</a>
+        <a href={`#day-${i + 1}`} data-day-tab={i}>{t('itin.day').replace('{n}', String(i + 1))} <small data-tab-date></small><span class="ith-tab-dot" data-tab-dot hidden aria-hidden="true"></span></a>
       ))}
+      <a class="ith-prep" href="#itin-side">{u('prep')}</a>
     </nav>
+
+    <div class="ith-layout">
+    <div class="ith-main">
 
     {/* 5–7. Per-day sections: label+intro → stop cards → legs → day footer */}
     {days.map((day: any, di: number) => (
@@ -449,6 +500,7 @@ const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
                   data-dwell={stop.dwellMin}
                 >
                   <div class="itin-stop-thumb">
+                    <span class="itin-slot-badge">{t(`itin.slot.${stop.slot}` as any)}</span>
                     {/* No photo: the typeset cover, not an empty beige box
                         (owner report, 2026-09-22 — a stop with no hero read as
                         a failed image load). */}
@@ -484,6 +536,7 @@ const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
                         <span class="chip chip-closed">{t('itin.closedChip').replace('{days}', closed.join(', '))}</span>
                       )}
                       {quiet && <span class="chip chip-quiet">{t('itin.quietBadge').replace('{range}', quiet)}</span>}
+                      {bookSet.has(post.id) && <span class="chip chip-book">{u('ticketChip')}</span>}
                       <span class="chip chip-dwell"><Emoji name="three-oclock" /> {t('itin.dwellLabel')}: {formatDwell(stop.dwellMin)}</span>
                       {/* Family/seniors-only advisory — filled in and shown by the
                           client script from the stop's OWN (possibly recomputed
@@ -493,7 +546,10 @@ const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
                     </div>
 
                     {tip && (
-                      <p class="itin-transit-tip"><strong>{t('itin.transitTipLabel')}:</strong> {tip}</p>
+                      <details class="itin-how">
+                        <summary>{u('howToGet')}</summary>
+                        <p class="itin-transit-tip">{tip}</p>
+                      </details>
                     )}
                   </div>
                 </li>
@@ -576,6 +632,41 @@ const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
       </section>
     )}
 
+    </div>{/* .ith-main */}
+
+    <aside class="ith-side" id="itin-side" aria-label={u('sideTitle')}>
+      {bookAhead.length > 0 && (
+        <section class="ith-card ith-book" data-itin-book>
+          <strong class="ith-card-title">{u('bookTitle')}</strong>
+          <p class="ith-card-dek">{u('bookDek')}</p>
+          <ul>
+            {bookAhead.map((b: any) => (
+              <li>
+                <label>
+                  <input type="checkbox" data-book={b.slug} />
+                  <span class="ith-book-box" aria-hidden="true"></span>
+                  <span class="ith-book-text"><b>{b.label}</b><small>{t('itin.day').replace('{n}', String(b.di + 1))}<span data-book-date={b.di}></span></small></span>
+                </label>
+              </li>
+            ))}
+          </ul>
+          <a class="ith-btn" href={klookDayHref} target="_blank" rel="sponsored noopener">{u('bookCta')}</a>
+          <p class="ith-book-count" data-book-count-text>{u('bookCount', { d: 0, n: bookAhead.length })}</p>
+        </section>
+      )}
+      <section class="ith-card ith-stay">
+        <strong class="ith-card-title">{u('stayTitle')}</strong>
+        <p class="ith-card-dek">{u('stayDek', { city: regionLabel })}</p>
+        <a class="ith-btn ith-btn--dark" href={stayHref} target="_blank" rel="sponsored noopener">{u('stayCta', { city: regionLabel })}</a>
+        <p class="tp-disclosure">{t('widget.livePrices')}</p>
+      </section>
+      <div class="ith-side-actions">
+        <SaveButton slug={`itinerary-${itinerary.id}`} title={title} region={regionLabel} country={countryLabel} href={Astro.url.pathname} image={coverImage} lang={lang} compact />
+      </div>
+      <div class="itin-share"><ShareRow url={Astro.url.toString()} title={title} lang={lang} /></div>
+    </aside>
+    </div>{/* .ith-layout */}
+
     {/* hotels: on a "3 days in <city>" page the stay is the highest-intent
         product, and the card was the one place it was missing (2026-09-02). */}
     <PlanTrip city={d.city} country={d.country} hotels />
@@ -626,6 +717,101 @@ const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
       (slot.querySelector('input[type=email]') as HTMLInputElement | null)?.focus({ preventScroll: true });
       if ((window as any).plausible) (window as any).plausible('Itinerary sticky CTA');
     });
+  }
+</script>
+
+<script>
+  // Redesign 2026-09-30: the arrival bar's clash summary, dates and dots on
+  // the day tabs, the rainy-day view, the book-ahead checklist and "copy
+  // link". It only READS what the filter script above already does to the
+  // page (hidden stops, the arrival field), so the two cannot disagree.
+  const DAY = 86_400_000;
+  const WEEKDAYS = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+  const page = document.querySelector<HTMLElement>('[data-itin-page]');
+  const form = document.querySelector<HTMLFormElement>('[data-itin-filters]');
+  if (page && form) {
+    const P = page.dataset;
+    const locale = form.dataset.locale || undefined;
+    const arrivalEl = form.querySelector<HTMLInputElement>('input[name=arrival]');
+    const clash = page.querySelector<HTMLElement>('[data-itin-clash]');
+    const clashText = page.querySelector<HTMLElement>('[data-itin-clash-text]');
+    const hint = clashText?.textContent ?? '';
+    // "10/16 금" where dates are written that way (Intl gives "10. 16. (금)").
+    const numeric = /^(ko|ja|zh)/.test(locale || '');
+    const wdFmt = new Intl.DateTimeFormat(locale, { weekday: 'short', timeZone: 'UTC' });
+    const mdFmt = new Intl.DateTimeFormat(locale, { month: 'short', day: 'numeric', weekday: 'short', timeZone: 'UTC' });
+    const tabFmt = { format: (d: Date) => (numeric ? `${d.getUTCMonth() + 1}/${d.getUTCDate()} ${wdFmt.format(d)}` : mdFmt.format(d)) };
+    const dayWord = (n: number) => (P.dayWord || '{n}').replace('{n}', String(n));
+
+    const refresh = () => {
+      const t = arrivalEl?.value ? Date.parse(arrivalEl.value) : NaN;
+      const has = Number.isFinite(t);
+      const hits: string[] = [];
+      document.querySelectorAll<HTMLElement>('.itin-day').forEach((day, i) => {
+        const date = has ? new Date(t + i * DAY) : null;
+        const tab = page.querySelector<HTMLElement>(`[data-day-tab="${i}"]`);
+        const tabDate = tab?.querySelector<HTMLElement>('[data-tab-date]');
+        if (tabDate) tabDate.textContent = date ? tabFmt.format(date) : '';
+        page.querySelectorAll<HTMLElement>(`[data-book-date="${i}"]`).forEach((el) => { el.textContent = date ? ` · ${tabFmt.format(date)}` : ''; });
+        let dayHit = false;
+        if (date) {
+          const wd = WEEKDAYS[date.getUTCDay()];
+          day.querySelectorAll<HTMLElement>('.itin-stop:not([hidden])').forEach((stop) => {
+            if ((stop.dataset.closed || '').split(',').includes(wd)) {
+              dayHit = true;
+              hits.push(`${dayWord(i + 1)} ${(stop.querySelector('h3 a')?.textContent || '').trim()}`);
+            }
+          });
+        }
+        tab?.querySelector<HTMLElement>('[data-tab-dot]')?.toggleAttribute('hidden', !dayHit);
+      });
+      if (clash && clashText) {
+        clash.dataset.state = !has ? '' : hits.length ? 'warn' : 'ok';
+        clashText.textContent = !has ? hint
+          : hits.length ? `${(P.clashN || '').replace('{n}', String(hits.length))} — ${hits.join(', ')}. ${P.clashTip || ''}`
+          : P.clashNone || '';
+      }
+    };
+    form.addEventListener('change', () => setTimeout(refresh, 0));
+    form.addEventListener('input', () => setTimeout(refresh, 0));
+    // After the filter script has restored any saved choices.
+    setTimeout(refresh, 0);
+    addEventListener('load', refresh);
+
+    // Rainy-day view: bring each day's indoor swap forward and quiet the
+    // outdoor stops. Nothing is removed; it is a way of reading the plan.
+    const rain = page.querySelector<HTMLButtonElement>('[data-itin-rain]');
+    rain?.addEventListener('click', () => {
+      const on = !page.classList.contains('is-rain');
+      page.classList.toggle('is-rain', on);
+      rain.setAttribute('aria-pressed', String(on));
+      const label = rain.querySelector('[data-itin-rain-label]');
+      if (label) label.textContent = (on ? P.rainOff : P.rainOn) || '';
+      if (on) page.querySelector('.itin-rain')?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    });
+
+    // Book-ahead checklist, kept in this browser only.
+    const bookBox = page.querySelector<HTMLElement>('[data-itin-book]');
+    if (bookBox) {
+      const KEY = `wa-itin-book-${P.slug}`;
+      let saved: string[] = [];
+      try { saved = JSON.parse(localStorage.getItem(KEY) || '[]'); } catch { /* none */ }
+      const boxes = [...bookBox.querySelectorAll<HTMLInputElement>('input[data-book]')];
+      const count = bookBox.querySelector<HTMLElement>('[data-book-count-text]');
+      const paint = () => {
+        const done = boxes.filter((b) => b.checked).length;
+        if (count) count.textContent = (P.bookCount || '').replace('{d}', String(done)).replace('{n}', String(boxes.length));
+      };
+      for (const b of boxes) {
+        b.checked = saved.includes(b.dataset.book!);
+        b.addEventListener('change', () => {
+          try { localStorage.setItem(KEY, JSON.stringify(boxes.filter((x) => x.checked).map((x) => x.dataset.book))); } catch { /* not kept */ }
+          paint();
+        });
+      }
+      paint();
+    }
+
   }
 </script>
 
@@ -753,11 +939,123 @@ const availableLangs: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
 
   /* 10. Print stylesheet — hide interactive/monetization chrome, linearize cards. */
   @media print {
-    .itin-filters, .itin-day-nav, .itin-day-actions, .book-cta, .newsletter, .plan-trip, .itin-email-slot { display: none !important; }
+    .itin-filters, .ith-bar, .ith-side, .ith-mosaic, .itin-day-nav, .itin-day-actions, .book-cta, .newsletter, .plan-trip, .itin-email-slot { display: none !important; }
     .itin-stop { grid-template-columns: 1fr; border: none; border-bottom: 1px solid #ccc; border-radius: 0; page-break-inside: avoid; }
     .itin-stop-thumb { display: none; }
     .itin-leg { margin-left: 0; }
   }
+
+  /* ── Redesign 2026-09-30 ("바르셀로나 일정 개선안") ── */
+  .itin-page { --x-brown-ink: #6b3413; --x-night: #262d1b; --x-forest: #3b4a2c; --x-brown: #6b3413; --x-rust: #c8733f; --x-leaf: #e3ecd0; --x-peach: #fde3d4; --x-sand: #f3e8d8; --x-card: #fbf7ef; --x-on-dark: #f6f1e6;
+    max-width: var(--max); }
+  @media (prefers-color-scheme: dark) { :global(:root:not([data-theme='light'])) .itin-page { --x-brown-ink: #f0b184; --x-leaf: #33422a; --x-peach: #3a2620; --x-sand: #2c261d; --x-card: #221f19; } }
+  :global(:root[data-theme='dark']) .itin-page { --x-brown-ink: #f0b184; --x-leaf: #33422a; --x-peach: #3a2620; --x-sand: #2c261d; --x-card: #221f19; }
+
+  .ith { display: grid; grid-template-columns: minmax(0, 1.05fr) minmax(0, .95fr); gap: 2.4rem; align-items: center; margin-bottom: 1.6rem; }
+  .ith-crumbs { display: flex; flex-wrap: wrap; gap: .45rem; font-size: .85rem; color: var(--muted); margin-bottom: .9rem; }
+  .ith-crumbs span[aria-current] { color: var(--ink); font-weight: 700; }
+  .ith-badges { display: flex; flex-wrap: wrap; gap: .4rem; margin: 0 0 .9rem; }
+  .ith-badge { font-size: .8rem; font-weight: 700; padding: .2rem .7rem; border-radius: var(--r-pill); background: var(--x-peach); color: var(--x-brown-ink); }
+  .ith-badge--leaf { background: var(--x-leaf); color: var(--pine); }
+  .ith-h1 { font-family: var(--font-display); font-size: clamp(2rem, 4.6vw, 3.1rem); line-height: 1.14; letter-spacing: -0.02em; margin: 0 0 1rem; color: var(--ink); word-break: keep-all; overflow-wrap: anywhere; }
+  .ith-h1 span { display: block; color: var(--x-brown); }
+  :global(:root[data-theme='dark']) .ith-h1 span { color: #e8a577; }
+  @media (prefers-color-scheme: dark) { :global(:root:not([data-theme='light'])) .ith-h1 span { color: #e8a577; } }
+  .ith-dek { color: var(--ink-soft); font-size: 1.02rem; line-height: 1.75; margin: 0 0 1.2rem; }
+  .ith-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(6.5rem, 1fr)); gap: .6rem; margin-bottom: .9rem; }
+  .ith-stats > div { padding: .8rem .9rem; border-radius: 18px; background: var(--x-card); border: 1px solid var(--line-soft); display: flex; flex-direction: column; gap: .2rem; }
+  .ith-stats small { font-size: .75rem; font-weight: 700; color: var(--muted); }
+  .ith-stats strong { font-size: 1.15rem; color: var(--ink); }
+  .ith-stats .ith-stat--peach { background: var(--x-peach); border-color: transparent; }
+  .ith-mosaic { display: grid; gap: .6rem; height: 26rem; }
+  .ith-mosaic img { width: 100%; height: 100%; object-fit: cover; display: block; background: var(--x-sand); }
+  .ith-mosaic--1 img { border-radius: 200px 200px 24px 24px; }
+  .ith-mosaic--2 { grid-template-columns: 1.2fr 1fr; }
+  .ith-mosaic--2 img:first-child { border-radius: 200px 200px 24px 24px; }
+  .ith-mosaic--2 img:last-child { border-radius: 24px; }
+  .ith-mosaic--3 { grid-template-columns: 1.2fr 1fr; grid-template-rows: 1fr 1fr; }
+  .ith-mosaic--3 img:first-child { grid-row: span 2; border-radius: 200px 200px 24px 24px; }
+  .ith-mosaic--3 img:nth-child(2) { border-radius: 100px 100px 20px 20px; }
+  .ith-mosaic--3 img:nth-child(3) { border-radius: 20px 20px 100px 20px; }
+  @media (max-width: 899px) { .ith { grid-template-columns: minmax(0, 1fr); } .ith-mosaic { height: 15rem; order: -1; } }
+
+  /* The dark arrival bar */
+  .ith-bar { background: var(--x-night); color: var(--x-on-dark); border-radius: 26px; padding: 1.1rem 1.3rem; margin: 0 0 1.2rem; }
+  .ith-bar-row { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; gap: 1rem 1.4rem; align-items: center; }
+  .ith-arrival { display: flex; flex-direction: column; gap: .3rem; padding: .6rem 1rem; border-radius: 18px; background: rgba(255, 255, 255, .08); cursor: pointer; }
+  .ith-arrival small { font-size: .75rem; font-weight: 700; opacity: .85; }
+  .ith-arrival input { font: inherit; font-weight: 800; font-size: 1.05rem; color: #fff; background: transparent; border: 0; padding: 0; color-scheme: dark; cursor: pointer; }
+  .ith-arrival input:focus-visible { outline: 2px solid #fff; outline-offset: 3px; border-radius: 4px; }
+  .ith-clash { display: flex; gap: .6rem; align-items: flex-start; margin: 0; font-size: .9rem; line-height: 1.55; opacity: .92; }
+  .ith-clash-dot { flex: none; width: .7rem; height: .7rem; margin-top: .4rem; border-radius: 50%; background: rgba(255, 255, 255, .35); }
+  .ith-clash[data-state='warn'] .ith-clash-dot { background: var(--x-rust); }
+  .ith-clash[data-state='ok'] .ith-clash-dot { background: #9fc27a; }
+  .ith-clash[data-state='warn'] { font-weight: 600; }
+  .ith-rain-btn { display: inline-flex; align-items: center; gap: .5rem; font: inherit; font-weight: 800; font-size: .9rem; padding: .6rem 1.1rem; border-radius: var(--r-pill); border: 1px solid rgba(255, 255, 255, .35); background: transparent; color: #fff; cursor: pointer; white-space: nowrap; }
+  .ith-rain-btn[aria-pressed='true'] { background: #e3ecd0; color: #262d1b; border-color: #e3ecd0; }
+  .ith-more { margin-top: .8rem; border-top: 1px solid rgba(255, 255, 255, .14); padding-top: .7rem; }
+  .ith-more summary { cursor: pointer; font-size: .88rem; font-weight: 700; opacity: .85; }
+  .ith-more-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr)); gap: .8rem 1.4rem; margin-top: .8rem; }
+  .ith-more fieldset { border: 0; margin: 0; padding: 0; }
+  .ith-more legend { font-size: .75rem; font-weight: 800; letter-spacing: .04em; text-transform: uppercase; opacity: .7; margin-bottom: .35rem; padding: 0; }
+  .ith-more label { display: flex; align-items: center; gap: .4rem; font-size: .9rem; padding: .12rem 0; }
+  .ith-bar .itin-save-hint a { color: #e3ecd0; }
+  @media (max-width: 759px) { .ith-bar-row { grid-template-columns: 1fr; } .ith-rain-btn { justify-self: start; } }
+
+  /* Day tabs */
+  .itin-page .itin-day-nav { gap: .45rem; align-items: center; border-bottom: 1px solid var(--line); padding: .6rem 0; margin: 0 0 1.4rem; }
+  .itin-page .itin-day-nav a { display: inline-flex; align-items: center; gap: .4rem; padding: .5rem 1rem; border-radius: var(--r-pill); border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink); font-weight: 800; font-size: .9rem; text-decoration: none; }
+  .itin-page .itin-day-nav a small { font-weight: 600; color: var(--muted); font-size: .8rem; }
+  .itin-page .itin-day-nav a small:empty { display: none; }
+  .itin-page .itin-day-nav a:hover { border-color: var(--x-brown); }
+  .ith-tab-dot { width: .5rem; height: .5rem; border-radius: 50%; background: var(--x-rust); }
+  .ith-tab-dot[hidden] { display: none; }
+  .itin-page .itin-day-nav a.ith-prep { margin-left: auto; border: 0; background: none; color: var(--x-brown-ink); padding-inline: .3rem; }
+
+  /* Two columns */
+  .ith-layout { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 20rem); gap: 2rem; align-items: start; }
+  .ith-main { min-width: 0; }
+  .ith-side { position: sticky; top: 4.5rem; display: grid; gap: .9rem; }
+  @media (max-width: 959px) { .ith-layout { grid-template-columns: minmax(0, 1fr); } .ith-side { position: static; } }
+  .ith-card { border-radius: 24px; padding: 1.2rem 1.2rem 1.1rem; background: var(--x-card); border: 1px solid var(--line-soft); }
+  .ith-stay { background: var(--x-leaf); border-color: transparent; }
+  .ith-card-title { display: block; font-size: .95rem; color: var(--ink); }
+  .ith-card-dek { margin: .3rem 0 .8rem; font-size: .85rem; line-height: 1.55; color: var(--ink-soft); }
+  .ith-book ul { list-style: none; margin: 0 0 .9rem; padding: 0; display: grid; gap: .4rem; }
+  .ith-book label { position: relative; display: flex; align-items: center; gap: .7rem; padding: .55rem .8rem; border-radius: 16px; background: var(--x-sand); cursor: pointer; }
+  .ith-book input { position: absolute; opacity: 0; width: 1px; height: 1px; }
+  .ith-book-box { flex: none; width: 20px; height: 20px; border-radius: 50%; border: 2px solid #a89478; display: grid; place-items: center; }
+  .ith-book input:checked + .ith-book-box { background: var(--x-brown); border-color: var(--x-brown); }
+  .ith-book input:checked + .ith-book-box::after { content: ''; width: 5px; height: 10px; border: solid #fff; border-width: 0 2px 2px 0; transform: translateY(-1px) rotate(45deg); }
+  .ith-book input:focus-visible + .ith-book-box { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .ith-book-text { display: flex; flex-direction: column; min-width: 0; }
+  .ith-book-text b { font-size: .9rem; color: var(--ink); overflow-wrap: anywhere; }
+  .ith-book-text small { font-size: .78rem; color: var(--muted); }
+  .ith-book-count { margin: .6rem 0 0; font-size: .78rem; color: var(--muted); text-align: center; }
+  .ith-btn { display: block; text-align: center; padding: .65rem 1rem; border-radius: var(--r-pill); background: var(--x-rust); color: #fff; font-weight: 800; font-size: .9rem; text-decoration: none; }
+  .ith-btn--dark { background: var(--x-forest); }
+  .ith-btn:hover { filter: brightness(1.07); }
+  .ith-stay .tp-disclosure { margin: .6rem 0 0; font-size: .72rem; }
+  .ith-side-actions { display: grid; gap: .5rem; }
+  .ith-side .itin-share { margin: 0; }
+
+  /* Day heading, stops, legs */
+  .itin-page .itin-day-title { font-family: var(--font-display); font-size: clamp(1.4rem, 3vw, 1.75rem); }
+  .itin-page .itin-stop { border-radius: 24px; background: var(--x-card); border: 1px solid var(--line-soft); }
+  .itin-stop-thumb { position: relative; }
+  .itin-slot-badge { position: absolute; top: .55rem; left: .55rem; z-index: 1; font-size: .72rem; font-weight: 800; padding: .15rem .55rem; border-radius: var(--r-pill); background: rgba(255, 255, 255, .92); color: #3a2a1c; }
+  .itin-page .itin-stop-thumb img { border-radius: 18px; }
+  .chip-book { background: var(--x-peach) !important; color: var(--x-brown-ink) !important; }
+  .itin-how { margin-top: .5rem; }
+  .itin-how summary { cursor: pointer; font-size: .85rem; font-weight: 800; color: var(--ink); list-style: none; }
+  .itin-how summary::-webkit-details-marker { display: none; }
+  .itin-how summary::after { content: ' ↓'; }
+  .itin-how[open] summary::after { content: ' ↑'; }
+  .itin-how .itin-transit-tip { margin: .4rem 0 0; }
+  .itin-page .itin-rain { padding: .9rem 1.1rem; border-radius: 20px; background: var(--x-leaf); }
+  .itin-page.is-rain .itin-rain { outline: 2px solid var(--pine); box-shadow: 0 8px 24px rgba(40, 60, 20, .18); }
+  .itin-page.is-rain .itin-stop[data-cats*='nature'] { opacity: .55; }
+  .itin-page .faq details { border-radius: 20px; background: var(--x-card); border: 1px solid var(--line-soft); padding: .2rem 1.1rem; margin-bottom: .5rem; }
 </style>
 
 <script>
