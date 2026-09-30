@@ -22,6 +22,7 @@ import { fmtEventRange } from '../lib/eventDates.mjs';
 import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { evStrings } from '../i18n/events-strings';
+import { tileSize } from '../lib/repImage';
 
 interface CountryLink { name: string; slug: string; flag: string; up: number }
 interface Props {
@@ -34,8 +35,10 @@ interface Props {
   trTitles: Map<string, { title: string }>;
   countryLinks?: CountryLink[];
   today: Date;
+  // The "flights and rooms go first" band after the first month (global hub).
+  flights?: boolean;
 }
-const { lang, upcoming, past, card, trTitles, countryLinks = [], today } = Astro.props as Props;
+const { lang, upcoming, past, card, trTitles, countryLinks = [], today, flights = false } = Astro.props as Props;
 const t = useTranslations(lang);
 const e = evStrings(lang);
 const locale = localeCodes[lang];
@@ -106,26 +109,141 @@ const monthLabel = (d: any) =>
   d ? new Date(d).toLocaleDateString(locale, { month: 'long', year: 'numeric' }) : tbaLabel;
 const groups = groupUpcomingEvents(upcoming, { now: nowLabel, tba: tbaLabel, month: monthLabel }, today);
 
+// Redesign 2026-09-30 ("이벤트 개선안"): the fourteen "on now" cards became the
+// four that close first, with a photo each; the rest fold under them. Each
+// month shows eight rows and folds the others. Every event is still a link in
+// the HTML either way — a fold is <details>, not a script — so crawlers and
+// readers without JavaScript lose nothing.
+const nowItems = groups.find(([l]) => l === nowLabel)?.[1] ?? [];
+const monthGroups = groups.filter(([l]) => l !== nowLabel);
+const endNum = (p: any) => (p.data.eventEndDate ? dayNum(p.data.eventEndDate) : Number.MAX_SAFE_INTEGER);
+const nowByEnd = [...nowItems].sort((a, b) => endNum(a) - endNum(b));
+const ENDING = 4;
+// "Ending soon" is only what closes within two weeks (a months-long show with
+// 76 days left is not ending soon, review 2026-09-30); when nothing does, the
+// same four cards stand under the plain "on now" heading instead.
+const closingSoon = nowByEnd.filter((p) => endNum(p) - todayNum <= 14);
+const endingTitle = closingSoon.length ? e('endingTitle') : nowLabel;
+const endingCards = (closingSoon.length ? closingSoon : nowByEnd).slice(0, ENDING);
+const nowRest = nowByEnd.filter((p) => !endingCards.includes(p));
+const CAP = 8;
+
+// A real photo where the guide has one (the same 640px WebP the home wall
+// serves from our own domain); no photo, no image — never a stand-in.
+const photoOf = (p: any) => {
+  const h = p.data.heroImage;
+  if (!h?.url || h.license === 'placeholder') return null;
+  return { src: tileSize(h.url), pos: h.focus ? `${h.focus.x}% ${h.focus.y}%` : '50% 50%' };
+};
+
+const shortMonth = new Intl.DateTimeFormat(locale, { month: 'short', timeZone: 'UTC' });
+// A month is keyed by its date ("2026-10"), not its position, so a shared
+// #m= link still means the same month after the first one ends.
+const monthKey = (label: string, items: any[]) =>
+  label === tbaLabel || !items[0]?.data.eventStartDate ? 'tba' : iso(items[0].data.eventStartDate).slice(0, 7);
+const tabs = monthGroups.map(([label, items]) => ({
+  key: monthKey(label, items), n: items.length,
+  label: label === tbaLabel ? tbaLabel : items[0]?.data.eventStartDate ? shortMonth.format(new Date(items[0].data.eventStartDate)) : label,
+}));
+const upcomingInMonths = monthGroups.reduce((s, [, items]) => s + items.length, 0);
+// The chips filter the month lists only, so they are counted there: counting
+// the on-now cards too showed a "Festivals 0" chip that led to an empty list
+// under two festivals (review 2026-09-30).
+const monthCat = (c: Cat) => monthGroups.reduce((s, [, items]) => s + items.filter((p) => catOf(p) === c).length, 0);
+const monthChips = chips.filter((c) => monthCat(c) > 0);
+
 // Handed to the script as data, so the client side never carries English
 // fallbacks of its own.
 const clientStrings = JSON.stringify({
   count: e('count'), countOne: e('countOne'), daysLeft: e('daysLeft'), dayLeft: e('dayLeft'),
   lastDay: e('lastDay'), ended: e('ended'), progress: e('progress'),
 });
+
+const row = (p: any, withBadge = true) => ({ p, cat: catOf(p), b: withBadge ? badge(p) : null });
 ---
 
 <div class="ev-list" data-ev-list data-strings={clientStrings}>
-  {(chips.length > 1 || countryLinks.length > 1) && (
+  {endingCards.length > 0 && (
+    <section class="section ev-now">
+      <div class="wrap">
+        <div class="ev-head">
+          <h2 class="ev-h2"><span class="ev-dot" aria-hidden="true"></span>{endingTitle}</h2>
+          <span class="ev-count">{e('endingSub', { n: nowItems.length })}</span>
+        </div>
+        <div class="ev-end-grid">
+          {endingCards.map((p) => {
+            const cat = catOf(p);
+            const st = runState(p);
+            const ph = photoOf(p);
+            return (
+              <a class="ev-end-card" href={card.href(p.id)} data-start={iso(p.data.eventStartDate)} data-end={iso(p.data.eventEndDate)}>
+                {ph && <img class="ev-end-img" src={ph.src} alt="" loading="lazy" decoding="async" width="640" height="360" style={`object-position:${ph.pos}`} />}
+                <span class="ev-end-body">
+                  <span class="ev-end-top">
+                    <span class={`ev-tag ev-tag--${cat}`}>{e(CAT_KEY[cat])}</span>
+                    {st && <span class="ev-left" data-left>{st.label}</span>}
+                  </span>
+                  <strong class="ev-name">{nameOf(p)}</strong>
+                  <span class="ev-where">{whereOf(p)}</span>
+                  {st && (
+                    <span class="ev-bar" role="img" aria-label={e('progress', { p: st.pct })} data-bar>
+                      <span class="ev-bar-fill" style={`width:${st.pct}%`} data-fill></span>
+                    </span>
+                  )}
+                </span>
+              </a>
+            );
+          })}
+        </div>
+        {nowRest.length > 0 && (
+          <details class="ev-fold ev-fold--now">
+            <summary>{e('allNow', { n: nowItems.length })}</summary>
+            <ul class="ev-rows">
+              {nowRest.map((p) => {
+                const cat = catOf(p);
+                const st = runState(p);
+                return (
+                  <li data-start={iso(p.data.eventStartDate)} data-end={iso(p.data.eventEndDate)}>
+                    <a class="ev-row" href={card.href(p.id)}>
+                      <span class="ev-badge ev-badge--now" aria-hidden="true"><span class="ev-badge-day">●</span></span>
+                      <span class="ev-main">
+                        <strong class="ev-name">{nameOf(p)}</strong>
+                        <span class="ev-when">{whenOf(p)}{st && <> · <span data-left>{st.label}</span></>}</span>
+                      </span>
+                      <span class="ev-meta">
+                        <span class="ev-where">{whereOf(p)}</span>
+                        <span class={`ev-tag ev-tag--${cat}`}>{e(CAT_KEY[cat])}</span>
+                      </span>
+                    </a>
+                  </li>
+                );
+              })}
+            </ul>
+          </details>
+        )}
+      </div>
+    </section>
+  )}
+
+  {upcomingInMonths > 0 && (tabs.length > 1 || monthChips.length > 1) && (
     <section class="ev-filters">
       <div class="wrap">
-        {chips.length > 1 && (
+        {tabs.length > 1 && (
+          <div class="ev-tabs" role="group" aria-label={e('monthsLabel')}>
+            <button type="button" class="ev-tab" data-month="all" aria-pressed="true">{e('catAll')} <span class="ev-chip-n">{upcomingInMonths}</span></button>
+            {tabs.map((tb) => (
+              <button type="button" class="ev-tab" data-month={tb.key} aria-pressed="false">{tb.label} <span class="ev-chip-n">{tb.n}</span></button>
+            ))}
+          </div>
+        )}
+        {monthChips.length > 1 && (
           <div class="ev-chips" role="group" aria-label={e('filterLabel')}>
             <button type="button" class="ev-chip" data-filter="all" aria-pressed="true">
-              {e('catAll')} <span class="ev-chip-n">{upcoming.length}</span>
+              {e('catAll')} <span class="ev-chip-n">{upcomingInMonths}</span>
             </button>
-            {chips.map((c) => (
+            {monthChips.map((c) => (
               <button type="button" class="ev-chip" data-filter={c} aria-pressed="false">
-                {e(CAT_KEY[c])} <span class="ev-chip-n">{catCounts.get(c)}</span>
+                {e(CAT_KEY[c])} <span class="ev-chip-n">{monthCat(c)}</span>
               </button>
             ))}
           </div>
@@ -143,66 +261,59 @@ const clientStrings = JSON.stringify({
     </section>
   )}
 
-  {groups.map(([label, items]) => {
-    const isNow = label === nowLabel;
+  {monthGroups.map(([label, items], gi) => {
+    const rows = items.map((p) => row(p, label !== tbaLabel));
+    const shown = rows.slice(0, CAP);
+    const rest = rows.slice(CAP);
+    const li = ({ p, cat, b }: { p: any; cat: Cat; b: any }) => (
+      <li data-category={cat} data-start={iso(p.data.eventStartDate)} data-end={iso(p.data.eventEndDate)}>
+        <a class="ev-row" href={card.href(p.id)}>
+          <span class="ev-badge" aria-hidden="true">
+            {b ? (<><span class="ev-badge-top">{b.top}</span><span class="ev-badge-day">{b.day}</span></>) : <span class="ev-badge-day">–</span>}
+          </span>
+          <span class="ev-main">
+            <strong class="ev-name">{nameOf(p)}</strong>
+            <span class="ev-when">{whenOf(p) || tbaLabel}</span>
+          </span>
+          <span class="ev-meta">
+            <span class="ev-where">{whereOf(p)}</span>
+            <span class={`ev-tag ev-tag--${cat}`}>{e(CAT_KEY[cat])}</span>
+          </span>
+        </a>
+      </li>
+    );
     return (
-      <section class="section ev-group" data-ev-group>
-        <div class="wrap">
-          <div class="rule-head ev-head">
-            <h2 class="kicker">{label}</h2>
-            <span class="ev-count" data-count>{countLabel(items.length)}</span>
-          </div>
-          {isNow ? (
-            <div class="ev-now-grid">
-              {items.map((p) => {
-                const cat = catOf(p);
-                const st = runState(p);
-                return (
-                  <a class="ev-now-card" href={card.href(p.id)} data-category={cat}
-                     data-start={iso(p.data.eventStartDate)} data-end={iso(p.data.eventEndDate)}>
-                    <span class={`ev-tag ev-tag--${cat}`}>{e(CAT_KEY[cat])}</span>
-                    <strong class="ev-name">{nameOf(p)}</strong>
-                    <span class="ev-where">{whereOf(p)}</span>
-                    <span class="ev-when">{whenOf(p)}</span>
-                    {st && (
-                      <span class="ev-run">
-                        <span class="ev-bar" role="img" aria-label={e('progress', { p: st.pct })} data-bar>
-                          <span class="ev-bar-fill" style={`width:${st.pct}%`} data-fill></span>
-                        </span>
-                        <span class="ev-left" data-left>{st.label}</span>
-                      </span>
-                    )}
-                  </a>
-                );
-              })}
+      <>
+        <section class="section ev-group" data-ev-group data-month={monthKey(label, items)}>
+          <div class="wrap">
+            <div class="rule-head ev-head">
+              <h2 class="kicker">{label}</h2>
+              <span class="ev-count" data-count>{countLabel(items.length)}</span>
             </div>
-          ) : (
-            <ul class="ev-rows">
-              {items.map((p) => {
-                const cat = catOf(p);
-                const b = label === tbaLabel ? null : badge(p);
-                return (
-                  <li data-category={cat}>
-                    <a class="ev-row" href={card.href(p.id)}>
-                      <span class="ev-badge" aria-hidden="true">
-                        {b ? (<><span class="ev-badge-top">{b.top}</span><span class="ev-badge-day">{b.day}</span></>) : <span class="ev-badge-day">–</span>}
-                      </span>
-                      <span class="ev-main">
-                        <strong class="ev-name">{nameOf(p)}</strong>
-                        <span class="ev-when">{whenOf(p) || tbaLabel}</span>
-                      </span>
-                      <span class="ev-meta">
-                        <span class="ev-where">{whereOf(p)}</span>
-                        <span class={`ev-tag ev-tag--${cat}`}>{e(CAT_KEY[cat])}</span>
-                      </span>
-                    </a>
-                  </li>
-                );
-              })}
-            </ul>
-          )}
-        </div>
-      </section>
+            <ul class="ev-rows">{shown.map(li)}</ul>
+            {rest.length > 0 && (
+              <details class="ev-fold" data-ev-more>
+                <summary>{e('more', { n: rest.length })}</summary>
+                <ul class="ev-rows">{rest.map(li)}</ul>
+              </details>
+            )}
+          </div>
+        </section>
+        {gi === 0 && flights && (
+          <section class="ev-flight-band" data-ev-aside>
+            <div class="wrap">
+              <div class="ev-flight">
+                <span class="ev-flight-ico" aria-hidden="true">✈</span>
+                <div class="ev-flight-copy">
+                  <strong>{e('flightTitle')}</strong>
+                  <span>{e('flightDek')}</span>
+                </div>
+                <a class="ev-flight-cta" href={localizePath('/flights', lang)}>{e('flightCta')} →</a>
+              </div>
+            </div>
+          </section>
+        )}
+      </>
     );
   })}
 
@@ -210,23 +321,24 @@ const clientStrings = JSON.stringify({
     <div class="wrap"><div class="fact-box" style="text-align:center"><p>{e('noneInFilter')}</p></div></div>
   </section>
 
+  <slot name="before-past" />
+
   {past.length > 0 && (
     <section class="section band">
       <div class="wrap">
         {/* Folded by default: 37 ended events rendered as full cards made the
             mobile page 45,000px tall under the 64 upcoming ones (2026-08-22).
             The archive still ships in the HTML (indexable, linkable) — it just
-            no longer stands between the reader and the footer. The filter
-            chips do not reach in here: they are about what a reader can still
-            go to. */}
-        <details class="past-events">
+            no longer stands between the reader and the footer. The filters do
+            not reach in here: they are about what a reader can still go to. */}
+        <details class="past-events" id="past-events">
           <summary class="rule-head"><h2 class="kicker">{t('ev.pastEvents')} ({past.length})</h2></summary>
           <ul class="ev-rows">
             {past.map((p) => {
               const cat = catOf(p);
               const b = badge(p, true);
               return (
-                <li data-category={cat}>
+                <li>
                   <a class="ev-row" href={card.href(p.id)}>
                     <span class="ev-badge" aria-hidden="true">
                       {b ? (<><span class="ev-badge-top">{b.top}</span><span class="ev-badge-day">{b.day}</span></>) : <span class="ev-badge-day">–</span>}
@@ -251,7 +363,7 @@ const clientStrings = JSON.stringify({
 </div>
 
 <script>
-  // Two jobs, both progressive: without this script every event is visible
+  // Progressive: without this script every event is still a link on the page
   // and the "days left" is as of the morning's build.
   const DAY = 86_400_000;
   const fill = (s: string, n: number | string, key = 'n') => s.split(`{${key}}`).join(String(n));
@@ -263,17 +375,17 @@ const clientStrings = JSON.stringify({
     // 1. "On now" progress from the reader's own calendar date.
     const now = new Date();
     const today = Date.UTC(now.getFullYear(), now.getMonth(), now.getDate()) / DAY;
-    for (const cardEl of root.querySelectorAll<HTMLElement>('[data-start][data-end]')) {
-      const s = Date.parse(cardEl.dataset.start || '') / DAY;
-      const e = Date.parse(cardEl.dataset.end || '') / DAY;
+    for (const el of root.querySelectorAll<HTMLElement>('.ev-now [data-start][data-end]')) {
+      const s = Date.parse(el.dataset.start || '') / DAY;
+      const e = Date.parse(el.dataset.end || '') / DAY;
       if (!Number.isFinite(s) || !Number.isFinite(e) || e < s) continue;
       const total = e - s + 1;
       const passed = Math.min(Math.max(today - s, 0), total);
       const pct = Math.round((passed / total) * 100);
       const left = e - today;
-      const fillEl = cardEl.querySelector<HTMLElement>('[data-fill]');
-      const bar = cardEl.querySelector<HTMLElement>('[data-bar]');
-      const leftEl = cardEl.querySelector<HTMLElement>('[data-left]');
+      const fillEl = el.querySelector<HTMLElement>('[data-fill]');
+      const bar = el.querySelector<HTMLElement>('[data-bar]');
+      const leftEl = el.querySelector<HTMLElement>('[data-left]');
       if (fillEl) fillEl.style.width = `${pct}%`;
       if (bar && S.progress) bar.setAttribute('aria-label', fill(S.progress, pct, 'p'));
       if (leftEl) {
@@ -282,132 +394,213 @@ const clientStrings = JSON.stringify({
       }
     }
 
-    // 2. Category chips: show/hide rows, recount each section, hide empty ones.
+    // 2. Month tabs × category chips: show/hide rows, recount each month,
+    //    hide empty months, and open the folds while a filter is on (a
+    //    filtered list is short; hiding half of it again would confuse).
     const chips = [...root.querySelectorAll<HTMLButtonElement>('button[data-filter]')];
+    const tabs = [...root.querySelectorAll<HTMLButtonElement>('button[data-month]')];
     const groups = [...root.querySelectorAll<HTMLElement>('[data-ev-group]')];
+    const asides = [...root.querySelectorAll<HTMLElement>('[data-ev-aside]')];
     const none = root.querySelector<HTMLElement>('[data-ev-none]');
-    const apply = (filter: string) => {
-      for (const c of chips) c.setAttribute('aria-pressed', String(c.dataset.filter === filter));
+    const state = { cat: 'all', month: 'all' };
+    let wasFiltered = false;
+    const apply = () => {
+      for (const c of chips) c.setAttribute('aria-pressed', String(c.dataset.filter === state.cat));
+      for (const t of tabs) t.setAttribute('aria-pressed', String(t.dataset.month === state.month));
+      const filtered = state.cat !== 'all' || state.month !== 'all';
       let shown = 0;
       for (const g of groups) {
+        const monthOn = state.month === 'all' || g.dataset.month === state.month;
         let n = 0;
         for (const item of g.querySelectorAll<HTMLElement>('[data-category]')) {
-          const on = filter === 'all' || item.dataset.category === filter;
+          const on = monthOn && (state.cat === 'all' || item.dataset.category === state.cat);
           item.hidden = !on;
           if (on) n++;
         }
         g.hidden = n === 0;
         shown += n;
+        // Open the folds while a filter is on; close them only when a filter
+        // is taken off — never a fold the reader opened by hand.
+        if (filtered || wasFiltered) for (const d of g.querySelectorAll<HTMLDetailsElement>('[data-ev-more]')) d.open = filtered;
         const countEl = g.querySelector<HTMLElement>('[data-count]');
         if (countEl && S.count) countEl.textContent = n === 1 ? S.countOne : fill(S.count, n);
       }
+      for (const a of asides) a.hidden = filtered;
+      wasFiltered = filtered;
       if (none) none.hidden = shown > 0;
     };
-    // The chosen category lives in the address (#cat=festivals), so a shared
-    // link or the back button keeps it (2026-09-24 usability pass).
-    const valid = new Set(chips.map((c) => c.dataset.filter || 'all'));
+    // The choice lives in the address (#cat=festivals&m=1), so a shared link
+    // or the back button keeps it (2026-09-24 usability pass).
+    const validCat = new Set(chips.map((c) => c.dataset.filter || 'all'));
+    const validMonth = new Set(tabs.map((t) => t.dataset.month || 'all'));
     const fromHash = () => {
-      const m = /(?:^|[#&])cat=([a-z-]+)/.exec(location.hash);
-      return m && valid.has(m[1]) ? m[1] : 'all';
+      const c = /(?:^|[#&])cat=([a-z-]+)/.exec(location.hash)?.[1];
+      const m = /(?:^|[#&])m=(\d{4}-\d{2}|tba)/.exec(location.hash)?.[1];
+      state.cat = c && validCat.has(c) ? c : 'all';
+      state.month = m && validMonth.has(m) ? m : 'all';
     };
-    for (const c of chips) c.addEventListener('click', () => {
-      const f = c.dataset.filter || 'all';
-      apply(f);
-      history.replaceState(null, '', f === 'all' ? location.pathname + location.search : `#cat=${f}`);
+    const toHash = () => {
+      const parts = [state.cat !== 'all' && `cat=${state.cat}`, state.month !== 'all' && `m=${state.month}`].filter(Boolean);
+      history.replaceState(null, '', parts.length ? `#${parts.join('&')}` : location.pathname + location.search);
+    };
+    for (const c of chips) c.addEventListener('click', () => { state.cat = c.dataset.filter || 'all'; apply(); toHash(); });
+    for (const t of tabs) t.addEventListener('click', () => { state.month = t.dataset.month || 'all'; apply(); toHash(); });
+    fromHash();
+    if (state.cat !== 'all' || state.month !== 'all') apply();
+    addEventListener('hashchange', () => {
+      const before = state.cat + state.month;
+      fromHash();
+      if (state.cat + state.month !== before) apply();
     });
-    if (fromHash() !== 'all') apply(fromHash());
-    addEventListener('hashchange', () => apply(fromHash()));
+
+    // 3. A link to #past-events opens the archive it points at.
+    const past = root.querySelector<HTMLDetailsElement>('#past-events');
+    const openPast = () => { if (past && location.hash === '#past-events') past.open = true; };
+    openPast();
+    addEventListener('hashchange', openPast);
   }
 </script>
 
 <style>
-  .ev-filters { padding: 0 0 .5rem; }
-  .ev-chips { display: flex; flex-wrap: wrap; gap: .5rem; margin: .25rem 0 .75rem; }
-  .ev-chip {
-    display: inline-flex; align-items: center; gap: .4rem;
-    padding: .45rem .9rem; border-radius: var(--r-pill);
-    border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink);
-    font: inherit; font-size: .9rem; line-height: 1.2; cursor: pointer; text-decoration: none;
+  .ev-list {
+    --ev-forest: #3b4a2c; --ev-night: #262d1b; --ev-brown: #6b3413; --ev-rust: #b0562a;
+    --ev-peach: #fde3d4; --ev-sand: #ece5d6; --ev-leaf: #e3ecd0;
   }
-  .ev-chip:hover { border-color: var(--accent); }
-  .ev-chip[aria-pressed='true'] { background: var(--accent-fill); border-color: var(--accent-fill); color: #fff; }
-  .ev-chip-n { font-size: .8em; opacity: .75; }
-  .ev-chips--countries .ev-chip { font-size: .85rem; padding: .35rem .75rem; background: var(--surface-2); border-color: var(--line); }
+  @media (prefers-color-scheme: dark) {
+    :global(:root:not([data-theme='light'])) .ev-list { --ev-peach: #3a2620; --ev-sand: #2a251d; --ev-leaf: #26301c; --ev-rust: #e08a5a; }
+  }
+  :global(:root[data-theme='dark']) .ev-list { --ev-peach: #3a2620; --ev-sand: #2a251d; --ev-leaf: #26301c; --ev-rust: #e08a5a; }
 
-  .ev-head { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; }
+  .ev-head { display: flex; align-items: baseline; justify-content: space-between; gap: .5rem 1rem; flex-wrap: wrap; }
   /* Section titles were small grey kickers, so "on now" and each month barely
      separated the page (2026-09-24 visual check). */
-  .ev-head .kicker { font-size: 1.3rem; font-weight: 800; color: var(--ink); letter-spacing: -0.01em; text-transform: none; }
-  .ev-count { color: var(--muted); font-size: .9rem; white-space: nowrap; }
+  .ev-head .kicker, .ev-h2 { font-family: var(--font-display); font-size: clamp(1.35rem, 3.4vw, 1.75rem); font-weight: 800; color: var(--ink); letter-spacing: -0.01em; text-transform: none; margin: 0; }
+  .ev-h2 { display: inline-flex; align-items: center; gap: .55rem; }
+  .ev-dot { width: .6rem; height: .6rem; border-radius: 50%; background: var(--ev-rust); flex: none; }
+  .ev-count { color: var(--muted); font-size: .9rem; }
 
   .ev-tag {
     display: inline-block; align-self: start; justify-self: start;
-    padding: .15rem .55rem; border-radius: var(--r-pill);
-    background: var(--surface-2); color: var(--ink-soft);
+    padding: .15rem .6rem; border-radius: var(--r-pill);
+    background: var(--ev-sand); color: var(--ink-soft);
     font-size: .75rem; font-weight: 600; letter-spacing: .02em; white-space: nowrap;
   }
-  .ev-tag--concerts { background: var(--accent-soft); color: var(--accent-text); }
-  .ev-tag--sports { color: var(--pine); }
+  .ev-tag--concerts { background: var(--ev-peach); color: var(--accent-text); }
+  .ev-tag--sports { background: var(--ev-leaf); color: var(--pine); }
   .ev-tag--festivals { color: var(--gold-text); }
 
-  .ev-name { color: var(--ink); font-weight: 650; line-height: 1.3; overflow-wrap: anywhere; }
+  .ev-name { color: var(--ink); font-weight: 700; line-height: 1.3; overflow-wrap: anywhere; }
   .ev-where, .ev-when { color: var(--muted); font-size: .88rem; overflow-wrap: anywhere; }
 
-  /* On now */
-  .ev-now-grid { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(min(100%, 16rem), 1fr)); }
-  .ev-now-card {
-    display: flex; flex-direction: column; gap: .4rem; min-width: 0;
-    padding: 1rem 1.1rem; border-radius: var(--r-lg);
-    background: var(--surface); border: 1px solid var(--line-soft); box-shadow: var(--shadow-sm);
-    text-decoration: none; color: inherit;
+  /* Ending soon: four photo cards */
+  .ev-now .ev-head { margin-bottom: 1rem; }
+  .ev-end-grid { display: grid; gap: 1rem; grid-template-columns: repeat(4, minmax(0, 1fr)); }
+  .ev-end-card {
+    display: flex; flex-direction: column; min-width: 0; overflow: hidden;
+    border-radius: 22px; background: var(--surface); border: 1px solid var(--line-soft);
+    text-decoration: none; color: inherit; transition: transform .15s ease, box-shadow .15s ease;
   }
-  .ev-now-card:hover { border-color: var(--line-strong); }
-  .ev-now-card .ev-name { font-size: 1.05rem; }
-  @media (max-width: 759px) {
-    /* Fourteen "on now" cards one per row pushed the month lists ~2,400px
-       down on a phone. They swipe sideways instead (2026-09-24 visual check). */
-    .ev-now-grid { gap: .7rem; grid-template-columns: none; grid-auto-flow: column; grid-auto-columns: 78%;
+  .ev-end-card:hover { transform: translateY(-2px); box-shadow: var(--shadow-sm); }
+  .ev-end-card:hover .ev-name { color: var(--accent-text); }
+  .ev-end-img { display: block; width: 100%; aspect-ratio: 16 / 9; height: auto; object-fit: cover; background: var(--ev-sand); }
+  .ev-end-body { display: flex; flex-direction: column; gap: .35rem; padding: .9rem 1rem 1rem; flex: 1; }
+  .ev-end-top { display: flex; align-items: center; justify-content: space-between; gap: .5rem; flex-wrap: wrap; }
+  .ev-end-card .ev-name { font-size: 1rem; }
+  .ev-bar { display: block; height: 5px; border-radius: var(--r-pill); background: var(--ev-sand); overflow: hidden; margin-top: auto; }
+  .ev-end-card .ev-bar { margin-top: .5rem; }
+  .ev-bar-fill { display: block; height: 100%; background: var(--ev-rust); border-radius: inherit; }
+  .ev-left { font-size: .8rem; font-weight: 700; color: var(--ev-rust); }
+  @media (max-width: 959px) { .ev-end-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+  @media (max-width: 559px) {
+    /* One swipeable row on a phone, so the month lists are not pushed a
+       screen and a half down (the 2026-09-24 lesson). */
+    .ev-end-grid { grid-template-columns: none; grid-auto-flow: column; grid-auto-columns: 72%;
       overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: .4rem; }
-    .ev-now-grid > * { scroll-snap-align: start; }
-    .ev-now-card { padding: .85rem 1rem; gap: .3rem; }
-    /* 17 country chips wrapped to seven rows on a phone; one swipeable row
-       instead. The row scrolls inside itself — the page never does. */
-    .ev-chips--countries { flex-wrap: nowrap; overflow-x: auto; padding-bottom: .25rem; scrollbar-width: thin; }
-    .ev-chips--countries .ev-chip { flex: 0 0 auto; }
+    .ev-end-grid > * { scroll-snap-align: start; }
   }
-  .ev-run { display: flex; flex-direction: column; gap: .3rem; margin-top: auto; padding-top: .4rem; }
-  .ev-bar { display: block; height: 6px; border-radius: var(--r-pill); background: var(--surface-2); overflow: hidden; }
-  .ev-bar-fill { display: block; height: 100%; background: var(--accent); border-radius: inherit; }
-  .ev-left { font-size: .85rem; font-weight: 600; color: var(--accent-text); }
+
+  /* Folds ("show N more", "all N on now") */
+  .ev-fold { margin-top: .6rem; }
+  .ev-fold > summary {
+    list-style: none; cursor: pointer; text-align: center; padding: .75rem 1rem;
+    border-radius: 18px; border: 1px solid var(--line); background: var(--surface);
+    color: var(--ev-brown); font-weight: 700; font-size: .92rem;
+  }
+  :global(:root[data-theme='dark']) .ev-fold > summary { color: var(--accent-text); }
+  @media (prefers-color-scheme: dark) { :global(:root:not([data-theme='light'])) .ev-fold > summary { color: var(--accent-text); } }
+  .ev-fold > summary::-webkit-details-marker { display: none; }
+  .ev-fold > summary::after { content: ' ↓'; }
+  .ev-fold[open] > summary { display: none; }
+  .ev-fold > .ev-rows { margin-top: .5rem; }
+  .ev-badge--now .ev-badge-day { font-size: .8rem; color: var(--ev-rust); }
+
+  /* Filters: month tabs, category chips */
+  .ev-filters { padding: .5rem 0 .25rem; position: relative; }
+  .ev-filters .wrap { display: flex; flex-direction: column; gap: .7rem; border-bottom: 1px solid var(--line); padding-bottom: 1rem; }
+  .ev-tabs { display: inline-flex; flex-wrap: wrap; gap: .25rem; align-self: start; padding: .25rem; border-radius: var(--r-pill); background: var(--surface); border: 1px solid var(--line-soft); }
+  .ev-tab { font: inherit; font-size: .92rem; font-weight: 700; padding: .45rem 1rem; border-radius: var(--r-pill); border: 0; background: transparent; color: var(--ink); cursor: pointer; }
+  .ev-tab[aria-pressed='true'] { background: var(--ev-brown); color: #fff; }
+  .ev-chips { display: flex; flex-wrap: wrap; gap: .5rem; }
+  .ev-chip {
+    display: inline-flex; align-items: center; gap: .4rem;
+    padding: .45rem .95rem; border-radius: var(--r-pill);
+    border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink);
+    font: inherit; font-size: .9rem; font-weight: 600; line-height: 1.2; cursor: pointer; text-decoration: none;
+  }
+  .ev-chip:hover { border-color: var(--accent); }
+  .ev-chip[aria-pressed='true'] { background: var(--ev-night); border-color: var(--ev-night); color: #fff; }
+  .ev-chip-n { font-size: .82em; opacity: .7; font-weight: 500; }
+  .ev-chips--countries .ev-chip { font-size: .85rem; padding: .35rem .75rem; background: var(--surface-2); border-color: var(--line); }
+  @media (max-width: 559px) {
+    .ev-tabs, .ev-chips { flex-wrap: nowrap; overflow-x: auto; max-width: 100%; scrollbar-width: none; }
+    .ev-tab, .ev-chip { flex: 0 0 auto; }
+  }
 
   /* Month rows */
-  /* Each row is its own card (the rows floated on the background before). */
-  .ev-rows { list-style: none; margin: 0; padding: 0; display: grid; gap: .5rem; }
+  .ev-group .ev-head { margin-bottom: .9rem; }
+  .ev-rows { list-style: none; margin: 0; padding: 0; display: grid; gap: .55rem; }
   .ev-rows > li { border: 0; }
   .ev-row {
-    display: grid; grid-template-columns: 3rem minmax(0, 1fr); column-gap: .8rem; row-gap: .2rem;
-    align-items: start; padding: .6rem .9rem .6rem .6rem; text-decoration: none; color: inherit;
-    background: var(--surface); border: 1px solid var(--line-soft); border-radius: var(--r-md);
+    display: grid; grid-template-columns: 3rem minmax(0, 1fr); column-gap: .9rem; row-gap: .2rem;
+    align-items: start; padding: .65rem 1rem .65rem .65rem; text-decoration: none; color: inherit;
+    background: var(--surface); border: 1px solid var(--line-soft); border-radius: 22px;
     transition: transform .15s ease, border-color .15s ease, box-shadow .15s ease;
   }
   .ev-row:hover { transform: translateY(-2px); border-color: var(--line-strong); box-shadow: var(--shadow-sm); }
   .ev-row:hover .ev-name { color: var(--accent-text); }
   .ev-badge {
     grid-row: span 2; display: flex; flex-direction: column; align-items: center; justify-content: center;
-    width: 3rem; min-height: 3rem; border-radius: var(--r-sm);
-    background: var(--accent-soft); color: var(--accent-text); line-height: 1.1;
+    width: 3rem; min-height: 3rem; border-radius: 50%;
+    background: var(--ev-sand); color: var(--ink); line-height: 1.05;
   }
-  .ev-badge-top { font-size: .7rem; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
-  .ev-badge-day { font-size: 1.25rem; font-weight: 700; font-family: var(--font-display); }
-  .ev-main { display: flex; flex-direction: column; gap: .05rem; min-width: 0; }
+  .ev-badge-top { font-size: .68rem; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
+  .ev-badge-day { font-size: 1.2rem; font-weight: 800; font-family: var(--font-display); }
+  .ev-main { display: flex; flex-direction: column; gap: .1rem; min-width: 0; }
   .ev-meta { display: flex; flex-wrap: wrap; align-items: center; gap: .25rem .6rem; min-width: 0; }
   @media (min-width: 760px) {
-    .ev-row { grid-template-columns: 3.5rem minmax(0, 1fr) minmax(0, 15rem) 7.5rem; align-items: center; }
+    .ev-row { grid-template-columns: 3.5rem minmax(0, 1fr) minmax(0, 13rem) 6.5rem; align-items: center; padding: .7rem 1.2rem .7rem .7rem; }
     .ev-badge { grid-row: auto; width: 3.5rem; min-height: 3.5rem; }
     .ev-meta { display: contents; }
     /* .ev-tag carries align-self: start for the stacked phone layout; on the
        one-line row it sat above the city line (2026-09-24 visual check). */
     .ev-row .ev-tag { justify-self: end; align-self: center; }
+  }
+
+  /* Flights band, after the first month */
+  .ev-flight-band { padding: .5rem 0 1rem; }
+  .ev-flight {
+    display: grid; grid-template-columns: auto minmax(0, 1fr) auto; align-items: center; gap: 1rem 1.2rem;
+    padding: 1.2rem 1.4rem; border-radius: 24px; background: var(--ev-peach); border: 1px solid var(--line-soft);
+  }
+  .ev-flight-ico { display: grid; place-items: center; width: 3rem; height: 3rem; border-radius: 50%; background: var(--ev-brown); color: #fff; font-size: 1.3rem; }
+  .ev-flight-copy { display: flex; flex-direction: column; gap: .2rem; min-width: 0; }
+  .ev-flight-copy strong { color: var(--ink); font-size: 1.02rem; }
+  .ev-flight-copy span { color: var(--ink-soft); font-size: .9rem; }
+  .ev-flight-cta { padding: .65rem 1.2rem; border-radius: var(--r-pill); background: var(--ev-rust); color: #fff; font-weight: 700; text-decoration: none; white-space: nowrap; }
+  .ev-flight-cta:hover { filter: brightness(1.08); }
+  @media (max-width: 559px) {
+    .ev-flight { grid-template-columns: auto minmax(0, 1fr); }
+    .ev-flight-cta { grid-column: 1 / -1; text-align: center; }
   }
 
   .past-events > summary { cursor: pointer; list-style: none; }
