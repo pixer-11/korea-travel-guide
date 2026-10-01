@@ -3,7 +3,7 @@
 //   node --test scripts/lib/claude-batch.test.mjs
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { runBatch } from './claude-batch.mjs';
+import { runBatch, CANCEL_WAIT_MIN } from './claude-batch.mjs';
 import { meterTally } from './claude-meter.mjs';
 
 const msg = (text) => ({
@@ -55,6 +55,37 @@ test('a batch past its wait is cancelled, and what did succeed is still used', a
   const got = await runBatch(c, items, { ...quiet, waitMin: 0 });
   assert.equal(c.calls.cancelled, true);
   assert.deepEqual([...got.keys()], ['es/other']);
+});
+
+// 2026-10-01: a cancelled batch kept "canceling" for more than 5 min, the old
+// fixed wait gave up silently, and its finished translations were paid for and
+// thrown away. The wait is now an option and giving up is said out loud.
+test('a slow cancel is waited out and its succeeded results are still used', async () => {
+  const c = fakeClient({ endAfter: 1e9, results: [
+    { custom_id: 'r1', result: { type: 'succeeded', message: msg('ja') } },
+  ] });
+  let afterCancel = 0;
+  c.beta.messages.batches.retrieve = async () => {
+    if (c.calls.cancelled) afterCancel += 1;
+    return { id: 'b1', processing_status: afterCancel >= 4 ? 'ended' : c.calls.cancelled ? 'canceling' : 'in_progress', request_counts: {} };
+  };
+  const got = await runBatch(c, items, { ...quiet, waitMin: 0, cancelWaitMin: 1 });
+  assert.equal(afterCancel, 4);
+  assert.deepEqual([...got.keys()], ['ja/a-very-long-slug']);
+});
+
+test('the default post-cancel wait is long enough to see a cancel through', () => {
+  // 5 min was the old default and it was not enough (2026-10-01).
+  assert.ok(CANCEL_WAIT_MIN >= 30, `CANCEL_WAIT_MIN=${CANCEL_WAIT_MIN}`);
+});
+
+test('a cancel that never ends gives up with a log line, not silently', async () => {
+  const c = fakeClient({ endAfter: 1e9 });
+  c.beta.messages.batches.retrieve = async () => ({ id: 'b1', processing_status: c.calls.cancelled ? 'canceling' : 'in_progress', request_counts: { processing: 7 } });
+  const lines = [];
+  const got = await runBatch(c, items, { pollSec: 0, log: (s) => lines.push(s), waitMin: 0, cancelWaitMin: 0.001 });
+  assert.equal(got.size, 0);
+  assert.ok(lines.some((l) => /after cancel — giving up.*"processing":7/.test(l)), lines.join('\n'));
 });
 
 test('a failure never throws — the caller just goes direct', async () => {

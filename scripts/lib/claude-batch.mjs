@@ -20,10 +20,14 @@ import { meterRecord } from './claude-meter.mjs';
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
+// How long a cancelled batch gets to finish what it already started. Workflows
+// that budget their time (discover-events.yml) reserve exactly this much.
+export const CANCEL_WAIT_MIN = 30;
+
 /**
  * @param {any} client  an Anthropic SDK client
  * @param {Array<{ id: string, params: object }>} items  id must be unique
- * @param {{ waitMin?: number, pollSec?: number, log?: (s: string) => void }} [opts]
+ * @param {{ waitMin?: number, cancelWaitMin?: number, pollSec?: number, log?: (s: string) => void }} [opts]
  * @returns {Promise<Map<string, object>>} id -> Claude message, for succeeded requests only
  */
 export async function runBatch(client, items, opts = {}) {
@@ -49,14 +53,22 @@ export async function runBatch(client, items, opts = {}) {
     if (batch.processing_status !== 'ended') {
       log(`batch ${batch.id}: not finished after ${Math.round(waitMs / 60e3)} min — cancelling, the rest goes direct`);
       await client.beta.messages.batches.cancel(batch.id);
-      // Cancelling ends quickly; what already succeeded is still billed, so
-      // collect it rather than paying for it twice.
+      // What already succeeded is still billed, so collect it rather than
+      // paying for it twice. Cancelling is NOT quick: requests already being
+      // processed finish first. On 2026-10-01 a 216-request event batch was
+      // cancelled at 120 min, this wait was 5 min, it gave up without a word
+      // and all 216 went direct at full price (~$19) on top of whatever the
+      // cancelled batch had already billed.
+      const cancelWaitMs = (opts.cancelWaitMin ?? CANCEL_WAIT_MIN) * 60e3;
       const t1 = Date.now();
-      while (batch.processing_status !== 'ended' && Date.now() - t1 < 5 * 60e3) {
+      while (batch.processing_status !== 'ended' && Date.now() - t1 < cancelWaitMs) {
         await sleep(Math.min(pollMs, 15e3));
         batch = await client.beta.messages.batches.retrieve(batch.id);
       }
-      if (batch.processing_status !== 'ended') return got;
+      if (batch.processing_status !== 'ended') {
+        log(`batch ${batch.id}: still ${batch.processing_status} ${Math.round(cancelWaitMs / 60e3)} min after cancel — giving up; its succeeded requests are billed but unused (${JSON.stringify(batch.request_counts)})`);
+        return got;
+      }
     }
     for await (const r of await client.beta.messages.batches.results(batch.id)) {
       if (r?.result?.type !== 'succeeded') continue;

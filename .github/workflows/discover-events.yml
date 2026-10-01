@@ -31,7 +31,9 @@ jobs:
       # until then "what did the model switch cost?" had no answer short of the
       # bill. Not NODE_OPTIONS - GitHub refuses it in $GITHUB_ENV.
       - name: Name the Claude cost ledger
-        run: echo "CLAUDE_COST_LEDGER=$GITHUB_WORKSPACE/data/claude-cost.jsonl" >> "$GITHUB_ENV"
+        run: |
+          echo "CLAUDE_COST_LEDGER=$GITHUB_WORKSPACE/data/claude-cost.jsonl" >> "$GITHUB_ENV"
+          echo "JOB_T0=$(date +%s)" >> "$GITHUB_ENV"
 
       - name: Discover & write events
         env:
@@ -47,7 +49,25 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           TRANSLATE_CONCURRENCY: '8'
-        run: node scripts/translate-posts.mjs
+        # The batch (half price) gets whatever the 6-hour job limit can spare,
+        # not a fixed 120 min. 2026-10-01: discovery took 88 min, the 216-request
+        # batch was still running at 120 min, got cancelled, and every
+        # translation went direct at full price (~$19 instead of ~$9.5). Nobody
+        # waits on these posts. Reserved out of the 360: 30 min for collecting a
+        # cancelled batch (claude-batch.mjs) and 70 for the direct fallback
+        # (216 jobs took 22 min at concurrency 8) plus the steps after this one.
+        # Too little left for a batch to be worth it -> skip it and go direct,
+        # rather than run past the job limit.
+        run: |
+          ELAPSED=$(( ($(date +%s) - JOB_T0) / 60 ))
+          WAIT=$(( 360 - 30 - 70 - ELAPSED ))
+          if [ "$WAIT" -lt 30 ]; then
+            echo "batch skipped: job at ${ELAPSED} min, only ${WAIT} min to spare"
+            TRANSLATE_BATCH=0 node scripts/translate-posts.mjs
+          else
+            echo "batch wait budget: ${WAIT} min (job at ${ELAPSED} min)"
+            TRANSLATE_BATCH_WAIT_MIN=$WAIT node scripts/translate-posts.mjs
+          fi
 
       - name: Build hero photo-wall thumbnails
         run: node scripts/build-wall.mjs
