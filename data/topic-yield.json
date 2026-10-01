@@ -6,12 +6,12 @@
    "hits": 1
   },
   "historic site": {
-   "attempts": 156,
-   "hits": 95
+   "attempts": 163,
+   "hits": 99
   },
   "park": {
-   "attempts": 174,
-   "hits": 105
+   "attempts": 181,
+   "hits": 112
   },
   "viewpoint": {
    "attempts": 66,
@@ -30,32 +30,32 @@
    "hits": 5
   },
   "museum": {
-   "attempts": 143,
-   "hits": 80
+   "attempts": 144,
+   "hits": 81
   },
   "noodles": {
-   "attempts": 47,
+   "attempts": 48,
    "hits": 0
   },
   "old quarter": {
-   "attempts": 164,
-   "hits": 78
+   "attempts": 166,
+   "hits": 80
   },
   "local market": {
-   "attempts": 167,
-   "hits": 60
+   "attempts": 168,
+   "hits": 61
   },
   "bookshop": {
    "attempts": 31,
    "hits": 6
   },
   "seafood": {
-   "attempts": 67,
+   "attempts": 68,
    "hits": 2
   },
   "hidden gem": {
-   "attempts": 57,
-   "hits": 36
+   "attempts": 59,
+   "hits": 38
   },
   "breakfast": {
    "attempts": 43,
@@ -188,7 +188,15 @@
   "Ueno Park": {
    "attempts": 1,
    "hits": 1
+  },
+  "autumn leaves koyo": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Yi Peng lantern festival": {
+   "attempts": 1,
+   "hits": 0
   }
  },
- "updated": "2026-09-30T14:24:44.698Z"
+ "updated": "2026-10-01T10:05:48.799Z"
 }

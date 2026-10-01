@@ -3009,13 +3009,6 @@
   "worst": "La temporada de tifones (julio a octubre) también puede implicar cierres repentinos... s",
   "at": "2026-08-15T03:22:15.133Z"
  },
- "es/hue-hue-festival-2026-autumn-festival": {
-  "hash": "be39e6e30879",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "Hue no celebra un solo día de festival: celebra un año entero de festivales, dividido en capítu",
-  "at": "2026-08-15T03:22:16.182Z"
- },
  "es/hue-hue-imperial-city": {
   "hash": "334c3a504048",
   "score": 1,
@@ -10421,13 +10414,6 @@
   "registerBreak": false,
   "worst": "木製のよろい戸から午後の光が斜めに差し込み、擦り減った床板を照らす様子、今も工場の建物にまとわりつく古い木材と機械油の匂い",
   "at": "2026-08-15T02:53:30.303Z"
- },
- "ja/hue-hue-festival-2026-autumn-festival": {
-  "hash": "7eece45cfd4b",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "祭りの空気がガラリと変わるタイミングです。",
-  "at": "2026-08-15T06:25:47.006Z"
  },
  "ja/hue-hue-imperial-city": {
   "hash": "d6aefcc0e60a",
@@ -18150,13 +18136,6 @@
   "worst": "처마가 깊게 드리운 나지막한 목조 관사 건물, 붉은 벽돌로 된 기계 공장, 녹슨 회전판(턴테이블)과...",
   "at": "2026-08-15T06:07:32.149Z"
  },
- "ko/hue-hue-festival-2026-autumn-festival": {
-  "hash": "0270df60e34d",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "현지인들은 후에 페스티벌을 하나의 티켓 필요한 대형 공연이라기보다 일상 속 배경처럼 대합니다.",
-  "at": "2026-08-15T10:31:13.159Z"
- },
  "ko/hue-hue-imperial-city": {
   "hash": "c358bf783965",
   "score": 1,
@@ -25143,13 +25122,6 @@
   "worst": "建议穿上不怕沾灰的鞋子——机具车场大部分地面为未铺设的砾石与旧道渣石。",
   "at": "2026-08-15T03:54:46.092Z"
  },
- "zh/hue-hue-festival-2026-autumn-festival": {
-  "hash": "9e0f61340eb8",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "千万别因为这个误解，把在顺化仅有的宝贵时间都押在“以为所有活动会同时发生”这件事上。",
-  "at": "2026-08-15T10:46:25.032Z"
- },
  "zh/hue-hue-imperial-city": {
   "hash": "114d896de883",
   "score": 1,
@@ -31022,5 +30994,89 @@
   "registerBreak": false,
   "worst": "游客先在露台上俯瞰整个水池，再沿参观路线往下走，踏上与水面齐平的罗马时代原始地面。",
   "at": "2026-09-30T16:27:05.586Z"
+ },
+ "es/adelaide-botanic-park": {
+  "hash": "5681cde11ef1",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "sus raíces tabulares, de un tono gris, se despliegan por el suelo como si fueran hormigón vertido",
+  "at": "2026-10-01T10:02:03.999Z"
+ },
+ "es/bocaue-my-chemical-romance-manila-concert": {
+  "hash": "618939009315",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "el trayecto supone un viaje por carretera y no un breve desplazamiento en metro",
+  "at": "2026-10-01T10:02:09.457Z"
+ },
+ "es/brisbane-brisbane-australia-temple": {
+  "hash": "5e3cb7bcd146",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "- Sábado: de 6:30am a 7:15pm, con cierre una hora antes",
+  "at": "2026-10-01T10:02:11.337Z"
+ },
+ "ja/adelaide-botanic-park": {
+  "hash": "fc8c7df0f897",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "生きている木なので、やさしく扱うよう公園から呼びかけられています。",
+  "at": "2026-10-01T10:02:17.068Z"
+ },
+ "ja/bocaue-my-chemical-romance-manila-concert": {
+  "hash": "6df576990a7d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "黒い服やマーチングバンド風のジャケットが暗黙のドレスコードで、濃いアイライナーも誰も気に留めません。",
+  "at": "2026-10-01T10:02:18.351Z"
+ },
+ "ja/brisbane-brisbane-australia-temple": {
+  "hash": "c4fed19d7fb5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "入場できるのは有効な神殿推薦状を持つ教会員に限られます。",
+  "at": "2026-10-01T10:02:19.613Z"
+ },
+ "ko/adelaide-botanic-park": {
+  "hash": "3baf5eeb9cd6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-01T10:02:23.123Z"
+ },
+ "ko/bocaue-lany-soft-world-tour": {
+  "hash": "ddd3b431e455",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-01T10:02:24.249Z"
+ },
+ "ko/brisbane-brisbane-australia-temple": {
+  "hash": "7956be02d6ab",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "브리즈번의 무더운 오후라 해도 이곳에서는 비치웨어나 운동복이 눈에 띕니다.",
+  "at": "2026-10-01T10:02:25.489Z"
+ },
+ "zh/adelaide-botanic-park": {
+  "hash": "dcdecc6dfa44",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "莫顿湾榕会掉落小果子，不仅会弄脏野餐垫，还会招来鸟儿。",
+  "at": "2026-10-01T10:02:26.843Z"
+ },
+ "zh/beijing-beijing-marathon": {
+  "hash": "e530bde43afc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "比赛当天早晨，赛道附近的部分地铁出口可能关闭。出门前请留意车站公告和官方赛事信息。",
+  "at": "2026-10-01T10:02:28.242Z"
+ },
+ "zh/brisbane-brisbane-australia-temple": {
+  "hash": "0b6ca9cc2a2d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "把草坪当作大教堂前的广场，而不是公园里的野餐地。",
+  "at": "2026-10-01T10:02:29.502Z"
  }
 }

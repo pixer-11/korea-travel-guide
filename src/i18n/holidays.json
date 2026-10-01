@@ -3275,6 +3275,54 @@
     "es": "Inicio del Ramadán",
     "zh": "斋月开始"
   },
+  "United Kingdom|Boxing Day": {
+    "ko": "박싱 데이",
+    "ja": "ボクシングデー",
+    "es": "San Esteban",
+    "zh": "节礼日"
+  },
+  "United Kingdom|Boxing Day (observed)": {
+    "ko": "박싱 데이 대체 공휴일",
+    "ja": "ボクシングデー",
+    "es": "San Esteban (trasladado)",
+    "zh": "节礼日(顺延假期)"
+  },
+  "United Kingdom|Christmas Day": {
+    "ko": "크리스마스",
+    "ja": "クリスマス",
+    "es": "Navidad",
+    "zh": "圣诞节"
+  },
+  "United Kingdom|Christmas Day (observed)": {
+    "ko": "크리스마스 대체 공휴일",
+    "ja": "クリスマス",
+    "es": "Navidad (trasladada)",
+    "zh": "圣诞节(顺延假期)"
+  },
+  "United Kingdom|Good Friday": {
+    "ko": "성금요일",
+    "ja": "聖金曜日",
+    "es": "Viernes Santo",
+    "zh": "耶稣受难日"
+  },
+  "United Kingdom|May Day": {
+    "ko": "노동절",
+    "ja": "メーデー",
+    "es": "Día del Trabajo",
+    "zh": "五一劳动节"
+  },
+  "United Kingdom|New Year's Day": {
+    "ko": "새해 첫날",
+    "ja": "元日",
+    "es": "Año Nuevo",
+    "zh": "元旦"
+  },
+  "United Kingdom|Spring Bank Holiday": {
+    "ko": "스프링 뱅크 홀리데이",
+    "ja": "スプリング・バンク・ホリデー",
+    "es": "Día festivo de primavera",
+    "zh": "春季银行假日"
+  },
   "United States|Christmas Day": {
     "ko": "크리스마스",
     "ja": "クリスマス",

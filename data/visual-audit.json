@@ -339,6 +339,12 @@
   "reason": "publish gate: Japanese garden with stone lantern, path, plausible Himeji Garden view",
   "at": "2026-09-28T16:49:41.221Z"
  },
+ "adelaide-botanic-park\u0001https://upload.wikimedia.org/wikipedia/commons/9/97/Glass_Sculpture%2C_Botanic_Park%2C_Adelaide%2C_South_Australia_-_panoramio.jpg": {
+  "slug": "adelaide-botanic-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Glass Pond Sculpture in Botanic Park, Adelaide, representative view",
+  "at": "2026-10-01T07:50:44.974Z"
+ },
  "adelaide-south-australian-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/South_Australian_Museum_on_27_February_2025.jpg/1920px-South_Australian_Museum_on_27_February_2025.jpg": {
   "slug": "adelaide-south-australian-museum",
   "verdict": "MATCH",
@@ -2664,6 +2670,12 @@
   "reason": "event-mode back-audit: Performer on stage with mic, matches concert event type",
   "at": "2026-08-07T13:02:53.645Z"
  },
+ "bath-museum-of-bath-at-work\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Museum_of_Bath_at_Work.jpg/1920px-Museum_of_Bath_at_Work.jpg": {
+  "slug": "bath-museum-of-bath-at-work",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior building with visible museum sign and entrance",
+  "at": "2026-10-01T10:05:48.785Z"
+ },
  "bath-the-roman-baths\u0001https://upload.wikimedia.org/wikipedia/commons/0/08/Roman_Baths_in_Bath_Spa%2C_England_-_July_2006.jpg": {
   "slug": "bath-the-roman-baths",
   "verdict": "MATCH",
@@ -3355,6 +3367,12 @@
   "reason": "publish gate: Clear iconic image of Brighton i360 tower and pod",
   "at": "2026-09-30T14:06:34.165Z"
  },
+ "brisbane-brisbane-australia-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Brisbane_Australia_Temple_exterior.jpg/1920px-Brisbane_Australia_Temple_exterior.jpg": {
+  "slug": "brisbane-brisbane-australia-temple",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of temple building matching venue type",
+  "at": "2026-10-01T07:39:25.474Z"
+ },
  "brisbane-brisbane-riverwalk\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Skylines_of_Brisbane_in_winter_misty_morning_seen_from_Kangaroo_Point%2C_Queensland_04.jpg/1920px-Skylines_of_Brisbane_in_winter_misty_morning_seen_from_Kangaroo_Point%2C_Queensland_04.jpg": {
   "slug": "brisbane-brisbane-riverwalk",
   "verdict": "MATCH",
@@ -3372,6 +3390,24 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior of Queensland Museum with clear signage and entrance",
   "at": "2026-09-30T14:13:06.397Z"
+ },
+ "brisbane-roma-street-parkland\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Roma_Street_Parklands%2C_Brisbane_%283365542717%29.jpg/1920px-Roma_Street_Parklands%2C_Brisbane_%283365542717%29.jpg": {
+  "slug": "brisbane-roma-street-parkland",
+  "verdict": "MATCH",
+  "reason": "publish gate: Parkland waterway with boardwalk and Brisbane skyline view",
+  "at": "2026-10-01T07:45:08.415Z"
+ },
+ "brisbane-the-collective-markets\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/The_Collective_Market_South_Bank%2C_Brisbane.jpg/3840px-The_Collective_Market_South_Bank%2C_Brisbane.jpg": {
+  "slug": "brisbane-the-collective-markets",
+  "verdict": "MATCH",
+  "reason": "publish gate: Outdoor market stalls with crowds, representative of venue",
+  "at": "2026-10-01T07:43:06.712Z"
+ },
+ "brisbane-the-commissariat-store-museum\u0001https://upload.wikimedia.org/wikipedia/commons/7/7a/Commissariat_Store%2C_Brisbane_10.jpg": {
+  "slug": "brisbane-the-commissariat-store-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of the historic museum building with gate and signage",
+  "at": "2026-10-01T07:49:54.974Z"
  },
  "bugis-albert-centre-market-food-centre\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Albert_Centre_Market_and_Food_Centre%2C_exterior.jpg/3840px-Albert_Centre_Market_and_Food_Centre%2C_exterior.jpg": {
   "slug": "bugis-albert-centre-market-food-centre",
@@ -3775,6 +3811,12 @@
   "reason": "publish gate: Exterior of heritage building plausibly matching venue in Cairns",
   "at": "2026-09-29T14:19:17.090Z"
  },
+ "cambridge-museum-of-archaeology-and-anthropology\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Museum_of_Archaeology_and_Anthropology%2C_Cambridge_16.jpg/3840px-Museum_of_Archaeology_and_Anthropology%2C_Cambridge_16.jpg": {
+  "slug": "cambridge-museum-of-archaeology-and-anthropology",
+  "verdict": "MATCH",
+  "reason": "publish gate: Museum display case of pottery artifacts, visible storage exhibit",
+  "at": "2026-10-01T07:53:41.073Z"
+ },
  "cambridge-the-fitzwilliam-museum\u0001https://upload.wikimedia.org/wikipedia/commons/6/68/FitzwilliamMuseum.jpg": {
   "slug": "cambridge-the-fitzwilliam-museum",
   "verdict": "MATCH",
@@ -3868,11 +3910,23 @@
   "reason": "publish gate: Miniature building with visitors, matches Cockington Green Gardens",
   "at": "2026-09-28T16:53:20.388Z"
  },
+ "canberra-national-arboretum-canberra\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Canberra_National_Arboretum_with_Telstra_Tower_2%2C_Canberra_ACT.jpg/1920px-Canberra_National_Arboretum_with_Telstra_Tower_2%2C_Canberra_ACT.jpg": {
+  "slug": "canberra-national-arboretum-canberra",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows arboretum building with Black Mountain Tower in Canberra",
+  "at": "2026-10-01T07:51:44.463Z"
+ },
  "canberra-national-museum-of-australia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Market_in_the_National_Museum_of_Australia_foyer_November_2025.jpg/3840px-Market_in_the_National_Museum_of_Australia_foyer_November_2025.jpg": {
   "slug": "canberra-national-museum-of-australia",
   "verdict": "MATCH",
   "reason": "publish gate: Interior with distinctive angular architecture matching the museum",
   "at": "2026-09-30T14:19:42.289Z"
+ },
+ "canberra-old-parliament-house\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Old_and_new_Parliament_Houses%3B_Canberra_Australia.jpg/3840px-Old_and_new_Parliament_Houses%3B_Canberra_Australia.jpg": {
+  "slug": "canberra-old-parliament-house",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Old Parliament House building across lake, representative view",
+  "at": "2026-10-01T07:44:10.532Z"
  },
  "canberra-the-mandalay-bus\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Mandalay_bus_September_2020.jpg/3840px-Mandalay_bus_September_2020.jpg": {
   "slug": "canberra-the-mandalay-bus",
@@ -5357,6 +5411,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows waterfront lagoon, park, and buildings representative of precinct",
   "at": "2026-09-28T17:06:54.138Z"
+ },
+ "darwin-george-brown-darwin-botanic-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/3/3e/Darwin_Bontanic_Gardens.jpg": {
+  "slug": "darwin-george-brown-darwin-botanic-gardens",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows entrance path and trees of botanic gardens",
+  "at": "2026-10-01T07:45:48.708Z"
  },
  "darwin-museum-and-art-gallery-of-the-northern-territory\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/MAGNT_Darwin%2C_2023_%2801%29.jpg/1920px-MAGNT_Darwin%2C_2023_%2801%29.jpg": {
   "slug": "darwin-museum-and-art-gallery-of-the-northern-territory",
@@ -7333,6 +7393,12 @@
   "reason": "Vietnamese noodle dish, authentic presentation, local dining",
   "at": "2026-07-25T02:43:58.268Z"
  },
+ "ho-chi-minh-city-independence-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Independence_Palace%2C_Ho_Chi_Minh_%28LRM_20230823_093633%29.jpg/3840px-Independence_Palace%2C_Ho_Chi_Minh_%28LRM_20230823_093633%29.jpg": {
+  "slug": "ho-chi-minh-city-independence-palace",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Independence Palace entrance building, recognizable architecture, representative view",
+  "at": "2026-10-01T07:38:24.748Z"
+ },
  "ho-chi-minh-city-la-scene\u0001/editor-photos/la-scene-saigon-facade.jpg": {
   "slug": "ho-chi-minh-city-la-scene",
   "verdict": "MATCH",
@@ -8383,6 +8449,12 @@
   "verdict": "MATCH",
   "reason": "Sunset over Incheon waterfront, Wolmi Island visible",
   "at": "2026-07-25T02:44:29.967Z"
+ },
+ "inverness-fort-george\u0001https://upload.wikimedia.org/wikipedia/commons/5/5e/Fort_George%2C_2003_%281%29.JPG": {
+  "slug": "inverness-fort-george",
+  "verdict": "MATCH",
+  "reason": "publish gate: Fort George's star-shaped ramparts, representative view of fortification",
+  "at": "2026-10-01T07:52:35.000Z"
  },
  "ipoh-gunung-lang-recreational-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gunung_Lang_recreational_park.jpg/1920px-Gunung_Lang_recreational_park.jpg": {
   "slug": "ipoh-gunung-lang-recreational-park",
@@ -12808,6 +12880,18 @@
   "reasonKo": "메단 식민지 저택, 건축양식 일치",
   "at": "2026-08-12T14:03:31.775Z"
  },
+ "melbourne-fitzroy-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/AUS_Melbourne%2C_Melbourne%2C_Fitzroy_Gardens_006.jpg/1920px-AUS_Melbourne%2C_Melbourne%2C_Fitzroy_Gardens_006.jpg": {
+  "slug": "melbourne-fitzroy-gardens",
+  "verdict": "MATCH",
+  "reason": "publish gate: Garden pathway with trees, lawn, historic building, representative view",
+  "at": "2026-10-01T07:48:35.892Z"
+ },
+ "melbourne-heavenly-queen-temple\u0001https://upload.wikimedia.org/wikipedia/commons/6/68/Heavenly_Queen_Temple%2C_Footscray%2C_Victoria%2C_Australia_2013.jpg": {
+  "slug": "melbourne-heavenly-queen-temple",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows temple exterior with roof and gate, representative view",
+  "at": "2026-10-01T07:41:54.493Z"
+ },
  "melbourne-melbourne-museum\u0001https://upload.wikimedia.org/wikipedia/commons/a/af/Melbourne_Museum_%28217000837%29.jpeg": {
   "slug": "melbourne-melbourne-museum",
   "verdict": "MATCH",
@@ -15616,6 +15700,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Elizabeth Quay skyline with water and iconic bridge sculpture",
   "at": "2026-09-28T17:02:24.295Z"
+ },
+ "perth-kings-park-and-botanic-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Red_Flower_in_Kings_Park_Botanic_Garden.jpg/3840px-Red_Flower_in_Kings_Park_Botanic_Garden.jpg": {
+  "slug": "perth-kings-park-and-botanic-garden",
+  "verdict": "MATCH",
+  "reason": "publish gate: Native flower close-up, plausible for botanic garden plant collection",
+  "at": "2026-10-01T07:47:03.023Z"
  },
  "perth-mindeerup\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/South_Perth_Mindeerup_02_meerkats.jpg/3840px-South_Perth_Mindeerup_02_meerkats.jpg": {
   "slug": "perth-mindeerup",
@@ -19639,11 +19729,23 @@
   "reason": "publish gate: Aerial view of Darling Harbour with Sydney skyline",
   "at": "2026-09-28T16:58:09.957Z"
  },
+ "sydney-royal-botanic-garden-sydney\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Gates_at_Royal_Botanic_Gardens_viewed_from_Art_Gallery_Road.jpg/1920px-Gates_at_Royal_Botanic_Gardens_viewed_from_Art_Gallery_Road.jpg": {
+  "slug": "sydney-royal-botanic-garden-sydney",
+  "verdict": "MATCH",
+  "reason": "publish gate: Garden entrance gates with path, representative of venue",
+  "at": "2026-10-01T07:47:52.257Z"
+ },
  "sydney-wendy-whiteley-s-secret-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Wendy_Whiteley%27s_Secret_Garden_pano.jpg/3840px-Wendy_Whiteley%27s_Secret_Garden_pano.jpg": {
   "slug": "sydney-wendy-whiteley-s-secret-garden",
   "verdict": "MATCH",
   "reason": "publish gate: Lush garden with fig tree, plausible Sydney secret garden",
   "at": "2026-09-28T16:44:19.800Z"
+ },
+ "sydney-yiu-ming-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/%281%29Yiu_Ming_Temple-2.jpg/1920px-%281%29Yiu_Ming_Temple-2.jpg": {
+  "slug": "sydney-yiu-ming-temple",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior of Chinese temple with lanterns, altar, consistent with venue",
+  "at": "2026-10-01T07:40:53.534Z"
  },
  "tagaytay-sky-ranch-tagaytay\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Ranch_Tagaytay_at_Sunset.jpg/3840px-Sky_Ranch_Tagaytay_at_Sunset.jpg": {
   "slug": "tagaytay-sky-ranch-tagaytay",

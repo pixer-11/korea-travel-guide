@@ -3238,6 +3238,11 @@
       "blurb": "斯特吉斯（Sturgis）是黑山地区一座人口仅约7,000人的小镇，但每年八月，这里都会摇身一变，成为全世界摩托车骑士心目中的圣地。届时，传奇的斯特吉斯摩托车集会（Sturgis Motorcycle Rally）会吸引来自全美各地的骑手蜂拥而至，让小镇人口暴涨数十倍。这项集会由杰克派恩吉普赛摩托车俱乐部（Jackpine Gypsies Motorcycle Club）于1938年创办，如今已发展成为全球规模最大的摩托车盛会之一，其影响力甚至蔓延到附近的迪德伍德（Deadwood）和斯皮尔菲什（Spearfish）等黑山城镇。",
       "getting": "距离斯特吉斯最近的主要机场是拉皮德城地区机场（RAP），位于小镇东南方向约40英里处，游客通常可以租车或搭乘班车前往。不过，许多骑士更愿意骑摩托车沿90号州际公路（Interstate 90）前来，途中还常常选择风景优美的16号和385号美国国道（US-16、US-385），一路穿越黑山地区。",
       "days": "游览斯特吉斯本地及其主街（Main Street）沿线的集会场地，大约安排1-2天即可。不过，大多数游客都会多逗留几天，顺道探索更广阔的黑山地区，包括迪德伍德（Deadwood）、拉什莫尔山（Mount Rushmore，即总统山）以及巴德兰兹（Badlands，恶地国家公园）等热门景点。"
+    },
+    "es": {
+      "blurb": "Sturgis es un pequeño pueblo de las Black Hills con apenas 7,000 habitantes que, cada mes de agosto, se convierte en la capital mundial de las motocicletas, cuando el legendario Sturgis Motorcycle Rally multiplica su población varias decenas de veces con motociclistas llegados de todo el país. Fundado en 1938 por el Jackpine Gypsies Motorcycle Club, el rally se ha convertido en una de las mayores concentraciones de motocicletas del planeta, desbordándose hacia pueblos cercanos de las Black Hills como Deadwood y Spearfish.",
+      "getting": "El aeropuerto principal más cercano es el Rapid City Regional Airport (RAP), ubicado a unas 40 millas al sureste de Sturgis, desde donde suele tomarse un auto de alquiler o un shuttle para completar el trayecto. Sin embargo, muchos motociclistas prefieren llegar directamente en moto por la Interstate 90, a menudo optando por rutas panorámicas como la US-16 y la US-385 a través de las Black Hills.",
+      "days": "Calcula entre 1 y 2 días para recorrer Sturgis y los puntos del rally en su calle principal, aunque la mayoría de los visitantes prolonga su estadía varios días más para explorar la región más amplia de las Black Hills, incluyendo Deadwood, el Monte Rushmore y el Badlands."
     }
   },
   "Suncheon": {
@@ -9547,6 +9552,202 @@
       "blurb": "约克是北约克郡一座保存完好的中世纪城墙古城,以雄伟的哥特式约克大教堂为中心,周围环绕着\"肉铺街\"（Shambles）那样纵横交错、木架结构林立的狭窄街巷。罗马、维京和中世纪的历史层层叠叠地沉淀在这里的鹅卵石之下，使约克成为英格兰最完整、最适合徒步探索的历史名城之一。",
       "getting": "约克火车站正好位于东海岸干线（East Coast Main Line）上，从伦敦国王十字站（London King's Cross）出发有频繁的直达列车，车程约2小时。约克本地没有机场，大多数乘飞机前来的游客会选择飞抵利兹布拉德福德机场（Leeds Bradford Airport），再转乘出租车或巴士前往；也有人选择飞往曼彻斯特机场（Manchester Airport），利用其更便捷的铁路连接前往约克。",
       "days": "安排2到3天时间，就足以轻松游览约克大教堂、城墙和老城街巷；如果时间充裕，不妨多留几天，前往周边的约克郡乡村来一场一日游。"
+    }
+  },
+  "Adana": {
+    "en": {
+      "blurb": "Adana is Turkey's fourth largest city, a sunbaked hub on the Çukurova plain known for its namesake grilled kebab, the tangy şalgam drink and the Roman era stone bridge, Taşköprü, that still spans the Seyhan River. Its skyline is anchored by the vast Sabancı Central Mosque, and the city serves as the natural base for exploring the ancient sites and castles scattered across Cilicia.",
+      "getting": "Most travellers arrive via Çukurova International Airport (COV), which opened in 2024 and sits around 35km west of the centre near Tarsus; from there, metered taxis, the Havaş airport coach and municipal buses all run into town. Adana also has a major TCDD railway station on the Adana-Mersin line, with regional and intercity services linking it to Mersin and beyond.",
+      "days": "~1-2 days is enough to see the old town, the bridge and the mosque, with extra time worth adding if you plan to use Adana as a base for day trips into the wider Cilician region."
+    },
+    "es": {
+      "blurb": "Adana es la cuarta ciudad más grande de Turquía, un bullicioso centro bañado por el sol en la llanura de Çukurova, conocido por su famoso kebab a la parrilla que lleva su nombre, la refrescante bebida şalgam y el puente de piedra de época romana, Taşköprü, que todavía cruza el río Seyhan. Su perfil urbano está dominado por la imponente Mezquita Central Sabancı, y la ciudad funciona como el punto de partida natural para explorar los yacimientos arqueológicos y castillos repartidos por la región de Cilicia.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional de Çukurova (COV), inaugurado en 2024 y situado a unos 35 km al oeste del centro, cerca de Tarso; desde allí se puede tomar un taxi con taxímetro, el autobús aeroportuario Havaş o los autobuses municipales para llegar a la ciudad. Adana cuenta además con una importante estación de ferrocarril de la TCDD en la línea Adana-Mersin, con servicios regionales e interurbanos que la conectan con Mersin y otros destinos.",
+      "days": "Con 1 o 2 días es suficiente para ver el casco antiguo, el puente y la mezquita, aunque conviene añadir más tiempo si se piensa usar Adana como base para hacer excursiones de un día por la región de Cilicia."
+    },
+    "zh": {
+      "blurb": "阿达纳是土耳其第四大城市，坐落在阳光炽烈的丘库洛瓦平原上，以同名的烤肉串、酸爽的萨尔甘姆饮料，以及至今仍横跨塞伊汉河的罗马时代石桥塔什科普吕而闻名。宏伟的萨班哲中央清真寺是这座城市天际线的地标，而阿达纳本身也是探索西里西亚地区星罗棋布的古迹与城堡的理想据点。",
+      "getting": "大多数游客经由丘库洛瓦国际机场（COV）抵达，该机场于2024年启用，位于市中心以西约35公里处、塔尔苏斯附近；从机场出发，可乘坐计价出租车、Havaş机场大巴或市内公交车前往市区。阿达纳还设有土耳其国家铁路（TCDD）在阿达纳-梅尔辛线上的主要火车站，有区域列车和城际列车连接梅尔辛及其他地区。",
+      "days": "大约1-2天便足以游览老城区、石桥和清真寺；如果计划以阿达纳为据点前往西里西亚地区更广阔的范围进行一日游，建议多安排一些时间。"
+    }
+  },
+  "Ha Long": {
+    "en": {
+      "blurb": "Ha Long Bay is famous for its thousands of limestone karsts and islets rising from emerald green water, a seascape so striking it has been a UNESCO World Heritage Site since 1994. Most visitors experience it from the deck of a cruise boat, drifting past hidden grottoes, floating fishing villages and towering rock islands that have barely changed in millions of years.",
+      "getting": "There is no commercial airport at the bay itself and no direct rail line, so most travellers fly into Hanoi's Noi Bai International Airport (HAN) and continue by road, a journey of roughly 2.5 to 4 hours by limousine bus, public coach or private car along the CT.04/CT.05 expressways. A newer regional option is Van Don International Airport (VDO), about 50km from Ha Long City, though it currently handles only a limited number of domestic flights.",
+      "days": "Most itineraries allow ~2 days and 1 night for an overnight bay cruise, which is enough to cover the main karst scenery, a cave stop and a bit of kayaking before heading back."
+    },
+    "ko": {
+      "blurb": "하롱베이는 에메랄드빛 바다 위로 솟아오른 수천 개의 석회암 카르스트와 섬들로 유명하며, 그 경관이 얼마나 아름다운지 1994년부터 유네스코 세계문화유산으로 등재되어 있습니다. 대부분의 여행객은 크루즈 선상에서 이 절경을 감상하며, 숨겨진 동굴과 수상 어촌 마을, 그리고 수백만 년의 세월 동안 거의 변하지 않은 웅장한 기암섬들 사이를 유유히 지나갑니다.",
+      "getting": "하롱베이에는 상업용 공항이나 직통 철도가 없기 때문에, 대부분의 여행객은 하노이 노이바이 국제공항(HAN)으로 입국한 뒤 육로로 이동합니다. CT.04/CT.05 고속도로를 이용해 리무진 버스, 일반 고속버스 또는 전용 차량으로 약 2.5~4시간이 소요됩니다. 비교적 새로운 대안으로는 하롱시에서 약 50km 떨어진 반돈 국제공항(VDO)이 있지만, 현재는 국내선 운항편이 제한적입니다.",
+      "days": "대부분의 일정은 1박 2일의 선상 크루즈로 구성되며, 이 정도면 주요 카르스트 경관과 동굴 탐방, 카약 체험까지 충분히 즐기고 돌아올 수 있습니다."
+    },
+    "ja": {
+      "blurb": "ハロン湾は、エメラルドグリーンの海から無数の石灰岩の奇岩や小島が立ち並ぶ絶景で知られ、その美しさから1994年にユネスコ世界遺産に登録されました。多くの旅行者はクルーズ船のデッキからこの景観を楽しみ、隠れた鍾乳洞や水上に浮かぶ漁村、何百万年もほとんど姿を変えていない巨大な奇岩の間を静かに進んでいきます。",
+      "getting": "ハロン湾自体には商業空港も鉄道路線もないため、多くの旅行者はまずハノイのノイバイ国際空港(HAN)に到着し、そこから陸路で向かいます。CT.04号線・CT.05号線の高速道路を利用し、リムジンバスや路線バス、または専用車で約2.5〜4時間の道のりです。比較的新しい選択肢として、ハロン市から約50km離れたバンドン国際空港(VDO)もありますが、現在のところ国内線のみ、便数も限られています。",
+      "days": "多くの旅程では、1泊2日の宿泊クルーズが定番です。この日程なら、湾内の代表的な奇岩群の景色を堪能しながら、鍾乳洞の見学やカヤック体験も楽しめ、十分満足できる内容となっています。"
+    },
+    "es": {
+      "blurb": "La bahía de Ha Long es célebre por sus miles de islotes y formaciones kársticas de piedra caliza que se alzan sobre aguas de un verde esmeralda, un paisaje marino tan impresionante que fue declarado Patrimonio de la Humanidad por la UNESCO en 1994. La mayoría de los visitantes la descubren desde la cubierta de un crucero, navegando entre grutas escondidas, pueblos de pescadores flotantes y majestuosas islas rocosas que apenas han cambiado en millones de años.",
+      "getting": "La bahía no cuenta con aeropuerto comercial propio ni con línea de tren directa, por lo que la mayoría de los viajeros llegan al Aeropuerto Internacional de Noi Bai (HAN), en Hanói, y continúan por carretera, un trayecto de entre 2,5 y 4 horas en autobús tipo limusina, autocar público o coche privado por las autopistas CT.04/CT.05. Una alternativa más reciente es el Aeropuerto Internacional de Van Don (VDO), a unos 50 km de la ciudad de Ha Long, aunque por ahora solo opera un número limitado de vuelos nacionales.",
+      "days": "La mayoría de los itinerarios contemplan unos 2 días y 1 noche para un crucero nocturno por la bahía, tiempo suficiente para admirar el paisaje kárstico principal, visitar una cueva y practicar algo de kayak antes de regresar."
+    },
+    "zh": {
+      "blurb": "下龙湾以成千上万座从碧绿海水中拔地而起的石灰岩山峰和小岛而闻名,这片令人惊叹的海景自1994年起就被列入联合国教科文组织世界遗产名录。大多数游客都会选择乘坐游船,一路穿行于隐秘的洞穴、漂浮的渔村以及历经数百万年几乎未曾改变的高耸岩岛之间,尽情领略这片海湾的魅力。",
+      "getting": "下龙湾本地并没有商用机场,也没有直达铁路,因此大多数游客都会先飞抵河内内排国际机场(HAN),再经陆路前往,沿CT.04/CT.05高速公路乘坐豪华巴士、公共大巴或包车,车程大约需要2.5到4小时。另一个较新的选择是云屯国际机场(VDO),距下龙市约50公里,不过目前该机场只运营数量有限的国内航班。",
+      "days": "大多数行程会安排约2天1夜的海湾过夜游船,这样的时间足以欣赏主要的石灰岩风光、游览一处洞穴,并体验一段划皮划艇的乐趣,然后再返程。"
+    }
+  },
+  "Inverness": {
+    "en": {
+      "blurb": "Inverness sits at the mouth of the River Ness as the self-styled capital of the Highlands, a compact city that serves as the natural gateway to Loch Ness, the Cairngorms and the far north coast. Its castle-topped skyline and riverside walks give it a small-town feel, even as it anchors one of Scotland's most dramatic landscapes.",
+      "getting": "Most travellers fly into Inverness Airport (INV), which has scheduled links across the UK, or take the train: Inverness railway station is the terminus of the Highland Main Line, with ScotRail services from Glasgow (~3h) and Edinburgh (~3.5h), plus the Caledonian Sleeper direct from London Euston overnight. From the airport, the city centre is reached by onward bus or rail connection rather than a direct metro link.",
+      "days": "Allow ~2 to 3 days to cover the city itself and a Loch Ness excursion, or longer if using Inverness as a base for wider Highlands touring."
+    },
+    "ko": {
+      "blurb": "네스 강 하구에 자리한 인버네스는 스스로를 '하이랜드의 수도'라 칭하는 아담한 도시로, 네스 호(Loch Ness)와 케언곰(Cairngorms), 그리고 북단 해안 지역으로 향하는 자연스러운 관문 역할을 한다. 성이 올려다보이는 스카이라인과 강변 산책로 덕분에 아기자기한 소도시 분위기를 풍기지만, 동시에 스코틀랜드에서 손꼽히게 드라마틱한 풍경의 중심축이기도 하다.",
+      "getting": "대부분의 여행자는 인버네스 공항(INV)을 이용해 입국하는데, 이 공항은 영국 각지와 정기 항공편으로 연결되어 있다. 기차를 이용할 수도 있는데, 인버네스 기차역은 하이랜드 메인 라인(Highland Main Line)의 종착역으로, 글래스고(약 3시간)와 에든버러(약 3시간 30분)에서 스코트레일(ScotRail) 열차가 운행되며, 런던 유스턴(Euston)에서 출발하는 야간 열차인 칼레도니안 슬리퍼(Caledonian Sleeper)도 직행으로 다닌다. 공항에서 시내까지는 직결 지하철이 없고, 버스나 기차로 환승해 이동해야 한다.",
+      "days": "도시 자체와 네스 호 당일 여행을 둘러보는 데는 약 2~3일 정도를 잡으면 되고, 인버네스를 거점 삼아 하이랜드 전역을 더 폭넓게 둘러보려면 그보다 더 긴 일정을 계획하는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "インヴァネスは、ネス川の河口に位置する「ハイランドの首都」を自認する街で、ロッホ・ネス、ケアンゴームズ、そして遥か北部の海岸線へと至る玄関口として知られるコンパクトな都市です。城がそびえるスカイラインと川沿いの散策路が、小さな町のような温もりを感じさせながらも、スコットランド屈指の雄大な景観の拠点となっています。",
+      "getting": "多くの旅行者はインヴァネス空港(INV)を利用します。同空港は英国各地との定期便を結んでいます。鉄道を利用する場合、インヴァネス駅はハイランド本線の終着駅で、グラスゴーから約3時間、エディンバラから約3時間半のScotRail便が運行しているほか、ロンドン・ユーストン駅からは夜行列車「カレドニアン・スリーパー」で直行することもできます。空港から市内中心部へは、直接結ぶ地下鉄はなく、バスまたは鉄道の乗り継ぎでアクセスします。",
+      "days": "市内観光とロッホ・ネスへの小旅行には、2〜3日程度を見ておくとよいでしょう。インヴァネスを拠点にハイランド地方を広く巡る場合は、さらに日数を確保することをおすすめします。"
+    },
+    "es": {
+      "blurb": "Inverness se asienta en la desembocadura del río Ness como la autoproclamada capital de las Highlands, una ciudad compacta que funciona como puerta de entrada natural al Loch Ness, los Cairngorms y la costa norte de Escocia. Su perfil urbano coronado por el castillo y sus paseos junto al río le dan un aire de pueblo pequeño, aunque es el punto de apoyo de uno de los paisajes más espectaculares de Escocia.",
+      "getting": "La mayoría de los viajeros llega en avión al Aeropuerto de Inverness (INV), que cuenta con conexiones regulares dentro del Reino Unido, o bien en tren: la estación de Inverness es la terminal de la Highland Main Line, con servicios de ScotRail desde Glasgow (~3 h) y Edimburgo (~3,5 h), además del Caledonian Sleeper, que llega directamente desde Londres Euston durante la noche. Desde el aeropuerto, el centro de la ciudad se alcanza mediante autobús o conexión ferroviaria, ya que no existe un enlace directo de metro.",
+      "days": "Se recomienda reservar entre 2 y 3 días para recorrer la ciudad y hacer una excursión al Loch Ness, o más tiempo si se usa Inverness como base para explorar las Highlands en mayor profundidad."
+    },
+    "zh": {
+      "blurb": "因弗内斯坐落在尼斯河入海口,素有\"高地之都\"之称,是一座精致紧凑的城市,也是前往尼斯湖、凯恩戈姆斯山区和苏格兰最北海岸的天然门户。城堡矗立的天际线与沿河而行的悠闲步道,让这座城市透着浓浓的小城风情,尽管它正是苏格兰最壮丽地貌的核心枢纽。",
+      "getting": "大多数游客选择飞抵因弗内斯机场(INV),该机场与英国各地均有定期航班往来;也可以选择乘火车前往——因弗内斯火车站是高地干线(Highland Main Line)的终点站,苏格兰铁路(ScotRail)提供从格拉斯哥(约3小时)和爱丁堡(约3.5小时)出发的列车服务,此外还有卡利多尼亚卧铺列车(Caledonian Sleeper)可从伦敦尤斯顿站(London Euston)直达,夜间发车。从机场前往市中心,需要换乘巴士或火车,并没有直达的地铁线路。",
+      "days": "建议预留约2至3天时间游览市区并进行尼斯湖一日游;若计划以因弗内斯为据点,深入探索更广阔的高地地区,则可适当延长行程。"
+    }
+  },
+  "Lucca": {
+    "en": {
+      "blurb": "Lucca is one of Tuscany's few cities to keep its Renaissance walls fully intact, and locals still use the tree-lined ramparts as a park for walking and cycling rather than a relic. Inside, the historic centre stays largely car-free, with medieval streets opening onto an amphitheatre-shaped piazza built directly over a Roman arena.",
+      "getting": "The nearest airport is Pisa (PSA): take the PisaMover shuttle to Pisa Centrale station, then a regional train onward to Lucca, a journey of around 45 minutes to 1 hour in total. Florence is also workable via regional train, usually with a change, in roughly 1.5 to 2 hours; Lucca's own station sits just outside the city walls, an easy walk into the centre.",
+      "days": "Lucca rewards 1 to 2 days: a single day covers the walls, the main piazzas and the cathedral, while a second allows time for the towers, museums and a slower pace through the backstreets."
+    },
+    "ko": {
+      "blurb": "루카는 토스카나에서 르네상스 시대 성벽이 완전한 형태로 남아 있는 몇 안 되는 도시 중 하나로, 현지인들은 이 가로수 늘어선 성벽 길을 유적이라기보다는 산책과 자전거를 즐기는 공원처럼 자연스럽게 이용한다. 성벽 안쪽 구시가지는 대부분 차량 통행이 금지되어 있어, 중세풍 골목길을 따라 걷다 보면 로마 시대 원형 경기장 터 위에 그대로 들어선 타원형 광장과 마주하게 된다.",
+      "getting": "가장 가까운 공항은 피사 공항(PSA)이다. 피사모버(PisaMover) 셔틀을 타고 피사 첸트랄레(Pisa Centrale) 역으로 이동한 뒤, 지역 열차로 환승해 루카까지 가면 전체 소요 시간은 약 45분에서 1시간 정도다. 피렌체에서 출발하는 경우에도 지역 열차로 이동 가능하며, 보통 한 번 환승해 1시간 30분에서 2시간 정도 걸린다. 루카 역은 성벽 바로 바깥에 있어 도심까지 걸어서 쉽게 들어갈 수 있다.",
+      "days": "루카는 1~2일 일정이면 충분히 만족스럽게 둘러볼 수 있다. 하루만 머문다면 성벽과 주요 광장, 대성당을 둘러보기에 적당하고, 이틀을 잡으면 탑과 박물관까지 여유 있게 돌아보며 골목골목을 천천히 걸어볼 시간도 생긴다."
+    },
+    "ja": {
+      "blurb": "ルッカは、ルネサンス期の城壁がほぼ完全な姿で残るトスカーナでも数少ない街のひとつです。地元の人々はこの城壁を遺跡としてではなく、木々が並ぶ散歩やサイクリングのための公園として日常的に利用しています。旧市街の中はほとんど車が入らず、中世の面影を残す通りを抜けると、ローマ時代の円形闘技場の跡にそのまま建てられた、すり鉢状の広場にたどり着きます。",
+      "getting": "最寄り空港はピサ(PSA)です。ピサモーバー(PisaMover)でピサ・チェントラーレ駅まで行き、そこから地域列車に乗り換えてルッカへ向かいます。所要時間は合計でおよそ45分から1時間です。フィレンツェからも地域列車でアクセス可能で、通常は乗り換えを挟んでおよそ1.5~2時間かかります。ルッカの駅は城壁のすぐ外に位置しており、中心部までは徒歩で気軽に行ける距離です。",
+      "days": "ルッカの観光には1~2日がおすすめです。1日あれば城壁、主要な広場、大聖堂を一通り巡ることができ、2日目があれば塔や美術館を訪れたり、裏通りをのんびり歩いて楽しんだりする時間も取れます。"
+    },
+    "es": {
+      "blurb": "Lucca es una de las pocas ciudades de la Toscana que conserva intactas sus murallas renacentistas, y los lugareños siguen usando las murallas arboladas como un parque para pasear y andar en bicicleta, más que como una reliquia del pasado. En el interior, el centro histórico permanece en gran parte libre de tráfico, con calles medievales que desembocan en una plaza con forma de anfiteatro, construida directamente sobre una antigua arena romana.",
+      "getting": "El aeropuerto más cercano es el de Pisa (PSA): se toma el shuttle PisaMover hasta la estación de Pisa Centrale y, desde allí, un tren regional hasta Lucca, un trayecto de entre 45 minutos y 1 hora en total. Florencia también es una opción viable en tren regional, normalmente con un transbordo, en aproximadamente 1,5 a 2 horas; la estación de Lucca se encuentra justo a las afueras de las murallas, a poca distancia a pie del centro.",
+      "days": "Lucca merece entre 1 y 2 días: en un solo día se pueden recorrer las murallas, las plazas principales y la catedral, mientras que un segundo día permite dedicar tiempo a las torres, los museos y disfrutar con calma de las callejuelas del centro."
+    },
+    "zh": {
+      "blurb": "卢卡是托斯卡纳少数几座完整保留文艺复兴城墙的城市之一,当地人并未将这些绿树成荫的城墙当作古迹束之高阁,而是把它当作日常散步骑行的公园来使用。城内的历史中心基本禁行机动车,中世纪街巷蜿蜒之间,豁然开朗便是那座直接建在古罗马競技场遗址之上、呈圆形剧场状的广场。",
+      "getting": "最近的机场是比萨机场(PSA):可先搭乘PisaMover机场摆渡列车前往比萨中央车站(Pisa Centrale),再转乘区域列车前往卢卡,全程大约45分钟到1小时。从佛罗伦萨出发也很方便,乘坐区域列车(通常需要换乘一次)大约1.5到2小时即可到达;卢卡火车站就在城墙外不远处,步行即可轻松进入市中心。",
+      "days": "卢卡值得安排1到2天行程:一天时间足以游览城墙、主要广场和大教堂;若有第二天,则可以从容登塔览景、参观博物馆,并慢慢在小巷里闲逛,感受这座小城的生活气息。"
+    }
+  },
+  "Málaga": {
+    "en": {
+      "blurb": "Málaga pairs a historic old town of Moorish fortresses and baroque churches with a thriving contemporary art scene anchored by the Picasso and Centre Pompidou museums, all set along a palm-lined Mediterranean waterfront. It is both the birthplace of Pablo Picasso and the unofficial capital of the Costa del Sol, giving it an easy mix of culture, beaches and nightlife rarely found in one compact city centre.",
+      "getting": "Most travellers arrive via Málaga-Costa del Sol Airport (AGP), one of Spain's busiest, which sits only ~12 minutes from the city centre on the Renfe Cercanías C1 line running directly into Málaga Centro-Alameda station. Buses and taxis from the airport's terminal are also readily available for those heading straight to hotels along the coast.",
+      "days": "Plan on ~2 to 3 days to cover the old town, Alcazaba and main museums, with extra time if you intend to use Málaga as a base for day trips along the Costa del Sol."
+    },
+    "ko": {
+      "blurb": "말라가는 무어인들이 세운 요새와 바로크 양식의 성당들이 어우러진 유서 깊은 구시가지와, 피카소 미술관과 퐁피두 센터 말라가를 중심으로 번성하는 현대 미술의 현장을 동시에 품고 있는 도시다. 이 모든 매력이 야자수가 늘어선 지중해 연안을 따라 펼쳐진다. 파블로 피카소의 고향이자 코스타 델 솔의 비공식 수도이기도 한 말라가는, 좀처럼 한 도시 중심부에서 찾아보기 힘든 문화와 해변, 나이트라이프를 자연스럽게 아우른다.",
+      "getting": "대부분의 여행객은 스페인에서 손꼽히는 혼잡도를 자랑하는 말라가-코스타 델 솔 공항(AGP)을 통해 도착한다. 공항은 렌페 세르카니아스(Cercanías) C1 노선으로 말라가 센트로-알라메다역까지 직행할 수 있어 시내 중심부까지 약 12분밖에 걸리지 않는다. 해안가 호텔로 바로 이동하려는 여행객을 위해 공항 터미널에서 버스와 택시도 손쉽게 이용할 수 있다.",
+      "days": "구시가지와 알카사바, 주요 미술관들을 둘러보려면 약 2~3일을 계획하는 것이 좋으며, 말라가를 거점으로 코스타 델 솔 지역으로 당일치기 여행을 다닐 계획이라면 여유 시간을 더 두는 것이 좋다."
+    },
+    "es": {
+      "blurb": "Málaga combina un casco histórico de fortalezas moriscas e iglesias barrocas con una vibrante escena de arte contemporáneo, encabezada por los museos Picasso y Centre Pompidou, todo ello a orillas de un paseo marítimo mediterráneo bordeado de palmeras. Es, a la vez, la ciudad natal de Pablo Picasso y la capital no oficial de la Costa del Sol, lo que le confiere una mezcla natural de cultura, playas y vida nocturna que rara vez se encuentra reunida en un centro urbano tan compacto.",
+      "getting": "La mayoría de los viajeros llega a través del aeropuerto de Málaga-Costa del Sol (AGP), uno de los más concurridos de España, situado a tan solo unos 12 minutos del centro de la ciudad gracias a la línea C1 de Renfe Cercanías, que conecta directamente con la estación de Málaga Centro-Alameda. En la terminal del aeropuerto también hay autobuses y taxis fácilmente disponibles para quienes se dirijan directamente a hoteles a lo largo de la costa.",
+      "days": "Se recomienda dedicar entre 2 y 3 días para recorrer el casco antiguo, la Alcazaba y los principales museos, y reservar tiempo adicional si se piensa usar Málaga como base para hacer excursiones de un día por la Costa del Sol."
+    },
+    "zh": {
+      "blurb": "马拉加将摩尔城堡与巴洛克教堂交织的历史老城,与由毕加索博物馆和蓬皮杜中心加持的蓬勃当代艺术氛围完美融合,所有这一切都坐落在棕榈树环绕的地中海海滨。作为巴勃罗·毕加索的出生地,同时也是太阳海岸(Costa del Sol)的非官方首府,马拉加在紧凑的市中心内轻松汇聚了文化、沙滩与夜生活,这种组合实属难得。",
+      "getting": "大多数游客经由马拉加-太阳海岸机场(AGP)抵达,这是西班牙最繁忙的机场之一,距市中心仅约12分钟车程,可乘坐Renfe Cercanías C1线直达马拉加中心-阿拉梅达站(Málaga Centro-Alameda)。对于打算直接前往沿海酒店的旅客,机场航站楼外也随时提供巴士和出租车服务。",
+      "days": "建议安排约2至3天时间游览老城区、阿尔卡萨瓦城堡(Alcazaba)及主要博物馆;如果打算以马拉加为据点,前往太阳海岸沿线进行一日游,则需预留更多时间。"
+    }
+  },
+  "Naha": {
+    "en": {
+      "blurb": "Naha is the capital of Okinawa Prefecture and the main gateway to Japan's subtropical Ryukyu Islands, a port city shaped by centuries as the seat of the independent Ryukyu Kingdom before its 19th century absorption into Japan. Its character blends restored royal heritage at Shuri Castle with the neon bustle of Kokusai Street and a cuisine and climate that feel distinct from mainland Japan.",
+      "getting": "Most travellers arrive by air at Naha Airport (OKA), which sits at the western end of the Yui Rail monorail line and connects directly into central Naha and onward through the city in well under half an hour. From elsewhere in Okinawa, buses from the regional hub near the airport and monorail stations also serve the city.",
+      "days": "Most visitors allow ~1 to 2 days to cover Naha's own sights, such as Shuri Castle and Kokusai Street, often using the city as a base before heading out to the wider Okinawan islands."
+    },
+    "ko": {
+      "blurb": "나하는 오키나와현의 현청 소재지이자 일본의 아열대 섬인 류큐 열도로 들어가는 주요 관문이다. 이 항구 도시는 19세기 일본에 편입되기 전까지 수세기 동안 독립 왕국이었던 류큐 왕국의 수도로서 오랜 역사를 쌓아왔다. 슈리성에 복원된 왕실 유산과 고쿠사이도리의 네온사인이 반짝이는 번화함이 공존하며, 음식과 기후 또한 일본 본토와는 사뭇 다른 독특한 분위기를 자아낸다.",
+      "getting": "대부분의 여행객은 나하 공항(OKA)을 통해 항공편으로 입국한다. 공항은 유이레일 모노레일 노선의 서쪽 종점에 위치해 있어 나하 시내 중심부는 물론 도시 곳곳까지 30분도 채 걸리지 않아 바로 연결된다. 오키나와 내 다른 지역에서 올 경우에는 공항 인근 교통 거점과 모노레일 역에서 출발하는 버스를 이용해도 시내까지 편리하게 이동할 수 있다.",
+      "days": "슈리성, 고쿠사이도리 같은 나하 자체의 볼거리를 둘러보는 데는 보통 1~2일 정도면 충분하며, 많은 여행객이 이곳을 거점 삼아 오키나와의 다른 섬들로 떠나기 전 머무는 경우가 많다."
+    },
+    "ja": {
+      "blurb": "那覇は沖縄県の県庁所在地であり、亜熱帯の琉球諸島への日本の玄関口です。19世紀に日本へ編入される以前、数百年にわたり独立した琉球王国の王都として栄えた港町で、首里城に残る王朝文化の面影と、国際通りのネオンきらめく賑わいが共存する独特の表情を持ち、食文化や気候も日本本土とは一線を画しています。",
+      "getting": "多くの旅行者は那覇空港(OKA)から空路で到着します。空港はゆいレールの西の起点にあり、那覇市街地へは30分足らずで直結、そこから市内各所へもスムーズにアクセスできます。沖縄本島の他の地域からは、空港やモノレール駅近くのバスターミナルを発着するバスでも那覇市内へ入ることができます。",
+      "days": "首里城や国際通りなど那覇市内の見どころを巡るだけなら、滞在日数の目安は1〜2日程度です。多くの旅行者は那覇を拠点とし、ここから沖縄本島やその周辺の島々へ足を延ばしています。"
+    },
+    "es": {
+      "blurb": "Naha es la capital de la prefectura de Okinawa y la principal puerta de entrada a las subtropicales islas Ryukyu de Japón, una ciudad portuaria forjada por siglos como sede del Reino independiente de Ryukyu antes de su anexión a Japón en el siglo XIX. Su carácter combina el patrimonio real restaurado del castillo de Shuri con el bullicio de neón de la calle Kokusai, además de una gastronomía y un clima que se sienten muy distintos a los del Japón continental.",
+      "getting": "La mayoría de los viajeros llega en avión al aeropuerto de Naha (OKA), situado en el extremo occidental de la línea de monorraíl Yui, que conecta directamente con el centro de Naha y continúa por la ciudad en bastante menos de media hora. Desde otros puntos de Okinawa, también se puede llegar en autobús desde la terminal regional cercana al aeropuerto y a las estaciones del monorraíl.",
+      "days": "La mayoría de los visitantes reserva entre 1 y 2 días para recorrer los principales atractivos de Naha, como el castillo de Shuri y la calle Kokusai, utilizando a menudo la ciudad como base antes de partir hacia el resto de las islas de Okinawa."
+    },
+    "zh": {
+      "blurb": "那霸是冲绳县的首府,也是通往日本亚热带琉球群岛的主要门户。这座港口城市历经数百年,曾是独立琉球王国的所在地,直到19世纪才被并入日本。那霸的独特魅力在于:首里城修复后的皇家遗韵,与国际通熙攘繁华的霓虹夜色交相辉映,再加上与日本本土迥然不同的美食与气候,共同塑造出这座城市别具一格的风情。",
+      "getting": "大多数游客选择乘飞机抵达那霸机场(OKA)。机场位于单轨电车\"Yui Rail\"线的西端起点,可直达那霸市中心,并在半小时内便捷通往市区各处。若从冲绳其他地区前往,也可乘坐机场及单轨电车站附近区域枢纽发出的巴士抵达市区。",
+      "days": "大多数游客会安排约1至2天的时间游览那霸本地的景点,如首里城和国际通,通常以这座城市为据点,再前往更广阔的冲绳群岛探索。"
+    }
+  },
+  "San Sebastián": {
+    "en": {
+      "blurb": "San Sebastián curves around the shell shaped Bahía de la Concha on Spain's Basque coast, pairing a Belle Époque seafront with one of the highest concentrations of Michelin stars anywhere in the world. By night its old town bars turn pintxos into a kind of edible sport, while by day surfers and sunbathers share the same golden bay that made the city a royal retreat.",
+      "getting": "Most travellers fly into Bilbao Airport (BIO) and continue by bus, a journey that Avanza Gipuzkoa runs roughly hourly and that takes around 1h20m to reach the city centre; San Sebastián's own small airport (EAS), about 20km away, has far fewer routes. By rail, the city's Renfe station sits on the Madrid–Hendaye line, with Alvia services linking it to Madrid and Barcelona in roughly 5 to 6 hours.",
+      "days": "Two to three days is enough to cover the old town, both main beaches and a proper pintxos crawl, with a fourth day useful for a day trip along the coast."
+    },
+    "ko": {
+      "blurb": "산 세바스티안은 스페인 바스크 해안에 자리한 도시로, 조개 모양의 바히아 데 라 콘차(Bahía de la Concha) 만을 따라 아름다운 곡선을 그립니다. 벨 에포크 양식의 해안가 풍경과 더불어, 전 세계에서 손꼽히는 밀집도로 미슐랭 스타 레스토랑들이 모여 있는 곳이기도 하죠. 밤이 되면 구시가지의 바(bar)들은 핀초스(pintxos)를 두고 벌이는 흥겨운 미식 경쟁의 무대로 변하고, 낮에는 서퍼와 일광욕객들이 한때 왕실의 휴양지였던 바로 그 황금빛 해변을 함께 누립니다.",
+      "getting": "대부분의 여행자는 빌바오 공항(BIO)으로 입국한 뒤 버스로 이동합니다. Avanza Gipuzkoa 버스가 거의 매시간 운행되며, 시내까지 약 1시간 20분이 걸립니다. 산 세바스티안에서 약 20km 떨어진 자체 소규모 공항(EAS)은 운항 노선이 훨씬 적은 편입니다. 기차로는 마드리드-엔다예(Hendaye) 노선상에 위치한 Renfe 기차역을 이용할 수 있으며, Alvia 열차가 마드리드와 바르셀로나를 각각 약 5~6시간 만에 연결해 줍니다.",
+      "days": "구시가지와 두 곳의 주요 해변, 그리고 제대로 된 핀초스 투어까지 즐기기에는 2~3일이면 충분하며, 나흘째는 해안을 따라 떠나는 당일치기 여행으로 알차게 보낼 수 있습니다."
+    },
+    "ja": {
+      "blurb": "スペイン・バスク地方の海岸線に抱かれるように広がるサン・セバスティアンは、貝殻の形をしたコンチャ湾を中心に発展した街。ベル・エポック調の優雅な海岸線と、世界有数の密度を誇るミシュラン星付きレストランが共存する、美食と景観のまちです。夜になると旧市街のバルが軒を連ね、ピンチョスはもはや一種のスポーツと化します。一方、昼間は同じ黄金色のビーチをサーファーと日光浴を楽しむ人々が分け合い、かつて王室の避暑地として愛されたこの街ならではの光景が広がります。",
+      "getting": "多くの旅行者はビルバオ空港(BIO)に到着し、そこからバスで移動します。Avanza Gipuzkoa社が1時間に1本程度運行しており、市街中心部までは約1時間20分。サン・セバスティアン自体にも小さな空港(EAS、市内から約20km)がありますが、就航路線はかなり限られています。鉄道の場合、市内のレンフェ駅はマドリード~アンダイエ線上にあり、Alviaの直通列車でマドリードやバルセロナまで約5~6時間で結ばれています。",
+      "days": "旧市街の散策、2つの主要ビーチ、そして本格的なピンチョス巡りを満喫するなら2~3日あれば十分です。4日目を設ければ、海岸沿いの日帰り旅行にも足を延ばせます。"
+    },
+    "es": {
+      "blurb": "San Sebastián se despliega alrededor de la Bahía de la Concha, con su característica forma de concha, en la costa vasca de España, combinando un paseo marítimo de estilo Belle Époque con una de las mayores concentraciones de estrellas Michelin del mundo. De noche, los bares del casco viejo convierten los pintxos en todo un deporte culinario, mientras que de día surfistas y bañistas comparten la misma bahía dorada que convirtió a la ciudad en un retiro predilecto de la realeza.",
+      "getting": "La mayoría de los viajeros llegan al Aeropuerto de Bilbao (BIO) y continúan en autobús, un trayecto que Avanza Gipuzkoa cubre aproximadamente cada hora y que tarda alrededor de 1h20m en llegar al centro de la ciudad; el pequeño aeropuerto propio de San Sebastián (EAS), situado a unos 20 km, cuenta con muchas menos rutas. En tren, la estación de Renfe de la ciudad se encuentra en la línea Madrid–Hendaya, con servicios Alvia que la conectan con Madrid y Barcelona en aproximadamente 5 a 6 horas.",
+      "days": "Con dos o tres días es suficiente para recorrer el casco viejo, visitar las dos playas principales y disfrutar de una buena ruta de pintxos; un cuarto día resulta útil para una excursión de un día por la costa."
+    },
+    "zh": {
+      "blurb": "圣塞巴斯蒂安坐落于西班牙巴斯克海岸,沿贝壳状的拉康查湾(Bahía de la Concha)蜿蜒而建,将美好年代风情的海滨风光与全球米其林星级餐厅密度最高的美食盛景融于一身。入夜后,老城区的酒吧将一份份pintxos小吃变成一场味觉竞技;白日里,冲浪者与日光浴爱好者共享同一片金色海湾——正是这片海湾,曾让这座城市成为王室钟爱的避暑胜地。",
+      "getting": "大多数游客会选择飞抵毕尔巴鄂机场(BIO),再转乘大巴前往市区:Avanza Gipuzkoa运营的班车大约每小时一班,车程约1小时20分钟即可抵达市中心。圣塞巴斯蒂安自己的小型机场(EAS)距市区约20公里,但航线十分有限。若乘火车前往,市内的Renfe火车站位于马德里—昂代伊(Hendaye)线路上,Alvia高速列车可直达马德里和巴塞罗那,车程约5至6小时。",
+      "days": "两到三天的时间足以游览老城区、两大主要海滩,并好好享受一次pintxos美食巡礼;若能安排第四天,则可沿海岸线来一场一日游,体验更多风光。"
+    }
+  },
+  "Sepang": {
+    "en": {
+      "blurb": "Sepang is less a town than a sprawling district south of Kuala Lumpur, best known as the site of Malaysia's main international airport and the Sepang International Circuit, a Hermann Tilke designed race track that still hosts MotoGP. Beyond the tarmac and asphalt, the district also holds Cyberjaya's tech parks and stretches of coast and palm plantation, making it a gateway visitors usually pass through rather than linger in.",
+      "getting": "Almost everyone arrives via Kuala Lumpur International Airport (KLIA), which sits within Sepang district; the KLIA Ekspres rail link runs non-stop from KL Sentral to the airport's two terminals in about 28 to 33 minutes, while the slower KLIA Transit line calls at intermediate stations including Salak Tinggi. For onward trips to attractions like the circuit, travellers typically rely on shuttle buses or taxis from the airport or nearby transit hubs rather than fixed public bus routes.",
+      "days": "Most visitors only need a few hours to half a day in Sepang itself, whether for a flight connection or a circuit race day, since it functions chiefly as a transit and event hub rather than a multi-day destination."
+    },
+    "ko": {
+      "blurb": "스팡(Sepang)은 쿠알라룸푸르 남쪽에 펼쳐진 광활한 지역으로, 마을이라기보다는 하나의 넓은 구역에 가깝습니다. 말레이시아의 주요 국제공항이 있는 곳이자, 허먼 틸케(Hermann Tilke)가 설계해 지금도 MotoGP가 열리는 세팡 인터내셔널 서킷(Sepang International Circuit)이 위치한 곳으로 가장 잘 알려져 있습니다. 활주로와 트랙을 벗어나면 사이버자야(Cyberjaya)의 첨단기술 단지, 해안선과 야자나무 농장 지대도 이 구역 안에 펼쳐져 있지만, 대부분의 방문객에게는 머물기보다 지나쳐 가는 관문 같은 곳입니다.",
+      "getting": "대부분의 여행객은 스팡 지역 안에 위치한 쿠알라룸푸르 국제공항(KLIA)을 통해 이곳에 도착합니다. KLIA 에크스프레스(KLIA Ekspres) 열차는 KL 센트럴(KL Sentral)에서 공항의 두 터미널까지 중간 정차 없이 약 28~33분이면 도착하며, 상대적으로 느린 KLIA 트랜짓(KLIA Transit) 노선은 살락 틴기(Salak Tinggi) 등 중간역에도 정차합니다. 서킷과 같은 관광지로 이동할 때는 정해진 시내버스 노선보다는 공항이나 인근 환승 거점에서 출발하는 셔틀버스나 택시를 이용하는 것이 일반적입니다.",
+      "days": "스팡은 다일 혹은 장기 체류형 여행지가 아니라 주로 경유와 이벤트를 위한 거점 역할을 하는 곳이라, 비행기 환승이든 서킷 레이스 관람이든 대부분의 방문객에게는 몇 시간에서 반나절 정도면 충분합니다."
+    },
+    "ja": {
+      "blurb": "スパンガン(セパン)は、独立した「町」というより、クアラルンプール南方に広がる広大な地区であり、マレーシアの玄関口である国際空港と、ヘルマン・ティルケ設計のレーストラック「セパン・インターナショナル・サーキット」(現在もMotoGPを開催)で最もよく知られています。滑走路やサーキットのアスファルトを離れれば、この地区にはサイバージャヤのハイテクパークや、海岸線、ヤシ農園なども広がっていますが、多くの旅行者にとっては腰を据えて滞在する場所というより、通過点としての性格が強いエリアです。",
+      "getting": "ほとんどの旅行者は、セパン地区内に位置するクアラルンプール国際空港(KLIA)を利用して訪れます。KLIAエクスプレスはKLセントラル駅から空港の2つのターミナルまでノンストップで運行し、所要時間は約28~33分です。一方、各駅停車タイプのKLIAトランジット線は、サラク・ティンギなどの途中駅にも停車します。サーキットなど周辺の観光地へ向かう場合、決まった路線バスというより、空港や近隣の交通拠点から出るシャトルバスやタクシーを利用するのが一般的です。",
+      "days": "セパン自体での滞在は、乗り継ぎの合間やサーキットのレース観戦であっても、数時間から半日もあれば十分というのがほとんどの旅行者の実感です。ここは何日も腰を据えて楽しむ目的地というよりも、あくまで交通の要衝、あるいはイベント会場としての性格が強いエリアだからです。"
+    },
+    "zh": {
+      "blurb": "八打灵再也以南的雪邦,与其说是一座小镇,不如说是一片广袤的辖区。它最为人熟知的,是马来西亚主要国际机场的所在地,以及由赫尔曼·蒂尔克（Hermann Tilke）设计、至今仍举办MotoGP摩托车大奖赛的雪邦国际赛道。除了跑道与沥青之外,这片辖区还涵盖了赛城（Cyberjaya）的科技园区,以及绵延的海岸线与棕榈种植园,因此游客大多只是途经此地,而非长留驻足。",
+      "getting": "几乎所有人都是经吉隆坡国际机场（KLIA）抵达的,该机场正位于雪邦辖区内；机场快线（KLIA Ekspres）从吉隆坡中央车站（KL Sentral）直达机场两座航站楼,全程约28至33分钟无需中途停靠,而班次较慢的机场支线（KLIA Transit）则会停靠沙叻丁宜（Salak Tinggi）等中途站点。若要前往赛道等景点,游客通常依靠机场或附近交通枢纽提供的接驳巴士或出租车,而非固定的公共巴士路线。",
+      "days": "大多数游客在雪邦本地只需停留几个小时到半天,无论是转机还是观看赛道比赛,因为这里主要是一个交通枢纽和赛事举办地,而非适合多日游玩的目的地。"
     }
   }
 }
