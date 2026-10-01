@@ -1,296 +1,925 @@
 ---
+import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import Emoji from './Emoji.astro';
 import Newsletter from './Newsletter.astro';
 import { useTranslations, localizePath, type Lang } from '../i18n/utils';
+import { myTripStrings, MY_TRIP_STRINGS } from '../i18n/my-trip-strings';
+import { localizePlace } from '../i18n/places';
+import { slugifyRegion } from '../lib/slug';
+import countriesData from '../../data/countries.json';
 
-// The saved list. Rendered entirely on the client from localStorage, because the
-// list belongs to the visitor and this is a static site — no account, no server,
-// nothing transmitted. The page ships empty and fills itself in.
+// The saved list, redesigned 2026-10-01 from the owner's "내 여행 개선안".
 //
-// noindex: there is no content here for a crawler, and every visitor's copy is
-// different.
+// Still a static page that fills itself from localStorage (wa_trip_v1) — no
+// account, no server, nothing sent. New since the redesign:
+//   - each city's /trip-data/<lang>/<city>.json (built from the guides) refreshes
+//     old saves (hours, rating, time zone) and feeds nearby picks, the course
+//     that holds the saved places, and the trip-prep links;
+//   - live status per place in the VENUE's time zone (lib/open-now), the city's
+//     local clock, and open / closing-soon / closed counts, every 30 seconds;
+//   - days per place (none, day 1, day 2…), a by-day view with one route link
+//     per day, filters, and a share link that carries the list in the URL.
+// noindex: there is nothing here for a crawler; every visitor's copy differs.
 interface Props { lang: Lang }
 const { lang } = Astro.props;
 const t = useTranslations(lang);
+const m = myTripStrings(lang);
 
-const title = t('trip.title');
-const dek = t('trip.dek');
+// First visit ("처음 온 사람", owner's second mock-up, 10-01): start from a city.
+// Each country offers the city with the most saveable places; the list grows
+// with the guides. Barcelona leads when it exists (the mock-up's city); a
+// Korean reader is not offered Korea.
+const placePosts = await getCollection('posts', ({ data }) => !data.draft && data.category !== 'event' && !!data.place && data.place.lat != null);
+const byCountry = new Map<string, Map<string, number>>();
+for (const p of placePosts) {
+  const c = p.data.country ?? 'South Korea';
+  const r = slugifyRegion(p.data.region ?? '');
+  if (!r) continue;
+  const m0 = byCountry.get(c) ?? new Map<string, number>();
+  m0.set(r, (m0.get(r) ?? 0) + 1);
+  byCountry.set(c, m0);
+}
+const startCountries = countriesData.countries
+  .filter((c) => byCountry.has(c.name) && !(lang === 'ko' && c.name === 'South Korea'))
+  .sort((a, b) => (a.priority ?? 99) - (b.priority ?? 99))
+  .map((c) => ({ label: localizePlace(c.name, lang), rs: [...byCountry.get(c.name)!.entries()].sort((x, y) => y[1] - x[1])[0][0] }));
+const defaultStart = startCountries.find((c) => c.rs === 'barcelona')?.rs ?? startCountries[0]?.rs ?? '';
 
-// Strings the client script needs; passing them through data-attributes keeps
-// the translation lookup on the server where the dictionary lives.
-const strings = JSON.stringify({
-  empty: t('trip.empty'),
-  emptyCta: t('trip.emptyCta'),
-  emptyHref: localizePath('/destinations', lang),
-  // Saved hrefs freeze the language they were saved in, so someone who saved
-  // in Korean and later reads in Spanish was thrown back into Korean. The slug
-  // is language-neutral, so the path is rebuilt for the current locale.
-  postBase: localizePath('/posts', lang) + '/',
-  count: t('trip.count'),
-  quiet: t('trip.quiet'),
-  remove: t('trip.remove'),
-  clearConfirm: t('trip.clearConfirm'),
-});
+const strings = JSON.stringify({ ...(MY_TRIP_STRINGS as any)[lang], count: t('trip.count') });
 ---
 
-<BaseLayout title={title} description={dek} lang={lang} localized={true} noindex={true}>
-  <article class="trip">
-    <h1>{title}</h1>
-    <p class="dek">{dek}</p>
+<BaseLayout title={t('trip.title')} description={t('trip.dek')} lang={lang} localized={true} noindex={true}>
+  <div class="mt" data-mt data-lang={lang} data-strings={strings} data-dest={localizePath('/destinations', lang)}>
+    <div class="wrap">
+      <nav class="mt-crumbs" aria-label="breadcrumb">
+        <a href={localizePath('/', lang)}>{t('post.home')}</a><span aria-hidden="true">·</span><span class="mt-here">{t('trip.title')}</span>
+      </nav>
 
-    <div class="trip-bar" hidden>
-      <span class="trip-count"></span>
-      <div class="trip-actions">
-        <a class="trip-btn trip-maps" href="#" target="_blank" rel="noopener">
-          <Emoji name="round-pushpin" /> {t('trip.openAll')}
-        </a>
-        <button type="button" class="trip-btn trip-print">
-          <Emoji name="printer" /> {t('trip.print')}
-        </button>
-        <button type="button" class="trip-btn trip-clear">{t('trip.clear')}</button>
+      <div class="mt-shared" data-shared hidden>
+        <p data-shared-text></p>
+        <div>
+          <button type="button" class="mt-btn mt-btn--dark" data-shared-add>{m('sharedAdd')}</button>
+          <button type="button" class="mt-btn" data-shared-replace>{m('sharedReplace')}</button>
+          <button type="button" class="mt-btn mt-btn--plain" data-shared-dismiss>{m('sharedDismiss')}</button>
+        </div>
       </div>
+
+      <div class="mt-shared mt-demo" data-demo hidden>
+        <p>{m('demoBanner')}</p>
+        <div>
+          <button type="button" class="mt-btn mt-btn--dark" data-demo-save>{m('demoSave')}</button>
+          <button type="button" class="mt-btn mt-btn--plain" data-demo-close>{m('demoClose')}</button>
+        </div>
+      </div>
+
+      <header class="mt-hero">
+        <div class="mt-hero-text">
+          <p class="mt-badge"><span aria-hidden="true">🔒</span> <span data-full-only hidden>{m('badge')}</span><span data-empty-only>{m('eBadge')}</span></p>
+          <h1><span data-full-only hidden>{t('trip.title')}<span class="mt-h1-sub" data-headline></span></span><span data-empty-only>{m('eH1a')}<span class="mt-h1-sub">{m('eH1b')}</span></span></h1>
+          <p class="mt-dek" data-full-only hidden>{m('dek')}</p>
+          <p class="mt-dek" data-empty-only>{m('eDek')}</p>
+          <div class="mt-ectas" data-empty-only>
+            <button type="button" class="mt-btn mt-btn--rust mt-btn--big" data-demo-start>{m('eDemo')}</button>
+            <a class="mt-btn mt-btn--big" href={localizePath('/destinations', lang)}>{m('emptyCta')}</a>
+          </div>
+          <div class="mt-stats" data-full-only hidden>
+            <div class="mt-stat"><span>{m('statSaved')}</span><strong data-stat="saved"></strong></div>
+            <div class="mt-stat"><span>{m('statPlanned')}</span><strong data-stat="planned"></strong></div>
+            <div class="mt-stat mt-stat--peach"><span>{m('statBook')}</span><strong data-stat="book"></strong></div>
+            <div class="mt-stat mt-stat--leaf"><span>{m('statQuiet')}</span><strong data-stat="quiet"></strong></div>
+          </div>
+        </div>
+
+        <div class="mt-clock" data-full-only hidden>
+          <p class="mt-clock-k" data-clock-title></p>
+          <p class="mt-clock-time"><strong data-clock-time>--:--</strong> <span data-clock-date></span></p>
+          <p class="mt-clock-note"><span data-clock-diff></span> · {m('clockNote')}</p>
+          <div class="mt-clock-counts">
+            <div><span><i class="dot dot--open"></i>{m('openNow')}</span><strong data-count="open">0</strong></div>
+            <div><span><i class="dot dot--soon"></i>{m('closingSoon')}</span><strong data-count="soon">0</strong></div>
+            <div><span><i class="dot dot--closed"></i>{m('closedNow')}</span><strong data-count="closed">0</strong></div>
+          </div>
+        </div>
+
+        <div class="mt-preview-wrap" data-empty-only>
+          <div class="mt-preview">
+            <span class="mt-preview-heart" aria-hidden="true">♥</span>
+            <div class="mt-preview-head"><strong data-pv-title></strong><span data-pv-time></span></div>
+            <ul data-pv-list></ul>
+            <div class="mt-preview-chips"><span>{m('chipCall')}</span><span>{m('chipAddr')}</span><span>{m('chipDays')}</span></div>
+          </div>
+        </div>
+      </header>
+
+      <section class="mt-steps" data-empty-only>
+        <div><span class="mt-step-ico mt-step-ico--1" aria-hidden="true">♡</span><small>{m('stepN', { n: 1 })}</small><h2>{m('s1T')}</h2><p>{m('s1S')}</p></div>
+        <div><span class="mt-step-ico mt-step-ico--2" aria-hidden="true">◷</span><small>{m('stepN', { n: 2 })}</small><h2>{m('s2T')}</h2><p>{m('s2S')}</p></div>
+        <div><span class="mt-step-ico mt-step-ico--3" aria-hidden="true">▦</span><small>{m('stepN', { n: 3 })}</small><h2>{m('s3T')}</h2><p>{m('s3S')}</p></div>
+      </section>
+
+      <section class="mt-start" data-empty-only data-start={defaultStart}>
+        <div class="mt-start-head">
+          <div><h2 class="mt-h2" data-start-title></h2><p class="mt-note">{m('startSub')}</p></div>
+          <a class="mt-more" data-start-all href={localizePath('/destinations', lang)}></a>
+        </div>
+        <div class="mt-start-grid" data-start-grid></div>
+        {startCountries.length > 1 && (
+          <div class="mt-start-other">
+            <span>{m('startOther')}</span>
+            {startCountries.map((c) => <button type="button" class="mt-chip" data-start-rs={c.rs} aria-pressed={c.rs === defaultStart ? 'true' : 'false'}>{c.label}</button>)}
+          </div>
+        )}
+      </section>
+
+      <section class="mt-trust" data-empty-only>
+        <div class="mt-priv">
+          <span class="mt-priv-ico" aria-hidden="true">🔒</span>
+          <h2>{m('privTitle')}</h2>
+          <p>{m('privSub')}</p>
+          <ul><li>✓ {m('priv1')}</li><li>✓ {m('priv2')}</li><li>✓ {m('priv3')}</li></ul>
+        </div>
+        <div data-nl-slot-empty></div>
+      </section>
+
+      <div class="mt-bar" data-full-only hidden>
+        <div class="mt-seg" role="group" aria-label={m('viewList')}>
+          <button type="button" data-view="list" aria-pressed="true">☰ {m('viewList')}</button>
+          <button type="button" data-view="days" aria-pressed="false">📅 {m('viewDays')}</button>
+        </div>
+        <div class="mt-chips" role="group" aria-label={m('fAll')}>
+          <button type="button" class="mt-chip" data-filter="all" aria-pressed="true">{m('fAll')} <span data-fcount="all"></span></button>
+          <button type="button" class="mt-chip" data-filter="open" aria-pressed="false">{m('fOpen')} <span data-fcount="open"></span></button>
+          <button type="button" class="mt-chip" data-filter="book" aria-pressed="false">{m('fBook')} <span data-fcount="book"></span></button>
+        </div>
+        <a class="mt-more" data-more href={localizePath('/destinations', lang)}>{m('more')}</a>
+      </div>
+
+      <div class="mt-grid" data-full-only hidden>
+        <div class="mt-main">
+          <p class="mt-loading" data-loading hidden>{m('loading')}</p>
+          <div class="mt-list" data-list></div>
+          <p class="mt-empty" data-none hidden>{m('none')}</p>
+          <div class="mt-tools">
+            <a class="mt-btn" data-openall href="#" target="_blank" rel="noopener">📍 {m('openAll')}</a>
+            <button type="button" class="mt-btn" data-print>🖨 {m('print')}</button>
+            <button type="button" class="mt-btn mt-btn--plain" data-clear>{m('clear')}</button>
+          </div>
+
+          <section class="mt-near" data-near hidden>
+            <h2 class="mt-h2">{m('nearTitle')}</h2>
+            <p class="mt-note">♡ {m('nearSub')}</p>
+            <div class="mt-near-grid" data-near-list></div>
+          </section>
+
+          <a class="mt-course" data-course hidden href="#">
+            <span class="mt-course-img" data-course-img></span>
+            <span class="mt-course-body">
+              <span class="mt-pill" data-course-kicker></span>
+              <strong data-course-title></strong>
+              <span data-course-text></span>
+            </span>
+            <span class="mt-btn mt-btn--rust">{m('courseGo')}</span>
+          </a>
+        </div>
+
+        <aside class="mt-side">
+          <section class="mt-card mt-card--keep">
+            <p class="mt-card-ico" aria-hidden="true">🔗</p>
+            <h2>{m('keepTitle')}</h2>
+            <p>{m('keepSub')}</p>
+            <button type="button" class="mt-btn mt-btn--light mt-btn--wide" data-share>{m('shareCopy')}</button>
+            <p class="mt-keep-note">{m('shareSub')}</p>
+          </section>
+          <div data-nl-slot-full><div class="mt-nl" data-nl><Newsletter compact={true} lang={lang} heading={m('nlTitle')} dek={m('nlSub')} /></div></div>
+          <section class="mt-card" data-prep hidden>
+            <h2 data-prep-title></h2>
+            <ul class="mt-prep" data-prep-list></ul>
+            <p class="mt-note">{m('affNote')}</p>
+          </section>
+        </aside>
+      </div>
+
+      <p class="mt-local">{t('trip.local')}</p>
+      <p class="sr-only" role="status" aria-live="polite" data-live></p>
     </div>
 
-    <div class="trip-list" data-strings={strings}></div>
-    {/* Removing an item silently told a screen-reader user nothing. */}
-    <p class="sr-only" role="status" aria-live="polite"></p>
-
-    <p class="trip-note">{t('trip.local')}</p>
-
-    {/* Saved list → owned channel (growth research B1 bridge, 2026-08-13):
-        someone with a saved list is planning a real trip — the one moment a
-        subscribe ask is a favor rather than an interruption. The list itself
-        stays in localStorage; only the email goes anywhere. */}
-    <Newsletter compact={true} lang={lang} />
-  </article>
+    <dialog class="mt-dialog" data-addr-dialog>
+      <p class="mt-dialog-name" data-addr-name></p>
+      <p class="mt-dialog-addr" data-addr-text></p>
+      <div>
+        <button type="button" class="mt-btn mt-btn--dark" data-addr-copy>{m('copy')}</button>
+        <button type="button" class="mt-btn" data-addr-close>{m('close')}</button>
+      </div>
+    </dialog>
+  </div>
 </BaseLayout>
 
-<!-- Global, not scoped: the header and footer belong to other components, and a
-     scoped rule cannot reach them. TripChecklist has the same rule scoped, which
-     is why it never worked there either. -->
 <style is:global>
   @media print {
     .site-header, .site-footer, .newsletter, .sticky-book { display: none !important; }
   }
 </style>
 
-<style>
-  .trip { max-width: var(--wrap); margin: 0 auto; padding: 2rem 1rem 0; }
-  .trip h1 { margin: 0 0 0.5rem; }
-  .dek { color: var(--muted); margin: 0 0 1.5rem; }
-
-  /* `hidden` alone loses here: Astro scopes .trip-bar to an attribute selector,
-     which outranks the [hidden]{display:none} in the reset. The toolbar rendered
-     over the empty state on a first visit, with a Maps link pointing at "#".
-     ItineraryPage.astro and .sticky-book already solve it this way. */
-  .trip-bar[hidden], .trip-btn[hidden] { display: none; }
-  .trip-bar {
-    display: flex; flex-wrap: wrap; align-items: center; gap: 0.75rem;
-    padding: 0.9rem 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line);
-    margin-bottom: 1.4rem;
-  }
-  .trip-count { font-weight: 700; }
-  .trip-actions { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-left: auto; }
-  .trip-btn {
-    display: inline-flex; align-items: center; gap: 0.35rem;
-    padding: 0.45rem 0.85rem; border: 1px solid var(--line-strong); border-radius: 999px;
-    background: var(--surface); color: var(--ink); font: inherit; font-size: 0.85rem;
-    font-weight: 600; text-decoration: none; cursor: pointer;
-  }
-  .trip-btn:hover { border-color: var(--accent); color: var(--accent); }
-
-  .trip-note { margin: 2rem 0 0; color: var(--muted); font-size: 0.8rem; }
-
-  @media print {
-    .trip-bar, .trip-note, .dek { display: none; }
-  }
-</style>
-
-<!-- Everything below styles nodes this page BUILDS WITH innerHTML, so it cannot
-     be scoped. Astro compiles a scoped rule to `.trip-item[data-astro-cid-…]`
-     and only stamps that attribute on markup it renders itself — the injected
-     rows never carry it. The result was a polished header bar sitting directly
-     above a list with no layout at all: zero-size thumbnails, default grey
-     system buttons for "Remove", and an empty-state CTA that looked like plain
-     black text instead of a link. The comment above says TripChecklist hit this
-     same wall; it is the second time, so these rules live out here now. -->
+<!-- Global: most of this page is built by the script with innerHTML, which
+     never carries Astro's scoping attribute. Every rule is under .mt. -->
 <style is:global>
-  .trip-item {
-    display: flex; gap: 1rem; align-items: flex-start;
-    padding: 1rem 0; border-bottom: 1px solid var(--line-soft);
-  }
-  .trip-thumb {
-    width: 92px; height: 68px; flex: none; border-radius: var(--r-sm);
-    object-fit: cover; background: var(--surface-2);
-  }
-  .trip-body { flex: 1; min-width: 0; }
-  .trip-name { font-weight: 700; color: var(--ink); text-decoration: none; }
-  .trip-name:hover { color: var(--accent); text-decoration: underline; }
-  .trip-where { color: var(--muted); font-size: 0.85rem; margin: 0.15rem 0 0; }
-  .trip-facts { margin: 0.4rem 0 0; font-size: 0.85rem; line-height: 1.7; }
-  .trip-facts a { color: var(--accent); text-decoration: none; }
-  .trip-facts .k { color: var(--muted); }
-  .trip-quiet { font-weight: 700; color: var(--accent); }
-  .trip-remove {
-    flex: none; background: none; border: none; color: var(--muted);
-    font: inherit; font-size: 0.8rem; cursor: pointer; padding: 0.2rem 0.4rem;
-  }
-  .trip-remove:hover { color: var(--accent); text-decoration: underline; }
+  .mt { --mt-brown: #6b3413; --mt-rust: #c0652f; --mt-forest: #26301c; --mt-forest-2: #3b4a2c; --mt-peach: #fde3d4; --mt-leaf: #e3ecd0; --mt-sand: #f1e8d8; --mt-cream: #fbf7ef; --mt-on-dark: #f6f1e6; --mt-brown-text: #6b3413; padding: 1.4rem 0 3rem; }
+  @media (prefers-color-scheme: dark) { :root:not([data-theme='light']) .mt { --mt-brown: #4a2610; --mt-forest: #1c2414; --mt-forest-2: #2b3620; --mt-peach: #3a2620; --mt-leaf: #26301c; --mt-sand: #2a251d; --mt-cream: #221f19; --mt-brown-text: #e8a577; } }
+  :root[data-theme='dark'] .mt { --mt-brown: #4a2610; --mt-forest: #1c2414; --mt-forest-2: #2b3620; --mt-peach: #3a2620; --mt-leaf: #26301c; --mt-sand: #2a251d; --mt-cream: #221f19; --mt-brown-text: #e8a577; }
+  .mt [hidden] { display: none !important; }
+  .mt-crumbs { display: flex; gap: .45rem; font-size: .85rem; color: var(--muted); margin-bottom: 1rem; }
+  .mt-crumbs a { color: inherit; text-decoration: none; }
+  .mt-here { color: var(--ink); font-weight: 700; }
 
-  .trip-empty { padding: 2.5rem 0; color: var(--muted); }
-  .trip-empty a { color: var(--accent); font-weight: 600; }
+  .mt-shared { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .6rem 1rem; padding: 1rem 1.2rem; margin-bottom: 1rem; border-radius: 18px; background: var(--mt-leaf); }
+  .mt-shared p { margin: 0; font-weight: 700; color: var(--ink); }
+  .mt-shared div { display: flex; flex-wrap: wrap; gap: .4rem; }
 
+  .mt-hero { display: grid; grid-template-columns: minmax(0, 1.05fr) minmax(0, .95fr); gap: 1.6rem; align-items: stretch; }
+  .mt-badge { display: inline-flex; gap: .35rem; align-items: center; margin: 0 0 1rem; padding: .3rem .8rem; border-radius: var(--r-pill); background: var(--mt-leaf); color: var(--pine, var(--ink)); font-size: .82rem; font-weight: 600; }
+  .mt-hero h1 { font-family: var(--font-display); font-size: clamp(2.2rem, 5.6vw, 3.6rem); line-height: 1.1; letter-spacing: -0.02em; margin: 0 0 1rem; color: var(--ink); word-break: keep-all; overflow-wrap: anywhere; }
+  .mt-h1-sub { display: block; color: var(--mt-brown-text); }
+  .mt-dek { color: var(--ink-soft); line-height: 1.75; margin: 0 0 1.2rem; max-width: 34rem; }
+  .mt-stats { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: .6rem; }
+  .mt-stat { display: flex; flex-direction: column; justify-content: space-between; gap: .4rem; padding: .9rem 1rem; border-radius: 18px; background: var(--mt-cream); border: 1px solid var(--line-soft, var(--line)); min-width: 0; }
+  .mt-stat span { font-size: .8rem; font-weight: 700; color: var(--ink-soft); line-height: 1.3; }
+  .mt-stat strong { font-family: var(--font-display); font-size: 1.5rem; color: var(--ink); }
+  .mt-stat--peach { background: var(--mt-peach); border-color: transparent; }
+  .mt-stat--leaf { background: var(--mt-leaf); border-color: transparent; }
+
+  .mt-clock { position: relative; overflow: hidden; display: flex; flex-direction: column; padding: 1.8rem; border-radius: 28px; background: var(--mt-forest); color: var(--mt-on-dark); }
+  .mt-clock::before { content: ''; position: absolute; right: -4rem; top: -4rem; width: 13rem; height: 13rem; border-radius: 50%; background: var(--mt-forest-2); }
+  .mt-clock > * { position: relative; }
+  .mt-clock-k { margin: 0; font-size: .88rem; font-weight: 700; opacity: .9; }
+  .mt-clock-time { margin: .4rem 0 .2rem; display: flex; flex-wrap: wrap; align-items: baseline; gap: .2rem .8rem; }
+  .mt-clock-time strong { font-family: var(--font-display); font-size: clamp(3rem, 8vw, 4.6rem); line-height: 1; color: #fff; font-variant-numeric: tabular-nums; }
+  .mt-clock-time span { font-weight: 700; }
+  .mt-clock-note { margin: 0; font-size: .82rem; opacity: .8; }
+  .mt-clock-counts { margin-top: auto; padding-top: 1.4rem; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .6rem; }
+  .mt-clock-counts div { display: flex; flex-direction: column; gap: .35rem; padding: .8rem .9rem; border-radius: 16px; background: rgba(255, 255, 255, .08); min-width: 0; }
+  .mt-clock-counts span { font-size: .78rem; font-weight: 700; line-height: 1.3; display: flex; gap: .35rem; align-items: baseline; }
+  .mt-clock-counts strong { font-family: var(--font-display); font-size: 1.8rem; color: #fff; }
+  .mt .dot { width: .5rem; height: .5rem; border-radius: 50%; flex: none; display: inline-block; }
+  .mt .dot--open { background: #8fc36b; } .mt .dot--soon { background: #f0a35c; } .mt .dot--closed { background: #b9b2a5; }
+  .mt-how-title { font-family: var(--font-display); font-size: clamp(1.4rem, 3vw, 1.9rem); font-weight: 800; margin: .6rem 0 1rem; color: #fff; line-height: 1.25; }
+  .mt-how ol { list-style: none; margin: 0 0 1.4rem; padding: 0; display: flex; flex-direction: column; gap: .6rem; }
+  .mt-how li { display: flex; gap: .8rem; align-items: flex-start; padding: .7rem .9rem; border-radius: 16px; background: rgba(255, 255, 255, .08); }
+  .mt-how li b { flex: none; width: 1.7rem; height: 1.7rem; border-radius: 50%; display: grid; place-items: center; background: var(--mt-on-dark); color: var(--mt-forest); font-size: .85rem; }
+  .mt-how li span { display: flex; flex-direction: column; font-size: .85rem; opacity: .9; }
+  .mt-how li strong { font-size: .95rem; opacity: 1; color: #fff; }
+  .mt-how .mt-btn { margin-top: auto; align-self: flex-start; }
+
+  .mt-h2 { font-family: var(--font-display); font-size: clamp(1.3rem, 3vw, 1.65rem); font-weight: 800; color: var(--ink); margin: 0 0 .4rem; }
+  .mt-note { color: var(--muted); font-size: .85rem; margin: 0 0 1rem; }
+  /* ── First visit (owner's "처음 온 사람" mock-up) ── */
+  .mt-ectas { display: flex; flex-wrap: wrap; gap: .6rem; }
+  .mt-btn--big { padding: .75rem 1.3rem; font-size: .95rem; }
+  .mt-preview-wrap { position: relative; padding: 1.2rem 1.2rem 1.2rem 1.6rem; }
+  .mt-preview-wrap::before { content: ''; position: absolute; right: -1rem; top: -1rem; width: 12rem; height: 12rem; border-radius: 50%; background: var(--mt-peach); opacity: .7; }
+  .mt-preview-wrap::after { content: ''; position: absolute; left: -.5rem; bottom: -1.2rem; width: 7rem; height: 7rem; border-radius: 50%; background: var(--mt-leaf); }
+  .mt-preview { position: relative; z-index: 1; padding: 1.5rem; border-radius: 28px; background: var(--mt-forest); color: var(--mt-on-dark); box-shadow: 0 18px 40px rgba(40, 30, 15, .18); }
+  .mt-preview-heart { position: absolute; left: -1.4rem; top: -1.4rem; width: 3.6rem; height: 3.6rem; border-radius: 50%; display: grid; place-items: center; background: var(--mt-brown); color: #fff; font-size: 1.6rem; box-shadow: 0 6px 16px rgba(0, 0, 0, .2); }
+  .mt-preview-head { display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; margin: 0 0 .9rem; }
+  .mt-preview-head strong { font-family: var(--font-display); font-size: 1.25rem; color: #fff; }
+  .mt-preview-head span { font-size: .8rem; font-weight: 700; color: #c9dba8; }
+  .mt-preview ul { list-style: none; margin: 0 0 1rem; padding: 0; display: flex; flex-direction: column; gap: .55rem; }
+  .mt-preview li { display: flex; align-items: center; gap: .8rem; padding: .5rem .8rem .5rem .5rem; border-radius: var(--r-pill); background: var(--mt-forest-2); }
+  .mt-preview li img, .mt-preview li i { width: 2.8rem; height: 2.8rem; border-radius: 50%; object-fit: cover; flex: none; background: rgba(255, 255, 255, .1); }
+  .mt-preview li span { display: flex; flex-direction: column; gap: .2rem; min-width: 0; }
+  .mt-preview li strong { font-size: .95rem; color: #fff; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .mt-preview li em { font-style: normal; align-self: flex-start; padding: .1rem .55rem; border-radius: var(--r-pill); background: var(--mt-on-dark); color: #26301c; font-size: .75rem; font-weight: 700; }
+  .mt-preview-chips { display: flex; flex-wrap: wrap; gap: .4rem; }
+  .mt-preview-chips span { padding: .3rem .75rem; border-radius: var(--r-pill); background: rgba(255, 255, 255, .1); font-size: .78rem; font-weight: 700; }
+
+  .mt-steps { margin-top: 3rem; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .9rem; }
+  .mt-steps > div { padding: 1.5rem; border-radius: 24px; background: var(--mt-cream); border: 1px solid var(--line-soft, var(--line)); }
+  .mt-step-ico { display: inline-grid; place-items: center; width: 2.8rem; height: 2.8rem; border-radius: 50%; color: #fff; font-size: 1.2rem; margin-right: .6rem; vertical-align: middle; }
+  .mt-step-ico--1 { background: var(--mt-brown); } .mt-step-ico--2 { background: #5a6b3e; } .mt-step-ico--3 { background: #3d342b; }
+  .mt-steps small { font-size: .8rem; font-weight: 700; color: var(--muted); vertical-align: middle; }
+  .mt-steps h2 { margin: 1rem 0 .5rem; font-size: 1.1rem; font-weight: 800; color: var(--ink); }
+  .mt-steps p { margin: 0; color: var(--ink-soft); line-height: 1.65; font-size: .92rem; }
+
+  .mt-start { margin-top: 3rem; }
+  .mt-start-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-end; gap: .4rem 1rem; margin-bottom: 1rem; }
+  .mt-start-head .mt-note { margin: 0; }
+  .mt-start-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .9rem; }
+  .mt-start-card { position: relative; display: flex; flex-direction: column; border-radius: 24px; overflow: hidden; background: var(--mt-cream); border: 1px solid var(--line-soft, var(--line)); min-width: 0; }
+  .mt-start-card .mt-start-img { display: block; aspect-ratio: 16 / 9; overflow: hidden; background: var(--mt-sand); }
+  .mt-start-card img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .mt-start-card > div { display: flex; flex-direction: column; gap: .3rem; padding: 1rem 1.2rem 1.2rem; }
+  .mt-start-card small { font-size: .78rem; font-weight: 700; color: var(--muted); }
+  .mt-start-card a { font-weight: 800; color: var(--ink); text-decoration: none; overflow-wrap: anywhere; }
+  .mt-start-card a:hover { color: var(--accent-text); }
+  .mt-start-card p { margin: 0; font-size: .88rem; color: var(--ink-soft); }
+  .mt-start-card p b { color: var(--mt-brown-text); }
+  .mt-heart { position: absolute; top: .8rem; right: .8rem; width: 2.6rem; height: 2.6rem; border-radius: 50%; border: 0; background: rgba(255, 255, 255, .94); color: #6b3413; font-size: 1.2rem; cursor: pointer; box-shadow: 0 2px 10px rgba(0, 0, 0, .15); }
+  .mt-heart[aria-pressed='true'] { background: #6b3413; color: #fff; }
+  .mt-start-other { display: flex; flex-wrap: wrap; align-items: center; gap: .4rem; margin-top: 1rem; }
+  .mt-start-other > span { font-size: .85rem; color: var(--muted); margin-right: .3rem; }
+  .mt-start-other .mt-chip { font-size: .82rem; padding: .3rem .8rem; }
+
+  .mt-trust { margin-top: 3rem; display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: .9rem; align-items: stretch; }
+  .mt-priv { padding: 1.8rem; border-radius: 28px; background: var(--mt-leaf); }
+  .mt-priv-ico { display: inline-grid; place-items: center; width: 2.8rem; height: 2.8rem; border-radius: 50%; background: var(--mt-cream); font-size: 1.1rem; }
+  .mt-priv h2 { margin: 1rem 0 .6rem; font-family: var(--font-display); font-size: clamp(1.25rem, 2.6vw, 1.55rem); font-weight: 800; color: var(--ink); }
+  .mt-priv p { margin: 0 0 1rem; color: var(--ink-soft); line-height: 1.7; font-size: .92rem; }
+  .mt-priv ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: .4rem; }
+  .mt-priv li { padding: .3rem .8rem; border-radius: var(--r-pill); background: var(--mt-cream); font-size: .82rem; font-weight: 700; color: var(--ink); }
+  .mt-trust .mt-nl, .mt-trust .mt-nl .newsletter { height: 100%; }
+  .mt-pill { display: inline-block; align-self: flex-start; padding: .2rem .65rem; border-radius: var(--r-pill); background: var(--mt-sand); font-size: .75rem; font-weight: 700; color: var(--ink-soft); }
+
+  .mt-bar { display: flex; flex-wrap: wrap; align-items: center; gap: .6rem 1rem; margin: 2rem 0 1rem; padding-bottom: 1rem; border-bottom: 1px solid var(--line); }
+  .mt-seg { display: inline-flex; padding: .25rem; border-radius: var(--r-pill); background: var(--mt-cream); border: 1px solid var(--line-soft, var(--line)); }
+  .mt-seg button { font: inherit; font-size: .9rem; font-weight: 700; padding: .45rem 1rem; border: 0; border-radius: var(--r-pill); background: transparent; color: var(--ink-soft); cursor: pointer; }
+  .mt-seg button[aria-pressed='true'] { background: var(--mt-sand); color: var(--mt-brown-text); }
+  .mt-chips { display: flex; flex-wrap: wrap; gap: .4rem; }
+  .mt-chip { font: inherit; font-size: .88rem; font-weight: 700; padding: .4rem .9rem; border-radius: var(--r-pill); border: 1px solid var(--line); background: var(--surface); color: var(--ink); cursor: pointer; }
+  .mt-chip span { font-weight: 600; opacity: .7; }
+  .mt-chip[aria-pressed='true'] { background: var(--mt-forest); border-color: var(--mt-forest); color: var(--mt-on-dark); }
+  .mt-more { margin-left: auto; font-weight: 700; color: var(--mt-brown-text); text-decoration: none; font-size: .92rem; }
+
+  .mt-grid { display: grid; grid-template-columns: minmax(0, 1.3fr) minmax(0, 1fr); gap: 1.4rem; align-items: start; }
+  .mt-list { display: flex; flex-direction: column; gap: .9rem; }
+  .mt-day-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: .4rem 1rem; margin: 1rem 0 .1rem; }
+  .mt-day-head:first-child { margin-top: 0; }
+  .mt-day-head h3 { margin: 0; font-size: 1.1rem; font-weight: 800; color: var(--ink); }
+  .mt-day-head a { font-size: .85rem; font-weight: 700; color: var(--mt-brown-text); text-decoration: none; }
+  .mt-addday { align-self: flex-start; }
+
+  .mt-item { position: relative; display: grid; grid-template-columns: 11rem minmax(0, 1fr); gap: 1.1rem; padding: .9rem; border-radius: 24px; background: var(--mt-cream); border: 1px solid var(--line-soft, var(--line)); }
+  .mt-thumb { position: relative; aspect-ratio: 1; border-radius: 18px; overflow: hidden; background: var(--mt-sand); }
+  .mt-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .mt-thumb .mt-daybadge { position: absolute; top: .55rem; left: .55rem; padding: .2rem .65rem; border-radius: var(--r-pill); background: var(--mt-brown); color: #fff; font-size: .75rem; font-weight: 700; }
+  .mt-thumb .mt-daybadge--unset { background: rgba(255, 255, 255, .92); color: #3a2e22; }
+  .mt-body { min-width: 0; padding-right: 2.2rem; display: flex; flex-direction: column; gap: .45rem; }
+  .mt-area { margin: .2rem 0 0; font-size: .8rem; font-weight: 700; color: var(--muted); }
+  .mt-name { font-size: 1.2rem; font-weight: 800; color: var(--ink); text-decoration: none; line-height: 1.3; overflow-wrap: anywhere; }
+  .mt-name:hover { color: var(--accent-text); }
+  .mt-status { align-self: flex-start; display: inline-flex; gap: .4rem; align-items: center; padding: .3rem .75rem; border-radius: var(--r-pill); background: var(--mt-sand); font-size: .85rem; font-weight: 700; color: var(--ink); }
+  .mt-status--open { background: var(--mt-leaf); }
+  .mt-status--soon { background: var(--mt-peach); }
+  .mt-rating { margin: 0; font-size: .9rem; color: var(--ink-soft); }
+  .mt-rating b { color: var(--mt-brown-text); }
+  .mt-tags { display: flex; flex-wrap: wrap; gap: .35rem; }
+  .mt-tag { padding: .2rem .6rem; border-radius: 10px; background: var(--surface); font-size: .8rem; color: var(--ink-soft); }
+  .mt-tag--quiet { background: var(--mt-leaf); color: var(--ink); }
+  .mt-tag--book { background: var(--mt-peach); color: var(--accent-text); font-weight: 700; }
+  .mt-tag--closed { background: var(--mt-sand); }
+  .mt-acts { display: flex; flex-wrap: wrap; gap: .4rem; }
+  .mt-act { display: inline-flex; align-items: center; gap: .3rem; padding: .4rem .8rem; border-radius: var(--r-pill); border: 1px solid var(--line); background: var(--surface); color: var(--ink); font: inherit; font-size: .85rem; font-weight: 700; text-decoration: none; cursor: pointer; }
+  .mt-act:hover { border-color: var(--accent); }
+  .mt-days { align-self: flex-end; display: inline-flex; flex-wrap: wrap; gap: .15rem; padding: .2rem; border-radius: var(--r-pill); background: var(--mt-sand); }
+  .mt-days button { font: inherit; font-size: .8rem; font-weight: 700; padding: .3rem .7rem; border: 0; border-radius: var(--r-pill); background: transparent; color: var(--ink-soft); cursor: pointer; }
+  .mt-days button[aria-pressed='true'] { background: var(--mt-brown); color: #fff; }
+  .mt-x { position: absolute; top: .9rem; right: .9rem; width: 2rem; height: 2rem; border-radius: 50%; border: 0; background: var(--mt-sand); color: var(--ink); font-size: 1rem; cursor: pointer; }
+  .mt-x:hover { background: var(--mt-peach); }
+
+  .mt-tools { display: flex; flex-wrap: wrap; gap: .5rem; margin: 1.2rem 0 0; }
+  .mt-btn { display: inline-flex; align-items: center; justify-content: center; gap: .35rem; padding: .55rem 1.05rem; border-radius: var(--r-pill); border: 1px solid var(--line); background: var(--surface); color: var(--ink); font: inherit; font-size: .88rem; font-weight: 700; text-decoration: none; cursor: pointer; }
+  .mt-btn:hover { border-color: var(--accent); }
+  .mt-btn--dark { background: var(--mt-forest); border-color: var(--mt-forest); color: var(--mt-on-dark); }
+  .mt-btn--light { background: var(--mt-on-dark); border-color: var(--mt-on-dark); color: #26301c; }
+  .mt-btn--rust { background: var(--mt-rust); border-color: var(--mt-rust); color: #fff; }
+  .mt-btn--plain { border-color: transparent; background: transparent; color: var(--muted); }
+  .mt-btn--wide { width: 100%; }
+  .mt-loading, .mt-empty { color: var(--muted); }
+
+  .mt-near { margin-top: 2.4rem; }
+  .mt-near-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .7rem; }
+  .mt-near-card { display: flex; flex-direction: column; border-radius: 20px; overflow: hidden; background: var(--mt-cream); border: 1px solid var(--line-soft, var(--line)); min-width: 0; }
+  .mt-near-card .mt-near-img { display: block; aspect-ratio: 4 / 3; overflow: hidden; background: var(--mt-sand); }
+  .mt-near-card img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .mt-near-card div { display: flex; flex-direction: column; gap: .3rem; padding: .9rem 1rem 1rem; flex: 1; }
+  .mt-near-card small { font-size: .78rem; font-weight: 700; color: var(--muted); }
+  .mt-near-card a.mt-near-name { font-weight: 800; color: var(--ink); text-decoration: none; overflow-wrap: anywhere; }
+  .mt-near-card p { margin: 0; font-size: .85rem; color: var(--ink-soft); }
+  .mt-near-card .mt-btn { margin-top: auto; }
+  .mt-near-card .mt-btn[aria-pressed='true'] { background: var(--mt-leaf); border-color: transparent; }
+
+  .mt-course { margin-top: 1.6rem; display: grid; grid-template-columns: 9rem minmax(0, 1fr) auto; gap: 1.2rem; align-items: center; padding: 1.3rem; border-radius: 26px; background: var(--mt-leaf); color: var(--ink); text-decoration: none; }
+  .mt-course-img { aspect-ratio: 1; border-radius: 999px 999px 18px 18px; overflow: hidden; background: var(--mt-sand); }
+  .mt-course-img img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .mt-course-body { display: flex; flex-direction: column; gap: .45rem; }
+  .mt-course-body strong { font-family: var(--font-display); font-size: clamp(1.2rem, 2.6vw, 1.5rem); line-height: 1.25; }
+  .mt-course-body > span:last-child { font-size: .9rem; color: var(--ink-soft); line-height: 1.6; }
+
+  .mt-side { display: flex; flex-direction: column; gap: .9rem; position: sticky; top: 5rem; }
+  .mt-card { padding: 1.4rem; border-radius: 24px; background: var(--mt-cream); border: 1px solid var(--line-soft, var(--line)); }
+  .mt-card h2 { display: flex; align-items: center; gap: .55rem; margin: 0 0 .5rem; font-size: 1.15rem; font-weight: 800; color: var(--ink); }
+  .mt-card p { margin: 0 0 1rem; color: var(--ink-soft); line-height: 1.65; font-size: .92rem; }
+  .mt-card--keep { background: var(--mt-brown); color: var(--mt-on-dark); border-color: transparent; }
+  .mt-card--keep h2 { color: #fff; }
+  .mt-card--keep p { color: var(--mt-on-dark); opacity: .9; }
+  .mt-keep-note { margin: .8rem 0 0 !important; font-size: .82rem !important; opacity: .8 !important; }
+  .mt-nl .newsletter { margin: 0; border-radius: 24px; }
+  .mt-card-ico { display: inline-grid; place-items: center; width: 2.3rem; height: 2.3rem; border-radius: 50%; background: var(--mt-rust); color: #fff; margin: 0 0 .8rem; font-size: 1rem; }
+  .mt-card-ico--leaf { margin: 0; background: var(--mt-leaf); color: var(--ink); }
+  .mt-prep { list-style: none; margin: 0 0 .8rem; padding: 0; display: flex; flex-direction: column; gap: .5rem; }
+  .mt-prep a { display: grid; grid-template-columns: 2.4rem minmax(0, 1fr) auto; gap: .7rem; align-items: center; padding: .7rem .9rem; border-radius: 16px; background: var(--mt-sand); color: var(--ink); text-decoration: none; }
+  .mt-prep a:hover { outline: 1px solid var(--accent); }
+  .mt-prep i { font-style: normal; display: grid; place-items: center; width: 2.4rem; height: 2.4rem; border-radius: 50%; background: var(--surface); }
+  .mt-prep span { display: flex; flex-direction: column; min-width: 0; }
+  .mt-prep strong { font-size: .95rem; }
+  .mt-prep small { font-size: .8rem; color: var(--muted); }
+  .mt-prep em { font-style: normal; color: var(--mt-rust); font-weight: 800; }
+  .mt-local { margin: 2.4rem 0 0; color: var(--muted); font-size: .8rem; }
+
+  .mt-dialog { border: 0; border-radius: 24px; padding: 1.6rem; max-width: min(36rem, 92vw); background: var(--surface); color: var(--ink); }
+  .mt-dialog::backdrop { background: rgba(20, 16, 10, .55); }
+  .mt-dialog-name { margin: 0 0 .5rem; font-weight: 700; color: var(--muted); }
+  .mt-dialog-addr { margin: 0 0 1.2rem; font-size: clamp(1.4rem, 4.5vw, 2rem); font-weight: 800; line-height: 1.35; overflow-wrap: anywhere; }
+  .mt-dialog div { display: flex; gap: .5rem; }
+
+  @media (max-width: 959px) {
+    .mt-hero, .mt-grid, .mt-trust { grid-template-columns: 1fr; }
+    .mt-steps, .mt-start-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .mt-side { position: static; }
+  }
+  @media (max-width: 640px) {
+    .mt-stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    /* A narrow side photo squeezed the body until the day picker broke onto
+       two lines: on a phone the photo goes on top. */
+    .mt-item { grid-template-columns: 1fr; gap: .7rem; padding: .75rem; }
+    .mt-thumb { aspect-ratio: 16 / 9; }
+    .mt-body { padding-right: 0; }
+    .mt-x { top: 1.2rem; right: 1.2rem; background: rgba(255, 255, 255, .92); color: #2a2118; }
+    .mt-name { font-size: 1.05rem; }
+    .mt-days { align-self: flex-start; }
+    .mt-near-grid, .mt-steps, .mt-start-grid { grid-template-columns: 1fr; }
+    .mt-preview-wrap { padding: 1.4rem .2rem .6rem 1rem; }
+    .mt-near-card { flex-direction: row; }
+    .mt-near-card .mt-near-img { width: 7rem; aspect-ratio: auto; flex: none; }
+    .mt-course { grid-template-columns: 1fr; }
+    .mt-course-img { display: none; }
+    .mt-more { margin-left: 0; }
+    .mt-clock { padding: 1.4rem; }
+  }
   @media print {
-    .trip-item { break-inside: avoid; border-bottom: 1px solid #ddd; }
-    .trip-thumb { display: none; }
-    .trip-facts a { color: #000; text-decoration: none; }
-    /* A printed tel: link does not need its own href stapled on — the number is
-       already the visible text — and a Maps URL is 60 characters nobody can type. */
-    .trip-facts .map-one { display: none; }
+    .mt-bar, .mt-tools, .mt-side, .mt-near, .mt-course, .mt-x, .mt-days, .mt-acts, .mt-clock, .mt-shared, .mt-local, .mt-badge { display: none !important; }
+    .mt-item { break-inside: avoid; grid-template-columns: 1fr; }
+    .mt-thumb { display: none; }
   }
 </style>
 
 <script>
-  (() => {
+  import { statusAt, venueClock, hhmm } from '../lib/open-now.mjs';
+
+  const root = document.querySelector<HTMLElement>('[data-mt]');
+  if (root) {
     const KEY = 'wa_trip_v1';
-    // Typed lookups throughout this script: querySelector returns Element,
-    // which carries none of .dataset/.hidden/.href/.focus. The code was always
-    // right at runtime; annotating it is what lets `astro check` become a gate
-    // instead of 113 warnings nobody reads.
-    const list = document.querySelector<HTMLElement>('.trip-list');
-    if (!list) return;
-    const bar = document.querySelector<HTMLElement>('.trip-bar');
-    const S = JSON.parse(list.dataset.strings || '{}');
-
-    const read = () => {
-      try {
-        const raw = localStorage.getItem(KEY);
-        const v = raw ? JSON.parse(raw) : [];
-        return Array.isArray(v) ? v : [];
-      } catch { return []; }
+    const DAYS_KEY = 'wa_trip_days';
+    const VIEW_KEY = 'wa_trip_view';
+    const S: Record<string, string> = JSON.parse(root.dataset.strings || '{}');
+    const LANG = root.dataset.lang || 'en';
+    const f = (k: string, v: Record<string, string | number> = {}) =>
+      Object.entries(v).reduce((s, [a, b]) => s.split(`{${a}}`).join(String(b)), S[k] ?? k);
+    const $ = <T extends Element = HTMLElement>(sel: string) => root.querySelector<T>(sel as any) as T | null;
+    const $$ = <T extends Element = HTMLElement>(sel: string) => [...root.querySelectorAll<T>(sel as any)] as T[];
+    const esc = (s: unknown) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' } as Record<string, string>)[c]);
+    const store = {
+      get(k: string) { try { return localStorage.getItem(k); } catch { return null; } },
+      set(k: string, v: string) { try { localStorage.setItem(k, v); } catch { /* private mode */ } },
     };
-    const write = (v: unknown[]) => {
-      try {
-        localStorage.setItem(KEY, JSON.stringify(v));
-        window.dispatchEvent(new CustomEvent('wa-trip-change', { detail: { count: v.length } }));
-      } catch { /* storage unavailable */ }
+    // "See an example trip": the same page over a list held in memory only —
+    // every control works, nothing is stored until the reader saves it.
+    let demo: any[] | null = null;
+    const readStore = (): any[] => { try { const v = JSON.parse(store.get(KEY) || '[]'); return Array.isArray(v) ? v : []; } catch { return []; } };
+    const read = (): any[] => demo ?? readStore();
+    const write = (v: any[]) => {
+      if (demo) { demo = v; render(); return; }
+      store.set(KEY, JSON.stringify(v));
+      window.dispatchEvent(new CustomEvent('wa-trip-change', { detail: { count: v.length } }));
     };
 
-    const esc = (s: unknown) =>
-      String(s ?? '').replace(/[&<>"']/g, (c: string) =>
-        ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' } as Record<string, string>)[c]);
+    let view = store.get(VIEW_KEY) === 'days' ? 'days' : 'list';
+    let filter = 'all';
+    const regions = new Map<string, any>();
+    let index: string[] | null = null;
+
+    // ── City data: refresh old saves, nearby picks, course, prep ──
+    const rsOf = (it: any) => it.rs || (index ? index.filter((r) => String(it.slug).startsWith(`${r}-`)).sort((a, b) => b.length - a.length)[0] : '') || '';
+    const loadIndex = async () => {
+      if (index) return;
+      try { index = (await (await fetch('/trip-data/index.json')).json()).regions ?? []; } catch { index = []; }
+    };
+    const loadRegion = async (rs: string) => {
+      if (!rs || regions.has(rs)) return regions.get(rs);
+      regions.set(rs, null);
+      try {
+        const r = await fetch(`/trip-data/${LANG}/${rs}.json`);
+        if (r.ok) regions.set(rs, await r.json());
+      } catch { /* offline: keep what was saved */ }
+      return regions.get(rs);
+    };
+    const placeOf = (slug: string, rs: string) => regions.get(rs)?.places?.find((p: any) => p.slug === slug) ?? null;
+    const refresh = async () => {
+      const items = read();
+      if (!items.length) return;
+      if (items.some((it) => !it.rs)) await loadIndex();
+      const loading = $('[data-loading]');
+      if (loading) loading.hidden = false;
+      await Promise.all([...new Set(items.map(rsOf).filter(Boolean))].map(loadRegion));
+      if (loading) loading.hidden = true;
+      // Fresh fields from the guide; the reader's own (day, savedAt) kept.
+      let changed = false;
+      const next = read().map((it) => {
+        const p = placeOf(it.slug, rsOf(it));
+        if (!p) return it;
+        const merged = { ...it, ...p, day: it.day ?? 0, savedAt: it.savedAt };
+        if (JSON.stringify(merged) !== JSON.stringify(it)) changed = true;
+        return merged;
+      });
+      if (changed) write(next); else render();
+    };
+
+    // ── Live status in the venue's own clock ──
+    type St = { kind: 'open' | 'soon' | 'closed' | 'none'; label: string; today: string };
+    const WEEKDAY = (day: number) => new Intl.DateTimeFormat(LANG, { weekday: 'short', timeZone: 'UTC' }).format(new Date(Date.UTC(2024, 0, 1 + day)));
+    const statusOf = (it: any, now: Date): St => {
+      if (!Array.isArray(it.week) || !it.tz) return { kind: 'none', label: '', today: '' };
+      let clock;
+      try { clock = venueClock(now, it.tz); } catch { return { kind: 'none', label: '', today: '' }; }
+      const { day, min } = clock;
+      const todays = it.week[day] ?? [];
+      const today = todays.length ? f('today', { h: todays.map(([s, e]: number[]) => `${hhmm(s)}–${hhmm(e % 1440)}`).join(', ') }) : f('closedToday');
+      const s: any = statusAt(it.week, day, min);
+      if (s.open) {
+        if (s.closes == null) return { kind: 'open', label: f('open24'), today };
+        const left = s.closesIn * 1440 + s.closes - min;
+        return left <= 60 ? { kind: 'soon', label: f('closesAt', { t: hhmm(s.closes) }), today } : { kind: 'open', label: f('openUntil', { t: hhmm(s.closes) }), today };
+      }
+      if (s.opens == null) return { kind: 'closed', label: f('closedAll'), today };
+      const label = s.opensIn === 0 ? f('opensAt', { t: hhmm(s.opens) }) : s.opensIn === 1 ? f('opensTomorrow', { t: hhmm(s.opens) }) : f('opensDay', { day: WEEKDAY((day + s.opensIn) % 7), t: hhmm(s.opens) });
+      return { kind: 'closed', label, today };
+    };
+    const quietOf = (it: any, now: Date) => {
+      const q = it.quiet;
+      if (!q || typeof q !== 'object') return typeof q === 'string' ? q : '';
+      let weekend = [0, 6].includes(now.getDay());
+      if (it.tz) { try { weekend = venueClock(now, it.tz).day >= 5; } catch { /* reader's day */ } }
+      return weekend ? q.we || q.wd : q.wd || q.we;
+    };
+
+    // ── Rendering ──
+    const daysCount = (items: any[]) => Math.max(3, Number(store.get(DAYS_KEY)) || 0, ...items.map((i) => Number(i.day) || 0));
+    const mapsTo = (it: any) => `https://www.google.com/maps/dir/?api=1&destination=${Number(it.lat)},${Number(it.lng)}`;
+    const route = (list: any[]) => {
+      const pts = list.filter((i) => i.lat != null && i.lng != null);
+      return pts.length ? 'https://www.google.com/maps/dir/' + pts.map((i) => `${Number(i.lat)},${Number(i.lng)}`).join('/') : '';
+    };
+    const card = (it: any, n: number, now: Date) => {
+      const st = statusOf(it, now);
+      const quiet = quietOf(it, now);
+      const day = Number(it.day) || 0;
+      const area = [it.region, it.catLabel].filter(Boolean).join(' · ');
+      const days = ['<button type="button" data-day-set="0" aria-pressed="' + (day === 0) + '">' + esc(S.dayUnset) + '</button>']
+        .concat(Array.from({ length: n }, (_, i) => `<button type="button" data-day-set="${i + 1}" aria-pressed="${day === i + 1}">${esc(f('dayN', { n: i + 1 }))}</button>`)).join('');
+      return `<article class="mt-item" data-slug="${esc(it.slug)}">
+        <div class="mt-thumb">${it.image ? `<img src="${esc(it.image)}" alt="" loading="lazy" decoding="async">` : ''}
+          <span class="mt-daybadge${day ? '' : ' mt-daybadge--unset'}">${esc(day ? f('dayN', { n: day }) : S.unsetBadge)}</span></div>
+        <div class="mt-body">
+          ${area ? `<p class="mt-area">${esc(area)}</p>` : ''}
+          <a class="mt-name" href="${esc(it.href || '')}">${esc(it.title)}</a>
+          ${st.label ? `<span class="mt-status mt-status--${st.kind}" data-st="${esc(it.slug)}"><i class="dot dot--${st.kind === 'soon' ? 'soon' : st.kind === 'open' ? 'open' : 'closed'}"></i>${esc(st.label)}</span>` : ''}
+          ${it.rating ? `<p class="mt-rating"><b>★ ${Number(it.rating).toFixed(1)}</b> (${Number(it.reviews || 0).toLocaleString(LANG)})</p>` : ''}
+          <div class="mt-tags">
+            ${st.today ? `<span class="mt-tag${st.today === S.closedToday ? ' mt-tag--closed' : ''}">${esc(st.today)}</span>` : ''}
+            ${quiet ? `<span class="mt-tag mt-tag--quiet">${esc(f('quiet', { h: quiet }))}</span>` : ''}
+            ${it.book ? `<span class="mt-tag mt-tag--book">${esc(S.bookTag)}</span>` : ''}
+          </div>
+          <div class="mt-acts">
+            ${it.phone ? `<a class="mt-act" href="tel:${esc(String(it.phone).replace(/[^\d+]/g, ''))}">📞 ${esc(S.call)}</a>` : ''}
+            ${it.lat != null && it.lng != null ? `<a class="mt-act" href="${esc(mapsTo(it))}" target="_blank" rel="noopener">➤ ${esc(S.directions)}</a>` : ''}
+            ${it.address ? `<button type="button" class="mt-act" data-addr="${esc(it.slug)}">🔤 ${esc(S.address)}</button>` : ''}
+          </div>
+          <div class="mt-days" role="group" aria-label="${esc(S.viewDays)}">${days}</div>
+        </div>
+        <button type="button" class="mt-x" data-remove="${esc(it.slug)}" aria-label="${esc(f('remove', { place: it.title }))}">✕</button>
+      </article>`;
+    };
 
     const render = () => {
       const items = read();
-
-      if (!items.length) {
-        if (bar) bar.hidden = true;
-        list.innerHTML =
-          `<p class="trip-empty">${esc(S.empty)} <a href="${esc(S.emptyHref)}">${esc(S.emptyCta)} →</a></p>`;
-        // This early return used to skip the count and the live region, so after
-        // removing the last place the page read "Nothing saved yet." while the
-        // header still said "1 saved" — and because the live region's text never
-        // changed, a screen reader announced nothing at all. Both are updated
-        // here before returning.
-        const countEmpty = document.querySelector('.trip-count');
-        if (countEmpty) countEmpty.textContent = (S.count || '{n}').replace('{n}', '0');
-        const liveEmpty = document.querySelector('[aria-live]');
-        if (liveEmpty) liveEmpty.textContent = S.empty;
-        return;
-      }
-
-      if (bar) bar.hidden = false;
-      const live = document.querySelector('[aria-live]');
+      const now = new Date();
+      for (const el of $$('[data-full-only]')) el.hidden = !items.length;
+      for (const el of $$('[data-empty-only]')) el.hidden = !!items.length;
+      const demoBar = $('[data-demo]');
+      if (demoBar) demoBar.hidden = !demo;
+      // One newsletter form on the page, in whichever state is showing.
+      const nlBox = $('[data-nl]');
+      const slot = $(items.length ? '[data-nl-slot-full]' : '[data-nl-slot-empty]');
+      if (nlBox && slot && nlBox.parentElement !== slot) slot.append(nlBox);
+      const live = $('[data-live]');
       if (live) live.textContent = (S.count || '{n}').replace('{n}', String(items.length));
-      const count = document.querySelector('.trip-count');
-      if (count) count.textContent = (S.count || '{n}').replace('{n}', String(items.length));
+      const head = $('[data-headline]');
+      if (!items.length) { if (head) head.textContent = ''; renderStart(); return; }
 
-      // Maps' `search` action takes ONE place — the previous version encoded every
-      // coordinate into a single query string, so Google geocoded the lot as one
-      // piece of free text and plotted nothing. The /dir/ path form takes any
-      // number of points as path segments and is what actually shows the list.
-      const withCoords = items.filter((i) => i.lat != null && i.lng != null);
-      const maps = document.querySelector<HTMLAnchorElement>('.trip-maps');
-      if (withCoords.length) {
-        if (maps) maps.hidden = false;
-        if (maps) maps.href =
-          'https://www.google.com/maps/dir/' +
-          withCoords.map((i) => `${Number(i.lat)},${Number(i.lng)}`).join('/');
-      } else {
-        if (maps) maps.hidden = true;
+      // Main city: where most of the list is.
+      const byCity = new Map<string, any[]>();
+      for (const it of items) { const k = rsOf(it) || it.region || ''; byCity.set(k, [...(byCity.get(k) ?? []), it]); }
+      const [mainRs, mainItems] = [...byCity.entries()].sort((a, b) => b[1].length - a[1].length)[0];
+      const R = regions.get(mainRs);
+      const city = R?.label || mainItems[0]?.region || '';
+      if (head) head.textContent = byCity.size > 1 ? f('headMulti', { n: items.length, k: byCity.size }) : f('headCity', { city, n: items.length });
+
+      const statuses = items.map((it) => statusOf(it, now));
+      const setStat = (k: string, n: number) => { const el = $(`[data-stat="${k}"]`); if (el) el.textContent = f('placesN', { n }); };
+      setStat('saved', items.length);
+      setStat('planned', items.filter((i) => Number(i.day) > 0).length);
+      setStat('book', items.filter((i) => i.book).length);
+      setStat('quiet', items.filter((i) => i.quiet && (typeof i.quiet === 'string' ? i.quiet : i.quiet.wd || i.quiet.we)).length);
+      tick(items, statuses, R, mainItems);
+
+      // Filters
+      const open = (i: number) => statuses[i].kind === 'open' || statuses[i].kind === 'soon';
+      const counts = { all: items.length, open: items.filter((_, i) => open(i)).length, book: items.filter((i) => i.book).length };
+      for (const [k, n] of Object.entries(counts)) { const el = $(`[data-fcount="${k}"]`); if (el) el.textContent = String(n); }
+      for (const b of $$('[data-filter]')) b.setAttribute('aria-pressed', String(b.dataset.filter === filter));
+      for (const b of $$('[data-view]')) b.setAttribute('aria-pressed', String(b.dataset.view === view));
+      const shown = items.filter((it, i) => filter === 'all' || (filter === 'open' ? open(i) : it.book));
+      const n = daysCount(items);
+      const list = $('[data-list]');
+      if (list) {
+        if (view === 'days') {
+          const groups = Array.from({ length: n }, (_, d) => ({ d: d + 1, list: shown.filter((it) => Number(it.day) === d + 1) }))
+            .concat([{ d: 0, list: shown.filter((it) => !(Number(it.day) > 0)) }]);
+          list.innerHTML = groups.filter((g) => g.list.length).map((g) => {
+            const r = route(g.list);
+            return `<div class="mt-day-head"><h3>${esc(g.d ? f('dayHead', { n: g.d, k: g.list.length }) : f('unsetHead', { k: g.list.length }))}</h3>${g.d && r ? `<a href="${esc(r)}" target="_blank" rel="noopener">${esc(S.dayMaps)}</a>` : ''}</div>` + g.list.map((it) => card(it, n, now)).join('');
+          }).join('') + `<button type="button" class="mt-btn mt-addday" data-addday>${esc(S.addDay)}</button>`;
+        } else {
+          list.innerHTML = shown.map((it) => card(it, n, now)).join('');
+        }
       }
+      const none = $('[data-none]');
+      if (none) none.hidden = shown.length > 0;
+      const all = $<HTMLAnchorElement>('[data-openall]');
+      const r = route(items);
+      if (all) { all.hidden = !r; all.href = r || '#'; }
+      const more = $<HTMLAnchorElement>('[data-more]');
+      if (more && R?.regionHref) more.href = R.regionHref;
 
-      list.innerHTML = items
-        .map((i) => {
-          const facts = [];
-          if (i.phone) facts.push(`<a href="tel:${esc(i.phone.replace(/[^\d+]/g, ''))}">${esc(i.phone)}</a>`);
-
-          // Hours arrive as Google's seven lines starting Monday. Show the one for
-          // the day the reader is looking at it — the old code kept only Monday's,
-          // which told 16 venues' visitors "Closed" (Chatuchak, the Forbidden City)
-          // and was wrong on up to six days for 54 more. Strings are older saves.
-          const hoursToday = Array.isArray(i.hours)
-            ? i.hours[(new Date().getDay() + 6) % 7] || ''
-            : i.hours || '';
-          if (hoursToday) facts.push(esc(hoursToday));
-
-          // Weekday and weekend quiet windows differ at most venues that have both.
-          const weekend = [0, 6].includes(new Date().getDay());
-          const quiet = typeof i.quiet === 'object' && i.quiet
-            ? (weekend ? i.quiet.we || i.quiet.wd : i.quiet.wd || i.quiet.we)
-            : i.quiet || '';
-          if (quiet) facts.push(`<span class="k">${esc(S.quiet)}</span> <span class="trip-quiet">${esc(quiet)}</span>`);
-
-          if (i.lat != null && i.lng != null) {
-            facts.push(
-              `<a class="map-one" href="https://www.google.com/maps/search/?api=1&query=${Number(i.lat)},${Number(i.lng)}" target="_blank" rel="noopener">Google Maps</a>`
-            );
-          }
-          const where = [i.region, i.country].filter(Boolean).join(' · ');
-          return `
-            <div class="trip-item">
-              ${i.image ? `<img class="trip-thumb" src="${esc(i.image)}" alt="" loading="lazy" decoding="async">` : ''}
-              <div class="trip-body">
-                <a class="trip-name" href="${esc(S.postBase)}${esc(i.slug)}/">${esc(i.title)}</a>
-                ${where ? `<p class="trip-where">${esc(where)}</p>` : ''}
-                ${facts.length ? `<p class="trip-facts">${facts.join(' · ')}</p>` : ''}
-              </div>
-              <button type="button" class="trip-remove" data-slug="${esc(i.slug)}">${esc(S.remove)}</button>
-            </div>`;
-        })
-        .join('');
+      renderNear(items, R);
+      renderCourse(items, R, city);
+      renderPrep(items, R, city);
     };
 
-    list.addEventListener('click', (e) => {
-      const btn = e.target instanceof Element ? e.target.closest<HTMLElement>('.trip-remove') : null;
-      if (!btn) return;
-      // render() replaces innerHTML, which destroys the focused button and dumps a
-      // keyboard user back at the top of the document. Land them on the next row.
-      const buttons = [...list.querySelectorAll<HTMLElement>('.trip-remove')];
-      const idx = buttons.indexOf(btn);
-      write(read().filter((x) => x.slug !== btn.dataset.slug));
+    const tick = (items: any[], statuses: St[], R: any, mainItems: any[]) => {
+      const now = new Date();
+      const tz = R?.tz || mainItems.find((i) => i.tz)?.tz;
+      const city = R?.label || mainItems[0]?.region || '';
+      const clockTitle = $('[data-clock-title]');
+      if (clockTitle) clockTitle.textContent = f('clockTitle', { city });
+      if (tz) {
+        try {
+          const time = new Intl.DateTimeFormat(LANG, { timeZone: tz, hour: '2-digit', minute: '2-digit', hourCycle: 'h23' }).format(now);
+          const date = new Intl.DateTimeFormat(LANG, { timeZone: tz, month: 'long', day: 'numeric', weekday: 'long' }).format(now);
+          const parts = new Intl.DateTimeFormat('en-US', { timeZone: tz, year: 'numeric', month: 'numeric', day: 'numeric', hour: 'numeric', minute: 'numeric', hourCycle: 'h23' }).formatToParts(now);
+          const g = (t: string) => Number(parts.find((p) => p.type === t)?.value);
+          const there = Date.UTC(g('year'), g('month') - 1, g('day'), g('hour'), g('minute'));
+          const here = Date.UTC(now.getFullYear(), now.getMonth(), now.getDate(), now.getHours(), now.getMinutes());
+          const diffH = Math.round((there - here) / 900000) / 4;
+          const t = $('[data-clock-time]'); if (t) t.textContent = time;
+          const d = $('[data-clock-date]'); if (d) d.textContent = date;
+          const df = $('[data-clock-diff]');
+          if (df) df.textContent = diffH === 0 ? S.clockSame : diffH > 0 ? f('clockAhead', { h: Math.abs(diffH) }) : f('clockBehind', { h: Math.abs(diffH) });
+        } catch { /* unknown zone */ }
+      }
+      const c = { open: 0, soon: 0, closed: 0 };
+      statuses.forEach((s) => { if (s.kind === 'open') c.open++; else if (s.kind === 'soon') c.soon++; else if (s.kind === 'closed') c.closed++; });
+      for (const [k, n] of Object.entries(c)) { const el = $(`[data-count="${k}"]`); if (el) el.textContent = f('placesN', { n }); }
+    };
+
+    const walk = (a: any, b: any) => {
+      const R = 6371, rad = Math.PI / 180;
+      const dLat = (b.lat - a.lat) * rad, dLng = (b.lng - a.lng) * rad;
+      const h = Math.sin(dLat / 2) ** 2 + Math.cos(a.lat * rad) * Math.cos(b.lat * rad) * Math.sin(dLng / 2) ** 2;
+      return 2 * R * Math.asin(Math.sqrt(h));
+    };
+    let nearPicks: any[] = [];
+    const renderNear = (items: any[], R: any) => {
+      const box = $('[data-near]');
+      const grid = $('[data-near-list]');
+      if (!box || !grid) return;
+      const saved = new Set(items.map((i) => i.slug));
+      const anchors = items.filter((i) => i.lat != null && i.lng != null);
+      if (!R?.places?.length || !anchors.length) { box.hidden = true; return; }
+      // Keep the picks steady while the reader saves them one by one.
+      if (!nearPicks.length || nearPicks.every((p) => saved.has(p.slug))) {
+        nearPicks = R.places
+          .filter((p: any) => !saved.has(p.slug) && p.lat != null && (p.reviews ?? 0) >= 50)
+          .map((p: any) => {
+            const best = anchors.map((a) => ({ a, km: walk(a, p) })).sort((x, y) => x.km - y.km)[0];
+            return { ...p, from: best.a.title, km: best.km };
+          })
+          .filter((p: any) => p.km <= 3)
+          .sort((a: any, b: any) => a.km - b.km)
+          .slice(0, 3);
+      }
+      box.hidden = !nearPicks.length;
+      grid.innerHTML = nearPicks.map((p) => {
+        const min = Math.max(1, Math.round((p.km * 1.25) / 4.5 * 60));
+        const dist = min <= 40 ? f('nearFrom', { place: p.from, min }) : f('nearKm', { place: p.from, km: p.km.toFixed(1) });
+        const on = saved.has(p.slug);
+        return `<div class="mt-near-card"><span class="mt-near-img">${p.image ? `<img src="${esc(p.image)}" alt="" loading="lazy" decoding="async">` : ''}</span>
+          <div><small>${esc([p.region, p.catLabel].filter(Boolean).join(' · '))}</small><a class="mt-near-name" href="${esc(p.href)}">${esc(p.title)}</a>
+          <p>${esc(dist)}</p>${p.rating ? `<p>★ ${Number(p.rating).toFixed(1)} (${Number(p.reviews || 0).toLocaleString(LANG)})</p>` : ''}
+          <button type="button" class="mt-btn" data-near-save="${esc(p.slug)}" aria-pressed="${on}">${esc(on ? S.nearSaved : S.nearSave)}</button></div></div>`;
+      }).join('');
+    };
+
+    const renderCourse = (items: any[], R: any, city: string) => {
+      const a = $<HTMLAnchorElement>('[data-course]');
+      if (!a) return;
+      const its = R?.itineraries ?? [];
+      if (!its.length) { a.hidden = true; return; }
+      const saved = new Set(items.map((i) => i.slug));
+      const scored = its.map((it: any) => ({ it, k: it.slugs.filter((s: string) => saved.has(s)).length }))
+        .sort((x: any, y: any) => y.k - x.k || x.it.days - y.it.days);
+      const { it, k } = scored[0];
+      a.hidden = false;
+      a.href = it.href;
+      const kicker = $('[data-course-kicker]'); if (kicker) kicker.textContent = f('courseKicker', { d: it.days, n: it.slugs.length });
+      const title = $('[data-course-title]'); if (title) title.textContent = f('courseTitle', { city, d: it.days });
+      const regionCount = items.filter((i) => rsOf(i) === R.region).length;
+      const text = $('[data-course-text]'); if (text) text.textContent = k && k >= regionCount ? S.courseAll : k ? f('courseHas', { k }) : S.courseNone;
+      const first = R.places.find((p: any) => it.slugs.includes(p.slug) && p.image);
+      const img = $('[data-course-img]'); if (img) img.innerHTML = first ? `<img src="${esc(first.image)}" alt="" loading="lazy" decoding="async">` : '';
+    };
+
+    const renderPrep = (items: any[], R: any, city: string) => {
+      const box = $('[data-prep]');
+      const ul = $('[data-prep-list]');
+      if (!box || !ul) return;
+      if (!R?.prep) { box.hidden = true; return; }
+      box.hidden = false;
+      const title = $('[data-prep-title]'); if (title) title.textContent = f('prepTitle', { city });
+      const book = items.filter((i) => i.book && rsOf(i) === R.region).length;
+      const row = (ico: string, href: string, name: string, sub: string, ext: boolean) =>
+        `<li><a href="${esc(href)}"${ext ? ' target="_blank" rel="sponsored noopener"' : ''}><i aria-hidden="true">${ico}</i><span><strong>${esc(name)}</strong><small>${esc(sub)}</small></span><em aria-hidden="true">→</em></a></li>`;
+      ul.innerHTML = [
+        row('🎟', R.prep.tickets, S.prepTickets, book ? f('prepTicketsSub', { n: book }) : f('prepTicketsNone', { city }), true),
+        row('📶', R.prep.esim, S.prepEsim, f('prepEsimSub', { country: R.country }), false),
+        row('🚖', R.prep.pickup, S.prepPickup, S.prepPickupSub, true),
+        row('🛏', R.prep.hotel, S.prepHotel, f('prepHotelSub', { city }), true),
+      ].join('');
+    };
+
+    // ── First visit: a start city's top places, a live preview card ──
+    const startBox = $('[data-start]');
+    let startRs = startBox?.dataset.start || '';
+    const topOf = (R: any, n: number) => (R?.places ?? []).filter((p: any) => p.image).slice(0, n);
+    const renderPreview = () => {
+      const R = regions.get(startRs);
+      const ul = $('[data-pv-list]');
+      if (!R || !ul) return;
+      const picks = topOf(R, 3);
+      const now = new Date();
+      const pt = $('[data-pv-title]'); if (pt) pt.textContent = `${R.label} · ${f('placesN', { n: picks.length })}`;
+      const tm = $('[data-pv-time]');
+      if (tm && R.tz) { try { tm.textContent = f('eLocal', { t: new Intl.DateTimeFormat(LANG, { timeZone: R.tz, hour: '2-digit', minute: '2-digit', hourCycle: 'h23' }).format(now) }); } catch { /* unknown zone */ } }
+      ul.innerHTML = picks.map((p: any) => {
+        const st = statusOf(p, now);
+        return `<li>${p.image ? `<img src="${esc(p.image)}" alt="" loading="lazy" decoding="async">` : '<i></i>'}<span><strong>${esc(p.title)}</strong>${st.label ? `<em>● ${esc(st.label)}</em>` : ''}</span></li>`;
+      }).join('');
+    };
+    const renderStart = async () => {
+      if (!startBox || !startRs) return;
+      if (!regions.has(startRs)) { await loadRegion(startRs); if (read().length) return; }
+      const R = regions.get(startRs);
+      if (!R) return;
+      const title = $('[data-start-title]'); if (title) title.textContent = f('startTitle', { city: R.label });
+      const all = $<HTMLAnchorElement>('[data-start-all]'); if (all) { all.textContent = f('startAll', { city: R.label }); all.href = R.regionHref; }
+      for (const c of $$('[data-start-rs]')) c.setAttribute('aria-pressed', String(c.dataset.startRs === startRs));
+      const saved = new Set(read().map((i) => i.slug));
+      const grid = $('[data-start-grid]');
+      if (grid) grid.innerHTML = topOf(R, 6).map((p: any) => `<div class="mt-start-card">
+          <span class="mt-start-img"><img src="${esc(p.image)}" alt="" loading="lazy" decoding="async"></span>
+          <button type="button" class="mt-heart" data-start-save="${esc(p.slug)}" aria-pressed="${saved.has(p.slug)}" aria-label="${esc(S.nearSave)}">${saved.has(p.slug) ? '♥' : '♡'}</button>
+          <div><small>${esc([p.region, p.catLabel].filter(Boolean).join(' · '))}</small><a href="${esc(p.href)}">${esc(p.title)}</a>
+          ${p.rating ? `<p><b>★ ${Number(p.rating).toFixed(1)}</b> (${Number(p.reviews || 0).toLocaleString(LANG)})</p>` : ''}</div></div>`).join('');
+      renderPreview();
+    };
+    const startDemo = async () => {
+      if (!regions.has(startRs)) await loadRegion(startRs);
+      const R = regions.get(startRs);
+      if (!R) return;
+      demo = topOf(R, 4).map((p: any, i: number) => ({ ...p, day: [1, 1, 2, 0][i] ?? 0 }));
       render();
-      const now = list.querySelectorAll<HTMLElement>('.trip-remove');
-      // Removing the LAST row hid the action bar, and the fallback target lived
-      // inside it — so .focus() silently did nothing and focus fell to <body>.
-      // The empty state's own link is the only thing left on the page worth
-      // landing on.
-      (now[Math.min(idx, now.length - 1)]
-        || list.querySelector<HTMLElement>('.trip-empty a')
-        || document.querySelector<HTMLElement>('.trip-clear'))?.focus();
+      root.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    };
+
+    // ── Share link: the list (slug + day) in the URL, nothing on a server ──
+    const b64 = (s: string) => btoa(s).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
+    const unb64 = (s: string) => atob(s.replace(/-/g, '+').replace(/_/g, '/'));
+    const shareUrl = () => `${location.origin}${location.pathname}#share=${b64(JSON.stringify(read().map((i) => [i.slug, Number(i.day) || 0, i.rs || ''])))}`;
+    let shared: [string, number, string][] = [];
+    const readShared = () => {
+      const m = /#share=([\w-]+)/.exec(location.hash);
+      if (!m) return;
+      try { const v = JSON.parse(unb64(m[1])); if (Array.isArray(v)) shared = v.filter((x) => Array.isArray(x) && typeof x[0] === 'string'); } catch { shared = []; }
+      const box = $('[data-shared]');
+      if (box && shared.length) { box.hidden = false; const p = $('[data-shared-text]'); if (p) p.textContent = f('sharedBanner', { n: shared.length }); }
+    };
+    const importShared = async (replace: boolean) => {
+      await loadIndex();
+      const got: any[] = [];
+      for (const [slug, day, rs0] of shared) {
+        const rs = rs0 || rsOf({ slug });
+        await loadRegion(rs);
+        const p = placeOf(slug, rs);
+        if (p) got.push({ ...p, day, savedAt: new Date().toISOString() });
+      }
+      const mine = replace ? [] : read();
+      const have = new Set(mine.map((i) => i.slug));
+      write([...mine, ...got.filter((g) => !have.has(g.slug))]);
+      dismissShared();
+    };
+    const dismissShared = () => {
+      shared = [];
+      const box = $('[data-shared]'); if (box) box.hidden = true;
+      history.replaceState(null, '', location.pathname + location.search);
+    };
+
+    // ── Events ──
+    root.addEventListener('click', async (e) => {
+      const el = e.target instanceof Element ? e.target.closest<HTMLElement>('button, a') : null;
+      if (!el) return;
+      const d = el.dataset;
+      if (d.daySet != null) {
+        const slug = el.closest<HTMLElement>('[data-slug]')?.dataset.slug;
+        write(read().map((i) => (i.slug === slug ? { ...i, day: Number(d.daySet) } : i)));
+        (root.querySelector<HTMLElement>(`[data-slug="${CSS.escape(slug || '')}"] [data-day-set="${d.daySet}"]`))?.focus();
+      } else if (d.remove) {
+        const btns = $$('[data-remove]');
+        const idx = btns.indexOf(el);
+        write(read().filter((i) => i.slug !== d.remove));
+        const now = $$('[data-remove]');
+        (now[Math.min(idx, now.length - 1)] || root.querySelector<HTMLElement>('[data-empty-only] a'))?.focus();
+      } else if (d.filter) { filter = d.filter; render(); }
+      else if (d.view) { view = d.view; store.set(VIEW_KEY, view); render(); }
+      else if (d.addday != null) { store.set(DAYS_KEY, String(daysCount(read()) + 1)); render(); }
+      else if (d.nearSave) {
+        const p = nearPicks.find((x) => x.slug === d.nearSave);
+        if (p && !read().some((i) => i.slug === p.slug)) {
+          const { from, km, ...payload } = p;
+          write([...read(), { ...payload, day: 0, savedAt: new Date().toISOString() }]);
+        }
+      } else if (d.addr) {
+        const it = read().find((i) => i.slug === d.addr);
+        const dlg = $<HTMLDialogElement>('[data-addr-dialog]');
+        if (it && dlg) {
+          const n = $('[data-addr-name]'); if (n) n.textContent = it.title;
+          const tx = $('[data-addr-text]'); if (tx) tx.textContent = it.address;
+          dlg.showModal();
+        }
+      } else if (d.addrCopy != null) {
+        try { await navigator.clipboard.writeText($('[data-addr-text]')?.textContent || ''); el.textContent = S.copied; } catch { /* no clipboard */ }
+      } else if (d.addrClose != null) { $<HTMLDialogElement>('[data-addr-dialog]')?.close(); }
+      else if (d.share != null) {
+        const url = shareUrl();
+        try { await navigator.clipboard.writeText(url); el.textContent = S.shareCopied; }
+        catch { prompt(S.shareCopy, url); }
+        setTimeout(() => { el.textContent = S.shareCopy; }, 2500);
+      } else if (d.demoStart != null) { await startDemo(); }
+      else if (d.demoSave != null) { const v = demo ?? []; demo = null; write(v); }
+      else if (d.demoClose != null) { demo = null; render(); }
+      else if (d.startRs) { startRs = d.startRs; await renderStart(); }
+      else if (d.startSave) {
+        const p = (regions.get(startRs)?.places ?? []).find((x: any) => x.slug === d.startSave);
+        const cur = readStore();
+        if (p && !cur.some((i) => i.slug === p.slug)) { demo = null; write([...cur, { ...p, day: 0, savedAt: new Date().toISOString() }]); }
+      } else if (d.sharedAdd != null) { await importShared(false); }
+      else if (d.sharedReplace != null) { await importShared(true); }
+      else if (d.sharedDismiss != null) { dismissShared(); }
+      else if (d.print != null) { window.print(); }
+      else if (d.clear != null) {
+        if (confirm(S.clearConfirm)) { write([]); root.querySelector<HTMLElement>('[data-empty-only] a')?.focus(); }
+      }
     });
 
-    document.querySelector('.trip-clear')?.addEventListener('click', () => {
-      if (!confirm(S.clearConfirm)) return;
-      write([]);
-      render();
-      list.querySelector<HTMLElement>('.trip-empty a')?.focus();   // same reason as above
-    });
-    document.querySelector('.trip-print')?.addEventListener('click', () => window.print());
-
-    window.addEventListener('wa-trip-change', render);
-    window.addEventListener('storage', (e) => { if (e.key === KEY) render(); });
+    window.addEventListener('wa-trip-change', () => { render(); });
+    window.addEventListener('storage', (e) => { if (e.key === KEY) { render(); refresh(); } });
+    readShared();
     render();
-  })();
+    refresh();
+    // Open status and the clock move with time; only those nodes change.
+    setInterval(() => {
+      const items = read();
+      if (!items.length) { renderPreview(); return; }
+      const now = new Date();
+      const statuses = items.map((it) => statusOf(it, now));
+      items.forEach((it, i) => {
+        const el = root.querySelector<HTMLElement>(`[data-st="${CSS.escape(it.slug)}"]`);
+        if (el && statuses[i].label) {
+          el.className = `mt-status mt-status--${statuses[i].kind}`;
+          el.innerHTML = `<i class="dot dot--${statuses[i].kind === 'soon' ? 'soon' : statuses[i].kind === 'open' ? 'open' : 'closed'}"></i>${esc(statuses[i].label)}`;
+        }
+      });
+      const byCity = new Map<string, any[]>();
+      for (const it of items) { const k = rsOf(it) || it.region || ''; byCity.set(k, [...(byCity.get(k) ?? []), it]); }
+      const [mainRs, mainItems] = [...byCity.entries()].sort((a, b) => b[1].length - a[1].length)[0];
+      tick(items, statuses, regions.get(mainRs), mainItems);
+    }, 30000);
+  }
 </script>

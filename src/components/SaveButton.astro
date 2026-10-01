@@ -39,11 +39,16 @@ interface Props {
       must outrank the skin, and inside one scoped block that's guaranteed by
       source order instead of a cross-stylesheet specificity fight. */
   overlay?: boolean;
+  /** lib/tripSave's tripExtra(): region slug, rating, hours as intervals, the
+      venue's time zone, book-ahead — what /my-trip's live status and filters
+      read (2026-10-01). Older saves without it are refreshed from the city's
+      /trip-data file. */
+  extra?: object;
 }
 const {
   slug, title, region = '', country = '', href,
   lat, lng, phone = '', hours = '', quiet = '', image = '',
-  lang, compact = false, prominent = false, overlay = false,
+  lang, compact = false, prominent = false, overlay = false, extra = {},
 } = Astro.props;
 const t = useTranslations(lang);
 
@@ -51,6 +56,7 @@ const payload = JSON.stringify({
   slug, title, region, country, href,
   lat: lat ?? null, lng: lng ?? null,
   phone, hours, quiet, image,
+  ...extra,
 });
 ---
 
