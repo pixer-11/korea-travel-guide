@@ -3,7 +3,7 @@ metaTitle: "Privacy Policy"
 metaDescription: "Privacy policy for Wander Atlas — what data is collected, which services process it, and the choices you have."
 eyebrow: "Legal"
 h1: "Privacy Policy"
-lastUpdated: "2026-09-29"
+lastUpdated: "2026-10-01"
 ---
 
 This policy explains what information Wander Atlas (the "Site"), an independent travel publication run by its editor, Pixer, collects, which services process it, and the choices you have.
@@ -22,13 +22,15 @@ We do not sell or rent your personal information.
 
 We measure traffic with [Plausible Analytics](https://plausible.io/privacy-focused-web-analytics), a privacy-friendly tool that does not use cookies and does not collect personal data. It gives us aggregate statistics only (for example, how many people visited a page and which country or website they came from).
 
+We also use [Google Analytics 4](https://policies.google.com/technologies/partner-sites), provided by Google, to understand how the Site is used. It sets first-party cookies and processes data such as an online identifier, your approximate location, device and browser type, and the pages you view and links you click; Google may process this data on servers outside your country. Google Analytics does not receive your name or email address. For visitors in the European Economic Area, the United Kingdom and Switzerland, Google Analytics runs with consent mode set to "denied": no analytics cookies are stored and no identifier is kept on your device; Google still receives cookieless measurement pings (such as page views and link clicks), which cannot be tied to a returning visitor. Advertising features are switched off for everyone. You can opt out with the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout).
+
 ## Information stored on your device
 
 Some features save small pieces of information in your own browser (local storage), such as places you save to "My trip" and whether you have already closed the newsletter prompt. This information stays on your device, is not sent to us, and can be cleared at any time from your browser settings.
 
 ## Affiliate links and partner services
 
-Some links on the Site are affiliate links to travel services (for example, Klook and partners of the Travelpayouts network such as Aviasales, Kiwitaxi, Localrent and Yesim). If you click one and make a booking, we may earn a commission at no extra cost to you. These links are marked, and they never affect what we write.
+Some links on the Site are affiliate links to travel services (for example, Klook and partners of the Travelpayouts network such as Tiqets, Aviasales, Kiwitaxi, Localrent and Yesim). If you click one and make a booking, we may earn a commission at no extra cost to you. These links are marked, and they never affect what we write.
 
 When you follow an affiliate link, or use a partner search widget shown on some pages (such as the flight search), the partner may set cookies or collect information to track the referral and provide its service. That processing is governed by the partner's own privacy policy.
 
@@ -55,7 +57,7 @@ We do not sell, resell, license, redistribute, or otherwise make Pinterest conte
 
 ## How long we keep data
 
-When you unsubscribe, we stop sending you emails straight away. Your address then stays in our email provider's list marked as unsubscribed, which is what prevents it from being emailed again by mistake. If you would rather it be deleted completely, email us and we will erase it. Emails you send us are kept for as long as needed to answer them. Analytics data is aggregate and contains no personal data.
+When you unsubscribe, we stop sending you emails straight away. Your address then stays in our email provider's list marked as unsubscribed, which is what prevents it from being emailed again by mistake. If you would rather it be deleted completely, email us and we will erase it. Emails you send us are kept for as long as needed to answer them. Plausible data is aggregate and contains no personal data. Google Analytics keeps user- and event-level data for 14 months and then deletes it automatically; aggregated reports may be kept longer.
 
 ## Your choices (GDPR / CCPA)
 

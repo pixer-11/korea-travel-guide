@@ -284,6 +284,36 @@ const orgLd = {
       plausible.init()
     </script>
 
+    <!-- Google Analytics 4 (G-P6WETF9HNF, 2026-10-01). Added because Journey by
+         Mediavine — the first ad network in reach — requires a GA4 property;
+         Plausible stays the primary dashboard. Three rules:
+         · The owner's own visits are skipped by the same flag /ignore-me sets
+           for Plausible (78% of pageviews were the owner's — see that page).
+         · EEA/UK/CH default to consent DENIED: no cookies, cookieless pings
+           only. Everywhere, ad storage is denied — the site shows no ads yet.
+         · gtag.js is async, so it never blocks rendering. -->
+    <script is:inline>
+      (function () {
+        try { if (localStorage.getItem('plausible_ignore') === 'true') return; } catch (_) {}
+        var ID = 'G-P6WETF9HNF';
+        window.dataLayer = window.dataLayer || [];
+        window.gtag = function () { window.dataLayer.push(arguments); };
+        gtag('consent', 'default', {
+          ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied', analytics_storage: 'denied',
+          region: ['AT','BE','BG','HR','CY','CZ','DK','EE','FI','FR','DE','GR','HU','IE','IT','LV','LT','LU','MT','NL','PL','PT','RO','SK','SI','ES','SE','IS','LI','NO','GB','CH'],
+        });
+        gtag('consent', 'default', { ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied', analytics_storage: 'granted' });
+        gtag('js', new Date());
+        gtag('config', ID);
+        // Injected now, async: waiting for `load` lost the page_view of every
+        // reader who left before the images finished (codex review 10-01).
+        var s = document.createElement('script');
+        s.async = true;
+        s.src = 'https://www.googletagmanager.com/gtag/js?id=' + ID;
+        document.head.appendChild(s);
+      })();
+    </script>
+
     {
       jsonLd && (
         <script
@@ -374,9 +404,11 @@ const orgLd = {
           partner: /tiqets\.com/.test(a.href) ? 'tiqets' : /sub_id=hotel_/.test(a.href) ? 'klook-hotels' : /klook/.test(a.href) ? 'klook' : /hotellook/.test(a.href) ? 'hotellook' : 'other',
         };
         try {
+          // BOTH, not either: until 2026-10-01 this was `if gtag … else plausible`,
+          // so adding GA4 would have silently zeroed Plausible's click history.
+          // gtag reads the dataLayer itself, so the old extra push is gone too.
           if (window.gtag) window.gtag('event', 'affiliate_click', { link_url: a.href, link_text: label, placement: props.placement, partner: props.partner });
-          else if (window.plausible) window.plausible('Affiliate click', { props: props });
-          (window.dataLayer = window.dataLayer || []).push({ event: 'affiliate_click', link_url: a.href, link_text: label, placement: props.placement, partner: props.partner });
+          if (window.plausible) window.plausible('Affiliate click', { props: props });
         } catch (_) {}
       }, true);
     </script>

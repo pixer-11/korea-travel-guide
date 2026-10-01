@@ -1,12 +1,12 @@
 ---
 lang: es
 slug: privacy
-srcHash: '9fa17c20a56f'
+srcHash: 'bd4f41d88078'
 metaTitle: Política de Privacidad
 metaDescription: Política de privacidad de Wander Atlas — qué datos se recopilan, qué servicios los procesan y qué opciones tienes.
 eyebrow: Legal
 h1: Política de Privacidad
-lastUpdated: '2026-09-29'
+lastUpdated: '2026-10-01'
 ---
 
 Esta política explica qué información recopila Wander Atlas (el "Sitio"), una publicación de viajes independiente gestionada por su editor, Pixer, qué servicios la procesan y qué opciones tienes.
@@ -25,13 +25,15 @@ No vendemos ni alquilamos tu información personal.
 
 Medimos el tráfico con [Plausible Analytics](https://plausible.io/privacy-focused-web-analytics), una herramienta respetuosa con la privacidad que no utiliza cookies y no recopila datos personales. Nos proporciona únicamente estadísticas agregadas (por ejemplo, cuántas personas visitaron una página y de qué país o sitio web provienen).
 
+También usamos [Google Analytics 4](https://policies.google.com/technologies/partner-sites), proporcionado por Google, para entender cómo se usa el Sitio. Establece cookies propias y trata datos como un identificador en línea, tu ubicación aproximada, el tipo de dispositivo y navegador, y las páginas que ves y los enlaces en los que haces clic; Google puede tratar estos datos en servidores fuera de tu país. Google Analytics no recibe tu nombre ni tu dirección de correo electrónico. Para los visitantes del Espacio Económico Europeo, el Reino Unido y Suiza, Google Analytics funciona con el modo de consentimiento en "denegado": no se almacenan cookies de analítica ni ningún identificador en tu dispositivo; Google sigue recibiendo señales de medición sin cookies (como vistas de página y clics en enlaces), que no permiten reconocer a un visitante que vuelve. Las funciones publicitarias están desactivadas para todos. Puedes excluirte con el [complemento de inhabilitación de Google Analytics](https://tools.google.com/dlpage/gaoptout).
+
 ## Información almacenada en tu dispositivo
 
 Algunas funciones guardan pequeños fragmentos de información en tu propio navegador (almacenamiento local), como los lugares que guardas en "My trip" y si ya has cerrado el aviso del boletín. Esta información permanece en tu dispositivo, no se nos envía, y puede eliminarse en cualquier momento desde la configuración de tu navegador.
 
 ## Enlaces de afiliados y servicios de socios
 
-Algunos enlaces del Sitio son enlaces de afiliados a servicios de viajes (por ejemplo, Klook y socios de la red Travelpayouts como Aviasales, Kiwitaxi, Localrent y Yesim). Si haces clic en uno de ellos y realizas una reserva, podemos ganar una comisión sin coste adicional para ti. Estos enlaces están marcados y nunca influyen en lo que escribimos.
+Algunos enlaces del Sitio son enlaces de afiliados a servicios de viajes (por ejemplo, Klook y socios de la red Travelpayouts como Tiqets, Aviasales, Kiwitaxi, Localrent y Yesim). Si haces clic en uno de ellos y realizas una reserva, podemos ganar una comisión sin coste adicional para ti. Estos enlaces están marcados y nunca influyen en lo que escribimos.
 
 Cuando sigues un enlace de afiliado, o utilizas un widget de búsqueda de un socio que aparece en algunas páginas (como el buscador de vuelos), el socio puede establecer cookies o recopilar información para rastrear la referencia y prestar su servicio. Ese procesamiento se rige por la propia política de privacidad del socio.
 
@@ -58,7 +60,7 @@ No vendemos, revendemos, licenciamos, redistribuimos ni ponemos a disposición d
 
 ## Cuánto tiempo conservamos los datos
 
-Cuando te das de baja, dejamos de enviarte correos de inmediato. Tu dirección permanece entonces en la lista de nuestro proveedor de correo electrónico marcada como dada de baja, lo cual evita que se le envíe correo por error. Si prefieres que se elimine por completo, escríbenos y la borraremos. Los correos que nos envías se conservan durante el tiempo necesario para responderlos. Los datos de analítica son agregados y no contienen datos personales.
+Cuando te das de baja, dejamos de enviarte correos de inmediato. Tu dirección permanece entonces en la lista de nuestro proveedor de correo electrónico marcada como dada de baja, lo cual evita que se le envíe correo por error. Si prefieres que se elimine por completo, escríbenos y la borraremos. Los correos que nos envías se conservan durante el tiempo necesario para responderlos. Los datos de Plausible son agregados y no contienen datos personales. Google Analytics conserva los datos a nivel de usuario y de evento durante 14 meses y después los elimina automáticamente; los informes agregados pueden conservarse más tiempo.
 
 ## Tus opciones (GDPR / CCPA)
 
