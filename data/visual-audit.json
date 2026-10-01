@@ -11070,6 +11070,13 @@
   "reason": "patrol replace: Performer on stage with concert lighting setup",
   "at": "2026-09-03T00:11:50.192Z"
  },
+ "kuala-lumpur-tangga\u0001https://upload.wikimedia.org/wikipedia/commons/d/d1/Avenue_K%2C_Kuala_Lumpur_20260413_095055.jpg": {
+  "slug": "kuala-lumpur-tangga",
+  "verdict": "MATCH",
+  "reason": "metadata veto: Commons names Kuala Lumpur (vision said: Avenue K mall sign, not Tangga restaurant venue)",
+  "reasonKo": null,
+  "at": "2026-10-01T18:33:36.292Z"
+ },
  "kuala-lumpur-thean-hou-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Thean_Hou_Temple%2C_Kuala_Lumpur-1.jpg/1920px-Thean_Hou_Temple%2C_Kuala_Lumpur-1.jpg": {
   "slug": "kuala-lumpur-thean-hou-temple",
   "verdict": "MATCH",
@@ -19806,6 +19813,13 @@
   "verdict": "MATCH",
   "reason": "publish gate: Garden entrance gates with path, representative of venue",
   "at": "2026-10-01T07:47:52.257Z"
+ },
+ "sydney-watermans\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Watermans_Cove_Sydney.jpg/3840px-Watermans_Cove_Sydney.jpg": {
+  "slug": "sydney-watermans",
+  "verdict": "MATCH",
+  "reason": "metadata veto: Commons names Sydney (vision said: Shows Sydney waterfront architecture, not a restaurant venue)",
+  "reasonKo": null,
+  "at": "2026-10-01T18:33:38.731Z"
  },
  "sydney-wendy-whiteley-s-secret-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Wendy_Whiteley%27s_Secret_Garden_pano.jpg/3840px-Wendy_Whiteley%27s_Secret_Garden_pano.jpg": {
   "slug": "sydney-wendy-whiteley-s-secret-garden",
