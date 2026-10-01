@@ -37,11 +37,38 @@ on:
   # Found 2026-08-22: Cambodia's first ten guides were on main for 3 hours
   # while /destinations still said "coming soon". workflow_run is exempt from
   # that rule, so the content producers hand off here when they finish.
+  #
+  # Every scheduled job that commits SITE content belongs here, not just the
+  # three content producers. Until 2026-10-01 fourteen did not — photo
+  # backfills, the freshness refresh, hero-width upgrades, galleries, the
+  # quality and visual audits, country facts — so their fixes, photo
+  # QUARANTINES included, sat on main until the next publish or patrol push
+  # (found when two UK hubs kept a too-narrow share image hours after the width
+  # was recorded). audit-automation's UNDEPLOYED-PUSH now fails CI when a job
+  # that pushes src/, public/ or site data is missing from this list. A run that
+  # pushed nothing is turned away by the gate job below, so listing a job costs
+  # no build on the days it has nothing to ship.
+  # Not listed: 'Quality audit (intl venues)'. It runs fourth in a workflow_run
+  # chain, past the depth GitHub will follow, so it dispatches this workflow
+  # itself after it pushes.
   workflow_run:
     workflows:
       - 'Auto-generate & publish posts'
       - 'Backfill countries to target'
       - 'Discover current events (web search)'
+      - 'Alt-source photo backfill'
+      - 'Backfill place details (phone/hours)'
+      - 'Backfill real venue photos'
+      - 'Gallery patrol (weekly in-body photo retry)'
+      - 'Geocode placeless posts'
+      - 'Hero width upgrade (Discover)'
+      - 'In-body gallery photos'
+      - 'Refresh country facts (climate + holidays)'
+      - 'Refresh essentials (web check)'
+      - 'Refresh existing posts (freshness)'
+      - 'Weekly full content audit'
+      - 'attach-placeless-photos'
+      - 'visual-audit'
     types: [completed]
   push:
     branches: [main]
@@ -90,6 +117,8 @@ on:
       - '!data/performance-log.json'
       - '!data/indexnow-state.json'
       - '!data/reddit-scout-seen.json'
+      # The Claude spend ledger — read by reports, never by the site (2026-10-01).
+      - '!data/claude-cost.jsonl'
 
 # NOT cancel-in-progress. Cancelling looks free but it is not: GitHub reports a
 # superseded run as a FAILED run and emails the owner about it, so a busy push
@@ -107,13 +136,27 @@ jobs:
   # same main a second time. Since 2026-09-28 the afternoon batch hands off to
   # this workflow itself (publish.yml deploy-handoff), so that evening deploy
   # would be pure duplicate. Idle = every job other than a guard was skipped.
+  #
+  # Second test (2026-10-01): did the run push anything at all? A producer
+  # checks out main at head_sha and, if it commits, moves main past it. If main
+  # still sits on head_sha when the run is over, it shipped nothing — the usual
+  # day for most of the patrol jobs listed above, which is why listing them
+  # costs no builds. If main moved for some other reason, we build anyway; that
+  # only ships what the other push left waiting.
+  #
+  # The producer's conclusion no longer decides. A multi-step job can push and
+  # THEN fail (alt-photos pushes its quarantines before later steps run), and
+  # "failed ⇒ nothing worth shipping" left those fixes undeployed. What is on
+  # main gets shipped; only a cancelled run is ignored.
+  #
   # Fails open: if the API cannot be read, idle stays empty and we build — a
   # stale site is the worse failure.
   gate:
-    if: ${{ github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success' }}
+    if: ${{ github.event_name == 'workflow_run' && github.event.workflow_run.conclusion != 'cancelled' }}
     runs-on: ubuntu-latest
     permissions:
       actions: read
+      contents: read
     outputs:
       idle: ${{ steps.look.outputs.idle }}
     steps:
@@ -125,7 +168,49 @@ jobs:
           n=$(gh api "repos/$GITHUB_REPOSITORY/actions/runs/${{ github.event.workflow_run.id }}/jobs?per_page=100" \
                 --jq '[.jobs[] | select((.name | test("(^|/ )(slot|gate)$")) | not) | select(.conclusion != "skipped")] | length') || n=""
           echo "producer jobs that did work: ${n:-unknown}"
-          if [ "$n" = "0" ]; then echo "idle=true" >> "$GITHUB_OUTPUT"; echo "nothing new to ship — skipping the deploy"; fi
+          if [ "$n" = "0" ]; then echo "idle=true" >> "$GITHUB_OUTPUT"; echo "nothing new to ship — skipping the deploy"; exit 0; fi
+          main=$(gh api "repos/$GITHUB_REPOSITORY/commits/main" --jq .sha) || main=""
+          head="${{ github.event.workflow_run.head_sha }}"
+          echo "main=${main:-unknown} producer head=$head"
+          [ -n "$main" ] || exit 0                       # unreadable → build (fail open)
+          if [ "$main" = "$head" ]; then echo "idle=true" >> "$GITHUB_OUTPUT"; echo "the run pushed nothing — skipping the deploy"; exit 0; fi
+          # main moved. Ship only if something the SITE is built from changed —
+          # the same `paths:` filter the push trigger below uses, read from this
+          # very file at main so the two can never drift. A run that only
+          # committed its ledger (data/logs/, published.json, …) builds nothing.
+          gh api "repos/$GITHUB_REPOSITORY/compare/$head...$main" > /tmp/cmp.json || exit 0
+          gh api "repos/$GITHUB_REPOSITORY/contents/.github/workflows/build-check.yml?ref=$main" --jq .content | base64 -d > /tmp/self.yml || exit 0
+          node - <<'JS' || exit 0
+          const fs = require('fs');
+          const cmp = JSON.parse(fs.readFileSync('/tmp/cmp.json', 'utf8'));
+          // Only "main moved forward from what the producer started on" can be
+          // read as a diff. behind/diverged (a revert, a force-push) prove nothing
+          // about what the live site still serves — build.
+          if (cmp.status !== 'ahead') { console.log(`compare status ${cmp.status} — building`); process.exit(0); }
+          // A rename counts on both sides: moving a post OUT of src/ still has to
+          // take the old page down.
+          const files = (cmp.files ?? []).flatMap((x) => [x.filename, x.previous_filename]).filter(Boolean);
+          const lines = fs.readFileSync('/tmp/self.yml', 'utf8').split(/\r?\n/);
+          // The `paths:` list under `push:` — the first list after "  push:".
+          const start = lines.findIndex((l) => /^  push:\s*$/.test(l));
+          const pats = [];
+          let inPaths = false;
+          for (const l of lines.slice(start + 1)) {
+            if (/^\S/.test(l) || /^  \S/.test(l)) break;          // left the push: block
+            if (/^\s+paths:\s*$/.test(l)) { inPaths = true; continue; }
+            const m = inPaths && l.match(/^\s+-\s+'([^']+)'/);
+            if (m) pats.push(m[1]);
+          }
+          const re = (g) => new RegExp('^' + g.replace(/[.+^${}()|[\]\\]/g, '\\$&').replace(/\*\*/g, '\u0000').replace(/\*/g, '[^/]*').replace(/\u0000/g, '.*') + '$');
+          const inc = pats.filter((p) => !p.startsWith('!')).map(re);
+          const exc = pats.filter((p) => p.startsWith('!')).map((p) => re(p.slice(1)));
+          // The compare API lists at most 300 files; a list that long, or a
+          // filter that did not parse, is not evidence of "nothing" — build.
+          if (!inc.length || (cmp.files ?? []).length >= 300) process.exit(0);
+          const hit = files.filter((f) => inc.some((r) => r.test(f)) && !exc.some((r) => r.test(f)));
+          console.log(`changed ${files.length} file(s); site-relevant ${hit.length}: ${hit.slice(0, 5).join(' ')}`);
+          if (!hit.length) fs.appendFileSync(process.env.GITHUB_OUTPUT, 'idle=true\n');
+          JS
 
   build:
     needs: gate
@@ -137,10 +222,10 @@ jobs:
     concurrency:
       group: build-check
       cancel-in-progress: false
-    # A producer that failed or was cancelled pushed nothing worth shipping, and
-    # one whose work jobs were all skipped pushed nothing at all (gate above).
+    # A cancelled producer is ignored; otherwise the gate above decides whether
+    # the run left anything on main to ship (it may have pushed and then failed).
     # Pushes and manual runs skip the gate; !cancelled() lets build run past it.
-    if: ${{ !cancelled() && (github.event_name != 'workflow_run' || (github.event.workflow_run.conclusion == 'success' && needs.gate.outputs.idle != 'true')) }}
+    if: ${{ !cancelled() && (github.event_name != 'workflow_run' || (github.event.workflow_run.conclusion != 'cancelled' && needs.gate.outputs.idle != 'true')) }}
     steps:
       - uses: actions/checkout@v5
         with:

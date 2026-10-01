@@ -371,8 +371,74 @@ for (const [f, src] of sources) {
   }
 }
 
+// ── UNDEPLOYED-PUSH ─────────────────────────────────────────
+// A job that pushes SITE content with GITHUB_TOKEN never wakes the deploy:
+// GitHub starts no workflow for such a push, so build-check only runs for it if
+// the job is named in build-check's `workflow_run.workflows` (or dispatches
+// build-check itself). Fourteen jobs were not, until 2026-10-01 — photo
+// quarantines and hero fixes sat on main for hours. Site content = anything it
+// `git add`s under src/ or public/, `-A`/`.`, or a data/ file the site's code
+// reads (matched by file name in src/ and astro.config.mjs). Judged only when
+// build-check.yml is among the audited files.
+{
+  const deploy = sources.get('build-check.yml');
+  if (deploy) {
+    const wr = (deploy.split(/^\s*workflow_run:/m)[1] || '').split(/^\s*push:/m)[0];
+    const woken = new Set([...wr.matchAll(/-\s*['"]([^'"]+)['"]/g)].map((m) => m[1]));
+    let siteText = '';
+    try {
+      const walk = (d) => readdirSync(d, { withFileTypes: true }).flatMap((e) => (e.isDirectory() ? walk(join(d, e.name)) : /\.(astro|ts|mjs|js)$/.test(e.name) ? [join(d, e.name)] : []));
+      siteText = walk('src').map((p) => readFileSync(p, 'utf8')).join('\n') + (existsSync('astro.config.mjs') ? readFileSync('astro.config.mjs', 'utf8') : '');
+    } catch { /* no src/ here (a fixture directory): judge src/ and public/ paths only */ }
+    // How deep each workflow can sit in a workflow_run chain. GitHub follows
+    // A→B→C→D and runs nothing after (docs, "workflow_run"), so build-check —
+    // one more link — only hears a producer at depth ≤ 3. Quality audit sits at
+    // 4 (publish → backfill-details → backfill → it): listed, and never heard.
+    const docs = new Map([...sources].map(([f, s]) => { let d = null; try { d = yaml.load(s); } catch { /* reported elsewhere */ } return [f, d]; }));
+    const fileOf = new Map([...docs].map(([f, d]) => [d?.name, f]));
+    // Flags that stage everything already tracked (or everything at all).
+    const STAGE_ALL = new Set(['-A', '--all', '-u', '--update']);
+    const depth = (name, seen = new Set()) => {
+      const d = docs.get(fileOf.get(name));
+      const ups = d?.on?.workflow_run?.workflows ?? d?.[true]?.workflow_run?.workflows ?? [];
+      if (!ups.length || seen.has(name)) return 1;
+      return 1 + Math.max(...ups.map((u) => depth(u, new Set([...seen, name]))));
+    };
+    for (const [f, src] of sources) {
+      if (f === 'build-check.yml' || !/git push\b|git-push-retry\.sh/.test(src)) continue;
+      // Only a real dispatch counts: a command at the start of a shell line —
+      // not the file name in a comment (whole-line or trailing) or inside an echo.
+      const code = src.split('\n').filter((l) => !/^\s*#/.test(l)).map((l) => l.replace(/\s+#.*$/, '')).join('\n');
+      if (/^\s*(?:-\s+)?(?:run:\s*)?(?:gh workflow run build-check\.yml\b|curl\b[^\n]*actions\/workflows\/build-check\.yml\/dispatches)/m.test(code)) continue;
+      const name = (src.match(/^name:\s*['"]?(.+?)['"]?\s*$/m) || [])[1] || f;
+      // `git add` arguments, read the way a shell would: line continuations
+      // joined, quotes dropped. An argument built from a variable cannot be
+      // known here, so it counts as site content — the safe side of the bet.
+      const joined = code.replace(/\\\r?\n\s*/g, ' ');
+      // `for f in a b; do git add "$f"` — expand the loop variable to its list.
+      const loops = new Map([...joined.matchAll(/for (\w+) in ([^;\n]+);\s*do/g)].map((m) => [m[1], m[2].trim().split(/\s+/)]));
+      const added = [...joined.matchAll(/git add ([^\n&;|#]+)/g)]
+        .flatMap((m) => m[1].trim().split(/\s+/))
+        .map((a) => a.replace(/^['"]|['"]$/g, ''))
+        .flatMap((a) => { const v = a.match(/^\$\{?(\w+)\}?$/); return v && loops.has(v[1]) ? loops.get(v[1]) : [a]; })
+        .map((a) => a.replace(/^['"]|['"]$/g, '').replace(/^\.\//, ''))   // the loop list carries its own quotes
+        .filter((a) => a && (!a.startsWith('-') || STAGE_ALL.has(a)));
+      const site = added.filter((a) => STAGE_ALL.has(a) || a === '.' || a.includes('$') || /^(src|public)(\/|$)/.test(a)
+        || (/^data\//.test(a) && (() => { const b = a.split('/').pop().replace(/\*.*$/, ''); return b.length > 3 && siteText.includes(b); })()));
+      if (!site.length) continue;
+      if (!woken.has(name)) {
+        add('UNDEPLOYED-PUSH', f,
+          `"${name}" pushes site content (${site.slice(0, 3).join(' ')}) but is not in build-check.yml's workflow_run list — its commits reach the site only when something else deploys`);
+      } else if (depth(name) > 3) {
+        add('UNDEPLOYED-PUSH', f,
+          `"${name}" is listed in build-check.yml but runs at depth ${depth(name)} of a workflow_run chain; GitHub stops at 4, so build-check never hears it — dispatch build-check from the job instead`);
+      }
+    }
+  }
+}
+
 // ── report ──────────────────────────────────────────────────
-const order = ['CALLEE-OVERREACH', 'UNGATED-COMMIT', 'BLANK-CARD', 'EMPTY-PASS', 'CANCELLED-RUN', 'CONCURRENCY-CANCEL', 'HEREDOC-GLUE', 'MUTED-CHECK', 'SILENT-JOB', 'SWALLOWED', 'PUSH-NO-WRITE'];
+const order = ['CALLEE-OVERREACH', 'UNDEPLOYED-PUSH', 'UNGATED-COMMIT', 'BLANK-CARD', 'EMPTY-PASS', 'CANCELLED-RUN', 'CONCURRENCY-CANCEL', 'HEREDOC-GLUE', 'MUTED-CHECK', 'SILENT-JOB', 'SWALLOWED', 'PUSH-NO-WRITE'];
 findings.sort((a, b) => order.indexOf(a.kind) - order.indexOf(b.kind) || a.file.localeCompare(b.file));
 for (const x of findings) console.log(`${x.kind.padEnd(13)} ${x.file}\n              ${x.detail}\n`);
 

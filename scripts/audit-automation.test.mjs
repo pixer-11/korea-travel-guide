@@ -396,6 +396,89 @@ t('호출자가 같거나 더 큰 권한을 주면 잡지 않는다', () => {
   return /^CALLEE-OVERREACH /m.test(r.out) ? `오탐: ${r.out}` : null;
 });
 
+// ── UNDEPLOYED-PUSH (2026-10-01) ──────────────────────────────
+// 사이트 내용을 커밋하는데 build-check 의 workflow_run 명단에 없으면 그 커밋은
+// 다른 배포가 있을 때까지 사이트에 안 나간다(14개가 그랬다).
+const DEPLOY = (names) => `name: Build check (deploy guard)\non:\n  workflow_run:\n    workflows:\n${names.map((n) => `      - '${n}'\n`).join('')}    types: [completed]\n  push:\n    branches: [main]\njobs:\n  build:\n    steps:\n      - run: npm run build\n`;
+const PUSHER = (name, add, extra = '') => `name: ${name}\non:\n  schedule:\n    - cron: '0 1 * * *'\npermissions:\n  contents: write\njobs:\n  a:\n    steps:\n      - run: |\n          git add ${add}\n          git commit -m x && bash scripts/git-push-retry.sh\n${extra}${TELEGRAM}\n`;
+
+t('사이트 글을 커밋하는데 배포 명단에 없으면 잡는다', () => {
+  const r = audit({ 'build-check.yml': DEPLOY(['Publisher']), 'photos.yml': PUSHER('Photo fixer', 'src/content/posts public/wall') });
+  return /^UNDEPLOYED-PUSH /m.test(r.out) && /Photo fixer/.test(r.out) ? null : `놓침: ${r.out}`;
+});
+
+t('배포 명단에 있으면 잡지 않는다', () => {
+  const r = audit({ 'build-check.yml': DEPLOY(['Photo fixer']), 'photos.yml': PUSHER('Photo fixer', 'src/content/posts') });
+  return /^UNDEPLOYED-PUSH /m.test(r.out) ? `오탐: ${r.out}` : /AUTOMATION_AUDIT_SUMMARY/.test(r.out) ? null : `검사기가 끝까지 못 돌았다: ${r.out}`;
+});
+
+t('사이트가 안 쓰는 데이터만 커밋하면 잡지 않는다', () => {
+  const r = audit({ 'build-check.yml': DEPLOY([]), 'log.yml': PUSHER('Logger', 'data/logs/some-report.json') });
+  return /^UNDEPLOYED-PUSH /m.test(r.out) ? `오탐: ${r.out}` : /AUTOMATION_AUDIT_SUMMARY/.test(r.out) ? null : `검사기가 끝까지 못 돌았다: ${r.out}`;
+});
+
+t('스스로 build-check 를 부르는 작업은 잡지 않는다', () => {
+  const r = audit({ 'build-check.yml': DEPLOY([]), 'pub.yml': PUSHER('Self deployer', 'src/content/posts', '      - run: gh workflow run build-check.yml --ref main\n') });
+  return /^UNDEPLOYED-PUSH /m.test(r.out) ? `오탐: ${r.out}` : /AUTOMATION_AUDIT_SUMMARY/.test(r.out) ? null : `검사기가 끝까지 못 돌았다: ${r.out}`;
+});
+
+// 코덱스 리뷰(10-01)가 찾은 빈틈들.
+t('따옴표·줄 이어쓰기·알 수 없는 변수로 쓴 git add 도 사이트 변경으로 본다', () => {
+  const quoted = audit({ 'build-check.yml': DEPLOY([]), 'q.yml': PUSHER('Quoted', '"src/content/posts"') });
+  const cont = audit({ 'build-check.yml': DEPLOY([]), 'c.yml': PUSHER('Continued', 'data/log.json \\\n            src/content/posts') });
+  const vari = audit({ 'build-check.yml': DEPLOY([]), 'v.yml': PUSHER('Variable', '"$p"') });
+  for (const [k, r] of [['따옴표', quoted], ['이어쓰기', cont], ['변수', vari]]) if (!/^UNDEPLOYED-PUSH /m.test(r.out)) return `놓침(${k}): ${r.out}`;
+  return null;
+});
+
+t('for 반복문 변수는 목록으로 풀어서 판정한다(사이트와 무관한 파일이면 통과)', () => {
+  const body = `name: Pinner\non:\n  schedule:\n    - cron: '0 1 * * *'\npermissions:\n  contents: write\njobs:\n  a:\n    steps:\n      - run: |\n          for f in data/pin-state.json data/pin-token.enc; do\n            [ -f "$f" ] && git add "$f" || true\n          done\n          git commit -m x && git push\n${TELEGRAM}\n`;
+  const r = audit({ 'build-check.yml': DEPLOY([]), 'p.yml': body });
+  return /^UNDEPLOYED-PUSH /m.test(r.out) ? `오탐: ${r.out}` : /AUTOMATION_AUDIT_SUMMARY/.test(r.out) ? null : `검사기가 끝까지 못 돌았다: ${r.out}`;
+});
+
+t('주석·echo 에 build-check.yml 이라고만 쓴 작업은 면제되지 않는다', () => {
+  const cases = [
+    ['줄 주석', '      # build-check.yml should deploy this\n'],
+    ['끝 주석', '      - run: git push # gh workflow run build-check.yml\n'],
+    ['echo', '      - run: echo "gh workflow run build-check.yml"\n'],
+  ];
+  for (const [k, extra] of cases) {
+    const r = audit({ 'build-check.yml': DEPLOY([]), 'x.yml': PUSHER('Commenter', 'src/content/posts', extra) });
+    if (!/^UNDEPLOYED-PUSH /m.test(r.out)) return `놓침(${k}): ${r.out}`;
+  }
+  return null;
+});
+
+t('진짜로 build-check 를 부르는 단계(- run: gh workflow run …)는 면제한다', () => {
+  const r = audit({ 'build-check.yml': DEPLOY([]), 'x.yml': PUSHER('Dispatcher', 'src/content/posts', '      - run: gh workflow run build-check.yml --ref main\n') });
+  return /^UNDEPLOYED-PUSH /m.test(r.out) ? `오탐: ${r.out}` : /AUTOMATION_AUDIT_SUMMARY/.test(r.out) ? null : `검사기가 끝까지 못 돌았다: ${r.out}`;
+});
+
+t('폴더 이름만(src·public)·--all·-u 로 올려도 사이트 변경으로 본다 (코덱스 3차)', () => {
+  for (const add of ['src public', '--all', '-u', './src/content/posts']) {
+    const r = audit({ 'build-check.yml': DEPLOY([]), 'a.yml': PUSHER('Bulk adder', add) });
+    if (!/^UNDEPLOYED-PUSH /m.test(r.out)) return `놓침(git add ${add}): ${r.out}`;
+  }
+  return null;
+});
+
+t('for 목록의 따옴표 친 사이트 경로도 잡는다', () => {
+  const body = `name: Quoted loop\non:\n  schedule:\n    - cron: '0 1 * * *'\npermissions:\n  contents: write\njobs:\n  a:\n    steps:\n      - run: |\n          for f in "src/content/posts"; do git add "$f"; done\n          git commit -m x && git push\n${TELEGRAM}\n`;
+  const r = audit({ 'build-check.yml': DEPLOY([]), 'l.yml': body });
+  return /^UNDEPLOYED-PUSH /m.test(r.out) ? null : `놓침: ${r.out}`;
+});
+
+t('명단에 있어도 연쇄 4단계째라 배포를 못 깨우면 잡는다', () => {
+  const chain = (name, up) => `name: ${name}\non:\n  workflow_run:\n    workflows: ['${up}']\n    types: [completed]\njobs:\n  a:\n    steps:\n      - run: echo hi\n${TELEGRAM}\n`;
+  const deep = PUSHER('Deep fixer', 'src/content/posts').replace("  schedule:\n    - cron: '0 1 * * *'", "  workflow_run:\n    workflows: ['C']\n    types: [completed]");
+  const r = audit({
+    'build-check.yml': DEPLOY(['Deep fixer']),
+    'a.yml': PUSHER('A', 'data/logs/a.json'), 'b.yml': chain('B', 'A'), 'c.yml': chain('C', 'B'), 'd.yml': deep,
+  });
+  return /^UNDEPLOYED-PUSH /m.test(r.out) && /depth 4/.test(r.out) ? null : `놓침: ${r.out}`;
+});
+
 t('저장소의 실제 워크플로가 지금 깨끗하다', () => {
   try {
     execFileSync(process.execPath, ['scripts/audit-automation.mjs'], { encoding: 'utf8' });

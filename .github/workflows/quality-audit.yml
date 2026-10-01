@@ -37,6 +37,8 @@ concurrency:
 
 permissions:
   contents: write
+  # To start the deploy itself — see "Start the deploy" below.
+  actions: write
 
 jobs:
   audit:
@@ -120,6 +122,18 @@ jobs:
             bash scripts/git-push-retry.sh
             echo "committed=1" >> "$GITHUB_OUTPUT"
           fi
+
+      # This job sits FOURTH in a workflow_run chain (publish → backfill-details →
+      # backfill → here), and GitHub runs no workflow past that depth, so
+      # build-check's workflow_run listener can never hear it (docs: A→B→C→D runs,
+      # E does not). Its fixes waited for the next unrelated deploy. A
+      # workflow_dispatch made with GITHUB_TOKEN is allowed and starts fresh.
+      # (2026-10-01, codex review)
+      - name: Start the deploy
+        if: steps.commit.outputs.committed == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run build-check.yml --repo "$GITHUB_REPOSITORY" --ref main
 
       # A crash has to speak even though nothing was committed — that was the
       # exact silence: no commit, no message, green job, nobody told.
