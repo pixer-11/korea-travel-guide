@@ -6,7 +6,7 @@
 //
 // Redesign 2026-10-01 from the owner's "한산한 시간 개선안": a "quiet right now"
 // widget computed in each venue's OWN time zone, a sticky filter bar with a
-// "pick a time" mode (weekday/weekend + hour slider — moving it re-colours every
+// "pick a time" mode (day of the week + hour slider — moving it re-colours every
 // card's status, the outlined hour on its bar, the counts and the widget), a
 // day plan ordered by quiet hours that saves into /my-trip, and the venue
 // photos the mock-up left out. Everything a crawler or an assistant reads —
@@ -68,9 +68,12 @@ const range = (arr?: number[]) => formatHourRanges(arr ?? [], { ...AMPM, lang })
 // quiet or neither. perDayBusyness has already removed quiet/busy hours that
 // fall outside the day's opening hours; the week tells us which are closed.
 type Cell = 'q' | 'b' | 'm' | 'x';
+// An hour counts as open only when the WHOLE hour is — the same rule
+// perDayBusyness applies — so 9:15 at a place opening 9:30 never reads
+// "moderate now" (codex + review, 2026-10-01).
 const openHour = (week: number[][][] | null, day: number, h: number) =>
-  !week || week[day].some(([s, e]) => s < (h + 1) * 60 && e > h * 60) ||
-  week[(day + 6) % 7].some(([, e]) => e > 1440 && e - 1440 > h * 60);
+  !week || week[day].some(([s, e]) => s <= h * 60 && e >= (h + 1) * 60) ||
+  week[(day + 6) % 7].some(([, e]) => e > 1440 && e - 1440 >= (h + 1) * 60);
 
 const index = posts
   .filter((p) => p.data.place?.busyness && (
@@ -198,22 +201,22 @@ const fill = (key: Parameters<typeof t>[0], vars: Record<string, string | number
 const L = {
   en: {
     crumbTools: 'Travel tools', badge: 'Free tool · no sign-up', h1a: 'When is it not busy?', h1b: 'Find the no-queue hour',
-    dek: (n: number) => `Nobody likes queues. See hour-by-hour crowd levels for ${n} places, measured from real visit data — and go when it's quiet.`,
+    dek: (n: number) => `Nobody likes queues. See hour-by-hour crowd forecasts for ${n} places, built from real visit data — and go when it's quiet.`,
     searchPh: 'Place or city (e.g. Gwangjang Market, New York)', searchBtn: 'Find', popular: 'Popular cities',
     wNow: 'Each place in its own local time · updates every minute', wPick: (when: string) => `Picked time · ${when}`,
-    wTitleNow: (n: number) => `Quiet right now: ${n} ${n === 1 ? 'place' : 'places'}`, wTitlePick: (n: number) => `Quiet then: ${n} ${n === 1 ? 'place' : 'places'}`,
+    wTitleNow: (n: number) => `Quiet right now: ${n}`, wTitlePick: (n: number) => `Quiet at that time: ${n}`, wIdle: 'Where is it quiet right now?',
     wNone: 'Nothing in this filter is quiet at this hour — try another time.', quietUntil: (h: string) => `quiet till ${h}`,
     sPlaces: 'Places analysed', sCountries: 'Countries', sHours: 'Hours covered',
     listTitle: 'Quiet hours, place by place', all: 'All', cityAll: 'All cities',
     modeNow: 'Now · local time', modePick: 'Pick a time', modeNote: 'Each place is computed in its own current local time',
     weekday: 'Weekday', weekend: 'Weekend', sortQuiet: 'Quietest first', sortRating: 'Top rated', sortCity: 'By city',
-    count: (n: number, when: string) => `${n} places · ${when}`, whenNow: 'right now, local time',
+    count: (n: number, when: string) => `Showing ${n} · ${when}`, whenNow: 'right now, local time',
     stNow: { q: 'Quiet now', m: 'Moderate now', b: 'Busy now', x: 'Closed now', o: 'Outside measured hours' },
     stAt: { q: 'Quiet', m: 'Moderate', b: 'Busy', x: 'Closed', o: 'Outside measured hours' }, local: 'local',
     guide: 'Read the guide →', add: '+ Add to day plan', added: '✓ In day plan', more: (n: number) => `Show ${n} more ↓`,
-    planBar: (n: number) => `${n} ${n === 1 ? 'place' : 'places'} in your day plan`, clear: 'Clear', build: 'Plan by quiet hours →',
+    planBar: (n: number) => `Day plan: ${n}`, clear: 'Clear', build: 'Plan by quiet hours →',
     planTitle: 'A day ordered by quiet hours', planNote: 'About an hour per place; travel time between places is not included.',
-    multiCity: 'These places are in different cities — plan each city on its own day.', noQuiet: 'No quiet hour that day', overlap: 'Overlaps the quiet window', saveTrip: 'Save all to My trip', saved: 'Saved to My trip ✓',
+    multiCity: 'These places are in different cities — plan each city on its own day.', noQuiet: 'No quiet hour that day', overlap: 'Outside its quiet hours', saveTrip: 'Save all to My trip', saved: 'Saved to My trip ✓',
     copy: 'Copy plan link', copied: 'Link copied ✓', close: 'Close', myTrip: 'Open My trip →',
     ticketsTitle: 'Still a queue at the quiet hour?', ticketsBody: 'Observation decks and big museums sell timed-entry tickets that do the queuing for you. Book the quiet slot and it is as sure as it gets.',
     ticketsCta: 'Browse tickets →', itinCta: 'Itineraries in quiet order',
@@ -227,10 +230,10 @@ const L = {
   },
   ko: {
     crumbTools: '여행 도구', badge: '무료 도구 · 가입 없음', h1a: '언제 가야 안 붐빌까', h1b: '줄 없는 시간 찾기',
-    dek: (n: number) => `줄 서는 건 누구나 싫죠. 실제 방문 데이터로 분석한 ${n}곳의 시간대별 혼잡도를 보고, 가장 한산한 시간에 가세요.`,
+    dek: (n: number) => `줄 서는 건 누구나 싫죠. 실제 방문 데이터를 바탕으로 예측한 ${n}곳의 시간대별 혼잡도를 보고, 가장 한산한 시간에 가세요.`,
     searchPh: '장소나 도시 이름 (예: 광장시장, 뉴욕)', searchBtn: '찾기', popular: '인기 도시',
     wNow: '각 장소의 현지 시각 기준 · 1분마다 갱신', wPick: (when: string) => `고른 시간 · ${when}`,
-    wTitleNow: (n: number) => `지금 가면 줄 없는 곳 ${n}곳`, wTitlePick: (n: number) => `그 시간에 한산한 곳 ${n}곳`,
+    wTitleNow: (n: number) => `지금 가면 줄 없는 곳 ${n}곳`, wTitlePick: (n: number) => `그 시간에 한산한 곳 ${n}곳`, wIdle: '지금 가면 줄 없는 곳은 어디?',
     wNone: '지금 고른 조건에서는 한산한 곳이 없어요. 다른 시간을 골라 보세요.', quietUntil: (h: string) => `한산 ~${h}`,
     sPlaces: '분석한 장소', sCountries: '나라', sHours: '시간대',
     listTitle: '장소별 한산한 시간', all: '전체', cityAll: '모든 도시',
@@ -242,7 +245,7 @@ const L = {
     guide: '가이드 보기 →', add: '+ 하루 동선에 담기', added: '✓ 동선에 담김', more: (n: number) => `${n}곳 더 보기 ↓`,
     planBar: (n: number) => `하루 동선에 담은 곳 ${n}곳`, clear: '비우기', build: '한산한 순서로 짜기 →',
     planTitle: '한산한 시간 순서로 짠 하루', planNote: '한 곳에 1시간쯤 머문다고 보고 짰어요. 장소 사이 이동 시간은 넣지 않았습니다.',
-    multiCity: '여러 도시가 섞여 있어요. 도시마다 다른 날로 나눠 보세요.', noQuiet: '그날은 한산한 시간이 없어요', overlap: '한산한 시간과 겹침', saveTrip: '내 여행에 모두 담기', saved: '내 여행에 담았어요 ✓',
+    multiCity: '여러 도시가 섞여 있어요. 도시마다 다른 날로 나눠 보세요.', noQuiet: '그날은 한산한 시간이 없어요', overlap: '한산한 시간을 벗어남', saveTrip: '내 여행에 모두 담기', saved: '내 여행에 담았어요 ✓',
     copy: '동선 링크 복사', copied: '링크를 복사했어요 ✓', close: '닫기', myTrip: '내 여행 열기 →',
     ticketsTitle: '한산한 시간에도 줄이 긴 곳이라면', ticketsBody: '전망대나 인기 박물관은 시간 지정 입장권이 줄을 대신 서 줍니다. 한산한 시간에 맞춰 예약하면 가장 확실해요.',
     ticketsCta: '입장권 둘러보기 →', itinCta: '한산한 순서의 코스',
@@ -256,10 +259,10 @@ const L = {
   },
   ja: {
     crumbTools: '旅行ツール', badge: '無料ツール · 登録不要', h1a: 'いつ行けば空いている？', h1b: '行列のない時間を探す',
-    dek: (n: number) => `行列は誰でも避けたいもの。実際の来訪データから分析した${n}か所の時間帯別の混雑度を見て、いちばん空いている時間に出かけましょう。`,
+    dek: (n: number) => `行列は誰でも避けたいもの。実際の来訪データをもとに予測した${n}か所の時間帯別の混雑度を見て、いちばん空いている時間に出かけましょう。`,
     searchPh: '場所や都市の名前（例：広蔵市場、ニューヨーク）', searchBtn: '探す', popular: '人気の都市',
     wNow: '各スポットの現地時間で計算 · 1分ごとに更新', wPick: (when: string) => `選んだ時間 · ${when}`,
-    wTitleNow: (n: number) => `今行けば空いている場所 ${n}か所`, wTitlePick: (n: number) => `その時間に空いている場所 ${n}か所`,
+    wTitleNow: (n: number) => `今行けば空いている場所 ${n}か所`, wTitlePick: (n: number) => `その時間に空いている場所 ${n}か所`, wIdle: '今、空いているのはどこ？',
     wNone: 'この条件で空いている場所はありません。別の時間を選んでみてください。', quietUntil: (h: string) => `空いている 〜${h}`,
     sPlaces: '分析したスポット', sCountries: '国', sHours: '時間帯',
     listTitle: 'スポット別の空いている時間', all: 'すべて', cityAll: 'すべての都市',
@@ -271,7 +274,7 @@ const L = {
     guide: 'ガイドを見る →', add: '+ 1日のルートに追加', added: '✓ ルートに追加済み', more: (n: number) => `あと${n}か所を見る ↓`,
     planBar: (n: number) => `1日のルートに${n}か所`, clear: 'クリア', build: '空いている順に組む →',
     planTitle: '空いている時間の順に組んだ1日', planNote: '1か所に約1時間いると仮定しています。移動時間は含みません。',
-    multiCity: '複数の都市が混ざっています。都市ごとに別の日に分けてください。', noQuiet: 'その日は空いている時間がありません', overlap: '空いている時間と重なっています', saveTrip: 'マイトリップにすべて保存', saved: 'マイトリップに保存しました ✓',
+    multiCity: '複数の都市が混ざっています。都市ごとに別の日に分けてください。', noQuiet: 'その日は空いている時間がありません', overlap: '空いている時間から外れています', saveTrip: 'マイトリップにすべて保存', saved: 'マイトリップに保存しました ✓',
     copy: 'ルートのリンクをコピー', copied: 'リンクをコピーしました ✓', close: '閉じる', myTrip: 'マイトリップを開く →',
     ticketsTitle: '空いている時間でも行列が長い場所なら', ticketsBody: '展望台や人気の博物館は、時間指定チケットが行列の代わりになります。空いている時間に合わせて予約するのがいちばん確実です。',
     ticketsCta: 'チケットを見る →', itinCta: '空いている順のモデルコース',
@@ -285,22 +288,22 @@ const L = {
   },
   es: {
     crumbTools: 'Herramientas de viaje', badge: 'Herramienta gratis · sin registro', h1a: '¿Cuándo hay menos gente?', h1b: 'Encuentra la hora sin colas',
-    dek: (n: number) => `A nadie le gustan las colas. Mira la afluencia hora a hora de ${n} lugares, medida con datos reales de visitas, y ve cuando esté tranquilo.`,
+    dek: (n: number) => `A nadie le gustan las colas. Mira la previsión de afluencia hora a hora de ${n} lugares, basada en datos reales de visitas, y ve cuando esté tranquilo.`,
     searchPh: 'Lugar o ciudad (p. ej. Mercado de Gwangjang, Nueva York)', searchBtn: 'Buscar', popular: 'Ciudades populares',
     wNow: 'Cada lugar en su hora local · se actualiza cada minuto', wPick: (when: string) => `Hora elegida · ${when}`,
-    wTitleNow: (n: number) => `Tranquilos ahora mismo: ${n}`, wTitlePick: (n: number) => `Tranquilos a esa hora: ${n}`,
+    wTitleNow: (n: number) => `Tranquilos ahora mismo: ${n}`, wTitlePick: (n: number) => `Tranquilos a esa hora: ${n}`, wIdle: '¿Dónde hay poca gente ahora?',
     wNone: 'Con este filtro no hay nada tranquilo a esta hora. Prueba otra.', quietUntil: (h: string) => `tranquilo hasta ${h}`,
     sPlaces: 'Lugares analizados', sCountries: 'Países', sHours: 'Horas',
     listTitle: 'Horas tranquilas, lugar por lugar', all: 'Todos', cityAll: 'Todas las ciudades',
     modeNow: 'Ahora · hora local', modePick: 'Elegir una hora', modeNote: 'Cada lugar se calcula con su hora local actual',
     weekday: 'Entre semana', weekend: 'Fin de semana', sortQuiet: 'Más tranquilos', sortRating: 'Mejor valorados', sortCity: 'Por ciudad',
-    count: (n: number, when: string) => `${n} lugares · ${when}`, whenNow: 'ahora, hora local',
+    count: (n: number, when: string) => `Mostrando ${n} · ${when}`, whenNow: 'ahora, hora local',
     stNow: { q: 'Tranquilo ahora', m: 'Normal ahora', b: 'Lleno ahora', x: 'Cerrado ahora', o: 'Fuera de las horas medidas' },
     stAt: { q: 'Tranquilo', m: 'Normal', b: 'Lleno', x: 'Cerrado', o: 'Fuera de las horas medidas' }, local: 'local',
     guide: 'Ver la guía →', add: '+ Añadir al plan del día', added: '✓ En el plan', more: (n: number) => `Ver ${n} más ↓`,
-    planBar: (n: number) => `${n} lugares en tu plan del día`, clear: 'Vaciar', build: 'Ordenar por horas tranquilas →',
+    planBar: (n: number) => `Plan del día: ${n}`, clear: 'Vaciar', build: 'Ordenar por horas tranquilas →',
     planTitle: 'Un día ordenado por horas tranquilas', planNote: 'Calculado con una hora por lugar; no incluye el tiempo de desplazamiento.',
-    multiCity: 'Hay lugares de varias ciudades: planifica cada ciudad en un día distinto.', noQuiet: 'Ese día no tiene hora tranquila', overlap: 'Se solapa con la hora tranquila', saveTrip: 'Guardar todo en Mi viaje', saved: 'Guardado en Mi viaje ✓',
+    multiCity: 'Hay lugares de varias ciudades: planifica cada ciudad en un día distinto.', noQuiet: 'Ese día no tiene hora tranquila', overlap: 'Fuera de su hora tranquila', saveTrip: 'Guardar todo en Mi viaje', saved: 'Guardado en Mi viaje ✓',
     copy: 'Copiar enlace del plan', copied: 'Enlace copiado ✓', close: 'Cerrar', myTrip: 'Abrir Mi viaje →',
     ticketsTitle: '¿Hay cola incluso a la hora tranquila?', ticketsBody: 'Miradores y museos famosos venden entradas con hora que hacen la cola por ti. Reserva la franja tranquila y vas sobre seguro.',
     ticketsCta: 'Ver entradas →', itinCta: 'Rutas en orden tranquilo',
@@ -314,10 +317,10 @@ const L = {
   },
   zh: {
     crumbTools: '旅行工具', badge: '免费工具 · 无需注册', h1a: '什么时候去不挤？', h1b: '找到不用排队的时段',
-    dek: (n: number) => `没人喜欢排队。看看根据真实到访数据分析的 ${n} 个地点的分时段拥挤度，挑最空闲的时候去。`,
+    dek: (n: number) => `没人喜欢排队。看看根据真实到访数据预测的 ${n} 个地点的分时段拥挤度，挑最空闲的时候去。`,
     searchPh: '地点或城市（例如：广藏市场、纽约）', searchBtn: '查找', popular: '热门城市',
     wNow: '按各地点的当地时间计算 · 每分钟更新', wPick: (when: string) => `所选时间 · ${when}`,
-    wTitleNow: (n: number) => `现在去不用排队的地方：${n} 处`, wTitlePick: (n: number) => `那个时段空闲的地方：${n} 处`,
+    wTitleNow: (n: number) => `现在去不用排队的地方：${n} 处`, wTitlePick: (n: number) => `那个时段空闲的地方：${n} 处`, wIdle: '现在去哪里不用排队？',
     wNone: '在当前条件下没有空闲的地方，换个时间试试。', quietUntil: (h: string) => `空闲至${h}`,
     sPlaces: '分析的地点', sCountries: '国家', sHours: '时段',
     listTitle: '各地点的空闲时段', all: '全部', cityAll: '所有城市',
@@ -329,7 +332,7 @@ const L = {
     guide: '查看指南 →', add: '+ 加入一日行程', added: '✓ 已加入行程', more: (n: number) => `再看 ${n} 处 ↓`,
     planBar: (n: number) => `一日行程中有 ${n} 处`, clear: '清空', build: '按空闲时段排行程 →',
     planTitle: '按空闲时段排好的一天', planNote: '按每处停留约 1 小时计算，未包含地点之间的交通时间。',
-    multiCity: '行程里有不同城市的地点，建议每个城市分开安排在不同的日子。', noQuiet: '那天没有空闲时段', overlap: '与空闲时段重叠', saveTrip: '全部存入我的行程', saved: '已存入我的行程 ✓',
+    multiCity: '行程里有不同城市的地点，建议每个城市分开安排在不同的日子。', noQuiet: '那天没有空闲时段', overlap: '不在空闲时段内', saveTrip: '全部存入我的行程', saved: '已存入我的行程 ✓',
     copy: '复制行程链接', copied: '链接已复制 ✓', close: '关闭', myTrip: '打开我的行程 →',
     ticketsTitle: '空闲时段也要排长队的地方', ticketsBody: '观景台和热门博物馆有分时段门票，能替你排队。按空闲时段预约最稳妥。',
     ticketsCta: '浏览门票 →', itinCta: '按空闲顺序的路线',
@@ -356,6 +359,7 @@ const STR = {
 // Every hour label pre-formatted here, so the script never re-implements the
 // localized clock.
 const HOUR_TEXT = Object.fromEntries(Array.from({ length: 24 }, (_, h) => [h, hr(h)]));
+const DAY_SHORT = (['day.mon', 'day.tue', 'day.wed', 'day.thu', 'day.fri', 'day.sat', 'day.sun'] as const).map((k) => t(k));
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const pageUrl = siteHref(Astro.url.pathname, Astro.site);
@@ -412,9 +416,9 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
         </form>
         <div class="bt-popular"><span>{T.popular}</span>{popularCities.map((r) => <button type="button" class="bt-tag" data-city={r}>{r}</button>)}</div>
       </div>
-      <aside class="bt-widget" aria-live="polite">
+      <aside class="bt-widget">
         <p class="bt-w-kicker"><i></i><span data-w-kicker>{T.wNow}</span></p>
-        <h2 class="bt-w-title" data-w-title>{T.wTitleNow(0)}</h2>
+        <h2 class="bt-w-title" data-w-title>{T.wIdle}</h2>
         <ol class="bt-w-list" data-w-list></ol>
         <p class="bt-w-none" data-w-none hidden>{T.wNone}</p>
         <div class="bt-w-stats">
@@ -430,12 +434,12 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
     <div class="bt-filters">
       <div class="bt-row">
         <div class="bt-seg" role="group" data-cat-group>
-          <button type="button" class="is-on" data-cat="">{T.all}</button>
-          {(['attraction', 'hidden-gem', 'restaurant', 'trendy'] as const).filter((c) => catCount.get(c)).map((c) => <button type="button" data-cat={c}>{catLabel[c]}</button>)}
+          <button type="button" class="is-on" aria-pressed="true" data-cat="">{T.all}</button>
+          {(['attraction', 'hidden-gem', 'restaurant', 'trendy'] as const).filter((c) => catCount.get(c)).map((c) => <button type="button" aria-pressed="false" data-cat={c}>{catLabel[c]}</button>)}
         </div>
         <div class="bt-chips" role="group" data-country-group>
-          <button type="button" class="is-on" data-country="">{T.all} <small>{index.length}</small></button>
-          {countries.map(([c, n]) => <button type="button" data-country={c}>{c} <small>{n}</small></button>)}
+          <button type="button" class="is-on" aria-pressed="true" data-country="">{T.all} <small>{index.length}</small></button>
+          {countries.map(([c, n]) => <button type="button" aria-pressed="false" data-country={c}>{c} <small>{n}</small></button>)}
         </div>
       </div>
     </div>
@@ -443,12 +447,12 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
     <div class="bt-sticky">
       <div class="bt-row">
         <div class="bt-seg bt-mode" role="group">
-          <button type="button" class="is-on" data-mode="now">{T.modeNow}</button>
-          <button type="button" data-mode="pick">{T.modePick}</button>
+          <button type="button" class="is-on" aria-pressed="true" data-mode="now">{T.modeNow}</button>
+          <button type="button" aria-pressed="false" data-mode="pick">{T.modePick}</button>
         </div>
         <span class="bt-note" data-mode-note>{T.modeNote}</span>
         <div class="bt-pick" data-pick hidden>
-          <div class="bt-seg"><button type="button" class="is-on" data-dt="wd">{T.weekday}</button><button type="button" data-dt="we">{T.weekend}</button></div>
+          <div class="bt-seg bt-days" role="group">{DAY_SHORT.map((d, i) => <button type="button" data-day={i} aria-pressed="false">{d}</button>)}</div>
           <input type="range" min="7" max="22" step="1" value="10" data-hour aria-label={T.modePick} />
           <output data-hour-out>{hr(10)}</output>
         </div>
@@ -457,9 +461,9 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
           {allRegions.map((r) => <option value={r}>{r}</option>)}
         </select>
         <div class="bt-seg bt-sort" role="group">
-          <button type="button" class="is-on" data-sort="quiet">{T.sortQuiet}</button>
-          <button type="button" data-sort="rating">{T.sortRating}</button>
-          <button type="button" data-sort="city">{T.sortCity}</button>
+          <button type="button" class="is-on" aria-pressed="true" data-sort="quiet">{T.sortQuiet}</button>
+          <button type="button" aria-pressed="false" data-sort="rating">{T.sortRating}</button>
+          <button type="button" aria-pressed="false" data-sort="city">{T.sortCity}</button>
         </div>
       </div>
     </div>
@@ -571,7 +575,7 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
         <h2 id="bt-plan-h">{T.planTitle}</h2>
         <button type="button" class="bt-x" data-plan-close aria-label={T.close}>×</button>
       </div>
-      <div class="bt-seg" data-plan-dt><button type="button" class="is-on" data-dt="wd">{T.weekday}</button><button type="button" data-dt="we">{T.weekend}</button></div>
+      <div class="bt-seg bt-days" data-plan-days role="group">{DAY_SHORT.map((d, i) => <button type="button" data-day={i} aria-pressed="false">{d}</button>)}</div>
       <p class="bt-plan-note">{T.planNote}</p>
       <p class="bt-plan-warn" data-plan-warn hidden></p>
       <ol class="bt-timeline" data-plan-list></ol>
@@ -584,13 +588,14 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
   </section>
 
   <script type="application/ld+json" set:html={JSON.stringify(datasetLd)} />
-  <script type="application/json" id="bt-strings" set:html={JSON.stringify({ ...STR, hours: HOUR_TEXT, regions: regionsByCountry, wTitleNow: T.wTitleNow(0), more: T.more(0), planBar: T.planBar(0), count: T.count(0, '{when}'), wTitlePick: T.wTitlePick(0), wPick: T.wPick('{when}'), quietUntil: T.quietUntil('{h}'), wNow: T.wNow })} />
+  <script type="application/json" id="bt-strings" set:html={JSON.stringify({ ...STR, days: DAY_SHORT, hours: HOUR_TEXT, regions: regionsByCountry, wTitleNow: T.wTitleNow(0), more: T.more(0), planBar: T.planBar(0), count: T.count(0, '{when}'), wTitlePick: T.wTitlePick(0), wPick: T.wPick('{when}'), quietUntil: T.quietUntil('{h}'), wNow: T.wNow })} />
 
   <Newsletter lang={lang} />
 
   <script>
     // ── Data the server rendered ─────────────────────────────────────────
     const root = document.querySelector<HTMLElement>('[data-bt]')!;
+    root.classList.add('bt-js');
     const S = JSON.parse(document.getElementById('bt-strings')!.textContent || '{}');
     // Counted phrases arrive rendered with 0; swap the number for the live one.
     const num = (tpl: string, n: number) => tpl.replace(/0/, String(n));
@@ -611,7 +616,8 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
     };
 
     // ── State ────────────────────────────────────────────────────────────
-    const st = { mode: 'now', dt: 'wd', hour: 10, cat: '', country: '', region: '', q: '', sort: 'quiet', shown: PAGE };
+    const todayIdx = (new Date().getDay() + 6) % 7;
+    const st = { mode: 'now', day: todayIdx, hour: 10, cat: '', country: '', region: '', q: '', sort: 'quiet', shown: PAGE };
     const pattern = (c: Card, day: number) => c.pats[Number(c.days[day]) || 0] || '';
     const cellAt = (pat: string, h: number) => (h < 7 || h > 22 ? 'o' : pat[h - 7] || 'o');
     // End of the quiet run that contains `h` (exclusive hour).
@@ -623,7 +629,7 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
     function evaluate() {
       for (const c of cards) {
         if (st.mode === 'now') { const k = clock(c.tz); c.day = k.day; c.hour = k.hour; }
-        else { c.day = st.dt === 'wd' ? 2 : 5; c.hour = st.hour; }   // a Wednesday / a Saturday
+        else { c.day = st.day; c.hour = st.hour; }
         const pat = pattern(c, c.day);
         c.status = cellAt(pat, c.hour);
         // Bar: that day's cells, the hour being looked at outlined.
@@ -633,7 +639,7 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
           if (i + 7 === c.hour) cell.classList.add('is-now');
         });
         const label = (st.mode === 'now' ? S.stNow : S.stAt)[c.status];
-        const when = st.mode === 'now' ? `${S.local} ${H(c.hour)}` : `${st.dt === 'wd' ? S.weekday : S.weekend} ${H(c.hour)}`;
+        const when = st.mode === 'now' ? `${S.local} ${H(c.hour)}` : `${S.days[st.day]} ${H(c.hour)}`;
         const p = c.el.querySelector<HTMLElement>('[data-status]')!;
         p.textContent = `${label} · ${when}`;
         p.className = `bt-status st-${c.status}`;
@@ -665,7 +671,7 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
       root.querySelector('[data-n-q]')!.textContent = String(n.q);
       root.querySelector('[data-n-m]')!.textContent = String(n.m);
       root.querySelector('[data-n-b]')!.textContent = String(n.b);
-      const when = st.mode === 'now' ? S.whenNow : `${st.dt === 'wd' ? S.weekday : S.weekend} ${H(st.hour)}`;
+      const when = st.mode === 'now' ? S.whenNow : `${S.days[st.day]} ${H(st.hour)}`;
       root.querySelector('[data-count]')!.textContent = num(S.count, vis.length).replace('{when}', when);
       (root.querySelector('[data-empty]') as HTMLElement).hidden = vis.length > 0;
       const more = root.querySelector<HTMLButtonElement>('[data-more]')!;
@@ -678,7 +684,7 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
     function widget(sorted: Card[]) {
       const quiet = sorted.filter((c) => c.status === 'q').sort((a, b) => b.rating - a.rating);
       const pick = st.mode === 'pick';
-      const when = `${st.dt === 'wd' ? S.weekday : S.weekend} ${H(st.hour)}`;
+      const when = `${S.days[st.day]} ${H(st.hour)}`;
       root.querySelector('[data-w-kicker]')!.textContent = pick ? S.wPick.replace('{when}', when) : S.wNow;
       root.querySelector('[data-w-title]')!.textContent = num(pick ? S.wTitlePick : S.wTitleNow, quiet.length);
       const list = root.querySelector('[data-w-list]')!;
@@ -706,7 +712,7 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
     // ── Controls ─────────────────────────────────────────────────────────
     const seg = (sel: string, attr: string, set: (v: string) => void) => {
       root.querySelectorAll<HTMLButtonElement>(`${sel} [${attr}]`).forEach((b) => b.addEventListener('click', () => {
-        root.querySelectorAll(`${sel} [${attr}]`).forEach((x) => x.classList.toggle('is-on', x === b));
+        root.querySelectorAll(`${sel} [${attr}]`).forEach((x) => { x.classList.toggle('is-on', x === b); x.setAttribute('aria-pressed', String(x === b)); });
         set(b.getAttribute(attr) || '');
       }));
     };
@@ -726,7 +732,9 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
       (root.querySelector('[data-mode-note]') as HTMLElement).hidden = v === 'pick';
       refresh();
     });
-    seg('[data-pick]', 'data-dt', (v) => { st.dt = v; refresh(); });
+    seg('[data-pick]', 'data-day', (v) => { st.day = Number(v); refresh(); });
+    const markDay = (sel: string, d: number) => root.querySelectorAll<HTMLElement>(`${sel} [data-day]`).forEach((x) => { const on = Number(x.dataset.day) === d; x.classList.toggle('is-on', on); x.setAttribute('aria-pressed', String(on)); });
+    markDay('[data-pick]', st.day);
     const range = root.querySelector<HTMLInputElement>('[data-hour]')!;
     const out = root.querySelector<HTMLOutputElement>('[data-hour-out]')!;
     range.addEventListener('input', () => { st.hour = Number(range.value); out.textContent = H(st.hour); refresh(); });
@@ -742,9 +750,10 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
     const PLAN_KEY = 'wa-quiet-plan-v1';
     const readPlan = (): string[] => { try { return JSON.parse(localStorage.getItem(PLAN_KEY) || '[]'); } catch { return []; } };
     const writePlan = (p: string[]) => { try { localStorage.setItem(PLAN_KEY, JSON.stringify(p)); } catch { /* private mode */ } };
-    let plan = readPlan();
+    let plan = readPlan().filter((s) => cards.some((c) => c.el.dataset.s === s));
     const fromUrl = new URLSearchParams(location.search).get('plan');
     if (fromUrl) { plan = fromUrl.split(',').filter((s) => cards.some((c) => c.el.dataset.s === s)); writePlan(plan); }
+    const dayParam = new URLSearchParams(location.search).get('day');
     const bySlug = new Map(cards.map((c) => [c.el.dataset.s!, c]));
     function syncPlan() {
       for (const c of cards) {
@@ -765,9 +774,11 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
     root.querySelector('[data-plan-clear]')!.addEventListener('click', () => { plan = []; writePlan(plan); syncPlan(); });
 
     const dialog = root.querySelector<HTMLDialogElement>('[data-plan-dialog]')!;
-    let planDt = 'wd';
+    let planDay = dayParam != null && /^[0-6]$/.test(dayParam) ? Number(dayParam) : todayIdx;
+    let planOrder: string[] = [];
     function buildPlan() {
-      const day = planDt === 'wd' ? 2 : 5;
+      const day = planDay;
+      markDay('[data-plan-days]', day);
       // Each place's first quiet hour that day, earliest first; then one hour
       // per place, never earlier than the place's own quiet start.
       const items = plan.map((s) => bySlug.get(s)).filter(Boolean).map((c) => {
@@ -776,6 +787,7 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
         return { c: c!, pat, start: first < 0 ? null : first + 7 };
       });
       items.sort((a, b) => (a.start ?? 99) - (b.start ?? 99));
+      planOrder = items.map((it) => it.c.el.dataset.s!);
       const warn = dialog.querySelector<HTMLElement>('[data-plan-warn]')!;
       warn.hidden = new Set(items.map((it) => it.c.el.dataset.r)).size < 2;
       warn.textContent = S.multiCity;
@@ -796,8 +808,8 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
         } else {
           const at = Math.max(it.start, clockAt);
           clockAt = at + 1;
-          time.textContent = H(at);
-          const ok = it.pat[at - 7] === 'q';
+          time.textContent = H(at % 24);
+          const ok = at <= 22 && it.pat[at - 7] === 'q';
           sub.textContent = `${it.c.el.dataset.r} · ${ok ? S.quietUntil.replace('{h}', H(quietEnd(it.pat, at))) : S.overlap}`;
           if (!ok) li.className = 'is-warn';
         }
@@ -809,9 +821,8 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
     root.querySelector('[data-plan-open]')!.addEventListener('click', () => { buildPlan(); dialog.showModal(); });
     root.querySelector('[data-plan-close]')!.addEventListener('click', () => dialog.close());
     dialog.addEventListener('click', (e) => { if (e.target === dialog) dialog.close(); });
-    dialog.querySelectorAll<HTMLButtonElement>('[data-plan-dt] [data-dt]').forEach((b) => b.addEventListener('click', () => {
-      dialog.querySelectorAll('[data-plan-dt] [data-dt]').forEach((x) => x.classList.toggle('is-on', x === b));
-      planDt = b.dataset.dt || 'wd'; buildPlan();
+    dialog.querySelectorAll<HTMLButtonElement>('[data-plan-days] [data-day]').forEach((b) => b.addEventListener('click', () => {
+      planDay = Number(b.dataset.day) || 0; buildPlan();
     }));
     // Into /my-trip: the same list the Save button writes (wa_trip_v1). The
     // payload is the minimal one; /my-trip refreshes hours, rating and time
@@ -820,7 +831,7 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
       try {
         const KEY = 'wa_trip_v1';
         const list = JSON.parse(localStorage.getItem(KEY) || '[]');
-        for (const s of plan) {
+        for (const s of (planOrder.length ? planOrder : plan)) {
           const c = bySlug.get(s);
           if (c && !list.some((x: any) => x.slug === s)) list.push(JSON.parse(c.el.dataset.save || '{}'));
         }
@@ -830,12 +841,13 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
       } catch { /* storage blocked */ }
     });
     dialog.querySelector('[data-plan-copy]')!.addEventListener('click', async (e) => {
-      const url = `${location.origin}${location.pathname}?plan=${plan.join(',')}`;
+      const url = `${location.origin}${location.pathname}?plan=${(planOrder.length ? planOrder : plan).join(',')}&day=${planDay}`;
       try { await navigator.clipboard.writeText(url); (e.currentTarget as HTMLButtonElement).textContent = S.copied; } catch { prompt('', url); }
     });
 
     syncPlan();
     refresh();
+    if (fromUrl && plan.length) { buildPlan(); dialog.showModal(); }
     // "Now" moves on its own: re-evaluate every minute while in now mode.
     setInterval(() => { if (st.mode === 'now' && !document.hidden) refresh(); }, 60_000);
   </script>
@@ -897,6 +909,7 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
     .bt-seg { display: inline-flex; background: var(--bt-sand); border-radius: var(--r-pill); padding: 3px; gap: 2px; }
     .bt-seg button { font: inherit; font-size: .86rem; border: 0; background: transparent; color: var(--ink); padding: 6px 12px; border-radius: var(--r-pill); cursor: pointer; white-space: nowrap; }
     .bt-seg button.is-on { background: var(--surface); box-shadow: var(--shadow-sm); font-weight: 600; }
+    .bt-days button { padding: 6px 9px; }
     .bt-mode button.is-on { background: var(--bt-forest); color: #fff; }
     .bt-chips { display: flex; flex-wrap: wrap; gap: 6px; }
     .bt-chips button { font: inherit; font-size: .84rem; padding: 5px 11px; border-radius: var(--r-pill); border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink); cursor: pointer; }
@@ -923,7 +936,7 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
     .bt-card { display: flex; flex-direction: column; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-lg); overflow: hidden; transition: box-shadow .15s, border-color .15s; }
     .bt-card:hover { box-shadow: var(--shadow-md); }
     .bt-card.is-quiet { border-color: var(--q1); box-shadow: 0 0 0 2px rgba(69,173,118,.25); }
-    .bt-card[hidden], .bt-card.is-more { display: none; }
+    .bt-card[hidden], .bt-js .bt-card.is-more { display: none; }
     .bt-photo { position: relative; display: block; height: 150px; background: var(--bt-sand); }
     .bt-photo img { width: 100%; height: 100%; object-fit: cover; display: block; }
     .bt-ph { position: absolute; inset: 0; background: linear-gradient(135deg, var(--bt-sand), var(--bt-peach)); }
