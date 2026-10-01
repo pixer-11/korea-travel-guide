@@ -167,8 +167,10 @@ async function collectLinks(p) {
   ok('itin bcn: hash keeps choices', /d=2026-10-16/.test(await p.evaluate(() => location.hash)));
   await p.click('[data-itin-rain]');
   ok('itin bcn: rainy-day view toggles', await p.$eval('[data-itin-page]', (e) => e.classList.contains('is-rain')));
-  await p.click('.ith-book label >> nth=0'); await p.reload({ waitUntil: 'networkidle' });
-  ok('itin bcn: book checklist persists', /1\/5/.test(await p.$eval('[data-book-count-text]', (e) => e.textContent)));
+  // The first item the pace shows, and "1 of however many": the list follows
+  // the pace and the book-ahead rule (6 at Barcelona since 10-01, was 5).
+  await p.click('.ith-book li:not([hidden]) label >> nth=0'); await p.reload({ waitUntil: 'networkidle' });
+  ok('itin bcn: book checklist persists', /(^|\D)1\/\d+/.test(await p.$eval('[data-book-count-text]', (e) => e.textContent)));
   ok('itin bcn: arrival restored from hash', (await p.$eval('#itin-arrival', (e) => e.value)) === '2026-10-16');
   const dirs = await p.$$eval('a.itin-leg-directions', (x) => x.map((a) => a.href));
   ok('itin bcn: directions links are Google Maps routes', dirs.length > 0 && dirs.every((h) => /google\.com\/maps\/dir\/\?api=1&origin=[-\d.]+,[-\d.]+&destination=[-\d.]+,[-\d.]+/.test(h)), `${dirs.length}`);

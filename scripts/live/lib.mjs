@@ -25,7 +25,10 @@ export async function launch() {
   const newContext = b.newContext.bind(b);
   b.newContext = async (opts) => {
     const ctx = await newContext(opts);
-    await ctx.route(BLOCK, (r) => r.abort());
+    // Answered empty rather than aborted: an aborted request prints "Failed to
+    // load resource" in the console, which the checks read as a page error
+    // (first scheduled run, 10-01: two checks red for our own blocking).
+    await ctx.route(BLOCK, (r) => r.fulfill({ status: 204, body: '' }));
     // GA4's snippet also honours this flag (BaseLayout), a second lock.
     await ctx.addInitScript(() => { try { localStorage.setItem('plausible_ignore', 'true'); } catch {} });
     return ctx;
