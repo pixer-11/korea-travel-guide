@@ -80,7 +80,18 @@ for (const w of workflows) {
   ).catch(() => null);
   if (!r || !r.ok) { apiFailed = true; continue; }
   const run = ((await r.json()).workflow_runs || [])[0];
-  if (run) lastRun.set(w.name, run);
+  if (run) { lastRun.set(w.name, run); continue; }
+  // Never ran: either it stopped before its first run, or it was added a
+  // moment ago. 2026-10-01: live-checks.yml was committed at 15:39 KST and this
+  // audit called it overdue minutes later, before its first cron slot (17:45).
+  // GitHub knows when it registered the workflow; that is the clock to judge by.
+  // If this lookup fails the job is judged as before (overdue) — not seen is
+  // not passed.
+  const meta = await fetch(
+    `https://api.github.com/repos/${REPO}/actions/workflows/${encodeURIComponent(w.f)}`,
+    { headers: head },
+  ).then((x) => (x.ok ? x.json() : null)).catch(() => null);
+  if (meta?.created_at) w.registered = meta.created_at;
 }
 if (apiFailed && !lastRun.size) {
   console.log('⚠️  could not read run history — not treating that as a defect');
@@ -93,7 +104,14 @@ for (const w of workflows) {
   const r = lastRun.get(w.name);
   // Absent from the last 100 runs is only meaningful for frequent jobs; a
   // monthly one can legitimately fall off a busy repo's recent list.
-  if (!r) { if (w.gap <= 7) late.push({ ...w, days: null }); continue; }
+  if (!r) {
+    // A new workflow gets the same three cycles a running one does.
+    const age = w.registered ? (now - new Date(w.registered)) / 864e5 : null;
+    if (age != null && age <= w.gap * 3) continue;
+    // With its age known, a monthly job that never ran is as dead as a daily one.
+    if (w.gap <= 7 || age != null) late.push({ ...w, days: null, age });
+    continue;
+  }
   const days = (now - new Date(r.created_at)) / 864e5;
   // Three missed cycles, not one: a skipped night is normal (runner queues,
   // concurrency groups), three in a row is a job that has stopped.
@@ -102,7 +120,7 @@ for (const w of workflows) {
 
 for (const l of late) {
   console.log(l.days == null
-    ? `  ⏰ ${l.name} — expected every ~${l.gap}d, no run in the last 100`
+    ? `  ⏰ ${l.name} — expected every ~${l.gap}d, never ran${l.age != null ? ` (registered ${l.age.toFixed(1)}d ago)` : ''}`
     : `  ⏰ ${l.name} — expected every ~${l.gap}d, last ran ${l.days.toFixed(1)}d ago`);
 }
 console.log(`\n📆 ${workflows.length} scheduled workflow(s): ${late.length} overdue`);
