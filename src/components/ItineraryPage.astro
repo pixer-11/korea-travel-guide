@@ -25,6 +25,7 @@ import { shortPlaceLabel } from '../lib/placeLabel.mjs';
 import TypesetPlate from './TypesetPlate.astro';
 import { formatHourRanges } from '../lib/hours.mjs';
 import { klookCityDest } from '../lib/klookCities';
+import { tiqetsCityUrl } from '../lib/tiqets-link.mjs';
 import { closedDaysOf } from '../lib/itinerary.mjs';
 import SaveButton from './SaveButton.astro';
 import { hotelUrl } from '../lib/hotel-link.mjs';
@@ -220,7 +221,8 @@ function dayRouteUrl(posts: any[]): string | null {
 
 // Same Klook affiliate builder as PlanTrip.astro — mapped city → curated
 // destination page, unmapped → search fallback.
-const klookDayHref = `/go/klook?to=${encodeURIComponent(klookCityDest(d.city, klookLocale(lang)))}`;
+const klookDayHref = tiqetsCityUrl({ city: d.city, country: d.country, lang, subId: 'itinerary_tours' })
+  ?? `/go/klook?to=${encodeURIComponent(klookCityDest(d.city, klookLocale(lang)))}`;
 
 // ---- Resolve every day's stops once, up front (throws loudly on any gap). ----
 const days = d.itinerary.map((day: any, di: number) => {

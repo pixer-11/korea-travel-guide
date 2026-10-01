@@ -73,7 +73,19 @@ function markerProblem(url) {
   if (u.hostname === 'affiliate.klook.com' && !KLOOK_AID.test(u.searchParams.get('aid') ?? '')) {
     return 'Klook aid has no click token (api|13694|-754088) — reaches Klook but cannot be credited';
   }
+  // Tiqets credits a click through partner=travelpayouts.com and a campaign that
+  // ends in our marker — "754088 somewhere in the URL" is not that (codex 10-01).
+  if (/(^|\.)tiqets\.com$/.test(u.hostname)) {
+    const camp = u.searchParams.get('tq_campaign') ?? '';
+    if (u.searchParams.get('partner') !== 'travelpayouts.com' || !camp.endsWith(`-${MARKER}`)) {
+      return 'Tiqets landing has no Travelpayouts partner/campaign — reaches Tiqets but cannot be credited';
+    }
+  }
   return null;
+}
+
+function isOwnDeepLink(url) {
+  try { const u = new URL(url); return u.pathname === '/r' && u.searchParams.has('marker'); } catch { return false; }
 }
 
 // Follow redirects by hand so every hop's URL can be searched for the marker.
@@ -82,7 +94,9 @@ const MAX_HOPS = 8;
 async function followLink(url) {
   let cur = url;
   for (let hop = 0; ; hop++) {
-    if (cur.includes(MARKER)) {
+    // A tp.media deep link (…/r?marker=754088&u=…) carries the marker in OUR
+    // OWN url — that proves nothing about the partner. Only where it lands counts.
+    if (cur.includes(MARKER) && !isOwnDeepLink(cur)) {
       const why = markerProblem(cur);
       return why ? { verdict: 'broken', detail: why } : { verdict: 'ok', detail: new URL(cur).hostname };
     }
@@ -135,9 +149,24 @@ try {
   links.set(`${SITE}/go/klook (hotel-link.mjs failed to load)`, 'src/lib/hotel-link.mjs');
 }
 
+// Tiqets (Europe / US / Middle East tour buttons, 2026-10-01) is a tp.media
+// deep link built in code, not a shortlink, so the scan above cannot see it.
+// Build one with the site's own function: a break in the builder or a program
+// that stops crediting us lands here the next morning.
+try {
+  const { tiqetsCityUrl } = await import(new URL('../src/lib/tiqets-link.mjs', import.meta.url));
+  let u = tiqetsCityUrl({ city: 'Paris', country: 'France', lang: 'en', subId: 'status_check' });
+  // TIQETS_BASE: overridable only for the test, like WIDGET_BASE.
+  if (u && process.env.TIQETS_BASE) u = u.replace('https://tp.media', process.env.TIQETS_BASE);
+  links.set(u ?? 'tiqets-link.mjs returned no link for Paris', 'src/lib/tiqets-link.mjs');
+} catch (e) {
+  console.error(`tiqets-link.mjs could not be loaded: ${e.message}`);
+  links.set('tiqets-link.mjs failed to load', 'src/lib/tiqets-link.mjs');
+}
+
 const rows = [];
 for (const [url, file] of links) {
-  if (!/^https?:\/\//.test(url)) { rows.push({ what: url, file, verdict: 'broken', detail: 'hotel link builder is broken' }); continue; }
+  if (!/^https?:\/\//.test(url)) { rows.push({ what: url, file, verdict: 'broken', detail: 'link builder is broken' }); continue; }
   let r = await followLink(url);
   if (r.verdict === 'unmeasured') r = await followLink(url);   // one retry for a flaky hop
   rows.push({ what: url, file, ...r });

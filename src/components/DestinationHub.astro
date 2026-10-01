@@ -15,6 +15,7 @@ import countryFactsData from '../../data/country-facts.json';
 import { localizePlace } from '../i18n/places';
 import { localizeEvent } from '../i18n/events';
 import { klookCityDest } from '../lib/klookCities';
+import { tiqetsCityUrl } from '../lib/tiqets-link.mjs';
 import { localizeBlurb } from '../i18n/countryBlurbs';
 import { loadCardTranslations, cardHelpers } from '../i18n/cards';
 import { esimCountries } from '../lib/esim-paths.mjs';
@@ -145,7 +146,8 @@ const eventsHref = countryEventCount >= 2 ? localizePath(`/events/${country.slug
 const now = new Date();
 const evCounts = eventCounts(posts, now);
 const leadCity = (country.regions ?? [])[0] ?? country.name;
-const klookCountry = `/go/klook?to=${encodeURIComponent(klookCityDest(leadCity, klookLocale(lang)))}`;
+const klookCountry = tiqetsCityUrl({ city: leadCity, country: country.name, lang, subId: 'dest_hub_tours' })
+  ?? `/go/klook?to=${encodeURIComponent(klookCityDest(leadCity, klookLocale(lang)))}`;
 const hotelCountry = hotelUrl({ submarker: 'dest_hub', locale: klookLocale(lang), place: country.name });
 
 // ── Summary cells: each one only when its value and its target both exist ──

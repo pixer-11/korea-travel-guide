@@ -23,7 +23,7 @@ import { isEventPast } from '../lib/eventStatus';
 import { eventSchemaName } from '../lib/eventName';
 import { eventLocation } from '../lib/eventLocation.mjs';
 import { isRecurringEvent as resolveRecurring } from '../lib/eventRecurrence.mjs';
-import { resolveBusyness, perDayBusyness, DAY_NAMES } from '../lib/busyness.mjs';
+import { resolveBusyness } from '../lib/busyness.mjs';
 import { slugifyRegion } from '../lib/slug';
 import { getLangFromUrl, useTranslations, localeCodes, defaultLang, localizePath, klookLocale } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
@@ -35,9 +35,11 @@ import countryFactsData from '../../data/country-facts.json';
 import { tileMosaic, zoomFor, TILE_ATTRIBUTION } from '../lib/osmTile.mjs';
 import { stripPlusCode } from '../lib/address.mjs';
 import { linkMentions } from '../lib/body-links.mjs';
+import { tripHoursAndQuiet, tripExtra } from '../lib/tripSave';
 import { shortPlaceLabel } from '../lib/placeLabel.mjs';
 import ogMirror from '../../data/og-mirror.json';
 import { klookCityDest } from '../lib/klookCities';
+import { tiqetsCityUrl } from '../lib/tiqets-link.mjs';
 import CrowdBlock from './post/CrowdBlock.astro';
 import PostSidebar from './post/PostSidebar.astro';
 import { venueTimeZone } from '../lib/venue-tz.mjs';
@@ -223,11 +225,13 @@ const wtgPastEventLabel = wtgPastEventHref
 // correct attribution, work regardless of flight/hotel program approval).
 // Mapped city → curated destination page; a specific PLACE (below) keeps the
 // search link — places have no destination page.
-const klookTop = `/go/klook?to=${encodeURIComponent(klookCityDest(d.region, klookLocale(lang)))}`;
+// Europe / US / Middle East: Tiqets city page (src/lib/tiqets-link.mjs).
+const tiqetsTop = tiqetsCityUrl({ city: d.region, country: d.country, lang, subId: 'post_tours' });
+const klookTop = tiqetsTop ?? `/go/klook?to=${encodeURIComponent(klookCityDest(d.region, klookLocale(lang)))}`;
 // Place-specific "get tickets" link (the sidebar card) — only for ticketable
 // categories, keyed to the venue name itself.
 const ticketable = ['attraction', 'trendy', 'hidden-gem'].includes(d.category);
-const klookPlace = p?.name
+const klookPlace = p?.name && !tiqetsTop
   ? `/go/klook?to=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${p.name}`)}`
   : klookTop;
 
@@ -693,27 +697,10 @@ const heroDisplay = wikimediaThumb(String(d.heroImage?.url ?? ''), 1280)
 const heroMirror = (ogMirror as Record<string, string | null>)[String(d.heroImage?.url ?? '').trim()] || '';
 const heroSrc = heroMirror || heroDisplay || d.heroImage?.url;
 
-const saveHours = (p?.openingHours ?? []).map((l: string) =>
-  localizeOpeningLine(l, lang, { am: t('post.am'), pm: t('post.pm') })
-);
-// Weekday and weekend quiet windows differ at 15 of the 26 venues that have both,
-// so both travel and /my-trip shows whichever matches today.
-// /my-trip picks one of these by whether TODAY is a weekday, so each must hold
-// on every day of its half of the week — Saturday's hours cannot speak for
-// Sunday's. Narrowed to the intersection rather than labelled, because the
-// saved card has room for one line and no room for a caveat.
-const perDay = perDayBusyness(p?.busyness, p?.openingHours);
-const sharedQuiet = (days: string[]) => {
-  if (!perDay) return undefined;
-  const lists = days.map((d) => perDay.get(d)!.quiet);
-  return lists[0].filter((h) => lists.every((l) => l.includes(h)));
-};
-const saveQuiet = perDay
-  ? {
-      wd: fmtHourRanges(sharedQuiet(DAY_NAMES.slice(0, 5))) || '',
-      we: fmtHourRanges(sharedQuiet(DAY_NAMES.slice(5))) || '',
-    }
-  : { wd: fmtHourRanges(bz.weekdayQuiet) || '', we: fmtHourRanges(bz.weekendQuiet) || '' };
+// Hours and quiet windows for the Save button: lib/tripSave, shared with the
+// per-city files /my-trip refreshes old saves from (2026-10-01).
+const { hours: saveHours, quiet: saveQuiet } = tripHoursAndQuiet(p, lang, { am: t('post.am'), pm: t('post.pm') });
+const saveExtra = tripExtra(post);
 
 ---
 
@@ -792,6 +779,7 @@ const saveQuiet = perDay
             hours={saveHours}
             quiet={saveQuiet}
             image={saveThumb}
+            extra={saveExtra}
             lang={lang}
             prominent={true}
           />
@@ -839,6 +827,7 @@ const saveQuiet = perDay
               hours={saveHours}
               quiet={saveQuiet}
               image={saveThumb}
+            extra={saveExtra}
               lang={lang}
               overlay={true}
             />
@@ -962,6 +951,7 @@ const saveQuiet = perDay
           hours={saveHours}
           quiet={saveQuiet}
           image={saveThumb}
+            extra={saveExtra}
           lang={lang}
         />
       )}

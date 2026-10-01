@@ -6,6 +6,7 @@
 import Emoji from './Emoji.astro';
 import { getLangFromUrl, useTranslations, klookLocale } from '../i18n/utils';
 import { klookCityDest } from '../lib/klookCities';
+import { tiqetsCityUrl } from '../lib/tiqets-link.mjs';
 import { hotelUrl } from '../lib/hotel-link.mjs';
 interface Props { city: string; country?: string; place?: string }
 const { city, country, place } = Astro.props;
@@ -16,7 +17,8 @@ const t = useTranslations(lang);
 const klookTo = place
   ? `https://www.klook.com/${klookLocale(lang)}/search/?query=${encodeURIComponent(place)}`
   : klookCityDest(city, klookLocale(lang));
-const klook = `/go/klook?to=${encodeURIComponent(klookTo)}`;
+// Tiqets cities: the city page (Tiqets has no verified per-place search link).
+const klook = tiqetsCityUrl({ city, country, lang, subId: 'sticky_bar' }) ?? `/go/klook?to=${encodeURIComponent(klookTo)}`;
 const hotel = hotelUrl({ submarker: 'sticky_bar', locale: klookLocale(lang), place: city, country });
 ---
 <div class="sticky-book" data-affiliate-placement="sticky-bar" data-sticky-book hidden aria-hidden="true">

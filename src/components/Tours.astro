@@ -8,6 +8,7 @@ import Emoji from './Emoji.astro';
 import { getLangFromUrl, useTranslations, klookLocale } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { KLOOK_CITY } from '../lib/klookCities';
+import { tiqetsCityUrl, affiliateBrand } from '../lib/tiqets-link.mjs';
 interface Props { city: string }
 const { city } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
@@ -41,9 +42,12 @@ const klookDest = mapped
   : city
   ? `https://www.klook.com/${klookLocale(lang)}/search/?query=${encodeURIComponent(city)}`
   : null;
-const klookHref = klookDest
+// Europe / US / Middle East cities go to Tiqets instead (src/lib/tiqets-link.mjs,
+// 2026-10-01): same click, higher rate, and Klook's inventory there is thin.
+const klookHref = tiqetsCityUrl({ city, lang, subId }) ?? (klookDest
   ? `/go/klook?to=${encodeURIComponent(klookDest)}&sub_id=${encodeURIComponent(subId)}`
-  : 'https://klook.tpx.lv/2NXPH8MA';
+  : 'https://klook.tpx.lv/2NXPH8MA');
+const brand = affiliateBrand(klookHref, lang);
 ---
 {city && (
   <section class="tp-tours" data-affiliate-placement="tours-widget">
@@ -62,11 +66,12 @@ const klookHref = klookDest
     <div class="tp-widget-card" data-widget-src={src ?? undefined}>
       <a class="plan-card tours-cta" href={klookHref} target="_blank" rel="sponsored noopener">
         <span class="plan-ico"><Emoji name="admission-tickets" /></span>
-        <span class="plan-txt"><strong>{t('widget.toursInCity').replace('{city}', cityLabel)}</strong><span>{t('widget.toursCtaDesc')}</span></span>
+        <span class="plan-txt"><strong>{t('widget.toursInCity').replace('{city}', cityLabel)}</strong><span>{t('widget.toursCtaDesc').replace('{brand}', brand)}</span></span>
         <span class="plan-arw">→</span>
       </a>
     </div>
-    <p class="tp-disclosure">{t('widget.livePrices')}</p>
+    {/* "Live prices from Klook" is only true where Klook's price widget mounts. */}
+    <p class="tp-disclosure">{t(src ? 'widget.livePrices' : 'widget.hotelsDisclosure')}</p>
   </section>
 )}
 

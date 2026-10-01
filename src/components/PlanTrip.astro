@@ -11,6 +11,7 @@ import countriesData from '../../data/countries.json';
 import esimFacts from '../../data/esim-facts.json';
 import { hotelUrl } from '../lib/hotel-link.mjs';
 import { klookCityDest } from '../lib/klookCities';
+import { tiqetsCityUrl } from '../lib/tiqets-link.mjs';
 // `hotels`: a post page used to stack THREE affiliate sections after the prose
 // (Tours widget, Where to stay, Plan your trip) — about 1,250px of commerce on
 // a phone standing between the article and its FAQ and related guides, with
@@ -31,7 +32,7 @@ const cityLabel = localizePlace(city, lang);
 // setup. A mapped city lands on its curated destination page (search is
 // robots-disallowed and converts worse); unmapped falls back to search.
 const klookHref = city
-  ? `/go/klook?to=${encodeURIComponent(klookCityDest(city, klookLocale(lang)))}`
+  ? tiqetsCityUrl({ city, country, lang, subId: 'plantrip_tours' }) ?? `/go/klook?to=${encodeURIComponent(klookCityDest(city, klookLocale(lang)))}`
   : 'https://klook.tpx.lv/2NXPH8MA';
 
 const services: { icon: string; label: string; desc: string; href: string; internal?: boolean; placement?: string }[] = [

@@ -20,6 +20,7 @@ import { parseWeek, condenseWeek, WEEK } from '../../lib/open-now.mjs';
 import { dayGroupText, dayGroupKind } from '../../lib/busyness.mjs';
 import { localizeOpeningLine } from '../../lib/hours.mjs';
 import { TILE_ATTRIBUTION } from '../../lib/osmTile.mjs';
+import { affiliateBrand } from '../../lib/tiqets-link.mjs';
 
 interface Props {
   lang: Lang;
@@ -174,7 +175,7 @@ const hasFacts = !!(p && (statusData || hourGroups || hoursAllDay || rawHours.le
     <div class="side-box side-card" data-affiliate-placement={affiliate.placement ?? 'post-sidebar'}>
       <span class="side-card-k"><Emoji name={affiliate.kind === 'stay' ? 'hotel' : 'admission-tickets'} /> {ps(affiliate.kind === 'stay' ? 'ps.cardKickerStay' : 'ps.cardKicker')}</span>
       <p class="side-card-t">{affiliate.title}</p>
-      <a class="side-card-btn" href={affiliate.href} target="_blank" rel="sponsored noopener">{ps('ps.cardCta')} →</a>
+      <a class="side-card-btn" href={affiliate.href} target="_blank" rel="sponsored noopener">{ps('ps.cardCta').replace('{brand}', affiliateBrand(affiliate.href, lang))} →</a>
       <p class="side-card-note">{ps('ps.affNote')}</p>
     </div>
   )}

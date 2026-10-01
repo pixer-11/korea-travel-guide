@@ -23,6 +23,12 @@ function server(mode) {
       res.writeHead(302, { Location: target });
       return res.end();
     }
+    if (req.url.startsWith('/r?')) {
+      // Tiqets deep link (tp.media/r). 'nomarker' = the program stopped crediting us.
+      const tq = mode.tiqets === 'nomarker' ? '/end-without-marker' : mode.tiqets === 'stray' ? 'https://www.tiqets.com/en/?q=754088' : 'https://www.tiqets.com/en/?partner=travelpayouts.com&tq_campaign=abc-754088';
+      res.writeHead(302, { Location: tq });
+      return res.end();
+    }
     if (req.url.startsWith('/hop/')) {
       const n = Number(req.url.split('/')[2]);
       res.writeHead(302, { Location: n < mode.hops ? `/hop/${n + 1}` : `https://affiliate.klook.com/redirect?aid=${mode.aid}&k_site=x` });
@@ -48,7 +54,7 @@ async function run(mode) {
     return await new Promise((resolve) => {
       let out = '';
       const c = spawn(process.execPath, ['scripts/check-affiliate-status.mjs', src], {
-        env: { ...process.env, SITE_URL: base, WIDGET_BASE: base },
+        env: { ...process.env, SITE_URL: base, WIDGET_BASE: base, TIQETS_BASE: base },
         stdio: ['ignore', 'pipe', 'pipe'],
       });
       c.stdout.on('data', (d) => (out += d));
@@ -65,7 +71,7 @@ async function run(mode) {
 test('정상 토큰 링크 + 정상 위젯은 통과한다', async () => {
   const r = await run({ aid: GOOD_AID, widget: 'ok' });
   assert.equal(r.code, 0, r.out);
-  assert.match(r.out, /ok=2 broken=0/);
+  assert.match(r.out, /ok=3 broken=0/);
 });
 
 test('추적 토큰이 빈 Klook 주소는 754088 이 보여도 실패다', async () => {
@@ -127,4 +133,17 @@ test('9번째 리다이렉트가 필요하면 too many redirects 로 실패한�
 test('위젯 코드 안에 "<html>" 글자가 있어도 정상 위젯이다 (코덱스 3차)', async () => {
   const r = await run({ aid: GOOD_AID, widget: 'jsWithHtml' });
   assert.equal(r.code, 0, r.out);
+});
+
+test('마커 없이 도착하는 Tiqets 링크는 실패다', async () => {
+  const r = await run({ aid: GOOD_AID, widget: 'ok', tiqets: 'nomarker' });
+  assert.equal(r.code, 1, r.out);
+  assert.match(r.out, /tiqets-link\.mjs/);
+  assert.match(r.out, /without marker 754088/);
+});
+
+test('754088 이 아무 데나 있을 뿐 제휴 꼬리표가 없는 Tiqets 도착지는 실패다 (코덱스 10-01)', async () => {
+  const r = await run({ aid: GOOD_AID, widget: 'ok', tiqets: 'stray' });
+  assert.equal(r.code, 1, r.out);
+  assert.match(r.out, /cannot be credited/);
 });
