@@ -1,44 +1,52 @@
 ---
-title: "Roma Street Parkland: Brisbane Travel Guide (4.7★)"
-description: "Roma Street Parkland is a free, large subtropical garden on the northern edge of the Brisbane City centre, a short walk from Roma Street Station. 4.7★ (11,003 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Brisbane"
-category: "attraction"
-pubDate: "2026-10-01T07:45:14.404Z"
+title: 'Roma Street Parkland: Brisbane Travel Guide (4.7★)'
+description: >-
+  Roma Street Parkland is a free, large subtropical garden on the northern edge
+  of the Brisbane City centre, a short walk from Roma Street Station. 4.7★
+  (11,004 reviews) — what visitors say, hours, and tips.
+country: Australia
+region: Brisbane
+category: attraction
+pubDate: '2026-10-01T07:45:14.404Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Roma_Street_Parklands%2C_Brisbane_%283365542717%29.jpg/1920px-Roma_Street_Parklands%2C_Brisbane_%283365542717%29.jpg"
-  credit: "Photo: Andy Mitchell from Glasgow, UK / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Roma_Street_Parklands,_Brisbane_(3365542717).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Roma_Street_Parklands%2C_Brisbane_%283365542717%29.jpg/1920px-Roma_Street_Parklands%2C_Brisbane_%283365542717%29.jpg
+  credit: 'Photo: Andy Mitchell from Glasgow, UK / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Roma_Street_Parklands,_Brisbane_(3365542717).jpg
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Roma_Street_Parkland%2C_Brisbane_2020%2C_02.jpg/3840px-Roma_Street_Parkland%2C_Brisbane_2020%2C_02.jpg"
-    credit: "Photo: Kgbo / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Roma_Street_Parkland,_Brisbane_2020,_02.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Roma_Street_Parkland%2C_Brisbane_2020%2C_02.jpg/3840px-Roma_Street_Parkland%2C_Brisbane_2020%2C_02.jpg
+    credit: 'Photo: Kgbo / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Roma_Street_Parkland,_Brisbane_2020,_02.jpg
 place:
-  id: "ChIJeSeo9gFakWsRuITQQsDsPGs"
-  name: "Roma Street Parkland"
-  address: "1 Parkland Blvd, Brisbane City QLD 4000, Australia"
+  id: ChIJeSeo9gFakWsRuITQQsDsPGs
+  name: Roma Street Parkland
+  address: '1 Parkland Blvd, Brisbane City QLD 4000, Australia'
   rating: 4.7
-  userRatingsTotal: 11003
-  googleMapsUrl: "https://maps.google.com/?cid=7727311371159766200&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 11004
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7727311371159766200&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -27.4630081
   lng: 153.01894149999998
-  phone: "+61 1300 137 468"
+  phone: +61 1300 137 468
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-10-01
+    updated: 2026-10-01T00:00:00.000Z
     weekdayBusy:
       - 10
       - 11
@@ -58,24 +66,43 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_73475073447351515449755273576b614667396f6553654a496843"
+    venueId: ven_73475073447351515449755273576b614667396f6553654a496843
 tags:
-  - "brisbane"
-  - "park"
-quickAnswer: "Roma Street Parkland is a free, large subtropical garden on the northern edge of the Brisbane City centre, a short walk from Roma Street Station. Google lists it as open 24 hours, but the gardens look their best in daylight. Weekends between 9am and 9pm are the busiest stretch, so come on a weekday if you want the paths to yourself."
+  - brisbane
+  - park
+quickAnswer: >-
+  Roma Street Parkland is a free, large subtropical garden on the northern edge
+  of the Brisbane City centre, a short walk from Roma Street Station. Google
+  lists it as open 24 hours, but the gardens look their best in daylight.
+  Weekends between 9am and 9pm are the busiest stretch, so come on a weekday if
+  you want the paths to yourself.
 faq:
-  - q: "How do I get to Roma Street Parkland?"
-    a: "Take a train to Roma Street Station, which sits right beside the park. Queensland Rail City network trains and the Airtrain from Brisbane Airport both stop there. You can also walk up from Queen Street Mall in about 10–15 minutes."
-  - q: "When is Roma Street Parkland busiest?"
-    a: "Weekends from 9am to 9pm are the busiest time. If you want quieter paths and an easy pick of barbecues and shady spots, go on a weekday."
-  - q: "Is Roma Street Parkland open at night?"
-    a: "Google lists it as open 24 hours every day. The gardens are the main draw, though, so daylight is the best time to see the planting."
-  - q: "How long should I spend at Roma Street Parkland?"
-    a: "Allow 1–2 hours to loop through the Spectacle Garden, Fern Gully and the Lake. Stay longer if you're planning a picnic or a barbecue."
-  - q: "Can I have a barbecue or picnic there?"
-    a: "Yes. The park has public barbecue areas and open lawns. The barbecues are shared and first come, first served, so expect a wait on weekends. Clean the plate when you finish."
+  - q: How do I get to Roma Street Parkland?
+    a: >-
+      Take a train to Roma Street Station, which sits right beside the park.
+      Queensland Rail City network trains and the Airtrain from Brisbane Airport
+      both stop there. You can also walk up from Queen Street Mall in about
+      10–15 minutes.
+  - q: When is Roma Street Parkland busiest?
+    a: >-
+      Weekends from 9am to 9pm are the busiest time. If you want quieter paths
+      and an easy pick of barbecues and shady spots, go on a weekday.
+  - q: Is Roma Street Parkland open at night?
+    a: >-
+      Google lists it as open 24 hours every day. The gardens are the main draw,
+      though, so daylight is the best time to see the planting.
+  - q: How long should I spend at Roma Street Parkland?
+    a: >-
+      Allow 1–2 hours to loop through the Spectacle Garden, Fern Gully and the
+      Lake. Stay longer if you're planning a picnic or a barbecue.
+  - q: Can I have a barbecue or picnic there?
+    a: >-
+      Yes. The park has public barbecue areas and open lawns. The barbecues are
+      shared and first come, first served, so expect a wait on weekends. Clean
+      the plate when you finish.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-01'
 ---
 
 ## A garden built on railway yards

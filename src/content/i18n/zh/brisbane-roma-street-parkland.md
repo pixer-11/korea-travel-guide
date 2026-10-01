@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: brisbane-roma-street-parkland
-srcHash: '81151b07b154'
+srcHash: 'a0acbb2027a5'
 title: 罗马街公园：布里斯班旅行指南（4.7★）
-description: 罗马街公园（Roma Street Parkland）位于布里斯班市中心北缘，是一座免费开放的大型亚热带花园，从罗马街站步行几分钟即到。评分4.7★（11,003条评价），这里汇总了游客评价、开放时间和游览建议。
+description: 罗马街公园（Roma Street Parkland）位于布里斯班市中心北缘，是一座免费开放的大型亚热带花园，从罗马街站步行几分钟即到。评分4.7★（11,004条评价），这里汇总了游客评价、开放时间和游览建议。
 quickAnswer: 罗马街公园（Roma Street Parkland）位于布里斯班市中心北缘，是一座免费开放的大型亚热带花园，从罗马街站（Roma Street Station）步行几分钟就能到。谷歌显示公园24小时开放，不过白天来看花园效果最好。周末9am至9pm人最多，想清清静静地散步，建议工作日前来。
 faq:
   - q: 怎样前往罗马街公园？

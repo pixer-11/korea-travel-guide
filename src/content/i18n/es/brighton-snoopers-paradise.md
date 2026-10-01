@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: brighton-snoopers-paradise
-srcHash: 'f17626e8d599'
+srcHash: '199c4d6724db'
 title: 'Snoopers Paradise: guía de viaje de Brighton (4.5★)'
-description: 'En el North Laine de Brighton, en el 7/8 de Kensington Gardens, se encuentra Snoopers Paradise, un gran mercadillo cubierto de antigüedades y objetos vintage al que se llega en unos 10 minutos bajando a pie desde la estación de Brighton. 4.5★ (1,091 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el North Laine de Brighton, en el 7/8 de Kensington Gardens, se encuentra Snoopers Paradise, un gran mercadillo cubierto de antigüedades y objetos vintage al que se llega en unos 10 minutos bajando a pie desde la estación de Brighton. 4.5★ (1,092 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el 7/8 de Kensington Gardens, dentro del North Laine de Brighton, se encuentra Snoopers Paradise, un amplio mercadillo cubierto de antigüedades y artículos vintage. Desde la estación de Brighton se llega en unos 10 minutos de paseo cuesta abajo. Abre de lunes a sábado de 10:15am a 5:45pm y los domingos de 11:15am a 4:45pm. Si va en fin de semana, procure llegar entre las 11am y las 12pm, ya que de 12pm a 5pm se llena de gente.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Snoopers Paradise?

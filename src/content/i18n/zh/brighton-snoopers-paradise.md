@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: brighton-snoopers-paradise
-srcHash: 'f17626e8d599'
+srcHash: '199c4d6724db'
 title: 布莱顿 Snoopers Paradise 旅行指南（4.5★）
-description: Snoopers Paradise 是布莱顿北巷区（North Laine）一座大型室内古着与跳蚤市场，地址为 7/8 Kensington Gardens，从布莱顿火车站一路下坡步行约 10 分钟即到。评分 4.5★（1,091 条评价）。本文汇总游客评价、营业时间和实用贴士。
+description: Snoopers Paradise 是布莱顿北巷区（North Laine）一座大型室内古着与跳蚤市场，地址为 7/8 Kensington Gardens，从布莱顿火车站一路下坡步行约 10 分钟即到。评分 4.5★（1,092 条评价）。本文汇总游客评价、营业时间和实用贴士。
 quickAnswer: Snoopers Paradise 是一座大型室内古着与跳蚤市场，位于布莱顿北巷区（North Laine）的 7/8 Kensington Gardens，从布莱顿火车站一路下坡走过去约 10 分钟。周一至周六营业时间为上午10:15至下午5:45，周日为上午11:15至下午4:45。周末中午12点到下午5点人最多，建议上午11点到中午12点之间前往。
 faq:
   - q: 什么时候去 Snoopers Paradise 人最少？

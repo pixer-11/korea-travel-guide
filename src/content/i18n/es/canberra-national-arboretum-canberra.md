@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: canberra-national-arboretum-canberra
-srcHash: 'c48195bbf829'
+srcHash: '75ae1e27b7d6'
 title: 'Arboreto Nacional: guía de viaje de Canberra (4.7★)'
-description: En Forest Drive, al oeste de Canberra y a pocos minutos en coche del centro, se encuentra el Arboreto Nacional de Canberra, abierto todos los días de 9am a 4pm según su horario oficial. Con 4.7★ (8,167 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
+description: En Forest Drive, al oeste de Canberra y a pocos minutos en coche del centro, se encuentra el Arboreto Nacional de Canberra, abierto todos los días de 9am a 4pm según su horario oficial. Con 4.7★ (8,169 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: El Arboreto Nacional de Canberra (National Arboretum Canberra) se encuentra en Forest Drive, en la zona oeste de la ciudad y a pocos minutos en coche del centro. Según su horario oficial, abre todos los días de 9am a 4pm. Lo ideal es ir entre semana, porque de 9am a 4pm reina la tranquilidad. Los fines de semana se llena de 10am a 4pm; si solo puede ir un sábado o un domingo, procure llegar a las 9am.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Arboreto Nacional de Canberra?

@@ -1,41 +1,47 @@
 ---
-title: "Snoopers Paradise: Brighton Travel Guide (4.5★)"
-description: "Snoopers Paradise is a large indoor vintage and flea market at 7/8 Kensington Gardens in Brighton's North Laine, about a 10-minute walk downhill from Brighton station. 4.5★ (1,091 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Brighton"
-category: "hidden-gem"
-pubDate: "2026-10-01T14:40:55.964Z"
+title: 'Snoopers Paradise: Brighton Travel Guide (4.5★)'
+description: >-
+  Snoopers Paradise is a large indoor vintage and flea market at 7/8 Kensington
+  Gardens in Brighton's North Laine, about a 10-minute walk downhill from
+  Brighton station. 4.5★ (1,092 reviews) — what visitors say, hours, and tips.
+country: United Kingdom
+region: Brighton
+category: hidden-gem
+pubDate: '2026-10-01T14:40:55.964Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Interior_of_Snoopers_Paradise%2C_Kensington_Gardens%2C_Brighton_2025-04-25.jpg/3840px-Interior_of_Snoopers_Paradise%2C_Kensington_Gardens%2C_Brighton_2025-04-25.jpg"
-  credit: "Photo: Andy Li / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Interior_of_Snoopers_Paradise,_Kensington_Gardens,_Brighton_2025-04-25.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Interior_of_Snoopers_Paradise%2C_Kensington_Gardens%2C_Brighton_2025-04-25.jpg/3840px-Interior_of_Snoopers_Paradise%2C_Kensington_Gardens%2C_Brighton_2025-04-25.jpg
+  credit: 'Photo: Andy Li / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Interior_of_Snoopers_Paradise,_Kensington_Gardens,_Brighton_2025-04-25.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJsRKIaXWFdUgRWS1R8NQt1ow"
-  name: "Snoopers Paradise"
-  address: "7/8 Kensington Gardens, Brighton and Hove, Brighton BN1 4AL, UK"
+  id: ChIJsRKIaXWFdUgRWS1R8NQt1ow
+  name: Snoopers Paradise
+  address: '7/8 Kensington Gardens, Brighton and Hove, Brighton BN1 4AL, UK'
   rating: 4.5
-  userRatingsTotal: 1091
-  googleMapsUrl: "https://maps.google.com/?cid=10148349202914159961&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1092
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10148349202914159961&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 50.826330899999995
   lng: -0.1387245
-  phone: "+44 1273 602558"
+  phone: +44 1273 602558
   openingHours:
-    - "Monday: 10:15 AM – 5:45 PM"
-    - "Tuesday: 10:15 AM – 5:45 PM"
-    - "Wednesday: 10:15 AM – 5:45 PM"
-    - "Thursday: 10:15 AM – 5:45 PM"
-    - "Friday: 10:15 AM – 5:45 PM"
-    - "Saturday: 10:15 AM – 5:45 PM"
-    - "Sunday: 11:15 AM – 4:45 PM"
+    - 'Monday: 10:15 AM – 5:45 PM'
+    - 'Tuesday: 10:15 AM – 5:45 PM'
+    - 'Wednesday: 10:15 AM – 5:45 PM'
+    - 'Thursday: 10:15 AM – 5:45 PM'
+    - 'Friday: 10:15 AM – 5:45 PM'
+    - 'Saturday: 10:15 AM – 5:45 PM'
+    - 'Sunday: 11:15 AM – 4:45 PM'
   busyness:
-    updated: 2026-10-01
+    updated: 2026-10-01T00:00:00.000Z
     weekendQuiet:
       - 11
     weekendBusy:
@@ -44,24 +50,43 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_776f3174514e38523153575267556446575861494b52734a496843"
+    venueId: ven_776f3174514e38523153575267556446575861494b52734a496843
 tags:
-  - "brighton"
-  - "hidden gem"
-quickAnswer: "Snoopers Paradise is a large indoor vintage and flea market at 7/8 Kensington Gardens in Brighton's North Laine, about a 10-minute walk downhill from Brighton station. It opens 10:15am to 5:45pm Monday to Saturday and 11:15am to 4:45pm on Sunday. At weekends, aim for 11am to 12pm, because from 12pm to 5pm it fills up."
+  - brighton
+  - hidden gem
+quickAnswer: >-
+  Snoopers Paradise is a large indoor vintage and flea market at 7/8 Kensington
+  Gardens in Brighton's North Laine, about a 10-minute walk downhill from
+  Brighton station. It opens 10:15am to 5:45pm Monday to Saturday and 11:15am to
+  4:45pm on Sunday. At weekends, aim for 11am to 12pm, because from 12pm to 5pm
+  it fills up.
 faq:
-  - q: "When is the quietest time to visit Snoopers Paradise?"
-    a: "At weekends it is calmest between 11am and 12pm. Avoid 12pm to 5pm on Saturday and Sunday, because that's the busiest period. On Sundays the doors open at 11:15am."
-  - q: "How do I get to Snoopers Paradise from Brighton station?"
-    a: "Walk downhill from the station's Queens Road entrance into the North Laine. It's about 10 minutes on foot to 7/8 Kensington Gardens, a pedestrian lane parallel to Sydney Street and Gardner Street."
-  - q: "What are the opening hours?"
-    a: "Monday to Saturday it opens 10:15am to 5:45pm. On Sunday it opens later and closes earlier, from 11:15am to 4:45pm."
-  - q: "How long should I spend there?"
-    a: "Allow at least an hour to look properly at the dealer pitches. Serious collectors can easily spend two."
-  - q: "What else is nearby?"
-    a: "Sydney Street and Gardner Street are a block away for more independent shops and cafés. Brighton Dome and the Royal Pavilion are about five minutes' walk, and the seafront is roughly 15 minutes downhill."
+  - q: When is the quietest time to visit Snoopers Paradise?
+    a: >-
+      At weekends it is calmest between 11am and 12pm. Avoid 12pm to 5pm on
+      Saturday and Sunday, because that's the busiest period. On Sundays the
+      doors open at 11:15am.
+  - q: How do I get to Snoopers Paradise from Brighton station?
+    a: >-
+      Walk downhill from the station's Queens Road entrance into the North
+      Laine. It's about 10 minutes on foot to 7/8 Kensington Gardens, a
+      pedestrian lane parallel to Sydney Street and Gardner Street.
+  - q: What are the opening hours?
+    a: >-
+      Monday to Saturday it opens 10:15am to 5:45pm. On Sunday it opens later
+      and closes earlier, from 11:15am to 4:45pm.
+  - q: How long should I spend there?
+    a: >-
+      Allow at least an hour to look properly at the dealer pitches. Serious
+      collectors can easily spend two.
+  - q: What else is nearby?
+    a: >-
+      Sydney Street and Gardner Street are a block away for more independent
+      shops and cafés. Brighton Dome and the Royal Pavilion are about five
+      minutes' walk, and the seafront is roughly 15 minutes downhill.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-01'
 ---
 
 ## A market you have to dig through

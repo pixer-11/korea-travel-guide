@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: edinburgh-the-piper-s-rest
-srcHash: '17095dad3018'
+srcHash: '04fccd806a93'
 title: 'The Piper''s Rest: dónde comer en Edimburgo (4.6★)'
-description: En el número 3 de Hunter Square, junto a la Tron Kirk y a un paso de la Royal Mile, en pleno casco antiguo de Edimburgo, The Piper's Rest es un pub de precio medio con platos de pub, cerveza artesanal escocesa y cócteles, abierto todos los días de 10:00 a 1:00. Tiene una valoración de 4.6★ (3,773 reseñas). Aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
+description: En el número 3 de Hunter Square, junto a la Tron Kirk y a un paso de la Royal Mile, en pleno casco antiguo de Edimburgo, The Piper's Rest es un pub de precio medio con platos de pub, cerveza artesanal escocesa y cócteles, abierto todos los días de 10:00 a 1:00. Tiene una valoración de 4.6★ (3,775 reseñas). Aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: En el número 3 de Hunter Square, junto a la Tron Kirk y a un paso de la Royal Mile, en pleno casco antiguo (Old Town) de Edimburgo, se encuentra The Piper's Rest. Este pub de precio medio sirve platos de pub, cerveza artesanal escocesa y cócteles todos los días de 10:00 a 1:00. Si busca tranquilidad, vaya entre semana de 10:00 a 13:00, o bien de 10:00 a 12:00 durante el fin de semana. Le conviene evitar la franja de 16:00 a 23:00 del sábado y el domingo, que es cuando más gente hay.
 faq:
   - q: ¿Dónde está exactamente The Piper's Rest?

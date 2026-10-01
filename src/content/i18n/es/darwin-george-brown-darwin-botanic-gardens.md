@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: darwin-george-brown-darwin-botanic-gardens
-srcHash: 'e539417fc745'
+srcHash: 'ab7818c1ae76'
 title: 'Jardín Botánico George Brown de Darwin: guía de viaje (4.5★)'
-description: En la avenida Gilruth, dentro del barrio de The Gardens y a poca distancia al norte del centro de Darwin, el Jardín Botánico George Brown reúne 42 hectáreas de flora autóctona y tropical, además de un orquideario y una cafetería. Con una valoración de 4.5★ (2,124 reseñas), le contamos qué opinan los visitantes, cuál es el horario y qué conviene tener en cuenta.
+description: En la avenida Gilruth, dentro del barrio de The Gardens y a poca distancia al norte del centro de Darwin, el Jardín Botánico George Brown reúne 42 hectáreas de flora autóctona y tropical, además de un orquideario y una cafetería. Con una valoración de 4.5★ (2,125 reseñas), le contamos qué opinan los visitantes, cuál es el horario y qué conviene tener en cuenta.
 quickAnswer: A poca distancia al norte del centro de Darwin, en la avenida Gilruth (Gilruth Avenue) del barrio de The Gardens, el Jardín Botánico George Brown (George Brown Darwin Botanic Gardens) reúne 42 hectáreas de flora autóctona y tropical y cuenta con un orquideario y una cafetería. Abre todos los días de 7am a 7pm. Entre semana hay poca gente durante toda la jornada, así que es la mejor opción si su agenda lo permite. El fin de semana, las horas de mayor afluencia van de 8am a 2pm, por lo que conviene evitarlas.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Jardín Botánico George Brown de Darwin?

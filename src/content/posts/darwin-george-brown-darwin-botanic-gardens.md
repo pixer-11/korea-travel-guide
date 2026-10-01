@@ -1,40 +1,46 @@
 ---
-title: "George Brown Darwin Botanic Gardens: Travel Guide (4.5★)"
-description: "George Brown Darwin Botanic Gardens covers 42 hectares of native and tropical plants on Gilruth Avenue in The Gardens, a short trip north of Darwin's city centre, with an orchid house and a cafe on site. 4.5★ (2,124 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Darwin"
-category: "attraction"
-pubDate: "2026-10-01T07:45:55.697Z"
+title: 'George Brown Darwin Botanic Gardens: Travel Guide (4.5★)'
+description: >-
+  George Brown Darwin Botanic Gardens covers 42 hectares of native and tropical
+  plants on Gilruth Avenue in The Gardens, a short trip north of Darwin's city
+  centre, with an orchid house and a cafe on site. 4.5★ (2,125 reviews) — what
+  visitors say, hours, and tips.
+country: Australia
+region: Darwin
+category: attraction
+pubDate: '2026-10-01T07:45:55.697Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Darwin_Bontanic_Gardens.jpg"
-  credit: "Photo: Bidgee / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Darwin_Bontanic_Gardens.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/3/3e/Darwin_Bontanic_Gardens.jpg
+  credit: 'Photo: Bidgee / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Darwin_Bontanic_Gardens.jpg'
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJWfUCiYKRwCwREvK_ugWYvVU"
-  name: "George Brown Darwin Botanic Gardens"
-  address: "Gilruth Ave & Gardens Rd, The Gardens NT 0820, Australia"
+  id: ChIJWfUCiYKRwCwREvK_ugWYvVU
+  name: George Brown Darwin Botanic Gardens
+  address: 'Gilruth Ave & Gardens Rd, The Gardens NT 0820, Australia'
   rating: 4.5
-  userRatingsTotal: 2124
-  googleMapsUrl: "https://maps.google.com/?cid=6178261414197588498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2125
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6178261414197588498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -12.4447682
   lng: 130.8366054
-  phone: "+61 8 8999 4418"
+  phone: +61 8 8999 4418
   openingHours:
-    - "Monday: 7:00 AM – 7:00 PM"
-    - "Tuesday: 7:00 AM – 7:00 PM"
-    - "Wednesday: 7:00 AM – 7:00 PM"
-    - "Thursday: 7:00 AM – 7:00 PM"
-    - "Friday: 7:00 AM – 7:00 PM"
-    - "Saturday: 7:00 AM – 7:00 PM"
-    - "Sunday: 7:00 AM – 7:00 PM"
+    - 'Monday: 7:00 AM – 7:00 PM'
+    - 'Tuesday: 7:00 AM – 7:00 PM'
+    - 'Wednesday: 7:00 AM – 7:00 PM'
+    - 'Thursday: 7:00 AM – 7:00 PM'
+    - 'Friday: 7:00 AM – 7:00 PM'
+    - 'Saturday: 7:00 AM – 7:00 PM'
+    - 'Sunday: 7:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-10-01
+    updated: 2026-10-01T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 15
@@ -48,24 +54,40 @@ place:
       - 11
       - 12
       - 13
-    venueId: "ven_555676595767755f4b764552774377524b5969435566574a496843"
+    venueId: ven_555676595767755f4b764552774377524b5969435566574a496843
 tags:
-  - "darwin"
-  - "park"
-quickAnswer: "George Brown Darwin Botanic Gardens covers 42 hectares of native and tropical plants on Gilruth Avenue in The Gardens, a short trip north of Darwin's city centre, with an orchid house and a cafe on site. The gates are open 7am to 7pm every day. Weekdays are quiet all day, so go then if you can; on weekends, avoid 8am to 2pm, the busiest stretch."
+  - darwin
+  - park
+quickAnswer: >-
+  George Brown Darwin Botanic Gardens covers 42 hectares of native and tropical
+  plants on Gilruth Avenue in The Gardens, a short trip north of Darwin's city
+  centre, with an orchid house and a cafe on site. The gates are open 7am to 7pm
+  every day. Weekdays are quiet all day, so go then if you can; on weekends,
+  avoid 8am to 2pm, the busiest stretch.
 faq:
-  - q: "When is the quietest time to visit George Brown Darwin Botanic Gardens?"
-    a: "Weekdays are quiet all day, from 7am to 7pm. On weekends, avoid 8am to 2pm, the busiest stretch."
-  - q: "What are the opening hours?"
-    a: "The gardens are open 7am to 7pm, seven days a week."
-  - q: "How long should I spend there?"
-    a: "Allow 1.5 to 2 hours for a loop with the orchid house and a cafe stop. Give it longer if you're keen on tropical plants."
-  - q: "What is nearby?"
-    a: "Mindil Beach is right next door, and the Museum and Art Gallery of the Northern Territory is a short way along the coast. Both are easy to combine with the gardens in a half day."
-  - q: "What is the best season to visit?"
-    a: "The dry season, May to October, has lower humidity and is the most comfortable time to walk. In the wet season, go early in the morning to beat the heat and the afternoon storms."
+  - q: When is the quietest time to visit George Brown Darwin Botanic Gardens?
+    a: >-
+      Weekdays are quiet all day, from 7am to 7pm. On weekends, avoid 8am to
+      2pm, the busiest stretch.
+  - q: What are the opening hours?
+    a: 'The gardens are open 7am to 7pm, seven days a week.'
+  - q: How long should I spend there?
+    a: >-
+      Allow 1.5 to 2 hours for a loop with the orchid house and a cafe stop.
+      Give it longer if you're keen on tropical plants.
+  - q: What is nearby?
+    a: >-
+      Mindil Beach is right next door, and the Museum and Art Gallery of the
+      Northern Territory is a short way along the coast. Both are easy to
+      combine with the gardens in a half day.
+  - q: What is the best season to visit?
+    a: >-
+      The dry season, May to October, has lower humidity and is the most
+      comfortable time to walk. In the wet season, go early in the morning to
+      beat the heat and the afternoon storms.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-01'
 ---
 
 ## Shade over 42 hectares

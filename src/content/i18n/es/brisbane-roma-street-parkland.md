@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: brisbane-roma-street-parkland
-srcHash: '81151b07b154'
+srcHash: 'a0acbb2027a5'
 title: 'Roma Street Parkland: guía de viaje de Brisbane (4.7★)'
-description: 'En el límite norte del centro de Brisbane, a pocos pasos de la estación de Roma Street, se extiende Roma Street Parkland, un gran jardín subtropical de acceso gratuito. 4.7★ (11,003 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el límite norte del centro de Brisbane, a pocos pasos de la estación de Roma Street, se extiende Roma Street Parkland, un gran jardín subtropical de acceso gratuito. 4.7★ (11,004 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el límite norte del centro de Brisbane, a pocos pasos de la estación de Roma Street, se extiende Roma Street Parkland, un gran jardín subtropical de acceso gratuito. Según Google, abre las 24 horas, aunque los jardines se disfrutan mucho más con luz de día. Los fines de semana, entre las 9am y las 9pm, se concentra la mayor afluencia, así que conviene ir entre semana si prefiere recorrer los senderos con tranquilidad.
 faq:
   - q: ¿Cómo se llega a Roma Street Parkland?

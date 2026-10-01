@@ -1,45 +1,53 @@
 ---
-title: "Old Parliament House: Canberra Travel Guide (4.6★)"
-description: "Old Parliament House in Parkes, Canberra, is the white 1927 building that held Australia's Federal Parliament for 61 years and now houses the Museum of Australian Democracy. 4.6★ (5,511 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Canberra"
-category: "attraction"
-pubDate: "2026-10-01T07:44:15.522Z"
+title: 'Old Parliament House: Canberra Travel Guide (4.6★)'
+description: >-
+  Old Parliament House in Parkes, Canberra, is the white 1927 building that held
+  Australia's Federal Parliament for 61 years and now houses the Museum of
+  Australian Democracy. 4.6★ (5,513 reviews) — what visitors say, hours, and
+  tips.
+country: Australia
+region: Canberra
+category: attraction
+pubDate: '2026-10-01T07:44:15.522Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Old_and_new_Parliament_Houses%3B_Canberra_Australia.jpg/3840px-Old_and_new_Parliament_Houses%3B_Canberra_Australia.jpg"
-  credit: "Photo: Thennicke / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Old_and_new_Parliament_Houses;_Canberra_Australia.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Old_and_new_Parliament_Houses%3B_Canberra_Australia.jpg/3840px-Old_and_new_Parliament_Houses%3B_Canberra_Australia.jpg
+  credit: 'Photo: Thennicke / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Old_and_new_Parliament_Houses;_Canberra_Australia.jpg
+  via: act
   focus:
     x: 50
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/2/26/Old_Parliament_House%2C_Canberra.jpg"
-    credit: "Photo: Bidgee / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Old_Parliament_House,_Canberra.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/2/26/Old_Parliament_House%2C_Canberra.jpg
+    credit: 'Photo: Bidgee / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Old_Parliament_House,_Canberra.jpg'
 place:
-  id: "ChIJCUsl4BhNFmsRhaBxEayyx04"
-  name: "Old Parliament House"
-  address: "18 King George Terrace, Parkes ACT 2600, Australia"
+  id: ChIJCUsl4BhNFmsRhaBxEayyx04
+  name: Old Parliament House
+  address: '18 King George Terrace, Parkes ACT 2600, Australia'
   rating: 4.6
-  userRatingsTotal: 5511
-  googleMapsUrl: "https://maps.google.com/?cid=5676702307420577925&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 5513
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5676702307420577925&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -35.3022644
   lng: 149.1297341
-  phone: "+61 2 6270 8222"
+  phone: +61 2 6270 8222
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 5:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 9:00 AM – 5:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-10-01
+    updated: 2026-10-01T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 16
@@ -50,24 +58,41 @@ place:
       - 12
       - 13
       - 14
-    venueId: "ven_343078797961457842616852736d464e6842346c7355434a496843"
+    venueId: ven_343078797961457842616852736d464e6842346c7355434a496843
 tags:
-  - "canberra"
-  - "historic site"
-quickAnswer: "Old Parliament House in Parkes, Canberra, is the white 1927 building that held Australia's Federal Parliament for 61 years and now houses the Museum of Australian Democracy. It is open daily 9am to 5pm. Weekdays are calm all day; on weekends, try not to arrive between 12pm and 3pm, when it is busiest."
+  - canberra
+  - historic site
+quickAnswer: >-
+  Old Parliament House in Parkes, Canberra, is the white 1927 building that held
+  Australia's Federal Parliament for 61 years and now houses the Museum of
+  Australian Democracy. It is open daily 9am to 5pm. Weekdays are calm all day;
+  on weekends, try not to arrive between 12pm and 3pm, when it is busiest.
 faq:
-  - q: "When is the quietest time to visit Old Parliament House?"
-    a: "Weekdays are quiet right through opening hours, 9am to 5pm. Weekends are generally calm too, but 12pm to 3pm is the busiest window, so arrive at 9am on a Saturday or Sunday."
-  - q: "What are the opening hours?"
-    a: "Every day of the week, 9am to 5pm, with the same hours on weekends."
-  - q: "How long should I spend there?"
-    a: "Two to three hours covers the House of Representatives, the Senate, King's Hall, the Prime Minister's suite and the main exhibitions. Allow longer if you join a guided tour."
-  - q: "How do I get to Old Parliament House from the city centre?"
-    a: "Walk about 30 to 40 minutes across Commonwealth Avenue Bridge to Parkes, or take a Transport Canberra bus from the City interchange toward the Parliamentary Triangle. Paid parking is available nearby if you drive."
-  - q: "What else is nearby?"
-    a: "The Aboriginal Tent Embassy is on the lawns opposite. The National Portrait Gallery, National Gallery of Australia, Questacon, the National Library and today's Parliament House are all within walking distance."
+  - q: When is the quietest time to visit Old Parliament House?
+    a: >-
+      Weekdays are quiet right through opening hours, 9am to 5pm. Weekends are
+      generally calm too, but 12pm to 3pm is the busiest window, so arrive at
+      9am on a Saturday or Sunday.
+  - q: What are the opening hours?
+    a: 'Every day of the week, 9am to 5pm, with the same hours on weekends.'
+  - q: How long should I spend there?
+    a: >-
+      Two to three hours covers the House of Representatives, the Senate, King's
+      Hall, the Prime Minister's suite and the main exhibitions. Allow longer if
+      you join a guided tour.
+  - q: How do I get to Old Parliament House from the city centre?
+    a: >-
+      Walk about 30 to 40 minutes across Commonwealth Avenue Bridge to Parkes,
+      or take a Transport Canberra bus from the City interchange toward the
+      Parliamentary Triangle. Paid parking is available nearby if you drive.
+  - q: What else is nearby?
+    a: >-
+      The Aboriginal Tent Embassy is on the lawns opposite. The National
+      Portrait Gallery, National Gallery of Australia, Questacon, the National
+      Library and today's Parliament House are all within walking distance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-01'
 ---
 
 ## The steps where a government ended

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: canberra-national-arboretum-canberra
-srcHash: 'c48195bbf829'
+srcHash: '75ae1e27b7d6'
 title: 堪培拉国家树木园旅行指南（4.7★）
-description: 堪培拉国家树木园（National Arboretum Canberra）位于堪培拉西部的Forest Drive，距市中心只有一小段车程，公布的开放时间为每天上午9点至下午4点。评分4.7★（8,167条评价），本文整理了游客评价、开放时间和游览建议。
+description: 堪培拉国家树木园（National Arboretum Canberra）位于堪培拉西部的Forest Drive，距市中心只有一小段车程，公布的开放时间为每天上午9点至下午4点。评分4.7★（8,169条评价），本文整理了游客评价、开放时间和游览建议。
 quickAnswer: 堪培拉国家树木园（National Arboretum Canberra）位于堪培拉西部的Forest Drive，从市中心开车过去很快，公布的开放时间为每天上午9点至下午4点。最好选在工作日去，从上午9点到下午4点全天都很清静。周末从上午10点到下午4点人会很多，如果只能周六或周日去，建议上午9点就到。
 faq:
   - q: 什么时候去堪培拉国家树木园人最少？

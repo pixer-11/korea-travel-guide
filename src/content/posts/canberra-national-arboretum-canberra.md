@@ -1,44 +1,52 @@
 ---
-title: "National Arboretum: Canberra Travel Guide (4.7★)"
-description: "National Arboretum Canberra sits on Forest Drive in the western part of Canberra, a short drive from the city centre, and its listed hours are 9am to 4pm every day. 4.7★ (8,167 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Canberra"
-category: "attraction"
-pubDate: "2026-10-01T07:51:57.449Z"
+title: 'National Arboretum: Canberra Travel Guide (4.7★)'
+description: >-
+  National Arboretum Canberra sits on Forest Drive in the western part of
+  Canberra, a short drive from the city centre, and its listed hours are 9am to
+  4pm every day. 4.7★ (8,169 reviews) — what visitors say, hours, and tips.
+country: Australia
+region: Canberra
+category: attraction
+pubDate: '2026-10-01T07:51:57.449Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Canberra_National_Arboretum_with_Telstra_Tower_2%2C_Canberra_ACT.jpg/1920px-Canberra_National_Arboretum_with_Telstra_Tower_2%2C_Canberra_ACT.jpg"
-  credit: "Photo: Thennicke / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Canberra_National_Arboretum_with_Telstra_Tower_2,_Canberra_ACT.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Canberra_National_Arboretum_with_Telstra_Tower_2%2C_Canberra_ACT.jpg/1920px-Canberra_National_Arboretum_with_Telstra_Tower_2%2C_Canberra_ACT.jpg
+  credit: 'Photo: Thennicke / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Canberra_National_Arboretum_with_Telstra_Tower_2,_Canberra_ACT.jpg
   focus:
     x: 45
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/6/66/National_Arboretum_Canberra%3B_view_east%2C_from_Dairy_Farmers_Hill.jpg"
-    credit: "Photo: Nbound / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:National_Arboretum_Canberra;_view_east,_from_Dairy_Farmers_Hill.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/6/66/National_Arboretum_Canberra%3B_view_east%2C_from_Dairy_Farmers_Hill.jpg
+    credit: 'Photo: Nbound / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:National_Arboretum_Canberra;_view_east,_from_Dairy_Farmers_Hill.jpg
 place:
-  id: "ChIJyeout2VeNAARo8dTDDhVS3Y"
-  name: "National Arboretum Canberra"
-  address: "Forest Dr, Australian Capital Territory 2611, Australia"
+  id: ChIJyeout2VeNAARo8dTDDhVS3Y
+  name: National Arboretum Canberra
+  address: 'Forest Dr, Australian Capital Territory 2611, Australia'
   rating: 4.7
-  userRatingsTotal: 8167
-  googleMapsUrl: "https://maps.google.com/?cid=8524000418942142371&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 8169
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8524000418942142371&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -35.2878936
   lng: 149.069267
-  phone: "+61 2 6207 8484"
+  phone: +61 2 6207 8484
   openingHours:
-    - "Monday: 9:00 AM – 4:00 PM"
-    - "Tuesday: 9:00 AM – 4:00 PM"
-    - "Wednesday: 9:00 AM – 4:00 PM"
-    - "Thursday: 9:00 AM – 4:00 PM"
-    - "Friday: 9:00 AM – 4:00 PM"
-    - "Saturday: 9:00 AM – 4:00 PM"
-    - "Sunday: 9:00 AM – 4:00 PM"
+    - 'Monday: 9:00 AM – 4:00 PM'
+    - 'Tuesday: 9:00 AM – 4:00 PM'
+    - 'Wednesday: 9:00 AM – 4:00 PM'
+    - 'Thursday: 9:00 AM – 4:00 PM'
+    - 'Friday: 9:00 AM – 4:00 PM'
+    - 'Saturday: 9:00 AM – 4:00 PM'
+    - 'Sunday: 9:00 AM – 4:00 PM'
   busyness:
-    updated: 2026-10-01
+    updated: 2026-10-01T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 15
@@ -49,24 +57,44 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_593353566844445464386f5241414e65563274756f65794a496843"
+    venueId: ven_593353566844445464386f5241414e65563274756f65794a496843
 tags:
-  - "canberra"
-  - "park"
-quickAnswer: "National Arboretum Canberra sits on Forest Drive in the western part of Canberra, a short drive from the city centre, and its listed hours are 9am to 4pm every day. The best time to go is a weekday, when it stays quiet all day from 9am to 4pm. On weekends it fills up from 10am to 4pm, so arrive at 9am if Saturday or Sunday is your only option."
+  - canberra
+  - park
+quickAnswer: >-
+  National Arboretum Canberra sits on Forest Drive in the western part of
+  Canberra, a short drive from the city centre, and its listed hours are 9am to
+  4pm every day. The best time to go is a weekday, when it stays quiet all day
+  from 9am to 4pm. On weekends it fills up from 10am to 4pm, so arrive at 9am if
+  Saturday or Sunday is your only option.
 faq:
-  - q: "When is the quietest time to visit National Arboretum Canberra?"
-    a: "Weekdays are quiet all day, from 9am to 4pm. Weekends are busiest from 10am to 4pm, so on a Saturday or Sunday arrive at the 9am opening."
-  - q: "How do I get to the National Arboretum?"
-    a: "It is on Forest Drive, off the Tuggeranong Parkway near the Glenloch Interchange, a short drive west of Civic. Driving or a rideshare is easiest, and cyclists can come along the paths at the western end of Lake Burley Griffin. Car park signs show the current parking arrangements."
-  - q: "How long should I spend there?"
-    a: "Allow two to three hours to walk up Dairy Farmers Hill, see a couple of forests and visit the Village Centre. An hour is enough for the playground, the bonsai collection and the café."
-  - q: "What are the opening hours?"
-    a: "The listed hours are 9am to 4pm, seven days a week. The café and shop in the Village Centre close at 4pm too."
-  - q: "Is it good for children?"
-    a: "Yes. The Pod Playground next to the Village Centre has giant acorn and banksia pod treehouses joined by rope bridges, and the lawns below have plenty of room for a picnic."
+  - q: When is the quietest time to visit National Arboretum Canberra?
+    a: >-
+      Weekdays are quiet all day, from 9am to 4pm. Weekends are busiest from
+      10am to 4pm, so on a Saturday or Sunday arrive at the 9am opening.
+  - q: How do I get to the National Arboretum?
+    a: >-
+      It is on Forest Drive, off the Tuggeranong Parkway near the Glenloch
+      Interchange, a short drive west of Civic. Driving or a rideshare is
+      easiest, and cyclists can come along the paths at the western end of Lake
+      Burley Griffin. Car park signs show the current parking arrangements.
+  - q: How long should I spend there?
+    a: >-
+      Allow two to three hours to walk up Dairy Farmers Hill, see a couple of
+      forests and visit the Village Centre. An hour is enough for the
+      playground, the bonsai collection and the café.
+  - q: What are the opening hours?
+    a: >-
+      The listed hours are 9am to 4pm, seven days a week. The café and shop in
+      the Village Centre close at 4pm too.
+  - q: Is it good for children?
+    a: >-
+      Yes. The Pod Playground next to the Village Centre has giant acorn and
+      banksia pod treehouses joined by rope bridges, and the lawns below have
+      plenty of room for a picnic.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-01'
 ---
 
 ## A Hillside Planted in Rows

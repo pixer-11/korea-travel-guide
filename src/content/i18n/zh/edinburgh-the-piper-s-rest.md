@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: edinburgh-the-piper-s-rest
-srcHash: '17095dad3018'
+srcHash: '04fccd806a93'
 title: The Piper's Rest：爱丁堡吃饭去哪儿（4.6★）
-description: The Piper's Rest是一家中等价位的酒吧，位于爱丁堡老城亨特广场3号（3 Hunter Square），紧挨特隆教堂，离皇家一英里大道仅几步之遥。店里供应酒吧餐、苏格兰精酿啤酒和鸡尾酒，每天10am至1am营业。评分4.6★（3,773条评价），下文汇总了食客评价、营业时间和实用贴士。
+description: The Piper's Rest是一家中等价位的酒吧，位于爱丁堡老城亨特广场3号（3 Hunter Square），紧挨特隆教堂，离皇家一英里大道仅几步之遥。店里供应酒吧餐、苏格兰精酿啤酒和鸡尾酒，每天10am至1am营业。评分4.6★（3,775条评价），下文汇总了食客评价、营业时间和实用贴士。
 quickAnswer: The Piper's Rest是一家中等价位的酒吧，位于爱丁堡老城亨特广场3号（3 Hunter Square），紧挨特隆教堂（Tron Kirk），从皇家一英里大道（Royal Mile）拐进来就到。店里供应酒吧餐、苏格兰精酿啤酒和鸡尾酒，每天10am至1am营业。想图清静，工作日可在10am至1pm之间去，周末则选10am至12pm。周末4pm至11pm是最忙的时段，最好避开。
 faq:
   - q: The Piper's Rest具体在哪里？
