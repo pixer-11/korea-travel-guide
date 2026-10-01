@@ -13,6 +13,14 @@ eventPerformer:
   name: My Chemical Romance
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/0027jfBarangays_Taal_Tambubong_Batia_Bocaue_Bulacan_Fields_Roadsfvf_08.jpg/1280px-0027jfBarangays_Taal_Tambubong_Batia_Bocaue_Bulacan_Fields_Roadsfvf_08.jpg'
+  credit: 'Photo: Judgefloro (CC0)'
+  license: wikimedia
+  source: 'File:0027jfBarangays Taal Tambubong Batia Bocaue Bulacan Fields Roadsfvf 08.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - bocaue

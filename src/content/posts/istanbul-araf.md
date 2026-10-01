@@ -5,7 +5,6 @@ country: Turkey
 region: Istanbul
 category: restaurant
 pubDate: '2026-10-01'
-gallery: []
 tags:
   - istanbul
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What is near Araf for before or after dinner?
     a: Bağdat Caddesi, the Asian side's long shopping avenue, is a short taxi ride south. Kadıköy's market streets and ferry pier are a few M4 stops west.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/70527721_LFGxDHoKG99PeO3iIdlTYWyMnTxK2jSI9WJGEp2qIVU.jpg
+  credit: 'Photo: Foursquare user content (Araf Coffee LAB)'
+  license: foursquare
+  source: https://foursquare.com/v/53134cc4498e35b77755cc10
+  focus:
+    x: 45
+    'y': 45
 ---
 
 ## Fire, a counter and two chefs

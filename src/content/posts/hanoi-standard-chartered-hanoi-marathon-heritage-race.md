@@ -15,6 +15,16 @@ eventOrganizer:
 eventOffers:
   url: https://hanoi-marathon.com/en/the-race/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/9/91/Hanoi_Vietnam_Transport-in-Hanoi-03.jpg'
+  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Hanoi_Vietnam_Transport-in-Hanoi-03.jpg'
+  focus:
+    x: 32
+    y: 15
+    top: 8
+    bottom: 22
 gallery: []
 tags:
   - hanoi

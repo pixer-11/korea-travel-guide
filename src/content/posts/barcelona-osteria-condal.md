@@ -5,7 +5,6 @@ country: Spain
 region: Barcelona
 category: restaurant
 pubDate: '2026-10-01'
-gallery: []
 tags:
   - barcelona
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What is there to do nearby before or after dinner?
     a: Visit the Mercat de Sant Antoni, which also hosts a Sunday book market. You can also have a pintxo and vermouth on Carrer de Blai in Poble Sec, or walk up into the gardens of Montjuïc.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/52669440_8iSS-1RklI4uU9jS2kmTH8nmszMo7TpyLwSUSn0dVyY.jpg
+  credit: 'Photo: Foursquare user content (Hotel Condal)'
+  license: foursquare
+  source: https://foursquare.com/v/50bbcdc3fe70326f4f23cad6
+  focus:
+    x: 50
+    'y': 75
 ---
 
 ## An address Barcelona already knows

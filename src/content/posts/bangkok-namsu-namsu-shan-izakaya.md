@@ -5,7 +5,6 @@ country: Thailand
 region: Bangkok
 category: hidden-gem
 pubDate: '2026-10-01'
-gallery: []
 tags:
   - bangkok
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: How long should I plan to spend there?
     a: Around two hours is enough for several rounds of plates and some sake. Add time if you want tea at Rangoon Tea House downstairs first.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/57895539_QXncbIlPcOKx5lU67rHsXqRaQwfkDiarHAcoJKU_n_0.jpg
+  credit: 'Photo: Foursquare user content (Namsu Shan Cuisine & Sake Bar)'
+  license: foursquare
+  source: https://foursquare.com/v/67efd9d86e257f01f5a20171
+  focus:
+    x: 45
+    'y': 45
 ---
 
 ## Upstairs from the tea house

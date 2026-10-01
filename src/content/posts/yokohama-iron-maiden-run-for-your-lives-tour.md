@@ -13,7 +13,6 @@ eventPerformer:
   name: Iron Maiden
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - yokohama
   - event
@@ -31,6 +30,16 @@ faq:
     a: Yokohama World Porters and the shops around Yokohama Station both have plenty of restaurants. The Akarenga Soko red-brick warehouses are a walk along the Minato Mirai waterfront.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/f/fe/Iron_Maiden_%E2%80%93_Tons_of_Rock_2026_02.jpg
+  credit: 'Photo: Birgit Fostervold / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Iron_Maiden_%E2%80%93_Tons_of_Rock_2026_02.jpg
+  focus:
+    x: 18
+    'y': 14
+    top: 2
+    bottom: 25
 ---
 
 ## Two nights at K Arena Yokohama

@@ -5,7 +5,6 @@ country: United Kingdom
 region: Edinburgh
 category: restaurant
 pubDate: '2026-10-01'
-gallery: []
 tags:
   - edinburgh
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What else is near Barry Fish?
     a: The Shore's riverside pubs are steps away. The Royal Yacht Britannia at Ocean Terminal is one tram stop further on, and The Kitchin on Commercial Quay is close by.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/60824293_HVIQoT0My-rZbUDZSbm8QgKi5JtM5ob3tMMuevZzrIU.jpg
+  credit: 'Photo: Foursquare user content (Barry Fish)'
+  license: foursquare
+  source: https://foursquare.com/v/67d6d03c4d17b85ec0d64f83
+  focus:
+    x: 45
+    'y': 45
 ---
 
 ## A seafood room on Leith's waterfront

@@ -9,6 +9,14 @@ eventStartDate: '2026-10-24'
 eventEndDate: '2026-10-25'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Jakarta_Indonesia_Business-in-Kota-Jakarta-01.jpg/3840px-Jakarta_Indonesia_Business-in-Kota-Jakarta-01.jpg'
+  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Jakarta_Indonesia_Business-in-Kota-Jakarta-01.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - jakarta

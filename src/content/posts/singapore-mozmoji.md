@@ -5,7 +5,6 @@ country: Singapore
 region: Singapore
 category: hidden-gem
 pubDate: '2026-10-01'
-gallery: []
 tags:
   - singapore
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What else is nearby?
     a: Sri Mariamman Temple, Jamae Mosque and Buddha Tooth Relic Temple are all on or near South Bridge Road. Maxwell Food Centre is also a short walk away, at the southern end.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/5931716_owcoQvnqujp-kZDFrvBVcIzctoLMmkUn3WDA52WVvnw.jpg
+  credit: 'Photo: Foursquare user content (Mozmoji)'
+  license: foursquare
+  source: https://foursquare.com/v/69f7181b53257516a1c998f5
+  focus:
+    x: 50
+    'y': 40
 ---
 
 ## A café that's also a ceramics room

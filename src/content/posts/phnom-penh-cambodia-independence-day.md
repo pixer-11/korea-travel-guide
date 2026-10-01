@@ -13,7 +13,6 @@ eventOffers:
   free: true
   currency: KHR
 eventFactsAsked: true
-gallery: []
 tags:
   - phnom penh
   - event
@@ -31,6 +30,14 @@ faq:
     a: The King Father Norodom Sihanouk statue is right beside the monument. The Royal Palace, Silver Pagoda, National Museum and Wat Botum are all within about a kilometre, though some may close for the holiday.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/d/df/Cambodia._Independence_Park_in_Sihanoukville.jpg
+  credit: 'Photo: Dmitry Makeev / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Cambodia._Independence_Park_in_Sihanoukville.jpg
+  focus:
+    x: 45
+    'y': 40
 ---
 
 ## A lotus tower and a lit flame

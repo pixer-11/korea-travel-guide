@@ -1,6 +1,10 @@
 ---
-title: 'Charlie Puth - Whatever''s Clever! World Tour: Dates, Tickets & Venue (Shanghai)'
-description: Charlie Puth - Whatever's Clever! World Tour plays Shanghai on November 1, 2026, and that night is the tour's final stop.
+title: >-
+  Charlie Puth - Whatever's Clever! World Tour: Dates, Tickets & Venue
+  (Shanghai)
+description: >-
+  Charlie Puth - Whatever's Clever! World Tour plays Shanghai on November 1,
+  2026, and that night is the tour's final stop.
 country: China
 region: Shanghai
 category: event
@@ -13,31 +17,51 @@ eventPerformer:
   kind: person
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/8/86/Charlie_Puth_2017_%28cropped%29.jpg
-  credit: 'Photo: LG전자 / Wikimedia Commons (CC BY 2.0)'
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Pudong_Shanghai_November_2017_panorama.jpg/3840px-Pudong_Shanghai_November_2017_panorama.jpg'
+  credit: 'Photo: King of Hearts / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Charlie_Puth_2017_(cropped).jpg
+  source: 'https://commons.wikimedia.org/wiki/File:Pudong_Shanghai_November_2017_panorama.jpg'
   focus:
-    x: 52
-    'y': 30
-    top: 2
-    bottom: 58
+    x: 50
+    y: 45
 gallery: []
 tags:
   - shanghai
   - event
-quickAnswer: Charlie Puth - Whatever's Clever! World Tour plays Shanghai on November 1, 2026, and that night is the tour's final stop. The venue and tickets for the Shanghai date are not part of our verified facts, so check both on Charlie Puth's official site and the authorised Chinese ticketing channel before you book flights. Bring the passport you buy with, because large concerts in China usually use real-name ticketing.
+quickAnswer: >-
+  Charlie Puth - Whatever's Clever! World Tour plays Shanghai on November 1,
+  2026, and that night is the tour's final stop. The venue and tickets for the
+  Shanghai date are not part of our verified facts, so check both on Charlie
+  Puth's official site and the authorised Chinese ticketing channel before you
+  book flights. Bring the passport you buy with, because large concerts in China
+  usually use real-name ticketing.
 faq:
   - q: When is Charlie Puth's Whatever's Clever! World Tour show in Shanghai?
-    a: The Shanghai date is November 1, 2026, and it's the final stop of the tour. Confirm timing and tickets on Charlie Puth's official site.
+    a: >-
+      The Shanghai date is November 1, 2026, and it's the final stop of the
+      tour. Confirm timing and tickets on Charlie Puth's official site.
   - q: Which venue is the Shanghai show at?
-    a: The venue isn't in our verified facts, and Shanghai has several large arenas and stadiums. Check the official site or the authorised ticket listing for the venue before you book a hotel, ideally one on a metro line that serves it.
+    a: >-
+      The venue isn't in our verified facts, and Shanghai has several large
+      arenas and stadiums. Check the official site or the authorised ticket
+      listing for the venue before you book a hotel, ideally one on a metro line
+      that serves it.
   - q: Do I need my passport to get into the concert?
-    a: Very likely. Large concerts in mainland China generally use real-name ticketing, so foreign visitors book with their passport number and show the physical passport at entry. A ticket in someone else's name may be refused at the gate.
+    a: >-
+      Very likely. Large concerts in mainland China generally use real-name
+      ticketing, so foreign visitors book with their passport number and show
+      the physical passport at entry. A ticket in someone else's name may be
+      refused at the gate.
   - q: How do I get to the show and back to my hotel?
-    a: The Shanghai Metro is the easiest option. It has English signs and you can pay with the Alipay or WeChat Pay QR code. Check the last train time on your line. If the show runs late, book a ride with DiDi.
+    a: >-
+      The Shanghai Metro is the easiest option. It has English signs and you can
+      pay with the Alipay or WeChat Pay QR code. Check the last train time on
+      your line. If the show runs late, book a ride with DiDi.
   - q: What is the weather like in Shanghai in early November?
-    a: 'It''s autumn: generally mild days and cooler evenings, with much less humidity than in summer. A light jacket is useful for queuing outside and the trip home.'
+    a: >-
+      It's autumn: generally mild days and cooler evenings, with much less
+      humidity than in summer. A light jacket is useful for queuing outside and
+      the trip home.
 aiGenerated: true
 draft: false
 ---

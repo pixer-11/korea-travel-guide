@@ -13,6 +13,16 @@ eventPerformer:
   name: LANY
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Jakarta_Indonesia_Hawkers-in-Kota-Jakarta-01.jpg/3840px-Jakarta_Indonesia_Hawkers-in-Kota-Jakarta-01.jpg'
+  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Jakarta_Indonesia_Hawkers-in-Kota-Jakarta-01.jpg'
+  focus:
+    x: 45
+    y: 27
+    top: 18
+    bottom: 35
 gallery: []
 tags:
   - jakarta

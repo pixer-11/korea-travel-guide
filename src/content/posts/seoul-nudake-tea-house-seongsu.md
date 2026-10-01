@@ -5,7 +5,6 @@ country: South Korea
 region: Seoul
 category: trendy
 pubDate: '2026-10-01'
-gallery: []
 tags:
   - seoul
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Can I pay by card, and should I tip?
     a: Cards and mobile payments are standard across Seongsu. Tipping isn't customary in Korea.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/15089414_-P6_F7Uiv7fvQBR3P94ey0PS6kDlbHBxH3jfwKlTT2k.jpg
+  credit: 'Photo: Foursquare user content (OSULLOC Tea House (오설록))'
+  license: foursquare
+  source: https://foursquare.com/v/54d04cdc498e41a7ccc2ed9b
+  focus:
+    x: 50
+    'y': 55
 ---
 
 ## A tea room five floors above Seongsu

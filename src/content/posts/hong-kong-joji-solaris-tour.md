@@ -13,7 +13,6 @@ eventPerformer:
   name: Joji
   kind: person
 eventFactsAsked: true
-gallery: []
 tags:
   - hong kong
   - event
@@ -31,6 +30,14 @@ faq:
     a: Citygate Outlets in Tung Chung has shops and food courts close by. The Ngong Ping 360 cable car up to the Tian Tan Buddha also starts in Tung Chung. If you go, allow half a day and come back in time for doors.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/0/0d/AsiaWorld_Expo_Runway_11_Hall_11.JPG
+  credit: 'Photo: Pp0912 / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:AsiaWorld_Expo_Runway_11_Hall_11.JPG
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## A Sunday night out by the runways

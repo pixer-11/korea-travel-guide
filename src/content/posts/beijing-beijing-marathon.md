@@ -12,7 +12,6 @@ eventOrganizer:
   name: Chinese Athletic Association
   url: http://www.beijing-marathon.com
 eventFactsAsked: true
-gallery: []
 tags:
   - beijing
   - event
@@ -30,6 +29,16 @@ faq:
     a: The finish area is beside the Bird's Nest (National Stadium) and the Water Cube (National Aquatics Center). The Olympic Forest Park is just to the north.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://live.staticflickr.com/3072/2778457790_ecd896f175_b.jpg
+  credit: 'Photo: JonParry / flickr (BY)'
+  license: openverse-cc
+  source: https://www.flickr.com/photos/8306421@N06/2778457790
+  focus:
+    x: 55
+    'y': 24
+    top: 20
+    bottom: 28
 ---
 
 The road in front of the Gate of Heavenly Peace is one of the widest in Beijing. For one autumn morning it fills with runners instead of traffic. Chang'an Avenue runs east to west past Tiananmen Square, ten lanes of asphalt with the Mao portrait on one side and the square's flagpole on the other. That is where the Beijing Marathon has traditionally lined up its field.

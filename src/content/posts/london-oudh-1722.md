@@ -5,7 +5,6 @@ country: United Kingdom
 region: London
 category: restaurant
 pubDate: '2026-10-01'
-gallery: []
 tags:
   - london
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What is there to do nearby?
     a: Borough Market and Southwark Cathedral are in the same neighbourhood. The Shard stands above London Bridge station, and the Thames Path runs west to Shakespeare's Globe and Tate Modern.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/7350009_N50daV9Pq20ePweQK8AuvLTJy8JCNnaja8kuy-Qa44I.jpg
+  credit: 'Photo: Foursquare user content (Oudh 1722)'
+  license: foursquare
+  source: https://foursquare.com/v/69f7530e7050937480a9a96d
+  focus:
+    x: 62
+    'y': 42
 ---
 
 ## Lucknow, south of the river

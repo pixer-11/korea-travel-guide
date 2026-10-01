@@ -15,7 +15,6 @@ eventPerformer:
   name: Bob Dylan
   kind: person
 eventFactsAsked: true
-gallery: []
 tags:
   - rome
   - event
@@ -33,6 +32,14 @@ faq:
     a: Yes. The same run stops in Milan and Bologna that week, and both cities are easy to reach by train from Rome.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Palazzo_dello_Sport_%28Rome%29_in_2018.11.jpg/3840px-Palazzo_dello_Sport_%28Rome%29_in_2018.11.jpg
+  credit: 'Photo: CAPTAIN RAJU / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Palazzo_dello_Sport_(Rome)_in_2018.11.jpg
+  focus:
+    x: 50
+    'y': 45
 ---
 
 ## One night under Nervi's dome

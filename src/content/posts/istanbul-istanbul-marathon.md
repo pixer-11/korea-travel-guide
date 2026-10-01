@@ -10,7 +10,6 @@ eventEndDate: '2026-11-01'
 eventRecurring: true
 eventVenue: Sultanahmet (finish) / 15 July Martyrs Bridge (start)
 eventFactsAsked: true
-gallery: []
 tags:
   - istanbul
   - event
@@ -28,6 +27,14 @@ faq:
     a: Galata Bridge and the waterfront near Dolmabahçe Palace are easy to reach by tram and have good views. The finish area around the Hippodrome in Sultanahmet gets the biggest crowds.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://live.staticflickr.com/3814/10940616143_8c0ec2b294_b.jpg
+  credit: 'Photo: canonim / flickr (BY)'
+  license: openverse-cc
+  source: https://www.flickr.com/photos/96705149@N06/10940616143
+  focus:
+    x: 60
+    'y': 40
 ---
 
 ## A race that starts on one continent

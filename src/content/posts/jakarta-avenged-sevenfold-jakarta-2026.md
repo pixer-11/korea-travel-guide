@@ -1,6 +1,8 @@
 ---
 title: 'Avenged Sevenfold Jakarta 2026: Dates, Tickets & Venue (Jakarta)'
-description: Avenged Sevenfold Jakarta 2026 is announced for October 10, 2026 at Jakarta International Stadium (JIS) in Tanjung Priok, North Jakarta.
+description: >-
+  Avenged Sevenfold Jakarta 2026 is announced for October 10, 2026 at Jakarta
+  International Stadium (JIS) in Tanjung Priok, North Jakarta.
 country: Indonesia
 region: Jakarta
 category: event
@@ -14,31 +16,52 @@ eventPerformer:
   kind: group
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/d/df/Avenged_Sevenfold_Live_in_the_LBC_large.png
-  credit: 'Photo: Dulguun7 / Wikimedia Commons (CC BY-SA 4.0)'
+  url: 'https://upload.wikimedia.org/wikipedia/commons/2/21/Jakarta_old_football.jpg'
+  credit: 'Photo: Jonathan McIntosh / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Avenged_Sevenfold_Live_in_the_LBC_large.png
+  source: 'https://commons.wikimedia.org/wiki/File:Jakarta_old_football.jpg'
   focus:
-    x: 29
-    'y': 20
-    top: 10
-    bottom: 29
+    x: 50
+    y: 20
+    top: 8
+    bottom: 32
 gallery: []
 tags:
   - jakarta
   - event
-quickAnswer: Avenged Sevenfold Jakarta 2026 is announced for October 10, 2026 at Jakarta International Stadium (JIS) in Tanjung Priok, North Jakarta. Buy tickets only through the official channels, and plan your route home before you leave, because getting out of JIS after a big show is the hardest part of the night.
+quickAnswer: >-
+  Avenged Sevenfold Jakarta 2026 is announced for October 10, 2026 at Jakarta
+  International Stadium (JIS) in Tanjung Priok, North Jakarta. Buy tickets only
+  through the official channels, and plan your route home before you leave,
+  because getting out of JIS after a big show is the hardest part of the night.
 faq:
   - q: When and where is Avenged Sevenfold playing in Jakarta in 2026?
-    a: The concert is announced for October 10, 2026, a Saturday, at Jakarta International Stadium (JIS) in Tanjung Priok, North Jakarta. Confirm timing and tickets on the official site.
+    a: >-
+      The concert is announced for October 10, 2026, a Saturday, at Jakarta
+      International Stadium (JIS) in Tanjung Priok, North Jakarta. Confirm
+      timing and tickets on the official site.
   - q: How do I get to Jakarta International Stadium?
-    a: Take the KRL Commuter Line to Tanjung Priok station and continue by bus or ride-hail, use TransJakarta routes toward JIS, or book a Gojek or Grab. Allow at least an hour from central Jakarta, and plan your return carefully, because roads and ride-hail apps get overloaded after the show.
+    a: >-
+      Take the KRL Commuter Line to Tanjung Priok station and continue by bus or
+      ride-hail, use TransJakarta routes toward JIS, or book a Gojek or Grab.
+      Allow at least an hour from central Jakarta, and plan your return
+      carefully, because roads and ride-hail apps get overloaded after the show.
   - q: Do I need ID to enter the concert?
-    a: Big stadium concerts in Indonesia often use named tickets and check ID, sometimes with a wristband exchange before entry. International visitors should make sure their passport details match the booking and read the official entry instructions.
+    a: >-
+      Big stadium concerts in Indonesia often use named tickets and check ID,
+      sometimes with a wristband exchange before entry. International visitors
+      should make sure their passport details match the booking and read the
+      official entry instructions.
   - q: Where should I stay for a concert at JIS?
-    a: North Jakarta areas such as Kelapa Gading or Ancol are much closer to the stadium than Sudirman, Thamrin or Kemang. That makes a big difference to the late-night trip home.
+    a: >-
+      North Jakarta areas such as Kelapa Gading or Ancol are much closer to the
+      stadium than Sudirman, Thamrin or Kemang. That makes a big difference to
+      the late-night trip home.
   - q: What is the weather like in Jakarta in October?
-    a: October is typically hot and humid, and it usually marks the start of the rainy season, with evening showers common. Pack a light poncho and check the stadium's bag rules before bringing an umbrella.
+    a: >-
+      October is typically hot and humid, and it usually marks the start of the
+      rainy season, with evening showers common. Pack a light poncho and check
+      the stadium's bag rules before bringing an umbrella.
 aiGenerated: true
 draft: false
 ---

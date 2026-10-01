@@ -5,7 +5,6 @@ country: Turkey
 region: Istanbul
 category: trendy
 pubDate: '2026-10-01'
-gallery: []
 tags:
   - istanbul
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What should I wear?
     a: Smart-casual at minimum. It is a luxury hotel rooftop in Istanbul's fashion district, and many guests dress up for the evening.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/1754716_EYYojMi5gM7YiHD_Vi5sH3RnoR8mtAhTygNo6r0TrYA.jpg
+  credit: 'Photo: Foursquare user content (Spago Istanbul by Wolfgang Puck)'
+  license: foursquare
+  source: https://foursquare.com/v/54ead8a8498e784a060dc625
+  focus:
+    x: 40
+    'y': 55
 ---
 
 ## A Californian kitchen above Nişantaşı

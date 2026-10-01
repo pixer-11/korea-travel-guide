@@ -5,7 +5,6 @@ country: United States
 region: Tempe
 category: trendy
 pubDate: '2026-10-01'
-gallery: []
 tags:
   - tempe
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What can I do nearby before or after dinner?
     a: Downtown Tempe has Mill Avenue for bars and restaurants and Tempe Town Lake for walks along the water. Tempe Butte (A Mountain) is a short climb with views, and the Arizona State University campus is right next to downtown.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/3889560_FTrSqea-sypNAwiCrodaKMEaXe4qihbcThzpqTRdsc4.jpg
+  credit: 'Photo: Foursquare user content (Filthy Animal)'
+  license: foursquare
+  source: https://foursquare.com/v/688836e237fc4f6bc1029055
+  focus:
+    x: 45
+    'y': 50
 ---
 
 Yelp's 2026 list of the Best New Restaurants in the U.S. had openings from Los Angeles and New York on it. The top spot didn't go to either city. It went to a jungle-themed dining room in Tempe, the college town just east of Phoenix, and the place is named after a gangster's sneer from a Christmas movie.

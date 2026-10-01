@@ -339,6 +339,12 @@
   "reason": "publish gate: Japanese garden with stone lantern, path, plausible Himeji Garden view",
   "at": "2026-09-28T16:49:41.221Z"
  },
+ "adelaide-aptos\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Seacliff_at_sunset.jpg/1920px-Seacliff_at_sunset.jpg": {
+  "slug": "adelaide-aptos",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic beach sunset, not restaurant venue",
+  "at": "2026-10-01T23:21:30.335Z"
+ },
  "adelaide-botanic-park\u0001https://upload.wikimedia.org/wikipedia/commons/9/97/Glass_Sculpture%2C_Botanic_Park%2C_Adelaide%2C_South_Australia_-_panoramio.jpg": {
   "slug": "adelaide-botanic-park",
   "verdict": "MATCH",
@@ -1777,6 +1783,18 @@
   "reason": "patrol reject: Wrong location; shows Western city, not Bangkok",
   "at": "2026-08-23T06:13:20.440Z"
  },
+ "bangkok-city-cup\u0001https://fastly.4sqi.net/img/general/original/1365730110_8EgFbatajK0y1-6tZvh-QfcgJYzMGyZ-WZOcN748XHo.jpg": {
+  "slug": "bangkok-city-cup",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Street view of temple exterior, not a cup/venue",
+  "at": "2026-10-01T23:22:27.224Z"
+ },
+ "bangkok-city-cup\u0001https://fastly.4sqi.net/img/general/original/1365730110_L__vYrkaSEpvdHXnilI0mO4Kvp7JGp4k8Z0OkeOOkmA.jpg": {
+  "slug": "bangkok-city-cup",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: View from car, not showing venue itself",
+  "at": "2026-10-01T23:22:25.558Z"
+ },
  "bangkok-city-cup\u0001https://fastly.4sqi.net/img/general/original/1365730110_MXg7CJQCfvfedZfiwfGJ4P2nwr-QOvtkm_DTAdpkMoQ.jpg": {
   "slug": "bangkok-city-cup",
   "verdict": "MISMATCH",
@@ -1806,6 +1824,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Marigold garland/offering, unrelated to a cup/cafe venue",
   "at": "2026-08-20T19:56:57.123Z"
+ },
+ "bangkok-city-cup\u0001https://fastly.4sqi.net/img/general/original/28234004_a2Kvur8WvwvdcqigmX_PDV7G2bSYJzVLm_GRkkivefk.jpg": {
+  "slug": "bangkok-city-cup",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows offering basket and sign, not venue itself",
+  "at": "2026-10-01T23:22:29.094Z"
  },
  "bangkok-city-cup\u0001https://fastly.4sqi.net/img/general/original/511302_w8xy1tBnS-T-DlaiK-7AOL-RoSKW6q47u7kL7isQ3OY.jpg": {
   "slug": "bangkok-city-cup",
@@ -1983,6 +2007,18 @@
   "reason": "Train yard, not a tourist venue or hidden gem",
   "at": "2026-07-25T02:38:44.360Z"
  },
+ "bangkok-iris-wild-iris\u0001https://fastly.4sqi.net/img/general/original/503264127_6UyTWY3tWPCArZzvFh2XUCt89TzbhqIe14BHZdB1P2w.jpg": {
+  "slug": "bangkok-iris-wild-iris",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Wild Iris storefront, Bangkok, trendy venue sign visible",
+  "at": "2026-10-01T23:22:38.523Z"
+ },
+ "bangkok-iris-wild-iris\u0001https://fastly.4sqi.net/img/general/original/503264127_Y3cACDK_h8aM9HsC6h2hVEaAk4KVGlMnBf_9LatbMOI.jpg": {
+  "slug": "bangkok-iris-wild-iris",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: High-rise cityscape view, not Bangkok venue interior",
+  "at": "2026-10-01T23:22:35.628Z"
+ },
  "bangkok-khao-san-sek\u0001https://fastly.4sqi.net/img/general/original/19173375_C_1sc7A5qQMoZUCN0mINi4MwseHx24sAt6HJuqd0bN0.jpg": {
   "slug": "bangkok-khao-san-sek",
   "verdict": "MATCH",
@@ -2029,6 +2065,12 @@
   "verdict": "MATCH",
   "reason": "event-mode back-audit: Concert stage photo of band performing, valid for tour article",
   "at": "2026-08-07T13:02:45.191Z"
+ },
+ "bangkok-namsu-namsu-shan-izakaya\u0001https://fastly.4sqi.net/img/general/original/57895539_QXncbIlPcOKx5lU67rHsXqRaQwfkDiarHAcoJKU_n_0.jpg": {
+  "slug": "bangkok-namsu-namsu-shan-izakaya",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Izakaya interior with traditional decor, piano visible",
+  "at": "2026-10-01T23:22:45.376Z"
  },
  "bangkok-national-museum-bangkok\u0001https://fastly.4sqi.net/img/general/original/28670763_52YSd7BW6pSIU7ECCzpNIJ54Z5Q5Sphn9FvVPz6GUHU.jpg": {
   "slug": "bangkok-national-museum-bangkok",
@@ -2568,6 +2610,30 @@
   "reasonKo": "MNAC의 상징적인 오르간이 있는 화려한 내부",
   "at": "2026-08-05T14:59:30.510Z"
  },
+ "barcelona-osteria-condal\u0001https://fastly.4sqi.net/img/general/original/20301078_7MWQvr9wroLPrxFUIL18gx2ZkU31ZOomxE2CQqSPDxQ.jpg": {
+  "slug": "barcelona-osteria-condal",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Street facade view, not showing the restaurant itself",
+  "at": "2026-10-01T23:22:53.542Z"
+ },
+ "barcelona-osteria-condal\u0001https://fastly.4sqi.net/img/general/original/20301078_9xYSv92vsMnkt_Wy3wEfWdlV1NpBvfZqaSbOEJJNpuM.jpg": {
+  "slug": "barcelona-osteria-condal",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Wrong venue name: Hotel Condal, not Osteria Condal",
+  "at": "2026-10-01T23:22:55.518Z"
+ },
+ "barcelona-osteria-condal\u0001https://fastly.4sqi.net/img/general/original/23864157_pA2wtsSToFsP8O_AiKZ2Uz0TUxAy3-DYO4Ig6hmcxHs.jpg": {
+  "slug": "barcelona-osteria-condal",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: View from inside looking out, not venue itself",
+  "at": "2026-10-01T23:22:51.645Z"
+ },
+ "barcelona-osteria-condal\u0001https://fastly.4sqi.net/img/general/original/52669440_8iSS-1RklI4uU9jS2kmTH8nmszMo7TpyLwSUSn0dVyY.jpg": {
+  "slug": "barcelona-osteria-condal",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Restaurant meal, Barcelona setting, authentic venue photo",
+  "at": "2026-10-01T23:22:58.560Z"
+ },
  "barcelona-parada-torres\u0001https://fastly.4sqi.net/img/general/original/5091439_qWXBvKS1-KO3Bxj8v-X27kZIn7uu-n3IT5NpXX_RxlU.jpg": {
   "slug": "barcelona-parada-torres",
   "verdict": "MATCH",
@@ -2670,6 +2736,12 @@
   "reason": "event-mode back-audit: Performer on stage with mic, matches concert event type",
   "at": "2026-08-07T13:02:53.645Z"
  },
+ "barcelona-tru\u0001https://fastly.4sqi.net/img/general/original/70817453_bEbetBtyiNyRgQKpJGSSgqrCNW_x8KsJ_iq7pPFXUoE.jpg": {
+  "slug": "barcelona-tru",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Plated dessert with whipped cream, citrus, trendy Barcelona ",
+  "at": "2026-10-01T23:23:06.518Z"
+ },
  "bath-museum-of-bath-at-work\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Museum_of_Bath_at_Work.jpg/1920px-Museum_of_Bath_at_Work.jpg": {
   "slug": "bath-museum-of-bath-at-work",
   "verdict": "MATCH",
@@ -2705,6 +2777,24 @@
   "verdict": "MATCH",
   "reason": "patrol replace: % Arabica storefront with espresso machine visible",
   "at": "2026-08-28T03:41:06.585Z"
+ },
+ "beijing-beijing-marathon\u0001https://live.staticflickr.com/3072/2778457790_ecd896f175_b.jpg": {
+  "slug": "beijing-beijing-marathon",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Marathon race with participants in bibs, organized event",
+  "at": "2026-10-01T23:24:11.412Z"
+ },
+ "beijing-beijing-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/9/9b/Berlin_marathon.jpg": {
+  "slug": "beijing-beijing-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: width: 419px < 1024",
+  "at": "2026-10-01T23:23:58.989Z"
+ },
+ "beijing-beijing-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Marathon_-_windmill.jpg/3840px-Marathon_-_windmill.jpg": {
+  "slug": "beijing-beijing-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Rural windmill scene, unrelated to Beijing Marathon event",
+  "at": "2026-10-01T23:24:06.919Z"
  },
  "beijing-china-open-tennis\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/South_entrance_of_National_Tennis_Center_during_2024_China_Open_%2820241005143003%29.jpg/3840px-South_entrance_of_National_Tennis_Center_during_2024_China_Open_%2820241005143003%29.jpg": {
   "slug": "beijing-china-open-tennis",
@@ -3077,6 +3167,12 @@
   "reasonKo": "빌바오 특식 핀초스 진열",
   "at": "2026-08-04T11:57:23.749Z"
  },
+ "birmingham-blacklock-birmingham\u0001https://fastly.4sqi.net/img/general/original/3266906_hfRkIwgVk_mY4Z3plO7Dgwhu-j6gamdhtk3VyrRbE8o.jpg": {
+  "slug": "birmingham-blacklock-birmingham",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Steak dinner with fries at upscale restaurant",
+  "at": "2026-10-01T23:24:30.194Z"
+ },
  "birmingham-lapworth-museum-of-geology\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Lapworth_Museum.jpg/1920px-Lapworth_Museum.jpg": {
   "slug": "birmingham-lapworth-museum-of-geology",
   "verdict": "MATCH",
@@ -3402,6 +3498,30 @@
   "verdict": "MATCH",
   "reason": "publish gate: Cluttered antique shop interior matches Snoopers Paradise vibe",
   "at": "2026-10-01T14:40:54.980Z"
+ },
+ "brisbane-81-sushi-kappo\u0001https://fastly.4sqi.net/img/general/original/32870034_U5ykORQxYUVJrm8c2AiM7brixndxVTxGanpnHFzcTcg.jpg": {
+  "slug": "brisbane-81-sushi-kappo",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: credit names \"Fresh Sushi Co\", post is \"+81 Sushi Kappo\"",
+  "at": "2026-10-01T23:25:05.581Z"
+ },
+ "brisbane-81-sushi-kappo\u0001https://fastly.4sqi.net/img/general/original/4897630_UhW6ud-9Fvr5Yliu2iJmc2S5g0J_tAFve2OogfHlh5I.jpg": {
+  "slug": "brisbane-81-sushi-kappo",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Seafood market display, not a sushi restaurant venue",
+  "at": "2026-10-01T23:25:00.877Z"
+ },
+ "brisbane-81-sushi-kappo\u0001https://fastly.4sqi.net/img/general/original/4897630_i4NC0RTIOD7MwJ0xQ5DcYwiUjxbekEIG6EmzhCjXF94.jpg": {
+  "slug": "brisbane-81-sushi-kappo",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Different venue name shown: freshsushico, not +81 Sushi Kappo",
+  "at": "2026-10-01T23:24:59.156Z"
+ },
+ "brisbane-81-sushi-kappo\u0001https://fastly.4sqi.net/img/general/original/4897630_oY9mkoSZDTZN0PREVVvvvS5nUAg7Fs9TC8yuml-J-hk.jpg": {
+  "slug": "brisbane-81-sushi-kappo",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Display case food shot, not venue interior/exterior",
+  "at": "2026-10-01T23:25:02.692Z"
  },
  "brisbane-brisbane-australia-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Brisbane_Australia_Temple_exterior.jpg/1920px-Brisbane_Australia_Temple_exterior.jpg": {
   "slug": "brisbane-brisbane-australia-temple",
@@ -4946,6 +5066,12 @@
   "reason": "publish gate: Rooftop terrace view of THE MART building in Chicago",
   "at": "2026-09-22T07:50:07.441Z"
  },
+ "chicago-unabridged-bookstore\u0001https://fastly.4sqi.net/img/general/original/1356636_-ghPmUx0o3QDBsBQzexSaK-JY5ICGHI_PpJbGBYNcRw.jpg": {
+  "slug": "chicago-unabridged-bookstore",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Storefront exterior clearly showing bookstore signage and window display",
+  "at": "2026-10-01T23:40:57.421Z"
+ },
  "chicago-unabridged-bookstore\u0001https://upload.wikimedia.org/wikipedia/commons/a/a0/Classic_storefront.jpg": {
   "slug": "chicago-unabridged-bookstore",
   "verdict": "MATCH",
@@ -5521,6 +5647,12 @@
   "reasonKo": "델리 고급 레스토랑, 정교한 플레이팅",
   "at": "2026-08-07T09:19:47.541Z"
  },
+ "delhi-top-banana\u0001https://upload.wikimedia.org/wikipedia/commons/f/f2/Banana_Bunch_Top_Virus.jpg": {
+  "slug": "delhi-top-banana",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: width: 445px < 640",
+  "at": "2026-10-01T23:25:13.238Z"
+ },
  "dempsey-hill-pasar-geylang-serai\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Geylang_Serai_Market_aka_Pasar_Geylang_Serai_%282025%29_-_img_02.jpg/3840px-Geylang_Serai_Market_aka_Pasar_Geylang_Serai_%282025%29_-_img_02.jpg": {
   "slug": "dempsey-hill-pasar-geylang-serai",
   "verdict": "MATCH",
@@ -5628,6 +5760,30 @@
   "verdict": "MISMATCH",
   "reason": "UK street architecture, not Dubai",
   "at": "2026-07-25T02:42:34.953Z"
+ },
+ "dubai-barrafina-difc\u0001https://fastly.4sqi.net/img/general/original/130083517_kYGBl2Y5mjmbRk-m1e9WqkAxv2G_7I4Hbw_0z-axb0M.jpg": {
+  "slug": "dubai-barrafina-difc",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows Sephora shopping bags, unrelated to restaurant venue",
+  "at": "2026-10-01T23:25:19.254Z"
+ },
+ "dubai-barrafina-difc\u0001https://fastly.4sqi.net/img/general/original/1371043482_9JTjGJrZFBoJvMhyEr6IxQp-Hn92yvbHAUyi1EqaKI4.jpg": {
+  "slug": "dubai-barrafina-difc",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Office desk, not Barrafina restaurant interior",
+  "at": "2026-10-01T23:25:21.032Z"
+ },
+ "dubai-barrafina-difc\u0001https://fastly.4sqi.net/img/general/original/58885687_WLy9jQh3aExz_lxcKBlpAumG1zmEyfpfPhwe-8W47mI.jpg": {
+  "slug": "dubai-barrafina-difc",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Architectural blueprint diagram, not a photo of venue",
+  "at": "2026-10-01T23:25:22.859Z"
+ },
+ "dubai-barrafina-difc\u0001https://fastly.4sqi.net/img/general/original/597908577_l5KvbyFJXGjILiLbWVQXuv7_JoUn11FSRl9HvFZiAPE.jpg": {
+  "slug": "dubai-barrafina-difc",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Close-up of person, not the restaurant venue",
+  "at": "2026-10-01T23:25:17.232Z"
  },
  "dubai-books-kinokuniya-dubai\u0001https://fastly.4sqi.net/img/general/original/51341806_kuNezEE6RzBwSEI9pIEn-7GNvN2Q9_0a7IsNgaGBn8Y.jpg": {
   "slug": "dubai-books-kinokuniya-dubai",
@@ -5877,6 +6033,12 @@
   "reason": "patrol replace: Bruno Mars performance at concert venue",
   "at": "2026-08-09T04:12:23.094Z"
  },
+ "edinburgh-barry-fish\u0001https://fastly.4sqi.net/img/general/original/60824293_HVIQoT0My-rZbUDZSbm8QgKi5JtM5ob3tMMuevZzrIU.jpg": {
+  "slug": "edinburgh-barry-fish",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Fresh oysters and seafood dish plausibly from Edinburgh rest",
+  "at": "2026-10-01T23:25:33.612Z"
+ },
  "edinburgh-royal-mile\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/High_Street%2C_Edinburgh.JPG/1920px-High_Street%2C_Edinburgh.JPG": {
   "slug": "edinburgh-royal-mile",
   "verdict": "MATCH",
@@ -5997,6 +6159,24 @@
   "verdict": "MATCH",
   "reason": "Cathedral of Santa Maria del Fiore, Florence skyline",
   "at": "2026-07-25T02:42:45.234Z"
+ },
+ "florence-florence-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/0/0d/2015-04-26_RK_London_Marathon_0101_%2820582134921%29.jpg": {
+  "slug": "florence-florence-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible watermark credit overlaid on photo",
+  "at": "2026-10-01T23:25:49.239Z"
+ },
+ "florence-florence-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/2/2e/2015-04-26_RK_London_Marathon_0102_%2820388904929%29.jpg": {
+  "slug": "florence-florence-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible watermark/website overlay on photo",
+  "at": "2026-10-01T23:25:51.628Z"
+ },
+ "florence-florence-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/5/5c/London_Marathon_2017_IMGP1066_%2835405521744%29.jpg": {
+  "slug": "florence-florence-marathon",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Female marathon runner in action, sport-appropriate",
+  "at": "2026-10-01T23:25:55.205Z"
  },
  "florence-galleria-dell-accademia-di-firenze\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Busts_displayed_at_Galleria_dell%E2%80%99Accademia_di_Firenze.jpg/1920px-Busts_displayed_at_Galleria_dell%E2%80%99Accademia_di_Firenze.jpg": {
   "slug": "florence-galleria-dell-accademia-di-firenze",
@@ -7252,6 +7432,30 @@
   "reason": "Street food scene in Hanoi, Vietnam authentic setting",
   "at": "2026-07-25T02:43:43.834Z"
  },
+ "hanoi-standard-chartered-hanoi-marathon-heritage-race\u0001https://upload.wikimedia.org/wikipedia/commons/a/a6/2_Beach_St_%28Standard_Chartered%29.jpg": {
+  "slug": "hanoi-standard-chartered-hanoi-marathon-heritage-race",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Building in Penang, Malaysia, not Hanoi marathon",
+  "at": "2026-10-01T23:26:23.887Z"
+ },
+ "hanoi-standard-chartered-hanoi-marathon-heritage-race\u0001https://upload.wikimedia.org/wikipedia/commons/d/dc/Standard_Chartered_Bank.jpg": {
+  "slug": "hanoi-standard-chartered-hanoi-marathon-heritage-race",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Standard Chartered building, unrelated to Hanoi Marathon event",
+  "at": "2026-10-01T23:26:27.853Z"
+ },
+ "hanoi-standard-chartered-hanoi-marathon-heritage-race\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Standard_Chartered_headquarters_in_London-Front_view.jpg/3840px-Standard_Chartered_headquarters_in_London-Front_view.jpg": {
+  "slug": "hanoi-standard-chartered-hanoi-marathon-heritage-race",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Bank building unrelated to Hanoi marathon event",
+  "at": "2026-10-01T23:26:21.755Z"
+ },
+ "hanoi-standard-chartered-hanoi-marathon-heritage-race\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Standard_Chartered_%28Bangkok%29.jpg/1920px-Standard_Chartered_%28Bangkok%29.jpg": {
+  "slug": "hanoi-standard-chartered-hanoi-marathon-heritage-race",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Skyscraper building, unrelated to Hanoi marathon event",
+  "at": "2026-10-01T23:26:25.802Z"
+ },
  "hanoi-techcombank-hanoi-international-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Techcombank%2C_Royal_City%2C_H%C3%A0_N%E1%BB%99i_001.JPG/1920px-Techcombank%2C_Royal_City%2C_H%C3%A0_N%E1%BB%99i_001.JPG": {
   "slug": "hanoi-techcombank-hanoi-international-marathon",
   "verdict": "MISMATCH",
@@ -7477,6 +7681,12 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Authentic French bakery display, Vietnam setting fits",
   "at": "2026-09-24T22:43:11.082Z"
+ },
+ "ho-chi-minh-city-nham-cafe\u0001https://fastly.4sqi.net/img/general/original/1412192497_WrQJZIuEV0fN5MbE4KWwGEIbiJt9pMo1vzEZIhgse50.jpg": {
+  "slug": "ho-chi-minh-city-nham-cafe",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Industrial café interior, Vietnam aesthetic, plausible venue",
+  "at": "2026-10-01T23:26:35.066Z"
  },
  "ho-chi-minh-city-nom\u0001https://fastly.4sqi.net/img/general/original/42418573_oqPm8hEpiCAk9hJM97fuTzDMnGcWY7DvZ3GuEN_YNP0.jpg": {
   "slug": "ho-chi-minh-city-nom",
@@ -7849,6 +8059,12 @@
   "reason": "patrol replace: Fine dining foie gras dish, upscale plating",
   "at": "2026-08-24T20:02:19.179Z"
  },
+ "hong-kong-joji-solaris-tour\u0001https://upload.wikimedia.org/wikipedia/commons/0/0d/AsiaWorld_Expo_Runway_11_Hall_11.JPG": {
+  "slug": "hong-kong-joji-solaris-tour",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Concert venue interior, red seats, stage setup",
+  "at": "2026-10-01T23:27:03.312Z"
+ },
  "hong-kong-montana\u0001https://fastly.4sqi.net/img/general/original/42398438_BouWIDL3xgfWBMDL_NfrOi8UlBiUCoWZeLvb3jHLfn0.jpg": {
   "slug": "hong-kong-montana",
   "verdict": "MISMATCH",
@@ -7885,6 +8101,13 @@
   "reason": "This is Shaolin Temple in China, not Po Lin Monastery Hong K",
   "reasonKo": "중국 소림사이지, 홍콩 보린사 아님",
   "at": "2026-08-13T14:04:06.324Z"
+ },
+ "hong-kong-simple-plan-bigger-than-you-think-tour\u0001https://upload.wikimedia.org/wikipedia/commons/2/27/Simple_Plan_in_Agawam%2C_MA.jpeg": {
+  "slug": "hong-kong-simple-plan-bigger-than-you-think-tour",
+  "verdict": "MISMATCH",
+  "reason": "hero is only 592px wide — unusable as a banner",
+  "reasonKo": "사진이 592px로 너무 작음",
+  "at": "2026-10-01T23:40:19.596Z"
  },
  "hong-kong-socio\u0001https://fastly.4sqi.net/img/general/original/1379934504_WOvwQHGp-JjSBFxvkQAMg5uRyVNOwItad2AHuP_FF8g.jpg": {
   "slug": "hong-kong-socio",
@@ -7977,6 +8200,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: audit: Image shows residential/lounge space, not restaurant dining",
   "at": "2026-08-23T19:50:21.420Z"
+ },
+ "hong-kong-terrace-boulud\u0001https://fastly.4sqi.net/img/general/original/20963300_RMeSAZMNHYCT5pF2GhWgpYzHOGiKbxocmJ_7oL-5G1w.jpg": {
+  "slug": "hong-kong-terrace-boulud",
+  "verdict": "WEAK",
+  "reason": "patrol replace: Bread and butter, plausibly fine dining but generic.",
+  "at": "2026-10-01T23:27:08.378Z"
  },
  "hong-kong-the-weeknd-after-hours-til-dawn-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/The_Weeknd_Universal_Studios_Hollywood.jpg/3840px-The_Weeknd_Universal_Studios_Hollywood.jpg": {
   "slug": "hong-kong-the-weeknd-after-hours-til-dawn-tour",
@@ -8578,6 +8807,24 @@
   "reason": "event-mode back-audit: Photo of the performer Amr Diab, valid for event hero",
   "at": "2026-08-07T13:03:25.432Z"
  },
+ "istanbul-araf\u0001https://fastly.4sqi.net/img/general/original/124130462_KDUgFwwdqOBjSV8a7A9Vaqkl_DGGfWi3MKuPsIUcFZM.jpg": {
+  "slug": "istanbul-araf",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Photo of a menu, not the venue itself",
+  "at": "2026-10-01T23:27:20.119Z"
+ },
+ "istanbul-araf\u0001https://fastly.4sqi.net/img/general/original/4396428_YzGaNmVdqu_6ZXU6sRwOHAkAWDNH8fq7aTFQAhCBg74.jpg": {
+  "slug": "istanbul-araf",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows a motorcycle, not the restaurant venue",
+  "at": "2026-10-01T23:27:21.913Z"
+ },
+ "istanbul-araf\u0001https://fastly.4sqi.net/img/general/original/70527721_LFGxDHoKG99PeO3iIdlTYWyMnTxK2jSI9WJGEp2qIVU.jpg": {
+  "slug": "istanbul-araf",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Hookah lounge interior, Istanbul dining venue plausible",
+  "at": "2026-10-01T23:27:25.305Z"
+ },
  "istanbul-ateez-in-your-fantasy-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/e/eb/Ateez_at_The_World_EP._2_Outlaw_Showcase.jpg": {
   "slug": "istanbul-ateez-in-your-fantasy-world-tour",
   "verdict": "MATCH",
@@ -8768,6 +9015,24 @@
   "reason": "publish gate: Exterior facade of the Istanbul Archaeological Museums building",
   "at": "2026-08-28T19:32:52.751Z"
  },
+ "istanbul-istanbul-marathon\u0001https://live.staticflickr.com/3814/10940616143_8c0ec2b294_b.jpg": {
+  "slug": "istanbul-istanbul-marathon",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Istanbul Marathon crowd at bridge venue",
+  "at": "2026-10-01T23:27:45.697Z"
+ },
+ "istanbul-istanbul-marathon\u0001https://live.staticflickr.com/3825/10941989275_2e19ec3bc7_b.jpg": {
+  "slug": "istanbul-istanbul-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Modern architecture, unrelated to marathon event.",
+  "at": "2026-10-01T23:27:38.980Z"
+ },
+ "istanbul-istanbul-marathon\u0001https://live.staticflickr.com/8345/8189213153_01dd179517_b.jpg": {
+  "slug": "istanbul-istanbul-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Photo of advertising billboards, not the marathon venue",
+  "at": "2026-10-01T23:27:41.729Z"
+ },
  "istanbul-istanbul-museum-of-modern-art\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Istanbul%2C_Turkey_%28November_2023%29_-_611.jpg/1920px-Istanbul%2C_Turkey_%28November_2023%29_-_611.jpg": {
   "slug": "istanbul-istanbul-museum-of-modern-art",
   "verdict": "MATCH",
@@ -8885,6 +9150,12 @@
   "verdict": "MATCH",
   "reason": "Istanbul waterfront venue with Bosphorus bridge view",
   "at": "2026-07-25T02:44:34.409Z"
+ },
+ "istanbul-spago-istanbul\u0001https://fastly.4sqi.net/img/general/original/1754716_EYYojMi5gM7YiHD_Vi5sH3RnoR8mtAhTygNo6r0TrYA.jpg": {
+  "slug": "istanbul-spago-istanbul",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Upscale Istanbul rooftop dining with Bosphorus views",
+  "at": "2026-10-01T23:27:53.190Z"
  },
  "istanbul-sultanahmet-square\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/PXL_20241211_074621005_Sultanahmet_Square_Istanbul%2C_Turkiye_04.jpg/3840px-PXL_20241211_074621005_Sultanahmet_Square_Istanbul%2C_Turkiye_04.jpg": {
   "slug": "istanbul-sultanahmet-square",
@@ -9033,6 +9304,13 @@
   "reasonKo": "자이푸르 시티팰리스의 상징적 핑크색 건축",
   "at": "2026-08-17T13:25:01.783Z"
  },
+ "jakarta-avenged-sevenfold-jakarta-2026\u0001https://upload.wikimedia.org/wikipedia/commons/d/df/Avenged_Sevenfold_Live_in_the_LBC_large.png": {
+  "slug": "jakarta-avenged-sevenfold-jakarta-2026",
+  "verdict": "MISMATCH",
+  "reason": "hero is only 500px wide — unusable as a banner",
+  "reasonKo": "사진이 500px로 너무 작음",
+  "at": "2026-10-01T23:40:19.600Z"
+ },
  "jakarta-bartiga\u0001https://fastly.4sqi.net/img/general/original/12811903_QYZGOEnsjnoalRboeVhzRLv3B6m8j7YNl_K6xsOAyDU.jpg": {
   "slug": "jakarta-bartiga",
   "verdict": "MISMATCH",
@@ -9113,6 +9391,18 @@
   "reason": "publish gate: Colonial building in Jakarta Old Town, representative exterior view",
   "at": "2026-09-28T07:44:44.852Z"
  },
+ "jakarta-jakarta-running-festival\u0001https://upload.wikimedia.org/wikipedia/commons/8/8c/Running_Jump.JPG": {
+  "slug": "jakarta-jakarta-running-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Concert guitarist, unrelated to running festival event",
+  "at": "2026-10-01T23:28:38.952Z"
+ },
+ "jakarta-jakarta-running-festival\u0001https://upload.wikimedia.org/wikipedia/commons/9/91/Silent_Running_2019.jpg": {
+  "slug": "jakarta-jakarta-running-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Concert band photo, unrelated to a running festival",
+  "at": "2026-10-01T23:28:40.788Z"
+ },
  "jakarta-lalala-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/1/11/Festival_des_Vieilles_Charrues_2019_-_Lalala_Napoli_-_013.jpg": {
   "slug": "jakarta-lalala-festival-2026",
   "verdict": "MISMATCH",
@@ -9178,6 +9468,30 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: identity: Commons places this in France, post says Indonesia",
   "at": "2026-09-10T21:48:10.310Z"
+ },
+ "jakarta-lany-the-soft-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/1/17/Lany_KL_CZ.png": {
+  "slug": "jakarta-lany-the-soft-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: width: 668px < 1024",
+  "at": "2026-10-01T23:28:59.558Z"
+ },
+ "jakarta-lany-the-soft-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/4/47/IMG_0086_Lany_m.jpg": {
+  "slug": "jakarta-lany-the-soft-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: width: 900px < 1024",
+  "at": "2026-10-01T23:28:57.325Z"
+ },
+ "jakarta-lany-the-soft-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/8/8b/Lany_lovecky_zamek.jpg": {
+  "slug": "jakarta-lany-the-soft-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated house photo, not LANY tour or venue",
+  "at": "2026-10-01T23:28:59.435Z"
+ },
+ "jakarta-lany-the-soft-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/e/e0/LANY_SLC.jpg": {
+  "slug": "jakarta-lany-the-soft-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: width: 750px < 1024",
+  "at": "2026-10-01T23:28:59.684Z"
  },
  "jakarta-lee-hi-808-hi-recordings-world-tour-2026\u0001https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Jackie_Lee_in_concert_2017.jpg/3840px-Jackie_Lee_in_concert_2017.jpg": {
   "slug": "jakarta-lee-hi-808-hi-recordings-world-tour-2026",
@@ -10042,6 +10356,18 @@
   "reasonKo": "강 유역, 정글, 태국 전통 건축",
   "at": "2026-09-18T16:41:42.597Z"
  },
+ "kansas-city-1587-prime\u0001https://fastly.4sqi.net/img/general/original/6295745_Fgurh_SbVwsZAypbNgr4NwMTNC9MTNDf7p3q0f6GgOw.jpg": {
+  "slug": "kansas-city-1587-prime",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Upscale dining room, modern design, Kansas City restaurant",
+  "at": "2026-10-01T23:29:22.028Z"
+ },
+ "kansas-city-1587-prime\u0001https://fastly.4sqi.net/img/general/original/9978938_GM41KBIxe4pr3lBdza-zRLozJZ5dS3S0WDWFRxl9U78.jpg": {
+  "slug": "kansas-city-1587-prime",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Isolated studio-style drink shot, not venue interior/exterior",
+  "at": "2026-10-01T23:29:18.928Z"
+ },
  "kaohsiung-dome-of-light\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dome_of_Light%2C_Kaohsiung%2C_May_2026.jpg/1920px-Dome_of_Light%2C_Kaohsiung%2C_May_2026.jpg": {
   "slug": "kaohsiung-dome-of-light",
   "verdict": "MATCH",
@@ -10680,6 +11006,30 @@
   "reasonKo": "열대 나비 정원에 어울리는 나비",
   "at": "2026-08-13T14:04:25.073Z"
  },
+ "konya-mevlana-festival-whirling-dervishes-festival\u0001https://upload.wikimedia.org/wikipedia/commons/3/33/Restaurant_turc_Mevlana_%C3%A0_Saint-Maurice-de-Beynost.jpg": {
+  "slug": "konya-mevlana-festival-whirling-dervishes-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Turkish restaurant in France, unrelated to Konya festival",
+  "at": "2026-10-01T23:29:44.309Z"
+ },
+ "konya-mevlana-festival-whirling-dervishes-festival\u0001https://upload.wikimedia.org/wikipedia/commons/3/3d/Mevlana_ziyareti_Mustafa_Pa%C5%9Fa_%28cropped%29.jpg": {
+  "slug": "konya-mevlana-festival-whirling-dervishes-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Historical painting/illustration, not a photo of festival",
+  "at": "2026-10-01T23:29:42.214Z"
+ },
+ "konya-mevlana-festival-whirling-dervishes-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Konya_Mevlana_Museum_nefir_3898.jpg/3840px-Konya_Mevlana_Museum_nefir_3898.jpg": {
+  "slug": "konya-mevlana-festival-whirling-dervishes-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Museum horn artifact, unrelated to Whirling Dervishes Festival",
+  "at": "2026-10-01T23:29:34.689Z"
+ },
+ "konya-mevlana-festival-whirling-dervishes-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Konya_Mevlana_Museum_nefir_3899.jpg/3840px-Konya_Mevlana_Museum_nefir_3899.jpg": {
+  "slug": "konya-mevlana-festival-whirling-dervishes-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Museum artifact (horn instrument), not whirling dervishes festival",
+  "at": "2026-10-01T23:29:39.609Z"
+ },
  "konya-mevlana-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Maulana_Jelaledin_Muhammad_Rumi_in_konya.jpg/1920px-Maulana_Jelaledin_Muhammad_Rumi_in_konya.jpg": {
   "slug": "konya-mevlana-museum",
   "verdict": "MATCH",
@@ -10977,6 +11327,30 @@
   "reason": "publish gate: KLCC Park with lake, fountains, skyline, and KLCC sign visible",
   "at": "2026-08-21T08:03:28.547Z"
  },
+ "kuala-lumpur-kokomo-izakaya\u0001https://fastly.4sqi.net/img/general/original/15597932_6nVQ_Xb6Aj8R-bT_U3XhXRMrQOs68PE0NuNz1SkXEVo.jpg": {
+  "slug": "kuala-lumpur-kokomo-izakaya",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Japanese izakaya exterior, not Kuala Lumpur venue",
+  "at": "2026-10-01T23:29:48.388Z"
+ },
+ "kuala-lumpur-kokomo-izakaya\u0001https://fastly.4sqi.net/img/general/original/22131697_A3VtvpS-UYvWKKTkx3MEB0c2ce1yOqnLi1N2pzATrO8.jpg": {
+  "slug": "kuala-lumpur-kokomo-izakaya",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Photo of screen/menu and table items, not venue",
+  "at": "2026-10-01T23:29:50.147Z"
+ },
+ "kuala-lumpur-kokomo-izakaya\u0001https://fastly.4sqi.net/img/general/original/28425826_5SNiLWin7Nonqw8jsl54x9-oo0JYv01TdAeViqune7k.jpg": {
+  "slug": "kuala-lumpur-kokomo-izakaya",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: credit names \"Senya Izakaya\", post is \"Kokomo Izakaya\"",
+  "at": "2026-10-01T23:29:55.624Z"
+ },
+ "kuala-lumpur-kokomo-izakaya\u0001https://fastly.4sqi.net/img/general/original/70841148_XCggyboJRBw1NIGYxRnRDLiN9GiEnJtWM52XgIT-bWU.jpg": {
+  "slug": "kuala-lumpur-kokomo-izakaya",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Night cityscape with car, not the izakaya venue",
+  "at": "2026-10-01T23:29:52.124Z"
+ },
  "kuala-lumpur-kwai-chai-hong\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Kwai_Chai_Hong%2C_Kuala_Lumpur_in_May_2020_04.jpg/3840px-Kwai_Chai_Hong%2C_Kuala_Lumpur_in_May_2020_04.jpg": {
   "slug": "kuala-lumpur-kwai-chai-hong",
   "verdict": "MATCH",
@@ -11069,6 +11443,12 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Performer on stage with concert lighting setup",
   "at": "2026-09-03T00:11:50.192Z"
+ },
+ "kuala-lumpur-suzie-wong\u0001https://fastly.4sqi.net/img/general/original/82157707_hHDOQB3PQrvkHcSqVFuQZavMgOhGI8wB8-jp2WvFKls.jpg": {
+  "slug": "kuala-lumpur-suzie-wong",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Chinese lanterns, red décor, KL street setting",
+  "at": "2026-10-01T23:30:01.614Z"
  },
  "kuala-lumpur-tangga\u0001https://upload.wikimedia.org/wikipedia/commons/d/d1/Avenue_K%2C_Kuala_Lumpur_20260413_095055.jpg": {
   "slug": "kuala-lumpur-tangga",
@@ -11601,8 +11981,8 @@
  "little-india-former-house-of-tan-teng-niah\u0001https://fastly.4sqi.net/img/general/original/58563680_9ZCugZu4LqvzpKjyZGIn8k1lQBv17Sjro6AqDSH0VXY.jpg": {
   "slug": "little-india-former-house-of-tan-teng-niah",
   "verdict": "MATCH",
-  "reason": "patrol replace: Colorful heritage building in Little India, Singapore",
-  "at": "2026-09-28T23:53:08.576Z"
+  "reason": "patrol replace: Distinctive colorful heritage building in Little India, Sing",
+  "at": "2026-10-01T23:30:07.185Z"
  },
  "little-india-former-house-of-tan-teng-niah\u0001https://fastly.4sqi.net/img/general/original/85142592_q1URUXoOUqNSUSCT88Ylqo8e8cESiaW-6HFYVxmZTkg.jpg": {
   "slug": "little-india-former-house-of-tan-teng-niah",
@@ -11752,6 +12132,12 @@
   "reason": "publish gate: Clear, representative view of the London Eye landmark",
   "at": "2026-09-30T13:57:57.480Z"
  },
+ "london-oudh-1722\u0001https://fastly.4sqi.net/img/general/original/7350009_N50daV9Pq20ePweQK8AuvLTJy8JCNnaja8kuy-Qa44I.jpg": {
+  "slug": "london-oudh-1722",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Fine dining Indian cuisine, upscale plating, London restaura",
+  "at": "2026-10-01T23:30:15.650Z"
+ },
  "london-the-british-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/British_Museum_from_NE_2.JPG/1920px-British_Museum_from_NE_2.JPG": {
   "slug": "london-the-british-museum",
   "verdict": "MATCH",
@@ -11816,6 +12202,18 @@
   "reason": "Historic white church, El Pueblo architecture and setting",
   "reasonKo": "엘 푸에블로의 역사적 교회 건축",
   "at": "2026-08-09T13:34:18.695Z"
+ },
+ "los-angeles-firstborn\u0001https://fastly.4sqi.net/img/general/original/10706177_6MDPZPrAUEOetdzUqVQidcRjI1nfGjQkklMvcImT9Uw.jpg": {
+  "slug": "los-angeles-firstborn",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Incidental ceiling/lantern fragment, not representative restaurant view",
+  "at": "2026-10-01T23:30:23.713Z"
+ },
+ "los-angeles-firstborn\u0001https://fastly.4sqi.net/img/general/original/6707610_bOoH9__iSPN5lJPhj2x-O7JclXXh_Xir9vSOmbEiOCU.jpg": {
+  "slug": "los-angeles-firstborn",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Firstborn restaurant exterior, Los Angeles storefront",
+  "at": "2026-10-01T23:30:26.984Z"
  },
  "los-angeles-grand-central-market\u0001https://upload.wikimedia.org/wikipedia/commons/f/fe/Grand_central_market.jpg": {
   "slug": "los-angeles-grand-central-market",
@@ -12103,6 +12501,30 @@
   "verdict": "MATCH",
   "reason": "release check: Park with fountains, grass, and pathways matches waterfront park setting",
   "at": "2026-08-11T04:13:04.874Z"
+ },
+ "lucca-lucca-comics-and-games\u0001https://upload.wikimedia.org/wikipedia/commons/4/4b/Zerocalcare_-_Lucca_Comics_and_Games_2012.JPG": {
+  "slug": "lucca-lucca-comics-and-games",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic portrait unrelated to Lucca Comics and Games event",
+  "at": "2026-10-01T23:30:35.080Z"
+ },
+ "lucca-lucca-comics-and-games\u0001https://upload.wikimedia.org/wikipedia/commons/8/87/Jamie_Mathieson_-_Lucca_Comics_and_Games_2015.JPG": {
+  "slug": "lucca-lucca-comics-and-games",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Portrait of person, not event/venue imagery",
+  "at": "2026-10-01T23:30:43.262Z"
+ },
+ "lucca-lucca-comics-and-games\u0001https://upload.wikimedia.org/wikipedia/commons/d/d1/Tuono_Pettinato_-_Lucca_Comics_and_Games_2012.JPG": {
+  "slug": "lucca-lucca-comics-and-games",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic portrait with mic, not event-specific",
+  "at": "2026-10-01T23:30:37.267Z"
+ },
+ "lucca-lucca-comics-and-games\u0001https://upload.wikimedia.org/wikipedia/commons/d/da/Michael_Menzel_-_Lucca_Comics_and_Games_2015.JPG": {
+  "slug": "lucca-lucca-comics-and-games",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic portrait, no connection to the event shown",
+  "at": "2026-10-01T23:30:39.551Z"
  },
  "lyon-ayla\u0001https://fastly.4sqi.net/img/general/original/36586_cccPMIefbRlsxaAfqrmvYLsEnO8oYxWso1Q4bcLq2AA.jpg": {
   "slug": "lyon-ayla",
@@ -12575,6 +12997,12 @@
   "reason": "Alcazaba fortress walls, Malaga, Spain clearly visible",
   "at": "2026-07-27T12:49:43.401Z"
  },
+ "malaga-generali-malaga-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/4/43/Generali_%2827%29.jpg": {
+  "slug": "malaga-generali-malaga-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generali corporate presentation, not marathon event photo",
+  "at": "2026-10-01T23:31:44.005Z"
+ },
  "malaga-jardin-botanico-historico-la-concepcion\u0001https://fastly.4sqi.net/img/general/original/9989180_YQ9oJvlrnWL5qxR-J--OYK7WPjEFSFcIkn4F21JbGEM.jpg": {
   "slug": "malaga-jardin-botanico-historico-la-concepcion",
   "verdict": "MATCH",
@@ -12643,6 +13071,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior of Manchester Museum building, representative view",
   "at": "2026-09-30T14:00:29.267Z"
+ },
+ "manchester-sister-moon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sister_Moon_-_September_Moon_in_Rio_de_Janeiro.jpg/3840px-Sister_Moon_-_September_Moon_in_Rio_de_Janeiro.jpg": {
+  "slug": "manchester-sister-moon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Rio de Janeiro cityscape, not Manchester venue",
+  "at": "2026-10-01T23:31:51.771Z"
  },
  "mandalika-pertamina-grand-prix-of-indonesia-motogp-mandalika\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/MotoGP_di_Sirkuit_Balapan_Pertamina_Mandalika%2C_NTB%2C_Indonesia.jpg/1920px-MotoGP_di_Sirkuit_Balapan_Pertamina_Mandalika%2C_NTB%2C_Indonesia.jpg": {
   "slug": "mandalika-pertamina-grand-prix-of-indonesia-motogp-mandalika",
@@ -13133,6 +13567,54 @@
   "reason": "Pinacoteca di Brera courtyard with arcaded galleries",
   "reasonKo": "브레라 미술관의 아케이드 중정",
   "at": "2026-08-05T15:00:17.933Z"
+ },
+ "milan-procaccini\u0001https://fastly.4sqi.net/img/general/original/18255669_2XBqYaSp3VRVLUOtMp4Leug6AgnFl0SrOR-5-0KIxGM.jpg": {
+  "slug": "milan-procaccini",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: width: 612px < 640",
+  "at": "2026-10-01T23:32:14.263Z"
+ },
+ "milan-procaccini\u0001https://fastly.4sqi.net/img/general/original/26063584_8im5eI1puYnUUxgnWOpl9J2q_c1G_27-rvJkh7-6UvE.jpg": {
+  "slug": "milan-procaccini",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Random home interior, not representative of restaurant",
+  "at": "2026-10-01T23:32:10.203Z"
+ },
+ "milan-procaccini\u0001https://fastly.4sqi.net/img/general/original/35787594_K_beDZpxvxuW5xLcg-IKdYeT0_4sUIFGt_l2qRg9i6o.jpg": {
+  "slug": "milan-procaccini",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Street scene with parked cars, not restaurant venue",
+  "at": "2026-10-01T23:32:12.445Z"
+ },
+ "milan-procaccini\u0001https://fastly.4sqi.net/img/general/original/521563_JhtA7QusFBwN4rWRF8H2xunOQorhm3bw6POZKGhgm7o.jpg": {
+  "slug": "milan-procaccini",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Photo of flyers on a pole, not the restaurant",
+  "at": "2026-10-01T23:32:14.066Z"
+ },
+ "milan-procaccini\u0001https://live.staticflickr.com/95/217582569_52ea43359f_k.jpg": {
+  "slug": "milan-procaccini",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated monument with broken sculpture, not restaurant",
+  "at": "2026-10-01T23:32:17.445Z"
+ },
+ "milan-procaccini\u0001https://upload.wikimedia.org/wikipedia/commons/4/4c/9431_-_Milano_-_S._Angelo_-_Camillo_Procaccini%2C_Sposalizio_della_Vergine_-_Foto_Giovanni_Dall%27Orto_22-Apr-2007.jpg": {
+  "slug": "milan-procaccini",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Church interior, not a restaurant venue",
+  "at": "2026-10-01T23:32:19.461Z"
+ },
+ "milan-procaccini\u0001https://upload.wikimedia.org/wikipedia/commons/6/60/9485_-_Milano_-_S._Angelo_-_C._Procaccini%2C_S._Diego_guarisce_infermi_-_Foto_Giovanni_Dall%27Orto_22-Apr-2007.jpg": {
+  "slug": "milan-procaccini",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Church interior, not a restaurant venue",
+  "at": "2026-10-01T23:32:23.639Z"
+ },
+ "milan-procaccini\u0001https://upload.wikimedia.org/wikipedia/commons/b/b1/9487_-_Milano_-_S._Angelo_-_Camillo_Procaccini%2C_Affreschi_-_Foto_Giovanni_Dall%27Orto_22-Apr-2007.jpg": {
+  "slug": "milan-procaccini",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Church ceiling fresco, unrelated to restaurant venue",
+  "at": "2026-10-01T23:32:21.700Z"
  },
  "milan-sandi\u0001https://fastly.4sqi.net/img/general/original/6927758_10HXPzyv7io7Ns-v1k8A5jDr0PwVTaAAWbh4sv5Tx7k.jpg": {
   "slug": "milan-sandi",
@@ -13668,6 +14150,18 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior of brick industrial museum building, representative venue view",
   "at": "2026-08-25T08:04:37.898Z"
+ },
+ "naha-naha-great-tug-of-war\u0001https://upload.wikimedia.org/wikipedia/commons/1/1f/Naha_Great_Tug-of-War_Festival_rope_in_Ryukyu_Mura_%28building%29.jpg": {
+  "slug": "naha-naha-great-tug-of-war",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Ryukyu Village theme park, unrelated to tug-of-war event",
+  "at": "2026-10-01T23:33:08.990Z"
+ },
+ "naha-naha-great-tug-of-war\u0001https://upload.wikimedia.org/wikipedia/commons/b/b3/Naha_Great_Tug-of-War_Festival_rope_in_Ryukyu_Mura_%28detail%29.jpg": {
+  "slug": "naha-naha-great-tug-of-war",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Shop storefront, not event venue or tug-of-war",
+  "at": "2026-10-01T23:33:06.756Z"
  },
  "namangan-yangi-o-zbekiston-yoshlar-ziyo-maskani\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Yangi_O%CA%BBzbekiston_-_Yoshlar_Ziyo_Maskani.jpg/3840px-Yangi_O%CA%BBzbekiston_-_Yoshlar_Ziyo_Maskani.jpg": {
   "slug": "namangan-yangi-o-zbekiston-yoshlar-ziyo-maskani",
@@ -15327,6 +15821,18 @@
   "reasonKo": "사진이 631px로 너무 작음",
   "at": "2026-09-24T22:50:37.423Z"
  },
+ "paris-hando-champs-elysees\u0001https://fastly.4sqi.net/img/general/original/137091017_1W6yjCoOGARmUR5BNdgRaNXN9ZNGfBawhIHMfjjsfMI.jpg": {
+  "slug": "paris-hando-champs-elysees",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Fresh sushi/wrap with visible ingredients, trendy dining set",
+  "at": "2026-10-01T23:33:17.282Z"
+ },
+ "paris-hando-champs-elysees\u0001https://fastly.4sqi.net/img/general/original/137091017_mITOuRGkjSJ3iZAAQ1k81nYJdmj1QbUdBmmmQdIplpE.jpg": {
+  "slug": "paris-hando-champs-elysees",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Food preparation, not dining venue setting",
+  "at": "2026-10-01T23:33:14.347Z"
+ },
  "paris-jardin-du-luxembourg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LuxembourgMontparnasse.JPG/1920px-LuxembourgMontparnasse.JPG": {
   "slug": "paris-jardin-du-luxembourg",
   "verdict": "MATCH",
@@ -15859,6 +16365,12 @@
   "reason": "patrol reject: Nordic-style house, unrelated to Cambodia park or run",
   "at": "2026-09-24T22:46:15.103Z"
  },
+ "phnom-penh-cambodia-independence-day\u0001https://upload.wikimedia.org/wikipedia/commons/d/df/Cambodia._Independence_Park_in_Sihanoukville.jpg": {
+  "slug": "phnom-penh-cambodia-independence-day",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Khmer temple architecture, Phnom Penh landmark",
+  "at": "2026-10-01T23:33:48.268Z"
+ },
  "phnom-penh-celeste-revolving-sky-bar\u0001https://fastly.4sqi.net/img/general/original/14853074_rHI0XcwrvNXsJtlfWGFmRIZ9OMGAu7uEyV9FlBISrHc.jpg": {
   "slug": "phnom-penh-celeste-revolving-sky-bar",
   "verdict": "MISMATCH",
@@ -15889,6 +16401,30 @@
   "reason": "publish gate: Iconic stupa memorial building at Choeung Ek genocidal center",
   "at": "2026-08-26T09:31:59.405Z"
  },
+ "phnom-penh-gordon-ramsay-burger\u0001https://fastly.4sqi.net/img/general/original/4951781_EEvAG-z3NfRu8znVOuUK_iZ1nEeaWYJa4TfmbntQk88.jpg": {
+  "slug": "phnom-penh-gordon-ramsay-burger",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic cafe interior, not Gordon Ramsay Burger branded venue",
+  "at": "2026-10-01T23:33:54.463Z"
+ },
+ "phnom-penh-gordon-ramsay-burger\u0001https://fastly.4sqi.net/img/general/original/561324820_zLj_h5cINGq3o1Ne4XMafFDE67eXjYaCZd0ATx-2VMQ.jpg": {
+  "slug": "phnom-penh-gordon-ramsay-burger",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: credit names \"Cousin's Burger & Coffee\", post is \"Gordon Ramsay Burger\"",
+  "at": "2026-10-01T23:33:57.502Z"
+ },
+ "phnom-penh-gordon-ramsay-burger\u0001https://fastly.4sqi.net/img/general/original/563266_uZTMA29RZ5tu5gZNt2hU6nSE_YE8fLbMEW89wNX3gB0.jpg": {
+  "slug": "phnom-penh-gordon-ramsay-burger",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Close-up dish shot, not showing venue or place",
+  "at": "2026-10-01T23:34:00.654Z"
+ },
+ "phnom-penh-gordon-ramsay-burger\u0001https://fastly.4sqi.net/img/general/original/7818748_IhP5LRC7gVFDYnfodxtvhDGUqrUV-v7wYoEbrWRqrGU.jpg": {
+  "slug": "phnom-penh-gordon-ramsay-burger",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Close-up plated food, not showing venue setting",
+  "at": "2026-10-01T23:33:59.136Z"
+ },
  "phnom-penh-high-ground-sky-bar\u0001https://fastly.4sqi.net/img/general/original/68854733_VZziNyH7L7VOigNjDrn-rDCYbxeiClTuIB6W2m9M-aU.jpg": {
   "slug": "phnom-penh-high-ground-sky-bar",
   "verdict": "MISMATCH",
@@ -15912,6 +16448,30 @@
   "verdict": "MATCH",
   "reason": "patrol replace: High-end bar/restaurant with sophisticated aesthetic matchin",
   "at": "2026-09-10T21:53:37.079Z"
+ },
+ "phnom-penh-king-norodom-sihamoni-s-coronation-day\u0001https://upload.wikimedia.org/wikipedia/commons/1/15/King_Buffalo_in_concert.jpg": {
+  "slug": "phnom-penh-king-norodom-sihamoni-s-coronation-day",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Concert photo unrelated to royal coronation or palace",
+  "at": "2026-10-01T23:34:36.607Z"
+ },
+ "phnom-penh-king-norodom-sihamoni-s-coronation-day\u0001https://upload.wikimedia.org/wikipedia/commons/7/7d/King_Norodom.jpg": {
+  "slug": "phnom-penh-king-norodom-sihamoni-s-coronation-day",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: width: 863px < 1024",
+  "at": "2026-10-01T23:34:32.230Z"
+ },
+ "phnom-penh-king-norodom-sihamoni-s-coronation-day\u0001https://upload.wikimedia.org/wikipedia/commons/9/98/King_Princess_Boston_1.25.19.jpg": {
+  "slug": "phnom-penh-king-norodom-sihamoni-s-coronation-day",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Concert stage, unrelated to royal coronation event",
+  "at": "2026-10-01T23:34:38.151Z"
+ },
+ "phnom-penh-king-norodom-sihamoni-s-coronation-day\u0001https://upload.wikimedia.org/wikipedia/commons/e/e0/Norodom%2C_the_King_of_Cambodia_Wellcome_V0037202.jpg": {
+  "slug": "phnom-penh-king-norodom-sihamoni-s-coronation-day",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Old historical photo, not King Sihamoni's coronation",
+  "at": "2026-10-01T23:34:34.530Z"
  },
  "phnom-penh-riverside-walk-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tonle_sap_River%2C_walk_treet_riverside%2CSangkat_Phsar_Kandal_Ti_Muoy%2C_Phnom_Penh_12204%2C_Campuchia%2C25-06-16-Dyt_-_panoramio.jpg/3840px-Tonle_sap_River%2C_walk_treet_riverside%2CSangkat_Phsar_Kandal_Ti_Muoy%2C_Phnom_Penh_12204%2C_Campuchia%2C25-06-16-Dyt_-_panoramio.jpg": {
   "slug": "phnom-penh-riverside-walk-street",
@@ -16554,6 +17114,13 @@
   "reason": "publish gate: Shows temple gate entrance with signage, representative hero shot",
   "at": "2026-09-20T07:37:03.923Z"
  },
+ "quezon-city-louis-tomlinson-manila-concert\u0001https://upload.wikimedia.org/wikipedia/commons/9/9f/Louis_Tomlinson.jpg": {
+  "slug": "quezon-city-louis-tomlinson-manila-concert",
+  "verdict": "MISMATCH",
+  "reason": "hero is only 416px wide — unusable as a banner",
+  "reasonKo": "사진이 416px로 너무 작음",
+  "at": "2026-10-01T23:40:19.601Z"
+ },
  "quezon-city-mamamoo-2026-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mamamoo_in_2023.png/1920px-Mamamoo_in_2023.png": {
   "slug": "quezon-city-mamamoo-2026-world-tour",
   "verdict": "MATCH",
@@ -16672,6 +17239,18 @@
   "reasonKo": "리시케시 갠지스강 야간 가트 의식",
   "at": "2026-08-12T14:03:44.276Z"
  },
+ "rome-bob-dylan-rome-2026\u0001https://upload.wikimedia.org/wikipedia/commons/5/5e/Bob-Marley.jpg": {
+  "slug": "rome-bob-dylan-rome-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: width: 500px < 1024",
+  "at": "2026-10-01T23:36:21.238Z"
+ },
+ "rome-bob-dylan-rome-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Palazzo_dello_Sport_%28Rome%29_in_2018.11.jpg/3840px-Palazzo_dello_Sport_%28Rome%29_in_2018.11.jpg": {
+  "slug": "rome-bob-dylan-rome-2026",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Palazzo dello Sport exterior, Rome venue",
+  "at": "2026-10-01T23:36:30.336Z"
+ },
  "rome-colosseum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Colosseum_in_Rome-April_2007-1-_copie_2B.jpg/1920px-Colosseum_in_Rome-April_2007-1-_copie_2B.jpg": {
   "slug": "rome-colosseum",
   "verdict": "MATCH",
@@ -16770,6 +17349,24 @@
   "verdict": "MATCH",
   "reason": "patrol re-check: Real cafe table setting with food, plausible venue interior shot",
   "at": "2026-08-08T20:29:43.018Z"
+ },
+ "rome-osteria-chiari\u0001https://fastly.4sqi.net/img/general/original/212552590_donkXVqHcuCARUuAr2-vZKbt3nhhTBVWskgFBLxOE84.jpg": {
+  "slug": "rome-osteria-chiari",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Collage of dish close-ups, not venue interior/exterior",
+  "at": "2026-10-01T23:36:42.763Z"
+ },
+ "rome-osteria-chiari\u0001https://fastly.4sqi.net/img/general/original/212552590_pPQ0s8-e0i5g7X-xJSGEGCmculge1IK24yC4HxIOdAI.jpg": {
+  "slug": "rome-osteria-chiari",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Collage of menu board, messy plate, and street, not representative",
+  "at": "2026-10-01T23:36:40.951Z"
+ },
+ "rome-osteria-chiari\u0001https://fastly.4sqi.net/img/general/original/212552590_rJqegSMY2H787ZFceqn4VNLurSGnaRskX6rPygr7XYw.jpg": {
+  "slug": "rome-osteria-chiari",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Close-up wine glass, not representative venue hero shot",
+  "at": "2026-10-01T23:36:44.828Z"
  },
  "rome-pantheon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rome_%28IT%29%2C_Pantheon_--_2013_--_3572.jpg/3840px-Rome_%28IT%29%2C_Pantheon_--_2013_--_3572.jpg": {
   "slug": "rome-pantheon",
@@ -17205,6 +17802,30 @@
   "reason": "publish gate: Exterior view of San Telmo Museum building complex",
   "at": "2026-09-04T10:51:13.893Z"
  },
+ "san-sebastian-zurich-san-sebastian-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Zurich_airport_bike_box.jpg/3840px-Zurich_airport_bike_box.jpg": {
+  "slug": "san-sebastian-zurich-san-sebastian-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Airport interior with box, unrelated to marathon event",
+  "at": "2026-10-01T23:37:11.590Z"
+ },
+ "san-sebastian-zurich-san-sebastian-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/At_the_Zurich_Airport._Switzerland.jpg/3840px-At_the_Zurich_Airport._Switzerland.jpg": {
+  "slug": "san-sebastian-zurich-san-sebastian-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Chocolate shop interior, unrelated to marathon event",
+  "at": "2026-10-01T23:37:05.868Z"
+ },
+ "san-sebastian-zurich-san-sebastian-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Zurich_airport_img_3324.jpg/3840px-Zurich_airport_img_3324.jpg": {
+  "slug": "san-sebastian-zurich-san-sebastian-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Aerial airport photo, unrelated to marathon event",
+  "at": "2026-10-01T23:37:07.885Z"
+ },
+ "san-sebastian-zurich-san-sebastian-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flughafen_Zurich%2C_Zurich_%28Ank_Kumar%29_06.jpg/3840px-Flughafen_Zurich%2C_Zurich_%28Ank_Kumar%29_06.jpg": {
+  "slug": "san-sebastian-zurich-san-sebastian-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Zurich airport, unrelated to San Sebastián marathon event",
+  "at": "2026-10-01T23:37:16.160Z"
+ },
  "santiago-de-compostela-casco-historico-de-santiago-de-compostela\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Casco_hist%C3%B3rico_de_Santiago_de_Compostela%2C_avenida_de_Rodrigo_del_Padr%C3%B3n.jpg/3840px-Casco_hist%C3%B3rico_de_Santiago_de_Compostela%2C_avenida_de_Rodrigo_del_Padr%C3%B3n.jpg": {
   "slug": "santiago-de-compostela-casco-historico-de-santiago-de-compostela",
   "verdict": "MATCH",
@@ -17491,6 +18112,30 @@
   "reason": "Ancient temple ruins with column in Selcuk",
   "reasonKo": "셀축의 고대 사원 유적지 및 기둥",
   "at": "2026-08-12T14:03:54.423Z"
+ },
+ "seminyak-32do-bali\u0001https://fastly.4sqi.net/img/general/original/175798956_YXbJ5H1a4OlNZA2RffpsblYGjzFQdxEAEQvbEbw3lRw.jpg": {
+  "slug": "seminyak-32do-bali",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows helmeted rider on street, not venue",
+  "at": "2026-10-01T23:37:26.969Z"
+ },
+ "seminyak-32do-bali\u0001https://fastly.4sqi.net/img/general/original/1950268_6KIzi2G0i2UXptahKcDpV3paBxyItVCByg6jXAKlhcM.jpg": {
+  "slug": "seminyak-32do-bali",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Traditional Asian pavilion architecture, not Seminyak trendy venue",
+  "at": "2026-10-01T23:37:20.197Z"
+ },
+ "seminyak-32do-bali\u0001https://fastly.4sqi.net/img/general/original/314926_tzxOSMY6GkC33U-CLCPfpy7BxRWd5WQckppJhZi1Dwo.jpg": {
+  "slug": "seminyak-32do-bali",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Isolated plated dish, not venue place/interior shown",
+  "at": "2026-10-01T23:37:25.079Z"
+ },
+ "seminyak-32do-bali\u0001https://fastly.4sqi.net/img/general/original/371053813_EoFswncUVTevjClTornosbvTgY6uRV9grtYmKmA-aPI.jpg": {
+  "slug": "seminyak-32do-bali",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Upscale hotel lobby, not trendy restaurant/venue",
+  "at": "2026-10-01T23:37:23.190Z"
  },
  "sen-monorom-bousra-waterfall\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bousra_Waterfall.jpg/3840px-Bousra_Waterfall.jpg": {
   "slug": "sen-monorom-bousra-waterfall",
@@ -18141,6 +18786,24 @@
   "reason": "publish gate: Authentic Korean market alley with shops, signage, food stalls",
   "at": "2026-09-21T03:20:30.889Z"
  },
+ "seoul-nudake-tea-house-seongsu\u0001https://fastly.4sqi.net/img/general/original/15089414_-P6_F7Uiv7fvQBR3P94ey0PS6kDlbHBxH3jfwKlTT2k.jpg": {
+  "slug": "seoul-nudake-tea-house-seongsu",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Tea house interior with Korean signage, trendy aesthetic",
+  "at": "2026-10-01T23:37:48.808Z"
+ },
+ "seoul-nudake-tea-house-seongsu\u0001https://fastly.4sqi.net/img/general/original/5556746_gm4tdYCMujs7m51EayaAafn7O7XpACSDW_AXvv2jeEg.jpg": {
+  "slug": "seoul-nudake-tea-house-seongsu",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Different venue: appears to be Osulloc tea shop interior",
+  "at": "2026-10-01T23:37:43.986Z"
+ },
+ "seoul-nudake-tea-house-seongsu\u0001https://fastly.4sqi.net/img/general/original/8204227_ob23vOwpDvqEWqFg6FoHYcnoLuam_d5ogwan4uPu6Dc.jpg": {
+  "slug": "seoul-nudake-tea-house-seongsu",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Empty bowl on tray, not representative venue shot",
+  "at": "2026-10-01T23:37:45.836Z"
+ },
  "seoul-plant-cafe-seoul-yeonnam\u0001https://fastly.4sqi.net/img/general/original/1780186_eIf8PL6IGedrmVIrOq7seUtL5pmjTCyy5SXPIT9VOIc.jpg": {
   "slug": "seoul-plant-cafe-seoul-yeonnam",
   "verdict": "MATCH",
@@ -18433,6 +19096,12 @@
   "reason": "publish gate: Mountain landscape framed by trees, plausible national park view",
   "at": "2026-08-22T09:16:42.779Z"
  },
+ "shanghai-alma-luna\u0001https://upload.wikimedia.org/wikipedia/commons/c/cc/Sunset_at_Valle_de_la_Luna_%28rai-alma-4901%29.jpg": {
+  "slug": "shanghai-alma-luna",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Desert landscape, not Shanghai venue",
+  "at": "2026-10-01T23:37:57.093Z"
+ },
  "shanghai-atelier-kau-lou-opia\u0001https://fastly.4sqi.net/img/general/original/5046951_jwka7HI_3ld3Sf13aaD0C1-r8e3hRqplrq1V2g8vGoc.jpg": {
   "slug": "shanghai-atelier-kau-lou-opia",
   "verdict": "MISMATCH",
@@ -18444,6 +19113,43 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Storefront displays neon sign 'ATELIER DE TASTE BUD'",
   "at": "2026-09-24T22:48:04.329Z"
+ },
+ "shanghai-blossom\u0001https://fastly.4sqi.net/img/general/original/72068642_KQlsP0uh-WPKGIEAYwMtQQVkUhGEzzTu8GMiaNCyETI.jpg": {
+  "slug": "shanghai-blossom",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Modern Shanghai bar/restaurant interior, nightlife setting",
+  "at": "2026-10-01T23:38:02.266Z"
+ },
+ "shanghai-charlie-puth-whatever-s-clever-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/8/86/Charlie_Puth_2017_%28cropped%29.jpg": {
+  "slug": "shanghai-charlie-puth-whatever-s-clever-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "hero is only 533px wide — unusable as a banner",
+  "reasonKo": "사진이 533px로 너무 작음",
+  "at": "2026-10-01T23:40:19.602Z"
+ },
+ "shanghai-china-international-import-expo-ciie\u0001https://upload.wikimedia.org/wikipedia/commons/5/5c/Feria_CIIE_Shanghai_%2849033998922%29.jpg": {
+  "slug": "shanghai-china-international-import-expo-ciie",
+  "verdict": "MATCH",
+  "reason": "patrol replace: CIIE venue exterior with signage visible",
+  "at": "2026-10-01T23:38:19.659Z"
+ },
+ "shanghai-china-international-import-expo-ciie\u0001https://upload.wikimedia.org/wikipedia/commons/c/c7/G-CIIE_%2827439411057%29.jpg": {
+  "slug": "shanghai-china-international-import-expo-ciie",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Hot air balloons, unrelated to Shanghai trade expo venue",
+  "at": "2026-10-01T23:38:11.919Z"
+ },
+ "shanghai-china-international-import-expo-ciie\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CR450_models_in_CIIE_2025.jpg/3840px-CR450_models_in_CIIE_2025.jpg": {
+  "slug": "shanghai-china-international-import-expo-ciie",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: CGI train render, unrelated to import expo venue",
+  "at": "2026-10-01T23:38:10.170Z"
+ },
+ "shanghai-china-international-import-expo-ciie\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/CIIE%2C_IIM_Ahmedabad.jpg/3840px-CIIE%2C_IIM_Ahmedabad.jpg": {
+  "slug": "shanghai-china-international-import-expo-ciie",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Different venue (CIIE.CO building, not NECC Shanghai)",
+  "at": "2026-10-01T23:38:16.772Z"
  },
  "shanghai-chinajoy\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ChinaJoy_2025_-_General_11.jpg/1920px-ChinaJoy_2025_-_General_11.jpg": {
   "slug": "shanghai-chinajoy",
@@ -19133,6 +19839,18 @@
   "reason": "event-mode back-audit: Concert stage performance photo, valid for tour event hero",
   "at": "2026-08-07T13:04:44.722Z"
  },
+ "singapore-deepavali-diwali-little-india-festival\u0001https://live.staticflickr.com/1964/43702256440_030c986c2a_b.jpg": {
+  "slug": "singapore-deepavali-diwali-little-india-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: width: 1023px < 1024",
+  "at": "2026-10-01T23:38:38.306Z"
+ },
+ "singapore-deepavali-diwali-little-india-festival\u0001https://live.staticflickr.com/2575/4012378376_0eacd3347e_b.jpg": {
+  "slug": "singapore-deepavali-diwali-little-india-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible photographer watermark/credit overlaid on image",
+  "at": "2026-10-01T23:38:37.296Z"
+ },
  "singapore-formula-1-singapore-grand-prix-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Scuderia_Toro_Rosso_Spare_Front_Wings_2018_Singapore_Grand_Prix.jpg/3840px-Scuderia_Toro_Rosso_Spare_Front_Wings_2018_Singapore_Grand_Prix.jpg": {
   "slug": "singapore-formula-1-singapore-grand-prix-2026",
   "verdict": "MATCH",
@@ -19156,6 +19874,12 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Trendy Singapore bar/restaurant with modern ambiance",
   "at": "2026-09-17T22:25:01.473Z"
+ },
+ "singapore-hikiniku-to-come\u0001https://fastly.4sqi.net/img/general/original/87152124_2j2WXiMJA3tNtWVdODp_U4ZsmyAe8EyFmvDhDrMCeQQ.jpg": {
+  "slug": "singapore-hikiniku-to-come",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Hikiniku yakiniku setup with rice, soup, grilling station",
+  "at": "2026-10-01T23:38:43.875Z"
  },
  "singapore-house-of-tan-yeok-nee\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/House_of_Tan_Yeok_Nee_-_20250719_-_RSKY_-_02.jpg/1920px-House_of_Tan_Yeok_Nee_-_20250719_-_RSKY_-_02.jpg": {
   "slug": "singapore-house-of-tan-yeok-nee",
@@ -19206,6 +19930,30 @@
   "verdict": "MATCH",
   "reason": "patrol re-check: Bar drinks setup consistent with trendy Singapore venue interior",
   "at": "2026-08-08T20:35:37.926Z"
+ },
+ "singapore-mozmoji\u0001https://fastly.4sqi.net/img/general/original/51058052_JWBLhh5hYno5zwKiwUr79tRtUTM0mqg4-HElFgEb4w8.jpg": {
+  "slug": "singapore-mozmoji",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Museum/gallery interior, not a restaurant venue",
+  "at": "2026-10-01T23:38:52.112Z"
+ },
+ "singapore-mozmoji\u0001https://fastly.4sqi.net/img/general/original/51058052_L8xhlvMyjG7ODFIMf1mhC9hoB4meFYlTJZ0hXIPUR94.jpg": {
+  "slug": "singapore-mozmoji",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Museum/gallery display, not a restaurant or food venue",
+  "at": "2026-10-01T23:38:54.976Z"
+ },
+ "singapore-mozmoji\u0001https://fastly.4sqi.net/img/general/original/5931716_S3lmY0V3wvZA8MWaIOLv7zMNPwMI3Lj3t1y3sp_1Sc8.jpg": {
+  "slug": "singapore-mozmoji",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Museum/gallery display, not a restaurant venue",
+  "at": "2026-10-01T23:38:49.176Z"
+ },
+ "singapore-mozmoji\u0001https://fastly.4sqi.net/img/general/original/5931716_owcoQvnqujp-kZDFrvBVcIzctoLMmkUn3WDA52WVvnw.jpg": {
+  "slug": "singapore-mozmoji",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Storefront clearly shows Mozmoji signage and entrance",
+  "at": "2026-10-01T23:38:57.960Z"
  },
  "singapore-my-chemical-romance-reunion-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/My_Chemical_Romance_%40_Wembley_Stadium%2C_11_July_2026_B-Stage_03.jpg/1920px-My_Chemical_Romance_%40_Wembley_Stadium%2C_11_July_2026_B-Stage_03.jpg": {
   "slug": "singapore-my-chemical-romance-reunion-tour",
@@ -20480,6 +21228,12 @@
   "reason": "publish gate: Equestrian statue in park, matches Tashkent landmark",
   "at": "2026-09-20T12:33:34.402Z"
  },
+ "tashkent-bon\u0001https://fastly.4sqi.net/img/general/original/56026411_FS3jqrCtXEnlO-4gONBG9KFYKWkcE998EuS35WGpcPk.jpg": {
+  "slug": "tashkent-bon",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Upscale bakery interior with pastries, croissants, Tashkent ",
+  "at": "2026-10-01T23:39:11.430Z"
+ },
  "tashkent-caravan\u0001https://fastly.4sqi.net/img/general/original/4848437_iFCAhw4haGiiI89O820LjABwptJFGMTJi7uMBdlLjFY.jpg": {
   "slug": "tashkent-caravan",
   "verdict": "MATCH",
@@ -20781,6 +21535,12 @@
   "reason": "publish gate: Aerial night view of Tashkent City Park, representative overview",
   "at": "2026-08-22T09:17:32.122Z"
  },
+ "tempe-filthy-animal\u0001https://fastly.4sqi.net/img/general/original/3889560_FTrSqea-sypNAwiCrodaKMEaXe4qihbcThzpqTRdsc4.jpg": {
+  "slug": "tempe-filthy-animal",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Filthy Animal storefront clearly visible, Tempe street",
+  "at": "2026-10-01T23:39:29.479Z"
+ },
  "termez-eco-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Eco_Park_in_Tashkent.jpg/3840px-Eco_Park_in_Tashkent.jpg": {
   "slug": "termez-eco-park",
   "verdict": "MATCH",
@@ -20856,6 +21616,30 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Bar interior with spirits, Japanese aesthetic, trendy settin",
   "at": "2026-09-10T21:56:04.189Z"
+ },
+ "tokyo-chez-calvert\u0001https://fastly.4sqi.net/img/general/original/105403_P6Spg16hKbvifZXhcHcv8jreNXnlu0jaZNfQhvCfV2g.jpg": {
+  "slug": "tokyo-chez-calvert",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Different bakery name shown, not Chez Calvert",
+  "at": "2026-10-01T23:39:39.440Z"
+ },
+ "tokyo-chez-calvert\u0001https://fastly.4sqi.net/img/general/original/105403_tadsdSI5jJ2ly8_sjV5GNEqeoFCG-Gf-kmvcEi0vj3Q.jpg": {
+  "slug": "tokyo-chez-calvert",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: French bakery storefront, not Tokyo restaurant",
+  "at": "2026-10-01T23:39:37.762Z"
+ },
+ "tokyo-chez-calvert\u0001https://fastly.4sqi.net/img/general/original/5333524_nQr51oUGGTmXmsxSJ0MGPZYlP7cv2XuIJotF6IdA9gQ.jpg": {
+  "slug": "tokyo-chez-calvert",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Different bakery name shown, price sign photo, wrong venue",
+  "at": "2026-10-01T23:39:44.325Z"
+ },
+ "tokyo-chez-calvert\u0001https://fastly.4sqi.net/img/general/original/69344056_LjLPi5TGWikTjr0qR18eyDNprLtc5YyGazf6tkAlhRo.jpg": {
+  "slug": "tokyo-chez-calvert",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: French bakery storefront, not Tokyo restaurant",
+  "at": "2026-10-01T23:39:42.453Z"
  },
  "tokyo-chiikawa-ramen-buta\u0001https://fastly.4sqi.net/img/general/original/1206726_Y_rgl40n0Vn0LIfqUBqmAf9AKfneV2D0ocvQouzax4M.jpg": {
   "slug": "tokyo-chiikawa-ramen-buta",
@@ -20997,6 +21781,18 @@
   "verdict": "MISMATCH",
   "reason": "Baseball stadium, not Meiji Jingu shrine",
   "at": "2026-07-25T02:50:22.626Z"
+ },
+ "tokyo-mia-mia-kuramae\u0001https://fastly.4sqi.net/img/general/original/181229295_cHSQxtAmK-96uvwThZjLQx1TvHhQWcSHZ5l8LflIv58.jpg": {
+  "slug": "tokyo-mia-mia-kuramae",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Coffee bar interior with espresso machine, Japanese aestheti",
+  "at": "2026-10-01T23:39:51.667Z"
+ },
+ "tokyo-mia-mia-kuramae\u0001https://fastly.4sqi.net/img/general/original/181229295_jBJwz0203LzhgVkg5ZTp8B1PDfmQ9piS4ox5-uftr78.jpg": {
+  "slug": "tokyo-mia-mia-kuramae",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Isolated drink/dessert shot, not venue interior or exterior",
+  "at": "2026-10-01T23:39:48.695Z"
  },
  "tokyo-miss-international-2026\u0001https://upload.wikimedia.org/wikipedia/commons/7/79/MISS_INTERNATIONAL_CHILE_2026.jpg": {
   "slug": "tokyo-miss-international-2026",
@@ -22358,6 +23154,18 @@
   "reason": "publish gate: Plausible park view with bridge, garden, and pergolas",
   "at": "2026-09-19T07:46:44.263Z"
  },
+ "yokohama-iron-maiden-run-for-your-lives-tour\u0001https://upload.wikimedia.org/wikipedia/commons/a/a8/Iron_Maiden_live_in_Madrid_13_July_2016.jpg": {
+  "slug": "yokohama-iron-maiden-run-for-your-lives-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible photographer watermark overlaid on image",
+  "at": "2026-10-01T23:39:58.469Z"
+ },
+ "yokohama-iron-maiden-run-for-your-lives-tour\u0001https://upload.wikimedia.org/wikipedia/commons/f/fe/Iron_Maiden_%E2%80%93_Tons_of_Rock_2026_02.jpg": {
+  "slug": "yokohama-iron-maiden-run-for-your-lives-tour",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Iron Maiden performers on stage with concert backdrop",
+  "at": "2026-10-01T23:40:01.925Z"
+ },
  "yokohama-manchinro\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Manchinro.JPG/1920px-Manchinro.JPG": {
   "slug": "yokohama-manchinro",
   "verdict": "MATCH",
@@ -22424,6 +23232,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior storefront with visible Skosh signage, representative hero",
   "at": "2026-10-01T14:49:47.334Z"
+ },
+ "york-york-city-walls\u0001https://fastly.4sqi.net/img/general/original/12455_3WB_ev2Yf4SCJQeWp2NnTRY8EggrTJmqA9ibutf-isU.jpg": {
+  "slug": "york-york-city-walls",
+  "verdict": "MATCH",
+  "reason": "patrol replace: York city walls, medieval architecture, authentic setting",
+  "at": "2026-10-01T23:40:09.528Z"
  },
  "york-york-city-walls\u0001https://upload.wikimedia.org/wikipedia/commons/b/b7/York_city.jpg": {
   "slug": "york-york-city-walls",

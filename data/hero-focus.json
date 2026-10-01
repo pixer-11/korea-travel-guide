@@ -5584,5 +5584,147 @@
    "x": 50,
    "y": 50
   }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Skyline_alba_02.jpg/1280px-Skyline_alba_02.jpg": {
+  "w": 1280,
+  "h": 960,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/0027jfBarangays_Taal_Tambubong_Batia_Bocaue_Bulacan_Fields_Roadsfvf_08.jpg/1280px-0027jfBarangays_Taal_Tambubong_Batia_Bocaue_Bulacan_Fields_Roadsfvf_08.jpg": {
+  "w": 1280,
+  "h": 960,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/9/91/Hanoi_Vietnam_Transport-in-Hanoi-03.jpg": {
+  "w": 3703,
+  "h": 2645,
+  "focus": {
+   "x": 32,
+   "y": 15,
+   "top": 8,
+   "bottom": 22
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/8/8d/Hong_Kong_skyscrapers_in_a_night_of_typhoon.jpg": {
+  "w": 2300,
+  "h": 1528,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/2/21/Jakarta_old_football.jpg": {
+  "w": 2560,
+  "h": 1920,
+  "focus": {
+   "x": 50,
+   "y": 20,
+   "top": 8,
+   "bottom": 32
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Jakarta_Indonesia_Business-in-Kota-Jakarta-01.jpg/3840px-Jakarta_Indonesia_Business-in-Kota-Jakarta-01.jpg": {
+  "w": 3840,
+  "h": 1660,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Jakarta_Indonesia_Hawkers-in-Kota-Jakarta-01.jpg/3840px-Jakarta_Indonesia_Hawkers-in-Kota-Jakarta-01.jpg": {
+  "w": 3840,
+  "h": 2967,
+  "focus": {
+   "x": 45,
+   "y": 27,
+   "top": 18,
+   "bottom": 35
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/b/bd/Hilton_Garden_Inn%2C_Konya.jpg": {
+  "w": 3772,
+  "h": 2575,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Das_gros_hertzogthum_Florentz_und_die_Republic_Lucca_-_gestochen_und_su_finden_bey_Johann_George_Schreibern_in_Leipzig._%28to_%28IA_dr_das-gros-hertzogthum-florentz-und-die-republic-lucca-gestochen-und-su-fin-11208028%29.jpg/1280px-thumbnail.jpg": {
+  "w": 1280,
+  "h": 878,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Catedral_de_la_Almudena%2C_Madrid%2C_Espa%C3%B1a%2C_2014-12-27%2C_DD_23.JPG/3840px-Catedral_de_la_Almudena%2C_Madrid%2C_Espa%C3%B1a%2C_2014-12-27%2C_DD_23.JPG": {
+  "w": 3840,
+  "h": 1920,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/M%C3%A1laga_town_hall.jpg/1280px-M%C3%A1laga_town_hall.jpg": {
+  "w": 1280,
+  "h": 960,
+  "focus": {
+   "x": 25,
+   "y": 30
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Naha_Okinawa_Japan_Naha-City-Hall-01.jpg/1280px-Naha_Okinawa_Japan_Naha-City-Hall-01.jpg": {
+  "w": 1280,
+  "h": 989,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Srebrna_Pagoda_%2802%29.jpg/3840px-2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Srebrna_Pagoda_%2802%29.jpg": {
+  "w": 3840,
+  "h": 2800,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Allan_Jay_Quesada_Quezon_Monument_DSC_2689.jpg/1280px-Allan_Jay_Quesada_Quezon_Monument_DSC_2689.jpg": {
+  "w": 1280,
+  "h": 858,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Iglesia_de_San_Sebasti%C3%A1n%2C_Ponta_Delgada%2C_isla_de_San_Miguel%2C_Azores%2C_Portugal%2C_2020-07-29%2C_DD_117-119_HDR.jpg/1280px-Iglesia_de_San_Sebasti%C3%A1n%2C_Ponta_Delgada%2C_isla_de_San_Miguel%2C_Azores%2C_Portugal%2C_2020-07-29%2C_DD_117-119_HDR.jpg": {
+  "w": 1280,
+  "h": 1066,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Pudong_Shanghai_November_2017_panorama.jpg/3840px-Pudong_Shanghai_November_2017_panorama.jpg": {
+  "w": 3840,
+  "h": 1920,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/1_singapore_national_day_parade_2011_fireworks.jpg/3840px-1_singapore_national_day_parade_2011_fireworks.jpg": {
+  "w": 3840,
+  "h": 2555,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
  }
 }

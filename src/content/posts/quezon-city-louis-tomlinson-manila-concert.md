@@ -1,6 +1,9 @@
 ---
 title: 'Louis Tomlinson Manila Concert: Dates, Tickets & Venue (Quezon City)'
-description: The Louis Tomlinson Manila Concert takes place on October 17, 2026 at Smart Araneta Coliseum in Cubao, Quezon City, the domed arena locals call the Big Dome.
+description: >-
+  The Louis Tomlinson Manila Concert takes place on October 17, 2026 at Smart
+  Araneta Coliseum in Cubao, Quezon City, the domed arena locals call the Big
+  Dome.
 country: Philippines
 region: Quezon City
 category: event
@@ -14,31 +17,51 @@ eventPerformer:
   kind: person
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/9/9f/Louis_Tomlinson.jpg
-  credit: 'Photo: BrittneyATambeau / Wikimedia Commons (CC BY 2.0)'
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Allan_Jay_Quesada_Quezon_Monument_DSC_2689.jpg/1280px-Allan_Jay_Quesada_Quezon_Monument_DSC_2689.jpg'
+  credit: 'Photo: Allan Jay Quesada (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Louis_Tomlinson.jpg
+  source: 'File:Allan Jay Quesada Quezon Monument DSC 2689.jpg'
   focus:
     x: 50
-    'y': 18
-    top: 5
-    bottom: 30
+    y: 50
 gallery: []
 tags:
   - quezon city
   - event
-quickAnswer: The Louis Tomlinson Manila Concert takes place on October 17, 2026 at Smart Araneta Coliseum in Cubao, Quezon City, the domed arena locals call the Big Dome. It is easiest to reach by MRT-3 or LRT-2 to Araneta Center–Cubao station. Confirm timing, seating and tickets on the official site and the promoter's channels before you buy.
+quickAnswer: >-
+  The Louis Tomlinson Manila Concert takes place on October 17, 2026 at Smart
+  Araneta Coliseum in Cubao, Quezon City, the domed arena locals call the Big
+  Dome. It is easiest to reach by MRT-3 or LRT-2 to Araneta Center–Cubao
+  station. Confirm timing, seating and tickets on the official site and the
+  promoter's channels before you buy.
 faq:
   - q: When and where is the Louis Tomlinson Manila concert?
-    a: It was announced for October 17, 2026 at Smart Araneta Coliseum in Araneta City, Cubao, Quezon City. Confirm exact timing on the official site and the promoter's announcement.
+    a: >-
+      It was announced for October 17, 2026 at Smart Araneta Coliseum in Araneta
+      City, Cubao, Quezon City. Confirm exact timing on the official site and
+      the promoter's announcement.
   - q: What is the best way to get to Smart Araneta Coliseum?
-    a: Take the MRT-3 or LRT-2 to Araneta Center–Cubao station, then walk through or alongside Gateway Mall to the Coliseum. Rail is usually faster than driving on EDSA on a concert night.
+    a: >-
+      Take the MRT-3 or LRT-2 to Araneta Center–Cubao station, then walk through
+      or alongside Gateway Mall to the Coliseum. Rail is usually faster than
+      driving on EDSA on a concert night.
   - q: Where should I buy tickets?
-    a: Buy only from the ticket seller named in the official announcement. TicketNet has long been the Coliseum's ticketing partner. Avoid unofficial resellers, because those tickets may not scan at the gate.
+    a: >-
+      Buy only from the ticket seller named in the official announcement.
+      TicketNet has long been the Coliseum's ticketing partner. Avoid unofficial
+      resellers, because those tickets may not scan at the gate.
   - q: Which seats give the best view?
-    a: Floor and Patron seats are closest to the stage. Lower Box gives a raised side view that many regulars like for sightlines. Upper Box and General Admission are high in the bowl. Check this show's official seat map, because layouts vary.
+    a: >-
+      Floor and Patron seats are closest to the stage. Lower Box gives a raised
+      side view that many regulars like for sightlines. Upper Box and General
+      Admission are high in the bowl. Check this show's official seat map,
+      because layouts vary.
   - q: What is there to do nearby before or after the show?
-    a: Gateway Mall, Ali Mall and Farmers Plaza surround the Coliseum and have plenty of places to eat. Cubao Expo, a former shoe market turned into small bars and vintage shops, is a short walk away. Novotel Manila Araneta City is inside the complex if you want to stay overnight.
+    a: >-
+      Gateway Mall, Ali Mall and Farmers Plaza surround the Coliseum and have
+      plenty of places to eat. Cubao Expo, a former shoe market turned into
+      small bars and vintage shops, is a short walk away. Novotel Manila Araneta
+      City is inside the complex if you want to stay overnight.
 aiGenerated: true
 draft: false
 ---

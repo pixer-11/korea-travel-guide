@@ -5,7 +5,6 @@ country: Japan
 region: Tokyo
 category: hidden-gem
 pubDate: '2026-10-01'
-gallery: []
 tags:
   - tokyo
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What else is near Mia Mia Kuramae?
     a: Nearby are Kakimori stationery, Dandelion Chocolate's Kuramae factory café, the Sumida River promenade with Tokyo Skytree views, and Senso-ji in Asakusa, one stop north.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/181229295_cHSQxtAmK-96uvwThZjLQx1TvHhQWcSHZ5l8LflIv58.jpg
+  credit: 'Photo: Foursquare user content (MIA MIA Kuramae)'
+  license: foursquare
+  source: https://foursquare.com/v/689ff8812f19a2086f882631
+  focus:
+    x: 50
+    'y': 55
 ---
 
 ## A rice mill that now pours lattes

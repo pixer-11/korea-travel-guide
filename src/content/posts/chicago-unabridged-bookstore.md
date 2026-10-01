@@ -1,57 +1,52 @@
 ---
-title: "Unabridged Bookstore: Chicago Travel Guide (4.9★)"
-description: "Unabridged Bookstore is a longtime independent shop on North Broadway in Chicago's Lakeview neighborhood, a short walk from the Belmont Red/Brown/Purple Line stop. 4.9★ (1,237 reviews) — what visitors say, hours, and tips."
-country: "United States"
-region: "Chicago"
-category: "hidden-gem"
-pubDate: "2026-09-23T07:42:05.883Z"
+title: 'Unabridged Bookstore: Chicago Travel Guide (4.9★)'
+description: Unabridged Bookstore is a longtime independent shop on North Broadway in Chicago's Lakeview neighborhood, a short walk from the Belmont Red/Brown/Purple Line stop. 4.9★ (1,237 reviews) — what visitors say, hours, and tips.
+country: United States
+region: Chicago
+category: hidden-gem
+pubDate: '2026-09-23T07:42:05.883Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Classic_storefront.jpg"
-  credit: "Photo: Nemammal / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Classic_storefront.jpg"
+  url: https://fastly.4sqi.net/img/general/original/1356636_-ghPmUx0o3QDBsBQzexSaK-JY5ICGHI_PpJbGBYNcRw.jpg
+  credit: 'Photo: Foursquare user content (Unabridged Books)'
+  license: foursquare
+  source: https://foursquare.com/v/4a9046daf964a520ff1620e3
   focus:
-    x: 40
-    y: 60
-gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/1356636_-ghPmUx0o3QDBsBQzexSaK-JY5ICGHI_PpJbGBYNcRw.jpg"
-    credit: "Photo: Foursquare user content (Unabridged Books)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4a9046daf964a520ff1620e3"
+    x: 50
+    'y': 50
 place:
-  id: "ChIJmR8_a6TTD4gRass8b6g4n1U"
-  name: "Unabridged Bookstore"
-  address: "3251 N Broadway, Chicago, IL 60657, USA"
+  id: ChIJmR8_a6TTD4gRass8b6g4n1U
+  name: Unabridged Bookstore
+  address: 3251 N Broadway, Chicago, IL 60657, USA
   rating: 4.9
   userRatingsTotal: 1237
-  googleMapsUrl: "https://maps.google.com/?cid=6169712310592785258&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=6169712310592785258&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 41.9416387
   lng: -87.6442926
-  phone: "+1 773-883-9119"
+  phone: +1 773-883-9119
   openingHours:
-    - "Monday: 10:00 AM – 7:00 PM"
-    - "Tuesday: 10:00 AM – 7:00 PM"
-    - "Wednesday: 10:00 AM – 7:00 PM"
-    - "Thursday: 10:00 AM – 7:00 PM"
-    - "Friday: 10:00 AM – 7:00 PM"
-    - "Saturday: 10:00 AM – 7:00 PM"
-    - "Sunday: 10:00 AM – 7:00 PM"
+    - 'Monday: 10:00 AM – 7:00 PM'
+    - 'Tuesday: 10:00 AM – 7:00 PM'
+    - 'Wednesday: 10:00 AM – 7:00 PM'
+    - 'Thursday: 10:00 AM – 7:00 PM'
+    - 'Friday: 10:00 AM – 7:00 PM'
+    - 'Saturday: 10:00 AM – 7:00 PM'
+    - 'Sunday: 10:00 AM – 7:00 PM'
 tags:
-  - "chicago"
-  - "bookshop"
-quickAnswer: "Unabridged Bookstore is a longtime independent shop on North Broadway in Chicago's Lakeview neighborhood, a short walk from the Belmont Red/Brown/Purple Line stop. It's open every day from 10am to 7pm, so there's no need to time it around a closing rush. Go for the LGBT literature section and the children's books, both deep enough to justify the trip even if you came in for something else."
+  - chicago
+  - bookshop
+quickAnswer: Unabridged Bookstore is a longtime independent shop on North Broadway in Chicago's Lakeview neighborhood, a short walk from the Belmont Red/Brown/Purple Line stop. It's open every day from 10am to 7pm, so there's no need to time it around a closing rush. Go for the LGBT literature section and the children's books, both deep enough to justify the trip even if you came in for something else.
 faq:
-  - q: "How do I get to Unabridged Bookstore without a car?"
-    a: "Take the Red, Brown or Purple Line to Belmont station and walk about ten minutes east to 3251 N Broadway. Several bus routes along Broadway and Halsted also stop nearby."
-  - q: "What is Unabridged Bookstore known for?"
-    a: "It's known for a deep LGBT literature section and a large, well-curated children's book room, on top of a solid general fiction and nonfiction selection."
-  - q: "What are the opening hours?"
-    a: "The store keeps the same hours every day of the week, 10am to 7pm, with no early Sunday closing."
-  - q: "Is Unabridged Bookstore a hidden gem or a busy spot?"
-    a: "It's well-known in Chicago's book scene, so expect other browsers, especially on weekends. Weekday mornings soon after opening tend to be quieter."
-  - q: "What else is near Unabridged Bookstore?"
-    a: "It's in Lakeview, close to Boystown's Halsted Street strip, Wrigley Field, and a stretch of Broadway lined with diners and coffee shops worth pairing with the visit."
+  - q: How do I get to Unabridged Bookstore without a car?
+    a: Take the Red, Brown or Purple Line to Belmont station and walk about ten minutes east to 3251 N Broadway. Several bus routes along Broadway and Halsted also stop nearby.
+  - q: What is Unabridged Bookstore known for?
+    a: It's known for a deep LGBT literature section and a large, well-curated children's book room, on top of a solid general fiction and nonfiction selection.
+  - q: What are the opening hours?
+    a: The store keeps the same hours every day of the week, 10am to 7pm, with no early Sunday closing.
+  - q: Is Unabridged Bookstore a hidden gem or a busy spot?
+    a: It's well-known in Chicago's book scene, so expect other browsers, especially on weekends. Weekday mornings soon after opening tend to be quieter.
+  - q: What else is near Unabridged Bookstore?
+    a: It's in Lakeview, close to Boystown's Halsted Street strip, Wrigley Field, and a stretch of Broadway lined with diners and coffee shops worth pairing with the visit.
 aiGenerated: true
 draft: false
 ---

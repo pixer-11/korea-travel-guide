@@ -5,7 +5,6 @@ country: Malaysia
 region: Kuala Lumpur
 category: trendy
 pubDate: '2026-10-01'
-gallery: []
 tags:
   - kuala lumpur
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Should I tip?
     a: It's usually not necessary. Many Kuala Lumpur venues add a service charge and tax to the bill, so check the receipt first. Leaving a little extra for good service is optional.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/82157707_hHDOQB3PQrvkHcSqVFuQZavMgOhGI8wB8-jp2WvFKls.jpg
+  credit: 'Photo: Foursquare user content (Suzie Wong)'
+  license: foursquare
+  source: https://foursquare.com/v/5800f95f38fa97dbeb67e133
+  focus:
+    x: 50
+    'y': 40
 ---
 
 ## A name Kuala Lumpur already knows

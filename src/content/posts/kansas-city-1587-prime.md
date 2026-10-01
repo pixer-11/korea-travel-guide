@@ -5,7 +5,6 @@ country: United States
 region: Kansas City
 category: trendy
 pubDate: '2026-10-01'
-gallery: []
 tags:
   - kansas city
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What's nearby for after dinner?
     a: The Power & Light District downtown has bars and late-night venues, and the Crossroads Arts District is a short ride away for cocktail bars and galleries.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/6295745_Fgurh_SbVwsZAypbNgr4NwMTNC9MTNDf7p3q0f6GgOw.jpg
+  credit: 'Photo: Foursquare user content (1587 Prime)'
+  license: foursquare
+  source: https://foursquare.com/v/68d8bc04eb8be3052ba57573
+  focus:
+    x: 50
+    'y': 55
 ---
 
 ## Two jersey numbers on the door

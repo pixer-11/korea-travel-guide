@@ -5,7 +5,6 @@ country: Singapore
 region: Singapore
 category: restaurant
 pubDate: '2026-10-01'
-gallery: []
 tags:
   - singapore
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What is nearby?
     a: VivoCity is the gateway to Sentosa. The Sentosa Express leaves from the mall's upper level and the Sentosa Boardwalk starts next door. The Mount Faber cable car leaves from HarbourFront Tower close by.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/87152124_2j2WXiMJA3tNtWVdODp_U4ZsmyAe8EyFmvDhDrMCeQQ.jpg
+  credit: 'Photo: Foursquare user content (Hikiniku To Come)'
+  license: foursquare
+  source: https://foursquare.com/v/6a1bf8a79d4e292b882c8bb1
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## Minced meat and rice, nothing else

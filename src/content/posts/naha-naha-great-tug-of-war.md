@@ -13,6 +13,14 @@ eventOffers:
   free: true
   currency: JPY
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Naha_Okinawa_Japan_Naha-City-Hall-01.jpg/1280px-Naha_Okinawa_Japan_Naha-City-Hall-01.jpg'
+  credit: 'Photo: CEphoto, Uwe Aranas (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'File:Naha Okinawa Japan Naha-City-Hall-01.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - naha

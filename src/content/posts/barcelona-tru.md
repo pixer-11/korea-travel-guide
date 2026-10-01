@@ -5,7 +5,6 @@ country: Spain
 region: Barcelona
 category: trendy
 pubDate: '2026-10-01'
-gallery: []
 tags:
   - barcelona
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: How is Trü different from Aürt?
     a: Aürt is Martínez's starred fine-dining restaurant at the Hilton Diagonal Mar. Trü is the informal version, a more casual meal from the same chef without the format of a long tasting menu.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/70817453_bEbetBtyiNyRgQKpJGSSgqrCNW_x8KsJ_iq7pPFXUoE.jpg
+  credit: 'Photo: Foursquare user content (Trü)'
+  license: foursquare
+  source: https://foursquare.com/v/6a3f0f7c7249ca6bcd25f7c7
+  focus:
+    x: 48
+    'y': 45
 ---
 
 ## A starred chef, off the clock

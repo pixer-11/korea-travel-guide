@@ -5,7 +5,6 @@ country: Hong Kong
 region: Hong Kong
 category: restaurant
 pubDate: '2026-10-01'
-gallery: []
 tags:
   - hong kong
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What is there to do nearby before or after a meal?
     a: Statue Square and Chater Garden are directly below. The Star Ferry Central Pier is a short walk away for a harbour crossing. Lan Kwai Fong and SoHo are uphill, and the Central–Mid-Levels Escalator takes much of the climb out of the walk.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/20963300_RMeSAZMNHYCT5pF2GhWgpYzHOGiKbxocmJ_7oL-5G1w.jpg
+  credit: 'Photo: Foursquare user content (Terrace Boulud)'
+  license: foursquare
+  source: https://foursquare.com/v/69b0003593636956ac6c6f6b
+  focus:
+    x: 35
+    'y': 45
 ---
 
 ## Up Above Chater Road

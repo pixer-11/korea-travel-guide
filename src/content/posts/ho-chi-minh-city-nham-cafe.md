@@ -5,7 +5,6 @@ country: Vietnam
 region: Ho Chi Minh City
 category: hidden-gem
 pubDate: '2026-10-01'
-gallery: []
 tags:
   - ho chi minh city
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What else is nearby in Thao Dien?
     a: Café and boutique streets like Xuan Thuy and Quoc Huong, the Saigon River waterfront, and Thu Thiem further south with views back to District 1.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/1412192497_WrQJZIuEV0fN5MbE4KWwGEIbiJt9pMo1vzEZIhgse50.jpg
+  credit: 'Photo: Foursquare user content (Nham Cafe)'
+  license: foursquare
+  source: https://foursquare.com/v/6735d38a3ddeb0409bd5390d
+  focus:
+    x: 50
+    'y': 50
 ---
 
 A wall of sewing machines isn't something you'd expect in a coffee shop. At Nhâm Café in Thao Dien, it's one of four big set pieces spread over three floors. The others are a large fish tank, a photo booth and a bookshelf designed to be photographed.

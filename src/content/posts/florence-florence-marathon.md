@@ -12,7 +12,6 @@ eventVenue: Piazza del Duomo
 eventOffers:
   url: https://www.firenzemarathon.it/en/marathon/
 eventFactsAsked: true
-gallery: []
 tags:
   - florence
   - event
@@ -30,6 +29,16 @@ faq:
     a: The Lungarno embankments give more room and longer views than the narrow streets near the Duomo. Piazza Santa Croce is the most crowded spot. Watch earlier on the course, then walk to the finish to meet your runner.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/5/5c/London_Marathon_2017_IMGP1066_%2835405521744%29.jpg
+  credit: 'Photo: Matt Buck from London, United Kingdom / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:London_Marathon_2017_IMGP1066_(35405521744).jpg
+  focus:
+    x: 48
+    'y': 15
+    top: 7
+    bottom: 22
 ---
 
 ## 42 kilometres through a Renaissance postcard

@@ -9,6 +9,14 @@ eventStartDate: '2026-11-07'
 eventEndDate: '2026-11-08'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/M%C3%A1laga_town_hall.jpg/1280px-M%C3%A1laga_town_hall.jpg'
+  credit: 'Photo: Viktar Palstsiuk (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'File:Málaga town hall.jpg'
+  focus:
+    x: 25
+    y: 30
 gallery: []
 tags:
   - málaga

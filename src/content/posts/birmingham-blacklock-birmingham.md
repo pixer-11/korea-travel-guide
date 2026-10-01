@@ -5,7 +5,6 @@ country: United Kingdom
 region: Birmingham
 category: restaurant
 pubDate: '2026-10-01'
-gallery: []
 tags:
   - birmingham
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What can I see nearby before or after eating?
     a: Visit St Philip's Cathedral for its Burne-Jones stained glass windows. You can also walk to Victoria Square, Chamberlain Square and Birmingham Museum and Art Gallery, or take a short tram ride to the Jewellery Quarter.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/3266906_hfRkIwgVk_mY4Z3plO7Dgwhu-j6gamdhtk3VyrRbE8o.jpg
+  credit: 'Photo: Foursquare user content (Blacklock)'
+  license: foursquare
+  source: https://foursquare.com/v/6a1c315140a6301f35927ce4
+  focus:
+    x: 40
+    'y': 50
 ---
 
 Cathedral Square is one of the few places in central Birmingham where the noise drops. Plane trees and gravestones fill the old churchyard around St Philip's Cathedral, and office workers eat their lunch on the benches. Blacklock has moved into a Victorian vicarage on the edge of that square, which gives a London meat restaurant an unusually grand Birmingham address.

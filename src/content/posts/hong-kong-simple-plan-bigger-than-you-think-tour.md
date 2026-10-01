@@ -1,6 +1,8 @@
 ---
 title: 'Simple Plan - Bigger Than You Think! Tour: Dates, Tickets & Venue (Hong Kong)'
-description: Simple Plan - Bigger Than You Think! Tour plays Hong Kong on Tuesday, December 1, 2026, with the Montreal pop-punk band stopping in the city on this run.
+description: >-
+  Simple Plan - Bigger Than You Think! Tour plays Hong Kong on Tuesday, December
+  1, 2026, with the Montreal pop-punk band stopping in the city on this run.
 country: Hong Kong
 region: Hong Kong
 category: event
@@ -13,31 +15,48 @@ eventPerformer:
   kind: group
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/2/27/Simple_Plan_in_Agawam%2C_MA.jpeg
-  credit: 'Photo: Wehwalt at English Wikipedia / Wikimedia Commons (Public domain)'
+  url: 'https://upload.wikimedia.org/wikipedia/commons/8/8d/Hong_Kong_skyscrapers_in_a_night_of_typhoon.jpg'
+  credit: 'Photo: Wilfredor / Wikimedia Commons (CC0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Simple_Plan_in_Agawam,_MA.jpeg
+  source: 'https://commons.wikimedia.org/wiki/File:Hong_Kong_skyscrapers_in_a_night_of_typhoon.jpg'
   focus:
-    x: 44
-    'y': 39
-    top: 36
-    bottom: 42
+    x: 50
+    y: 40
 gallery: []
 tags:
   - hong kong
   - event
-quickAnswer: Simple Plan - Bigger Than You Think! Tour plays Hong Kong on Tuesday, December 1, 2026, with the Montreal pop-punk band stopping in the city on this run. The facts we have do not name a venue or ticket seller, so confirm the venue, door times and tickets on Simple Plan's official site, and buy only through the link it gives.
+quickAnswer: >-
+  Simple Plan - Bigger Than You Think! Tour plays Hong Kong on Tuesday, December
+  1, 2026, with the Montreal pop-punk band stopping in the city on this run. The
+  facts we have do not name a venue or ticket seller, so confirm the venue, door
+  times and tickets on Simple Plan's official site, and buy only through the
+  link it gives.
 faq:
   - q: When does Simple Plan play Hong Kong on the Bigger Than You Think! Tour?
-    a: The announced date is Tuesday, 1 December 2026. Confirm door and show times on Simple Plan's official site.
+    a: >-
+      The announced date is Tuesday, 1 December 2026. Confirm door and show
+      times on Simple Plan's official site.
   - q: Where is the Hong Kong show held?
-    a: Our facts don't name the venue. Check Simple Plan's official site for the venue and its official ticket link.
+    a: >-
+      Our facts don't name the venue. Check Simple Plan's official site for the
+      venue and its official ticket link.
   - q: How do I buy tickets safely?
-    a: Use only the ticket seller linked from the band's official site. Hong Kong shows are often sold through local platforms like Cityline, HK Ticketing or Ticketflap. Be wary of resale offers on social media, especially for named or QR-code e-tickets.
+    a: >-
+      Use only the ticket seller linked from the band's official site. Hong Kong
+      shows are often sold through local platforms like Cityline, HK Ticketing
+      or Ticketflap. Be wary of resale offers on social media, especially for
+      named or QR-code e-tickets.
   - q: How do I get home after the concert?
-    a: Take the MTR with an Octopus card or a contactless bank card, and check last-train times for your line before the show, since service ends shortly after midnight. Red taxis cover most of the city. Have your address written in Chinese.
+    a: >-
+      Take the MTR with an Octopus card or a contactless bank card, and check
+      last-train times for your line before the show, since service ends shortly
+      after midnight. Red taxis cover most of the city. Have your address
+      written in Chinese.
   - q: What's the weather like in Hong Kong in early December?
-    a: Usually dry and cool in the evenings. A light jacket covers the walk outside, and a layer helps in air-conditioned venues.
+    a: >-
+      Usually dry and cool in the evenings. A light jacket covers the walk
+      outside, and a layer helps in air-conditioned venues.
 aiGenerated: true
 draft: false
 ---

@@ -5,7 +5,6 @@ country: United States
 region: Los Angeles
 category: restaurant
 pubDate: '2026-10-01'
-gallery: []
 tags:
   - los angeles
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Is there anything to do nearby before or after dinner?
     a: Walk through Central Plaza off Broadway, take in the skyline from Los Angeles State Historic Park, or head south to Olvera Street and Union Station. On Dodgers home-game nights, take the train or allow extra time, because traffic around Chinatown gets heavy.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/6707610_bOoH9__iSPN5lJPhj2x-O7JclXXh_Xir9vSOmbEiOCU.jpg
+  credit: 'Photo: Foursquare user content (Firstborn)'
+  license: foursquare
+  source: https://foursquare.com/v/67cca4d037b6e811a545a1db
+  focus:
+    x: 40
+    'y': 35
 ---
 
 With a tasting menu, the kitchen plans your evening. At Firstborn, that kitchen belongs to chef-owner Anthony Wang. The menu changes with the seasons and sits where Chinese-American cooking meets classic European technique.

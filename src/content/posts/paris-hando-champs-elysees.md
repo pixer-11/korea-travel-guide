@@ -5,7 +5,6 @@ country: France
 region: Paris
 category: trendy
 pubDate: '2026-10-01'
-gallery: []
 tags:
   - paris
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: How long should I plan for a meal?
     a: Allow a relaxed evening. French restaurants don't hurry diners, and the bill only comes when you ask for it. Ask about the menu format when you book, because a set menu can take longer than ordering à la carte.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/137091017_1W6yjCoOGARmUR5BNdgRaNXN9ZNGfBawhIHMfjjsfMI.jpg
+  credit: 'Photo: Foursquare user content (Hando Champs-Elysées)'
+  license: foursquare
+  source: https://foursquare.com/v/6a0244a87e2cb2427d7bf415
+  focus:
+    x: 45
+    'y': 68
 ---
 
 ## A new address off Paris's widest avenue

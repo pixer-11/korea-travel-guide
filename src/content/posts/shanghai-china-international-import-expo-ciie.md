@@ -13,7 +13,6 @@ eventOrganizer:
   name: Ministry of Commerce of the People's Republic of China / Shanghai Municipal People's Government
   url: https://www.ciie.org
 eventFactsAsked: true
-gallery: []
 tags:
   - shanghai
   - event
@@ -31,6 +30,14 @@ faq:
     a: Zhujiajiao water town is also in Qingpu District and suits a half-day trip. The Bund, Lujiazui and Yu Garden are reachable at the eastern end of Metro Line 2.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/5/5c/Feria_CIIE_Shanghai_%2849033998922%29.jpg
+  credit: 'Photo: Queseria la Antigua de Fuentesauco from Salamanca, España / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Feria_CIIE_Shanghai_(49033998922).jpg
+  focus:
+    x: 50
+    'y': 45
 ---
 
 ## Six days, one building, the whole world selling to China

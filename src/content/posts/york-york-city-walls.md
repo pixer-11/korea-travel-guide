@@ -6,14 +6,13 @@ region: York
 category: attraction
 pubDate: '2026-09-30T14:05:44.727Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/b/b7/York_city.jpg
-  credit: 'Photo: The original uploader was Steve nova at English Wikipedia. / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:York_city.jpg
+  url: https://fastly.4sqi.net/img/general/original/12455_3WB_ev2Yf4SCJQeWp2NnTRY8EggrTJmqA9ibutf-isU.jpg
+  credit: 'Photo: Foursquare user content (City Walls (Layerthorpe Br to Monkgate))'
+  license: foursquare
+  source: https://foursquare.com/v/4b961274f964a520dcbb34e3
   focus:
-    x: 30
-    'y': 55
-gallery: []
+    x: 50
+    'y': 40
 place:
   id: ChIJtYOOP0sxeUgRDco_p0Uvjn0
   name: York City Walls
@@ -70,7 +69,6 @@ faq:
   - q: Are the walls suitable for young children or people with limited mobility?
     a: You get up at each bar by steep, uneven steps, and there is no step-free access to most of the circuit. Parts of the inner side have no railing, so keep small children close and on the wall side.
 aiGenerated: true
-draft: true
 ---
 
 ## A walkway at rooftop height

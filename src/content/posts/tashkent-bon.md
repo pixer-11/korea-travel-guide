@@ -5,7 +5,6 @@ country: Uzbekistan
 region: Tashkent
 category: trendy
 pubDate: '2026-10-01'
-gallery: []
 tags:
   - tashkent
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What can I combine with a visit to Bon!?
     a: It works well as an evening stop after a day at Chorsu Bazaar or Amir Timur Square, with a short Yandex Go ride between them.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/56026411_FS3jqrCtXEnlO-4gONBG9KFYKWkcE998EuS35WGpcPk.jpg
+  credit: 'Photo: Foursquare user content (Bon!)'
+  license: foursquare
+  source: https://foursquare.com/v/4e4d19ccc65bba8554d7d217
+  focus:
+    x: 45
+    'y': 45
 ---
 
 ## Brick, glass and a younger Tashkent

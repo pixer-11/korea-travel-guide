@@ -5,7 +5,6 @@ country: China
 region: Shanghai
 category: restaurant
 pubDate: '2026-10-01'
-gallery: []
 tags:
   - shanghai
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What else is near Blossom?
     a: Jing'an Temple and Jing'an Park are a short walk west along Nanjing West Road. Wujiang Road's snack shops are close to Nanjing West Road Station, and the former French Concession lies to the south.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/72068642_KQlsP0uh-WPKGIEAYwMtQQVkUhGEzzTu8GMiaNCyETI.jpg
+  credit: 'Photo: Foursquare user content (1/3 Blossom)'
+  license: foursquare
+  source: https://foursquare.com/v/5b8171e93ba767002cdfd5e3
+  focus:
+    x: 55
+    'y': 50
 ---
 
 Plaza 66 is not where you'd expect to find Chaoshan comfort food. The tower rises over Nanjing West Road, and its lower floors are given over to luxury houses. Ride the lifts past them, though, and Blossom serves the braised, briny cooking of China's south-east coast. It sits a few floors above all that polished stone.

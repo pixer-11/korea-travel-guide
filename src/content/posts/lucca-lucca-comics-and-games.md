@@ -9,6 +9,14 @@ eventStartDate: '2026-11-13'
 eventEndDate: '2026-11-18'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Das_gros_hertzogthum_Florentz_und_die_Republic_Lucca_-_gestochen_und_su_finden_bey_Johann_George_Schreibern_in_Leipzig._%28to_%28IA_dr_das-gros-hertzogthum-florentz-und-die-republic-lucca-gestochen-und-su-fin-11208028%29.jpg/1280px-thumbnail.jpg'
+  credit: 'Photo: Schreiber, Johann George, 1676-1750 (Public domain)'
+  license: wikimedia
+  source: 'File:Das gros hertzogthum Florentz und die Republic Lucca - gestochen und su finden bey Johann George Schreibern in Leipzig. (to (IA dr das-gros-hertzogthum-florentz-und-die-republic-lucca-gestochen-und-su-fin-11208028).jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - lucca
