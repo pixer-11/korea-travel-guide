@@ -15,11 +15,39 @@
 // etc. only matters once such posts exist; keep both-safe entries for
 // countries without content yet. Guam was indirect-only (owner's statement,
 // 2026-08-13) — never badge it.
+// The one list (display order) — the badge set below and the editorial-policy
+// page (2026-10-01) both read it, so a new country is one line here.
+// `place` is the corpus spelling (country, or region for Macau); `continent`
+// matches data/countries.json where the country has content; `scope` marks the
+// two countries the owner covered almost end to end.
+export interface VisitedPlace { place: string; continent: 'Asia' | 'Europe' | 'North America' | 'Oceania'; scope?: 'most' | 'much'; region?: boolean }
+export const EDITOR_VISITED: VisitedPlace[] = [
+  { place: 'South Korea', continent: 'Asia', scope: 'most' },
+  { place: 'Vietnam', continent: 'Asia', scope: 'much' },
+  { place: 'Japan', continent: 'Asia' },
+  { place: 'Singapore', continent: 'Asia' },
+  { place: 'Thailand', continent: 'Asia' },
+  { place: 'Laos', continent: 'Asia' },
+  { place: 'Cambodia', continent: 'Asia' },
+  { place: 'Indonesia', continent: 'Asia' },
+  { place: 'Hong Kong', continent: 'Asia' },
+  { place: 'Macau', continent: 'Asia', region: true },
+  { place: 'China', continent: 'Asia' },
+  { place: 'Taiwan', continent: 'Asia' },
+  { place: 'Mongolia', continent: 'Asia' },
+  { place: 'France', continent: 'Europe' },
+  { place: 'Spain', continent: 'Europe' },
+  { place: 'Georgia', continent: 'Europe' },
+  { place: 'Czech Republic', continent: 'Europe' },
+  { place: 'Russia', continent: 'Europe' },
+  { place: 'United States', continent: 'North America' },
+  { place: 'Australia', continent: 'Oceania' },
+  { place: 'New Zealand', continent: 'Oceania' },
+];
+
 const VISITED_COUNTRIES = new Set([
-  'Vietnam', 'Singapore', 'Thailand', 'South Korea', 'United States',
-  'Australia', 'Laos', 'Cambodia', 'Indonesia', 'China', 'France',
-  'Japan', 'Spain', 'Russia', 'New Zealand', 'Czech Republic', 'Czechia',
-  'Hong Kong', 'Mongolia', 'Georgia', 'Taiwan',
+  ...EDITOR_VISITED.filter((v) => !v.region).map((v) => v.place),
+  'Czechia', // alternate corpus spelling of Czech Republic
 ]);
 // Hong Kong became its own country entry on 2026-08-13 (split from China);
 // the region entries stay for legacy posts tagged region: Hong Kong/Macau.

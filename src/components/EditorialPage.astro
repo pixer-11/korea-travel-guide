@@ -1,0 +1,825 @@
+---
+import { getCollection } from 'astro:content';
+import { createHash } from 'node:crypto';
+import { existsSync } from 'node:fs';
+import { fileURLToPath } from 'node:url';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Newsletter from './Newsletter.astro';
+import countriesData from '../../data/countries.json';
+import { EDITOR_VISITED } from '../lib/editorVisited';
+import { localizePath, type Lang } from '../i18n/utils';
+import { localizePlace } from '../i18n/places';
+
+// /about (+ /[lang]/about): the editorial policy, rebuilt 2026-10-01 from the
+// owner's "편집 원칙 개선안" mock-up. Everything that counts is computed at build
+// time — visited places and their continents (src/lib/editorVisited.ts), guide
+// counts per country, the photos in the image section and the credits under
+// them — so a new country, a new guide or a new trip changes the page without
+// anyone editing it. The two hero photos are the editor's own (Saigon,
+// 2026-08-15), not stock: the page that says "a real person checks this" shows
+// that person's camera roll first.
+interface Props { lang: Lang }
+const { lang } = Astro.props as Props;
+
+const posts = await getCollection('posts', ({ data }) => !data.draft);
+const byCountry = new Map<string, number>();
+const byRegion = new Map<string, number>();
+for (const p of posts) {
+  byCountry.set(p.data.country, (byCountry.get(p.data.country) ?? 0) + 1);
+  if (p.data.region) byRegion.set(p.data.region, (byRegion.get(p.data.region) ?? 0) + 1);
+}
+const countrySlug = new Map(countriesData.countries.map((c: { name: string; slug: string }) => [c.name, c.slug]));
+const visited = EDITOR_VISITED.map((v) => {
+  const n = v.region ? (byRegion.get(v.place) ?? 0) : (byCountry.get(v.place) ?? 0);
+  const slug = v.region ? null : countrySlug.get(v.place);
+  const href = n > 0 ? (slug ? localizePath(`/destinations/${slug}`, lang) : localizePath(`/regions/${v.place.toLowerCase().replace(/\s+/g, '-')}`, lang)) : null;
+  return { ...v, n, href };
+});
+const continents = ['Asia', 'Europe', 'North America', 'Oceania'] as const;
+const contCount = Object.fromEntries(continents.map((c) => [c, visited.filter((v) => v.continent === c).length]));
+const visitedWithGuides = visited.filter((v) => v.href).length;
+const continentsVisited = continents.filter((c) => contCount[c] > 0).length;
+const totalGuides = posts.length;
+const countriesCovered = new Set(posts.map((p) => p.data.country)).size;
+
+// Image section: three real heroes with their real credits — the claim
+// "every photo is credited" shown, not told. Newest licensed-source posts with a
+// built wall thumbnail, one per country so the three do not look alike.
+const wallHash = (s: string) => createHash('sha1').update(s).digest('hex').slice(0, 16);
+const WALL_DIR = fileURLToPath(new URL('../../public/wall/', import.meta.url));
+const seenCountry = new Set<string>();
+// A localized page links only to posts that exist in that language (codex:
+// /ko/posts/<untranslated> is a 404).
+const translated = lang === 'en' ? null : new Set((await getCollection('postI18n')).map((e) => e.id).filter((id) => id.startsWith(`${lang}/`)).map((id) => id.slice(lang.length + 1)));
+const proofPhotos = posts
+  .filter((p) => !translated || translated.has(p.id))
+  .filter((p) => ['wikimedia', 'kto-open', 'openverse-cc'].includes(p.data.heroImage?.license ?? '') && p.data.heroImage?.credit)
+  .sort((a, b) => +new Date(b.data.pubDate) - +new Date(a.data.pubDate))
+  .flatMap((p) => {
+    const url = p.data.heroImage!.url;
+    const name = `${wallHash(url)}.webp`;
+    if (!existsSync(WALL_DIR + name) || seenCountry.has(p.data.country)) return [];
+    seenCountry.add(p.data.country);
+    return [{ src: `/wall/${name}`, credit: p.data.heroImage!.credit!, href: localizePath(`/posts/${p.id}`, lang), place: p.data.place?.name ?? p.data.region }];
+  })
+  .slice(0, 3);
+
+type Step = { k: string; who: string; title: string; body: string; keep: string[] };
+const L = {
+  en: {
+    metaTitle: 'Editorial policy — how Wander Atlas is made',
+    metaDesc: 'Who makes Wander Atlas, what AI does and does not do, how every guide is checked against live data, and how to report something out of date.',
+    crumbHome: 'Home', crumb: 'Editorial policy', eyebrow: 'Editorial policy',
+    h1a: 'AI drafts.', h1b: 'A traveler', h1c: 'checks.',
+    dek: 'Wander Atlas is a curated, editor-reviewed travel guide for international visitors. Here is who makes it, how far AI helps, and how mistakes get fixed — nothing hidden.',
+    ctaVisited: 'Where the editor has been', ctaMethod: 'How our data is made →',
+    photoTag: 'Shot by the editor · Ho Chi Minh City',
+    cardName: 'Pixer', cardRole: 'Editor who reviews every guide · pen name',
+    statPlaces: 'Countries & regions visited', statConts: 'Continents', statGuides: 'Guides reviewed',
+    strip: (g: string, c: number) => `${g} guides · ${c} countries · 5 languages · re-checked on a schedule`,
+    p: [
+      ['We never invent', 'If opening hours, a price or an address cannot be confirmed, it is left out.'],
+      ['Closed means gone', 'We cover places confirmed open and well rated, and take a guide down when a place is confirmed closed.'],
+      ['AI use is disclosed', 'Every article says it was drafted with AI assistance.'],
+      ['Every photo is licensed', 'Credited to its source, and checked to show the actual place.'],
+    ],
+    edEyebrow: 'The editor', edName: 'Pixer',
+    edBio: 'A Korean travel editor who has traveled and documented countries across Asia, Europe, the Americas and Oceania — and keeps traveling, adding to this site with every trip.',
+    edPen: 'Pixer is a pen name.', edPenRest: ' We say so up front rather than inventing a persona.',
+    visTitle: 'Where the editor has been',
+    visSub: (a: number, b: number) => `${b} of ${a} have guides on this site`,
+    all: 'All', onlyGuides: 'With guides only', guides: (n: number) => `${n} guides`,
+    scope: { most: 'most regions', much: 'much of it' },
+    visNote: 'We never claim a visit that did not happen. Guides for countries the editor has visited are marked on the home page.',
+    pipeTitle: 'How one guide gets made', pipeDek: 'AI keeps coverage broad and fresh; data and people do the checking and the judging. Tap a step.',
+    keepTitle: 'What this step guarantees', prev: '← Back', next: 'Next step →',
+    whoLabel: { data: 'Data', ai: 'AI', human: 'Human', both: 'Human + data' },
+    steps: [
+      { k: 'data', who: 'data', title: 'Collect live data', body: 'Whether a place is open right now, and its hours, rating and address, come from live sources. Which sources we use is public on the methodology page.', keep: ['Only places confirmed open and well rated become candidates', 'Anything that cannot be confirmed is dropped at the start'] },
+      { k: 'ai', who: 'ai', title: 'AI writes a draft', body: 'AI turns the checked facts into a readable first draft in plain language, so we can cover many countries and keep them current.', keep: ['Prices, hours and addresses come from step 1, not from the model', 'Every guide is labeled as AI-assisted'] },
+      { k: 'check', who: 'data', title: 'Check against live data', body: 'Automated checks compare the draft with the source data: names, numbers, dates, photos. A draft that fails is held back, not published.', keep: ['A wrong place, a mismatched photo or an ended event still written as upcoming holds the draft back', 'Each photo is checked to show the actual place'] },
+      { k: 'edit', who: 'human', title: 'Editor review', body: 'The editor reads every guide, fixes tone and judgment calls, and removes anything that reads like guesswork.', keep: ['A person reads every guide', 'Firsthand tips only where the editor has actually been'] },
+      { k: 'fix', who: 'both', title: 'Re-check and correct', body: 'Places close and prices change. Guides are re-checked on a schedule, events are rewritten once they end, and reader reports are fixed.', keep: ['Closed places come down', 'Reader corrections are applied and the guide re-checked'] },
+    ] as Step[],
+    aiDoes: 'What AI helps with', aiDoesList: ['Writing drafts', 'Covering many countries, freshly'],
+    aiNot: 'What AI does not replace', aiNotList: ['The editor’s review', 'Fact-checking', 'Having actually been there'],
+    imgEyebrow: 'Images', imgTitle: 'Only photos we are licensed to use',
+    imgDek: 'Public-domain or openly licensed photos, or photos credited and linked to their source. We never republish someone else’s photo without a license.',
+    imgSources: [['Wikimedia Commons', 'Public domain · open license'], ['Korea Tourism Organization', 'Public open data'], ['Openverse', 'Open license'], ['Credited photos', 'Credit · link']],
+    imgProof: 'Live from the site — every photo carries its credit',
+    fixEyebrow: 'Corrections', fixTitle: 'Spotted something out of date?',
+    fixDek: 'Places close and prices change. We re-check on a schedule, but tell us and we will fix it.',
+    fixOther: 'Other questions → contact page',
+    fType: 'What kind of information?', fTypes: ['Opening hours', 'Closed / moved', 'Price', 'Address / location', 'Photo', 'Other'],
+    fPlace: 'Page link or place name', fPlacePh: 'e.g. La Boqueria market',
+    fWhat: 'What changed?', fWhatPh: 'e.g. Open on Sundays from October',
+    fSend: 'Send the report', fNote: 'Opens your email app with everything filled in. Or write to',
+    faqTitle: 'Frequently asked questions', faqDek: 'Numbers, sources and how often we re-check are on the', faqLink: 'methodology page',
+    faq: [
+      ['Is this written by AI?', 'Drafts are written with AI assistance, checked against live data, and reviewed by the editor. Every article says so.'],
+      ['Is Pixer a real person?', 'Yes. Pixer is the pen name of a real Korean travel editor who reviews every guide. We use a pen name and say so, rather than inventing a persona with a fake photo.'],
+      ['Has the editor been everywhere you cover?', 'No. The editor has been to the places listed above, and only those guides speak from firsthand experience. Everything else is curated from live data and verified — and we say which is which.'],
+      ['What if something is wrong?', 'Use the correction form above or email us. We fix confirmed errors and re-check the guide.'],
+      ['How is the site funded?', 'Some links are affiliate links: if you book through one, we may earn a commission at no extra cost to you. It never decides what we write or recommend.'],
+    ],
+    nlEyebrow: 'The editor’s next trip', nlHeading: 'Be first to read the new guides',
+    nlDek: 'One genuinely useful travel guide a week. Subscribe and get the printable trip checklist too.',
+    nlCta: 'Subscribe free →',
+  },
+  ko: {
+    metaTitle: '편집 원칙 — Wander Atlas는 이렇게 만듭니다',
+    metaDesc: '누가 Wander Atlas를 만드는지, AI가 하는 일과 하지 않는 일, 모든 가이드를 실시간 데이터로 확인하는 방법, 틀린 정보를 알려주시는 방법.',
+    crumbHome: '홈', crumb: '편집 원칙', eyebrow: '편집 원칙',
+    h1a: 'AI가 초안을 쓰고,', h1b: '여행자가', h1c: '확인합니다',
+    dek: 'Wander Atlas는 해외 방문객을 위해 고르고 편집자가 검수하는 여행 가이드입니다. 누가 만드는지, AI는 어디까지 돕는지, 틀린 정보는 어떻게 고치는지 숨김없이 적었습니다.',
+    ctaVisited: '편집자가 다녀온 곳 보기', ctaMethod: '데이터는 이렇게 만듭니다 →',
+    photoTag: '편집자 촬영 · 호찌민',
+    cardName: 'Pixer', cardRole: '모든 가이드를 검수하는 편집자 · 필명',
+    statPlaces: '다녀온 나라·지역', statConts: '다닌 대륙', statGuides: '검수한 가이드',
+    strip: (g: string, c: number) => `가이드 ${g}편 · ${c}개국 · 5개 언어 · 정기 재확인`,
+    p: [
+      ['지어내지 않습니다', '영업시간·가격·주소를 확인할 수 없으면 아예 싣지 않습니다.'],
+      ['문 닫은 곳은 내립니다', '영업 중이고 평판이 좋다고 확인되는 곳만 다루고, 폐업이 확인되면 가이드를 내립니다.'],
+      ['AI 사용을 밝힙니다', 'AI의 도움을 받은 글이라는 사실을 모든 기사에 표시합니다.'],
+      ['사진은 모두 라이선스', '출처를 표기하고, 실제 그 장소가 맞는지 확인합니다.'],
+    ],
+    edEyebrow: '편집자', edName: 'Pixer',
+    edBio: '아시아, 유럽, 아메리카, 오세아니아를 직접 여행하며 기록해 온 한국인 여행 편집자입니다. 지금도 여행을 이어가며, 다녀올 때마다 이 사이트의 기록을 채웁니다.',
+    edPen: 'Pixer는 필명이에요.', edPenRest: ' 가상의 인물을 꾸며내는 대신 처음부터 밝힙니다.',
+    visTitle: '직접 다녀온 곳',
+    visSub: (a: number, b: number) => `${a}곳 중 ${b}곳은 가이드가 있어요`,
+    all: '전체', onlyGuides: '가이드 있는 곳만', guides: (n: number) => `가이드 ${n}편`,
+    scope: { most: '대부분 지역', much: '상당 지역' },
+    visNote: '실제로 다녀오지 않은 곳을 다녀왔다고 하지 않습니다. 편집자가 직접 다녀온 나라의 가이드는 홈페이지에도 따로 표시합니다.',
+    pipeTitle: '가이드 한 편이 나오기까지', pipeDek: 'AI는 넓고 새로운 정보를 유지하도록 돕고, 확인과 판단은 데이터와 사람이 맡습니다. 단계를 눌러 보세요.',
+    keepTitle: '이 단계에서 지키는 것', prev: '← 이전', next: '다음 단계 →',
+    whoLabel: { data: '데이터', ai: 'AI', human: '사람', both: '사람 + 데이터' },
+    steps: [
+      { k: 'data', who: 'data', title: '실시간 데이터 모으기', body: '장소가 지금 영업 중인지, 영업시간·평점·주소는 무엇인지 실시간 출처에서 가져옵니다. 어떤 출처를 쓰는지는 방법론 페이지에 공개합니다.', keep: ['영업 중이고 평판이 좋다고 확인되는 곳만 후보로 올립니다', '확인할 수 없는 정보는 처음부터 버립니다'] },
+      { k: 'ai', who: 'ai', title: 'AI가 초안 쓰기', body: '확인된 사실을 바탕으로 AI가 읽기 쉬운 초안을 씁니다. 그래서 여러 나라를 넓게, 새로운 상태로 다룰 수 있습니다.', keep: ['가격·영업시간·주소는 AI가 아니라 1단계 데이터에서 옵니다', '모든 가이드에 AI 도움을 받았다고 표시합니다'] },
+      { k: 'check', who: 'data', title: '실시간 데이터와 대조', body: '자동 검사가 초안을 원래 데이터와 비교합니다. 이름·숫자·날짜·사진까지 봅니다. 통과하지 못한 초안은 발행하지 않고 보류합니다.', keep: ['다른 장소, 맞지 않는 사진, 끝났는데 예정처럼 쓴 행사가 있으면 발행을 보류합니다', '사진이 실제 그 장소인지 확인합니다'] },
+      { k: 'edit', who: 'human', title: '편집자 검수', body: '편집자가 모든 가이드를 읽고, 어조와 판단이 필요한 부분을 고치고, 짐작처럼 읽히는 문장을 지웁니다.', keep: ['모든 가이드를 사람이 읽습니다', '직접 다녀온 곳에서만 경험담을 씁니다'] },
+      { k: 'fix', who: 'both', title: '다시 확인하고 바로잡기', body: '장소는 문을 닫고 가격은 바뀝니다. 정기적으로 다시 확인하고, 끝난 행사는 다시 쓰고, 독자 제보는 바로잡습니다.', keep: ['문 닫은 곳은 내립니다', '독자 제보를 반영하고 가이드를 다시 확인합니다'] },
+    ] as Step[],
+    aiDoes: 'AI가 돕는 일', aiDoesList: ['초안 쓰기', '여러 나라를 넓고 새롭게 다루기'],
+    aiNot: 'AI가 대신하지 않는 일', aiNotList: ['편집자의 검수', '사실 확인 절차', '‘직접 다녀왔다’는 경험'],
+    imgEyebrow: '이미지', imgTitle: '라이선스가 있는 사진만 씁니다',
+    imgDek: '퍼블릭 도메인이나 공개 라이선스 사진, 또는 출처를 표기하고 링크한 사진만 씁니다. 다른 사람의 사진을 라이선스 없이 다시 올리지 않습니다.',
+    imgSources: [['Wikimedia Commons', '퍼블릭 도메인 · 공개 라이선스'], ['한국관광공사', '공공데이터'], ['Openverse', '공개 라이선스'], ['출처를 밝힌 사진', '출처 표기 · 링크']],
+    imgProof: '지금 사이트에 실린 사진 — 모두 출처가 붙어 있습니다',
+    fixEyebrow: '정정', fixTitle: '오래된 정보를 발견하셨나요?',
+    fixDek: '장소는 문을 닫기도 하고 가격은 바뀌기 마련입니다. 정기적으로 다시 확인하지만, 알려주시면 바로잡겠습니다.',
+    fixOther: '다른 문의는 문의하기 페이지로 →',
+    fType: '어떤 정보인가요?', fTypes: ['영업시간', '폐업·이전', '가격', '주소·위치', '사진', '기타'],
+    fPlace: '페이지 주소나 장소 이름', fPlacePh: '예: 보케리아 시장',
+    fWhat: '무엇이 달라졌나요?', fWhatPh: '예: 10월부터 일요일에도 문을 엽니다',
+    fSend: '제보 보내기', fNote: '내용이 채워진 채로 메일 앱이 열립니다. 직접 보내실 주소:',
+    faqTitle: '자주 묻는 질문', faqDek: '수치와 출처, 확인 주기는', faqLink: '방법론 페이지에서 자세히 설명합니다',
+    faq: [
+      ['AI가 쓴 글인가요?', 'AI의 도움을 받아 초안을 쓰고, 실시간 데이터와 대조한 뒤 편집자가 검수합니다. 이 사실은 모든 기사에 표시합니다.'],
+      ['Pixer는 실제 사람인가요?', '네. Pixer는 모든 가이드를 검수하는 실제 한국인 여행 편집자의 필명입니다. 가짜 사진으로 인물을 꾸며내는 대신 필명이라고 밝힙니다.'],
+      ['편집자가 모든 곳에 가봤나요?', '아니요. 위에 적은 곳만 다녀왔고, 그 나라 가이드에서만 직접 경험을 씁니다. 나머지는 실시간 데이터로 고르고 확인한 가이드이며, 어느 쪽인지 밝힙니다.'],
+      ['정보가 틀렸으면 어떻게 하나요?', '위의 정정 양식이나 메일로 알려주세요. 확인된 오류는 고치고 가이드를 다시 확인합니다.'],
+      ['사이트는 어떻게 운영되나요?', '일부 링크는 제휴 링크라서, 그 링크로 예약하시면 추가 비용 없이 사이트가 수수료를 받을 수 있습니다. 무엇을 쓰고 추천할지는 제휴와 상관없이 정합니다.'],
+    ],
+    nlEyebrow: '편집자의 다음 여행', nlHeading: '새 기록이 올라오면 가장 먼저 받아보세요',
+    nlDek: '매주 한 편, 진짜 쓸모 있는 여행 가이드를 보내드려요. 구독하면 인쇄해서 쓰는 여행 준비 체크리스트도 드립니다.',
+    nlCta: '무료로 구독하기 →',
+  },
+  ja: {
+    metaTitle: '編集方針 — Wander Atlasのつくり方',
+    metaDesc: 'Wander Atlasを誰がつくっているか、AIがすること・しないこと、すべてのガイドをリアルタイムのデータで確認する方法、古い情報の報告方法。',
+    crumbHome: 'ホーム', crumb: '編集方針', eyebrow: '編集方針',
+    h1a: 'AIが下書きし、', h1b: '旅行者が', h1c: '確かめます',
+    dek: 'Wander Atlasは海外からの旅行者のために選び、編集者が確認する旅行ガイドです。誰がつくり、AIがどこまで手伝い、間違いをどう直すのかを包み隠さず書きました。',
+    ctaVisited: '編集者が訪れた場所', ctaMethod: 'データのつくり方 →',
+    photoTag: '編集者撮影 · ホーチミン',
+    cardName: 'Pixer', cardRole: 'すべてのガイドを確認する編集者 · ペンネーム',
+    statPlaces: '訪れた国・地域', statConts: '訪れた大陸', statGuides: '確認したガイド',
+    strip: (g: string, c: number) => `ガイド${g}本 · ${c}か国 · 5言語 · 定期的に再確認`,
+    p: [
+      ['でっち上げません', '営業時間・料金・住所が確認できなければ、載せません。'],
+      ['閉店したら下ろします', '営業中で評判の良いことが確認できる場所だけを扱い、閉店が確認されたらガイドを下ろします。'],
+      ['AIの利用を明示します', 'AIの助けを借りた記事であることを、すべての記事に表示します。'],
+      ['写真はすべてライセンス付き', '出典を明記し、本当にその場所かを確認します。'],
+    ],
+    edEyebrow: '編集者', edName: 'Pixer',
+    edBio: 'アジア、ヨーロッパ、アメリカ、オセアニアを旅して記録してきた韓国人の旅行編集者です。今も旅を続け、旅から戻るたびにこのサイトの記録を増やしています。',
+    edPen: 'Pixerはペンネームです。', edPenRest: '架空の人物をつくる代わりに、最初からそう明かしています。',
+    visTitle: '実際に訪れた場所',
+    visSub: (a: number, b: number) => `${a}か所のうち${b}か所にガイドがあります`,
+    all: 'すべて', onlyGuides: 'ガイドがある場所のみ', guides: (n: number) => `ガイド${n}本`,
+    scope: { most: 'ほぼ全域', much: '広い範囲' },
+    visNote: '訪れていない場所を訪れたとは言いません。編集者が訪れた国のガイドは、ホームページでも区別して表示しています。',
+    pipeTitle: 'ガイドが一本できるまで', pipeDek: 'AIは幅広く新しい情報を保つ手助けをし、確認と判断はデータと人が担います。ステップを押してみてください。',
+    keepTitle: 'このステップで守ること', prev: '← 前へ', next: '次のステップ →',
+    whoLabel: { data: 'データ', ai: 'AI', human: '人', both: '人 + データ' },
+    steps: [
+      { k: 'data', who: 'data', title: 'リアルタイムのデータを集める', body: 'その場所が今営業しているか、営業時間・評価・住所をリアルタイムの情報源から取得します。どの情報源を使うかは方法論のページで公開しています。', keep: ['営業中で評判が良いと確認できる場所だけを候補にします', '確認できない情報は最初から使いません'] },
+      { k: 'ai', who: 'ai', title: 'AIが下書きを書く', body: '確認済みの事実をもとに、AIが読みやすい下書きを書きます。そのおかげで多くの国を幅広く、新しい状態で扱えます。', keep: ['料金・営業時間・住所はAIではなくステップ1のデータから取ります', 'すべてのガイドにAIの助けを借りたことを表示します'] },
+      { k: 'check', who: 'data', title: 'リアルタイムのデータと照合', body: '自動チェックが下書きを元のデータと比べます。名前・数字・日付・写真まで確認し、通らなかった下書きは公開せずに保留します。', keep: ['違う場所、合わない写真、終わったのに予定のように書かれたイベントがあれば公開を保留します', '写真が本当にその場所かを確認します'] },
+      { k: 'edit', who: 'human', title: '編集者の確認', body: '編集者がすべてのガイドを読み、語調や判断が必要な部分を直し、推測のように読める文を削ります。', keep: ['すべてのガイドを人が読みます', '体験談は実際に訪れた場所でだけ書きます'] },
+      { k: 'fix', who: 'both', title: '再確認して直す', body: '場所は閉まり、料金は変わります。定期的に再確認し、終わったイベントは書き直し、読者からの報告を反映します。', keep: ['閉店した場所は下ろします', '読者の報告を反映し、ガイドを再確認します'] },
+    ] as Step[],
+    aiDoes: 'AIが手伝うこと', aiDoesList: ['下書きを書く', '多くの国を幅広く新しく扱う'],
+    aiNot: 'AIが代わりにしないこと', aiNotList: ['編集者の確認', '事実確認の手順', '「実際に訪れた」という経験'],
+    imgEyebrow: '画像', imgTitle: 'ライセンスのある写真だけを使います',
+    imgDek: 'パブリックドメインやオープンライセンスの写真、または出典を明記してリンクした写真だけを使います。他人の写真をライセンスなしに再掲載しません。',
+    imgSources: [['Wikimedia Commons', 'パブリックドメイン · オープンライセンス'], ['韓国観光公社', '公共データ'], ['Openverse', 'オープンライセンス'], ['出典を明記した写真', '出典表記 · リンク']],
+    imgProof: '今サイトに載っている写真 — すべてに出典があります',
+    fixEyebrow: '訂正', fixTitle: '古い情報を見つけましたか？',
+    fixDek: '場所は閉まることもあり、料金は変わるものです。定期的に再確認していますが、教えていただければ直します。',
+    fixOther: 'その他のお問い合わせはこちら →',
+    fType: 'どの情報ですか？', fTypes: ['営業時間', '閉店・移転', '料金', '住所・場所', '写真', 'その他'],
+    fPlace: 'ページのURLまたは場所の名前', fPlacePh: '例: ボケリア市場',
+    fWhat: '何が変わりましたか？', fWhatPh: '例: 10月から日曜日も営業しています',
+    fSend: '報告を送る', fNote: '内容が入った状態でメールアプリが開きます。直接送る場合:',
+    faqTitle: 'よくある質問', faqDek: '数値や出典、確認の頻度は', faqLink: '方法論のページで詳しく説明しています',
+    faq: [
+      ['AIが書いた記事ですか？', 'AIの助けを借りて下書きを書き、リアルタイムのデータと照合したうえで編集者が確認します。このことはすべての記事に表示しています。'],
+      ['Pixerは実在の人物ですか？', 'はい。Pixerはすべてのガイドを確認する実在の韓国人旅行編集者のペンネームです。偽の写真で人物をつくる代わりに、ペンネームだと明かしています。'],
+      ['編集者はすべての場所に行きましたか？', 'いいえ。上に挙げた場所だけで、その国のガイドでだけ実体験を書きます。それ以外はリアルタイムのデータで選んで確認したガイドで、どちらなのかを明示しています。'],
+      ['情報が間違っていたら？', '上の訂正フォームかメールでお知らせください。確認できた誤りは直し、ガイドを再確認します。'],
+      ['サイトはどう運営されていますか？', '一部のリンクはアフィリエイトリンクで、そこから予約されると追加費用なしでサイトが手数料を受け取ることがあります。何を書き、何をすすめるかはそれとは関係なく決めています。'],
+    ],
+    nlEyebrow: '編集者の次の旅', nlHeading: '新しい記録をいちばん早くお届けします',
+    nlDek: '毎週一本、本当に役立つ旅行ガイドをお送りします。登録すると、印刷して使える旅行準備チェックリストも差し上げます。',
+    nlCta: '無料で登録する →',
+  },
+  es: {
+    metaTitle: 'Política editorial — cómo se hace Wander Atlas',
+    metaDesc: 'Quién hace Wander Atlas, qué hace y qué no hace la IA, cómo se comprueba cada guía con datos en tiempo real y cómo avisarnos de algo desactualizado.',
+    crumbHome: 'Inicio', crumb: 'Política editorial', eyebrow: 'Política editorial',
+    h1a: 'La IA redacta.', h1b: 'Un viajero', h1c: 'lo comprueba.',
+    dek: 'Wander Atlas es una guía de viaje seleccionada y revisada por un editor para visitantes internacionales. Aquí contamos quién la hace, hasta dónde ayuda la IA y cómo se corrigen los errores, sin ocultar nada.',
+    ctaVisited: 'Dónde ha estado el editor', ctaMethod: 'Cómo hacemos los datos →',
+    photoTag: 'Foto del editor · Ciudad Ho Chi Minh',
+    cardName: 'Pixer', cardRole: 'Editor que revisa cada guía · seudónimo',
+    statPlaces: 'Países y regiones visitados', statConts: 'Continentes', statGuides: 'Guías revisadas',
+    strip: (g: string, c: number) => `${g} guías · ${c} países · 5 idiomas · revisadas periódicamente`,
+    p: [
+      ['No inventamos nada', 'Si no podemos confirmar un horario, un precio o una dirección, no lo publicamos.'],
+      ['Si cierra, se retira', 'Solo cubrimos lugares que sabemos abiertos y bien valorados, y retiramos la guía cuando se confirma que han cerrado.'],
+      ['Decimos cuándo usamos IA', 'Cada artículo indica que se redactó con ayuda de IA.'],
+      ['Todas las fotos tienen licencia', 'Con su crédito, y comprobamos que muestran el lugar real.'],
+    ],
+    edEyebrow: 'El editor', edName: 'Pixer',
+    edBio: 'Un editor de viajes coreano que ha recorrido y documentado países de Asia, Europa, América y Oceanía, y que sigue viajando y ampliando este sitio con cada viaje.',
+    edPen: 'Pixer es un seudónimo.', edPenRest: ' Lo decimos desde el principio en lugar de inventar un personaje.',
+    visTitle: 'Dónde ha estado el editor',
+    visSub: (a: number, b: number) => `${b} de ${a} tienen guías en este sitio`,
+    all: 'Todos', onlyGuides: 'Solo con guías', guides: (n: number) => `${n} guías`,
+    scope: { most: 'casi todo el país', much: 'gran parte' },
+    visNote: 'Nunca decimos haber visitado un lugar en el que no hemos estado. Las guías de los países que el editor ha visitado se marcan también en la portada.',
+    pipeTitle: 'Cómo se hace una guía', pipeDek: 'La IA ayuda a mantener la cobertura amplia y actual; la comprobación y el criterio son cosa de los datos y de las personas. Pulsa un paso.',
+    keepTitle: 'Lo que garantiza este paso', prev: '← Atrás', next: 'Siguiente paso →',
+    whoLabel: { data: 'Datos', ai: 'IA', human: 'Persona', both: 'Persona + datos' },
+    steps: [
+      { k: 'data', who: 'data', title: 'Reunir datos en tiempo real', body: 'Si un lugar está abierto ahora, y su horario, valoración y dirección, salen de fuentes en tiempo real. Qué fuentes usamos se explica en la página de metodología.', keep: ['Solo pasan a candidatos los lugares confirmados como abiertos y bien valorados', 'Lo que no se puede confirmar se descarta desde el principio'] },
+      { k: 'ai', who: 'ai', title: 'La IA escribe un borrador', body: 'Con los datos ya comprobados, la IA redacta un primer borrador fácil de leer, para que podamos cubrir muchos países y mantenerlos al día.', keep: ['Precios, horarios y direcciones salen del paso 1, no del modelo', 'Cada guía indica que se hizo con ayuda de IA'] },
+      { k: 'check', who: 'data', title: 'Contrastar con los datos', body: 'Controles automáticos comparan el borrador con los datos de origen: nombres, cifras, fechas y fotos. Un borrador que falla se retiene, no se publica.', keep: ['Un lugar equivocado, una foto que no corresponde o un evento ya terminado escrito como futuro retienen el borrador', 'Se comprueba que cada foto muestra el lugar real'] },
+      { k: 'edit', who: 'human', title: 'Revisión del editor', body: 'El editor lee cada guía, corrige el tono y lo que requiere criterio, y elimina lo que suena a suposición.', keep: ['Una persona lee cada guía', 'Consejos en primera persona solo donde el editor ha estado'] },
+      { k: 'fix', who: 'both', title: 'Volver a comprobar y corregir', body: 'Los lugares cierran y los precios cambian. Las guías se revisan periódicamente, los eventos se reescriben al terminar y se corrige lo que nos avisan los lectores.', keep: ['Los lugares cerrados se retiran', 'Se aplican las correcciones de los lectores y se revisa la guía'] },
+    ] as Step[],
+    aiDoes: 'En qué ayuda la IA', aiDoesList: ['Redactar borradores', 'Cubrir muchos países y mantenerlos al día'],
+    aiNot: 'Lo que la IA no sustituye', aiNotList: ['La revisión del editor', 'La comprobación de datos', 'Haber estado allí de verdad'],
+    imgEyebrow: 'Imágenes', imgTitle: 'Solo fotos que tenemos derecho a usar',
+    imgDek: 'Fotos de dominio público o con licencia abierta, o fotos con crédito y enlace a su fuente. Nunca volvemos a publicar fotos ajenas sin licencia.',
+    imgSources: [['Wikimedia Commons', 'Dominio público · licencia abierta'], ['Organización de Turismo de Corea', 'Datos abiertos'], ['Openverse', 'Licencia abierta'], ['Fotos con crédito', 'Crédito · enlace']],
+    imgProof: 'Del sitio, ahora mismo: cada foto lleva su crédito',
+    fixEyebrow: 'Correcciones', fixTitle: '¿Has visto algo desactualizado?',
+    fixDek: 'Los lugares cierran y los precios cambian. Revisamos periódicamente, pero si nos avisas, lo corregimos.',
+    fixOther: 'Otras consultas → página de contacto',
+    fType: '¿Qué tipo de información?', fTypes: ['Horario', 'Cerrado / trasladado', 'Precio', 'Dirección / ubicación', 'Foto', 'Otro'],
+    fPlace: 'Enlace de la página o nombre del lugar', fPlacePh: 'p. ej. Mercado de la Boqueria',
+    fWhat: '¿Qué ha cambiado?', fWhatPh: 'p. ej. Abre también los domingos desde octubre',
+    fSend: 'Enviar el aviso', fNote: 'Se abre tu app de correo con todo rellenado. O escribe a',
+    faqTitle: 'Preguntas frecuentes', faqDek: 'Las cifras, las fuentes y cada cuánto revisamos están en la', faqLink: 'página de metodología',
+    faq: [
+      ['¿Lo escribe una IA?', 'Los borradores se escriben con ayuda de IA, se contrastan con datos en tiempo real y los revisa el editor. Cada artículo lo indica.'],
+      ['¿Pixer es una persona real?', 'Sí. Pixer es el seudónimo de un editor de viajes coreano real que revisa cada guía. Usamos un seudónimo y lo decimos, en lugar de inventar un personaje con una foto falsa.'],
+      ['¿El editor ha estado en todos los lugares?', 'No. Solo en los que aparecen arriba, y solo esas guías hablan desde la experiencia propia. El resto se selecciona con datos en tiempo real y se verifica, y decimos cuál es cuál.'],
+      ['¿Y si algo está mal?', 'Usa el formulario de correcciones de arriba o escríbenos. Corregimos los errores confirmados y revisamos la guía.'],
+      ['¿Cómo se financia el sitio?', 'Algunos enlaces son de afiliados: si reservas a través de uno, podemos recibir una comisión sin coste extra para ti. Nunca decide lo que escribimos o recomendamos.'],
+    ],
+    nlEyebrow: 'El próximo viaje del editor', nlHeading: 'Lee las nuevas guías antes que nadie',
+    nlDek: 'Una guía de viaje realmente útil cada semana. Al suscribirte, también recibes la lista imprimible para preparar el viaje.',
+    nlCta: 'Suscribirme gratis →',
+  },
+  zh: {
+    metaTitle: '编辑原则 — Wander Atlas 是怎样做出来的',
+    metaDesc: 'Wander Atlas 由谁制作、AI 做什么和不做什么、每篇指南如何用实时数据核对，以及如何告诉我们过时的信息。',
+    crumbHome: '首页', crumb: '编辑原则', eyebrow: '编辑原则',
+    h1a: 'AI 起草，', h1b: '旅行者', h1c: '把关',
+    dek: 'Wander Atlas 是为国际游客挑选、由编辑审核的旅行指南。由谁制作、AI 帮到哪一步、错误如何更正，我们都毫无保留地写在这里。',
+    ctaVisited: '编辑去过的地方', ctaMethod: '数据是这样做的 →',
+    photoTag: '编辑拍摄 · 胡志明市',
+    cardName: 'Pixer', cardRole: '审核每篇指南的编辑 · 笔名',
+    statPlaces: '去过的国家和地区', statConts: '去过的大洲', statGuides: '审核过的指南',
+    strip: (g: string, c: number) => `${g} 篇指南 · ${c} 个国家 · 5 种语言 · 定期复核`,
+    p: [
+      ['绝不编造', '无法确认的营业时间、价格或地址，一律不写。'],
+      ['关门就下架', '只介绍确认在营业、口碑好的地方；确认关门后就下架指南。'],
+      ['公开 AI 的使用', '每篇文章都会注明借助了 AI。'],
+      ['每张照片都有授权', '标明出处，并确认拍的就是那个地方。'],
+    ],
+    edEyebrow: '编辑', edName: 'Pixer',
+    edBio: '一位韩国旅行编辑，走过并记录了亚洲、欧洲、美洲和大洋洲的许多国家。现在仍在旅行，每次回来都会补充本站的记录。',
+    edPen: 'Pixer 是笔名。', edPenRest: '我们一开始就说明，而不是虚构一个人物。',
+    visTitle: '亲自去过的地方',
+    visSub: (a: number, b: number) => `${a} 处中有 ${b} 处在本站有指南`,
+    all: '全部', onlyGuides: '只看有指南的', guides: (n: number) => `${n} 篇指南`,
+    scope: { most: '几乎全境', much: '大部分地区' },
+    visNote: '没去过的地方，我们不会说去过。编辑亲自去过的国家的指南，在首页也会单独标出。',
+    pipeTitle: '一篇指南是怎样诞生的', pipeDek: 'AI 帮助我们保持覆盖面广、信息新；核对和判断交给数据和人。点一下各个步骤看看。',
+    keepTitle: '这一步守住的事', prev: '← 上一步', next: '下一步 →',
+    whoLabel: { data: '数据', ai: 'AI', human: '人', both: '人 + 数据' },
+    steps: [
+      { k: 'data', who: 'data', title: '收集实时数据', body: '一个地方现在是否营业，以及营业时间、评分和地址，都来自实时数据源。使用哪些数据源，在方法论页面公开。', keep: ['只把确认在营业、口碑好的地方列为候选', '无法确认的信息一开始就舍弃'] },
+      { k: 'ai', who: 'ai', title: 'AI 撰写初稿', body: 'AI 根据核实过的事实写出易读的初稿，让我们能广泛覆盖许多国家并保持更新。', keep: ['价格、营业时间和地址来自第 1 步的数据，而不是 AI', '每篇指南都注明借助了 AI'] },
+      { k: 'check', who: 'data', title: '与实时数据核对', body: '自动检查会把初稿和原始数据逐项比对：名称、数字、日期、照片。未通过的初稿会被搁置，不会发布。', keep: ['地点不对、照片不符，或已结束的活动仍写成即将举行，初稿都会被搁置', '逐张确认照片拍的就是那个地方'] },
+      { k: 'edit', who: 'human', title: '编辑审核', body: '编辑会读每一篇指南，修改语气和需要判断的地方，删掉读起来像猜测的句子。', keep: ['每篇指南都有人读过', '只在编辑去过的地方写亲身经验'] },
+      { k: 'fix', who: 'both', title: '复核与更正', body: '店会关门，价格会变。指南会定期复核，活动结束后会改写，读者的反馈会被更正。', keep: ['关门的地方会下架', '采纳读者更正并重新核对指南'] },
+    ] as Step[],
+    aiDoes: 'AI 帮忙的事', aiDoesList: ['撰写初稿', '广泛、及时地覆盖许多国家'],
+    aiNot: 'AI 不能替代的事', aiNotList: ['编辑的审核', '事实核查流程', '“亲自去过”的经验'],
+    imgEyebrow: '图片', imgTitle: '只用有授权的照片',
+    imgDek: '只使用公有领域或开放许可的照片，或标明出处并附上链接的照片。绝不在没有授权的情况下转载他人的照片。',
+    imgSources: [['Wikimedia Commons', '公有领域 · 开放许可'], ['韩国观光公社', '公共数据'], ['Openverse', '开放许可'], ['注明出处的照片', '出处 · 链接']],
+    imgProof: '本站此刻刊登的照片 — 每张都带着出处',
+    fixEyebrow: '更正', fixTitle: '发现过时的信息了吗？',
+    fixDek: '店会关门，价格会变。我们会定期复核，但如果您告诉我们，我们会马上更正。',
+    fixOther: '其他咨询请到联系页面 →',
+    fType: '是哪类信息？', fTypes: ['营业时间', '关门 / 搬迁', '价格', '地址 / 位置', '照片', '其他'],
+    fPlace: '页面链接或地点名称', fPlacePh: '例如：博盖利亚市场',
+    fWhat: '有什么变化？', fWhatPh: '例如：从 10 月起周日也营业',
+    fSend: '发送反馈', fNote: '会打开已填好内容的邮件应用。也可以直接写信到',
+    faqTitle: '常见问题', faqDek: '数字、来源和复核频率，详见', faqLink: '方法论页面',
+    faq: [
+      ['是 AI 写的吗？', '初稿借助 AI 撰写，与实时数据核对后由编辑审核。每篇文章都会注明。'],
+      ['Pixer 是真人吗？', '是的。Pixer 是一位真实的韩国旅行编辑的笔名，每一篇指南都由这位编辑审核。我们使用笔名并说明这一点，而不是用假照片虚构人物。'],
+      ['编辑去过所有地方吗？', '没有。只去过上面列出的地方，也只有这些国家的指南会写亲身经验。其余是用实时数据挑选并核实的指南，我们会说明是哪一种。'],
+      ['信息有误怎么办？', '请使用上面的更正表单或给我们写信。确认的错误会被更正，指南也会重新核对。'],
+      ['网站靠什么运营？', '部分链接是联属链接：通过它预订，我们可能获得佣金，您无需额外付费。写什么、推荐什么，与此无关。'],
+    ],
+    nlEyebrow: '编辑的下一段旅程', nlHeading: '新指南上线，第一时间收到',
+    nlDek: '每周一篇真正有用的旅行指南。订阅还能获得可打印的行前准备清单。',
+    nlCta: '免费订阅 →',
+  },
+} as const;
+const t = L[lang];
+
+// Names of visited places that have no content yet are not in i18n/places;
+// keep them here so a Korean reader never sees "Mongolia".
+const EXTRA: Record<string, Partial<Record<Lang, string>>> = {
+  Laos: { ko: '라오스', ja: 'ラオス', es: 'Laos', zh: '老挝' },
+  Macau: { ko: '마카오', ja: 'マカオ', es: 'Macao', zh: '澳门' },
+  Mongolia: { ko: '몽골', ja: 'モンゴル', es: 'Mongolia', zh: '蒙古' },
+  Georgia: { ko: '조지아', ja: 'ジョージア', es: 'Georgia', zh: '格鲁吉亚' },
+  'Czech Republic': { ko: '체코', ja: 'チェコ', es: 'Chequia', zh: '捷克' },
+  Russia: { ko: '러시아', ja: 'ロシア', es: 'Rusia', zh: '俄罗斯' },
+  'New Zealand': { ko: '뉴질랜드', ja: 'ニュージーランド', es: 'Nueva Zelanda', zh: '新西兰' },
+};
+const placeName = (p: string) => (lang !== 'en' && EXTRA[p]?.[lang]) || localizePlace(p, lang);
+const CONT: Record<string, Record<Lang, string>> = {
+  Asia: { en: 'Asia', ko: '아시아', ja: 'アジア', es: 'Asia', zh: '亚洲' },
+  Europe: { en: 'Europe', ko: '유럽', ja: 'ヨーロッパ', es: 'Europa', zh: '欧洲' },
+  'North America': { en: 'Americas', ko: '아메리카', ja: 'アメリカ', es: 'América', zh: '美洲' },
+  Oceania: { en: 'Oceania', ko: '오세아니아', ja: 'オセアニア', es: 'Oceanía', zh: '大洋洲' },
+};
+const nf = new Intl.NumberFormat(lang === 'zh' ? 'zh-CN' : lang);
+const contactEmail = 'hello@wanderatlasguides.com';
+const methodHref = localizePath('/methodology', lang);
+const contactHref = localizePath('/contact', lang);
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: t.faq.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: a } })),
+};
+---
+<BaseLayout title={t.metaTitle} description={t.metaDesc} localized={true} image="/editor-photos/la-scene-saigon-facade.jpg" jsonLd={jsonLd}>
+  <div class="ep">
+    <nav class="ep-crumb" aria-label="breadcrumb"><a href={localizePath('/', lang)}>{t.crumbHome}</a><span aria-hidden="true">·</span><span>{t.crumb}</span></nav>
+
+    <!-- 1. Hero -->
+    <section class="ep-hero">
+      <div class="ep-hero-copy">
+        <span class="ep-pill">{t.eyebrow}</span>
+        <h1><span>{t.h1a}</span> <em>{t.h1b}</em> <em>{t.h1c}</em></h1>
+        <p class="ep-dek">{t.dek}</p>
+        <div class="ep-ctas">
+          <a class="ep-btn ep-btn-cta" href="#visited">{t.ctaVisited}</a>
+          <a class="ep-btn ep-btn-ghost" href={methodHref}>{t.ctaMethod}</a>
+        </div>
+      </div>
+      <div class="ep-hero-media">
+        <a class="ep-arch" href={localizePath('/posts/ho-chi-minh-city-la-scene', lang)}>
+          <img src="/editor-photos/la-scene-saigon-facade.jpg" alt="" width="520" height="680" loading="eager" fetchpriority="high" />
+          <span class="ep-phototag">📷 {t.photoTag}</span>
+        </a>
+        <a class="ep-circle" href={localizePath('/posts/ho-chi-minh-city-yakiuo-ishikawa', lang)} aria-label={t.photoTag}>
+          <img src="/editor-photos/yakiuo-ishikawa-saigon-entrance.jpg" alt="" width="200" height="200" loading="lazy" />
+        </a>
+        <div class="ep-card">
+          <div class="ep-card-head"><span class="ep-avatar" aria-hidden="true">P</span><div><strong>{t.cardName}</strong><span>{t.cardRole}</span></div></div>
+          <div class="ep-stats">
+            <div><span>{t.statPlaces}</span><b>{visited.length}</b></div>
+            <div><span>{t.statConts}</span><b>{continentsVisited}</b></div>
+            <div><span>{t.statGuides}</span><b>{nf.format(totalGuides)}</b></div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <p class="ep-strip">✓ {t.strip(nf.format(totalGuides), countriesCovered)}</p>
+
+    <!-- 2. Four promises -->
+    <section class="ep-promises">
+      {t.p.map(([h, b], i) => (
+        <article class={`ep-promise ep-promise-${i}`}>
+          <span class="ep-promise-ico" aria-hidden="true">{['◎', '↻', '✦', '▣'][i]}</span>
+          <h2>{h}</h2>
+          <p>{b}</p>
+        </article>
+      ))}
+    </section>
+
+    <!-- 3. Editor + visited places -->
+    <section class="ep-editor" id="visited">
+      <div class="ep-editor-who">
+        <span class="ep-avatar ep-avatar-lg" aria-hidden="true">P</span>
+        <span class="ep-kicker">{t.edEyebrow}</span>
+        <h2 class="ep-edname">{t.edName}</h2>
+        <p>{t.edBio}</p>
+        <p class="ep-pen"><strong>{t.edPen}</strong>{t.edPenRest}</p>
+        <div class="ep-social">
+          <a href="https://www.instagram.com/wander_atlas_guides/" rel="me noopener" target="_blank">Instagram</a>
+          <a href="https://www.pinterest.com/pixervtm/" rel="me noopener" target="_blank">Pinterest</a>
+          <a href="https://www.threads.net/@wander_atlas_guides" rel="me noopener" target="_blank">Threads</a>
+        </div>
+      </div>
+      <div class="ep-visited" data-visited>
+        <div class="ep-visited-head">
+          <h2>{t.visTitle}</h2>
+          <span>{t.visSub(visited.length, visitedWithGuides)}</span>
+        </div>
+        <div class="ep-filters" role="group">
+          <button type="button" class="ep-chip is-on" data-cont="all">{t.all} <small>{visited.length}</small></button>
+          {continents.filter((c) => contCount[c] > 0).map((c) => (
+            <button type="button" class="ep-chip" data-cont={c}>{CONT[c][lang]} <small>{contCount[c]}</small></button>
+          ))}
+        </div>
+        <label class="ep-toggle"><input type="checkbox" data-only-guides /> <span>{t.onlyGuides}</span></label>
+        <ul class="ep-places">
+          {visited.map((v) => (
+            <li data-cont={v.continent} data-has={v.href ? '1' : '0'}>
+              {v.href
+                ? <a href={v.href}><span class="ep-pname">{placeName(v.place)}</span>{v.scope && <span class="ep-scope">{t.scope[v.scope]}</span>}<span class="ep-gcount">{t.guides(v.n)} →</span></a>
+                : <span class="ep-nolink"><span class="ep-pname">{placeName(v.place)}</span>{v.scope && <span class="ep-scope">{t.scope[v.scope]}</span>}</span>}
+            </li>
+          ))}
+        </ul>
+        <p class="ep-note">{t.visNote}</p>
+      </div>
+    </section>
+
+    <!-- 4. Pipeline -->
+    <section class="ep-pipe" data-pipe>
+      <h2 class="ep-h2">{t.pipeTitle}</h2>
+      <p class="ep-sub">{t.pipeDek}</p>
+      <div class="ep-steps" role="tablist">
+        {t.steps.map((s, i) => (
+          <button type="button" role="tab" id={`ep-tab-${i}`} aria-controls={`ep-panel-${i}`} aria-selected={i === 0 ? 'true' : 'false'} class={`ep-step who-${s.who}`} data-i={i}>
+            <span class="ep-step-n">{i + 1}</span><span class="ep-step-who">{t.whoLabel[s.who as keyof typeof t.whoLabel]}</span>
+            <span class="ep-step-t">{s.title}</span>
+          </button>
+        ))}
+      </div>
+      {t.steps.map((s, i) => (
+        <div class="ep-panel" role="tabpanel" id={`ep-panel-${i}`} aria-labelledby={`ep-tab-${i}`} hidden={i !== 0}>
+          <div>
+            <span class={`ep-tag who-${s.who}`}>{i + 1} · {t.whoLabel[s.who as keyof typeof t.whoLabel]}</span>
+            <h3>{s.title}</h3>
+            <p>{s.body}</p>
+          </div>
+          <div class="ep-keep">
+            <span class="ep-keep-t">{t.keepTitle}</span>
+            <ul>{s.keep.map((k) => <li>{k}</li>)}</ul>
+            <div class="ep-nav">
+              <button type="button" class="ep-btn ep-btn-ghost ep-sm" data-go={i - 1} disabled={i === 0}>{t.prev}</button>
+              {i < t.steps.length - 1 && <button type="button" class="ep-btn ep-btn-cta ep-sm" data-go={i + 1}>{t.next}</button>}
+            </div>
+          </div>
+        </div>
+      ))}
+      <div class="ep-ai">
+        <div class="ep-ai-yes"><span>{t.aiDoes}</span><ul>{t.aiDoesList.map((x) => <li>{x}</li>)}</ul></div>
+        <div class="ep-ai-no"><span>{t.aiNot}</span><ul>{t.aiNotList.map((x) => <li>{x}</li>)}</ul></div>
+      </div>
+    </section>
+
+    <!-- 5. Images -->
+    <section class="ep-images">
+      <div class="ep-images-copy">
+        <span class="ep-pill ep-pill-dark">{t.imgEyebrow}</span>
+        <h2>{t.imgTitle}</h2>
+        <p>{t.imgDek}</p>
+        <ul class="ep-sources">{t.imgSources.map(([a, b]) => <li><strong>{a}</strong><span>{b}</span></li>)}</ul>
+      </div>
+      {proofPhotos.length > 0 && (
+        <figure class="ep-proof">
+          <div class="ep-proof-grid">
+            {proofPhotos.map((ph) => (
+              <a href={ph.href} class="ep-proof-item">
+                <img src={ph.src} alt={ph.place} loading="lazy" width="320" height="240" />
+                <span class="ep-credit">{ph.credit}</span>
+              </a>
+            ))}
+          </div>
+          <figcaption>{t.imgProof}</figcaption>
+        </figure>
+      )}
+    </section>
+
+    <!-- 6. Corrections -->
+    <section class="ep-fix" id="corrections">
+      <div class="ep-fix-copy">
+        <span class="ep-kicker">{t.fixEyebrow}</span>
+        <h2>{t.fixTitle}</h2>
+        <p>{t.fixDek}</p>
+        <a class="ep-link" href={contactHref}>{t.fixOther}</a>
+      </div>
+      <form class="ep-form" data-fix data-email={contactEmail} data-page={Astro.url.pathname}>
+        <fieldset>
+          <legend>{t.fType}</legend>
+          <div class="ep-types">
+            {t.fTypes.map((x, i) => (
+              <label class="ep-type"><input type="radio" name="kind" value={x} checked={i === 0} /><span>{x}</span></label>
+            ))}
+          </div>
+        </fieldset>
+        <label class="ep-field"><span>{t.fPlace}</span><input name="place" required placeholder={t.fPlacePh} /></label>
+        <label class="ep-field"><span>{t.fWhat}</span><textarea name="what" rows="4" required placeholder={t.fWhatPh}></textarea></label>
+        <button class="ep-btn ep-btn-cta ep-wide" type="submit">{t.fSend}</button>
+        <p class="ep-form-note">{t.fNote} <a href={`mailto:${contactEmail}`}>{contactEmail}</a></p>
+      </form>
+    </section>
+
+    <!-- 7. FAQ -->
+    <section class="ep-faq">
+      <div>
+        <h2 class="ep-h2">{t.faqTitle}</h2>
+        <p class="ep-sub">{t.faqDek} <a href={methodHref}>{t.faqLink}</a>.</p>
+      </div>
+      <div class="ep-faq-list">
+        {t.faq.map(([q, a], i) => (
+          <details open={i === 0}><summary>{q}</summary><p>{a}</p></details>
+        ))}
+      </div>
+    </section>
+
+    <!-- 8. Newsletter -->
+    <section class="ep-nl">
+      <Newsletter lang={lang} heading={t.nlHeading} dek={t.nlDek} cta={t.nlCta} />
+    </section>
+  </div>
+</BaseLayout>
+
+<script>
+  // Visited-places filter: continent chips + "with guides only".
+  document.querySelectorAll<HTMLElement>('[data-visited]').forEach((box) => {
+    let cont = 'all';
+    const only = box.querySelector<HTMLInputElement>('[data-only-guides]');
+    const apply = () => {
+      box.querySelectorAll<HTMLElement>('.ep-places li').forEach((li) => {
+        const okCont = cont === 'all' || li.dataset.cont === cont;
+        const okGuide = !only?.checked || li.dataset.has === '1';
+        li.hidden = !(okCont && okGuide);
+      });
+    };
+    box.querySelectorAll<HTMLButtonElement>('.ep-chip').forEach((b) => b.addEventListener('click', () => {
+      cont = b.dataset.cont || 'all';
+      box.querySelectorAll('.ep-chip').forEach((x) => x.classList.toggle('is-on', x === b));
+      apply();
+    }));
+    only?.addEventListener('change', apply);
+  });
+
+  // Pipeline tabs (+ arrow keys, + the panel's own back/next buttons).
+  document.querySelectorAll<HTMLElement>('[data-pipe]').forEach((pipe) => {
+    const tabs = [...pipe.querySelectorAll<HTMLButtonElement>('.ep-step')];
+    const panels = [...pipe.querySelectorAll<HTMLElement>('.ep-panel')];
+    const show = (i: number, focus = false) => {
+      if (i < 0 || i >= tabs.length) return;
+      tabs.forEach((t, j) => t.setAttribute('aria-selected', String(j === i)));
+      panels.forEach((p, j) => (p.hidden = j !== i));
+      if (focus) tabs[i].focus();
+    };
+    tabs.forEach((t, i) => {
+      t.addEventListener('click', () => show(i));
+      t.addEventListener('keydown', (e) => {
+        if (e.key === 'ArrowRight') show(i + 1, true);
+        if (e.key === 'ArrowLeft') show(i - 1, true);
+      });
+    });
+    pipe.querySelectorAll<HTMLButtonElement>('[data-go]').forEach((b) => b.addEventListener('click', () => show(Number(b.dataset.go), true)));
+  });
+
+  // Correction form: no server, no tracking — it composes an email in the
+  // reader's own mail app, so nothing is stored on our side.
+  document.querySelectorAll<HTMLFormElement>('[data-fix]').forEach((form) => {
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const fd = new FormData(form);
+      const kind = String(fd.get('kind') || '');
+      const place = String(fd.get('place') || '').trim();
+      const what = String(fd.get('what') || '').trim();
+      const subject = `[Correction] ${kind}: ${place}`.slice(0, 140);
+      const body = `${kind}\n${place}\n\n${what}\n\n— ${location.origin}${form.dataset.page || ''}`;
+      location.href = `mailto:${form.dataset.email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    });
+  });
+</script>
+
+<style>
+  .ep {
+    --ep-brown: #7a3b1d; --ep-olive: #3d4a2c; --ep-forest: #26301f; --ep-peach: #f6dccb; --ep-cream: #fbf3e8; --ep-sand: #efe4d3;
+    --ep-on-dark: #fbf3e8;
+    max-width: var(--max); margin: 0 auto; padding: 18px 20px 64px;
+    display: grid; gap: 28px;
+  }
+  @media (prefers-color-scheme: dark) {
+    .ep { --ep-peach: #3a2a20; --ep-cream: #221d17; --ep-sand: #2a241c; }
+  }
+  .ep a { color: inherit; }
+  /* Grid children default to min-width:auto, so the scrollable step row pushed
+     the whole page to ~800px on a phone. */
+  .ep :is(section, div, figure, form, article, ul) { min-width: 0; }
+  .ep-crumb { font-size: .82rem; color: var(--muted); display: flex; gap: 8px; }
+  .ep-crumb a { text-decoration: none; }
+  .ep-pill { display: inline-block; font-size: .78rem; font-weight: 600; padding: 4px 12px; border-radius: var(--r-pill); background: var(--ep-peach); color: var(--cta-deep); }
+  .ep-pill-dark { background: rgba(255,255,255,.12); color: var(--ep-on-dark); }
+  .ep-pill-light { background: rgba(255,255,255,.16); color: var(--ep-on-dark); }
+  .ep-kicker { font-size: .8rem; font-weight: 700; color: var(--cta); letter-spacing: .02em; }
+  .ep-h2 { font-family: var(--font-display); font-size: clamp(1.5rem, 3vw, 2rem); margin: 0; }
+  .ep-sub { color: var(--muted); margin: 6px 0 0; }
+  .ep-btn { display: inline-flex; align-items: center; justify-content: center; gap: 6px; padding: 11px 18px; border-radius: var(--r-pill); font-weight: 600; text-decoration: none; border: 1px solid transparent; cursor: pointer; font: inherit; font-weight: 600; }
+  .ep-btn-cta { background: var(--cta); color: #fff !important; }
+  .ep-btn-cta:hover { background: var(--cta-deep); }
+  .ep-btn-ghost { background: var(--surface); border-color: var(--line-strong); color: var(--ink); }
+  .ep-btn[disabled] { opacity: .4; cursor: default; }
+  .ep-sm { padding: 8px 14px; font-size: .88rem; }
+  .ep-wide { width: 100%; }
+
+  /* hero */
+  .ep-hero { display: grid; grid-template-columns: 1.05fr .95fr; gap: 32px; align-items: center; }
+  .ep-hero h1 { font-family: var(--font-display); font-size: clamp(2.1rem, 5vw, 3.4rem); line-height: 1.12; margin: 14px 0 16px; letter-spacing: -.01em; }
+  .ep-hero h1 span { display: block; }
+  .ep-hero h1 em { font-style: normal; color: var(--cta); }
+  .ep-dek { color: var(--ink-soft); font-size: 1.05rem; line-height: 1.7; max-width: 34em; }
+  .ep-ctas { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 18px; }
+  .ep-hero-media { position: relative; min-height: 460px; }
+  .ep-arch { position: absolute; inset: 0 12% 40px 6%; border-radius: 999px 999px 24px 24px; overflow: hidden; box-shadow: var(--shadow-md); display: block; }
+  .ep-arch img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .ep-phototag { position: absolute; left: 14px; bottom: 14px; background: rgba(20,16,12,.7); color: #fff; font-size: .74rem; padding: 4px 10px; border-radius: var(--r-pill); }
+  .ep-circle { position: absolute; top: -6px; right: 0; width: 128px; height: 128px; border-radius: 50%; overflow: hidden; border: 4px solid var(--bg); box-shadow: var(--shadow-md); }
+  .ep-circle img { width: 100%; height: 100%; object-fit: cover; }
+  .ep-card { position: absolute; right: 0; bottom: 0; width: min(300px, 78%); background: var(--ep-forest); color: var(--ep-on-dark); border-radius: var(--r-lg); padding: 16px; box-shadow: var(--shadow-lg); }
+  .ep-card-head { display: flex; gap: 10px; align-items: center; }
+  .ep-card-head strong { display: block; font-family: var(--font-display); font-size: 1.15rem; }
+  .ep-card-head span { font-size: .76rem; opacity: .8; }
+  .ep-avatar { width: 38px; height: 38px; border-radius: 50%; background: var(--cta); color: #fff; display: grid; place-items: center; font-family: var(--font-display); font-weight: 700; flex: none; }
+  .ep-avatar-lg { width: 72px; height: 72px; font-size: 2rem; }
+  .ep-stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-top: 12px; }
+  .ep-stats div { background: rgba(255,255,255,.08); border-radius: var(--r-sm); padding: 8px; }
+  .ep-stats span { display: block; font-size: .68rem; opacity: .8; line-height: 1.3; }
+  .ep-stats b { font-family: var(--font-display); font-size: 1.35rem; }
+  .ep-strip { margin: -6px 0 0; text-align: center; font-size: .9rem; color: var(--pine); font-weight: 600; background: var(--ep-sand); border-radius: var(--r-pill); padding: 9px 14px; }
+
+  /* promises */
+  .ep-promises { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; }
+  .ep-promise { border-radius: var(--r-lg); padding: 20px 18px 22px; }
+  .ep-promise h2 { font-family: var(--font-display); font-size: 1.15rem; margin: 12px 0 8px; line-height: 1.3; }
+  .ep-promise p { font-size: .9rem; line-height: 1.6; margin: 0; }
+  .ep-promise-ico { width: 34px; height: 34px; border-radius: 10px; display: grid; place-items: center; background: rgba(255,255,255,.16); }
+  .ep-promise-0 { background: var(--ep-brown); color: var(--ep-on-dark); }
+  .ep-promise-1 { background: var(--ep-olive); color: var(--ep-on-dark); }
+  .ep-promise-2 { background: var(--ep-cream); border: 1px solid var(--line); }
+  .ep-promise-3 { background: var(--ep-peach); }
+  .ep-promise-2 .ep-promise-ico, .ep-promise-3 .ep-promise-ico { background: var(--surface); }
+
+  /* editor */
+  .ep-editor { display: grid; grid-template-columns: .8fr 1.6fr; gap: 28px; background: var(--ep-cream); border: 1px solid var(--line); border-radius: var(--r-lg); padding: 28px; scroll-margin-top: 80px; }
+  .ep-edname { font-family: var(--font-display); font-size: 1.9rem; margin: 2px 0 8px; }
+  .ep-editor-who p { color: var(--ink-soft); line-height: 1.7; font-size: .95rem; }
+  .ep-pen { background: var(--ep-sand); border-radius: var(--r-md); padding: 10px 12px; font-size: .88rem !important; }
+  .ep-social { display: flex; flex-wrap: wrap; gap: 6px; }
+  .ep-social a { font-size: .82rem; padding: 5px 12px; border: 1px solid var(--line-strong); border-radius: var(--r-pill); text-decoration: none; background: var(--surface); }
+  .ep-visited-head { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+  .ep-visited-head h2 { font-family: var(--font-display); font-size: 1.4rem; margin: 0; }
+  .ep-visited-head span { font-size: .85rem; color: var(--muted); }
+  .ep-filters { display: flex; flex-wrap: wrap; gap: 6px; margin: 12px 0 8px; }
+  .ep-chip { font: inherit; font-size: .85rem; padding: 6px 12px; border-radius: var(--r-pill); border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink); cursor: pointer; }
+  .ep-chip small { opacity: .65; margin-left: 2px; }
+  .ep-chip.is-on { background: var(--ep-forest); color: var(--ep-on-dark); border-color: var(--ep-forest); }
+  .ep-toggle { display: inline-flex; gap: 8px; align-items: center; font-size: .85rem; margin-bottom: 12px; cursor: pointer; }
+  .ep-places { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 8px; }
+  .ep-places a, .ep-nolink { display: inline-flex; align-items: center; gap: 6px; padding: 7px 12px; border-radius: var(--r-pill); font-size: .9rem; }
+  .ep-places a { background: var(--ep-peach); text-decoration: none; }
+  .ep-places a:hover { outline: 2px solid var(--cta); }
+  .ep-nolink { background: var(--surface); border: 1px solid var(--line); color: var(--muted); }
+  .ep-pname { font-weight: 600; color: var(--ink); }
+  .ep-scope { font-size: .74rem; color: var(--muted); }
+  .ep-gcount { font-size: .76rem; color: var(--cta-deep); font-weight: 600; }
+  .ep-note { font-size: .82rem; color: var(--muted); margin: 14px 0 0; }
+
+  /* pipeline */
+  .ep-steps { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; margin: 18px 0 12px; }
+  .ep-step { font: inherit; text-align: left; border: 1px solid var(--line); background: var(--surface); border-radius: var(--r-md); padding: 12px; cursor: pointer; display: grid; grid-template-columns: auto 1fr; gap: 8px 8px; align-items: center; color: var(--ink); }
+  .ep-step-n { width: 26px; height: 26px; border-radius: 50%; display: grid; place-items: center; background: var(--ep-sand); font-weight: 700; font-size: .85rem; }
+  .ep-step-who { justify-self: end; font-size: .7rem; padding: 2px 8px; border-radius: var(--r-pill); background: var(--ep-sand); }
+  .ep-step-t { grid-column: 1 / -1; font-weight: 600; font-size: .92rem; line-height: 1.3; }
+  .ep-step[aria-selected='true'] { background: var(--ep-brown); color: var(--ep-on-dark); border-color: var(--ep-brown); }
+  .ep-step[aria-selected='true'] .ep-step-n, .ep-step[aria-selected='true'] .ep-step-who { background: rgba(255,255,255,.18); color: #fff; }
+  .ep-panel { display: grid; grid-template-columns: 1.2fr 1fr; gap: 20px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-lg); padding: 22px; }
+  .ep-panel[hidden] { display: none; }
+  .ep-panel h3 { font-family: var(--font-display); font-size: 1.4rem; margin: 10px 0 8px; }
+  .ep-panel p { color: var(--ink-soft); line-height: 1.7; margin: 0; }
+  .ep-tag { font-size: .75rem; font-weight: 600; padding: 3px 10px; border-radius: var(--r-pill); }
+  .who-data.ep-tag { background: #e3ecd9; color: #34502a; }
+  .who-ai.ep-tag { background: var(--ep-peach); color: var(--cta-deep); }
+  .who-human.ep-tag, .who-both.ep-tag { background: var(--ep-sand); color: var(--ink); }
+  .ep-keep { background: var(--ep-cream); border-radius: var(--r-md); padding: 16px; }
+  .ep-keep-t { font-size: .8rem; color: var(--muted); }
+  .ep-keep ul { list-style: none; padding: 0; margin: 8px 0 14px; display: grid; gap: 8px; }
+  .ep-keep li { padding-left: 26px; position: relative; font-size: .92rem; line-height: 1.5; }
+  .ep-keep li::before { content: '✓'; position: absolute; left: 0; top: 0; width: 18px; height: 18px; border-radius: 50%; background: var(--pine); color: #fff; font-size: .7rem; display: grid; place-items: center; }
+  .ep-nav { display: flex; justify-content: space-between; gap: 8px; }
+  .ep-ai { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-top: 14px; }
+  .ep-ai > div { border-radius: var(--r-lg); padding: 16px 18px; }
+  .ep-ai span { font-size: .82rem; font-weight: 700; }
+  .ep-ai ul { list-style: none; padding: 0; margin: 10px 0 0; display: flex; flex-wrap: wrap; gap: 6px; }
+  .ep-ai li { background: var(--surface); border-radius: var(--r-pill); padding: 5px 12px; font-size: .86rem; }
+  .ep-ai-yes { background: #e3ecd9; color: #26301f; }
+  .ep-ai-no { background: var(--ep-peach); }
+  @media (prefers-color-scheme: dark) { .ep-ai-yes, .who-data.ep-tag { background: #2b3524; color: #dfe9d3; } }
+
+  /* images */
+  .ep-images { display: grid; grid-template-columns: 1fr 1.1fr; gap: 26px; align-items: center; background: var(--ep-forest); color: var(--ep-on-dark); border-radius: var(--r-lg); padding: 30px; }
+  .ep-images h2 { font-family: var(--font-display); font-size: clamp(1.5rem, 3vw, 2rem); margin: 12px 0 10px; }
+  .ep-images-copy > p { opacity: .85; line-height: 1.7; }
+  .ep-sources { list-style: none; padding: 0; margin: 14px 0 0; display: grid; gap: 8px; }
+  .ep-sources li { display: flex; justify-content: space-between; gap: 10px; background: rgba(255,255,255,.08); border-radius: var(--r-pill); padding: 9px 16px; font-size: .88rem; }
+  .ep-sources span { opacity: .7; font-size: .8rem; text-align: right; }
+  .ep-proof { margin: 0; }
+  .ep-proof-grid { display: grid; grid-template-columns: 1.2fr 1fr; grid-template-rows: 1fr 1fr; gap: 10px; height: 340px; }
+  .ep-proof-item { position: relative; border-radius: 22px; overflow: hidden; display: block; }
+  .ep-proof-item:first-child { grid-row: 1 / 3; border-radius: 999px 999px 22px 22px; }
+  .ep-proof-item img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .ep-credit { position: absolute; left: 8px; right: 8px; bottom: 8px; background: rgba(15,12,9,.72); color: #fff; font-size: .66rem; line-height: 1.35; padding: 4px 8px; border-radius: 10px; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+  .ep-proof figcaption { font-size: .8rem; opacity: .75; margin-top: 10px; text-align: center; }
+
+  /* corrections */
+  .ep-fix { display: grid; grid-template-columns: .9fr 1.1fr; gap: 28px; align-items: start; scroll-margin-top: 80px; }
+  .ep-fix h2 { font-family: var(--font-display); font-size: clamp(1.5rem, 3vw, 2rem); margin: 6px 0 10px; }
+  .ep-fix-copy p { color: var(--ink-soft); line-height: 1.7; }
+  .ep-link { font-weight: 600; color: var(--cta-deep) !important; text-decoration: none; }
+  .ep-form { background: var(--ep-cream); border: 1px solid var(--line); border-radius: var(--r-lg); padding: 22px; display: grid; gap: 14px; }
+  .ep-form fieldset { border: 0; padding: 0; margin: 0; }
+  .ep-form legend, .ep-field > span { font-size: .85rem; font-weight: 600; margin-bottom: 8px; display: block; }
+  .ep-types { display: flex; flex-wrap: wrap; gap: 6px; }
+  .ep-type input { position: absolute; opacity: 0; pointer-events: none; }
+  .ep-type span { display: inline-block; padding: 6px 12px; border-radius: var(--r-pill); border: 1px solid var(--line-strong); background: var(--surface); font-size: .86rem; cursor: pointer; }
+  .ep-type input:checked + span { background: var(--ep-brown); color: #fff; border-color: var(--ep-brown); }
+  .ep-type input:focus-visible + span { outline: 2px solid var(--cta); outline-offset: 2px; }
+  .ep-field input, .ep-field textarea { width: 100%; box-sizing: border-box; font: inherit; padding: 10px 12px; border-radius: var(--r-sm); border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink); }
+  .ep-form-note { font-size: .78rem; color: var(--muted); margin: 0; text-align: center; }
+
+  /* faq */
+  .ep-faq { display: grid; grid-template-columns: .8fr 1.2fr; gap: 28px; }
+  .ep-faq-list { display: grid; gap: 10px; }
+  .ep-faq details { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-md); padding: 0 18px; }
+  .ep-faq summary { cursor: pointer; font-weight: 600; padding: 16px 0; list-style: none; display: flex; justify-content: space-between; gap: 12px; }
+  .ep-faq summary::-webkit-details-marker { display: none; }
+  .ep-faq summary::after { content: '+'; width: 24px; height: 24px; border-radius: 50%; background: var(--ep-sand); display: grid; place-items: center; flex: none; }
+  .ep-faq details[open] summary::after { content: '−'; background: var(--ep-brown); color: #fff; }
+  .ep-faq details p { margin: 0 0 16px; color: var(--ink-soft); line-height: 1.7; }
+
+  /* newsletter */
+  .ep-nl { margin-top: 4px; }
+
+  @media (max-width: 900px) {
+    .ep-hero, .ep-editor, .ep-images, .ep-fix, .ep-faq, .ep-panel { grid-template-columns: 1fr; }
+    .ep-promises { grid-template-columns: 1fr 1fr; }
+    .ep-steps { grid-template-columns: repeat(5, minmax(150px, 1fr)); overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: 4px; }
+    .ep-step { scroll-snap-align: start; }
+    .ep-hero-media { min-height: 400px; }
+  }
+  @media (max-width: 560px) {
+    .ep { padding: 14px 16px 48px; gap: 22px; }
+    .ep-promises, .ep-ai { grid-template-columns: 1fr; }
+    .ep-editor, .ep-images { padding: 20px; }
+    .ep-proof-grid { height: 260px; }
+    .ep-stats b { font-size: 1.15rem; }
+  }
+</style>

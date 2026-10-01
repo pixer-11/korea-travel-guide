@@ -1,7 +1,8 @@
 ---
-import { getEntry } from 'astro:content';
-import StaticPage from '../components/StaticPage.astro';
-const entry = await getEntry('staticPages', 'about');
+// Editorial policy, rebuilt 2026-10-01 from the owner's mock-up. The prose that
+// used to render here (src/content/static-pages/about.md + its translations)
+// is no longer shown on this route; the page computes its own counts.
+import EditorialPage from '../components/EditorialPage.astro';
 ---
 
-<StaticPage entry={entry} translation={null} lang="en" />
+<EditorialPage lang="en" />
