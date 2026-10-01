@@ -1,0 +1,413 @@
+---
+// /methodology (+ /[lang]/methodology), owner's mock-up "데이터 산출 방식
+// 개선안" (2026-10-01). The prose is the staticPages markdown and its four
+// translations, untouched, cut at each <h2>; the page adds what the mock-up
+// adds around it: a "data sources at a glance" card that jumps to each
+// section, a contents rail, a before/after toggle showing how a chart is
+// fitted to opening hours (an illustration, labelled as one), the venue
+// rules as three cards, and a citation builder.
+import { render, getCollection } from 'astro:content';
+import { createHash } from 'node:crypto';
+import { existsSync } from 'node:fs';
+import { fileURLToPath } from 'node:url';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import AboutNav from './AboutNav.astro';
+import { localizePath, useTranslations, type Lang } from '../i18n/utils';
+import { formatHour } from '../lib/hours.mjs';
+
+interface Props { entry: any; translation: any; lang: Lang }
+const { entry, translation, lang } = Astro.props;
+const t = useTranslations(lang);
+const src = translation ?? entry;
+const d = src.data;
+let html: string = src.rendered?.html ?? '';
+if (!html) { const r = await render(src); html = (r as any).rendered?.html ?? ''; }
+const firstH2 = html.search(/<h2[\s>]/);
+const intro = firstH2 >= 0 ? html.slice(0, firstH2) : html;
+const IDS = ['crowd', 'venues', 'climate', 'itineraries', 'photos', 'editor', 'cite'];
+const sections = [...(firstH2 >= 0 ? html.slice(firstH2) : '').matchAll(/<h2[^>]*>([\s\S]*?)<\/h2>([\s\S]*?)(?=<h2[\s>]|$)/g)]
+  .map((m, i) => ({ i, title: m[1].replace(/<[^>]+>/g, '').trim(), body: m[2], id: IDS[i] ?? `s${i}` }));
+const byId = Object.fromEntries(sections.map((s) => [s.id, s]));
+
+// A real, credited photo for the photos section: the most-reviewed attraction
+// with a built wall thumbnail.
+const wallHash = (s: string) => createHash('sha1').update(s).digest('hex').slice(0, 16);
+const WALL_DIR = fileURLToPath(new URL('../../public/wall/', import.meta.url));
+const posts = await getCollection('posts', ({ data }) => !data.draft && data.category === 'attraction' && ['wikimedia', 'openverse-cc'].includes(data.heroImage?.license ?? ''));
+const translated = lang === 'en' ? null : new Set((await getCollection('postI18n')).map((e) => e.id).filter((id) => id.startsWith(`${lang}/`)).map((id) => id.slice(lang.length + 1)));
+const photo = posts
+  .filter((p) => !translated || translated.has(p.id))
+  .sort((a, b) => (b.data.place?.userRatingsTotal ?? 0) - (a.data.place?.userRatingsTotal ?? 0))
+  .map((p) => ({ src: `/wall/${wallHash(p.data.heroImage!.url)}.webp`, file: `${wallHash(p.data.heroImage!.url)}.webp`, credit: p.data.heroImage!.credit ?? '', href: localizePath(`/posts/${p.id}`, lang) }))
+  .find((p) => existsSync(WALL_DIR + p.file));
+
+const ICON: Record<string, string> = {
+  users: '<path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/>',
+  pin: '<path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"/><circle cx="12" cy="10" r="3"/>',
+  sun: '<path d="M12 2v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="M20 12h2"/><path d="m19.07 4.93-1.41 1.41"/><path d="M15.947 12.65a4 4 0 0 0-5.925-4.128"/><path d="M13 22H7a5 5 0 1 1 4.9-6H13a3 3 0 0 1 0 6Z"/>',
+  calendar: '<rect width="18" height="18" x="3" y="4" rx="2" ry="2"/><line x1="16" x2="16" y1="2" y2="6"/><line x1="8" x2="8" y1="2" y2="6"/><line x1="3" x2="21" y1="10" y2="10"/>',
+  image: '<rect width="18" height="18" x="3" y="3" rx="2" ry="2"/><circle cx="9" cy="9" r="2"/><path d="m21 15-3.086-3.086a2 2 0 0 0-2.828 0L6 21"/>',
+  route: '<circle cx="6" cy="19" r="3"/><path d="M9 19h8.5a3.5 3.5 0 0 0 0-7h-11a3.5 3.5 0 0 1 0-7H15"/><circle cx="18" cy="5" r="3"/>',
+  quote: '<path d="M3 21c3 0 7-1 7-8V5c0-1.25-.756-2.017-2-2H4c-1.25 0-2 .75-2 1.972V11c0 1.25.75 2 2 2 1 0 1 0 1 1v1c0 1-1 2-2 2s-1 .008-1 1.031V20c0 1 0 1 1 1z"/><path d="M15 21c3 0 7-1 7-8V5c0-1.25-.757-2.017-2-2h-4c-1.25 0-2 .75-2 1.972V11c0 1.25.75 2 2 2h.75c0 2.25.25 4-2.75 4v3c0 1 0 1 1 1z"/>',
+  bulb: '<path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"/><path d="M9 18h6"/><path d="M10 22h4"/>',
+  copy: '<rect width="14" height="14" x="8" y="8" rx="2" ry="2"/><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"/>',
+  check: '<path d="M20 6 9 17l-5-5"/>',
+  x: '<path d="M18 6 6 18"/><path d="m6 6 12 12"/>',
+};
+const svg = (n: string, s = 18) => `<svg width="${s}" height="${s}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ICON[n] ?? ''}</svg>`;
+
+type Src = [string, string, string, string, string]; // icon, title, from, badge, anchor
+const L = {
+  en: {
+    pill: 'Methodology', accent: 'Every number has a source', citeCta: 'How to cite', policy: 'Editorial policy →', glance: 'Data sources at a glance', toc: 'On this page',
+    sources: [['users', 'Crowd levels', 'BestTime.app measured foot traffic', 'Rolling refresh', 'crowd'], ['pin', 'Hours & ratings', 'Commercial venue databases, official sources', '≈ quarterly', 'venues'], ['sun', 'Temperature & rain', 'NASA POWER weather archive', '10 years', 'climate'], ['calendar', 'Public holidays', 'National holiday calendars', 'Twice a year', 'climate'], ['image', 'Photos', 'Licensed & open sources', 'Credited', 'photos']] as Src[],
+    chartT: 'Every chart is fitted to real opening hours', chartSub: 'Illustration · a museum open 10 AM–6 PM', before: 'Before', after: 'After',
+    shown: 'Shown as the quietest hour', okAfter: 'Right after opening — genuinely quiet', badBefore: 'Before opening — empty because it is shut',
+    legend: ['Quiet', 'Moderate', 'Busy', 'Outside opening hours'], venueRule: 'The rules', climateTool: 'When-to-go tool →', holidayTool: 'Holiday overlap calendar →', itinLink: 'See the itineraries →',
+    photoNote: 'A wrong photo never ships', editorLink: 'Editorial policy →', urlLbl: 'Page to cite', asText: 'As text', asHtml: 'Link HTML', copy: 'Copy', copied: 'Copied ✓',
+    citeText: (url: string) => `Source: Wander Atlas, ${url}`, pressQ: 'Press or data questions?', contact: 'Contact →',
+    more: [['Editorial policy →', 'How far AI helps, and who reviews', '/about'], ['Find quiet hours →', 'The crowd tool built on this data', '/tools/best-time'], ['Contact →', 'Corrections, press and data questions', '/contact']],
+  },
+  ko: {
+    pill: '조사 방법론', accent: '숫자마다 출처가 있어요', citeCta: '인용하는 방법', policy: '편집 원칙 →', glance: '한눈에 보는 데이터 출처', toc: '이 페이지에서',
+    sources: [['users', '혼잡도', 'BestTime.app 실측 유동인구', '순차 갱신', 'crowd'], ['pin', '영업시간·평점', '상업용 장소 DB·공식 출처', '약 분기 1회', 'venues'], ['sun', '기온·강수량', 'NASA POWER 기상 기록', '10년치', 'climate'], ['calendar', '공휴일', '각국 공휴일 달력', '연 2회', 'climate'], ['image', '사진', '라이선스·공개 출처', '출처 표기', 'photos']] as Src[],
+    chartT: '모든 차트를 실제 영업시간에 맞춰 보정해요', chartSub: '예시 · 오전 10시~오후 6시에 여는 박물관', before: '보정 전', after: '보정 후',
+    shown: '가장 한산하다고 표시되는 시간', okAfter: '문 연 직후, 실제로 한산한 시간', badBefore: '문 열기 전이라 텅 빈 시간',
+    legend: ['한산', '보통', '붐빔', '영업시간 외'], venueRule: '기준', climateTool: '언제 갈까 도구 →', holidayTool: '아시아 휴일 겹침 달력 →', itinLink: '추천 일정 보기 →',
+    photoNote: '잘못된 사진은 절대 나가지 않아요', editorLink: '편집 원칙 보기 →', urlLbl: '인용할 페이지 주소', asText: '문장으로', asHtml: '링크 HTML', copy: '복사하기', copied: '복사했어요 ✓',
+    citeText: (url: string) => `출처: Wander Atlas, ${url}`, pressQ: '언론 문의나 데이터 관련 질문이 있으신가요?', contact: '문의하기 →',
+    more: [['편집 원칙 →', 'AI는 어디까지 돕고, 누가 검수하나요', '/about'], ['한산한 시간 찾기 →', '이 데이터로 만든 혼잡도 도구', '/tools/best-time'], ['문의하기 →', '정정 제보, 언론·데이터 문의', '/contact']],
+  },
+  ja: {
+    pill: '調査方法', accent: 'すべての数字に出典があります', citeCta: '引用のしかた', policy: '編集方針 →', glance: 'データの出典が一目でわかる', toc: 'このページの内容',
+    sources: [['users', '混雑度', 'BestTime.app の実測人流', '順次更新', 'crowd'], ['pin', '営業時間・評価', '商用スポットDB・公式情報源', '約四半期ごと', 'venues'], ['sun', '気温・降水量', 'NASA POWER の気象記録', '10年分', 'climate'], ['calendar', '祝日', '各国の祝日カレンダー', '年2回', 'climate'], ['image', '写真', 'ライセンス・公開の出典', '出典明記', 'photos']] as Src[],
+    chartT: 'すべてのチャートを実際の営業時間に合わせて補正します', chartSub: '例 · 午前10時〜午後6時に開く博物館', before: '補正前', after: '補正後',
+    shown: 'いちばん空いていると表示される時間', okAfter: '開館直後、本当に空いている時間', badBefore: '開館前なので誰もいない時間',
+    legend: ['空いている', '普通', '混雑', '営業時間外'], venueRule: '基準', climateTool: 'いつ行くかツール →', holidayTool: 'アジアの休日重なりカレンダー →', itinLink: 'おすすめ日程を見る →',
+    photoNote: '間違った写真は絶対に出しません', editorLink: '編集方針を見る →', urlLbl: '引用するページのURL', asText: '文章で', asHtml: 'リンクHTML', copy: 'コピー', copied: 'コピーしました ✓',
+    citeText: (url: string) => `出典: Wander Atlas, ${url}`, pressQ: '取材やデータに関するご質問は？', contact: 'お問い合わせ →',
+    more: [['編集方針 →', 'AIはどこまで手伝い、誰が確認するか', '/about'], ['空いている時間を探す →', 'このデータでつくった混雑度ツール', '/tools/best-time'], ['お問い合わせ →', '訂正、取材・データのお問い合わせ', '/contact']],
+  },
+  es: {
+    pill: 'Metodología', accent: 'Cada número tiene una fuente', citeCta: 'Cómo citarnos', policy: 'Política editorial →', glance: 'Las fuentes de un vistazo', toc: 'En esta página',
+    sources: [['users', 'Afluencia', 'Tráfico medido por BestTime.app', 'Actualización continua', 'crowd'], ['pin', 'Horarios y valoraciones', 'Bases comerciales y fuentes oficiales', '≈ cada trimestre', 'venues'], ['sun', 'Temperatura y lluvia', 'Archivo meteorológico NASA POWER', '10 años', 'climate'], ['calendar', 'Festivos', 'Calendarios nacionales', '2 veces al año', 'climate'], ['image', 'Fotos', 'Fuentes con licencia o abiertas', 'Con crédito', 'photos']] as Src[],
+    chartT: 'Cada gráfico se ajusta al horario real', chartSub: 'Ilustración · un museo abierto de 10:00 a 18:00', before: 'Antes', after: 'Después',
+    shown: 'Mostrada como la hora más tranquila', okAfter: 'Justo al abrir: tranquilo de verdad', badBefore: 'Antes de abrir: vacío porque está cerrado',
+    legend: ['Tranquilo', 'Normal', 'Lleno', 'Fuera de horario'], venueRule: 'Las reglas', climateTool: 'Herramienta Cuándo ir →', holidayTool: 'Calendario de festivos que coinciden →', itinLink: 'Ver los itinerarios →',
+    photoNote: 'Nunca se publica una foto equivocada', editorLink: 'Política editorial →', urlLbl: 'Página que quieres citar', asText: 'Como texto', asHtml: 'HTML del enlace', copy: 'Copiar', copied: 'Copiado ✓',
+    citeText: (url: string) => `Fuente: Wander Atlas, ${url}`, pressQ: '¿Preguntas de prensa o sobre los datos?', contact: 'Contacto →',
+    more: [['Política editorial →', 'Hasta dónde ayuda la IA y quién revisa', '/about'], ['Horas tranquilas →', 'La herramienta hecha con estos datos', '/tools/best-time'], ['Contacto →', 'Correcciones, prensa y datos', '/contact']],
+  },
+  zh: {
+    pill: '研究方法', accent: '每个数字都有出处', citeCta: '如何引用', policy: '编辑原则 →', glance: '数据来源一览', toc: '本页内容',
+    sources: [['users', '拥挤度', 'BestTime.app 实测人流', '滚动更新', 'crowd'], ['pin', '营业时间 · 评分', '商业地点数据库 · 官方来源', '约每季度一次', 'venues'], ['sun', '气温 · 降水', 'NASA POWER 气象档案', '10 年数据', 'climate'], ['calendar', '公共假期', '各国假期日历', '每年 2 次', 'climate'], ['image', '照片', '有授权或公开的来源', '注明出处', 'photos']] as Src[],
+    chartT: '每张图表都按实际营业时间校正', chartSub: '示例 · 上午 10 点至下午 6 点开放的博物馆', before: '校正前', after: '校正后',
+    shown: '显示为最空闲的时段', okAfter: '刚开门，真正空闲的时段', badBefore: '还没开门，所以空无一人',
+    legend: ['空闲', '一般', '拥挤', '非营业时间'], venueRule: '标准', climateTool: '何时去工具 →', holidayTool: '亚洲假期重叠日历 →', itinLink: '查看推荐行程 →',
+    photoNote: '错误的照片绝不会发布', editorLink: '查看编辑原则 →', urlLbl: '要引用的页面地址', asText: '文字', asHtml: '链接 HTML', copy: '复制', copied: '已复制 ✓',
+    citeText: (url: string) => `来源：Wander Atlas，${url}`, pressQ: '有媒体或数据方面的问题？', contact: '联系我们 →',
+    more: [['编辑原则 →', 'AI 帮到哪一步，谁来审核', '/about'], ['寻找空闲时段 →', '用这些数据做成的拥挤度工具', '/tools/best-time'], ['联系我们 →', '更正、媒体与数据咨询', '/contact']],
+  },
+} as const;
+const T = L[lang];
+const hr = (h: number) => formatHour(h, { am: t('post.am'), pm: t('post.pm'), lang });
+// Illustration (labelled as one): raw forecast vs the same day clipped to a
+// 10:00–18:00 opening. q quiet · m moderate · b busy · x outside opening hours.
+const HOURS = Array.from({ length: 16 }, (_, i) => i + 7);
+const RAW = 'qqqqmbbbmmqqqqqq';
+const FIT = 'xxxqmbbbmmqxxxxx';
+const pageAbs = (p: string) => new URL(localizePath(p, lang), Astro.site ?? 'https://wanderatlasguides.com').href;
+---
+<BaseLayout title={d.metaTitle} description={d.metaDescription} localized={true}>
+  <div class="mt">
+    <AboutNav lang={lang} current="methodology" />
+
+    <div class="mt-hero">
+      <div>
+        <span class="mt-pill">{T.pill}</span>
+        <h1><span>{d.h1}</span><em>{T.accent}</em></h1>
+        <div class="mt-dek" set:html={intro} />
+        {d.lastUpdated && <p class="mt-upd">{t('static.lastUpdated').replace('{date}', d.lastUpdated)}</p>}
+        <div class="mt-ctas">
+          <a class="mt-btn mt-btn-cta" href="#cite">{T.citeCta}</a>
+          <a class="mt-btn mt-btn-ghost" href={localizePath('/about', lang)}>{T.policy}</a>
+        </div>
+      </div>
+      <aside class="mt-glance">
+        <p>{T.glance}</p>
+        <ul>
+          {T.sources.map(([ico, title, from, badge, anchor]) => (
+            <li><a href={`#${anchor}`}><i><Fragment set:html={svg(ico, 16)} /></i><span><b>{title}</b><small>{from}</small></span><em>{badge}</em></a></li>
+          ))}
+        </ul>
+      </aside>
+    </div>
+
+    <div class="mt-grid">
+      <nav class="mt-toc" aria-label={T.toc}>
+        <p>{T.toc}</p>
+        <ol>{sections.map((s) => <li><a href={`#${s.id}`} data-toc={s.id}>{s.title}</a></li>)}</ol>
+      </nav>
+      <div class="mt-body">
+        {byId.crowd && (
+          <section class="mt-sec" id="crowd">
+            <h2><i><Fragment set:html={svg('users')} /></i>{byId.crowd.title}</h2>
+            <div class="prose mt-crowd" set:html={byId.crowd.body} />
+            <div class="mt-fit" data-fit data-mode="after">
+              <div class="mt-fit-head">
+                <div><b>{T.chartT}</b><small>{T.chartSub}</small></div>
+                <div class="mt-seg" role="group">
+                  <button type="button" data-fit-mode="before" aria-pressed="false">{T.before}</button>
+                  <button type="button" data-fit-mode="after" aria-pressed="true" class="is-on">{T.after}</button>
+                </div>
+              </div>
+              <div class="mt-cells" data-raw={RAW} data-fit-cells={FIT} aria-hidden="true">
+                {HOURS.map((h, i) => <i class:list={[`c-${FIT[i]}`, { 'is-pick': h === 10 }]}></i>)}
+              </div>
+              <div class="mt-axis" aria-hidden="true"><span>{hr(7)}</span><span>{hr(12)}</span><span>{hr(17)}</span><span>{hr(22)}</span></div>
+              <div class="mt-shown">
+                <span>{T.shown}</span>
+                <b data-fit-hour data-before={hr(7)} data-after={hr(10)}>{hr(10)}</b>
+                <em class="is-ok" data-fit-verdict data-ok={T.okAfter} data-bad={T.badBefore}><Fragment set:html={svg('check', 13)} /><span>{T.okAfter}</span></em>
+              </div>
+              <p class="mt-legend"><span><i class="c-q"></i>{T.legend[0]}</span><span><i class="c-m"></i>{T.legend[1]}</span><span><i class="c-b"></i>{T.legend[2]}</span><span><i class="c-x"></i>{T.legend[3]}</span></p>
+            </div>
+          </section>
+        )}
+        {byId.venues && (
+          <section class="mt-sec" id="venues">
+            <h2><i class="is-peach"><Fragment set:html={svg('pin')} /></i>{byId.venues.title}</h2>
+            <div class="prose mt-rules" set:html={byId.venues.body} />
+          </section>
+        )}
+        {byId.climate && (
+          <section class="mt-sec" id="climate">
+            <h2><i><Fragment set:html={svg('sun')} /></i>{byId.climate.title}</h2>
+            <div class="prose mt-card is-green" set:html={byId.climate.body} />
+            <p class="mt-links"><a href={localizePath('/tools/when-to-go', lang)}>{T.climateTool}</a><a href={localizePath('/tools/holiday-overlap', lang)}>{T.holidayTool}</a></p>
+          </section>
+        )}
+        {byId.itineraries && (
+          <section class="mt-sec" id="itineraries">
+            <h2><i><Fragment set:html={svg('route')} /></i>{byId.itineraries.title}</h2>
+            <div class="prose mt-card" set:html={byId.itineraries.body} />
+            <p class="mt-links"><a href={localizePath('/itinerary', lang)}>{T.itinLink}</a></p>
+          </section>
+        )}
+        {byId.photos && (
+          <section class="mt-sec" id="photos">
+            <h2><i class="is-peach"><Fragment set:html={svg('image')} /></i>{byId.photos.title}</h2>
+            <div class="mt-photo-row">
+              <div class="prose" set:html={byId.photos.body} />
+              {photo && (
+                <a class="mt-photo" href={photo.href}>
+                  <img src={photo.src} alt="" loading="lazy" width="320" height="400" />
+                  <span>{T.photoNote}</span>
+                  <small>{photo.credit}</small>
+                </a>
+              )}
+            </div>
+          </section>
+        )}
+        {byId.editor && (
+          <section class="mt-sec mt-editor" id="editor">
+            <span class="mt-avatar" aria-hidden="true">P</span>
+            <div><h2>{byId.editor.title}</h2><div class="prose" set:html={byId.editor.body} /></div>
+            <a class="mt-btn mt-btn-ghost" href={localizePath('/about', lang)}>{T.editorLink}</a>
+          </section>
+        )}
+        {byId.cite && (
+          <section class="mt-sec mt-cite" id="cite">
+            <h2><i><Fragment set:html={svg('quote')} /></i>{byId.cite.title}</h2>
+            <div class="prose" set:html={byId.cite.body} />
+            <div class="mt-tool" data-cite-tool data-copy={T.copy} data-copied={T.copied} data-tpl={T.citeText('{url}')}>
+              <label><span>{T.urlLbl}</span><input type="url" value={pageAbs('/methodology')} data-cite-url /></label>
+              <div class="mt-tool-row">
+                <div class="mt-seg" role="group">
+                  <button type="button" class="is-on" aria-pressed="true" data-cite-mode="text">{T.asText}</button>
+                  <button type="button" aria-pressed="false" data-cite-mode="html">{T.asHtml}</button>
+                </div>
+                <button type="button" class="mt-btn mt-btn-cta mt-sm" data-cite-copy><Fragment set:html={svg('copy', 14)} /><span>{T.copy}</span></button>
+              </div>
+              <output data-cite-out>{T.citeText(pageAbs('/methodology'))}</output>
+            </div>
+            <p class="mt-press"><span>{T.pressQ}</span><a class="mt-btn mt-btn-ghost mt-sm" href={localizePath('/contact', lang)}>{T.contact}</a></p>
+          </section>
+        )}
+      </div>
+    </div>
+
+    <div class="mt-more">
+      {T.more.map(([title, sub, href]) => <a href={localizePath(href, lang)}><b>{title}</b><span>{sub}</span></a>)}
+    </div>
+  </div>
+</BaseLayout>
+
+<script>
+  // Before/after: the same day, raw vs clipped to opening hours.
+  document.querySelectorAll<HTMLElement>('[data-fit]').forEach((box) => {
+    const cells = box.querySelector<HTMLElement>('.mt-cells')!;
+    const hour = box.querySelector<HTMLElement>('[data-fit-hour]')!;
+    const verdict = box.querySelector<HTMLElement>('[data-fit-verdict]')!;
+    box.querySelectorAll<HTMLButtonElement>('[data-fit-mode]').forEach((b) => b.addEventListener('click', () => {
+      const before = b.dataset.fitMode === 'before';
+      box.querySelectorAll('[data-fit-mode]').forEach((x) => { x.classList.toggle('is-on', x === b); x.setAttribute('aria-pressed', String(x === b)); });
+      const pat = before ? cells.dataset.raw! : cells.dataset.fitCells!;
+      cells.querySelectorAll('i').forEach((c, i) => { c.className = `c-${pat[i]}`; if (i === (before ? 0 : 3)) c.classList.add('is-pick'); });
+      hour.textContent = before ? hour.dataset.before! : hour.dataset.after!;
+      verdict.className = before ? 'is-bad' : 'is-ok';
+      verdict.querySelector('span')!.textContent = before ? verdict.dataset.bad! : verdict.dataset.ok!;
+      verdict.querySelector('svg')!.innerHTML = before ? '<path d="M18 6 6 18"/><path d="m6 6 12 12"/>' : '<path d="M20 6 9 17l-5-5"/>';
+    }));
+  });
+
+  // Contents rail: mark the section being read.
+  const links = [...document.querySelectorAll<HTMLAnchorElement>('.mt-toc [data-toc]')];
+  const secs = links.map((a) => document.getElementById(a.dataset.toc!)).filter(Boolean) as HTMLElement[];
+  if ('IntersectionObserver' in window && secs.length) {
+    const io = new IntersectionObserver((es) => {
+      for (const e of es) if (e.isIntersecting) links.forEach((a) => a.classList.toggle('is-on', a.dataset.toc === e.target.id));
+    }, { rootMargin: '-30% 0px -60% 0px' });
+    secs.forEach((s) => io.observe(s));
+  }
+
+  // Citation builder: any page URL → a sentence or a link, one click to copy.
+  document.querySelectorAll<HTMLElement>('[data-cite-tool]').forEach((tool) => {
+    const url = tool.querySelector<HTMLInputElement>('[data-cite-url]')!;
+    const out = tool.querySelector<HTMLOutputElement>('[data-cite-out]')!;
+    let mode = 'text';
+    const draw = () => {
+      const u = url.value.trim();
+      const safe = u.replace(/"/g, '%22');
+      out.textContent = mode === 'html' ? `<a href="${safe}">Wander Atlas</a>` : tool.dataset.tpl!.replace('{url}', u);
+    };
+    url.addEventListener('input', draw);
+    tool.querySelectorAll<HTMLButtonElement>('[data-cite-mode]').forEach((b) => b.addEventListener('click', () => {
+      mode = b.dataset.citeMode || 'text';
+      tool.querySelectorAll('[data-cite-mode]').forEach((x) => { x.classList.toggle('is-on', x === b); x.setAttribute('aria-pressed', String(x === b)); });
+      tool.classList.toggle('is-html', mode === 'html');
+      draw();
+    }));
+    const copy = tool.querySelector<HTMLButtonElement>('[data-cite-copy]')!;
+    copy.addEventListener('click', async () => {
+      try { await navigator.clipboard.writeText(out.textContent || ''); }
+      catch {
+        const r = document.createRange(); r.selectNodeContents(out);
+        const s = getSelection(); s?.removeAllRanges(); s?.addRange(r);
+        return;
+      }
+      const label = copy.querySelector('span')!;
+      label.textContent = tool.dataset.copied!;
+      setTimeout(() => { label.textContent = tool.dataset.copy!; }, 2000);
+    });
+  });
+</script>
+
+<style>
+  .mt { max-width: var(--max); margin: 0 auto; padding: 18px 20px 64px; display: grid; gap: 28px; --mt-forest: #26301f; --mt-brown: #7a3b1d; --mt-peach: #f6dccb; --mt-cream: #fbf3e8; --mt-sand: #efe4d3; --mt-green: #e3ecd9; --mt-on-green: #34502a; }
+  @media (prefers-color-scheme: dark) { .mt { --mt-peach: #3a2a20; --mt-cream: #221d17; --mt-sand: #2a241c; --mt-green: #2b3524; --mt-on-green: #d6e8c4; } }
+  .mt :is(div, section, aside, nav) { min-width: 0; }
+  .mt-pill { display: inline-block; font-size: .78rem; font-weight: 600; padding: 4px 12px; border-radius: var(--r-pill); background: var(--mt-green); color: var(--mt-on-green); }
+  .mt-btn { display: inline-flex; gap: 6px; align-items: center; padding: 10px 16px; border-radius: var(--r-pill); font: inherit; font-weight: 600; text-decoration: none; border: 1px solid transparent; cursor: pointer; }
+  .mt-btn-cta { background: var(--cta); color: #fff !important; }
+  .mt-btn-ghost { background: var(--surface); border-color: var(--line-strong); color: var(--ink) !important; }
+  .mt-sm { padding: 7px 13px; font-size: .86rem; }
+  .mt-hero { display: grid; grid-template-columns: 1.1fr .9fr; gap: 28px; align-items: center; }
+  .mt-hero h1 { font-family: var(--font-display); font-size: clamp(2rem, 4.6vw, 3rem); line-height: 1.15; margin: 12px 0; }
+  .mt-hero h1 span, .mt-hero h1 em { display: block; }
+  .mt-hero h1 em { font-style: normal; color: var(--cta); }
+  .mt-dek :global(p) { color: var(--ink-soft); line-height: 1.7; margin: 0; }
+  .mt-upd { margin: 10px 0 0; font-size: .8rem; color: var(--muted); }
+  .mt-ctas { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 16px; }
+  .mt-glance { background: var(--mt-forest); color: #fbf3e8; border-radius: var(--r-lg); padding: 20px; position: relative; overflow: hidden; }
+  .mt-glance::after { content: ''; position: absolute; width: 200px; height: 200px; border-radius: 50%; background: rgba(255,255,255,.05); right: -50px; top: -70px; }
+  .mt-glance > p { margin: 0 0 10px; font-size: .8rem; opacity: .85; position: relative; }
+  .mt-glance ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; position: relative; z-index: 1; }
+  .mt-glance a { display: flex; gap: 10px; align-items: center; background: rgba(255,255,255,.08); border-radius: 16px; padding: 9px 12px; text-decoration: none; color: inherit; }
+  .mt-glance a:hover { background: rgba(255,255,255,.14); }
+  .mt-glance i { width: 32px; height: 32px; border-radius: 50%; background: rgba(255,255,255,.12); display: grid; place-items: center; flex: none; }
+  .mt-glance span { flex: 1; min-width: 0; display: grid; }
+  .mt-glance b { font-size: .92rem; }
+  .mt-glance small { font-size: .74rem; opacity: .75; }
+  .mt-glance em { font-style: normal; font-size: .72rem; font-weight: 700; background: var(--mt-green); color: var(--mt-on-green); padding: 3px 9px; border-radius: var(--r-pill); white-space: nowrap; }
+  .mt-grid { display: grid; grid-template-columns: 190px minmax(0, 1fr); gap: 28px; align-items: start; }
+  .mt-toc { position: sticky; top: 80px; }
+  .mt-toc p { margin: 0 0 8px; font-size: .78rem; color: var(--muted); }
+  .mt-toc ol { list-style: none; padding: 0; margin: 0; display: grid; gap: 2px; }
+  .mt-toc a { display: block; font-size: .86rem; color: var(--ink-soft); text-decoration: none; padding: 6px 12px; border-radius: 12px; }
+  .mt-toc a::before { content: '•'; margin-right: 8px; color: var(--line-strong); }
+  .mt-toc a.is-on { background: var(--surface); color: var(--ink); font-weight: 600; }
+  .mt-toc a.is-on::before { color: var(--mt-brown); }
+  .mt-body { display: grid; gap: 34px; }
+  .mt-sec { scroll-margin-top: 80px; display: grid; gap: 14px; }
+  .mt-sec h2 { display: flex; gap: 12px; align-items: center; font-family: var(--font-display); font-size: 1.5rem; margin: 0; }
+  .mt-sec h2 i { width: 40px; height: 40px; border-radius: 50%; background: var(--mt-green); display: grid; place-items: center; flex: none; }
+  .mt-sec h2 i.is-peach { background: var(--mt-peach); }
+  .mt-sec .prose :global(p), .mt-sec .prose :global(li) { line-height: 1.75; color: var(--ink-soft); }
+  .mt-crowd :global(p:nth-of-type(2)) { background: var(--mt-green); border-radius: var(--r-lg); padding: 16px 18px; color: var(--ink); }
+  .mt-fit { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-lg); padding: 18px 20px; display: grid; gap: 10px; }
+  .mt-fit-head { display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap; align-items: start; }
+  .mt-fit-head b { display: block; font-size: .98rem; }
+  .mt-fit-head small { font-size: .78rem; color: var(--muted); }
+  .mt-seg { display: inline-flex; background: var(--mt-sand); border-radius: var(--r-pill); padding: 3px; }
+  .mt-seg button { font: inherit; font-size: .84rem; border: 0; background: none; color: var(--ink); padding: 6px 12px; border-radius: var(--r-pill); cursor: pointer; }
+  .mt-seg button.is-on { background: var(--mt-forest); color: #fff; }
+  .mt-cells { display: grid; grid-template-columns: repeat(16, minmax(0, 1fr)); gap: 4px; }
+  .mt-cells i, .mt-legend i { display: block; height: 30px; border-radius: 999px; }
+  .c-q { background: #8fa77a; } .c-m { background: #ddd3c3; } .c-b { background: #b8632f; }
+  .c-x { background: repeating-linear-gradient(45deg, #e8dccb 0 4px, #f6efe4 4px 8px); }
+  .mt-cells i.is-pick { outline: 2.5px solid var(--ink); outline-offset: 2px; }
+  .mt-axis { display: flex; justify-content: space-between; font-size: .7rem; color: var(--muted); }
+  .mt-shown { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; background: var(--mt-cream); border-radius: var(--r-pill); padding: 10px 16px; }
+  .mt-shown > span { font-size: .82rem; color: var(--muted); }
+  .mt-shown b { font-family: var(--font-display); font-size: 1.3rem; }
+  .mt-shown em { font-style: normal; font-size: .78rem; font-weight: 700; display: inline-flex; gap: 5px; align-items: center; padding: 3px 10px; border-radius: var(--r-pill); }
+  .mt-shown em.is-ok { background: var(--mt-green); color: var(--mt-on-green); } .mt-shown em.is-bad { background: #f8ddd9; color: #8c2a22; }
+  @media (prefers-color-scheme: dark) { .mt-shown em.is-bad { background: #4a2420; color: #f6c9c2; } }
+  .mt-legend { display: flex; flex-wrap: wrap; gap: 12px; margin: 0; font-size: .76rem; color: var(--muted); }
+  .mt-legend span { display: inline-flex; gap: 6px; align-items: center; }
+  .mt-legend i { width: 20px; height: 9px; }
+  .mt-rules :global(ul) { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+  .mt-rules :global(li) { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-lg); padding: 16px 18px; margin: 0; font-size: .88rem; }
+  .mt-rules :global(li strong:first-child) { display: block; font-family: var(--font-display); font-size: 1.15rem; color: var(--mt-brown); margin-bottom: 6px; }
+  .mt-card { border-radius: var(--r-lg); padding: 16px 20px; background: var(--surface); border: 1px solid var(--line); }
+  .mt-card.is-green { background: var(--mt-green); border: 0; }
+  .mt-card :global(p:last-child) { margin-bottom: 0; }
+  .mt-links { display: flex; gap: 14px; flex-wrap: wrap; margin: 0; }
+  .mt-links a { font-size: .88rem; font-weight: 700; color: var(--cta-deep); text-decoration: none; }
+  .mt-photo-row { display: grid; grid-template-columns: 1fr 240px; gap: 20px; align-items: start; }
+  .mt-photo { position: relative; display: block; border-radius: 999px 999px 22px 22px; overflow: hidden; text-decoration: none; }
+  .mt-photo img { width: 100%; height: 300px; object-fit: cover; display: block; }
+  .mt-photo span { position: absolute; left: 10px; right: 10px; bottom: 30px; background: rgba(255,253,249,.94); color: #201c17; font-size: .76rem; font-weight: 700; text-align: center; padding: 6px 10px; border-radius: var(--r-pill); }
+  .mt-photo small { position: absolute; left: 0; right: 0; bottom: 0; font-size: .62rem; color: #fff; background: rgba(15,12,9,.65); padding: 4px 10px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .mt-editor { grid-template-columns: auto 1fr auto; align-items: center; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-lg); padding: 18px 20px; }
+  .mt-editor h2 { font-size: 1.15rem; }
+  .mt-editor .prose :global(p) { margin: 4px 0 0; }
+  .mt-avatar { width: 56px; height: 56px; border-radius: 50%; background: var(--mt-brown); color: #fff; display: grid; place-items: center; font-family: var(--font-display); font-weight: 700; font-size: 1.6rem; }
+  .mt-cite { background: var(--mt-green); border-radius: var(--r-lg); padding: 22px; }
+  .mt-cite h2 i { background: var(--mt-cream); }
+  .mt-tool { background: var(--mt-cream); border-radius: var(--r-lg); padding: 16px; display: grid; gap: 10px; }
+  .mt-tool label span { display: block; font-size: .8rem; color: var(--muted); margin-bottom: 6px; }
+  .mt-tool input { width: 100%; box-sizing: border-box; font: inherit; font-size: .88rem; padding: 9px 14px; border-radius: var(--r-pill); border: 1px solid var(--line-strong); background: var(--mt-sand); color: var(--ink); }
+  .mt-tool-row { display: flex; justify-content: space-between; gap: 8px; flex-wrap: wrap; }
+  .mt-tool output { display: block; background: var(--surface); border-radius: 14px; padding: 12px 14px; font-size: .88rem; word-break: break-all; }
+  .mt-tool.is-html output { font-family: ui-monospace, Menlo, Consolas, monospace; font-size: .8rem; }
+  .mt-press { display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap; align-items: center; margin: 0; font-size: .88rem; }
+  .mt-more { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
+  .mt-more a { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-lg); padding: 14px 18px; text-decoration: none; display: grid; gap: 2px; }
+  .mt-more b { font-size: .95rem; }
+  .mt-more span { font-size: .8rem; color: var(--muted); }
+  @media (max-width: 900px) {
+    .mt-hero, .mt-grid { grid-template-columns: 1fr; }
+    .mt-toc { display: none; }
+    .mt-rules :global(ul), .mt-more { grid-template-columns: 1fr; }
+    .mt-photo-row { grid-template-columns: 1fr; }
+    .mt-editor { grid-template-columns: auto 1fr; }
+    .mt-editor .mt-btn { grid-column: 1 / -1; justify-self: start; }
+  }
+  @media (max-width: 560px) {
+    .mt { padding: 14px 16px 48px; }
+    .mt-cells { gap: 2px; }
+    .mt-cells i { height: 24px; }
+  }
+</style>

@@ -1,75 +1,376 @@
 ---
+// /contact (+ /[lang]/contact), owner's mock-up "문의하기 개선안"
+// (2026-10-01). There is no server form: the reader picks what the message
+// is about, the page drafts a subject and a body skeleton they can edit, and
+// "write in mail app" opens it as a mailto (or copies it). Meta title and
+// description are unchanged so the page keeps its search identity.
+import { getCollection } from 'astro:content';
+import { createHash } from 'node:crypto';
+import { existsSync } from 'node:fs';
+import { fileURLToPath } from 'node:url';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import type { Lang } from '../i18n/utils';
+import AboutNav from './AboutNav.astro';
+import { localizePath, type Lang } from '../i18n/utils';
+import { localizePlace } from '../i18n/places';
 
-// Shared contact page for /contact (en) + /[lang]/contact.
 interface Props { lang: Lang }
 const { lang } = Astro.props;
 const contactEmail = 'hello@wanderatlasguides.com';
+const SOCIAL = [
+  ['Instagram', 'https://www.instagram.com/wander_atlas_guides/'],
+  ['Pinterest', 'https://www.pinterest.com/pixervtm/'],
+  ['Threads', 'https://www.threads.net/@wander_atlas_guides'],
+];
 
-const T = {
+// Two real, credited place photos for the hero (mock-up arch + circle),
+// from posts that exist in this language, two different countries.
+const wallHash = (s: string) => createHash('sha1').update(s).digest('hex').slice(0, 16);
+const WALL_DIR = fileURLToPath(new URL('../../public/wall/', import.meta.url));
+const posts = await getCollection('posts', ({ data }) => !data.draft && data.category === 'attraction');
+const translated = lang === 'en' ? null : new Set((await getCollection('postI18n')).map((e) => e.id).filter((id) => id.startsWith(`${lang}/`)).map((id) => id.slice(lang.length + 1)));
+const seen = new Set<string>();
+const photos = posts
+  .filter((p) => !translated || translated.has(p.id))
+  .filter((p) => ['wikimedia', 'kto-open', 'openverse-cc'].includes(p.data.heroImage?.license ?? '') && p.data.heroImage?.credit)
+  .sort((a, b) => (b.data.place?.userRatingsTotal ?? 0) - (a.data.place?.userRatingsTotal ?? 0))
+  .flatMap((p) => {
+    const name = `${wallHash(p.data.heroImage!.url)}.webp`;
+    if (!existsSync(WALL_DIR + name) || seen.has(p.data.country)) return [];
+    seen.add(p.data.country);
+    return [{ src: `/wall/${name}`, credit: p.data.heroImage!.credit!, href: localizePath(`/posts/${p.id}`, lang), label: localizePlace(p.data.region, lang) }];
+  })
+  .slice(0, 2);
+
+const ICON: Record<string, string> = {
+  pencil: '<path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"/><path d="m15 5 4 4"/>',
+  map: '<path d="M14.106 5.553a2 2 0 0 0 1.788 0l3.659-1.83A1 1 0 0 1 21 4.619v12.764a1 1 0 0 1-.553.894l-4.553 2.277a2 2 0 0 1-1.788 0l-4.212-2.106a2 2 0 0 0-1.788 0l-3.659 1.83A1 1 0 0 1 3 19.381V6.618a1 1 0 0 1 .553-.894l4.553-2.277a2 2 0 0 1 1.788 0z"/><path d="M15 5.764v15"/><path d="M9 3.236v15"/>',
+  news: '<path d="M15 18h-5"/><path d="M18 14h-8"/><path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-4 0v-9a2 2 0 0 1 2-2h2"/><rect width="8" height="4" x="10" y="6" rx="1"/>',
+  lock: '<rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/>',
+  chat: '<path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/>',
+  mail: '<rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/>',
+  send: '<path d="M14.536 21.686a.5.5 0 0 0 .937-.024l6.5-19a.496.496 0 0 0-.635-.635l-19 6.5a.5.5 0 0 0-.024.937l7.93 3.18a2 2 0 0 1 1.112 1.11z"/><path d="m21.854 2.147-10.94 10.939"/>',
+  check: '<path d="M20 6 9 17l-5-5"/>',
+  siren: '<path d="M7 18v-6a5 5 0 1 1 10 0v6"/><path d="M5 21a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-1a2 2 0 0 0-2-2H7a2 2 0 0 0-2 2z"/><path d="M21 12h1"/><path d="M18.5 4.5 18 5"/><path d="M2 12h1"/><path d="M12 2v1"/><path d="m4.929 4.929.707.707"/><path d="M12 12v6"/>',
+};
+const svg = (n: string, s = 18) => `<svg width="${s}" height="${s}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ICON[n] ?? ''}</svg>`;
+
+// One inquiry type: icon, title, hint, checklist, subject tag, subject
+// placeholder, body field labels (one line each), optional "read first" link.
+type Kind = { k: string; icon: string; title: string; hint: string; checks: string[]; tag: string; ph: string; fields: string[]; link?: [string, string] };
+const L: Record<Lang, any> = {
   en: {
     metaTitle: 'Contact', metaDesc: 'Get in touch with Wander Atlas — corrections, questions, and feedback.',
-    eyebrow: 'Get in touch', h1: 'Contact us',
-    dek: "Corrections, questions, or feedback — we'd love to hear from you.",
-    body: 'Spotted something out of date, or have a question about planning a trip? Places close and prices change, and we genuinely want to keep our guides accurate — so please tell us.',
-    emailLabel: 'Email',
-    disclosure: "We aim to reply to genuine questions and corrections. This is an informational travel site — for emergencies while traveling, always use the local emergency number for the country you're in.",
+    pill: 'Contact', h1: 'Contact us', accent: "We'd love to hear from you",
+    dek: "Spotted something out of date, or have a question about planning a trip? Places close and prices change, and we genuinely want to keep our guides accurate — so corrections, questions and feedback are all welcome.",
+    copyAddr: 'Copy address', copied: 'Copied ✓', replyNote: 'We aim to reply to genuine questions and corrections.', social: 'Find us on social', photoTag: 'Photo',
+    pickH: 'What is it about?', pickSub: 'Pick one and we will fill in the subject and what to include.',
+    howH: 'Writing it like this gets a faster answer', to: 'To', subject: 'Subject', subjectInput: 'Subject detail', bodyLbl: 'Message', open: 'Write in mail app', copyAll: 'Copy text',
+    sosH: 'In an emergency while travelling', sosP: 'This is an informational travel site. In an emergency, always call the local emergency number for the country you are in.', sosBtn: 'Emergency numbers by country →',
+    beforeH: 'Before you write',
+    before: [['Editorial policy →', 'How far AI helps, and who reviews', '/about'], ['How our data works →', 'Where crowd, hours and climate figures come from', '/methodology'], ['Privacy policy →', 'How we handle newsletter and data', '/privacy']],
+    kinds: [
+      { k: 'fix', icon: 'pencil', title: 'Correction', hint: 'Closed places, changed prices or hours', checks: ['The page address or place name', 'What changed, and how', 'When you saw it, and a source (if any)'], tag: '[Correction]', ph: 'Place name', fields: ['Page address or place name:', 'What changed:', 'When you saw it and source (if any):'] },
+      { k: 'trip', icon: 'map', title: 'Trip question', hint: 'Something a guide left you wondering', checks: ['Destination and travel dates', 'Your question', 'The guide you were reading'], tag: '[Trip question]', ph: 'Destination', fields: ['Destination and dates:', 'Question:', 'Guide link:'] },
+      { k: 'press', icon: 'news', title: 'Press & data', hint: 'Quoting a figure, questions about the data', checks: ['Outlet or organisation', 'The figure and page you want to quote', 'Your deadline'], tag: '[Press/data]', ph: 'Outlet', fields: ['Outlet / organisation:', 'Figure and page address:', 'Deadline:'], link: ['Read how our data works first →', '/methodology'] },
+      { k: 'privacy', icon: 'lock', title: 'Privacy request', hint: 'Access, correction, deletion, subscription', checks: ['What you are asking for (access, correction, deletion…)', 'The email address concerned (the one you subscribed with)'], tag: '[Privacy request]', ph: 'Request type', fields: ['Request (access / correction / deletion…):', 'Email address concerned:'], link: ['Read the privacy policy →', '/privacy'] },
+      { k: 'other', icon: 'chat', title: 'Feedback & other', hint: 'Praise, ideas, anything', checks: ['No format needed, just write'], tag: '[Feedback]', ph: '', fields: [''] },
+    ] as Kind[],
   },
   ko: {
     metaTitle: '문의', metaDesc: 'Wander Atlas에 문의하기 — 오류 신고, 질문, 의견을 보내주세요.',
-    eyebrow: '문의하기', h1: '연락하기',
-    dek: '오류 신고, 질문, 의견 — 언제든 편하게 들려주세요.',
-    body: '오래된 정보를 발견하셨거나 여행 계획에 관해 궁금한 점이 있으신가요? 문을 닫는 곳도 있고 가격도 바뀝니다. 저희는 가이드를 정확하게 유지하고 싶으니, 부담 없이 알려주세요.',
-    emailLabel: '이메일',
-    disclosure: '진지한 질문과 오류 신고에는 답변을 드리려 노력합니다. 이곳은 정보 제공용 여행 사이트입니다 — 여행 중 응급 상황에는 반드시 현지 긴급 전화번호를 이용하세요.',
+    pill: '문의하기', h1: '연락하기', accent: '편하게 들려주세요',
+    dek: '오래된 정보를 발견하셨거나 여행 계획에 관해 궁금한 점이 있으신가요? 문을 닫는 곳도 있고 가격도 바뀝니다. 가이드를 정확하게 유지하고 싶으니 오류 신고, 질문, 의견 무엇이든 부담 없이 알려주세요.',
+    copyAddr: '주소 복사', copied: '복사했어요 ✓', replyNote: '진지한 질문과 오류 신고에는 답변을 드리려 노력합니다.', social: 'SNS에서도 만나요', photoTag: '사진',
+    pickH: '어떤 일로 연락하세요?', pickSub: '고르시면 메일 제목과 적어 주실 내용을 미리 채워 드려요.',
+    howH: '이렇게 적어 주시면 빨라요', to: '받는 사람', subject: '제목', subjectInput: '제목 내용', bodyLbl: '본문', open: '메일 앱으로 쓰기', copyAll: '내용 복사',
+    sosH: '여행 중 응급 상황이라면', sosP: '이곳은 정보 제공용 여행 사이트예요. 응급 상황에는 반드시 현지 긴급 전화번호를 이용하세요.', sosBtn: '나라별 긴급 번호 →',
+    beforeH: '메일 보내기 전에',
+    before: [['편집 원칙 →', 'AI는 어디까지 돕고, 누가 검수하나요', '/about'], ['데이터 산출 방식 →', '혼잡도·영업시간·기후 수치의 출처와 인용 방법', '/methodology'], ['개인정보 처리방침 →', '뉴스레터와 데이터를 다루는 방식', '/privacy']],
+    kinds: [
+      { k: 'fix', icon: 'pencil', title: '오류·정정 신고', hint: '문 닫은 곳, 바뀐 가격·영업시간', checks: ['페이지 주소나 장소 이름', '무엇이 어떻게 달라졌는지', '확인한 날짜와 출처 (있다면)'], tag: '[정정]', ph: '장소 이름', fields: ['페이지 주소 또는 장소 이름:', '달라진 내용:', '확인한 날짜와 출처(있다면):'] },
+      { k: 'trip', icon: 'map', title: '여행 질문', hint: '가이드를 보다 생긴 궁금한 점', checks: ['여행지와 여행 날짜', '궁금한 점', '참고한 가이드 링크'], tag: '[여행 질문]', ph: '여행지', fields: ['여행지와 날짜:', '궁금한 점:', '참고한 가이드 링크:'] },
+      { k: 'press', icon: 'news', title: '언론·데이터 인용', hint: '수치 인용, 데이터 관련 질문', checks: ['매체나 소속', '인용하려는 수치와 페이지 주소', '마감 일정'], tag: '[언론·데이터]', ph: '매체 이름', fields: ['매체·소속:', '인용하려는 수치와 페이지 주소:', '마감 일정:'], link: ['데이터 산출 방식 먼저 보기 →', '/methodology'] },
+      { k: 'privacy', icon: 'lock', title: '개인정보 요청', hint: '열람·수정·삭제, 구독 정보', checks: ['요청 종류 (열람·수정·삭제 등)', '관련 이메일 주소 (뉴스레터라면 구독한 주소)'], tag: '[개인정보 요청]', ph: '요청 종류', fields: ['요청 종류(열람·수정·삭제 등):', '관련 이메일 주소:'], link: ['개인정보 처리방침 보기 →', '/privacy'] },
+      { k: 'other', icon: 'chat', title: '의견·기타', hint: '칭찬, 제안, 무엇이든', checks: ['형식 없이 자유롭게 적어 주세요'], tag: '[의견]', ph: '', fields: [''] },
+    ] as Kind[],
   },
   ja: {
     metaTitle: 'お問い合わせ', metaDesc: 'Wander Atlasへのお問い合わせ — 訂正、ご質問、ご意見をお寄せください。',
-    eyebrow: 'お問い合わせ', h1: 'お問い合わせ',
-    dek: '訂正、ご質問、ご意見 — ぜひお聞かせください。',
-    body: '古い情報を見つけた、あるいは旅行の計画について質問がありますか？ お店が閉店したり価格が変わったりします。私たちはガイドを正確に保ちたいので、どうかお知らせください。',
-    emailLabel: 'メール',
-    disclosure: '真摯なご質問や訂正には返信するよう努めています。これは情報提供の旅行サイトです — 旅行中の緊急時は、必ず滞在国の緊急電話番号をご利用ください。',
+    pill: 'お問い合わせ', h1: 'お問い合わせ', accent: 'お気軽にお聞かせください',
+    dek: '古い情報を見つけた、あるいは旅行の計画について質問がありますか？ お店が閉店したり価格が変わったりします。ガイドを正確に保ちたいので、訂正・ご質問・ご意見、何でもお知らせください。',
+    copyAddr: 'アドレスをコピー', copied: 'コピーしました ✓', replyNote: '真摯なご質問や訂正には返信するよう努めています。', social: 'SNSでも会いましょう', photoTag: '写真',
+    pickH: 'どんなご用件ですか？', pickSub: '選ぶと、メールの件名と書いてほしい内容を下書きします。',
+    howH: 'こう書いていただくと早く対応できます', to: '宛先', subject: '件名', subjectInput: '件名の内容', bodyLbl: '本文', open: 'メールアプリで書く', copyAll: '内容をコピー',
+    sosH: '旅行中の緊急時は', sosP: 'ここは情報提供の旅行サイトです。緊急時は必ず滞在国の緊急電話番号をご利用ください。', sosBtn: '国別の緊急番号 →',
+    beforeH: 'メールを送る前に',
+    before: [['編集方針 →', 'AIはどこまで手伝い、誰が確認するか', '/about'], ['データのつくり方 →', '混雑度・営業時間・気候の出典と引用方法', '/methodology'], ['プライバシーポリシー →', 'ニュースレターとデータの扱い方', '/privacy']],
+    kinds: [
+      { k: 'fix', icon: 'pencil', title: '誤り・訂正の報告', hint: '閉店、価格や営業時間の変更', checks: ['ページのURLまたは場所の名前', '何がどう変わったか', '確認した日付と出典（あれば）'], tag: '[訂正]', ph: '場所の名前', fields: ['ページのURLまたは場所の名前:', '変わった内容:', '確認した日付と出典（あれば）:'] },
+      { k: 'trip', icon: 'map', title: '旅行の質問', hint: 'ガイドを読んで気になったこと', checks: ['行き先と旅行日程', '知りたいこと', '参考にしたガイドのリンク'], tag: '[旅行の質問]', ph: '行き先', fields: ['行き先と日程:', '知りたいこと:', '参考にしたガイドのリンク:'] },
+      { k: 'press', icon: 'news', title: '取材・データ引用', hint: '数値の引用、データに関する質問', checks: ['媒体名・ご所属', '引用したい数値とページのURL', '締め切り'], tag: '[取材・データ]', ph: '媒体名', fields: ['媒体名・ご所属:', '引用したい数値とページのURL:', '締め切り:'], link: ['先にデータのつくり方を見る →', '/methodology'] },
+      { k: 'privacy', icon: 'lock', title: '個人情報の請求', hint: '開示・訂正・削除、購読情報', checks: ['請求の種類（開示・訂正・削除など）', '関係するメールアドレス（ニュースレターなら購読したアドレス）'], tag: '[個人情報の請求]', ph: '請求の種類', fields: ['請求の種類（開示・訂正・削除など）:', '関係するメールアドレス:'], link: ['プライバシーポリシーを見る →', '/privacy'] },
+      { k: 'other', icon: 'chat', title: 'ご意見・その他', hint: '感想、提案、何でも', checks: ['形式は自由にお書きください'], tag: '[ご意見]', ph: '', fields: [''] },
+    ] as Kind[],
   },
   es: {
     metaTitle: 'Contacto', metaDesc: 'Ponte en contacto con Wander Atlas: correcciones, preguntas y comentarios.',
-    eyebrow: 'Ponte en contacto', h1: 'Contáctanos',
-    dek: 'Correcciones, preguntas o comentarios: nos encantaría saber de ti.',
-    body: '¿Has visto algo desactualizado o tienes una pregunta sobre cómo planear un viaje? Los sitios cierran y los precios cambian, y de verdad queremos mantener nuestras guías al día, así que cuéntanoslo.',
-    emailLabel: 'Correo',
-    disclosure: 'Intentamos responder a preguntas y correcciones genuinas. Este es un sitio de viajes informativo: para emergencias durante el viaje, usa siempre el número de emergencias local del país en el que estés.',
+    pill: 'Contacto', h1: 'Contáctanos', accent: 'Nos encantará leerte',
+    dek: '¿Has visto algo desactualizado o tienes una pregunta sobre cómo planear un viaje? Los sitios cierran y los precios cambian, y de verdad queremos mantener nuestras guías al día: correcciones, preguntas y comentarios son bienvenidos.',
+    copyAddr: 'Copiar dirección', copied: 'Copiado ✓', replyNote: 'Intentamos responder a preguntas y correcciones genuinas.', social: 'También en redes', photoTag: 'Foto',
+    pickH: '¿Sobre qué nos escribes?', pickSub: 'Elige una opción y te rellenamos el asunto y lo que conviene incluir.',
+    howH: 'Así te respondemos antes', to: 'Para', subject: 'Asunto', subjectInput: 'Detalle del asunto', bodyLbl: 'Mensaje', open: 'Escribir en la app de correo', copyAll: 'Copiar texto',
+    sosH: 'Si tienes una emergencia de viaje', sosP: 'Este es un sitio de viajes informativo. En una emergencia, llama siempre al número de emergencias local del país en el que estés.', sosBtn: 'Números de emergencia por país →',
+    beforeH: 'Antes de escribir',
+    before: [['Política editorial →', 'Hasta dónde ayuda la IA y quién revisa', '/about'], ['Cómo hacemos los datos →', 'De dónde salen afluencia, horarios y clima', '/methodology'], ['Privacidad →', 'Cómo tratamos el boletín y los datos', '/privacy']],
+    kinds: [
+      { k: 'fix', icon: 'pencil', title: 'Corrección', hint: 'Lugares cerrados, precios u horarios nuevos', checks: ['La dirección de la página o el nombre del lugar', 'Qué ha cambiado y cómo', 'Cuándo lo viste y una fuente (si la hay)'], tag: '[Corrección]', ph: 'Nombre del lugar', fields: ['Página o nombre del lugar:', 'Qué ha cambiado:', 'Cuándo lo viste y fuente (si la hay):'] },
+      { k: 'trip', icon: 'map', title: 'Pregunta de viaje', hint: 'Algo que te dejó con dudas una guía', checks: ['Destino y fechas del viaje', 'Tu pregunta', 'La guía que estabas leyendo'], tag: '[Pregunta de viaje]', ph: 'Destino', fields: ['Destino y fechas:', 'Pregunta:', 'Enlace a la guía:'] },
+      { k: 'press', icon: 'news', title: 'Prensa y datos', hint: 'Citar una cifra, preguntas sobre los datos', checks: ['Medio u organización', 'La cifra y la página que quieres citar', 'Tu fecha límite'], tag: '[Prensa/datos]', ph: 'Medio', fields: ['Medio / organización:', 'Cifra y dirección de la página:', 'Fecha límite:'], link: ['Lee primero cómo hacemos los datos →', '/methodology'] },
+      { k: 'privacy', icon: 'lock', title: 'Solicitud de privacidad', hint: 'Acceso, rectificación, borrado, suscripción', checks: ['Qué solicitas (acceso, rectificación, borrado…)', 'El correo afectado (con el que te suscribiste)'], tag: '[Solicitud de privacidad]', ph: 'Tipo de solicitud', fields: ['Solicitud (acceso / rectificación / borrado…):', 'Correo afectado:'], link: ['Leer la política de privacidad →', '/privacy'] },
+      { k: 'other', icon: 'chat', title: 'Comentarios y otros', hint: 'Elogios, ideas, lo que sea', checks: ['Sin formato, escribe libremente'], tag: '[Comentario]', ph: '', fields: [''] },
+    ] as Kind[],
   },
   zh: {
     metaTitle: '联系我们', metaDesc: '联系 Wander Atlas——纠错、提问和反馈。',
-    eyebrow: '联系我们', h1: '联系我们',
-    dek: '纠错、提问或反馈——我们很乐意听到你的声音。',
-    body: '发现了过时的信息，或对行程规划有疑问？店家会关门、价格会变动，我们真心希望让指南保持准确，所以请告诉我们。',
-    emailLabel: '邮箱',
-    disclosure: '我们会尽力回复真诚的提问与纠错。这是一个信息类旅行网站——旅行途中如遇紧急情况，请务必拨打所在国家的当地紧急电话。',
+    pill: '联系我们', h1: '联系我们', accent: '随时告诉我们',
+    dek: '发现了过时的信息，或对行程规划有疑问？店家会关门、价格会变动，我们真心希望让指南保持准确，所以纠错、提问、反馈都欢迎告诉我们。',
+    copyAddr: '复制地址', copied: '已复制 ✓', replyNote: '我们会尽力回复真诚的提问与纠错。', social: '社交媒体上见', photoTag: '照片',
+    pickH: '想联系我们什么事？', pickSub: '选一项，我们会帮你填好邮件标题和需要写的内容。',
+    howH: '这样写能更快得到回复', to: '收件人', subject: '标题', subjectInput: '标题内容', bodyLbl: '正文', open: '用邮件应用撰写', copyAll: '复制内容',
+    sosH: '旅途中遇到紧急情况', sosP: '这是一个信息类旅行网站。遇到紧急情况，请务必拨打所在国家的当地紧急电话。', sosBtn: '各国紧急电话 →',
+    beforeH: '发邮件之前',
+    before: [['编辑原则 →', 'AI 帮到哪一步，谁来审核', '/about'], ['数据来源与计算 →', '拥挤度、营业时间、气候数字的出处与引用方法', '/methodology'], ['隐私政策 →', '我们如何处理订阅与数据', '/privacy']],
+    kinds: [
+      { k: 'fix', icon: 'pencil', title: '纠错', hint: '已关门、价格或营业时间变了', checks: ['页面地址或地点名称', '哪里变了、怎么变的', '确认日期和来源（如有）'], tag: '[纠错]', ph: '地点名称', fields: ['页面地址或地点名称:', '变化内容:', '确认日期和来源（如有）:'] },
+      { k: 'trip', icon: 'map', title: '旅行问题', hint: '看指南时产生的疑问', checks: ['目的地和出行日期', '你的问题', '参考的指南链接'], tag: '[旅行问题]', ph: '目的地', fields: ['目的地和日期:', '问题:', '参考的指南链接:'] },
+      { k: 'press', icon: 'news', title: '媒体与数据引用', hint: '引用数字、数据相关问题', checks: ['媒体或所属机构', '想引用的数字和页面地址', '截稿时间'], tag: '[媒体/数据]', ph: '媒体名称', fields: ['媒体 / 机构:', '想引用的数字和页面地址:', '截稿时间:'], link: ['先看数据来源与计算 →', '/methodology'] },
+      { k: 'privacy', icon: 'lock', title: '个人信息请求', hint: '查阅、更正、删除、订阅信息', checks: ['请求类型（查阅、更正、删除等）', '相关邮箱（订阅时使用的邮箱）'], tag: '[个人信息请求]', ph: '请求类型', fields: ['请求类型（查阅/更正/删除等）:', '相关邮箱:'], link: ['查看隐私政策 →', '/privacy'] },
+      { k: 'other', icon: 'chat', title: '意见与其他', hint: '表扬、建议，什么都行', checks: ['不拘格式，随意写'], tag: '[意见]', ph: '', fields: [''] },
+    ] as Kind[],
   },
-}[lang];
+};
+const T = L[lang];
+const kinds: Kind[] = T.kinds;
+const first = kinds[0];
+const bodyOf = (k: Kind) => k.fields.filter(Boolean).map((f) => `${f}\n\n`).join('');
 ---
 
 <BaseLayout title={T.metaTitle} description={T.metaDesc} localized={true}>
-  <div class="page-hero">
-    <div class="wrap">
-      <p class="eyebrow">{T.eyebrow}</p>
-      <h1>{T.h1}</h1>
-      <p>{T.dek}</p>
-    </div>
-  </div>
+  <div class="ct">
+    <AboutNav lang={lang} current="contact" />
 
-  <article class="article wrap">
-    <div class="prose">
-      <p>{T.body}</p>
-
-      <div class="fact-box">
-        <h2>{T.emailLabel}</h2>
-        <p><a href={`mailto:${contactEmail}`}>{contactEmail}</a></p>
+    <div class="ct-hero">
+      <div>
+        <span class="ct-pill">{T.pill}</span>
+        <h1><span>{T.h1}</span><em>{T.accent}</em></h1>
+        <p class="ct-dek">{T.dek}</p>
+        <div class="ct-mail" data-copy-wrap>
+          <i><Fragment set:html={svg('mail', 18)} /></i>
+          <a href={`mailto:${contactEmail}`}>{contactEmail}</a>
+          <button type="button" data-copy-addr={contactEmail} data-done={T.copied}>{T.copyAddr}</button>
+        </div>
+        <p class="ct-note">{T.replyNote}</p>
       </div>
-
-      <p class="disclosure">{T.disclosure}</p>
+      <div class="ct-art">
+        {photos[0] && <a class="ct-arch" href={photos[0].href} aria-label={photos[0].label}><img src={photos[0].src} alt="" width="320" height="420" /><small>{photos[0].credit}</small></a>}
+        {photos[1] && <a class="ct-circle" href={photos[1].href} aria-label={photos[1].label}><img src={photos[1].src} alt="" width="180" height="180" loading="lazy" /></a>}
+        <div class="ct-social">
+          <b>{T.social}</b>
+          <p>{SOCIAL.map(([n, u]) => <a href={u} rel="me noopener" target="_blank">{n}</a>)}</p>
+        </div>
+      </div>
     </div>
-  </article>
+
+    <section class="ct-pick" data-contact data-to={contactEmail} data-copied={T.copied} data-copy={T.copyAll}>
+      <h2>{T.pickH}</h2>
+      <p class="ct-sub">{T.pickSub}</p>
+      <div class="ct-kinds" role="tablist">
+        {kinds.map((k, i) => (
+          <button type="button" role="tab" class:list={['ct-kind', { 'is-on': i === 0 }]} aria-selected={i === 0 ? 'true' : 'false'} aria-controls="ct-panel" id={`ct-tab-${k.k}`} tabindex={i === 0 ? 0 : -1} data-kind={k.k}>
+            <i><Fragment set:html={svg(k.icon, 16)} /></i><b>{k.title}</b><small>{k.hint}</small>
+          </button>
+        ))}
+      </div>
+      <div class="ct-panel" id="ct-panel" role="tabpanel" aria-labelledby={`ct-tab-${first.k}`}>
+        <div>
+          {kinds.map((k, i) => (
+            <div class="ct-how" data-how={k.k} data-tag={k.tag} data-ph={k.ph} data-body={bodyOf(k)} hidden={i !== 0}>
+              <span class="ct-tag">{k.title}</span>
+              <h3>{T.howH}</h3>
+              <ul>{k.checks.map((c) => <li><i><Fragment set:html={svg('check', 12)} /></i>{c}</li>)}</ul>
+              {k.link && <a class="ct-more-link" href={localizePath(k.link[1], lang)}>{k.link[0]}</a>}
+            </div>
+          ))}
+        </div>
+        <div class="ct-draft">
+          <p class="ct-row"><span>{T.to}</span><b>{contactEmail}</b></p>
+          <label class="ct-row"><span>{T.subject}</span><b data-tag-out>{first.tag}</b><input type="text" data-subject placeholder={first.ph} aria-label={T.subjectInput} /></label>
+          <label class="ct-bodylbl"><span class="sr-only">{T.bodyLbl}</span><textarea rows="7" data-body set:text={bodyOf(first)} /></label>
+          <div class="ct-actions">
+            <a class="ct-btn ct-btn-cta" data-mailto href={`mailto:${contactEmail}?subject=${encodeURIComponent(first.tag)}&body=${encodeURIComponent(bodyOf(first))}`}><Fragment set:html={svg('send', 15)} /><span>{T.open}</span></a>
+            <button type="button" class="ct-btn ct-btn-ghost" data-copy-draft><span>{T.copyAll}</span></button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="ct-sos">
+      <i><Fragment set:html={svg('siren', 22)} /></i>
+      <div><b>{T.sosH}</b><p>{T.sosP}</p></div>
+      <a class="ct-btn ct-btn-cta" href={localizePath('/essentials/emergency', lang)}>{T.sosBtn}</a>
+    </div>
+
+    <section>
+      <h2 class="ct-h2">{T.beforeH}</h2>
+      <div class="ct-before">
+        {(T.before as string[][]).map(([title, sub, href]) => <a href={localizePath(href, lang)}><b>{title}</b><span>{sub}</span></a>)}
+      </div>
+    </section>
+  </div>
 </BaseLayout>
+
+<script>
+  const flash = (el: HTMLElement, text: string) => {
+    const old = el.textContent;
+    el.textContent = text;
+    setTimeout(() => { el.textContent = old; }, 2000);
+  };
+  document.querySelectorAll<HTMLButtonElement>('[data-copy-addr]').forEach((b) => b.addEventListener('click', async () => {
+    try { await navigator.clipboard.writeText(b.dataset.copyAddr!); flash(b, b.dataset.done!); } catch { /* address stays visible to copy by hand */ }
+  }));
+
+  document.querySelectorAll<HTMLElement>('[data-contact]').forEach((box) => {
+    const to = box.dataset.to!;
+    const tagOut = box.querySelector<HTMLElement>('[data-tag-out]')!;
+    const subject = box.querySelector<HTMLInputElement>('[data-subject]')!;
+    const body = box.querySelector<HTMLTextAreaElement>('[data-body]')!;
+    const mailto = box.querySelector<HTMLAnchorElement>('[data-mailto]')!;
+    const subj = () => [tagOut.textContent, subject.value.trim()].filter(Boolean).join(' ');
+    const sync = () => { mailto.href = `mailto:${to}?subject=${encodeURIComponent(subj())}&body=${encodeURIComponent(body.value)}`; };
+    const tabs = [...box.querySelectorAll<HTMLButtonElement>('[data-kind]')];
+    const panel = box.querySelector<HTMLElement>('[role="tabpanel"]')!;
+    // What the reader typed under each type survives switching away and back.
+    const drafts = new Map<string, { s: string; b: string }>();
+    let current = tabs[0]?.dataset.kind ?? '';
+    const pick = (b: HTMLButtonElement) => {
+      if (b.dataset.kind === current) return;
+      drafts.set(current, { s: subject.value, b: body.value });
+      current = b.dataset.kind!;
+      panel.setAttribute('aria-labelledby', b.id);
+      let tpl!: HTMLElement;
+      box.querySelectorAll<HTMLElement>('[data-how]').forEach((h) => { h.hidden = h.dataset.how !== b.dataset.kind; if (!h.hidden) tpl = h; });
+      tabs.forEach((x) => { x.classList.toggle('is-on', x === b); x.setAttribute('aria-selected', String(x === b)); x.tabIndex = x === b ? 0 : -1; });
+      tagOut.textContent = tpl.dataset.tag!;
+      subject.placeholder = tpl.dataset.ph || '';
+      subject.hidden = !tpl.dataset.ph;
+      const saved = drafts.get(current);
+      subject.value = saved?.s ?? '';
+      body.value = saved?.b ?? tpl.dataset.body!;
+      body.placeholder = body.value ? '' : (tpl.querySelector('li')?.textContent ?? '');
+      sync();
+    };
+    tabs.forEach((b, i) => {
+      b.addEventListener('click', () => pick(b));
+      b.addEventListener('keydown', (e) => {
+        const d = e.key === 'ArrowRight' ? 1 : e.key === 'ArrowLeft' ? -1 : 0;
+        if (!d) return;
+        e.preventDefault();
+        const n = tabs[(i + d + tabs.length) % tabs.length];
+        n.focus(); pick(n);
+      });
+    });
+    subject.addEventListener('input', sync);
+    body.addEventListener('input', sync);
+    const copyBtn = box.querySelector<HTMLButtonElement>('[data-copy-draft]')!;
+    copyBtn.addEventListener('click', async () => {
+      const text = `${to}\n${subj()}\n\n${body.value}`;
+      try { await navigator.clipboard.writeText(text); flash(copyBtn.querySelector('span')!, box.dataset.copied!); }
+      catch { body.focus(); body.select(); }
+    });
+    // The page may open with a type already chosen: /contact?type=privacy
+    const want = new URLSearchParams(location.search).get('type');
+    const start = tabs.find((t) => t.dataset.kind === want);
+    if (start) pick(start);
+  });
+</script>
+
+<style>
+  .ct { max-width: var(--max); margin: 0 auto; padding: 18px 20px 64px; display: grid; gap: 34px; --ct-forest: #26301f; --ct-moss: #3b4a2b; --ct-brown: #7a3b1d; --ct-peach: #fbe0d4; --ct-cream: #f7f1e8; --ct-sand: #f1e6d6; --ct-green: #e3ecd9; }
+  @media (prefers-color-scheme: dark) { .ct { --ct-peach: #3a2620; --ct-cream: #221d17; --ct-sand: #2a241c; --ct-green: #2b3524; } }
+  .ct :is(div, section) { min-width: 0; }
+  .ct-pill { display: inline-block; font-size: .78rem; font-weight: 600; padding: 4px 12px; border-radius: var(--r-pill); background: var(--surface); border: 1px solid var(--line); }
+  .ct-hero { display: grid; grid-template-columns: 1fr 1fr; gap: 32px; align-items: center; }
+  .ct-hero h1 { font-family: var(--font-display); font-size: clamp(2.1rem, 4.8vw, 3.1rem); line-height: 1.15; margin: 12px 0; }
+  .ct-hero h1 span, .ct-hero h1 em { display: block; }
+  .ct-hero h1 em { font-style: normal; color: var(--ct-brown); }
+  @media (prefers-color-scheme: dark) { .ct-hero h1 em { color: var(--cta); } }
+  .ct-dek { color: var(--ink-soft); line-height: 1.75; margin: 0 0 18px; }
+  .ct-mail { display: flex; align-items: center; gap: 10px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-pill); padding: 6px 6px 6px 6px; max-width: 470px; }
+  .ct-mail i { width: 38px; height: 38px; border-radius: 50%; background: var(--ct-brown); color: #fff; display: grid; place-items: center; flex: none; }
+  .ct-mail a { flex: 1; min-width: 0; font-weight: 700; color: var(--ink); text-decoration: none; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .ct-mail button { font: inherit; font-size: .82rem; border: 1px solid var(--line-strong); background: var(--bg); color: var(--ink); padding: 6px 12px; border-radius: var(--r-pill); cursor: pointer; white-space: nowrap; }
+  .ct-note { margin: 8px 0 0 8px; font-size: .8rem; color: var(--muted); }
+  .ct-art { position: relative; min-height: 340px; }
+  .ct-arch { position: absolute; left: 0; top: 0; width: 58%; height: 330px; border-radius: 999px 999px 18px 18px; overflow: hidden; display: block; background: var(--ct-sand); }
+  .ct-arch img, .ct-circle img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .ct-arch small { position: absolute; left: 0; right: 0; bottom: 0; font-size: .62rem; color: #fff; background: rgba(15,12,9,.6); padding: 4px 12px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .ct-circle { position: absolute; right: 0; top: 0; width: 150px; height: 150px; border-radius: 50%; overflow: hidden; border: 5px solid var(--bg); }
+  .ct-social { position: absolute; right: 0; bottom: 0; width: 56%; background: var(--ct-forest); color: #fbf3e8; border-radius: 22px; padding: 20px; box-shadow: 0 12px 30px rgba(20,25,15,.25); }
+  .ct-social b { font-family: var(--font-display); font-size: 1.1rem; }
+  .ct-social p { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0 0; }
+  .ct-social a { font-size: .82rem; font-weight: 700; color: #fbf3e8; background: rgba(255,255,255,.12); padding: 6px 13px; border-radius: var(--r-pill); text-decoration: none; }
+  .ct-social a:hover { background: rgba(255,255,255,.22); }
+  .ct-pick h2, .ct-h2 { font-family: var(--font-display); font-size: 1.7rem; margin: 0; }
+  .ct-sub { margin: 6px 0 16px; color: var(--muted); font-size: .9rem; }
+  .ct-kinds { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 8px; }
+  .ct-kind { font: inherit; text-align: left; display: grid; gap: 3px; background: var(--surface); border: 1px solid var(--line); border-radius: 22px; padding: 16px; cursor: pointer; color: var(--ink); }
+  .ct-kind i { width: 32px; height: 32px; border-radius: 50%; background: var(--ct-sand); display: grid; place-items: center; margin-bottom: 10px; }
+  .ct-kind b { font-size: .92rem; }
+  .ct-kind small { font-size: .76rem; color: var(--muted); }
+  .ct-kind.is-on { background: var(--ct-moss); border-color: var(--ct-moss); color: #fbf3e8; }
+  .ct-kind.is-on i { background: rgba(255,255,255,.15); }
+  .ct-kind.is-on small { color: rgba(251,243,232,.8); }
+  .ct-panel { margin-top: 12px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-lg); padding: 24px; display: grid; grid-template-columns: 1fr 1.05fr; gap: 24px; }
+  .ct-tag { display: inline-block; font-size: .74rem; padding: 3px 10px; border-radius: var(--r-pill); background: var(--ct-green); }
+  .ct-how h3 { font-family: var(--font-display); font-size: 1.25rem; margin: 12px 0; }
+  .ct-how ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+  .ct-how li { display: flex; gap: 10px; align-items: center; font-size: .92rem; }
+  .ct-how li i { width: 20px; height: 20px; border-radius: 50%; background: var(--ct-green); display: grid; place-items: center; flex: none; }
+  .ct-more-link { display: inline-block; margin-top: 16px; font-size: .86rem; font-weight: 700; color: var(--ct-brown); text-decoration: none; }
+  .ct-draft { background: var(--ct-sand); border-radius: 20px; padding: 18px 20px; display: grid; gap: 8px; }
+  .ct-row { display: flex; align-items: center; gap: 10px; margin: 0; font-size: .86rem; flex-wrap: wrap; }
+  .ct-row > span { width: 72px; color: var(--muted); flex: none; }
+  .ct-row input { flex: 1; min-width: 120px; font: inherit; font-size: .86rem; border: 0; border-bottom: 1px dashed var(--line-strong); background: transparent; color: var(--ink); padding: 3px 2px; }
+  .ct-row input[hidden] { display: none; }
+  .ct-bodylbl { display: block; border-top: 1px solid var(--line); padding-top: 10px; }
+  .ct-draft textarea { width: 100%; box-sizing: border-box; font: inherit; font-size: .88rem; line-height: 1.6; border: 0; background: transparent; color: var(--ink); resize: vertical; }
+  .ct-draft textarea:focus, .ct-row input:focus { outline: 2px solid var(--cta); outline-offset: 2px; border-radius: 6px; }
+  .ct-actions { display: flex; gap: 8px; flex-wrap: wrap; }
+  .ct-btn { display: inline-flex; gap: 6px; align-items: center; padding: 9px 16px; border-radius: var(--r-pill); font: inherit; font-size: .88rem; font-weight: 600; text-decoration: none; border: 1px solid transparent; cursor: pointer; }
+  .ct-btn-cta { background: var(--cta); color: #fff !important; }
+  .ct-btn-ghost { background: var(--surface); border-color: var(--line-strong); color: var(--ink); }
+  .ct-sos { display: grid; grid-template-columns: auto 1fr auto; gap: 16px; align-items: center; background: var(--ct-peach); border-radius: var(--r-lg); padding: 20px 24px; }
+  .ct-sos > i { width: 46px; height: 46px; border-radius: 50%; background: var(--ct-brown); color: #fff; display: grid; place-items: center; }
+  .ct-sos b { font-family: var(--font-display); font-size: 1.1rem; }
+  .ct-sos p { margin: 2px 0 0; font-size: .86rem; color: var(--ink-soft); }
+  .ct-before { margin-top: 14px; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
+  .ct-before a { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-lg); padding: 14px 18px; text-decoration: none; display: grid; gap: 2px; }
+  .ct-before b { font-size: .95rem; color: var(--ink); }
+  .ct-before span { font-size: .8rem; color: var(--muted); }
+  .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+  @media (max-width: 900px) {
+    .ct-hero, .ct-panel { grid-template-columns: 1fr; }
+    .ct-kinds { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .ct-before { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 560px) {
+    .ct { padding: 14px 16px 48px; }
+    .ct-art { min-height: 300px; }
+    .ct-arch { height: 290px; }
+    .ct-circle { width: 110px; height: 110px; }
+    .ct-social { width: 64%; padding: 16px; }
+    .ct-sos { grid-template-columns: auto 1fr; }
+    .ct-sos .ct-btn { grid-column: 1 / -1; justify-self: start; }
+    .ct-panel { padding: 16px; }
+  }
+</style>

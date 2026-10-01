@@ -1,0 +1,43 @@
+---
+// The "about the site" family — editorial policy, methodology, contact,
+// privacy, terms — shares one pill row (owner's mock-ups, 2026-10-01), so a
+// reader on any of them can reach the others in one tap.
+import { localizePath, type Lang } from '../i18n/utils';
+
+interface Props { lang: Lang; current: 'about' | 'methodology' | 'contact' | 'privacy' | 'terms' }
+const { lang, current } = Astro.props;
+
+const LABELS: Record<Lang, Record<Props['current'] | 'home' | 'group' | 'legal', string>> = {
+  en: { home: 'Home', group: 'About', legal: 'Legal', about: 'Editorial policy', methodology: 'How our data works', contact: 'Contact', privacy: 'Privacy policy', terms: 'Terms of use' },
+  ko: { home: '홈', group: '소개', legal: '법적 고지', about: '편집 원칙', methodology: '데이터 산출 방식', contact: '문의하기', privacy: '개인정보 처리방침', terms: '이용 약관' },
+  ja: { home: 'ホーム', group: 'サイトについて', legal: '法的事項', about: '編集方針', methodology: 'データのつくり方', contact: 'お問い合わせ', privacy: 'プライバシーポリシー', terms: '利用規約' },
+  es: { home: 'Inicio', group: 'Sobre el sitio', legal: 'Legal', about: 'Política editorial', methodology: 'Cómo hacemos los datos', contact: 'Contacto', privacy: 'Privacidad', terms: 'Términos de uso' },
+  zh: { home: '首页', group: '关于本站', legal: '法律信息', about: '编辑原则', methodology: '数据来源与计算', contact: '联系我们', privacy: '隐私政策', terms: '使用条款' },
+};
+const L = LABELS[lang];
+const ORDER = ['about', 'methodology', 'contact', 'privacy', 'terms'] as const;
+const group = current === 'privacy' || current === 'terms' ? L.legal : L.group;
+---
+<nav class="an" aria-label={L.group}>
+  <p class="an-crumb"><a href={localizePath('/', lang)}>{L.home}</a><span aria-hidden="true">·</span><span>{group}</span><span aria-hidden="true">·</span><b>{L[current]}</b></p>
+  <ul class="an-pills">
+    {ORDER.map((k) => (
+      <li><a href={localizePath(`/${k}`, lang)} class:list={['an-pill', { 'is-on': k === current }]} aria-current={k === current ? 'page' : undefined}>{L[k]}</a></li>
+    ))}
+  </ul>
+</nav>
+
+<style>
+  .an { display: grid; gap: 10px; }
+  .an-crumb { margin: 0; font-size: .82rem; color: var(--muted); display: flex; gap: 8px; flex-wrap: wrap; }
+  .an-crumb a { color: inherit; text-decoration: none; }
+  .an-crumb b { color: var(--ink); font-weight: 600; }
+  .an-pills { list-style: none; margin: 0; padding: 0; display: flex; gap: 6px; flex-wrap: wrap; }
+  .an-pill { display: inline-block; font-size: .86rem; font-weight: 600; padding: 7px 14px; border-radius: var(--r-pill); background: var(--surface); border: 1px solid var(--line); color: var(--ink); text-decoration: none; }
+  .an-pill:hover { border-color: var(--line-strong); }
+  .an-pill.is-on { background: #26301f; border-color: #26301f; color: #fbf3e8; }
+  @media (max-width: 560px) {
+    .an-pills { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 4px; }
+    .an-pill { white-space: nowrap; }
+  }
+</style>

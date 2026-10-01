@@ -5,6 +5,7 @@ import { existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Newsletter from './Newsletter.astro';
+import AboutNav from './AboutNav.astro';
 import countriesData from '../../data/countries.json';
 import { EDITOR_VISITED } from '../lib/editorVisited';
 import { localizePath, type Lang } from '../i18n/utils';
@@ -400,7 +401,7 @@ const jsonLd = {
 ---
 <BaseLayout title={t.metaTitle} description={t.metaDesc} localized={true} image="/editor-photos/la-scene-saigon-facade.jpg" jsonLd={jsonLd}>
   <div class="ep">
-    <nav class="ep-crumb" aria-label="breadcrumb"><a href={localizePath('/', lang)}>{t.crumbHome}</a><span aria-hidden="true">·</span><span>{t.crumb}</span></nav>
+    <AboutNav lang={lang} current="about" />
 
     <!-- 1. Hero -->
     <section class="ep-hero">

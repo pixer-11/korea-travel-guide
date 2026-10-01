@@ -1,7 +1,7 @@
 ---
 import { getEntry } from 'astro:content';
-import StaticPage from '../components/StaticPage.astro';
+import LegalPage from '../components/LegalPage.astro';
 const entry = await getEntry('staticPages', 'privacy');
 ---
 
-<StaticPage entry={entry} translation={null} lang="en" />
+<LegalPage entry={entry} translation={null} lang="en" kind="privacy" />

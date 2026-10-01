@@ -4,36 +4,99 @@ import { heroOf, TOOL_OG } from '../lib/toolOgPhoto.mjs';
 import { siteHref } from '../lib/urls.mjs';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Flag from './Flag.astro';
+import Newsletter from './Newsletter.astro';
 import { SITE } from '../siteConfig';
-import { pickRepHeroUrl } from '../lib/repImage';
+import { pickRepHeroUrl, tileSize } from '../lib/repImage';
 import countriesData from '../../data/countries.json';
 import { orderedContinents, continentLabel } from '../lib/continents';
 import { useTranslations, localizePath, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { localizeBlurb } from '../i18n/countryBlurbs';
 
-// Shared /destinations index for en + /[lang]/destinations. Groups countries by
-// continent; names/blurbs/continent labels are localized.
+// Shared /destinations index for en + /[lang]/destinations — owner's mock-up
+// "여행지 개선안" (2026-10-01): a hero with live totals and a per-continent
+// share widget, a sticky finder (search · continent · theme · sort), then
+// country cards grouped by continent. The owner asked for photos on top of
+// the mock-up, so every card and the widget rows carry the country's real
+// representative photo. Every number is counted from the posts at build.
 interface Props { lang: Lang }
 const { lang } = Astro.props;
 const t = useTranslations(lang);
 const contLabel = (name: string) => continentLabel(t, name);
+const nf = new Intl.NumberFormat(lang === 'zh' ? 'zh-CN' : lang);
 
 const posts = await getCollection('posts', ({ data }) => !data.draft);
 posts.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
-const countFor = (name: string) => posts.filter((p) => (p.data.country ?? 'South Korea') === name).length;
-const repImage = (name: string) => pickRepHeroUrl(posts.filter((p) => (p.data.country ?? 'South Korea') === name));
-const countries = countriesData.countries.map((c) => ({ ...c, count: countFor(c.name) }));
+const postsOf = (name: string) => posts.filter((p) => (p.data.country ?? 'South Korea') === name);
 
-const CONTINENT_ORDER = orderedContinents();
-const byContinent: Record<string, any[]> = {};
-for (const c of countries) (byContinent[c.continent || 'Other'] ||= []).push(c);
-const continents = CONTINENT_ORDER.filter((k) => byContinent[k]).map((k) => ({
-  name: k,
-  slug: k.toLowerCase().replace(/\s+/g, '-'),
-  countries: byContinent[k].sort((a, b) => b.count - a.count || a.name.localeCompare(b.name)),
-}));
-const liveTotal = countries.filter((c) => c.count > 0).length;
+// Themes are matched against the ENGLISH blurb and city list (the source the
+// translations come from), so a chip counts the same countries in every
+// language. A chip with fewer than two countries is not shown.
+const THEMES: { k: string; re: RegExp; label: Record<Lang, string> }[] = [
+  { k: 'market', re: /market|bazaar|souk/i, label: { en: 'Markets', ko: '시장', ja: '市場', es: 'Mercados', zh: '市场' } },
+  { k: 'beach', re: /beach|coast|seaside/i, label: { en: 'Beaches', ko: '해변', ja: 'ビーチ', es: 'Playas', zh: '海滩' } },
+  { k: 'island', re: /island/i, label: { en: 'Islands', ko: '섬', ja: '島', es: 'Islas', zh: '海岛' } },
+  { k: 'temple', re: /temple|shrine|mosque|pagoda|cathedral/i, label: { en: 'Temples & shrines', ko: '사원·성지', ja: '寺院・聖地', es: 'Templos', zh: '寺庙' } },
+  { k: 'food', re: /\b(food|hawker|cuisine|dining|sushi|eats?)\b/i, label: { en: 'Food', ko: '음식', ja: 'グルメ', es: 'Gastronomía', zh: '美食' } },
+  { k: 'hot', re: /hot spring|onsen/i, label: { en: 'Hot springs', ko: '온천', ja: '温泉', es: 'Aguas termales', zh: '温泉' } },
+  { k: 'fest', re: /festival|carnival/i, label: { en: 'Festivals', ko: '축제', ja: '祭り', es: 'Festivales', zh: '节庆' } },
+  { k: 'history', re: /ancient|ruin|palace|castle|histor|silk road|wall/i, label: { en: 'History', ko: '역사·유적', ja: '歴史・遺跡', es: 'Historia', zh: '历史古迹' } },
+  { k: 'nature', re: /mountain|national park|jungle|reef|desert|volcano|outback|lake/i, label: { en: 'Nature', ko: '자연', ja: '自然', es: 'Naturaleza', zh: '自然' } },
+];
+
+const countries = countriesData.countries.map((c: any) => {
+  const own = postsOf(c.name);
+  const byCity = new Map<string, number>();
+  for (const p of own) byCity.set(p.data.region, (byCity.get(p.data.region) ?? 0) + 1);
+  const cities = [...byCity].sort((a, b) => b[1] - a[1]).slice(0, 3).map(([r]) => localizePlace(r, lang));
+  const rep = pickRepHeroUrl(own);
+  const themes = THEMES.filter((th) => th.re.test(`${c.blurb} ${(c.regions ?? []).join(' ')}`)).map((th) => th.k);
+  const name = localizePlace(c.name, lang);
+  const blurb = localizeBlurb(c.slug, c.blurb, lang);
+  return {
+    ...c, count: own.length, cities, themes, name, blurb,
+    photo: rep ? tileSize(rep) : '',
+    search: (() => { const all = [...new Set([...(c.regions ?? []), ...byCity.keys()])]; return [name, c.name, blurb, ...all, ...all.map((r: string) => localizePlace(r, lang))].join(' ').toLowerCase(); })(),
+  };
+});
+const live = countries.filter((c) => c.count > 0);
+const maxCount = Math.max(1, ...live.map((c) => c.count));
+const totalGuides = live.reduce((s, c) => s + c.count, 0);
+
+const continents = orderedContinents()
+  .map((k) => {
+    const list = countries.filter((c) => (c.continent || 'Other') === k)
+      .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name));
+    const liveList = list.filter((c) => c.count > 0);
+    return { name: k, label: contLabel(k), slug: k.toLowerCase().replace(/\s+/g, '-'), countries: list, live: liveList.length, guides: liveList.reduce((s, c) => s + c.count, 0) };
+  })
+  .filter((c) => c.countries.length);
+const liveContinents = continents.filter((c) => c.live > 0);
+const themeCounts = THEMES.map((th) => ({ ...th, n: live.filter((c) => c.themes.includes(th.k)).length })).filter((th) => th.n >= 2);
+const CONT_COLOR = ['#5b6b3c', '#9a4a1f', '#f2b48f', '#bfd3a2', '#7d8f9a', '#c9a227'];
+
+const L = {
+  en: { nConts: '{n}', countries: 'Countries', guides: 'Guides', conts: 'Continents', nCountries: '{n} countries', nGuides: '{n} guides', find: 'Find a country ↓', byMonth: 'Pick by travel month →', widgetKicker: 'Guides by continent', widgetTotal: '{n} guides', search: 'Country, city or keyword (e.g. hot springs)', all: 'All', themes: 'Browse by theme', byGuides: 'Most guides', byName: 'A–Z', showing: '{c} countries · {g} guides', allIn: 'All of {x} →', topCities: 'Top cities', open: 'See guides →', soon: 'Coming soon', empty: 'No country matches that yet.', reset: 'Clear filters', clear: 'Clear search',
+    more: [['calendar', "Haven't decided where?", 'Pick a month and see where is good to go then.', 'When to go →', '/tools/when-to-go', 'is-green'], ['route', 'Routes to follow', 'Day-by-day plans built only from verified places.', 'Itineraries →', '/itinerary', 'is-peach'], ['check', 'Before you leave', 'Visas, transport, money and emergency info by country.', 'Travel essentials →', '/essentials', '']] },
+  ko: { nConts: '{n}곳', countries: '나라', guides: '가이드', conts: '대륙', nCountries: '{n}개국', nGuides: '{n}편', find: '나라 찾기 ↓', byMonth: '출발 달로 고르기 →', widgetKicker: '대륙별 가이드', widgetTotal: '가이드 {n}편', search: '나라·도시 이름이나 키워드 (예: 온천)', all: '전체', themes: '테마로 찾기', byGuides: '가이드 많은 순', byName: '가나다순', showing: '{c}개국 · 가이드 {g}편', allIn: '{x} 전체 보기 →', topCities: '가이드 많은 도시', open: '가이드 보기 →', soon: '준비 중', empty: '조건에 맞는 나라가 아직 없어요.', reset: '필터 초기화', clear: '검색 지우기',
+    more: [['calendar', '어디로 갈지 못 정했다면', '출발할 달을 고르면 그때 가기 좋은 나라를 알려드려요.', '언제 갈까 →', '/tools/when-to-go', 'is-green'], ['route', '그대로 따라가는 코스', '검증된 장소로만 짠 날짜별 일정이에요.', '일정 추천 →', '/itinerary', 'is-peach'], ['check', '떠나기 전 준비', '비자, 교통, 환전, 응급 정보를 나라별로 정리했어요.', '여행 필수 정보 →', '/essentials', '']] },
+  ja: { nConts: '{n}大陸', countries: '国', guides: 'ガイド', conts: '大陸', nCountries: '{n}か国', nGuides: '{n}本', find: '国を探す ↓', byMonth: '出発月で選ぶ →', widgetKicker: '大陸別ガイド', widgetTotal: 'ガイド {n}本', search: '国・都市名やキーワード（例：温泉）', all: 'すべて', themes: 'テーマで探す', byGuides: 'ガイドが多い順', byName: '名前順', showing: '{c}か国 · ガイド {g}本', allIn: '{x}をすべて見る →', topCities: 'ガイドが多い都市', open: 'ガイドを見る →', soon: '準備中', empty: '条件に合う国はまだありません。', reset: '絞り込みを解除', clear: '検索を消す',
+    more: [['calendar', '行き先が決まらないなら', '出発月を選ぶと、その時期に行きやすい国がわかります。', 'いつ行く →', '/tools/when-to-go', 'is-green'], ['route', 'そのまま使えるコース', '確認済みのスポットだけで組んだ日別プランです。', 'おすすめ日程 →', '/itinerary', 'is-peach'], ['check', '出発前の準備', 'ビザ、交通、両替、緊急情報を国別にまとめました。', '旅の基本情報 →', '/essentials', '']] },
+  es: { nConts: '{n}', countries: 'Países', guides: 'Guías', conts: 'Continentes', nCountries: '{n} países', nGuides: '{n} guías', find: 'Buscar país ↓', byMonth: 'Elegir por mes →', widgetKicker: 'Guías por continente', widgetTotal: '{n} guías', search: 'País, ciudad o palabra (p. ej. playas)', all: 'Todos', themes: 'Por tema', byGuides: 'Más guías', byName: 'A–Z', showing: '{c} países · {g} guías', allIn: 'Todo {x} →', topCities: 'Ciudades con más guías', open: 'Ver guías →', soon: 'Próximamente', empty: 'Ningún país coincide todavía.', reset: 'Quitar filtros', clear: 'Borrar búsqueda',
+    more: [['calendar', '¿No sabes adónde ir?', 'Elige un mes y te decimos dónde conviene ir entonces.', 'Cuándo ir →', '/tools/when-to-go', 'is-green'], ['route', 'Rutas para seguir', 'Planes día a día hechos solo con lugares verificados.', 'Itinerarios →', '/itinerary', 'is-peach'], ['check', 'Antes de salir', 'Visados, transporte, dinero y emergencias por país.', 'Lo esencial →', '/essentials', '']] },
+  zh: { nConts: '{n} 个', countries: '国家', guides: '指南', conts: '大洲', nCountries: '{n} 个国家', nGuides: '{n} 篇', find: '查找国家 ↓', byMonth: '按出发月份选 →', widgetKicker: '各大洲指南', widgetTotal: '{n} 篇指南', search: '国家、城市或关键词（如：温泉）', all: '全部', themes: '按主题找', byGuides: '指南最多', byName: '按名称', showing: '{c} 个国家 · {g} 篇指南', allIn: '查看{x}全部 →', topCities: '指南最多的城市', open: '查看指南 →', soon: '即将上线', empty: '还没有符合条件的国家。', reset: '清除筛选', clear: '清除搜索',
+    more: [['calendar', '还没决定去哪？', '选个出发月份，告诉你那时适合去哪些国家。', '何时去 →', '/tools/when-to-go', 'is-green'], ['route', '照着走的路线', '只用核实过的地点排出的逐日行程。', '推荐行程 →', '/itinerary', 'is-peach'], ['check', '出发前准备', '按国家整理的签证、交通、货币和紧急信息。', '旅行必备 →', '/essentials', '']] },
+}[lang];
+const fill = (s: string, m: Record<string, string | number>) => s.replace(/\{(\w+)\}/g, (_, k) => String(m[k] ?? ''));
+
+const ICON: Record<string, string> = {
+  search: '<circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/>',
+  calendar: '<rect width="18" height="18" x="3" y="4" rx="2"/><path d="M16 2v4"/><path d="M8 2v4"/><path d="M3 10h18"/>',
+  route: '<circle cx="6" cy="19" r="3"/><path d="M9 19h8.5a3.5 3.5 0 0 0 0-7h-11a3.5 3.5 0 0 1 0-7H15"/><circle cx="18" cy="5" r="3"/>',
+  check: '<path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/><path d="m9 15 2 2 4-4"/>',
+  pin: '<path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"/><circle cx="12" cy="10" r="3"/>',
+};
+const svg = (n: string, s = 18) => `<svg width="${s}" height="${s}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ICON[n] ?? ''}</svg>`;
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const pageUrl = siteHref(Astro.url.pathname, Astro.site);
@@ -45,6 +108,9 @@ const jsonLd = {
       { '@type': 'ListItem', position: 1, name: t('post.home'), item: siteHref(localizePath('/', lang), Astro.site) },
       { '@type': 'ListItem', position: 2, name: t('nav.destinations'), item: pageUrl },
     ] },
+    { '@type': 'ItemList', name: t('dest.indexTitle'), itemListElement: [...live].sort((a, b) => b.count - a.count).map((c, i) => ({
+      '@type': 'ListItem', position: i + 1, name: c.name, url: siteHref(localizePath(`/destinations/${c.slug}`, lang), Astro.site),
+    })) },
   ],
 };
 
@@ -53,6 +119,12 @@ const jsonLd = {
 // the widget page all at once, so the picture is chosen by hand in
 // lib/toolOgPhoto.mjs alongside the other hubs (2026-09-13).
 const ogPhoto = heroOf(posts, TOOL_OG.destinations);
+const [titleA, titleB] = (() => {
+  const s = t('dest.indexTitle');
+  const cut = { en: ' the world', ko: ' 세계', ja: '世界', es: ' el mundo', zh: '探索' }[lang];
+  const i = s.indexOf(cut.trim());
+  return i > 0 ? [s.slice(0, i).trim(), s.slice(i).trim()] : [s, ''];
+})();
 ---
 
 <BaseLayout image={ogPhoto}
@@ -61,39 +133,107 @@ const ogPhoto = heroOf(posts, TOOL_OG.destinations);
   jsonLd={jsonLd}
   localized={true}
 >
-  <section class="page-hero">
-    <div class="wrap">
-      <p class="eyebrow">{t('nav.destinations')}</p>
-      <h1>{t('dest.indexTitle')}</h1>
-      <p>{t('dest.indexDek')}</p>
-    </div>
-  </section>
+  <div class="dx">
+    <nav class="dx-crumb" aria-label="breadcrumb"><a href={localizePath('/', lang)}>{t('post.home')}</a><span aria-hidden="true">·</span><b>{t('nav.destinations')}</b></nav>
 
-  <section class="section">
-    <div class="wrap">
+    <section class="dx-hero">
+      <div>
+        <span class="dx-pill">{t('nav.destinations')}</span>
+        <h1><span>{titleA}</span>{titleB && <em>{titleB}</em>}</h1>
+        <p class="dx-dek">{t('dest.indexDek')}</p>
+        <div class="dx-stats">
+          <div><small>{L.countries}</small><b>{fill(L.nCountries, { n: nf.format(live.length) })}</b></div>
+          <div><small>{L.guides}</small><b>{fill(L.nGuides, { n: nf.format(totalGuides) })}</b></div>
+          <div><small>{L.conts}</small><b>{fill(L.nConts, { n: nf.format(liveContinents.length) })}</b></div>
+        </div>
+        <div class="dx-ctas">
+          <a class="dx-btn dx-btn-cta" href="#dx-find">{L.find}</a>
+          <a class="dx-btn dx-btn-ghost" href={localizePath('/tools/when-to-go', lang)}>{L.byMonth}</a>
+        </div>
+      </div>
+      <aside class="dx-widget">
+        <p class="dx-w-kicker">{L.widgetKicker}</p>
+        <p class="dx-w-total">{fill(L.widgetTotal, { n: nf.format(totalGuides) })}</p>
+        <div class="dx-w-bar" aria-hidden="true">
+          {liveContinents.map((c, i) => <i style={`flex:${c.guides};background:${CONT_COLOR[i % CONT_COLOR.length]}`}></i>)}
+        </div>
+        <ul>
+          {liveContinents.map((c, i) => (
+            <li>
+              <a href={`#cont-${c.slug}`} data-dx-jump={c.slug}>
+                <span class="dx-w-dot" style={`background:${CONT_COLOR[i % CONT_COLOR.length]}`}></span>
+                <b>{c.label}</b>
+                <span class="dx-w-faces" aria-hidden="true">
+                  {c.countries.filter((x) => x.photo).slice(0, 3).map((x) => <img src={x.photo} alt="" width="28" height="28" loading="lazy" />)}
+                </span>
+                <small>{fill(L.nCountries, { n: c.live })}</small>
+                <strong>{fill(L.nGuides, { n: nf.format(c.guides) })}</strong>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </aside>
+    </section>
+
+    <section class="dx-results" id="dx-find" data-dx data-sum-tpl={`${L.nCountries} · ${L.nGuides}`}>
+      <div class="dx-tools">
+        <div class="dx-tools-row">
+          <label class="dx-search">
+            <Fragment set:html={svg('search', 16)} />
+            <span class="sr-only">{L.search}</span>
+            <input type="search" placeholder={L.search} data-q autocomplete="off" />
+            <button type="button" class="dx-x" data-clear hidden aria-label={L.clear}>×</button>
+          </label>
+          <div class="dx-seg" role="group" data-conts>
+            <button type="button" class="is-on" aria-pressed="true" data-dx-cont="">{L.all} <small>{live.length}</small></button>
+            {liveContinents.map((c) => <button type="button" aria-pressed="false" data-dx-cont={c.slug}>{c.label} <small>{c.live}</small></button>)}
+          </div>
+          <div class="dx-seg dx-sort" role="group">
+            <button type="button" class="is-on" aria-pressed="true" data-sort="count">{L.byGuides}</button>
+            <button type="button" aria-pressed="false" data-sort="name">{L.byName}</button>
+          </div>
+        </div>
+        {themeCounts.length > 0 && (
+          <div class="dx-themes">
+            <span>{L.themes}</span>
+            {themeCounts.map((th) => <button type="button" aria-pressed="false" data-theme={th.k}>{th.label[lang]} <small>{th.n}</small></button>)}
+          </div>
+        )}
+      </div>
+
+      <p class="dx-showing" aria-live="polite" data-showing data-tpl={L.showing}>{fill(L.showing, { c: nf.format(live.length), g: nf.format(totalGuides) })}</p>
+
       {continents.map((cont) => (
-        <div class="region-group">
-          <div class="rule-head"><h2 class="kicker"><a href={localizePath(`/continents/${cont.slug}`, lang)}>{contLabel(cont.name)} →</a></h2></div>
-          <div class="country-grid">
+        <div class="dx-group" id={`cont-${cont.slug}`} data-group={cont.slug}>
+          <div class="dx-group-head">
+            <h2>{cont.label} <small data-group-sum>{fill(L.nCountries, { n: cont.live })} · {fill(L.nGuides, { n: nf.format(cont.guides) })}</small></h2>
+            <a href={localizePath(`/continents/${cont.slug}`, lang)}>{fill(L.allIn, { x: cont.label })}</a>
+          </div>
+          <div class="country-grid dx-grid">
             {cont.countries.map((c) => (
               c.count > 0 ? (
-                <a class="country-card is-live" href={localizePath(`/destinations/${c.slug}`, lang)}>
-                  <div class="country-photo" style={`background-image:url(${repImage(c.name)})`}>
-                    <span class="country-flag"><Flag code={c.iso2} /></span>
+                <a class="dx-card" href={localizePath(`/destinations/${c.slug}`, lang)} data-card data-count={c.count} data-name={c.name} data-search={c.search} data-themes={c.themes.join(' ')}>
+                  <div class:list={['country-photo dx-photo', { 'no-photo': !c.photo }]} style={c.photo ? `background-image:url(${c.photo})` : undefined}>
+                    <span class="dx-flag"><Flag code={c.iso2} /></span>
+                    <span class="dx-count">{fill(L.widgetTotal, { n: nf.format(c.count) })}</span>
                   </div>
-                  <div class="country-body">
-                    <h3>{localizePlace(c.name, lang)}</h3>
-                    <p>{localizeBlurb(c.slug, c.blurb, lang)}</p>
-                    <span class="country-meta">{t('home.guides').replace('{n}', String(c.count))} →</span>
+                  <div class="dx-body">
+                    <h3>{c.name}</h3>
+                    <p>{c.blurb}</p>
+                    {c.cities.length > 0 && <p class="dx-cities"><Fragment set:html={svg('pin', 13)} /><span class="sr-only">{L.topCities}:</span>{c.cities.join(' · ')}</p>}
+                    <div class="dx-foot">
+                      <span class="dx-meter" aria-hidden="true"><i style={`width:${Math.max(4, Math.round((c.count / maxCount) * 100))}%`}></i></span>
+                      <span class="dx-open">{L.open}</span>
+                    </div>
                   </div>
                 </a>
               ) : (
-                <div class="country-card is-soon">
-                  <div class="country-photo"><span class="country-flag"><Flag code={c.iso2} /></span></div>
-                  <div class="country-body">
-                    <h3>{localizePlace(c.name, lang)}</h3>
-                    <p>{localizeBlurb(c.slug, c.blurb, lang)}</p>
-                    <span class="country-meta">{t('home.comingSoon')}</span>
+                <div class="dx-card is-soon" data-card data-count="0" data-name={c.name} data-search={c.search} data-themes={c.themes.join(' ')}>
+                  <div class="country-photo dx-photo no-photo"><span class="dx-flag"><Flag code={c.iso2} /></span></div>
+                  <div class="dx-body">
+                    <h3>{c.name}</h3>
+                    <p>{c.blurb}</p>
+                    <div class="dx-foot"><span class="dx-soon">{L.soon}</span></div>
                   </div>
                 </div>
               )
@@ -101,6 +241,211 @@ const ogPhoto = heroOf(posts, TOOL_OG.destinations);
           </div>
         </div>
       ))}
-    </div>
-  </section>
+      <div class="dx-empty" data-empty hidden>
+        <p>{L.empty}</p>
+        <button type="button" class="dx-btn dx-btn-ghost" data-reset>{L.reset}</button>
+      </div>
+    </section>
+
+    <section class="dx-more">
+      {L.more.map(([ico, title, sub, cta, href, tone]) => (
+        <a class:list={['dx-more-card', tone]} href={localizePath(href, lang)}>
+          <i><Fragment set:html={svg(ico)} /></i>
+          <b>{title}</b>
+          <span>{sub}</span>
+          <em>{cta}</em>
+        </a>
+      ))}
+    </section>
+  </div>
+  <Newsletter lang={lang} />
 </BaseLayout>
+
+<script>
+  document.querySelectorAll<HTMLElement>('[data-dx]').forEach((root) => {
+    const q = root.querySelector<HTMLInputElement>('[data-q]')!;
+    const clear = root.querySelector<HTMLButtonElement>('[data-clear]')!;
+    const cards = [...root.querySelectorAll<HTMLElement>('[data-card]')];
+    const groups = [...root.querySelectorAll<HTMLElement>('[data-group]')];
+    const showing = root.querySelector<HTMLElement>('[data-showing]')!;
+    const empty = root.querySelector<HTMLElement>('[data-empty]')!;
+    const nf = new Intl.NumberFormat(document.documentElement.lang || undefined);
+    let cont = '';
+    let theme = '';
+    const press = (sel: string, on: Element | null) => root.querySelectorAll(sel).forEach((b) => { b.classList.toggle('is-on', b === on); b.setAttribute('aria-pressed', String(b === on)); });
+
+    const apply = () => {
+      const words = q.value.trim().toLowerCase().split(/\s+/).filter(Boolean);
+      let c = 0, g = 0;
+      for (const card of cards) {
+        const inGroup = !cont || card.closest<HTMLElement>('[data-group]')!.dataset.group === cont;
+        const ok = inGroup
+          && words.every((w) => card.dataset.search!.includes(w))
+          && (!theme || card.dataset.themes!.split(' ').includes(theme));
+        card.hidden = !ok;
+        if (ok && +card.dataset.count! > 0) { c++; g += +card.dataset.count!; }
+      }
+      for (const grp of groups) {
+        const shown = [...grp.querySelectorAll<HTMLElement>('[data-card]:not([hidden])')];
+        grp.hidden = !shown.length;
+        const gl = shown.filter((x) => +x.dataset.count! > 0);
+        const sum = grp.querySelector<HTMLElement>('[data-group-sum]');
+        if (sum) sum.textContent = root.dataset.sumTpl!.replace('{n}', nf.format(gl.length)).replace('{n}', nf.format(gl.reduce((a, x) => a + +x.dataset.count!, 0)));
+      }
+      showing.textContent = showing.dataset.tpl!.replace('{c}', nf.format(c)).replace('{g}', nf.format(g));
+      empty.hidden = groups.some((grp) => !grp.hidden);
+      clear.hidden = !q.value;
+    };
+
+    q.addEventListener('input', apply);
+    clear.addEventListener('click', () => { q.value = ''; apply(); q.focus(); });
+    root.querySelectorAll<HTMLButtonElement>('[data-dx-cont]').forEach((b) => b.addEventListener('click', () => { cont = b.dataset.dxCont || ''; press('[data-dx-cont]', b); apply(); }));
+    root.querySelectorAll<HTMLButtonElement>('[data-theme]').forEach((b) => b.addEventListener('click', () => {
+      theme = theme === b.dataset.theme ? '' : b.dataset.theme!;
+      press('[data-theme]', theme ? b : null);
+      apply();
+    }));
+    root.querySelectorAll<HTMLButtonElement>('[data-sort]').forEach((b) => b.addEventListener('click', () => {
+      press('[data-sort]', b);
+      const byName = b.dataset.sort === 'name';
+      const coll = new Intl.Collator(document.documentElement.lang || undefined);
+      for (const grid of root.querySelectorAll<HTMLElement>('.dx-grid')) {
+        const items = [...grid.children] as HTMLElement[];
+        items.sort((x, y) => {
+          const soon = (+(x.dataset.count === '0')) - (+(y.dataset.count === '0'));
+          if (soon) return soon;
+          return byName ? coll.compare(x.dataset.name!, y.dataset.name!) : (+y.dataset.count! - +x.dataset.count!) || coll.compare(x.dataset.name!, y.dataset.name!);
+        });
+        grid.append(...items);
+      }
+    }));
+    root.querySelector('[data-reset]')!.addEventListener('click', () => {
+      q.value = ''; cont = ''; theme = '';
+      press('[data-dx-cont]', root.querySelector('[data-dx-cont=""]'));
+      press('[data-theme]', null);
+      apply();
+    });
+    // The widget rows jump to a continent: show it even if a filter hid it.
+    document.querySelectorAll<HTMLAnchorElement>('[data-dx-jump]').forEach((a) => a.addEventListener('click', () => {
+      cont = ''; theme = ''; q.value = '';
+      press('[data-dx-cont]', root.querySelector('[data-dx-cont=""]'));
+      press('[data-theme]', null);
+      apply();
+    }));
+  });
+</script>
+
+<style>
+  .dx { max-width: var(--max); margin: 0 auto; padding: 18px 20px 56px; display: grid; gap: 34px; --dx-forest: #26301f; --dx-moss: #3b4a2b; --dx-brown: #7a3b1d; --dx-peach: #fbe0d4; --dx-green: #e3ecd9; --dx-on-green: #34502a; --dx-sand: #f1e6d6; }
+  @media (prefers-color-scheme: dark) { .dx { --dx-peach: #3a2620; --dx-green: #2b3524; --dx-on-green: #d6e8c4; --dx-sand: #2a241c; } }
+  .dx :is(div, section, aside, nav) { min-width: 0; }
+  .dx-crumb { display: flex; gap: 8px; font-size: .82rem; color: var(--muted); }
+  .dx-crumb a { color: inherit; text-decoration: none; }
+  .dx-crumb b { color: var(--ink); font-weight: 600; }
+  .dx-pill { display: inline-block; font-size: .78rem; font-weight: 600; padding: 4px 12px; border-radius: var(--r-pill); background: var(--dx-green); color: var(--dx-on-green); }
+  .dx-hero { display: grid; grid-template-columns: 1.05fr .95fr; gap: 32px; align-items: center; margin-top: -14px; }
+  .dx-hero h1 { font-family: var(--font-display); font-size: clamp(2.1rem, 4.8vw, 3.2rem); line-height: 1.15; margin: 12px 0; }
+  .dx-hero h1 span, .dx-hero h1 em { display: block; }
+  .dx-hero h1 em { font-style: normal; color: var(--dx-brown); }
+  @media (prefers-color-scheme: dark) { .dx-hero h1 em { color: var(--cta); } }
+  .dx-dek { color: var(--ink-soft); line-height: 1.7; margin: 0 0 18px; }
+  .dx-stats { display: flex; gap: 8px; flex-wrap: wrap; }
+  .dx-stats div { background: var(--surface); border: 1px solid var(--line); border-radius: 18px; padding: 12px 16px; min-width: 96px; }
+  .dx-stats small { display: block; font-size: .74rem; color: var(--muted); }
+  .dx-stats b { font-family: var(--font-display); font-size: 1.35rem; }
+  .dx-ctas { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 16px; }
+  .dx-btn { display: inline-flex; gap: 6px; align-items: center; padding: 10px 16px; border-radius: var(--r-pill); font: inherit; font-size: .9rem; font-weight: 600; text-decoration: none; border: 1px solid transparent; cursor: pointer; }
+  .dx-btn-cta { background: var(--cta); color: #fff !important; }
+  .dx-btn-ghost { background: var(--surface); border-color: var(--line-strong); color: var(--ink) !important; }
+  .dx-widget { background: var(--dx-forest); color: #fbf3e8; border-radius: 28px; padding: 24px; position: relative; overflow: hidden; }
+  .dx-widget::after { content: ''; position: absolute; width: 230px; height: 230px; border-radius: 50%; background: rgba(255,255,255,.06); right: -60px; top: -90px; }
+  .dx-w-kicker { margin: 0; font-size: .8rem; opacity: .85; position: relative; }
+  .dx-w-total { margin: 4px 0 14px; font-family: var(--font-display); font-size: 1.7rem; font-weight: 700; position: relative; }
+  .dx-w-bar { display: flex; gap: 4px; height: 16px; margin-bottom: 14px; position: relative; }
+  .dx-w-bar i { border-radius: 999px; min-width: 8px; }
+  .dx-widget ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; position: relative; z-index: 1; }
+  .dx-widget li a { display: flex; align-items: center; gap: 10px; background: rgba(255,255,255,.08); border-radius: 999px; padding: 7px 14px 7px 12px; color: inherit; text-decoration: none; font-size: .9rem; }
+  .dx-widget li a:hover { background: rgba(255,255,255,.15); }
+  .dx-w-dot { width: 10px; height: 10px; border-radius: 50%; flex: none; }
+  .dx-widget li b { flex: 1; min-width: 0; }
+  .dx-w-faces { display: flex; }
+  .dx-w-faces img { width: 28px; height: 28px; border-radius: 50%; object-fit: cover; border: 2px solid var(--dx-forest); margin-left: -8px; background: #445; }
+  .dx-w-faces img:first-child { margin-left: 0; }
+  .dx-widget small { font-size: .78rem; opacity: .75; white-space: nowrap; }
+  .dx-widget strong { font-size: .86rem; white-space: nowrap; min-width: 56px; text-align: right; }
+  .dx-results { display: grid; gap: 18px; scroll-margin-top: 70px; }
+  .dx-tools { position: sticky; top: 61px; z-index: 20; background: color-mix(in srgb, var(--bg) 94%, transparent); backdrop-filter: blur(10px); padding: 10px 0; margin: 0 -4px; border-bottom: 1px solid var(--line); display: grid; gap: 10px; }
+  .dx-tools-row { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+  .dx-search { flex: 1 1 260px; display: flex; align-items: center; gap: 8px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-pill); padding: 0 12px 0 16px; color: var(--muted); }
+  .dx-search input { flex: 1; min-width: 0; border: 0; background: transparent; font: inherit; font-size: .9rem; padding: 10px 0; color: var(--ink); outline: none; }
+  .dx-search input::-webkit-search-cancel-button { display: none; }
+  .dx-search:focus-within { border-color: var(--cta); }
+  .dx-x { border: 0; background: var(--dx-sand); color: var(--ink); width: 24px; height: 24px; border-radius: 50%; cursor: pointer; font-size: 1rem; line-height: 1; }
+  .dx-seg { display: inline-flex; flex-wrap: wrap; gap: 2px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-pill); padding: 3px; }
+  .dx-seg button { font: inherit; font-size: .84rem; font-weight: 600; border: 0; background: none; color: var(--ink); padding: 6px 12px; border-radius: var(--r-pill); cursor: pointer; white-space: nowrap; }
+  .dx-seg button small { font-weight: 400; color: var(--muted); }
+  .dx-seg button.is-on { background: var(--dx-moss); color: #fff; }
+  .dx-seg button.is-on small { color: rgba(255,255,255,.8); }
+  .dx-sort { margin-left: auto; }
+  .dx-sort button.is-on { background: var(--dx-sand); color: var(--ink); }
+  .dx-themes { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; font-size: .8rem; color: var(--muted); }
+  .dx-themes span { margin-right: 4px; }
+  .dx-themes button { font: inherit; font-size: .8rem; font-weight: 600; border: 1px solid var(--line); background: var(--surface); color: var(--ink); padding: 5px 11px; border-radius: var(--r-pill); cursor: pointer; }
+  .dx-themes button small { font-weight: 400; color: var(--muted); }
+  .dx-themes button.is-on { background: var(--dx-brown); border-color: var(--dx-brown); color: #fff; }
+  .dx-themes button.is-on small { color: rgba(255,255,255,.8); }
+  .dx-showing { margin: 0; font-size: .9rem; font-weight: 700; }
+  .dx-group { display: grid; gap: 14px; scroll-margin-top: 170px; }
+  .dx-group[hidden], .dx-card[hidden] { display: none; }
+  .dx-group-head { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+  .dx-group-head h2 { font-family: var(--font-display); font-size: 1.8rem; margin: 0; }
+  .dx-group-head h2 small { font-family: var(--font-body, inherit); font-size: .8rem; font-weight: 400; color: var(--muted); margin-left: 6px; }
+  .dx-group-head a { font-size: .88rem; font-weight: 700; color: var(--dx-brown); text-decoration: none; }
+  @media (prefers-color-scheme: dark) { .dx-group-head a { color: #eaa57a; } }
+  .dx-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+  .dx-card { display: flex; flex-direction: column; background: var(--surface); border: 1px solid var(--line); border-radius: 26px; overflow: hidden; text-decoration: none; color: var(--ink); transition: transform .15s, box-shadow .15s; }
+  a.dx-card:hover { transform: translateY(-2px); box-shadow: var(--shadow-md); }
+  .dx-photo { position: relative; aspect-ratio: 16 / 9; background-size: cover; background-position: center; background-color: var(--dx-sand); }
+  .dx-photo.no-photo { background: linear-gradient(135deg, var(--dx-sand), var(--dx-green)); }
+  .dx-flag { position: absolute; left: 14px; bottom: -18px; width: 42px; height: 42px; border-radius: 50%; overflow: hidden; border: 3px solid var(--surface); background: var(--surface); display: grid; place-items: center; }
+  .dx-flag :global(svg), .dx-flag :global(img) { width: 100%; height: 100%; object-fit: cover; }
+  .dx-count { position: absolute; right: 12px; top: 12px; font-size: .76rem; font-weight: 700; background: rgba(255,253,249,.94); color: #201c17; padding: 4px 10px; border-radius: var(--r-pill); }
+  .dx-body { padding: 26px 18px 16px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
+  .dx-body h3 { font-family: var(--font-display); font-size: 1.3rem; margin: 0; }
+  .dx-body > p { margin: 0; font-size: .86rem; line-height: 1.6; color: var(--ink-soft); }
+  .dx-body .dx-cities { display: flex; align-items: center; gap: 5px; font-size: .78rem; color: var(--muted); }
+  .dx-foot { margin-top: auto; padding-top: 6px; display: flex; align-items: center; gap: 12px; }
+  .dx-meter { flex: 1; height: 6px; border-radius: 999px; background: var(--dx-sand); overflow: hidden; }
+  .dx-meter i { display: block; height: 100%; background: var(--dx-moss); border-radius: inherit; }
+  .dx-open { font-size: .84rem; font-weight: 700; color: var(--dx-brown); white-space: nowrap; }
+  @media (prefers-color-scheme: dark) { .dx-open { color: #eaa57a; } .dx-meter i { background: #8fa77a; } }
+  .dx-card.is-soon { opacity: .75; }
+  .dx-card.is-soon .dx-flag { filter: grayscale(1); }
+  .dx-soon { font-size: .78rem; font-weight: 700; padding: 3px 10px; border-radius: var(--r-pill); background: var(--dx-sand); }
+  .dx-empty { text-align: center; padding: 30px; background: var(--surface); border-radius: var(--r-lg); }
+  .dx-empty[hidden] { display: none; }
+  .dx-more { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+  .dx-more-card { display: grid; gap: 6px; align-content: start; background: var(--surface); border: 1px solid var(--line); border-radius: 26px; padding: 22px; text-decoration: none; color: var(--ink); }
+  .dx-more-card.is-green { background: var(--dx-green); border-color: transparent; }
+  .dx-more-card.is-peach { background: var(--dx-peach); border-color: transparent; }
+  .dx-more-card i { width: 40px; height: 40px; border-radius: 50%; background: rgba(255,255,255,.6); display: grid; place-items: center; margin-bottom: 6px; }
+  .dx-more-card b { font-size: 1.02rem; }
+  .dx-more-card span { font-size: .84rem; color: var(--ink-soft); }
+  .dx-more-card em { font-style: normal; font-size: .86rem; font-weight: 700; margin-top: 4px; }
+  .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+  @media (max-width: 960px) {
+    .dx-hero { grid-template-columns: 1fr; }
+    .dx-grid, .dx-more { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  }
+  @media (max-width: 640px) {
+    .dx { padding: 14px 16px 44px; gap: 26px; }
+    .dx-grid, .dx-more { grid-template-columns: 1fr; }
+    .dx-tools { top: 56px; }
+    .dx-tools-row .dx-seg { flex-wrap: nowrap; overflow-x: auto; max-width: 100%; scrollbar-width: none; }
+    .dx-sort { margin-left: 0; }
+    .dx-themes { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; padding-bottom: 2px; }
+    .dx-themes span, .dx-themes button { flex: none; }
+    .dx-widget { padding: 18px; }
+    .dx-w-faces { display: none; }
+  }
+</style>

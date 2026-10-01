@@ -1,7 +1,7 @@
 ---
 import { getEntry } from 'astro:content';
-import StaticPage from '../components/StaticPage.astro';
+import MethodologyPage from '../components/MethodologyPage.astro';
 const entry = await getEntry('staticPages', 'methodology');
 ---
 
-<StaticPage entry={entry} translation={null} lang="en" />
+<MethodologyPage entry={entry} translation={null} lang="en" />

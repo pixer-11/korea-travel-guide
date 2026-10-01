@@ -1,0 +1,237 @@
+---
+// Privacy policy and terms of use (owner's mock-ups, 2026-10-01). The legal
+// text itself is untouched: it is the staticPages markdown (and its four
+// translations), rendered, then cut at each <h2> into numbered cards with a
+// table of contents. Only the summary cards and the side box are new copy, and
+// the page says outright that the full text prevails over the summary.
+import { render } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import AboutNav from './AboutNav.astro';
+import { useTranslations, localizePath, type Lang } from '../i18n/utils';
+
+interface Props { entry: any; translation: any; lang: Lang; kind: 'privacy' | 'terms' }
+const { entry, translation, lang, kind } = Astro.props;
+const t = useTranslations(lang);
+const src = translation ?? entry;
+const d = src.data;
+// rendered.html is filled by the glob loader; render() is the fallback.
+let html: string = src.rendered?.html ?? '';
+if (!html) { const r = await render(src); html = (r as any).rendered?.html ?? ''; }
+
+const firstH2 = html.search(/<h2[\s>]/);
+const intro = firstH2 >= 0 ? html.slice(0, firstH2) : html;
+const sections = [...(firstH2 >= 0 ? html.slice(firstH2) : '').matchAll(/<h2[^>]*>([\s\S]*?)<\/h2>([\s\S]*?)(?=<h2[\s>]|$)/g)]
+  .map((m, i) => ({ i, title: m[1].replace(/<[^>]+>/g, '').trim(), body: m[2], id: `s${i + 1}` }));
+
+const ICON: Record<string, string> = {
+  inbox: '<polyline points="22 12 16 12 14 15 10 15 8 12 2 12"/><path d="M5.45 5.11 2 12v6a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-6l-3.45-6.89A2 2 0 0 0 16.76 4H7.24a2 2 0 0 0-1.79 1.11z"/>',
+  chart: '<path d="M3 3v18h18"/><path d="M18 17V9"/><path d="M13 17V5"/><path d="M8 17v-3"/>',
+  phone: '<rect width="14" height="20" x="5" y="2" rx="2" ry="2"/><path d="M12 18h.01"/>',
+  link: '<path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/>',
+  megaphone: '<path d="m3 11 18-5v12L3 14v-3z"/><path d="M11.6 16.8a3 3 0 1 1-5.8-1.6"/>',
+  pin: '<path d="M12 17v5"/><path d="M9 10.76a2 2 0 0 1-1.11 1.79l-1.78.9A2 2 0 0 0 5 15.24V16a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-.76a2 2 0 0 0-1.11-1.79l-1.78-.9A2 2 0 0 1 15 10.76V7a1 1 0 0 1 1-1 2 2 0 0 0 0-4H8a2 2 0 0 0 0 4 1 1 0 0 1 1 1z"/>',
+  clock: '<circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/>',
+  shield: '<path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/><path d="m9 12 2 2 4-4"/>',
+  child: '<circle cx="12" cy="5" r="2"/><path d="M12 7v6"/><path d="m9 22 3-9 3 9"/><path d="M8 10h8"/>',
+  refresh: '<path d="M3 12a9 9 0 0 1 9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"/><path d="M21 3v5h-5"/><path d="M21 12a9 9 0 0 1-9 9 9.75 9.75 0 0 1-6.74-2.74L3 16"/><path d="M8 16H3v5"/>',
+  mail: '<rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/>',
+  info: '<circle cx="12" cy="12" r="10"/><path d="M12 16v-4"/><path d="M12 8h.01"/>',
+  alert: '<path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3"/><path d="M12 9v4"/><path d="M12 17h.01"/>',
+  sparkles: '<path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/>',
+  scale: '<path d="m16 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z"/><path d="m2 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z"/><path d="M7 21h10"/><path d="M12 3v18"/><path d="M3 7h2c2 0 5-1 7-2 2 1 5 2 7 2h2"/>',
+  lock: '<rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/>',
+  ban: '<circle cx="12" cy="12" r="10"/><path d="m4.9 4.9 14.2 14.2"/>',
+  calendar: '<rect width="18" height="18" x="3" y="4" rx="2" ry="2"/><line x1="16" x2="16" y1="2" y2="6"/><line x1="8" x2="8" y1="2" y2="6"/><line x1="3" x2="21" y1="10" y2="10"/>',
+};
+const svg = (n: string, s = 18) => `<svg width="${s}" height="${s}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ICON[n] ?? ''}</svg>`;
+// Section icons by position — the five translations keep the English order.
+const SECTION_ICONS = kind === 'privacy'
+  ? ['inbox', 'chart', 'phone', 'link', 'megaphone', 'pin', 'clock', 'shield', 'child', 'refresh', 'mail']
+  : ['info', 'alert', 'sparkles', 'link', 'scale', 'mail'];
+// Privacy: the advertising section describes what applies only once ads start,
+// so it folds away (mock-up); analytics gets the three facts as chips.
+const FOLD_INDEX = kind === 'privacy' ? 4 : -1;
+const CHIPS_INDEX = kind === 'privacy' ? 1 : -1;
+
+type Card = [string, string, string]; // icon, title, body
+const C: Record<Lang, { eyebrow: string; summaryNote: string; toc: string; privacy: Card[]; terms: Card[]; chips: string[]; foldTag: string;
+  reqT: string; reqB: string; reqCta: string; reqSubject: string; offT: string; offVisa: string; offEmerg: string; askT: string; askCta: string }> = {
+  en: {
+    eyebrow: 'Legal', summaryNote: 'The summary is here to help; the full text below prevails.', toc: 'Contents',
+    privacy: [['lock', 'No account needed', 'You can read the whole site without signing up. We ask for your name or email only if you subscribe or write to us; page visits are measured as described below.'], ['ban', 'Never sold or rented', 'We do not sell or rent your personal information.'], ['megaphone', 'No ads right now', 'Google Analytics runs with its advertising features switched off.'], ['phone', '“My trip” stays on your device', 'Saved places are kept in your own browser and are not sent to us.']],
+    terms: [['info', 'General information', 'Travel details change often. Check official sources before you travel.'], ['alert', 'Not professional advice', 'For visa, health or safety matters, ask the official authority or a qualified professional.'], ['sparkles', 'AI assistance is disclosed', 'Guides are drafted with AI help and checked against data sources.']],
+    chips: ['Plausible · no cookies', 'GA4 · ad features off', 'EEA/UK/CH · consent denied'], foldTag: 'Applies only once ads start',
+    reqT: 'Request your data', reqB: 'To access, correct or delete your data, email us. Newsletter subscribers can also unsubscribe from the link in every email.', reqCta: 'Email a request →', reqSubject: '[Privacy request]',
+    offT: 'Official information', offVisa: 'Visa & entry by country', offEmerg: 'Emergency numbers by country', askT: 'Questions about these terms?', askCta: 'Contact us →',
+  },
+  ko: {
+    eyebrow: '법적 고지', summaryNote: '요약은 이해를 돕기 위한 것이며, 아래 본문이 우선합니다.', toc: '목차',
+    privacy: [['lock', '계정 없이 이용해요', '가입하지 않아도 사이트 전체를 볼 수 있어요. 이름·이메일은 뉴스레터를 구독하거나 메일을 보내실 때만 받고, 서버 기록과 방문 통계는 아래 1·2항대로 처리해요.'], ['ban', '팔거나 빌려주지 않아요', '개인정보를 판매하거나 대여하지 않습니다.'], ['megaphone', '지금은 광고가 없어요', 'Google 애널리틱스의 광고 기능은 꺼 두었습니다.'], ['phone', '‘내 여행’은 내 기기에만', '저장한 장소는 이용자 브라우저에만 남고 저희에게 전송되지 않아요.']],
+    terms: [['info', '일반 참고용 정보예요', '여행 정보는 자주 바뀌어요. 떠나기 전 공식 출처에서 꼭 확인하세요.'], ['alert', '전문 자문이 아니에요', '비자·건강·안전 문제는 공식 기관이나 자격 있는 전문가와 상담하세요.'], ['sparkles', 'AI 도움을 밝혀요', '가이드는 AI의 도움을 받아 만들고, 데이터 출처와 대조해 검토합니다.']],
+    chips: ['Plausible · 쿠키 없음', 'GA4 · 광고 기능 꺼짐', 'EEA·영국·스위스 · 동의 거부 모드'], foldTag: '광고를 시작하면 적용',
+    reqT: '내 정보 요청하기', reqB: '열람·수정·삭제를 원하시면 메일을 보내 주세요. 뉴스레터는 메일 속 링크로 바로 구독 취소할 수 있어요.', reqCta: '요청 메일 쓰기 →', reqSubject: '[개인정보 요청]',
+    offT: '공식 정보', offVisa: '나라별 비자·입국', offEmerg: '나라별 긴급 번호', askT: '약관에 대해 궁금한 점이 있나요?', askCta: '문의하기 →',
+  },
+  ja: {
+    eyebrow: '法的事項', summaryNote: '要約は理解を助けるためのもので、下の本文が優先されます。', toc: '目次',
+    privacy: [['lock', 'アカウント不要', '登録しなくてもサイト全体を読めます。お名前やメールアドレスをいただくのは、ニュースレター登録時とメールをいただいたときだけです。アクセス計測は下記のとおりです。'], ['ban', '販売・貸与しません', '個人情報を販売したり貸与したりすることはありません。'], ['megaphone', '現在は広告なし', 'Google アナリティクスの広告機能はオフにしています。'], ['phone', '「マイトリップ」は端末の中だけ', '保存した場所はお使いのブラウザにだけ残り、私たちには送信されません。']],
+    terms: [['info', '一般的な参考情報です', '旅行情報はよく変わります。出発前に公式の情報源で必ず確認してください。'], ['alert', '専門的な助言ではありません', 'ビザ・健康・安全の問題は、公的機関や資格のある専門家にご相談ください。'], ['sparkles', 'AIの利用を明示します', 'ガイドはAIの助けを借りて作成し、データの出典と照合して確認しています。']],
+    chips: ['Plausible · Cookieなし', 'GA4 · 広告機能オフ', 'EEA・英国・スイス · 同意拒否モード'], foldTag: '広告開始後に適用',
+    reqT: '自分の情報を請求する', reqB: '閲覧・訂正・削除をご希望の場合はメールでご連絡ください。ニュースレターは各メールのリンクからすぐに解除できます。', reqCta: '請求メールを書く →', reqSubject: '[個人情報の請求]',
+    offT: '公式情報', offVisa: '国別のビザ・入国', offEmerg: '国別の緊急番号', askT: '規約についてのご質問は？', askCta: 'お問い合わせ →',
+  },
+  es: {
+    eyebrow: 'Legal', summaryNote: 'El resumen es solo una ayuda; prevalece el texto completo de abajo.', toc: 'Índice',
+    privacy: [['lock', 'Sin cuenta', 'Puedes leer todo el sitio sin registrarte. Solo te pedimos nombre o correo si te suscribes o nos escribes; las visitas se miden como se explica abajo.'], ['ban', 'No se vende ni se alquila', 'No vendemos ni alquilamos tu información personal.'], ['megaphone', 'Ahora no hay anuncios', 'Google Analytics funciona con sus funciones publicitarias desactivadas.'], ['phone', '“Mi viaje” se queda en tu dispositivo', 'Los lugares guardados se quedan en tu navegador y no se nos envían.']],
+    terms: [['info', 'Información general', 'Los datos de viaje cambian a menudo. Compruébalos en fuentes oficiales antes de viajar.'], ['alert', 'No es asesoramiento profesional', 'Para visados, salud o seguridad, consulta a la autoridad oficial o a un profesional cualificado.'], ['sparkles', 'Decimos cuándo usamos IA', 'Las guías se redactan con ayuda de IA y se contrastan con fuentes de datos.']],
+    chips: ['Plausible · sin cookies', 'GA4 · publicidad desactivada', 'EEE/RU/CH · consentimiento denegado'], foldTag: 'Solo cuando haya anuncios',
+    reqT: 'Solicitar tus datos', reqB: 'Para acceder, corregir o borrar tus datos, escríbenos. Los suscriptores pueden darse de baja desde el enlace de cada correo.', reqCta: 'Escribir la solicitud →', reqSubject: '[Solicitud de privacidad]',
+    offT: 'Información oficial', offVisa: 'Visados y entrada por país', offEmerg: 'Números de emergencia por país', askT: '¿Dudas sobre estos términos?', askCta: 'Contacto →',
+  },
+  zh: {
+    eyebrow: '法律信息', summaryNote: '摘要仅为方便理解，以下方正文为准。', toc: '目录',
+    privacy: [['lock', '无需注册账号', '不注册也能浏览整个网站。只有在您订阅新闻通讯或给我们写信时才会收到您的姓名或邮箱；访问统计的处理方式见下文。'], ['ban', '绝不出售或出租', '我们不会出售或出租您的个人信息。'], ['megaphone', '目前没有广告', 'Google Analytics 的广告功能已关闭。'], ['phone', '“我的行程”只存在您的设备上', '保存的地点只保留在您自己的浏览器中，不会发送给我们。']],
+    terms: [['info', '一般参考信息', '旅行信息经常变化。出发前请务必通过官方渠道核实。'], ['alert', '并非专业建议', '签证、健康或安全问题，请咨询官方机构或合格的专业人士。'], ['sparkles', '公开 AI 的使用', '指南借助 AI 撰写，并与数据来源核对。']],
+    chips: ['Plausible · 不使用 Cookie', 'GA4 · 广告功能关闭', '欧洲经济区/英国/瑞士 · 拒绝模式'], foldTag: '开始投放广告后适用',
+    reqT: '申请查询个人信息', reqB: '如需查询、更正或删除您的信息，请给我们写信。新闻通讯可通过每封邮件中的链接直接退订。', reqCta: '写申请邮件 →', reqSubject: '[个人信息申请]',
+    offT: '官方信息', offVisa: '各国签证与入境', offEmerg: '各国紧急电话', askT: '对条款有疑问？', askCta: '联系我们 →',
+  },
+};
+const c = C[lang];
+const cards = kind === 'privacy' ? c.privacy : c.terms;
+const contactEmail = 'hello@wanderatlasguides.com';
+const tones = ['is-green', 'is-green', 'is-peach', 'is-cream'];
+---
+<BaseLayout title={d.metaTitle} description={d.metaDescription} localized={true}>
+  <div class="lg">
+    <AboutNav lang={lang} current={kind} />
+    <header class="lg-head">
+      <span class="lg-pill">{c.eyebrow}</span>
+      <h1>{d.h1}</h1>
+      {d.lastUpdated && <p class="lg-date"><Fragment set:html={svg('calendar', 14)} />{t('static.lastUpdated').replace('{date}', d.lastUpdated)}</p>}
+      <div class="lg-intro" set:html={intro} />
+    </header>
+    <section class="lg-sum" aria-label={c.toc}>
+      <div class:list={['lg-cards', kind]}>
+        {cards.map(([ico, title, body], i) => (
+          <article class:list={['lg-card', kind === 'terms' ? ['is-green', 'is-peach', 'is-cream'][i] : tones[i]]}>
+            <i><Fragment set:html={svg(ico, 16)} /></i>
+            <h2>{title}</h2>
+            <p>{body}</p>
+          </article>
+        ))}
+      </div>
+      <p class="lg-note">{c.summaryNote}</p>
+    </section>
+    <div class="lg-grid">
+      <div class="lg-body">
+        {sections.map((s) => s.i === FOLD_INDEX ? (
+          <details class="lg-sec lg-fold" id={s.id}>
+            <summary><span class="lg-num">{String(s.i + 1).padStart(2, '0')}</span><i><Fragment set:html={svg(SECTION_ICONS[s.i] ?? 'info')} /></i><h2>{s.title}</h2><em>{c.foldTag}</em></summary>
+            <div class="prose" set:html={s.body} />
+          </details>
+        ) : (
+          <section class="lg-sec" id={s.id}>
+            <div class="lg-sec-h"><span class="lg-num">{String(s.i + 1).padStart(2, '0')}</span><i><Fragment set:html={svg(SECTION_ICONS[s.i] ?? 'info')} /></i><h2>{s.title}</h2></div>
+            {s.i === CHIPS_INDEX && <p class="lg-chips">{c.chips.map((x) => <span>{x}</span>)}</p>}
+            <div class="prose" set:html={s.body} />
+          </section>
+        ))}
+      </div>
+      <aside class="lg-side">
+        <nav class="lg-toc" aria-label={c.toc}>
+          <p>{c.toc}</p>
+          <ol>{sections.map((s) => <li><a href={`#${s.id}`} data-toc={s.id}><span>{s.i + 1}</span>{s.title}</a></li>)}</ol>
+        </nav>
+        {kind === 'privacy' ? (
+          <div class="lg-box">
+            <h3>{c.reqT}</h3>
+            <p>{c.reqB}</p>
+            <a class="lg-btn" href={`mailto:${contactEmail}?subject=${encodeURIComponent(c.reqSubject)}`}>{c.reqCta}</a>
+          </div>
+        ) : (
+          <div class="lg-box">
+            <h3>{c.offT}</h3>
+            <a class="lg-row" href={localizePath('/essentials/visa', lang)}>{c.offVisa} →</a>
+            <a class="lg-row" href={localizePath('/essentials/emergency', lang)}>{c.offEmerg} →</a>
+            <p class="lg-ask">{c.askT}</p>
+            <a class="lg-btn" href={localizePath('/contact', lang)}>{c.askCta}</a>
+          </div>
+        )}
+      </aside>
+    </div>
+  </div>
+</BaseLayout>
+
+<script>
+  // Table of contents: mark the section being read.
+  const links = [...document.querySelectorAll<HTMLAnchorElement>('.lg-toc [data-toc]')];
+  const secs = links.map((a) => document.getElementById(a.dataset.toc!)).filter(Boolean) as HTMLElement[];
+  if ('IntersectionObserver' in window && secs.length) {
+    const io = new IntersectionObserver((es) => {
+      for (const e of es) if (e.isIntersecting) links.forEach((a) => a.classList.toggle('is-on', a.dataset.toc === e.target.id));
+    }, { rootMargin: '-30% 0px -60% 0px' });
+    secs.forEach((s) => io.observe(s));
+  }
+  // A link to a folded section opens it.
+  links.forEach((a) => a.addEventListener('click', () => { const el = document.getElementById(a.dataset.toc!); if (el instanceof HTMLDetailsElement) el.open = true; }));
+</script>
+
+<style>
+  .lg { max-width: var(--max); margin: 0 auto; padding: 18px 20px 64px; display: grid; gap: 26px; --lg-forest: #26301f; --lg-brown: #7a3b1d; --lg-peach: #f6dccb; --lg-cream: #fbf3e8; --lg-sand: #efe4d3; --lg-green: #e3ecd9; --lg-on-green: #34502a; }
+  @media (prefers-color-scheme: dark) { .lg { --lg-peach: #3a2a20; --lg-cream: #221d17; --lg-sand: #2a241c; --lg-green: #2b3524; --lg-on-green: #d6e8c4; } }
+  .lg :is(div, section, aside, nav, article) { min-width: 0; }
+  .lg-pill { display: inline-block; font-size: .78rem; font-weight: 600; padding: 4px 12px; border-radius: var(--r-pill); background: var(--lg-green); color: var(--lg-on-green); }
+  .lg-head h1 { font-family: var(--font-display); font-size: clamp(2rem, 5vw, 3rem); margin: 10px 0 8px; }
+  .lg-date { display: inline-flex; gap: 6px; align-items: center; font-size: .82rem; color: var(--muted); background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-pill); padding: 4px 12px; margin: 0 0 12px; }
+  .lg-intro :global(p) { color: var(--ink-soft); line-height: 1.7; max-width: 48em; margin: 0; }
+  .lg-cards { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
+  .lg-cards.terms { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .lg-card { border-radius: var(--r-lg); padding: 18px; display: grid; gap: 6px; align-content: start; }
+  .lg-card.is-green { background: var(--lg-green); } .lg-card.is-peach { background: var(--lg-peach); } .lg-card.is-cream { background: var(--surface); border: 1px solid var(--line); }
+  .lg-card i { width: 32px; height: 32px; border-radius: 50%; background: rgba(255,255,255,.6); display: grid; place-items: center; }
+  .lg-card h2 { font-size: 1rem; margin: 6px 0 0; font-family: var(--font-display); }
+  .lg-card p { margin: 0; font-size: .86rem; line-height: 1.55; color: var(--ink-soft); }
+  .lg-note { font-size: .78rem; color: var(--muted); margin: 8px 0 0; }
+  .lg-grid { display: grid; grid-template-columns: minmax(0, 1fr) 270px; gap: 22px; align-items: start; }
+  .lg-body { display: grid; gap: 12px; }
+  .lg-sec { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-lg); padding: 20px 22px; scroll-margin-top: 80px; }
+  .lg-sec-h, .lg-fold summary { display: flex; align-items: center; gap: 10px; }
+  .lg-num { font-family: var(--font-display); font-weight: 700; color: var(--lg-brown); font-size: .95rem; min-width: 1.6em; }
+  .lg-sec i, .lg-fold summary i { width: 34px; height: 34px; border-radius: 50%; background: var(--lg-sand); display: grid; place-items: center; flex: none; }
+  .lg-sec h2 { font-family: var(--font-display); font-size: 1.2rem; margin: 0; }
+  .lg-sec .prose { margin-top: 10px; }
+  .lg-sec .prose :global(p), .lg-sec .prose :global(li) { line-height: 1.7; color: var(--ink-soft); }
+  .lg-fold summary { cursor: pointer; list-style: none; }
+  .lg-fold summary::-webkit-details-marker { display: none; }
+  .lg-fold summary em { margin-left: auto; font-style: normal; font-size: .74rem; font-weight: 600; background: var(--lg-peach); color: var(--lg-brown); padding: 3px 10px; border-radius: var(--r-pill); white-space: nowrap; }
+  .lg-fold summary::after { content: '+'; width: 26px; height: 26px; border-radius: 50%; background: var(--lg-sand); display: grid; place-items: center; flex: none; }
+  .lg-fold[open] summary::after { content: '−'; background: var(--lg-brown); color: #fff; }
+  .lg-chips { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0 0; }
+  .lg-chips span { font-size: .74rem; font-weight: 600; padding: 3px 10px; border-radius: var(--r-pill); background: var(--lg-green); color: var(--lg-on-green); }
+  @media (prefers-color-scheme: dark) { .lg-chips span, .lg-pill { color: #dfe9d3; } }
+  .lg-side { position: sticky; top: 80px; display: grid; gap: 12px; }
+  .lg-toc { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-lg); padding: 14px 16px; }
+  .lg-toc p { margin: 0 0 6px; font-size: .78rem; color: var(--muted); }
+  .lg-toc ol { list-style: none; padding: 0; margin: 0; display: grid; gap: 2px; }
+  .lg-toc a { display: flex; gap: 8px; font-size: .84rem; text-decoration: none; color: var(--ink-soft); padding: 4px 8px; border-radius: 10px; }
+  .lg-toc a span { color: var(--lg-brown); font-weight: 700; min-width: 1.2em; }
+  .lg-toc a.is-on { background: var(--lg-cream); color: var(--ink); font-weight: 600; }
+  .lg-box { background: var(--lg-forest); color: #fbf3e8; border-radius: var(--r-lg); padding: 16px 18px; display: grid; gap: 8px; }
+  .lg-box h3 { margin: 0; font-family: var(--font-display); font-size: 1.05rem; }
+  .lg-box p { margin: 0; font-size: .82rem; line-height: 1.55; opacity: .85; }
+  .lg-row { font-size: .84rem; text-decoration: none; color: #fbf3e8; background: rgba(255,255,255,.08); border-radius: 12px; padding: 8px 12px; }
+  .lg-ask { margin-top: 4px !important; }
+  .lg-btn { justify-self: start; font-size: .84rem; font-weight: 600; text-decoration: none; background: rgba(255,255,255,.14); color: #fff; border-radius: var(--r-pill); padding: 8px 14px; }
+  @media (max-width: 900px) {
+    .lg-grid { grid-template-columns: 1fr; }
+    .lg-side { position: static; order: -1; }
+    .lg-cards, .lg-cards.terms { grid-template-columns: 1fr 1fr; }
+  }
+  @media (max-width: 560px) {
+    .lg { padding: 14px 16px 48px; }
+    .lg-cards, .lg-cards.terms { grid-template-columns: 1fr; }
+    .lg-sec { padding: 16px; }
+    .lg-toc { display: none; }
+  }
+</style>
