@@ -1,4 +1,5 @@
 ---
+import { monthKeyUTC, nextMonthUTC } from '../lib/readerMonth';
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Newsletter from './Newsletter.astro';
@@ -87,22 +88,32 @@ const month = today.getUTCMonth() + 1;
 const monthName = new Intl.DateTimeFormat(locale, { month: 'long', timeZone: 'UTC' }).format(today);
 const guides = await getCollection('essentials', ({ data }) => !data.draft);
 const facts = (essentialsFacts as any).countries ?? {};
-const seasonOf = new Map<string, { good: boolean; line: string }>();
+const seasonOf = new Map<string, { good: boolean; best: number[]; line: string }>();
 for (const g of guides) {
   const fe = facts[g.data.country];
   if (!fe || fe.srcHash !== bodyHash(String(g.body ?? ''))) continue;
   const F = lang === 'en' ? fe.en : fe[lang];
   const best: number[] = fe.en?.season?.best ?? [];
   const card = F?.summary?.find((s: any) => s.key === 'season');
-  seasonOf.set(g.data.country, { good: best.includes(month), line: card ? [card.title, card.sub].filter(Boolean).join(' · ') : '' });
+  seasonOf.set(g.data.country, { good: best.includes(month), best, line: card ? [card.title, card.sub].filter(Boolean).join(' · ') : '' });
 }
-const picks: any[] = [];
-for (const c of [...cities].sort((a, b) => b.maxStops - a.maxStops)) {
-  if (picks.length >= 3) break;
-  if (!seasonOf.get(c.country)?.good) continue;
-  if (picks.some((p) => p.country === c.country)) continue;
-  picks.push(c);
-}
+// Picks for a month; made for the build's month and the next, and the script
+// shows the reader's (lib/readerMonth — on the 1st the build says last month).
+const picksFor = (mm: number) => {
+  const out: any[] = [];
+  for (const c of [...cities].sort((a, b) => b.maxStops - a.maxStops)) {
+    if (out.length >= 3) break;
+    if (!seasonOf.get(c.country)?.best.includes(mm)) continue;
+    if (out.some((p) => p.country === c.country)) continue;
+    out.push(c);
+  }
+  return out;
+};
+const monthVariants = [today, nextMonthUTC(today)].map((d, i) => ({
+  key: monthKeyUTC(d), first: i === 0, picks: picksFor(d.getUTCMonth() + 1),
+  name: new Intl.DateTimeFormat(locale, { month: 'long', timeZone: 'UTC' }).format(d),
+}));
+const picks = monthVariants[0].picks;
 
 const title = u('seoTitle', { days: daysText });
 const description = u('dek', { n: courseCount, c: cities.length, days: daysText });
@@ -176,12 +187,13 @@ const features = [
       </div>
     </section>
 
-    {picks.length > 0 && (
-      <section class="section ixh-month">
+    {monthVariants.map((mv) => (
+      <section class="section ixh-month" data-mv-group="ixh-month" data-mv={mv.key} data-mv-empty={mv.picks.length ? undefined : ''} hidden={!mv.first || !mv.picks.length}>
+        {mv.picks.length > 0 && (
         <div class="wrap">
-          <div class="ixh-head"><h2 class="ixh-h2">{u('monthTitle', { m: monthName })}</h2><span>{u('monthSub')}</span></div>
+          <div class="ixh-head"><h2 class="ixh-h2">{u('monthTitle', { m: mv.name })}</h2><span>{u('monthSub')}</span></div>
           <div class="ixh-picks">
-            {picks.map((c, i) => {
+            {mv.picks.map((c, i) => {
               const x = c.courses[0];
               return (
                 <a class:list={['ixh-pick', `ixh-pick--${['photo', 'brown', 'forest'][i % 3]}`]} href={x.href}>
@@ -197,8 +209,9 @@ const features = [
             })}
           </div>
         </div>
+        )}
       </section>
-    )}
+    ))}
 
     <section class="section" id="courses">
       <div class="wrap">
@@ -263,6 +276,8 @@ const features = [
 </BaseLayout>
 
 <script>
+  import { showReaderMonth } from '../lib/readerMonth';
+  showReaderMonth();
   for (const root of document.querySelectorAll<HTMLElement>('[data-ixh]')) {
     const form = root.querySelector<HTMLFormElement>('[data-ixh-finder]')!;
     const cards = [...root.querySelectorAll<HTMLElement>('[data-city-card]')];

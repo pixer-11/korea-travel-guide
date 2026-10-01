@@ -1928,3 +1928,5 @@ main:focus { outline: none; }
 [data-ev-end][hidden] { display: none !important; }
 /* Home "this month": the month label and the section the script hides. */
 .sec-monthly[hidden], .sec-monthly .kicker[hidden] { display: none !important; }
+/* lib/readerMonth: a month variant the script hides. */
+[data-mv][hidden] { display: none !important; }

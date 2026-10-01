@@ -40,6 +40,7 @@ interface Props {
   wtgLabel?: string | null;
   wtgCard?: {
     title: string; nowLabel: string; nowHref: string; hi: number; lo: number; rain: number;
+    variants?: { key: string; nowLabel: string; nowHref: string; hi: number; lo: number; rain: number }[];
     hiLabel: string; loLabel: string; rainLabel: string; best: string; city: string; cta: string;
   } | null;
 }
@@ -184,14 +185,16 @@ const hasFacts = !!(p && (statusData || hourGroups || hoursAllDay || rawHours.le
   {wtgCard && wtgHref && (
     <section class="side-box wtgc" aria-label={wtgCard.title}>
       <p class="wtgc-title"><Emoji name="spiral-calendar" /> {wtgCard.title}</p>
-      <a class="wtgc-now" href={wtgCard.nowHref}>
-        <span class="wtgc-now-k">{wtgCard.nowLabel} →</span>
-        <span class="wtgc-stats">
-          <span><b>{wtgCard.hi}°</b><small>{wtgCard.hiLabel}</small></span>
-          <span><b>{wtgCard.lo}°</b><small>{wtgCard.loLabel}</small></span>
-          <span><b>{wtgCard.rain}<i>mm</i></b><small>{wtgCard.rainLabel}</small></span>
-        </span>
-      </a>
+      {(wtgCard.variants?.length ? wtgCard.variants : [{ key: '', nowLabel: wtgCard.nowLabel, nowHref: wtgCard.nowHref, hi: wtgCard.hi, lo: wtgCard.lo, rain: wtgCard.rain }]).map((v, i) => (
+        <a class="wtgc-now" href={v.nowHref} data-mv-group={v.key ? 'wtgc-now' : undefined} data-mv={v.key || undefined} hidden={i > 0}>
+          <span class="wtgc-now-k">{v.nowLabel} →</span>
+          <span class="wtgc-stats">
+            <span><b>{v.hi}°</b><small>{wtgCard.hiLabel}</small></span>
+            <span><b>{v.lo}°</b><small>{wtgCard.loLabel}</small></span>
+            <span><b>{v.rain}<i>mm</i></b><small>{wtgCard.rainLabel}</small></span>
+          </span>
+        </a>
+      ))}
       <p class="wtgc-best">{wtgCard.best}</p>
       <a class="wtgc-cta" href={wtgHref}>{wtgCard.cta} →</a>
       <p class="wtgc-city">{wtgCard.city}</p>
@@ -215,6 +218,8 @@ const hasFacts = !!(p && (statusData || hourGroups || hoursAllDay || rawHours.le
 </aside>
 
 <script>
+  import { showReaderMonth } from '../../lib/readerMonth';
+  showReaderMonth();
   import { statusAt, venueClock, hhmm } from '../../lib/open-now.mjs';
   document.querySelectorAll<HTMLElement>('[data-open-status]').forEach((box) => {
     try {

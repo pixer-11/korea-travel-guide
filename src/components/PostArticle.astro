@@ -18,6 +18,7 @@ import PostCard from './PostCard.astro';
 import StickyBook from './StickyBook.astro';
 import { hotelUrl } from '../lib/hotel-link.mjs';
 import Emoji from './Emoji.astro';
+import { monthKeyUTC, nextMonthUTC } from '../lib/readerMonth';
 import { isEventPast } from '../lib/eventStatus';
 import { eventSchemaName } from '../lib/eventName';
 import { eventLocation } from '../lib/eventLocation.mjs';
@@ -188,8 +189,17 @@ const wtgCard = (() => {
   const best = bestMonth(climate);
   if (!now || !best) return null;
   const monthName = (mm: number) => new Date(Date.UTC(2026, mm - 1, 15)).toLocaleDateString(localeCodes[lang], { month: 'long', timeZone: 'UTC' });
+  // The build's month and the next: the sidebar shows the reader's
+  // (lib/readerMonth — the build still says last month early on the 1st).
+  const buildD = new Date();
+  const variants = [buildD, nextMonthUTC(buildD)].map((d) => {
+    const mm = d.getUTCMonth() + 1;
+    const c = climate.find((x: any) => x.m === mm);
+    return c ? { key: monthKeyUTC(d), nowLabel: ps('ps.wtgNow').replace('{month}', monthName(mm)), nowHref: localizePath(`/tools/when-to-go/${countrySlug}/${wtgMonthSlug(mm)}/`, lang), hi: c.hi, lo: c.lo, rain: c.rain } : null;
+  }).filter((v): v is NonNullable<typeof v> => !!v);
   return {
     title: t('wtg.bestTimeCard').replace('{country}', localizePlace(country, lang)),
+    variants,
     nowLabel: ps('ps.wtgNow').replace('{month}', monthName(m)),
     nowHref: localizePath(`/tools/when-to-go/${countrySlug}/${wtgMonthSlug(m)}/`, lang),
     hi: now.hi, lo: now.lo, rain: now.rain,

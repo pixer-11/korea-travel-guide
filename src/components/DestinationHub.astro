@@ -27,6 +27,7 @@ import { wikimediaThumb } from '../lib/wikimediaThumb.mjs';
 import ogMirror from '../../data/og-mirror.json';
 import { bestMonths, eventCounts, citiesByGuideCount, topVenues, pickHubHero, hubHeroForDay } from '../lib/dest-hub.mjs';
 import { destHubT } from '../i18n/dest-hub-strings';
+import { monthKeyUTC, nextMonthUTC } from '../lib/readerMonth';
 
 // Shared country-hub body for /destinations/<country> (en) and
 // /[lang]/destinations/<country>. Country name via localizePlace, blurb via
@@ -152,7 +153,7 @@ const hotelCountry = hotelUrl({ submarker: 'dest_hub', locale: klookLocale(lang)
 // piece of real data of its own beneath the value — the twelve-month comfort
 // strip, the next event, the local carriers, the three topics — all computed
 // here, none typed in.
-type Cell = { key: string; icon: string; label: string; value: string; sub: string; href: string };
+type Cell = { key: string; icon: string; label: string; value: string; sub: string; href: string; mv?: { key: string; label: string; value: string }[] };
 const comfortYear = hasWtg ? (monthComfort(facts?.climate) ?? []) : [];
 const nextEvent = upcomingEvents.find((p) => p.data.eventStartDate) ?? null;
 const esimCarriers = carrierLine(esimCountries().find((c: any) => c.slug === country.slug)?.facts?.carriers).split(' · ').filter(Boolean).slice(0, 3).join(' · ');
@@ -164,12 +165,19 @@ if (best.length) cells.push({
   sub: climateCity ? h('cellBestSub', { city: climateCity }) : '',
   href: localizePath(`/tools/when-to-go/${country.slug}`, lang),
 });
+// "Events in <month>" for the build's month and the next; the reader's month
+// shows (lib/readerMonth — on the 1st the build still says last month).
+const evCell = (d: Date) => {
+  const c = eventCounts(posts, d);
+  return { key: monthKeyUTC(d), label: c.thisMonth > 0 ? h('cellEventsMonth', { month: monthLong(d) }) : h('cellEventsUpcoming'), value: nf.format(c.thisMonth > 0 ? c.thisMonth : c.upcoming) };
+};
 if (evCounts.upcoming > 0) cells.push({
   key: 'events', icon: 'admission-tickets',
   label: evCounts.thisMonth > 0 ? h('cellEventsMonth', { month: monthLong(now) }) : h('cellEventsUpcoming'),
   value: nf.format(evCounts.thisMonth > 0 ? evCounts.thisMonth : evCounts.upcoming),
   sub: h('cellEventsSub'),
   href: eventsHref,
+  mv: [evCell(now), evCell(nextMonthUTC(now))],
 });
 if (hasEsim) cells.push({
   key: 'esim', icon: 'antenna-bars', label: h('cellEsim'), value: h('cellEsimValue'), sub: h('cellEsimSub'),
@@ -273,11 +281,11 @@ const metaDesc = blurb ? clip(blurb) : countryLabel;
       <div class="dh-cells">
         {cells.map((c) => (
           <a class={`dh-cell dh-cell--${c.key}`} href={c.href}>
-            <span class="dh-cell-label"><span class="dh-cell-ico"><Emoji name={c.icon} /></span> {c.label}</span>
+            <span class="dh-cell-label"><span class="dh-cell-ico"><Emoji name={c.icon} /></span> {c.mv ? c.mv.map((v, i) => <span data-mv-group="dh-ev-label" data-mv={v.key} hidden={i > 0}>{v.label}</span>) : c.label}</span>
             {c.key === 'entry' ? (
               <span class="dh-cell-tags">{entryTags.map((tag) => <span class="dh-tag">{tag}</span>)}</span>
             ) : (
-              <strong class="dh-cell-value">{c.value}</strong>
+              <strong class="dh-cell-value">{c.mv ? c.mv.map((v, i) => <span data-mv-group="dh-ev-value" data-mv={v.key} hidden={i > 0}>{v.value}</span>) : c.value}</strong>
             )}
             {c.key === 'best' && comfortYear.length === 12 && (
               <span class="dh-months" aria-hidden="true">
@@ -458,7 +466,9 @@ const metaDesc = blurb ? clip(blurb) : countryLabel;
 
 <script>
   import { hideEnded } from '../lib/hideEnded';
+  import { showReaderMonth } from '../lib/readerMonth';
   hideEnded();
+  showReaderMonth();
 </script>
 
 <style>
