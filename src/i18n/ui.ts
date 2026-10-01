@@ -280,6 +280,9 @@ export const ui = {
     // build unattended in five languages; per-country prose comes from
     // data/esim-facts.json via src/i18n/esim.ts. Deliberately price-free.
     'nav.esim': 'eSIM guides',
+    'nav.toolsMenu': 'Travel tools',
+    'nav.essAll': 'All travel essentials',
+    'nav.essShort': 'Essentials',
     'esim.eyebrow': 'Travel connectivity',
     'esim.metaTitle': '{country} eSIM for Travelers — eSIM vs Pocket WiFi vs Roaming',
     'esim.metaDesc': 'How to stay connected in {country}: travel eSIM compared with pocket WiFi and roaming, which local networks matter, setup before you fly, and traveler tips.',
@@ -936,6 +939,9 @@ export const ui = {
     'widget.esimDesc': '도착하자마자 바로 인터넷 연결',
 
     'nav.esim': 'eSIM 가이드',
+    'nav.toolsMenu': '여행 도구',
+    'nav.essAll': '여행 필수 정보 전체',
+    'nav.essShort': '필수 정보',
     'esim.eyebrow': '여행 데이터 준비',
     'esim.metaTitle': '{country} 여행 eSIM 총정리 — 포켓와이파이·로밍 비교',
     'esim.metaDesc': '{country} 여행 데이터 완전 정리: eSIM·포켓와이파이·로밍 비교, 현지 통신사, 출발 전 설치 방법과 여행자 팁까지.',
@@ -1587,6 +1593,9 @@ export const ui = {
     'widget.esimDesc': '到着後すぐにネット接続',
 
     'nav.esim': 'eSIMガイド',
+    'nav.toolsMenu': '旅のツール',
+    'nav.essAll': '旅の基本情報をすべて見る',
+    'nav.essShort': '基本情報',
     'esim.eyebrow': '旅の通信準備',
     'esim.metaTitle': '{country}旅行のeSIM完全ガイド — ポケットWiFi・ローミング比較',
     'esim.metaDesc': '{country}で使うデータ通信の選び方:eSIM・ポケットWiFi・ローミングの比較、現地キャリア事情、出発前のセットアップ手順と旅行者向けのコツ。',
@@ -2238,6 +2247,9 @@ export const ui = {
     'widget.esimDesc': 'Conéctate nada más aterrizar',
 
     'nav.esim': 'Guías eSIM',
+    'nav.toolsMenu': 'Herramientas',
+    'nav.essAll': 'Todo lo esencial del viaje',
+    'nav.essShort': 'Esenciales',
     'esim.eyebrow': 'Conectividad en viaje',
     'esim.metaTitle': 'eSIM para viajar a {country} — eSIM vs WiFi de bolsillo vs roaming',
     'esim.metaDesc': 'Cómo tener internet en {country}: eSIM de viaje frente a WiFi de bolsillo y roaming, qué redes locales importan, configuración antes de volar y consejos prácticos.',
@@ -2889,6 +2901,9 @@ export const ui = {
     'widget.esimDesc': '落地即刻联网',
 
     'nav.esim': 'eSIM 攻略',
+    'nav.toolsMenu': '旅行工具',
+    'nav.essAll': '全部出行必备信息',
+    'nav.essShort': '出行必备',
     'esim.eyebrow': '旅行上网准备',
     'esim.metaTitle': '{country}旅行 eSIM 全攻略 — eSIM、随身WiFi、漫游对比',
     'esim.metaDesc': '{country}旅行上网指南:eSIM、随身WiFi与运营商漫游对比,当地网络怎么选,出发前的安装步骤和实用贴士。',

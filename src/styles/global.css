@@ -1930,3 +1930,32 @@ main:focus { outline: none; }
 .sec-monthly[hidden], .sec-monthly .kicker[hidden] { display: none !important; }
 /* lib/readerMonth: a month variant the script hides. */
 [data-mv][hidden] { display: none !important; }
+
+/* ── Header: essentials + tools dropdowns, /my-trip always shown (10-01) ── */
+.nav-trip-n[hidden] { display: none !important; }
+.nav-dd-menu .nav-dd-ico { width: 1.1em; height: 1.1em; margin-right: .45rem; vertical-align: -.18em; }
+/* The tools menu sits near the right edge: open it leftwards so it never runs off. */
+.nav-dd[data-dd="tools"] .nav-dd-menu { left: auto; right: 0; }
+@media (min-width: 821px) and (max-width: 1080px) {
+  /* Six items and two arrows on a narrow laptop: tighter padding, not a wrap. */
+  .nav a, .nav .nav-dd-toggle { padding-inline: .5rem; font-size: .88rem; }
+  .nav { gap: .15rem; }
+}
+@media (max-width: 820px) {
+  /* Phone: like the destinations list, each dropdown is a step down. */
+  .nav[data-level="1"] .nav-dd--drill .nav-dd-toggle,
+  .nav[data-level="1"] .nav-dd--drill .nav-dd-menu { display: none; }
+  .nav[data-level="1"] .nav-dd--drill .nav-drill { display: flex; }
+  .nav[data-level="2"] .nav-dd--drill > *,
+  .nav[data-level="3"] .nav-dd--drill > *,
+  .nav[data-level="ess"] > a, .nav[data-level="tools"] > a,
+  .nav[data-level="ess"] .dest-dd > *, .nav[data-level="tools"] .dest-dd > *,
+  .nav[data-level="ess"] .nav-dd--drill:not([data-dd="ess"]) > *,
+  .nav[data-level="tools"] .nav-dd--drill:not([data-dd="tools"]) > *,
+  .nav[data-level="ess"] [data-dd="ess"] .nav-dd-toggle, .nav[data-level="ess"] [data-dd="ess"] .nav-drill,
+  .nav[data-level="tools"] [data-dd="tools"] .nav-dd-toggle, .nav[data-level="tools"] [data-dd="tools"] .nav-drill { display: none; }
+  .nav[data-level="ess"] [data-dd="ess"] .nav-dd-menu,
+  .nav[data-level="tools"] [data-dd="tools"] .nav-dd-menu { display: block; }
+  .nav[data-level="ess"] .nav-back, .nav[data-level="tools"] .nav-back { display: inline-flex; }
+  .nav-dd-menu .nav-dd-ico { margin-right: .35rem; }
+}
