@@ -1,63 +1,70 @@
 ---
 title: "Oxford University Museum of Natural History: Travel Guide"
-description: "The Oxford University Museum of Natural History sits on Parks Road in central Oxford, next to the University Parks and a short walk north of Broad Street. 4.8★ (11,504 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Oxford"
-category: "hidden-gem"
+description: The Oxford University Museum of Natural History sits on Parks Road in central Oxford, next to the University Parks and a short walk north of Broad Street. 4.8★ (11,504 reviews) — what visitors say, hours, and tips.
+country: United Kingdom
+region: Oxford
+category: hidden-gem
 pubDate: "2026-09-30T14:25:08.658Z"
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Oxford_University_Museum_of_Natural_History_exterior.JPG/1920px-Oxford_University_Museum_of_Natural_History_exterior.JPG"
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Oxford_University_Museum_of_Natural_History_exterior.JPG/1920px-Oxford_University_Museum_of_Natural_History_exterior.JPG
   credit: "Photo: Ethan Doyle White / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Oxford_University_Museum_of_Natural_History_exterior.JPG"
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Oxford_University_Museum_of_Natural_History_exterior.JPG
   focus:
     x: 45
-    y: 40
+    "y": 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Oxford_University_Museum_of_Natural_History%2C_Oxford%2C_UK_-_Diliff.jpg/3840px-Oxford_University_Museum_of_Natural_History%2C_Oxford%2C_UK_-_Diliff.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Oxford_University_Museum_of_Natural_History%2C_Oxford%2C_UK_-_Diliff.jpg/3840px-Oxford_University_Museum_of_Natural_History%2C_Oxford%2C_UK_-_Diliff.jpg
     credit: "Photo: Diliff / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Oxford_University_Museum_of_Natural_History,_Oxford,_UK_-_Diliff.jpg"
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Oxford_University_Museum_of_Natural_History,_Oxford,_UK_-_Diliff.jpg
 place:
-  id: "ChIJZcrhWqjGdkgRV2Vd5QLEGys"
-  name: "Oxford University Museum of Natural History"
-  address: "Parks Rd, Oxford OX1 3PW, UK"
+  id: ChIJZcrhWqjGdkgRV2Vd5QLEGys
+  name: Oxford University Museum of Natural History
+  address: Parks Rd, Oxford OX1 3PW, UK
   rating: 4.8
   userRatingsTotal: 11504
-  googleMapsUrl: "https://maps.google.com/?cid=3106291884719170903&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=3106291884719170903&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.758703
   lng: -1.2554669999999999
   busyness:
-    updated: 2026-09-30
+    updated: 2026-09-30T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 16
-      - 17
     weekendQuiet:
       - 10
-      - 17
     weekendBusy:
       - 12
       - 13
       - 14
       - 15
-    venueId: "ven_737947454c51356456325652676b64476a71576872635a4a496843"
+    venueId: ven_737947454c51356456325652676b64476a71576872635a4a496843
+  phone: +44 1865 272950
+  openingHours:
+    - "Monday: 10:00 AM – 5:00 PM"
+    - "Tuesday: 10:00 AM – 5:00 PM"
+    - "Wednesday: 10:00 AM – 5:00 PM"
+    - "Thursday: 10:00 AM – 5:00 PM"
+    - "Friday: 10:00 AM – 5:00 PM"
+    - "Saturday: 10:00 AM – 5:00 PM"
+    - "Sunday: 10:00 AM – 5:00 PM"
 tags:
-  - "oxford"
-  - "hidden gem"
-quickAnswer: "The Oxford University Museum of Natural History sits on Parks Road in central Oxford, next to the University Parks and a short walk north of Broad Street. Go for the dodo, the Megalosaurus bones and the glass-and-iron court, then carry on through the back to the Pitt Rivers Museum. It's calmest between 10am and 6pm on weekdays. On weekends, try not to arrive between 12pm and 4pm."
+  - oxford
+  - hidden gem
+quickAnswer: The Oxford University Museum of Natural History sits on Parks Road in central Oxford, next to the University Parks and a short walk north of Broad Street. Go for the dodo, the Megalosaurus bones and the glass-and-iron court, then carry on through the back to the Pitt Rivers Museum. It's calmest between 10am and 5pm on weekdays. On weekends, try not to arrive between 12pm and 4pm.
 faq:
-  - q: "When is the quietest time to visit the Oxford University Museum of Natural History?"
-    a: "It's calmest between 10am and 6pm on weekdays. On weekends the busiest stretch is 12pm to 4pm, so arrive earlier or later than that if you can."
-  - q: "How do I get to the museum from Oxford station?"
-    a: "It's about 20 to 25 minutes on foot through the city centre to Parks Road. You can also take a bus into the centre and walk roughly 10 minutes north from Broad Street."
-  - q: "How long should I spend there?"
-    a: "Allow one to two hours for the natural history collections. Add at least another hour if you continue into the Pitt Rivers Museum, which you enter through the back of the main court."
-  - q: "Do I need to book tickets?"
-    a: "No booking is needed for general entry, which has long been free, and donations are welcome. Special exhibitions or events may work differently, so check the official website for current details and opening hours."
-  - q: "What is nearby?"
-    a: "The Pitt Rivers Museum is attached. The University Parks and the River Cherwell are right behind it, Keble College is across Parks Road, and the Radcliffe Camera and Bodleian Library are a short walk south."
+  - q: When is the quietest time to visit the Oxford University Museum of Natural History?
+    a: It's calmest between 10am and 5pm on weekdays. On weekends the busiest stretch is 12pm to 4pm, so arrive earlier or later than that if you can.
+  - q: How do I get to the museum from Oxford station?
+    a: It's about 20 to 25 minutes on foot through the city centre to Parks Road. You can also take a bus into the centre and walk roughly 10 minutes north from Broad Street.
+  - q: How long should I spend there?
+    a: Allow one to two hours for the natural history collections. Add at least another hour if you continue into the Pitt Rivers Museum, which you enter through the back of the main court.
+  - q: Do I need to book tickets?
+    a: No booking is needed for general entry, which has long been free, and donations are welcome. Special exhibitions or events may work differently, so check the official website for current details and opening hours.
+  - q: What is nearby?
+    a: The Pitt Rivers Museum is attached. The University Parks and the River Cherwell are right behind it, Keble College is across Parks Road, and the Radcliffe Camera and Bodleian Library are a short walk south.
 aiGenerated: true
 draft: false
 ---
@@ -117,7 +124,7 @@ Afterwards, walk into the University Parks for a stroll along the River Cherwell
 
 ## Timing Your Visit and Museum Manners
 
-It's calmest between 10am and 6pm on weekdays, so a weekday morning is the easy choice. On weekends, avoid 12pm to 4pm. That's the busiest window, when families fill the court and the touch tables get crowded. The same 10am to 6pm weekend window can still be comfortable if you come at either end of it.
+It's calmest between 10am and 5pm on weekdays, so a weekday morning is the easy choice. On weekends, avoid 12pm to 4pm. That's the busiest window, when families fill the court and the touch tables get crowded. The same 10am to 5pm weekend window can still be comfortable if you come at either end of it.
 
 Opening hours were not confirmed for this guide, and university museums change them for holidays and events. Check the museum's official website before you go.
 

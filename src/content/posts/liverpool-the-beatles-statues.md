@@ -57,6 +57,14 @@ place:
       - 17
       - 18
     venueId: "ven_7771665a4e3067566b4439526730656830794a58772d4b4a496843"
+  openingHours:
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
   - "liverpool"
   - "hidden gem"

@@ -25,6 +25,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 37.3830519
   lng: -5.9902257
+  phone: '+34 954 50 23 24'
+  openingHours:
+    - 'Monday: 9:30 AM – 7:00 PM'
+    - 'Tuesday: 9:30 AM – 7:00 PM'
+    - 'Wednesday: 9:30 AM – 7:00 PM'
+    - 'Thursday: 9:30 AM – 7:00 PM'
+    - 'Friday: 9:30 AM – 7:00 PM'
+    - 'Saturday: 9:30 AM – 7:00 PM'
+    - 'Sunday: 9:30 AM – 7:00 PM'
 tags:
   - seville
   - Royal Alcazar of Seville

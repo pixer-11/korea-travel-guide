@@ -23,6 +23,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 25.3343834
   lng: 55.3848622
+  phone: '+971 6 506 7000'
+  openingHours:
+    - 'Monday: 9:00 AM – 11:00 PM'
+    - 'Tuesday: 9:00 AM – 11:00 PM'
+    - 'Wednesday: 9:00 AM – 11:00 PM'
+    - 'Thursday: 9:00 AM – 11:00 PM'
+    - 'Friday: 9:00 AM – 11:00 PM'
+    - 'Saturday: 9:00 AM – 11:00 PM'
+    - 'Sunday: 9:00 AM – 11:00 PM'
 tags:
   - sharjah
   - top attraction

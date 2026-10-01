@@ -28,6 +28,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 31.228330699999994
   lng: 121.47552780000001
+  phone: '+86 21 6372 3500'
+  openingHours:
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
 tags:
   - shanghai
   - museum

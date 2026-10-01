@@ -25,6 +25,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 38.173099799999996
   lng: 128.4890543
+  phone: '+82 33-636-4300'
+  openingHours:
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 8:30 AM – 5:00 PM'
+    - 'Sunday: 8:30 AM – 5:00 PM'
 tags:
   - sokcho
   - Seoraksan
