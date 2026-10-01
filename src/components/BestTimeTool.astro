@@ -192,6 +192,7 @@ const cityRows = [...cityAgg.entries()]
   .sort((a, b) => b[1].n - a[1].n || a[0].localeCompare(b[0]))
   .slice(0, 10)
   .map(([city, v]) => ({ city, n: v.n, hour: hourLabel(modeHour(v.freq)) }));
+const hourOf = new Map([...cityAgg.entries()].map(([city, v]) => [city, modeHour(v.freq) as number]));
 const fill = (key: Parameters<typeof t>[0], vars: Record<string, string | number>) =>
   Object.entries(vars).reduce((s, [k, v]) => s.replace(`{${k}}`, String(v)), t(key));
 
@@ -220,6 +221,7 @@ const L = {
     copy: 'Copy plan link', copied: 'Link copied ✓', close: 'Close', myTrip: 'Open My trip →',
     ticketsTitle: 'Still a queue at the quiet hour?', ticketsBody: 'Observation decks and big museums sell timed-entry tickets that do the queuing for you. Book the quiet slot and it is as sure as it gets.',
     ticketsCta: 'Browse tickets →', itinCta: 'Itineraries in quiet order',
+    whereTitle: "Where, and what", lblCountry: "Country", lblCity: "City", lblType: "Type", moreCountries: (n: number) => `+${n} more countries`, fewer: "Show fewer", cityHint: "Pick a country to narrow it down by city", allCities: "All cities", whenTitle: "When are you going?", wkGroup: "Weekdays", weGroup: "Weekend", todayLbl: "today", amLbl: "AM", pmLbl: "PM", nowBig: "Now", nowSub: "Each place on its own clock", nowNote: "Wherever you look from, each place is judged in its own local time · updates every minute", hintMorning: (pct: number) => `Weekday before 11 AM · ${pct}% of places are at their quietest`, hintPeak: (h: string) => `Weekend ${h} · the most common busy hour`, scopeWorld: "Worldwide", typeAll: "All types", basis: (n: number) => `basis · ${n} places`, reset: "Reset filters", reportPill: (n: number) => `Data report · ${n} places`, citeBtn: "Cite this data", c1Label: "Weekdays", c1Sentence: (pct: number) => `On weekdays, ${pct}% of places are quietest before 11 AM.`, c1Take: "Going early is the safe bet, anywhere", c2Label: "Weekend", c2Sentence: 'The most common busy hour on weekends.', c2Take: "Plan indoor stops or bookings for this hour", c3Label: "Sights · restaurants", c3Sentence: (pct: number) => `${pct}% of sights are quietest on weekday mornings.`, c3Take: (h: string) => `Restaurants are often easiest around ${h}`, chartSub: "The 10 cities with the most places · local time", bandLegend: "before 11 AM", sortMany: "Most places", sortEarly: "Earliest first", evening: "evening", insightA: (n: number, k: number, r: string) => `${k} of these ${n} cities are quietest around ${r}.`, insightB: (n: number, k: number, r: string, list: string) => `${k} of these ${n} cities are quietest around ${r}; quietest in the evening: ${list}.`, clickHint: "Tap a city to apply it to the filters above", placesN: (n: number) => `${n}`, srcT: "Source", srcB: "Live foot-traffic forecasts from BestTime.app, collected place by place.", adjT: "Adjusted", adjB: "Fitted to each place’s opening hours and to 7 AM–10 PM.", ruleT: "Rule", ruleB: "No estimates. A place without a reliable forecast is left out.", growing: (n: number) => `${n} places now · more with every new guide`, methodLink: "How it is measured →", citeTitle: "Cite or embed this data", citeAsText: "As text", citeAsHtml: "Link HTML", citeBody: "Journalists, bloggers and researchers may quote these figures with a link to wanderatlasguides.com.", citeText: (n: number, url: string) => `Source: Wander Atlas crowd data (${n} places), ${url}`, linkText: "Wander Atlas crowd data", copyBtn: "Copy", copiedOk: "Copied ✓", widgetRow: "Live crowd widget · every place guide has one you can embed", widgetCta: "See an example →", apiRow: "Raw data for developers · straight from the BestTime.app API",
     faqTitle: 'Frequently asked questions', faqDek: 'How crowd levels are calculated is set out on the', faqLink: 'methodology page',
     faq: [
       ['How are crowd levels calculated?', 'From each venue’s measured visit data, hour by hour (BestTime.app foot-traffic forecasts), limited to its opening hours. We pick the quietest and busiest hours of the day from that.'],
@@ -249,6 +251,7 @@ const L = {
     copy: '동선 링크 복사', copied: '링크를 복사했어요 ✓', close: '닫기', myTrip: '내 여행 열기 →',
     ticketsTitle: '한산한 시간에도 줄이 긴 곳이라면', ticketsBody: '전망대나 인기 박물관은 시간 지정 입장권이 줄을 대신 서 줍니다. 한산한 시간에 맞춰 예약하면 가장 확실해요.',
     ticketsCta: '입장권 둘러보기 →', itinCta: '한산한 순서의 코스',
+    whereTitle: "어디서, 무엇을", lblCountry: "나라", lblCity: "도시", lblType: "종류", moreCountries: (n: number) => `+${n}개국 더 보기`, fewer: "접기", cityHint: "나라를 고르면 도시별로 좁혀 볼 수 있어요", allCities: "전체 도시", whenTitle: "언제 가세요?", wkGroup: "평일", weGroup: "주말", todayLbl: "오늘", amLbl: "오전", pmLbl: "오후", nowBig: "지금", nowSub: "장소마다 그곳의 시각으로", nowNote: "어디에서 보든 각 장소의 현지 시각으로 혼잡도를 계산해요 · 1분마다 갱신", hintMorning: (pct: number) => `평일 오전 11시 전 · 장소 ${pct}%가 가장 한산한 때`, hintPeak: (h: string) => `주말 ${h} · 가장 흔한 혼잡 시간대`, scopeWorld: "전 세계", typeAll: "모든 종류", basis: (n: number) => `기준 · ${n}곳`, reset: "필터 초기화", reportPill: (n: number) => `데이터 리포트 · ${n}곳`, citeBtn: "이 데이터 인용하기", c1Label: "평일", c1Sentence: (pct: number) => `평일에는 장소 ${pct}%가 오전 11시 이전에 가장 한산해요.`, c1Take: "어디든 일찍 가는 편이 정답", c2Label: "주말", c2Sentence: '주말에 가장 흔한 혼잡 시간대예요.', c2Take: "이 시간엔 실내 일정이나 예약을", c3Label: "명소 · 식당", c3Sentence: (pct: number) => `관광 명소의 ${pct}%는 평일 오전이 가장 한산해요.`, c3Take: (h: string) => `식당은 ${h} 무렵이 여유로운 경우가 많아요`, chartSub: "장소가 많은 10개 도시 · 현지 시각", bandLegend: "오전 11시 전", sortMany: "장소 많은 순", sortEarly: "이른 시간 순", evening: "저녁", insightA: (n: number, k: number, r: string) => `${n}개 도시 중 ${k}곳이 ${r}에 가장 한산해요.`, insightB: (n: number, k: number, r: string, list: string) => `${n}개 도시 중 ${k}곳이 ${r}에 가장 한산하고, 저녁에 가장 한산한 곳은 ${list}예요.`, clickHint: "도시를 누르면 위 필터에 바로 적용돼요", placesN: (n: number) => `${n}곳`, srcT: "출처", srcB: "BestTime.app의 실시간 인파 예측을 장소별로 모아요.", adjT: "보정", adjB: "각 장소의 영업시간과 오전 7시~오후 10시 범위에 맞춰 정리해요.", ruleT: "원칙", ruleB: "추정치는 쓰지 않아요. 믿을 만한 예측이 없는 장소는 뺍니다.", growing: (n: number) => `지금 ${n}곳 · 새 가이드마다 늘어나요`, methodLink: "측정 방법 자세히 →", citeTitle: "이 데이터 인용·삽입하기", citeAsText: "문장으로", citeAsHtml: "링크 HTML", citeBody: "기자·블로거·연구자는 wanderatlasguides.com 링크와 함께 이 수치를 인용할 수 있어요.", citeText: (n: number, url: string) => `출처: Wander Atlas 혼잡 데이터(${n}곳), ${url}`, linkText: "Wander Atlas 혼잡 데이터", copyBtn: "복사하기", copiedOk: "복사했어요 ✓", widgetRow: "실시간 혼잡 위젯 · 장소 가이드마다 글에 넣을 수 있어요", widgetCta: "예시 보기 →", apiRow: "개발자용 원자료 · BestTime.app API에서 직접 받으세요",
     faqTitle: '자주 묻는 질문', faqDek: '혼잡도를 어떻게 계산하는지는', faqLink: '방법론 페이지에 자세히 적었습니다',
     faq: [
       ['혼잡도는 어떻게 계산하나요?', '장소별 실제 방문 데이터(BestTime.app의 시간대별 방문 예측)를 영업시간 안에서 시간대별로 분석해, 하루 중 가장 한산한 시간과 붐비는 시간을 뽑습니다.'],
@@ -278,6 +281,7 @@ const L = {
     copy: 'ルートのリンクをコピー', copied: 'リンクをコピーしました ✓', close: '閉じる', myTrip: 'マイトリップを開く →',
     ticketsTitle: '空いている時間でも行列が長い場所なら', ticketsBody: '展望台や人気の博物館は、時間指定チケットが行列の代わりになります。空いている時間に合わせて予約するのがいちばん確実です。',
     ticketsCta: 'チケットを見る →', itinCta: '空いている順のモデルコース',
+    whereTitle: "どこで、何を", lblCountry: "国", lblCity: "都市", lblType: "種類", moreCountries: (n: number) => `+${n}か国をもっと見る`, fewer: "閉じる", cityHint: "国を選ぶと都市ごとに絞り込めます", allCities: "すべての都市", whenTitle: "いつ行きますか？", wkGroup: "平日", weGroup: "週末", todayLbl: "今日", amLbl: "午前", pmLbl: "午後", nowBig: "今", nowSub: "スポットごとに現地の時刻で", nowNote: "どこから見ても、各スポットの現地時間で混雑度を計算します · 1分ごとに更新", hintMorning: (pct: number) => `平日の午前11時前 · スポットの${pct}%がいちばん空いている時間`, hintPeak: (h: string) => `週末の${h} · いちばんよくある混雑時間`, scopeWorld: "全世界", typeAll: "すべての種類", basis: (n: number) => `基準 · ${n}か所`, reset: "絞り込みをリセット", reportPill: (n: number) => `データレポート · ${n}か所`, citeBtn: "このデータを引用する", c1Label: "平日", c1Sentence: (pct: number) => `平日はスポットの${pct}%が午前11時より前にいちばん空いています。`, c1Take: "どこでも早めに行くのが正解", c2Label: "週末", c2Sentence: '週末にいちばんよくある混雑時間です。', c2Take: "この時間は屋内の予定や予約を", c3Label: "観光地 · 飲食店", c3Sentence: (pct: number) => `観光スポットの${pct}%は平日の午前がいちばん空いています。`, c3Take: (h: string) => `飲食店は${h}ごろが空いていることが多いです`, chartSub: "スポットの多い10都市 · 現地時間", bandLegend: "午前11時前", sortMany: "スポットの多い順", sortEarly: "早い時間順", evening: "夜", insightA: (n: number, k: number, r: string) => `${n}都市のうち${k}都市が${r}にいちばん空いています。`, insightB: (n: number, k: number, r: string, list: string) => `${n}都市のうち${k}都市が${r}にいちばん空いていて、夜がいちばん空いているのは${list}です。`, clickHint: "都市を押すと上の絞り込みにすぐ反映されます", placesN: (n: number) => `${n}か所`, srcT: "出典", srcB: "BestTime.appのリアルタイム混雑予測をスポットごとに集めています。", adjT: "補正", adjB: "各スポットの営業時間と午前7時〜午後10時の範囲に合わせて整理しています。", ruleT: "原則", ruleB: "推定値は使いません。信頼できる予測がないスポットは外します。", growing: (n: number) => `現在${n}か所 · 新しいガイドごとに増えます`, methodLink: "計測方法の詳細 →", citeTitle: "このデータを引用・埋め込む", citeAsText: "文章で", citeAsHtml: "リンクHTML", citeBody: "記者・ブロガー・研究者の方は、wanderatlasguides.comへのリンクとともにこの数値を引用できます。", citeText: (n: number, url: string) => `出典: Wander Atlas 混雑データ(${n}か所), ${url}`, linkText: "Wander Atlas 混雑データ", copyBtn: "コピー", copiedOk: "コピーしました ✓", widgetRow: "リアルタイム混雑ウィジェット · 各スポットのガイドで記事に埋め込めます", widgetCta: "例を見る →", apiRow: "開発者向けの元データ · BestTime.app APIから直接取得してください",
     faqTitle: 'よくある質問', faqDek: '混雑度の計算方法は', faqLink: '方法論のページで詳しく説明しています',
     faq: [
       ['混雑度はどう計算していますか？', 'スポットごとの実際の来訪データ（BestTime.appの時間帯別予測）を営業時間内で時間ごとに分析し、1日のうちいちばん空いている時間と混む時間を割り出しています。'],
@@ -307,6 +311,7 @@ const L = {
     copy: 'Copiar enlace del plan', copied: 'Enlace copiado ✓', close: 'Cerrar', myTrip: 'Abrir Mi viaje →',
     ticketsTitle: '¿Hay cola incluso a la hora tranquila?', ticketsBody: 'Miradores y museos famosos venden entradas con hora que hacen la cola por ti. Reserva la franja tranquila y vas sobre seguro.',
     ticketsCta: 'Ver entradas →', itinCta: 'Rutas en orden tranquilo',
+    whereTitle: "Dónde y qué", lblCountry: "País", lblCity: "Ciudad", lblType: "Tipo", moreCountries: (n: number) => `+${n} países más`, fewer: "Ver menos", cityHint: "Elige un país para filtrar por ciudad", allCities: "Todas las ciudades", whenTitle: "¿Cuándo vas?", wkGroup: "Entre semana", weGroup: "Fin de semana", todayLbl: "hoy", amLbl: "a. m.", pmLbl: "p. m.", nowBig: "Ahora", nowSub: "Cada lugar con su propia hora", nowNote: "Mires desde donde mires, cada lugar se calcula con su hora local · se actualiza cada minuto", hintMorning: (pct: number) => `Entre semana antes de las 11 · el ${pct}% de los lugares está en su hora más tranquila`, hintPeak: (h: string) => `Fin de semana, ${h} · la hora punta más común`, scopeWorld: "Todo el mundo", typeAll: "Todos los tipos", basis: (n: number) => `base · ${n} lugares`, reset: "Quitar filtros", reportPill: (n: number) => `Informe de datos · ${n} lugares`, citeBtn: "Citar estos datos", c1Label: "Entre semana", c1Sentence: (pct: number) => `Entre semana, el ${pct}% de los lugares está más tranquilo antes de las 11.`, c1Take: "Ir temprano es lo más seguro, en cualquier sitio", c2Label: "Fin de semana", c2Sentence: 'La hora punta más común del fin de semana.', c2Take: "A esa hora, planes bajo techo o con reserva", c3Label: "Monumentos · restaurantes", c3Sentence: (pct: number) => `El ${pct}% de los monumentos está más tranquilo las mañanas entre semana.`, c3Take: (h: string) => `Los restaurantes suelen estar más libres hacia las ${h}`, chartSub: "Las 10 ciudades con más lugares · hora local", bandLegend: "antes de las 11", sortMany: "Más lugares", sortEarly: "Más temprano", evening: "tarde-noche", insightA: (n: number, k: number, r: string) => `${k} de estas ${n} ciudades están más tranquilas hacia las ${r}.`, insightB: (n: number, k: number, r: string, list: string) => `${k} de estas ${n} ciudades están más tranquilas hacia las ${r}; las más tranquilas por la noche: ${list}.`, clickHint: "Toca una ciudad para aplicarla a los filtros", placesN: (n: number) => `${n}`, srcT: "Fuente", srcB: "Previsiones de afluencia en tiempo real de BestTime.app, lugar por lugar.", adjT: "Ajuste", adjB: "Ajustadas al horario de cada lugar y a la franja de 7:00 a 22:00.", ruleT: "Regla", ruleB: "Sin estimaciones. Un lugar sin previsión fiable se queda fuera.", growing: (n: number) => `${n} lugares ahora · más con cada guía nueva`, methodLink: "Cómo se mide →", citeTitle: "Citar o insertar estos datos", citeAsText: "Como texto", citeAsHtml: "HTML del enlace", citeBody: "Periodistas, blogueros e investigadores pueden citar estas cifras con un enlace a wanderatlasguides.com.", citeText: (n: number, url: string) => `Fuente: datos de afluencia de Wander Atlas (${n} lugares), ${url}`, linkText: "Datos de afluencia de Wander Atlas", copyBtn: "Copiar", copiedOk: "Copiado ✓", widgetRow: "Widget de afluencia en vivo · cada guía de lugar tiene uno para insertar", widgetCta: "Ver un ejemplo →", apiRow: "Datos en bruto para desarrolladores · directamente de la API de BestTime.app",
     faqTitle: 'Preguntas frecuentes', faqDek: 'Cómo calculamos la afluencia se explica en la', faqLink: 'página de metodología',
     faq: [
       ['¿Cómo se calcula la afluencia?', 'Con los datos medidos de visitas de cada lugar, hora a hora (previsiones de afluencia de BestTime.app), limitados a su horario de apertura. De ahí sacamos las horas más tranquilas y más llenas del día.'],
@@ -336,6 +341,7 @@ const L = {
     copy: '复制行程链接', copied: '链接已复制 ✓', close: '关闭', myTrip: '打开我的行程 →',
     ticketsTitle: '空闲时段也要排长队的地方', ticketsBody: '观景台和热门博物馆有分时段门票，能替你排队。按空闲时段预约最稳妥。',
     ticketsCta: '浏览门票 →', itinCta: '按空闲顺序的路线',
+    whereTitle: "去哪里，看什么", lblCountry: "国家", lblCity: "城市", lblType: "类型", moreCountries: (n: number) => `+${n} 个国家`, fewer: "收起", cityHint: "选择国家后可以按城市筛选", allCities: "全部城市", whenTitle: "什么时候去？", wkGroup: "工作日", weGroup: "周末", todayLbl: "今天", amLbl: "上午", pmLbl: "下午", nowBig: "现在", nowSub: "每个地点按当地时间", nowNote: "无论你在哪里看，都按各地点的当地时间计算拥挤度 · 每分钟更新", hintMorning: (pct: number) => `工作日上午 11 点前 · ${pct}% 的地点最空闲`, hintPeak: (h: string) => `周末${h} · 最常见的拥挤时段`, scopeWorld: "全球", typeAll: "全部类型", basis: (n: number) => `依据 · ${n} 处`, reset: "重置筛选", reportPill: (n: number) => `数据报告 · ${n} 处`, citeBtn: "引用这份数据", c1Label: "工作日", c1Sentence: (pct: number) => `工作日有 ${pct}% 的地点在上午 11 点前最空闲。`, c1Take: "去哪里都是越早越好", c2Label: "周末", c2Sentence: '周末最常见的拥挤时段。', c2Take: "这个时段安排室内行程或提前预约", c3Label: "景点 · 餐厅", c3Sentence: (pct: number) => `${pct}% 的景点在工作日上午最空闲。`, c3Take: (h: string) => `餐厅通常在${h}左右比较宽松`, chartSub: "地点最多的 10 个城市 · 当地时间", bandLegend: "上午 11 点前", sortMany: "地点多的优先", sortEarly: "时间早的优先", evening: "晚上", insightA: (n: number, k: number, r: string) => `${n} 个城市中有 ${k} 个在${r}最空闲。`, insightB: (n: number, k: number, r: string, list: string) => `${n} 个城市中有 ${k} 个在${r}最空闲，晚上最空闲的是${list}。`, clickHint: "点击城市即可应用到上方筛选", placesN: (n: number) => `${n} 处`, srcT: "来源", srcB: "逐个地点收集 BestTime.app 的实时人流预测。", adjT: "校正", adjB: "按各地点的营业时间和上午 7 点至晚上 10 点的范围整理。", ruleT: "原则", ruleB: "不使用估算值。没有可靠预测的地点不收录。", growing: (n: number) => `目前 ${n} 处 · 每篇新指南都会增加`, methodLink: "测量方法详解 →", citeTitle: "引用或嵌入这份数据", citeAsText: "文字", citeAsHtml: "链接 HTML", citeBody: "记者、博主和研究者可以在附上 wanderatlasguides.com 链接的前提下引用这些数字。", citeText: (n: number, url: string) => `来源：Wander Atlas 拥挤度数据（${n} 处），${url}`, linkText: "Wander Atlas 拥挤度数据", copyBtn: "复制", copiedOk: "已复制 ✓", widgetRow: "实时拥挤度小组件 · 每篇地点指南都可以嵌入", widgetCta: "查看示例 →", apiRow: "开发者原始数据 · 请直接从 BestTime.app API 获取",
     faqTitle: '常见问题', faqDek: '拥挤度如何计算，详见', faqLink: '方法论页面',
     faq: [
       ['拥挤度是怎么算的？', '根据每个地点实测的到访数据（BestTime.app 的分时段人流预测），在营业时间内逐小时分析，找出一天中最空闲和最拥挤的时段。'],
@@ -397,6 +403,43 @@ const jsonLd = {
   ],
 };
 const PAGE = 24;
+// Line icons (Lucide, ISC) this page needs and the site's icon set lacks.
+const ICON: Record<string, string> = {
+  attraction: '<line x1="3" x2="21" y1="22" y2="22"/><line x1="6" x2="6" y1="18" y2="11"/><line x1="10" x2="10" y1="18" y2="11"/><line x1="14" x2="14" y1="18" y2="11"/><line x1="18" x2="18" y1="18" y2="11"/><polygon points="12 2 20 7 4 7"/>',
+  'hidden-gem': '<path d="M6 3h12l4 6-10 13L2 9Z"/><path d="M11 3 8 9l4 13 4-13-3-6"/><path d="M2 9h20"/>',
+  restaurant: '<path d="M3 2v7c0 1.1.9 2 2 2h4a2 2 0 0 0 2-2V2"/><path d="M7 2v20"/><path d="M21 15V2a5 5 0 0 0-5 5v6c0 1.1.9 2 2 2h3Zm0 0v7"/>',
+  trendy: '<path d="M10 2v2"/><path d="M14 2v2"/><path d="M16 8a1 1 0 0 1 1 1v8a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V9a1 1 0 0 1 1-1h14a4 4 0 1 1 0 8h-1"/><path d="M6 2v2"/>',
+  sunrise: '<path d="M12 2v8"/><path d="m4.93 10.93 1.41 1.41"/><path d="M2 18h2"/><path d="M20 18h2"/><path d="m19.07 10.93-1.41 1.41"/><path d="M22 22H2"/><path d="m8 6 4-4 4 4"/><path d="M16 18a4 4 0 0 0-8 0"/>',
+  sun: '<circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/>',
+  sunset: '<path d="M12 10V2"/><path d="m4.93 10.93 1.41 1.41"/><path d="M2 18h2"/><path d="M20 18h2"/><path d="m19.07 10.93-1.41 1.41"/><path d="M22 22H2"/><path d="m16 6-4 4-4-4"/><path d="M16 18a4 4 0 0 0-8 0"/>',
+  moon: '<path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/>',
+  clock: '<circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/>',
+  users: '<path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/>',
+  database: '<ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M3 5V19A9 3 0 0 0 21 19V5"/><path d="M3 12A9 3 0 0 0 21 12"/>',
+  shield: '<path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/><path d="m9 12 2 2 4-4"/>',
+  copy: '<rect width="14" height="14" x="8" y="8" rx="2" ry="2"/><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"/>',
+  sparkles: '<path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/>',
+  reset: '<path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/>',
+  quote: '<path d="M3 21c3 0 7-1 7-8V5c0-1.25-.756-2.017-2-2H4c-1.25 0-2 .75-2 1.972V11c0 1.25.75 2 2 2 1 0 1 0 1 1v1c0 1-1 2-2 2s-1 .008-1 1.031V20c0 1 0 1 1 1z"/><path d="M15 21c3 0 7-1 7-8V5c0-1.25-.757-2.017-2-2h-4c-1.25 0-2 .75-2 1.972V11c0 1.25.75 2 2 2h.75c0 2.25.25 4-2.75 4v3c0 1 0 1 1 1z"/>',
+};
+const svg = (name: string, size = 18) => `<svg width="${size}" height="${size}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ICON[name] ?? ''}</svg>`;
+const TOP_COUNTRIES = 9;
+// The city chart: the same ten cities and modal quiet hour as the findings
+// table, kept as a real <table> (assistants and search engines read tables, not
+// drawings — the mock-up's own note). The country of each city lets a click on
+// a row set both filters.
+const cityCountry = new Map(index.map((d) => [d.r, d.c] as const));
+const chartRows = cityRows.map((r, i) => { const h = hourOf.get(r.city) ?? 10; return { ...r, hour: hr(h), i, h, country: cityCountry.get(r.city) ?? '' }; });
+const morningRows = chartRows.filter((r) => r.h < 11);
+const eveningRows = chartRows.filter((r) => r.h >= 17);
+const chartInsight = chartRows.length
+  ? (eveningRows.length
+      ? T.insightB(chartRows.length, morningRows.length, `${hr(Math.min(...morningRows.map((r) => r.h), 10))}–${hr(Math.max(...morningRows.map((r) => r.h), 10))}`, eveningRows.map((r) => `${r.city}${lang === 'en' || lang === 'es' ? ' ' : ''}(${r.hour})`).join(', '))
+      : T.insightA(chartRows.length, morningRows.length, `${hr(Math.min(...morningRows.map((r) => r.h), 10))}–${hr(Math.max(...morningRows.map((r) => r.h), 10))}`))
+  : '';
+const CLOCKS = [['Seoul', 'Asia/Seoul'], ['Bangkok', 'Asia/Bangkok'], ['Paris', 'Europe/Paris'], ['New York', 'America/New_York']].map(([c, tz]) => ({ name: localizePlace(c, lang), tz }));
+const pageAbs = siteHref(localizePath('/tools/best-time', lang), Astro.site);
+const widgetHref = localizePath('/tools/widget', lang);
 const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
 ---
 <BaseLayout image={heroOf(posts, TOOL_OG.bestTime)} title={t('tool.metaTitle')} description={t('tool.metaDesc')} jsonLd={jsonLd} localized={true}>
@@ -414,7 +457,7 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
           <input type="search" name="q" placeholder={T.searchPh} aria-label={T.searchPh} data-q autocomplete="off" />
           <button type="submit">{T.searchBtn}</button>
         </form>
-        <div class="bt-popular"><span>{T.popular}</span>{popularCities.map((r) => <button type="button" class="bt-tag" data-city={r}>{r}</button>)}</div>
+        <div class="bt-popular"><span>{T.popular}</span>{popularCities.map((r) => <button type="button" class="bt-tag" data-pop-city={r}>{r}</button>)}</div>
       </div>
       <aside class="bt-widget">
         <p class="bt-w-kicker"><i></i><span data-w-kicker>{T.wNow}</span></p>
@@ -429,44 +472,83 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
       </aside>
     </div>
 
-    <!-- Filters -->
+    <!-- Filters: "where & what" and "when" (owner's mock-up 한산한 시간 섹션 수정안) -->
     <h2 class="bt-h2">{T.listTitle}</h2>
-    <div class="bt-filters">
-      <div class="bt-row">
-        <div class="bt-seg" role="group" data-cat-group>
-          <button type="button" class="is-on" aria-pressed="true" data-cat="">{T.all}</button>
-          {(['attraction', 'hidden-gem', 'restaurant', 'trendy'] as const).filter((c) => catCount.get(c)).map((c) => <button type="button" aria-pressed="false" data-cat={c}>{catLabel[c]}</button>)}
+    <div class="bt-fcard">
+      <h3 class="bt-ftitle">{T.whereTitle}</h3>
+      <div class="bt-frow">
+        <span class="bt-flbl">{T.lblCountry}</span>
+        <div class="bt-pills" role="group" aria-label={T.lblCountry} data-country-group>
+          <button type="button" class="bt-pill-b is-on" aria-pressed="true" data-country="">{T.all} <small>{index.length}</small></button>
+          {countries.map(([c, n], i) => <button type="button" class:list={['bt-pill-b', { 'is-extra': i >= TOP_COUNTRIES }]} aria-pressed="false" data-country={c}>{c} <small>{n}</small></button>)}
+          {countries.length > TOP_COUNTRIES && <button type="button" class="bt-morec" data-more-countries aria-expanded="false" data-more-label={T.moreCountries(countries.length - TOP_COUNTRIES)} data-fewer-label={T.fewer}>{T.moreCountries(countries.length - TOP_COUNTRIES)}</button>}
         </div>
-        <div class="bt-chips" role="group" data-country-group>
-          <button type="button" class="is-on" aria-pressed="true" data-country="">{T.all} <small>{index.length}</small></button>
-          {countries.map(([c, n]) => <button type="button" aria-pressed="false" data-country={c}>{c} <small>{n}</small></button>)}
+      </div>
+      <div class="bt-frow">
+        <span class="bt-flbl">{T.lblCity}</span>
+        <p class="bt-hint" data-city-hint><span aria-hidden="true">⌖</span> {T.cityHint}</p>
+        <div class="bt-pills" role="group" aria-label={T.lblCity} data-city-row hidden></div>
+      </div>
+      <div class="bt-frow">
+        <span class="bt-flbl">{T.lblType}</span>
+        <div class="bt-pills" role="group" aria-label={T.lblType} data-cat-group>
+          <button type="button" class="bt-pill-b is-on" aria-pressed="true" data-cat="">{T.all}</button>
+          {(['attraction', 'hidden-gem', 'restaurant', 'trendy'] as const).filter((c) => catCount.get(c)).map((c) => <button type="button" class="bt-pill-b" aria-pressed="false" data-cat={c}><Fragment set:html={svg(c, 15)} />{catLabel[c]}</button>)}
         </div>
       </div>
     </div>
-    <div class="bt-list">
-    <div class="bt-sticky">
-      <div class="bt-row">
+    <div class="bt-fcard bt-when">
+      <div class="bt-when-head">
+        <h3 class="bt-ftitle">{T.whenTitle}</h3>
         <div class="bt-seg bt-mode" role="group">
           <button type="button" class="is-on" aria-pressed="true" data-mode="now">{T.modeNow}</button>
           <button type="button" aria-pressed="false" data-mode="pick">{T.modePick}</button>
         </div>
-        <span class="bt-note" data-mode-note>{T.modeNote}</span>
-        <div class="bt-pick" data-pick hidden>
-          <div class="bt-seg bt-days" role="group">{DAY_SHORT.map((d, i) => <button type="button" data-day={i} aria-pressed="false">{d}</button>)}</div>
-          <input type="range" min="7" max="22" step="1" value="10" data-hour aria-label={T.modePick} />
-          <output data-hour-out>{hr(10)}</output>
+      </div>
+      <div class="bt-when-body" data-now-panel>
+        <div class="bt-when-sum">
+          <span class="bt-when-ico is-now"><Fragment set:html={svg('clock', 22)} /></span>
+          <p class="bt-when-sub">{T.nowSub}</p>
+          <p class="bt-when-big">{T.nowBig}</p>
         </div>
-        <select class="bt-select" data-region aria-label={T.cityAll}>
-          <option value="">{T.cityAll}</option>
-          {allRegions.map((r) => <option value={r}>{r}</option>)}
-        </select>
-        <div class="bt-seg bt-sort" role="group">
-          <button type="button" class="is-on" aria-pressed="true" data-sort="quiet">{T.sortQuiet}</button>
-          <button type="button" aria-pressed="false" data-sort="rating">{T.sortRating}</button>
-          <button type="button" aria-pressed="false" data-sort="city">{T.sortCity}</button>
+        <div>
+          <div class="bt-clocks">{CLOCKS.map((c) => <div><span>{c.name}</span><b data-clock={c.tz}></b></div>)}</div>
+          <p class="bt-note">{T.nowNote}</p>
+        </div>
+      </div>
+      <div class="bt-when-body" data-pick hidden>
+        <div class="bt-when-sum">
+          <span class="bt-when-ico" data-when-ico></span>
+          <p class="bt-when-sub" data-when-day></p>
+          <p class="bt-when-big" data-hour-out>{hr(10)}</p>
+          <p class="bt-when-hint" data-when-hint hidden></p>
+        </div>
+        <div class="bt-when-pick">
+          <div class="bt-groups">
+            <div><span class="bt-glbl">{T.wkGroup}</span><div class="bt-circles" role="group" aria-label={T.wkGroup}>{DAY_SHORT.slice(0, 5).map((d, i) => <button type="button" class="bt-circle" data-day={i} aria-pressed="false">{d}</button>)}</div></div>
+            <div><span class="bt-glbl is-we">{T.weGroup}</span><div class="bt-circles" role="group" aria-label={T.weGroup}>{DAY_SHORT.slice(5).map((d, i) => <button type="button" class="bt-circle" data-day={i + 5} aria-pressed="false">{d}</button>)}</div></div>
+            <span class="bt-today-key"><i></i>{T.todayLbl}</span>
+          </div>
+          <div class="bt-hours-row" role="group" aria-label={T.modePick} data-hours>
+            <span class="bt-glbl bt-am">{T.amLbl}</span><span class="bt-glbl bt-pm">{T.pmLbl}</span>
+            {HOURS.map((h) => <button type="button" class:list={['bt-hourb', { 'is-on': h === 10 }]} data-hour={h} aria-pressed={h === 10 ? 'true' : 'false'} aria-label={hr(h)}>{h % 12 || 12}</button>)}
+          </div>
         </div>
       </div>
     </div>
+    <div class="bt-summary">
+      <span class="bt-sc is-place" data-sum-where>{T.scopeWorld}</span>
+      <span class="bt-sc is-place" data-sum-type>{T.typeAll}</span>
+      <span class="bt-sc is-time" data-sum-when>{T.modeNow}</span>
+      <span class="bt-sum-basis" data-sum-basis>{T.basis(index.length)}</span>
+      <button type="button" class="bt-reset" data-reset hidden><Fragment set:html={svg('reset', 14)} />{T.reset}</button>
+      <div class="bt-seg bt-sort" role="group">
+        <button type="button" class="is-on" aria-pressed="true" data-sort="quiet">{T.sortQuiet}</button>
+        <button type="button" aria-pressed="false" data-sort="rating">{T.sortRating}</button>
+        <button type="button" aria-pressed="false" data-sort="city">{T.sortCity}</button>
+      </div>
+    </div>
+    <div class="bt-list">
     <div class="bt-meta">
       <p class="bt-count" data-count>{t('tool.places').replace('{n}', String(index.length))}</p>
       <div class="bt-legend">
@@ -525,34 +607,102 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
       </div>
     </div>
 
-    <!-- Quotable findings (the journalist asset) -->
-    <section class="bt-findings" aria-labelledby="findings-h">
-      <h2 id="findings-h">{t('tool.findings.h2')}</h2>
-      <p class="bt-sub">{fill('tool.findings.intro', { n: index.length })}</p>
-      <ul class="bt-facts">
-        {wdQuietTotal >= 30 && <li>{fill('tool.findings.morning', { pct: morningPct })}</li>}
-        {peakHour != null && <li>{fill('tool.findings.peak', { hour: hourLabel(peakHour) })}</li>}
-        {attrTotal >= 10 && restHour != null && <li>{fill('tool.findings.cats', { aPct: attrPct, rHour: hourLabel(restHour) })}</li>}
-      </ul>
-      {cityRows.length > 0 && (
-        <>
-          <h3>{t('tool.findings.city.h3')}</h3>
-          <div class="bt-tbl">
-            <table>
-              <thead><tr><th>{t('tool.findings.city.city')}</th><th>{t('tool.findings.city.hour')}</th><th>{t('tool.findings.city.n')}</th></tr></thead>
-              <tbody>{cityRows.map((r) => <tr><td>{r.city}</td><td>{r.hour}</td><td>{r.n}</td></tr>)}</tbody>
-            </table>
+    <!-- Crowd data report (owner's mock-up ②): numbers a journalist can quote,
+         the city table, how it is measured, and a one-click citation. -->
+    <section class="bt-report" aria-labelledby="findings-h">
+      <div class="bt-report-head">
+        <div>
+          <span class="bt-pill">{T.reportPill(index.length)}</span>
+          <h2 id="findings-h" class="bt-h2">{t('tool.findings.h2')}</h2>
+          <p class="bt-sub">{fill('tool.findings.intro', { n: index.length })}</p>
+        </div>
+        <a class="bt-cite-jump" href="#bt-cite"><Fragment set:html={svg('quote', 14)} />{T.citeBtn}</a>
+      </div>
+      <div class="bt-stats">
+        {wdQuietTotal >= 30 && (
+          <article class="bt-stat is-green">
+            <span class="bt-stat-k"><i><Fragment set:html={svg('sunrise', 16)} /></i>{T.c1Label}</span>
+            <b>{morningPct}%</b>
+            <p>{T.c1Sentence(morningPct)}</p>
+            <span class="bt-stat-take">→ {T.c1Take}</span>
+          </article>
+        )}
+        {peakHour != null && (
+          <article class="bt-stat is-peach">
+            <span class="bt-stat-k"><i><Fragment set:html={svg('users', 16)} /></i>{T.c2Label}</span>
+            <b>{hr(peakHour)}</b>
+            <p>{T.c2Sentence}</p>
+            <span class="bt-stat-take">→ {T.c2Take}</span>
+          </article>
+        )}
+        {attrTotal >= 10 && (
+          <article class="bt-stat is-cream">
+            <span class="bt-stat-k"><i><Fragment set:html={svg('attraction', 16)} /></i>{T.c3Label}</span>
+            <b>{attrPct}%</b>
+            <p>{T.c3Sentence(attrPct)}</p>
+            {restHour != null && <span class="bt-stat-take is-peach"><Fragment set:html={svg('restaurant', 13)} />{T.c3Take(hr(restHour))}</span>}
+          </article>
+        )}
+      </div>
+      {chartRows.length > 0 && (
+        <div class="bt-chart" data-chart>
+          <div class="bt-chart-head">
+            <div>
+              <h3>{t('tool.findings.city.h3')}</h3>
+              <p class="bt-chart-sub">{T.chartSub} <i class="bt-band-key"></i> {T.bandLegend}</p>
+            </div>
+            <div class="bt-seg" role="group">
+              <button type="button" class="is-on" aria-pressed="true" data-chart-sort="n">{T.sortMany}</button>
+              <button type="button" aria-pressed="false" data-chart-sort="h">{T.sortEarly}</button>
+            </div>
           </div>
-        </>
+          <table class="bt-ctable">
+            <colgroup><col class="bt-col-city" /><col /><col class="bt-col-n" /></colgroup>
+            <thead class="sr-only"><tr><th scope="col">{t('tool.findings.city.city')}</th><th scope="col">{t('tool.findings.city.hour')}</th><th scope="col">{t('tool.findings.city.n')}</th></tr></thead>
+            <tbody data-chart-body>
+              {chartRows.map((r) => (
+                <tr data-i={r.i} data-h={r.h} data-city={r.city} data-ccountry={r.country} tabindex="0">
+                  <th scope="row">{r.city}{r.h >= 17 && <em class="bt-eve">{T.evening}</em>}</th>
+                  <td class="bt-ctrack"><span class="bt-cline"><span class="bt-cband"></span><span class:list={['bt-cmark', { 'is-eve': r.h >= 17 }]} style={`left:${((Math.min(Math.max(r.h, 7), 22) - 7) / 15) * 100}%`}>{r.hour}</span></span></td>
+                  <td class="bt-cn">{T.placesN(r.n)} <span aria-hidden="true">→</span></td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+          <div class="bt-axis" aria-hidden="true"><span>{hr(7)}</span><span>{hr(10)}</span><span>{hr(13)}</span><span>{hr(16)}</span><span>{hr(19)}</span><span>{hr(22)}</span></div>
+          <p class="bt-insight"><Fragment set:html={svg('sparkles', 15)} /><b>{chartInsight}</b><span>{T.clickHint}</span></p>
+        </div>
       )}
-      <h3>{t('tool.findings.method.h3')}</h3>
-      <p>{fill('tool.findings.method.body', { n: index.length })}</p>
-      <h3>{t('tool.cite.h3')}</h3>
-      <p>{t('tool.cite.body')}</p>
-      <p class="bt-foot">{t('tool.foot')}</p>
-      <p class="bt-foot" set:html={t('tool.apiCite')
-        .replace('{api}', '<a href="https://besttime.app" rel="noopener">besttime.app</a>')
-        .replace('{method}', '<a href="/methodology/">wanderatlasguides.com/methodology</a>')} />
+      <div class="bt-twocol">
+        <div class="bt-method">
+          <h3>{t('tool.findings.method.h3')}</h3>
+          <ul>
+            <li><i><Fragment set:html={svg('database', 16)} /></i><div><b>{T.srcT}</b><span>{T.srcB}</span></div></li>
+            <li><i><Fragment set:html={svg('clock', 16)} /></i><div><b>{T.adjT}</b><span>{T.adjB}</span></div></li>
+            <li><i><Fragment set:html={svg('shield', 16)} /></i><div><b>{T.ruleT}</b><span>{T.ruleB}</span></div></li>
+          </ul>
+          <p class="bt-sr">{fill('tool.findings.method.body', { n: index.length })}</p>
+          <div class="bt-method-foot"><span class="bt-pill">{T.growing(index.length)}</span><a href={localizePath('/methodology', lang)}>{T.methodLink}</a></div>
+        </div>
+        <div class="bt-cite" id="bt-cite" data-cite data-text={T.citeText(index.length, pageAbs)} data-html={`<a href="${pageAbs}">${T.linkText}</a>`} data-copied={T.copiedOk} data-copy={T.copyBtn}>
+          <div class="bt-cite-head">
+            <h3>{T.citeTitle}</h3>
+            <div class="bt-seg" role="group">
+              <button type="button" class="is-on" aria-pressed="true" data-cite-mode="text">{T.citeAsText}</button>
+              <button type="button" aria-pressed="false" data-cite-mode="html">{T.citeAsHtml}</button>
+            </div>
+          </div>
+          <p>{T.citeBody}</p>
+          <div class="bt-cite-box">
+            <code data-cite-out>{T.citeText(index.length, pageAbs)}</code>
+            <button type="button" class="bt-btn bt-btn-cta bt-sm" data-cite-copy><Fragment set:html={svg('copy', 14)} />{T.copyBtn}</button>
+          </div>
+          <p class="bt-sr">{t('tool.cite.body')}</p>
+          <a class="bt-cite-row" href={widgetHref}><span>{T.widgetRow}</span><b>{T.widgetCta}</b></a>
+          <a class="bt-cite-row" href="https://besttime.app" rel="noopener" target="_blank"><span>{T.apiRow}</span><b>besttime.app ↗</b></a>
+        </div>
+      </div>
+      <p class="bt-foot">ⓘ {t('tool.foot')}</p>
     </section>
 
     <!-- FAQ -->
@@ -588,7 +738,8 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
   </section>
 
   <script type="application/ld+json" set:html={JSON.stringify(datasetLd)} />
-  <script type="application/json" id="bt-strings" set:html={JSON.stringify({ ...STR, days: DAY_SHORT, hours: HOUR_TEXT, regions: regionsByCountry, wTitleNow: T.wTitleNow(0), more: T.more(0), planBar: T.planBar(0), count: T.count(0, '{when}'), wTitlePick: T.wTitlePick(0), wPick: T.wPick('{when}'), quietUntil: T.quietUntil('{h}'), wNow: T.wNow })} />
+  <script type="application/json" id="bt-icons" set:html={JSON.stringify(Object.fromEntries(['sunrise', 'sun', 'sunset', 'moon'].map((k) => [k, svg(k, 22)])))} />
+  <script type="application/json" id="bt-strings" set:html={JSON.stringify({ ...STR, days: DAY_SHORT, hours: HOUR_TEXT, allCities: T.allCities, scopeWorld: T.scopeWorld, typeAll: T.typeAll, modeNow: T.modeNow, basis: T.basis(0), todayLbl: T.todayLbl, wkGroup: T.wkGroup, weGroup: T.weGroup, morningPct: wdQuietTotal >= 30 ? morningPct : 0, hintMorning: T.hintMorning(morningPct), peakHour: peakHour ?? -1, hintPeak: peakHour != null ? T.hintPeak(hr(peakHour)) : '', regions: regionsByCountry, wTitleNow: T.wTitleNow(0), more: T.more(0), planBar: T.planBar(0), count: T.count(0, '{when}'), wTitlePick: T.wTitlePick(0), wPick: T.wPick('{when}'), quietUntil: T.quietUntil('{h}'), wNow: T.wNow })} />
 
   <Newsletter lang={lang} />
 
@@ -679,6 +830,34 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
       more.hidden = left <= 0;
       if (left > 0) more.textContent = num(S.more, Math.min(left, PAGE));
       widget(sorted);
+      summary(vis.length);
+    }
+
+    const ICONS = JSON.parse(document.getElementById('bt-icons')!.textContent || '{}');
+    const dayLong = (d: number) => new Intl.DateTimeFormat(S.lang === 'zh' ? 'zh-CN' : S.lang, { weekday: 'long', timeZone: 'UTC' }).format(new Date(Date.UTC(2024, 0, 1 + d)));
+    function summary(n: number) {
+      root.querySelector('[data-sum-where]')!.textContent = st.region || st.country || S.scopeWorld;
+      const catBtn = root.querySelector<HTMLElement>(`[data-cat-group] [data-cat="${st.cat}"]`);
+      root.querySelector('[data-sum-type]')!.textContent = st.cat ? (catBtn?.textContent || '').trim() : S.typeAll;
+      root.querySelector('[data-sum-when]')!.textContent = st.mode === 'now' ? S.modeNow : `${dayLong(st.day)} ${H(st.hour)}`;
+      root.querySelector('[data-sum-basis]')!.textContent = num(S.basis, n);
+      (root.querySelector('[data-reset]') as HTMLElement).hidden = !(st.country || st.cat || st.q || st.mode !== 'now');
+      // The "when" panel: day line, icon by time of day, and the one hint the
+      // data backs (weekday before 11, or the weekend's commonest busy hour).
+      const weekend = st.day >= 5;
+      root.querySelector('[data-when-day]')!.textContent = `${dayLong(st.day)}${st.day === todayIdx ? ` (${S.todayLbl})` : ''} · ${weekend ? S.weGroup : S.wkGroup}`;
+      root.querySelector('[data-hour-out]')!.textContent = H(st.hour);
+      const ico = st.hour < 11 ? 'sunrise' : st.hour < 16 ? 'sun' : st.hour < 20 ? 'sunset' : 'moon';
+      const icoEl = root.querySelector<HTMLElement>('[data-when-ico]')!;
+      icoEl.innerHTML = ICONS[ico]; icoEl.dataset.tone = ico;
+      const hint = root.querySelector<HTMLElement>('[data-when-hint]')!;
+      const text = !weekend && st.hour < 11 && S.morningPct ? S.hintMorning
+        : weekend && S.peakHour === st.hour ? S.hintPeak : '';
+      hint.hidden = !text; hint.textContent = text;
+      hint.classList.toggle('is-busy', weekend && S.peakHour === st.hour);
+      root.querySelectorAll<HTMLElement>('[data-clock]').forEach((el) => {
+        try { el.textContent = new Intl.DateTimeFormat(S.lang === 'zh' ? 'zh-CN' : S.lang, { timeZone: el.dataset.clock, hour: 'numeric', minute: '2-digit' }).format(new Date()); } catch { /* old browser */ }
+      });
     }
 
     function widget(sorted: Card[]) {
@@ -717,33 +896,119 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
       }));
     };
     seg('[data-cat-group]', 'data-cat', (v) => { st.cat = v; st.shown = PAGE; render(); });
-    seg('[data-country-group]', 'data-country', (v) => {
+    const cityRow = root.querySelector<HTMLElement>('[data-city-row]')!;
+    const cityHint = root.querySelector<HTMLElement>('[data-city-hint]')!;
+    function buildCities() {
+      const list: string[] = st.country ? (S.regions[st.country] || []) : [];
+      cityHint.hidden = !!st.country;
+      cityRow.hidden = !st.country;
+      const mk = (label: string, value: string) => {
+        const b = document.createElement('button');
+        b.type = 'button'; b.className = 'bt-pill-b' + (st.region === value ? ' is-on' : '');
+        b.setAttribute('aria-pressed', String(st.region === value));
+        b.textContent = label;
+        b.addEventListener('click', () => { st.region = value; st.shown = PAGE; buildCities(); render(); });
+        return b;
+      };
+      cityRow.replaceChildren(mk(S.allCities, ''), ...list.map((r) => mk(r, r)));
+    }
+    function setCountry(v: string) {
       st.country = v; st.region = ''; st.shown = PAGE;
-      const sel = root.querySelector<HTMLSelectElement>('[data-region]')!;
-      const regions: string[] = v ? (S.regions[v] || []) : [...new Set(Object.values(S.regions).flat() as string[])].sort();
-      const first = sel.options[0].cloneNode(true) as HTMLOptionElement;
-      sel.replaceChildren(first, ...regions.map((r) => new Option(r, r)));
-      render();
+      root.querySelectorAll<HTMLElement>('[data-country-group] [data-country]').forEach((x) => { const on = x.dataset.country === v; x.classList.toggle('is-on', on); x.setAttribute('aria-pressed', String(on)); });
+      // A picked country hidden behind "+N more" must be visible.
+      const picked = root.querySelector<HTMLElement>(`[data-country-group] [data-country="${CSS.escape(v)}"]`);
+      if (picked?.classList.contains('is-extra')) {
+        root.querySelector('[data-country-group]')!.classList.add('is-open');
+        const mb = root.querySelector<HTMLButtonElement>('[data-more-countries]');
+        if (mb) { mb.setAttribute('aria-expanded', 'true'); mb.textContent = mb.dataset.fewerLabel!; }
+      }
+      buildCities();
+    }
+    root.querySelectorAll<HTMLButtonElement>('[data-country-group] [data-country]').forEach((b) => b.addEventListener('click', () => { setCountry(b.dataset.country || ''); render(); }));
+    root.querySelector('[data-more-countries]')?.addEventListener('click', (e) => {
+      const g = root.querySelector('[data-country-group]')!;
+      const open = g.classList.toggle('is-open');
+      const b = e.currentTarget as HTMLButtonElement;
+      b.setAttribute('aria-expanded', String(open));
+      b.textContent = open ? b.dataset.fewerLabel! : b.dataset.moreLabel!;
     });
     seg('.bt-sort', 'data-sort', (v) => { st.sort = v; render(); });
     seg('.bt-mode', 'data-mode', (v) => {
       st.mode = v;
       (root.querySelector('[data-pick]') as HTMLElement).hidden = v !== 'pick';
-      (root.querySelector('[data-mode-note]') as HTMLElement).hidden = v === 'pick';
+      (root.querySelector('[data-now-panel]') as HTMLElement).hidden = v === 'pick';
       refresh();
     });
     seg('[data-pick]', 'data-day', (v) => { st.day = Number(v); refresh(); });
+    const hourBtns = [...root.querySelectorAll<HTMLButtonElement>('[data-hours] [data-hour]')];
+    const setHour = (h: number, focus = false) => {
+      st.hour = Math.min(22, Math.max(7, h));
+      hourBtns.forEach((b) => { const on = Number(b.dataset.hour) === st.hour; b.classList.toggle('is-on', on); b.setAttribute('aria-pressed', String(on)); if (on && focus) b.focus(); });
+      refresh();
+    };
+    hourBtns.forEach((b) => {
+      b.addEventListener('click', () => setHour(Number(b.dataset.hour)));
+      b.addEventListener('keydown', (e) => {
+        const at = Number(b.dataset.hour);
+        if (e.key === 'ArrowRight') { e.preventDefault(); setHour(at + 1, true); }
+        if (e.key === 'ArrowLeft') { e.preventDefault(); setHour(at - 1, true); }
+      });
+    });
     const markDay = (sel: string, d: number) => root.querySelectorAll<HTMLElement>(`${sel} [data-day]`).forEach((x) => { const on = Number(x.dataset.day) === d; x.classList.toggle('is-on', on); x.setAttribute('aria-pressed', String(on)); });
     markDay('[data-pick]', st.day);
-    const range = root.querySelector<HTMLInputElement>('[data-hour]')!;
-    const out = root.querySelector<HTMLOutputElement>('[data-hour-out]')!;
-    range.addEventListener('input', () => { st.hour = Number(range.value); out.textContent = H(st.hour); refresh(); });
-    root.querySelector<HTMLSelectElement>('[data-region]')!.addEventListener('change', (e) => { st.region = (e.target as HTMLSelectElement).value; st.shown = PAGE; render(); });
+    root.querySelector<HTMLElement>(`[data-pick] [data-day="${todayIdx}"]`)?.classList.add('is-today');
+    // Reset, and the city chart below feeding the filters above.
+    root.querySelector('[data-reset]')!.addEventListener('click', () => {
+      setCountry('');
+      st.cat = ''; st.q = ''; q.value = ''; st.shown = PAGE;
+      root.querySelectorAll<HTMLElement>('[data-cat-group] [data-cat]').forEach((x) => { const on = !x.dataset.cat; x.classList.toggle('is-on', on); x.setAttribute('aria-pressed', String(on)); });
+      st.day = todayIdx; markDay('[data-pick]', st.day);
+      root.querySelector<HTMLButtonElement>('.bt-mode [data-mode="now"]')!.click();   // back to "now", re-renders
+      setHour(10);
+    });
+    const chartBody = root.querySelector<HTMLElement>('[data-chart-body]');
+    root.querySelectorAll<HTMLButtonElement>('[data-chart-sort]').forEach((b) => b.addEventListener('click', () => {
+      root.querySelectorAll('[data-chart-sort]').forEach((x) => { x.classList.toggle('is-on', x === b); x.setAttribute('aria-pressed', String(x === b)); });
+      const rows = [...chartBody!.querySelectorAll<HTMLElement>('tr')];
+      rows.sort((a, c) => b.dataset.chartSort === 'h' ? Number(a.dataset.h) - Number(c.dataset.h) || Number(a.dataset.i) - Number(c.dataset.i) : Number(a.dataset.i) - Number(c.dataset.i));
+      chartBody!.append(...rows);
+    }));
+    chartBody?.querySelectorAll<HTMLElement>('tr').forEach((tr) => {
+      const go = () => {
+        setCountry(tr.dataset.ccountry || ''); st.region = tr.dataset.city || ''; buildCities(); render();
+        root.querySelector('.bt-h2')?.scrollIntoView({ behavior: 'smooth' });
+      };
+      tr.addEventListener('click', go);
+      tr.addEventListener('keydown', (e) => { if (e.key === 'Enter') go(); });
+    });
+    // Citation: as text or as link HTML, one click to copy.
+    const cite = root.querySelector<HTMLElement>('[data-cite]');
+    if (cite) {
+      const outEl = cite.querySelector('[data-cite-out]')!;
+      cite.querySelectorAll<HTMLButtonElement>('[data-cite-mode]').forEach((b) => b.addEventListener('click', () => {
+        cite.querySelectorAll('[data-cite-mode]').forEach((x) => { x.classList.toggle('is-on', x === b); x.setAttribute('aria-pressed', String(x === b)); });
+        outEl.textContent = b.dataset.citeMode === 'html' ? cite.dataset.html! : cite.dataset.text!;
+        cite.classList.toggle('is-html', b.dataset.citeMode === 'html');
+      }));
+      const copyBtn = cite.querySelector<HTMLButtonElement>('[data-cite-copy]')!;
+      copyBtn.addEventListener('click', async () => {
+        try { await navigator.clipboard.writeText(outEl.textContent || ''); }
+        catch {
+          // Clipboard blocked: select the text so the reader can copy it.
+          const range = document.createRange(); range.selectNodeContents(outEl);
+          const sel = getSelection(); sel?.removeAllRanges(); sel?.addRange(range);
+          return;
+        }
+        const label = copyBtn.lastChild!;
+        label.textContent = cite.dataset.copied!;
+        setTimeout(() => { label.textContent = cite.dataset.copy!; }, 2000);
+      });
+    }
     const q = root.querySelector<HTMLInputElement>('[data-q]')!;
     const setQ = () => { st.q = q.value.trim().toLowerCase(); st.shown = PAGE; render(); };
     q.addEventListener('input', setQ);
     root.querySelector('[data-search-form]')!.addEventListener('submit', (e) => { e.preventDefault(); setQ(); root.querySelector('.bt-h2')?.scrollIntoView({ behavior: 'smooth' }); });
-    root.querySelectorAll<HTMLButtonElement>('[data-city]').forEach((b) => b.addEventListener('click', () => { q.value = b.dataset.city || ''; setQ(); root.querySelector('.bt-h2')?.scrollIntoView({ behavior: 'smooth' }); }));
+    root.querySelectorAll<HTMLButtonElement>('[data-pop-city]').forEach((b) => b.addEventListener('click', () => { q.value = b.dataset.popCity || ''; setQ(); root.querySelector('.bt-h2')?.scrollIntoView({ behavior: 'smooth' }); }));
     root.querySelector('[data-more]')!.addEventListener('click', () => { st.shown += PAGE; render(); });
 
     // ── Day plan (kept in this browser only) ─────────────────────────────
@@ -903,14 +1168,126 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
     .bt-w-stats div:last-child b { font-size: .92rem; white-space: normal; line-height: 1.25; display: block; margin-top: 2px; }
 
     /* filters */
-    .bt-filters, .bt-sticky .bt-row, .bt-filters .bt-row { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
     .bt-list { display: grid; gap: 16px; }
-    .bt-sticky { position: sticky; top: 64px; z-index: 20; background: color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter: blur(10px); padding: 10px 0; border-bottom: 1px solid var(--line-soft); }
+    /* filter cards */
+    .bt-fcard { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-lg); padding: 20px 22px; display: grid; gap: 14px; }
+    .bt-ftitle { font-family: var(--font-display); font-size: 1.15rem; margin: 0; }
+    .bt-frow { display: grid; grid-template-columns: 4.5em 1fr; gap: 10px; align-items: start; }
+    .bt-flbl { font-size: .82rem; color: var(--muted); padding-top: 7px; }
+    .bt-pills { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+    .bt-pills[hidden], .bt-hint[hidden] { display: none; }
+    .bt-pill-b { font: inherit; font-size: .86rem; display: inline-flex; align-items: center; gap: 6px; border: 0; background: var(--bt-sand); color: var(--ink); padding: 7px 13px; border-radius: var(--r-pill); cursor: pointer; }
+    .bt-pill-b small { opacity: .6; }
+    .bt-pill-b.is-on { background: var(--bt-forest); color: #fff; }
+    .bt-pills .is-extra { display: none; }
+    .bt-pills.is-open .is-extra { display: inline-flex; }
+    .bt-morec { font: inherit; font-size: .84rem; font-weight: 700; color: var(--cta-deep); background: none; border: 0; cursor: pointer; padding: 6px 4px; }
+    .bt-hint { margin: 0; font-size: .86rem; color: var(--muted); padding-top: 6px; }
+    .bt-when-head { display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap; }
+    .bt .bt-mode button.is-on, .bt .bt-seg button.bt-on-brown { background: var(--bt-brown); color: #fff; }
+    .bt-when-body { display: grid; grid-template-columns: 14em 1fr; gap: 24px; align-items: start; }
+    .bt-when-body[hidden] { display: none; }
+    .bt-when-sum { display: grid; gap: 4px; }
+    .bt-when-ico { width: 44px; height: 44px; border-radius: 50%; display: grid; place-items: center; background: var(--bt-peach); color: var(--bt-brown); margin-bottom: 6px; }
+    .bt-when-ico.is-now { background: #e3ecd9; color: #26502f; }
+    .bt-when-ico[data-tone='moon'] { background: #e4e2f0; color: #3b3a6a; }
+    .bt-when-sub { margin: 0; font-size: .82rem; color: var(--muted); }
+    .bt-when-big { margin: 0; font-family: var(--font-display); font-size: 2rem; line-height: 1.1; }
+    .bt-when-hint { margin: 6px 0 0; font-size: .8rem; font-weight: 600; background: #e3ecd9; color: #26502f; border-radius: 12px; padding: 6px 10px; }
+    .bt-when-hint.is-busy { background: #f8ddd9; color: #8c2a22; }
+    .bt-when-hint[hidden] { display: none; }
+    .bt-groups { display: flex; flex-wrap: wrap; gap: 18px; align-items: end; }
+    .bt-glbl { display: block; font-size: .74rem; color: var(--muted); margin-bottom: 6px; border-bottom: 2px solid var(--line-soft); padding-bottom: 3px; }
+    .bt-glbl.is-we { border-color: #c9dcb5; }
+    .bt-circles { display: flex; gap: 6px; }
+    .bt-circle { width: 36px; height: 36px; border-radius: 50%; border: 0; background: var(--bt-sand); color: var(--ink); font: inherit; font-size: .86rem; font-weight: 600; cursor: pointer; position: relative; }
+    .bt-circle.is-on { background: var(--bt-brown); color: #fff; }
+    .bt-circle.is-today::after { content: ''; position: absolute; left: 50%; bottom: 4px; width: 4px; height: 4px; margin-left: -2px; border-radius: 50%; background: currentColor; opacity: .8; }
+    .bt-today-key { font-size: .76rem; color: var(--muted); display: inline-flex; gap: 5px; align-items: center; padding-bottom: 10px; }
+    .bt-today-key i { width: 5px; height: 5px; border-radius: 50%; background: var(--bt-brown); }
+    .bt-hours-row { display: grid; grid-template-columns: repeat(16, minmax(0, 1fr)); gap: 5px; margin-top: 14px; }
+    .bt-hours-row .bt-am { grid-column: 1 / 6; } .bt-hours-row .bt-pm { grid-column: 6 / 17; }
+    .bt-hourb { height: 34px; border-radius: var(--r-pill); border: 0; background: var(--bt-sand); color: var(--ink); font: inherit; font-size: .84rem; font-weight: 600; cursor: pointer; }
+    .bt-hourb.is-on { background: var(--bt-brown); color: #fff; }
+    .bt-clocks { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 8px; }
+    .bt-clocks div { background: var(--bt-sand); border-radius: 16px; padding: 10px 12px; }
+    .bt-clocks span { display: block; font-size: .74rem; color: var(--muted); }
+    .bt-clocks b { font-family: var(--font-display); font-size: 1.15rem; }
+    .bt-summary { display: flex; flex-wrap: wrap; gap: 6px 8px; align-items: center; }
+    .bt-sc { font-size: .8rem; font-weight: 600; padding: 4px 11px; border-radius: var(--r-pill); }
+    .bt-sc.is-place { background: #e3ecd9; color: #26502f; }
+    .bt-sc.is-time { background: var(--bt-peach); color: var(--bt-brown); }
+    .bt-sum-basis { font-size: .82rem; color: var(--muted); }
+    .bt-reset { font: inherit; font-size: .82rem; font-weight: 600; display: inline-flex; gap: 5px; align-items: center; background: none; border: 0; color: var(--cta-deep); cursor: pointer; }
+    .bt-reset[hidden] { display: none; }
+    /* report */
+    .bt-report { display: grid; gap: 16px; border-top: 1px solid var(--line); padding-top: 22px; }
+    .bt-report-head { display: flex; justify-content: space-between; gap: 16px; align-items: end; flex-wrap: wrap; }
+    .bt-report-head .bt-h2 { margin: 10px 0 6px; }
+    .bt-report-head .bt-sub { margin: 0; max-width: 48em; line-height: 1.6; }
+    .bt-cite-jump { font-size: .84rem; font-weight: 600; display: inline-flex; gap: 6px; align-items: center; border: 1px solid var(--line-strong); border-radius: var(--r-pill); padding: 7px 14px; text-decoration: none; background: var(--surface); }
+    .bt-stats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+    .bt-stat { border-radius: var(--r-lg); padding: 18px 20px; display: grid; gap: 6px; align-content: start; }
+    .bt-stat.is-green { background: #e3ecd9; } .bt-stat.is-peach { background: var(--bt-peach); } .bt-stat.is-cream { background: var(--surface); border: 1px solid var(--line); }
+    .bt-stat-k { display: inline-flex; gap: 8px; align-items: center; font-size: .82rem; font-weight: 600; }
+    .bt-stat-k i { width: 30px; height: 30px; border-radius: 50%; background: rgba(255,255,255,.6); display: grid; place-items: center; }
+    .bt-stat b { font-family: var(--font-display); font-size: 2.6rem; line-height: 1.05; }
+    .bt-stat p { margin: 0; font-size: .9rem; line-height: 1.55; color: var(--ink-soft); }
+    .bt-stat-take { justify-self: start; font-size: .78rem; font-weight: 600; background: rgba(255,255,255,.55); border-radius: var(--r-pill); padding: 4px 10px; display: inline-flex; gap: 5px; align-items: center; margin-top: 4px; }
+    .bt-stat-take.is-peach { background: var(--bt-peach); }
+    .bt-chart { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-lg); padding: 20px 22px; }
+    .bt-chart-head { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; align-items: start; margin-bottom: 8px; }
+    .bt-chart h3 { font-family: var(--font-display); font-size: 1.2rem; margin: 0; }
+    .bt-chart-sub { margin: 4px 0 0; font-size: .8rem; color: var(--muted); display: flex; align-items: center; gap: 6px; }
+    .bt-band-key { display: inline-block; width: 18px; height: 5px; border-radius: 3px; background: #c9dcb5; }
+    .bt-ctable { width: 100%; border-collapse: collapse; table-layout: fixed; }
+    .bt-col-city { width: 9em; } .bt-col-n { width: 6.5em; }
+    .bt-ctable tr { cursor: pointer; }
+    .bt-ctable tr:hover, .bt-ctable tr:focus-visible { background: var(--bt-cream); outline: none; }
+    .bt-ctable th { text-align: left; font-weight: 700; font-size: .9rem; padding: 8px 10px; width: 9em; white-space: nowrap; border-radius: 12px 0 0 12px; }
+    .bt-eve { font-style: normal; font-size: .7rem; font-weight: 700; color: var(--bt-brown); background: var(--bt-peach); border-radius: var(--r-pill); padding: 1px 6px; margin-left: 6px; }
+    .bt-ctrack { padding: 8px 18px; }
+    .bt-cline { position: relative; display: block; height: 6px; border-radius: 3px; background: var(--bt-sand); }
+    .bt-cband { position: absolute; left: 0; width: calc(4 / 15 * 100%); top: 0; bottom: 0; border-radius: 3px; background: #c9dcb5; }
+    .bt-cmark { position: absolute; top: 50%; transform: translate(-50%, -50%); white-space: nowrap; font-size: .72rem; font-weight: 700; background: var(--bt-olive); color: #fff; padding: 3px 9px; border-radius: var(--r-pill); }
+    .bt-cmark.is-eve { background: var(--bt-brown); }
+    .bt-cn { text-align: right; font-size: .84rem; color: var(--muted); white-space: nowrap; padding: 8px 10px; border-radius: 0 12px 12px 0; }
+    .bt-cn span { color: var(--cta-deep); margin-left: 6px; }
+    .bt-axis { display: flex; justify-content: space-between; font-size: .7rem; color: var(--muted); margin: 6px calc(6.5em + 18px) 0 calc(9em + 18px); }
+    .bt-insight { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin: 14px 0 0; background: var(--bt-cream); border-radius: 14px; padding: 10px 14px; font-size: .88rem; }
+    .bt-insight svg { color: var(--bt-brown); flex: none; }
+    .bt-insight b { flex: 1; min-width: 14em; }
+    .bt-insight span { font-size: .78rem; color: var(--muted); }
+    .bt-twocol { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+    .bt-method, .bt-cite { border-radius: var(--r-lg); padding: 20px 22px; display: grid; gap: 12px; align-content: start; }
+    .bt-method { background: var(--surface); border: 1px solid var(--line); }
+    .bt-cite { background: #e3ecd9; }
+    .bt-method h3, .bt-cite h3 { font-family: var(--font-display); font-size: 1.15rem; margin: 0; }
+    .bt-method ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 12px; }
+    .bt-method li { display: flex; gap: 12px; }
+    .bt-method li i { width: 34px; height: 34px; border-radius: 50%; background: var(--bt-sand); display: grid; place-items: center; flex: none; }
+    .bt-method li b { display: block; font-size: .9rem; }
+    .bt-method li span { font-size: .84rem; color: var(--ink-soft); line-height: 1.5; }
+    .bt-method-foot { display: flex; justify-content: space-between; gap: 8px; flex-wrap: wrap; align-items: center; margin-top: 4px; }
+    .bt-method-foot a { font-size: .84rem; font-weight: 700; color: var(--cta-deep); text-decoration: none; }
+    .bt-cite-head { display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap; align-items: center; }
+    .bt-cite > p { margin: 0; font-size: .86rem; line-height: 1.6; color: var(--ink-soft); }
+    .bt-cite-box { background: var(--bt-cream); border-radius: 14px; padding: 12px 14px; display: grid; gap: 10px; }
+    .bt-cite-box code { font-family: ui-monospace, Menlo, Consolas, monospace; font-size: .8rem; line-height: 1.5; word-break: break-all; white-space: pre-wrap; }
+    .bt-cite-box .bt-btn { justify-self: start; gap: 6px; }
+    .bt-cite:not(.is-html) .bt-cite-box code { font-family: inherit; font-size: .88rem; }
+    .bt-cite-row { display: flex; justify-content: space-between; gap: 10px; background: rgba(255,255,255,.55); border-radius: 12px; padding: 9px 12px; font-size: .8rem; text-decoration: none; }
+    .bt-cite-row b { color: var(--cta-deep); white-space: nowrap; }
+    .bt-sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+    @media (prefers-color-scheme: dark) {
+      .bt-stat.is-green, .bt-cite, .bt-when-ico.is-now, .bt-sc.is-place, .bt-when-hint { background: #2b3524; color: #dfe9d3; }
+      .bt-cband, .bt-band-key { background: #3f5232; }
+      .bt-cite-row, .bt-stat-take, .bt-stat-k i { background: rgba(0,0,0,.2); }
+    }
     .bt-seg { display: inline-flex; background: var(--bt-sand); border-radius: var(--r-pill); padding: 3px; gap: 2px; }
     .bt-seg button { font: inherit; font-size: .86rem; border: 0; background: transparent; color: var(--ink); padding: 6px 12px; border-radius: var(--r-pill); cursor: pointer; white-space: nowrap; }
     .bt-seg button.is-on { background: var(--surface); box-shadow: var(--shadow-sm); font-weight: 600; }
     .bt-days button { padding: 6px 9px; }
-    .bt-mode button.is-on { background: var(--bt-forest); color: #fff; }
     .bt-chips { display: flex; flex-wrap: wrap; gap: 6px; }
     .bt-chips button { font: inherit; font-size: .84rem; padding: 5px 11px; border-radius: var(--r-pill); border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink); cursor: pointer; }
     .bt-chips button small { opacity: .6; }
@@ -986,16 +1363,6 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
     .bt-tickets p { margin: 0; color: var(--ink-soft); line-height: 1.6; font-size: .92rem; }
     .bt-tickets-cta { display: flex; flex-direction: column; gap: 8px; }
 
-    /* findings */
-    .bt-findings { border-top: 1px solid var(--line); padding-top: 20px; }
-    .bt-findings h2 { font-family: var(--font-display); font-size: clamp(1.3rem, 3vw, 1.7rem); margin: 0 0 6px; }
-    .bt-findings h3 { font-size: 1.02rem; margin: 1.4rem 0 .5rem; }
-    .bt-findings p, .bt-facts { max-width: 70ch; line-height: 1.7; color: var(--ink-soft); font-size: .95rem; }
-    .bt-facts li { margin: .4rem 0; }
-    .bt-tbl { overflow-x: auto; }
-    .bt-findings table { border-collapse: collapse; font-size: .9rem; min-width: 22rem; }
-    .bt-findings th, .bt-findings td { text-align: left; padding: .45rem 1.25rem .45rem 0; border-bottom: 1px solid var(--line-soft); }
-    .bt-findings th { font-size: .72rem; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); }
     .bt-foot { font-size: .78rem !important; color: var(--muted) !important; }
 
     /* faq */
@@ -1031,24 +1398,33 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
     .bt-link { font-weight: 600; font-size: .88rem; color: var(--cta-deep) !important; text-decoration: none; margin-left: auto; }
 
     @media (max-width: 900px) {
-      .bt-hero, .bt-faq { grid-template-columns: 1fr; }
+      .bt-hero, .bt-faq, .bt-twocol { grid-template-columns: 1fr; }
+      .bt-stats { grid-template-columns: 1fr; }
       .bt-sort { margin-left: 0; }
       .bt-tickets { grid-template-columns: 1fr; text-align: left; }
       .bt-tickets img { width: 100%; height: 140px; border-radius: 18px; }
     }
     @media (max-width: 560px) {
       .bt { padding: 14px 16px 110px; }
-      .bt-sticky { position: static; padding: 4px 0; border-bottom: 0; background: none; backdrop-filter: none; }
-      .bt-sticky .bt-row { gap: 8px; }
       .bt-note { display: none; }
-      .bt-select { flex: 1; min-width: 0; }
-      .bt-pick { width: 100%; }
-      .bt-pick input[type=range] { flex: 1; width: auto; }
       .bt-chips { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 4px; scrollbar-width: thin; }
       .bt-chips button { flex: none; }
-      .bt-filters .bt-row { display: grid; gap: 8px; }
       .bt-seg { max-width: 100%; overflow-x: auto; }
       .bt-results { grid-template-columns: 1fr; }
+      .bt-frow { grid-template-columns: 1fr; gap: 4px; }
+      .bt-flbl { padding-top: 0; }
+      .bt-pills { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 4px; }
+      .bt-pills.is-open { flex-wrap: wrap; }
+      .bt-pill-b { flex: none; }
+      .bt-when-body { grid-template-columns: 1fr; gap: 14px; }
+      .bt-hours-row { grid-template-columns: repeat(8, minmax(0, 1fr)); }
+      .bt-hours-row .bt-am, .bt-hours-row .bt-pm { display: none; }
+      .bt-clocks { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .bt-ctable th { width: 6.5em; font-size: .84rem; padding: 8px 6px; }
+      .bt-ctrack { padding: 8px 8px; }
+      .bt-col-city { width: 6.5em; } .bt-col-n { width: 4.5em; }
+      .bt-axis { margin: 6px calc(4.5em + 8px) 0 calc(6.5em + 8px); }
+      .bt-axis span:nth-child(even) { display: none; }
     }
   </style>
 </BaseLayout>
