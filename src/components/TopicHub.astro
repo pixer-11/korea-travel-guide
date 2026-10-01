@@ -148,8 +148,8 @@ const tableRows = [...rows].sort((a, b) => collator.compare(a.label, b.label));
 const latest = rows.reduce((m, r) => (r.reviewed > m ? r.reviewed : m), new Date(0));
 const latestLabel = latest.getTime() ? latest.toLocaleDateString(locale, { year: 'numeric', month: 'long', day: 'numeric' }) : '';
 
-const REGION_ORDER: HubRegion[] = ['asia', 'europe', 'meca', 'amoc'];
-const REGION_LABEL: Record<HubRegion, string> = { asia: h('rAsia'), europe: h('rEurope'), meca: h('rMeca'), amoc: h('rAmOc') };
+const REGION_ORDER: HubRegion[] = ['asia', 'europe', 'meca', 'africa', 'amoc'];
+const REGION_LABEL: Record<HubRegion, string> = { asia: h('rAsia'), europe: h('rEurope'), meca: h('rMeca'), africa: h('rAfrica'), amoc: h('rAmOc') };
 const regionChips = REGION_ORDER.filter((r) => tableRows.some((x) => x.region === r)).map((r) => ({ key: r, label: REGION_LABEL[r] }));
 
 // ── Season: the month picker and the 12-month grid ──

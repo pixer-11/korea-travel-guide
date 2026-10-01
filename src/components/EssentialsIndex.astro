@@ -8,6 +8,7 @@ import { siteHref } from '../lib/urls.mjs';
 import { pickOgPhoto } from '../lib/ogPhoto.mjs';
 import { wikimediaThumb } from '../lib/wikimediaThumb.mjs';
 import { COUNTRY_TIME, hubRegion, type HubRegion } from '../lib/countryTime';
+import { COUNTRY_TZ } from '../lib/venue-tz.mjs';
 import { bodyHash } from '../../scripts/lib/essentials-facts.mjs';
 import essentialsFacts from '../../data/essentials-facts.json';
 import countryPlugs from '../../data/country-plugs.json';
@@ -59,7 +60,10 @@ const rows = guides
       ?? (key === 'entry' && visa0 ? { title: visa0.name, sub: [visa0.stay, visa0.cost].filter(Boolean).join(' · ') } : null);
     const nums = (F?.emergency?.numbers ?? []).slice(0, 2);
     const pw = plugs[g.data.country];
-    const time = COUNTRY_TIME[String(c.iso2).toUpperCase()];
+    // A country not in COUNTRY_TIME still gets its time cell when the venue
+    // table (lib/venue-tz, which event pages need anyway) knows its zone.
+    const time = COUNTRY_TIME[String(c.iso2).toUpperCase()]
+      ?? ((COUNTRY_TZ as Record<string, string>)[g.data.country] ? { tz: (COUNTRY_TZ as Record<string, string>)[g.data.country], city: g.data.country, multi: false } : undefined);
     const cells = [
       { key: 'entry', label: h('cellEntry'), tone: 'leaf', title: card('entry')?.title, sub: card('entry')?.sub },
       { key: 'money', label: h('cellMoney'), title: card('money')?.title, sub: card('money')?.sub },
@@ -99,8 +103,8 @@ const defaultSlug = (destRows.find((r) => r.cells.length >= 4) ?? destRows[0])?.
 const latest = rows.reduce((m, r) => (r.reviewed > m ? r.reviewed : m), new Date(0));
 const latestLabel = latest.getTime() ? latest.toLocaleDateString(locale, { month: 'long', day: 'numeric' }) : '';
 
-const REGION_ORDER: HubRegion[] = ['asia', 'europe', 'meca', 'amoc'];
-const REGION_LABEL: Record<HubRegion, string> = { asia: h('rAsia'), europe: h('rEurope'), meca: h('rMeca'), amoc: h('rAmOc') };
+const REGION_ORDER: HubRegion[] = ['asia', 'europe', 'meca', 'africa', 'amoc'];
+const REGION_LABEL: Record<HubRegion, string> = { asia: h('rAsia'), europe: h('rEurope'), meca: h('rMeca'), africa: h('rAfrica'), amoc: h('rAmOc') };
 const collator = new Intl.Collator(locale);
 const regions = REGION_ORDER
   .map((key) => ({ key, label: REGION_LABEL[key], list: rows.filter((r) => hubRegion(r.continent, r.iso2) === key).sort((a, b) => collator.compare(a.label, b.label)) }))
@@ -315,7 +319,11 @@ const jsonLd = {
       if (!panels.some((p) => p.dataset.exhPanel === slug)) {
         // Not in the summary (e.g. the reader's own country): go to its page.
         const go = root.querySelector<HTMLButtonElement>(`[data-exh-go="${slug}"]`);
-        const href = root.querySelector<HTMLAnchorElement>(`.exh-region a[href$="/essentials/${slug}"]`)?.href;
+        // Compared by path: the built link ends in "/" ("/essentials/south-korea/"),
+        // and an ends-with selector without it matched nothing, so the Korean
+        // hub's "대한민국" result went nowhere (Codex review, 10-01).
+        const href = [...root.querySelectorAll<HTMLAnchorElement>('.exh-region a[href]')]
+          .find((a) => new URL(a.href).pathname.replace(/\/$/, '').endsWith(`/essentials/${slug}`))?.href;
         if (go && href) location.href = href;
         return;
       }
@@ -383,7 +391,8 @@ const jsonLd = {
         let there: number;
         try { there = offsetMin(tz, now); } catch { continue; }
         const d = (there - mine) / 60;
-        const hrs = Number.isInteger(d) ? String(Math.abs(d)) : Math.abs(d).toFixed(1);
+        // Quarter hours survive: Kathmandu → Tokyo is 3.25 h, not "3.3" (Codex review).
+        const hrs = String(Math.round(Math.abs(d) * 100) / 100);
         const diff = cell.querySelector<HTMLElement>('[data-exh-diff]');
         const nowEl = cell.querySelector<HTMLElement>('[data-exh-now]');
         if (diff && S.ahead && S.behind && S.same) diff.textContent = d === 0 ? S.same : (d > 0 ? S.ahead : S.behind).replace('{h}', hrs);

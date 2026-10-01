@@ -1,0 +1,78 @@
+name: Live checks (twice daily)
+
+# Every redesign since 09-29 came with a browser check written by hand and run
+# once. A later change then broke an earlier page and nobody looked again
+# (owner, 10-01: "검증할 때마다 오류가 새로 생기잖아"). The same checks now run
+# against the LIVE site twice a day — after the 16:19 KST publish deploy has
+# settled, and late in the evening — and on demand. Failure pings Telegram in
+# Korean. Cost: none — no AI or paid API, a headless Chrome on a free runner
+# of this public repository; the analytics endpoints are blocked in every
+# page it opens (scripts/live/lib.mjs), so the run never counts as readers.
+on:
+  schedule:
+    - cron: '45 8 * * *'  # 08:45 UTC = 17:45 KST, after the publish deploy
+    - cron: '20 13 * * *' # 13:20 UTC = 22:20 KST
+  workflow_dispatch:
+
+concurrency:
+  group: live-checks
+  cancel-in-progress: false
+
+jobs:
+  live:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      # The runner image ships Google Chrome; playwright-core drives it, so
+      # nothing is downloaded.
+      - name: Run the live checks
+        env:
+          PW_CHANNEL: chrome
+          LIVE_OUT: /tmp/live
+        run: node scripts/live/run-all.mjs https://wanderatlasguides.com
+
+      - name: Notify Telegram on failure
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          {
+            echo "🔎 실서버 정기 검사에서 문제가 나왔습니다"
+            head -c 3000 /tmp/live/summary.txt 2>/dev/null || echo "(검사기가 결과를 남기기 전에 멈췄습니다)"
+            if [ -s /tmp/live/warn.txt ]; then echo ""; echo "⚠️ 경고(페이지는 정상, 칸 하나가 빠짐):"; head -n 10 /tmp/live/warn.txt; fi
+            echo ""
+            echo "자세히: $RUN_URL"
+          } > /tmp/msg.txt
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text@/tmp/msg.txt" >/dev/null || true
+
+      # Warnings never fail the run (a missing plug or time row only hides one
+      # cell, and the nightly country relay must not be blocked by it); they
+      # are passed on once a day, with the afternoon run.
+      - name: Pass on warnings
+        if: success() && github.event.schedule == '45 8 * * *'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ -z "$TELEGRAM_BOT_TOKEN" ] || [ ! -s /tmp/live/warn.txt ]; then exit 0; fi
+          {
+            echo "⚠️ 실서버 정기 검사는 통과했지만 채워야 할 데이터가 있습니다"
+            head -n 10 /tmp/live/warn.txt
+          } > /tmp/msg.txt
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text@/tmp/msg.txt" >/dev/null || true

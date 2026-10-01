@@ -7,8 +7,10 @@
 // no accounts, nothing for the owner to set up.
 import { useTranslations, type Lang } from '../i18n/utils';
 
-interface Props { url: string; title: string; lang: Lang }
-const { url, title, lang } = Astro.props;
+// live: share the address as it is at the moment of the click, hash included -
+// an itinerary keeps the reader's pace, interests and dates there (10-01).
+interface Props { url: string; title: string; lang: Lang; live?: boolean }
+const { url, title, lang, live = false } = Astro.props;
 const t = useTranslations(lang);
 
 const u = encodeURIComponent(url);
@@ -44,7 +46,7 @@ const TARGETS: Record<Lang, { name: string; href: string }[]> = {
 };
 const targets = TARGETS[lang] ?? TARGETS.en;
 ---
-<div class="share" data-url={url} data-title={title}>
+<div class="share" data-url={url} data-title={title} data-live={live ? '1' : undefined}>
   <span class="share-label">{t('share.label')}</span>
   <div class="share-btns">
     <button type="button" class="share-btn share-native" hidden>{t('share.native')}</button>
@@ -58,7 +60,15 @@ const targets = TARGETS[lang] ?? TARGETS.en;
 <script>
   document.querySelectorAll('.share').forEach((row) => {
     const el = row as HTMLElement;
-    const url = el.dataset.url || location.href;
+    const base = el.dataset.url || location.href;
+    const live = el.dataset.live === '1';
+    const now = () => (live ? location.href : base);
+    if (live) {
+      el.querySelectorAll<HTMLAnchorElement>('a.share-btn').forEach((a) => {
+        const orig = a.href;
+        a.addEventListener('click', () => { a.href = orig.split(encodeURIComponent(base)).join(encodeURIComponent(now())); });
+      });
+    }
     const title = el.dataset.title || document.title;
     const native = el.querySelector('.share-native') as HTMLButtonElement | null;
     const copy = el.querySelector('.share-copy') as HTMLButtonElement | null;
@@ -67,13 +77,13 @@ const targets = TARGETS[lang] ?? TARGETS.en;
     if (native && typeof (navigator as any).share === 'function') {
       native.hidden = false;
       native.addEventListener('click', () => {
-        (navigator as any).share({ title, url }).catch(() => {});
+        (navigator as any).share({ title, url: now() }).catch(() => {});
       });
     }
 
     copy?.addEventListener('click', async () => {
       try {
-        await navigator.clipboard.writeText(url);
+        await navigator.clipboard.writeText(now());
         const done = copy.dataset.copied || 'Copied';
         const original = copy.textContent;
         copy.textContent = done;

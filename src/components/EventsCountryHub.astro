@@ -43,7 +43,7 @@ const past = events
 
 // Links out: every other country hub, the same list the global page shows.
 const allEvents = await getCollection('posts', ({ data }) => !data.draft && data.category === 'event');
-const otherCountries = countryLinksOf(allEvents, allEvents.filter((p) => !isEventPast(p.data, today)), countriesData.countries)
+const otherCountries = countryLinksOf(allEvents, allEvents.filter((p) => !isEventPast(p.data, today)), countriesData.countries, today)
   .filter((c) => c.slug !== country.slug);
 const hasEssentials = (await getCollection('essentials', ({ data }) => !data.draft)).some((x) => x.id === country.slug);
 
@@ -100,7 +100,7 @@ const ogPhoto = pickOgPhoto([...placePhotos, ...events]);
     crumbs={[{ label: t('post.home'), href: localizePath('/', lang) }, { label: t('nav.events'), href: localizePath('/events', lang) }, { label: countryLabel }]}
     flag={country.iso2}
     h1a={e('countryH1a', { country: countryLabel })} h1b={e('countryH1b')}
-    dek={e('countryDek', { country: countryLabel, n: upcoming.length })}
+    dek={e('countryDek', { country: countryLabel, n: '{n}' })} dekN={upcoming.length}
     note={traveled}
     stats={hubStats(upcoming, today)}
     icsHref={`/events/${country.slug}.ics`}

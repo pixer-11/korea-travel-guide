@@ -38,7 +38,7 @@ const past = all
   .sort((a, b) => eventSortValue(a.data, today) - eventSortValue(b.data, today));
 
 const countries = new Set(upcoming.map((p) => p.data.country ?? 'South Korea')).size;
-const countryLinks = countryLinksOf(all, upcoming, countriesData.countries);
+const countryLinks = countryLinksOf(all, upcoming, countriesData.countries, today);
 
 const seoTitle = e('seoTitle', { y: today.getUTCFullYear() });
 const summary = t('ev.summaryGlobal').replace('{n}', String(upcoming.length)).replace('{c}', String(countries));
@@ -76,7 +76,7 @@ const ogPhoto = pickOgPhoto([...all].sort((a, b) =>
     lang={lang}
     crumbs={[{ label: t('post.home'), href: localizePath('/', lang) }, { label: t('nav.events') }]}
     h1a={e('h1a')} h1b={e('h1b')}
-    dek={e('dek', { n: upcoming.length, c: countries })}
+    dek={e('dek', { n: '{n}', c: countries })} dekN={upcoming.length}
     stats={hubStats(upcoming, today)}
     icsHref="/events.ics"
   />

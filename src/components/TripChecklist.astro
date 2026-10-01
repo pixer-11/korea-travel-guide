@@ -378,7 +378,11 @@ const clientData = JSON.stringify({
       const has = Number.isFinite(t);
       dateText.textContent = has ? full.format(new Date(t)) : dateText.dataset.empty || '';
       dateText.classList.toggle('is-empty', !has);
-      destText.textContent = state.dest || destText.dataset.empty || '';
+      // A listed country is named in this page's language from its slug; the
+      // stored label was the language it was picked in ("Japan" on the Korean
+      // page, Codex C10, 10-01). Only a typed-in place keeps its own words.
+      const listed = state.country ? countries.find((x) => x.slug === state.country) : null;
+      destText.textContent = (listed ? listed.label : state.dest) || destText.dataset.empty || '';
       destText.classList.toggle('is-empty', !state.dest);
       if (has) {
         const left = Math.round((t - todayUTC) / DAY);
@@ -501,13 +505,22 @@ const clientData = JSON.stringify({
         if (t < todayUTC) b.disabled = true;
         if (t === todayUTC) b.classList.add('is-today');
         if (t === sel) { b.classList.add('is-sel'); b.setAttribute('aria-selected', 'true'); }
-        b.tabIndex = t === (Number.isFinite(sel) ? sel : todayUTC) ? 0 : -1;
+        b.tabIndex = -1;
         b.addEventListener('click', () => setDate(t));
         cells.push(b);
       }
       grid.replaceChildren(...cells);
-      const focus = grid.querySelector<HTMLButtonElement>('button[tabindex="0"]') ?? grid.querySelector<HTMLButtonElement>('button:not(:disabled)');
-      focus?.focus({ preventScroll: true });
+      // Exactly one day takes Tab, in every month: the chosen day, else today,
+      // else the first day that can be chosen. A month without a selection
+      // had none and Tab skipped the calendar (Codex C9, 10-01).
+      const pick = grid.querySelector<HTMLButtonElement>(`button[data-t="${sel}"]:not(:disabled)`)
+        ?? grid.querySelector<HTMLButtonElement>(`button[data-t="${todayUTC}"]`)
+        ?? grid.querySelector<HTMLButtonElement>('button[data-t]:not(:disabled)');
+      if (pick) pick.tabIndex = 0;
+      pick?.focus({ preventScroll: true });
+      // Nothing before this month can be chosen, so there is no going back to it.
+      const prev = root.querySelector<HTMLButtonElement>('[data-ck-month="-1"]');
+      if (prev) prev.disabled = Date.UTC(y, m, 1) <= Date.UTC(new Date(todayUTC).getUTCFullYear(), new Date(todayUTC).getUTCMonth(), 1);
     };
     for (const nav of root.querySelectorAll<HTMLButtonElement>('[data-ck-month]')) nav.addEventListener('click', () => {
       view = new Date(Date.UTC(view.getUTCFullYear(), view.getUTCMonth() + Number(nav.dataset.ckMonth), 1)); drawCal();
@@ -519,9 +532,15 @@ const clientData = JSON.stringify({
       if (!(ev.key in step)) return;
       ev.preventDefault();
       const t = Number(cur.dataset.t) + step[ev.key] * DAY;
+      // Before today is not a choice: stay put. Stepping off the 1st into last
+      // month used to redraw a month of disabled days and drop focus on <body>.
+      if (t < todayUTC) return;
       const d = new Date(t);
       if (d.getUTCMonth() !== view.getUTCMonth()) { view = new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), 1)); drawCal(); }
-      grid.querySelector<HTMLButtonElement>(`button[data-t="${t}"]`)?.focus();
+      const next = grid.querySelector<HTMLButtonElement>(`button[data-t="${t}"]`);
+      if (!next) return;
+      for (const b of grid.querySelectorAll<HTMLButtonElement>('button[data-t]')) b.tabIndex = b === next ? 0 : -1;
+      next.focus();
     });
     root.querySelector('[data-ck-cal-today]')?.addEventListener('click', () => setDate(todayUTC));
     root.querySelector('[data-ck-cal-clear]')?.addEventListener('click', () => setDate(null));

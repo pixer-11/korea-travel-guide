@@ -36,10 +36,12 @@ export const COUNTRY_TIME: Record<string, { tz: string; city: string; multi?: bo
 // changes: a new country lands in its continent's group automatically, and in
 // the Middle East / Central Asia group only if its code is listed here.
 const MIDDLE_EAST_CENTRAL_ASIA = new Set(['AE', 'TR', 'UZ', 'SA', 'QA', 'OM', 'BH', 'KW', 'JO', 'IL', 'EG', 'KZ', 'KG', 'TJ', 'TM', 'GE', 'AM', 'AZ']);
-export type HubRegion = 'asia' | 'europe' | 'meca' | 'amoc';
+export type HubRegion = 'asia' | 'europe' | 'meca' | 'africa' | 'amoc';
 export function hubRegion(continent: string | undefined, iso2: string): HubRegion {
   if (MIDDLE_EAST_CENTRAL_ASIA.has(iso2.toUpperCase())) return 'meca';
   if (continent === 'Europe') return 'europe';
   if (continent === 'Asia') return 'asia';
+  // An African country fell through to "Americas & Oceania" (Codex review, 10-01).
+  if (continent === 'Africa') return 'africa';
   return 'amoc';
 }

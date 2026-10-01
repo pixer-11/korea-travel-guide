@@ -9,7 +9,7 @@ import { localizePath, localeCodes, type Lang } from '../../i18n/utils';
 import { localizePlace } from '../../i18n/places';
 import { evStrings } from '../../i18n/events-strings';
 
-interface CountryLink { name: string; slug: string; flag: string; up: number }
+interface CountryLink { name: string; slug: string; flag: string; up: number; ev?: string }
 interface Props {
   lang: Lang;
   countryLinks: CountryLink[];
@@ -38,7 +38,7 @@ const nameOf = (p: any) => {
           <p class="evf-dek">{countriesDek}</p>
           <nav class="evf-countries" aria-label={e('countriesLabel')}>
             {countryLinks.map((c) => (
-              <a href={localizePath(`/events/${c.slug}`, lang)}><Flag code={c.flag} size="1em" class="flag-ico" /> {localizePlace(c.name, lang)}{c.up > 0 && <span class="evf-n">{c.up}</span>}</a>
+              <a href={localizePath(`/events/${c.slug}`, lang)} data-evs={c.ev}><Flag code={c.flag} size="1em" class="flag-ico" /> {localizePlace(c.name, lang)}<span class="evf-n" hidden={c.up === 0}>{c.up}</span></a>
             ))}
           </nav>
         </div>
@@ -58,6 +58,18 @@ const nameOf = (p: any) => {
     </div>
   </section>
 )}
+
+<script>
+  import { isOver } from '../../lib/evDay';
+  // The per-country numbers by each venue's own date, as the list and the
+  // hero count (Codex C8, 10-01): the build's count kept ended events.
+  for (const a of document.querySelectorAll<HTMLElement>('.evf-countries a[data-evs]')) {
+    const n = (a.dataset.evs || '').split(',').filter(Boolean)
+      .filter((x) => { const [end, tz] = x.split('~'); return !isOver(end || undefined, tz || undefined); }).length;
+    const el = a.querySelector<HTMLElement>('.evf-n');
+    if (el) { el.textContent = String(n); el.hidden = n === 0; }
+  }
+</script>
 
 <style>
   .evf { --ev-sand: #ece5d6; --ev-peach: #fde3d4; }

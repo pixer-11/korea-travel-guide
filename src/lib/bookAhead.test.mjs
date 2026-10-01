@@ -34,6 +34,32 @@ test('selling out and other places named in a list are not booking advice', () =
   assert.ok(recommendsBooking('- **Book ahead online.** Timed-entry tickets are standard here.'));
 });
 
+test('"rather than" counts by which side of the advice it sits (Codex review, 10-01)', () => {
+  assert.ok(recommendsBooking('Book online in advance through the official teamLab Planets site rather than assuming walk-up entry will be possible.'));
+  assert.ok(recommendsBooking('Book a timed-entry ticket online in advance rather than queuing at the door.'));
+  assert.ok(!recommendsBooking('Buy your ticket at the small booth by the entrance rather than assuming you need to book online in advance.'));
+  assert.ok(!recommendsBooking('Most visitors simply turn up instead of booking in advance.'));
+});
+
+test('an item label is not another place, an optional amenity is not the visit (Codex review, 10-01)', () => {
+  assert.ok(recommendsBooking('- **Tickets**: buy online in advance during peak season to skip the ticket-counter line.'));
+  assert.ok(recommendsBooking('- **Reservations:** book a table in advance for Friday dinner.'));
+  assert.ok(!recommendsBooking('- Book a barbecue pit ahead if you want one on a weekend; most people just walk the promenade.'));
+  assert.ok(!recommendsBooking('Book bikes ahead at the rental kiosk on public holidays.'));
+});
+
+test('a negation counts in the advice clause; a dismissal anywhere (Codex review, 10-01)', () => {
+  assert.ok(recommendsBooking("Bangkok's rooftop-bar culture runs on reservations, not walk-in luck, so call or book online ahead rather than arriving unannounced."));
+  assert.ok(!recommendsBooking("Book ahead online, though it's not strictly necessary on weekdays."));
+  // Measured on every guide: these were read as advice when negation was clause-only.
+  assert.ok(!recommendsBooking("There's no ticket booth at the trailhead, so there's nothing to book in advance."));
+  assert.ok(!recommendsBooking("There's no metro line to the site, so a pre-booked taxi or app-based auto is the practical option."));
+  assert.ok(!recommendsBooking('Most visitors arrive by rental car or a pre-booked shuttle.'));
+  assert.ok(!recommendsBooking('Book an evening geisha performance in advance if you want to see one; these are by reservation, not walk-in.'));
+  assert.ok(!recommendsBooking('Booking ahead is optional, since the hall rarely fills.'));
+  assert.ok(!recommendsBooking("You don't need to book ahead; just turn up."));
+});
+
 test('a body is flagged when any one sentence recommends booking', () => {
   assert.ok(recommendsBooking('Walk-ins are fine at the café.\n\nFor the rooftop, book a timed-entry ticket online ahead.'));
   assert.ok(!recommendsBooking('A calm park.\n\nNo need to book ahead.'));

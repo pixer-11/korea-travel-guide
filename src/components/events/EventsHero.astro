@@ -15,13 +15,17 @@ interface Props {
   h1a: string;
   h1b: string;
   dek: string;
+  // The dek's event count. dek then carries "{n}" where it goes, so the page
+  // can recount it by each venue's date (Codex C8, 10-01).
+  dekN?: number;
   stats: { now: number; week: number; today: number };
   icsHref: string;
   flag?: string;
   note?: string;            // e.g. the editor-traveled line, only when true
   links?: { label: string; href: string }[];
 }
-const { lang, crumbs, h1a, h1b, dek, stats, icsHref, flag, note, links = [] } = Astro.props as Props;
+const { lang, crumbs, h1a, h1b, dek, dekN, stats, icsHref, flag, note, links = [] } = Astro.props as Props;
+const dekParts = dekN === undefined ? [dek] : dek.split('{n}');
 const t = useTranslations(lang);
 const e = evStrings(lang);
 // A country name makes the first line longer; a step down keeps it to one line
@@ -41,7 +45,7 @@ const long = h1a.length > 14;
         ))}
       </nav>
       <h1 class:list={['evh-h1', { 'evh-h1--long': long }]}>{h1a}<span>{h1b}</span></h1>
-      <p class="evh-dek">{dek}</p>
+      <p class="evh-dek">{dekParts.map((part, i) => <>{i > 0 && <span data-ev-up>{dekN}</span>}{part}</>)}</p>
       {note && <p class="evh-note">{note}</p>}
       {links.length > 0 && (
         <p class="evh-links">{links.map((l) => <a href={l.href}>{l.label}</a>)}</p>
@@ -63,20 +67,23 @@ const long = h1a.length > 14;
 </section>
 
 <script>
-  const DAY = 86_400_000;
-  const n = new Date();
-  const today = Date.UTC(n.getFullYear(), n.getMonth(), n.getDate()) / DAY;
+  import { evState, dayIn, dayOf } from '../../lib/evDay';
+  // One row per event in the list (the cards repeat rows and are not
+  // counted), each judged by its venue's date with the list's own rule.
+  const rows = [...document.querySelectorAll<HTMLElement>('[data-ev-list] li[data-start]')];
+  let now = 0, week = 0, end = 0, up = 0;
+  for (const el of rows) {
+    const st = evState(el);
+    if (st !== 'over') up++;
+    const s = dayOf(el.dataset.start);
+    if (!Number.isFinite(s)) continue;
+    const t = dayIn(el.dataset.tz);
+    if (st === 'on') now++;
+    if (s >= t && s <= t + 6) week++;
+    if (el.dataset.end && dayOf(el.dataset.end) === t) end++;
+  }
+  if (rows.length) for (const x of document.querySelectorAll<HTMLElement>('[data-ev-up]')) x.textContent = String(up);
   for (const panel of document.querySelectorAll<HTMLElement>('[data-ev-stats]')) {
-    let now = 0, week = 0, end = 0;
-    // A spare card repeats a row of the "on now" list; count the row.
-    for (const el of document.querySelectorAll<HTMLElement>('[data-ev-list] [data-start]:not([data-spare])')) {
-      const s = Date.parse(el.dataset.start || '') / DAY;
-      const e = el.dataset.end ? Date.parse(el.dataset.end) / DAY : Infinity;
-      if (!Number.isFinite(s)) continue;
-      if (s <= today && e >= today) now++;
-      if (s >= today && s <= today + 6) week++;
-      if (e === today) end++;
-    }
     const set = (k: string, v: number) => { const x = panel.querySelector(`[data-stat="${k}"]`); if (x) x.textContent = String(v); };
     set('now', now); set('week', week); set('today', end);
   }

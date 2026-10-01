@@ -23,7 +23,7 @@ import { getLangFromUrl, useTranslations, localeCodes, localizePath, klookLocale
 import { localizePlace } from '../i18n/places';
 import { shortPlaceLabel } from '../lib/placeLabel.mjs';
 import TypesetPlate from './TypesetPlate.astro';
-import { formatHourRanges } from '../lib/hours.mjs';
+import { formatHourRanges, openHourSetsByDay } from '../lib/hours.mjs';
 import { klookCityDest } from '../lib/klookCities';
 import { tiqetsCityUrl } from '../lib/tiqets-link.mjs';
 import { closedDaysOf } from '../lib/itinerary.mjs';
@@ -134,10 +134,14 @@ function fmtHourRanges(xs: number[]): string {
 function quietWindowFor(post: any, slot: string): string | null {
   // An itinerary does not know which weekday the reader will walk it, so the
   // hour has to hold on ALL of them. Printing weekdayQuiet whole promised a
-  // quiet 9am at a museum that opens at ten on the Monday.
+  // quiet 9am at a museum that opens at ten on the Monday. "All" means every
+  // day it opens, weekends too: Monday to Friday only promised 9am at the
+  // Sagrada Familia on a Sunday it opens at 10:30 (Codex D1, 10-01). A day it
+  // is shut is left out; the closed-day chip speaks for that one.
   const perDay = perDayBusyness(post.data.place?.busyness, post.data.place?.openingHours);
+  const openDays = perDay ? DAY_NAMES.filter((day: string) => (openHourSetsByDay(post.data.place?.openingHours)?.get(day)?.size ?? 0) > 0) : [];
   const q = perDay
-    ? DAY_NAMES.slice(0, 5).map((day: string) => perDay.get(day)!.quiet).reduce((a, b) => a.filter((h) => b.includes(h)))
+    ? (openDays.length ? openDays.map((day: string) => perDay.get(day)!.quiet).reduce((a, b) => a.filter((h) => b.includes(h))) : [])
     : post.data.place?.busyness?.weekdayQuiet;
   if (!Array.isArray(q) || !q.length) return null;
   const [lo, hi] = SLOT_HOURS[slot] ?? [0, 24];
@@ -317,10 +321,16 @@ const walkKm = Math.round(days.flatMap((day: any) => day.stops.filter((_: any, s
   .reduce((n: number, s: any) => n + (s.walkToNext && !s.walkToNext.transit ? s.walkToNext.km : 0), 0) * 10) / 10;
 // "Book ahead": the stop's own (vetted) guide recommends booking — read
 // sentence by sentence from the English body (lib/bookAhead.mjs).
+// Every candidate is rendered; the filter script hides the ones whose stop the
+// chosen pace hides (a packed day's fifth stop was never listed — Codex D6,
+// 10-01). The hero number counts the default pace, like the hours above it.
+const bookAll = days.flatMap((day: any, di: number) => day.stops
+  .filter((s: any) => recommendsBooking(String(s.post.body ?? '')))
+  .map((s: any) => ({ slug: s.post.id, di, label: shortPlaceLabel(postTitleFor(s.post), lang) || s.post.data.place?.name || postTitleFor(s.post) })));
 const bookAhead = days.flatMap((day: any, di: number) => day.stops
   .filter((s: any, si: number) => shownByDefault(si) && recommendsBooking(String(s.post.body ?? '')))
-  .map((s: any) => ({ slug: s.post.id, di, label: shortPlaceLabel(postTitleFor(s.post), lang) || s.post.data.place?.name || postTitleFor(s.post) })));
-const bookSet = new Set(bookAhead.map((b: any) => b.slug));
+  .map((s: any) => ({ slug: s.post.id, di })));
+const bookSet = new Set(bookAll.map((b: any) => b.slug));
 const hasRain = days.some((day: any) => day.rainPost);
 const mosaic = allStopPosts
   .filter((p: any) => p.data.heroImage?.url && p.data.heroImage.license !== 'placeholder')
@@ -394,7 +404,6 @@ const coverImage = mosaic[0]?.src;
         data-t-closed-warning={t('itin.closedOnArrival')}
         data-t-closed-warning-no-swap={t('itin.closedOnArrivalNoSwap')}
         data-t-long-walk={t('itin.longWalkAdvisory')}
-        data-t-save-heading={t('itin.savePlanHeading')}
       >
         <div class="ith-bar-row">
           <label class="ith-arrival" for="itin-arrival">
@@ -593,7 +602,7 @@ const coverImage = mosaic[0]?.src;
           )}
           <div class="itin-day-actions">
             {dayRouteUrl(day.stops.map((s: any) => s.post)) && (
-              <a class="itin-day-route" href={dayRouteUrl(day.stops.map((s: any) => s.post))!} target="_blank" rel="noopener">
+              <a class="itin-day-route" data-day-route href={dayRouteUrl(day.stops.map((s: any) => s.post))!} target="_blank" rel="noopener">
                 <Emoji name="round-pushpin" /> {t('itin.dayRoute').replace('{n}', String(di + 1))}
               </a>
             )}
@@ -637,13 +646,13 @@ const coverImage = mosaic[0]?.src;
     </div>{/* .ith-main */}
 
     <aside class="ith-side" id="itin-side" aria-label={u('sideTitle')}>
-      {bookAhead.length > 0 && (
+      {bookAll.length > 0 && (
         <section class="ith-card ith-book" data-itin-book>
           <strong class="ith-card-title">{u('bookTitle')}</strong>
           <p class="ith-card-dek">{u('bookDek')}</p>
           <ul>
-            {bookAhead.map((b: any) => (
-              <li>
+            {bookAll.map((b: any) => (
+              <li data-book-day={b.di} data-book-slug={b.slug}>
                 <label>
                   <input type="checkbox" data-book={b.slug} />
                   <span class="ith-book-box" aria-hidden="true"></span>
@@ -665,7 +674,7 @@ const coverImage = mosaic[0]?.src;
       <div class="ith-side-actions">
         <SaveButton slug={`itinerary-${itinerary.id}`} title={title} region={regionLabel} country={countryLabel} href={Astro.url.pathname} image={coverImage} lang={lang} compact />
       </div>
-      <div class="itin-share"><ShareRow url={Astro.url.toString()} title={title} lang={lang} /></div>
+      <div class="itin-share"><ShareRow url={Astro.url.toString()} title={title} lang={lang} live /></div>
     </aside>
     </div>{/* .ith-layout */}
 
@@ -801,9 +810,20 @@ const coverImage = mosaic[0]?.src;
       const boxes = [...bookBox.querySelectorAll<HTMLInputElement>('input[data-book]')];
       const count = bookBox.querySelector<HTMLElement>('[data-book-count-text]');
       const paint = () => {
-        const done = boxes.filter((b) => b.checked).length;
-        if (count) count.textContent = (P.bookCount || '').replace('{d}', String(done)).replace('{n}', String(boxes.length));
+        // Only what the chosen pace shows: an item follows its stop (Codex D6).
+        const days = document.querySelectorAll<HTMLElement>('.itin-day');
+        const shown = boxes.filter((b) => {
+          const li = b.closest<HTMLElement>('li[data-book-day]');
+          const day = li ? days[Number(li.dataset.bookDay)] : null;
+          const stop = day?.querySelector<HTMLElement>(`.itin-stop[data-slug="${CSS.escape(li!.dataset.bookSlug || '')}"]`);
+          const on = !stop || !stop.hidden;
+          if (li) li.hidden = !on;
+          return on;
+        });
+        const done = shown.filter((b) => b.checked).length;
+        if (count) count.textContent = (P.bookCount || '').replace('{d}', String(done)).replace('{n}', String(shown.length));
       };
+      form.addEventListener('change', () => setTimeout(paint, 0));
       for (const b of boxes) {
         b.checked = saved.includes(b.dataset.book!);
         b.addEventListener('change', () => {
@@ -811,7 +831,8 @@ const coverImage = mosaic[0]?.src;
           paint();
         });
       }
-      paint();
+      // After the filter script has applied the pace from the link or form.
+      setTimeout(paint, 0);
     }
 
   }
@@ -1079,7 +1100,6 @@ const coverImage = mosaic[0]?.src;
     const tClosedWarning = form.dataset.tClosedWarning || '';
     const tClosedWarningNoSwap = form.dataset.tClosedWarningNoSwap || '';
     const tLongWalk = form.dataset.tLongWalk || '';
-    const tSaveHeading = form.dataset.tSaveHeading || '';
     const tripTitle = form.dataset.tripTitle || document.title;
     const pageUrl = form.dataset.pageUrl || location.href.split('#')[0];
 
@@ -1144,6 +1164,9 @@ const coverImage = mosaic[0]?.src;
       const visIdx: number[] = [];
       stops.forEach((el, i) => { if (!el.hidden) visIdx.push(i); });
       const effective = new Map<number, Leg | null>();
+      // Start from nothing shown: the relaxed pace left the rows between two
+      // hidden stops on the page, a walk to nowhere (Codex D5, 10-01).
+      legs.forEach((l) => { if (l) l.hidden = true; });
 
       for (let k = 0; k < visIdx.length; k++) {
         const i = visIdx[k];
@@ -1276,10 +1299,10 @@ const coverImage = mosaic[0]?.src;
       if (d) { const a = form!.querySelector('input[name=arrival]') as HTMLInputElement | null; if (a) a.value = d; }
     }
 
-    // ---- IKEA-effect save-plan hint: un-hides + relabels the newsletter
-    // heading after the first real filter interaction. No popup — just an
-    // affordance link the reader can click to scrollIntoView the block
-    // that's already on the page. ----
+    // ---- IKEA-effect save-plan hint: un-hides after the first real filter
+    // interaction. No popup — just an affordance link to the "email me this
+    // itinerary" box after Day 1. It pointed at #newsletter, a block this
+    // page dropped on 08-23, so the link went nowhere (Codex D10, 10-01). ----
     const saveHint = document.querySelector('[data-itin-save-hint]') as HTMLElement | null;
     const saveLink = document.querySelector('[data-itin-save-link]') as HTMLAnchorElement | null;
     let interacted = false;
@@ -1287,12 +1310,12 @@ const coverImage = mosaic[0]?.src;
       if (interacted) return;
       interacted = true;
       if (saveHint) saveHint.hidden = false;
-      const heading = document.querySelector('#newsletter h2');
-      if (heading && tSaveHeading) heading.textContent = tSaveHeading;
     }
     saveLink?.addEventListener('click', (e) => {
       e.preventDefault();
-      document.getElementById('newsletter')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      const slot = document.getElementById('itin-email-slot');
+      slot?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      (slot?.querySelector('input[type=email]') as HTMLInputElement | null)?.focus({ preventScroll: true });
     });
 
     // ---- Main apply: pace visibility + leg recompute, interests dim/highlight,
@@ -1310,7 +1333,9 @@ const coverImage = mosaic[0]?.src;
         const listEl = daySection.querySelector('.itin-stops');
         if (!listEl) return;
         const stops = Array.from(listEl.querySelectorAll(':scope > .itin-stop')) as HTMLElement[];
-        const legs = Array.from(listEl.querySelectorAll(':scope > .itin-leg')) as HTMLElement[];
+        // legs[i] is the row after stops[i] (or undefined). A stop without a
+        // walk figure renders no row, so a plain list of rows would misalign.
+        const legs = stops.map((s) => (s.nextElementSibling?.classList.contains('itin-leg') ? s.nextElementSibling : undefined)) as HTMLElement[];
 
         // Pace: relaxed hides priority>3, normal >4, packed shows all.
         stops.forEach((stopEl) => {
@@ -1327,6 +1352,18 @@ const coverImage = mosaic[0]?.src;
         });
 
         const effectiveLegs = updateDayLegs(stops, legs);
+
+        // The day's map follows the pace too: it routed through every stop,
+        // the hidden ones included (Codex D6, 10-01).
+        const routeEl = daySection.querySelector('[data-day-route]') as HTMLAnchorElement | null;
+        if (routeEl) {
+          const pts = stops.filter((s) => !s.hidden).map((s) => `${s.dataset.lat},${s.dataset.lng}`);
+          routeEl.hidden = pts.length < 2;
+          if (pts.length >= 2) {
+            const mids = pts.slice(1, -1).join('|');
+            routeEl.href = `https://www.google.com/maps/dir/?api=1&origin=${pts[0]}&destination=${pts[pts.length - 1]}${mids ? `&waypoints=${encodeURIComponent(mids)}` : ''}`;
+          }
+        }
 
         // Party: family/seniors get a long-walk advisory on the CURRENT stop
         // when its effective (possibly recomputed) outgoing leg is a real,
@@ -1391,5 +1428,19 @@ const coverImage = mosaic[0]?.src;
 
     applyHash();
     applyFilters();
+
+    // A shared link opened in a tab already on this page changes only the
+    // hash, and the browser does not reload: start from the defaults and
+    // apply the new choices (Codex D9, 10-01). Our own replaceState does not
+    // fire this.
+    addEventListener('hashchange', () => {
+      // Only a plan link ("#p=…&d=…") resets the form; the day tabs and other
+      // in-page anchors ("#day-2") are just a place to scroll to (Codex, 10-01).
+      if (!/[#&](?:p|pa|i|d)=/.test(location.hash)) return;
+      form!.reset();
+      applyHash();
+      applyFilters();
+      form!.dispatchEvent(new Event('change', { bubbles: true }));
+    });
   }
 </script>

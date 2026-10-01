@@ -44,6 +44,9 @@ for (const it of itineraries) {
     title: tr?.title ?? it.data.title,
     dayLabels: it.data.itinerary.map((d, i) => tr?.days?.[i]?.label ?? d.label),
     stopCount: stops.length, stops,
+    // Per course, so "3 days + art" finds a 3-day course that has art, not a
+    // city whose 5-day course does (Codex D7, 10-01).
+    cats: topCats(stops, 5),
   };
   const key = `${it.data.country}|${it.data.city}`;
   const c = cityMap.get(key) ?? { city: it.data.city, country: it.data.country, courses: [] as any[] };
@@ -75,10 +78,10 @@ const cities = [...cityMap.values()].map((c) => {
 
 const courseCount = itineraries.length;
 const dayOptions = [...new Set(itineraries.map((i) => i.data.days))].sort((a, b) => a - b);
-const regionOptions = (['asia', 'europe', 'meca', 'amoc'] as HubRegion[]).filter((r) => cities.some((c) => c.region === r));
+const regionOptions = (['asia', 'europe', 'meca', 'africa', 'amoc'] as HubRegion[]).filter((r) => cities.some((c) => c.region === r));
 const catOptions = HUB_CATS.filter((k) => cities.some((c) => c.cats.includes(k)));
 const CAT_LABEL: Record<HubCat, string> = { history: u('catHistory'), food: u('catFood'), nature: u('catNature'), views: u('catViews'), art: u('catArt') };
-const REGION_LABEL: Record<HubRegion, string> = { asia: u('rAsia'), europe: u('rEurope'), meca: u('rMeca'), amoc: u('rAmOc') };
+const REGION_LABEL: Record<HubRegion, string> = { asia: u('rAsia'), europe: u('rEurope'), meca: u('rMeca'), africa: u('rAfrica'), amoc: u('rAmOc') };
 const daysText = dayOptions.join('·');
 
 // ── good this month: countries whose essentials guide lists this month among
@@ -246,7 +249,7 @@ const features = [
                   </div>
                 )}
                 {c.courses.map((x: any, i: number) => (
-                  <div class="ixh-course" data-course={x.days} hidden={i !== 0}>
+                  <div class="ixh-course" data-course={x.days} data-course-cats={x.cats.join(',')} hidden={i !== 0}>
                     <h3><a href={x.href}>{x.title}</a></h3>
                     <ol>{x.dayLabels.slice(0, 5).map((l: string) => <li>{l}</li>)}</ol>
                     <p class="ixh-card-foot"><span>{u('routeDone', { n: x.stopCount })}</span><a class="ixh-btn" href={x.href}>{u('viewCourse')}</a></p>
@@ -297,13 +300,14 @@ const features = [
       const cats = fd.getAll('cat').map(String);
       let courses = 0;
       for (const card of cards) {
-        const cardDays = (card.dataset.days || '').split(',');
-        const on = (!days || cardDays.includes(days)) && (!region || card.dataset.region === region)
-          && (!cats.length || cats.some((k) => (card.dataset.cats || '').split(',').includes(k)));
+        // One course has to meet the length and the interests together.
+        const fits = [...card.querySelectorAll<HTMLElement>('[data-course]')].filter((c) => (!days || c.dataset.course === days)
+          && (!cats.length || cats.some((k) => (c.dataset.courseCats || '').split(',').includes(k))));
+        const on = fits.length > 0 && (!region || card.dataset.region === region);
         card.hidden = !on;
         if (on) {
-          courses += days ? 1 : cardDays.length;
-          showCourse(card, days && cardDays.includes(days) ? days : cardDays[0]);
+          courses += fits.length;
+          showCourse(card, fits[0].dataset.course!);
         }
       }
       go.textContent = (root.dataset.fshow || '').replace('{n}', String(courses));

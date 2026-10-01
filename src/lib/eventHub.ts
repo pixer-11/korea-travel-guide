@@ -2,6 +2,7 @@
 // so the numbers and the picks cannot drift between them. Pure: posts in,
 // values out; the components only render. Redesign 2026-09-30.
 import { eventCategory } from './eventCategory.mjs';
+import { venueTimeZone } from './venue-tz.mjs';
 
 // Event dates are date-only, stored as UTC midnight: the UTC day number IS
 // the event's day.
@@ -73,14 +74,25 @@ export function firstSentences(text: string, max = 150) {
 }
 
 /** Country hubs worth linking: ≥2 events (the hub's own build rule), most upcoming first. */
-export function countryLinksOf(all: any[], upcoming: any[], countries: { name: string; slug: string; iso2: string }[]) {
+export function countryLinksOf(all: any[], upcoming: any[], countries: { name: string; slug: string; iso2: string }[], today?: Date) {
   const bySlug = new Map(countries.map((c) => [c.name, c]));
   const total = new Map<string, number>();
   for (const p of all) { const n = p.data.country ?? 'South Korea'; total.set(n, (total.get(n) ?? 0) + 1); }
   const up = new Map<string, number>();
   for (const p of upcoming) { const n = p.data.country ?? 'South Korea'; up.set(n, (up.get(n) ?? 0) + 1); }
+  // The last days, each with its venue's zone ("2026-10-04~Asia/Seoul"), so
+  // the page can recount by the venue's date (lib/evDay, Codex C8 10-01). The
+  // archive's newest day rides along: by the venue's date it may still be on.
+  const yesterday = today ? todayNumOf(today) - 1 : Infinity;
+  const ev = new Map<string, string[]>();
+  for (const p of all) {
+    if (!upcoming.includes(p) && !(endN(p) >= yesterday)) continue;
+    const n = p.data.country ?? 'South Korea';
+    const iso = p.data.eventEndDate ? new Date(p.data.eventEndDate).toISOString().slice(0, 10) : '';
+    ev.set(n, [...(ev.get(n) ?? []), `${iso}~${venueTimeZone(n, p.data.region) ?? ''}`]);
+  }
   return [...total.entries()]
     .filter(([name, n]) => n >= 2 && bySlug.has(name))
-    .map(([name]) => ({ name, slug: bySlug.get(name)!.slug, flag: bySlug.get(name)!.iso2, up: up.get(name) ?? 0 }))
+    .map(([name]) => ({ name, slug: bySlug.get(name)!.slug, flag: bySlug.get(name)!.iso2, up: up.get(name) ?? 0, ev: (ev.get(name) ?? []).join(',') }))
     .sort((a, b) => b.up - a.up || a.name.localeCompare(b.name));
 }

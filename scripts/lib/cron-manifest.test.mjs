@@ -53,6 +53,7 @@ const KNOWN_UNGUARDED_DAILY = new Set([
   'newsletter-report.yml',   // same
   'visual-audit.yml',        // same, plus its own commit guard
   'smoke.yml',               // alerts on its own failure
+  'live-checks.yml',         // same as smoke; two slots a day cover each other, no state
 ]);
 
 test('no NEW unguarded daily cron appears without a decision', () => {
