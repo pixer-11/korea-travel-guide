@@ -16,7 +16,7 @@ import Anthropic from '@anthropic-ai/sdk';
 import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { sendTelegram } from './lib/telegram.mjs';
 
-const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY, maxRetries: 6 });
 const MODEL = process.env.WRITER_MODEL || 'claude-sonnet-5';
 
 // ── GSC (same JWT flow as gsc-report.mjs, read-only) ─────────

@@ -33,7 +33,7 @@ if (!FILE) { console.error('usage: node scripts/retitle-post.mjs --file=retitles
 if (!process.env.ANTHROPIC_API_KEY) { console.error('ANTHROPIC_API_KEY missing'); process.exit(1); }
 const MODEL = process.env.TRANSLATE_MODEL || 'claude-sonnet-5';
 const LANGS = { ko: 'Korean', ja: 'Japanese', es: 'Spanish', zh: 'Simplified Chinese' };
-const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY, maxRetries: 6 });
 
 const TOOL = {
   name: 'submit_fields',

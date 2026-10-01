@@ -103,7 +103,7 @@ JSON
 ${JSON.stringify(json, null, 2)}`;
 }
 
-const client = DRY && !process.env.ANTHROPIC_API_KEY ? null : new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+const client = DRY && !process.env.ANTHROPIC_API_KEY ? null : new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY, maxRetries: 6 });
 
 async function callTool(tool, content, maxTokens) {
   const msg = await client.messages.create({

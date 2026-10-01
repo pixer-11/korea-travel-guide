@@ -80,7 +80,7 @@ const NAMED_IDS = namedIds(ONLY);
 const wanted = (lang, id) =>
   !ONLY.length || onlySlugs.has(id) || onlyPairs.has(`${lang}/${id}`);
 
-const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY, maxRetries: 6 });
 
 // The stored srcHash of an existing translation file, or null (legacy file
 // from before hash tracking, or unreadable). Legacy files are treated as

@@ -38,7 +38,7 @@ const FORCE = process.argv.includes('--force');
 // text with no warning. Change the TOOL schema and this list together.
 const HASH_FIELDS = ['title', 'description'];
 
-const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY, maxRetries: 6 });
 
 const TOOL = {
   name: 'submit_translation',

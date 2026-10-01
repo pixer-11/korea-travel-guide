@@ -34,7 +34,7 @@ const LIMIT = (() => {
 })();
 
 if (!DRY && !process.env.ANTHROPIC_API_KEY) { console.error('ANTHROPIC_API_KEY missing'); process.exit(1); }
-const client = new Anthropic();
+const client = new Anthropic({ maxRetries: 6 });
 
 const TOOL = {
   name: 'repaired',

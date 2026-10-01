@@ -35,7 +35,7 @@ const MIN_RATIO = Number(process.env.MIN_RATIO || 1.6);
 const ONLY = new Set((process.argv[2] || '').split(',').map((s) => s.trim()).filter(Boolean));
 const UA = 'WanderAtlasBot/1.0 (https://wanderatlasguides.com; hero-focus)';
 if (!process.env.ANTHROPIC_API_KEY) { console.error('ANTHROPIC_API_KEY missing — refusing to guess a head box'); process.exit(1); }
-const client = new Anthropic();
+const client = new Anthropic({ maxRetries: 6 });
 const state = existsSync(STATE) ? JSON.parse(await readFile(STATE, 'utf8')) : {};
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 

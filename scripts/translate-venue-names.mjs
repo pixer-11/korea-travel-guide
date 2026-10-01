@@ -113,7 +113,7 @@ Rules:
 VENUES (name — city for disambiguation):
 ${batch.map((v) => `${v.name} — ${v.region}`).join('\n')}`;
 
-const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY, maxRetries: 6 });
 
 async function translateBatch(batch) {
   const msg = await client.messages.create({

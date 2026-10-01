@@ -46,7 +46,7 @@ const POSTS_DIR = join(ROOT, 'src', 'content', 'posts');
 const COUNTRIES_FILE = join(ROOT, 'data', 'countries.json');
 const PUBLISHED_FILE = join(ROOT, 'data', 'published.json');
 
-const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY, maxRetries: 6 });
 const MODEL = process.env.WRITER_MODEL || 'claude-sonnet-5';
 // How many candidates one search may return. Raising it costs nothing per run.
 const MAX_CANDIDATES = Number(process.env.MAX_CANDIDATES ?? 8);
@@ -464,22 +464,40 @@ async function main() {
   console.log(`\n📡  Discovering events + hotspots — ${active.map((c) => c.name).join(', ')}\n`);
   let total = 0;
 
+  // One failure costs one item, not the run. 2026-10-01: after 30 minutes of
+  // writing events, one 529 Overloaded threw out of here, the job failed, the
+  // commit step was skipped and every event already written was lost. Now an
+  // item or a country that fails is logged and skipped; the run fails only if
+  // something failed and nothing was published (an outage still alerts).
+  const failures = [];
+  const attempt = async (what, fn, fallback) => {
+    try { return await fn(); } catch (e) {
+      const why = `${e?.status ?? ''} ${String(e?.message ?? e).slice(0, 160)}`.trim();
+      failures.push(`${what}: ${why}`);
+      console.log(`    ⚠️ ${what} failed — skipped (${why})`);
+      return fallback;
+    }
+  };
   for (const c of active) {
     const ctx = { country: c.name, existing, done, existingTopics, usedImages, eventAnchors };
     let ev = 0, hs = 0;
-    for (const item of await discoverEvents(c.name)) {
+    for (const item of await attempt(`${c.name} event discovery`, () => discoverEvents(c.name), [])) {
       if (ev >= EVENTS_PER_COUNTRY) break;
-      if (await writeDiscovered(item, { ...ctx, kind: 'event' })) { ev++; total++; }
+      if (await attempt(`${c.name} event "${item?.name ?? '?'}"`, () => writeDiscovered(item, { ...ctx, kind: 'event' }), false)) { ev++; total++; }
     }
-    for (const item of await discoverHotspots(c.name)) {
+    for (const item of await attempt(`${c.name} hotspot discovery`, () => discoverHotspots(c.name), [])) {
       if (hs >= HOTSPOTS_PER_COUNTRY) break;
-      if (await writeDiscovered(item, { ...ctx, kind: 'hotspot' })) { hs++; total++; }
+      if (await attempt(`${c.name} hotspot "${item?.name ?? '?'}"`, () => writeDiscovered(item, { ...ctx, kind: 'hotspot' }), false)) { hs++; total++; }
     }
     console.log(`  ${c.flag} ${c.name}: ${ev} event(s), ${hs} hotspot(s)`);
   }
 
   await writeFile(PUBLISHED_FILE, JSON.stringify({ done: [...done] }, null, 2) + '\n', 'utf8');
   console.log(`\n📦  ${total} post(s) published.\n`);
+  if (failures.length) {
+    console.log(`⚠️  ${failures.length} item(s) failed and were skipped:\n${failures.map((f) => `   - ${f}`).join('\n')}\n`);
+    if (!total) throw new Error(`every attempt failed (${failures.length}) — nothing published`);
+  }
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });

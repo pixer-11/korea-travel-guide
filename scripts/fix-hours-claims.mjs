@@ -41,7 +41,7 @@ const flagged = auditOut
 if (!flagged.length) { console.log('nothing to fix'); process.exit(0); }
 console.log(`${flagged.length} post(s) to correct\n`);
 
-const client = new Anthropic();
+const client = new Anthropic({ maxRetries: 6 });
 let fixed = 0, failed = 0;
 
 for (const f of flagged) {

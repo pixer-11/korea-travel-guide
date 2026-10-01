@@ -37,7 +37,7 @@ const STATE = join(ROOT, 'data', 'hero-focus.json');
 const DRY = process.env.DRY === '1';
 const LIMIT = Number(process.env.FOCUS_LIMIT || 0) || Infinity;
 const UA = 'WanderAtlasBot/1.0 (https://wanderatlasguides.com; hero-focus)';
-const client = process.env.ANTHROPIC_API_KEY ? new Anthropic() : null;
+const client = process.env.ANTHROPIC_API_KEY ? new Anthropic({ maxRetries: 6 }) : null;
 
 const state = existsSync(STATE) ? JSON.parse(await readFile(STATE, 'utf8')) : {};
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));

@@ -50,7 +50,7 @@ const DRY = process.argv.includes('--dry');
 // and this list together.
 const HASH_FIELDS = ['metaTitle', 'metaDescription', 'eyebrow', 'h1', 'lastUpdated'];
 
-const client = DRY ? null : new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+const client = DRY ? null : new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY, maxRetries: 6 });
 
 const TOOL = {
   name: 'submit_translation',

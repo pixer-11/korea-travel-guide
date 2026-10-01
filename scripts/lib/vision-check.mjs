@@ -36,7 +36,7 @@ export const WATERMARK_RULE =
 export const HERO_PROMPT_RULES = `${WATERMARK_RULE}\n`;
 export const AUDIT_PROMPT_RULES = `${WATERMARK_RULE}\nAnswer MISMATCH for such a stamped photo.\n`;
 
-const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY, maxRetries: 6 });
 const MODEL = process.env.VISION_MODEL || 'claude-sonnet-5';
 
 // Anthropic's own URL fetcher is refused by Wikimedia (and can hit >5MB

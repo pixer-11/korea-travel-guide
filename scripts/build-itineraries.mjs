@@ -105,7 +105,7 @@ const ONLY_DAYS = arg('days') ? Number(arg('days')) : null;
 const FORCE_NEW_CITY = process.argv.includes('--force-new-city');
 const FORCE = process.argv.includes('--force');
 
-const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY, maxRetries: 6 });
 
 // ── load posts (same frontmatter/body split as translate-posts.mjs) ─────────
 async function loadPosts() {

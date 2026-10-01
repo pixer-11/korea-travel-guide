@@ -224,7 +224,7 @@ const shapeFor = (title) => {
 };
 
 export async function writeArticle({ apiKey, title, region, country, category, facts }) {
-  const client = new Anthropic({ apiKey: apiKey || process.env.ANTHROPIC_API_KEY });
+  const client = new Anthropic({ apiKey: apiKey || process.env.ANTHROPIC_API_KEY, maxRetries: 6 });
 
   const userPrompt = `Write a guide titled: "${title}"
 Destination: ${region}${country ? `, ${country}` : ''}

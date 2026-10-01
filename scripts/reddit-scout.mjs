@@ -101,7 +101,7 @@ console.log(`${candidates.length} fresh question post(s) across ${SUBS.length} s
 if (!candidates.length) process.exit(0);
 
 // ── 2) draft answers for the best few ────────────────────────
-const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY, maxRetries: 6 });
 // Round-robin across subreddits before the cut. Candidates arrive in SUBS
 // order and r/JapanTravel(+Tips) alone fills the first eight most days, so
 // every card was Japanese while koreatravel/ThailandTourism posts sat right

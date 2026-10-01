@@ -28,7 +28,7 @@ const MODEL = process.env.TRANSLATE_MODEL || 'claude-sonnet-5';
 const FORCE = process.argv.includes('--force');
 
 if (!process.env.ANTHROPIC_API_KEY) { console.error('ANTHROPIC_API_KEY missing'); process.exit(1); }
-const client = new Anthropic();
+const client = new Anthropic({ maxRetries: 6 });
 
 const facts = JSON.parse(await readFile(FACTS, 'utf8'));
 const table = existsSync(OUT) ? JSON.parse(await readFile(OUT, 'utf8')) : {};

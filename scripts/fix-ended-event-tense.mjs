@@ -46,7 +46,7 @@ const TODAY = new Date().toISOString().slice(0, 10);
 const MODEL = 'claude-sonnet-5';
 
 
-const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY, maxRetries: 6 });
 if (!process.env.ANTHROPIC_API_KEY) { console.error('ANTHROPIC_API_KEY missing'); process.exit(1); }
 
 async function rewrite(kind, text, title, endedOn, residue = null, invented = null) {

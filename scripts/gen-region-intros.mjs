@@ -23,7 +23,7 @@ import Anthropic from '@anthropic-ai/sdk';
 import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { findToolSpill, stripCitations } from './lib/tool-spill.mjs';
 
-const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY, maxRetries: 6 });
 const MODEL = process.env.WRITER_MODEL || 'claude-sonnet-5';
 const JSON_PATH = 'src/i18n/regions.json';
 const DRY = process.env.DRY === '1';

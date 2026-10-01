@@ -58,7 +58,7 @@ RULES
 PLACES
 ${names.map((n) => `- ${n}`).join('\n')}`;
 
-const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY, maxRetries: 6 });
 
 // ── collect every place name in use ──────────────────────────
 const names = new Set();

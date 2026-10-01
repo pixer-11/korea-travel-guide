@@ -26,7 +26,7 @@ const LANGS = { ko: 'Korean', ja: 'Japanese', es: 'Spanish', zh: 'Simplified Chi
 const FORCE = process.argv.includes('--force');
 const MODEL = process.env.TRANSLATE_MODEL || 'claude-sonnet-5';
 
-const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY, maxRetries: 6 });
 
 const TOOL = {
   name: 'submit_names',

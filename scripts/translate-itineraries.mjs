@@ -46,7 +46,7 @@ const FORCE = process.argv.includes('--force');
 const SOURCE_DIR = arg('source-dir') ? resolve(process.cwd(), arg('source-dir')) : DEFAULT_SOURCE_DIR;
 const OUT_DIR = arg('out-dir') ? resolve(process.cwd(), arg('out-dir')) : DEFAULT_OUT_DIR;
 
-const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY, maxRetries: 6 });
 
 function parseFrontmatter(raw) {
   const end = raw.indexOf('\n---', 3);

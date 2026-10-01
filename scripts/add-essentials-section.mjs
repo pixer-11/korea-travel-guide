@@ -30,7 +30,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
 const DIR = join(ROOT, 'src', 'content', 'essentials');
 const COUNTRIES_FILE = join(ROOT, 'data', 'countries.json');
-const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY, maxRetries: 6 });
 const MODEL = process.env.WRITER_MODEL || 'claude-sonnet-5';
 const DRY = process.env.DRY === '1';
 const FORCE = process.env.FORCE === '1';

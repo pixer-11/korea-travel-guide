@@ -28,7 +28,7 @@ const ROOT = join(__dirname, '..');
 const OUT_DIR = join(ROOT, 'src', 'content', 'essentials');
 const COUNTRIES_FILE = join(ROOT, 'data', 'countries.json');
 
-const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY, maxRetries: 6 });
 const MODEL = process.env.WRITER_MODEL || 'claude-sonnet-5';
 const REFRESH_DAYS = Number(process.env.REFRESH_DAYS ?? 25);
 const FORCE = process.env.FORCE === '1';

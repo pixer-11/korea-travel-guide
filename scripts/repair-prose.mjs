@@ -40,7 +40,7 @@ const LIMIT = (() => {
 const MODEL = 'claude-sonnet-5';
 
 if (!process.env.ANTHROPIC_API_KEY) { console.error('ANTHROPIC_API_KEY missing'); process.exit(1); }
-const client = new Anthropic();
+const client = new Anthropic({ maxRetries: 6 });
 
 // What each finding type means, in the model's terms. Kept explicit so a repair
 // cannot drift into "rewrite the article".

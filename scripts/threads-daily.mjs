@@ -145,7 +145,7 @@ const { title, country, region, description } = post.fm;
 console.log(`post: ${post.slug}`);
 
 // -------- write snippets (grounded in the post only) --------
-const client = new Anthropic();
+const client = new Anthropic({ maxRetries: 6 });
 const prompt = `You write Threads (Meta) posts for Wander Atlas, a travel guide site.
 Below is one published article. Write EXACTLY 3 alternative Threads post options in ENGLISH, using ONLY facts that appear in the article — never invent names, numbers, times, or claims.
 

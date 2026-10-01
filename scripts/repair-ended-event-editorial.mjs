@@ -49,7 +49,7 @@ const TODAY = new Date().toISOString().slice(0, 10);
 const MODEL = process.env.MODEL || 'claude-opus-5';
 
 if (!process.env.ANTHROPIC_API_KEY) { console.error('ANTHROPIC_API_KEY missing'); process.exit(1); }
-const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY, maxRetries: 6 });
 
 // The validator's reading of a date field: YAML hands back a Date for an
 // unquoted 2026-08-15, and String(date) is never < TODAY.

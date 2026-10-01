@@ -24,7 +24,7 @@ import Anthropic from '@anthropic-ai/sdk';
 import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { eventSchemaName } from '../src/lib/eventName.mjs';
 
-const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY, maxRetries: 6 });
 const MODEL = process.env.WRITER_MODEL || 'claude-sonnet-5';
 const POSTS = 'src/content/posts';
 const DRY = process.env.DRY === '1';

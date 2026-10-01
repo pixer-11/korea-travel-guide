@@ -11,7 +11,7 @@ import Anthropic from '@anthropic-ai/sdk';
 import './claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 
 export const LANGS = { ko: '한국어', ja: '日本語', es: 'español', zh: '中文' };
-const client = new Anthropic();
+const client = new Anthropic({ maxRetries: 6 });
 
 // The model thinks before it answers, and thinking tokens are drawn from the
 // SAME max_tokens budget as the reply. Born with 600, this judge spent the
