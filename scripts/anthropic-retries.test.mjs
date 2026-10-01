@@ -17,8 +17,14 @@ test('every new Anthropic(...) in scripts sets maxRetries', () => {
     const dir = new URL(d, import.meta.url);
     for (const f of readdirSync(dir).filter((x) => x.endsWith('.mjs') && !x.endsWith('.test.mjs'))) {
       const src = readFileSync(new URL(f, dir), 'utf8');
-      for (const m of src.matchAll(/new Anthropic\(([^)]*)\)/g)) {
-        if (!/maxRetries\s*:/.test(m[1])) missing.push(`${d}${f}: ${m[0]}`);
+      // Read the arguments up to the BALANCED closing parenthesis: a regex that
+      // stopped at the first ")" failed `new Anthropic({ apiKey: readKey(),
+      // maxRetries: 6 })` (Codex review, 10-01).
+      for (const m of src.matchAll(/new Anthropic\(/g)) {
+        let depth = 1, i = m.index + m[0].length;
+        while (i < src.length && depth) { if (src[i] === '(') depth++; else if (src[i] === ')') depth--; i++; }
+        const args = src.slice(m.index + m[0].length, i - 1);
+        if (!/maxRetries\s*:/.test(args)) missing.push(`${d}${f}: new Anthropic(${args.slice(0, 60)})`);
       }
     }
   }

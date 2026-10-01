@@ -18,6 +18,12 @@ export const monthKeyUTC = (d: Date) => `${d.getUTCFullYear()}-${String(d.getUTC
 /** The first day of the month after `d` (UTC). */
 export const nextMonthUTC = (d: Date) => new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth() + 1, 1));
 
+/** The last day of the month before `d` (UTC). A build just past midnight UTC
+ *  on the 1st is still the previous month for every reader west of UTC (Los
+ *  Angeles at 17:00 on the 30th), so components render that month too (Codex
+ *  review, 10-01). */
+export const prevMonthUTC = (d: Date) => new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), 0));
+
 /** Show, in every group, the variant for the reader's month — when the group has one. */
 export function showReaderMonth(root: ParentNode = document) {
   const n = new Date();

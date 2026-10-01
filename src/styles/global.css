@@ -1959,3 +1959,5 @@ main:focus { outline: none; }
   .nav[data-level="ess"] .nav-back, .nav[data-level="tools"] .nav-back { display: inline-flex; }
   .nav-dd-menu .nav-dd-ico { margin-right: .35rem; }
 }
+/* Home cover: the fallback "Featured" link the script hides (10-01). */
+[data-feat-fallback][hidden] { display: none !important; }

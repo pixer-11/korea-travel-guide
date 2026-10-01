@@ -19,13 +19,17 @@ import esimFacts from '../../../../data/esim-facts.json';
 // suggests nearby places and points at the course holding what was saved.
 // A new guide appears here on the next build; nothing is kept by hand.
 //
+// Events with a venue are in too: the Save button saves them, so a shared
+// link must be able to restore them (Codex review, 10-01); /my-trip keeps
+// them out of its nearby picks and start grid.
+//
 // Per country, not per city: one file per city was 1,271 files, and the
 // deploy hit Cloudflare's 20,000-files-per-version limit (20,105, c0f56ff04).
 // Per country it is ~110.
 const LANGS: Lang[] = ['en', 'ko', 'ja', 'es', 'zh'];
 
 const placePosts = async () =>
-  (await getCollection('posts', ({ data }) => !data.draft && data.category !== 'event' && !!data.place && data.place.lat != null));
+  (await getCollection('posts', ({ data }) => !data.draft && !!data.place && data.place.lat != null));
 const countrySlug = (name: string) => countriesData.countries.find((c) => c.name === name)?.slug ?? '';
 
 export async function getStaticPaths() {

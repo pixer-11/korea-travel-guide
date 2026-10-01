@@ -89,7 +89,14 @@ const rows = guides.map((g) => {
   // months falls back to all its rows (Japan's are nationwide seasons).
   const sRows: any[] = F.season?.rows ?? [];
   const sEn: any[] = E?.season?.rows ?? [];
-  const national = sRows.filter((_: any, i: number) => /whole country|overall|nationwide|entire country/i.test(String(sEn[i]?.label ?? '')));
+  // A row speaks for the whole country when it is named for it ("Whole
+  // country") or for a season ("Winter", "Dry season"); shoulder, regional and
+  // activity rows do not. Matching only "whole country" dropped Hong Kong's
+  // Winter row (January best) and Indonesia's Dry season row (busy December)
+  // — Codex review, 10-01 — while still keeping out Ladakh, Nuratau and the
+  // Philippines' and the UAE's shoulder months.
+  const NATIONWIDE = /^(whole country|nationwide|entire country|.*\boverall|spring|summer|autumn|fall|winter|((cool|hot|dry|wet|rainy|cool dry|hot dry) )?(dry|wet|rainy|cool|hot|monsoon) season|monsoon)$/i;
+  const national = sRows.filter((_: any, i: number) => NATIONWIDE.test(String(sEn[i]?.label ?? '').trim()));
   const top: number[] = F.season?.best ?? [];
   const useRows = top.length ? national : sRows;
   const best = new Set<number>([...top, ...useRows.flatMap((r: any) => r.best ?? [])]);

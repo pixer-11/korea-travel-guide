@@ -18,7 +18,7 @@ import PostCard from './PostCard.astro';
 import StickyBook from './StickyBook.astro';
 import { hotelUrl } from '../lib/hotel-link.mjs';
 import Emoji from './Emoji.astro';
-import { monthKeyUTC, nextMonthUTC } from '../lib/readerMonth';
+import { monthKeyUTC, nextMonthUTC, prevMonthUTC } from '../lib/readerMonth';
 import { isEventPast } from '../lib/eventStatus';
 import { eventSchemaName } from '../lib/eventName';
 import { eventLocation } from '../lib/eventLocation.mjs';
@@ -194,7 +194,7 @@ const wtgCard = (() => {
   // The build's month and the next: the sidebar shows the reader's
   // (lib/readerMonth — the build still says last month early on the 1st).
   const buildD = new Date();
-  const variants = [buildD, nextMonthUTC(buildD)].map((d) => {
+  const variants = [buildD, prevMonthUTC(buildD), nextMonthUTC(buildD)].map((d) => {
     const mm = d.getUTCMonth() + 1;
     const c = climate.find((x: any) => x.m === mm);
     return c ? { key: monthKeyUTC(d), nowLabel: ps('ps.wtgNow').replace('{month}', monthName(mm)), nowHref: localizePath(`/tools/when-to-go/${countrySlug}/${wtgMonthSlug(mm)}/`, lang), hi: c.hi, lo: c.lo, rain: c.rain } : null;

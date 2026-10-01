@@ -1,5 +1,5 @@
 ---
-import { monthKeyUTC, nextMonthUTC } from '../lib/readerMonth';
+import { monthKeyUTC, nextMonthUTC, prevMonthUTC } from '../lib/readerMonth';
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Newsletter from './Newsletter.astro';
@@ -109,7 +109,7 @@ const picksFor = (mm: number) => {
   }
   return out;
 };
-const monthVariants = [today, nextMonthUTC(today)].map((d, i) => ({
+const monthVariants = [today, prevMonthUTC(today), nextMonthUTC(today)].map((d, i) => ({
   key: monthKeyUTC(d), first: i === 0, picks: picksFor(d.getUTCMonth() + 1),
   name: new Intl.DateTimeFormat(locale, { month: 'long', timeZone: 'UTC' }).format(d),
 }));

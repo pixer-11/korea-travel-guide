@@ -172,7 +172,10 @@ function picksFor(anchor: Date, n = PICKS * 2) {
 }
 const nextMonth = new Date(Date.UTC(nowD.getUTCFullYear(), nowD.getUTCMonth() + 1, 1));
 const monthFmt = new Intl.DateTimeFormat(localeCodes[lang] ?? 'en', { year: 'numeric', month: 'long', timeZone: 'UTC' });
-const monthSets = [nowD, nextMonth].map((d, i) => ({ key: monthKeyOf(d), label: monthFmt.format(d), picks: picksFor(d), current: i === 0 }));
+// The build's month first (shown without JavaScript), then the previous one
+// for readers west of UTC just after the 1st, then the next (Codex review).
+const prevMonth = new Date(Date.UTC(nowD.getUTCFullYear(), nowD.getUTCMonth(), 0));
+const monthSets = [nowD, prevMonth, nextMonth].map((d, i) => ({ key: monthKeyOf(d), label: monthFmt.format(d), picks: picksFor(d), current: i === 0 }));
 // The build's own month, as crawlers and readers without JavaScript see it.
 const monthlyPicks = monthSets[0].picks.slice(0, PICKS);
 const evEndOf = (p: any) => new Date((p.data.eventEndDate ?? p.data.eventStartDate) as any).toISOString().slice(0, 10);
@@ -291,7 +294,7 @@ const fmtEventDates = (p: any) => {
           <a class="cover-cta cover-cta-soft" href={localizePath(`/posts/${sp.id}`, lang)} data-feat-set={m.key} data-ev-end={evEndOf(sp)} hidden={!(m.current && i === 0)}>{t('home.featured')}: {localizePlace(sp.data.region, lang)} <span class="arw">→</span></a>
         )))}
         {!monthlyPicks.length && cover && (
-          <a class="cover-cta cover-cta-soft" href={localizePath(`/posts/${cover.id}`, lang)}>{t('home.featured')}: {localizePlace(cover.data.region, lang)} <span class="arw">→</span></a>
+          <a class="cover-cta cover-cta-soft" data-feat-fallback href={localizePath(`/posts/${cover.id}`, lang)}>{t('home.featured')}: {localizePlace(cover.data.region, lang)} <span class="arw">→</span></a>
         )}
       </div>
       <p class="cover-scale">{t('home.trustBar').replace('{n}', String(live.length))}</p>
@@ -590,6 +593,9 @@ const fmtEventDates = (p: any) => {
         a.hidden = !on;
         if (on) feat = true;
       }
+      // The cover fallback (the build's month had no picks) steps aside when
+      // the reader's month has a live one — both showed at once (Codex review).
+      for (const a of document.querySelectorAll<HTMLElement>('[data-feat-fallback]')) a.hidden = feat;
     }
     const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     if (!reduce && 'IntersectionObserver' in window) {

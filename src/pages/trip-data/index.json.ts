@@ -8,7 +8,7 @@ import countriesData from '../../../data/countries.json';
 // post slug starts with ("barcelona-casa-batllo" → barcelona) and confirms it
 // against that country's file.
 export async function GET() {
-  const posts = await getCollection('posts', ({ data }) => !data.draft && data.category !== 'event' && !!data.place && data.place.lat != null);
+  const posts = await getCollection('posts', ({ data }) => !data.draft && !!data.place && data.place.lat != null);
   const regions: Record<string, string> = {};
   for (const p of posts) {
     const rs = slugifyRegion(p.data.region ?? '');

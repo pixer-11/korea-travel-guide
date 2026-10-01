@@ -203,9 +203,9 @@ const strings = JSON.stringify({ ...(MY_TRIP_STRINGS as any)[lang], count: t('tr
       <p class="sr-only" role="status" aria-live="polite" data-live></p>
     </div>
 
-    <dialog class="mt-dialog" data-addr-dialog>
-      <p class="mt-dialog-name" data-addr-name></p>
-      <p class="mt-dialog-addr" data-addr-text></p>
+    <dialog class="mt-dialog" data-addr-dialog aria-labelledby="mt-addr-name" aria-describedby="mt-addr-text">
+      <p class="mt-dialog-name" id="mt-addr-name" data-addr-name></p>
+      <p class="mt-dialog-addr" id="mt-addr-text" data-addr-text></p>
       <div>
         <button type="button" class="mt-btn mt-btn--dark" data-addr-copy>{m('copy')}</button>
         <button type="button" class="mt-btn" data-addr-close>{m('close')}</button>
@@ -485,8 +485,11 @@ const strings = JSON.stringify({ ...(MY_TRIP_STRINGS as any)[lang], count: t('tr
     let demo: any[] | null = null;
     const readStore = (): any[] => { try { const v = JSON.parse(store.get(KEY) || '[]'); return Array.isArray(v) ? v : []; } catch { return []; } };
     const read = (): any[] => demo ?? readStore();
+    let demoDays = 0;
     const write = (v: any[]) => {
-      if (demo) { demo = v; render(); return; }
+      // An emptied example is over: the first-visit page comes back and its
+      // hearts save for real — not into a hidden empty example (Codex review).
+      if (demo) { demo = v.length ? v : null; demoDays = 0; render(); return; }
       store.set(KEY, JSON.stringify(v));
       window.dispatchEvent(new CustomEvent('wa-trip-change', { detail: { count: v.length } }));
     };
@@ -578,16 +581,23 @@ const strings = JSON.stringify({ ...(MY_TRIP_STRINGS as any)[lang], count: t('tr
     };
 
     // ── Rendering ──
-    const daysCount = (items: any[]) => Math.max(3, Number(store.get(DAYS_KEY)) || 0, ...items.map((i) => Number(i.day) || 0));
+    // Days are whole numbers 0–30: a shared link once carried "1e309" and
+    // the day picker threw building Infinity buttons (Codex review).
+    const MAX_DAY = 30;
+    const cleanDay = (x: unknown) => { const n = Number(x); return Number.isInteger(n) && n >= 0 && n <= MAX_DAY ? n : 0; };
+    const daysCount = (items: any[]) => Math.min(MAX_DAY, Math.max(3, demo ? demoDays : Number(store.get(DAYS_KEY)) || 0, ...items.map((i) => cleanDay(i.day))));
     const mapsTo = (it: any) => `https://www.google.com/maps/dir/?api=1&destination=${Number(it.lat)},${Number(it.lng)}`;
     const route = (list: any[]) => {
       const pts = list.filter((i) => i.lat != null && i.lng != null);
       return pts.length ? 'https://www.google.com/maps/dir/' + pts.map((i) => `${Number(i.lat)},${Number(i.lng)}`).join('/') : '';
     };
+    // Only a site path becomes a link: a stored href is page data, and
+    // "javascript:…" would run on click (Codex review).
+    const safeHref = (h: unknown) => (/^\/(?!\/)[\w\-./%~]*$/.test(String(h ?? '')) ? String(h) : '#');
     const card = (it: any, n: number, now: Date) => {
       const st = statusOf(it, now);
       const quiet = quietOf(it, now);
-      const day = Number(it.day) || 0;
+      const day = cleanDay(it.day);
       const area = [it.region, it.catLabel].filter(Boolean).join(' · ');
       const days = ['<button type="button" data-day-set="0" aria-pressed="' + (day === 0) + '">' + esc(S.dayUnset) + '</button>']
         .concat(Array.from({ length: n }, (_, i) => `<button type="button" data-day-set="${i + 1}" aria-pressed="${day === i + 1}">${esc(f('dayN', { n: i + 1 }))}</button>`)).join('');
@@ -596,7 +606,7 @@ const strings = JSON.stringify({ ...(MY_TRIP_STRINGS as any)[lang], count: t('tr
           <span class="mt-daybadge${day ? '' : ' mt-daybadge--unset'}">${esc(day ? f('dayN', { n: day }) : S.unsetBadge)}</span></div>
         <div class="mt-body">
           ${area ? `<p class="mt-area">${esc(area)}</p>` : ''}
-          <a class="mt-name" href="${esc(it.href || '')}">${esc(it.title)}</a>
+          <a class="mt-name" href="${esc(safeHref(it.href))}">${esc(it.title)}</a>
           ${st.label ? `<span class="mt-status mt-status--${st.kind}" data-st="${esc(it.slug)}"><i class="dot dot--${st.kind === 'soon' ? 'soon' : st.kind === 'open' ? 'open' : 'closed'}"></i>${esc(st.label)}</span>` : ''}
           ${it.rating ? `<p class="mt-rating"><b>★ ${Number(it.rating).toFixed(1)}</b> (${Number(it.reviews || 0).toLocaleString(LANG)})</p>` : ''}
           <div class="mt-tags">
@@ -642,7 +652,7 @@ const strings = JSON.stringify({ ...(MY_TRIP_STRINGS as any)[lang], count: t('tr
       const statuses = items.map((it) => statusOf(it, now));
       const setStat = (k: string, n: number) => { const el = $(`[data-stat="${k}"]`); if (el) el.textContent = f('placesN', { n }); };
       setStat('saved', items.length);
-      setStat('planned', items.filter((i) => Number(i.day) > 0).length);
+      setStat('planned', items.filter((i) => cleanDay(i.day) > 0).length);
       setStat('book', items.filter((i) => i.book).length);
       setStat('quiet', items.filter((i) => i.quiet && (typeof i.quiet === 'string' ? i.quiet : i.quiet.wd || i.quiet.we)).length);
       tick(items, statuses, R, mainItems);
@@ -658,8 +668,8 @@ const strings = JSON.stringify({ ...(MY_TRIP_STRINGS as any)[lang], count: t('tr
       const list = $('[data-list]');
       if (list) {
         if (view === 'days') {
-          const groups = Array.from({ length: n }, (_, d) => ({ d: d + 1, list: shown.filter((it) => Number(it.day) === d + 1) }))
-            .concat([{ d: 0, list: shown.filter((it) => !(Number(it.day) > 0)) }]);
+          const groups = Array.from({ length: n }, (_, d) => ({ d: d + 1, list: shown.filter((it) => cleanDay(it.day) === d + 1) }))
+            .concat([{ d: 0, list: shown.filter((it) => !(cleanDay(it.day) > 0)) }]);
           list.innerHTML = groups.filter((g) => g.list.length).map((g) => {
             const r = route(g.list);
             return `<div class="mt-day-head"><h3>${esc(g.d ? f('dayHead', { n: g.d, k: g.list.length }) : f('unsetHead', { k: g.list.length }))}</h3>${g.d && r ? `<a href="${esc(r)}" target="_blank" rel="noopener">${esc(S.dayMaps)}</a>` : ''}</div>` + g.list.map((it) => card(it, n, now)).join('');
@@ -714,17 +724,21 @@ const strings = JSON.stringify({ ...(MY_TRIP_STRINGS as any)[lang], count: t('tr
       return 2 * R * Math.asin(Math.sqrt(h));
     };
     let nearPicks: any[] = [];
+    let nearCity = '';
     const renderNear = (items: any[], R: any) => {
       const box = $('[data-near]');
       const grid = $('[data-near-list]');
       if (!box || !grid) return;
       const saved = new Set(items.map((i) => i.slug));
       const anchors = items.filter((i) => i.lat != null && i.lng != null);
-      if (!R?.places?.length || !anchors.length) { box.hidden = true; return; }
+      if (!R?.places?.length || !anchors.length) { box.hidden = true; grid.innerHTML = ''; nearPicks = []; return; }
       // Keep the picks steady while the reader saves them one by one.
-      if (!nearPicks.length || nearPicks.every((p) => saved.has(p.slug))) {
+      // Recomputed when the list's main city changes (a Barcelona pick stayed
+      // under a Seoul list — Codex review) or when every pick has been saved.
+      if (!nearPicks.length || nearCity !== R.region || nearPicks.every((p) => saved.has(p.slug))) {
+        nearCity = R.region;
         nearPicks = R.places
-          .filter((p: any) => !saved.has(p.slug) && p.lat != null && (p.reviews ?? 0) >= 50)
+          .filter((p: any) => !saved.has(p.slug) && p.cat !== 'event' && p.lat != null && (p.reviews ?? 0) >= 50)
           .map((p: any) => {
             const best = anchors.map((a) => ({ a, km: walk(a, p) })).sort((x, y) => x.km - y.km)[0];
             return { ...p, from: best.a.title, km: best.km };
@@ -734,6 +748,7 @@ const strings = JSON.stringify({ ...(MY_TRIP_STRINGS as any)[lang], count: t('tr
           .slice(0, 3);
       }
       box.hidden = !nearPicks.length;
+      if (!nearPicks.length) { grid.innerHTML = ''; return; }
       grid.innerHTML = nearPicks.map((p) => {
         const min = Math.max(1, Math.round((p.km * 1.25) / 4.5 * 60));
         const dist = min <= 40 ? f('nearFrom', { place: p.from, min }) : f('nearKm', { place: p.from, km: p.km.toFixed(1) });
@@ -759,7 +774,9 @@ const strings = JSON.stringify({ ...(MY_TRIP_STRINGS as any)[lang], count: t('tr
       const kicker = $('[data-course-kicker]'); if (kicker) kicker.textContent = f('courseKicker', { d: it.days, n: it.slugs.length });
       const title = $('[data-course-title]'); if (title) title.textContent = f('courseTitle', { city, d: it.days });
       const regionCount = items.filter((i) => rsOf(i) === R.region).length;
-      const text = $('[data-course-text]'); if (text) text.textContent = k && k >= regionCount ? S.courseAll : k ? f('courseHas', { k }) : S.courseNone;
+      // "Every place you saved" only when it is the whole list, not just this
+      // city's share of a multi-city trip (Codex review).
+      const text = $('[data-course-text]'); if (text) text.textContent = k && k >= items.length ? S.courseAll : k ? f('courseHas', { k }) : S.courseNone;
       const first = R.places.find((p: any) => it.slugs.includes(p.slug) && p.image);
       const img = $('[data-course-img]'); if (img) img.innerHTML = first ? `<img src="${esc(first.image)}" alt="" loading="lazy" decoding="async">` : '';
     };
@@ -785,7 +802,7 @@ const strings = JSON.stringify({ ...(MY_TRIP_STRINGS as any)[lang], count: t('tr
     // ── First visit: a start city's top places, a live preview card ──
     const startBox = $('[data-start]');
     let startRs = startBox?.dataset.start || '';
-    const topOf = (R: any, n: number) => (R?.places ?? []).filter((p: any) => p.image).slice(0, n);
+    const topOf = (R: any, n: number) => (R?.places ?? []).filter((p: any) => p.image && p.cat !== 'event').slice(0, n);
     const renderPreview = () => {
       const R = regions.get(startRs);
       const ul = $('[data-pv-list]');
@@ -829,12 +846,21 @@ const strings = JSON.stringify({ ...(MY_TRIP_STRINGS as any)[lang], count: t('tr
     // ── Share link: the list (slug + day) in the URL, nothing on a server ──
     const b64 = (s: string) => btoa(s).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
     const unb64 = (s: string) => atob(s.replace(/-/g, '+').replace(/_/g, '/'));
-    const shareUrl = () => `${location.origin}${location.pathname}#share=${b64(JSON.stringify(read().map((i) => [i.slug, Number(i.day) || 0, i.rs || ''])))}`;
+    const shareUrl = () => `${location.origin}${location.pathname}#share=${b64(JSON.stringify(read().map((i) => [i.slug, cleanDay(i.day), i.rs || ''])))}`;
     let shared: [string, number, string][] = [];
     const readShared = () => {
       const m = /#share=([\w-]+)/.exec(location.hash);
       if (!m) return;
-      try { const v = JSON.parse(unb64(m[1])); if (Array.isArray(v)) shared = v.filter((x) => Array.isArray(x) && typeof x[0] === 'string'); } catch { shared = []; }
+      // A link is input: slugs and city slugs must look like ours, days are
+      // 0–30, duplicates collapse, and at most 200 places come in (Codex review).
+      try {
+        const v = JSON.parse(unb64(m[1]));
+        const seen = new Set<string>();
+        shared = (Array.isArray(v) ? v : [])
+          .filter((x) => Array.isArray(x) && typeof x[0] === 'string' && /^[a-z0-9-]{1,200}$/.test(x[0]) && !seen.has(x[0]) && seen.add(x[0]))
+          .slice(0, 200)
+          .map((x) => [x[0], cleanDay(x[1]), typeof x[2] === 'string' && /^[a-z0-9-]{0,80}$/.test(x[2]) ? x[2] : '']);
+      } catch { shared = []; }
       const box = $('[data-shared]');
       if (box && shared.length) { box.hidden = false; const p = $('[data-shared-text]'); if (p) p.textContent = f('sharedBanner', { n: shared.length }); }
     };
@@ -847,9 +873,11 @@ const strings = JSON.stringify({ ...(MY_TRIP_STRINGS as any)[lang], count: t('tr
         const p = placeOf(slug, rs);
         if (p) got.push({ ...p, day, savedAt: new Date().toISOString() });
       }
-      const mine = replace ? [] : read();
+      // "Replace" only when every shared place came through: a failed fetch
+      // must not wipe the reader's own list (Codex review). Otherwise it adds.
+      const mine = replace && got.length === shared.length ? [] : read();
       const have = new Set(mine.map((i) => i.slug));
-      write([...mine, ...got.filter((g) => !have.has(g.slug))]);
+      write([...mine, ...got.filter((g) => !have.has(g.slug) && have.add(g.slug))]);
       dismissShared();
     };
     const dismissShared = () => {
@@ -875,7 +903,11 @@ const strings = JSON.stringify({ ...(MY_TRIP_STRINGS as any)[lang], count: t('tr
         (now[Math.min(idx, now.length - 1)] || root.querySelector<HTMLElement>('[data-empty-only] a'))?.focus();
       } else if (d.filter) { filter = d.filter; render(); }
       else if (d.view) { view = d.view; store.set(VIEW_KEY, view); render(); }
-      else if (d.addday != null) { store.set(DAYS_KEY, String(daysCount(read()) + 1)); render(); }
+      else if (d.addday != null) {
+        const n = Math.min(MAX_DAY, daysCount(read()) + 1);
+        if (demo) demoDays = n; else store.set(DAYS_KEY, String(n));
+        render();
+      }
       else if (d.nearSave) {
         const p = nearPicks.find((x) => x.slug === d.nearSave);
         if (p && !read().some((i) => i.slug === p.slug)) {
@@ -915,28 +947,33 @@ const strings = JSON.stringify({ ...(MY_TRIP_STRINGS as any)[lang], count: t('tr
       }
     });
 
-    window.addEventListener('wa-trip-change', () => { render(); });
+    // A list that now holds a city not loaded yet (another tab, an import)
+    // fetches it, or its nearby picks, course and prep would be the old city's.
+    window.addEventListener('wa-trip-change', () => { render(); if (read().some((it) => !regions.has(rsOf(it)))) refresh(); });
     window.addEventListener('storage', (e) => { if (e.key === KEY) { render(); refresh(); } });
     readShared();
+    // A share link opened in a tab already on this page changes only the hash.
+    addEventListener('hashchange', readShared);
     render();
     refresh();
     // Open status and the clock move with time; only those nodes change.
+    // Every 30 s: the clock always; the list too when anything a card or the
+    // filters show has changed (open → closed, past local midnight) — the open
+    // filter kept a place that had closed (Codex review). Not while the reader
+    // is working inside the list, so focus is never pulled away.
+    let lastSig = '';
+    const sigOf = (items: any[], now: Date) => items.map((it) => { const st = statusOf(it, now); return `${st.kind}|${st.label}|${st.today}|${quietOf(it, now)}`; }).join('~');
     setInterval(() => {
       const items = read();
       if (!items.length) { renderPreview(); return; }
       const now = new Date();
-      const statuses = items.map((it) => statusOf(it, now));
-      items.forEach((it, i) => {
-        const el = root.querySelector<HTMLElement>(`[data-st="${CSS.escape(it.slug)}"]`);
-        if (el && statuses[i].label) {
-          el.className = `mt-status mt-status--${statuses[i].kind}`;
-          el.innerHTML = `<i class="dot dot--${statuses[i].kind === 'soon' ? 'soon' : statuses[i].kind === 'open' ? 'open' : 'closed'}"></i>${esc(statuses[i].label)}`;
-        }
-      });
+      const sig = sigOf(items, now);
+      const inList = root.querySelector('[data-list]')?.contains(document.activeElement);
+      if (sig !== lastSig && !inList) { lastSig = sig; render(); return; }
       const byCity = new Map<string, any[]>();
       for (const it of items) { const k = rsOf(it) || it.region || ''; byCity.set(k, [...(byCity.get(k) ?? []), it]); }
       const [mainRs, mainItems] = [...byCity.entries()].sort((a, b) => b[1].length - a[1].length)[0];
-      tick(items, statuses, regions.get(mainRs), mainItems);
+      tick(items, items.map((it) => statusOf(it, now)), regions.get(mainRs), mainItems);
     }, 30000);
   }
 </script>

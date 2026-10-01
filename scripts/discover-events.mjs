@@ -81,8 +81,12 @@ async function searchJson(prompt) {
       messages: [{ role: 'user', content: prompt }],
     });
   } catch (e) {
+    // Thrown on, not swallowed: an API failure returned [] here, so with every
+    // search down (529s) each country read "0 found", the run's failure guard
+    // saw no failure and reported success (Codex review, 10-01). The caller's
+    // attempt() logs it, skips the country and fails the run if nothing came.
     console.log(`  ⚠️  search failed: ${e.message}`);
-    return [];
+    throw e;
   }
   const text = msg.content.filter((b) => b.type === 'text').map((b) => b.text).join('').trim();
   const jsonStr = text.replace(/^[\s\S]*?(\[)/, '$1').replace(/```/g, '').trim();

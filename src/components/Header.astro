@@ -238,21 +238,35 @@ const navGroups = CONT_ORDER
       nav.scrollTop = 0;
     };
 
+    // Keyboard focus follows the step: the button pressed is hidden by the new
+    // level, so focus went nowhere (Codex review, 10-01). Into a level → its
+    // first item; back to the top → the button that opened it.
+    const entered: HTMLElement[] = [];
+    const firstVisible = (sel: string) =>
+      Array.from(nav.querySelectorAll<HTMLElement>(sel)).find((el) => el.offsetParent !== null) ?? null;
     nav.querySelectorAll('.nav-drill').forEach((btn) => {
       btn.addEventListener('click', (e) => {
         e.preventDefault();
         const b = btn as HTMLButtonElement;
-        setLevel(b.dataset.to || '1', b.dataset.cont, b.dataset.label);
+        const to = b.dataset.to || '1';
+        entered.push(b);
+        setLevel(to, b.dataset.cont, b.dataset.label);
+        (to === 'ess' || to === 'tools'
+          ? firstVisible(`[data-dd="${to}"] .nav-dd-menu a`)
+          : firstVisible('.nav-drill[data-to="3"], .nav-cont.open .nav-cont-list a') ?? back)?.focus();
       });
     });
 
     back?.addEventListener('click', () => {
       // ess / tools are one level deep; destinations are two.
       setLevel(nav.getAttribute('data-level') === '3' ? '2' : '1');
+      const from = entered.pop();
+      if (from && from.offsetParent !== null) from.focus();
+      else (firstVisible('.nav-drill') ?? back)?.focus();
     });
 
     // Closing the hamburger resets to the top level for the next open.
-    toggle?.addEventListener('change', () => { if (!toggle.checked) setLevel('1'); });
+    toggle?.addEventListener('change', () => { if (!toggle.checked) { setLevel('1'); entered.length = 0; } });
   })();
 </script>
 

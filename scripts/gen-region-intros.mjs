@@ -138,7 +138,8 @@ async function translateOne(region, en, lang) {
   if (!want.length || want.some((k) => !kept[k])) throw new Error(`${lang}: incomplete translation`);
   // A stub is not a translation: Bacolod.zh said "describes here" in all three.
   const stub = /^(placeholder|describes here|<?unknown>?|tbd|n\/a|미정|未定|待定|por (determinar|confirmar))$/i;
-  if (want.some((k) => stub.test(String(kept[k]).trim()) || String(kept[k]).trim().length < 8)) throw new Error(`${lang}: stub translation`);
+  // No length floor: "建议住两晚。" is a whole answer in six characters (Codex review).
+  if (want.some((k) => stub.test(String(kept[k]).trim()))) throw new Error(`${lang}: stub translation`);
   if (findToolSpill(kept).length) throw new Error(`${lang}: tool spill in ${findToolSpill(kept).join(', ')}`);
   return kept;
 }
