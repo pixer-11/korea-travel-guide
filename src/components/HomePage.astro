@@ -144,25 +144,38 @@ const koreaLinks = [
 // Australia and more (src/lib/editorVisited.ts), so the "traveled here" badge
 // is a country-level fact, never a city-level boast.
 const nowD = new Date();
-const monthlyPool = posts.filter((p) => {
-  if (p.data.category !== 'event' || !p.data.eventStartDate) return false;
-  if (!p.data.heroImage?.url || p.data.heroImage.url.includes('placeholder')) return false;
-  const s = new Date(p.data.eventStartDate as any);
-  const e = new Date((p.data.eventEndDate ?? p.data.eventStartDate) as any);
-  if (e.getTime() < nowD.getTime() - 86400000) return false; // already over
-  const sameMonth = s.getUTCFullYear() === nowD.getUTCFullYear() && s.getUTCMonth() === nowD.getUTCMonth();
-  return sameMonth || s <= nowD; // starts this month, or already running
-});
-const monthlyPicks = (() => {
+// Built on the UTC date, read in every time zone: after midnight in Asia the
+// build still said "September" and the month's closers had ended (owner,
+// 10-01 06:30 KST: "Now · September" with two cards). So the build makes the
+// picks for its own month AND the next one, a few spares each, and the script
+// below shows the reader's month and skips what has ended by their date.
+const monthKeyOf = (d: Date) => `${d.getUTCFullYear()}-${String(d.getUTCMonth() + 1).padStart(2, '0')}`;
+const PICKS = 3;
+function picksFor(anchor: Date, n = PICKS * 2) {
+  const pool = posts.filter((p) => {
+    if (p.data.category !== 'event' || !p.data.eventStartDate) return false;
+    if (!p.data.heroImage?.url || p.data.heroImage.url.includes('placeholder')) return false;
+    const s = new Date(p.data.eventStartDate as any);
+    const e = new Date((p.data.eventEndDate ?? p.data.eventStartDate) as any);
+    if (e.getTime() < anchor.getTime() - 86400000) return false; // already over
+    const sameMonth = s.getUTCFullYear() === anchor.getUTCFullYear() && s.getUTCMonth() === anchor.getUTCMonth();
+    return sameMonth || s <= anchor; // starts this month, or already running
+  });
   const byRegion = new Map<string, any>();
-  for (const p of [...monthlyPool].sort(
+  for (const p of [...pool].sort(
     (a, b) => new Date(a.data.eventStartDate as any).getTime() - new Date(b.data.eventStartDate as any).getTime(),
   )) {
     if (!byRegion.has(p.data.region)) byRegion.set(p.data.region, p);
-    if (byRegion.size >= 3) break;
+    if (byRegion.size >= n) break;
   }
   return [...byRegion.values()];
-})();
+}
+const nextMonth = new Date(Date.UTC(nowD.getUTCFullYear(), nowD.getUTCMonth() + 1, 1));
+const monthFmt = new Intl.DateTimeFormat(localeCodes[lang] ?? 'en', { year: 'numeric', month: 'long', timeZone: 'UTC' });
+const monthSets = [nowD, nextMonth].map((d, i) => ({ key: monthKeyOf(d), label: monthFmt.format(d), picks: picksFor(d), current: i === 0 }));
+// The build's own month, as crawlers and readers without JavaScript see it.
+const monthlyPicks = monthSets[0].picks.slice(0, PICKS);
+const evEndOf = (p: any) => new Date((p.data.eventEndDate ?? p.data.eventStartDate) as any).toISOString().slice(0, 10);
 const guidesIn = (region: string) => posts.filter((p) => p.data.region === region).length;
 // The crowd card's mini chart: ONE real venue's measured hours (the mock's
 // chart shape, but with data that exists). Well-known attractions only, and
@@ -234,7 +247,6 @@ const itinMeta = (it: any) => {
   const avg = ratings.length >= 3 ? (ratings.reduce((a, b) => a + b, 0) / ratings.length).toFixed(1) : null;
   return { stops: slugs.length, avg };
 };
-const monthLabel = new Intl.DateTimeFormat(localeCodes[lang] ?? 'en', { year: 'numeric', month: 'long' }).format(nowD);
 const fmtEventDates = (p: any) => {
   const f = new Intl.DateTimeFormat(localeCodes[lang] ?? 'en', { month: 'short', day: 'numeric' });
   const s = new Date(p.data.eventStartDate as any);
@@ -273,23 +285,30 @@ const fmtEventDates = (p: any) => {
             event (external review flagged "추천: 고양" — a weekly-random city
             with no answer to "why now"). Falls back to the weekly cover only
             when the month has no picks. */}
-        {(monthlyPicks[0] ?? cover) && (() => { const sp = monthlyPicks[0] ?? cover; return (
-          <a class="cover-cta cover-cta-soft" href={localizePath(`/posts/${sp.id}`, lang)}>{t('home.featured')}: {localizePlace(sp.data.region, lang)} <span class="arw">→</span></a>
-        ); })()}
+        {/* One per month set and per pick; the script keeps the first that
+            has not ended in the reader's month (10-01). */}
+        {monthSets.flatMap((m) => m.picks.map((sp: any, i: number) => (
+          <a class="cover-cta cover-cta-soft" href={localizePath(`/posts/${sp.id}`, lang)} data-feat-set={m.key} data-ev-end={evEndOf(sp)} hidden={!(m.current && i === 0)}>{t('home.featured')}: {localizePlace(sp.data.region, lang)} <span class="arw">→</span></a>
+        )))}
+        {!monthlyPicks.length && cover && (
+          <a class="cover-cta cover-cta-soft" href={localizePath(`/posts/${cover.id}`, lang)}>{t('home.featured')}: {localizePlace(cover.data.region, lang)} <span class="arw">→</span></a>
+        )}
       </div>
       <p class="cover-scale">{t('home.trustBar').replace('{n}', String(live.length))}</p>
     </div>
   </section>
 
-  {monthlyPicks.length >= 2 && (
-    <section class="section sec-monthly">
+  {monthSets.some((m) => m.picks.length >= 2) && (
+    <section class="section sec-monthly" data-monthly data-build={monthSets[0].key} hidden={monthlyPicks.length < 2}>
       <div class="wrap">
-        <p class="kicker gold">{t('home.monthly.kicker').replace('{month}', monthLabel)}</p>
+        {monthSets.map((m) => (
+          <p class="kicker gold" data-set={m.key} hidden={!m.current}>{t('home.monthly.kicker').replace('{month}', m.label)}</p>
+        ))}
         <h2>{t('home.monthly.title')}</h2>
         <p class="ess-dek">{t('home.monthly.dek')}</p>
         <div class="stories">
-          {monthlyPicks.map((p) => (
-            <a class="story" href={localizePath(`/posts/${p.id}`, lang)} data-ev-end={new Date((p.data.eventEndDate ?? p.data.eventStartDate) as any).toISOString().slice(0, 10)}>
+          {monthSets.flatMap((m) => m.picks.map((p: any, i: number) => (
+            <a class="story" href={localizePath(`/posts/${p.id}`, lang)} data-set={m.key} data-ev-end={evEndOf(p)} hidden={!(m.current && i < PICKS)}>
               <div class="story-thumb">
                 {p.data.heroImage ? (
                   <img src={tileSize(p.data.heroImage.url)} alt={eventSchemaName(p.data.title)} loading="lazy" width="600" height="400" />
@@ -306,7 +325,7 @@ const fmtEventDates = (p: any) => {
                 <p class="story-meta editor-traveled">{t('home.monthly.visited')}</p>
               )}
             </a>
-          ))}
+          )))}
         </div>
       </div>
     </section>
@@ -543,8 +562,35 @@ const fmtEventDates = (p: any) => {
   )}
 
   <script>
-    import { hideEnded } from '../lib/hideEnded';
-    hideEnded();
+    // "This month": the reader's own month (the build may still be on the last
+    // one), three picks that have not ended by the reader's date, and the
+    // cover's "featured" link on the first of them (owner, 10-01).
+    {
+      const DAY = 86_400_000;
+      const n = new Date();
+      const key = `${n.getFullYear()}-${String(n.getMonth() + 1).padStart(2, '0')}`;
+      const today = Date.UTC(n.getFullYear(), n.getMonth(), n.getDate()) / DAY;
+      const ended = (el: HTMLElement) => Date.parse(el.dataset.evEnd || '') / DAY < today;
+      const sec = document.querySelector<HTMLElement>('[data-monthly]');
+      const sets = new Set([...document.querySelectorAll<HTMLElement>('[data-set], [data-feat-set]')].map((e) => e.dataset.set || e.dataset.featSet || ''));
+      const use = sets.has(key) ? key : sec?.dataset.build || key;
+      if (sec) {
+        for (const k of sec.querySelectorAll<HTMLElement>('.kicker[data-set]')) k.hidden = k.dataset.set !== use;
+        let shown = 0;
+        for (const c of sec.querySelectorAll<HTMLElement>('.story[data-set]')) {
+          const on = c.dataset.set === use && !ended(c) && shown < 3;
+          c.hidden = !on;
+          if (on) shown++;
+        }
+        sec.hidden = shown < 2;
+      }
+      let feat = false;
+      for (const a of document.querySelectorAll<HTMLElement>('[data-feat-set]')) {
+        const on = !feat && a.dataset.featSet === use && !ended(a);
+        a.hidden = !on;
+        if (on) feat = true;
+      }
+    }
     const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     if (!reduce && 'IntersectionObserver' in window) {
       const els = Array.from(document.querySelectorAll('main .story, main .dest-tile, main .essential-card, main .card')) as HTMLElement[];

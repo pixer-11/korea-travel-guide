@@ -1926,3 +1926,5 @@ main:focus { outline: none; }
 /* Event links an in-page script hides once they have ended by the reader's
    date (lib/hideEnded.ts); .story and list rows set their own display. */
 [data-ev-end][hidden] { display: none !important; }
+/* Home "this month": the month label and the section the script hides. */
+.sec-monthly[hidden], .sec-monthly .kicker[hidden] { display: none !important; }
