@@ -2824,6 +2824,18 @@
   "reason": "publish gate: Building exterior clearly showing Wangfujing Bookstore signage at night",
   "at": "2026-09-27T07:49:11.985Z"
  },
+ "belfast-black-sheep-coffee\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Black_Sheep_Coffee_Bishopsgate.jpg/1920px-Black_Sheep_Coffee_Bishopsgate.jpg": {
+  "slug": "belfast-black-sheep-coffee",
+  "verdict": "MATCH",
+  "reason": "publish gate: Storefront exterior/interior of Black Sheep Coffee shop",
+  "at": "2026-10-01T14:59:01.499Z"
+ },
+ "belfast-the-dome\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/The_Dome%2C_Victoria_Square%2C_Belfast_06.jpg/3840px-The_Dome%2C_Victoria_Square%2C_Belfast_06.jpg": {
+  "slug": "belfast-the-dome",
+  "verdict": "MATCH",
+  "reason": "publish gate: Belfast skyline view from The Dome observation deck",
+  "at": "2026-10-01T14:44:18.534Z"
+ },
  "belfast-titanic-belfast\u0001https://upload.wikimedia.org/wikipedia/commons/c/c0/Titanic_Belfast_HDR.jpg": {
   "slug": "belfast-titanic-belfast",
   "verdict": "MATCH",
@@ -3064,6 +3076,12 @@
   "reason": "Gourmet pintxos display, typical Bilbao cuisine",
   "reasonKo": "빌바오 특식 핀초스 진열",
   "at": "2026-08-04T11:57:23.749Z"
+ },
+ "birmingham-lapworth-museum-of-geology\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Lapworth_Museum.jpg/1920px-Lapworth_Museum.jpg": {
+  "slug": "birmingham-lapworth-museum-of-geology",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Lapworth Museum building, clearly named and visible",
+  "at": "2026-10-01T14:46:04.447Z"
  },
  "birmingham-national-sea-life-centre-birmingham\u0001https://upload.wikimedia.org/wikipedia/commons/3/3a/National_Sea_Life_Centre_and_BCN_canal%2C_Birmingham.jpg": {
   "slug": "birmingham-national-sea-life-centre-birmingham",
@@ -3366,6 +3384,24 @@
   "verdict": "MATCH",
   "reason": "publish gate: Clear iconic image of Brighton i360 tower and pod",
   "at": "2026-09-30T14:06:34.165Z"
+ },
+ "brighton-lost-in-the-lanes\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Lost_in_the_Lanes%2C_Nile_Street%2C_Brighton_2025-07-08.jpg/3840px-Lost_in_the_Lanes%2C_Nile_Street%2C_Brighton_2025-07-08.jpg": {
+  "slug": "brighton-lost-in-the-lanes",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior storefront with outdoor seating, matches restaurant venue type",
+  "at": "2026-10-01T14:50:42.373Z"
+ },
+ "brighton-meo-brighton\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Meo_Plants_%26_Cafe%2C_Brighton_2023-09-16.jpg/3840px-Meo_Plants_%26_Cafe%2C_Brighton_2023-09-16.jpg": {
+  "slug": "brighton-meo-brighton",
+  "verdict": "MATCH",
+  "reason": "publish gate: Storefront exterior of Meo Plants & Cafe, Brighton",
+  "at": "2026-10-01T14:56:25.697Z"
+ },
+ "brighton-snoopers-paradise\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Interior_of_Snoopers_Paradise%2C_Kensington_Gardens%2C_Brighton_2025-04-25.jpg/3840px-Interior_of_Snoopers_Paradise%2C_Kensington_Gardens%2C_Brighton_2025-04-25.jpg": {
+  "slug": "brighton-snoopers-paradise",
+  "verdict": "MATCH",
+  "reason": "publish gate: Cluttered antique shop interior matches Snoopers Paradise vibe",
+  "at": "2026-10-01T14:40:54.980Z"
  },
  "brisbane-brisbane-australia-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Brisbane_Australia_Temple_exterior.jpg/1920px-Brisbane_Australia_Temple_exterior.jpg": {
   "slug": "brisbane-brisbane-australia-temple",
@@ -4032,6 +4068,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Aerial view of Cardiff Castle keep and grounds",
   "at": "2026-09-30T14:14:14.738Z"
+ },
+ "cardiff-museum-of-cardiff\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Cardiff_Story_entrance_%281%29.JPG/1920px-Cardiff_Story_entrance_%281%29.JPG": {
+  "slug": "cardiff-museum-of-cardiff",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior facade and entrance of Cardiff Story Museum",
+  "at": "2026-10-01T14:43:21.427Z"
  },
  "causeway-bay-east-coast-park-precinct\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/East_Coast_Park_Precinct%2C_Fortress_Hill_07-01-2023%286%29.jpg/3840px-East_Coast_Park_Precinct%2C_Fortress_Hill_07-01-2023%286%29.jpg": {
   "slug": "causeway-bay-east-coast-park-precinct",
@@ -5841,6 +5883,12 @@
   "reason": "publish gate: Royal Mile street view with clock tower, representative",
   "at": "2026-09-30T13:59:06.633Z"
  },
+ "edinburgh-the-piper-s-rest\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/The_Piper%27s_Rest.jpg/3840px-The_Piper%27s_Rest.jpg": {
+  "slug": "edinburgh-the-piper-s-rest",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior entrance with name sign, representative venue view",
+  "at": "2026-10-01T14:52:33.789Z"
+ },
  "el-nido-cadlao-lagoon\u0001https://fastly.4sqi.net/img/general/original/125542906_Mo31fgMNRtyAUxSCI4bHSS2J0uwf98yz7zrJ0vhJiQ0.jpg": {
   "slug": "el-nido-cadlao-lagoon",
   "verdict": "MATCH",
@@ -6476,6 +6524,18 @@
   "reason": "Sunset beach scene, horse rider, Gili Islands setting",
   "reasonKo": "길리섬 해변 석양, 말 탄 사람, 적절한 배경",
   "at": "2026-09-18T16:41:41.491Z"
+ },
+ "glasgow-cafe-gandolfi\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cafe_Gandolfi%2C_64_Albion_Street%2C_Glasgow.jpg/3840px-Cafe_Gandolfi%2C_64_Albion_Street%2C_Glasgow.jpg": {
+  "slug": "glasgow-cafe-gandolfi",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior storefront clearly showing Cafe Gandolfi signage and entrance",
+  "at": "2026-10-01T14:57:09.612Z"
+ },
+ "glasgow-kibble-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Glasgow_Botanic_Gardens_-_Kibble_Palace_11092018.jpg/3840px-Glasgow_Botanic_Gardens_-_Kibble_Palace_11092018.jpg": {
+  "slug": "glasgow-kibble-palace",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Kibble Palace glasshouse, representative hero shot",
+  "at": "2026-10-01T14:42:07.538Z"
  },
  "glasgow-riverside-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Riverside_Museum_Glasgow_EC2018.jpg/1920px-Riverside_Museum_Glasgow_EC2018.jpg": {
   "slug": "glasgow-riverside-museum",
@@ -7487,6 +7547,12 @@
   "reason": "publish gate: Marina view at Elizabeth Street Pier, Hobart, plausible hero",
   "at": "2026-09-28T17:05:02.483Z"
  },
+ "hobart-fish-frenzy\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Fish_and_chips_from_Fish_Frenzy_in_Hobart_July_2017.jpg/3840px-Fish_and_chips_from_Fish_Frenzy_in_Hobart_July_2017.jpg": {
+  "slug": "hobart-fish-frenzy",
+  "verdict": "MATCH",
+  "reason": "publish gate: Dish photographed inside venue with branded wrapper, matches restaurant",
+  "at": "2026-10-01T14:47:01.363Z"
+ },
  "hobart-mona\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MONA%2C_2013_%2802%29.jpg/3840px-MONA%2C_2013_%2802%29.jpg": {
   "slug": "hobart-mona",
   "verdict": "MATCH",
@@ -8455,6 +8521,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Fort George's star-shaped ramparts, representative view of fortification",
   "at": "2026-10-01T07:52:35.000Z"
+ },
+ "inverness-urquhart-castle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Urquhart_Castle_Tower_House_2.jpg/1920px-Urquhart_Castle_Tower_House_2.jpg": {
+  "slug": "inverness-urquhart-castle",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows ruined castle tower by loch, representative view",
+  "at": "2026-10-01T14:45:23.146Z"
  },
  "ipoh-gunung-lang-recreational-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gunung_Lang_recreational_park.jpg/1920px-Gunung_Lang_recreational_park.jpg": {
   "slug": "ipoh-gunung-lang-recreational-park",
@@ -22327,12 +22399,30 @@
   "reason": "publish gate: Aerial view of Yokohama Red Brick Warehouse complex",
   "at": "2026-09-22T07:42:49.173Z"
  },
+ "york-rise\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rise_Fossgate_York_Mar25.jpg/3840px-Rise_Fossgate_York_Mar25.jpg": {
+  "slug": "york-rise",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior storefront of Rise cafe in York",
+  "at": "2026-10-01T14:55:25.609Z"
+ },
+ "york-skosh\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Skosh_Micklegate_York_Mar26.jpg/3840px-Skosh_Micklegate_York_Mar26.jpg": {
+  "slug": "york-skosh",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior storefront with visible Skosh signage, representative hero",
+  "at": "2026-10-01T14:49:47.334Z"
+ },
  "york-york-city-walls\u0001https://upload.wikimedia.org/wikipedia/commons/b/b7/York_city.jpg": {
   "slug": "york-york-city-walls",
   "verdict": "MISMATCH",
   "reason": "hero is only 600px wide — unusable as a banner",
   "reasonKo": "사진이 600px로 너무 작음",
   "at": "2026-09-30T23:12:29.492Z"
+ },
+ "york-york-minster\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/York_Minster_%282797690%29.jpg/1920px-York_Minster_%282797690%29.jpg": {
+  "slug": "york-york-minster",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of York Minster cathedral, representative hero shot",
+  "at": "2026-10-01T14:40:03.676Z"
  },
  "zamboanga-city-zamboanga-hermosa-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Hermosa_Festival_of_Zamboanga.jpg/3840px-Hermosa_Festival_of_Zamboanga.jpg": {
   "slug": "zamboanga-city-zamboanga-hermosa-festival",

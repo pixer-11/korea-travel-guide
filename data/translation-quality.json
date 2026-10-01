@@ -31078,5 +31078,89 @@
   "registerBreak": false,
   "worst": "把草坪当作大教堂前的广场，而不是公园里的野餐地。",
   "at": "2026-10-01T10:02:29.502Z"
+ },
+ "es/honolulu-aloha-festivals": {
+  "hash": "4543522241bf",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Las citas de Honolulu se concentran en el centro y en Waikīkī, dos zonas compactas...",
+  "at": "2026-10-01T17:00:44.971Z"
+ },
+ "es/oxford-oxford-university-museum-of-natural-history": {
+  "hash": "5647bab30f66",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Hay además una reproducción del ave, la que todo el mundo fotografía.",
+  "at": "2026-10-01T17:00:46.434Z"
+ },
+ "es/singapore-itzy-3rd-world-tour-tunnel-vision": {
+  "hash": "03b6eb8b7e9f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Para el público de Singapur, el día del concierto es una cuestión de logística y no algo a lo que se llega tarde y sin p",
+  "at": "2026-10-01T17:00:48.279Z"
+ },
+ "ja/oxford-oxford-university-museum-of-natural-history": {
+  "hash": "3f37e9ea7dd7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "自然界のために建てられたゴシック大聖堂のような空間です。",
+  "at": "2026-10-01T17:00:54.724Z"
+ },
+ "ja/singapore-itzy-3rd-world-tour-tunnel-vision": {
+  "hash": "d5031e06497b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "前回の来訪以来となるシンガポールでのステージでした。",
+  "at": "2026-10-01T17:00:58.534Z"
+ },
+ "ko/oxford-oxford-university-museum-of-natural-history": {
+  "hash": "998aedd34552",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-01T17:00:59.844Z"
+ },
+ "zh/oxford-oxford-university-museum-of-natural-history": {
+  "hash": "54f3491d2858",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "以奥谢兄弟最为知名的石匠们，照着真实存在的植物，在上面雕出了叶片、花朵和枝条。",
+  "at": "2026-10-01T17:01:05.443Z"
+ },
+ "ja/belfast-black-sheep-coffee": {
+  "hash": "46df349641f4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "店はこぢんまりとした市の中心部にあるので、中心部ならほぼどこからでも歩いて行けます。",
+  "at": "2026-10-01T17:01:09.356Z"
+ },
+ "ko/belfast-black-sheep-coffee": {
+  "hash": "121ad4d3d547",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "블랙 쉽 커피는 정반대의 생각으로 브랜드 전체를 일궜습니다.",
+  "at": "2026-10-01T17:01:15.161Z"
+ },
+ "ko/belfast-the-dome": {
+  "hash": "f614f1fd1d39",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "사진을 찍을 때는 유리에서 떨어져 서지 말고 바짝 다가서야 반사가 생기지 않습니다.",
+  "at": "2026-10-01T17:01:16.932Z"
+ },
+ "zh/belfast-black-sheep-coffee": {
+  "hash": "35601489a985",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "黑羊咖啡（Black Sheep Coffee）偏偏反其道而行之，靠这一点撑起了整个品牌。",
+  "at": "2026-10-01T17:01:18.462Z"
+ },
+ "zh/belfast-the-dome": {
+  "hash": "c0139e355af5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "维多利亚广场是一座于2008年开业的室内购物中心，穹顶观景台就是它的屋顶。",
+  "at": "2026-10-01T17:01:24.115Z"
  }
 }

@@ -2,8 +2,8 @@
  "_note": "Per-topic search→post yield, written by scripts/generate.mjs (scripts/lib/topic-yield.mjs). Seeded 2026-08-23 from the 08-17..23 publish/bulk logs; counts halve past 200 so recent runs weigh more.",
  "topics": {
   "local restaurant": {
-   "attempts": 40,
-   "hits": 1
+   "attempts": 54,
+   "hits": 4
   },
   "historic site": {
    "attempts": 163,
@@ -54,20 +54,20 @@
    "hits": 2
   },
   "hidden gem": {
-   "attempts": 59,
-   "hits": 38
+   "attempts": 66,
+   "hits": 45
   },
   "breakfast": {
    "attempts": 43,
    "hits": 2
   },
   "trendy cafe": {
-   "attempts": 76,
-   "hits": 5
+   "attempts": 89,
+   "hits": 9
   },
   "street food": {
-   "attempts": 61,
-   "hits": 6
+   "attempts": 63,
+   "hits": 7
   },
   "bakery": {
    "attempts": 36,
@@ -198,5 +198,5 @@
    "hits": 0
   }
  },
- "updated": "2026-10-01T10:05:48.799Z"
+ "updated": "2026-10-01T14:59:14.758Z"
 }

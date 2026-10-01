@@ -9569,6 +9569,11 @@
       "blurb": "阿达纳是土耳其第四大城市，坐落在阳光炽烈的丘库洛瓦平原上，以同名的烤肉串、酸爽的萨尔甘姆饮料，以及至今仍横跨塞伊汉河的罗马时代石桥塔什科普吕而闻名。宏伟的萨班哲中央清真寺是这座城市天际线的地标，而阿达纳本身也是探索西里西亚地区星罗棋布的古迹与城堡的理想据点。",
       "getting": "大多数游客经由丘库洛瓦国际机场（COV）抵达，该机场于2024年启用，位于市中心以西约35公里处、塔尔苏斯附近；从机场出发，可乘坐计价出租车、Havaş机场大巴或市内公交车前往市区。阿达纳还设有土耳其国家铁路（TCDD）在阿达纳-梅尔辛线上的主要火车站，有区域列车和城际列车连接梅尔辛及其他地区。",
       "days": "大约1-2天便足以游览老城区、石桥和清真寺；如果计划以阿达纳为据点前往西里西亚地区更广阔的范围进行一日游，建议多安排一些时间。"
+    },
+    "ko": {
+      "blurb": "아다나는 튀르키예에서 네 번째로 큰 도시로, 추쿠로바 평원 위에 자리한 뜨거운 햇살의 도시입니다. 도시 이름을 딴 숯불 케밥, 톡 쏘는 맛의 샬감(şalgam) 음료, 그리고 지금도 세이한 강을 가로지르는 로마 시대의 석조 다리 타슈쾨프뤼(Taşköprü)로 유명합니다. 거대한 사반즈 중앙 모스크가 도시 스카이라인의 중심을 이루고 있으며, 킬리키아 일대에 흩어져 있는 고대 유적지와 성들을 둘러보기에 더없이 좋은 거점 도시이기도 합니다.",
+      "getting": "대부분의 여행객은 2024년에 개항한 추쿠로바 국제공항(COV)을 통해 아다나에 도착합니다. 이 공항은 타르수스 인근, 시내에서 서쪽으로 약 35km 떨어진 곳에 위치해 있으며, 공항에서는 미터택시, 하바쉬(Havaş) 공항버스, 시내버스 등을 이용해 시내로 이동할 수 있습니다. 아다나에는 또한 아다나-메르신 노선을 운행하는 터키국영철도(TCDD)의 주요 기차역이 있어, 지역 열차와 도시 간 열차로 메르신 등 인근 지역과 연결됩니다.",
+      "days": "구시가지와 다리, 모스크를 둘러보는 데는 1~2일 정도면 충분합니다. 다만 아다나를 거점 삼아 킬리키아 지역 곳곳으로 당일치기 여행을 계획하고 있다면, 조금 더 여유 있게 일정을 잡는 것이 좋습니다."
     }
   },
   "Ha Long": {
@@ -9672,6 +9677,11 @@
       "blurb": "马拉加将摩尔城堡与巴洛克教堂交织的历史老城,与由毕加索博物馆和蓬皮杜中心加持的蓬勃当代艺术氛围完美融合,所有这一切都坐落在棕榈树环绕的地中海海滨。作为巴勃罗·毕加索的出生地,同时也是太阳海岸(Costa del Sol)的非官方首府,马拉加在紧凑的市中心内轻松汇聚了文化、沙滩与夜生活,这种组合实属难得。",
       "getting": "大多数游客经由马拉加-太阳海岸机场(AGP)抵达,这是西班牙最繁忙的机场之一,距市中心仅约12分钟车程,可乘坐Renfe Cercanías C1线直达马拉加中心-阿拉梅达站(Málaga Centro-Alameda)。对于打算直接前往沿海酒店的旅客,机场航站楼外也随时提供巴士和出租车服务。",
       "days": "建议安排约2至3天时间游览老城区、阿尔卡萨瓦城堡(Alcazaba)及主要博物馆;如果打算以马拉加为据点,前往太阳海岸沿线进行一日游,则需预留更多时间。"
+    },
+    "ja": {
+      "blurb": "マラガは、ムーア人が築いた要塞やバロック様式の教会が残る歴史ある旧市街と、ピカソ美術館やポンピドゥー・センターを核とする活気ある現代アートシーンを兼ね備えた街で、その全てがヤシの木並木が続く地中海沿いの街並みの中に広がっています。パブロ・ピカソの生誕地であると同時に、コスタ・デル・ソルの実質的な中心都市でもあり、文化・ビーチ・ナイトライフが無理なく共存するコンパクトな街としては稀有な存在です。",
+      "getting": "多くの旅行者はスペイン屈指の利用者数を誇るマラガ・コスタデルソル空港(AGP)から到着します。空港から市街地まではわずか約12分で、Renfe Cercaníasの C1線に乗れば、マラガ・セントロ=アラメダ駅まで直通でアクセスできます。沿岸部のホテルへ直接向かう旅行者向けには、空港ターミナルからのバスやタクシーも充実しています。",
+      "days": "旧市街、アルカサバ、主要な美術館・博物館を巡るには2〜3日程度を見ておくとよいでしょう。コスタ・デル・ソル周辺への日帰り旅行の拠点としてマラガを利用する場合は、さらに日数を追加することをおすすめします。"
     }
   },
   "Naha": {
@@ -9748,6 +9758,38 @@
       "blurb": "八打灵再也以南的雪邦,与其说是一座小镇,不如说是一片广袤的辖区。它最为人熟知的,是马来西亚主要国际机场的所在地,以及由赫尔曼·蒂尔克（Hermann Tilke）设计、至今仍举办MotoGP摩托车大奖赛的雪邦国际赛道。除了跑道与沥青之外,这片辖区还涵盖了赛城（Cyberjaya）的科技园区,以及绵延的海岸线与棕榈种植园,因此游客大多只是途经此地,而非长留驻足。",
       "getting": "几乎所有人都是经吉隆坡国际机场（KLIA）抵达的,该机场正位于雪邦辖区内；机场快线（KLIA Ekspres）从吉隆坡中央车站（KL Sentral）直达机场两座航站楼,全程约28至33分钟无需中途停靠,而班次较慢的机场支线（KLIA Transit）则会停靠沙叻丁宜（Salak Tinggi）等中途站点。若要前往赛道等景点,游客通常依靠机场或附近交通枢纽提供的接驳巴士或出租车,而非固定的公共巴士路线。",
       "days": "大多数游客在雪邦本地只需停留几个小时到半天,无论是转机还是观看赛道比赛,因为这里主要是一个交通枢纽和赛事举办地,而非适合多日游玩的目的地。"
+    },
+    "es": {
+      "blurb": "Sepang no es tanto una ciudad como un extenso distrito al sur de Kuala Lumpur, conocido principalmente por albergar el principal aeropuerto internacional de Malasia y el Sepang International Circuit, un trazado diseñado por Hermann Tilke que todavía es sede de MotoGP. Más allá del asfalto y las pistas, el distrito también alberga los parques tecnológicos de Cyberjaya, así como tramos de costa y plantaciones de palma, lo que lo convierte en una puerta de entrada por la que los visitantes suelen pasar, más que un lugar donde detenerse.",
+      "getting": "Casi todo el mundo llega a través del Aeropuerto Internacional de Kuala Lumpur (KLIA), que se encuentra dentro del distrito de Sepang; el enlace ferroviario KLIA Ekspres va directo desde KL Sentral hasta las dos terminales del aeropuerto en unos 28 a 33 minutos, mientras que la línea KLIA Transit, más lenta, hace paradas intermedias, incluida Salak Tinggi. Para desplazamientos posteriores a lugares como el circuito, los viajeros suelen depender de autobuses lanzadera o taxis desde el aeropuerto o estaciones de tránsito cercanas, más que de rutas de autobús público fijas.",
+      "days": "La mayoría de los visitantes solo necesita unas pocas horas o medio día en Sepang, ya sea por una conexión de vuelo o por un día de carrera en el circuito, pues funciona principalmente como centro de tránsito y de eventos, más que como un destino para pasar varios días."
+    }
+  },
+  "Alba": {
+    "en": {
+      "blurb": "Alba is the understated capital of the Langhe: a red brick medieval town ringed by the vineyards of Barolo and Barbaresco, and famous each autumn for its white truffle market. It rewards visitors less with headline monuments than with a dense, walkable old centre, excellent regional cooking, and easy access to some of Italy's most celebrated wine country.",
+      "getting": "Alba has its own railway station on the SFM4 regional line, with direct trains to Torino Porta Susa and Torino Lingotto taking around 1h15. The nearest major airport is Turin (TRN, Caselle), roughly 1h20 to 1h30 by car or by train and bus via central Turin; there is no airport in Alba itself.",
+      "days": "Plan on 2 to 3 days: enough to walk the old town and its towers, visit the truffle or Saturday market, and fit in at least one half day excursion into the Barolo or Barbaresco vineyards."
+    },
+    "ko": {
+      "blurb": "알바는 랑게 지방의 소박한 중심 도시로, 바롤로와 바르바레스코의 포도밭에 둘러싸인 붉은 벽돌의 중세 마을이다. 매년 가을에는 화이트 트러플 시장으로 유명해진다. 이곳은 눈에 띄는 대형 기념물보다는 걷기 좋은 조밀한 구시가지, 훌륭한 지역 요리, 그리고 이탈리아에서 손꼽히는 와인 산지로의 편리한 접근성으로 여행자들에게 보답한다.",
+      "getting": "알바에는 SFM4 지역선이 지나는 자체 기차역이 있으며, 토리노 포르타 수사와 토리노 링고토까지 직행열차로 약 1시간 15분이 걸린다. 가장 가까운 주요 공항은 토리노(TRN, 카셀레) 공항으로, 자동차로는 약 1시간 20분에서 30분, 토리노 시내를 경유하는 기차와 버스로도 비슷한 시간이 소요된다. 알바 자체에는 공항이 없다.",
+      "days": "2~3일 정도를 계획하면 좋다. 구시가지와 탑들을 둘러보고, 트러플 시장이나 토요 시장을 방문하며, 바롤로나 바르바레스코 포도밭으로의 반나절 나들이를 최소 한 번은 포함할 수 있는 충분한 시간이다."
+    },
+    "ja": {
+      "blurb": "アルバは、ランゲ地方の控えめな中心都市である。バローロとバルバレスコのぶどう畑に囲まれた、赤レンガ造りの中世の町並みが特徴で、秋には白トリュフの市で知られている。目を引くような大観光名所こそ少ないものの、歩いて回れるこぢんまりとした旧市街、素晴らしい郷土料理、そしてイタリア屈指のワイン産地へのアクセスの良さが、訪れる人々を満足させてくれる。",
+      "getting": "アルバには、SFM4地域線の駅があり、トリノ・ポルタ・スーザ駅やトリノ・リンゴット駅への直通列車で約1時間15分。最寄りの主要空港はトリノ空港(TRN、カゼッレ)で、車の場合、あるいはトリノ中心部経由で鉄道とバスを乗り継ぐ場合、所要時間はおよそ1時間20分から1時間30分。なお、アルバ市内に空港はない。",
+      "days": "滞在日数の目安は2〜3日。旧市街とその塔を歩いて巡り、トリュフ市や土曜市を訪れ、さらにバローロまたはバルバレスコのぶどう畑への半日観光を組み込むのに十分な日数だ。"
+    },
+    "es": {
+      "blurb": "Alba es la discreta capital de las Langhe: una localidad medieval de ladrillo rojo rodeada por los viñedos de Barolo y Barbaresco, famosa cada otoño por su mercado de la trufa blanca. No es tanto una ciudad de monumentos emblemáticos como un destino que seduce por su casco antiguo compacto y perfecto para pasear, su excelente cocina regional y la facilidad para acceder a una de las zonas vinícolas más célebres de Italia.",
+      "getting": "Alba cuenta con su propia estación de tren, en la línea regional SFM4, con trenes directos a Torino Porta Susa y Torino Lingotto que tardan alrededor de 1h15. El aeropuerto principal más cercano es el de Turín (TRN, Caselle), a entre 1h20 y 1h30 en coche o combinando tren y autobús a través del centro de Turín; Alba no cuenta con aeropuerto propio.",
+      "days": "Lo ideal es dedicarle de 2 a 3 días: tiempo suficiente para recorrer el casco antiguo y sus torres, visitar el mercado de la trufa o el mercado de los sábados, y reservar al menos medio día para una excursión a los viñedos de Barolo o Barbaresco."
+    },
+    "zh": {
+      "blurb": "阿尔巴是朗格地区低调内敛的中心城市：一座红砖砌就的中世纪小城，四周环绕着巴罗洛和巴巴莱斯科的葡萄园，每年秋天还会因白松露市集而声名远扬。这里没有那种一眼惊艳的地标景点，吸引人的是紧凑宜人、适合漫步的老城区、出色的地方美食，以及轻松可达的意大利顶级葡萄酒产区。",
+      "getting": "阿尔巴设有自己的火车站，位于SFM4区域线上，有直达都灵波尔塔苏萨站（Torino Porta Susa）和都灵林戈托站（Torino Lingotto）的列车，车程约1小时15分钟。最近的主要机场是都灵机场（TRN，卡塞雷机场），无论自驾还是经由都灵市区换乘火车加巴士，都大约需要1小时20分钟到1小时30分钟；阿尔巴本地并没有机场。",
+      "days": "建议安排2到3天：足够漫步老城及其塔楼、逛一逛松露市集或周六集市，并至少安排半天时间前往巴罗洛或巴巴莱斯科的葡萄园短途游览。"
     }
   }
 }

@@ -1,66 +1,66 @@
 ---
 lang: es
 slug: honolulu-aloha-festivals
-srcHash: '0f6c049c0312'
-title: 'Aloha Festivals: fechas, entradas y sede (Honolulu)'
-description: Aloha Festivals en Honolulu, Estados Unidos, se celebra en septiembre de 2026. Qué es, cuándo y dónde tiene lugar, y cómo organizar la visita.
-quickAnswer: 'En septiembre de 2026, Aloha Festivals cumple 80 años, y ese mes se celebran en Oʻahu los eventos más emblemáticos de Honolulu: la investidura de la Corte Real, una fiesta callejera en Waikīkī y el Desfile Floral. Las fechas exactas, el recorrido y los detalles de las entradas se publican más cerca de la temporada, así que conviene confirmarlos en el sitio oficial de Aloha Festivals antes de reservar vuelos u hoteles. Las mayores aglomeraciones se concentran a lo largo del recorrido del desfile y en la fiesta callejera de Waikīkī, por lo que conviene llegar temprano para conseguir un buen sitio junto a la acera.'
+srcHash: 'ae44374a9ebe'
+title: 'Aloha Festivals en Honolulu: fechas, entradas y recinto'
+description: Los Aloha Festivals de Honolulu se anunciaron para septiembre de 2026, el año de su 80.º aniversario, con la investidura de la Corte Real, la fiesta callejera de Waikīkī y el Desfile Floral.
+quickAnswer: 'Los Aloha Festivals, que en 2026 cumplían 80 años, estaban previstos para septiembre de ese año en Oʻahu. Honolulu concentraba sus citas más emblemáticas: la investidura de la Corte Real, una gran fiesta callejera en Waikīkī y el Desfile Floral (Floral Parade). El primer anuncio no incluía las fechas concretas, el recorrido del desfile ni la información sobre entradas. Buena parte de la celebración suele ser gratuita, incluido el desfile si se ve desde la calle. Las mayores aglomeraciones se forman a lo largo del recorrido y en la fiesta de Waikīkī, y los bordillos se llenan mucho antes del comienzo.'
 faq:
-  - q: ¿Cuáles son las fechas exactas de Aloha Festivals 2026 en Honolulu?
-    a: El festival se celebra en septiembre de 2026 con motivo de su 80.º aniversario, aunque las fechas concretas de cada evento y el recorrido del desfile se confirman más cerca de la temporada en el sitio web oficial de Aloha Festivals. Conviene consultarlo antes de reservar.
-  - q: ¿Hacen falta entradas para el Desfile Floral o la fiesta callejera de Waikīkī?
-    a: Gran parte de la celebración, incluida la zona para ver el desfile a lo largo del recorrido, suele ser gratuita, aunque en algunos años se ofrecen asientos opcionales u otros complementos de pago. Conviene confirmar los detalles actuales de las entradas en el sitio oficial, ya que todavía no están cerrados con tanta antelación.
-  - q: ¿Cómo se llega al recorrido del desfile y a la fiesta callejera de Waikīkī?
-    a: Lo más práctico es alojarse en Waikīkī o cerca, para poder llegar caminando a ambos eventos. De lo contrario, se puede usar TheBus o la línea de tren Skyline para llegar al centro de Honolulu o a Waikīkī, ya que los cortes de calles el día del evento hacen que conducir y aparcar sea poco predecible.
-  - q: ¿Cuánto tiempo conviene reservar para los eventos?
-    a: Conviene reservar una tarde-noche entera para la fiesta callejera de Waikīkī y un par de horas para el Desfile Floral, además de tiempo extra de antemano para hacerse con un buen sitio junto a la acera antes de que el recorrido se llene.
-  - q: ¿Qué más hay cerca para prolongar el viaje?
-    a: La playa de Waikīkī, Diamond Head y el barrio histórico de Chinatown en Honolulu están todos a poca distancia de las zonas del festival y son un buen complemento para un fin de semana festivo.
+  - q: ¿Cuáles eran las fechas exactas de los Aloha Festivals 2026 en Honolulu?
+    a: El festival, que celebraba su 80.º aniversario, se anunció para septiembre de 2026. El primer anuncio indicaba solo el mes. Ni los días de cada acto ni el recorrido del desfile figuraban en él.
+  - q: ¿Hacían falta entradas para el Desfile Floral o para la fiesta callejera de Waikīkī?
+    a: Buena parte de la celebración suele ser gratuita, incluido el desfile si se ve desde la calle, aunque algunos años se ofrecen asientos u otros extras opcionales de pago. Cuando se anunciaron las fechas de septiembre, aún no se habían fijado las condiciones de venta para la edición de 2026.
+  - q: ¿Cómo se llegaba al recorrido del desfile y a la fiesta callejera de Waikīkī?
+    a: Desde Waikīkī se llega a pie a ambos actos. Desde otros puntos de Oʻahu, TheBus y el tren Skyline llegan hasta el centro de Honolulu y Waikīkī, una ventaja importante porque los cortes de tráfico de esos días hacen que desplazarse y aparcar en coche sea imprevisible.
+  - q: ¿Cuánto tiempo ocupaban los actos?
+    a: La fiesta callejera de Waikīkī dura toda una velada y el Desfile Floral, un par de horas. Los sitios junto al bordillo se ocupan pronto, así que la mayoría del público está ya colocada mucho antes de que empiece el desfile.
+  - q: ¿Qué otros lugares había cerca para alargar el viaje?
+    a: La playa de Waikīkī, Diamond Head y el barrio histórico de Chinatown, en Honolulu, quedan muy a mano de las zonas del festival y completan muy bien un fin de semana festivo.
 ---
 
-## Por qué ir
+## Por qué merece la pena
 
-Aloha Festivals es la mayor celebración cultural de Hawái, con una historia que abarca varias décadas. Nació con el propósito de mantener visibles las tradiciones nativas hawaianas en medio del auge turístico de las islas, y con el tiempo se ha convertido en una serie de eventos que se extienden todo un mes por el estado, con los grandes actos de Honolulu como eje central.
+Con una trayectoria de varias décadas, los Aloha Festivals son la mayor celebración cultural de Hawái. Nacieron con el propósito de mantener vivas las tradiciones nativas hawaianas en pleno auge turístico de las islas. Con el tiempo se han convertido en un mes entero de actividades por todo el estado, cuyos grandes acontecimientos se celebran en Honolulu.
 
-Se acude por el espectáculo: miembros de la corte real a caballo cubiertos con capas de plumas, hālau (grupos de hula) bailando por una calle cerrada al tráfico, y carrozas repletas de orquídeas y flores de plumeria. Es un festival ruidoso, colorido y profundamente local, muy alejado de los luaus preparados para turistas.
+El gran atractivo es el espectáculo. Los miembros de la corte real desfilan a caballo con capas de plumas, los halau (grupos de hula) bailan por una calle cortada al tráfico y las carrozas van cubiertas de orquídeas y plumerias. Es una fiesta ruidosa, llena de color y genuinamente local, nada que ver con un luau montado para turistas.
 
 ## Qué ocurre en Honolulu
 
-Tres eventos definen la parte del festival que se celebra en Oʻahu. Cada uno tiene su propio ritmo y su propia razón para asistir.
+La parte del festival que se celebra en Oʻahu gira en torno a tres acontecimientos, cada uno con su propio ritmo y su propio interés.
 
-- **Investidura de la Corte Real**: una ceremonia formal en la que se presenta a la corte real del año, cargada de cánticos, protocolo y atuendos ceremoniales.
-- **Fiesta callejera de Waikīkī**: un festival de calle con escenarios de música en directo, puestos de comida y baile que toma un tramo de Waikīkī durante toda una tarde-noche.
-- **Desfile Floral**: el gran evento del festival, que recorre el centro de Honolulu hasta Waikīkī con carrozas cubiertas de flores, bandas de música y jinetes pāʻū vestidos con la indumentaria tradicional a caballo.
+- **Investidura de la Corte Real**: en esta ceremonia solemne se presenta a la corte real del año, con abundancia de cantos, protocolo e insignias tradicionales.
+- **Fiesta callejera de Waikīkī**: durante una velada, un tramo de Waikīkī se transforma en un festival al aire libre con escenarios de música en directo, puestos de comida y baile.
+- **Desfile Floral (Floral Parade)**: es el plato fuerte. Recorre el centro de Honolulu hasta Waikīkī con carrozas cubiertas de flores, bandas de música y amazonas pāʻū ataviadas con el traje ecuestre tradicional.
 
-El desfile es el que reúne a más público, así que conviene hacerse con un sitio en la acera con antelación si se quiere tener buena vista.
+Nada congrega tanto público como el desfile, y los mejores sitios junto al bordillo vuelan pronto.
 
 ## Cómo llegar
 
-Los eventos de Honolulu se concentran en el centro de la ciudad y en Waikīkī, dos zonas compactas y fáciles de recorrer a pie una vez allí. TheBus y el tren Skyline conectan el aeropuerto, el centro y Waikīkī para quienes prefieran evitar el problema del aparcamiento.
+Las citas de Honolulu se concentran en el centro y en Waikīkī, dos zonas compactas que se recorren cómodamente a pie. Para quien prefiera no lidiar con el aparcamiento, TheBus y el tren Skyline unen el aeropuerto, el centro y Waikīkī.
 
-Quienes vayan en coche deben contar con cortes de tráfico a lo largo del recorrido del desfile ese mismo día; la avenida Kalākaua suele verse afectada durante los eventos de Waikīkī. Los puntos de recogida de los servicios de transporte con conductor también cambian según los cortes, así que conviene calcular tiempo extra para caminar.
+El mismo día del desfile hay calles cortadas a lo largo del recorrido, y la avenida Kalākaua (Kalākaua Avenue) suele verse afectada durante los actos de Waikīkī. Los puntos de bajada de los vehículos de transporte compartido cambian en función de los cortes, lo que alarga el trayecto a pie tanto a la ida como a la vuelta.
 
-Si el desfile y la fiesta callejera son la prioridad, lo mejor es alojarse en Waikīkī o cerca de allí: así se puede llegar a pie a ambos sin depender del transporte público el día del evento.
+A quienes les interesan sobre todo el desfile y la fiesta callejera les conviene alojarse en Waikīkī o en sus alrededores. Desde allí ambos quedan a poca distancia a pie y no hace falta el transporte público en los días señalados.
 
 ## Cuándo ir
 
-El festival se celebra en septiembre, pero las fechas exactas de los eventos de 2026 (incluidos el recorrido del desfile y la noche de la fiesta callejera) suelen confirmarse más cerca de la temporada. Conviene consultar el sitio web oficial de Aloha Festivals antes de cerrar vuelos u hoteles.
+El festival se anunció para septiembre de 2026. Aquel primer anuncio no precisaba los días del desfile ni de la fiesta callejera, como tampoco el recorrido.
 
-Septiembre en Honolulu es cálido y húmedo, con algún chubasco ocasional, aunque en general el tiempo es fiable para eventos al aire libre. Es temporada media para el turismo, por lo que los precios de los hoteles en Waikīkī pueden ser algo más bajos que en el pico del verano.
+En septiembre Honolulu es cálida y húmeda. Aunque caen algún que otro chaparrón, el tiempo suele acompañar a los actos al aire libre. Al tratarse de temporada media, las tarifas hoteleras de Waikīkī pueden ser algo más bajas que en pleno verano.
 
-## Entradas y precio
+## Entradas y precios
 
-Buena parte de Aloha Festivals se puede disfrutar de forma gratuita, especialmente el recorrido del desfile y la zona general de la fiesta callejera, aunque en algunos años ciertas secciones o asientos pueden tener coste. Los precios, si los hay, y los detalles de las entradas no están fijados con tanta antelación.
+Gran parte de los Aloha Festivals puede disfrutarse gratis, sobre todo el desfile a lo largo del recorrido y la zona general de la fiesta callejera. Aun así, algunos sectores o asientos pueden ser de pago según el año. Cuando se anunciaron las fechas de septiembre, todavía no se habían fijado ni los precios, en caso de haberlos, ni las condiciones de venta.
 
-Es mejor confirmar el estado actual de las entradas, las posibles tarifas por asientos reservados y los mapas oficiales de las sedes en el sitio de Aloha Festivals, en lugar de fiarse de listados de terceros, que suelen quedar desactualizados respecto al calendario real.
+Los anuncios de reventa suelen ir por detrás del programa real. Las tarifas de los asientos reservados y los planos de cada edición los publica el propio festival.
 
 ## Cómo vivirlo como un local
 
-Para los locales, el Desfile Floral es un evento en el que hay que llegar pronto para hacerse con un buen sitio. Conviene llegar bastante antes de la hora de inicio anunciada, con una silla plegable o una esterilla, ya que el espacio en la acera se ocupa rápido y no hay asientos generales reservados.
+Para la gente de la isla, el Desfile Floral es de esas citas en las que hay que hacerse con un sitio cuanto antes. Muchos llegan con su silla plegable o su esterilla mucho antes de la hora anunciada. Las aceras se llenan enseguida y no existen asientos generales reservados.
 
-- Conviene llevar efectivo para los puestos de comida de la fiesta callejera de Waikīkī, ya que en los puestos más pequeños no siempre se acepta tarjeta.
-- Lucir el desfile como lo hacen los locales: los lei de plumeria o maile son algo habitual, no un disfraz, así que quien tenga uno puede llevarlo sin problema.
-- Los cánticos y el protocolo de la investidura de la Corte Real se tratan con verdadera reverencia; no es un momento para fotos, así que conviene guardar silencio durante las partes ceremoniales.
-- El error típico de los turistas es presentarse justo a la hora anunciada de inicio del desfile, cuando los mejores sitios en la acera ya están ocupados. Los locales se posicionan al menos una hora antes.
+- En la fiesta callejera de Waikīkī conviene llevar efectivo para los puestos de comida, ya que en los más pequeños no siempre se acepta tarjeta.
+- Los locales no se disfrazan para el desfile, sino que lo viven con naturalidad. Es habitual llevar un lei de plumeria o de maile, que no se considera un disfraz.
+- En la investidura de la Corte Real, los cantos y el protocolo se viven con auténtico respeto. No es un momento para hacerse fotos, y el público guarda silencio durante las partes ceremoniales.
+- El error típico del turista es presentarse justo a la hora anunciada para el desfile, cuando los mejores sitios del bordillo ya están ocupados. Los locales toman posiciones al menos con una hora de antelación.
 
-El transporte público o caminar son mejores opciones que ir en coche los días de evento: los cortes de tráfico hacen impredecible el aparcamiento cerca del recorrido, y los autobuses se desvían de la avenida Kalākaua mientras dura el desfile.
+Los días del festival, moverse a pie o en transporte público resulta más práctico que ir en coche. Con los cortes de tráfico, encontrar aparcamiento cerca del recorrido es una lotería, y mientras dura el desfile los autobuses se desvían para evitar la avenida Kalākaua.
