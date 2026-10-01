@@ -2,8 +2,16 @@
 // FREE INTERACTIVE TOOL — "Best time to visit / Crowd finder", shared by the
 // English route and the [lang] routes. Built from the busy/quiet hour data we
 // already collect per venue (BestTime.app), which no other travel site aggregates
-// like this → genuinely link-worthy. Pure client-side filter over a build-time
-// JSON index; no API calls, no server.
+// like this → genuinely link-worthy.
+//
+// Redesign 2026-10-01 from the owner's "한산한 시간 개선안": a "quiet right now"
+// widget computed in each venue's OWN time zone, a sticky filter bar with a
+// "pick a time" mode (weekday/weekend + hour slider — moving it re-colours every
+// card's status, the outlined hour on its bar, the counts and the widget), a
+// day plan ordered by quiet hours that saves into /my-trip, and the venue
+// photos the mock-up left out. Everything a crawler or an assistant reads —
+// names, hours in words, the bars — is still rendered here at build time; the
+// script only filters, re-orders and re-colours.
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { siteHref } from '../lib/urls.mjs';
 import Newsletter from './Newsletter.astro';
@@ -11,18 +19,20 @@ import { getCollection } from 'astro:content';
 import { heroOf, TOOL_OG } from '../lib/toolOgPhoto.mjs';
 import { useTranslations, localizePath, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
-import { resolveBusyness, quietDayGroups, dayGroupKind, dayGroupText } from '../lib/busyness.mjs';
+import { resolveBusyness, quietDayGroups, perDayBusyness, dayGroupKind, dayGroupText, DAY_NAMES } from '../lib/busyness.mjs';
 import { formatHour, formatHourRanges } from '../lib/hours.mjs';
+import { parseWeek } from '../lib/open-now.mjs';
+import { venueTimeZone } from '../lib/venue-tz.mjs';
+import { slugifyRegion } from '../lib/slug';
 import { createHash } from 'node:crypto';
 import { existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 
-// Faint card background = the venue's own photo. Reuse the SELF-HOSTED 640px WebP
+// Card photo = the venue's own photo. Reuse the SELF-HOSTED 640px WebP
 // thumbnails that build-wall.mjs already produces (public/wall/<sha1(heroUrl)>.webp,
 // ~39KB each). Hot-linking the remote originals instead would be slow and gets
 // rate-limited (Wikimedia 429s and restricts thumb sizes). Posts whose thumbnail
-// hasn't been built yet simply render without a background — the daily job fills
-// them in over time.
+// hasn't been built yet simply render without one — the daily job fills them in.
 const wallHash = (s: string) => createHash('sha1').update(s).digest('hex').slice(0, 16);
 const WALL_DIR = fileURLToPath(new URL('../../public/wall/', import.meta.url));
 const wallFor = (heroUrl?: string) => {
@@ -45,26 +55,22 @@ if (lang !== 'en') {
 }
 
 // Hours shown on the bar, and the labels that state the same thing in words.
-// Both are computed HERE, at build time, because the cards below are rendered
-// server-side now: the entire point is that the crowd hours exist as text in the
+// Both are computed HERE, at build time: the crowd hours exist as text in the
 // delivered HTML.
 const HOURS = Array.from({ length: 16 }, (_, i) => i + 7); // 7am … 10pm
-// This used to be a private copy that always said "7am". The surrounding labels
-// were translated around it, so every localized page read 「가장 한산한 시간
-// 7am–8am」 — 5,697 English tokens per page across 689 cards. lib/hours.mjs
-// already knew ko/ja/zh put the meridiem first (오전 7시); the tool just never
-// asked it. (2026-09-10)
-const hr = (h: number) => formatHour(h, { am: t('post.am'), pm: t('post.pm'), lang });
-// The label is every quiet RUN, not first-to-last. This helper used to print
-// the earliest hour to the latest, so a temple quiet at 7 and again from 19 to
-// 22 read "quiet 7am–11pm" straight across its own red midday. Measured
-// 2026-09-14: 220 of 735 cards had quiet hours in more than one run, and on 211
-// of them the printed range swallowed hours the same card marks busy — the one
-// claim this tool exists to make, wrong on three cards in ten, in five
-// languages. formatHourRanges already split runs for the post page and the
-// itinerary page; this was the copy that never asked it.
-const range = (arr?: number[]) =>
-  formatHourRanges(arr ?? [], { am: t('post.am'), pm: t('post.pm'), lang }) || null;
+const AMPM = { am: t('post.am'), pm: t('post.pm') };
+const hr = (h: number) => formatHour(h, { ...AMPM, lang });
+// The label is every quiet RUN, not first-to-last (2026-09-14: 211 of 735 cards
+// had a printed range that swallowed hours the same card marks busy).
+const range = (arr?: number[]) => formatHourRanges(arr ?? [], { ...AMPM, lang }) || null;
+
+// One hour cell, for one day: closed (outside that day's opening hours), busy,
+// quiet or neither. perDayBusyness has already removed quiet/busy hours that
+// fall outside the day's opening hours; the week tells us which are closed.
+type Cell = 'q' | 'b' | 'm' | 'x';
+const openHour = (week: number[][][] | null, day: number, h: number) =>
+  !week || week[day].some(([s, e]) => s < (h + 1) * 60 && e > h * 60) ||
+  week[(day + 6) % 7].some(([, e]) => e > 1440 && e - 1440 > h * 60);
 
 const index = posts
   .filter((p) => p.data.place?.busyness && (
@@ -74,67 +80,73 @@ const index = posts
   ))
   .map((p) => {
     const slug = p.id.replace(/\.md$/, '');
+    const place = p.data.place!;
     const country = p.data.country ?? 'South Korea';
-    // The heatmap below already resolved quiet-vs-busy correctly, cell by cell
-    // (`busy.has(h) ? 'busy' : …`), but the quiet LABEL beside it did not — so a
-    // card could read "quiet 9am-5pm" while its own cells showed 11-16 red. Same
-    // shared rule as the crowd API and the post page now.
-    const rb = resolveBusyness(p.data.place?.busyness);
-    // A card has room for one claim, so it shows the biggest group of days that
-    // agree — and says which days those are unless it is the whole week. The
-    // old card unioned weekday and weekend quiet hours into one set, which is
-    // how a Saturday-shut 11am became part of a "quiet 11am-2pm" label.
-    const groups = quietDayGroups(p.data.place?.busyness, p.data.place?.openingHours);
+    const rb = resolveBusyness(place.busyness);
+    // A card has room for one claim, so the words show the biggest group of days
+    // that agree — and say which days those are unless it is the whole week.
+    const groups = quietDayGroups(place.busyness, place.openingHours);
     const g = groups?.[0];
     const wq = groups ? (g?.quiet ?? []) : (rb.weekdayQuiet.length ? rb.weekdayQuiet : rb.weekendQuiet);
     const web = groups ? (g?.busy ?? []) : rb.weekendBusy;
     const dayLabel = g && dayGroupKind(g.days).kind !== 'daily' ? dayGroupText(g.days, t) : '';
     const withDays = (s: string | null) => (s && dayLabel ? `${dayLabel} ${s}` : s);
-    const quiet = new Set(wq);
-    const busy = new Set(web);
+    // The bar, per day of the week. The script picks the day the reader is
+    // looking at (today in the venue's own time zone, or the weekday/weekend
+    // they chose); the server renders the words' group as the default.
+    const perDay = perDayBusyness(place.busyness, place.openingHours);
+    const week = place.hoursOmitted ? null : parseWeek(place.openingHours);
+    const dayPatterns = DAY_NAMES.map((dn, di) => {
+      const d = perDay?.get(dn) ?? (di >= 5 ? { quiet: rb.weekendQuiet, busy: rb.weekendBusy } : { quiet: rb.weekdayQuiet, busy: rb.weekdayBusy });
+      const q = new Set(d.quiet), b = new Set(d.busy);
+      return HOURS.map((h): Cell => (!openHour(week, di, h) ? 'x' : b.has(h) ? 'b' : q.has(h) ? 'q' : 'm')).join('');
+    });
+    const uniq = [...new Set(dayPatterns)];
+    const quiet = new Set(wq), busy = new Set(web);
+    const defaultCells = HOURS.map((h) => (busy.has(h) ? 'b' : quiet.has(h) ? 'q' : 'm'));
     return {
       s: slug,
       u: localizePath(`/posts/${slug}`, lang),
       t: i18nTitles.get(slug) || p.data.title,
       r: localizePlace(p.data.region, lang),
+      rs: slugifyRegion(p.data.region ?? ''),
+      region: p.data.region,
+      country,
       c: localizePlace(country, lang),
       cat: p.data.category,
+      rating: typeof place.rating === 'number' ? place.rating : 0,
+      reviews: place.userRatingsTotal ?? 0,
+      tz: venueTimeZone(country, p.data.region) ?? '',
       b: wallFor(p.data.heroImage?.url),
       quietLabel: withDays(range(wq)),
       busyLabel: withDays(range(web)),
-      cells: HOURS.map((h) => (busy.has(h) ? 'busy' : quiet.has(h) ? 'quiet' : 'mid')),
+      pats: uniq.join('|'),
+      days: dayPatterns.map((x) => uniq.indexOf(x)).join(''),
+      cells: defaultCells,
     };
   })
   .sort((a, b) => a.c.localeCompare(b.c) || a.r.localeCompare(b.r) || a.t.localeCompare(b.t));
 
-// Filter options are rendered into the <select>s at build time too, so the page
-// is fully usable — and fully readable — before any script runs.
-const countries = [...new Set(index.map((d) => d.c))].sort();
+// Filter options, rendered at build time so the page is usable before any script.
+const countryCount = new Map<string, number>();
+for (const d of index) countryCount.set(d.c, (countryCount.get(d.c) ?? 0) + 1);
+const countries = [...countryCount.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
 const regionsByCountry: Record<string, string[]> = {};
 for (const d of index) (regionsByCountry[d.c] ??= []).includes(d.r) || regionsByCountry[d.c].push(d.r);
 for (const k of Object.keys(regionsByCountry)) regionsByCountry[k].sort();
 const allRegions = [...new Set(index.map((d) => d.r))].sort();
+const regionCount = new Map<string, number>();
+for (const d of index) regionCount.set(d.r, (regionCount.get(d.r) ?? 0) + 1);
+const popularCities = [...regionCount.entries()].sort((a, b) => b[1] - a[1]).slice(0, 8).map(([r]) => r);
+const catCount = new Map<string, number>();
+for (const d of index) catCount.set(d.cat, (catCount.get(d.cat) ?? 0) + 1);
 
-// Strings the client-side renderer needs.
-const strings = {
-  allCities: t('tool.allCities'),
-  places: t('tool.places'),
-  quietest: t('tool.quietest'),
-  quiet: t('tool.quiet'),
-  empty: t('tool.empty'),
-  cat: {
-    restaurant: t('cat.restaurant'),
-    trendy: t('cat.trendy'),
-    'hidden-gem': t('cat.hidden-gem'),
-    attraction: t('cat.attraction'),
-  },
-};
+// The "timed tickets" band: the most-reviewed attraction we have a photo for.
+const bandPhoto = [...index].filter((d) => d.cat === 'attraction' && d.b).sort((a, b) => b.reviews - a.reviews)[0]?.b ?? '';
 
 // ---- Aggregate findings (build-time, quotable) ----
 // The linkable asset is not the filter UI — it is a set of concrete figures a
-// journalist or blogger can quote ("X% of venues are quietest before 11 AM").
-// Computed here so they render as plain text in the delivered HTML, and stay
-// current automatically as the daily pipeline adds venues.
+// journalist or blogger can quote. Computed here so they render as plain text.
 let wdQuietTotal = 0, morningCount = 0, attrTotal = 0, attrMorning = 0;
 const weekendBusyFreq = new Map<number, number>();
 const restQuietFreq = new Map<number, number>();
@@ -159,8 +171,6 @@ for (const p of posts) {
 }
 const modeHour = (m: Map<number, number>) =>
   [...m.entries()].sort((a, b) => b[1] - a[1] || a[0] - b[0])[0]?.[0];
-// Localized clock label ("2 PM" / "오후 2시" / "午後2時" / "下午2点") for the
-// figure slots — hr() above is English-only bar labeling.
 const hourLabel = (h: number | undefined) => {
   if (h == null) return '';
   const x = ((h % 24) + 24) % 24;
@@ -174,7 +184,6 @@ const morningPct = wdQuietTotal ? Math.round((morningCount / wdQuietTotal) * 100
 const attrPct = attrTotal ? Math.round((attrMorning / attrTotal) * 100) : 0;
 const peakHour = modeHour(weekendBusyFreq);
 const restHour = modeHour(restQuietFreq);
-// Cities with enough venues for the mode to mean something.
 const cityRows = [...cityAgg.entries()]
   .filter(([, v]) => v.n >= 3 && v.freq.size)
   .sort((a, b) => b[1].n - a[1].n || a[0].localeCompare(b[0]))
@@ -183,10 +192,175 @@ const cityRows = [...cityAgg.entries()]
 const fill = (key: Parameters<typeof t>[0], vars: Record<string, string | number>) =>
   Object.entries(vars).reduce((s, [k, v]) => s.replace(`{${k}}`, String(v)), t(key));
 
-// Dataset markup alongside the WebApplication: this is what makes the page
-// discoverable in Google Dataset Search — a real inbound-link channel for a
-// dataset no other travel site publishes. English on purpose: one dataset,
-// one canonical identity across the five language routes.
+// New copy for the redesign. The page's SEO title/description and the findings
+// keep their existing translation keys (tool.*) — the URL's search identity does
+// not change with the layout.
+const L = {
+  en: {
+    crumbTools: 'Travel tools', badge: 'Free tool · no sign-up', h1a: 'When is it not busy?', h1b: 'Find the no-queue hour',
+    dek: (n: number) => `Nobody likes queues. See hour-by-hour crowd levels for ${n} places, measured from real visit data — and go when it's quiet.`,
+    searchPh: 'Place or city (e.g. Gwangjang Market, New York)', searchBtn: 'Find', popular: 'Popular cities',
+    wNow: 'Each place in its own local time · updates every minute', wPick: (when: string) => `Picked time · ${when}`,
+    wTitleNow: (n: number) => `Quiet right now: ${n} ${n === 1 ? 'place' : 'places'}`, wTitlePick: (n: number) => `Quiet then: ${n} ${n === 1 ? 'place' : 'places'}`,
+    wNone: 'Nothing in this filter is quiet at this hour — try another time.', quietUntil: (h: string) => `quiet till ${h}`,
+    sPlaces: 'Places analysed', sCountries: 'Countries', sHours: 'Hours covered',
+    listTitle: 'Quiet hours, place by place', all: 'All', cityAll: 'All cities',
+    modeNow: 'Now · local time', modePick: 'Pick a time', modeNote: 'Each place is computed in its own current local time',
+    weekday: 'Weekday', weekend: 'Weekend', sortQuiet: 'Quietest first', sortRating: 'Top rated', sortCity: 'By city',
+    count: (n: number, when: string) => `${n} places · ${when}`, whenNow: 'right now, local time',
+    stNow: { q: 'Quiet now', m: 'Moderate now', b: 'Busy now', x: 'Closed now', o: 'Outside measured hours' },
+    stAt: { q: 'Quiet', m: 'Moderate', b: 'Busy', x: 'Closed', o: 'Outside measured hours' }, local: 'local',
+    guide: 'Read the guide →', add: '+ Add to day plan', added: '✓ In day plan', more: (n: number) => `Show ${n} more ↓`,
+    planBar: (n: number) => `${n} ${n === 1 ? 'place' : 'places'} in your day plan`, clear: 'Clear', build: 'Plan by quiet hours →',
+    planTitle: 'A day ordered by quiet hours', planNote: 'About an hour per place; travel time between places is not included.',
+    multiCity: 'These places are in different cities — plan each city on its own day.', noQuiet: 'No quiet hour that day', overlap: 'Overlaps the quiet window', saveTrip: 'Save all to My trip', saved: 'Saved to My trip ✓',
+    copy: 'Copy plan link', copied: 'Link copied ✓', close: 'Close', myTrip: 'Open My trip →',
+    ticketsTitle: 'Still a queue at the quiet hour?', ticketsBody: 'Observation decks and big museums sell timed-entry tickets that do the queuing for you. Book the quiet slot and it is as sure as it gets.',
+    ticketsCta: 'Browse tickets →', itinCta: 'Itineraries in quiet order',
+    faqTitle: 'Frequently asked questions', faqDek: 'How crowd levels are calculated is set out on the', faqLink: 'methodology page',
+    faq: [
+      ['How are crowd levels calculated?', 'From each venue’s measured visit data, hour by hour (BestTime.app foot-traffic forecasts), limited to its opening hours. We pick the quietest and busiest hours of the day from that.'],
+      ['Which time zone are the hours in?', 'Always the place’s own local time. "Now" mode works out each place’s current time where it is, so a Seoul museum and a New York café are each judged by their own clock.'],
+      ['Why are weekdays and weekends separate?', 'Most places are busier at different hours on weekends. Where a place’s days differ, the card names the days its quiet hours apply to.'],
+      ['Are there places without data?', 'Yes. Only places with a measured forecast appear here. Holidays and special events can change crowds from the usual pattern.'],
+    ],
+  },
+  ko: {
+    crumbTools: '여행 도구', badge: '무료 도구 · 가입 없음', h1a: '언제 가야 안 붐빌까', h1b: '줄 없는 시간 찾기',
+    dek: (n: number) => `줄 서는 건 누구나 싫죠. 실제 방문 데이터로 분석한 ${n}곳의 시간대별 혼잡도를 보고, 가장 한산한 시간에 가세요.`,
+    searchPh: '장소나 도시 이름 (예: 광장시장, 뉴욕)', searchBtn: '찾기', popular: '인기 도시',
+    wNow: '각 장소의 현지 시각 기준 · 1분마다 갱신', wPick: (when: string) => `고른 시간 · ${when}`,
+    wTitleNow: (n: number) => `지금 가면 줄 없는 곳 ${n}곳`, wTitlePick: (n: number) => `그 시간에 한산한 곳 ${n}곳`,
+    wNone: '지금 고른 조건에서는 한산한 곳이 없어요. 다른 시간을 골라 보세요.', quietUntil: (h: string) => `한산 ~${h}`,
+    sPlaces: '분석한 장소', sCountries: '나라', sHours: '시간대',
+    listTitle: '장소별 한산한 시간', all: '전체', cityAll: '모든 도시',
+    modeNow: '지금 · 현지 시각', modePick: '시간 정해서 보기', modeNote: '장소마다 그곳의 지금 시각으로 계산해요',
+    weekday: '평일', weekend: '주말', sortQuiet: '한산한 순', sortRating: '평점순', sortCity: '도시순',
+    count: (n: number, when: string) => `${n}곳 · ${when}`, whenNow: '지금 현지 시각 기준',
+    stNow: { q: '지금 한산', m: '지금 보통', b: '지금 붐빔', x: '지금 영업 안 함', o: '지금은 측정 시간 밖' },
+    stAt: { q: '한산', m: '보통', b: '붐빔', x: '영업 안 함', o: '측정 시간 밖' }, local: '현지',
+    guide: '가이드 보기 →', add: '+ 하루 동선에 담기', added: '✓ 동선에 담김', more: (n: number) => `${n}곳 더 보기 ↓`,
+    planBar: (n: number) => `하루 동선에 담은 곳 ${n}곳`, clear: '비우기', build: '한산한 순서로 짜기 →',
+    planTitle: '한산한 시간 순서로 짠 하루', planNote: '한 곳에 1시간쯤 머문다고 보고 짰어요. 장소 사이 이동 시간은 넣지 않았습니다.',
+    multiCity: '여러 도시가 섞여 있어요. 도시마다 다른 날로 나눠 보세요.', noQuiet: '그날은 한산한 시간이 없어요', overlap: '한산한 시간과 겹침', saveTrip: '내 여행에 모두 담기', saved: '내 여행에 담았어요 ✓',
+    copy: '동선 링크 복사', copied: '링크를 복사했어요 ✓', close: '닫기', myTrip: '내 여행 열기 →',
+    ticketsTitle: '한산한 시간에도 줄이 긴 곳이라면', ticketsBody: '전망대나 인기 박물관은 시간 지정 입장권이 줄을 대신 서 줍니다. 한산한 시간에 맞춰 예약하면 가장 확실해요.',
+    ticketsCta: '입장권 둘러보기 →', itinCta: '한산한 순서의 코스',
+    faqTitle: '자주 묻는 질문', faqDek: '혼잡도를 어떻게 계산하는지는', faqLink: '방법론 페이지에 자세히 적었습니다',
+    faq: [
+      ['혼잡도는 어떻게 계산하나요?', '장소별 실제 방문 데이터(BestTime.app의 시간대별 방문 예측)를 영업시간 안에서 시간대별로 분석해, 하루 중 가장 한산한 시간과 붐비는 시간을 뽑습니다.'],
+      ['시간은 어느 나라 기준인가요?', '언제나 그 장소의 현지 시각입니다. "지금" 보기는 장소마다 그곳의 현재 시각을 따로 계산해서, 서울 박물관과 뉴욕 카페를 각자의 시계로 판단합니다.'],
+      ['평일과 주말은 왜 따로 보나요?', '대부분의 장소는 주말에 붐비는 시간이 다릅니다. 요일마다 다른 곳은 카드에 한산한 시간이 해당하는 요일을 함께 적었습니다.'],
+      ['데이터가 없는 곳도 있나요?', '네. 방문 예측 데이터가 있는 곳만 여기에 나옵니다. 공휴일이나 특별한 행사가 있는 날은 평소와 다를 수 있습니다.'],
+    ],
+  },
+  ja: {
+    crumbTools: '旅行ツール', badge: '無料ツール · 登録不要', h1a: 'いつ行けば空いている？', h1b: '行列のない時間を探す',
+    dek: (n: number) => `行列は誰でも避けたいもの。実際の来訪データから分析した${n}か所の時間帯別の混雑度を見て、いちばん空いている時間に出かけましょう。`,
+    searchPh: '場所や都市の名前（例：広蔵市場、ニューヨーク）', searchBtn: '探す', popular: '人気の都市',
+    wNow: '各スポットの現地時間で計算 · 1分ごとに更新', wPick: (when: string) => `選んだ時間 · ${when}`,
+    wTitleNow: (n: number) => `今行けば空いている場所 ${n}か所`, wTitlePick: (n: number) => `その時間に空いている場所 ${n}か所`,
+    wNone: 'この条件で空いている場所はありません。別の時間を選んでみてください。', quietUntil: (h: string) => `空いている 〜${h}`,
+    sPlaces: '分析したスポット', sCountries: '国', sHours: '時間帯',
+    listTitle: 'スポット別の空いている時間', all: 'すべて', cityAll: 'すべての都市',
+    modeNow: '今 · 現地時間', modePick: '時間を指定', modeNote: 'スポットごとに現地の今の時刻で計算します',
+    weekday: '平日', weekend: '週末', sortQuiet: '空いている順', sortRating: '評価順', sortCity: '都市順',
+    count: (n: number, when: string) => `${n}か所 · ${when}`, whenNow: '今の現地時間',
+    stNow: { q: '今は空いている', m: '今は普通', b: '今は混雑', x: '今は営業時間外', o: '今は計測時間外' },
+    stAt: { q: '空いている', m: '普通', b: '混雑', x: '営業時間外', o: '計測時間外' }, local: '現地',
+    guide: 'ガイドを見る →', add: '+ 1日のルートに追加', added: '✓ ルートに追加済み', more: (n: number) => `あと${n}か所を見る ↓`,
+    planBar: (n: number) => `1日のルートに${n}か所`, clear: 'クリア', build: '空いている順に組む →',
+    planTitle: '空いている時間の順に組んだ1日', planNote: '1か所に約1時間いると仮定しています。移動時間は含みません。',
+    multiCity: '複数の都市が混ざっています。都市ごとに別の日に分けてください。', noQuiet: 'その日は空いている時間がありません', overlap: '空いている時間と重なっています', saveTrip: 'マイトリップにすべて保存', saved: 'マイトリップに保存しました ✓',
+    copy: 'ルートのリンクをコピー', copied: 'リンクをコピーしました ✓', close: '閉じる', myTrip: 'マイトリップを開く →',
+    ticketsTitle: '空いている時間でも行列が長い場所なら', ticketsBody: '展望台や人気の博物館は、時間指定チケットが行列の代わりになります。空いている時間に合わせて予約するのがいちばん確実です。',
+    ticketsCta: 'チケットを見る →', itinCta: '空いている順のモデルコース',
+    faqTitle: 'よくある質問', faqDek: '混雑度の計算方法は', faqLink: '方法論のページで詳しく説明しています',
+    faq: [
+      ['混雑度はどう計算していますか？', 'スポットごとの実際の来訪データ（BestTime.appの時間帯別予測）を営業時間内で時間ごとに分析し、1日のうちいちばん空いている時間と混む時間を割り出しています。'],
+      ['時間はどこの国の時刻ですか？', '常にそのスポットの現地時間です。「今」の表示はスポットごとに現地の現在時刻を計算するので、ソウルの博物館とニューヨークのカフェをそれぞれの時計で判断します。'],
+      ['なぜ平日と週末を分けるのですか？', '多くの場所は週末に混む時間帯が変わります。曜日で違う場所は、空いている時間が当てはまる曜日をカードに書いています。'],
+      ['データがない場所もありますか？', 'はい。来訪予測データがある場所だけを載せています。祝日や特別なイベントの日はいつもと違うことがあります。'],
+    ],
+  },
+  es: {
+    crumbTools: 'Herramientas de viaje', badge: 'Herramienta gratis · sin registro', h1a: '¿Cuándo hay menos gente?', h1b: 'Encuentra la hora sin colas',
+    dek: (n: number) => `A nadie le gustan las colas. Mira la afluencia hora a hora de ${n} lugares, medida con datos reales de visitas, y ve cuando esté tranquilo.`,
+    searchPh: 'Lugar o ciudad (p. ej. Mercado de Gwangjang, Nueva York)', searchBtn: 'Buscar', popular: 'Ciudades populares',
+    wNow: 'Cada lugar en su hora local · se actualiza cada minuto', wPick: (when: string) => `Hora elegida · ${when}`,
+    wTitleNow: (n: number) => `Tranquilos ahora mismo: ${n}`, wTitlePick: (n: number) => `Tranquilos a esa hora: ${n}`,
+    wNone: 'Con este filtro no hay nada tranquilo a esta hora. Prueba otra.', quietUntil: (h: string) => `tranquilo hasta ${h}`,
+    sPlaces: 'Lugares analizados', sCountries: 'Países', sHours: 'Horas',
+    listTitle: 'Horas tranquilas, lugar por lugar', all: 'Todos', cityAll: 'Todas las ciudades',
+    modeNow: 'Ahora · hora local', modePick: 'Elegir una hora', modeNote: 'Cada lugar se calcula con su hora local actual',
+    weekday: 'Entre semana', weekend: 'Fin de semana', sortQuiet: 'Más tranquilos', sortRating: 'Mejor valorados', sortCity: 'Por ciudad',
+    count: (n: number, when: string) => `${n} lugares · ${when}`, whenNow: 'ahora, hora local',
+    stNow: { q: 'Tranquilo ahora', m: 'Normal ahora', b: 'Lleno ahora', x: 'Cerrado ahora', o: 'Fuera de las horas medidas' },
+    stAt: { q: 'Tranquilo', m: 'Normal', b: 'Lleno', x: 'Cerrado', o: 'Fuera de las horas medidas' }, local: 'local',
+    guide: 'Ver la guía →', add: '+ Añadir al plan del día', added: '✓ En el plan', more: (n: number) => `Ver ${n} más ↓`,
+    planBar: (n: number) => `${n} lugares en tu plan del día`, clear: 'Vaciar', build: 'Ordenar por horas tranquilas →',
+    planTitle: 'Un día ordenado por horas tranquilas', planNote: 'Calculado con una hora por lugar; no incluye el tiempo de desplazamiento.',
+    multiCity: 'Hay lugares de varias ciudades: planifica cada ciudad en un día distinto.', noQuiet: 'Ese día no tiene hora tranquila', overlap: 'Se solapa con la hora tranquila', saveTrip: 'Guardar todo en Mi viaje', saved: 'Guardado en Mi viaje ✓',
+    copy: 'Copiar enlace del plan', copied: 'Enlace copiado ✓', close: 'Cerrar', myTrip: 'Abrir Mi viaje →',
+    ticketsTitle: '¿Hay cola incluso a la hora tranquila?', ticketsBody: 'Miradores y museos famosos venden entradas con hora que hacen la cola por ti. Reserva la franja tranquila y vas sobre seguro.',
+    ticketsCta: 'Ver entradas →', itinCta: 'Rutas en orden tranquilo',
+    faqTitle: 'Preguntas frecuentes', faqDek: 'Cómo calculamos la afluencia se explica en la', faqLink: 'página de metodología',
+    faq: [
+      ['¿Cómo se calcula la afluencia?', 'Con los datos medidos de visitas de cada lugar, hora a hora (previsiones de afluencia de BestTime.app), limitados a su horario de apertura. De ahí sacamos las horas más tranquilas y más llenas del día.'],
+      ['¿En qué zona horaria están las horas?', 'Siempre en la hora local del lugar. El modo "ahora" calcula la hora actual de cada sitio, así que un museo de Seúl y un café de Nueva York se juzgan cada uno con su reloj.'],
+      ['¿Por qué separar entre semana y fin de semana?', 'La mayoría de los lugares se llenan a otras horas el fin de semana. Donde los días cambian, la tarjeta indica a qué días se refieren las horas tranquilas.'],
+      ['¿Hay lugares sin datos?', 'Sí. Aquí solo aparecen lugares con previsión medida. Festivos y eventos especiales pueden cambiar la afluencia habitual.'],
+    ],
+  },
+  zh: {
+    crumbTools: '旅行工具', badge: '免费工具 · 无需注册', h1a: '什么时候去不挤？', h1b: '找到不用排队的时段',
+    dek: (n: number) => `没人喜欢排队。看看根据真实到访数据分析的 ${n} 个地点的分时段拥挤度，挑最空闲的时候去。`,
+    searchPh: '地点或城市（例如：广藏市场、纽约）', searchBtn: '查找', popular: '热门城市',
+    wNow: '按各地点的当地时间计算 · 每分钟更新', wPick: (when: string) => `所选时间 · ${when}`,
+    wTitleNow: (n: number) => `现在去不用排队的地方：${n} 处`, wTitlePick: (n: number) => `那个时段空闲的地方：${n} 处`,
+    wNone: '在当前条件下没有空闲的地方，换个时间试试。', quietUntil: (h: string) => `空闲至${h}`,
+    sPlaces: '分析的地点', sCountries: '国家', sHours: '时段',
+    listTitle: '各地点的空闲时段', all: '全部', cityAll: '所有城市',
+    modeNow: '现在 · 当地时间', modePick: '指定时间', modeNote: '每个地点按其当地当前时间计算',
+    weekday: '工作日', weekend: '周末', sortQuiet: '最空闲优先', sortRating: '评分最高', sortCity: '按城市',
+    count: (n: number, when: string) => `${n} 处 · ${when}`, whenNow: '现在，当地时间',
+    stNow: { q: '现在空闲', m: '现在一般', b: '现在拥挤', x: '现在未营业', o: '现在不在统计时段' },
+    stAt: { q: '空闲', m: '一般', b: '拥挤', x: '未营业', o: '不在统计时段' }, local: '当地',
+    guide: '查看指南 →', add: '+ 加入一日行程', added: '✓ 已加入行程', more: (n: number) => `再看 ${n} 处 ↓`,
+    planBar: (n: number) => `一日行程中有 ${n} 处`, clear: '清空', build: '按空闲时段排行程 →',
+    planTitle: '按空闲时段排好的一天', planNote: '按每处停留约 1 小时计算，未包含地点之间的交通时间。',
+    multiCity: '行程里有不同城市的地点，建议每个城市分开安排在不同的日子。', noQuiet: '那天没有空闲时段', overlap: '与空闲时段重叠', saveTrip: '全部存入我的行程', saved: '已存入我的行程 ✓',
+    copy: '复制行程链接', copied: '链接已复制 ✓', close: '关闭', myTrip: '打开我的行程 →',
+    ticketsTitle: '空闲时段也要排长队的地方', ticketsBody: '观景台和热门博物馆有分时段门票，能替你排队。按空闲时段预约最稳妥。',
+    ticketsCta: '浏览门票 →', itinCta: '按空闲顺序的路线',
+    faqTitle: '常见问题', faqDek: '拥挤度如何计算，详见', faqLink: '方法论页面',
+    faq: [
+      ['拥挤度是怎么算的？', '根据每个地点实测的到访数据（BestTime.app 的分时段人流预测），在营业时间内逐小时分析，找出一天中最空闲和最拥挤的时段。'],
+      ['时间按哪个国家算？', '始终是该地点的当地时间。"现在"模式会分别计算每个地点的当前时间，首尔的博物馆和纽约的咖啡馆各按自己的时钟判断。'],
+      ['为什么把工作日和周末分开？', '大多数地方周末拥挤的时段不同。不同日子情况不一样的地方，卡片上会注明空闲时段适用于哪几天。'],
+      ['有没有没有数据的地方？', '有。这里只列出有实测预测数据的地点。节假日和特别活动期间可能与平时不同。'],
+    ],
+  },
+} as const;
+const T = L[lang];
+const catLabel: Record<string, string> = {
+  restaurant: t('cat.restaurant'), trendy: t('cat.trendy'), 'hidden-gem': t('cat.hidden-gem'), attraction: t('cat.attraction'),
+};
+const nf = new Intl.NumberFormat(lang === 'zh' ? 'zh-CN' : lang);
+const STR = {
+  stNow: T.stNow, stAt: T.stAt, local: T.local, weekday: T.weekday, weekend: T.weekend, whenNow: T.whenNow,
+  add: T.add, added: T.added, saved: T.saved, copied: T.copied, noQuiet: T.noQuiet, multiCity: T.multiCity, overlap: T.overlap,
+  wNone: T.wNone, guide: T.guide,
+  am: AMPM.am, pm: AMPM.pm, lang,
+};
+// Every hour label pre-formatted here, so the script never re-implements the
+// localized clock.
+const HOUR_TEXT = Object.fromEntries(Array.from({ length: 24 }, (_, h) => [h, hr(h)]));
+
+const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const pageUrl = siteHref(Astro.url.pathname, Astro.site);
+// Dataset markup: what makes the page discoverable in Google Dataset Search.
+// English on purpose: one dataset, one canonical identity across five routes.
 const datasetLd = {
   '@context': 'https://schema.org',
   '@type': 'Dataset',
@@ -198,12 +372,6 @@ const datasetLd = {
   isAccessibleForFree: true,
   temporalCoverage: '2026/..',
 };
-
-// Breadcrumbs. Every other hub type on the site emits a BreadcrumbList; the
-// four tool pages were the only ones that never did, so Google had no parent
-// for them and printed a bare URL where the other hubs get a Home > ... trail.
-const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
-const pageUrl = siteHref(Astro.url.pathname, Astro.site);
 const jsonLd = {
   '@context': 'https://schema.org',
   '@graph': [
@@ -221,292 +389,653 @@ const jsonLd = {
       { '@type': 'ListItem', position: 1, name: t('post.home'), item: siteHref(localizePath('/', lang), Astro.site) },
       { '@type': 'ListItem', position: 2, name: t('tool.h1'), item: pageUrl },
     ] },
+    { '@type': 'FAQPage', mainEntity: T.faq.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: a } })) },
   ],
 };
+const PAGE = 24;
+const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
 ---
 <BaseLayout image={heroOf(posts, TOOL_OG.bestTime)} title={t('tool.metaTitle')} description={t('tool.metaDesc')} jsonLd={jsonLd} localized={true}>
-  <section class="tool">
-    <div class="wrap">
-      <p class="kicker gold">{t('tool.kicker')}</p>
-      <h1>{t('tool.h1')}</h1>
-      <p class="dek">{t('tool.dek').replace('{n}', String(index.length))}</p>
+  <section class="bt" data-bt data-page={PAGE}>
+    <nav class="bt-crumb" aria-label="breadcrumb"><a href={localizePath('/', lang)}>{t('post.home')}</a><span aria-hidden="true">·</span><span>{T.crumbTools}</span><span aria-hidden="true">·</span><span>{t('tool.h1')}</span></nav>
 
-      <div class="filters">
-        <label>{t('tool.country')}<select id="f-country">
-          <option value="">{t('tool.allCountries')}</option>
-          {countries.map((c) => <option value={c}>{c}</option>)}
-        </select></label>
-        <label>{t('tool.city')}<select id="f-region">
-          <option value="">{t('tool.allCities')}</option>
-          {allRegions.map((r) => <option value={r}>{r}</option>)}
-        </select></label>
-        <label>{t('tool.type')}<select id="f-cat">
-          <option value="">{t('tool.allTypes')}</option>
-          <option value="restaurant">{t('cat.restaurant')}</option>
-          <option value="trendy">{t('cat.trendy')}</option>
-          <option value="hidden-gem">{t('cat.hidden-gem')}</option>
-          <option value="attraction">{t('cat.attraction')}</option>
-        </select></label>
+    <!-- Hero: search + the "quiet right now" widget -->
+    <div class="bt-hero">
+      <div class="bt-hero-copy">
+        <span class="bt-pill">{T.badge}</span>
+        <h1><span>{T.h1a}</span> <em>{T.h1b}</em></h1>
+        <p class="bt-dek">{T.dek(index.length)}</p>
+        <form class="bt-search" role="search" data-search-form>
+          <span aria-hidden="true">⌕</span>
+          <input type="search" name="q" placeholder={T.searchPh} aria-label={T.searchPh} data-q autocomplete="off" />
+          <button type="submit">{T.searchBtn}</button>
+        </form>
+        <div class="bt-popular"><span>{T.popular}</span>{popularCities.map((r) => <button type="button" class="bt-tag" data-city={r}>{r}</button>)}</div>
       </div>
+      <aside class="bt-widget" aria-live="polite">
+        <p class="bt-w-kicker"><i></i><span data-w-kicker>{T.wNow}</span></p>
+        <h2 class="bt-w-title" data-w-title>{T.wTitleNow(0)}</h2>
+        <ol class="bt-w-list" data-w-list></ol>
+        <p class="bt-w-none" data-w-none hidden>{T.wNone}</p>
+        <div class="bt-w-stats">
+          <div><span>{T.sPlaces}</span><b>{nf.format(index.length)}</b></div>
+          <div><span>{T.sCountries}</span><b>{countries.length}</b></div>
+          <div><span>{T.sHours}</span><b>{hr(7)}–{hr(22)}</b></div>
+        </div>
+      </aside>
+    </div>
 
-      <div class="meta">
-        <p id="count" class="count">{t('tool.places').replace('{n}', String(index.length))}</p>
-        <div class="legend">
-          <span><i class="sw-quiet"></i> {t('tool.quiet')}</span>
-          <span><i class="sw-mid"></i> {t('tool.normal')}</span>
-          <span><i class="sw-busy"></i> {t('tool.busy')}</span>
+    <!-- Filters -->
+    <h2 class="bt-h2">{T.listTitle}</h2>
+    <div class="bt-filters">
+      <div class="bt-row">
+        <div class="bt-seg" role="group" data-cat-group>
+          <button type="button" class="is-on" data-cat="">{T.all}</button>
+          {(['attraction', 'hidden-gem', 'restaurant', 'trendy'] as const).filter((c) => catCount.get(c)).map((c) => <button type="button" data-cat={c}>{catLabel[c]}</button>)}
+        </div>
+        <div class="bt-chips" role="group" data-country-group>
+          <button type="button" class="is-on" data-country="">{T.all} <small>{index.length}</small></button>
+          {countries.map(([c, n]) => <button type="button" data-country={c}>{c} <small>{n}</small></button>)}
         </div>
       </div>
-      {/* The page ran h1 straight into 157 h3 cards with no h2 anywhere — the
-          largest single heading skip on the site. The results list is the
-          section; it just never had a name a screen reader could see. */}
-      <h2 class="sr-only">{t('a11y.results')}</h2>
-      {/* Rendered here, at build time, not injected by the script below. The
-          crowd hours are the one thing on this site that assistants cannot get
-          from Google Maps — and assistants do not run JavaScript, so for as long
-          as this list was written by the client it was a blank page to exactly
-          the readers it was built for. The script now filters these nodes; it no
-          longer creates them. */}
-      <div id="results" class="results">
-        {index.map((d) => (
-          <a class="card" href={d.u} data-c={d.c} data-r={d.r} data-cat={d.cat}>
-            <div class="photo" data-bg={d.b || undefined}>
-              <span class="badge">{strings.cat[d.cat as keyof typeof strings.cat] || d.cat} · {d.r}</span>
-              {d.quietLabel && <span class="chip">{d.quietLabel} {t('tool.quiet')}</span>}
-            </div>
-            <div class="body">
-              <h3>{d.t}</h3>
-              {/* The same figures the bar draws, in words — this is the part a
-                  language model can quote. */}
-              <p class="hours">
-                {d.quietLabel && <span>{t('tool.quietest')} {d.quietLabel}</span>}
-                {d.quietLabel && d.busyLabel && <span aria-hidden="true"> · </span>}
-                {d.busyLabel && <span>{t('tool.busy')} {d.busyLabel}</span>}
-              </p>
-              {/* aria-hidden and no per-cell title: the sentence above states
-                  the same hours, and the scale below labels the axis. The
-                  titles were 11,584 attributes on this page — 161 KB, 19% of
-                  the HTML — bought for a tooltip nobody hovers on a phone
-                  (measured 2026-09-13). */}
-              <div class="barwrap" aria-hidden="true">
-                <div class="bar">{d.cells.map((cls) => <i class={cls}></i>)}</div>
-                <div class="barlab"><span>{hr(7)}</span><span>{hr(14)}</span><span>{hr(22)}</span></div>
-              </div>
-            </div>
-          </a>
-        ))}
+    </div>
+    <div class="bt-list">
+    <div class="bt-sticky">
+      <div class="bt-row">
+        <div class="bt-seg bt-mode" role="group">
+          <button type="button" class="is-on" data-mode="now">{T.modeNow}</button>
+          <button type="button" data-mode="pick">{T.modePick}</button>
+        </div>
+        <span class="bt-note" data-mode-note>{T.modeNote}</span>
+        <div class="bt-pick" data-pick hidden>
+          <div class="bt-seg"><button type="button" class="is-on" data-dt="wd">{T.weekday}</button><button type="button" data-dt="we">{T.weekend}</button></div>
+          <input type="range" min="7" max="22" step="1" value="10" data-hour aria-label={T.modePick} />
+          <output data-hour-out>{hr(10)}</output>
+        </div>
+        <select class="bt-select" data-region aria-label={T.cityAll}>
+          <option value="">{T.cityAll}</option>
+          {allRegions.map((r) => <option value={r}>{r}</option>)}
+        </select>
+        <div class="bt-seg bt-sort" role="group">
+          <button type="button" class="is-on" data-sort="quiet">{T.sortQuiet}</button>
+          <button type="button" data-sort="rating">{T.sortRating}</button>
+          <button type="button" data-sort="city">{T.sortCity}</button>
+        </div>
       </div>
-      <p class="empty" id="empty" hidden>{t('tool.empty')}</p>
-      <p class="foot">{t('tool.foot')}</p>
-      {/* The payload's docs field promises /api/ — and until 2026-08-28 this
-          page never mentioned the API at all (outside reviewer: "no API access
-          pathway is evident"). URL-shaped anchor text on purpose: language-
-          neutral, and a journalist can read the citation path at a glance. */}
-      <p class="foot" set:html={t('tool.apiCite')
+    </div>
+    <div class="bt-meta">
+      <p class="bt-count" data-count>{t('tool.places').replace('{n}', String(index.length))}</p>
+      <div class="bt-legend">
+        <span><i class="sw-quiet"></i>{t('tool.quiet')} <b data-n-q></b></span>
+        <span><i class="sw-mid"></i>{t('tool.normal')} <b data-n-m></b></span>
+        <span><i class="sw-busy"></i>{t('tool.busy')} <b data-n-b></b></span>
+      </div>
+    </div>
+
+    <!-- Cards: rendered here, at build time. Assistants and crawlers do not run
+         JavaScript; the hours in words and the bars are in the HTML. -->
+    <div class="bt-results" data-results>
+      {index.map((d, i) => (
+        <article class:list={['bt-card', { 'is-more': i >= PAGE }]} data-s={d.s} data-c={d.c} data-r={d.r} data-cat={d.cat}
+          data-rating={d.rating} data-tz={d.tz} data-p={d.pats} data-d={d.days}
+          data-q={`${d.t} ${d.r} ${d.c} ${d.region} ${d.country}`.toLowerCase()}
+          data-save={JSON.stringify({ slug: d.s, title: d.t, region: d.region, country: d.country, href: d.u, image: d.b, rs: d.rs })}>
+          <a class="bt-photo" href={d.u} tabindex="-1" aria-hidden="true">
+            {d.b ? <img src={d.b} alt="" loading="lazy" decoding="async" width="320" height="180" /> : <span class="bt-ph"></span>}
+            <span class="bt-badge">{catLabel[d.cat] || d.cat}</span>
+          </a>
+          <div class="bt-body">
+            <div class="bt-top"><span class="bt-where">{d.r} · {d.c}</span>{d.rating > 0 && <span class="bt-rate">★ {d.rating.toFixed(1)}</span>}</div>
+            <h3><a href={d.u}>{d.t}</a></h3>
+            <p class="bt-status" data-status></p>
+            <div class="bt-barwrap" aria-hidden="true">
+              <div class="bt-bar">{d.cells.map((c) => <i class={cellCls[c as keyof typeof cellCls]}></i>)}</div>
+              <div class="bt-barlab"><span>{hr(7)}</span><span>{hr(12)}</span><span>{hr(17)}</span><span>{hr(22)}</span></div>
+            </div>
+            <p class="bt-hours">
+              {d.quietLabel && <span class="bt-hq">{t('tool.quietest')} {d.quietLabel}</span>}
+              {d.busyLabel && <span class="bt-hb">{t('tool.busy')} {d.busyLabel}</span>}
+            </p>
+            <div class="bt-actions">
+              <a class="bt-guide" href={d.u}>{T.guide}</a>
+              <button type="button" class="bt-add" data-add aria-pressed="false">{T.add}</button>
+            </div>
+          </div>
+        </article>
+      ))}
+    </div>
+    <p class="bt-empty" data-empty hidden>{t('tool.empty')}</p>
+    <button type="button" class="bt-more" data-more hidden></button>
+    </div>
+
+    <!-- Timed tickets -->
+    <div class="bt-tickets">
+      {bandPhoto && <img src={bandPhoto} alt="" loading="lazy" width="320" height="180" />}
+      <div>
+        <h2>{T.ticketsTitle}</h2>
+        <p>{T.ticketsBody}</p>
+      </div>
+      <div class="bt-tickets-cta">
+        <a class="bt-btn bt-btn-cta" href="https://klook.tpx.lv/2NXPH8MA" target="_blank" rel="sponsored noopener" data-affiliate-placement="besttime-tickets">{T.ticketsCta}</a>
+        <a class="bt-btn bt-btn-ghost" href={localizePath('/itinerary', lang)}>{T.itinCta}</a>
+      </div>
+    </div>
+
+    <!-- Quotable findings (the journalist asset) -->
+    <section class="bt-findings" aria-labelledby="findings-h">
+      <h2 id="findings-h">{t('tool.findings.h2')}</h2>
+      <p class="bt-sub">{fill('tool.findings.intro', { n: index.length })}</p>
+      <ul class="bt-facts">
+        {wdQuietTotal >= 30 && <li>{fill('tool.findings.morning', { pct: morningPct })}</li>}
+        {peakHour != null && <li>{fill('tool.findings.peak', { hour: hourLabel(peakHour) })}</li>}
+        {attrTotal >= 10 && restHour != null && <li>{fill('tool.findings.cats', { aPct: attrPct, rHour: hourLabel(restHour) })}</li>}
+      </ul>
+      {cityRows.length > 0 && (
+        <>
+          <h3>{t('tool.findings.city.h3')}</h3>
+          <div class="bt-tbl">
+            <table>
+              <thead><tr><th>{t('tool.findings.city.city')}</th><th>{t('tool.findings.city.hour')}</th><th>{t('tool.findings.city.n')}</th></tr></thead>
+              <tbody>{cityRows.map((r) => <tr><td>{r.city}</td><td>{r.hour}</td><td>{r.n}</td></tr>)}</tbody>
+            </table>
+          </div>
+        </>
+      )}
+      <h3>{t('tool.findings.method.h3')}</h3>
+      <p>{fill('tool.findings.method.body', { n: index.length })}</p>
+      <h3>{t('tool.cite.h3')}</h3>
+      <p>{t('tool.cite.body')}</p>
+      <p class="bt-foot">{t('tool.foot')}</p>
+      <p class="bt-foot" set:html={t('tool.apiCite')
         .replace('{api}', '<a href="https://besttime.app" rel="noopener">besttime.app</a>')
         .replace('{method}', '<a href="/methodology/">wanderatlasguides.com/methodology</a>')} />
+    </section>
 
-      <section class="findings" aria-labelledby="findings-h">
-        <h2 id="findings-h">{t('tool.findings.h2')}</h2>
-        <p class="dek">{fill('tool.findings.intro', { n: index.length })}</p>
-        <ul class="facts">
-          {wdQuietTotal >= 30 && <li>{fill('tool.findings.morning', { pct: morningPct })}</li>}
-          {peakHour != null && <li>{fill('tool.findings.peak', { hour: hourLabel(peakHour) })}</li>}
-          {attrTotal >= 10 && restHour != null && (
-            <li>{fill('tool.findings.cats', { aPct: attrPct, rHour: hourLabel(restHour) })}</li>
-          )}
-        </ul>
-        {cityRows.length > 0 && (
-          <>
-            <h3>{t('tool.findings.city.h3')}</h3>
-            <div class="tblwrap">
-              <table>
-                <thead>
-                  <tr>
-                    <th>{t('tool.findings.city.city')}</th>
-                    <th>{t('tool.findings.city.hour')}</th>
-                    <th>{t('tool.findings.city.n')}</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {cityRows.map((r) => (
-                    <tr><td>{r.city}</td><td>{r.hour}</td><td>{r.n}</td></tr>
-                  ))}
-                </tbody>
-              </table>
-            </div>
-          </>
-        )}
-        <h3>{t('tool.findings.method.h3')}</h3>
-        <p>{fill('tool.findings.method.body', { n: index.length })}</p>
-        <h3>{t('tool.cite.h3')}</h3>
-        <p>{t('tool.cite.body')}</p>
-      </section>
+    <!-- FAQ -->
+    <section class="bt-faq">
+      <div>
+        <h2 class="bt-h2">{T.faqTitle}</h2>
+        <p class="bt-sub">{T.faqDek} <a href={localizePath('/methodology', lang)}>{T.faqLink}</a>.</p>
+      </div>
+      <div class="bt-faq-list">{T.faq.map(([q, a], i) => <details open={i === 0}><summary>{q}</summary><p>{a}</p></details>)}</div>
+    </section>
+
+    <!-- Day plan: bottom bar + dialog -->
+    <div class="bt-planbar" data-planbar hidden>
+      <span>♥ <b data-plan-n></b></span>
+      <button type="button" class="bt-btn bt-btn-ghost bt-sm" data-plan-clear>{T.clear}</button>
+      <button type="button" class="bt-btn bt-btn-cta bt-sm" data-plan-open>{T.build}</button>
     </div>
+    <dialog class="bt-dialog" data-plan-dialog aria-labelledby="bt-plan-h">
+      <div class="bt-dialog-head">
+        <h2 id="bt-plan-h">{T.planTitle}</h2>
+        <button type="button" class="bt-x" data-plan-close aria-label={T.close}>×</button>
+      </div>
+      <div class="bt-seg" data-plan-dt><button type="button" class="is-on" data-dt="wd">{T.weekday}</button><button type="button" data-dt="we">{T.weekend}</button></div>
+      <p class="bt-plan-note">{T.planNote}</p>
+      <p class="bt-plan-warn" data-plan-warn hidden></p>
+      <ol class="bt-timeline" data-plan-list></ol>
+      <div class="bt-dialog-actions">
+        <button type="button" class="bt-btn bt-btn-cta" data-plan-save>{T.saveTrip}</button>
+        <button type="button" class="bt-btn bt-btn-ghost" data-plan-copy>{T.copy}</button>
+        <a class="bt-link" href={localizePath('/my-trip', lang)}>{T.myTrip}</a>
+      </div>
+    </dialog>
   </section>
 
   <script type="application/ld+json" set:html={JSON.stringify(datasetLd)} />
+  <script type="application/json" id="bt-strings" set:html={JSON.stringify({ ...STR, hours: HOUR_TEXT, regions: regionsByCountry, wTitleNow: T.wTitleNow(0), more: T.more(0), planBar: T.planBar(0), count: T.count(0, '{when}'), wTitlePick: T.wTitlePick(0), wPick: T.wPick('{when}'), quietUntil: T.quietUntil('{h}'), wNow: T.wNow })} />
 
   <Newsletter lang={lang} />
 
-  <script type="application/json" id="regions" set:html={JSON.stringify(regionsByCountry)} />
-  <script is:inline data-count-tpl={t('tool.places')}>
-    (() => {
-      // Filters what the server already rendered. It does not build the list —
-      // see the note on #results. Everything here degrades to "all cards
-      // visible", which is a correct page.
-      const REGIONS = JSON.parse(document.getElementById('regions').textContent);
-      const COUNT_TPL = document.currentScript.dataset.countTpl;
-      const $c = document.getElementById('f-country');
-      const $r = document.getElementById('f-region');
-      const $cat = document.getElementById('f-cat');
-      const $count = document.getElementById('count');
-      const $empty = document.getElementById('empty');
-      const cards = Array.prototype.slice.call(document.querySelectorAll('#results .card'));
-      const allCitiesOption = $r.options[0].cloneNode(true);
+  <script>
+    // ── Data the server rendered ─────────────────────────────────────────
+    const root = document.querySelector<HTMLElement>('[data-bt]')!;
+    const S = JSON.parse(document.getElementById('bt-strings')!.textContent || '{}');
+    // Counted phrases arrive rendered with 0; swap the number for the live one.
+    const num = (tpl: string, n: number) => tpl.replace(/0/, String(n));
+    const H = (h: number) => S.hours[h] as string;
+    const PAGE = Number(root.dataset.page) || 24;
+    type Card = { el: HTMLElement; tz: string; pats: string[]; days: string; rating: number; order: number; status: string; hour: number; day: number };
+    const cards: Card[] = [...root.querySelectorAll<HTMLElement>('.bt-card')].map((el, i) => ({
+      el, tz: el.dataset.tz || '', pats: (el.dataset.p || '').split('|'), days: el.dataset.d || '0000000',
+      rating: Number(el.dataset.rating) || 0, order: i, status: 'o', hour: -1, day: 0,
+    }));
+    const WEEK = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
+    const clock = (tz: string) => {
+      try {
+        const parts = new Intl.DateTimeFormat('en-US', { timeZone: tz || undefined, weekday: 'long', hour: '2-digit', hourCycle: 'h23' }).formatToParts(new Date());
+        const get = (t: string) => parts.find((p) => p.type === t)?.value ?? '';
+        return { day: Math.max(0, WEEK.indexOf(get('weekday'))), hour: Number(get('hour')) % 24 };
+      } catch { const d = new Date(); return { day: (d.getDay() + 6) % 7, hour: d.getHours() }; }
+    };
 
-      function refreshRegions() {
-        const c = $c.value;
-        const regions = c ? (REGIONS[c] || []) : [...new Set(Object.values(REGIONS).flat())].sort();
-        $r.replaceChildren(allCitiesOption.cloneNode(true));
-        for (const r of regions) $r.add(new Option(r, r));
+    // ── State ────────────────────────────────────────────────────────────
+    const st = { mode: 'now', dt: 'wd', hour: 10, cat: '', country: '', region: '', q: '', sort: 'quiet', shown: PAGE };
+    const pattern = (c: Card, day: number) => c.pats[Number(c.days[day]) || 0] || '';
+    const cellAt = (pat: string, h: number) => (h < 7 || h > 22 ? 'o' : pat[h - 7] || 'o');
+    // End of the quiet run that contains `h` (exclusive hour).
+    const quietEnd = (pat: string, h: number) => { let e = h; while (e <= 22 && pat[e - 7] === 'q') e++; return e; };
+    const CLS: Record<string, string> = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' };
+    // A guide's title is "Place: what to know (4.5★)"; small spaces want the place.
+    const shortName = (c: Card) => (c.el.querySelector('h3')!.textContent || '').split(/\s*[:：(（]/)[0].trim();
+
+    function evaluate() {
+      for (const c of cards) {
+        if (st.mode === 'now') { const k = clock(c.tz); c.day = k.day; c.hour = k.hour; }
+        else { c.day = st.dt === 'wd' ? 2 : 5; c.hour = st.hour; }   // a Wednesday / a Saturday
+        const pat = pattern(c, c.day);
+        c.status = cellAt(pat, c.hour);
+        // Bar: that day's cells, the hour being looked at outlined.
+        const cells = c.el.querySelectorAll<HTMLElement>('.bt-bar i');
+        cells.forEach((cell, i) => {
+          cell.className = CLS[pat[i]] || 'mid';
+          if (i + 7 === c.hour) cell.classList.add('is-now');
+        });
+        const label = (st.mode === 'now' ? S.stNow : S.stAt)[c.status];
+        const when = st.mode === 'now' ? `${S.local} ${H(c.hour)}` : `${st.dt === 'wd' ? S.weekday : S.weekend} ${H(c.hour)}`;
+        const p = c.el.querySelector<HTMLElement>('[data-status]')!;
+        p.textContent = `${label} · ${when}`;
+        p.className = `bt-status st-${c.status}`;
+        c.el.classList.toggle('is-quiet', c.status === 'q');
       }
+    }
 
-      function render() {
-        const c = $c.value, r = $r.value, cat = $cat.value;
-        let n = 0;
-        for (const el of cards) {
-          const ok = (!c || el.dataset.c === c) && (!r || el.dataset.r === r) && (!cat || el.dataset.cat === cat);
-          el.hidden = !ok;
-          if (ok) n++;
+    const matches = (c: Card) => {
+      const d = c.el.dataset;
+      return (!st.cat || d.cat === st.cat) && (!st.country || d.c === st.country) && (!st.region || d.r === st.region) && (!st.q || (d.q || '').includes(st.q));
+    };
+    const RANK: Record<string, number> = { q: 0, m: 1, b: 2, o: 3, x: 4 };
+
+    function render() {
+      const vis = cards.filter(matches);
+      const sorted = [...vis].sort((a, b) =>
+        st.sort === 'quiet' ? RANK[a.status] - RANK[b.status] || b.rating - a.rating || a.order - b.order
+        : st.sort === 'rating' ? b.rating - a.rating || a.order - b.order
+        : a.order - b.order);
+      const rank = new Map(sorted.map((c, i) => [c, i]));
+      for (const c of cards) {
+        const i = rank.get(c);
+        c.el.hidden = i == null;
+        c.el.style.order = String(i ?? 0);
+        c.el.classList.toggle('is-more', i != null && i >= st.shown);
+      }
+      const n = { q: 0, m: 0, b: 0 } as Record<string, number>;
+      for (const c of vis) if (c.status in n) n[c.status]++;
+      root.querySelector('[data-n-q]')!.textContent = String(n.q);
+      root.querySelector('[data-n-m]')!.textContent = String(n.m);
+      root.querySelector('[data-n-b]')!.textContent = String(n.b);
+      const when = st.mode === 'now' ? S.whenNow : `${st.dt === 'wd' ? S.weekday : S.weekend} ${H(st.hour)}`;
+      root.querySelector('[data-count]')!.textContent = num(S.count, vis.length).replace('{when}', when);
+      (root.querySelector('[data-empty]') as HTMLElement).hidden = vis.length > 0;
+      const more = root.querySelector<HTMLButtonElement>('[data-more]')!;
+      const left = vis.length - st.shown;
+      more.hidden = left <= 0;
+      if (left > 0) more.textContent = num(S.more, Math.min(left, PAGE));
+      widget(sorted);
+    }
+
+    function widget(sorted: Card[]) {
+      const quiet = sorted.filter((c) => c.status === 'q').sort((a, b) => b.rating - a.rating);
+      const pick = st.mode === 'pick';
+      const when = `${st.dt === 'wd' ? S.weekday : S.weekend} ${H(st.hour)}`;
+      root.querySelector('[data-w-kicker]')!.textContent = pick ? S.wPick.replace('{when}', when) : S.wNow;
+      root.querySelector('[data-w-title]')!.textContent = num(pick ? S.wTitlePick : S.wTitleNow, quiet.length);
+      const list = root.querySelector('[data-w-list]')!;
+      list.replaceChildren(...quiet.slice(0, 3).map((c) => {
+        const li = document.createElement('li');
+        const a = document.createElement('a');
+        a.href = c.el.querySelector<HTMLAnchorElement>('h3 a')!.href;
+        const img = c.el.querySelector('img');
+        if (img) { const im = document.createElement('img'); im.src = img.getAttribute('src')!; im.alt = ''; im.width = 44; im.height = 44; a.append(im); }
+        const box = document.createElement('span');
+        const b = document.createElement('b'); b.textContent = shortName(c);
+        const small = document.createElement('small'); small.textContent = `${c.el.dataset.r} · ${pick ? '' : S.local + ' '}${H(c.hour)}`;
+        box.append(b, small);
+        const chip = document.createElement('em');
+        chip.textContent = S.quietUntil.replace('{h}', H(quietEnd(pattern(c, c.day), c.hour)));
+        a.append(box, chip);
+        li.append(a);
+        return li;
+      }));
+      (root.querySelector('[data-w-none]') as HTMLElement).hidden = quiet.length > 0;
+    }
+
+    const refresh = () => { evaluate(); render(); };
+
+    // ── Controls ─────────────────────────────────────────────────────────
+    const seg = (sel: string, attr: string, set: (v: string) => void) => {
+      root.querySelectorAll<HTMLButtonElement>(`${sel} [${attr}]`).forEach((b) => b.addEventListener('click', () => {
+        root.querySelectorAll(`${sel} [${attr}]`).forEach((x) => x.classList.toggle('is-on', x === b));
+        set(b.getAttribute(attr) || '');
+      }));
+    };
+    seg('[data-cat-group]', 'data-cat', (v) => { st.cat = v; st.shown = PAGE; render(); });
+    seg('[data-country-group]', 'data-country', (v) => {
+      st.country = v; st.region = ''; st.shown = PAGE;
+      const sel = root.querySelector<HTMLSelectElement>('[data-region]')!;
+      const regions: string[] = v ? (S.regions[v] || []) : [...new Set(Object.values(S.regions).flat() as string[])].sort();
+      const first = sel.options[0].cloneNode(true) as HTMLOptionElement;
+      sel.replaceChildren(first, ...regions.map((r) => new Option(r, r)));
+      render();
+    });
+    seg('.bt-sort', 'data-sort', (v) => { st.sort = v; render(); });
+    seg('.bt-mode', 'data-mode', (v) => {
+      st.mode = v;
+      (root.querySelector('[data-pick]') as HTMLElement).hidden = v !== 'pick';
+      (root.querySelector('[data-mode-note]') as HTMLElement).hidden = v === 'pick';
+      refresh();
+    });
+    seg('[data-pick]', 'data-dt', (v) => { st.dt = v; refresh(); });
+    const range = root.querySelector<HTMLInputElement>('[data-hour]')!;
+    const out = root.querySelector<HTMLOutputElement>('[data-hour-out]')!;
+    range.addEventListener('input', () => { st.hour = Number(range.value); out.textContent = H(st.hour); refresh(); });
+    root.querySelector<HTMLSelectElement>('[data-region]')!.addEventListener('change', (e) => { st.region = (e.target as HTMLSelectElement).value; st.shown = PAGE; render(); });
+    const q = root.querySelector<HTMLInputElement>('[data-q]')!;
+    const setQ = () => { st.q = q.value.trim().toLowerCase(); st.shown = PAGE; render(); };
+    q.addEventListener('input', setQ);
+    root.querySelector('[data-search-form]')!.addEventListener('submit', (e) => { e.preventDefault(); setQ(); root.querySelector('.bt-h2')?.scrollIntoView({ behavior: 'smooth' }); });
+    root.querySelectorAll<HTMLButtonElement>('[data-city]').forEach((b) => b.addEventListener('click', () => { q.value = b.dataset.city || ''; setQ(); root.querySelector('.bt-h2')?.scrollIntoView({ behavior: 'smooth' }); }));
+    root.querySelector('[data-more]')!.addEventListener('click', () => { st.shown += PAGE; render(); });
+
+    // ── Day plan (kept in this browser only) ─────────────────────────────
+    const PLAN_KEY = 'wa-quiet-plan-v1';
+    const readPlan = (): string[] => { try { return JSON.parse(localStorage.getItem(PLAN_KEY) || '[]'); } catch { return []; } };
+    const writePlan = (p: string[]) => { try { localStorage.setItem(PLAN_KEY, JSON.stringify(p)); } catch { /* private mode */ } };
+    let plan = readPlan();
+    const fromUrl = new URLSearchParams(location.search).get('plan');
+    if (fromUrl) { plan = fromUrl.split(',').filter((s) => cards.some((c) => c.el.dataset.s === s)); writePlan(plan); }
+    const bySlug = new Map(cards.map((c) => [c.el.dataset.s!, c]));
+    function syncPlan() {
+      for (const c of cards) {
+        const on = plan.includes(c.el.dataset.s!);
+        const b = c.el.querySelector<HTMLButtonElement>('[data-add]')!;
+        b.setAttribute('aria-pressed', String(on));
+        b.textContent = on ? S.added : S.add;
+      }
+      const bar = root.querySelector<HTMLElement>('[data-planbar]')!;
+      bar.hidden = plan.length === 0;
+      root.querySelector('[data-plan-n]')!.textContent = num(S.planBar, plan.length);
+    }
+    root.querySelectorAll<HTMLButtonElement>('[data-add]').forEach((b) => b.addEventListener('click', () => {
+      const s = (b.closest('.bt-card') as HTMLElement).dataset.s!;
+      plan = plan.includes(s) ? plan.filter((x) => x !== s) : [...plan, s];
+      writePlan(plan); syncPlan();
+    }));
+    root.querySelector('[data-plan-clear]')!.addEventListener('click', () => { plan = []; writePlan(plan); syncPlan(); });
+
+    const dialog = root.querySelector<HTMLDialogElement>('[data-plan-dialog]')!;
+    let planDt = 'wd';
+    function buildPlan() {
+      const day = planDt === 'wd' ? 2 : 5;
+      // Each place's first quiet hour that day, earliest first; then one hour
+      // per place, never earlier than the place's own quiet start.
+      const items = plan.map((s) => bySlug.get(s)).filter(Boolean).map((c) => {
+        const pat = pattern(c!, day);
+        const first = [...pat].findIndex((x) => x === 'q');
+        return { c: c!, pat, start: first < 0 ? null : first + 7 };
+      });
+      items.sort((a, b) => (a.start ?? 99) - (b.start ?? 99));
+      const warn = dialog.querySelector<HTMLElement>('[data-plan-warn]')!;
+      warn.hidden = new Set(items.map((it) => it.c.el.dataset.r)).size < 2;
+      warn.textContent = S.multiCity;
+      let clockAt = 0;
+      const list = dialog.querySelector('[data-plan-list]')!;
+      list.replaceChildren(...items.map((it) => {
+        const li = document.createElement('li');
+        const time = document.createElement('b');
+        const body = document.createElement('div');
+        const name = document.createElement('a');
+        name.href = it.c.el.querySelector<HTMLAnchorElement>('h3 a')!.href;
+        name.textContent = shortName(it.c);
+        const sub = document.createElement('small');
+        if (it.start == null) {
+          time.textContent = '—';
+          sub.textContent = `${it.c.el.dataset.r} · ${S.noQuiet}`;
+          li.className = 'is-warn';
+        } else {
+          const at = Math.max(it.start, clockAt);
+          clockAt = at + 1;
+          time.textContent = H(at);
+          const ok = it.pat[at - 7] === 'q';
+          sub.textContent = `${it.c.el.dataset.r} · ${ok ? S.quietUntil.replace('{h}', H(quietEnd(it.pat, at))) : S.overlap}`;
+          if (!ok) li.className = 'is-warn';
         }
-        $count.textContent = COUNT_TPL.replace('{n}', n);
-        $empty.hidden = n > 0;
-        lazyBackgrounds();
-      }
+        body.append(name, sub);
+        li.append(time, body);
+        return li;
+      }));
+    }
+    root.querySelector('[data-plan-open]')!.addEventListener('click', () => { buildPlan(); dialog.showModal(); });
+    root.querySelector('[data-plan-close]')!.addEventListener('click', () => dialog.close());
+    dialog.addEventListener('click', (e) => { if (e.target === dialog) dialog.close(); });
+    dialog.querySelectorAll<HTMLButtonElement>('[data-plan-dt] [data-dt]').forEach((b) => b.addEventListener('click', () => {
+      dialog.querySelectorAll('[data-plan-dt] [data-dt]').forEach((x) => x.classList.toggle('is-on', x === b));
+      planDt = b.dataset.dt || 'wd'; buildPlan();
+    }));
+    // Into /my-trip: the same list the Save button writes (wa_trip_v1). The
+    // payload is the minimal one; /my-trip refreshes hours, rating and time
+    // zone from /trip-data on open, as it does for any older save.
+    dialog.querySelector('[data-plan-save]')!.addEventListener('click', (e) => {
+      try {
+        const KEY = 'wa_trip_v1';
+        const list = JSON.parse(localStorage.getItem(KEY) || '[]');
+        for (const s of plan) {
+          const c = bySlug.get(s);
+          if (c && !list.some((x: any) => x.slug === s)) list.push(JSON.parse(c.el.dataset.save || '{}'));
+        }
+        localStorage.setItem(KEY, JSON.stringify(list));
+        window.dispatchEvent(new CustomEvent('wa-trip-change', { detail: { count: list.length } }));
+        (e.currentTarget as HTMLButtonElement).textContent = S.saved;
+      } catch { /* storage blocked */ }
+    });
+    dialog.querySelector('[data-plan-copy]')!.addEventListener('click', async (e) => {
+      const url = `${location.origin}${location.pathname}?plan=${plan.join(',')}`;
+      try { await navigator.clipboard.writeText(url); (e.currentTarget as HTMLButtonElement).textContent = S.copied; } catch { prompt('', url); }
+    });
 
-      // Load each card's photo only when it scrolls near the viewport — with 184
-      // cards, loading every background up front would cost megabytes on open.
-      let io = null;
-      function lazyBackgrounds() {
-        if (!('IntersectionObserver' in window)) return; // no lazy support → skip images entirely
-        if (io) io.disconnect();
-        io = new IntersectionObserver((entries) => {
-          for (const e of entries) {
-            if (!e.isIntersecting) continue;
-            const el = e.target;
-            const src = el.dataset.bg;
-            if (src) {
-              const img = new Image();
-              img.onload = () => { el.style.backgroundImage = `url("${src}")`; el.classList.add('on'); };
-              img.src = src;
-            }
-            io.unobserve(el);
-          }
-        }, { rootMargin: '300px' });
-        // Only cards currently on screen: a hidden card never intersects, so it
-        // would otherwise hold an observer forever and never load when shown.
-        for (const el of document.querySelectorAll('#results .card:not([hidden]) .photo[data-bg]')) io.observe(el);
-      }
-
-      $c.addEventListener('change', () => { refreshRegions(); render(); });
-      $r.addEventListener('change', render);
-      $cat.addEventListener('change', render);
-      refreshRegions(); render();
-    })();
+    syncPlan();
+    refresh();
+    // "Now" moves on its own: re-evaluate every minute while in now mode.
+    setInterval(() => { if (st.mode === 'now' && !document.hidden) refresh(); }, 60_000);
   </script>
 
-  <!-- is:global — the result cards are injected by JS, so Astro's scoped styles
-       (which only tag build-time markup) would never reach them. Scoped under
-       .tool so nothing leaks to the rest of the site. -->
   <style is:global>
-    .tool { padding-block: clamp(2rem, 5vh, 4rem); }
-    .tool h1 { font-size: clamp(1.9rem, 4vw, 2.7rem); margin: 0.2rem 0 0.5rem; letter-spacing: -0.01em; }
-    .tool .dek { color: var(--ink-soft); max-width: 62ch; font-size: 1.05rem; line-height: 1.6; }
-
-    .tool .filters { display: flex; flex-wrap: wrap; gap: 0.75rem; margin: 1.75rem 0 0.75rem; padding: 1rem; background: var(--surface-2); border: 1px solid var(--line-soft); border-radius: var(--r-lg); }
-    .tool .filters label { display: flex; flex-direction: column; gap: 0.3rem; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
-    .tool .filters select { padding: 0.6rem 0.75rem; border: 1px solid var(--line-strong); border-radius: var(--r-md); background: var(--surface); color: var(--ink); font-size: 0.95rem; min-width: 12rem; font-family: inherit; cursor: pointer; }
-    .tool .filters select:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
-
-    .tool .meta { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; margin: 0.75rem 0 1rem; }
-    .tool .count { color: var(--muted); font-size: 0.85rem; margin: 0; font-weight: 600; }
-    .tool .legend { display: flex; gap: 0.9rem; font-size: 0.72rem; color: var(--muted); }
-    .tool .legend span { display: inline-flex; align-items: center; gap: 0.3rem; }
-    .tool .legend i { width: 10px; height: 10px; border-radius: 3px; display: inline-block; }
-    /* Swatches reuse the exact bar-cell colours (was inline hex — the one
-       un-tokenized spot the 2026-08-08 design audit found on this page). */
-    .tool .legend i.sw-quiet { background: linear-gradient(180deg, #45ad76, #26714b); }
-    .tool .legend i.sw-mid { background: var(--line); }
-    .tool .legend i.sw-busy { background: linear-gradient(180deg, #dd8b8b, #bd382e); }
-    /* The green dot the chip used to carry as a 🟢 emoji, now a CSS dot that
-       matches the quiet colour in both themes. */
-    .tool .chip::before { content: ''; width: 8px; height: 8px; border-radius: 50%; background: linear-gradient(180deg, #45ad76, #26714b); display: inline-block; margin-right: 0.4rem; vertical-align: baseline; }
-
-    .tool .results { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1rem; }
-    .tool .card { position: relative; overflow: hidden; display: flex; flex-direction: column; border: 1px solid var(--line); border-radius: var(--r-lg); background: var(--surface); text-decoration: none; color: var(--ink); transition: box-shadow .16s ease, transform .16s ease, border-color .16s ease; }
-    .tool .card:hover { box-shadow: var(--shadow-md); transform: translateY(-2px); border-color: var(--accent-soft); }
-    /* Photo band on top; the venue's real photo at full strength. Overlays sit on
-       their own near-opaque pills so they clear WCAG AA over ANY photo (verified
-       worst-case: white badge text 8.4:1 on a white photo, green chip 8.0:1 on a
-       black one) — no scrim maths needed anywhere else. */
-    /* No opacity fade: Chrome does not record LCP for an element that is not yet
-       opaque, so the fade pushed measured LCP from 596ms to 4,160ms — the page
-       looked slow to Google while being fast. The lazy-load reveal keeps working;
-       the image simply appears when ready instead of fading in. */
-    .tool .photo { height: 152px; background: var(--surface-2) center/cover no-repeat; position: relative; flex: none; }
-    .tool .badge { position: absolute; left: 10px; top: 10px; max-width: calc(100% - 20px); background: rgba(20,18,15,0.78); color: #fff; font-size: 0.66rem; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; padding: 0.25rem 0.5rem; border-radius: var(--r-pill); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-    .tool .chip { position: absolute; left: 10px; bottom: 10px; background: rgba(255,253,249,0.95); color: #14523a; font-size: 0.78rem; font-weight: 800; padding: 0.25rem 0.55rem; border-radius: var(--r-pill); }
-    .tool .body { padding: 0.85rem 1rem 1rem; display: flex; flex-direction: column; flex: 1; }
-    @media (prefers-color-scheme: dark) {
-      .tool .chip { background: rgba(30,26,21,0.92); color: #6fd39d; }
+    .bt {
+      --bt-forest: #26301f; --bt-olive: #3d4a2c; --bt-brown: #7a3b1d; --bt-cream: #fbf3e8; --bt-sand: #efe4d3; --bt-peach: #f6dccb;
+      --q1: #45ad76; --q2: #26714b; --b1: #dd8b8b; --b2: #bd382e;
+      max-width: var(--max); margin: 0 auto; padding: 18px 20px 120px; display: grid; gap: 22px;
     }
-    @media (prefers-reduced-motion: reduce) { .tool .photo { transition: none; } }
+    @media (prefers-color-scheme: dark) { .bt { --bt-cream: #221d17; --bt-sand: #2a241c; --bt-peach: #3a2a20; } }
+    .bt :is(div, section, article, aside, form, ol) { min-width: 0; }
+    .bt a { color: inherit; }
+    .bt-crumb { font-size: .82rem; color: var(--muted); display: flex; gap: 8px; flex-wrap: wrap; }
+    .bt-crumb a { text-decoration: none; }
+    .bt-pill { display: inline-block; font-size: .78rem; font-weight: 600; padding: 4px 12px; border-radius: var(--r-pill); background: #e3ecd9; color: #34502a; }
+    .bt-h2 { font-family: var(--font-display); font-size: clamp(1.4rem, 3vw, 1.9rem); margin: 8px 0 0; }
+    .bt-sub { color: var(--muted); }
+    .bt-btn { display: inline-flex; align-items: center; justify-content: center; padding: 10px 16px; border-radius: var(--r-pill); font: inherit; font-weight: 600; text-decoration: none; border: 1px solid transparent; cursor: pointer; }
+    .bt-btn-cta { background: var(--cta); color: #fff !important; }
+    .bt-btn-cta:hover { background: var(--cta-deep); }
+    .bt-btn-ghost { background: var(--surface); border-color: var(--line-strong); color: var(--ink); }
+    .bt-sm { padding: 7px 12px; font-size: .86rem; }
 
-    .tool .card h3 { font-size: 1.02rem; margin: 0 0 0.45rem; line-height: 1.3; font-weight: 700; }
-    /* The cards are display:flex, and that beats the `hidden` attribute's default
-       display:none — without this rule the filters would appear to do nothing. */
-    .tool .card[hidden] { display: none; }
-    /* The crowd hours in words, directly under the venue name: the quotable line. */
-    .tool .hours { margin: 0 0 0.7rem; font-size: 0.82rem; line-height: 1.45; color: var(--ink-soft); font-weight: 600; }
+    /* hero */
+    .bt-hero { display: grid; grid-template-columns: 1.1fr .9fr; gap: 28px; align-items: start; }
+    .bt-hero h1 { font-family: var(--font-display); font-size: clamp(2rem, 4.6vw, 3.1rem); line-height: 1.15; margin: 12px 0; }
+    .bt-hero h1 span, .bt-hero h1 em { display: block; }
+    .bt-hero h1 em { font-style: normal; color: var(--cta); }
+    .bt-dek { color: var(--ink-soft); line-height: 1.7; max-width: 36em; }
+    .bt-search { display: flex; align-items: center; gap: 8px; background: var(--surface); border: 1px solid var(--line-strong); border-radius: var(--r-pill); padding: 6px 6px 6px 16px; margin: 16px 0 10px; box-shadow: var(--shadow-sm); }
+    .bt-search input { flex: 1; border: 0; background: transparent; font: inherit; color: var(--ink); outline: none; min-width: 0; }
+    .bt-search button { border: 0; background: var(--cta); color: #fff; border-radius: var(--r-pill); padding: 8px 16px; font: inherit; font-weight: 600; cursor: pointer; }
+    .bt-popular { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; font-size: .82rem; color: var(--muted); }
+    .bt-tag { font: inherit; font-size: .84rem; padding: 5px 12px; border-radius: var(--r-pill); border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink); cursor: pointer; }
+    .bt-widget { background: var(--bt-forest); color: #fbf3e8; border-radius: var(--r-lg); padding: 22px; position: relative; overflow: hidden; box-shadow: var(--shadow-md); }
+    .bt-widget::after { content: ''; position: absolute; width: 220px; height: 220px; border-radius: 50%; background: rgba(255,255,255,.06); right: -60px; top: -80px; }
+    .bt-w-kicker { display: flex; gap: 8px; align-items: center; font-size: .78rem; opacity: .85; margin: 0; }
+    .bt-w-kicker i { width: 8px; height: 8px; border-radius: 50%; background: var(--q1); box-shadow: 0 0 0 4px rgba(69,173,118,.25); }
+    .bt-w-title { font-family: var(--font-display); font-size: 1.45rem; margin: 10px 0 12px; position: relative; z-index: 1; }
+    .bt-w-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; position: relative; z-index: 1; }
+    .bt-w-list a { display: flex; align-items: center; gap: 10px; background: rgba(255,255,255,.09); border-radius: 16px; padding: 8px 10px; text-decoration: none; }
+    .bt-w-list img { width: 44px; height: 44px; border-radius: 12px; object-fit: cover; flex: none; }
+    .bt-w-list span { flex: 1; min-width: 0; display: grid; }
+    .bt-w-list b { font-size: .95rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .bt-w-list small { font-size: .74rem; opacity: .75; }
+    .bt-w-list em { font-style: normal; font-size: .74rem; font-weight: 700; background: #e3ecd9; color: #26301f; padding: 4px 10px; border-radius: var(--r-pill); white-space: nowrap; }
+    .bt-w-none { font-size: .9rem; opacity: .85; position: relative; }
+    .bt-w-stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-top: 14px; position: relative; z-index: 1; }
+    .bt-w-stats div { background: rgba(255,255,255,.08); border-radius: 14px; padding: 10px; }
+    .bt-w-stats span { display: block; font-size: .7rem; opacity: .8; }
+    .bt-w-stats b { font-family: var(--font-display); font-size: 1.2rem; white-space: nowrap; }
+    .bt-w-stats div:last-child b { font-size: .92rem; white-space: normal; line-height: 1.25; display: block; margin-top: 2px; }
 
-    /* The bar sits over the photo, so each cell gets a hairline + soft shadow to
-       stay crisp, and the neutral "mid" cells are opaque rather than tinted. */
-    .tool .barwrap { margin-top: auto; }
-    .tool .bar { display: flex; gap: 2px; height: 26px; align-items: flex-end; }
-    /* The neutral "normal" cells can't reach 3:1 on fill alone against a near-white
-       card (any beige light enough to read as neutral tops out ~2:1), so they get a
-       visible hairline OUTLINE instead — that's what makes the cell distinguishable. */
-    .tool .bar i { flex: 1; border-radius: 3px; background: #ece6da; border: 1px solid #8a8073; box-sizing: border-box; }
-    .tool .bar i.quiet { background: linear-gradient(180deg, #45ad76, #26714b); border-color: #1d5c3c; height: 100%; }
-    .tool .bar i.busy { background: linear-gradient(180deg, #dd8b8b, #bd382e); border-color: #93251d; height: 100%; }
-    .tool .bar i.mid { background: #ece6da; height: 62%; }
-    .tool .barlab { display: flex; justify-content: space-between; font-size: 0.64rem; color: var(--ink-soft); font-weight: 600; margin-top: 5px; letter-spacing: 0.02em; }
+    /* filters */
+    .bt-filters, .bt-sticky .bt-row, .bt-filters .bt-row { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+    .bt-list { display: grid; gap: 16px; }
+    .bt-sticky { position: sticky; top: 64px; z-index: 20; background: color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter: blur(10px); padding: 10px 0; border-bottom: 1px solid var(--line-soft); }
+    .bt-seg { display: inline-flex; background: var(--bt-sand); border-radius: var(--r-pill); padding: 3px; gap: 2px; }
+    .bt-seg button { font: inherit; font-size: .86rem; border: 0; background: transparent; color: var(--ink); padding: 6px 12px; border-radius: var(--r-pill); cursor: pointer; white-space: nowrap; }
+    .bt-seg button.is-on { background: var(--surface); box-shadow: var(--shadow-sm); font-weight: 600; }
+    .bt-mode button.is-on { background: var(--bt-forest); color: #fff; }
+    .bt-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+    .bt-chips button { font: inherit; font-size: .84rem; padding: 5px 11px; border-radius: var(--r-pill); border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink); cursor: pointer; }
+    .bt-chips button small { opacity: .6; }
+    .bt-chips button.is-on { background: var(--bt-forest); color: #fff; border-color: var(--bt-forest); }
+    .bt-note { font-size: .8rem; color: var(--muted); }
+    .bt-pick { display: inline-flex; align-items: center; gap: 10px; }
+    .bt-pick[hidden] { display: none; }
+    .bt-pick input[type=range] { width: 180px; accent-color: var(--cta); }
+    .bt-pick output { font-weight: 700; min-width: 5.5em; }
+    .bt-select { font: inherit; font-size: .86rem; padding: 7px 10px; border-radius: var(--r-pill); border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink); }
+    .bt-sort { margin-left: auto; }
+    .bt-meta { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px; align-items: center; }
+    .bt-count { margin: 0; font-weight: 600; color: var(--ink-soft); font-size: .9rem; }
+    .bt-legend { display: flex; gap: 12px; font-size: .8rem; color: var(--muted); }
+    .bt-legend span { display: inline-flex; gap: 5px; align-items: center; }
+    .bt-legend i { width: 14px; height: 10px; border-radius: 3px; display: inline-block; }
+    .sw-quiet { background: linear-gradient(180deg, var(--q1), var(--q2)); }
+    .sw-mid { background: #ece6da; border: 1px solid #8a8073; }
+    .sw-busy { background: linear-gradient(180deg, var(--b1), var(--b2)); }
+
+    /* cards */
+    .bt-results { display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); gap: 16px; }
+    .bt-card { display: flex; flex-direction: column; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-lg); overflow: hidden; transition: box-shadow .15s, border-color .15s; }
+    .bt-card:hover { box-shadow: var(--shadow-md); }
+    .bt-card.is-quiet { border-color: var(--q1); box-shadow: 0 0 0 2px rgba(69,173,118,.25); }
+    .bt-card[hidden], .bt-card.is-more { display: none; }
+    .bt-photo { position: relative; display: block; height: 150px; background: var(--bt-sand); }
+    .bt-photo img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .bt-ph { position: absolute; inset: 0; background: linear-gradient(135deg, var(--bt-sand), var(--bt-peach)); }
+    .bt-badge { position: absolute; left: 10px; top: 10px; background: rgba(20,18,15,.78); color: #fff; font-size: .7rem; font-weight: 700; padding: 3px 9px; border-radius: var(--r-pill); }
+    .bt-body { padding: 12px 14px 14px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
+    .bt-top { display: flex; justify-content: space-between; gap: 8px; font-size: .8rem; color: var(--muted); }
+    .bt-rate { color: var(--gold-text); font-weight: 700; white-space: nowrap; }
+    .bt-card h3 { margin: 0; font-size: 1.08rem; line-height: 1.3; font-family: var(--font-display); }
+    .bt-card h3 a { text-decoration: none; }
+    .bt-status { margin: 0; font-size: .8rem; font-weight: 700; align-self: flex-start; padding: 3px 10px 3px 8px; border-radius: var(--r-pill); background: var(--bt-sand); }
+    .bt-status:empty { display: none; }
+    .bt-status::before { content: ''; display: inline-block; width: 7px; height: 7px; border-radius: 50%; margin-right: 6px; background: #8a8073; vertical-align: 1px; }
+    .bt-status.st-q { background: #e3ecd9; color: #26502f; }
+    .bt-status.st-q::before { background: var(--q2); }
+    .bt-status.st-b { background: #f8ddd9; color: #8c2a22; }
+    .bt-status.st-b::before { background: var(--b2); }
+    .bt-status.st-x { color: var(--muted); }
+    .bt-bar { display: flex; gap: 2px; height: 26px; align-items: flex-end; }
+    .bt-bar i { flex: 1; border-radius: 3px; box-sizing: border-box; height: 62%; background: #ece6da; border: 1px solid #8a8073; position: relative; }
+    .bt-bar i.quiet { height: 100%; background: linear-gradient(180deg, var(--q1), var(--q2)); border-color: #1d5c3c; }
+    .bt-bar i.busy { height: 100%; background: linear-gradient(180deg, var(--b1), var(--b2)); border-color: #93251d; }
+    .bt-bar i.closed { height: 30%; background: repeating-linear-gradient(45deg, #ece6da 0 3px, transparent 3px 6px); border-style: dashed; }
+    .bt-bar i.is-now { outline: 2px solid var(--ink); outline-offset: 2px; border-radius: 5px; z-index: 1; }
+    .bt-barlab { display: flex; justify-content: space-between; font-size: .66rem; color: var(--ink-soft); font-weight: 600; margin-top: 5px; }
+    .bt-hours { margin: 0; display: flex; flex-wrap: wrap; gap: 6px; }
+    .bt-hours span { font-size: .78rem; font-weight: 600; padding: 3px 10px; border-radius: var(--r-pill); }
+    .bt-hq { background: #e3ecd9; color: #26502f; }
+    .bt-hb { background: #f8ddd9; color: #8c2a22; }
+    .bt-actions { display: flex; justify-content: space-between; align-items: center; margin-top: auto; padding-top: 4px; }
+    .bt-guide { font-weight: 700; font-size: .88rem; color: var(--cta-deep) !important; text-decoration: none; }
+    .bt-add { font: inherit; font-size: .82rem; padding: 6px 12px; border-radius: var(--r-pill); border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink); cursor: pointer; }
+    .bt-add[aria-pressed='true'] { background: var(--bt-brown); color: #fff; border-color: var(--bt-brown); }
     @media (prefers-color-scheme: dark) {
-      .tool .bar i, .tool .bar i.mid { background: #3a3328; border-color: #6f6659; }
-      .tool .bar i.quiet { background: linear-gradient(180deg, #4bb37c, #2f7d55); }
-      .tool .bar i.busy { background: linear-gradient(180deg, #e39a9a, #c8443a); }
-      .tool .legend i.sw-quiet, .tool .chip::before { background: linear-gradient(180deg, #4bb37c, #2f7d55); }
-      .tool .legend i.sw-busy { background: linear-gradient(180deg, #e39a9a, #c8443a); }
-      .tool .legend i.sw-mid { background: #3a3328; }
+      .bt-bar i, .sw-mid { background: #3a3328; border-color: #6f6659; }
+      .bt-bar i.closed { background: repeating-linear-gradient(45deg, #3a3328 0 3px, transparent 3px 6px); }
+      .bt-pill, .bt-hq, .bt-status.st-q, .bt-w-list em { background: #2b3524; color: #dfe9d3; }
+      .bt-hb, .bt-status.st-b { background: #3d2320; color: #f2c1bb; }
     }
+    .bt-empty { text-align: center; color: var(--muted); padding: 30px 0; }
+    .bt-more { justify-self: stretch; font: inherit; font-weight: 700; color: var(--cta-deep); background: var(--bt-cream); border: 1px dashed var(--line-strong); border-radius: var(--r-lg); padding: 14px; cursor: pointer; }
+    .bt-more[hidden] { display: none; }
 
-    .tool .foot { color: var(--muted); font-size: 0.78rem; margin-top: 2rem; max-width: 62ch; line-height: 1.6; }
+    /* tickets band */
+    .bt-tickets { display: grid; grid-template-columns: auto 1fr auto; gap: 20px; align-items: center; background: var(--bt-peach); border-radius: var(--r-lg); padding: 18px; }
+    .bt-tickets img { width: 120px; height: 120px; object-fit: cover; border-radius: 999px 999px 18px 18px; }
+    .bt-tickets h2 { font-family: var(--font-display); font-size: 1.3rem; margin: 0 0 6px; }
+    .bt-tickets p { margin: 0; color: var(--ink-soft); line-height: 1.6; font-size: .92rem; }
+    .bt-tickets-cta { display: flex; flex-direction: column; gap: 8px; }
 
-    .tool .findings { margin-top: 3rem; border-top: 1px solid var(--line); padding-top: 2rem; }
-    .tool .findings h2 { font-size: clamp(1.35rem, 3vw, 1.75rem); margin: 0 0 0.4rem; }
-    .tool .findings h3 { font-size: 1.05rem; margin: 1.6rem 0 0.5rem; }
-    .tool .facts { margin: 1rem 0; padding-left: 1.2rem; max-width: 68ch; }
-    .tool .facts li { margin: 0.5rem 0; line-height: 1.65; }
-    .tool .findings p { max-width: 68ch; line-height: 1.7; color: var(--ink-soft); font-size: 0.95rem; }
-    .tool .tblwrap { overflow-x: auto; }
-    .tool .findings table { border-collapse: collapse; font-size: 0.9rem; min-width: 22rem; }
-    .tool .findings th, .tool .findings td { text-align: left; padding: 0.45rem 1.25rem 0.45rem 0; border-bottom: 1px solid var(--line-soft); }
-    .tool .findings th { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); }
-    .tool .empty { color: var(--muted); padding: 2.5rem 0; text-align: center; }
+    /* findings */
+    .bt-findings { border-top: 1px solid var(--line); padding-top: 20px; }
+    .bt-findings h2 { font-family: var(--font-display); font-size: clamp(1.3rem, 3vw, 1.7rem); margin: 0 0 6px; }
+    .bt-findings h3 { font-size: 1.02rem; margin: 1.4rem 0 .5rem; }
+    .bt-findings p, .bt-facts { max-width: 70ch; line-height: 1.7; color: var(--ink-soft); font-size: .95rem; }
+    .bt-facts li { margin: .4rem 0; }
+    .bt-tbl { overflow-x: auto; }
+    .bt-findings table { border-collapse: collapse; font-size: .9rem; min-width: 22rem; }
+    .bt-findings th, .bt-findings td { text-align: left; padding: .45rem 1.25rem .45rem 0; border-bottom: 1px solid var(--line-soft); }
+    .bt-findings th { font-size: .72rem; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); }
+    .bt-foot { font-size: .78rem !important; color: var(--muted) !important; }
+
+    /* faq */
+    .bt-faq { display: grid; grid-template-columns: .8fr 1.2fr; gap: 24px; }
+    .bt-faq-list { display: grid; gap: 10px; }
+    .bt-faq details { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-md); padding: 0 18px; }
+    .bt-faq summary { cursor: pointer; font-weight: 600; padding: 15px 0; list-style: none; display: flex; justify-content: space-between; gap: 12px; }
+    .bt-faq summary::-webkit-details-marker { display: none; }
+    .bt-faq summary::after { content: '+'; width: 24px; height: 24px; border-radius: 50%; background: var(--bt-sand); display: grid; place-items: center; flex: none; }
+    .bt-faq details[open] summary::after { content: '−'; background: var(--bt-brown); color: #fff; }
+    .bt-faq details p { margin: 0 0 15px; color: var(--ink-soft); line-height: 1.7; }
+
+    /* day plan */
+    .bt-planbar { position: fixed; left: 50%; bottom: 18px; transform: translateX(-50%); z-index: 60; display: flex; align-items: center; gap: 10px; background: var(--bt-forest); color: #fff; padding: 8px 8px 8px 16px; border-radius: var(--r-pill); box-shadow: var(--shadow-lg); max-width: calc(100vw - 24px); }
+    .bt-planbar[hidden] { display: none; }
+    .bt-planbar span { font-size: .9rem; white-space: nowrap; }
+    .bt-dialog { margin: auto; inset: 0; max-height: calc(100vh - 40px); overflow: auto; border: 0; border-radius: var(--r-lg); padding: 22px; width: min(520px, calc(100vw - 32px)); background: var(--bt-cream); color: var(--ink); box-shadow: var(--shadow-lg); }
+    .bt-dialog::backdrop { background: rgba(20,16,12,.45); }
+    .bt-dialog-head { display: flex; justify-content: space-between; align-items: center; gap: 10px; }
+    .bt-dialog h2 { font-family: var(--font-display); font-size: 1.35rem; margin: 0; }
+    .bt-x { width: 34px; height: 34px; border-radius: 50%; border: 1px solid var(--line-strong); background: var(--surface); font-size: 1.2rem; cursor: pointer; color: var(--ink); }
+    .bt-dialog .bt-seg { margin: 12px 0 6px; }
+    .bt-plan-note { font-size: .8rem; color: var(--muted); margin: 4px 0 12px; }
+    .bt-plan-warn { font-size: .84rem; background: #f8ddd9; color: #8c2a22; border-radius: 12px; padding: 8px 12px; margin: 0 0 12px; }
+    .bt-plan-warn[hidden] { display: none; }
+    .bt-timeline { list-style: none; padding: 0; margin: 0 0 16px; display: grid; gap: 8px; }
+    .bt-timeline li { display: grid; grid-template-columns: 5.5em 1fr; gap: 12px; align-items: center; background: var(--surface); border-radius: 16px; padding: 12px 14px; border: 1px solid var(--line); }
+    .bt-timeline li.is-warn { border-color: var(--b1); }
+    .bt-timeline b { font-family: var(--font-display); font-size: 1.05rem; }
+    .bt-timeline a { font-weight: 700; text-decoration: none; display: block; }
+    .bt-timeline small { color: var(--muted); font-size: .8rem; }
+    .bt-dialog-actions { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+    .bt-link { font-weight: 600; font-size: .88rem; color: var(--cta-deep) !important; text-decoration: none; margin-left: auto; }
+
+    @media (max-width: 900px) {
+      .bt-hero, .bt-faq { grid-template-columns: 1fr; }
+      .bt-sort { margin-left: 0; }
+      .bt-tickets { grid-template-columns: 1fr; text-align: left; }
+      .bt-tickets img { width: 100%; height: 140px; border-radius: 18px; }
+    }
     @media (max-width: 560px) {
-      .tool .filters { flex-direction: column; }
-      .tool .filters select { width: 100%; min-width: 0; }
+      .bt { padding: 14px 16px 110px; }
+      .bt-sticky { position: static; padding: 4px 0; border-bottom: 0; background: none; backdrop-filter: none; }
+      .bt-sticky .bt-row { gap: 8px; }
+      .bt-note { display: none; }
+      .bt-select { flex: 1; min-width: 0; }
+      .bt-pick { width: 100%; }
+      .bt-pick input[type=range] { flex: 1; width: auto; }
+      .bt-chips { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 4px; scrollbar-width: thin; }
+      .bt-chips button { flex: none; }
+      .bt-filters .bt-row { display: grid; gap: 8px; }
+      .bt-seg { max-width: 100%; overflow-x: auto; }
+      .bt-results { grid-template-columns: 1fr; }
     }
   </style>
 </BaseLayout>
