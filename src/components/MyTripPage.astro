@@ -494,21 +494,38 @@ const strings = JSON.stringify({ ...(MY_TRIP_STRINGS as any)[lang], count: t('tr
     let view = store.get(VIEW_KEY) === 'days' ? 'days' : 'list';
     let filter = 'all';
     const regions = new Map<string, any>();
-    let index: string[] | null = null;
+    let index: Record<string, string> | null = null; // city slug → country slug
 
     // ── City data: refresh old saves, nearby picks, course, prep ──
-    const rsOf = (it: any) => it.rs || (index ? index.filter((r) => String(it.slug).startsWith(`${r}-`)).sort((a, b) => b.length - a.length)[0] : '') || '';
+    // One file per country (/trip-data/<lang>/<country>.json): per city was
+    // 1,271 files and broke the deploy's 20,000-file limit (10-01). Each
+    // country file is split into the per-city records the page uses.
+    const rsOf = (it: any) => it.rs || (index ? Object.keys(index).filter((r) => String(it.slug).startsWith(`${r}-`)).sort((a, b) => b.length - a.length)[0] : '') || '';
     const loadIndex = async () => {
       if (index) return;
-      try { index = (await (await fetch('/trip-data/index.json')).json()).regions ?? []; } catch { index = []; }
+      try { index = (await (await fetch('/trip-data/index.json')).json()).regions ?? {}; } catch { index = {}; }
+    };
+    const countries = new Map<string, Promise<void>>();
+    const loadCountry = (cs: string) => {
+      if (!countries.has(cs)) countries.set(cs, (async () => {
+        try {
+          const r = await fetch(`/trip-data/${LANG}/${cs}.json`);
+          if (!r.ok) return;
+          const d = await r.json();
+          for (const [rs, meta] of Object.entries<any>(d.cities ?? {})) {
+            regions.set(rs, { ...meta, region: rs, places: (d.places ?? []).filter((p: any) => p.rs === rs) });
+          }
+        } catch { /* offline: keep what was saved */ }
+      })());
+      return countries.get(cs)!;
     };
     const loadRegion = async (rs: string) => {
-      if (!rs || regions.has(rs)) return regions.get(rs);
-      regions.set(rs, null);
-      try {
-        const r = await fetch(`/trip-data/${LANG}/${rs}.json`);
-        if (r.ok) regions.set(rs, await r.json());
-      } catch { /* offline: keep what was saved */ }
+      if (!rs) return null;
+      if (regions.has(rs)) return regions.get(rs);
+      await loadIndex();
+      const cs = index?.[rs];
+      if (cs) await loadCountry(cs);
+      if (!regions.has(rs)) regions.set(rs, null);
       return regions.get(rs);
     };
     const placeOf = (slug: string, rs: string) => regions.get(rs)?.places?.find((p: any) => p.slug === slug) ?? null;
