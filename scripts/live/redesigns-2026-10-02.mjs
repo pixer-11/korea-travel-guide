@@ -45,5 +45,15 @@ const shown = await pg.evaluate(() => {
 });
 if (!/^1 places?\b/.test(shown.trim())) bad.push(`regions search "kyoto": ${shown}`);
 
-verdict(`10-01/02 개편 페이지: ${bad.length ? bad.join(' | ') : `문제 없음 (${PAGES.length * LANGS.length}페이지 휴대폰 폭·문의 본문 5개 언어·지역 검색)`}`, bad.length > 0);
+// A city kept with the heart must reach /my-trip and the header count
+// (src/lib/saved-cities.ts, 2026-10-02).
+await pg.goto(`${BASE}/ko/my-trip/`, { waitUntil: 'networkidle', timeout: 120000 });
+await pg.evaluate(() => localStorage.setItem('wa_saved_regions_v1', JSON.stringify(['seoul', 'tokyo'])));
+await pg.reload({ waitUntil: 'networkidle', timeout: 120000 });
+await pg.waitForTimeout(1500);
+const kept = await pg.evaluate(() => ({ cards: document.querySelectorAll('.mt-city').length, badge: document.querySelector('.nav-trip-n')?.textContent || '' }));
+if (kept.cards !== 2 || kept.badge !== '2') bad.push(`saved cities on /ko/my-trip: ${kept.cards} cards, badge "${kept.badge}"`);
+await pg.evaluate(() => localStorage.removeItem('wa_saved_regions_v1'));
+
+verdict(`10-01/02 개편 페이지: ${bad.length ? bad.join(' | ') : `문제 없음 (${PAGES.length * LANGS.length}페이지 휴대폰 폭·문의 본문 5개 언어·지역 검색·담은 도시)`}`, bad.length > 0);
 await b.close();

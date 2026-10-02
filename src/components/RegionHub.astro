@@ -37,6 +37,15 @@ const t = useTranslations(lang);
 // The region's country (from its posts) — so fallbacks read "…, Japan" not "…, Korea".
 const country = posts[0]?.data.country ?? 'South Korea';
 const regionLabel = localizePlace(region, lang);
+// "Want to go" heart (2026-10-02): the same city list as the regions index
+// and /my-trip (src/lib/saved-cities.ts).
+const SAVE = {
+  en: { save: 'Save this city', saved: 'Saved', open: 'See it in My trip →' },
+  ko: { save: '가고 싶은 도시에 담기', saved: '담았어요', open: '내 여행에서 보기 →' },
+  ja: { save: '行きたい都市に保存', saved: '保存しました', open: 'マイトリップで見る →' },
+  es: { save: 'Guardar esta ciudad', saved: 'Guardada', open: 'Verla en Mi viaje →' },
+  zh: { save: '收藏这座城市', saved: '已收藏', open: '在我的行程中查看 →' },
+}[lang];
 const countryLabel = localizePlace(country, lang);
 // A district sits under a country, and until 2026-09-11 neither the screen nor
 // the BreadcrumbList said so — the trail jumped Home → Seoul with the country
@@ -215,6 +224,10 @@ const dayTripHub = buildDayTrips(allPosts).find((h) => h.city === region) ?? nul
       </nav>
       <p class="eyebrow">{countryLabel} · {t('region.eyebrow')}</p>
       <h1>{regionLabel}</h1>
+      <p class="rh-save" data-city-save={slugifyRegion(region)}>
+        <button type="button" aria-pressed="false" data-on={SAVE.saved} data-off={SAVE.save}><span class="rh-heart" aria-hidden="true">♡</span><span data-label>{SAVE.save}</span></button>
+        <a href={localizePath('/my-trip', lang)} hidden data-open>{SAVE.open}</a>
+      </p>
       {usableAnswer(info?.blurb)
         ? <p class="region-blurb">{info!.blurb}</p>
         : <p>{t('region.fallbackBlurb').replace('{region}', regionLabel).replace('{country}', countryLabel)}</p>}
@@ -358,4 +371,34 @@ const dayTripHub = buildDayTrips(allPosts).find((h) => h.city === region) ?? nul
     transition: background 0.15s ease, color 0.15s ease;
   }
   .see-all a:hover, .see-all a:focus-visible { background: var(--accent-fill); color: #fff; }
+</style>
+
+<script>
+  import { readCities, toggleCity, onCitiesChange } from '../lib/saved-cities';
+  document.querySelectorAll<HTMLElement>('[data-city-save]').forEach((box) => {
+    const slug = box.dataset.citySave!;
+    const btn = box.querySelector<HTMLButtonElement>('button')!;
+    const label = btn.querySelector<HTMLElement>('[data-label]')!;
+    const heart = btn.querySelector<HTMLElement>('.rh-heart')!;
+    const open = box.querySelector<HTMLElement>('[data-open]')!;
+    const paint = () => {
+      const on = readCities().includes(slug);
+      btn.setAttribute('aria-pressed', String(on));
+      label.textContent = on ? btn.dataset.on! : btn.dataset.off!;
+      heart.textContent = on ? '♥' : '♡';
+      open.hidden = !on;
+    };
+    btn.addEventListener('click', () => toggleCity(slug));
+    onCitiesChange(paint);
+    paint();
+  });
+</script>
+
+<style>
+  .rh-save { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin: 10px 0 14px; }
+  .rh-save button { display: inline-flex; align-items: center; gap: 6px; font: inherit; font-size: .88rem; font-weight: 700; color: var(--ink); background: var(--surface); border: 1.5px solid var(--line-strong); border-radius: 999px; padding: 7px 15px; cursor: pointer; }
+  .rh-save button[aria-pressed="true"] { background: #7a3b1d; border-color: #7a3b1d; color: #fff; }
+  .rh-heart { font-size: 1rem; line-height: 1; }
+  .rh-save a { font-size: .86rem; font-weight: 700; color: var(--accent-text, var(--cta)); text-decoration: none; }
+  .rh-save a[hidden] { display: none; }
 </style>

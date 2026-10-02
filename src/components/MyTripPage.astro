@@ -46,6 +46,17 @@ const startCountries = countriesData.countries
 const defaultStart = startCountries.find((c) => c.rs === 'barcelona')?.rs ?? startCountries[0]?.rs ?? '';
 
 const strings = JSON.stringify({ ...(MY_TRIP_STRINGS as any)[lang], count: t('trip.count') });
+
+// "Want to go" cities (2026-10-02): the hearts from the regions index and the
+// city hubs (src/lib/saved-cities.ts). Shown in both states — a reader who has
+// only kept cities so far still sees them here.
+const CITY_T = {
+  en: { title: 'Cities you want to visit', sub: 'Kept with ♡ on a city page or the regions index. Stored in this browser only.', guides: '{n} guides', hub: 'Guides', when: 'When to go', itin: '{d}-day plan', remove: 'Remove', more: 'Keep more cities →' },
+  ko: { title: '가고 싶은 도시', sub: '도시 페이지나 전체 지역에서 ♡로 담은 곳이에요. 이 브라우저에만 저장돼요.', guides: '가이드 {n}편', hub: '가이드 보기', when: '언제 갈까', itin: '{d}일 일정', remove: '빼기', more: '도시 더 담기 →' },
+  ja: { title: '行きたい都市', sub: '都市ページや地域一覧で♡を押した場所です。このブラウザにだけ保存されます。', guides: 'ガイド {n}本', hub: 'ガイドを見る', when: 'いつ行く', itin: '{d}日間の日程', remove: '外す', more: '都市をもっと保存 →' },
+  es: { title: 'Ciudades que quieres visitar', sub: 'Guardadas con ♡ en una página de ciudad o en el índice. Solo en este navegador.', guides: '{n} guías', hub: 'Ver guías', when: 'Cuándo ir', itin: 'Plan de {d} días', remove: 'Quitar', more: 'Guardar más ciudades →' },
+  zh: { title: '想去的城市', sub: '在城市页面或地区索引中用 ♡ 收藏的地方，只保存在这个浏览器里。', guides: '{n} 篇指南', hub: '查看指南', when: '何时去', itin: '{d} 天行程', remove: '移除', more: '收藏更多城市 →' },
+}[lang];
 ---
 
 <BaseLayout title={t('trip.title')} description={t('trip.dek')} lang={lang} localized={true} noindex={true}>
@@ -110,6 +121,14 @@ const strings = JSON.stringify({ ...(MY_TRIP_STRINGS as any)[lang], count: t('tr
           </div>
         </div>
       </header>
+
+      <section class="mt-cities" data-cities data-lang={lang} data-t={JSON.stringify(CITY_T)} hidden>
+        <div class="mt-cities-head">
+          <div><h2 class="mt-h2">♥ {CITY_T.title} <span class="mt-cities-n" data-cities-n></span></h2><p class="mt-note">{CITY_T.sub}</p></div>
+          <a class="mt-more" href={localizePath('/regions', lang)}>{CITY_T.more}</a>
+        </div>
+        <div class="mt-cities-grid" data-cities-grid></div>
+      </section>
 
       <section class="mt-steps" data-empty-only>
         <div><span class="mt-step-ico mt-step-ico--1" aria-hidden="true">♡</span><small>{m('stepN', { n: 1 })}</small><h2>{m('s1T')}</h2><p>{m('s1S')}</p></div>
@@ -977,3 +996,90 @@ const strings = JSON.stringify({ ...(MY_TRIP_STRINGS as any)[lang], count: t('tr
     }, 30000);
   }
 </script>
+
+<script>
+  // "Want to go" cities: slugs from src/lib/saved-cities.ts, everything shown
+  // from /trip-data/<lang>/saved-cities.json (built from the guides).
+  import { readCities, writeCities, onCitiesChange } from '../lib/saved-cities';
+  const box = document.querySelector<HTMLElement>('[data-cities]');
+  if (box) {
+    const T = JSON.parse(box.dataset.t!);
+    const lang = box.dataset.lang!;
+    const grid = box.querySelector<HTMLElement>('[data-cities-grid]')!;
+    const count = box.querySelector<HTMLElement>('[data-cities-n]')!;
+    let data: Record<string, any> | null = null;
+    let run = 0;
+    const esc = (v: unknown) => String(v ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]!));
+    const paint = async (focusAfter?: string) => {
+      const mine = ++run;
+      // The last city removed: the section goes, so the keyboard goes to the page heading.
+      const gone = () => { box.hidden = true; if (focusAfter !== undefined) { const h = document.querySelector<HTMLElement>('.mt-hero h1'); if (h) { h.tabIndex = -1; h.focus(); } } };
+      if (!readCities().length) { gone(); return; }
+      if (!data) {
+        // A failed load is not cached: the next change tries again.
+        try { data = (await (await fetch(`/trip-data/${lang}/saved-cities.json`)).json()).cities ?? null; }
+        catch { data = null; }
+        if (!data) return;
+      }
+      // Another change may have landed while this one waited for the file.
+      if (mine !== run) return;
+      const slugs = readCities();
+      if (!slugs.length) { gone(); return; }
+      // A city whose guides were all retired has no entry any more: skip it.
+      const cities = slugs.map((s) => [s, data![s]] as const).filter(([, c]) => c);
+      box.hidden = !cities.length;
+      count.textContent = cities.length ? String(cities.length) : '';
+      grid.innerHTML = cities.map(([s, c]) => `
+        <article class="mt-city">
+          <a class="mt-city-img" href="${esc(c.hub)}" style="${c.img ? `background-image:url(${esc(c.img)})` : ''}" aria-label="${esc(c.n)}"></a>
+          <div class="mt-city-body">
+            <p class="mt-city-country">${esc(c.c)}</p>
+            <h3><a href="${esc(c.hub)}">${esc(c.n)}</a></h3>
+            <p class="mt-city-n">${esc(T.guides.replace('{n}', c.g))}</p>
+            <p class="mt-city-acts">
+              <a href="${esc(c.hub)}">${esc(T.hub)}</a>
+              ${c.wtg ? `<a href="${esc(c.wtg)}">${esc(T.when)}</a>` : ''}
+              ${c.itin ? `<a href="${esc(c.itin)}">${esc(T.itin.replace('{d}', c.days))}</a>` : ''}
+            </p>
+          </div>
+          <button type="button" class="mt-city-x" data-city-remove="${esc(s)}" aria-label="${esc(T.remove)}: ${esc(c.n)}">${esc(T.remove)}</button>
+        </article>`).join('');
+      // After a removal, keep the keyboard where it was: the next card's
+      // remove button, or the "keep more cities" link when none is left.
+      if (focusAfter !== undefined) {
+        const btns = [...grid.querySelectorAll<HTMLButtonElement>('[data-city-remove]')];
+        const next = btns[Number(focusAfter)] ?? btns[btns.length - 1];
+        (next ?? box.querySelector<HTMLElement>('.mt-more'))?.focus();
+      }
+    };
+    grid.addEventListener('click', (e) => {
+      const b = (e.target as HTMLElement).closest<HTMLButtonElement>('[data-city-remove]');
+      if (!b) return;
+      const idx = [...grid.querySelectorAll('[data-city-remove]')].indexOf(b);
+      writeCities(readCities().filter((s) => s !== b.dataset.cityRemove));
+      void paint(String(idx));
+    });
+    onCitiesChange(() => { void paint(); });
+    void paint();
+  }
+</script>
+
+<style is:global>
+  .mt-cities { margin: 1.6rem 0 2rem; padding: 1.3rem; border-radius: 24px; background: var(--mt-leaf); }
+  .mt-cities-head { display: flex; justify-content: space-between; align-items: flex-end; gap: .6rem 1rem; flex-wrap: wrap; margin-bottom: 1rem; }
+  .mt-cities-head .mt-h2 { margin: 0; }
+  .mt-cities-n { display: inline-grid; place-items: center; min-width: 1.6em; height: 1.6em; padding: 0 .35em; border-radius: 999px; background: var(--mt-rust); color: #fff; font-size: .8rem; vertical-align: middle; }
+  .mt-cities-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 230px), 1fr)); gap: .8rem; }
+  .mt-city { position: relative; display: flex; flex-direction: column; background: var(--surface); border-radius: 20px; overflow: hidden; border: 1px solid var(--line); min-width: 0; }
+  .mt-city-img { display: block; aspect-ratio: 16 / 9; background-size: cover; background-position: center; background-color: var(--mt-sand); }
+  .mt-city-body { padding: .8rem 1rem 1rem; display: grid; gap: .2rem; }
+  .mt-city-country { margin: 0; font-size: .76rem; color: var(--muted); }
+  .mt-city h3 { margin: 0; font-family: var(--font-display); font-size: 1.2rem; }
+  .mt-city h3 a { color: var(--ink); text-decoration: none; }
+  .mt-city-n { margin: 0; font-size: .8rem; font-weight: 600; color: var(--ink-soft); }
+  .mt-city-acts { display: flex; flex-wrap: wrap; gap: .35rem; margin: .5rem 0 0; }
+  .mt-city-acts a { font-size: .78rem; font-weight: 700; color: var(--ink); text-decoration: none; background: var(--mt-cream); border: 1px solid var(--line); border-radius: 999px; padding: .3rem .7rem; }
+  .mt-city-acts a:first-child { background: var(--mt-forest); border-color: var(--mt-forest); color: var(--mt-on-dark); }
+  .mt-city-x { position: absolute; top: .55rem; right: .55rem; font: inherit; font-size: .74rem; font-weight: 600; border: 0; border-radius: 999px; padding: .3rem .65rem; background: rgba(255, 253, 249, .92); color: #201c17; cursor: pointer; }
+  @media print { .mt-cities { break-inside: avoid; } .mt-city-x { display: none; } }
+</style>

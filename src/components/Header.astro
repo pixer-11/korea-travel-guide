@@ -170,6 +170,9 @@ const navGroups = CONT_ORDER
 <script>
   // Keeps the header link's count current (the link itself always shows). Listens for both the
   // in-page event and `storage`, so another tab saving is reflected here too.
+  // The count is saved places plus saved cities (src/lib/saved-cities.ts): a
+  // heart on a city should show up here the same as a saved place does.
+  import { readCities, onCitiesChange } from '../lib/saved-cities';
   (() => {
     const KEY = 'wa_trip_v1';
     const paint = () => {
@@ -178,6 +181,7 @@ const navGroups = CONT_ORDER
         const v = JSON.parse(localStorage.getItem(KEY) || '[]');
         n = Array.isArray(v) ? v.length : 0;
       } catch { n = 0; }
+      n += readCities().length;
       document.querySelectorAll<HTMLElement>('.nav-trip').forEach((el) => {
         const badge = el.querySelector<HTMLElement>('.nav-trip-n');
         if (badge) { badge.textContent = n ? String(n) : ''; badge.hidden = n === 0; }
@@ -185,8 +189,7 @@ const navGroups = CONT_ORDER
     };
     if (document.readyState !== 'loading') paint();
     else document.addEventListener('DOMContentLoaded', paint);
-    window.addEventListener('wa-trip-change', paint);
-    window.addEventListener('storage', (e) => { if (e.key === KEY) paint(); });
+    onCitiesChange(paint);
   })();
 </script>
 
