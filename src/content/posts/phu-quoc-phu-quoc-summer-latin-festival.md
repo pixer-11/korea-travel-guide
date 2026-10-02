@@ -12,14 +12,6 @@ eventEndDate: '2026-11-01'
 eventRecurring: false
 eventVenue: Mercury Resort and Villas
 eventFactsAsked: true
-heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/e/e0/Phu_Quoc_Ridgeback.jpg'
-  credit: 'Photo: Fox Frank / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Phu_Quoc_Ridgeback.jpg'
-  focus:
-    x: 50
-    y: 50
 gallery: []
 tags:
   - phu quoc
