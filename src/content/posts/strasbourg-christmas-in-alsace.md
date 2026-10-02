@@ -32,6 +32,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 48.5808609
   lng: 7.7430759999999985
+  phone: '+33 3 88 32 32 32'
+  openingHours:
+    - 'Monday: 10:00 AM – 12:30 PM, 1:30 – 6:00 PM'
+    - 'Tuesday: 10:00 AM – 12:30 PM, 1:30 – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 12:30 PM, 1:30 – 6:00 PM'
+    - 'Thursday: 10:00 AM – 12:30 PM, 1:30 – 6:00 PM'
+    - 'Friday: 10:00 AM – 12:30 PM, 1:30 – 6:00 PM'
+    - 'Saturday: 10:00 AM – 12:30 PM, 1:30 – 6:00 PM'
+    - 'Sunday: Closed'
 tags:
   - strasbourg
   - Strasbourg Christmas Market

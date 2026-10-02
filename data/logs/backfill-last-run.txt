@@ -1,30 +1,29 @@
 Places 예산: backfill 몫 25회 (오늘 사용 17/100)
 Priority: 218 itinerary stop(s) queued first
-  – da-nang-dragon-bridge.md: nothing new (resting 60d)
-  ✓ liverpool-the-beatles-statues.md +7h hours (new post top-up)
-  ✓ oxford-oxford-university-museum-of-natural-history.md +phone +7h hours (new post top-up)
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 17h (venue not open then); weekendQuiet: dropped 17h (venue not open then)
-  – edinburgh-royal-mile.md: nothing new (resting 60d)
+  – brighton-meo-brighton.md: nothing new (resting 60d)
+  – york-rise.md: nothing new (resting 60d)
+  – belfast-the-dome.md: nothing new (resting 60d)
+  – liverpool-the-beatles-statues.md: nothing new (resting 60d)
+  – marina-bay-singapore-skyline-view.md: nothing new (resting 60d)
+  – san-sebastian-plaza-de-la-constitucion-san-sebastian.md: nothing new (resting 60d)
+  – gold-coast-ernest-junction-railway-tunnel.md: nothing new (resting 60d)
   🚫 little-india-former-house-of-tan-teng-niah.md: CLOSED_TEMPORARILY — quarantined (draft), not backfilled
-  – perth-elizabeth-quay.md: nothing new (resting 60d)
-  – segovia-palacio-real-de-la-granja-garden.md: nothing new (resting 60d)
-  – selcuk-ayasuluk-citadel.md: nothing new (resting 60d)
-  – seville-la-giralda.md: nothing new (resting 60d)
-  – seville-plaza-de-espana.md: nothing new (resting 60d)
-  ✓ seville-royal-alcazar-of-seville.md +phone +7h hours
-  – shakhrisabz-ak-saray-palace.md: nothing new (resting 60d)
-  – shanghai-fuxing-park.md: nothing new (resting 60d)
-  – shanghai-jade-buddha-temple.md: nothing new (resting 60d)
-  ✓ shanghai-shanghai-museum.md +phone +7h hours
-  – shanghai-the-bund.md: nothing new (resting 60d)
-  ✓ sharjah-al-noor-island.md +phone +7h hours
-  – sheung-wan-hollywood-road-park.md: nothing new (resting 60d)
-  – siargao-cloud-9-surfing-area.md: nothing new (resting 60d)
-  – siem-reap-angkor-wat.md: nothing new (resting 60d)
-  – siena-palazzo-salimbeni.md: nothing new (resting 60d)
-  – sihanoukville-otres-beach.md: nothing new (resting 60d)
-  – singapore-asian-civilisations-museum.md: nothing new (resting 60d)
-  – singapore-singapore-flyer.md: nothing new (resting 60d)
-  ✓ sokcho-seoraksan-cable-car.md +phone +7h hours
+  – stanley-stanley-promenade.md: nothing new (resting 60d)
+  ✓ strasbourg-christmas-in-alsace.md +phone +7h hours
+  – strasbourg-temple-de-l-amour.md: nothing new (resting 60d)
+  – sukhothai-sukhothai-buddha-park.md: nothing new (resting 60d)
+  – suncheon-suncheon-bay.md: nothing new (resting 60d)
+  ✓ sunshine-coast-sea-life-sunshine-coast-aquarium.md +phone +7h hours
+  – surabaya-bungkul-park.md: nothing new (resting 60d)
+  ✓ surabaya-surabaya-north-quay.md +phone +7h hours
+  ✓ suwon-hwaseong-fortress.md +phone +7h hours
+  – suzhou-classical-gardens-of-suzhou.md: nothing new (resting 60d)
+  – suzhou-lion-grove-garden.md: nothing new (resting 60d)
+  – suzhou-master-of-the-nets-garden.md: nothing new (resting 60d)
+  ✓ suzhou-suzhou-museum.md +phone
+  – sydney-darling-harbour.md: nothing new (resting 60d)
+  – taichung-rainbow-village.md: nothing new (resting 60d)
+  – tainan-anping-old-street.md: nothing new (resting 60d)
+  – taipei-elephant-mountain.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 6, backlog-updated 4, already-complete 1107, no-new-data 531, no-place 535, closed-quarantined 1, quota-429 0, api-error 0, api-calls 25, remaining-askable 56 (APPLIED).
+BACKFILL RESULT: updated 5, backlog-updated 5, already-complete 1160, no-new-data 550, no-place 536, closed-quarantined 1, quota-429 0, api-error 0, api-calls 25, remaining-askable 39 (APPLIED).

@@ -25,6 +25,15 @@ place:
   businessStatus: OPERATIONAL
   lat: -7.1969273
   lng: 112.7322829
+  phone: '+62 31 3568050'
+  openingHours:
+    - 'Monday: Closed'
+    - 'Tuesday: 12:00 – 7:00 PM'
+    - 'Wednesday: 12:00 – 7:00 PM'
+    - 'Thursday: 12:00 – 7:00 PM'
+    - 'Friday: 1:00 – 7:00 PM'
+    - 'Saturday: 12:00 – 8:00 PM'
+    - 'Sunday: 12:00 – 8:00 PM'
 tags:
   - surabaya
   - top attraction

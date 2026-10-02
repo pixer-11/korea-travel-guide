@@ -25,6 +25,7 @@ place:
   businessStatus: "OPERATIONAL"
   lat: 31.322878999999997
   lng: 120.627791
+  phone: '+86 512 6757 5666'
 tags:
   - "suzhou"
   - "museum"
