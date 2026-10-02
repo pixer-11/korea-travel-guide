@@ -3493,6 +3493,12 @@
   "reason": "publish gate: Storefront exterior of Meo Plants & Cafe, Brighton",
   "at": "2026-10-01T14:56:25.697Z"
  },
+ "brighton-royal-pavilion\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Brighton_royal_pavilion_Qmin.jpg/1920px-Brighton_royal_pavilion_Qmin.jpg": {
+  "slug": "brighton-royal-pavilion",
+  "verdict": "MATCH",
+  "reason": "publish gate: Iconic exterior view of Royal Pavilion, Brighton",
+  "at": "2026-10-02T07:46:32.631Z"
+ },
  "brighton-snoopers-paradise\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Interior_of_Snoopers_Paradise%2C_Kensington_Gardens%2C_Brighton_2025-04-25.jpg/3840px-Interior_of_Snoopers_Paradise%2C_Kensington_Gardens%2C_Brighton_2025-04-25.jpg": {
   "slug": "brighton-snoopers-paradise",
   "verdict": "MATCH",
@@ -3954,6 +3960,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior entrance of Cairns Aquarium building, clearly labeled",
   "at": "2026-09-28T17:04:16.263Z"
+ },
+ "cairns-cairns-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CAIRNS_MUSEUM.jpg/1920px-CAIRNS_MUSEUM.jpg": {
+  "slug": "cairns-cairns-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Cairns Museum building with sign visible",
+  "at": "2026-10-02T07:47:50.225Z"
  },
  "cairns-crystal-cascades\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Crystal_Cascades_SF24334-02.jpg/3840px-Crystal_Cascades_SF24334-02.jpg": {
   "slug": "cairns-crystal-cascades",
@@ -6045,6 +6057,12 @@
   "reason": "publish gate: Royal Mile street view with clock tower, representative",
   "at": "2026-09-30T13:59:06.633Z"
  },
+ "edinburgh-stockbridge-market\u0001https://upload.wikimedia.org/wikipedia/commons/e/eb/Stockbridge_Market_%285327408205%29.jpg": {
+  "slug": "edinburgh-stockbridge-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Stockbridge Market archway entrance, representative exterior view",
+  "at": "2026-10-02T07:40:23.748Z"
+ },
  "edinburgh-the-piper-s-rest\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/The_Piper%27s_Rest.jpg/3840px-The_Piper%27s_Rest.jpg": {
   "slug": "edinburgh-the-piper-s-rest",
   "verdict": "MATCH",
@@ -6295,6 +6313,12 @@
   "verdict": "MATCH",
   "reason": "Historic fort with crenellated walls, UAE flag",
   "at": "2026-07-25T02:42:53.123Z"
+ },
+ "fujairah-fujairah-heritage-village\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Heritage_Village%2C_Fujairah%2C_UAE.jpg/1920px-Heritage_Village%2C_Fujairah%2C_UAE.jpg": {
+  "slug": "fujairah-fujairah-heritage-village",
+  "verdict": "MATCH",
+  "reason": "publish gate: Traditional mudbrick village with mountains matches Fujairah Heritage Village",
+  "at": "2026-10-02T07:43:36.819Z"
  },
  "fujairah-fujairah-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Fujairah_Museum_entrance.jpg/1920px-Fujairah_Museum_entrance.jpg": {
   "slug": "fujairah-fujairah-museum",
@@ -6768,6 +6792,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows outdoor cafe seating area under shade structure with signage",
   "at": "2026-09-29T14:17:21.546Z"
+ },
+ "gold-coast-ernest-junction-railway-tunnel\u0001https://upload.wikimedia.org/wikipedia/commons/5/51/Ernest_Junction_Railway_Tunnel_west_approach_cuttings%2C_2019.jpg": {
+  "slug": "gold-coast-ernest-junction-railway-tunnel",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows tunnel entrance, representative hero shot of attraction",
+  "at": "2026-10-02T07:52:03.136Z"
  },
  "gold-coast-natural-bridge-springbrook-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Natural_Bridge%2C_Springbrook_National_Park_18.jpg/3840px-Natural_Bridge%2C_Springbrook_National_Park_18.jpg": {
   "slug": "gold-coast-natural-bridge-springbrook-national-park",
@@ -7763,11 +7793,29 @@
   "reason": "publish gate: Dish photographed inside venue with branded wrapper, matches restaurant",
   "at": "2026-10-01T14:47:01.363Z"
  },
+ "hobart-mawson-s-huts-replica-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Mawsons_Huts_Replica_Museum_20171118-027.jpg/3840px-Mawsons_Huts_Replica_Museum_20171118-027.jpg": {
+  "slug": "hobart-mawson-s-huts-replica-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows museum exterior with sign, representative hero image",
+  "at": "2026-10-02T07:39:15.945Z"
+ },
  "hobart-mona\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MONA%2C_2013_%2802%29.jpg/3840px-MONA%2C_2013_%2802%29.jpg": {
   "slug": "hobart-mona",
   "verdict": "MATCH",
   "reason": "publish gate: MONA's distinctive architecture and river view, Hobart",
   "at": "2026-09-28T16:51:59.567Z"
+ },
+ "hobart-port-arthur-historic-site\u0001https://upload.wikimedia.org/wikipedia/commons/c/c2/PortArthurPenitentiary.jpg": {
+  "slug": "hobart-port-arthur-historic-site",
+  "verdict": "MATCH",
+  "reason": "publish gate: Recognisable Port Arthur penitentiary ruins by water, representative view",
+  "at": "2026-10-02T08:03:22.932Z"
+ },
+ "hobart-salamanca-market\u0001https://upload.wikimedia.org/wikipedia/commons/5/5d/Salamanca_Market_2010.jpg": {
+  "slug": "hobart-salamanca-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Crowded outdoor market with tents, matches Salamanca Market scene",
+  "at": "2026-10-02T07:48:52.788Z"
  },
  "hoi-an-bun-cha-ta-hoi-an\u0001https://fastly.4sqi.net/img/general/original/451218967_Ju9RCjFw6VmurqI3sbRaXaRvqwtcWOVL9jmPm5TiajM.jpg": {
   "slug": "hoi-an-bun-cha-ta-hoi-an",
@@ -12132,6 +12180,12 @@
   "reason": "publish gate: Clear, representative view of the London Eye landmark",
   "at": "2026-09-30T13:57:57.480Z"
  },
+ "london-natural-history-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Natural_History_Museum_Main_Hall%2C_London%2C_UK_-_Diliff.jpg/3840px-Natural_History_Museum_Main_Hall%2C_London%2C_UK_-_Diliff.jpg": {
+  "slug": "london-natural-history-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Iconic Hintze Hall interior, recognisable Natural History Museum view",
+  "at": "2026-10-02T07:51:07.744Z"
+ },
  "london-oudh-1722\u0001https://fastly.4sqi.net/img/general/original/7350009_N50daV9Pq20ePweQK8AuvLTJy8JCNnaja8kuy-Qa44I.jpg": {
   "slug": "london-oudh-1722",
   "verdict": "MATCH",
@@ -13072,6 +13126,12 @@
   "reason": "publish gate: Exterior of Manchester Museum building, representative view",
   "at": "2026-09-30T14:00:29.267Z"
  },
+ "manchester-people-s-history-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/PeoplesHistoryMuseum.JPG/1920px-PeoplesHistoryMuseum.JPG": {
+  "slug": "manchester-people-s-history-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior shows building with Museum & Shop signage visible",
+  "at": "2026-10-02T07:53:32.216Z"
+ },
  "manchester-sister-moon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sister_Moon_-_September_Moon_in_Rio_de_Janeiro.jpg/3840px-Sister_Moon_-_September_Moon_in_Rio_de_Janeiro.jpg": {
   "slug": "manchester-sister-moon",
   "verdict": "MISMATCH",
@@ -13272,6 +13332,12 @@
   "verdict": "WEAK",
   "reason": "Marina Bay skyline, but no restaurant/food content",
   "at": "2026-07-25T02:46:32.623Z"
+ },
+ "marina-bay-singapore-skyline-view\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Singapore_%28SG%29%2C_Marina_Bay%2C_Night_View_--_2019_--_4573-81.jpg/3840px-Singapore_%28SG%29%2C_Marina_Bay%2C_Night_View_--_2019_--_4573-81.jpg": {
+  "slug": "marina-bay-singapore-skyline-view",
+  "verdict": "MATCH",
+  "reason": "publish gate: Accurate Marina Bay skyline view, representative hero image",
+  "at": "2026-10-02T07:45:44.676Z"
  },
  "marina-bay-skypark-observation-deck\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Infinity_Pool_at_Marina_Bay_Sands_SkyPark_Singapore_Ank_Kumar_Infosys_Limited_03.jpg/1920px-Infinity_Pool_at_Marina_Bay_Sands_SkyPark_Singapore_Ank_Kumar_Infosys_Limited_03.jpg": {
   "slug": "marina-bay-skypark-observation-deck",
@@ -13665,6 +13731,12 @@
   "verdict": "MATCH",
   "reason": "patrol replace: MotoGP motorcycle racing at Misano circuit",
   "at": "2026-08-15T15:11:24.763Z"
+ },
+ "mong-kok-618-shanghai-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/HK_MK_%E6%97%BA%E8%A7%92_Mong_Kok_%E4%B8%8A%E6%B5%B7%E8%A1%97_618_Shanghai_Street_%E8%98%87%E5%AA%BD_%E8%98%87%E5%AA%BD%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E8%8C%B6%E9%A4%90%E5%AE%A4_Semua_Semua_Restaurant_November_2025_N13P_01.jpg/3840px-HK_MK_%E6%97%BA%E8%A7%92_Mong_Kok_%E4%B8%8A%E6%B5%B7%E8%A1%97_618_Shanghai_Street_%E8%98%87%E5%AA%BD_%E8%98%87%E5%AA%BD%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E8%8C%B6%E9%A4%90%E5%AE%A4_Semua_Semua_Restaurant_November_2025_N13P_01.jpg": {
+  "slug": "mong-kok-618-shanghai-street",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Shanghai Street building exterior with sign confirming location",
+  "at": "2026-10-02T07:44:35.527Z"
  },
  "mong-kok-beans-cafe\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/HK_SKD_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%BB%A3%E5%A0%B4_Tseung_Kwan_O_Plaza_mall_shop_Cafe_de_Beans_Restaurant_January_2025_R12S_01.jpg/3840px-HK_SKD_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%BB%A3%E5%A0%B4_Tseung_Kwan_O_Plaza_mall_shop_Cafe_de_Beans_Restaurant_January_2025_R12S_01.jpg": {
   "slug": "mong-kok-beans-cafe",
@@ -17796,6 +17868,12 @@
   "reasonKo": "산세바스티안 콘차 산책로의 역사적 사진",
   "at": "2026-08-03T14:36:47.882Z"
  },
+ "san-sebastian-plaza-de-la-constitucion-san-sebastian\u0001https://upload.wikimedia.org/wikipedia/commons/b/b6/Plaza_de_la_Constituci%C3%B3n._San_Sebasti%C3%A1n.jpg": {
+  "slug": "san-sebastian-plaza-de-la-constitucion-san-sebastian",
+  "verdict": "MATCH",
+  "reason": "publish gate: Plaza shown with clock tower, arcades, representative plaza view",
+  "at": "2026-10-02T07:38:16.485Z"
+ },
  "san-sebastian-san-telmo-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/MUSEO_DE_SAN_TELMO_Y_PLAZA_ZULOAGA.jpg/1920px-MUSEO_DE_SAN_TELMO_Y_PLAZA_ZULOAGA.jpg": {
   "slug": "san-sebastian-san-telmo-museum",
   "verdict": "MATCH",
@@ -20155,6 +20233,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Granite peaks match Seoraksan's iconic rocky landscape",
   "at": "2026-09-10T07:50:26.615Z"
+ },
+ "sokcho-sokcho-lighthouse\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Red_lighthouse_in_Sokcho_01.jpg/3840px-Red_lighthouse_in_Sokcho_01.jpg": {
+  "slug": "sokcho-sokcho-lighthouse",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows red lighthouse on breakwater, representative Sokcho harbor view",
+  "at": "2026-10-02T07:41:42.247Z"
  },
  "stanley-stanley-main-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Stanley_Main_Street_Eastern_End.jpg/3840px-Stanley_Main_Street_Eastern_End.jpg": {
   "slug": "stanley-stanley-main-street",
@@ -23011,6 +23095,12 @@
   "reason": "Bronze arrowheads from Qinshihuang's terracotta army",
   "at": "2026-07-25T02:50:48.592Z"
  },
+ "yas-island-emirates-heritage-village\u0001https://upload.wikimedia.org/wikipedia/commons/d/dd/Emirates_Heritage_Village_-_55392367859.jpg": {
+  "slug": "yas-island-emirates-heritage-village",
+  "verdict": "MATCH",
+  "reason": "publish gate: Traditional courtyard with well, doors, matches heritage village",
+  "at": "2026-10-02T07:54:35.284Z"
+ },
  "yeosu-keunkkeut-lighthouse\u0001https://fastly.4sqi.net/img/general/original/12647493_XGbSrLLG61czWtYRdJ6GaX8ED3c-u8w1YxQ2_eJRcU4.jpg": {
   "slug": "yeosu-keunkkeut-lighthouse",
   "verdict": "MATCH",
@@ -23179,6 +23269,12 @@
   "reasonKo": "요코하마 차이나타운의 정통 중식 간판",
   "at": "2026-08-03T14:42:14.814Z"
  },
+ "yokohama-yokohama-landmark-tower\u0001https://upload.wikimedia.org/wikipedia/commons/8/8b/Yokohama_Landmark_Tower_and_Minato-Mirai_waterfront_seen_from_the_boat.jpg": {
+  "slug": "yokohama-yokohama-landmark-tower",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Yokohama Landmark Tower in city skyline view",
+  "at": "2026-10-02T07:50:05.515Z"
+ },
  "yokohama-yokohama-marine-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yokohama_Marine_Tower_02a.jpg/1920px-Yokohama_Marine_Tower_02a.jpg": {
   "slug": "yokohama-yokohama-marine-tower",
   "verdict": "MATCH",
@@ -23232,6 +23328,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior storefront with visible Skosh signage, representative hero",
   "at": "2026-10-01T14:49:47.334Z"
+ },
+ "york-york-castle-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/York_Castle_Museum.jpg/1920px-York_Castle_Museum.jpg": {
+  "slug": "york-york-castle-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative exterior view of York Castle Museum building",
+  "at": "2026-10-02T07:42:31.725Z"
  },
  "york-york-city-walls\u0001https://fastly.4sqi.net/img/general/original/12455_3WB_ev2Yf4SCJQeWp2NnTRY8EggrTJmqA9ibutf-isU.jpg": {
   "slug": "york-york-city-walls",

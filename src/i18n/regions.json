@@ -9574,6 +9574,11 @@
       "blurb": "아다나는 튀르키예에서 네 번째로 큰 도시로, 추쿠로바 평원 위에 자리한 뜨거운 햇살의 도시입니다. 도시 이름을 딴 숯불 케밥, 톡 쏘는 맛의 샬감(şalgam) 음료, 그리고 지금도 세이한 강을 가로지르는 로마 시대의 석조 다리 타슈쾨프뤼(Taşköprü)로 유명합니다. 거대한 사반즈 중앙 모스크가 도시 스카이라인의 중심을 이루고 있으며, 킬리키아 일대에 흩어져 있는 고대 유적지와 성들을 둘러보기에 더없이 좋은 거점 도시이기도 합니다.",
       "getting": "대부분의 여행객은 2024년에 개항한 추쿠로바 국제공항(COV)을 통해 아다나에 도착합니다. 이 공항은 타르수스 인근, 시내에서 서쪽으로 약 35km 떨어진 곳에 위치해 있으며, 공항에서는 미터택시, 하바쉬(Havaş) 공항버스, 시내버스 등을 이용해 시내로 이동할 수 있습니다. 아다나에는 또한 아다나-메르신 노선을 운행하는 터키국영철도(TCDD)의 주요 기차역이 있어, 지역 열차와 도시 간 열차로 메르신 등 인근 지역과 연결됩니다.",
       "days": "구시가지와 다리, 모스크를 둘러보는 데는 1~2일 정도면 충분합니다. 다만 아다나를 거점 삼아 킬리키아 지역 곳곳으로 당일치기 여행을 계획하고 있다면, 조금 더 여유 있게 일정을 잡는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "アダナはトルコ第4の都市であり、チュクロヴァ平野に広がる太陽が照りつける拠点都市です。名物の炙り焼きケバブ「アダナ・ケバブ」や酸味の効いた飲み物「シャルガム」、そして今もセイハン川に架かるローマ時代の石橋「タシュキョプリュ」で知られています。街のスカイラインを特徴づけているのは巨大なサバンジュ中央モスクで、キリキア地方各地に点在する古代遺跡や城塞を巡る旅の拠点として最適な街です。",
+      "getting": "多くの旅行者は、2024年に開港したチュクロヴァ国際空港(COV)から到着します。空港は市中心部から西へ約35km、タルスス近郊に位置しており、ここからはメーター制タクシー、ハワシュ空港リムジンバス、市営バスなどで市内へアクセスできます。また、アダナにはアダナ~メルシン線上の主要なTCDD鉄道駅もあり、地域列車や都市間列車がメルシンをはじめ各地へと結んでいます。",
+      "days": "旧市街、橋、モスクを見て回るだけなら1〜2日あれば十分ですが、アダナを拠点に広くキリキア地方へ日帰り旅行をする予定なら、さらに日数を加えることをおすすめします。"
     }
   },
   "Ha Long": {
@@ -9790,6 +9795,82 @@
       "blurb": "阿尔巴是朗格地区低调内敛的中心城市：一座红砖砌就的中世纪小城，四周环绕着巴罗洛和巴巴莱斯科的葡萄园，每年秋天还会因白松露市集而声名远扬。这里没有那种一眼惊艳的地标景点，吸引人的是紧凑宜人、适合漫步的老城区、出色的地方美食，以及轻松可达的意大利顶级葡萄酒产区。",
       "getting": "阿尔巴设有自己的火车站，位于SFM4区域线上，有直达都灵波尔塔苏萨站（Torino Porta Susa）和都灵林戈托站（Torino Lingotto）的列车，车程约1小时15分钟。最近的主要机场是都灵机场（TRN，卡塞雷机场），无论自驾还是经由都灵市区换乘火车加巴士，都大约需要1小时20分钟到1小时30分钟；阿尔巴本地并没有机场。",
       "days": "建议安排2到3天：足够漫步老城及其塔楼、逛一逛松露市集或周六集市，并至少安排半天时间前往巴罗洛或巴巴莱斯科的葡萄园短途游览。"
+    }
+  },
+  "Kansas City": {
+    "en": {
+      "blurb": "Kansas City straddles the Missouri/Kansas border and is famous for slow-smoked barbecue, deep jazz roots and more fountains than almost any other city on earth. Its revitalised Union Station and compact downtown core make it a surprisingly walkable stop for a city built on cattle yards and railroads.",
+      "getting": "Most travellers fly into Kansas City International Airport (MCI), about 15 miles northwest of downtown, and connect via the RideKC bus route or a taxi/rideshare into the centre. Amtrak's Southwest Chief and Missouri River Runner services also call at the historic Kansas City Union Station, right downtown.",
+      "days": "Plan on ~2 to 3 days to cover the main barbecue joints, the jazz and WWI museums, and a wander through downtown and the Crossroads Arts District."
+    },
+    "ko": {
+      "blurb": "캔자스시티는 미주리 주와 캔자스 주의 경계에 걸쳐 있는 도시로, 느긋하게 훈제한 바비큐와 깊은 재즈의 뿌리, 그리고 세계 어느 도시보다도 많다고 할 만한 분수들로 유명하다. 한때 가축 수용장과 철도로 번성했던 이 도시는 새단장을 마친 유니언 역(Union Station)과 아담하게 모여 있는 다운타운 덕분에 의외로 걸어서 둘러보기 좋은 곳이 되었다.",
+      "getting": "대부분의 여행자는 다운타운에서 북서쪽으로 약 15마일 떨어진 캔자스시티 국제공항(MCI)을 이용하며, 이후 RideKC 버스 노선이나 택시·라이드셰어를 이용해 시내로 이동한다. 암트랙(Amtrak)의 사우스웨스트 치프(Southwest Chief)와 미주리 리버 러너(Missouri River Runner) 노선 역시 다운타운 한복판에 위치한 역사적인 캔자스시티 유니언 역에 정차한다.",
+      "days": "주요 바비큐 맛집들과 재즈 박물관, 제1차 세계대전 박물관을 둘러보고 다운타운과 크로스로즈 아츠 디스트릭트(Crossroads Arts District)까지 거닐어보려면 대략 2~3일 정도를 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "カンザスシティはミズーリ州とカンザス州の州境にまたがる街で、じっくり燻した本格バーベキュー、ジャズの深いルーツ、そして世界有数とも言える数の噴水で知られています。かつて牛の取引所と鉄道で栄えたこの街も、リニューアルされたユニオン駅とコンパクトな中心部のおかげで、今では意外なほど歩いて楽しめる街になっています。",
+      "getting": "多くの旅行者は、ダウンタウンから北西へ約15マイルの場所にあるカンザスシティ国際空港（MCI）を利用し、RideKCのバス路線やタクシー・配車サービスで中心部へ向かいます。また、アムトラックのサウスウエスト・チーフ号やミズーリ・リバー・ランナー号も、ダウンタウンにある歴史的なカンザスシティ・ユニオン駅に停車します。",
+      "days": "主要なバーベキュー店、ジャズ博物館や第一次世界大戦博物館を巡り、ダウンタウンやクロスロード・アーツ・ディストリクトを散策するには、2〜3日ほど見ておくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Kansas City se extiende a ambos lados de la frontera entre Missouri y Kansas, y es célebre por su barbacoa ahumada a fuego lento, sus profundas raíces jazzísticas y por tener más fuentes que casi cualquier otra ciudad del mundo. Su remozada Union Station y su compacto centro urbano la convierten en una parada sorprendentemente recorrible a pie, para ser una ciudad levantada sobre corrales de ganado y vías férreas.",
+      "getting": "La mayoría de los viajeros llega por el Aeropuerto Internacional de Kansas City (MCI), situado unas 15 millas al noroeste del centro, y se traslada al corazón de la ciudad en autobús de RideKC o en taxi/servicio de transporte privado. Los trenes Southwest Chief y Missouri River Runner de Amtrak también hacen parada en la histórica Union Station de Kansas City, justo en pleno centro.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer los principales templos de la barbacoa, visitar los museos del jazz y de la Primera Guerra Mundial, y pasear por el centro y el Crossroads Arts District."
+    },
+    "zh": {
+      "blurb": "堪萨斯城横跨密苏里州与堪萨斯州的边界，以慢火烟熏烧烤闻名，拥有深厚的爵士乐渊源，喷泉数量之多更是全球罕见。如今重新焕发生机的联合车站（Union Station）与紧凑的市中心区域，让这座因牛市交易和铁路运输而兴起的城市，意外地成为一个适合步行游览的目的地。",
+      "getting": "大多数游客会选择飞抵堪萨斯城国际机场（MCI），该机场位于市中心西北约15英里处，可乘坐RideKC公交线路或搭乘出租车/网约车前往市区。美铁（Amtrak）的西南酋长号（Southwest Chief）和密苏里河漫游者号（Missouri River Runner）线路也会停靠在市中心的历史建筑——堪萨斯城联合车站。",
+      "days": "建议安排2到3天时间，游览主要的烧烤名店、爵士乐博物馆与一战博物馆，并悠闲漫步于市中心及十字路口艺术区（Crossroads Arts District）。"
+    }
+  },
+  "Tempe": {
+    "en": {
+      "blurb": "Tempe is the Phoenix metro's buzzing college town, built around Arizona State University and the man-made Tempe Town Lake, where paddleboarders and joggers share the shoreline below the red-rock profile of Hayden Butte. Downtown's Mill Avenue District mixes student-driven nightlife with easy lakeside strolls, giving the city a compact, walkable energy rare in the sprawling Valley.",
+      "getting": "The main gateway is Phoenix Sky Harbor International Airport (PHX); from there, travellers take the free PHX Sky Train to the 44th Street/Washington Valley Metro light rail station and ride the line east into Tempe, a trip of roughly 15 to 25 minutes depending on the stop. Valley Metro buses and the local Tempe Streetcar extend onward connections once in the city.",
+      "days": "Allow ~1 to 2 days to cover Tempe Town Lake, the Mill Avenue District and the ASU campus at an easy pace, with extra time if combining visits to nearby Phoenix or Scottsdale."
+    },
+    "ko": {
+      "blurb": "템피는 애리조나 주립대학교(ASU)와 인공 호수인 템피 타운 레이크를 중심으로 발전한, 피닉스 광역권의 활기 넘치는 대학 도시다. 헤이든 뷰트의 붉은 바위 능선 아래로 펼쳐진 호숫가에서는 패들보더와 조깅하는 사람들이 나란히 공간을 공유하고, 다운타운의 밀 애비뉴 지구는 대학생들이 주도하는 밤 문화와 느긋한 호숫가 산책을 함께 담아내며, 광활하게 뻗은 밸리 지역에서는 보기 드물게 아담하고 걷기 좋은 활기를 선사한다.",
+      "getting": "주요 관문은 피닉스 스카이 하버 국제공항(PHX)이다. 공항에서는 무료 PHX 스카이트레인을 타고 44번가/워싱턴 밸리 메트로 경전철역으로 이동한 뒤, 동쪽 방향 노선을 타고 템피로 들어가면 된다. 하차 지점에 따라 소요 시간은 약 15~25분 정도다. 일단 시내에 도착하면 밸리 메트로 버스와 지역 템피 스트릿카를 이용해 추가로 이동할 수 있다.",
+      "days": "템피 타운 레이크, 밀 애비뉴 지구, ASU 캠퍼스를 여유롭게 둘러보려면 약 1~2일이 적당하며, 인근 피닉스나 스코츠데일까지 함께 둘러볼 계획이라면 일정을 좀 더 여유 있게 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "テンピは、アリゾナ州立大学(ASU)と人工湖テンピ・タウン・レイクを中心に発展した、フェニックス都市圏の活気あふれる学生の街だ。赤茶けた岩肌が特徴的なヘイデン・ビュートを背景に、湖畔ではパドルボーダーやジョギングする人々が思い思いの時間を過ごしている。ダウンタウンのミル・アベニュー地区は、学生たちで賑わうナイトライフと湖畔の気軽な散策スポットが共存するエリアで、広大に広がるバレー地域の中では珍しく、コンパクトで歩いて楽しめる活気を感じさせてくれる。",
+      "getting": "テンピへの主な玄関口はフェニックス・スカイハーバー国際空港(PHX)だ。空港から無料のPHXスカイトレインに乗り、44th Street/Washington駅でバレー・メトロのライトレールに乗り換えて東へ向かうと、停車駅にもよるがおよそ15〜25分でテンピに到着する。市内に入ってからは、バレー・メトロのバスや地元のテンピ・ストリートカー(路面電車)を使えば、さらに足を延ばすことができる。",
+      "days": "テンピ・タウン・レイク、ミル・アベニュー地区、ASUキャンパスをのんびり巡るなら1〜2日ほど見ておくとよい。近隣のフェニックスやスコッツデールもあわせて訪れる場合は、もう少し日数を加えるのがおすすめだ。"
+    },
+    "es": {
+      "blurb": "Tempe es la bulliciosa ciudad universitaria del área metropolitana de Phoenix, construida en torno a la Universidad Estatal de Arizona (ASU) y al artificial Tempe Town Lake, donde remeros de paddleboard y corredores comparten la orilla bajo el perfil de roca roja de Hayden Butte. El centro, en el distrito de Mill Avenue, combina una animada vida nocturna estudiantil con tranquilos paseos junto al lago, dándole a la ciudad una energía compacta y perfecta para recorrer a pie, algo poco común en el extenso Valle.",
+      "getting": "La principal puerta de entrada es el Aeropuerto Internacional Phoenix Sky Harbor (PHX); desde allí, los viajeros toman el PHX Sky Train, gratuito, hasta la estación de light rail de Valley Metro en 44th Street/Washington, y continúan hacia el este en esa línea hasta Tempe, un trayecto de entre 15 y 25 minutos aproximadamente según la parada. Los autobuses de Valley Metro y el tranvía local Tempe Streetcar permiten ampliar las conexiones una vez en la ciudad.",
+      "days": "Se recomienda dedicar entre 1 y 2 días para recorrer con calma el Tempe Town Lake, el distrito de Mill Avenue y el campus de ASU, con tiempo adicional si se combina la visita con las cercanas Phoenix o Scottsdale."
+    },
+    "zh": {
+      "blurb": "坦佩是凤凰城都会区里一座活力四射的大学城,围绕亚利桑那州立大学和人工湖坦佩城市湖而建。在海登巴特红岩地貌的映衬下,桨板爱好者和晨跑者共享湖岸风光。市中心的米尔大道区将学生主导的夜生活与惬意的湖畔漫步融为一体,赋予这座城市在广袤的河谷地带中难得一见的紧凑步行氛围。",
+      "getting": "主要门户是凤凰城天港国际机场(PHX);从机场出发,游客可搭乘免费的PHX空中列车前往44街/华盛顿谷地地铁轻轨站,再乘坐轻轨向东驶入坦佩,行程约15到25分钟,具体视站点而定。抵达市区后,Valley Metro公交车和本地的坦佩有轨电车可提供进一步的接驳服务。",
+      "days": "建议预留约1到2天时间,以轻松的节奏游览坦佩城市湖、米尔大道区和亚利桑那州立大学校园;若计划顺道游览附近的凤凰城或斯科茨代尔,则需额外安排时间。"
+    }
+  },
+  "Yas Island": {
+    "en": {
+      "blurb": "Yas Island is Abu Dhabi's purpose-built entertainment hub, a man-made island packing Ferrari World, Yas Waterworld, SeaWorld Abu Dhabi and the Yas Marina Circuit, home of the Abu Dhabi Grand Prix, onto one site. It mixes theme-park thrills with a marina, a mall and beach clubs, making it as much a resort destination as a day-trip attraction.",
+      "getting": "The nearest airport is Abu Dhabi International (AUH), only ~10km away, with taxis the simplest route at around 15 minutes; public buses also connect but take longer and may involve transfers. Yas Island is also a manageable day trip from Dubai, roughly 1-2 hours by road depending on traffic.",
+      "days": "Most visitors budget ~2 to 3 days to cover the main theme parks, the circuit and some downtime at the marina or beach without rushing."
+    },
+    "ja": {
+      "blurb": "ヤス島は、アブダビが満を持して作り上げたエンターテインメント特化型のハブで、フェラーリ・ワールド、ヤス・ウォーターワールド、シーワールド・アブダビ、そしてアブダビ・グランプリの舞台であるヤス・マリーナ・サーキットまでをも一つの人工島に詰め込んでいます。テーマパークならではのスリルに加え、マリーナやモール、ビーチクラブも揃っており、日帰りで楽しめるアトラクションというだけでなく、リゾート地としても申し分のない魅力を備えています。",
+      "getting": "最寄り空港はアブダビ国際空港(AUH)で、距離にしてわずか約10km。タクシーなら15分ほどで着くのが一番手軽な行き方です。路線バスでも行けますが、所要時間は長めで乗り換えが必要になることもあります。また、ドバイからも日帰りで訪れやすく、道路状況にもよりますが車で1~2時間程度です。",
+      "days": "主要なテーマパークやサーキットを巡りつつ、マリーナやビーチでのんびりする時間も確保するなら、急がずに楽しむために2~3日ほど見ておくのが一般的です。"
+    },
+    "es": {
+      "blurb": "Yas Island es el centro de entretenimiento diseñado a medida de Abu Dabi, una isla artificial que reúne en un solo lugar Ferrari World, Yas Waterworld, SeaWorld Abu Dhabi y el Circuito de Yas Marina, sede del Gran Premio de Abu Dabi. Combina la adrenalina de los parques temáticos con una marina, un centro comercial y clubes de playa, lo que la convierte tanto en un destino de resort como en una atracción de un día.",
+      "getting": "El aeropuerto más cercano es el Aeropuerto Internacional de Abu Dabi (AUH), a solo unos 10 km de distancia; el taxi es la opción más sencilla, con un trayecto de unos 15 minutos. También hay autobuses públicos que conectan la zona, aunque tardan más y pueden requerir trasbordos. Yas Island también es una excursión de un día perfectamente viable desde Dubái, a aproximadamente 1-2 horas por carretera según el tráfico.",
+      "days": "La mayoría de los visitantes reserva entre 2 y 3 días para recorrer con calma los principales parques temáticos, el circuito y disfrutar de algo de tiempo libre en la marina o la playa."
+    },
+    "zh": {
+      "blurb": "亚斯岛是阿布扎比专为娱乐打造的人工岛,堪称休闲度假的集大成之作:法拉利世界、亚斯水上世界、阿布扎比海洋世界,以及举办阿布扎比大奖赛的亚斯码头赛道,全都汇聚于此。这里既有主题乐园的刺激体验,又有游艇码头、购物商场和海滩俱乐部相伴,与其说是一日游景点,不如说是一个不折不扣的度假胜地。",
+      "getting": "最近的机场是阿布扎比国际机场(AUH),距离仅约10公里。乘出租车是最便捷的方式,车程约15分钟;公共巴士虽然也能到达,但耗时较长,且可能需要换乘。从迪拜出发前往亚斯岛同样轻松,视路况而定,车程大约1到2小时,非常适合安排一日游。",
+      "days": "大多数游客通常会安排2到3天的行程,这样既能从容游览主要的主题乐园和赛道,也能留出时间在码头或海滩悠闲放松,不必太赶。"
     }
   }
 }

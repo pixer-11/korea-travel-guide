@@ -31162,5 +31162,82 @@
   "registerBreak": false,
   "worst": "维多利亚广场是一座于2008年开业的室内购物中心，穹顶观景台就是它的屋顶。",
   "at": "2026-10-01T17:01:24.115Z"
+ },
+ "es/bangkok-iris-wild-iris": {
+  "hash": "d919cb899807",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Quien llega ya de noche solo ve la segunda mitad del espectáculo.",
+  "at": "2026-10-02T07:59:20.947Z"
+ },
+ "es/bangkok-namsu-namsu-shan-izakaya": {
+  "hash": "84772ffeb468",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Namsu se instaló hace poco en el local situado encima, cerca de Thong Lor",
+  "at": "2026-10-02T07:59:22.270Z"
+ },
+ "es/barcelona-osteria-condal": {
+  "hash": "fc61683daafe",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El almuerzo... suele empezar hacia la 1:30pm y prolongarse hasta media tarde",
+  "at": "2026-10-02T07:59:30.200Z"
+ },
+ "ja/bangkok-iris-wild-iris": {
+  "hash": "604bfdce878c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "バンコクのルーフトップの多くは、見えるものといえば周りの高層ビルばかりです。",
+  "at": "2026-10-02T07:59:31.555Z"
+ },
+ "ja/bangkok-namsu-namsu-shan-izakaya": {
+  "hash": "6c7c18673857",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "確かなのは、この店のコンセプトです。アジアの一方の端の酒肴を、もう一方の端のお酒と合わせています。",
+  "at": "2026-10-02T07:59:32.905Z"
+ },
+ "ja/barcelona-osteria-condal": {
+  "hash": "f9c29ea0bf58",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "こんな人におすすめ、の段落で「〜にはぜひ予約をおすすめします」とやや冗長な言い回しがある",
+  "at": "2026-10-02T07:59:34.390Z"
+ },
+ "ko/bangkok-iris-wild-iris": {
+  "hash": "8ee48825c012",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "공원이 가리는 것 하나 없이 바로 발아래 펼쳐집니다.",
+  "at": "2026-10-02T07:59:42.953Z"
+ },
+ "ko/bangkok-namsu-namsu-shan-izakaya": {
+  "hash": "8ac46f39ca4c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-02T07:59:47.576Z"
+ },
+ "ko/barcelona-osteria-condal": {
+  "hash": "44df460638b7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "여러분에게 이르다 싶은 예약 시간이면 식당 입장에서도 이른 시간일 수 있습니다.",
+  "at": "2026-10-02T07:59:55.684Z"
+ },
+ "zh/bangkok-namsu-namsu-shan-izakaya": {
+  "hash": "6c8198d9c061",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "我们没有拿到Namsu的菜单，所以不必事先认定要吃哪道菜，当晚看菜单点就好。",
+  "at": "2026-10-02T08:00:04.413Z"
+ },
+ "zh/barcelona-osteria-condal": {
+  "hash": "6f823bd4eaf5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "巴塞罗那人吃饭晚，你觉得偏早的时段，对餐厅来说可能也确实早了点",
+  "at": "2026-10-02T08:00:10.376Z"
  }
 }
