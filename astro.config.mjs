@@ -9,6 +9,7 @@ import { groupUrls, newestLastmod, renderSitemap, renderIndex } from './src/lib/
 import { hubPathsFor, dayTripHubDates } from './src/lib/hub-lastmod.mjs';
 import { computeDayTrips } from './src/lib/dayTrips.mjs';
 import { parseSourceFile } from './scripts/lib/src-hash.mjs';
+import { mergeRedirectRules } from './src/lib/redirect-rules.mjs';
 import { MONTHS, monthSlug, eligibleCountries, whenToGo } from './src/lib/when-to-go.mjs';
 import { isIndexableMonthPage, monthPageSignals } from './src/lib/thin-page-policy.mjs';
 // Region URLs switched from raw `region.toLowerCase()` (spaces left as %20 on 32
@@ -293,7 +294,7 @@ const REGION_ALIAS = {
   washington: 'washington-dc',
 };
 
-function regionRedirects() {
+export function regionRedirects() {
   const dir = join(__dirname, 'src/content/posts');
   let files = [];
   try { files = readdirSync(dir); } catch { return []; }
@@ -378,7 +379,9 @@ function regionRedirects() {
   // posts; with the posts retagged they would silently drop out.
   for (const [from, to] of [['Málaga', 'malaga'], ['San Sebastián', 'san-sebastian'], ['Ha Long', 'ha-long-bay'], ['Goyang-si', 'goyang'], ['Washington', 'washington-dc']]) {
     const oldEnc = encodeURI(from.toLowerCase());
-    if (oldEnc !== to && !regions.has(from)) lines.push(`/regions/${oldEnc}/ /regions/${to}/ 301`);
+    // An alias key is already redirected below; a second line for it is a
+    // duplicate Cloudflare refuses the whole deploy over.
+    if (oldEnc !== to && !regions.has(from) && !(oldEnc in alias)) lines.push(`/regions/${oldEnc}/ /regions/${to}/ 301`);
   }
   // The alias lines used to exist only for the English path, so
   // /ko/regions/xian/ (reachable from redirected localized post URLs) 404ed.
@@ -603,11 +606,17 @@ function regionRedirectsIntegration() {
     name: 'region-redirects',
     hooks: {
       'astro:build:done': (/** @type {{ dir: URL }} */ { dir }) => {
-        const lines = regionRedirects();
-        if (!lines.length) return;
         const out = fileURLToPath(new URL('_redirects', dir));
         let existing = '';
         try { existing = readFileSync(out, 'utf8').replace(/\s*$/, '') + '\n\n'; } catch { /* none yet */ }
+        // Cloudflare rejects the whole deploy over one repeated source path,
+        // and only at the upload step (see src/lib/redirect-rules.mjs).
+        const merged = mergeRedirectRules(existing, regionRedirects());
+        if (merged.conflicts.length) {
+          throw new Error(`_redirects: the same path is sent to two places:\n  ${merged.conflicts.join('\n  ')}`);
+        }
+        const lines = merged.lines;
+        if (!lines.length) return;
         writeFileSync(out, existing + '# region slug 301s (auto-generated)\n' + lines.join('\n') + '\n');
         // Cloudflare caps _redirects at 2,000 static rules and SILENTLY IGNORES the
         // overflow — the symptom would be quarantined posts 404ing again with
