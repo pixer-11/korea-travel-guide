@@ -31239,5 +31239,89 @@
   "registerBreak": false,
   "worst": "巴塞罗那人吃饭晚，你觉得偏早的时段，对餐厅来说可能也确实早了点",
   "at": "2026-10-02T08:00:10.376Z"
+ },
+ "es/berlin-bless-restaurant": {
+  "hash": "e2c9cd02d751",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "el momento más tranquilo en BLESS va de 3pm a 5pm",
+  "at": "2026-10-02T14:35:52.084Z"
+ },
+ "es/berlin-brandenburg-gate": {
+  "hash": "6a8f900cc186",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "con muchos menos codos en el encuadre",
+  "at": "2026-10-02T14:35:53.457Z"
+ },
+ "es/berlin-teufelsberg": {
+  "hash": "95584d6927ed",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-02T14:35:54.421Z"
+ },
+ "ja/berlin-bless-restaurant": {
+  "hash": "fd4b42e61c26",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "混雑状況のデータははっきりしています。",
+  "at": "2026-10-02T14:35:59.921Z"
+ },
+ "ja/berlin-brandenburg-gate": {
+  "hash": "34d65be02795",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "バインダーを手にした人��署名を頼み、続けて寄付を求めてくることがあります。",
+  "at": "2026-10-02T14:36:04.180Z"
+ },
+ "ja/berlin-teufelsberg": {
+  "hash": "ef3d4009d5a7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "建物があまりに頑丈で爆破できなかったため、がれきで埋めてしまったのです。",
+  "at": "2026-10-02T14:36:09.177Z"
+ },
+ "ko/berlin-bless-restaurant": {
+  "hash": "ced5a4bc5167",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "박물관 섬에서 출발한다면 슈프레강을 건너 남쪽으로 15분쯤 걸을 생각을 하시면 됩니다.",
+  "at": "2026-10-02T14:36:13.705Z"
+ },
+ "ko/berlin-brandenburg-gate": {
+  "hash": "62325eac9d4b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "문의 서쪽으로는 티어가르텐이 펼쳐지며, 6월 17일 거리를 따라가면 전승기념탑에 이릅니다.",
+  "at": "2026-10-02T14:36:23.727Z"
+ },
+ "ko/berlin-teufelsberg": {
+  "hash": "06c5ba1e247d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "입구 개방 시간은 매일 11am부터 7pm까지이니 여기에 맞춰 일정을 짜십시오.",
+  "at": "2026-10-02T14:36:34.878Z"
+ },
+ "zh/berlin-bless-restaurant": {
+  "hash": "91cfa1dcdbab",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "读完上面的名字只需一分钟，而正是这段历史，让这座广场有了一般餐饮街所没有的分量。",
+  "at": "2026-10-02T14:36:39.566Z"
+ },
+ "zh/berlin-brandenburg-gate": {
+  "hash": "c4ecce0a0b19",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "人与石柱之间别无遮挡，只有川流不息的游客。",
+  "at": "2026-10-02T14:36:47.388Z"
+ },
+ "zh/berlin-teufelsberg": {
+  "hash": "fe38b33d6966",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "这座建筑坚固得炸不掉，最后干脆被埋了起来。",
+  "at": "2026-10-02T14:36:52.516Z"
  }
 }

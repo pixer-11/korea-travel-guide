@@ -3347,6 +3347,684 @@
         }
       }
     },
+    "Germany": {
+      "srcHash": "961a08b7e376",
+      "en": {
+        "summary": [
+          {
+            "key": "entry",
+            "title": "Visa-free 90 days",
+            "sub": "Visa-free citizens can stay up to 90 days in 180 days"
+          },
+          {
+            "key": "money",
+            "title": "Cash still useful",
+            "sub": "Carry cash for small shops; cards widely accepted in cities"
+          },
+          {
+            "key": "season",
+            "title": "May, June or September",
+            "sub": "Best balance of weather, crowds and cost"
+          },
+          {
+            "key": "transport",
+            "title": "Deutschlandticket",
+            "sub": "€63/month covers all local and regional transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "Visa-free short stay",
+              "code": "",
+              "who": "US, Canada, Australia, Japan and other visa-liberalisation countries",
+              "cost": "Free",
+              "stay": "90 days in 180 days",
+              "note": "No visa needed for short stays"
+            },
+            {
+              "name": "Schengen Type C visa",
+              "code": "",
+              "who": "Citizens of countries without visa liberalisation, e.g. India, China, South Africa",
+              "cost": "€90 for most adults",
+              "stay": "90 days in 180 days",
+              "note": "Must be obtained before arrival"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "EES biometric recording",
+              "text": "Since 10 April 2026 the EU Entry/Exit System records a photo and fingerprints instead of stamping passports."
+            },
+            {
+              "title": "Rules may change",
+              "text": "Dates, fees, and exemptions for EES and ETIAS can change with little notice, so confirm before flying."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "Deutschlandticket",
+              "text": "Rolling monthly subscription, €63 per month from 1 January 2026, covers all local/regional transport but not ICE/IC/EC long-distance trains; cancel by the 10th of a month to end it that month-end."
+            },
+            {
+              "title": "Long-distance travel",
+              "text": "Use Deutsche Bahn's ICE/IC network for speed or FlixBus coaches for cheaper, slower journeys."
+            },
+            {
+              "title": "Driving caution",
+              "text": "Renting a car suits rural regions like the Black Forest or Bavarian Alps, but note unlimited-speed Autobahn sections and strict drink-driving laws."
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "Cash still needed",
+              "text": "Carry cash for small shops, bakeries, markets, and rural areas, though cards are widely accepted in cities."
+            },
+            {
+              "title": "Card acceptance",
+              "text": "Visa and Mastercard work at most ATMs and larger retailers; American Express is accepted less widely."
+            },
+            {
+              "title": "Lost or stolen cards",
+              "text": "Call 116 116, the universal European blocking hotline, to block a lost or stolen card."
+            },
+            {
+              "title": "City cost differences",
+              "text": "Expect higher costs in Munich, Frankfurt, and Berlin compared with smaller towns."
+            }
+          ]
+        },
+        "season": {
+          "best": [
+            5,
+            6,
+            9
+          ],
+          "rows": [
+            {
+              "label": "Autumn",
+              "sub": "Mild weather, Oktoberfest, and autumn colours",
+              "best": [
+                9
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "112",
+              "label": "Ambulance and fire",
+              "note": "Free, works from any phone even without a SIM card; use this if unsure between 112 and 110"
+            },
+            {
+              "number": "110",
+              "label": "Police",
+              "note": "Free, works from any phone even without a SIM card"
+            },
+            {
+              "number": "116117",
+              "label": "On-call medical service",
+              "note": "For urgent but not life-threatening medical help outside GP hours"
+            }
+          ],
+          "chips": [
+            "Watch for pickpockets in crowds",
+            "Operators can switch to English",
+            "Get travel insurance for medical care",
+            "Use orange roadside emergency phones"
+          ]
+        }
+      },
+      "ko": {
+        "summary": [
+          {
+            "title": "90일 무비자",
+            "sub": "무비자 대상 국가 국민은 180일 중 최대 90일 체류 가능",
+            "key": "entry"
+          },
+          {
+            "title": "현금도 여전히 유용",
+            "sub": "소규모 상점에서는 현금 지참, 도시에서는 카드가 널리 통용됨",
+            "key": "money"
+          },
+          {
+            "title": "5월, 6월 또는 9월",
+            "sub": "날씨, 혼잡도, 비용 면에서 최적의 균형",
+            "key": "season"
+          },
+          {
+            "title": "도이칠란트 티켓",
+            "sub": "월 63유로로 모든 지역 및 근교 대중교통 이용 가능",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "무비자 단기 체류",
+              "code": "",
+              "who": "미국, 캐나다, 호주, 일본 등 비자 면제 국가",
+              "cost": "무료",
+              "stay": "180일 중 90일",
+              "note": "단기 체류 시 비자 불필요"
+            },
+            {
+              "name": "셍겐 C형 비자",
+              "code": "",
+              "who": "비자 면제 대상이 아닌 국가 국민, 예: 인도, 중국, 남아프리카공화국",
+              "cost": "성인 대부분 90유로",
+              "stay": "180일 중 90일",
+              "note": "입국 전 반드시 발급받아야 함"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "EES 생체 정보 기록",
+              "text": "2026년 4월 10일부터 EU 출입국 시스템(EES)은 여권에 도장을 찍는 대신 사진과 지문을 기록합니다."
+            },
+            {
+              "title": "규정은 변경될 수 있음",
+              "text": "EES 및 ETIAS의 날짜, 수수료, 면제 대상은 사전 공지 없이 변경될 수 있으니 출발 전 확인하세요."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "도이칠란트 티켓",
+              "text": "2026년 1월 1일부터 월 63유로인 자동 갱신 월간 구독제로, 모든 지역 및 근교 대중교통을 포함하지만 ICE/IC/EC 장거리 열차는 제외됩니다. 해당 월 10일까지 해지하면 그달 말에 종료됩니다."
+            },
+            {
+              "title": "장거리 이동",
+              "text": "빠른 이동은 도이치반의 ICE/IC 네트워크를, 더 저렴하고 느린 이동은 플릭스버스를 이용하세요."
+            },
+            {
+              "title": "운전 시 주의사항",
+              "text": "렌터카는 검은 숲이나 바이에른 알프스 같은 지방 지역에 적합하지만, 속도 제한이 없는 아우토반 구간과 엄격한 음주운전 단속법에 유의하세요."
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "현금이 여전히 필요함",
+              "text": "소규모 상점, 베이커리, 시장, 지방 지역에서는 현금을 지참하세요. 다만 도시에서는 카드가 널리 통용됩니다."
+            },
+            {
+              "title": "카드 사용 가능 여부",
+              "text": "비자와 마스터카드는 대부분의 ATM과 대형 매장에서 사용 가능하지만, 아메리칸 익스프레스는 사용 범위가 더 제한적입니다."
+            },
+            {
+              "title": "분실 또는 도난 카드",
+              "text": "분실되거나 도난당한 카드를 정지하려면 유럽 공통 분실신고 핫라인인 116 116으로 전화하세요."
+            },
+            {
+              "title": "도시별 물가 차이",
+              "text": "뮌헨, 프랑크푸르트, 베를린은 작은 도시들보다 물가가 더 높을 것으로 예상됩니다."
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "가을",
+              "sub": "온화한 날씨, 옥토버페스트, 가을 단풍",
+              "best": [
+                9
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": [
+            5,
+            6,
+            9
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "112",
+              "label": "구급차 및 소방",
+              "note": "무료이며 SIM 카드가 없어도 모든 휴대폰에서 사용 가능; 112와 110 중 어느 것을 선택할지 모를 때 사용하세요"
+            },
+            {
+              "number": "110",
+              "label": "경찰",
+              "note": "무료이며 SIM 카드가 없어도 모든 휴대폰에서 사용 가능"
+            },
+            {
+              "number": "116117",
+              "label": "의료 상담 전화",
+              "note": "일반 진료시간 외에 긴급하지만 생명에 지장이 없는 의료 지원이 필요할 때"
+            }
+          ],
+          "chips": [
+            "인파 속 소매치기 주의",
+            "상담원이 영어로 전환 가능",
+            "의료비 대비 여행자 보험 가입",
+            "주황색 도로변 비상전화 이용"
+          ]
+        }
+      },
+      "ja": {
+        "summary": [
+          {
+            "title": "90日間ビザなし滞在",
+            "sub": "ビザ免除対象国の国民は180日間のうち最大90日間滞在可能",
+            "key": "entry"
+          },
+          {
+            "title": "現金もまだ役立つ",
+            "sub": "小さな店では現金を携帯、都市部ではカードが広く使える",
+            "key": "money"
+          },
+          {
+            "title": "5月、6月または9月",
+            "sub": "天候、混雑、費用のバランスが最も良い時期",
+            "key": "season"
+          },
+          {
+            "title": "ドイツチケット",
+            "sub": "月額63ユーロですべての地域・近郊交通機関が利用可能",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "ビザなし短期滞在",
+              "code": "",
+              "who": "米国、カナダ、オーストラリア、日本などビザ免除国",
+              "cost": "無料",
+              "stay": "180日間のうち90日間",
+              "note": "短期滞在にはビザ不要"
+            },
+            {
+              "name": "シェンゲンCビザ",
+              "code": "",
+              "who": "ビザ免除対象外の国の国民、例：インド、中国、南アフリカ",
+              "cost": "成人の大半は90ユーロ",
+              "stay": "180日間のうち90日間",
+              "note": "渡航前に取得する必要あり"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "EES生体情報記録",
+              "text": "2026年4月10日以降、EU出入国管理システム（EES）はパスポートにスタンプを押す代わりに写真と指紋を記録します。"
+            },
+            {
+              "title": "規則は変更される可能性あり",
+              "text": "EESおよびETIASの日程、手数料、免除規定は予告なく変更される場合があるため、渡航前に確認してください。"
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "ドイツチケット",
+              "text": "2026年1月1日より月額63ユーロの自動継続型月間サブスクリプションで、すべての地域・近郊交通機関をカバーしますが、ICE/IC/ECの長距離列車は対象外です。当月10日までに解約すればその月末で終了します。"
+            },
+            {
+              "title": "長距離移動",
+              "text": "速さを重視するならドイツ鉄道のICE/ICネットワークを、安く時間がかかっても良いならFlixBusを利用しましょう。"
+            },
+            {
+              "title": "運転時の注意",
+              "text": "レンタカーはシュヴァルツヴァルトやバイエルンアルプスなどの地方に適していますが、速度無制限区間があるアウトバーンや厳格な飲酒運転取締りに注意してください。"
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "現金はまだ必要",
+              "text": "小さな店、パン屋、市場、地方地域では現金を携帯しましょう。都市部ではカードが広く使えます。"
+            },
+            {
+              "title": "カードの利用可否",
+              "text": "VisaとMastercardはほとんどのATMや大手小売店で使えますが、American Expressは利用可能な場所が限られます。"
+            },
+            {
+              "title": "カードの紛失・盗難",
+              "text": "紛失または盗難にあったカードを止めるには、欧州共通の緊急連絡先116 116に電話してください。"
+            },
+            {
+              "title": "都市による物価の違い",
+              "text": "ミュンヘン、フランクフルト、ベルリンは小さな町に比べて物価が高くなります。"
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "秋",
+              "sub": "穏やかな気候、オクトーバーフェスト、紅葉",
+              "best": [
+                9
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": [
+            5,
+            6,
+            9
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "112",
+              "label": "救急・消防",
+              "note": "無料でSIMカードがなくてもどの電話からでも利用可能。112と110のどちらか迷ったらこちらを使用"
+            },
+            {
+              "number": "110",
+              "label": "警察",
+              "note": "無料でSIMカードがなくてもどの電話からでも利用可能"
+            },
+            {
+              "number": "116117",
+              "label": "医療相談ホットライン",
+              "note": "診療時間外に緊急だが生命に関わらない医療支援が必要な場合"
+            }
+          ],
+          "chips": [
+            "人混みではスリに注意",
+            "オペレーターは英語に切り替え可能",
+            "医療費に備えて旅行保険に加入",
+            "オレンジ色の緊急電話を利用"
+          ]
+        }
+      },
+      "es": {
+        "summary": [
+          {
+            "title": "90 días sin visado",
+            "sub": "Los ciudadanos exentos de visado pueden permanecer hasta 90 días en un período de 180 días",
+            "key": "entry"
+          },
+          {
+            "title": "El efectivo sigue siendo útil",
+            "sub": "Lleve efectivo para comercios pequeños; las tarjetas son ampliamente aceptadas en las ciudades",
+            "key": "money"
+          },
+          {
+            "title": "Mayo, junio o septiembre",
+            "sub": "El mejor equilibrio entre clima, afluencia y costo",
+            "key": "season"
+          },
+          {
+            "title": "Deutschlandticket",
+            "sub": "63 €/mes cubre todo el transporte local y regional",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "Estancia corta sin visado",
+              "code": "",
+              "who": "EE. UU., Canadá, Australia, Japón y otros países con liberalización de visado",
+              "cost": "Gratis",
+              "stay": "90 días en 180 días",
+              "note": "No se necesita visado para estancias cortas"
+            },
+            {
+              "name": "Visado Schengen tipo C",
+              "code": "",
+              "who": "Ciudadanos de países sin liberalización de visado, p. ej. India, China, Sudáfrica",
+              "cost": "90 € para la mayoría de los adultos",
+              "stay": "90 días en 180 días",
+              "note": "Debe obtenerse antes de llegar"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "Registro biométrico EES",
+              "text": "Desde el 10 de abril de 2026, el Sistema de Entradas y Salidas de la UE (EES) registra una foto y huellas dactilares en lugar de sellar los pasaportes."
+            },
+            {
+              "title": "Las normas pueden cambiar",
+              "text": "Las fechas, tarifas y exenciones del EES y ETIAS pueden cambiar con poco aviso, así que confirme antes de viajar."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "Deutschlandticket",
+              "text": "Suscripción mensual renovable, 63 € al mes desde el 1 de enero de 2026, cubre todo el transporte local/regional pero no los trenes de larga distancia ICE/IC/EC; cancele antes del día 10 del mes para que finalice a fin de ese mes."
+            },
+            {
+              "title": "Viajes de larga distancia",
+              "text": "Use la red ICE/IC de Deutsche Bahn para rapidez o los autobuses FlixBus para trayectos más económicos y lentos."
+            },
+            {
+              "title": "Precaución al conducir",
+              "text": "Alquilar un coche es útil para regiones rurales como la Selva Negra o los Alpes bávaros, pero tenga en cuenta los tramos de la Autobahn sin límite de velocidad y las estrictas leyes contra la conducción bajo los efectos del alcohol."
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "El efectivo sigue siendo necesario",
+              "text": "Lleve efectivo para tiendas pequeñas, panaderías, mercados y zonas rurales, aunque las tarjetas son ampliamente aceptadas en las ciudades."
+            },
+            {
+              "title": "Aceptación de tarjetas",
+              "text": "Visa y Mastercard funcionan en la mayoría de los cajeros automáticos y grandes comercios; American Express se acepta con menos frecuencia."
+            },
+            {
+              "title": "Tarjetas perdidas o robadas",
+              "text": "Llame al 116 116, la línea europea universal de bloqueo, para bloquear una tarjeta perdida o robada."
+            },
+            {
+              "title": "Diferencias de costo según la ciudad",
+              "text": "Espere costos más altos en Múnich, Fráncfort y Berlín en comparación con ciudades más pequeñas."
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "Otoño",
+              "sub": "Clima templado, Oktoberfest y colores otoñales",
+              "best": [
+                9
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": [
+            5,
+            6,
+            9
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "112",
+              "label": "Ambulancia y bomberos",
+              "note": "Gratis, funciona desde cualquier teléfono incluso sin tarjeta SIM; úselo si no está seguro entre el 112 y el 110"
+            },
+            {
+              "number": "110",
+              "label": "Policía",
+              "note": "Gratis, funciona desde cualquier teléfono incluso sin tarjeta SIM"
+            },
+            {
+              "number": "116117",
+              "label": "Servicio médico de guardia",
+              "note": "Para ayuda médica urgente pero no potencialmente mortal fuera del horario del médico de cabecera"
+            }
+          ],
+          "chips": [
+            "Cuidado con los carteristas entre la multitud",
+            "Los operadores pueden cambiar a inglés",
+            "Contrate un seguro de viaje para atención médica",
+            "Use los teléfonos de emergencia naranjas en carretera"
+          ]
+        }
+      },
+      "zh": {
+        "summary": [
+          {
+            "title": "90天免签",
+            "sub": "免签国家公民在180天内最多可停留90天",
+            "key": "entry"
+          },
+          {
+            "title": "现金依然实用",
+            "sub": "小商店需准备现金；城市中刷卡已被广泛接受",
+            "key": "money"
+          },
+          {
+            "title": "5月、6月或9月",
+            "sub": "天气、人流和费用的最佳平衡点",
+            "key": "season"
+          },
+          {
+            "title": "德国票（Deutschlandticket）",
+            "sub": "每月63欧元即可覆盖所有本地及地区交通",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "免签短期停留",
+              "code": "",
+              "who": "美国、加拿大、澳大利亚、日本及其他免签国家",
+              "cost": "免费",
+              "stay": "180天内90天",
+              "note": "短期停留无需签证"
+            },
+            {
+              "name": "申根C类签证",
+              "code": "",
+              "who": "无免签待遇国家公民，例如印度、中国、南非",
+              "cost": "大多数成人为90欧元",
+              "stay": "180天内90天",
+              "note": "必须在抵达前办理"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "EES生物识别记录",
+              "text": "自2026年4月10日起，欧盟出入境系统（EES）将记录照片和指纹，而不再在护照上盖章。"
+            },
+            {
+              "title": "规则可能变化",
+              "text": "EES和ETIAS的日期、费用和豁免规定可能会在短时间内变更，出发前请务必确认。"
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "德国票（Deutschlandticket）",
+              "text": "自2026年1月1日起为每月63欧元的滚动月度订阅，涵盖所有本地/地区交通，但不包括ICE/IC/EC长途列车；需在当月10日前取消，才能在该月月底生效终止。"
+            },
+            {
+              "title": "长途出行",
+              "text": "追求速度可使用德国铁路（Deutsche Bahn）的ICE/IC网络，若想更便宜但较慢可乘坐FlixBus长途巴士。"
+            },
+            {
+              "title": "驾车注意事项",
+              "text": "租车适合黑森林或巴伐利亚阿尔卑斯等乡村地区，但需注意部分路段无限速的高速公路（Autobahn）及严格的酒驾法规。"
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "现金仍然需要",
+              "text": "小商店、面包店、市场和乡村地区需准备现金，不过城市中刷卡已被广泛接受。"
+            },
+            {
+              "title": "刷卡接受情况",
+              "text": "Visa和万事达卡（Mastercard）可在大多数ATM机和大型商户使用；美国运通（American Express）的接受度较低。"
+            },
+            {
+              "title": "卡片遗失或被盗",
+              "text": "拨打欧洲通用挂失热线116 116，可挂失遗失或被盗的卡片。"
+            },
+            {
+              "title": "城市间物价差异",
+              "text": "慕尼黑、法兰克福和柏林的消费预计高于小城镇。"
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "秋季",
+              "sub": "气候温和，适逢慕尼黑啤酒节，秋色宜人",
+              "best": [
+                9
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": [
+            5,
+            6,
+            9
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "112",
+              "label": "救护车与消防",
+              "note": "免费，即使没有SIM卡也可在任何电话上使用；如不确定拨打112还是110，请使用此号码"
+            },
+            {
+              "number": "110",
+              "label": "警察",
+              "note": "免费，即使没有SIM卡也可在任何电话上使用"
+            },
+            {
+              "number": "116117",
+              "label": "非急诊医疗热线",
+              "note": "用于家庭医生诊所营业时间之外的紧急但非危及生命的医疗需求"
+            }
+          ],
+          "chips": [
+            "在人群中注意扒手",
+            "接线员可切换为英语服务",
+            "购买旅行保险以应对医疗费用",
+            "使用橙色路边紧急电话"
+          ]
+        }
+      }
+    },
     "Hong Kong": {
       "srcHash": "69bff2256a66",
       "en": {

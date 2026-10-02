@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30",
+  "updated": "2026-10-02",
   "countries": {
     "South Korea": {
       "climate": [
@@ -2031,80 +2031,80 @@
       "climate": [
         {
           "m": 1,
-          "hi": 21,
-          "lo": 12,
-          "rain": 48
+          "hi": 32,
+          "lo": 21,
+          "rain": 11
         },
         {
           "m": 2,
-          "hi": 23,
-          "lo": 13,
-          "rain": 44
+          "hi": 36,
+          "lo": 22,
+          "rain": 3
         },
         {
           "m": 3,
-          "hi": 28,
-          "lo": 17,
-          "rain": 55
+          "hi": 38,
+          "lo": 24,
+          "rain": 16
         },
         {
           "m": 4,
-          "hi": 30,
-          "lo": 21,
-          "rain": 96
-        },
-        {
-          "m": 5,
-          "hi": 32,
-          "lo": 24,
-          "rain": 179
-        },
-        {
-          "m": 6,
-          "hi": 33,
+          "hi": 38,
           "lo": 26,
-          "rain": 243
-        },
-        {
-          "m": 7,
-          "hi": 32,
-          "lo": 26,
-          "rain": 307
-        },
-        {
-          "m": 8,
-          "hi": 32,
-          "lo": 25,
-          "rain": 376
-        },
-        {
-          "m": 9,
-          "hi": 31,
-          "lo": 24,
-          "rain": 286
-        },
-        {
-          "m": 10,
-          "hi": 28,
-          "lo": 20,
-          "rain": 189
-        },
-        {
-          "m": 11,
-          "hi": 25,
-          "lo": 17,
           "rain": 37
         },
         {
+          "m": 5,
+          "hi": 35,
+          "lo": 26,
+          "rain": 174
+        },
+        {
+          "m": 6,
+          "hi": 31,
+          "lo": 25,
+          "rain": 263
+        },
+        {
+          "m": 7,
+          "hi": 30,
+          "lo": 24,
+          "rain": 249
+        },
+        {
+          "m": 8,
+          "hi": 30,
+          "lo": 24,
+          "rain": 201
+        },
+        {
+          "m": 9,
+          "hi": 30,
+          "lo": 24,
+          "rain": 208
+        },
+        {
+          "m": 10,
+          "hi": 30,
+          "lo": 24,
+          "rain": 253
+        },
+        {
+          "m": 11,
+          "hi": 30,
+          "lo": 23,
+          "rain": 108
+        },
+        {
           "m": 12,
-          "hi": 21,
-          "lo": 12,
-          "rain": 18
+          "hi": 30,
+          "lo": 22,
+          "rain": 47
         }
       ],
-      "climateCity": "Hanoi",
-      "climateLat": 21.036113,
-      "climateLng": 105.84857699999999,
+      "climateCity": "Ho Chi Minh City",
+      "climateLat": 10.7773167,
+      "climateLng": 106.6977562,
       "climateYears": 10,
       "holidays": [
         {
@@ -5015,80 +5015,80 @@
       "climate": [
         {
           "m": 1,
-          "hi": 28,
-          "lo": 14,
-          "rain": 81
+          "hi": 22,
+          "lo": 13,
+          "rain": 49
         },
         {
           "m": 2,
-          "hi": 27,
-          "lo": 13,
-          "rain": 66
+          "hi": 21,
+          "lo": 12,
+          "rain": 43
         },
         {
           "m": 3,
-          "hi": 24,
+          "hi": 20,
           "lo": 12,
-          "rain": 94
+          "rain": 55
         },
         {
           "m": 4,
-          "hi": 20,
-          "lo": 8,
-          "rain": 40
+          "hi": 17,
+          "lo": 10,
+          "rain": 43
         },
         {
           "m": 5,
-          "hi": 15,
-          "lo": 5,
-          "rain": 36
+          "hi": 14,
+          "lo": 8,
+          "rain": 51
         },
         {
           "m": 6,
-          "hi": 11,
-          "lo": 2,
-          "rain": 38
+          "hi": 12,
+          "lo": 7,
+          "rain": 56
         },
         {
           "m": 7,
-          "hi": 11,
-          "lo": 2,
-          "rain": 33
+          "hi": 12,
+          "lo": 6,
+          "rain": 48
         },
         {
           "m": 8,
-          "hi": 13,
-          "lo": 2,
-          "rain": 35
+          "hi": 12,
+          "lo": 6,
+          "rain": 56
         },
         {
           "m": 9,
-          "hi": 16,
-          "lo": 4,
-          "rain": 36
+          "hi": 14,
+          "lo": 6,
+          "rain": 53
         },
         {
           "m": 10,
-          "hi": 20,
-          "lo": 7,
-          "rain": 68
+          "hi": 15,
+          "lo": 8,
+          "rain": 89
         },
         {
           "m": 11,
-          "hi": 23,
+          "hi": 17,
           "lo": 9,
-          "rain": 84
+          "rain": 73
         },
         {
           "m": 12,
-          "hi": 26,
-          "lo": 12,
-          "rain": 70
+          "hi": 19,
+          "lo": 11,
+          "rain": 73
         }
       ],
-      "climateCity": "Canberra",
-      "climateLat": -35.2811355,
-      "climateLng": 149.1484327,
+      "climateCity": "Hobart",
+      "climateLat": -42.8726495,
+      "climateLng": 147.314666,
       "climateYears": 10,
       "holidays": [
         {
@@ -5167,80 +5167,80 @@
       "climate": [
         {
           "m": 1,
-          "hi": 7,
+          "hi": 8,
           "lo": 3,
-          "rain": 96
+          "rain": 81
         },
         {
           "m": 2,
-          "hi": 8,
-          "lo": 3,
-          "rain": 85
+          "hi": 9,
+          "lo": 4,
+          "rain": 64
         },
         {
           "m": 3,
-          "hi": 9,
+          "hi": 10,
           "lo": 4,
-          "rain": 80
+          "rain": 63
         },
         {
           "m": 4,
-          "hi": 12,
+          "hi": 13,
           "lo": 5,
-          "rain": 50
+          "rain": 40
         },
         {
           "m": 5,
-          "hi": 15,
-          "lo": 8,
-          "rain": 55
+          "hi": 17,
+          "lo": 9,
+          "rain": 45
         },
         {
           "m": 6,
-          "hi": 18,
-          "lo": 11,
-          "rain": 75
+          "hi": 20,
+          "lo": 12,
+          "rain": 58
         },
         {
           "m": 7,
-          "hi": 19,
-          "lo": 13,
-          "rain": 84
+          "hi": 22,
+          "lo": 14,
+          "rain": 51
         },
         {
           "m": 8,
-          "hi": 19,
-          "lo": 13,
-          "rain": 77
+          "hi": 22,
+          "lo": 14,
+          "rain": 52
         },
         {
           "m": 9,
-          "hi": 17,
+          "hi": 20,
           "lo": 12,
-          "rain": 100
+          "rain": 62
         },
         {
           "m": 10,
-          "hi": 14,
-          "lo": 9,
-          "rain": 107
+          "hi": 16,
+          "lo": 10,
+          "rain": 90
         },
         {
           "m": 11,
-          "hi": 10,
+          "hi": 11,
           "lo": 6,
-          "rain": 101
+          "rain": 91
         },
         {
           "m": 12,
-          "hi": 8,
+          "hi": 9,
           "lo": 5,
-          "rain": 113
+          "rain": 90
         }
       ],
-      "climateCity": "Liverpool",
-      "climateLat": 53.397463699999996,
-      "climateLng": -2.9733025,
+      "climateCity": "Brighton",
+      "climateLat": 50.821373099999995,
+      "climateLng": -0.1509064,
       "climateYears": 10,
       "holidays": [
         {
@@ -5317,6 +5317,178 @@
           "date": "2027-12-28",
           "name": "Boxing Day (observed)",
           "localName": "Boxing Day (observed)"
+        }
+      ]
+    },
+    "Germany": {
+      "climate": [
+        {
+          "m": 1,
+          "hi": 3,
+          "lo": -2,
+          "rain": 55
+        },
+        {
+          "m": 2,
+          "hi": 6,
+          "lo": -1,
+          "rain": 48
+        },
+        {
+          "m": 3,
+          "hi": 10,
+          "lo": 1,
+          "rain": 40
+        },
+        {
+          "m": 4,
+          "hi": 14,
+          "lo": 4,
+          "rain": 30
+        },
+        {
+          "m": 5,
+          "hi": 19,
+          "lo": 8,
+          "rain": 36
+        },
+        {
+          "m": 6,
+          "hi": 26,
+          "lo": 14,
+          "rain": 64
+        },
+        {
+          "m": 7,
+          "hi": 26,
+          "lo": 15,
+          "rain": 77
+        },
+        {
+          "m": 8,
+          "hi": 26,
+          "lo": 15,
+          "rain": 51
+        },
+        {
+          "m": 9,
+          "hi": 22,
+          "lo": 11,
+          "rain": 38
+        },
+        {
+          "m": 10,
+          "hi": 16,
+          "lo": 7,
+          "rain": 56
+        },
+        {
+          "m": 11,
+          "hi": 8,
+          "lo": 2,
+          "rain": 47
+        },
+        {
+          "m": 12,
+          "hi": 4,
+          "lo": 0,
+          "rain": 49
+        }
+      ],
+      "climateCity": "Berlin",
+      "climateLat": 52.5124086,
+      "climateLng": 13.396790399999999,
+      "climateYears": 10,
+      "holidays": [
+        {
+          "date": "2026-01-01",
+          "name": "New Year's Day",
+          "localName": "Neujahr"
+        },
+        {
+          "date": "2026-04-03",
+          "name": "Good Friday",
+          "localName": "Karfreitag"
+        },
+        {
+          "date": "2026-04-06",
+          "name": "Easter Monday",
+          "localName": "Ostermontag"
+        },
+        {
+          "date": "2026-05-01",
+          "name": "Labor Day",
+          "localName": "Erster Mai"
+        },
+        {
+          "date": "2026-05-14",
+          "name": "Ascension Day",
+          "localName": "Christi Himmelfahrt"
+        },
+        {
+          "date": "2026-05-25",
+          "name": "Pentecost Monday",
+          "localName": "Pfingstmontag"
+        },
+        {
+          "date": "2026-10-03",
+          "name": "German Unity Day",
+          "localName": "Tag der Deutschen Einheit"
+        },
+        {
+          "date": "2026-12-25",
+          "name": "Christmas Day",
+          "localName": "Erster Weihnachtstag"
+        },
+        {
+          "date": "2026-12-26",
+          "name": "Second Day of Christmas",
+          "localName": "Zweiter Weihnachtstag"
+        },
+        {
+          "date": "2027-01-01",
+          "name": "New Year's Day",
+          "localName": "Neujahr"
+        },
+        {
+          "date": "2027-03-26",
+          "name": "Good Friday",
+          "localName": "Karfreitag"
+        },
+        {
+          "date": "2027-03-29",
+          "name": "Easter Monday",
+          "localName": "Ostermontag"
+        },
+        {
+          "date": "2027-05-01",
+          "name": "Labor Day",
+          "localName": "Erster Mai"
+        },
+        {
+          "date": "2027-05-06",
+          "name": "Ascension Day",
+          "localName": "Christi Himmelfahrt"
+        },
+        {
+          "date": "2027-05-17",
+          "name": "Pentecost Monday",
+          "localName": "Pfingstmontag"
+        },
+        {
+          "date": "2027-10-03",
+          "name": "German Unity Day",
+          "localName": "Tag der Deutschen Einheit"
+        },
+        {
+          "date": "2027-12-25",
+          "name": "Christmas Day",
+          "localName": "Erster Weihnachtstag"
+        },
+        {
+          "date": "2027-12-26",
+          "name": "Second Day of Christmas",
+          "localName": "Zweiter Weihnachtstag"
         }
       ]
     }

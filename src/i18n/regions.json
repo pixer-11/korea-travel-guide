@@ -9872,5 +9872,358 @@
       "getting": "最近的机场是阿布扎比国际机场(AUH),距离仅约10公里。乘出租车是最便捷的方式,车程约15分钟;公共巴士虽然也能到达,但耗时较长,且可能需要换乘。从迪拜出发前往亚斯岛同样轻松,视路况而定,车程大约1到2小时,非常适合安排一日游。",
       "days": "大多数游客通常会安排2到3天的行程,这样既能从容游览主要的主题乐园和赛道,也能留出时间在码头或海滩悠闲放松,不必太赶。"
     }
+  },
+  "Berlin": {
+    "en": {
+      "blurb": "Berlin is a city built on rupture and reinvention: a divided Cold War capital whose Wall is now a scattered gallery of graffiti and memorial, and a reunified metropolis where imperial boulevards, Brutalist housing blocks and glass-and-steel government quarters sit side by side. It runs on a restless creative energy, from its techno clubs and artist squats to its world-class museums and relentless, unpretentious street life.",
+      "getting": "Most international arrivals land at Berlin Brandenburg Airport (BER), which has its own station beneath the terminal with direct S-Bahn and regional rail links into the city; the Airport Express (FEX) and S-Bahn lines run into central stations like Berlin Hauptbahnhof in well under half an hour. Travellers arriving overland typically connect through Berlin Hauptbahnhof, the city's main long-distance rail hub.",
+      "days": "Allow ~3-4 days to cover the historic core, the major museums and at least one deep dive into the city's Cold War history, with extra time if you want to explore its neighbourhoods and nightlife at a slower pace."
+    },
+    "ko": {
+      "blurb": "베를린은 단절과 재창조 위에 세워진 도시다. 냉전 시대에는 분단의 수도였고, 그 상징이었던 장벽은 이제 그래피티와 추모의 흔적이 곳곳에 흩어진 열린 갤러리가 되었다. 통일 이후의 베를린은 제국 시대의 대로, 브루탈리즘 양식의 주거 단지, 유리와 철골로 지어진 정부 청사 구역이 서로 어우러져 공존하는 메트로폴리스다. 테크노 클럽과 예술가들의 스쾃(무단 점유 공간)에서부터 세계적 수준의 박물관과 거침없고 소탈한 거리 문화까지, 이 도시는 끊임없는 창조적 에너지로 움직인다.",
+      "getting": "대부분의 국제선은 베를린 브란덴부르크 공항(BER)에 도착한다. 이 공항은 터미널 바로 아래에 자체 역을 갖추고 있어 S반(S-Bahn)과 지역 철도로 시내까지 바로 연결된다. 공항 특급(FEX)과 S반 노선을 이용하면 베를린 중앙역(Berlin Hauptbahnhof) 같은 시내 주요 역까지 30분도 채 걸리지 않는다. 육로로 도착하는 여행객은 보통 베를린의 주요 장거리 철도 거점인 베를린 중앙역을 거쳐 연결된다.",
+      "days": "역사적인 구시가지와 주요 박물관을 둘러보고, 냉전 시대의 역사를 깊이 들여다보는 시간까지 포함하려면 약 3~4일이 적당하다. 동네 구석구석과 밤 문화를 여유롭게 즐기고 싶다면 그보다 며칠 더 여유를 두는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "ベルリンは、断絶と再生の上に築かれた街だ。冷戦時代には東西に分断された首都であり、かつての壁は今やグラフィティと追悼の跡が点在するギャラリーと化している。再統一後の現在は、帝政期の大通り、ブルータリズム建築の集合住宅、ガラスと鉄骨でできた官庁街が隣り合って共存する大都市へと姿を変えた。テクノクラブやアーティストの不法占拠スペースから世界屈指の美術館、気取りのないストリートライフまで、尽きることのない創造的エネルギーが街を動かしている。",
+      "getting": "国際便の多くはベルリン・ブランデンブルク空港(BER)に到着する。ターミナルの真下に専用の駅があり、Sバーン(都市近郊鉄道)や近郊列車が市内へ直結している。空港急行(FEX)やSバーンを使えば、ベルリン中央駅などの市内主要駅まで30分弱で到着する。陸路で入る旅行者は、通常、都市間長距離鉄道の主要ターミナルであるベルリン中央駅を経由することになる。",
+      "days": "歴史地区の中心部や主要な美術館・博物館を巡り、冷戦時代の歴史をじっくり掘り下げるには、3〜4日ほど見ておきたい。各地区の雰囲気やナイトライフをゆったり楽しみたい場合は、さらに日数を加えるとよいだろう。"
+    },
+    "es": {
+      "blurb": "Berlín es una ciudad forjada a base de rupturas y reinvenciones: una capital dividida durante la Guerra Fría, cuyo Muro es hoy una galería dispersa de grafitis y memoriales, y una metrópolis reunificada donde los bulevares imperiales, los bloques de viviendas brutalistas y los barrios gubernamentales de cristal y acero conviven codo a codo. Vive con una energía creativa incansable, que va desde sus clubes de techno y okupas de artistas hasta sus museos de talla mundial y su vida callejera incesante y sin pretensiones.",
+      "getting": "La mayoría de los vuelos internacionales llegan al aeropuerto de Berlín-Brandeburgo (BER), que cuenta con su propia estación bajo la terminal con conexiones directas de S-Bahn y trenes regionales hacia la ciudad; el Airport Express (FEX) y las líneas de S-Bahn llegan a estaciones céntricas como la Berlin Hauptbahnhof en bastante menos de media hora. Quienes llegan por tierra suelen hacerlo a través de la Berlin Hauptbahnhof, la principal terminal ferroviaria de larga distancia de la ciudad.",
+      "days": "Conviene reservar entre 3 y 4 días para recorrer el casco histórico, visitar los principales museos y sumergirse al menos una vez en la historia de la Guerra Fría de la ciudad; añade más tiempo si quieres explorar sus barrios y su vida nocturna con más calma."
+    },
+    "zh": {
+      "blurb": "柏林是一座在断裂与重生中成长起来的城市：它曾是冷战时期分裂的首都，如今那道柏林墙已化作一座散落四处的涂鸼与纪念画廊；统一后的柏林，帝国时代的大道、粗野主义的住宅楼与玻璃钢结构的政府建筑区彼此相邻、并存共生。这座城市始终跳动着一种不安分的创造力，从地下电子乐俱乐部与艺术家占屋，到世界级的博物馆与不加修饰、生生不息的街头生活，无不彰显其独特魅力。",
+      "getting": "大多数国际航班抵达柏林勃兰登堡机场（BER），该机场在候机楼下方设有自己的火车站，可通过城铁（S-Bahn）和区域铁路直达市区；机场快线（FEX）和S-Bahn列车前往柏林中央车站等市中心站点，用时不到半小时。陆路抵达的旅客通常会经由柏林中央车站（Berlin Hauptbahnhof）转乘，这里是柏林的主要长途铁路枢纽。",
+      "days": "建议安排约3-4天时间，游览历史城区、主要博物馆，并至少深入探访一次这座城市的冷战历史；如果想以更悠闲的节奏探索各个街区和夜生活，则需预留更多时间。"
+    }
+  },
+  "Bremen": {
+    "en": {
+      "blurb": "Bremen pairs a UNESCO-listed market square, ringed by step-gabled merchant houses and the famous Town Musicians statue, with a working river port that still shapes the city's maritime character. It sits on the Weser River in northern Germany, close enough to Hamburg for an easy day trip yet distinct enough in architecture and history to reward a stay of its own.",
+      "getting": "Most visitors fly into Bremen Airport (BRE), a compact city airport just south of the centre, then take Tram Line 6 directly to Bremen Hauptbahnhof in about 15 to 20 minutes. Bremen Hauptbahnhof itself is a major ICE and IC stop on the Hamburg-Hanover corridor, so many travellers simply arrive by direct train from either city.",
+      "days": "Two to three days is enough to cover the old town, the riverside Schlachte promenade and a half-day excursion further afield, such as to Bremerhaven."
+    },
+    "ko": {
+      "blurb": "브레멘은 유네스코 세계문화유산으로 등재된 마르크트 광장을 자랑합니다. 이 광장은 계단식 박공지붕을 가진 상인들의 저택과 유명한 '브레멘 음악대' 동상으로 둘러싸여 있으며, 여기에 지금도 도시의 해양적 성격을 빚어내는 현역 하항(河港)이 더해져 독특한 매력을 완성합니다. 베저강(Weser River) 변에 자리한 이 도시는 함부르크에서 당일치기로 다녀올 수 있을 만큼 가깝지만, 건축과 역사 면에서는 뚜렷이 구별되는 개성을 지니고 있어 그 자체로도 머물 만한 가치가 충분합니다.",
+      "getting": "대부분의 여행객은 시내 남쪽에 자리한 아담한 규모의 브레멘 공항(BRE)으로 입국한 뒤, 6번 트램을 타고 약 15~20분 만에 브레멘 중앙역(Bremen Hauptbahnhof)에 도착합니다. 브레멘 중앙역은 함부르크-하노버 구간을 잇는 ICE 및 IC 열차의 주요 정차역이기도 해서, 많은 여행객들이 두 도시 중 한 곳에서 직행 열차를 타고 곧바로 브레멘에 도착하기도 합니다.",
+      "days": "구시가지와 강변의 슐라흐테(Schlachte) 산책로를 둘러보고, 브레머하펜(Bremerhaven) 같은 근교 지역으로 반나절 나들이까지 다녀오려면 2~3일이면 충분합니다."
+    },
+    "ja": {
+      "blurb": "ブレーメンの魅力は、階段状の切妻屋根が並ぶ商人の館と、かの有名な「ブレーメンの音楽隊」像に囲まれた世界遺産の市場広場と、今なお街の港町らしさを色濃く残す現役の河川港が共存している点にあります。ドイツ北部、ヴェーザー川沿いに位置し、ハンブルクから日帰りで気軽に訪れられる距離にありながら、建築様式も歴史的背景もまったく異なるため、じっくり滞在する価値のある街です。",
+      "getting": "多くの旅行者はまず、中心部からほど近いこぢんまりとしたブレーメン空港(BRE)に到着し、そこから6番系統の路面電車に乗ってブレーメン中央駅まで約15〜20分で向かいます。ブレーメン中央駅自体、ハンブルクとハノーファーを結ぶ路線上にある主要なICE・IC停車駅のため、両都市から直接列車でアクセスする旅行者も少なくありません。",
+      "days": "旧市街、川沿いのシュラハテ遊歩道の散策に加え、ブレーマーハーフェンなど少し足を延ばした半日の小旅行まで含めても、2〜3日あれば十分に満喫できます。"
+    },
+    "es": {
+      "blurb": "Bremen combina una plaza del mercado declarada Patrimonio de la Humanidad por la UNESCO, rodeada de casas de comerciantes con fachadas escalonadas y la famosa estatua de los Músicos de Bremen, con un puerto fluvial en pleno funcionamiento que sigue marcando el carácter marítimo de la ciudad. Se encuentra a orillas del río Weser, en el norte de Alemania, lo bastante cerca de Hamburgo como para visitarla en una excursión de un día, pero con suficiente personalidad arquitectónica e histórica como para merecer una estancia propia.",
+      "getting": "La mayoría de los visitantes llega al aeropuerto de Bremen (BRE), un pequeño aeropuerto urbano situado justo al sur del centro, y desde allí toma la línea de tranvía 6, que llega directamente a la estación central de Bremen (Bremen Hauptbahnhof) en unos 15 a 20 minutos. La propia Bremen Hauptbahnhof es una parada importante de los trenes ICE e IC en el corredor Hamburgo-Hannover, por lo que muchos viajeros llegan simplemente en tren directo desde cualquiera de esas dos ciudades.",
+      "days": "Con dos o tres días es suficiente para recorrer el casco antiguo, el paseo ribereño de Schlachte y hacer una excursión de medio día a los alrededores, como a Bremerhaven."
+    },
+    "zh": {
+      "blurb": "不来梅既有被列入联合国教科文组织名录的市集广场——四周环绕着阶梯式山墙的商人老宅和著名的\"不来梅的城市音乐家\"雕像,又拥有一个至今仍在运作的河港,塑造着这座城市的海洋气质。它坐落在德国北部的威悉河畔,距离汉堡不远，很适合当日往返，但其独特的建筑风貌与历史底蕴，也完全值得专程前来、小住几日。",
+      "getting": "大多数游客会先飞抵不来梅机场（BRE），这是一座位于市中心以南的小型城市机场，随后乘坐6路有轨电车直达不来梅中央车站，车程约15到20分钟。不来梅中央车站本身是汉堡—汉诺威线上的ICE和IC高铁重要停靠站，因此也有不少旅客选择直接从汉堡或汉诺威乘火车前往。",
+      "days": "两到三天足以游览老城区、滨河的什拉赫特滨水大道（Schlachte），还能安排半天时间前往周边地区短途游，比如布莱梅港（Bremerhaven）。"
+    }
+  },
+  "Cologne": {
+    "en": {
+      "blurb": "Cologne rises on the Rhine beneath the twin spires of its Gothic cathedral, a UNESCO World Heritage site that has anchored the city's skyline for centuries. Rebuilt almost entirely after World War II, it now blends a reconstructed old town, Roman ruins, and a famously liberal, beer hall driven culture around the local Kölsch brew.",
+      "getting": "Most travellers fly into Cologne Bonn Airport (CGN), which sits on its own rail loop with S-Bahn line S13 running into Köln Hauptbahnhof in about 14 minutes. Köln Hauptbahnhof itself is also a major stop on the Cologne-Frankfurt high-speed line, with direct ICE, Thalys and Eurostar services linking the city to Frankfurt, Brussels, Amsterdam and Paris.",
+      "days": "~2-3 days is enough to cover the cathedral, the old town along the Rhine and a museum or two, though many visitors add a half-day trip to nearby Bonn."
+    },
+    "ja": {
+      "blurb": "ケルンはライン川のほとりに広がる街で、街のシンボルとして何世紀にもわたりスカイラインを形作ってきたゴシック様式の大聖堂、ケルン大聖堂がそびえ立っています。こちらはユネスコの世界遺産にも登録されています。第二次世界大戦でほぼ全壊したものの、その後再建され、現在では復元された旧市街やローマ時代の遺跡、そして地元のビール「ケルシュ」を囲んで繰り広げられる、開放的でビアホール文化が色濃いことで知られる街となっています。",
+      "getting": "多くの旅行者はケルン・ボン空港(CGN)を利用します。この空港は独自の鉄道ループ線を持ち、Sバーン S13系統でケルン中央駅(Köln Hauptbahnhof)まで約14分で結ばれています。ケルン中央駅自体も、ケルン・フランクフルト高速鉄道線上の主要駅であり、ICE、タリス(Thalys)、ユーロスター(Eurostar)の直通列車がフランクフルト、ブリュッセル、アムステルダム、パリと直接結んでいます。",
+      "days": "大聖堂、ライン川沿いの旧市街、そして美術館・博物館を1つか2つ巡るなら、2〜3日ほどあれば十分です。ただ、多くの旅行者は近郊のボンへの半日観光も付け加えています。"
+    },
+    "es": {
+      "blurb": "Colonia se alza a orillas del Rin bajo las dos torres de su catedral gótica, declarada Patrimonio de la Humanidad por la UNESCO y referente indiscutible del perfil urbano de la ciudad desde hace siglos. Reconstruida casi por completo tras la Segunda Guerra Mundial, hoy combina un casco antiguo restaurado, ruinas romanas y una cultura célebre por su carácter liberal y su animada vida de cervecerías en torno a la cerveza local, la Kölsch.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto de Colonia-Bonn (CGN), que cuenta con su propia línea ferroviaria: el S-Bahn S13 conecta con la estación central de Colonia (Köln Hauptbahnhof) en unos 14 minutos. La propia Köln Hauptbahnhof es, además, una parada clave de la línea de alta velocidad Colonia-Fráncfort, con servicios directos de ICE, Thalys y Eurostar que enlazan la ciudad con Fráncfort, Bruselas, Ámsterdam y París.",
+      "days": "Con unos 2 o 3 días es suficiente para recorrer la catedral, el casco antiguo junto al Rin y visitar uno o dos museos, aunque muchos viajeros aprovechan para hacer una excursión de medio día a la cercana Bonn."
+    },
+    "zh": {
+      "blurb": "科隆坐落于莱茵河畔,哥特式大教堂的双尖塔高耸入云,这座联合国教科文组织世界遗产数百年来一直是城市天际线的标志。二战后几乎全部重建的科隆,如今将重修的老城区、古罗马遗迹与围绕本地科尔施啤酒(Kölsch)展开的、以自由不羁著称的啤酒馆文化融为一体。",
+      "getting": "大多数游客会飞抵科隆/波恩机场(CGN),该机场设有自己的环形铁路站点,S13线城铁约14分钟即可到达科隆中央车站(Köln Hauptbahnhof)。科隆中央车站本身也是科隆-法兰克福高速铁路线上的重要枢纽,ICE、Thalys和欧洲之星(Eurostar)可直达法兰克福、布鲁塞尔、阿姆斯特丹和巴黎。",
+      "days": "大约2-3天便足以游览大教堂、沿莱茵河的老城区以及一两座博物馆,不过许多游客还会抽出半天时间顺道前往附近的波恩。"
+    }
+  },
+  "Dresden": {
+    "en": {
+      "blurb": "Dresden's baroque Altstadt, meticulously reconstructed after the devastating 1945 bombing, clusters along a bend in the Elbe beneath the domed silhouette of the Frauenkirche and the ornate galleries of the Zwinger palace. Long nicknamed the \"Florence of the Elbe\", the city pairs this dense concentration of restored Old Masters architecture and art collections with a lively university quarter and riverside meadows just a short walk away.",
+      "getting": "Most travellers arrive via Dresden Airport (DRS), whose underground S-Bahn station sits directly beneath the terminal and puts the S2 line in ~15-20 minutes of Dresden Hauptbahnhof, the city's main long-distance station with direct ICE and IC services from Berlin, Leipzig, Frankfurt and Prague. A secondary stop, Dresden-Neustadt, just north of the river, is served by many of the same long-distance trains, so check which station is closer to your accommodation before booking.",
+      "days": "~2 to 3 days is enough to cover the compact historic centre's main sights, with an extra day useful for side trips along the Elbe or into Saxon Switzerland."
+    },
+    "es": {
+      "blurb": "El barroco casco antiguo (Altstadt) de Dresde, reconstruido con esmero tras los devastadores bombardeos de 1945, se despliega en un recodo del Elba bajo la silueta de la cúpula de la Frauenkirche y las galerías ornamentadas del palacio Zwinger. Apodada desde hace tiempo la \"Florencia del Elba\", la ciudad combina esta densa concentración de arquitectura restaurada y colecciones de los grandes maestros con un animado barrio universitario y praderas junto al río a solo un corto paseo.",
+      "getting": "La mayoría de los viajeros llega a través del aeropuerto de Dresde (DRS), cuya estación de S-Bahn subterránea se encuentra justo debajo de la terminal y conecta mediante la línea S2 en unos 15-20 minutos con la Hauptbahnhof de Dresde, la principal estación de larga distancia de la ciudad, con servicios directos de ICE e IC desde Berlín, Leipzig, Fráncfort y Praga. Una estación secundaria, Dresden-Neustadt, situada justo al norte del río, recibe muchos de los mismos trenes de larga distancia, así que conviene comprobar cuál de las dos estaciones queda más cerca de tu alojamiento antes de reservar.",
+      "days": "De 2 a 3 días bastan para recorrer los principales atractivos del compacto centro histórico, y un día adicional resulta útil para excursiones a lo largo del Elba o hacia la Suiza Sajona."
+    },
+    "zh": {
+      "blurb": "德累斯顿的巴洛克风格老城区在1945年遭受毁灭性轰炸后被精心重建，沿易北河的一处河湾聚集而立，圣母教堂的穹顶轮廓与茨温格宫华丽的画廊相映成趣。这座城市素有\"易北河畔的佛罗伦萨\"之称，不仅汇聚了大量修复一新的古典大师建筑与艺术收藏，还紧邻充满活力的大学区与河畔草地，步行即可轻松抵达。",
+      "getting": "大多数游客经德累斯顿机场（DRS）抵达，机场航站楼正下方设有地下S-Bahn车站，乘坐S2线约15-20分钟即可到达德累斯顿中央火车站——这座城市的主要长途火车站，设有来自柏林、莱比锡、法兰克福和布拉格的ICE和IC直达列车。河流北岸不远处还有一个次级车站——德累斯顿新城站，许多同样的长途列车也会在此停靠，因此订票前请先确认哪个车站离您的住处更近。",
+      "days": "大约2到3天即可游览这座紧凑的历史城区的主要景点，若想沿易北河或前往萨克森小瑞士地区进行一日游，不妨多留一天时间。"
+    }
+  },
+  "Düsseldorf": {
+    "en": {
+      "blurb": "Düsseldorf blends sleek fashion and media business with a famously raucous Altstadt, where traditional Alt beer is poured along what locals call the \"longest bar in the world\". Set on the Rhine, the city is also known for its contemporary art scene and one of Europe's largest Japanese communities.",
+      "getting": "Most travellers arrive via Düsseldorf Airport (DUS), whose Düsseldorf Airport station sits on the Cologne-Duisburg railway line and is served by the S1 S-Bahn into the city centre; an automated SkyTrain shuttle links the terminals to this station. From the airport station it is a short, direct S-Bahn ride to Düsseldorf Hauptbahnhof, the main hub for onward trains and trams.",
+      "days": "~2-3 days is enough to cover the Altstadt, the Rhine promenade and the main art museums, with an extra day useful for side trips along the Rhine-Ruhr region."
+    },
+    "ko": {
+      "blurb": "뒤셀도르프는 세련된 패션과 미디어 산업의 중심지이면서도, 현지인들이 \"세계에서 가장 긴 바\"라 부르는 거리를 따라 전통 알트비어를 즐길 수 있는 왁자지껄한 구시가지(알트슈타트)로도 유명합니다. 라인강을 끼고 자리한 이 도시는 현대 미술의 중심지이자 유럽 최대 규모의 일본인 커뮤니티가 있는 곳이기도 합니다.",
+      "getting": "대부분의 여행객은 뒤셀도르프 공항(DUS)을 통해 도착합니다. 공항역은 쾰른-뒤스부르크 철도 노선에 위치해 있으며, S1 S반을 이용해 시내로 이동할 수 있습니다. 터미널과 공항역 사이는 무인 자동운행 스카이트레인으로 연결됩니다. 공항역에서 뒤셀도르프 중앙역(Hauptbahnhof)까지는 S반으로 짧고 직행으로 이동할 수 있으며, 이곳이 기차와 트램 환승의 중심지 역할을 합니다.",
+      "days": "구시가지와 라인강 산책로, 주요 미술관을 둘러보는 데는 2~3일이면 충분하며, 라인-루르 지역으로의 당일치기 여행을 더하고 싶다면 하루 정도 더 할애하면 좋습니다."
+    },
+    "ja": {
+      "blurb": "デュッセルドルフは、洗練されたファッション・メディア産業の街でありながら、地元で「世界最長のバー」と呼ばれる通りに伝統的なアルトビールが並ぶ、にぎやかなことで知られる旧市街（アルトシュタット）も抱える街です。ライン川沿いに位置するこの街は、現代アートシーンや、ヨーロッパ屈指の規模を誇る日本人コミュニティでも知られています。",
+      "getting": "多くの旅行者はデュッセルドルフ空港（DUS）を利用して到着します。空港内のデュッセルドルフ空港駅はケルン・デュースブルク線上にあり、S-バーンのS1系統で市内中心部へアクセスできます。各ターミナルとこの駅との間は、自動運転のスカイトレイン・シャトルで結ばれています。空港駅からはS-バーンで短時間・直通でデュッセルドルフ中央駅（Hauptbahnhof）に到着でき、同駅は長距離列車や路面電車への乗り継ぎの中心拠点となっています。",
+      "days": "旧市街、ライン川沿いの遊歩道、主要な美術館を巡るなら2〜3日あれば十分です。さらに1日あれば、ライン・ルール地方への小旅行にも足を延ばせます。"
+    },
+    "es": {
+      "blurb": "Düsseldorf combina la elegancia de la moda y el mundo de los medios con una Altstadt (casco antiguo) de fama por su ambiente desenfadado, donde se sirve la tradicional cerveza Alt a lo largo de lo que los lugareños llaman el \"bar más largo del mundo\". Situada a orillas del Rin, la ciudad también destaca por su vibrante escena de arte contemporáneo y por albergar una de las comunidades japonesas más grandes de Europa.",
+      "getting": "La mayoría de los viajeros llega a través del aeropuerto de Düsseldorf (DUS), cuya estación Düsseldorf Airport se encuentra en la línea ferroviaria Colonia-Duisburgo y cuenta con el servicio de la S-Bahn S1 hacia el centro de la ciudad; un SkyTrain automático conecta las terminales con dicha estación. Desde la estación del aeropuerto, un breve trayecto directo en S-Bahn lleva hasta la Düsseldorf Hauptbahnhof, el principal nodo de conexión para trenes y tranvías.",
+      "days": "Con unos 2-3 días es suficiente para recorrer la Altstadt, el paseo junto al Rin y los principales museos de arte, aunque un día adicional resulta útil para hacer excursiones por la región del Rin-Ruhr."
+    },
+    "zh": {
+      "blurb": "杜塞尔多夫是时尚与传媒产业的汇聚之地,同时也拥有远近闻名、热闹非凡的老城区(Altstadt)——当地人称之为\"世界最长的吧台\",传统的Alt啤酒就沿着这条街一路畅饮。这座城市坐落于莱茵河畔,还以当代艺术氛围浓厚、以及欧洲最大的日本人社区之一而闻名。",
+      "getting": "大多数旅客通过杜塞尔多夫机场(DUS)抵达。机场内的Düsseldorf Airport车站位于科隆-杜伊斯堡铁路线上,可乘坐S1城铁线直达市中心;航站楼与该车站之间则有全自动空中列车(SkyTrain)接驳。从机场车站出发,乘坐S-Bahn很快就能直达杜塞尔多夫中央火车站(Hauptbahnhof),这里是转乘火车和有轨电车的主要枢纽。",
+      "days": "大约2-3天的时间便足以游览老城区、莱茵河畔步道以及主要的艺术博物馆;如果时间充裕,不妨多留一天,顺道探索莱茵-鲁尔地区周边的景点。"
+    }
+  },
+  "Frankfurt": {
+    "en": {
+      "blurb": "Frankfurt is Germany's financial capital, a compact city of glass skyscrapers rising above a medieval old town rebuilt after the war. It functions less as a long-stay destination and more as continental Europe's great connecting point, where banking towers, riverside promenades and one of the world's busiest airports sit within a few S-Bahn stops of each other.",
+      "getting": "Most travellers arrive via Frankfurt Airport (FRA), one of Europe's major hubs, with S-Bahn trains (lines S8 and S9) running directly from the airport to Frankfurt Hauptbahnhof in roughly 10-15 minutes. The Hauptbahnhof itself is one of Germany's busiest rail stations, a key stop on the ICE high-speed network with direct connections to cities across Germany and neighbouring countries.",
+      "days": "Allow ~1-2 days to cover the old town, riverside and skyline viewpoints, which is typically enough given Frankfurt's role as a transit and business hub rather than a multi-day sightseeing destination."
+    },
+    "ko": {
+      "blurb": "프랑크푸르트는 독일의 금융 수도로, 전쟁 후 재건된 중세풍 구시가지 위로 유리 마천루가 솟아 있는 아담한 도시다. 장기 체류형 여행지라기보다는 유럽 대륙을 잇는 거대한 관문에 가까운데, 은행 타워와 강변 산책로, 그리고 세계에서 가장 붐비는 공항 중 하나가 S반 몇 정거장 거리 안에 모여 있다.",
+      "getting": "대부분의 여행객은 유럽의 주요 허브 공항인 프랑크푸르트 공항(FRA)을 통해 도착하며, S반(S8, S9 노선)을 타면 공항에서 프랑크푸르트 중앙역까지 약 10~15분 만에 바로 갈 수 있다. 중앙역 자체도 독일에서 손꼽히게 분주한 철도역으로, ICE 고속철도망의 핵심 정차역이며 독일 전역과 인접국 도시들로 직행 열차가 연결된다.",
+      "days": "구시가지와 강변, 스카이라인 전망 포인트를 둘러보는 데는 보통 1~2일이면 충분하다. 프랑크푸르트는 여러 날 머물며 관광하는 도시라기보다 환승과 비즈니스의 허브 역할이 강하기 때문이다."
+    },
+    "ja": {
+      "blurb": "フランクフルトはドイツの金融首都であり、戦後に再建された中世の旧市街の上にガラス張りの高層ビル群がそびえる、コンパクトな都市です。長期滞在の観光地というよりも、ヨーロッパ大陸を結ぶ一大拠点としての性格が強く、銀行の高層ビル群、川沿いの遊歩道、そして世界有数の忙しさを誇る空港が、Sバーンでわずか数駅の距離に収まっています。",
+      "getting": "多くの旅行者はヨーロッパ有数のハブ空港であるフランクフルト空港(FRA)から到着します。Sバーン(S8・S9系統)が空港からフランクフルト中央駅まで直通で運行しており、所要時間は約10〜15分です。中央駅自体もドイツ屈指の利用者数を誇る駅で、ICE高速鉄道網の主要停車駅として、ドイツ国内はもちろん近隣諸国の都市へも直通でアクセスできます。",
+      "days": "旧市街、川沿いエリア、そしてスカイラインを望むビューポイントを巡るには、1〜2日程度を見ておけば十分でしょう。フランクフルトは何日もかけて観光する都市というよりも、交通とビジネスの拠点としての役割が大きいため、これくらいの滞在日数が一般的です。"
+    },
+    "es": {
+      "blurb": "Fráncfort es la capital financiera de Alemania, una ciudad compacta de rascacielos de cristal que se alzan sobre un casco antiguo medieval reconstruido tras la guerra. Funciona menos como un destino para una estancia prolongada y más como el gran punto de conexión de la Europa continental, donde las torres bancarias, los paseos junto al río y uno de los aeropuertos con más tráfico del mundo se encuentran a pocas paradas de S-Bahn entre sí.",
+      "getting": "La mayoría de los viajeros llega a través del aeropuerto de Fráncfort (FRA), uno de los grandes hubs de Europa, desde donde los trenes S-Bahn (líneas S8 y S9) conectan directamente con la estación central de Fráncfort (Hauptbahnhof) en unos 10-15 minutos. La propia Hauptbahnhof es una de las estaciones de tren más concurridas de Alemania, parada clave de la red de alta velocidad ICE, con conexiones directas a ciudades de toda Alemania y de los países vecinos.",
+      "days": "Con 1-2 días basta para recorrer el casco antiguo, el paseo junto al río y los miradores sobre el skyline, algo que suele ser suficiente dado que Fráncfort funciona más como centro de tránsito y negocios que como destino turístico para varios días."
+    },
+    "zh": {
+      "blurb": "法兰克福是德国的金融之都,一座玻璃摩天大楼林立的紧凑城市,矗立在战后重建的中世纪老城之上。与其说它是一个适合久留的旅游目的地,不如说它是欧洲大陆的重要交通枢纽——银行大厦、河畔步道与全球最繁忙的机场之一,彼此之间仅隔几站市郊快铁(S-Bahn)的距离。",
+      "getting": "大多数旅客经法兰克福机场(FRA)抵达,这里是欧洲主要的航空枢纽之一。机场有S-Bahn市郊快铁(S8和S9线)直达法兰克福中央车站(Hauptbahnhof),车程约10-15分钟。中央车站本身是德国最繁忙的火车站之一,也是ICE高速铁路网络的重要节点,可直达德国境内及周边国家的众多城市。",
+      "days": "建议安排1-2天时间,游览老城区、河畔风光及观景地标即可。考虑到法兰克福更多是作为中转与商务枢纽,而非需要多日游览的观光目的地,这样的时间通常已经足够。"
+    }
+  },
+  "Füssen": {
+    "en": {
+      "blurb": "Füssen sits at the southern end of Germany's Romantic Road, tucked against the Bavarian Alps where the fairy tale castles of Neuschwanstein and Hohenschwangau rise above forested hills. Its compact old town, with pastel townhouses and a riverside monastery, makes it both the practical gateway to the castles and a worthwhile stop in its own right.",
+      "getting": "The nearest major airport is Munich (MUC), roughly 120km away, with regional trains to Füssen station taking around 2 hours, typically with one change. There is no direct train link; most travellers connect via Munich's Hauptbahnhof, then continue by local bus from Füssen station to Hohenschwangau for the castles.",
+      "days": "Plan on ~1 to 2 days: enough time for a castle visit and a wander through the old town, with an extra half day if combining with nearby Alpine lakes or hiking trails."
+    },
+    "ko": {
+      "blurb": "퓌센은 독일 로맨틱 가도의 남쪽 끝자락, 바이에른 알프스에 바짝 기대어 자리한 마을이다. 숲이 우거진 언덕 위로는 동화 속에서 튀어나온 듯한 노이슈반슈타인 성과 호엔슈반가우 성이 우뚝 솟아 있다. 파스텔톤 건물들이 늘어선 아담한 구시가지와 강변의 수도원은 이곳을 성을 보러 가는 길목 이상의 장소로 만들어, 그 자체만으로도 들러볼 가치가 충분하다.",
+      "getting": "가장 가까운 주요 공항은 뮌헨(MUC)으로, 퓌센까지는 약 120km 떨어져 있다. 지역 열차로 퓌센역까지 대략 2시간이 걸리며, 보통 한 번은 환승해야 한다. 직통 열차는 없어서 대부분의 여행자는 뮌헨 중앙역(Hauptbahnhof)을 거쳐 이동한 뒤, 퓌센역에서 지역 버스로 갈아타고 호엔슈반가우까지 가서 성을 둘러보게 된다.",
+      "days": "1~2일 정도면 충분하다. 성 한 곳을 둘러보고 구시가지를 거니는 데 적당한 시간이며, 근처 알프스 호수나 하이킹 코스까지 함께 즐기고 싶다면 반나절 정도 더 여유를 두는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "フュッセンは、ドイツのロマンチック街道の最南端に位置し、バイエルン・アルプスの麓に抱かれるようにたたずむ町です。森に覆われた丘の上には、おとぎ話さながらのノイシュヴァンシュタイン城とホーエンシュヴァンガウ城がそびえ立っています。パステルカラーの町家が並び、川沿いに修道院を擁するコンパクトな旧市街は、城めぐりの拠点として便利なだけでなく、それ自体が訪れる価値のある魅力的な場所です。",
+      "getting": "最寄りの主要空港はミュンヘン空港(MUC)で、フュッセンまでは約120km離れています。地域鉄道を利用すればフュッセン駅まで約2時間、通常は1回の乗り換えが必要です。直通列車はなく、多くの旅行者はミュンヘン中央駅を経由して乗り継ぎ、フュッセン駅からはさらに路線バスでホーエンシュヴァンガウへ向かい、城を目指します。",
+      "days": "滞在日数の目安は1〜2日。お城見学と旧市街散策にはこれで十分ですが、近郊のアルプス湖やハイキングコースも楽しみたい場合は、半日ほど余裕を持たせるのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Füssen se encuentra en el extremo sur de la Ruta Romántica de Alemania, acurrucada contra los Alpes bávaros, donde los castillos de cuento de hadas de Neuschwanstein y Hohenschwangau se alzan sobre colinas boscosas. Su compacto casco antiguo, con casas de fachadas pastel y un monasterio a orillas del río, la convierte tanto en la puerta práctica de acceso a los castillos como en una parada que vale la pena por sí misma.",
+      "getting": "El aeropuerto principal más cercano es Múnich (MUC), a unos 120 km de distancia, con trenes regionales hasta la estación de Füssen que tardan alrededor de 2 horas, normalmente con un trasbordo. No hay conexión ferroviaria directa; la mayoría de los viajeros pasan por la Hauptbahnhof de Múnich y luego continúan en autobús local desde la estación de Füssen hasta Hohenschwangau para visitar los castillos.",
+      "days": "Calcula entre 1 y 2 días: tiempo suficiente para visitar un castillo y pasear por el casco antiguo, más medio día extra si lo combinas con los lagos alpinos cercanos o rutas de senderismo."
+    },
+    "zh": {
+      "blurb": "菲森(Füssen)坐落在德国浪漫之路的最南端,紧依巴伐利亚阿尔卑斯山脉,新天鹅堡(Neuschwanstein)和旧天鹅堡(Hohenschwangau)这两座童话般的城堡就矗立在林木葱郁的山丘之上。菲森小巧精致的老城区,粉彩色调的联排屋舍与临河而建的修道院相映成趣,既是游览城堡的理想门户,本身也值得专程一游。",
+      "getting": "距离最近的主要机场是慕尼黑机场(MUC),距菲森约120公里,乘坐区域列车前往菲森站大约需要2小时,通常需要换乘一次。目前没有直达列车,大多数旅客会经慕尼黑中央火车站(Hauptbahnhof)转车,再从菲森站搭乘当地巴士前往旧天鹅堡(Hohenschwangau)游览城堡。",
+      "days": "建议安排1到2天的行程:这样的时间足以参观城堡并漫步老城区;如果想顺道游览附近的阿尔卑斯湖泊或徒步路线,可以再多预留半天时间。"
+    }
+  },
+  "Hamburg": {
+    "en": {
+      "blurb": "Hamburg is Germany's great maritime gateway, a city built on canals, warehouses and one of Europe's busiest ports, where red-brick Speicherstadt architecture meets the sweeping glass curves of the Elbphilharmonie. It is a city of water and trade first, and of culture and nightlife close behind, from the Reeperbahn's clubs to the grand Alster lakes at its centre.",
+      "getting": "Most travellers arrive via Hamburg Airport (HAM), connected directly to Hamburg Hauptbahnhof by the S1 S-Bahn line in ~25 minutes, with trains running roughly every 10 minutes through the day; long-distance rail travellers typically arrive at the Hauptbahnhof itself or at Hamburg-Altona station.",
+      "days": "Plan on 2-3 days to cover the harbour, Speicherstadt and city centre at an easy pace, or 4-5 days if you want to add day trips along the Elbe or into the surrounding Schleswig-Holstein countryside."
+    },
+    "ja": {
+      "blurb": "ハンブルクはドイツ屈指の海の玄関口であり、運河と倉庫群、そしてヨーロッパ有数の忙しさを誇る港を中心に発展してきた街だ。赤レンガの倉庫街シュパイヒャーシュタットと、ガラスの大きな曲線が印象的なエルプフィルハーモニーが隣り合わせに建ち、水と交易の街としての顔をまず見せてくれる。そのすぐ後に続くのが、文化とナイトライフの顔。歓楽街レーパーバーンのクラブから、街の中心に広がる雄大なアルスター湖まで、楽しみ方は幅広い。",
+      "getting": "多くの旅行者はハンブルク空港（HAM）から入る。空港からはS1 S-バーンでハンブルク中央駅まで直通約25分、日中はおよそ10分おきに運行しているので使い勝手がいい。長距離列車で訪れる場合は、中央駅、またはハンブルク・アルトナ駅に到着するのが一般的だ。",
+      "days": "港やシュパイヒャーシュタット、中心部をゆったり巡るなら2〜3日が目安。エルベ川沿いの小旅行や、周辺のシュレースヴィヒ＝ホルシュタイン地方への足を延ばしたいなら、4〜5日見ておくとよい。"
+    },
+    "es": {
+      "blurb": "Hamburgo es la gran puerta marítima de Alemania, una ciudad construida sobre canales, almacenes y uno de los puertos más activos de Europa, donde la arquitectura de ladrillo rojo de la Speicherstadt se encuentra con las amplias curvas de cristal de la Elbphilharmonie. Es, ante todo, una ciudad de agua y comercio, seguida muy de cerca por la cultura y la vida nocturna, desde los clubes de la Reeperbahn hasta los majestuosos lagos Alster en pleno centro.",
+      "getting": "La mayoría de los viajeros llega por el aeropuerto de Hamburgo (HAM), conectado directamente con la estación central de Hamburgo (Hauptbahnhof) mediante la línea de S-Bahn S1 en unos 25 minutos, con trenes que circulan aproximadamente cada 10 minutos durante todo el día; quienes viajan en tren de larga distancia suelen llegar directamente a la Hauptbahnhof o a la estación de Hamburgo-Altona.",
+      "days": "Calcula entre 2 y 3 días para recorrer sin prisas el puerto, la Speicherstadt y el centro de la ciudad, o de 4 a 5 días si quieres añadir excursiones a lo largo del Elba o hacia la campiña circundante de Schleswig-Holstein."
+    },
+    "zh": {
+      "blurb": "汉堡是德国通向海洋的门户重镇，这座城市因运河、仓库群和欧洲最繁忙的港口之一而兴起。红砖砌筑的仓库城（Speicherstadt）与线条流畅的玻璃建筑易北爱乐音乐厅（Elbphilharmonie）在此交相辉映。贸易与水运是这座城市的立身之本，而文化与夜生活也紧随其后、同样精彩——从红灯区雷珀班（Reeperbahn）鳞次栉比的俱乐部，到市中心烟波浩渺的阿尔斯特湖（Alster）。",
+      "getting": "大多数旅客经由汉堡机场（HAM）抵达，该机场可通过S1城铁线直达汉堡中央火车站（Hamburg Hauptbahnhof），车程约25分钟，白天班次大约每10分钟一班；乘长途火车前来的旅客通常会抵达中央火车站本身，或是汉堡阿尔托纳火车站（Hamburg-Altona）。",
+      "days": "若想轻松游览港口、仓库城和市中心，建议安排2-3天；如果还想沿易北河或前往周边的石勒苏益格-荷尔斯泰因（Schleswig-Holstein）乡间做一日游，不妨安排4-5天。"
+    }
+  },
+  "Leipzig": {
+    "en": {
+      "blurb": "Leipzig blends a centuries-old trading-city energy with one of Europe's most dynamic creative and startup scenes, its grand 19th-century architecture now home to galleries, indie music venues, and a buzzing café culture. Once a divided-era backwater, it has re-emerged as one of Germany's fastest-changing cities, drawing a young, international crowd without losing its handsome, historic core.",
+      "getting": "Most travellers fly into Leipzig/Halle Airport (LEJ), then take the S-Bahn (lines S5 or S5X) directly to Leipzig Hauptbahnhof, a journey of roughly 15 minutes. The Hauptbahnhof itself, Europe's largest railway station by floor area, is also the city's main hub for long-distance and regional rail connections across Germany.",
+      "days": "Plan on ~2 to 3 days to cover the historic centre, key museums, and a taste of the city's music and café scene at an easy pace."
+    },
+    "ja": {
+      "blurb": "ライプツィヒは、何世紀にもわたって商業都市として栄えてきたエネルギーと、ヨーロッパ屈指のダイナミックなクリエイティブ&スタートアップシーンを併せ持つ街だ。19世紀の壮麗な建築群は今やギャラリーやインディーズ系の音楽会場、活気あるカフェ文化の拠点となっている。かつては東西分断時代に取り残された地味な存在だったこの街も、今やドイツで最も急速に変化を遂げている都市のひとつとして再び脚光を浴び、歴史ある美しい旧市街の魅力を失うことなく、若く国際色豊かな人々を惹きつけている。",
+      "getting": "多くの旅行者はまずライプツィヒ/ハレ空港(LEJ)に到着し、そこからSバーン(S5またはS5X系統)に乗ってライプツィヒ中央駅へ向かう。所要時間はおよそ15分だ。床面積ではヨーロッパ最大を誇るこの中央駅は、ドイツ国内の長距離・近郊列車が集まる同市の交通の要でもある。",
+      "days": "歴史地区の散策や主要な美術館・博物館めぐり、さらに音楽シーンやカフェ文化を無理なく味わうには、2〜3日ほど見ておくとよいだろう。"
+    },
+    "es": {
+      "blurb": "Leipzig combina la energía de una ciudad comercial con siglos de historia con una de las escenas creativas y de startups más dinámicas de Europa: su imponente arquitectura decimonónica alberga hoy galerías, salas de música indie y una animada cultura de cafés. Antaño un rincón olvidado durante la época de la división alemana, ha resurgido como una de las ciudades de Alemania que más rápido se transforma, atrayendo a un público joven e internacional sin perder su hermoso y auténtico casco histórico.",
+      "getting": "La mayoría de los viajeros llega al aeropuerto de Leipzig/Halle (LEJ) y desde allí toma el S-Bahn (líneas S5 o S5X) directo hasta la estación central, Leipzig Hauptbahnhof, en un trayecto de apenas unos 15 minutos. La propia Hauptbahnhof, la estación de tren más grande de Europa en superficie, es además el principal nodo de conexiones ferroviarias de larga distancia y regionales de toda Alemania.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer el centro histórico, visitar los museos imprescindibles y disfrutar sin prisas de la escena musical y la vida de cafés de la ciudad."
+    },
+    "zh": {
+      "blurb": "莱比锡将几个世纪以来沉淀下来的商贸之城底蕴,与欧洲最具活力的创意与创业氛围融为一体。昔日恢弘的19世纪建筑,如今摇身一变,成为画廊、独立音乐演出场所和热闹咖啡馆文化的聚集地。这座曾在东西分裂时代略显沉寂的城市,如今已重新崛起,成为德国变化最快的城市之一,吸引着来自世界各地的年轻人纷至沓来,却依然保留着其优雅的历史底色。",
+      "getting": "大多数旅客会飞抵莱比锡/哈勒机场(LEJ),然后乘坐城市轻轨S-Bahn(S5或S5X线)直达莱比锡中央车站,车程约15分钟。这座中央车站以建筑占地面积计算,是欧洲最大的火车站,同时也是莱比锡连接德国各地长途与区域列车的交通枢纽。",
+      "days": "建议安排2到3天时间,从容地游览历史城区、重点博物馆,并体验这座城市的音乐与咖啡馆文化。"
+    }
+  },
+  "Heidelberg": {
+    "en": {
+      "blurb": "Heidelberg is famed for its red sandstone castle ruins overlooking the Neckar River and a Baroque old town that largely escaped the bombing of World War II. It is also home to Heidelberg University, Germany's oldest, founded in 1386, which has long given the city its romantic, scholarly reputation.",
+      "getting": "The nearest major international airport is Frankfurt (FRA), about 80km north; the quickest route is by train, often with a change at Mannheim, taking roughly 1 hour in total. Heidelberg's Hauptbahnhof sits just a few minutes from the old town and has frequent ICE and IC connections to Frankfurt, Mannheim, Stuttgart, and Karlsruhe.",
+      "days": "Allow 1 to 2 days to cover the castle, the old town, and a walk along the Philosophers' Way above the river."
+    },
+    "ko": {
+      "blurb": "하이델베르크는 네카어강이 내려다보이는 붉은 사암 고성 유적과, 제2차 세계대전의 폭격을 거의 피해간 바로크풍 구시가지로 유명합니다. 또한 1386년에 설립된 독일 최古(최고)의 대학인 하이델베르크 대학교가 자리한 곳이기도 하여, 이 도시는 오래전부터 낭만적이고 학구적인 명성을 이어오고 있습니다.",
+      "getting": "가장 가까운 주요 국제공항은 북쪽으로 약 80km 떨어진 프랑크푸르트(FRA)이며, 가장 빠른 방법은 기차를 이용하는 것으로, 보통 만하임에서 환승해 총 1시간 정도 소요됩니다. 하이델베르크 중앙역(Hauptbahnhof)은 구시가지에서 불과 몇 분 거리에 있으며, 프랑크푸르트, 만하임, 슈투트가르트, 카를스루에를 오가는 ICE 및 IC 열차가 자주 운행됩니다.",
+      "days": "고성과 구시가지를 둘러보고 강 위쪽의 철학자의 길(Philosophers' Way)을 따라 산책하려면 1~2일 정도 시간을 두는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "ハイデルベルクといえば、ネッカー川を見下ろす赤砂岩造りの古城跡と、第二次世界大戦の空爆を免れたバロック様式の旧市街で知られる街です。また、1386年創設というドイツ最古の大学、ハイデルベルク大学があることでも有名で、古くからこの街に学問と浪漫の香り漂うイメージを与えてきました。",
+      "getting": "最寄りの主要国際空港はフランクフルト(FRA)で、北へ約80kmの距離にあります。最も速いのは鉄道で、マンハイムで乗り換えることが多く、所要時間はおよそ1時間です。ハイデルベルク中央駅は旧市街から徒歩数分の場所にあり、フランクフルト、マンハイム、シュトゥットガルト、カールスルーエとの間をICEやICが頻発しています。",
+      "days": "古城や旧市街の散策に加え、川を見下ろす「哲学者の道」を歩くなら、滞在日数は1〜2日を見ておくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Heidelberg es famosa por las ruinas de su castillo de arenisca roja, que dominan el río Neckar, y por un casco antiguo de estilo barroco que en gran parte se libró de los bombardeos de la Segunda Guerra Mundial. La ciudad también alberga la Universidad de Heidelberg, la más antigua de Alemania, fundada en 1386, que desde hace siglos le ha dado su reputación romántica y erudita.",
+      "getting": "El aeropuerto internacional principal más cercano es Fráncfort (FRA), a unos 80 km al norte; la forma más rápida de llegar es en tren, a menudo con trasbordo en Mannheim, con un trayecto total de aproximadamente 1 hora. La estación central de Heidelberg (Hauptbahnhof) se encuentra a solo unos minutos del casco antiguo y cuenta con conexiones frecuentes de ICE e IC hacia Fráncfort, Mannheim, Stuttgart y Karlsruhe.",
+      "days": "Conviene reservar entre 1 y 2 días para recorrer el castillo, el casco antiguo y dar un paseo por el Camino de los Filósofos, con vistas al río."
+    },
+    "zh": {
+      "blurb": "海德堡以俯瞰内卡河的红砂岩城堡遗迹而闻名,其巴洛克风格的老城区也在二战轰炸中大体幸免于难。这里还坐落着德国最古老的大学——海德堡大学,始建于1386年,长久以来为这座城市增添了浪漫而充满学术气息的声誉。",
+      "getting": "最近的主要国际机场是法兰克福机场(FRA),位于海德堡以北约80公里处。最快的方式是乘火车前往,通常需要在曼海姆换乘一次,全程大约1小时。海德堡中央火车站距老城区仅几分钟路程,并有频繁的ICE城际特快和IC城际列车往返于法兰克福、曼海姆、斯图加特和卡尔斯鲁厄之间。",
+      "days": "建议安排1到2天时间,游览城堡、老城区,并沿着俯瞰内卡河的哲学家小径漫步。"
+    }
+  },
+  "Munich": {
+    "en": {
+      "blurb": "Munich pairs Bavarian tradition with world-class culture: grand beer halls and the annual Oktoberfest sit alongside the art museums of the Kunstareal and the manicured expanse of the English Garden. It is also a gateway city, with the Alps, Neuschwanstein Castle and Salzburg all within easy day-trip range by train.",
+      "getting": "Most travellers arrive via Munich Airport (MUC), which connects to the city centre by the S1 and S8 S-Bahn lines, reaching Munich Hauptbahnhof in roughly 40-45 minutes. Munich is also a major rail hub, with frequent long-distance and regional trains serving the Hauptbahnhof from across Germany and neighbouring countries.",
+      "days": "Plan on ~3-4 days to cover the Altstadt, major museums and a beer garden or two, with extra time if you intend to day-trip into the Alps or Bavarian countryside."
+    },
+    "ko": {
+      "blurb": "뮌헨은 바이에른 전통과 세계적 수준의 문화가 공존하는 도시다. 웅장한 비어홀과 매년 열리는 옥토버페스트가 쿤스트아레알(Kunstareal)의 미술관들, 그리고 잘 가꿔진 영국정원(English Garden)과 나란히 자리한다. 또한 뮌헨은 관문 도시이기도 해서, 기차로 하루 만에 다녀올 수 있는 거리에 알프스, 노이슈반슈타인 성(Neuschwanstein Castle), 잘츠부르크(Salzburg)가 모두 위치해 있다.",
+      "getting": "대부분의 여행자는 뮌헨 공항(MUC)을 통해 도착하며, 이곳은 S1, S8 에스반(S-Bahn) 노선으로 시내와 연결되어 약 40~45분이면 뮌헨 중앙역(Hauptbahnhof)에 도착할 수 있다. 뮌헨은 주요 철도 거점이기도 해서, 독일 전역과 인접 국가에서 출발하는 장거리 및 지역 열차가 중앙역을 수시로 오간다.",
+      "days": "구시가지(Altstadt)와 주요 미술관, 비어가든 한두 곳을 둘러보려면 3~4일 정도를 계획하는 것이 좋으며, 알프스나 바이에른 근교로 당일치기 여행을 할 계획이라면 추가로 시간을 확보하는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "ミュンヘンは、バイエルンの伝統と世界レベルの文化が共存する街です。壮大なビアホールや毎年恒例のオクトーバーフェストがある一方で、クンストアレアル(美術館地区)の数々の美術館や、手入れの行き届いた広大なイギリス庭園も楽しめます。また、アルプス山脈やノイシュヴァンシュタイン城、ザルツブルクへも列車で気軽に日帰り旅行できる、交通の要所としての顔も持っています。",
+      "getting": "多くの旅行者はミュンヘン空港(MUC)から到着します。空港から市街地へはS-Bahn(近郊電車)のS1線またはS8線で、ミュンヘン中央駅までおよそ40〜45分です。ミュンヘンは鉄道の一大拠点でもあり、中央駅にはドイツ各地や近隣諸国から長距離列車・地域列車が頻繁に発着しています。",
+      "days": "旧市街(アルトシュタット)の散策や主要な美術館巡り、ビアガーデンでのひとときを楽しむなら、3〜4日程度を目安にすると良いでしょう。アルプスやバイエルンの田園地帯へ日帰り旅行を予定している場合は、さらに日数を加えることをおすすめします。"
+    },
+    "es": {
+      "blurb": "Múnich combina la tradición bávara con una cultura de primer nivel: sus grandes cervecerías y la célebre Oktoberfest conviven con los museos de arte del Kunstareal y la extensa belleza cuidada del Jardín Inglés (English Garden). Es, además, una ciudad puerta de entrada a otros destinos, ya que los Alpes, el castillo de Neuschwanstein y Salzburgo quedan a un corto trayecto en tren para una excursión de un día.",
+      "getting": "La mayoría de los viajeros llega a través del aeropuerto de Múnich (MUC), conectado con el centro de la ciudad mediante las líneas S1 y S8 de S-Bahn, que llegan a la estación central, Múnich Hauptbahnhof, en unos 40-45 minutos. Múnich es también un importante nudo ferroviario, con trenes de largo recorrido y regionales frecuentes que llegan a la Hauptbahnhof desde toda Alemania y los países vecinos.",
+      "days": "Conviene reservar entre 3 y 4 días para recorrer el Altstadt (casco antiguo), visitar los principales museos y disfrutar de uno o dos jardines cerveceros, sumando tiempo extra si se planea hacer una excursión de un día a los Alpes o a la campiña bávara."
+    },
+    "zh": {
+      "blurb": "慕尼黑将巴伐利亚传统与世界级文化完美融合:宏伟的啤酒馆和一年一度的啤酒节,与艺术区(Kunstareal)的各大美术馆以及英式花园(English Garden)的大片葱郁草坪交相辉映。作为交通枢纽城市,阿尔卑斯山、新天鹅堡和萨尔茨堡都在乘火车即可轻松往返的一日游范围之内。",
+      "getting": "大多数游客经慕尼黑机场(MUC)抵达,机场有S1和S8两条城铁(S-Bahn)线路直达市中心,约40-45分钟即可到达慕尼黑中央火车站(Munich Hauptbahnhof)。慕尼黑同时也是重要的铁路枢纽,中央火车站有来自德国各地及周边国家的长途和区域列车频繁往返。",
+      "days": "建议安排约3-4天时间,游览老城区(Altstadt)、主要博物馆,再去一两家啤酒花园小酌;若计划前往阿尔卑斯山或巴伐利亚乡村一日游,则需预留额外时间。"
+    }
+  },
+  "Nuremberg": {
+    "en": {
+      "blurb": "Nuremberg pairs a reconstructed medieval old town, walled and dominated by its hilltop Kaiserburg castle, with a far heavier 20th century legacy as the staging ground for Nazi rallies and later the Nuremberg trials. The result is a city that lets visitors wander half-timbered lanes and Christmas market stalls by day, then confront the Documentation Centre and former rally grounds by afternoon.",
+      "getting": "Most travellers fly into Nuremberg Airport (NUE), which sits about 5km from downtown and connects to Nürnberg Hauptbahnhof in roughly 12 minutes via the U2 subway line. The city is also a major rail hub in its own right, with direct ICE high-speed services linking it to Munich (around 1 hour), as well as to Frankfurt, Berlin, and other German and European cities.",
+      "days": "Plan on 2 to 3 days to cover the old town, castle, and main war history sites at a comfortable pace, with a 4th day free for a side trip to nearby Bamberg or Rothenburg ob der Tauber."
+    },
+    "ko": {
+      "blurb": "뉘른베르크는 성벽으로 둘러싸인 구시가지와 언덕 위에 우뚝 솟은 카이저부르크 성이 어우러진 복원된 중세 도시의 모습을 간직하고 있지만, 동시에 나치 전당대회가 열렸던 장소이자 훗날 뉘른베르크 재판이 벌어진 훨씬 더 무거운 20세기의 유산도 함께 지니고 있다. 그 덕분에 방문객들은 낮에는 목조 건물이 늘어선 골목과 크리스마스 마켓 노점을 거닐다가, 오후에는 다큐멘테이션 센터와 옛 전당대회 부지와 마주하며 전혀 다른 두 얼굴의 도시를 경험하게 된다.",
+      "getting": "대부분의 여행객은 뉘른베르크 공항(NUE)을 통해 입국하며, 이 공항은 시내에서 약 5km 떨어져 있고 U2 지하철 노선을 이용하면 약 12분 만에 뉘른베르크 중앙역(Nürnberg Hauptbahnhof)까지 이동할 수 있다. 뉘른베르크는 그 자체로도 중요한 철도 거점 도시로, ICE 고속열차가 뮌헨(약 1시간 소요)은 물론 프랑크푸르트, 베를린을 비롯한 독일 및 유럽 각지의 도시들과 직통으로 연결된다.",
+      "days": "구시가지와 성, 그리고 주요 전쟁 역사 유적지를 여유롭게 둘러보려면 2~3일 정도를 잡는 것이 좋으며, 4일째는 근교의 밤베르크나 로텐부르크 오프 데어 타우버로 당일치기 여행을 다녀오는 데 할애할 수 있다."
+    },
+    "ja": {
+      "blurb": "ニュルンベルクは、丘の上にそびえるカイザーブルク城を擁し、城壁に囲まれた再建中世旧市街という顔を持つ一方で、ナチスの党大会が開かれ、後にニュルンベルク裁判の舞台ともなった、はるかに重い20世紀の記憶を背負う街でもあります。昼間は木組みの小路やクリスマスマーケットの屋台をのんびり歩き、午後にはドキュメンテーションセンターや党大会跡地と向き合う——そんな対照的な時間を過ごせるのがこの街の魅力です。",
+      "getting": "多くの旅行者はニュルンベルク空港(NUE)を利用します。空港は中心部から約5kmの距離にあり、地下鉄U2線でニュルンベルク中央駅までわずか12分ほどで到着します。また、ニュルンベルクはそれ自体が主要な鉄道の拠点でもあり、ICE高速列車がミュンヘン(約1時間)をはじめ、フランクフルトやベルリンなど、ドイツ国内外の都市と直結しています。",
+      "days": "旧市街、城、そして戦争史にまつわる主要スポットを無理なく回るなら、2〜3日が目安です。さらに4日目を自由日として確保すれば、近郊のバンベルクやローテンブルク・オプ・デア・タウバーへの日帰り旅行も楽しめます。"
+    },
+    "es": {
+      "blurb": "Núremberg combina un casco antiguo medieval reconstruido, amurallado y dominado por el castillo Kaiserburg que corona la colina, con un legado mucho más pesado del siglo XX como escenario de los mítines nazis y, más tarde, de los juicios de Núremberg. El resultado es una ciudad que permite a los visitantes pasear por sus callejuelas de entramado de madera y sus puestos de mercado navideño durante el día, para luego enfrentarse, ya por la tarde, al Centro de Documentación y a los antiguos terrenos donde se celebraban esos mítines.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto de Núremberg (NUE), situado a unos 5 km del centro y conectado con la estación central Nürnberg Hauptbahnhof en apenas 12 minutos gracias a la línea de metro U2. La ciudad es también, por derecho propio, un importante nudo ferroviario, con servicios directos de alta velocidad ICE que la enlazan con Múnich (alrededor de 1 hora), así como con Fráncfort, Berlín y otras ciudades alemanas y europeas.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer con calma el casco antiguo, el castillo y los principales sitios relacionados con la historia bélica de la ciudad, dejando un cuarto día libre para una escapada a la cercana Bamberg o a Rothenburg ob der Tauber."
+    },
+    "zh": {
+      "blurb": "纽伦堡是一座充满反差的城市:一边是城墙环绕、由山顶皇帝堡(Kaiserburg)俯瞰的重建中世纪老城,另一边则是远为沉重的20世纪历史——这里曾是纳粹集会的举办地,后来又成为纽伦堡审判的所在地。白天,游客可以漫步于木筋屋林立的街巷和圣诞市场摊位之间;而到了下午,则会直面纳粹党代会文献中心(Documentation Centre)与昔日的集会场地遗址,感受历史的重量。",
+      "getting": "大多数游客会选择飞抵纽伦堡机场(NUE),该机场距市中心约5公里,可通过U2地铁线在约12分钟内到达纽伦堡中央火车站(Nürnberg Hauptbahnhof)。纽伦堡本身也是重要的铁路枢纽,有ICE高速列车直达慕尼黑(车程约1小时),以及法兰克福、柏林等德国及欧洲其他城市。",
+      "days": "建议安排2到3天,从容游览老城、城堡以及主要的战争历史遗迹;若还有第4天,可安排前往附近的班贝格(Bamberg)或罗滕堡(Rothenburg ob der Tauber)一日游。"
+    }
+  },
+  "Stuttgart": {
+    "en": {
+      "blurb": "Stuttgart sits in a steep, vine-covered valley in southwestern Germany, a setting that gives the city its famous bowl-shaped skyline and its stacked blend of auto-industry headquarters, forested hillsides and vineyards right at the edge of downtown. As the home of Mercedes-Benz and Porsche, it pairs a serious engineering identity with a surprisingly green, walkable core built around grand 19th and 20th century public buildings.",
+      "getting": "Most travellers arrive via Stuttgart Airport (STR), which sits about 13km south of the centre; the S-Bahn lines S2 and S3 run directly from the airport to Stuttgart Hauptbahnhof in around 27 minutes. The Hauptbahnhof itself is the city's main rail hub, with regular long-distance and regional connections, though parts of the station are currently affected by the long-running \"Stuttgart 21\" rebuilding project, so allow a little extra time when transferring.",
+      "days": "Plan on ~2-3 days to cover the city centre, the main museums and a hillside vineyard walk, with an extra day if you want to branch out to the surrounding Neckar valley towns."
+    },
+    "ko": {
+      "blurb": "슈투트가르트는 독일 남서부, 포도밭이 뒤덮인 가파른 계곡에 자리 잡고 있다. 이런 지형 덕분에 도시 전체가 마치 그릇처럼 움푹 들어간 독특한 스카이라인을 이루며, 자동차 산업의 본산과 울창한 숲이 우거진 언덕, 그리고 도심 바로 옆까지 이어지는 포도밭이 층층이 뒤섞여 있다. 메르세데스-벤츠와 포르쉐의 본고장답게 탄탄한 엔지니어링 도시라는 정체성을 지니고 있으면서도, 19~20세기에 지어진 웅장한 공공 건물들을 중심으로 의외로 푸르고 걷기 좋은 도심을 품고 있다.",
+      "getting": "대부분의 여행자는 슈투트가르트 공항(STR)을 통해 도착하는데, 이곳은 시내 중심에서 남쪽으로 약 13km 떨어져 있다. S반 S2, S3 노선을 타면 공항에서 슈투트가르트 중앙역(Hauptbahnhof)까지 약 27분 만에 바로 갈 수 있다. 중앙역은 장거리 및 지역 열차가 수시로 오가는 도시의 주요 철도 거점이지만, 장기간 진행 중인 \"슈투트가르트 21(Stuttgart 21)\" 재건축 프로젝트로 인해 역 일부 구간이 영향을 받고 있으니, 환승 시 여유 시간을 조금 더 두는 것이 좋다.",
+      "days": "도심과 주요 박물관, 그리고 언덕 포도밭 산책로를 둘러보려면 대략 2~3일 정도를 계획하면 되고, 주변 네카어 계곡(Neckar valley) 마을들까지 둘러보고 싶다면 하루 정도를 더 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "シュトゥットガルトは、ドイツ南西部に広がる急勾配のブドウ畑に囲まれた谷に位置しており、この地形が街を特徴づける「お椀型」のスカイラインを生み出しています。市街地のすぐ外側には自動車産業の本拠地、森に覆われた丘、そしてブドウ畑が層をなすように広がっています。メルセデス・ベンツとポルシェの本拠地として確かな工業技術のイメージを持つ一方で、19〜20世紀に建てられた壮麗な公共建築を中心に、緑豊かで歩きやすい中心部を備えているのも意外な魅力です。",
+      "getting": "多くの旅行者はシュトゥットガルト空港(STR)を利用して訪れます。空港は市街中心部から南に約13kmの位置にあり、Sバーン(近郊電車)のS2・S3線を使えば、シュトゥットガルト中央駅(Hauptbahnhof)まで約27分で直行できます。中央駅は市内最大の鉄道拠点で、長距離列車・近郊列車が頻繁に発着していますが、現在進行中の大規模再開発プロジェクト「シュトゥットガルト21」の影響で駅の一部が利用しづらくなっているため、乗り換えには少し余裕を持たせておくと安心です。",
+      "days": "市街中心部、主要な美術館・博物館、そして丘のブドウ畑散策を楽しむには2〜3日ほどを目安にするとよいでしょう。さらに周辺のネッカー谷(Neckar valley)の町々へ足を延ばしたい場合は、もう1日プラスするのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Stuttgart se extiende sobre un valle empinado y cubierto de viñedos en el suroeste de Alemania, un entorno que le da a la ciudad su célebre perfil urbano en forma de cuenco y esa mezcla tan particular de sedes de la industria automotriz, laderas boscosas y viñedos que llegan hasta el mismo borde del centro. Como cuna de Mercedes-Benz y Porsche, combina una sólida identidad ligada a la ingeniería con un núcleo urbano sorprendentemente verde y caminable, construido alrededor de grandes edificios públicos de los siglos XIX y XX.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto de Stuttgart (STR), situado a unos 13 km al sur del centro; las líneas de S-Bahn S2 y S3 conectan directamente el aeropuerto con la estación central, el Hauptbahnhof de Stuttgart, en unos 27 minutos. El Hauptbahnhof es el principal nudo ferroviario de la ciudad, con conexiones regulares de larga y corta distancia, aunque parte de la estación se ve actualmente afectada por las obras del proyecto \"Stuttgart 21\", que llevan años en marcha, así que conviene calcular algo más de tiempo al hacer transbordos.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer el centro de la ciudad, visitar los principales museos y dar un paseo por los viñedos de la ladera, y sumar un día más si se quiere explorar los pueblos cercanos del valle del Neckar."
+    },
+    "zh": {
+      "blurb": "斯图加特坐落于德国西南部一处陡峭、遍布葡萄园的山谷之中，这样的地势造就了这座城市著名的\"盆地式\"天际线，也让汽车工业总部、森林覆盖的山坡与紧邻市中心的葡萄园在此奇妙叠加。作为梅赛德斯-奔驰和保时捷的故乡，斯图加特既有严谨扎实的工程技术底蕴，又拥有一个出人意料地绿意盎然、适合步行的市中心，周围环绕着19、20世纪气势恢宏的公共建筑。",
+      "getting": "大多数游客经斯图加特机场（STR）抵达，该机场位于市中心以南约13公里处；S-Bahn的S2和S3线可直达斯图加特中央火车站（Hauptbahnhof），车程约27分钟。中央火车站本身是该市的主要铁路枢纽，长途及区域列车班次频繁，不过由于旷日持久的\"斯图加特21\"（Stuttgart 21）改造工程，车站部分区域目前仍受到影响，换乘时请预留一些额外时间。",
+      "days": "建议安排约2-3天游览市中心、主要博物馆以及一段山间葡萄园徒步；如果还想顺道前往周边内卡河谷（Neckar valley）一带的小镇，可再多留一天。"
+    }
+  },
+  "Rothenburg ob der Tauber": {
+    "en": {
+      "blurb": "Rothenburg ob der Tauber is one of the few German towns where the medieval walls still fully encircle the old town, so you can walk the entire ramparts walkway above a skyline of red-roofed, half-timbered houses. It is the best-known stop on the Romantic Road, prized for its preserved Gothic and Renaissance townscape rather than any single monument.",
+      "getting": "Rothenburg has no direct long-distance rail link: travellers arrive by changing onto the local branch line at Steinach, with most journeys routed through Würzburg from the north or Ansbach from the south before that final short connection. Frankfurt Airport (FRA) is the most commonly used international gateway, with the full train journey, including the Würzburg and Steinach changes, taking roughly 3 to 3.5 hours; drivers can cover the same route via the A7 in about 2 hours.",
+      "days": "A single day is enough to walk the walls and old town highlights, but an overnight stay lets you see Rothenburg's cobbled streets emptied of day-trippers in the early morning and evening, so 1 to 2 days is the typical recommendation."
+    },
+    "ko": {
+      "blurb": "로텐부르크 오프 데어 타우버는 중세 성벽이 구시가지를 완전히 둘러싸고 있는 독일의 몇 안 되는 도시 중 하나로, 붉은 지붕의 목조 가옥들이 늘어선 스카이라인 위로 성벽 위 산책로 전체를 걸어볼 수 있습니다. 로맨틱 가도에서 가장 유명한 명소로, 특정 하나의 기념물이 아니라 고딕 양식과 르네상스 양식이 잘 보존된 도시 경관 자체로 높은 가치를 인정받고 있습니다.",
+      "getting": "로텐부르크로 가는 직행 장거리 열차는 없으며, 여행자들은 슈타이나흐에서 지선 열차로 환승해 도착하게 됩니다. 대부분의 여정은 북쪽에서 올 경우 뷔르츠부르크를, 남쪽에서 올 경우 안스바흐를 거쳐 마지막으로 짧은 구간을 환승하는 식으로 이루어집니다. 프랑크푸르트 공항(FRA)이 가장 흔히 이용되는 국제 관문이며, 뷔르츠부르크와 슈타이나흐 환승을 포함한 전체 기차 여정은 약 3~3.5시간이 소요됩니다. 자동차로는 A7 고속도로를 이용해 같은 경로를 약 2시간 만에 주파할 수 있습니다.",
+      "days": "성벽과 구시가지의 주요 명소를 둘러보는 데는 하루면 충분하지만, 하룻밤 묵으면 당일치기 관광객들이 빠져나간 이른 아침과 저녁의 한적한 자갈길 풍경을 즐길 수 있어, 일반적으로는 1박 2일에서 2박 3일 정도가 추천됩니다."
+    },
+    "ja": {
+      "blurb": "ローテンブルク・オプ・デア・タウバーは、中世の城壁が旧市街をぐるりと完全に取り囲んだまま残る、数少ないドイツの町のひとつです。赤い屋根の木組みの家々が織りなす町並みを見下ろしながら、城壁の遊歩道を一周することができます。ロマンチック街道で最も有名な町であり、際立った単一の名所というより、ゴシックとルネサンスの面影を残す町並みそのものが魅力となっています。",
+      "getting": "ローテンブルクには長距離列車の直通路線がなく、シュタイナッハでローカル線に乗り換えてアクセスするのが基本です。北からはヴュルツブルク経由、南からはアンスバッハ経由で向かい、最後にシュタイナッハで乗り換えるルートがほとんどです。国際線の玄関口としてはフランクフルト空港(FRA)が最も利用されており、ヴュルツブルクとシュタイナッハでの乗り換えを含めた鉄道でのアクセスはおよそ3〜3.5時間。車の場合はA7アウトバーン経由で同ルートを約2時間で結びます。",
+      "days": "城壁巡りと旧市街の主な見どころを巡るだけなら、1日あれば十分です。とはいえ、宿泊すれば早朝や夜、日帰り観光客が去った後の石畳の静けさを味わえるので、一般的には1〜2日の滞在がおすすめです。"
+    },
+    "es": {
+      "blurb": "Rothenburg ob der Tauber es una de las pocas ciudades alemanas donde las murallas medievales aún rodean por completo el casco antiguo, por lo que puedes recorrer toda la pasarela de la muralla y contemplar desde arriba un horizonte de casas entramadas con tejados rojos. Es la parada más conocida de la Ruta Romántica, apreciada no por un monumento en particular, sino por su estampa urbana gótica y renacentista perfectamente conservada.",
+      "getting": "Rothenburg no cuenta con conexión ferroviaria directa de larga distancia: para llegar hay que hacer trasbordo al ramal local en Steinach, y la mayoría de los trayectos pasan por Würzburg si se viene del norte o por Ansbach si se viene del sur, antes de ese último tramo corto. El aeropuerto de Fráncfort (FRA) es la puerta de entrada internacional más utilizada, y el viaje completo en tren, incluidos los cambios en Würzburg y Steinach, dura aproximadamente entre 3 y 3,5 horas; quienes viajan en coche pueden cubrir la misma ruta por la A7 en unas 2 horas.",
+      "days": "Un solo día basta para recorrer las murallas y los puntos destacados del casco antiguo, pero pasar la noche permite ver las calles empedradas de Rothenburg sin las multitudes de excursionistas, tanto al amanecer como al atardecer, por lo que lo habitual es recomendar de 1 a 2 días."
+    },
+    "zh": {
+      "blurb": "罗滕堡（Rothenburg ob der Tauber）是德国少数几个中世纪城墙仍完整环绕老城的小镇之一，游客可以沿着城墙步道走完全程，俯瞰红瓦屋顶、木筋墙房屋鳞次栉比的天际线。作为浪漫之路上最负盛名的一站，它的魅力并不在于某一处单一景点，而在于整座保存完好的哥特与文艺复兴风格古城风貌。",
+      "getting": "罗滕堡没有直达的长途铁路线：游客需要在施泰纳赫（Steinach）换乘当地支线才能抵达，大多数行程会先经由北面的维尔茨堡（Würzburg）或南面的安斯巴赫（Ansbach），再转乘最后一小段支线。法兰克福机场（FRA）是最常用的国际入境口岸，全程火车（包括在维尔茨堡和施泰纳赫的换乘）大约需要3到3.5小时；自驾的话，走A7高速公路走同样的路线约需2小时。",
+      "days": "一天时间足以走完城墙并游览老城的主要景点，但如果能住上一晚，就能在清晨或傍晚游客散去之后，欣赏到罗滕堡鹅卵石街道的宁静一面，因此通常建议安排1到2天的行程。"
+    }
   }
 }

@@ -3034,6 +3034,24 @@
   "reasonKo": "박물관 간판과 건축물이 일치",
   "at": "2026-08-15T13:10:58.962Z"
  },
+ "berlin-bless-restaurant\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Outdoor_tables_of_the_Bless_restaurant%2C_Hausvogteiplatz_10%2C_Berlin.jpg/3840px-Outdoor_tables_of_the_Bless_restaurant%2C_Hausvogteiplatz_10%2C_Berlin.jpg": {
+  "slug": "berlin-bless-restaurant",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior patio seating of restaurant, representative hero shot",
+  "at": "2026-10-02T14:06:57.636Z"
+ },
+ "berlin-brandenburg-gate\u0001https://upload.wikimedia.org/wikipedia/commons/a/a6/Brandenburger_Tor_abends.jpg": {
+  "slug": "berlin-brandenburg-gate",
+  "verdict": "MATCH",
+  "reason": "publish gate: Iconic illuminated view of Brandenburg Gate at dusk",
+  "at": "2026-10-02T14:00:55.205Z"
+ },
+ "berlin-teufelsberg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Funkturm_Berlin_View_13.jpg/1920px-Funkturm_Berlin_View_13.jpg": {
+  "slug": "berlin-teufelsberg",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Teufelsberg's iconic radar domes and towers",
+  "at": "2026-10-02T14:18:36.060Z"
+ },
  "bhubaneswar-ekamra-haat\u0001https://upload.wikimedia.org/wikipedia/commons/7/75/Odia_Handicraft_At_Ekamra_haat_Bhubaneswar.jpg": {
   "slug": "bhubaneswar-ekamra-haat",
   "verdict": "MATCH",
@@ -3474,6 +3492,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior view of the historic Paul Revere House building",
   "at": "2026-09-12T07:39:18.982Z"
+ },
+ "bremen-bremer-geschichtenhaus-bras-e-v\u0001https://upload.wikimedia.org/wikipedia/commons/8/84/Bremer_Geschichtenhaus_2.jpg": {
+  "slug": "bremen-bremer-geschichtenhaus-bras-e-v",
+  "verdict": "MATCH",
+  "reason": "publish gate: Group in costume at museum entrance with signage",
+  "at": "2026-10-02T14:30:14.420Z"
  },
  "brighton-brighton-i360\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Brighton_i360_with_the_moon_2025-07-02.jpg/3840px-Brighton_i360_with_the_moon_2025-07-02.jpg": {
   "slug": "brighton-brighton-i360",
@@ -5333,6 +5357,18 @@
   "reason": "publish gate: Nighttime canal scene plausible for Colmar's old town",
   "at": "2026-09-10T07:41:01.680Z"
  },
+ "cologne-cologne-cathedral\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Cologne_Germany_Cologne-Cathedral-West-Facade-01.jpg/3840px-Cologne_Germany_Cologne-Cathedral-West-Facade-01.jpg": {
+  "slug": "cologne-cologne-cathedral",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Cologne Cathedral spires among cityscape, recognisable landmark",
+  "at": "2026-10-02T14:05:31.847Z"
+ },
+ "cologne-shrine-of-the-three-kings\u0001https://upload.wikimedia.org/wikipedia/commons/9/99/Cologne_Cathedral_Shrine_of_Magi.jpg": {
+  "slug": "cologne-shrine-of-the-three-kings",
+  "verdict": "MATCH",
+  "reason": "publish gate: Golden reliquary shrine, representative image of Cologne landmark",
+  "at": "2026-10-02T14:23:56.788Z"
+ },
  "cordoba-alcazar-de-los-reyes-cristianos\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Cordoba-6_%2848026780817%29.jpg/1920px-Cordoba-6_%2848026780817%29.jpg": {
   "slug": "cordoba-alcazar-de-los-reyes-cristianos",
   "verdict": "MATCH",
@@ -5711,6 +5747,18 @@
   "reason": "publish gate: Shows Zabeel Palace gate archway in Downtown Dubai plausibly",
   "at": "2026-09-15T07:48:21.928Z"
  },
+ "dresden-dresden-zwinger\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2006-07-30_Zwinger_dresden2.jpg/1920px-2006-07-30_Zwinger_dresden2.jpg": {
+  "slug": "dresden-dresden-zwinger",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative view of Zwinger courtyard with fountains",
+  "at": "2026-10-02T14:07:55.421Z"
+ },
+ "dresden-kunsthofpassage-dresden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dresden_Kunsthofpassage_09_45_16_782000.jpeg/3840px-Dresden_Kunsthofpassage_09_45_16_782000.jpeg": {
+  "slug": "dresden-kunsthofpassage-dresden",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows distinctive Kunsthofpassage courtyard facade with gold art installation",
+  "at": "2026-10-02T14:25:01.286Z"
+ },
  "dubai-al-bastakiya\u0001https://upload.wikimedia.org/wikipedia/commons/9/95/Camello_y_campamento%2C_Al_Bastakiya%2C_Dubai%2C_2009-11-23%2C_DD_8878.jpg": {
   "slug": "dubai-al-bastakiya",
   "verdict": "MATCH",
@@ -6013,6 +6061,18 @@
   "reasonKo": "실리만홀의 독특한 빅토리아 양식 건축",
   "at": "2026-08-12T14:03:03.178Z"
  },
+ "dusseldorf-hofgarten\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Hofgarten_in_D%C3%BCsseldorf.jpg/3840px-Hofgarten_in_D%C3%BCsseldorf.jpg": {
+  "slug": "dusseldorf-hofgarten",
+  "verdict": "MATCH",
+  "reason": "publish gate: Park with path, trees, benches matches Hofgarten setting",
+  "at": "2026-10-02T14:13:42.312Z"
+ },
+ "dusseldorf-stadtgraben-konigsallee\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/D%C3%BCsseldorf_-_Altstadt_-_Stadtgraben_an_der_K%C3%B6nigsallee_-_panoramio.jpg/3840px-D%C3%BCsseldorf_-_Altstadt_-_Stadtgraben_an_der_K%C3%B6nigsallee_-_panoramio.jpg": {
+  "slug": "dusseldorf-stadtgraben-konigsallee",
+  "verdict": "MATCH",
+  "reason": "publish gate: Canal, trees, buildings - plausible Stadtgraben Düsseldorf view",
+  "at": "2026-10-02T14:28:31.651Z"
+ },
  "east-coast-national-museum-of-singapore\u0001https://upload.wikimedia.org/wikipedia/commons/d/de/National_Museum_of_Singapore_%28131537%29.jpg": {
   "slug": "east-coast-national-museum-of-singapore",
   "verdict": "MATCH",
@@ -6246,6 +6306,18 @@
   "reason": "event-mode back-audit: Concert stage photo of BTS performers, correct event type",
   "at": "2026-08-07T13:03:11.527Z"
  },
+ "frankfurt-main-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Westhafen_Tower_with_river_Main_-_Frankfurt_-_Germany_-_04.jpg/3840px-Westhafen_Tower_with_river_Main_-_Frankfurt_-_Germany_-_04.jpg": {
+  "slug": "frankfurt-main-tower",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Main Tower skyscraper in Frankfurt skyline",
+  "at": "2026-10-02T14:04:02.688Z"
+ },
+ "frankfurt-palmengarten-frankfurt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Frankfurt_am_Main%2C_Palmengarten_Frankfurt%2C_Tropicarium_%28entrance_hall%29.jpg/3840px-Frankfurt_am_Main%2C_Palmengarten_Frankfurt%2C_Tropicarium_%28entrance_hall%29.jpg": {
+  "slug": "frankfurt-palmengarten-frankfurt",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior greenhouse with globe sculpture, representative of Palmengarten",
+  "at": "2026-10-02T14:23:05.196Z"
+ },
  "fremantle-fremantle-prison\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Freo_prison_WMAU_gnangarra-131.jpg/1920px-Freo_prison_WMAU_gnangarra-131.jpg": {
   "slug": "fremantle-fremantle-prison",
   "verdict": "MATCH",
@@ -6431,6 +6503,12 @@
   "verdict": "MATCH",
   "reason": "release check: Genuine yatai food stall scene, plausible Fukuoka night market venue",
   "at": "2026-08-11T04:11:57.794Z"
+ },
+ "fussen-hohes-schloss\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hohes-Schloss-Fuessen-JR-E-5578-2021-07-04.jpg/3840px-Hohes-Schloss-Fuessen-JR-E-5578-2021-07-04.jpg": {
+  "slug": "fussen-hohes-schloss",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows castle walls and courtyard path, representative view",
+  "at": "2026-10-02T14:16:13.889Z"
  },
  "gangneung-anmok-beach\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Anmok_beach_on_September_7th%2C_2017.jpg/3840px-Anmok_beach_on_September_7th%2C_2017.jpg": {
   "slug": "gangneung-anmok-beach",
@@ -7300,6 +7378,18 @@
   "reason": "Cave interior with stalactites, tourists, Ha Long Bay",
   "at": "2026-07-25T02:43:34.668Z"
  },
+ "hamburg-miniatur-wunderland\u0001https://upload.wikimedia.org/wikipedia/commons/f/fc/Miniatur_wunderland.jpg": {
+  "slug": "hamburg-miniatur-wunderland",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior building with Miniatur Wunderland sign, authentic facade",
+  "at": "2026-10-02T14:02:47.580Z"
+ },
+ "hamburg-speicherstadt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Speicherstadt_abends.jpg/1920px-Speicherstadt_abends.jpg": {
+  "slug": "hamburg-speicherstadt",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative night view of Speicherstadt warehouses and canal",
+  "at": "2026-10-02T14:21:52.281Z"
+ },
  "hangzhou-leifeng-pagoda\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Leifeng_Pagoda_DJI_0593_%282%29.jpg/1920px-Leifeng_Pagoda_DJI_0593_%282%29.jpg": {
   "slug": "hangzhou-leifeng-pagoda",
   "verdict": "MATCH",
@@ -7586,6 +7676,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Park garden with trees, flowers, plausible for Zhaolin Park",
   "at": "2026-09-13T07:58:10.894Z"
+ },
+ "heidelberg-heidelberg-castle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Heidelberg-2726936.jpg/1920px-Heidelberg-2726936.jpg": {
+  "slug": "heidelberg-heidelberg-castle",
+  "verdict": "MATCH",
+  "reason": "publish gate: Recognizable exterior view of Heidelberg Castle surrounded by trees",
+  "at": "2026-10-02T14:09:26.100Z"
  },
  "hiroshima-atomic-bomb-dome\u0001https://fastly.4sqi.net/img/general/original/543114558_1vryFPc80PrOjew5pc6eZ_HXr101udgJoEop9uVvXhE.jpg": {
   "slug": "hiroshima-atomic-bomb-dome",
@@ -11964,6 +12060,18 @@
   "reason": "width upgrade: Paul Ricard circuit grandstands with crowd, matches event venue",
   "at": "2026-08-15T20:34:42.490Z"
  },
+ "leipzig-leipzig-panometer\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/LE-Connewitz_Gasometer_I_Panometer-01.jpg/1920px-LE-Connewitz_Gasometer_I_Panometer-01.jpg": {
+  "slug": "leipzig-leipzig-panometer",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Panometer building exterior with sign, representative hero",
+  "at": "2026-10-02T14:29:30.457Z"
+ },
+ "leipzig-stadtgeschichtliches-museum-leipzig-altes-rathaus\u0001https://upload.wikimedia.org/wikipedia/commons/b/b1/Eingang_stadtgeschichtliches_Museum_Leipzig_%28altes_Rathaus%29_-_panoramio.jpg": {
+  "slug": "leipzig-stadtgeschichtliches-museum-leipzig-altes-rathaus",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior staircase with lion statue, plausible museum interior",
+  "at": "2026-10-02T14:14:36.726Z"
+ },
  "lijiang-blue-moon-valley\u0001https://upload.wikimedia.org/wikipedia/commons/3/3d/%E7%8E%89%E9%BE%99%E9%9B%AA%E5%B1%B1_%E8%93%9D%E6%9C%88%E8%B0%B7_Blue_Moon_Valley_-_panoramio.jpg": {
   "slug": "lijiang-blue-moon-valley",
   "verdict": "MATCH",
@@ -14069,6 +14177,18 @@
   "reason": "release check: Bandra-Worli Sea Link bridge, unrelated to a trendy venue",
   "at": "2026-08-11T04:13:25.087Z"
  },
+ "munich-deutsches-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Deutsches_Museum_Portrait_4.jpg/1920px-Deutsches_Museum_Portrait_4.jpg": {
+  "slug": "munich-deutsches-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Recognizable exterior of Deutsches Museum with entrance signage visible",
+  "at": "2026-10-02T14:20:01.585Z"
+ },
+ "munich-nymphenburg-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Image-Schloss_Nymphenburg_Munich_CC_edit3.jpg/1920px-Image-Schloss_Nymphenburg_Munich_CC_edit3.jpg": {
+  "slug": "munich-nymphenburg-palace",
+  "verdict": "MATCH",
+  "reason": "publish gate: Full facade view of Nymphenburg Palace, representative hero shot",
+  "at": "2026-10-02T14:02:01.375Z"
+ },
  "nagoya-asian-games-2026\u0001https://upload.wikimedia.org/wikipedia/commons/0/09/Asian_Games_Hangzhou_2023_-_19.jpg": {
   "slug": "nagoya-asian-games-2026",
   "verdict": "MISMATCH",
@@ -15323,6 +15443,18 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior storefront with venue name, plausible night shot",
   "at": "2026-08-21T09:11:33.943Z"
+ },
+ "nuremberg-imperial-castle-of-nuremberg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/View_of_the_Pentagonal_tower%2C_the_Imperial_Stables_and_Luginsland_from_the_Nuremberg_Castle._Germany.jpg/3840px-View_of_the_Pentagonal_tower%2C_the_Imperial_Stables_and_Luginsland_from_the_Nuremberg_Castle._Germany.jpg": {
+  "slug": "nuremberg-imperial-castle-of-nuremberg",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Nuremberg Imperial Castle with city",
+  "at": "2026-10-02T14:10:49.785Z"
+ },
+ "nuremberg-memorium-nuremberg-trials\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Nuremberg_-_justice_palace_2012_%28aka%29.jpg/1920px-Nuremberg_-_justice_palace_2012_%28aka%29.jpg": {
+  "slug": "nuremberg-memorium-nuremberg-trials",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Nuremberg courthouse building, representative venue view",
+  "at": "2026-10-02T14:26:20.658Z"
  },
  "nusa-penida-broken-beach\u0001https://upload.wikimedia.org/wikipedia/commons/6/65/Nusa_Penida_-_Bali_-_Broken_Beach.jpg": {
   "slug": "nusa-penida-broken-beach",
@@ -17504,6 +17636,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Iconic Villa Borghese gate entrance, representative of the site",
   "at": "2026-09-20T07:59:05.831Z"
+ },
+ "rothenburg-ob-der-tauber-stadtmauer-rothenburg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Rothenburg_ob_der_Tauber%2C_Stadtmauer_und_Haus_Trompeterg%C3%A4sschen_6.jpg/3840px-Rothenburg_ob_der_Tauber%2C_Stadtmauer_und_Haus_Trompeterg%C3%A4sschen_6.jpg": {
+  "slug": "rothenburg-ob-der-tauber-stadtmauer-rothenburg",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows town wall and buildings in Rothenburg ob der Tauber",
+  "at": "2026-10-02T14:17:23.759Z"
  },
  "saadiyat-island-hudayriyat-island\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hudayriyat_Island_beach_at_night.jpg/3840px-Hudayriyat_Island_beach_at_night.jpg": {
   "slug": "saadiyat-island-hudayriyat-island",
@@ -20323,6 +20461,18 @@
   "verdict": "MATCH",
   "reason": "event-mode back-audit: Motorcycles lined up, representative of motorcycle rally event",
   "at": "2026-08-07T13:05:03.403Z"
+ },
+ "stuttgart-mercedes-benz-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mercedes-Benz_Museum_201312_08_blue_hour.jpg/1920px-Mercedes-Benz_Museum_201312_08_blue_hour.jpg": {
+  "slug": "stuttgart-mercedes-benz-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Iconic exterior night shot of Mercedes-Benz Museum, Stuttgart",
+  "at": "2026-10-02T14:12:17.613Z"
+ },
+ "stuttgart-old-castle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Aerial_image_of_the_Old_Castle_Stuttgart_%28view_from_the_east%29.jpg/3840px-Aerial_image_of_the_Old_Castle_Stuttgart_%28view_from_the_east%29.jpg": {
+  "slug": "stuttgart-old-castle",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view clearly shows Old Castle in Stuttgart",
+  "at": "2026-10-02T14:27:24.678Z"
  },
  "sukhothai-ramkhamhaeng-national-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ramkhamhaeng_Museum%2C_Sukhothai_%2846732645695%29.jpg/3840px-Ramkhamhaeng_Museum%2C_Sukhothai_%2846732645695%29.jpg": {
   "slug": "sukhothai-ramkhamhaeng-national-museum",
