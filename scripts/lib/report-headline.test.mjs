@@ -21,8 +21,15 @@ test('a bot wave is flagged on the all-traffic line, not the headline', () => {
   // 09-18: 7,498 visits, 7,508 pageviews, 41 people.
   const L = headlineLines({ visits: 7498, pageviews: 7508 }, pl);
   assert.match(L[0], /^👥 실제 방문자 41명/);
-  assert.match(L[1], /7,498회.*⚠️ 봇 급증$/);
-  assert.match(L[2], /봇으로 크게 부풀었습니다/);
+  assert.match(L[1], /7,498회.*⚠️ 자동 접속 급증$/);
+  assert.match(L[2], /사람이 아닌 접속\(봇·자동 검사\)으로 크게 부풀었습니다/);
+});
+
+test('the flag names the shape, not a culprit — 10-01 was our own checks, not bots', () => {
+  // 2,688 visits, 2,863 pageviews, 45 readers: four runner runs and the desk's.
+  const all = headlineLines({ visits: 2688, pageviews: 2863 }, { visitors: 45, pageviews: 53 }).join('\n');
+  assert.match(all, /자동 접속 급증/);
+  assert.doesNotMatch(all, /봇 급증|봇으로 크게/);
 });
 
 test('either collector failing says which number is missing', () => {

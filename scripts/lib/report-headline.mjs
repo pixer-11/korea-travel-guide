@@ -7,6 +7,11 @@
 // The owner was asked four times to flip the order, and the wrong reason sat
 // above every alarm. Bot waves are still flagged on the Cloudflare line
 // (lib/bot-surge.mjs; 09-18/19 read 7,498 and 6,125 against 41 and 34 people).
+//
+// The flag says "automated traffic", not "bots": on 2026-10-01 it fired on
+// 2,688 visits that were mostly our own live checks, and "봇으로 부풀었습니다"
+// named a culprit nobody had measured. The shape (many visits per person, one
+// page each) tells automated from human — it cannot tell whose automation.
 import { botSurge } from './bot-surge.mjs';
 
 /**
@@ -20,8 +25,8 @@ export function headlineLines(cf, pl) {
     L.push(`👥 실제 방문자 ${pl.visitors.toLocaleString()}명 · 페이지뷰 ${pl.pageviews.toLocaleString()}`);
     if (cf) {
       const surge = botSurge(cf, pl);
-      L.push(`   └ 전체 접속(봇·본인 포함) ${cf.visits.toLocaleString()}회 · 페이지뷰 ${cf.pageviews.toLocaleString()}${surge.suspect ? ' ⚠️ 봇 급증' : ''}`);
-      if (surge.suspect) L.push(`   └ ⚠️ 전체 접속이 봇으로 크게 부풀었습니다 (${surge.why}) — 규모는 맨 위 실제 방문자로 보세요`);
+      L.push(`   └ 전체 접속(봇·본인 포함) ${cf.visits.toLocaleString()}회 · 페이지뷰 ${cf.pageviews.toLocaleString()}${surge.suspect ? ' ⚠️ 자동 접속 급증' : ''}`);
+      if (surge.suspect) L.push(`   └ ⚠️ 전체 접속이 사람이 아닌 접속(봇·자동 검사)으로 크게 부풀었습니다 (${surge.why}) — 규모는 맨 위 실제 방문자로 보세요`);
     } else {
       L.push('   └ ⚠️ 전체 접속(Cloudflare) 수집 실패');
     }

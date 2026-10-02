@@ -35,7 +35,9 @@ const deslug = (s) => s.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase
 import { readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { bingSplit } from './lib/bing-dead-queries.mjs';
+import { bingLines } from './lib/bing-report.mjs';
+import { audienceLines } from './lib/report-audience.mjs';
+import { botSurge } from './lib/bot-surge.mjs';
 const readJson = (rel) => {
   try { return JSON.parse(readFileSync(fileURLToPath(new URL(rel, import.meta.url)), 'utf8')); }
   catch { return {}; }
@@ -109,9 +111,11 @@ async function report(text) {
 // Both collectors RETURN data (or null); main() composes ONE Telegram message.
 // Why two sources at all: Plausible is the real-visitor count (it skips bots and
 // the owner's own visits) and the only one with behaviour — bounce, dwell time,
-// affiliate clicks, referrer; Cloudflare RUM sees all traffic, bots included, and
-// gives the country and page tables. Merging gives one honest picture instead of
-// two messages the reader has to reconcile (headline order: lib/report-headline.mjs).
+// affiliate clicks, referrer, and since 10-02 the readers' countries and pages;
+// Cloudflare RUM sees all traffic, bots and automated browsers included, and
+// its own country and page tables are shown only to explain a surge. Merging
+// gives one honest picture instead of two messages the reader has to reconcile
+// (headline order: lib/report-headline.mjs; lists: lib/report-audience.mjs).
 async function cfReport() {
   if (!CF_API_TOKEN || !CF_ACCOUNT_ID) {
     console.error('CF_API_TOKEN / CF_ACCOUNT_ID missing.');
@@ -220,9 +224,29 @@ async function plausibleViaPublicDashboard() {
     const [g] = await plaPublic({ metrics: ['events'], filters: [['is', 'event:goal', ['Affiliate click']]] });
     clicks = g?.metrics?.[0] ?? 0;
   } catch (e) { console.log('affiliate-click metric skipped:', e.message); }
+  // The readers' countries (ISO-2 codes, like Cloudflare's) — the report's
+  // country line was Cloudflare's until 10-02, and on 10-01 it listed our own
+  // live checks under "real visitors" (lib/report-audience.mjs).
+  let countries = '';
+  try {
+    const rows = await plaPublic({ metrics: ['visitors'], dimensions: ['visit:country'], pagination: { limit: 5 } });
+    countries = rows.map((c) => `${koCountry(c.dimensions[0])} ${c.metrics[0]}`).join(' · ');
+  } catch (e) { console.log('country breakdown skipped:', e.message); }
+  // Google, every day, zero included: it left the top five sources on 09-04 and
+  // nothing in the report showed it for 28 days.
+  let google = null;
+  try {
+    const isGoogle = [['is', 'visit:source', ['Google']]];
+    const [gd] = await plaPublic({ metrics: ['visitors'], filters: isGoogle });
+    const [g28] = await plaPublic({
+      metrics: ['visitors'], filters: isGoogle,
+      date_range: [`${isoDay(-28).slice(0, 10)}T00:00:00+00:00`, `${dayLabel}T23:59:59+00:00`],
+    });
+    google = { day: gd?.metrics?.[0] ?? 0, d28: g28?.metrics?.[0] ?? 0 };
+  } catch (e) { console.log('google-source metric skipped:', e.message); }
   const [visitors = 0, pageviews = 0, bounce = 0, dur = 0] = agg?.metrics ?? [];
   return {
-    visitors, pageviews, bounce, dur: Math.round(dur), clicks,
+    visitors, pageviews, bounce, dur: Math.round(dur), clicks, countries, google,
     topSrc: sources.map((x) => `${koSource(x.dimensions[0])} ${x.metrics[0]}`).join(' · ') || '—',
     topPages: pages.map((p) => `  • ${pageLabel(p.dimensions[0])} — ${p.metrics[0]}`).join('\n') || '  —',
   };
@@ -286,29 +310,23 @@ async function bingReport() {
   // `https://example.com`, and Bing answers 400 for a property you do not own,
   // which reads as a broken key rather than a wrong site (2026-09-09).
   const site = 'https://wanderatlasguides.com';
+  const call = async (method) => {
+    const r = await fetch(`https://ssl.bing.com/webmaster/api.svc/json/${method}`
+      + `?siteUrl=${encodeURIComponent(site)}&apikey=${encodeURIComponent(key)}`);
+    if (!r.ok) throw new Error(`Bing ${method} ${r.status}`);
+    return (await r.json()).d ?? [];
+  };
   try {
-    const url = `https://ssl.bing.com/webmaster/api.svc/json/GetQueryStats`
-      + `?siteUrl=${encodeURIComponent(site)}&apikey=${encodeURIComponent(key)}`;
-    const r = await fetch(url);
-    if (!r.ok) return { error: `Bing ${r.status}` };
-    const rows = (await r.json()).d ?? [];
+    // Weekly bundles of queries, summed since Bing began recording — NOT a day,
+    // and not a moving window: seven reports in a row (09-25..10-01) carried the
+    // same figures. The block dates itself and leads with the daily totals
+    // instead (lib/bing-report.mjs; dead-query guard in lib/bing-dead-queries.mjs).
+    const rows = await call('GetQueryStats');
     if (!rows.length) return { error: 'Bing 응답에 검색어가 없다' };
-    // The API returns a rolling window, not one day — say so rather than let the
-    // number read as "today", which is how a 3-month total becomes a daily brag.
-    // 2026-09-21: 노출의 79%가 클릭 0인 검색어 8개에서 왔다(하나는 3위에서 6,147회).
-    // 그걸 섞어 세면 CTR 1.7%로 보이지만 실질은 8.4%다. lib/bing-dead-queries.mjs 참조.
-    const split = bingSplit(rows);
-    const top = [...split.liveRows]
-      .sort((a, b) => (b.Impressions ?? 0) - (a.Impressions ?? 0))
-      .slice(0, 3)
-      .map((x) => `${String(x.Query).slice(0, 24)} ${x.Impressions}회·${Math.round(x.AvgImpressionPosition ?? 0)}위`);
-    const pageOneImp = split.pageOne.reduce((a, x) => a + (x.Impressions ?? 0), 0);
-    return {
-      queries: rows.length,
-      imp: split.live.imp, clicks: split.live.clicks, ctr: split.live.ctr,
-      dead: split.dead, byLang: split.byLang,
-      top: top.join(' · '), pageOne: split.pageOne.length, pageOneImp,
-    };
+    let daily = null;
+    try { daily = await call('GetRankAndTrafficStats'); }
+    catch (e) { console.log('bing daily totals skipped:', e.message); }
+    return { lines: bingLines(rows, daily) };
   } catch (e) {
     return { error: e.message.slice(0, 80) };
   }
@@ -340,25 +358,14 @@ async function main() {
     L.push(`🖱️ 제휴 링크 클릭 ${pl.clicks}회`);
   }
 
-  L.push('');
-  if (cfOk) L.push(`🌍 상위 국가: ${cf.countries}`);
-  if (plOk) L.push(`🌐 유입원: ${pl.topSrc}`);
+  // Readers' countries and pages (Plausible); Cloudflare's lists only on a surge
+  // day or when Plausible failed, and labelled — lib/report-audience.mjs.
+  const surge = cfOk && plOk ? botSurge(cf, pl).suspect : false;
+  L.push(...audienceLines(cfOk ? cf : null, plOk ? pl : null, surge));
 
-  L.push('', '🔥 인기 페이지');
-  L.push(cfOk ? cf.pages : pl.topPages);
-
-  // Bing sends this site more search traffic than Google does. Its own numbers
-  // are a rolling window from the Webmaster API, so they are labelled as such.
-  if (bing && !bing.error) {
-    L.push('', `🅱️ 빙 검색 (최근 구간 누적): 실질 노출 ${bing.imp.toLocaleString()} · 클릭 ${bing.clicks} · CTR ${(bing.ctr * 100).toFixed(1)}%`);
-    if (bing.dead?.n) {
-      L.push(`   └ ⚠️ 클릭 0 인 대형 검색어 ${bing.dead.n}개(노출 ${bing.dead.imp.toLocaleString()})를 제외한 수치입니다 — 3위에서 수천 번 보이고 한 번도 안 눌리는 것은 사람이 본 흔적이 아닙니다`);
-    }
-    if (bing.byLang?.length) {
-      L.push(`   └ 언어별 CTR: ${bing.byLang.map((x) => `${x.lang} ${(x.ctr * 100).toFixed(1)}%`).join(' · ')} — 위가 높은 쪽이 번역층이 값을 하는 자리입니다`);
-    }
-    L.push(`   └ 5위 안 검색어 ${bing.pageOne}개(노출 ${bing.pageOneImp.toLocaleString()}) — 제목·설명이 값을 하는 자리는 여기뿐입니다`);
-    if (bing.top) L.push(`   └ 상위: ${bing.top}`);
+  // Bing sends this site more search traffic than Google does.
+  if (bing?.lines?.length) {
+    L.push('', ...bing.lines);
   } else if (bing?.error) {
     L.push('', `⚠️ 빙 수집 실패: ${bing.error}`);
   }
