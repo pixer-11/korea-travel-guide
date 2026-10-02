@@ -26,6 +26,21 @@ test('no live check reads from one desk', () => {
   assert.deepEqual(bad, [], 'use ROOT from lib.mjs (the checkout), not a Windows path');
 });
 
+// 10-01's "bot surge" (2,688 visits against 45 readers) was these checks: the
+// analytics block lives in lib.mjs's launch(), so a check that starts its own
+// browser is counted as a reader by every analytics the site runs.
+test('every check opens its browser through lib.mjs launch()', () => {
+  const own = files.filter((f) => f !== 'lib.mjs'
+    && /from\s+['"]playwright|chromium\s*\.\s*launch|\.launchPersistentContext/.test(readFileSync(DIR + f, 'utf8')));
+  assert.deepEqual(own, [], 'import { launch } from ./lib.mjs — it blocks Plausible, GA4 and Cloudflare Web Analytics');
+  const lib = readFileSync(DIR + 'lib.mjs', 'utf8');
+  assert.match(lib, /isAnalyticsRequest/, 'lib.mjs must route through lib/live-analytics-block.mjs');
+  assert.match(lib, /ctx\.route\(BLOCK,/, 'the block must be installed on every context launch() hands out');
+  // The route alone let half of Cloudflare's reports through (sendBeacon on leaving a page).
+  assert.match(lib, /navigator\.sendBeacon = /, 'the in-page sendBeacon lock is the half the route cannot hold');
+  assert.match(lib, /CF_RUM_SOURCE/);
+});
+
 test('every check run-all lists exists, and every check is listed', () => {
   const runAll = readFileSync(DIR + 'run-all.mjs', 'utf8');
   const listed = [...runAll.matchAll(/\['([\w-]+\.mjs)'/g)].map((m) => m[1]);

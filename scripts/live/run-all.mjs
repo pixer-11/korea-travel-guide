@@ -23,6 +23,7 @@ fs.mkdirSync(OUT, { recursive: true });
 
 // Cheapest first, so a dead site fails fast; the sweeps last.
 const CHECKS = [
+  ['analytics-silence.mjs', '검사가 방문자 통계에 안 잡히는지'],
   ['country-coverage.mjs', '나라별 허브 데이터(경고만)'],
   ['header-nav.mjs', '상단 메뉴'],
   ['regressions-2026-10-01.mjs', '10-01 회귀 묶음'],
