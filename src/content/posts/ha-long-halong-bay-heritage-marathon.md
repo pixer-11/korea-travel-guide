@@ -1,8 +1,8 @@
 ---
-title: 'Halong Bay Heritage Marathon: Dates, Tickets & Venue (Ha Long)'
+title: 'Halong Bay Heritage Marathon: Dates, Tickets & Venue (Ha Long Bay)'
 description: The Halong Bay Heritage Marathon in Ha Long, Vietnam, is set for November 22, 2026. It's an AIMS-affiliated international race along the Halong Bay coastline.
 country: Vietnam
-region: Ha Long
+region: Ha Long Bay
 category: event
 pubDate: '2026-10-01'
 eventStartDate: '2026-11-22'

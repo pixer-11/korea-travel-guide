@@ -18,6 +18,7 @@
   "east-coast-sri-srinivasa-perumal-temple",
   "fujairah-shees-park",
   "goyang-gyeongdong-market",
+  "ha-long-halong-bay-heritage-marathon",
   "izmir-ephesus-ancient-city",
   "izmir-temple-of-domitian",
   "jordan-hong-kong-heritage-museum",
@@ -45,6 +46,7 @@
   "sheung-wan-graham-street-market",
   "termez-eco-park",
   "tiong-bahru-national-gallery-singapore",
+  "washington-maison-bar-a-vins",
   "xian-ancient-city-wall",
   "xian-emperor-qinshihuang-s-mausoleum-site-museum"
  ],
@@ -53,5 +55,6 @@
   "east-coast-sri-srinivasa-perumal-temple": "2026-09-14: region corrected East Coast -> Little India (397 Serangoon Rd). Slug kept so the live URL does not break.",
   "new-taipei-national-palace-museum": "2026-09-17: region corrected New Taipei -> Taipei (the museum is in Taipei City proper — Shilin / Datong). Slug kept so the live URL does not break.",
   "new-taipei-museum-of-contemporary-art-taipei": "2026-09-17: region corrected New Taipei -> Taipei (the museum is in Taipei City proper — Shilin / Datong). Slug kept so the live URL does not break."
- }
+ },
+ "_note_2026-10-02": "ha-long-halong-bay-heritage-marathon and washington-maison-bar-a-vins: live, indexed posts whose region was a duplicate spelling (Ha Long, Washington) folded into Ha Long Bay / Washington DC. The URL stays; the old region hubs 301 via REGION_ALIAS in astro.config.mjs."
 }

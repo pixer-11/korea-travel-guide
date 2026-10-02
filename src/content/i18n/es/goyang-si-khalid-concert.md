@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: goyang-si-khalid-concert
-srcHash: '8e8970544728'
+srcHash: '917a9692822d'
 title: 'Concierto de Khalid: fechas, entradas y recinto (Goyang-si)'
 description: 'Concierto de Khalid en Goyang-si, Corea del Sur, el 5 de diciembre de 2026: qué es, cuándo y dónde se celebra, y cómo organizar la visita.'
 quickAnswer: El concierto de Khalid está previsto para el 5 de diciembre de 2026 en Kintex, en Goyang-si, Corea del Sur, al noroeste de Seúl. Kintex es un enorme complejo de convenciones y exposiciones al que se llega directamente desde la estación de Kintex, en la línea Ilsan, por lo que el recinto resulta fácil de alcanzar incluso alojándose en el centro de Seúl. Antes de organizar el viaje en torno a esta fecha, conviene confirmar el horario y las entradas en el sitio oficial.

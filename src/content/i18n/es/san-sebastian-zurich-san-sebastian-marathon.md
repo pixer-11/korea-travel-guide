@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: san-sebastian-zurich-san-sebastian-marathon
-srcHash: '7704a6a57f03'
+srcHash: 'eeebaeb23c92'
 title: 'Zurich Maratón de San Sebastián: fechas, inscripciones y sede (San Sebastián)'
 description: El Zurich Maratón de San Sebastián (Donostia) se celebra el 22 de noviembre de 2026.
 quickAnswer: El Zurich Maratón de San Sebastián (Donostia) se celebra el 22 de noviembre de 2026. Llega así a su 47.ª edición uno de los maratones más antiguos de España, que discurre por un recorrido urbano y llano junto a la costa de la ciudad. Inscríbase en la web oficial del maratón y consulte allí la hora de salida, la sede y los detalles de la recogida de dorsales. Además, conviene reservar alojamiento en San Sebastián con antelación.

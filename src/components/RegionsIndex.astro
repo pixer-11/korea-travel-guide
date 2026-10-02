@@ -4,79 +4,684 @@ import { heroOf, TOOL_OG } from '../lib/toolOgPhoto.mjs';
 import { tileSize, pickRepHeroUrl, regionCoverUrl } from '../lib/repImage';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Newsletter from './Newsletter.astro';
+import Flag from './Flag.astro';
 import { slugifyRegion } from '../lib/slug';
+import { siteHref } from '../lib/urls.mjs';
 import { SITE } from '../siteConfig';
+import countriesData from '../../data/countries.json';
+import { orderedContinents, continentLabel } from '../lib/continents';
+import { whenToGoCountryPages } from '../lib/when-to-go-paths.mjs';
 import { useTranslations, localizePath, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 
-// Shared /regions index for en + /[lang]/regions.
+// Shared /regions index for en + /[lang]/regions — owner's mock-up "전체 지역
+// 개선안" (2026-10-02). Every city and district we cover, findable by name,
+// initial consonant (ko), English name or country; grouped by country or
+// listed A–Z/가나다; districts of a few big cities folded into the city's
+// card. The old page was one photo grid sorted by English name, which read as
+// random in every other language and gave no country, so "Jordan" (a Hong
+// Kong district) looked like the country. Counts are the live posts at build.
 interface Props { lang: Lang }
 const { lang } = Astro.props;
 const t = useTranslations(lang);
+const nf = new Intl.NumberFormat(lang === 'zh' ? 'zh-CN' : lang);
+const coll = new Intl.Collator(lang === 'zh' ? 'zh-CN' : lang);
 
 const posts = await getCollection('posts', ({ data }) => !data.draft);
-// pickRepHeroUrl, not "the first post that happens to have a photo". Taking the
-// first one put an EVENT hero on 26 of 174 city tiles: "Madrid" showed The
-// Weeknd on stage in MILAN, "Istanbul" a studio portrait of Amr Diab holding
-// trophies, "Foxborough" BTS in Los Angeles. A concert photograph is a picture
-// of a performer and says nothing about the destination — which is exactly the
-// rule repImage.ts already encodes and which the country hubs, its only caller,
-// have been following correctly all along.
-//
-// Same shape as the Alhambra captioned "South Korea": an image chosen by one
-// piece of code sitting under a label chosen by another. The fix is not a
-// better heuristic here, it is having one picker.
-const counts = new Map<string, number>();
+// pickRepHeroUrl, not "the first post that happens to have a photo": taking
+// the first one put concert photos on 26 of 174 city tiles (Madrid showed The
+// Weeknd on stage in Milan). One picker for every city/country tile.
 const byRegion = new Map<string, typeof posts>();
 for (const p of posts) {
-  counts.set(p.data.region, (counts.get(p.data.region) ?? 0) + 1);
   const list = byRegion.get(p.data.region) ?? [];
   list.push(p);
   byRegion.set(p.data.region, list);
 }
-const regionImg = new Map<string, string>();
-for (const [region, list] of byRegion) {
-  const url = pickRepHeroUrl(list) || regionCoverUrl(region);
-  // tileSize on the RAW stored url — repImage returns it untransformed on
-  // purpose, because hashing a transformed string once produced /wall/ names
-  // that exist nowhere and blacked out every tile.
-  if (url) regionImg.set(region, tileSize(url));
-}
-const regions = [...counts.entries()]
-  .map(([name, count]) => ({ name, count, img: regionImg.get(name) ?? '' }))
-  .sort((a, b) => a.name.localeCompare(b.name));
+const countryByName = new Map(countriesData.countries.map((c: any) => [c.name, c]));
+const wtgCountries = new Set((await whenToGoCountryPages()).map((c: any) => c.countrySlug));
 
-// Share image: this hub unfurls as a photograph, not the brand card. Ranking
-// its own children by rating put the Colosseum here, on the sibling hub and on
-// the widget page all at once, so the picture is chosen by hand in
-// lib/toolOgPhoto.mjs alongside the other hubs (2026-09-13).
+// Districts shown inside their city's card in the by-country view. A city-state
+// (Hong Kong, Singapore) folds every district into the region named after it;
+// elsewhere only the places that are plainly part of, or the stadium town of,
+// one city. A new district outside this list simply shows as its own card.
+const PARENT: Record<string, string> = {
+  Deira: 'Dubai', Jumeirah: 'Dubai', 'Palm Jumeirah': 'Dubai', 'Dubai Marina': 'Dubai', 'Downtown Dubai': 'Dubai', 'Al Barsha': 'Dubai',
+  'East Rutherford': 'New York', Foxborough: 'Boston',
+  Pasay: 'Manila', Makati: 'Manila', 'Quezon City': 'Manila',
+};
+const CITY_STATES = new Set(['Hong Kong', 'Singapore']);
+
+// Hangul initial consonants, so "ㄱㅈ" finds 경주 and 광저우.
+const CHO = 'ㄱㄲㄴㄷㄸㄹㅁㅂㅃㅅㅆㅇㅈㅉㅊㅋㅌㅍㅎ';
+const FOLD: Record<string, string> = { 'ㄲ': 'ㄱ', 'ㄸ': 'ㄷ', 'ㅃ': 'ㅂ', 'ㅆ': 'ㅅ', 'ㅉ': 'ㅈ' };
+const cho = (s: string) => [...s].map((ch) => {
+  const c = ch.charCodeAt(0) - 0xac00;
+  return c >= 0 && c < 11172 ? CHO[Math.floor(c / 588)] : ch;
+}).join('');
+const fold = (s: string) => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').normalize('NFC').toLowerCase();
+const indexKey = (name: string) => {
+  if (lang === 'ko') { const k = cho(name)[0] ?? ''; return /[ㄱ-ㅎ]/.test(k) ? (FOLD[k] ?? k) : '#'; }
+  if (lang === 'en' || lang === 'es') { const k = name.normalize('NFD').replace(/[\u0300-\u036f]/g, '')[0]?.toUpperCase() ?? ''; return /[A-Z]/.test(k) ? k : '#'; }
+  return '';
+};
+
+const regions = [...byRegion].map(([name, list]) => {
+  const tally = new Map<string, number>();
+  for (const p of list) { const c = (p.data.country ?? 'South Korea').trim(); tally.set(c, (tally.get(c) ?? 0) + 1); }
+  const countryName = [...tally].sort((a, b) => b[1] - a[1])[0][0];
+  const c: any = countryByName.get(countryName) ?? {};
+  const url = pickRepHeroUrl(list) || regionCoverUrl(name);
+  const local = localizePlace(name, lang);
+  const parent = CITY_STATES.has(countryName) && name !== countryName ? countryName : PARENT[name];
+  return {
+    name, local, count: list.length, slug: slugifyRegion(name),
+    country: countryName, countryLocal: localizePlace(countryName, lang), countrySlug: c.slug ?? '', iso2: c.iso2 ?? '',
+    continent: c.continent ?? 'Other', img: url ? tileSize(url) : '',
+    parent: parent && byRegion.has(parent) ? parent : '',
+    key: indexKey(local),
+  };
+});
+// A district whose parent city has no hub stays a city in its own right.
+const childrenOf = new Map<string, typeof regions>();
+for (const r of regions) if (r.parent) (childrenOf.get(r.parent) ?? childrenOf.set(r.parent, []).get(r.parent)!).push(r);
+for (const list of childrenOf.values()) list.sort((a, b) => b.count - a.count || coll.compare(a.local, b.local));
+
+const totalGuides = regions.reduce((s, r) => s + r.count, 0);
+const countryList = [...new Set(regions.map((r) => r.country))].map((name) => {
+  const rs = regions.filter((r) => r.country === name);
+  const c: any = countryByName.get(name) ?? {};
+  return { name, local: localizePlace(name, lang), slug: c.slug ?? '', iso2: c.iso2 ?? '', continent: c.continent ?? 'Other', regions: rs.length, guides: rs.reduce((s, r) => s + r.count, 0) };
+}).sort((a, b) => b.guides - a.guides || coll.compare(a.local, b.local));
+const continents = orderedContinents()
+  .map((k) => ({ name: k, label: continentLabel(t, k), slug: k.toLowerCase().replace(/\s+/g, '-'), regions: regions.filter((r) => r.continent === k).length }))
+  .filter((c) => c.regions > 0);
+const maxCont = Math.max(...continents.map((c) => c.regions));
+const maxCount = Math.max(...regions.map((r) => r.count));
+const top = [...regions].filter((r) => !r.parent).sort((a, b) => b.count - a.count).slice(0, 8);
+const heroPhotos = top.filter((r) => r.img).slice(0, 2);
+const slugOfContinent = (k: string) => k.toLowerCase().replace(/\s+/g, '-');
+const DEEP = 15; // a city with this many guides gets the "well covered" tint
+
+const L = {
+  en: { pill: 'City & region index', accent: '{n} places — where first?', dek: 'Every city and district we cover across {c} countries. Search by name or country, browse by country, and keep the ones you like.', search: 'City, district or country (e.g. Kyoto)', go: 'Search', quick: 'Jump to', byCont: 'By continent', byContHint: 'Tap to filter', sRegions: 'Places', sCountries: 'Countries', sGuides: 'Guides', nPlaces: '{n}', nCountries: '{n}', nGuides: '{n}',
+    topH: 'Most deeply covered', topSub: 'The more guides a city has, the fuller its routes and timing advice.', topCta: 'Itineraries built on these cities →', guidesBig: 'guides', open: 'Guides →', when: 'When to go',
+    browseH: 'Browse every place', browseSub: 'Pick a country, or switch to A–Z. Names that look like something else (Jordan, Central) always show their country.', allCountries: 'All countries', all: 'All', byCountry: 'By country', alpha: 'A–Z', byGuides: 'Most guides', byName: 'Name', fivePlus: '5+ guides only', showing: '{p} places · {g} guides', countryAll: 'All {x} guides →', nG: '{n} guides', regSum: '{r} places · {g} guides', districts: 'Districts', empty: 'Nothing matches that yet.', reset: 'Clear filters', saved: 'Saved places', clearSaved: 'Clear', save: 'Save', unsave: 'Remove',
+    next: [['calendar', 'When to go', 'Monthly weather and crowds — pick the best month.', 'Open the calendar →', '/tools/when-to-go', 'is-green', ''], ['route', 'Itineraries', 'Day-by-day routes built only from verified places.', 'See itineraries →', '/itinerary', 'is-peach', ''], ['plane', 'Flights', 'Compare fares to the city you picked.', 'Compare prices →', '/flights', '', 'Affiliate link']],
+    faqH: 'Questions', faqSub: "Can't find a place? Tell us via", faqLink: 'Contact',
+    faq: [['Why are cities and districts mixed?', 'Places like Hong Kong, Singapore and Dubai are more useful by district, so they have district pages. In the by-country view the districts sit inside the city card.'], ['Some places have only one or two guides', 'Those are places we have just started covering. New guides are added every day, and the counts here update with every build.'], ['Can I search in English?', 'Yes. Every place can be found by its English name, its name in this language, or its country.'], ["The city I want isn't here", 'Tell us through the contact page — requests help decide which cities we cover next.']] },
+  ko: { pill: '도시·지역 색인', accent: '{n}곳, 어디부터 갈까요?', dek: '{c}개국의 도시와 동네를 한곳에 모았어요. 이름이나 초성으로 찾고, 나라별로 훑어보고, 마음에 드는 곳은 담아 두세요.', search: '도시·동네·나라 이름, 초성도 돼요 (예: 교토, ㄱㅈ)', go: '찾기', quick: '바로 가기', byCont: '대륙별로 보기', byContHint: '누르면 바로 걸러져요', sRegions: '지역', sCountries: '나라', sGuides: '가이드', nPlaces: '{n}곳', nCountries: '{n}개국', nGuides: '{n}편',
+    topH: '가장 깊이 다룬 도시', topSub: '가이드가 많은 곳일수록 동선과 시간대 정보가 촘촘해요.', topCta: '이 도시들로 짠 추천 일정 →', guidesBig: '편의 가이드', open: '가이드 보기 →', when: '언제 갈까',
+    browseH: '지역 둘러보기', browseSub: '나라를 고르거나, 가나다순으로 바꿔 보세요. 헷갈리는 이름(조던·센트럴 등)은 항상 나라와 함께 보여 드려요.', allCountries: '전체 나라', all: '전체', byCountry: '나라별', alpha: '가나다순', byGuides: '가이드 많은 순', byName: '이름순', fivePlus: '가이드 5편 이상만', showing: '{p}곳 · 가이드 {g}편', countryAll: '{x} 가이드 전체 →', nG: '가이드 {n}편', regSum: '지역 {r}곳 · 가이드 {g}편', districts: '동네', empty: '조건에 맞는 곳이 아직 없어요.', reset: '필터 초기화', saved: '담아 둔 곳', clearSaved: '비우기', save: '담기', unsave: '빼기',
+    next: [['calendar', '언제 갈까', '월별 날씨와 혼잡도로 가장 좋은 달을 골라요.', '달력 열기 →', '/tools/when-to-go', 'is-green', ''], ['route', '추천 일정', '검증된 장소로만 짠 날짜별 코스를 그대로 따라가요.', '일정 보기 →', '/itinerary', 'is-peach', ''], ['plane', '항공권', '고른 도시로 가는 항공권 가격을 한 번에 비교해요.', '가격 비교하기 →', '/flights', '', '제휴 링크']],
+    faqH: '자주 묻는 질문', faqSub: '찾는 곳이 없다면', faqLink: '문의하기',
+    faq: [['도시와 동네가 섞여 있는 이유가 뭔가요?', '홍콩·싱가포르·두바이처럼 동네 단위로 다닐 때 더 쓸모 있는 곳은 동네별로 나눴어요. 나라별 보기에서는 동네를 도시 카드 안에 묶어서 보여 드려요.'], ['가이드가 1~2편뿐인 곳은 뭔가요?', '새로 다루기 시작한 곳이에요. 가이드는 매일 더해지고, 여기 숫자도 사이트를 새로 만들 때마다 자동으로 바뀌어요.'], ['초성으로도 찾을 수 있나요?', '네. ㄱㅈ처럼 초성만 넣어도 경주·광저우가 나와요. 영어 이름이나 나라 이름으로도 찾을 수 있어요.'], ['찾는 도시가 없어요', '문의하기로 알려 주세요. 요청이 많은 도시부터 다루는 데 참고해요.']] },
+  ja: { pill: '都市・地域の索引', accent: '{n}か所、どこから行く？', dek: '{c}か国の都市と地区をひとまとめに。名前や国で探して、国ごとに眺めて、気になる場所はとっておきましょう。', search: '都市・地区・国の名前（例：京都）', go: '探す', quick: 'すぐ行く', byCont: '大陸別に見る', byContHint: 'タップで絞り込み', sRegions: '地域', sCountries: '国', sGuides: 'ガイド', nPlaces: '{n}か所', nCountries: '{n}か国', nGuides: '{n}本',
+    topH: 'いちばん詳しい都市', topSub: 'ガイドが多い都市ほど、動線や時間帯の情報が細かくなります。', topCta: 'この都市で組んだおすすめ日程 →', guidesBig: '本のガイド', open: 'ガイドを見る →', when: 'いつ行く',
+    browseH: '地域を見てまわる', browseSub: '国を選ぶか、名前順に切り替えてください。紛らわしい名前（ジョーダン、セントラルなど）には必ず国名を添えています。', allCountries: 'すべての国', all: 'すべて', byCountry: '国別', alpha: '名前順', byGuides: 'ガイドが多い順', byName: '名前順', fivePlus: 'ガイド5本以上', showing: '{p}か所 · ガイド {g}本', countryAll: '{x}のガイドをすべて見る →', nG: 'ガイド {n}本', regSum: '地域 {r}か所 · ガイド {g}本', districts: '地区', empty: '条件に合う場所はまだありません。', reset: '絞り込みを解除', saved: 'とっておいた場所', clearSaved: '空にする', save: '保存', unsave: '外す',
+    next: [['calendar', 'いつ行く', '月ごとの天気と混雑で、いちばんいい月を選べます。', 'カレンダーを開く →', '/tools/when-to-go', 'is-green', ''], ['route', 'おすすめ日程', '確認済みのスポットだけで組んだ日別コース。', '日程を見る →', '/itinerary', 'is-peach', ''], ['plane', '航空券', '選んだ都市への航空券をまとめて比較。', '料金を比べる →', '/flights', '', 'アフィリエイトリンク']],
+    faqH: 'よくある質問', faqSub: '探している場所がなければ', faqLink: 'お問い合わせ',
+    faq: [['都市と地区が混ざっているのはなぜ？', '香港・シンガポール・ドバイのように地区単位で動くほうが便利な場所は、地区ごとに分けています。国別表示では地区を都市のカードの中にまとめています。'], ['ガイドが1〜2本しかない場所は？', '取り上げ始めたばかりの場所です。ガイドは毎日増え、ここの数字もサイトを作り直すたびに自動で変わります。'], ['英語名でも探せますか？', 'はい。英語名、日本語名、国名のどれでも探せます。'], ['探している都市がありません', 'お問い合わせから教えてください。次に取り上げる都市を決める参考にします。']] },
+  es: { pill: 'Índice de ciudades y zonas', accent: '{n} lugares: ¿por dónde empiezas?', dek: 'Todas las ciudades y barrios que cubrimos en {c} países. Busca por nombre o país, explora por país y guarda los que te gusten.', search: 'Ciudad, barrio o país (p. ej. Kioto)', go: 'Buscar', quick: 'Ir a', byCont: 'Por continente', byContHint: 'Toca para filtrar', sRegions: 'Lugares', sCountries: 'Países', sGuides: 'Guías', nPlaces: '{n}', nCountries: '{n}', nGuides: '{n}',
+    topH: 'Las ciudades más cubiertas', topSub: 'Cuantas más guías tiene una ciudad, más detalladas son sus rutas y horarios.', topCta: 'Itinerarios con estas ciudades →', guidesBig: 'guías', open: 'Ver guías →', when: 'Cuándo ir',
+    browseH: 'Explora todos los lugares', browseSub: 'Elige un país o cambia a orden A–Z. Los nombres que se confunden (Jordan, Central) siempre muestran su país.', allCountries: 'Todos los países', all: 'Todos', byCountry: 'Por país', alpha: 'A–Z', byGuides: 'Más guías', byName: 'Nombre', fivePlus: 'Solo 5+ guías', showing: '{p} lugares · {g} guías', countryAll: 'Todas las guías de {x} →', nG: '{n} guías', regSum: '{r} lugares · {g} guías', districts: 'Barrios', empty: 'Nada coincide todavía.', reset: 'Quitar filtros', saved: 'Lugares guardados', clearSaved: 'Vaciar', save: 'Guardar', unsave: 'Quitar',
+    next: [['calendar', 'Cuándo ir', 'Clima y afluencia por mes: elige el mejor.', 'Abrir el calendario →', '/tools/when-to-go', 'is-green', ''], ['route', 'Itinerarios', 'Rutas día a día hechas solo con lugares verificados.', 'Ver itinerarios →', '/itinerary', 'is-peach', ''], ['plane', 'Vuelos', 'Compara tarifas a la ciudad elegida.', 'Comparar precios →', '/flights', '', 'Enlace de afiliado']],
+    faqH: 'Preguntas', faqSub: '¿No encuentras un lugar? Cuéntanoslo en', faqLink: 'Contacto',
+    faq: [['¿Por qué se mezclan ciudades y barrios?', 'Lugares como Hong Kong, Singapur o Dubái se recorren mejor por barrios, así que tienen páginas por barrio. En la vista por país, los barrios aparecen dentro de la tarjeta de su ciudad.'], ['Algunos lugares tienen solo una o dos guías', 'Son lugares que acabamos de empezar a cubrir. Cada día se añaden guías y estas cifras se actualizan en cada compilación.'], ['¿Puedo buscar en inglés?', 'Sí. Cualquier lugar se encuentra por su nombre en inglés, en español o por su país.'], ['No está la ciudad que busco', 'Escríbenos desde la página de contacto: las peticiones nos ayudan a decidir qué ciudades cubrir.']] },
+  zh: { pill: '城市与地区索引', accent: '{n} 个地方，从哪里开始？', dek: '{c} 个国家的城市和街区都在这里。按名称或国家查找，按国家浏览，喜欢的先存起来。', search: '城市、街区或国家（如：京都）', go: '查找', quick: '直达', byCont: '按大洲看', byContHint: '点一下即可筛选', sRegions: '地区', sCountries: '国家', sGuides: '指南', nPlaces: '{n} 个', nCountries: '{n} 个', nGuides: '{n} 篇',
+    topH: '覆盖最深的城市', topSub: '指南越多的城市，路线和时段信息越细。', topCta: '用这些城市排的推荐行程 →', guidesBig: '篇指南', open: '查看指南 →', when: '何时去',
+    browseH: '浏览所有地区', browseSub: '选一个国家，或切换为按名称排序。容易混淆的名字（佐敦、中环等）始终附上国家。', allCountries: '全部国家', all: '全部', byCountry: '按国家', alpha: '按名称', byGuides: '指南最多', byName: '名称', fivePlus: '仅 5 篇以上', showing: '{p} 个地方 · {g} 篇指南', countryAll: '查看{x}全部指南 →', nG: '{n} 篇指南', regSum: '{r} 个地区 · {g} 篇指南', districts: '街区', empty: '还没有符合条件的地方。', reset: '清除筛选', saved: '已收藏的地方', clearSaved: '清空', save: '收藏', unsave: '移除',
+    next: [['calendar', '何时去', '按月份的天气与人流，选出最佳月份。', '打开日历 →', '/tools/when-to-go', 'is-green', ''], ['route', '推荐行程', '只用核实过的地点排出的逐日路线。', '查看行程 →', '/itinerary', 'is-peach', ''], ['plane', '机票', '一次比较飞往所选城市的机票价格。', '比较价格 →', '/flights', '', '联盟链接']],
+    faqH: '常见问题', faqSub: '找不到想去的地方？请通过', faqLink: '联系我们',
+    faq: [['为什么城市和街区混在一起？', '香港、新加坡、迪拜这样的地方按街区走更实用，所以分了街区页面。按国家浏览时，街区会收在城市卡片里。'], ['有些地方只有一两篇指南', '这些是刚开始覆盖的地方。指南每天都在增加，这里的数字每次重建网站时自动更新。'], ['可以用英文搜索吗？', '可以。英文名、中文名或国家名都能找到。'], ['没有我想找的城市', '请通过联系我们告诉我们，我们会参考请求决定接下来覆盖哪些城市。']] },
+}[lang];
+const fill = (s: string, m: Record<string, string | number>) => s.replace(/\{(\w+)\}/g, (_, k) => String(m[k] ?? ''));
+const nGuidesTxt = (n: number) => fill(L.nG, { n: nf.format(n) });
+
+const ICON: Record<string, string> = {
+  search: '<circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/>',
+  heart: '<path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"/>',
+  calendar: '<rect width="18" height="18" x="3" y="4" rx="2"/><path d="M16 2v4"/><path d="M8 2v4"/><path d="M3 10h18"/>',
+  route: '<circle cx="6" cy="19" r="3"/><path d="M9 19h8.5a3.5 3.5 0 0 0 0-7h-11a3.5 3.5 0 0 1 0-7H15"/><circle cx="18" cy="5" r="3"/>',
+  plane: '<path d="M17.8 19.2 16 11l3.5-3.5C21 6 21.5 4 21 3c-1-.5-3 0-4.5 1.5L13 8 4.8 6.2c-.5-.1-.9.1-1.1.5l-.3.5c-.2.5-.1 1 .3 1.3L9 12l-2 3H4l-1 1 3 2 2 3 1-1v-3l3-2 3.5 5.3c.3.4.8.5 1.3.3l.5-.2c.4-.3.6-.7.5-1.2z"/>',
+};
+const svg = (n: string, s = 18) => `<svg width="${s}" height="${s}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ICON[n] ?? ''}</svg>`;
+const regionHref = (r: { slug: string }) => localizePath(`/regions/${r.slug}/`, lang);
+
+// Alphabetical groups (ko ㄱ–ㅎ, en/es A–Z). Japanese and Chinese names are
+// largely kanji/hanzi with no reading to bucket by, so those two get one
+// collated list instead of a fake index.
+const alphaKeys = lang === 'ko' ? [...'ㄱㄴㄷㄹㅁㅂㅅㅇㅈㅊㅋㅌㅍㅎ', '#'] : lang === 'en' || lang === 'es' ? [...'ABCDEFGHIJKLMNOPQRSTUVWXYZ', '#'] : [];
+const usedKeys = new Set(regions.map((r) => r.key));
+
 const ogPhoto = heroOf(posts, TOOL_OG.regions);
+const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
+const pageUrl = siteHref(Astro.url.pathname, Astro.site);
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'CollectionPage', name: t('reg.allRegions'), url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
+    { '@type': 'BreadcrumbList', itemListElement: [
+      { '@type': 'ListItem', position: 1, name: t('post.home'), item: siteHref(localizePath('/', lang), Astro.site) },
+      { '@type': 'ListItem', position: 2, name: t('nav.destinations'), item: siteHref(localizePath('/destinations', lang), Astro.site) },
+      { '@type': 'ListItem', position: 3, name: t('reg.allRegions'), item: pageUrl },
+    ] },
+    { '@type': 'FAQPage', mainEntity: L.faq.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: a } })) },
+  ],
+};
 ---
 
 <BaseLayout image={ogPhoto}
   title={`${t('reg.allRegions')} — ${SITE.name}`}
   description={t('reg.allRegionsDek').replace('{n}', String(regions.length))}
+  jsonLd={jsonLd}
   localized={true}
 >
-  <div class="page-hero">
-    <div class="wrap">
-      <p class="eyebrow">{t('reg.explore')}</p>
-      <h1>{t('reg.allRegions')}</h1>
-      <p>{t('reg.allRegionsDek').replace('{n}', String(regions.length))}</p>
-    </div>
-  </div>
+  <div class="rg" data-rg data-lang={lang}>
+    <nav class="rg-crumb" aria-label="breadcrumb"><a href={localizePath('/', lang)}>{t('post.home')}</a><span aria-hidden="true">·</span><a href={localizePath('/destinations', lang)}>{t('nav.destinations')}</a><span aria-hidden="true">·</span><b>{t('reg.allRegions')}</b></nav>
 
-  <section class="section">
-    <div class="wrap">
-      <div class="region-grid">
-        {regions.map((r) => (
-          <a class:list={['region-tile', { 'no-photo': !r.img }]} href={localizePath(`/regions/${slugifyRegion(r.name)}/`, lang)} style={r.img ? `background-image:url(${r.img})` : ''}>
-            <span>{localizePlace(r.name, lang)}<br /><small style="font-size:0.7rem;opacity:0.85;font-weight:500">{t('home.guides').replace('{n}', String(r.count))}</small></span>
-          </a>
+    <section class="rg-hero">
+      <div>
+        <span class="rg-pill">{L.pill}</span>
+        <h1><span>{t('reg.allRegions')}</span><em>{fill(L.accent, { n: nf.format(regions.length) })}</em></h1>
+        <p class="rg-dek">{fill(L.dek, { c: countryList.length })}</p>
+        <form class="rg-search" role="search" data-search-form>
+          <Fragment set:html={svg('search', 17)} />
+          <label class="sr-only" for="rg-q">{L.search}</label>
+          <input id="rg-q" type="search" placeholder={L.search} autocomplete="off" data-q />
+          <button type="submit">{L.go}</button>
+        </form>
+        <p class="rg-quick"><span>{L.quick}</span>{top.map((r) => <a href={regionHref(r)}>{r.local}</a>)}</p>
+      </div>
+      <div class="rg-art">
+        {heroPhotos[0] && <a class="rg-arch" href={regionHref(heroPhotos[0])} aria-label={heroPhotos[0].local}><img src={heroPhotos[0].img} alt="" width="300" height="380" /></a>}
+        {heroPhotos[1] && <a class="rg-circle" href={regionHref(heroPhotos[1])} aria-label={heroPhotos[1].local}><img src={heroPhotos[1].img} alt="" width="150" height="150" loading="lazy" /></a>}
+        <div class="rg-conts">
+          <p><b>{L.byCont}</b><small>{L.byContHint}</small></p>
+          <ul>
+            {continents.map((c, i) => (
+              <li><button type="button" data-cont-pick={c.slug}>
+                <span>{c.label}</span>
+                <i aria-hidden="true"><em class={`c${i}`} style={`width:${Math.max(6, Math.round((c.regions / maxCont) * 100))}%`}></em></i>
+                <small>{fill(L.nPlaces, { n: nf.format(c.regions) })}</small>
+              </button></li>
+            ))}
+          </ul>
+          <div class="rg-tot">
+            <div><small>{L.sRegions}</small><b>{fill(L.nPlaces, { n: nf.format(regions.length) })}</b></div>
+            <div><small>{L.sCountries}</small><b>{fill(L.nCountries, { n: nf.format(countryList.length) })}</b></div>
+            <div><small>{L.sGuides}</small><b>{fill(L.nGuides, { n: nf.format(totalGuides) })}</b></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="rg-top">
+      <div class="rg-head">
+        <div><h2>{L.topH}</h2><p>{L.topSub}</p></div>
+        <a href={localizePath('/itinerary', lang)}>{L.topCta}</a>
+      </div>
+      <div class="rg-top-grid">
+        {top.map((r, i) => (
+          <article class={`rg-big t${i % 4}`}>
+            <a class="rg-big-photo" href={regionHref(r)} style={r.img ? `background-image:url(${r.img})` : undefined} aria-label={r.local}></a>
+            <div class="rg-big-body">
+              <p class="rg-big-country"><span class="rg-flag"><Flag code={r.iso2} /></span>{r.countryLocal}</p>
+              <h3><a href={regionHref(r)}>{r.local}</a></h3>
+              <p class="rg-big-n"><b>{nf.format(r.count)}</b> {L.guidesBig}</p>
+              <p class="rg-big-acts">
+                <a href={regionHref(r)}>{L.open}</a>
+                {wtgCountries.has(r.countrySlug) && <a href={localizePath(`/tools/when-to-go/${r.countrySlug}/`, lang)}>{L.when}</a>}
+              </p>
+            </div>
+            <button type="button" class="rg-fav" data-fav={r.slug} data-fav-name={r.local} aria-pressed="false" aria-label={`${L.save}: ${r.local}`} data-save={L.save} data-unsave={L.unsave}><Fragment set:html={svg('heart', 16)} /></button>
+          </article>
         ))}
       </div>
-    </div>
-  </section>
+    </section>
 
+    <section class="rg-browse" id="rg-browse">
+      <div class="rg-head"><div><h2>{L.browseH}</h2><p>{L.browseSub}</p></div></div>
+      <div class="rg-countries" role="group">
+        <button type="button" class="is-on" aria-pressed="true" data-country="">{L.allCountries} <small>{regions.length}</small></button>
+        {countryList.map((c) => <button type="button" aria-pressed="false" data-country={c.slug} data-country-cont={slugOfContinent(c.continent)}><span class="rg-flag"><Flag code={c.iso2} /></span>{c.local} <small>{c.regions}</small></button>)}
+      </div>
+
+      <div class="rg-tools">
+        <div class="rg-seg" role="group">
+          <button type="button" class="is-on" aria-pressed="true" data-cont="">{L.all} <small>{regions.length}</small></button>
+          {continents.map((c) => <button type="button" aria-pressed="false" data-cont={c.slug}>{c.label} <small>{c.regions}</small></button>)}
+        </div>
+        <div class="rg-seg is-dark" role="group">
+          <button type="button" class="is-on" aria-pressed="true" data-view="country">{L.byCountry}</button>
+          <button type="button" aria-pressed="false" data-view="alpha">{L.alpha}</button>
+        </div>
+        <div class="rg-seg is-dark" role="group" data-sort-group>
+          <button type="button" class="is-on" aria-pressed="true" data-sort="count">{L.byGuides}</button>
+          <button type="button" aria-pressed="false" data-sort="name">{L.byName}</button>
+        </div>
+        <label class="rg-switch"><input type="checkbox" data-five /><span aria-hidden="true"></span>{L.fivePlus}</label>
+        {alphaKeys.length > 0 && (
+          <nav class="rg-keys" aria-label={L.alpha} data-keys hidden>
+            {alphaKeys.filter((k) => usedKeys.has(k)).map((k) => <a href={`#rg-k-${k.codePointAt(0)}`}>{k}</a>)}
+          </nav>
+        )}
+      </div>
+
+      <p class="rg-showing" aria-live="polite" data-showing data-tpl={L.showing}>{fill(L.showing, { p: nf.format(regions.length), g: nf.format(totalGuides) })}</p>
+
+      <div class="rg-list" data-list>
+        {countryList.map((c) => (
+          <section class="rg-country" data-group={c.slug} data-group-cont={slugOfContinent(c.continent)}>
+            <div class="rg-country-head">
+              <span class="rg-flag rg-flag-lg"><Flag code={c.iso2} /></span>
+              <h3>{c.local} <small data-group-sum data-tpl={L.regSum}>{fill(L.regSum, { r: c.regions, g: nf.format(c.guides) })}</small></h3>
+              {c.slug && <a href={localizePath(`/destinations/${c.slug}`, lang)}>{fill(L.countryAll, { x: c.local })}</a>}
+            </div>
+            <div class="rg-grid">
+              {regions.filter((r) => r.country === c.name).sort((a, b) => b.count - a.count || coll.compare(a.local, b.local)).map((r) => (
+                <div class:list={['rg-card', { 'is-deep': r.count >= DEEP, 'is-child': !!r.parent }]}
+                  data-card data-slug={r.slug} data-count={r.count} data-name={r.local} data-key={r.key} data-country={c.slug} data-cont={slugOfContinent(r.continent)}
+                  data-search={fold([r.local, r.name, r.countryLocal, r.country, lang === 'ko' ? cho(r.local) : ''].join(' '))}>
+                  <a class="rg-card-link" href={regionHref(r)}>
+                    <span class="rg-thumb">{r.img ? <img src={r.img} alt="" width="44" height="44" loading="lazy" /> : null}</span>
+                    <span class="rg-card-txt">
+                      <b>{r.local}</b>
+                      <small class="rg-card-country">{r.countryLocal}</small>
+                      <span class="rg-card-n">{nGuidesTxt(r.count)}<i aria-hidden="true"><em style={`width:${Math.max(4, Math.round((r.count / maxCount) * 100))}%`}></em></i></span>
+                    </span>
+                  </a>
+                  <button type="button" class="rg-fav" data-fav={r.slug} data-fav-name={r.local} aria-pressed="false" aria-label={`${L.save}: ${r.local}`} data-save={L.save} data-unsave={L.unsave}><Fragment set:html={svg('heart', 15)} /></button>
+                  {childrenOf.has(r.name) && (
+                    <p class="rg-kids"><span>{L.districts}</span>{childrenOf.get(r.name)!.map((k) => <a href={regionHref(k)} data-kid-count={k.count}>{k.local} <small>{k.count}</small></a>)}</p>
+                  )}
+                </div>
+              ))}
+            </div>
+          </section>
+        ))}
+      </div>
+      <div class="rg-empty" data-empty hidden><p>{L.empty}</p><button type="button" data-reset>{L.reset}</button></div>
+    </section>
+
+    <section class="rg-next">
+      {L.next.map(([ico, title, sub, cta, href, tone, note]) => (
+        <a class:list={['rg-next-card', tone]} href={localizePath(href, lang)} rel={note ? 'sponsored' : undefined}>
+          <i><Fragment set:html={svg(ico)} /></i><b>{title}</b><span>{sub}</span><em>{cta}</em>{note && <small>{note}</small>}
+        </a>
+      ))}
+    </section>
+
+    <section class="rg-faq">
+      <div><h2>{L.faqH}</h2><p>{L.faqSub} <a href={localizePath('/contact', lang)}>{L.faqLink}</a>.</p></div>
+      <div class="rg-faq-list">
+        {L.faq.map(([q, a], i) => <details open={i === 0}><summary>{q}</summary><p>{a}</p></details>)}
+      </div>
+    </section>
+
+    <div class="rg-tray" data-tray hidden>
+      <b>{L.saved} <span data-tray-n>0</span></b>
+      <p data-tray-list></p>
+      <button type="button" data-tray-clear>{L.clearSaved}</button>
+    </div>
+  </div>
   <Newsletter lang={lang} />
 </BaseLayout>
+
+<script>
+  document.querySelectorAll<HTMLElement>('[data-rg]').forEach((root) => {
+    const q = root.querySelector<HTMLInputElement>('[data-q]')!;
+    const list = root.querySelector<HTMLElement>('[data-list]')!;
+    const cards = [...root.querySelectorAll<HTMLElement>('[data-card]')];
+    const groups = [...root.querySelectorAll<HTMLElement>('[data-group]')];
+    const showing = root.querySelector<HTMLElement>('[data-showing]')!;
+    const empty = root.querySelector<HTMLElement>('[data-empty]')!;
+    const keys = root.querySelector<HTMLElement>('[data-keys]');
+    const five = root.querySelector<HTMLInputElement>('[data-five]')!;
+    const lang = root.dataset.lang!;
+    const nf = new Intl.NumberFormat(lang === 'zh' ? 'zh-CN' : lang);
+    const coll = new Intl.Collator(lang === 'zh' ? 'zh-CN' : lang);
+    const state = { cont: '', country: '', view: 'country', sort: 'count' };
+    const press = (sel: string, on: Element | null) => root.querySelectorAll(sel).forEach((b) => { b.classList.toggle('is-on', b === on); b.setAttribute('aria-pressed', String(b === on)); });
+    const homeOf = new Map(cards.map((c) => [c, c.parentElement!]));
+    let alphaBox: HTMLElement | null = null;
+
+    const order = (xs: HTMLElement[]) => xs.sort((a, b) => state.sort === 'name'
+      ? coll.compare(a.dataset.name!, b.dataset.name!)
+      : (+b.dataset.count! - +a.dataset.count!) || coll.compare(a.dataset.name!, b.dataset.name!));
+
+    // Two layouts over one set of cards: by country (server-rendered, with the
+    // districts folded into their city) and alphabetical (built here on demand).
+    const layout = () => {
+      root.classList.toggle('is-alpha', state.view === 'alpha');
+      if (keys) keys.hidden = state.view !== 'alpha';
+      if (state.view === 'country') {
+        alphaBox?.remove(); alphaBox = null;
+        list.hidden = false;
+        for (const g of groups) {
+          const grid = g.querySelector<HTMLElement>('.rg-grid')!;
+          grid.append(...order(cards.filter((c) => homeOf.get(c) === grid)));
+        }
+        return;
+      }
+      list.hidden = true;
+      alphaBox?.remove();
+      alphaBox = document.createElement('div');
+      alphaBox.className = 'rg-alpha';
+      const byKey = new Map<string, HTMLElement[]>();
+      for (const c of [...cards].sort((a, b) => coll.compare(a.dataset.name!, b.dataset.name!))) {
+        const k = c.dataset.key || '';
+        (byKey.get(k) ?? byKey.set(k, []).get(k)!).push(c);
+      }
+      const ks = [...byKey.keys()].sort((a, b) => (a === '#' ? 1 : b === '#' ? -1 : coll.compare(a, b)));
+      for (const k of ks) {
+        const sec = document.createElement('section');
+        sec.className = 'rg-letter';
+        if (k) sec.id = `rg-k-${k.codePointAt(0)}`;
+        sec.innerHTML = k ? `<span class="rg-letter-key">${k}</span>` : '';
+        const grid = document.createElement('div');
+        grid.className = 'rg-grid';
+        grid.append(...byKey.get(k)!);
+        sec.append(grid);
+        alphaBox.append(sec);
+      }
+      list.after(alphaBox);
+    };
+
+    const matchOf = (c: HTMLElement) => (!state.cont || c.dataset.cont === state.cont)
+      && (!state.country || c.dataset.country === state.country)
+      && (!five.checked || +c.dataset.count! >= 5);
+    const apply = () => {
+      const words = q.value.normalize('NFD').replace(/[\u0300-\u036f]/g, '').normalize('NFC').trim().toLowerCase().split(/\s+/).filter(Boolean);
+      const alpha = state.view === 'alpha';
+      let p = 0, g = 0;
+      for (const c of cards) {
+        const match = (!state.cont || c.dataset.cont === state.cont)
+          && (!state.country || c.dataset.country === state.country)
+          && (!five.checked || +c.dataset.count! >= 5)
+          && words.every((w) => c.dataset.search!.includes(w));
+        // A folded district is reachable from its city card in the country
+        // view, so it still counts; it shows as its own card when listed A–Z
+        // or found by search.
+        c.hidden = !match || (!alpha && !words.length && c.classList.contains('is-child'));
+        if (match) { p++; g += +c.dataset.count!; }
+      }
+      for (const grp of groups) {
+        const mine = cards.filter((c) => homeOf.get(c)!.closest('[data-group]') === grp);
+        const shown = mine.filter((c) => !c.hidden || (c.classList.contains('is-child') && !alpha && !words.length && matchOf(c)));
+        grp.hidden = !mine.some((c) => !c.hidden);
+        const sum = grp.querySelector<HTMLElement>('[data-group-sum]');
+        if (sum) sum.textContent = sum.dataset.tpl!.replace('{r}', nf.format(shown.length)).replace('{g}', nf.format(shown.reduce((s, c) => s + +c.dataset.count!, 0)));
+      }
+      root.querySelectorAll<HTMLElement>('[data-kid-count]').forEach((a) => { a.hidden = five.checked && +a.dataset.kidCount! < 5; });
+      root.querySelectorAll<HTMLElement>('.rg-kids').forEach((k) => { k.hidden = !k.querySelector('a:not([hidden])'); });
+      alphaBox?.querySelectorAll<HTMLElement>('.rg-letter').forEach((s) => { s.hidden = !s.querySelector('[data-card]:not([hidden])'); });
+      keys?.querySelectorAll<HTMLAnchorElement>('a').forEach((a) => {
+        const s = document.getElementById(a.getAttribute('href')!.slice(1));
+        a.classList.toggle('is-off', !s || s.hidden);
+      });
+      showing.textContent = showing.dataset.tpl!.replace('{p}', nf.format(p)).replace('{g}', nf.format(g));
+      empty.hidden = p > 0;
+    };
+
+    q.addEventListener('input', apply);
+    root.querySelector('[data-search-form]')!.addEventListener('submit', (e) => {
+      e.preventDefault();
+      apply();
+      root.querySelector('#rg-browse')!.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+    const setCont = (slug: string) => {
+      state.cont = slug;
+      press('[data-cont]', root.querySelector(`[data-cont="${slug}"]`));
+      // A country outside the new continent would leave the list empty.
+      const pick = root.querySelector<HTMLElement>(`[data-country="${state.country}"][data-country-cont]`);
+      if (state.country && slug && pick?.dataset.countryCont !== slug) { state.country = ''; press('[data-country]', root.querySelector('button[data-country=""]')); }
+      root.querySelectorAll<HTMLElement>('button[data-country-cont]').forEach((b) => { b.hidden = !!slug && b.dataset.countryCont !== slug; });
+      apply();
+    };
+    root.querySelectorAll<HTMLButtonElement>('button[data-cont]').forEach((b) => b.addEventListener('click', () => setCont(b.dataset.cont || '')));
+    root.querySelectorAll<HTMLButtonElement>('[data-cont-pick]').forEach((b) => b.addEventListener('click', () => {
+      setCont(b.dataset.contPick!);
+      root.querySelector('#rg-browse')!.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }));
+    root.querySelectorAll<HTMLButtonElement>('button[data-country]').forEach((b) => b.addEventListener('click', () => {
+      state.country = b.dataset.country || '';
+      press('button[data-country]', b);
+      apply();
+    }));
+    root.querySelectorAll<HTMLButtonElement>('[data-view]').forEach((b) => b.addEventListener('click', () => {
+      state.view = b.dataset.view!;
+      press('[data-view]', b);
+      layout(); apply();
+    }));
+    root.querySelectorAll<HTMLButtonElement>('[data-sort]').forEach((b) => b.addEventListener('click', () => {
+      state.sort = b.dataset.sort!;
+      press('[data-sort]', b);
+      layout(); apply();
+    }));
+    five.addEventListener('change', apply);
+    root.querySelector('[data-reset]')!.addEventListener('click', () => {
+      q.value = ''; five.checked = false; state.country = '';
+      press('button[data-country]', root.querySelector('button[data-country=""]'));
+      setCont('');
+    });
+
+    // Saved places: kept in this browser only, shown in a tray at the bottom.
+    const KEY = 'wa_saved_regions_v1';
+    const tray = root.querySelector<HTMLElement>('[data-tray]')!;
+    // Slugs only: the tray is shared by all five languages, so the name and
+    // the link are read from this page's own card, never from storage.
+    const read = (): string[] => { try { const v = JSON.parse(localStorage.getItem(KEY) || '[]'); return Array.isArray(v) ? v.map((x) => (typeof x === 'string' ? x : x?.s)).filter(Boolean) : []; } catch { return []; } };
+    const write = (v: string[]) => { try { localStorage.setItem(KEY, JSON.stringify(v)); } catch { /* private mode */ } };
+    const btnOf = (slug: string) => root.querySelector<HTMLButtonElement>(`[data-fav="${CSS.escape(slug)}"]`);
+    const paint = () => {
+      const saved = read().filter((slug) => btnOf(slug));
+      const set = new Set(saved);
+      root.querySelectorAll<HTMLButtonElement>('[data-fav]').forEach((b) => {
+        const on = set.has(b.dataset.fav!);
+        b.setAttribute('aria-pressed', String(on));
+        b.setAttribute('aria-label', `${on ? b.dataset.unsave : b.dataset.save}: ${b.dataset.favName}`);
+      });
+      tray.hidden = !saved.length;
+      tray.querySelector('[data-tray-n]')!.textContent = String(saved.length);
+      const box = tray.querySelector<HTMLElement>('[data-tray-list]')!;
+      box.replaceChildren(...saved.map((slug) => {
+        const b = btnOf(slug)!;
+        const a = document.createElement('a');
+        a.href = b.closest('[data-card], .rg-big')?.querySelector('a[href]')?.getAttribute('href') ?? '#';
+        a.textContent = b.dataset.favName!;
+        return a;
+      }));
+    };
+    root.querySelectorAll<HTMLButtonElement>('[data-fav]').forEach((b) => b.addEventListener('click', () => {
+      const saved = read();
+      const i = saved.indexOf(b.dataset.fav!);
+      if (i >= 0) saved.splice(i, 1); else saved.push(b.dataset.fav!);
+      write(saved); paint();
+    }));
+    tray.querySelector('[data-tray-clear]')!.addEventListener('click', () => { write([]); paint(); });
+
+    layout(); apply(); paint();
+  });
+</script>
+
+<style>
+  .rg { max-width: var(--max); margin: 0 auto; padding: 18px 20px 56px; display: grid; gap: 40px; --rg-forest: #26301f; --rg-moss: #3b4a2b; --rg-brown: #7a3b1d; --rg-peach: #fbe0d4; --rg-green: #e3ecd9; --rg-sand: #f1e6d6; --rg-on-green: #34502a; --rg-link: #7a3b1d; }
+  @media (prefers-color-scheme: dark) { .rg { --rg-peach: #3a2620; --rg-green: #2b3524; --rg-sand: #2a241c; --rg-on-green: #d6e8c4; --rg-link: #eaa57a; } }
+  .rg :is(div, section, nav, form) { min-width: 0; }
+  .rg [hidden] { display: none !important; }
+  .rg-crumb { display: flex; gap: 8px; flex-wrap: wrap; font-size: .82rem; color: var(--muted); }
+  .rg-crumb a { color: inherit; text-decoration: none; }
+  .rg-crumb b { color: var(--ink); font-weight: 600; }
+  .rg-pill { display: inline-block; font-size: .78rem; font-weight: 600; padding: 4px 12px; border-radius: var(--r-pill); background: var(--rg-green); color: var(--rg-on-green); }
+  .rg-head { display: flex; justify-content: space-between; align-items: flex-end; gap: 12px; flex-wrap: wrap; margin-bottom: 16px; }
+  .rg-head h2 { font-family: var(--font-display); font-size: clamp(1.5rem, 3vw, 1.9rem); margin: 0; }
+  .rg-head p { margin: 4px 0 0; color: var(--muted); font-size: .9rem; }
+  .rg-head > a { font-size: .88rem; font-weight: 700; color: var(--rg-link); text-decoration: none; }
+
+  .rg-hero { display: grid; grid-template-columns: 1.05fr .95fr; gap: 32px; align-items: center; margin-top: -18px; }
+  .rg-hero h1 { font-family: var(--font-display); font-size: clamp(2.1rem, 4.8vw, 3.1rem); line-height: 1.15; margin: 12px 0; }
+  .rg-hero h1 span, .rg-hero h1 em { display: block; }
+  .rg-hero h1 em { font-style: normal; color: var(--rg-brown); }
+  @media (prefers-color-scheme: dark) { .rg-hero h1 em { color: var(--cta); } }
+  .rg-dek { color: var(--ink-soft); line-height: 1.7; margin: 0 0 18px; }
+  .rg-search { display: flex; align-items: center; gap: 8px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-pill); padding: 5px 5px 5px 18px; color: var(--muted); max-width: 470px; }
+  .rg-search:focus-within { border-color: var(--cta); }
+  .rg-search input { flex: 1; min-width: 0; border: 0; background: transparent; font: inherit; font-size: .92rem; color: var(--ink); padding: 8px 0; outline: none; }
+  .rg-search button { font: inherit; font-weight: 700; font-size: .88rem; border: 0; border-radius: var(--r-pill); background: var(--cta); color: #fff; padding: 9px 16px; cursor: pointer; }
+  .rg-quick { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin: 14px 0 0; font-size: .8rem; color: var(--muted); }
+  .rg-quick span { margin-right: 4px; }
+  .rg-quick a { font-weight: 600; color: var(--ink); text-decoration: none; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-pill); padding: 5px 12px; }
+  .rg-quick a:hover { border-color: var(--line-strong); }
+  .rg-art { position: relative; min-height: 400px; }
+  .rg-arch { position: absolute; left: 0; top: 0; width: 52%; height: 300px; border-radius: 999px 999px 18px 18px; overflow: hidden; background: var(--rg-sand); }
+  .rg-circle { position: absolute; right: 2%; top: 0; width: 140px; height: 140px; border-radius: 50%; overflow: hidden; border: 5px solid var(--bg); background: var(--rg-sand); }
+  .rg-arch img, .rg-circle img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .rg-conts { position: absolute; right: 0; bottom: 0; width: 70%; background: var(--rg-forest); color: #fbf3e8; border-radius: 24px; padding: 20px; box-shadow: 0 16px 34px rgba(20, 25, 15, .28); }
+  .rg-conts > p { display: flex; justify-content: space-between; align-items: baseline; margin: 0 0 12px; gap: 8px; }
+  .rg-conts > p b { font-family: var(--font-display); font-size: 1.1rem; }
+  .rg-conts > p small { font-size: .74rem; opacity: .75; }
+  .rg-conts ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 4px; }
+  .rg-conts button { width: 100%; display: grid; grid-template-columns: 76px 1fr 52px; align-items: center; gap: 10px; font: inherit; font-size: .86rem; font-weight: 600; color: inherit; background: none; border: 0; padding: 6px 4px; border-radius: 10px; cursor: pointer; text-align: left; }
+  .rg-conts button:hover { background: rgba(255,255,255,.07); }
+  .rg-conts button i { height: 8px; border-radius: 999px; background: rgba(255,255,255,.12); overflow: hidden; }
+  .rg-conts button em { display: block; height: 100%; border-radius: inherit; }
+  .rg-conts .c0 { background: #bfd3a2; } .rg-conts .c1 { background: #eea47a; } .rg-conts .c2 { background: #f6d1b9; } .rg-conts .c3 { background: #d6e8c4; } .rg-conts .c4 { background: #9fb3c0; }
+  .rg-conts button small { text-align: right; font-size: .8rem; }
+  .rg-tot { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
+  .rg-tot div { flex: 1 1 auto; background: rgba(255,255,255,.08); border-radius: 14px; padding: 8px 12px; }
+  .rg-tot small { display: block; font-size: .7rem; opacity: .75; }
+  .rg-tot b { font-family: var(--font-display); font-size: 1.1rem; white-space: nowrap; }
+
+  .rg-top-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
+  .rg-big { position: relative; border-radius: 26px; overflow: hidden; background: var(--surface); border: 1px solid var(--line); display: flex; flex-direction: column; }
+  .rg-big.t0 { background: var(--rg-green); border-color: transparent; } .rg-big.t1 { background: var(--rg-peach); border-color: transparent; }
+  .rg-big-photo { display: block; aspect-ratio: 16 / 10; background-size: cover; background-position: center; background-color: var(--rg-sand); }
+  .rg-big-body { padding: 14px 18px 18px; display: grid; gap: 4px; }
+  .rg-big-country { display: flex; align-items: center; gap: 6px; margin: 0; font-size: .78rem; color: var(--muted); }
+  .rg-big h3 { font-family: var(--font-display); font-size: 1.35rem; margin: 2px 0 0; }
+  .rg-big h3 a { color: var(--ink); text-decoration: none; }
+  .rg-big-n { margin: 0; font-size: .82rem; font-weight: 600; }
+  .rg-big-n b { font-family: var(--font-display); font-size: 2.1rem; line-height: 1; margin-right: 2px; }
+  .rg-big-acts { display: flex; gap: 6px; flex-wrap: wrap; margin: 8px 0 0; }
+  .rg-big-acts a { font-size: .78rem; font-weight: 700; color: var(--ink); text-decoration: none; background: rgba(255,255,255,.6); border: 1px solid var(--line); border-radius: var(--r-pill); padding: 5px 11px; }
+  @media (prefers-color-scheme: dark) { .rg-big-acts a { background: rgba(255,255,255,.06); } }
+  .rg-big .rg-fav { position: absolute; top: 10px; right: 10px; }
+  .rg-flag { display: inline-grid; width: 18px; height: 18px; border-radius: 50%; overflow: hidden; flex: none; place-items: center; }
+  .rg-flag :global(svg), .rg-flag :global(img) { width: 100%; height: 100%; object-fit: cover; }
+  .rg-flag-lg { width: 34px; height: 34px; border: 2px solid var(--surface); }
+
+  .rg-fav { width: 32px; height: 32px; border-radius: 50%; border: 0; display: grid; place-items: center; cursor: pointer; background: rgba(255,253,249,.92); color: var(--rg-brown); flex: none; }
+  .rg-fav[aria-pressed="true"] { background: var(--rg-brown); color: #fff; }
+  .rg-fav[aria-pressed="true"] :global(svg) { fill: currentColor; }
+
+  .rg-countries { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
+  .rg-countries button { display: inline-flex; align-items: center; gap: 6px; font: inherit; font-size: .84rem; font-weight: 600; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-pill); padding: 5px 12px 5px 6px; cursor: pointer; }
+  .rg-countries button:first-child { padding-left: 12px; }
+  .rg-countries button small { font-weight: 400; color: var(--muted); }
+  .rg-countries button.is-on { background: var(--rg-brown); border-color: var(--rg-brown); color: #fff; }
+  .rg-countries button.is-on small { color: rgba(255,255,255,.8); }
+  .rg-tools { position: sticky; top: 61px; z-index: 20; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; padding: 10px 0; background: color-mix(in srgb, var(--bg) 94%, transparent); backdrop-filter: blur(10px); border-bottom: 1px solid var(--line); }
+  .rg-seg { display: inline-flex; flex-wrap: wrap; gap: 2px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-pill); padding: 3px; }
+  .rg-seg button { font: inherit; font-size: .82rem; font-weight: 600; color: var(--ink); background: none; border: 0; border-radius: var(--r-pill); padding: 6px 12px; cursor: pointer; white-space: nowrap; }
+  .rg-seg button small { font-weight: 400; color: var(--muted); }
+  .rg-seg button.is-on { background: var(--rg-moss); color: #fff; }
+  .rg-seg button.is-on small { color: rgba(255,255,255,.8); }
+  .rg.is-alpha [data-sort-group] { display: none; }
+  .rg-switch { display: inline-flex; align-items: center; gap: 8px; font-size: .82rem; font-weight: 600; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-pill); padding: 6px 12px; cursor: pointer; }
+  .rg-switch input { position: absolute; opacity: 0; width: 1px; height: 1px; }
+  .rg-switch span { width: 30px; height: 18px; border-radius: 999px; background: var(--line-strong); position: relative; transition: background .15s; }
+  .rg-switch span::after { content: ''; position: absolute; top: 2px; left: 2px; width: 14px; height: 14px; border-radius: 50%; background: #fff; transition: transform .15s; }
+  .rg-switch input:checked + span { background: var(--rg-moss); }
+  .rg-switch input:checked + span::after { transform: translateX(12px); }
+  .rg-switch input:focus-visible + span { outline: 2px solid var(--cta); outline-offset: 2px; }
+  .rg-keys { flex-basis: 100%; display: flex; flex-wrap: wrap; gap: 4px; }
+  .rg-keys a { width: 30px; height: 30px; display: grid; place-items: center; border-radius: 50%; background: var(--surface); border: 1px solid var(--line); font-size: .82rem; font-weight: 700; color: var(--ink); text-decoration: none; }
+  .rg-keys a.is-off { opacity: .35; pointer-events: none; }
+  .rg-showing { margin: 14px 0 6px; font-size: .9rem; font-weight: 700; }
+
+  .rg-list, .rg-alpha { display: grid; gap: 28px; margin-top: 10px; }
+  .rg-country, .rg-letter { scroll-margin-top: 150px; }
+  .rg-country-head { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 12px; }
+  .rg-country-head h3 { font-family: var(--font-display); font-size: 1.4rem; margin: 0; flex: 1; }
+  .rg-country-head h3 small { font-family: var(--font-body, inherit); font-size: .78rem; font-weight: 400; color: var(--muted); margin-left: 6px; }
+  .rg-country-head a { font-size: .84rem; font-weight: 700; color: var(--rg-link); text-decoration: none; }
+  .rg-letter { display: grid; grid-template-columns: 52px minmax(0, 1fr); gap: 14px; align-items: start; }
+  .rg-letter-key { width: 44px; height: 44px; border-radius: 50%; display: grid; place-items: center; background: var(--rg-peach); font-family: var(--font-display); font-weight: 700; font-size: 1.1rem; position: sticky; top: 170px; }
+  .rg-letter:not(:has(.rg-letter-key)) { grid-template-columns: minmax(0, 1fr); }
+  .rg-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(196px, 1fr)); gap: 8px; }
+  .rg-card { position: relative; background: var(--surface); border: 1px solid var(--line); border-radius: 18px; padding: 10px 10px 10px 12px; display: grid; gap: 6px; align-content: start; }
+  .rg-card.is-deep { background: var(--rg-green); border-color: transparent; }
+  .rg-card-link { display: flex; gap: 10px; align-items: center; text-decoration: none; color: var(--ink); padding-right: 34px; }
+  .rg-thumb { width: 44px; height: 44px; border-radius: 50%; overflow: hidden; flex: none; background: linear-gradient(135deg, var(--rg-sand), var(--rg-green)); }
+  .rg-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .rg-card-txt { display: grid; gap: 1px; min-width: 0; flex: 1; }
+  .rg-card-txt b { font-size: .95rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .rg-card-country { display: none; font-size: .74rem; color: var(--muted); }
+  .rg.is-alpha .rg-card-country { display: block; }
+  .rg-card-n { display: flex; align-items: center; gap: 8px; font-size: .76rem; font-weight: 600; color: var(--ink-soft); white-space: nowrap; }
+  .rg-card-n i { flex: 1; height: 5px; border-radius: 999px; background: var(--rg-sand); overflow: hidden; min-width: 30px; }
+  .rg-card.is-deep .rg-card-n i { background: rgba(255,255,255,.55); }
+  .rg-card-n em { display: block; height: 100%; background: #6f8a52; border-radius: inherit; }
+  .rg-card .rg-fav { position: absolute; top: 10px; right: 8px; width: 28px; height: 28px; background: var(--rg-sand); }
+  .rg-card .rg-fav[aria-pressed="true"] { background: var(--rg-brown); }
+  .rg-kids { display: flex; flex-wrap: wrap; gap: 4px; align-items: center; margin: 2px 0 0; padding-top: 6px; border-top: 1px solid var(--line); font-size: .72rem; color: var(--muted); }
+  .rg-kids span { margin-right: 2px; }
+  .rg-kids a { font-weight: 600; color: var(--ink); text-decoration: none; background: var(--rg-sand); border-radius: var(--r-pill); padding: 2px 8px; }
+  .rg-kids small { color: var(--muted); font-weight: 400; }
+  .rg.is-alpha .rg-kids { display: none; }
+  .rg-empty { text-align: center; padding: 30px; background: var(--surface); border-radius: var(--r-lg); }
+  .rg-empty button { font: inherit; font-weight: 700; border: 1px solid var(--line-strong); background: var(--bg); color: var(--ink); border-radius: var(--r-pill); padding: 8px 16px; cursor: pointer; }
+
+  .rg-next { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+  .rg-next-card { position: relative; display: grid; gap: 6px; align-content: start; background: var(--surface); border: 1px solid var(--line); border-radius: 26px; padding: 22px; text-decoration: none; color: var(--ink); }
+  .rg-next-card.is-green { background: var(--rg-green); border-color: transparent; }
+  .rg-next-card.is-peach { background: var(--rg-peach); border-color: transparent; }
+  .rg-next-card i { width: 40px; height: 40px; border-radius: 50%; background: rgba(255,255,255,.6); display: grid; place-items: center; margin-bottom: 4px; }
+  .rg-next-card b { font-size: 1.02rem; }
+  .rg-next-card span { font-size: .84rem; color: var(--ink-soft); }
+  .rg-next-card em { font-style: normal; font-weight: 700; font-size: .86rem; color: var(--rg-link); }
+  .rg-next-card small { position: absolute; top: 20px; right: 20px; font-size: .68rem; color: var(--muted); border: 1px solid var(--line); border-radius: var(--r-pill); padding: 2px 8px; }
+
+  .rg-faq { display: grid; grid-template-columns: .8fr 1.2fr; gap: 28px; align-items: start; }
+  .rg-faq h2 { font-family: var(--font-display); font-size: 1.7rem; margin: 0 0 6px; }
+  .rg-faq > div > p { margin: 0; color: var(--muted); font-size: .9rem; }
+  .rg-faq > div > p a { color: var(--rg-link); font-weight: 700; }
+  .rg-faq-list { display: grid; gap: 8px; }
+  .rg-faq details { background: var(--surface); border: 1px solid var(--line); border-radius: 20px; padding: 0 20px; }
+  .rg-faq summary { cursor: pointer; font-weight: 700; padding: 16px 0; list-style: none; display: flex; justify-content: space-between; gap: 10px; }
+  .rg-faq summary::-webkit-details-marker { display: none; }
+  .rg-faq summary::after { content: '+'; width: 24px; height: 24px; border-radius: 50%; background: var(--rg-sand); display: grid; place-items: center; flex: none; }
+  .rg-faq details[open] summary::after { content: '−'; background: var(--rg-brown); color: #fff; }
+  .rg-faq details p { margin: 0 0 16px; color: var(--ink-soft); line-height: 1.7; font-size: .9rem; }
+
+  .rg-tray { position: fixed; left: 50%; bottom: 16px; transform: translateX(-50%); z-index: 40; width: min(720px, calc(100% - 32px)); display: flex; align-items: center; gap: 12px; background: var(--rg-forest); color: #fbf3e8; border-radius: var(--r-pill); padding: 10px 12px 10px 20px; box-shadow: 0 12px 30px rgba(0,0,0,.25); }
+  .rg-tray b { white-space: nowrap; font-size: .88rem; }
+  .rg-tray b span { display: inline-grid; place-items: center; min-width: 22px; height: 22px; border-radius: 999px; background: #eea47a; color: #26301f; font-size: .76rem; margin-left: 4px; }
+  .rg-tray p { flex: 1; min-width: 0; display: flex; gap: 6px; overflow-x: auto; margin: 0; scrollbar-width: none; }
+  .rg-tray p a { flex: none; font-size: .8rem; font-weight: 600; color: #fbf3e8; text-decoration: none; background: rgba(255,255,255,.12); border-radius: var(--r-pill); padding: 4px 10px; }
+  .rg-tray button { font: inherit; font-size: .78rem; border: 0; background: rgba(255,255,255,.14); color: #fbf3e8; border-radius: var(--r-pill); padding: 6px 12px; cursor: pointer; }
+  .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+  @media (max-width: 960px) {
+    .rg-hero, .rg-faq { grid-template-columns: 1fr; }
+    .rg-top-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .rg-next { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 640px) {
+    .rg { padding: 14px 16px 90px; gap: 32px; }
+    .rg-art { min-height: 0; display: grid; gap: 12px; }
+    .rg-arch, .rg-circle { display: none; }
+    .rg-conts { position: static; width: auto; }
+    .rg-tools { top: 56px; flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; }
+    .rg-tools > * { flex: none; }
+    .rg-seg { flex-wrap: nowrap; }
+    .rg-keys { flex-basis: auto; flex-wrap: nowrap; }
+    .rg-countries { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; padding-bottom: 4px; }
+    .rg-countries button { flex: none; }
+    .rg-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .rg-letter { grid-template-columns: 1fr; }
+    .rg-letter-key { position: static; }
+    .rg-big-n b { font-size: 1.7rem; }
+  }
+  @media (max-width: 400px) { .rg-top-grid, .rg-grid { grid-template-columns: 1fr; } }
+</style>

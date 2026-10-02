@@ -1,8 +1,8 @@
 ---
 lang: ko
 slug: washington-maison-bar-a-vins
-srcHash: '0c43ce85f9fa'
-title: '메종 바 아 뱅: 워싱턴 여행 가이드'
+srcHash: '29f8e635b3a0'
+title: '메종 바 아 뱅: 워싱턴 D.C. 여행 가이드'
 description: 미국 워싱턴에 있는 메종 바 아 뱅(Maison Bar à Vins)은 지금 떠오르는 신흥 명소입니다. 이곳이 어떤 곳이고, 어디에 있으며, 어떻게 방문하면 되는지 알아봅니다.
 quickAnswer: 메종 바 아 뱅은 워싱턴 D.C. 애덤스 모건(Adams Morgan) 지역, 주거지와 맞닿은 한쪽 끝에 자리한 3층짜리 역사적인 브라운스톤 건물 안에 들어선 유러피언 스타일 와인 바입니다. 셰프 매트 콘로이(Matt Conroy)와 더 포팔 그룹(The Popal Group)이 함께 만든 곳으로, 1,000종이 넘는 오가닉·내추럴 와인 리스트를 중심으로 운영됩니다. 2026년 제임스 비어드 어워드 최고의 신생 레스토랑(Best New Restaurant) 부문 최종 후보에도 이름을 올렸습니다. 가능하면 예약은 미리 해두는 것이 좋습니다. 이렇게 갓 받은 비어드 어워드 후보 지명은 순식간에 자리를 채우기 마련입니다.
 faq:

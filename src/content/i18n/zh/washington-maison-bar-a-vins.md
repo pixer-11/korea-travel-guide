@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: washington-maison-bar-a-vins
-srcHash: '0c43ce85f9fa'
+srcHash: '29f8e635b3a0'
 title: Maison Bar à Vins华盛顿旅行指南
 description: 美国华盛顿的Maison Bar à Vins，一家新晋热门去处：它是什么、位于何处、如何前往游览。
 quickAnswer: Maison Bar à Vins是一家欧式风格的葡萄酒吧，坐落在华盛顿哥伦比亚特区（Washington, D.C.）的阿当斯摩根（Adams Morgan）街区，藏身于一栋三层历史褐石建筑（brownstone）中，位置正好在这片住宅区的边缘。主厨马特·康罗伊（Matt Conroy）与The Popal Group联手打造了这个项目，酒单上收录了超过1000款有机及自然酒（organic and natural wines），并入围了2026年詹姆斯·比尔德奖（James Beard Award）最佳新餐厅（Best New Restaurant）决赛名单。如果条件允许，最好提前预订：刚获得比尔德奖提名的热度，很容易让位子瞬间订满。

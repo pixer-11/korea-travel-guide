@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: goyang-si-khalid-concert
-srcHash: '8e8970544728'
+srcHash: '917a9692822d'
 title: Khalid演唱会：演出日期、门票与场地指南（高阳市）
 description: Khalid将于2026年12月5日在韩国高阳市举办演唱会。本文介绍演出详情、时间地点，以及行程规划要点。
 quickAnswer: Khalid演唱会定于2026年12月5日在韩国高阳市（Goyang-si）的高阳国际展览中心（Kintex）举行，场馆位于首尔西北方向不远处。Kintex是一座大型会展综合体，一山线（Ilsan Line）的Kintex站可直达场馆，因此即便住在首尔市中心，前往也十分方便。出发前请务必以官方网站信息为准，确认具体时间和购票详情。

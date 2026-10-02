@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: malaga-generali-malaga-marathon
-srcHash: '2172948f5042'
+srcHash: 'f1cd2c946700'
 title: 'Generali Maratón Málaga: fechas, inscripción y recorrido (Málaga)'
 description: Los días 7-8 de noviembre de 2026, Málaga acoge el Generali Maratón Málaga, con pruebas de maratón y media maratón repartidas en un mismo fin de semana de sábado y domingo.
 quickAnswer: 'Los días 7-8 de noviembre de 2026, Málaga acoge el Generali Maratón Málaga, con pruebas de maratón y media maratón repartidas en un mismo fin de semana de sábado y domingo. Aquí no se venden entradas: lo que se adquiere es la inscripción, es decir, el dorsal. Los horarios, el lugar de salida y meta y el proceso de inscripción deben confirmarse en la web oficial de la carrera.'

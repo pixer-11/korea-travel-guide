@@ -1,8 +1,8 @@
 ---
-title: 'Zurich San Sebastián Marathon: Dates, Tickets & Venue (San Sebastián)'
+title: 'Zurich San Sebastián Marathon: Dates, Tickets & Venue (San Sebastian)'
 description: The Zurich San Sebastián Marathon (Donostia) takes place on November 22, 2026.
 country: Spain
-region: San Sebastián
+region: San Sebastian
 category: event
 pubDate: '2026-10-01'
 eventStartDate: '2026-11-22'

@@ -1,8 +1,8 @@
 ---
-title: 'Khalid Concert: Dates, Tickets & Venue (Goyang-si)'
+title: 'Khalid Concert: Dates, Tickets & Venue (Goyang)'
 description: Khalid Concert in Goyang-si, South Korea — December 5, 2026. What it is, when and where, and how to plan around it.
 country: South Korea
-region: Goyang-si
+region: Goyang
 category: event
 pubDate: '2026-09-23'
 eventStartDate: '2026-12-05'

@@ -285,6 +285,12 @@ const REGION_ALIAS = {
   // homepage. Bangkok is where those visitors were going anyway — same
   // metro-area convention as pasay/quezon → manila above.
   nonthaburi: 'bangkok',
+  // Same city under two spellings (2026-10-02, the owner's regions mock-up
+  // review): each had its own thin hub beside the real one. The posts were
+  // retagged to the canonical name; these keep the old hub URLs landing.
+  'goyang-si': 'goyang',
+  'ha-long': 'ha-long-bay',
+  washington: 'washington-dc',
 };
 
 function regionRedirects() {
@@ -366,6 +372,13 @@ function regionRedirects() {
     if (oldEnc !== next) {
       lines.push(`/regions/${oldEnc}/ ${liveHubs.has(canon(r)) ? `/regions/${next}/` : '/'} 301`);
     }
+  }
+  // Spellings folded into their canonical city on 2026-10-02. Their raw-name
+  // URLs (/regions/m%C3%A1laga/ …) were generated above while the spelling had
+  // posts; with the posts retagged they would silently drop out.
+  for (const [from, to] of [['Málaga', 'malaga'], ['San Sebastián', 'san-sebastian'], ['Ha Long', 'ha-long-bay'], ['Goyang-si', 'goyang'], ['Washington', 'washington-dc']]) {
+    const oldEnc = encodeURI(from.toLowerCase());
+    if (oldEnc !== to && !regions.has(from)) lines.push(`/regions/${oldEnc}/ /regions/${to}/ 301`);
   }
   // The alias lines used to exist only for the English path, so
   // /ko/regions/xian/ (reachable from redirected localized post URLs) 404ed.

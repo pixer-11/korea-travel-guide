@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: washington-maison-bar-a-vins
-srcHash: '0c43ce85f9fa'
+srcHash: '29f8e635b3a0'
 title: 'Maison Bar à Vins: guía de viaje de Washington'
 description: 'Maison Bar à Vins en Washington, Estados Unidos, es un local nuevo y en auge: qué es, dónde está y cómo visitarlo.'
 quickAnswer: Maison Bar à Vins es un bar de vinos de estilo europeo situado en Adams Morgan, Washington, D.C., dentro de una casa histórica de tres plantas en el borde residencial del barrio. Es el proyecto del chef Matt Conroy junto con The Popal Group, construido alrededor de una carta de más de 1.000 vinos orgánicos y naturales, y quedó entre los finalistas de los James Beard Award 2026 en la categoría de Mejor Restaurante Nuevo. Conviene reservar con antelación, ya que un reconocimiento Beard tan reciente suele llenar el local rápidamente.

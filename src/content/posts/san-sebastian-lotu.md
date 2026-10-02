@@ -1,8 +1,8 @@
 ---
-title: 'Lotu: San Sebastián Travel Guide'
+title: 'Lotu: San Sebastian Travel Guide'
 description: Lotu is a new restaurant in San Sebastián from the team behind Mugaritz, set inside the brand-new Hotel Palacio Bellas Artes.
 country: Spain
-region: San Sebastián
+region: San Sebastian
 category: hidden-gem
 pubDate: '2026-10-01'
 gallery: []

@@ -1,8 +1,8 @@
 ---
-title: 'Generali Malaga Marathon: Dates, Tickets & Venue (Málaga)'
+title: 'Generali Malaga Marathon: Dates, Tickets & Venue (Malaga)'
 description: The Generali Malaga Marathon takes over Málaga, Spain, on November 7-8, 2026, with marathon and half-marathon distances across one Saturday-Sunday weekend.
 country: Spain
-region: Málaga
+region: Malaga
 category: event
 pubDate: '2026-10-01'
 eventStartDate: '2026-11-07'

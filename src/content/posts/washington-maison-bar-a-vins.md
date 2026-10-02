@@ -1,8 +1,8 @@
 ---
-title: 'Maison Bar à Vins: Washington Travel Guide'
-description: 'Maison Bar à Vins in Washington, United States — a new/trending spot: what it is, where it is, and how to visit.'
+title: 'Maison Bar à Vins: Washington DC Travel Guide'
+description: 'Maison Bar à Vins in Washington DC, United States — a new/trending spot: what it is, where it is, and how to visit.'
 country: United States
-region: Washington
+region: Washington DC
 category: trendy
 pubDate: '2026-09-23'
 tags:

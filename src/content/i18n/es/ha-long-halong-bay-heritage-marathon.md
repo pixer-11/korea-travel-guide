@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ha-long-halong-bay-heritage-marathon
-srcHash: 'cbc98ad8e5cf'
+srcHash: '22800311383b'
 title: 'Halong Bay Heritage Marathon: fechas, inscripciones y sede (Ha Long)'
 description: La Halong Bay Heritage Marathon se celebrará el November 22, 2026 en Ha Long (Vietnam). Es una carrera internacional afiliada a la AIMS que recorre la costa de la bahía de Ha Long.
 quickAnswer: La Halong Bay Heritage Marathon se celebrará el November 22, 2026 en Ha Long (Vietnam). Es una carrera internacional afiliada a la AIMS que recorre la costa de la bahía de Ha Long. En la web oficial de la prueba podrá confirmar el punto de salida, las distancias y las inscripciones. Reserve hotel en Ha Long con antelación, porque el fin de semana de la carrera la ciudad se llena.
