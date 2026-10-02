@@ -434,12 +434,12 @@ const [titleA, titleB] = (() => {
   .dx-more-card em { font-style: normal; font-size: .86rem; font-weight: 700; margin-top: 4px; }
   .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
   @media (max-width: 960px) {
-    .dx-hero { grid-template-columns: 1fr; }
+    .dx-hero { grid-template-columns: minmax(0, 1fr); }
     .dx-grid, .dx-more { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   }
   @media (max-width: 640px) {
     .dx { padding: 14px 16px 44px; gap: 26px; }
-    .dx-grid, .dx-more { grid-template-columns: 1fr; }
+    .dx-grid, .dx-more { grid-template-columns: minmax(0, 1fr); }
     .dx-tools { top: 56px; }
     .dx-tools-row .dx-seg { flex-wrap: nowrap; overflow-x: auto; max-width: 100%; scrollbar-width: none; }
     .dx-sort { margin-left: 0; }

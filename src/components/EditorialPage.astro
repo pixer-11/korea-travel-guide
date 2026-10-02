@@ -813,7 +813,7 @@ const jsonLd = {
   .ep-nl { margin-top: 4px; }
 
   @media (max-width: 900px) {
-    .ep-hero, .ep-editor, .ep-images, .ep-fix, .ep-faq, .ep-panel { grid-template-columns: 1fr; }
+    .ep-hero, .ep-editor, .ep-images, .ep-fix, .ep-faq, .ep-panel { grid-template-columns: minmax(0, 1fr); }
     .ep-promises { grid-template-columns: 1fr 1fr; }
     .ep-steps { grid-template-columns: repeat(5, minmax(150px, 1fr)); overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: 4px; }
     .ep-step { scroll-snap-align: start; }
@@ -821,7 +821,7 @@ const jsonLd = {
   }
   @media (max-width: 560px) {
     .ep { padding: 14px 16px 48px; gap: 22px; }
-    .ep-promises, .ep-ai { grid-template-columns: 1fr; }
+    .ep-promises, .ep-ai { grid-template-columns: minmax(0, 1fr); }
     .ep-editor, .ep-images { padding: 20px; }
     .ep-proof-grid { height: 260px; }
     .ep-stats b { font-size: 1.15rem; }

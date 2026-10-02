@@ -359,9 +359,9 @@ const bodyOf = (k: Kind) => k.fields.filter(Boolean).map((f) => `${f}\n\n`).join
   .ct-before span { font-size: .8rem; color: var(--muted); }
   .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
   @media (max-width: 900px) {
-    .ct-hero, .ct-panel { grid-template-columns: 1fr; }
+    .ct-hero, .ct-panel { grid-template-columns: minmax(0, 1fr); }
     .ct-kinds { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-    .ct-before { grid-template-columns: 1fr; }
+    .ct-before { grid-template-columns: minmax(0, 1fr); }
   }
   @media (max-width: 560px) {
     .ct { padding: 14px 16px 48px; }

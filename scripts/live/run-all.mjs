@@ -31,6 +31,7 @@ const CHECKS = [
   ['my-trip.mjs', '내 여행'],
   ['essentials-topics.mjs', '필수정보 주제 6종'],
   ['topics-mobile.mjs', '주제 페이지 모바일'],
+  ['redesigns-2026-10-02.mjs', '10-01/02 개편 페이지 8종×5개 언어'],
   ['essentials-hub.mjs', '필수정보 허브'],
   ['checklist.mjs', '체크리스트'],
   ['essentials-countries.mjs', '나라별 필수정보 전수'],
