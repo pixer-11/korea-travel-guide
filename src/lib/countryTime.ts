@@ -29,6 +29,7 @@ export const COUNTRY_TIME: Record<string, { tz: string; city: string; multi?: bo
   KH: { tz: 'Asia/Phnom_Penh', city: 'Phnom Penh' },
   AU: { tz: 'Australia/Sydney', city: 'Sydney', multi: true },
   GB: { tz: 'Europe/London', city: 'London' },
+  DE: { tz: 'Europe/Berlin', city: 'Berlin' },
 };
 
 // Hub regions. countries.json files Turkey, the UAE and Uzbekistan under

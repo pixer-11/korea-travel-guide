@@ -233,6 +233,12 @@
     "es": "Bengaluru",
     "zh": "班加罗尔"
   },
+  "Berlin": {
+    "ko": "베를린",
+    "ja": "ベルリン",
+    "es": "Berlín",
+    "zh": "柏林"
+  },
   "Bhubaneswar": {
     "ko": "부바네스와르",
     "ja": "ブバネーシュワル",
@@ -298,6 +304,12 @@
     "ja": "ボストン",
     "es": "Boston",
     "zh": "波士顿"
+  },
+  "Bremen": {
+    "ko": "브레멘",
+    "ja": "ブレーメン",
+    "es": "Bremen",
+    "zh": "不来梅"
   },
   "Brighton": {
     "ko": "브라이턴",
@@ -527,6 +539,12 @@
     "es": "Colmar",
     "zh": "科尔马"
   },
+  "Cologne": {
+    "ko": "쾰른",
+    "ja": "ケルン",
+    "es": "Colonia",
+    "zh": "科隆"
+  },
   "Cordoba": {
     "ko": "코르도바",
     "ja": "コルドバ",
@@ -605,6 +623,12 @@
     "es": "Downtown Dubái",
     "zh": "迪拜市中心"
   },
+  "Dresden": {
+    "ko": "드레스덴",
+    "ja": "ドレスデン",
+    "es": "Dresde",
+    "zh": "德累斯顿"
+  },
   "Dubai": {
     "ko": "두바이",
     "ja": "ドバイ",
@@ -622,6 +646,12 @@
     "ja": "ドゥマゲテ",
     "es": "Dumaguete",
     "zh": "杜马格特"
+  },
+  "Düsseldorf": {
+    "ko": "뒤셀도르프",
+    "ja": "デュッセルドルフ",
+    "es": "Düsseldorf",
+    "zh": "杜塞尔多夫"
   },
   "East Coast": {
     "ko": "이스트코스트",
@@ -677,6 +707,12 @@
     "es": "Francia",
     "zh": "法国"
   },
+  "Frankfurt": {
+    "ko": "프랑크푸르트",
+    "ja": "フランクフルト",
+    "es": "Fráncfort",
+    "zh": "法兰克福"
+  },
   "Fremantle": {
     "ko": "프리맨틀",
     "ja": "フリーマントル",
@@ -694,6 +730,12 @@
     "ja": "福岡",
     "es": "Fukuoka",
     "zh": "福冈"
+  },
+  "Füssen": {
+    "ko": "퓌센",
+    "ja": "フュッセン",
+    "es": "Füssen",
+    "zh": "菲森"
   },
   "Gangneung": {
     "ko": "강릉",
@@ -730,6 +772,12 @@
     "ja": "ジョージタウン",
     "es": "George Town",
     "zh": "乔治市"
+  },
+  "Germany": {
+    "ko": "독일",
+    "ja": "ドイツ",
+    "es": "Alemania",
+    "zh": "德国"
   },
   "Gili Islands": {
     "ko": "길리 제도",
@@ -809,6 +857,12 @@
     "es": "Bahía de Ha Long",
     "zh": "下龙湾"
   },
+  "Hamburg": {
+    "ko": "함부르크",
+    "ja": "ハンブルク",
+    "es": "Hamburgo",
+    "zh": "汉堡"
+  },
   "Hangzhou": {
     "ko": "항저우",
     "ja": "杭州",
@@ -826,6 +880,12 @@
     "ja": "ハルビン",
     "es": "Harbin",
     "zh": "哈尔滨"
+  },
+  "Heidelberg": {
+    "ko": "하이델베르크",
+    "ja": "ハイデルベルク",
+    "es": "Heidelberg",
+    "zh": "海德堡"
   },
   "Hiroshima": {
     "ko": "히로시마",
@@ -1241,6 +1301,12 @@
     "es": "Le Castellet",
     "zh": "勒卡斯特莱"
   },
+  "Leipzig": {
+    "ko": "라이프치히",
+    "ja": "ライプツィヒ",
+    "es": "Leipzig",
+    "zh": "莱比锡"
+  },
   "Lijiang": {
     "ko": "리장",
     "ja": "麗江",
@@ -1457,6 +1523,12 @@
     "es": "Bombay",
     "zh": "孟买"
   },
+  "Munich": {
+    "ko": "뮌헨",
+    "ja": "ミュンヘン",
+    "es": "Múnich",
+    "zh": "慕尼黑"
+  },
   "Málaga": {
     "ko": "말라가",
     "ja": "マラガ",
@@ -1582,6 +1654,12 @@
     "ja": "ヌクス",
     "es": "Nukus",
     "zh": "努库斯"
+  },
+  "Nuremberg": {
+    "ko": "뉘른베르크",
+    "ja": "ニュルンベルク",
+    "es": "Núremberg",
+    "zh": "纽伦堡"
   },
   "Nusa Penida": {
     "ko": "누사페니다",
@@ -1804,6 +1882,12 @@
     "ja": "ローマ",
     "es": "Roma",
     "zh": "罗马"
+  },
+  "Rothenburg ob der Tauber": {
+    "ko": "로텐부르크 옵 데어 타우버",
+    "ja": "ローテンブルク・オプ・デア・タウバー",
+    "es": "Rothenburg ob der Tauber",
+    "zh": "罗滕堡"
   },
   "Saadiyat Island": {
     "ko": "사디야트 섬",
@@ -2044,6 +2128,12 @@
     "ja": "スタージス",
     "es": "Sturgis",
     "zh": "斯特吉斯"
+  },
+  "Stuttgart": {
+    "ko": "슈투트가르트",
+    "ja": "シュトゥットガルト",
+    "es": "Stuttgart",
+    "zh": "斯图加特"
   },
   "Sukhothai": {
     "ko": "수코타이",

@@ -594,6 +594,32 @@
         "Inverness"
       ],
       "continent": "Europe"
+    },
+    {
+      "name": "Germany",
+      "iso2": "de",
+      "priority": 21,
+      "slug": "germany",
+      "flag": "🇩🇪",
+      "active": true,
+      "blurb": "Berlin history, Bavarian castles and Rhine old towns, with Oktoberfest, Christmas markets and a festival calendar that runs all year.",
+      "regions": [
+        "Berlin",
+        "Munich",
+        "Hamburg",
+        "Frankfurt",
+        "Cologne",
+        "Dresden",
+        "Heidelberg",
+        "Nuremberg",
+        "Stuttgart",
+        "Düsseldorf",
+        "Leipzig",
+        "Bremen",
+        "Füssen",
+        "Rothenburg ob der Tauber"
+      ],
+      "continent": "Europe"
     }
   ]
 }

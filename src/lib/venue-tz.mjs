@@ -29,6 +29,7 @@ export const COUNTRY_TZ = {
   Uzbekistan: 'Asia/Tashkent',
   Cambodia: 'Asia/Phnom_Penh',
   'United Kingdom': 'Europe/London',
+  Germany: 'Europe/Berlin',
 };
 
 const ET = 'America/New_York', CT = 'America/Chicago', PT = 'America/Los_Angeles';

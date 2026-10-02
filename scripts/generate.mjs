@@ -884,6 +884,8 @@ const COUNTRY_LANG = {
   Australia: null,
   // 영어권이라 영어 리뷰가 관광객이라는 증거가 못 된다 — 호주와 같은 이유(2026-09-30).
   'United Kingdom': null,
+  // 독일어는 분명한 현지어 — 독일에서 영어 리뷰는 관광객이다(2026-10-02).
+  Germany: 'de',
   // Uzbek is unambiguously local; Russian is also widely used by locals but is
   // equally the language of the biggest tourist group, so only 'uz' counts.
   Uzbekistan: 'uz',
