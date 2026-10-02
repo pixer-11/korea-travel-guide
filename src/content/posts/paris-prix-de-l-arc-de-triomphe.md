@@ -13,16 +13,16 @@ eventFactsAsked: true
 tags:
   - paris
   - event
-quickAnswer: The Prix de l'Arc de Triomphe takes place at Paris-Longchamp Racecourse on October 3-4, 2026, with the big race itself run on the Saturday. Tickets range from general lawn access to grandstand and hospitality packages — confirm timing and tickets on the official France Galop and Paris-Longchamp sites before booking. Arrive well before post time on Arc day, since the Bois de Boulogne approach gets congested.
+quickAnswer: The Prix de l'Arc de Triomphe takes place at Paris-Longchamp Racecourse on October 3-4, 2026, with the big race itself run on the Sunday. Tickets range from general lawn access to grandstand and hospitality packages — confirm timing and tickets on the official France Galop and Paris-Longchamp sites before booking. Arrive well before post time on Arc day, since the Bois de Boulogne approach gets congested.
 faq:
   - q: When exactly is the Prix de l'Arc de Triomphe in 2026?
-    a: The meeting runs October 3-4, 2026, at Paris-Longchamp Racecourse, with the Arc itself run on Saturday, October 4.
+    a: The meeting runs October 3-4, 2026, at Paris-Longchamp Racecourse, with the Arc itself run on Sunday, October 4.
   - q: How do I get to Paris-Longchamp Racecourse?
     a: Take RER C to Avenue Foch or Avenue Henri Martin, or Métro Line 1 to Porte Maillot/Les Sablons and catch the race-day shuttle bus into the Bois de Boulogne.
   - q: How much are tickets and where do I buy them?
     a: Pricing varies by tier, from general lawn areas to grandstand and hospitality seating, and changes year to year. Confirm current tickets and pricing on the official France Galop and Paris-Longchamp websites.
-  - q: Should I go on Friday or Saturday?
-    a: Saturday is essential for the Arc itself, but Friday's trials card is quieter and cheaper if you'd rather avoid Saturday's peak crowds.
+  - q: Should I go on Saturday or Sunday?
+    a: Sunday is essential for the Arc itself, but Saturday's card is quieter and cheaper if you'd rather avoid Sunday's peak crowds.
   - q: How long should I plan to spend at the racecourse?
     a: Plan for most of the afternoon and evening — arrive at least 90 minutes before the Arc's post time to see the paddock and settle into a viewing spot before the crowds peak.
 aiGenerated: true
@@ -55,13 +55,13 @@ The track sits inside the Bois de Boulogne, on the western edge of the city, and
 
 Whichever route you pick, build in extra time. Foot traffic through the Bois can bottleneck an hour before the first race, especially on Arc day itself, October 4.
 
-## The two days: Friday and Saturday
+## The two days: Saturday and Sunday
 
-The meeting runs across two days, October 3–4, 2026, with the Arc itself run on the Saturday.
+The meeting runs across two days, October 3–4, 2026, with the Arc itself run on the Sunday.
 
-Friday, known as Qatar Prix de l'Arc de Triomphe Trials Day, is quieter and cheaper, a good option if you want to see the track and the horses without the density of Saturday's crowds. Saturday is the big one: multiple Group 1 races stacked through the afternoon, building toward the Arc as the finale.
+Saturday, the opening day of the weekend, is quieter and cheaper, a good option if you want to see the track and the horses without the density of Sunday's crowds. Sunday is the big one: multiple Group 1 races stacked through the afternoon, building toward the Arc as the finale.
 
-If you can only do one day, Saturday is non-negotiable for the Arc itself. If you want a calmer, more relaxed racecourse experience, Friday is the better bet.
+If you can only do one day, Sunday is non-negotiable for the Arc itself. If you want a calmer, more relaxed racecourse experience, Saturday is the better bet.
 
 ## Tickets and where to watch from
 
@@ -81,7 +81,7 @@ Fashion is part of the spectacle too, particularly on Arc day, when the crowd le
 
 ## How to visit like a local
 
-Racegoers who go every year treat Friday's trials card as the insider move, smaller crowds, easier transport, and a real look at the horses without the Saturday scrum.
+Racegoers who go every year treat Saturday's card as the insider move, smaller crowds, easier transport, and a real look at the horses without the Sunday scrum.
 
 - Bet in cash or by card at the on-course pari-mutuel (PMU) windows; a small each-way bet on a name you like is standard practice, not just for serious punters
 - Arrive at least 90 minutes before the Arc's post time to walk the paddock and grab a rail spot along the home straight

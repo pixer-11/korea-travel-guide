@@ -1,19 +1,19 @@
 ---
 lang: es
 slug: paris-prix-de-l-arc-de-triomphe
-srcHash: '3af9f7821d2b'
+srcHash: '2449047fd4b3'
 title: 'Prix de l''Arc de Triomphe: fechas, entradas y sede (París)'
 description: El Prix de l'Arc de Triomphe se celebra en París del 3 al 4 de octubre de 2026. Qué es, cuándo y dónde se disputa, y cómo organizar la visita.
-quickAnswer: El Prix de l'Arc de Triomphe se celebra en el hipódromo de Paris-Longchamp los días 3 y 4 de octubre de 2026, y la gran carrera se disputa el sábado. Las entradas van desde el acceso general al césped hasta las gradas y los paquetes de hospitalidad; conviene confirmar horarios y entradas en las webs oficiales de France Galop y Paris-Longchamp antes de reservar. El día del Arco conviene llegar con bastante antelación a la hora de salida, ya que el acceso por el Bois de Boulogne se congestiona.
+quickAnswer: El Prix de l'Arc de Triomphe se celebra en el hipódromo de Paris-Longchamp los días 3 y 4 de octubre de 2026, y la gran carrera se disputa el domingo. Las entradas van desde el acceso general al césped hasta las gradas y los paquetes de hospitalidad; conviene confirmar horarios y entradas en las webs oficiales de France Galop y Paris-Longchamp antes de reservar. El día del Arco conviene llegar con bastante antelación a la hora de salida, ya que el acceso por el Bois de Boulogne se congestiona.
 faq:
   - q: ¿Cuándo es exactamente el Prix de l'Arc de Triomphe en 2026?
-    a: La reunión se celebra los días 3 y 4 de octubre de 2026 en el hipódromo de Paris-Longchamp, y el Arco propiamente dicho se disputa el sábado 4 de octubre.
+    a: La reunión se celebra los días 3 y 4 de octubre de 2026 en el hipódromo de Paris-Longchamp, y el Arco propiamente dicho se disputa el domingo 4 de octubre.
   - q: ¿Cómo se llega al hipódromo de Paris-Longchamp?
     a: Se puede tomar el RER C hasta Avenue Foch o Avenue Henri Martin, o bien la línea 1 de metro hasta Porte Maillot/Les Sablons y desde allí coger el autobús lanzadera habilitado para los días de carreras hacia el Bois de Boulogne.
   - q: ¿Cuánto cuestan las entradas y dónde se compran?
     a: El precio varía según la categoría, desde las zonas generales de césped hasta las gradas y los asientos de hospitalidad, y cambia de un año a otro. Conviene confirmar las entradas y los precios vigentes en las webs oficiales de France Galop y Paris-Longchamp.
-  - q: ¿Conviene ir el viernes o el sábado?
-    a: El sábado es imprescindible para ver el Arco en sí, pero la jornada de pruebas del viernes es más tranquila y económica si se prefiere evitar la máxima afluencia del sábado.
+  - q: ¿Conviene ir el sábado o el domingo?
+    a: El domingo es imprescindible para ver el Arco en sí, pero la jornada del sábado es más tranquila y económica si se prefiere evitar la máxima afluencia del domingo.
   - q: ¿Cuánto tiempo conviene reservar para la visita al hipódromo?
     a: 'Conviene reservar la mayor parte de la tarde y parte de la noche: hay que llegar al menos 90 minutos antes de la hora de salida del Arco para ver el paddock y hacerse con un buen sitio antes de que la afluencia alcance su punto máximo.'
 ---
@@ -36,13 +36,13 @@ El hipódromo se encuentra dentro del Bois de Boulogne, en el extremo occidental
 
 Sea cual sea la ruta elegida, conviene calcular tiempo de sobra: el tránsito peatonal por el Bois puede formar cuellos de botella una hora antes de la primera carrera, sobre todo el día del Arco, el 4 de octubre.
 
-## Los dos días: viernes y sábado
+## Los dos días: sábado y domingo
 
-La reunión se extiende durante dos jornadas, del 3 al 4 de octubre de 2026, y el Arco se disputa el sábado.
+La reunión se extiende durante dos jornadas, del 3 al 4 de octubre de 2026, y el Arco se disputa el domingo.
 
-El viernes, conocido como el Qatar Prix de l'Arc de Triomphe Trials Day, es más tranquilo y económico: una buena opción para ver la pista y los caballos sin la densidad de público del sábado. El sábado es el gran día, con varias carreras del Grupo 1 encadenadas a lo largo de la tarde que van preparando el terreno hasta llegar al Arco como colofón.
+El sábado, primera jornada del fin de semana, es más tranquilo y económico: una buena opción para ver la pista y los caballos sin la densidad de público del domingo. El domingo es el gran día, con varias carreras del Grupo 1 encadenadas a lo largo de la tarde que van preparando el terreno hasta llegar al Arco como colofón.
 
-Si solo se dispone de un día, el sábado es innegociable para presenciar el Arco. Ahora bien, para quien busque una experiencia más relajada en el hipódromo, el viernes es la mejor opción.
+Si solo se dispone de un día, el domingo es innegociable para presenciar el Arco. Ahora bien, para quien busque una experiencia más relajada en el hipódromo, el sábado es la mejor opción.
 
 ## Entradas y dónde ver la carrera
 
@@ -62,7 +62,7 @@ La moda también forma parte del espectáculo, sobre todo el día del Arco, cuan
 
 ## Cómo visitarlo como un local
 
-Los aficionados que acuden todos los años consideran la jornada de pruebas del viernes la jugada de iniciados: menos gente, transporte más sencillo y una ocasión real de ver bien a los caballos sin el tumulto del sábado.
+Los aficionados que acuden todos los años consideran la jornada del sábado la jugada de iniciados: menos gente, transporte más sencillo y una ocasión real de ver bien a los caballos sin el tumulto del domingo.
 
 - Apostar en efectivo o con tarjeta en las ventanillas del PMU (pari-mutuel) del propio hipódromo; una pequeña apuesta "each-way" a un nombre que guste es práctica habitual, no solo cosa de apostadores serios
 - Llegar al menos 90 minutos antes de la hora de salida del Arco para recorrer el paddock y hacerse con un sitio junto a la valla de la recta final
