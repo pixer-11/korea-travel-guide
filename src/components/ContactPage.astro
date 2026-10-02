@@ -194,7 +194,7 @@ const bodyOf = (k: Kind) => k.fields.filter(Boolean).map((f) => `${f}\n\n`).join
       <div class="ct-panel" id="ct-panel" role="tabpanel" aria-labelledby={`ct-tab-${first.k}`}>
         <div>
           {kinds.map((k, i) => (
-            <div class="ct-how" data-how={k.k} data-tag={k.tag} data-ph={k.ph} data-body={bodyOf(k)} hidden={i !== 0}>
+            <div class="ct-how" data-how={k.k} data-tag={k.tag} data-ph={k.ph} data-tpl-body={bodyOf(k)} hidden={i !== 0}>
               <span class="ct-tag">{k.title}</span>
               <h3>{T.howH}</h3>
               <ul>{k.checks.map((c) => <li><i><Fragment set:html={svg('check', 12)} /></i>{c}</li>)}</ul>
@@ -243,7 +243,7 @@ const bodyOf = (k: Kind) => k.fields.filter(Boolean).map((f) => `${f}\n\n`).join
     const to = box.dataset.to!;
     const tagOut = box.querySelector<HTMLElement>('[data-tag-out]')!;
     const subject = box.querySelector<HTMLInputElement>('[data-subject]')!;
-    const body = box.querySelector<HTMLTextAreaElement>('[data-body]')!;
+    const body = box.querySelector<HTMLTextAreaElement>('textarea[data-body]')!;
     const mailto = box.querySelector<HTMLAnchorElement>('[data-mailto]')!;
     const subj = () => [tagOut.textContent, subject.value.trim()].filter(Boolean).join(' ');
     const sync = () => { mailto.href = `mailto:${to}?subject=${encodeURIComponent(subj())}&body=${encodeURIComponent(body.value)}`; };
@@ -265,7 +265,7 @@ const bodyOf = (k: Kind) => k.fields.filter(Boolean).map((f) => `${f}\n\n`).join
       subject.hidden = !tpl.dataset.ph;
       const saved = drafts.get(current);
       subject.value = saved?.s ?? '';
-      body.value = saved?.b ?? tpl.dataset.body!;
+      body.value = saved?.b ?? tpl.dataset.tplBody!;
       body.placeholder = body.value ? '' : (tpl.querySelector('li')?.textContent ?? '');
       sync();
     };

@@ -56,7 +56,7 @@ const countries = countriesData.countries.map((c: any) => {
   return {
     ...c, count: own.length, cities, themes, name, blurb,
     photo: rep ? tileSize(rep) : '',
-    search: (() => { const all = [...new Set([...(c.regions ?? []), ...byCity.keys()])]; return [name, c.name, blurb, ...all, ...all.map((r: string) => localizePlace(r, lang))].join(' ').toLowerCase(); })(),
+    search: (() => { const all = [...new Set([...(c.regions ?? []), ...byCity.keys()])]; return [name, c.name, blurb, ...all, ...all.map((r: string) => localizePlace(r, lang))].join(' ').normalize('NFC').toLowerCase(); })(),
   };
 });
 const live = countries.filter((c) => c.count > 0);
@@ -275,7 +275,7 @@ const [titleA, titleB] = (() => {
     const press = (sel: string, on: Element | null) => root.querySelectorAll(sel).forEach((b) => { b.classList.toggle('is-on', b === on); b.setAttribute('aria-pressed', String(b === on)); });
 
     const apply = () => {
-      const words = q.value.trim().toLowerCase().split(/\s+/).filter(Boolean);
+      const words = q.value.normalize('NFC').trim().toLowerCase().split(/\s+/).filter(Boolean);
       let c = 0, g = 0;
       for (const card of cards) {
         const inGroup = !cont || card.closest<HTMLElement>('[data-group]')!.dataset.group === cont;

@@ -439,7 +439,9 @@ const chartInsight = chartRows.length
   : '';
 const CLOCKS = [['Seoul', 'Asia/Seoul'], ['Bangkok', 'Asia/Bangkok'], ['Paris', 'Europe/Paris'], ['New York', 'America/New_York']].map(([c, tz]) => ({ name: localizePlace(c, lang), tz }));
 const pageAbs = siteHref(localizePath('/tools/best-time', lang), Astro.site);
-const widgetHref = localizePath('/tools/widget', lang);
+// The widget gallery exists in English only (src/pages/tools/widget); a
+// localized prefix 404ed in four languages.
+const widgetHref = '/tools/widget/';
 const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
 ---
 <BaseLayout image={heroOf(posts, TOOL_OG.bestTime)} title={t('tool.metaTitle')} description={t('tool.metaDesc')} jsonLd={jsonLd} localized={true}>
@@ -661,8 +663,8 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
             <thead class="sr-only"><tr><th scope="col">{t('tool.findings.city.city')}</th><th scope="col">{t('tool.findings.city.hour')}</th><th scope="col">{t('tool.findings.city.n')}</th></tr></thead>
             <tbody data-chart-body>
               {chartRows.map((r) => (
-                <tr data-i={r.i} data-h={r.h} data-city={r.city} data-ccountry={r.country} tabindex="0">
-                  <th scope="row">{r.city}{r.h >= 17 && <em class="bt-eve">{T.evening}</em>}</th>
+                <tr data-i={r.i} data-h={r.h} data-city={r.city} data-ccountry={r.country}>
+                  <th scope="row"><button type="button" class="bt-crow">{r.city}</button>{r.h >= 17 && <em class="bt-eve">{T.evening}</em>}</th>
                   <td class="bt-ctrack"><span class="bt-cline"><span class="bt-cband"></span><span class:list={['bt-cmark', { 'is-eve': r.h >= 17 }]} style={`left:${((Math.min(Math.max(r.h, 7), 22) - 7) / 15) * 100}%`}>{r.hour}</span></span></td>
                   <td class="bt-cn">{T.placesN(r.n)} <span aria-hidden="true">→</span></td>
                 </tr>
@@ -811,11 +813,28 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
         : st.sort === 'rating' ? b.rating - a.rating || a.order - b.order
         : a.order - b.order);
       const rank = new Map(sorted.map((c, i) => [c, i]));
+      // Reorder the nodes themselves (CSS order left Tab and screen readers
+      // walking the original order under a re-sorted picture).
+      const host = cards[0]?.el.parentElement;
+      if (host && cards.every((c) => c.el.parentElement === host)) {
+        const want = [...sorted.map((c) => c.el), ...cards.filter((c) => !rank.has(c)).map((c) => c.el)];
+        const now = [...host.children];
+        // The "now" view re-renders every minute: move nodes only when the
+        // order really changed, and hand focus back to where it was.
+        if (want.some((el, i) => now[i] !== el)) {
+          const focused = document.activeElement instanceof HTMLElement && host.contains(document.activeElement) ? document.activeElement : null;
+          host.append(...want);
+          focused?.focus({ preventScroll: true });
+        }
+      }
       for (const c of cards) {
         const i = rank.get(c);
         c.el.hidden = i == null;
-        c.el.style.order = String(i ?? 0);
-        c.el.classList.toggle('is-more', i != null && i >= st.shown);
+        c.el.style.order = '';
+        // The card holding keyboard focus never folds behind "show more" —
+        // the minute refresh could otherwise hide it and drop focus.
+        const holdsFocus = document.activeElement instanceof Node && c.el.contains(document.activeElement);
+        c.el.classList.toggle('is-more', i != null && i >= st.shown && !holdsFocus);
       }
       const n = { q: 0, m: 0, b: 0 } as Record<string, number>;
       for (const c of vis) if (c.status in n) n[c.status]++;
@@ -907,7 +926,11 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
         b.type = 'button'; b.className = 'bt-pill-b' + (st.region === value ? ' is-on' : '');
         b.setAttribute('aria-pressed', String(st.region === value));
         b.textContent = label;
-        b.addEventListener('click', () => { st.region = value; st.shown = PAGE; buildCities(); render(); });
+        b.dataset.city = value;
+        b.addEventListener('click', () => {
+          st.region = value; st.shown = PAGE; buildCities(); render();
+          cityRow.querySelector<HTMLButtonElement>(`[data-city="${CSS.escape(value)}"]`)?.focus();
+        });
         return b;
       };
       cityRow.replaceChildren(mk(S.allCities, ''), ...list.map((r) => mk(r, r)));
@@ -978,8 +1001,9 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
         setCountry(tr.dataset.ccountry || ''); st.region = tr.dataset.city || ''; buildCities(); render();
         root.querySelector('.bt-h2')?.scrollIntoView({ behavior: 'smooth' });
       };
+      // The row is clickable for the mouse; keyboard and screen readers get
+      // the button in its first cell (Enter and Space both work there).
       tr.addEventListener('click', go);
-      tr.addEventListener('keydown', (e) => { if (e.key === 'Enter') go(); });
     });
     // Citation: as text or as link HTML, one click to copy.
     const cite = root.querySelector<HTMLElement>('[data-cite]');
@@ -1243,7 +1267,9 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
     .bt-ctable { width: 100%; border-collapse: collapse; table-layout: fixed; }
     .bt-col-city { width: 9em; } .bt-col-n { width: 6.5em; }
     .bt-ctable tr { cursor: pointer; }
-    .bt-ctable tr:hover, .bt-ctable tr:focus-visible { background: var(--bt-cream); outline: none; }
+    .bt-ctable tr:hover, .bt-ctable tr:focus-within { background: var(--bt-cream); }
+    .bt-crow { font: inherit; font-weight: inherit; color: inherit; background: none; border: 0; padding: 0; cursor: pointer; text-align: left; }
+    .bt-crow:focus-visible { outline: 2px solid var(--cta); outline-offset: 3px; border-radius: 4px; }
     .bt-ctable th { text-align: left; font-weight: 700; font-size: .9rem; padding: 8px 10px; width: 9em; white-space: nowrap; border-radius: 12px 0 0 12px; }
     .bt-eve { font-style: normal; font-size: .7rem; font-weight: 700; color: var(--bt-brown); background: var(--bt-peach); border-radius: var(--r-pill); padding: 1px 6px; margin-left: 6px; }
     .bt-ctrack { padding: 8px 18px; }
@@ -1301,7 +1327,7 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
     .bt-sort { margin-left: auto; }
     .bt-meta { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px; align-items: center; }
     .bt-count { margin: 0; font-weight: 600; color: var(--ink-soft); font-size: .9rem; }
-    .bt-legend { display: flex; gap: 12px; font-size: .8rem; color: var(--muted); }
+    .bt-legend { display: flex; flex-wrap: wrap; gap: 6px 12px; font-size: .8rem; color: var(--muted); }
     .bt-legend span { display: inline-flex; gap: 5px; align-items: center; }
     .bt-legend i { width: 14px; height: 10px; border-radius: 3px; display: inline-block; }
     .sw-quiet { background: linear-gradient(180deg, var(--q1), var(--q2)); }

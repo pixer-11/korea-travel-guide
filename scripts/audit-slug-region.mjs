@@ -28,6 +28,7 @@
 import { readFileSync, readdirSync, writeFileSync, existsSync } from 'fs';
 import { join } from 'path';
 import { requireExamined } from './lib/examined.mjs';
+import { REGION_ALIAS } from '../src/lib/region-alias.mjs';
 
 const DIR = 'src/content/posts';
 const LEGACY = 'data/slug-region-legacy.json';
@@ -69,6 +70,11 @@ for (const f of files) {
   const slug = f.replace(/\.md$/, '');
   const r = slugifyRegion(region);
   if (!r || slug === r || slug.startsWith(r + '-')) continue;
+  // A slug born under an alias spelling of the same city (quezon-city-… on a
+  // Manila post, washington-… on a Washington DC post): the publish gate
+  // retags the region at birth but the filename is already fixed, and both
+  // names land on the same hub (src/lib/region-alias.mjs).
+  if (Object.entries(REGION_ALIAS).some(([from, to]) => to === r && (slug === from || slug.startsWith(from + '-')))) continue;
   bad.push({ slug, region, legacy: legacy.has(slug) });
 }
 

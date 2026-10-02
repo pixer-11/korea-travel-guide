@@ -5,7 +5,7 @@ description: >-
   Araneta Coliseum in Cubao, Quezon City, the domed arena locals call the Big
   Dome.
 country: Philippines
-region: Quezon City
+region: Manila
 category: event
 pubDate: '2026-10-01'
 eventStartDate: '2026-10-17'

@@ -278,7 +278,7 @@ const pageAbs = (p: string) => new URL(localizePath(p, lang), Astro.site ?? 'htt
     let mode = 'text';
     const draw = () => {
       const u = url.value.trim();
-      const safe = u.replace(/"/g, '%22');
+      const safe = u.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
       out.textContent = mode === 'html' ? `<a href="${safe}">Wander Atlas</a>` : tool.dataset.tpl!.replace('{url}', u);
     };
     url.addEventListener('input', draw);

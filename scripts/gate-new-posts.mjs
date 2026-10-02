@@ -22,6 +22,7 @@ import { readFileSync, writeFileSync, unlinkSync } from 'fs';
 import { join } from 'path';
 import { execSync } from 'child_process';
 import { editFrontmatter, readFrontmatter } from './lib/frontmatter-edit.mjs';
+import { canonicalRegion } from '../src/lib/region-alias.mjs';
 
 const DIR = 'src/content/posts';
 const dry = process.argv.includes('--dry');
@@ -189,6 +190,21 @@ if (since) {
   scope = new Set([...names, ...tracked]);
   if (!scope.size) { console.log(`no new or changed posts — nothing to gate`); process.exit(0); }
   console.log(`gating ${scope.size} new/changed post(s)`);
+
+  // Retag before checking: a region whose hub 301s elsewhere (Quezon City →
+  // Manila, see src/lib/region-alias.mjs) would put the post on a page nobody
+  // can reach. A repair, not a hold — the post is fine, only its tag is not.
+  for (const f of scope) {
+    const path = join(DIR, f);
+    let raw;
+    try { raw = readFileSync(path, 'utf8'); } catch { continue; }
+    const region = readFrontmatter(raw)?.region;
+    const to = canonicalRegion(region);
+    if (!to || to === region) continue;
+    if (dry) { console.log(`  ↪ ${f}: 지역 ${region} → ${to} (미리보기, 안 바꿈)`); continue; }
+    try { writeFileSync(path, editFrontmatter(raw, { region: to })); console.log(`  ↪ ${f}: 지역 ${region} → ${to} 로 바로잡음`); }
+    catch (err) { console.log(`  ⚠️ ${f}: 지역 ${region} 을 바로잡지 못했다 — ${err.message}`); }
+  }
 }
 
 const reasons = new Map();

@@ -38,3 +38,4 @@ test('the region redirects this repo generates name every source path once', asy
   assert.deepEqual(r.conflicts, []);
   assert.equal(r.dropped, 0, 'a generator repeats a rule another one already wrote');
 });
+

@@ -24,6 +24,8 @@ function runWith(replacements) {
     // 경로로 가리킨다 — 그 모듈 위치에서 node_modules 해석이 살아난다.
     src = src.split("from './lib/frontmatter-edit.mjs'")
       .join('from ' + JSON.stringify(pathToFileURL(join(process.cwd(), 'scripts', 'lib', 'frontmatter-edit.mjs')).href));
+    src = src.split("from '../src/lib/region-alias.mjs'")
+      .join('from ' + JSON.stringify(pathToFileURL(join(process.cwd(), 'src', 'lib', 'region-alias.mjs')).href));
     const p = join(dir, 'gate.mjs');
     writeFileSync(p, src, 'utf8');
     try {

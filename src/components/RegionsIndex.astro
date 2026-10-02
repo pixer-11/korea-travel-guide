@@ -6,6 +6,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import Newsletter from './Newsletter.astro';
 import Flag from './Flag.astro';
 import { slugifyRegion } from '../lib/slug';
+import { canonicalRegion } from '../lib/region-alias.mjs';
 import { siteHref } from '../lib/urls.mjs';
 import { SITE } from '../siteConfig';
 import countriesData from '../../data/countries.json';
@@ -32,10 +33,13 @@ const posts = await getCollection('posts', ({ data }) => !data.draft);
 // the first one put concert photos on 26 of 174 city tiles (Madrid showed The
 // Weeknd on stage in Milan). One picker for every city/country tile.
 const byRegion = new Map<string, typeof posts>();
+// A region whose hub 301s elsewhere (src/lib/region-alias.mjs) is listed under
+// the city it lands on, so no card here points at a redirect.
 for (const p of posts) {
-  const list = byRegion.get(p.data.region) ?? [];
+  const key = canonicalRegion(p.data.region) ?? p.data.region;
+  const list = byRegion.get(key) ?? [];
   list.push(p);
-  byRegion.set(p.data.region, list);
+  byRegion.set(key, list);
 }
 const countryByName = new Map(countriesData.countries.map((c: any) => [c.name, c]));
 const wtgCountries = new Set((await whenToGoCountryPages()).map((c: any) => c.countrySlug));
@@ -412,12 +416,15 @@ const jsonLd = {
         const sum = grp.querySelector<HTMLElement>('[data-group-sum]');
         if (sum) sum.textContent = sum.dataset.tpl!.replace('{r}', nf.format(shown.length)).replace('{g}', nf.format(shown.reduce((s, c) => s + +c.dataset.count!, 0)));
       }
-      root.querySelectorAll<HTMLElement>('[data-kid-count]').forEach((a) => { a.hidden = five.checked && +a.dataset.kidCount! < 5; });
+      root.querySelectorAll<HTMLElement>('[data-kid-count]').forEach((a) => { a.hidden = words.length > 0 || (five.checked && +a.dataset.kidCount! < 5); });
       root.querySelectorAll<HTMLElement>('.rg-kids').forEach((k) => { k.hidden = !k.querySelector('a:not([hidden])'); });
       alphaBox?.querySelectorAll<HTMLElement>('.rg-letter').forEach((s) => { s.hidden = !s.querySelector('[data-card]:not([hidden])'); });
       keys?.querySelectorAll<HTMLAnchorElement>('a').forEach((a) => {
         const s = document.getElementById(a.getAttribute('href')!.slice(1));
-        a.classList.toggle('is-off', !s || s.hidden);
+        const off = !s || s.hidden;
+        a.classList.toggle('is-off', off);
+        a.tabIndex = off ? -1 : 0;
+        if (off) a.setAttribute('aria-disabled', 'true'); else a.removeAttribute('aria-disabled');
       });
       showing.textContent = showing.dataset.tpl!.replace('{p}', nf.format(p)).replace('{g}', nf.format(g));
       empty.hidden = p > 0;

@@ -51,7 +51,10 @@ const WALL_DIR = fileURLToPath(new URL('../../public/wall/', import.meta.url));
 const seenCountry = new Set<string>();
 // A localized page links only to posts that exist in that language (codex:
 // /ko/posts/<untranslated> is a 404).
-const translated = lang === 'en' ? null : new Set((await getCollection('postI18n')).map((e) => e.id).filter((id) => id.startsWith(`${lang}/`)).map((id) => id.slice(lang.length + 1)));
+const i18nPosts = lang === 'en' ? [] : (await getCollection('postI18n')).filter((e) => e.id.startsWith(`${lang}/`));
+const translated = lang === 'en' ? null : new Set(i18nPosts.map((e) => e.id.slice(lang.length + 1)));
+// Alt text in the page's language: the translated guide's own title.
+const titleOf = new Map<string, string>(i18nPosts.map((e: any) => [e.id.slice(lang.length + 1), e.data.title]));
 const proofPhotos = posts
   .filter((p) => !translated || translated.has(p.id))
   .filter((p) => ['wikimedia', 'kto-open', 'openverse-cc'].includes(p.data.heroImage?.license ?? '') && p.data.heroImage?.credit)
@@ -61,7 +64,7 @@ const proofPhotos = posts
     const name = `${wallHash(url)}.webp`;
     if (!existsSync(WALL_DIR + name) || seenCountry.has(p.data.country)) return [];
     seenCountry.add(p.data.country);
-    return [{ src: `/wall/${name}`, credit: p.data.heroImage!.credit!, href: localizePath(`/posts/${p.id}`, lang), place: p.data.place?.name ?? p.data.region }];
+    return [{ src: `/wall/${name}`, credit: p.data.heroImage!.credit!, href: localizePath(`/posts/${p.id}`, lang), place: (titleOf.get(p.id) ?? p.data.place?.name ?? p.data.region).split(/[:：]/)[0].trim() }];
   })
   .slice(0, 3);
 
@@ -465,9 +468,9 @@ const jsonLd = {
           <span>{t.visSub(visited.length, visitedWithGuides)}</span>
         </div>
         <div class="ep-filters" role="group">
-          <button type="button" class="ep-chip is-on" data-cont="all">{t.all} <small>{visited.length}</small></button>
+          <button type="button" class="ep-chip is-on" aria-pressed="true" data-cont="all">{t.all} <small>{visited.length}</small></button>
           {continents.filter((c) => contCount[c] > 0).map((c) => (
-            <button type="button" class="ep-chip" data-cont={c}>{CONT[c][lang]} <small>{contCount[c]}</small></button>
+            <button type="button" class="ep-chip" aria-pressed="false" data-cont={c}>{CONT[c][lang]} <small>{contCount[c]}</small></button>
           ))}
         </div>
         <label class="ep-toggle"><input type="checkbox" data-only-guides /> <span>{t.onlyGuides}</span></label>
@@ -550,7 +553,7 @@ const jsonLd = {
         <p>{t.fixDek}</p>
         <a class="ep-link" href={contactHref}>{t.fixOther}</a>
       </div>
-      <form class="ep-form" data-fix data-email={contactEmail} data-page={Astro.url.pathname}>
+      <form class="ep-form" data-fix data-email={contactEmail} data-page={Astro.url.pathname} data-tag={({ en: '[Correction]', ko: '[정정]', ja: '[訂正]', es: '[Corrección]', zh: '[纠错]' } as const)[lang]}>
         <fieldset>
           <legend>{t.fType}</legend>
           <div class="ep-types">
@@ -600,7 +603,7 @@ const jsonLd = {
     };
     box.querySelectorAll<HTMLButtonElement>('.ep-chip').forEach((b) => b.addEventListener('click', () => {
       cont = b.dataset.cont || 'all';
-      box.querySelectorAll('.ep-chip').forEach((x) => x.classList.toggle('is-on', x === b));
+      box.querySelectorAll('.ep-chip').forEach((x) => { x.classList.toggle('is-on', x === b); x.setAttribute('aria-pressed', String(x === b)); });
       apply();
     }));
     only?.addEventListener('change', apply);
@@ -635,7 +638,7 @@ const jsonLd = {
       const kind = String(fd.get('kind') || '');
       const place = String(fd.get('place') || '').trim();
       const what = String(fd.get('what') || '').trim();
-      const subject = `[Correction] ${kind}: ${place}`.slice(0, 140);
+      const subject = `${form.dataset.tag} ${kind}: ${place}`.slice(0, 140);
       const body = `${kind}\n${place}\n\n${what}\n\n— ${location.origin}${form.dataset.page || ''}`;
       location.href = `mailto:${form.dataset.email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
     });

@@ -89,3 +89,17 @@ test('region 이 없는 글은 판정 대상이 아니다 — 하지만 그것�
   assert.equal(r.code, 1, r.out);
   assert.match(r.out, /NOTHING-EXAMINED/);
 });
+
+// The publish gate retags an alias spelling at birth (Quezon City → Manila,
+// src/lib/region-alias.mjs) after the filename is fixed; both names reach the
+// same hub, so that is not a mismatch — but an unrelated city still is.
+test('별칭 도시 이름으로 시작하는 슬러그는 같은 도시로 인정, 다른 도시는 여전히 걸린다', () => {
+  const ok = tree({ 'quezon-city-some-concert': 'Manila', 'washington-a-bar': 'Washington DC' });
+  const r1 = run(ok);
+  rmSync(ok, { recursive: true, force: true });
+  assert.equal(r1.code, 0, r1.out);
+  const bad = tree({ 'quezon-city-some-concert': 'Bangkok' });
+  const r2 = run(bad);
+  rmSync(bad, { recursive: true, force: true });
+  assert.notEqual(r2.code, 0, r2.out);
+});

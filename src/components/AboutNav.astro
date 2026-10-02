@@ -28,7 +28,8 @@ const group = current === 'privacy' || current === 'terms' ? L.legal : L.group;
 </nav>
 
 <style>
-  .an { display: grid; gap: 10px; }
+  .an { display: grid; gap: 10px; min-width: 0; max-width: 100%; }
+  .an-pills { min-width: 0; }
   .an-crumb { margin: 0; font-size: .82rem; color: var(--muted); display: flex; gap: 8px; flex-wrap: wrap; }
   .an-crumb a { color: inherit; text-decoration: none; }
   .an-crumb b { color: var(--ink); font-weight: 600; }

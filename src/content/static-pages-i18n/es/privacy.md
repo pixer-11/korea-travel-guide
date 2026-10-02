@@ -29,7 +29,7 @@ También usamos [Google Analytics 4](https://policies.google.com/technologies/pa
 
 ## Información almacenada en tu dispositivo
 
-Algunas funciones guardan pequeños fragmentos de información en tu propio navegador (almacenamiento local), como los lugares que guardas en "My trip" y si ya has cerrado el aviso del boletín. Esta información permanece en tu dispositivo, no se nos envía, y puede eliminarse en cualquier momento desde la configuración de tu navegador.
+Algunas funciones guardan pequeños fragmentos de información en tu propio navegador (almacenamiento local), como los lugares que guardas en "Mi viaje" y si ya has cerrado el aviso del boletín. Esta información permanece en tu dispositivo, no se nos envía, y puede eliminarse en cualquier momento desde la configuración de tu navegador.
 
 ## Enlaces de afiliados y servicios de socios
 

@@ -2,7 +2,7 @@
 title: 'Zara Larsson: Midnight Sun Tour: Dates, Tickets & Venue (Quezon City)'
 description: 'Zara Larsson: Midnight Sun Tour in Quezon City, Philippines — October 30, 2026. What it is, when and where, and how to plan around it.'
 country: Philippines
-region: Quezon City
+region: Manila
 category: event
 pubDate: '2026-09-16'
 eventStartDate: '2026-10-30'

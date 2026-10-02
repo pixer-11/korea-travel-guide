@@ -10,6 +10,7 @@ import { hubPathsFor, dayTripHubDates } from './src/lib/hub-lastmod.mjs';
 import { computeDayTrips } from './src/lib/dayTrips.mjs';
 import { parseSourceFile } from './scripts/lib/src-hash.mjs';
 import { mergeRedirectRules } from './src/lib/redirect-rules.mjs';
+import { REGION_ALIAS } from './src/lib/region-alias.mjs';
 import { MONTHS, monthSlug, eligibleCountries, whenToGo } from './src/lib/when-to-go.mjs';
 import { isIndexableMonthPage, monthPageSignals } from './src/lib/thin-page-policy.mjs';
 // Region URLs switched from raw `region.toLowerCase()` (spaces left as %20 on 32
@@ -274,25 +275,9 @@ const HUB_LASTMOD = hubLastmod();
 // census of the sitemap on 2026-08-07 returned 6,125 × 200 and exactly 10 × 301:
 // new-york-city and pasay-city, in five languages each.
 /** @type {Record<string, string>} */
-const REGION_ALIAS = {
-  'new-york-city': 'new-york',
-  'metro-manila': 'manila',
-  'pasay-city': 'manila',
-  'quezon-city': 'manila',
-  'makati-city': 'makati',
-  xian: 'xi-an',
-  // Greater-Bangkok satellite: Nonthaburi (Impact Arena's province) has no
-  // hub of its own, which sent its quarantined concert post's 301 to the
-  // homepage. Bangkok is where those visitors were going anyway — same
-  // metro-area convention as pasay/quezon → manila above.
-  nonthaburi: 'bangkok',
-  // Same city under two spellings (2026-10-02, the owner's regions mock-up
-  // review): each had its own thin hub beside the real one. The posts were
-  // retagged to the canonical name; these keep the old hub URLs landing.
-  'goyang-si': 'goyang',
-  'ha-long': 'ha-long-bay',
-  washington: 'washington-dc',
-};
+// The alias table lives in src/lib/region-alias.mjs: the publish gate retags
+// new posts with it, so the build and the gate can never disagree.
+export { REGION_ALIAS };
 
 export function regionRedirects() {
   const dir = join(__dirname, 'src/content/posts');
@@ -381,7 +366,8 @@ export function regionRedirects() {
     const oldEnc = encodeURI(from.toLowerCase());
     // An alias key is already redirected below; a second line for it is a
     // duplicate Cloudflare refuses the whole deploy over.
-    if (oldEnc !== to && !regions.has(from) && !(oldEnc in alias)) lines.push(`/regions/${oldEnc}/ /regions/${to}/ 301`);
+    if (oldEnc === to || regions.has(from) || oldEnc in alias) continue;
+    for (const p of ['', '/ko', '/ja', '/es', '/zh']) lines.push(`${p}/regions/${oldEnc}/ ${p}/regions/${to}/ 301`);
   }
   // The alias lines used to exist only for the English path, so
   // /ko/regions/xian/ (reachable from redirected localized post URLs) 404ed.
