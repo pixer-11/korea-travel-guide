@@ -8347,9 +8347,9 @@
  },
  "hong-kong-terrace-boulud\u0001https://fastly.4sqi.net/img/general/original/20963300_RMeSAZMNHYCT5pF2GhWgpYzHOGiKbxocmJ_7oL-5G1w.jpg": {
   "slug": "hong-kong-terrace-boulud",
-  "verdict": "WEAK",
-  "reason": "patrol replace: Bread and butter, plausibly fine dining but generic.",
-  "at": "2026-10-01T23:27:08.378Z"
+  "verdict": "MATCH",
+  "reason": "patrol re-check: Bread and butter dish photographed at restaurant table setting",
+  "at": "2026-10-02T23:10:41.787Z"
  },
  "hong-kong-the-weeknd-after-hours-til-dawn-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/The_Weeknd_Universal_Studios_Hollywood.jpg/3840px-The_Weeknd_Universal_Studios_Hollywood.jpg": {
   "slug": "hong-kong-the-weeknd-after-hours-til-dawn-tour",
@@ -11489,6 +11489,12 @@
   "reason": "patrol reject: identity: credit names \"Senya Izakaya\", post is \"Kokomo Izakaya\"",
   "at": "2026-10-01T23:29:55.624Z"
  },
+ "kuala-lumpur-kokomo-izakaya\u0001https://fastly.4sqi.net/img/general/original/43744973_UwSs0TX6nXSkMUhe6pN5uVLScq-vfphPXdGzIwpGizI.jpg": {
+  "slug": "kuala-lumpur-kokomo-izakaya",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: credit names \"Senya Izakaya\", post is \"Kokomo Izakaya\"",
+  "at": "2026-10-02T23:10:51.789Z"
+ },
  "kuala-lumpur-kokomo-izakaya\u0001https://fastly.4sqi.net/img/general/original/70841148_XCggyboJRBw1NIGYxRnRDLiN9GiEnJtWM52XgIT-bWU.jpg": {
   "slug": "kuala-lumpur-kokomo-izakaya",
   "verdict": "MISMATCH",
@@ -12131,8 +12137,8 @@
  "little-india-former-house-of-tan-teng-niah\u0001https://fastly.4sqi.net/img/general/original/1608906_BP7rP1M3Vv9A4npYC4s_fdA_ZuUUfS0wvaIJ6MRFIi8.jpg": {
   "slug": "little-india-former-house-of-tan-teng-niah",
   "verdict": "MATCH",
-  "reason": "patrol replace: Colorful heritage building in Little India, Singapore",
-  "at": "2026-09-30T23:10:15.896Z"
+  "reason": "patrol replace: Colorful heritage building, Little India Singapore architect",
+  "at": "2026-10-02T23:10:58.729Z"
  },
  "little-india-former-house-of-tan-teng-niah\u0001https://fastly.4sqi.net/img/general/original/58563680_9ZCugZu4LqvzpKjyZGIn8k1lQBv17Sjro6AqDSH0VXY.jpg": {
   "slug": "little-india-former-house-of-tan-teng-niah",
@@ -13769,8 +13775,8 @@
  "milan-procaccini\u0001https://live.staticflickr.com/95/217582569_52ea43359f_k.jpg": {
   "slug": "milan-procaccini",
   "verdict": "MISMATCH",
-  "reason": "patrol reject: Unrelated monument with broken sculpture, not restaurant",
-  "at": "2026-10-01T23:32:17.445Z"
+  "reason": "patrol reject: Shows a broken sculpture/object, not the restaurant venue",
+  "at": "2026-10-02T23:11:20.497Z"
  },
  "milan-procaccini\u0001https://upload.wikimedia.org/wikipedia/commons/4/4c/9431_-_Milano_-_S._Angelo_-_Camillo_Procaccini%2C_Sposalizio_della_Vergine_-_Foto_Giovanni_Dall%27Orto_22-Apr-2007.jpg": {
   "slug": "milan-procaccini",
@@ -16629,6 +16635,12 @@
   "reason": "patrol reject: Close-up plated food, not showing venue setting",
   "at": "2026-10-01T23:33:59.136Z"
  },
+ "phnom-penh-gordon-ramsay-burger\u0001https://fastly.4sqi.net/img/general/original/7818748_OyCmtQxC4avBgukoU-GJsxepIU1U8asVsNmjkcQCuNI.jpg": {
+  "slug": "phnom-penh-gordon-ramsay-burger",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Isolated tabletop food shot, not venue interior/exterior",
+  "at": "2026-10-02T23:11:28.237Z"
+ },
  "phnom-penh-high-ground-sky-bar\u0001https://fastly.4sqi.net/img/general/original/68854733_VZziNyH7L7VOigNjDrn-rDCYbxeiClTuIB6W2m9M-aU.jpg": {
   "slug": "phnom-penh-high-ground-sky-bar",
   "verdict": "MISMATCH",
@@ -18340,6 +18352,18 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Traditional Asian pavilion architecture, not Seminyak trendy venue",
   "at": "2026-10-01T23:37:20.197Z"
+ },
+ "seminyak-32do-bali\u0001https://fastly.4sqi.net/img/general/original/314926_H2TcfIkYmCJOKqxghu0xyx0h1Z2B-CJEL7OU0a22qqs.jpg": {
+  "slug": "seminyak-32do-bali",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: credit names \"The Royal Beach Seminyak Bali\", post is \"32do Bali\"",
+  "at": "2026-10-02T23:11:42.594Z"
+ },
+ "seminyak-32do-bali\u0001https://fastly.4sqi.net/img/general/original/314926_WAgqaopaTBLfSs0jjXqISwFXVnVG2GDJaeTxPtVH90A.jpg": {
+  "slug": "seminyak-32do-bali",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Dark, smoky scene; incidental fragment, not representative venue shot",
+  "at": "2026-10-02T23:11:44.279Z"
  },
  "seminyak-32do-bali\u0001https://fastly.4sqi.net/img/general/original/314926_tzxOSMY6GkC33U-CLCPfpy7BxRWd5WQckppJhZi1Dwo.jpg": {
   "slug": "seminyak-32do-bali",
