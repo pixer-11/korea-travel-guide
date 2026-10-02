@@ -450,7 +450,7 @@ const CITY_T = {
   .mt-dialog div { display: flex; gap: .5rem; }
 
   @media (max-width: 959px) {
-    .mt-hero, .mt-grid, .mt-trust { grid-template-columns: 1fr; }
+    .mt-hero, .mt-grid, .mt-trust { grid-template-columns: minmax(0, 1fr); }
     .mt-steps, .mt-start-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
     .mt-side { position: static; }
   }
@@ -458,24 +458,24 @@ const CITY_T = {
     .mt-stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
     /* A narrow side photo squeezed the body until the day picker broke onto
        two lines: on a phone the photo goes on top. */
-    .mt-item { grid-template-columns: 1fr; gap: .7rem; padding: .75rem; }
+    .mt-item { grid-template-columns: minmax(0, 1fr); gap: .7rem; padding: .75rem; }
     .mt-thumb { aspect-ratio: 16 / 9; }
     .mt-body { padding-right: 0; }
     .mt-x { top: 1.2rem; right: 1.2rem; background: rgba(255, 255, 255, .92); color: #2a2118; }
     .mt-name { font-size: 1.05rem; }
     .mt-days { align-self: flex-start; }
-    .mt-near-grid, .mt-steps, .mt-start-grid { grid-template-columns: 1fr; }
+    .mt-near-grid, .mt-steps, .mt-start-grid { grid-template-columns: minmax(0, 1fr); }
     .mt-preview-wrap { padding: 1.4rem .2rem .6rem 1rem; }
     .mt-near-card { flex-direction: row; }
     .mt-near-card .mt-near-img { width: 7rem; aspect-ratio: auto; flex: none; }
-    .mt-course { grid-template-columns: 1fr; }
+    .mt-course { grid-template-columns: minmax(0, 1fr); }
     .mt-course-img { display: none; }
     .mt-more { margin-left: 0; }
     .mt-clock { padding: 1.4rem; }
   }
   @media print {
     .mt-bar, .mt-tools, .mt-side, .mt-near, .mt-course, .mt-x, .mt-days, .mt-acts, .mt-clock, .mt-shared, .mt-local, .mt-badge { display: none !important; }
-    .mt-item { break-inside: avoid; grid-template-columns: 1fr; }
+    .mt-item { break-inside: avoid; grid-template-columns: minmax(0, 1fr); }
     .mt-thumb { display: none; }
   }
 </style>

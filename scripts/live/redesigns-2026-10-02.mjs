@@ -16,9 +16,16 @@ const pg = await b.newPage({ viewport: { width: 375, height: 812 } });
 const bad = [];
 
 for (const l of LANGS) for (const p of PAGES) {
-  await pg.goto(`${BASE}${l}/${p}/`, { waitUntil: 'networkidle', timeout: 120000 });
-  const sw = await pg.evaluate(() => document.documentElement.scrollWidth);
-  if (sw > 376) bad.push(`overflow ${l}/${p} ${sw}px`);
+  const res = await pg.goto(`${BASE}${l}/${p}/`, { waitUntil: 'networkidle', timeout: 120000 });
+  // A 404 page is narrow too — a status and a heading are part of "passes".
+  if (!res || res.status() !== 200) { bad.push(`status ${res?.status()} ${l}/${p}`); continue; }
+  // Folded content (the privacy ads clause) is measured open, not closed.
+  const sw = await pg.evaluate(() => {
+    document.querySelectorAll('details').forEach((d) => { d.open = true; });
+    return { w: document.documentElement.scrollWidth, h1: document.querySelectorAll('h1').length };
+  });
+  if (sw.h1 !== 1) bad.push(`h1×${sw.h1} ${l}/${p}`);
+  if (sw.w > 376) bad.push(`overflow ${l}/${p} ${sw.w}px`);
 }
 
 // The contact draft must carry what the reader typed.
@@ -47,11 +54,25 @@ if (!/^1 places?\b/.test(shown.trim())) bad.push(`regions search "kyoto": ${show
 
 // A city kept with the heart must reach /my-trip and the header count
 // (src/lib/saved-cities.ts, 2026-10-02).
-await pg.goto(`${BASE}/ko/my-trip/`, { waitUntil: 'networkidle', timeout: 120000 });
-await pg.evaluate(() => localStorage.setItem('wa_saved_regions_v1', JSON.stringify(['seoul', 'tokyo'])));
+// Saved through the real buttons — a heart on the index and the one on a
+// city hub — and counted only where a reader can see them.
+await pg.goto(`${BASE}/ko/regions/`, { waitUntil: 'networkidle', timeout: 120000 });
+await pg.evaluate(() => { localStorage.removeItem('wa_saved_regions_v1'); localStorage.removeItem('wa_trip_v1'); });
 await pg.reload({ waitUntil: 'networkidle', timeout: 120000 });
+await pg.click('[data-rg] [data-fav="tokyo"]');
+await pg.goto(`${BASE}/ko/regions/seoul/`, { waitUntil: 'networkidle', timeout: 120000 });
+await pg.click('[data-city-save] button');
+await pg.goto(`${BASE}/ko/my-trip/`, { waitUntil: 'networkidle', timeout: 120000 });
 await pg.waitForTimeout(1500);
-const kept = await pg.evaluate(() => ({ cards: document.querySelectorAll('.mt-city').length, badge: document.querySelector('.nav-trip-n')?.textContent || '' }));
+const kept = await pg.evaluate(() => {
+  const seen = (el) => !!el && el.getClientRects().length > 0 && getComputedStyle(el).visibility !== 'hidden';
+  return {
+    cards: [...document.querySelectorAll('.mt-city')].filter(seen).length,
+    // At phone width the header link sits in the folded menu, so the badge is
+    // read, not required to be on screen.
+    badge: document.querySelector('.nav-trip-n')?.textContent || '',
+  };
+});
 if (kept.cards !== 2 || kept.badge !== '2') bad.push(`saved cities on /ko/my-trip: ${kept.cards} cards, badge "${kept.badge}"`);
 await pg.evaluate(() => localStorage.removeItem('wa_saved_regions_v1'));
 

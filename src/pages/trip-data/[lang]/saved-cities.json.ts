@@ -48,7 +48,7 @@ export async function GET({ params }: { params: { lang: Lang } }) {
       img: url ? tileSize(url) : '',
       hub: localizePath(`/regions/${slug}/`, lang),
       wtg: cs && wtg.has(cs) ? localizePath(`/tools/when-to-go/${cs}/`, lang) : '',
-      itin: itin ? localizePath(`/itinerary/${itin.id}`, lang) : '',
+      itin: itin ? localizePath(`/itinerary/${itin.id}/`, lang) : '',
       days: itin?.data.days ?? 0,
     };
   }

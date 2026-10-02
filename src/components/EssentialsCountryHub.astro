@@ -587,7 +587,7 @@ const cityTone = ['tone-green', 'tone-brown', 'tone-sand'];
   .ess-summary { display: grid; gap: 0.8rem; margin: 0.9rem 0 1.6rem; grid-template-columns: repeat(4, 1fr); }
   .ess-summary.n3 { grid-template-columns: repeat(3, 1fr); }
   .ess-summary.n2 { grid-template-columns: repeat(2, 1fr); }
-  .ess-summary.n1 { grid-template-columns: 1fr; }
+  .ess-summary.n1 { grid-template-columns: minmax(0, 1fr); }
   .ess-sum { display: flex; flex-direction: column; gap: 0.35rem; padding: 1.3rem 1.3rem 1.4rem; border-radius: 24px; background: var(--ess-card); color: var(--ink); text-decoration: none; box-shadow: var(--shadow-sm); transition: transform 0.15s; }
   .ess-sum:hover { transform: translateY(-2px); }
   .ess-sum.lead { background: var(--ess-forest); color: var(--ess-on-dark); }
@@ -678,7 +678,7 @@ const cityTone = ['tone-green', 'tone-brown', 'tone-sand'];
   .ess-code { padding: 0.18rem 0.6rem; border-radius: 999px; background: var(--ess-sand); font-size: 0.78rem; color: var(--ink-soft); white-space: nowrap; }
   .ess-visa-card.lead .ess-code { background: rgba(255, 255, 255, 0.16); color: var(--ess-on-dark); }
   .ess-visa-who { margin: 0; font-weight: 600; font-size: 0.92rem; line-height: 1.5; }
-  .ess-visa-stats { display: grid; grid-template-columns: 1fr 1fr; gap: 0.5rem; }
+  .ess-visa-stats { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.5rem; }
   .ess-visa-stats span { background: var(--ess-sand); border-radius: 16px; padding: 0.6rem 0.75rem; font-weight: 700; font-size: 0.92rem; line-height: 1.4; }
   .ess-visa-card.lead .ess-visa-stats span { background: var(--ess-forest); }
   .ess-visa-stats small { display: block; font-weight: 600; font-size: 0.72rem; opacity: 0.75; margin-bottom: 0.15rem; }

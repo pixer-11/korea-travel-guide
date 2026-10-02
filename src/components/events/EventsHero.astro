@@ -114,5 +114,5 @@ const long = h1a.length > 14;
   .evh-cal { display: flex; align-items: center; justify-content: center; gap: .5rem; margin-top: 1rem; padding: .75rem 1rem; border-radius: var(--r-pill); background: var(--ev-on-dark); color: #262d1b; font-weight: 700; text-decoration: none; }
   .evh-cal:hover { filter: brightness(.96); }
   .evh-cal-hint { margin: .6rem 0 0; font-size: .8rem; text-align: center; opacity: .8; }
-  @media (max-width: 859px) { .evh-grid { grid-template-columns: 1fr; gap: 1.4rem; } }
+  @media (max-width: 859px) { .evh-grid { grid-template-columns: minmax(0, 1fr); gap: 1.4rem; } }
 </style>

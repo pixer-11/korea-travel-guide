@@ -229,7 +229,7 @@ const tones = ['is-green', 'is-green', 'is-peach', 'is-cream'];
   @media (max-width: 900px) {
     .lg-grid { grid-template-columns: minmax(0, 1fr); }
     .lg-side { position: static; order: -1; }
-    .lg-cards, .lg-cards.terms { grid-template-columns: 1fr 1fr; }
+    .lg-cards, .lg-cards.terms { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   }
   @media (max-width: 560px) {
     .lg { padding: 14px 16px 48px; }

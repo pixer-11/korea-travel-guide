@@ -759,7 +759,7 @@ const jsonLd = {
   .ep-keep li { padding-left: 26px; position: relative; font-size: .92rem; line-height: 1.5; }
   .ep-keep li::before { content: '✓'; position: absolute; left: 0; top: 0; width: 18px; height: 18px; border-radius: 50%; background: var(--pine); color: #fff; font-size: .7rem; display: grid; place-items: center; }
   .ep-nav { display: flex; justify-content: space-between; gap: 8px; }
-  .ep-ai { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-top: 14px; }
+  .ep-ai { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; margin-top: 14px; }
   .ep-ai > div { border-radius: var(--r-lg); padding: 16px 18px; }
   .ep-ai span { font-size: .82rem; font-weight: 700; }
   .ep-ai ul { list-style: none; padding: 0; margin: 10px 0 0; display: flex; flex-wrap: wrap; gap: 6px; }
@@ -814,7 +814,7 @@ const jsonLd = {
 
   @media (max-width: 900px) {
     .ep-hero, .ep-editor, .ep-images, .ep-fix, .ep-faq, .ep-panel { grid-template-columns: minmax(0, 1fr); }
-    .ep-promises { grid-template-columns: 1fr 1fr; }
+    .ep-promises { grid-template-columns: repeat(2, minmax(0, 1fr)); }
     .ep-steps { grid-template-columns: repeat(5, minmax(150px, 1fr)); overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: 4px; }
     .ep-step { scroll-snap-align: start; }
     .ep-hero-media { min-height: 400px; }

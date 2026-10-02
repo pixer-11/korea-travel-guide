@@ -956,14 +956,14 @@ const coverImage = mosaic[0]?.src;
   .itin-related-link a { color: var(--accent); }
 
   @media (max-width: 640px) {
-    .itin-stop { grid-template-columns: 1fr; }
+    .itin-stop { grid-template-columns: minmax(0, 1fr); }
     .itin-stop-thumb { aspect-ratio: 16/9; }
   }
 
   /* 10. Print stylesheet — hide interactive/monetization chrome, linearize cards. */
   @media print {
     .itin-filters, .ith-bar, .ith-side, .ith-mosaic, .itin-day-nav, .itin-day-actions, .book-cta, .newsletter, .plan-trip, .itin-email-slot { display: none !important; }
-    .itin-stop { grid-template-columns: 1fr; border: none; border-bottom: 1px solid #ccc; border-radius: 0; page-break-inside: avoid; }
+    .itin-stop { grid-template-columns: minmax(0, 1fr); border: none; border-bottom: 1px solid #ccc; border-radius: 0; page-break-inside: avoid; }
     .itin-stop-thumb { display: none; }
     .itin-leg { margin-left: 0; }
   }
@@ -1023,7 +1023,7 @@ const coverImage = mosaic[0]?.src;
   .ith-more legend { font-size: .75rem; font-weight: 800; letter-spacing: .04em; text-transform: uppercase; opacity: .7; margin-bottom: .35rem; padding: 0; }
   .ith-more label { display: flex; align-items: center; gap: .4rem; font-size: .9rem; padding: .12rem 0; }
   .ith-bar .itin-save-hint a { color: #e3ecd0; }
-  @media (max-width: 759px) { .ith-bar-row { grid-template-columns: 1fr; } .ith-rain-btn { justify-self: start; } }
+  @media (max-width: 759px) { .ith-bar-row { grid-template-columns: minmax(0, 1fr); } .ith-rain-btn { justify-self: start; } }
 
   /* Day tabs */
   .itin-page .itin-day-nav { gap: .45rem; align-items: center; border-bottom: 1px solid var(--line); padding: .6rem 0; margin: 0 0 1.4rem; }

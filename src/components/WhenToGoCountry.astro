@@ -378,9 +378,9 @@ const jsonLd = {
   .disclosure { color: var(--muted); font-size: 0.78rem; margin-top: 2rem; line-height: 1.6; }
 
   @media (max-width: 56rem) {
-    .wtg-hero { grid-template-columns: 1fr; padding: 1.4rem 1.3rem; }
+    .wtg-hero { grid-template-columns: minmax(0, 1fr); padding: 1.4rem 1.3rem; }
     .hero-stats { gap: 1.2rem; padding: 0.9rem 1.1rem; }
-    .wtg-cols { grid-template-columns: 1fr; }
+    .wtg-cols { grid-template-columns: minmax(0, 1fr); }
   }
   @media (max-width: 30rem) {
     .months { grid-template-columns: repeat(4, minmax(0, 1fr)); }

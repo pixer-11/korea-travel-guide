@@ -391,11 +391,11 @@ const namesItsRegion = (label: string, region?: string | null) => {
   .disclosure { margin: 1.8rem 0 0; color: var(--muted); font-size: 0.8rem; }
 
   @media (max-width: 56rem) {
-    .wtg-hero { grid-template-columns: 1fr; padding: 1.5rem 1.3rem; }
+    .wtg-hero { grid-template-columns: minmax(0, 1fr); padding: 1.5rem 1.3rem; }
     .hero-stats { gap: 1.2rem; justify-content: space-between; padding: 0.9rem 1.1rem; }
     .hero-stats dd { font-size: 1.25rem; }
-    .wtg-cols { grid-template-columns: 1fr; }
-    .wtg-plan { grid-template-columns: 1fr; align-items: stretch; }
+    .wtg-cols { grid-template-columns: minmax(0, 1fr); }
+    .wtg-plan { grid-template-columns: minmax(0, 1fr); align-items: stretch; }
   }
   @media (max-width: 30rem) {
     .months { grid-template-columns: repeat(4, minmax(0, 1fr)); }

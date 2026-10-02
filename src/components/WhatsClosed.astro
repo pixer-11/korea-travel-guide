@@ -255,12 +255,12 @@ const payload = JSON.stringify({ island, S, locale, postBase, maxDays: MAX_GRID_
   .wc-next { margin: 1.5rem 0 0; display: flex; flex-wrap: wrap; gap: 0.6rem; }
 
   @media (max-width: 52rem) {
-    .wc-form { grid-template-columns: 1fr 1fr; border-radius: 22px; }
+    .wc-form { grid-template-columns: repeat(2, minmax(0, 1fr)); border-radius: 22px; }
     .wc-form .wc-field:first-child { grid-column: 1 / -1; }
     .wc-go { grid-column: 1 / -1; }
   }
   @media (max-width: 30rem) {
-    .wc-form { grid-template-columns: 1fr; }
+    .wc-form { grid-template-columns: minmax(0, 1fr); }
   }
 
   /* The results are drawn by the renderer as a string (server set:html, then
@@ -357,10 +357,10 @@ const payload = JSON.stringify({ island, S, locale, postBase, maxDays: MAX_GRID_
   #wc-results :global(.wcv-plan li strong) { color: #fff; }
 
   @media (max-width: 52rem) {
-    #wc-results :global(.wcv-pair) { grid-template-columns: 1fr; }
+    #wc-results :global(.wcv-pair) { grid-template-columns: minmax(0, 1fr); }
   }
   @media (max-width: 40rem) {
-    #wc-results :global(.wcv-sum) { grid-template-columns: 1fr; }
+    #wc-results :global(.wcv-sum) { grid-template-columns: minmax(0, 1fr); }
     #wc-results :global(.wcv-card) { display: grid; grid-template-columns: 1fr auto; align-items: center; column-gap: 0.8rem; }
     #wc-results :global(.wcv-card-n) { grid-row: 1 / span 2; grid-column: 2; margin: 0 !important; font-size: 1.9rem; }
     #wc-results :global(.wcv-grid tbody th) { min-width: 8.5rem; }

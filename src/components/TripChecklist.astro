@@ -631,7 +631,7 @@ const clientData = JSON.stringify({
   .ck-dest-search { width: 100%; font: inherit; padding: .55rem .8rem; border-radius: 12px; border: 1px solid var(--line-strong); background: var(--bg, #fff); color: var(--ink); }
   .ck-dest-own[hidden] { display: none; }
   .ck-dest-own { display: block; width: 100%; margin-top: .5rem; text-align: left; font: inherit; font-weight: 700; padding: .5rem .8rem; border-radius: 12px; border: 1px dashed var(--ck-ring); background: none; color: var(--ck-brown); cursor: pointer; }
-  .ck-dest-list { list-style: none; margin: .6rem 0 0; padding: 0; max-height: 15rem; overflow-y: auto; display: grid; grid-template-columns: 1fr 1fr; gap: .3rem; }
+  .ck-dest-list { list-style: none; margin: .6rem 0 0; padding: 0; max-height: 15rem; overflow-y: auto; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .3rem; }
   .ck-dest-list button { width: 100%; display: flex; align-items: center; gap: .4rem; text-align: left; font: inherit; font-size: .9rem; font-weight: 600; padding: .45rem .6rem; border-radius: 10px; border: 0; background: var(--ck-row); color: var(--ink); cursor: pointer; }
   .ck-dest-list button:hover { background: var(--ck-sand); }
   .ck-dest-list button[aria-selected='true'] { background: var(--ck-brown); color: #fff; }
@@ -692,7 +692,7 @@ const clientData = JSON.stringify({
     .ck-pop { left: 0; right: auto; }
     .ck-stage { padding: 1rem 1rem 1.1rem; }
     .ck-item { padding: .55rem .75rem; }
-    .ck-dest-list { grid-template-columns: 1fr; }
+    .ck-dest-list { grid-template-columns: minmax(0, 1fr); }
   }
 
   /* Print: the two-page sheet of the mock-up. Site chrome, the buttons, the

@@ -668,7 +668,7 @@ main { flex: 1; width: 100%; }
 .featured h3 { font-size: clamp(1.6rem, 3vw, 2.3rem); }
 .featured p { -webkit-line-clamp: 3; font-size: 1.02rem; }
 @media (max-width: 760px) {
-  .featured { grid-template-columns: 1fr; }
+  .featured { grid-template-columns: minmax(0, 1fr); }
   .featured .thumb { min-height: 220px; }
 }
 
@@ -720,7 +720,7 @@ main { flex: 1; width: 100%; }
 }
 @media (max-width: 1000px) { .essentials-strip { grid-template-columns: repeat(3, 1fr); } }
 @media (max-width: 760px) { .essentials-strip { grid-template-columns: repeat(2, 1fr); } }
-@media (max-width: 520px) { .essentials-strip { grid-template-columns: 1fr; } }
+@media (max-width: 520px) { .essentials-strip { grid-template-columns: minmax(0, 1fr); } }
 .essential-card {
   display: flex;
   flex-direction: column;
@@ -995,6 +995,9 @@ body:has(#img-lightbox[open]) { overflow: hidden; }
 .rule-head { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; margin-bottom: 1.6rem; padding-bottom: 0.8rem; border-bottom: 1px solid var(--line); }
 .rule-link { font-size: 0.85rem; font-weight: 600; color: var(--accent-text); text-decoration: none; white-space: nowrap; }
 .rule-link:hover { text-decoration: underline; }
+/* nowrap keeps the arrow with its words; on the narrowest phones a long
+   Spanish or Japanese label wider than the screen must be allowed to wrap. */
+@media (max-width: 420px) { .rule-link, .prose .mid-cta-link { white-space: normal; overflow-wrap: anywhere; } }
 
 /* Cover story */
 .cover { position: relative; height: min(88vh, 760px); min-height: 460px; display: flex; align-items: flex-end; overflow: hidden; }
@@ -1161,7 +1164,7 @@ html[lang^='zh'] .cover-inner h1 {
 .crowd-legend .lg-quiet { background: #9dbe9c; }
 .crowd-legend .lg-mid { background: #f2cfae; }
 .crowd-legend .lg-busy { background: #e08574; }
-@media (max-width: 860px) { .tool-card--crowd { grid-template-columns: 1fr; } }
+@media (max-width: 860px) { .tool-card--crowd { grid-template-columns: minmax(0, 1fr); } }
 /* Copy needs its own wrapper or the band's flex scatters kicker/h2/dek into
    three columns (the owner caught exactly that on desktop). */
 .itin-copy { max-width: 44ch; }
@@ -1280,7 +1283,7 @@ html[lang^='zh'] .cover-inner h1 {
 .ess-copy h2 { font-size: clamp(1.5rem, 2.5vw, 2.05rem); margin: 0.45rem 0 0.6rem; }
 .ess-dek { color: var(--muted); font-size: 0.95rem; line-height: 1.6; margin: 0; }
 @media (max-width: 1000px) {
-  .essentials-widget { grid-template-columns: 1fr; }
+  .essentials-widget { grid-template-columns: minmax(0, 1fr); }
 }
 
 /* 뉴스레터 두 칸 배치 (08-08). 왼쪽 카피 / 오른쪽 입력 카드. */
@@ -1306,11 +1309,11 @@ html[lang^='zh'] .cover-inner h1 {
    stayed two-across and squeezed the email field to a sliver. */
 .newsletter > .wrap { container-type: inline-size; }
 @container (max-width: 719px) {
-  .nl-split { grid-template-columns: 1fr; gap: 1.5rem; }
+  .nl-split { grid-template-columns: minmax(0, 1fr); gap: 1.5rem; }
   .nl-form { flex-direction: column; }
 }
 @media (max-width: 860px) {
-  .nl-split { grid-template-columns: 1fr; gap: 1.5rem; }
+  .nl-split { grid-template-columns: minmax(0, 1fr); gap: 1.5rem; }
 }
 .nl-inner h2 { font-family: var(--font-display); font-weight: 700; font-size: clamp(1.6rem, 2.6vw, 2.15rem); margin: 0.5rem 0 0.7rem; color: #fff; }
 .nl-dek { color: #ffffff; line-height: 1.6; }
@@ -1338,11 +1341,11 @@ html[lang^='zh'] .cover-inner h1 {
 .newsletter-compact .nl-dek { font-size: 0.92rem; }
 
 @media (max-width: 860px) {
-  .stories { grid-template-columns: 1fr; }
-  .spotlight { grid-template-columns: 1fr; }
+  .stories { grid-template-columns: minmax(0, 1fr); }
+  .spotlight { grid-template-columns: minmax(0, 1fr); }
   .dest-bento { grid-template-columns: repeat(2, 1fr); }
   .dest-feat { grid-column: span 2; grid-row: auto; min-height: 240px; }
-  .trust { grid-template-columns: 1fr; gap: 1.4rem; }
+  .trust { grid-template-columns: minmax(0, 1fr); gap: 1.4rem; }
   .nl-form { flex-direction: column; }
 }
 
@@ -1372,7 +1375,7 @@ html[lang^='zh'] .cover-inner h1 {
    are gone on purpose: they would have restyled the cards' own anchors.) */
 .related-grid { grid-template-columns: repeat(auto-fill, minmax(min(200px, 100%), 1fr)); gap: 1rem; }
 .related-grid .card h3 { font-size: 1rem; }
-.related-nav { display: grid; grid-template-columns: 1fr 1fr; gap: 0.8rem; margin-top: 1.1rem; }
+.related-nav { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.8rem; margin-top: 1.1rem; }
 .related-nav a { display: flex; flex-direction: column; gap: 0.2rem; padding: 0.8rem 0.95rem; border: 1px solid var(--line); border-radius: var(--r-md);
                  background: var(--surface); text-decoration: none; color: var(--ink); transition: border-color .15s ease, transform .15s ease; }
 .related-nav a:hover { border-color: var(--accent); transform: translateY(-1px); }
@@ -1382,16 +1385,16 @@ html[lang^='zh'] .cover-inner h1 {
    the page with nothing to balance it (owner, with a screenshot, 2026-09-19).
    The placeholder span is gone; the single card now fills the row and reads
    left-to-right like everything else. */
-.related-nav--one { grid-template-columns: 1fr; }
+.related-nav--one { grid-template-columns: minmax(0, 1fr); }
 .related-nav--one .related-nav-next { text-align: left; align-items: flex-start; }
 .related-nav-k { font-size: 0.74rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.04em; }
 .related-nav-t { font-weight: 650; font-size: 0.95rem; line-height: 1.3; }
 @media (max-width: 520px) {
-  .related-grid { grid-template-columns: 1fr 1fr; gap: 0.6rem; }
+  .related-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.6rem; }
   /* Hide the third only when there are exactly three (2 across). With four it
      left three — one alone on the last row (2026-09-24 visual check). */
   .related-grid:not(:has(> :nth-child(4))) .card:nth-child(3) { display: none; }
-  .related-nav { grid-template-columns: 1fr; }
+  .related-nav { grid-template-columns: minmax(0, 1fr); }
   .related-nav-next { text-align: left; align-items: flex-start; }
 }
 
@@ -1548,7 +1551,7 @@ html[lang^='zh'] .cover-inner h1 {
 .plan-card { display: flex; align-items: center; gap: 0.85rem; padding: 0.9rem 1.05rem; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-md); box-shadow: var(--shadow-sm); transition: transform .15s ease, border-color .15s ease, box-shadow .15s ease; }
 .plan-card:hover { transform: translateY(-2px); border-color: var(--accent); box-shadow: 0 10px 24px rgba(0,0,0,.08); }
 .plan-ico { line-height: 1; flex: none; }
-.plan-txt { display: flex; flex-direction: column; gap: 0.1rem; min-width: 0; }
+.plan-txt { display: flex; flex-direction: column; gap: 0.1rem; min-width: 0; overflow-wrap: anywhere; }
 .plan-txt strong { font-size: 0.98rem; font-weight: 650; }
 .plan-txt span { font-size: 0.82rem; color: var(--muted); line-height: 1.35; }
 .plan-arw { margin-left: auto; color: var(--accent); font-weight: 700; transition: transform .15s ease; }
@@ -1557,7 +1560,7 @@ html[lang^='zh'] .cover-inner h1 {
    Hotels folded in) — six cards stacked one per row ran 834px; two per row
    with the label alone keeps it under a screen. */
 @media (max-width: 520px) {
-  .plan-grid { grid-template-columns: 1fr 1fr; gap: 0.5rem; }
+  .plan-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.5rem; }
   .plan-card { padding: 0.7rem 0.75rem; gap: 0.55rem; }
   .plan-txt strong { font-size: 0.9rem; line-height: 1.25; }
   .plan-txt span, .plan-arw { display: none; }

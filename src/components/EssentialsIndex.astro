@@ -432,7 +432,7 @@ const jsonLd = {
   .exh-search:focus-within { border-color: var(--accent); box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 18%, transparent); }
   .exh-search input { flex: 1; min-width: 0; border: 0; background: none; font: inherit; font-size: 1rem; color: var(--ink); outline: none; }
   .exh-suggest { position: absolute; left: 0; right: 0; top: calc(100% + .4rem); z-index: 20; list-style: none; margin: 0; padding: .5rem; max-height: 18rem; overflow-y: auto;
-    display: grid; grid-template-columns: 1fr 1fr; gap: .3rem; background: var(--surface); border: 1px solid var(--line); border-radius: 18px; box-shadow: 0 18px 40px rgba(20, 16, 8, .18); }
+    display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .3rem; background: var(--surface); border: 1px solid var(--line); border-radius: 18px; box-shadow: 0 18px 40px rgba(20, 16, 8, .18); }
   .exh-suggest[hidden] { display: none; }
   .exh-suggest button { width: 100%; display: flex; align-items: center; gap: .45rem; padding: .5rem .7rem; border: 0; border-radius: 12px; background: var(--x-sand); color: var(--ink); font: inherit; font-size: .92rem; font-weight: 600; text-align: left; cursor: pointer; }
   .exh-suggest button:hover { background: var(--x-leaf); }
@@ -473,12 +473,12 @@ const jsonLd = {
   .exh-btn { padding: .65rem 1.2rem; border-radius: var(--r-pill); background: var(--x-rust); color: #fff; font-weight: 700; text-decoration: none; }
   .exh-btn--ghost { background: transparent; border: 1px solid rgba(255, 255, 255, .35); color: var(--x-on-dark); }
   .exh-btn:hover { filter: brightness(1.08); }
-  @media (max-width: 859px) { .exh-cells { grid-template-columns: 1fr 1fr; } }
+  @media (max-width: 859px) { .exh-cells { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
   @media (max-width: 559px) {
     .exh-summary { padding: 1.3rem 1.1rem; border-radius: 24px; }
     .exh-tabs { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; margin-inline: -1.1rem; padding-inline: 1.1rem; }
     .exh-tabs button { flex: 0 0 auto; }
-    .exh-cells { grid-template-columns: 1fr; }
+    .exh-cells { grid-template-columns: minmax(0, 1fr); }
   }
 
   /* Section heads */
@@ -503,15 +503,15 @@ const jsonLd = {
   .exh-topic--forest .exh-topic-dek, .exh-topic--forest .exh-topic-q, .exh-topic--forest .exh-topic-top { color: rgba(246, 241, 230, .85); }
   .exh-topic--brown .exh-topic-ico, .exh-topic--forest .exh-topic-ico { background: rgba(255, 255, 255, .15); color: #fff; }
   .exh-topic--peach .exh-topic-ico { background: rgba(255, 255, 255, .6); }
-  @media (max-width: 859px) { .exh-topics { grid-template-columns: 1fr 1fr; } }
-  @media (max-width: 559px) { .exh-topics { grid-template-columns: 1fr; } }
+  @media (max-width: 859px) { .exh-topics { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+  @media (max-width: 559px) { .exh-topics { grid-template-columns: minmax(0, 1fr); } }
 
   /* Regions */
   .exh-regions { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 1rem; align-items: start; }
   /* The biggest region (Asia, 13 of 21) takes two columns and lists in two, so
      it does not run three times the height of the others. */
   .exh-region--wide { grid-column: span 2; }
-  .exh-region--wide ul { grid-template-columns: 1fr 1fr; }
+  .exh-region--wide ul { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .exh-region { background: var(--x-card); border: 1px solid var(--line-soft); border-radius: 26px; padding: 1.3rem; }
   .exh-region-head { display: flex; justify-content: space-between; align-items: baseline; gap: .5rem; margin-bottom: .9rem; }
   .exh-region h3 { font-family: var(--font-display); font-size: 1.15rem; margin: 0; }
@@ -519,8 +519,8 @@ const jsonLd = {
   .exh-region ul { list-style: none; margin: 0; padding: 0; display: grid; gap: .4rem; }
   .exh-region a { display: flex; align-items: center; gap: .5rem; padding: .5rem .8rem; border-radius: var(--r-pill); background: var(--x-sand); color: var(--ink); font-weight: 700; font-size: .92rem; text-decoration: none; }
   .exh-region a:hover { background: var(--x-leaf); }
-  @media (max-width: 959px) { .exh-regions { grid-template-columns: 1fr 1fr; } }
-  @media (max-width: 559px) { .exh-regions { grid-template-columns: 1fr; } .exh-region--wide { grid-column: auto; } }
+  @media (max-width: 959px) { .exh-regions { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+  @media (max-width: 559px) { .exh-regions { grid-template-columns: minmax(0, 1fr); } .exh-region--wide { grid-column: auto; } }
 
   /* Tools */
   .exh-tools { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1rem; }
@@ -529,7 +529,7 @@ const jsonLd = {
   .exh-tool strong { font-size: 1.05rem; }
   .exh-tool span { font-size: .88rem; color: var(--ink-soft); line-height: 1.5; }
   .exh-tool:hover strong { color: var(--accent-text); }
-  @media (max-width: 859px) { .exh-tools { grid-template-columns: 1fr 1fr; } }
+  @media (max-width: 859px) { .exh-tools { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 
   /* FAQ */
   .exh-faq-grid { display: grid; grid-template-columns: minmax(0, .8fr) minmax(0, 1.2fr); gap: 2rem; align-items: start; }
@@ -543,5 +543,5 @@ const jsonLd = {
   .exh-faq details[open] summary span { background: var(--x-brown); }
   .exh-faq details[open] summary span::before { content: '−'; color: #fff; }
   .exh-faq details p { margin: 0 0 1.2rem; line-height: 1.75; color: var(--ink-soft); }
-  @media (max-width: 859px) { .exh-faq-grid { grid-template-columns: 1fr; gap: 1rem; } }
+  @media (max-width: 859px) { .exh-faq-grid { grid-template-columns: minmax(0, 1fr); gap: 1rem; } }
 </style>

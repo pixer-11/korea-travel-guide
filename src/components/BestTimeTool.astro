@@ -1284,7 +1284,7 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
     .bt-insight svg { color: var(--bt-brown); flex: none; }
     .bt-insight b { flex: 1; min-width: 14em; }
     .bt-insight span { font-size: .78rem; color: var(--muted); }
-    .bt-twocol { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+    .bt-twocol { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
     .bt-method, .bt-cite { border-radius: var(--r-lg); padding: 20px 22px; display: grid; gap: 12px; align-content: start; }
     .bt-method { background: var(--surface); border: 1px solid var(--line); }
     .bt-cite { background: #e3ecd9; }

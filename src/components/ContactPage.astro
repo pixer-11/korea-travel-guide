@@ -299,7 +299,7 @@ const bodyOf = (k: Kind) => k.fields.filter(Boolean).map((f) => `${f}\n\n`).join
   @media (prefers-color-scheme: dark) { .ct { --ct-peach: #3a2620; --ct-cream: #221d17; --ct-sand: #2a241c; --ct-green: #2b3524; } }
   .ct :is(div, section) { min-width: 0; }
   .ct-pill { display: inline-block; font-size: .78rem; font-weight: 600; padding: 4px 12px; border-radius: var(--r-pill); background: var(--surface); border: 1px solid var(--line); }
-  .ct-hero { display: grid; grid-template-columns: 1fr 1fr; gap: 32px; align-items: center; }
+  .ct-hero { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 32px; align-items: center; }
   .ct-hero h1 { font-family: var(--font-display); font-size: clamp(2.1rem, 4.8vw, 3.1rem); line-height: 1.15; margin: 12px 0; }
   .ct-hero h1 span, .ct-hero h1 em { display: block; }
   .ct-hero h1 em { font-style: normal; color: var(--ct-brown); }

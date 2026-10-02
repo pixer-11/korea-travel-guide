@@ -564,7 +564,7 @@ const metaDesc = blurb ? clip(blurb) : countryLabel;
   .dh-mini-text small { font-size: 0.78rem; color: var(--muted); }
   /* Two across on a phone — one per row made 24 cities a 1,500px column. */
   @media (max-width: 560px) {
-    .dh-minis { grid-template-columns: 1fr 1fr; gap: 0.45rem; }
+    .dh-minis { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.45rem; }
     .dh-mini { gap: 0.5rem; padding: 0.35rem 0.5rem 0.35rem 0.35rem; }
     .dh-mini-img { width: 40px; height: 40px; }
     .dh-mini-text strong { font-size: 0.9rem; }
@@ -625,7 +625,7 @@ const metaDesc = blurb ? clip(blurb) : countryLabel;
   .dh-guide-rating span { color: var(--muted); font-weight: 500; }
 
   @media (max-width: 520px) {
-    .dh-cells { grid-template-columns: 1fr 1fr; gap: 0.5rem; }
+    .dh-cells { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.5rem; }
     .dh-cell { padding: 0.75rem 0.8rem; }
     .dh-cell-value { font-size: 1.08rem; }
     .dh-event-list a { grid-template-columns: 2.8rem minmax(0, 1fr); row-gap: 0.1rem; }
