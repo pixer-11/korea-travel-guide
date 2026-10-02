@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: dusseldorf-hofgarten
-srcHash: '9144f1a7bc63'
+srcHash: '8a66cc282c45'
 title: 霍夫花园：杜塞尔多夫旅行指南（4.6★）
-description: 霍夫花园（Hofgarten）是杜塞尔多夫的中央公园，位于第1区（Stadtbezirk 1）。这条狭长的绿带从老城和国王大道一直延伸到耶格霍夫宫，全天24小时开放。评分4.6★（7,372条评价），本文汇总游客评价、开放时间和游览建议。
+description: 霍夫花园（Hofgarten）是杜塞尔多夫的中央公园，位于第1区（Stadtbezirk 1）。这条狭长的绿带从老城和国王大道一直延伸到耶格霍夫宫，全天24小时开放。评分4.6★（7,373条评价），本文汇总游客评价、开放时间和游览建议。
 quickAnswer: 霍夫花园（Hofgarten）是杜塞尔多夫的中央公园，位于第1区（Stadtbezirk 1）。这条狭长的绿带把老城（Altstadt）、国王大道（Königsallee）和耶格霍夫宫（Schloss Jägerhof）串在一起，全天24小时开放。想找最清静的步道，工作日请在7am至8am之间前往，周末则在7am至9am之间。周末11am至9pm是人最多的时段，最好避开。
 faq:
   - q: 什么时候去霍夫花园人最少？

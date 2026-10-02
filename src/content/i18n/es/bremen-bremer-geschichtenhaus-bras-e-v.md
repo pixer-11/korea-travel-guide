@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bremen-bremer-geschichtenhaus-bras-e-v
-srcHash: 'a621dc2077be'
+srcHash: '34d35f90f577'
 title: 'Bremer Geschichtenhaus | bras e.V.: guía de viaje de Bremen'
-description: 'En el número 10 de Wüstestätte, en pleno barrio del Schnoor de Bremen, el Bremer Geschichtenhaus | bras e.V. es un museo de historia viva: actores con trajes de época recorren con usted la historia de la ciudad desde el siglo XVII hasta comienzos del XX. Valoración de 4.8★ (954 reseñas). Opiniones de los visitantes, horarios y consejos.'
+description: 'En el número 10 de Wüstestätte, en pleno barrio del Schnoor de Bremen, el Bremer Geschichtenhaus | bras e.V. es un museo de historia viva: actores con trajes de época recorren con usted la historia de la ciudad desde el siglo XVII hasta comienzos del XX. Valoración de 4.8★ (955 reseñas). Opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Bremer Geschichtenhaus | bras e.V. es un museo de historia viva situado en Wüstestätte 10, en el barrio del Schnoor de Bremen. Allí, actores con trajes de época narran la historia de la ciudad desde el siglo XVII hasta comienzos del XX. La visita se combina bien con un paseo por las callejuelas del Schnoor, la plaza del Mercado (Marktplatz) y la catedral. Antes de ir, conviene consultar en la web oficial los horarios vigentes y si hay sesiones en inglés.
 faq:
   - q: ¿Dónde se encuentra exactamente el Bremer Geschichtenhaus?

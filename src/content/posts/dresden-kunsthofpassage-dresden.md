@@ -1,45 +1,53 @@
 ---
-title: "Kunsthofpassage: Dresden Travel Guide (4.6★)"
-description: "The Kunsthofpassage in Dresden's Äußere Neustadt is a chain of five themed, artist-designed courtyards between Görlitzer Straße and Alaunstraße. 4.6★ (7,780 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Dresden"
-category: "hidden-gem"
-pubDate: "2026-10-02T14:25:20.274Z"
+title: 'Kunsthofpassage: Dresden Travel Guide (4.6★)'
+description: >-
+  The Kunsthofpassage in Dresden's Äußere Neustadt is a chain of five themed,
+  artist-designed courtyards between Görlitzer Straße and Alaunstraße. 4.6★
+  (7,781 reviews) — what visitors say, hours, and tips.
+country: Germany
+region: Dresden
+category: hidden-gem
+pubDate: '2026-10-02T14:25:20.274Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dresden_Kunsthofpassage_09_45_16_782000.jpeg/3840px-Dresden_Kunsthofpassage_09_45_16_782000.jpeg"
-  credit: "Photo: Robot8A / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Dresden_Kunsthofpassage_09_45_16_782000.jpeg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dresden_Kunsthofpassage_09_45_16_782000.jpeg/3840px-Dresden_Kunsthofpassage_09_45_16_782000.jpeg
+  credit: 'Photo: Robot8A / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Dresden_Kunsthofpassage_09_45_16_782000.jpeg
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Dresden_-_Kunsthofpassage_Hof_der_Tiere.jpg/3840px-Dresden_-_Kunsthofpassage_Hof_der_Tiere.jpg"
-    credit: "Photo: Fred Romero from Paris, France / Wikimedia Commons (CC BY 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Dresden_-_Kunsthofpassage_Hof_der_Tiere.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Dresden_-_Kunsthofpassage_Hof_der_Tiere.jpg/3840px-Dresden_-_Kunsthofpassage_Hof_der_Tiere.jpg
+    credit: 'Photo: Fred Romero from Paris, France / Wikimedia Commons (CC BY 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Dresden_-_Kunsthofpassage_Hof_der_Tiere.jpg
 place:
-  id: "ChIJ-ze1bTzPCUcRccVsDTrTTws"
-  name: "Kunsthofpassage Dresden"
-  address: "Görlitzer Str. 21-25, 01099 Dresden, Germany"
+  id: ChIJ-ze1bTzPCUcRccVsDTrTTws
+  name: Kunsthofpassage Dresden
+  address: 'Görlitzer Str. 21-25, 01099 Dresden, Germany'
   rating: 4.6
-  userRatingsTotal: 7780
-  googleMapsUrl: "https://maps.google.com/?cid=815102303864145265&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 7781
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=815102303864145265&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.0680136
   lng: 13.7539973
-  phone: "+49 351 8105498"
+  phone: +49 351 8105498
   openingHours:
-    - "Monday: 6:00 AM – 11:00 PM"
-    - "Tuesday: 6:00 AM – 11:00 PM"
-    - "Wednesday: 6:00 AM – 11:00 PM"
-    - "Thursday: 6:00 AM – 11:00 PM"
-    - "Friday: 6:00 AM – 12:00 AM"
-    - "Saturday: 8:00 AM – 12:00 AM"
-    - "Sunday: 8:00 AM – 11:00 PM"
+    - 'Monday: 6:00 AM – 11:00 PM'
+    - 'Tuesday: 6:00 AM – 11:00 PM'
+    - 'Wednesday: 6:00 AM – 11:00 PM'
+    - 'Thursday: 6:00 AM – 11:00 PM'
+    - 'Friday: 6:00 AM – 12:00 AM'
+    - 'Saturday: 8:00 AM – 12:00 AM'
+    - 'Sunday: 8:00 AM – 11:00 PM'
   busyness:
-    updated: 2026-10-02
+    updated: 2026-10-02T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -65,24 +73,45 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_737754547254447356636352635543507a546231657a2d4a496843"
+    venueId: ven_737754547254447356636352635543507a546231657a2d4a496843
 tags:
-  - "dresden"
-  - "hidden gem"
-quickAnswer: "The Kunsthofpassage in Dresden's Äußere Neustadt is a chain of five themed, artist-designed courtyards between Görlitzer Straße and Alaunstraße. It's free to walk through and the gates stay open from early morning into the night. It's calmest between 7am and 10am on weekdays. On weekends, avoid 12pm–11pm and come right at the 8am opening instead."
+  - dresden
+  - hidden gem
+quickAnswer: >-
+  The Kunsthofpassage in Dresden's Äußere Neustadt is a chain of five themed,
+  artist-designed courtyards between Görlitzer Straße and Alaunstraße. It's free
+  to walk through and the gates stay open from early morning into the night.
+  It's calmest between 7am and 10am on weekdays. On weekends, avoid 12pm–11pm
+  and come right at the 8am opening instead.
 faq:
-  - q: "When is the quietest time to visit the Kunsthofpassage?"
-    a: "Weekdays between 7am and 10am are the calmest. On weekends, the courtyards are busiest from 12pm to 11pm, so come at the 8am opening if you want space."
-  - q: "How do I get to the Kunsthofpassage from Dresden's Altstadt?"
-    a: "Cross the Augustusbrücke and walk up Hauptstraße to Albertplatz, about 25 minutes on foot. Or take a tram to Albertplatz and walk about ten minutes north along Alaunstraße. There are entrances on both Görlitzer Straße and Alaunstraße."
-  - q: "How long should I spend there?"
-    a: "30 to 60 minutes covers all five courtyards. Allow longer if you stop at a café or browse the studios and boutiques."
-  - q: "Does the drainpipe wall really make music?"
-    a: "Yes, but only when it rains. Water runs through the funnels and pipes on the Hof der Elemente facade and makes sound. On dry days it's just sculpture."
-  - q: "Are the shops open as long as the courtyards?"
-    a: "No. The courtyards are open from 6am (8am on weekends) until 11pm, or midnight on Fridays and Saturdays. The shops and studios inside set their own shorter hours, so check each one before you go."
+  - q: When is the quietest time to visit the Kunsthofpassage?
+    a: >-
+      Weekdays between 7am and 10am are the calmest. On weekends, the courtyards
+      are busiest from 12pm to 11pm, so come at the 8am opening if you want
+      space.
+  - q: How do I get to the Kunsthofpassage from Dresden's Altstadt?
+    a: >-
+      Cross the Augustusbrücke and walk up Hauptstraße to Albertplatz, about 25
+      minutes on foot. Or take a tram to Albertplatz and walk about ten minutes
+      north along Alaunstraße. There are entrances on both Görlitzer Straße and
+      Alaunstraße.
+  - q: How long should I spend there?
+    a: >-
+      30 to 60 minutes covers all five courtyards. Allow longer if you stop at a
+      café or browse the studios and boutiques.
+  - q: Does the drainpipe wall really make music?
+    a: >-
+      Yes, but only when it rains. Water runs through the funnels and pipes on
+      the Hof der Elemente facade and makes sound. On dry days it's just
+      sculpture.
+  - q: Are the shops open as long as the courtyards?
+    a: >-
+      No. The courtyards are open from 6am (8am on weekends) until 11pm, or
+      midnight on Fridays and Saturdays. The shops and studios inside set their
+      own shorter hours, so check each one before you go.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-02'
 ---
 
 ## A blue wall wired for rain

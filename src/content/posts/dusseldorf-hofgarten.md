@@ -1,45 +1,52 @@
 ---
-title: "Hofgarten: Düsseldorf Travel Guide (4.6★)"
-description: "The Hofgarten is Düsseldorf's central park, a long green strip linking the Altstadt and Königsallee to Schloss Jägerhof in Stadtbezirk 1, and it is open 24 hours. 4.6★ (7,372 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Düsseldorf"
-category: "attraction"
-pubDate: "2026-10-02T14:13:52.296Z"
+title: 'Hofgarten: Düsseldorf Travel Guide (4.6★)'
+description: >-
+  The Hofgarten is Düsseldorf's central park, a long green strip linking the
+  Altstadt and Königsallee to Schloss Jägerhof in Stadtbezirk 1, and it is open
+  24 hours. 4.6★ (7,373 reviews) — what visitors say, hours, and tips.
+country: Germany
+region: Düsseldorf
+category: attraction
+pubDate: '2026-10-02T14:13:52.296Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Hofgarten_in_D%C3%BCsseldorf.jpg/3840px-Hofgarten_in_D%C3%BCsseldorf.jpg"
-  credit: "Photo: Andreas Schwarzkopf / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hofgarten_in_D%C3%BCsseldorf.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Hofgarten_in_D%C3%BCsseldorf.jpg/3840px-Hofgarten_in_D%C3%BCsseldorf.jpg
+  credit: 'Photo: Andreas Schwarzkopf / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Hofgarten_in_D%C3%BCsseldorf.jpg'
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/0/02/Eichh%C3%B6rnchen_D%C3%BCsseldorf_Hofgarten_edit.jpg"
-    credit: "Photo: Ray eye / Wikimedia Commons (CC BY-SA 2.0 de)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Eichh%C3%B6rnchen_D%C3%BCsseldorf_Hofgarten_edit.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/0/02/Eichh%C3%B6rnchen_D%C3%BCsseldorf_Hofgarten_edit.jpg
+    credit: 'Photo: Ray eye / Wikimedia Commons (CC BY-SA 2.0 de)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Eichh%C3%B6rnchen_D%C3%BCsseldorf_Hofgarten_edit.jpg
 place:
-  id: "ChIJJydHdyHKuEcReXE_QXpZ970"
-  name: "Hofgarten"
-  address: "Stadtbezirk 1, 40213 Düsseldorf, Germany"
+  id: ChIJJydHdyHKuEcReXE_QXpZ970
+  name: Hofgarten
+  address: 'Stadtbezirk 1, 40213 Düsseldorf, Germany'
   rating: 4.6
-  userRatingsTotal: 7372
-  googleMapsUrl: "https://maps.google.com/?cid=13688507974031470969&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 7373
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13688507974031470969&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.228902299999994
   lng: 6.7795364
-  phone: "+49 211 8994800"
+  phone: +49 211 8994800
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-10-02
+    updated: 2026-10-02T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekdayBusy:
@@ -59,24 +66,39 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_3037395a7058515f455865526345754b4879644864794a4a496843"
+    venueId: ven_3037395a7058515f455865526345754b4879644864794a4a496843
 tags:
-  - "düsseldorf"
-  - "top attraction"
-quickAnswer: "The Hofgarten is Düsseldorf's central park, a long green strip linking the Altstadt and Königsallee to Schloss Jägerhof in Stadtbezirk 1, and it is open 24 hours. Come between 7am and 8am on weekdays or 7am and 9am at weekends for the quietest paths. Avoid weekends from 11am to 9pm, when it is at its busiest."
+  - düsseldorf
+  - top attraction
+quickAnswer: >-
+  The Hofgarten is Düsseldorf's central park, a long green strip linking the
+  Altstadt and Königsallee to Schloss Jägerhof in Stadtbezirk 1, and it is open
+  24 hours. Come between 7am and 8am on weekdays or 7am and 9am at weekends for
+  the quietest paths. Avoid weekends from 11am to 9pm, when it is at its
+  busiest.
 faq:
-  - q: "When is the quietest time to visit the Hofgarten?"
-    a: "Between 7am and 8am on weekdays and 7am to 9am at weekends. Try not to come on weekends between 11am and 9pm, which is when it is busiest."
-  - q: "Is the Hofgarten open at night?"
-    a: "Yes. It is a public park, open 24 hours every day of the week."
-  - q: "How do I get to the Hofgarten?"
-    a: "Take the U-Bahn to Heinrich-Heine-Allee and walk towards the Kö-Bogen; the park starts there. Trams on Jacobistraße serve the Schloss Jägerhof end."
-  - q: "How long should I spend there?"
-    a: "Allow one to two hours to walk from the Kö-Bogen to Schloss Jägerhof, with stops at the Landskrone pond, the bandstand and the Henry Moore sculpture."
-  - q: "What is near the Hofgarten?"
-    a: "The Altstadt, Königsallee and the Kö-Bogen border it. The Goethe-Museum in Schloss Jägerhof, the Theatermuseum and K20 on Grabbeplatz are all within walking distance."
+  - q: When is the quietest time to visit the Hofgarten?
+    a: >-
+      Between 7am and 8am on weekdays and 7am to 9am at weekends. Try not to
+      come on weekends between 11am and 9pm, which is when it is busiest.
+  - q: Is the Hofgarten open at night?
+    a: 'Yes. It is a public park, open 24 hours every day of the week.'
+  - q: How do I get to the Hofgarten?
+    a: >-
+      Take the U-Bahn to Heinrich-Heine-Allee and walk towards the Kö-Bogen; the
+      park starts there. Trams on Jacobistraße serve the Schloss Jägerhof end.
+  - q: How long should I spend there?
+    a: >-
+      Allow one to two hours to walk from the Kö-Bogen to Schloss Jägerhof, with
+      stops at the Landskrone pond, the bandstand and the Henry Moore sculpture.
+  - q: What is near the Hofgarten?
+    a: >-
+      The Altstadt, Königsallee and the Kö-Bogen border it. The Goethe-Museum in
+      Schloss Jägerhof, the Theatermuseum and K20 on Grabbeplatz are all within
+      walking distance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-02'
 ---
 
 ## A park the city grew around

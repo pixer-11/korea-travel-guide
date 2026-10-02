@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: cologne-cologne-cathedral
-srcHash: 'fd29da4237b2'
+srcHash: 'ef39e028598f'
 title: 'Catedral de Colonia: guía de viaje (4.7★)'
-description: Junto a la estación central (Köln Hauptbahnhof), en la Domplatte del casco antiguo de Colonia, se alza la catedral, que abre todos los días de 6am a 8pm. Con una valoración de 4.7★ (5,400 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
+description: Junto a la estación central (Köln Hauptbahnhof), en la Domplatte del casco antiguo de Colonia, se alza la catedral, que abre todos los días de 6am a 8pm. Con una valoración de 4.7★ (5,422 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: Junto a la estación central (Köln Hauptbahnhof), en la Domplatte del casco antiguo (Altstadt), se alza la catedral de Colonia, que abre todos los días de 6am a 8pm. Tanto entre semana como en fin de semana, el momento más tranquilo es de 7am a 10am. Los sábados y domingos conviene no llegar entre las 11am y las 7pm, que es cuando la nave está más llena.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la catedral de Colonia?

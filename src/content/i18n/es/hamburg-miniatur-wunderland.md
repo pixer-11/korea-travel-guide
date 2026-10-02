@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: hamburg-miniatur-wunderland
-srcHash: '1bcbea42391c'
+srcHash: '047c797e1e4f'
 title: 'Miniatur Wunderland: guía de viaje de Hamburgo (4.8★)'
-description: En la Speicherstadt de Hamburgo, a pocos pasos de la estación de metro Baumwall (U3), un almacén de ladrillo rojo situado en Kehrwieder 2 alberga en varias plantas Miniatur Wunderland, la maqueta ferroviaria más grande del mundo. Con una valoración de 4.8★ (115,048 reseñas), recogemos la opinión de los visitantes, los horarios y algunos consejos.
+description: En la Speicherstadt de Hamburgo, a pocos pasos de la estación de metro Baumwall (U3), un almacén de ladrillo rojo situado en Kehrwieder 2 alberga en varias plantas Miniatur Wunderland, la maqueta ferroviaria más grande del mundo. Con una valoración de 4.8★ (115,062 reseñas), recogemos la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: La maqueta ferroviaria más grande del mundo, Miniatur Wunderland, ocupa varias plantas de un almacén de ladrillo rojo en Kehrwieder 2, en plena Speicherstadt de Hamburgo y a pocos pasos de la estación de metro Baumwall (U3). Conviene comprar por internet una entrada con hora asignada y reservar entre tres y cuatro horas para la visita. Es mejor no acudir el fin de semana entre las 11am y las 11pm. Los momentos más tranquilos son el sábado a primera hora, desde la apertura de las 8am, y la última hora del viernes, de 6pm a 7pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Miniatur Wunderland?

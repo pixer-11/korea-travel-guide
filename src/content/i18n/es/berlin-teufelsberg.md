@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: berlin-teufelsberg
-srcHash: '7a18263c468c'
+srcHash: 'f9b768a62d4f'
 title: 'Teufelsberg: guía de viaje de Berlín (4.4★)'
-description: Sobre una colina de escombros en el bosque berlinés de Grunewald se alza Teufelsberg, antigua estación de escucha estadounidense y británica que abre todos los días de 11:00 a 19:00. Con 4.4★ (7,111 reseñas), le contamos qué opinan los visitantes, además de horarios y consejos.
+description: Sobre una colina de escombros en el bosque berlinés de Grunewald se alza Teufelsberg, antigua estación de escucha estadounidense y británica que abre todos los días de 11:00 a 19:00. Con 4.4★ (7,112 reseñas), le contamos qué opinan los visitantes, además de horarios y consejos.
 quickAnswer: En lo alto de una colina de escombros, en pleno bosque de Grunewald (Berlín), se encuentra Teufelsberg, una antigua estación de escucha estadounidense y británica que abre a diario de 11:00 a 19:00. Lo más cómodo es tomar el S-Bahn S3 o S9 hasta Heerstraße y subir después a pie por el bosque durante una media hora. Reserve entre dos y tres horas para la visita, lleve calzado de suela firme y consulte en la web oficial el precio vigente de la entrada.
 faq:
   - q: ¿Cómo se llega a Teufelsberg en transporte público?

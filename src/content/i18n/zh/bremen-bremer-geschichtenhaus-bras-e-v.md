@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: bremen-bremer-geschichtenhaus-bras-e-v
-srcHash: 'a621dc2077be'
+srcHash: '34d35f90f577'
 title: 不来梅故事馆（Bremer Geschichtenhaus | bras e.V.）：不来梅旅行指南
-description: 不来梅故事馆（Bremer Geschichtenhaus | bras e.V.）位于不来梅施诺尔区的 Wüstestätte 10，是一座沉浸式历史博物馆。身着古装的演员会带你穿越这座城市从17世纪到20世纪初的往事。评分4.8★（954条评价）。本文汇总游客评价、开放时间和参观建议。
+description: 不来梅故事馆（Bremer Geschichtenhaus | bras e.V.）位于不来梅施诺尔区的 Wüstestätte 10，是一座沉浸式历史博物馆。身着古装的演员会带你穿越这座城市从17世纪到20世纪初的往事。评分4.8★（955条评价）。本文汇总游客评价、开放时间和参观建议。
 quickAnswer: 不来梅故事馆（Bremer Geschichtenhaus | bras e.V.）是一座沉浸式历史博物馆，坐落在不来梅施诺尔区的 Wüstestätte 10。馆内由身着古装的演员带领观众，一路讲述这座城市从17世纪到20世纪初的历史。参观时可以顺路逛逛施诺尔区的小巷、集市广场和大教堂。出发前记得上官网查看最新场次，并确认有没有英语场。
 faq:
   - q: 不来梅故事馆具体在哪里？

@@ -1,41 +1,47 @@
 ---
-title: "Palmengarten: Frankfurt Travel Guide (4.7★)"
-description: "Palmengarten Frankfurt is a 19th-century botanical garden on Siesmayerstraße in the Westend, a short walk from Westend U-Bahn station (U6, U7). 4.7★ (23,845 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Frankfurt"
-category: "hidden-gem"
-pubDate: "2026-10-02T14:23:22.183Z"
+title: 'Palmengarten: Frankfurt Travel Guide (4.7★)'
+description: >-
+  Palmengarten Frankfurt is a 19th-century botanical garden on Siesmayerstraße
+  in the Westend, a short walk from Westend U-Bahn station (U6, U7). 4.7★
+  (23,847 reviews) — what visitors say, hours, and tips.
+country: Germany
+region: Frankfurt
+category: hidden-gem
+pubDate: '2026-10-02T14:23:22.183Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Frankfurt_am_Main%2C_Palmengarten_Frankfurt%2C_Tropicarium_%28entrance_hall%29.jpg/3840px-Frankfurt_am_Main%2C_Palmengarten_Frankfurt%2C_Tropicarium_%28entrance_hall%29.jpg"
-  credit: "Photo: Dr. Thomas Liptak / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Frankfurt_am_Main,_Palmengarten_Frankfurt,_Tropicarium_(entrance_hall).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Frankfurt_am_Main%2C_Palmengarten_Frankfurt%2C_Tropicarium_%28entrance_hall%29.jpg/3840px-Frankfurt_am_Main%2C_Palmengarten_Frankfurt%2C_Tropicarium_%28entrance_hall%29.jpg
+  credit: 'Photo: Dr. Thomas Liptak / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Frankfurt_am_Main,_Palmengarten_Frankfurt,_Tropicarium_(entrance_hall).jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJxfLE2UUJvUcR5WlJbp2M1D0"
-  name: "Palmengarten Frankfurt"
-  address: "Palmengarten der Stadt, Siesmayerstraße 63, 60323 Frankfurt am Main, Germany"
+  id: ChIJxfLE2UUJvUcR5WlJbp2M1D0
+  name: Palmengarten Frankfurt
+  address: 'Palmengarten der Stadt, Siesmayerstraße 63, 60323 Frankfurt am Main, Germany'
   rating: 4.7
-  userRatingsTotal: 23845
-  googleMapsUrl: "https://maps.google.com/?cid=4455340539164322277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 23847
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4455340539164322277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 50.1232149
   lng: 8.6578301
-  phone: "+49 69 21233939"
+  phone: +49 69 21233939
   openingHours:
-    - "Monday: 9:00 AM – 7:00 PM"
-    - "Tuesday: 9:00 AM – 7:00 PM"
-    - "Wednesday: 9:00 AM – 7:00 PM"
-    - "Thursday: 9:00 AM – 7:00 PM"
-    - "Friday: 9:00 AM – 7:00 PM"
-    - "Saturday: 9:00 AM – 7:00 PM"
-    - "Sunday: 9:00 AM – 7:00 PM"
+    - 'Monday: 9:00 AM – 7:00 PM'
+    - 'Tuesday: 9:00 AM – 7:00 PM'
+    - 'Wednesday: 9:00 AM – 7:00 PM'
+    - 'Thursday: 9:00 AM – 7:00 PM'
+    - 'Friday: 9:00 AM – 7:00 PM'
+    - 'Saturday: 9:00 AM – 7:00 PM'
+    - 'Sunday: 9:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-10-02
+    updated: 2026-10-02T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 18
@@ -48,24 +54,41 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_3044314d3270624a6c5735526355764a555532454c66784a496843"
+    venueId: ven_3044314d3270624a6c5735526355764a555532454c66784a496843
 tags:
-  - "frankfurt"
-  - "hidden gem"
-quickAnswer: "Palmengarten Frankfurt is a 19th-century botanical garden on Siesmayerstraße in the Westend, a short walk from Westend U-Bahn station (U6, U7). On weekdays it stays calm the whole time it's open, 9am to 7pm. On weekends, arrive at 9am and skip 12pm to 6pm, when it's busiest."
+  - frankfurt
+  - hidden gem
+quickAnswer: >-
+  Palmengarten Frankfurt is a 19th-century botanical garden on Siesmayerstraße
+  in the Westend, a short walk from Westend U-Bahn station (U6, U7). On weekdays
+  it stays calm the whole time it's open, 9am to 7pm. On weekends, arrive at 9am
+  and skip 12pm to 6pm, when it's busiest.
 faq:
-  - q: "When is the quietest time to visit the Palmengarten?"
-    a: "On weekdays it stays quiet the whole time it's open, from 9am to 7pm. On weekends it's calmest from 9am to 10am. Avoid 12pm to 6pm, the busiest stretch."
-  - q: "Which U-Bahn station is closest?"
-    a: "Westend (U6, U7) is closest to the main entrance at Siesmayerstraße 63. Bockenheimer Warte (U4, U6, U7) is also a short walk away."
-  - q: "How long should I spend there?"
-    a: "Allow two to three hours to see the Palmenhaus, the Tropicarium and one loop of the outdoor gardens."
-  - q: "Is it worth visiting in winter?"
-    a: "Yes, as long as you're coming for the glasshouses. The heated Palmenhaus and Tropicarium are open year-round, from 9am to 7pm every day. The outdoor beds are mostly dormant in winter."
-  - q: "What is nearby?"
-    a: "Grüneburgpark is directly to the north. The Senckenberg Natural History Museum and Goethe University's Bockenheim area are a short walk south."
+  - q: When is the quietest time to visit the Palmengarten?
+    a: >-
+      On weekdays it stays quiet the whole time it's open, from 9am to 7pm. On
+      weekends it's calmest from 9am to 10am. Avoid 12pm to 6pm, the busiest
+      stretch.
+  - q: Which U-Bahn station is closest?
+    a: >-
+      Westend (U6, U7) is closest to the main entrance at Siesmayerstraße 63.
+      Bockenheimer Warte (U4, U6, U7) is also a short walk away.
+  - q: How long should I spend there?
+    a: >-
+      Allow two to three hours to see the Palmenhaus, the Tropicarium and one
+      loop of the outdoor gardens.
+  - q: Is it worth visiting in winter?
+    a: >-
+      Yes, as long as you're coming for the glasshouses. The heated Palmenhaus
+      and Tropicarium are open year-round, from 9am to 7pm every day. The
+      outdoor beds are mostly dormant in winter.
+  - q: What is nearby?
+    a: >-
+      Grüneburgpark is directly to the north. The Senckenberg Natural History
+      Museum and Goethe University's Bockenheim area are a short walk south.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-02'
 ---
 
 ## Glass, palms and a Duke's old collection

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: dresden-dresden-zwinger
-srcHash: 'ee896e22bcaf'
+srcHash: 'e6265aebd706'
 title: 德累斯顿茨温格宫旅行指南（4.7★）
-description: 茨温格宫（Dresden Zwinger）是一座巴洛克宫殿建筑群，位于德累斯顿老城的索菲恩街（Sophienstraße），紧邻剧院广场和森帕歌剧院，庭院每天6am至10pm开放。4.7★（57,241条评价），本文汇总游客评价、开放时间和游览建议。
+description: 茨温格宫（Dresden Zwinger）是一座巴洛克宫殿建筑群，位于德累斯顿老城的索菲恩街（Sophienstraße），紧邻剧院广场和森帕歌剧院，庭院每天6am至10pm开放。4.7★（57,245条评价），本文汇总游客评价、开放时间和游览建议。
 quickAnswer: 茨温格宫（Dresden Zwinger）是一座巴洛克宫殿建筑群，坐落在德累斯顿老城的索菲恩街（Sophienstraße），与剧院广场和森帕歌剧院相邻，庭院每天6am至10pm开放。工作日从7am到10pm游人都不多。周末11am至8pm是人流高峰，最好避开这段时间前往。
 faq:
   - q: 什么时候去茨温格宫人最少？

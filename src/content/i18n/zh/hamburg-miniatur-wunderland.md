@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: hamburg-miniatur-wunderland
-srcHash: '1bcbea42391c'
+srcHash: '047c797e1e4f'
 title: 微缩景观世界：汉堡旅行指南（4.8★）
-description: 微缩景观世界（Miniatur Wunderland）是全球最大的模型铁路，坐落在汉堡仓库城Kehrwieder 2的一座红砖仓库里，占了好几层楼，从地铁Baumwall站（U3）步行过去不远。评分4.8★（115,048条评价），本文汇总游客口碑、开放时间和参观贴士。
+description: 微缩景观世界（Miniatur Wunderland）是全球最大的模型铁路，坐落在汉堡仓库城Kehrwieder 2的一座红砖仓库里，占了好几层楼，从地铁Baumwall站（U3）步行过去不远。评分4.8★（115,062条评价），本文汇总游客口碑、开放时间和参观贴士。
 quickAnswer: 微缩景观世界（Miniatur Wunderland）是全球最大的模型铁路，位于汉堡仓库城（Speicherstadt）Kehrwieder 2，整整占据一座红砖仓库的好几层，从地铁Baumwall站（U3）步行很快就到。建议提前在网上预订分时段门票，并留出三到四小时。周末11am至11pm人最多，尽量避开；最清静的时段是周六8am刚开门时，以及周五最后一小时，即6pm–7pm。
 faq:
   - q: 什么时候去微缩景观世界人最少？

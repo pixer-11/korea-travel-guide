@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: berlin-brandenburg-gate
-srcHash: 'f30a43c9c7cd'
+srcHash: 'b31698cd145c'
 title: 'Puerta de Brandeburgo: guía de viaje de Berlín (4.7★)'
-description: En la Pariser Platz, en pleno distrito berlinés de Mitte, se alza la Puerta de Brandeburgo. Con 4.7★ (190,349 reseñas), le contamos qué opinan los visitantes, cuándo ir y algunos consejos prácticos.
+description: En la Pariser Platz, en pleno distrito berlinés de Mitte, se alza la Puerta de Brandeburgo. Con 4.7★ (190,364 reseñas), le contamos qué opinan los visitantes, cuándo ir y algunos consejos prácticos.
 quickAnswer: La Puerta de Brandeburgo se alza en la Pariser Platz, en el distrito berlinés de Mitte. Como monumento al aire libre, puede cruzarse gratis y a cualquier hora. La estación Brandenburger Tor (U5 y S-Bahn S1, S2, S25, S26) tiene la salida justo al lado. Para la puerta en sí bastan entre 30 y 45 minutos. Es uno de los lugares más visitados de Alemania, así que, si quiere fotografías sin aglomeraciones, venga a primera hora de la mañana o ya entrada la noche.
 faq:
   - q: ¿Cómo se llega a la Puerta de Brandeburgo en transporte público?

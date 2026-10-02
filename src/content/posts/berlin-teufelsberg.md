@@ -1,54 +1,78 @@
 ---
-title: "Teufelsberg: Berlin Travel Guide (4.4★)"
-description: "Teufelsberg is a former US and British listening station on a rubble hill in Berlin's Grunewald forest, and it's open daily from 11am to 7pm. 4.4★ (7,111 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Berlin"
-category: "hidden-gem"
-pubDate: "2026-10-02T14:18:50.049Z"
+title: 'Teufelsberg: Berlin Travel Guide (4.4★)'
+description: >-
+  Teufelsberg is a former US and British listening station on a rubble hill in
+  Berlin's Grunewald forest, and it's open daily from 11am to 7pm. 4.4★ (7,112
+  reviews) — what visitors say, hours, and tips.
+country: Germany
+region: Berlin
+category: hidden-gem
+pubDate: '2026-10-02T14:18:50.049Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Funkturm_Berlin_View_13.jpg/1920px-Funkturm_Berlin_View_13.jpg"
-  credit: "Photo: A.Savin / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Funkturm_Berlin_View_13.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Funkturm_Berlin_View_13.jpg/1920px-Funkturm_Berlin_View_13.jpg
+  credit: 'Photo: A.Savin / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Funkturm_Berlin_View_13.jpg'
   focus:
     x: 71
-    y: 30
+    'y': 30
 gallery: []
 place:
-  id: "ChIJh2Wp5D9XqEcRxAmI3xwUcUI"
-  name: "Teufelsberg"
-  address: "Teufelsseechaussee 10, 14193 Berlin, Germany"
+  id: ChIJh2Wp5D9XqEcRxAmI3xwUcUI
+  name: Teufelsberg
+  address: 'Teufelsseechaussee 10, 14193 Berlin, Germany'
   rating: 4.4
-  userRatingsTotal: 7111
-  googleMapsUrl: "https://maps.google.com/?cid=4787629993113422276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 7112
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4787629993113422276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 52.4971524
   lng: 13.239678699999999
   openingHours:
-    - "Monday: 11:00 AM – 7:00 PM"
-    - "Tuesday: 11:00 AM – 7:00 PM"
-    - "Wednesday: 11:00 AM – 7:00 PM"
-    - "Thursday: 11:00 AM – 7:00 PM"
-    - "Friday: 11:00 AM – 7:00 PM"
-    - "Saturday: 11:00 AM – 7:00 PM"
-    - "Sunday: 11:00 AM – 7:00 PM"
+    - 'Monday: 11:00 AM – 7:00 PM'
+    - 'Tuesday: 11:00 AM – 7:00 PM'
+    - 'Wednesday: 11:00 AM – 7:00 PM'
+    - 'Thursday: 11:00 AM – 7:00 PM'
+    - 'Friday: 11:00 AM – 7:00 PM'
+    - 'Saturday: 11:00 AM – 7:00 PM'
+    - 'Sunday: 11:00 AM – 7:00 PM'
 tags:
-  - "berlin"
-  - "hidden gem"
-quickAnswer: "Teufelsberg is a former US and British listening station on a rubble hill in Berlin's Grunewald forest, and it's open daily from 11am to 7pm. The easiest way there is S-Bahn S3 or S9 to Heerstraße, then roughly a half-hour walk uphill through the woods. Give it two to three hours, wear shoes with solid soles and check the official site for the current entry price."
+  - berlin
+  - hidden gem
+quickAnswer: >-
+  Teufelsberg is a former US and British listening station on a rubble hill in
+  Berlin's Grunewald forest, and it's open daily from 11am to 7pm. The easiest
+  way there is S-Bahn S3 or S9 to Heerstraße, then roughly a half-hour walk
+  uphill through the woods. Give it two to three hours, wear shoes with solid
+  soles and check the official site for the current entry price.
 faq:
-  - q: "How do I get to Teufelsberg by public transport?"
-    a: "Take the S-Bahn S3 or S9 to Heerstraße, then walk south along Teufelsseechaussee into Grunewald. It's about 30 minutes, mostly uphill. Buses M49 and X34 on Heerstraße drop you a little closer."
-  - q: "What are Teufelsberg's opening hours?"
-    a: "It's open every day from 11:00 AM to 7:00 PM. Leave time for the forest walk back before dark, especially in winter."
-  - q: "How long should I spend at Teufelsberg?"
-    a: "Allow two to three hours, including the walk there and back. Add more time if you're stopping at Teufelssee or Drachenberg."
-  - q: "Is Teufelsberg safe for kids or people with limited mobility?"
-    a: "The ground is uneven and littered with broken concrete, and some stairs have no railings. Older children in sturdy shoes manage fine. Anyone who can't handle steep climbs and rough surfaces will find it hard."
-  - q: "What else is near Teufelsberg?"
-    a: "Drachenberg, the neighbouring kite-flying hill, is right next door. So is Teufelssee, a small swimming lake. The trails through Grunewald forest run down to S-Bahn Grunewald."
+  - q: How do I get to Teufelsberg by public transport?
+    a: >-
+      Take the S-Bahn S3 or S9 to Heerstraße, then walk south along
+      Teufelsseechaussee into Grunewald. It's about 30 minutes, mostly uphill.
+      Buses M49 and X34 on Heerstraße drop you a little closer.
+  - q: What are Teufelsberg's opening hours?
+    a: >-
+      It's open every day from 11:00 AM to 7:00 PM. Leave time for the forest
+      walk back before dark, especially in winter.
+  - q: How long should I spend at Teufelsberg?
+    a: >-
+      Allow two to three hours, including the walk there and back. Add more time
+      if you're stopping at Teufelssee or Drachenberg.
+  - q: Is Teufelsberg safe for kids or people with limited mobility?
+    a: >-
+      The ground is uneven and littered with broken concrete, and some stairs
+      have no railings. Older children in sturdy shoes manage fine. Anyone who
+      can't handle steep climbs and rough surfaces will find it hard.
+  - q: What else is near Teufelsberg?
+    a: >-
+      Drachenberg, the neighbouring kite-flying hill, is right next door. So is
+      Teufelssee, a small swimming lake. The trails through Grunewald forest run
+      down to S-Bahn Grunewald.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-02'
 ---
 
 ## A hill made of a destroyed city

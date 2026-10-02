@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: dresden-dresden-zwinger
-srcHash: 'ee896e22bcaf'
+srcHash: 'e6265aebd706'
 title: 'Zwinger de Dresde: guía de viaje (4.7★)'
-description: 'En la Sophienstraße, dentro del casco antiguo (Altstadt) de Dresde y junto a la Theaterplatz y la Semperoper, se alza el Zwinger, un conjunto palaciego barroco cuyo patio abre todos los días de 6am a 10pm. 4.7★ (57,241 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En la Sophienstraße, dentro del casco antiguo (Altstadt) de Dresde y junto a la Theaterplatz y la Semperoper, se alza el Zwinger, un conjunto palaciego barroco cuyo patio abre todos los días de 6am a 10pm. 4.7★ (57,245 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En la Sophienstraße, dentro del casco antiguo (Altstadt) de Dresde y junto a la Theaterplatz y la Semperoper, se alza el Zwinger, un conjunto palaciego barroco cuyo patio abre todos los días de 6am a 10pm. Entre semana el ambiente es tranquilo durante toda la jornada, de 7am a 10pm. El fin de semana conviene evitar la franja de 11am a 8pm, que es cuando se concentra el público.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Zwinger de Dresde?

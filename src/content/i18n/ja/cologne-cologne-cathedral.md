@@ -1,9 +1,9 @@
 ---
 lang: ja
 slug: cologne-cologne-cathedral
-srcHash: 'fd29da4237b2'
+srcHash: 'ef39e028598f'
 title: ケルン大聖堂 旅行ガイド（4.7★）
-description: ケルン大聖堂は旧市街（Altstadt）のドーム広場（Domplatte）に建ち、ケルン中央駅（Köln Hauptbahnhof）のすぐ隣にあります。毎日午前6時から午後8時まで開いています。評価は4.7★（5,400件）で、訪れた人の声や開館時間、見学のコツをまとめました。
+description: ケルン大聖堂は旧市街（Altstadt）のドーム広場（Domplatte）に建ち、ケルン中央駅（Köln Hauptbahnhof）のすぐ隣にあります。毎日午前6時から午後8時まで開いています。評価は4.7★（5,422件）で、訪れた人の声や開館時間、見学のコツをまとめました。
 quickAnswer: ケルン大聖堂はケルン中央駅（Köln Hauptbahnhof）のすぐ隣、旧市街（Altstadt）のドーム広場（Domplatte）に建っています。毎日午前6時から午後8時まで開いています。比較的すいているのは、平日も週末も午前7時から10時までの時間帯です。週末の午前11時から午後7時までは身廊が最も混み合うため、この時間の訪問はなるべく避けましょう。
 faq:
   - q: ケルン大聖堂が最もすいているのは何時ごろですか？

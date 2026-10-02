@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: frankfurt-palmengarten-frankfurt
-srcHash: '4510a75761c4'
+srcHash: '93d862774837'
 title: 法兰克福棕榈园（Palmengarten）旅行指南（4.7★）
-description: 法兰克福棕榈园是一座建于19世纪的植物园，位于西区（Westend）的Siesmayerstraße，从地铁Westend站（U6、U7）步行即可到达。评分4.7★（23,845条评价），本文汇总游客评价、开放时间和游览建议。
+description: 法兰克福棕榈园是一座建于19世纪的植物园，位于西区（Westend）的Siesmayerstraße，从地铁Westend站（U6、U7）步行即可到达。评分4.7★（23,847条评价），本文汇总游客评价、开放时间和游览建议。
 quickAnswer: 法兰克福棕榈园是一座建于19世纪的植物园，坐落在西区（Westend）的Siesmayerstraße，从地铁Westend站（U6、U7）步行过去很近。工作日从上午9点开门到晚上7点闭园，园内一直比较清静。周末建议上午9点开门就入园，中午12点到下午6点是人流高峰，最好避开。
 faq:
   - q: 什么时候去棕榈园人最少？

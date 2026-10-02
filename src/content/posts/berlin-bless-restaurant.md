@@ -1,42 +1,48 @@
 ---
-title: "BLESS Restaurant: Where to Eat in Berlin (4.8★)"
-description: "BLESS Restaurant is a well-rated Asian restaurant on Hausvogteiplatz in Berlin-Mitte, steps from the Hausvogteiplatz U2 station and a short walk from Gendarmenmarkt."
-country: "Germany"
-region: "Berlin"
-category: "restaurant"
-pubDate: "2026-10-02T14:07:02.625Z"
+title: 'BLESS Restaurant: Where to Eat in Berlin (4.8★)'
+description: >-
+  BLESS Restaurant is a well-rated Asian restaurant on Hausvogteiplatz in
+  Berlin-Mitte, steps from the Hausvogteiplatz U2 station and a short walk from
+  Gendarmenmarkt.
+country: Germany
+region: Berlin
+category: restaurant
+pubDate: '2026-10-02T14:07:02.625Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Outdoor_tables_of_the_Bless_restaurant%2C_Hausvogteiplatz_10%2C_Berlin.jpg/3840px-Outdoor_tables_of_the_Bless_restaurant%2C_Hausvogteiplatz_10%2C_Berlin.jpg"
-  credit: "Photo: Андрей Романенко / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Outdoor_tables_of_the_Bless_restaurant,_Hausvogteiplatz_10,_Berlin.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Outdoor_tables_of_the_Bless_restaurant%2C_Hausvogteiplatz_10%2C_Berlin.jpg/3840px-Outdoor_tables_of_the_Bless_restaurant%2C_Hausvogteiplatz_10%2C_Berlin.jpg
+  credit: 'Photo: Андрей Романенко / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Outdoor_tables_of_the_Bless_restaurant,_Hausvogteiplatz_10,_Berlin.jpg
+  via: act
   focus:
     x: 45
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJKe1GVI5RqEcRNkufK3YES0E"
-  name: "BLESS Restaurant"
-  address: "Hausvogteipl. 10, 10117 Berlin, Germany"
+  id: ChIJKe1GVI5RqEcRNkufK3YES0E
+  name: BLESS Restaurant
+  address: 'Hausvogteipl. 10, 10117 Berlin, Germany'
   rating: 4.8
-  userRatingsTotal: 2351
+  userRatingsTotal: 2352
   priceLevel: 3
-  googleMapsUrl: "https://maps.google.com/?cid=4704859141303126838&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4704859141303126838&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 52.5124086
   lng: 13.396790399999999
-  phone: "+49 30 20619795"
+  phone: +49 30 20619795
   openingHours:
-    - "Monday: 11:30 AM – 12:00 AM"
-    - "Tuesday: 11:30 AM – 12:00 AM"
-    - "Wednesday: 11:30 AM – 12:00 AM"
-    - "Thursday: 11:30 AM – 12:00 AM"
-    - "Friday: 11:30 AM – 12:00 AM"
-    - "Saturday: 2:00 PM – 12:00 AM"
-    - "Sunday: 2:00 PM – 12:00 AM"
+    - 'Monday: 11:30 AM – 12:00 AM'
+    - 'Tuesday: 11:30 AM – 12:00 AM'
+    - 'Wednesday: 11:30 AM – 12:00 AM'
+    - 'Thursday: 11:30 AM – 12:00 AM'
+    - 'Friday: 11:30 AM – 12:00 AM'
+    - 'Saturday: 2:00 PM – 12:00 AM'
+    - 'Sunday: 2:00 PM – 12:00 AM'
   busyness:
-    updated: 2026-10-02
+    updated: 2026-10-02T00:00:00.000Z
     weekdayQuiet:
       - 15
       - 16
@@ -53,24 +59,46 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_4530534559334b66756b4e52634571523549564731654b4a496843"
+    venueId: ven_4530534559334b66756b4e52634571523549564731654b4a496843
 tags:
-  - "berlin"
-  - "local restaurant"
-quickAnswer: "BLESS Restaurant is a well-rated Asian restaurant on Hausvogteiplatz in Berlin-Mitte, steps from the Hausvogteiplatz U2 station and a short walk from Gendarmenmarkt. It's quietest between 3pm and 5pm on weekdays. Avoid 7pm to 10pm at weekends, when it's at its busiest, and book ahead if you want an evening table."
+  - berlin
+  - local restaurant
+quickAnswer: >-
+  BLESS Restaurant is a well-rated Asian restaurant on Hausvogteiplatz in
+  Berlin-Mitte, steps from the Hausvogteiplatz U2 station and a short walk from
+  Gendarmenmarkt. It's quietest between 3pm and 5pm on weekdays. Avoid 7pm to
+  10pm at weekends, when it's at its busiest, and book ahead if you want an
+  evening table.
 faq:
-  - q: "When is the quietest time to visit BLESS Restaurant?"
-    a: "On weekdays it's quietest between 3pm and 5pm. At weekends, 2pm to 11pm is the calmer stretch overall, but avoid 7pm to 10pm, the busiest weekend window."
-  - q: "How do I get to BLESS Restaurant by public transport?"
-    a: "Take the U2 to Hausvogteiplatz, which comes up on the same square as the restaurant at Hausvogteiplatz 10. Stadtmitte (U2/U6) and Spittelmarkt (U2) are also within a few minutes' walk."
-  - q: "What are the opening hours?"
-    a: "Monday to Friday it opens at 11:30am, and on Saturday and Sunday at 2pm. Every day it closes at midnight, so weekend lunch isn't possible before 2pm."
-  - q: "Do I need a reservation?"
-    a: "Book for weekend evenings, especially between 7pm and 10pm when it's busiest. On weekday afternoons you can usually walk in."
-  - q: "What is there to see nearby?"
-    a: "Gendarmenmarkt with the Konzerthaus is about five minutes away on foot. Friedrichstraße, Checkpoint Charlie and the Spree near Museum Island are all within roughly fifteen minutes' walk. The mirrored-steps memorial to the square's former fashion houses stands at the Hausvogteiplatz U-Bahn exit."
+  - q: When is the quietest time to visit BLESS Restaurant?
+    a: >-
+      On weekdays it's quietest between 3pm and 5pm. At weekends, 2pm to 11pm is
+      the calmer stretch overall, but avoid 7pm to 10pm, the busiest weekend
+      window.
+  - q: How do I get to BLESS Restaurant by public transport?
+    a: >-
+      Take the U2 to Hausvogteiplatz, which comes up on the same square as the
+      restaurant at Hausvogteiplatz 10. Stadtmitte (U2/U6) and Spittelmarkt (U2)
+      are also within a few minutes' walk.
+  - q: What are the opening hours?
+    a: >-
+      Monday to Friday it opens at 11:30am, and on Saturday and Sunday at 2pm.
+      Every day it closes at midnight, so weekend lunch isn't possible before
+      2pm.
+  - q: Do I need a reservation?
+    a: >-
+      Book for weekend evenings, especially between 7pm and 10pm when it's
+      busiest. On weekday afternoons you can usually walk in.
+  - q: What is there to see nearby?
+    a: >-
+      Gendarmenmarkt with the Konzerthaus is about five minutes away on foot.
+      Friedrichstraße, Checkpoint Charlie and the Spree near Museum Island are
+      all within roughly fifteen minutes' walk. The mirrored-steps memorial to
+      the square's former fashion houses stands at the Hausvogteiplatz U-Bahn
+      exit.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-02'
 ---
 
 ## A late kitchen on an old square

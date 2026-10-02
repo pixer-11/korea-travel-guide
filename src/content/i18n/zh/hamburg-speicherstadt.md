@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: hamburg-speicherstadt
-srcHash: '22b9e4fe2bcc'
+srcHash: 'e1b9d2e77947'
 title: 汉堡仓库城（Speicherstadt）旅行指南（4.8★）
-description: 仓库城是汉堡的红砖仓库区，位于老城区与港口新城（HafenCity）之间。评分4.8★（3,087条评价），本文汇总游客评价、开放时间和游览建议。
+description: 仓库城是汉堡的红砖仓库区，位于老城区与港口新城（HafenCity）之间。评分4.8★（3,088条评价），本文汇总游客评价、开放时间和游览建议。
 quickAnswer: 仓库城（Speicherstadt）是汉堡的红砖仓库区，夹在老城区（Altstadt）和港口新城（HafenCity）之间。这里桥梁纵横、运河交错，属于开放街区，全天24小时都能自由步行游览。离这里最近的地铁站是Meßberg站（U1）和Baumwall站（U3）。建议至少留出两小时。乘船游港最好赶在涨潮前后，天黑后也值得再来一趟，那时整片建筑立面都会亮起灯光。
 faq:
   - q: 乘公共交通怎么去仓库城？

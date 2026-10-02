@@ -1,55 +1,82 @@
 ---
-title: "Speicherstadt: Hamburg Travel Guide (4.8★)"
-description: "Speicherstadt is Hamburg's red-brick warehouse district, between the Altstadt and HafenCity. 4.8★ (3,087 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Hamburg"
-category: "hidden-gem"
-pubDate: "2026-10-02T14:22:08.269Z"
+title: 'Speicherstadt: Hamburg Travel Guide (4.8★)'
+description: >-
+  Speicherstadt is Hamburg's red-brick warehouse district, between the Altstadt
+  and HafenCity. 4.8★ (3,088 reviews) — what visitors say, hours, and tips.
+country: Germany
+region: Hamburg
+category: hidden-gem
+pubDate: '2026-10-02T14:22:08.269Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Speicherstadt_abends.jpg/1920px-Speicherstadt_abends.jpg"
-  credit: "Photo: Thomas Wolf, www.foto-tw.de / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Speicherstadt_abends.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Speicherstadt_abends.jpg/1920px-Speicherstadt_abends.jpg
+  credit: 'Photo: Thomas Wolf, www.foto-tw.de / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Speicherstadt_abends.jpg'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJAQAAkAKPsUcRgJn-oX24pYo"
-  name: "Speicherstadt"
-  address: "Alter Wandrahm 4, 20457 Hamburg, Germany"
+  id: ChIJAQAAkAKPsUcRgJn-oX24pYo
+  name: Speicherstadt
+  address: 'Alter Wandrahm 4, 20457 Hamburg, Germany'
   rating: 4.8
-  userRatingsTotal: 3087
-  googleMapsUrl: "https://maps.google.com/?cid=9990594198119553408&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3088
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9990594198119553408&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 53.546013099999996
   lng: 10.0021364
-  phone: "+49 40 688757600"
+  phone: +49 40 688757600
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "hamburg"
-  - "hidden gem"
-quickAnswer: "Speicherstadt is Hamburg's red-brick warehouse district, between the Altstadt and HafenCity. It is a public quarter of bridges and canals that you can walk through 24 hours a day, and Meßberg (U1) and Baumwall (U3) are the closest U-Bahn stops. Give it at least two hours. Plan a harbour boat ride around high tide, and come back after dark, when the facades are lit."
+  - hamburg
+  - hidden gem
+quickAnswer: >-
+  Speicherstadt is Hamburg's red-brick warehouse district, between the Altstadt
+  and HafenCity. It is a public quarter of bridges and canals that you can walk
+  through 24 hours a day, and Meßberg (U1) and Baumwall (U3) are the closest
+  U-Bahn stops. Give it at least two hours. Plan a harbour boat ride around high
+  tide, and come back after dark, when the facades are lit.
 faq:
-  - q: "How do I get to Speicherstadt by public transport?"
-    a: "For the eastern end and the Wasserschloss view, take the U1 to Meßberg. For the Elbphilharmonie end, take the U3 to Baumwall. Überseequartier (U4) is on the HafenCity side. All three are short walks into the district."
-  - q: "Is Speicherstadt open at night?"
-    a: "Yes. It is a public district of streets and bridges, open 24 hours every day. The facades and bridges are lit after dark, so an evening walk is well worth doing. The museums inside keep their own hours."
-  - q: "How long should I spend in Speicherstadt?"
-    a: "Allow about two hours to walk the bridges and canals from the Wasserschloss to the Elbphilharmonie. Make it a half day if you add Miniatur Wunderland or another museum, or a Barkasse harbour tour."
-  - q: "Do harbour boat tours go through the Speicherstadt canals?"
-    a: "Only when the tide allows. The small Barkassen launches from Landungsbrücken need enough water to pass under the low bridges into the fleets. Ask the operator before you board whether your sailing goes through the Speicherstadt."
-  - q: "What is near Speicherstadt?"
-    a: "The Elbphilharmonie and HafenCity are on its western and southern edges. The UNESCO-listed Kontorhausviertel and Chilehaus are just across Willy-Brandt-Straße, and the Landungsbrücken piers are a short walk or U3 ride west."
+  - q: How do I get to Speicherstadt by public transport?
+    a: >-
+      For the eastern end and the Wasserschloss view, take the U1 to Meßberg.
+      For the Elbphilharmonie end, take the U3 to Baumwall. Überseequartier (U4)
+      is on the HafenCity side. All three are short walks into the district.
+  - q: Is Speicherstadt open at night?
+    a: >-
+      Yes. It is a public district of streets and bridges, open 24 hours every
+      day. The facades and bridges are lit after dark, so an evening walk is
+      well worth doing. The museums inside keep their own hours.
+  - q: How long should I spend in Speicherstadt?
+    a: >-
+      Allow about two hours to walk the bridges and canals from the
+      Wasserschloss to the Elbphilharmonie. Make it a half day if you add
+      Miniatur Wunderland or another museum, or a Barkasse harbour tour.
+  - q: Do harbour boat tours go through the Speicherstadt canals?
+    a: >-
+      Only when the tide allows. The small Barkassen launches from
+      Landungsbrücken need enough water to pass under the low bridges into the
+      fleets. Ask the operator before you board whether your sailing goes
+      through the Speicherstadt.
+  - q: What is near Speicherstadt?
+    a: >-
+      The Elbphilharmonie and HafenCity are on its western and southern edges.
+      The UNESCO-listed Kontorhausviertel and Chilehaus are just across
+      Willy-Brandt-Straße, and the Landungsbrücken piers are a short walk or U3
+      ride west.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-02'
 ---
 
 Narrow canals called fleets cut between rows of warehouses seven or eight storeys tall. The red brick drops straight into the water, and green copper turrets stand along the roofline. Iron footbridges join one block to the next, and on the canal side the old loading doors are stacked one above the other up each facade. Under the gables you can still see the winch beams that hauled sacks of coffee up from the barges.

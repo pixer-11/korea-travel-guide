@@ -1,41 +1,47 @@
 ---
-title: "Cologne Cathedral: Travel Guide (4.7★)"
-description: "Cologne Cathedral stands on the Domplatte in Cologne's Altstadt, directly beside Köln Hauptbahnhof, and it's open daily from 6am to 8pm. 4.7★ (5,400 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Cologne"
-category: "attraction"
-pubDate: "2026-10-02T14:05:35.835Z"
+title: 'Cologne Cathedral: Travel Guide (4.7★)'
+description: >-
+  Cologne Cathedral stands on the Domplatte in Cologne's Altstadt, directly
+  beside Köln Hauptbahnhof, and it's open daily from 6am to 8pm. 4.7★ (5,422
+  reviews) — what visitors say, hours, and tips.
+country: Germany
+region: Cologne
+category: attraction
+pubDate: '2026-10-02T14:05:35.835Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Cologne_Germany_Cologne-Cathedral-West-Facade-01.jpg/3840px-Cologne_Germany_Cologne-Cathedral-West-Facade-01.jpg"
-  credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Cologne_Germany_Cologne-Cathedral-West-Facade-01.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Cologne_Germany_Cologne-Cathedral-West-Facade-01.jpg/3840px-Cologne_Germany_Cologne-Cathedral-West-Facade-01.jpg
+  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Cologne_Germany_Cologne-Cathedral-West-Facade-01.jpg
+  via: act
   focus:
     x: 48
-    y: 30
+    'y': 30
 gallery: []
 place:
-  id: "ChIJLz2cNqUlv0cRxqnjljiR7Ck"
-  name: "Cologne Cathedral"
-  address: "Domkloster 4, 50667 Köln, Germany"
+  id: ChIJLz2cNqUlv0cRxqnjljiR7Ck
+  name: Cologne Cathedral
+  address: 'Domkloster 4, 50667 Köln, Germany'
   rating: 4.7
-  userRatingsTotal: 5400
-  googleMapsUrl: "https://maps.google.com/?cid=3020949122294458822&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 5422
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3020949122294458822&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 50.941278399999995
   lng: 6.9582814
-  phone: "+49 221 92584730"
+  phone: +49 221 92584730
   openingHours:
-    - "Monday: 6:00 AM – 8:00 PM"
-    - "Tuesday: 6:00 AM – 8:00 PM"
-    - "Wednesday: 6:00 AM – 8:00 PM"
-    - "Thursday: 6:00 AM – 8:00 PM"
-    - "Friday: 6:00 AM – 8:00 PM"
-    - "Saturday: 6:00 AM – 8:00 PM"
-    - "Sunday: 6:00 AM – 8:00 PM"
+    - 'Monday: 6:00 AM – 8:00 PM'
+    - 'Tuesday: 6:00 AM – 8:00 PM'
+    - 'Wednesday: 6:00 AM – 8:00 PM'
+    - 'Thursday: 6:00 AM – 8:00 PM'
+    - 'Friday: 6:00 AM – 8:00 PM'
+    - 'Saturday: 6:00 AM – 8:00 PM'
+    - 'Sunday: 6:00 AM – 8:00 PM'
   busyness:
-    updated: 2026-10-02
+    updated: 2026-10-02T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -53,24 +59,43 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_6b433752696a6c6a6e7178526330766c55714e63327a4c4a496843"
+    venueId: ven_6b433752696a6c6a6e7178526330766c55714e63327a4c4a496843
 tags:
-  - "cologne"
-  - "top attraction"
-quickAnswer: "Cologne Cathedral stands on the Domplatte in Cologne's Altstadt, directly beside Köln Hauptbahnhof, and it's open daily from 6am to 8pm. It's quietest between 7am and 10am, on weekdays and weekends alike. On weekends, try not to arrive between 11am and 7pm, when the nave is at its fullest."
+  - cologne
+  - top attraction
+quickAnswer: >-
+  Cologne Cathedral stands on the Domplatte in Cologne's Altstadt, directly
+  beside Köln Hauptbahnhof, and it's open daily from 6am to 8pm. It's quietest
+  between 7am and 10am, on weekdays and weekends alike. On weekends, try not to
+  arrive between 11am and 7pm, when the nave is at its fullest.
 faq:
-  - q: "When is the quietest time to visit Cologne Cathedral?"
-    a: "Between 7am and 10am, on both weekdays and weekends. On weekends, try not to come between 11am and 7pm. That's when it's busiest."
-  - q: "How do I get to Cologne Cathedral?"
-    a: "Take any train to Köln Hauptbahnhof. The cathedral stands on the Domplatte right outside the station's main exit, at the top of a short flight of steps."
-  - q: "What are Cologne Cathedral's opening hours?"
-    a: "The cathedral is open daily from 6am to 8pm. Sightseeing is restricted during Mass. The tower and the Treasury keep their own hours, so check the official cathedral website before you go."
-  - q: "How long should I spend at Cologne Cathedral?"
-    a: "Allow about an hour for the main church. Add time for the 533-step south tower climb, the Treasury, or a guided tour if you want them."
-  - q: "What is there to see near Cologne Cathedral?"
-    a: "Museum Ludwig and the Romano-Germanic Museum are right beside it. The Hohenzollern Bridge leads across the Rhine to the Deutz bank, where you get the full view of the cathedral. Traditional Kölsch brewhouses such as Früh am Dom are a short walk away."
+  - q: When is the quietest time to visit Cologne Cathedral?
+    a: >-
+      Between 7am and 10am, on both weekdays and weekends. On weekends, try not
+      to come between 11am and 7pm. That's when it's busiest.
+  - q: How do I get to Cologne Cathedral?
+    a: >-
+      Take any train to Köln Hauptbahnhof. The cathedral stands on the Domplatte
+      right outside the station's main exit, at the top of a short flight of
+      steps.
+  - q: What are Cologne Cathedral's opening hours?
+    a: >-
+      The cathedral is open daily from 6am to 8pm. Sightseeing is restricted
+      during Mass. The tower and the Treasury keep their own hours, so check the
+      official cathedral website before you go.
+  - q: How long should I spend at Cologne Cathedral?
+    a: >-
+      Allow about an hour for the main church. Add time for the 533-step south
+      tower climb, the Treasury, or a guided tour if you want them.
+  - q: What is there to see near Cologne Cathedral?
+    a: >-
+      Museum Ludwig and the Romano-Germanic Museum are right beside it. The
+      Hohenzollern Bridge leads across the Rhine to the Deutz bank, where you
+      get the full view of the cathedral. Traditional Kölsch brewhouses such as
+      Früh am Dom are a short walk away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-02'
 ---
 
 ## A cathedral at the station door

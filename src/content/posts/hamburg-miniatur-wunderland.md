@@ -1,44 +1,50 @@
 ---
-title: "Miniatur Wunderland: Hamburg Travel Guide (4.8★)"
-description: "Miniatur Wunderland is the world's largest model railway, filling several floors of a red-brick warehouse at Kehrwieder 2 in Hamburg's Speicherstadt, a short walk from Baumwall U-Bahn (U3). 4.8★ (115,048 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Hamburg"
-category: "attraction"
-pubDate: "2026-10-02T14:02:49.569Z"
+title: 'Miniatur Wunderland: Hamburg Travel Guide (4.8★)'
+description: >-
+  Miniatur Wunderland is the world's largest model railway, filling several
+  floors of a red-brick warehouse at Kehrwieder 2 in Hamburg's Speicherstadt, a
+  short walk from Baumwall U-Bahn (U3). 4.8★ (115,062 reviews) — what visitors
+  say, hours, and tips.
+country: Germany
+region: Hamburg
+category: attraction
+pubDate: '2026-10-02T14:02:49.569Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/f/fc/Miniatur_wunderland.jpg"
-  credit: "Photo: Bildersindtoll / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Miniatur_wunderland.jpg"
+  url: 'https://upload.wikimedia.org/wikipedia/commons/f/fc/Miniatur_wunderland.jpg'
+  credit: 'Photo: Bildersindtoll / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Miniatur_wunderland.jpg'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Miniatur_Wunderland_Hamburg_2.jpg/3840px-Miniatur_Wunderland_Hamburg_2.jpg"
-    credit: "Photo: Steven Lek / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Miniatur_Wunderland_Hamburg_2.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Miniatur_Wunderland_Hamburg_2.jpg/3840px-Miniatur_Wunderland_Hamburg_2.jpg
+    credit: 'Photo: Steven Lek / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Miniatur_Wunderland_Hamburg_2.jpg'
 place:
-  id: "ChIJ4ddwbASPsUcRuhjNLkHPTqc"
-  name: "Miniatur Wunderland"
-  address: "Kehrwieder 2/Block D, 20457 Hamburg, Germany"
+  id: ChIJ4ddwbASPsUcRuhjNLkHPTqc
+  name: Miniatur Wunderland
+  address: 'Kehrwieder 2/Block D, 20457 Hamburg, Germany'
   rating: 4.8
-  userRatingsTotal: 115048
-  googleMapsUrl: "https://maps.google.com/?cid=12055801131382413498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 115062
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12055801131382413498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 53.543842899999994
   lng: 9.9890989
-  phone: "+49 40 3006800"
+  phone: +49 40 3006800
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 7:00 PM"
-    - "Saturday: 8:00 AM – 12:00 AM"
-    - "Sunday: 8:30 AM – 8:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 7:00 PM'
+    - 'Saturday: 8:00 AM – 12:00 AM'
+    - 'Sunday: 8:30 AM – 8:00 PM'
   busyness:
-    updated: 2026-10-02
+    updated: 2026-10-02T00:00:00.000Z
     weekdayQuiet:
       - 18
     weekdayBusy:
@@ -65,24 +71,45 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_63715450486b4c4e6a68755263557350534162776464344a496843"
+    venueId: ven_63715450486b4c4e6a68755263557350534162776464344a496843
 tags:
-  - "hamburg"
-  - "top attraction"
-quickAnswer: "Miniatur Wunderland is the world's largest model railway, filling several floors of a red-brick warehouse at Kehrwieder 2 in Hamburg's Speicherstadt, a short walk from Baumwall U-Bahn (U3). Book a timed ticket online and plan on three to four hours. Avoid weekends between 11am and 11pm; the calmest times are Saturday from the 8am opening and the last hour on Friday, 6pm–7pm."
+  - hamburg
+  - top attraction
+quickAnswer: >-
+  Miniatur Wunderland is the world's largest model railway, filling several
+  floors of a red-brick warehouse at Kehrwieder 2 in Hamburg's Speicherstadt, a
+  short walk from Baumwall U-Bahn (U3). Book a timed ticket online and plan on
+  three to four hours. Avoid weekends between 11am and 11pm; the calmest times
+  are Saturday from the 8am opening and the last hour on Friday, 6pm–7pm.
 faq:
-  - q: "When is the quietest time to visit Miniatur Wunderland?"
-    a: "On weekdays the quietest hour is 6pm–7pm, which only applies on Friday because Monday to Thursday it closes at 6pm. On weekends, come at the 8am Saturday opening. Avoid 11am–11pm on weekends, which is the busiest stretch."
-  - q: "How do I get to Miniatur Wunderland by public transport?"
-    a: "Take the U3 to Baumwall, then walk under ten minutes over the canal bridge to Kehrwieder 2/Block D in the Speicherstadt. Messberg (U1) is another option, with a slightly longer walk."
-  - q: "Do I need to book tickets in advance?"
-    a: "Yes, especially for weekends and school holidays. Timed entry slots sell out, so book a dated ticket on the official website, where current prices are also listed."
-  - q: "How long should I spend at Miniatur Wunderland?"
-    a: "Allow at least three hours. Most visitors stay three to four, and keen model-railway fans often stay longer."
-  - q: "What is nearby to combine with a visit?"
-    a: "The Hamburg Dungeon is in the same block. The Speicherstadt canals are right outside, and the Elbphilharmonie is a short walk west through HafenCity."
+  - q: When is the quietest time to visit Miniatur Wunderland?
+    a: >-
+      On weekdays the quietest hour is 6pm–7pm, which only applies on Friday
+      because Monday to Thursday it closes at 6pm. On weekends, come at the 8am
+      Saturday opening. Avoid 11am–11pm on weekends, which is the busiest
+      stretch.
+  - q: How do I get to Miniatur Wunderland by public transport?
+    a: >-
+      Take the U3 to Baumwall, then walk under ten minutes over the canal bridge
+      to Kehrwieder 2/Block D in the Speicherstadt. Messberg (U1) is another
+      option, with a slightly longer walk.
+  - q: Do I need to book tickets in advance?
+    a: >-
+      Yes, especially for weekends and school holidays. Timed entry slots sell
+      out, so book a dated ticket on the official website, where current prices
+      are also listed.
+  - q: How long should I spend at Miniatur Wunderland?
+    a: >-
+      Allow at least three hours. Most visitors stay three to four, and keen
+      model-railway fans often stay longer.
+  - q: What is nearby to combine with a visit?
+    a: >-
+      The Hamburg Dungeon is in the same block. The Speicherstadt canals are
+      right outside, and the Elbphilharmonie is a short walk west through
+      HafenCity.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-02'
 ---
 
 ## Thousands of tiny lives under one roof

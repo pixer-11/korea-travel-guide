@@ -1,47 +1,74 @@
 ---
-title: "Bremer Geschichtenhaus | bras e.V.: Bremen Travel Guide"
-description: "Bremer Geschichtenhaus | bras e.V. is a living history museum at Wüstestätte 10 in Bremen's Schnoor quarter, where costumed actors walk you through the city's story from the 1600s to the early 1900s. 4.8★ (954 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Bremen"
-category: "hidden-gem"
-pubDate: "2026-10-02T14:30:38.409Z"
+title: 'Bremer Geschichtenhaus | bras e.V.: Bremen Travel Guide'
+description: >-
+  Bremer Geschichtenhaus | bras e.V. is a living history museum at Wüstestätte
+  10 in Bremen's Schnoor quarter, where costumed actors walk you through the
+  city's story from the 1600s to the early 1900s. 4.8★ (955 reviews) — what
+  visitors say, hours, and tips.
+country: Germany
+region: Bremen
+category: hidden-gem
+pubDate: '2026-10-02T14:30:38.409Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/8/84/Bremer_Geschichtenhaus_2.jpg"
-  credit: "Photo: bras e.V. - arbeiten für bremen (M. Nejadi Kakavand) / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Bremer_Geschichtenhaus_2.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/8/84/Bremer_Geschichtenhaus_2.jpg
+  credit: >-
+    Photo: bras e.V. - arbeiten für bremen (M. Nejadi Kakavand) / Wikimedia
+    Commons (CC BY 3.0)
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Bremer_Geschichtenhaus_2.jpg'
+  via: act
   focus:
     x: 50
-    y: 20
+    'y': 20
 gallery: []
 place:
-  id: "ChIJVdoEHBsosUcRObjVRMLbEjw"
-  name: "Bremer Geschichtenhaus | bras e.V."
-  address: "Wüstestätte 10, 28195 Bremen, Germany"
+  id: ChIJVdoEHBsosUcRObjVRMLbEjw
+  name: Bremer Geschichtenhaus | bras e.V.
+  address: 'Wüstestätte 10, 28195 Bremen, Germany'
   rating: 4.8
-  userRatingsTotal: 954
-  googleMapsUrl: "https://maps.google.com/?cid=4328763819281463353&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 955
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4328763819281463353&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 53.07257260000001
   lng: 8.8095634
 tags:
-  - "bremen"
-  - "hidden gem"
-quickAnswer: "Bremer Geschichtenhaus | bras e.V. is a living history museum at Wüstestätte 10 in Bremen's Schnoor quarter, where costumed actors walk you through the city's story from the 1600s to the early 1900s. Combine it with the Schnoor lanes, the Marktplatz and the cathedral, and check the official site for current tour times and English-language options before you go."
+  - bremen
+  - hidden gem
+quickAnswer: >-
+  Bremer Geschichtenhaus | bras e.V. is a living history museum at Wüstestätte
+  10 in Bremen's Schnoor quarter, where costumed actors walk you through the
+  city's story from the 1600s to the early 1900s. Combine it with the Schnoor
+  lanes, the Marktplatz and the cathedral, and check the official site for
+  current tour times and English-language options before you go.
 faq:
-  - q: "Where exactly is the Bremer Geschichtenhaus?"
-    a: "It is at Wüstestätte 10, 28195 Bremen, inside the Schnoor old quarter. The nearest tram stop is Domsheide, a few minutes' walk away, and the Marktplatz is close by on foot."
-  - q: "Are the tours available in English?"
-    a: "Most performances are in German. Check the official website for English-language tours or special dates before you go."
-  - q: "How long does a visit take?"
-    a: "Allow roughly an hour for the guided performance, plus extra time to explore the surrounding Schnoor lanes."
-  - q: "Do I need to book in advance?"
-    a: "It is a good idea if your dates are fixed, because visits are guided group performances in small rooms. Check current tour times on the official site, since hours change."
-  - q: "What else is nearby?"
-    a: "St. Petri Dom, the Marktplatz with the Rathaus, the Roland statue and the Town Musicians statue, Böttcherstraße, and the Schlachte promenade along the Weser are all within a short walk."
+  - q: Where exactly is the Bremer Geschichtenhaus?
+    a: >-
+      It is at Wüstestätte 10, 28195 Bremen, inside the Schnoor old quarter. The
+      nearest tram stop is Domsheide, a few minutes' walk away, and the
+      Marktplatz is close by on foot.
+  - q: Are the tours available in English?
+    a: >-
+      Most performances are in German. Check the official website for
+      English-language tours or special dates before you go.
+  - q: How long does a visit take?
+    a: >-
+      Allow roughly an hour for the guided performance, plus extra time to
+      explore the surrounding Schnoor lanes.
+  - q: Do I need to book in advance?
+    a: >-
+      It is a good idea if your dates are fixed, because visits are guided group
+      performances in small rooms. Check current tour times on the official
+      site, since hours change.
+  - q: What else is nearby?
+    a: >-
+      St. Petri Dom, the Marktplatz with the Rathaus, the Roland statue and the
+      Town Musicians statue, Böttcherstraße, and the Schlachte promenade along
+      the Weser are all within a short walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-02'
 ---
 
 ## A museum that talks back

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: hamburg-speicherstadt
-srcHash: '22b9e4fe2bcc'
+srcHash: 'e1b9d2e77947'
 title: 'Speicherstadt: guía de viaje de Hamburgo (4.8★)'
-description: Entre el casco antiguo (Altstadt) y HafenCity se extiende la Speicherstadt, el barrio de almacenes de ladrillo rojo de Hamburgo. Con una valoración de 4.8★ (3,087 reseñas), aquí encontrará qué opinan los visitantes, los horarios y consejos prácticos.
+description: Entre el casco antiguo (Altstadt) y HafenCity se extiende la Speicherstadt, el barrio de almacenes de ladrillo rojo de Hamburgo. Con una valoración de 4.8★ (3,088 reseñas), aquí encontrará qué opinan los visitantes, los horarios y consejos prácticos.
 quickAnswer: Entre el casco antiguo (Altstadt) y HafenCity se encuentra la Speicherstadt, el barrio de almacenes de ladrillo rojo de Hamburgo. Este barrio público de puentes y canales puede recorrerse a pie las 24 horas del día, y las estaciones de metro (U-Bahn) más cercanas son Meßberg (U1) y Baumwall (U3). Conviene dedicarle un mínimo de dos horas. Si piensa dar un paseo en barco por el puerto, hágalo coincidir con la marea alta, y no deje de volver de noche, cuando las fachadas están iluminadas.
 faq:
   - q: ¿Cómo se llega a la Speicherstadt en transporte público?

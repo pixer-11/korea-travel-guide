@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: dusseldorf-hofgarten
-srcHash: '9144f1a7bc63'
+srcHash: '8a66cc282c45'
 title: 'Hofgarten: guía de viaje de Düsseldorf (4.6★)'
-description: 'El Hofgarten, gran parque central de Düsseldorf, permanece abierto las 24 horas. Esta alargada franja verde del distrito 1 (Stadtbezirk 1) une el casco antiguo (Altstadt) y la Königsallee con el palacio de Jägerhof (Schloss Jägerhof). Valoración de 4.6★ (7,372 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Hofgarten, gran parque central de Düsseldorf, permanece abierto las 24 horas. Esta alargada franja verde del distrito 1 (Stadtbezirk 1) une el casco antiguo (Altstadt) y la Königsallee con el palacio de Jägerhof (Schloss Jägerhof). Valoración de 4.6★ (7,373 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Hofgarten es el gran parque central de Düsseldorf. Esta alargada franja verde del distrito 1 (Stadtbezirk 1) une el casco antiguo (Altstadt) y la Königsallee con el palacio de Jägerhof (Schloss Jägerhof), y está abierta las 24 horas. Los senderos están más tranquilos entre las 7 y las 8 de la mañana los días laborables, y entre las 7 y las 9 de la mañana los fines de semana. Conviene evitar los fines de semana de 11 de la mañana a 9 de la noche, cuando se concentra la mayor afluencia.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Hofgarten?

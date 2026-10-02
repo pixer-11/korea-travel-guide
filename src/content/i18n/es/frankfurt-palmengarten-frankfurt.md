@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: frankfurt-palmengarten-frankfurt
-srcHash: '4510a75761c4'
+srcHash: '93d862774837'
 title: 'Palmengarten: guía de viaje de Fráncfort (4.7★)'
-description: En plena Siesmayerstraße, en el barrio de Westend, el Palmengarten de Fráncfort es un jardín botánico del siglo XIX situado a pocos pasos de la estación de U-Bahn Westend (U6, U7). Con una valoración de 4.7★ (23,845 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y algunos consejos prácticos.
+description: En plena Siesmayerstraße, en el barrio de Westend, el Palmengarten de Fráncfort es un jardín botánico del siglo XIX situado a pocos pasos de la estación de U-Bahn Westend (U6, U7). Con una valoración de 4.7★ (23,847 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y algunos consejos prácticos.
 quickAnswer: En plena Siesmayerstraße, en el barrio de Westend, el Palmengarten de Fráncfort es un jardín botánico del siglo XIX situado a pocos pasos de la estación de U-Bahn Westend (U6, U7). Entre semana reina la tranquilidad durante todo el horario de apertura, de 9am a 7pm. El fin de semana conviene llegar a las 9am y evitar la franja de 12pm a 6pm, que es la de mayor afluencia.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Palmengarten?
