@@ -1,4 +1,5 @@
 ---
+import { buildToday } from '../lib/buildDay.mjs';
 import { getCollection } from 'astro:content';
 import { siteHref } from '../lib/urls.mjs';
 import BaseLayout from '../layouts/BaseLayout.astro';
@@ -33,7 +34,7 @@ const countryLabel = localizePlace(country.name, lang);
 const tr = await loadCardTranslations(lang);
 const card = cardHelpers(tr, lang);
 
-const today = new Date();
+const today = buildToday(); // the build's one "today" (lib/buildDay.mjs)
 const upcoming = events
   .filter((p) => !isEventPast(p.data, today))
   .sort((a, b) => eventSortValue(a.data, today) - eventSortValue(b.data, today));

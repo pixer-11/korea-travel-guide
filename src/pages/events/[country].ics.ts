@@ -1,3 +1,4 @@
+import { buildToday } from '../../lib/buildDay.mjs';
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
 import { isEventPast, eventSortValue } from '../../lib/eventStatus';
@@ -27,7 +28,7 @@ export async function getStaticPaths() {
 
 export const GET: APIRoute = async ({ site, props }) => {
   const base = site?.toString().replace(/\/$/, '') ?? '';
-  const today = new Date();
+  const today = buildToday(); // the build's one "today" (lib/buildDay.mjs)
   const { countryName, posts } = props as { countryName: string; posts: any[] };
 
   const upcoming = posts

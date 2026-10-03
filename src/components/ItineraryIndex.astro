@@ -1,4 +1,5 @@
 ---
+import { buildToday } from '../lib/buildDay.mjs';
 import { monthKeyUTC, nextMonthUTC, prevMonthUTC } from '../lib/readerMonth';
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
@@ -86,7 +87,7 @@ const daysText = dayOptions.join('·');
 
 // ── good this month: countries whose essentials guide lists this month among
 // its best (vetted cards, only while the guide is unchanged) ──
-const today = new Date();
+const today = buildToday(); // the build's one "today" (lib/buildDay.mjs)
 const month = today.getUTCMonth() + 1;
 const monthName = new Intl.DateTimeFormat(locale, { month: 'long', timeZone: 'UTC' }).format(today);
 const guides = await getCollection('essentials', ({ data }) => !data.draft);

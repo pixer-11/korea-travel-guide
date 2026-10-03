@@ -1,3 +1,4 @@
+import { buildToday } from '../lib/buildDay.mjs';
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
 import { isEventPast, eventSortValue } from '../lib/eventStatus';
@@ -9,7 +10,7 @@ import { SITE } from '../siteConfig';
 // (rebuilt daily with the site), so it stays as fresh as the HTML hub.
 export const GET: APIRoute = async ({ site }) => {
   const base = site?.toString().replace(/\/$/, '') ?? '';
-  const today = new Date();
+  const today = buildToday(); // the build's one "today" (lib/buildDay.mjs)
   const all = await getCollection(
     'posts',
     ({ data }) => !data.draft && data.category === 'event'

@@ -284,7 +284,16 @@ async function plausibleReport() {
     return null;
   }
   if (PLAUSIBLE_API_KEY) {
-    try { return await plausibleViaStatsApi(); }
+    try {
+      const api = await plausibleViaStatsApi();
+      // The readers' countries and the Google line are collected on the public
+      // path only; without this, a plan where the Stats API works would drop
+      // both from the report (Codex, 10-04). The public path needs no key.
+      let extra = {};
+      try { const pub = await plausibleViaPublicDashboard(); extra = { countries: pub.countries, google: pub.google }; }
+      catch (e) { console.log('countries/google via public dashboard skipped:', e.message.slice(0, 80)); }
+      return { ...api, ...extra };
+    }
     catch (e) { console.log('Plausible Stats API unavailable (expected on Starter):', e.message.slice(0, 80)); }
   }
   try { return await plausibleViaPublicDashboard(); }

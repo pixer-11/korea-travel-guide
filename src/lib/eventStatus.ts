@@ -8,13 +8,10 @@ type EventDates = { category?: string; eventEndDate?: Date | string | null; even
 
 const dayStr = (d: Date) => d.toISOString().slice(0, 10);
 
-// The build's one "today" (astro.config.mjs sets WA_BUILD_DAY before any page
-// renders), so a build that crosses 00:00 UTC cannot call an event live in the
-// sitemap and past on its page. Outside a build (tests, scripts) it is now.
-function buildToday(): Date {
-  const day = typeof process !== 'undefined' ? process.env?.WA_BUILD_DAY : undefined;
-  return day && /^\d{4}-\d{2}-\d{2}$/.test(day) ? new Date(`${day}T12:00:00Z`) : new Date();
-}
+// The build's one "today" (lib/buildDay.mjs): every caller that decides an
+// event's state asks it, so the page, the feeds and the hubs cannot disagree.
+import { buildToday } from './buildDay.mjs';
+export { buildToday };
 
 export function isEventPast(data: EventDates, today = buildToday()): boolean {
   if (data.category !== 'event' || !data.eventEndDate) return false;

@@ -1,4 +1,5 @@
 ---
+import { buildToday } from '../lib/buildDay.mjs';
 // "WHAT'S CLOSED ON YOUR DATES" — the date-range question, answered from data we
 // already hold: dated public holidays per country and each venue's ordinary weekly
 // hours. Deliberately one page rather than a country x month grid: indexing has
@@ -50,7 +51,7 @@ const countries = Object.keys(facts)
   .filter((c) => posts.some((p) => p.data.country === c))
   .sort();
 
-const today = new Date().toISOString().slice(0, 10);
+const today = buildToday().toISOString().slice(0, 10); // lib/buildDay.mjs
 const in14 = new Date(Date.now() + 13 * 86400000).toISOString().slice(0, 10);
 
 // The default country is the first one that actually has something to say in the

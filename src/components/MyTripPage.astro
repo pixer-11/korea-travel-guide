@@ -1025,7 +1025,12 @@ const CITY_T = {
       if (mine !== run) return;
       const slugs = readCities();
       if (!slugs.length) { gone(); return; }
-      // A city whose guides were all retired has no entry any more: skip it.
+      // A city whose guides were all retired has no entry any more. It used to
+      // be skipped here but still counted in the header, with no button left
+      // to remove it (Codex, 10-04). The file lists every city with a guide in
+      // every language, so one missing from it is gone: drop it from the list,
+      // which repaints the header and this section with the same count.
+      if (slugs.some((s) => !data![s])) { writeCities(slugs.filter((s) => data![s])); return; }
       const cities = slugs.map((s) => [s, data![s]] as const).filter(([, c]) => c);
       box.hidden = !cities.length;
       count.textContent = cities.length ? String(cities.length) : '';

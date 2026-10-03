@@ -1,3 +1,4 @@
+import { buildToday } from './buildDay.mjs';
 // Pure helpers behind the country hub (DestinationHub.astro, 2026-09-24
 // redesign). Every value the hub's summary row and city cards show is computed
 // here from repo data — no month, count or photo is typed into the template.
@@ -40,7 +41,7 @@ export function bestMonths(climate) {
  *               month, so an event already running counts too
  * Dates compare as UTC day strings, like eventStatus does.
  */
-export function eventCounts(posts, today = new Date()) {
+export function eventCounts(posts, today = buildToday()) {
   const todayStr = dayStr(today);
   const t = new Date(today);
   const monthEnd = dayStr(new Date(Date.UTC(t.getUTCFullYear(), t.getUTCMonth() + 1, 0)));

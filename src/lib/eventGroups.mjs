@@ -1,3 +1,4 @@
+import { buildToday } from './buildDay.mjs';
 // Which heading does an event card belong under on the events hubs?
 //
 // The hubs used to file every card under the month its run STARTS. A six-month
@@ -20,7 +21,7 @@ const endValue = (data) => {
   return Number.isNaN(t) ? Number.MAX_SAFE_INTEGER : t;
 };
 
-export function eventGroupOf(data, today = new Date()) {
+export function eventGroupOf(data, today = buildToday()) {
   const raw = data?.eventStartDate;
   if (!raw) return { kind: 'tba' };
   const start = new Date(raw);
@@ -36,7 +37,7 @@ export function eventGroupOf(data, today = new Date()) {
  * @param {Date} [today]
  * @returns {Array<[string, any[]]>}
  */
-export function groupUpcomingEvents(posts, labels, today = new Date()) {
+export function groupUpcomingEvents(posts, labels, today = buildToday()) {
   const now = [];
   const tba = [];
   const months = new Map();

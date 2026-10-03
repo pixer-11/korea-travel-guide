@@ -1,3 +1,4 @@
+import { buildToday } from '../lib/buildDay.mjs';
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
 import { isEventPast, eventSortValue } from '../lib/eventStatus';
@@ -10,7 +11,7 @@ import { SITE } from '../siteConfig';
 // touchpoint that needs no repeat visit. Static, rebuilt daily with the site.
 export const GET: APIRoute = async ({ site }) => {
   const base = site?.toString().replace(/\/$/, '') ?? '';
-  const today = new Date();
+  const today = buildToday(); // the build's one "today" (lib/buildDay.mjs)
   const all = await getCollection('posts', ({ data }) => !data.draft && data.category === 'event');
   const upcoming = all
     .filter((p) => !isEventPast(p.data, today) && p.data.eventStartDate)
