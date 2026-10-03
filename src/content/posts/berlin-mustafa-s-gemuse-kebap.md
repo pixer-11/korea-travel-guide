@@ -1,45 +1,54 @@
 ---
-title: "Mustafa's Gemüse Kebap: Where to Eat in Berlin (4.2★)"
-description: "Mustafa's Gemüse Kebap is a tiny takeaway kiosk at Mehringdamm 33 in Kreuzberg, Berlin, a short walk from Mehringdamm U-Bahn (U6 and U7), known for chicken kebabs loaded with grilled vegetables. 4.2★ (22,377 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Berlin"
-category: "restaurant"
-pubDate: "2026-10-03T12:47:58.704Z"
+title: 'Mustafa''s Gemüse Kebap: Where to Eat in Berlin (4.2★)'
+description: >-
+  Mustafa's Gemüse Kebap is a tiny takeaway kiosk at Mehringdamm 33 in
+  Kreuzberg, Berlin, a short walk from Mehringdamm U-Bahn (U6 and U7), known for
+  chicken kebabs loaded with grilled vegetables. 4.2★ (22,378 reviews) — what
+  visitors say, hours, and tips.
+country: Germany
+region: Berlin
+category: restaurant
+pubDate: '2026-10-03T12:47:58.704Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/0/02/Warteschlange_an_Mustafa%27s_Gem%C3%BCse_Kebap_%28Berlin%2C_2018%29.jpg"
-  credit: "Photo: JoachimKohler-HB / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Warteschlange_an_Mustafa%27s_Gem%C3%BCse_Kebap_(Berlin,_2018).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/0/02/Warteschlange_an_Mustafa%27s_Gem%C3%BCse_Kebap_%28Berlin%2C_2018%29.jpg
+  credit: 'Photo: JoachimKohler-HB / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Warteschlange_an_Mustafa%27s_Gem%C3%BCse_Kebap_(Berlin,_2018).jpg
+  via: act
   focus:
     x: 30
-    y: 20
+    'y': 20
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Berlin_-_Mustafa%27s_Gem%C3%BCse-Kebap_neu.jpg/3840px-Berlin_-_Mustafa%27s_Gem%C3%BCse-Kebap_neu.jpg"
-    credit: "Photo: JoachimKohler-HB / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Berlin_-_Mustafa%27s_Gem%C3%BCse-Kebap_neu.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Berlin_-_Mustafa%27s_Gem%C3%BCse-Kebap_neu.jpg/3840px-Berlin_-_Mustafa%27s_Gem%C3%BCse-Kebap_neu.jpg
+    credit: 'Photo: JoachimKohler-HB / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Berlin_-_Mustafa%27s_Gem%C3%BCse-Kebap_neu.jpg
 place:
-  id: "ChIJc35bGSlQqEcRL52ICDHcNKk"
-  name: "Mustafa's Gemüse Kebap"
-  address: "Mehringdamm 33, 10961 Berlin, Germany"
+  id: ChIJc35bGSlQqEcRL52ICDHcNKk
+  name: Mustafa's Gemüse Kebap
+  address: 'Mehringdamm 33, 10961 Berlin, Germany'
   rating: 4.2
-  userRatingsTotal: 22377
+  userRatingsTotal: 22378
   priceLevel: 1
-  googleMapsUrl: "https://maps.google.com/?cid=12192612194353454383&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12192612194353454383&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 52.493485
   lng: 13.3885619
   openingHours:
-    - "Monday: 11:00 AM – 11:30 PM"
-    - "Tuesday: 11:00 AM – 11:30 PM"
-    - "Wednesday: 11:00 AM – 11:30 PM"
-    - "Thursday: 11:00 AM – 12:30 AM"
-    - "Friday: 2:00 PM – 2:30 AM"
-    - "Saturday: 11:00 AM – 2:30 AM"
-    - "Sunday: 11:00 AM – 12:30 AM"
+    - 'Monday: 11:00 AM – 11:30 PM'
+    - 'Tuesday: 11:00 AM – 11:30 PM'
+    - 'Wednesday: 11:00 AM – 11:30 PM'
+    - 'Thursday: 11:00 AM – 12:30 AM'
+    - 'Friday: 2:00 PM – 2:30 AM'
+    - 'Saturday: 11:00 AM – 2:30 AM'
+    - 'Sunday: 11:00 AM – 12:30 AM'
   busyness:
-    updated: 2026-10-03
+    updated: 2026-10-03T00:00:00.000Z
     weekdayQuiet:
       - 11
       - 22
@@ -57,24 +66,44 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_6b4b4e634844434932354c52634571516c5347623533634a496843"
+    venueId: ven_6b4b4e634844434932354c52634571516c5347623533634a496843
 tags:
-  - "berlin"
-  - "street food"
-quickAnswer: "Mustafa's Gemüse Kebap is a tiny takeaway kiosk at Mehringdamm 33 in Kreuzberg, Berlin, a short walk from Mehringdamm U-Bahn (U6 and U7), known for chicken kebabs loaded with grilled vegetables. The queue is shortest on weekdays between 11am and 11pm, and on weekends between 11am and 1pm. Avoid weekends from 1pm to 11pm, when the line is at its longest, and note that on Fridays it doesn't open until 2pm."
+  - berlin
+  - street food
+quickAnswer: >-
+  Mustafa's Gemüse Kebap is a tiny takeaway kiosk at Mehringdamm 33 in
+  Kreuzberg, Berlin, a short walk from Mehringdamm U-Bahn (U6 and U7), known for
+  chicken kebabs loaded with grilled vegetables. The queue is shortest on
+  weekdays between 11am and 11pm, and on weekends between 11am and 1pm. Avoid
+  weekends from 1pm to 11pm, when the line is at its longest, and note that on
+  Fridays it doesn't open until 2pm.
 faq:
-  - q: "When is the quietest time to visit Mustafa's Gemüse Kebap?"
-    a: "On weekdays it is quietest from 11am to 11pm. On weekends, come between 11am and 1pm. Avoid weekends from 1pm to 11pm, when the queue is at its longest. Remember that on Fridays it only opens at 2pm."
-  - q: "How do I get to Mustafa's Gemüse Kebap?"
-    a: "Take the U6 or U7 to Mehringdamm station in Kreuzberg. The kiosk is at Mehringdamm 33, a short walk along the street from the station."
-  - q: "Is there anywhere to sit?"
-    a: "It's a small kiosk with a serving hatch, so plan to eat standing up nearby or carry your kebab to Viktoriapark, about a 15-minute walk away."
-  - q: "How late is it open?"
-    a: "Monday to Wednesday it's open until 11:30pm, Thursday and Sunday until 12:30am, and Friday and Saturday until 2:30am. It opens at 11am every day except Friday, when it opens at 2pm."
-  - q: "What else is nearby?"
-    a: "Curry 36, a well-known currywurst stand, is on the same stretch of Mehringdamm. The Bergmannkiez, Marheineke Markthalle and Viktoriapark are all within walking distance."
+  - q: When is the quietest time to visit Mustafa's Gemüse Kebap?
+    a: >-
+      On weekdays it is quietest from 11am to 11pm. On weekends, come between
+      11am and 1pm. Avoid weekends from 1pm to 11pm, when the queue is at its
+      longest. Remember that on Fridays it only opens at 2pm.
+  - q: How do I get to Mustafa's Gemüse Kebap?
+    a: >-
+      Take the U6 or U7 to Mehringdamm station in Kreuzberg. The kiosk is at
+      Mehringdamm 33, a short walk along the street from the station.
+  - q: Is there anywhere to sit?
+    a: >-
+      It's a small kiosk with a serving hatch, so plan to eat standing up nearby
+      or carry your kebab to Viktoriapark, about a 15-minute walk away.
+  - q: How late is it open?
+    a: >-
+      Monday to Wednesday it's open until 11:30pm, Thursday and Sunday until
+      12:30am, and Friday and Saturday until 2:30am. It opens at 11am every day
+      except Friday, when it opens at 2pm.
+  - q: What else is nearby?
+    a: >-
+      Curry 36, a well-known currywurst stand, is on the same stretch of
+      Mehringdamm. The Bergmannkiez, Marheineke Markthalle and Viktoriapark are
+      all within walking distance.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-03'
 ---
 
 ## A kiosk with a queue

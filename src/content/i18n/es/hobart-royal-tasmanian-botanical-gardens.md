@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: hobart-royal-tasmanian-botanical-gardens
-srcHash: '8b4912933fc3'
+srcHash: '574fc581c02f'
 title: 'Real Jardín Botánico de Tasmania: guía de viaje de Hobart'
-description: El Real Jardín Botánico de Tasmania (Royal Tasmanian Botanical Gardens) ocupa parte del Queens Domain de Hobart, en Lower Domain Road, a unos 2 km del centro de la ciudad, y abre todos los días de 8am a 5pm. Con una valoración de 4.7★ (7,809 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
+description: El Real Jardín Botánico de Tasmania (Royal Tasmanian Botanical Gardens) ocupa parte del Queens Domain de Hobart, en Lower Domain Road, a unos 2 km del centro de la ciudad, y abre todos los días de 8am a 5pm. Con una valoración de 4.7★ (7,810 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: El Real Jardín Botánico de Tasmania (Royal Tasmanian Botanical Gardens) se encuentra en el Queens Domain de Hobart, en Lower Domain Road, a unos 2 km del centro, y abre todos los días de 8am a 5pm. Entre semana reina la calma durante toda la jornada. Los fines de semana, en cambio, las horas más tranquilas van de 8am a 10am y la mayor afluencia se concentra entre 11am y 4pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Real Jardín Botánico de Tasmania?

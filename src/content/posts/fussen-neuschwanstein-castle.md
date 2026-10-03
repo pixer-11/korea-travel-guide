@@ -1,40 +1,45 @@
 ---
-title: "Neuschwanstein Castle: Füssen Travel Guide (4.6★)"
-description: "Neuschwanstein Castle sits on a crag above the village of Hohenschwangau in Schwangau, about 10 minutes by bus from Füssen. 4.6★ (117,276 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Füssen"
-category: "hidden-gem"
-pubDate: "2026-10-03T07:51:23.409Z"
+title: 'Neuschwanstein Castle: Füssen Travel Guide (4.6★)'
+description: >-
+  Neuschwanstein Castle sits on a crag above the village of Hohenschwangau in
+  Schwangau, about 10 minutes by bus from Füssen. 4.6★ (117,305 reviews) — what
+  visitors say, hours, and tips.
+country: Germany
+region: Füssen
+category: hidden-gem
+pubDate: '2026-10-03T07:51:23.409Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Neuschwanstein_2013.jpg/1920px-Schloss_Neuschwanstein_2013.jpg"
-  credit: "Photo: Thomas Wolf, www.foto-tw.de / Wikimedia Commons (CC BY-SA 3.0 de)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Schloss_Neuschwanstein_2013.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Neuschwanstein_2013.jpg/1920px-Schloss_Neuschwanstein_2013.jpg
+  credit: 'Photo: Thomas Wolf, www.foto-tw.de / Wikimedia Commons (CC BY-SA 3.0 de)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Schloss_Neuschwanstein_2013.jpg'
   focus:
     x: 40
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJXaNOxMr3nEcRo7ud02uGpsg"
-  name: "Neuschwanstein Castle"
-  address: "Neuschwansteinstraße 20, 87645 Schwangau, Germany"
+  id: ChIJXaNOxMr3nEcRo7ud02uGpsg
+  name: Neuschwanstein Castle
+  address: 'Neuschwansteinstraße 20, 87645 Schwangau, Germany'
   rating: 4.6
-  userRatingsTotal: 117276
-  googleMapsUrl: "https://maps.google.com/?cid=14458391451389508515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 117305
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14458391451389508515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 47.557573999999995
   lng: 10.7498004
-  phone: "+49 8362 9398877"
+  phone: +49 8362 9398877
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-10-03
+    updated: 2026-10-03T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -48,24 +53,45 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_677370477532306475376f5263456e33724d784f4e61584a496843"
+    venueId: ven_677370477532306475376f5263456e33724d784f4e61584a496843
 tags:
-  - "füssen"
-  - "hidden gem"
-quickAnswer: "Neuschwanstein Castle sits on a crag above the village of Hohenschwangau in Schwangau, about 10 minutes by bus from Füssen. Book a timed tour online in advance and plan about half a day, including the uphill walk and Marienbrücke. It's quietest on weekdays across its 9am–6pm opening hours; on weekends, try not to visit between 11am and 4pm."
+  - füssen
+  - hidden gem
+quickAnswer: >-
+  Neuschwanstein Castle sits on a crag above the village of Hohenschwangau in
+  Schwangau, about 10 minutes by bus from Füssen. Book a timed tour online in
+  advance and plan about half a day, including the uphill walk and Marienbrücke.
+  It's quietest on weekdays across its 9am–6pm opening hours; on weekends, try
+  not to visit between 11am and 4pm.
 faq:
-  - q: "When is the quietest time to visit Neuschwanstein Castle?"
-    a: "Weekdays are calmest across the full opening window of 9am–6pm. On weekends it's busiest between 11am and 4pm, so try to avoid that stretch."
-  - q: "How do I get to Neuschwanstein from Füssen?"
-    a: "Take bus 73 or 78 from Füssen station to Hohenschwangau, which takes about 10 minutes. From there, walk uphill for 30 to 40 minutes, take a horse carriage, or ride the shuttle bus to near Marienbrücke."
-  - q: "Do I need to book tickets in advance?"
-    a: "Yes, especially in summer and on weekends. Tickets are timed to a guided tour slot. Book through the Bavarian Palace Administration's official site, which also posts current prices, and collect them at the ticket centre in Hohenschwangau."
-  - q: "How long should I plan for a visit?"
-    a: "Allow about four hours from Hohenschwangau and back. That covers the climb, the roughly 30-minute tour and Marienbrücke. Add Hohenschwangau Castle and the Alpsee and you have a full day."
-  - q: "Can I take photos inside?"
-    a: "No, photography isn't allowed inside the castle. You can take photos freely outside, and the best-known view is from Marienbrücke above the Pöllat Gorge."
+  - q: When is the quietest time to visit Neuschwanstein Castle?
+    a: >-
+      Weekdays are calmest across the full opening window of 9am–6pm. On
+      weekends it's busiest between 11am and 4pm, so try to avoid that stretch.
+  - q: How do I get to Neuschwanstein from Füssen?
+    a: >-
+      Take bus 73 or 78 from Füssen station to Hohenschwangau, which takes about
+      10 minutes. From there, walk uphill for 30 to 40 minutes, take a horse
+      carriage, or ride the shuttle bus to near Marienbrücke.
+  - q: Do I need to book tickets in advance?
+    a: >-
+      Yes, especially in summer and on weekends. Tickets are timed to a guided
+      tour slot. Book through the Bavarian Palace Administration's official
+      site, which also posts current prices, and collect them at the ticket
+      centre in Hohenschwangau.
+  - q: How long should I plan for a visit?
+    a: >-
+      Allow about four hours from Hohenschwangau and back. That covers the
+      climb, the roughly 30-minute tour and Marienbrücke. Add Hohenschwangau
+      Castle and the Alpsee and you have a full day.
+  - q: Can I take photos inside?
+    a: >-
+      No, photography isn't allowed inside the castle. You can take photos
+      freely outside, and the best-known view is from Marienbrücke above the
+      Pöllat Gorge.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-03'
 ---
 
 ## A castle built for one man

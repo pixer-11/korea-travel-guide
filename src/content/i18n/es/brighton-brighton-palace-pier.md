@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: brighton-brighton-palace-pier
-srcHash: '4136bfbc011e'
+srcHash: 'e784d42f704b'
 title: 'Brighton Palace Pier: guía de viaje (4.4★)'
-description: 'El Brighton Palace Pier se adentra en el mar desde Madeira Drive, al final de Old Steine, a unos 15 o 20 minutos a pie cuesta abajo desde la estación de Brighton. 4.4★ (37,518 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Brighton Palace Pier se adentra en el mar desde Madeira Drive, al final de Old Steine, a unos 15 o 20 minutos a pie cuesta abajo desde la estación de Brighton. 4.4★ (37,519 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Brighton Palace Pier se adentra en el mar desde Madeira Drive, al final de Old Steine. Desde la estación de Brighton hasta el paseo marítimo hay unos 15 o 20 minutos a pie, siempre cuesta abajo. Abre de lunes a viernes de 10am a 9pm, y los fines de semana cierra a las 10pm. Si busca sitio en la pasarela, llegue a la apertura de las 10am. Al anochecer, en cambio, podrá disfrutar de las luces y, en invierno, de los estorninos.
 faq:
   - q: ¿Cómo se llega al Brighton Palace Pier desde la estación de Brighton?

@@ -1,60 +1,87 @@
 ---
-title: "Karlsplatz: Heidelberg Travel Guide (4.6★)"
-description: "Karlsplatz is an open square at the eastern end of Hauptstraße in Heidelberg's Altstadt, directly below Heidelberg Castle. 4.6★ (1,486 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Heidelberg"
-category: "hidden-gem"
-pubDate: "2026-10-03T07:52:44.819Z"
+title: 'Karlsplatz: Heidelberg Travel Guide (4.6★)'
+description: >-
+  Karlsplatz is an open square at the eastern end of Hauptstraße in Heidelberg's
+  Altstadt, directly below Heidelberg Castle. 4.6★ (1,487 reviews) — what
+  visitors say, hours, and tips.
+country: Germany
+region: Heidelberg
+category: hidden-gem
+pubDate: '2026-10-03T07:52:44.819Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Karlsplatz%2C_Heidelberg%2C_Baden-Wurttemberg%2C_Germany_-_panoramio.jpg/3840px-Karlsplatz%2C_Heidelberg%2C_Baden-Wurttemberg%2C_Germany_-_panoramio.jpg"
-  credit: "Photo: trolvag / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Karlsplatz,_Heidelberg,_Baden-Wurttemberg,_Germany_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Karlsplatz%2C_Heidelberg%2C_Baden-Wurttemberg%2C_Germany_-_panoramio.jpg/3840px-Karlsplatz%2C_Heidelberg%2C_Baden-Wurttemberg%2C_Germany_-_panoramio.jpg
+  credit: 'Photo: trolvag / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Karlsplatz,_Heidelberg,_Baden-Wurttemberg,_Germany_-_panoramio.jpg
+  via: act
   focus:
     x: 60
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GER_Heidelberg%2C_Karlsplatz_001.jpg/3840px-GER_Heidelberg%2C_Karlsplatz_001.jpg"
-    credit: "Photo: -wuppertaler / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:GER_Heidelberg,_Karlsplatz_001.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GER_Heidelberg%2C_Karlsplatz_001.jpg/3840px-GER_Heidelberg%2C_Karlsplatz_001.jpg
+    credit: 'Photo: -wuppertaler / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:GER_Heidelberg,_Karlsplatz_001.jpg'
 place:
-  id: "ChIJBTCUjgfBl0cR9qzNnnJ8gJI"
-  name: "Karlsplatz"
-  address: "Hauptstraße 214, 69117 Heidelberg-Altstadt, Germany"
+  id: ChIJBTCUjgfBl0cR9qzNnnJ8gJI
+  name: Karlsplatz
+  address: 'Hauptstraße 214, 69117 Heidelberg-Altstadt, Germany'
   rating: 4.6
-  userRatingsTotal: 1486
-  googleMapsUrl: "https://maps.google.com/?cid=10556574358288837878&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1487
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10556574358288837878&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 49.412256299999996
   lng: 8.7127459
-  phone: "+49 6221 5810580"
+  phone: +49 6221 5810580
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "heidelberg"
-  - "local market"
-quickAnswer: "Karlsplatz is an open square at the eastern end of Hauptstraße in Heidelberg's Altstadt, directly below Heidelberg Castle. It's a public square open 24 hours with no ticket. Come for one of the clearest views of the castle from the old town, then take the Kurzer Buckel steps uphill or walk two minutes to Kornmarkt for the Bergbahn funicular."
+  - heidelberg
+  - local market
+quickAnswer: >-
+  Karlsplatz is an open square at the eastern end of Hauptstraße in Heidelberg's
+  Altstadt, directly below Heidelberg Castle. It's a public square open 24 hours
+  with no ticket. Come for one of the clearest views of the castle from the old
+  town, then take the Kurzer Buckel steps uphill or walk two minutes to
+  Kornmarkt for the Bergbahn funicular.
 faq:
-  - q: "How do I get to Karlsplatz in Heidelberg?"
-    a: "Walk east along Hauptstraße through the Altstadt. It's about 25 minutes from Bismarckplatz or five minutes from Marktplatz. Buses stop at Rathaus/Bergbahn, a short walk away."
-  - q: "Can I walk from Karlsplatz up to Heidelberg Castle?"
-    a: "Yes. The Kurzer Buckel, a steep stepped lane, climbs from the Karlsplatz side to the castle. If you'd rather ride, the Bergbahn funicular leaves from Kornmarkt, a two-minute walk west."
-  - q: "Is Karlsplatz open at night?"
-    a: "Yes. It's a public square, open 24 hours every day with no admission. In the evening the castle is lit up above it."
-  - q: "How long should I spend at Karlsplatz?"
-    a: "Allow 15 to 30 minutes for the castle view and the surrounding palaces. It works best as a stop between the castle and a walk down Hauptstraße to Marktplatz and the Old Bridge."
-  - q: "What happens at Karlsplatz in winter?"
-    a: "During the Christmas season the square has traditionally hosted an ice rink beneath the floodlit castle, with Christmas market stalls nearby on Kornmarkt. Check the city's official event pages for each year's dates."
+  - q: How do I get to Karlsplatz in Heidelberg?
+    a: >-
+      Walk east along Hauptstraße through the Altstadt. It's about 25 minutes
+      from Bismarckplatz or five minutes from Marktplatz. Buses stop at
+      Rathaus/Bergbahn, a short walk away.
+  - q: Can I walk from Karlsplatz up to Heidelberg Castle?
+    a: >-
+      Yes. The Kurzer Buckel, a steep stepped lane, climbs from the Karlsplatz
+      side to the castle. If you'd rather ride, the Bergbahn funicular leaves
+      from Kornmarkt, a two-minute walk west.
+  - q: Is Karlsplatz open at night?
+    a: >-
+      Yes. It's a public square, open 24 hours every day with no admission. In
+      the evening the castle is lit up above it.
+  - q: How long should I spend at Karlsplatz?
+    a: >-
+      Allow 15 to 30 minutes for the castle view and the surrounding palaces. It
+      works best as a stop between the castle and a walk down Hauptstraße to
+      Marktplatz and the Old Bridge.
+  - q: What happens at Karlsplatz in winter?
+    a: >-
+      During the Christmas season the square has traditionally hosted an ice
+      rink beneath the floodlit castle, with Christmas market stalls nearby on
+      Kornmarkt. Check the city's official event pages for each year's dates.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-03'
 ---
 
 ## Where Hauptstraße finally opens up

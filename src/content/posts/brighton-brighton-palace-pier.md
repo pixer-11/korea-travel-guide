@@ -1,59 +1,88 @@
 ---
-title: "Brighton Palace Pier: Travel Guide (4.4★)"
-description: "Brighton Palace Pier stretches out from Madeira Drive at the bottom of Old Steine, about a 15 to 20 minute walk down from Brighton station to the seafront. 4.4★ (37,518 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Brighton"
-category: "attraction"
-pubDate: "2026-10-03T07:44:44.375Z"
+title: 'Brighton Palace Pier: Travel Guide (4.4★)'
+description: >-
+  Brighton Palace Pier stretches out from Madeira Drive at the bottom of Old
+  Steine, about a 15 to 20 minute walk down from Brighton station to the
+  seafront. 4.4★ (37,519 reviews) — what visitors say, hours, and tips.
+country: United Kingdom
+region: Brighton
+category: attraction
+pubDate: '2026-10-03T07:44:44.375Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Brighton_Pier%2C_Brighton%2C_East_Sussex%2C_England-2Oct2011_%281%29.jpg/1920px-Brighton_Pier%2C_Brighton%2C_East_Sussex%2C_England-2Oct2011_%281%29.jpg"
-  credit: "Photo: Ian Stannard from Southsea, England / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Brighton_Pier,_Brighton,_East_Sussex,_England-2Oct2011_(1).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Brighton_Pier%2C_Brighton%2C_East_Sussex%2C_England-2Oct2011_%281%29.jpg/1920px-Brighton_Pier%2C_Brighton%2C_East_Sussex%2C_England-2Oct2011_%281%29.jpg
+  credit: >-
+    Photo: Ian Stannard from Southsea, England / Wikimedia Commons (CC BY-SA
+    2.0)
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Brighton_Pier,_Brighton,_East_Sussex,_England-2Oct2011_(1).jpg
   focus:
     x: 65
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Palace_Pier_March_2017.jpg/3840px-Palace_Pier_March_2017.jpg"
-    credit: "Photo: Arild Vågen / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Palace_Pier_March_2017.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Palace_Pier_March_2017.jpg/3840px-Palace_Pier_March_2017.jpg
+    credit: 'Photo: Arild Vågen / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Palace_Pier_March_2017.jpg'
 place:
-  id: "ChIJfzEj9wqFdUgR1eJ2FdizVlI"
-  name: "Brighton Palace Pier"
-  address: "Madeira Dr, Brighton BN2 1TW, UK"
+  id: ChIJfzEj9wqFdUgR1eJ2FdizVlI
+  name: Brighton Palace Pier
+  address: 'Madeira Dr, Brighton BN2 1TW, UK'
   rating: 4.4
-  userRatingsTotal: 37518
-  googleMapsUrl: "https://maps.google.com/?cid=5933127299761627861&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 37519
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5933127299761627861&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 50.816855499999996
   lng: -0.136738
-  phone: "+44 1273 609361"
+  phone: +44 1273 609361
   openingHours:
-    - "Monday: 10:00 AM – 9:00 PM"
-    - "Tuesday: 10:00 AM – 9:00 PM"
-    - "Wednesday: 10:00 AM – 9:00 PM"
-    - "Thursday: 10:00 AM – 9:00 PM"
-    - "Friday: 10:00 AM – 9:00 PM"
-    - "Saturday: 10:00 AM – 10:00 PM"
-    - "Sunday: 10:00 AM – 10:00 PM"
+    - 'Monday: 10:00 AM – 9:00 PM'
+    - 'Tuesday: 10:00 AM – 9:00 PM'
+    - 'Wednesday: 10:00 AM – 9:00 PM'
+    - 'Thursday: 10:00 AM – 9:00 PM'
+    - 'Friday: 10:00 AM – 9:00 PM'
+    - 'Saturday: 10:00 AM – 10:00 PM'
+    - 'Sunday: 10:00 AM – 10:00 PM'
 tags:
-  - "brighton"
-  - "historic site"
-quickAnswer: "Brighton Palace Pier stretches out from Madeira Drive at the bottom of Old Steine, about a 15 to 20 minute walk down from Brighton station to the seafront. It's open 10am to 9pm Monday to Friday and until 10pm on weekends. Arrive at 10am opening for space on the boards, or come at dusk for the lights and, in winter, the starlings."
+  - brighton
+  - historic site
+quickAnswer: >-
+  Brighton Palace Pier stretches out from Madeira Drive at the bottom of Old
+  Steine, about a 15 to 20 minute walk down from Brighton station to the
+  seafront. It's open 10am to 9pm Monday to Friday and until 10pm on weekends.
+  Arrive at 10am opening for space on the boards, or come at dusk for the lights
+  and, in winter, the starlings.
 faq:
-  - q: "How do I get to Brighton Palace Pier from Brighton station?"
-    a: "Walk downhill on Queen's Road and West Street to the seafront, then turn left along King's Road. The pier is at Madeira Drive, at the bottom of Old Steine. It's about 15 to 20 minutes on foot."
-  - q: "What are Brighton Palace Pier's opening hours?"
-    a: "It opens at 10am every day. It closes at 9pm Monday to Friday and at 10pm on Saturday and Sunday."
-  - q: "When is the best time to visit?"
-    a: "Come at 10am opening for space before the day-trippers arrive. Or come at dusk, when the lights come on. From roughly November to February, dusk also brings the starling murmurations over the pier. Sunny weekend afternoons are usually the most crowded."
-  - q: "How long should I spend on the pier?"
-    a: "One to two hours is enough to walk to the end, try a ride and eat. Add time for Sea Life Brighton across the road, or the Royal Pavilion five minutes away."
-  - q: "Do I pay to walk on the pier?"
-    a: "No, walking onto the pier is free. Rides, games and food are paid for separately, and current ride prices are posted at the kiosks on the pier."
+  - q: How do I get to Brighton Palace Pier from Brighton station?
+    a: >-
+      Walk downhill on Queen's Road and West Street to the seafront, then turn
+      left along King's Road. The pier is at Madeira Drive, at the bottom of Old
+      Steine. It's about 15 to 20 minutes on foot.
+  - q: What are Brighton Palace Pier's opening hours?
+    a: >-
+      It opens at 10am every day. It closes at 9pm Monday to Friday and at 10pm
+      on Saturday and Sunday.
+  - q: When is the best time to visit?
+    a: >-
+      Come at 10am opening for space before the day-trippers arrive. Or come at
+      dusk, when the lights come on. From roughly November to February, dusk
+      also brings the starling murmurations over the pier. Sunny weekend
+      afternoons are usually the most crowded.
+  - q: How long should I spend on the pier?
+    a: >-
+      One to two hours is enough to walk to the end, try a ride and eat. Add
+      time for Sea Life Brighton across the road, or the Royal Pavilion five
+      minutes away.
+  - q: Do I pay to walk on the pier?
+    a: >-
+      No, walking onto the pier is free. Rides, games and food are paid for
+      separately, and current ride prices are posted at the kiosks on the pier.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-03'
 ---
 
 ## Boards, bulbs and open sea

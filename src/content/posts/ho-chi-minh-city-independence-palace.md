@@ -1,41 +1,46 @@
 ---
-title: "Independence Palace: Ho Chi Minh City Travel Guide (4.5★)"
-description: "Independence Palace sits in Ben Thanh, District 1, Ho Chi Minh City. 4.5★ (48,653 reviews) — what visitors say, hours, and tips."
-country: "Vietnam"
-region: "Ho Chi Minh City"
-category: "hidden-gem"
-pubDate: "2026-10-01T07:38:24.730Z"
+title: 'Independence Palace: Ho Chi Minh City Travel Guide (4.5★)'
+description: >-
+  Independence Palace sits in Ben Thanh, District 1, Ho Chi Minh City. 4.5★
+  (48,693 reviews) — what visitors say, hours, and tips.
+country: Vietnam
+region: Ho Chi Minh City
+category: hidden-gem
+pubDate: '2026-10-01T07:38:24.730Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Independence_Palace%2C_Ho_Chi_Minh_%28LRM_20230823_093633%29.jpg/3840px-Independence_Palace%2C_Ho_Chi_Minh_%28LRM_20230823_093633%29.jpg"
-  credit: "Photo: Matti Blume / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Independence_Palace,_Ho_Chi_Minh_(LRM_20230823_093633).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Independence_Palace%2C_Ho_Chi_Minh_%28LRM_20230823_093633%29.jpg/3840px-Independence_Palace%2C_Ho_Chi_Minh_%28LRM_20230823_093633%29.jpg
+  credit: 'Photo: Matti Blume / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Independence_Palace,_Ho_Chi_Minh_(LRM_20230823_093633).jpg
+  via: act
   focus:
     x: 55
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJL0dwVTgvdTERao3t8B1Jhxc"
-  name: "Independence Palace"
-  address: "Ben Thanh, Ho Chi Minh, Vietnam"
+  id: ChIJL0dwVTgvdTERao3t8B1Jhxc
+  name: Independence Palace
+  address: 'Ben Thanh, Ho Chi Minh, Vietnam'
   rating: 4.5
-  userRatingsTotal: 48653
-  googleMapsUrl: "https://maps.google.com/?cid=1695404177673260394&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 48693
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1695404177673260394&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.776994199999999
   lng: 106.69530209999999
-  phone: "+84 28 3822 3652"
+  phone: +84 28 3822 3652
   openingHours:
-    - "Monday: 7:00 AM – 6:00 PM"
-    - "Tuesday: 7:00 AM – 6:00 PM"
-    - "Wednesday: 7:00 AM – 6:00 PM"
-    - "Thursday: 7:00 AM – 6:00 PM"
-    - "Friday: 7:00 AM – 6:00 PM"
-    - "Saturday: 7:00 AM – 6:00 PM"
-    - "Sunday: 7:00 AM – 6:00 PM"
+    - 'Monday: 7:00 AM – 6:00 PM'
+    - 'Tuesday: 7:00 AM – 6:00 PM'
+    - 'Wednesday: 7:00 AM – 6:00 PM'
+    - 'Thursday: 7:00 AM – 6:00 PM'
+    - 'Friday: 7:00 AM – 6:00 PM'
+    - 'Saturday: 7:00 AM – 6:00 PM'
+    - 'Sunday: 7:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-10-01
+    updated: 2026-10-01T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 17
@@ -46,24 +51,47 @@ place:
       - 9
       - 10
       - 11
-    venueId: "ven_6378684a31423874336f6152455464766754567764304c4a496843"
+    venueId: ven_6378684a31423874336f6152455464766754567764304c4a496843
 tags:
-  - "ho chi minh city"
-  - "old quarter"
-quickAnswer: "Independence Palace sits in Ben Thanh, District 1, Ho Chi Minh City. It's the 1960s presidential palace where South Vietnam's government ended on 30 April 1975, and it's open 7am to 6pm every day. Weekdays are quietest at any hour. At weekends, skip 8am to 12pm and come between 5pm and 6pm instead, giving yourself about two hours."
+  - ho chi minh city
+  - old quarter
+quickAnswer: >-
+  Independence Palace sits in Ben Thanh, District 1, Ho Chi Minh City. It's the
+  1960s presidential palace where South Vietnam's government ended on 30 April
+  1975, and it's open 7am to 6pm every day. Weekdays are quietest at any hour.
+  At weekends, skip 8am to 12pm and come between 5pm and 6pm instead, giving
+  yourself about two hours.
 faq:
-  - q: "When is the quietest time to visit Independence Palace?"
-    a: "Weekdays are quietest across the whole day, from 7am to 6pm. At weekends, 5pm to 6pm is the calmest window. Avoid 8am to 12pm on Saturday and Sunday, which is the busiest stretch."
-  - q: "What are the opening hours?"
-    a: "The palace is open 7am to 6pm every day, Monday through Sunday. It's sometimes used for official events, so check ahead if your day is tightly planned."
-  - q: "How long do I need at Independence Palace?"
-    a: "Allow 90 minutes to two hours. That covers the ground and upper floors, the rooftop helipad, the basement bunker and a walk on the lawn by the tanks."
-  - q: "How do I get to Independence Palace?"
-    a: "It's in Ben Thanh, District 1. Take a Grab to the Nam Kỳ Khởi Nghĩa Street gate (ask for Dinh Độc Lập), or walk about 15 minutes from Ben Thanh Station on Metro Line 1. Most central District 1 hotels are within walking distance."
-  - q: "What else is nearby?"
-    a: "Notre-Dame Cathedral Basilica and the Central Post Office are about ten minutes' walk up Lê Duẩn Boulevard. The War Remnants Museum is a short walk northwest, Bến Thành Market is about 15 minutes south, and Tao Đàn Park is right next to the grounds."
+  - q: When is the quietest time to visit Independence Palace?
+    a: >-
+      Weekdays are quietest across the whole day, from 7am to 6pm. At weekends,
+      5pm to 6pm is the calmest window. Avoid 8am to 12pm on Saturday and
+      Sunday, which is the busiest stretch.
+  - q: What are the opening hours?
+    a: >-
+      The palace is open 7am to 6pm every day, Monday through Sunday. It's
+      sometimes used for official events, so check ahead if your day is tightly
+      planned.
+  - q: How long do I need at Independence Palace?
+    a: >-
+      Allow 90 minutes to two hours. That covers the ground and upper floors,
+      the rooftop helipad, the basement bunker and a walk on the lawn by the
+      tanks.
+  - q: How do I get to Independence Palace?
+    a: >-
+      It's in Ben Thanh, District 1. Take a Grab to the Nam Kỳ Khởi Nghĩa Street
+      gate (ask for Dinh Độc Lập), or walk about 15 minutes from Ben Thanh
+      Station on Metro Line 1. Most central District 1 hotels are within walking
+      distance.
+  - q: What else is nearby?
+    a: >-
+      Notre-Dame Cathedral Basilica and the Central Post Office are about ten
+      minutes' walk up Lê Duẩn Boulevard. The War Remnants Museum is a short
+      walk northwest, Bến Thành Market is about 15 minutes south, and Tao Đàn
+      Park is right next to the grounds.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-03'
 ---
 
 A wide green lawn rolls away from a pale concrete building. Two tanks are parked on the grass. They are replicas of the tanks that broke through the front gates on 30 April 1975. Within hours of that moment, the Republic of Vietnam had ceased to exist.

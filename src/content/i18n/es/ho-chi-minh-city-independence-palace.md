@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: ho-chi-minh-city-independence-palace
-srcHash: 'd3de0fde2a98'
+srcHash: '431beb38b0ea'
 title: 'Palacio de la Independencia: guía de viaje de Ciudad Ho Chi Minh (4.5★)'
 description: El Palacio de la Independencia se encuentra en Ben Thanh, Distrito 1, Ciudad Ho Chi Minh. Con 4.5★ y 48,653 reseñas, aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: El Palacio de la Independencia se encuentra en Ben Thanh, Distrito 1, Ciudad Ho Chi Minh. Este palacio presidencial de los años sesenta fue el escenario donde, el 30 de abril de 1975, llegó a su fin el gobierno de Vietnam del Sur. Abre todos los días de 7am a 6pm. Entre semana hay poca afluencia a cualquier hora. Los fines de semana conviene evitar la franja de 8am a 12pm y acudir entre las 5pm y las 6pm. Calcule unas dos horas para la visita.

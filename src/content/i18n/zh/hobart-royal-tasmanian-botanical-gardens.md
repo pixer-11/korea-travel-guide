@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: hobart-royal-tasmanian-botanical-gardens
-srcHash: '8b4912933fc3'
+srcHash: '574fc581c02f'
 title: 皇家塔斯马尼亚植物园：霍巴特旅行指南
-description: 皇家塔斯马尼亚植物园位于霍巴特女王领地（Queens Domain），地处下领地路（Lower Domain Road），距市中心约2公里，每天上午8点至下午5点开放。评分4.7★（7,809条评价），游客口碑、开放时间和游览贴士都在这里。
+description: 皇家塔斯马尼亚植物园位于霍巴特女王领地（Queens Domain），地处下领地路（Lower Domain Road），距市中心约2公里，每天上午8点至下午5点开放。评分4.7★（7,810条评价），游客口碑、开放时间和游览贴士都在这里。
 quickAnswer: 皇家塔斯马尼亚植物园位于霍巴特女王领地（Queens Domain），地处下领地路（Lower Domain Road），距市中心约2公里，每天上午8点至下午5点开放。工作日全天都很清静；周末上午8点到10点人最少，上午11点到下午4点人最多。
 faq:
   - q: 什么时候去皇家塔斯马尼亚植物园人最少？

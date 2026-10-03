@@ -1,44 +1,51 @@
 ---
-title: "Heidelberg Castle: Travel Guide (4.7★)"
-description: "Heidelberg Castle is a red sandstone ruin on the wooded slope above Heidelberg's Altstadt, open daily from 9am to 6pm. 4.7★ (65,978 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Heidelberg"
-category: "attraction"
-pubDate: "2026-10-02T14:09:33.085Z"
+title: 'Heidelberg Castle: Travel Guide (4.7★)'
+description: >-
+  Heidelberg Castle is a red sandstone ruin on the wooded slope above
+  Heidelberg's Altstadt, open daily from 9am to 6pm. 4.7★ (66,001 reviews) —
+  what visitors say, hours, and tips.
+country: Germany
+region: Heidelberg
+category: attraction
+pubDate: '2026-10-02T14:09:33.085Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Heidelberg-2726936.jpg/1920px-Heidelberg-2726936.jpg"
-  credit: "Photo: Motatcho / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Heidelberg-2726936.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Heidelberg-2726936.jpg/1920px-Heidelberg-2726936.jpg
+  credit: 'Photo: Motatcho / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Heidelberg-2726936.jpg'
   focus:
     x: 45
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Heidelberg_Castle_-_Friedrichsbau_Facade_-_1.jpg/3840px-Heidelberg_Castle_-_Friedrichsbau_Facade_-_1.jpg"
-    credit: "Photo: imehling / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Heidelberg_Castle_-_Friedrichsbau_Facade_-_1.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Heidelberg_Castle_-_Friedrichsbau_Facade_-_1.jpg/3840px-Heidelberg_Castle_-_Friedrichsbau_Facade_-_1.jpg
+    credit: 'Photo: imehling / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Heidelberg_Castle_-_Friedrichsbau_Facade_-_1.jpg
 place:
-  id: "ChIJk9tDygDBl0cR6n7pSTYuZ20"
-  name: "Heidelberg Castle"
-  address: "Schlosshof 1, 69117 Heidelberg, Germany"
+  id: ChIJk9tDygDBl0cR6n7pSTYuZ20
+  name: Heidelberg Castle
+  address: 'Schlosshof 1, 69117 Heidelberg, Germany'
   rating: 4.7
-  userRatingsTotal: 65978
-  googleMapsUrl: "https://maps.google.com/?cid=7883320483438493418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 66001
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7883320483438493418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 49.4106196
   lng: 8.7153092
-  phone: "+49 6221 658880"
+  phone: +49 6221 658880
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-10-02
+    updated: 2026-10-02T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -53,24 +60,46 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_30325a7559545370376e365263306c424467794474396b4a496843"
+    venueId: ven_30325a7559545370376e365263306c424467794474396b4a496843
 tags:
-  - "heidelberg"
-  - "top attraction"
-quickAnswer: "Heidelberg Castle is a red sandstone ruin on the wooded slope above Heidelberg's Altstadt, open daily from 9am to 6pm. Go on a weekday, which stays quiet from 9am to 6pm, or arrive at 9am on a weekend before the 11am–6pm rush. Take the Bergbahn funicular from Kornmarkt, or walk up the steep Burgweg in about 15–20 minutes."
+  - heidelberg
+  - top attraction
+quickAnswer: >-
+  Heidelberg Castle is a red sandstone ruin on the wooded slope above
+  Heidelberg's Altstadt, open daily from 9am to 6pm. Go on a weekday, which
+  stays quiet from 9am to 6pm, or arrive at 9am on a weekend before the 11am–6pm
+  rush. Take the Bergbahn funicular from Kornmarkt, or walk up the steep Burgweg
+  in about 15–20 minutes.
 faq:
-  - q: "When is the quietest time to visit Heidelberg Castle?"
-    a: "On weekdays it stays quiet all day, from 9am to 6pm. On weekends only 9am to 10am is calm, so try not to arrive after 11am on a Saturday or Sunday. From 11am to 6pm is the busiest stretch."
-  - q: "What are Heidelberg Castle's opening hours?"
-    a: "It is open every day of the week from 9am to 6pm. Interior guided tours run at set times within those hours, so ask at the ticket desk when you arrive."
-  - q: "How do I get up to Heidelberg Castle?"
-    a: "Take the Bergbahn funicular from its lower station next to Kornmarkt in the Altstadt. You can also walk up the steep, cobbled Burgweg in about 15–20 minutes. From the main station, bus 33 runs to the Bergbahn and Rathaus stops."
-  - q: "How long should I spend at the castle?"
-    a: "Allow two to three hours for the courtyard, the Heidelberg Tun, the German Pharmacy Museum and the Scheffel Terrace view. Add another hour if you take the funicular on to the Königstuhl."
-  - q: "What else is nearby?"
-    a: "The Old Bridge, the Church of the Holy Spirit and the Hauptstraße shopping street are all a short walk below the castle. Across the Neckar, the Philosophers' Walk looks straight back at the castle."
+  - q: When is the quietest time to visit Heidelberg Castle?
+    a: >-
+      On weekdays it stays quiet all day, from 9am to 6pm. On weekends only 9am
+      to 10am is calm, so try not to arrive after 11am on a Saturday or Sunday.
+      From 11am to 6pm is the busiest stretch.
+  - q: What are Heidelberg Castle's opening hours?
+    a: >-
+      It is open every day of the week from 9am to 6pm. Interior guided tours
+      run at set times within those hours, so ask at the ticket desk when you
+      arrive.
+  - q: How do I get up to Heidelberg Castle?
+    a: >-
+      Take the Bergbahn funicular from its lower station next to Kornmarkt in
+      the Altstadt. You can also walk up the steep, cobbled Burgweg in about
+      15–20 minutes. From the main station, bus 33 runs to the Bergbahn and
+      Rathaus stops.
+  - q: How long should I spend at the castle?
+    a: >-
+      Allow two to three hours for the courtyard, the Heidelberg Tun, the German
+      Pharmacy Museum and the Scheffel Terrace view. Add another hour if you
+      take the funicular on to the Königstuhl.
+  - q: What else is nearby?
+    a: >-
+      The Old Bridge, the Church of the Holy Spirit and the Hauptstraße shopping
+      street are all a short walk below the castle. Across the Neckar, the
+      Philosophers' Walk looks straight back at the castle.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-03'
 ---
 
 ## A ruin that turns pink in the afternoon

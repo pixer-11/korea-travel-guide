@@ -1,55 +1,81 @@
 ---
-title: "Kunsthalle: Bremen Travel Guide (4.6★)"
-description: "Kunsthalle Bremen is the city's main art museum, at Am Wall 207 on the old rampart park between Bremen's Altstadt and the Ostertor quarter. 4.6★ (3,165 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Bremen"
-category: "attraction"
-pubDate: "2026-10-03T07:53:57.849Z"
+title: 'Kunsthalle: Bremen Travel Guide (4.6★)'
+description: >-
+  Kunsthalle Bremen is the city's main art museum, at Am Wall 207 on the old
+  rampart park between Bremen's Altstadt and the Ostertor quarter. 4.6★ (3,167
+  reviews) — what visitors say, hours, and tips.
+country: Germany
+region: Bremen
+category: attraction
+pubDate: '2026-10-03T07:53:57.849Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kunsthalle-HB_20110824_img-01.jpg/1920px-Kunsthalle-HB_20110824_img-01.jpg"
-  credit: "Photo: Verograph (talk) / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Kunsthalle-HB_20110824_img-01.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kunsthalle-HB_20110824_img-01.jpg/1920px-Kunsthalle-HB_20110824_img-01.jpg
+  credit: 'Photo: Verograph (talk) / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Kunsthalle-HB_20110824_img-01.jpg'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJQT2rGQUosUcRsY6rZVVkj5k"
-  name: "Kunsthalle Bremen"
-  address: "Am Wall 207, 28195 Bremen, Germany"
+  id: ChIJQT2rGQUosUcRsY6rZVVkj5k
+  name: Kunsthalle Bremen
+  address: 'Am Wall 207, 28195 Bremen, Germany'
   rating: 4.6
-  userRatingsTotal: 3165
-  googleMapsUrl: "https://maps.google.com/?cid=11065173127413337777&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3167
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11065173127413337777&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 53.0729638
   lng: 8.8135821
-  phone: "+49 421 329080"
+  phone: +49 421 329080
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 9:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 9:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
 tags:
-  - "bremen"
-  - "museum"
-quickAnswer: "Kunsthalle Bremen is the city's main art museum, at Am Wall 207 on the old rampart park between Bremen's Altstadt and the Ostertor quarter. It holds works by Rubens, Rembrandt, Courbet and Picasso plus temporary exhibitions. It is closed on Mondays, open 10am to 5pm Wednesday to Sunday, and stays open until 9pm on Tuesdays. Plan on two to three hours."
+  - bremen
+  - museum
+quickAnswer: >-
+  Kunsthalle Bremen is the city's main art museum, at Am Wall 207 on the old
+  rampart park between Bremen's Altstadt and the Ostertor quarter. It holds
+  works by Rubens, Rembrandt, Courbet and Picasso plus temporary exhibitions. It
+  is closed on Mondays, open 10am to 5pm Wednesday to Sunday, and stays open
+  until 9pm on Tuesdays. Plan on two to three hours.
 faq:
-  - q: "Is Kunsthalle Bremen open on Mondays?"
-    a: "No, it is closed every Monday. It opens 10am to 9pm on Tuesdays and 10am to 5pm Wednesday to Sunday."
-  - q: "How long should I spend at Kunsthalle Bremen?"
-    a: "Allow two to three hours for the permanent collection and a temporary exhibition. A large special show alone can take an hour or more."
-  - q: "How do I get to Kunsthalle Bremen by public transport?"
-    a: "Take tram line 2 or 3 to Theater am Goetheplatz and walk a few minutes to Am Wall 207. From the Hauptbahnhof you can also walk through the Wallanlagen park in about twenty minutes."
-  - q: "What are the highlights of the collection?"
-    a: "Look for works by Rubens, Rembrandt, Courbet and Picasso, Monet's portrait Camille, the Worpswede painters including Paula Modersohn-Becker, and Van Gogh's Field with Poppies, the painting at the centre of the 1911 Bremer Künstlerstreit."
-  - q: "What else is nearby?"
-    a: "The Gerhard-Marcks-Haus sculpture museum is right next door. The Marktplatz, Town Hall and Roland statue are about ten minutes' walk away, and the cafés of the Ostertor quarter (das Viertel) start just to the east."
+  - q: Is Kunsthalle Bremen open on Mondays?
+    a: >-
+      No, it is closed every Monday. It opens 10am to 9pm on Tuesdays and 10am
+      to 5pm Wednesday to Sunday.
+  - q: How long should I spend at Kunsthalle Bremen?
+    a: >-
+      Allow two to three hours for the permanent collection and a temporary
+      exhibition. A large special show alone can take an hour or more.
+  - q: How do I get to Kunsthalle Bremen by public transport?
+    a: >-
+      Take tram line 2 or 3 to Theater am Goetheplatz and walk a few minutes to
+      Am Wall 207. From the Hauptbahnhof you can also walk through the
+      Wallanlagen park in about twenty minutes.
+  - q: What are the highlights of the collection?
+    a: >-
+      Look for works by Rubens, Rembrandt, Courbet and Picasso, Monet's portrait
+      Camille, the Worpswede painters including Paula Modersohn-Becker, and Van
+      Gogh's Field with Poppies, the painting at the centre of the 1911 Bremer
+      Künstlerstreit.
+  - q: What else is nearby?
+    a: >-
+      The Gerhard-Marcks-Haus sculpture museum is right next door. The
+      Marktplatz, Town Hall and Roland statue are about ten minutes' walk away,
+      and the cafés of the Ostertor quarter (das Viertel) start just to the
+      east.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-03'
 ---
 
 ## A museum on the old city wall

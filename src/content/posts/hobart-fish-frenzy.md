@@ -1,42 +1,49 @@
 ---
-title: "Fish Frenzy: Where to Eat in Hobart (4.3★)"
-description: "Fish Frenzy sits on Elizabeth Street Pier in Sullivans Cove, Hobart's waterfront, and serves chips in a cone with fried or grilled seafood plates in an old warehouse looking over the pier. 4.3★ (2,295 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Hobart"
-category: "restaurant"
-pubDate: "2026-10-01T14:47:08.350Z"
+title: 'Fish Frenzy: Where to Eat in Hobart (4.3★)'
+description: >-
+  Fish Frenzy sits on Elizabeth Street Pier in Sullivans Cove, Hobart's
+  waterfront, and serves chips in a cone with fried or grilled seafood plates in
+  an old warehouse looking over the pier. 4.3★ (2,295 reviews) — what visitors
+  say, hours, and tips.
+country: Australia
+region: Hobart
+category: restaurant
+pubDate: '2026-10-01T14:47:08.350Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Fish_and_chips_from_Fish_Frenzy_in_Hobart_July_2017.jpg/3840px-Fish_and_chips_from_Fish_Frenzy_in_Hobart_July_2017.jpg"
-  credit: "Photo: Nick-D / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Fish_and_chips_from_Fish_Frenzy_in_Hobart_July_2017.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Fish_and_chips_from_Fish_Frenzy_in_Hobart_July_2017.jpg/3840px-Fish_and_chips_from_Fish_Frenzy_in_Hobart_July_2017.jpg
+  credit: 'Photo: Nick-D / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Fish_and_chips_from_Fish_Frenzy_in_Hobart_July_2017.jpg
+  via: act
   focus:
     x: 65
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJQYWSj4Z1bqoRpRynZXms_Yk"
-  name: "Fish Frenzy"
-  address: "Sullivans Cove, Elizabeth Street Pier, Hobart TAS 7000, Australia"
+  id: ChIJQYWSj4Z1bqoRpRynZXms_Yk
+  name: Fish Frenzy
+  address: 'Elizabeth Street Pier, Hobart TAS 7000, Australia'
   rating: 4.3
   userRatingsTotal: 2295
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=9943293189700394149&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9943293189700394149&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -42.883831
   lng: 147.3333366
-  phone: "+61 3 6231 2134"
+  phone: +61 3 6231 2134
   openingHours:
-    - "Monday: 11:30 AM – 7:45 PM"
-    - "Tuesday: 11:30 AM – 7:45 PM"
-    - "Wednesday: 11:30 AM – 7:45 PM"
-    - "Thursday: 11:30 AM – 7:45 PM"
-    - "Friday: 11:30 AM – 8:15 PM"
-    - "Saturday: 11:30 AM – 8:15 PM"
-    - "Sunday: 11:30 AM – 7:45 PM"
+    - 'Monday: 11:30 AM – 7:45 PM'
+    - 'Tuesday: 11:30 AM – 7:45 PM'
+    - 'Wednesday: 11:30 AM – 7:45 PM'
+    - 'Thursday: 11:30 AM – 7:45 PM'
+    - 'Friday: 11:30 AM – 8:15 PM'
+    - 'Saturday: 11:30 AM – 8:15 PM'
+    - 'Sunday: 11:30 AM – 7:45 PM'
   busyness:
-    updated: 2026-10-01
+    updated: 2026-10-01T00:00:00.000Z
     weekdayQuiet:
       - 15
       - 16
@@ -47,24 +54,41 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_6b595f736d585a6e795270526f7162315a346a535759514a496843"
+    venueId: ven_6b595f736d585a6e795270526f7162315a346a535759514a496843
 tags:
-  - "hobart"
-  - "street food"
-quickAnswer: "Fish Frenzy sits on Elizabeth Street Pier in Sullivans Cove, Hobart's waterfront, and serves chips in a cone with fried or grilled seafood plates in an old warehouse looking over the pier. It's quietest on weekdays between 3pm and 5pm. Avoid weekends from 12pm to 8pm, which is the busy stretch."
+  - hobart
+  - street food
+quickAnswer: >-
+  Fish Frenzy sits on Elizabeth Street Pier in Sullivans Cove, Hobart's
+  waterfront, and serves chips in a cone with fried or grilled seafood plates in
+  an old warehouse looking over the pier. It's quietest on weekdays between 3pm
+  and 5pm. Avoid weekends from 12pm to 8pm, which is the busy stretch.
 faq:
-  - q: "When is the quietest time to visit Fish Frenzy?"
-    a: "Weekdays between 3pm and 5pm. On weekends it's busiest from 12pm to 8pm, so if you're coming on a Saturday or Sunday, aim for opening at 11:30am."
-  - q: "What are Fish Frenzy's opening hours?"
-    a: "It opens at 11:30am every day. It closes at 7:45pm Sunday to Thursday and at 8:15pm on Fridays and Saturdays."
-  - q: "Where exactly is Fish Frenzy?"
-    a: "On Elizabeth Street Pier in Sullivans Cove, at the bottom of Elizabeth Street. It's next to Constitution Dock and a short walk from Salamanca Place and Brooke Street Pier."
-  - q: "How long should I allow?"
-    a: "About 45 minutes to an hour for the meal. Allow longer if you want to walk the docks or carry on to Salamanca Place."
-  - q: "Can I combine it with Salamanca Market?"
-    a: "Yes. The market runs on Saturdays at Salamanca Place, a few minutes' walk away. Eat early, close to the 11:30am opening, before the weekend crowds arrive at noon."
+  - q: When is the quietest time to visit Fish Frenzy?
+    a: >-
+      Weekdays between 3pm and 5pm. On weekends it's busiest from 12pm to 8pm,
+      so if you're coming on a Saturday or Sunday, aim for opening at 11:30am.
+  - q: What are Fish Frenzy's opening hours?
+    a: >-
+      It opens at 11:30am every day. It closes at 7:45pm Sunday to Thursday and
+      at 8:15pm on Fridays and Saturdays.
+  - q: Where exactly is Fish Frenzy?
+    a: >-
+      On Elizabeth Street Pier in Sullivans Cove, at the bottom of Elizabeth
+      Street. It's next to Constitution Dock and a short walk from Salamanca
+      Place and Brooke Street Pier.
+  - q: How long should I allow?
+    a: >-
+      About 45 minutes to an hour for the meal. Allow longer if you want to walk
+      the docks or carry on to Salamanca Place.
+  - q: Can I combine it with Salamanca Market?
+    a: >-
+      Yes. The market runs on Saturdays at Salamanca Place, a few minutes' walk
+      away. Eat early, close to the 11:30am opening, before the weekend crowds
+      arrive at noon.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-03'
 ---
 
 ## On the pier, over the water

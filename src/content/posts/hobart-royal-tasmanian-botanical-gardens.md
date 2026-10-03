@@ -1,44 +1,51 @@
 ---
-title: "Royal Tasmanian Botanical Gardens: Hobart Travel Guide"
-description: "The Royal Tasmanian Botanical Gardens sits on the Queens Domain in Hobart, on Lower Domain Road about 2 km from the CBD. It is open 8am to 5pm every day. 4.7★ (7,809 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Hobart"
-category: "attraction"
-pubDate: "2026-10-03T07:43:39.746Z"
+title: 'Royal Tasmanian Botanical Gardens: Hobart Travel Guide'
+description: >-
+  The Royal Tasmanian Botanical Gardens sits on the Queens Domain in Hobart, on
+  Lower Domain Road about 2 km from the CBD. It is open 8am to 5pm every day.
+  4.7★ (7,810 reviews) — what visitors say, hours, and tips.
+country: Australia
+region: Hobart
+category: attraction
+pubDate: '2026-10-03T07:43:39.746Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Hobart_Botanical_Gardens_Entrance.png"
-  credit: "Photo: Barrylb at English Wikipedia / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hobart_Botanical_Gardens_Entrance.png"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/ae/Hobart_Botanical_Gardens_Entrance.png
+  credit: 'Photo: Barrylb at English Wikipedia / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Hobart_Botanical_Gardens_Entrance.png
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/4/48/Hobart_Botanical_Gardens.png"
-    credit: "Photo: Barrylb at en.wikipedia / Wikimedia Commons (Public domain)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Hobart_Botanical_Gardens.png"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/4/48/Hobart_Botanical_Gardens.png
+    credit: 'Photo: Barrylb at en.wikipedia / Wikimedia Commons (Public domain)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Hobart_Botanical_Gardens.png'
 place:
-  id: "ChIJj5gZwRJ1bqoR845FwL9SXDY"
-  name: "Royal Tasmanian Botanical Gardens"
-  address: "Lower Domain Rd, Hobart TAS 7000, Australia"
+  id: ChIJj5gZwRJ1bqoR845FwL9SXDY
+  name: Royal Tasmanian Botanical Gardens
+  address: 'Lower Domain Rd, Hobart TAS 7000, Australia'
   rating: 4.7
-  userRatingsTotal: 7809
-  googleMapsUrl: "https://maps.google.com/?cid=3917096759423504115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 7810
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3917096759423504115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -42.865674999999996
   lng: 147.3310645
-  phone: "+61 3 6166 0451"
+  phone: +61 3 6166 0451
   openingHours:
-    - "Monday: 8:00 AM – 5:00 PM"
-    - "Tuesday: 8:00 AM – 5:00 PM"
-    - "Wednesday: 8:00 AM – 5:00 PM"
-    - "Thursday: 8:00 AM – 5:00 PM"
-    - "Friday: 8:00 AM – 5:00 PM"
-    - "Saturday: 8:00 AM – 5:00 PM"
-    - "Sunday: 8:00 AM – 5:00 PM"
+    - 'Monday: 8:00 AM – 5:00 PM'
+    - 'Tuesday: 8:00 AM – 5:00 PM'
+    - 'Wednesday: 8:00 AM – 5:00 PM'
+    - 'Thursday: 8:00 AM – 5:00 PM'
+    - 'Friday: 8:00 AM – 5:00 PM'
+    - 'Saturday: 8:00 AM – 5:00 PM'
+    - 'Sunday: 8:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-10-03
+    updated: 2026-10-03T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -52,24 +59,43 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_59445853394c7746353438526f7162314a52775a67356a4a496843"
+    venueId: ven_59445853394c7746353438526f7162314a52775a67356a4a496843
 tags:
-  - "hobart"
-  - "park"
-quickAnswer: "The Royal Tasmanian Botanical Gardens sits on the Queens Domain in Hobart, on Lower Domain Road about 2 km from the CBD. It is open 8am to 5pm every day. Weekdays are calm all day, while weekends are quietest from 8am to 10am and busiest from 11am to 4pm."
+  - hobart
+  - park
+quickAnswer: >-
+  The Royal Tasmanian Botanical Gardens sits on the Queens Domain in Hobart, on
+  Lower Domain Road about 2 km from the CBD. It is open 8am to 5pm every day.
+  Weekdays are calm all day, while weekends are quietest from 8am to 10am and
+  busiest from 11am to 4pm.
 faq:
-  - q: "When is the quietest time to visit the Royal Tasmanian Botanical Gardens?"
-    a: "Weekdays are quiet all day, from 8am to 5pm. On weekends, go between 8am and 10am, and avoid 11am to 4pm, which is the busiest stretch."
-  - q: "What are the opening hours?"
-    a: "The gardens are open from 8am to 5pm every day of the week. Plan to start heading out around 4:30pm."
-  - q: "How do I get there from the Hobart waterfront?"
-    a: "It's about a 25 to 30 minute walk via the Cenotaph and the Queens Domain paths, partly uphill. You can also take a short taxi or rideshare, or drive to the car park on Lower Domain Road. Check the Metro Tasmania journey planner for current bus routes."
-  - q: "How long should I spend there?"
-    a: "Allow one and a half to three hours. That covers the Japanese Garden, the Conservatory, the Tasmanian Community Food Garden and the convict-built Arthur Wall, with time for the café."
-  - q: "Is there parking?"
-    a: "Yes, there is a car park beside the main entrance on Lower Domain Road. It fills on weekend afternoons, so arrive before 11am on Saturdays and Sundays or visit on a weekday."
+  - q: When is the quietest time to visit the Royal Tasmanian Botanical Gardens?
+    a: >-
+      Weekdays are quiet all day, from 8am to 5pm. On weekends, go between 8am
+      and 10am, and avoid 11am to 4pm, which is the busiest stretch.
+  - q: What are the opening hours?
+    a: >-
+      The gardens are open from 8am to 5pm every day of the week. Plan to start
+      heading out around 4:30pm.
+  - q: How do I get there from the Hobart waterfront?
+    a: >-
+      It's about a 25 to 30 minute walk via the Cenotaph and the Queens Domain
+      paths, partly uphill. You can also take a short taxi or rideshare, or
+      drive to the car park on Lower Domain Road. Check the Metro Tasmania
+      journey planner for current bus routes.
+  - q: How long should I spend there?
+    a: >-
+      Allow one and a half to three hours. That covers the Japanese Garden, the
+      Conservatory, the Tasmanian Community Food Garden and the convict-built
+      Arthur Wall, with time for the café.
+  - q: Is there parking?
+    a: >-
+      Yes, there is a car park beside the main entrance on Lower Domain Road. It
+      fills on weekend afternoons, so arrive before 11am on Saturdays and
+      Sundays or visit on a weekday.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-03'
 ---
 
 ## A garden older than most of Hobart

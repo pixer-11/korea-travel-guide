@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: fussen-neuschwanstein-castle
-srcHash: '61b21797f6bb'
+srcHash: '9af92a23e313'
 title: 新天鹅堡：菲森旅行指南（4.6★）
-description: 新天鹅堡坐落在施万高（Schwangau）霍恩施万高村上方的山崖上，从菲森（Füssen）乘巴士约10分钟可达。评分4.6★（117,276条评价），本文整理了游客评价、开放时间和实用建议。
+description: 新天鹅堡坐落在施万高（Schwangau）霍恩施万高村上方的山崖上，从菲森（Füssen）乘巴士约10分钟可达。评分4.6★（117,305条评价），本文整理了游客评价、开放时间和实用建议。
 quickAnswer: 新天鹅堡坐落在施万高（Schwangau）霍恩施万高村（Hohenschwangau）上方的山崖上，从菲森（Füssen）乘巴士约10分钟即到。限时导览票最好提前在网上预订。算上步行上山和去玛丽恩桥（Marienbrücke）的时间，参观大约需要半天。城堡每天上午9点至下午6点开放，工作日全天人都比较少；周末则尽量避开上午11点到下午4点这段时间。
 faq:
   - q: 什么时候去新天鹅堡人最少？

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: hobart-port-arthur-historic-site
-srcHash: '247d175beb64'
+srcHash: '1b2700b7b0bb'
 title: 'Sitio Histórico de Port Arthur: guía de viaje desde Hobart (4.6★)'
-description: Antiguo presidio en la península de Tasmania (Tasman Peninsula), el Sitio Histórico de Port Arthur queda a unos 90 minutos en coche al sureste de Hobart por la Arthur Highway. Con una valoración de 4.6★ (11,608 reseñas), aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
+description: Antiguo presidio en la península de Tasmania (Tasman Peninsula), el Sitio Histórico de Port Arthur queda a unos 90 minutos en coche al sureste de Hobart por la Arthur Highway. Con una valoración de 4.6★ (11,611 reseñas), aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: En la península de Tasmania (Tasman Peninsula), a unos 90 minutos en coche al sureste de Hobart por la Arthur Highway, se conserva el antiguo presidio que hoy es el Sitio Histórico de Port Arthur. Conviene reservarle el día entero. Abre todos los días de 9am a 5pm, y quien llega hacia las 9am tiene tiempo de sobra para hacer el crucero por la bahía, recorrer las ruinas principales y visitar la Isla de los Muertos (Isle of the Dead) antes del cierre.
 faq:
   - q: ¿A qué distancia de Hobart se encuentra el Sitio Histórico de Port Arthur?

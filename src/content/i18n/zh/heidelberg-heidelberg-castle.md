@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: heidelberg-heidelberg-castle
-srcHash: 'fc3ef695dbd0'
+srcHash: '2664b8e0d7f1'
 title: 海德堡城堡旅游攻略（4.7★）
-description: 海德堡城堡是一座红砂岩古堡遗址，坐落在海德堡老城（Altstadt）上方的林木山坡上，每天9am至6pm开放。评分4.7★（65,978条评价），游客口碑、开放时间和游览贴士都在这里。
+description: 海德堡城堡是一座红砂岩古堡遗址，坐落在海德堡老城（Altstadt）上方的林木山坡上，每天9am至6pm开放。评分4.7★（66,001条评价），游客口碑、开放时间和游览贴士都在这里。
 quickAnswer: 海德堡城堡是一座红砂岩古堡遗址，坐落在海德堡老城（Altstadt）上方的林木山坡上，每天9am至6pm开放。最好挑工作日去，从9am到6pm都很清静。如果只能周末去，就9am一开门就到，赶在11am–6pm的人流高峰之前。上山可以在谷物市场广场（Kornmarkt）搭乘登山缆车（Bergbahn），也可以沿陡峭的城堡小径（Burgweg）步行，大约15–20分钟。
 faq:
   - q: 什么时候去海德堡城堡人最少？

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: heidelberg-vetter-s-alt-heidelberger-brauhaus
-srcHash: '78f4157986e4'
+srcHash: 'f6b56e9fd90c'
 title: 维特老海德堡啤酒屋：海德堡吃什么、去哪吃
-description: 维特老海德堡啤酒屋（Vetter's Alt Heidelberger Brauhaus）是海德堡老城里的一家传统啤酒馆，位于Steingasse 9号，离老桥只有几步路。店里供应自酿生啤，配香肠、炸肉排和扭结面包，价格中等。评分4.6★（6,671条评价）。本文汇总食客评价、营业时间和实用贴士。
+description: 维特老海德堡啤酒屋（Vetter's Alt Heidelberger Brauhaus）是海德堡老城里的一家传统啤酒馆，位于Steingasse 9号，离老桥只有几步路。店里供应自酿生啤，配香肠、炸肉排和扭结面包，价格中等。评分4.6★（6,676条评价）。本文汇总食客评价、营业时间和实用贴士。
 quickAnswer: 维特老海德堡啤酒屋（Vetter's Alt Heidelberger Brauhaus）是海德堡老城里的一家传统啤酒馆，地址为Steingasse 9号，离老桥只有几步路。店里供应自酿生啤，配香肠、炸肉排和扭结面包，价格中等。每天上午11点开门。工作日最容易找到座位；周末下午1点到晚上11点是最忙的时段，最好避开。
 faq:
   - q: 什么时候去维特老海德堡啤酒屋人最少？

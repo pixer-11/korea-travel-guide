@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: heidelberg-vetter-s-alt-heidelberger-brauhaus
-srcHash: '78f4157986e4'
+srcHash: 'f6b56e9fd90c'
 title: 'Vetter''s Alt Heidelberger Brauhaus: dónde comer en Heidelberg'
-description: 'En el número 9 de la Steingasse, en pleno casco antiguo (Altstadt) de Heidelberg y a pocos pasos del Puente Viejo, la tradicional cervecería Vetter''s Alt Heidelberger Brauhaus sirve cerveza de barril de elaboración propia con salchichas, escalopes y pretzels a precios moderados. Valoración de 4.6★ (6,671 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el número 9 de la Steingasse, en pleno casco antiguo (Altstadt) de Heidelberg y a pocos pasos del Puente Viejo, la tradicional cervecería Vetter''s Alt Heidelberger Brauhaus sirve cerveza de barril de elaboración propia con salchichas, escalopes y pretzels a precios moderados. Valoración de 4.6★ (6,676 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el número 9 de la Steingasse, en pleno casco antiguo (Altstadt) de Heidelberg y a pocos pasos del Puente Viejo, se encuentra Vetter's Alt Heidelberger Brauhaus, una cervecería tradicional que sirve su propia cerveza de barril con salchichas, escalopes y pretzels a precios moderados. Abre todos los días a las 11am. Entre semana resulta más fácil conseguir mesa. Conviene evitar el fin de semana entre la 1pm y las 11pm, cuando registra su máxima afluencia.
 faq:
   - q: ¿Cuándo hay menos gente en Vetter's Alt Heidelberger Brauhaus?

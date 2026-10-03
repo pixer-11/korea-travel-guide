@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: fussen-neuschwanstein-castle
-srcHash: '61b21797f6bb'
+srcHash: '9af92a23e313'
 title: 'Castillo de Neuschwanstein: guía de viaje desde Füssen (4.6★)'
-description: Encaramado sobre un risco que domina la aldea de Hohenschwangau, en Schwangau, el castillo de Neuschwanstein queda a unos 10 minutos en autobús de Füssen. Con una valoración de 4.6★ (117,276 reseñas), reunimos aquí opiniones de visitantes, horarios y consejos.
+description: Encaramado sobre un risco que domina la aldea de Hohenschwangau, en Schwangau, el castillo de Neuschwanstein queda a unos 10 minutos en autobús de Füssen. Con una valoración de 4.6★ (117,305 reseñas), reunimos aquí opiniones de visitantes, horarios y consejos.
 quickAnswer: Encaramado sobre un risco que domina la aldea de Hohenschwangau, en Schwangau, el castillo de Neuschwanstein queda a unos 10 minutos en autobús de Füssen. Conviene reservar por internet, con antelación, una visita guiada con hora asignada y reservar para ello medio día, ya que hay que contar la subida a pie y el Marienbrücke. El horario de apertura es de 9am a 6pm, y entre semana hay menos gente durante toda la jornada; los fines de semana, lo mejor es evitar la franja de 11am a 4pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el castillo de Neuschwanstein?

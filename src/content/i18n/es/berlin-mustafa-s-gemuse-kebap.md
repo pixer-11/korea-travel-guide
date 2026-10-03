@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: berlin-mustafa-s-gemuse-kebap
-srcHash: '982a1f4833cc'
+srcHash: '26eb7b647748'
 title: 'Mustafa''s Gemüse Kebap: dónde comer en Berlín (4.2★)'
-description: En Mehringdamm 33, en pleno Kreuzberg (Berlín) y a pocos pasos de la estación de U-Bahn Mehringdamm (U6 y U7), se encuentra Mustafa's Gemüse Kebap, un diminuto quiosco de comida para llevar famoso por sus kebabs de pollo repletos de verduras a la plancha. Con 4.2★ (22,377 reseñas), aquí encontrará lo que opinan los visitantes, el horario y algunos consejos.
+description: En Mehringdamm 33, en pleno Kreuzberg (Berlín) y a pocos pasos de la estación de U-Bahn Mehringdamm (U6 y U7), se encuentra Mustafa's Gemüse Kebap, un diminuto quiosco de comida para llevar famoso por sus kebabs de pollo repletos de verduras a la plancha. Con 4.2★ (22,378 reseñas), aquí encontrará lo que opinan los visitantes, el horario y algunos consejos.
 quickAnswer: En Mehringdamm 33, en pleno Kreuzberg (Berlín) y a pocos pasos de la estación de U-Bahn Mehringdamm (U6 y U7), se encuentra Mustafa's Gemüse Kebap, un diminuto quiosco de comida para llevar famoso por sus kebabs de pollo repletos de verduras a la plancha. Entre semana, la cola es más corta de 11am a 11pm; los fines de semana, de 11am a 1pm. Conviene evitar los sábados y domingos de 1pm a 11pm, cuando se forman las colas más largas. Tenga en cuenta, además, que los viernes no abre hasta las 2pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para ir a Mustafa's Gemüse Kebap?

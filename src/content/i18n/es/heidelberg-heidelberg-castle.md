@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: heidelberg-heidelberg-castle
-srcHash: 'fc3ef695dbd0'
+srcHash: '2664b8e0d7f1'
 title: 'Castillo de Heidelberg: guía de viaje (4.7★)'
-description: 'Las ruinas de arenisca roja del Castillo de Heidelberg se alzan en la ladera boscosa que domina el casco antiguo (Altstadt) y abren todos los días de 9am a 6pm. Valoración de 4.7★ (65,978 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Las ruinas de arenisca roja del Castillo de Heidelberg se alzan en la ladera boscosa que domina el casco antiguo (Altstadt) y abren todos los días de 9am a 6pm. Valoración de 4.7★ (66,001 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En la ladera boscosa que domina el casco antiguo (Altstadt) de Heidelberg se alzan las ruinas de arenisca roja de su castillo, abierto todos los días de 9am a 6pm. Entre semana hay poca gente durante toda la jornada, de 9am a 6pm. El fin de semana conviene llegar a las 9am, antes de que empiece la afluencia de 11am–6pm. Para subir puede tomar el funicular Bergbahn desde Kornmarkt o recorrer a pie el empinado Burgweg, algo que lleva unos 15–20 minutos.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Castillo de Heidelberg?

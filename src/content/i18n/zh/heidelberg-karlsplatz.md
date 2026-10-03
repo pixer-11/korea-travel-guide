@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: heidelberg-karlsplatz
-srcHash: '2e1010a16693'
+srcHash: 'ee08a0bd1ae0'
 title: 海德堡卡尔广场（Karlsplatz）旅行指南（4.6★）
-description: 卡尔广场位于海德堡老城主街东端，紧挨着海德堡城堡脚下，是一片开阔的广场。评分4.6★（1,486条评价），这里整理了游客评价、开放时间和实用建议。
+description: 卡尔广场位于海德堡老城主街东端，紧挨着海德堡城堡脚下，是一片开阔的广场。评分4.6★（1,487条评价），这里整理了游客评价、开放时间和实用建议。
 quickAnswer: 卡尔广场（Karlsplatz）位于海德堡老城（Altstadt）主街（Hauptstraße）东端，头顶就是海德堡城堡，是一片开阔的公共广场。广场24小时开放，无需门票。在老城里看城堡，这里的视野数一数二。看完可以沿 Kurzer Buckel 石阶登山，或者往西步行两分钟，到谷物市场广场（Kornmarkt）搭登山缆车（Bergbahn）上山。
 faq:
   - q: 怎样前往海德堡卡尔广场？

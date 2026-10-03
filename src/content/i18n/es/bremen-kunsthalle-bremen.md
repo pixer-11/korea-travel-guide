@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: bremen-kunsthalle-bremen
-srcHash: '5f4a427e569b'
+srcHash: '4b8d524c9933'
 title: 'Kunsthalle de Bremen: guía de viaje (4.6★)'
-description: Principal museo de arte de Bremen, la Kunsthalle se alza en Am Wall 207, en el parque de las antiguas murallas que separa el casco antiguo (Altstadt) del barrio de Ostertor. Con 4.6★ (3,165 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.
+description: Principal museo de arte de Bremen, la Kunsthalle se alza en Am Wall 207, en el parque de las antiguas murallas que separa el casco antiguo (Altstadt) del barrio de Ostertor. Con 4.6★ (3,167 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.
 quickAnswer: En Am Wall 207, dentro del parque de las antiguas murallas que separa el casco antiguo (Altstadt) del barrio de Ostertor, se encuentra la Kunsthalle de Bremen, el principal museo de arte de la ciudad. Además de exposiciones temporales, reúne obras de Rubens, Rembrandt, Courbet y Picasso. Cierra los lunes. De miércoles a domingo abre de 10am a 5pm, y los martes prolonga su horario hasta las 9pm. Conviene reservar para la visita entre dos y tres horas.
 faq:
   - q: ¿Abre la Kunsthalle de Bremen los lunes?

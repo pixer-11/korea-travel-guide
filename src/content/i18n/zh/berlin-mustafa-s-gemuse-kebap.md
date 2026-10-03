@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: berlin-mustafa-s-gemuse-kebap
-srcHash: '982a1f4833cc'
+srcHash: '26eb7b647748'
 title: 穆斯塔法蔬菜烤肉（Mustafa's Gemüse Kebap）：柏林必吃小摊（4.2★）
-description: 穆斯塔法蔬菜烤肉（Mustafa's Gemüse Kebap）是柏林克罗伊茨贝格区一家只做外带的小亭子，位于Mehringdamm 33，从梅林达姆（Mehringdamm）地铁站（U6、U7线）步行即到，招牌是塞满烤蔬菜的鸡肉卷饼。评分4.2★（22,377条评价），本文汇总食客口碑、营业时间和实用贴士。
+description: 穆斯塔法蔬菜烤肉（Mustafa's Gemüse Kebap）是柏林克罗伊茨贝格区一家只做外带的小亭子，位于Mehringdamm 33，从梅林达姆（Mehringdamm）地铁站（U6、U7线）步行即到，招牌是塞满烤蔬菜的鸡肉卷饼。评分4.2★（22,378条评价），本文汇总食客口碑、营业时间和实用贴士。
 quickAnswer: 穆斯塔法蔬菜烤肉（Mustafa's Gemüse Kebap）是柏林克罗伊茨贝格区（Kreuzberg）一家只做外带的小亭子，地址为Mehringdamm 33，从梅林达姆（Mehringdamm）地铁站（U6、U7线）步行几分钟即到，以塞满烤蔬菜的鸡肉卷饼闻名。工作日上午11点至晚上11点、周末上午11点至下午1点排队最短。周末下午1点到晚上11点队伍最长，最好避开。另外请注意，周五要到下午2点才开门。
 faq:
   - q: 什么时候去穆斯塔法蔬菜烤肉人最少？

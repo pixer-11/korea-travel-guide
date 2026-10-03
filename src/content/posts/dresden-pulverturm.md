@@ -1,46 +1,56 @@
 ---
-title: "Pulverturm: Where to Eat in Dresden (4.6★)"
-description: "Pulverturm is a sit-down restaurant at An der Frauenkirche 12 in Dresden-Altstadt, serving international dishes inside a centuries-old building a few steps from the Frauenkirche on Neumarkt. 4.6★ (5,084 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Dresden"
-category: "restaurant"
-pubDate: "2026-10-03T12:50:22.017Z"
+title: 'Pulverturm: Where to Eat in Dresden (4.6★)'
+description: >-
+  Pulverturm is a sit-down restaurant at An der Frauenkirche 12 in
+  Dresden-Altstadt, serving international dishes inside a centuries-old building
+  a few steps from the Frauenkirche on Neumarkt. 4.6★ (5,084 reviews) — what
+  visitors say, hours, and tips.
+country: Germany
+region: Dresden
+category: restaurant
+pubDate: '2026-10-03T12:50:22.017Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/2/2e/00_8277_Dresden_-_Pulverturm.jpg"
-  credit: "Photo: W. Bulach / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:00_8277_Dresden_-_Pulverturm.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/2e/00_8277_Dresden_-_Pulverturm.jpg
+  credit: 'Photo: W. Bulach / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:00_8277_Dresden_-_Pulverturm.jpg'
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dresden%2C_Restaurant_Pulverturm_an_der_Frauenkirche_%289466851271%29.jpg/3840px-Dresden%2C_Restaurant_Pulverturm_an_der_Frauenkirche_%289466851271%29.jpg"
-    credit: "Photo: Heribert Pohl --- Thanks for half a million clicks! / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Dresden,_Restaurant_Pulverturm_an_der_Frauenkirche_(9466851271).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dresden%2C_Restaurant_Pulverturm_an_der_Frauenkirche_%289466851271%29.jpg/3840px-Dresden%2C_Restaurant_Pulverturm_an_der_Frauenkirche_%289466851271%29.jpg
+    credit: >-
+      Photo: Heribert Pohl --- Thanks for half a million clicks! / Wikimedia
+      Commons (CC BY-SA 2.0)
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Dresden,_Restaurant_Pulverturm_an_der_Frauenkirche_(9466851271).jpg
 place:
-  id: "ChIJQXEkyELPCUcRJU9Xpneyytg"
-  name: "Pulverturm"
-  address: "An d. Frauenkirche 12, 01067 Dresden-Altstadt, Germany"
+  id: ChIJQXEkyELPCUcRJU9Xpneyytg
+  name: Pulverturm
+  address: 'An d. Frauenkirche 12, 01067 Dresden-Altstadt, Germany'
   rating: 4.6
-  userRatingsTotal: 5084
+  userRatingsTotal: 5085
   priceLevel: 3
-  googleMapsUrl: "https://maps.google.com/?cid=15621494484449578789&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15621494484449578789&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.052254
   lng: 13.742317
-  phone: "+49 351 262600"
+  phone: +49 351 262600
   openingHours:
-    - "Monday: 12:00 – 11:00 PM"
-    - "Tuesday: 12:00 – 11:00 PM"
-    - "Wednesday: Closed"
-    - "Thursday: 12:00 – 11:00 PM"
-    - "Friday: 11:00 AM – 12:00 AM"
-    - "Saturday: 11:00 AM – 12:00 AM"
-    - "Sunday: 11:00 AM – 11:00 PM"
+    - 'Monday: 12:00 – 11:00 PM'
+    - 'Tuesday: 12:00 – 11:00 PM'
+    - 'Wednesday: Closed'
+    - 'Thursday: 12:00 – 11:00 PM'
+    - 'Friday: 11:00 AM – 12:00 AM'
+    - 'Saturday: 11:00 AM – 12:00 AM'
+    - 'Sunday: 11:00 AM – 11:00 PM'
   busyness:
-    updated: 2026-10-03
+    updated: 2026-10-03T00:00:00.000Z
     weekdayBusy:
       - 18
       - 19
@@ -54,25 +64,48 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_67747979656e705839554a52635543504c45796b4558514a496843"
+    venueId: ven_67747979656e705839554a52635543504c45796b4558514a496843
 tags:
-  - "dresden"
-  - "local restaurant"
-quickAnswer: "Pulverturm is a sit-down restaurant at An der Frauenkirche 12 in Dresden-Altstadt, serving international dishes inside a centuries-old building a few steps from the Frauenkirche on Neumarkt. It is on the pricier side and very popular, so book ahead. Avoid weekends from 2pm to 10pm, the busiest stretch, and note it is closed on Wednesdays."
+  - dresden
+  - local restaurant
+quickAnswer: >-
+  Pulverturm is a sit-down restaurant at An der Frauenkirche 12 in
+  Dresden-Altstadt, serving international dishes inside a centuries-old building
+  a few steps from the Frauenkirche on Neumarkt. It is on the pricier side and
+  very popular, so book ahead. Avoid weekends from 2pm to 10pm, the busiest
+  stretch, and note it is closed on Wednesdays.
 faq:
-  - q: "When is the quietest time to visit Pulverturm?"
-    a: "We only have data on the busiest stretch: 2pm to 10pm on weekends. Try to avoid it. On Saturday and Sunday the restaurant opens at 11am, so a late-morning lunch arrives before that peak. Weekday lunch from noon on Monday, Tuesday or Thursday is another option outside it."
-  - q: "Is Pulverturm open on Wednesdays?"
-    a: "No. It is closed all day on Wednesday. It opens at noon on Monday, Tuesday and Thursday, and at 11am Friday to Sunday. It closes at midnight on Friday and Saturday and at 11pm on the other open days."
-  - q: "Do I need a reservation?"
-    a: "Yes, book if you can. It is very popular, and weekend afternoons and evenings are the busiest times. Walking in without a booking during that window is a gamble."
-  - q: "How do I get to Pulverturm?"
-    a: "It is at An der Frauenkirche 12 on Neumarkt in Dresden-Altstadt, right beside the Frauenkirche. The nearest tram stops are Pirnaischer Platz and Altmarkt, a short walk away. From Dresden Hauptbahnhof it is roughly a 20-minute walk."
-  - q: "What is there to see nearby?"
-    a: "The Frauenkirche is next door. The Fürstenzug, Brühlsche Terrasse and Albertinum are a few minutes' walk away. The Residenzschloss, Zwinger and Semperoper are around 10 minutes west on foot."
+  - q: When is the quietest time to visit Pulverturm?
+    a: >-
+      We only have data on the busiest stretch: 2pm to 10pm on weekends. Try to
+      avoid it. On Saturday and Sunday the restaurant opens at 11am, so a
+      late-morning lunch arrives before that peak. Weekday lunch from noon on
+      Monday, Tuesday or Thursday is another option outside it.
+  - q: Is Pulverturm open on Wednesdays?
+    a: >-
+      No. It is closed all day on Wednesday. It opens at noon on Monday, Tuesday
+      and Thursday, and at 11am Friday to Sunday. It closes at midnight on
+      Friday and Saturday and at 11pm on the other open days.
+  - q: Do I need a reservation?
+    a: >-
+      Yes, book if you can. It is very popular, and weekend afternoons and
+      evenings are the busiest times. Walking in without a booking during that
+      window is a gamble.
+  - q: How do I get to Pulverturm?
+    a: >-
+      It is at An der Frauenkirche 12 on Neumarkt in Dresden-Altstadt, right
+      beside the Frauenkirche. The nearest tram stops are Pirnaischer Platz and
+      Altmarkt, a short walk away. From Dresden Hauptbahnhof it is roughly a
+      20-minute walk.
+  - q: What is there to see nearby?
+    a: >-
+      The Frauenkirche is next door. The Fürstenzug, Brühlsche Terrasse and
+      Albertinum are a few minutes' walk away. The Residenzschloss, Zwinger and
+      Semperoper are around 10 minutes west on foot.
 aiGenerated: true
 draft: true
 heldReason: crowd-claims
+updatedDate: '2026-10-03'
 ---
 
 ## A table beside the Frauenkirche

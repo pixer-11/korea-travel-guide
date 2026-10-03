@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: heidelberg-karlsplatz
-srcHash: '2e1010a16693'
+srcHash: 'ee08a0bd1ae0'
 title: 'Karlsplatz: guía de viaje de Heidelberg (4.6★)'
-description: 'En el extremo oriental de la Hauptstraße, en pleno casco antiguo (Altstadt) de Heidelberg y justo a los pies del castillo, se abre la plaza Karlsplatz. 4.6★ (1,486 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el extremo oriental de la Hauptstraße, en pleno casco antiguo (Altstadt) de Heidelberg y justo a los pies del castillo, se abre la plaza Karlsplatz. 4.6★ (1,487 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: La Karlsplatz es una plaza abierta situada en el extremo oriental de la Hauptstraße, en el casco antiguo (Altstadt) de Heidelberg, justo debajo del castillo. Por ser pública, se puede visitar las 24 horas y no requiere entrada. Merece la pena acercarse porque desde aquí se contempla el castillo como desde pocos rincones del casco antiguo. Después puede subir por la escalinata del Kurzer Buckel o caminar dos minutos hasta la Kornmarkt para tomar el funicular Bergbahn.
 faq:
   - q: ¿Cómo se llega a la Karlsplatz de Heidelberg?

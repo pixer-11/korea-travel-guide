@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: dresden-german-hygiene-museum
-srcHash: '8bc556b41202'
+srcHash: 'a5ca496d5105'
 title: 'Museo Alemán de la Higiene: guía de viaje de Dresde (4.5★)'
-description: 'En la Lingnerplatz de Dresden-Altstadt, junto al Großer Garten, el Museo Alemán de la Higiene abre de martes a domingo de 10:00 a 17:00. 4.5★ (10,320 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En la Lingnerplatz de Dresden-Altstadt, junto al Großer Garten, el Museo Alemán de la Higiene abre de martes a domingo de 10:00 a 17:00. 4.5★ (10,321 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Museo Alemán de la Higiene se encuentra en la Lingnerplatz, en Dresden-Altstadt, junto al Großer Garten. Abre de martes a domingo de 10:00 a 17:00 y cierra los lunes. Para recorrer la exposición permanente, ver el Hombre de Cristal y pasar por la sección infantil hacen falta entre dos y tres horas. Si llega hacia las 10:00 un día laborable, normalmente se adelantará a las familias.
 faq:
   - q: ¿Qué horario tiene el Museo Alemán de la Higiene?

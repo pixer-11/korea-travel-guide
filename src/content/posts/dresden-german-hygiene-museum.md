@@ -1,55 +1,83 @@
 ---
-title: "German Hygiene Museum: Dresden Travel Guide (4.5★)"
-description: "The German Hygiene Museum stands on Lingnerplatz in Dresden-Altstadt, beside the Großer Garten, and opens Tuesday to Sunday from 10am to 5pm. 4.5★ (10,320 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Dresden"
-category: "attraction"
-pubDate: "2026-10-03T13:04:14.026Z"
+title: 'German Hygiene Museum: Dresden Travel Guide (4.5★)'
+description: >-
+  The German Hygiene Museum stands on Lingnerplatz in Dresden-Altstadt, beside
+  the Großer Garten, and opens Tuesday to Sunday from 10am to 5pm. 4.5★ (10,321
+  reviews) — what visitors say, hours, and tips.
+country: Germany
+region: Dresden
+category: attraction
+pubDate: '2026-10-03T13:04:14.026Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Deutsches_Hygienemuseum%2C_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg/1920px-Deutsches_Hygienemuseum%2C_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg"
-  credit: "Photo: Raimond Spekking / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Deutsches_Hygienemuseum%2C_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg/1920px-Deutsches_Hygienemuseum%2C_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg
+  credit: 'Photo: Raimond Spekking / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJI6TiDFnPCUcRqtdIbtUIINs"
-  name: "German Hygiene Museum"
-  address: "Lingnerpl. 1, 01069 Dresden-Altstadt, Germany"
+  id: ChIJI6TiDFnPCUcRqtdIbtUIINs
+  name: German Hygiene Museum
+  address: 'Lingnerpl. 1, 01069 Dresden-Altstadt, Germany'
   rating: 4.5
-  userRatingsTotal: 10320
-  googleMapsUrl: "https://maps.google.com/?cid=15789630006332282794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 10321
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15789630006332282794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.0442685
   lng: 13.747303299999999
-  phone: "+49 351 4846400"
+  phone: +49 351 4846400
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
 tags:
-  - "dresden"
-  - "museum"
-quickAnswer: "The German Hygiene Museum stands on Lingnerplatz in Dresden-Altstadt, beside the Großer Garten, and opens Tuesday to Sunday from 10am to 5pm. It is closed on Mondays. Give it two to three hours for the permanent exhibition, the glass Transparent Man and the children's section, and arrive near 10am on a weekday, which usually gets you in ahead of the families."
+  - dresden
+  - museum
+quickAnswer: >-
+  The German Hygiene Museum stands on Lingnerplatz in Dresden-Altstadt, beside
+  the Großer Garten, and opens Tuesday to Sunday from 10am to 5pm. It is closed
+  on Mondays. Give it two to three hours for the permanent exhibition, the glass
+  Transparent Man and the children's section, and arrive near 10am on a weekday,
+  which usually gets you in ahead of the families.
 faq:
-  - q: "When is the German Hygiene Museum open?"
-    a: "Tuesday to Sunday, 10am to 5pm. It is closed every Monday, so plan your Dresden days around that."
-  - q: "How long do I need at the German Hygiene Museum?"
-    a: "Allow two to three hours for the permanent exhibition 'Adventure Human' and the Transparent Man. Add more time if you visit the children's section or a temporary exhibition. Arrive by early afternoon so you are not rushed by the 5pm closing."
-  - q: "Is the German Hygiene Museum good for children?"
-    a: "Yes. It has a dedicated Children's Museum themed on the five senses, with hands-on stations. Note that the sexuality room in the main exhibition is explicit, so look ahead with younger kids."
-  - q: "How do I get to the German Hygiene Museum from Dresden's old town?"
-    a: "It is at Lingnerplatz 1, a walk of roughly a quarter of an hour southeast from the Frauenkirche or Altmarkt. Dresden Hauptbahnhof is also within walking distance. There is a tram stop called 'Deutsches Hygiene-Museum'; check the DVB planner for current lines."
-  - q: "What is near the German Hygiene Museum?"
-    a: "The Großer Garten, Dresden's largest park, begins right behind the museum and has the Baroque Palais at its centre. The Altmarkt, Rathaus and Frauenkirche are a short walk northwest."
+  - q: When is the German Hygiene Museum open?
+    a: >-
+      Tuesday to Sunday, 10am to 5pm. It is closed every Monday, so plan your
+      Dresden days around that.
+  - q: How long do I need at the German Hygiene Museum?
+    a: >-
+      Allow two to three hours for the permanent exhibition 'Adventure Human'
+      and the Transparent Man. Add more time if you visit the children's section
+      or a temporary exhibition. Arrive by early afternoon so you are not rushed
+      by the 5pm closing.
+  - q: Is the German Hygiene Museum good for children?
+    a: >-
+      Yes. It has a dedicated Children's Museum themed on the five senses, with
+      hands-on stations. Note that the sexuality room in the main exhibition is
+      explicit, so look ahead with younger kids.
+  - q: How do I get to the German Hygiene Museum from Dresden's old town?
+    a: >-
+      It is at Lingnerplatz 1, a walk of roughly a quarter of an hour southeast
+      from the Frauenkirche or Altmarkt. Dresden Hauptbahnhof is also within
+      walking distance. There is a tram stop called 'Deutsches Hygiene-Museum';
+      check the DVB planner for current lines.
+  - q: What is near the German Hygiene Museum?
+    a: >-
+      The Großer Garten, Dresden's largest park, begins right behind the museum
+      and has the Baroque Palais at its centre. The Altmarkt, Rathaus and
+      Frauenkirche are a short walk northwest.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-03'
 ---
 
 ## A museum about you
