@@ -27,14 +27,6 @@ place:
   lng: -0.3504904
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 19
-      - 20
-      - 21
-    weekendQuiet:
-      - 19
-      - 20
-      - 21
     weekendBusy:
       - 11
       - 12
@@ -45,6 +37,15 @@ place:
       - 17
       - 18
     venueId: ven_49323645645170726a506c52304159496c6530624f55674a496843
+  phone: '+34 961 97 46 86'
+  openingHours:
+    - 'Monday: 10:00 AM – 7:00 PM'
+    - 'Tuesday: 10:00 AM – 7:00 PM'
+    - 'Wednesday: 10:00 AM – 7:00 PM'
+    - 'Thursday: 10:00 AM – 7:00 PM'
+    - 'Friday: 10:00 AM – 7:00 PM'
+    - 'Saturday: 10:00 AM – 7:00 PM'
+    - 'Sunday: 10:00 AM – 7:00 PM'
 tags:
   - valencia
   - City of Arts and Sciences

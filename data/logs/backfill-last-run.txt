@@ -1,29 +1,33 @@
-Places 예산: backfill 몫 25회 (오늘 사용 17/100)
+Places 예산: backfill 몫 25회 (오늘 사용 16/100)
 Priority: 218 itinerary stop(s) queued first
-  – brighton-meo-brighton.md: nothing new (resting 60d)
-  – york-rise.md: nothing new (resting 60d)
-  – belfast-the-dome.md: nothing new (resting 60d)
-  – liverpool-the-beatles-statues.md: nothing new (resting 60d)
-  – marina-bay-singapore-skyline-view.md: nothing new (resting 60d)
-  – san-sebastian-plaza-de-la-constitucion-san-sebastian.md: nothing new (resting 60d)
-  – gold-coast-ernest-junction-railway-tunnel.md: nothing new (resting 60d)
+  – berlin-teufelsberg.md: nothing new (resting 60d)
+  ✓ bremen-bremer-geschichtenhaus-bras-e-v.md +phone +7h hours (new post top-up)
+  – dusseldorf-stadtgraben-konigsallee.md: nothing new (resting 60d)
+  ✓ leipzig-leipzig-panometer.md +phone +7h hours (new post top-up)
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 17h (venue not open then); weekendQuiet: dropped 17h (venue not open then) — nothing left
+  – berlin-brandenburg-gate.md: nothing new (resting 60d)
+  – gold-coast-burleigh-head-national-park.md: nothing new (resting 60d)
   🚫 little-india-former-house-of-tan-teng-niah.md: CLOSED_TEMPORARILY — quarantined (draft), not backfilled
-  – stanley-stanley-promenade.md: nothing new (resting 60d)
-  ✓ strasbourg-christmas-in-alsace.md +phone +7h hours
-  – strasbourg-temple-de-l-amour.md: nothing new (resting 60d)
-  – sukhothai-sukhothai-buddha-park.md: nothing new (resting 60d)
-  – suncheon-suncheon-bay.md: nothing new (resting 60d)
-  ✓ sunshine-coast-sea-life-sunshine-coast-aquarium.md +phone +7h hours
-  – surabaya-bungkul-park.md: nothing new (resting 60d)
-  ✓ surabaya-surabaya-north-quay.md +phone +7h hours
-  ✓ suwon-hwaseong-fortress.md +phone +7h hours
-  – suzhou-classical-gardens-of-suzhou.md: nothing new (resting 60d)
-  – suzhou-lion-grove-garden.md: nothing new (resting 60d)
-  – suzhou-master-of-the-nets-garden.md: nothing new (resting 60d)
-  ✓ suzhou-suzhou-museum.md +phone
-  – sydney-darling-harbour.md: nothing new (resting 60d)
-  – taichung-rainbow-village.md: nothing new (resting 60d)
-  – tainan-anping-old-street.md: nothing new (resting 60d)
-  – taipei-elephant-mountain.md: nothing new (resting 60d)
+  – london-two-temple-place.md: nothing new (resting 60d)
+  – manchester-st-peter-s-square.md: nothing new (resting 60d)
+  – suzhou-suzhou-museum.md: nothing new (resting 60d)
+  – taiping-taiping-lake-garden.md: nothing new (resting 60d)
+  – taiyuan-jinci.md: nothing new (resting 60d)
+  – taiyuan-yingze-park.md: nothing new (resting 60d)
+  – taroko-gorge-taroko-national-park.md: nothing new (resting 60d)
+  – tashkent-hazrati-imam-complex.md: nothing new (resting 60d)
+  – tashkent-tashkent-city-park.md: nothing new (resting 60d)
+  – tioman-tioman-island.md: nothing new (resting 60d)
+  ✓ tongyeong-tongyeong-cablecar-skywalk.md +phone +7h hours
+  – ubud-ubud-palace.md: nothing new (resting 60d)
+  – udaipur-eklingji-temple.md: nothing new (resting 60d)
+  – udaipur-gulab-bagh.md: nothing new (resting 60d)
+  – udaipur-pichola-lake-udaipur.md: nothing new (resting 60d)
+  ✓ valencia-ciudad-de-las-artes-y-las-ciencias.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 19,20,21h (venue not open then) — nothing left; weekendQuiet: dropped 19,20,21h (venue not open then) — nothing left
+  ✓ valencia-museo-de-las-ciencias-principe-felipe.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 19,20,21h (venue not open then); weekendQuiet: dropped 19,20,21h (venue not open then) — nothing left
+  ✓ valencia-torres-de-serranos.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 19h (venue not open then); weekendQuiet: dropped 19h (venue not open then)
 
-BACKFILL RESULT: updated 5, backlog-updated 5, already-complete 1160, no-new-data 550, no-place 536, closed-quarantined 1, quota-429 0, api-error 0, api-calls 25, remaining-askable 39 (APPLIED).
+BACKFILL RESULT: updated 6, backlog-updated 4, already-complete 1226, no-new-data 569, no-place 560, closed-quarantined 1, quota-429 0, api-error 0, api-calls 25, remaining-askable 23 (APPLIED).

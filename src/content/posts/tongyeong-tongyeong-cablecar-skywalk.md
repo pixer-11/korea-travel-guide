@@ -20,6 +20,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 34.809970799999995
   lng: 128.418531
+  phone: '+82 1544-3303'
+  openingHours:
+    - 'Monday: 10:00 AM – 6:00 PM'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: Closed'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
 tags:
   - tongyeong
   - cable car

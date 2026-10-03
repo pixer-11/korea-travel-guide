@@ -33,6 +33,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 53.07257260000001
   lng: 8.8095634
+  phone: '+49 421 37877586'
+  openingHours:
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 5:00 PM'
+    - 'Wednesday: 11:00 AM – 5:00 PM'
+    - 'Thursday: 11:00 AM – 5:00 PM'
+    - 'Friday: 11:00 AM – 5:00 PM'
+    - 'Saturday: 11:30 AM – 5:00 PM'
+    - 'Sunday: 11:30 AM – 5:00 PM'
 tags:
   - bremen
   - hidden gem
