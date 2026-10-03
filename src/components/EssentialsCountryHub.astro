@@ -14,6 +14,8 @@ import essentialsFacts from '../../data/essentials-facts.json';
 import { pickOgPhoto } from '../lib/ogPhoto.mjs';
 import { wikimediaThumb } from '../lib/wikimediaThumb.mjs';
 import { bodyHash } from '../../scripts/lib/essentials-facts.mjs';
+import { storageCitiesOf, radicalStorageUrl } from '../lib/radical-storage.mjs';
+import { essTopicStrings } from '../i18n/essentials-topic-strings';
 
 // Per-country essentials page for /essentials/<country> (en) and
 // /[lang]/essentials/<country>. Redesigned 2026-09-30 from 픽서님's "호주
@@ -75,17 +77,27 @@ const keyOf = (h: string) => {
   return s.startsWith('visa') ? 'visa' : s.startsWith('getting around') ? 'transport' : s.startsWith('money') ? 'money'
     : s.startsWith('best time') ? 'season' : s.startsWith('emergenc') ? 'emergency' : s.startsWith('official source') ? 'sources' : null;
 };
-const enKeys = String(entry.rendered?.html ?? '').split(/<h2[^>]*>/).slice(1)
-  .map((p) => keyOf(textOf(p.slice(0, p.indexOf('</h2>'))).trim()));
+const enHeads = String(entry.rendered?.html ?? '').split(/<h2[^>]*>/).slice(1)
+  .map((p) => textOf(p.slice(0, p.indexOf('</h2>'))).trim());
+const enKeys = enHeads.map(keyOf);
 const aligned = sections.length === enKeys.length;
 const sec: Record<string, { heading: string; html: string } | undefined> = {};
-const extras: { heading: string; html: string; id: string }[] = [];
+const extras: { heading: string; html: string; id: string; luggage?: boolean }[] = [];
 sections.forEach((s, i) => {
   const k = aligned ? enKeys[i] : null;
   if (k && !sec[k]) sec[k] = s;
-  else extras.push({ ...s, id: `ess-more-${i + 1}` });
+  // The luggage section is known by its ENGLISH heading, like the others.
+  else extras.push({ ...s, id: `ess-more-${i + 1}`, luggage: aligned && /^luggage storage/i.test(enHeads[i] ?? '') });
 });
 const structured = aligned && SECTION_KEYS.every((k) => sec[k]);
+// Under the luggage section: book a spot in this country's cities (Radical
+// Storage, 10-04 — verified city pages only, lib/radical-storage.mjs).
+const est = essTopicStrings(lang);
+const hasLuggageSection = extras.some((x) => x.luggage);
+const storageCities = storageCitiesOf(d.country).map((x: any) => ({
+  label: localizePlace(x.city, lang),
+  href: radicalStorageUrl({ slug: x.slug, subId: `essentials_${entry.id}_luggage` }),
+}));
 const quickAnswer = lead.replace(/^\s*<p>\s*<strong>[^<]*<\/strong>\s*/, '<p>').trim();
 const firstPara = (h = '') => (h.match(/<p>[\s\S]*?<\/p>/) ?? [''])[0];
 // The lede above the cards: the first sentence or two of the section, as plain
@@ -398,6 +410,15 @@ const cityTone = ['tone-green', 'tone-brown', 'tone-sand'];
                   <details class="ess-more"><summary>{t('ess.readMore')}</summary><div class="prose" set:html={sec.transport?.html} /></details>
                 </>
               ) : <div class="prose" set:html={sec.transport?.html} />}
+              {/* Most guides have no luggage section yet: the stations and
+                  airports this section is about are where bags get left. */}
+              {!hasLuggageSection && storageCities.length > 0 && (
+                <p class="ess-rs" data-affiliate-placement="essentials-country-luggage">
+                  <strong>{est('rsIn')}</strong>
+                  {storageCities.map((c: any) => <a href={c.href} rel="sponsored noopener" target="_blank">{c.label}</a>)}
+                  <small>{est('affNote')}</small>
+                </p>
+              )}
             </section>
 
             {/* ── Money & costs ── */}
@@ -491,6 +512,13 @@ const cityTone = ['tone-green', 'tone-brown', 'tone-sand'];
               <section id={x.id} class="ess-sec">
                 <h2>{x.heading}</h2>
                 <div class="prose" set:html={x.html} />
+                {x.luggage && storageCities.length > 0 && (
+                  <p class="ess-rs" data-affiliate-placement="essentials-country-luggage">
+                    <strong>{est('rsIn')}</strong>
+                    {storageCities.map((c: any) => <a href={c.href} rel="sponsored noopener" target="_blank">{c.label}</a>)}
+                    <small>{est('affNote')}</small>
+                  </p>
+                )}
               </section>
             ))}
 
@@ -741,6 +769,11 @@ const cityTone = ['tone-green', 'tone-brown', 'tone-sand'];
   .ess-num.t2 { background: var(--ess-card); box-shadow: var(--shadow-sm); }
   .ess-num-label { font-weight: 700; }
   .ess-num p { margin: 0.2rem 0 0; font-size: 0.88rem; line-height: 1.55; opacity: 0.9; }
+  .ess-rs { display: flex; flex-wrap: wrap; align-items: baseline; gap: .4rem .9rem; margin: 1rem 0 0; padding: .85rem 1.1rem; border-radius: 16px; background: var(--ess-card); box-shadow: var(--shadow-sm); }
+  .ess-rs strong { color: var(--ink); }
+  .ess-rs a { color: var(--accent-text); font-weight: 700; text-decoration: none; overflow-wrap: anywhere; }
+  .ess-rs a:hover { text-decoration: underline; }
+  .ess-rs small { flex-basis: 100%; color: var(--muted); font-size: .8rem; }
   .ess-chiprow { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 0.9rem 0 0; }
   .ess-chiprow span { padding: 0.4rem 0.9rem; border-radius: 999px; background: var(--ess-card); font-size: 0.86rem; box-shadow: var(--shadow-sm); }
 

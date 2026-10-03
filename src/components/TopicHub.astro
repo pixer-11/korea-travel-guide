@@ -14,6 +14,7 @@ import essentialsFacts from '../../data/essentials-facts.json';
 import countriesData from '../../data/countries.json';
 import esimFacts from '../../data/esim-facts.json';
 import seasonRegions from '../../data/season-regions.json';
+import { RS_CITIES, radicalStorageUrl } from '../lib/radical-storage.mjs';
 
 // Shared essentials-topic page (visa / transport / luggage storage / money /
 // best time / emergency) for the English route and /[lang]/essentials/<topic>.
@@ -206,12 +207,27 @@ const pickup = `https://kiwitaxi.tpx.lv/yRbl5tIp?sub_id=essentials_${topic.id}`;
 const CTA: Record<K, { a: [string, string, string]; b: [string, string, string] }> = {
   Visa: { a: [s('goNewsletter'), s('tagFree'), localizePath('/newsletter', lang)], b: [s('goFlights'), s('tagFlights'), localizePath('/flights', lang)] },
   Transport: { a: [s('goPickup'), s('tagPickup'), pickup], b: [s('goEsim'), s('tagEsim'), esimHref] },
-  Luggage: { a: [s('goTours'), s('tagTours'), 'https://klook.tpx.lv/2NXPH8MA'], b: [s('goPickup'), s('tagPickupBags'), pickup] },
+  // Luggage storage itself (Radical Storage, 10-04): the page is about leaving bags,
+  // and its band offered tours. The pickup stays.
+  Luggage: { a: [s('goStorage'), s('tagStorage'), radicalStorageUrl({ subId: 'essentials_luggage_cta' })], b: [s('goPickup'), s('tagPickupBags'), pickup] },
   Money: { a: [s('goChecklist'), s('tagPrint'), localizePath('/free/trip-checklist', lang)], b: [s('goEsim'), s('tagEsimPay'), esimHref] },
   Season: { a: [s('goFlights'), s('tagFlights'), localizePath('/flights', lang)], b: [s('goEvents'), s('tagEvents'), localizePath('/events', lang)] },
   Emergency: { a: [s('goChecklist'), s('tagPrint'), localizePath('/free/trip-checklist', lang)], b: [s('goEsim'), s('tagEsimCalls'), esimHref] },
 };
 const cta = CTA[k];
+// ── Luggage: where a bag can be booked in, by country (lib/radical-storage.mjs —
+// Radical Storage's own sitemap matched to our cities, each page checked) ──
+const storage = k !== 'Luggage' ? [] : Object.entries(RS_CITIES)
+  .map(([country, cities]: [string, any[]]) => {
+    const c: any = byName.get(country);
+    return !c ? null : {
+      iso2: c.iso2, label: localizePlace(country, lang),
+      cities: cities.map((x) => ({ label: localizePlace(x.city, lang), href: radicalStorageUrl({ slug: x.slug, subId: `essentials_luggage_${x.slug}` }) })),
+    };
+  })
+  .filter(Boolean)
+  .sort((a: any, b: any) => collator.compare(a.label, b.label)) as any[];
+const storageCityCount = storage.reduce((n: number, x: any) => n + x.cities.length, 0);
 const external = (href: string) => /^https?:/.test(href);
 
 const related = tabs.filter((x) => x.id !== topic.id).map((x) => ({ ...x, blurb: s(`rel${x.k}` as EssTopicKey) }));
@@ -455,6 +471,24 @@ const cellOf = (r: any) => (k === 'Visa' ? r.entry : k === 'Transport' ? r.trans
         </section>
       )}
 
+      {/* ── Book a place for the bags, by city ── */}
+      {storage.length > 0 && (
+        <section class="tph-sec tph-rs" data-affiliate-placement="essentials-luggage-city">
+          <div class="tph-head">
+            <div><h2 class="tph-h2">{s('rsTitle')}</h2><p class="tph-note">{s('rsSub', { n: storageCityCount })}</p></div>
+          </div>
+          <ul class="tph-rs-list">
+            {storage.map((x) => (
+              <li>
+                <span class="tph-rs-country"><Flag code={x.iso2} size="1.2em" /> {x.label}</span>
+                <span class="tph-rs-cities">{x.cities.map((c: any) => <a href={c.href} rel="sponsored noopener" target="_blank">{c.label}</a>)}</span>
+              </li>
+            ))}
+          </ul>
+          <p class="tph-rs-foot"><a href={radicalStorageUrl({ subId: 'essentials_luggage_other' })} rel="sponsored noopener" target="_blank">{s('rsOther')}</a> <span class="tph-aff-inline">{s('affNote')}</span></p>
+        </section>
+      )}
+
       {/* ── Every country at a glance ── */}
       {k === 'Luggage' ? luggage.length > 0 && (
         <section class="tph-sec">
@@ -535,7 +569,7 @@ const cellOf = (r: any) => (k === 'Visa' ? r.entry : k === 'Transport' ? r.trans
       )}
 
       {/* ── One call to action ── */}
-      <section class="tph-cta">
+      <section class="tph-cta" data-affiliate-placement={`essentials-${topic.id}-cta`}>
         <div class="tph-cta-text">
           <h2>{s(`cta${k}T` as EssTopicKey)}</h2>
           <p>{s(`cta${k}S` as EssTopicKey)}</p>
@@ -833,6 +867,16 @@ const cellOf = (r: any) => (k === 'Visa' ? r.entry : k === 'Transport' ? r.trans
   .tph-legend span { width: 1rem; height: 1rem; border-radius: 4px; background: var(--line-soft, var(--line)); }
   .tph-empty { color: var(--muted); margin: .8rem 0 0; }
 
+  .tph-rs-list { list-style: none; margin: 0; padding: 0; display: grid; gap: .5rem; }
+  .tph-rs-list li { display: grid; grid-template-columns: minmax(0, 11rem) minmax(0, 1fr); gap: .4rem 1rem; align-items: baseline; padding: .7rem 1rem; border-radius: 16px; background: var(--tp-cream); border: 1px solid var(--line-soft, var(--line)); }
+  .tph-rs-country { display: inline-flex; align-items: center; gap: .45rem; font-weight: 800; color: var(--ink); }
+  .tph-rs-cities { display: flex; flex-wrap: wrap; gap: .35rem .9rem; min-width: 0; }
+  .tph-rs-cities a { color: var(--accent-text); font-weight: 700; text-decoration: none; overflow-wrap: anywhere; }
+  .tph-rs-cities a:hover { text-decoration: underline; }
+  .tph-rs-foot { margin: .9rem 0 0; font-size: .92rem; }
+  .tph-rs-foot a { font-weight: 800; color: var(--accent-text); }
+  .tph-aff-inline { color: var(--muted); font-size: .82rem; margin-left: .5rem; }
+  @media (max-width: 560px) { .tph-rs-list li { grid-template-columns: minmax(0, 1fr); } }
   .tph-lug { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 15rem), 1fr)); gap: .6rem; }
   .tph-lug a { display: flex; align-items: center; gap: .6rem; padding: 1rem 1.2rem; border-radius: 18px; background: var(--tp-cream); border: 1px solid var(--line-soft, var(--line)); color: var(--ink); font-weight: 800; text-decoration: none; }
   .tph-lug a:hover { border-color: var(--accent); color: var(--accent-text); }

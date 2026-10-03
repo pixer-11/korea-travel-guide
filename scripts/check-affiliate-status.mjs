@@ -81,6 +81,14 @@ function markerProblem(url) {
       return 'Tiqets landing has no Travelpayouts partner/campaign — reaches Tiqets but cannot be credited';
     }
   }
+  // Radical Storage (luggage, 10-04) credits through track_id=<token>-754088
+  // and utm_term=travelpayouts on the landing page.
+  if (/(^|\.)radicalstorage\.com$/.test(u.hostname)) {
+    const track = u.searchParams.get('track_id') ?? '';
+    if (!new RegExp(String.raw`^[0-9a-f]{8,}-${MARKER}$`).test(track) || u.searchParams.get('utm_term') !== 'travelpayouts') {
+      return 'Radical Storage landing has no Travelpayouts track_id — reaches the site but cannot be credited';
+    }
+  }
   return null;
 }
 
@@ -162,6 +170,18 @@ try {
 } catch (e) {
   console.error(`tiqets-link.mjs could not be loaded: ${e.message}`);
   links.set('tiqets-link.mjs failed to load', 'src/lib/tiqets-link.mjs');
+}
+
+// Radical Storage (luggage storage, 2026-10-04): a deep link built in code like
+// Tiqets, so it is built here with the site's own function and followed.
+try {
+  const { radicalStorageUrl } = await import(new URL('../src/lib/radical-storage.mjs', import.meta.url));
+  let u = radicalStorageUrl({ slug: 'london', subId: 'status_check' });
+  if (process.env.TIQETS_BASE) u = u.replace('https://tp.media', process.env.TIQETS_BASE);
+  links.set(u, 'src/lib/radical-storage.mjs');
+} catch (e) {
+  console.error(`radical-storage.mjs could not be loaded: ${e.message}`);
+  links.set('radical-storage.mjs failed to load', 'src/lib/radical-storage.mjs');
 }
 
 const rows = [];

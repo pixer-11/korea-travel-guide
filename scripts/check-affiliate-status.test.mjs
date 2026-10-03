@@ -23,6 +23,12 @@ function server(mode) {
       res.writeHead(302, { Location: target });
       return res.end();
     }
+    if (req.url.startsWith('/r?') && req.url.includes('p=5867')) {
+      // Radical Storage deep link (luggage, 10-04). 'notrack' = lands without our track_id.
+      const rs = mode.storage === 'notrack' ? 'https://radicalstorage.com/luggage-storage/london?utm_term=travelpayouts&q=754088' : 'https://radicalstorage.com/luggage-storage/london?track_id=0b98df93356e44238e414b889-754088&utm_term=travelpayouts';
+      res.writeHead(302, { Location: rs });
+      return res.end();
+    }
     if (req.url.startsWith('/r?')) {
       // Tiqets deep link (tp.media/r). 'nomarker' = the program stopped crediting us.
       const tq = mode.tiqets === 'nomarker' ? '/end-without-marker' : mode.tiqets === 'stray' ? 'https://www.tiqets.com/en/?q=754088' : 'https://www.tiqets.com/en/?partner=travelpayouts.com&tq_campaign=abc-754088';
@@ -71,7 +77,14 @@ async function run(mode) {
 test('정상 토큰 링크 + 정상 위젯은 통과한다', async () => {
   const r = await run({ aid: GOOD_AID, widget: 'ok' });
   assert.equal(r.code, 0, r.out);
-  assert.match(r.out, /ok=3 broken=0/);
+  assert.match(r.out, /ok=4 broken=0/);
+  assert.match(r.out, /✅ \S+p=5867\S+ {2}— radicalstorage\.com/);
+});
+
+test('짐보관 도착지에 우리 track_id 가 없으면 754088 이 보여도 실패다 (10-04)', async () => {
+  const r = await run({ aid: GOOD_AID, widget: 'ok', storage: 'notrack' });
+  assert.equal(r.code, 1, r.out);
+  assert.match(r.out, /Radical Storage landing has no Travelpayouts track_id/);
 });
 
 test('추적 토큰이 빈 Klook 주소는 754088 이 보여도 실패다', async () => {
