@@ -24,12 +24,20 @@ const KO_WANSUNG = new Set(readFileSync(new URL('../../src/data/ko-wansung.txt',
 // 뱡: 뱡뱡면 (biangbiang noodles, Xi'an) — the gate held a correct Opus
 // translation of xi-an-beiyuanmen on it (2026-09-28 A/B).
 export const KO_EXTENDED_OK = new Set([...'웻똠쩻뻄뻭녓얙뻉뜽냣셱췩뱡']);
+// Whole words, for a syllable that is a typo everywhere else: 됭 is 된 mangled
+// in 됭장 (Codex, 10-03), but 베르됭 (Verdun — Nicholas of Verdun, goldsmith of
+// Cologne's Shrine of the Three Kings) is the standard spelling; the Cologne
+// posts were retranslated three times over it.
+export const KO_WORDS_OK = ['베르됭'];
+const okWords = new RegExp(KO_WORDS_OK.join('|'), 'g');
 
 // Every broken syllable in `text`, each with a little context so a human can see
 // the word it belongs to.
 export function koBrokenSyllables(text) {
   const bad = [];
-  for (const m of String(text ?? '').matchAll(/[가-힣]/g)) {
+  // Same length, so the context below still points at the right place.
+  const scan = String(text ?? '').replace(okWords, (w) => '가'.repeat(w.length));
+  for (const m of scan.matchAll(/[가-힣]/g)) {
     const ch = m[0];
     if (KO_WANSUNG.has(ch) || KO_EXTENDED_OK.has(ch)) continue;
     bad.push(`${ch} — ${text.slice(Math.max(0, m.index - 12), m.index + 13).replace(/\n/g, ' ')}`);

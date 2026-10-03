@@ -146,3 +146,20 @@ test('역방향: 굵은 글씨 밖의 기울임과 목록 기호는 지우지 �
   const out = fixCjkBoldLine(list);
   assert.ok(out.startsWith('* Visita *Xantho* y '), `목록 기호·앞 기울임이 망가졌다: ${out}`);
 });
+
+test('two bold spans on one line: each keeps its own closer (zh Mustafa, 10-03)', () => {
+  // The first span's closer and the second span's opener used to be taken for
+  // a pair, every rule failed, and the translation was refused three times.
+  const zh = '时间很好安排。**工作日上午11点到晚上11点最清静**，所以平日都比周末好。**周末请在上午11点到下午1点之间来。**尽量不要周六去。';
+  const out = fixCjkBoldLine(zh);
+  assert.ok(rendersBold(out), out);
+  assert.equal(out, '时间很好安排。**工作日上午11点到晚上11点最清静**，所以平日都比周末好。**周末请在上午11点到下午1点之间来**。尽量不要周六去。');
+  const mixed = fixCjkBoldLine('**赞索号（SS Xantho）**早期蒸汽船。**二号船。**再来');
+  assert.equal(mixed, '**赞索号**（SS Xantho）早期蒸汽船。**二号船**。再来');
+});
+
+test('pairing leaves *** lines and fenced code alone (Codex, 10-03)', () => {
+  assert.equal(fixCjkBoldLine('**A**，B。***C。***D'), '**A**，B。***C。***D');
+  const fenced = '```\n**A**，B。**C。**D\n```';
+  assert.equal(fixCjkBold(fenced), fenced);
+});

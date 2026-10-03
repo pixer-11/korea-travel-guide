@@ -16,6 +16,10 @@ test('allows the loanword syllables Thai and Vietnamese names need', () => {
   assert.deepEqual(koBrokenSyllables('똠얌꿍과 왓 쩻 욧, 프라웻 지구'), []);
 });
 
+test('allows 베르됭 (Verdun), the standard spelling the Cologne posts use (10-03)', () => {
+  assert.deepEqual(koBrokenSyllables('금세공인 베르됭의 니콜라가 1190년에 만들었다'), []);
+});
+
 test('the write gate reads every field, not just the body', () => {
   const out = {
     title: '깨끗한 제목',
@@ -33,4 +37,8 @@ test('the write gate stays quiet on a clean translation', () => {
 
 test('the same broken syllable twice is reported once', () => {
   assert.deepEqual(koMangledSyllables({ title: '장소쯽', body: '장소쯽으로' }), ['쯽']);
+});
+
+test('됭 is allowed only inside 베르됭 — 됭장 is still a typo (Codex, 10-03)', () => {
+  assert.deepEqual(koBrokenSyllables('됭장찌개'), ['됭 — 됭장찌개']);
 });

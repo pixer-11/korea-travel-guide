@@ -71,19 +71,58 @@ const SEQUENCES = [[PAREN], [PUNCT], [LEAD, TRAIL], [LEAD], [TRAIL], [PAREN, PUN
  * nothing wrong with it, or when no rewrite makes it render — a line we cannot
  * fix is left exactly as the translator wrote it rather than mangled.
  */
+// The regexes above look at one span at a time, so with two bold spans on a
+// line PUNCT can take the FIRST span's closer and the SECOND span's opener for
+// a pair — "…时候**，所以…比周末好。**周末…" — and every sequence fails. The zh
+// Mustafa's kebab guide was refused three times on exactly that (10-03), and
+// shipped with no Chinese page. Pairing the markers in order (1st with 2nd,
+// 3rd with 4th) and moving each span's trailing punctuation out cannot cross
+// spans. Tried first; the per-span rules stay for what this does not cover.
+// Sentence punctuation only. A closing bracket or quote has its opener inside
+// the span, and moving just the closer out splits the pair — PAREN and TRAIL
+// below handle those whole.
+const TRAIL_PUNCT = /[、。，,.:：;；!！?？…·]+$/;
+function pairwise(line) {
+  // *** (bold + italic) and `code` split differently from a plain ** pair;
+  // leave those lines to the per-span rules (Codex, 10-03: ***C。*** came out
+  // as ***C**。* with the italic stars showing).
+  if (line.includes('***') || line.includes('`')) return line;
+  const parts = line.split('**');
+  if (parts.length % 2 === 0) return line; // an odd number of markers: no pairing to trust
+  for (let i = 1; i < parts.length; i += 2) {
+    const m = TRAIL_PUNCT.exec(parts[i]);
+    if (!m || m.index === 0 || /^\s/.test(parts[i + 1] ?? '')) continue;
+    parts[i] = parts[i].slice(0, m.index);
+    parts[i + 1] = m[0] + parts[i + 1];
+  }
+  return parts.join('**');
+}
+
 export function fixCjkBoldLine(line) {
   if (!line.includes('**') || rendersBold(line)) return line;
-  for (const seq of SEQUENCES) {
-    let candidate = line;
-    for (const re of seq) candidate = candidate.replace(re, MOVES.get(re));
-    if (candidate !== line && rendersBold(candidate)) return candidate;
+  const paired = pairwise(line);
+  if (paired !== line && rendersBold(paired)) return paired;
+  // The per-span rules, on the line as written and then on the paired one (a
+  // bracket in one span, a full stop in another).
+  for (const start of paired !== line ? [line, paired] : [line]) {
+    for (const seq of SEQUENCES) {
+      let candidate = start;
+      for (const re of seq) candidate = candidate.replace(re, MOVES.get(re));
+      if (candidate !== line && rendersBold(candidate)) return candidate;
+    }
   }
   return line;
 }
 
 /** Same, over a whole body. Line-by-line: bold never spans a line break. */
 export function fixCjkBold(body) {
-  return String(body ?? '').split('\n').map(fixCjkBoldLine).join('\n');
+  // Lines inside a fenced code block are code: a ** there is literal, and a
+  // line read on its own cannot know it is fenced (Codex, 10-03).
+  let fenced = false;
+  return String(body ?? '').split('\n').map((line) => {
+    if (/^\s*(```|~~~)/.test(line)) { fenced = !fenced; return line; }
+    return fenced ? line : fixCjkBoldLine(line);
+  }).join('\n');
 }
 
 // The whole-body check the audit and the translator share, so the two cannot
