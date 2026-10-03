@@ -69,9 +69,19 @@ function contentLastmod() {
 // festival keeps its page indexed after this year's edition ends. This filter
 // did not know that and dropped them anyway — indexable pages we never
 // submitted (found 2026-08-06). Both sides now read isRecurringEvent.
+// ONE "today" for the whole build (2026-10-03). The sitemap's noindex list is
+// computed when this file loads; the event pages decide their own noindex
+// while rendering, minutes later; the feed audit runs after both. A build that
+// crossed 00:00 UTC (09:00 KST) put two events that ended on 10-02 in the
+// sitemap (still "today") while their pages said noindex (already "past").
+// Fixed here, read by src/lib/eventStatus.ts, and written to dist/build-day.txt
+// for scripts/audit-feed-noindex.mjs.
+process.env.WA_BUILD_DAY ||= new Date().toISOString().slice(0, 10);
+export const BUILD_DAY = process.env.WA_BUILD_DAY;
+
 function noindexSlugs() {
   const out = new Set();
-  const today = new Date().toISOString().slice(0, 10);
+  const today = BUILD_DAY;
   try {
     const dir = join(__dirname, 'src/content/posts');
     for (const f of readdirSync(dir)) {
@@ -772,6 +782,7 @@ export default defineConfig({
       },
     }),
     regionRedirectsIntegration(),
+    { name: 'build-day', hooks: { 'astro:build:done': ({ dir }) => writeFileSync(fileURLToPath(new URL('build-day.txt', dir)), BUILD_DAY + String.fromCharCode(10)) } },
     trailingSlashIntegration(),
     sitemapSplitIntegration(),
   ],

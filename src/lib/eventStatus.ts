@@ -8,13 +8,21 @@ type EventDates = { category?: string; eventEndDate?: Date | string | null; even
 
 const dayStr = (d: Date) => d.toISOString().slice(0, 10);
 
-export function isEventPast(data: EventDates, today = new Date()): boolean {
+// The build's one "today" (astro.config.mjs sets WA_BUILD_DAY before any page
+// renders), so a build that crosses 00:00 UTC cannot call an event live in the
+// sitemap and past on its page. Outside a build (tests, scripts) it is now.
+function buildToday(): Date {
+  const day = typeof process !== 'undefined' ? process.env?.WA_BUILD_DAY : undefined;
+  return day && /^\d{4}-\d{2}-\d{2}$/.test(day) ? new Date(`${day}T12:00:00Z`) : new Date();
+}
+
+export function isEventPast(data: EventDates, today = buildToday()): boolean {
   if (data.category !== 'event' || !data.eventEndDate) return false;
   const end = dayStr(new Date(data.eventEndDate));
   return end < dayStr(today);
 }
 
-export function isEventUpcoming(data: EventDates, today = new Date()): boolean {
+export function isEventUpcoming(data: EventDates, today = buildToday()): boolean {
   return data.category === 'event' && !!data.eventEndDate && !isEventPast(data, today);
 }
 
@@ -31,14 +39,14 @@ export function isEventUpcoming(data: EventDates, today = new Date()): boolean {
 // Any new feed must import this rather than re-derive the rule.
 export function isNoindexedPost(
   data: EventDates & { title?: string; eventRecurring?: boolean },
-  today = new Date(),
+  today = buildToday(),
 ): boolean {
   return isEventPast(data, today) && !isRecurringEvent({ ...data, title: data.title });
 }
 
 // Sort key: soonest upcoming first; past events sink to the bottom (by most-recent
 // end first, so the last-finished shows before older ones).
-export function eventSortValue(data: EventDates, today = new Date()): number {
+export function eventSortValue(data: EventDates, today = buildToday()): number {
   const start = data.eventStartDate ? new Date(data.eventStartDate).getTime() : Number.MAX_SAFE_INTEGER;
   return isEventPast(data, today) ? Number.MAX_SAFE_INTEGER - start : start;
 }

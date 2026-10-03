@@ -26,7 +26,11 @@ import { isRecurringEvent } from '../src/lib/eventRecurrence.mjs';
 
 const DIST = process.argv.includes('--dist') ? process.argv[process.argv.indexOf('--dist') + 1] : 'dist';
 const POSTS = 'src/content/posts';
-const today = new Date().toISOString().slice(0, 10);
+// The day the build used (astro.config.mjs writes it), not the day this audit
+// happens to run: a build that crosses 00:00 UTC is otherwise judged against a
+// different "today" than the one that decided its pages (10-03).
+const stamped = existsSync(join(DIST, 'build-day.txt')) ? readFileSync(join(DIST, 'build-day.txt'), 'utf8').trim() : '';
+const today = /^\d{4}-\d{2}-\d{2}$/.test(stamped) ? stamped : new Date().toISOString().slice(0, 10);
 
 // Frontmatter reader kept deliberately dumb and dependency-free — the same
 // shape astro.config.mjs uses, so this audit can run before/without a build of
