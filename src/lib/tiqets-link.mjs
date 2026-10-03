@@ -4,7 +4,10 @@
 //  2026-10-01 픽서님 대시보드 확인: GetYourGuide·Viator(8%)는 "3개월 연속
 //  트래픽" 심사에 잠겨 있고, 같은 계정에서 **Tiqets(3.5–8%, 쿠키 30일)는
 //  연결돼 있다**. Klook(2–5%)은 아시아에 강하고 유럽·미국 상품은 얇다 →
-//  이 지역은 Tiqets 가 같은 클릭에 더 많이 번다. 아시아·호주는 Klook 그대로.
+//  이 지역은 Tiqets 가 같은 클릭에 더 많이 번다. 아시아는 Klook 그대로.
+//  호주(10-04, 픽서님 "순서대로 다 처리해")는 Tiqets 상품이 충분한 4개 도시만
+//  (도시 페이지의 장소 수: 시드니 25 · 케언스 20 · 멜버른 14 · 골드코스트 10).
+//  브리즈번 1 · 퍼스·애들레이드·호바트·다윈·앨리스스프링스 0 → Klook 그대로.
 //
 //  링크 형식은 Travelpayouts 딥링크(p=2074 Tiqets, campaign_id=89).
 //  curl 로 확인(10-01): 302 → tiqets.com/…?partner=travelpayouts.com&
@@ -55,6 +58,12 @@ export const TIQETS_CITY = {
   "Antalya": { id: 78987, slug: "antalya-attractions-c78987", country: "Turkey" },
   "Bodrum": { id: 78967, slug: "bodrum-attractions-c78967", country: "Turkey" },
   "Istanbul": { id: 79079, slug: "istanbul-attractions-c79079", country: "Turkey" },
+  // Australia — pages checked for their own sights (Opera House, Sea World,
+  // Kuranda, Great Ocean Road), so not Perth, Scotland and the like
+  "Cairns": { id: 60466, slug: "cairns-attractions-c60466", country: "Australia" },
+  "Gold Coast": { id: 60442, slug: "gold-coast-attractions-c60442", country: "Australia" },
+  "Melbourne": { id: 60426, slug: "melbourne-attractions-c60426", country: "Australia" },
+  "Sydney": { id: 60400, slug: "sydney-attractions-c60400", country: "Australia" },
   // United Arab Emirates
   "Abu Dhabi": { id: 60013, slug: "abu-dhabi-attractions-c60013", country: "United Arab Emirates" },
   "Dubai": { id: 60005, slug: "dubai-attractions-c60005", country: "United Arab Emirates" },
@@ -113,4 +122,82 @@ export function tiqetsCityUrl({ city, country, lang, subId }) {
 export function affiliateBrand(href, lang) {
   if (/tiqets\.com/.test(String(href ?? ''))) return 'Tiqets';
   return lang === 'ko' ? '클룩' : 'Klook';
+}
+
+
+// ─────────────────────────────────────────────────────────────
+//  명소 글의 "입장권" 버튼 → 그 명소의 Tiqets 상품 페이지 (2026-10-04).
+//  그 전엔 콜로세움 글도 "로마 전체" 페이지로 갔다(코덱스 수익화 검토).
+//
+//  추측이 아니다: Tiqets 장소 사이트맵(site-map-location-en, 7,707곳)과 글의
+//  place.name 을 정확히 맞추고, 티켓 페이지(-tickets-l…)만, 페이지 제목의
+//  도시가 글의 도시와 같은 것만 남겼다. 빠진 것: 말라가 "Alcazaba"(그라나다
+//  알카사바 페이지), 맨체스터 "Alexandra Park"(런던), Oak Alley(Vacherie),
+//  로마 "Pantheon"(파리 팡테옹 페이지). 무료 장소(로열 마일·술탄아흐메트
+//  광장·그랜드 바자르·트레비 분수·대운하·보르게세 공원·리딩 터미널 마켓)는
+//  유료 상품을 붙이지 않는다 — 도시 페이지 그대로. 입장이 무료인 곳도 같다(코덱스
+//  10-04): 대영박물관·그리피스 천문대·노트르담은 유료 투어만 파는 페이지라 뺐다. 언어 주소는 /en/ 을
+//  바꿔도 Tiqets 가 그 언어로 보낸다(es 는 entradas-coliseo-de-roma 로 리다이렉트).
+//  키 = 글 id. 새 명소 글은 같은 방식으로 한 줄씩.
+// ─────────────────────────────────────────────────────────────
+export const TIQETS_VENUE = {
+  "abu-dhabi-louvre-abu-dhabi": "louvre-abu-dhabi-tickets-l146406", // Abu Dhabi — Louvre Abu Dhabi
+  "abu-dhabi-qasr-al-hosn": "qasr-al-hosn-tickets-l163762", // Abu Dhabi — Qasr Al Hosn
+  "austin-neill-cochran-house-museum": "neill-cochran-house-museum-tickets-l192778", // Austin — Neill-Cochran House Museum
+  "barcelona-casa-batllo": "casa-batllo-tickets-l141895", // Barcelona — Casa Batlló
+  "barcelona-mirador-torre-glories": "mirador-torre-glories-tickets-l192949", // Barcelona — Mirador Torre Glòries
+  "barcelona-museu-nacional-d-art-de-catalunya": "museu-nacional-dart-de-catalunya-tickets-l146144", // Barcelona — Museu Nacional d'Art de Catalunya
+  "barcelona-park-guell": "park-guell-tickets-l141902", // Barcelona — Park Güell
+  "belfast-titanic-belfast": "titanic-belfast-tickets-l145901", // Belfast — Titanic Belfast
+  "boston-the-paul-revere-house": "paul-revere-house-tickets-l242969", // Boston — The Paul Revere House
+  "brighton-brighton-i360": "brighton-i360-tickets-l151387", // Brighton — Brighton i360
+  // Australia (10-04): Darling Harbour (free waterfront) and the National
+  // Gallery of Victoria (free general entry) keep the city page.
+  "cairns-cairns-aquarium": "cairns-aquarium-tickets-l159870", // Cairns — Cairns Aquarium
+  "melbourne-melbourne-museum": "melbourne-museum-tickets-l230095", // Melbourne — Melbourne Museum
+  "melbourne-melbourne-skydeck": "melbourne-skydeck-tickets-l147381", // Melbourne — Melbourne Skydeck
+  "cordoba-alcazar-de-los-reyes-cristianos": "alcazar-de-los-reyes-cristianos-tickets-l146379", // Cordoba — Alcázar de los Reyes Cristianos
+  "florence-boboli-gardens": "boboli-gardens-tickets-l144784", // Florence — Boboli Gardens
+  "florence-palazzo-vecchio": "palazzo-vecchio-tickets-l145924", // Florence — Palazzo Vecchio
+  "granada-alhambra": "alhambra-tickets-l145851", // Granada — Alhambra
+  "las-vegas-springs-preserve": "springs-preserve-tickets-l146463", // Las Vegas — Springs Preserve
+  "las-vegas-the-mob-museum": "the-mob-museum-tickets-l146070", // Las Vegas — The Mob Museum
+  "london-london-eye": "london-eye-tickets-l133176", // London — London Eye
+  "madrid-royal-palace-of-madrid": "royal-palace-of-madrid-tickets-l454", // Madrid — Royal Palace of Madrid
+  "malaga-museo-carmen-thyssen-malaga": "museo-carmen-thyssen-malaga-tickets-l145949", // Malaga — Museo Carmen Thyssen Málaga
+  "milan-duomo-di-milano": "duomo-di-milano-tickets-l145637", // Milan — Duomo di Milano
+  "milan-pinacoteca-di-brera": "pinacoteca-di-brera-tickets-l240644", // Milan — Pinacoteca di Brera
+  "naples-catacombs-of-san-gennaro": "catacombs-of-san-gennaro-tickets-l146325", // Naples — Catacombs of San Gennaro
+  "nashville-cheekwood": "cheekwood-tickets-l243782", // Nashville — Cheekwood
+  "new-orleans-the-national-wwii-museum": "the-national-wwii-museum-tickets-l147305", // New Orleans — The National WWII Museum
+  "new-york-one-world-observatory": "one-world-observatory-tickets-l145522", // New York — One World Observatory
+  "new-york-statue-of-liberty": "statue-of-liberty-tickets-l145521", // New York — Statue of Liberty
+  "new-york-the-metropolitan-museum-of-art": "the-metropolitan-museum-of-art-tickets-l145523", // New York — The Metropolitan Museum of Art
+  "paris-arc-de-triomphe": "arc-de-triomphe-tickets-l141732", // Paris — Arc de Triomphe
+  "paris-eiffel-tower": "eiffel-tower-tickets-l144586", // Paris — Eiffel Tower
+  "paris-louvre-museum": "louvre-museum-tickets-l124297", // Paris — Louvre Museum
+  "paris-musee-de-l-orangerie": "musee-de-lorangerie-tickets-l145770", // Paris — Musée de l'Orangerie
+  "paris-palace-of-versailles": "palace-of-versailles-tickets-l141873", // Paris — Palace of Versailles
+  "paris-pantheon": "pantheon-tickets-l145950", // Paris — Panthéon
+  "paris-sainte-chapelle": "sainte-chapelle-tickets-l145802", // Paris — Sainte-Chapelle
+  "rome-colosseum": "colosseum-tickets-l145769", // Rome — Colosseum
+  "rome-roman-forum": "roman-forum-tickets-l146049", // Rome — Roman Forum
+  "seville-la-giralda": "la-giralda-tickets-l245951", // Seville — La Giralda
+  "seville-palacio-de-las-duenas": "palacio-de-las-duenas-tickets-l151950", // Seville — Palacio de las Dueñas
+  "seville-royal-alcazar-of-seville": "royal-alcazar-of-seville-tickets-l146992", // Seville — Royal Alcázar of Seville
+  "siena-santa-maria-della-scala": "santa-maria-della-scala-tickets-l146940", // Siena — Santa Maria della Scala
+  "toledo-alcazar-de-toledo": "alcazar-de-toledo-tickets-l147761", // Toledo — Alcázar de Toledo
+  "valencia-ciudad-de-las-artes-y-las-ciencias": "ciudad-de-las-artes-y-las-ciencias-tickets-l146904", // Valencia — Ciudad de las Artes y las Ciencias
+  "verona-castelvecchio-museum": "castelvecchio-museum-tickets-l251581", // Verona — Castelvecchio Museum
+  "york-york-minster": "york-minster-tickets-l147676", // York — York Minster
+};
+
+/** 그 글의 명소 상품 페이지 딥링크, 없으면 null(부르는 쪽이 도시 페이지로). */
+export function tiqetsVenueUrl({ postId, lang, subId }) {
+  const slug = TIQETS_VENUE[String(postId ?? '')];
+  if (!slug) return null;
+  const l = TIQETS_LANGS.has(lang) ? lang : 'en';
+  const to = `https://www.tiqets.com/${l}/${slug}/`;
+  const sub = subId ? `&sub_id=${String(subId).toLowerCase().replace(/[^a-z0-9]+/g, '_').replace(/^_+|_+$/g, '').slice(0, 80)}` : '';
+  return `https://tp.media/r?marker=754088&trs=553157&p=2074&campaign_id=89${sub}&u=${encodeURIComponent(to)}`;
 }

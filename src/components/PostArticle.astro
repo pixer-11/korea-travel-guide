@@ -39,7 +39,7 @@ import { tripHoursAndQuiet, tripExtra } from '../lib/tripSave';
 import { shortPlaceLabel } from '../lib/placeLabel.mjs';
 import ogMirror from '../../data/og-mirror.json';
 import { klookCityDest } from '../lib/klookCities';
-import { tiqetsCityUrl } from '../lib/tiqets-link.mjs';
+import { tiqetsCityUrl, tiqetsVenueUrl } from '../lib/tiqets-link.mjs';
 import CrowdBlock from './post/CrowdBlock.astro';
 import PostSidebar from './post/PostSidebar.astro';
 import { venueTimeZone } from '../lib/venue-tz.mjs';
@@ -231,9 +231,12 @@ const klookTop = tiqetsTop ?? `/go/klook?to=${encodeURIComponent(klookCityDest(d
 // Place-specific "get tickets" link (the sidebar card) — only for ticketable
 // categories, keyed to the venue name itself.
 const ticketable = ['attraction', 'trendy', 'hidden-gem'].includes(d.category);
-const klookPlace = p?.name && !tiqetsTop
+// The place's own Tiqets product page where one was matched and checked
+// (TIQETS_VENUE, 10-04): "Tickets for the Colosseum" went to all of Rome.
+const tiqetsVenue = ticketable ? tiqetsVenueUrl({ postId: post.id, lang, subId: 'post_place' }) : null;
+const klookPlace = tiqetsVenue ?? (p?.name && !tiqetsTop
   ? `/go/klook?to=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${p.name}`)}`
-  : klookTop;
+  : klookTop);
 
 // Currency-neutral relative price scale (like Google Maps' $–$$$$ worldwide).
 // Was Korean ₩ hardcoded — wrong on every non-Korea venue (e.g. a Tokyo café).
