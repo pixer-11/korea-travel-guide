@@ -14497,11 +14497,11 @@
   "at": "2026-08-15T03:12:08.552Z"
  },
  "ja/valencia-museo-de-las-ciencias-principe-felipe": {
-  "hash": "6b1ba2567853",
+  "hash": "fc50fbf85c8a",
   "score": 1,
   "registerBreak": false,
-  "worst": "この博物館自体の来場者の動向パターンを見れば、タイミングの判断は簡単です。",
-  "at": "2026-08-15T03:12:03.887Z"
+  "worst": "この博物館では、入口にたどり着くよりずっと前から建物そのものが見せ場になっています。",
+  "at": "2026-10-03T13:00:57.723Z"
  },
  "ja/valencia-tapas-boatella": {
   "hash": "24276c9d407c",
@@ -22190,11 +22190,11 @@
   "at": "2026-08-15T02:41:22.412Z"
  },
  "ko/valencia-museo-de-las-ciencias-principe-felipe": {
-  "hash": "bc75ea800133",
+  "hash": "8231f72a01dd",
   "score": 1,
   "registerBreak": false,
-  "worst": "펠릭스 칸델라(Félix Candela)와 산티아고 칼라트라바(Santiago Calatrava)는 이 건물을 마치 하얗게 바랜 고래의 뼈대처럼 보이도록 설계했는데",
-  "at": "2026-08-15T02:41:47.800Z"
+  "worst": "그중에서도 지적인 중심은 프린시페 펠리페 과학관입니다.",
+  "at": "2026-10-03T13:01:11.318Z"
  },
  "ko/valencia-tapas-boatella": {
   "hash": "5a313c5502fb",
@@ -22204,11 +22204,11 @@
   "at": "2026-08-15T06:21:43.891Z"
  },
  "ko/valencia-torres-de-serranos": {
-  "hash": "478a405ef5ea",
+  "hash": "e5d21952e375",
   "score": 1,
   "registerBreak": false,
-  "worst": "두 개의 각진 총안 탑이 마치 돌로 만든 배의 뱃머리처럼 보이는데, 연한 석회석 표면은 수백 년간 햇볕에 닳아 꿀빛으로 물들어",
-  "at": "2026-08-15T02:41:46.672Z"
+  "worst": "광장 위로 솟은 네모난 두 개의 탑에는 총안이 줄지어 있어 마치 돌로 만든 배의 뱃머리처럼 보입니다.",
+  "at": "2026-10-03T13:01:16.575Z"
  },
  "ko/varanasi-chet-singh-ghat-varanasi": {
   "hash": "1b462299433c",
@@ -29099,11 +29099,11 @@
   "at": "2026-08-15T04:18:40.513Z"
  },
  "zh/valencia-museo-de-las-ciencias-principe-felipe": {
-  "hash": "2908d843d9f2",
+  "hash": "2b7aa05c011a",
   "score": 1,
   "registerBreak": false,
-  "worst": "馆内的咖啡厅和礼品店大多数游客都使用银行卡或手机非接触支付——无需携带现金。",
-  "at": "2026-08-15T04:18:41.970Z"
+  "worst": "博物馆的客流规律很清晰，什么时候去并不难决定。",
+  "at": "2026-10-03T13:01:27.654Z"
  },
  "zh/valencia-tapas-boatella": {
   "hash": "dd3092ef0d20",
@@ -29113,11 +29113,11 @@
   "at": "2026-08-16T11:07:46.686Z"
  },
  "zh/valencia-torres-de-serranos": {
-  "hash": "6748f6db9a50",
+  "hash": "eafa4e91ac5e",
   "score": 1,
   "registerBreak": false,
-  "worst": "许多游客常犯的错误，是把这里当作在广场下方拍五分钟照片的\"打卡点\"——真正的精彩在塔顶",
-  "at": "2026-08-15T04:18:42.492Z"
+  "worst": "记得带些零钱或银行卡，因为瓦伦西亚各处古迹的售票处往往更喜欢非接触式支付。",
+  "at": "2026-10-03T13:01:32.691Z"
  },
  "zh/varanasi-chet-singh-ghat-varanasi": {
   "hash": "9983e4c3153c",
@@ -31393,5 +31393,54 @@
   "registerBreak": false,
   "worst": "记得找一找“普雷斯顿双子榆”（Preston Twins）仅存的那一棵。",
   "at": "2026-10-03T08:00:39.848Z"
+ },
+ "es/dubai-najwa-karam-live-in-dubai": {
+  "hash": "25dd7980632b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Era, por tanto, una parada natural antes del concierto para un público que ya llegaba...",
+  "at": "2026-10-03T13:00:46.212Z"
+ },
+ "es/leipzig-leipzig-panometer": {
+  "hash": "04a3aada33c0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "llegue justo a la apertura, a las 10am, y disfrutará de un rato casi en solitario",
+  "at": "2026-10-03T13:00:47.225Z"
+ },
+ "es/madrid-evanescence-madrid-2026": {
+  "hash": "239a6f7b6ca2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Las webs de reventa toman el valor nominal como referencia para fijar sus precios, no para igua",
+  "at": "2026-10-03T13:02:33.583Z"
+ },
+ "ja/leipzig-leipzig-panometer": {
+  "hash": "3c988d7fb188",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-03T13:00:56.332Z"
+ },
+ "ja/valencia-torres-de-serranos": {
+  "hash": "28fe79b6f68a",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "最も混み合うのは、土曜の正午〜午後6時と、日曜の午後2時の閉館前の午前中です。",
+  "at": "2026-10-03T13:01:06.428Z"
+ },
+ "ko/leipzig-leipzig-panometer": {
+  "hash": "446422b06eea",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "난간 앞자리는 다른 사람이 사진을 다 찍은 뒤에 차지하시고, 조명이 어두워지면 목소리를 낮춰 주시기 바랍니다.",
+  "at": "2026-10-03T13:01:07.724Z"
+ },
+ "zh/leipzig-leipzig-panometer": {
+  "hash": "faa7adedfdb3",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "德国至今比许多国家更依赖现金，最好备些欧元以防万一。",
+  "at": "2026-10-03T13:01:19.532Z"
  }
 }

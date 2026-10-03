@@ -1,57 +1,61 @@
 ---
 lang: es
 slug: valencia-torres-de-serranos
-srcHash: '92759c145d0d'
-title: 'Torres de Serranos: Guía de viaje de Valencia (4.6★)'
-description: 'Torres de Serranos es una puerta-torre gótica del siglo XIV que custodiaba la antigua entrada a la Valencia medieval, y merece la pena dedicar una hora a subir por la escalera de caracol para disfrutar de la panorámica desde la azotea sobre los jardines del cauce del Turia y las cúpulas de azulejos del casco antiguo. 4.6★ (50.473 reseñas): qué dicen los visitantes, horarios y consejos.'
-quickAnswer: Torres de Serranos es una puerta-torre gótica del siglo XIV que custodiaba la antigua entrada a la Valencia medieval, y merece la pena dedicar una hora a subir por la escalera de caracol para disfrutar de la panorámica desde la azotea sobre los jardines del cauce del Turia y las cúpulas de azulejos del casco antiguo. Está tranquilo la mayor parte de la semana de 10:00 a 20:00; la aglomeración llega los fines de semana entre el mediodía y las 18:00, así que ese día conviene ir a primera o última hora. La entrada es económica (a menudo gratuita ciertos días; confirma el horario y el precio actuales antes de ir), y la subida en sí lleva entre 45 y 60 minutos, incluido el tiempo arriba.
+srcHash: '83c21e772ce5'
+title: 'Torres de Serranos: guía para visitarlas en Valencia (4.6★)'
+description: 'Las Torres de Serranos, puerta gótica del siglo XIV, custodiaban la antigua entrada a la Valencia medieval. Merece la pena dedicarles una hora: tras subir su escalera de caracol, la azotea ofrece una panorámica de los jardines del antiguo cauce del Turia y de las cúpulas de azulejos del casco antiguo. 4.6★ (50,473 reseñas): opiniones de los visitantes, horarios y consejos.'
+quickAnswer: 'Las Torres de Serranos, puerta gótica del siglo XIV, custodiaban la antigua entrada a la Valencia medieval. Merece la pena dedicarles una hora: tras subir su escalera de caracol, la azotea ofrece una panorámica de los jardines del antiguo cauce del Turia y de las cúpulas de azulejos del casco antiguo. Casi toda la semana se visitan con tranquilidad de 10am a 7pm (los domingos, de 10am–2pm). Las aglomeraciones llegan los sábados entre el mediodía y las 6pm, así que ese día conviene ir a primera o a última hora. La entrada es económica y algunos días suele ser gratuita, aunque es mejor confirmar el horario y el precio vigentes antes de ir. Entre la subida y el rato en lo alto, la visita lleva unos 45–60 minutos.'
 faq:
-  - q: ¿Cuánto tiempo debería dedicarle a las Torres de Serranos?
-    a: 'Calcula entre 45 y 60 minutos: unos 20 minutos para subir ambas torres por la escalera de caracol, más el tiempo que quieras pasar en las terrazas de la azotea disfrutando de la vista sobre los jardines del Turia y el casco antiguo.'
-  - q: ¿Cuál es el momento más tranquilo para visitarlas?
-    a: Entre semana y los fines de semana, aproximadamente entre las 10:00 y las 20:00, suele estar constantemente más tranquilo. Evita los fines de semana de 12:00 a 18:00, cuando hay más afluencia de grupos turísticos y excursionistas de un día.
+  - q: ¿Cuánto tiempo hay que dedicar a las Torres de Serranos?
+    a: Calcule unos 45–60 minutos. Subir a las dos torres por la escalera de caracol lleva unos 20, y a eso hay que sumar el rato que querrá pasar en las terrazas de la azotea contemplando los jardines del Turia y el casco antiguo.
+  - q: ¿Cuál es el momento más tranquilo para ir?
+    a: Entre semana, aproximadamente de 10am a 7pm, hay siempre menos gente. Lo mismo ocurre los domingos por la mañana, antes del cierre de las 2pm. Conviene evitar los sábados de 12 a 6pm, cuando coinciden los grupos organizados y los excursionistas de un día.
   - q: ¿Cómo se llega a las Torres de Serranos?
-    a: Camina por los jardines del cauce del Turia y cruza el Puente de Serranos, que te deja justo en la entrada. En metro, la estación de Alameda (líneas 3/5) está a unos 15 minutos a pie.
+    a: Lo más cómodo es atravesar a pie los jardines del antiguo cauce del Turia y cruzar el Puente de Serranos, que desemboca justo en la entrada. En metro, la estación de Alameda (líneas 3/5) queda a unos 15 minutos andando.
   - q: ¿Hay que pagar entrada?
-    a: La entrada suele ser de bajo coste y algunos monumentos municipales de Valencia ofrecen entrada gratuita en ciertos días; comprueba el precio y el horario actuales antes de tu visita, ya que pueden cambiar.
-  - q: ¿Es accesible para personas con movilidad reducida?
-    a: 'No: la única forma de subir es una estrecha escalera de caracol de piedra sin ascensor, por lo que no es apta para sillas de ruedas, cochecitos ni personas con dificultad para caminar por escalones irregulares.'
+    a: La entrada suele ser económica, y en Valencia algunos monumentos municipales son gratuitos ciertos días. Como los precios y los horarios pueden cambiar, compruébelos antes de la visita.
+  - q: ¿Son accesibles para personas con movilidad reducida?
+    a: No. Solo se puede subir por una estrecha escalera de caracol de piedra y no hay ascensor, por lo que la visita no es apta para sillas de ruedas ni carritos de bebé, ni para quien se sienta inseguro en escalones irregulares.
 ---
 
 ## Por qué ir
 
-Ves las Torres de Serranos mucho antes de llegar a ellas: dos torres cuadradas y almenadas que se alzan sobre una plaza como la proa de un barco de piedra, su piedra caliza pálida vuelta color miel tras siglos de sol que la han pulido. Esta fue una de las doce puertas de la antigua muralla de Valencia, construida a finales del siglo XIV, y es la mejor conservada de las dos que sobreviven.
+Las Torres de Serranos se divisan mucho antes de llegar a ellas. Sobre la plaza se alzan dos torreones almenados de planta cuadrada, como la proa de un barco de piedra, y siglos de sol han pulido su piedra caliza clara hasta darle un tono miel. Construida a finales del siglo XIV, era una de las doce puertas de la antigua muralla de Valencia, y de las dos que se conservan es la que mejor ha llegado hasta hoy.
 
-A diferencia de muchas atracciones tipo "puerta del casco antiguo" que resultan ser un simple arco al que echas un vistazo y sigues de largo, esta se puede recorrer de verdad: entras, subes y te asomas desde lo alto. La recompensa es una vista de 360 grados: la cinta verde de los antiguos jardines del cauce del Turia a un lado, y la torre del Micalet de la catedral junto al entramado de tejados de Ciutat Vella al otro.
+Muchas de las llamadas «puertas del casco antiguo» se reducen a un simple arco que se mira de pasada. Esta, en cambio, se recorre por dentro, se sube y se pisa en lo más alto. Como recompensa, una vista de 360 grados: a un lado, la franja verde de los jardines del antiguo cauce del Turia; al otro, el Micalet de la catedral y la maraña de tejados de Ciutat Vella.
 
-## Qué verás realmente
+## Qué se ve realmente
 
-Por dentro, las torres están mayormente vacías: sin mobiliario ornamentado, porque durante buena parte de su historia funcionaron como prisión y no como palacio. Esa sensación austera y funcional es parte de su encanto: muros de piedra gruesos, ventanas estrechas en forma de saetera, una escalera de caracol que se va estrechando a medida que subes. Unos paneles a lo largo del recorrido explican el papel de la puerta en la defensa de la ciudad medieval y su etapa posterior como cárcel, que incluyó, según la tradición local, a presos en espera de traslado durante periodos de guerra.
+El interior de las torres está casi desnudo, sin mobiliario ornamental, porque durante largas etapas de su historia no fueron palacio, sino cárcel. Esa austeridad funcional forma parte de su encanto: gruesos muros de piedra, saeteras estrechas y una escalera de caracol que se va estrechando a medida que se asciende. Por el camino, varios paneles explican cómo la puerta defendía la ciudad medieval y cómo se utilizó después como prisión. Según la tradición local, en tiempos de guerra llegó a albergar a presos a la espera de traslado.
 
-Arriba, se abren las amplias terrazas entre las dos torres, y es ahí donde el ritmo se ralentiza: es donde todos los visitantes terminan apoyados en el pretil con el móvil en la mano, y con razón.
+Arriba se abren las amplias terrazas que unen ambas torres, y es aquí donde conviene tomarse las cosas con calma. Todos los visitantes acaban apoyados en el parapeto con el móvil en la mano, y con razón.
 
 ## Cómo llegar
 
-Torres de Serranos se encuentra en C. de la Blanqueria, 1, justo en el límite de Ciutat Vella, donde el casco antiguo se encuentra con los jardines del Turia. La forma más sencilla de llegar a pie es atravesando directamente el parque del cauce del río: cruza por el Puente de Serranos, que te deja casi al pie de las torres.
+Las Torres de Serranos se encuentran en C. de la Blanqueria, 1, en el límite de Ciutat Vella, justo donde el casco antiguo se encuentra con los jardines del Turia. A pie, lo más sencillo es atravesar el parque del antiguo cauce y cruzar el Puente de Serranos, que deja prácticamente al pie de las torres. Quien llegue en metro puede bajarse en la estación de Alameda (líneas 3 y 5) y caminar unos 15 minutos por los jardines.
 
-Si vienes en metro, la estación de Alameda (líneas 3 y 5) está a unos 15 minutos caminando por los jardines, un trayecto agradable en sí mismo, ya que pasas junto a fuentes, senderos bordeados de jacarandas y corredores que atraviesan el antiguo cauce seco. Varias líneas de autobús urbano también paran cerca, en el Paseo de la Pechina. Es un cierre natural para un paseo por el Barrio del Carmen, el barrio bohemio lleno de murales justo dentro de las murallas.
+El paseo es agradable de por sí: se pasa junto a fuentes y senderos bordeados de jacarandas, entre corredores que aprovechan el viejo cauce seco.
+
+También paran cerca, en el Paseo de la Pechina, varias líneas de autobús urbano. Las torres son además el broche natural de un paseo por el Barrio del Carmen, el barrio bohemio y lleno de murales que se extiende justo al otro lado de la muralla.
 
 ## Cuándo ir
 
-Las torres están más concurridas los fines de semana entre el mediodía y las 18:00, cuando los grupos turísticos y los excursionistas de un día coinciden con el público de después de comer; ese es el tramo que conviene evitar si quieres tener la escalera y la azotea para ti solo. Entre semana, y los fines de semana por la mañana y por la tarde-noche, aproximadamente de 10:00 a 20:00, se mantiene notablemente más tranquilo, y además es cuando la luz es mejor para las fotos: el sol de primera hora incidiendo de lado sobre la piedra, o el dorado de última hora de la tarde iluminando la terraza orientada al oeste.
+Los momentos de mayor afluencia son los sábados entre el mediodía y las 6pm y los domingos por la mañana antes del cierre de las 2pm, cuando a los grupos organizados y los excursionistas de un día se suma el público de la sobremesa. Si quiere tener la escalera y la azotea para usted solo, evite esas franjas. Entre semana, aproximadamente de 10am a 7pm, el ambiente es bastante más tranquilo (recuerde que los domingos las torres cierran a las 2pm).
 
-Las tardes de primavera y otoño son especialmente buenas, ya que el calor mediterráneo ya ha aflojado pero todavía hay suficiente luz de día para apreciar bien la vista.
+Además, en esas horas la luz favorece las fotografías: el sol temprano roza en diagonal la piedra y, al final de la tarde, la terraza orientada al oeste se tiñe de dorado.
 
-## Qué combinar cerca
+Las tardes de primavera y otoño resultan especialmente gratas, porque el calor mediterráneo ya ha remitido y aún queda luz suficiente para apreciar bien la vista.
 
-Una vez que hayas bajado, las Torres de Quart, la otra puerta-torre que sobrevive, se encuentran a 15 minutos a pie, al otro lado del casco antiguo, y merece la pena compararlas si tienes tiempo. Justo dentro de las murallas, el Museo Fallero y el museo de arte contemporáneo IVAM están a poca distancia, y el Mercado Central y La Lonja de la Seda (una lonja declarada Patrimonio de la Humanidad por la UNESCO) están un poco más adentro en Ciutat Vella, a un corto paseo.
+## Qué combinar en los alrededores
 
-Calcula una hora para las torres en sí, o inclúyelas en una ruta de medio día por el casco antiguo y los jardines del cauce.
+Al bajar, puede acercarse a las Torres de Quart, la otra puerta que sigue en pie, a 15 minutos a pie en el extremo opuesto del casco antiguo; si dispone de tiempo, compararlas merece la pena. Justo al otro lado de la muralla quedan a mano el Museo Fallero y el IVAM, el museo de arte contemporáneo, y algo más hacia el interior de Ciutat Vella esperan el Mercado Central y La Lonja de la Seda, antigua lonja de contratación declarada Patrimonio de la Humanidad por la UNESCO.
 
-## Cómo visitarlo como un local
+Reserve una hora para las torres o inclúyalas en una ruta de media jornada por el casco antiguo y los jardines del antiguo cauce.
 
-Evita la avalancha del mediodía en fin de semana: los locales que cruzan los jardines suelen pasar por aquí a primera hora de la mañana o cuando refresca al atardecer, ambos momentos coinciden con el tramo más tranquilo de 10:00 a 20:00 que muestran los datos de afluencia. No suele hacer falta reserva formal para una visita de este tamaño: simplemente haces cola en la entrada y pagas al llegar, así que lleva cambio o una tarjeta, ya que las taquillas de los monumentos de Valencia suelen preferir el pago sin contacto.
+## Cómo visitarlas como un valenciano
 
-Vístete pensando en las escaleras: la escalera de caracol es de piedra, irregular en algunos tramos, y no tiene ascensor, así que el calzado plano importa aquí más que en casi cualquier otra parada del casco antiguo. El error más común de los visitantes es tratar esto como una foto rápida de cinco minutos desde la plaza de abajo; la verdadera recompensa está arriba, así que date el tiempo de subir del todo en lugar de admirar las torres solo desde la calle.
+Evite las aglomeraciones del mediodía en fin de semana. Los valencianos que cruzan los jardines suelen pasar por aquí a primera hora o cuando refresca al atardecer, dos momentos que coinciden con la franja más tranquila de 10am–7pm (10am–2pm los domingos) que reflejan los datos de afluencia. Para un monumento de este tamaño no suele hacer falta reserva: basta con hacer cola en la entrada y pagar allí mismo. Lleve monedas o tarjeta, ya que las taquillas de los monumentos valencianos suelen preferir el pago sin contacto.
 
-Confirma en el sitio el horario de apertura y el precio de entrada del día, ya que los monumentos municipales de Valencia los ajustan periódicamente.
+Vístase pensando en los escalones. La escalera de caracol es de piedra, irregular en algunos tramos, y no hay ascensor, así que el calzado plano importa aquí más que en casi cualquier otro rincón del casco antiguo. El error más habitual es quedarse cinco minutos en la plaza para hacer la foto y marcharse. Lo mejor está arriba, de modo que no se limite a admirar las torres desde la calle y suba hasta el final.
+
+Antes de ir, confirme in situ el horario de ese día y el precio de la entrada, porque los monumentos municipales de Valencia los modifican de vez en cuando.

@@ -3046,6 +3046,12 @@
   "reason": "publish gate: Iconic illuminated view of Brandenburg Gate at dusk",
   "at": "2026-10-02T14:00:55.205Z"
  },
+ "berlin-mustafa-s-gemuse-kebap\u0001https://upload.wikimedia.org/wikipedia/commons/0/02/Warteschlange_an_Mustafa%27s_Gem%C3%BCse_Kebap_%28Berlin%2C_2018%29.jpg": {
+  "slug": "berlin-mustafa-s-gemuse-kebap",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows restaurant storefront with sign and queue of customers",
+  "at": "2026-10-03T12:47:56.717Z"
+ },
  "berlin-teufelsberg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Funkturm_Berlin_View_13.jpg/1920px-Funkturm_Berlin_View_13.jpg": {
   "slug": "berlin-teufelsberg",
   "verdict": "MATCH",
@@ -5777,11 +5783,23 @@
   "reason": "publish gate: Representative view of Zwinger courtyard with fountains",
   "at": "2026-10-02T14:07:55.421Z"
  },
+ "dresden-german-hygiene-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Deutsches_Hygienemuseum%2C_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg/1920px-Deutsches_Hygienemuseum%2C_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg": {
+  "slug": "dresden-german-hygiene-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior facade of German Hygiene Museum with signage",
+  "at": "2026-10-03T13:04:14.045Z"
+ },
  "dresden-kunsthofpassage-dresden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dresden_Kunsthofpassage_09_45_16_782000.jpeg/3840px-Dresden_Kunsthofpassage_09_45_16_782000.jpeg": {
   "slug": "dresden-kunsthofpassage-dresden",
   "verdict": "MATCH",
   "reason": "publish gate: Shows distinctive Kunsthofpassage courtyard facade with gold art installation",
   "at": "2026-10-02T14:25:01.286Z"
+ },
+ "dresden-pulverturm\u0001https://upload.wikimedia.org/wikipedia/commons/2/2e/00_8277_Dresden_-_Pulverturm.jpg": {
+  "slug": "dresden-pulverturm",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows restaurant exterior with name 'Pulverturm' visible",
+  "at": "2026-10-03T12:50:19.029Z"
  },
  "dubai-al-bastakiya\u0001https://upload.wikimedia.org/wikipedia/commons/9/95/Camello_y_campamento%2C_Al_Bastakiya%2C_Dubai%2C_2009-11-23%2C_DD_8878.jpg": {
   "slug": "dubai-al-bastakiya",
@@ -6330,6 +6348,12 @@
   "reason": "event-mode back-audit: Concert stage photo of BTS performers, correct event type",
   "at": "2026-08-07T13:03:11.527Z"
  },
+ "frankfurt-kaffeehaus-goldene-waage\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kaffeehaus_Goldene_Waage_2.jpeg/3840px-Kaffeehaus_Goldene_Waage_2.jpeg": {
+  "slug": "frankfurt-kaffeehaus-goldene-waage",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior facade showing venue name and entrance clearly",
+  "at": "2026-10-03T12:45:08.576Z"
+ },
  "frankfurt-main-tower\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Westhafen_Tower_with_river_Main_-_Frankfurt_-_Germany_-_04.jpg/3840px-Westhafen_Tower_with_river_Main_-_Frankfurt_-_Germany_-_04.jpg": {
   "slug": "frankfurt-main-tower",
   "verdict": "MATCH",
@@ -6539,6 +6563,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Authentic representative exterior view of Neuschwanstein Castle",
   "at": "2026-10-03T07:51:11.421Z"
+ },
+ "fussen-restaurant-madame-plusch\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ettal%2C_das_Caf%C3%A9-Restaurant_Madame_Pl%C3%BCsch.JPG/3840px-Ettal%2C_das_Caf%C3%A9-Restaurant_Madame_Pl%C3%BCsch.JPG": {
+  "slug": "fussen-restaurant-madame-plusch",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of restaurant building with visible sign",
+  "at": "2026-10-03T12:53:09.101Z"
  },
  "gangneung-anmok-beach\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Anmok_beach_on_September_7th%2C_2017.jpg/3840px-Anmok_beach_on_September_7th%2C_2017.jpg": {
   "slug": "gangneung-anmok-beach",
@@ -7724,6 +7754,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Plausible square in Heidelberg with fountain and buildings",
   "at": "2026-10-03T07:52:31.834Z"
+ },
+ "heidelberg-vetter-s-alt-heidelberger-brauhaus\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Vetter%27s_Alt_Heidelberger_Brauhaus_%2855058224681%29.jpg/3840px-Vetter%27s_Alt_Heidelberger_Brauhaus_%2855058224681%29.jpg": {
+  "slug": "heidelberg-vetter-s-alt-heidelberger-brauhaus",
+  "verdict": "MATCH",
+  "reason": "publish gate: Brewery pub interior with copper kettle, seating, decor",
+  "at": "2026-10-03T12:54:05.071Z"
  },
  "hiroshima-atomic-bomb-dome\u0001https://fastly.4sqi.net/img/general/original/543114558_1vryFPc80PrOjew5pc6eZ_HXr101udgJoEop9uVvXhE.jpg": {
   "slug": "hiroshima-atomic-bomb-dome",
@@ -12120,6 +12156,12 @@
   "reason": "width upgrade: Paul Ricard circuit grandstands with crowd, matches event venue",
   "at": "2026-08-15T20:34:42.490Z"
  },
+ "leipzig-auerbachs-keller\u0001https://upload.wikimedia.org/wikipedia/commons/e/e4/Szene_aus_Faust_-_Auerbachs_Keller_Leipzig_-_panoramio.jpg": {
+  "slug": "leipzig-auerbachs-keller",
+  "verdict": "MATCH",
+  "reason": "publish gate: Famous entrance statue of Auerbachs Keller, Leipzig",
+  "at": "2026-10-03T12:51:56.580Z"
+ },
  "leipzig-leipzig-panometer\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/LE-Connewitz_Gasometer_I_Panometer-01.jpg/1920px-LE-Connewitz_Gasometer_I_Panometer-01.jpg": {
   "slug": "leipzig-leipzig-panometer",
   "verdict": "MATCH",
@@ -12341,6 +12383,12 @@
   "verdict": "MISMATCH",
   "reason": "Image shows coastal bay, not waterfall",
   "at": "2026-07-25T02:46:05.832Z"
+ },
+ "london-borough-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/London_2018_March_IMG_0663.jpg/1920px-London_2018_March_IMG_0663.jpg": {
+  "slug": "london-borough-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior view of Borough Market with shops and crowd",
+  "at": "2026-10-03T12:43:12.893Z"
  },
  "london-kensington-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Kensington_Gardens_Round_Pond.jpg/3840px-Kensington_Gardens_Round_Pond.jpg": {
   "slug": "london-kensington-gardens",

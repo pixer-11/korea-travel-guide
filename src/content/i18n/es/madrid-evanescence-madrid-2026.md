@@ -1,79 +1,77 @@
 ---
 lang: es
 slug: madrid-evanescence-madrid-2026
-srcHash: '042963d89f36'
+srcHash: '1f796aa488f2'
 title: 'Evanescence en Madrid 2026: fechas, entradas y recinto (Madrid)'
-description: Evanescence actúa en Madrid, España, el 2 de octubre de 2026. Qué es este concierto, cuándo y dónde se celebra, y cómo organizar tu visita.
-quickAnswer: Evanescence toca en Madrid el 2 de octubre de 2026 en el Palacio Vistalegre, con Poppy y Nova Twins como teloneras. Vistalegre se encuentra en el distrito de Carabanchel, a poca distancia a pie de la estación de metro Vista Alegre (Línea 5), así que conviene organizar la ruta en torno a esa estación y no al centro de la ciudad. Confirma en la web oficial la apertura de puertas, los horarios y la disponibilidad de entradas antes de viajar.
+description: Evanescence tenía previsto actuar el 2 de octubre de 2026 en el Palacio Vistalegre Arena de Madrid, con Poppy y Nova Twins como teloneras.
+quickAnswer: El concierto de Evanescence en Madrid estaba programado para el 2 de octubre de 2026 en el Palacio Vistalegre Arena, con Poppy y Nova Twins como teloneras. El recinto se encuentra en el distrito de Carabanchel, a pocos minutos a pie de la estación de metro de Vista Alegre (Línea 5). Por eso, los trayectos hasta el concierto giraban en torno a esa estación y no al centro de la ciudad. Las entradas se vendieron a través de los enlaces oficiales de la gira y del recinto.
 faq:
-  - q: ¿Dónde toca exactamente Evanescence en Madrid en 2026?
-    a: En el Palacio Vistalegre, en el distrito de Carabanchel, al sur del centro de Madrid, el 2 de octubre de 2026.
-  - q: ¿Quién actúa como telonero de Evanescence?
-    a: Poppy y Nova Twins están confirmadas como teloneras para la fecha de Madrid.
-  - q: ¿Cómo se llega al Palacio Vistalegre?
-    a: La forma más sencilla es tomar la Línea 5 de metro hasta la estación Vista Alegre, la parada más cercana, aunque también puede usarse Oporto como alternativa. Varias líneas de autobús de la EMT dan servicio a la zona.
-  - q: ¿A qué hora abren las puertas?
-    a: Aquí no se fijan los horarios de apertura de puertas ni de las actuaciones para este concierto en concreto; conviene confirmar los horarios y las entradas en la web oficial o en la página del recinto antes de ir.
-  - q: ¿Cuál es el mejor lugar para comprar entradas?
-    a: Siempre que sea posible, conviene comprar a través del enlace oficial de la gira o del recinto. Si se recurre a sitios de reventa, hay que comparar el precio con el valor nominal, ya que en los conciertos de Vistalegre se han visto precios de reventa inflados.
-  - q: ¿Hay algún buen sitio para comer cerca del recinto?
-    a: La zona inmediata es residencial y tiene poca oferta de restauración, por lo que muchos asistentes prefieren comer en el centro de Madrid antes de bajar en metro, o tomar algo rápido cerca de su parada.
+  - q: ¿Dónde actuaba exactamente Evanescence en Madrid en 2026?
+    a: En el Palacio Vistalegre Arena, situado en el distrito de Carabanchel, al sur del centro de Madrid. La fecha anunciada era el 2 de octubre de 2026.
+  - q: ¿Quiénes eran los teloneros de Evanescence?
+    a: Para la fecha de Madrid se anunciaron como teloneras tanto Poppy como Nova Twins.
+  - q: ¿Cómo se llegaba al Palacio Vistalegre Arena?
+    a: La parada más cercana era la estación de Vista Alegre, en la Línea 5 de metro. La de Oporto servía como alternativa. La zona contaba además con varias líneas de autobús de la EMT.
+  - q: ¿A qué hora se abrían las puertas?
+    a: Para este concierto no se comunicaron horarios de apertura ni de actuaciones. En Vistalegre, las puertas suelen abrirse un par de horas antes de que salga el grupo principal, aunque el recinto y el promotor fijan el horario de cada evento.
+  - q: ¿Dónde convenía comprar las entradas?
+    a: Las entradas se vendieron a través de los enlaces oficiales de la gira y del recinto. También se ofrecían localidades en plataformas de reventa, y en los conciertos de Vistalegre se han visto precios de reventa muy por encima del valor nominal.
+  - q: ¿Había algún buen sitio para comer cerca del recinto?
+    a: Los alrededores inmediatos son residenciales y la oferta de restauración es escasa. Muchos asistentes cenaban en el centro de Madrid y después bajaban en metro, o tomaban algo rápido cerca de su parada.
 ---
 
-La voz de Amy Lee se forjó su reputación en recintos como este: una sala abovedada al sur de Madrid que sacrifica la intimidad en favor de la escala. Evanescence trae ese sonido al Palacio Vistalegre el 2 de octubre de 2026, con Poppy y Nova Twins compartiendo cartel. Es el tipo de programación que recompensa llegar a tiempo para las teloneras, no solo para el cabeza de cartel.
+La voz de Amy Lee se ganó su reputación en recintos como este: un pabellón con cúpula del sur de Madrid que sacrifica la cercanía en favor de la escala. Evanescence tenía previsto llevar ese sonido al Palacio Vistalegre Arena el 2 de octubre de 2026, en un cartel compartido con Poppy y Nova Twins. Con una programación así, merecía la pena estar dentro desde los teloneros, no solo para el plato fuerte.
 
-## El recinto: el Palacio Vistalegre
+## El recinto: Palacio Vistalegre Arena
 
-Vistalegre nació como plaza de toros en los años cuarenta, y esa estructura circular de ladrillo sigue dando forma al interior. Hace décadas, los promotores lo convirtieron en uno de los principales recintos cubiertos de Madrid, utilizado para conciertos, veladas de boxeo y alguna que otra función de circo.
+Vistalegre nació como plaza de toros en los años cuarenta, y su estructura circular de ladrillo sigue definiendo la forma del interior. Hace décadas, los promotores lo transformaron en uno de los principales recintos cubiertos de Madrid. Desde entonces acoge conciertos, veladas de boxeo y, de vez en cuando, alguna temporada de circo.
 
-El aforo ronda varios miles de espectadores y la acústica favorece más a las bandas de guitarras potentes que a los espectáculos orquestales, lo cual encaja bien con la mezcla de rock sinfónico y riffs metaleros de Evanescence.
+El graderío tiene capacidad para varios miles de personas. Su acústica favorece más a las bandas de guitarras potentes que a las formaciones orquestales, algo que encaja bien con la mezcla de rock sinfónico y riffs metaleros de Evanescence.
 
-Frente al escenario suele haber una zona de pista para entradas de pie, rodeada de gradas escalonadas. Si quieres ver la cara de Amy Lee y no una pantalla, aquí importa mucho más que en un estadio conseguir entradas de pista o de las gradas bajas cercanas al escenario.
+En la configuración habitual, la pista situada frente al escenario se reserva para las entradas de pie y las gradas se elevan escalonadamente a su alrededor. Aquí la visibilidad pesa más que en un concierto de estadio: desde la pista o desde las gradas bajas próximas al escenario se ve la cara de Amy Lee, mientras que desde más lejos se acaba mirando una pantalla.
 
 ## Cómo llegar a Carabanchel
 
-El recinto se encuentra en Carabanchel, un distrito residencial al sur del centro de Madrid, un lugar por el que la mayoría de los visitantes no pasearía en una escapada normal por la ciudad.
+El recinto se encuentra en Carabanchel, un distrito residencial al sur del centro de Madrid por el que la mayoría de los visitantes no pasaría durante una escapada urbana.
 
-- **Metro:** la estación Vista Alegre, en la Línea 5, es la parada más cercana y deja a poca distancia a pie de las puertas del recinto.
-- **Alternativa en metro:** la estación Oporto, también en la Línea 5, sirve como salida alternativa si Vista Alegre se satura al terminar el concierto.
-- **Autobús:** varias líneas de la EMT circulan por la Avenida de la Peseta y conectan con Príncipe Pío y otros puntos de transporte.
-- **Taxi o VTC:** es una opción viable, aunque hay que contar con colas y cortes de calles justo después del bis; a menudo compensa más caminar hasta una parada de metro a pocas manzanas que esperar un coche.
+- **Metro:** La estación más cercana es Vista Alegre, de la Línea 5, a pocos pasos de las puertas.
+- **Alternativa en metro:** Cuando Vista Alegre se satura al terminar un concierto, la estación de Oporto, también de la Línea 5, sirve como salida de reserva.
+- **Autobús:** Varias líneas de la EMT recorren la Avenida de la Peseta y enlazan con Príncipe Pío y otros nudos de transporte.
+- **Taxi o VTC:** Es una opción viable, pero justo después del bis son habituales las colas y los cortes de calles. A menudo resulta más rápido caminar unas manzanas hasta una parada de metro que esperar un coche.
 
-Si te alojas cerca de Sol, Gran Vía o Atocha, calcula entre 25 y 35 minutos de puerta a puerta en metro, más si los trenes circulan con menor frecuencia.
+Desde Sol, Gran Vía o Atocha, el trayecto en metro ronda los 25 a 35 minutos de puerta a puerta, y se alarga cuando los trenes pasan con menos frecuencia.
 
-## Apertura de puertas, horarios y teloneras
+## Apertura de puertas, horarios y teloneros
 
-Poppy y Nova Twins abren el concierto, así que merece la pena llegar justo a la apertura de puertas si te interesa alguna de las dos. Nova Twins aporta una energía cargada de punk y bajo muy distinta en tono al rock gótico de Evanescence, y el concierto de Poppy atrae a su propio grupo de seguidoras que llegan pronto específicamente por ella.
+Poppy y Nova Twins se anunciaron como teloneras, de modo que la noche se articulaba en torno a tres actuaciones y no a una sola. Nova Twins aportan una energía punk cargada de bajos, de un tono muy distinto al del rock gótico de Evanescence. Poppy, por su parte, cuenta con su propio núcleo de seguidores fieles, que llegan temprano expresamente para verla.
 
-No conviene calcular la apertura de puertas ni los horarios a partir de giras anteriores, ya que cada recinto y cada promotor los fija para cada concierto en concreto. Confirma los horarios y las entradas en la web oficial cerca de la fecha de tu visita, y consulta también la página del recinto para conocer el programa de ese día una vez tengas la entrada en mano.
+El anuncio no incluía los horarios exactos de apertura ni de las actuaciones, y las giras anteriores no permiten deducirlos. El recinto y el promotor los fijan para cada concierto y publican el horario del día en la página del propio recinto.
 
-## Comprar entradas sin llevarte un chasco
+## Comprar entradas sin llevarse un disgusto
 
-Las entradas para conciertos de este tipo en recintos grandes se gestionan a través de las plataformas oficiales de venta vinculadas al promotor, y la propia web de la banda enlaza a vendedores autorizados.
+Las entradas para conciertos en pabellones como este se distribuyen a través de plataformas oficiales vinculadas al promotor, y la web del propio grupo remite a los vendedores autorizados.
 
-- Compra siempre que puedas directamente a través del enlace oficial de la gira o del recinto, en lugar de recurrir a mercados secundarios.
-- Si aun así usas sitios de reventa, compara el valor nominal con lo que te están cobrando: en los conciertos de Vistalegre se han visto precios de reventa inflados para giras populares.
-- Haz una captura de pantalla o imprime tu confirmación; algunos recintos españoles son más estrictos que otros a la hora de comprobar que el DNI coincide con el nombre de la entrada.
-- Los precios varían según la categoría (pista de pie frente a asiento) y no conviene darlos por fijos a partir de datos de giras anteriores, así que consulta las categorías vigentes en la página oficial de venta.
+- La vía directa eran los enlaces oficiales de la gira y del recinto; las plataformas de reventa ofrecían el mismo concierto por su cuenta.
+- Las webs de reventa toman el valor nominal como referencia para fijar sus precios, no para igualarlo, y en Vistalegre se han visto precios de reventa inflados en las giras más solicitadas.
+- Convenía guardar las confirmaciones impresas o en captura de pantalla, ya que algunos recintos españoles son más estrictos que otros a la hora de exigir que el documento de identidad coincida con el nombre de la entrada.
+- Los precios variaban según la categoría, con diferencias entre la pista de pie y los asientos. Las categorías de esta fecha se fijaron en la página oficial de venta, sin heredarse de datos de giras anteriores.
 
 ## El problema de cenar en Carabanchel
 
-Vistalegre no está rodeado de la densidad de restaurantes que se encuentra cerca de Gran Vía, y eso sorprende a quienes visitan la zona por primera vez.
+En torno a Vistalegre no existe la concentración de restaurantes que se encuentra cerca de Gran Vía, y eso pilla desprevenidos a quienes van por primera vez.
 
-Las calles inmediatas al recinto son residenciales, con algunos bares y locales españoles informales, pero sin una oferta gastronómica concentrada. Muchos asistentes al concierto prefieren comer antes en el centro y luego bajar directamente en metro hasta Vista Alegre.
+Las calles que rodean el recinto son residenciales: hay un puñado de bares y locales informales de cocina española, pero no una zona de restauración propiamente dicha. Muchos asistentes cenaban en el centro antes de bajar hacia el sur y luego tomaban el metro directamente hasta Vista Alegre.
 
-Si prefieres comer cerca del recinto, los barrios de Carabanchel y Usera ofrecen bares de barrio sólidos y sin pretensiones, con tapas y menú del día, aunque no esperes un plan sin colas una noche de concierto en la que varios miles de fans tienen la misma idea. Tomar un bocadillo o una tapa cerca de tu parada de metro antes de subir al tren suele ser la opción más segura.
+Más cerca del recinto, Carabanchel y Usera cuentan con buenos bares de barrio, sin pretensiones, donde se sirven tapas y menú del día a mediodía. Aun así, en una noche de concierto, unos cuantos miles de fans con la misma idea agotan las mesas enseguida. Lo más seguro era tomar un bocadillo o una tapa cerca de una parada de metro antes de subir al tren.
 
-## Colas de merchandising y reentradas
+## Colas de merchandising y reentrada
 
-Los puestos de merchandising en los conciertos de Vistalegre suelen abrir junto con las puertas del recinto y se saturan más justo antes de que salga el cabeza de cartel, así que comprar durante la actuación de la primera telonera suele ser mejor que esperar a que termine Evanescence.
+En los conciertos de Vistalegre, los puestos de merchandising suelen abrir a la vez que las puertas y alcanzan su mayor afluencia justo antes de que salga el grupo principal. Por eso, la actuación del primer telonero suele ser el momento más tranquilo para comprar.
 
-Las políticas de reentrada varían según el promotor y no aparecen publicadas en ningún sitio con meses de antelación, así que si crees que necesitarás salir en algún momento, pregunta al personal del recinto en la puerta cuando llegues, en lugar de darlo por hecho.
+Las normas de reentrada dependen del promotor y no se publican con meses de antelación. Quien conoce la regla de cada noche es el personal de puerta del recinto.
 
-## Cómo planificar la fecha
+## Organizarse en torno a la fecha
 
-El 2 de octubre de 2026 cae en viernes, lo que normalmente significa que el metro de Madrid mantiene su horario habitual de día laborable hasta bien entrada la noche, en lugar del servicio reducido de fin de semana; conviene tenerlo en cuenta si planeas salir tarde tras el concierto.
+El 2 de octubre de 2026 caía en viernes, así que el metro de Madrid mantenía su horario nocturno habitual de días laborables y no el servicio reducido del fin de semana, una ventaja para salir tarde de un concierto en pabellón.
 
-Al tratarse de una fecha única y no de una residencia, los precios de hoteles y vuelos alrededor de Madrid pueden variar según qué más esté ocurriendo esa semana en la ciudad. Reservar alojamiento cerca de una parada de la Línea 5, y no solo cerca del centro histórico, puede ahorrarte tiempo real la noche del concierto.
-
-Sea cual sea tu plan, toma la fecha, el recinto y los datos de las entradas aquí recogidos como punto de partida. Confirma los horarios y las entradas en la web oficial antes de reservar el viaje o pagar un hotel para este concierto.
+Se trataba de una fecha única y no de una residencia, y los precios de hoteles y vuelos en Madrid fluctúan según lo que ocurra en la ciudad esa semana. Alojarse cerca de una parada de la Línea 5, y no solo en el centro histórico, ahorra un tiempo considerable en la vuelta desde Carabanchel.
