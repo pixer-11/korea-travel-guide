@@ -13,6 +13,7 @@
 //   chromium.launch() itself is counted by all three (live-scripts.test.mjs).
 import { chromium } from 'playwright-core';
 import path from 'node:path';
+import { execSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
 import { isAnalyticsRequest, CF_RUM_SOURCE } from '../lib/live-analytics-block.mjs';
 
@@ -61,6 +62,44 @@ export async function launch() {
     return page;
   };
   return b;
+}
+
+/**
+ * A page the checkout has but the live site answers 404 for: broken, or just
+ * not deployed yet? The checks list pages from the repository, and the
+ * scheduled run can start in the hour between a publish commit and its deploy
+ * (10-02: Germany's essentials, committed 14:44 UTC, live 15:47, checked 15:03).
+ * A WARN instead of a failure needs proof, all three (Codex, 10-03: a missing
+ * hub link alone is not proof — a page and its link can break together):
+ *  - the live site's build stamp (dist/build.txt, build-check.yml) is a commit
+ *    made BEFORE the checkout's commit — the deploy is behind;
+ *  - the checkout's commit is under 3 hours old — a deploy normally lands
+ *    within one, so an older gap is a stuck deploy, which must fail;
+ *  - the live hub does not link the page yet.
+ * Anything unreadable (no stamp, timeout) keeps it a failure.
+ * @param {string} path  e.g. "ko/essentials/germany/"
+ */
+const GRACE_S = Number(process.env.LIVE_GRACE_S) || 3 * 3600; // env only for the test of this rule
+const timed = (url) => fetch(url, { signal: AbortSignal.timeout(15_000) }).then((r) => (r.ok ? r.text() : '')).catch(() => '');
+let lagMemo;
+export function deployLag() {
+  lagMemo ??= (async () => {
+    const [, liveAt] = (await timed(`${BASE}/build.txt`)).trim().split(/\s+/).map((x, i) => (i ? Number(x) : x));
+    let mineAt = NaN;
+    try { mineAt = Number(execSync('git log -1 --format=%ct', { cwd: ROOT }).toString().trim()); } catch { /* no git */ }
+    const lag = Number.isFinite(liveAt) && Number.isFinite(mineAt) && liveAt < mineAt && Date.now() / 1000 - mineAt < GRACE_S;
+    return { lag, liveAt, mineAt };
+  })();
+  return lagMemo;
+}
+const hubCache = new Map();
+export async function notLiveYet(path) {
+  if (!(await deployLag()).lag) return false;
+  const hub = path.replace(/[^/]+\/?$/, '');
+  if (!hubCache.has(hub)) hubCache.set(hub, timed(`${BASE}/${hub}`));
+  const html = await hubCache.get(hub);
+  if (!html) return false; // no hub to judge by: keep it a failure
+  return !html.includes(`href="/${path.replace(/\/$/, '')}`);
 }
 
 /** Mark the run failed (exit code 1) when `bad` is truthy, after printing `line`. */

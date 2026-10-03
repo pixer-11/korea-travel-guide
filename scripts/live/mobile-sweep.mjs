@@ -18,6 +18,17 @@ const WIDTH = 320;
 
 const b = await launch();
 const pg = await b.newPage({ viewport: { width: WIDTH, height: 800 } });
+// A wide font, on purpose. An input's own width is its character count in the
+// page font, and fonts differ by device: /destinations overflowed only on the
+// Linux runner (Korean fallback font) and passed on Windows (10-02). Larger
+// input text stands in for the widest font a reader may have, so the next
+// input that sets its box's minimum width fails here on any machine — it
+// found /contact's subject line the same way (10-03).
+await pg.addInitScript(() => addEventListener('DOMContentLoaded', () => {
+  const s = document.createElement('style');
+  s.textContent = 'input,select,textarea{font-size:21px!important}';
+  document.head.append(s);
+}));
 const bad = [];
 for (const l of LANGS) for (const p of PATHS) {
   const url = `${BASE}${l}/${p}${p ? '/' : ''}`;

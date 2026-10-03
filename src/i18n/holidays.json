@@ -3616,5 +3616,59 @@
     "ja": "テト3日目",
     "es": "Tercer día del Tet",
     "zh": "大年初三"
+  },
+  "Germany|New Year's Day": {
+    "ko": "신정",
+    "ja": "元日",
+    "es": "Año Nuevo",
+    "zh": "元旦"
+  },
+  "Germany|Good Friday": {
+    "ko": "성금요일",
+    "ja": "聖金曜日",
+    "es": "Viernes Santo",
+    "zh": "耶稣受难日"
+  },
+  "Germany|Easter Monday": {
+    "ko": "부활절 월요일",
+    "ja": "イースターマンデー",
+    "es": "Lunes de Pascua",
+    "zh": "复活节星期一"
+  },
+  "Germany|Labor Day": {
+    "ko": "노동절",
+    "ja": "メーデー",
+    "es": "Día del Trabajo",
+    "zh": "劳动节"
+  },
+  "Germany|Ascension Day": {
+    "ko": "예수 승천 대축일",
+    "ja": "キリスト昇天祭",
+    "es": "Día de la Ascensión",
+    "zh": "耶稣升天节"
+  },
+  "Germany|Pentecost Monday": {
+    "ko": "성령강림절 월요일",
+    "ja": "聖霊降臨祭の月曜日",
+    "es": "Lunes de Pentecostés",
+    "zh": "圣灵降临节星期一"
+  },
+  "Germany|German Unity Day": {
+    "ko": "독일 통일의 날",
+    "ja": "ドイツ統一の日",
+    "es": "Día de la Unidad Alemana",
+    "zh": "德国统一日"
+  },
+  "Germany|Christmas Day": {
+    "ko": "크리스마스",
+    "ja": "クリスマス",
+    "es": "Navidad",
+    "zh": "圣诞节"
+  },
+  "Germany|Second Day of Christmas": {
+    "ko": "크리스마스 둘째 날",
+    "ja": "クリスマス第2祝日",
+    "es": "Segundo día de Navidad",
+    "zh": "圣诞节第二天"
   }
 }

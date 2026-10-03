@@ -243,6 +243,15 @@ jobs:
       - name: Build
         run: npm run build
 
+      # Which commit the live site is serving, and when that commit was made:
+      # the scheduled live checks list pages from their own checkout, and a
+      # page committed after this deploy is not a broken page yet (Germany's
+      # essentials, 10-02: committed 14:44 UTC, live 15:47, checked 15:03).
+      # scripts/live/lib.mjs deployLag() reads this. Public and harmless: the
+      # repository is public.
+      - name: Stamp the build
+        run: printf '%s %s\n' "$(git rev-parse HEAD)" "$(git log -1 --format=%ct)" > dist/build.txt
+
       # The sitemaps and RSS only exist once the build has run, so this is the
       # only place the check can live. It asks one question: does every feed
       # agree with what the pages themselves tell crawlers? A page carrying its

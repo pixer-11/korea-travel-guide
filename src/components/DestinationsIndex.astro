@@ -376,8 +376,12 @@ const [titleA, titleB] = (() => {
   .dx-results { display: grid; gap: 18px; scroll-margin-top: 70px; }
   .dx-tools { position: sticky; top: 61px; z-index: 20; background: color-mix(in srgb, var(--bg) 94%, transparent); backdrop-filter: blur(10px); padding: 10px 0; margin: 0 -4px; border-bottom: 1px solid var(--line); display: grid; gap: 10px; }
   .dx-tools-row { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
-  .dx-search { flex: 1 1 260px; display: flex; align-items: center; gap: 8px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-pill); padding: 0 12px 0 16px; color: var(--muted); }
-  .dx-search input { flex: 1; min-width: 0; border: 0; background: transparent; font: inherit; font-size: .9rem; padding: 10px 0; color: var(--ink); outline: none; }
+  /* min-width 0 here and width 0 on the input: an input's own width is its
+     20-character default measured in the page font, and the Korean fallback
+     font on a Linux phone made that wider than a 320px screen (live check,
+     10-02). The input still grows to fill the box (flex: 1). */
+  .dx-search { flex: 1 1 260px; min-width: 0; display: flex; align-items: center; gap: 8px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-pill); padding: 0 12px 0 16px; color: var(--muted); }
+  .dx-search input { flex: 1; width: 0; min-width: 0; border: 0; background: transparent; font: inherit; font-size: .9rem; padding: 10px 0; color: var(--ink); outline: none; }
   .dx-search input::-webkit-search-cancel-button { display: none; }
   .dx-search:focus-within { border-color: var(--cta); }
   .dx-x { border: 0; background: var(--dx-sand); color: var(--ink); width: 24px; height: 24px; border-radius: 50%; cursor: pointer; font-size: 1rem; line-height: 1; }

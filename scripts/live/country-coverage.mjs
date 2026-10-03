@@ -37,5 +37,20 @@ for (const f of fs.readdirSync(dir).filter((x) => x.endsWith('.md'))) {
   if (!plugs[name]) warns.push(`${name}: no voltage/plugs in data/country-plugs.json — the power cell is hidden`);
   if (!timeIso.has(String(c.iso2).toUpperCase()) && !COUNTRY_TZ[name]) warns.push(`${name}: no time zone in lib/countryTime.ts — the time cell is hidden`);
 }
+// Holiday names without a ko/ja/es/zh row print in English on those pages.
+// holidays.test checks the same thing, but Tests does not run on the content
+// commits that bring a new country's holidays in (Germany, 10-02), so it is
+// repeated here, on the schedule (same rule as the test).
+const holidayTable = JSON.parse(read('src/i18n/holidays.json'));
+const facts = JSON.parse(read('data/country-facts.json'));
+const untranslated = new Map();
+for (const [country, v] of Object.entries(facts.countries ?? facts)) {
+  for (const h of v.holidays ?? []) {
+    if (h.localName === h.name) continue;
+    const base = String(h.name).replace(/\s*\(Tentative Date\)\s*$/i, '');
+    if (!holidayTable[`${country}|${base}`]) untranslated.set(country, new Set(untranslated.get(country)).add(base));
+  }
+}
+for (const [country, names] of untranslated) warns.push(`${country}: ${names.size} holiday name(s) with no ko/ja/es/zh row — shown in English (node scripts/translate-holidays.mjs)`);
 for (const w of warns) console.log(`WARN ${w}`);
 console.log(warns.length ? `\n${warns.length} warning(s) — the pages work, a cell is missing` : 'every essentials country has its hub data');

@@ -1,6 +1,6 @@
 // Live check, ported from the hand-run itsweep.mjs (scratchpad, week of 2026-09-28).
 // Run: node scripts/live/itineraries.mjs [base]  — default base is the live site (lib.mjs).
-import { launch, BASE, verdict, ROOT } from './lib.mjs';
+import { launch, BASE, verdict, ROOT, notLiveYet } from './lib.mjs';
 import fs from 'node:fs';
 const base = BASE;
 const slugs = fs.readdirSync(`${ROOT}/src/content/itineraries`).filter((f) => f.endsWith('.md')).map((f) => f.replace('.md', ''));
@@ -14,6 +14,7 @@ async function run(path) {
   p.on('pageerror', (e) => errs.push(e.message));
   try {
     const r = await p.goto(`${base}/${path}`, { waitUntil: 'domcontentloaded', timeout: 240000 });
+    if (r.status() === 404 && await notLiveYet(path)) { console.log(`WARN 배포 대기: /${path} — 저장소엔 있고 실서버 허브엔 아직 없음`); await p.close(); return; }
     const i = await p.evaluate(() => {
       const main = document.querySelector('main') ?? document.body;
       // Case-sensitive: /gi flagged Hong Kong's "Nan Lian Garden" as NaN (10-01).

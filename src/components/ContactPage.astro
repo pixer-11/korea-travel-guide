@@ -340,7 +340,10 @@ const bodyOf = (k: Kind) => k.fields.filter(Boolean).map((f) => `${f}\n\n`).join
   .ct-draft { background: var(--ct-sand); border-radius: 20px; padding: 18px 20px; display: grid; gap: 8px; }
   .ct-row { display: flex; align-items: center; gap: 10px; margin: 0; font-size: .86rem; flex-wrap: wrap; }
   .ct-row > span { width: 72px; color: var(--muted); flex: none; }
-  .ct-row input { flex: 1; min-width: 120px; font: inherit; font-size: .86rem; border: 0; border-bottom: 1px dashed var(--line-strong); background: transparent; color: var(--ink); padding: 3px 2px; }
+  /* width 0 + a 120px basis: the input's default width (20 characters in the
+     page font) set the card's minimum width and pushed it past a 320px phone
+     when that font is wide (same class as the destinations search, 10-03). */
+  .ct-row input { flex: 1 1 120px; width: 0; min-width: 120px; font: inherit; font-size: .86rem; border: 0; border-bottom: 1px dashed var(--line-strong); background: transparent; color: var(--ink); padding: 3px 2px; }
   .ct-row input[hidden] { display: none; }
   .ct-bodylbl { display: block; border-top: 1px solid var(--line); padding-top: 10px; }
   .ct-draft textarea { width: 100%; box-sizing: border-box; font: inherit; font-size: .88rem; line-height: 1.6; border: 0; background: transparent; color: var(--ink); resize: vertical; }
