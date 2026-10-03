@@ -401,6 +401,12 @@
     "es": "Canberra",
     "zh": "堪培拉"
   },
+  "Cancun": {
+    "ko": "칸쿤",
+    "ja": "カンクン",
+    "es": "Cancún",
+    "zh": "坎昆"
+  },
   "Cannes": {
     "ko": "칸",
     "ja": "カンヌ",
@@ -556,6 +562,12 @@
     "ja": "コロン",
     "es": "Coron",
     "zh": "科隆"
+  },
+  "Cozumel": {
+    "ko": "코수멜",
+    "ja": "コスメル",
+    "es": "Cozumel",
+    "zh": "科苏梅尔"
   },
   "Da Lat": {
     "ko": "달랏",
@@ -820,6 +832,18 @@
     "ja": "グラナダ",
     "es": "Granada",
     "zh": "格拉纳达"
+  },
+  "Guadalajara": {
+    "ko": "과달라하라",
+    "ja": "グアダラハラ",
+    "es": "Guadalajara",
+    "zh": "瓜达拉哈拉"
+  },
+  "Guanajuato": {
+    "ko": "과나후아토",
+    "ja": "グアナフアト",
+    "es": "Guanajuato",
+    "zh": "瓜纳华托"
   },
   "Guangzhou": {
     "ko": "광저우",
@@ -1343,6 +1367,12 @@
     "es": "Los Ángeles",
     "zh": "洛杉矶"
   },
+  "Los Cabos": {
+    "ko": "로스카보스",
+    "ja": "ロスカボス",
+    "es": "Los Cabos",
+    "zh": "洛斯卡沃斯"
+  },
   "Lucca": {
     "ko": "루카",
     "ja": "ルッカ",
@@ -1469,6 +1499,24 @@
     "es": "Melbourne",
     "zh": "墨尔本"
   },
+  "Merida": {
+    "ko": "메리다",
+    "ja": "メリダ",
+    "es": "Mérida",
+    "zh": "梅里达"
+  },
+  "Mexico": {
+    "ko": "멕시코",
+    "ja": "メキシコ",
+    "es": "México",
+    "zh": "墨西哥"
+  },
+  "Mexico City": {
+    "ko": "멕시코시티",
+    "ja": "メキシコシティ",
+    "es": "Ciudad de México",
+    "zh": "墨西哥城"
+  },
   "Miami": {
     "ko": "마이애미",
     "ja": "マイアミ",
@@ -1498,6 +1546,12 @@
     "ja": "モン・サン・ミッシェル",
     "es": "Mont Saint-Michel",
     "zh": "圣米歇尔山"
+  },
+  "Monterrey": {
+    "ko": "몬테레이",
+    "ja": "モンテレイ",
+    "es": "Monterrey",
+    "zh": "蒙特雷"
   },
   "Monza": {
     "ko": "몬차",
@@ -1667,6 +1721,12 @@
     "es": "Nusa Penida",
     "zh": "努沙佩尼达岛"
   },
+  "Oaxaca": {
+    "ko": "오악사카",
+    "ja": "オアハカ",
+    "es": "Oaxaca",
+    "zh": "瓦哈卡"
+  },
   "Okinawa": {
     "ko": "오키나와",
     "ja": "沖縄",
@@ -1817,6 +1877,12 @@
     "es": "Pisa",
     "zh": "比萨"
   },
+  "Playa del Carmen": {
+    "ko": "플라야델카르멘",
+    "ja": "プラヤ・デル・カルメン",
+    "es": "Playa del Carmen",
+    "zh": "卡门海滩"
+  },
   "Pohang": {
     "ko": "포항",
     "ja": "浦項",
@@ -1841,11 +1907,23 @@
     "es": "Provenza",
     "zh": "普罗旺斯"
   },
+  "Puebla": {
+    "ko": "푸에블라",
+    "ja": "プエブラ",
+    "es": "Puebla",
+    "zh": "普埃布拉"
+  },
   "Puerto Princesa": {
     "ko": "푸에르토프린세사",
     "ja": "プエルトプリンセサ",
     "es": "Puerto Princesa",
     "zh": "普林塞萨港"
+  },
+  "Puerto Vallarta": {
+    "ko": "푸에르토바야르타",
+    "ja": "プエルト・バヤルタ",
+    "es": "Puerto Vallarta",
+    "zh": "巴亚尔塔港"
   },
   "Putrajaya": {
     "ko": "푸트라자야",
@@ -1936,6 +2014,12 @@
     "ja": "サンフランシスコ",
     "es": "San Francisco",
     "zh": "旧金山"
+  },
+  "San Miguel de Allende": {
+    "ko": "산미겔데아옌데",
+    "ja": "サン・ミゲル・デ・アジェンデ",
+    "es": "San Miguel de Allende",
+    "zh": "圣米格尔德阿连德"
   },
   "San Sebastian": {
     "ko": "산세바스티안",
@@ -2338,6 +2422,12 @@
     "ja": "尖沙咀",
     "es": "Tsim Sha Tsui",
     "zh": "尖沙咀"
+  },
+  "Tulum": {
+    "ko": "툴룸",
+    "ja": "トゥルム",
+    "es": "Tulum",
+    "zh": "图卢姆"
   },
   "Turin": {
     "ko": "토리노",

@@ -620,6 +620,32 @@
         "Rothenburg ob der Tauber"
       ],
       "continent": "Europe"
+    },
+    {
+      "name": "Mexico",
+      "iso2": "mx",
+      "priority": 22,
+      "slug": "mexico",
+      "flag": "🇲🇽",
+      "active": true,
+      "blurb": "Aztec and Maya ruins, colonial towns and Caribbean beaches, with Day of the Dead, Guelaguetza and a fiesta calendar that fills every month.",
+      "regions": [
+        "Mexico City",
+        "Cancun",
+        "Playa del Carmen",
+        "Tulum",
+        "Guadalajara",
+        "Oaxaca",
+        "Merida",
+        "Puerto Vallarta",
+        "San Miguel de Allende",
+        "Monterrey",
+        "Los Cabos",
+        "Guanajuato",
+        "Puebla",
+        "Cozumel"
+      ],
+      "continent": "North America"
     }
   ]
 }

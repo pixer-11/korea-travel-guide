@@ -373,5 +373,22 @@
       "ICE long-distance trains have free WiFi in both classes, but it drops out where the mobile signal does. Download maps, tickets and anything you want to watch before you board.",
       "Many small restaurants, bakeries and market stalls still prefer cash, so do not count on paying by phone everywhere."
     ]
+  },
+  "mexico": {
+    "name": "Mexico",
+    "carriers": [
+      "Telcel",
+      "AT&T",
+      "Movistar"
+    ],
+    "intro": "Mexico has three main mobile brands: Telcel, AT&T and Movistar. Telcel is the largest and is usually rated the widest-reaching, especially outside the big cities; AT&T is the main alternative, and Movistar runs its service over AT&T's network. Before buying a travel eSIM, check which network it uses.",
+    "coverage": "Cities, resort areas such as Cancun, the Riviera Maya, Los Cabos and Puerto Vallarta, and the main highways are well covered. Signal thins out in the mountains, in rural Oaxaca and Chiapas, and on jungle roads in the Yucatan, including the drive to many cenotes and Maya ruins, so do not count on a connection between towns.",
+    "tips": [
+      "Since January 2026, a line from a Mexican carrier has to be registered to an identified person before it works normally. Visitors register with a passport and the procedure has been changing, so allow time if you buy a local SIM. A travel eSIM from a foreign provider roams on the Mexican networks and is set up before you fly.",
+      "Many US and Canadian mobile plans include roaming in Mexico. If you are coming from either country, check your own plan first; you may not need anything extra.",
+      "Mexico is often sold inside a \"North America\" eSIM together with the US and Canada, which helps on a trip that crosses the border. Check the country list before you buy.",
+      "Download offline maps before a road trip to ruins, cenotes or mountain towns, and save your bus tickets and hotel addresses on the phone.",
+      "Cancun and the rest of Quintana Roo run one hour ahead of Mexico City all year, so check the local time on tour and bus bookings when you travel between the two."
+    ]
   }
 }

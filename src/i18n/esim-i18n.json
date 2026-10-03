@@ -995,5 +995,52 @@
       ]
     },
     "_srcHash": "6cd0cfa42e3cf9b8"
+  },
+  "mexico": {
+    "ko": {
+      "intro": "멕시코에는 Telcel, AT&T, Movistar 세 개의 주요 이동통신사가 있다. Telcel이 가장 규모가 크고, 특히 대도시 밖에서는 통상 커버리지가 가장 넓다는 평가를 받는다. AT&T가 주된 대안이며, Movistar는 AT&T의 망을 빌려 서비스를 운영한다. 여행용 eSIM을 구매하기 전에 어느 통신망을 사용하는지 확인해두자.",
+      "coverage": "도시 지역과 칸쿤, 리비에라 마야, 로스카보스, 푸에르토바야르타 같은 휴양지, 그리고 주요 고속도로는 전파가 잘 터진다. 반면 산악 지대, 오악사카와 치아파스의 시골 지역, 유카탄의 정글 도로(세노테나 마야 유적지로 가는 길 포함)에서는 신호가 약해지므로, 마을과 마을 사이에서는 접속이 될 것이라 기대하지 않는 편이 좋다.",
+      "tips": [
+        "2026년 1월부터 멕시코 통신사 유심(SIM)은 신원이 확인된 사람 명의로 등록해야만 정상적으로 작동한다. 여행자는 여권으로 등록하면 되지만 절차가 계속 바뀌고 있으니, 현지에서 SIM을 구매할 계획이라면 시간을 넉넉히 잡아두자. 해외 사업자의 여행용 eSIM은 멕시코 통신망에 로밍으로 접속하는 방식이라 출국 전에 미리 설정해둘 수 있다.",
+        "미국과 캐나다의 많은 휴대폰 요금제에는 멕시코 로밍이 포함되어 있다. 두 나라 중 한 곳에서 출발한다면 먼저 자신의 요금제부터 확인해보자. 별도로 준비할 것이 없을 수도 있다.",
+        "멕시코는 종종 미국·캐나다와 묶여 '북미' eSIM 상품으로 판매되는데, 국경을 넘나드는 여행이라면 이런 상품이 편리하다. 구매 전에 포함된 국가 목록을 꼭 확인하자.",
+        "유적지, 세노테, 산간 마을로 떠나는 로드트립 전에는 오프라인 지도를 미리 내려받고, 버스표와 호텔 주소도 휴대폰에 저장해두자.",
+        "칸쿤을 비롯한 킨타나로오주 전역은 연중 멕시코시티보다 1시간 빠른 시간대를 사용한다. 두 지역을 오가며 여행할 때는 투어나 버스 예약의 현지 시간을 꼭 확인하자."
+      ]
+    },
+    "ja": {
+      "intro": "メキシコには主要な携帯キャリアが3社あります。Telcel、AT&T、Movistarです。Telcelは最大手で、特に大都市圏以外ではカバー範囲が最も広いとされています。AT&Tが主な対抗馬で、MovistarはAT&Tのネットワークを借りてサービスを提供しています。旅行用eSIMを購入する前に、それがどのネットワークを使用しているか確認しておきましょう。",
+      "coverage": "都市部や、カンクン、リビエラ・マヤ、ロスカボス、プエルトバジャルタといったリゾートエリア、そして主要幹線道路では電波状況は良好です。一方、山岳地帯、オアハカやチアパスの地方部、そしてユカタン半島のジャングルの道――多くのセノーテやマヤ遺跡へ向かう道も含め――では電波が弱くなるため、町と町の間では接続できるとは考えない方がよいでしょう。",
+      "tips": [
+        "2026年1月以降、メキシコのキャリアの回線は、身元を確認できる本人として登録されていないと正常に機能しなくなりました。旅行者はパスポートで登録する必要がありますが、その手続きは変更が続いているため、現地SIMを購入する場合は時間に余裕を持っておきましょう。海外プロバイダーの旅行用eSIMであれば、メキシコの各ネットワークにローミング接続する形で、渡航前に設定を済ませておけます。",
+        "アメリカやカナダの携帯プランの多くには、メキシコでのローミングが含まれています。どちらかの国から来る場合は、まず自分のプランを確認してください。追加で何かを用意する必要がないかもしれません。",
+        "メキシコは、アメリカ・カナダとセットになった「北米」向けeSIMの中に含まれて販売されていることがよくあり、国境をまたぐ旅では便利です。購入前に対応国リストを確認しておきましょう。",
+        "遺跡やセノーテ、山間部の町へのロードトリップの前には、オフラインマップをダウンロードし、バスのチケットやホテルの住所もスマートフォンに保存しておきましょう。",
+        "カンクンを含むキンタナロー州は、一年を通してメキシコシティより1時間進んだ時間帯で動いています。両都市間を移動する際は、ツアーやバスの予約における現地時間を必ず確認してください。"
+      ]
+    },
+    "es": {
+      "intro": "México tiene tres marcas de telefonía móvil principales: Telcel, AT&T y Movistar. Telcel es la más grande y, por lo general, se considera la de mayor cobertura, sobre todo fuera de las grandes ciudades; AT&T es la principal alternativa, y Movistar opera su servicio sobre la red de AT&T. Antes de comprar una eSIM de viaje, comprueba qué red utiliza.",
+      "coverage": "Las ciudades, las zonas turísticas como Cancún, la Riviera Maya, Los Cabos y Puerto Vallarta, y las carreteras principales cuentan con buena cobertura. La señal se debilita en las zonas montañosas, en el Oaxaca rural y en Chiapas, así como en los caminos selváticos de Yucatán, incluido el trayecto hacia muchos cenotes y ruinas mayas, así que no cuentes con conexión entre pueblos.",
+      "tips": [
+        "Desde enero de 2026, una línea de un operador mexicano debe estar registrada a nombre de una persona identificada antes de funcionar con normalidad. Los visitantes se registran con el pasaporte y el procedimiento ha ido cambiando, así que calcula tiempo extra si compras una SIM local. Una eSIM de viaje de un proveedor extranjero hace roaming en las redes mexicanas y se configura antes de volar.",
+        "Muchos planes móviles de Estados Unidos y Canadá incluyen roaming en México. Si vienes de alguno de esos países, revisa primero tu propio plan; puede que no necesites nada adicional.",
+        "México suele venderse dentro de una eSIM de 'Norteamérica' junto con Estados Unidos y Canadá, lo cual resulta útil en un viaje que cruza la frontera. Revisa la lista de países antes de comprar.",
+        "Descarga mapas sin conexión antes de un viaje por carretera a ruinas, cenotes o pueblos de montaña, y guarda en el teléfono tus boletos de autobús y las direcciones de los hoteles.",
+        "Cancún y el resto de Quintana Roo van una hora adelantados respecto a la Ciudad de México durante todo el año, así que revisa la hora local en las reservas de tours y autobuses cuando viajes entre ambas zonas."
+      ]
+    },
+    "zh": {
+      "intro": "墨西哥主要有三大移动运营商:Telcel、AT&T 和 Movistar。Telcel 规模最大，通常也被认为覆盖范围最广，尤其是在大城市以外的地区;AT&T 是主要的替代选择，而 Movistar 则是借用 AT&T 的网络运营业务。在购买旅行用 eSIM 之前，请先确认它使用的是哪一个网络。",
+      "coverage": "城市、坎昆（Cancun）、玛雅海岸（Riviera Maya）、洛斯卡沃斯（Los Cabos）和巴亚尔塔港（Puerto Vallarta）等度假区，以及主要高速公路沿线，信号覆盖良好。而在山区、瓦哈卡（Oaxaca）和恰帕斯（Chiapas）的乡村地带，以及尤卡坦（Yucatan）的丛林道路上——包括前往许多天然井（cenotes）和玛雅遗址的路途——信号会明显减弱，因此不要指望在城镇之间也能保持网络连接。",
+      "tips": [
+        "自2026年1月起，墨西哥运营商的号码必须实名登记后才能正常使用。游客可凭护照办理登记，但具体流程一直在变化，如果你打算购买当地实体SIM卡，请预留足够的时间办理。而来自境外服务商的旅行 eSIM 可以直接在墨西哥各网络上漫游使用，并且在出发前就能完成设置。",
+        "许多美国和加拿大的手机套餐都包含墨西哥境内的漫游服务。如果你是从这两个国家出发，建议先确认自己原有套餐的详情，很可能无需额外购买。",
+        "墨西哥常常和美国、加拿大一起被打包进“北美”eSIM 套餐中出售，这对跨境旅行来说十分方便。购买前请务必确认套餐所包含的国家列表。",
+        "在前往遗址、天然井或山区小镇自驾之前，请提前下载离线地图，并将巴士票和酒店地址保存在手机中备用。",
+        "坎昆及金塔纳罗奥州（Quintana Roo）其余地区全年都比墨西哥城快一个小时，因此在这两地之间预订旅游行程或巴士车票时，请务必留意当地时间。"
+      ]
+    },
+    "_srcHash": "95dcaedccc04f42e"
   }
 }

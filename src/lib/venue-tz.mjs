@@ -34,6 +34,7 @@ export const COUNTRY_TZ = {
 
 const ET = 'America/New_York', CT = 'America/Chicago', PT = 'America/Los_Angeles';
 const WIB = 'Asia/Jakarta', WITA = 'Asia/Makassar';
+const CDMX = 'America/Mexico_City', CUN = 'America/Cancun';
 const SYD = 'Australia/Sydney', BNE = 'Australia/Brisbane', PER = 'Australia/Perth', DRW = 'Australia/Darwin';
 
 export const REGION_TZ = {
@@ -61,6 +62,15 @@ export const REGION_TZ = {
     Brisbane: BNE, 'Gold Coast': BNE, 'Sunshine Coast': BNE, Cairns: BNE,
     Perth: PER, Fremantle: PER, Adelaide: 'Australia/Adelaide', Hobart: 'Australia/Hobart',
     Darwin: DRW, 'Alice Springs': DRW,
+  },
+  // 멕시코는 2022년에 서머타임을 없앴다. 킨타나로오(칸쿤·플라야델카르멘·툴룸·코수멜)는
+  // 멕시코시티보다 1시간 빠르고, 로스카보스(바하칼리포르니아수르)는 1시간 느리다(2026-10-04).
+  Mexico: {
+    'Mexico City': CDMX, Guadalajara: CDMX, Oaxaca: CDMX, 'Puerto Vallarta': CDMX,
+    'San Miguel de Allende': CDMX, Guanajuato: CDMX, Puebla: CDMX,
+    Monterrey: 'America/Monterrey', Merida: 'America/Merida',
+    Cancun: CUN, 'Playa del Carmen': CUN, Tulum: CUN, Cozumel: CUN,
+    'Los Cabos': 'America/Mazatlan',
   },
 };
 

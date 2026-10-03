@@ -886,6 +886,8 @@ const COUNTRY_LANG = {
   'United Kingdom': null,
   // 독일어는 분명한 현지어 — 독일에서 영어 리뷰는 관광객이다(2026-10-02).
   Germany: 'de',
+  // 스페인어가 현지어 — 멕시코에서 영어 리뷰는 관광객이다(2026-10-04).
+  Mexico: 'es',
   // Uzbek is unambiguously local; Russian is also widely used by locals but is
   // equally the language of the biggest tourist group, so only 'uz' counts.
   Uzbekistan: 'uz',

@@ -23,6 +23,7 @@
     "Cambodia": { "v": "220", "hz": "50", "plugs": ["A", "C", "G"], "src": "https://www.tourismcambodia.com/destinations/cambodia-facts.htm" },
     "Australia": { "v": "230", "hz": "50", "plugs": ["I"], "src": "https://www.australia.com/en-my/facts-and-planning/about-australia/useful-tips.html" },
     "United Kingdom": { "v": "230", "hz": "50", "plugs": ["G"], "src": "https://www.visitbritain.com/en/plan-your-trip/useful-information" },
-    "Germany": { "v": "230", "hz": "50", "plugs": ["C", "F"], "src": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/germany/" }
+    "Germany": { "v": "230", "hz": "50", "plugs": ["C", "F"], "src": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/germany/" },
+    "Mexico": { "v": "127", "hz": "60", "plugs": ["A", "B"], "src": "https://www.worldstandards.eu/electricity/plug-voltage-by-country/mexico/" }
   }
 }
