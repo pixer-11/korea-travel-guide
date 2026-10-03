@@ -3499,11 +3499,23 @@
   "reason": "publish gate: Group in costume at museum entrance with signage",
   "at": "2026-10-02T14:30:14.420Z"
  },
+ "bremen-kunsthalle-bremen\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kunsthalle-HB_20110824_img-01.jpg/1920px-Kunsthalle-HB_20110824_img-01.jpg": {
+  "slug": "bremen-kunsthalle-bremen",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative exterior facade of Kunsthalle Bremen museum building",
+  "at": "2026-10-03T07:53:43.862Z"
+ },
  "brighton-brighton-i360\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Brighton_i360_with_the_moon_2025-07-02.jpg/3840px-Brighton_i360_with_the_moon_2025-07-02.jpg": {
   "slug": "brighton-brighton-i360",
   "verdict": "MATCH",
   "reason": "publish gate: Clear iconic image of Brighton i360 tower and pod",
   "at": "2026-09-30T14:06:34.165Z"
+ },
+ "brighton-brighton-palace-pier\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Brighton_Pier%2C_Brighton%2C_East_Sussex%2C_England-2Oct2011_%281%29.jpg/1920px-Brighton_Pier%2C_Brighton%2C_East_Sussex%2C_England-2Oct2011_%281%29.jpg": {
+  "slug": "brighton-brighton-palace-pier",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Brighton Palace Pier extending into sea",
+  "at": "2026-10-03T07:44:38.392Z"
  },
  "brighton-lost-in-the-lanes\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Lost_in_the_Lanes%2C_Nile_Street%2C_Brighton_2025-07-08.jpg/3840px-Lost_in_the_Lanes%2C_Nile_Street%2C_Brighton_2025-07-08.jpg": {
   "slug": "brighton-lost-in-the-lanes",
@@ -3516,6 +3528,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Storefront exterior of Meo Plants & Cafe, Brighton",
   "at": "2026-10-01T14:56:25.697Z"
+ },
+ "brighton-preston-manor-and-preston-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cherry_Blossom_Walk_-_Preston_Park.jpg/3840px-Cherry_Blossom_Walk_-_Preston_Park.jpg": {
+  "slug": "brighton-preston-manor-and-preston-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Park path with blossoming trees, plausible Preston Park scene",
+  "at": "2026-10-03T07:50:09.481Z"
  },
  "brighton-royal-pavilion\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Brighton_royal_pavilion_Qmin.jpg/1920px-Brighton_royal_pavilion_Qmin.jpg": {
   "slug": "brighton-royal-pavilion",
@@ -3984,6 +4002,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior entrance of Cairns Aquarium building, clearly labeled",
   "at": "2026-09-28T17:04:16.263Z"
+ },
+ "cairns-cairns-botanic-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/9/91/Cairns_Botanic_Gardens%2C_Edge_Hill%2C_2018_01.jpg": {
+  "slug": "cairns-cairns-botanic-gardens",
+  "verdict": "MATCH",
+  "reason": "publish gate: Entrance gate clearly labeled Cairns Botanic Gardens",
+  "at": "2026-10-03T07:45:38.937Z"
  },
  "cairns-cairns-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CAIRNS_MUSEUM.jpg/1920px-CAIRNS_MUSEUM.jpg": {
   "slug": "cairns-cairns-museum",
@@ -6510,6 +6534,12 @@
   "reason": "publish gate: Shows castle walls and courtyard path, representative view",
   "at": "2026-10-02T14:16:13.889Z"
  },
+ "fussen-neuschwanstein-castle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Neuschwanstein_2013.jpg/1920px-Schloss_Neuschwanstein_2013.jpg": {
+  "slug": "fussen-neuschwanstein-castle",
+  "verdict": "MATCH",
+  "reason": "publish gate: Authentic representative exterior view of Neuschwanstein Castle",
+  "at": "2026-10-03T07:51:11.421Z"
+ },
  "gangneung-anmok-beach\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Anmok_beach_on_September_7th%2C_2017.jpg/3840px-Anmok_beach_on_September_7th%2C_2017.jpg": {
   "slug": "gangneung-anmok-beach",
   "verdict": "MATCH",
@@ -6864,6 +6894,12 @@
   "reason": "Hindu temple with characteristic architecture, pond, red-til",
   "reasonKo": "힌두 사원, 특징적 건축, 연못, 빨간 기와",
   "at": "2026-08-15T13:11:13.650Z"
+ },
+ "gold-coast-burleigh-head-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Burleigh_Heads_and_Tallebudgera_Creek.JPG/1920px-Burleigh_Heads_and_Tallebudgera_Creek.JPG": {
+  "slug": "gold-coast-burleigh-head-national-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Headland, beach, and coastline match Burleigh Head National Park.",
+  "at": "2026-10-03T07:39:51.620Z"
  },
  "gold-coast-cafe-gold-coast\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Cafe_at_Griffith_University_Gold_Coast_Campus.jpg/3840px-Cafe_at_Griffith_University_Gold_Coast_Campus.jpg": {
   "slug": "gold-coast-cafe-gold-coast",
@@ -7683,6 +7719,12 @@
   "reason": "publish gate: Recognizable exterior view of Heidelberg Castle surrounded by trees",
   "at": "2026-10-02T14:09:26.100Z"
  },
+ "heidelberg-karlsplatz\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Karlsplatz%2C_Heidelberg%2C_Baden-Wurttemberg%2C_Germany_-_panoramio.jpg/3840px-Karlsplatz%2C_Heidelberg%2C_Baden-Wurttemberg%2C_Germany_-_panoramio.jpg": {
+  "slug": "heidelberg-karlsplatz",
+  "verdict": "MATCH",
+  "reason": "publish gate: Plausible square in Heidelberg with fountain and buildings",
+  "at": "2026-10-03T07:52:31.834Z"
+ },
  "hiroshima-atomic-bomb-dome\u0001https://fastly.4sqi.net/img/general/original/543114558_1vryFPc80PrOjew5pc6eZ_HXr101udgJoEop9uVvXhE.jpg": {
   "slug": "hiroshima-atomic-bomb-dome",
   "verdict": "MATCH",
@@ -7877,6 +7919,12 @@
   "reason": "publish gate: Exterior storefront with venue signage, representative hero shot",
   "at": "2026-09-29T14:20:22.660Z"
  },
+ "hobart-cascades-female-factory-historic-site\u0001https://upload.wikimedia.org/wikipedia/commons/3/30/CascadesWomens.jpg": {
+  "slug": "hobart-cascades-female-factory-historic-site",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative courtyard view of historic site architecture",
+  "at": "2026-10-03T07:38:45.694Z"
+ },
  "hobart-elizabeth-street-pier\u0001https://upload.wikimedia.org/wikipedia/commons/1/12/Morning_View_Elizabeth_pier_2011.jpg": {
   "slug": "hobart-elizabeth-street-pier",
   "verdict": "MATCH",
@@ -7906,6 +7954,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Recognisable Port Arthur penitentiary ruins by water, representative view",
   "at": "2026-10-02T08:03:22.932Z"
+ },
+ "hobart-royal-tasmanian-botanical-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/a/ae/Hobart_Botanical_Gardens_Entrance.png": {
+  "slug": "hobart-royal-tasmanian-botanical-gardens",
+  "verdict": "MATCH",
+  "reason": "publish gate: Entrance gate with Pinocchio sign plausibly matches gardens entry",
+  "at": "2026-10-03T07:43:34.757Z"
  },
  "hobart-salamanca-market\u0001https://upload.wikimedia.org/wikipedia/commons/5/5d/Salamanca_Market_2010.jpg": {
   "slug": "hobart-salamanca-market",
@@ -12288,6 +12342,12 @@
   "reason": "Image shows coastal bay, not waterfall",
   "at": "2026-07-25T02:46:05.832Z"
  },
+ "london-kensington-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Kensington_Gardens_Round_Pond.jpg/3840px-Kensington_Gardens_Round_Pond.jpg": {
+  "slug": "london-kensington-gardens",
+  "verdict": "MATCH",
+  "reason": "publish gate: Lake, fountain, trees, people match Kensington Gardens scenery",
+  "at": "2026-10-03T07:46:49.466Z"
+ },
  "london-london-eye\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/London-Eye-2009.JPG/1920px-London-Eye-2009.JPG": {
   "slug": "london-london-eye",
   "verdict": "MATCH",
@@ -12311,6 +12371,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Iconic British Museum facade with columns and pediment",
   "at": "2026-09-30T14:17:34.898Z"
+ },
+ "london-two-temple-place\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Two_Temple_Place_London_%282%29.jpg/3840px-Two_Temple_Place_London_%282%29.jpg": {
+  "slug": "london-two-temple-place",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of the historic building, representative hero shot",
+  "at": "2026-10-03T07:41:04.329Z"
  },
  "los-angeles-bad-roman\u0001https://fastly.4sqi.net/img/general/original/463594059_7nz7Ts1VXjrzksDpOwFLwPdKlKTK4iz6Y072O7s2wSs.jpg": {
   "slug": "los-angeles-bad-roman",
@@ -13228,6 +13294,12 @@
   "reasonKo": "전통 인도네시아 시장의 음식 노점",
   "at": "2026-08-16T13:15:03.842Z"
  },
+ "manchester-alexandra-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/June_evening_at_dusk_in_Alexandra_Park%2C_Manchester_01.jpg/3840px-June_evening_at_dusk_in_Alexandra_Park%2C_Manchester_01.jpg": {
+  "slug": "manchester-alexandra-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Park pathway with urns and trees, plausible park entrance",
+  "at": "2026-10-03T07:47:54.958Z"
+ },
  "manchester-fletcher-moss-botanical-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fletcher_Moss_Gardens%2C_Didsbury_00_23_39_971000.jpeg/3840px-Fletcher_Moss_Gardens%2C_Didsbury_00_23_39_971000.jpeg": {
   "slug": "manchester-fletcher-moss-botanical-gardens",
   "verdict": "MATCH",
@@ -13251,6 +13323,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Rio de Janeiro cityscape, not Manchester venue",
   "at": "2026-10-01T23:31:51.771Z"
+ },
+ "manchester-st-peter-s-square\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Paulownia_trees_in_leaf_at_St_Peter%27s_Square%2C_Manchester_01.jpg/3840px-Paulownia_trees_in_leaf_at_St_Peter%27s_Square%2C_Manchester_01.jpg": {
+  "slug": "manchester-st-peter-s-square",
+  "verdict": "MATCH",
+  "reason": "publish gate: Plausible St. Peter's Square plaza scene with surrounding buildings",
+  "at": "2026-10-03T07:41:49.930Z"
  },
  "mandalika-pertamina-grand-prix-of-indonesia-motogp-mandalika\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/MotoGP_di_Sirkuit_Balapan_Pertamina_Mandalika%2C_NTB%2C_Indonesia.jpg/1920px-MotoGP_di_Sirkuit_Balapan_Pertamina_Mandalika%2C_NTB%2C_Indonesia.jpg": {
   "slug": "mandalika-pertamina-grand-prix-of-indonesia-motogp-mandalika",
@@ -23491,11 +23569,29 @@
   "reason": "publish gate: Aerial view of Yokohama Red Brick Warehouse complex",
   "at": "2026-09-22T07:42:49.173Z"
  },
+ "york-clifford-s-tower-york\u0001https://upload.wikimedia.org/wikipedia/commons/e/ee/York_Castle_Clifford%27s_Tower_2007.jpg": {
+  "slug": "york-clifford-s-tower-york",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear recognisable exterior view of Clifford's Tower on mound",
+  "at": "2026-10-03T07:42:52.459Z"
+ },
+ "york-museum-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/York_Museum_Gardens_24.08.2013.jpg/3840px-York_Museum_Gardens_24.08.2013.jpg": {
+  "slug": "york-museum-gardens",
+  "verdict": "MATCH",
+  "reason": "publish gate: Garden with ancient city wall, matches Museum Gardens York",
+  "at": "2026-10-03T07:49:18.629Z"
+ },
  "york-rise\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rise_Fossgate_York_Mar25.jpg/3840px-Rise_Fossgate_York_Mar25.jpg": {
   "slug": "york-rise",
   "verdict": "MATCH",
   "reason": "publish gate: Exterior storefront of Rise cafe in York",
   "at": "2026-10-01T14:55:25.609Z"
+ },
+ "york-shambles-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Shambles_Market.jpg/3840px-Shambles_Market.jpg": {
+  "slug": "york-shambles-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Market stalls with goods under covered arcade, matches venue",
+  "at": "2026-10-03T07:54:31.289Z"
  },
  "york-skosh\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Skosh_Micklegate_York_Mar26.jpg/3840px-Skosh_Micklegate_York_Mar26.jpg": {
   "slug": "york-skosh",

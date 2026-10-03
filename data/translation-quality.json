@@ -30379,13 +30379,6 @@
   "worst": "멋스럽게 늦게 도착하는 현지 관행을 따르기보다는 개장 시간에 맞춰 가시는 편이 좋습니다.",
   "at": "2026-09-28T16:01:55.378Z"
  },
- "ko/dubai-najwa-karam-live-in-dubai": {
-  "hash": "df234109b2f2",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "이들에게 그녀의 콘서트는 단순한 배경음악이 아니라 하나의 진짜 이벤트로 여겨집니다.",
-  "at": "2026-09-28T16:02:05.153Z"
- },
  "ko/dubai-waterfront-market": {
   "hash": "b3bdebba2661",
   "score": 1,
@@ -31323,5 +31316,82 @@
   "registerBreak": false,
   "worst": "这座建筑坚固得炸不掉，最后干脆被埋了起来。",
   "at": "2026-10-02T14:36:52.516Z"
+ },
+ "es/brighton-brighton-palace-pier": {
+  "hash": "7c3956a99609",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Si llega a la apertura de las 10am, normalmente se adelantará a los excursionistas...",
+  "at": "2026-10-03T08:00:12.990Z"
+ },
+ "es/brighton-preston-manor-and-preston-park": {
+  "hash": "5c2ab0b588d7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "son unos treinta minutos por terreno llano, subiendo por London Road y Preston Road.",
+  "at": "2026-10-03T08:00:14.066Z"
+ },
+ "ja/bremen-kunsthalle-bremen": {
+  "hash": "975fb5d78964",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "抗議の先頭に立ったのは画家のカール・フィネン（Carl Vinnen）でしたが、多くの著名な芸術家や批評家が美術館を擁護する声を上げました。",
+  "at": "2026-10-03T08:00:15.353Z"
+ },
+ "ja/brighton-brighton-palace-pier": {
+  "hash": "05fc9a086b1e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "ヴィクトリア朝時代の鉄骨は今も多くが残っています。",
+  "at": "2026-10-03T08:00:16.375Z"
+ },
+ "ja/brighton-preston-manor-and-preston-park": {
+  "hash": "fca512ca5212",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-03T08:00:17.126Z"
+ },
+ "ko/bremen-kunsthalle-bremen": {
+  "hash": "035850276b72",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "대부분의 사람들이 그때 시간을 내기 때문입니다.",
+  "at": "2026-10-03T08:00:23.474Z"
+ },
+ "ko/brighton-brighton-palace-pier": {
+  "hash": "113879cf1a23",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "개찰구 앞에서 확인하지 말고 줄을 서기 전에 미리 살펴보세요.",
+  "at": "2026-10-03T08:00:25.032Z"
+ },
+ "ko/brighton-preston-manor-and-preston-park": {
+  "hash": "a42bea0968e8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "A23 런던 로드를 따라 길게 뻗어 있어 한쪽 긴 가장자리로는 차량이 끊임없이 오갑니다.",
+  "at": "2026-10-03T08:00:30.107Z"
+ },
+ "zh/bremen-kunsthalle-bremen": {
+  "hash": "6c0eaafe2b9d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "从藏品中也能看出它源于民间、扎根市民的出身：大部分作品并非宫廷世代相传，而是由本地人购入或捐赠的。",
+  "at": "2026-10-03T08:00:37.494Z"
+ },
+ "zh/brighton-brighton-palace-pier": {
+  "hash": "c5311f1e3a03",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "码头位于老斯坦因与海滨交会处，地址是Madeira Drive, BN2 1TW。",
+  "at": "2026-10-03T08:00:38.675Z"
+ },
+ "zh/brighton-preston-manor-and-preston-park": {
+  "hash": "6bfccb5d1939",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "记得找一找“普雷斯顿双子榆”（Preston Twins）仅存的那一棵。",
+  "at": "2026-10-03T08:00:39.848Z"
  }
 }

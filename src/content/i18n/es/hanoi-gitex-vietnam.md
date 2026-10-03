@@ -1,69 +1,69 @@
 ---
 lang: es
 slug: hanoi-gitex-vietnam
-srcHash: '4fd3f70ef3fe'
+srcHash: 'eb062002fa76'
 title: 'GITEX Vietnam: fechas, entradas y sede (Hanói)'
-description: GITEX Vietnam se celebra en Hanói (Vietnam) el 1 y 2 de octubre de 2026. Qué es, cuándo y dónde tiene lugar, y cómo organizar la visita.
-quickAnswer: GITEX Vietnam (oficialmente GITEX AI Vietnam) se celebra el 1 y 2 de octubre de 2026 en Hanói, dentro de la red global de exposiciones tecnológicas GITEX organizada junto con el Dubai World Trade Centre y el Centro Nacional de Innovación de Vietnam (National Innovation Center, NIC). Se trata de una edición inaugural, así que conviene confirmar la sede, la distribución de pabellones y las categorías de entradas en el sitio oficial de GITEX antes de reservar vuelos u hoteles. Cabe esperar un formato de conferencia empresarial más que de feria abierta al público, por lo que conviene planificar en torno a la inscripción previa y no a la entrada libre.
+description: Las fechas anunciadas de GITEX AI Vietnam eran el 1 y 2 de octubre de 2026, en Hanói. La organizaban el Dubai World Trade Centre y el Centro Nacional de Innovación de Vietnam.
+quickAnswer: GITEX Vietnam, cuyo nombre oficial es GITEX AI Vietnam, estaba programada para el 1 y 2 de octubre de 2026 en Hanói. Pertenecía a la red mundial de exposiciones tecnológicas GITEX y corría a cargo del Dubai World Trade Centre y del Centro Nacional de Innovación de Vietnam. Era la primera vez que la marca llegaba a Hanói. Según el formato anunciado, se trataba de una conferencia y exposición profesional, no de una feria abierta al público, y para entrar hacía falta inscribirse con antelación, sin acceso directo en la puerta.
 faq:
-  - q: ¿Cuándo es exactamente GITEX Vietnam 2026?
-    a: El 1 y 2 de octubre de 2026, en Hanói. Conviene confirmar los horarios en el sitio oficial de GITEX, ya que la agenda diaria exacta puede variar respecto al patrón general de dos días que siguen otras ediciones de GITEX.
-  - q: ¿Dónde está la sede?
-    a: Todavía no hay una dirección concreta confirmada para la sede; dado el papel del Centro Nacional de Innovación (NIC) como coorganizador, es probable que se trate de una instalación vinculada al NIC en la zona de Hanói. Conviene revisar el sitio oficial para conocer la sede exacta y el distrito.
-  - q: ¿Cuánto cuestan las entradas?
-    a: Aquí no se indican precios para evitar especulaciones; los eventos de GITEX suelen ofrecer categorías de entrada para visitantes, para la conferencia y para expositores. Lo recomendable es inscribirse y consultar los precios vigentes a través del sitio oficial de GITEX Vietnam, no mediante revendedores externos.
-  - q: ¿Está abierto al público general?
-    a: Está planteado como una conferencia y exposición de negocios y tecnología, no como un festival abierto al público, por lo que se espera un proceso de inscripción previa en lugar de entrada libre.
+  - q: ¿En qué fechas exactas se anunció GITEX Vietnam 2026?
+    a: Las fechas eran el 1 y 2 de octubre de 2026, en Hanói. Los horarios diarios cambian de una edición de GITEX a otra, pero el formato de dos días es el habitual en las citas regionales fuera de la principal, la de Dubái.
+  - q: ¿Dónde estaba la sede?
+    a: Para esta edición no se indicó ninguna dirección concreta. Dado que el Centro Nacional de Innovación participaba como coorganizador, lo más probable era que acogiera el evento unas instalaciones vinculadas al NIC en la zona de Hanói.
+  - q: ¿Cuánto costaban las entradas?
+    a: No se publicaron los precios de esta edición. Los eventos GITEX suelen ofrecer distintas categorías de pase para visitantes, asistentes a la conferencia y expositores. La inscripción se gestionaba a través de la web oficial de GITEX Vietnam, no mediante vendedores externos.
+  - q: ¿Estaba abierto al público general?
+    a: No. Se concibió como una conferencia y exposición profesional y tecnológica, no como un festival para el público, y el acceso requería inscripción previa en lugar de entrada directa en la puerta.
   - q: ¿Cómo se llega del aeropuerto al centro de Hanói?
-    a: El aeropuerto internacional de Noi Bai está a unos 25-30 minutos en coche del centro de Hanói, más tiempo si hay mucho tráfico. Las opciones habituales son Grab (aplicación de transporte con conductor) o los taxis del aeropuerto.
+    a: El Aeropuerto Internacional de Noi Bai está a unos 25-30 minutos en coche del centro de Hanói, y a más si hay mucho tráfico. Las opciones habituales eran Grab, la aplicación de transporte con conductor, y los taxis del aeropuerto.
 ---
 
 ## Qué es realmente GITEX Vietnam
 
-GITEX AI Vietnam es una exposición y conferencia tecnológica que llega a Hanói el 1 y 2 de octubre de 2026. La organiza KAOUN International, la empresa detrás de la franquicia GITEX del Dubai World Trade Centre, en colaboración con el Centro Nacional de Innovación de Vietnam (National Innovation Center, NIC).
+GITEX AI Vietnam combina exposición y conferencia tecnológica. Las fechas anunciadas para su edición de Hanói eran el 1 y 2 de octubre de 2026. Detrás de la organización estaba KAOUN International, la empresa que gestiona la franquicia GITEX del Dubai World Trade Centre, junto con el Centro Nacional de Innovación de Vietnam (National Innovation Center, NIC).
 
-Esa alianza con el NIC es importante. A diferencia de una feria puramente comercial instalada en un pabellón alquilado, esta edición está integrada en la propia infraestructura estatal de innovación de Vietnam, lo cual condiciona tanto la elección de la sede como el perfil de los asistentes, orientado hacia representantes gubernamentales, responsables de políticas públicas y empresas, más que hacia un público general.
+Esa alianza con el NIC no es un detalle menor. Esta edición no era una feria puramente comercial instalada de paso en un recinto alquilado, sino que estaba ligada a la propia infraestructura estatal de innovación de Vietnam. Ese vínculo condicionaba tanto la elección de la sede como el perfil de los asistentes, en su mayoría representantes del Gobierno, responsables de políticas públicas y empresas, más que público general.
 
-Esta es la edición inaugural de GITEX en Hanói, una marca que ya organiza grandes eventos en Dubái, Berlín y otras ciudades. Las primeras ediciones de cualquier evento derivado de GITEX suelen ser más pequeñas y exploratorias que la muestra insignia de Dubái, con una lista de expositores y un plano de planta que se van ampliando año tras año en lugar de quedar fijados desde el primer momento.
+Hanói acogía así su primera edición de GITEX, una marca que celebra grandes eventos en Dubái, Berlín y otras ciudades. Las primeras ediciones de cualquier derivado de GITEX suelen ser más pequeñas y exploratorias que la cita principal de Dubái. La lista de expositores y el plano del recinto van creciendo de un año a otro, en lugar de quedar cerrados desde el principio.
 
-## Fechas y cómo se estructurarán probablemente los dos días
+## Fechas y posible organización de las dos jornadas
 
-El evento está previsto para el 1 y 2 de octubre de 2026, un formato de dos días que es el habitual en las ediciones regionales de GITEX fuera de la muestra insignia de Dubái. Las conferencias tecnológicas de dos días y esta escala suelen dividirse en una primera jornada más cargada, con las ponencias principales y las sesiones ministeriales o vinculadas al NIC, mientras que el segundo día se orienta más hacia el tiempo en el pabellón de expositores y los paneles temáticos más reducidos.
+El evento abarcaba el 1 y 2 de octubre de 2026. Esa duración de dos días es la habitual en las ediciones regionales de GITEX fuera de Dubái. En las conferencias tecnológicas de este tamaño, la primera jornada suele ser la más intensa, con ponencias principales y sesiones con ministros o vinculadas al NIC. La segunda, en cambio, se dedica sobre todo a recorrer la zona de expositores y a mesas redondas más reducidas.
 
-Se trata de un patrón razonable para planificar la visita, no de una agenda publicada. Conviene confirmar el programa día a día en el sitio oficial de GITEX, ya que los horarios de las sesiones y la asignación de escenarios en una edición inaugural son precisamente el tipo de detalle que conviene comprobar de primera mano en lugar de dar por supuesto.
+Ese es el esquema general del formato, no un programa publicado. En una edición inaugural, los horarios de las sesiones y la asignación de escenarios suelen ser lo último en definirse, y el anuncio de las fechas no incluía un programa detallado por días.
 
-## Cómo ubicar la sede en Hanói
+## La sede en Hanói
 
-Los organizadores no cuentan con una sede fija y consolidada para este evento, como sí ocurre en Dubái con el Dubai World Trade Centre. Dada la implicación directa del Centro Nacional de Innovación, lo más plausible es que el anfitrión sea una instalación del NIC o un recinto de convenciones vinculado a él en la zona de Hanói; conviene tratar la dirección exacta como un dato pendiente de verificar en el listado oficial y no darla por supuesta.
+A diferencia de la GITEX de Dubái, que tiene su casa en el Dubai World Trade Centre, este evento no contaba con una sede fija consolidada. Dada la participación directa del Centro Nacional de Innovación, lo más verosímil era que se celebrara en unas instalaciones del NIC o en un centro de convenciones vinculado a él en la zona de Hanói. El anuncio no precisaba ninguna dirección.
 
-Antes de reservar un hotel o de organizar el transporte, conviene revisar la página oficial de GITEX Vietnam para conocer el nombre de la sede y el distrito. Para quienes están acostumbrados a orientarse por Hanói mediante puntos de referencia más que por direcciones, conviene fijarse en si la sede se encuentra en los distritos centrales más antiguos (cerca de Hoan Kiem) o más hacia las nuevas zonas del campus del NIC, al oeste de la ciudad, ya que eso cambia considerablemente el tiempo en taxi y la elección de hotel.
+La ubicación importa mucho en esta ciudad. Los distritos céntricos más antiguos, en torno a Hoan Kiem, quedan lejos de los nuevos campus del NIC, situados al oeste, y esa distancia influye considerablemente en la duración de los trayectos en taxi y en la elección del hotel. Quienes se orientan en Hanói por puntos de referencia, y no por direcciones, suelen instalarse en una de las dos zonas.
 
 ## Entradas e inscripción
 
-Al tratarse de una exposición de negocios y tecnología, y no de un festival abierto al público, los eventos de GITEX suelen funcionar con un modelo de inscripción: pases de visitante, pases de conferencia y paquetes para expositores, cada uno con un precio distinto y a menudo con tarifas anticipadas. Para esta edición de Hanói, lo mejor es consultar directamente los precios y categorías de pase exactos en lugar de suponerlos.
+Al tratarse de una exposición profesional y tecnológica, y no de un festival para el público, los eventos GITEX suelen funcionar mediante inscripción. Ofrecen pases de visitante, pases de conferencia y paquetes para expositores a precios distintos, a menudo con tarifas reducidas por compra anticipada. Junto con las fechas no se publicaron ni los precios ni las modalidades de pase de esta edición de Hanói.
 
-- Inscribirse a través del sitio web oficial de GITEX Vietnam, no mediante revendedores externos
-- Esperar categorías separadas para el acceso al pabellón de exposición y el acceso a la conferencia o a las ponencias principales
-- Las delegaciones corporativas o gubernamentales suelen inscribirse como grupo a través del NIC o de canales asociados, más que de forma individual
+- La inscripción se hacía a través de la web oficial de GITEX Vietnam, no mediante revendedores
+- El acceso a la zona de exposición y el acceso a la conferencia o a las ponencias principales suelen tener tarifas diferentes
+- Las delegaciones de empresas y organismos públicos se inscriben a menudo en grupo, a través del NIC o de canales asociados, en lugar de hacerlo de forma individual
 
-Conviene confirmar las categorías de entrada, los precios y cualquier plazo de tarifa anticipada en el sitio oficial antes de comprometerse con las fechas del viaje.
+Los plazos de compra anticipada forman parte habitual del calendario de inscripción de GITEX, y las tarifas más baratas se cierran varias semanas antes del evento.
 
-## Cómo interpretar el pabellón de un primer año de GITEX
+## Cómo es una primera edición de GITEX
 
-Quienes ya hayan asistido a una edición consolidada de GITEX en Dubái o Berlín deberían ajustar aquí sus expectativas. Las ediciones inaugurales son más reducidas: menos pabellones de expositores, una lista más ajustada de ponentes principales y un programa moldeado por este lanzamiento concreto, en lugar del formato extenso de múltiples pabellones que la muestra insignia de Dubái ha construido a lo largo de los años.
+Frente a una cita consolidada como las de Dubái o Berlín, una primera edición resulta más contenida. Hay menos pabellones de expositores y una lista más corta de ponentes principales, y el programa gira en torno al propio lanzamiento, lejos del extenso formato de varios pabellones que la cita de Dubái ha ido construyendo con los años.
 
-Esto no supone una desventaja para quienes acuden a establecer contactos directos. Las primeras ediciones, al ser más pequeñas, suelen tener una mayor proporción de responsables de decisión frente a simples visitantes curiosos, ya que la asistencia se inclina hacia empresas y funcionarios con un interés directo en la política tecnológica y de innovación de Vietnam, más que hacia el turismo sectorial general.
+Para quien busca contactos directos, eso no supone ninguna desventaja. En las primeras ediciones, más pequeñas, suele haber más personas con capacidad de decisión y menos visitantes de paso, porque acuden sobre todo empresas y altos cargos con un interés directo en la política tecnológica y de innovación de Vietnam, y no tanto curiosos del sector.
 
 ## Cómo llegar a Hanói y moverse por la ciudad
 
-La mayoría de los visitantes internacionales llega a través del aeropuerto internacional de Noi Bai, situado aproximadamente a 25-30 minutos en coche del centro de Hanói según el tráfico, y más tiempo en horas punta. Los taxis del aeropuerto y las aplicaciones de transporte con conductor (Grab es la dominante localmente) son la forma habitual de desplazamiento; conviene acordar la tarifa del taxi del aeropuerto de antemano o utilizar el taxímetro o la aplicación de transporte para evitar el regateo.
+La mayoría de los visitantes internacionales llegan por el Aeropuerto Internacional de Noi Bai, situado a unos 25-30 minutos en coche del centro de Hanói según el tráfico, y a más en hora punta. Lo habitual es desplazarse en taxi del aeropuerto o con aplicaciones de transporte; Grab es la que domina en el país. Tanto el taxímetro como la aplicación evitan tener que regatear el precio.
 
-Una vez en la ciudad, Grab también es la manera más sencilla de llegar hasta la propia sede de la conferencia: basta con marcar la ubicación con la dirección indicada en la confirmación de inscripción o en la página oficial del evento. El tráfico de Hanói es denso y apenas respeta la disciplina de carriles, así que conviene calcular más tiempo de trayecto del que sugiere cualquier estimación de mapa, sobre todo cerca del inicio de la sesión matinal.
+Dentro de la ciudad, Grab es también la forma más sencilla de llegar a un centro de conferencias, ya que los conductores se guían por la ubicación marcada en el mapa y no por el número de la calle. El tráfico de Hanói es denso y se respetan poco los carriles, así que los trayectos reales duran más de lo que calcula el mapa, sobre todo por la mañana.
 
-## Etiqueta con la acreditación y el ritmo propio de una conferencia empresarial
+## Protocolo y ritmo de una conferencia profesional
 
-Las tarjetas de presentación siguen teniendo mucho peso en las conferencias tecnológicas de Vietnam y del sudeste asiático en general; conviene llevar más de las que uno cree necesitar, y entregarlas y recibirlas con ambas manos como cortesía básica. El código de vestimenta tiende a lo formal o a lo business casual elegante durante las ponencias principales, y se relaja algo en el propio pabellón de exposición.
+En las conferencias tecnológicas de Vietnam y, en general, del Sudeste Asiático, las tarjetas de visita siguen teniendo mucho peso, y la cortesía básica consiste en entregarlas y recibirlas con las dos manos. Para las ponencias principales se suele vestir de traje o con un estilo formal pero algo más relajado; en la zona de exposición, el código es más informal.
 
-El networking en este tipo de eventos suele producirse en los intersticios del programa: las pausas para el café entre sesiones, el pabellón de expositores durante los momentos de menor actividad y las recepciones vespertinas organizadas, cuando el programa incluye alguna. Quienes asistan por desarrollo de negocio y no solo por las ponencias principales deberían considerar el tiempo en el pabellón del segundo día como la ventana de mayor valor, ya que suele ser cuando los expositores están disponibles para conversaciones más largas en lugar de estar impartiendo una charla programada.
+En este tipo de eventos, los contactos suelen surgir en los ratos libres: las pausas para el café entre sesiones, los momentos tranquilos en la zona de expositores y las recepciones nocturnas, cuando el programa incluye alguna. Para cerrar negocios, más que para escuchar ponencias, la segunda jornada en la zona de exposición suele ser la más provechosa, porque los expositores están entonces disponibles para conversaciones largas y no ocupados con charlas programadas.
 
-Conviene confirmar el programa definitivo, las categorías de acreditación y cualquier evento de networking directamente en el sitio oficial de GITEX Vietnam, ya que estos detalles logísticos son precisamente los que conviene verificar de primera mano en lugar de dar por supuestos a partir de otras ediciones de GITEX.
+Además, la logística de las primeras ediciones es sencilla. Hay un único mostrador de acreditaciones, un solo plano y muchas menos sesiones simultáneas que en Dubái o Berlín, donde el programa se reparte entre varios pabellones a la vez.
