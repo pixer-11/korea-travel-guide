@@ -19,7 +19,11 @@ heroImage:
   focus:
     x: 50
     'y': 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/12455_CKHP-1hGH-gqXotYipqRos142tOYbqHHjtJtq_eOnSg.jpg"
+    credit: "Photo: Foursquare user content (Snoopers Paradise)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b058848f964a52061bc22e3"
 place:
   id: ChIJsRKIaXWFdUgRWS1R8NQt1ow
   name: Snoopers Paradise

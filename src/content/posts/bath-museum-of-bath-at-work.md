@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 65
     y: 55
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/11357608_SYIXbwmRZekhocJZ2eZ7OCqOhr2piwJSKwpbXAM7Hn0.jpg"
+    credit: "Photo: Foursquare user content (Museum Of Bath At Work)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4f61184be4b0e571a32e81a7"
 place:
   id: "ChIJ4xH_Y2uBcUgRExwelDHLSl0"
   name: "Museum of Bath at Work"

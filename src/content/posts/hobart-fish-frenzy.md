@@ -20,7 +20,11 @@ heroImage:
   focus:
     x: 65
     'y': 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/58599708_E8vjcU3bEN-grhIuRic7HYyes9v-tRErHLQwr-LEM10.jpg"
+    credit: "Photo: Foursquare user content (Fish Frenzy)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b623831f964a520ec3c2ae3"
 place:
   id: ChIJQYWSj4Z1bqoRpRynZXms_Yk
   name: Fish Frenzy

@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/11367555_8ljcUlBlJZZHDgIB757ggpoDG5szP4ObK2DnkB4IswA.jpg"
+    credit: "Photo: Foursquare user content (York Castle Museum)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b55b61af964a520cfec27e3"
 place:
   id: "ChIJdxvVAKgxeUgRPpnPDg9rCWQ"
   name: "York Castle Museum"

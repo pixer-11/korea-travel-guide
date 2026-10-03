@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/66758803_GtTytJ0lhDOb7vK5w3hYwrXDYCQsDdh8ZZiwjvKcgXo.jpg"
+    credit: "Photo: Foursquare user content (Lapworth Museum of Geology)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4e3d3e01d164b52911a9a6bb"
 place:
   id: "ChIJMweNhqy9cEgR3FX_XKAi464"
   name: "Lapworth Museum of Geology"

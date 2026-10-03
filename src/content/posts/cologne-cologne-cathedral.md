@@ -19,7 +19,11 @@ heroImage:
   focus:
     x: 48
     'y': 30
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/4754548_pPjSeT_sB56N31BQdjTKDLHxYJHm3LBfp3gfMZyR4tM.jpg"
+    credit: "Photo: Foursquare user content (Cologne Cathedral (Kölner Dom))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b05886cf964a520fcc422e3"
 place:
   id: ChIJLz2cNqUlv0cRxqnjljiR7Ck
   name: Cologne Cathedral

@@ -17,7 +17,11 @@ heroImage:
   focus:
     x: 45
     'y': 55
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1373690244_TFETBdPINurHovVomEVq7Q2ulWh8Y0aO77YJthkWXr4.jpg"
+    credit: "Photo: Foursquare user content (Port Arthur Historic Site)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bd422e841b9ef3b857f01e6"
 place:
   id: ChIJm4KN7kOlbaoRY-m_N1IXZec
   name: Port Arthur Historic Site

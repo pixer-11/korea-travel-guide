@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/7207179_v1kYey5zJshKexqz4CB_nUoeRO_fU51MnMECYCMTiFk.jpg"
+    credit: "Photo: Foursquare user content (Black Sheep Coffee)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/67a0a819a0992a3be8a1c72b"
 place:
   id: "ChIJdSThCgAJYUgRiYiCv4Lo-9Q"
   name: "Black Sheep Coffee"

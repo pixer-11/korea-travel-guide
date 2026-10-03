@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/8823782_i-HbyOBKuVzUtvPfIrP2E90N86H9QZ5OF1Ma7PbI9QM.jpg"
+    credit: "Photo: Foursquare user content (Yiu Ming Temple 洪聖宮廟)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4d4944cb7d36f04d74a00fe5"
 place:
   id: "ChIJeRDM18WxEmsRhUMdyxG-OYs"
   name: "Yiu Ming Temple"

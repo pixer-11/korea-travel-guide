@@ -18,7 +18,11 @@ heroImage:
   focus:
     x: 50
     'y': 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/57444074_gVVXTgmPoUzqn2eU_hXn8hgPlzUlZAFcRElH1B_Tu7g.jpg"
+    credit: "Photo: Foursquare user content (George Brown Darwin Botanic Gardens)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bbd2a94593fef3b57310356"
 place:
   id: ChIJWfUCiYKRwCwREvK_ugWYvVU
   name: George Brown Darwin Botanic Gardens

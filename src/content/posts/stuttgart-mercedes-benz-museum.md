@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 55
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/758197_yf_LcmBHAm_LhOWOXyhuP_AXtJfAxaBHKNMitx8aLco.jpg"
+    credit: "Photo: Foursquare user content (Mercedes-Benz Museum)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b1d7ff5f964a520591124e3"
 place:
   id: "ChIJkd8d2v7EmUcRlEv7v_H0ZsE"
   name: "Mercedes-Benz Museum"

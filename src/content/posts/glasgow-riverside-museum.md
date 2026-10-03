@@ -17,7 +17,11 @@ heroImage:
   focus:
     x: 50
     'y': 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/8661505_lbnGDRQUSaS7c6vNNfuEwElvxqPkK5Cr-Waew08xPDI.jpg"
+    credit: "Photo: Foursquare user content (Riverside Museum)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4c8a3ba4a92fa093be438fbf"
 place:
   id: ChIJ7zFC8tBFiEgRA1AWs9n2fAs
   name: Riverside Museum

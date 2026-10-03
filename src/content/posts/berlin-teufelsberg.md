@@ -17,7 +17,11 @@ heroImage:
   focus:
     x: 71
     'y': 30
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/105926426_RPeyuR_-fM19YkjZp0s_aDGhk4_WfVt_fo1TpP_FEWE.jpg"
+    credit: "Photo: Foursquare user content (Teufelsberg)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4adcda7df964a520804721e3"
 place:
   id: ChIJh2Wp5D9XqEcRxAmI3xwUcUI
   name: Teufelsberg

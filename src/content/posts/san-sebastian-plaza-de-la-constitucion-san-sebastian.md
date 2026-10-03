@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/47254131_4h5UD6tKOCw-sdqszrsWg5f0S1hIGoCEUAhWSWErp-o.jpg"
+    credit: "Photo: Foursquare user content (Plaza de la Constitución)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bffeb65f61ea593ebf7ea13"
 place:
   id: "ChIJkY9xRAClUQ0Rt0q3pGx1jbE"
   name: "Plaza de la Constitución San Sebastian"

@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/8015435_1vBtXYjbPrOcfgAROwB0NojEVjCFqtBck0wtFdZZ7m8.jpg"
+    credit: "Photo: Foursquare user content (Kaffeehaus Goldene Waage)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/5d417a29a8136500084310e2"
 place:
   id: "ChIJ60gN-zoPvUcRbLfYuWtICQA"
   name: "Kaffeehaus Goldene Waage"

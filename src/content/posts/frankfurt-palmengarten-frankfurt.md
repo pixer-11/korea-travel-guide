@@ -19,7 +19,11 @@ heroImage:
   focus:
     x: 50
     'y': 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/47784220_ZJbfl3bk3tRu_WDFXWb6Xh8SQRNvHxrpO0MVcXxGmEw.jpg"
+    credit: "Photo: Foursquare user content (Palmengarten)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b05884ff964a520a6bd22e3"
 place:
   id: ChIJxfLE2UUJvUcR5WlJbp2M1D0
   name: Palmengarten Frankfurt

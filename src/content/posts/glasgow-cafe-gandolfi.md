@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/60172126_KuQb122lZvIM8TAXLLr6ywJ5EafdO2csm3kQ-uwLiIY.jpg"
+    credit: "Photo: Foursquare user content (Cafe Gandolfi)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b50d353f964a520df3327e3"
 place:
   id: "ChIJL7SsWIFHiEgRfmd0OQLIpgU"
   name: "Cafe Gandolfi"

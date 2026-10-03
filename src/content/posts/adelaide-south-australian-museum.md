@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 40
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/182684459_w_xWSl22PviARkuQwi1e59QL2X0DBkc4HKHyLOoG520.jpg"
+    credit: "Photo: Foursquare user content (South Australian Museum)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b735fb0f964a52054ab2de3"
 place:
   id: "ChIJF1k2tdXOsGoRKq4uZzLQMtg"
   name: "South Australian Museum"

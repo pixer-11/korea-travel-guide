@@ -16,7 +16,11 @@ heroImage:
   focus:
     x: 50
     'y': 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/1410935860_X_hT-p7ERDC03EwZkWDwVfgFhdtJvv-eEOUEGUXa46A.jpg"
+    credit: "Photo: Foursquare user content (Speicherstadt)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b05885cf964a520cec022e3"
 place:
   id: ChIJAQAAkAKPsUcRgJn-oX24pYo
   name: Speicherstadt

@@ -17,7 +17,11 @@ heroImage:
   focus:
     x: 40
     'y': 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/14299411_yepU6_BBLiMF_4wupqSVa0udDj0WzoUUSkB78WZgI9s.jpg"
+    credit: "Photo: Foursquare user content (Neuschwanstein Castle (Schloss Neuschwanstein))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bc1ce31abf49521b076c193"
 place:
   id: ChIJXaNOxMr3nEcRo7ud02uGpsg
   name: Neuschwanstein Castle

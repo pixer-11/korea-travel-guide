@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 40
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/235334_-13c7ol9LqhMOYmnd42MKzihMRWOteC_VBI_7Po-MUc.jpg"
+    credit: "Photo: Foursquare user content (Fort George)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4bd7074b29eb9c74200196e1"
 place:
   id: "ChIJyxombVUFdkgR2I2uEbFVdeM"
   name: "Fort George"

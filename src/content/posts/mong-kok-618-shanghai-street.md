@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 55
     y: 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/374741_rQNHtnsMg_MJvOZNbOe6intHeEMgxchylmGSisBkHFM.jpg"
+    credit: "Photo: Foursquare user content (618 Shanghai Street (618上海街))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/5de0c59d616eb4000839cd78"
 place:
   id: "ChIJxdvp8McABDQRepxNG9SVh20"
   name: "618 Shanghai Street"

@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/27097945_o1CdjqNtwNGHFOUN_QP3P-0e-Wg6eo9nGFwaiDm8xJs.jpg"
+    credit: "Photo: Foursquare user content (Rise)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/6210f702c5f3ef4f1bbfb424"
 place:
   id: "ChIJB0MPeNwxeUgRtneSSc-Dawk"
   name: "Rise."

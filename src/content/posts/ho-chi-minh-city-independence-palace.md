@@ -18,7 +18,11 @@ heroImage:
   focus:
     x: 55
     'y': 40
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Palacio_de_la_Reunificaci%C3%B3n%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_37.JPG/3840px-Palacio_de_la_Reunificaci%C3%B3n%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_37.JPG"
+    credit: "Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Palacio_de_la_Reunificaci%C3%B3n,_Ciudad_Ho_Chi_Minh,_Vietnam,_2013-08-14,_DD_37.JPG"
 place:
   id: ChIJL0dwVTgvdTERao3t8B1Jhxc
   name: Independence Palace

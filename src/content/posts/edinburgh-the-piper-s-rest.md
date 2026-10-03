@@ -19,7 +19,11 @@ heroImage:
   focus:
     x: 50
     'y': 30
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/2846870_ScNdcCbXwjEC4gRawGBqMsskXxc-9586zcMfMpDngzM.jpg"
+    credit: "Photo: Foursquare user content (The Piper's Rest)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/5e2f36eabc9b2a00089ba743"
 place:
   id: ChIJM3SvgoXHh0gRHGd2Dle5LyY
   name: The Piper's Rest

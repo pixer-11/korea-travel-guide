@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 45
     y: 35
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/459498492_N_VfTqOmhOAGqvLTlGZun5Y4yhK-N7bgzR97pPpKSIA.jpg"
+    credit: "Photo: Foursquare user content (Auerbachs Keller)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b7bac0cf964a520756a2fe3"
 place:
   id: "ChIJq4gT_yP4pkcRaivi1YYzVns"
   name: "Auerbachs Keller"

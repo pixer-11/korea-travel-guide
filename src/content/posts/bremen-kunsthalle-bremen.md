@@ -17,7 +17,11 @@ heroImage:
   focus:
     x: 50
     'y': 45
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/8611569_2BPblxS7zzpVsD0qESLwP3Lxy1rLdOnhGgGUNyptnB0.jpg"
+    credit: "Photo: Foursquare user content (Kunsthalle Bremen)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4d0c96c7e0b98cfac211d693"
 place:
   id: ChIJQT2rGQUosUcRsY6rZVVkj5k
   name: Kunsthalle Bremen

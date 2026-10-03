@@ -21,7 +21,11 @@ heroImage:
   focus:
     x: 50
     'y': 20
-gallery: []
+gallery:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/d/d8/Bremer_Geschichtenhaus_1.jpg"
+    credit: "Photo: bras e.V. - arbeiten für bremen (M. Zeuschner) / Wikimedia Commons (CC BY 3.0)"
+    license: "wikimedia"
+    source: "https://commons.wikimedia.org/wiki/File:Bremer_Geschichtenhaus_1.jpg"
 place:
   id: ChIJVdoEHBsosUcRObjVRMLbEjw
   name: Bremer Geschichtenhaus | bras e.V.

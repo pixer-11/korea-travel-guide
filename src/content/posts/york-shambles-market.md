@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/6734581_uINVEi_c5cE5ySwuLCOBU9D_yBXw5ilrgvEUqke6Q-4.jpg"
+    credit: "Photo: Foursquare user content (Shambles Market)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/582347621632354d9f08c430"
 place:
   id: "ChIJ28ArUq8xeUgRI_hhMsOTWTM"
   name: "Shambles Market"

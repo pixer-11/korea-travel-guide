@@ -13,7 +13,11 @@ heroImage:
   focus:
     x: 50
     y: 35
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/430265461_BG4W_MrdI043iw8ScWkcLTEqjgUs3QoPkeszjpH_xf8.jpg"
+    credit: "Photo: Foursquare user content (Nymphenburg Palace (Schloss Nymphenburg))"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4ade0cc5f964a520f66821e3"
 place:
   id: "ChIJLWiif8x3nkcRZm0epRZWTCc"
   name: "Nymphenburg Palace"

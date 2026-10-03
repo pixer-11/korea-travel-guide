@@ -14,7 +14,11 @@ heroImage:
   focus:
     x: 50
     y: 50
-gallery: []
+gallery:
+  - url: "https://fastly.4sqi.net/img/general/original/440298524_Ius2qj6gtAgA-Lsbb6nlHhrOvp9bKlK8our9WLZrga0.jpg"
+    credit: "Photo: Foursquare user content (Kensington Gardens)"
+    license: "foursquare"
+    source: "https://foursquare.com/v/4b7ffcd1f964a520e94830e3"
 place:
   id: "ChIJPaOn4FAFdkgRfLe2KIKp7mI"
   name: "Kensington Gardens"
