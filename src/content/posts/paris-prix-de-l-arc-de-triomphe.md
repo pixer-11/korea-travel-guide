@@ -18,7 +18,7 @@ faq:
   - q: When exactly is the Prix de l'Arc de Triomphe in 2026?
     a: The meeting runs October 3-4, 2026, at Paris-Longchamp Racecourse, with the Arc itself run on Sunday, October 4.
   - q: How do I get to Paris-Longchamp Racecourse?
-    a: Take RER C to Avenue Foch or Avenue Henri Martin, or Métro Line 1 to Porte Maillot/Les Sablons and catch the race-day shuttle bus into the Bois de Boulogne.
+    a: "Take Métro Line 1 to Porte Maillot (exit 6) or Line 10 to Porte d'Auteuil (exit 1) and ride the free race-day shuttle bus. On Sunday the first shuttle leaves at 10:30 and they run about every 15 minutes; the last one back leaves the racecourse at 21:30."
   - q: How much are tickets and where do I buy them?
     a: Pricing varies by tier, from general lawn areas to grandstand and hospitality seating, and changes year to year. Confirm current tickets and pricing on the official France Galop and Paris-Longchamp websites.
   - q: Should I go on Saturday or Sunday?
@@ -49,9 +49,9 @@ The race itself lasts about two and a half minutes. Everything else (the fashion
 
 The track sits inside the Bois de Boulogne, on the western edge of the city, and getting there is part of the ritual.
 
-- **RER C** to Avenue Foch or Avenue Henri Martin, then a walk through the park
-- **Métro Line 1** to Porte Maillot or Les Sablons, followed by a shuttle bus laid on for race days
-- **Bus and taxi** drop-offs near the Porte d'Auteuil entrance, though these fill quickly on race day
+- **Métro Line 1** to Porte Maillot (exit 6), then the free race-day shuttle bus to the course
+- **Métro Line 10** to Porte d'Auteuil (exit 1), then the same free shuttle; on Sunday the first leaves at 10:30 and they run about every 15 minutes
+- **Coming back**: the last shuttle leaves the racecourse at 21:30, and there is free, secure bike parking if you cycle in
 
 Whichever route you pick, build in extra time. Foot traffic through the Bois can bottleneck an hour before the first race, especially on Arc day itself, October 4.
 
@@ -89,5 +89,5 @@ Racegoers who go every year treat Saturday's card as the insider move, smaller c
 - Pack a light layer regardless of forecast; October afternoons at Longchamp turn cool once the sun drops behind the stands
 - Leave the park via Porte d'Auteuil rather than doubling back through the main entrance, it clears faster once the last race finishes
 
-Whatever you do, don't wait until the last race to place a bet on the Arc itself, queues at the PMU windows peak in the twenty minutes before post time.
+Whatever you do, don't leave your Arc bet to the last minute. The Arc goes off at 16:05 Paris time, the fifth of ten races on Sunday, and queues at the PMU windows peak in the twenty minutes before post time.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: paris-prix-de-l-arc-de-triomphe
-srcHash: '2449047fd4b3'
+srcHash: '6c3267690dc4'
 title: 'Prix de l''Arc de Triomphe: fechas, entradas y sede (París)'
 description: El Prix de l'Arc de Triomphe se celebra en París del 3 al 4 de octubre de 2026. Qué es, cuándo y dónde se disputa, y cómo organizar la visita.
 quickAnswer: El Prix de l'Arc de Triomphe se celebra en el hipódromo de Paris-Longchamp los días 3 y 4 de octubre de 2026, y la gran carrera se disputa el domingo. Las entradas van desde el acceso general al césped hasta las gradas y los paquetes de hospitalidad; conviene confirmar horarios y entradas en las webs oficiales de France Galop y Paris-Longchamp antes de reservar. El día del Arco conviene llegar con bastante antelación a la hora de salida, ya que el acceso por el Bois de Boulogne se congestiona.
@@ -9,7 +9,7 @@ faq:
   - q: ¿Cuándo es exactamente el Prix de l'Arc de Triomphe en 2026?
     a: La reunión se celebra los días 3 y 4 de octubre de 2026 en el hipódromo de Paris-Longchamp, y el Arco propiamente dicho se disputa el domingo 4 de octubre.
   - q: ¿Cómo se llega al hipódromo de Paris-Longchamp?
-    a: Se puede tomar el RER C hasta Avenue Foch o Avenue Henri Martin, o bien la línea 1 de metro hasta Porte Maillot/Les Sablons y desde allí coger el autobús lanzadera habilitado para los días de carreras hacia el Bois de Boulogne.
+    a: "Toma la línea 1 de metro hasta Porte Maillot (salida 6) o la línea 10 hasta Porte d'Auteuil (salida 1) y sube al autobús lanzadera gratuito de los días de carreras. El domingo la primera sale a las 10:30 y pasan cada 15 minutos aproximadamente; la última de vuelta sale del hipódromo a las 21:30."
   - q: ¿Cuánto cuestan las entradas y dónde se compran?
     a: El precio varía según la categoría, desde las zonas generales de césped hasta las gradas y los asientos de hospitalidad, y cambia de un año a otro. Conviene confirmar las entradas y los precios vigentes en las webs oficiales de France Galop y Paris-Longchamp.
   - q: ¿Conviene ir el sábado o el domingo?
@@ -30,9 +30,9 @@ La carrera en sí dura apenas dos minutos y medio. Todo lo demás —la moda, lo
 
 El hipódromo se encuentra dentro del Bois de Boulogne, en el extremo occidental de la ciudad, y llegar hasta allí forma parte del ritual.
 
-- **RER C** hasta Avenue Foch o Avenue Henri Martin, seguido de un paseo a través del parque
-- **Línea 1 de metro** hasta Porte Maillot o Les Sablons, y desde allí un autobús lanzadera dispuesto especialmente para los días de carreras
-- **Autobús y taxi**, con parada cerca de la entrada de Porte d'Auteuil, aunque esta opción se satura rápido el día de la carrera
+- **Línea 1 de metro** hasta Porte Maillot (salida 6), y desde allí el autobús lanzadera gratuito hasta el hipódromo
+- **Línea 10 de metro** hasta Porte d'Auteuil (salida 1), y la misma lanzadera gratuita; el domingo la primera sale a las 10:30 y pasan cada 15 minutos aproximadamente
+- **A la vuelta**: la última lanzadera sale del hipódromo a las 21:30, y quien llegue en bicicleta tiene un aparcamiento gratuito y vigilado
 
 Sea cual sea la ruta elegida, conviene calcular tiempo de sobra: el tránsito peatonal por el Bois puede formar cuellos de botella una hora antes de la primera carrera, sobre todo el día del Arco, el 4 de octubre.
 
@@ -70,4 +70,4 @@ Los aficionados que acuden todos los años consideran la jornada del sábado la 
 - Llevar una capa ligera de abrigo sea cual sea el pronóstico, porque las tardes de octubre en Longchamp refrescan en cuanto el sol se oculta tras las gradas
 - Salir del parque por Porte d'Auteuil en lugar de volver sobre los pasos hacia la entrada principal, ya que ese acceso se despeja más rápido en cuanto termina la última carrera
 
-Hágase lo que se haga, no conviene esperar a la última carrera para apostar en el Arco: las colas en las ventanillas del PMU alcanzan su punto máximo en los veinte minutos previos a la hora de salida.
+Hágase lo que se haga, no conviene dejar la apuesta del Arco para el último momento: el Arco sale a las 16:05, hora de París, como la quinta de las diez carreras del domingo, y las colas en las ventanillas del PMU alcanzan su punto máximo en los veinte minutos previos a la salida.
