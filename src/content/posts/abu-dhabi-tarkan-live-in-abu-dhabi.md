@@ -16,16 +16,15 @@ eventPerformer:
   kind: person
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/1/19/Tarkan_Scopje_concert2.jpg
-  credit: 'Photo: Chevall from Skopje, Macedonia / Wikimedia Commons (CC BY-SA 2.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tarkan_en_concert_au_Z%C3%A9nith_de_Paris.JPG/3840px-Tarkan_en_concert_au_Z%C3%A9nith_de_Paris.JPG
+  credit: 'Photo: Meyrem777 / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Tarkan_Scopje_concert2.jpg
+  source: https://commons.wikimedia.org/wiki/File:Tarkan_en_concert_au_Z%C3%A9nith_de_Paris.JPG
   focus:
-    x: 49
-    'y': 43
-    top: 38
-    bottom: 48
-gallery: []
+    x: 55
+    'y': 24
+    top: 18
+    bottom: 29
 tags:
   - abu dhabi
   - event

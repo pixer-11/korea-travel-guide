@@ -291,6 +291,12 @@
   "reasonKo": "사진이 555px로 너무 작음",
   "at": "2026-09-10T21:58:31.467Z"
  },
+ "abu-dhabi-tarkan-live-in-abu-dhabi\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tarkan_en_concert_au_Z%C3%A9nith_de_Paris.JPG/3840px-Tarkan_en_concert_au_Z%C3%A9nith_de_Paris.JPG": {
+  "slug": "abu-dhabi-tarkan-live-in-abu-dhabi",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Performer singing on stage, correct event type",
+  "at": "2026-10-03T22:23:45.327Z"
+ },
  "abu-dhabi-the-corrs-live-in-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/The_Corrs_%28Vienna%2C_2016%29_22.jpg/1920px-The_Corrs_%28Vienna%2C_2016%29_22.jpg": {
   "slug": "abu-dhabi-the-corrs-live-in-concert",
   "verdict": "MATCH",
@@ -5795,6 +5801,12 @@
   "reason": "publish gate: Shows distinctive Kunsthofpassage courtyard facade with gold art installation",
   "at": "2026-10-02T14:25:01.286Z"
  },
+ "dresden-pulverturm\u0001https://fastly.4sqi.net/img/general/original/1403907252_gzPJHJTPnsNt9NecKI56ySR9K5glHasAaTDg6TsNSCo.jpg": {
+  "slug": "dresden-pulverturm",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Exterior signage clearly shows Pulverturm venue name",
+  "at": "2026-10-03T22:20:34.255Z"
+ },
  "dresden-pulverturm\u0001https://upload.wikimedia.org/wikipedia/commons/2/2e/00_8277_Dresden_-_Pulverturm.jpg": {
   "slug": "dresden-pulverturm",
   "verdict": "MATCH",
@@ -8204,6 +8216,12 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Children playing football in urban Hong Kong plaza",
   "at": "2026-08-16T04:13:28.403Z"
+ },
+ "hong-kong-hong-kong-football-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/c/c8/Berlin_World_of_Football_Ticketing.JPG": {
+  "slug": "hong-kong-hong-kong-football-festival-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic ticket booths at night, not Hong Kong football event",
+  "at": "2026-10-03T22:21:10.893Z"
  },
  "hong-kong-hong-kong-football-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Football_session.jpg/3840px-Football_session.jpg": {
   "slug": "hong-kong-hong-kong-football-festival-2026",
@@ -12239,8 +12257,8 @@
  "little-india-former-house-of-tan-teng-niah\u0001https://fastly.4sqi.net/img/general/original/58563680_9ZCugZu4LqvzpKjyZGIn8k1lQBv17Sjro6AqDSH0VXY.jpg": {
   "slug": "little-india-former-house-of-tan-teng-niah",
   "verdict": "MATCH",
-  "reason": "patrol replace: Distinctive colorful heritage building in Little India, Sing",
-  "at": "2026-10-01T23:30:07.185Z"
+  "reason": "patrol replace: Distinctive colorful heritage building in Little India",
+  "at": "2026-10-03T22:21:28.588Z"
  },
  "little-india-former-house-of-tan-teng-niah\u0001https://fastly.4sqi.net/img/general/original/85142592_q1URUXoOUqNSUSCT88Ylqo8e8cESiaW-6HFYVxmZTkg.jpg": {
   "slug": "little-india-former-house-of-tan-teng-niah",
@@ -13898,11 +13916,17 @@
   "reason": "patrol reject: Photo of flyers on a pole, not the restaurant",
   "at": "2026-10-01T23:32:14.066Z"
  },
+ "milan-procaccini\u0001https://fastly.4sqi.net/img/general/original/ShZlNGgzOyDoQlMwzaTz-42wfcmicrDt4Bv1lFVyLLs.jpg": {
+  "slug": "milan-procaccini",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: width: 612px < 640",
+  "at": "2026-10-03T22:21:57.704Z"
+ },
  "milan-procaccini\u0001https://live.staticflickr.com/95/217582569_52ea43359f_k.jpg": {
   "slug": "milan-procaccini",
   "verdict": "MISMATCH",
-  "reason": "patrol reject: Shows a broken sculpture/object, not the restaurant venue",
-  "at": "2026-10-02T23:11:20.497Z"
+  "reason": "patrol reject: Broken sphere object, not the restaurant venue",
+  "at": "2026-10-03T22:22:00.621Z"
  },
  "milan-procaccini\u0001https://upload.wikimedia.org/wikipedia/commons/4/4c/9431_-_Milano_-_S._Angelo_-_Camillo_Procaccini%2C_Sposalizio_della_Vergine_-_Foto_Giovanni_Dall%27Orto_22-Apr-2007.jpg": {
   "slug": "milan-procaccini",
