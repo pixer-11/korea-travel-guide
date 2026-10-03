@@ -1911,16 +1911,23 @@ main:focus { outline: none; }
    without :has() simply keeps the desktop order — nothing breaks. */
 @media (max-width: 760px) {
   main:has(> .hero-wall) { display: flex; flex-direction: column; }
-  main:has(> .hero-wall) > .hero-wall { order: 0; }
+  /* v3 home (2026-10-04): every section is named here — an unnamed one has
+     order 0 and jumps to just under the hero (the first v3 draft put the
+     country list above the tools that way). Hero, its stats and holiday
+     strips stay together at 0. */
+  main:has(> .hero-wall) > .hero-wall,
+  main:has(> .hero-wall) > .hv3-stats,
+  main:has(> .hero-wall) > .hv3-hol { order: 0; }
   main:has(> .hero-wall) > .sec-tools { order: 1; }
   main:has(> .hero-wall) > .sec-monthly { order: 2; }
   main:has(> .hero-wall) > .sec-latest { order: 3; }
-  main:has(> .hero-wall) > .sec-spot { order: 4; }
-  main:has(> .hero-wall) > .sec-dest { order: 5; }
-  main:has(> .hero-wall) > .sec-ess { order: 6; }
-  main:has(> .hero-wall) > .sec-trust { order: 7; }
-  main:has(> .hero-wall) > .sec-more { order: 8; }
-  main:has(> .hero-wall) > .newsletter { order: 9; }
+  main:has(> .hero-wall) > .hv3-countries { order: 4; }
+  main:has(> .hero-wall) > .newsletter { order: 5; }
+  main:has(> .hero-wall) > .sec-spot { order: 6; }
+  main:has(> .hero-wall) > .sec-dest { order: 7; }
+  main:has(> .hero-wall) > .sec-ess { order: 8; }
+  main:has(> .hero-wall) > .sec-more { order: 9; }
+  main:has(> .hero-wall) > .sec-trust { order: 10; }
   /* "More to read" held 12 full cards — two more screens past the footer's
      reach. Six is a taste; the rest live one tap away on /destinations. */
   .sec-more .grid > :nth-child(n+7) { display: none; }

@@ -26,6 +26,7 @@ const CHECKS = [
   ['analytics-silence.mjs', '검사가 방문자 통계에 안 잡히는지'],
   ['country-coverage.mjs', '나라별 허브 데이터(경고만)'],
   ['header-nav.mjs', '상단 메뉴'],
+  ['home-v3.mjs', '홈 v3(사진 벽·3갈래 선택기·연휴·나라 사진)×5개 언어'],
   ['regressions-2026-10-01.mjs', '10-01 회귀 묶음'],
   ['events-now.mjs', '이벤트 진행 중'],
   ['hubs-checklist-itinerary.mjs', '허브·체크리스트·일정'],

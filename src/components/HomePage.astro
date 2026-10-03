@@ -9,36 +9,46 @@ import Flag from './Flag.astro';
 import Emoji from './Emoji.astro';
 import Newsletter from './Newsletter.astro';
 import Search from './Search.astro';
-import { SITE } from '../siteConfig';
 import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
+import { homeT } from '../i18n/home-strings';
 import { eventSchemaName } from '../lib/eventName';
-import { editorHasTraveled } from '../lib/editorVisited';
+import { editorHasTraveled, EDITOR_VISITED } from '../lib/editorVisited';
 import { localizePlace, localizeVenue } from '../i18n/places';
 import { loadCardTranslations, cardHelpers } from '../i18n/cards';
 import { pickRepHeroUrl, tileSize } from '../lib/repImage';
+import { wallFor } from '../lib/wall';
+import { COUNTRY_TIME } from '../lib/countryTime';
+import { buildToday } from '../lib/buildDay.mjs';
+import { MONTH_SLUGS } from '../lib/when-to-go.mjs';
+import { esimCountries } from '../lib/esim-paths.mjs';
+import { longWeekends, homeGroup, GROUP_ORDER, bandString, diverseNewest, roundRobinByCountry, countLastWeek } from '../lib/home-data.mjs';
 import countriesData from '../../data/countries.json';
-import wallData from '../../data/wall.json';
+import countryFacts from '../../data/country-facts.json';
+import refreshCursor from '../../data/refresh-cursor.json';
 import { heroIsWideEnough } from '../lib/ogPhoto.mjs';
 
 interface Props { lang: Lang }
 const { lang } = Astro.props;
 const t = useTranslations(lang);
+const H = homeT(lang);
 // Localized card titles/descriptions (from postI18n) so the homepage shows
 // translated post titles, not the English source — matches the region/country hubs.
 const tr = await loadCardTranslations(lang);
 const card = cardHelpers(tr, lang);
+const P = (path: string) => localizePath(path, lang);
+const locale = localeCodes[lang] ?? 'en';
 
 const posts = (await getCollection('posts', ({ data }) => !data.draft)).sort(
   (a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime()
 );
 
-const flagship = ['jeju-seongsan-ilchulbong', 'seoul-gyeongbokgung-palace', 'sokcho-seoraksan-cable-car', 'busan-haeundae'];
-// The homepage cover used to be a hardcoded list of four Korean posts, and the
-// first entry always won — so the badge read "Jeju" forever, on a site that now
-// spans dozens of countries. It is now drawn from posts that EARN the slot, and
-// the pick rotates by ISO week so a returning visitor sees somewhere new without
-// anyone editing a list. The rotation is derived, not random: the same week
-// always yields the same cover, so builds stay reproducible.
+// The build's one "today" (lib/buildDay.mjs) — every count on this page is "as
+// of the build", and the script at the bottom re-dates what depends on the
+// reader's own day (month, holidays, events).
+const today = buildToday();
+const todayISO = today.toISOString().slice(0, 10);
+
+// ISO week number: the cover and the crowd demo rotate weekly, reproducibly.
 const isoWeek = (d: Date) => {
   const t = new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate()));
   t.setUTCDate(t.getUTCDate() + 4 - (t.getUTCDay() || 7));           // Thursday of this week
@@ -46,13 +56,10 @@ const isoWeek = (d: Date) => {
   return Math.ceil(((t.getTime() - yearStart.getTime()) / 86400000 + 1) / 7);
 };
 
-// Eligible = a real place, a photo good enough to fill the cover, and enough
-// reviews that it is genuinely a landmark rather than a quiet local spot.
-// heroIsWideEnough keeps a measured-narrow photo out of the rotation. The cover
-// is also the home page's og:image, and one 1024px Wikimedia original (Fort
-// Aguada) put the home page below Discover's 1200px large-card floor for a full
-// week (found 2026-08-06). Unmeasured heroes still qualify — a new post has no
-// probe yet, and the cover pool must not shrink to nothing.
+// The home page's og:image: a landmark that EARNS the slot (real place, wide
+// enough photo, 5,000+ reviews), one per region, rotating by ISO week.
+// heroIsWideEnough keeps a measured-narrow photo out: one 1024px original put
+// the home page below Discover's 1200px floor for a week (2026-08-06).
 const coverPool = posts.filter(
   (p) =>
     p.data.category === 'attraction' &&
@@ -62,46 +69,30 @@ const coverPool = posts.filter(
     heroIsWideEnough(p) &&
     (p.data.place?.userRatingsTotal ?? 0) >= 5000
 );
-
-// One per region, so a rotation moves across places instead of cycling through
-// four spots in one city; the strongest-rated post represents its region.
 const oneWeeklyPickPerRegion = (pool: any[]) => {
   const byRegion = new Map();
   for (const p of [...pool].sort((a, b) => (b.data.place?.userRatingsTotal ?? 0) - (a.data.place?.userRatingsTotal ?? 0))) {
     if (!byRegion.has(p.data.region)) byRegion.set(p.data.region, p);
   }
   const rotation = [...byRegion.values()].sort((a, b) => a.id.localeCompare(b.id)); // stable order
-  return rotation.length ? rotation[isoWeek(new Date()) % rotation.length] : null;
+  return rotation.length ? rotation[isoWeek(today) % rotation.length] : null;
 };
-
 const cover = oneWeeklyPickPerRegion(coverPool) ?? posts[0];
-
-// The spotlight block below is SOUTH KOREA — its flag, heading, city links and
-// button all say so. Its photo used to come from `cover`, which rotates across
-// every country on the site, so the two had nothing to do with each other. It
-// read correctly while the site was Korea-only and broke the week the rotation
-// reached Spain: the home page showed the Alhambra, in Granada, captioned
-// "South Korea" (owner caught it, 2026-08-06). Same pool, same weekly
-// rotation, filtered to Korea — so it is a Korean landmark, and a different
-// one each week.
+// The SOUTH KOREA spotlight's photo comes from Korean posts only: the weekly
+// cover once put the Alhambra under the words "South Korea" (2026-08-06).
 const koreaCover = oneWeeklyPickPerRegion(
   coverPool.filter((p) => (p.data.country ?? 'South Korea') === 'South Korea'),
 );
-const rest = posts.filter((p) => p.id !== cover?.id);
-const latest = rest.slice(0, 3);
-// Don't showcase weak auto-generated cards on the highest-authority page. Food/
-// trendy venues still on a city/landmark fallback hero undercut the "real places,
-// real photos" promise; attractions/events read fine with a landmark shot, but
-// food venues must have their OWN self-hosted photo (/venue-photos/) to appear here.
+
+// Don't showcase weak auto-generated cards on the highest-authority page: food/
+// trendy venues must have their OWN self-hosted photo (/venue-photos/) to appear.
 const trustworthyCard = (p: any) => {
   const cat = p.data.category;
   if (cat === 'attraction' || cat === 'event' || cat === 'essentials') return true;
   return (p.data.heroImage?.url || '').includes('/venue-photos/');
 };
-const latestIds = new Set(latest.map((p) => p.id));
-const moreGuides = rest.filter((p) => !latestIds.has(p.id) && trustworthyCard(p)).slice(0, 6);
 
-const seed = Number(new Date().toISOString().slice(0, 10).replace(/-/g, '')) || 1;
+const seed = Number(todayISO.replace(/-/g, '')) || 1;
 function shuffle<T>(arr: T[]) {
   const a = [...arr];
   let s = seed;
@@ -112,48 +103,146 @@ function shuffle<T>(arr: T[]) {
   }
   return a;
 }
-// data/wall.json already stores the pre-generated 640px WebP thumbnail PATHS
-// (scripts/build-wall.mjs) — e.g. "/wall/<hash>.webp" — so use them directly.
-const wall = shuffle(wallData.images ?? []).slice(0, 12).map((url) => ({ url }));
-const wallRow1 = wall.slice(0, 6);
-const wallRow2 = wall.slice(6, 12);
 
-const countFor = (name: string) => posts.filter((p) => (p.data.country ?? 'South Korea') === name).length;
+const countryOf = (p: any) => p.data.country ?? 'South Korea';
+const countFor = (name: string) => posts.filter((p) => countryOf(p) === name).length;
 const countries = countriesData.countries.map((c) => ({ ...c, count: countFor(c.name) }));
 const live = countries.filter((c) => c.count > 0);
-// How many tiles the phone actually shows — must match the global.css rule
-// `.dest-bento .dest-tile:nth-child(n+9)` (2026-08-23 phone-home shortening).
-const MOBILE_TILES = 8;
-const soon = countries.filter((c) => c.count === 0);
-const repImage = (name: string) => tileSize(pickRepHeroUrl(posts.filter((p) => (p.data.country ?? 'South Korea') === name)));
+const repImage = (name: string) => tileSize(pickRepHeroUrl(posts.filter((p) => countryOf(p) === name)));
+// A country card's 64px photo: the best-known non-event place in that country
+// that already has a 640px wall thumbnail, so a 64px slot never pulls a 960px
+// remote original; falls back to the hub's representative image.
+const repThumb = (name: string) => {
+  const best = posts
+    .filter((p) => countryOf(p) === name && p.data.category !== 'event' && p.data.heroImage?.url && wallFor(p.data.heroImage.url))
+    .sort((a, b) => (b.data.place?.userRatingsTotal ?? 0) - (a.data.place?.userRatingsTotal ?? 0))[0];
+  return best ? wallFor(best.data.heroImage!.url) : repImage(name);
+};
+const guidesLabel = (n: number) => (n === 1 ? H('cGuidesOne') : H('cGuides', { n }));
 
-const koreaLinks = [
-  { label: 'Seoul', href: '/regions/seoul' },
-  { label: 'Busan', href: '/regions/busan' },
-  { label: 'Jeju', href: '/regions/jeju' },
-  { label: 'Gyeongju', href: '/regions/gyeongju' },
-];
+// ── The interactive photo wall ──────────────────────────────────────────────
+// It used to be 12 anonymous thumbnails from data/wall.json, aria-hidden. Each
+// tile is now a real place with its guide one click away: the same 640px
+// thumbnails (wallFor finds the one build-wall.mjs made for a hero URL), drawn
+// round-robin across countries so the wall shows the world rather than the
+// country with the most posts, reshuffled daily.
+const wallPool = posts.filter(
+  (p) =>
+    (p.data.category === 'attraction' || (p.data.heroImage?.url || '').includes('/venue-photos/')) &&
+    p.data.heroImage?.url && !p.data.heroImage.url.includes('placeholder') &&
+    wallFor(p.data.heroImage.url),
+);
+const wallTiles = roundRobinByCountry(shuffle(wallPool), 14).map((p) => ({
+  img: wallFor(p.data.heroImage!.url),
+  href: card.href(p.id, true),
+  name: localizeVenue(p.data.place?.name ?? '', lang) || card.title(p.id, p.data.title),
+  where: `${localizePlace(p.data.region, lang)} · ${localizePlace(countryOf(p), lang)}`,
+}));
+const wallRow1 = wallTiles.slice(0, 7);
+const wallRow2 = wallTiles.slice(7, 14);
+
+// ── The hero's three-way selector ───────────────────────────────────────────
+// Month verdicts are when-to-go's own monthComfort bands (climate normals of
+// one city per country, ranked inside that country's year) — the same verdict
+// the linked month page prints. A country without a full climate record has no
+// verdict and is left out of the month picker rather than guessed.
+const factsBy = (countryFacts as any).countries ?? countryFacts;
+const esimSlugs = new Set(esimCountries().map((c: any) => c.slug));
+const itins = (await getCollection('itineraries')).sort((a, b) => a.data.city.localeCompare(b.data.city));
+const itinFor = (c: any) => {
+  const it = itins.filter((i) => (c.regions ?? []).includes(i.data.city)).sort((a, b) => a.data.days - b.data.days)[0];
+  return it ? { href: P(`/itinerary/${it.id}/`), city: localizePlace(it.data.city, lang) } : null;
+};
+const pickCountries = live.map((c) => {
+  const f = factsBy[c.name];
+  const bands = bandString(f?.climate);
+  const tz = COUNTRY_TIME[c.iso2.toUpperCase()];
+  return {
+    slug: c.slug,
+    en: c.name,
+    name: localizePlace(c.name, lang),
+    iso2: c.iso2,
+    guides: c.count,
+    bands,
+    climate: bands ? f.climate.map((m: any) => ({ hi: Math.round(m.hi), rain: Math.round(m.rain) })) : null,
+    city: f?.climateCity ? localizePlace(f.climateCity, lang) : '',
+    itin: itinFor(c),
+    esim: esimSlugs.has(c.slug),
+    // The Korean visa/emergency pickers leave South Korea out (TopicHub: a
+    // Korean reader at home needs neither); #c=south-korea would fall back to
+    // another country's numbers, so Korea goes to its own essentials page.
+    ess: lang === 'ko' && c.slug === 'south-korea' ? P('/essentials/south-korea/') : '',
+    tz: tz && !tz.multi ? tz.tz : '',
+    tzCity: tz && !tz.multi ? localizePlace(tz.city, lang) : '',
+    img: repThumb(c.name),
+  };
+});
+const monthNames = Array.from({ length: 12 }, (_, i) =>
+  new Intl.DateTimeFormat(locale, { month: 'long', timeZone: 'UTC' }).format(new Date(Date.UTC(2026, i, 15))),
+);
+const buildMonth = today.getUTCMonth() + 1;
+const bandOf = (c: any, m: number) => c.bands.charAt(m - 1);
+const BAND_KEY: Record<string, 'good' | 'fine' | 'fair' | 'harsh'> = { g: 'good', f: 'fine', a: 'fair', h: 'harsh' };
+const wtgHref = (slug: string, m: number) => P(`/tools/when-to-go/${slug}/${MONTH_SLUGS[m - 1]}/`);
+// The reader most likely to land on /ko/ is going abroad: the default country
+// in the "I know where I'm going" tab is the most-covered one that is not home,
+// and the Korean home's "where to go" month picks are all abroad (the mock's
+// own note: /ko/ recommending Korea was the old page's mistake).
+const HOME_MARKET: Partial<Record<Lang, string>> = { ko: 'South Korea', ja: 'Japan', zh: 'China', es: 'Spain' };
+const homeCountry = HOME_MARKET[lang];
+const monthPickable = pickCountries.filter((c) => c.bands && !(lang === 'ko' && c.en === homeCountry));
+const defaultCountry = [...pickCountries].sort((a, b) => b.guides - a.guides).find((c) => c.en !== homeCountry) ?? pickCountries[0];
+const verdictText = (c: any, m: number) =>
+  c.bands ? H('verdict', { country: c.name, month: monthNames[m - 1], band: H(BAND_KEY[bandOf(c, m)]) }) : c.name;
+const climateText = (c: any, m: number) =>
+  c.climate ? H('climate', { hi: c.climate[m - 1].hi, rain: c.climate[m - 1].rain, city: c.city }) : H('noClimate');
+const heroData = JSON.stringify({
+  months: monthNames,
+  monthSlugs: MONTH_SLUGS,
+  band: { g: H('good'), f: H('fine'), a: H('fair'), h: H('harsh') },
+  tpl: { verdict: H('verdict'), climate: H('climate'), noClimate: H('noClimate'), guides: H('scGuides'), itin: H('scItin'), nowIn: H('nowIn') },
+  base: {
+    dest: P('/destinations/'), wtg: P('/tools/when-to-go/'), esim: P('/tools/esim/'),
+    visa: P('/essentials/visa/'), closed: P('/tools/whats-closed/'), emer: P('/essentials/emergency/'),
+  },
+  c: Object.fromEntries(pickCountries.map((c) => [c.slug, {
+    n: c.name, en: c.en, g: c.guides, b: c.bands, cl: c.climate, city: c.city, itin: c.itin, esim: c.esim, ess: c.ess, tz: c.tz, tzc: c.tzCity,
+  }])),
+}).replace(/</g, '\\u003c');
+
+// ── Trust numbers, all from the build's own records ─────────────────────────
+// refresh.mjs re-checks places against Google Places daily and records the day
+// in data/refresh-cursor.json; that log is the "re-checked" count. Closures
+// and hours changes are not logged by date, so the mock's figures for those
+// are not shown.
+const rechecked = countLastWeek((refreshCursor as any).checked, todayISO);
+const weekAgo = Date.parse(`${todayISO}T00:00:00Z`) - 6 * 86400000;
+const newThisWeek = posts.filter((p) => p.data.pubDate.getTime() >= weekAgo).length;
+
+// ── Upcoming long weekends (Korean and Japanese homes) ──────────────────────
+// Holidays from data/country-facts.json (the MIT `holidays` package); only for
+// markets with a Sat–Sun weekend and no make-up workdays (see longWeekends).
+const HOLIDAY_MARKET: Partial<Record<Lang, string>> = { ko: 'South Korea', ja: 'Japan' };
+const holMarket = HOLIDAY_MARKET[lang];
+const holidayBlocks = holMarket
+  ? longWeekends(factsBy[holMarket]?.holidays ?? [], { fromISO: new Date(today.getTime() - 86400000).toISOString().slice(0, 10), limit: 6 })
+  : [];
+const holFmt = new Intl.DateTimeFormat(locale, { month: 'short', day: 'numeric', weekday: 'short', timeZone: 'UTC' });
+const holRange = (b: any) => `${holFmt.format(new Date(`${b.start}T12:00:00Z`))} – ${holFmt.format(new Date(`${b.end}T12:00:00Z`))}`;
 
 // ── This month's editor picks ───────────────────────────────────────────────
-// The design mock's "where our editors would go this month" section, filled
-// with what the data can actually stand behind: events genuinely happening
-// this month, one per region, dates straight from each guide's frontmatter and
-// re-checked on every (daily) build. No invented seasonal claims — the month's
-// real calendar IS the recommendation. The editor is real, not a persona: the
-// owner has personally traveled Vietnam, Korea, Thailand, Singapore, the US,
-// Australia and more (src/lib/editorVisited.ts), so the "traveled here" badge
-// is a country-level fact, never a city-level boast.
-const nowD = new Date();
-// Built on the UTC date, read in every time zone: after midnight in Asia the
-// build still said "September" and the month's closers had ended (owner,
-// 10-01 06:30 KST: "Now · September" with two cards). So the build makes the
-// picks for its own month AND the next one, a few spares each, and the script
-// below shows the reader's month and skips what has ended by their date.
+// Events genuinely happening this month, one per region, dates straight from
+// each guide's frontmatter. The build makes picks for its own month AND the
+// neighbours; the script shows the reader's month and skips what has ended by
+// the reader's date (owner, 10-01). On the Korean home the picks are abroad:
+// its readers are outbound travellers, and the mock flagged a Korean event
+// topping /ko/ as the wrong recommendation.
 const monthKeyOf = (d: Date) => `${d.getUTCFullYear()}-${String(d.getUTCMonth() + 1).padStart(2, '0')}`;
 const PICKS = 3;
 function picksFor(anchor: Date, n = PICKS * 2) {
   const pool = posts.filter((p) => {
     if (p.data.category !== 'event' || !p.data.eventStartDate) return false;
+    if (lang === 'ko' && countryOf(p) === 'South Korea') return false;
     if (!p.data.heroImage?.url || p.data.heroImage.url.includes('placeholder')) return false;
     const s = new Date(p.data.eventStartDate as any);
     const e = new Date((p.data.eventEndDate ?? p.data.eventStartDate) as any);
@@ -170,20 +259,25 @@ function picksFor(anchor: Date, n = PICKS * 2) {
   }
   return [...byRegion.values()];
 }
-const nextMonth = new Date(Date.UTC(nowD.getUTCFullYear(), nowD.getUTCMonth() + 1, 1));
-const monthFmt = new Intl.DateTimeFormat(localeCodes[lang] ?? 'en', { year: 'numeric', month: 'long', timeZone: 'UTC' });
-// The build's month first (shown without JavaScript), then the previous one
-// for readers west of UTC just after the 1st, then the next (Codex review).
-const prevMonth = new Date(Date.UTC(nowD.getUTCFullYear(), nowD.getUTCMonth(), 0));
-const monthSets = [nowD, prevMonth, nextMonth].map((d, i) => ({ key: monthKeyOf(d), label: monthFmt.format(d), picks: picksFor(d), current: i === 0 }));
-// The build's own month, as crawlers and readers without JavaScript see it.
+const nextMonth = new Date(Date.UTC(today.getUTCFullYear(), today.getUTCMonth() + 1, 1));
+const prevMonth = new Date(Date.UTC(today.getUTCFullYear(), today.getUTCMonth(), 0));
+const monthFmt = new Intl.DateTimeFormat(locale, { year: 'numeric', month: 'long', timeZone: 'UTC' });
+const monthSets = [today, prevMonth, nextMonth].map((d, i) => ({ key: monthKeyOf(d), label: monthFmt.format(d), m: d.getUTCMonth() + 1, picks: picksFor(d), current: i === 0 }));
 const monthlyPicks = monthSets[0].picks.slice(0, PICKS);
 const evEndOf = (p: any) => new Date((p.data.eventEndDate ?? p.data.eventStartDate) as any).toISOString().slice(0, 10);
 const guidesIn = (region: string) => posts.filter((p) => p.data.region === region).length;
-// The crowd card's mini chart: ONE real venue's measured hours (the mock's
-// chart shape, but with data that exists). Well-known attractions only, and
-// the pick rotates weekly with the cover's isoWeek — same freshness, zero
-// invention.
+const goodMonthFor = (country: string, m: number) => {
+  const c = pickCountries.find((x) => x.en === country);
+  return !!c?.bands && bandOf(c, m) === 'g';
+};
+const fmtEventDates = (p: any) => {
+  const f = new Intl.DateTimeFormat(locale, { month: 'short', day: 'numeric', timeZone: 'UTC' });
+  const s = new Date(p.data.eventStartDate as any);
+  const e = new Date((p.data.eventEndDate ?? p.data.eventStartDate) as any);
+  return s.getTime() === e.getTime() ? f.format(s) : `${f.format(s)} – ${f.format(e)}`;
+};
+
+// ── Crowd demo: ONE real venue's measured hours, rotating weekly ────────────
 const crowdDemoPool = posts
   .filter((p) => {
     const b = p.data.place?.busyness;
@@ -194,9 +288,7 @@ const crowdDemoPool = posts
     );
   })
   .sort((a, b) => a.id.localeCompare(b.id));
-// Each language's home leans the demo toward countries its readers actually
-// search for (external review, 2026-08-08: the ko home was demoing Hanoi).
-// Falls back to the full pool when no affinity country has eligible venues.
+// Each language's home leans the demo toward countries its readers search for.
 const demoAffinity: Record<string, string[]> = {
   ko: ['South Korea', 'Japan', 'Thailand', 'Vietnam'],
   ja: ['Japan', 'South Korea', 'Taiwan', 'Thailand'],
@@ -205,14 +297,12 @@ const demoAffinity: Record<string, string[]> = {
 };
 const affinityPool = crowdDemoPool.filter((p) => (demoAffinity[lang] ?? []).includes(p.data.country ?? ''));
 const demoPickPool = affinityPool.length ? affinityPool : crowdDemoPool;
-const crowdDemo = demoPickPool.length ? demoPickPool[isoWeek(new Date()) % demoPickPool.length] : null;
+const crowdDemo = demoPickPool.length ? demoPickPool[isoWeek(today) % demoPickPool.length] : null;
 const demoHours = Array.from({ length: 16 }, (_, i) => i + 7);
 const demoCells = crowdDemo
   ? (() => {
       const b = crowdDemo.data.place!.busyness!;
-      // The demo bar is a sample of the real thing, so it obeys the same rule:
-      // one group of days that agree, never a union of the two buckets — which
-      // painted an hour quiet when only one half of the week was open for it.
+      // One group of days that agree, never a union of the two buckets.
       const groups = quietDayGroups(b, crowdDemo.data.place?.openingHours);
       const g = groups?.[0];
       const q = new Set(groups ? (g?.quiet ?? []) : [...(b.weekdayQuiet ?? []), ...(b.weekendQuiet ?? [])]);
@@ -220,28 +310,18 @@ const demoCells = crowdDemo
       return demoHours.map((h) => (busy.has(h) ? 'busy' : q.has(h) ? 'quiet' : 'mid'));
     })()
   : [];
-// Same eligibility the crowd tool itself uses — the number must match what the
-// reader finds after the click.
+// 24-hour labels read the same in all five languages (they were a hard-coded
+// English "7am/2pm/10pm" on every home).
+const hourLabel = (h: number) => `${h}:00`;
+const demoTz = crowdDemo ? COUNTRY_TIME[(countriesData.countries.find((c) => c.name === countryOf(crowdDemo))?.iso2 ?? '').toUpperCase()] : undefined;
+// Same eligibility the crowd tool itself uses — the number must match the tool.
 const busynessCount = posts.filter((p) => {
   const b = p.data.place?.busyness;
   return !!b && !!(b.weekdayQuiet?.length || b.weekendQuiet?.length || b.weekendBusy?.length);
 }).length;
-// Itinerary band: the mock sold a days/interest PICKER, but the corpus holds
-// exactly one shape today (3-day city courses) — buttons for choices that do
-// not exist would be a lie in UI form. So the band lists the REAL courses as
-// chips and grows by itself as build-itineraries.mjs adds cities. The copy's
-// claims are all true of the product: distances, hours and quiet windows are
-// verified at build time, print CSS exists, and no page requires an account.
-const itins = (await getCollection('itineraries')).sort((a, b) => a.data.city.localeCompare(b.data.city));
-// The panel shows a HANDFUL, not the whole collection (owner, 2026-08-21:
-// "3~5 popular ones or a rotation, the rest behind 'all itineraries'").
-// Pinned flagships first, then two slots that rotate per ISO week — see
-// src/lib/featuredItineraries.mjs. The "{n} courses" meta keeps the TOTAL:
-// that line is a trust signal and must not shrink with the list.
+
+// Itinerary band: the REAL courses, pinned flagships + two weekly rotations.
 const featured = pickFeatured(itins, { pinned: ['Tokyo', 'Bangkok', 'Seoul'], rotate: 2 });
-// Row metadata for the itinerary panel, computed from the course's own stops:
-// stop count and the average Google rating of the stops that carry one —
-// the mock's "11 courses · avg 4.4★" line, from data that exists.
 const itinMeta = (it: any) => {
   const slugs: string[] = (it.data.itinerary ?? []).flatMap((d: any) => (d.stops ?? []).map((s: any) => s.slug));
   const ratings = slugs
@@ -250,56 +330,164 @@ const itinMeta = (it: any) => {
   const avg = ratings.length >= 3 ? (ratings.reduce((a, b) => a + b, 0) / ratings.length).toFixed(1) : null;
   return { stops: slugs.length, avg };
 };
-const fmtEventDates = (p: any) => {
-  const f = new Intl.DateTimeFormat(localeCodes[lang] ?? 'en', { month: 'short', day: 'numeric' });
-  const s = new Date(p.data.eventStartDate as any);
-  const e = new Date((p.data.eventEndDate ?? p.data.eventStartDate) as any);
-  return s.getTime() === e.getTime() ? f.format(s) : `${f.format(s)} – ${f.format(e)}`;
-};
+
+// ── Countries by region, each with its photo ────────────────────────────────
+const groups = GROUP_ORDER.map((g) => ({
+  key: g,
+  label: H(({ east: 'gEast', sea: 'gSea', meca: 'gMeca', europe: 'gEurope', amoc: 'gAmoc', africa: 'gAfrica' } as const)[g as 'east']),
+  items: pickCountries
+    .filter((c) => homeGroup(countriesData.countries.find((x) => x.slug === c.slug)?.continent, c.iso2) === g)
+    .sort((a, b) => b.guides - a.guides),
+})).filter((g) => g.items.length);
+
+// ── One "fresh guides" list (was two, both all-German after a bulk publish) ──
+const freshGuides = diverseNewest(posts.filter((p) => p.id !== cover?.id && trustworthyCard(p)), { n: 6 });
+
+const koreaLinks = ['Seoul', 'Busan', 'Jeju', 'Gyeongju'];
+const editorCountries = EDITOR_VISITED.filter((v) => !v.region).length;
 ---
 
 <BaseLayout
-  title={t('home.metaTitle')}
-  description={t('home.heroDek')}
+  title={H('metaTitle')}
+  description={H('metaDesc', { c: live.length })}
   image={cover?.data.heroImage?.url}
   localized={true}
 >
-  <section class="hero-wall">
-    <div class="wall-rows" aria-hidden="true">
-      <div class="wall-row r1">
-        {/* A phone shows two or three of these; the rest sat offscreen in the
-            marquee and still downloaded — 24 wall images, ~1MB, on a 375px
-            screen (measured 2026-08-22). Only the first three are eager. */}
-        {[...wallRow1, ...wallRow1].map((im, i) => <img src={im.url} alt="" width="640" height="427" loading={i < 3 ? 'eager' : 'lazy'} decoding="async" />)}
-      </div>
-      <div class="wall-row r2">
-        {[...wallRow2, ...wallRow2].map((im) => <img src={im.url} alt="" width="640" height="427" loading="lazy" decoding="async" />)}
-      </div>
+  <section class="hero-wall hv3">
+    <div class="wall-rows" aria-label={H('wallHint')} role="group">
+      {[wallRow1, wallRow2].map((row, r) => (
+        <div class:list={['wall-row', r === 0 ? 'r1' : 'r2']}>
+          {/* The row is drawn twice for the endless scroll; the second copy is
+              for the eye only (hidden from screen readers and the tab order).
+              A phone shows two or three tiles, so only the first three load
+              eagerly (24 images, ~1MB, on a 375px screen — 2026-08-22). */}
+          {[...row, ...row].map((tile, i) => (
+            <a class="wall-tile" href={tile.href} aria-hidden={i >= row.length ? 'true' : undefined} tabindex={i >= row.length ? -1 : undefined}>
+              <img src={tile.img} alt={i >= row.length ? '' : tile.name} width="640" height="427" loading={r === 0 && i < 3 ? 'eager' : 'lazy'} decoding="async" />
+              <span class="wall-cap"><b>{tile.name}</b><small>{tile.where}</small></span>
+            </a>
+          ))}
+        </div>
+      ))}
     </div>
     <div class="cover-scrim"></div>
-    <div class="cover-inner wrap">
-      <p class="kicker gold">{t('home.tagline')}</p>
-      <h1>{t('home.heroTitle')}</h1>
-      <p class="cover-dek">{t('home.heroDek')}</p>
-      <Search placeholder={t('home.searchPlaceholder')} />
-      <div class="cover-cta-row">
-        <a class="cover-cta" href={localizePath('/destinations', lang)}>{t('home.exploreDestinations')} <span class="arw">→</span></a>
-        {/* Seasonal, not random: the soft CTA follows this month's soonest
-            event (external review flagged "추천: 고양" — a weekly-random city
-            with no answer to "why now"). Falls back to the weekly cover only
-            when the month has no picks. */}
-        {/* One per month set and per pick; the script keeps the first that
-            has not ended in the reader's month (10-01). */}
-        {monthSets.flatMap((m) => m.picks.map((sp: any, i: number) => (
-          <a class="cover-cta cover-cta-soft" href={localizePath(`/posts/${sp.id}`, lang)} data-feat-set={m.key} data-ev-end={evEndOf(sp)} hidden={!(m.current && i === 0)}>{t('home.featured')}: {localizePlace(sp.data.region, lang)} <span class="arw">→</span></a>
-        )))}
-        {!monthlyPicks.length && cover && (
-          <a class="cover-cta cover-cta-soft" data-feat-fallback href={localizePath(`/posts/${cover.id}`, lang)}>{t('home.featured')}: {localizePlace(cover.data.region, lang)} <span class="arw">→</span></a>
-        )}
+    <div class="cover-inner wrap hv3-inner">
+      <div class="hv3-copy">
+        <h1>{H('h1')}</h1>
+        <p class="cover-dek hv3-tag">{H('tag', { c: live.length, n: posts.length.toLocaleString(locale) })}</p>
+        {/* The site's only search box — the header has none (Codex, 10-04). */}
+        <Search placeholder={t('home.searchPlaceholder')} />
+        <p class="hv3-hint">{H('wallHint')} →</p>
       </div>
-      <p class="cover-scale">{t('home.trustBar').replace('{n}', String(live.length))}</p>
+
+      <div class="hv3-card" data-hero>
+        <div class="hv3-tabs" role="tablist">
+          <button type="button" role="tab" id="hv3-t0" aria-controls="hv3-p0" aria-selected="true" data-tab="0">{H('tabWhere')}</button>
+          <button type="button" role="tab" id="hv3-t1" aria-controls="hv3-p1" aria-selected="false" data-tab="1">{H('tabDecided')}</button>
+          <button type="button" role="tab" id="hv3-t2" aria-controls="hv3-p2" aria-selected="false" data-tab="2">{H('tabTrip')}</button>
+        </div>
+
+        {/* Every panel is in the HTML (crawlable links); the script only toggles. */}
+        <div class="hv3-panel" role="tabpanel" id="hv3-p0" aria-labelledby="hv3-t0" data-panel="0">
+          <p class="hv3-label">{H('pickMonth')}</p>
+          <div class="hv3-months" data-months>
+            {monthNames.map((name, i) => (
+              <button type="button" data-m={i + 1} aria-pressed={i + 1 === buildMonth ? 'true' : 'false'}>{name}</button>
+            ))}
+          </div>
+          <div class="hv3-pills" data-month-pills>
+            {monthPickable.map((c) => {
+              const b = bandOf(c, buildMonth);
+              return (
+                <a class:list={['hv3-pill', `b-${b}`]} href={wtgHref(c.slug, buildMonth)} data-slug={c.slug} data-b={c.bands}>
+                  {c.img ? <img src={c.img} alt="" width="28" height="28" loading="lazy" /> : <Flag code={c.iso2} />}
+                  <span>{c.name}</span>
+                </a>
+              );
+            })}
+          </div>
+          <div class="hv3-foot">
+            <span class="hv3-legend"><i class="lg-g"></i>{H('good')} <i class="lg-f"></i>{H('fine')}</span>
+            <a href={P('/tools/when-to-go/')}>{H('allMonths')}</a>
+          </div>
+          <p class="hv3-basis">{H('basis')}</p>
+        </div>
+
+        <div class="hv3-panel is-off" role="tabpanel" id="hv3-p1" aria-labelledby="hv3-t1" data-panel="1">
+          <div class="hv3-selects">
+            <label><span>{H('pickCountry')}</span>
+              <select data-country>
+                {pickCountries.map((c) => <option value={c.slug} selected={c.slug === defaultCountry.slug}>{c.name}</option>)}
+              </select>
+            </label>
+            <label><span>{H('pickMonth')}</span>
+              <select data-month>
+                {monthNames.map((name, i) => <option value={i + 1} selected={i + 1 === buildMonth}>{name}</option>)}
+              </select>
+            </label>
+          </div>
+          <p class:list={['hv3-verdict', defaultCountry.bands && `b-${bandOf(defaultCountry, buildMonth)}`]} data-verdict>
+            <b data-v-head>{verdictText(defaultCountry, buildMonth)}</b>
+            <small data-v-climate>{climateText(defaultCountry, buildMonth)}</small>
+            <a data-v-more href={defaultCountry.bands ? wtgHref(defaultCountry.slug, buildMonth) : P(`/destinations/${defaultCountry.slug}/`)}>{H('scMonth')}</a>
+          </p>
+          <div class="hv3-shortcuts">
+            <a data-k="guides" href={P(`/destinations/${defaultCountry.slug}/`)}><Emoji name="world-map" /><span data-k-text>{H('scGuides', { n: defaultCountry.guides })}</span></a>
+            <a data-k="itin" href={defaultCountry.itin?.href ?? P('/itinerary/')} class:list={[{ 'is-off': !defaultCountry.itin }]}><Emoji name="spiral-calendar" /><span data-k-text>{defaultCountry.itin ? H('scItin', { city: defaultCountry.itin.city }) : ''}</span></a>
+            <a data-k="visa" href={`${P('/essentials/visa/')}#c=${defaultCountry.slug}`}><Emoji name="passport-control" /><span>{H('scVisa')}</span></a>
+            <a data-k="esim" href={defaultCountry.esim ? P(`/tools/esim/${defaultCountry.slug}/`) : P('/tools/esim/')}><Emoji name="antenna-bars" /><span>{H('scEsim')}</span><em class="aff">{H('aff')}</em></a>
+          </div>
+        </div>
+
+        <div class="hv3-panel is-off" role="tabpanel" id="hv3-p2" aria-labelledby="hv3-t2" data-panel="2">
+          <div class="hv3-selects">
+            <label><span>{H('pickCountry')}</span>
+              <select data-country>
+                {pickCountries.map((c) => <option value={c.slug} selected={c.slug === defaultCountry.slug}>{c.name}</option>)}
+              </select>
+            </label>
+          </div>
+          <p class="hv3-now" data-now hidden></p>
+          <div class="hv3-shortcuts">
+            <a data-k="quiet" href={P('/tools/best-time/')}><Emoji name="three-oclock" /><span>{H('scQuiet')}</span></a>
+            <a data-k="closed" href={`${P('/tools/whats-closed/')}?c=${encodeURIComponent(defaultCountry.en)}`}><Emoji name="spiral-calendar" /><span>{H('scClosed')}</span></a>
+            <a data-k="emer" href={`${P('/essentials/emergency/')}#c=${defaultCountry.slug}`}><Emoji name="police-car-light" /><span>{H('scEmergency')}</span></a>
+            <a data-k="trip" href={P('/my-trip/')}><Emoji name="round-pushpin" /><span>{H('scMyTrip')}</span></a>
+          </div>
+        </div>
+        <script type="application/json" data-hero-json set:html={heroData}></script>
+      </div>
     </div>
   </section>
+
+  <section class="hv3-stats">
+    <div class="wrap hv3-stats-in">
+      <p class="hv3-stats-head"><span class="dot"></span>{H('statHead')}</p>
+      <dl>
+        <div><dt>{rechecked.toLocaleString(locale)}</dt><dd>{H('statRecheck')}</dd></div>
+        <div><dt>{newThisWeek.toLocaleString(locale)}</dt><dd>{H('statNew')}</dd></div>
+        <div><dt>{posts.length.toLocaleString(locale)}</dt><dd>{H('statTotal', { c: live.length })}</dd></div>
+      </dl>
+      <a href={P('/methodology/')}>{H('statNote')}</a>
+    </div>
+  </section>
+
+  {holidayBlocks.length > 0 && (
+    <section class="hv3-hol" data-hol>
+      <div class="wrap hv3-hol-in">
+        <p class="hv3-hol-title"><Emoji name="spiral-calendar" /> {H('holTitle')}</p>
+        <ul>
+          {holidayBlocks.map((b, i) => (
+            <li data-start={b.start} data-end={b.end} hidden={i >= 3}>
+              <b>{b.localName}</b> <span>{holRange(b)}</span> <em data-days>{H('holDays', { n: b.days })}</em>
+              <em class="now" data-now-tag hidden>{H('holNow')}</em>
+            </li>
+          ))}
+        </ul>
+        <a class="hv3-hol-cta" href={P('/tools/holiday-overlap/')}>{H('holCta')}</a>
+      </div>
+    </section>
+  )}
 
   {monthSets.some((m) => m.picks.length >= 2) && (
     <section class="section sec-monthly" data-monthly data-build={monthSets[0].key} hidden={monthlyPicks.length < 2}>
@@ -311,18 +499,19 @@ const fmtEventDates = (p: any) => {
         <p class="ess-dek">{t('home.monthly.dek')}</p>
         <div class="stories">
           {monthSets.flatMap((m) => m.picks.map((p: any, i: number) => (
-            <a class="story" href={localizePath(`/posts/${p.id}`, lang)} data-set={m.key} data-ev-end={evEndOf(p)} hidden={!(m.current && i < PICKS)}>
+            <a class="story" href={card.href(p.id, true)} data-set={m.key} data-ev-end={evEndOf(p)} hidden={!(m.current && i < PICKS)}>
               <div class="story-thumb">
                 {p.data.heroImage ? (
                   <img src={tileSize(p.data.heroImage.url)} alt={eventSchemaName(p.data.title)} loading="lazy" width="600" height="400" />
                 ) : (
                   <TypesetPlate name={lang === 'en' ? eventSchemaName(p.data.title) : card.title(p.id, p.data.title)} />
                 )}
+                {goodMonthFor(countryOf(p), m.m) && <span class="story-badge">{H('goodChip')}</span>}
               </div>
               <span class="kicker gold">{fmtEventDates(p)}</span>
               <h3>{lang === 'en' ? eventSchemaName(p.data.title) : card.title(p.id, p.data.title)}</h3>
               <p class="story-meta">
-                {localizePlace(p.data.region, lang)} · {localizePlace(p.data.country ?? 'South Korea', lang)} · {t('home.monthly.guides').replace('{n}', String(guidesIn(p.data.region)))}
+                {localizePlace(p.data.region, lang)} · {localizePlace(countryOf(p), lang)} · {t('home.monthly.guides').replace('{n}', String(guidesIn(p.data.region)))}
               </p>
               {editorHasTraveled(p.data.country, p.data.region) && (
                 <p class="story-meta editor-traveled">{t('home.monthly.visited')}</p>
@@ -334,14 +523,8 @@ const fmtEventDates = (p: any) => {
     </section>
   )}
 
-  {/* The two tool promotions share ONE section as a two-column duo — they
-      started as separate stacked sections and the owner flagged the home
-      page's density (10 sections). Itineraries left, crowd data right. The
-      crowd card replaces the mock's MONTHLY calendar: the only crowd data
-      this site owns is HOURLY (BestTime, clamped to opening hours) —
-      month-level claims would be invented, and the month-level pages we do
-      have (when-to-go) measured zero clicks. The tool it links doubles as
-      the site's citation asset for backlinks. */}
+  {/* The two tool promotions share ONE section as a two-column duo. The crowd
+      card's data is HOURLY (clamped to opening hours) — no month-level claims. */}
   {(itins.length >= 3 || busynessCount >= 100) && (
     <section class="section sec-tools">
       <div class="wrap">
@@ -352,7 +535,7 @@ const fmtEventDates = (p: any) => {
                 <p class="kicker gold">{t('home.itin.kicker')}</p>
                 <h2>{t('home.itin.title')}</h2>
                 <p class="ess-dek">{t('home.itin.dek')}</p>
-                <a class="btn btn-primary itin-all" href={localizePath('/itinerary', lang)}>{t('home.itin.all')}</a>
+                <a class="btn btn-primary itin-all" href={P('/itinerary/')}>{t('home.itin.all')}</a>
               </div>
               <div class="itin-panel">
                 <div class="itin-panel-head">
@@ -360,13 +543,11 @@ const fmtEventDates = (p: any) => {
                   <span>{t('home.itin.panelMeta').replace('{n}', String(itins.length))}</span>
                 </div>
                 {featured.map((g: any) => {
-                  // One row per city: the shortest course is the link, longer
-                  // ones are named in the meta so the row still says they exist.
                   const it = g.courses[0];
                   const m = itinMeta(it);
                   const more = g.courses.slice(1).map((c: any) => t('home.itin.chipDays').replace('{d}', String(c.data.days)));
                   return (
-                    <a class="itin-row" href={localizePath(`/itinerary/${it.id}`, lang)}>
+                    <a class="itin-row" href={P(`/itinerary/${it.id}/`)}>
                       <span class="itin-days">{t('home.itin.chipDays').replace('{d}', String(it.data.days))}</span>
                       <span class="itin-row-main">
                         <b>{localizePlace(g.city, lang)}</b>
@@ -389,16 +570,17 @@ const fmtEventDates = (p: any) => {
                 <p class="kicker">{t('home.crowd.kicker')}</p>
                 <h2>{t('home.crowd.title')}</h2>
                 <p class="ess-dek">{t('home.crowd.dek').replace('{n}', String(busynessCount))}</p>
-                <a class="btn btn-primary" href={localizePath('/tools/best-time', lang)}>{t('home.crowd.cta')}</a>
+                <a class="btn btn-primary" href={P('/tools/best-time/')}>{t('home.crowd.cta')}</a>
               </div>
               {crowdDemo && (
-                <div class="crowd-panel">
+                <div class="crowd-panel" data-crowd-tz={demoTz && !demoTz.multi ? demoTz.tz : ''} data-crowd-city={demoTz && !demoTz.multi ? localizePlace(demoTz.city, lang) : ''} data-now-tpl={H('nowIn')}>
                   <div class="crowd-panel-head">
                     <b>{localizeVenue(crowdDemo.data.place?.name ?? '', lang) || crowdDemo.data.place?.name}</b>
                     <span>{t('home.crowd.panelMeta')}</span>
                   </div>
-                  <div class="crowd-demo-bar">{demoCells.map((c) => <i class={c}></i>)}</div>
-                  <div class="crowd-demo-lab"><span>7am</span><span>2pm</span><span>10pm</span></div>
+                  <div class="crowd-demo-bar">{demoCells.map((c, i) => <i class={c} data-h={demoHours[i]}></i>)}</div>
+                  <div class="crowd-demo-lab"><span>{hourLabel(7)}</span><span>{hourLabel(14)}</span><span>{hourLabel(22)}</span></div>
+                  <p class="crowd-now" data-crowd-now hidden></p>
                   <div class="crowd-legend">
                     <span><i class="lg-quiet"></i>{t('tool.quiet')}</span>
                     <span><i class="lg-mid"></i>{t('tool.normal')}</span>
@@ -413,98 +595,54 @@ const fmtEventDates = (p: any) => {
     </section>
   )}
 
-  {latest.length > 0 && (
-    <section class="section sec-latest">
-      <div class="wrap">
-        <div class="rule-head"><h2 class="kicker">{t('home.latestStories')}</h2></div>
-        <div class="stories">
-          {latest.map((post) => (
-            <a class="story" href={localizePath(`/posts/${post.id}`, lang)}>
-              <div class="story-thumb">
-                {post.data.heroImage ? (
-                  <img src={tileSize(post.data.heroImage.url)} alt={post.data.place?.name ?? post.data.title} loading="lazy" width="600" height="400" />
-                ) : (
-                  <TypesetPlate name={post.data.place?.name ?? card.title(post.id, post.data.title)} />
-                )}
+  <section class="section hv3-countries">
+    <div class="wrap">
+      <div class="rule-head">
+        <h2 class="kicker">{H('cTitle', { n: live.length })}</h2>
+        <a href={P('/destinations/')} class="rule-link">{H('cAll')}</a>
+      </div>
+      <p class="bento-note">{H('cDek')}</p>
+      {groups.map((g) => (
+        <div class="hv3-group">
+          <h3>{g.label}</h3>
+          <div class="hv3-ctry">
+            {g.items.map((c) => (
+              <div class="hv3-c">
+                <a class="hv3-c-main" href={P(`/destinations/${c.slug}/`)}>
+                  {c.img ? <img src={c.img} alt="" width="160" height="107" loading="lazy" /> : <span class="hv3-c-noimg"><Flag code={c.iso2} /></span>}
+                  <span class="hv3-c-txt"><b>{c.name}</b><small>{guidesLabel(c.guides)}</small></span>
+                </a>
+                {c.esim && <a class="hv3-c-esim" href={P(`/tools/esim/${c.slug}/`)} aria-label={`${c.name} eSIM`}>eSIM</a>}
               </div>
-              <span class="kicker gold">{t(`cat.${post.data.category}` as any)}</span>
-              <h3>{card.title(post.id, post.data.title)}</h3>
-              <p class="story-meta">{localizePlace(post.data.region, lang)} · {localizePlace(post.data.country ?? 'South Korea', lang)}</p>
-            </a>
-          ))}
+            ))}
+          </div>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <Newsletter lang={lang} />
+
+  {lang !== 'ko' && (
+    <section class="section sec-spot">
+      <div class="wrap">
+        <div class="spotlight">
+          <div class="spotlight-media">
+            <img src={tileSize(koreaCover?.data.heroImage?.url ?? '') || repImage('South Korea') || '/images/placeholder-market.svg'} alt={localizePlace('South Korea', lang)} loading="lazy" width="800" height="1000" />
+          </div>
+          <div class="spotlight-body">
+            <p class="kicker gold"><Flag code="kr" class="flag-ico" /> {t('home.destinations')}</p>
+            <h2>{localizePlace('South Korea', lang)}</h2>
+            <p>{t('home.spotlightDesc').replace('{n}', String(countFor('South Korea')))}</p>
+            <div class="spotlight-links">
+              {koreaLinks.map((l) => <a href={P(`/regions/${l.toLowerCase()}/`)}>{localizePlace(l, lang)}</a>)}
+            </div>
+            <a class="btn btn-primary" href={P('/destinations/south-korea/')}>{localizePlace('South Korea', lang)} →</a>
+          </div>
         </div>
       </div>
     </section>
   )}
-
-  <section class="section sec-spot">
-    <div class="wrap">
-      <div class="spotlight">
-        <div class="spotlight-media">
-          {/* This block is the SOUTH KOREA spotlight: flag, heading, Seoul/Busan/
-              Jeju links, and a button to /destinations/south-korea. The photo
-              used to come from `cover` — the weekly rotation, which draws from
-              every country on the site — so the picture had nothing to do with
-              the label beside it. Back when the site was Korea-only the cover
-              was always Korean and it looked right; the day the rotation
-              picked Granada, the home page showed the Alhambra under the words
-              "South Korea" (owner caught it, 2026-08-06). The image now comes
-              from Korean posts, like everything else in this block. */}
-          <img src={tileSize(koreaCover?.data.heroImage?.url ?? '') || repImage('South Korea') || '/images/placeholder-market.svg'} alt={localizePlace('South Korea', lang)} loading="lazy" width="800" height="1000" />
-        </div>
-        <div class="spotlight-body">
-          <p class="kicker gold"><Flag code="kr" class="flag-ico" /> {t('home.destinations')}</p>
-          <h2>{localizePlace('South Korea', lang)}</h2>
-          <p>{t('home.spotlightDesc').replace('{n}', String(countFor('South Korea')))}</p>
-          <div class="spotlight-links">
-            {koreaLinks.map((l) => <a href={localizePath(l.href, lang)}>{localizePlace(l.label, lang)}</a>)}
-          </div>
-          <a class="btn btn-primary" href={localizePath('/destinations/south-korea', lang)}>{localizePlace('South Korea', lang)} →</a>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section class="section sec-dest">
-    <div class="wrap">
-      <div class="rule-head">
-        <h2 class="kicker">{t('home.destinations')}</h2>
-        <a href={localizePath('/destinations', lang)} class="rule-link">{t('nav.allDestinations')} →</a>
-      </div>
-      <p class="bento-note">{t('home.bentoNote').replace('{n}', String(live.length))}</p>
-      <div class="dest-bento">
-        {live.map((c, i) => (
-          <a class:list={['dest-tile', 'dest-live', { 'dest-feat': i === 0 }]} href={localizePath(`/destinations/${c.slug}`, lang)} style={`background-image:url(${repImage(c.name)})`}>
-            {i === 0 && <span class="dest-ribbon">{t('home.featured')}</span>}
-            <div class="dest-tile-inner">
-              <span class="dest-flag"><Flag code={c.iso2} /></span>
-              <h3>{localizePlace(c.name, lang)}</h3>
-              <p>{t('home.guides').replace('{n}', String(c.count))} →</p>
-            </div>
-          </a>
-        ))}
-        {/* Phone home hides tiles 9+ (global.css nth-child(n+9), 2026-08-23 UX
-            audit) — without a marker the grid just stops at 8 and reads as "this
-            is everything". This tile is desktop-hidden and phone-shown by CSS,
-            fills the odd cell the 7 visible non-featured tiles leave, and names
-            what was cut. MOBILE_TILES must match that CSS rule. */}
-        {live.length > MOBILE_TILES && (
-          <a class="dest-tile dest-more" href={localizePath('/destinations', lang)}>
-            <span>{t('home.moreCountries').replace('{n}', String(live.length - MOBILE_TILES))}</span>
-          </a>
-        )}
-        {soon.map((c) => (
-          <div class="dest-tile dest-soon">
-            <div class="dest-tile-inner">
-              <span class="dest-flag"><Flag code={c.iso2} /></span>
-              <h3>{localizePlace(c.name, lang)}</h3>
-              <p class="dest-pill">{t('home.comingSoon')}</p>
-            </div>
-          </div>
-        ))}
-      </div>
-    </div>
-  </section>
 
   <section class="section sec-ess">
     <div class="wrap">
@@ -514,49 +652,39 @@ const fmtEventDates = (p: any) => {
         <h2>{t('ess.sectionTitle')}</h2>
         <p class="ess-dek">{t('ess.sectionDek')}</p>
       </div>
-      {/* 여섯 칸. eSIM 과 항공권은 원래 푸터에 묻혀 있었는데, 둘 다 실제로 수익이
-          나는 페이지라 여기로 끌어올렸다. 대신 '가기 좋은 시기'는 뺐다 — 같은 일을
-          하는 when-to-go 도구가 메뉴에 따로 있고, 그쪽 페이지는 클릭이 0이다. */}
+      {/* eSIM and flights are the two cards that earn: marked as affiliate, the
+          way the mock does, and drawn a shade stronger. */}
       <div class="essentials-strip">
-        <a class="essential-card" href={localizePath('/essentials/visa', lang)}><span class="ico"><Emoji name="passport-control" /></span><div><h3>{t('ess.visa')}</h3><p>{t('ess.visaDek')}</p></div></a>
-        <a class="essential-card" href={localizePath('/essentials/transport', lang)}><span class="ico"><Emoji name="metro" /></span><div><h3>{t('ess.transport')}</h3><p>{t('ess.transportDek')}</p></div></a>
-        <a class="essential-card" href={localizePath('/tools/esim', lang)}><span class="ico"><Emoji name="antenna-bars" /></span><div><h3>{t('ess.esim')}</h3><p>{t('ess.esimDek')}</p></div></a>
-        <a class="essential-card" href={localizePath('/essentials/money', lang)}><span class="ico"><Emoji name="credit-card" /></span><div><h3>{t('ess.money')}</h3><p>{t('ess.moneyDek')}</p></div></a>
-        <a class="essential-card" href={localizePath('/flights', lang)}><span class="ico"><Emoji name="airplane" /></span><div><h3>{t('ess.flights')}</h3><p>{t('ess.flightsDek')}</p></div></a>
-        <a class="essential-card" href={localizePath('/essentials/emergency', lang)}><span class="ico"><Emoji name="police-car-light" /></span><div><h3>{t('ess.emergency')}</h3><p>{t('ess.emergencyDek')}</p></div></a>
+        <a class="essential-card" href={P('/essentials/visa/')}><span class="ico"><Emoji name="passport-control" /></span><div><h3>{t('ess.visa')}</h3><p>{t('ess.visaDek')}</p></div></a>
+        <a class="essential-card" href={P('/essentials/transport/')}><span class="ico"><Emoji name="metro" /></span><div><h3>{t('ess.transport')}</h3><p>{t('ess.transportDek')}</p></div></a>
+        <a class="essential-card ess-earn" href={P('/tools/esim/')}><span class="ico"><Emoji name="antenna-bars" /></span><div><h3>{t('ess.esim')} <em class="aff">{H('aff')}</em></h3><p>{t('ess.esimDek')}</p></div></a>
+        <a class="essential-card" href={P('/essentials/money/')}><span class="ico"><Emoji name="credit-card" /></span><div><h3>{t('ess.money')}</h3><p>{t('ess.moneyDek')}</p></div></a>
+        <a class="essential-card ess-earn" href={P('/flights/')}><span class="ico"><Emoji name="airplane" /></span><div><h3>{t('ess.flights')} <em class="aff">{H('aff')}</em></h3><p>{t('ess.flightsDek')}</p></div></a>
+        <a class="essential-card" href={P('/essentials/emergency/')}><span class="ico"><Emoji name="police-car-light" /></span><div><h3>{t('ess.emergency')}</h3><p>{t('ess.emergencyDek')}</p></div></a>
       </div>
       </div>
-      <p style="margin-top:1.1rem"><a href={localizePath('/essentials', lang)} class="rule-link">{t('ess.all')} →</a></p>
+      <p style="margin-top:1.1rem"><a href={P('/essentials/')} class="rule-link">{t('ess.all')} →</a></p>
     </div>
   </section>
 
-  <section class="section sec-trust">
-    <div class="wrap">
-      <div class="trust">
-        <div><span class="ico"><Emoji name="passport-control" /></span><h3>{t('trust.reviewedTitle')}</h3><p>{t('trust.reviewedText')}</p></div>
-        <div><span class="ico"><Emoji name="round-pushpin" /></span><h3>{t('trust.factsTitle')}</h3><p>{t('trust.factsText')}</p></div>
-        <div><span class="ico"><Emoji name="three-oclock" /></span><h3>{t('trust.updatedTitle')}</h3><p>{t('trust.updatedText')}</p></div>
-      </div>
-    </div>
-  </section>
-
-  <Newsletter lang={lang} />
-
-  {moreGuides.length > 0 && (
+  {freshGuides.length > 0 && (
     <section class="section sec-more">
       <div class="wrap">
-        <div class="rule-head"><h2 class="kicker">{t('home.moreToRead')}</h2></div>
+        <div class="rule-head">
+          <h2 class="kicker">{H('ngTitle')}{newThisWeek > 0 && <span class="ng-count"> · {H('ngKicker', { n: newThisWeek })}</span>}</h2>
+          <a href={P('/destinations/')} class="rule-link">{H('ngAll')}</a>
+        </div>
         <div class="grid">
-          {moreGuides.map((post) => (
+          {freshGuides.map((post) => (
             <PostCard
-              href={localizePath(`/posts/${post.id}`, lang)}
+              href={card.href(post.id, true)}
               title={card.title(post.id, post.data.title)}
               rating={post.data.place?.rating}
               placeName={post.data.place?.name}
               region={post.data.region}
               category={post.data.category}
               image={post.data.heroImage?.url}
-                  eventEndDate={post.data.eventEndDate}
+              eventEndDate={post.data.eventEndDate}
             />
           ))}
         </div>
@@ -564,20 +692,156 @@ const fmtEventDates = (p: any) => {
     </section>
   )}
 
+  <section class="section sec-trust">
+    <div class="wrap">
+      <div class="trust hv3-trust">
+        <div><span class="ico"><Emoji name="passport-control" /></span><h3>{t('trust.reviewedTitle')}</h3><p>{t('trust.reviewedText')}</p></div>
+        <div><span class="ico"><Emoji name="round-pushpin" /></span><h3>{t('trust.factsTitle')}</h3><p>{t('trust.factsText')}</p></div>
+        <div><span class="ico"><Emoji name="three-oclock" /></span><h3>{t('trust.updatedTitle')}</h3><p>{t('trust.updatedText')}</p></div>
+        <a class="hv3-editor" href={P('/about/')}>
+          <span class="hv3-ed-mono" aria-hidden="true">P</span>
+          <span><small>{H('edRole')}</small><b>Pixer</b><span>{H('edText', { n: editorCountries })}</span><em>{H('edLink')}</em></span>
+        </a>
+      </div>
+    </div>
+  </section>
+
   <script>
-    // "This month": the reader's own month (the build may still be on the last
-    // one), three picks that have not ended by the reader's date, and the
-    // cover's "featured" link on the first of them (owner, 10-01).
+    const DAY = 86_400_000;
+    const n = new Date();
+    const readerDay = Date.UTC(n.getFullYear(), n.getMonth(), n.getDate()) / DAY;
+    const dayOf = (s?: string) => Date.parse(s || '') / DAY;
+
+    // ── Hero selector ─────────────────────────────────────────────────────
+    const hero = document.querySelector<HTMLElement>('[data-hero]');
+    const raw = hero?.querySelector('[data-hero-json]')?.textContent;
+    if (hero && raw) {
+      const D = JSON.parse(raw);
+      const fill = (tpl: string, v: Record<string, string | number>) => Object.entries(v).reduce((s, [k, x]) => s.split(`{${k}}`).join(String(x)), tpl);
+      const tabs = [...hero.querySelectorAll<HTMLButtonElement>('[data-tab]')];
+      const panels = [...hero.querySelectorAll<HTMLElement>('[data-panel]')];
+      const showTab = (i: string) => {
+        for (const b of tabs) b.setAttribute('aria-selected', String(b.dataset.tab === i));
+        for (const p of panels) p.classList.toggle('is-off', p.dataset.panel !== i);
+      };
+      tabs.forEach((b, k) => {
+        b.addEventListener('click', () => showTab(b.dataset.tab || '0'));
+        b.addEventListener('keydown', (e) => {
+          const step = e.key === 'ArrowRight' ? 1 : e.key === 'ArrowLeft' ? -1 : 0;
+          if (!step) return;
+          const nb = tabs[(k + step + tabs.length) % tabs.length];
+          nb.focus(); showTab(nb.dataset.tab || '0');
+        });
+      });
+
+      // Tab 1 — the reader's own month (the build may be on another one).
+      let month = n.getMonth() + 1;
+      const monthBtns = [...hero.querySelectorAll<HTMLButtonElement>('[data-months] [data-m]')];
+      const pills = [...hero.querySelectorAll<HTMLAnchorElement>('[data-month-pills] [data-slug]')];
+      const drawMonth = () => {
+        for (const b of monthBtns) b.setAttribute('aria-pressed', String(Number(b.dataset.m) === month));
+        for (const p of pills) {
+          const band = (p.dataset.b || '').charAt(month - 1);
+          p.className = `hv3-pill b-${band}`;
+          p.href = `${D.base.wtg}${p.dataset.slug}/${D.monthSlugs[month - 1]}/`;
+        }
+      };
+      for (const b of monthBtns) b.addEventListener('click', () => { month = Number(b.dataset.m); drawMonth(); });
+      drawMonth();
+      const on = monthBtns.find((b) => b.getAttribute('aria-pressed') === 'true');
+      const row = on?.parentElement;
+      if (on && row && row.scrollWidth > row.clientWidth) row.scrollLeft = on.offsetLeft - row.offsetLeft - 8;
+
+      // Tabs 2 and 3 — one country choice, shared, remembered in this browser.
+      const KEY = 'wa-home-country';
+      let saved = '';
+      try { saved = localStorage.getItem(KEY) || ''; } catch { /* private mode */ }
+      const countrySels = [...hero.querySelectorAll<HTMLSelectElement>('[data-country]')];
+      const monthSel = hero.querySelector<HTMLSelectElement>('[data-month]');
+      if (monthSel) monthSel.value = String(month);
+      let slug = saved && D.c[saved] ? saved : countrySels[0]?.value || '';
+      const timeFmt = (tz: string) => new Intl.DateTimeFormat(document.documentElement.lang || undefined, { hour: 'numeric', minute: '2-digit', timeZone: tz }).format(new Date());
+      const drawCountry = () => {
+        const c = D.c[slug];
+        if (!c) return;
+        for (const s of countrySels) s.value = slug;
+        const m = Number(monthSel?.value || month);
+        const v = hero.querySelector<HTMLElement>('[data-verdict]');
+        if (v) {
+          const band = c.b ? c.b.charAt(m - 1) : '';
+          v.className = `hv3-verdict${band ? ` b-${band}` : ''}`;
+          v.querySelector('[data-v-head]')!.textContent = band ? fill(D.tpl.verdict, { country: c.n, month: D.months[m - 1], band: D.band[band] }) : c.n;
+          v.querySelector('[data-v-climate]')!.textContent = c.cl ? fill(D.tpl.climate, { hi: c.cl[m - 1].hi, rain: c.cl[m - 1].rain, city: c.city }) : D.tpl.noClimate;
+          (v.querySelector('[data-v-more]') as HTMLAnchorElement).href = c.b ? `${D.base.wtg}${slug}/${D.monthSlugs[m - 1]}/` : `${D.base.dest}${slug}/`;
+        }
+        const set = (k: string, href: string, text?: string) => {
+          for (const a of hero.querySelectorAll<HTMLAnchorElement>(`[data-k="${k}"]`)) {
+            a.href = href;
+            const tx = a.querySelector('[data-k-text]');
+            if (tx && text !== undefined) tx.textContent = text;
+          }
+        };
+        set('guides', `${D.base.dest}${slug}/`, fill(D.tpl.guides, { n: c.g }));
+        set('itin', c.itin ? c.itin.href : '#', c.itin ? fill(D.tpl.itin, { city: c.itin.city }) : '');
+        for (const a of hero.querySelectorAll<HTMLElement>('[data-k="itin"]')) a.classList.toggle('is-off', !c.itin);
+        set('visa', c.ess || `${D.base.visa}#c=${slug}`);
+        set('esim', c.esim ? `${D.base.esim}${slug}/` : D.base.esim);
+        set('closed', `${D.base.closed}?c=${encodeURIComponent(c.en)}`);
+        set('emer', c.ess || `${D.base.emer}#c=${slug}`);
+        const now = hero.querySelector<HTMLElement>('[data-now]');
+        if (now) {
+          now.hidden = !c.tz;
+          if (c.tz) now.textContent = fill(D.tpl.nowIn, { city: c.tzc, time: timeFmt(c.tz) });
+        }
+      };
+      for (const s of countrySels) s.addEventListener('change', () => {
+        slug = s.value;
+        try { localStorage.setItem(KEY, slug); } catch { /* private mode */ }
+        drawCountry();
+      });
+      monthSel?.addEventListener('change', drawCountry);
+      drawCountry();
+    }
+
+    // ── Long weekends: drop the ended ones by the reader's date ───────────
+    const hol = document.querySelector<HTMLElement>('[data-hol]');
+    if (hol) {
+      let shown = 0;
+      for (const li of hol.querySelectorAll<HTMLElement>('li[data-end]')) {
+        const live = dayOf(li.dataset.end) >= readerDay && shown < 3;
+        li.hidden = !live;
+        if (live) {
+          shown++;
+          const nowOn = dayOf(li.dataset.start) <= readerDay;
+          li.querySelector<HTMLElement>('[data-now-tag]')!.hidden = !nowOn;
+        }
+      }
+      hol.hidden = shown === 0;
+    }
+
+    // ── Crowd demo: the venue's local time, and its hour lit ──────────────
+    const crowd = document.querySelector<HTMLElement>('[data-crowd-tz]');
+    if (crowd?.dataset.crowdTz) {
+      const tz = crowd.dataset.crowdTz;
+      const parts = new Intl.DateTimeFormat('en-US', { hour: 'numeric', hourCycle: 'h23', timeZone: tz }).formatToParts(new Date());
+      const hour = Number(parts.find((p) => p.type === 'hour')?.value);
+      crowd.querySelector(`.crowd-demo-bar i[data-h="${hour}"]`)?.classList.add('now');
+      const out = crowd.querySelector<HTMLElement>('[data-crowd-now]');
+      if (out) {
+        const time = new Intl.DateTimeFormat(document.documentElement.lang || undefined, { hour: 'numeric', minute: '2-digit', timeZone: tz }).format(new Date());
+        out.textContent = (crowd.dataset.nowTpl || '').split('{city}').join(crowd.dataset.crowdCity || '').split('{time}').join(time);
+        out.hidden = false;
+      }
+    }
+
+    // ── "This month": the reader's month, picks not yet ended ─────────────
     {
-      const DAY = 86_400_000;
-      const n = new Date();
       const key = `${n.getFullYear()}-${String(n.getMonth() + 1).padStart(2, '0')}`;
-      const today = Date.UTC(n.getFullYear(), n.getMonth(), n.getDate()) / DAY;
-      const ended = (el: HTMLElement) => Date.parse(el.dataset.evEnd || '') / DAY < today;
+      const ended = (el: HTMLElement) => dayOf(el.dataset.evEnd) < readerDay;
       const sec = document.querySelector<HTMLElement>('[data-monthly]');
-      const sets = new Set([...document.querySelectorAll<HTMLElement>('[data-set], [data-feat-set]')].map((e) => e.dataset.set || e.dataset.featSet || ''));
-      const use = sets.has(key) ? key : sec?.dataset.build || key;
       if (sec) {
+        const sets = new Set([...sec.querySelectorAll<HTMLElement>('[data-set]')].map((e) => e.dataset.set || ''));
+        const use = sets.has(key) ? key : sec.dataset.build || key;
         for (const k of sec.querySelectorAll<HTMLElement>('.kicker[data-set]')) k.hidden = k.dataset.set !== use;
         let shown = 0;
         for (const c of sec.querySelectorAll<HTMLElement>('.story[data-set]')) {
@@ -587,19 +851,11 @@ const fmtEventDates = (p: any) => {
         }
         sec.hidden = shown < 2;
       }
-      let feat = false;
-      for (const a of document.querySelectorAll<HTMLElement>('[data-feat-set]')) {
-        const on = !feat && a.dataset.featSet === use && !ended(a);
-        a.hidden = !on;
-        if (on) feat = true;
-      }
-      // The cover fallback (the build's month had no picks) steps aside when
-      // the reader's month has a live one — both showed at once (Codex review).
-      for (const a of document.querySelectorAll<HTMLElement>('[data-feat-fallback]')) a.hidden = feat;
     }
+
     const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     if (!reduce && 'IntersectionObserver' in window) {
-      const els = Array.from(document.querySelectorAll('main .story, main .dest-tile, main .essential-card, main .card')) as HTMLElement[];
+      const els = Array.from(document.querySelectorAll('main .story, main .hv3-c, main .essential-card, main .card')) as HTMLElement[];
       els.forEach((el) => el.classList.add('js-reveal'));
       const io = new IntersectionObserver((entries, obs) => {
         entries.forEach((e) => { if (e.isIntersecting) { (e.target as HTMLElement).classList.add('in'); obs.unobserve(e.target); } });
@@ -609,3 +865,153 @@ const fmtEventDates = (p: any) => {
     }
   </script>
 </BaseLayout>
+
+<style>
+  /* ── Hero v3: the wall stays (owner: "the part of this page I care about");
+     the selector card sits on the scrim's dark side, the wall shows right. */
+  .hv3 { height: auto; min-height: min(92vh, 760px); }
+  .hv3 .wall-rows { pointer-events: auto; }
+  .hv3 .cover-scrim { pointer-events: none; }
+  .hv3-inner { pointer-events: none; display: grid; grid-template-columns: minmax(0, 560px); gap: 1.1rem; padding-top: 3.2rem; }
+  .hv3-inner > * { pointer-events: auto; }
+  .hv3-copy h1 { margin-top: 0; }
+  .hv3-tag { font-weight: 600; margin: 0; }
+  .hv3-hint { margin: 0.4rem 0 0; font-size: 0.82rem; color: rgba(250,245,236,0.78); text-shadow: 0 1px 10px rgba(0,0,0,0.6); }
+
+  .wall-tile { position: relative; display: block; flex: none; border-radius: 12px; overflow: hidden; outline-offset: 3px; }
+  .wall-tile img { display: block; transition: transform 0.4s ease; }
+  .wall-cap { position: absolute; inset: auto 0 0 0; padding: 1.6rem 0.75rem 0.6rem; display: flex; flex-direction: column; gap: 0.1rem; color: #fff; background: linear-gradient(to top, rgba(10,8,5,0.82), transparent); opacity: 0; transform: translateY(6px); transition: opacity 0.2s ease, transform 0.2s ease; }
+  .wall-cap b { font-size: 0.92rem; line-height: 1.25; }
+  .wall-cap small { font-size: 0.74rem; opacity: 0.85; }
+  .wall-tile:hover .wall-cap, .wall-tile:focus-visible .wall-cap { opacity: 1; transform: none; }
+  .wall-tile:hover img { transform: scale(1.04); }
+  .wall-rows:hover .wall-row { animation-play-state: paused; }
+  /* Keyboard: the moving copy can hold the focused tile offscreen (row 2 starts
+     at -50%), so on focus the rows stop, sit at rest and scroll to it. */
+  .wall-rows:focus-within { overflow-x: auto; scrollbar-width: none; }
+  .wall-rows:focus-within .wall-row { animation: none; transform: none; }
+
+  .hv3-card { background: var(--surface); color: var(--ink); border-radius: var(--r-lg); box-shadow: var(--shadow-lg); padding: 0.55rem 1.1rem 1.05rem; }
+  .hv3-tabs { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0.3rem; background: var(--bg-tint); border-radius: var(--r-pill); padding: 0.25rem; margin: 0.45rem 0 0.9rem; }
+  .hv3-tabs button { border: 0; background: transparent; font: inherit; font-size: 0.86rem; font-weight: 600; color: var(--ink-soft); padding: 0.55rem 0.4rem; border-radius: var(--r-pill); cursor: pointer; line-height: 1.25; }
+  .hv3-tabs button[aria-selected='true'] { background: var(--surface); color: var(--ink); box-shadow: var(--shadow-sm); }
+  .hv3-panel.is-off, .hv3-shortcuts a.is-off { display: none; }
+  .hv3-label { font-size: 0.8rem; font-weight: 700; color: var(--muted); margin: 0 0 0.45rem; }
+  .hv3-months { display: flex; gap: 0.35rem; overflow-x: auto; padding-bottom: 0.35rem; scrollbar-width: thin; }
+  .hv3-months button { flex: none; border: 1px solid var(--line-strong); background: transparent; color: var(--ink); font: inherit; font-size: 0.82rem; padding: 0.32rem 0.7rem; border-radius: var(--r-pill); cursor: pointer; }
+  .hv3-months button[aria-pressed='true'] { background: var(--ink); color: var(--surface); border-color: var(--ink); }
+  .hv3-pills { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 0.7rem; }
+  .hv3-pill { display: inline-flex; align-items: center; gap: 0.4rem; padding: 0.22rem 0.7rem 0.22rem 0.22rem; border-radius: var(--r-pill); text-decoration: none; color: var(--ink); font-size: 0.84rem; font-weight: 600; }
+  .hv3-pill img, .hv3-pill :global(svg) { width: 26px; height: 26px; border-radius: 50%; object-fit: cover; }
+  .hv3-pill.b-g { background: #dcebd3; order: 0; }
+  .hv3-pill.b-f { background: var(--bg-tint); order: 1; }
+  .hv3-pill.b-a, .hv3-pill.b-h { display: none; }
+  .hv3-pill:hover { box-shadow: inset 0 0 0 1.5px var(--pine); }
+  .hv3-foot { display: flex; justify-content: space-between; align-items: center; gap: 0.8rem; flex-wrap: wrap; margin-top: 0.8rem; font-size: 0.8rem; }
+  .hv3-foot a { font-weight: 700; color: var(--accent-text); text-decoration: none; }
+  .hv3-legend { color: var(--muted); display: inline-flex; align-items: center; gap: 0.3rem; }
+  .hv3-legend i { width: 0.7rem; height: 0.7rem; border-radius: 50%; display: inline-block; }
+  .lg-g { background: #9cc58a; } .lg-f { background: var(--line-strong); margin-left: 0.5rem; }
+  .hv3-basis { font-size: 0.72rem; color: var(--muted); margin: 0.45rem 0 0; }
+  .hv3-selects { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 0.6rem; }
+  .hv3-selects label { display: grid; gap: 0.25rem; font-size: 0.78rem; font-weight: 700; color: var(--muted); }
+  .hv3-selects select { font: inherit; font-size: 0.95rem; font-weight: 600; color: var(--ink); background: var(--bg); border: 1px solid var(--line-strong); border-radius: var(--r-sm); padding: 0.55rem 0.6rem; min-width: 0; }
+  .hv3-verdict { display: grid; gap: 0.15rem; margin: 0.8rem 0; padding: 0.7rem 0.85rem; border-radius: var(--r-md); background: var(--bg-tint); border-left: 4px solid var(--line-strong); }
+  .hv3-verdict.b-g { background: #e6f0de; border-left-color: #6f9d5c; }
+  .hv3-verdict.b-a, .hv3-verdict.b-h { border-left-color: var(--cta); }
+  .hv3-verdict b { font-size: 1.02rem; }
+  .hv3-verdict small { color: var(--muted); font-size: 0.8rem; }
+  .hv3-verdict a { font-size: 0.82rem; font-weight: 700; color: var(--accent-text); text-decoration: none; }
+  .hv3-now { margin: 0.8rem 0; font-weight: 700; font-size: 0.95rem; }
+  .hv3-shortcuts { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.5rem; }
+  .hv3-shortcuts a { display: flex; align-items: center; gap: 0.5rem; padding: 0.65rem 0.75rem; border-radius: var(--r-md); background: var(--bg); border: 1px solid var(--line); color: var(--ink); text-decoration: none; font-size: 0.88rem; font-weight: 600; min-width: 0; }
+  .hv3-shortcuts a:hover { border-color: var(--cta); }
+  .hv3-shortcuts a span { min-width: 0; overflow-wrap: anywhere; }
+  .aff { font-style: normal; font-size: 0.66rem; font-weight: 700; color: var(--gold-text); background: #f4e6c8; padding: 0.08rem 0.4rem; border-radius: var(--r-pill); margin-left: auto; white-space: nowrap; }
+  h3 .aff { margin-left: 0.35rem; vertical-align: middle; }
+
+  .hv3-stats { background: #201c17; color: #f4ede1; }
+  .hv3-stats-in { display: flex; align-items: center; gap: 1.4rem 2.2rem; flex-wrap: wrap; padding-block: 1.1rem; }
+  .hv3-stats-head { margin: 0; font-weight: 700; font-size: 0.86rem; display: flex; align-items: center; gap: 0.5rem; color: #f1c877; }
+  .hv3-stats-head .dot { width: 0.55rem; height: 0.55rem; border-radius: 50%; background: #8fd16a; box-shadow: 0 0 0 4px rgba(143,209,106,0.18); }
+  .hv3-stats dl { display: flex; gap: 1.2rem 2rem; flex-wrap: wrap; margin: 0; flex: 1 1 auto; }
+  .hv3-stats dl div { display: flex; align-items: baseline; gap: 0.5rem; }
+  .hv3-stats dt { font-family: var(--font-display); font-size: 1.5rem; font-weight: 800; }
+  .hv3-stats dd { margin: 0; font-size: 0.82rem; color: rgba(244,237,225,0.78); max-width: 22ch; }
+  .hv3-stats a { color: #f1c877; font-weight: 700; font-size: 0.84rem; text-decoration: none; }
+
+  .hv3-hol { background: #fbe3d7; }
+  .hv3-hol-in { display: flex; align-items: center; gap: 0.8rem 1.4rem; flex-wrap: wrap; padding-block: 0.9rem; }
+  .hv3-hol-title { margin: 0; font-weight: 800; display: flex; gap: 0.4rem; align-items: center; }
+  .hv3-hol ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.5rem; flex: 1 1 auto; }
+  .hv3-hol li { background: rgba(255,255,255,0.7); border-radius: var(--r-pill); padding: 0.3rem 0.8rem; font-size: 0.84rem; color: #3b2a20; }
+  .hv3-hol li span { color: #6c5546; }
+  .hv3-hol li em { font-style: normal; font-weight: 700; margin-left: 0.25rem; }
+  .hv3-hol li em.now { color: #fff; background: var(--cta); padding: 0.05rem 0.45rem; border-radius: var(--r-pill); font-size: 0.74rem; }
+  .hv3-hol-cta { background: var(--cta); color: #fff; font-weight: 700; font-size: 0.84rem; padding: 0.5rem 0.95rem; border-radius: var(--r-pill); text-decoration: none; }
+  .hv3-hol-cta:hover { background: var(--cta-deep); }
+
+  .story-thumb { position: relative; }
+  .story-badge { position: absolute; top: 0.6rem; left: 0.6rem; background: rgba(230,240,222,0.95); color: #2c4a22; font-size: 0.72rem; font-weight: 700; padding: 0.2rem 0.55rem; border-radius: var(--r-pill); }
+
+  .hv3-group { display: grid; grid-template-columns: 11rem minmax(0, 1fr); gap: 0.8rem 1.2rem; padding: 1rem 0; border-top: 1px solid var(--line-soft); }
+  .hv3-group h3 { margin: 0.4rem 0 0; font-size: 0.95rem; }
+  .hv3-ctry { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 0.6rem; }
+  .hv3-c { position: relative; }
+  .hv3-c-main { display: flex; align-items: center; gap: 0.7rem; padding: 0.4rem; border-radius: var(--r-md); background: var(--surface); border: 1px solid var(--line); text-decoration: none; color: var(--ink); min-width: 0; }
+  .hv3-c-main:hover { border-color: var(--cta); box-shadow: var(--shadow-sm); }
+  .hv3-c-main img, .hv3-c-noimg { width: 64px; height: 48px; border-radius: 10px; object-fit: cover; flex: none; background: var(--bg-tint); display: grid; place-items: center; }
+  .hv3-c-txt { display: grid; min-width: 0; }
+  .hv3-c-txt b { font-size: 0.95rem; overflow-wrap: anywhere; }
+  .hv3-c-txt small { color: var(--muted); font-size: 0.78rem; }
+  .hv3-c-esim { position: absolute; top: 0.45rem; right: 0.45rem; font-size: 0.66rem; font-weight: 700; color: var(--gold-text); background: #f4e6c8; padding: 0.1rem 0.42rem; border-radius: var(--r-pill); text-decoration: none; }
+  .hv3-c-esim:hover { background: var(--gold); color: #fff; }
+
+  .ess-earn { box-shadow: inset 0 0 0 1.5px #e7cf9f; }
+  .ng-count { color: var(--muted); font-weight: 600; }
+
+  .hv3-trust { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+  .hv3-editor { display: flex; gap: 0.9rem; align-items: flex-start; background: #2b2620; color: #f4ede1; border-radius: var(--r-lg); padding: 1.2rem; text-decoration: none; }
+  .hv3-editor > span:last-child { display: grid; gap: 0.2rem; }
+  .hv3-editor small { color: #f1c877; font-size: 0.74rem; font-weight: 700; }
+  .hv3-editor b { font-family: var(--font-display); font-size: 1.3rem; }
+  .hv3-editor span span { font-size: 0.85rem; color: rgba(244,237,225,0.85); }
+  .hv3-editor em { font-style: normal; color: #f1a77a; font-weight: 700; font-size: 0.84rem; }
+  .hv3-ed-mono { flex: none; width: 3rem; height: 3rem; border-radius: 50%; background: var(--cta); color: #fff; font-family: var(--font-display); font-weight: 800; font-size: 1.4rem; display: grid; place-items: center; }
+
+  .crowd-demo-bar :global(i.now) { outline: 2px solid #fff; outline-offset: 1px; }
+  .crowd-now { margin: 0.5rem 0 0; font-size: 0.82rem; font-weight: 700; }
+
+  @media (min-width: 1000px) {
+    .hv3-inner { grid-template-columns: minmax(0, 580px); }
+  }
+  @media (max-width: 900px) {
+    .hv3-trust { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  }
+  /* Phone: the wall is its own band on top (still tappable), the hero copy and
+     card sit below it on the dark ground instead of over the photos. */
+  @media (max-width: 768px) {
+    .hv3 { display: block; min-height: 0; }
+    .hv3 .wall-rows { position: relative; inset: auto; padding-top: 0.9rem; gap: 0.6rem; }
+    .hv3 .wall-row :global(img) { height: 112px; }
+    .hv3 .wall-cap { opacity: 1; transform: none; padding: 1rem 0.5rem 0.35rem; }
+    /* Venue names are often English-only; on a phone the tile says where. */
+    .hv3 .wall-cap b { display: none; }
+    .hv3 .wall-cap small { font-size: 0.72rem; font-weight: 700; opacity: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .hv3 .cover-scrim { display: none; }
+    .hv3-inner { padding-top: 1.4rem; }
+    .hv3-hint { display: none; }
+    .hv3-tabs { border-radius: var(--r-md); }
+    .hv3-tabs button { font-size: 0.78rem; border-radius: var(--r-sm); padding: 0.5rem 0.25rem; }
+    .hv3-group { grid-template-columns: minmax(0, 1fr); gap: 0.5rem; }
+    .hv3-ctry { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .hv3-c-main img, .hv3-c-noimg { width: 48px; height: 40px; }
+    .hv3-c-esim { display: none; }
+    .hv3-trust { grid-template-columns: minmax(0, 1fr); }
+    .hv3-stats-in { gap: 0.7rem; padding-block: 0.9rem; }
+    .hv3-stats dl { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0.6rem; width: 100%; }
+    .hv3-stats dl div { display: grid; gap: 0.15rem; align-content: start; }
+    .hv3-stats dt { font-size: 1.25rem; }
+    .hv3-stats dd { font-size: 0.72rem; }
+  }
+</style>
