@@ -71,7 +71,6 @@ faq:
     a: Look for fresh kingfish and prawns, Goan chorizo sausage, kokum, dried bombil, and local chillies. Bring cash, as most stalls don't accept cards.
 aiGenerated: true
 ---
-
 ## Why go
 
 This isn't a market built for tourists. It's the place Panaji actually shops.
@@ -117,5 +116,4 @@ Prices aren't fixed the way they are in tourist shops, so a little polite bargai
 
 The mistake most visitors make is treating it like a tourist bazaar and expecting English signage or set prices everywhere. This is a genuine city market, not curated for you. Move slowly, let vendors finish serving locals ahead of you, and don't block the narrow walkways for photos.
 
-If you want fish, go early (the best cuts sell out by late morning. If you want the atmosphere, the golden hour before closing brings out the full crowd, though it's Panaji's everyday shopping rush rather than a tourist spectacle. Either way, wear shoes you don't mind getting a bit wet or muddy near the fish stalls, and carry a cloth bag) plastic bags aren't always offered.
-
+If you want fish, go early (the best cuts sell out by late morning). If you want the atmosphere, the golden hour before closing brings out the full crowd, though it's Panaji's everyday shopping rush rather than a tourist spectacle. Either way, wear shoes you don't mind getting a bit wet or muddy near the fish stalls, and carry a cloth bag — plastic bags aren't always offered.

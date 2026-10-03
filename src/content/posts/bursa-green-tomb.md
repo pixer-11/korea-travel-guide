@@ -108,7 +108,7 @@ Step through the entrance and the temperature drops a few degrees, thick stone d
 
 At the center sits Mehmed I's cenotaph, oversized and tiled in the same palette, surrounded by smaller tombs of his children. Light comes in low through narrow windows, so mornings give you the softest version of the color.
 
-- The exterior tiles are actually a 19th-century restoration. The originals faded and were replaced
+- The exterior tiles are the turquoise-green cladding that gives the tomb its name
 - The interior tilework is largely original 15th-century work
 - The mihrab is the single most photographed detail inside
 

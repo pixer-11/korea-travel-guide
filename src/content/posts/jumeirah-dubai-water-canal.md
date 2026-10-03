@@ -142,7 +142,7 @@ Rent a bike or e-scooter from stands along the path if you want to cover more gr
 
 Mornings are the most comfortable, especially outside winter, before the Gulf heat sets in. Early light also makes the water look its best for photos.
 
-On weekends, the canal is quietest between 7am and 3pm, ideal if you want the paths to yourself. Avoid arriving in the early evening on weekends, when foot traffic peaks and benches fill up fast.
+Early mornings tend to be the quietest time at the canal, ideal if you want the paths to yourself. Avoid arriving in the early evening on weekends, when foot traffic peaks and benches fill up fast.
 
 Evenings have their own appeal despite the crowds. The bridges and towers light up, temperatures drop, and the promenade takes on a completely different mood, busier, but atmospheric.
 

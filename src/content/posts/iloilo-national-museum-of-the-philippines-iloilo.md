@@ -124,4 +124,4 @@ Treat it the way Ilonggos treat their smaller heritage sites, as a quiet detour,
 
 The mistake most tourists make is folding this into a rushed loop with Molo Church and Jaro Cathedral and giving it fifteen minutes. Give it the full hour-plus it deserves. You're one of relatively few visitors on any given day, and the galleries reward slow, unhurried reading rather than a quick pass-through.
 
-Since it's free and low-traffic, it also works well as a rainy-day fallback or a midday break between other Iloilo City Proper stops, when the heat outside makes an air-conditioned gallery genuinely welcome.
+Given how quiet it usually is, it also works well as a rainy-day fallback or a midday break between other Iloilo City Proper stops, when the heat outside makes an air-conditioned gallery genuinely welcome.

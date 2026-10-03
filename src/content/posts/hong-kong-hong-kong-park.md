@@ -100,7 +100,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-04'
 ---
-
 ## Why go
 
 You step off Cotton Tree Drive and the traffic noise just drops away. Glass towers loom on every side, but inside the park's walls it's water sounds, birdsong, and shade.
@@ -123,11 +122,11 @@ Start at the **Forsgate Conservatory**, a set of glasshouses split into dry and 
 
 From there, follow the walkway down to the **artificial waterfall and stream**, built from raw concrete that's gone green and mossy with age, locals often just call it "the rockery." It empties into a pond stocked with koi and turtles.
 
-Don't skip the **Edward Youde Aviary**, a netted canopy walk suspended above a re-created lowland forest, home to over 80 bird species. You walk through it at treetop height, which is the whole point, birds pass close enough to hear their wingbeats.
+Don't skip the **Edward Youde Aviary**, a netted canopy walk suspended above a re-created lowland forest, home to a variety of bird species. You walk through it at treetop height, which is the whole point, birds pass close enough to hear their wingbeats.
 
 Other pieces worth finding:
 
-- The **Museum of Tea Ware**, housed in the former Flagstaff House, the oldest colonial building still standing in Hong Kong
+- The **Museum of Tea Ware**, housed in the former Flagstaff House, a colonial-era building within the park
 - A children's **playground** and a **squash and tennis facility** tucked into the lower section
 - The **Vantage Point**, a viewing tower with a wraparound look over the park's tree canopy and the harbor skyline beyond
 

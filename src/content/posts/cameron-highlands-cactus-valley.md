@@ -69,7 +69,7 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-30'
 ---
-
+---
 ## Why Cactus Valley is worth the stop
 
 You spot it before you arrive: a hillside stacked with terraces, spiky silhouettes catching the Cameron Highlands light. This isn't a manicured botanical park. It's a working nursery-turned-attraction, and it feels that way the moment you step in.
@@ -109,7 +109,7 @@ Cactus Valley is well-known and draws steady tour traffic, so don't expect a qui
 
 - Arrive between 8am and 10am to beat both the heat haze and the tour groups.
 - Wear closed shoes with grip; the terraced paths get slick after overnight mist or rain.
-- Bring small cash notes for the fruit and plant stalls, card machines aren't reliable this far up the hill.
+- Bring small cash notes for the fruit and plant stalls; card machines aren't reliable this far up the hill.
 - If you want to buy a cactus to take home, check your country's plant import rules first; some varieties can't cross borders.
 - Treat it as one stop on a loop with the nearby Big Red Strawberry Farm and Brinchang's night market rather than a half-day destination on its own.
 - Photograph the terraces from the lower path looking up, it captures the layered effect better than shots taken from the top down.

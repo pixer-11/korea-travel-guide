@@ -96,7 +96,7 @@ Go on a weekday morning if you want the market at its most functional and least 
 
 ## How to visit like a local
 
-Arrive early, by 8am the fishmongers have the best selection and the hawker stalls are freshly cooked, not sitting under heat lamps.
+Arrive early, when the hawker stalls are freshly cooked, not sitting under heat lamps.
 
 Bring small cash. Many stalls, especially the older fabric and spice vendors, still don't take cards, though some hawker counters now accept PayNow or card payments.
 

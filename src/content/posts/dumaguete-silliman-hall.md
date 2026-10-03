@@ -117,7 +117,7 @@ This is genuinely under-the-radar for an attraction this old; most visitors to D
 - Combine it with a slow loop of the rest of the campus, whose acacia-lined paths are a Dumaguete landmark in their own right
 - Keep voices low; classes and offices operate in nearby buildings even while you're inside
 
-The mistake most first-timers make is treating this as a five-minute photo stop. The real value is in reading the case labels closely. The 200 BCE material is easy to walk past if you're moving fast.
+The mistake most first-timers make is treating this as a five-minute photo stop. The real value is in reading the case labels closely. The oldest material is easy to walk past if you're moving fast.
 
 ## Nearby to pair with your visit
 

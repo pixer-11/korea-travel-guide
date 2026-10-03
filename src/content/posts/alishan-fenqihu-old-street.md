@@ -90,10 +90,9 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-16'
 ---
-
 ## Why Fenqihu, and why now
 
-The train slows before you see the town, a long curve through cedar forest, then a wooden platform appears out of the mist. Fenqihu sits at roughly 1,400 meters, a old logging-relay station turned market street, and it still smells faintly of woodsmoke and warm rice.
+The train slows before you see the town, a long curve through cedar forest, then a wooden platform appears out of the mist. Fenqihu sits at roughly 1,400 meters, an old logging-relay station turned market street, and it still smells faintly of woodsmoke and warm rice.
 
 This isn't a manufactured attraction. It grew up around railway workers who needed a fast, hot meal between shifts, and that history is still what you're eating.
 

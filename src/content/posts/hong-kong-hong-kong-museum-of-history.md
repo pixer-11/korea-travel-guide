@@ -85,16 +85,15 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-04'
 ---
-
 ## Why go
 
 This is the museum that explains everything else you'll see in Hong Kong. Before the skyline, before the harbour ferries, there were typhoon shelters, walled villages, and a British colonial outpost, and this museum lays that whole arc out for you in one building.
 
-The centerpiece is "The Hong Kong Story," a permanent exhibition spanning eight galleries and roughly 400 million years of natural and human history. You walk through a recreated street of old shopfronts, a mock-up of a Hakka dwelling, and life-size dioramas of the Japanese occupation. It's immersive in the literal sense. You're not reading placards from a distance, you're standing inside the scenes.
+The centerpiece is "The Hong Kong Story," a permanent exhibition spanning natural and human history. You walk through a recreated street of old shopfronts, a mock-up of a Hakka dwelling, and life-size dioramas of the Japanese occupation. It's immersive in the literal sense. You're not reading placards from a distance, you're standing inside the scenes.
 
 ## Getting there
 
-The museum sits at 100 Chatham Road South in Tsim Sha Tsui, a short walk from Exit B2 of Tsim Sha Tsui MTR station (East Rail Line and Tsuen Wan Line both stop nearby). From the exit, it's about 10 minutes on foot, past the Science Museum, which shares the same block and pairs well with a combined visit.
+The museum sits at 100 Chatham Road South in Tsim Sha Tsui, a short walk from Exit B2 of Tsim Sha Tsui MTR station. From the exit, it's about 10 minutes on foot, past the Science Museum, which shares the same block and pairs well with a combined visit.
 
 If you're coming from Hong Kong Island, the Star Ferry to Tsim Sha Tsui pier followed by a 15-minute walk is a scenic alternative, especially in late afternoon light over the harbour.
 

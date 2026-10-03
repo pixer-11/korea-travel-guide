@@ -80,11 +80,11 @@ updatedDate: '2026-08-28'
 ---
 The museum announces itself before you even reach the entrance. Coming up Asin Road, the pine-covered hills fall away into a deep valley on your left, and the building itself (low, dark-timbered, half-buried into the slope) appears almost camouflaged against the ridge.
 
-This is the museum of Benedicto "BenCab" Cabrera, one of the most significant painters the Philippines has produced. He built it not just to house his own work but to give the Cordillera region's art and material culture a permanent home.
+This is the museum of Benedicto "BenCab" Cabrera, one of the most significant painters the Philippines has produced. He built it to house his own work and to give the Cordillera region's art and material culture a permanent home.
 
 ## Why it's worth the trip
 
-You come here for the layered experience, not just the paintings. The main galleries rotate through BenCab's own canvases, his famous "Sabel" figures recur throughout, a recurring hunched, shawled woman he's painted for decades.
+You come here for the layered experience, not just the paintings. The main galleries rotate through BenCab's own canvases, including his famous "Sabel" figures, a hunched, shawled woman he's painted for decades.
 
 But the building keeps unfolding. Wander further and you hit a wing of wood-carved bulol rice gods, woven Ifugao textiles, and tribal artifacts from the northern highlands. Downstairs, a separate gallery shows contemporary Filipino artists BenCab has collected and championed himself.
 

@@ -98,7 +98,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-02'
 ---
-
 ## Why go
 
 You come to Palazzo Reale for the gold. Not literal bullion, but the gilded stucco, the mirrored halls, and the sheer theatrical confidence of a palace built to remind visitors exactly who was in charge.
@@ -107,7 +106,7 @@ This was the residence of the Balbi and Durazzo families before the Savoy monarc
 
 ## Getting there
 
-The palace sits at Via Balbi, 10, in the heart of Genoa's old university quarter. Genova Piazza Principe, the city's main rail station, is a five-minute walk away.
+The palace sits at Via Balbi, 10, in Genoa's old university quarter. Genova Piazza Principe, the city's main rail station, is a five-minute walk away.
 
 From the station, head down Via Balbi past the university's Baroque courtyard, itself worth a glance, and the palace facade appears on your right, unassuming from the street. That modesty is deliberate: the real spectacle waits inside.
 
@@ -131,7 +130,7 @@ Set aside roughly an hour to ninety minutes to see it properly without feeling h
 
 Hours here are specific enough to trip people up. The palace is closed Monday and Sunday entirely, and Tuesday it only opens from 1:30 to 7pm.
 
-Wednesday through Saturday, hours run 9am to 7pm, your best window for a full, unhurried visit. Weekends see the heaviest footfall, with crowds building steadily from 10am through closing at 7pm.
+Wednesday through Saturday, hours run 9am to 7pm, your best window for a full, unhurried visit. Weekends see the heaviest footfall, with crowds heaviest on Saturdays, since the museum is closed on Sundays.
 
 If your schedule allows any flexibility, aim for a Wednesday or Thursday morning. You'll get the state rooms with far fewer people drifting through your photos.
 

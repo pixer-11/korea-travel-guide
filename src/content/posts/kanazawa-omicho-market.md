@@ -103,9 +103,9 @@ Kanazawa built its wealth on the Sea of Japan's cold currents, and Omicho Market
 
 ## Getting there and getting oriented
 
-The market sits right in central Kanazawa, at 50 Kamiōmichō, a short walk from the Katamachi and Korinbo shopping districts. From Kanazawa Station's east exit, hop the Kanazawa Loop Bus and get off at the Omicho Market stop, about 10 minutes and a couple hundred yen. Walking takes roughly 15-20 minutes if the weather's cooperating.
+The market sits right in central Kanazawa, at 50 Kamiōmichō, a short walk from the Katamachi and Korinbo shopping districts. From Kanazawa Station's east exit, hop the Kanazawa Loop Bus and get off at the Omicho Market stop. Walking takes roughly 15-20 minutes if the weather's cooperating.
 
-Inside, it's a warren of narrow, roofed alleys branching off a main covered street. Don't expect a single tidy building. It's more like 170 stalls stitched together under a glass-and-steel canopy that's been rebuilt since its Edo-period start.
+Inside, it's a warren of narrow, roofed alleys branching off a main covered street. Don't expect a single tidy building. It's more a cluster of stalls stitched together under a glass-and-steel canopy that's been rebuilt since its Edo-period start.
 
 ## What to eat and see
 

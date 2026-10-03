@@ -120,7 +120,7 @@ Opening hours run 9am to 4pm every day, so plan your visit inside that window. T
 
 The quietest stretch is right at opening, between 9am and 10am, on both weekdays and weekends. That's when you'll have the courtyard largely to yourself, with just a handful of regulars tending the altar.
 
-Weekends get busier between 11am and 3pm, when local worshippers and curious visitors overlap. If you want photos without people in frame, arrive before 10am.
+The temple gets busier between 11am and 3pm, when local worshippers and curious visitors overlap. If you want photos without people in frame, arrive before 10am.
 
 ## Nearby to combine with your visit
 

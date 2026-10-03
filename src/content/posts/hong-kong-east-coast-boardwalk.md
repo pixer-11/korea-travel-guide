@@ -141,6 +141,6 @@ Treat this as exercise-and-air infrastructure, not a monument. That's how most p
 - Cash or card isn't relevant here since there's nothing to buy on-site; carry your own water
 - Cyclists and runners have unofficial priority on the through-path. Walk toward the harbour railing side if you're strolling with a group
 - The common mistake: expecting a polished tourist promenade with cafés and lookout signage. It's plainer than that, and better for it if you just want harbour air
-- As an under-the-radar spot, it rewards an early or off-peak visit far more than trying to "see everything", pick one stretch, walk it slowly, and let the harbour do the rest
+- Don't try to "see everything" here, pick one stretch, walk it slowly, and let the harbour do the rest
 
 Give yourself 45 minutes to an hour if you're walking a single stretch, longer if you bring a bike and want to link it with the wider harbourfront cycle path toward Quarry Bay or Shau Kei Wan.

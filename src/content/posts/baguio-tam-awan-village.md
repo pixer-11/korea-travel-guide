@@ -73,7 +73,6 @@ faq:
 aiGenerated: true
 updatedDate: '2026-08-28'
 ---
-
 ## Why go
 
 You climb a steep, narrow road out of central Baguio and suddenly the city noise drops away. Pine trees crowd the slope, and above them sit a dozen weathered huts on stilts, roofs of cogon grass catching the mist. This is Tam-awan Village, part open-air museum, part artist colony, built to preserve a way of building and living that's vanishing from the Cordillera highlands.
@@ -89,7 +88,7 @@ Look out for:
 - Ifugao and Kalinga-style bahay kubo huts, some open to walk through
 - A cave-like gallery space showing work by Baguio's Cordillera artists
 - Cafe Sabel, tucked among the huts, serving coffee and simple Filipino meals
-- Open viewpoints looking out over pine-covered ridges toward the South China Sea on clear days
+- Open viewpoints looking out over pine-covered ridges
 - A small art shop selling woodcarvings, weavings, and paintings from local artists
 
 Give yourself 90 minutes to two hours. Longer if you linger at the cafe or catch a painting workshop, which the village occasionally runs for visitors.
@@ -121,4 +120,3 @@ Practical notes:
 - Don't rush through in 20 minutes, the huts reward slow walking, since captions and context are sparse and it helps to imagine how each one was actually used
 
 Pair the visit with nearby BenCab Museum, a short drive further along the same road, for a fuller sense of Cordillera art and history in one trip.
-

@@ -93,7 +93,7 @@ A single combined ticket usually covers entry to the walled city and most of the
 
 ## What to see inside the walls
 
-Give yourself unhurried time here. A single lap takes 15-20 minutes, but the sites deserve hours.
+Give yourself unhurried time here. The walled town is compact enough to cross on foot without much effort, but the sites deserve hours.
 
 - **Kalta Minor Minaret**, the squat, turquoise-tiled tower that was meant to be Central Asia's tallest minaret before construction was left unfinished
 - **Kunya-Ark**, the khan's old fortress and residence, with a working sundial in its courtyard

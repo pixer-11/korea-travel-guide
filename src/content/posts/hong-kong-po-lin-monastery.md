@@ -93,7 +93,6 @@ faq:
 aiGenerated: true
 updatedDate: '2026-09-04'
 ---
-
 ## Why go
 
 You come for one silhouette: a 34-metre bronze Buddha seated on a lotus throne, visible from the cable car long before you reach it. Po Lin Monastery sits beneath it on a high plateau on Lantau Island, incense smoke drifting between vermilion pillars and gold-tipped roofs.
@@ -125,7 +124,7 @@ Wear shoes you can climb steps in, sandals are common but the ascent is steeper 
 
 Opening hours run 9am to 6pm every day of the week, so there's no early-morning or evening slot to sneak in outside that window. The real variable is crowds, not hours.
 
-Weekends between 10am and 4pm are the peak crush, when tour buses and cable car queues both hit their worst. Both weekdays and weekends stay comparatively calm across the full 9am–6pm window if you avoid that midday weekend surge.
+Weekends between 10am and 4pm are the peak crush, when tour buses and cable car queues both hit their worst. Weekdays stay comparatively calm across the full 9am–6pm window, and weekends are calmer too if you avoid that midday surge.
 
 Autumn and winter (October to February) bring cooler, clearer weather and better odds of an unobstructed view from the Buddha's platform. Summer is humid, and typhoon season can shut the cable car entirely, so build in flexibility if you're visiting July through September.
 
@@ -138,4 +137,3 @@ Given how popular the site is, the smartest move is timing rather than seeking a
 Buy your cable car ticket online in advance rather than queuing at Tung Chung. It's the single biggest time-saver here. Cash and Octopus card both work for the vegetarian restaurant and village stalls, though card acceptance is patchier at smaller vendors.
 
 If you plan to eat at the monastery's vegetarian restaurant, book the meal ticket alongside your cable car ticket rather than walking up and hoping for a table. Locals visiting for worship rather than sightseeing tend to come right at opening, light incense, and leave before the crowds build, a good model to follow even if you're here for the view rather than the prayer.
-

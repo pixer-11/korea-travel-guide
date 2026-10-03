@@ -74,7 +74,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-01'
 ---
-
 ## Why go
 
 You don't need a ticket or an itinerary to feel the pull of this place. Singapore Botanic Gardens is the country's only UNESCO World Heritage Site, and it earns that status without ever feeling like a monument. It's a working park (joggers, wedding photographers, retirees doing tai chi under rain trees) that happens to also hold one of the great tropical plant collections on earth.
@@ -85,7 +84,7 @@ Start at the National Orchid Garden, a paid enclosure within the free park, wher
 
 Look for:
 - The Sundial Garden's open lawns, good for a breather
-- Tembusu tree near the Music Garden, its low, gnarled branch is the one on the old Singapore $5 note
+- Tembusu tree near the Music Garden, with a low, gnarled branch that's a popular photo spot
 - Bandstand, a Victorian-era gazebo on a small hill
 - Ginger Garden, thick with heliconias and torch ginger
 
@@ -103,7 +102,7 @@ The gardens are open daily from 5am to midnight, which is unusually generous for
 
 If you want the lawns and lake paths to yourself, aim for a weekday morning or get there right at 7am on a weekend. Midday sun is intense and shade is patchy in the open lawn areas, so early morning or after 4pm is kinder to walk in.
 
-## What to eat and where to unwind
+## What to eat and where to rest
 
 Dempsey Hill itself, a former British military barracks turned dining enclave, is a five-minute stroll from the Nassim Gate. It's dotted with restaurants set in colonial-era black-and-white bungalows shaded by rain trees.
 

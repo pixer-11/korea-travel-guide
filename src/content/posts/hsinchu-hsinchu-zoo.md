@@ -79,7 +79,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-04'
 ---
-
 ## Why go
 
 Hsinchu Zoo isn't trying to be Taipei Zoo. It's compact, old-fashioned, and walkable in a couple of hours, which is exactly the appeal.
@@ -90,7 +89,7 @@ The focus here is Southeast Asia's tropical rainforest species, and the compactn
 
 ## Getting there
 
-The zoo sits at 食品路66號 in Hsinchu's East District, right inside Hsinchu Park.
+The zoo sits in Hsinchu's East District, right inside Hsinchu Park.
 
 From Hsinchu Railway Station, it's a short taxi or bus ride, around 10–15 minutes by car, or a flat 20-minute walk if you don't mind a stroll through downtown streets. Several city bus routes stop near Hsinchu Park; ask your driver or hotel to confirm the current route number, since these shift over time.
 
@@ -130,4 +129,3 @@ This is a well-visited, well-loved city attraction, not a hidden find, so timing
 - **Combine it with Hsinchu Park** rather than treating the zoo as a standalone trip; locals typically stroll the park's ponds and clock tower before or after.
 - **Skip Monday entirely**. The zoo is closed, and this trips up more visitors than any other mistake.
 - Keep voices low near the sun bear and macaque enclosures, these animals react to noise, and quieter viewing gets you better, longer looks at natural behavior.
-

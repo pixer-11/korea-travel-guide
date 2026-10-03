@@ -96,7 +96,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-04'
 ---
-
 ## Why go
 
 You come here for the strange, layered mix of jungle boardwalk and farmyard theme park. Green World Ecological Farm spreads across the hills of Beipu Township, and the moment you pass the gate the traffic noise disappears, replaced by birdsong and the rustle of bamboo groves overhead.
@@ -105,7 +104,7 @@ It's one of the most-reviewed attractions in the Hsinchu area, and the scale sho
 
 ## Getting there
 
-The farm sits at 大湖村尾隘子7鄰20號 in Beipu Township, Hsinchu County, well outside the city center. Most visitors arrive by car or scooter, since public transit options are limited and infrequent this far into the hills.
+The farm sits in Beipu Township, Hsinchu County, well outside the city center. Most visitors arrive by car or scooter, since public transit options are limited and infrequent this far into the hills.
 
 From Hsinchu city or the High Speed Rail station, expect roughly 40 to 50 minutes by road. If you don't want to self-drive, a taxi or a pre-arranged driver is the practical fallback. Ask your hotel to help book one for the return trip too, since flagging a taxi from the farm itself can be hit or miss.
 
@@ -124,7 +123,7 @@ Wear real shoes. The paths are mostly paved but climb and dip through hillside t
 
 The farm is open daily from 8:30am to 5:30pm, with no weekly closing day currently listed, still, confirm this before you drive out, since seasonal hours do shift.
 
-Weekdays are your best bet for breathing room, with the calm stretching across the whole 9am–5pm window. Weekends are a different story: crowds build steadily from 10am and stay heavy through the afternoon, especially if it's a national holiday.
+Weekdays are your best bet for breathing room, with calm lasting through the 9am–5pm window. Weekends are a different story: crowds build steadily from 10am and stay heavy through the afternoon, especially if it's a national holiday.
 
 If you can only come on a Saturday or Sunday, arrive right at 8:30am opening to get an hour or so ahead of the rush.
 

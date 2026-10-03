@@ -73,7 +73,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-01'
 ---
-
 ## Why Gemiler Island is worth the boat ride
 
 You won't drive here. That's the point.
@@ -119,7 +118,7 @@ Skip the big-name boat tours if you can and book a smaller private charter or wa
 - Bring cash for a boat captain's tip and any drinks sold dockside
 - Pack your own water and a hat. There's no café or shade at the summit
 - Combine it with a swim stop in the bay, since most boats anchor for exactly that
-- Ask your boat operator upfront how long you'll get on the island, some trips only allow 45 minutes
+- Ask your boat operator upfront how long you'll get on the island, since the time ashore varies from trip to trip
 
 Because it isn't yet a mass-tourism fixture, there's no ticket booth or formal entry queue, you simply land, climb, and explore at your own pace. Treat the ruins gently: nothing is roped off, so the informality is a privilege, not an invitation to climb on fragile walls.
 

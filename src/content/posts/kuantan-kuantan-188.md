@@ -131,7 +131,7 @@ Give yourself an hour for the view and a slow lap of the promenade, longer if yo
 
 Weekdays are your quiet window, crowds stay noticeably lighter than on weekends. Weekday evenings especially reward you with space to actually enjoy the view without jostling for a rail spot.
 
-Weekends flip that. Between 6pm and 11pm on Saturday and Sunday, the riverside fills up fast with families, groups, and diners chasing the sunset and the after-dark lighting.
+Weekends flip that. Between 6pm and 11pm on weekend evenings, the riverside fills up fast with families, groups, and diners chasing the sunset and the after-dark lighting.
 
 If you can only come on a weekend, aim for late morning or early afternoon instead, before the evening crowd builds.
 

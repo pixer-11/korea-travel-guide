@@ -101,7 +101,7 @@ The garden keeps the same hours every day, 6:00 AM to 9:30 PM, so there's flexib
 
 For genuine quiet, aim for a weekday morning, foot traffic tends to be at its lowest and the light through the trees is soft and low-angled, good for photos without other people wandering into frame.
 
-Weekends tend to be calmer earlier in the day than later on. Evenings on weekends draw local families and couples in larger numbers, so benches can fill quickly.
+Weekends tend to be calmer earlier in the day than later on. Evenings on weekends draw larger numbers of local families and couples, so benches can fill quickly.
 
 Evenings after sunset have their own appeal too, though it's understandably busier then.
 

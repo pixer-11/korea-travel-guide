@@ -108,7 +108,7 @@ Treat it as a quiet, practical stop rather than a headline attraction. That's ex
 - Pair it with Fujairah Fort next door; buying into the combined heritage-site rhythm of the area saves backtracking
 - Go on a weekday morning if you want the galleries essentially to yourself
 - Wear comfortable shoes for the fort visit that usually bookends this stop, since that site involves uneven stone underfoot
-- Bring small cash for the entry fee, since card readers aren't always reliable at smaller Fujairah heritage sites
+- Check ahead on the entry fee and accepted payment methods so you're not caught off guard
 - Don't rush the excavation-site display panels; they're the part that explains why the rest of the emirate looks the way it does
 
 The mistake most visitors make is skipping this museum entirely in favor of the fort's photogenic exterior. Fifteen extra minutes here turns the fort from a nice backdrop into something you actually understand, where the stones came from, who built them, and why this stretch of coast mattered enough to defend.

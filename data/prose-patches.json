@@ -1,1 +1,928 @@
-{}
+{
+ "aberdeen-ocean-park": {
+  "steps": [
+   {
+    "from": "f8d68c6b4e0f",
+    "to": "61d8816f18dc",
+    "at": "2026-10-03T21:45:53.033Z",
+    "removed": [
+     "- **Arrive at opening.** The gates open at 10:00 AM sharp, being there five minutes early gets you onto the cable car before the first wave forms.\n- **Go up, then down.** Take the cable car to the Summit first thing, tackle Hair Raiser before the queue builds, then work your way back down via the Ocean Express in the afternoon.\n- **Pay by card or mobile.** Octopus card and major mobile wallets are widely accepted at food stalls and shops inside the park, so there's little need to carry much cash.\n- **Skip the all-day queue at Panda Village.** Pandas are calmest and least visited right after opening or in the last hour before close.\n- **Eat outside peak lunch hours.** Aim for an earlier or later lunch to avoid the midday rush inside the park; grabbing lunch at 11:30 AM or after 2 PM saves real time.\n- **The rookie mistake**: trying to do both levels via the same connector both ways. Locals loop it (cable car up, funicular down (or vice versa)), so you're not backtracking through the same queue twice."
+    ],
+    "added": [
+     "- **Arrive at opening.** The gates open at 10:00 AM sharp, being there five minutes early gets you onto the cable car before the first wave forms.\n- **Go up, then down.** Take the cable car to the Summit first thing, tackle Hair Raiser before the queue builds, then work your way back down via the Ocean Express in the afternoon.\n- **Pay by card or mobile.** Octopus card and major mobile wallets are widely accepted at food stalls and shops inside the park, so there's little need to carry much cash.\n- **Skip the all-day queue at Panda Village.** Pandas are calmest and least visited right after opening or in the last hour before close.\n- **Eat outside peak lunch hours.** Aim for an earlier or later lunch to avoid the midday rush inside the park.\n- **The rookie mistake**: trying to do both levels via the same connector both ways. Locals loop it (cable car up, funicular down (or vice versa)), so you're not backtracking through the same queue twice."
+    ]
+   }
+  ]
+ },
+ "abu-dhabi-khalifa-park": {
+  "steps": [
+   {
+    "from": "bed4a163fd3c",
+    "to": "ad3d41299134",
+    "at": "2026-10-03T21:46:11.748Z",
+    "removed": [
+     "Measured foot-traffic shows the calmest stretch on weekdays is 10pm to 11pm, right near closing. On weekends, the quieter window falls in the first hour after opening, before families arrive for evening barbecues. If you're weekend-only, that early slot is your best bet for space to yourself.",
+     "- **Time it right**: aim for the weekend 10–11am window, or slip in near closing on a weekday, to skip the peak evening rush\n- **Bring your own gear**: the BBQ areas are self-service. Pack charcoal, skewers, and food, as nothing is sold on-site for grilling\n- **Cash and small notes help**: informal vendors and parking attendants often prefer cash over card\n- **Dress for shade-hopping**: the paths are landscaped but exposed in parts, so a hat matters more than you'd think between April and October\n- **Skip the car if you can carpool**: weekend evening parking is the single biggest bottleneck, especially Thursday to Saturday nights\n- **Don't rush the museum**: it's small enough that groups tend to breeze through it, but the pearl-diving exhibits reward a slower pace"
+    ],
+    "added": [
+     "Measured foot-traffic shows the calmest stretch on weekdays is 10pm to 11pm, right near closing. On weekends, the quieter window falls in the first hour after opening, before the afternoon crowds arrive. If you're weekend-only, that early slot is your best bet for space to yourself.",
+     "- **Time it right**: aim for the weekend 10–11am window, or slip in near closing on a weekday, to skip the peak evening rush\n- **Bring your own gear**: the BBQ areas are self-service. Pack charcoal, skewers, and food\n- **Cash and small notes help**: informal vendors and parking attendants often prefer cash over card\n- **Dress for shade-hopping**: the paths are landscaped but exposed in parts, so a hat matters more than you'd think between April and October\n- **Skip the car if you can carpool**: weekend evening parking is the single biggest bottleneck, especially Thursday to Saturday nights\n- **Don't rush the museum**: it's small enough that groups tend to breeze through it, but the pearl-diving exhibits reward a slower pace"
+    ]
+   }
+  ]
+ },
+ "abu-dhabi-louvre-abu-dhabi": {
+  "steps": [
+   {
+    "from": "410a75fe9e82",
+    "to": "b030f50e86e0",
+    "at": "2026-10-03T21:46:27.090Z",
+    "removed": [
+     "Weekends get busy fast, with crowds building steadily from open until around 7pm. If you want the galleries to yourself, arrive right at 10am on a Saturday or Sunday, as soon as the doors open."
+    ],
+    "added": [
+     "Weekends get busy fast, with crowds building steadily from open until around 7pm. If you want the galleries to yourself, arrive right as the doors open on a Saturday or Sunday."
+    ]
+   }
+  ]
+ },
+ "alishan-fenqihu-old-street": {
+  "steps": [
+   {
+    "from": "f6ecbcd0f99f",
+    "to": "3ed6700453c7",
+    "at": "2026-10-03T21:46:35.126Z",
+    "removed": [
+     "The train slows before you see the town, a long curve through cedar forest, then a wooden platform appears out of the mist. Fenqihu sits at roughly 1,400 meters, a old logging-relay station turned market street, and it still smells faintly of woodsmoke and warm rice."
+    ],
+    "added": [
+     "The train slows before you see the town, a long curve through cedar forest, then a wooden platform appears out of the mist. Fenqihu sits at roughly 1,400 meters, an old logging-relay station turned market street, and it still smells faintly of woodsmoke and warm rice."
+    ]
+   }
+  ]
+ },
+ "avignon-jardin-des-doms": {
+  "steps": [
+   {
+    "from": "6ec8b90439b6",
+    "to": "9c3d8873fd6b",
+    "at": "2026-10-03T21:46:43.775Z",
+    "removed": [
+     "The garden opens at 7:30am and stays open until 10pm every day, which makes early morning and evening the two best windows. Weekends are calmest between 8am and 10pm generally, but the stretch from noon to 8pm draws the heaviest crowds, especially in summer."
+    ],
+    "added": [
+     "The garden opens at 7:30am and stays open until 10pm every day, which makes early morning and evening the two best windows. Weekends are busier throughout the day, with the stretch from noon to 8pm drawing the heaviest crowds, especially in summer."
+    ]
+   }
+  ]
+ },
+ "baguio-baguio-botanical-garden": {
+  "steps": [
+   {
+    "from": "e50c8faaed63",
+    "to": "ce6d2d557eae",
+    "at": "2026-10-03T21:46:55.614Z",
+    "removed": [
+     "The garden is open every day from 6am to 6pm, so early mornings are your best window before tour groups arrive. Weekdays stay relatively calm all day, from opening to close."
+    ],
+    "added": [
+     "The garden is open every day from 6am to 6pm, so early mornings are your best window before tour groups arrive. Weekdays stay relatively calm from opening to close."
+    ]
+   }
+  ]
+ },
+ "baguio-bencab-museum": {
+  "steps": [
+   {
+    "from": "76175f0dfa97",
+    "to": "f5a70561d580",
+    "at": "2026-10-03T21:47:06.126Z",
+    "removed": [
+     "This is the museum of Benedicto \"BenCab\" Cabrera, one of the most significant painters the Philippines has produced. He built it not just to house his own work but to give the Cordillera region's art and material culture a permanent home.",
+     "You come here for the layered experience, not just the paintings. The main galleries rotate through BenCab's own canvases, his famous \"Sabel\" figures recur throughout, a recurring hunched, shawled woman he's painted for decades."
+    ],
+    "added": [
+     "This is the museum of Benedicto \"BenCab\" Cabrera, one of the most significant painters the Philippines has produced. He built it to house his own work and to give the Cordillera region's art and material culture a permanent home.",
+     "You come here for the layered experience, not just the paintings. The main galleries rotate through BenCab's own canvases, including his famous \"Sabel\" figures, a hunched, shawled woman he's painted for decades."
+    ]
+   }
+  ]
+ },
+ "baguio-tam-awan-village": {
+  "steps": [
+   {
+    "from": "77d7cfa09aa3",
+    "to": "7a8b1d9bb018",
+    "at": "2026-10-03T21:47:15.164Z",
+    "removed": [
+     "- Ifugao and Kalinga-style bahay kubo huts, some open to walk through\n- A cave-like gallery space showing work by Baguio's Cordillera artists\n- Cafe Sabel, tucked among the huts, serving coffee and simple Filipino meals\n- Open viewpoints looking out over pine-covered ridges toward the South China Sea on clear days\n- A small art shop selling woodcarvings, weavings, and paintings from local artists"
+    ],
+    "added": [
+     "- Ifugao and Kalinga-style bahay kubo huts, some open to walk through\n- A cave-like gallery space showing work by Baguio's Cordillera artists\n- Cafe Sabel, tucked among the huts, serving coffee and simple Filipino meals\n- Open viewpoints looking out over pine-covered ridges\n- A small art shop selling woodcarvings, weavings, and paintings from local artists"
+    ]
+   }
+  ]
+ },
+ "bugis-supertree-grove": {
+  "steps": [
+   {
+    "from": "c9f4ad2605f7",
+    "to": "9373022113b1",
+    "at": "2026-10-03T21:47:27.213Z",
+    "removed": [
+     "- **OCBC Skyway**, a suspended walkway between two Supertrees, roughly 22 metres up, with panoramic views over Marina Bay (small admission fee).\n- **Garden Rhapsody**, the free light-and-sound show, nightly at 7:45pm and 8:45pm, projected across the Supertree canopies.\n- **Cloud Forest and Flower Dome**, the two cooled conservatories nearby, ticketed separately, worth combining if you have a couple of hours to spare.",
+     "- **Time it right.** Arrive by 7pm to stake out grass near the sound towers before the show fills in.\n- **Skip cash entirely.** Any ticketed add-ons (Skyway, conservatories) are paid by card or mobile payment at the kiosks, cash is rarely used at all in Singapore now.\n- **Don't queue at the main gate.** Enter from the Bayfront MRT side rather than looping around from Marina Bay Sands; it's a shorter, shadier approach.\n- **Bring a light layer.** The outdoor grove is humid, but sitting still on the lawn after sunset can feel surprisingly breezy.\n- **The rookie mistake:** treating Garden Rhapsody as the only reason to visit, then leaving immediately after. Stick around. The paths are far calmer once the show crowd disperses, and the lit canopy above is worth a slower walk."
+    ],
+    "added": [
+     "- **OCBC Skyway**, a suspended walkway between two Supertrees, roughly 22 metres up, with panoramic views over Marina Bay (small admission fee).\n- **Garden Rhapsody**, the free light-and-sound show, held each evening, projected across the Supertree canopies.\n- **Cloud Forest and Flower Dome**, the two cooled conservatories nearby, ticketed separately, worth combining if you have a couple of hours to spare.",
+     "- **Time it right.** Arrive by 7pm to stake out grass near the sound towers before the show fills in.\n- **Skip cash entirely.** Any ticketed add-ons (Skyway, conservatories) are paid by card or mobile payment at the kiosks.\n- **Don't queue at the main gate.** Enter from the Bayfront MRT side rather than looping around from Marina Bay Sands; it's a shorter, shadier approach.\n- **Bring a light layer.** The outdoor grove is humid, but sitting still on the lawn after sunset can feel surprisingly breezy.\n- **The rookie mistake:** treating Garden Rhapsody as the only reason to visit, then leaving immediately after. Stick around. The paths are far calmer once the show crowd disperses, and the lit canopy above is worth a slower walk."
+    ]
+   }
+  ]
+ },
+ "bursa-green-tomb": {
+  "steps": [
+   {
+    "from": "670ce4086b2d",
+    "to": "6dc284c2936a",
+    "at": "2026-10-03T21:47:38.417Z",
+    "removed": [
+     "- The exterior tiles are actually a 19th-century restoration. The originals faded and were replaced\n- The interior tilework is largely original 15th-century work\n- The mihrab is the single most photographed detail inside"
+    ],
+    "added": [
+     "- The exterior tiles are the turquoise-green cladding that gives the tomb its name\n- The interior tilework is largely original 15th-century work\n- The mihrab is the single most photographed detail inside"
+    ]
+   }
+  ]
+ },
+ "bursa-tophane-clock-tower": {
+  "steps": [
+   {
+    "from": "2a5af591b54a",
+    "to": "2ba5ee1f3508",
+    "at": "2026-10-03T21:47:47.223Z",
+    "removed": [
+     "The tower itself is a slim, 15-meter neoclassical column, rebuilt in 1905 after an earlier version burned down. Cream-colored stone, a clock face on each side, a small onion-domed cap, it photographs cleanly against the sky."
+    ],
+    "added": [
+     "The tower itself is a slim, 15-meter neoclassical column. Cream-colored stone, a clock face on each side, a small onion-domed cap, it photographs cleanly against the sky."
+    ]
+   }
+  ]
+ },
+ "cameron-highlands-cactus-valley": {
+  "steps": [
+   {
+    "from": "ecd3278eaafc",
+    "to": "650bb4c858a6",
+    "at": "2026-10-03T21:47:56.348Z",
+    "removed": [
+     "## Why Cactus Valley is worth the stop",
+     "- Arrive between 8am and 10am to beat both the heat haze and the tour groups.\n- Wear closed shoes with grip; the terraced paths get slick after overnight mist or rain.\n- Bring small cash notes for the fruit and plant stalls, card machines aren't reliable this far up the hill.\n- If you want to buy a cactus to take home, check your country's plant import rules first; some varieties can't cross borders.\n- Treat it as one stop on a loop with the nearby Big Red Strawberry Farm and Brinchang's night market rather than a half-day destination on its own.\n- Photograph the terraces from the lower path looking up, it captures the layered effect better than shots taken from the top down."
+    ],
+    "added": [
+     "---\n## Why Cactus Valley is worth the stop",
+     "- Arrive between 8am and 10am to beat both the heat haze and the tour groups.\n- Wear closed shoes with grip; the terraced paths get slick after overnight mist or rain.\n- Bring small cash notes for the fruit and plant stalls; card machines aren't reliable this far up the hill.\n- If you want to buy a cactus to take home, check your country's plant import rules first; some varieties can't cross borders.\n- Treat it as one stop on a loop with the nearby Big Red Strawberry Farm and Brinchang's night market rather than a half-day destination on its own.\n- Photograph the terraces from the lower path looking up, it captures the layered effect better than shots taken from the top down."
+    ]
+   }
+  ]
+ },
+ "causeway-bay-tin-hau-temple-causeway-bay": {
+  "steps": [
+   {
+    "from": "5082038e1db0",
+    "to": "97a52842275b",
+    "at": "2026-10-03T21:48:10.815Z",
+    "removed": [
+     "Weekends get busier between 11am and 3pm, when local worshippers and curious visitors overlap. If you want photos without people in frame, arrive before 10am."
+    ],
+    "added": [
+     "The temple gets busier between 11am and 3pm, when local worshippers and curious visitors overlap. If you want photos without people in frame, arrive before 10am."
+    ]
+   }
+  ]
+ },
+ "central-central-mid-levels-escalators": {
+  "steps": [
+   {
+    "from": "15797ce5f319",
+    "to": "e6bf45ded385",
+    "at": "2026-10-03T21:48:19.581Z",
+    "removed": [
+     "Weekends between 10am and 8pm are the busiest stretch, with visitors bunching up at photo spots and entrances. Both weekdays and weekends stay noticeably calmer from around 7am to 11pm outside that window."
+    ],
+    "added": [
+     "Weekends between 10am and 8pm are the busiest stretch, with visitors bunching up at photo spots and entrances. Outside that window, both weekdays and weekends stay noticeably calmer."
+    ]
+   }
+  ]
+ },
+ "central-hong-kong-zoological-and-botanical-gardens": {
+  "steps": [
+   {
+    "from": "d4cc8e0d9837",
+    "to": "272c9800ed78",
+    "at": "2026-10-03T21:48:28.044Z",
+    "removed": [
+     "Look for the Old Colonial Courthouse ruins near the fountain terrace, and the memorial to Sun Yat-sen, who reportedly used to walk these grounds as a student."
+    ],
+    "added": [
+     "Look for the Old Colonial Courthouse ruins near the fountain terrace, and the memorial to Sun Yat-sen."
+    ]
+   }
+  ]
+ },
+ "chennai-snow-kingdom": {
+  "steps": [
+   {
+    "from": "e03375cda396",
+    "to": "d09f804218cf",
+    "at": "2026-10-03T21:48:47.539Z",
+    "removed": [
+     "Weekday visits are noticeably calmer across the full 10am–8pm window. Weekends are a different story, crowds build steadily and peak between 12pm and 7pm, with long queues for jackets, boots, and the sled slope."
+    ],
+    "added": [
+     "Weekday visits are noticeably calmer across the full 10am–8pm window. Weekends are a different story, crowds build steadily from 12pm, peaking around 7pm, with long queues for jackets, boots, and the sled slope."
+    ]
+   }
+  ]
+ },
+ "chiayi-chiayi-park": {
+  "steps": [
+   {
+    "from": "4da6a2bca73a",
+    "to": "e736ee15fa07",
+    "at": "2026-10-03T21:48:56.285Z",
+    "removed": [
+     "- **Chiayi Confucius Temple**, a red-and-gold complex with quiet courtyards, incense smoke curling near the entrance\n- **Sun Shooting Tower** (射日塔), a striking modern tower with an observation deck overlooking the treetops\n- **Historic shrine ruins**, stone torii-style gates and lantern bases from the Japanese colonial period\n- **Ponds and arched bridges**, koi drifting under red-lacquered footbridges, especially photogenic near midday light\n- **Playground and open lawns**, swings, slides, and shaded seating for families"
+    ],
+    "added": [
+     "- **Chiayi Confucius Temple**, a red-and-gold complex with quiet courtyards, incense smoke curling near the entrance\n- **Sun Shooting Tower**, a striking modern tower with an observation deck overlooking the treetops\n- **Historic shrine ruins**, stone torii-style gates and lantern bases from the Japanese colonial period\n- **Ponds and arched bridges**, koi drifting under red-lacquered footbridges, especially photogenic near midday light\n- **Playground and open lawns**, swings, slides, and shaded seating for families"
+    ]
+   }
+  ]
+ },
+ "chiayi-hinoki-village": {
+  "steps": [
+   {
+    "from": "388f5e6bd25e",
+    "to": "f996381bee11",
+    "at": "2026-10-03T21:49:04.608Z",
+    "removed": [
+     "- Go on a weekday between 10am and noon, the measured quiet window, before groups arrive\n- If a weekend is your only option, be at the gate at opening or wait until after 5pm\n- Payment at most shops and cafés is by card or mobile pay, though smaller craft stalls sometimes prefer cash, carry a little just in case\n- No tipping expected anywhere in Taiwan, including here\n- Wear socks you don't mind showing, a few interior spaces with tatami flooring ask you to remove shoes\n- The mistake most visitors make is treating it as a 20-minute photo stop; the real texture is in the side lanes away from the main entrance path, where the crowds thin out fast"
+    ],
+    "added": [
+     "- Go on a weekday between 10am and noon, the measured quiet window, before groups arrive\n- If a weekend is your only option, be at the gate at opening or wait until after 5pm\n- It's worth carrying a little cash alongside the usual cards or mobile pay, just in case\n- No tipping expected anywhere in Taiwan, including here\n- Wear socks you don't mind showing, a few interior spaces with tatami flooring ask you to remove shoes\n- The mistake most visitors make is treating it as a 20-minute photo stop; the real texture is in the side lanes away from the main entrance path, where the crowds thin out fast"
+    ]
+   }
+  ]
+ },
+ "cinque-terre-parco-nazionale-delle-cinque-terre": {
+  "steps": [
+   {
+    "from": "8715f0b5dcef",
+    "to": "e87ed4bf5061",
+    "at": "2026-10-03T21:49:20.076Z",
+    "removed": [
+     "- **Start early.** Catch the first trains and you'll have Vernazza's harbor or Manarola's viewpoint largely to yourself before the weekend surge hits at 1pm.\n- **Buy the park card at the station**, not from a reseller. It's the same price and funds trail upkeep.\n- **Pay by card or contactless** where possible; small trattorias and trail-side stands may prefer cash for quick transactions.\n- **Wear real hiking shoes**, even for short trail sections. The paths are uneven stone and gravel, not paved promenades.\n- **Don't try to see all five villages in one rushed day.** Locals and rangers alike will tell you two or three villages, walked slowly, beats a checklist of five.\n- **Order the local specialty**, trofie al pesto or anchovies from Monterosso, rather than a generic tourist-menu pasta. It's what the coast is actually known for."
+    ],
+    "added": [
+     "- **Start early.** Catch the first trains and you'll have Vernazza's harbor or Manarola's viewpoint largely to yourself before the weekend surge arrives.\n- **Buy the park card at the station**, not from a reseller. It's the same price and funds trail upkeep.\n- **Pay by card or contactless** where possible; small trattorias and trail-side stands may prefer cash for quick transactions.\n- **Wear real hiking shoes**, even for short trail sections. The paths are uneven stone and gravel, not paved promenades.\n- **Don't try to see all five villages in one rushed day.** Locals and rangers alike will tell you two or three villages, walked slowly, beats a checklist of five.\n- **Order the local specialty**, trofie al pesto or anchovies from Monterosso, rather than a generic tourist-menu pasta. It's what the coast is actually known for."
+    ]
+   }
+  ]
+ },
+ "clarke-quay-artscience-museum": {
+  "steps": [
+   {
+    "from": "d39e1c64bca5",
+    "to": "26f4ed2cbd65",
+    "at": "2026-10-03T21:49:30.626Z",
+    "removed": [
+     "Give yourself two to three hours to see two exhibitions properly. Tickets are usually sold per exhibition or as a combo, so decide before you queue whether you want one show or several."
+    ],
+    "added": [
+     "Give yourself two to three hours to see two exhibitions properly. Tickets are usually sold per exhibition or as a combo, so decide before you queue how many exhibitions you plan to see."
+    ]
+   }
+  ]
+ },
+ "cordoba-torre-de-la-calahorra": {
+  "steps": [
+   {
+    "from": "2e0f9fcbe307",
+    "to": "41887618b790",
+    "at": "2026-10-03T21:49:45.360Z",
+    "removed": [
+     "- Go in the 7–8pm slot, the last hour of opening, when both weekday and weekend traffic drops off\n- Rent the included audio guide. The waxwork rooms have minimal posted text and make far more sense narrated\n- Wear flat shoes; the spiral stairwell is narrow, uneven, and has no elevator\n- Pay by card or cash at the door; there's rarely a long ticket line, so pre-booking isn't essential\n- Cross the Roman Bridge slowly on your way there. It's part of the experience, not just the approach\n- Don't confuse this with the Alcázar de los Reyes Cristianos on the other bank; they're separate sites with separate tickets"
+    ],
+    "added": [
+     "- Go in the 7–8pm slot, the last hour of opening, when both weekday and weekend traffic drops off\n- Rent the included audio guide. The waxwork rooms have minimal posted text and make far more sense narrated\n- Wear flat shoes; the spiral stairwell is narrow, uneven, and has no elevator\n- Cross the Roman Bridge slowly on your way there. It's part of the experience, not just the approach\n- Don't confuse this with the Alcázar de los Reyes Cristianos on the other bank; they're separate sites with separate tickets"
+    ]
+   }
+  ]
+ },
+ "daegu-daegu-national-museum": {
+  "steps": [
+   {
+    "from": "f793708cd504",
+    "to": "f62465202f0b",
+    "at": "2026-10-03T21:49:54.159Z",
+    "removed": [
+     "Budget 90 minutes for a solid pass through the main halls, or two hours if you linger in the outdoor pagoda garden."
+    ],
+    "added": [
+     "Give yourself enough time to move through the main halls at an unhurried pace, and longer still if you linger in the outdoor pagoda garden."
+    ]
+   }
+  ]
+ },
+ "deira-abra-dubai": {
+  "steps": [
+   {
+    "from": "bddfd30db8d0",
+    "to": "527af96279a7",
+    "at": "2026-10-03T21:50:02.770Z",
+    "removed": [
+     "- Fare: a flat token amount, roughly AED 1, paid in cash to the boatman or via a token booth at some docks\n- Duration: 5–10 minutes one way\n- Best seat: middle bench, away from the motor's diesel smell, for the clearest photos of the creek"
+    ],
+    "added": [
+     "- Fare: a small, nominal amount, paid in cash to the boatman or via a token booth at some docks\n- Duration: 5–10 minutes one way\n- Best seat: middle bench, away from the motor's diesel smell, for the clearest photos of the creek"
+    ]
+   }
+  ]
+ },
+ "dempsey-hill-pasar-geylang-serai": {
+  "steps": [
+   {
+    "from": "ea6d488de505",
+    "to": "1384748c56bc",
+    "at": "2026-10-03T21:50:12.030Z",
+    "removed": [
+     "Arrive early, by 8am the fishmongers have the best selection and the hawker stalls are freshly cooked, not sitting under heat lamps."
+    ],
+    "added": [
+     "Arrive early, when the hawker stalls are freshly cooked, not sitting under heat lamps."
+    ]
+   }
+  ]
+ },
+ "dempsey-hill-singapore-botanic-gardens": {
+  "steps": [
+   {
+    "from": "a823fa44d209",
+    "to": "f2f20d29aab4",
+    "at": "2026-10-03T21:50:23.227Z",
+    "removed": [
+     "Look for:\n- The Sundial Garden's open lawns, good for a breather\n- Tembusu tree near the Music Garden, its low, gnarled branch is the one on the old Singapore $5 note\n- Bandstand, a Victorian-era gazebo on a small hill\n- Ginger Garden, thick with heliconias and torch ginger",
+     "## What to eat and where to unwind"
+    ],
+    "added": [
+     "Look for:\n- The Sundial Garden's open lawns, good for a breather\n- Tembusu tree near the Music Garden, with a low, gnarled branch that's a popular photo spot\n- Bandstand, a Victorian-era gazebo on a small hill\n- Ginger Garden, thick with heliconias and torch ginger",
+     "## What to eat and where to rest"
+    ]
+   }
+  ]
+ },
+ "dumaguete-silliman-hall": {
+  "steps": [
+   {
+    "from": "3c247150d53a",
+    "to": "dfc94177a9e5",
+    "at": "2026-10-03T21:50:32.179Z",
+    "removed": [
+     "The mistake most first-timers make is treating this as a five-minute photo stop. The real value is in reading the case labels closely. The 200 BCE material is easy to walk past if you're moving fast."
+    ],
+    "added": [
+     "The mistake most first-timers make is treating this as a five-minute photo stop. The real value is in reading the case labels closely. The oldest material is easy to walk past if you're moving fast."
+    ]
+   }
+  ]
+ },
+ "el-nido-taraw-cliff": {
+  "steps": [
+   {
+    "from": "e5231dd78e05",
+    "to": "646124ece05d",
+    "at": "2026-10-03T21:50:41.622Z",
+    "removed": [
+     "Weekend afternoons between 4pm and 11pm are when this area sees the most foot traffic in and around El Nido, so if you want the trail and summit to yourself, avoid that window. A weekday morning is your quietest bet."
+    ],
+    "added": [
+     "Weekend afternoons are when this area sees the most foot traffic in and around El Nido, so if you want the trail and summit to yourself, avoid that window. A weekday morning is your quietest bet."
+    ]
+   }
+  ]
+ },
+ "fethiye-ancient-city-of-telmessos": {
+  "steps": [
+   {
+    "from": "248c1c0138eb",
+    "to": "bfa86e9a2301",
+    "at": "2026-10-03T21:50:58.211Z",
+    "removed": [
+     "On weekdays, it's quietest from 9am to 2pm. On weekends, aim for 9am to 1pm, after that, especially from 1pm to 7pm, tour groups and day-trippers thicken up the paths considerably."
+    ],
+    "added": [
+     "On weekdays, it's quietest from 9am to 2pm. On weekends, aim for 9am to 1pm; after that, especially from 1pm to 7pm, tour groups and day-trippers thicken up the paths considerably."
+    ]
+   }
+  ]
+ },
+ "fethiye-gemiler-island": {
+  "steps": [
+   {
+    "from": "d15dd9ac0b71",
+    "to": "f0db47ff7ec4",
+    "at": "2026-10-03T21:51:06.861Z",
+    "removed": [
+     "- Wear closed-toe shoes; the path is uneven stone, not sandals-friendly\n- Bring cash for a boat captain's tip and any drinks sold dockside\n- Pack your own water and a hat. There's no café or shade at the summit\n- Combine it with a swim stop in the bay, since most boats anchor for exactly that\n- Ask your boat operator upfront how long you'll get on the island, some trips only allow 45 minutes"
+    ],
+    "added": [
+     "- Wear closed-toe shoes; the path is uneven stone, not sandals-friendly\n- Bring cash for a boat captain's tip and any drinks sold dockside\n- Pack your own water and a hat. There's no café or shade at the summit\n- Combine it with a swim stop in the bay, since most boats anchor for exactly that\n- Ask your boat operator upfront how long you'll get on the island, since the time ashore varies from trip to trip"
+    ]
+   }
+  ]
+ },
+ "fujairah-fujairah-museum": {
+  "steps": [
+   {
+    "from": "7ed6eb2196c6",
+    "to": "b912e97ae313",
+    "at": "2026-10-03T21:51:16.752Z",
+    "removed": [
+     "- Pair it with Fujairah Fort next door; buying into the combined heritage-site rhythm of the area saves backtracking\n- Go on a weekday morning if you want the galleries essentially to yourself\n- Wear comfortable shoes for the fort visit that usually bookends this stop, since that site involves uneven stone underfoot\n- Bring small cash for the entry fee, since card readers aren't always reliable at smaller Fujairah heritage sites\n- Don't rush the excavation-site display panels; they're the part that explains why the rest of the emirate looks the way it does"
+    ],
+    "added": [
+     "- Pair it with Fujairah Fort next door; buying into the combined heritage-site rhythm of the area saves backtracking\n- Go on a weekday morning if you want the galleries essentially to yourself\n- Wear comfortable shoes for the fort visit that usually bookends this stop, since that site involves uneven stone underfoot\n- Check ahead on the entry fee and accepted payment methods so you're not caught off guard\n- Don't rush the excavation-site display panels; they're the part that explains why the rest of the emirate looks the way it does"
+    ]
+   }
+  ]
+ },
+ "fukuoka-ohori-park-japanese-garden": {
+  "steps": [
+   {
+    "from": "c2eaeb8d936c",
+    "to": "87dff2c57028",
+    "at": "2026-10-03T21:51:26.320Z",
+    "removed": [
+     "The garden is closed Mondays, and open 9am to 6pm every other day of the week. Weekends fill up between 10am and 5pm, especially when the maples or azaleas are at their peak."
+    ],
+    "added": [
+     "The garden is closed Mondays, and open 9am to 6pm every other day of the week. Weekends get busiest between 10am and 5pm, especially when the maples or azaleas are at their peak."
+    ]
+   }
+  ]
+ },
+ "genoa-royal-palace-museum": {
+  "steps": [
+   {
+    "from": "7f4218b6a736",
+    "to": "e29c5a0b27e9",
+    "at": "2026-10-03T21:52:19.469Z",
+    "removed": [
+     "The palace sits at Via Balbi, 10, in the heart of Genoa's old university quarter. Genova Piazza Principe, the city's main rail station, is a five-minute walk away.",
+     "Wednesday through Saturday, hours run 9am to 7pm, your best window for a full, unhurried visit. Weekends see the heaviest footfall, with crowds building steadily from 10am through closing at 7pm."
+    ],
+    "added": [
+     "The palace sits at Via Balbi, 10, in Genoa's old university quarter. Genova Piazza Principe, the city's main rail station, is a five-minute walk away.",
+     "Wednesday through Saturday, hours run 9am to 7pm, your best window for a full, unhurried visit. Weekends see the heaviest footfall, with crowds heaviest on Saturdays, since the museum is closed on Sundays."
+    ]
+   }
+  ]
+ },
+ "goa-goa-market": {
+  "steps": [
+   {
+    "from": "23a841e49eda",
+    "to": "5c1388e9f0e8",
+    "at": "2026-10-03T21:52:51.566Z",
+    "removed": [
+     "If you want fish, go early (the best cuts sell out by late morning. If you want the atmosphere, the golden hour before closing brings out the full crowd, though it's Panaji's everyday shopping rush rather than a tourist spectacle. Either way, wear shoes you don't mind getting a bit wet or muddy near the fish stalls, and carry a cloth bag) plastic bags aren't always offered."
+    ],
+    "added": [
+     "If you want fish, go early (the best cuts sell out by late morning). If you want the atmosphere, the golden hour before closing brings out the full crowd, though it's Panaji's everyday shopping rush rather than a tourist spectacle. Either way, wear shoes you don't mind getting a bit wet or muddy near the fish stalls, and carry a cloth bag — plastic bags aren't always offered."
+    ]
+   }
+  ]
+ },
+ "hong-kong-east-coast-boardwalk": {
+  "steps": [
+   {
+    "from": "db5eb19488b6",
+    "to": "d67cb3f79e1b",
+    "at": "2026-10-03T21:53:01.680Z",
+    "removed": [
+     "- Go at 7am if you want it close to empty; by mid-morning on weekends it's a different place entirely\n- No entry fee, no ticket, no booking, you just walk in from any of the access points along the corridor\n- Cash or card isn't relevant here since there's nothing to buy on-site; carry your own water\n- Cyclists and runners have unofficial priority on the through-path. Walk toward the harbour railing side if you're strolling with a group\n- The common mistake: expecting a polished tourist promenade with cafés and lookout signage. It's plainer than that, and better for it if you just want harbour air\n- As an under-the-radar spot, it rewards an early or off-peak visit far more than trying to \"see everything\", pick one stretch, walk it slowly, and let the harbour do the rest"
+    ],
+    "added": [
+     "- Go at 7am if you want it close to empty; by mid-morning on weekends it's a different place entirely\n- No entry fee, no ticket, no booking, you just walk in from any of the access points along the corridor\n- Cash or card isn't relevant here since there's nothing to buy on-site; carry your own water\n- Cyclists and runners have unofficial priority on the through-path. Walk toward the harbour railing side if you're strolling with a group\n- The common mistake: expecting a polished tourist promenade with cafés and lookout signage. It's plainer than that, and better for it if you just want harbour air\n- Don't try to \"see everything\" here, pick one stretch, walk it slowly, and let the harbour do the rest"
+    ]
+   }
+  ]
+ },
+ "hong-kong-hong-kong-museum-of-history": {
+  "steps": [
+   {
+    "from": "4517d0fcd428",
+    "to": "9386f826ac45",
+    "at": "2026-10-03T21:53:11.328Z",
+    "removed": [
+     "The centerpiece is \"The Hong Kong Story,\" a permanent exhibition spanning eight galleries and roughly 400 million years of natural and human history. You walk through a recreated street of old shopfronts, a mock-up of a Hakka dwelling, and life-size dioramas of the Japanese occupation. It's immersive in the literal sense. You're not reading placards from a distance, you're standing inside the scenes.",
+     "The museum sits at 100 Chatham Road South in Tsim Sha Tsui, a short walk from Exit B2 of Tsim Sha Tsui MTR station (East Rail Line and Tsuen Wan Line both stop nearby). From the exit, it's about 10 minutes on foot, past the Science Museum, which shares the same block and pairs well with a combined visit."
+    ],
+    "added": [
+     "The centerpiece is \"The Hong Kong Story,\" a permanent exhibition spanning natural and human history. You walk through a recreated street of old shopfronts, a mock-up of a Hakka dwelling, and life-size dioramas of the Japanese occupation. It's immersive in the literal sense. You're not reading placards from a distance, you're standing inside the scenes.",
+     "The museum sits at 100 Chatham Road South in Tsim Sha Tsui, a short walk from Exit B2 of Tsim Sha Tsui MTR station. From the exit, it's about 10 minutes on foot, past the Science Museum, which shares the same block and pairs well with a combined visit."
+    ]
+   }
+  ]
+ },
+ "hong-kong-hong-kong-park": {
+  "steps": [
+   {
+    "from": "8b1a8fe75470",
+    "to": "c2ef58e4b51b",
+    "at": "2026-10-03T21:53:21.635Z",
+    "removed": [
+     "Don't skip the **Edward Youde Aviary**, a netted canopy walk suspended above a re-created lowland forest, home to over 80 bird species. You walk through it at treetop height, which is the whole point, birds pass close enough to hear their wingbeats.",
+     "- The **Museum of Tea Ware**, housed in the former Flagstaff House, the oldest colonial building still standing in Hong Kong\n- A children's **playground** and a **squash and tennis facility** tucked into the lower section\n- The **Vantage Point**, a viewing tower with a wraparound look over the park's tree canopy and the harbor skyline beyond"
+    ],
+    "added": [
+     "Don't skip the **Edward Youde Aviary**, a netted canopy walk suspended above a re-created lowland forest, home to a variety of bird species. You walk through it at treetop height, which is the whole point, birds pass close enough to hear their wingbeats.",
+     "- The **Museum of Tea Ware**, housed in the former Flagstaff House, a colonial-era building within the park\n- A children's **playground** and a **squash and tennis facility** tucked into the lower section\n- The **Vantage Point**, a viewing tower with a wraparound look over the park's tree canopy and the harbor skyline beyond"
+    ]
+   }
+  ]
+ },
+ "hong-kong-po-lin-monastery": {
+  "steps": [
+   {
+    "from": "375e2c815d34",
+    "to": "024b7832640b",
+    "at": "2026-10-03T21:53:31.133Z",
+    "removed": [
+     "Weekends between 10am and 4pm are the peak crush, when tour buses and cable car queues both hit their worst. Both weekdays and weekends stay comparatively calm across the full 9am–6pm window if you avoid that midday weekend surge."
+    ],
+    "added": [
+     "Weekends between 10am and 4pm are the peak crush, when tour buses and cable car queues both hit their worst. Weekdays stay comparatively calm across the full 9am–6pm window, and weekends are calmer too if you avoid that midday surge."
+    ]
+   }
+  ]
+ },
+ "hsinchu-green-world-ecological-farm": {
+  "steps": [
+   {
+    "from": "c39886f3a74b",
+    "to": "46b1f4571a46",
+    "at": "2026-10-03T21:53:46.886Z",
+    "removed": [
+     "The farm sits at 大湖村尾隘子7鄰20號 in Beipu Township, Hsinchu County, well outside the city center. Most visitors arrive by car or scooter, since public transit options are limited and infrequent this far into the hills.",
+     "Weekdays are your best bet for breathing room, with the calm stretching across the whole 9am–5pm window. Weekends are a different story: crowds build steadily from 10am and stay heavy through the afternoon, especially if it's a national holiday."
+    ],
+    "added": [
+     "The farm sits in Beipu Township, Hsinchu County, well outside the city center. Most visitors arrive by car or scooter, since public transit options are limited and infrequent this far into the hills.",
+     "Weekdays are your best bet for breathing room, with calm lasting through the 9am–5pm window. Weekends are a different story: crowds build steadily from 10am and stay heavy through the afternoon, especially if it's a national holiday."
+    ]
+   }
+  ]
+ },
+ "hsinchu-hsinchu-zoo": {
+  "steps": [
+   {
+    "from": "fc0c935822da",
+    "to": "7a924c9e203c",
+    "at": "2026-10-03T21:53:56.184Z",
+    "removed": [
+     "The zoo sits at 食品路66號 in Hsinchu's East District, right inside Hsinchu Park."
+    ],
+    "added": [
+     "The zoo sits in Hsinchu's East District, right inside Hsinchu Park."
+    ]
+   }
+  ]
+ },
+ "iloilo-iloilo-city-garden-of-love": {
+  "steps": [
+   {
+    "from": "83f1b4513f9b",
+    "to": "84af2f209266",
+    "at": "2026-10-03T21:54:12.912Z",
+    "removed": [
+     "Weekends tend to be calmer earlier in the day than later on. Evenings on weekends draw local families and couples in larger numbers, so benches can fill quickly."
+    ],
+    "added": [
+     "Weekends tend to be calmer earlier in the day than later on. Evenings on weekends draw larger numbers of local families and couples, so benches can fill quickly."
+    ]
+   }
+  ]
+ },
+ "iloilo-national-museum-of-the-philippines-iloilo": {
+  "steps": [
+   {
+    "from": "558d6995c130",
+    "to": "19b5f9ac6686",
+    "at": "2026-10-03T21:54:22.905Z",
+    "removed": [
+     "Since it's free and low-traffic, it also works well as a rainy-day fallback or a midday break between other Iloilo City Proper stops, when the heat outside makes an air-conditioned gallery genuinely welcome."
+    ],
+    "added": [
+     "Given how quiet it usually is, it also works well as a rainy-day fallback or a midday break between other Iloilo City Proper stops, when the heat outside makes an air-conditioned gallery genuinely welcome."
+    ]
+   }
+  ]
+ },
+ "jakarta-national-museum-of-indonesia": {
+  "steps": [
+   {
+    "from": "3b935ac57a7d",
+    "to": "b65197e3af06",
+    "at": "2026-10-03T21:54:34.162Z",
+    "removed": [
+     "If you're visiting on a weekend, arrive right at opening. The 8am to 9am window is noticeably quieter. On weekdays, aim for late afternoon, closer to closing time, when the crowds have thinned out."
+    ],
+    "added": [
+     "If you're visiting on a weekend, arrive right at opening. The 8am to 9am window is noticeably quieter. On weekdays, aim for the morning as well, before crowds build toward the afternoon."
+    ]
+   }
+  ]
+ },
+ "jakarta-selamat-datang-monument": {
+  "steps": [
+   {
+    "from": "cb2554f556c3",
+    "to": "08a11b046f9b",
+    "at": "2026-10-03T21:54:43.780Z",
+    "removed": [
+     "Built for the 1962 Asian Games, the monument was Jakarta's first major public sculpture and a statement of a young, modernizing nation. The two 5-meter bronze figures gesture outward in welcome, ringed by a fountain that still runs today. It's less a single attraction than a civic symbol, the roundabout around it, Bundaran HI, has become shorthand for the city itself."
+    ],
+    "added": [
+     "Built for the 1962 Asian Games, the monument was Jakarta's first major public sculpture and a statement of a young, modernizing nation. The bronze figures gesture outward in welcome, ringed by a fountain that still runs today. It's less a single attraction than a civic symbol, the roundabout around it, Bundaran HI, has become shorthand for the city itself."
+    ]
+   }
+  ]
+ },
+ "jordan-hong-kong-heritage-museum": {
+  "steps": [
+   {
+    "from": "f7910b41776a",
+    "to": "54aa576f59bf",
+    "at": "2026-10-03T21:54:53.094Z",
+    "removed": [
+     "Take the MTR from Jordan Station to Che Kung Temple Station, changing trains once en route. From there it's a flat, well-signed 5-minute walk along the river promenade."
+    ],
+    "added": [
+     "Take the MTR from Jordan Station to Che Kung Temple Station. From there it's a short walk along the river promenade."
+    ]
+   }
+  ]
+ },
+ "jumeirah-dubai-water-canal": {
+  "steps": [
+   {
+    "from": "9ab2c5319a64",
+    "to": "533454427878",
+    "at": "2026-10-03T21:55:05.444Z",
+    "removed": [
+     "On weekends, the canal is quietest between 7am and 3pm, ideal if you want the paths to yourself. Avoid arriving in the early evening on weekends, when foot traffic peaks and benches fill up fast."
+    ],
+    "added": [
+     "Early mornings tend to be the quietest time at the canal, ideal if you want the paths to yourself. Avoid arriving in the early evening on weekends, when foot traffic peaks and benches fill up fast."
+    ]
+   }
+  ]
+ },
+ "jurong-jurong-lake-gardens": {
+  "steps": [
+   {
+    "from": "2521e5cb9e32",
+    "to": "da046e4f5602",
+    "at": "2026-10-03T21:55:14.318Z",
+    "removed": [
+     "The nearest MRT stations are Lakeside and Chinese Garden, both on the East-West Line, either gets you to the gardens' edges on foot in about 10 minutes. Buses run along Yuan Ching Road and Corporation Drive if you'd rather not walk."
+    ],
+    "added": [
+     "The nearest MRT stations are Lakeside and Chinese Garden, both on the East-West Line, and either station gets you to the gardens' edges on foot in about 10 minutes. Buses run along Yuan Ching Road and Corporation Drive if you'd rather not walk."
+    ]
+   }
+  ]
+ },
+ "kanazawa-omicho-market": {
+  "steps": [
+   {
+    "from": "6faa4e3dbb94",
+    "to": "f637ee11e217",
+    "at": "2026-10-03T21:55:23.919Z",
+    "removed": [
+     "The market sits right in central Kanazawa, at 50 Kamiōmichō, a short walk from the Katamachi and Korinbo shopping districts. From Kanazawa Station's east exit, hop the Kanazawa Loop Bus and get off at the Omicho Market stop, about 10 minutes and a couple hundred yen. Walking takes roughly 15-20 minutes if the weather's cooperating.",
+     "Inside, it's a warren of narrow, roofed alleys branching off a main covered street. Don't expect a single tidy building. It's more like 170 stalls stitched together under a glass-and-steel canopy that's been rebuilt since its Edo-period start."
+    ],
+    "added": [
+     "The market sits right in central Kanazawa, at 50 Kamiōmichō, a short walk from the Katamachi and Korinbo shopping districts. From Kanazawa Station's east exit, hop the Kanazawa Loop Bus and get off at the Omicho Market stop. Walking takes roughly 15-20 minutes if the weather's cooperating.",
+     "Inside, it's a warren of narrow, roofed alleys branching off a main covered street. Don't expect a single tidy building. It's more a cluster of stalls stitched together under a glass-and-steel canopy that's been rebuilt since its Edo-period start."
+    ]
+   }
+  ]
+ },
+ "kaohsiung-post-malone-big-ass-world-tour": {
+  "steps": [
+   {
+    "from": "090b9d5d12e8",
+    "to": "12e83890c81c",
+    "at": "2026-10-03T21:55:34.825Z",
+    "removed": [
+     "The venue's local name is **高雄國家體育場** (Kaohsiung National Stadium), which is handy for directions or a taxi driver, and faster than describing it in English."
+    ],
+    "added": [
+     "The venue's full English name is Kaohsiung National Stadium, which is handy to know for directions or a taxi driver."
+    ]
+   }
+  ]
+ },
+ "katong-katong-park": {
+  "steps": [
+   {
+    "from": "d79dc599a061",
+    "to": "c75ed58dc54a",
+    "at": "2026-10-03T21:55:43.797Z",
+    "removed": [
+     "Weekday evenings after office hours tend to be calmer than weekends, though there's no hard data on the exact quiet window. Early morning light also happens to suit the old gun emplacement and rain trees best for photos, with soft shadows instead of the flat glare of midday."
+    ],
+    "added": [
+     "Weekday evenings after office hours tend to be calmer than weekends. Early morning light also happens to suit the old gun emplacement and rain trees best for photos, with soft shadows instead of the flat glare of midday."
+    ]
+   }
+  ]
+ },
+ "kep-kep-national-park": {
+  "steps": [
+   {
+    "from": "983a9e3ba0fb",
+    "to": "4e4bab968e07",
+    "at": "2026-10-03T21:55:53.287Z",
+    "removed": [
+     "Early morning is the most comfortable time to walk, before the heat builds under the canopy. The measured crowd pattern backs this up: weekend visits stay lightest between 1pm and 8pm, while the busiest stretch runs from 9am to 11pm as day-trippers and evening walkers arrive.",
+     "If you're coming on a weekend, aim for that quieter afternoon window rather than mid-morning. On weekdays the park rarely feels crowded at all. It's still very much an under-the-radar stop compared to Kep's beach and crab market, so you're unlikely to be jostling for space on the trail regardless of when you go."
+    ],
+    "added": [
+     "Early morning is the most comfortable time to walk, before the heat builds under the canopy. The measured crowd pattern backs this up: weekend visits stay lightest early in the morning, while the busiest stretch runs from mid-morning into the afternoon as day-trippers arrive.",
+     "If you're coming on a weekend, aim for that quieter early window rather than mid-morning. On weekdays the park rarely feels crowded at all. It's still very much an under-the-radar stop compared to Kep's beach and crab market, so you're unlikely to be jostling for space on the trail regardless of when you go."
+    ]
+   }
+  ]
+ },
+ "khiva-itchan-kala": {
+  "steps": [
+   {
+    "from": "3ce2a3ac992f",
+    "to": "d4a0e673e808",
+    "at": "2026-10-03T21:56:01.618Z",
+    "removed": [
+     "- **Kunya-Ark**, the khan's fortress and former seat of power, with a working watchtower view over the rooftops\n- **Tosh Hovli Palace**, carved wooden columns and tiled courtyards, once the khan's harem quarters\n- **Islom Hoja Minaret**, the tallest structure in the city, worth the climb for the view over the old town's flat roofs\n- **Juma Mosque**, dim and cool inside, held up by 213 wooden columns, some dating to the 10th century"
+    ],
+    "added": [
+     "- **Kunya-Ark**, the khan's fortress and former seat of power, with a working watchtower view over the rooftops\n- **Tosh Hovli Palace**, carved wooden columns and tiled courtyards, once the khan's harem quarters\n- **Islom Hoja Minaret**, the tallest structure in the city, worth the climb for the view over the old town's flat roofs\n- **Juma Mosque**, dim and cool inside, held up by a forest of carved wooden columns"
+    ]
+   }
+  ]
+ },
+ "khiva-khiva-ichan-kala": {
+  "steps": [
+   {
+    "from": "452338de59ea",
+    "to": "5761b65508cd",
+    "at": "2026-10-03T21:56:10.796Z",
+    "removed": [
+     "Give yourself unhurried time here. A single lap takes 15-20 minutes, but the sites deserve hours."
+    ],
+    "added": [
+     "Give yourself unhurried time here. The walled town is compact enough to cross on foot without much effort, but the sites deserve hours."
+    ]
+   }
+  ]
+ },
+ "kochi-fort-kochi-beach": {
+  "steps": [
+   {
+    "from": "004f6e910053",
+    "to": "141a27085998",
+    "at": "2026-10-03T21:56:18.950Z",
+    "removed": [
+     "- Watch the fishing nets in action, especially near dusk\n- Browse stalls selling shell jewelry, sunglasses, and snacks\n- Walk to the nearby Vasco da Gama Square for more net-viewing angles\n- Grab fresh-caught fish at the small stalls, cooked to order"
+    ],
+    "added": [
+     "- Watch the fishing nets in action, especially near dusk\n- Browse stalls selling shell jewelry, sunglasses, and snacks\n- Walk to the nearby Vasco da Gama Square for more net-viewing angles\n- Sample snacks from the food stalls along the promenade"
+    ]
+   }
+  ]
+ },
+ "kochi-mattancherry-palace": {
+  "steps": [
+   {
+    "from": "4c89fb146e6d",
+    "to": "02623b7e9988",
+    "at": "2026-10-03T21:56:30.480Z",
+    "removed": [
+     "You step off Bazaar Road into a low, laterite-walled courtyard, and the noise of Mattancherry's tuk-tuks drops away almost immediately. This isn't a palace of soaring domes or gilded gates. It's a squat, single-storey Kerala-style structure with a pitched, tiled roof, built by the Portuguese in 1555 as a peace offering to the Raja of Kochi, then renovated decades later by the Dutch, which is why most people here still call it the Dutch Palace."
+    ],
+    "added": [
+     "You step off Bazaar Road into a low, laterite-walled courtyard, and the noise of Mattancherry's tuk-tuks drops away almost immediately. This isn't a palace of soaring domes or gilded gates. It's a squat, single-storey Kerala-style structure with a pitched, tiled roof, originally built by the Portuguese and later renovated by the Dutch, which is why most people here still call it the Dutch Palace."
+    ]
+   }
+  ]
+ },
+ "kokand-palace-of-khudayar-khan": {
+  "steps": [
+   {
+    "from": "c21d19565165",
+    "to": "4f64088e5e0c",
+    "at": "2026-10-03T21:56:44.687Z",
+    "removed": [
+     "- Weekdays, 9am–11am: the quietest stretch, courtyards nearly to yourself\n- Weekend mornings, 9am–12pm: still calm, a good backup if you're only passing through on a Saturday or Sunday\n- Weekends 11am–10pm: the busiest window, local families and tour groups fill the courtyard",
+     "This is a well-kept museum, not a bustling bazaar, so the etiquette here leans quiet and unhurried. Treat it the way you would any regional history museum."
+    ],
+    "added": [
+     "- Weekdays, 9am–11am: the quietest stretch, courtyards nearly to yourself\n- Weekend mornings, 9am–12pm: still calm, a good backup if you're only passing through on a Saturday or Sunday\n- Weekends, 12pm–10pm: the busiest window, local families and tour groups fill the courtyard",
+     "This is a well-kept museum, not a busy bazaar, so the etiquette here leans quiet and unhurried. Treat it the way you would any regional history museum."
+    ]
+   }
+  ]
+ },
+ "kuala-lumpur-islamic-arts-museum-malaysia": {
+  "steps": [
+   {
+    "from": "478161f00dba",
+    "to": "4cae33ceb148",
+    "at": "2026-10-03T21:56:57.403Z",
+    "removed": [
+     "Most visitors underestimate how large it is. There are twelve permanent galleries across two levels, each organized by region or medium, textiles, metalwork, arms and armor, ceramics."
+    ],
+    "added": [
+     "Most visitors underestimate how large it is. There are several permanent galleries spread across multiple levels, each organized by region or medium, textiles, metalwork, arms and armor, ceramics."
+    ]
+   }
+  ]
+ },
+ "kuala-lumpur-thean-hou-temple": {
+  "steps": [
+   {
+    "from": "00ae7e0b00b5",
+    "to": "6476f9bd0ac0",
+    "at": "2026-10-03T21:57:10.926Z",
+    "removed": [
+     "Weekday mornings and early afternoons stay comparatively calm right through to 7pm. Weekends are a different story: crowds build fast after 10am and remain busy until closing at 8pm."
+    ],
+    "added": [
+     "Weekday mornings and early afternoons stay comparatively calm right through to 7pm. Weekends are a different story: crowds build fast after 10am and remain busy until closing."
+    ]
+   }
+  ]
+ },
+ "kuantan-kuantan-188": {
+  "steps": [
+   {
+    "from": "dc14f6045db2",
+    "to": "f135c8940c5e",
+    "at": "2026-10-03T21:57:36.328Z",
+    "removed": [
+     "Weekends flip that. Between 6pm and 11pm on Saturday and Sunday, the riverside fills up fast with families, groups, and diners chasing the sunset and the after-dark lighting."
+    ],
+    "added": [
+     "Weekends flip that. Between 6pm and 11pm on weekend evenings, the riverside fills up fast with families, groups, and diners chasing the sunset and the after-dark lighting."
+    ]
+   }
+  ]
+ },
+ "kumamoto-kumamoto-castle": {
+  "steps": [
+   {
+    "from": "4c30771ff8a2",
+    "to": "852af9327a06",
+    "at": "2026-10-03T21:57:46.620Z",
+    "removed": [
+     "Weekday mornings and afternoons are consistently calmer. The castle's hours run 9am–5pm every day, and weekdays stay quiet throughout that window. Weekends compress visitors into the middle of the day, with the busiest stretch running 10am to 4pm."
+    ],
+    "added": [
+     "Weekday mornings and afternoons are consistently calmer. The castle's hours run 9am–5pm every day. Weekends compress visitors into the middle of the day, with the busiest stretch running 10am to 4pm."
+    ]
+   }
+  ]
+ },
+ "malang-arema-blue-village": {
+  "steps": [
+   {
+    "from": "3ff5d25c12db",
+    "to": "b8173a6a05ae",
+    "at": "2026-10-03T21:58:05.270Z",
+    "removed": [
+     "- Keep your voice down and ask before photographing residents or their doorways directly\n- A small donation to the upkeep box near the entrance is customary and appreciated, since residents fund the repainting themselves\n- Pay for any snacks or drinks from local stalls in cash, small rupiah notes, nothing card-based here\n- Skip the football jersey theatrics; a respectful, quiet walkthrough is the norm\n- Combine it with a stop at Jodipan village or the Alun-Alun Malang square, both a short ride away, to make a half-day of Malang's street-art side",
+     "After the blue alleys, central Malang rewards more wandering: colonial-era buildings around Jalan Ijen, the bustling Pasar Besar market for lunch, and the aforementioned Jodipan rainbow village make natural add-ons within a short ojek ride, letting you turn a 30-minute detour into a half-day loop through the city's most photogenic corners."
+    ],
+    "added": [
+     "- Keep your voice down and ask before photographing residents or their doorways directly\n- Residents fund the repainting themselves, so a polite greeting and respect for their space matters more than any donation\n- Pay for any snacks or drinks from local stalls in cash, small rupiah notes, nothing card-based here\n- Skip the football jersey theatrics; a respectful, quiet walkthrough is the norm\n- Combine it with a stop at Jodipan village or the Alun-Alun Malang square, both a short ride away, to make a half-day of Malang's street-art side",
+     "After the blue alleys, central Malang rewards more wandering: colonial-era buildings around Jalan Ijen, Pasar Besar market for lunch, and the aforementioned Jodipan rainbow village make natural add-ons within a short ojek ride, letting you turn a 30-minute detour into a half-day loop through the city's most photogenic corners."
+    ]
+   }
+  ]
+ }
+}

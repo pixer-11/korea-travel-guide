@@ -99,14 +99,14 @@ None of these will fill a whole day on their own, but together they make the par
 
 The park runs 10am to 10pm Monday, Tuesday, Wednesday and Sunday, and stretches to 11pm Thursday through Saturday. Given Abu Dhabi's climate, evenings are the natural time to visit almost any time of year, the museum and library work fine at any hour they're open, but the grounds themselves are far more pleasant after the sun drops.
 
-Measured foot-traffic shows the calmest stretch on weekdays is 10pm to 11pm, right near closing. On weekends, the quieter window falls in the first hour after opening, before families arrive for evening barbecues. If you're weekend-only, that early slot is your best bet for space to yourself.
+Measured foot-traffic shows the calmest stretch on weekdays is 10pm to 11pm, right near closing. On weekends, the quieter window falls in the first hour after opening, before the afternoon crowds arrive. If you're weekend-only, that early slot is your best bet for space to yourself.
 
 ## How to visit like a local
 
 This is a well-visited park, not a hidden corner of the city, so plan around the crowds rather than expecting to avoid them entirely.
 
 - **Time it right**: aim for the weekend 10–11am window, or slip in near closing on a weekday, to skip the peak evening rush
-- **Bring your own gear**: the BBQ areas are self-service. Pack charcoal, skewers, and food, as nothing is sold on-site for grilling
+- **Bring your own gear**: the BBQ areas are self-service. Pack charcoal, skewers, and food
 - **Cash and small notes help**: informal vendors and parking attendants often prefer cash over card
 - **Dress for shade-hopping**: the paths are landscaped but exposed in parts, so a hat matters more than you'd think between April and October
 - **Skip the car if you can carpool**: weekend evening parking is the single biggest bottleneck, especially Thursday to Saturday nights

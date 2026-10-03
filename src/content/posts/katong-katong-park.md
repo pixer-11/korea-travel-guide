@@ -114,7 +114,7 @@ If you're cycling the park connector from East Coast Park, you'll hit Katong Par
 
 Early mornings tend to be the quietest stretch, before the park fills up. Foot traffic picks up steadily through the day on weekends, so if you want the place mostly to yourself, get there early.
 
-Weekday evenings after office hours tend to be calmer than weekends, though there's no hard data on the exact quiet window. Early morning light also happens to suit the old gun emplacement and rain trees best for photos, with soft shadows instead of the flat glare of midday.
+Weekday evenings after office hours tend to be calmer than weekends. Early morning light also happens to suit the old gun emplacement and rain trees best for photos, with soft shadows instead of the flat glare of midday.
 
 ## How to visit like a local
 

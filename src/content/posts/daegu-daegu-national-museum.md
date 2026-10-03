@@ -111,7 +111,7 @@ The permanent collection is split across galleries covering prehistoric to Joseo
 - Textile and folk-life exhibits highlighting Daegu's historic role as a silk and hanbok-weaving center
 - Rotating special exhibitions, often tied to archaeological finds from nearby sites
 
-Budget 90 minutes for a solid pass through the main halls, or two hours if you linger in the outdoor pagoda garden.
+Give yourself enough time to move through the main halls at an unhurried pace, and longer still if you linger in the outdoor pagoda garden.
 
 ## Getting there
 

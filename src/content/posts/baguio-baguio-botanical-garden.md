@@ -119,7 +119,7 @@ Wear shoes with grip. The stone paths get slick after Baguio's frequent afternoo
 
 ## When to go
 
-The garden is open every day from 6am to 6pm, so early mornings are your best window before tour groups arrive. Weekdays stay relatively calm all day, from opening to close.
+The garden is open every day from 6am to 6pm, so early mornings are your best window before tour groups arrive. Weekdays stay relatively calm from opening to close.
 
 Weekends are a different story. Crowds build fast before 8am and stay heavy through the late afternoon, when families and day-trippers pack the main paths and hut area. If you want the quiet version of the garden on a Saturday or Sunday, arrive right at 7am. You'll have barely an hour before it fills in.
 

@@ -65,7 +65,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-01'
 ---
-
 ## Why climb Taraw Cliff
 
 You see it before you see anything else in El Nido: a jagged wall of grey limestone shooting up behind the rooftops of Buena Suerte. It looks improbable, almost theatrical, and that first glimpse is what pulls most people toward the trailhead.
@@ -94,7 +93,7 @@ There's no railing at the top edge. Footing is uneven rock, so this isn't a spot
 
 Sunrise climbers get the coolest air and the clearest light, though it means navigating ropes and loose rock in near-darkness with a headlamp. Mid-morning, once the sun is up but before peak heat, is the easier compromise.
 
-Weekend afternoons between 4pm and 11pm are when this area sees the most foot traffic in and around El Nido, so if you want the trail and summit to yourself, avoid that window. A weekday morning is your quietest bet.
+Weekend afternoons are when this area sees the most foot traffic in and around El Nido, so if you want the trail and summit to yourself, avoid that window. A weekday morning is your quietest bet.
 
 Because the site has no gate and no posted hours, it's genuinely open around the clock. Climbing after dark isn't advisable given the terrain, headlamp or not.
 

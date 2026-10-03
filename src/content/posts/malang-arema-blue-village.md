@@ -73,7 +73,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-10'
 ---
-
 You smell the difference before you see it, cooking oil and clove cigarettes drifting from open kitchen doors as you duck off the main Klojen street into an alley barely wide enough for two people to pass.
 
 Then the blue hits you. Not a pastel wash but a saturated, almost electric cobalt, running up walls, over door frames, across corrugated roofs and even onto the pavement underfoot.
@@ -118,7 +117,7 @@ Rain is frequent in the wet season (roughly November to April), and wet paint on
 This is still under the radar compared to Malang's more famous colorful kampung (the Jodipan rainbow village across town), so you won't fight crowds here, but that also means you're walking through someone's actual front yard.
 
 - Keep your voice down and ask before photographing residents or their doorways directly
-- A small donation to the upkeep box near the entrance is customary and appreciated, since residents fund the repainting themselves
+- Residents fund the repainting themselves, so a polite greeting and respect for their space matters more than any donation
 - Pay for any snacks or drinks from local stalls in cash, small rupiah notes, nothing card-based here
 - Skip the football jersey theatrics; a respectful, quiet walkthrough is the norm
 - Combine it with a stop at Jodipan village or the Alun-Alun Malang square, both a short ride away, to make a half-day of Malang's street-art side
@@ -127,5 +126,4 @@ The biggest mistake visitors make is treating it like a photo set rather than so
 
 ## Nearby to pair with the visit
 
-After the blue alleys, central Malang rewards more wandering: colonial-era buildings around Jalan Ijen, the bustling Pasar Besar market for lunch, and the aforementioned Jodipan rainbow village make natural add-ons within a short ojek ride, letting you turn a 30-minute detour into a half-day loop through the city's most photogenic corners.
-
+After the blue alleys, central Malang rewards more wandering: colonial-era buildings around Jalan Ijen, Pasar Besar market for lunch, and the aforementioned Jodipan rainbow village make natural add-ons within a short ojek ride, letting you turn a 30-minute detour into a half-day loop through the city's most photogenic corners.

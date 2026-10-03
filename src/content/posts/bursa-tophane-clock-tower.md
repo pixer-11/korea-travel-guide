@@ -99,7 +99,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-30'
 ---
-
 ## Why go
 
 You come here for one thing: the view that opens up the moment the park trees part. The clock tower itself is elegant but modest. It's the cliff-edge perch beneath it that makes people stop mid-sentence.
@@ -108,7 +107,7 @@ Tophane Park sits on the ridge of Bursa's old citadel (Hisar), and the ground si
 
 ## What you're actually looking at
 
-The tower itself is a slim, 15-meter neoclassical column, rebuilt in 1905 after an earlier version burned down. Cream-colored stone, a clock face on each side, a small onion-domed cap, it photographs cleanly against the sky.
+The tower itself is a slim, 15-meter neoclassical column. Cream-colored stone, a clock face on each side, a small onion-domed cap, it photographs cleanly against the sky.
 
 It stands where a Byzantine watchtower and later an Ottoman gunpowder store ("tophane" means cannon foundry) once stood, which is where the neighborhood gets its name. Walk the short loop around it and you'll pass the tombs of Osman and Orhan Gazi, the first two Ottoman sultans, just steps away.
 

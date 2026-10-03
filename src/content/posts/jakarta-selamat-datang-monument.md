@@ -50,7 +50,7 @@ You spot it before you even reach street level, a bronze man and woman, arms rai
 
 ## Why it matters
 
-Built for the 1962 Asian Games, the monument was Jakarta's first major public sculpture and a statement of a young, modernizing nation. The two 5-meter bronze figures gesture outward in welcome, ringed by a fountain that still runs today. It's less a single attraction than a civic symbol, the roundabout around it, Bundaran HI, has become shorthand for the city itself.
+Built for the 1962 Asian Games, the monument was Jakarta's first major public sculpture and a statement of a young, modernizing nation. The bronze figures gesture outward in welcome, ringed by a fountain that still runs today. It's less a single attraction than a civic symbol, the roundabout around it, Bundaran HI, has become shorthand for the city itself.
 
 ## Getting there
 

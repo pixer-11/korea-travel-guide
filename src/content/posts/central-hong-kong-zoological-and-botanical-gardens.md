@@ -100,7 +100,7 @@ The eastern side, across from Government House, holds the zoo section: small enc
 
 The western side is calmer, greenhouses, a fountain terrace with fig trees arching overhead, and a rockery where old men gather with caged songbirds. Paths are shaded, benches face the greenhouse rather than the traffic, and the smell is damp soil and frangipani rather than city exhaust.
 
-Look for the Old Colonial Courthouse ruins near the fountain terrace, and the memorial to Sun Yat-sen, who reportedly used to walk these grounds as a student.
+Look for the Old Colonial Courthouse ruins near the fountain terrace, and the memorial to Sun Yat-sen.
 
 ## When to go
 

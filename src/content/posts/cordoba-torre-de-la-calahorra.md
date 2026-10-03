@@ -112,7 +112,6 @@ This is a well-known stop on every Córdoba itinerary, not a hidden find, so pla
 - Go in the 7–8pm slot, the last hour of opening, when both weekday and weekend traffic drops off
 - Rent the included audio guide. The waxwork rooms have minimal posted text and make far more sense narrated
 - Wear flat shoes; the spiral stairwell is narrow, uneven, and has no elevator
-- Pay by card or cash at the door; there's rarely a long ticket line, so pre-booking isn't essential
 - Cross the Roman Bridge slowly on your way there. It's part of the experience, not just the approach
 - Don't confuse this with the Alcázar de los Reyes Cristianos on the other bank; they're separate sites with separate tickets
 

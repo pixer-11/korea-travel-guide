@@ -104,7 +104,7 @@ Locals bring bikes, kites, dogs and toddlers. You'll see all four within five mi
 
 The gardens sit off Yuan Ching Road in the Jurong region, west of the city.
 
-The nearest MRT stations are Lakeside and Chinese Garden, both on the East-West Line, either gets you to the gardens' edges on foot in about 10 minutes. Buses run along Yuan Ching Road and Corporation Drive if you'd rather not walk.
+The nearest MRT stations are Lakeside and Chinese Garden, both on the East-West Line, and either station gets you to the gardens' edges on foot in about 10 minutes. Buses run along Yuan Ching Road and Corporation Drive if you'd rather not walk.
 
 Driving works too; there's parking near the Rasau Walk and Neram Streams entrances, though weekend afternoons can mean circling for a spot.
 

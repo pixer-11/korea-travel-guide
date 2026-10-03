@@ -92,4 +92,4 @@ Tipping isn't expected anywhere in Taiwan, including at the venue. On general ad
 
 The most common visitor mistake is underestimating exit crowds. Kaohsiung's MRT is efficient, but 40,000+ people funneling into one station at once creates real bottlenecks. Locals often sit out the first surge with a drink or snack near the stadium instead of heading straight for the platform.
 
-The venue's local name is **高雄國家體育場** (Kaohsiung National Stadium), which is handy for directions or a taxi driver, and faster than describing it in English.
+The venue's full English name is Kaohsiung National Stadium, which is handy to know for directions or a taxi driver.

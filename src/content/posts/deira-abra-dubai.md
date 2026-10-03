@@ -64,7 +64,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-01'
 ---
-
 ## Why go
 
 Forget the glass-walled water taxis. An abra is a wooden ferry, unchanged in shape for a century, and it's still the cheapest boat ride in Dubai.
@@ -85,7 +84,7 @@ The boats are open-sided, wooden, and low in the water, with a single outboard m
 
 The crossing itself takes five to ten minutes, landing you at either Al Sabkha, Al Seef, or the Old Souk (Bur Dubai) dock, depending on which line you catch. There's no schedule, the boat leaves once it's full enough for the boatman's liking, usually within a few minutes.
 
-- Fare: a flat token amount, roughly AED 1, paid in cash to the boatman or via a token booth at some docks
+- Fare: a small, nominal amount, paid in cash to the boatman or via a token booth at some docks
 - Duration: 5–10 minutes one way
 - Best seat: middle bench, away from the motor's diesel smell, for the clearest photos of the creek
 
@@ -114,4 +113,3 @@ Nobody queues formally here; you shuffle down the steps and squeeze onto the nex
 The mistake most first-timers make is treating this as a one-off photo op instead of transport. Locals use it to cross the creek for errands, then hop straight back on for the return trip minutes later.
 
 If you want a longer, calmer look at the creek without the utilitarian back-and-forth, ask about the slightly pricier hour-long abra tours some operators run from the same docks, but for the authentic five-minute crossing, the regular public abra is the one to take.
-

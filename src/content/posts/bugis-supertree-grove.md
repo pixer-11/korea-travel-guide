@@ -51,7 +51,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-29'
 ---
-
 ## Why go
 
 You'll spot the Supertrees long before you reach them. These concrete-and-steel structures rise up to 16 storeys, draped in over 200 species of ferns, orchids, and vines that ripple slightly in the breeze.
@@ -73,7 +72,7 @@ Taxis and ride-hail apps are cheap and plentiful for the same short hop, especia
 The Supertree Grove itself is free to walk through, day or night, since it sits in the outdoor section of Gardens by the Bay. A few things worth building your visit around:
 
 - **OCBC Skyway**, a suspended walkway between two Supertrees, roughly 22 metres up, with panoramic views over Marina Bay (small admission fee).
-- **Garden Rhapsody**, the free light-and-sound show, nightly at 7:45pm and 8:45pm, projected across the Supertree canopies.
+- **Garden Rhapsody**, the free light-and-sound show, held each evening, projected across the Supertree canopies.
 - **Cloud Forest and Flower Dome**, the two cooled conservatories nearby, ticketed separately, worth combining if you have a couple of hours to spare.
 
 Most visitors spend 45 minutes to an hour at the Grove itself, longer if you add the Skyway or conservatories.
@@ -91,7 +90,7 @@ The gardens technically stay open until 2am, so if you miss the shows, a late-ni
 Singaporeans who bring visitors here treat the 7:45pm show as the main event, not an afterthought, and they plan around it.
 
 - **Time it right.** Arrive by 7pm to stake out grass near the sound towers before the show fills in.
-- **Skip cash entirely.** Any ticketed add-ons (Skyway, conservatories) are paid by card or mobile payment at the kiosks, cash is rarely used at all in Singapore now.
+- **Skip cash entirely.** Any ticketed add-ons (Skyway, conservatories) are paid by card or mobile payment at the kiosks.
 - **Don't queue at the main gate.** Enter from the Bayfront MRT side rather than looping around from Marina Bay Sands; it's a shorter, shadier approach.
 - **Bring a light layer.** The outdoor grove is humid, but sitting still on the lawn after sunset can feel surprisingly breezy.
 - **The rookie mistake:** treating Garden Rhapsody as the only reason to visit, then leaving immediately after. Stick around. The paths are far calmer once the show crowd disperses, and the lit canopy above is worth a slower walk.

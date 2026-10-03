@@ -92,7 +92,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-31'
 ---
-
 You smell Hinoki Village before you fully see it. Warm cypress oil drifts off the raised wooden porches, a scent that clings to the whole East District block once used to house forestry officials during Japanese rule.
 
 ## Why go
@@ -126,7 +125,7 @@ Hinoki Village is genuinely well-visited, it draws heavy tour bus traffic, so do
 
 - Go on a weekday between 10am and noon, the measured quiet window, before groups arrive
 - If a weekend is your only option, be at the gate at opening or wait until after 5pm
-- Payment at most shops and cafés is by card or mobile pay, though smaller craft stalls sometimes prefer cash, carry a little just in case
+- It's worth carrying a little cash alongside the usual cards or mobile pay, just in case
 - No tipping expected anywhere in Taiwan, including here
 - Wear socks you don't mind showing, a few interior spaces with tatami flooring ask you to remove shoes
 - The mistake most visitors make is treating it as a 20-minute photo stop; the real texture is in the side lanes away from the main entrance path, where the crowds thin out fast

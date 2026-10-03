@@ -96,7 +96,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-07'
 ---
-
 ## First impression
 
 You come off a dusty side street and the striped minaret towers hit first, glazed turquoise, white and ochre banding climbing above a wall that looks almost fortress-plain from outside. That contrast is deliberate. Khudáyár Khán, the last ruler of the Kokand Khanate, wanted a residence that guarded its splendor for those who made it through the gate.
@@ -125,13 +124,13 @@ The palace opens daily from 9am to 10pm, so there's no rush to arrive at dawn. T
 
 - Weekdays, 9am–11am: the quietest stretch, courtyards nearly to yourself
 - Weekend mornings, 9am–12pm: still calm, a good backup if you're only passing through on a Saturday or Sunday
-- Weekends 11am–10pm: the busiest window, local families and tour groups fill the courtyard
+- Weekends, 12pm–10pm: the busiest window, local families and tour groups fill the courtyard
 
 Given the long evening hours, a late-afternoon visit after the weekend crowds thin out is another quiet option worth considering.
 
 ## How to visit like a local
 
-This is a well-kept museum, not a bustling bazaar, so the etiquette here leans quiet and unhurried. Treat it the way you would any regional history museum.
+This is a well-kept museum, not a busy bazaar, so the etiquette here leans quiet and unhurried. Treat it the way you would any regional history museum.
 
 - Buy tickets at the small booth near the entrance; cash in Uzbek som is the safe assumption, though card readers are becoming more common at Uzbek museums.
 - Tipping isn't expected for museum staff or gate attendants.
@@ -140,4 +139,3 @@ This is a well-kept museum, not a bustling bazaar, so the etiquette here leans q
 - The mistake most visitors make is rushing through in fifteen minutes en route to Fergana. Slow down at the majolica panels, the pattern work rewards a closer look than a quick pass allows.
 
 Because it's still under-the-radar compared to Samarkand or Bukhara's big-ticket sites, you're unlikely to fight for space even at moderately busy hours. That makes it one of the more relaxed stops on a Fergana Valley itinerary, a genuine, unhurried look at what remains of a 19th-century khanate court.
-

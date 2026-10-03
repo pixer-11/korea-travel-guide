@@ -99,7 +99,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-01'
 ---
-
 ## Why go
 
 You spot Telmessos before you reach it. Climb any of the narrow streets above Fethiye's harbor and your eye catches rectangular black openings punched into the pale limestone, columns and pediments carved straight into the rock like a temple front glued to a cliff.
@@ -128,7 +127,7 @@ Bring water; there's little shade once you're up on the open rock terrace, and t
 
 The site opens at 9am and stays open until 7:30pm every day of the week, so you have a wide window to work with. Crowd patterns here are genuinely useful to know before you climb.
 
-On weekdays, it's quietest from 9am to 2pm. On weekends, aim for 9am to 1pm, after that, especially from 1pm to 7pm, tour groups and day-trippers thicken up the paths considerably.
+On weekdays, it's quietest from 9am to 2pm. On weekends, aim for 9am to 1pm; after that, especially from 1pm to 7pm, tour groups and day-trippers thicken up the paths considerably.
 
 Late afternoon works too if you don't mind sharing the staircase, and the softer light flatters the carved facades for photos.
 

@@ -128,7 +128,7 @@ Give yourself 45 minutes for a quick loop, or a full hour if you want to sit by 
 
 ## When to go
 
-The garden opens at 7:30am and stays open until 10pm every day, which makes early morning and evening the two best windows. Weekends are calmest between 8am and 10pm generally, but the stretch from noon to 8pm draws the heaviest crowds, especially in summer.
+The garden opens at 7:30am and stays open until 10pm every day, which makes early morning and evening the two best windows. Weekends are busier throughout the day, with the stretch from noon to 8pm drawing the heaviest crowds, especially in summer.
 
 On weekdays, the quietest hours are 8pm to 10pm, when the day-trip crowds have cleared out and the light over the river turns gold. Late spring and early autumn bring comfortable temperatures without July's heat haze, which can dull the long-distance views.
 

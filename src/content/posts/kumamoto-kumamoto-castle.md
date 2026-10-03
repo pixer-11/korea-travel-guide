@@ -120,7 +120,7 @@ Outside, follow the elevated walkway that was built as part of the earthquake re
 
 ## When to go
 
-Weekday mornings and afternoons are consistently calmer. The castle's hours run 9am–5pm every day, and weekdays stay quiet throughout that window. Weekends compress visitors into the middle of the day, with the busiest stretch running 10am to 4pm.
+Weekday mornings and afternoons are consistently calmer. The castle's hours run 9am–5pm every day. Weekends compress visitors into the middle of the day, with the busiest stretch running 10am to 4pm.
 
 If you're set on a weekend trip, arrive right at opening or in the last hour before closing to dodge the thickest crowds. Cherry blossom season, late March into April, draws the heaviest weekend traffic of the year, when the castle grounds fill with pink alongside the black keep.
 

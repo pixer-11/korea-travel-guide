@@ -98,7 +98,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-07'
 ---
-
 ## Why go
 
 Itchan Kala is the old walled city of Khiva, sealed inside earthen ramparts that have stood since the 17th century. Inside, sand-colored madrasas, minarets, and mausoleums crowd together along narrow lanes, largely untouched by modern construction. UNESCO listed it as a World Heritage Site in 1990, and walking through it still feels like stepping into a single, continuous museum.
@@ -118,7 +117,7 @@ From there, the lanes fan out toward other essentials:
 - **Kunya-Ark**, the khan's fortress and former seat of power, with a working watchtower view over the rooftops
 - **Tosh Hovli Palace**, carved wooden columns and tiled courtyards, once the khan's harem quarters
 - **Islom Hoja Minaret**, the tallest structure in the city, worth the climb for the view over the old town's flat roofs
-- **Juma Mosque**, dim and cool inside, held up by 213 wooden columns, some dating to the 10th century
+- **Juma Mosque**, dim and cool inside, held up by a forest of carved wooden columns
 
 Give yourself a half-day minimum; a full day lets you also duck into the smaller madrasas that most tour groups skip.
 
@@ -141,4 +140,3 @@ Itchan Kala is genuinely popular, not a hidden corner of Khiva, so the way to "b
 Dress modestly, especially around mosque and mausoleum entrances, shoulders and knees covered is the norm. Remove shoes where signage indicates, generally at mosque interiors.
 
 A few families still live inside the walls, so keep voices down in residential side-alleys away from the main monuments. If you want a rooftop photo over the old town, the Islom Hoja minaret climb is narrow and steep. Go early before it queues up, and wear shoes with grip.
-

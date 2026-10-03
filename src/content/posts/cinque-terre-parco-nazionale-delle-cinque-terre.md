@@ -95,7 +95,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-31'
 ---
-
 ## Why go
 
 Five villages, one impossibly steep coastline, and almost no flat ground anywhere. That's the whole premise of Cinque Terre, and it works.
@@ -134,7 +133,7 @@ Come in May, June or September for warm water and thinner crowds than peak Julyâ
 
 Cinque Terre is unmistakably a heavily visited park now, not a quiet secret, so plan around the crowds rather than expecting to avoid them entirely.
 
-- **Start early.** Catch the first trains and you'll have Vernazza's harbor or Manarola's viewpoint largely to yourself before the weekend surge hits at 1pm.
+- **Start early.** Catch the first trains and you'll have Vernazza's harbor or Manarola's viewpoint largely to yourself before the weekend surge arrives.
 - **Buy the park card at the station**, not from a reseller. It's the same price and funds trail upkeep.
 - **Pay by card or contactless** where possible; small trattorias and trail-side stands may prefer cash for quick transactions.
 - **Wear real hiking shoes**, even for short trail sections. The paths are uneven stone and gravel, not paved promenades.
@@ -142,4 +141,3 @@ Cinque Terre is unmistakably a heavily visited park now, not a quiet secret, so 
 - **Order the local specialty**, trofie al pesto or anchovies from Monterosso, rather than a generic tourist-menu pasta. It's what the coast is actually known for.
 
 The single biggest mistake visitors make is treating this like a day-trip checklist from a cruise port. Slow down, pick a base village, and let the trains do the rushing for you.
-

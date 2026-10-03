@@ -119,7 +119,7 @@ The lineup of exhibitions rotates, often pairing a large touring show (think Van
 
 Future World, a longtime resident digital-art gallery, is usually the most photographed corner, floor-to-ceiling projections of flowers, waterfalls and animals that shift as you move through the room. Kids tend to gravitate here and stay a while.
 
-Give yourself two to three hours to see two exhibitions properly. Tickets are usually sold per exhibition or as a combo, so decide before you queue whether you want one show or several.
+Give yourself two to three hours to see two exhibitions properly. Tickets are usually sold per exhibition or as a combo, so decide before you queue how many exhibitions you plan to see.
 
 ## When to go
 

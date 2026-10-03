@@ -82,7 +82,7 @@ Stone lanterns line certain paths, remnants of the old Chiayi Shrine that once s
 The park rewards slow wandering rather than a checklist, but a few spots anchor a visit.
 
 - **Chiayi Confucius Temple**, a red-and-gold complex with quiet courtyards, incense smoke curling near the entrance
-- **Sun Shooting Tower** (射日塔), a striking modern tower with an observation deck overlooking the treetops
+- **Sun Shooting Tower**, a striking modern tower with an observation deck overlooking the treetops
 - **Historic shrine ruins**, stone torii-style gates and lantern bases from the Japanese colonial period
 - **Ponds and arched bridges**, koi drifting under red-lacquered footbridges, especially photogenic near midday light
 - **Playground and open lawns**, swings, slides, and shaded seating for families

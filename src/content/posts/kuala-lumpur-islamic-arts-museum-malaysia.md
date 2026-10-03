@@ -99,7 +99,7 @@ Inside, the collection spans more than a thousand years of Islamic art from Spai
 
 ## Why this museum stands out
 
-Most visitors underestimate how large it is. There are twelve permanent galleries across two levels, each organized by region or medium, textiles, metalwork, arms and armor, ceramics.
+Most visitors underestimate how large it is. There are several permanent galleries spread across multiple levels, each organized by region or medium, textiles, metalwork, arms and armor, ceramics.
 
 The Ottoman Room alone, with its ornately decorated wooden ceiling, is worth the visit. Natural light pours through skylights in the architecture gallery, catching the gold leaf on manuscript pages in the adjacent Quran gallery.
 

@@ -79,7 +79,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-30'
 ---
-
 ## Why go
 
 This isn't a sightseeing ride bolted on for tourists. It's daily infrastructure, built in 1993 to move office workers up a hillside too steep for comfortable walking.
@@ -111,7 +110,7 @@ Each escalator section is short, so you can hop off at any landing to explore be
 
 The escalators run 6am to midnight daily, but direction changes through the day. Downhill service runs roughly 6–10am for the morning commute; uphill service takes over from about 10:20am until midnight.
 
-Weekends between 10am and 8pm are the busiest stretch, with visitors bunching up at photo spots and entrances. Both weekdays and weekends stay noticeably calmer from around 7am to 11pm outside that window.
+Weekends between 10am and 8pm are the busiest stretch, with visitors bunching up at photo spots and entrances. Outside that window, both weekdays and weekends stay noticeably calmer.
 
 If you want the system closer to empty, ride early morning or after dinner, when the neon signs above Wing Wah Lane are lit but the crowds have thinned.
 

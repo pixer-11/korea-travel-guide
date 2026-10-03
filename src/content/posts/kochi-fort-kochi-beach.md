@@ -93,7 +93,7 @@ The beach itself is a narrow strip, but the real activity is along the promenade
 - Watch the fishing nets in action, especially near dusk
 - Browse stalls selling shell jewelry, sunglasses, and snacks
 - Walk to the nearby Vasco da Gama Square for more net-viewing angles
-- Grab fresh-caught fish at the small stalls, cooked to order
+- Sample snacks from the food stalls along the promenade
 
 Boats bob offshore, and you'll see families posing for photos with the nets as backdrop. It's touristy, but the setting earns the attention.
 

@@ -120,7 +120,7 @@ If you're coming from central Fukuoka or Tenjin, it's an easy add-on to a walk a
 
 ## When to go
 
-The garden is closed Mondays, and open 9am to 6pm every other day of the week. Weekends fill up between 10am and 5pm, especially when the maples or azaleas are at their peak.
+The garden is closed Mondays, and open 9am to 6pm every other day of the week. Weekends get busiest between 10am and 5pm, especially when the maples or azaleas are at their peak.
 
 Arrive right at 9am opening, or come after 5pm in the warmer months when there's still good light. Weekday mornings before 10am are consistently the calmest window if your schedule allows it.
 
