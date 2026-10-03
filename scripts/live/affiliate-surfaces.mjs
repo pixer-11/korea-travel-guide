@@ -48,4 +48,16 @@ const venue = (html) => hrefs(html).filter((a) => /sub_id=post_place/.test(a.hre
   check(tq(b.html) === 0 && /\/go\/klook/.test(b.html), 'Brisbane stays on Klook');
 }
 
+// City pass card (lib/gocity.mjs): on plans whose paid stops it covers, not elsewhere.
+{
+  const ny = await get('/ko/itinerary/new-york-3-days/');
+  const bcn = await get('/itinerary/barcelona-3-days/');
+  const dxb = await get('/itinerary/dubai-3-days/');
+  const card = (h) => /class="ith-card ith-pass"/.test(h);
+  const passLink = (h) => hrefs(h).filter((a) => /gocity\.tpx\.lv\//.test(a.href) && /rel="[^"]*sponsored/.test(a.tag)).length;
+  check(card(ny.html) && passLink(ny.html) === 1, 'New York plan has the city pass card');
+  check(card(bcn.html) && passLink(bcn.html) === 1, 'Barcelona plan has the city pass card');
+  check(!card(dxb.html), 'Dubai plan (mostly free stops) has none');
+}
+
 verdict(`\n${fails.length ? fails.length + ' failed' : 'all passed'}`, fails.length > 0);

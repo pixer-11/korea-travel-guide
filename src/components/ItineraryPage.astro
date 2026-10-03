@@ -31,6 +31,7 @@ import SaveButton from './SaveButton.astro';
 import { hotelUrl } from '../lib/hotel-link.mjs';
 import { itinUi } from '../i18n/itinerary-ui-strings';
 import { recommendsBooking } from '../lib/bookAhead.mjs';
+import { gocityFor } from '../lib/gocity.mjs';
 
 interface Props {
   itinerary: any; // CollectionEntry<'itineraries'>
@@ -331,6 +332,15 @@ const bookAhead = days.flatMap((day: any, di: number) => day.stops
   .filter((s: any, si: number) => shownByDefault(si) && recommendsBooking(String(s.post.body ?? '')))
   .map((s: any) => ({ slug: s.post.id, di })));
 const bookSet = new Set(bookAll.map((b: any) => b.slug));
+// City pass card (lib/gocity.mjs): only on plans whose paid stops the pass
+// covers, naming them in this plan's order; a stop the plan no longer has is
+// not listed, and fewer than two left drops the card.
+const pass = gocityFor(itinerary.id);
+const passStops = !pass ? [] : days.flatMap((day: any) => day.stops)
+  .filter((s: any, i: number, a: any[]) => pass.covers.includes(s.post.id) && a.findIndex((x: any) => x.post.id === s.post.id) === i)
+  .map((s: any) => ({ slug: s.post.id, label: shortPlaceLabel(postTitleFor(s.post), lang) || s.post.data.place?.name || postTitleFor(s.post) }));
+// The count is a live number: the pace filter hides stops (Codex, 10-04).
+const [passDekA, passDekB = ''] = u('passDek', { n: '{n}' }).split('{n}');
 const hasRain = days.some((day: any) => day.rainPost);
 const mosaic = allStopPosts
   .filter((p: any) => p.data.heroImage?.url && p.data.heroImage.license !== 'placeholder')
@@ -665,6 +675,15 @@ const coverImage = mosaic[0]?.src;
           <p class="ith-book-count" data-book-count-text>{u('bookCount', { d: 0, n: bookAhead.length })}</p>
         </section>
       )}
+      {pass && passStops.length >= 2 && (
+        <section class="ith-card ith-pass" data-affiliate-placement="itinerary-city-pass">
+          <strong class="ith-card-title">{u('passTitle')}</strong>
+          <p class="ith-card-dek">{passDekA}<span data-pass-n>{passStops.length}</span>{passDekB}</p>
+          <ul class="ith-pass-list">{passStops.map((x: any) => <li data-pass-stop={x.slug}>{x.label}</li>)}</ul>
+          <a class="ith-btn" href={pass.href} rel="sponsored noopener" target="_blank">{u('passCta')}</a>
+          <p class="tp-disclosure">{u('passNote')}</p>
+        </section>
+      )}
       <section class="ith-card ith-stay">
         <strong class="ith-card-title">{u('stayTitle')}</strong>
         <p class="ith-card-dek">{u('stayDek', { city: regionLabel })}</p>
@@ -833,6 +852,26 @@ const coverImage = mosaic[0]?.src;
       }
       // After the filter script has applied the pace from the link or form.
       setTimeout(paint, 0);
+    }
+
+    // The city pass card follows the pace too: a stop the pace hides is not
+    // listed, the count says how many are left, and under two the card goes.
+    const passCard = page.querySelector<HTMLElement>('.ith-pass');
+    if (passCard) {
+      const items = [...passCard.querySelectorAll<HTMLElement>('[data-pass-stop]')];
+      const num = passCard.querySelector<HTMLElement>('[data-pass-n]');
+      const paintPass = () => {
+        let n = 0;
+        for (const li of items) {
+          const stops = [...document.querySelectorAll<HTMLElement>(`.itin-stop[data-slug="${CSS.escape(li.dataset.passStop || '')}"]`)];
+          li.hidden = stops.length > 0 && stops.every((s) => s.hidden);
+          if (!li.hidden) n++;
+        }
+        if (num) num.textContent = String(n);
+        passCard.hidden = n < 2;
+      };
+      form.addEventListener('change', () => setTimeout(paintPass, 0));
+      setTimeout(paintPass, 0);
     }
 
   }
@@ -1044,6 +1083,8 @@ const coverImage = mosaic[0]?.src;
   .ith-stay { background: var(--x-leaf); border-color: transparent; }
   .ith-card-title { display: block; font-size: .95rem; color: var(--ink); }
   .ith-card-dek { margin: .3rem 0 .8rem; font-size: .85rem; line-height: 1.55; color: var(--ink-soft); }
+  .ith-pass-list { list-style: none; margin: 0 0 .9rem; padding: 0; display: flex; flex-wrap: wrap; gap: .35rem; }
+  .ith-pass-list li { padding: .3rem .7rem; border-radius: 999px; background: var(--x-sand); font-size: .85rem; font-weight: 700; color: var(--ink); overflow-wrap: anywhere; }
   .ith-book ul { list-style: none; margin: 0 0 .9rem; padding: 0; display: grid; gap: .4rem; }
   .ith-book label { position: relative; display: flex; align-items: center; gap: .7rem; padding: .55rem .8rem; border-radius: 16px; background: var(--x-sand); cursor: pointer; }
   .ith-book input { position: absolute; opacity: 0; width: 1px; height: 1px; }
