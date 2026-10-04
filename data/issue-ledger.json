@@ -1,16 +1,5 @@
 {
   "validate-content": {},
-  "audit-translations": {
-    "broken-syllable posts/ko/cologne-cologne-cathedral.md": {
-      "since": "2026-10-03",
-      "last": "2026-10-03",
-      "seen": 1
-    },
-    "broken-syllable posts/ko/cologne-shrine-of-the-three-kings.md": {
-      "since": "2026-10-03",
-      "last": "2026-10-03",
-      "seen": 1
-    }
-  },
+  "audit-translations": {},
   "audit-hours-claims": {}
 }
