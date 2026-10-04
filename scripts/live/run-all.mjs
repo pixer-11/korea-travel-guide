@@ -35,6 +35,7 @@ const CHECKS = [
   ['topics-mobile.mjs', '주제 페이지 모바일'],
   ['redesigns-2026-10-02.mjs', '10-01/02 개편 페이지 8종×5개 언어'],
   ['mobile-sweep.mjs', '페이지 종류 33개×5개 언어 휴대폰 넘침'],
+  ['wtg-photos.mjs', '언제 갈까 나라 사진'],
   ['affiliate-surfaces.mjs', '제휴 링크 위치(짐보관·명소·호주)'],
   ['essentials-hub.mjs', '필수정보 허브'],
   ['checklist.mjs', '체크리스트'],

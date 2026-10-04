@@ -7,6 +7,8 @@ import { localizePlace } from '../i18n/places';
 import { MONTHS, monthSlug, monthComfort, bestMonth } from '../lib/when-to-go.mjs';
 import { getCollection } from 'astro:content';
 import { heroOf, TOOL_OG } from '../lib/toolOgPhoto.mjs';
+import { repHeroPool, tileSize } from '../lib/repImage';
+import { buildToday } from '../lib/buildDay.mjs';
 
 // The grid every country-month page links back to. Its job is to be the one page
 // a crawler can reach every one of the 204 from, and to let a reader who knows
@@ -52,12 +54,30 @@ const pageUrl = siteHref(Astro.url.pathname, Astro.site);
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const path = (c: string, m: number) => localizePath(`/tools/when-to-go/${c}/${monthSlug(m)}`, lang);
 
+// Each country's photo (owner, 2026-10-04: "각국 대표사진이 주기적으로
+// 바뀌면서"): a pool of its best-known sights' heroes (lib/repImage
+// repHeroPool — no events, placeholders or panoramas), turning once a day with
+// the daily build. Read from the build's own day, so every page of one build
+// agrees and nothing flickers while a reader is on the page.
+const fame = (p: any) => (p.data.place?.rating ?? 0) * Math.log10((p.data.place?.userRatingsTotal ?? 0) + 10);
+const postsByCountry = new Map<string, any[]>();
+for (const p of ogPosts) {
+  const k = (p.data as any).country ?? 'South Korea';
+  (postsByCountry.get(k) ?? postsByCountry.set(k, []).get(k)!).push(p);
+}
+const day = Math.floor(buildToday().getTime() / 86_400_000);
+const photoOf = (country: string, i: number) => {
+  const pool = repHeroPool([...(postsByCountry.get(country) ?? [])].sort((a, b) => fame(b) - fame(a)) as any[]);
+  return pool.length ? tileSize(pool[(day + i) % pool.length]) : '';
+};
+
 // Precomputed once per row, not per chip.
-const rows = countries.map((c) => {
+const rows = countries.map((c, i) => {
   const comfort = c.climate ? monthComfort(c.climate) : null;
   const best = c.climate ? bestMonth(c.climate) : null;
   return {
     ...c,
+    photo: photoOf(c.country, i),
     byMonth: new Map((comfort ?? []).map((x) => [x.m, x])),
     best,
   };
@@ -112,12 +132,17 @@ const jsonLd = {
     {rows.map((c) => (
       <section class="wtgi-row">
         <div class="who">
+          {c.photo
+            ? <img class="wtgi-photo" src={c.photo} alt="" width="96" height="64" loading="lazy" decoding="async" />
+            : <span class="wtgi-photo no-photo" aria-hidden="true"></span>}
+          <div class="who-text">
           <h2>{localizePlace(c.country, lang)}</h2>
           <p class="meta">
             {c.climateCity && <span>{fill('wtg.idxBasis', { city: localizePlace(c.climateCity, lang) })}</span>}
             {c.climateCity && c.venues > 0 && <span class="sep" aria-hidden="true">·</span>}
             {c.venues > 0 && <span>{fill('wtg.idxGuides', { n: c.venues })}</span>}
           </p>
+          </div>
         </div>
 
         <ul class="months">
@@ -170,13 +195,17 @@ const jsonLd = {
      rows of twelve chips, a hairline is not enough separation to keep an eye
      on one country's year (owner's note on the 2026-09-11 mock). */
   .wtgi-row {
-    display: grid; grid-template-columns: minmax(8.5rem, 13rem) 1fr auto;
+    display: grid; grid-template-columns: minmax(12rem, 18rem) minmax(0, 1fr) auto;
     align-items: center; gap: 0.6rem 1.2rem;
     padding: 0.85rem 1.2rem; margin-bottom: 0.5rem;
     background: var(--surface); border: 1px solid var(--line-soft);
     border-radius: var(--r-lg);
   }
   .wtgi-row h2 { font-size: 1rem; margin: 0; }
+  .who { display: flex; align-items: center; gap: 0.75rem; min-width: 0; }
+  .who-text { min-width: 0; }
+  .wtgi-photo { flex: none; width: 96px; height: 64px; border-radius: 14px; object-fit: cover; background: var(--surface-2); }
+  .wtgi-photo.no-photo { display: block; background: linear-gradient(135deg, var(--surface-2), #dfe8ce); }
   .meta { margin: 0.15rem 0 0; font-size: 0.76rem; color: var(--muted); }
   .meta .sep { margin: 0 0.3rem; }
 
@@ -211,7 +240,8 @@ const jsonLd = {
   .disclosure { margin-top: 2rem; color: var(--muted); font-size: 0.8rem; }
 
   @media (max-width: 46rem) {
-    .wtgi-row { grid-template-columns: 1fr auto; padding: 0.85rem 0.9rem; }
+    .wtgi-row { grid-template-columns: minmax(0, 1fr) auto; padding: 0.85rem 0.9rem; }
+    .wtgi-photo { width: 72px; height: 52px; border-radius: 12px; }
     .months { grid-column: 1 / -1; grid-template-columns: repeat(6, minmax(0, 1fr)); }
     .best { text-align: left; align-self: end; }
     .best-k { display: inline; margin-right: 0.35rem; }

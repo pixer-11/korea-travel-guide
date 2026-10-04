@@ -82,6 +82,40 @@ function pickRank(withHero: HeroPost[]): string {
   return withHero[0].data.heroImage!.url!;
 }
 
+/**
+ * Several heroes for one country or city, in the caller's order, for a tile
+ * that rotates (the when-to-go index, 2026-10-04: "각국 대표사진이 주기적으로
+ * 바뀌면서"). The same rules as pickRepHeroUrl — no event shots, no
+ * placeholders — and stricter where a rotation needs it: no panoramas at all
+ * (a rotating tile would land on the smeared sliver some day), and only
+ * sights (attractions, hidden gems) while there are at least two of them, so
+ * a day never shows a coffee cup while the country has a palace to show.
+ * Raw stored URLs; the consumer calls tileSize() itself, as with the picker.
+ */
+// A country's showcase photo is a tone, not only an identity: Cambodia's
+// rotation reached the Tuol Sleng Genocide Museum and Vietnam's the War
+// Remnants Museum (10-04). Places of atrocity and remembrance keep their guides
+// and their own heroes; they are left out of a decorative rotation.
+// Named, not guessed from one word: a bare "memorial" also took the Lincoln
+// Memorial and Kolkata's Victoria Memorial, which are a country's landmarks
+// (Codex, 10-04); India Gate and Fremantle Prison stay for the same reason.
+// Calibrated against every sight in the guides with such a word in its name.
+const SOMBRE = /genocide|war remnants|war memorial|killing fields|massacre|concentration camp|holocaust|atomic bomb|peace memorial|hellfire pass|jallianwala|tuol sleng|prison history|ground zero|september 11|9\/11/i;
+
+export function repHeroPool(posts: (HeroPost & { data: { title?: string; place?: { name?: string } } })[], n = 8): string[] {
+  const usable = posts.filter(
+    (p) =>
+      !SOMBRE.test(`${p.data.place?.name ?? ''} ${p.data.title ?? ''}`) &&
+      p.data.category !== 'event' &&
+      p.data.heroImage?.url &&
+      !p.data.heroImage.url.includes('placeholder') &&
+      !isPanorama(p.data.heroImage.url)
+  );
+  const sights = usable.filter((p) => (CAT_RANK[p.data.category] ?? 5) <= 1);
+  const base = sights.length >= 2 ? sights : usable;
+  return [...new Set(base.map((p) => p.data.heroImage!.url!))].slice(0, n);
+}
+
 // These URLs become CSS background-image on ~156px-wide tiles, which can take
 // neither srcset nor lazy-loading — so whatever size this returns is downloaded
 // in full, immediately, for every tile. As stored they are 1920px originals:
