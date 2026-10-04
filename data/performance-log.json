@@ -1685,5 +1685,200 @@
         "delta": -9
       }
     ]
+  },
+  {
+    "week": "2026-10-04",
+    "pageviews": 8748,
+    "visits": 8322,
+    "top": [
+      {
+        "path": "/ko/my-trip/",
+        "views": 159
+      },
+      {
+        "path": "/",
+        "views": 105
+      },
+      {
+        "path": "/ko/events/",
+        "views": 90
+      },
+      {
+        "path": "/ko/",
+        "views": 66
+      },
+      {
+        "path": "/ko/essentials/visa/",
+        "views": 62
+      },
+      {
+        "path": "/ko/free/trip-checklist/",
+        "views": 61
+      },
+      {
+        "path": "/ko/itinerary/barcelona-3-days/",
+        "views": 60
+      },
+      {
+        "path": "/zh/posts/beijing-china-open-tennis/",
+        "views": 59
+      },
+      {
+        "path": "/essentials/money/",
+        "views": 58
+      },
+      {
+        "path": "/essentials/visa/",
+        "views": 54
+      },
+      {
+        "path": "/ko/essentials/luggage-storage/",
+        "views": 54
+      },
+      {
+        "path": "/ko/essentials/",
+        "views": 53
+      },
+      {
+        "path": "/essentials/emergency/",
+        "views": 48
+      },
+      {
+        "path": "/essentials/transport/",
+        "views": 48
+      },
+      {
+        "path": "/ko/essentials/emergency/",
+        "views": 46
+      },
+      {
+        "path": "/ko/essentials/transport/",
+        "views": 46
+      },
+      {
+        "path": "/ko/essentials/money/",
+        "views": 39
+      },
+      {
+        "path": "/ko/regions/",
+        "views": 39
+      },
+      {
+        "path": "/zh/essentials/luggage-storage/",
+        "views": 34
+      },
+      {
+        "path": "/events/united-states/",
+        "views": 30
+      },
+      {
+        "path": "/essentials/best-time-to-visit/",
+        "views": 30
+      },
+      {
+        "path": "/ko/essentials/best-time-to-visit/",
+        "views": 29
+      },
+      {
+        "path": "/ko/itinerary/",
+        "views": 29
+      },
+      {
+        "path": "/es/essentials/visa/",
+        "views": 28
+      },
+      {
+        "path": "/events/",
+        "views": 28
+      },
+      {
+        "path": "/ko/about/",
+        "views": 27
+      },
+      {
+        "path": "/ko/tools/best-time/",
+        "views": 27
+      },
+      {
+        "path": "/regions/",
+        "views": 27
+      },
+      {
+        "path": "/ko/methodology/",
+        "views": 26
+      },
+      {
+        "path": "/zh/regions/",
+        "views": 26
+      }
+    ],
+    "risers": [
+      {
+        "path": "/ko/my-trip/",
+        "delta": 159
+      },
+      {
+        "path": "/ko/events/",
+        "delta": 90
+      },
+      {
+        "path": "/ko/essentials/visa/",
+        "delta": 62
+      },
+      {
+        "path": "/ko/free/trip-checklist/",
+        "delta": 61
+      },
+      {
+        "path": "/ko/itinerary/barcelona-3-days/",
+        "delta": 60
+      },
+      {
+        "path": "/essentials/money/",
+        "delta": 58
+      },
+      {
+        "path": "/essentials/visa/",
+        "delta": 54
+      },
+      {
+        "path": "/ko/essentials/luggage-storage/",
+        "delta": 54
+      }
+    ],
+    "fallers": [
+      {
+        "path": "/api/",
+        "delta": -19
+      },
+      {
+        "path": "/zh/",
+        "delta": -18
+      },
+      {
+        "path": "/zh/posts/chinatown-chinatown-complex/",
+        "delta": -17
+      },
+      {
+        "path": "/zh/posts/paris-prix-de-l-arc-de-triomphe/",
+        "delta": -14
+      },
+      {
+        "path": "/posts/bangkok-chinatown-night-market/",
+        "delta": -14
+      },
+      {
+        "path": "/posts/xi-an-2026-xi-an-grand-prix-snooker/",
+        "delta": -13
+      },
+      {
+        "path": "/zh/posts/nantou-2026-sun-moon-lake-music-fireworks-festival/",
+        "delta": -11
+      },
+      {
+        "path": "/ko/destinations/japan/",
+        "delta": -11
+      }
+    ]
   }
 ]
