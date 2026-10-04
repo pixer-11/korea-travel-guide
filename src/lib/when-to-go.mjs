@@ -151,15 +151,36 @@ export function whenToGo(country, month, { countryFacts, events = [], posts = []
  * Rain carries slightly more weight than temperature: a wet month is felt every
  * day of a trip, a warm one is planned around.
  *
+ * Two absolute guards on top of the ranking, added 2026-10-05 after the desert
+ * countries came out backwards. Dubai's whole year spans 1-25mm of rain, yet
+ * stretched to 0..1 that 24mm decided the answer, and September (38C, 1mm) was
+ * ranked the UAE's third easiest month while the city's real season, Nov-Mar,
+ * sat behind it; Uzbekistan listed August at 37C.
+ *   - Rain is ranked against a spread of at least RAIN_SPREAD_FLOOR mm, so a
+ *     year whose wettest and driest months differ by less than that cannot let
+ *     rain dominate. Every monsoon and temperate country spans more than 40mm
+ *     and is untouched; today only the UAE (24mm) is damped.
+ *   - Each degree of average high above HEAT_LIMIT adds HEAT_PER_DEGREE no
+ *     matter how the month ranks, so a 38C month is never "easy" just because
+ *     its neighbours are 40C. This also marks the tropical hot season (Bangkok
+ *     and Saigon at 37-38C in Mar-Apr) as harsh, which is the honest answer;
+ *     their Nov-Feb dry season, at 30-33C, is barely touched.
+ *
  * NOT a claim about a whole country. The climate record is one city — China is
  * Guangzhou, the United States is New Orleans — so anything rendering this must
  * name that city beside it.
  */
+const RAIN_SPREAD_FLOOR = 40; // mm between the wettest and driest month
+const HEAT_LIMIT = 32; // C, average daily high
+const HEAT_PER_DEGREE = 0.08;
+
 export function monthComfort(climate) {
   if (!Array.isArray(climate) || climate.length !== 12) return null;
   const rains = climate.map((c) => c.rain);
   const his = climate.map((c) => c.hi);
   const yearRain = rains.reduce((a, b) => a + b, 0) || 1;
+  const rainMin = Math.min(...rains);
+  const rainSpread = Math.max(Math.max(...rains) - rainMin, RAIN_SPREAD_FLOOR);
   // Distance from 22C, the middle of what most people walk around in happily.
   const dist = his.map((h) => Math.abs(h - 22));
   const span = (arr, v) => {
@@ -168,7 +189,10 @@ export function monthComfort(climate) {
     return max === min ? 0.5 : (v - min) / (max - min);
   };
   return climate.map((c, i) => {
-    const score = span(rains, c.rain) * 0.55 + span(dist, dist[i]) * 0.45;
+    const rainPart = (c.rain - rainMin) / rainSpread;
+    const heat = Math.max(0, c.hi - HEAT_LIMIT) * HEAT_PER_DEGREE;
+    // Capped at 1: pages draw bar heights from 1 - score.
+    const score = Math.min(1, rainPart * 0.55 + span(dist, dist[i]) * 0.45 + heat);
     return {
       m: c.m,
       hi: c.hi,

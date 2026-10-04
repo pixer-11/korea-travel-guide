@@ -70,3 +70,110 @@ test('일 년 내내 같은 나라는 가운데로 모인다 (싱가포르)', ()
   const extreme = Object.values(b).filter((x) => x === 'harsh').length;
   assert.ok(extreme <= 2, `변화가 거의 없는 나라에 "피함"이 ${extreme}개나 나왔다`);
 });
+
+// ── 사막·건조 기후 (2026-10-05) ──────────────────────────────────────────────
+// 두바이는 일 년 강수가 1~25mm 사이인데, 0..1 로 늘리자 그 24mm 차이가 답을 정했다.
+// 그래서 9월(38°C, 1mm)이 UAE에서 세 번째로 "쉬운 달"로, 우즈베키스탄은 8월(37°C)이
+// 목록에 올랐다. 큐레이션된 essentials-facts 의 UAE 성수기는 11~3월이다.
+// 아래는 그 두 가드(강수 폭 바닥·32°C 초과 열 벌점)를 지키고, 고친 범위가 사막
+// 밖으로 번지지 않았는지를 거꾸로도 잰다.
+import { bestMonths } from './dest-hub.mjs';
+
+const ranked = (name) => [...monthComfort(climateOf(name))].sort((a, b) => a.score - b.score);
+const UAE_SEASON = [11, 12, 1, 2, 3];
+
+test('사막: UAE 최적 달은 11~3월 안에서만 나온다 (모든 출력 지점)', () => {
+  const c = climateOf('United Arab Emirates');
+  assert.ok(c, 'country-facts.json 에 UAE 기후 기록이 있어야 한다');
+  // 글 사이드바·언제갈까 인덱스(bestMonth), 여행지 허브(bestMonths),
+  // 나라 페이지 "쉬운 달" 셋(상위 3) — 셋 다 같은 순위를 쓴다.
+  assert.ok(UAE_SEASON.includes(bestMonth(c).m), `bestMonth=${bestMonth(c).m}`);
+  for (const m of bestMonths(c)) assert.ok(UAE_SEASON.includes(m), `bestMonths 에 ${m}월`);
+  const top3 = ranked('United Arab Emirates').slice(0, 3).map((x) => x.m);
+  assert.ok(top3.every((m) => UAE_SEASON.includes(m)), `쉬운 달 셋: ${top3}`);
+});
+
+test('사막: 한여름 폭염 달은 나쁘게 나온다 (UAE 6~9월, 우즈베키스탄 6~8월)', () => {
+  const uae = bandOf('United Arab Emirates');
+  assert.ok([6, 7, 8, 9].every((m) => bad(uae[m])), `UAE 6~9월: ${[6, 7, 8, 9].map((m) => uae[m])}`);
+  const uz = bandOf('Uzbekistan');
+  assert.ok([6, 7, 8].every((m) => bad(uz[m])), `우즈베키스탄 6~8월: ${[6, 7, 8].map((m) => uz[m])}`);
+  const uzTop3 = ranked('Uzbekistan').slice(0, 3).map((x) => x.m);
+  assert.ok(uzTop3.every((m) => m < 6 || m > 8), `우즈베키스탄 쉬운 달 셋에 한여름: ${uzTop3}`);
+});
+
+test('최적 달 위치 고정: 태국·베트남 11~2월, 한국 4·5·10월', () => {
+  for (const name of ['Thailand', 'Vietnam']) {
+    const top2 = ranked(name).slice(0, 2).map((x) => x.m);
+    assert.ok(top2.every((m) => [11, 12, 1, 2].includes(m)), `${name} 상위 둘: ${top2}`);
+  }
+  const kr = ranked('South Korea').slice(0, 3).map((x) => x.m);
+  assert.deepEqual([...kr].sort((a, b) => a - b), [4, 5, 10], `한국 상위 셋: ${kr}`);
+});
+
+test('열 벌점은 순위와 무관하다: 모든 달이 38°C 이상이어도 쉬운 달이 되지 않는다', () => {
+  const scorching = Array.from({ length: 12 }, (_, i) => ({ m: i + 1, hi: 38 + (i % 3), lo: 28, rain: 2 }));
+  const mc = monthComfort(scorching);
+  assert.ok(mc.every((x) => x.band !== 'good'), `38~40°C 인 해에 good: ${mc.map((x) => x.band)}`);
+  assert.ok(mc.every((x) => x.score <= 1), '점수는 1을 넘지 않는다 (막대 높이가 1 - score)');
+});
+
+test('강수 폭이 작은 해에서는 비가 순위를 정하지 않는다', () => {
+  // 기온은 같고 비만 0~20mm 로 다른 해. 옛 공식은 20mm 를 강수 축 전체(0.55)로
+  // 늘렸다; 이제 20mm 는 40mm 바닥 폭의 절반만큼만 점수를 올린다.
+  const dry = Array.from({ length: 12 }, (_, i) => ({ m: i + 1, hi: 22, lo: 14, rain: i === 5 ? 20 : 0 }));
+  const mc = monthComfort(dry);
+  const gap = mc.find((x) => x.m === 6).score - mc.find((x) => x.m === 1).score;
+  assert.ok(Math.abs(gap - 0.55 * 0.5) < 1e-9, `20mm 가 만든 점수 차 ${gap}`);
+  // 같은 20mm 라도 비가 몇백 mm 오는 나라에선 비중이 그대로 작다 — 폭이 넓으면 손대지 않는다.
+  const wet = dry.map((x) => ({ ...x, rain: x.m === 6 ? 300 : 20 }));
+  const wetMc = monthComfort(wet);
+  assert.ok(Math.abs(wetMc.find((x) => x.m === 6).score - wetMc.find((x) => x.m === 1).score - 0.55) < 1e-9, '몬순 폭은 전 비중');
+});
+
+test('역방향: 강수 폭 40mm 이상·최고 32°C 이하인 나라는 점수가 옛 공식 그대로다', () => {
+  const old = (climate) => {
+    const rains = climate.map((c) => c.rain);
+    const dist = climate.map((c) => Math.abs(c.hi - 22));
+    const span = (arr, v) => {
+      const min = Math.min(...arr);
+      const max = Math.max(...arr);
+      return max === min ? 0.5 : (v - min) / (max - min);
+    };
+    return climate.map((c, i) => span(rains, c.rain) * 0.55 + span(dist, dist[i]) * 0.45);
+  };
+  let n = 0;
+  for (const [name, f] of Object.entries(countries)) {
+    const c = f.climate;
+    if (!Array.isArray(c) || c.length !== 12) continue;
+    const rains = c.map((x) => x.rain);
+    if (Math.max(...rains) - Math.min(...rains) < 40 || Math.max(...c.map((x) => x.hi)) > 32) continue;
+    n++;
+    const now = monthComfort(c).map((x) => x.score);
+    old(c).forEach((s, i) => assert.ok(Math.abs(s - now[i]) < 1e-9, `${name} ${i + 1}월: ${s} → ${now[i]}`));
+  }
+  // 한국·일본·유럽 등이 여기 들어와야 이 테스트가 뭔가를 지킨다.
+  assert.ok(n >= 8, `옛 공식과 비교한 나라가 ${n}개뿐이다`);
+});
+
+test('열 벌점: 32°C 까지는 0, 그 위로 1°C 마다 정확히 0.08', () => {
+  // 22°C 에서 같은 거리(10°C, 12°C)인 추운 달과 더운 달을 짝지어, 기온 순위 몫은
+  // 같고 열 벌점만 다르게 만든다. 비는 열두 달 같다.
+  const year = (cold, hot) => Array.from({ length: 12 }, (_, i) => ({
+    m: i + 1, hi: i === 0 ? cold : i === 6 ? hot : 22, lo: 10, rain: 50,
+  }));
+  const at = (cold, hot) => {
+    const mc = monthComfort(year(cold, hot));
+    return mc[6].score - mc[0].score;
+  };
+  assert.ok(Math.abs(at(12, 32)) < 1e-9, '32°C 는 벌점 없음');
+  assert.ok(Math.abs(at(10, 34) - 0.16) < 1e-9, `34°C 는 +0.16 이어야 한다: ${at(10, 34)}`);
+});
+
+test('열두 달 강수가 똑같으면 비는 점수에 0을 보탠다 (옛 공식은 일괄 0.5)', () => {
+  // 비 차이가 없으면 비는 판단 근거가 아니다 — 22°C 한결같은 해는 전부 good.
+  // 지금 country-facts 에는 이런 나라가 없다; 일부러 바꾼 동작이라 여기 박아 둔다.
+  const flat = Array.from({ length: 12 }, (_, i) => ({ m: i + 1, hi: 22, lo: 14, rain: 200 }));
+  const mc = monthComfort(flat);
+  assert.ok(mc.every((x) => Math.abs(x.score - 0.225) < 1e-9 && x.band === 'good'), mc.map((x) => x.score).join(','));
+});
