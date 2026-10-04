@@ -1,60 +1,60 @@
 ---
 lang: es
 slug: dubai-richard-marx
-srcHash: '3a680ff23bec'
-title: 'Richard Marx en Dubái: fechas, entradas y recinto'
-description: Richard Marx actúa en Dubái, Emiratos Árabes Unidos, el 3 de octubre de 2026. Qué es, cuándo y dónde será, y cómo organizar tu visita.
-quickAnswer: 'Richard Marx se presentará en el Coca-Cola Arena de Dubái el 3 de octubre de 2026, en lo que será su primera actuación en Oriente Medio. Es un único concierto en el distrito de City Walk, así que conviene confirmar las entradas y los horarios exactos en el sitio oficial del Coca-Cola Arena o con sus socios autorizados de venta. Reserva con antelación: los conciertos individuales de cantautores veteranos en este recinto suelen atraer a un público amplio y fiel.'
+srcHash: '444ac438e165'
+title: 'Richard Marx en Dubái: fecha, entradas y recinto'
+description: El 3 de octubre de 2026, el Coca-Cola Arena de Dubái iba a acoger el primer concierto de la historia del cantautor Richard Marx en Oriente Medio.
+quickAnswer: El concierto de Richard Marx en el Coca-Cola Arena de Dubái estaba programado para el 3 de octubre de 2026. Iba a ser su primera actuación en Oriente Medio. Se trataba de una única noche en el distrito de City Walk, y las entradas se vendieron a través de los distribuidores oficiales del Coca-Cola Arena. Cuando un cantautor veterano da un concierto en solitario en este recinto, suele reunir a un público amplio y fiel.
 faq:
-  - q: ¿Cuándo actúa Richard Marx en Dubái?
-    a: 'El 3 de octubre de 2026, en el Coca-Cola Arena: su primera actuación en Oriente Medio.'
-  - q: ¿Dónde está ubicado el Coca-Cola Arena?
-    a: En City Walk, Dubái, cerca de Al Wasl Road, a poca distancia en coche de Downtown Dubai y el Burj Khalifa.
-  - q: ¿Cómo consigo entradas?
-    a: Confirma el horario y compra las entradas en el sitio oficial del Coca-Cola Arena o a través de sus socios autorizados de venta; evita las páginas de reventa no oficiales.
-  - q: ¿Es el metro de Dubái la mejor forma de llegar al recinto?
-    a: 'No: el metro no llega directamente a City Walk, así que conviene contar con un taxi, una aplicación de transporte o el coche propio para el último tramo.'
-  - q: ¿Cuánto dura aproximadamente el concierto?
-    a: Los espectáculos de cantautores de este estilo suelen durar entre 90 minutos y dos horas; conviene confirmar los detalles concretos cerca de la fecha a través de la página oficial del evento.
+  - q: ¿Cuándo iba a actuar Richard Marx en Dubái?
+    a: El 3 de octubre de 2026, en el Coca-Cola Arena. Era su primera actuación en Oriente Medio.
+  - q: ¿Dónde se encuentra el Coca-Cola Arena?
+    a: En City Walk (Dubái), cerca de Al Wasl Road y a pocos minutos en coche del centro de Dubái (Downtown Dubai) y del Burj Khalifa.
+  - q: ¿Cómo se conseguían las entradas?
+    a: Las entradas se vendieron a través de los distribuidores oficiales del Coca-Cola Arena. Los conciertos de los grandes recintos de Dubái se venden en unas pocas plataformas verificadas, y cada vez que se anuncia un espectáculo muy solicitado aparecen ofertas falsas.
+  - q: ¿Era el metro de Dubái la mejor forma de llegar al recinto?
+    a: No. Como el metro no tiene parada directa en City Walk, el último tramo se hacía en taxi, en coche o con una aplicación de transporte con conductor.
+  - q: ¿Cuánto solía durar un concierto de este tipo?
+    a: Los conciertos de cantautores de este estilo suelen durar entre 90 minutos y dos horas, a menudo sin telonero.
 ---
 
-Es probable que desde que viste el anuncio tengas "Right Here Waiting" o "Hazard" rondando en tu cabeza, y ahora te preguntes cómo será realmente una noche con Richard Marx en Dubái. Aquí tienes todo lo que necesitas saber.
+Si desde el anuncio no se le iban de la cabeza «Right Here Waiting» o «Hazard», aquí encontrará un resumen práctico de la noche de Richard Marx en Dubái.
 
-## Por qué importa este concierto
+## Por qué era un concierto especial
 
-Richard Marx construyó su carrera a partir de una serie de baladas de soft-rock y pop de finales de los años 80 y 90, éxitos radiofónicos que aún hoy, décadas después, llenan recintos enteros. Esta fecha en particular se anuncia como su primera actuación en Oriente Medio, lo que la convierte en un hito genuino y no en una simple parada más de gira.
+Richard Marx forjó su carrera a finales de los ochenta y en los noventa con una serie de clásicos del soft rock y del pop. Sus baladas llegaron a lo más alto de las listas y sus éxitos radiofónicos siguen llenando estadios décadas después. Esta cita se anunció como su primera actuación en Oriente Medio, de modo que no era una parada más de una gira, sino todo un hito.
 
-Para los fans de toda la vida en la región del Golfo, se trata de una oportunidad poco frecuente para escuchar esas canciones en directo sin tener que reservar un vuelo a Londres o Los Ángeles.
+Para sus seguidores de siempre en la región del Golfo suponía una ocasión excepcional de escuchar esas canciones en directo sin tener que coger un avión a Londres o a Los Ángeles.
 
 ## Cómo llegar al Coca-Cola Arena
 
-El concierto está previsto para el 3 de octubre de 2026 en el Coca-Cola Arena. El recinto se encuentra en City Walk, uno de los distritos de uso mixto más nuevos de Dubái, situado entre Al Wasl Road y Jumeirah, a pocos minutos en coche de Downtown Dubai y el Burj Khalifa.
+La fecha anunciada era el 3 de octubre de 2026, en el Coca-Cola Arena. El recinto se encuentra en City Walk, uno de los distritos de uso mixto más recientes de Dubái. Está encajado entre Al Wasl Road y Jumeirah, a pocos minutos en coche del centro de Dubái (Downtown Dubai) y del Burj Khalifa.
 
-Si no vas a conducir, las aplicaciones de transporte con conductor son la opción más sencilla: los puntos de bajada están claramente señalizados justo frente a la entrada principal del recinto. El metro de Dubái no llega directamente a City Walk, así que tomar un taxi o un coche de aplicación para el último tramo es algo habitual, incluso entre los residentes.
+Para quien no fuera en su propio coche, la opción más sencilla eran las aplicaciones de transporte con conductor, con puntos de bajada bien señalizados justo delante de la entrada principal. El metro de Dubái no llega directamente a City Walk, así que hasta los residentes suelen recorrer el último tramo en taxi o en coche compartido.
 
-- En coche o taxi: la opción más cómoda, con aparcamiento de pago en el propio recinto y en los alrededores de City Walk
-- Con aplicaciones de transporte: prácticas para la bajada y recogida junto al recinto
-- En autobús público: varias líneas de la RTA paran cerca de City Walk, una buena opción si buscas ahorrar
+- En coche o en taxi: la opción más cómoda, con aparcamiento de pago en el propio recinto y en los alrededores de City Walk
+- Aplicaciones de transporte: prácticas para bajarse y subirse junto al recinto
+- Autobús urbano: para los presupuestos más ajustados, varias líneas de la RTA paran cerca de City Walk
 
 ## Entradas y precios
 
-El precio de las entradas en el Coca-Cola Arena suele variar según la categoría de asiento: las localidades de pista y las de la platea baja tienen un coste mayor que las de los niveles superiores. Cabe esperar un rango que va desde asientos superiores más económicos hasta paquetes de pista más caros, aunque las cifras exactas para este concierto no forman parte de la información disponible públicamente por el momento.
+En el Coca-Cola Arena, el precio de los conciertos suele variar según la zona: las entradas de pista y de la grada baja cuestan bastante más que las de los niveles superiores. Para esta cita, la horquilla iba desde asientos económicos en la parte alta hasta paquetes de pista más caros, aunque el anuncio no incluía cifras concretas.
 
-Antes de comprar, confirma los horarios y las entradas en el sitio oficial del Coca-Cola Arena o con sus socios autorizados. Evita las páginas de reventa que no reconozcas: los conciertos en recintos de Dubái suelen venderse a través de un número reducido de plataformas verificadas, y en torno a los anuncios de alta demanda suelen circular listados duplicados o falsos.
+Las entradas se vendieron a través de los distribuidores oficiales del Coca-Cola Arena. Los conciertos de los grandes recintos de Dubái salen a la venta en unas pocas plataformas verificadas, y cuando se anuncia un espectáculo muy solicitado circulan ofertas duplicadas o directamente falsas.
 
-## Qué esperar la noche del concierto
+## Cómo iba a ser la noche
 
-El Coca-Cola Arena tiene capacidad para unas 17.000 personas, pero en un concierto sentado de cantautor como este, la configuración será más íntima que la que se ve en un espectáculo pop de estadio. Las puertas suelen abrir bastante antes de la hora anunciada para el inicio, lo que deja tiempo de sobra para tomar algo o picar algo en los puestos del vestíbulo antes de ocupar el asiento.
+El Coca-Cola Arena tiene capacidad para unas 17.000 personas, pero para un concierto de cantautor con el público sentado se planteó una disposición más íntima que la habitual en las grandes estrellas del pop. Las puertas suelen abrirse con bastante antelación respecto a la hora anunciada, lo que da margen para tomar algo en los puestos del vestíbulo antes de ocupar el asiento.
 
-Richard Marx es conocido por contar historias entre canción y canción: hay que esperar anécdotas sobre la composición de temas como "Should've Known Better" o "Don't Mean Nothing", además de la música en sí. Los conciertos de artistas de esta generación suelen durar entre 90 minutos y dos horas, a menudo sin telonero, aunque conviene confirmarlo una vez se publiquen los detalles propios del espectáculo.
+A Richard Marx se le conoce por contar historias entre canción y canción. El espectáculo se concibió para combinar la música con anécdotas sobre cómo nacieron éxitos como «Should've Known Better» y «Don't Mean Nothing». Los conciertos de los artistas de esa época suelen durar entre 90 minutos y dos horas, a menudo sin telonero.
 
-## Cómo vivirlo como un local
+## La visita al estilo local
 
-En Dubái el público suele llegar más tarde de la hora de apertura de puertas, así que, si quieres entrar sin agobios, es mejor llegar justo cuando abren en lugar de hacerlo en el último momento. El tráfico alrededor de City Walk se complica rápidamente en la hora previa al espectáculo.
+En Dubái, el público suele llegar más tarde de la hora de apertura de puertas, y en la hora previa al concierto el tráfico en torno a City Walk se intensifica enseguida.
 
-- Paga con tarjeta o con las opciones de pago sin contacto de Dubái; se acepta efectivo, pero es menos habitual en los quioscos del recinto
-- El código de vestimenta va de casual a informal elegante; el público de Dubái suele vestir algo más arreglado en los conciertos de recinto de lo que cabría esperar en otros lugares
-- Reserva con antelación el aparcamiento oficial o un coche si vienes directamente del trabajo, ya que el aparcamiento en la calle de City Walk se llena rápido las noches de evento
-- El error más habitual entre quienes visitan el recinto por primera vez es pensar que el metro llega directamente hasta allí; conviene planear ese último tramo por carretera
+- Lo habitual es pagar con tarjeta o mediante pago sin contacto; el efectivo se acepta, pero es menos frecuente en los quioscos del recinto
+- La vestimenta va de informal a informal arreglada, y en los conciertos de los grandes recintos el público de Dubái tiende a vestir algo más elegante que en otros lugares
+- Las noches de evento, los sitios para aparcar en la calle en City Walk se agotan rápido, por lo que quien llega directamente del trabajo suele optar por el aparcamiento oficial o por un trayecto reservado de antemano
+- El error más común entre los recién llegados es dar por hecho que el metro llega hasta el recinto, cuando en realidad el último tramo se hace por carretera
 
-Llega con tiempo para recorrer el propio City Walk. Es una zona peatonal llena de restaurantes y cafés, así que cenar cerca antes del concierto resulta mucho más sencillo que hacerlo dentro del recinto.
+City Walk es en sí una zona peatonal llena de restaurantes y cafeterías, así que cenar por los alrededores resultaba más cómodo que hacerlo dentro del recinto.

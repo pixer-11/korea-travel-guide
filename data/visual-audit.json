@@ -3058,6 +3058,12 @@
   "reason": "publish gate: Shows restaurant storefront with sign and queue of customers",
   "at": "2026-10-03T12:47:56.717Z"
  },
+ "berlin-neues-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Berlin_Neues_Museum_001.JPG/1920px-Berlin_Neues_Museum_001.JPG": {
+  "slug": "berlin-neues-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear exterior facade view of Neues Museum building",
+  "at": "2026-10-04T13:31:40.118Z"
+ },
  "berlin-teufelsberg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Funkturm_Berlin_View_13.jpg/1920px-Funkturm_Berlin_View_13.jpg": {
   "slug": "berlin-teufelsberg",
   "verdict": "MATCH",
@@ -3546,6 +3552,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Park path with blossoming trees, plausible Preston Park scene",
   "at": "2026-10-03T07:50:09.481Z"
+ },
+ "brighton-roti-king-brighton\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Kangkung_Belacan_-_Roti_King_2026-02-21.jpg/3840px-Kangkung_Belacan_-_Roti_King_2026-02-21.jpg": {
+  "slug": "brighton-roti-king-brighton",
+  "verdict": "MATCH",
+  "reason": "publish gate: Dish photographed inside real restaurant setting, plausible",
+  "at": "2026-10-04T13:35:54.584Z"
  },
  "brighton-royal-pavilion\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Brighton_royal_pavilion_Qmin.jpg/1920px-Brighton_royal_pavilion_Qmin.jpg": {
   "slug": "brighton-royal-pavilion",
@@ -5399,6 +5411,12 @@
   "reason": "publish gate: Shows Cologne Cathedral spires among cityscape, recognisable landmark",
   "at": "2026-10-02T14:05:31.847Z"
  },
+ "cologne-museum-ludwig\u0001https://upload.wikimedia.org/wikipedia/commons/3/3d/Museum_Ludwig_002.jpg": {
+  "slug": "cologne-museum-ludwig",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Museum Ludwig at night near cathedral",
+  "at": "2026-10-04T13:32:32.371Z"
+ },
  "cologne-shrine-of-the-three-kings\u0001https://upload.wikimedia.org/wikipedia/commons/9/99/Cologne_Cathedral_Shrine_of_Magi.jpg": {
   "slug": "cologne-shrine-of-the-three-kings",
   "verdict": "MATCH",
@@ -6133,6 +6151,12 @@
   "reason": "publish gate: Park with path, trees, benches matches Hofgarten setting",
   "at": "2026-10-02T14:13:42.312Z"
  },
+ "dusseldorf-museum-kunstpalast\u0001https://upload.wikimedia.org/wikipedia/commons/a/af/Museum_Kunstpalast_-_Ehrenhof_und_n%C3%B6rdlicher_%C3%9Cbergang_%288241-49%29.jpg": {
+  "slug": "dusseldorf-museum-kunstpalast",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of museum building, representative hero shot",
+  "at": "2026-10-04T13:34:07.726Z"
+ },
  "dusseldorf-stadtgraben-konigsallee\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/D%C3%BCsseldorf_-_Altstadt_-_Stadtgraben_an_der_K%C3%B6nigsallee_-_panoramio.jpg/3840px-D%C3%BCsseldorf_-_Altstadt_-_Stadtgraben_an_der_K%C3%B6nigsallee_-_panoramio.jpg": {
   "slug": "dusseldorf-stadtgraben-konigsallee",
   "verdict": "MATCH",
@@ -6389,6 +6413,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Interior greenhouse with globe sculpture, representative of Palmengarten",
   "at": "2026-10-02T14:23:05.196Z"
+ },
+ "frankfurt-senckenberg-nature-museum\u0001https://upload.wikimedia.org/wikipedia/commons/b/b6/Senckenberg_Museum_Frankfurt.jpg": {
+  "slug": "frankfurt-senckenberg-nature-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Senckenberg Museum exterior with iconic dinosaur statue",
+  "at": "2026-10-04T13:30:52.879Z"
  },
  "fremantle-fremantle-prison\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Freo_prison_WMAU_gnangarra-131.jpg/1920px-Freo_prison_WMAU_gnangarra-131.jpg": {
   "slug": "fremantle-fremantle-prison",
@@ -7480,6 +7510,12 @@
   "reason": "Cave interior with stalactites, tourists, Ha Long Bay",
   "at": "2026-07-25T02:43:34.668Z"
  },
+ "hamburg-hamburger-kunsthalle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Hamburger_Kunsthalle.jpg/1920px-Hamburger_Kunsthalle.jpg": {
+  "slug": "hamburg-hamburger-kunsthalle",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of Hamburger Kunsthalle building, representative facade",
+  "at": "2026-10-04T13:29:53.240Z"
+ },
  "hamburg-miniatur-wunderland\u0001https://upload.wikimedia.org/wikipedia/commons/f/fc/Miniatur_wunderland.jpg": {
   "slug": "hamburg-miniatur-wunderland",
   "verdict": "MATCH",
@@ -7790,6 +7826,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Plausible square in Heidelberg with fountain and buildings",
   "at": "2026-10-03T07:52:31.834Z"
+ },
+ "heidelberg-kulturbrauerei-heidelberg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/The_Ritter_%28Knight%29_on_the_Kulturbrauerei_%2C_Heidelberg%2C_Baden-Wurttemberg%2C_Germany_-_panoramio.jpg/3840px-The_Ritter_%28Knight%29_on_the_Kulturbrauerei_%2C_Heidelberg%2C_Baden-Wurttemberg%2C_Germany_-_panoramio.jpg": {
+  "slug": "heidelberg-kulturbrauerei-heidelberg",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows exterior facade with statue of the venue's building",
+  "at": "2026-10-04T13:41:03.950Z"
  },
  "heidelberg-vetter-s-alt-heidelberger-brauhaus\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Vetter%27s_Alt_Heidelberger_Brauhaus_%2855058224681%29.jpg/3840px-Vetter%27s_Alt_Heidelberger_Brauhaus_%2855058224681%29.jpg": {
   "slug": "heidelberg-vetter-s-alt-heidelberger-brauhaus",
@@ -12204,6 +12246,18 @@
   "reason": "publish gate: Famous entrance statue of Auerbachs Keller, Leipzig",
   "at": "2026-10-03T12:51:56.580Z"
  },
+ "leipzig-augustiner-am-markt\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2024-04-06_Markt_6_in_Leipzig_Augustiner_am_Markt.jpg/3840px-2024-04-06_Markt_6_in_Leipzig_Augustiner_am_Markt.jpg": {
+  "slug": "leipzig-augustiner-am-markt",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior shows restaurant sign, seating, and facade",
+  "at": "2026-10-04T13:39:29.911Z"
+ },
+ "leipzig-grassi-museum-of-applied-arts\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Grassimuseum_Leipzig.jpg/1920px-Grassimuseum_Leipzig.jpg": {
+  "slug": "leipzig-grassi-museum-of-applied-arts",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of Grassi Museum building with signage visible",
+  "at": "2026-10-04T13:25:41.599Z"
+ },
  "leipzig-leipzig-panometer\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/LE-Connewitz_Gasometer_I_Panometer-01.jpg/1920px-LE-Connewitz_Gasometer_I_Panometer-01.jpg": {
   "slug": "leipzig-leipzig-panometer",
   "verdict": "MATCH",
@@ -12825,6 +12879,12 @@
   "verdict": "MATCH",
   "reason": "release check: Park with fountains, grass, and pathways matches waterfront park setting",
   "at": "2026-08-11T04:13:04.874Z"
+ },
+ "los-cabos-museum-of-natural-history-in-cabo-san-lucas\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Museo_de_Historia_Natural_de_Cabo_San_Lucas_Nov_2024_03.jpg/1920px-Museo_de_Historia_Natural_de_Cabo_San_Lucas_Nov_2024_03.jpg": {
+  "slug": "los-cabos-museum-of-natural-history-in-cabo-san-lucas",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior facade of museum with clear signage, representative view",
+  "at": "2026-10-04T13:22:14.931Z"
  },
  "lucca-lucca-comics-and-games\u0001https://upload.wikimedia.org/wikipedia/commons/4/4b/Zerocalcare_-_Lucca_Comics_and_Games_2012.JPG": {
   "slug": "lucca-lucca-comics-and-games",
@@ -13771,6 +13831,12 @@
   "reason": "publish gate: Exterior facade of NGV with signage and entrance shown",
   "at": "2026-09-30T14:11:18.585Z"
  },
+ "merida-la-chaya-maya\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/La_Chaya_Maya%2C_exterior%2C_M%C3%A9rida%2C_Yucat%C3%A1n_June_2024.jpg/3840px-La_Chaya_Maya%2C_exterior%2C_M%C3%A9rida%2C_Yucat%C3%A1n_June_2024.jpg": {
+  "slug": "merida-la-chaya-maya",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior entrance with visible restaurant signage, representative facade view",
+  "at": "2026-10-04T13:40:09.344Z"
+ },
  "merida-monumento-a-la-patria\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Monumento_a_la_Patria%2C_M%C3%A9rida_Yucat%C3%A1n_-_panoramio.jpg/3840px-Monumento_a_la_Patria%2C_M%C3%A9rida_Yucat%C3%A1n_-_panoramio.jpg": {
   "slug": "merida-monumento-a-la-patria",
   "verdict": "MATCH",
@@ -13782,6 +13848,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Clear exterior view of Mexico City Metropolitan Cathedral",
   "at": "2026-10-04T07:39:51.633Z"
+ },
+ "mexico-city-taqueria-arandas\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Taqueria_Arandas_2014_on_Irvington_in_Houston-1.jpg/1920px-Taqueria_Arandas_2014_on_Irvington_in_Houston-1.jpg": {
+  "slug": "mexico-city-taqueria-arandas",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior storefront of Taqueria Arandas, representative hero shot",
+  "at": "2026-10-04T13:44:21.675Z"
  },
  "mexico-city-templo-mayor-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Templo_Mayor_50.jpg/1920px-Templo_Mayor_50.jpg": {
   "slug": "mexico-city-templo-mayor-museum",
@@ -14135,6 +14207,12 @@
   "reason": "publish gate: Shows iconic blast furnace and park grounds at Fundidora",
   "at": "2026-10-04T07:48:36.938Z"
  },
+ "monterrey-paseo-santa-lucia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Monterrey_HDR.jpg/1920px-Monterrey_HDR.jpg": {
+  "slug": "monterrey-paseo-santa-lucia",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Paseo Santa Lucía canal, fountains, and skyline landmark",
+  "at": "2026-10-04T13:27:43.709Z"
+ },
  "monza-giardini-della-villa-reale\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/AUTUNNO_NEI_GIARDINI_REALI_DELLA_VILLA_REALE_DI_MONZA.jpg/3840px-AUTUNNO_NEI_GIARDINI_REALI_DELLA_VILLA_REALE_DI_MONZA.jpg": {
   "slug": "monza-giardini-della-villa-reale",
   "verdict": "MATCH",
@@ -14381,11 +14459,23 @@
   "reason": "release check: Bandra-Worli Sea Link bridge, unrelated to a trendy venue",
   "at": "2026-08-11T04:13:25.087Z"
  },
+ "munich-alte-pinakothek\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Alte_Pinakothek_2009.jpg/1920px-Alte_Pinakothek_2009.jpg": {
+  "slug": "munich-alte-pinakothek",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior facade of Alte Pinakothek museum, representative view",
+  "at": "2026-10-04T13:28:47.843Z"
+ },
  "munich-deutsches-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Deutsches_Museum_Portrait_4.jpg/1920px-Deutsches_Museum_Portrait_4.jpg": {
   "slug": "munich-deutsches-museum",
   "verdict": "MATCH",
   "reason": "publish gate: Recognizable exterior of Deutsches Museum with entrance signage visible",
   "at": "2026-10-02T14:20:01.585Z"
+ },
+ "munich-dianatempel\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dianatempel%2C_Munich%2C_20251110_0810_5989.jpg/3840px-Dianatempel%2C_Munich%2C_20251110_0810_5989.jpg": {
+  "slug": "munich-dianatempel",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear representative view of Dianatempel pavilion in Munich",
+  "at": "2026-10-04T13:53:51.419Z"
  },
  "munich-nymphenburg-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Image-Schloss_Nymphenburg_Munich_CC_edit3.jpg/1920px-Image-Schloss_Nymphenburg_Munich_CC_edit3.jpg": {
   "slug": "munich-nymphenburg-palace",
@@ -15680,6 +15770,12 @@
   "reason": "Iconic beach with dramatic cliffs, Nusa Penida",
   "reasonKo": "누사페니다의 상징적인 해변",
   "at": "2026-08-13T14:04:33.347Z"
+ },
+ "oaxaca-hierve-el-agua\u0001https://upload.wikimedia.org/wikipedia/commons/4/43/HierveElAguaMexico1.jpg": {
+  "slug": "oaxaca-hierve-el-agua",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows iconic calcified rock formations at Hierve el Agua",
+  "at": "2026-10-04T13:24:19.605Z"
  },
  "oaxaca-jardin-etnobotanico-de-oaxaca\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Jard%C3%ADn_Etnobot%C3%A1nico_de_Oaxaca_06.JPG/1920px-Jard%C3%ADn_Etnobot%C3%A1nico_de_Oaxaca_06.JPG": {
   "slug": "oaxaca-jardin-etnobotanico-de-oaxaca",
@@ -17482,6 +17578,12 @@
   "reasonKo": "교황궁 외관, 탑, 광장 명확히 보임",
   "at": "2026-08-03T14:35:57.228Z"
  },
+ "puebla-la-casa-del-mendrugo\u0001https://upload.wikimedia.org/wikipedia/commons/a/a0/Casa_del_Mendrugo_%281%29.jpg": {
+  "slug": "puebla-la-casa-del-mendrugo",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior street view of building plausibly housing the restaurant",
+  "at": "2026-10-04T13:43:33.125Z"
+ },
  "puebla-museo-amparo\u0001https://upload.wikimedia.org/wikipedia/commons/d/dc/Mampar_Pue.jpg": {
   "slug": "puebla-museo-amparo",
   "verdict": "MATCH",
@@ -17506,6 +17608,12 @@
   "reason": "Pier, boat, island landscape matches Puerto Princesa setting",
   "reasonKo": "푸에르토프린세사 섬 풍경과 부두 일치",
   "at": "2026-08-11T14:03:54.833Z"
+ },
+ "puerto-vallarta-andale-s-restaurant-bar\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Andale%27s_Restaurant_%26_Bar%2C_PV%2C_2021_-_1.jpg/3840px-Andale%27s_Restaurant_%26_Bar%2C_PV%2C_2021_-_1.jpg": {
+  "slug": "puerto-vallarta-andale-s-restaurant-bar",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior view showing dining area, decor, seating representative of restaurant",
+  "at": "2026-10-04T13:41:57.307Z"
  },
  "puerto-vallarta-gringo-gulch\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Behind_Gringo_Gulch.jpg/3840px-Behind_Gringo_Gulch.jpg": {
   "slug": "puerto-vallarta-gringo-gulch",
@@ -18205,6 +18313,12 @@
   "reason": "Famous Victorian houses with SF skyline backdrop",
   "reasonKo": "샌프란시스코 스카이라인 배경의 유명한 빅토리아식 주택",
   "at": "2026-08-05T15:00:41.959Z"
+ },
+ "san-miguel-de-allende-charco-del-ingenio\u0001https://upload.wikimedia.org/wikipedia/commons/c/cd/Rainbow_Charco_del_Ingenio_-_panoramio.jpg": {
+  "slug": "san-miguel-de-allende-charco-del-ingenio",
+  "verdict": "MATCH",
+  "reason": "publish gate: Nature reserve landscape with rainbow, plausible for Charco del Ingenio",
+  "at": "2026-10-04T13:26:52.029Z"
  },
  "san-miguel-de-allende-museo-historico-casa-de-allende\u0001https://upload.wikimedia.org/wikipedia/commons/8/8c/Museo_Casa_d_Allende_%282%29.JPG": {
   "slug": "san-miguel-de-allende-museo-historico-casa-de-allende",
@@ -20738,6 +20852,12 @@
   "reason": "publish gate: Aerial view clearly shows Old Castle in Stuttgart",
   "at": "2026-10-02T14:27:24.678Z"
  },
+ "stuttgart-porsche-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Porsche-Museum_Main_Entrance.JPG/1920px-Porsche-Museum_Main_Entrance.JPG": {
+  "slug": "stuttgart-porsche-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior night view of Porsche Museum with signage visible",
+  "at": "2026-10-04T13:33:17.696Z"
+ },
  "sukhothai-ramkhamhaeng-national-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ramkhamhaeng_Museum%2C_Sukhothai_%2846732645695%29.jpg/3840px-Ramkhamhaeng_Museum%2C_Sukhothai_%2846732645695%29.jpg": {
   "slug": "sukhothai-ramkhamhaeng-national-museum",
   "verdict": "MATCH",
@@ -22797,6 +22917,18 @@
   "reason": "patrol re-check: Waterfront promenade plaza with skyline view, consistent with venue",
   "at": "2026-08-16T20:35:40.804Z"
  },
+ "tulum-gran-cenote\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Gran_cenote_Tulum_%2820767214144%29.jpg/3840px-Gran_cenote_Tulum_%2820767214144%29.jpg": {
+  "slug": "tulum-gran-cenote",
+  "verdict": "MATCH",
+  "reason": "publish gate: Cenote water pool with rocks and trees, representative view",
+  "at": "2026-10-04T13:23:23.106Z"
+ },
+ "tulum-taqueria-honorio\u0001https://upload.wikimedia.org/wikipedia/commons/e/ed/Taqueria_Honorio_%2834473867370%29.jpg": {
+  "slug": "tulum-taqueria-honorio",
+  "verdict": "MATCH",
+  "reason": "publish gate: Authentic taqueria food trays, representative of venue type",
+  "at": "2026-10-04T13:45:19.416Z"
+ },
  "tulum-tulum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tulum_2.jpg/1920px-Tulum_2.jpg": {
   "slug": "tulum-tulum",
   "verdict": "MATCH",
@@ -23742,6 +23874,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Clear recognisable exterior view of Clifford's Tower on mound",
   "at": "2026-10-03T07:42:52.459Z"
+ },
+ "york-fat-hippo-york\u0001https://upload.wikimedia.org/wikipedia/commons/e/e1/Fat_Hippo_Low_Petergate_York.jpg": {
+  "slug": "york-fat-hippo-york",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior storefront clearly showing Fat Hippo restaurant signage",
+  "at": "2026-10-04T13:36:51.371Z"
  },
  "york-museum-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/York_Museum_Gardens_24.08.2013.jpg/3840px-York_Museum_Gardens_24.08.2013.jpg": {
   "slug": "york-museum-gardens",

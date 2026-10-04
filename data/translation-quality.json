@@ -7280,11 +7280,11 @@
   "at": "2026-08-15T03:39:28.894Z"
  },
  "es/venice-doge-s-palace": {
-  "hash": "5755232fe96b",
+  "hash": "0d7d33929be2",
   "score": 1,
   "registerBreak": false,
-  "worst": "El error más grande que cometen los visitantes es tratarlo com",
-  "at": "2026-08-15T03:39:30.630Z"
+  "worst": "la concurrencia se dispara concretamente entre las 11am y las 5pm",
+  "at": "2026-10-04T13:51:26.480Z"
  },
  "es/venice-grand-canal": {
   "hash": "a359b5846ea4",
@@ -14525,11 +14525,11 @@
   "at": "2026-08-15T03:12:08.101Z"
  },
  "ja/venice-doge-s-palace": {
-  "hash": "4058caa3e27e",
+  "hash": "062b5a792512",
   "score": 1,
   "registerBreak": false,
-  "worst": "編集者によるレビューとAIによる作成support。データはGoogle Placesのライブ情報から取得し...",
-  "at": "2026-08-15T03:12:11.492Z"
+  "worst": "訪問者がもっとも犯しがちな失敗は、サン・マルコ寺院とランチの合間に写真だけ撮って済ませようとすることです。",
+  "at": "2026-10-04T13:51:27.725Z"
  },
  "ja/venice-grand-canal": {
   "hash": "06c25f01b603",
@@ -14546,11 +14546,11 @@
   "at": "2026-08-15T03:12:13.379Z"
  },
  "ja/venice-saint-mark-s-basilica": {
-  "hash": "ac1d88449280",
+  "hash": "97dfbc516c79",
   "score": 1,
   "registerBreak": false,
-  "worst": "寺院は朝のミサが終わってから観光客向けに開放され、主要な観光名所としては意外なほど早く閉まります。",
-  "at": "2026-08-15T03:12:24.532Z"
+  "worst": "人の流れの実測データによると、平日と土曜は9:30amから5:15pm、日曜は2pmから5:15pmが比較的落ち着いています。",
+  "at": "2026-10-04T13:51:35.891Z"
  },
  "ja/venice-venice-international-film-festival-mostra-del-cinema": {
   "hash": "2b4c9ae5c0bc",
@@ -22218,11 +22218,11 @@
   "at": "2026-08-15T02:41:41.244Z"
  },
  "ko/venice-doge-s-palace": {
-  "hash": "890bccc39f26",
-  "score": 0,
+  "hash": "3683299dc1f4",
+  "score": 1,
   "registerBreak": false,
-  "worst": "",
-  "at": "2026-08-15T06:21:45.615Z"
+  "worst": "쇠창살이 박힌 창문과 비좁은 돌 복도를 걷다 보면, 앞서 본 화려함이 일부러 연출된 것처럼 느껴집니다.",
+  "at": "2026-10-04T13:51:37.322Z"
  },
  "ko/venice-grand-canal": {
   "hash": "c3ae4c7877f2",
@@ -22239,11 +22239,11 @@
   "at": "2026-08-15T02:41:49.280Z"
  },
  "ko/venice-saint-mark-s-basilica": {
-  "hash": "8c46426065a6",
+  "hash": "4ae32e7586e7",
   "score": 1,
   "registerBreak": false,
-  "worst": "성당 전체가 숨 쉬는 듯한 느낌을 준다.",
-  "at": "2026-08-15T02:41:49.848Z"
+  "worst": "유동 인구를 측정해 보면 평일과 토요일은 오전 9:30부터 오후 5:15까지가 가장 한산합니다.",
+  "at": "2026-10-04T13:51:44.522Z"
  },
  "ko/venice-venice-international-film-festival-mostra-del-cinema": {
   "hash": "f897f5045abf",
@@ -29127,11 +29127,11 @@
   "at": "2026-08-15T04:18:45.209Z"
  },
  "zh/venice-doge-s-palace": {
-  "hash": "8601813e3f30",
+  "hash": "3420dbb45562",
   "score": 1,
   "registerBreak": false,
-  "worst": "狭窄的石廊和铁窗让人感觉,前面那份奢华仿佛是刻意铺陈出来的对比。",
-  "at": "2026-08-15T04:18:50.567Z"
+  "worst": "根据游客流量规律，工作日全天人流都还算可控，周末则在11am至5pm之间格外拥挤，如果周六或周日前往，这个时段最好避开。",
+  "at": "2026-10-04T13:51:49.668Z"
  },
  "zh/venice-grand-canal": {
   "hash": "ecf7a03583b1",
@@ -29148,11 +29148,11 @@
   "at": "2026-08-15T04:18:47.720Z"
  },
  "zh/venice-saint-mark-s-basilica": {
-  "hash": "35b0a951fbee",
+  "hash": "7d13a5ced9b4",
   "score": 1,
   "registerBreak": false,
-  "worst": "从地面能找到的最佳广场全景,就在这里。",
-  "at": "2026-08-15T10:55:11.151Z"
+  "worst": "与其说它是教堂，倒更像一只被翻了个底朝天的百宝箱。",
+  "at": "2026-10-04T13:51:50.770Z"
  },
  "zh/venice-venice-international-film-festival-mostra-del-cinema": {
   "hash": "b519f9767d2f",
@@ -31428,5 +31428,40 @@
   "registerBreak": false,
   "worst": "德国至今比许多国家更依赖现金，最好备些欧元以防万一。",
   "at": "2026-10-03T13:01:19.532Z"
+ },
+ "es/bangkok-808-festival-2026": {
+  "hash": "4d8b9682a8ff",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El BTS funciona hasta alrededor de la medianoche; si una actuación se alarga, puede termi",
+  "at": "2026-10-04T13:51:19.485Z"
+ },
+ "es/dubai-richard-marx": {
+  "hash": "c0187bd304f8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "el anuncio no incluía cifras concretas",
+  "at": "2026-10-04T13:51:25.370Z"
+ },
+ "ja/berlin-neues-museum": {
+  "hash": "c9a41be09b48",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "この部屋は撮影禁止で、監視員がしっかり目を光らせています。",
+  "at": "2026-10-04T13:51:51.890Z"
+ },
+ "ko/brighton-roti-king-brighton": {
+  "hash": "945df766691e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "핵심은 먹는 과정 그 자체입니다.",
+  "at": "2026-10-04T13:51:57.583Z"
+ },
+ "zh/brighton-roti-king-brighton": {
+  "hash": "ea7a819c0833",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "吃的过程才是精髓：撕下一条，在咖喱里一抹，如此反复，往往饼先吃完，酱还剩下。",
+  "at": "2026-10-04T13:51:58.767Z"
  }
 }

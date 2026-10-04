@@ -1,57 +1,59 @@
 ---
 lang: es
 slug: venice-doge-s-palace
-srcHash: '14af308256f8'
-title: 'Palacio Ducal: Guía de viaje de Venecia (4.7★)'
-description: 'Ve justo a la apertura (9h) o en las últimas dos horas antes del cierre para evitar lo peor de las multitudes: los fines de semana se llena de 11h a 17h, así que intenta ir un día laborable por la mañana si puedes. 4.7★ (39.262 reseñas) — qué dicen los visitantes, horarios y consejos.'
-quickAnswer: 'Ve justo a la apertura (9h) o en las últimas dos horas antes del cierre para evitar lo peor de las multitudes: los fines de semana se llena de 11h a 17h, así que intenta ir un día laborable por la mañana si puedes. Compra una entrada con horario asignado online con antelación, calcula entre dos y tres horas, y combínala con el tour del Puente de los Suspiros y los Itinerarios Secretos si tienes tiempo. Está justo en la Piazza San Marco, a dos minutos a pie de la parada de vaporetto del mismo nombre.'
+srcHash: 'f1918b3a53b5'
+title: 'Palacio Ducal: guía de viaje de Venecia (4.7★)'
+description: 'Para esquivar las peores aglomeraciones, conviene llegar justo a la apertura (9am) o en las dos últimas horas antes del cierre; los fines de semana se llena entre las 11am–5pm, así que lo ideal es una mañana entre semana. 4.7★ (39,262 reseñas): opiniones de los visitantes, horarios y consejos.'
+quickAnswer: Para esquivar las peores aglomeraciones, conviene llegar justo a la apertura (9am) o en las dos últimas horas antes del cierre. Los fines de semana se llena entre las 11am–5pm, de modo que, si es posible, lo mejor es elegir una mañana entre semana. Compre con antelación por internet una entrada con hora asignada, reserve entre dos y tres horas para la visita y, si dispone de tiempo, complétela con el Puente de los Suspiros y el recorrido de los Itinerarios Secretos. El palacio se alza en la misma Plaza de San Marcos (Piazza San Marco), a dos minutos a pie de la parada de vaporetto que lleva su nombre.
 faq:
-  - q: ¿Cuánto tiempo debería dedicar al Palacio Ducal?
-    a: Calcula entre dos y tres horas para el recorrido principal por las salas estatales y la prisión. Añade otros 45-60 minutos si reservas por separado el tour de los Itinerarios Secretos.
+  - q: ¿Cuánto tiempo hay que dedicar al Palacio Ducal?
+    a: El recorrido principal por las salas de gobierno y la prisión requiere entre dos y tres horas. Si reserva aparte el recorrido de los Itinerarios Secretos, sume otros 45-60 minutos.
   - q: ¿Cuál es el momento más tranquilo para visitarlo?
-    a: Las mañanas de días laborables justo a la apertura son las más tranquilas. Los fines de semana, intenta evitar la franja de 11h a 17h, que es la más concurrida; visitarlo por la tarde-noche (el palacio permanece abierto hasta las 23h los fines de semana) es una buena alternativa.
+    a: Las mañanas entre semana, justo a la hora de apertura, son las de menos afluencia. Los fines de semana conviene evitar la franja de 11am-5pm, que es la de mayor concurrencia; una buena alternativa es ir a última hora de la tarde, ya que el palacio permanece abierto hasta las 7pm.
   - q: ¿Cómo se llega al Palacio Ducal?
-    a: Está en la Piazza San Marco. Toma el vaporetto hasta San Marco-Vallaresso o San Zaccaria (líneas 1, 2, 5.1, 5.2), y luego camina 3-5 minutos junto al agua. En Venecia no hay opción directa de metro.
-  - q: ¿Necesito reservar las entradas con antelación?
-    a: Sí, es muy recomendable. Una entrada online con horario asignado evita las largas colas en la puerta, y a menudo se vende como pase combinado con el Museo Correr y otros museos de la Piazza San Marco.
-  - q: ¿Qué hay cerca para ampliar la visita?
-    a: La Basílica di San Marco y su Campanile están a un paso, y el Museo Correr se encuentra al otro lado de la misma plaza, a menudo incluido en el mismo billete.
+    a: Se encuentra en la Plaza de San Marcos. Tome el vaporetto hasta San Marco-Vallaresso o San Zaccaria (líneas 1, 2, 5.1, 5.2) y camine después de 3 a 5 minutos por el paseo junto al agua. En Venecia no existe metro.
+  - q: ¿Es necesario reservar las entradas con antelación?
+    a: Sí, es muy recomendable. Con una entrada en línea con hora asignada se evitan las largas colas en la puerta, y a menudo se vende como pase combinado junto con el Museo Correr y otros museos de la Plaza de San Marcos.
+  - q: ¿Qué hay cerca para prolongar la visita?
+    a: A pocos pasos se encuentran la Basílica de San Marcos y su Campanile. En el lado opuesto de la misma plaza está el Museo Correr, que suele estar incluido en la misma entrada.
 ---
 
 ## Por qué ir
 
-Doblas la esquina desde la Piazzetta y la fachada te detiene en seco: mármol de Verona rosa y blanco dispuesto en un patrón de diamantes, una columnata de arcos góticos apuntados debajo, y arriba un sólido muro de piedra que parece casi una fortificación en comparación. Este fue el asiento de la República de Venecia durante siglos: donde vivía el Dogo, donde el Gran Consejo legislaba, y donde los prisioneros eran conducidos por el Puente de los Suspiros hacia celdas que todavía huelen ligeramente a piedra húmeda.
+Al doblar la esquina desde la Piazzetta, la fachada obliga a detenerse. Abajo, una columnata de arcos góticos apuntados; arriba, un muro macizo de mármol de Verona rosa y blanco, dispuesto en un dibujo de rombos, que en comparación parece casi una fortaleza. Durante siglos fue la sede de la República de Venecia. Aquí residía el dux y legislaba el Gran Consejo, y desde aquí se conducía a los presos por el Puente de los Suspiros hasta unas celdas en las que todavía se percibe un leve olor a piedra húmeda.
 
-Es uno de los sitios más visitados de Venecia, y se lo ha ganado: la escala de las salas estatales, la enorme densidad de lienzos de Tintoretto y Veronese, y la genuina sensación de caminar por el engranaje de un imperio marítimo de 700 años hacen que valga la pena soportar las multitudes.
+Es uno de los lugares más visitados de Venecia, y con razón. La grandiosidad de las salas de gobierno, la enorme concentración de lienzos de Tintoretto y Veronés y la sensación real de recorrer el engranaje de un imperio marítimo de 700 años compensan con creces las multitudes.
 
 ## Cómo llegar
 
-El palacio se encuentra en la esquina sureste de la Piazza San Marco, dirección P.za San Marco, 1. Si vas caminando, es simplemente el edificio junto al agua, al lado del campanario de la Basílica di San Marco; no puedes perderte la fachada a rayas. En vaporetto, baja en la parada San Marco-Vallaresso o San Zaccaria (líneas 1, 2, 5.1, 5.2); ambas quedan a tres o cinco minutos a pie junto al agua.
+El palacio ocupa la esquina sureste de la Plaza de San Marcos (Piazza San Marco), en la dirección P.za San Marco, 1. Si llega a pie, basta con buscar el edificio que se asoma al agua junto al campanario de la Basílica de San Marcos; su fachada a franjas es inconfundible. En vaporetto, hay que bajarse en la parada de San Marco-Vallaresso o en la de San Zaccaria (líneas 1, 2, 5.1, 5.2). Desde ambas se tarda entre tres y cinco minutos caminando por el paseo junto al agua.
 
-En Venecia no hay metro, así que el transporte acuático o caminar son tus únicas opciones: desde la estación de tren (Santa Lucia) o Piazzale Roma, cuenta con una caminata de 35-40 minutos o un trayecto en vaporetto con trasbordo.
+Como en Venecia no hay metro, las únicas opciones son el transporte fluvial o ir andando. Desde la estación de tren (Santa Lucia) o desde Piazzale Roma, calcule unos 35-40 minutos a pie, o bien un trayecto en vaporetto con transbordo.
 
-## Qué ver dentro
+## Qué ver en el interior
 
-Date al menos dos o tres horas. El recorrido te lleva por la Escalera Dorada (Scala d'Oro) hasta los aposentos privados del Dogo, y luego a las salas institucionales: la Sala del Collegio, la Sala del Senato y la vasta Sala del Maggior Consiglio, cuyo techo alberga el "Paraíso" de Tintoretto, considerado una de las pinturas al óleo más grandes del mundo.
+Reserve como mínimo entre dos y tres horas. El itinerario sube por la Escalera de Oro hasta los aposentos privados del dux y continúa por las salas institucionales: la Sala del Collegio, la Sala del Senato y la inmensa Sala del Maggior Consiglio, en cuyo techo se encuentra el «Paraíso» de Tintoretto, considerado uno de los mayores óleos del mundo.
 
-Desde ahí, el recorrido cruza el Puente de los Suspiros cerrado hacia las Prigioni Nuove, las antiguas celdas de la prisión, donde las ventanas enrejadas y los estrechos corredores de piedra hacen que la opulencia anterior parezca deliberadamente puesta en escena.
+Después, el recorrido atraviesa el Puente de los Suspiros, completamente cerrado, y desemboca en las Prigioni Nuove, las antiguas celdas de la prisión. Allí, entre ventanas enrejadas y estrechos pasillos de piedra, el lujo de las salas anteriores parece una escenografía montada a propósito.
 
-Si quieres más, el tour de los Itinerarios Secretos (se reserva por separado, con antelación) te lleva por las salas de interrogatorio y las estrechas celdas del ático donde Casanova estuvo una vez encerrado.
+Quien quiera ver más puede apuntarse al recorrido de los Itinerarios Secretos, que debe reservarse aparte y con antelación. Incluye las salas de interrogatorio y las angostas celdas bajo el tejado donde estuvo encerrado Casanova.
 
 ## Cuándo ir
 
-Las mañanas justo a la apertura suelen ser las más tranquilas: llega lo más cerca posible de las 9h en un día laborable. Según los patrones de tráfico de visitantes, los días laborables se mantienen relativamente manejables durante todo el día, mientras que los fines de semana se llenan específicamente entre las 11h y las 17h; esa es la franja que hay que evitar si visitas un sábado o domingo.
+Las mañanas, justo a la hora de apertura, suelen ser las más tranquilas; entre semana, procure llegar lo más cerca posible de las 9am. Según los patrones de afluencia, los días laborables se mantienen bastante llevaderos durante toda la jornada, mientras que los fines de semana la concurrencia se dispara concretamente entre las 11am y las 5pm. Esa es la franja que conviene evitar si va un sábado o un domingo.
 
-Si solo puedes ir en fin de semana, el palacio permanece abierto hasta la noche, así que una visita después de las 17h, o incluso después de cenar, te permite ver las salas estatales con multitudes notablemente más reducidas. Confirma el horario de apertura del día antes de ir, ya que puede variar según la temporada.
+Si solo puede ir en fin de semana, tenga en cuenta que el palacio abre hasta las 7pm: a última hora de la tarde, a partir de las 5pm, las salas de gobierno se recorren con bastante menos gente. Antes de ir, compruebe el horario del día, ya que puede variar según la temporada.
 
-## Cómo visitarlo como un local
+## Cómo visitarlo como un veneciano
 
-Compra tu entrada online con antelación y elige una franja horaria asignada; esto por sí solo reduce tu espera en la puerta de una hora potencial a casi nada, y es cómo lo maneja cualquiera que visite Venecia con regularidad. Ten en cuenta que la entrada al Palacio Ducal suele venderse combinada con el Museo Correr y otros museos de la Piazza San Marco bajo el pase "Museos de la Piazza San Marco", así que revisa qué incluye antes de comprar una entrada individual.
+Compre la entrada por internet con antelación y elija una franja horaria. Solo con eso, una espera en la puerta que podría rondar la hora queda reducida a casi nada; así es como resuelven las grandes visitas quienes conocen bien Venecia. Conviene saber que la entrada al Palacio Ducal suele formar parte del pase de los «Museos de la Plaza de San Marcos», junto con el Museo Correr y otros museos de la plaza, de modo que vale la pena revisar qué incluye antes de comprar una entrada suelta.
 
-Dentro se paga bien con tarjeta, pero lleva algo de efectivo para los pequeños quioscos y cafés de la propia plaza. El error más grande que cometen los visitantes es tratarlo como una parada rápida para fotos entre la Basílica y el almuerzo: el palacio premia un ritmo pausado, especialmente en la Sala del Maggior Consiglio, donde estirar el cuello hacia el techo unos minutos más revela detalles del Tintoretto que una mirada apresurada pasa por alto por completo.
+Dentro se puede pagar sin problema con tarjeta, pero lleve algo de efectivo para los quioscos y cafés de la propia plaza. El error más habitual es tomarse el palacio como una parada rápida para hacer fotos entre la Basílica y la comida. Este lugar premia la calma, sobre todo en la Sala del Maggior Consiglio: si dedica unos minutos más a contemplar el techo, descubrirá en la obra de Tintoretto detalles que una mirada apresurada pasa completamente por alto.
 
-El código de vestimenta aquí es informal (a diferencia de la Basílica de al lado, que exige hombros y rodillas cubiertos), pero mantén la voz baja en las salas estatales: siguen funcionando como un archivo histórico serio, no solo como escenario para fotos.
+No se exige una vestimenta especial, a diferencia de la Basílica contigua, donde es obligatorio llevar hombros y rodillas cubiertos. Eso sí, hable en voz baja en las salas de gobierno: siguen siendo un archivo histórico de primer orden y no un simple decorado para fotografías.
 
-## Qué combinar cerca de tu visita
+## Qué visitar cerca
 
-Ya que estás en la plaza, combina el palacio con la Basílica di San Marco (ten en cuenta su código de vestimenta y cola de entrada por separado) y sube al Campanile para disfrutar de una vista desde lo alto sobre el tejado en diamante del palacio. El Museo Correr, a menudo incluido en el mismo billete, se encuentra al otro lado de la plaza y recorre el arte y la historia de Venecia a un ritmo más pausado y tranquilo, ideal si necesitas un descanso de las multitudes.
+Ya que estará en la plaza, puede completar la visita con la Basílica de San Marcos, que tiene su propia norma de vestimenta y su propia cola de entrada. También merece la pena subir al Campanile, desde cuya cima se divisan los tejados del palacio con su dibujo de rombos. En el lado opuesto de la plaza se encuentra el Museo Correr, a menudo incluido en la misma entrada.
+
+Dedicado al arte y la historia de Venecia, se recorre con más calma y menos gente, ideal para tomarse un respiro de las multitudes.

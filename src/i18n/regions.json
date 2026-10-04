@@ -10293,6 +10293,11 @@
       "blurb": "瓜纳华托是一座被列入联合国教科文组织世界遗产名录的城市,依陡峭的峡谷而建,色彩斑斓的房屋层层叠叠,下方则是纵横交错的地下隧道网络。这些隧道最初是为防洪而开凿的,如今已改作行车通道。城中蜿蜒的小巷(callejones)、巴洛克风格的教堂,以及宏伟的华雷斯剧院(Teatro Juárez),无不诉说着昔日银矿繁荣所积淀下的百年底蕴。时至今日,这里依然是充满活力的大学城与节庆胜地,其中最负盛名的当属塞万提斯国际艺术节(Festival Internacional Cervantino)。",
       "getting": "距离瓜纳华托最近的机场是巴希奥国际机场(BJX),位于锡拉奥(Silao),距市区约30公里。由于机场本身并没有直达市区的公共巴士,游客通常需要乘坐接驳车或UNEbus等巴士服务前往瓜纳华托,或者先转乘巴士到锡拉奥再换乘。此外,也有从墨西哥城(车程约4-5小时)开往瓜纳华托的长途巴士,抵达的客运站位于市郊,需再搭乘出租车或当地巴士短途前往历史中心。",
       "days": "大约2-3天便足以探索历史中心、地下隧道及山坡观景点;如果时间充裕,不妨多留几天,前往附近的圣米格尔德阿连德(San Miguel de Allende)等小镇一日游。"
+    },
+    "ko": {
+      "blurb": "과나후아토는 가파른 협곡 지형 위에 세워진 유네스코 세계문화유산 도시로, 파스텔 톤의 집들이 켜켜이 쌓인 언덕 아래로 지하 터널의 미로가 뻗어 있다. 이 터널들은 원래 홍수 방지를 위해 뚫은 것이지만 지금은 차량 도로로 사용되고 있다. 좁은 골목길(callejones)이 얽힌 미로 같은 구조와 바로크 양식의 성당들, 그리고 웅장한 테아트로 후아레스(Teatro Juárez)는 수백 년에 걸친 은광 산업의 부를 고스란히 보여주며, 도시는 지금도 활기찬 대학가이자 축제의 중심지로 남아 있는데, 그중에서도 세르반티노 국제 축제(Festival Internacional Cervantino)가 가장 유명하다.",
+      "getting": "가장 가까운 공항은 바히오 국제공항(BJX)으로, 시내에서 약 30km 떨어진 실라오(Silao)에 위치해 있다. 공항에서 과나후아토 시내로 직행하는 대중 버스는 없기 때문에, 여행자들은 보통 UNEbus 같은 셔틀이나 버스 서비스를 이용하거나, 먼저 실라오까지 버스로 이동한 뒤 환승하는 방법을 택한다. 멕시코시티에서도 장거리 버스(약 4~5시간 소요)가 과나후아토 버스 터미널까지 운행되는데, 이 터미널은 시 외곽에 위치해 있어 구시가지(역사지구)까지는 택시나 로컬 버스로 짧게 이동해야 한다.",
+      "days": "역사지구와 지하 터널, 언덕 위 전망대를 둘러보는 데는 2~3일이면 충분하며, 산미겔 데 아옌데(San Miguel de Allende) 같은 인근 도시로 당일치기 여행을 계획한다면 며칠 더 여유를 두는 것이 좋다."
     }
   },
   "Mexico City": {
@@ -10337,6 +10342,16 @@
       "blurb": "梅里达是尤卡坦州的殖民地首府:这座城市遍布粉彩色调的宅邸和绿树成荫的广场,节奏舒缓而从容,使其跻身墨西哥最安全、最宜居城市之列。同时,它也是探访尤卡坦半岛玛雅遗址、天然井(cenotes)和剑麻庄园(henequen haciendas)的理想基地,却丝毫没有游客扎堆之地的喧嚣感。",
       "getting": "大多数旅行者选择飞抵梅里达国际机场(MID),该机场有直飞墨西哥城的国内航班,来自美国和加拿大的国际航线也在不断增加。从坎昆出发,陆路的常规选择是搭乘ADO长途巴士,前往梅里达历史中心(Centro Histórico)车站大约需要4小时;如今,玛雅列车(Tren Maya)也已开通,从坎昆机场附近车站到梅里达的特亚(Teya)站,车程约5小时。",
       "days": "若只游览梅里达市区,安排2到3天即可;如果想以梅里达为据点,顺道探访附近的玛雅遗址和天然井,建议预留4到5天。"
+    },
+    "ko": {
+      "blurb": "메리다는 유카탄주의 식민지풍 주도로, 파스텔 톤의 저택들과 녹음이 우거진 광장들, 그리고 여유로우면서도 당당한 리듬이 살아 있는 도시다. 이러한 분위기 덕분에 멕시코에서 가장 안전하고 살기 좋은 도시 중 하나로 꼽힌다. 또한 유카탄반도의 마야 유적지와 세노테, 에네켄 아시엔다를 둘러보기에 더없이 좋은 거점이면서도, 정작 도시 자체는 관광지 특유의 들뜬 느낌 없이 차분함을 유지하고 있다.",
+      "getting": "대부분의 여행자는 메리다 국제공항(MID)을 이용한다. 멕시코시티로의 국내선 직항이 있으며, 미국과 캐나다에서 출발하는 국제선 노선도 점차 늘어나는 추세다. 칸쿤에서 육로로 이동할 경우 가장 일반적인 방법은 ADO 버스로, 메리다 센트로 이스토리코 터미널까지 약 4시간이 소요된다. 최근에는 트렌 마야 철도 노선도 개통되어 칸쿤 공항 인근에서 메리다의 테야역까지 약 5시간 만에 이동할 수 있다.",
+      "days": "도시 자체만 둘러본다면 2~3일 정도면 충분하고, 인근 유적지와 세노테로 당일치기 여행을 다니며 메리다를 거점으로 삼고 싶다면 4~5일 정도를 계획하는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "メリダはユカタン州の州都であり、植民地時代の面影を今に伝える街だ。パステルカラーの邸宅が立ち並び、緑豊かな広場が点在し、どこかゆったりとした、それでいて自信に満ちたリズムが流れている。そのおかげで、メキシコでも屈指の治安の良さと暮らしやすさを誇る都市となった。また、半島に点在するマヤ遺跡やセノーテ、エネケン(アガベ)農園を巡る旅の拠点としても理想的で、それでいて観光地化しすぎた前線基地のような雰囲気にはならないのが魅力だ。",
+      "getting": "多くの旅行者はメリダ国際空港(MID)を利用する。メキシコシティとを結ぶ国内線が充実しているほか、アメリカやカナダからの直行便も徐々に増えつつある。カンクンからの陸路移動では、ADOバスが定番で、メリダの中心部(セントロ・イストリコ)にあるターミナルまで約4時間ほどかかる。また、近年開通したトレン・マヤ(マヤ列車)を使えば、カンクン空港付近からメリダのテヤ駅まで約5時間で移動することも可能だ。",
+      "days": "街そのものを見て回るなら2〜3日ほどを目安に。近郊の遺跡やセノーテへの日帰り旅行の拠点としてメリダを活用したいなら、4〜5日ほど滞在するのがおすすめだ。"
     }
   },
   "Oaxaca": {
@@ -10516,6 +10531,38 @@
       "blurb": "图伦同时拥有两种身份:一边是俯瞰加勒比海、依崖而建的玛雅古城遗址,一边是棕榈树环绕、从宁静海滨小镇蜕变为养生度假与夜生活热点的旅游胜地。丛林天然井、细白沙滩,以及悠闲自在的波西米亚风情,与快速扩张却仍跟不上游客需求的旅游基础设施并存。",
       "getting": "图伦如今已有自己的机场——图伦国际机场(TQO),于2023年12月启用,乘出租车或接驳车前往市区约需30至45分钟;不过许多旅客仍选择飞抵坎昆机场(CUN),再转乘ADO长途巴士、私人接驳车、自驾租车,或搭乘玛雅列车(Tren Maya)前往图伦,全程约2小时。",
       "days": "建议安排2至4天行程:足以游览古城遗址、在海滩悠闲度过一天,并至少探访一处天然井;如果还想前往里维埃拉玛雅(Riviera Maya)周边地区一日游,不妨多留几天时间。"
+    },
+    "es": {
+      "blurb": "Tulum vive entre dos identidades a la vez: unas ruinas mayas amuralladas sobre un acantilado frente al Caribe, y un tramo de playa bordeado de palmeras que se ha convertido en un imán para el bienestar y la vida nocturna. Cenotes en plena selva, arena blanca y una reputación bohemia y relajada conviven con una infraestructura turística en rápido crecimiento que todavía intenta ponerse al día con la demanda.",
+      "getting": "Tulum ya cuenta con su propio aeropuerto, el Aeropuerto Internacional de Tulum (TQO), inaugurado en diciembre de 2023, a unos 30-45 minutos del centro en taxi o shuttle; muchos viajeros, sin embargo, siguen llegando a Cancún (CUN) y continúan en autobús ADO, traslado privado, auto rentado o el Tren Maya, un trayecto de aproximadamente 2 horas.",
+      "days": "Calcula entre 2 y 4 días: tiempo suficiente para recorrer las ruinas, disfrutar un día de playa y visitar al menos un cenote; unos días extra vienen bien si quieres hacer excursiones a otros puntos de la Riviera Maya."
+    }
+  },
+  "Los Cabos": {
+    "en": {
+      "blurb": "Los Cabos sits at the very tip of the Baja California Peninsula, where the Sonoran Desert meets the Sea of Cortez in a landscape of granite arches, cactus-studded hills and warm, calm water. The region is really two towns in one: the glossy marina and nightlife of Cabo San Lucas, and the colonial-era calm of San José del Cabo, linked by a resort studded coastal strip known as the Tourist Corridor.",
+      "getting": "Almost all visitors fly into Los Cabos International Airport (SJD), located north of San José del Cabo and around 45 minutes from Cabo San Lucas. From the terminal, travellers typically take a pre-booked shuttle, an authorised taxi or a public bus toward San José del Cabo, the Corridor or Cabo San Lucas, since ride-hailing pickups are not reliably available at the airport.",
+      "days": "Plan on ~4-7 days to settle into the beach and marina scene around Cabo San Lucas, explore San José del Cabo's gallery district and add time for excursions like whale watching or a day trip up the coast."
+    },
+    "ko": {
+      "blurb": "로스 카보스는 바하 칼리포르니아 반도의 최남단에 자리하고 있으며, 소노란 사막과 코르테스해가 맞닿는 이곳에는 화강암 아치와 선인장이 점점이 박힌 언덕, 그리고 따뜻하고 잔잔한 바다가 펼쳐집니다. 이 지역은 사실상 두 개의 도시가 하나로 어우러진 곳입니다: 화려한 마리나와 활기찬 밤문화를 자랑하는 카보 산 루카스, 그리고 식민지 시대의 고즈넉함이 남아 있는 산호세 델 카보. 두 지역은 리조트가 즐비하게 늘어선 해안 벨트, 일명 '투어리스트 코리도'로 이어집니다.",
+      "getting": "대부분의 여행객은 로스 카보스 국제공항(SJD)을 통해 입국합니다. 이 공항은 산호세 델 카보 북쪽에 위치해 있으며, 카보 산 루카스까지는 약 45분 거리입니다. 공항에는 차량 호출 서비스(라이드헤일링) 픽업이 원활하지 않기 때문에, 보통 사전 예약한 셔틀버스나 공인 택시, 혹은 대중버스를 이용해 산호세 델 카보, 코리도, 혹은 카보 산 루카스로 이동하게 됩니다.",
+      "days": "카보 산 루카스 주변의 해변과 마리나 분위기를 제대로 즐기고, 산호세 델 카보의 갤러리 지구를 둘러보며, 고래 관찰이나 해안 당일치기 여행 같은 액티비티까지 더하려면 대략 4~7일 정도 일정을 잡는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "ロス・カボスはバハ・カリフォルニア半島の最南端に位置し、ソノラ砂漠とコルテス海が出会う場所。花崗岩のアーチやサボテンが点在する丘、穏やかで温かい海が広がる土地だ。この地域は実質的に2つの町からなっている。きらびやかなマリーナとナイトライフで知られるカボ・サン・ルーカスと、植民地時代の面影を残す静かなサン・ホセ・デル・カボ。両者はリゾートが連なる海沿いの一帯「ツーリスト・コリドー」によって結ばれている。",
+      "getting": "ほとんどの旅行者は、サン・ホセ・デル・カボの北側に位置し、カボ・サン・ルーカスから車で約45分のロス・カボス国際空港(SJD)を利用して到着する。ターミナルからは、事前予約のシャトルバス、許可を受けたタクシー、または路線バスを利用してサン・ホセ・デル・カボ、コリドー、カボ・サン・ルーカス方面へ向かうのが一般的だ。配車アプリによる空港でのピックアップは確実に利用できるとは限らないので注意したい。",
+      "days": "カボ・サン・ルーカス周辺のビーチやマリーナの雰囲気をゆっくり楽しむなら4〜7日程度を見ておきたい。サン・ホセ・デル・カボのギャラリー地区を散策する時間に加え、ホエールウォッチングや海岸沿いの日帰り旅行といったアクティビティの時間も確保しておこう。"
+    },
+    "es": {
+      "blurb": "Los Cabos se encuentra en la mismísima punta de la península de Baja California, donde el desierto de Sonora se funde con el Mar de Cortés en un paisaje de arcos de granito, cerros salpicados de cactus y aguas tibias y tranquilas. En realidad, la región son dos destinos en uno: el brillo de la marina y la vida nocturna de Cabo San Lucas, y la calma de aire colonial de San José del Cabo, unidos por una franja costera repleta de resorts conocida como el Corredor Turístico.",
+      "getting": "Casi todos los visitantes llegan por el Aeropuerto Internacional de Los Cabos (SJD), ubicado al norte de San José del Cabo y a unos 45 minutos de Cabo San Lucas. Desde la terminal, lo habitual es tomar un traslado reservado con antelación, un taxi autorizado o un autobús público hacia San José del Cabo, el Corredor o Cabo San Lucas, ya que no siempre hay disponibilidad confiable de apps de transporte privado en el aeropuerto.",
+      "days": "Conviene planear entre 4 y 7 días para disfrutar del ambiente de playa y marina en Cabo San Lucas, recorrer el barrio de galerías de San José del Cabo y sumar tiempo para excursiones como avistamiento de ballenas o una escapada de un día por la costa."
+    },
+    "zh": {
+      "blurb": "洛斯卡沃斯坐落在下加利福尼亚半岛的最南端,索诺拉沙漠在这里与科尔特斯海相遇,造就了花岗岩拱门、仙人掌点缀的山丘以及温暖平静的海水交织而成的独特景观。这片区域其实是“一体两面”:一边是卡波圣卢卡斯(Cabo San Lucas)光鲜亮丽的码头与夜生活,另一边是圣何塞德尔卡沃(San José del Cabo)悠然静谧的殖民时代风情,二者由度假村林立的海岸地带——“旅游走廊”(Tourist Corridor)串联在一起。",
+      "getting": "几乎所有游客都会飞抵洛斯卡沃斯国际机场(SJD),该机场位于圣何塞德尔卡沃以北,距卡波圣卢卡斯约45分钟车程。由于网约车在机场并不总能可靠接驾,旅客通常会选择预订好的接送班车、持牌出租车或公共巴士,前往圣何塞德尔卡沃、旅游走廊或卡波圣卢卡斯。",
+      "days": "建议安排约4-7天的行程:先在卡波圣卢卡斯的海滩与码头区尽情放松,再探索圣何塞德尔卡沃的画廊街区,同时预留时间参加观鲸之旅或沿海岸线一日游等活动。"
     }
   }
 }

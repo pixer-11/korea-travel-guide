@@ -2,12 +2,12 @@
  "_note": "Per-topic search→post yield, written by scripts/generate.mjs (scripts/lib/topic-yield.mjs). Seeded 2026-08-23 from the 08-17..23 publish/bulk logs; counts halve past 200 so recent runs weigh more.",
  "topics": {
   "local restaurant": {
-   "attempts": 68,
-   "hits": 9
+   "attempts": 82,
+   "hits": 12
   },
   "historic site": {
-   "attempts": 171,
-   "hits": 106
+   "attempts": 172,
+   "hits": 107
   },
   "park": {
    "attempts": 189,
@@ -30,8 +30,8 @@
    "hits": 5
   },
   "museum": {
-   "attempts": 152,
-   "hits": 89
+   "attempts": 161,
+   "hits": 97
   },
   "noodles": {
    "attempts": 50,
@@ -54,20 +54,20 @@
    "hits": 2
   },
   "hidden gem": {
-   "attempts": 83,
-   "hits": 59
+   "attempts": 93,
+   "hits": 64
   },
   "breakfast": {
    "attempts": 44,
    "hits": 2
   },
   "trendy cafe": {
-   "attempts": 104,
+   "attempts": 114,
    "hits": 10
   },
   "street food": {
-   "attempts": 72,
-   "hits": 9
+   "attempts": 93,
+   "hits": 15
   },
   "bakery": {
    "attempts": 37,
@@ -198,5 +198,5 @@
    "hits": 0
   }
  },
- "updated": "2026-10-04T07:52:24.869Z"
+ "updated": "2026-10-04T13:53:51.432Z"
 }
