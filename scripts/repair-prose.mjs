@@ -28,7 +28,7 @@ import { fileURLToPath } from 'node:url';
 import { join } from 'node:path';
 import yaml from 'js-yaml';
 import { srcHashOfPostFile } from './lib/src-hash.mjs';
-import { paragraphDiff, recordRepair, pruneRecords, loadRecords, saveRecords } from './lib/prose-patch.mjs';
+import { paragraphDiff, recordRepair, pruneRecords, loadRecords, saveRecords, cleanRepairOutput } from './lib/prose-patch.mjs';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const AUDIT = fileURLToPath(new URL('../data/full-audit.json', import.meta.url));
@@ -160,6 +160,11 @@ for (const row of rows) {
     console.log('   ⚠️  every flagged span survived unchanged — left alone'); failed++; continue;
   }
   if (stillThere.length) console.log(`   ⚠️  ${stillThere.length} of ${live.length} span(s) unchanged`);
+  // The prompt's own "---" separator came back as the first line once and was
+  // written under the frontmatter (Cactus Valley, 2026-10-03; lib/prose-patch).
+  const cleaned = cleanRepairOutput(out, body);
+  if ('reason' in cleaned) { console.log(`   ⚠️  ${cleaned.reason} — left alone`); failed++; continue; }
+  out = cleaned.out;
 
   if (DRY) { done++; continue; }
   // Keep the frontmatter BYTE-IDENTICAL. Re-dumping it through js-yaml rewrites

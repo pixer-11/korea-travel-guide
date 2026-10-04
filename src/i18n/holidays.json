@@ -3670,5 +3670,47 @@
     "ja": "クリスマス第2祝日",
     "es": "Segundo día de Navidad",
     "zh": "圣诞节第二天"
+  },
+  "Mexico|New Year's Day": {
+    "ko": "신정",
+    "ja": "元日",
+    "es": "Año Nuevo",
+    "zh": "元旦"
+  },
+  "Mexico|Constitution Day": {
+    "ko": "멕시코 헌법 기념일",
+    "ja": "メキシコ憲法記念日",
+    "es": "Día de la Constitución",
+    "zh": "墨西哥宪法日"
+  },
+  "Mexico|Benito Juárez's birthday": {
+    "ko": "베니토 후아레스 탄생일",
+    "ja": "ベニート・フアレス生誕記念日",
+    "es": "Natalicio de Benito Juárez",
+    "zh": "贝尼托·华雷斯诞辰"
+  },
+  "Mexico|Labor Day": {
+    "ko": "노동절",
+    "ja": "メーデー",
+    "es": "Día del Trabajo",
+    "zh": "劳动节"
+  },
+  "Mexico|Independence Day": {
+    "ko": "멕시코 독립기념일",
+    "ja": "メキシコ独立記念日",
+    "es": "Día de la Independencia",
+    "zh": "墨西哥独立日"
+  },
+  "Mexico|Revolution Day": {
+    "ko": "멕시코 혁명 기념일",
+    "ja": "メキシコ革命記念日",
+    "es": "Día de la Revolución",
+    "zh": "墨西哥革命纪念日"
+  },
+  "Mexico|Christmas Day": {
+    "ko": "크리스마스",
+    "ja": "クリスマス",
+    "es": "Navidad",
+    "zh": "圣诞节"
   }
 }

@@ -67,6 +67,7 @@ export const HOME_STRINGS = {
     edLink: 'Editorial policy →',
     aff: 'Affiliate',
     goodChip: 'Great weather month',
+    guideOne: '1 guide',
   },
   ko: {
     metaTitle: 'Wander Atlas — 줄 서지 않는 해외여행 가이드 | 한산한 시간·가기 좋은 달·일정',
@@ -127,6 +128,7 @@ export const HOME_STRINGS = {
     edLink: '편집 원칙 →',
     aff: '제휴',
     goodChip: '날씨 좋은 달',
+    guideOne: '가이드 1개',
   },
   ja: {
     metaTitle: 'Wander Atlas — 並ばない海外旅行ガイド｜空いている時間・ベストシーズン・モデルコース',
@@ -187,6 +189,7 @@ export const HOME_STRINGS = {
     edLink: '編集方針 →',
     aff: 'アフィリエイト',
     goodChip: '天気のよい月',
+    guideOne: 'ガイド1件',
   },
   es: {
     metaTitle: 'Wander Atlas — Guías de viaje con horas tranquilas, mejores meses e itinerarios',
@@ -247,6 +250,7 @@ export const HOME_STRINGS = {
     edLink: 'Política editorial →',
     aff: 'Afiliado',
     goodChip: 'Mes de buen tiempo',
+    guideOne: '1 guía',
   },
   zh: {
     metaTitle: 'Wander Atlas — 不排队的旅行指南｜人少时段、最佳月份与行程',
@@ -307,6 +311,7 @@ export const HOME_STRINGS = {
     edLink: '编辑原则 →',
     aff: '联盟链接',
     goodChip: '天气好的月份',
+    guideOne: '1篇指南',
   },
 } as const;
 

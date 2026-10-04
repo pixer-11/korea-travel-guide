@@ -113,3 +113,14 @@ test('the patch prompt carries both sides of the change and the whole translatio
   assert.match(p, /AS THEY WERE[\s\S]*Old EN\.[\s\S]*AS THEY ARE NOW[\s\S]*New EN\.[\s\S]*CURRENT KOREAN TEXT\n현재 번역 본문$/);
   assert.match(p, /empty edit list/);
 });
+
+test('cleanRepairOutput strips the echoed prompt separator and refuses new fences', async () => {
+  const { cleanRepairOutput } = await import('./prose-patch.mjs');
+  const body = '## Why go\n\nText here.\n\n---\n\nMore.';
+  // The 2026-10-03 shape: the separator echoed as the first line.
+  assert.deepEqual(cleanRepairOutput('---\n## Why go\n\nText here.\n\n---\n\nMore.', body), { out: '## Why go\n\nText here.\n\n---\n\nMore.' });
+  // A fence the article already had is kept.
+  assert.deepEqual(cleanRepairOutput(body, body), { out: body });
+  // A new one anywhere else is refused.
+  assert.ok('reason' in cleanRepairOutput('## Why go\n---\nText here.\n\n---\n\nMore.', body));
+});

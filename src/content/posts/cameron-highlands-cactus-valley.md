@@ -69,7 +69,7 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-30'
 ---
----
+
 ## Why Cactus Valley is worth the stop
 
 You spot it before you arrive: a hillside stacked with terraces, spiky silhouettes catching the Cameron Highlands light. This isn't a manicured botanical park. It's a working nursery-turned-attraction, and it feels that way the moment you step in.

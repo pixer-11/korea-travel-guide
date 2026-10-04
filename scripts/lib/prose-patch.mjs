@@ -177,3 +177,24 @@ RULES
 CURRENT ${langName.toUpperCase()} TEXT
 ${translationBody}`;
 }
+
+/**
+ * Tidy a repaired body the model handed back, or refuse it.
+ *
+ * repair-prose.mjs puts a `---` line between its instructions and the body,
+ * and on 2026-10-03 the model echoed that separator as the first line of its
+ * answer. The repair wrote it straight under the frontmatter, so the post had
+ * `---` twice in a row — a horizontal rule on the live page, a file the
+ * frontmatter writers could no longer re-read (check-writer-safety stopped CI),
+ * and a recorded patch that would have carried the stray line into all four
+ * translations. A leading echo is stripped; any OTHER bare `---` line the
+ * original body did not have is a reason to leave the post alone.
+ *
+ * @returns {{ out: string } | { reason: string }}
+ */
+export function cleanRepairOutput(out, body) {
+  const fences = (s) => (String(s).match(/^-{3,}[ \t]*$/gm) || []).length;
+  let text = String(out ?? '').replace(/^\s*-{3,}[ \t]*\r?\n/, '');
+  if (fences(text) > fences(body)) return { reason: 'the rewrite added a bare "---" line the article never had' };
+  return { out: text };
+}

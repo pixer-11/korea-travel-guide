@@ -1,7 +1,7 @@
 ---
 import TypesetPlate from './TypesetPlate.astro';
 import { getCollection } from 'astro:content';
-import { quietDayGroups } from '../lib/busyness.mjs';
+import { busynessDayGroups, dayGroupText } from '../lib/busyness.mjs';
 import { pickFeatured } from '../lib/featuredItineraries.mjs';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from './PostCard.astro';
@@ -299,15 +299,26 @@ const affinityPool = crowdDemoPool.filter((p) => (demoAffinity[lang] ?? []).incl
 const demoPickPool = affinityPool.length ? affinityPool : crowdDemoPool;
 const crowdDemo = demoPickPool.length ? demoPickPool[isoWeek(today) % demoPickPool.length] : null;
 const demoHours = Array.from({ length: 16 }, (_, i) => i + 7);
-const demoCells = crowdDemo
+// One bar per group of days that agree on EVERY cell (busynessDayGroups — the
+// tool's own hour-bar grouping). The first version drew quietDayGroups' biggest
+// group, which narrows busy hours to what all its days share, so a group that
+// took in Sunday painted Sunday's crowded noon "normal" (Codex, live, 10-04:
+// Ikuta Shrine 12:00, Wolmi 16:00) — and the "now" mark then pointed at it.
+// The script shows the group holding the venue's local weekday.
+const cellsOf = (q: Set<number>, busy: Set<number>) => demoHours.map((h) => (busy.has(h) ? 'busy' : q.has(h) ? 'quiet' : 'mid'));
+const demoGroups = crowdDemo
   ? (() => {
       const b = crowdDemo.data.place!.busyness!;
-      // One group of days that agree, never a union of the two buckets.
-      const groups = quietDayGroups(b, crowdDemo.data.place?.openingHours);
-      const g = groups?.[0];
-      const q = new Set(groups ? (g?.quiet ?? []) : [...(b.weekdayQuiet ?? []), ...(b.weekendQuiet ?? [])]);
-      const busy = new Set(groups ? (g?.busy ?? []) : (b.weekendBusy ?? []));
-      return demoHours.map((h) => (busy.has(h) ? 'busy' : q.has(h) ? 'quiet' : 'mid'));
+      const groups = busynessDayGroups(b, crowdDemo.data.place?.openingHours);
+      if (groups?.length) {
+        return groups.map((g: any) => ({ days: g.days as string[], label: dayGroupText(g.days, t), cells: cellsOf(new Set(g.quiet), new Set(g.busy)) }));
+      }
+      // No readable opening hours: the stored weekday / weekend split as is.
+      const wk = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'];
+      return [
+        { days: wk, label: t('post.weekdays'), cells: cellsOf(new Set(b.weekdayQuiet ?? []), new Set((b as any).weekdayBusy ?? [])) },
+        { days: ['Saturday', 'Sunday'], label: t('post.weekends'), cells: cellsOf(new Set(b.weekendQuiet ?? []), new Set(b.weekendBusy ?? [])) },
+      ];
     })()
   : [];
 // 24-hour labels read the same in all five languages (they were a hard-coded
@@ -382,9 +393,9 @@ const editorCountries = EDITOR_VISITED.filter((v) => !v.region).length;
 
       <div class="hv3-card" data-hero>
         <div class="hv3-tabs" role="tablist">
-          <button type="button" role="tab" id="hv3-t0" aria-controls="hv3-p0" aria-selected="true" data-tab="0">{H('tabWhere')}</button>
-          <button type="button" role="tab" id="hv3-t1" aria-controls="hv3-p1" aria-selected="false" data-tab="1">{H('tabDecided')}</button>
-          <button type="button" role="tab" id="hv3-t2" aria-controls="hv3-p2" aria-selected="false" data-tab="2">{H('tabTrip')}</button>
+          <button type="button" role="tab" id="hv3-t0" aria-controls="hv3-p0" aria-selected="true" tabindex="0" data-tab="0">{H('tabWhere')}</button>
+          <button type="button" role="tab" id="hv3-t1" aria-controls="hv3-p1" aria-selected="false" tabindex="-1" data-tab="1">{H('tabDecided')}</button>
+          <button type="button" role="tab" id="hv3-t2" aria-controls="hv3-p2" aria-selected="false" tabindex="-1" data-tab="2">{H('tabTrip')}</button>
         </div>
 
         {/* Every panel is in the HTML (crawlable links); the script only toggles. */}
@@ -511,7 +522,7 @@ const editorCountries = EDITOR_VISITED.filter((v) => !v.region).length;
               <span class="kicker gold">{fmtEventDates(p)}</span>
               <h3>{lang === 'en' ? eventSchemaName(p.data.title) : card.title(p.id, p.data.title)}</h3>
               <p class="story-meta">
-                {localizePlace(p.data.region, lang)} · {localizePlace(countryOf(p), lang)} · {t('home.monthly.guides').replace('{n}', String(guidesIn(p.data.region)))}
+                {localizePlace(p.data.region, lang)} · {localizePlace(countryOf(p), lang)} · {guidesIn(p.data.region) === 1 ? H('guideOne') : t('home.monthly.guides').replace('{n}', String(guidesIn(p.data.region)))}
               </p>
               {editorHasTraveled(p.data.country, p.data.region) && (
                 <p class="story-meta editor-traveled">{t('home.monthly.visited')}</p>
@@ -578,7 +589,12 @@ const editorCountries = EDITOR_VISITED.filter((v) => !v.region).length;
                     <b>{localizeVenue(crowdDemo.data.place?.name ?? '', lang) || crowdDemo.data.place?.name}</b>
                     <span>{t('home.crowd.panelMeta')}</span>
                   </div>
-                  <div class="crowd-demo-bar">{demoCells.map((c, i) => <i class={c} data-h={demoHours[i]}></i>)}</div>
+                  {demoGroups.map((g, gi) => (
+                    <div class="crowd-day" data-days={g.days.join(',')} hidden={gi > 0}>
+                      <p class="crowd-days">{g.label}</p>
+                      <div class="crowd-demo-bar">{g.cells.map((c, i) => <i class={c} data-h={demoHours[i]}></i>)}</div>
+                    </div>
+                  ))}
                   <div class="crowd-demo-lab"><span>{hourLabel(7)}</span><span>{hourLabel(14)}</span><span>{hourLabel(22)}</span></div>
                   <p class="crowd-now" data-crowd-now hidden></p>
                   <div class="crowd-legend">
@@ -721,7 +737,8 @@ const editorCountries = EDITOR_VISITED.filter((v) => !v.region).length;
       const tabs = [...hero.querySelectorAll<HTMLButtonElement>('[data-tab]')];
       const panels = [...hero.querySelectorAll<HTMLElement>('[data-panel]')];
       const showTab = (i: string) => {
-        for (const b of tabs) b.setAttribute('aria-selected', String(b.dataset.tab === i));
+        // Roving tab stop: Tab reaches the selected tab only, arrows move (Codex, 10-04).
+        for (const b of tabs) { const on = b.dataset.tab === i; b.setAttribute('aria-selected', String(on)); b.tabIndex = on ? 0 : -1; }
         for (const p of panels) p.classList.toggle('is-off', p.dataset.panel !== i);
       };
       tabs.forEach((b, k) => {
@@ -823,9 +840,16 @@ const editorCountries = EDITOR_VISITED.filter((v) => !v.region).length;
     const crowd = document.querySelector<HTMLElement>('[data-crowd-tz]');
     if (crowd?.dataset.crowdTz) {
       const tz = crowd.dataset.crowdTz;
-      const parts = new Intl.DateTimeFormat('en-US', { hour: 'numeric', hourCycle: 'h23', timeZone: tz }).formatToParts(new Date());
+      const parts = new Intl.DateTimeFormat('en-US', { hour: 'numeric', hourCycle: 'h23', weekday: 'long', timeZone: tz }).formatToParts(new Date());
       const hour = Number(parts.find((p) => p.type === 'hour')?.value);
-      crowd.querySelector(`.crowd-demo-bar i[data-h="${hour}"]`)?.classList.add('now');
+      const weekday = parts.find((p) => p.type === 'weekday')?.value || '';
+      // The bar for the venue's own today; "now" only on a bar that is about today.
+      const days = [...crowd.querySelectorAll<HTMLElement>('.crowd-day')];
+      const today = days.find((d) => (d.dataset.days || '').split(',').includes(weekday));
+      if (today) {
+        for (const d of days) d.hidden = d !== today;
+        today.querySelector(`.crowd-demo-bar i[data-h="${hour}"]`)?.classList.add('now');
+      }
       const out = crowd.querySelector<HTMLElement>('[data-crowd-now]');
       if (out) {
         const time = new Intl.DateTimeFormat(document.documentElement.lang || undefined, { hour: 'numeric', minute: '2-digit', timeZone: tz }).format(new Date());
@@ -981,6 +1005,8 @@ const editorCountries = EDITOR_VISITED.filter((v) => !v.region).length;
 
   .crowd-demo-bar :global(i.now) { outline: 2px solid #fff; outline-offset: 1px; }
   .crowd-now { margin: 0.5rem 0 0; font-size: 0.82rem; font-weight: 700; }
+  .crowd-day[hidden] { display: none; }
+  .crowd-days { margin: 0 0 0.4rem; font-size: 0.74rem; font-weight: 700; color: #f1c877; }
 
   @media (min-width: 1000px) {
     .hv3-inner { grid-template-columns: minmax(0, 580px); }

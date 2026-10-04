@@ -2104,7 +2104,7 @@ export const ui = {
     'home.trustBar': 'Guías detalladas de {n} países · actualizadas a diario · datos verificados en tiempo real',
     'top.readIn': 'Leer en',
     'top.lastCheck': 'Datos verificados en tiempo real',
-    'home.newsletterKicker': 'newsletter',
+    'home.newsletterKicker': '· boletín semanal',
     'home.newsletterTitle': 'Una guía de viaje realmente útil, cada semana.',
     'home.newsletterDek': 'Nuevos destinos, itinerarios como los de un local y los detalles prácticos que salvan un viaje. Sin spam: cancela cuando quieras.',
     'home.subscribe': 'Quiero guías gratis',

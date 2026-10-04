@@ -69,8 +69,12 @@ test('a slug under the give-up threshold is searched every night', () => {
 
 test('a slug that has exhausted its attempts is skipped', () => {
   // 19 and 41 are the two real ones that kept spending budget every night.
-  assert.equal(isPausedTonight(19), true);
-  assert.equal(isPausedTonight(41), true);
+  // A fixed night that is not the slug's recheck night: on the clock, an empty
+  // slug's recheck falls one UTC day in thirty, and the test failed on exactly
+  // those days (2026-10-04).
+  const notRecheck = new Date('2026-10-05T12:00:00Z');
+  assert.equal(isPausedTonight(19, '', notRecheck), true);
+  assert.equal(isPausedTonight(41, '', notRecheck), true);
 });
 
 test('a paused slug does come back — the calendar moves even when it is not searched', () => {
