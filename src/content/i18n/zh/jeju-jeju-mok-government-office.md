@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: jeju-jeju-mok-government-office
-srcHash: '176fe2f96c4e'
+srcHash: '6cf504cb67e8'
 title: 济州牧官衙旅游攻略（4.3★）
-description: 济州牧官衙位于济州旧城区的13 Gwandeok-ro 7-gil，步行不远即到东门市场。评分4.3★（1,657条评价），为你整理游客口碑、开放时间和游览建议。
+description: 济州牧官衙位于济州旧城区的13 Gwandeok-ro 7-gil，步行不远即到东门市场。评分4.3★（1,660条评价），为你整理游客口碑、开放时间和游览建议。
 quickAnswer: 济州牧官衙位于济州旧城区的13 Gwandeok-ro 7-gil，步行不远即到东门市场。朝鲜王朝时期，派驻济州的地方长官就在这座官署里治理全岛，如今看到的是重建后的建筑群，每天9am至6pm开放。工作日建议9am到10am之间前往；周末10am–1pm人最多，最好9am一开门就进场。游览约需1小时，另外留些时间看看门前的观德亭。
 faq:
   - q: 什么时候去济州牧官衙人最少？

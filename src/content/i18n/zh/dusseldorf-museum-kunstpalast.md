@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: dusseldorf-museum-kunstpalast
-srcHash: '1265f7609c5a'
+srcHash: 'a610e97b1dc2'
 title: 杜塞尔多夫艺术宫博物馆（Museum Kunstpalast）旅行指南（4.6★）
-description: 艺术宫博物馆位于杜塞尔多夫彭佩尔福特区的Ehrenhof 4-5，紧邻莱茵河，从老城往北步行片刻即到。评分4.6★（5,770条评价），本文汇总游客评价、开放时间与参观建议。
+description: 艺术宫博物馆位于杜塞尔多夫彭佩尔福特区的Ehrenhof 4-5，紧邻莱茵河，从老城往北步行片刻即到。评分4.6★（5,775条评价），本文汇总游客评价、开放时间与参观建议。
 quickAnswer: 艺术宫博物馆（Museum Kunstpalast）坐落在杜塞尔多夫彭佩尔福特区（Pempelfort）的Ehrenhof 4-5，就在莱茵河畔，从老城（Altstadt）往北走几步就到。馆藏上起鲁本斯，下至“零派”（ZERO）艺术家，另有一批规模可观的玻璃藏品。博物馆周二至周日开放，周一闭馆。最推荐周四晚上去：当天开到晚上9点，而18:00–19:00又是工作日里人最少的时段。周末12:00–18:00则最好避开。
 faq:
   - q: 什么时候去艺术宫博物馆人最少？

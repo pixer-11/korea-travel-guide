@@ -1,45 +1,54 @@
 ---
-title: "Residenzschloss: Dresden Travel Guide (4.7★)"
-description: "The Residenzschloss in Dresden is the rebuilt royal palace at Taschenberg 2 in the Altstadt, home to the Green Vault treasuries, the Armoury, the Turkish Chamber and the Coin Cabinet. 4.7★ (13,219 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Dresden"
-category: "attraction"
-pubDate: "2026-10-04T07:38:06.151Z"
+title: 'Residenzschloss: Dresden Travel Guide (4.7★)'
+description: >-
+  The Residenzschloss in Dresden is the rebuilt royal palace at Taschenberg 2 in
+  the Altstadt, home to the Green Vault treasuries, the Armoury, the Turkish
+  Chamber and the Coin Cabinet. 4.7★ (13,220 reviews) — what visitors say,
+  hours, and tips.
+country: Germany
+region: Dresden
+category: attraction
+pubDate: '2026-10-04T07:38:06.151Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dresden_Germany_Residenzschloss_Dresden-01.jpg/3840px-Dresden_Germany_Residenzschloss_Dresden-01.jpg"
-  credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Dresden_Germany_Residenzschloss_Dresden-01.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dresden_Germany_Residenzschloss_Dresden-01.jpg/3840px-Dresden_Germany_Residenzschloss_Dresden-01.jpg
+  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Dresden_Germany_Residenzschloss_Dresden-01.jpg
+  via: act
   focus:
     x: 40
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Dresden_Germany_Residenzschloss_Dresden-02.jpg/3840px-Dresden_Germany_Residenzschloss_Dresden-02.jpg"
-    credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Dresden_Germany_Residenzschloss_Dresden-02.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Dresden_Germany_Residenzschloss_Dresden-02.jpg/3840px-Dresden_Germany_Residenzschloss_Dresden-02.jpg
+    credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Dresden_Germany_Residenzschloss_Dresden-02.jpg
 place:
-  id: "ChIJIST52ULPCUcRlzSeg5cFSPc"
-  name: "Residenzschloss"
-  address: "Taschenberg 2, 01067 Dresden, Germany"
+  id: ChIJIST52ULPCUcRlzSeg5cFSPc
+  name: Residenzschloss
+  address: 'Taschenberg 2, 01067 Dresden, Germany'
   rating: 4.7
-  userRatingsTotal: 13219
-  googleMapsUrl: "https://maps.google.com/?cid=17818498073997751447&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 13220
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17818498073997751447&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.0524975
   lng: 13.7366604
-  phone: "+49 351 49142000"
+  phone: +49 351 49142000
   openingHours:
-    - "Monday: 10:00 AM – 5:00 PM"
-    - "Tuesday: Closed"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: 10:00 AM – 5:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-10-04
+    updated: 2026-10-04T00:00:00.000Z
     weekdayBusy:
       - 12
       - 13
@@ -51,24 +60,46 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_6350534663356765537a6c52635543504c5532355453494a496843"
+    venueId: ven_6350534663356765537a6c52635543504c5532355453494a496843
 tags:
-  - "dresden"
-  - "historic site"
-quickAnswer: "The Residenzschloss in Dresden is the rebuilt royal palace at Taschenberg 2 in the Altstadt, home to the Green Vault treasuries, the Armoury, the Turkish Chamber and the Coin Cabinet. It opens 10am to 5pm every day except Tuesday, when it is closed. Weekends are busy from 11am to 5pm, so arrive at the 10am opening and book your Historic Green Vault time slot in advance."
+  - dresden
+  - historic site
+quickAnswer: >-
+  The Residenzschloss in Dresden is the rebuilt royal palace at Taschenberg 2 in
+  the Altstadt, home to the Green Vault treasuries, the Armoury, the Turkish
+  Chamber and the Coin Cabinet. It opens 10am to 5pm every day except Tuesday,
+  when it is closed. Weekends are busy from 11am to 5pm, so arrive at the 10am
+  opening and book your Historic Green Vault time slot in advance.
 faq:
-  - q: "When is the quietest time to visit the Residenzschloss?"
-    a: "Weekends are busy from 11am to 5pm, essentially the whole day after the doors open. Your best weekend window is right at the 10am opening. Visiting on a weekday is a good way to avoid the weekend crowds altogether."
-  - q: "Is the Residenzschloss open every day?"
-    a: "No. It is closed on Tuesdays. Monday and Wednesday through Sunday it opens 10am to 5pm."
-  - q: "Do I need to book the Historic Green Vault in advance?"
-    a: "Yes, if you can. Entry runs on timed slots for a limited number of visitors, and popular times sell out, especially on weekends. Book through the Staatliche Kunstsammlungen Dresden (SKD) website, which also lists current prices."
-  - q: "How long should I spend at the Residenzschloss?"
-    a: "Allow two to three hours for one Green Vault plus the Armoury and Turkish Chamber. Seeing every collection properly takes a full day."
-  - q: "What else is nearby?"
-    a: "The Zwinger, the Semperoper, the Hofkirche and the Taschenbergpalais are all next to the palace. The Fürstenzug porcelain mural is on Augustusstraße, and the Frauenkirche and Brühl Terrace are a few minutes' walk away."
+  - q: When is the quietest time to visit the Residenzschloss?
+    a: >-
+      Weekends are busy from 11am to 5pm, essentially the whole day after the
+      doors open. Your best weekend window is right at the 10am opening.
+      Visiting on a weekday is a good way to avoid the weekend crowds
+      altogether.
+  - q: Is the Residenzschloss open every day?
+    a: >-
+      No. It is closed on Tuesdays. Monday and Wednesday through Sunday it opens
+      10am to 5pm.
+  - q: Do I need to book the Historic Green Vault in advance?
+    a: >-
+      Yes, if you can. Entry runs on timed slots for a limited number of
+      visitors, and popular times sell out, especially on weekends. Book through
+      the Staatliche Kunstsammlungen Dresden (SKD) website, which also lists
+      current prices.
+  - q: How long should I spend at the Residenzschloss?
+    a: >-
+      Allow two to three hours for one Green Vault plus the Armoury and Turkish
+      Chamber. Seeing every collection properly takes a full day.
+  - q: What else is nearby?
+    a: >-
+      The Zwinger, the Semperoper, the Hofkirche and the Taschenbergpalais are
+      all next to the palace. The Fürstenzug porcelain mural is on
+      Augustusstraße, and the Frauenkirche and Brühl Terrace are a few minutes'
+      walk away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-04'
 ---
 
 Look up from the Small Palace Courtyard and you see a lattice of steel and translucent cushions where the sky used to be. That roof is the domed courtyard people photograph. It is also the hinge of the whole building: ticket desks, cloakroom and the doors to a dozen collections all open off it.

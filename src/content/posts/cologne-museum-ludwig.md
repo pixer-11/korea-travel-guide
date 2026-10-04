@@ -1,44 +1,50 @@
 ---
-title: "Museum Ludwig: Cologne Travel Guide (4.5★)"
-description: "Museum Ludwig sits on Heinrich-Böll-Platz in central Cologne, a two-minute walk from Cologne Cathedral and Köln Hauptbahnhof. 4.5★ (9,624 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Cologne"
-category: "attraction"
-pubDate: "2026-10-04T13:32:42.360Z"
+title: 'Museum Ludwig: Cologne Travel Guide (4.5★)'
+description: >-
+  Museum Ludwig sits on Heinrich-Böll-Platz in central Cologne, a two-minute
+  walk from Cologne Cathedral and Köln Hauptbahnhof. 4.5★ (9,626 reviews) — what
+  visitors say, hours, and tips.
+country: Germany
+region: Cologne
+category: attraction
+pubDate: '2026-10-04T13:32:42.360Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/3/3d/Museum_Ludwig_002.jpg"
-  credit: "Photo: Thomas Robbin / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Museum_Ludwig_002.jpg"
+  url: 'https://upload.wikimedia.org/wikipedia/commons/3/3d/Museum_Ludwig_002.jpg'
+  credit: 'Photo: Thomas Robbin / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Museum_Ludwig_002.jpg'
   focus:
     x: 40
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Cologne_Germany_Roofs-of-Museum-Ludwig-01.jpg/3840px-Cologne_Germany_Roofs-of-Museum-Ludwig-01.jpg"
-    credit: "Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Cologne_Germany_Roofs-of-Museum-Ludwig-01.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Cologne_Germany_Roofs-of-Museum-Ludwig-01.jpg/3840px-Cologne_Germany_Roofs-of-Museum-Ludwig-01.jpg
+    credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Cologne_Germany_Roofs-of-Museum-Ludwig-01.jpg
 place:
-  id: "ChIJ866Zebolv0cR77jicke19Po"
-  name: "Museum Ludwig"
-  address: "Heinrich-Böll-Platz, 50667 Köln, Germany"
+  id: ChIJ866Zebolv0cR77jicke19Po
+  name: Museum Ludwig
+  address: 'Heinrich-Böll-Platz, 50667 Köln, Germany'
   rating: 4.5
-  userRatingsTotal: 9624
-  googleMapsUrl: "https://maps.google.com/?cid=18083277722274150639&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 9626
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=18083277722274150639&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 50.940854
   lng: 6.960230999999999
-  phone: "+49 221 22126165"
+  phone: +49 221 22126165
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 6:00 PM"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-10-04
+    updated: 2026-10-04T00:00:00.000Z
     weekdayBusy:
       - 13
       - 14
@@ -51,24 +57,44 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_6f503931656b63696a3737526330766c6f62655a3636384a496843"
+    venueId: ven_6f503931656b63696a3737526330766c6f62655a3636384a496843
 tags:
-  - "cologne"
-  - "museum"
-quickAnswer: "Museum Ludwig sits on Heinrich-Böll-Platz in central Cologne, a two-minute walk from Cologne Cathedral and Köln Hauptbahnhof. It holds Peter Ludwig's former private collection: Pop Art, the Russian avant-garde and one of Europe's largest Picasso holdings. It's open Tuesday to Sunday, 10am to 6pm, and closed Mondays. Weekends are busy for the whole 10am–6pm day, so come on a weekday if you can."
+  - cologne
+  - museum
+quickAnswer: >-
+  Museum Ludwig sits on Heinrich-Böll-Platz in central Cologne, a two-minute
+  walk from Cologne Cathedral and Köln Hauptbahnhof. It holds Peter Ludwig's
+  former private collection: Pop Art, the Russian avant-garde and one of
+  Europe's largest Picasso holdings. It's open Tuesday to Sunday, 10am to 6pm,
+  and closed Mondays. Weekends are busy for the whole 10am–6pm day, so come on a
+  weekday if you can.
 faq:
-  - q: "When is the quietest time to visit Museum Ludwig?"
-    a: "Avoid weekends. Our crowd data shows Saturdays and Sundays are busy for the whole 10am–6pm opening day. Weekdays weren't measured, but Tuesday to Friday is the obvious alternative. The museum is closed on Mondays."
-  - q: "What are Museum Ludwig's opening hours?"
-    a: "Tuesday to Sunday, 10am to 6pm. It's closed every Monday."
-  - q: "How do I get to Museum Ludwig from Cologne's main station?"
-    a: "Walk. Leave Köln Hauptbahnhof on the cathedral side, cross the Dom forecourt and go around the cathedral's south side. The museum is on Heinrich-Böll-Platz, about five minutes away. The U-Bahn and tram stop is Dom/Hbf."
-  - q: "How long should I spend inside?"
-    a: "Allow two to three hours for the permanent collection: Picasso, Pop Art, the Russian avant-garde and German Expressionism. Add more time if a large temporary exhibition is on."
-  - q: "What else is nearby?"
-    a: "Cologne Cathedral, the Römisch-Germanisches Museum, the Hohenzollern Bridge and the Rheingarten riverside promenade are all within a few minutes' walk."
+  - q: When is the quietest time to visit Museum Ludwig?
+    a: >-
+      Avoid weekends. Our crowd data shows Saturdays and Sundays are busy for
+      the whole 10am–6pm opening day. Weekdays weren't measured, but Tuesday to
+      Friday is the obvious alternative. The museum is closed on Mondays.
+  - q: What are Museum Ludwig's opening hours?
+    a: 'Tuesday to Sunday, 10am to 6pm. It''s closed every Monday.'
+  - q: How do I get to Museum Ludwig from Cologne's main station?
+    a: >-
+      Walk. Leave Köln Hauptbahnhof on the cathedral side, cross the Dom
+      forecourt and go around the cathedral's south side. The museum is on
+      Heinrich-Böll-Platz, about five minutes away. The U-Bahn and tram stop is
+      Dom/Hbf.
+  - q: How long should I spend inside?
+    a: >-
+      Allow two to three hours for the permanent collection: Picasso, Pop Art,
+      the Russian avant-garde and German Expressionism. Add more time if a large
+      temporary exhibition is on.
+  - q: What else is nearby?
+    a: >-
+      Cologne Cathedral, the Römisch-Germanisches Museum, the Hohenzollern
+      Bridge and the Rheingarten riverside promenade are all within a few
+      minutes' walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-04'
 ---
 
 ## Between the cathedral and the river

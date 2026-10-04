@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: hobart-salamanca-market
-srcHash: '573faf22775a'
+srcHash: 'ba75599a07b6'
 title: 霍巴特萨拉曼卡市集旅行指南（4.5★）
-description: 萨拉曼卡市集（Salamanca Market）位于霍巴特萨拉曼卡广场，每周六8:30am至3pm开市，其余日子一律休市。4.5★（13,597条评价），游客口碑、开放时间和实用贴士都在这里。
+description: 萨拉曼卡市集（Salamanca Market）位于霍巴特萨拉曼卡广场，每周六8:30am至3pm开市，其余日子一律休市。4.5★（13,600条评价），游客口碑、开放时间和实用贴士都在这里。
 quickAnswer: 萨拉曼卡市集只在每周六开市，地点在霍巴特的萨拉曼卡广场（Salamanca Place），时间为8:30am至3pm，其余日子都不营业。想逛得宽松、农产品挑得齐全，最好在8:30am前后到场。整个市集建议预留两到三个小时，逛完可以沿凯利台阶走上炮台角。
 faq:
   - q: 萨拉曼卡市集哪几天开放？

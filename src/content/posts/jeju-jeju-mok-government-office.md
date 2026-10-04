@@ -1,40 +1,46 @@
 ---
-title: "Jeju-mok Government Office: Travel Guide (4.3★)"
-description: "The Jeju-mok Government Office sits at 13 Gwandeok-ro 7-gil in old Jeju City, a short walk from Dongmun Market. 4.3★ (1,657 reviews) — what visitors say, hours, and tips."
-country: "South Korea"
-region: "Jeju"
-category: "hidden-gem"
-pubDate: "2026-09-29T07:47:25.121Z"
+title: 'Jeju-mok Government Office: Travel Guide (4.3★)'
+description: >-
+  The Jeju-mok Government Office sits at 13 Gwandeok-ro 7-gil in old Jeju City,
+  a short walk from Dongmun Market. 4.3★ (1,660 reviews) — what visitors say,
+  hours, and tips.
+country: South Korea
+region: Jeju
+category: hidden-gem
+pubDate: '2026-09-29T07:47:25.121Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/%EC%A0%9C%EC%A3%BC%EB%AA%A9_%EA%B4%80%EC%95%84_%EC%A0%84%EA%B2%BD.jpg/1920px-%EC%A0%9C%EC%A3%BC%EB%AA%A9_%EA%B4%80%EC%95%84_%EC%A0%84%EA%B2%BD.jpg"
-  credit: "Photo: 한국학중앙연구원 / Wikimedia Commons (KOGL Type 1)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:%EC%A0%9C%EC%A3%BC%EB%AA%A9_%EA%B4%80%EC%95%84_%EC%A0%84%EA%B2%BD.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/%EC%A0%9C%EC%A3%BC%EB%AA%A9_%EA%B4%80%EC%95%84_%EC%A0%84%EA%B2%BD.jpg/1920px-%EC%A0%9C%EC%A3%BC%EB%AA%A9_%EA%B4%80%EC%95%84_%EC%A0%84%EA%B2%BD.jpg
+  credit: 'Photo: 한국학중앙연구원 / Wikimedia Commons (KOGL Type 1)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:%EC%A0%9C%EC%A3%BC%EB%AA%A9_%EA%B4%80%EC%95%84_%EC%A0%84%EA%B2%BD.jpg
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJK1UCDqrkDDURwsYol08j-xY"
-  name: "Jeju-mok Government Office"
-  address: "13 Gwandeok-ro 7-gil, Cheju, Jeju-do, South Korea"
+  id: ChIJK1UCDqrkDDURwsYol08j-xY
+  name: Jeju-mok Government Office
+  address: '13 Gwandeok-ro 7-gil, Cheju, Jeju-do, South Korea'
   rating: 4.3
-  userRatingsTotal: 1657
-  googleMapsUrl: "https://maps.google.com/?cid=1655956112734209730&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1660
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1655956112734209730&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 33.513622999999995
   lng: 126.5220324
-  phone: "+82 64-710-6717"
+  phone: +82 64-710-6717
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-09-29
+    updated: 2026-09-29T00:00:00.000Z
     weekdayQuiet:
       - 9
     weekendQuiet:
@@ -45,24 +51,45 @@ place:
       - 10
       - 11
       - 12
-    venueId: "ven_59782d6a38306c6f597377525544446b7271444355314b4a496843"
+    venueId: ven_59782d6a38306c6f597377525544446b7271444355314b4a496843
 tags:
-  - "jeju"
-  - "old quarter"
-quickAnswer: "The Jeju-mok Government Office sits at 13 Gwandeok-ro 7-gil in old Jeju City, a short walk from Dongmun Market. It is the rebuilt compound where Joseon-era governors ran the island, open daily 9am to 6pm. Come between 9am and 10am on weekdays, or right at 9am on weekends before the 10am–1pm crowd, and allow about an hour, plus time for Gwandeokjeong Pavilion out front."
+  - jeju
+  - old quarter
+quickAnswer: >-
+  The Jeju-mok Government Office sits at 13 Gwandeok-ro 7-gil in old Jeju City,
+  a short walk from Dongmun Market. It is the rebuilt compound where Joseon-era
+  governors ran the island, open daily 9am to 6pm. Come between 9am and 10am on
+  weekdays, or right at 9am on weekends before the 10am–1pm crowd, and allow
+  about an hour, plus time for Gwandeokjeong Pavilion out front.
 faq:
-  - q: "When is the quietest time to visit the Jeju-mok Government Office?"
-    a: "On weekdays it is quietest from 9am to 10am. On weekends the calmer window is 9am to 12pm, but 10am to 1pm is the busiest stretch, so arrive right at the 9am opening."
-  - q: "What are the opening hours, and is it closed on any day?"
-    a: "It opens daily from 9am to 6pm, Monday through Sunday, with no weekly closing day. Aim to arrive by around 5pm so you have time to walk the whole compound."
-  - q: "How long should I spend there?"
-    a: "About an hour covers the gates, courtyards, main halls and Mangyeongru pavilion at an easy pace. Add 15 minutes for Gwandeokjeong Pavilion on the square in front."
-  - q: "How do I get there from Jeju Airport?"
-    a: "It is a short taxi ride to the old centre of Jeju City. Show the driver \"제주목 관아\". City buses also stop at the Gwandeokjeong stop in front of the square."
-  - q: "What else is nearby?"
-    a: "Gwandeokjeong Pavilion stands right at the entrance, and Dongmun Market is roughly a ten-minute walk away. Samseonghyeol shrine and Yongduam Rock are both a short taxi ride away."
+  - q: When is the quietest time to visit the Jeju-mok Government Office?
+    a: >-
+      On weekdays it is quietest from 9am to 10am. On weekends the calmer window
+      is 9am to 12pm, but 10am to 1pm is the busiest stretch, so arrive right at
+      the 9am opening.
+  - q: 'What are the opening hours, and is it closed on any day?'
+    a: >-
+      It opens daily from 9am to 6pm, Monday through Sunday, with no weekly
+      closing day. Aim to arrive by around 5pm so you have time to walk the
+      whole compound.
+  - q: How long should I spend there?
+    a: >-
+      About an hour covers the gates, courtyards, main halls and Mangyeongru
+      pavilion at an easy pace. Add 15 minutes for Gwandeokjeong Pavilion on the
+      square in front.
+  - q: How do I get there from Jeju Airport?
+    a: >-
+      It is a short taxi ride to the old centre of Jeju City. Show the driver
+      "제주목 관아". City buses also stop at the Gwandeokjeong stop in front of the
+      square.
+  - q: What else is nearby?
+    a: >-
+      Gwandeokjeong Pavilion stands right at the entrance, and Dongmun Market is
+      roughly a ten-minute walk away. Samseonghyeol shrine and Yongduam Rock are
+      both a short taxi ride away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-04'
 ---
 
 For about five centuries, Jeju was governed from this walled compound. The island's *moksa*, the governor sent from the mainland, held court here, received orders and passed judgement. What you walk through today is a reconstruction. It was built after archaeologists dug the site back out of the modern city and matched it against the original plans.

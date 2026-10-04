@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: frankfurt-senckenberg-nature-museum
-srcHash: 'a8506379d2b4'
+srcHash: '13cac16108a1'
 title: '젠켄베르크 자연사 박물관: 프랑크푸르트 여행 가이드 (4.6★)'
-description: 프랑크푸르트 Senckenberganlage 25, 보켄하이머 바르테(Bockenheimer Warte) 지하철역 바로 옆에 있는 젠켄베르크 자연사 박물관은 공룡 골격과 거대한 아나콘다로 유명합니다. 평점 4.6★(리뷰 4,830개)를 받은 이곳의 방문 후기와 운영 시간, 관람 팁을 정리했습니다.
+description: 프랑크푸르트 Senckenberganlage 25, 보켄하이머 바르테(Bockenheimer Warte) 지하철역 바로 옆에 있는 젠켄베르크 자연사 박물관은 공룡 골격과 거대한 아나콘다로 유명합니다. 평점 4.6★(리뷰 4,831개)를 받은 이곳의 방문 후기와 운영 시간, 관람 팁을 정리했습니다.
 quickAnswer: 젠켄베르크 자연사 박물관(Senckenberg Naturmuseum)은 프랑크푸르트 Senckenberganlage 25, 보켄하이머 바르테 지하철역 바로 옆에 있으며, 공룡 골격과 거대한 아나콘다가 가장 큰 볼거리입니다. 평일에는 문을 여는 시간 내내 한산하고, 주말에는 오전 9시~10시가 여유롭습니다. 주말 오전 11시~오후 5시는 피하는 것이 좋습니다. 관람에는 2~3시간 정도 잡으시고, 오후 8시까지 문을 여는 수요일에 방문하는 것도 좋은 방법입니다.
 faq:
   - q: 젠켄베르크 자연사 박물관이 가장 한산한 시간은 언제인가요?

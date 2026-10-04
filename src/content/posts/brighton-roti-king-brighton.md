@@ -1,60 +1,92 @@
 ---
-title: "Roti King: Where to Eat in Brighton (4.8★)"
-description: "Roti King Brighton is a Malaysian restaurant at 57 Ship St, on the edge of The Lanes and a short walk up from the seafront. 4.8★ (1,515 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Brighton"
-category: "restaurant"
-pubDate: "2026-10-04T13:36:07.572Z"
+title: 'Roti King: Where to Eat in Brighton (4.8★)'
+description: >-
+  Roti King Brighton is a Malaysian restaurant at 57 Ship St, on the edge of The
+  Lanes and a short walk up from the seafront. 4.8★ (1,524 reviews) — what
+  visitors say, hours, and tips.
+country: United Kingdom
+region: Brighton
+category: restaurant
+pubDate: '2026-10-04T13:36:07.572Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Kangkung_Belacan_-_Roti_King_2026-02-21.jpg/3840px-Kangkung_Belacan_-_Roti_King_2026-02-21.jpg"
-  credit: "Photo: Andy Li / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Kangkung_Belacan_-_Roti_King_2026-02-21.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Kangkung_Belacan_-_Roti_King_2026-02-21.jpg/3840px-Kangkung_Belacan_-_Roti_King_2026-02-21.jpg
+  credit: 'Photo: Andy Li / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Kangkung_Belacan_-_Roti_King_2026-02-21.jpg
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Kari_Laksa_-_Roti_King_2025-09-19.jpg/3840px-Kari_Laksa_-_Roti_King_2025-09-19.jpg"
-    credit: "Photo: Andy Li / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Kari_Laksa_-_Roti_King_2025-09-19.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Kari_Laksa_-_Roti_King_2025-09-19.jpg/3840px-Kari_Laksa_-_Roti_King_2025-09-19.jpg
+    credit: 'Photo: Andy Li / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Kari_Laksa_-_Roti_King_2025-09-19.jpg
 place:
-  id: "ChIJg1LGStOFdUgRZ3y2LaZ37n8"
-  name: "Roti King Brighton"
-  address: "57 Ship St, Brighton and Hove, Brighton BN1 1AF, UK"
+  id: ChIJg1LGStOFdUgRZ3y2LaZ37n8
+  name: Roti King Brighton
+  address: '57 Ship St, Brighton and Hove, Brighton BN1 1AF, UK'
   rating: 4.8
-  userRatingsTotal: 1515
+  userRatingsTotal: 1524
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=9218437042889194599&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9218437042889194599&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 50.8220956
   lng: -0.1413276
   openingHours:
-    - "Monday: 11:30 AM – 10:00 PM"
-    - "Tuesday: 11:30 AM – 10:00 PM"
-    - "Wednesday: 11:30 AM – 10:00 PM"
-    - "Thursday: 11:30 AM – 10:00 PM"
-    - "Friday: 11:30 AM – 10:30 PM"
-    - "Saturday: 11:30 AM – 10:30 PM"
-    - "Sunday: 11:30 AM – 9:30 PM"
+    - 'Monday: 11:30 AM – 10:00 PM'
+    - 'Tuesday: 11:30 AM – 10:00 PM'
+    - 'Wednesday: 11:30 AM – 10:00 PM'
+    - 'Thursday: 11:30 AM – 10:00 PM'
+    - 'Friday: 11:30 AM – 10:30 PM'
+    - 'Saturday: 11:30 AM – 10:30 PM'
+    - 'Sunday: 11:30 AM – 9:30 PM'
 tags:
-  - "brighton"
-  - "street food"
-quickAnswer: "Roti King Brighton is a Malaysian restaurant at 57 Ship St, on the edge of The Lanes and a short walk up from the seafront. Its whole identity is the roti, the flaky griddled flatbread you tear and dip into curry. It opens daily from 11:30am, so it works as an easy lunch as well as dinner."
+  - brighton
+  - street food
+quickAnswer: >-
+  Roti King Brighton is a Malaysian restaurant at 57 Ship St, on the edge of The
+  Lanes and a short walk up from the seafront. Its whole identity is the roti,
+  the flaky griddled flatbread you tear and dip into curry. It opens daily from
+  11:30am, so it works as an easy lunch as well as dinner.
 faq:
-  - q: "Where exactly is Roti King Brighton?"
-    a: "It is at 57 Ship St, Brighton BN1 1AF. That is on the edge of The Lanes, between North Street and the seafront on King's Road. From Brighton station it is about a 15-minute downhill walk via Queen's Road and West Street."
-  - q: "What should I order at Roti King Brighton?"
-    a: "Start with roti canai, the flaky griddled flatbread served with curry or dhal for dipping. It is the dish the restaurant is named after. Add a rice or noodle plate to share, and check the menu for which Malaysian classics are on offer."
-  - q: "What are the opening hours?"
-    a: "It opens at 11:30am every day. It closes at 10pm Monday to Thursday, 10:30pm on Friday and Saturday, and 9:30pm on Sunday. The kitchen runs all day with no afternoon break."
-  - q: "Do I need to book?"
-    a: "It is a well-known, popular restaurant, so check the restaurant's own website or social channels for booking options before you go, especially for weekend evenings. Arriving soon after the 11:30am opening is the easiest way to avoid a wait."
-  - q: "What is nearby to combine with a meal?"
-    a: "The Lanes start right outside. Brighton Palace Pier and the seafront are at the bottom of Ship Street. The i360 and the West Pier ruins are a short walk west. The Royal Pavilion and North Laine are both within about ten minutes on foot."
+  - q: Where exactly is Roti King Brighton?
+    a: >-
+      It is at 57 Ship St, Brighton BN1 1AF. That is on the edge of The Lanes,
+      between North Street and the seafront on King's Road. From Brighton
+      station it is about a 15-minute downhill walk via Queen's Road and West
+      Street.
+  - q: What should I order at Roti King Brighton?
+    a: >-
+      Start with roti canai, the flaky griddled flatbread served with curry or
+      dhal for dipping. It is the dish the restaurant is named after. Add a rice
+      or noodle plate to share, and check the menu for which Malaysian classics
+      are on offer.
+  - q: What are the opening hours?
+    a: >-
+      It opens at 11:30am every day. It closes at 10pm Monday to Thursday,
+      10:30pm on Friday and Saturday, and 9:30pm on Sunday. The kitchen runs all
+      day with no afternoon break.
+  - q: Do I need to book?
+    a: >-
+      It is a well-known, popular restaurant, so check the restaurant's own
+      website or social channels for booking options before you go, especially
+      for weekend evenings. Arriving soon after the 11:30am opening is the
+      easiest way to avoid a wait.
+  - q: What is nearby to combine with a meal?
+    a: >-
+      The Lanes start right outside. Brighton Palace Pier and the seafront are
+      at the bottom of Ship Street. The i360 and the West Pier ruins are a short
+      walk west. The Royal Pavilion and North Laine are both within about ten
+      minutes on foot.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-04'
 ---
 
 ## Flatbread, curry and a Ship Street address

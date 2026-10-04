@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: istanbul-sultanahmet-square
-srcHash: 'd3fdd873564b'
+srcHash: 'be32c8c5a7fe'
 title: 'Plaza de Sultanahmet: guía de viaje de Estambul (4.7★)'
-description: En el barrio de Sultanahmet, dentro del distrito de Fatih, la Plaza de Sultanahmet ocupa el solar del antiguo Hipódromo, entre la Mezquita Azul y el Museo de Arte Turco e Islámico. Con 4.7★ (36,743 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
+description: En el barrio de Sultanahmet, dentro del distrito de Fatih, la Plaza de Sultanahmet ocupa el solar del antiguo Hipódromo, entre la Mezquita Azul y el Museo de Arte Turco e Islámico. Con 4.7★ (36,801 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: En pleno barrio de Sultanahmet, en el distrito estambulí de Fatih, la Plaza de Sultanahmet (Sultanahmet Meydanı) se extiende sobre el solar del antiguo Hipódromo, entre la Mezquita Azul y el Museo de Arte Turco e Islámico. Al tratarse de un espacio público abierto, puede recorrerse a cualquier hora. Lo más recomendable es ir a primera hora de la mañana o al atardecer, es decir, antes o después de que lleguen los grupos organizados que se dirigen a Santa Sofía y a la Mezquita Azul. Desde la parada Sultanahmet del tranvía T1 se llega en apenas dos minutos a pie.
 faq:
   - q: ¿Cómo se llega a la Plaza de Sultanahmet en transporte público?

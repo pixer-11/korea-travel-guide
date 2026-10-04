@@ -1,41 +1,48 @@
 ---
-title: "The Grand Garden of Dresden: Travel Guide (4.8★)"
-description: "The Grand Garden of Dresden (Großer Garten) is a large baroque park in Dresden-Altstadt, a short walk southeast of the old town, with a 17th-century summer palace at its centre. 4.8★ (16,807 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Dresden"
-category: "attraction"
-pubDate: "2026-10-04T07:39:04.809Z"
+title: 'The Grand Garden of Dresden: Travel Guide (4.8★)'
+description: >-
+  The Grand Garden of Dresden (Großer Garten) is a large baroque park in
+  Dresden-Altstadt, a short walk southeast of the old town, with a 17th-century
+  summer palace at its centre. 4.8★ (16,810 reviews) — what visitors say, hours,
+  and tips.
+country: Germany
+region: Dresden
+category: attraction
+pubDate: '2026-10-04T07:39:04.809Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Dresden_-_Palais_im_Grossen_Garten_%28Great_Garden_Palace%29_-_geo.hlipp.de_-_32446.jpg"
-  credit: "Photo: Colin Smith on geo.hlipp.de / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Dresden_-_Palais_im_Grossen_Garten_(Great_Garden_Palace)_-_geo.hlipp.de_-_32446.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/e/e5/Dresden_-_Palais_im_Grossen_Garten_%28Great_Garden_Palace%29_-_geo.hlipp.de_-_32446.jpg
+  credit: 'Photo: Colin Smith on geo.hlipp.de / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Dresden_-_Palais_im_Grossen_Garten_(Great_Garden_Palace)_-_geo.hlipp.de_-_32446.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJkzKC9__FCUcRlsUx4Ecw9eI"
-  name: "The Grand Garden of Dresden"
-  address: "Hauptallee 10, 01219 Dresden-Altstadt, Germany"
+  id: ChIJkzKC9__FCUcRlsUx4Ecw9eI
+  name: The Grand Garden of Dresden
+  address: 'Hauptallee 10, 01219 Dresden-Altstadt, Germany'
   rating: 4.8
-  userRatingsTotal: 16807
-  googleMapsUrl: "https://maps.google.com/?cid=16354030707127993750&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 16810
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16354030707127993750&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.0383072
   lng: 13.7616421
-  phone: "+49 351 4456600"
+  phone: +49 351 4456600
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-10-04
+    updated: 2026-10-04T00:00:00.000Z
     weekdayBusy:
       - 15
       - 16
@@ -52,24 +59,42 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_496539776345347855736c52635543465f5f39434b7a6b4a496843"
+    venueId: ven_496539776345347855736c52635543465f5f39434b7a6b4a496843
 tags:
-  - "dresden"
-  - "park"
-quickAnswer: "The Grand Garden of Dresden (Großer Garten) is a large baroque park in Dresden-Altstadt, a short walk southeast of the old town, with a 17th-century summer palace at its centre. It is open 24 hours. On weekends it's calmest from 7am to 8am, and it's busiest from 11am to 8pm."
+  - dresden
+  - park
+quickAnswer: >-
+  The Grand Garden of Dresden (Großer Garten) is a large baroque park in
+  Dresden-Altstadt, a short walk southeast of the old town, with a 17th-century
+  summer palace at its centre. It is open 24 hours. On weekends it's calmest
+  from 7am to 8am, and it's busiest from 11am to 8pm.
 faq:
-  - q: "When is the quietest time to visit the Grand Garden of Dresden?"
-    a: "On weekends it's calmest from 7am to 8am. Avoid 11am to 8pm on Saturdays and Sundays, when the park is at its busiest."
-  - q: "Is the Großer Garten open at night?"
-    a: "Yes. The park itself is open 24 hours a day, every day. Attractions inside it, such as the zoo, the park railway and the botanical garden, keep their own hours."
-  - q: "How do I get there from Dresden's old town?"
-    a: "Walk southeast from the Frauenkirche, which takes roughly 20 to 25 minutes. You can also take a tram to Straßburger Platz or to the zoo stop at the park's western corners."
-  - q: "How long should I spend there?"
-    a: "Allow one to two hours for the Hauptallee, the Palais and the Carolasee. Allow half a day if you add Zoo Dresden or a ride on the Parkeisenbahn."
-  - q: "What is near the Grand Garden?"
-    a: "Zoo Dresden and the Botanischer Garten are on the park's edges. Volkswagen's Gläserne Manufaktur is at Straßburger Platz, and the Altstadt with the Frauenkirche is a short walk northwest."
+  - q: When is the quietest time to visit the Grand Garden of Dresden?
+    a: >-
+      On weekends it's calmest from 7am to 8am. Avoid 11am to 8pm on Saturdays
+      and Sundays, when the park is at its busiest.
+  - q: Is the Großer Garten open at night?
+    a: >-
+      Yes. The park itself is open 24 hours a day, every day. Attractions inside
+      it, such as the zoo, the park railway and the botanical garden, keep their
+      own hours.
+  - q: How do I get there from Dresden's old town?
+    a: >-
+      Walk southeast from the Frauenkirche, which takes roughly 20 to 25
+      minutes. You can also take a tram to Straßburger Platz or to the zoo stop
+      at the park's western corners.
+  - q: How long should I spend there?
+    a: >-
+      Allow one to two hours for the Hauptallee, the Palais and the Carolasee.
+      Allow half a day if you add Zoo Dresden or a ride on the Parkeisenbahn.
+  - q: What is near the Grand Garden?
+    a: >-
+      Zoo Dresden and the Botanischer Garten are on the park's edges.
+      Volkswagen's Gläserne Manufaktur is at Straßburger Platz, and the Altstadt
+      with the Frauenkirche is a short walk northwest.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-04'
 ---
 
 ## A straight line through the city

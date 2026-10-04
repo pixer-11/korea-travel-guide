@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: hobart-salamanca-market
-srcHash: '573faf22775a'
+srcHash: 'ba75599a07b6'
 title: 'Mercado de Salamanca: guía de viaje de Hobart (4.5★)'
-description: 'El Mercado de Salamanca se celebra todos los sábados de 8:30 a 15:00 en Salamanca Place, en Hobart, y el resto de la semana permanece cerrado. 4.5★ (13,597 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Mercado de Salamanca se celebra todos los sábados de 8:30 a 15:00 en Salamanca Place, en Hobart, y el resto de la semana permanece cerrado. 4.5★ (13,600 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Todos los sábados, de 8:30 a 15:00, el Mercado de Salamanca ocupa Salamanca Place, en Hobart. Los demás días de la semana no abre. Si llega hacia las 8:30, encontrará más espacio para moverse y la mejor selección de productos frescos. Calcule entre dos y tres horas de visita y, al terminar, suba por Kelly's Steps hasta Battery Point.
 faq:
   - q: ¿Qué días abre el Mercado de Salamanca?

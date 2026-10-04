@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: jeju-jeju-mok-government-office
-srcHash: '176fe2f96c4e'
+srcHash: '6cf504cb67e8'
 title: 'Antigua sede de gobierno de Jeju-mok: guía de viaje (4.3★)'
-description: En el casco antiguo de la ciudad de Jeju, a pocos minutos a pie del mercado de Dongmun, se encuentra la antigua sede de gobierno de Jeju-mok, en 13 Gwandeok-ro 7-gil. Con 4.3★ (1,657 reseñas), le contamos qué opinan los visitantes, cuál es el horario y qué conviene saber.
+description: En el casco antiguo de la ciudad de Jeju, a pocos minutos a pie del mercado de Dongmun, se encuentra la antigua sede de gobierno de Jeju-mok, en 13 Gwandeok-ro 7-gil. Con 4.3★ (1,660 reseñas), le contamos qué opinan los visitantes, cuál es el horario y qué conviene saber.
 quickAnswer: La antigua sede de gobierno de Jeju-mok (Jeju-mok Government Office) se encuentra en 13 Gwandeok-ro 7-gil, en el casco antiguo de la ciudad de Jeju, a pocos minutos a pie del mercado de Dongmun. Este recinto reconstruido fue el lugar desde el que los gobernadores de la dinastía Joseon administraban la isla, y abre todos los días de 9am a 6pm. Entre semana, lo ideal es llegar entre las 9am y las 10am. El fin de semana, conviene presentarse a las 9am en punto, antes de que llegue la afluencia de 10am–1pm. Calcule alrededor de una hora para la visita, además del tiempo que dedique al pabellón Gwandeokjeong, situado justo delante.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la antigua sede de gobierno de Jeju-mok?

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: jakarta-jakarta-old-town
-srcHash: '155bc215c684'
+srcHash: '685912fe8d7a'
 title: 雅加达老城旅行指南（4.1★）
-description: 雅加达老城位于西雅加达塔曼萨里区（Taman Sari）槟榔社（Pinangsia）的 Jalan Kali Besar Timur，评分4.1★（181条评价）。本文汇总游客评价、开放时间和实用贴士。
+description: 雅加达老城位于西雅加达塔曼萨里区（Taman Sari）槟榔社（Pinangsia）的 Jalan Kali Besar Timur，评分4.1★（184条评价）。本文汇总游客评价、开放时间和实用贴士。
 quickAnswer: 雅加达老城位于西雅加达塔曼萨里区（Taman Sari）槟榔社（Pinangsia）的 Jalan Kali Besar Timur。这里是哥打老城（Kota Tua）的运河沿岸地带。哥打老城是巴达维亚的旧城核心，荷兰殖民时期就建在这里。可以乘 KRL 通勤铁路或 TransJakarta 1号走廊线到哥打站，再沿运河步道走到法塔西拉广场。游览时间建议留出两到三小时，最���清早或傍晚前去，赶在暑热上来之前逛完。
 faq:
   - q: 怎么去雅加达老城？

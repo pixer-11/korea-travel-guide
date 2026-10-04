@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: berlin-neues-museum
-srcHash: '190801929689'
+srcHash: 'c2e200db4dcd'
 title: 'Neues Museum: guía de viaje de Berlín (4.5★)'
 description: En la Isla de los Museos, dentro del distrito berlinés de Mitte, se encuentra el Neues Museum (Bodestraße 1-3). Tiene una valoración de 4.5★ sobre 15,950 reseñas. Aquí encontrará lo que cuentan los visitantes, además de horarios y consejos.
 quickAnswer: El Neues Museum se alza en la Isla de los Museos (Museumsinsel), en el distrito berlinés de Mitte, en Bodestraße 1-3. Este edificio del siglo XIX quedó dañado en la guerra y fue restaurado por David Chipperfield. Hoy guarda el busto de Nefertiti, además de arte egipcio y hallazgos prehistóricos. Abre de martes a domingo, de 10:00 a 18:00, y cierra los lunes. Los fines de semana registran la mayor afluencia entre las 11:00 y las 18:00, de modo que conviene reservar la franja de las 10:00 o acudir entre semana.

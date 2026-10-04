@@ -1,6 +1,6 @@
 ---
 title: 'Pulverturm: Where to Eat in Dresden (4.6★)'
-description: Pulverturm is a sit-down restaurant at An der Frauenkirche 12 in Dresden-Altstadt, serving international dishes inside a centuries-old building a few steps from the Frauenkirche on Neumarkt. 4.6★ (5,084 reviews) — what visitors say, hours, and tips.
+description: Pulverturm is a sit-down restaurant at An der Frauenkirche 12 in Dresden-Altstadt, serving international dishes inside a centuries-old building a few steps from the Frauenkirche on Neumarkt. 4.6★ (5,085 reviews) — what visitors say, hours, and tips.
 country: Germany
 region: Dresden
 category: restaurant

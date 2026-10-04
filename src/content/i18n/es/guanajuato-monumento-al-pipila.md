@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: guanajuato-monumento-al-pipila
-srcHash: 'c2ebfad4148b'
+srcHash: '381de29660fa'
 title: 'Monumento al Pípila: guía de viaje de Guanajuato (4.7★)'
-description: Sobre el Cerro de San Miguel, por encima del centro de Guanajuato, se alza el Monumento al Pípila, el gran mirador panorámico de la ciudad. Se sube en el funicular que parte detrás del Teatro Juárez o a pie, por empinados callejones de piedra, en 15 a 20 minutos. Con 4.7★ (39,143 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
+description: Sobre el Cerro de San Miguel, por encima del centro de Guanajuato, se alza el Monumento al Pípila, el gran mirador panorámico de la ciudad. Se sube en el funicular que parte detrás del Teatro Juárez o a pie, por empinados callejones de piedra, en 15 a 20 minutos. Con 4.7★ (39,146 reseñas), aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: Sobre el Cerro de San Miguel, por encima del centro de Guanajuato, se alza el Monumento al Pípila, el gran mirador panorámico de la ciudad. Se llega en el funicular que parte detrás del Teatro Juárez o a pie, tras una empinada subida de 15 a 20 minutos por callejones de piedra. El lugar permanece abierto las 24 horas. Entre semana, la mayor tranquilidad se disfruta de 7am a 10am, y los fines de semana, de 7am a 9am. Conviene evitar los fines de semana de 11am a 11pm, cuando se registra la mayor afluencia.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Monumento al Pípila?

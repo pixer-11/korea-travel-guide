@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: frankfurt-senckenberg-nature-museum
-srcHash: 'a8506379d2b4'
+srcHash: '13cac16108a1'
 title: 'Museo de Historia Natural Senckenberg: guía de viaje de Fráncfort (4.6★)'
-description: En Senckenberganlage 25, junto a la estación de metro de Bockenheimer Warte, el Museo de Historia Natural Senckenberg de Fráncfort atrae sobre todo por sus esqueletos de dinosaurio y una anaconda gigante. Con una valoración de 4.6★ (4,830 reseñas), aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
+description: En Senckenberganlage 25, junto a la estación de metro de Bockenheimer Warte, el Museo de Historia Natural Senckenberg de Fráncfort atrae sobre todo por sus esqueletos de dinosaurio y una anaconda gigante. Con una valoración de 4.6★ (4,831 reseñas), aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: En Senckenberganlage 25, a pocos pasos de la estación de metro de Bockenheimer Warte, se encuentra el Museo de Historia Natural Senckenberg (Naturmuseum Senckenberg) de Fráncfort, cuyos grandes reclamos son los esqueletos de dinosaurio y una anaconda gigante. Entre semana hay poca gente durante todo el horario de apertura. Los fines de semana, en cambio, la única franja tranquila va de 9am a 10am, y conviene evitar las horas entre 11am y 5pm. Reserve entre dos y tres horas para la visita, o vaya un miércoles, día en que cierra a las 8pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Museo de Historia Natural Senckenberg?

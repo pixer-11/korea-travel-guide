@@ -1,45 +1,53 @@
 ---
-title: "Senckenberg Nature Museum: Frankfurt Travel Guide (4.6★)"
-description: "The Senckenberg Nature Museum sits at Senckenberganlage 25 in Frankfurt, beside Bockenheimer Warte U-Bahn station, and its big draws are the dinosaur skeletons and a giant anaconda. 4.6★ (4,830 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Frankfurt"
-category: "attraction"
-pubDate: "2026-10-04T13:31:00.866Z"
+title: 'Senckenberg Nature Museum: Frankfurt Travel Guide (4.6★)'
+description: >-
+  The Senckenberg Nature Museum sits at Senckenberganlage 25 in Frankfurt,
+  beside Bockenheimer Warte U-Bahn station, and its big draws are the dinosaur
+  skeletons and a giant anaconda. 4.6★ (4,831 reviews) — what visitors say,
+  hours, and tips.
+country: Germany
+region: Frankfurt
+category: attraction
+pubDate: '2026-10-04T13:31:00.866Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/b/b6/Senckenberg_Museum_Frankfurt.jpg"
-  credit: "Photo: Grimes2 / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Senckenberg_Museum_Frankfurt.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/b6/Senckenberg_Museum_Frankfurt.jpg
+  credit: 'Photo: Grimes2 / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Senckenberg_Museum_Frankfurt.jpg'
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Senckenberg_Museum_Frankfurt_am_Main.jpg/3840px-Senckenberg_Museum_Frankfurt_am_Main.jpg"
-    credit: "Photo: Ugureisberg / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Senckenberg_Museum_Frankfurt_am_Main.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Senckenberg_Museum_Frankfurt_am_Main.jpg/3840px-Senckenberg_Museum_Frankfurt_am_Main.jpg
+    credit: 'Photo: Ugureisberg / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Senckenberg_Museum_Frankfurt_am_Main.jpg
 place:
-  id: "ChIJ2V1QFlsJvUcRSRhgQZzHGNA"
-  name: "Senckenberg Nature Museum"
-  address: "Senckenberganlage 25, 60325 Frankfurt am Main, Germany"
+  id: ChIJ2V1QFlsJvUcRSRhgQZzHGNA
+  name: Senckenberg Nature Museum
+  address: 'Senckenberganlage 25, 60325 Frankfurt am Main, Germany'
   rating: 4.6
-  userRatingsTotal: 4830
-  googleMapsUrl: "https://maps.google.com/?cid=14994954433255708745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4831
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14994954433255708745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 50.117557899999994
   lng: 8.6522363
-  phone: "+49 69 75420"
+  phone: +49 69 75420
   openingHours:
-    - "Monday: 9:00 AM – 5:00 PM"
-    - "Tuesday: 9:00 AM – 5:00 PM"
-    - "Wednesday: 9:00 AM – 8:00 PM"
-    - "Thursday: 9:00 AM – 5:00 PM"
-    - "Friday: 9:00 AM – 5:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: 9:00 AM – 5:00 PM'
+    - 'Wednesday: 9:00 AM – 8:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-10-04
+    updated: 2026-10-04T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -53,24 +61,41 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_414e47487a5a5167685253526355764a736c46513156324a496843"
+    venueId: ven_414e47487a5a5167685253526355764a736c46513156324a496843
 tags:
-  - "frankfurt"
-  - "museum"
-quickAnswer: "The Senckenberg Nature Museum sits at Senckenberganlage 25 in Frankfurt, beside Bockenheimer Warte U-Bahn station, and its big draws are the dinosaur skeletons and a giant anaconda. Weekdays are quiet whenever it's open, and on weekends the calm window is 9am–10am. Avoid weekends from 11am to 5pm. Plan on two to three hours, or go on a Wednesday, when it stays open until 8pm."
+  - frankfurt
+  - museum
+quickAnswer: >-
+  The Senckenberg Nature Museum sits at Senckenberganlage 25 in Frankfurt,
+  beside Bockenheimer Warte U-Bahn station, and its big draws are the dinosaur
+  skeletons and a giant anaconda. Weekdays are quiet whenever it's open, and on
+  weekends the calm window is 9am–10am. Avoid weekends from 11am to 5pm. Plan on
+  two to three hours, or go on a Wednesday, when it stays open until 8pm.
 faq:
-  - q: "When is the quietest time to visit the Senckenberg Nature Museum?"
-    a: "On weekdays it's quiet from 9am to 6pm, which covers all opening hours. On weekends, come between 9am and 10am. Avoid weekends from 11am to 5pm, the busiest stretch."
-  - q: "How do I get there by public transport?"
-    a: "Take U4, U6 or U7 to Bockenheimer Warte. The museum at Senckenberganlage 25 is right by the station."
-  - q: "Which day is it open late?"
-    a: "Wednesday, from 9am to 8pm. On other weekdays it closes at 5pm, and on weekends at 6pm."
-  - q: "How long should I spend inside?"
-    a: "Allow two to three hours for the dinosaurs, the Messel fossils and the anaconda. Families often stay half a day."
-  - q: "What is nearby?"
-    a: "The Bockenheimer Warte watchtower is next door, Messe Frankfurt is a short walk south, and the Palmengarten is about 15 minutes' walk north."
+  - q: When is the quietest time to visit the Senckenberg Nature Museum?
+    a: >-
+      On weekdays it's quiet from 9am to 6pm, which covers all opening hours. On
+      weekends, come between 9am and 10am. Avoid weekends from 11am to 5pm, the
+      busiest stretch.
+  - q: How do I get there by public transport?
+    a: >-
+      Take U4, U6 or U7 to Bockenheimer Warte. The museum at Senckenberganlage
+      25 is right by the station.
+  - q: Which day is it open late?
+    a: >-
+      Wednesday, from 9am to 8pm. On other weekdays it closes at 5pm, and on
+      weekends at 6pm.
+  - q: How long should I spend inside?
+    a: >-
+      Allow two to three hours for the dinosaurs, the Messel fossils and the
+      anaconda. Families often stay half a day.
+  - q: What is nearby?
+    a: >-
+      The Bockenheimer Warte watchtower is next door, Messe Frankfurt is a short
+      walk south, and the Palmengarten is about 15 minutes' walk north.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-04'
 ---
 
 ## Skeletons under a stone roof

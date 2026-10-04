@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: dresden-pulverturm
-srcHash: 'ce5947ab1480'
+srcHash: '88b55d67c263'
 title: 'Pulverturm: dónde comer en Dresde (4.6★)'
-description: 'En An der Frauenkirche 12, en pleno Dresden-Altstadt, el Pulverturm sirve cocina internacional con servicio en mesa. Ocupa un edificio de varios siglos situado a pocos pasos de la Frauenkirche, en el Neumarkt. 4.6★ (5,084 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En An der Frauenkirche 12, en pleno Dresden-Altstadt, el Pulverturm sirve cocina internacional con servicio en mesa. Ocupa un edificio de varios siglos situado a pocos pasos de la Frauenkirche, en el Neumarkt. 4.6★ (5,085 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En An der Frauenkirche 12, en pleno Dresden-Altstadt, el Pulverturm sirve cocina internacional con servicio en mesa. Ocupa un edificio de varios siglos situado a pocos pasos de la Frauenkirche, en el Neumarkt. Sus precios son algo elevados y tiene muchísima demanda, así que conviene reservar. Los fines de semana, entre las 14:00 y las 22:00, se llena más que nunca, por lo que es mejor evitar esa franja. Tenga en cuenta también que los miércoles cierra.
 faq:
   - q: ¿Cuál es el momento más tranquilo para ir al Pulverturm?

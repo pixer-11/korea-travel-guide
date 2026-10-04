@@ -1,45 +1,53 @@
 ---
-title: "Museum Kunstpalast: Düsseldorf Travel Guide (4.6★)"
-description: "Museum Kunstpalast sits at Ehrenhof 4-5 in Düsseldorf's Pempelfort area, a short walk north of the Altstadt beside the Rhine. 4.6★ (5,770 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Düsseldorf"
-category: "attraction"
-pubDate: "2026-10-04T13:34:19.716Z"
+title: 'Museum Kunstpalast: Düsseldorf Travel Guide (4.6★)'
+description: >-
+  Museum Kunstpalast sits at Ehrenhof 4-5 in Düsseldorf's Pempelfort area, a
+  short walk north of the Altstadt beside the Rhine. 4.6★ (5,775 reviews) — what
+  visitors say, hours, and tips.
+country: Germany
+region: Düsseldorf
+category: attraction
+pubDate: '2026-10-04T13:34:19.716Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/a/af/Museum_Kunstpalast_-_Ehrenhof_und_n%C3%B6rdlicher_%C3%9Cbergang_%288241-49%29.jpg"
-  credit: "Photo: Raimond Spekking / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Museum_Kunstpalast_-_Ehrenhof_und_n%C3%B6rdlicher_%C3%9Cbergang_(8241-49).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/af/Museum_Kunstpalast_-_Ehrenhof_und_n%C3%B6rdlicher_%C3%9Cbergang_%288241-49%29.jpg
+  credit: 'Photo: Raimond Spekking / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Museum_Kunstpalast_-_Ehrenhof_und_n%C3%B6rdlicher_%C3%9Cbergang_(8241-49).jpg
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Museum_Kunstpalast_-_Eingang_Ostfl%C3%BCgel_und_Brunnen-8062.jpg/3840px-Museum_Kunstpalast_-_Eingang_Ostfl%C3%BCgel_und_Brunnen-8062.jpg"
-    credit: "Photo: Raimond Spekking / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Museum_Kunstpalast_-_Eingang_Ostfl%C3%BCgel_und_Brunnen-8062.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Museum_Kunstpalast_-_Eingang_Ostfl%C3%BCgel_und_Brunnen-8062.jpg/3840px-Museum_Kunstpalast_-_Eingang_Ostfl%C3%BCgel_und_Brunnen-8062.jpg
+    credit: 'Photo: Raimond Spekking / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Museum_Kunstpalast_-_Eingang_Ostfl%C3%BCgel_und_Brunnen-8062.jpg
 place:
-  id: "ChIJbfLOBR7KuEcR9AZRgLtdoFQ"
-  name: "Museum Kunstpalast"
-  address: "Ehrenhof 4-5, 40479 Düsseldorf-Stadtbezirk 1, Germany"
+  id: ChIJbfLOBR7KuEcR9AZRgLtdoFQ
+  name: Museum Kunstpalast
+  address: 'Ehrenhof 4-5, 40479 Düsseldorf-Stadtbezirk 1, Germany'
   rating: 4.6
-  userRatingsTotal: 5770
-  googleMapsUrl: "https://maps.google.com/?cid=6097976955352712948&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 5775
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6097976955352712948&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.2350304
   lng: 6.773165199999999
-  phone: "+49 211 56642100"
+  phone: +49 211 56642100
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 11:00 AM – 6:00 PM"
-    - "Wednesday: 11:00 AM – 6:00 PM"
-    - "Thursday: 11:00 AM – 9:00 PM"
-    - "Friday: 11:00 AM – 6:00 PM"
-    - "Saturday: 11:00 AM – 6:00 PM"
-    - "Sunday: 11:00 AM – 6:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 11:00 AM – 6:00 PM'
+    - 'Wednesday: 11:00 AM – 6:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 6:00 PM'
+    - 'Saturday: 11:00 AM – 6:00 PM'
+    - 'Sunday: 11:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-10-04
+    updated: 2026-10-04T00:00:00.000Z
     weekdayQuiet:
       - 18
     weekendBusy:
@@ -49,24 +57,46 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_51466f64744c67525a4139526345754b3752424f4c66624a496843"
+    venueId: ven_51466f64744c67525a4139526345754b3752424f4c66624a496843
 tags:
-  - "düsseldorf"
-  - "museum"
-quickAnswer: "Museum Kunstpalast sits at Ehrenhof 4-5 in Düsseldorf's Pempelfort area, a short walk north of the Altstadt beside the Rhine. The collection runs from Rubens to the ZERO artists, plus a large glass collection. It's open Tuesday to Sunday and closed Mondays. Go on Thursday evening, when it stays open until 9pm and 6pm–7pm is the quietest weekday hour, and avoid weekends between 12pm and 6pm."
+  - düsseldorf
+  - museum
+quickAnswer: >-
+  Museum Kunstpalast sits at Ehrenhof 4-5 in Düsseldorf's Pempelfort area, a
+  short walk north of the Altstadt beside the Rhine. The collection runs from
+  Rubens to the ZERO artists, plus a large glass collection. It's open Tuesday
+  to Sunday and closed Mondays. Go on Thursday evening, when it stays open until
+  9pm and 6pm–7pm is the quietest weekday hour, and avoid weekends between 12pm
+  and 6pm.
 faq:
-  - q: "When is the quietest time to visit Museum Kunstpalast?"
-    a: "On weekdays, 6pm–7pm is the quietest window. The museum only stays open past 6pm on Thursdays (until 9pm), so a Thursday evening visit is the way to use it. Avoid weekends between 12pm and 6pm, which is the busiest stretch."
-  - q: "What days is Museum Kunstpalast open?"
-    a: "It's open Tuesday to Sunday from 11am to 6pm, with a late opening on Thursdays until 9pm. It is closed on Mondays."
-  - q: "How do I get to Museum Kunstpalast by public transport?"
-    a: "Take U-Bahn line U78 or U79 to Tonhalle/Ehrenhof, which leaves you right by the museum's brick courtyard. From the Altstadt, it's also an easy 15–20 minute walk north along the Rhine promenade."
-  - q: "How long should I spend at Museum Kunstpalast?"
-    a: "Allow two to three hours for the permanent collection: Rubens, the Düsseldorf School of Painting, the ZERO artists and the glass collection. Add about an hour if you're also seeing a temporary exhibition."
-  - q: "What is there to see near Museum Kunstpalast?"
-    a: "The NRW-Forum shares the Ehrenhof complex and the domed Tonhalle stands next door. The Hofgarten park borders the museum, and the Rhine promenade leads south to the Altstadt and K20 at Grabbeplatz."
+  - q: When is the quietest time to visit Museum Kunstpalast?
+    a: >-
+      On weekdays, 6pm–7pm is the quietest window. The museum only stays open
+      past 6pm on Thursdays (until 9pm), so a Thursday evening visit is the way
+      to use it. Avoid weekends between 12pm and 6pm, which is the busiest
+      stretch.
+  - q: What days is Museum Kunstpalast open?
+    a: >-
+      It's open Tuesday to Sunday from 11am to 6pm, with a late opening on
+      Thursdays until 9pm. It is closed on Mondays.
+  - q: How do I get to Museum Kunstpalast by public transport?
+    a: >-
+      Take U-Bahn line U78 or U79 to Tonhalle/Ehrenhof, which leaves you right
+      by the museum's brick courtyard. From the Altstadt, it's also an easy
+      15–20 minute walk north along the Rhine promenade.
+  - q: How long should I spend at Museum Kunstpalast?
+    a: >-
+      Allow two to three hours for the permanent collection: Rubens, the
+      Düsseldorf School of Painting, the ZERO artists and the glass collection.
+      Add about an hour if you're also seeing a temporary exhibition.
+  - q: What is there to see near Museum Kunstpalast?
+    a: >-
+      The NRW-Forum shares the Ehrenhof complex and the domed Tonhalle stands
+      next door. The Hofgarten park borders the museum, and the Rhine promenade
+      leads south to the Altstadt and K20 at Grabbeplatz.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-04'
 ---
 
 ## Brick, river and a courtyard built for a fair

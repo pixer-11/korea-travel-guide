@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: frankfurt-senckenberg-nature-museum
-srcHash: 'a8506379d2b4'
+srcHash: '13cac16108a1'
 title: 森肯堡自然博物馆：法兰克福旅行指南（4.6★）
-description: 森肯堡自然博物馆位于法兰克福Senckenberganlage 25号，紧邻博肯海姆瞭望塔（Bockenheimer Warte）地铁站，恐龙骨架和巨型森蚺是馆内最大看点。4.6★（4,830条评价），游客口碑、开放时间和参观建议都在这里。
+description: 森肯堡自然博物馆位于法兰克福Senckenberganlage 25号，紧邻博肯海姆瞭望塔（Bockenheimer Warte）地铁站，恐龙骨架和巨型森蚺是馆内最大看点。4.6★（4,831条评价），游客口碑、开放时间和参观建议都在这里。
 quickAnswer: 森肯堡自然博物馆位于法兰克福Senckenberganlage 25号，就在博肯海姆瞭望塔（Bockenheimer Warte）地铁站旁，恐龙骨架和巨型森蚺最吸引人。工作日开馆期间始终人少；周末则只有9am–10am比较清静，11am至5pm最好避开。建议预留两到三小时，也可以挑周三前往，当天开放至8pm。
 faq:
   - q: 什么时候去森肯堡自然博物馆人最少？

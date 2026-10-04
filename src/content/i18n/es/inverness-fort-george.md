@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: inverness-fort-george
-srcHash: '32d837365534'
+srcHash: '46ebe9784791'
 title: 'Fort George: guía de viaje desde Inverness (4.6★)'
-description: 'A unas 11 millas al noreste de Inverness, junto a Ardersier, se alza Fort George, una fortaleza de artillería del siglo XVIII levantada sobre una lengua de tierra en el estuario de Moray (Moray Firth). Todavía funciona como cuartel del ejército y alberga en su interior el Museo de los Highlanders. 4.6★ (4,703 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'A unas 11 millas al noreste de Inverness, junto a Ardersier, se alza Fort George, una fortaleza de artillería del siglo XVIII levantada sobre una lengua de tierra en el estuario de Moray (Moray Firth). Todavía funciona como cuartel del ejército y alberga en su interior el Museo de los Highlanders. 4.6★ (4,709 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: A unas 11 millas al noreste de Inverness, cerca de Ardersier, una lengua de tierra que se adentra en el estuario de Moray (Moray Firth) sostiene Fort George. Esta fortaleza de artillería del siglo XVIII sigue en servicio como cuartel del ejército y acoge el Museo de los Highlanders (Highlanders' Museum). Abre todos los días de 10am a 4pm. Los fines de semana hay poca gente durante toda la franja de 10am–4pm. Conviene reservarle al menos dos o tres horas y llegar con tiempo de sobra para recorrer entero el circuito de las murallas.
 faq:
   - q: ¿Cuándo hay menos gente en Fort George?

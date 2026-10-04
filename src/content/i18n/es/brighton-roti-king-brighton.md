@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: brighton-roti-king-brighton
-srcHash: '3b5f81f4e493'
+srcHash: '7f6aa94ea4c3'
 title: 'Roti King: dónde comer en Brighton (4.8★)'
-description: En el 57 de Ship St, al borde de The Lanes y a pocos pasos del paseo marítimo, se encuentra Roti King Brighton, un restaurante malasio con 4.8★ (1,515 reseñas). Horarios, consejos y opiniones de quienes lo han visitado.
+description: En el 57 de Ship St, al borde de The Lanes y a pocos pasos del paseo marítimo, se encuentra Roti King Brighton, un restaurante malasio con 4.8★ (1,524 reseñas). Horarios, consejos y opiniones de quienes lo han visitado.
 quickAnswer: Roti King Brighton es un restaurante malasio situado en el 57 de Ship St, al borde de The Lanes y a un corto paseo cuesta arriba desde el mar. Todo gira en torno al roti, un pan plano y hojaldrado que se hace a la plancha y se come a trozos, mojándolo en curry. Abre todos los días desde las 11:30am, así que sirve tanto para un almuerzo sin complicaciones como para cenar.
 faq:
   - q: ¿Dónde está exactamente Roti King Brighton?

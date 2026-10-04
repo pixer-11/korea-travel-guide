@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: dresden-pulverturm
-srcHash: 'ce5947ab1480'
+srcHash: '88b55d67c263'
 title: Pulverturm火药塔餐厅：德累斯顿用餐好去处（4.6★）
-description: Pulverturm是一家正餐餐厅，位于德累斯顿老城An der Frauenkirche 12，与新市场上的圣母教堂仅几步之遥。餐厅设在一栋有几百年历史的老建筑里，供应国际菜。评分4.6★（5,084条评价），这里汇总了食客评价、营业时间和实用建议。
+description: Pulverturm是一家正餐餐厅，位于德累斯顿老城An der Frauenkirche 12，与新市场上的圣母教堂仅几步之遥。餐厅设在一栋有几百年历史的老建筑里，供应国际菜。评分4.6★（5,085条评价），这里汇总了食客评价、营业时间和实用建议。
 quickAnswer: Pulverturm是德累斯顿老城的一家正餐餐厅，地址为An der Frauenkirche 12。餐厅设在一栋有几百年历史的老建筑里，主打国际菜，离新市场上的圣母教堂只有几步路。这里价位偏高，人气又很旺，最好提前订位。周末14:00至22:00是最忙的时段，尽量错开。另外，餐厅每周三不营业。
 faq:
   - q: 什么时候去Pulverturm人最少？

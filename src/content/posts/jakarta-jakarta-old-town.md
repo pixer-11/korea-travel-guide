@@ -1,50 +1,77 @@
 ---
-title: "Jakarta Old Town: Travel Guide (4.1★)"
-description: "Jakarta Old Town sits on Jalan Kali Besar Timur in Pinangsia, Taman Sari, West Jakarta. 4.1★ (181 reviews) — what visitors say, hours, and tips."
-country: "Indonesia"
-region: "Jakarta"
-category: "hidden-gem"
-pubDate: "2026-09-28T07:44:51.842Z"
+title: 'Jakarta Old Town: Travel Guide (4.1★)'
+description: >-
+  Jakarta Old Town sits on Jalan Kali Besar Timur in Pinangsia, Taman Sari, West
+  Jakarta. 4.1★ (184 reviews) — what visitors say, hours, and tips.
+country: Indonesia
+region: Jakarta
+category: hidden-gem
+pubDate: '2026-09-28T07:44:51.842Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Batavia_City_Hall_%28Jakarta_History_Museum%29_Fatahillah_Square_%282025%29_-_img_01.jpg/1920px-Batavia_City_Hall_%28Jakarta_History_Museum%29_Fatahillah_Square_%282025%29_-_img_01.jpg"
-  credit: "Photo: Chainwit. / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Batavia_City_Hall_(Jakarta_History_Museum)_Fatahillah_Square_(2025)_-_img_01.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Batavia_City_Hall_%28Jakarta_History_Museum%29_Fatahillah_Square_%282025%29_-_img_01.jpg/1920px-Batavia_City_Hall_%28Jakarta_History_Museum%29_Fatahillah_Square_%282025%29_-_img_01.jpg
+  credit: 'Photo: Chainwit. / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Batavia_City_Hall_(Jakarta_History_Museum)_Fatahillah_Square_(2025)_-_img_01.jpg
   focus:
     x: 48
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/2/22/The_Stadhuis_of_Jakarta_Old_Town%2C_in_North_Jakarta.jpg"
-    credit: "Photo: J-lorentz / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:The_Stadhuis_of_Jakarta_Old_Town,_in_North_Jakarta.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/2/22/The_Stadhuis_of_Jakarta_Old_Town%2C_in_North_Jakarta.jpg
+    credit: 'Photo: J-lorentz / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:The_Stadhuis_of_Jakarta_Old_Town,_in_North_Jakarta.jpg
 place:
-  id: "ChIJuX4ccZQdai4RSmf2-3ePdUc"
-  name: "Jakarta Old Town"
-  address: "VR76+QQJ, Jl. Kali Besar Tim., RT.3/RW.6, Pinangsia, Kec. Taman Sari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11110, Indonesia"
+  id: ChIJuX4ccZQdai4RSmf2-3ePdUc
+  name: Jakarta Old Town
+  address: >-
+    VR76+QQJ, Jl. Kali Besar Tim., RT.3/RW.6, Pinangsia, Kec. Taman Sari, Kota
+    Jakarta Barat, Daerah Khusus Ibukota Jakarta 11110, Indonesia
   rating: 4.1
-  userRatingsTotal: 181
-  googleMapsUrl: "https://maps.google.com/?cid=5149179494459139914&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 184
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5149179494459139914&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -6.135502799999999
   lng: 106.81193959999999
 tags:
-  - "jakarta"
-  - "old quarter"
-quickAnswer: "Jakarta Old Town sits on Jalan Kali Besar Timur in Pinangsia, Taman Sari, West Jakarta. It is the canal edge of Kota Tua, the old Dutch colonial core of Batavia. Take the KRL Commuter Line or TransJakarta Corridor 1 to Kota, walk the canal promenade to Fatahillah Square, and give it two to three hours, ideally early morning or late afternoon before the heat sets in."
+  - jakarta
+  - old quarter
+quickAnswer: >-
+  Jakarta Old Town sits on Jalan Kali Besar Timur in Pinangsia, Taman Sari, West
+  Jakarta. It is the canal edge of Kota Tua, the old Dutch colonial core of
+  Batavia. Take the KRL Commuter Line or TransJakarta Corridor 1 to Kota, walk
+  the canal promenade to Fatahillah Square, and give it two to three hours,
+  ideally early morning or late afternoon before the heat sets in.
 faq:
-  - q: "How do I get to Jakarta Old Town?"
-    a: "Take the KRL Commuter Line or TransJakarta Corridor 1 to Jakarta Kota. From there, Fatahillah Square is about a five-minute walk through the underpass, and the Kali Besar canal is just west of the square."
-  - q: "How long should I spend in Kota Tua?"
-    a: "Two to three hours covers the canal, Fatahillah Square and one or two museums. Allow half a day if you also want Sunda Kelapa harbour or Glodok."
-  - q: "What is the best time of day to visit?"
-    a: "Early morning or late afternoon, because the cobbled square has little shade at midday. Weekdays are generally calmer than weekends and school holidays."
-  - q: "Are the museums open every day?"
-    a: "Not necessarily. Many Jakarta museums close on Mondays, and their hours change, so check the official museum schedule before you go."
-  - q: "What else is nearby?"
-    a: "Toko Merah on the west bank of Kali Besar, Sunda Kelapa harbour and the Kota Intan drawbridge to the north, and Glodok Chinatown to the south."
+  - q: How do I get to Jakarta Old Town?
+    a: >-
+      Take the KRL Commuter Line or TransJakarta Corridor 1 to Jakarta Kota.
+      From there, Fatahillah Square is about a five-minute walk through the
+      underpass, and the Kali Besar canal is just west of the square.
+  - q: How long should I spend in Kota Tua?
+    a: >-
+      Two to three hours covers the canal, Fatahillah Square and one or two
+      museums. Allow half a day if you also want Sunda Kelapa harbour or Glodok.
+  - q: What is the best time of day to visit?
+    a: >-
+      Early morning or late afternoon, because the cobbled square has little
+      shade at midday. Weekdays are generally calmer than weekends and school
+      holidays.
+  - q: Are the museums open every day?
+    a: >-
+      Not necessarily. Many Jakarta museums close on Mondays, and their hours
+      change, so check the official museum schedule before you go.
+  - q: What else is nearby?
+    a: >-
+      Toko Merah on the west bank of Kali Besar, Sunda Kelapa harbour and the
+      Kota Intan drawbridge to the north, and Glodok Chinatown to the south.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-04'
 ---
 
 ## The canal Batavia was built on

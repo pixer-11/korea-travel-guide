@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: dresden-the-grand-garden-of-dresden
-srcHash: '1f2a6181bfe2'
+srcHash: 'c334c135f3e3'
 title: 'Gran Jardín de Dresde: guía de viaje (4.8★)'
-description: 'El Gran Jardín de Dresde (Großer Garten) es un amplio parque barroco de Dresden-Altstadt, a poca distancia a pie al sureste del casco antiguo, con un palacio de verano del siglo XVII en el centro. Tiene 4.8★ (16,807 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Gran Jardín de Dresde (Großer Garten) es un amplio parque barroco de Dresden-Altstadt, a poca distancia a pie al sureste del casco antiguo, con un palacio de verano del siglo XVII en el centro. Tiene 4.8★ (16,810 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Al sureste del casco antiguo de Dresde, a poca distancia a pie, se extiende el Gran Jardín (Großer Garten), un amplio parque barroco de Dresden-Altstadt con un palacio de verano del siglo XVII en el centro. Abre las 24 horas. Los fines de semana, la franja más tranquila va de 7am a 8am, mientras que la mayor afluencia se concentra entre las 11am y las 8pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Gran Jardín de Dresde?

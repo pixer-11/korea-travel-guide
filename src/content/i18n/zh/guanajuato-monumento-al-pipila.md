@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: guanajuato-monumento-al-pipila
-srcHash: 'c2ebfad4148b'
+srcHash: '381de29660fa'
 title: 皮皮拉纪念碑（Monumento Al Pipila）：瓜纳华托旅行指南（4.7★）
-description: 皮皮拉纪念碑矗立在瓜纳华托老城上方的圣米格尔山（Cerro de San Miguel）上，是全城最主要的观景台。可从华雷斯剧院后方乘缆索铁路上山，也可沿石板小巷步行15到20分钟爬上去。4.7★（39,143条评价），游客口碑、开放时间和实用贴士都在这里。
+description: 皮皮拉纪念碑矗立在瓜纳华托老城上方的圣米格尔山（Cerro de San Miguel）上，是全城最主要的观景台。可从华雷斯剧院后方乘缆索铁路上山，也可沿石板小巷步行15到20分钟爬上去。4.7★（39,146条评价），游客口碑、开放时间和实用贴士都在这里。
 quickAnswer: 皮皮拉纪念碑矗立在瓜纳华托老城上方的圣米格尔山（Cerro de San Miguel）上，是全城最主要的观景台。上山有两种办法：从华雷斯剧院（Teatro Juárez）后方乘缆索铁路，或者沿陡峭的石板小巷步行15到20分钟。景点24小时开放。工作日7am至10am、周末7am至9am人最少；周末11am至11pm是高峰时段，最好错开。
 faq:
   - q: 什么时候去皮皮拉纪念碑人最少？

@@ -1,60 +1,83 @@
 ---
-title: "Salamanca Market: Hobart Travel Guide (4.5★)"
-description: "Salamanca Market runs on Salamanca Place in Hobart every Saturday from 8:30am to 3pm, and it is closed every other day of the week. 4.5★ (13,597 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Hobart"
-category: "hidden-gem"
-pubDate: "2026-10-02T07:49:02.780Z"
+title: 'Salamanca Market: Hobart Travel Guide (4.5★)'
+description: >-
+  Salamanca Market runs on Salamanca Place in Hobart every Saturday from 8:30am
+  to 3pm, and it is closed every other day of the week. 4.5★ (13,600 reviews) —
+  what visitors say, hours, and tips.
+country: Australia
+region: Hobart
+category: hidden-gem
+pubDate: '2026-10-02T07:49:02.780Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Salamanca_Market_2010.jpg"
-  credit: "Photo: JJ Harrison (https://www.jjharrison.com.au/) / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Salamanca_Market_2010.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/5/5d/Salamanca_Market_2010.jpg
+  credit: >-
+    Photo: JJ Harrison (https://www.jjharrison.com.au/) / Wikimedia Commons (CC
+    BY-SA 3.0)
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Salamanca_Market_2010.jpg'
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Salamanca_Market_July_2017.jpg/3840px-Salamanca_Market_July_2017.jpg"
-    credit: "Photo: Nick-D / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Salamanca_Market_July_2017.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Salamanca_Market_July_2017.jpg/3840px-Salamanca_Market_July_2017.jpg
+    credit: 'Photo: Nick-D / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Salamanca_Market_July_2017.jpg'
 place:
-  id: "ChIJc7YQg4h1bqoRfT61KSPT1Gg"
-  name: "Salamanca Market"
-  address: "Salamanca Pl, Hobart TAS 7001, Australia"
+  id: ChIJc7YQg4h1bqoRfT61KSPT1Gg
+  name: Salamanca Market
+  address: 'Salamanca Pl, Hobart TAS 7001, Australia'
   rating: 4.5
-  userRatingsTotal: 13597
-  googleMapsUrl: "https://maps.google.com/?cid=7553894622984224381&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 13600
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7553894622984224381&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -42.886922299999995
   lng: 147.3321107
-  phone: "+61 3 6238 2430"
+  phone: +61 3 6238 2430
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: Closed"
-    - "Wednesday: Closed"
-    - "Thursday: Closed"
-    - "Friday: Closed"
-    - "Saturday: 8:30 AM – 3:00 PM"
-    - "Sunday: Closed"
+    - 'Monday: Closed'
+    - 'Tuesday: Closed'
+    - 'Wednesday: Closed'
+    - 'Thursday: Closed'
+    - 'Friday: Closed'
+    - 'Saturday: 8:30 AM – 3:00 PM'
+    - 'Sunday: Closed'
 tags:
-  - "hobart"
-  - "local market"
-quickAnswer: "Salamanca Market runs on Salamanca Place in Hobart every Saturday from 8:30am to 3pm, and it is closed every other day of the week. Arrive close to 8:30am for the most room to move and the best choice of produce. Allow two to three hours, then walk Kelly's Steps up into Battery Point."
+  - hobart
+  - local market
+quickAnswer: >-
+  Salamanca Market runs on Salamanca Place in Hobart every Saturday from 8:30am
+  to 3pm, and it is closed every other day of the week. Arrive close to 8:30am
+  for the most room to move and the best choice of produce. Allow two to three
+  hours, then walk Kelly's Steps up into Battery Point.
 faq:
-  - q: "What days is Salamanca Market open?"
-    a: "Saturdays only, from 8:30am to 3pm. It is closed Sunday through Friday."
-  - q: "When should I arrive to avoid the crowds?"
-    a: "It's a very popular market. Arriving close to the 8:30am opening usually gets you ahead of day-trippers and cruise groups, and produce stalls have their best stock then."
-  - q: "How do I get to Salamanca Market from central Hobart?"
-    a: "It's about a ten-minute walk downhill from the Elizabeth Street Mall, past Franklin Square, to Salamanca Place on the waterfront. The street is closed to traffic during market hours."
-  - q: "How long should I spend there?"
-    a: "Two to three hours covers the stalls and lunch. Add an hour if you walk up Kelly's Steps into Battery Point."
-  - q: "What's nearby?"
-    a: "Kelly's Steps and Battery Point, St David's Park, Parliament House, Constitution Dock, and Brooke Street Pier for the MONA ferry."
+  - q: What days is Salamanca Market open?
+    a: 'Saturdays only, from 8:30am to 3pm. It is closed Sunday through Friday.'
+  - q: When should I arrive to avoid the crowds?
+    a: >-
+      It's a very popular market. Arriving close to the 8:30am opening usually
+      gets you ahead of day-trippers and cruise groups, and produce stalls have
+      their best stock then.
+  - q: How do I get to Salamanca Market from central Hobart?
+    a: >-
+      It's about a ten-minute walk downhill from the Elizabeth Street Mall, past
+      Franklin Square, to Salamanca Place on the waterfront. The street is
+      closed to traffic during market hours.
+  - q: How long should I spend there?
+    a: >-
+      Two to three hours covers the stalls and lunch. Add an hour if you walk up
+      Kelly's Steps into Battery Point.
+  - q: What's nearby?
+    a: >-
+      Kelly's Steps and Battery Point, St David's Park, Parliament House,
+      Constitution Dock, and Brooke Street Pier for the MONA ferry.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-04'
 ---
 
 ## A Saturday strip of sandstone and canvas

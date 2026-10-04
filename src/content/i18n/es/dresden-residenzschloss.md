@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: dresden-residenzschloss
-srcHash: 'f46c79771ce0'
+srcHash: '8295ac4364a1'
 title: 'Residenzschloss: guía de viaje de Dresde (4.7★)'
-description: En el número Taschenberg 2 del casco antiguo de Dresde se alza el Residenzschloss, el palacio real reconstruido que alberga los tesoros de la Bóveda Verde, la Armería, la Cámara Turca y el Gabinete Numismático. Con 4.7★ (13,219 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
+description: En el número Taschenberg 2 del casco antiguo de Dresde se alza el Residenzschloss, el palacio real reconstruido que alberga los tesoros de la Bóveda Verde, la Armería, la Cámara Turca y el Gabinete Numismático. Con 4.7★ (13,220 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: En el número Taschenberg 2 del casco antiguo (Altstadt) de Dresde se alza el Residenzschloss, el antiguo palacio real, hoy reconstruido. En su interior se guardan los tesoros de la Bóveda Verde, la Armería, la Cámara Turca y el Gabinete Numismático. Abre a diario de 10am a 5pm, salvo los martes, cuando permanece cerrado. Como los fines de semana se llena de 11am a 5pm, conviene llegar a la apertura de las 10am y reservar con antelación el turno de entrada a la Bóveda Verde Histórica.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Residenzschloss?

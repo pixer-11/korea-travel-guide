@@ -1,44 +1,51 @@
 ---
-title: "Hamburger Kunsthalle: Hamburg Travel Guide (4.6★)"
-description: "The Hamburger Kunsthalle sits on Glockengießerwall in Hamburg's Altstadt, a short walk from the Hauptbahnhof. 4.6★ (12,526 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Hamburg"
-category: "attraction"
-pubDate: "2026-10-04T13:30:00.228Z"
+title: 'Hamburger Kunsthalle: Hamburg Travel Guide (4.6★)'
+description: >-
+  The Hamburger Kunsthalle sits on Glockengießerwall in Hamburg's Altstadt, a
+  short walk from the Hauptbahnhof. 4.6★ (12,531 reviews) — what visitors say,
+  hours, and tips.
+country: Germany
+region: Hamburg
+category: attraction
+pubDate: '2026-10-04T13:30:00.228Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Hamburger_Kunsthalle.jpg/1920px-Hamburger_Kunsthalle.jpg"
-  credit: "Photo: Chat W from Edinburgh, Scotland / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Hamburger_Kunsthalle.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Hamburger_Kunsthalle.jpg/1920px-Hamburger_Kunsthalle.jpg
+  credit: 'Photo: Chat W from Edinburgh, Scotland / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Hamburger_Kunsthalle.jpg'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/R%C3%BCckseite_der_Hamburger_Kunsthalle_ohne_Sonnenschein_-_panoramio.jpg/3840px-R%C3%BCckseite_der_Hamburger_Kunsthalle_ohne_Sonnenschein_-_panoramio.jpg"
-    credit: "Photo: Axel Schnell / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:R%C3%BCckseite_der_Hamburger_Kunsthalle_ohne_Sonnenschein_-_panoramio.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/R%C3%BCckseite_der_Hamburger_Kunsthalle_ohne_Sonnenschein_-_panoramio.jpg/3840px-R%C3%BCckseite_der_Hamburger_Kunsthalle_ohne_Sonnenschein_-_panoramio.jpg
+    credit: 'Photo: Axel Schnell / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:R%C3%BCckseite_der_Hamburger_Kunsthalle_ohne_Sonnenschein_-_panoramio.jpg
 place:
-  id: "ChIJaRWPtOGOsUcRGMEOJhe53JE"
-  name: "Hamburger Kunsthalle"
-  address: "Glockengießerwall 5, 20095 Hamburg, Germany"
+  id: ChIJaRWPtOGOsUcRGMEOJhe53JE
+  name: Hamburger Kunsthalle
+  address: 'Glockengießerwall 5, 20095 Hamburg, Germany'
   rating: 4.6
-  userRatingsTotal: 12526
-  googleMapsUrl: "https://maps.google.com/?cid=10510479139449782552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 12531
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10510479139449782552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 53.5555111
   lng: 10.0025458
-  phone: "+49 40 428131200"
+  phone: +49 40 428131200
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 6:00 PM"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 9:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 9:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-10-04
+    updated: 2026-10-04T00:00:00.000Z
     weekdayQuiet:
       - 18
     weekdayBusy:
@@ -54,24 +61,45 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_454a333565684a4f454d47526355734f474f74505752614a496843"
+    venueId: ven_454a333565684a4f454d47526355734f474f74505752614a496843
 tags:
-  - "hamburg"
-  - "museum"
-quickAnswer: "The Hamburger Kunsthalle sits on Glockengießerwall in Hamburg's Altstadt, a short walk from the Hauptbahnhof. Its three linked buildings hold art from medieval altarpieces to contemporary photography, including Caspar David Friedrich's Wanderer above the Sea of Fog. Go on a Thursday, when it stays open until 9pm and 6pm–7pm is the quietest hour, and avoid weekends between 11am and 6pm."
+  - hamburg
+  - museum
+quickAnswer: >-
+  The Hamburger Kunsthalle sits on Glockengießerwall in Hamburg's Altstadt, a
+  short walk from the Hauptbahnhof. Its three linked buildings hold art from
+  medieval altarpieces to contemporary photography, including Caspar David
+  Friedrich's Wanderer above the Sea of Fog. Go on a Thursday, when it stays
+  open until 9pm and 6pm–7pm is the quietest hour, and avoid weekends between
+  11am and 6pm.
 faq:
-  - q: "When is the quietest time to visit the Hamburger Kunsthalle?"
-    a: "The quietest weekday window is 6pm–7pm. The museum only stays open past 6pm on Thursdays, when it closes at 9pm, so Thursday evening is the time to go. Avoid weekends from 11am to 6pm, the busiest period."
-  - q: "How do I get to the Hamburger Kunsthalle?"
-    a: "It's at Glockengießerwall 5, right next to Hamburg Hauptbahnhof. Take the U2 or U4 to Hauptbahnhof Nord and follow the signs to the Kunsthalle. You can also walk out of the main station's north side toward the Alster."
-  - q: "Is the Kunsthalle open on Mondays?"
-    a: "No. It's closed on Mondays. From Tuesday to Sunday it opens at 10am and closes at 6pm, except Thursday, when it stays open until 9pm."
-  - q: "How long should I spend at the Kunsthalle?"
-    a: "Allow about three hours to see all three buildings. With two hours you can focus on the highlights, such as the Caspar David Friedrich room, the medieval altarpieces and one section of the Galerie der Gegenwart."
-  - q: "What is there to do nearby after visiting?"
-    a: "The Binnenalster and Jungfernstieg are a few minutes' walk west. The Museum für Kunst und Gewerbe is just across the Hauptbahnhof, and the Deichtorhallen contemporary art halls are a short walk south."
+  - q: When is the quietest time to visit the Hamburger Kunsthalle?
+    a: >-
+      The quietest weekday window is 6pm–7pm. The museum only stays open past
+      6pm on Thursdays, when it closes at 9pm, so Thursday evening is the time
+      to go. Avoid weekends from 11am to 6pm, the busiest period.
+  - q: How do I get to the Hamburger Kunsthalle?
+    a: >-
+      It's at Glockengießerwall 5, right next to Hamburg Hauptbahnhof. Take the
+      U2 or U4 to Hauptbahnhof Nord and follow the signs to the Kunsthalle. You
+      can also walk out of the main station's north side toward the Alster.
+  - q: Is the Kunsthalle open on Mondays?
+    a: >-
+      No. It's closed on Mondays. From Tuesday to Sunday it opens at 10am and
+      closes at 6pm, except Thursday, when it stays open until 9pm.
+  - q: How long should I spend at the Kunsthalle?
+    a: >-
+      Allow about three hours to see all three buildings. With two hours you can
+      focus on the highlights, such as the Caspar David Friedrich room, the
+      medieval altarpieces and one section of the Galerie der Gegenwart.
+  - q: What is there to do nearby after visiting?
+    a: >-
+      The Binnenalster and Jungfernstieg are a few minutes' walk west. The
+      Museum für Kunst und Gewerbe is just across the Hauptbahnhof, and the
+      Deichtorhallen contemporary art halls are a short walk south.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-04'
 ---
 
 ## Three buildings, one ticket

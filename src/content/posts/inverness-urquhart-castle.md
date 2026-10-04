@@ -1,44 +1,50 @@
 ---
-title: "Urquhart Castle: Inverness Travel Guide (4.5★)"
-description: "Urquhart Castle sits on the shore of Loch Ness just south of Drumnadrochit, about a 25-minute drive down the A82 from Inverness, and it's open daily from 9:30am to 4:30pm. 4.5★ (29,240 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Inverness"
-category: "hidden-gem"
-pubDate: "2026-10-01T14:45:28.131Z"
+title: 'Urquhart Castle: Inverness Travel Guide (4.5★)'
+description: >-
+  Urquhart Castle sits on the shore of Loch Ness just south of Drumnadrochit,
+  about a 25-minute drive down the A82 from Inverness, and it's open daily from
+  9:30am to 4:30pm. 4.5★ (29,272 reviews) — what visitors say, hours, and tips.
+country: United Kingdom
+region: Inverness
+category: hidden-gem
+pubDate: '2026-10-01T14:45:28.131Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Urquhart_Castle_Tower_House_2.jpg/1920px-Urquhart_Castle_Tower_House_2.jpg"
-  credit: "Photo: Wknight94 / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Urquhart_Castle_Tower_House_2.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Urquhart_Castle_Tower_House_2.jpg/1920px-Urquhart_Castle_Tower_House_2.jpg
+  credit: 'Photo: Wknight94 / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Urquhart_Castle_Tower_House_2.jpg'
   focus:
     x: 65
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/5/52/Urquhart_Castle_distance_2.jpg"
-    credit: "Photo: Wknight94 / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Urquhart_Castle_distance_2.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/5/52/Urquhart_Castle_distance_2.jpg
+    credit: 'Photo: Wknight94 / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Urquhart_Castle_distance_2.jpg'
 place:
-  id: "ChIJC2d4AeITj0gR8C09zc8mYZk"
-  name: "Urquhart Castle"
-  address: "Drumnadrochit, Inverness IV63 6XJ, UK"
+  id: ChIJC2d4AeITj0gR8C09zc8mYZk
+  name: Urquhart Castle
+  address: 'Drumnadrochit, Inverness IV63 6XJ, UK'
   rating: 4.5
-  userRatingsTotal: 29240
-  googleMapsUrl: "https://maps.google.com/?cid=11052157634487332336&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 29272
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=11052157634487332336&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 57.32413989999999
   lng: -4.442001299999999
-  phone: "+44 1456 450551"
+  phone: +44 1456 450551
   openingHours:
-    - "Monday: 9:30 AM – 4:30 PM"
-    - "Tuesday: 9:30 AM – 4:30 PM"
-    - "Wednesday: 9:30 AM – 4:30 PM"
-    - "Thursday: 9:30 AM – 4:30 PM"
-    - "Friday: 9:30 AM – 4:30 PM"
-    - "Saturday: 9:30 AM – 4:30 PM"
-    - "Sunday: 9:30 AM – 4:30 PM"
+    - 'Monday: 9:30 AM – 4:30 PM'
+    - 'Tuesday: 9:30 AM – 4:30 PM'
+    - 'Wednesday: 9:30 AM – 4:30 PM'
+    - 'Thursday: 9:30 AM – 4:30 PM'
+    - 'Friday: 9:30 AM – 4:30 PM'
+    - 'Saturday: 9:30 AM – 4:30 PM'
+    - 'Sunday: 9:30 AM – 4:30 PM'
   busyness:
-    updated: 2026-10-01
+    updated: 2026-10-01T00:00:00.000Z
     weekdayBusy:
       - 13
       - 14
@@ -48,24 +54,44 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_6b5a596d38637a393043385267306a54496541346432434a496843"
+    venueId: ven_6b5a596d38637a393043385267306a54496541346432434a496843
 tags:
-  - "inverness"
-  - "hidden gem"
-quickAnswer: "Urquhart Castle sits on the shore of Loch Ness just south of Drumnadrochit, about a 25-minute drive down the A82 from Inverness, and it's open daily from 9:30am to 4:30pm. On weekends the calmest hour is 10am–11am, and from 1pm to 4pm the site is at its fullest, so book a timed ticket and arrive early. Give yourself two hours for the film, the ruin and the shoreline."
+  - inverness
+  - hidden gem
+quickAnswer: >-
+  Urquhart Castle sits on the shore of Loch Ness just south of Drumnadrochit,
+  about a 25-minute drive down the A82 from Inverness, and it's open daily from
+  9:30am to 4:30pm. On weekends the calmest hour is 10am–11am, and from 1pm to
+  4pm the site is at its fullest, so book a timed ticket and arrive early. Give
+  yourself two hours for the film, the ruin and the shoreline.
 faq:
-  - q: "When is the quietest time to visit Urquhart Castle?"
-    a: "On weekends the quietest hour is 10am to 11am. Avoid 1pm to 4pm on weekends, the busiest stretch, when coach tours and cruise passengers overlap."
-  - q: "How do I get to Urquhart Castle from Inverness without a car?"
-    a: "Scottish Citylink coaches on the Inverness to Fort William route along the A82 stop at the castle entrance. Several Loch Ness cruises from the Inverness end also stop at the castle's jetty."
-  - q: "What are Urquhart Castle's opening hours?"
-    a: "It's open every day from 9:30am to 4:30pm. Last entry is before closing time, so arrive well before 4:30pm."
-  - q: "How long should I spend at Urquhart Castle?"
-    a: "Allow about two hours for the visitor centre film, the walk down, the Grant Tower climb and the shoreline. Add time if you want to sit in the café or take photos."
-  - q: "What is there to see near Urquhart Castle?"
-    a: "Drumnadrochit and the Loch Ness Centre are a few minutes north. Fort Augustus and the Caledonian Canal locks are further south on the A82, and Inverness is about half an hour's drive away."
+  - q: When is the quietest time to visit Urquhart Castle?
+    a: >-
+      On weekends the quietest hour is 10am to 11am. Avoid 1pm to 4pm on
+      weekends, the busiest stretch, when coach tours and cruise passengers
+      overlap.
+  - q: How do I get to Urquhart Castle from Inverness without a car?
+    a: >-
+      Scottish Citylink coaches on the Inverness to Fort William route along the
+      A82 stop at the castle entrance. Several Loch Ness cruises from the
+      Inverness end also stop at the castle's jetty.
+  - q: What are Urquhart Castle's opening hours?
+    a: >-
+      It's open every day from 9:30am to 4:30pm. Last entry is before closing
+      time, so arrive well before 4:30pm.
+  - q: How long should I spend at Urquhart Castle?
+    a: >-
+      Allow about two hours for the visitor centre film, the walk down, the
+      Grant Tower climb and the shoreline. Add time if you want to sit in the
+      café or take photos.
+  - q: What is there to see near Urquhart Castle?
+    a: >-
+      Drumnadrochit and the Loch Ness Centre are a few minutes north. Fort
+      Augustus and the Caledonian Canal locks are further south on the A82, and
+      Inverness is about half an hour's drive away.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-04'
 ---
 
 ## A ruin on a headland

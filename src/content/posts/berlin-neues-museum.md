@@ -1,44 +1,50 @@
 ---
-title: "Neues Museum: Berlin Travel Guide (4.5★)"
-description: "The Neues Museum sits on Museum Island in Berlin's Mitte district, at Bodestraße 1-3. 4.5★ (15,950 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Berlin"
-category: "attraction"
-pubDate: "2026-10-04T13:31:49.106Z"
+title: 'Neues Museum: Berlin Travel Guide (4.5★)'
+description: >-
+  The Neues Museum sits on Museum Island in Berlin's Mitte district, at
+  Bodestraße 1-3. 4.5★ (15,954 reviews) — what visitors say, hours, and tips.
+country: Germany
+region: Berlin
+category: attraction
+pubDate: '2026-10-04T13:31:49.106Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Berlin_Neues_Museum_001.JPG/1920px-Berlin_Neues_Museum_001.JPG"
-  credit: "Photo: Janericloebe / Wikimedia Commons (Public domain)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Berlin_Neues_Museum_001.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Berlin_Neues_Museum_001.JPG/1920px-Berlin_Neues_Museum_001.JPG
+  credit: 'Photo: Janericloebe / Wikimedia Commons (Public domain)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Berlin_Neues_Museum_001.JPG'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Window_with_Corinthian_columns_of_the_Neues_Museum_in_Berlin.jpg/3840px-Window_with_Corinthian_columns_of_the_Neues_Museum_in_Berlin.jpg"
-    credit: "Photo: Neoclassicism Enthusiast / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Window_with_Corinthian_columns_of_the_Neues_Museum_in_Berlin.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Window_with_Corinthian_columns_of_the_Neues_Museum_in_Berlin.jpg/3840px-Window_with_Corinthian_columns_of_the_Neues_Museum_in_Berlin.jpg
+    credit: 'Photo: Neoclassicism Enthusiast / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Window_with_Corinthian_columns_of_the_Neues_Museum_in_Berlin.jpg
 place:
-  id: "ChIJS8OUk91RqEcRNauNAPV5P40"
-  name: "Neues Museum"
-  address: "Bodestraße 1-3, 10178 Berlin, Germany"
+  id: ChIJS8OUk91RqEcRNauNAPV5P40
+  name: Neues Museum
+  address: 'Bodestraße 1-3, 10178 Berlin, Germany'
   rating: 4.5
-  userRatingsTotal: 15950
-  googleMapsUrl: "https://maps.google.com/?cid=10177987776063843125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 15954
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10177987776063843125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 52.520134899999995
   lng: 13.397646199999999
-  phone: "+49 30 266424242"
+  phone: +49 30 266424242
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 6:00 PM"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-10-04
+    updated: 2026-10-04T00:00:00.000Z
     weekdayBusy:
       - 12
       - 13
@@ -52,24 +58,43 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_303450355650414e75614e526345715231396b554f38534a496843"
+    venueId: ven_303450355650414e75614e526345715231396b554f38534a496843
 tags:
-  - "berlin"
-  - "museum"
-quickAnswer: "The Neues Museum sits on Museum Island in Berlin's Mitte district, at Bodestraße 1-3. It holds the bust of Nefertiti, Egyptian art and prehistoric finds inside David Chipperfield's restoration of a war-damaged 19th-century building. It opens Tuesday to Sunday from 10am to 6pm and is closed Mondays; weekends are busiest from 11am to 6pm, so book a 10am slot or come on a weekday."
+  - berlin
+  - museum
+quickAnswer: >-
+  The Neues Museum sits on Museum Island in Berlin's Mitte district, at
+  Bodestraße 1-3. It holds the bust of Nefertiti, Egyptian art and prehistoric
+  finds inside David Chipperfield's restoration of a war-damaged 19th-century
+  building. It opens Tuesday to Sunday from 10am to 6pm and is closed Mondays;
+  weekends are busiest from 11am to 6pm, so book a 10am slot or come on a
+  weekday.
 faq:
-  - q: "When is the quietest time to visit the Neues Museum?"
-    a: "Weekends are busiest from 11am to 6pm, so avoid those hours if you can. On a Saturday or Sunday, book the 10am opening slot and see Nefertiti first. A weekday visit (Tuesday to Friday) is a more relaxed choice."
-  - q: "Is the Neues Museum open on Mondays?"
-    a: "No. It is closed on Mondays and open Tuesday to Sunday from 10am to 6pm."
-  - q: "How do I get to the Neues Museum?"
-    a: "Take the U5 to Museumsinsel and walk north across the Lustgarten. You can also take the S-Bahn (S3, S5, S7, S9) to Hackescher Markt and walk about ten minutes over the Friedrichsbrücke. The entrance is usually through the James-Simon-Galerie."
-  - q: "How long should I spend there?"
-    a: "Allow two to three hours for the Egyptian and prehistory collections plus the restored building. Add more time if you're visiting other Museum Island museums the same day."
-  - q: "Can I take photos of Nefertiti?"
-    a: "No. Photography is not allowed in the domed room where the bust is displayed. You can take photos in most other galleries."
+  - q: When is the quietest time to visit the Neues Museum?
+    a: >-
+      Weekends are busiest from 11am to 6pm, so avoid those hours if you can. On
+      a Saturday or Sunday, book the 10am opening slot and see Nefertiti first.
+      A weekday visit (Tuesday to Friday) is a more relaxed choice.
+  - q: Is the Neues Museum open on Mondays?
+    a: No. It is closed on Mondays and open Tuesday to Sunday from 10am to 6pm.
+  - q: How do I get to the Neues Museum?
+    a: >-
+      Take the U5 to Museumsinsel and walk north across the Lustgarten. You can
+      also take the S-Bahn (S3, S5, S7, S9) to Hackescher Markt and walk about
+      ten minutes over the Friedrichsbrücke. The entrance is usually through the
+      James-Simon-Galerie.
+  - q: How long should I spend there?
+    a: >-
+      Allow two to three hours for the Egyptian and prehistory collections plus
+      the restored building. Add more time if you're visiting other Museum
+      Island museums the same day.
+  - q: Can I take photos of Nefertiti?
+    a: >-
+      No. Photography is not allowed in the domed room where the bust is
+      displayed. You can take photos in most other galleries.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-04'
 ---
 
 ## A ruin rebuilt around its scars

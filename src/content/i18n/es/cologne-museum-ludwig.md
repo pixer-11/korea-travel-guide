@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: cologne-museum-ludwig
-srcHash: 'ac01d5c1df6c'
+srcHash: '073e5f863b85'
 title: 'Museo Ludwig: guía de viaje de Colonia (4.5★)'
-description: El Museo Ludwig se alza en la Heinrich-Böll-Platz, en pleno centro de Colonia, a dos minutos a pie de la catedral y de la estación central (Köln Hauptbahnhof). Con una valoración de 4.5★ (9,624 reseñas), le contamos qué opinan los visitantes, cuál es su horario y algunos consejos útiles.
+description: El Museo Ludwig se alza en la Heinrich-Böll-Platz, en pleno centro de Colonia, a dos minutos a pie de la catedral y de la estación central (Köln Hauptbahnhof). Con una valoración de 4.5★ (9,626 reseñas), le contamos qué opinan los visitantes, cuál es su horario y algunos consejos útiles.
 quickAnswer: En la Heinrich-Böll-Platz, en pleno centro de Colonia, se encuentra el Museo Ludwig, a solo dos minutos a pie de la catedral y de la estación central (Köln Hauptbahnhof). Alberga la que fuera colección privada de Peter Ludwig, con arte pop, vanguardia rusa y uno de los mayores fondos de Picasso de Europa. Abre de martes a domingo, de 10:00 a 18:00, y cierra los lunes. Como los fines de semana hay mucha gente durante toda la jornada, de 10:00 a 18:00, conviene ir entre semana siempre que sea posible.
 faq:
   - q: ¿Cuándo hay menos gente en el Museo Ludwig?

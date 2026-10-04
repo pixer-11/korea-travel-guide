@@ -1,45 +1,52 @@
 ---
-title: "Fort George: Inverness Travel Guide (4.6★)"
-description: "Fort George is an 18th-century artillery fortress on a spit of land in the Moray Firth near Ardersier, about 11 miles northeast of Inverness, and it is still a working army barracks with the Highlanders' Museum inside. 4.6★ (4,703 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Inverness"
-category: "attraction"
-pubDate: "2026-10-01T07:52:48.988Z"
+title: 'Fort George: Inverness Travel Guide (4.6★)'
+description: >-
+  Fort George is an 18th-century artillery fortress on a spit of land in the
+  Moray Firth near Ardersier, about 11 miles northeast of Inverness, and it is
+  still a working army barracks with the Highlanders' Museum inside. 4.6★ (4,709
+  reviews) — what visitors say, hours, and tips.
+country: United Kingdom
+region: Inverness
+category: attraction
+pubDate: '2026-10-01T07:52:48.988Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Fort_George%2C_2003_%281%29.JPG"
-  credit: "Photo: Elisa.rolle / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Fort_George,_2003_(1).JPG"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/5/5e/Fort_George%2C_2003_%281%29.JPG
+  credit: 'Photo: Elisa.rolle / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Fort_George,_2003_(1).JPG'
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/235334_-13c7ol9LqhMOYmnd42MKzihMRWOteC_VBI_7Po-MUc.jpg"
-    credit: "Photo: Foursquare user content (Fort George)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4bd7074b29eb9c74200196e1"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/235334_-13c7ol9LqhMOYmnd42MKzihMRWOteC_VBI_7Po-MUc.jpg
+    credit: 'Photo: Foursquare user content (Fort George)'
+    license: foursquare
+    source: 'https://foursquare.com/v/4bd7074b29eb9c74200196e1'
 place:
-  id: "ChIJyxombVUFdkgR2I2uEbFVdeM"
-  name: "Fort George"
-  address: "Near, Ardersier, Inverness IV2 7TD, UK"
+  id: ChIJyxombVUFdkgR2I2uEbFVdeM
+  name: Fort George
+  address: 'Near, Ardersier, Inverness IV2 7TD, UK'
   rating: 4.6
-  userRatingsTotal: 4703
-  googleMapsUrl: "https://maps.google.com/?cid=16390100637879012824&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4709
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16390100637879012824&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 57.58410730000001
   lng: -4.0687334
-  phone: "+44 1667 460232"
+  phone: +44 1667 460232
   openingHours:
-    - "Monday: 10:00 AM – 4:00 PM"
-    - "Tuesday: 10:00 AM – 4:00 PM"
-    - "Wednesday: 10:00 AM – 4:00 PM"
-    - "Thursday: 10:00 AM – 4:00 PM"
-    - "Friday: 10:00 AM – 4:00 PM"
-    - "Saturday: 10:00 AM – 4:00 PM"
-    - "Sunday: 10:00 AM – 4:00 PM"
+    - 'Monday: 10:00 AM – 4:00 PM'
+    - 'Tuesday: 10:00 AM – 4:00 PM'
+    - 'Wednesday: 10:00 AM – 4:00 PM'
+    - 'Thursday: 10:00 AM – 4:00 PM'
+    - 'Friday: 10:00 AM – 4:00 PM'
+    - 'Saturday: 10:00 AM – 4:00 PM'
+    - 'Sunday: 10:00 AM – 4:00 PM'
   busyness:
-    updated: 2026-10-01
+    updated: 2026-10-01T00:00:00.000Z
     weekdayBusy:
       - 13
     weekendQuiet:
@@ -47,24 +54,47 @@ place:
       - 11
       - 14
       - 15
-    venueId: "ven_4d6564564662457532493252676b64465556626d6f78794a496843"
+    venueId: ven_4d6564564662457532493252676b64465556626d6f78794a496843
 tags:
-  - "inverness"
-  - "museum"
-quickAnswer: "Fort George is an 18th-century artillery fortress on a spit of land in the Moray Firth near Ardersier, about 11 miles northeast of Inverness, and it is still a working army barracks with the Highlanders' Museum inside. It opens 10am to 4pm daily. Weekends stay quiet across that whole 10am–4pm window, so give it at least two to three hours and start early enough to walk the full rampart circuit."
+  - inverness
+  - museum
+quickAnswer: >-
+  Fort George is an 18th-century artillery fortress on a spit of land in the
+  Moray Firth near Ardersier, about 11 miles northeast of Inverness, and it is
+  still a working army barracks with the Highlanders' Museum inside. It opens
+  10am to 4pm daily. Weekends stay quiet across that whole 10am–4pm window, so
+  give it at least two to three hours and start early enough to walk the full
+  rampart circuit.
 faq:
-  - q: "When is the quietest time to visit Fort George?"
-    a: "Weekends stay quiet throughout the 10am–4pm opening day, so there is no rush window to avoid. Arriving near 10am still gives you the most time before the 4pm close."
-  - q: "How do I get to Fort George from Inverness?"
-    a: "Drive the A96 toward Nairn, then take the B9006 through Ardersier to the fort, about 11 miles in total. There is parking on site. Buses go from Inverness to Ardersier, but you will need to walk the last stretch, so check timetables before you go."
-  - q: "How long should I spend at Fort George?"
-    a: "Allow two to three hours for the rampart walk, barrack rooms and Grand Magazine. Add an hour if you also want to do the Highlanders' Museum properly."
-  - q: "Can you see dolphins from Fort George?"
-    a: "Often, yes. Bottlenose dolphins use the channel between the fort and Chanonry Point, and the ramparts give you a high viewpoint. Your chances are best around a rising tide."
-  - q: "Is Fort George still used by the army?"
-    a: "Yes. It is a working army barracks, so some areas are off limits to visitors. Follow the signs and ask before photographing military personnel."
+  - q: When is the quietest time to visit Fort George?
+    a: >-
+      Weekends stay quiet throughout the 10am–4pm opening day, so there is no
+      rush window to avoid. Arriving near 10am still gives you the most time
+      before the 4pm close.
+  - q: How do I get to Fort George from Inverness?
+    a: >-
+      Drive the A96 toward Nairn, then take the B9006 through Ardersier to the
+      fort, about 11 miles in total. There is parking on site. Buses go from
+      Inverness to Ardersier, but you will need to walk the last stretch, so
+      check timetables before you go.
+  - q: How long should I spend at Fort George?
+    a: >-
+      Allow two to three hours for the rampart walk, barrack rooms and Grand
+      Magazine. Add an hour if you also want to do the Highlanders' Museum
+      properly.
+  - q: Can you see dolphins from Fort George?
+    a: >-
+      Often, yes. Bottlenose dolphins use the channel between the fort and
+      Chanonry Point, and the ramparts give you a high viewpoint. Your chances
+      are best around a rising tide.
+  - q: Is Fort George still used by the army?
+    a: >-
+      Yes. It is a working army barracks, so some areas are off limits to
+      visitors. Follow the signs and ask before photographing military
+      personnel.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-04'
 ---
 
 ## A fortress built to end a rebellion

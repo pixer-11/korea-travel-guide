@@ -1,56 +1,83 @@
 ---
-title: "Old Hong Kong: Kennedy Town Travel Guide"
-description: "Old Hong Kong is often listed under Kennedy Town, but it actually sits inside Ocean Park on Wong Chuk Hang Road."
-country: "Hong Kong"
-region: "Kennedy Town"
-category: "hidden-gem"
-pubDate: "2026-09-29T07:49:49.067Z"
+title: 'Old Hong Kong: Kennedy Town Travel Guide'
+description: >-
+  Old Hong Kong is often listed under Kennedy Town, but it actually sits inside
+  Ocean Park on Wong Chuk Hang Road.
+country: Hong Kong
+region: Kennedy Town
+category: hidden-gem
+pubDate: '2026-09-29T07:49:49.067Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Streets_of_Old_Hong_Kong%2C_Ocean_Park_%28Hong_Kong%29.jpg/3840px-Streets_of_Old_Hong_Kong%2C_Ocean_Park_%28Hong_Kong%29.jpg"
-  credit: "Photo: Mk2010 / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Streets_of_Old_Hong_Kong,_Ocean_Park_(Hong_Kong).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Streets_of_Old_Hong_Kong%2C_Ocean_Park_%28Hong_Kong%29.jpg/3840px-Streets_of_Old_Hong_Kong%2C_Ocean_Park_%28Hong_Kong%29.jpg
+  credit: 'Photo: Mk2010 / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Streets_of_Old_Hong_Kong,_Ocean_Park_(Hong_Kong).jpg
+  via: act
   focus:
     x: 60
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJU_QxhyYABDQRGQNnzC0qgFI"
-  name: "Old Hong Kong"
-  address: "Hong Kong, Hong Kong Island, Ocean Park, Wong Chuk Hang Rd, 180號, Ocean Park, 號"
-  rating: 4.1
-  userRatingsTotal: 92
-  googleMapsUrl: "https://maps.google.com/?cid=5944797884320252697&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  id: ChIJU_QxhyYABDQRGQNnzC0qgFI
+  name: Old Hong Kong
+  address: >-
+    Hong Kong, Hong Kong Island, Ocean Park, Wong Chuk Hang Rd, 180號, Ocean
+    Park, 號
+  rating: 4
+  userRatingsTotal: 91
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=5944797884320252697&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.246140699999998
   lng: 114.1764989
-  phone: "+852 9853 6421"
+  phone: +852 9853 6421
   openingHours:
-    - "Monday: 10:00 AM – 6:00 PM"
-    - "Tuesday: Closed"
-    - "Wednesday: Closed"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:30 PM"
-    - "Sunday: 10:00 AM – 6:30 PM"
+    - 'Monday: 10:00 AM – 6:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: Closed'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:30 PM'
+    - 'Sunday: 10:00 AM – 6:30 PM'
 tags:
-  - "kennedy town"
-  - "old quarter"
-quickAnswer: "Old Hong Kong is often listed under Kennedy Town, but it actually sits inside Ocean Park on Wong Chuk Hang Road. It is a replica streetscape of mid-20th-century Hong Kong, with antique trams and old-style shopfronts. From Kennedy Town, take the MTR Island Line to Admiralty, then the South Island Line one stop to Ocean Park. It is open Monday and Thursday to Sunday and closed on Tuesdays and Wednesdays."
+  - kennedy town
+  - old quarter
+quickAnswer: >-
+  Old Hong Kong is often listed under Kennedy Town, but it actually sits inside
+  Ocean Park on Wong Chuk Hang Road. It is a replica streetscape of
+  mid-20th-century Hong Kong, with antique trams and old-style shopfronts. From
+  Kennedy Town, take the MTR Island Line to Admiralty, then the South Island
+  Line one stop to Ocean Park. It is open Monday and Thursday to Sunday and
+  closed on Tuesdays and Wednesdays.
 faq:
-  - q: "Is Old Hong Kong actually in Kennedy Town?"
-    a: "No. It is often listed under Kennedy Town, but it is a themed zone inside Ocean Park at 180 Wong Chuk Hang Road, on the south side of Hong Kong Island."
-  - q: "How do I get to Old Hong Kong from Kennedy Town?"
-    a: "Take the MTR Island Line from Kennedy Town Station to Admiralty. Change to the South Island Line and ride one stop to Ocean Park Station, which is next to the park entrance."
-  - q: "Which days is Old Hong Kong open?"
-    a: "It opens 10:00am to 6:00pm on Monday, Thursday and Friday, and 10:00am to 6:30pm on Saturday and Sunday. It is closed on Tuesdays and Wednesdays."
-  - q: "How long should I spend there?"
-    a: "30 to 45 minutes is enough to walk the street, see the antique trams and take photos. Plan it as one stop within a full Ocean Park day."
-  - q: "Do I need a separate ticket?"
-    a: "No. Old Hong Kong is inside Ocean Park, so your park admission covers it. Current prices are listed on Ocean Park's official website and at the gate."
+  - q: Is Old Hong Kong actually in Kennedy Town?
+    a: >-
+      No. It is often listed under Kennedy Town, but it is a themed zone inside
+      Ocean Park at 180 Wong Chuk Hang Road, on the south side of Hong Kong
+      Island.
+  - q: How do I get to Old Hong Kong from Kennedy Town?
+    a: >-
+      Take the MTR Island Line from Kennedy Town Station to Admiralty. Change to
+      the South Island Line and ride one stop to Ocean Park Station, which is
+      next to the park entrance.
+  - q: Which days is Old Hong Kong open?
+    a: >-
+      It opens 10:00am to 6:00pm on Monday, Thursday and Friday, and 10:00am to
+      6:30pm on Saturday and Sunday. It is closed on Tuesdays and Wednesdays.
+  - q: How long should I spend there?
+    a: >-
+      30 to 45 minutes is enough to walk the street, see the antique trams and
+      take photos. Plan it as one stop within a full Ocean Park day.
+  - q: Do I need a separate ticket?
+    a: >-
+      No. Old Hong Kong is inside Ocean Park, so your park admission covers it.
+      Current prices are listed on Ocean Park's official website and at the
+      gate.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-04'
 ---
 
 ## A 1950s street inside a theme park

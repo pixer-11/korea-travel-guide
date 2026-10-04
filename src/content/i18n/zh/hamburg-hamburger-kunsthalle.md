@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: hamburg-hamburger-kunsthalle
-srcHash: '3545d3a4fa93'
+srcHash: '3a5a576a3500'
 title: 汉堡美术馆（Hamburger Kunsthalle）：汉堡旅行指南（4.6★）
-description: 汉堡美术馆位于汉堡老城区的Glockengießerwall，从中央火车站步行几分钟即到。评分4.6★（12,526条评价），本文汇总游客评价、开放时间和参观建议。
+description: 汉堡美术馆位于汉堡老城区的Glockengießerwall，从中央火车站步行几分钟即到。评分4.6★（12,531条评价），本文汇总游客评价、开放时间和参观建议。
 quickAnswer: 汉堡美术馆（Hamburger Kunsthalle）位于汉堡老城区的Glockengießerwall，从中央火车站步行过去只要几分钟。馆内三栋建筑彼此相连，藏品跨度很大，从���世纪祭坛画一直到当代摄影都有，卡斯帕·大卫·弗里德里希的《雾海上的旅人》也收藏在这里。建议周四前往：这天开放到晚上9点，6pm–7pm是一天中人最少的时段。周末11am到6pm之间最好避开。
 faq:
   - q: 什么时候去汉堡美术馆人最少？

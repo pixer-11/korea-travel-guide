@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: brighton-roti-king-brighton
-srcHash: '3b5f81f4e493'
+srcHash: '7f6aa94ea4c3'
 title: 布莱顿美食推荐：Roti King（4.8★）
-description: Roti King布莱顿店是一家马来西亚餐厅，地址为57 Ship St，紧邻巷弄区（The Lanes），从海滨往上走几步就到。评分4.8★（1,515条评价），本文汇总食客口碑、营业时间和实用贴士。
+description: Roti King布莱顿店是一家马来西亚餐厅，地址为57 Ship St，紧邻巷弄区（The Lanes），从海滨往上走几步就到。评分4.8★（1,524条评价），本文汇总食客口碑、营业时间和实用贴士。
 quickAnswer: Roti King布莱顿店是一家马来西亚餐厅，坐落在57 Ship St，紧挨巷弄区（The Lanes），从海滨往上步行片刻即到。这家店的招牌就是罗地（roti）：一种在铁板上煎得层层酥脆的薄饼，撕下来蘸咖喱吃。餐厅每天11:30am开门，午餐、晚餐都很方便。
 faq:
   - q: Roti King布莱顿店的具体位置在哪里？

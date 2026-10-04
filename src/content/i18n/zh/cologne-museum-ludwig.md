@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: cologne-museum-ludwig
-srcHash: 'ac01d5c1df6c'
+srcHash: '073e5f863b85'
 title: 科隆路德维希博物馆旅行指南（4.5★）
-description: 路德维希博物馆位于科隆市中心的海因里希·伯尔广场（Heinrich-Böll-Platz），步行两分钟即可到达科隆大教堂和科隆中央火车站（Köln Hauptbahnhof）。评分4.5★（9,624条评价），本文汇总游客评价、开放时间和参观建议。
+description: 路德维希博物馆位于科隆市中心的海因里希·伯尔广场（Heinrich-Böll-Platz），步行两分钟即可到达科隆大教堂和科隆中央火车站（Köln Hauptbahnhof）。评分4.5★（9,626条评价），本文汇总游客评价、开放时间和参观建议。
 quickAnswer: 路德维希博物馆（Museum Ludwig）坐落在科隆市中心的海因里希·伯尔广场（Heinrich-Böll-Platz），从科隆大教堂或科隆中央火车站（Köln Hauptbahnhof）步行过来只需两分钟。馆藏以彼得·路德维希的私人收藏为基础，涵盖波普艺术和俄罗斯先锋派，毕加索藏品的规模在欧洲也数一数二。博物馆周二至周日10:00–18:00开放，周一闭馆。周末从10点开门到18点闭馆一直人多，时间允许的话最好挑工作日前往。
 faq:
   - q: 什么时候去路德维希博物馆人最少？

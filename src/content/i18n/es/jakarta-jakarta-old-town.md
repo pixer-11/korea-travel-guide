@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jakarta-jakarta-old-town
-srcHash: '155bc215c684'
+srcHash: '685912fe8d7a'
 title: 'Ciudad Vieja de Yakarta: guía de viaje (4.1★)'
 description: La Ciudad Vieja de Yakarta se encuentra en Jalan Kali Besar Timur, en Pinangsia (Taman Sari, Yakarta Occidental). Tiene una valoración de 4.1★ en 181 reseñas. Aquí encontrará lo que opinan los visitantes, además de horarios y consejos.
 quickAnswer: La Ciudad Vieja de Yakarta se encuentra en Jalan Kali Besar Timur, en Pinangsia (Taman Sari, Yakarta Occidental), y ocupa la orilla del canal de Kota Tua, el antiguo núcleo colonial neerlandés de Batavia. Para llegar, tome la KRL Commuter Line o el Corredor 1 de TransJakarta hasta Kota y luego recorra a pie el paseo del canal hasta la plaza Fatahillah. Conviene reservarle entre dos y tres horas, a ser posible a primera hora de la mañana o al final de la tarde, antes de que apriete el calor.

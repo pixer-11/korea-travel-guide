@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: hamburg-hamburger-kunsthalle
-srcHash: '3545d3a4fa93'
+srcHash: '3a5a576a3500'
 title: 'Hamburger Kunsthalle: guía de viaje de Hamburgo (4.6★)'
-description: En el Glockengießerwall, en pleno casco antiguo (Altstadt) de Hamburgo y a pocos pasos de la estación central (Hauptbahnhof), se alza la Hamburger Kunsthalle. Con 4.6★ (12,526 reseñas), le contamos qué opinan los visitantes, cuáles son los horarios y algunos consejos prácticos.
+description: En el Glockengießerwall, en pleno casco antiguo (Altstadt) de Hamburgo y a pocos pasos de la estación central (Hauptbahnhof), se alza la Hamburger Kunsthalle. Con 4.6★ (12,531 reseñas), le contamos qué opinan los visitantes, cuáles son los horarios y algunos consejos prácticos.
 quickAnswer: En el Glockengießerwall, en pleno casco antiguo (Altstadt) de Hamburgo y a pocos pasos de la estación central (Hauptbahnhof), se encuentra la Hamburger Kunsthalle. Sus tres edificios están comunicados entre sí y reúnen arte de todas las épocas, desde retablos medievales hasta fotografía contemporánea. Entre sus obras figura *El caminante sobre el mar de nubes*, de Caspar David Friedrich. Lo ideal es ir un jueves, porque ese día cierra a las 9pm y la franja de 6pm–7pm es la más tranquila. Conviene evitar los fines de semana entre las 11am y las 6pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la Hamburger Kunsthalle?

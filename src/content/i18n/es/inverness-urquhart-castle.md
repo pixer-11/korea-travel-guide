@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: inverness-urquhart-castle
-srcHash: 'ca6e7184749a'
+srcHash: 'd8baa08aa0e1'
 title: 'Castillo de Urquhart: guía de viaje de Inverness (4.5★)'
-description: A orillas del lago Ness, justo al sur de Drumnadrochit, se alza el castillo de Urquhart. Desde Inverness se llega en unos 25 minutos en coche por la A82, y abre todos los días de 9:30am a 4:30pm. Con 4.5★ (29,240 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
+description: A orillas del lago Ness, justo al sur de Drumnadrochit, se alza el castillo de Urquhart. Desde Inverness se llega en unos 25 minutos en coche por la A82, y abre todos los días de 9:30am a 4:30pm. Con 4.5★ (29,272 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: A orillas del lago Ness, justo al sur de Drumnadrochit, se alza el castillo de Urquhart. Desde Inverness se llega en unos 25 minutos en coche por la A82, y abre todos los días de 9:30am a 4:30pm. Los fines de semana, la hora más tranquila va de 10am a 11am. Entre la 1pm y las 4pm se concentra la mayor afluencia, así que conviene reservar una entrada con horario y llegar temprano. Para ver la película, recorrer las ruinas y bajar a la orilla hacen falta unas dos horas.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el castillo de Urquhart?

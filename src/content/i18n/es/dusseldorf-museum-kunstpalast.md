@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: dusseldorf-museum-kunstpalast
-srcHash: '1265f7609c5a'
+srcHash: 'a610e97b1dc2'
 title: 'Museum Kunstpalast: guía de viaje de Düsseldorf (4.6★)'
-description: El Museum Kunstpalast se encuentra en Ehrenhof 4-5, en el barrio de Pempelfort de Düsseldorf, junto al Rin y a pocos minutos a pie al norte del casco antiguo (Altstadt). Con 4.6★ (5,770 reseñas), le contamos qué opinan los visitantes, cuáles son los horarios y qué conviene saber antes de ir.
+description: El Museum Kunstpalast se encuentra en Ehrenhof 4-5, en el barrio de Pempelfort de Düsseldorf, junto al Rin y a pocos minutos a pie al norte del casco antiguo (Altstadt). Con 4.6★ (5,775 reseñas), le contamos qué opinan los visitantes, cuáles son los horarios y qué conviene saber antes de ir.
 quickAnswer: 'El Museum Kunstpalast se encuentra en Ehrenhof 4-5, en el barrio de Pempelfort de Düsseldorf, junto al Rin y a pocos minutos a pie al norte del casco antiguo (Altstadt). Su colección abarca desde Rubens hasta los artistas del grupo ZERO e incluye además una gran colección de vidrio. Abre de martes a domingo y cierra los lunes. Lo ideal es ir el jueves por la tarde: ese día el horario se alarga hasta las 9pm, y la franja de 6pm–7pm es la más tranquila entre semana. Los fines de semana conviene evitar las horas entre las 12pm y las 6pm.'
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Museum Kunstpalast?
