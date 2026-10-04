@@ -30,14 +30,8 @@ place:
   lng: 139.6476456
   busyness:
     updated: 2026-08-05T00:00:00.000Z
-    weekdayQuiet:
-      - 9
-      - 18
-      - 19
-    weekendQuiet:
-      - 9
-      - 18
-      - 19
+    weekdayQuiet: [9, 18]
+    weekendQuiet: [9, 18]
     weekendBusy:
       - 12
       - 13
@@ -45,6 +39,15 @@ place:
       - 15
       - 16
     venueId: ven_493468434343316b424e2d52414747634e4f74675a61544a496843
+  phone: '+81 45-681-0909'
+  openingHours:
+    - 'Monday: 9:00 AM – 7:00 PM'
+    - 'Tuesday: 9:00 AM – 7:00 PM'
+    - 'Wednesday: 9:00 AM – 7:00 PM'
+    - 'Thursday: 9:00 AM – 7:00 PM'
+    - 'Friday: 9:00 AM – 7:00 PM'
+    - 'Saturday: 9:00 AM – 7:00 PM'
+    - 'Sunday: 9:00 AM – 7:00 PM'
 tags:
   - yokohama
   - historic site

@@ -20,6 +20,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 34.237311999999996
   lng: 108.94024999999999
+  phone: '+86 29 8780 3591'
+  openingHours:
+    - 'Monday: 9:00 AM – 5:00 PM'
+    - 'Tuesday: Closed'
+    - 'Wednesday: 9:00 AM – 5:00 PM'
+    - 'Thursday: 9:00 AM – 5:00 PM'
+    - 'Friday: 9:00 AM – 5:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 9:00 AM – 5:00 PM'
 tags:
   - xi'an
   - museum

@@ -1,18 +1,18 @@
 ---
-title: 'Saint Mark''s Basilica: Venice Travel Guide (4.7★)'
+title: "Saint Mark's Basilica: Venice Travel Guide (4.7★)"
 description: Saint Mark's Basilica, on the eastern side of Piazza San Marco, is Venice's great Byzantine cathedral — five domes, a facade of looted marble and bronze, and an interior sheathed in gold mosaic. 4.7★ (29,559 reviews) — what visitors say, hours, and tips.
 country: Italy
 region: Venice
 category: attraction
-pubDate: '2026-08-05T11:43:36.855Z'
+pubDate: "2026-08-05T11:43:36.855Z"
 heroImage:
   url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Venezia_Basilica_di_San_Marco_Fassade_2.jpg/1920px-Venezia_Basilica_di_San_Marco_Fassade_2.jpg
-  credit: 'Photo: Zairon / Wikimedia Commons (Public domain)'
+  credit: "Photo: Zairon / Wikimedia Commons (Public domain)"
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Venezia_Basilica_di_San_Marco_Fassade_2.jpg
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/San_Alipio_facade_door_of_Saint_Mark%27s_Basilica_of_Venice.jpg/1920px-San_Alipio_facade_door_of_Saint_Mark%27s_Basilica_of_Venice.jpg
-    credit: 'Photo: Roman Bonnefoy / Wikimedia Commons (CC BY-SA 4.0)'
+    credit: "Photo: Roman Bonnefoy / Wikimedia Commons (CC BY-SA 4.0)"
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:San_Alipio_facade_door_of_Saint_Mark%27s_Basilica_of_Venice.jpg
 place:
@@ -28,23 +28,28 @@ place:
   busyness:
     updated: 2026-08-05T00:00:00.000Z
     weekdayQuiet:
-      - 9
       - 16
-      - 17
     weekdayBusy:
       - 12
       - 13
       - 14
     weekendQuiet:
-      - 9
       - 14
       - 16
-      - 17
     weekendBusy:
       - 12
       - 13
       - 14
     venueId: ven_6f674556667967734b614252636b6678654e5a537832764a496843
+  phone: +39 041 270 8311
+  openingHours:
+    - "Monday: 9:30 AM – 5:15 PM"
+    - "Tuesday: 9:30 AM – 5:15 PM"
+    - "Wednesday: 9:30 AM – 5:15 PM"
+    - "Thursday: 9:30 AM – 5:15 PM"
+    - "Friday: 9:30 AM – 5:15 PM"
+    - "Saturday: 9:30 AM – 5:15 PM"
+    - "Sunday: 2:00 – 5:15 PM"
 tags:
   - venice
   - historic site
@@ -53,7 +58,7 @@ faq:
   - q: Do I need to pay to enter Saint Mark's Basilica?
     a: The main church is free to enter, but the Pala d'Oro (golden altar screen), the Treasury, and the Museo di San Marco with access to the Loggia dei Cavalli each carry a small separate fee.
   - q: When is the quietest time to visit?
-    a: Foot-traffic data shows the calm window runs 9am–6pm on both weekdays and weekends; the one stretch to avoid is 12pm–3pm on weekends, when the piazza fills with tour groups.
+    a: Foot-traffic data shows the calm window runs 9:30am–5:15pm on weekdays and Saturdays (and 2pm–5:15pm on Sundays, when the basilica opens later); the one stretch to avoid is 12pm–3pm on weekends, when the piazza fills with tour groups.
   - q: How do I get to the basilica without a metro?
     a: Venice has no metro — take vaporetto lines 1 or 2 to San Marco-Vallaresso or San Zaccaria, both a short walk away, or walk about 15-20 minutes from the Rialto Bridge through the Mercerie.
   - q: How long should I plan to spend inside?
@@ -84,7 +89,7 @@ Third, the Treasury, holding Byzantine reliquaries and silver that Venetian crus
 
 ## When to go
 
-The basilica opens the church to sightseers only after morning Mass, and closes earlier than you'd expect for a major landmark, so treat any visit as a mid-morning-to-late-afternoon plan rather than a first or last stop of the day (check the current hours on the basilica's own site before you go, since they shift with the liturgical calendar. Measured foot-traffic shows the calmest window runs 9am to 6pm on both weekdays and weekends) in other words, the whole open period is relatively even, but the one stretch to actively avoid is 12pm–3pm on weekends, when tour groups converge on the square between lunch and mid-afternoon.
+The basilica opens the church to sightseers only after morning Mass, and closes earlier than you'd expect for a major landmark, so treat any visit as a mid-morning-to-late-afternoon plan rather than a first or last stop of the day (check the current hours on the basilica's own site before you go, since they shift with the liturgical calendar. Measured foot-traffic shows the calmest window runs 9:30am to 5:15pm on weekdays and Saturdays, and from 2pm to 5:15pm on Sundays) in other words, the whole open period is relatively even, but the one stretch to actively avoid is 12pm–3pm on weekends, when tour groups converge on the square between lunch and mid-afternoon.
 
 Aim for the first hour after opening if you want the mosaics without a wall of shoulders in front of you.
 
@@ -99,4 +104,3 @@ Budget 45 minutes for the church alone, or 90 minutes if you're adding the Pala 
 ## Nearby, while you're there
 
 The Doge's Palace and its Bridge of Sighs are steps away, and the Campanile's viewing platform gives you the aerial version of the same panorama you just saw from the Loggia. Caffè Florian, one of Europe's oldest coffee houses, sits under the arcades on the piazza's north side if you want to sit down before tackling the next stop.
-

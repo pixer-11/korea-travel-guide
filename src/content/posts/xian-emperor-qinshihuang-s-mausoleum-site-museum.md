@@ -23,6 +23,15 @@ place:
   businessStatus: OPERATIONAL
   lat: 34.3841153
   lng: 109.2784918
+  phone: '+86 29 8139 9127'
+  openingHours:
+    - 'Monday: 8:30 AM – 6:30 PM'
+    - 'Tuesday: 8:30 AM – 6:30 PM'
+    - 'Wednesday: 8:30 AM – 6:30 PM'
+    - 'Thursday: 8:30 AM – 6:30 PM'
+    - 'Friday: 8:30 AM – 6:30 PM'
+    - 'Saturday: 8:30 AM – 6:30 PM'
+    - 'Sunday: 8:30 AM – 6:30 PM'
 tags:
   - xi'an
   - Terracotta Army

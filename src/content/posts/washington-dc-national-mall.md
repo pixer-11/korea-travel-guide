@@ -45,6 +45,15 @@ place:
       - 17
       - 18
     venueId: ven_6f444372796b6f47635351526b3474337570575f33544d4a496843
+  phone: '+1 202-426-6841'
+  openingHours:
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
   - washington dc
   - top attraction

@@ -30,18 +30,21 @@ place:
   lng: 110.3593012
   busyness:
     updated: '2026-07-23'
-    weekdayQuiet:
-      - 9
-      - 14
-      - 15
-    weekendQuiet:
-      - 15
+    weekdayQuiet: [9, 14]
     weekendBusy:
       - 10
       - 11
       - 12
       - 13
     venueId: ven_6369616867506f6334374552346965584e4a30435f384b4a496843
+  openingHours:
+    - 'Monday: 9:00 AM – 3:00 PM'
+    - 'Tuesday: 9:00 AM – 3:00 PM'
+    - 'Wednesday: 9:00 AM – 3:00 PM'
+    - 'Thursday: 9:00 AM – 3:00 PM'
+    - 'Friday: 9:00 AM – 3:00 PM'
+    - 'Saturday: 9:00 AM – 3:00 PM'
+    - 'Sunday: 9:00 AM – 3:00 PM'
 tags:
   - yogyakarta
   - top attraction

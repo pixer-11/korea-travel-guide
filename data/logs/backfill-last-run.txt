@@ -1,33 +1,33 @@
 Places 예산: backfill 몫 25회 (오늘 사용 16/100)
 Priority: 218 itinerary stop(s) queued first
-  – berlin-teufelsberg.md: nothing new (resting 60d)
-  ✓ bremen-bremer-geschichtenhaus-bras-e-v.md +phone +7h hours (new post top-up)
-  – dusseldorf-stadtgraben-konigsallee.md: nothing new (resting 60d)
-  ✓ leipzig-leipzig-panometer.md +phone +7h hours (new post top-up)
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 17h (venue not open then); weekendQuiet: dropped 17h (venue not open then) — nothing left
-  – berlin-brandenburg-gate.md: nothing new (resting 60d)
-  – gold-coast-burleigh-head-national-park.md: nothing new (resting 60d)
+  – berlin-mustafa-s-gemuse-kebap.md: nothing new (resting 60d)
+  – guadalajara-plaza-de-la-liberacion.md: nothing new (resting 60d)
+  – guanajuato-monumento-al-pipila.md: nothing new (resting 60d)
   🚫 little-india-former-house-of-tan-teng-niah.md: CLOSED_TEMPORARILY — quarantined (draft), not backfilled
-  – london-two-temple-place.md: nothing new (resting 60d)
-  – manchester-st-peter-s-square.md: nothing new (resting 60d)
-  – suzhou-suzhou-museum.md: nothing new (resting 60d)
-  – taiping-taiping-lake-garden.md: nothing new (resting 60d)
-  – taiyuan-jinci.md: nothing new (resting 60d)
-  – taiyuan-yingze-park.md: nothing new (resting 60d)
-  – taroko-gorge-taroko-national-park.md: nothing new (resting 60d)
-  – tashkent-hazrati-imam-complex.md: nothing new (resting 60d)
-  – tashkent-tashkent-city-park.md: nothing new (resting 60d)
-  – tioman-tioman-island.md: nothing new (resting 60d)
-  ✓ tongyeong-tongyeong-cablecar-skywalk.md +phone +7h hours
-  – ubud-ubud-palace.md: nothing new (resting 60d)
-  – udaipur-eklingji-temple.md: nothing new (resting 60d)
-  – udaipur-gulab-bagh.md: nothing new (resting 60d)
-  – udaipur-pichola-lake-udaipur.md: nothing new (resting 60d)
-  ✓ valencia-ciudad-de-las-artes-y-las-ciencias.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 19,20,21h (venue not open then) — nothing left; weekendQuiet: dropped 19,20,21h (venue not open then) — nothing left
-  ✓ valencia-museo-de-las-ciencias-principe-felipe.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 19,20,21h (venue not open then); weekendQuiet: dropped 19,20,21h (venue not open then) — nothing left
-  ✓ valencia-torres-de-serranos.md +phone +7h hours
+  – merida-monumento-a-la-patria.md: nothing new (resting 60d)
+  – playa-del-carmen-portal-maya.md: nothing new (resting 60d)
+  – puerto-vallarta-gringo-gulch.md: nothing new (resting 60d)
+  ✓ venice-doge-s-palace.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 19h (venue not open then); weekendQuiet: dropped 19,20,21,22h (venue not open then)
+  – venice-grand-canal.md: nothing new (resting 60d)
+  – venice-piazza-san-marco.md: nothing new (resting 60d)
+  ✓ venice-saint-mark-s-basilica.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 9,17h (venue not open then); weekendQuiet: dropped 9,17h (venue not open then)
+  – verona-arena-di-verona.md: nothing new (resting 60d)
+  – vigan-plaza-padre-jose-burgos.md: nothing new (resting 60d)
+  – wan-chai-golden-bauhinia-square.md: nothing new (resting 60d)
+  – wan-chai-wan-chai-temporary-promenade.md: nothing new (resting 60d)
+  ✓ washington-dc-national-mall.md +phone +7h hours
+  – xi-an-bell-tower-of-xi-an.md: nothing new (resting 60d)
+  ✓ xi-an-xi-an-museum.md +phone +7h hours
+  – xi-an-xingqinggong-park.md: nothing new (resting 60d)
+  – xian-ancient-city-wall.md: nothing new (resting 60d)
+  ✓ xian-emperor-qinshihuang-s-mausoleum-site-museum.md +phone +7h hours
+  – yilan-diu-diu-dang-forest-park.md: nothing new (resting 60d)
+  ✓ yogyakarta-taman-sari-tourist-village.md +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 15h (venue not open then); weekendQuiet: dropped 15h (venue not open then) — nothing left
+  – yokohama-yokohama-chinatown.md: nothing new (resting 60d)
+  ✓ yokohama-yokohama-mazu-miao.md +phone +7h hours
     ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 19h (venue not open then); weekendQuiet: dropped 19h (venue not open then)
 
-BACKFILL RESULT: updated 6, backlog-updated 4, already-complete 1226, no-new-data 569, no-place 560, closed-quarantined 1, quota-429 0, api-error 0, api-calls 25, remaining-askable 23 (APPLIED).
+BACKFILL RESULT: updated 7, backlog-updated 7, already-complete 1269, no-new-data 586, no-place 566, closed-quarantined 1, quota-429 0, api-error 0, api-calls 25, remaining-askable 6 (APPLIED).
