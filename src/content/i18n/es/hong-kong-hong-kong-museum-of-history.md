@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hong-kong-hong-kong-museum-of-history
-srcHash: '4517d0fcd428'
+srcHash: '9386f826ac45'
 title: 'Museo de Historia de Hong Kong: Guía de viaje (4,3★)'
 description: 'El Museo de Historia de Hong Kong, en Tsim Sha Tsui, es la mejor introducción de la ciudad a cómo un pueblo de pescadores se convirtió en una metrópolis global, con "The Hong Kong Story" como exposición central. 4,3★ (9.133 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo de Historia de Hong Kong, en Tsim Sha Tsui, es la mejor introducción de la ciudad a cómo un pueblo de pescadores se convirtió en una metrópolis global, con la exposición recorrible "The Hong Kong Story" como eje central. Abre de 10:00 a 18:00 la mayoría de los días (hasta las 19:00 sábados y domingos) y cierra los martes. Las tardes de fin de semana, de 12:00 a 18:00, son cuando hay más gente, así que lo ideal es visitarlo por la mañana.
@@ -22,11 +22,11 @@ faq:
 
 Este es el museo que explica todo lo demás que verás en Hong Kong. Antes del horizonte de rascacielos, antes de los ferris del puerto, existieron refugios contra tifones, pueblos amurallados y un puesto colonial británico, y este museo despliega todo ese recorrido dentro de un solo edificio.
 
-La pieza central es "The Hong Kong Story", una exposición permanente que abarca ocho salas y unos 400 millones de años de historia natural y humana. El visitante recorre una calle recreada con antiguas fachadas de tiendas, una réplica de una vivienda hakka y dioramas a tamaño real de la ocupación japonesa. Es inmersiva en el sentido literal: no lees carteles a distancia, sino que te encuentras dentro de las escenas.
+La pieza central es "The Hong Kong Story", una exposición permanente que abarca la historia natural y humana. El visitante recorre una calle recreada con antiguas fachadas de tiendas, una réplica de una vivienda hakka y dioramas a tamaño real de la ocupación japonesa. Es inmersiva en el sentido literal: no lees carteles a distancia, sino que te encuentras dentro de las escenas.
 
 ## Cómo llegar
 
-El museo se encuentra en 100 Chatham Road South, en Tsim Sha Tsui, a poca distancia de la Salida B2 de la estación de MTR de Tsim Sha Tsui (por ahí pasan tanto la East Rail Line como la Tsuen Wan Line). Desde la salida, son unos 10 minutos a pie, pasando por el Museo de Ciencias, que está en la misma manzana y combina bien con una visita conjunta.
+El museo se encuentra en 100 Chatham Road South, en Tsim Sha Tsui, a poca distancia de la Salida B2 de la estación de MTR de Tsim Sha Tsui. Desde la salida, son unos 10 minutos a pie, pasando por el Museo de Ciencias, que está en la misma manzana y combina bien con una visita conjunta.
 
 Si vienes desde la isla de Hong Kong, una alternativa muy pintoresca es tomar el Star Ferry hasta el muelle de Tsim Sha Tsui y caminar 15 minutos, sobre todo con la luz de la tarde sobre el puerto.
 

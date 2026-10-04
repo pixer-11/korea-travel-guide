@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: central-hong-kong-zoological-and-botanical-gardens
-srcHash: 'd4cc8e0d9837'
+srcHash: '272c9800ed78'
 title: 'Jardines Zoológicos y Botánicos de Hong Kong: guía de viaje por Central'
 description: 'Los Jardines Zoológicos y Botánicos de Hong Kong, en Central, son gratuitos y abren todos los días de 6:00 a 19:00. Se dividen en una sección oriental con el zoológico y una terraza occidental con invernaderos y fuentes. 4.3★ (569 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Los Jardines Zoológicos y Botánicos de Hong Kong, en Central, son gratuitos y abren todos los días de 6:00 a 19:00, divididos en una sección oriental con el zoológico y una terraza occidental con invernaderos y fuentes. Conviene ir temprano en un día laborable, antes de las 9:00, cuando los senderos todavía pertenecen a quienes practican tai chi y pasean al perro, y no a los grupos turísticos. Basta con calcular entre 45 y 60 minutos, y se puede combinar con un paseo hasta Government House o hacia el Hong Kong Park.
@@ -40,7 +40,7 @@ El lado oriental, frente a Government House, alberga la sección del zoológico:
 
 El lado occidental es más tranquilo: hay invernaderos, una terraza con una fuente sobre la que se arquean higueras, y un jardín de rocas donde se reúnen hombres mayores con jaulas de pájaros cantores. Los senderos están sombreados, los bancos miran hacia el invernadero en lugar de hacia el tráfico, y el aire huele a tierra húmeda y a frangipani, no a los gases de la ciudad.
 
-Vale la pena buscar las ruinas del antiguo tribunal colonial (Old Colonial Courthouse), cerca de la terraza de la fuente, así como el monumento a Sun Yat-sen, quien según se cuenta solía caminar por estos terrenos cuando era estudiante.
+Vale la pena buscar las ruinas del antiguo tribunal colonial (Old Colonial Courthouse), cerca de la terraza de la fuente, así como el monumento a Sun Yat-sen.
 
 ## Cuándo ir
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jumeirah-dubai-water-canal
-srcHash: '9ab2c5319a64'
+srcHash: '533454427878'
 title: 'Canal de Agua de Dubái: guía de viaje de Jumeirah (4,6★)'
 description: 'El Canal de Agua de Dubái es una vía navegable artificial de 3,2 km que serpentea entre Al Safa y Jumeirah, flanqueada por paseos, puentes y el Dubai Water Canal Mall; se puede recorrer gratis a cualquier hora, ya que permanece abierto las 24 horas. 4,6★ (2.084 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Canal de Agua de Dubái es una vía navegable artificial de 3,2 km que serpentea entre Al Safa y Jumeirah, flanqueada por paseos, puentes y el Dubai Water Canal Mall; se puede recorrer gratis a cualquier hora, ya que permanece abierto las 24 horas. Conviene ir temprano por la mañana para disfrutar del aire más fresco y la luz más suave; los fines de semana, el tramo más tranquilo va de 7:00 a 15:00, mientras que el más concurrido es de 9:00 a 23:00. Para un paseo basta con reservar entre 1 y 2 horas, más si se recorre en bicicleta todo el circuito.
@@ -47,7 +47,7 @@ Para quienes quieran cubrir más distancia de la que permite caminar, hay puesto
 
 Las mañanas son el momento más agradable, sobre todo fuera del invierno, antes de que llegue el calor propio del golfo. Además, la luz temprana hace que el agua luzca especialmente bien en las fotografías.
 
-Los fines de semana, el canal está más tranquilo entre las 7:00 y las 15:00, ideal para quienes buscan disfrutar los senderos sin aglomeraciones. Conviene evitar llegar a última hora de la tarde los fines de semana, cuando el tránsito peatonal alcanza su punto máximo y los bancos se llenan rápidamente.
+Las primeras horas de la mañana suelen ser el momento más tranquilo en el canal, ideal para quienes buscan disfrutar los senderos sin aglomeraciones. Conviene evitar llegar a última hora de la tarde los fines de semana, cuando el tránsito peatonal alcanza su punto máximo y los bancos se llenan rápidamente.
 
 Pese a la afluencia de gente, las noches tienen su propio encanto. Los puentes y las torres se iluminan, baja la temperatura y el paseo adquiere un ambiente completamente distinto: más concurrido, pero lleno de atmósfera.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chennai-snow-kingdom
-srcHash: 'e03375cda396'
+srcHash: 'd09f804218cf'
 title: 'Snow Kingdom: Guía de viaje de Chennai (4.7★)'
 description: 'Snow Kingdom es un parque de nieve techado en East Coast Road, en Injambakkam, junto a VGP Universal Kingdom, con nieve artificial real, una pista de trineo y una montaña para escalar. 4.7★ (37,580 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Snow Kingdom es un parque de nieve techado en East Coast Road, en Injambakkam, junto a VGP Universal Kingdom, con nieve artificial real, una pista de trineo y una montaña para escalar. Abre todos los días de 10am a 8pm; conviene ir en día de semana, idealmente justo a la apertura, ya que los fines de semana se llena entre las 12pm y las 7pm. Calcula entre 60 y 90 minutos, y vístete por capas, ya que el calor de Chennai afuera hace que el frío se sienta con más fuerza.
@@ -49,7 +49,7 @@ Hay estacionamiento disponible en el sitio, cerca del lote de VGP Universal King
 
 Snow Kingdom abre todos los días de 10am a 8pm, sin día de cierre semanal. Esa constancia facilita organizar la visita, pero el horario sigue siendo muy importante aquí.
 
-Las visitas entre semana son notablemente más tranquilas durante todo el horario de 10am a 8pm. Los fines de semana son otra historia: la afluencia aumenta de forma constante y alcanza su punto máximo entre las 12pm y las 7pm, con largas filas para las chaquetas, las botas y la pista de trineo.
+Las visitas entre semana son notablemente más tranquilas durante todo el horario de 10am a 8pm. Los fines de semana son otra historia: la afluencia aumenta de forma constante a partir de las 12pm y alcanza su punto máximo hacia las 7pm, con largas filas para las chaquetas, las botas y la pista de trineo.
 
 Si solo puedes ir un sábado o domingo, llegar justo a las 10am, antes del aumento del mediodía, es tu mejor opción para encontrar filas cortas.
 

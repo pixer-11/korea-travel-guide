@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: fujairah-fujairah-museum
-srcHash: '7ed6eb2196c6'
+srcHash: 'b912e97ae313'
 title: 'Museo de Fujairah: guía de viaje (4,3★)'
 description: 'El Museo de Fujairah es un museo del patrimonio pequeño y bien organizado, cercano al Fuerte de Fujairah, abierto todos los días de 9:00 a 17:00, y que merece cerca de una hora de visita. 4,3★ (764 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo de Fujairah es un museo del patrimonio pequeño y bien organizado, cercano al Fuerte de Fujairah, abierto todos los días de 9:00 a 17:00, y que merece cerca de una hora de visita. Es una parada sencilla y poco concurrida para entender la historia del emirato antes del petróleo, a través de herramientas y armas excavadas y de la antigua vida costera, antes de dirigirse a la playa o al fuerte contiguo.
@@ -56,7 +56,7 @@ Conviene tratarlo como una parada tranquila y práctica, no como una atracción 
 - Combínelo con el Fuerte de Fujairah, justo al lado; aprovechar el ritmo conjunto de estos dos sitios patrimoniales evita tener que volver sobre los mismos pasos
 - Vaya un día de semana por la mañana si quiere tener las salas prácticamente para usted
 - Use calzado cómodo pensando en la visita al fuerte, que suele acompañar esta parada, ya que allí el suelo de piedra es irregular
-- Lleve algo de efectivo para la entrada, ya que los lectores de tarjeta no siempre funcionan bien en los sitios patrimoniales más pequeños de Fujairah, y aquí las tarifas son modestas
+- Infórmese con antelación sobre el precio de la entrada y los métodos de pago aceptados para evitar sorpresas
 - No pase por alto los paneles sobre los yacimientos de excavación: son la parte que explica por qué el resto del emirato luce como luce
 
 El error más frecuente entre los visitantes es saltarse por completo este museo por quedarse solo con el exterior fotogénico del fuerte. Quince minutos más aquí convierten el fuerte de un simple telón de fondo bonito en algo que realmente se comprende: de dónde vienen las piedras, quién las construyó y por qué este tramo de costa importó lo suficiente como para defenderlo.

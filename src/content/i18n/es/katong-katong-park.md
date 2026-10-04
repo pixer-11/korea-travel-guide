@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: katong-katong-park
-srcHash: 'd79dc599a061'
+srcHash: 'c75ed58dc54a'
 title: 'Katong Park: Guía de viaje (4.2★)'
 description: 'Katong Park es un pequeño parque de barrio, rodeado de vegetación, en Fort Road, en Katong, abierto las 24 horas y construido en torno al último vestigio visible del antiguo Fort Tomahawk y un tramo tranquilo del conector de parques. 4.2★ (292 reseñas): lo que opinan los visitantes, horarios y consejos.'
 quickAnswer: Katong Park es un pequeño parque de barrio, rodeado de vegetación, en Fort Road, en Katong, abierto las 24 horas y construido en torno al último vestigio visible del antiguo Fort Tomahawk y un tramo tranquilo del conector de parques. Es más tranquilo los fines de semana entre las 7 y las 8 de la mañana, antes de que lleguen los corredores y las familias. Conviene dedicarle entre 30 y 45 minutos dentro de un paseo entre las casas-tienda de Katong y la costa este (East Coast).
@@ -42,7 +42,7 @@ Si se recorre en bicicleta el conector de parques desde East Coast Park, se lleg
 
 Las primeras horas de la mañana suelen ser el momento más tranquilo, antes de que el parque se llene. El tránsito de visitantes aumenta progresivamente a lo largo del día durante los fines de semana, así que quien quiera tener el lugar casi para sí debe llegar temprano.
 
-Las tardes de días laborables, después del horario de oficina, suelen ser más tranquilas que los fines de semana, aunque no existen datos concretos sobre la franja exacta de calma. La luz de la mañana temprano, además, favorece especialmente las fotos del antiguo emplazamiento de artillería y de los árboles de lluvia, con sombras suaves en lugar del resplandor plano del mediodía.
+Las tardes de días laborables, después del horario de oficina, suelen ser más tranquilas que los fines de semana. La luz de la mañana temprano, además, favorece especialmente las fotos del antiguo emplazamiento de artillería y de los árboles de lluvia, con sombras suaves en lugar del resplandor plano del mediodía.
 
 ## Cómo visitarlo como un local
 

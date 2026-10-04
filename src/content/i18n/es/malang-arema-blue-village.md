@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: malang-arema-blue-village
-srcHash: '3ff5d25c12db'
+srcHash: 'b8173a6a05ae'
 title: 'Arema Blue Village: Guía de viaje de Malang (4.5★)'
 description: Arema Blue Village es un pequeño kampung de callejones pintados en el barrio de Kiduldalem, en el centro de Malang, donde cada pared, escalera y tejado está bañado en azul cobalto como tributo al club de fútbol local Arema FC. 4.5★ (948 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: Arema Blue Village es un pequeño kampung de callejones pintados en el barrio de Kiduldalem, en el centro de Malang, donde cada pared, escalera y tejado está bañado en azul cobalto como tributo al club de fútbol local Arema FC. Dedícale entre 30 y 45 minutos a pie, idealmente a media mañana en un día de semana, cuando los callejones están tranquilos y la luz es mejor para las fotos. Es gratis recorrerlo, aunque una pequeña caja de donaciones ayuda a los residentes a mantener la pintura.
@@ -62,7 +62,7 @@ Las lluvias son frecuentes en la temporada húmeda (aproximadamente de noviembre
 Este lugar todavía está poco explorado en comparación con el kampung colorido más famoso de Malang (el pueblo arcoíris de Jodipan, al otro lado de la ciudad), así que aquí no tendrás que lidiar con multitudes —pero eso también significa que estás caminando por el patio delantero real de alguien.
 
 - Habla en voz baja y pide permiso antes de fotografiar directamente a los residentes o sus portales
-- Es costumbre y se agradece dejar una pequeña donación en la caja de mantenimiento cerca de la entrada, ya que los residentes financian el repintado ellos mismos
+- Los residentes financian el repintado ellos mismos, así que un saludo cortés y el respeto por su espacio importan más que cualquier donación
 - Paga en efectivo cualquier bocadillo o bebida en los puestos locales —billetes pequeños de rupias, aquí no se acepta tarjeta
 - Evita el teatro de las camisetas de fútbol; lo habitual es un recorrido respetuoso y silencioso
 - Combínalo con una parada en el pueblo de Jodipan o en la plaza Alun-Alun Malang, ambos a un corto trayecto, para hacer una jornada de medio día dedicada al arte urbano de Malang
@@ -71,4 +71,4 @@ El mayor error que cometen los visitantes es tratarlo como un set fotográfico e
 
 ## Lugares cercanos para combinar con la visita
 
-Después de los callejones azules, el centro de Malang recompensa con más paseos: los edificios de la época colonial alrededor de Jalan Ijen, el bullicioso mercado Pasar Besar para almorzar, y el mencionado pueblo arcoíris de Jodipan son complementos naturales a un corto trayecto en ojek, permitiéndote convertir un desvío de 30 minutos en un recorrido de medio día por los rincones más fotogénicos de la ciudad.
+Después de los callejones azules, el centro de Malang recompensa con más paseos: los edificios de la época colonial alrededor de Jalan Ijen, el mercado Pasar Besar para almorzar, y el mencionado pueblo arcoíris de Jodipan son complementos naturales a un corto trayecto en ojek, permitiéndote convertir un desvío de 30 minutos en un recorrido de medio día por los rincones más fotogénicos de la ciudad.

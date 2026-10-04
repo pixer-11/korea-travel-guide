@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bursa-tophane-clock-tower
-srcHash: '2a5af591b54a'
+srcHash: '2ba5ee1f3508'
 title: 'Torre del Reloj de Tophane: Guía de viaje de Bursa (4,7★)'
 description: 'La Torre del Reloj de Tophane se encuentra en el Parque Tophane, en el borde de la antigua ciudadela de Bursa: una torre neoclásica de 15 metros reconstruida en 1905, de visita gratuita a cualquier hora, día o noche. 4,7★ (26.731 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'La Torre del Reloj de Tophane se encuentra en el Parque Tophane, en el borde de la antigua ciudadela de Bursa: una torre neoclásica de 15 metros reconstruida en 1905, de visita gratuita a cualquier hora, día o noche. Ve entre las 7:00 y las 10:00 los días de semana (7:00–9:00 los fines de semana) para tener la terraza y sus vistas del Uludağ casi para ti solo, ya que se llena desde las 11:00 hasta la noche los fines de semana. Calcula entre 30 y 45 minutos, más si te quedas para ver la puesta de sol sobre el Valle de Nilüfer.'
@@ -26,7 +26,7 @@ El Parque Tophane se asienta sobre la cresta de la antigua ciudadela de Bursa (H
 
 ## Lo que realmente estás viendo
 
-La torre en sí es una esbelta columna neoclásica de 15 metros, reconstruida en 1905 tras el incendio de una versión anterior. Piedra de color crema, una esfera de reloj en cada lado, una pequeña cúpula en forma de bulbo como remate: se fotografía de forma limpia contra el cielo.
+La torre en sí es una esbelta columna neoclásica de 15 metros. Piedra de color crema, una esfera de reloj en cada lado, una pequeña cúpula en forma de bulbo como remate: se fotografía de forma limpia contra el cielo.
 
 Se alza donde antes hubo una torre de vigilancia bizantina y, más tarde, un depósito de pólvora otomano ("tophane" significa fundición de cañones), de ahí el nombre del barrio. Recorre el pequeño circuito a su alrededor y pasarás junto a las tumbas de Osman y Orhan Gazi, los dos primeros sultanes otomanos, a solo unos pasos.
 

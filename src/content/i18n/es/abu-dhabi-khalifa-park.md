@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: abu-dhabi-khalifa-park
-srcHash: 'bed4a163fd3c'
+srcHash: 'ad3d41299134'
 title: 'Khalifa Park: Guía de viaje de Abu Dabi (4.3★)'
 description: 'Khalifa Park es un extenso espacio verde en la calle Sheikh Zayed Bin Sultan, en Al Muntazah, conocido sobre todo por su biblioteca cultural, su museo marítimo, sus zonas de barbacoa y un mini tren que recorre los jardines. 4.3★ (6.261 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Khalifa Park es un extenso espacio verde en la calle Sheikh Zayed Bin Sultan, en Al Muntazah, conocido sobre todo por su biblioteca cultural, su museo marítimo, sus zonas de barbacoa y un mini tren que recorre los jardines. Abre todos los días de 10:00 a 22:00 o 23:00 según el día, y es realmente popular, así que si buscas tranquilidad conviene ir en las horas finales de la tarde. Calcula entre dos y tres horas si quieres ver el museo y la biblioteca, o menos si solo vas a pasear o hacer un pícnic.
@@ -46,14 +46,14 @@ Ninguna de estas atracciones ocupa un día entero por sí sola, pero juntas hace
 
 El parque abre de 10:00 a 22:00 los lunes, martes, miércoles y domingos, y amplía el horario hasta las 23:00 de jueves a sábado. Dado el clima de Abu Dabi, las tardes-noches son el momento natural para visitarlo casi en cualquier época del año: el museo y la biblioteca funcionan bien a cualquier hora dentro de su horario, pero los jardines resultan mucho más agradables una vez que se pone el sol.
 
-Según los datos de afluencia, el tramo más tranquilo entre semana es de 22:00 a 23:00, justo antes del cierre. Los fines de semana, la franja más silenciosa va de 10:00 a 11:00, temprano, antes de que lleguen las familias para las barbacoas nocturnas. Si solo puedes ir en fin de semana, ese horario de media mañana es tu mejor opción para tener algo de espacio propio.
+Según los datos de afluencia, el tramo más tranquilo entre semana es de 22:00 a 23:00, justo antes del cierre. Los fines de semana, la franja más silenciosa va de 10:00 a 11:00, temprano, antes de que lleguen las multitudes de la tarde. Si solo puedes ir en fin de semana, ese horario de media mañana es tu mejor opción para tener algo de espacio propio.
 
 ## Cómo visitarlo como un local
 
 Se trata de un parque muy visitado, no de un rincón escondido de la ciudad, así que conviene planificar en función de las multitudes en lugar de esperar evitarlas por completo.
 
 - **Elige bien el horario**: apunta a la franja de 10 a 11 de la mañana en fin de semana, o entra cerca del cierre entre semana, para esquivar la hora punta de la tarde-noche
-- **Lleva tu propio equipo**: las zonas de barbacoa son de autoservicio, así que hay que traer carbón, pinchos y comida, ya que no se vende nada en el lugar para ello
+- **Lleva tu propio equipo**: las zonas de barbacoa son de autoservicio, así que hay que traer carbón, pinchos y comida
 - **El efectivo en billetes pequeños ayuda**: los vendedores informales y los encargados del aparcamiento suelen preferir efectivo antes que tarjeta
 - **Vístete pensando en ir buscando sombra**: los senderos están ajardinados pero en tramos quedan expuestos al sol, así que un sombrero importa más de lo que parece entre abril y octubre
 - **Evita el coche si puedes compartirlo**: el aparcamiento las noches de fin de semana es el principal cuello de botella, sobre todo de jueves a sábado por la noche

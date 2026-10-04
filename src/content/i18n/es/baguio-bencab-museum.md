@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: baguio-bencab-museum
-srcHash: '76175f0dfa97'
+srcHash: 'f5a70561d580'
 title: 'Museo BenCab: guía de viaje de Baguio (4.5★)'
 description: 'El Museo BenCab se encuentra en la carretera Asin, en Tuba, Benguet, a unos 15-20 minutos del centro de Baguio, y abre todos los días excepto los lunes, de 9:00 a 18:00. 4.5★ (3,618 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Museo BenCab se encuentra en la carretera Asin, en Tuba, Benguet, a unos 15-20 minutos del centro de Baguio, y abre todos los días excepto los lunes, de 9:00 a 18:00. Conviene reservar entre 1.5 y 2 horas para recorrer las galerías, el ala de artefactos cordilleranos y el sendero ecológico exterior con sus estanques de patos. Lo ideal es ir temprano un día entre semana si se quiere disfrutar de la terraza y los senderos en soledad.
@@ -20,11 +20,11 @@ faq:
 
 El museo se anuncia antes incluso de llegar a la entrada. Subiendo por la carretera Asin, las colinas cubiertas de pinos se abren hacia un valle profundo a la izquierda, y el edificio —bajo, de maderas oscuras, medio enterrado en la ladera— parece casi camuflado contra la montaña.
 
-Este es el museo de Benedicto "BenCab" Cabrera, uno de los pintores más importantes que ha dado Filipinas. Lo construyó no solo para albergar su propia obra, sino también para darle un hogar permanente al arte y la cultura material de la región de la Cordillera.
+Este es el museo de Benedicto "BenCab" Cabrera, uno de los pintores más importantes que ha dado Filipinas. Lo construyó para albergar su propia obra y para darle un hogar permanente al arte y la cultura material de la región de la Cordillera.
 
 ## Por qué vale la pena el viaje
 
-Aquí se viene por la experiencia completa, no solo por la pintura. Las galerías principales exhiben, de forma rotativa, los propios lienzos de BenCab, entre los que destacan sus célebres figuras de "Sabel", esa mujer encorvada y envuelta en un chal que ha pintado una y otra vez durante décadas.
+Aquí se viene por la experiencia completa, no solo por la pintura. Las galerías principales exhiben, de forma rotativa, los propios lienzos de BenCab, entre ellos sus célebres figuras de "Sabel", esa mujer encorvada y envuelta en un chal que ha pintado durante décadas.
 
 Pero el edificio sigue revelando sorpresas. Al avanzar, se llega a un ala dedicada a los bulol tallados en madera —dioses del arroz—, a textiles ifugao tejidos a mano y a otros artefactos tribales de las tierras altas del norte. En la planta baja, una galería aparte muestra a artistas filipinos contemporáneos que el propio BenCab ha coleccionado y promovido.
 

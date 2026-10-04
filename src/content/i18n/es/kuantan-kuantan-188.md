@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kuantan-kuantan-188
-srcHash: 'dc14f6045db2'
+srcHash: 'f135c8940c5e'
 title: 'Kuantan 188: Guía de viaje (4,5★)'
 description: 'Kuantan 188 es la torre de observación y el centro de ocio junto al río, ubicado en Jalan Besar, a orillas del río Kuantan, en la capital del estado de Pahang. 4,5★ (3.470 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Kuantan 188 es la torre de observación y el centro de ocio junto al río, situado en Jalan Besar, a orillas del río Kuantan, en la capital del estado de Pahang. Para una visita más tranquila, conviene ir entre semana, cuando la afluencia de gente se mantiene baja desde la apertura, a las 10:00, hasta las 23:00; los fines de semana, en cambio, es mejor evitar el tramo de más ajetreo, entre las 18:00 y las 23:00. Calcule una hora o dos para la visita, más si se queda a cenar junto al agua.
@@ -56,7 +56,7 @@ Conviene reservar una hora para disfrutar de las vistas y recorrer con calma el 
 
 Entre semana es cuando hay menos gente; la afluencia se mantiene claramente por debajo de la de los fines de semana. Las tardes-noches de esos días laborables son especialmente recomendables, ya que permiten disfrutar de las vistas con espacio, sin tener que pelear un lugar junto a la baranda.
 
-Los fines de semana la situación se invierte. Entre las 18:00 y las 23:00 del sábado y el domingo, la zona ribereña se llena rápidamente de familias, grupos de amigos y comensales que buscan la puesta de sol y la iluminación nocturna.
+Los fines de semana la situación se invierte. Entre las 18:00 y las 23:00 de las tardes-noches del fin de semana, la zona ribereña se llena rápidamente de familias, grupos de amigos y comensales que buscan la puesta de sol y la iluminación nocturna.
 
 Si solo se puede ir en fin de semana, conviene optar por última hora de la mañana o primera de la tarde, antes de que llegue la multitud del atardecer.
 

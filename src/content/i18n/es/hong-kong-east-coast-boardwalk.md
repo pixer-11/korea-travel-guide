@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hong-kong-east-coast-boardwalk
-srcHash: 'db5eb19488b6'
+srcHash: 'd67cb3f79e1b'
 title: 'East Coast Boardwalk: guía de viaje de Hong Kong (4,5★)'
 description: 'East Coast Boardwalk es un paseo frente al mar bajo el Island Eastern Corridor, en Causeway Bay, frecuentado por corredores, ciclistas y amantes del atardecer más que por grupos turísticos. 4,5★ (156 reseñas): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: East Coast Boardwalk es un paseo frente al mar bajo el Island Eastern Corridor, en Causeway Bay, frecuentado por corredores, ciclistas y amantes del atardecer más que por grupos turísticos. Está abierto las 24 horas, y el momento más tranquilo es entre las 7:00 y las 8:00 de la mañana cualquier día de la semana; después de las 11:00 los fines de semana se llena rápidamente. Se viene por las vistas del puerto hacia Kowloon y Kai Tak, no por las instalaciones, así que conviene traer agua propia.
@@ -58,6 +58,6 @@ Conviene verlo como una infraestructura para hacer ejercicio y tomar aire, no co
 - El dinero en efectivo o la tarjeta no son relevantes aquí, ya que no hay nada que comprar en el propio lugar; conviene llevar agua propia.
 - Ciclistas y corredores tienen prioridad no oficial en el carril de paso, así que si se pasea en grupo conviene caminar hacia el lado de la barandilla del puerto.
 - El error más común es esperar un paseo turístico pulido, con cafeterías y señalización de miradores. Es más sencillo que todo eso, y precisamente por eso resulta mejor si lo que se busca es simplemente aire de puerto.
-- Al tratarse de un lugar poco conocido, conviene visitarlo temprano o fuera de las horas punta, en lugar de intentar "verlo todo": basta con elegir un tramo, recorrerlo despacio y dejar que el puerto haga el resto.
+- No conviene intentar "verlo todo" aquí: basta con elegir un tramo, recorrerlo despacio y dejar que el puerto haga el resto.
 
 Conviene reservar entre 45 minutos y una hora si se va a caminar un solo tramo, y más tiempo si se lleva una bicicleta y se quiere enlazar con el resto del carril bici del frente marítimo en dirección a Quarry Bay o Shau Kei Wan.

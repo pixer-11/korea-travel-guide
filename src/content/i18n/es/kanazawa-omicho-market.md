@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kanazawa-omicho-market
-srcHash: '6faa4e3dbb94'
+srcHash: 'f637ee11e217'
 title: 'Mercado de Omicho: Guía de Viaje de Kanazawa (4.0★)'
 description: 'El mercado de Omicho, en pleno centro de Kanazawa, abre todos los días de 9:00 a 17:00, y al tratarse de un lugar muy visitado —nada de secreto escondido—, el truco está en calcular bien la hora de llegada, justo a la apertura. 4.0★ (19,332 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El mercado de Omicho, en pleno centro de Kanazawa, abre todos los días de 9:00 a 17:00, y al tratarse de un lugar muy visitado —nada de secreto escondido—, el truco está en calcular bien la hora de llegada, justo a la apertura. Conviene presentarse cuando suben las persianas, en vez de entre las 11:00 y las 15:00 los fines de semana, cuando los pasillos cubiertos se llenan de turistas hombro con hombro en busca de cuencos de cangrejo y erizo de mar. Calcule una hora para recorrerlo, y más si se sienta a desayunar un bol de arroz con marisco.
@@ -24,9 +24,9 @@ Kanazawa construyó su riqueza sobre las corrientes frías del mar de Japón, y 
 
 ## Cómo llegar y orientarse
 
-El mercado se encuentra en pleno centro de Kanazawa, en el número 50 de Kamiōmichō, a poca distancia a pie de los distritos comerciales de Katamachi y Korinbo. Desde la salida este de la estación de Kanazawa, se puede tomar el autobús circular de Kanazawa (Kanazawa Loop Bus) y bajarse en la parada del mercado de Omicho: unos 10 minutos de trayecto por un par de cientos de yenes. A pie, si el clima acompaña, el recorrido dura entre 15 y 20 minutos.
+El mercado se encuentra en pleno centro de Kanazawa, en el número 50 de Kamiōmichō, a poca distancia a pie de los distritos comerciales de Katamachi y Korinbo. Desde la salida este de la estación de Kanazawa, se puede tomar el autobús circular de Kanazawa (Kanazawa Loop Bus) y bajarse en la parada del mercado de Omicho. A pie, si el clima acompaña, el recorrido dura entre 15 y 20 minutos.
 
-Por dentro, es un laberinto de callejones estrechos y techados que se ramifican desde una calle principal cubierta. No hay que esperar un edificio único y ordenado: se trata más bien de unos 170 puestos entrelazados bajo un techo de vidrio y acero que ha sido reconstruido varias veces desde sus orígenes en el periodo Edo.
+Por dentro, es un laberinto de callejones estrechos y techados que se ramifican desde una calle principal cubierta. No hay que esperar un edificio único y ordenado: se trata más bien de un conjunto de puestos entrelazados bajo un techo de vidrio y acero que ha sido reconstruido varias veces desde sus orígenes en el periodo Edo.
 
 ## Qué comer y qué ver
 

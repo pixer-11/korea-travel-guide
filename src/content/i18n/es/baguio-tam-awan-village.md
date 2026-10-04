@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: baguio-tam-awan-village
-srcHash: '77d7cfa09aa3'
+srcHash: '7a8b1d9bb018'
 title: 'Tam-awan Village: Guía de viaje de Baguio (4.3★)'
 description: 'Tam-awan Village es un poblado de laderas reconstruido al estilo ifugao-kalinga en el norte de Baguio, con chozas de techo de paja, galerías de arte tipo cueva y miradores sobre crestas de pinos. 4.3★ (2,712 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'Tam-awan Village es un poblado de laderas reconstruido al estilo ifugao-kalinga en el norte de Baguio, con chozas de techo de paja, galerías de arte tipo cueva y miradores sobre crestas de pinos. Calcula entre 1.5 y 2 horas, abierto todos los días de 7am a 8pm. Ve justo a la apertura: los días de semana de 7 a 9am y los fines de semana de 7 a 8am son los momentos más tranquilos, antes de que los autobuses turísticos llenen el estacionamiento desde media mañana hasta la tarde.'
@@ -33,7 +33,7 @@ Presta atención a:
 - Chozas estilo bahay kubo ifugao y kalinga, algunas abiertas para recorrer
 - Un espacio de galería tipo cueva que exhibe obras de artistas de la Cordillera en Baguio
 - Cafe Sabel, ubicado entre las chozas, que sirve café y comidas filipinas sencillas
-- Miradores abiertos con vistas a crestas cubiertas de pinos, hacia el Mar de China Meridional en días despejados
+- Miradores abiertos con vistas a crestas cubiertas de pinos
 - Una pequeña tienda de arte que vende tallas en madera, tejidos y pinturas de artistas locales
 
 Date entre 90 minutos y dos horas. Más tiempo si te demoras en el café o asistes a un taller de pintura, que el poblado ofrece ocasionalmente a los visitantes.

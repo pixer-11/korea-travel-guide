@@ -8812,6 +8812,714 @@
         }
       }
     },
+    "Mexico": {
+      "srcHash": "6105a5d7429f",
+      "en": {
+        "summary": [
+          {
+            "key": "entry",
+            "title": "FMM on arrival",
+            "sub": "Visa-free for ~65 countries, up to 180 days"
+          },
+          {
+            "key": "money",
+            "title": "Peso is king",
+            "sub": "Cash needed outside tourist areas; pay ATMs in MXN"
+          },
+          {
+            "key": "season",
+            "title": "Dry season best",
+            "sub": "November to April, sunniest and driest but busiest"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "FMM (air arrival)",
+              "code": "",
+              "who": "",
+              "cost": "Included in air ticket",
+              "stay": "Up to 180 days (officer decides)",
+              "note": "Airline provides the form; always check stamp/digital record before leaving counter"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "Stay length varies",
+              "text": "The immigration officer decides how many days to grant, from 30 up to the full 180, so check your stamp before leaving the counter."
+            },
+            {
+              "title": "Rules change often",
+              "text": "Rules on nationalities, fees, and permitted stays shift periodically, so confirm with INM or a consulate before booking."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "Metro flat fare",
+              "text": "The Metro runs on a flat ride cost of MXN 5.00, including transfers within the paid area."
+            },
+            {
+              "title": "Metrobús transfers",
+              "text": "Transfers are free between Metrobús Lines 1 through 7 within the first two hours in a single direction; Metro to Metrobús transfers are not free."
+            },
+            {
+              "title": "Airport to downtown",
+              "text": "Reach downtown via Metro Línea 5 near Terminal 1 arrivals, or Metrobús Línea 4 from Terminal 1 gate 7 or Terminal 2 gate 2."
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "Use bank ATMs",
+              "text": "Stick to bank-affiliated machines like Citibanamex, HSBC, BBVA, Banorte, or Santander, ideally during the day and attached to a branch."
+            },
+            {
+              "title": "Pay in pesos",
+              "text": "Selecting your home currency lets the ATM's bank choose the exchange rate, which increases fees; always pay in MXN for better rates."
+            },
+            {
+              "title": "Carry cash",
+              "text": "Smaller shops, markets, taxis, and rural areas still run largely on cash, so keep pesos on hand."
+            },
+            {
+              "title": "Cards have limits",
+              "text": "Debit cards are widely accepted in urban/tourist areas, but American Express is accepted noticeably less than Visa or Mastercard."
+            }
+          ]
+        },
+        "season": {
+          "best": [
+            1,
+            2,
+            3,
+            4,
+            11,
+            12
+          ],
+          "rows": [
+            {
+              "label": "Dry season",
+              "sub": "Beaches, colonial towns, archaeological sites",
+              "best": [
+                11,
+                12,
+                1,
+                2,
+                3,
+                4
+              ],
+              "busy": [],
+              "avoid": []
+            },
+            {
+              "label": "Shoulder season",
+              "sub": "Lower prices, fewer crowds, possible afternoon showers",
+              "best": [
+                5,
+                10,
+                11
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "911",
+              "label": "National emergency number",
+              "note": "Fastest response for police, fire, or medical situations anywhere in the country"
+            },
+            {
+              "number": "078",
+              "label": "The Green Angels",
+              "note": "Roadside issues or tourist assistance, English-speaking operators"
+            },
+            {
+              "number": "LOCATEL",
+              "label": "Mexico City non-emergency help line",
+              "note": "For non-emergency, non life-threatening situations"
+            }
+          ],
+          "chips": [
+            "Carry travel medical insurance",
+            "Keep embassy contact details handy",
+            "Write hotel address in Spanish",
+            "Care isn't automatically free"
+          ]
+        }
+      },
+      "ko": {
+        "summary": [
+          {
+            "title": "도착 시 FMM",
+            "sub": "약 65개국 무비자, 최대 180일",
+            "key": "entry"
+          },
+          {
+            "title": "페소가 왕",
+            "sub": "관광지 밖에서는 현금 필요; ATM은 MXN으로 결제",
+            "key": "money"
+          },
+          {
+            "title": "건기가 최고",
+            "sub": "11월부터 4월, 가장 맑고 건조하지만 가장 붐빔",
+            "key": "season"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "FMM (항공 입국)",
+              "code": "",
+              "who": "",
+              "cost": "항공권에 포함",
+              "stay": "최대 180일(심사관이 결정)",
+              "note": "항공사가 양식을 제공; 카운터를 떠나기 전 스탬프/전자 기록을 항상 확인하세요"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "체류 기간은 다를 수 있음",
+              "text": "출입국 심사관이 30일에서 최대 180일까지 부여할 일수를 결정하므로, 카운터를 떠나기 전에 스탬프를 확인하세요."
+            },
+            {
+              "title": "규정이 자주 변경됨",
+              "text": "국적, 수수료, 허용 체류 기간에 관한 규정은 주기적으로 바뀌므로, 예약 전에 INM이나 영사관에 확인하세요."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "메트로 균일 요금",
+              "text": "메트로는 MXN 5.00의 균일 요금으로 운행되며, 유료 구역 내 환승도 포함됩니다."
+            },
+            {
+              "title": "메트로부스 환승",
+              "text": "메트로부스 1호선부터 7호선 사이는 한 방향으로 2시간 이내라면 무료 환승이 가능하지만, 메트로에서 메트로부스로의 환승은 무료가 아닙니다."
+            },
+            {
+              "title": "공항에서 시내로",
+              "text": "터미널 1 도착층 근처의 메트로 5호선이나, 터미널 1 7번 게이트 또는 터미널 2 2번 게이트에서 메트로부스 4호선을 이용해 시내로 갈 수 있습니다."
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "은행 ATM 이용",
+              "text": "Citibanamex, HSBC, BBVA, Banorte, Santander 같은 은행 제휴 기기를 이용하고, 가능하면 낮 시간에 지점에 붙어 있는 곳을 이용하세요."
+            },
+            {
+              "title": "페소로 결제",
+              "text": "자국 통화를 선택하면 ATM 측 은행이 환율을 정하게 되어 수수료가 올라가므로, 더 나은 환율을 위해 항상 MXN으로 결제하세요."
+            },
+            {
+              "title": "현금 소지",
+              "text": "소규모 상점, 시장, 택시, 지방 지역은 여전히 대부분 현금으로 운영되므로 페소를 지니고 다니세요."
+            },
+            {
+              "title": "카드에는 한계가 있음",
+              "text": "직불카드는 도시/관광 지역에서 널리 통용되지만, American Express는 Visa나 Mastercard에 비해 눈에 띄게 덜 받아줍니다."
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "건기",
+              "sub": "해변, 식민지풍 마을, 고고학 유적지",
+              "best": [
+                11,
+                12,
+                1,
+                2,
+                3,
+                4
+              ],
+              "busy": [],
+              "avoid": []
+            },
+            {
+              "label": "중간철",
+              "sub": "더 저렴한 가격, 적은 인파, 오후 소나기 가능성",
+              "best": [
+                5,
+                10,
+                11
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": [
+            1,
+            2,
+            3,
+            4,
+            11,
+            12
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "911",
+              "label": "전국 긴급 전화번호",
+              "note": "전국 어디서든 경찰, 소방, 의료 상황에 가장 빠른 대응"
+            },
+            {
+              "number": "078",
+              "label": "그린 엔젤스",
+              "note": "도로 문제 또는 관광객 지원, 영어 가능 상담원"
+            },
+            {
+              "number": "LOCATEL",
+              "label": "멕시코시티 비응급 상담 전화",
+              "note": "생명에 지장 없는 비응급 상황용"
+            }
+          ],
+          "chips": [
+            "여행자 의료보험 소지하기",
+            "대사관 연락처 챙겨두기",
+            "호텔 주소를 스페인어로 적어두기",
+            "진료가 자동으로 무료는 아님"
+          ]
+        }
+      },
+      "ja": {
+        "summary": [
+          {
+            "title": "到着時のFMM",
+            "sub": "約65か国がビザ免除、最長180日間",
+            "key": "entry"
+          },
+          {
+            "title": "ペソが王様",
+            "sub": "観光地以外では現金が必要、ATMはMXNで支払う",
+            "key": "money"
+          },
+          {
+            "title": "乾季がベスト",
+            "sub": "11月から4月、最も晴れて乾燥しているが最も混雑",
+            "key": "season"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "FMM（航空機到着）",
+              "code": "",
+              "who": "",
+              "cost": "航空券に含まれる",
+              "stay": "最長180日間（審査官が決定）",
+              "note": "航空会社がフォームを提供；カウンターを離れる前に必ずスタンプ／電子記録を確認すること"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "滞在期間は変動する",
+              "text": "入国審査官が30日から最長180日まで付与日数を決めるため、カウンターを離れる前にスタンプを確認してください。"
+            },
+            {
+              "title": "ルールは頻繁に変わる",
+              "text": "国籍、手数料、許可される滞在期間に関する規則は定期的に変わるため、予約前にINMまたは領事館に確認してください。"
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "メトロは均一運賃",
+              "text": "メトロはMXN 5.00の均一運賃で運行し、有料エリア内の乗り換えも含まれます。"
+            },
+            {
+              "title": "メトロブスの乗り換え",
+              "text": "メトロブス1号線から7号線間では、一方向に最初の2時間以内なら乗り換えは無料ですが、メトロからメトロブスへの乗り換えは無料ではありません。"
+            },
+            {
+              "title": "空港からダウンタウンへ",
+              "text": "ターミナル1到着ロビー付近のメトロ5号線、またはターミナル1の7番ゲートかターミナル2の2番ゲートからメトロブス4号線でダウンタウンに行けます。"
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "銀行のATMを使う",
+              "text": "Citibanamex、HSBC、BBVA、Banorte、Santanderなど銀行系のATMを利用し、できれば日中に支店併設のものを選びましょう。"
+            },
+            {
+              "title": "ペソで支払う",
+              "text": "自国通貨を選ぶとATM側の銀行が為替レートを決めるため手数料が高くなるので、より良いレートのために常にMXNで支払いましょう。"
+            },
+            {
+              "title": "現金を携帯する",
+              "text": "小さな店、市場、タクシー、地方部では依然として現金が主流なので、ペソを持ち歩きましょう。"
+            },
+            {
+              "title": "カードには限界がある",
+              "text": "デビットカードは都市部や観光地で広く使えますが、American ExpressはVisaやMastercardに比べて明らかに利用可能な場所が少ないです。"
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "乾季",
+              "sub": "ビーチ、コロニアル都市、遺跡",
+              "best": [
+                11,
+                12,
+                1,
+                2,
+                3,
+                4
+              ],
+              "busy": [],
+              "avoid": []
+            },
+            {
+              "label": "端境期",
+              "sub": "価格が安く、人混みが少ないが、午後に通り雨がある可能性",
+              "best": [
+                5,
+                10,
+                11
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": [
+            1,
+            2,
+            3,
+            4,
+            11,
+            12
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "911",
+              "label": "全国緊急電話番号",
+              "note": "国内どこでも警察・消防・医療への最速対応"
+            },
+            {
+              "number": "078",
+              "label": "グリーンエンジェルス",
+              "note": "道路上のトラブルや観光客支援、英語対応オペレーター"
+            },
+            {
+              "number": "LOCATEL",
+              "label": "メキシコシティの非緊急相談窓口",
+              "note": "生命に関わらない非緊急事態向け"
+            }
+          ],
+          "chips": [
+            "海外旅行保険を携帯する",
+            "大使館の連絡先を手元に用意する",
+            "ホテルの住所をスペイン語で書いておく",
+            "治療は自動的に無料ではない"
+          ]
+        }
+      },
+      "es": {
+        "summary": [
+          {
+            "title": "FMM a la llegada",
+            "sub": "Sin visa para ~65 países, hasta 180 días",
+            "key": "entry"
+          },
+          {
+            "title": "El peso manda",
+            "sub": "Se necesita efectivo fuera de zonas turísticas; pagar en los cajeros en MXN",
+            "key": "money"
+          },
+          {
+            "title": "La mejor es la temporada seca",
+            "sub": "De noviembre a abril, la más soleada y seca pero la más concurrida",
+            "key": "season"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "FMM (llegada aérea)",
+              "code": "",
+              "who": "",
+              "cost": "Incluido en el boleto de avión",
+              "stay": "Hasta 180 días (el oficial decide)",
+              "note": "La aerolínea entrega el formulario; siempre revisa el sello o registro digital antes de dejar el mostrador"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "La duración de la estadía varía",
+              "text": "El oficial de migración decide cuántos días otorgar, desde 30 hasta el máximo de 180, así que revisa tu sello antes de dejar el mostrador."
+            },
+            {
+              "title": "Las reglas cambian con frecuencia",
+              "text": "Las normas sobre nacionalidades, tarifas y estadías permitidas cambian periódicamente, así que confirma con el INM o un consulado antes de reservar."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "Tarifa plana del Metro",
+              "text": "El Metro funciona con una tarifa plana de MXN 5.00, incluyendo los transbordos dentro del área de pago."
+            },
+            {
+              "title": "Transbordos del Metrobús",
+              "text": "Los transbordos son gratuitos entre las Líneas 1 a 7 del Metrobús dentro de las primeras dos horas en una sola dirección; los transbordos de Metro a Metrobús no son gratuitos."
+            },
+            {
+              "title": "Del aeropuerto al centro",
+              "text": "Llega al centro vía la Línea 5 del Metro cerca de las llegadas de la Terminal 1, o la Línea 4 del Metrobús desde la puerta 7 de la Terminal 1 o la puerta 2 de la Terminal 2."
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "Usa cajeros de bancos",
+              "text": "Prefiere máquinas afiliadas a bancos como Citibanamex, HSBC, BBVA, Banorte o Santander, idealmente durante el día y ubicadas en una sucursal."
+            },
+            {
+              "title": "Paga en pesos",
+              "text": "Elegir tu moneda local permite que el banco del cajero fije el tipo de cambio, lo que aumenta las comisiones; paga siempre en MXN para obtener mejores tasas."
+            },
+            {
+              "title": "Lleva efectivo",
+              "text": "Las tiendas pequeñas, mercados, taxis y zonas rurales siguen funcionando mayormente en efectivo, así que lleva pesos a mano."
+            },
+            {
+              "title": "Las tarjetas tienen límites",
+              "text": "Las tarjetas de débito son ampliamente aceptadas en zonas urbanas/turísticas, pero American Express se acepta notablemente menos que Visa o Mastercard."
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "Temporada seca",
+              "sub": "Playas, pueblos coloniales, sitios arqueológicos",
+              "best": [
+                11,
+                12,
+                1,
+                2,
+                3,
+                4
+              ],
+              "busy": [],
+              "avoid": []
+            },
+            {
+              "label": "Temporada media",
+              "sub": "Precios más bajos, menos multitudes, posibles lluvias por la tarde",
+              "best": [
+                5,
+                10,
+                11
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": [
+            1,
+            2,
+            3,
+            4,
+            11,
+            12
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "911",
+              "label": "Número nacional de emergencias",
+              "note": "Respuesta más rápida para policía, bomberos o situaciones médicas en cualquier parte del país"
+            },
+            {
+              "number": "078",
+              "label": "Los Ángeles Verdes",
+              "note": "Problemas en carretera o asistencia turística, operadores que hablan inglés"
+            },
+            {
+              "number": "LOCATEL",
+              "label": "Línea de ayuda no urgente de la Ciudad de México",
+              "note": "Para situaciones no urgentes y que no ponen en riesgo la vida"
+            }
+          ],
+          "chips": [
+            "Lleva un seguro médico de viaje",
+            "Ten a la mano los datos de contacto de la embajada",
+            "Escribe la dirección del hotel en español",
+            "La atención médica no es automáticamente gratuita"
+          ]
+        }
+      },
+      "zh": {
+        "summary": [
+          {
+            "title": "入境时办理FMM",
+            "sub": "约65个国家免签，最长180天",
+            "key": "entry"
+          },
+          {
+            "title": "比索为王",
+            "sub": "旅游区以外需要现金；ATM取款以MXN结算",
+            "key": "money"
+          },
+          {
+            "title": "旱季最佳",
+            "sub": "11月至4月，阳光最充足、最干燥，但也最拥挤",
+            "key": "season"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "FMM（空中入境）",
+              "code": "",
+              "who": "",
+              "cost": "包含在机票中",
+              "stay": "最长180天（由官员决定）",
+              "note": "航空公司会提供表格；离开柜台前务必核实印章/电子记录"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "停留时长因人而异",
+              "text": "移民官员会决定给予的天数，从30天到最长180天不等，所以离开柜台前请检查你的印章。"
+            },
+            {
+              "title": "规则经常变化",
+              "text": "有关国籍、费用和允许停留时间的规定会定期调整，预订前请向INM或领事馆确认。"
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "地铁单一票价",
+              "text": "地铁实行MXN 5.00的统一票价，包括付费区内的换乘。"
+            },
+            {
+              "title": "Metrobús换乘",
+              "text": "在Metrobús 1号线至7号线之间，单一方向前两小时内换乘免费；但地铁换乘Metrobús不免费。"
+            },
+            {
+              "title": "机场到市中心",
+              "text": "可在1号航站楼到达层附近乘坐地铁5号线，或从1号航站楼7号门或2号航站楼2号门乘坐Metrobús 4号线前往市中心。"
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "使用银行ATM",
+              "text": "尽量选择Citibanamex、HSBC、BBVA、Banorte或Santander等银行附属的ATM，最好在白天使用附设在支行内的机器。"
+            },
+            {
+              "title": "以比索支付",
+              "text": "选择本国货币会让ATM所属银行自行设定汇率，从而增加手续费；为获得更好的汇率，请始终以MXN支付。"
+            },
+            {
+              "title": "随身携带现金",
+              "text": "小商店、市场、出租车和乡村地区仍主要使用现金，所以请随身携带比索。"
+            },
+            {
+              "title": "银行卡有局限",
+              "text": "借记卡在城市/旅游区被广泛接受，但American Express明显不如Visa或Mastercard那样通用。"
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "旱季",
+              "sub": "海滩、殖民小镇、考古遗址",
+              "best": [
+                11,
+                12,
+                1,
+                2,
+                3,
+                4
+              ],
+              "busy": [],
+              "avoid": []
+            },
+            {
+              "label": "平季",
+              "sub": "价格更低，游客更少，午后可能有阵雨",
+              "best": [
+                5,
+                10,
+                11
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": [
+            1,
+            2,
+            3,
+            4,
+            11,
+            12
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "911",
+              "label": "全国紧急电话号码",
+              "note": "全国任何地方对警察、消防或医疗情况反应最快"
+            },
+            {
+              "number": "078",
+              "label": "绿天使救援队",
+              "note": "道路救援或游客协助，接线员会说英语"
+            },
+            {
+              "number": "LOCATEL",
+              "label": "墨西哥城非紧急求助热线",
+              "note": "适用于非紧急、无生命危险的情况"
+            }
+          ],
+          "chips": [
+            "随身携带旅行医疗保险",
+            "随身备好大使馆联系方式",
+            "用西班牙语写下酒店地址",
+            "医疗救助并非自动免费"
+          ]
+        }
+      }
+    },
     "Philippines": {
       "srcHash": "331a75ed04cf",
       "en": {

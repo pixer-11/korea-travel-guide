@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jordan-hong-kong-heritage-museum
-srcHash: 'f7910b41776a'
+srcHash: '54aa576f59bf'
 title: 'Museo del Patrimonio de Hong Kong: guía de viaje de Sha Tin (4.3★)'
 description: 'El Museo del Patrimonio de Hong Kong se encuentra en Sha Tin, Nuevos Territorios, junto al río Shing Mun, y es uno de los museos más grandes y visitados del territorio. 4.3★ (7.832 reseñas): lo que opinan los visitantes, horarios y consejos.'
 quickAnswer: El Museo del Patrimonio de Hong Kong se encuentra en Sha Tin, Nuevos Territorios, junto al río Shing Mun, y es uno de los museos más grandes y visitados del territorio. La mejor hora para ir es un día de semana por la mañana, justo a la apertura de las 10:00, ya que los fines de semana recibe multitudes y permanece cerrado todo el martes. Conviene reservar entre dos y tres horas para recorrer con calma la galería de Bruce Lee, la sala de ópera cantonesa y las galerías de diseño.
@@ -26,7 +26,7 @@ El propio edificio ya da una pista de lo que espera en el interior antes incluso
 
 ## Cómo llegar desde Jordan
 
-Tome la línea Tsuen Wan desde la estación de Jordan hasta Admiralty y, allí, cambie a la línea East Rail en dirección a Lo Wu o Lok Ma Chau para bajarse en la estación de Che Kung Temple. Desde ahí, el trayecto es una caminata llana y bien señalizada de 5 minutos por el paseo junto al río.
+Tome el MTR desde la estación de Jordan hasta la estación de Che Kung Temple. Desde ahí, el trayecto es una caminata corta por el paseo junto al río.
 
 Otra opción es viajar hasta la estación de Sha Tin y tomar un taxi o la red de autobuses locales, prácticamente gratuita, para el último tramo; resulta útil si se piensa combinar la visita al museo con una vuelta de compras por New Town Plaza. Sea cual sea la ruta elegida, el trayecto completo desde Jordan ronda los 40 minutos puerta a puerta.
 

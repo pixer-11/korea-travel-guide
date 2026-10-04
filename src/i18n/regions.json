@@ -10245,5 +10245,277 @@
       "getting": "罗滕堡没有直达的长途铁路线：游客需要在施泰纳赫（Steinach）换乘当地支线才能抵达，大多数行程会先经由北面的维尔茨堡（Würzburg）或南面的安斯巴赫（Ansbach），再转乘最后一小段支线。法兰克福机场（FRA）是最常用的国际入境口岸，全程火车（包括在维尔茨堡和施泰纳赫的换乘）大约需要3到3.5小时；自驾的话，走A7高速公路走同样的路线约需2小时。",
       "days": "一天时间足以走完城墙并游览老城的主要景点，但如果能住上一晚，就能在清晨或傍晚游客散去之后，欣赏到罗滕堡鹅卵石街道的宁静一面，因此通常建议安排1到2天的行程。"
     }
+  },
+  "Guadalajara": {
+    "en": {
+      "blurb": "Guadalajara is Mexico's cultural heartland: birthplace of mariachi and tequila, with a colonial centro crowned by one of the country's most photographed cathedrals. It pairs that deep-rooted tradition with a fast-growing tech and design scene, giving the city a layered identity that mixes centuries-old plazas with modern creative energy.",
+      "getting": "Most travellers arrive via Guadalajara International Airport (GDL), located south of the city; taxis and private transfers reach downtown in ~30 to 40 minutes, while public buses from the airport to the Central Vieja area take ~45 minutes to an hour. Long-distance buses from other Mexican cities typically arrive at the Nueva Central de Autobuses terminal on the city's outskirts, with onward local buses or taxis into the historic centre.",
+      "days": "Plan on ~3 to 4 days to cover the historic centre, the Hospicio Cabañas murals, and a side trip to nearby Tlaquepaque or Tequila, with extra days if you want to explore Lake Chapala or go deeper into the region's craft and culinary scene."
+    },
+    "ko": {
+      "blurb": "과달라하라는 멕시코 문화의 심장부라 할 수 있는 도시입니다. 마리아치와 데킬라의 발상지이자, 멕시코에서 가장 많이 사진에 담기는 대성당이 자리한 식민지풍 센트로를 품고 있죠. 이렇듯 뿌리 깊은 전통에 빠르게 성장하는 테크·디자인 신(scene)이 더해지면서, 수백 년 된 광장과 현대적인 창의적 에너지가 공존하는 다층적인 매력을 지닌 도시가 되었습니다.",
+      "getting": "대부분의 여행자는 도시 남쪽에 위치한 과달라하라 국제공항(GDL)을 통해 도착합니다. 택시나 프라이빗 transfer를 이용하면 시내까지 약 30~40분이 걸리며, 공항에서 센트랄 비에하(Central Vieja) 지역까지 가는 대중버스는 약 45분에서 1시간 정도 소요됩니다. 다른 멕시코 도시에서 출발하는 장거리 버스는 보통 시 외곽에 있는 누에바 센트랄 데 아우토부세스(Nueva Central de Autobuses) 터미널에 도착하며, 이후 시내 버스나 택시를 이용해 역사 지구로 이동할 수 있습니다.",
+      "days": "역사 지구와 오스피시오 카바냐스(Hospicio Cabañas)의 벽화를 둘러보고, 인근 틀라케파케(Tlaquepaque)나 테킬라(Tequila)로 당일치기 여행을 다녀오려면 3~4일 정도 일정을 잡는 것이 좋습니다. 차팔라 호수(Lake Chapala)까지 둘러보거나 이 지역의 공예와 미식 문화를 더 깊이 탐험하고 싶다면 며칠 더 여유를 두는 것을 추천합니다."
+    },
+    "ja": {
+      "blurb": "グアダラハラはメキシコ文化の心臓部ともいえる街。マリアッチとテキーラ発祥の地であり、コロニアル様式の旧市街には、国内でも屈指の撮影スポットとして知られる大聖堂がそびえています。こうした根強い伝統が、急成長を遂げるテック・デザイン業界と共存しているのもこの街の魅力で、何世紀も時を重ねた広場と、現代的なクリエイティブなエネルギーが重なり合う、重層的な個性を生み出しています。",
+      "getting": "多くの旅行者は、市街南部に位置するグアダラハラ国際空港(GDL)から入ります。タクシーや送迎サービスを利用すれば、ダウンタウンまで約30〜40分。空港からセントラル・ビエハ地区へ向かう路線バスの場合は、約45分から1時間ほどかかります。メキシコ国内の他都市からの長距離バスは、通常、郊外にあるヌエバ・セントラル・デ・アウトブセス・ターミナルに到着し、そこから市内バスやタクシーに乗り換えて歴史地区へ向かうことになります。",
+      "days": "歴史地区の散策、オスピシオ・カバーニャスの壁画鑑賞、そして近郊のトラケパケやテキーラへの小旅行まで含めると、目安は3〜4日ほど。さらにチャパラ湖を訪れたり、この地方の工芸や食文化をじっくり味わいたい場合は、数日プラスするのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Guadalajara es el corazón cultural de México: cuna del mariachi y el tequila, con un centro colonial coronado por una de las catedrales más fotografiadas del país. A esta tradición profundamente arraigada se suma una escena tecnológica y de diseño en pleno auge, lo que le da a la ciudad una identidad de múltiples capas, donde plazas centenarias conviven con una energía creativa muy moderna.",
+      "getting": "La mayoría de los viajeros llega por el Aeropuerto Internacional de Guadalajara (GDL), ubicado al sur de la ciudad; los taxis y traslados privados tardan entre 30 y 40 minutos en llegar al centro, mientras que los autobuses públicos desde el aeropuerto hasta la zona de la Central Vieja toman entre 45 minutos y una hora. Los autobuses de larga distancia procedentes de otras ciudades mexicanas suelen llegar a la Nueva Central de Autobuses, en las afueras de la ciudad, desde donde hay autobuses locales o taxis para llegar al centro histórico.",
+      "days": "Conviene planear entre 3 y 4 días para recorrer el centro histórico, admirar los murales del Hospicio Cabañas y hacer una escapada a Tlaquepaque o Tequila, sumando días extra si quieres explorar el Lago de Chapala o adentrarte más en la escena artesanal y gastronómica de la región."
+    },
+    "zh": {
+      "blurb": "瓜达拉哈拉是墨西哥的文化心脏地带：马里亚奇音乐和龙舌兰酒的发源地，殖民时期老城区的中心矗立着全国最上镜的大教堂之一。这里深厚的传统底蕴与蓬勃发展的科技设计产业交相辉映，让这座城市呈现出多层次的独特气质——古老广场与现代创意活力完美交融。",
+      "getting": "大多数游客经由瓜达拉哈拉国际机场（GDL）抵达，该机场位于市区以南；乘坐出租车或私人接驳车约30至40分钟即可到达市中心，而从机场乘公交车前往Central Vieja区域则需45分钟到1小时左右。来自墨西哥其他城市的长途巴士通常抵达位于市郊的Nueva Central de Autobuses客运总站，之后可换乘当地公交车或出租车前往历史城区。",
+      "days": "建议安排约3至4天时间游览历史城区、参观Hospicio Cabañas壁画，并抽空前往附近的特拉克帕克（Tlaquepaque）或特基拉（Tequila）小镇；如果还想探索查帕拉湖（Lake Chapala），或更深入体验当地的手工艺与美食文化，可以适当增加游览天数。"
+    }
+  },
+  "Guanajuato": {
+    "en": {
+      "blurb": "Guanajuato is a UNESCO World Heritage city built into a steep ravine, where pastel houses stack above a maze of underground tunnels originally cut for flood control and now used as traffic roads. Its labyrinth of narrow callejones, baroque churches and the grand Teatro Juárez reflect centuries of silver-mining wealth, and the city remains a lively university and festival hub, most famously during the Festival Internacional Cervantino.",
+      "getting": "The nearest airport is Bajío International Airport (BJX), located in Silao roughly 30km from the city; from there, travellers typically take a shuttle or bus service such as UNEbus into Guanajuato, or connect via a bus to Silao first, since there is no direct public bus from the airport itself. Long-distance buses also run from Mexico City (~4-5 hours) to Guanajuato's bus terminal, which sits on the edge of town and requires a short taxi or local bus ride into the historic centre.",
+      "days": "~2-3 days is enough to explore the historic centre, tunnels and hillside viewpoints, with extra time useful for day trips to nearby towns like San Miguel de Allende."
+    },
+    "ja": {
+      "blurb": "グアナファトは、険しい渓谷に築かれたユネスコ世界遺産の都市で、パステルカラーの家々が折り重なるように建ち並ぶ上には、かつて洪水対策として掘られ、今では道路として使われている地下トンネルの迷路が広がっています。入り組んだ細い路地(カジェホン)、バロック様式の教会、そして壮麗なフアレス劇場は、銀鉱山がもたらした富が築いた歴史を今に伝えており、この街は今なお活気ある大学都市として、そして何より「セルバンティーノ国際フェスティバル」で知られる祭りの拠点として賑わいを見せています。",
+      "getting": "最寄り空港はバヒオ国際空港(BJX)で、市街から約30km離れたシラオに位置しています。空港からグアナファト市街への直行公共バスはないため、通常はUNEbusなどのシャトルバスやバスサービスを利用するか、一旦シラオまで移動してから乗り継ぐ形になります。また、メキシコシティからは長距離バスで約4~5時間でグアナファトのバスターミナルに到着しますが、ターミナルは町外れにあるため、そこから旧市街中心部までは短いタクシーや路線バスでの移動が必要です。",
+      "days": "旧市街や地下トンネル、丘の上の展望スポットを巡るには2~3日あれば十分ですが、サン・ミゲル・デ・アジェンデなど近郊の町への日帰り旅行も楽しみたいなら、もう少し余裕を持たせるのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Guanajuato es una ciudad declarada Patrimonio de la Humanidad por la UNESCO, construida en una empinada cañada donde las casas de colores pastel se apilan sobre un laberinto de túneles subterráneos, originalmente excavados para controlar inundaciones y hoy convertidos en vías de tránsito. Su entramado de estrechos callejones, iglesias barrocas y el majestuoso Teatro Juárez reflejan siglos de riqueza minera plateada, y la ciudad sigue siendo un animado centro universitario y cultural, famoso sobre todo por el Festival Internacional Cervantino.",
+      "getting": "El aeropuerto más cercano es el Aeropuerto Internacional del Bajío (BJX), ubicado en Silao, a unos 30 km de la ciudad. Desde allí, los viajeros suelen tomar un servicio de traslado o autobús, como UNEbus, directo a Guanajuato, o bien conectar primero con un autobús hacia Silao, ya que no existe transporte público directo desde el propio aeropuerto. También hay autobuses de larga distancia desde la Ciudad de México (entre 4 y 5 horas) hasta la terminal de autobuses de Guanajuato, que se encuentra en las afueras de la ciudad y requiere un breve trayecto en taxi o autobús local para llegar al centro histórico.",
+      "days": "Entre 2 y 3 días son suficientes para explorar el centro histórico, los túneles y los miradores en las laderas, y conviene sumar algo de tiempo extra para excursiones de un día a pueblos cercanos como San Miguel de Allende."
+    },
+    "zh": {
+      "blurb": "瓜纳华托是一座被列入联合国教科文组织世界遗产名录的城市,依陡峭的峡谷而建,色彩斑斓的房屋层层叠叠,下方则是纵横交错的地下隧道网络。这些隧道最初是为防洪而开凿的,如今已改作行车通道。城中蜿蜒的小巷(callejones)、巴洛克风格的教堂,以及宏伟的华雷斯剧院(Teatro Juárez),无不诉说着昔日银矿繁荣所积淀下的百年底蕴。时至今日,这里依然是充满活力的大学城与节庆胜地,其中最负盛名的当属塞万提斯国际艺术节(Festival Internacional Cervantino)。",
+      "getting": "距离瓜纳华托最近的机场是巴希奥国际机场(BJX),位于锡拉奥(Silao),距市区约30公里。由于机场本身并没有直达市区的公共巴士,游客通常需要乘坐接驳车或UNEbus等巴士服务前往瓜纳华托,或者先转乘巴士到锡拉奥再换乘。此外,也有从墨西哥城(车程约4-5小时)开往瓜纳华托的长途巴士,抵达的客运站位于市郊,需再搭乘出租车或当地巴士短途前往历史中心。",
+      "days": "大约2-3天便足以探索历史中心、地下隧道及山坡观景点;如果时间充裕,不妨多留几天,前往附近的圣米格尔德阿连德(San Miguel de Allende)等小镇一日游。"
+    }
+  },
+  "Mexico City": {
+    "en": {
+      "blurb": "Mexico City sprawls across a high mountain valley where Aztec canals once ran, layering Spanish colonial palaces, world class museums and some of the world's best street food atop the ruins of Tenochtitlan. It is one of the largest metropolitan areas on Earth, a dense, high altitude capital where ancient history, modern art and relentless energy collide in equal measure.",
+      "getting": "Most international travellers arrive at Benito Juárez International Airport (MEX), on the city's east side, with Metro Line 5 and the Metrobús both running from the terminals into downtown. A newer secondary airport, Felipe Ángeles (AIFA), lies further out and is linked to the central Buenavista station by a dedicated train, journey time ~50 minutes.",
+      "days": "Plan on ~4 to 6 days to take in the historic centre, Chapultepec's museums and at least one outlying site such as Teotihuacan."
+    },
+    "ko": {
+      "blurb": "멕시코시티는 한때 아스테카의 운하가 흐르던 고원 분지 위에 펼쳐진 도시로, 테노치티틀란의 폐허 위에 스페인 식민지 시대의 궁전들과 세계적 수준의 박물관들, 그리고 세계 최고로 꼽히는 길거리 음식 문화가 켜켜이 쌓여 있다. 지구상에서 손꼽히는 거대 도시권 중 하나인 이곳은, 고대의 역사와 현대 미술, 그리고 멈추지 않는 에너지가 고지대의 밀도 높은 수도에서 한데 어우러지는 곳이다.",
+      "getting": "대부분의 해외 여행객은 도시 동쪽에 위치한 베니토 후아레스 국제공항(MEX)으로 입국하며, 터미널에서 시내까지는 메트로 5호선과 메트로부스(Metrobús)가 모두 운행된다. 비교적 새로 생긴 보조 공항인 펠리페 앙헬레스 공항(AIFA)은 시내에서 더 떨어져 있지만, 전용 열차로 중심가의 부에나비스타(Buenavista) 역과 연결되며 소요 시간은 약 50분이다.",
+      "days": "역사 지구와 차풀테펙의 박물관들, 그리고 테오티우아칸 같은 근교 유적지 최소 한 곳을 둘러보려면 대략 4~6일 정도 일정을 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "メキシコシティは、かつてアステカの運河が流れていた高地の盆地に広がる大都市だ。テノチティトランの遺跡の上に、スペイン植民地時代の宮殿群、世界屈指の美術館・博物館、そして世界有数と評される屋台料理の数々が幾重にも積み重なっている。地球上でも屈指の規模を誇るこの高地の首都では、古代の歴史と現代アートが密集した街並みの中でぶつかり合い、尽きることのないエネルギーに満ちている。",
+      "getting": "海外からの旅行者の多くは、市の東側にあるベニート・フアレス国際空港（MEX）に到着する。ターミナルから市内中心部へは、メトロ5号線とメトロブスの両方が利用可能だ。郊外には比較的新しい第二の空港、フェリペ・アンヘレス国際空港（AIFA）があり、専用列車で中心部のブエナビスタ駅と結ばれている。所要時間は約50分。",
+      "days": "歴史地区、チャプルテペックの博物館群、そしてテオティワカンなど郊外の見どころを少なくとも1か所は巡るなら、滞在日数は4～6日程度を見ておくとよい。"
+    },
+    "es": {
+      "blurb": "La Ciudad de México se extiende por un alto valle montañoso donde antaño corrían los canales aztecas, superponiendo palacios coloniales españoles, museos de talla mundial y algunas de las mejores comidas callejeras del planeta sobre las ruinas de Tenochtitlan. Es una de las áreas metropolitanas más grandes del mundo, una capital densa y de gran altitud donde la historia antigua, el arte moderno y una energía incesante chocan a partes iguales.",
+      "getting": "La mayoría de los viajeros internacionales llegan al Aeropuerto Internacional Benito Juárez (MEX), al oriente de la ciudad, desde donde la Línea 5 del Metro y el Metrobús conectan las terminales con el centro. Un aeropuerto secundario más reciente, el Felipe Ángeles (AIFA), se encuentra más alejado y está conectado con la estación central de Buenavista mediante un tren dedicado, con un trayecto de aproximadamente 50 minutos.",
+      "days": "Se recomienda dedicar entre 4 y 6 días para recorrer el centro histórico, los museos de Chapultepec y al menos un sitio cercano, como Teotihuacán."
+    },
+    "zh": {
+      "blurb": "墨西哥城坐落在一片高原山谷之中,昔日阿兹特克人的运河曾在此流淌。如今,西班牙殖民时期的宫殿、世界一流的博物馆,以及一些全球顶尖的街头美食,层层叠叠地覆盖在特诺奇蒂特兰古城的遗址之上。作为地球上最大的都市圈之一,这座高海拔的密集都城,将古老历史、现代艺术与澎湃不息的活力同等交织,碰撞出独特的城市气质。",
+      "getting": "大多数国际旅客会降落在位于市区东侧的贝尼托·胡亚雷斯国际机场(MEX),从航站楼出发,地铁5号线和快速公交(Metrobús)都可直达市中心。另一座较新的第二机场——费利佩·安赫莱斯机场(AIFA)则位置更远,与市中心的布埃纳维斯塔(Buenavista)车站之间有专线列车相连,车程约50分钟。",
+      "days": "建议安排约4到6天时间,用来游览历史中心区、查普尔特佩克(Chapultepec)的各大博物馆,以及至少一处周边景点,比如特奥蒂瓦坎(Teotihuacan)古城遗址。"
+    }
+  },
+  "Merida": {
+    "en": {
+      "blurb": "Mérida is the colonial capital of Yucatán: a city of pastel mansions, leafy plazas and a slow, confident rhythm that has made it one of Mexico's safest and most liveable cities. It is also the natural base for exploring the peninsula's Maya ruins, cenotes and henequen haciendas, without ever feeling like a tourist outpost itself.",
+      "getting": "Most travellers fly into Mérida International Airport (MID), which has direct domestic links to Mexico City and a growing set of international routes from the US and Canada. From Cancún, the standard overland option is the ADO bus network, with journeys to Mérida's Centro Histórico terminal taking roughly 4 hours; the Tren Maya rail line also now connects Cancún's airport area to Mérida's Teya station in around 5 hours.",
+      "days": "Plan on ~2 to 3 days to see the city itself, and ~4 to 5 days if you want to use Mérida as a base for day trips to nearby ruins and cenotes."
+    },
+    "es": {
+      "blurb": "Mérida es la capital colonial de Yucatán: una ciudad de mansiones en tonos pastel, plazas arboladas y un ritmo pausado pero seguro de sí mismo, que la ha convertido en una de las ciudades más seguras y habitables de México. Es también el punto de partida natural para explorar las ruinas mayas, los cenotes y las haciendas henequeneras de la península, sin que la ciudad misma se sienta nunca como un enclave turístico.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto Internacional de Mérida (MID), que cuenta con conexiones nacionales directas a la Ciudad de México y una oferta internacional cada vez mayor desde Estados Unidos y Canadá. Desde Cancún, la opción terrestre habitual es la red de autobuses ADO, con trayectos de unas 4 horas hasta la terminal del Centro Histórico de Mérida; el Tren Maya también conecta ahora la zona del aeropuerto de Cancún con la estación Teya de Mérida en alrededor de 5 horas.",
+      "days": "Calcula entre 2 y 3 días para conocer la ciudad en sí, y de 4 a 5 días si quieres usar Mérida como base para excursiones de un día a las ruinas y cenotes cercanos."
+    },
+    "zh": {
+      "blurb": "梅里达是尤卡坦州的殖民地首府:这座城市遍布粉彩色调的宅邸和绿树成荫的广场,节奏舒缓而从容,使其跻身墨西哥最安全、最宜居城市之列。同时,它也是探访尤卡坦半岛玛雅遗址、天然井(cenotes)和剑麻庄园(henequen haciendas)的理想基地,却丝毫没有游客扎堆之地的喧嚣感。",
+      "getting": "大多数旅行者选择飞抵梅里达国际机场(MID),该机场有直飞墨西哥城的国内航班,来自美国和加拿大的国际航线也在不断增加。从坎昆出发,陆路的常规选择是搭乘ADO长途巴士,前往梅里达历史中心(Centro Histórico)车站大约需要4小时;如今,玛雅列车(Tren Maya)也已开通,从坎昆机场附近车站到梅里达的特亚(Teya)站,车程约5小时。",
+      "days": "若只游览梅里达市区,安排2到3天即可;如果想以梅里达为据点,顺道探访附近的玛雅遗址和天然井,建议预留4到5天。"
+    }
+  },
+  "Oaxaca": {
+    "en": {
+      "blurb": "Oaxaca de Juárez is a high-valley capital famed for its black-clay pottery, mezcal distilleries and a cuisine so distinctive that UNESCO has recognised it alongside the city's colonial centre. Its baroque churches and bustling mercados sit against a backdrop of mountains shared by sixteen indigenous peoples, giving the city a depth of craft and ritual rarely matched elsewhere in Mexico.",
+      "getting": "Most travellers fly into Oaxaca International Airport (OAX), a small international airport about 7 miles south of the city centre with regular domestic connections, including to Mexico City in ~1.5 hours. Overland travellers typically take a first-class bus from Mexico City's TAPO terminal, a journey of roughly 6-7 hours that ends at Oaxaca's main bus terminal within walking or taxi distance of downtown.",
+      "days": "Plan on ~3-4 days to cover the historic centre, markets and nearby archaeological sites such as Monte Albán, or longer if you intend to branch out to the Pacific coast or mezcal villages beyond the valley."
+    },
+    "ko": {
+      "blurb": "오아하카 데 후아레스는 고산 계곡에 자리한 주도로, 검은 빛깔의 바로 네그로 도자기와 메스칼 증류소, 그리고 유네스코가 도시의 식민지풍 중심가와 함께 그 가치를 인정할 만큼 독보적인 요리 문화로 유명합니다. 바로크 양식의 성당들과 활기 넘치는 메르카도(시장)들이 16개 원주민 부족이 함께 어우러져 사는 산악 지대를 배경으로 펼쳐지며, 멕시코 어디에서도 쉽게 찾아볼 수 없는 깊이 있는 공예와 전통 의식을 간직하고 있습니다.",
+      "getting": "대부분의 여행객은 오아하카 국제공항(OAX)을 이용합니다. 시내 중심가에서 남쪽으로 약 7마일(11km) 떨어진 소규모 국제공항으로, 멕시코시티까지 약 1시간 30분 등 국내선 노선이 정기적으로 운항됩니다. 육로로 이동하는 경우, 보통 멕시코시티의 TAPO 터미널에서 1등급(프리메라 클라세) 버스를 이용하며, 약 6~7시간이 소요되어 오아하카 시내 중심가에서 도보나 택시로 쉽게 갈 수 있는 중앙 버스터미널에 도착합니다.",
+      "days": "역사 지구와 시장, 그리고 몬테 알반과 같은 인근 고고학 유적지를 둘러보려면 약 3~4일을 계획하는 것이 좋으며, 태평양 연안이나 계곡 너머의 메스칼 마을까지 여정을 확장하고 싶다면 그보다 더 긴 일정을 잡는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "オアハカ・デ・フアレスは、高地の盆地に広がる州都で、黒土焼き(バロ・ネグロ)の陶器やメスカルの蒸留所、そしてユネスコが旧市街とともにその価値を認めるほど独特な食文化で知られています。バロック様式の教会や活気あふれる市場(メルカド)の背後には、16の先住民族が暮らす山々が広がり、メキシコ国内でも類を見ないほど奥深い工芸と儀礼の文化を街に与えています。",
+      "getting": "多くの旅行者はオアハカ国際空港(OAX)を利用します。市街中心部から南へ約7マイルの小さな国際空港で、メキシコシティとの間を約1.5時間で結ぶ便をはじめ、国内線が定期的に運航しています。陸路の場合は、メキシコシティのTAPOターミナルから一等バスを利用するのが一般的で、所要時間は約6〜7時間。到着するオアハカのメインバスターミナルからは、徒歩またはタクシーで市街中心部まで行くことができます。",
+      "days": "旧市街や市場、モンテ・アルバンなど近郊の遺跡を巡るには3〜4日程度を見ておくとよいでしょう。太平洋岸やメスカルの産地である盆地周辺の村々まで足を延ばす場合は、さらに日数が必要です。"
+    },
+    "es": {
+      "blurb": "Oaxaca de Juárez es una capital de valle alto célebre por su alfarería de barro negro, sus destilerías de mezcal y una gastronomía tan singular que la UNESCO la ha reconocido junto con el centro colonial de la ciudad. Sus iglesias barrocas y sus bulliciosos mercados se alzan ante un telón de montañas compartido por dieciséis pueblos indígenas, lo que le confiere a la ciudad una profundidad de oficio y ritual difícil de igualar en el resto de México.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto Internacional de Oaxaca (OAX), un pequeño aeropuerto internacional ubicado a unos 11 km al sur del centro de la ciudad, con conexiones nacionales regulares, incluida Ciudad de México en aproximadamente 1.5 horas de vuelo. Quienes viajan por tierra suelen tomar un autobús de primera clase desde la terminal TAPO de Ciudad de México, un trayecto de unas 6 a 7 horas que termina en la terminal principal de autobuses de Oaxaca, a poca distancia a pie o en taxi del centro.",
+      "days": "Conviene reservar entre 3 y 4 días para recorrer el centro histórico, los mercados y sitios arqueológicos cercanos como Monte Albán, o más tiempo si se piensa continuar hacia la costa del Pacífico o los pueblos mezcaleros más allá del valle."
+    },
+    "zh": {
+      "blurb": "瓦哈卡城（瓦哈卡·德华雷斯）坐落于高原河谷之中，以黑陶工艺、梅斯卡尔酒庄和独树一帜的美食闻名——联合国教科文组织甚至将其饮食文化与城市殖民时期老城一并列入保护名录。巴洛克风格的教堂与熙攘的集市，掩映在十六个原住民族群共享的群山之间，赋予这座城市一种在墨西哥其他地方难得一见的手工技艺与仪式传统的厚重底蕴。",
+      "getting": "大多数旅行者会选择飞抵瓦哈卡国际机场（OAX），这是一座位于市中心以南约7英里处的小型国际机场，提供稳定的国内航班连接，其中飞往墨西哥城的航程约1.5小时。选择陆路前往的游客通常会从墨西哥城的TAPO长途汽车站搭乘头等大巴，车程约6-7小时，终点为瓦哈卡市主汽车站，步行或打车即可抵达市中心。",
+      "days": "建议预留约3-4天时间游览老城区、各大市场以及蒙特阿尔班等附近的考古遗址；若计划延伸前往太平洋海岸或河谷之外的梅斯卡尔酒乡，则需安排更长时间。"
+    }
+  },
+  "Monterrey": {
+    "en": {
+      "blurb": "Monterrey is Mexico's industrial and business powerhouse, a city of glass towers and factories set dramatically against the Sierra Madre and the saddle-shaped peak of Cerro de la Silla. It pairs a no-nonsense, entrepreneurial energy with a strong regional identity built on cabrito, flour tortillas, and a thriving craft beer scene.",
+      "getting": "Most travellers fly into Monterrey International Airport (MTY), in Apodaca roughly 24km northeast of downtown. From there, public buses run to the Y Griega metro station for onward travel into the city, while taxis and ride-shares cover the same route in about ~30-45 minutes depending on traffic.",
+      "days": "Set aside ~3 to 4 days to explore the historic Barrio Antiguo, Fundidora Park, and at least one day trip into the surrounding mountains."
+    },
+    "ko": {
+      "blurb": "몬테레이는 멕시코 산업과 비즈니스의 심장부로, 시에라 마드레 산맥과 안장 모양의 봉우리 세로 데 라 시야를 배경으로 유리 타워와 공장들이 극적으로 펼쳐진 도시입니다. 실용적이고 진취적인 에너지와 더불어, 카브리토(새끼 염소 요리)와 밀가루 토르티야, 그리고 활기찬 수제 맥주 문화로 대표되는 강한 지역 정체성이 공존합니다.",
+      "getting": "대부분의 여행객은 시내에서 북동쪽으로 약 24km 떨어진 아포다카에 위치한 몬테레이 국제공항(MTY)을 이용합니다. 공항에서는 시내로 이동 시 Y 그리에가 지하철역까지 운행하는 대중버스를 이용할 수 있으며, 택시나 차량 공유 서비스를 이용하면 교통 상황에 따라 약 30~45분 정도 소요됩니다.",
+      "days": "역사 지구인 바리오 안티구오와 푼디도라 공원을 둘러보고, 주변 산악 지역으로 당일치기 여행을 다녀오려면 최소 3~4일 정도의 일정을 잡는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "モンテレーは、メキシコの産業・ビジネスの中心地。ガラス張りの高層ビルと工場群が、シエラ・マドレ山脈と馬の鞍のような形をしたセロ・デ・ラ・シージャの山を背景に、ダイナミックに広がる街です。実直で起業家精神あふれるエネルギーと、カブリート(仔ヤギ料理)、小麦粉トルティーヤ、そして盛り上がりを見せるクラフトビール文化に支えられた強い地域色が同居しています。",
+      "getting": "多くの旅行者は、ダウンタウンから北東へ約24km、アポダカにあるモンテレー国際空港(MTY)を利用します。空港からは路線バスでY グリエガ駅(メトロ駅)まで行き、そこから市内へ向かうのが一般的。タクシーや配車サービスを使えば同じルートを交通状況により約30~45分で移動できます。",
+      "days": "歴史地区バリオ・アンティグオやフンディドーラ公園を巡り、さらに周辺の山々へ日帰り旅行を楽しむなら、3~4日程度の滞在を見込んでおくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Monterrey es el motor industrial y empresarial de México, una ciudad de torres de cristal y fábricas que se recorta de manera espectacular contra la Sierra Madre y el perfil inconfundible del Cerro de la Silla. Combina una energía emprendedora y sin rodeos con una identidad regional muy marcada, forjada en torno al cabrito, las tortillas de harina y una floreciente escena de cerveza artesanal.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto Internacional de Monterrey (MTY), ubicado en Apodaca, a unos 24 km al noreste del centro. Desde ahí, hay autobuses públicos que llevan hasta la estación de metro Y Griega para continuar el trayecto hacia la ciudad, mientras que los taxis y los servicios de transporte privado cubren el mismo recorrido en aproximadamente 30 a 45 minutos, según el tráfico.",
+      "days": "Conviene reservar entre 3 y 4 días para explorar el histórico Barrio Antiguo, el Parque Fundidora y hacer al menos una excursión de un día a las montañas de los alrededores."
+    },
+    "zh": {
+      "blurb": "蒙特雷是墨西哥的工业和商业重镇,这座城市高楼林立、工厂密布,背靠雄伟的马德雷山脉,马鞍形的锡利亚山(Cerro de la Silla)耸立其间,景象壮观。这里既有雷厉风行的创业精神,又有深厚的地方特色——烤羊肉(cabrito)、小麦面粉玉米饼,以及蓬勃发展的精酿啤酒文化,构成了蒙特雷独特的城市气质。",
+      "getting": "大多数游客会飞抵蒙特雷国际机场(MTY),该机场位于阿波达卡(Apodaca),距市中心约24公里。从机场出发,可乘坐公交车前往Y Griega地铁站,再转乘地铁进入市区;若选择出租车或网约车,全程大约需要30至45分钟,具体视路况而定。",
+      "days": "建议安排约3至4天时间,游览历史悠久的老城区(Barrio Antiguo)、钢铁公园(Fundidora Park),并至少预留一天前往周边山区进行一日游。"
+    }
+  },
+  "Puebla": {
+    "en": {
+      "blurb": "Puebla's historic centre is a UNESCO World Heritage Site, its skyline punctuated by baroque church domes clad in hand-painted Talavera tiles, a pottery tradition itself recognised by UNESCO as Intangible Cultural Heritage. Framed by the Popocatépetl and Iztaccíhuatl volcanoes, the city is also regarded as one of Mexico's culinary capitals, the birthplace of mole poblano.",
+      "getting": "Puebla has its own international airport (PBC), but almost all travellers arrive via Mexico City, taking a direct bus from either the Mexico City airport, the TAPO terminal, or the Central del Norte to Puebla's CAPU bus station. The ride takes roughly 2 to 2.5 hours along the MEX-150D highway, which passes directly between the two volcanoes.",
+      "days": "Allow ~2 to 3 days to cover the historic centre's churches, Talavera workshops and museums, with an extra day if adding a side trip to nearby Cholula."
+    },
+    "ko": {
+      "blurb": "푸에블라 역사 지구는 유네스코 세계문화유산으로, 손으로 그린 탈라베라 타일로 뒤덮인 바로크 양식 교회 돔들이 도시의 스카이라인을 수놓고 있습니다. 탈라베라 도자기 공예 자체도 유네스코 인류무형문화유산으로 등재되어 있지요. 포포카테페틀과 이스탁시우아틀 화산을 배경으로 자리한 이 도시는 멕시코를 대표하는 미식 도시 중 하나로도 꼽히며, 몰레 포블라노의 발상지이기도 합니다.",
+      "getting": "푸에블라에는 자체 국제공항(PBC)이 있지만, 대부분의 여행자는 멕시코시티를 거쳐 도착합니다. 멕시코시티 공항이나 타포(TAPO) 터미널, 혹은 센트랄 델 노르테에서 직행버스를 타고 푸에블라의 카푸(CAPU) 버스터미널로 이동하면 됩니다. 두 화산 사이를 가로지르는 MEX-150D 고속도로를 따라 약 2시간에서 2시간 30분 정도 소요됩니다.",
+      "days": "역사 지구의 교회들과 탈라베라 공방, 박물관을 둘러보려면 2~3일 정도 잡는 것이 좋으며, 인근 촐룰라까지 당일치기로 다녀오려면 하루를 더 추가하세요."
+    },
+    "ja": {
+      "blurb": "プエブラの旧市街はユネスコ世界遺産に登録されており、街並みには手描きのタラベラ焼きタイルで装飾されたバロック様式の教会ドームが点在しています。このタラベラ焼きの伝統自体も、ユネスコの無形文化遺産に認定されています。ポポカテペトル山とイスタクシワトル山という二つの火山に抱かれたこの街は、モーレ・ポブラーノ発祥の地として、メキシコ屈指の美食都市としても知られています。",
+      "getting": "プエブラには独自の国際空港(PBC)がありますが、ほとんどの旅行者はメキシコシティ経由で訪れます。メキシコシティ空港、TAPOターミナル、セントラル・デル・ノルテのいずれかから、プエブラのCAPUバスターミナル行きの直行バスが利用可能です。所要時間はMEX-150D号線を通っておよそ2〜2.5時間で、このハイウェイは二つの火山の間をまっすぐ抜けていきます。",
+      "days": "旧市街の教会やタラベラ焼きの工房、博物館を巡るには2〜3日ほど見ておくとよいでしょう。近郊のチョルーラへ足を延ばす場合は、さらに1日プラスするのがおすすめです。"
+    },
+    "es": {
+      "blurb": "El centro histórico de Puebla es Patrimonio de la Humanidad por la UNESCO, con un perfil urbano salpicado de cúpulas barrocas de iglesias revestidas de azulejos de Talavera pintados a mano, una tradición alfarera que la propia UNESCO reconoce como Patrimonio Cultural Inmaterial. Enmarcada por los volcanes Popocatépetl e Iztaccíhuatl, la ciudad también es considerada una de las capitales culinarias de México, cuna del mole poblano.",
+      "getting": "Puebla cuenta con su propio aeropuerto internacional (PBC), pero casi todos los viajeros llegan a través de la Ciudad de México, tomando un autobús directo desde el aeropuerto de la Ciudad de México, la terminal TAPO o la Central del Norte hasta la central camionera CAPU de Puebla. El trayecto dura aproximadamente de 2 a 2.5 horas por la autopista MEX-150D, que pasa justo entre los dos volcanes.",
+      "days": "Calcula entre 2 y 3 días para recorrer las iglesias, los talleres de Talavera y los museos del centro histórico, y un día más si decides sumar una escapada a la cercana Cholula."
+    },
+    "zh": {
+      "blurb": "普埃布拉的历史中心是联合国教科文组织世界遗产,城市天际线上点缀着巴洛克风格的教堂穹顶,表面覆盖着手绘塔拉韦拉瓷砖——这种制陶工艺本身也被联合国教科文组织列为非物质文化遗产。普埃布拉坐落于波波卡特佩特火山与伊斯塔西瓦特尔火山之间,同时也被视为墨西哥的美食之都之一,是普埃布拉风味摩雷酱(mole poblano)的发源地。",
+      "getting": "普埃布拉拥有自己的国际机场(PBC),但绝大多数旅行者都是经由墨西哥城前往:可从墨西哥城机场、TAPO客运站或北方客运站(Central del Norte)乘坐直达大巴前往普埃布拉的CAPU汽车站。车程沿MEX-150D高速公路行驶,正好穿行于两座火山之间,耗时约2到2.5小时。",
+      "days": "建议安排约2到3天时间游览历史中心的教堂、塔拉韦拉陶艺作坊和各类博物馆;如果还想顺道游览附近的乔卢拉(Cholula),则需再多预留一天。"
+    }
+  },
+  "Playa del Carmen": {
+    "en": {
+      "blurb": "Playa del Carmen is the Riviera Maya's most walkable beach town, built around the pedestrian spine of Quinta Avenida where boutiques, cenote tours and Caribbean sand all sit within a few blocks of each other. It also doubles as the region's transit hub, with the Cozumel passenger ferry and buses toward Tulum and the inland ruins all departing from the same compact downtown core.",
+      "getting": "Most travellers fly into Cancun International Airport (CUN), roughly 68km to the north, then take an ADO bus or private transfer down Highway 307, a trip of around 1 to 1.5 hours depending on traffic and stops. A newer option is the Tren Maya rail line, which now connects a station near Cancun Airport to Playa del Carmen in under two hours.",
+      "days": "Two to three days covers the town itself, its beach clubs and Quinta Avenida, with an extra day if you want to add a cenote excursion or the short ferry hop over to Cozumel."
+    },
+    "ko": {
+      "blurb": "플라야 델 카르멘은 리비에라 마야에서 가장 걸어 다니기 좋은 해변 마을로, 보행자 전용 거리인 킨타 아베니다(Quinta Avenida)를 중심으로 부티크 상점, 세노테 투어, 카리브해의 백사장이 모두 몇 블록 안에 모여 있습니다. 이곳은 이 지역의 교통 허브 역할도 하는데, 코수멜행 여객 페리와 툴룸 및 내륙 유적지로 향하는 버스가 모두 이 아담한 시내 중심가에서 출발합니다.",
+      "getting": "대부분의 여행객은 북쪽으로 약 68km 떨어진 칸쿤 국제공항(CUN)으로 입국한 뒤, ADO 버스나 전용 차량을 이용해 307번 고속도로를 따라 내려옵니다. 교통 상황과 경유지에 따라 다르지만 보통 1시간에서 1시간 30분 정도 소요됩니다. 최근에는 트렌 마야(Tren Maya) 철도라는 새로운 선택지도 생겼는데, 칸쿤 공항 인근 역에서 플라야 델 카르멘까지 2시간 이내에 이동할 수 있습니다.",
+      "days": "마을 자체와 비치 클럽, 킨타 아베니다를 둘러보는 데는 2~3일이면 충분하며, 세노테 투어나 코수멜로 가는 짧은 페리 여행을 추가하고 싶다면 하루 정도 더 잡으면 좋습니다."
+    },
+    "ja": {
+      "blurb": "プラヤ・デル・カルメンは、リビエラ・マヤの中でも特に歩きやすいビーチタウンだ。歩行者専用のメインストリート、キンタ・アベニーダを軸に、おしゃれなブティック、セノーテ巡りのツアー、そしてカリブ海のビーチが、わずか数ブロックの範囲にぎゅっと詰まっている。この街はこの地域の交通の要でもあり、コスメル島行きのフェリーや、トゥルム方面・内陸の遺跡群へ向かうバスも、すべてこのコンパクトな中心部から発着している。",
+      "getting": "多くの旅行者は、北へ約68kmの位置にあるカンクン国際空港（CUN）を利用し、そこからADOバスまたは専用送迎車でハイウェイ307号線を南下する。所要時間は交通状況や停車回数にもよるが、おおむね1時間から1時間半ほどだ。近年登場した新しい選択肢として、マヤ・トレン（トレン・マヤ）という鉄道もある。カンクン空港近くの駅からプラヤ・デル・カルメンまで、2時間足らずで結んでくれる。",
+      "days": "街そのものとビーチクラブ、キンタ・アベニーダを楽しむなら2〜3日あれば十分。セノーテ巡りや、コスメル島へのちょっとしたフェリー旅も加えたいなら、もう1日プラスしておきたい。"
+    },
+    "es": {
+      "blurb": "Playa del Carmen es el pueblo costero más fácil de recorrer a pie de toda la Riviera Maya, construido alrededor de la columna peatonal de la Quinta Avenida, donde boutiques, tours a cenotes y arena caribeña conviven a solo unas cuadras de distancia. Además, funciona como el gran nodo de transporte de la región: el ferry de pasajeros a Cozumel y los autobuses hacia Tulum y las ruinas del interior salen todos desde ese mismo centro compacto del pueblo.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto Internacional de Cancún (CUN), ubicado unos 68 km al norte, y desde ahí toma un autobús ADO o un traslado privado por la Carretera 307, un trayecto de entre 1 y 1.5 horas según el tráfico y las paradas. Una opción más reciente es el Tren Maya, que ahora conecta una estación cercana al aeropuerto de Cancún con Playa del Carmen en menos de dos horas.",
+      "days": "Con dos o tres días alcanza para conocer el pueblo, sus beach clubs y la Quinta Avenida; suma un día más si quieres hacer una excursión a algún cenote o dar el corto salto en ferry hasta Cozumel."
+    },
+    "zh": {
+      "blurb": "普拉亚德尔卡门是玛雅里维埃拉最适合步行游览的海滨小镇,整座城镇沿着步行街\"第五大道\"(Quinta Avenida)铺展开来,精品小店、塞诺特(cenote)天然井探秘之旅和加勒比海沙滩都近在咫尺,几个街区内就能一网打尽。同时,这里也是整个地区的交通枢纽:前往科苏梅尔岛(Cozumel)的客运渡轮,以及开往图伦(Tulum)和内陆玛雅遗址的长途巴士,都从市中心这片不大的区域发车。",
+      "getting": "大多数游客会先飞抵坎昆国际机场(CUN),该机场位于普拉亚德尔卡门以北约68公里处,再搭乘ADO大巴或包车沿307号公路南下,车程约1到1.5小时,具体视路况和沿途停靠而定。另一个较新的选择是玛雅列车(Tren Maya),如今从坎昆机场附近的车站出发,不到两小时即可抵达普拉亚德尔卡门。",
+      "days": "安排两到三天时间,足以逛遍小镇本身、各处海滩俱乐部以及第五大道;如果还想加一次塞诺特探秘之旅,或乘渡轮短途前往科苏梅尔岛,建议再多留一天。"
+    }
+  },
+  "Puerto Vallarta": {
+    "en": {
+      "blurb": "Puerto Vallarta is a Pacific coast resort city in Jalisco where cobblestone streets, a seaside Malecón boardwalk and the forested Sierra Madre foothills meet the wide curve of Banderas Bay. It built its reputation as a film location in the 1960s and has since grown into one of Mexico's biggest beach destinations, balancing old town charm in the Zona Romántica with resort strips in Marina Vallarta and Nuevo Vallarta.",
+      "getting": "Most travellers fly into Puerto Vallarta's Licenciado Gustavo Díaz Ordaz International Airport (PVR), located a few kilometres north of downtown on Highway 200. From there, authorised taxis, rideshare apps and local buses all run into the Hotel Zone and downtown, with the ride typically taking ~15 to 35 minutes depending on traffic and destination.",
+      "days": "Plan on ~3 to 5 days to cover the beaches, the Malecón and the Zona Romántica at an easy pace, with extra time if you want to add day trips along the Riviera Nayarit coast."
+    },
+    "ja": {
+      "blurb": "プエルト・バジャルタは、ハリスコ州の太平洋岸に位置するリゾート都市で、石畳の通り、海沿いのマレコン遊歩道、そしてシエラ・マドレ山脈のふもとの森が、バンデラス湾の大きな弧を描く海岸線と溶け合う場所です。1960年代に映画のロケ地として名を馳せたことをきっかけに発展し、今ではメキシコ屈指のビーチリゾートへと成長。旧市街ソナ・ロマンティカの趣ある雰囲気と、マリーナ・バジャルタやヌエボ・バジャルタのリゾートエリアが絶妙なバランスで共存しています。",
+      "getting": "多くの旅行者は、ダウンタウンから数キロ北、ハイウェイ200号線沿いにあるプエルト・バジャルタのリセンシアド・グスタボ・ディアス・オルダス国際空港(PVR)を利用します。空港からはライセンス取得済みのタクシー、ライドシェアアプリ、路線バスなどを使ってホテルゾーンやダウンタウンへアクセスでき、所要時間は交通状況や目的地にもよりますが、おおよそ15分から35分程度です。",
+      "days": "ビーチ、マレコン、ソナ・ロマンティカをゆったりと巡るなら、3〜5日程度を目安にするとよいでしょう。リビエラ・ナヤリット沿岸への日帰り旅行も加えたい場合は、さらに日程に余裕を持たせるのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Puerto Vallarta es una ciudad turística de la costa del Pacífico, en Jalisco, donde las calles empedradas, el malecón junto al mar y las estribaciones boscosas de la Sierra Madre se encuentran con la amplia curva de la Bahía de Banderas. Se ganó su fama como locación de cine en los años 60 y desde entonces se ha convertido en uno de los destinos de playa más importantes de México, combinando el encanto de la Zona Romántica con las franjas hoteleras de Marina Vallarta y Nuevo Vallarta.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto Internacional Licenciado Gustavo Díaz Ordaz de Puerto Vallarta (PVR), ubicado a pocos kilómetros al norte del centro, sobre la Carretera 200. Desde allí, taxis autorizados, aplicaciones de transporte y autobuses locales conectan con la Zona Hotelera y el centro, con un trayecto de entre 15 y 35 minutos aproximadamente, según el tráfico y el destino.",
+      "days": "Se recomiendan entre 3 y 5 días para recorrer con calma las playas, el Malecón y la Zona Romántica, sumando tiempo extra si se desean hacer excursiones de un día por la costa de la Riviera Nayarit."
+    },
+    "zh": {
+      "blurb": "巴亚尔塔港是哈利斯科州太平洋沿岸的一座度假城市,鹅卵石街道、滨海的马莱孔(Malecón)步道与郁郁葱葱的马德雷山脉(Sierra Madre)丘陵在这里相遇,共同环抱着班德拉斯湾(Banderas Bay)的广阔海岸线。20世纪60年代,这座城市因成为电影取景地而声名鹊起,此后逐渐发展为墨西哥最热门的海滨度假胜地之一,既保留了浪漫区(Zona Romántica)的老城风情,也拥有瓦拉塔码头区(Marina Vallarta)和新瓦拉塔(Nuevo Vallarta)的度假酒店群。",
+      "getting": "大多数游客会搭乘航班抵达巴亚尔塔港古斯塔沃·迪亚斯·奥尔达斯国际机场(PVR),该机场位于市中心以北几公里处,沿200号公路可达。从机场出发,持牌出租车、网约车和当地巴士均可前往酒店区和市中心,车程通常约15到35分钟,具体视路况和目的地而定。",
+      "days": "建议安排约3到5天时间,以轻松的节奏游览海滩、马莱孔步道和浪漫区;如果还想沿纳亚里特河滨(Riviera Nayarit)海岸安排一日游,则需预留更多时间。"
+    }
+  },
+  "San Miguel de Allende": {
+    "en": {
+      "blurb": "San Miguel de Allende is a UNESCO World Heritage city in Mexico's central highlands, famous for its pink Gothic parish church, cobblestone streets and a thriving expat and artist community. It draws visitors with its colonial architecture, galleries and food scene rather than any beach or coastline, making it one of the country's most popular inland cultural destinations.",
+      "getting": "San Miguel de Allende has no airport of its own: most travellers fly into Querétaro (QRO) or León/Guanajuato (BJX) and continue by road, or arrive via first-class bus from Mexico City's Terminal Norte, a journey of roughly 3 to 5 hours depending on traffic. Buses pull into the town's Central de Autobuses, a short taxi ride from the historic centre.",
+      "days": "Plan on ~2 to 3 days to cover the main sights, markets and viewpoints at an easy pace, with more time rewarding those who want to linger over galleries, day trips to nearby hot springs or the wider Bajío region."
+    },
+    "ko": {
+      "blurb": "산 미겔 데 아옌데는 멕시코 중부 고원지대에 자리한 유네스코 세계문화유산 도시로, 분홍빛 고딕 양식의 파로키아 성당과 돌로 포장된 골목길, 그리고 활기찬 외국인 거주자·예술가 커뮤니티로 유명하다. 해변이나 해안선이 아닌 식민지 시대 건축물과 갤러리, 미식 문화로 여행객을 끌어모으며, 멕시코 내륙 문화 여행지 중 단연 손꼽히는 인기 도시로 자리 잡았다.",
+      "getting": "산 미겔 데 아옌데에는 자체 공항이 없다. 대부분의 여행객은 케레타로(QRO)나 레온/과나후아토(BJX) 공항을 이용한 뒤 육로로 이동하거나, 멕시코시티의 테르미날 노르테(Terminal Norte)에서 1등급 버스를 타고 이동하며, 교통 상황에 따라 3~5시간 정도 소요된다. 버스는 시내 중심가에서 가까운 센트랄 데 아우토부세스(Central de Autobuses)에 도착하며, 그곳에서 택시로 역사지구까지 금방 갈 수 있다.",
+      "days": "주요 명소와 시장, 전망 포인트를 여유롭게 둘러보려면 2~3일 정도면 충분하다. 갤러리를 천천히 구경하거나 근교 온천, 더 넓은 바히오(Bajío) 지역으로 당일치기 여행을 다녀오고 싶다면 며칠 더 머무는 것도 좋다."
+    },
+    "ja": {
+      "blurb": "サンミゲル・デ・アジェンデは、メキシコ中央高原に位置するユネスコ世界遺産の町。ピンク色が美しいゴシック様式の教区教会や石畳の通り、そして活気あふれる外国人移住者・アーティストのコミュニティで知られています。ビーチや海岸線ではなく、植民地時代の建築やギャラリー、グルメシーンで旅行者を惹きつける、メキシコ内陸部を代表する文化的観光地のひとつです。",
+      "getting": "サンミゲル・デ・アジェンデ自体には空港がないため、多くの旅行者はケレタロ空港(QRO)やレオン/グアナファト空港(BJX)を利用し、そこから陸路で向かいます。また、メキシコシティのテルミナル・ノルテから一等バスで向かうこともでき、所要時間は交通状況により約3〜5時間ほどです。バスは町のバスターミナル(セントラル・デ・アウトブセス)に到着し、そこから歴史地区まではタクシーですぐです。",
+      "days": "主要な見どころや市場、展望スポットをゆったり巡るなら2〜3日が目安です。ギャラリー巡りをじっくり楽しんだり、近郊の温泉やバヒオ地方へ足を延ばしたりしたい場合は、さらに日数を取るとより充実した滞在になります。"
+    },
+    "es": {
+      "blurb": "San Miguel de Allende es una ciudad declarada Patrimonio de la Humanidad por la UNESCO, situada en el altiplano central de México. Es célebre por su parroquia gótica de cantera rosa, sus calles empedradas y su próspera comunidad de extranjeros y artistas. Sus visitantes no vienen atraídos por playas ni costas, sino por su arquitectura colonial, sus galerías y su escena gastronómica, lo que la convierte en uno de los destinos culturales de interior más populares del país.",
+      "getting": "San Miguel de Allende no cuenta con aeropuerto propio: la mayoría de los viajeros llega por avión a Querétaro (QRO) o a León/Guanajuato (BJX) y continúa por carretera, o bien arriba en autobús de primera clase desde la Terminal Norte de la Ciudad de México, un trayecto de entre 3 y 5 horas según el tráfico. Los autobuses llegan a la Central de Autobuses de la ciudad, a poca distancia en taxi del centro histórico.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer con calma los principales sitios, mercados y miradores, aunque vale la pena quedarse más tiempo si se quiere disfrutar con calma de las galerías, hacer excursiones a las aguas termales cercanas o explorar la región del Bajío."
+    },
+    "zh": {
+      "blurb": "圣米格尔德阿连德是墨西哥中部高原上的一座联合国教科文组织世界遗产城市,以粉红色的哥特式教区教堂、鹅卵石街道以及活跃的外籍人士与艺术家社区而闻名。这里没有海滩或海岸线可言,吸引游客的是其殖民时期建筑、画廊和美食,使其成为墨西哥最受欢迎的内陆文化目的地之一。",
+      "getting": "圣米格尔德阿连德本身没有机场:大多数游客会飞往克雷塔罗机场(QRO)或莱昂/瓜纳华托机场(BJX),再转乘陆路前往;也可以从墨西哥城北站(Terminal Norte)搭乘头等大巴前往,车程根据路况约需3到5小时。长途汽车会停靠在该镇的中央汽车站(Central de Autobuses),从那里打车很快就能到达历史中心。",
+      "days": "建议安排2到3天时间,以轻松的节奏游览主要景点、市场和观景台;如果想悠闲地逛画廊,或前往附近的温泉及更广阔的巴希奥(Bajío)地区一日游,多留几天会更尽兴。"
+    }
+  },
+  "Tulum": {
+    "en": {
+      "blurb": "Tulum straddles two identities at once: a walled Maya clifftop ruin overlooking the Caribbean, and a palm-lined stretch of beach town turned wellness and nightlife draw. Jungle cenotes, white sand, and a laid-back bohemian reputation sit alongside a fast-growing tourism infrastructure still catching up with demand.",
+      "getting": "Tulum now has its own airport, Tulum International Airport (TQO), opened in December 2023, roughly 30 to 45 minutes from town by taxi or shuttle; many travellers still fly into Cancún (CUN) and continue by ADO bus, private transfer, rental car, or the Tren Maya rail line, a journey of around 2 hours.",
+      "days": "Plan on ~2 to 4 days: enough time to see the ruins, spend a day at the beach, and visit at least one cenote, with extra days useful if you want to day-trip further into the Riviera Maya."
+    },
+    "ko": {
+      "blurb": "툴룸은 두 가지 매력을 동시에 지닌 곳이다. 카리브해를 내려다보는 절벽 위 마야 유적지와, 야자수가 늘어선 해변을 따라 웰니스와 나이트라이프의 명소로 거듭난 해변 마을이라는 두 얼굴을 함께 가지고 있다. 정글 속 세노테, 하얀 모래사장, 그리고 느긋한 보헤미안 감성이 여전히 수요를 따라가기 바쁜 빠르게 성장 중인 관광 인프라와 공존한다.",
+      "getting": "툴룸에는 2023년 12월에 개항한 자체 공항인 툴룸 국제공항(TQO)이 있으며, 택시나 셔틀을 이용하면 시내까지 약 30~45분 거리다. 하지만 많은 여행자들은 여전히 칸쿤(CUN)으로 입국한 뒤 ADO 버스, 프라이빗 transfer, 렌터카, 또는 트렌 마야(Tren Maya) 열차를 이용해 약 2시간가량 이동하는 방법을 선택한다.",
+      "days": "대략 2~4일 정도를 계획하면 좋다. 유적지를 둘러보고, 하루는 해변에서 보내고, 최소 한 곳의 세노테를 방문하기에 충분한 시간이다. 리비에라 마야 지역으로 더 멀리 당일치기 여행을 하고 싶다면 며칠을 추가하는 것도 좋다."
+    },
+    "ja": {
+      "blurb": "トゥルムは、カリブ海を見下ろす城壁に囲まれたマヤ遺跡と、ウェルネスとナイトライフで注目を集めるヤシ並木のビーチタウンという、二つの顔を併せ持つ場所です。ジャングルの中に点在するセノーテ、白砂のビーチ、どこかボヘミアンでのんびりとした雰囲気が魅力である一方、急成長する観光インフラは需要に追いつこうと発展を続けています。",
+      "getting": "2023年12月に開港したトゥルム国際空港(TQO)が現在利用可能で、タクシーやシャトルで市街まで約30〜45分です。ただし今も多くの旅行者はカンクン国際空港(CUN)を利用し、そこからADOバス、送迎サービス、レンタカー、あるいはトレン・マヤ(マヤ鉄道)で約2時間かけてトゥルムへ向かっています。",
+      "days": "滞在日数の目安は2〜4日です。遺跡の見学、ビーチでゆったり過ごす1日、そして少なくとも1か所のセノーテ訪問には十分な日数です。リビエラマヤ方面への日帰り旅行も楽しみたい場合は、さらに数日追加すると良いでしょう。"
+    },
+    "zh": {
+      "blurb": "图伦同时拥有两种身份:一边是俯瞰加勒比海、依崖而建的玛雅古城遗址,一边是棕榈树环绕、从宁静海滨小镇蜕变为养生度假与夜生活热点的旅游胜地。丛林天然井、细白沙滩,以及悠闲自在的波西米亚风情,与快速扩张却仍跟不上游客需求的旅游基础设施并存。",
+      "getting": "图伦如今已有自己的机场——图伦国际机场(TQO),于2023年12月启用,乘出租车或接驳车前往市区约需30至45分钟;不过许多旅客仍选择飞抵坎昆机场(CUN),再转乘ADO长途巴士、私人接驳车、自驾租车,或搭乘玛雅列车(Tren Maya)前往图伦,全程约2小时。",
+      "days": "建议安排2至4天行程:足以游览古城遗址、在海滩悠闲度过一天,并至少探访一处天然井;如果还想前往里维埃拉玛雅(Riviera Maya)周边地区一日游,不妨多留几天时间。"
+    }
   }
 }

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kuala-lumpur-islamic-arts-museum-malaysia
-srcHash: '478161f00dba'
+srcHash: '4cae33ceb148'
 title: 'Museo de Arte Islámico de Malasia: guía de viaje de Kuala Lumpur'
 description: 'El Museo de Arte Islámico de Malasia se encuentra en la zona de los Jardines Botánicos Perdana, en Kuala Lumpur, y abre a diario de 9:30 a 18:00. 4,7★ (5.955 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Museo de Arte Islámico de Malasia se encuentra en la zona de los Jardines Botánicos Perdana, en Kuala Lumpur, y abre a diario de 9:30 a 18:00. Los fines de semana hay poca afluencia durante casi toda la jornada (de 10:00 a 18:00), mientras que entre semana el momento más tranquilo es de 17:00 a 18:00, justo antes del cierre. Conviene reservar entre dos y tres horas para la visita y combinarla con un paseo por los jardines vecinos o por la cercana Mezquita Nacional.
@@ -24,7 +24,7 @@ En el interior, la colección abarca más de mil años de arte islámico, desde 
 
 ## Por qué este museo destaca
 
-La mayoría de los visitantes subestima su tamaño. Cuenta con doce galerías permanentes repartidas en dos niveles, organizadas por región o por técnica: textiles, metalistería, armas y armaduras, cerámica.
+La mayoría de los visitantes subestima su tamaño. Cuenta con varias galerías permanentes repartidas en varios niveles, organizadas por región o por técnica: textiles, metalistería, armas y armaduras, cerámica.
 
 Solo la Sala Otomana ya justifica la visita, con su techo de madera tallada reconstruido, rescatado de una casa siria. En la galería de arquitectura, la luz natural entra a raudales por los tragaluces y hace brillar el pan de oro de los manuscritos en la galería del Corán, situada justo al lado.
 

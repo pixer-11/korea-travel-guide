@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hsinchu-green-world-ecological-farm
-srcHash: 'c39886f3a74b'
+srcHash: '46b1f4571a46'
 title: 'Green World Ecological Farm: Guía de viaje de Hsinchu (4.6★)'
 description: Green World Ecological Farm es un gran parque de vida silvestre al aire libre y jardín botánico en Beipu Township, a unos 40–50 minutos en coche desde la ciudad de Hsinchu. 4.6★ (32,673 reseñas) — lo que dicen los visitantes, horarios y consejos.
 quickAnswer: Green World Ecological Farm es un gran parque de vida silvestre al aire libre y jardín botánico en Beipu Township, a unos 40–50 minutos en coche desde la ciudad de Hsinchu. Calcula entre 3 y 4 horas para ver los espectáculos de animales, los aviarios transitables y los senderos junto al lago. Los días de semana entre las 9am y las 5pm son notablemente más tranquilos que los fines de semana, cuando la afluencia aumenta de forma constante a partir de las 10am.
@@ -26,7 +26,7 @@ Es una de las atracciones con más reseñas de la zona de Hsinchu, y se nota en 
 
 ## Cómo llegar
 
-La granja se ubica en 大湖村尾隘子7鄰20號, en Beipu Township, condado de Hsinchu, bastante alejada del centro de la ciudad. La mayoría de los visitantes llega en coche o scooter, ya que las opciones de transporte público son limitadas y poco frecuentes hasta esta zona de las colinas.
+La granja se ubica en Beipu Township, condado de Hsinchu, bastante alejada del centro de la ciudad. La mayoría de los visitantes llega en coche o scooter, ya que las opciones de transporte público son limitadas y poco frecuentes hasta esta zona de las colinas.
 
 Desde la ciudad de Hsinchu o la estación del tren de alta velocidad, cuenta con unos 40 a 50 minutos por carretera. Si prefieres no conducir tú mismo, un taxi o un conductor concertado con antelación es la alternativa práctica: pide a tu hotel que te ayude a reservarlo también para el regreso, ya que parar un taxi directamente en la granja puede ser complicado.
 

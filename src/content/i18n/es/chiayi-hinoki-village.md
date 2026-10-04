@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: chiayi-hinoki-village
-srcHash: '388f5e6bd25e'
+srcHash: 'f996381bee11'
 title: 'Aldea Hinoki: Guía de viaje de Chiayi (4.3★)'
 description: La Aldea Hinoki es un conjunto de casi 30 dormitorios de madera restaurados de la era japonesa en la ciudad de Chiayi, abierto todos los días de 10:00 a 18:00, y se explora mejor entre las 10:00 y el mediodía en días laborables antes de que lleguen los grupos turísticos. 4.3★ (40,614 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: La Aldea Hinoki es un conjunto de casi 30 dormitorios de madera restaurados de la era japonesa en la ciudad de Chiayi, abierto todos los días de 10:00 a 18:00, y se explora mejor entre las 10:00 y el mediodía en días laborables antes de que lleguen los grupos turísticos. Calcula entre 1.5 y 2 horas para recorrer las callejuelas con aroma a ciprés, curiosear en las tiendas de artesanía y detenerte a tomar un té. Los fines de semana, evita el tramo de 12:00 a 17:00, cuando se llena rápidamente.
@@ -51,7 +51,7 @@ La Aldea Hinoki es, en efecto, un lugar muy visitado: atrae un intenso tráfico 
 
 - Ve un día laborable entre las 10:00 y el mediodía, el tramo de calma comprobada, antes de que lleguen los grupos
 - Si el fin de semana es tu única opción, está en la entrada a la hora de apertura o espera hasta después de las 17:00
-- El pago en la mayoría de tiendas y cafés es con tarjeta o pago móvil, aunque los puestos de artesanía más pequeños a veces prefieren efectivo; lleva algo de dinero en efectivo por si acaso
+- Conviene llevar algo de dinero en efectivo, además de la tarjeta o el pago móvil habituales, por si acaso
 - No se espera propina en ningún lugar de Taiwán, y aquí tampoco
 - Ponte calcetines que no te importe mostrar: algunos espacios interiores con suelo de tatami piden que te quites los zapatos
 - El error que comete la mayoría de los visitantes es tratarla como una parada fotográfica de 20 minutos; la verdadera esencia está en las callejuelas laterales, alejadas del camino de entrada principal, donde las multitudes se disipan rápidamente

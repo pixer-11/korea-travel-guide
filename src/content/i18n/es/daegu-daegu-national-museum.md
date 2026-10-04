@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: daegu-daegu-national-museum
-srcHash: 'f793708cd504'
+srcHash: 'f62465202f0b'
 title: 'Museo Nacional de Daegu: Guía de viaje (4,4★)'
 description: 'El Museo Nacional de Daegu, ubicado en el distrito de Suseong, es un museo patrimonial gratuito dedicado a la antigua historia coreana, las pagodas budistas de piedra y las tradicionales viviendas con forma de cúpula de la región. 4,4★ (1.700 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Museo Nacional de Daegu, en el distrito de Suseong, es un museo patrimonial gratuito centrado en la antigua historia coreana, las pagodas budistas de piedra y las tradicionales viviendas con forma de cúpula propias de la región. Abre de martes a domingo (cierra los lunes), y los domingos el horario comienza una hora antes, a las 8:00. El momento más tranquilo para visitarlo es entre las 8:00 y las 9:00 los fines de semana, justo antes de que llegue la oleada de visitantes de 10:00 a 18:00.
@@ -33,7 +33,7 @@ La colección permanente se distribuye en salas que abarcan desde la prehistoria
 - Exhibiciones textiles y de vida tradicional que destacan el histórico papel de Daegu como centro de tejido de seda y hanbok
 - Exposiciones especiales rotativas, a menudo vinculadas a hallazgos arqueológicos de sitios cercanos
 
-Conviene calcular 90 minutos para recorrer bien las salas principales, o dos horas si se quiere disfrutar con calma del jardín exterior de pagodas.
+Conviene reservar tiempo suficiente para recorrer las salas principales sin prisas, y aún más si se quiere disfrutar con calma del jardín exterior de pagodas.
 
 ## Cómo llegar
 

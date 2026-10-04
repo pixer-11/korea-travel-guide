@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03",
+  "updated": "2026-10-04",
   "countries": {
     "South Korea": {
       "climate": [
@@ -5324,80 +5324,80 @@
       "climate": [
         {
           "m": 1,
-          "hi": 3,
-          "lo": -2,
-          "rain": 55
+          "hi": 2,
+          "lo": -3,
+          "rain": 57
         },
         {
           "m": 2,
-          "hi": 6,
-          "lo": -1,
-          "rain": 48
+          "hi": 5,
+          "lo": -2,
+          "rain": 49
         },
         {
           "m": 3,
-          "hi": 10,
-          "lo": 1,
-          "rain": 40
+          "hi": 9,
+          "lo": 0,
+          "rain": 42
         },
         {
           "m": 4,
-          "hi": 14,
-          "lo": 4,
-          "rain": 30
+          "hi": 13,
+          "lo": 3,
+          "rain": 41
         },
         {
           "m": 5,
-          "hi": 19,
+          "hi": 18,
           "lo": 8,
-          "rain": 36
+          "rain": 55
         },
         {
           "m": 6,
-          "hi": 26,
-          "lo": 14,
-          "rain": 64
+          "hi": 24,
+          "lo": 13,
+          "rain": 74
         },
         {
           "m": 7,
-          "hi": 26,
-          "lo": 15,
-          "rain": 77
+          "hi": 25,
+          "lo": 14,
+          "rain": 70
         },
         {
           "m": 8,
-          "hi": 26,
-          "lo": 15,
-          "rain": 51
+          "hi": 25,
+          "lo": 14,
+          "rain": 80
         },
         {
           "m": 9,
-          "hi": 22,
-          "lo": 11,
-          "rain": 38
+          "hi": 21,
+          "lo": 10,
+          "rain": 58
         },
         {
           "m": 10,
-          "hi": 16,
-          "lo": 7,
-          "rain": 56
+          "hi": 15,
+          "lo": 6,
+          "rain": 58
         },
         {
           "m": 11,
-          "hi": 8,
-          "lo": 2,
-          "rain": 47
+          "hi": 7,
+          "lo": 1,
+          "rain": 45
         },
         {
           "m": 12,
           "hi": 4,
-          "lo": 0,
-          "rain": 49
+          "lo": -1,
+          "rain": 52
         }
       ],
-      "climateCity": "Berlin",
-      "climateLat": 52.5124086,
-      "climateLng": 13.396790399999999,
+      "climateCity": "Dresden",
+      "climateLat": 51.052996199999995,
+      "climateLng": 13.7339266,
       "climateYears": 10,
       "holidays": [
         {
@@ -5493,6 +5493,84 @@
       ]
     },
     "Mexico": {
+      "climate": [
+        {
+          "m": 1,
+          "hi": 20,
+          "lo": 5,
+          "rain": 8
+        },
+        {
+          "m": 2,
+          "hi": 23,
+          "lo": 6,
+          "rain": 8
+        },
+        {
+          "m": 3,
+          "hi": 25,
+          "lo": 7,
+          "rain": 14
+        },
+        {
+          "m": 4,
+          "hi": 27,
+          "lo": 9,
+          "rain": 26
+        },
+        {
+          "m": 5,
+          "hi": 27,
+          "lo": 11,
+          "rain": 58
+        },
+        {
+          "m": 6,
+          "hi": 24,
+          "lo": 11,
+          "rain": 139
+        },
+        {
+          "m": 7,
+          "hi": 22,
+          "lo": 11,
+          "rain": 152
+        },
+        {
+          "m": 8,
+          "hi": 21,
+          "lo": 11,
+          "rain": 170
+        },
+        {
+          "m": 9,
+          "hi": 21,
+          "lo": 10,
+          "rain": 148
+        },
+        {
+          "m": 10,
+          "hi": 21,
+          "lo": 8,
+          "rain": 65
+        },
+        {
+          "m": 11,
+          "hi": 20,
+          "lo": 6,
+          "rain": 24
+        },
+        {
+          "m": 12,
+          "hi": 20,
+          "lo": 5,
+          "rain": 6
+        }
+      ],
+      "climateCity": "Mexico City",
+      "climateLat": 19.4343942,
+      "climateLng": -99.13308239999999,
+      "climateYears": 10,
       "holidays": [
         {
           "date": "2026-01-01",

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: dempsey-hill-singapore-botanic-gardens
-srcHash: 'a823fa44d209'
+srcHash: 'f2f20d29aab4'
 title: 'Jardines Botánicos de Singapur: Guía de viaje de Dempsey Hill (4.7★)'
 description: 'Los Jardines Botánicos de Singapur son un parque gratuito de 82 hectáreas declarado Patrimonio de la Humanidad por la UNESCO, ubicado al borde de Dempsey Hill y abierto todos los días de 5:00 a 24:00. 4.7★ (46.749 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Los Jardines Botánicos de Singapur son un parque gratuito de 82 hectáreas declarado Patrimonio de la Humanidad por la UNESCO, situado al borde de Dempsey Hill y abierto todos los días de 5:00 a 24:00. Conviene llegar temprano —antes de las 9:00 los fines de semana— para evitar las multitudes, y luego comenzar por el Jardín Nacional de Orquídeas antes de dirigirse hacia el Lago de los Cisnes (Swan Lake). Hay que reservar entre dos y tres horas, o más si después se quiere disfrutar de un brunch con calma en Dempsey.
@@ -28,7 +28,7 @@ Conviene empezar por el Jardín Nacional de Orquídeas, un recinto de pago dentr
 
 No te pierdas:
 - El césped abierto del Jardín del Reloj de Sol (Sundial Garden), ideal para hacer una pausa
-- El árbol tembusu cerca del Jardín de la Música (Music Garden): su rama baja y retorcida es la misma que aparecía en el antiguo billete de 5 dólares de Singapur
+- El árbol tembusu cerca del Jardín de la Música (Music Garden): su rama baja y retorcida es un rincón muy popular para hacer fotos
 - El Bandstand, un quiosco de música de estilo victoriano sobre una pequeña colina
 - El Jardín del Jengibre (Ginger Garden), repleto de heliconias y jengibre antorcha
 
@@ -46,7 +46,7 @@ Los jardines abren todos los días de 5:00 a 24:00, un horario inusualmente ampl
 
 Si quieres tener el césped y los senderos junto al lago casi para ti solo, lo mejor es ir una mañana entre semana o llegar justo a las 7:00 un fin de semana. El sol de mediodía pega fuerte y la sombra escasea en las zonas de césped abierto, así que caminar temprano por la mañana o después de las 16:00 resulta mucho más agradable.
 
-## Dónde comer y relajarse
+## Dónde comer y descansar
 
 Dempsey Hill, un antiguo cuartel militar británico reconvertido en enclave gastronómico, queda a apenas cinco minutos a pie de Nassim Gate. Está salpicado de restaurantes instalados en bungalós coloniales blancos y negros, a la sombra de árboles de lluvia.
 

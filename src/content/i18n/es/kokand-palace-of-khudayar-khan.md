@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kokand-palace-of-khudayar-khan
-srcHash: 'c21d19565165'
+srcHash: '4f64088e5e0c'
 title: 'Palacio de Khudáyár Khán: guía de viaje de Kokand (4.7★)'
 description: 'El Palacio de Khudáyár Khán, en Istiqlol St 1 en Kokand, abre todos los días de 9am a 10pm y rara vez está lleno de gente: ve entre semana de 9am a 11am o en fines de semana por la mañana antes del mediodía para ver con calma sus patios de azulejos. 4.7★ (927 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'El Palacio de Khudáyár Khán, en Istiqlol St 1 en Kokand, abre todos los días de 9am a 10pm y rara vez está lleno de gente: ve entre semana de 9am a 11am o en fines de semana por la mañana antes del mediodía para ver con calma sus patios de azulejos. Calcula entre 60 y 90 minutos para recorrer las salas que se conservan y las exhibiciones del museo. Es un complemento fácil para un viaje al Valle de Fergana y todavía pasa bastante desapercibido para la mayoría de los turistas.'
@@ -46,7 +46,7 @@ El palacio abre todos los días de 9am a 10pm, así que no hay necesidad de lleg
 
 - Entre semana, de 9am a 11am: el momento más tranquilo, con los patios casi para ti solo
 - Mañanas de fin de semana, de 9am a 12pm: todavía hay calma, una buena opción de respaldo si solo estás de paso un sábado o domingo
-- Fines de semana de 11am a 10pm: la franja de mayor afluencia, con familias locales y grupos turísticos llenando el patio
+- Fines de semana, de 12pm a 10pm: la franja de mayor afluencia, con familias locales y grupos turísticos llenando el patio
 
 Dados los horarios de apertura hasta la noche, una visita a última hora de la tarde, una vez que se dispersa la multitud del fin de semana, es otra opción tranquila que vale la pena considerar.
 

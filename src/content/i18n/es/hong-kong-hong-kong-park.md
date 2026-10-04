@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hong-kong-hong-kong-park
-srcHash: '8b1a8fe75470'
+srcHash: 'c2ef58e4b51b'
 title: 'Hong Kong Park: Guía de viaje (4.5★)'
 description: Hong Kong Park es un rincón verde gratuito y siempre abierto en Central, conocido sobre todo por su pajarera, el paseo de la cascada y el invernadero Edward Youde. 4.5★ (2,331 reseñas) — qué dicen los visitantes, horarios y consejos.
 quickAnswer: 'Hong Kong Park es un rincón verde gratuito y siempre abierto en Central, conocido sobre todo por su pajarera, el paseo de la cascada y el invernadero Edward Youde. Si puedes, ve un día entre semana por la mañana: el parque abre de 6am a 11pm todos los días y es más tranquilo por la mañana y por la tarde-noche, mientras que los fines de semana se llena rápido entre las 10am y las 5pm.'
@@ -40,11 +40,11 @@ Comienza en el **Invernadero Forsgate (Forsgate Conservatory)**, un conjunto de 
 
 Desde ahí, sigue el camino hacia abajo hasta la **cascada y el arroyo artificiales**, construidos en concreto en bruto que con los años se ha vuelto verde y musgoso — los locales suelen llamarlo simplemente "la rocalla" ("the rockery"). Desemboca en un estanque con carpas koi y tortugas.
 
-No te pierdas la **Pajarera Edward Youde (Edward Youde Aviary)**, un pasillo cubierto con malla suspendido sobre un bosque de tierras bajas recreado, hogar de más de 80 especies de aves. Se camina por ella a la altura de las copas de los árboles, que es justamente la idea — las aves pasan tan cerca que puedes oír el aleteo.
+No te pierdas la **Pajarera Edward Youde (Edward Youde Aviary)**, un pasillo cubierto con malla suspendido sobre un bosque de tierras bajas recreado, hogar de una gran variedad de especies de aves. Se camina por ella a la altura de las copas de los árboles, que es justamente la idea — las aves pasan tan cerca que puedes oír el aleteo.
 
 Otros rincones que vale la pena buscar:
 
-- El **Museo de Utensilios de Té (Museum of Tea Ware)**, ubicado en la antigua Flagstaff House, el edificio colonial más antiguo que aún se mantiene en pie en Hong Kong
+- El **Museo de Utensilios de Té (Museum of Tea Ware)**, ubicado en la antigua Flagstaff House, un edificio de la época colonial situado dentro del parque
 - Un **parque infantil** y unas **instalaciones de squash y tenis** escondidas en la sección baja
 - El **Vantage Point**, una torre mirador con vista panorámica sobre el dosel arbóreo del parque y el perfil del puerto al fondo
 

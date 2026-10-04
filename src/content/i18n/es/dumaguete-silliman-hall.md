@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: dumaguete-silliman-hall
-srcHash: '3c247150d53a'
+srcHash: 'dfc94177a9e5'
 title: 'Silliman Hall: Guía de viaje de Dumaguete'
 description: Silliman Hall se encuentra dentro del campus principal, arbolado, de la Universidad Silliman, en la avenida Hibbard, y abre todos los días de 7:00 a 21:00.
 quickAnswer: Silliman Hall se encuentra dentro del campus principal, arbolado, de la Universidad Silliman, en la avenida Hibbard, y abre todos los días de 7:00 a 21:00. Es el edificio más antiguo de la época estadounidense en Dumaguete, y hoy funciona como museo con hallazgos antropológicos que se remontan al año 200 a. C. Calcule entre 30 y 45 minutos, y visítelo un día entre semana por la mañana, cuando el campus está tranquilo y la luz que entra por las viejas ventanas es más bonita.
@@ -57,7 +57,7 @@ Se trata de una atracción genuinamente poco conocida para tratarse de un edific
 - Combine la visita con un recorrido pausado por el resto del campus, cuyos senderos bordeados de acacias son, en sí mismos, un símbolo de Dumaguete
 - Hable en voz baja: en los edificios cercanos siguen funcionando aulas y oficinas mientras usted está dentro
 
-El error más común entre quienes visitan el lugar por primera vez es tratarlo como una parada rápida de cinco minutos para tomar fotos. El verdadero valor está en leer con detenimiento los carteles de las vitrinas: si se recorre el lugar deprisa, es fácil pasar por alto el material que data del año 200 a. C.
+El error más común entre quienes visitan el lugar por primera vez es tratarlo como una parada rápida de cinco minutos para tomar fotos. El verdadero valor está en leer con detenimiento los carteles de las vitrinas: si se recorre el lugar deprisa, es fácil pasar por alto el material más antiguo.
 
 ## Qué visitar cerca
 

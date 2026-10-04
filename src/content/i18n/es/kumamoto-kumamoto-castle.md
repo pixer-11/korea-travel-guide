@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kumamoto-kumamoto-castle
-srcHash: '4c30771ff8a2'
+srcHash: '852af9327a06'
 title: 'Castillo de Kumamoto: Guía de viaje (4,5★)'
 description: 'El Castillo de Kumamoto, en el distrito de Chuo, en la ciudad de Kumamoto, es una fortaleza reconstruida de 1607 situada en lo alto de una colina, con un museo de historia dentro de su torre principal, y es uno de los tres grandes castillos de Japón. 4,5★ (25.543 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Castillo de Kumamoto, en el distrito de Chuo, en la ciudad de Kumamoto, es una fortaleza reconstruida de 1607 situada en lo alto de una colina, con un museo de historia dentro de su torre principal, y es uno de los tres grandes castillos de Japón. Abre todos los días de 9:00 a 17:00, y el momento más tranquilo para visitarlo es cualquier hora de un día entre semana dentro de ese horario, ya que los fines de semana se llena entre las 10:00 y las 16:00. Conviene reservar unas dos horas, o más si se dedica tiempo a recorrer Sakuranobaba Josaien, la calle comercial situada a sus pies.
@@ -44,7 +44,7 @@ En el exterior, vale la pena seguir la pasarela elevada construida como parte de
 
 ## Cuándo ir
 
-Las mañanas y tardes entre semana son sistemáticamente más tranquilas; el momento de menor afluencia registrado es cualquier hora dentro del horario de 9:00 a 17:00 en día laborable. Los fines de semana concentran a los visitantes hacia la mitad del día, con el tramo de mayor afluencia entre las 10:00 y las 16:00.
+Las mañanas y tardes entre semana son sistemáticamente más tranquilas. El castillo abre todos los días de 9:00 a 17:00. Los fines de semana concentran a los visitantes hacia la mitad del día, con el tramo de mayor afluencia entre las 10:00 y las 16:00.
 
 Si la visita solo puede hacerse en fin de semana, conviene llegar justo a la apertura o durante la última hora antes del cierre para evitar las mayores aglomeraciones. La temporada de los cerezos en flor, de finales de marzo a abril, atrae el tráfico de fin de semana más intenso del año, cuando los terrenos del castillo se llenan de rosa junto a la torre negra.
 

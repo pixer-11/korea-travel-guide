@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: genoa-royal-palace-museum
-srcHash: '7f4218b6a736'
+srcHash: 'e29c5a0b27e9'
 title: 'Museo del Palacio Real: Guía de Viaje de Génova (4,5★)'
 description: 'En el antiguo barrio universitario de Génova, en Via Balbi, y a pocos minutos de la estación Genova Piazza Principe, se encuentra el Palazzo Reale. 4,5★ (4.069 reseñas): esto opinan los visitantes, además de horarios y consejos.'
 quickAnswer: En el antiguo barrio universitario de Génova, en Via Balbi, y a pocos minutos de la estación Genova Piazza Principe, se encuentra el Palazzo Reale. Si puedes elegir, ve una mañana de entre semana —de miércoles a sábado abre de 9:00 a 19:00—, ya que los fines de semana, de 10:00 a 19:00, son cuando más gente se concentra. Los lunes y domingos permanece cerrado, y los martes solo abre por la tarde (13:30–19:00), así que conviene organizarse teniendo esto en cuenta. Calcula entre una hora y hora y media para recorrer las salas de gala y el Salón de los Espejos.
@@ -26,7 +26,7 @@ Antes de que la monarquía de Saboya se hiciera con él, este fue el hogar de la
 
 ## Cómo llegar
 
-El palacio está en Via Balbi, 10, en pleno corazón del antiguo barrio universitario de Génova. A cinco minutos a pie queda Genova Piazza Principe, la estación de tren principal de la ciudad.
+El palacio está en Via Balbi, 10, en el antiguo barrio universitario de Génova. A cinco minutos a pie queda Genova Piazza Principe, la estación de tren principal de la ciudad.
 
 Desde la estación, basta con bajar por Via Balbi —de paso, merece la pena echar un vistazo al patio barroco de la universidad— hasta que la fachada del palacio aparece a la derecha, discreta desde la calle. Esa sobriedad es intencionada: el verdadero espectáculo espera dentro.
 
@@ -50,7 +50,7 @@ Conviene reservar entre una hora y hora y media para verlo con calma, sin sentir
 
 Los horarios aquí son lo bastante particulares como para pillar a más de uno desprevenido. El palacio cierra por completo los lunes y domingos, y los martes solo abre de 13:30 a 19:00.
 
-De miércoles a sábado, el horario es de 9:00 a 19:00: la mejor franja para una visita completa y sin prisas. Los fines de semana concentran la mayor afluencia, con multitudes que van en aumento desde las 10:00 hasta el cierre, a las 19:00.
+De miércoles a sábado, el horario es de 9:00 a 19:00: la mejor franja para una visita completa y sin prisas. Los fines de semana concentran la mayor afluencia, sobre todo los sábados, ya que el museo cierra los domingos.
 
 Si tu agenda te da margen, apunta a un miércoles o jueves por la mañana. Encontrarás las salas de gala con mucha menos gente cruzándose en tus fotos.
 

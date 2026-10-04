@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kaohsiung-post-malone-big-ass-world-tour
-srcHash: '090b9d5d12e8'
+srcHash: '12e83890c81c'
 title: 'Post Malone – Big Ass World Tour: fechas, entradas y recinto (Kaohsiung)'
 description: Dentro de la etapa asiática de su Big Ass World Tour, Post Malone tenía previsto actuar en el Estadio Nacional de Kaohsiung el 19 de septiembre de 2026.
 quickAnswer: Dentro de la etapa asiática de su Big Ass World Tour, Post Malone tenía previsto actuar en el Estadio Nacional de Kaohsiung (Kaohsiung National Stadium) el 19 de septiembre de 2026. El recinto es el emblemático estadio de energía solar del distrito de Zuoying, y la cita consistía en una única gran noche, no en un fin de semana de festival.
@@ -68,4 +68,4 @@ En Taiwán no se esperan propinas en ningún sitio, tampoco en el recinto. En la
 
 El error más frecuente entre los visitantes es subestimar las aglomeraciones a la salida. El metro de Kaohsiung funciona con eficacia, pero cuando más de 40.000 personas se dirigen a la vez a una misma estación se forman auténticos cuellos de botella. Muchos locales prefieren dejar pasar la primera oleada tomando algo o picando un tentempié cerca del estadio en lugar de ir directos al andén.
 
-En chino, el recinto se llama **高雄國家體育場** (Estadio Nacional de Kaohsiung). Conviene tenerlo a mano para pedir indicaciones o dárselo a un taxista, porque resulta más rápido que describirlo en inglés.
+El nombre completo del recinto en inglés es Kaohsiung National Stadium (Estadio Nacional de Kaohsiung). Conviene conocerlo para pedir indicaciones o dárselo a un taxista.

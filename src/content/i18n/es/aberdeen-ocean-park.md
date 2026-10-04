@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: aberdeen-ocean-park
-srcHash: 'f8d68c6b4e0f'
+srcHash: '61d8816f18dc'
 title: 'Ocean Park: guía de viaje de Aberdeen (4,3★)'
 description: 'Ocean Park se extiende sobre un promontorio que domina Aberdeen y se divide en una zona baja junto al mar y una zona en lo alto de la colina, unidas por teleférico y funicular. 4,3★ (33.745 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: 'Ocean Park se extiende sobre un promontorio que domina Aberdeen y se divide en una zona baja junto al mar y una zona en lo alto de la colina, unidas por teleférico y funicular. Conviene reservarle un día entero: llegue justo a la apertura, a las 10:00, y suba en teleférico antes de que la neblina de la tarde cubra el paisaje. Las mañanas entre semana son las más tranquilas; los fines de semana y los días festivos de Hong Kong atraen a las multitudes más numerosas.'
@@ -71,7 +71,7 @@ Ocean Park es un gran atractivo tanto para las familias de Hong Kong como para l
 - **Suba primero, baje después.** Tome el teleférico hacia el Summit a primera hora, súbase a Hair Raiser antes de que se forme cola y, por la tarde, vaya bajando poco a poco en el Ocean Express.
 - **Pague con tarjeta o móvil.** La tarjeta Octopus y las principales billeteras móviles se aceptan ampliamente en los puestos de comida y las tiendas del parque, así que apenas hace falta llevar efectivo.
 - **Evite la cola interminable de Panda Village.** Los pandas están más tranquilos y reciben menos visitas justo después de la apertura o en la última hora antes del cierre.
-- **Coma fuera de las horas punta del almuerzo.** Conviene almorzar antes o después del mediodía para evitar el ajetreo del parque a esa hora; comer a las 11:30 o después de las 14:00 ahorra bastante tiempo.
+- **Coma fuera de las horas punta del almuerzo.** Conviene almorzar antes o después del mediodía para evitar el ajetreo del parque a esa hora.
 - **El error típico de los novatos**: intentar recorrer los dos niveles usando el mismo conector de ida y vuelta. Los locales hacen el circuito completo (teleférico de subida y funicular de bajada, o al revés) para no tener que repetir la misma cola dos veces.
 
 Conviene llevar calzado resistente: los caminos del Summit son empinados y se pasa la mayor parte del día de pie.

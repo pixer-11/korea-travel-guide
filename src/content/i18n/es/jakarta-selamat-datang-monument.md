@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: jakarta-selamat-datang-monument
-srcHash: 'cb2554f556c3'
+srcHash: '08a11b046f9b'
 title: 'Monumento Selamat Datang: Guía de viaje de Yakarta (4.7★)'
 description: 'El Monumento Selamat Datang (Monumento de Bienvenida) se alza en el centro de Bundaran HI, la célebre rotonda de Yakarta en Menteng, Yakarta Central. Valoración de 4.7★ (8.643 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Monumento Selamat Datang (Monumento de Bienvenida) se alza en el centro de Bundaran HI, la célebre rotonda de tráfico de Yakarta situada en Menteng, Yakarta Central. Se trata de un hito muy visitado y fácil de fotografiar, que luce mejor al atardecer, cuando se encienden las luces de la fuente y el tráfico gira a su alrededor. No hace falta entrada ni pagar nada, ya que se contempla desde las aceras y las plazas que rodean la rotonda, sin poder acercarse hasta la propia estatua.
@@ -22,7 +22,7 @@ Se distingue incluso antes de llegar a la calle: un hombre y una mujer de bronce
 
 ## Por qué es importante
 
-Construido con motivo de los Juegos Asiáticos de 1962, el monumento fue la primera gran escultura pública de Yakarta y una declaración de intenciones de una nación joven en proceso de modernización. Las dos figuras de bronce, de 5 metros de altura, extienden los brazos hacia afuera en gesto de bienvenida, rodeadas por una fuente que sigue funcionando hoy en día. Más que una simple atracción, se ha convertido en un símbolo cívico: la propia rotonda, Bundaran HI, es ya sinónimo de la ciudad.
+Construido con motivo de los Juegos Asiáticos de 1962, el monumento fue la primera gran escultura pública de Yakarta y una declaración de intenciones de una nación joven en proceso de modernización. Las figuras de bronce extienden los brazos hacia afuera en gesto de bienvenida, rodeadas por una fuente que sigue funcionando hoy en día. Más que una simple atracción, se ha convertido en un símbolo cívico: la propia rotonda, Bundaran HI, es ya sinónimo de la ciudad.
 
 ## Cómo llegar
 

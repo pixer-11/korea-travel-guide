@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: kep-kep-national-park
-srcHash: '983a9e3ba0fb'
+srcHash: '4e4bab968e07'
 title: 'Parque Nacional de Kep: Guía de viaje (4,2★)'
 description: 'El Parque Nacional de Kep es un pequeño parque costero de colina en el sur de Camboya, fácil de recorrer a pie y conocido por su sendero circular de cresta, sus miradores al mar y una pagoda en lo alto. 4,2★ (419 opiniones): qué dicen los visitantes, horarios y consejos.'
 quickAnswer: El Parque Nacional de Kep es un pequeño parque costero de colina en el sur de Camboya, fácil de recorrer a pie y conocido por su sendero circular de cresta, sus miradores al mar y una pagoda en lo alto. Calcule entre dos y tres horas para completar el circuito, use calzado adecuado y lleve su propia agua. Los fines de semana el parque está más tranquilo de 13:00 a 20:00, mientras que las llegadas aumentan entre las 9:00 y las 23:00; por eso conviene empezar temprano o tarde para evitar las multitudes.
@@ -42,9 +42,9 @@ El sendero es de tierra compacta y raíces, con sombra en largos tramos pero tot
 
 ## Cuándo ir
 
-La mañana temprano es el momento más agradable para caminar, antes de que el calor se acumule bajo el dosel arbóreo. Los datos de afluencia lo confirman: los fines de semana, las visitas son más ligeras entre las 13:00 y las 20:00, mientras que el tramo de mayor actividad va de las 9:00 a las 23:00, cuando llegan tanto excursionistas de día como paseantes de tarde-noche.
+La mañana temprano es el momento más agradable para caminar, antes de que el calor se acumule bajo el dosel arbóreo. Los datos de afluencia lo confirman: los fines de semana, las visitas son más ligeras a primera hora de la mañana, mientras que el tramo de mayor actividad va de media mañana hasta la tarde, cuando llegan los excursionistas de día.
 
-Si va a visitarlo en fin de semana, apunte a esa franja más tranquila de la tarde en lugar de media mañana. Entre semana el parque casi nunca se siente concurrido: sigue siendo un destino poco conocido en comparación con la playa y el mercado de cangrejos de Kep, así que es poco probable que tenga que disputarse espacio en el sendero, sea cual sea el momento en que vaya.
+Si va a visitarlo en fin de semana, apunte a esa franja más tranquila de primera hora en lugar de media mañana. Entre semana el parque casi nunca se siente concurrido: sigue siendo un destino poco conocido en comparación con la playa y el mercado de cangrejos de Kep, así que es poco probable que tenga que disputarse espacio en el sendero, sea cual sea el momento en que vaya.
 
 La temporada seca, aproximadamente de noviembre a abril, ofrece las vistas más despejadas y el terreno más firme. En los meses de lluvia el sendero de tierra se vuelve resbaladizo y las nubes pueden tapar los mejores miradores.
 

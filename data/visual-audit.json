@@ -5813,6 +5813,18 @@
   "reason": "publish gate: Shows restaurant exterior with name 'Pulverturm' visible",
   "at": "2026-10-03T12:50:19.029Z"
  },
+ "dresden-residenzschloss\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dresden_Germany_Residenzschloss_Dresden-01.jpg/3840px-Dresden_Germany_Residenzschloss_Dresden-01.jpg": {
+  "slug": "dresden-residenzschloss",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative exterior view of Dresden Residenzschloss building",
+  "at": "2026-10-04T07:38:06.192Z"
+ },
+ "dresden-the-grand-garden-of-dresden\u0001https://upload.wikimedia.org/wikipedia/commons/e/e5/Dresden_-_Palais_im_Grossen_Garten_%28Great_Garden_Palace%29_-_geo.hlipp.de_-_32446.jpg": {
+  "slug": "dresden-the-grand-garden-of-dresden",
+  "verdict": "MATCH",
+  "reason": "publish gate: Baroque palace in Grand Garden, Dresden, snowy exterior",
+  "at": "2026-10-04T07:39:03.824Z"
+ },
  "dubai-al-bastakiya\u0001https://upload.wikimedia.org/wikipedia/commons/9/95/Camello_y_campamento%2C_Al_Bastakiya%2C_Dubai%2C_2009-11-23%2C_DD_8878.jpg": {
   "slug": "dubai-al-bastakiya",
   "verdict": "MATCH",
@@ -7122,6 +7134,18 @@
   "reason": "Modern museum building with waterfront, Granada Spain",
   "reasonKo": "그라나다 현대 박물관 건물, 수변 위치",
   "at": "2026-08-05T14:59:46.065Z"
+ },
+ "guadalajara-plaza-de-la-liberacion\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Guadalajara%2C_Jalisco%2C_Mexico_%282021%29_-_020.jpg/1920px-Guadalajara%2C_Jalisco%2C_Mexico_%282021%29_-_020.jpg": {
+  "slug": "guadalajara-plaza-de-la-liberacion",
+  "verdict": "MATCH",
+  "reason": "publish gate: Plaza fountain with Guadalajara Cathedral, representative hero shot",
+  "at": "2026-10-04T07:43:45.589Z"
+ },
+ "guanajuato-monumento-al-pipila\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Monumento_al_P%C3%ADpila_en_Guanajuato%2C_Guanajuato_09.jpg/3840px-Monumento_al_P%C3%ADpila_en_Guanajuato%2C_Guanajuato_09.jpg": {
+  "slug": "guanajuato-monumento-al-pipila",
+  "verdict": "MATCH",
+  "reason": "publish gate: View of Guanajuato city from Pipila viewpoint, crowd present",
+  "at": "2026-10-04T07:49:36.068Z"
  },
  "guangzhou-chen-clan-ancestral-hall\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chen_Clan_Ancestral_Hall_2025.06_02.jpg/1920px-Chen_Clan_Ancestral_Hall_2025.06_02.jpg": {
   "slug": "guangzhou-chen-clan-ancestral-hall",
@@ -13747,6 +13771,24 @@
   "reason": "publish gate: Exterior facade of NGV with signage and entrance shown",
   "at": "2026-09-30T14:11:18.585Z"
  },
+ "merida-monumento-a-la-patria\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Monumento_a_la_Patria%2C_M%C3%A9rida_Yucat%C3%A1n_-_panoramio.jpg/3840px-Monumento_a_la_Patria%2C_M%C3%A9rida_Yucat%C3%A1n_-_panoramio.jpg": {
+  "slug": "merida-monumento-a-la-patria",
+  "verdict": "MATCH",
+  "reason": "publish gate: Recognizable Monumento a la Patria monument in Merida",
+  "at": "2026-10-04T07:45:56.147Z"
+ },
+ "mexico-city-mexico-city-metropolitan-cathedral\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Catedral_y_Sagrario_Metropolitano_33.jpg/1920px-Catedral_y_Sagrario_Metropolitano_33.jpg": {
+  "slug": "mexico-city-mexico-city-metropolitan-cathedral",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear exterior view of Mexico City Metropolitan Cathedral",
+  "at": "2026-10-04T07:39:51.633Z"
+ },
+ "mexico-city-templo-mayor-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Templo_Mayor_50.jpg/1920px-Templo_Mayor_50.jpg": {
+  "slug": "mexico-city-templo-mayor-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Templo Mayor archaeological site in Mexico City",
+  "at": "2026-10-04T07:51:21.542Z"
+ },
  "miami-bayside-marketplace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bayside%2C_Miami%2C_Florida_June_2021_-_03.jpg/1920px-Bayside%2C_Miami%2C_Florida_June_2021_-_03.jpg": {
   "slug": "miami-bayside-marketplace",
   "verdict": "MATCH",
@@ -14086,6 +14128,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Aerial view of Tour Gabriel tower at Mont Saint-Michel",
   "at": "2026-09-12T07:51:00.951Z"
+ },
+ "monterrey-fundidora-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Parque_Fundidora%2C_Monterrey1.jpg/1920px-Parque_Fundidora%2C_Monterrey1.jpg": {
+  "slug": "monterrey-fundidora-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows iconic blast furnace and park grounds at Fundidora",
+  "at": "2026-10-04T07:48:36.938Z"
  },
  "monza-giardini-della-villa-reale\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/AUTUNNO_NEI_GIARDINI_REALI_DELLA_VILLA_REALE_DI_MONZA.jpg/3840px-AUTUNNO_NEI_GIARDINI_REALI_DELLA_VILLA_REALE_DI_MONZA.jpg": {
   "slug": "monza-giardini-della-villa-reale",
@@ -15632,6 +15680,12 @@
   "reason": "Iconic beach with dramatic cliffs, Nusa Penida",
   "reasonKo": "누사페니다의 상징적인 해변",
   "at": "2026-08-13T14:04:33.347Z"
+ },
+ "oaxaca-jardin-etnobotanico-de-oaxaca\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Jard%C3%ADn_Etnobot%C3%A1nico_de_Oaxaca_06.JPG/1920px-Jard%C3%ADn_Etnobot%C3%A1nico_de_Oaxaca_06.JPG": {
+  "slug": "oaxaca-jardin-etnobotanico-de-oaxaca",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows cacti garden with colonial building, matches venue",
+  "at": "2026-10-04T07:44:54.203Z"
  },
  "okinawa-chatan-steam-seafood\u0001https://fastly.4sqi.net/img/general/original/11141029_9576yXdaVYCMS2fYlxQsix84hZbWpCYcOjV6ZOhFw1w.jpg": {
   "slug": "okinawa-chatan-steam-seafood",
@@ -17271,6 +17325,18 @@
   "reasonKo": "사진이 320px로 너무 작음",
   "at": "2026-08-11T21:07:15.485Z"
  },
+ "playa-del-carmen-portal-maya\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Portal_Maya_%28El_Cierre_del_Ciclo_de_la_Cuenta_Larga_Maya%29_by_Jos%C3%A9_Arturo_Tavares..._in_morning_twilight_-_Playa_del_Carmen%2C_Mexico_-_August_15%2C_2014_01.png/3840px-Portal_Maya_%28El_Cierre_del_Ciclo_de_la_Cuenta_Larga_Maya%29_by_Jos%C3%A9_Arturo_Tavares..._in_morning_twilight_-_Playa_del_Carmen%2C_Mexico_-_August_15%2C_2014_01.png": {
+  "slug": "playa-del-carmen-portal-maya",
+  "verdict": "MATCH",
+  "reason": "publish gate: Iconic Portal Maya sculpture shown clearly at beach location",
+  "at": "2026-10-04T07:42:01.494Z"
+ },
+ "playa-del-carmen-rio-secreto\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Cueva_R%C3%ADo_Secreto_%281%29.jpg/1920px-Cueva_R%C3%ADo_Secreto_%281%29.jpg": {
+  "slug": "playa-del-carmen-rio-secreto",
+  "verdict": "MATCH",
+  "reason": "publish gate: Underground cave lagoon matches Río Secreto's iconic scenery",
+  "at": "2026-10-04T07:52:24.840Z"
+ },
  "pohang-homigot\u0001https://upload.wikimedia.org/wikipedia/commons/a/a3/Homigot_Lighthouse_from_New_Millennium_Memorial_Hall.jpg": {
   "slug": "pohang-homigot",
   "verdict": "MATCH",
@@ -17416,6 +17482,12 @@
   "reasonKo": "교황궁 외관, 탑, 광장 명확히 보임",
   "at": "2026-08-03T14:35:57.228Z"
  },
+ "puebla-museo-amparo\u0001https://upload.wikimedia.org/wikipedia/commons/d/dc/Mampar_Pue.jpg": {
+  "slug": "puebla-museo-amparo",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior facade of museum building with banner, flags",
+  "at": "2026-10-04T07:50:22.171Z"
+ },
  "puerto-princesa-immaculate-conception-cathedral\u0001https://upload.wikimedia.org/wikipedia/commons/7/75/The_Immaculate_Conception_Cathedral_-_panoramio_%282%29.jpg": {
   "slug": "puerto-princesa-immaculate-conception-cathedral",
   "verdict": "MATCH",
@@ -17434,6 +17506,12 @@
   "reason": "Pier, boat, island landscape matches Puerto Princesa setting",
   "reasonKo": "푸에르토프린세사 섬 풍경과 부두 일치",
   "at": "2026-08-11T14:03:54.833Z"
+ },
+ "puerto-vallarta-gringo-gulch\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Behind_Gringo_Gulch.jpg/3840px-Behind_Gringo_Gulch.jpg": {
+  "slug": "puerto-vallarta-gringo-gulch",
+  "verdict": "MATCH",
+  "reason": "publish gate: Hillside view with buildings overlooking Puerto Vallarta bay",
+  "at": "2026-10-04T07:46:52.424Z"
  },
  "putrajaya-putra-mosque\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Masjid_Putra%2C_Putrajaya%2C_Malaysia.jpg/1920px-Masjid_Putra%2C_Putrajaya%2C_Malaysia.jpg": {
   "slug": "putrajaya-putra-mosque",
@@ -17799,6 +17877,12 @@
   "reason": "publish gate: Iconic Villa Borghese gate entrance, representative of the site",
   "at": "2026-09-20T07:59:05.831Z"
  },
+ "rothenburg-ob-der-tauber-marktplatz-rothenburg-ob-der-tauber\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Rothenburg_ob_der_Tauber_Marktplatz-20130816-RM-142404.jpg/3840px-Rothenburg_ob_der_Tauber_Marktplatz-20130816-RM-142404.jpg": {
+  "slug": "rothenburg-ob-der-tauber-marktplatz-rothenburg-ob-der-tauber",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative square view of Rothenburg's Marktplatz buildings",
+  "at": "2026-10-04T07:40:41.140Z"
+ },
  "rothenburg-ob-der-tauber-stadtmauer-rothenburg\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Rothenburg_ob_der_Tauber%2C_Stadtmauer_und_Haus_Trompeterg%C3%A4sschen_6.jpg/3840px-Rothenburg_ob_der_Tauber%2C_Stadtmauer_und_Haus_Trompeterg%C3%A4sschen_6.jpg": {
   "slug": "rothenburg-ob-der-tauber-stadtmauer-rothenburg",
   "verdict": "MATCH",
@@ -18121,6 +18205,12 @@
   "reason": "Famous Victorian houses with SF skyline backdrop",
   "reasonKo": "샌프란시스코 스카이라인 배경의 유명한 빅토리아식 주택",
   "at": "2026-08-05T15:00:41.959Z"
+ },
+ "san-miguel-de-allende-museo-historico-casa-de-allende\u0001https://upload.wikimedia.org/wikipedia/commons/8/8c/Museo_Casa_d_Allende_%282%29.JPG": {
+  "slug": "san-miguel-de-allende-museo-historico-casa-de-allende",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of historic building with statue, matches venue",
+  "at": "2026-10-04T07:47:43.805Z"
  },
  "san-sebastian-alderdi-eder-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Alderdi_Eder_Parkea.jpg/3840px-Alderdi_Eder_Parkea.jpg": {
   "slug": "san-sebastian-alderdi-eder-park",
@@ -22706,6 +22796,12 @@
   "verdict": "MATCH",
   "reason": "patrol re-check: Waterfront promenade plaza with skyline view, consistent with venue",
   "at": "2026-08-16T20:35:40.804Z"
+ },
+ "tulum-tulum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tulum_2.jpg/1920px-Tulum_2.jpg": {
+  "slug": "tulum-tulum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Tulum ruins on cliff with jungle, representative view",
+  "at": "2026-10-04T07:42:36.194Z"
  },
  "turin-baratti-milano\u0001https://upload.wikimedia.org/wikipedia/commons/9/91/Baratti_%26_Milano_in_Turino.jpg": {
   "slug": "turin-baratti-milano",

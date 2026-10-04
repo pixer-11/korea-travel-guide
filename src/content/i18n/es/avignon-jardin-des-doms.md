@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: avignon-jardin-des-doms
-srcHash: '6ec8b90439b6'
+srcHash: '9c3d8873fd6b'
 title: 'Jardin des Doms: guía de viaje de Aviñón (4,5★)'
 description: 'El Jardin des Doms es el parque situado en lo alto de la colina que domina el Palacio de los Papas, abierto todos los días de 7:30 a 22:00, con vistas panorámicas al Ródano y al puente Saint-Bénézet. 4,5★ (3.955 opiniones): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: El Jardin des Doms es el parque situado en lo alto de la colina que domina el Palacio de los Papas, abierto todos los días de 7:30 a 22:00, con vistas panorámicas al Ródano y al puente Saint-Bénézet. Conviene subir a última hora de la tarde para disfrutar de la mejor luz, y acudir a primera hora de la mañana o después de las 20:00 si se busca tener los caminos para uno mismo, ya que los fines de semana el parque se llena entre el mediodía y las 20:00. Calcule entre 45 minutos y una hora, más si se entretiene junto al estanque o en la cafetería.
@@ -44,7 +44,7 @@ Para una vuelta rápida basta con 45 minutos; para sentarse junto al estanque y 
 
 ## Cuándo ir
 
-El jardín abre a las 7:30 y permanece abierto hasta las 22:00 todos los días, lo que convierte a la mañana temprano y al atardecer en las dos mejores franjas horarias. En general, los fines de semana el ambiente es tranquilo entre las 8:00 y las 22:00, salvo el tramo entre el mediodía y las 20:00, que concentra la mayor afluencia, sobre todo en verano.
+El jardín abre a las 7:30 y permanece abierto hasta las 22:00 todos los días, lo que convierte a la mañana temprano y al atardecer en las dos mejores franjas horarias. Los fines de semana hay más afluencia durante todo el día, y el tramo entre el mediodía y las 20:00 concentra la mayor afluencia, sobre todo en verano.
 
 Entre semana, las horas más tranquilas son de 20:00 a 22:00, cuando ya se ha ido el grueso de las excursiones de un día y la luz sobre el río se vuelve dorada. Finales de primavera y principios de otoño ofrecen temperaturas agradables, sin la calima de julio que puede deslucir las vistas de largo alcance.
 

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: el-nido-taraw-cliff
-srcHash: 'e5231dd78e05'
+srcHash: '646124ece05d'
 title: 'Taraw Cliff: Guía de viaje de El Nido (4.5★)'
 description: 'Taraw Cliff es la escalada por karst calizo de El Nido que se eleva justo desde Buena Suerte, ideal al amanecer o a media mañana antes de que lleguen el calor y la neblina. 4.5★ (360 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Taraw Cliff es la escalada por karst calizo de El Nido que se eleva justo desde Buena Suerte, ideal al amanecer o a media mañana antes de que lleguen el calor y la neblina. Hay que esperar una subida empinada de 30 a 45 minutos con cuerdas, un puente colgante y un paseo elevado entre copas de árboles antes de que se abra la vista de la cima sobre la bahía. Está abierto 24 horas sin portón, pero las tardes de fin de semana (16:00-23:00) son cuando más gente pasa por ahí, así que conviene ir más temprano.
@@ -46,7 +46,7 @@ No hay barandal en el borde de la cima. El terreno es de roca irregular, así qu
 
 Quienes suben al amanecer disfrutan del aire más fresco y la luz más clara, aunque eso significa manejar cuerdas y roca suelta casi en la oscuridad, con una linterna frontal. A media mañana, una vez que salió el sol pero antes del calor máximo, es la opción intermedia más sencilla.
 
-Las tardes de fin de semana entre las 16:00 y las 23:00 son cuando esta zona registra más tránsito de gente en El Nido y sus alrededores, así que si quieres tener el sendero y la cima para ti solo, evita ese horario. Una mañana de entre semana es tu mejor apuesta para la tranquilidad.
+Las tardes de fin de semana son cuando esta zona registra más tránsito de gente en El Nido y sus alrededores, así que si quieres tener el sendero y la cima para ti solo, evita ese horario. Una mañana de entre semana es tu mejor apuesta para la tranquilidad.
 
 Como el sitio no tiene portón ni horario publicado, en realidad está abierto todo el tiempo. No se recomienda subir de noche dado el terreno, con o sin linterna frontal.
 

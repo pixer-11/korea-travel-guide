@@ -1,7 +1,7 @@
 ---
 lang: ko
 slug: dempsey-hill-singapore-botanic-gardens
-srcHash: 'a823fa44d209'
+srcHash: 'f2f20d29aab4'
 title: '싱가포르 보태닉 가든: 뎀시 힐(Dempsey Hill) 여행 가이드 (4.7★)'
 description: 싱가포르 보태닉 가든(Singapore Botanic Gardens)은 뎀시 힐(Dempsey Hill) 초입에 자리한 무료 입장 82헥타르 규모의 유네스코 세계문화유산 공원으로, 매일 오전 5시부터 자정까지 개방됩니다. 4.7★ (리뷰 46,749개) — 방문객 후기, 운영 시간, 방문 팁을 확인해보세요.
 quickAnswer: 싱가포르 보태닉 가든(Singapore Botanic Gardens)은 뎀시 힐(Dempsey Hill) 초입에 위치한 무료 입장 82헥타르 규모의 유네스코 세계문화유산 공원으로, 매일 오전 5시부터 자정까지 개방됩니다. 주말이라면 오전 9시 이전에 일찍 방문해 인파를 피한 뒤, 내셔널 오키드 가든(National Orchid Garden)에서 시작해 스완 레이크(Swan Lake) 쪽으로 도는 코스를 추천합니다. 2~3시간 정도 잡으면 되고, 이후 뎀시에서 여유롭게 브런치까지 즐기려면 시간을 더 넉넉히 잡으세요.
@@ -28,7 +28,7 @@ faq:
 
 놓치지 말아야 할 곳들:
 - 잔디가 탁 트인 선다이얼 가든(Sundial Garden) — 잠시 쉬어가기 좋은 곳
-- 뮤직 가든(Music Garden) 근처의 템부수(Tembusu) 나무 — 낮게 구불구불 뻗은 가지가 옛 싱가포르 5달러 지폐 도안에 등장했던 바로 그 나무입니다
+- 뮤직 가든(Music Garden) 근처의 템부수(Tembusu) 나무 — 낮게 구불구불 뻗은 가지가 있어 인기 있는 사진 명소입니다
 - 작은 언덕 위 빅토리아 시대풍 정자, 밴드스탠드(Bandstand)
 - 헬리코니아와 토치 진저가 무성한 진저 가든(Ginger Garden)
 

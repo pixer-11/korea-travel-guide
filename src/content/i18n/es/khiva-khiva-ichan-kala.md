@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: khiva-khiva-ichan-kala
-srcHash: '452338de59ea'
+srcHash: '5761b65508cd'
 title: 'Ichan Kala de Jiva: Guía de viaje'
 description: Ichan Kala es la ciudad amurallada del casco antiguo de Jiva, un compacto museo al aire libre de madrasas de adobe, minaretes y palacios de kanes que se puede recorrer de punta a punta en menos de 20 minutos.
 quickAnswer: Ichan Kala es la ciudad amurallada del casco antiguo de Jiva, un compacto museo al aire libre de madrasas de adobe, minaretes y palacios de kanes que se puede recorrer de punta a punta en menos de 20 minutos. Conviene reservarle un día entero (o dos) para ver de verdad todo lo que hay dentro de las murallas, y lo mejor es ir al amanecer o a última hora de la tarde, cuando la luz tiñe de dorado los muros de arcilla y aún no han llegado los autobuses turísticos. Sigue siendo un destino relativamente poco frecuentado si se compara con Samarcanda o Bujará, así que a menudo se pueden tener patios enteros para uno solo.
@@ -34,7 +34,7 @@ En las casetas cercanas a las puertas principales se vende un billete combinado 
 
 ## Qué ver dentro de las murallas
 
-Vale la pena tomarse el tiempo con calma: dar una sola vuelta lleva entre 15 y 20 minutos, pero los monumentos merecen varias horas.
+Vale la pena tomarse el tiempo con calma: la ciudad amurallada es lo bastante compacta como para cruzarla a pie sin mucho esfuerzo, pero los monumentos merecen varias horas.
 
 - **Minarete Kalta Minor**: la torre achaparrada revestida de azulejos turquesa que iba a ser el minarete más alto de Asia Central hasta que las obras se detuvieron en 1855
 - **Kunya-Ark**: la antigua fortaleza y residencia del kan, con un reloj de sol en funcionamiento en su patio

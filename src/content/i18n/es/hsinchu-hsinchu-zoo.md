@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: hsinchu-hsinchu-zoo
-srcHash: 'fc0c935822da'
+srcHash: '7a924c9e203c'
 title: 'Zoológico de Hsinchu: Guía de viaje (4.1★)'
 description: 'Dentro del Parque Hsinchu, en el Distrito Este, el Zoológico de Hsinchu es el más antiguo de Taiwán y se recorre en solo 90 minutos a 2 horas. 4.1★ (19.765 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: Dentro del Parque Hsinchu, en el Distrito Este, el Zoológico de Hsinchu es el más antiguo de Taiwán y se recorre en solo 90 minutos a 2 horas. Abre de 9:00 a 17:00 de martes a domingo (cerrado los lunes); los fines de semana, entre las 10:00 y las 17:00, es cuando más gente hay, así que lo más tranquilo es visitarlo temprano un martes o miércoles por la mañana. Combínalo con el vecino Parque Hsinchu y la Galería de Cristal para completar una media jornada de paseo.
@@ -28,7 +28,7 @@ Aquí el protagonismo lo tienen las especies de la selva tropical del sudeste as
 
 ## Cómo llegar
 
-El zoológico está en 食品路66號, en el Distrito Este de Hsinchu, dentro del Parque Hsinchu.
+El zoológico está en el Distrito Este de Hsinchu, dentro del Parque Hsinchu.
 
 Desde la Estación de Tren de Hsinchu (Hsinchu Railway Station) se llega enseguida en taxi o autobús: unos 10-15 minutos en coche, o 20 minutos justos caminando si no te importa pasear por las calles del centro. Varias líneas de autobús urbano paran cerca del Parque Hsinchu; como los números de ruta cambian con el tiempo, conviene confirmarlo con el conductor o en el hotel.
 
