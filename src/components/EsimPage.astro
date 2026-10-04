@@ -5,92 +5,144 @@ import Newsletter from './Newsletter.astro';
 import Emoji from './Emoji.astro';
 import Flag from './Flag.astro';
 import { SITE } from '../siteConfig';
-import { useTranslations, localizePath, type Lang } from '../i18n/utils';
+import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { localizeEsim } from '../i18n/esim';
+import { esimPageT } from '../i18n/esim-page-strings';
+import { homeT } from '../i18n/home-strings';
 import { esimCountries } from '../lib/esim-paths.mjs';
+import { CMP_MARKS, alertTipIndex, monthRuns } from '../lib/esim-page.mjs';
+import { homeGroup, GROUP_ORDER } from '../lib/home-data.mjs';
+import essentialsFacts from '../../data/essentials-facts.json';
+import { bodyHash } from '../../scripts/lib/essentials-facts.mjs';
+import { COUNTRY_TIME } from '../lib/countryTime';
 import { getCollection } from 'astro:content';
 import { pickOgPhoto } from '../lib/ogPhoto.mjs';
+import countriesData from '../../data/countries.json';
 
 // One country's eSIM guide — the site's first high-intent money page type.
-// Same unattended-build contract as WhenToGoPage: every sentence of chrome is a
-// ui.ts string, per-country prose comes from data/esim-facts.json (translated
-// with a srcHash stamp), and there is deliberately not a single price on the
-// page — plans change weekly, so the CTA links to live pricing instead of
-// letting numbers rot here.
+// Redesigned 2026-10-05 from the owner's "UAE eSIM 개선안" mock-up: a
+// recommender that answers "so what do I buy?", the comparison as three cards,
+// the country's one catch lifted out of the prose, a 30-second phone check,
+// a tickable setup list, and the live-price button in four places.
+//
+// Unchanged contract: every sentence of chrome is a string table entry, the
+// per-country prose comes from data/esim-facts.json (translated with a srcHash
+// stamp), and there is deliberately not a single price on the page — plans
+// change weekly, so the button goes to live pricing instead.
 interface Props { country: { slug: string; name: string; iso2: string; facts: any }; lang: Lang }
 const { country, lang } = Astro.props;
+const countryPosts = (await getCollection('posts', ({ data }) => !data.draft && (data.country ?? 'South Korea') === country.name));
 // Share image: a guide from the country this page is about, not the brand card
 // (2026-09-13 sweep). Rated first so the picture is one of its better-known places.
 const ogPhoto = pickOgPhoto(
-  (await getCollection('posts', ({ data }) => !data.draft && (data.country ?? 'South Korea') === country.name))
-    .sort((a, b) =>
-      ((b.data.place?.rating ?? 0) * Math.log10((b.data.place?.userRatingsTotal ?? 0) + 10)) -
-      ((a.data.place?.rating ?? 0) * Math.log10((a.data.place?.userRatingsTotal ?? 0) + 10))));
+  [...countryPosts].sort((a, b) =>
+    ((b.data.place?.rating ?? 0) * Math.log10((b.data.place?.userRatingsTotal ?? 0) + 10)) -
+    ((a.data.place?.rating ?? 0) * Math.log10((a.data.place?.userRatingsTotal ?? 0) + 10))));
 const t = useTranslations(lang);
+const E = esimPageT(lang);
+const HT = homeT(lang);
 const countryLabel = localizePlace(country.name, lang);
 const prose = localizeEsim(country.slug, country.facts, lang);
+const locale = localeCodes[lang] ?? 'en';
 
 const fill = (key: string, vars: Record<string, string | number> = { country: countryLabel }) =>
   Object.entries(vars).reduce((s, [k, v]) => s.replaceAll(`{${k}}`, String(v)), t(key as any));
 
-const title = fill('esim.title');
 const metaTitle = fill('esim.metaTitle');
 const metaDesc = fill('esim.metaDesc');
-const dek = fill('esim.dek');
 
-// Yesim, not Klook. These pages were built on the belief that eSIM was Klook's
-// highest-commission category at ~20%; that rate is Klook's DIRECT programme.
-// Through Travelpayouts, marker 754088 earns 2–5% on everything Klook sells
-// (confirmed on the account's own Programs screen, 2026-08-07). Yesim — already
-// active on the same account, no application needed — pays 18%.
-//
-// The cookie decides it even more than the rate. Yesim's window is NINETY days
-// against Klook's 7–30, and it is the only 90-day window on the account. This
-// page type exists to be read by someone planning a trip weeks out; a 30-day
-// cookie expires before most of them buy anything.
-//
-// A country-specific link is not available for Yesim, so this is the storefront
-// with a per-page SubID appended — the report shows SubIDs record correctly, and
-// this is what will finally say WHICH country page earns.
-const esimHref = `https://yesim.tpx.lv/KABevuVe?sub_id=${encodeURIComponent(`esim_${country.slug}`)}`;
+// The arrival city for the headline, where the country has one clock and so
+// one obvious gateway (countryTime.ts); a country spread over several time
+// zones (the US, Australia, Indonesia, Mexico) is named instead.
+const tz = COUNTRY_TIME[country.iso2.toUpperCase()];
+const place = tz && !tz.multi ? localizePlace(tz.city, lang) : countryLabel;
 
-const cmpRows = ['Setup', 'Share', 'Battery', 'Cost', 'Risk'].map((r) => ({
-  label: t(`esim.row${r}` as any),
-  esim: t(`esim.row${r}E` as any),
-  wifi: t(`esim.row${r}W` as any),
-  roam: t(`esim.row${r}R` as any),
+// Yesim, not Klook: 18% and a 90-day cookie against Klook's 2–5% through
+// Travelpayouts and 7–30 days (confirmed on the account, 2026-08-07). No
+// country-specific Yesim link exists, so the storefront carries a SubID. It
+// keeps the esim_<country> prefix the reports already group by, and adds the
+// button's place on the page so the report finally says WHICH button sells.
+const esimHref = (spot: string) => `https://yesim.tpx.lv/KABevuVe?sub_id=${encodeURIComponent(`esim_${country.slug}_${spot}`)}`;
+
+// The comparison as three cards: the existing row texts, each marked in or
+// against its favour (lib/esim-page CMP_MARKS — facts about the three kinds of
+// connection, the same everywhere).
+const ROWS = ['Setup', 'Share', 'Battery', 'Cost', 'Risk'] as const;
+const OPTIONS = [
+  { key: 'esim', name: E('optEsim'), sub: E('subEsim'), icon: 'antenna-bars', letter: 'E' },
+  { key: 'wifi', name: E('optWifi'), sub: E('subWifi'), icon: 'luggage', letter: 'W' },
+  { key: 'roam', name: E('optRoam'), sub: E('subRoam'), icon: 'globe-showing-asia-australia', letter: 'R' },
+] as const;
+const cmpCards = OPTIONS.map((o) => ({
+  ...o,
+  rows: ROWS.map((r) => ({ label: t(`esim.row${r}` as any), text: t(`esim.row${r}${o.letter}` as any), mark: (CMP_MARKS as any)[o.key][r] })),
 }));
-const checks = [1, 2, 3, 4].map((n) => t(`esim.check${n}` as any));
+
+// The country's one catch, lifted out of the tip list into its own card.
+const alertIdx = alertTipIndex(country.slug, prose.tips);
+const alertTip = alertIdx >= 0 ? prose.tips[alertIdx] : '';
+const restTips = prose.tips.filter((_, i) => i !== alertIdx);
+
+// Best months: the vetted season months of the country's essentials guide
+// (data/essentials-facts.json), under the same rule its hub uses — only while
+// the English guide they were read from is unchanged. Not the climate score:
+// it ranks by rain first and put Dubai's "mildest" months in September, at a
+// 38°C average high (checked 2026-10-05). No vetted months, no card.
+const essEntry = (await getCollection('essentials', ({ data }) => !data.draft)).find((e: any) => e.data.country === country.name);
+const essFacts = (essentialsFacts as any).countries?.[country.name];
+const essFresh = !!essEntry && !!essFacts && essFacts.srcHash === bodyHash(String(essEntry.body ?? ''));
+const bestMonths: number[] = essFresh ? (essFacts.en?.season?.best ?? []) : [];
+const monthName = (m: number) => new Intl.DateTimeFormat(locale, { month: 'long', timeZone: 'UTC' }).format(new Date(Date.UTC(2026, m - 1, 15)));
+const goodRuns = monthRuns(bestMonths);
+const monthsText = goodRuns.map(([s, e]) => (s === e ? monthName(s) : `${monthName(s)}–${monthName(e)}`)).join(', ');
+const destSlug = countriesData.countries.find((c) => c.name === country.name)?.slug ?? country.slug;
+
 const steps = [1, 2, 3, 4, 5].map((n) => fill(`esim.setup${n}`));
 const buys = [1, 2, 3, 4, 5].map((n) => fill(`esim.buy${n}`));
 const faqs = [1, 2, 3, 4, 5].map((n) => ({ q: fill(`esim.faqQ${n}`), a: fill(`esim.faqA${n}`) }));
 
+// Other guides, grouped by region the way the home page groups countries.
+const groupLabel: Record<string, string> = { east: HT('gEast'), sea: HT('gSea'), meca: HT('gMeca'), europe: HT('gEurope'), amoc: HT('gAmoc'), africa: HT('gAfrica') };
 const others = esimCountries().filter((c) => c.slug !== country.slug);
+const continentOf = (name: string) => countriesData.countries.find((c) => c.name === name)?.continent;
+const otherGroups = GROUP_ORDER.map((g) => ({
+  label: groupLabel[g],
+  items: others.filter((c) => homeGroup(continentOf(c.name), c.iso2) === g),
+})).filter((g) => g.items.length);
+
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const pageUrl = siteHref(Astro.url.pathname, Astro.site);
+const people = { solo: E('pSolo'), small: E('pSmall'), group: E('pGroup') };
+const prios = { cost: E('prCost'), share: E('prShare'), ease: E('prEase') };
+const optNames = { esim: E('optEsim'), wifi: E('optWifi'), roam: E('optRoam') };
+const DEFAULT = { people: 'solo', days: 5, prio: 'cost' } as const;
+const fillT = (s: string, v: Record<string, string | number>) => Object.entries(v).reduce((a, [k, x]) => a.replaceAll(`{${k}}`, String(x)), s);
+const pageData = JSON.stringify({
+  slug: country.slug,
+  people, prios, optNames,
+  why: { esim: E('whyEsim'), wifi: E('whyWifi'), roam: E('whyRoam') },
+  days: E('recDays'),
+  bar: E('barTitle', { country: countryLabel }),
+  barSub: E('barSub'),
+  done: E('stDone'),
+  barBtn: E('barBtn'),
+  barBtnOther: E('recOther'),
+  verdict: {
+    wait: [E('vWait'), E('vWaitD')], ok: [E('vOk'), E('vOkD')], noEid: [E('vNoEid'), E('vNoEidD')],
+    locked: [E('vLocked'), E('vLockedD')], unknown: [E('vUnknown'), E('vUnknownD')],
+  },
+}).replace(/</g, '\\u003c');
 
 const jsonLd = {
   '@context': 'https://schema.org',
   '@graph': [
-    {
-      '@type': 'WebPage',
-      name: metaTitle,
-      description: metaDesc,
-      url: pageUrl,
-      isPartOf: { '@id': `${site}/#site` },
-    },
+    { '@type': 'WebPage', name: metaTitle, description: metaDesc, url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
     {
       // FAQ rendered visibly below — schema mirrors the page, never invents.
       '@type': 'FAQPage',
-      mainEntity: faqs.map((f) => ({
-        '@type': 'Question',
-        name: f.q,
-        acceptedAnswer: { '@type': 'Answer', text: f.a },
-      })),
+      mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
     },
-    // Home > eSIM guides > <country>, matching the trail every other
-    // country-level page on the site already emits.
     { '@type': 'BreadcrumbList', itemListElement: [
       { '@type': 'ListItem', position: 1, name: t('post.home'), item: siteHref(localizePath('/', lang), Astro.site) },
       { '@type': 'ListItem', position: 2, name: t('esim.indexTitle'), item: siteHref(localizePath('/tools/esim/', lang), Astro.site) },
@@ -103,188 +155,472 @@ const jsonLd = {
 <BaseLayout image={ogPhoto} title={metaTitle} description={metaDesc} lang={lang} localized={true}>
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 
-  <article class="esim">
-    <p class="eyebrow"><Flag code={country.iso2} size="1.2em" class="flag-ico" /> {t('esim.eyebrow')}</p>
-    <h1>{title}</h1>
-    <p class="dek">{dek}</p>
+  <article class="es" data-esim={country.slug}>
+    <nav class="es-crumbs" aria-label="breadcrumb">
+      <a href={localizePath('/', lang)}>{t('post.home')}</a> · <a href={localizePath('/tools/esim/', lang)}>{t('esim.indexTitle')}</a> · <span>{countryLabel}</span>
+    </nav>
 
-    <section class="esim-quick">
-      <h2>{t('esim.quickH')}</h2>
-      <p>{fill('esim.quick')}</p>
-      <a class="esim-btn" href={esimHref} target="_blank" rel="sponsored noopener">
-        <Emoji name="antenna-bars" /> {fill('esim.ctaBtn')}
-      </a>
-    </section>
-
-    <section>
-      <h2>{t('esim.cmpH')}</h2>
-      <div class="esim-table-wrap">
-        <table>
-          <thead>
-            <tr>
-              <th>{t('esim.cmpAspect')}</th>
-              <th>{t('esim.cmpEsim')}</th>
-              <th>{t('esim.cmpWifi')}</th>
-              <th>{t('esim.cmpRoam')}</th>
-            </tr>
-          </thead>
-          <tbody>
-            {cmpRows.map((r) => (
-              <tr>
-                <th scope="row">{r.label}</th>
-                <td>{r.esim}</td>
-                <td>{r.wifi}</td>
-                <td>{r.roam}</td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
+    <header class="es-hero">
+      <div class="es-hero-copy">
+        <p class="es-kicker"><Flag code={country.iso2} size="1.1em" class="flag-ico" /> {E('heroKicker', { country: countryLabel })}</p>
+        <h1>{E('h1Lead', { country: countryLabel })}<span class="es-accent">{E('h1Accent', { place })}</span></h1>
+        <p class="es-dek">{E('dek', { country: countryLabel })}</p>
+        <div class="es-hero-btns">
+          <a class="es-btn" href={esimHref('hero')} target="_blank" rel="sponsored noopener" data-esim-cta>{E('btnLive')} ↗</a>
+          <a class="es-btn es-btn-ghost" href="#phone-check">{E('btnPhone')}</a>
+        </div>
+        <ul class="es-bens"><li>{E('ben1')}</li><li>{E('ben2')}</li><li>{E('ben3')}</li></ul>
       </div>
-      <p class="esim-verdict">{t('esim.cmpVerdict')}</p>
+
+      <section class="es-rec" data-rec aria-labelledby="es-rec-h">
+        <div class="es-rec-head"><h2 id="es-rec-h">{E('recTitle')}</h2><span>{E('recHint')}</span></div>
+        <p class="es-rec-label" id="es-q-people">{E('recPeople')}</p>
+        <div class="es-seg" data-q="people" role="group" aria-labelledby="es-q-people">
+          {Object.entries(people).map(([k, v]) => <button type="button" data-v={k} aria-pressed={k === DEFAULT.people ? 'true' : 'false'}>{v}</button>)}
+        </div>
+        <label class="es-rec-label" for="es-days" data-days-label>{E('recDays', { n: DEFAULT.days })}</label>
+        <input id="es-days" type="range" min="1" max="30" value={DEFAULT.days} data-days />
+        <p class="es-rec-label" id="es-q-prio">{E('recPrio')}</p>
+        <div class="es-seg es-seg-soft" data-q="prio" role="group" aria-labelledby="es-q-prio">
+          {Object.entries(prios).map(([k, v]) => <button type="button" data-v={k} aria-pressed={k === DEFAULT.prio ? 'true' : 'false'}>{v}</button>)}
+        </div>
+        <div class="es-rec-out" aria-live="polite">
+          <p class="es-rec-name"><span class="es-badge">{E('recBadge')}</span> <b data-rec-name>{optNames.esim}</b></p>
+          <p class="es-rec-why" data-rec-why>{fillT(E('whyEsim'), { people: people.solo, n: DEFAULT.days })}</p>
+          <a class="es-btn" href={esimHref('picker')} target="_blank" rel="sponsored noopener" data-rec-btn data-esim-cta>{fill('esim.ctaBtn')} ↗</a>
+          <a class="es-rec-other" href={esimHref('picker_other')} target="_blank" rel="sponsored noopener" data-rec-other hidden>{E('recOther')} ↗</a>
+        </div>
+      </section>
+    </header>
+
+    <section class="es-sec">
+      <div class="es-sec-head">
+        <div><h2>{t('esim.cmpH')}</h2><p>{E('cmpDek')}</p></div>
+        <span class="es-legend">{E('cmpLegend')}</span>
+      </div>
+      <div class="es-cmp">
+        {cmpCards.map((o) => (
+          <div class:list={['es-opt', { 'is-pick': o.key === 'esim' }]} data-opt={o.key}>
+            <div class="es-opt-top">
+              <span class="es-opt-ico"><Emoji name={o.icon} /></span>
+              <span class="es-pick-tag">{E('cmpMine')}</span>
+            </div>
+            <h3>{o.name}</h3>
+            <p class="es-opt-sub">{o.sub}</p>
+            <ul>
+              {o.rows.map((r) => (
+                <li class={`m-${r.mark}`}><i aria-hidden="true">{r.mark === 'g' ? '✓' : r.mark === 'w' ? '!' : '×'}</i><span><small>{r.label}</small>{r.text}</span></li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </div>
+      <p class="es-rule"><Emoji name="compass" /> {E('recRule')}</p>
     </section>
 
-    <section>
-      <h2>{fill('esim.netH')}</h2>
-      <p class="esim-carriers">
-        <span class="esim-carriers-k">{t('esim.netCarriers')}</span>
-        {country.facts.carriers.map((c: string) => <span class="esim-chip">{c}</span>)}
-      </p>
-      <p>{prose.intro}</p>
-      <p>{prose.coverage}</p>
+    <section class="es-sec es-duo">
+      <div class="es-card">
+        <h2><span class="es-h-ico"><Emoji name="antenna-bars" /></span>{fill('esim.netH')}</h2>
+        <p class="es-chips">{country.facts.carriers.map((c: string) => <span>{c}</span>)}</p>
+        <p>{prose.intro}</p>
+        <p>{prose.coverage}</p>
+      </div>
+      {alertTip && (
+        <div class="es-card es-alert">
+          <p class="es-alert-k"><Emoji name="police-car-light" /> {E('alertKicker', { country: countryLabel })}</p>
+          <p class="es-alert-t">{alertTip}</p>
+        </div>
+      )}
     </section>
 
-    <section>
-      <h2>{t('esim.checkH')}</h2>
-      <p class="section-dek">{t('esim.checkIntro')}</p>
-      <ul class="esim-list">
-        {checks.map((c) => <li>{c}</li>)}
-      </ul>
+    <section class="es-sec es-phone" id="phone-check" data-phone>
+      <div class="es-phone-l">
+        <span class="es-tag">{E('phTag')}</span>
+        <h2>{E('phTitle')}</h2>
+        <p>{E('phDek')}</p>
+        <div class="es-dial"><small>{E('phFast')}</small><b>*#06#</b><span>{E('phDial')}</span></div>
+      </div>
+      <div class="es-phone-r">
+        <div class="es-seg es-os" data-os role="group" aria-label="iPhone / Android">
+          <button type="button" data-v="ios" aria-pressed="true">iPhone</button>
+          <button type="button" data-v="and" aria-pressed="false">Android</button>
+        </div>
+        <div class="es-os-box" data-os-box="ios"><b>{E('iosPath')}</b><p>{E('iosNote')}</p></div>
+        <div class="es-os-box" data-os-box="and" hidden><b>{E('andPath')}</b><p>{E('andNote')}</p></div>
+        {[['eid', E('q1')], ['lock', E('q2')]].map(([q, label]) => (
+          <div class="es-q" data-check={q}>
+            <span id={`es-q-${q}`}>{label}</span>
+            <div class="es-seg es-seg-mini" role="group" aria-labelledby={`es-q-${q}`}>
+              <button type="button" data-v="yes" aria-pressed="false">{E('ansYes')}</button>
+              <button type="button" data-v="no" aria-pressed="false">{E('ansNo')}</button>
+              <button type="button" data-v="dunno" aria-pressed="false">{E('ansDunno')}</button>
+            </div>
+          </div>
+        ))}
+        <p class="es-verdict" data-verdict aria-live="polite"><b>{E('vWait')}</b><span>{E('vWaitD')}</span></p>
+      </div>
     </section>
 
-    <section>
-      <h2>{t('esim.setupH')}</h2>
-      <ol class="esim-steps">
-        {steps.map((s) => <li>{s}</li>)}
+    <section class="es-sec" data-steps>
+      <div class="es-sec-head">
+        <div><span class="es-tag">{E('stTag')}</span><h2>{t('esim.setupH')}</h2></div>
+        <span class="es-legend" data-steps-done>{E('stDone', { n: 0 })}</span>
+      </div>
+      <ol class="es-steps">
+        {steps.map((s, i) => (
+          <li>
+            <label>
+              <span class="es-step-n">{i + 1}</span>
+              <span class="es-step-t">{s}</span>
+              <input type="checkbox" data-step={i} />
+            </label>
+          </li>
+        ))}
       </ol>
+      <p class="es-note">{E('stSaved')}</p>
     </section>
 
-    <section>
-      <h2>{fill('esim.buyH')}</h2>
-      <ul class="esim-list">
-        {buys.map((b) => <li>{b}</li>)}
-      </ul>
+    <section class="es-sec es-duo">
+      <div class="es-card">
+        <h2>{fill('esim.buyH')}</h2>
+        <ol class="es-buy">{buys.map((b) => <li>{b}</li>)}</ol>
+      </div>
+      <div class="es-side">
+        {restTips.length > 0 && (
+          <div class="es-card es-tips">
+            <h2>{fill('esim.tipsH')}</h2>
+            <ul>{restTips.map((tip) => <li>{tip}</li>)}</ul>
+            {countryPosts.length > 0 && <a class="es-more" href={localizePath(`/destinations/${destSlug}/`, lang)}>{E('guidesLink', { country: countryLabel, n: countryPosts.length })}</a>}
+          </div>
+        )}
+        {monthsText && (
+          <a class="es-card es-months" href={localizePath(`/tools/when-to-go/${destSlug}/`, lang)}>
+            <span><b>{E('monTitle', { country: countryLabel })}</b><small>{E('monText', { months: monthsText, country: countryLabel })}</small></span>
+            <em>{E('monBtn')}</em>
+          </a>
+        )}
+      </div>
     </section>
 
-    <section>
-      <h2>{fill('esim.tipsH')}</h2>
-      <ul class="esim-list">
-        {prose.tips.map((tip) => <li>{tip}</li>)}
-      </ul>
+    <section class="es-sec es-cta" data-cta>
+      <div>
+        <span class="es-tag es-tag-dark">{E('ctaTag')}</span>
+        <h2>{E('ctaTitle', { country: countryLabel })}</h2>
+        <p>{t('esim.ctaDek')} {t('esim.priceNote')}</p>
+      </div>
+      <div class="es-cta-card">
+        <dl>
+          <div><dt>{E('sumCond')}</dt><dd data-sum>{people.solo} · {E('recDays', { n: DEFAULT.days }).split('·').pop()?.trim()} · {prios.cost}</dd></div>
+          <div><dt>{t('esim.netCarriers')}</dt><dd>{country.facts.carriers.join(' · ')}</dd></div>
+          <div><dt>{E('sumSeller')}</dt><dd>Yesim</dd></div>
+        </dl>
+        <a class="es-btn es-btn-wide" href={esimHref('cta')} target="_blank" rel="sponsored noopener" data-esim-cta>{fill('esim.ctaBtn')} ↗</a>
+        <p class="es-disc">{t('widget.affDisclosure').replace('{site}', SITE.name)}</p>
+      </div>
     </section>
 
-    <section class="esim-cta">
-      <h2>{fill('esim.ctaH')}</h2>
-      <p class="section-dek">{t('esim.ctaDek')}</p>
-      <a class="esim-btn" href={esimHref} target="_blank" rel="sponsored noopener">
-        <Emoji name="antenna-bars" /> {fill('esim.ctaBtn')}
-      </a>
-      <p class="esim-price-note">{t('esim.priceNote')}</p>
+    <section class="es-sec es-faq">
+      <div><h2>{t('esim.faqH')}</h2></div>
+      <div>
+        {faqs.map((f, i) => (
+          <details class="es-faq-item" open={i === 0}>
+            <summary>{f.q}</summary>
+            <p>{f.a}</p>
+          </details>
+        ))}
+      </div>
     </section>
 
-    <section>
-      <h2>{t('esim.faqH')}</h2>
-      {faqs.map((f) => (
-        <details class="esim-faq">
-          <summary>{f.q}</summary>
-          <p>{f.a}</p>
-        </details>
-      ))}
-    </section>
-
-    {others.length > 0 && (
-      <nav class="esim-others" aria-label={t('esim.othersH')}>
-        <h2>{t('esim.othersH')}</h2>
-        <ul>
-          {others.map((c) => (
-            <li>
-              <a href={localizePath(`/tools/esim/${c.slug}`, lang)}>
-                <Flag code={c.iso2} size="1em" class="flag-ico" /> {localizePlace(c.name, lang)}
-              </a>
-            </li>
-          ))}
-        </ul>
-        <p class="esim-all"><a href={localizePath('/tools/esim', lang)}>{t('esim.backIdx')} →</a></p>
+    {otherGroups.length > 0 && (
+      <nav class="es-sec es-others" aria-label={t('esim.othersH')}>
+        <div class="es-sec-head">
+          <h2>{t('esim.othersH')}</h2>
+          <a class="es-more" href={localizePath('/tools/esim/', lang)}>{t('esim.backIdx')} →</a>
+        </div>
+        {otherGroups.map((g) => (
+          <div class="es-og">
+            <span>{g.label}</span>
+            <ul>
+              {g.items.map((c) => (
+                <li><a href={localizePath(`/tools/esim/${c.slug}/`, lang)}><Flag code={c.iso2} size="1em" class="flag-ico" /> {localizePlace(c.name, lang)}</a></li>
+              ))}
+            </ul>
+          </div>
+        ))}
       </nav>
     )}
 
-    <p class="disclosure">{t('widget.affDisclosure').replace('{site}', SITE.name)}</p>
+    <div class="es-bar" data-bar hidden>
+      <span><b data-bar-title>{E('barTitle', { country: countryLabel, opt: optNames.esim })}</b><small data-bar-sub>{fillT(E('barSub'), { people: people.solo, n: DEFAULT.days, prio: prios.cost })}</small></span>
+      <a class="es-btn" href={esimHref('bar')} target="_blank" rel="sponsored noopener" data-esim-cta><span data-bar-btn>{E('barBtn')}</span> ↗</a>
+    </div>
+    <script type="application/json" data-esim-json set:html={pageData}></script>
   </article>
 
   <Newsletter lang={lang} />
 </BaseLayout>
 
+<script>
+  import { recommend } from '../lib/esim-page.mjs';
+
+  const root = document.querySelector<HTMLElement>('[data-esim]');
+  const raw = root?.querySelector('[data-esim-json]')?.textContent;
+  if (root && raw) {
+    const D = JSON.parse(raw);
+    const fill = (s: string, v: Record<string, string | number>) => Object.entries(v).reduce((a, [k, x]) => a.split(`{${k}}`).join(String(x)), s);
+    const seg = (box: Element | null, on: (v: string) => void) => {
+      if (!box) return;
+      const btns = [...box.querySelectorAll<HTMLButtonElement>('button[data-v]')];
+      for (const b of btns) b.addEventListener('click', () => {
+        for (const x of btns) x.setAttribute('aria-pressed', String(x === b));
+        on(b.dataset.v || '');
+      });
+    };
+
+    // ── Recommender: answers → one option, the card it points at, the bar ──
+    const state = { people: 'solo', days: 5, prio: 'cost' };
+    const draw = () => {
+      const pick = recommend(state as any);
+      const name = D.optNames[pick];
+      root.querySelector('[data-rec-name]')!.textContent = name;
+      root.querySelector('[data-rec-why]')!.textContent = fill(D.why[pick], { people: D.people[state.people], n: state.days });
+      (root.querySelector('[data-rec-btn]') as HTMLElement).hidden = pick !== 'esim';
+      (root.querySelector('[data-rec-other]') as HTMLElement).hidden = pick === 'esim';
+      for (const c of root.querySelectorAll<HTMLElement>('[data-opt]')) c.classList.toggle('is-pick', c.dataset.opt === pick);
+      root.querySelector('[data-days-label]')!.textContent = fill(D.days, { n: state.days });
+      const dayWord = fill(D.days, { n: state.days }).split('·').pop()!.trim();
+      root.querySelector('[data-sum]')!.textContent = `${D.people[state.people]} · ${dayWord} · ${D.prios[state.prio]}`;
+      root.querySelector('[data-bar-title]')!.textContent = fill(D.bar, { opt: name });
+      root.querySelector('[data-bar-sub]')!.textContent = fill(D.barSub, { people: D.people[state.people], n: state.days, prio: D.prios[state.prio] });
+      // The bar always opens the eSIM store: when the pick is something else it
+      // says "compare eSIM prices" rather than "live prices" (Codex, 10-05).
+      root.querySelector('[data-bar-btn]')!.textContent = pick === 'esim' ? D.barBtn : D.barBtnOther;
+    };
+    seg(root.querySelector('[data-q="people"]'), (v) => { state.people = v; draw(); });
+    seg(root.querySelector('[data-q="prio"]'), (v) => { state.prio = v; draw(); });
+    root.querySelector<HTMLInputElement>('[data-days]')?.addEventListener('input', (e) => { state.days = Number((e.target as HTMLInputElement).value) || 1; draw(); });
+    draw();
+
+    // ── Phone check ───────────────────────────────────────────────────────
+    seg(root.querySelector('[data-os]'), (v) => {
+      for (const b of root.querySelectorAll<HTMLElement>('[data-os-box]')) b.hidden = b.dataset.osBox !== v;
+    });
+    const ans: Record<string, string> = {};
+    const verdict = () => {
+      const { eid, lock } = ans;
+      const key = eid === 'no' ? 'noEid'
+        : lock === 'no' ? 'locked'
+        : eid === 'yes' && lock === 'yes' ? 'ok'
+        : eid === 'dunno' || lock === 'dunno' ? 'unknown' : 'wait';
+      const out = root.querySelector<HTMLElement>('[data-verdict]')!;
+      out.className = `es-verdict v-${key}`;
+      out.querySelector('b')!.textContent = D.verdict[key][0];
+      out.querySelector('span')!.textContent = D.verdict[key][1];
+    };
+    for (const q of root.querySelectorAll<HTMLElement>('[data-check]')) seg(q, (v) => { ans[q.dataset.check || ''] = v; verdict(); });
+
+    // ── Setup checklist, remembered in this browser only ──────────────────
+    const KEY = `wa-esim-steps-${D.slug}`;
+    const boxes = [...root.querySelectorAll<HTMLInputElement>('[data-step]')];
+    let saved: number[] = [];
+    try { saved = JSON.parse(localStorage.getItem(KEY) || '[]'); } catch { saved = []; }
+    const count = () => {
+      const n = boxes.filter((b) => b.checked).length;
+      root.querySelector('[data-steps-done]')!.textContent = fill(D.done, { n });
+      for (const b of boxes) b.closest('li')?.classList.toggle('is-done', b.checked);
+    };
+    for (const b of boxes) {
+      b.checked = saved.includes(Number(b.dataset.step));
+      b.addEventListener('change', () => {
+        try { localStorage.setItem(KEY, JSON.stringify(boxes.filter((x) => x.checked).map((x) => Number(x.dataset.step)))); } catch { /* private mode */ }
+        count();
+      });
+    }
+    count();
+
+    // ── Sticky bar: once the hero's button has scrolled away, gone again at
+    //    the price section (it would only repeat the button beside it). ────
+    const bar = root.querySelector<HTMLElement>('[data-bar]');
+    const hero = root.querySelector('.es-hero');
+    const cta = root.querySelector('[data-cta]');
+    if (bar && hero && cta && 'IntersectionObserver' in window) {
+      let heroGone = false; let ctaShown = false;
+      const popup = document.querySelector<HTMLElement>('[data-nl-popup]');
+      const sync = () => { bar.hidden = !(heroGone && !ctaShown) || (!!popup && !popup.hidden); };
+      // The newsletter popup opens over the same strip of screen (Codex, 10-05).
+      if (popup) new MutationObserver(sync).observe(popup, { attributes: true, attributeFilter: ['hidden'] });
+      new IntersectionObserver(([e]) => { heroGone = !e.isIntersecting && e.boundingClientRect.top < 0; sync(); }).observe(hero);
+      new IntersectionObserver(([e]) => { ctaShown = e.isIntersecting; sync(); }).observe(cta);
+    }
+  }
+</script>
+
 <style>
-  .esim { max-width: var(--wrap); margin: 0 auto; padding: 2rem 1rem 0; }
-  .eyebrow { color: var(--muted); font-size: 0.8rem; letter-spacing: 0.06em; text-transform: uppercase; margin: 0 0 0.4rem; }
-  .esim h1 { margin: 0 0 0.5rem; line-height: 1.2; }
-  .dek { color: var(--muted); margin: 0 0 2rem; }
-  .esim section { margin-top: 2.4rem; }
-  .esim h2 { font-size: 1.15rem; margin: 0 0 0.8rem; }
-  .section-dek { color: var(--muted); font-size: 0.9rem; margin: 0 0 0.8rem; }
+  .es { max-width: 1120px; margin: 0 auto; padding: 1.2rem 1rem 0; --es-dark: #26301f; --es-green: #e6f0de; --es-green-ink: #3d6b2f; --es-peach: #fbe3d7; --es-warm: #efe3cc; --es-pick: #f1f7ea; --es-tip: rgba(255,255,255,0.65); --es-ok: #f1f7ea; --es-bad: #fbecea; --es-alert-ink: #3b2a20; --es-alert-k: #8a3f1c; }
+  .es-crumbs { font-size: 0.8rem; color: var(--muted); margin: 0 0 1.4rem; }
+  .es-crumbs a { color: var(--muted); text-decoration: none; }
+  .es-crumbs span { color: var(--ink); font-weight: 600; }
 
-  .esim-quick {
-    padding: 1.1rem 1.25rem; border: 1px solid var(--line); border-radius: var(--r-md);
-    background: var(--surface);
+  .es-hero { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); gap: 2rem; align-items: center; }
+  .es-kicker { display: inline-flex; align-items: center; gap: 0.4rem; font-size: 0.8rem; font-weight: 700; color: var(--ink-soft); background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-pill); padding: 0.25rem 0.75rem; margin: 0 0 0.9rem; }
+  .es h1 { font-family: var(--font-display); font-size: clamp(1.9rem, 4.2vw, 2.9rem); line-height: 1.15; margin: 0 0 0.9rem; }
+  .es-accent { display: block; color: var(--cta); }
+  .es-dek { color: var(--ink-soft); line-height: 1.65; margin: 0 0 1.2rem; max-width: 52ch; }
+  .es-hero-btns { display: flex; flex-wrap: wrap; gap: 0.6rem; }
+  .es-btn { display: inline-flex; align-items: center; justify-content: center; gap: 0.4rem; padding: 0.65rem 1.15rem; border-radius: var(--r-pill); background: var(--cta); color: #fff; font-weight: 700; text-decoration: none; border: 0; }
+  .es-btn:hover { background: var(--cta-deep); }
+  .es-btn-ghost { background: transparent; color: var(--ink); border: 1px solid var(--line-strong); }
+  .es-btn-ghost:hover { background: var(--surface); }
+  .es-btn-wide { width: 100%; }
+  .es-btn[hidden], .es-rec-other[hidden] { display: none; }
+  .es-bens { list-style: none; padding: 0; margin: 0.9rem 0 0; display: flex; flex-wrap: wrap; gap: 0.4rem 1rem; font-size: 0.82rem; color: var(--ink-soft); }
+  .es-bens li::before { content: '✓ '; color: var(--es-green-ink); font-weight: 700; }
+
+  .es-rec { background: var(--es-dark); color: #f4ede1; border-radius: var(--r-lg); padding: 1.3rem 1.3rem 1.2rem; }
+  .es-rec-head { display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; }
+  .es-rec-head h2 { margin: 0; font-size: 1.15rem; color: #fff; }
+  .es-rec-head span { font-size: 0.75rem; opacity: 0.75; }
+  .es-rec-label { display: block; font-size: 0.78rem; font-weight: 700; opacity: 0.85; margin: 0.9rem 0 0.4rem; }
+  .es-seg { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(0, 1fr); gap: 0.25rem; background: rgba(255,255,255,0.08); border-radius: var(--r-pill); padding: 0.22rem; }
+  .es-seg button { border: 0; background: transparent; color: inherit; font: inherit; font-size: 0.84rem; font-weight: 600; padding: 0.45rem 0.4rem; border-radius: var(--r-pill); cursor: pointer; }
+  .es-seg button[aria-pressed='true'] { background: #e6f0de; color: #23331f; }
+  .es-seg-soft { background: transparent; padding: 0; justify-content: start; grid-auto-columns: max-content; }
+  .es-seg-soft button { padding: 0.35rem 0.8rem; }
+  .es input[type='range'] { width: 100%; accent-color: var(--cta); }
+  .es-rec-out { background: var(--surface); color: var(--ink); border-radius: var(--r-md); padding: 1rem; margin-top: 1rem; }
+  .es-rec-name { margin: 0 0 0.35rem; font-size: 1.15rem; display: flex; align-items: center; gap: 0.5rem; }
+  .es-badge { font-size: 0.7rem; font-weight: 700; background: var(--es-green); color: var(--es-green-ink); padding: 0.12rem 0.5rem; border-radius: var(--r-pill); }
+  .es-rec-why { font-size: 0.88rem; line-height: 1.6; color: var(--ink-soft); margin: 0 0 0.8rem; }
+  .es-rec-other { font-weight: 700; color: var(--accent-text); text-decoration: none; font-size: 0.9rem; }
+
+  .es-sec { margin-top: 3rem; }
+  .es-sec-head { display: flex; justify-content: space-between; align-items: flex-end; gap: 1rem; flex-wrap: wrap; margin-bottom: 1rem; }
+  .es-sec h2 { font-family: var(--font-display); font-size: clamp(1.3rem, 2.6vw, 1.75rem); margin: 0; }
+  .es-sec-head p { margin: 0.3rem 0 0; color: var(--muted); font-size: 0.9rem; }
+  .es-legend { font-size: 0.8rem; color: var(--muted); }
+
+  .es-cmp { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0.8rem; }
+  .es-opt { background: var(--surface); border: 1.5px solid var(--line); border-radius: var(--r-lg); padding: 1.1rem; transition: border-color 0.2s, background 0.2s; }
+  .es-opt.is-pick { background: var(--es-pick); border-color: #8fb07c; }
+  .es-opt-top { display: flex; justify-content: space-between; align-items: center; }
+  .es-opt-ico { width: 2.3rem; height: 2.3rem; border-radius: 50%; display: grid; place-items: center; background: var(--bg-tint); }
+  .es-opt.is-pick .es-opt-ico { background: var(--es-dark); color: #fff; }
+  .es-pick-tag { visibility: hidden; font-size: 0.72rem; font-weight: 700; color: #fff; background: var(--es-dark); padding: 0.15rem 0.55rem; border-radius: var(--r-pill); }
+  .es-opt.is-pick .es-pick-tag { visibility: visible; }
+  .es-opt h3 { margin: 0.8rem 0 0.1rem; font-size: 1.15rem; }
+  .es-opt-sub { margin: 0 0 0.8rem; font-size: 0.8rem; color: var(--muted); }
+  .es-opt ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.55rem; }
+  .es-opt li { display: flex; gap: 0.55rem; align-items: flex-start; font-size: 0.86rem; }
+  .es-opt li i { flex: none; width: 1.25rem; height: 1.25rem; border-radius: 50%; display: grid; place-items: center; font-style: normal; font-size: 0.72rem; font-weight: 800; }
+  .es-opt li.m-g i { background: #dcebd3; color: var(--es-green-ink); }
+  .es-opt li.m-w i { background: #fbe3d7; color: #b45f2d; }
+  .es-opt li.m-b i { background: #f6d6cf; color: #a5352c; }
+  .es-opt li small { display: block; font-size: 0.72rem; color: var(--muted); font-weight: 700; }
+  .es-rule { display: flex; gap: 0.5rem; align-items: center; margin: 0.8rem 0 0; padding: 0.7rem 1rem; border-radius: var(--r-pill); background: var(--surface); font-size: 0.86rem; font-weight: 600; }
+
+  .es-duo { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.9rem; align-items: start; }
+  .es-card { background: var(--surface); border-radius: var(--r-lg); padding: 1.3rem; }
+  .es-card h2 { font-size: 1.25rem; display: flex; align-items: center; gap: 0.55rem; margin-bottom: 0.8rem; }
+  .es-card p { line-height: 1.65; color: var(--ink-soft); margin: 0 0 0.7rem; font-size: 0.93rem; }
+  .es-h-ico { width: 2.1rem; height: 2.1rem; border-radius: 50%; background: var(--es-green); display: grid; place-items: center; }
+  .es-chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+  .es-chips span { background: var(--es-warm); color: var(--ink); font-weight: 700; font-size: 0.82rem; padding: 0.3rem 0.75rem; border-radius: var(--r-pill); }
+  .es-alert { background: var(--es-peach); }
+  .es-alert-k { display: flex; gap: 0.4rem; align-items: center; font-weight: 800 !important; color: var(--es-alert-k) !important; font-size: 0.85rem !important; margin-bottom: 0.5rem !important; }
+  .es-alert-t { font-size: 1.02rem !important; color: var(--es-alert-ink) !important; font-weight: 600; line-height: 1.6 !important; }
+
+  .es-phone { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.5rem; background: var(--es-warm); border-radius: var(--r-lg); padding: 1.6rem; }
+  .es-phone h2 { margin: 0.5rem 0 0.6rem; }
+  .es-phone-l > p { color: var(--ink-soft); line-height: 1.65; margin: 0 0 1rem; }
+  .es-tag { display: inline-block; font-size: 0.74rem; font-weight: 700; background: var(--surface); padding: 0.18rem 0.6rem; border-radius: var(--r-pill); color: var(--ink-soft); margin-bottom: 0.3rem; }
+  .es-tag-dark { background: var(--cta); color: #fff; }
+  .es-dial { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 0.2rem 0.8rem; align-items: center; background: var(--surface); border-radius: var(--r-md); padding: 0.9rem 1rem; }
+  .es-dial small { grid-column: 1 / -1; color: var(--muted); font-weight: 700; font-size: 0.74rem; }
+  .es-dial b { font-family: var(--font-display); font-size: 1.35rem; background: var(--bg); padding: 0.3rem 0.7rem; border-radius: var(--r-pill); }
+  .es-dial span { font-size: 0.86rem; }
+  .es-phone-r { display: grid; gap: 0.6rem; align-content: start; }
+  .es-os { background: var(--surface); justify-self: start; grid-auto-columns: max-content; color: var(--ink); }
+  .es-os button { padding: 0.4rem 1rem; }
+  .es-os button[aria-pressed='true'] { background: var(--es-dark); color: #fff; }
+  .es-os-box { background: var(--surface); border-radius: var(--r-md); padding: 0.9rem 1rem; }
+  .es-os-box b { display: block; font-size: 0.92rem; margin-bottom: 0.35rem; }
+  .es-os-box p { margin: 0; font-size: 0.84rem; color: var(--ink-soft); line-height: 1.55; }
+  .es-q { display: flex; justify-content: space-between; align-items: center; gap: 0.6rem; flex-wrap: wrap; background: var(--surface); border-radius: var(--r-md); padding: 0.55rem 0.6rem 0.55rem 1rem; font-size: 0.88rem; font-weight: 700; }
+  .es-seg-mini { background: var(--bg-tint); color: var(--ink); grid-auto-columns: max-content; }
+  .es-seg-mini button { font-size: 0.8rem; padding: 0.3rem 0.65rem; }
+  .es-seg-mini button[aria-pressed='true'] { background: var(--es-dark); color: #fff; }
+  .es-verdict { display: grid; gap: 0.2rem; margin: 0; background: var(--surface); border-left: 4px solid var(--line-strong); border-radius: var(--r-md); padding: 0.8rem 1rem; }
+  .es-verdict span { font-size: 0.85rem; color: var(--ink-soft); }
+  .es-verdict.v-ok { border-left-color: #6f9d5c; background: var(--es-ok); }
+  .es-verdict.v-noEid, .es-verdict.v-locked { border-left-color: #c8443a; background: var(--es-bad); }
+  .es-verdict.v-unknown { border-left-color: var(--cta); }
+
+  .es-steps { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.5rem; }
+  .es-steps label { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; gap: 0.9rem; align-items: center; background: var(--surface); border-radius: var(--r-md); padding: 0.85rem 1rem; cursor: pointer; }
+  .es-step-n { width: 2rem; height: 2rem; border-radius: 50%; display: grid; place-items: center; background: var(--es-warm); font-family: var(--font-display); font-weight: 800; }
+  .es-step-t { font-size: 0.92rem; line-height: 1.55; }
+  .es-steps input { width: 1.4rem; height: 1.4rem; accent-color: var(--es-green-ink); }
+  .es-steps li.is-done .es-step-t { color: var(--muted); text-decoration: line-through; text-decoration-color: rgba(0,0,0,0.25); }
+  .es-steps li.is-done .es-step-n { background: var(--es-green); color: var(--es-green-ink); }
+  .es-note { font-size: 0.78rem; color: var(--muted); margin: 0.6rem 0 0; }
+
+  .es-buy { margin: 0; padding: 0; list-style: none; counter-reset: buy; display: grid; gap: 0.5rem; }
+  .es-buy li { counter-increment: buy; position: relative; background: var(--bg-tint); border-radius: var(--r-md); padding: 0.75rem 0.9rem 0.75rem 2.8rem; font-size: 0.88rem; line-height: 1.55; }
+  .es-buy li::before { content: counter(buy); position: absolute; left: 0.85rem; top: 0.75rem; width: 1.4rem; height: 1.4rem; border-radius: 50%; background: var(--es-green); color: var(--es-green-ink); font-weight: 800; font-size: 0.75rem; display: grid; place-items: center; }
+  .es-side { display: grid; gap: 0.9rem; }
+  .es-tips { background: var(--es-green); }
+  .es-tips ul { margin: 0 0 0.8rem; padding: 0; list-style: none; display: grid; gap: 0.5rem; }
+  .es-tips li { background: var(--es-tip); border-radius: var(--r-md); padding: 0.65rem 0.85rem; font-size: 0.87rem; line-height: 1.55; }
+  .es-more { font-weight: 700; font-size: 0.86rem; color: var(--accent-text); text-decoration: none; }
+  .es-months { display: flex; justify-content: space-between; align-items: center; gap: 1rem; text-decoration: none; color: var(--ink); }
+  .es-months span { display: grid; gap: 0.2rem; }
+  .es-months small { color: var(--muted); font-size: 0.82rem; line-height: 1.5; }
+  .es-months em { flex: none; font-style: normal; font-weight: 700; font-size: 0.84rem; border: 1px solid var(--line-strong); border-radius: var(--r-pill); padding: 0.35rem 0.8rem; }
+  .es-months:hover em { border-color: var(--cta); color: var(--cta); }
+
+  .es-cta { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); gap: 1.5rem; align-items: center; background: #5b2e16; color: #f7ece0; border-radius: var(--r-lg); padding: 2rem; }
+  .es-cta h2 { color: #fff; margin: 0.5rem 0 0.7rem; }
+  .es-cta p { margin: 0; line-height: 1.65; color: rgba(247,236,224,0.85); }
+  .es-cta-card { background: var(--surface); color: var(--ink); border-radius: var(--r-md); padding: 1.2rem; }
+  .es-cta-card dl { margin: 0 0 1rem; display: grid; gap: 0.45rem; }
+  .es-cta-card dl div { display: flex; justify-content: space-between; gap: 1rem; font-size: 0.86rem; }
+  .es-cta-card dt { color: var(--muted); }
+  .es-cta-card dd { margin: 0; font-weight: 700; text-align: right; }
+  .es-disc { margin: 0.7rem 0 0; font-size: 0.74rem; color: var(--muted); text-align: center; line-height: 1.5; }
+
+  .es-faq { display: grid; grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.4fr); gap: 1.5rem; }
+  .es-faq-item { background: var(--surface); border-radius: var(--r-md); margin-bottom: 0.5rem; padding: 0 1rem; }
+  .es-faq-item summary { cursor: pointer; font-weight: 700; padding: 0.9rem 0; font-size: 0.93rem; }
+  .es-faq-item p { margin: 0 0 0.9rem; color: var(--ink-soft); line-height: 1.65; font-size: 0.9rem; }
+
+  .es-og { display: grid; grid-template-columns: 10rem minmax(0, 1fr); gap: 0.4rem 1rem; padding: 0.4rem 0; align-items: center; }
+  .es-og > span { font-size: 0.82rem; color: var(--muted); font-weight: 700; }
+  .es-og ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.4rem; }
+  .es-og a { display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.32rem 0.75rem; background: var(--surface); border-radius: var(--r-pill); text-decoration: none; color: var(--ink); font-size: 0.86rem; font-weight: 600; }
+  .es-og a:hover { box-shadow: inset 0 0 0 1.5px var(--cta); }
+
+  .es-bar { position: fixed; left: 50%; bottom: 1rem; transform: translateX(-50%); z-index: 30; width: min(600px, calc(100% - 2rem)); display: flex; justify-content: space-between; align-items: center; gap: 0.8rem; background: #2b2620; color: #f4ede1; border-radius: var(--r-pill); padding: 0.55rem 0.55rem 0.55rem 1.2rem; box-shadow: var(--shadow-lg); }
+  .es-bar[hidden] { display: none; }
+  .es-bar span { display: grid; min-width: 0; }
+  .es-bar b { font-size: 0.86rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .es-bar small { font-size: 0.72rem; opacity: 0.75; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .es-bar .es-btn { flex: none; padding: 0.55rem 1rem; font-size: 0.86rem; }
+
+  /* Dark mode (the site follows the system setting, global.css): the pale
+     panels become dark ones so the light ink stays readable (Codex, 10-05). */
+  @media (prefers-color-scheme: dark) {
+    :global(:root:not([data-theme='light'])) .es { --es-green: #2c3a26; --es-green-ink: #b9dca4; --es-peach: #4a2e22; --es-warm: #3a3226; --es-pick: #26331f; --es-tip: rgba(0,0,0,0.22); --es-ok: #26331f; --es-bad: #46231e; --es-alert-ink: #f6dccc; --es-alert-k: #f3b48e; }
   }
-  .esim-quick p { margin: 0 0 1rem; }
+  :global(:root[data-theme='dark']) .es { --es-green: #2c3a26; --es-green-ink: #b9dca4; --es-peach: #4a2e22; --es-warm: #3a3226; --es-pick: #26331f; --es-tip: rgba(0,0,0,0.22); --es-ok: #26331f; --es-bad: #46231e; --es-alert-ink: #f6dccc; --es-alert-k: #f3b48e; }
 
-  .esim-btn {
-    display: inline-flex; align-items: center; gap: 0.5rem;
-    padding: 0.65rem 1.2rem; border-radius: var(--r-sm);
-    background: var(--accent-fill); color: #fff; font-weight: 700; text-decoration: none;
+  @media (max-width: 900px) {
+    .es-hero, .es-duo, .es-phone, .es-cta, .es-faq { grid-template-columns: minmax(0, 1fr); }
+    .es-cmp { grid-template-columns: minmax(0, 1fr); }
+    .es-og { grid-template-columns: minmax(0, 1fr); }
   }
-  .esim-btn:hover { filter: brightness(1.08); }
-
-  .esim-table-wrap { overflow-x: auto; }
-  .esim table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
-  .esim th, .esim td { padding: 0.55rem 0.6rem; text-align: left; border-bottom: 1px solid var(--line-soft); vertical-align: top; }
-  .esim thead th { color: var(--muted); font-weight: 600; font-size: 0.8rem; }
-  .esim tbody th { font-weight: 600; white-space: nowrap; }
-  .esim tbody td:first-of-type { font-weight: 400; }
-  .esim-verdict { margin: 0.9rem 0 0; }
-
-  .esim-carriers { display: flex; flex-wrap: wrap; align-items: center; gap: 0.4rem; margin: 0 0 0.9rem; }
-  .esim-carriers-k { color: var(--muted); font-size: 0.82rem; margin-right: 0.2rem; }
-  .esim-chip {
-    display: inline-block; padding: 0.25rem 0.7rem; border: 1px solid var(--line);
-    border-radius: 999px; background: var(--surface); font-size: 0.85rem; font-weight: 600;
+  @media (max-width: 520px) {
+    .es-rec, .es-phone, .es-cta, .es-card { padding: 1.05rem; }
+    .es-rule { border-radius: var(--r-md); align-items: flex-start; }
+    .es-bar small { display: none; }
   }
-
-  .esim-list { margin: 0; padding-left: 1.2rem; }
-  .esim-list li { margin: 0.45rem 0; }
-  .esim-steps { margin: 0; padding-left: 1.4rem; }
-  .esim-steps li { margin: 0.55rem 0; }
-
-  .esim-cta {
-    padding: 1.1rem 1.25rem; border: 1px solid var(--line); border-radius: var(--r-md);
-    background: var(--surface); text-align: center;
-  }
-  .esim-price-note { color: var(--muted); font-size: 0.8rem; margin: 0.8rem 0 0; }
-
-  .esim-faq { border-bottom: 1px solid var(--line-soft); padding: 0.4rem 0; }
-  .esim-faq summary { cursor: pointer; font-weight: 600; padding: 0.35rem 0; }
-  .esim-faq p { margin: 0.5rem 0 0.6rem; color: var(--ink); }
-
-  .esim-others ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.5rem; }
-  .esim-others a {
-    display: inline-flex; align-items: center; gap: 0.4rem;
-    padding: 0.4rem 0.75rem; border: 1px solid var(--line); border-radius: 999px;
-    background: var(--surface); color: var(--ink); text-decoration: none; font-size: 0.9rem;
-  }
-  .esim-others a:hover { border-color: var(--accent); color: var(--accent); }
-  .esim-all { margin: 0.8rem 0 0; }
-  .esim-all a { color: var(--accent); font-weight: 600; text-decoration: none; }
-  .esim-all a:hover { text-decoration: underline; }
-
-  .disclosure { margin: 2.4rem 0 0; color: var(--muted); font-size: 0.8rem; }
 </style>

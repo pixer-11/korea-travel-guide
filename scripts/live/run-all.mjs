@@ -37,6 +37,7 @@ const CHECKS = [
   ['mobile-sweep.mjs', '페이지 종류 33개×5개 언어 휴대폰 넘침'],
   ['wtg-photos.mjs', '언제 갈까 나라 사진'],
   ['affiliate-surfaces.mjs', '제휴 링크 위치(짐보관·명소·호주)'],
+  ['esim-pages.mjs', 'eSIM 나라 페이지(추천기·내 폰 확인·체크리스트·SubID)×5개 언어'],
   ['essentials-hub.mjs', '필수정보 허브'],
   ['checklist.mjs', '체크리스트'],
   ['essentials-countries.mjs', '나라별 필수정보 전수'],
