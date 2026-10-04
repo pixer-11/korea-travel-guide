@@ -5822,8 +5822,8 @@
  "dresden-pulverturm\u0001https://fastly.4sqi.net/img/general/original/1403907252_gzPJHJTPnsNt9NecKI56ySR9K5glHasAaTDg6TsNSCo.jpg": {
   "slug": "dresden-pulverturm",
   "verdict": "MATCH",
-  "reason": "patrol replace: Exterior signage clearly shows Pulverturm venue name",
-  "at": "2026-10-03T22:20:34.255Z"
+  "reason": "patrol replace: Building exterior clearly shows Pulverturm signage, Dresden ",
+  "at": "2026-10-04T22:27:17.183Z"
  },
  "dresden-pulverturm\u0001https://upload.wikimedia.org/wikipedia/commons/2/2e/00_8277_Dresden_-_Pulverturm.jpg": {
   "slug": "dresden-pulverturm",
@@ -12329,8 +12329,8 @@
  "little-india-former-house-of-tan-teng-niah\u0001https://fastly.4sqi.net/img/general/original/1608906_BP7rP1M3Vv9A4npYC4s_fdA_ZuUUfS0wvaIJ6MRFIi8.jpg": {
   "slug": "little-india-former-house-of-tan-teng-niah",
   "verdict": "MATCH",
-  "reason": "patrol replace: Colorful heritage building, Little India Singapore architect",
-  "at": "2026-10-02T23:10:58.729Z"
+  "reason": "patrol replace: Colorful heritage building in Little India, Singapore",
+  "at": "2026-10-04T22:27:52.624Z"
  },
  "little-india-former-house-of-tan-teng-niah\u0001https://fastly.4sqi.net/img/general/original/58563680_9ZCugZu4LqvzpKjyZGIn8k1lQBv17Sjro6AqDSH0VXY.jpg": {
   "slug": "little-india-former-house-of-tan-teng-niah",
@@ -13849,6 +13849,12 @@
   "reason": "publish gate: Clear exterior view of Mexico City Metropolitan Cathedral",
   "at": "2026-10-04T07:39:51.633Z"
  },
+ "mexico-city-taqueria-arandas\u0001https://fastly.4sqi.net/img/general/original/6480196_wEDYQ92nzFs-cG4zAbyyves2O-Ehoe75nZw6j4wkTw0.jpg": {
+  "slug": "mexico-city-taqueria-arandas",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Taqueria Arandas staff with signature shawarma meat spit",
+  "at": "2026-10-04T22:28:18.945Z"
+ },
  "mexico-city-taqueria-arandas\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Taqueria_Arandas_2014_on_Irvington_in_Houston-1.jpg/1920px-Taqueria_Arandas_2014_on_Irvington_in_Houston-1.jpg": {
   "slug": "mexico-city-taqueria-arandas",
   "verdict": "MATCH",
@@ -14039,8 +14045,8 @@
  "milan-procaccini\u0001https://live.staticflickr.com/95/217582569_52ea43359f_k.jpg": {
   "slug": "milan-procaccini",
   "verdict": "MISMATCH",
-  "reason": "patrol reject: Broken sphere object, not the restaurant venue",
-  "at": "2026-10-03T22:22:00.621Z"
+  "reason": "patrol reject: Shows a cracked sphere object, not restaurant venue",
+  "at": "2026-10-04T22:28:37.309Z"
  },
  "milan-procaccini\u0001https://upload.wikimedia.org/wikipedia/commons/4/4c/9431_-_Milano_-_S._Angelo_-_Camillo_Procaccini%2C_Sposalizio_della_Vergine_-_Foto_Giovanni_Dall%27Orto_22-Apr-2007.jpg": {
   "slug": "milan-procaccini",
@@ -16487,6 +16493,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Shows a storage/workroom, not a restaurant setting",
   "at": "2026-09-03T22:06:36.266Z"
+ },
+ "paris-restaurant-by-anne-sophie-pic-at-fondation-cartier\u0001https://fastly.4sqi.net/img/general/original/3381234_eVz7yVqwJNzXmEhhyIcP2kwpEIRGmpfNVDD867Uss7U.jpg": {
+  "slug": "paris-restaurant-by-anne-sophie-pic-at-fondation-cartier",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Vintage coat display, unrelated to restaurant venue",
+  "at": "2026-10-04T22:28:43.054Z"
  },
  "paris-restaurant-by-anne-sophie-pic-at-fondation-cartier\u0001https://fastly.4sqi.net/img/general/original/3381234_wlFX1VarIiZ93phrMZLayxkFZNHR5Dbd3T-1OTkWfs8.jpg": {
   "slug": "paris-restaurant-by-anne-sophie-pic-at-fondation-cartier",
