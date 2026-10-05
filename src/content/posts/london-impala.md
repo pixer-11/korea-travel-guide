@@ -5,7 +5,6 @@ country: United Kingdom
 region: London
 category: restaurant
 pubDate: '2026-10-05'
-gallery: []
 tags:
   - london
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What is near Impala for before or after dinner?
     a: Carnaby Street, Kingly Court, Chinatown, Soho Square and Bar Italia on Frith Street are all a short walk away. Kiln on Brewer Street and Mountain on Beak Street, both run by Super 8, are also nearby.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/137091017_J_hJjRMHsCzjJdba8NuwdoKDh66H_iGxncLsNww5_xU.jpg
+  credit: 'Photo: Foursquare user content (Impala)'
+  license: foursquare
+  source: https://foursquare.com/v/69dcdc2defe1753ff76bfb92
+  focus:
+    x: 45
+    'y': 45
 ---
 
 ## Fire in Soho

@@ -15,6 +15,14 @@ eventOrganizer:
 eventOffers:
   url: https://www.valenciaciudaddelrunning.com/en/marathon/regulations-valencia-marathon/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/L%27Umbracle%2C_Valencia%2C_Spain_-_Jan_2007.jpg/3840px-L%27Umbracle%2C_Valencia%2C_Spain_-_Jan_2007.jpg'
+  credit: 'Photo: Diliff / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:L%27Umbracle,_Valencia,_Spain_-_Jan_2007.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - valencia

@@ -5,7 +5,6 @@ country: Taiwan
 region: Taipei
 category: trendy
 pubDate: '2026-10-05'
-gallery: []
 tags:
   - taipei
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: How do I get home late at night?
     a: The Taipei MRT stops running around midnight, so check the last train for your line. After that, taxis are easy to flag down or book by app.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/8969969_LReIhRkiYmC8_4Bvz2jlajOEHx9ieEd1CHgyfvLrymY.jpg
+  credit: 'Photo: Foursquare user content (Bar Mood)'
+  license: foursquare
+  source: https://foursquare.com/v/59d22bcf0c9f3133d331c189
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## Why this bar made the 2026 list

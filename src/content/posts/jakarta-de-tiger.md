@@ -5,7 +5,6 @@ country: Indonesia
 region: Jakarta
 category: hidden-gem
 pubDate: '2026-10-05'
-gallery: []
 tags:
   - jakarta
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What else is nearby?
     a: Fatahillah Square, the Jakarta History Museum, the Wayang Museum, Café Batavia and Sunda Kelapa harbour with its pinisi schooners.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/51129051_c0jBdnQO1sopBlL-n84wukm6P6CfLvy-Bpd0ohe_Jho.jpg
+  credit: 'Photo: Foursquare user content (Fire Tiger)'
+  license: foursquare
+  source: https://foursquare.com/v/5f088dea90a02b480c5c535b
+  focus:
+    x: 40
+    'y': 75
 ---
 
 ## A bar that drinks to Batavia

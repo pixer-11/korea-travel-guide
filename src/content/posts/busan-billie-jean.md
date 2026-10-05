@@ -5,7 +5,6 @@ country: South Korea
 region: Busan
 category: trendy
 pubDate: '2026-10-04'
-gallery: []
 tags:
   - busan
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: How do I get back to my hotel after the club?
     a: The Busan Metro stops around midnight, so most people take a taxi home. Hail one on the main roads near Seomyeon Station or book one through the Kakao T app.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/38788404_CpNiT26YfMV05tyR_Do6yeJ7dKrKpPLCVV9qYencl-M.jpg
+  credit: 'Photo: Foursquare user content (Billie Jean)'
+  license: foursquare
+  source: https://foursquare.com/v/6828a7f421a7bc1a558d6ee0
+  focus:
+    x: 45
+    'y': 30
 ---
 
 ## Two venues in one night

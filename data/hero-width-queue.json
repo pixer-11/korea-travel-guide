@@ -2021,7 +2021,6 @@
   "istanbul-spago-istanbul\u0001https://fastly.4sqi.net/img/general/original/1754716_EYYojMi5gM7YiHD_Vi5sH3RnoR8mtAhTygNo6r0TrYA.jpg": 7216,
   "kansas-city-1587-prime\u0001https://fastly.4sqi.net/img/general/original/6295745_Fgurh_SbVwsZAypbNgr4NwMTNC9MTNDf7p3q0f6GgOw.jpg": 1470,
   "istanbul-istanbul-marathon\u0001https://live.staticflickr.com/3814/10940616143_8c0ec2b294_b.jpg": 1024,
-  "kuala-lumpur-kuala-lumpur-standard-chartered-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/8/81/Singapore_Standard_Chartered_Marathon_2013.jpg": 2204,
   "kuala-lumpur-my-chemical-romance-south-east-asia-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/My_Chemical_Romance_at_Qudos_Arena_in_March_2023_16.jpg/3840px-My_Chemical_Romance_at_Qudos_Arena_in_March_2023_16.jpg": 3840,
   "kuala-lumpur-suzie-wong\u0001https://fastly.4sqi.net/img/general/original/82157707_hHDOQB3PQrvkHcSqVFuQZavMgOhGI8wB8-jp2WvFKls.jpg": 1920,
   "kuala-lumpur-tangga\u0001https://upload.wikimedia.org/wikipedia/commons/d/d1/Avenue_K%2C_Kuala_Lumpur_20260413_095055.jpg": 3264,
@@ -2233,69 +2232,97 @@
   "singapore-pgl-major-singapore-2026-playoffs-counter-strike-2\u0001https://upload.wikimedia.org/wikipedia/commons/a/ac/PGL_CS2_Major_Copenhagen_2024_stage_-_02.jpg": 3000,
   "stuttgart-chinese-garden-stuttgart\u0001https://upload.wikimedia.org/wikipedia/commons/4/49/Chinese_garden_%E2%80%93_Preview_%28Andreas_Mischok_via_Poly_Haven%29.png": 1024,
   "stuttgart-schlossplatz\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Neues_Schloss_Schlossplatzspringbrunnen_Jubil%C3%A4umss%C3%A4ule_Schlossplatz_Stuttgart_2015_02.jpg/3840px-Neues_Schloss_Schlossplatzspringbrunnen_Jubil%C3%A4umss%C3%A4ule_Schlossplatz_Stuttgart_2015_02.jpg": 3840,
-  "surin-surin-elephant-round-up\u0001https://upload.wikimedia.org/wikipedia/commons/a/a0/Surin_round_up.jpg": 319,
   "sydney-hans-zimmer-live\u0001https://upload.wikimedia.org/wikipedia/commons/7/74/Hans_Zimmer_live_-_Hans_Zimmer_live_-_Rusanda_Panfili%2C_Mariko_Muranaka_and_Molly_Rogers.jpg": 2816,
   "taipei-bigbang-taipei-dome\u0001https://upload.wikimedia.org/wikipedia/commons/e/e0/BIGBANG_Concert_0.TO.10_in_Seoul_-_3.jpg": 760,
   "tokyo-5-seconds-of-summer-tokyo-concert\u0001https://upload.wikimedia.org/wikipedia/commons/d/de/5_Seconds_of_Summer_2023.jpg": 1366,
   "tokyo-mamamoo-tokyo-concert\u0001https://upload.wikimedia.org/wikipedia/commons/7/76/Mamamoo_Moonbyul_240323.jpg": 1066,
   "tokyo-stray-kids-tokyo-dome-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Stray_Kids_at_Incheon_Airport%2C_May_3%2C_2024.png/3840px-Stray_Kids_at_Incheon_Airport%2C_May_3%2C_2024.png": 3840,
   "york-fish-and-forest\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Fish_%26_Forest_Grape_Lane_York_Jan25.jpg/3840px-Fish_%26_Forest_Grape_Lane_York_Jan25.jpg": 3840,
-  "zaragoza-fiestas-del-pilar\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fiestas_del_Pilar_%28fuegos_artificiales%29.jpg/3840px-Fiestas_del_Pilar_%28fuegos_artificiales%29.jpg": 3840
+  "zaragoza-fiestas-del-pilar\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fiestas_del_Pilar_%28fuegos_artificiales%29.jpg/3840px-Fiestas_del_Pilar_%28fuegos_artificiales%29.jpg": 3840,
+  "abu-dhabi-saikindo\u0001https://fastly.4sqi.net/img/general/original/1384727293_JU0fj-HQ6bgbDLkOvUJcDgGGpMNDzRJAidtXpsQseAU.jpg": 1080,
+  "brisbane-rugby-league-world-cup-2026-final\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Suncorp_Stadium_22_April_2012.jpg/3840px-Suncorp_Stadium_22_April_2012.jpg": 3840,
+  "bangkok-cherry-olive-cocktail-club\u0001https://fastly.4sqi.net/img/general/original/1497197_uvPX0VAtQuyJPBPJBXLHi6G7TZDX2pF8cqPPCtRifZM.jpg": 1440,
+  "berlin-fukagawa\u0001https://fastly.4sqi.net/img/general/original/119391558_iCSShaZyz11MbtqsD8namZ9jep5KatrnPt5ODi52xjM.jpg": 1440,
+  "berlin-pamela\u0001https://fastly.4sqi.net/img/general/original/3710308_M9nZrFVDaR65SJsQ88mPkFtdijvvFTHHoVQr261g6jo.jpg": 1440,
+  "canggu-aged-and-butchered\u0001https://fastly.4sqi.net/img/general/original/1361458383_CCyPjyTParDHMP5kWBie8zMubmWdf_qXctiT-HUCLTk.jpg": 1440,
+  "goyang-si-khalid-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Khalid_World_Pride_DC_03.jpg/1920px-Khalid_World_Pride_DC_03.jpg": 1920,
+  "dubai-gymkhana-dubai\u0001https://fastly.4sqi.net/img/general/original/47857651_qjw67IT30HkbespDYmJbR-LIlVUFJcZBZ3QMi1iylV8.jpg": 1080,
+  "guadalajara-alcalde\u0001https://fastly.4sqi.net/img/general/original/84323006_Utd2pYldUPWW08-XS4Q6HDVgq_e1EM5znGESUQqWe8Q.jpg": 1440,
+  "busan-billie-jean\u0001https://fastly.4sqi.net/img/general/original/38788404_CpNiT26YfMV05tyR_Do6yeJ7dKrKpPLCVV9qYencl-M.jpg": 1920,
+  "ho-chi-minh-city-a-by-tung\u0001https://fastly.4sqi.net/img/general/original/6057509__lvEUNPAvNYIxhLAKvlbYTO7-Q55JwxIQYqhL2sgjZQ.jpg": 1440,
+  "hong-kong-canton-library\u0001https://fastly.4sqi.net/img/general/original/335106644_jV8ie7tfjcu9ab9Dx-ZwahISFeJ4UClntjBtNNYmAMw.jpg": 1439,
+  "istanbul-filmekimi\u0001https://upload.wikimedia.org/wikipedia/commons/2/28/Kad%C4%B1k%C3%B6y_sinemas%C4%B1nda_Filmekimi.jpg": 4032,
+  "istanbul-mabou\u0001https://fastly.4sqi.net/img/general/original/5977339_Ng1v3aXmzzF__9Lm88M2O2SJWnWSYwSpo0GNB6egVbY.jpg": 1440,
+  "istanbul-throwback-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/2014333222408_2014-11-29_Sunshine_Live_-_Die_90er_Live_on_Stage_-_Sven_-_1D_X_-_0580_-_DV3P5579_mod.jpg/3840px-2014333222408_2014-11-29_Sunshine_Live_-_Die_90er_Live_on_Stage_-_Sven_-_1D_X_-_0580_-_DV3P5579_mod.jpg": 3840,
+  "jakarta-babymonster-jakarta-concert\u0001https://upload.wikimedia.org/wikipedia/commons/3/3c/Ahyeon_20260905_Manila.jpg": 2160,
+  "jakarta-de-tiger\u0001https://fastly.4sqi.net/img/general/original/51129051_c0jBdnQO1sopBlL-n84wukm6P6CfLvy-Bpd0ohe_Jho.jpg": 1080,
+  "florence-florence-marathon\u0001https://live.staticflickr.com/56/117155985_dadda037f3_k.jpg": 1500,
+  "kuala-lumpur-kuala-lumpur-standard-chartered-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Dataran_Merdeka%2C_Kuala_Lumpur_%282%29.jpg/3840px-Dataran_Merdeka%2C_Kuala_Lumpur_%282%29.jpg": 3840,
+  "kuching-festival-gendang-sarawak-fgs-2026\u0001https://upload.wikimedia.org/wikipedia/commons/4/42/Kuching_Waterfront_Panorama.jpg": 1280,
+  "london-impala\u0001https://fastly.4sqi.net/img/general/original/137091017_J_hJjRMHsCzjJdba8NuwdoKDh66H_iGxncLsNww5_xU.jpg": 1080,
+  "london-kid\u0001https://fastly.4sqi.net/img/general/original/137091017_yVo5olZ-BL-GrpV678Hslo-5r4ZufLQtFhAiUT2eYsg.jpg": 1080,
+  "london-legado\u0001https://fastly.4sqi.net/img/general/original/7413000_TnyrXNoS0aJWh9nyW0Udm76Bco32z50BoKwt50p0tQU.jpg": 1440,
+  "melbourne-melbourne-cup\u0001https://upload.wikimedia.org/wikipedia/commons/8/88/2013_Melbourne_Cup_%2810705853945%29.jpg": 3680,
+  "mexico-city-bar-nino\u0001https://fastly.4sqi.net/img/general/original/70783217_idvlBFGIpXr8-83tmIrCcHc9DgvvStk4ey4kx7cXME4.jpg": 1440,
+  "mexico-city-cobarde\u0001https://fastly.4sqi.net/img/general/original/21597530_fzCD51Gl9WHEDXt91uGRnP9nHcPSGOPmYcn40qELZfI.jpg": 1440,
+  "phnom-penh-mara-steak-wok-wine\u0001https://fastly.4sqi.net/img/general/original/55184948_ltXeIfCYZNu-aw3A3H9hFORW9GVIUWZIAb27dBUpLJI.jpg": 1920,
+  "phnom-penh-metro-hassakan\u0001https://fastly.4sqi.net/img/general/original/23615182_3zSh9bUGPvasgvZxgZjsaWiyxwtnokOBRuA5TN65yM4.jpg": 1440,
+  "siem-reap-wild\u0001https://fastly.4sqi.net/img/general/original/4638997_OPRm1i_e8cfLlpj5MkMNzBFEXXR9__cgwcvOhjCMLiE.jpg": 1920,
+  "singapore-joji-solaris-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/2/2c/Joji_Performing_Live_in_2018.png": 1440,
+  "singapore-milli-sky-dining-bar\u0001https://fastly.4sqi.net/img/general/original/71840748_OxqX16IZRbI1ik2VcP1rHRKVUZMnjAr3NmPiCCmLtvE.jpg": 1470,
+  "sitges-sitges-film-festival\u0001https://upload.wikimedia.org/wikipedia/commons/f/f7/Peter_Brunner_at_the_Sitges_Film_Festival%2C_2021.jpg": 2789,
+  "surin-surin-elephant-round-up\u0001https://upload.wikimedia.org/wikipedia/commons/7/72/Surin_Elephant_Show_2009_DSC06239c.jpg": 1024,
+  "taichung-taichung-jazz-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/4/4b/View_from_Civic_Square_of_Taichung.jpg": 2021,
+  "taipei-bar-mood-taipei\u0001https://fastly.4sqi.net/img/general/original/8969969_LReIhRkiYmC8_4Bvz2jlajOEHx9ieEd1CHgyfvLrymY.jpg": 1440,
+  "turin-torino-city-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/6/6f/Santander_La_Mezza_di_Torino_2017.jpg": 1263
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
    "width": 1080,
-   "attempts": 9,
-   "nextTry": "2026-10-05",
+   "attempts": 10,
+   "nextTry": "2026-10-12",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "ajman-souryana-restaurant-and-cafe": {
    "width": 1100,
-   "attempts": 9,
-   "nextTry": "2026-10-05",
-   "flaggedAt": "2026-08-03",
-   "lastResult": "no-wider"
-  },
-  "agra-itmad-ud-daula": {
-   "width": 960,
-   "attempts": 9,
-   "nextTry": "2026-10-05",
+   "attempts": 10,
+   "nextTry": "2026-10-12",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "goa-fort-aguada": {
    "width": 960,
-   "attempts": 9,
-   "nextTry": "2026-10-05",
+   "attempts": 10,
+   "nextTry": "2026-10-12",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "hue-maison-trang": {
    "width": 1080,
-   "attempts": 9,
-   "nextTry": "2026-10-05",
+   "attempts": 10,
+   "nextTry": "2026-10-12",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "jeonju-jeonju-hanok-village-cafe-masirange": {
    "width": 1080,
-   "attempts": 9,
-   "nextTry": "2026-10-05",
+   "attempts": 10,
+   "nextTry": "2026-10-12",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "phuket-day-night-of-phuket": {
    "width": 1080,
-   "attempts": 9,
-   "nextTry": "2026-10-05",
+   "attempts": 10,
+   "nextTry": "2026-10-12",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
   "provence-lavender-sunflower-field": {
    "width": 1080,
-   "attempts": 9,
-   "nextTry": "2026-10-05",
+   "attempts": 10,
+   "nextTry": "2026-10-12",
    "flaggedAt": "2026-08-03",
    "lastResult": "no-wider"
   },
@@ -2308,8 +2335,8 @@
   },
   "el-nido-taraw-cliff": {
    "width": 960,
-   "attempts": 8,
-   "nextTry": "2026-10-05",
+   "attempts": 9,
+   "nextTry": "2026-10-12",
    "flaggedAt": "2026-08-10",
    "lastResult": "no-wider"
   },
@@ -2817,7 +2844,43 @@
    "attempts": 0,
    "nextTry": "2026-10-05",
    "flaggedAt": "2026-10-05"
+  },
+  "abu-dhabi-saikindo": {
+   "width": 1080,
+   "attempts": 0,
+   "nextTry": "2026-10-05",
+   "flaggedAt": "2026-10-05"
+  },
+  "dubai-gymkhana-dubai": {
+   "width": 1080,
+   "attempts": 0,
+   "nextTry": "2026-10-05",
+   "flaggedAt": "2026-10-05"
+  },
+  "jakarta-de-tiger": {
+   "width": 1080,
+   "attempts": 0,
+   "nextTry": "2026-10-05",
+   "flaggedAt": "2026-10-05"
+  },
+  "london-impala": {
+   "width": 1080,
+   "attempts": 0,
+   "nextTry": "2026-10-05",
+   "flaggedAt": "2026-10-05"
+  },
+  "london-kid": {
+   "width": 1080,
+   "attempts": 0,
+   "nextTry": "2026-10-05",
+   "flaggedAt": "2026-10-05"
+  },
+  "surin-surin-elephant-round-up": {
+   "width": 1024,
+   "attempts": 0,
+   "nextTry": "2026-10-05",
+   "flaggedAt": "2026-10-05"
   }
  },
- "updated": "2026-10-05T16:42:50.522Z"
+ "updated": "2026-10-05T21:45:57.799Z"
 }

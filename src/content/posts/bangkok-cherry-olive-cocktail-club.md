@@ -5,7 +5,6 @@ country: Thailand
 region: Bangkok
 category: trendy
 pubDate: '2026-10-04'
-gallery: []
 tags:
   - bangkok
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What else is nearby?
     a: Lumphini Park is across Rama IV Road, Patpong's night market is a short walk up Silom Road, and Sala Daeng has plenty more bars for later in the night.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/1497197_uvPX0VAtQuyJPBPJBXLHi6G7TZDX2pF8cqPPCtRifZM.jpg
+  credit: 'Photo: Foursquare user content (Cherry Olive Cocktail Club)'
+  license: foursquare
+  source: https://foursquare.com/v/6a1041478adaee1cb8a16799
+  focus:
+    x: 45
+    'y': 55
 ---
 
 ## Two bars, one marble shell

@@ -5,7 +5,6 @@ country: Mexico
 region: Mexico City
 category: restaurant
 pubDate: '2026-10-05'
-gallery: []
 tags:
   - mexico city
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: How long should I allow for dinner at Cobarde?
     a: Plan on a relaxed evening, not a quick meal. In Mexico City the bill usually only comes when you ask for it. Allow extra travel time too, because evening traffic across the city can be slow.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/21597530_fzCD51Gl9WHEDXt91uGRnP9nHcPSGOPmYcn40qELZfI.jpg
+  credit: 'Photo: Foursquare user content (Cobarde)'
+  license: foursquare
+  source: https://foursquare.com/v/68b3a7f991007b249e321a0d
+  focus:
+    x: 40
+    'y': 55
 ---
 
 ## A Oaxacan kitchen moves to the capital

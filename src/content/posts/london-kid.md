@@ -5,7 +5,6 @@ country: United Kingdom
 region: London
 category: trendy
 pubDate: '2026-10-05'
-gallery: []
 tags:
   - london
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What can I do nearby before or after dinner?
     a: Soho Square, Berwick Street, Old Compton Street, Chinatown and the West End theatres are all a short walk away.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/137091017_yVo5olZ-BL-GrpV678Hslo-5r4ZufLQtFhAiUT2eYsg.jpg
+  credit: 'Photo: Foursquare user content (KID)'
+  license: foursquare
+  source: https://foursquare.com/v/6a3fdacab4148d35359f3412
+  focus:
+    x: 45
+    'y': 60
 ---
 
 Soho has plenty of places to eat, and few of them get called permanent within weeks of opening. KID did. This Turkish restaurant opened in September 2026, and critics quickly called it a future cornerstone of Soho's food scene. That's a big thing to say about a room that's still new.

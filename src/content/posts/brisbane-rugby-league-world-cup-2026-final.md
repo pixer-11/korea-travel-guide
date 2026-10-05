@@ -30,6 +30,14 @@ faq:
     a: No. Suncorp Stadium is cashless, so bring a card or a phone wallet.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Suncorp_Stadium_22_April_2012.jpg/3840px-Suncorp_Stadium_22_April_2012.jpg
+  credit: 'Photo: Tiger Benji / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Suncorp_Stadium_22_April_2012.jpg
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## Two finals, one day at Lang Park

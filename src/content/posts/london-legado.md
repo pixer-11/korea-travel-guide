@@ -5,7 +5,6 @@ country: United Kingdom
 region: London
 category: trendy
 pubDate: '2026-10-05'
-gallery: []
 tags:
   - london
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What else is there to do near Legado in Shoreditch?
     a: Brick Lane, Boxpark Shoreditch, Old Spitalfields Market and Redchurch Street are all within walking distance. Columbia Road Flower Market runs on Sunday mornings.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/7413000_TnyrXNoS0aJWh9nyW0Udm76Bco32z50BoKwt50p0tQU.jpg
+  credit: 'Photo: Foursquare user content (Legado)'
+  license: foursquare
+  source: https://foursquare.com/v/68d5721d070f6076d95e2d99
+  focus:
+    x: 45
+    'y': 55
 ---
 
 ## A chef's name on a Shoreditch door

@@ -10,6 +10,14 @@ eventEndDate: '2026-11-15'
 eventRecurring: true
 eventVenue: Ata Sporları Merkezi
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/20101106_Galata_Tower_Istanbul_Turkey_Panorama.jpg/3840px-20101106_Galata_Tower_Istanbul_Turkey_Panorama.jpg'
+  credit: 'Photo: User:Ggia / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:20101106_Galata_Tower_Istanbul_Turkey_Panorama.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - istanbul

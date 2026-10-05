@@ -5,7 +5,6 @@ country: Germany
 region: Berlin
 category: restaurant
 pubDate: '2026-10-05'
-gallery: []
 tags:
   - berlin
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What are Fukagawa's opening hours?
     a: Hours were not confirmed when this was written, and new restaurants often adjust them. Check Fukagawa's official website or booking page before you visit.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/119391558_iCSShaZyz11MbtqsD8namZ9jep5KatrnPt5ODi52xjM.jpg
+  credit: 'Photo: Foursquare user content (Fukagawa)'
+  license: foursquare
+  source: https://foursquare.com/v/67af9e82f120e60801a51357
+  focus:
+    x: 45
+    'y': 45
 ---
 
 ## Ramen people, tasting-menu ambitions

@@ -5,7 +5,6 @@ country: Indonesia
 region: Canggu
 category: hidden-gem
 pubDate: '2026-10-05'
-gallery: []
 tags:
   - canggu
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What can I do nearby before dinner?
     a: Watch the sunset at Batu Bolong Beach or Echo Beach, both a short ride away. Tanah Lot temple, further northwest along the coast, works for an earlier afternoon trip.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/1361458383_CCyPjyTParDHMP5kWBie8zMubmWdf_qXctiT-HUCLTk.jpg
+  credit: 'Photo: Foursquare user content (Aged And Butchered)'
+  license: foursquare
+  source: https://foursquare.com/v/6788cf9b2094c865d19c39e3
+  focus:
+    x: 45
+    'y': 55
 ---
 
 ## Two ways to age a steak, one table

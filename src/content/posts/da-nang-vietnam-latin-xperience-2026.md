@@ -9,6 +9,14 @@ eventStartDate: '2026-10-02'
 eventEndDate: '2026-10-04'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cu_%C4%90%C3%AA_River%2C_Da_Nang.jpg/3840px-Cu_%C4%90%C3%AA_River%2C_Da_Nang.jpg'
+  credit: 'Photo: Christopher Crouzet / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Cu_%C4%90%C3%AA_River,_Da_Nang.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - da nang

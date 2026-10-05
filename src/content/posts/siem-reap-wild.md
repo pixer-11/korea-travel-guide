@@ -5,7 +5,6 @@ country: Cambodia
 region: Siem Reap
 category: trendy
 pubDate: '2026-10-05'
-gallery: []
 tags:
   - siem reap
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What else is nearby?
     a: Wat Damnak pagoda and the Center for Khmer Studies are in the same neighbourhood, along with plenty of restaurants. Pub Street, the Old Market and the Angkor Night Market are a short ride across the river.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/4638997_OPRm1i_e8cfLlpj5MkMNzBFEXXR9__cgwcvOhjCMLiE.jpg
+  credit: 'Photo: Foursquare user content (WILD)'
+  license: foursquare
+  source: https://foursquare.com/v/5b2d1d01fdb9a7002ca72821
+  focus:
+    x: 85
+    'y': 45
 ---
 
 ## Across the river from Pub Street

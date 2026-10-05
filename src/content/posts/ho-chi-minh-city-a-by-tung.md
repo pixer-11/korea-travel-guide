@@ -5,7 +5,6 @@ country: Vietnam
 region: Ho Chi Minh City
 category: trendy
 pubDate: '2026-10-05'
-gallery: []
 tags:
   - ho chi minh city
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What is the setting like?
     a: It is a minimal, Nordic-style dining room with seats that look straight into the kitchen. When you book, ask for a seat facing the kitchen so you can watch the courses being prepared.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/6057509__lvEUNPAvNYIxhLAKvlbYTO7-Q55JwxIQYqhL2sgjZQ.jpg
+  credit: 'Photo: Foursquare user content (Å By Tung)'
+  license: foursquare
+  source: https://foursquare.com/v/601d6306303b206d26367516
+  focus:
+    x: 50
+    'y': 45
 ---
 
 ## Twenty courses, one sitting

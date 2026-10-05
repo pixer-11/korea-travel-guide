@@ -1,6 +1,11 @@
 ---
-title: '5 Seconds of Summer: Everyone''s a Star! World Tour: Dates, Tickets & Venue (Pasay)'
-description: '5 Seconds of Summer: Everyone''s a Star! World Tour plays two nights at the SM Mall of Asia Arena in Pasay on November 11 and 12, 2026, with tickets sold through the official tour and venue channels.'
+title: >-
+  5 Seconds of Summer: Everyone's a Star! World Tour: Dates, Tickets & Venue
+  (Pasay)
+description: >-
+  5 Seconds of Summer: Everyone's a Star! World Tour plays two nights at the SM
+  Mall of Asia Arena in Pasay on November 11 and 12, 2026, with tickets sold
+  through the official tour and venue channels.
 country: Philippines
 region: Pasay
 category: event
@@ -13,35 +18,54 @@ eventPerformer:
   name: 5 Seconds of Summer
   kind: group
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/2/27/5_Seconds_of_Summer_2014.jpg
-  credit: 'Photo: Eva Rinaldi / Wikimedia Commons (CC BY-SA 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:5_Seconds_of_Summer_2014.jpg
-  focus:
-    x: 47
-    'y': 26
-    top: 15
-    bottom: 37
-gallery: []
 tags:
   - pasay
   - event
-quickAnswer: '5 Seconds of Summer: Everyone''s a Star! World Tour plays two nights at the SM Mall of Asia Arena in Pasay on November 11 and 12, 2026, with tickets sold through the official tour and venue channels. The arena is part of the SM Mall of Asia complex on Manila Bay, a short ride from NAIA airport. Confirm timing, seating and tickets on the official site before you book anything.'
+quickAnswer: >-
+  5 Seconds of Summer: Everyone's a Star! World Tour plays two nights at the SM
+  Mall of Asia Arena in Pasay on November 11 and 12, 2026, with tickets sold
+  through the official tour and venue channels. The arena is part of the SM Mall
+  of Asia complex on Manila Bay, a short ride from NAIA airport. Confirm timing,
+  seating and tickets on the official site before you book anything.
 faq:
   - q: Where is the 5 Seconds of Summer Manila concert held?
-    a: Both nights are at the SM Mall of Asia Arena, part of the SM Mall of Asia complex on Manila Bay in Pasay.
+    a: >-
+      Both nights are at the SM Mall of Asia Arena, part of the SM Mall of Asia
+      complex on Manila Bay in Pasay.
   - q: What dates does the Everyone's a Star! World Tour play in Manila?
-    a: November 11 and 12, 2026, a Wednesday and a Thursday. Confirm dates and timing on the official site.
+    a: >-
+      November 11 and 12, 2026, a Wednesday and a Thursday. Confirm dates and
+      timing on the official site.
   - q: What's the easiest way to get to MOA Arena?
-    a: The EDSA Carousel busway has a Mall of Asia stop and is usually the most predictable option on a weeknight. From NAIA airport, a taxi or Grab is a short ride. Leave plenty of time either way, because EDSA traffic is heavy in the evening.
+    a: >-
+      The EDSA Carousel busway has a Mall of Asia stop and is usually the most
+      predictable option on a weeknight. From NAIA airport, a taxi or Grab is a
+      short ride. Leave plenty of time either way, because EDSA traffic is heavy
+      in the evening.
   - q: How do I avoid fake tickets?
-    a: Buy only through the seller linked from the band's official site or the arena's official channels. Avoid resale offers on social media.
+    a: >-
+      Buy only through the seller linked from the band's official site or the
+      arena's official channels. Avoid resale offers on social media.
   - q: What else is near the arena?
-    a: The Mall of Asia's bayside promenade for sunset, the MOA Eye ferris wheel, and the SMX Convention Center are all in the same complex. CCP Complex and Roxas Boulevard are a short drive north.
+    a: >-
+      The Mall of Asia's bayside promenade for sunset, the MOA Eye ferris wheel,
+      and the SMX Convention Center are all in the same complex. CCP Complex and
+      Roxas Boulevard are a short drive north.
 aiGenerated: true
-draft: true
-heldFinal: 'duplicate of manila-5sos-everyone-s-a-star-world-tour: the same two nights at SM Mall of Asia Arena, filed under the Pasay alias. Retired 2026-10-05, its URL 301s to the kept twin.'
+draft: false
+heldFinal: >-
+  duplicate of manila-5sos-everyone-s-a-star-world-tour: the same two nights at
+  SM Mall of Asia Arena, filed under the Pasay alias. Retired 2026-10-05, its
+  URL 301s to the kept twin.
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Pasay_at_night.jpg/3840px-Pasay_at_night.jpg'
+  credit: 'Photo: Aaron Lucas / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Pasay_at_night.jpg'
+  focus:
+    x: 50
+    y: 50
+gallery: []
 ---
 
 ## Two nights on the bay

@@ -9,6 +9,14 @@ eventStartDate: '2026-11-15'
 eventEndDate: '2026-11-15'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Affresco_di_Gioacchino_Martorana_Palazzo_Butera_Palermo_quadrato.jpg/3840px-Affresco_di_Gioacchino_Martorana_Palazzo_Butera_Palermo_quadrato.jpg'
+  credit: 'Photo: Wolfgang Moroder / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Affresco_di_Gioacchino_Martorana_Palazzo_Butera_Palermo_quadrato.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - palermo

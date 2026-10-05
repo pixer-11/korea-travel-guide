@@ -5,7 +5,6 @@ country: Turkey
 region: Istanbul
 category: hidden-gem
 pubDate: '2026-10-05'
-gallery: []
 tags:
   - istanbul
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What is there to do near Mabou?
     a: Galata Tower, the Pera Museum, İstiklal Avenue and the historic Tünel funicular are all in Beyoğlu. Walk downhill to Karaköy and the Galata Bridge after dinner for views over the water.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/5977339_Ng1v3aXmzzF__9Lm88M2O2SJWnWSYwSpo0GNB6egVbY.jpg
+  credit: 'Photo: Foursquare user content (Restaurant Mabou)'
+  license: foursquare
+  source: https://foursquare.com/v/5d3c91572b03c5000815a2f9
+  focus:
+    x: 50
+    'y': 50
 ---
 
 Five tables. That number shapes everything about an evening at Mabou, and it is the main thing to plan around. A room this size seats only a handful of parties a night. Everyone eats from one tasting menu set by the chef, not from a long list of choices.

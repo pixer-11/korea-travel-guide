@@ -5,7 +5,6 @@ country: Cambodia
 region: Phnom Penh
 category: trendy
 pubDate: '2026-10-05'
-gallery: []
 tags:
   - phnom penh
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: How long should I plan to spend there?
     a: About two hours if you're staying for happy hour and dinner, and less if you only want a cocktail and some oysters.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/55184948_ltXeIfCYZNu-aw3A3H9hFORW9GVIUWZIAb27dBUpLJI.jpg
+  credit: 'Photo: Foursquare user content (Mara Wine, Wok & Wine)'
+  license: foursquare
+  source: https://foursquare.com/v/54f08b9d498eb4b23a1d4804
+  focus:
+    x: 55
+    'y': 35
 ---
 
 ## Three kitchens in one name

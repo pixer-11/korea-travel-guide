@@ -5,7 +5,6 @@ country: Mexico
 region: Mexico City
 category: hidden-gem
 pubDate: '2026-10-05'
-gallery: []
 tags:
   - mexico city
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What else is nearby?
     a: Avenida Álvaro Obregón is good for dinner beforehand. Plaza Río de Janeiro, with its David replica, is nearby. Condesa and Parque México are a short walk west if you want to keep going.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/70783217_idvlBFGIpXr8-83tmIrCcHc9DgvvStk4ey4kx7cXME4.jpg
+  credit: 'Photo: Foursquare user content (Bar Nino)'
+  license: foursquare
+  source: https://foursquare.com/v/69d85bad12d5fc65c63cf19f
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## One drink, taken seriously

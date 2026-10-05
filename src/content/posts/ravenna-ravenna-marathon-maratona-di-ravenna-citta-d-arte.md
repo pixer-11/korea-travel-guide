@@ -14,6 +14,14 @@ eventOrganizer:
 eventOffers:
   url: https://www.maratonadiravenna.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Seaport_in_Ravenna%2C_Italy.jpg/1280px-Seaport_in_Ravenna%2C_Italy.jpg'
+  credit: 'Photo: Marek Ślusarczyk (Tupungato) Photo gallery (CC BY 3.0)'
+  license: wikimedia
+  source: 'File:Seaport in Ravenna, Italy.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - ravenna

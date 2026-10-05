@@ -1,6 +1,9 @@
 ---
 title: 'Electric Daisy Carnival (EDC) Korea 2026: Dates, Tickets & Venue (Incheon)'
-description: Electric Daisy Carnival (EDC) Korea 2026 takes place on October 11, 2026, at INSPIRE Arena on Yeongjong Island, Incheon, minutes from Incheon International Airport.
+description: >-
+  Electric Daisy Carnival (EDC) Korea 2026 takes place on October 11, 2026, at
+  INSPIRE Arena on Yeongjong Island, Incheon, minutes from Incheon International
+  Airport.
 country: South Korea
 region: Incheon
 category: event
@@ -11,32 +14,56 @@ eventRecurring: true
 eventVenue: INSPIRE Arena
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/f/fa/Electric_Daisy_Carnival_Las_Vegas_6_2013-06-23.jpg
-  credit: 'Photo: FASTILY / Wikimedia Commons (CC BY-SA 3.0)'
+  url: 'https://upload.wikimedia.org/wikipedia/commons/d/dc/South_Korea%2C_Incheon%2C_Songdo_%2804%29%2C_apartment_blocks_and_school.jpg'
+  credit: 'Photo: Vincent van Zeijst / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Electric_Daisy_Carnival_Las_Vegas_6_2013-06-23.jpg
+  source: 'https://commons.wikimedia.org/wiki/File:South_Korea,_Incheon,_Songdo_(04),_apartment_blocks_and_school.jpg'
   focus:
     x: 50
-    'y': 40
+    y: 45
 gallery: []
 tags:
   - incheon
   - event
-quickAnswer: Electric Daisy Carnival (EDC) Korea 2026 takes place on October 11, 2026, at INSPIRE Arena on Yeongjong Island, Incheon, minutes from Incheon International Airport. The announced lineup includes Tiësto, DJ Snake, Alok, Fisher and ILLENIUM. Confirm timing and tickets on the official EDC Korea site, and plan your late-night ride back to Seoul before you set off.
+quickAnswer: >-
+  Electric Daisy Carnival (EDC) Korea 2026 takes place on October 11, 2026, at
+  INSPIRE Arena on Yeongjong Island, Incheon, minutes from Incheon International
+  Airport. The announced lineup includes Tiësto, DJ Snake, Alok, Fisher and
+  ILLENIUM. Confirm timing and tickets on the official EDC Korea site, and plan
+  your late-night ride back to Seoul before you set off.
 faq:
   - q: When and where is EDC Korea 2026?
-    a: It's announced for October 11, 2026, at INSPIRE Arena, part of the INSPIRE Entertainment Resort on Yeongjong Island in Incheon, near Incheon International Airport. Confirm exact timing on the official EDC Korea site.
+    a: >-
+      It's announced for October 11, 2026, at INSPIRE Arena, part of the INSPIRE
+      Entertainment Resort on Yeongjong Island in Incheon, near Incheon
+      International Airport. Confirm exact timing on the official EDC Korea
+      site.
   - q: Who is in the EDC Korea 2026 lineup?
-    a: The announced lineup includes Tiësto, DJ Snake, Alok, Fisher and ILLENIUM. The organisers publish the full lineup and set times.
+    a: >-
+      The announced lineup includes Tiësto, DJ Snake, Alok, Fisher and ILLENIUM.
+      The organisers publish the full lineup and set times.
   - q: How do I get to INSPIRE Arena from Seoul?
-    a: Take the AREX airport railroad from Seoul Station to Incheon International Airport Terminal 1, then the INSPIRE resort shuttle. Check the shuttle schedule on INSPIRE's site. AREX doesn't run all night, so plan your return or book a room on the island.
+    a: >-
+      Take the AREX airport railroad from Seoul Station to Incheon International
+      Airport Terminal 1, then the INSPIRE resort shuttle. Check the shuttle
+      schedule on INSPIRE's site. AREX doesn't run all night, so plan your
+      return or book a room on the island.
   - q: Where should I stay for EDC Korea?
-    a: Staying on Yeongjong Island is easiest. The options are INSPIRE's own hotel towers next to the arena, airport-area hotels, or the nearby Paradise City resort. They save you the late-night trip back to Seoul.
+    a: >-
+      Staying on Yeongjong Island is easiest. The options are INSPIRE's own
+      hotel towers next to the arena, airport-area hotels, or the nearby
+      Paradise City resort. They save you the late-night trip back to Seoul.
   - q: Do I need ID at EDC Korea?
-    a: Bring your passport. The legal drinking age in Korea is 19, and ID checks for alcohol are common. Check the official site for entry and prohibited-item rules.
+    a: >-
+      Bring your passport. The legal drinking age in Korea is 19, and ID checks
+      for alcohol are common. Check the official site for entry and
+      prohibited-item rules.
 aiGenerated: true
-draft: true
-heldFinal: 'duplicate of incheon-edc-korea-electric-daisy-carnival with a wrong date: EDC Korea 2026 was Oct 3-4 at Inspire (DJ Mag, EDMTunes, Klook); this copy said Oct 11. Retired 2026-10-05, its URL 301s to the kept twin.'
+draft: false
+heldFinal: >-
+  duplicate of incheon-edc-korea-electric-daisy-carnival with a wrong date: EDC
+  Korea 2026 was Oct 3-4 at Inspire (DJ Mag, EDMTunes, Klook); this copy said
+  Oct 11. Retired 2026-10-05, its URL 301s to the kept twin.
 ---
 
 ## An island, an arena, a carnival

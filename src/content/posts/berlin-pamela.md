@@ -5,7 +5,6 @@ country: Germany
 region: Berlin
 category: trendy
 pubDate: '2026-10-05'
-gallery: []
 tags:
   - berlin
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What is nearby to combine with dinner?
     a: The Konzerthaus Berlin sits on Gendarmenmarkt itself, so a concert before dinner works well. Friedrichstraße, Unter den Linden and Museum Island are all within walking distance.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/3710308_M9nZrFVDaR65SJsQ88mPkFtdijvvFTHHoVQr261g6jo.jpg
+  credit: 'Photo: Foursquare user content (Pamela)'
+  license: foursquare
+  source: https://foursquare.com/v/6a1f36f9895a477b4a2fb261
+  focus:
+    x: 50
+    'y': 45
 ---
 
 ## A big night off Gendarmenmarkt

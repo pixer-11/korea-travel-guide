@@ -5,7 +5,6 @@ country: Mexico
 region: Guadalajara
 category: restaurant
 pubDate: '2026-10-05'
-gallery: []
 tags:
   - guadalajara
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What can I do nearby before or after dinner?
     a: Colonia Americana and Avenida Chapultepec are full of cocktail and mezcal bars. For a day trip, the town of Tequila and its agave fields are a little over an hour away by road.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/84323006_Utd2pYldUPWW08-XS4Q6HDVgq_e1EM5znGESUQqWe8Q.jpg
+  credit: 'Photo: Foursquare user content (Alcalde (Cocina Franca))'
+  license: foursquare
+  source: https://foursquare.com/v/50f9c6dae4b063a38ba13706
+  focus:
+    x: 50
+    'y': 70
 ---
 
 ## A star for Jalisco

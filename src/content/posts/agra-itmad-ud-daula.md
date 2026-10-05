@@ -6,10 +6,13 @@ region: Agra
 category: attraction
 pubDate: '2026-07-26T07:43:39.328Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Itmad-ud-Daula_24.JPG/960px-Itmad-ud-Daula_24.JPG
-  credit: 'Photo: Sanyam Bahga / Wikimedia Commons (CC BY-SA 3.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Agra-Itmad_ud_Daulah_mausoleum-View_from_the_NH_39_bridge-20131019.jpg/3840px-Agra-Itmad_ud_Daulah_mausoleum-View_from_the_NH_39_bridge-20131019.jpg
+  credit: 'Photo: Daniel VILLAFRUELA / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Itmad-ud-Daula_24.JPG
+  source: https://commons.wikimedia.org/wiki/File:Agra-Itmad_ud_Daulah_mausoleum-View_from_the_NH_39_bridge-20131019.jpg
+  focus:
+    x: 45
+    'y': 45
 gallery:
   - url: https://fastly.4sqi.net/img/general/original/32513873_TPsNMgtd3CfNyfVNpynZjZ3ZoaMiBGqGoHgD148D6RM.jpg
     credit: 'Photo: Foursquare user content (Itimad Ud Daula)'

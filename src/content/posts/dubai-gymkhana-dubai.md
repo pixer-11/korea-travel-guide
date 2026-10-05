@@ -5,7 +5,6 @@ country: United Arab Emirates
 region: Dubai
 category: trendy
 pubDate: '2026-10-05'
-gallery: []
 tags:
   - dubai
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What are the opening hours?
     a: Confirm them directly before visiting. Newly opened restaurants often adjust their hours, so check the official website or booking page on the day you go.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/47857651_qjw67IT30HkbespDYmJbR-LIlVUFJcZBZ3QMi1iylV8.jpg
+  credit: 'Photo: Foursquare user content (Gymkhana)'
+  license: foursquare
+  source: https://foursquare.com/v/6aa4272a49294341b8eff3b9
+  focus:
+    x: 50
+    'y': 60
 ---
 
 ## A club you don't need to join

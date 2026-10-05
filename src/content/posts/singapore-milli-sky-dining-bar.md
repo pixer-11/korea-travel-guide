@@ -5,7 +5,6 @@ country: Singapore
 region: Singapore
 category: trendy
 pubDate: '2026-10-05'
-gallery: []
 tags:
   - singapore
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What else is nearby?
     a: National Gallery Singapore is directly below. The Padang, St Andrew's Cathedral, the Esplanade and the Merlion are all within walking distance, and so is the Marina Bay waterfront.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/71840748_OxqX16IZRbI1ik2VcP1rHRKVUZMnjAr3NmPiCCmLtvE.jpg
+  credit: 'Photo: Foursquare user content (Milli - Sky Dining, Bar & Lounge)'
+  license: foursquare
+  source: https://foursquare.com/v/6a1d56ee85811439a81db763
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## Two storeys above the Padang

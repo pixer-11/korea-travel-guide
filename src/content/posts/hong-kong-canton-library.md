@@ -5,7 +5,6 @@ country: China
 region: Hong Kong
 category: restaurant
 pubDate: '2026-10-04'
-gallery: []
 tags:
   - hong kong
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What can I do nearby before or after dinner?
     a: Walk down Peking Road to the harbourfront for the Clock Tower, the Hong Kong Cultural Centre and Avenue of Stars. Harbour City along Canton Road is close by if it rains.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/335106644_jV8ie7tfjcu9ab9Dx-ZwahISFeJ4UClntjBtNNYmAMw.jpg
+  credit: 'Photo: Foursquare user content (The Canton Library)'
+  license: foursquare
+  source: https://foursquare.com/v/61bb37386e4e85324d58480c
+  focus:
+    x: 50
+    'y': 60
 ---
 
 ## Twenty-nine floors above Peking Road

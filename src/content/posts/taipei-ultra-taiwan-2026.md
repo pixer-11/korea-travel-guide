@@ -15,6 +15,14 @@ eventOrganizer:
 eventOffers:
   url: https://ultrataiwan.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Taipei_Taiwan_Taipei-101-Tower-01.jpg/3840px-Taipei_Taiwan_Taipei-101-Tower-01.jpg'
+  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Taipei-101-Tower-01.jpg'
+  focus:
+    x: 50
+    y: 45
 tags:
   - taipei
   - event

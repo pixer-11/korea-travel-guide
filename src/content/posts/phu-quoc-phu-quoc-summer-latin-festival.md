@@ -12,6 +12,14 @@ eventEndDate: '2026-11-01'
 eventRecurring: false
 eventVenue: Mercury Resort and Villas
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/6/6b/Speckled_tongue_of_the_Phu_Quoc_Ridgeback.jpg'
+  credit: 'Photo: Frank Fox / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Speckled_tongue_of_the_Phu_Quoc_Ridgeback.jpg'
+  focus:
+    x: 45
+    y: 50
 gallery: []
 tags:
   - phu quoc

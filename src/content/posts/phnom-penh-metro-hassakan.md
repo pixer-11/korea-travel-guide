@@ -5,7 +5,6 @@ country: Cambodia
 region: Phnom Penh
 category: trendy
 pubDate: '2026-10-05'
-gallery: []
 tags:
   - phnom penh
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: What should I wear?
     a: Smart casual. The evening crowd is stylish, so trade beachwear and flip-flops for something you'd wear to dinner.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/23615182_3zSh9bUGPvasgvZxgZjsaWiyxwtnokOBRuA5TN65yM4.jpg
+  credit: 'Photo: Foursquare user content (Metro Hassakan (Metro Cafe))'
+  license: foursquare
+  source: https://foursquare.com/v/4bbb3c77935e952150e92890
+  focus:
+    x: 50
+    'y': 50
 ---
 
 Sisowath Quay is Phnom Penh's long riverfront promenade. Traffic runs along one side and the Tonle Sap moves slowly on the other. Metro Hassakan is on this stretch, and it works as two places under one name. In daylight it's a restaurant built around Asian fusion tapas. After dark it becomes a cocktail bar for people who dressed up a little.

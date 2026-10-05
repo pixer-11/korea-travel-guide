@@ -11,14 +11,13 @@ eventRecurring: true
 eventVenue: Elephant Show Stadium
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/a/a0/Surin_round_up.jpg
-  credit: 'Photo: Marcin Nowak / Wikimedia Commons (CC BY 2.5)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Surin_round_up.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/7/72/Surin_Elephant_Show_2009_DSC06239c.jpg
+  credit: 'Photo: Per Meistrup / wikimedia (BY-SA)'
+  license: openverse-cc
+  source: https://commons.wikimedia.org/w/index.php?curid=29337829
   focus:
     x: 50
-    'y': 50
-gallery: []
+    'y': 55
 tags:
   - surin
   - event
@@ -35,7 +34,6 @@ faq:
   - q: Do I need to book accommodation in advance?
     a: Yes. Surin is a small town and hotels fill up for festival week, so book as early as you can. If town is full, try nearby provinces such as Buriram.
 aiGenerated: true
-draft: true
 ---
 
 ## A town handed over to elephants

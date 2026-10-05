@@ -10,6 +10,14 @@ eventEndDate: '2026-11-01'
 eventRecurring: true
 eventVenue: Lingotto
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/2/29/Piazza_Castello_Turin_Italy_27-12-2021.jpg'
+  credit: 'Photo: Jeanne Griffin / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Piazza_Castello_Turin_Italy_27-12-2021.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - turin

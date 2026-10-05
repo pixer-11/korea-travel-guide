@@ -5726,5 +5726,109 @@
    "x": 50,
    "y": 45
   }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cu_%C4%90%C3%AA_River%2C_Da_Nang.jpg/3840px-Cu_%C4%90%C3%AA_River%2C_Da_Nang.jpg": {
+  "w": 3840,
+  "h": 1418,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Seonghyeon-ro%2C_Ilsandong-gu%2C_Goyang-si%2C_Gyeonggi-do%2C_South_Korea_-_panoramio.jpg/3840px-Seonghyeon-ro%2C_Ilsandong-gu%2C_Goyang-si%2C_Gyeonggi-do%2C_South_Korea_-_panoramio.jpg": {
+  "w": 3840,
+  "h": 2880,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/d/dc/South_Korea%2C_Incheon%2C_Songdo_%2804%29%2C_apartment_blocks_and_school.jpg": {
+  "w": 3704,
+  "h": 2778,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/20101106_Galata_Tower_Istanbul_Turkey_Panorama.jpg/3840px-20101106_Galata_Tower_Istanbul_Turkey_Panorama.jpg": {
+  "w": 3840,
+  "h": 456,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Lombok_Island_and_Mount_Rinjani_from_Gili_Meno_Island%2C_Indonesia.jpg/3840px-Lombok_Island_and_Mount_Rinjani_from_Gili_Meno_Island%2C_Indonesia.jpg": {
+  "w": 3840,
+  "h": 2560,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Affresco_di_Gioacchino_Martorana_Palazzo_Butera_Palermo_quadrato.jpg/3840px-Affresco_di_Gioacchino_Martorana_Palazzo_Butera_Palermo_quadrato.jpg": {
+  "w": 3840,
+  "h": 3950,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Pasay_at_night.jpg/3840px-Pasay_at_night.jpg": {
+  "w": 3840,
+  "h": 2560,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/6/6b/Speckled_tongue_of_the_Phu_Quoc_Ridgeback.jpg": {
+  "w": 1200,
+  "h": 1200,
+  "focus": {
+   "x": 45,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Seaport_in_Ravenna%2C_Italy.jpg/1280px-Seaport_in_Ravenna%2C_Italy.jpg": {
+  "w": 1280,
+  "h": 725,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/San_Sebastian_at_night_from_Monte_Urgull.jpg/3840px-San_Sebastian_at_night_from_Monte_Urgull.jpg": {
+  "w": 3840,
+  "h": 2207,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Taipei_Taiwan_Taipei-101-Tower-01.jpg/3840px-Taipei_Taiwan_Taipei-101-Tower-01.jpg": {
+  "w": 3840,
+  "h": 2560,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/2/29/Piazza_Castello_Turin_Italy_27-12-2021.jpg": {
+  "w": 3264,
+  "h": 1632,
+  "focus": {
+   "x": 50,
+   "y": 45
+  }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/L%27Umbracle%2C_Valencia%2C_Spain_-_Jan_2007.jpg/3840px-L%27Umbracle%2C_Valencia%2C_Spain_-_Jan_2007.jpg": {
+  "w": 3840,
+  "h": 2437,
+  "focus": {
+   "x": 50,
+   "y": 50
+  }
  }
 }

@@ -11,6 +11,14 @@ eventRecurring: true
 eventOffers:
   url: https://zurichmaratonsansebastian.com/en/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/San_Sebastian_at_night_from_Monte_Urgull.jpg/3840px-San_Sebastian_at_night_from_Monte_Urgull.jpg'
+  credit: 'Photo: Phillip Maiwald (Nikopol) / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:San_Sebastian_at_night_from_Monte_Urgull.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - san sebastián
