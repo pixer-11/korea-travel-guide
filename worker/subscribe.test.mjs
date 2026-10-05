@@ -42,6 +42,15 @@ test('fields outside the allow-list are dropped; the signup still goes through',
   assert.equal(up.status, 'unconfirmed');
 });
 
+// Codex, 10-05: the forms send a pathname, "popup:/path/" or "itinerary:slug".
+test('the source tags the forms actually send are kept', async () => {
+  for (const src of ['/ko/posts/seoul-n-tower/', 'popup:/ja/', 'itinerary:seoul-3-days']) {
+    const calls = fakeMailerLite();
+    await post({ email: 'n@b.co', signup_source: src });
+    assert.equal(upsertOf(calls).fields?.signup_source, src, src);
+  }
+});
+
 test("an active subscriber's preferences are not rewritten by a public POST", async () => {
   const calls = fakeMailerLite({ status: 'active' });
   await post({ email: 'old@b.co', region: 'seoul', lang: 'ko' });

@@ -28,6 +28,7 @@ const CHECKS = [
   ['header-nav.mjs', '상단 메뉴'],
   ['home-v3.mjs', '홈 v3(사진 벽·3갈래 선택기·연휴·나라 사진)×5개 언어'],
   ['regressions-2026-10-01.mjs', '10-01 회귀 묶음'],
+  ['audit-2026-10-05.mjs', '10-05 전수검증 회귀(깨진 글자·헤더·별칭 허브·분석·팝업·제목·가입 Origin)'],
   ['events-now.mjs', '이벤트 진행 중'],
   ['hubs-checklist-itinerary.mjs', '허브·체크리스트·일정'],
   ['my-trip.mjs', '내 여행'],

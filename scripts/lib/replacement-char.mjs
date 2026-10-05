@@ -31,7 +31,10 @@ export function isFaithfulRestore(orig, fixed) {
   const segs = String(orig).split(RUN);
   let src = `^${escapeRe(segs[0])}`;
   runs.forEach((run, i) => {
-    src += run.length === 1 ? '(?:[^\\s\\r\\n]{0,2})' : '(?:[^\\s\\r\\n]{1,2})';
+    // Only non-ASCII: a letter that was cut had two bytes or more, so it was
+    // never an ASCII character. That refuses a model's '"' or ':', which passed
+    // as "one character" and broke the YAML around it (Codex, 10-05).
+    src += run.length === 1 ? '(?:[^\\x00-\\x7F\\s]{0,2})' : '(?:[^\\x00-\\x7F\\s]{1,2})';
     src += escapeRe(segs[i + 1]);
   });
   return new RegExp(`${src}$`, 'u').test(fixed);

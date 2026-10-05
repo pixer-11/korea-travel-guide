@@ -163,9 +163,24 @@ console.log(`격리 글 ${before.length}편 수리 시도: ${before.join(', ')}`
 const HOURS_MEMO = 'data/hours-fix-failed.json';
 const hoursMemo = (() => { try { return JSON.parse(readFileSync(HOURS_MEMO, 'utf8')); } catch { return {}; } })();
 const fileHash = (slug) => createHash('sha1').update(readFileSync(join(DIR, `${slug}.md`), 'utf8')).digest('hex').slice(0, 16);
-const toFix = flagged.filter((s) => hoursMemo[s] !== fileHash(s));
+// A remembered failure also expires: the model may do better next month, and
+// a memo must never become a permanent hold (Codex, 10-05).
+const MEMO_DAYS = 14;
+const memoHit = (s) => {
+  const m = hoursMemo[s];
+  const fresh = (Date.now() - Date.parse(m?.at ?? '')) / 86_400_000 < MEMO_DAYS;
+  return !!m?.hash && m.hash === fileHash(s) && fresh;
+};
+const toFix = flagged.filter((s) => !memoHit(s));
 if (flagged.length > toFix.length) console.log(`영업시간 수리 생략 ${flagged.length - toFix.length}편 — 같은 내용으로 이미 실패함(${HOURS_MEMO})`);
-if (toFix.length) run(`node scripts/fix-hours-claims.mjs --drafts --only=${toFix.join(',')}`);
+const fixOut = toFix.length ? run(`node scripts/fix-hours-claims.mjs --drafts --only=${toFix.join(',')}`) : '';
+// Only a rewrite the model produced and the auditor refused is worth
+// remembering. Out of credit, a 529 or a dropped connection leaves the file
+// unchanged too, and memoising that skipped the post after the API came back
+// (Codex, 10-05). The fixer prints "✗ <file>: <reason>" for every failure.
+const transient = new Set([...fixOut.matchAll(/^\s*✗ ([^:\s]+?)(?:\.md)?: (.*)$/gm)]
+  .filter((m) => /credit|rate.?limit|overloaded|\b(?:429|5\d\d)\b|ECONN|ETIMEDOUT|fetch failed|network|timed? ?out|socket|APIError|Connection/i.test(m[2]))
+  .map((m) => m[1]));
 
 // Re-check each recorded reason once, lazily. A result is {still: Set} or
 // {crashed: true}; a crash clears nobody.
@@ -255,7 +270,8 @@ for (const slug of before) {
   let memoChanged = false;
   for (const s of flagged) {
     const failedNow = still ? still.has(s) : !repaired.includes(s);
-    if (failedNow && existsSync(join(DIR, `${s}.md`))) { hoursMemo[s] = fileHash(s); memoChanged = true; }
+    if (transient.has(s) || (memoHit(s) && !toFix.includes(s))) continue; // not judged this run, or still remembered
+    if (failedNow && toFix.includes(s) && existsSync(join(DIR, `${s}.md`))) { hoursMemo[s] = { hash: fileHash(s), at: new Date().toISOString() }; memoChanged = true; }
     else if (hoursMemo[s]) { delete hoursMemo[s]; memoChanged = true; }
   }
   if (memoChanged) writeFileSync(HOURS_MEMO, JSON.stringify(hoursMemo, null, 1) + '\n');

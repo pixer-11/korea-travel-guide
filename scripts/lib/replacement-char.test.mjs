@@ -10,7 +10,7 @@ test('accepts the lost letter put back and nothing else', () => {
   assert.equal(isFaithfulRestore(`title: "嘉義旧監${R}${R} 観光ガイド（4.3★）"`, 'title: "嘉義旧監獄 観光ガイド（4.3★）"'), true);
   assert.equal(isFaithfulRestore(`más informaci${R}${R}n del festival`, 'más información del festival'), true);
   assert.equal(isFaithfulRestore(`${R}、駅から`, '駅、駅から'), true);
-  assert.equal(isFaithfulRestore(`a${R}b${R}${R}c`, 'aXbYc'), true);
+  assert.equal(isFaithfulRestore(`a${R}b${R}${R}c`, 'aébñc'), true);
 });
 
 test('refuses any other change, however small', () => {
@@ -35,4 +35,13 @@ test('a line with nothing broken must come back identical', () => {
   assert.equal(isFaithfulRestore('그대로', '그대로요'), false);
   assert.equal(hasReplacementChar('그대로'), false);
   assert.equal(hasReplacementChar(`그${R}로`), true);
+});
+
+// Codex, 10-05: '"' passed as "one character" and broke a quoted YAML title.
+// A cut letter was multi-byte, so an ASCII fill is never the lost letter.
+test('an ASCII fill is refused — the lost letter was multi-byte', () => {
+  assert.equal(isFaithfulRestore(`title: "嘉義旧監${R}${R} 観光ガイド"`, 'title: "嘉義旧監" 観光ガイド"'), false);
+  assert.equal(isFaithfulRestore(`a${R}${R}b`, 'a:b'), false);
+  assert.equal(isFaithfulRestore(`title: "嘉義旧監${R}${R} 観光ガイド"`, 'title: "嘉義旧監獄 観光ガイド"'), true);
+  assert.equal(isFaithfulRestore(`문장${R}${R} 끝`, '문장。 끝'), true);
 });

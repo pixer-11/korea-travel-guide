@@ -364,7 +364,11 @@ export const KLOOK_LOCALE_GAPS: Record<number, string[]> = {
 };
 
 export function klookCityDest(city: string, locale: string, country?: string): string {
-  const m = KLOOK_CITY[city] ?? (country ? KLOOK_CITY[country] : undefined);
+  // A row of the same name in another country is not this city: Scotland's
+  // Aberdeen landed on Hong Kong's (Codex, 10-05). A city-state row still
+  // applies to itself whatever country a post files it under (Hong Kong/China).
+  const fits = (r?: KlookCity) => r && (!country || r.country === country || r.country === city) ? r : undefined;
+  const m = fits(KLOOK_CITY[city]) ?? (country ? fits(KLOOK_CITY[country]) : undefined);
   if (m) {
     const loc = KLOOK_LOCALE_GAPS[m.id]?.includes(locale) ? 'en-US' : locale;
     return `https://www.klook.com/${loc}/destination/c${m.id}-${m.slug}/`;

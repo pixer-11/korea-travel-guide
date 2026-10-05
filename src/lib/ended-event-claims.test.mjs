@@ -368,6 +368,15 @@ test('the record of what was planned, and evergreen facts, are not advice', () =
   ]) assert.ok(!ADVICE_IMPERATIVE.test(s), s);
 });
 
+// Codex, 10-05: the "home" exemption also let travel TO the event through.
+test('travelling back to the event is still advice', () => {
+  for (const s of [
+    'Buy admission tickets before travelling back to the city for the concert.',
+    'Book before going back to Seoul for day two.',
+  ]) assert.ok(ADVICE_IMPERATIVE.test(s), s);
+  assert.ok(!ADVICE_IMPERATIVE.test('They stayed a night before going back home.'));
+});
+
 
 
 // 2026-09-04: the Lee Hi guide said "announcements came through Lee Hi's and the

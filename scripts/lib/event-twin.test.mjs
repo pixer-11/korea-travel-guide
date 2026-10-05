@@ -44,3 +44,13 @@ test('the same act in another country, or months later, is a different stop', ()
   assert.ok(!twin(a, k('The Weeknd After Hours Til Dawn Tour: Dates, Tickets & Venue (Saitama)', 'Saitama', 'Japan', '2026-10-20')));
   assert.ok(!twin(a, k('The Weeknd After Hours Til Dawn Tour: Dates, Tickets & Venue (Singapore)', 'Singapore', 'Singapore', '2027-03-01')));
 });
+
+// Codex, 10-05: the alias answered "Frankfurt" and the plain spelling
+// "frankfurt", so the same-place rule never saw one city.
+test('an alias spelling of the city is the same place', () => {
+  assert.equal(k('X Concert: Dates (Frankfurt am Main)', 'Frankfurt am Main', 'Germany', '2026-10-11').region,
+    k('X Concert: Dates (Frankfurt)', 'Frankfurt', 'Germany', '2026-10-11').region);
+  assert.ok(twin(
+    k('Charlie Puth Concert: Dates, Tickets & Venue (Frankfurt am Main)', 'Frankfurt am Main', 'Germany', '2026-10-11'),
+    k('Charlie Puth Concert: Dates, Tickets & Venue (Frankfurt)', 'Frankfurt', 'Germany', '2026-10-17')));
+});

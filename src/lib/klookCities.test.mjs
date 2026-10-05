@@ -26,6 +26,15 @@ test('an unmapped city elsewhere searches with its country, never bare', () => {
   assert.equal(klookCityDest('Italy', 'en-US', 'Italy'), 'https://www.klook.com/en-US/search/?query=Italy');
 });
 
+test('a same-name row in another country is not used (Codex, 10-05)', () => {
+  assert.equal(klookCityDest('Aberdeen', 'en-US', 'United Kingdom'), 'https://www.klook.com/en-US/search/?query=Aberdeen%20United%20Kingdom');
+  // Hong Kong district rows still go to Hong Kong
+  assert.equal(klookCityDest('Aberdeen', 'en-US', 'Hong Kong'), klookCityDest('Hong Kong', 'en-US', 'Hong Kong'));
+  // a city-state filed under another country keeps its own page
+  const hk = KLOOK_CITY['Hong Kong'];
+  assert.equal(klookCityDest('Hong Kong', 'ko', 'China'), `https://www.klook.com/ko/destination/c${hk.id}-${hk.slug}/`);
+});
+
 test('a mapped city keeps its own page even when a country is given', () => {
   const m = KLOOK_CITY.Singapore;
   assert.equal(klookCityDest('Singapore', 'es', 'Singapore'), `https://www.klook.com/es/destination/c${m.id}-${m.slug}/`);

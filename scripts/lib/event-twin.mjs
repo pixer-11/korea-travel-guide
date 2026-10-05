@@ -37,7 +37,9 @@ export function eventKey({ title, country, region, start, end, venue }) {
   const v = venueTokens(venue);
   return {
     country: String(country ?? ''),
-    region: canonicalRegion(String(region ?? '').toLowerCase()) || String(region ?? '').toLowerCase(),
+    // Lowercased AFTER the alias: canonicalRegion answers "Frankfurt", the plain
+    // path "frankfurt", and the two never matched (Codex, 10-05).
+    region: (canonicalRegion(String(region ?? '')) || String(region ?? '')).toLowerCase(),
     anchor: keyToken(schemaName, `${region} ${country}`) || '',
     // The city, country and venue are not part of an event's NAME: "Istanbul
     // Marathon" and "WTT Contender Istanbul" share only the city, "PLK Stade

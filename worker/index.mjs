@@ -245,7 +245,10 @@ let signupGroupId = null; // cached per isolate
 const FIELD_OK = {
   region: (v) => v === '__global__' || /^[a-z0-9-]{1,40}(,[a-z0-9-]{1,40}){0,5}$/.test(v),
   lang: (v) => Object.prototype.hasOwnProperty.call(LANGS, v),
-  signup_source: (v) => /^[a-z0-9_-]{1,40}$/.test(v),
+  // The forms send a pathname ("/ko/posts/x/"), "popup:/path/" or
+  // "itinerary:slug" — the first version of this rule refused all three and
+  // signups lost their source (Codex, 10-05).
+  signup_source: (v) => /^[A-Za-z0-9_:/.%-]{1,160}$/.test(v),
   itinerary_url: (v) => /^https:\/\/wanderatlasguides\.com\/(?:(?:ko|ja|es|zh)\/)?itinerary\/[a-z0-9-]+\/?$/.test(v),
 };
 const SITE_ORIGINS = new Set(['https://wanderatlasguides.com', 'https://www.wanderatlasguides.com']);

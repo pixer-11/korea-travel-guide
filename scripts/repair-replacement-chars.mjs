@@ -24,6 +24,7 @@ import Anthropic from '@anthropic-ai/sdk';
 import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
+import yaml from 'js-yaml';
 import { fileURLToPath } from 'node:url';
 import { hasReplacementChar, isFaithfulRestore } from './lib/replacement-char.mjs';
 
@@ -95,6 +96,18 @@ async function worker() {
         keptLines++;
         refused.push(`${key}:${i + 1}`);
         console.log(`  ✗ ${key}:${i + 1} — no faithful restore, left as is`);
+      }
+    }
+    // The front matter must still parse with every restored line in place: a
+    // line-by-line check cannot see YAML it breaks (Codex, 10-05).
+    if (changed) {
+      const out = lines.join(eol);
+      const end = out.indexOf(`${eol}---`, 4);
+      try { yaml.load(out.slice(4, end)); } catch (e) {
+        console.log(`  ✗ ${key} — front matter no longer parses (${String(e.message).split('\n')[0]}), file left as is`);
+        refused.push(key);
+        keptLines++;
+        changed = false;
       }
     }
     if (changed && !DRY) {
