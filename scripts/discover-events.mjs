@@ -114,6 +114,12 @@ const discoverEvents = (country) =>
     // were raised on 2026-09-09; this string was still doing the filtering.
     `concerts and tours (globally famous artists AND regional or touring acts), sports events (majors, and also national league finals, marathons and city races), festivals of any size including local and seasonal ones, and special exhibitions. ` +
     `Small and regional events count and are often the better answer — prefer one with a confirmed date and city over a famous one without. ` +
+    // Who actually finds these pages (Bing, 2026-10-05): event guides earn 3.8%
+    // CTR against 0.4% for landmarks, and the week's top six were all read in
+    // Chinese or Japanese — China Open tennis, the Arc for Chinese visitors,
+    // Shanghai Masters, BIGBANG in Hanoi, snooker in Xi'an. Lean the pick
+    // toward events with a big East Asian following; the count is unchanged.
+    `Give priority to events that draw fans from China, Japan, Korea, Taiwan and Hong Kong: tours by Asian pop acts (K-pop, J-pop, Mandopop/C-pop), and international sports with a large East Asian following (tennis, snooker, Formula 1, MotoGP, badminton, table tennis, chess, esports, big-city marathons). ` +
     `Only REAL, CONFIRMED, upcoming events with a known date and city. ` +
     // The Bangkok F4 lesson (2026-08-07): the official branding was "F✦FOREVER
     // 1st World Tour" but every live search query said "f4 concert bangkok" —
