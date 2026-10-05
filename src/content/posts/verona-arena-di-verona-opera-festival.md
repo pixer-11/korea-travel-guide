@@ -5,7 +5,7 @@ country: Italy
 region: Verona
 category: event
 pubDate: '2026-08-05'
-eventStartDate: '2026-08-05'
+eventStartDate: '2026-06-12'
 eventEndDate: '2026-09-12'
 heroImage:
   url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Verona_-_Arena_di_Verona.jpeg/3840px-Verona_-_Arena_di_Verona.jpeg

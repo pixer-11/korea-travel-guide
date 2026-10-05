@@ -349,9 +349,26 @@ export const KLOOK_CITY: Record<string, KlookCity> = {
 // hotel link already said "Jordan Hong Kong". A country that is itself a key
 // here is a city-state, so its district goes to the city-state's destination;
 // anywhere else the search carries the country, as the hotel link does.
+// Destinations Klook publishes in English but NOT in these locales: their
+// localized city sitemaps (sitemap-city-plain_{ko,ja,es,zh-cn}.xml, 2026-10-05)
+// lack the id, and the localized URL lands on "page not found — going home in
+// 3 seconds". Every other mapped id is in all five. These send that reader to
+// the English page instead, which exists and has Klook's own language switch.
+export const KLOOK_LOCALE_GAPS: Record<number, string[]> = {
+  293: ['ko', 'ja', 'es', 'zh-CN'],      // Cardiff
+  14443: ['ko', 'ja', 'es', 'zh-CN'],    // Central Lombok (Lombok, Mandalika)
+  701631: ['ko', 'ja', 'es', 'zh-CN'],   // Izmir
+  32303: ['es'],                          // Alanya
+  61798: ['es'],                          // Fethiye
+  116609: ['es'],                         // Bodrum
+};
+
 export function klookCityDest(city: string, locale: string, country?: string): string {
   const m = KLOOK_CITY[city] ?? (country ? KLOOK_CITY[country] : undefined);
-  if (m) return `https://www.klook.com/${locale}/destination/c${m.id}-${m.slug}/`;
+  if (m) {
+    const loc = KLOOK_LOCALE_GAPS[m.id]?.includes(locale) ? 'en-US' : locale;
+    return `https://www.klook.com/${loc}/destination/c${m.id}-${m.slug}/`;
+  }
   const q = country && country !== city ? `${city} ${country}` : city;
   return `https://www.klook.com/${locale}/search/?query=${encodeURIComponent(q)}`;
 }

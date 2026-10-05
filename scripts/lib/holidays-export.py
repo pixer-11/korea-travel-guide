@@ -26,6 +26,14 @@ import holidays
 # Tomb-Sweeping Day on 2026-04-06).
 CATEGORIES = {"HK": ("optional",)}
 
+# The UK's no-subdivision set is only what all four nations share, which drops
+# Easter Monday and the late-summer bank holiday — days England, Wales and
+# Northern Ireland all close for (Scotland differs). England is where most UK
+# guides are (and the climate city, York); a Scottish reader seeing two extra
+# days is the smaller error, and the page already says a holiday is a reason to
+# check, not a closure (2026-10-05 audit).
+SUBDIVS = {"GB": "ENG"}
+
 
 def names(iso2, years, language):
     kw = {"years": years}
@@ -33,6 +41,8 @@ def names(iso2, years, language):
         kw["language"] = language
     if iso2 in CATEGORIES:
         kw["categories"] = CATEGORIES[iso2]
+    if iso2 in SUBDIVS:
+        kw["subdiv"] = SUBDIVS[iso2]
     return holidays.country_holidays(iso2, **kw)
 
 

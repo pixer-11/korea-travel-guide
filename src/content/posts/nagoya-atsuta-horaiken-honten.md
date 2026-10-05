@@ -62,12 +62,7 @@ place:
 tags:
   - nagoya
   - local restaurant
-quickAnswer: >-
-  Atsuta Hōraiken Honten, near Atsuta Jingu shrine in Nagoya, is the birthplace
-  of hitsumabushi — grilled, soy-glazed eel served over rice and eaten three
-  ways. Expect a wait (no reservations for lunch at the honten), a bill in the
-  ¥5,000–7,000 range per person, and roughly 45–60 minutes for the full meal. Go
-  hungry, go early, and pair the visit with a stroll through Atsuta Jingu.
+quickAnswer: Atsuta Hōraiken Honten, near Atsuta Jingu shrine in Nagoya, is the birthplace of hitsumabushi — grilled, soy-glazed eel served over rice and eaten three ways. Expect a wait (no reservations for lunch at the honten), a bill on the pricier side for the city, and roughly 45–60 minutes for the full meal. Go hungry, go early, and pair the visit with a stroll through Atsuta Jingu.
 faq:
   - q: Do I need a reservation?
     a: The Atsuta honten typically does not take reservations for lunch, so arrive at or before opening to minimize the wait; dinner may allow reservations depending on the season, so it's worth calling ahead or checking with your accommodation.

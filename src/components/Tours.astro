@@ -44,7 +44,7 @@ const klookDest = city ? klookCityDest(city, klookLocale(lang), country) : null;
 // 2026-10-01): same click, higher rate, and Klook's inventory there is thin.
 const klookHref = tiqetsCityUrl({ city, country, lang, subId }) ?? (klookDest
   ? `/go/klook?to=${encodeURIComponent(klookDest)}&sub_id=${encodeURIComponent(subId)}`
-  : 'https://klook.tpx.lv/2NXPH8MA');
+  : `/go/klook?to=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/`)}&sub_id=${encodeURIComponent(subId)}`);
 const brand = affiliateBrand(klookHref, lang);
 ---
 {city && (

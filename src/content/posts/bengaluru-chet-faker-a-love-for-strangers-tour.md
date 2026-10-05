@@ -5,7 +5,7 @@ country: India
 region: Bengaluru
 category: event
 pubDate: '2026-09-09'
-eventStartDate: '2026-09-18'
+eventStartDate: '2026-09-20'
 eventEndDate: '2026-09-20'
 eventRecurring: false
 eventVenue: Phoenix Marketcity, Bengaluru

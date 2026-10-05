@@ -5254,6 +5254,11 @@
           "localName": "Good Friday"
         },
         {
+          "date": "2026-04-06",
+          "name": "Easter Monday",
+          "localName": "Easter Monday"
+        },
+        {
           "date": "2026-05-04",
           "name": "May Day",
           "localName": "May Day"
@@ -5262,6 +5267,11 @@
           "date": "2026-05-25",
           "name": "Spring Bank Holiday",
           "localName": "Spring Bank Holiday"
+        },
+        {
+          "date": "2026-08-31",
+          "name": "Late Summer Bank Holiday",
+          "localName": "Late Summer Bank Holiday"
         },
         {
           "date": "2026-12-25",
@@ -5289,6 +5299,11 @@
           "localName": "Good Friday"
         },
         {
+          "date": "2027-03-29",
+          "name": "Easter Monday",
+          "localName": "Easter Monday"
+        },
+        {
           "date": "2027-05-03",
           "name": "May Day",
           "localName": "May Day"
@@ -5297,6 +5312,11 @@
           "date": "2027-05-31",
           "name": "Spring Bank Holiday",
           "localName": "Spring Bank Holiday"
+        },
+        {
+          "date": "2027-08-30",
+          "name": "Late Summer Bank Holiday",
+          "localName": "Late Summer Bank Holiday"
         },
         {
           "date": "2027-12-25",

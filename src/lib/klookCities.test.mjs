@@ -30,3 +30,14 @@ test('a mapped city keeps its own page even when a country is given', () => {
   const m = KLOOK_CITY.Singapore;
   assert.equal(klookCityDest('Singapore', 'es', 'Singapore'), `https://www.klook.com/es/destination/c${m.id}-${m.slug}/`);
 });
+
+// 2026-10-05: Klook does not publish every city in every locale; the localized
+// URL of such a city lands on "page not found".
+test('a city missing from a Klook locale goes to its English page instead', () => {
+  const m = KLOOK_CITY.Izmir;
+  assert.equal(klookCityDest('Izmir', 'ko', 'Turkey'), `https://www.klook.com/en-US/destination/c${m.id}-${m.slug}/`);
+  assert.equal(klookCityDest('Izmir', 'en-US', 'Turkey'), `https://www.klook.com/en-US/destination/c${m.id}-${m.slug}/`);
+  const b = KLOOK_CITY.Bodrum;
+  assert.equal(klookCityDest('Bodrum', 'es', 'Turkey'), `https://www.klook.com/en-US/destination/c${b.id}-${b.slug}/`);
+  assert.equal(klookCityDest('Bodrum', 'ko', 'Turkey'), `https://www.klook.com/ko/destination/c${b.id}-${b.slug}/`);
+});

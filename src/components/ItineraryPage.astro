@@ -688,7 +688,7 @@ const coverImage = mosaic[0]?.src;
         <strong class="ith-card-title">{u('stayTitle')}</strong>
         <p class="ith-card-dek">{u('stayDek', { city: regionLabel })}</p>
         <a class="ith-btn ith-btn--dark" href={stayHref} target="_blank" rel="sponsored noopener">{u('stayCta', { city: regionLabel })}</a>
-        <p class="tp-disclosure">{t('widget.livePrices')}</p>
+        <p class="tp-disclosure">{t('widget.hotelsDisclosure')}</p>
       </section>
       <div class="ith-side-actions">
         <SaveButton slug={`itinerary-${itinerary.id}`} title={title} region={regionLabel} country={countryLabel} href={Astro.url.pathname} image={coverImage} lang={lang} compact />

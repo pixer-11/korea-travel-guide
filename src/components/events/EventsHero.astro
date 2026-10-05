@@ -18,13 +18,18 @@ interface Props {
   // The dek's event count. dek then carries "{n}" where it goes, so the page
   // can recount it by each venue's date (Codex C8, 10-01).
   dekN?: number;
+  // The dek when the count is zero (a country whose events have all ended):
+  // "0 upcoming events … Each one leads on to" read as a broken sentence on
+  // /events/uzbekistan/ (2026-10-05 audit). Swapped in at build time and again
+  // by the in-browser recount.
+  dekNone?: string;
   stats: { now: number; week: number; today: number };
   icsHref: string;
   flag?: string;
   note?: string;            // e.g. the editor-traveled line, only when true
   links?: { label: string; href: string }[];
 }
-const { lang, crumbs, h1a, h1b, dek, dekN, stats, icsHref, flag, note, links = [] } = Astro.props as Props;
+const { lang, crumbs, h1a, h1b, dek, dekN, dekNone, stats, icsHref, flag, note, links = [] } = Astro.props as Props;
 const dekParts = dekN === undefined ? [dek] : dek.split('{n}');
 const t = useTranslations(lang);
 const e = evStrings(lang);
@@ -45,7 +50,8 @@ const long = h1a.length > 14;
         ))}
       </nav>
       <h1 class:list={['evh-h1', { 'evh-h1--long': long }]}>{h1a}<span>{h1b}</span></h1>
-      <p class="evh-dek">{dekParts.map((part, i) => <>{i > 0 && <span data-ev-up>{dekN}</span>}{part}</>)}</p>
+      <p class="evh-dek" data-ev-dek-some hidden={!!dekNone && dekN === 0}>{dekParts.map((part, i) => <>{i > 0 && <span data-ev-up>{dekN}</span>}{part}</>)}</p>
+      {dekNone && <p class="evh-dek" data-ev-dek-none hidden={dekN !== 0}>{dekNone}</p>}
       {note && <p class="evh-note">{note}</p>}
       {links.length > 0 && (
         <p class="evh-links">{links.map((l) => <a href={l.href}>{l.label}</a>)}</p>
@@ -82,7 +88,12 @@ const long = h1a.length > 14;
     if (s >= t && s <= t + 6) week++;
     if (el.dataset.end && dayOf(el.dataset.end) === t) end++;
   }
-  if (rows.length) for (const x of document.querySelectorAll<HTMLElement>('[data-ev-up]')) x.textContent = String(up);
+  if (rows.length) {
+    for (const x of document.querySelectorAll<HTMLElement>('[data-ev-up]')) x.textContent = String(up);
+    const none = document.querySelector<HTMLElement>('[data-ev-dek-none]');
+    const some = document.querySelector<HTMLElement>('[data-ev-dek-some]');
+    if (none && some) { none.hidden = up !== 0; some.hidden = up === 0; }
+  }
   for (const panel of document.querySelectorAll<HTMLElement>('[data-ev-stats]')) {
     const set = (k: string, v: number) => { const x = panel.querySelector(`[data-stat="${k}"]`); if (x) x.textContent = String(v); };
     set('now', now); set('week', week); set('today', end);

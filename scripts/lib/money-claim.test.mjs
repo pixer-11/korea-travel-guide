@@ -85,3 +85,11 @@ test('검증 단계는 감사 하나가 실패해도 나머지를 끝까지 돌�
   for (const l of lines) assert.match(l, /\|\| rc=1\s*$/, `실패가 뒤를 끊는 줄: ${l.trim()}`);
   assert.match(step, /exit \$rc/, '끝에서 모은 실패를 돌려주지 않는다 — 경고 단계가 안 뜬다');
 });
+
+// 2026-10-05: a bare "bill" exempted a restaurant bill.
+test('a restaurant bill is a price; a "$5 bill" banknote is not', async () => {
+  const { moneyClaims } = await import('./money-claim.mjs');
+  assert.ok(moneyClaims('Budget a mid-range bill (roughly ฿300–600 per person) for two dishes.').length > 0);
+  assert.ok(moneyClaims('Expect a bill in the ¥5,000–7,000 range per person.').length > 0);
+  assert.deepEqual(moneyClaims('The museum shows the old $5 bill that went out of print.'), []);
+});

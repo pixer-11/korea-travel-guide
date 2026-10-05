@@ -3742,5 +3742,17 @@
     "ja": "重陽節の翌日",
     "es": "Día siguiente al Festival de Chong Yang",
     "zh": "重阳节翌日"
+  },
+  "United Kingdom|Easter Monday": {
+    "ko": "부활절 월요일",
+    "ja": "イースターマンデー",
+    "es": "Lunes de Pascua",
+    "zh": "复活节星期一"
+  },
+  "United Kingdom|Late Summer Bank Holiday": {
+    "ko": "서머 뱅크 홀리데이",
+    "ja": "サマー・バンク・ホリデー",
+    "es": "Día festivo de finales de verano",
+    "zh": "夏末银行假日"
   }
 }

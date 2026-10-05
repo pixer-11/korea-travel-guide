@@ -33,7 +33,10 @@ const cityLabel = localizePlace(city, lang);
 // robots-disallowed and converts worse); unmapped falls back to search.
 const klookHref = city
   ? tiqetsCityUrl({ city, country, lang, subId: 'plantrip_tours' }) ?? `/go/klook?to=${encodeURIComponent(klookCityDest(city, klookLocale(lang), country))}`
-  : 'https://klook.tpx.lv/2NXPH8MA';
+  // No city (when-to-go country pages): Klook's home in the reader's language,
+  // through our relay so the click carries a SubID. The raw short link sent
+  // every reader to the English home with no SubID (2026-10-05 audit).
+  : `/go/klook?to=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/`)}&sub_id=${encodeURIComponent(`plantrip_${(country ?? 'home').toLowerCase().replace(/[^a-z0-9]+/g, '_')}`)}`;
 
 const esimSlug = country ? countriesData.countries.find((c) => c.name === country)?.slug : undefined;
 const esimGuide = !!esimSlug && !!(esimFacts as Record<string, unknown>)[esimSlug];

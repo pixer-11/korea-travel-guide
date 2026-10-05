@@ -18,7 +18,7 @@ import { siteHref } from '../lib/urls.mjs';
 import Newsletter from './Newsletter.astro';
 import { getCollection } from 'astro:content';
 import { heroOf, TOOL_OG } from '../lib/toolOgPhoto.mjs';
-import { useTranslations, localizePath, type Lang } from '../i18n/utils';
+import { useTranslations, localizePath, klookLocale, type Lang } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
 import { resolveBusyness, quietDayGroups, perDayBusyness, dayGroupKind, dayGroupText, DAY_NAMES } from '../lib/busyness.mjs';
 import { formatHour, formatHourRanges } from '../lib/hours.mjs';
@@ -605,7 +605,7 @@ const cellCls = { q: 'quiet', b: 'busy', m: 'mid', x: 'closed' } as const;
         <p>{T.ticketsBody}</p>
       </div>
       <div class="bt-tickets-cta">
-        <a class="bt-btn bt-btn-cta" href="https://klook.tpx.lv/2NXPH8MA" target="_blank" rel="sponsored noopener" data-affiliate-placement="besttime-tickets">{T.ticketsCta}</a>
+        <a class="bt-btn bt-btn-cta" href={`/go/klook?to=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/`)}&sub_id=besttime_tickets`} target="_blank" rel="sponsored noopener" data-affiliate-placement="besttime-tickets">{T.ticketsCta}</a>
         <a class="bt-btn bt-btn-ghost" href={localizePath('/itinerary', lang)}>{T.itinCta}</a>
       </div>
     </div>

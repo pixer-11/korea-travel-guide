@@ -1,12 +1,12 @@
 ---
 title: 'Hoi An Lantern Festival: Dates, Tickets & Venue (Hoi An)'
-description: The Hoi An Lantern Festival takes place in Hoi An's Old Town on the 14th day of every lunar month, and this edition is listed for October 15, 2026.
+description: The Hoi An Lantern Festival takes place in Hoi An's Old Town on the 14th day of every lunar month, and this edition is listed for October 23, 2026.
 country: Vietnam
 region: Hoi An
 category: event
 pubDate: '2026-10-01'
-eventStartDate: '2026-10-15'
-eventEndDate: '2026-10-15'
+eventStartDate: '2026-10-23'
+eventEndDate: '2026-10-23'
 eventRecurring: true
 eventVenue: Thu Bon River, Hoi An Old Town
 eventFactsAsked: true
@@ -22,10 +22,10 @@ gallery: []
 tags:
   - hoi an
   - event
-quickAnswer: 'The Hoi An Lantern Festival takes place in Hoi An''s Old Town on the 14th day of every lunar month, and this edition is listed for October 15, 2026. There is no separate festival ticket: you walk the riverside for free, though the standard Old Town entry ticket covers the heritage zone. Confirm the date and ticket rules on the official Hoi An tourism site before you go, because the lunar calendar sets the date.'
+quickAnswer: 'The Hoi An Lantern Festival takes place in Hoi An''s Old Town on the 14th day of every lunar month, and this edition is listed for October 23, 2026. There is no separate festival ticket: you walk the riverside for free, though the standard Old Town entry ticket covers the heritage zone. Confirm the date and ticket rules on the official Hoi An tourism site before you go, because the lunar calendar sets the date.'
 faq:
   - q: When is the Hoi An Lantern Festival in 2026?
-    a: It's held on the 14th day of every lunar month. This edition is listed for October 15, 2026. The date comes from the lunar calendar, so confirm it on the official Hoi An tourism site before you book travel.
+    a: It's held on the 14th day of every lunar month. This edition is listed for October 23, 2026. The date comes from the lunar calendar, so confirm it on the official Hoi An tourism site before you book travel.
   - q: Do I need a ticket for the Hoi An Lantern Festival?
     a: There's no separate festival ticket. The standard Hoi An Old Town entry ticket covers the heritage zone and is sold at booths on the edges of the Old Town, where the current price is posted. Boat rides and floating lanterns are paid for separately, in cash, to the riverside vendors.
   - q: Where is the best place to watch the lanterns?
@@ -48,7 +48,7 @@ The town is the setting here. Hoi An Ancient Town has been a UNESCO World Herita
 
 The festival follows the moon, not the Gregorian calendar. It falls on the 14th day of each lunar month, the night before the full moon. It comes round roughly every four weeks, so if you miss one, another is never far off.
 
-The date listed for this edition is **October 15, 2026**. Lunar dates are easy to misread when you convert them, so check this one against the official Hoi An tourism calendar before you book anything that can't be refunded.
+The date listed for this edition is **October 23, 2026**. Lunar dates are easy to misread when you convert them, so check this one against the official Hoi An tourism calendar before you book anything that can't be refunded.
 
 A few things to know about the timing:
 

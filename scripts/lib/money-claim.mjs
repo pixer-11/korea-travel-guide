@@ -20,7 +20,12 @@ const AMOUNT = new RegExp(`(?:${CURRENCY_SYMBOL}|${CURRENCY_RP}|${CURRENCY_WORD}
 
 // 액수가 "오늘 낼 돈"이 아닌 경우: 지폐·동전·수집품·역사적 금액.
 const NOT_A_PRICE = [
-  /\b(note|banknote|bill|coin|coins|stamp|currency)\b/i,
+  // "bill" only as a banknote right after the amount ("a $5 bill"): a bare
+  // "bill" anywhere in the window also exempted a restaurant bill — "budget a
+  // mid-range bill (roughly ฿300–600 per person)" stayed live in five languages
+  // through the 09-21 repair (2026-10-05 audit).
+  /\b(note|banknote|coin|coins|stamp|currency)\b/i,
+  /[$€£¥₩₫฿]\s?\d[\d,.]*\s+bills?\b/i,
   // "built" 는 건설비일 때만: "built for $2 million", "built in 1961 at a cost of
   // $2 million". 맨 "built" 는 "a bowl of phở priced at $100, built with luxury
   // ingredients" 의 메뉴 가격까지 풀어 줬다(09-25).

@@ -53,14 +53,7 @@ place:
 tags:
   - da nang
   - local restaurant
-quickAnswer: >-
-  Bếp Cuốn Đà Nẵng, a Michelin Selected restaurant for 2025-2026, specializes in
-  Vietnamese "cuốn" (fresh rolls and wrap-your-own dishes) at 31-33 Trần Bạch
-  Đằng in the An Hải area on the east bank of the Han River. Expect a mid-range
-  bill (roughly 200,000-400,000 VND per person), a lively open-plan dining room,
-  and dishes built around rice paper, herbs, and grilled or steamed meats and
-  seafood. Go for an early dinner (around 5:30-6 pm) on a weekday to beat the
-  queue that its 4.9-star, 17,000+ review reputation now draws nightly.
+quickAnswer: Bếp Cuốn Đà Nẵng, a Michelin Selected restaurant for 2025-2026, specializes in Vietnamese "cuốn" (fresh rolls and wrap-your-own dishes) at 31-33 Trần Bạch Đằng in the An Hải area on the east bank of the Han River. Expect a mid-range bill for the city, a lively open-plan dining room, and dishes built around rice paper, herbs, and grilled or steamed meats and seafood. Go for an early dinner (around 5:30-6 pm) on a weekday to beat the queue that its 4.9-star, 17,000+ review reputation now draws nightly.
 faq:
   - q: Do I need a reservation at Bếp Cuốn Đà Nẵng?
     a: It's highly recommended given its Michelin Selected status and thousands of reviews. Try booking through the restaurant's official contact, a hotel concierge, or a reservation platform, especially for weekend dinners between 6:30 and 8:30 pm.
