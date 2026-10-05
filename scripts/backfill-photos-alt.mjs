@@ -35,7 +35,7 @@ import yaml from 'js-yaml';
 import { loadUsedImageUrls, resolveHero, eventTopic, EVENT_HERO_MIN_WIDTH } from './lib/images.mjs';
 import { probeWidth, upsizeFlickr, widthVerdict, UNUSABLE_WIDTH } from './lib/image-width.mjs';
 import { keyToken, tokens, COMMON_ANCHOR } from './lib/commons.mjs';
-import { foreignInFilename, geoTokens } from './lib/event-file-identity.mjs';
+import { foreignInFilename, geoTokens, fileNamesPerformer } from './lib/event-file-identity.mjs';
 import { candidateBudget, DEAD_END_REFUSALS, SHARED_HERO_WANT } from './lib/candidate-budget.mjs';
 import { eventProperName, eventAcronym } from '../src/lib/eventName.mjs';
 import { venuePhotoCandidates, openversePhotos } from './lib/photo-sources.mjs';
@@ -404,7 +404,7 @@ for (const f of files) {
         });
       } catch {}
       if (!pick?.url || pick.license !== 'wikimedia') break; // placeholder → no candidates left
-      const foreign = foreignInFilename(pick.url, { known: knownTok, anchor, via: pick.via, geo: geoTokens(world), name: properName, acronym: eventAcronym(venueName) });
+      const foreign = foreignInFilename(pick.url, { known: knownTok, anchor, via: pick.via, geo: geoTokens(world), name: properName, acronym: eventAcronym(venueName), performer: data.eventPerformer?.name || '' });
       // resolveHero already marked the reject in `seen`, so the next round
       // surfaces a different file rather than this one again.
       if (foreign) { budget.refused(); console.log(`   ${slug}: candidate skipped — filename names another act (${foreign})`); continue; }
@@ -614,7 +614,10 @@ for (const f of files) {
       // The cityscape tier's identity IS the place: judge against the city,
       // not the event name (a Dubai skyline can never "name" DSS).
       ? await judgeCandidate(cand, { country: data.country || '', region: data.region, venueName: data.region }, world)
-      : isEvent && (cand.via === 'phrase' || cand.via === 'openverse-act')
+      // A file that names the performer is that act on some other night: the
+      // owner's rule is any photo of the singer or band (2026-10-06 — Avenged
+      // Sevenfold's Paris shows were refused as "post says Jakarta").
+      : isEvent && (cand.via === 'phrase' || cand.via === 'openverse-act' || fileNamesPerformer(cand.url, data.eventPerformer?.name))
         // openverse-act: identity was the act's name in the uploader's title,
         // and a tour photo's PLACE is some past city — place-testing it is
         // wrong by construction, same as the phrase case above.

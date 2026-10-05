@@ -238,3 +238,28 @@ test('진짜 그 출연자·그 행사의 사진은 계속 통과한다', () => 
     assert.equal(actVerdict(title, region, country, file), '', `거부하면 안 됨: ${file}`);
   }
 });
+
+// 2026-10-06 (픽서님 "몇번이나 말했잖아"): 가수·밴드 글은 그 가수의 어떤 사진이든
+// 된다(09-07 결정). 그런데 파일명 검사는 공연자 이름을 몰라 제목 첫 단어 하나만 봤고,
+// "Guns N' Roses at PreZero Gliwice" 를 "다른 공연"으로 버렸다.
+test('a file that names the performer in full is that act, wherever it was shot', async () => {
+  const { fileNamesPerformer } = await import('./event-file-identity.mjs');
+  const withPerformer = (title, region, country, performer, file) => foreignInFilename(U(file), {
+    known: known(title, region, country), anchor: keyToken(title, `${region} ${country}`),
+    via: 'act', geo: REAL_GEO, name: eventProperName(title), performer,
+  });
+  const gnr = ["Guns N' Roses India Tour: Dates, Tickets & Venue (Bengaluru)", 'Bengaluru', 'India', "Guns N' Roses"];
+  // 고치기 전엔 거부됐다 — 공연자 이름 없이는 지금도 거부(같은 판정의 다른 절반)
+  assert.notEqual(actVerdict(gnr[0], gnr[1], gnr[2], "Guns N' Roses at PreZero Gliwice 2025 (12).jpg"), '');
+  for (const f of ["Guns N' Roses at PreZero Gliwice 2025 (12).jpg", "Guns N' Roses in Porto Alegre 2022.jpg", 'Guns and Roses live Tokyo 1992.jpg']) {
+    assert.equal(withPerformer(...gnr, f), '', f);
+  }
+  assert.equal(withPerformer('Jason Mraz Bangkok 2026: Dates (Bangkok)', 'Bangkok', 'Thailand', 'Jason Mraz', 'Jason Mraz Melbourne 2009 03.jpg'), '');
+  // 다른 사람은 여전히 막힌다: 이름 일부만 있는 파일, 흔한 이름 하나
+  assert.notEqual(withPerformer(...gnr, 'Roses in the Gliwice park.jpg'), '');
+  assert.notEqual(withPerformer('Khalid Concert (Goyang)', 'Goyang', 'South Korea', 'Khalid', 'State Minister Khalid Mahmud Chowdhury at Shilpakala Academy Dhaka.jpg'), '');
+  // 장소 검사 면제용 판정: 한 단어는 흔하지 않은 이름일 때만
+  assert.equal(fileNamesPerformer(U('BABYMONSTER in Seattle.jpg'), 'BABYMONSTER'), true);
+  assert.equal(fileNamesPerformer(U('Avenged Sevenfold - Paris 2023 (4).jpg'), 'Avenged Sevenfold'), true);
+  assert.equal(fileNamesPerformer(U('Old football in Jakarta.jpg'), 'Avenged Sevenfold'), false);
+});

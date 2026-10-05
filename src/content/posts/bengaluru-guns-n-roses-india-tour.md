@@ -13,7 +13,6 @@ eventPerformer:
   name: Guns N' Roses
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - bengaluru
   - event
@@ -31,6 +30,14 @@ faq:
     a: The main sights are in central Bengaluru, not near the venue. Try breakfast at MTR on Lalbagh Road, a walk through Lalbagh Botanical Garden or Cubbon Park, and an evening around Church Street and MG Road.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Guns_N%27_Roses_at_Back_to_the_Beginning.jpg/3840px-Guns_N%27_Roses_at_Back_to_the_Beginning.jpg
+  credit: 'Photo: Keiran Bowers / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Guns_N%27_Roses_at_Back_to_the_Beginning.jpg
+  focus:
+    x: 50
+    'y': 35
 ---
 
 ## November Rain, in November

@@ -13,7 +13,6 @@ eventPerformer:
   name: Hans Zimmer
   kind: person
 eventFactsAsked: true
-gallery: []
 tags:
   - sydney
   - event
@@ -31,6 +30,16 @@ faq:
     a: The show is built around his film scores. His catalogue includes The Lion King, Gladiator, Inception, Interstellar and Dune. The exact setlist and performers are not part of the announced details, so check the official tour page.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/7/74/Hans_Zimmer_live_-_Hans_Zimmer_live_-_Rusanda_Panfili%2C_Mariko_Muranaka_and_Molly_Rogers.jpg
+  credit: 'Photo: kitmasterbloke / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Hans_Zimmer_live_-_Hans_Zimmer_live_-_Rusanda_Panfili,_Mariko_Muranaka_and_Molly_Rogers.jpg
+  focus:
+    x: 53
+    'y': 13
+    top: 9
+    bottom: 17
 ---
 
 ## Sydney gets the final night

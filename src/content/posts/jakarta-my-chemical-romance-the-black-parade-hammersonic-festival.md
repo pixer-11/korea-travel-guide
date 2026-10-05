@@ -13,7 +13,6 @@ eventPerformer:
   name: My Chemical Romance
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - jakarta
   - event
@@ -31,6 +30,14 @@ faq:
     a: It's the rainy season. Expect hot, humid evenings and the chance of heavy rain, so bring a poncho if umbrellas aren't allowed.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/My_Chemical_Romance_at_Qudos_Arena_in_March_2023_68.jpg/3840px-My_Chemical_Romance_at_Qudos_Arena_in_March_2023_68.jpg
+  credit: 'Photo: Chris.sherlock2 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:My_Chemical_Romance_at_Qudos_Arena_in_March_2023_68.jpg
+  focus:
+    x: 50
+    'y': 40
 ---
 
 ## A hospital-ward album in an 80,000-seat bowl

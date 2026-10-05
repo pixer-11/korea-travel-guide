@@ -282,34 +282,7 @@ export async function commonsCandidates(query, limit = 10, subject = '', near = 
   };
 
   const keep = (pages) => Object.values(pages || {})
-    .map((p) => {
-      const ii = p.imageinfo?.[0];
-      if (!ii || !/image\/(jpe?g|png)/i.test(ii.mime || '')) return null;
-      const em = ii.extmetadata || {};
-      const license = stripHtml(em.LicenseShortName?.value) || '';
-      const artist = shortArtist(stripHtml(em.Artist?.value)) || 'Wikimedia Commons contributor';
-      const assessment = stripHtml(em.Assessments?.value).toLowerCase();
-      const title = (p.title || '').replace(/^File:/, '').replace(/\.(jpe?g|png)$/i, '');
-      return {
-        title,
-        index: p.index ?? 999,
-        url: cleanCommonsUrl(ii.thumburl || ii.url),
-        // The SERVED size: MediaWiki answers a request for a 2400px thumb of a
-        // 500px original with the original, yet reports thumbwidth=2400. Trusting
-        // that passed a 500px dog through a 1024px floor every night (2026-10-05).
-        w: servedDim(ii.thumbwidth, ii.width),
-        h: servedDim(ii.thumbheight, ii.height),
-        featured: /featured|quality|valued/.test(assessment),
-        credit: `Photo: ${artist} / Wikimedia Commons (${license || 'CC'})`,
-        license: 'wikimedia',
-        source:
-          ii.descriptionurl ||
-          `https://commons.wikimedia.org/wiki/${encodeURIComponent(p.title || '')}`,
-        licenseShort: license,
-        lat: p.coordinates?.[0]?.lat ?? null,
-        lng: p.coordinates?.[0]?.lon ?? null,
-      };
-    })
+    .map(pageToCandidate)
     .filter(Boolean)
     // Geotagged somewhere else entirely — a different place with the same name.
     // Untagged files pass: most Commons uploads carry no coordinates, and
@@ -318,19 +291,8 @@ export async function commonsCandidates(query, limit = 10, subject = '', near = 
       if (!near?.lat || !near?.lng || c.lat == null) return true;
       return haversine(near.lat, near.lng, c.lat, c.lng) <= SAME_PLACE_KM;
     })
-    // keep only clearly-free licenses (drops "all rights reserved" edge cases)
-    .filter((c) => /cc|public domain|pdm|cc0|fal/i.test(c.licenseShort))
-    // A photo can be genuinely OF the subject and still be unusable. Commons has
-    // deep archives, so searching a landmark surfaces its construction site, its
-    // closure notice, its floor plan and its plaque alongside the landmark — and
-    // a vision check passes all of them, because they ARE about it. A Cloud Gate
-    // carousel went out with a crane lifting the unfinished frame and a blurred
-    // "temporarily closed" sign.
-    .filter((c) => !UNUSABLE_SUBJECT.test(c.title))
+    .filter(usableFile)
     .filter((c) => namesSubjectNotVantage(c.title, subject))
-    // Below 1200px is upscaling into a 1080-wide social card; the closure-notice
-    // slide shipped visibly soft.
-    .filter((c) => (c.w || 0) >= 1200)
     .sort((a, b) => a.index - b.index);
 
   // With coordinates, the geo-limited search is the ONLY search. Falling back to
@@ -341,6 +303,84 @@ export async function commonsCandidates(query, limit = 10, subject = '', near = 
   // (Cloud Gate) has no free photos of the sculpture at all, US copyright law
   // being what it is, and a short carousel is the right answer there.
   return keep(await ask(geoQuery)).slice(0, limit);
+}
+
+// The photos FILED under a performer on Commons. Category membership is the
+// identity: Haddaway's 50 stage shots are named "Sunshine Live - Die 90er Live
+// on Stage - … DV3P5579", with no name in them, so no filename rule could ever
+// find them, and a text search for "Khalid" or "Joji" returns a Bangladeshi
+// minister and a Japanese dancer while Category:Khalid (singer) holds his 2018
+// Seoul show (2026-10-06, owner: a singer's post may carry any photo of them).
+// Disambiguated categories first; the bare name is tried last, and Commons
+// keeps a bare category empty when the name is shared (Category:Khalid: 0).
+const PERFORMER_SUFFIXES = ['singer', 'musician', 'band', 'group', 'rapper', 'South Korean group', 'Japanese group', 'DJ', 'composer'];
+export async function performerCategoryPhotos(name, { limit = 8 } = {}) {
+  const n = String(name ?? '').trim();
+  if (!n) return [];
+  for (const cat of [...PERFORMER_SUFFIXES.map((s) => `${n} (${s})`), n]) {
+    const url = 'https://commons.wikimedia.org/w/api.php?action=query&format=json' +
+      '&generator=categorymembers&gcmtype=file&gcmlimit=50&gcmtitle=' + encodeURIComponent(`Category:${cat}`) +
+      '&prop=imageinfo&iiprop=url|extmetadata|mime|size&iiurlwidth=2400&origin=*';
+    let pages = null;
+    try {
+      const r = await cfetch(url);
+      if (r.ok) pages = (await r.json().catch(() => null))?.query?.pages ?? null;
+    } catch {}
+    const found = Object.values(pages || {}).map(pageToCandidate).filter(Boolean)
+      .filter(usableFile)
+      // biggest first: the banner wants the sharpest of the act's photos
+      .sort((a, b) => (b.w || 0) - (a.w || 0))
+      .map((c) => ({ ...c, via: 'performer-category', category: cat }));
+    if (found.length) return found.slice(0, limit);
+  }
+  return [];
+}
+
+// One Commons API page → a hero candidate, or null when it is not a photo.
+function pageToCandidate(p) {
+  const ii = p.imageinfo?.[0];
+  if (!ii || !/image\/(jpe?g|png)/i.test(ii.mime || '')) return null;
+  const em = ii.extmetadata || {};
+  const license = stripHtml(em.LicenseShortName?.value) || '';
+  const artist = shortArtist(stripHtml(em.Artist?.value)) || 'Wikimedia Commons contributor';
+  const assessment = stripHtml(em.Assessments?.value).toLowerCase();
+  const title = (p.title || '').replace(/^File:/, '').replace(/\.(jpe?g|png)$/i, '');
+  return {
+    title,
+    index: p.index ?? 999,
+    url: cleanCommonsUrl(ii.thumburl || ii.url),
+    // The SERVED size: MediaWiki answers a request for a 2400px thumb of a
+    // 500px original with the original, yet reports thumbwidth=2400. Trusting
+    // that passed a 500px dog through a 1024px floor every night (2026-10-05).
+    w: servedDim(ii.thumbwidth, ii.width),
+    h: servedDim(ii.thumbheight, ii.height),
+    featured: /featured|quality|valued/.test(assessment),
+    credit: `Photo: ${artist} / Wikimedia Commons (${license || 'CC'})`,
+    license: 'wikimedia',
+    source:
+      ii.descriptionurl ||
+      `https://commons.wikimedia.org/wiki/${encodeURIComponent(p.title || '')}`,
+    licenseShort: license,
+    lat: p.coordinates?.[0]?.lat ?? null,
+    lng: p.coordinates?.[0]?.lon ?? null,
+  };
+}
+
+// Free licence, a real photo subject, and wide enough for the banner. Shared by
+// the text search and the performer category so the two cannot drift apart.
+function usableFile(c) {
+  // keep only clearly-free licenses (drops "all rights reserved" edge cases)
+  if (!/cc|public domain|pdm|cc0|fal/i.test(c.licenseShort)) return false;
+  // A photo can be genuinely OF the subject and still be unusable. Commons has
+  // deep archives, so searching a landmark surfaces its construction site, its
+  // closure notice, its floor plan and its plaque alongside the landmark — and
+  // a vision check passes all of them, because they ARE about it. A Cloud Gate
+  // carousel went out with a crane lifting the unfinished frame and a blurred
+  // "temporarily closed" sign.
+  if (UNUSABLE_SUBJECT.test(c.title)) return false;
+  // Below 1200px is upscaling into a 1080-wide social card; the closure-notice
+  // slide shipped visibly soft.
+  return (c.w || 0) >= 1200;
 }
 
 /**

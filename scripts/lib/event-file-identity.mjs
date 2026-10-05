@@ -153,6 +153,37 @@ function namesTheEvent(ft, name, geo) {
   return false;
 }
 
+// Does the FILE name the performer (frontmatter eventPerformer.name)? The
+// owner's rule since 09-07: a singer's or band's post may carry ANY photo of
+// that act — another city's show, another year, off stage. Before this the
+// act test saw only the one-word anchor of the TITLE ("guns" for Guns N'
+// Roses), so "Guns N' Roses at PreZero Gliwice" was refused as "names another
+// act (prezero gliwice)", and the post went out with a typeset cover while
+// Commons held dozens of the band (2026-10-06, owner: "몇번이나 말했잖아").
+//   · two or more name words, contiguous and in order ("guns n roses",
+//     "jason mraz", "avenged sevenfold") — specific on its own;
+//   · one word only when it is a name, not an ordinary word, and 4+ letters
+//     ("babymonster", "joji"); a common first name alone ("Khalid") still
+//     needs the anchor rule's corroboration in foreignInFilename.
+export function fileNamesPerformer(url, performer, { singleWord = true } = {}) {
+  const run = allWords(String(performer ?? '')).filter((t) => !/\d/.test(t));
+  if (!run.length) return false;
+  const words = fileWords(url).filter((t) => !/\d/.test(t));
+  if (run.length === 1) {
+    const w = run[0];
+    return singleWord && w.length >= 4 && !isCommonAnchor(w) && words.includes(w);
+  }
+  const contiguous = (r, ws) => {
+    for (let i = 0; i + r.length <= ws.length; i++) if (r.every((t, j) => ws[i + j] === t)) return true;
+    return false;
+  };
+  if (contiguous(run, words)) return true;
+  // "Guns N' Roses" is also written "Guns and Roses" / "Guns Roses": compare
+  // without the 1-2 letter joiners, still requiring 2+ real words.
+  const long = run.filter((t) => t.length > 2);
+  return long.length >= 2 && contiguous(long, words.filter((t) => t.length > 2 && t !== 'and'));
+}
+
 // Returns '' when the file is identity-safe, otherwise the leftover words that
 // make it some other thing's photo (for the log).
 // `geo`: place-name tokens (the site's countries and regions plus the hub
@@ -166,7 +197,11 @@ function namesTheEvent(ft, name, geo) {
 // Vegetarian Festival NN.jpg" were refused as "names another act (face
 // piercing)" until this existed (2026-08-30). See namesTheEvent for why the
 // bare anchor token is not enough.
-export function foreignInFilename(url, { known, anchor = '', via = '', geo = null, name = '', acronym = '' }) {
+export function foreignInFilename(url, { known, anchor = '', via = '', geo = null, name = '', acronym = '', performer = '' }) {
+  // A file that names the act in full is the act, wherever and whenever it
+  // was shot (fileNamesPerformer). Multi-word names only here: a lone first
+  // name ("Khalid") is too common to clear "State Minister Khalid, Dhaka".
+  if (performer && fileNamesPerformer(url, performer, { singleWord: false })) return '';
   const ft = fileTokens(url);
   const leftovers = ft.filter((t) =>
     !known.has(t) && !GENERIC_FILE_WORDS.has(t) &&

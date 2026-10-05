@@ -13,7 +13,6 @@ eventPerformer:
   name: Guns N' Roses
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - jakarta
   - event
@@ -31,6 +30,16 @@ faq:
     a: Plaza Senayan and Senayan City are right beside the complex and both have large food courts. FX Sudirman is a short walk up Jalan Sudirman.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Guns_N_Roses_in_concert_in_London_on_1_July_2022_Axl_Rose.jpg/3840px-Guns_N_Roses_in_concert_in_London_on_1_July_2022_Axl_Rose.jpg
+  credit: 'Photo: Ian Hughes (photos · photo sets) / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Guns_N_Roses_in_concert_in_London_on_1_July_2022_Axl_Rose.jpg
+  focus:
+    x: 86
+    'y': 27
+    top: 24
+    bottom: 29
 ---
 
 ## A ring of concrete off Jalan Sudirman

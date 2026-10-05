@@ -18,7 +18,6 @@ eventPerformer:
   name: The Weeknd
   kind: person
 eventFactsAsked: true
-gallery: []
 tags:
   - hong kong
   - event
@@ -36,6 +35,16 @@ faq:
     a: Kowloon City and Kowloon Bay are both a short ride from Kai Tak and offer far more variety than the stadium's concession stands, so eating beforehand is the better plan.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/e/e2/The_Weeknd_at_2012_Coachella_side_shot.jpg
+  credit: 'Photo: Fred von Lohmann / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:The_Weeknd_at_2012_Coachella_side_shot.jpg
+  focus:
+    x: 37
+    'y': 15
+    top: 7
+    bottom: 23
 ---
 
 Four nights, one stadium, one artist: The Weeknd plays Kai Tak Stadium on October 24, 25, 30 and 31, 2026 as part of the After Hours Til Dawn Tour. Splitting the run into two pairs of shows a few days apart is a scheduling choice that matters for you as a visitor, since it changes how you plan flights, hotel nights and whether you try for more than one date.

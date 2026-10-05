@@ -2031,6 +2031,36 @@
   "reason": "patrol reject: audit: High-rise cityscape view, not Bangkok venue interior",
   "at": "2026-10-01T23:22:35.628Z"
  },
+ "bangkok-jason-mraz-bangkok-2026\u0001https://upload.wikimedia.org/wikipedia/commons/1/1d/Jason_Mraz.jpg": {
+  "slug": "bangkok-jason-mraz-bangkok-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Random man in Disneyland hoodie, not Jason Mraz",
+  "at": "2026-10-05T15:06:37.651Z"
+ },
+ "bangkok-jason-mraz-bangkok-2026\u0001https://upload.wikimedia.org/wikipedia/commons/5/57/Jason_Mraz_en_concert.jpg": {
+  "slug": "bangkok-jason-mraz-bangkok-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Melbourne, post says Bangkok",
+  "at": "2026-10-05T15:06:49.117Z"
+ },
+ "bangkok-jason-mraz-bangkok-2026\u0001https://upload.wikimedia.org/wikipedia/commons/a/a3/Flickr_-_moses_namkung_-_Jason_Mraz_3.jpg": {
+  "slug": "bangkok-jason-mraz-bangkok-2026",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Performer on stage with guitar and microphone",
+  "at": "2026-10-05T15:17:58.932Z"
+ },
+ "bangkok-jason-mraz-bangkok-2026\u0001https://upload.wikimedia.org/wikipedia/commons/b/b8/Jason_Mraz_geek_in_the_pink.jpg": {
+  "slug": "bangkok-jason-mraz-bangkok-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Fan photo with unidentified people, not Jason Mraz or venue",
+  "at": "2026-10-05T15:06:39.779Z"
+ },
+ "bangkok-jason-mraz-bangkok-2026\u0001https://upload.wikimedia.org/wikipedia/commons/d/de/Jason_Mraz_and_Toca_Rivera.jpg": {
+  "slug": "bangkok-jason-mraz-bangkok-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic musicians, not identifiable as Jason Mraz or venue",
+  "at": "2026-10-05T15:06:41.915Z"
+ },
  "bangkok-khao-san-sek\u0001https://fastly.4sqi.net/img/general/original/19173375_C_1sc7A5qQMoZUCN0mINi4MwseHx24sAt6HJuqd0bN0.jpg": {
   "slug": "bangkok-khao-san-sek",
   "verdict": "MATCH",
@@ -3003,6 +3033,12 @@
   "verdict": "MATCH",
   "reason": "hand-reviewed: Chet Faker performing at Positivus 2014 — the act own photo (first tier). The corner text vision read as a watermark is the CC BY photographer credit.",
   "at": "2026-09-13T16:18:38.517Z"
+ },
+ "bengaluru-guns-n-roses-india-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Guns_N%27_Roses_at_Back_to_the_Beginning.jpg/3840px-Guns_N%27_Roses_at_Back_to_the_Beginning.jpg": {
+  "slug": "bengaluru-guns-n-roses-india-tour",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Large concert stage setup, crowd, festival atmosphere",
+  "at": "2026-10-05T15:08:36.169Z"
  },
  "bengaluru-lalbagh-botanical-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Lalbagh_Botanical_Gardens%2C_Bengaluru%2C_Karnataka%2C_India.jpg/3840px-Lalbagh_Botanical_Gardens%2C_Bengaluru%2C_Karnataka%2C_India.jpg": {
   "slug": "bengaluru-lalbagh-botanical-garden",
@@ -8591,6 +8627,24 @@
   "reason": "patrol re-check: Bread and butter dish photographed at restaurant table setting",
   "at": "2026-10-02T23:10:41.787Z"
  },
+ "hong-kong-the-weeknd-after-hours-til-dawn-tour\u0001https://upload.wikimedia.org/wikipedia/commons/0/04/FEQ_July_2018_The_Weeknd_%2844108174204%29.jpg": {
+  "slug": "hong-kong-the-weeknd-after-hours-til-dawn-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible photographer watermark overlaid on image",
+  "at": "2026-10-05T15:09:59.486Z"
+ },
+ "hong-kong-the-weeknd-after-hours-til-dawn-tour\u0001https://upload.wikimedia.org/wikipedia/commons/e/e2/The_Weeknd_at_2012_Coachella_side_shot.jpg": {
+  "slug": "hong-kong-the-weeknd-after-hours-til-dawn-tour",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Performer on stage at outdoor concert venue",
+  "at": "2026-10-05T15:10:06.121Z"
+ },
+ "hong-kong-the-weeknd-after-hours-til-dawn-tour\u0001https://upload.wikimedia.org/wikipedia/commons/f/f0/FEQ_July_2018_The_Weeknd_%2844828784951%29.jpg": {
+  "slug": "hong-kong-the-weeknd-after-hours-til-dawn-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible photographer watermark overlay",
+  "at": "2026-10-05T15:09:55.013Z"
+ },
  "hong-kong-the-weeknd-after-hours-til-dawn-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/The_Weeknd_Universal_Studios_Hollywood.jpg/3840px-The_Weeknd_Universal_Studios_Hollywood.jpg": {
   "slug": "hong-kong-the-weeknd-after-hours-til-dawn-tour",
   "verdict": "MISMATCH",
@@ -9547,6 +9601,18 @@
   "reason": "publish gate: Shows Sultanahmet Square with fountain, mosque, and plaza",
   "at": "2026-09-28T07:39:57.644Z"
  },
+ "istanbul-throwback-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Throwback_Restaurant_in_Koenji_%2853417008479%29.jpg/3840px-Throwback_Restaurant_in_Koenji_%2853417008479%29.jpg": {
+  "slug": "istanbul-throwback-festival-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Japanese izakaya storefront, unrelated to Istanbul festival",
+  "at": "2026-10-05T15:10:42.376Z"
+ },
+ "istanbul-throwback-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Throwback_20240114_122519.jpg/1920px-Throwback_20240114_122519.jpg": {
+  "slug": "istanbul-throwback-festival-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Sculpture in park, unrelated to Istanbul festival event",
+  "at": "2026-10-05T15:10:52.315Z"
+ },
  "istanbul-tiesto-live-istanbul-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Tiesto_%40_Spring_Awakening_6_11_2014_%2814476258533%29.jpg/3840px-Tiesto_%40_Spring_Awakening_6_11_2014_%2814476258533%29.jpg": {
   "slug": "istanbul-tiesto-live-istanbul-festival",
   "verdict": "MATCH",
@@ -9688,11 +9754,35 @@
   "reasonKo": "자이푸르 시티팰리스의 상징적 핑크색 건축",
   "at": "2026-08-17T13:25:01.783Z"
  },
+ "jakarta-avenged-sevenfold-jakarta-2026\u0001https://upload.wikimedia.org/wikipedia/commons/1/1a/Avenged_Sevenfold_in_Bercy_3.jpg": {
+  "slug": "jakarta-avenged-sevenfold-jakarta-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Paris, post says Jakarta",
+  "at": "2026-10-05T15:11:37.851Z"
+ },
  "jakarta-avenged-sevenfold-jakarta-2026\u0001https://upload.wikimedia.org/wikipedia/commons/2/21/Jakarta_old_football.jpg": {
   "slug": "jakarta-avenged-sevenfold-jakarta-2026",
   "verdict": "MISMATCH",
   "reason": "hand-reviewed 2026-10-05: unrelated — The Commons description is 'A young boy, in Jakarta Indonesia, holds a tattered football', 2004, with categories 'Slums in Jakarta' and 'Boys with association football balls' plus a personality-rights warning. The image ",
   "at": "2026-10-05T08:36:33.108Z"
+ },
+ "jakarta-avenged-sevenfold-jakarta-2026\u0001https://upload.wikimedia.org/wikipedia/commons/6/68/Avenged_Sevenfold_in_Bercy_1.jpg": {
+  "slug": "jakarta-avenged-sevenfold-jakarta-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Paris, post says Jakarta",
+  "at": "2026-10-05T15:11:26.293Z"
+ },
+ "jakarta-avenged-sevenfold-jakarta-2026\u0001https://upload.wikimedia.org/wikipedia/commons/b/bc/Avenged_Sevenfold_in_Bercy_5.jpg": {
+  "slug": "jakarta-avenged-sevenfold-jakarta-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Paris, post says Jakarta",
+  "at": "2026-10-05T15:11:44.043Z"
+ },
+ "jakarta-avenged-sevenfold-jakarta-2026\u0001https://upload.wikimedia.org/wikipedia/commons/c/c3/Avenged_Sevenfold_in_Bercy_4.jpg": {
+  "slug": "jakarta-avenged-sevenfold-jakarta-2026",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Two musicians performing on stage with guitars",
+  "at": "2026-10-05T15:22:53.437Z"
  },
  "jakarta-avenged-sevenfold-jakarta-2026\u0001https://upload.wikimedia.org/wikipedia/commons/d/df/Avenged_Sevenfold_Live_in_the_LBC_large.png": {
   "slug": "jakarta-avenged-sevenfold-jakarta-2026",
@@ -9700,6 +9790,12 @@
   "reason": "hero is only 500px wide — unusable as a banner",
   "reasonKo": "사진이 500px로 너무 작음",
   "at": "2026-10-01T23:40:19.600Z"
+ },
+ "jakarta-avenged-sevenfold-jakarta-2026\u0001https://upload.wikimedia.org/wikipedia/commons/e/ed/Avenged_Sevenfold_in_Bercy_2.jpg": {
+  "slug": "jakarta-avenged-sevenfold-jakarta-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Paris, post says Jakarta",
+  "at": "2026-10-05T15:11:53.224Z"
  },
  "jakarta-bartiga\u0001https://fastly.4sqi.net/img/general/original/12811903_QYZGOEnsjnoalRboeVhzRLv3B6m8j7YNl_K6xsOAyDU.jpg": {
   "slug": "jakarta-bartiga",
@@ -9774,6 +9870,12 @@
   "verdict": "MATCH",
   "reason": "Jakarta roastery with outdoor seating, plants, skyline",
   "at": "2026-07-25T02:44:41.804Z"
+ },
+ "jakarta-guns-n-roses-jakarta-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Guns_N_Roses_in_concert_in_London_on_1_July_2022_Axl_Rose.jpg/3840px-Guns_N_Roses_in_concert_in_London_on_1_July_2022_Axl_Rose.jpg": {
+  "slug": "jakarta-guns-n-roses-jakarta-concert",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Large concert stage with crowd, performer visible",
+  "at": "2026-10-05T15:23:34.048Z"
  },
  "jakarta-jakarta-old-town\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Batavia_City_Hall_%28Jakarta_History_Museum%29_Fatahillah_Square_%282025%29_-_img_01.jpg/1920px-Batavia_City_Hall_%28Jakarta_History_Museum%29_Fatahillah_Square_%282025%29_-_img_01.jpg": {
   "slug": "jakarta-jakarta-old-town",
@@ -10021,6 +10123,24 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Sign and street scene, not fine dining interior/exterior",
   "at": "2026-08-23T06:14:34.468Z"
+ },
+ "jakarta-my-chemical-romance-the-black-parade-hammersonic-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/My_Chemical_Romance_at_Qudos_Arena_in_March_2023_11.jpg/3840px-My_Chemical_Romance_at_Qudos_Arena_in_March_2023_11.jpg": {
+  "slug": "jakarta-my-chemical-romance-the-black-parade-hammersonic-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows Jimmy Eat World concert, not My Chemical Romance",
+  "at": "2026-10-05T15:13:05.577Z"
+ },
+ "jakarta-my-chemical-romance-the-black-parade-hammersonic-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/My_Chemical_Romance_at_Qudos_Arena_in_March_2023_68.jpg/3840px-My_Chemical_Romance_at_Qudos_Arena_in_March_2023_68.jpg": {
+  "slug": "jakarta-my-chemical-romance-the-black-parade-hammersonic-festival",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Large concert venue, packed crowd, stage lighting setup",
+  "at": "2026-10-05T15:13:25.330Z"
+ },
+ "jakarta-my-chemical-romance-the-black-parade-hammersonic-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/My_Chemical_Romance_at_Qudos_Arena_in_March_2023_27.jpg/3840px-My_Chemical_Romance_at_Qudos_Arena_in_March_2023_27.jpg": {
+  "slug": "jakarta-my-chemical-romance-the-black-parade-hammersonic-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows Jimmy Eat World concert, not My Chemical Romance",
+  "at": "2026-10-05T15:13:17.932Z"
  },
  "jakarta-national-museum-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Front_facade_-_National_Museum_Indonesia%2C_Jakarta_%282025%29_-_img_07.jpg/1920px-Front_facade_-_National_Museum_Indonesia%2C_Jakarta_%282025%29_-_img_07.jpg": {
   "slug": "jakarta-national-museum-of-indonesia",
@@ -21335,6 +21455,18 @@
   "verdict": "MATCH",
   "reason": "publish gate: Aerial view of Darling Harbour with Sydney skyline",
   "at": "2026-09-28T16:58:09.957Z"
+ },
+ "sydney-hans-zimmer-live\u0001https://upload.wikimedia.org/wikipedia/commons/2/24/Hans_Zimmer_live_-_Loire_Cotler_the_voice_of_Dune.jpg": {
+  "slug": "sydney-hans-zimmer-live",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated person in corridor, not Hans Zimmer concert",
+  "at": "2026-10-05T15:14:13.085Z"
+ },
+ "sydney-hans-zimmer-live\u0001https://upload.wikimedia.org/wikipedia/commons/7/74/Hans_Zimmer_live_-_Hans_Zimmer_live_-_Rusanda_Panfili%2C_Mariko_Muranaka_and_Molly_Rogers.jpg": {
+  "slug": "sydney-hans-zimmer-live",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Live orchestra performance, plausibly Hans Zimmer event",
+  "at": "2026-10-05T15:14:20.949Z"
  },
  "sydney-royal-botanic-garden-sydney\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Gates_at_Royal_Botanic_Gardens_viewed_from_Art_Gallery_Road.jpg/1920px-Gates_at_Royal_Botanic_Gardens_viewed_from_Art_Gallery_Road.jpg": {
   "slug": "sydney-royal-botanic-garden-sydney",

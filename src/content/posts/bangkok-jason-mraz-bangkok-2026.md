@@ -13,7 +13,6 @@ eventPerformer:
   name: Jason Mraz
   kind: person
 eventFactsAsked: true
-gallery: []
 tags:
   - bangkok
   - event
@@ -31,6 +30,16 @@ faq:
     a: Take the BTS back from Bang Na. Top up a Rabbit card beforehand so you avoid the ticket-machine queue, or wait a little before heading to the station to let the crowd thin.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/a/a3/Flickr_-_moses_namkung_-_Jason_Mraz_3.jpg
+  credit: 'Photo: Moses / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Flickr_-_moses_namkung_-_Jason_Mraz_3.jpg
+  focus:
+    x: 58
+    'y': 24
+    top: 9
+    bottom: 38
 ---
 
 ## A fifth Bangkok night, with the band
