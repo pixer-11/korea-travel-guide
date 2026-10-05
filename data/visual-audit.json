@@ -21427,6 +21427,13 @@
   "reason": "Night view of cruise ships at Surabaya port",
   "at": "2026-07-25T02:50:02.792Z"
  },
+ "surin-surin-elephant-round-up\u0001https://upload.wikimedia.org/wikipedia/commons/a/a0/Surin_round_up.jpg": {
+  "slug": "surin-surin-elephant-round-up",
+  "verdict": "MISMATCH",
+  "reason": "hero is only 319px wide — unusable as a banner",
+  "reasonKo": "사진이 319px로 너무 작음",
+  "at": "2026-10-05T16:42:50.503Z"
+ },
  "suwon-cafe-diaz\u0001https://images.unsplash.com/photo-1659526400645-af0f75673b6c?ixid=M3wxMDAyOTkyfDB8MXxzZWFyY2h8Mnx8U3V3b24lMjBTb3V0aCUyMEtvcmVhJTIwdHJlbmR5JTIwY2FmZXxlbnwwfDB8fHwxNzg0OTk0MDg2fDA&ixlib=rb-4.1.0&w=1600&q=80&fm=jpg&fit=max": {
   "slug": "suwon-cafe-diaz",
   "verdict": "MATCH",

@@ -35,7 +35,7 @@ faq:
   - q: Do I need to book accommodation in advance?
     a: Yes. Surin is a small town and hotels fill up for festival week, so book as early as you can. If town is full, try nearby provinces such as Buriram.
 aiGenerated: true
-draft: false
+draft: true
 ---
 
 ## A town handed over to elephants
