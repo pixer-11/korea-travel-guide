@@ -21,6 +21,7 @@
 import { readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { requireExamined } from './lib/examined.mjs';
+import { splitFrontmatter } from './lib/frontmatter-edit.mjs';
 
 const dirArg = process.argv.find((a) => a.startsWith('--dir='));
 const DRAFTS = process.argv.includes('--drafts');
@@ -123,9 +124,10 @@ for (const f of readdirSync(DIR)) {
   if (!f.endsWith('.md')) continue;
   const raw = readFileSync(join(DIR, f), 'utf8');
   postsRead++;
-  const fmEnd = raw.indexOf('---', 3);
-  const fm = fmEnd > 0 ? raw.slice(0, fmEnd) : '';
-  const body = fmEnd > 0 ? raw.slice(fmEnd + 3) : raw;
+  // At the first line that IS `---`, not the first `---` anywhere: a photo
+  // credit containing " --- " cut dresden-pulverturm before its measured
+  // busyness and flagged a valid post (2026-10-05).
+  const { fm, body } = splitFrontmatter(raw);
   // 2026-09-21: 격리된 글은 초안이다. 그런데 수리 순찰이 격리를 풀려면
   // 바로 그 초안을 다시 봐야 한다 — 안 보면 고쳐도 영영 안 풀린다.
   // (repair-held-posts.mjs 의 CHECKERS 는 전부 --drafts 를 요구한다.)

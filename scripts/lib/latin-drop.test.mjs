@@ -51,3 +51,12 @@ test('🛑 도메인 안의 영어는 잡지 않는다 — recreation.gov 는 �
   assert.equal(drops('旺季也可通过recreation.gov提前预约', 'zh'), false);
   assert.equal(drops('予約は booking.com から', 'ja'), false);
 });
+
+// 2026-10-05: .museum was not in the TLD list.
+test('any domain is a name, not a dropped word — but the bare word still is', async () => {
+  const { latinDrops } = await import('./latin-drop.mjs');
+  assert.deepEqual(latinDrops('표는 smb.museum에서 예매하세요.', 'ko'), []);
+  assert.deepEqual(latinDrops('请在smb.museum购票。', 'zh'), []);
+  assert.deepEqual(latinDrops('チケットはtickets.smb.museumで買えます。', 'ja'), []);
+  assert.ok(latinDrops('이 museum에는 유물이 많습니다.', 'ko').length > 0, 'the bare word is still a drop');
+});

@@ -112,6 +112,12 @@ jobs:
     if: needs.slot.outputs.served != 'true'
     runs-on: ubuntu-latest
     steps:
+      # When this job started, for translate-posts' batch wait: it caps the wait
+      # by the time left of the 360-min job (2026-10-05 audit — the 10-01 run
+      # committed at minute 220). backfill.yml calls this workflow and inherits it.
+      - name: Note the job start
+        run: echo "JOB_T0=$(date +%s)" >> "$GITHUB_ENV"
+
       # ref: main, not the dispatch-time SHA — a run that queued or arrived
       # late must build from the tip (state ledgers, throttle, topic keys), not
       # from a snapshot taken when it was scheduled (stale-SHA class, 08-29).
@@ -979,7 +985,15 @@ jobs:
           CLOSED=$(node scripts/ko-report.mjs scripts/audit-closed-venues.mjs 2>&1 | node scripts/tg-clip.mjs 6 400 || true)
           SLUG=$(node scripts/ko-report.mjs scripts/audit-slug-region.mjs 2>&1 | node scripts/tg-clip.mjs 6 400 || true)
           WRITER=$(node scripts/ko-report.mjs scripts/check-writer-safety.mjs 2>&1 | node scripts/tg-clip.mjs 6 400 || true)
-          for extra in "$HELD" "$TENSE" "$CLOSED" "$SLUG" "$WRITER"; do
+          # The step above also runs these four, and until 2026-10-05 this list
+          # did not — so a day when only the event-hero review was failing sent a
+          # warning without the 61 unreviewed photos in it, and they piled up from
+          # 20 (09-29) unread. Same "a warning with nothing in it" class as above.
+          HERO=$(node scripts/ko-report.mjs scripts/audit-event-hero-identity.mjs 2>&1 | node scripts/tg-clip.mjs 8 600 || true)
+          LATIN=$(node scripts/ko-report.mjs scripts/audit-latin-drops.mjs 2>&1 | node scripts/tg-clip.mjs 6 400 || true)
+          MONEY=$(node scripts/ko-report.mjs scripts/audit-money-claims.mjs 2>&1 | node scripts/tg-clip.mjs 6 400 || true)
+          RATING=$(node scripts/ko-report.mjs scripts/audit-rating-floor.mjs 2>&1 | node scripts/tg-clip.mjs 6 400 || true)
+          for extra in "$HELD" "$TENSE" "$CLOSED" "$SLUG" "$WRITER" "$HERO" "$LATIN" "$MONEY" "$RATING"; do
             case "$extra" in ''|'이상 없음.') ;; *) MSG=$(printf '%s\n%s' "$MSG" "$extra") ;; esac
           done
           TXT=$(printf '⚠️ 콘텐츠 검증 경고 (일일 자동발행)\n%s' "$MSG" | node scripts/tg-clip.mjs 200 4000)

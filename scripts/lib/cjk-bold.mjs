@@ -86,7 +86,11 @@ function pairwise(line) {
   // *** (bold + italic) and `code` split differently from a plain ** pair;
   // leave those lines to the per-span rules (Codex, 10-03: ***C。*** came out
   // as ***C**。* with the italic stars showing).
-  if (line.includes('***') || line.includes('`')) return line;
+  // Exactly three, though: "****" is two plain spans side by side — the source
+  // "**KRL Commuter Line:** **Palmerah**" loses its space in Chinese and became
+  // "**KRL通勤铁路：****Palmerah**", which this used to skip, so the zh Jakarta
+  // guide was refused three times on every run (2026-10-05).
+  if (/(?<!\*)\*{3}(?!\*)/.test(line) || line.includes('`')) return line;
   const parts = line.split('**');
   if (parts.length % 2 === 0) return line; // an odd number of markers: no pairing to trust
   for (let i = 1; i < parts.length; i += 2) {

@@ -15,16 +15,6 @@ eventPerformer:
   name: Avenged Sevenfold
   kind: group
 eventFactsAsked: true
-heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/2/21/Jakarta_old_football.jpg'
-  credit: 'Photo: Jonathan McIntosh / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Jakarta_old_football.jpg'
-  focus:
-    x: 50
-    y: 20
-    top: 8
-    bottom: 32
 gallery: []
 tags:
   - jakarta

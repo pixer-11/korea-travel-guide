@@ -71,6 +71,20 @@ export function readFrontmatter(raw) {
 }
 
 /**
+ * The frontmatter TEXT and the body, split at the first line that is exactly
+ * `---` — never at a `---` inside a value. `raw.indexOf('---', 3)` and
+ * `split('---')[1]` cut dresden-pulverturm at a photo credit reading
+ * "Heribert Pohl --- Thanks for half a million clicks!", so audit-crowd-claims
+ * missed its measured busyness block and flagged a valid post (2026-10-05).
+ * No frontmatter: fm is '' and body is the whole file.
+ * @returns {{ fm: string, body: string }}
+ */
+export function splitFrontmatter(raw) {
+  const m = FM.exec(String(raw));
+  return m ? { fm: m[1], body: String(raw).slice(m[0].length) } : { fm: '', body: String(raw) };
+}
+
+/**
  * @param {string} raw       the whole .md file
  * @param {object} changes   { key: value } — value DELETE removes the key
  * @returns {string}         the new file contents

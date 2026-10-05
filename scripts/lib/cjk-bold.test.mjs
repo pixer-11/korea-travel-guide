@@ -163,3 +163,10 @@ test('pairing leaves *** lines and fenced code alone (Codex, 10-03)', () => {
   const fenced = '```\n**A**，B。**C。**D\n```';
   assert.equal(fixCjkBold(fenced), fenced);
 });
+
+// 2026-10-05: two spans side by side ("****") were skipped as if bold-italic.
+test('two bold spans glued by a full-width colon are repaired', () => {
+  const out = fixCjkBold('- **KRL通勤铁路：****Palmerah**站位于GBK西侧边缘。');
+  assert.equal(out, '- **KRL通勤铁路**：**Palmerah**站位于GBK西侧边缘。');
+  assert.equal(rendersBold(out), true);
+});

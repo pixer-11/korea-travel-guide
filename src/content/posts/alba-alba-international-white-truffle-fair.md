@@ -9,14 +9,6 @@ eventStartDate: '2026-10-10'
 eventEndDate: '2026-12-06'
 eventRecurring: true
 eventFactsAsked: true
-heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Skyline_alba_02.jpg/1280px-Skyline_alba_02.jpg'
-  credit: 'Photo: Marco China67 (CC BY-SA 4.0)'
-  license: wikimedia
-  source: 'File:Skyline alba 02.jpg'
-  focus:
-    x: 50
-    y: 50
 gallery: []
 tags:
   - alba

@@ -13,6 +13,8 @@ import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cos
 import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import { join } from 'node:path';
+import { splitFrontmatter } from './lib/frontmatter-edit.mjs';
+import { wrongScript } from './lib/place-name-script.mjs';
 import { fileURLToPath } from 'node:url';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
@@ -67,7 +69,7 @@ for (const c of JSON.parse(await readFile(COUNTRIES, 'utf8')).countries) {
   for (const r of c.regions ?? []) if (r) names.add(r);
 }
 for (const f of (await readdir(POSTS)).filter((x) => x.endsWith('.md'))) {
-  const fm = (await readFile(join(POSTS, f), 'utf8')).split('---')[1] || '';
+  const { fm } = splitFrontmatter(await readFile(join(POSTS, f), 'utf8'));
   for (const key of ['country', 'region']) {
     const v = new RegExp(`(?:^|\\n)${key}:\\s*['"]?([^'"\\n]+)`).exec(fm)?.[1]?.trim();
     if (v && !v.includes('/')) names.add(v);
@@ -91,7 +93,12 @@ for (let i = 0; i < todo.length; i += BATCH) {
   const out = msg.content.find((c) => c.type === 'tool_use')?.input?.places ?? [];
   for (const p of out) {
     if (!p?.en || !names.has(p.en)) continue;
-    existing[p.en] = { ko: p.ko, ja: p.ja, es: p.es, zh: p.zh };
+    const entry = { ko: p.ko, ja: p.ja, es: p.es, zh: p.zh };
+    const bad = wrongScript(entry);
+    // All four or nothing: a stored entry is never translated again, so a bad
+    // language kept now would stay bad. Left out, it is retried next run.
+    if (bad.length) { console.log(`  ✗ ${p.en}: wrong script in ${bad.join(', ')} — not stored, retried next run`); continue; }
+    existing[p.en] = entry;
   }
   console.log(`  batch ${i / BATCH + 1}: +${out.length} (total ${Object.keys(existing).length})`);
 }

@@ -97,3 +97,24 @@ test('대문자 사유가 섞여도 번역 검사 줄을 알아본다 (코덱스
   const out = koIssueLine('• posts/zh/a.md: broken-bold, MISSING-SRCHASH');
   assert.match(out, /굵게 표시.*번역 점검 필요 \(MISSING-SRCHASH\)/);
 });
+
+// 2026-10-05: 61 unreviewed event heroes reached the owner as "문제 248건", most
+// lines "대상 미상" — every detail line and the closing advice were counted —
+// and audit-rating-floor's clean ⭐ headline read as one problem.
+test('detail lines (↳), ⭐ headlines and "(es)" tallies are not findings', async () => {
+  const { koDigest } = await import('./issue-ko.mjs');
+  const out = [
+    '132 event hero(es) whose filename barely names the event; 2 of them unreviewed',
+    'EVENT-HERO-IDENTITY: abu-dhabi-tarkan-live-in-abu-dhabi.md — photo: Tarkan_en_concert.JPG',
+    '    ↳ post : TARKAN Live in Abu Dhabi',
+    '    ↳ shared word(s): tarkan',
+    'EVENT-HERO-IDENTITY: adana-world-rak-festival.md — photo: Adana_Raki_Festival2.jpg',
+    '    ↳ post : World Raki Festival',
+    '↳ A person has to read these: does the FILENAME describe this event, this artist?',
+  ].join('\n');
+  const d = koDigest(out);
+  assert.match(d, /^문제 2건/);
+  assert.match(d, /abu-dhabi-tarkan-live-in-abu-dhabi\.md/);
+  assert.doesNotMatch(d, /대상 미상/);
+  assert.equal(koDigest('⭐ 평점 기준선 감사 — 1974편 검사\n✓ 기준선 아래 공개글 없음.'), '');
+});

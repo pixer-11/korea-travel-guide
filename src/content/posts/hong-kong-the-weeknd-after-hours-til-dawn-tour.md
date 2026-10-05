@@ -18,14 +18,6 @@ eventPerformer:
   name: The Weeknd
   kind: person
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/The_Weeknd_Universal_Studios_Hollywood.jpg/3840px-The_Weeknd_Universal_Studios_Hollywood.jpg
-  credit: 'Photo: Jeremy Thompson / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:The_Weeknd_Universal_Studios_Hollywood.jpg
-  focus:
-    x: 38
-    'y': 33
 gallery: []
 tags:
   - hong kong

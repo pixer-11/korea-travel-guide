@@ -13,14 +13,6 @@ eventOffers:
   free: true
   currency: SGD
 eventFactsAsked: true
-heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/1_singapore_national_day_parade_2011_fireworks.jpg/3840px-1_singapore_national_day_parade_2011_fireworks.jpg'
-  credit: 'Photo: chensiyuan / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:1_singapore_national_day_parade_2011_fireworks.jpg'
-  focus:
-    x: 50
-    y: 45
 gallery: []
 tags:
   - singapore

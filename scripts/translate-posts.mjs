@@ -724,9 +724,24 @@ if (!jobs.length) { console.log('Nothing to translate — all up to date.'); pro
 // The wait is 120 min because a one-request probe on 2026-09-27 took 74 min
 // to come back: batches are cheap, not fast.
 const BATCH_MIN = Number(process.env.TRANSLATE_BATCH_MIN || 8);
-const prefetched = process.env.TRANSLATE_BATCH !== '0' && jobs.length >= BATCH_MIN
+// The wait is also capped by what is left of the GitHub job, when the job says
+// when it started (JOB_T0, epoch seconds). The publish job had no such cap: on
+// 2026-10-01 it waited the full 120 min for a batch, then 68 min more in the
+// repair step's own batches, and committed at minute 220 of the 360 the runner
+// allows — a slow day would have lost every post with the runner. Reserved: the
+// 30 min a cancelled batch takes to wind down (claude-batch CANCEL_WAIT_MIN)
+// and 70 for direct translation plus the steps up to the commit. Discover-events
+// computed this inline; doing it here covers every caller, including
+// repair-flagged-translations, which spawns this script with the same env.
+const JOB_LIMIT_MIN = 360, RESERVE_MIN = 30 + 70;
+const jobLeftMin = process.env.JOB_T0
+  ? JOB_LIMIT_MIN - RESERVE_MIN - (Date.now() / 1000 - Number(process.env.JOB_T0)) / 60
+  : Infinity;
+const batchWaitMin = Math.min(Number(process.env.TRANSLATE_BATCH_WAIT_MIN || 120), Math.floor(jobLeftMin));
+if (jobLeftMin !== Infinity) console.log(`batch wait budget: ${Math.max(0, batchWaitMin)} min (job time left after reserve: ${Math.floor(jobLeftMin)} min)`);
+const prefetched = process.env.TRANSLATE_BATCH !== '0' && jobs.length >= BATCH_MIN && batchWaitMin >= 30
   ? await runBatch(client, jobs.map((j) => ({ id: `${j.lang}/${j.id}`, params: j.patch ? patchParams(j.lang, j) : translateParams(j.lang, j.data) })), {
-      waitMin: Number(process.env.TRANSLATE_BATCH_WAIT_MIN || 120),
+      waitMin: batchWaitMin,
     })
   : new Map();
 

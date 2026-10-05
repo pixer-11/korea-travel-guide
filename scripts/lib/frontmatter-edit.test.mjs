@@ -90,3 +90,15 @@ test('unicode and multi-line values are left exactly as they were', () => {
   assert.equal(after.data.title, before.data.title);
   assert.equal(after.data.summary, before.data.summary);
 });
+
+// 2026-10-05: split('---')[1] and indexOf('---', 3) cut at a photo credit.
+test('splitFrontmatter ends at the first line that IS ---, not a --- inside a value', async () => {
+  const { splitFrontmatter } = await import('./frontmatter-edit.mjs');
+  const raw = "---\ntitle: X\ncredit: 'Photo: Heribert Pohl --- Thanks for half a million clicks!'\nplace:\n  busyness: [1]\n---\nBody text.\n";
+  const { fm, body } = splitFrontmatter(raw);
+  assert.match(fm, /busyness/);
+  assert.equal(body, 'Body text.\n');
+  const crlf = splitFrontmatter(raw.replace(/\n/g, '\r\n'));
+  assert.match(crlf.fm, /busyness/);
+  assert.deepEqual(splitFrontmatter('no frontmatter here'), { fm: '', body: 'no frontmatter here' });
+});

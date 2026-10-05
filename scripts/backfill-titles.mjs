@@ -9,7 +9,7 @@
 // Venue posts pass their stored Google rating into makeTitle, which may append
 // the honest "(4.9★)" review-intent badge when the title stays within 60 chars.
 import { readdir, readFile, writeFile } from 'node:fs/promises';
-import { editFrontmatter, DELETE } from './lib/frontmatter-edit.mjs';
+import { editFrontmatter, DELETE, splitFrontmatter } from './lib/frontmatter-edit.mjs';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { makeTitle } from './lib/titles.mjs';
@@ -41,7 +41,7 @@ const samples = [];
 for (const f of files) {
   const p = join(DIR, f);
   const t = await readFile(p, 'utf8');
-  const fm = t.split('---')[1] || '';
+  const { fm } = splitFrontmatter(t);
   const category = field(fm, 'category');
   const region = field(fm, 'region');
   const oldTitle = field(fm, 'title');

@@ -356,15 +356,19 @@ export function koDigest(stdout, { max = 20 } = {}) {
   // names a file or a path is a finding no matter how it starts.
   const namesSomething = (l) => /\.md\b|\/[\w-]/.test(l);
   const isTally = (l) => !namesSomething(l)
-    && (/^\d+\s+\w+\(s\)\s/.test(l) || /^\d+\s+[\w,\s]+\(s\)[;:]/.test(l));
+    && (/^\d+\s+\w+\(s\)\s/.test(l) || /^\d+\s+[\w,\s]+\(s\)[;:]/.test(l)
+      // "132 event hero(es) whose filename…; 61 of them unreviewed"
+      || /^\d+\s+[\w\s]+\(es\)\s/.test(l));
   // A parenthesised aside is context, not a finding: "(13 finished event(s) are
   // quarantined drafts — not published, not counted)" and "(4 more say "before
   // the show", which is not a tense error — not counted)" reached the owner on
   // 2026-09-08 as two "점검 항목 — 실행 로그 확인 필요" lines above two real ones.
   // Same rule as the tally: if it names a file, it is a finding whatever its shape.
   const isAside = (l) => /^\(.*\)$/.test(l) && !namesSomething(l);
+  // ↳ marks a detail line under the finding above it, and ⭐ an audit's own
+  // headline (audit-rating-floor's clean run read as "문제 1건", 2026-10-05).
   const isChrome = (l) =>
-    /^❌\s*\d/.test(l) || /^[✓✔️🌐✅📋]/.test(l) || /^-{3,}$/.test(l) ||
+    /^❌\s*\d/.test(l) || /^[✓✔️🌐✅📋↳⭐]/.test(l) || /^-{3,}$/.test(l) ||
     /^\d+\s*type\(s\) had no pages/.test(l) || isTally(l) || isAside(l);
   const issues = all.filter((l) => !isChrome(l));
 

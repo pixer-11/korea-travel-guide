@@ -11,14 +11,6 @@ eventRecurring: true
 eventOffers:
   url: https://zurichmaratonsansebastian.com/en/
 eventFactsAsked: true
-heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Iglesia_de_San_Sebasti%C3%A1n%2C_Ponta_Delgada%2C_isla_de_San_Miguel%2C_Azores%2C_Portugal%2C_2020-07-29%2C_DD_117-119_HDR.jpg/1280px-Iglesia_de_San_Sebasti%C3%A1n%2C_Ponta_Delgada%2C_isla_de_San_Miguel%2C_Azores%2C_Portugal%2C_2020-07-29%2C_DD_117-119_HDR.jpg'
-  credit: 'Photo: Diego Delso (CC BY-SA 4.0)'
-  license: wikimedia
-  source: 'File:Iglesia de San Sebastián, Ponta Delgada, isla de San Miguel, Azores, Portugal, 2020-07-29, DD 117-119 HDR.jpg'
-  focus:
-    x: 50
-    y: 45
 gallery: []
 tags:
   - san sebastián

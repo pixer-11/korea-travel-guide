@@ -34,6 +34,7 @@ const deslug = (s) => s.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase
 // English slug like "South Korea (국가)" or "Hanoi Hanoi Old Quarter".
 import { readFileSync } from 'node:fs';
 import { join } from 'node:path';
+import { splitFrontmatter } from './lib/frontmatter-edit.mjs';
 import { fileURLToPath } from 'node:url';
 import { bingLines } from './lib/bing-report.mjs';
 import { audienceLines } from './lib/report-audience.mjs';
@@ -47,7 +48,7 @@ const koPlace = (englishName) => PLACES[englishName]?.ko || englishName;
 const I18N_KO = fileURLToPath(new URL('../src/content/i18n/ko/', import.meta.url));
 function koPostTitle(slug) {
   try {
-    const fm = readFileSync(join(I18N_KO, `${slug}.md`), 'utf8').split('---')[1] || '';
+    const { fm } = splitFrontmatter(readFileSync(join(I18N_KO, `${slug}.md`), 'utf8'));
     const m = /(?:^|\n)title:[ \t]*(?:'((?:[^']|'')*)'|"([^"]*)"|([^\n]+))/.exec(fm);
     const v = m ? (m[1]?.replace(/''/g, "'") ?? m[2] ?? m[3] ?? '').trim() : '';
     return v || null;

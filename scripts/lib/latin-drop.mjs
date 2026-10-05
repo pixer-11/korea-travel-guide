@@ -93,7 +93,10 @@ export function latinDrops(text, lang) {
   // A domain or a URL is not a dropped word. 「通过recreation.gov提前预约」 is
   // the correct way to name the US booking site in Chinese, and the detector
   // read the 'recreation' out of it (2026-09-10).
-  const URLS = new RegExp('[A-Za-z0-9-]+[.](?:gov|com|org|net|edu|io|co|jp|kr|cn|app)(?![A-Za-z])[^ ]*', 'g');
+  // Any domain, not a list of TLDs: the list missed .museum, so the Neues
+  // Museum's official site 「smb.museum에서」 read as the English word "museum"
+  // and its Korean translation failed three times on every run (2026-10-04/05).
+  const URLS = new RegExp('[A-Za-z0-9-]+(?:[.][A-Za-z0-9-]+)*[.][a-z]{2,24}(?![A-Za-z])[^ ]*', 'g');
   const stripped = String(text ?? '').replace(URLS, ' ').replace(LATIN_ONLY_PARENS, ' ');
   const found = [
     ...[...stripped.matchAll(GLUED)].map((m) => m[0]),

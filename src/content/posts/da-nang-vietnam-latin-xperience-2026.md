@@ -9,16 +9,6 @@ eventStartDate: '2026-10-02'
 eventEndDate: '2026-10-04'
 eventRecurring: true
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/0/0a/Blick_von_der_B%C3%BChne._Latin_Night_2018.jpg
-  credit: 'Photo: Afro-Pfingsten / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Blick_von_der_B%C3%BChne._Latin_Night_2018.jpg
-  focus:
-    x: 41
-    'y': 39
-    top: 32
-    bottom: 45
 gallery: []
 tags:
   - da nang

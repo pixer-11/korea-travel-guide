@@ -32,6 +32,9 @@ const stripHtml = (s = '') =>
  * place every Commons URL enters the codebase, rather than in another sweeper.
  * Wikimedia serves the identical file without the query.
  */
+
+/** A thumbnail is never larger than its original: the smaller of the two is what is served. */
+export const servedDim = (thumb, orig) => (thumb && orig ? Math.min(thumb, orig) : thumb || orig || 0);
 export const cleanCommonsUrl = (u) =>
   String(u ?? '')
     .replace(/\?utm_source=commons\.wikimedia\.org(?:&utm_[a-z]+=[A-Za-z0-9_.-]*)*/g, '')
@@ -291,8 +294,11 @@ export async function commonsCandidates(query, limit = 10, subject = '', near = 
         title,
         index: p.index ?? 999,
         url: cleanCommonsUrl(ii.thumburl || ii.url),
-        w: ii.thumbwidth || ii.width || 0,
-        h: ii.thumbheight || ii.height || 0,
+        // The SERVED size: MediaWiki answers a request for a 2400px thumb of a
+        // 500px original with the original, yet reports thumbwidth=2400. Trusting
+        // that passed a 500px dog through a 1024px floor every night (2026-10-05).
+        w: servedDim(ii.thumbwidth, ii.width),
+        h: servedDim(ii.thumbheight, ii.height),
         featured: /featured|quality|valued/.test(assessment),
         credit: `Photo: ${artist} / Wikimedia Commons (${license || 'CC'})`,
         license: 'wikimedia',
@@ -427,8 +433,8 @@ export async function wikipediaLeadImage(name, { used, minWidth = 1200, near = n
   // KOGL Type 1 = Korea Open Government License, attribution-only (free for
   // commercial use; Commons hosts it) — common on Korean-heritage lead images.
   if (!/cc|public domain|pdm|cc0|fal|kogl type 1/i.test(license)) return null;
-  const w = ii.thumbwidth || ii.width || 0;
-  const h = ii.thumbheight || ii.height || 0;
+  const w = servedDim(ii.thumbwidth, ii.width); // see commonsBest: never wider than the original
+  const h = servedDim(ii.thumbheight, ii.height);
   if (w && w < minWidth) return null;
   if (w && h && w < h * 0.95) return null; // heroes need a landscape banner
   const url = cleanCommonsUrl(ii.thumburl || ii.url);

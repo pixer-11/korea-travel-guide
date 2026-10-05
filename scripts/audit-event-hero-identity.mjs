@@ -121,11 +121,14 @@ const fresh = weak.filter((w) => !w.known);
 
 console.log(`${weak.length} event hero(es) whose filename barely names the event; ${fresh.length} of them unreviewed`);
 for (const u of unreadable) console.log(`EVENT-HERO-IDENTITY: ${u} — frontmatter does not parse, so its hero was not examined`);
+// One line per finding, naming the file and the photo; the detail lines start
+// with ↳ so the Korean report (lib/issue-ko) counts each hero once. It used to
+// count every line — 61 heroes reached the owner as "문제 248건", most of them
+// "대상 미상" (2026-10-05).
 for (const w of (LIST ? weak : fresh)) {
-  console.log(`${w.known ? '·' : 'EVENT-HERO-IDENTITY:'} ${w.slug}`);
-  console.log(`    post : ${w.title}`);
-  console.log(`    photo: ${w.name.slice(0, 90)}`);
-  console.log(`    shared word(s): ${w.hit.join(', ') || 'none'}`);
+  console.log(`${w.known ? '·' : 'EVENT-HERO-IDENTITY:'} ${w.slug}.md — photo: ${w.name.slice(0, 90)}`);
+  console.log(`    ↳ post : ${w.title}`);
+  console.log(`    ↳ shared word(s): ${w.hit.join(', ') || 'none'}`);
 }
 
 // --record writes the CURRENT unreviewed set into the baseline. The seeding
@@ -150,9 +153,9 @@ if (process.argv.includes('--record')) {
 }
 
 if (fresh.length || unreadable.length) {
-  console.log('\nA person has to read these: does the FILENAME describe this event, this artist?');
-  console.log(`If it does, record it with --record (after reading, not before).`);
-  console.log('If it does not, strip the heroImage block; an event may publish photoless.');
+  console.log('\n↳ A person has to read these: does the FILENAME describe this event, this artist?');
+  console.log(`↳ If it does, record it with --record (after reading, not before).`);
+  console.log('↳ If it does not, strip the heroImage block; an event may publish photoless.');
   process.exit(1);
 }
 // 기준선이 차 있어도 소용없다. 빈 posts 디렉터리 + 과거 기준선이면 0편을 보고도

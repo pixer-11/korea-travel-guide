@@ -15,16 +15,6 @@ eventOffers:
   free: true
   currency: MYR
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gendang_Beleq_at_Erau.jpg/3840px-Gendang_Beleq_at_Erau.jpg
-  credit: 'Photo: Ezagren (bicara / talk) / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Gendang_Beleq_at_Erau.jpg
-  focus:
-    x: 18
-    'y': 18
-    top: 10
-    bottom: 25
 gallery: []
 tags:
   - kuching

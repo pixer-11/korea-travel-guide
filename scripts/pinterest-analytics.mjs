@@ -17,6 +17,7 @@
 // ─────────────────────────────────────────────────────────────
 import { readFile, writeFile } from 'node:fs/promises';
 import { getAccessToken } from './lib/pinterest-token.mjs';
+import { isTransientApiError, transientBackoffMs } from './lib/api-transient.mjs';
 
 const API = process.env.PINTEREST_API_BASE || 'https://api.pinterest.com/v5';
 let TOKEN = process.env.PINTEREST_ACCESS_TOKEN;
@@ -25,6 +26,24 @@ const OUT_FILE = 'data/pinterest-analytics.json';
 const METRICS = 'IMPRESSION,SAVE,PIN_CLICK,OUTBOUND_CLICK';
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+/**
+ * Pinterest answers a burst of per-pin calls with 429 for tens of seconds, then
+ * recovers (a sliding window). Counting that 429 as final dropped a contiguous
+ * block of pins every run — 23, 50, 89, 117, then 139 of 352 on 2026-10-05 —
+ * and the weekly ledger undercounted by a different amount each week. Retry a
+ * transient failure with the shared backoff (15 s × attempt on a 429).
+ */
+export async function withRetry(fn, { attempts = 4, wait = (ms) => sleep(ms) } = {}) {
+  for (let attempt = 1; ; attempt++) {
+    try {
+      return await fn();
+    } catch (e) {
+      if (attempt >= attempts || !isTransientApiError(e)) throw e;
+      await wait(transientBackoffMs(e, attempt));
+    }
+  }
+}
 
 async function api(path) {
   const res = await fetch(`${API}${path}`, {
@@ -143,7 +162,7 @@ async function main() {
   let failed = 0, firstShapeLogged = false;
   for (const [slug, pinId] of pinned) {
     try {
-      const body = await api(`/pins/${pinId}/analytics?start_date=${start}&end_date=${end}&metric_types=${METRICS}&app_types=ALL`);
+      const body = await withRetry(() => api(`/pins/${pinId}/analytics?start_date=${start}&end_date=${end}&metric_types=${METRICS}&app_types=ALL`));
       if (!firstShapeLogged) {
         console.log(`shape keys: ${Object.keys(body).join(',')}`);
         firstShapeLogged = true;
@@ -163,12 +182,14 @@ async function main() {
   out.at = new Date().toISOString();
   out.window = { start, end };
   out.pins = rows;
-  out.weeks = [...(out.weeks || []), weeklyRow(rows, { end, firstSlug: out.decision?.cohort?.firstSlug })].slice(-52);
+  // attempted/failed ride along so a partial week can be told from a quiet one
+  // when the series is read (2026-10-05: 139 of 352 pins went unmeasured).
+  out.weeks = [...(out.weeks || []), { ...weeklyRow(rows, { end, firstSlug: out.decision?.cohort?.firstSlug }), attempted: pinned.length, failed }].slice(-52);
   await writeFile(OUT_FILE, JSON.stringify(out, null, 1) + '\n', 'utf8');
 
   const digest = summarize(rows, { start, end });
   console.log(digest);
-  if (failed) console.log(`조회 실패 ${failed}건 (다음 주에 다시 시도)`);
+  if (failed) console.log(`조회 실패 ${failed}건 — 이번 주 합계에서 빠졌습니다(재시도 4회 뒤에도 실패)`);
   console.log(`PIN_ANALYTICS pins=${rows.length} impressions=${out.weeks.at(-1).impressions} clicks=${out.weeks.at(-1).outboundClicks} failed=${failed}`);
 }
 

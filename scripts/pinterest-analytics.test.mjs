@@ -62,3 +62,20 @@ test('주차 행: 표식이 없거나 못 찾으면 총계만 남는다 (없는 
   // The marker being the very first pin means there is no "before" to compare.
   assert.equal(weeklyRow(rows, { end: '2026-10-19', firstSlug: 'a' }).after, undefined);
 });
+
+// 2026-10-05: a 429 burst dropped 139 of 352 pins from the week's totals.
+test('withRetry waits out a 429 and keeps the pin; a 404 is not retried', async () => {
+  const { withRetry } = await import('./pinterest-analytics.mjs');
+  const waits = [];
+  let calls = 0;
+  const got = await withRetry(async () => {
+    calls++;
+    if (calls < 3) { const e = new Error('rate limit'); e.status = 429; throw e; }
+    return { ok: true };
+  }, { wait: async (ms) => { waits.push(ms); } });
+  assert.deepEqual(got, { ok: true });
+  assert.deepEqual(waits, [15000, 30000]);
+  let n = 0;
+  await assert.rejects(withRetry(async () => { n++; const e = new Error('gone'); e.status = 404; throw e; }, { wait: async () => {} }));
+  assert.equal(n, 1);
+});

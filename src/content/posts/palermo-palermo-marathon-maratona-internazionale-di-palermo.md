@@ -9,16 +9,6 @@ eventStartDate: '2026-11-15'
 eventEndDate: '2026-11-15'
 eventRecurring: true
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/9/9b/Berlin_marathon.jpg
-  credit: 'Photo: KJohansson / Wikimedia Commons (CC BY 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Berlin_marathon.jpg
-  focus:
-    x: 42
-    'y': 27
-    top: 20
-    bottom: 33
 gallery: []
 tags:
   - palermo

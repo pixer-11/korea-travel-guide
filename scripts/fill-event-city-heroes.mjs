@@ -29,6 +29,7 @@ import { join } from 'node:path';
 import matter from 'gray-matter';
 import { commonsBest, tokens, cleanCommonsUrl } from './lib/commons.mjs';
 import { identityRejection } from './lib/photo-verdict.mjs';
+import { isMeasurementFailure } from './lib/audit-verdict.mjs';
 import { isUsedImage, markUsedImage } from './lib/hero-url.mjs';
 
 const DIR = 'src/content/posts';
@@ -96,6 +97,15 @@ for (const t of targets) {
   if (!pick?.url) { unfilled.push(`${t.slug} (${region} 사진 없음)`); continue; }
   if (identityRejection(audit, t.slug, pick.url, t.data.category)) {
     unfilled.push(`${t.slug} (사람이 이미 거부한 사진)`);
+    continue;
+  }
+  // The exact rejection requarantine-mismatches enforces — it ran BEFORE this
+  // step, so a pick it would strip was committed and pushed, then stripped by
+  // the post-push re-assert: the Phu Quoc Latin festival got the same 500px dog
+  // photo and lost it again on ten nights running (2026-09-25..10-04).
+  const exact = audit[`${t.slug}\x01${cleanCommonsUrl(pick.url)}`] ?? audit[`${t.slug}\x01${pick.url}`];
+  if (exact && /MISMATCH/.test(String(exact.verdict)) && !isMeasurementFailure(exact)) {
+    unfilled.push(`${t.slug} (이 사진은 이미 불합격 기록이 있음)`);
     continue;
   }
 

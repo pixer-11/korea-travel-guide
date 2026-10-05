@@ -610,6 +610,12 @@
   "reason": "publish gate: Monument with statues and inscription, representative hero view",
   "at": "2026-08-21T08:12:36.807Z"
  },
+ "alba-alba-international-white-truffle-fair\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Skyline_alba_02.jpg/1280px-Skyline_alba_02.jpg": {
+  "slug": "alba-alba-international-white-truffle-fair",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed 2026-10-05: other-place — Despite the filename 'Skyline alba' (dawn in Italian), the description is 'Lungomare Nazario Sauro' and the categories are 'Lungomare (Bari)', 'Sunrises of Bari' and 'August 2019 in Bari'. The image is Bari's seafront in",
+  "at": "2026-10-05T08:36:33.108Z"
+ },
  "alcaniz-motogp-aragon-grand-prix\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/A-STYLE_MotoGP_Aragon.jpg/1920px-A-STYLE_MotoGP_Aragon.jpg": {
   "slug": "alcaniz-motogp-aragon-grand-prix",
   "verdict": "MATCH",
@@ -5587,6 +5593,12 @@
   "reason": "Marble Mountains visible in Da Nang panorama",
   "at": "2026-07-25T02:42:20.724Z"
  },
+ "da-nang-vietnam-latin-xperience-2026\u0001https://upload.wikimedia.org/wikipedia/commons/0/0a/Blick_von_der_B%C3%BChne._Latin_Night_2018.jpg": {
+  "slug": "da-nang-vietnam-latin-xperience-2026",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed 2026-10-05: other-event — Commons: 'Latin Night 2018. Afro-Pfingsten-Festival ... La Mambanegra in der grossen Reithalle Winterthur', categories 'Afro-Pfingsten' and 'Concerts in Winterthur'. It shows a different band at a different festival in S",
+  "at": "2026-10-05T08:36:33.108Z"
+ },
  "da-nang-xliii-specialty-coffee\u0001https://fastly.4sqi.net/img/general/original/24440652_FBS5VhcSoxdBBz31BcLrQSBrgT1-YdmEFqPQq6_SHAY.jpg": {
   "slug": "da-nang-xliii-specialty-coffee",
   "verdict": "MATCH",
@@ -6372,9 +6384,9 @@
  },
  "florence-florence-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/5/5c/London_Marathon_2017_IMGP1066_%2835405521744%29.jpg": {
   "slug": "florence-florence-marathon",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Female marathon runner in action, sport-appropriate",
-  "at": "2026-10-01T23:25:55.205Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed 2026-10-05: other-event — The Commons file is 'London Marathon 2017', an elite women's runner on Westferry Road, Millwall, London (category 2017 London Marathon). It was matched only because the runner is Florence Kiplagat. It shows a different r",
+  "at": "2026-10-05T08:36:33.108Z"
  },
  "florence-galleria-dell-accademia-di-firenze\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Busts_displayed_at_Galleria_dell%E2%80%99Accademia_di_Firenze.jpg/1920px-Busts_displayed_at_Galleria_dell%E2%80%99Accademia_di_Firenze.jpg": {
   "slug": "florence-galleria-dell-accademia-di-firenze",
@@ -7131,6 +7143,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Orchestra concert hall, not Khalid or Kintex venue",
   "at": "2026-09-24T22:42:08.206Z"
+ },
+ "goyang-si-khalid-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Seonghyeon-ro%2C_Ilsandong-gu%2C_Goyang-si%2C_Gyeonggi-do%2C_South_Korea_-_panoramio.jpg/1280px-Seonghyeon-ro%2C_Ilsandong-gu%2C_Goyang-si%2C_Gyeonggi-do%2C_South_Korea_-_panoramio.jpg": {
+  "slug": "goyang-si-khalid-concert",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed 2026-10-05: city — This is a Panoramio shot of Seonghyeon-ro, Ilsandong-gu, Goyang (categories Goyang; Golf in South Korea). The image shows a golf driving-range building with netting behind farm fields. It shows neither Khalid nor the KIN",
+  "at": "2026-10-05T08:36:33.108Z"
  },
  "goyang-the-weeknd-hyundai-card-super-concert-28\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_Weeknd_at_Bumbershoot_2015_%2821367628469%29.jpg/1920px-The_Weeknd_at_Bumbershoot_2015_%2821367628469%29.jpg": {
   "slug": "goyang-the-weeknd-hyundai-card-super-concert-28",
@@ -8575,9 +8593,9 @@
  },
  "hong-kong-the-weeknd-after-hours-til-dawn-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/The_Weeknd_Universal_Studios_Hollywood.jpg/3840px-The_Weeknd_Universal_Studios_Hollywood.jpg": {
   "slug": "hong-kong-the-weeknd-after-hours-til-dawn-tour",
-  "verdict": "MATCH",
-  "reason": "event-mode back-audit: Event-branded entrance signage for The Weeknd bar/tour",
-  "at": "2026-09-20T06:36:04.221Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed 2026-10-05: other-event — The description reads 'Halloween Horror Nights - The Weeknd: After Hours Nightmare Bar', at Universal Studios Hollywood (2022). The image shows only a neon sign over a theme-park attraction entrance. It shows neither the",
+  "at": "2026-10-05T08:36:33.108Z"
  },
  "hong-kong-tim-ho-wan-central\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/HK_SKD_TKO_%E5%AF%B6%E7%90%B3_Po_Lam_Metro_City_Plaza_%E6%96%B0%E9%83%BD%E5%9F%8E_MCP_Two_II_Central_mall_%E6%B7%BB%E5%A5%BD%E9%81%8B_Tim_Ho_Wan_Restaurant_December_2022_Px3_03.jpg/1920px-HK_SKD_TKO_%E5%AF%B6%E7%90%B3_Po_Lam_Metro_City_Plaza_%E6%96%B0%E9%83%BD%E5%9F%8E_MCP_Two_II_Central_mall_%E6%B7%BB%E5%A5%BD%E9%81%8B_Tim_Ho_Wan_Restaurant_December_2022_Px3_03.jpg": {
   "slug": "hong-kong-tim-ho-wan-central",
@@ -9669,6 +9687,12 @@
   "reason": "City Palace Jaipur's iconic pink facade",
   "reasonKo": "자이푸르 시티팰리스의 상징적 핑크색 건축",
   "at": "2026-08-17T13:25:01.783Z"
+ },
+ "jakarta-avenged-sevenfold-jakarta-2026\u0001https://upload.wikimedia.org/wikipedia/commons/2/21/Jakarta_old_football.jpg": {
+  "slug": "jakarta-avenged-sevenfold-jakarta-2026",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed 2026-10-05: unrelated — The Commons description is 'A young boy, in Jakarta Indonesia, holds a tattered football', 2004, with categories 'Slums in Jakarta' and 'Boys with association football balls' plus a personality-rights warning. The image ",
+  "at": "2026-10-05T08:36:33.108Z"
  },
  "jakarta-avenged-sevenfold-jakarta-2026\u0001https://upload.wikimedia.org/wikipedia/commons/d/df/Avenged_Sevenfold_Live_in_the_LBC_large.png": {
   "slug": "jakarta-avenged-sevenfold-jakarta-2026",
@@ -11384,6 +11408,12 @@
   "reason": "patrol reject: Historical painting/illustration, not a photo of festival",
   "at": "2026-10-01T23:29:42.214Z"
  },
+ "konya-mevlana-festival-whirling-dervishes-festival\u0001https://upload.wikimedia.org/wikipedia/commons/b/bd/Hilton_Garden_Inn%2C_Konya.jpg": {
+  "slug": "konya-mevlana-festival-whirling-dervishes-festival",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed 2026-10-05: other-place — The Commons description is 'Hotel Hilton Garden Inn, Konya, Turkey', 2014, in the 'Hotels in Konya' category. The image is a branded hotel facade with tour buses. It is in Konya, but it is neither the venue (Mevlana Cult",
+  "at": "2026-10-05T08:36:33.108Z"
+ },
  "konya-mevlana-festival-whirling-dervishes-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Konya_Mevlana_Museum_nefir_3898.jpg/3840px-Konya_Mevlana_Museum_nefir_3898.jpg": {
   "slug": "konya-mevlana-festival-whirling-dervishes-festival",
   "verdict": "MISMATCH",
@@ -11866,6 +11896,12 @@
   "reason": "Distinctive architecture matches Borneo Cultures Museum, Kuc",
   "reasonKo": "쿠칭 보르네오 문화박물관의 특징적 건축",
   "at": "2026-08-19T13:29:23.094Z"
+ },
+ "kuching-festival-gendang-sarawak-fgs-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gendang_Beleq_at_Erau.jpg/3840px-Gendang_Beleq_at_Erau.jpg": {
+  "slug": "kuching-festival-gendang-sarawak-fgs-2026",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed 2026-10-05: other-event — The Commons description says Lombok's Kuda Lumping/Gendang Beleq art performing at Festival Erau, 2014. Erau is a festival in Tenggarong, East Kalimantan, Indonesia, and the drums are labelled Kotaraja. This is a differe",
+  "at": "2026-10-05T08:36:33.108Z"
  },
  "kuching-kubah-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Kubah_waterafall_at_morning.jpg/1920px-Kubah_waterafall_at_morning.jpg": {
   "slug": "kuching-kubah-national-park",
@@ -12969,6 +13005,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Generic portrait, no connection to the event shown",
   "at": "2026-10-01T23:30:39.551Z"
+ },
+ "lucca-lucca-comics-and-games\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Das_gros_hertzogthum_Florentz_und_die_Republic_Lucca_-_gestochen_und_su_finden_bey_Johann_George_Schreibern_in_Leipzig._%28to_%28IA_dr_das-gros-hertzogthum-florentz-und-die-republic-lucca-gestochen-und-su-fin-11208028%29.jpg/1280px-thumbnail.jpg": {
+  "slug": "lucca-lucca-comics-and-games",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed 2026-10-05: other — Commons: an 18th-century hand-colored map of the Duchy of Florence and the Republic of Lucca by J.G. Schreiber (David Rumsey Collection). The image is an atlas page scan that mostly shows Tuscany. It is not a photo of th",
+  "at": "2026-10-05T08:36:33.108Z"
  },
  "lyon-ayla\u0001https://fastly.4sqi.net/img/general/original/36586_cccPMIefbRlsxaAfqrmvYLsEnO8oYxWso1Q4bcLq2AA.jpg": {
   "slug": "lyon-ayla",
@@ -16271,6 +16313,12 @@
   "reasonKo": "팔레르모 대성당 외관, 건축양식, 광장",
   "at": "2026-08-11T14:03:49.548Z"
  },
+ "palermo-palermo-marathon-maratona-internazionale-di-palermo\u0001https://upload.wikimedia.org/wikipedia/commons/9/9b/Berlin_marathon.jpg": {
+  "slug": "palermo-palermo-marathon-maratona-internazionale-di-palermo",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed 2026-10-05: other-event — Commons: 'Berlin Marathon 2007', category 'Berlin-Marathon 2007'. The image shows runners in Berlin, a different marathon in a different country from the Palermo Marathon.",
+  "at": "2026-10-05T08:36:33.108Z"
+ },
  "palermo-quattro-canti\u0001https://fastly.4sqi.net/img/general/original/7271324_ps_AdjJlCbAX6gfir0da8IX14ynpK5Q1wggHQlijVvU.jpg": {
   "slug": "palermo-quattro-canti",
   "verdict": "MATCH",
@@ -18498,6 +18546,12 @@
   "reason": "patrol reject: Zurich airport, unrelated to San Sebastián marathon event",
   "at": "2026-10-01T23:37:16.160Z"
  },
+ "san-sebastian-zurich-san-sebastian-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Iglesia_de_San_Sebasti%C3%A1n%2C_Ponta_Delgada%2C_isla_de_San_Miguel%2C_Azores%2C_Portugal%2C_2020-07-29%2C_DD_117-119_HDR.jpg/1280px-Iglesia_de_San_Sebasti%C3%A1n%2C_Ponta_Delgada%2C_isla_de_San_Miguel%2C_Azores%2C_Portugal%2C_2020-07-29%2C_DD_117-119_HDR.jpg": {
+  "slug": "san-sebastian-zurich-san-sebastian-marathon",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed 2026-10-05: other-place — The Commons file is the Church of São Sebastião in Ponta Delgada, São Miguel Island, Azores, Portugal (2020), and the image shows that church facade at blue hour. The marathon is in San Sebastián (Donostia), Spain: a dif",
+  "at": "2026-10-05T08:36:33.108Z"
+ },
  "santiago-de-compostela-casco-historico-de-santiago-de-compostela\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Casco_hist%C3%B3rico_de_Santiago_de_Compostela%2C_avenida_de_Rodrigo_del_Padr%C3%B3n.jpg/3840px-Casco_hist%C3%B3rico_de_Santiago_de_Compostela%2C_avenida_de_Rodrigo_del_Padr%C3%B3n.jpg": {
   "slug": "santiago-de-compostela-casco-historico-de-santiago-de-compostela",
   "verdict": "MATCH",
@@ -20534,6 +20588,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Visible photographer watermark/credit overlaid on image",
   "at": "2026-10-01T23:38:37.296Z"
+ },
+ "singapore-deepavali-diwali-little-india-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/1_singapore_national_day_parade_2011_fireworks.jpg/3840px-1_singapore_national_day_parade_2011_fireworks.jpg": {
+  "slug": "singapore-deepavali-diwali-little-india-festival",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed 2026-10-05: other-event — The Commons description and categories ('National Day Parade 2011', 'Fireworks in Singapore', 'Marina Bay, Singapore, at night') say this is the 2011 National Day Parade fireworks preview at Marina Bay. The image shows f",
+  "at": "2026-10-05T08:36:33.108Z"
  },
  "singapore-formula-1-singapore-grand-prix-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Scuderia_Toro_Rosso_Spare_Front_Wings_2018_Singapore_Grand_Prix.jpg/3840px-Scuderia_Toro_Rosso_Spare_Front_Wings_2018_Singapore_Grand_Prix.jpg": {
   "slug": "singapore-formula-1-singapore-grand-prix-2026",
