@@ -22,6 +22,7 @@ import { offTopicToken } from './lib/offtopic.mjs';
 import { topicKey, FILLER } from './lib/topic-key.mjs';
 import { liveTwinOf, noteLive } from './lib/live-twin.mjs';
 import { readFrontmatter } from './lib/frontmatter-edit.mjs';
+import { TITLE_CONNECTORS } from './lib/titles.mjs';
 import { eventKey, isEventTwin } from './lib/event-twin.mjs';
 import { identityRejection } from './lib/photo-verdict.mjs';
 import { clampBusynessHours } from '../src/lib/hours.mjs';
@@ -346,7 +347,8 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10),
   // A title left dangling on a connector — the de-echo rule stripped the city out of
   // "Classical Gardens of Suzhou" and shipped "Classical Gardens of: Suzhou …".
   // JS \b is ASCII-only: "Panthéon: …" read as "Panth" + "on:" (2026-09-28). Letter-aware boundary.
-  if (/(?<![\p{L}\p{N}])(of|the|de|du|des|at|in|on|and|for|el|la|le|les)\s*:\s/iu.test(p.title) || /[&@+\-–—/]\s*:\s/.test(p.title)) {
+  // Connector list shared with makeTitle (lib/titles.mjs).
+  if (new RegExp(String.raw`(?<![\p{L}\p{N}])(${TITLE_CONNECTORS})\s*:\s`, 'iu').test(p.title) || /[&@+\-–—/]\s*:\s/.test(p.title)) {
     issues.push(`BROKEN TITLE (dangling connector before ":"): ${p.f} — "${p.title}"`);
   }
 

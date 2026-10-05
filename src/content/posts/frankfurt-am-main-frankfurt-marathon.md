@@ -2,7 +2,7 @@
 title: 'Frankfurt Marathon: Dates, Tickets & Venue (Frankfurt am Main)'
 description: The Frankfurt Marathon in Frankfurt am Main runs on October 25, 2026, with the start and finish around the Messe trade-fair grounds and the famous indoor finish inside the Festhalle.
 country: Germany
-region: Frankfurt am Main
+region: Frankfurt
 category: event
 pubDate: '2026-10-05'
 eventStartDate: '2026-10-25'

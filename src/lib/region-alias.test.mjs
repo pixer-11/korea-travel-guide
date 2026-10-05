@@ -7,6 +7,7 @@ test('an alias-source region is retagged to the canonical city', () => {
   assert.equal(canonicalRegion('Goyang-si'), 'Goyang');
   assert.equal(canonicalRegion('Washington'), 'Washington DC');
   assert.equal(canonicalRegion('Nonthaburi'), 'Bangkok');
+  assert.equal(canonicalRegion('Frankfurt am Main'), 'Frankfurt');
 });
 
 test('a canonical or unrelated region is left alone', () => {

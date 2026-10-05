@@ -16,7 +16,9 @@ const { Content } = await render(src);
 const d = src.data;
 ---
 
-<BaseLayout title={d.metaTitle} description={d.metaDescription} localized={true}>
+{/* The page IS the signup: the site-wide slide-in asked a reader who scrolled
+    it to subscribe a second time (2026-10-05 audit). */}
+<BaseLayout title={d.metaTitle} description={d.metaDescription} localized={true} suppressPopup={true}>
   <div class="page-hero">
     <div class="wrap">
       <p class="eyebrow">{d.eyebrow}</p>

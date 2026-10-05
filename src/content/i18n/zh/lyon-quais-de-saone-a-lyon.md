@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: lyon-quais-de-saone-a-lyon
-srcHash: '3a726daed827'
+srcHash: 'cbc779c9eb18'
 title: 索恩河畔步道：里昂旅行指南（4.5★）
 description: 索恩河畔步道（Quais de Saône）沿着里昂第五区的富尔希隆河岸（Quai Fulchiron）延伸，全天开放，随时可以免费漫步。4.5★（232条点评）——游客怎么说、开放时间与实用建议。
 quickAnswer: 索恩河畔步道（Quais de Saône）是里昂的滨河步道，位于第五区的富尔希隆河岸（Quai Fulchiron），全天24小时开放，随时可以免费前往漫步。建议尽量早去：工作日早上7点到8点人最少，周末则是早上8点到中午之前比较安静，过了这个时间跑步的人、骑车的人和野餐的人就会渐渐多起来。从老里昂（Vieux Lyon）走到索恩河南段比较安静的一段，安排一到两个小时刚刚好。

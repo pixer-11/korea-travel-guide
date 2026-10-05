@@ -46,9 +46,13 @@ interface Props {
   // both, and the page-matched inline offer is the stronger of the two
   // (subscriber-growth research 2026-08-14).
   suppressPopup?: boolean;
+  // Set on a page whose URL carries a secret (the Pinterest OAuth callback's
+  // ?code=): neither analytics script loads, so the code never reaches
+  // Plausible or Google with the page URL (2026-10-05 audit).
+  noAnalytics?: boolean;
 }
 
-const { title, description, image, article = false, jsonLd, localized = false, localizedLangs, noindex = false, suppressPopup = false, popupRegion, popupCountry } = Astro.props;
+const { title, description, image, article = false, jsonLd, localized = false, localizedLangs, noindex = false, suppressPopup = false, noAnalytics = false, popupRegion, popupCountry } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 // Which locales the language switcher may link to WITHOUT preserving the path
@@ -278,7 +282,7 @@ const orgLd = {
 
     <!-- Privacy-friendly analytics by Plausible (cookieless, no consent banner).
          Our `Affiliate click` custom events fire via window.plausible() below. -->
-    <script is:inline async src="https://plausible.io/js/pa-8beY2XpeZiWKI7EzsoQ6f.js"></script>
+    {!noAnalytics && <script is:inline async src="https://plausible.io/js/pa-8beY2XpeZiWKI7EzsoQ6f.js"></script>}
     <script is:inline>
       window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
       plausible.init()
@@ -292,7 +296,7 @@ const orgLd = {
          · EEA/UK/CH default to consent DENIED: no cookies, cookieless pings
            only. Everywhere, ad storage is denied — the site shows no ads yet.
          · gtag.js is async, so it never blocks rendering. -->
-    <script is:inline>
+    {!noAnalytics && <script is:inline>
       (function () {
         try { if (localStorage.getItem('plausible_ignore') === 'true') return; } catch (_) {}
         var ID = 'G-P6WETF9HNF';
@@ -312,7 +316,7 @@ const orgLd = {
         s.src = 'https://www.googletagmanager.com/gtag/js?id=' + ID;
         document.head.appendChild(s);
       })();
-    </script>
+    </script>}
 
     {
       jsonLd && (

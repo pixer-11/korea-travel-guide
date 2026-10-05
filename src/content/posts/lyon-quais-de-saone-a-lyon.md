@@ -1,5 +1,5 @@
 ---
-title: 'Quais de Saône à: Lyon Travel Guide (4.5★)'
+title: 'Quais de Saône à Lyon: Travel Guide (4.5★)'
 description: >-
   The Quais de Saône are Lyon's riverside promenade along Quai Fulchiron in the
   5th arrondissement, open around the clock and free to walk any time. 4.5★ (232

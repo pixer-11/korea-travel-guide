@@ -40,6 +40,12 @@ export function cleanVenueName(name) {
 // star badge "(4.9★)" is appended for review-intent SERP CTR, but only if
 // the whole title still fits Google's ~60-char display. A long venue name is
 // never truncated to make room — those titles simply skip the badge.
+// Words a title must not end on before its ":". One list for makeTitle's
+// de-echo guard and the publish gate (validate-content): the gate kept its own
+// shorter copy without à/a or the Italian/German connectors, so "Quais de Saône
+// à: Lyon Travel Guide" passed it as clean (2026-10-05 audit).
+export const TITLE_CONNECTORS = 'of|the|de|du|des|at|in|on|and|for|à|a|el|la|le|les|di|del|della|delle|dello|dei|degli|da|dal|dalla|do|dos|das|von|vom|zum|zur|der|van|y|e|et|und';
+
 export function makeTitle(name, target, place) {
   const region = target.region;
   let base = cleanVenueName(name);
@@ -53,7 +59,7 @@ export function makeTitle(name, target, place) {
   // Italian, Spanish, Portuguese, German and Dutch connectors too: "Arena di
   // Verona" became "Arena di: Verona Travel Guide", and four more like it
   // (Bing audit, 2026-10-05).
-  const danglesConnector = /(?<![\p{L}\p{N}])(of|the|de|du|des|at|in|on|and|for|à|a|el|la|le|les|di|del|della|delle|dello|dei|degli|da|dal|dalla|do|dos|das|von|vom|zum|zur|der|van|y|e|et|und)$|[&@+\-–—/]$/iu.test(deEchoed);
+  const danglesConnector = new RegExp(String.raw`(?<![\p{L}\p{N}])(${TITLE_CONNECTORS})$|[&@+\-–—/]$`, 'iu').test(deEchoed);
   if (deEchoed.length >= 5 && !danglesConnector) base = deEchoed;
   // If the venue name itself contains the city ("Tokyo Tower"), don't repeat it in
   // the suffix — "Tokyo Tower: Travel Guide", not "…: Tokyo Travel Guide".

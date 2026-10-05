@@ -122,10 +122,17 @@ export function fixCjkBoldLine(line) {
 export function fixCjkBold(body) {
   // Lines inside a fenced code block are code: a ** there is literal, and a
   // line read on its own cannot know it is fenced (Codex, 10-03).
-  let fenced = false;
+  // The fence closes as CommonMark closes it — same character, a run at least as
+  // long, nothing after it — not on any ``` line: a nested ```` block or a ~~~
+  // inside ``` flipped a boolean and left the rest of the body unrepaired
+  // (2026-10-05 audit).
+  let open = null;
   return String(body ?? '').split('\n').map((line) => {
-    if (/^\s*(```|~~~)/.test(line)) { fenced = !fenced; return line; }
-    return fenced ? line : fixCjkBoldLine(line);
+    // Any indent, as before: a fence inside a list item sits deeper than 3.
+    const m = /^\s*(`{3,}|~{3,})(.*)$/.exec(line.replace(/\r$/, ''));
+    if (m && !open) { open = { ch: m[1][0], len: m[1].length }; return line; }
+    if (m && open && m[1][0] === open.ch && m[1].length >= open.len && m[2].trim() === '') { open = null; return line; }
+    return open ? line : fixCjkBoldLine(line);
   }).join('\n');
 }
 

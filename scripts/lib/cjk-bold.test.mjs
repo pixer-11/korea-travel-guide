@@ -164,6 +164,22 @@ test('pairing leaves *** lines and fenced code alone (Codex, 10-03)', () => {
   assert.equal(fixCjkBold(fenced), fenced);
 });
 
+// 2026-10-05: any ``` line flipped the fence, so a nested or mixed fence left
+// every line after the block unrepaired.
+test('a fence closes only on its own kind and length', () => {
+  const after = '**文章。**次';
+  const fixed = fixCjkBoldLine(after);
+  assert.notEqual(fixed, after);
+  for (const block of [['````', '```', '**文字。**続き', '````'], ['```', '~~~', '```'], ['```js', 'x', '```']]) {
+    const out = fixCjkBold([...block, after].join('\n')).split('\n');
+    assert.deepEqual(out.slice(0, block.length), block, block.join('|'));
+    assert.equal(out.at(-1), fixed, block.join('|'));
+  }
+  // A ``` line with an info string inside a block does not close it.
+  const inner = ['```', '```js', '**A**，B。**C。**D', '```'];
+  assert.equal(fixCjkBold(inner.join('\n')), inner.join('\n'));
+});
+
 // 2026-10-05: two spans side by side ("****") were skipped as if bold-italic.
 test('two bold spans glued by a full-width colon are repaired', () => {
   const out = fixCjkBold('- **KRL通勤铁路：****Palmerah**站位于GBK西侧边缘。');

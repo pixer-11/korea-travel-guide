@@ -2,7 +2,7 @@
 title: 'Frankfurter Buchmesse: Dates, Tickets & Venue (Frankfurt am Main)'
 description: The Frankfurter Buchmesse runs October 7-11, 2026 at the Messe Frankfurt exhibition grounds in Frankfurt am Main, reached directly by S-Bahn to Messe or U4 to Festhalle/Messe.
 country: Germany
-region: Frankfurt am Main
+region: Frankfurt
 category: event
 pubDate: '2026-10-05'
 eventStartDate: '2026-10-07'

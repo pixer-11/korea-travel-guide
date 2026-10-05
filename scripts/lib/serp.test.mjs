@@ -85,3 +85,14 @@ test('makeTitle keeps Italian and other connectors attached to the city (Bing au
   // The echo is still stripped when what remains stands alone.
   assert.equal(makeTitle('Flavors Grill Abu Dhabi', { region: 'Abu Dhabi', category: 'restaurant' }), 'Flavors Grill: Where to Eat in Abu Dhabi');
 });
+
+// The publish gate kept a shorter connector list than makeTitle: "Quais de
+// Saône à: Lyon Travel Guide" passed it as clean (2026-10-05 audit). Both now
+// read TITLE_CONNECTORS; this is the gate's own expression.
+test('the dangling-connector gate flags what makeTitle would never write', async () => {
+  const { makeTitle, TITLE_CONNECTORS } = await import('./titles.mjs');
+  const gate = new RegExp(String.raw`(?<![\p{L}\p{N}])(${TITLE_CONNECTORS})\s*:\s`, 'iu');
+  for (const t of ['Quais de Saône à: Lyon Travel Guide', 'Arena di: Verona Travel Guide', 'Classical Gardens of: Suzhou Travel Guide']) assert.ok(gate.test(t), t);
+  for (const t of ['Panthéon: Paris Travel Guide', 'Quais de Saône à Lyon: Travel Guide (4.5★)', 'Tokyo Tower: Travel Guide']) assert.ok(!gate.test(t), t);
+  assert.equal(makeTitle('Quais de Saône à Lyon', { region: 'Lyon', category: 'attraction' }), 'Quais de Saône à Lyon: Travel Guide');
+});

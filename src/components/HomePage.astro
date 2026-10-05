@@ -19,6 +19,7 @@ import { pickRepHeroUrl, tileSize } from '../lib/repImage';
 import { wallFor } from '../lib/wall';
 import { COUNTRY_TIME } from '../lib/countryTime';
 import { buildToday } from '../lib/buildDay.mjs';
+import { venueTimeZone } from '../lib/venue-tz.mjs';
 import { MONTH_SLUGS } from '../lib/when-to-go.mjs';
 import { esimCountries } from '../lib/esim-paths.mjs';
 import { longWeekends, homeGroup, GROUP_ORDER, bandString, diverseNewest, roundRobinByCountry, countLastWeek } from '../lib/home-data.mjs';
@@ -234,7 +235,7 @@ const holRange = (b: any) => `${holFmt.format(new Date(`${b.start}T12:00:00Z`))}
 // Events genuinely happening this month, one per region, dates straight from
 // each guide's frontmatter. The build makes picks for its own month AND the
 // neighbours; the script shows the reader's month and skips what has ended by
-// the reader's date (owner, 10-01). On the Korean home the picks are abroad:
+// the venue's date (lib/evDay, as on the events hubs; 2026-10-05 audit). On the Korean home the picks are abroad:
 // its readers are outbound travellers, and the mock flagged a Korean event
 // topping /ko/ as the wrong recommendation.
 const monthKeyOf = (d: Date) => `${d.getUTCFullYear()}-${String(d.getUTCMonth() + 1).padStart(2, '0')}`;
@@ -510,7 +511,7 @@ const editorCountries = EDITOR_VISITED.filter((v) => !v.region).length;
         <p class="ess-dek">{t('home.monthly.dek')}</p>
         <div class="stories">
           {monthSets.flatMap((m) => m.picks.map((p: any, i: number) => (
-            <a class="story" href={card.href(p.id, true)} data-set={m.key} data-ev-end={evEndOf(p)} hidden={!(m.current && i < PICKS)}>
+            <a class="story" href={card.href(p.id, true)} data-set={m.key} data-ev-end={evEndOf(p)} data-tz={venueTimeZone(p.data.country ?? 'South Korea', p.data.region) ?? undefined} hidden={!(m.current && i < PICKS)}>
               <div class="story-thumb">
                 {p.data.heroImage ? (
                   <img src={tileSize(p.data.heroImage.url)} alt={eventSchemaName(p.data.title)} loading="lazy" width="600" height="400" />
@@ -723,6 +724,7 @@ const editorCountries = EDITOR_VISITED.filter((v) => !v.region).length;
   </section>
 
   <script>
+    import { isOver } from '../lib/evDay';
     const DAY = 86_400_000;
     const n = new Date();
     const readerDay = Date.UTC(n.getFullYear(), n.getMonth(), n.getDate()) / DAY;
@@ -861,7 +863,8 @@ const editorCountries = EDITOR_VISITED.filter((v) => !v.region).length;
     // ── "This month": the reader's month, picks not yet ended ─────────────
     {
       const key = `${n.getFullYear()}-${String(n.getMonth() + 1).padStart(2, '0')}`;
-      const ended = (el: HTMLElement) => dayOf(el.dataset.evEnd) < readerDay;
+      // Ended where it happens, not on the reader's calendar (lib/evDay).
+      const ended = (el: HTMLElement) => isOver(el.dataset.evEnd, el.dataset.tz);
       const sec = document.querySelector<HTMLElement>('[data-monthly]');
       if (sec) {
         const sets = new Set([...sec.querySelectorAll<HTMLElement>('[data-set]')].map((e) => e.dataset.set || ''));
