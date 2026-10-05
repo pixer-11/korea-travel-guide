@@ -391,7 +391,15 @@ function explicitSubId(url) {
 async function handleKlookGo(request) {
   const reqUrl = new URL(request.url);
   const to = reqUrl.searchParams.get('to');
-  const dest = to && /^https:\/\/(www\.)?klook\.com\//.test(to) ? to : 'https://www.klook.com/';
+  let dest = to && /^https:\/\/(www\.)?klook\.com\//.test(to) ? to : 'https://www.klook.com/';
+  // Our /zh/ pages are Simplified, so their Klook links say zh-CN. A reader in
+  // Taiwan or Hong Kong gets Klook's Traditional store instead — its biggest
+  // markets after mainland China (funnel audit 10-05: 63 TW/HK visits a
+  // month). Same path, verified: /zh-TW/destination/c13-seoul/ is served in
+  // Traditional Chinese. Mainland readers are untouched.
+  const ctry = request.headers.get('cf-ipcountry') || '';
+  const trad = ctry === 'TW' ? 'zh-TW' : ctry === 'HK' || ctry === 'MO' ? 'zh-HK' : '';
+  if (trad) dest = dest.replace(/^(https:\/\/(?:www\.)?klook\.com)\/zh-CN\//, `$1/${trad}/`);
   const subId = explicitSubId(reqUrl) ?? subIdFromReferer(request.headers.get('referer'));
   const fallback = `https://affiliate.klook.com/redirect?aid=api%7C13694%7C-754088%7Cpid%7C754088&k_site=${encodeURIComponent(dest)}`;
   try {
