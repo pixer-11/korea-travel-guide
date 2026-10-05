@@ -416,6 +416,20 @@ async function handleKlookGo(request) {
   }
 }
 
+// ── quarantine table ─────────────────────────────────────────
+// dist/quarantine-redirects.json, { slug: regionSlug | '' }, read once per
+// isolate. A missing or broken table means "no rescue", never an error page.
+let quarantineTable = null;
+async function quarantineTarget(env, request, slug) {
+  if (!quarantineTable) {
+    quarantineTable = env.ASSETS.fetch(new Request(new URL('/quarantine-redirects.json', request.url)))
+      .then((r) => (r.ok ? r.json() : {}))
+      .catch(() => ({}));
+  }
+  const table = await quarantineTable;
+  return Object.prototype.hasOwnProperty.call(table, slug) ? String(table[slug] ?? '') : null;
+}
+
 // ── router ───────────────────────────────────────────────────
 export default {
   async fetch(request, env) {
@@ -462,6 +476,17 @@ export default {
     // loop is possible.
     if (res.status === 404 && request.method === 'GET') {
       const url = new URL(request.url);
+      // A quarantined post: back to its region hub with a 302 (the build's
+      // quarantineRedirectMap; it was five _redirects lines a post until those
+      // passed Cloudflare's 2,000-rule cap, 2026-10-05). Slashless or not.
+      const held = /^(\/(?:ko|ja|es|zh))?\/posts\/([^/]+)\/?$/.exec(url.pathname);
+      if (held) {
+        const to = await quarantineTarget(env, request, held[2]);
+        if (to !== null) {
+          const p = held[1] || '';
+          return Response.redirect(new URL(to ? `${p}/regions/${to}/` : `${p}/`, url).toString(), 302);
+        }
+      }
       if (!url.pathname.endsWith('/') && !/\.[a-z0-9]+$/i.test(url.pathname)) {
         url.pathname += '/';
         return Response.redirect(url.toString(), 301);

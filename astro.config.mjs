@@ -351,12 +351,11 @@ export function regionRedirects() {
   // 404 in five languages. No live hub → fall back to the homepage, a poor
   // landing but an existing one.
   const liveHubs = new Set([...liveRegions].map(canon));
-  for (const d of drafts) {
-    const reg = canon(d.region);
-    for (const p of ['', '/ko', '/ja', '/es', '/zh']) {
-      lines.push(`${p}/posts/${d.slug}/ ${reg && liveHubs.has(reg) ? `${p}/regions/${reg}/` : (p || '/')} 302`);
-    }
-  }
+  // The quarantine rescue no longer lives in _redirects (2026-10-05): five lines
+  // per held post reached 1,520 of the file's 2,027 lines, past Cloudflare's
+  // 2,000-rule cap, and the build stopped. quarantineRedirectMap() below hands
+  // the same slug → hub table to the worker, which applies it on a 404 with
+  // the same 302 — no cap, however many posts are held.
   for (const r of regions) {
     const oldEnc = encodeURI(r.toLowerCase()); // what the old href resolved to
     const next = regionSlug(r);
@@ -594,6 +593,42 @@ export function regionRedirects() {
   } catch { /* no retired list */ }
   return lines.sort();
 }
+
+/**
+ * Quarantined (draft:true) posts → where their old URL should land:
+ * { slug: regionSlug } for a region with a live hub, { slug: '' } for the
+ * homepage. The worker (worker/index.mjs) reads it from
+ * dist/quarantine-redirects.json and answers a would-be 404 on
+ * [/<lang>]/posts/<slug>/ with a 302 there — the rule that used to be five
+ * _redirects lines per post (see regionRedirects). 302 for the reason given
+ * there: quarantine is temporary, and the URL must keep its ranking.
+ */
+export function quarantineRedirectMap() {
+  const dir = join(__dirname, 'src/content/posts');
+  let files = [];
+  try { files = readdirSync(dir); } catch { return {}; }
+  const liveRegions = new Set();
+  const drafts = [];
+  for (const f of files) {
+    if (!f.endsWith('.md')) continue;
+    let fm = '';
+    try { fm = readFileSync(join(dir, f), 'utf8').split('---')[1] || ''; } catch { continue; }
+    const m = /(?:^|\n)region:\s*(.+)/.exec(fm);
+    const r = m?.[1]?.trim().replace(/^(['"])(.*)\1$/, '$2').trim();
+    if (/(?:^|\n)draft:\s*true/.test(fm)) drafts.push({ slug: f.replace(/\.md$/, ''), region: r || '' });
+    else if (r && !r.includes('/')) liveRegions.add(r);
+  }
+  /** @param {string} name */
+  const canon = (name) => { const raw = regionSlug(name); return REGION_ALIAS[raw] ?? raw; };
+  const liveHubs = new Set([...liveRegions].map(canon));
+  /** @type {Record<string, string>} */
+  const out = {};
+  for (const d of drafts) {
+    const reg = canon(d.region);
+    out[d.slug] = reg && liveHubs.has(reg) ? reg : '';
+  }
+  return out;
+}
 // Custom integration: after the build, append the region 301s to dist/_redirects
 // (Cloudflare Workers static-assets honours this file). Runs every build so new
 // multi-word regions are covered automatically — no hand-maintained list.
@@ -602,6 +637,8 @@ function regionRedirectsIntegration() {
     name: 'region-redirects',
     hooks: {
       'astro:build:done': (/** @type {{ dir: URL }} */ { dir }) => {
+        // The quarantine table for the worker (see quarantineRedirectMap).
+        writeFileSync(fileURLToPath(new URL('quarantine-redirects.json', dir)), JSON.stringify(quarantineRedirectMap()));
         const out = fileURLToPath(new URL('_redirects', dir));
         let existing = '';
         try { existing = readFileSync(out, 'utf8').replace(/\s*$/, '') + '\n\n'; } catch { /* none yet */ }
@@ -628,13 +665,13 @@ function regionRedirectsIntegration() {
         if (rules > 2000) {
           throw new Error(
             `_redirects: ${rules} rules exceeds Cloudflare's 2,000 cap. The overflow would be dropped ` +
-            `without warning and quarantined URLs would 404. Release posts from quarantine (5 lines each) ` +
-            `or prune retired redirects before shipping.`,
+            `without warning and redirected URLs would 404. Quarantine no longer writes here (the worker ` +
+            `handles it); look at retired posts and region aliases, five lines each.`,
           );
         }
         if (rules > 1600) {
           console.warn(`⚠️  _redirects: ${rules}/2000 rules — Cloudflare drops the rest without saying so.`);
-          console.warn('   Quarantined posts write 5 lines each; releasing them from quarantine is what frees space.');
+          console.warn('   Retired posts and region aliases write 5 lines each; quarantine is served by the worker.');
         }
       },
     },
