@@ -1,71 +1,71 @@
 ---
 lang: es
 slug: incheon-edc-korea-electric-daisy-carnival
-srcHash: 'f5a26073fd1f'
-title: 'EDC Corea (Electric Daisy Carnival): fechas, entradas y sede (Incheon)'
-description: EDC Corea (Electric Daisy Carnival) en Incheon, Corea del Sur, se celebra el 3 y 4 de octubre de 2026. Qué es, cuándo y dónde se celebra, y cómo organizar el viaje.
-quickAnswer: EDC Corea vuelve los días 3 y 4 de octubre de 2026 al INSPIRE Entertainment Resort de Incheon, con Tiësto, DJ Snake, FISHER, Alok y un b2b de ILLENIUM y Dabin como cabezas de cartel. Compra las entradas únicamente a través de los canales oficiales de EDC Corea o Insomniac cuando salgan a la venta, y organiza el viaje en torno al Aeropuerto Internacional de Incheon, situado a pocos minutos del recinto. Conviene confirmar los horarios exactos de las actuaciones, la apertura de puertas y el cartel definitivo en la web oficial a medida que se acerque la fecha.
+srcHash: '7c51974615c7'
+title: 'EDC Korea (Electric Daisy Carnival): fechas, entradas y recinto (Incheon)'
+description: Las fechas anunciadas de la EDC Korea (Electric Daisy Carnival) eran el 3 y el 4 de octubre de 2026, en el INSPIRE Entertainment Resort de Incheon. Tiësto y DJ Snake encabezaban el cartel.
+quickAnswer: Las fechas anunciadas de la EDC Korea eran el 3 y el 4 de octubre de 2026, en el INSPIRE Entertainment Resort de Incheon. Encabezaban el cartel Tiësto, DJ Snake, FISHER, Alok y una sesión b2b de ILLENIUM y Dabin. Las entradas se vendían a través de los canales oficiales de EDC Korea e Insomniac. El INSPIRE está a pocos minutos del Aeropuerto Internacional de Incheon, así que muchos visitantes extranjeros llegaban al recinto sin pasar siquiera por Seúl.
 faq:
-  - q: ¿Cuáles son las fechas exactas y la sede de EDC Corea 2026?
-    a: El 3 y 4 de octubre de 2026 en el INSPIRE Entertainment Resort de Incheon, según el anuncio oficial. Conviene revisar siempre la web oficial de EDC Corea cerca de la fecha por si hubiera cambios.
-  - q: ¿Cómo se llega al INSPIRE Entertainment Resort desde el aeropuerto?
-    a: El INSPIRE está a un corto trayecto en taxi o en el shuttle del resort desde el Aeropuerto Internacional de Incheon, lo que lo convierte en una de las sedes de grandes festivales más cómodas de Asia para los visitantes internacionales.
-  - q: ¿Quiénes encabezan el cartel de EDC Corea 2026?
-    a: Entre los cabezas de cartel confirmados están Tiësto, DJ Snake, FISHER, Alok y un b2b de ILLENIUM y Dabin, aunque es posible que aún se anuncien más nombres.
-  - q: ¿Dónde conviene comprar las entradas?
-    a: Solo a través de los canales oficiales de venta de EDC Corea o Insomniac. Los precios no estaban cerrados en el momento de escribir esto, así que conviene estar atento a los anuncios oficiales sobre fechas de salida a la venta y categorías de entrada.
-  - q: ¿Es mejor alojarse en el resort o en Seúl?
-    a: Alojarse en el INSPIRE o cerca de él ahorra bastante tiempo de desplazamiento frente a viajar desde Seúl, trayecto que puede superar la hora en cada sentido según el tráfico.
+  - q: ¿Cuáles eran las fechas exactas y el recinto de la EDC Korea 2026?
+    a: El 3 y el 4 de octubre de 2026, en el INSPIRE Entertainment Resort de Incheon (Corea del Sur).
+  - q: ¿Cómo se llegaba al INSPIRE Entertainment Resort desde el aeropuerto?
+    a: Desde el Aeropuerto Internacional de Incheon, el trayecto en taxi o en los traslados del complejo era corto. Esto convertía al INSPIRE en uno de los grandes recintos de festivales de Asia más cómodos para el visitante internacional.
+  - q: ¿Quiénes encabezaban el cartel de la EDC Korea 2026?
+    a: Las figuras principales eran Tiësto, DJ Snake, FISHER, Alok y una sesión b2b de ILLENIUM y Dabin.
+  - q: ¿Dónde se vendían las entradas?
+    a: Las entradas se vendían únicamente a través de los canales oficiales de EDC Korea e Insomniac. Los precios exactos de 2026 y la estructura de categorías nunca llegaron a detallarse.
+  - q: ¿Era mejor alojarse en el complejo o en Seúl?
+    a: Alojarse en el INSPIRE o en sus alrededores ahorraba mucho tiempo frente a desplazarse cada día desde Seúl. Según el tráfico, ese trayecto podía superar la hora en cada sentido.
 ---
 
-## Por qué EDC Corea importa
+## Por qué importa la EDC Korea
 
-Electric Daisy Carnival ha llegado a Incheon para su tercera edición coreana y se ha convertido rápidamente en el fin de semana de música electrónica más destacado de la región. No se trata de una rave clandestina en un almacén: es la maquinaria de producción completa de Insomniac, reconocida mundialmente por sus imponentes escenografías, sus fuegos artificiales y sus envolventes juegos de luces, trasladada ahora a suelo coreano.
+La cita de 2026 en Incheon era la tercera edición coreana de la Electric Daisy Carnival. En muy poco tiempo, este fin de semana se ha convertido en el gran acontecimiento de la música electrónica de la región. No se trata de una fiesta clandestina en una nave industrial. Es toda la maquinaria de producción de Insomniac trasladada a suelo coreano, con las escenografías monumentales, la pirotecnia y los espectáculos de luz inmersivos que le han dado fama mundial.
 
-En 2026, las fechas del 3 y 4 de octubre coinciden con un largo fin de semana festivo en torno al Día de la Fundación Nacional de Corea, lo que históricamente atrae a un público local más numeroso que un fin de semana cualquiera.
+El 3 y el 4 de octubre coincidían con un largo puente festivo en torno al Día de la Fundación Nacional de Corea. Tradicionalmente, estas fechas atraen a más público local que un fin de semana corriente.
 
-## La sede: INSPIRE Entertainment Resort
+## El recinto: INSPIRE Entertainment Resort
 
-El INSPIRE es un extenso resort integrado situado cerca del Aeropuerto Internacional de Incheon, construido pensando precisamente en este tipo de eventos a gran escala. Cuenta con un recinto cubierto y espacios al aire libre diseñados para conciertos y festivales, además de hoteles, casino y restauración, todo dentro del mismo complejo.
+El INSPIRE es un extenso complejo integrado situado cerca del Aeropuerto Internacional de Incheon y concebido precisamente para el entretenimiento a gran escala. En un mismo recinto reúne un pabellón cubierto y espacios al aire libre pensados para conciertos y festivales, además de hoteles, un casino y numerosos restaurantes.
 
-Esto resulta clave para la logística del festival: es posible aterrizar, hacer el check-in y llegar caminando hasta el escenario sin pasar por el tráfico del centro de Seúl. El sonido suele llegar antes que la imagen del escenario: el bajo retumbando por la explanada, las torres de LED parpadeando entre la bruma del atardecer y las torres de cristal del resort iluminadas al fondo, tras la multitud.
+Para la logística del festival, esto marca la diferencia: el asistente puede aterrizar, instalarse en el hotel y llegar a pie hasta el escenario sin enfrentarse al tráfico del centro de Seúl. La música se oye antes de ver el escenario. Los graves recorren la explanada, las torres LED parpadean entre la bruma del atardecer y, a espaldas del público, se iluminan las torres de cristal del complejo.
 
 ## Cartel y qué esperar
 
-El cartel de 2026 está encabezado por Tiësto, DJ Snake, FISHER, Alok y un b2b de ILLENIUM y Dabin, una combinación de EDM de estadio, house y bass melódico que debería sostener el escenario principal durante las dos noches.
+Encabezaban el cartel de 2026 Tiësto, DJ Snake, FISHER, Alok y una sesión b2b de ILLENIUM y Dabin. Esta combinación de EDM de estadio, house y melodic bass estaba pensada para sostener el escenario principal durante las dos noches.
 
-Cabe esperar la experiencia sensorial completa de EDC:
+Una producción de EDC ofrece una experiencia sensorial completa:
 
-- Varios escenarios, cada uno con un diseño de sonido e iluminación propio
-- Escenografías elaboradas y fuegos artificiales sincronizados con las actuaciones principales
-- Artistas ambulantes e instalaciones artísticas repartidas entre los escenarios
-- Puestos de comida y bebida distribuidos por todo el recinto
+- Varios escenarios, cada uno con su propio diseño de sonido e iluminación
+- Escenografías elaboradas y pirotecnia sincronizada con las actuaciones principales
+- Artistas itinerantes e instalaciones artísticas entre un escenario y otro
+- Puestos de comida y bebida repartidos por todo el recinto
 
-El orden del cartel, los horarios de las actuaciones y la posible incorporación de nuevos artistas pueden cambiar, así que conviene revisar los canales oficiales de EDC Corea antes de cerrar el itinerario.
+En festivales de este tamaño, el orden del cartel, los horarios y los artistas invitados suelen cambiar en las semanas previas a la apertura de puertas.
 
 ## Cómo llegar
 
-El Aeropuerto Internacional de Incheon es la referencia más práctica: el INSPIRE queda tan cerca que muchos visitantes internacionales vuelan expresamente para el festival. Desde el aeropuerto, los shuttles del resort y los taxis cubren ese breve trayecto hasta el recinto.
+El punto de referencia más sencillo es el Aeropuerto Internacional de Incheon. El INSPIRE queda tan cerca que muchos visitantes extranjeros viajan en avión expresamente para el festival. Desde el aeropuerto, el breve trayecto hasta el recinto se cubre en taxi o con los traslados del propio complejo.
 
-Quienes lleguen desde Seúl deberían reservar tiempo de sobra: el trayecto puede rondar la hora o más según el tráfico y el punto de partida, ya sea Gangnam, Hongdae u otro barrio céntrico. Existen opciones de transporte público, pero el taxi o los servicios de VTC suelen ser la opción más sencilla para llevar el equipo del festival o para las salidas de madrugada.
+Desde Seúl se tarda una hora o más, según el tráfico y el punto de partida, ya sea Gangnam, Hongdae u otro barrio céntrico. Hay transporte público, pero el taxi o los vehículos con conductor por aplicación suelen ser la opción más práctica para cargar con el equipo del festival y para volver de madrugada.
 
-Dado que las fechas, los horarios de apertura de puertas y los shuttles pueden variar, conviene confirmar siempre el programa vigente en la web oficial de EDC Corea o en la aplicación de Insomniac antes de viajar.
+Los horarios de apertura de puertas y de los traslados del complejo varían de una edición a otra.
 
-## Entradas y precio
+## Entradas y precios
 
-Las categorías de entrada de los festivales EDC suelen ir desde la entrada general hasta paquetes VIP con zonas de visión privilegiada y barras exclusivas, aunque el precio exacto de 2026 no estaba cerrado en el momento de escribir esto. Conviene comprar únicamente a través de los canales oficiales de Insomniac o EDC Corea: en festivales de esta magnitud abundan las webs de reventa y los vendedores no oficiales, y también circulan entradas falsificadas.
+En los festivales EDC, las categorías de entrada suelen ir desde la entrada general hasta paquetes VIP con zonas elevadas de visión y barras propias. Los precios exactos de 2026, sin embargo, nunca llegaron a publicarse. La venta se hacía a través de los canales oficiales de Insomniac y EDC Korea. En festivales de esta envergadura abundan las páginas de reventa y los vendedores no oficiales, y circulan entradas falsificadas.
 
-Conviene estar atento a los canales sociales oficiales para conocer las fechas de salida a la venta; las primeras tandas de este tipo de festivales suelen agotarse antes y a mejor precio.
+Las fechas de venta se anunciaron por fases. En festivales como este, las primeras categorías suelen ser las más baratas y las que antes se agotan.
 
-## Cómo visitarlo como un local
+## Cómo vivirlo a la coreana
 
-El público de los festivales coreanos suele llegar en oleadas en lugar de concentrarse todo a la apertura de puertas, así que la primera hora suele ser el momento más tranquilo para recorrer los escenarios y comprar merchandising. Conviene guardar las zonas más concurridas para más tarde.
+El público de los festivales coreanos no suele llegar en bloque a la apertura de puertas, sino de forma escalonada. Por eso, la primera hora suele ser el momento más tranquilo para recorrer los escenarios y hacerse con artículos oficiales.
 
-En los festivales coreanos el pago funciona de forma mayoritariamente sin efectivo: la tarjeta y los pagos móviles (Naver Pay, Kakao Pay) cubren la mayoría de los puestos, aunque conviene llevar algo de efectivo de reserva para los puestos más pequeños.
+En los festivales coreanos se paga casi siempre sin efectivo. La tarjeta y el pago móvil (Naver Pay, Kakao Pay) se aceptan en la mayoría de los puestos, aunque algunos de los más pequeños todavía prefieren el efectivo.
 
-- Reservar alojamiento en el INSPIRE o en hoteles cercanos de Incheon con antelación, ya que los fines de semana de festival se agotan rápido
-- Llevar ropa cómoda para bailar durante horas: las noches de otoño en Corea pueden refrescar bastante tras la puesta de sol
-- No es costumbre dejar propina en Corea, tampoco en las barras y puestos de comida del festival
-- No conviene pasar por alto las zonas del resort ajenas al festival: el casino y los restaurantes del INSPIRE son una buena forma de refrescarse entre actuaciones
+- En los fines de semana de festival, el alojamiento en el INSPIRE y en los hoteles cercanos de Incheon se llena enseguida
+- En otoño, las noches coreanas pueden refrescar tras la puesta de sol, aunque la tarde haya sido cálida
+- En Corea no se acostumbra a dejar propina, tampoco en las barras ni en los puestos de comida del festival
+- El casino y los restaurantes del INSPIRE son un lugar cómodo para refrescarse entre una sesión y otra
 
-El error más habitual entre los visitantes es subestimar el tiempo de desplazamiento desde Seúl en las noches de festival, cuando la demanda de shuttles y taxis se dispara con la salida masiva del público.
+El error más habitual de los visitantes es subestimar el tiempo de trayecto desde Seúl en las noches de festival, cuando la demanda de traslados y taxis se dispara a la hora de la salida.

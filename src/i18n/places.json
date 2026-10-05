@@ -209,6 +209,12 @@
     "es": "Bath",
     "zh": "巴斯"
   },
+  "Bathurst": {
+    "ko": "배서스트",
+    "ja": "バサースト",
+    "es": "Bathurst",
+    "zh": "巴瑟斯特"
+  },
   "Battambang": {
     "ko": "바탐방",
     "ja": "バッタンバン",
@@ -406,6 +412,12 @@
     "ja": "カンクン",
     "es": "Cancún",
     "zh": "坎昆"
+  },
+  "Canggu": {
+    "ko": "창구",
+    "ja": "チャングー",
+    "es": "Canggu",
+    "zh": "створ"
   },
   "Cannes": {
     "ko": "칸",
@@ -623,6 +635,12 @@
     "es": "Delhi",
     "zh": "德里"
   },
+  "Delhi NCR": {
+    "ko": "델리 수도권",
+    "ja": "デリー首都圏",
+    "es": "Delhi NCR",
+    "zh": "德里国家首都辖区"
+  },
   "Dempsey Hill": {
     "ko": "뎀시 힐",
     "ja": "デンプシーヒル",
@@ -724,6 +742,12 @@
     "ja": "フランクフルト",
     "es": "Fráncfort",
     "zh": "法兰克福"
+  },
+  "Frankfurt am Main": {
+    "ko": "프랑크푸르트암마인",
+    "ja": "フランクフルト・アム・マイン",
+    "es": "Fráncfort del Meno",
+    "zh": "美因河畔法兰克福"
   },
   "Fremantle": {
     "ko": "프리맨틀",
@@ -857,6 +881,12 @@
     "es": "Guilin",
     "zh": "桂林"
   },
+  "Gurugram": {
+    "ko": "구루그람",
+    "ja": "グルグラム",
+    "es": "Gurugram",
+    "zh": "古尔格拉姆"
+  },
   "Gyeongju": {
     "ko": "경주",
     "ja": "慶州",
@@ -886,6 +916,12 @@
     "ja": "ハンブルク",
     "es": "Hamburgo",
     "zh": "汉堡"
+  },
+  "Hamilton Island": {
+    "ko": "해밀턴 아일랜드",
+    "ja": "ハミルトン島",
+    "es": "Isla Hamilton",
+    "zh": "汉密尔顿岛"
   },
   "Hangzhou": {
     "ko": "항저우",
@@ -1925,6 +1961,12 @@
     "es": "Puerto Vallarta",
     "zh": "巴亚尔塔港"
   },
+  "Pushkar": {
+    "ko": "푸시카르",
+    "ja": "プシュカル",
+    "es": "Pushkar",
+    "zh": "普什卡尔"
+  },
   "Putrajaya": {
     "ko": "푸트라자야",
     "ja": "プトラジャヤ",
@@ -1948,6 +1990,12 @@
     "ja": "ラスアルハイマ",
     "es": "Ras Al Jaima",
     "zh": "哈伊马角"
+  },
+  "Ravenna": {
+    "ko": "라벤나",
+    "ja": "ラヴェンナ",
+    "es": "Rávena",
+    "zh": "拉文纳"
   },
   "Rishikesh": {
     "ko": "리시케시",
@@ -2177,11 +2225,23 @@
     "es": "Singapur",
     "zh": "新加坡"
   },
+  "Sitges": {
+    "ko": "시체스",
+    "ja": "シッチェス",
+    "es": "Sitges",
+    "zh": "锡切斯"
+  },
   "Sokcho": {
     "ko": "속초",
     "ja": "束草",
     "es": "Sokcho",
     "zh": "束草"
+  },
+  "South Jakarta": {
+    "ko": "남자카르타",
+    "ja": "南ジャカルタ",
+    "es": "Yakarta del Sur",
+    "zh": "南雅加达"
   },
   "South Korea": {
     "ko": "대한민국",
@@ -2248,6 +2308,12 @@
     "ja": "スラバヤ",
     "es": "Surabaya",
     "zh": "泗水"
+  },
+  "Surin": {
+    "ko": "수린",
+    "ja": "シーサケート",
+    "es": "Surin",
+    "zh": "素林"
   },
   "Suwon": {
     "ko": "수원",
@@ -2608,6 +2674,12 @@
     "ja": "サンボアンガ",
     "es": "Zamboanga",
     "zh": "三宝颜"
+  },
+  "Zaragoza": {
+    "ko": "사라고사",
+    "ja": "サラゴサ",
+    "es": "Zaragoza",
+    "zh": "萨拉戈萨"
   },
   "Zhangjiajie": {
     "ko": "장자제",

@@ -2,91 +2,91 @@
 lang: es
 slug: kuala-lumpur-kuala-lumpur-standard-chartered-marathon
 srcHash: '5bccde2f4c24'
-title: 'Maratón Standard Chartered de Kuala Lumpur: fechas, inscripciones y sede (Kuala Lumpur)'
-description: El Maratón Standard Chartered de Kuala Lumpur 2026 se celebrará del 3 al 4 de octubre de 2026. Las carreras de 10km y 5km se disputan el 3 de octubre, mientras que el maratón y el medio maratón salen y llegan a Dataran Merdeka el 4 de octubre.
-quickAnswer: El Maratón Standard Chartered de Kuala Lumpur 2026 tendrá lugar del 3 al 4 de octubre de 2026. El 3 de octubre se disputan las carreras de 10km y 5km; el 4 de octubre, el maratón y el medio maratón, ambos con salida y meta en Dataran Merdeka. Es la carrera en ruta de Malasia con la Etiqueta Élite de World Athletics y reúne a decenas de miles de corredores procedentes de más de 70 países. Consulte los horarios, las inscripciones y los dorsales en el sitio oficial del KLSCM.
+title: 'Maratón Standard Chartered de Kuala Lumpur: fechas, entradas y sede (Kuala Lumpur)'
+description: Las fechas anunciadas para el Maratón Standard Chartered de Kuala Lumpur 2026 eran el 3 y el 4 de octubre de 2026. El sábado 3 correspondía a las pruebas de 10km y 5km, y el domingo 4, al maratón y al medio maratón, ambos con salida y meta en Dataran Merdeka.
+quickAnswer: Las fechas anunciadas para el Maratón Standard Chartered de Kuala Lumpur 2026 eran el 3 y el 4 de octubre de 2026. El sábado 3 tocaban las pruebas de 10km y 5km, y el domingo 4, el maratón y el medio maratón, ambos con salida y meta en Dataran Merdeka. Se trataba de la carrera en ruta de Malasia con la distinción Elite Label de World Athletics, y reunía a decenas de miles de corredores procedentes de más de 70 países. El sitio oficial del KLSCM era donde se publicaban los horarios, las inscripciones y las entradas.
 faq:
-  - q: ¿Cuándo se celebra el Maratón Standard Chartered de Kuala Lumpur 2026?
-    a: Según lo anunciado, se celebra del 3 al 4 de octubre de 2026. Las carreras de 10km y 5km se disputan el sábado 3 de octubre, y el maratón y el medio maratón, el domingo 4 de octubre. Compruebe los horarios exactos en el sitio oficial del KLSCM.
-  - q: ¿Dónde están la salida y la meta del maratón y del medio maratón?
-    a: Ambas pruebas salen y llegan a Dataran Merdeka (plaza de la Independencia), frente al edificio Sultan Abdul Samad, en pleno centro de Kuala Lumpur. Las estaciones de tren más cercanas son Masjid Jamek (LRT) y Pasar Seni (LRT/MRT).
-  - q: ¿Cómo se llega a la línea de salida antes del amanecer?
-    a: Averigüe si Rapid KL adelanta el inicio del servicio de trenes el día de la carrera. Si no es así, pida un Grab y fije el punto de bajada fuera de la zona de calles cortadas, o alójese a poca distancia a pie, en el barrio chino o cerca de Masjid Jamek.
-  - q: ¿Qué temperatura hace durante la carrera?
-    a: Incluso antes de que salga el sol, en Kuala Lumpur hace calor y la humedad es muy alta; además, a principios de octubre son frecuentes las tormentas por la tarde. Para evitar el calor, las salidas son muy tempranas. Planifique bien la hidratación, use ropa ligera y elija un ritmo realista.
-  - q: ¿Qué se puede hacer cerca de Dataran Merdeka después de la carrera?
-    a: A pocos minutos a pie se encuentran el Mercado Central (Pasar Seni), la calle Petaling, Kwai Chai Hong, la mezquita Masjid Jamek y el paseo del River of Life. En los locales mamak y kopitiam de la zona sirven nasi lemak, roti canai y teh tarik.
+  - q: ¿Cuándo era el Maratón Standard Chartered de Kuala Lumpur 2026?
+    a: Según lo anunciado, el 3 y el 4 de octubre de 2026. El sábado 3 de octubre se disputaban las pruebas de 10km y 5km; el domingo 4 de octubre, el maratón y el medio maratón. Los horarios exactos figuraban en el sitio oficial del KLSCM.
+  - q: ¿Dónde estaban la salida y la meta del maratón y del medio maratón?
+    a: Ambas pruebas salían y terminaban en Dataran Merdeka (plaza de la Independencia), frente al edificio Sultan Abdul Samad, en pleno centro de Kuala Lumpur. Las estaciones de tren más cercanas eran Masjid Jamek (LRT) y Pasar Seni (LRT/MRT).
+  - q: ¿Cómo se llegaba a la salida antes del amanecer?
+    a: Todo dependía de que Rapid KL ampliara el servicio con trenes de madrugada el día de la carrera. De no ser así, quedaba la opción de Grab, con el punto de bajada fijado fuera de la zona de cortes de tráfico, o la de alojarse en Chinatown o cerca de Masjid Jamek, a poca distancia a pie de la salida.
+  - q: ¿Qué calor hacía durante la carrera?
+    a: En Kuala Lumpur hace calor y la humedad es muy alta incluso antes de que salga el sol, y a comienzos de octubre las tormentas de tarde son frecuentes. Por eso las salidas eran tempranas, para esquivar el calor. Convenía planificar la hidratación, correr con ropa ligera y fijarse un ritmo realista.
+  - q: ¿Qué había cerca de Dataran Merdeka para después de la carrera?
+    a: A pocos minutos a pie estaban el Mercado Central (Pasar Seni), la calle Petaling, Kwai Chai Hong, la mezquita Masjid Jamek y el paseo fluvial del River of Life. En los locales mamak y los kopitiam de los alrededores se servían nasi lemak, roti canai y teh tarik.
 ---
 
 ## Una salida en la plaza de la Independencia
 
-La carrera arranca en el césped más simbólico de Malasia. En Dataran Merdeka, la plaza de la Independencia, se arrió la Union Jack y se izó la bandera malaya a medianoche del 31 de agosto de 1957. La mañana del maratón, ese mismo césped acoge la salida y la meta del maratón y del medio maratón.
+La carrera arrancaba sobre el césped más simbólico de Malasia. En Dataran Merdeka, la plaza de la Independencia, se arrió la Union Jack y se izó la bandera malaya a medianoche del 31 August 1957. La mañana del maratón, ese mismo césped acogía la salida y la meta del maratón y del medio maratón.
 
-Desde los cajones de salida, mirando hacia el este, se alza el edificio Sultan Abdul Samad: una larga fachada de ladrillo rojo y arcos blancos coronada por cúpulas de cobre y una torre del reloj central. A su espalda queda el Royal Selangor Club, de estilo neotudor, y en el extremo sur de la plaza se levanta uno de los mástiles más altos del mundo. Pocos maratones pueden presumir de una línea de salida en un escenario semejante.
+Desde los cajones de salida, mirando hacia el este, se tenía delante el edificio Sultan Abdul Samad, una larga fachada de ladrillo rojo y arcos blancos coronada por cúpulas de cobre y una torre del reloj central. A la espalda quedaba el Royal Selangor Club, de estilo neotudor, y en el extremo sur de la plaza se alzaba uno de los mástiles más altos del mundo. Pocos maratones pueden presumir de una salida en un escenario semejante.
 
 ## Dos días y cuatro distancias
 
-El Maratón Standard Chartered de Kuala Lumpur, al que la mayoría de los corredores llama simplemente KLSCM, se reparte a lo largo de un fin de semana. Este es el programa anunciado para 2026:
+El Maratón Standard Chartered de Kuala Lumpur, al que casi todos los corredores llaman KLSCM, se repartía a lo largo de un fin de semana. Para 2026 se anunció este reparto:
 
-- **Sábado 3 de octubre:** carreras de 10km y 5km
+- **Sábado 3 de octubre:** pruebas de 10km y 5km
 - **Domingo 4 de octubre:** maratón y medio maratón, ambos con salida y meta en Dataran Merdeka
 
-Este reparto conviene tenerlo en cuenta al organizar el viaje. Una familia puede correr los 5km el sábado y estar igualmente en la meta el domingo para animar a los maratonianos. Algunos corredores rápidos aprovechan las pruebas cortas del sábado como rodaje suave antes de volver a casa.
+Este calendario facilitaba la organización. Una familia podía correr los 5km el sábado y estar igualmente en la meta el domingo para animar a los maratonianos. Algunos corredores rápidos aprovechaban las pruebas cortas del sábado como rodaje suave antes de volver a casa.
 
-La prueba cuenta con la Etiqueta Élite de World Athletics, lo que la sitúa entre las carreras en ruta de reconocimiento internacional. Eso se traduce en un grupo de élite en cabeza, seguido por decenas de miles de corredores populares, miles de ellos llegados de más de 70 países.
+La prueba contaba con la distinción Elite Label de World Athletics, que la situaba entre las carreras en ruta de reconocimiento internacional. Eso suponía un grupo de élite en cabeza y, tras él, decenas de miles de corredores populares, miles de ellos llegados de más de 70 países.
 
 ## Correr en el calor húmedo de Kuala Lumpur
 
-Aquí el verdadero perfil del recorrido lo marcan el calor y la humedad. Kuala Lumpur está situada justo al norte del ecuador, y el aire se mantiene cálido y húmedo incluso antes del amanecer. Por eso las grandes carreras de la ciudad salen de noche, para que los corredores terminen antes de que el sol apriete. No dé nada por supuesto: consulte la hora exacta de su tanda en el sitio oficial.
+Aquí el verdadero perfil del recorrido lo marcan el calor y la humedad. Kuala Lumpur se encuentra justo al norte del ecuador, y el aire sigue siendo cálido y húmedo incluso antes del amanecer. Las grandes carreras de la ciudad salen todavía de noche para que los participantes terminen antes de que el sol apriete. La hora exacta de cada tanda de salida se publicaba en el sitio oficial.
 
-A principios de octubre la ciudad atraviesa el periodo entre monzones. Las tormentas vespertinas son habituales, y un buen chaparrón la víspera puede dejar un aire espeso a la mañana siguiente. Quienes vienen de climas más frescos pueden hacer algunos ajustes:
+A comienzos de octubre se vive el periodo entre monzones. Las tormentas de tarde son habituales, y un buen chaparrón la víspera puede dejar el aire de la mañana denso y pesado. Para quienes venían de climas más frescos, algunos ajustes resultaban útiles:
 
-- Si es posible, llegue con varios días de antelación y salga a trotar un poco a la misma hora de la madrugada en que tomará la salida.
-- Beba siguiendo un plan desde el primer avituallamiento, y no solo cuando tenga sed.
-- Vista ropa ligera y transpirable, y rebaje su ritmo objetivo. En este clima, buscar una marca personal rara vez es lo más sensato.
-- Lleve algo seco para cambiarse tras cruzar la meta, porque acabará empapado haga el tiempo que haga.
+- Aclimatarse durante varios días y hacer rodajes cortos a la misma hora de la madrugada que la carrera.
+- Beber según un plan desde el primer avituallamiento, y no solo al tener sed.
+- Correr con ropa ligera y transpirable y rebajar el ritmo objetivo, porque con este clima rara vez tiene sentido buscar una marca personal.
+- Llevar ropa seca para después de la meta, ya que se acababa empapado hiciera el tiempo que hiciera.
 
 ## Cómo llegar a Dataran Merdeka
 
-La plaza se encuentra en el antiguo núcleo colonial de Kuala Lumpur, en la orilla donde confluyen los ríos Klang y Gombak. Hay dos estaciones de tren a pocos minutos a pie:
+La plaza se halla en el antiguo núcleo colonial de KL, a orillas de la confluencia de los ríos Klang y Gombak. Dos estaciones de tren quedan a poca distancia a pie:
 
-- **Masjid Jamek LRT**: estación de correspondencia entre las líneas Kelana Jaya y Ampang/Sri Petaling, a unos minutos a pie al noreste de la plaza
-- **Pasar Seni**: en la línea Kelana Jaya del LRT y la línea Kajang del MRT, a un corto paseo hacia el sur pasando junto al Mercado Central
+- **Masjid Jamek LRT**, estación de correspondencia entre las líneas Kelana Jaya y Ampang/Sri Petaling, a unos minutos a pie al nordeste de la plaza
+- **Pasar Seni**, en la línea LRT Kelana Jaya y la línea MRT Kajang, a un breve paseo hacia el sur pasando junto al Mercado Central
 
-Es posible que la salida se dé antes de que empiece el servicio habitual de trenes. Compruebe si Rapid KL amplía el horario con trenes más tempranos el día de la carrera; lo que anuncie el operador prevalece sobre cualquier horario publicado. Las calles que rodean la plaza se cortan al tráfico durante la prueba, de modo que un coche o un taxi quizá tenga que dejarle a unas cuantas manzanas.
+Las salidas podían ser anteriores al inicio del servicio ferroviario habitual. Lo que contaba era el anuncio de Rapid KL sobre un posible servicio especial de madrugada para el día de la carrera, por encima de cualquier horario general. Las calles en torno a la plaza se cortaban al tráfico, de modo que un coche o un taxi podía dejar a los corredores a varias manzanas de distancia.
 
-La alternativa habitual es Grab, la aplicación de VTC que se usa en toda Malasia. Fije el punto de recogida fuera de la zona de cortes y llegue a pie. Si puede, reserve hotel en el barrio chino, en Masjid Jamek o en Bukit Bintang: así tendrá la salida a un paseo o a un trayecto corto, y los cortes de tráfico no le dejarán tirado.
+La alternativa habitual era Grab, la aplicación de transporte con conductor que se usa en toda Malasia: bastaba con fijar el punto de recogida fuera de la zona de cortes y llegar andando. Alojarse en Chinatown, en los alrededores de Masjid Jamek o en Bukit Bintang dejaba la salida a un paseo o a un trayecto corto, sin riesgo de quedarse atrapado por los cortes de tráfico.
 
 ## La mañana de la carrera en la plaza
 
-Antes del amanecer, Dataran Merdeka funciona como una pequeña ciudad adormilada. Estas costumbres le ayudarán a moverse por ella:
+Antes del amanecer, Dataran Merdeka funcionaba como una pequeña ciudad adormilada. Algunas costumbres ayudaban a desenvolverse en ella:
 
-- **Recoja la bolsa del corredor con antelación.** El dorsal y la bolsa se entregan en un lugar y unos días fijados antes de la carrera. Confirme la ubicación en el sitio oficial y no olvide su documento de identidad ni la confirmación de inscripción.
-- **Vaya al cajón que le corresponde.** Las tandas se asignan por marcas. Colarse en un cajón más rápido frena a todos los que vienen detrás y está mal visto.
-- **Deje la bolsa en el guardarropa con tiempo.** Las colas del guardarropa y de los baños portátiles crecen sobre todo en la última media hora antes del pistoletazo.
-- **Respete la plaza.** Dataran Merdeka es un monumento nacional. Deje el césped tal como lo encontró y tire los envoltorios de los geles en los avituallamientos, nunca en la calzada.
+- **Recoger la bolsa del corredor con antelación.** El dorsal y el material se entregaban en un lugar fijo durante unos días concretos antes de la carrera. La ubicación figuraba en el sitio oficial, y había que presentar un documento de identidad y la confirmación de inscripción.
+- **Ocupar el cajón asignado.** Las tandas se organizaban por marcas. Colarse en un cajón más rápido frenaba a todos los que venían detrás y estaba mal visto.
+- **Usar pronto el guardarropa.** Las colas del guardarropa y de los aseos portátiles crecían sobre todo en la última media hora antes del pistoletazo.
+- **Respetar la plaza.** Dataran Merdeka es monumento nacional. Lo correcto era dejar el césped como se había encontrado y tirar los envoltorios de los geles en los avituallamientos, no en la calzada.
 
-Durante el recorrido merece la pena conocer los gritos de ánimo en malayo. Desde las aceras, el público grita «*Jom!*» (¡vamos!) y «*Boleh!*» (¡tú puedes!). Devolver el saludo con la mano no cuesta nada.
+En el recorrido merecía la pena conocer los ánimos bilingües. Desde las aceras, los malasios gritan «*Jom!*» («¡vamos!») y «*Boleh!*» («¡tú puedes!»), y devolver el saludo con la mano no cuesta nada.
 
-En los avituallamientos, avise de viva voz o señale antes de cruzarse hacia las mesas, y después siga adelante sin detenerse en medio del flujo de corredores. La misma cortesía vale para las pausas caminando: apártese a un lado, levante la mano y deje pasar al grupo.
+En los avituallamientos, lo educado era avisar de viva voz o señalar antes de cruzar hacia las mesas y seguir corriendo en lugar de detenerse en mitad del pelotón. Lo mismo valía para las pausas caminando: apartarse a un lado, levantar la mano y dejar pasar al grupo.
 
-## El viejo Kuala Lumpur, a la mañana siguiente
+## El viejo KL, la mañana después
 
-La meta le deja en la zona más agradable para recorrer a pie de toda la ciudad. Con la medalla al cuello, tendrá justo al lado el Mercado Central de Pasar Seni, un edificio art déco pintado de azul claro y repleto de artesanía y batik. Unos minutos más allá se encuentra la calle Petaling, en el barrio chino, y muy cerca, el callejón restaurado de Kwai Chai Hong con sus murales.
+La meta desembocaba en la zona más paseable de la ciudad. Con la medalla ya al cuello, el Mercado Central (Central Market) de Pasar Seni quedaba a un paso: un edificio art déco pintado de azul claro y repleto de artesanía y batik. A pocos minutos de allí se encuentra la calle Petaling, en el barrio chino (Chinatown), y justo al lado, el callejón restaurado de Kwai Chai Hong con sus murales.
 
-Detrás de la plaza, en el punto donde se unen los dos ríos, se alza Masjid Jamek, la mezquita más antigua de la ciudad. Los visitantes son bienvenidos fuera de las horas de oración si visten con recato, y en la entrada se prestan túnicas. El paseo del River of Life que bordea esa confluencia es llano y cómodo para soltar las piernas.
+Masjid Jamek, la mezquita más antigua de la ciudad, se levanta en la confluencia de los dos ríos, detrás de la plaza. Fuera de las horas de oración recibe a los visitantes vestidos con recato, y en la entrada se prestan túnicas. El paseo del River of Life, a lo largo de esa confluencia, es llano y cómodo para estirar las piernas tras la carrera.
 
-En esta ciudad, el desayuno es la mejor recompensa tras una tirada larga. Estos son los clásicos para después de la carrera:
+En esta ciudad, el desayuno es la recompensa perfecta después de una tirada larga. Estos eran los clásicos de después de la carrera:
 
-- **Nasi lemak:** arroz cocido en leche de coco con sambal, anchoas, cacahuetes y huevo, a menudo envuelto en hoja de plátano
-- **Roti canai:** pan plano hojaldrado hecho a la plancha, acompañado de dhal o curri, en cualquier puesto mamak
+- **Nasi lemak:** arroz con leche de coco acompañado de sambal, anchoas, cacahuetes y huevo, a menudo envuelto en hoja de plátano
+- **Roti canai:** pan plano hojaldrado hecho a la plancha, servido con dal o curri en cualquier puesto mamak
 - **Teh tarik:** té dulce con leche que se vierte desde lo alto hasta que forma espuma
-- **Kopi** en un kopitiam del barrio chino, servido con tostadas de kaya y huevos pasados por agua
+- **Kopi** en un kopitiam del barrio chino, con tostadas de kaya y huevos pasados por agua
 
-Los restaurantes mamak, los locales indomusulmanes que se encuentran por todo Kuala Lumpur, suelen abrir las 24 horas, así que son una apuesta segura a cualquier hora a la que termine.
+Los restaurantes mamak, los locales indomusulmanes que salpican todo KL, suelen abrir las 24 horas, así que eran una opción segura a cualquier hora de llegada a meta.
 
 ## Inscripciones, categorías y fuente oficial
 
-Las inscripciones del KLSCM se venden por categorías y se agotan según la distancia; los corredores internacionales se inscriben por internet. Las cuotas, los tiempos de corte, los límites de edad y el mapa del recorrido los fija la organización cada año. Todos esos datos se publican en el sitio web oficial del KLSCM, la única fuente fiable.
+Las inscripciones del KLSCM se vendían por categorías y se agotaban según la distancia; los corredores internacionales se inscribían por internet. Los organizadores fijan cada año las cuotas, los tiempos de corte, los límites de edad y el mapa del recorrido. Todos esos datos se publicaban en el sitio web oficial del KLSCM, la única fuente fiable.
 
-Antes de reservar vuelos u hotel, confirme en el sitio oficial los horarios, el lugar de salida, los detalles de la recogida de dorsales y las inscripciones. Si viaja desde el extranjero para el 3-4 de octubre de 2026, compruebe qué exige su inscripción: algunas categorías pueden pedir una declaración médica o una marca mínima. Más vale saberlo antes de pagar que descubrirlo al recoger el dorsal.
+Los horarios, el lugar de salida, los detalles de la recogida de dorsales y las entradas figuraban igualmente en el sitio oficial. Para quienes viajaban desde el extranjero a la cita de los días 3 y 4 de octubre de 2026, cada inscripción tenía sus propios requisitos: algunas categorías podían exigir una declaración médica o una marca mínima. Era mejor saberlo antes de pagar que descubrirlo en la recogida de dorsales.
