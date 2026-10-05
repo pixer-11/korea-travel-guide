@@ -20,11 +20,14 @@ import { readFileSync, writeFileSync, readdirSync, rmSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 
 const KO = fileURLToPath(new URL('../src/content/i18n/ko/', import.meta.url));
-const WANSUNG = new Set(readFileSync(new URL('../src/data/ko-wansung.txt', import.meta.url), 'utf8'));
 // One home: the audit (scripts/lib/ko-syllables.mjs) owns the allowlist. When
 // this file kept its own copy they drifted, and a syllable this repaired was
 // still reported broken by audit-translations.
-import { KO_EXTENDED_OK as ALLOW } from './lib/ko-syllables.mjs';
+// The verdict too, not just the set: this kept its own `!WANSUNG && !ALLOW`
+// check and so never saw KO_WORDS_OK — the audit passed 베르됭 while this
+// deleted both Cologne translations on every publish (10-03 → 10-05), and each
+// retranslation wrote 베르됭 again. Same function, same answer.
+import { koBrokenSyllables } from './lib/ko-syllables.mjs';
 // Every shatter observed so far. 쯤 is the model's favourite victim.
 const FIX = { '쯒': '쯤', '쯍': '쯤', '쯈': '쯤', '쯀': '쯤', '쯌': '쯤', '쯓': '쯤', '쯡': '쯤', '쯃': '쯤', '쯴': '쯤', '쯑': '쯤', '쯘': '쯤', '쯐': '쯤', '쯽': '쯤', '퍁': '퍼', '딖': '딪', '쪤': '쪽' };
 const DRY = process.env.DRY === '1';
@@ -38,7 +41,7 @@ for (const f of readdirSync(KO)) {
   for (const [bad, good] of Object.entries(FIX)) {
     if (s.includes(bad)) { substitutions += s.split(bad).length - 1; s = s.split(bad).join(good); changed = true; }
   }
-  const unknown = [...s].some((ch) => ch >= '가' && ch <= '힣' && !WANSUNG.has(ch) && !ALLOW.has(ch));
+  const unknown = koBrokenSyllables(s).length > 0;
   if (unknown) {
     // Not in the map — safest repair is a fresh translation, not a guess.
     console.log(`  ↻ ${f}: unknown non-wansung syllable — deleting for retranslation`);

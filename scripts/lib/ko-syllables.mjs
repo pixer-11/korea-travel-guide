@@ -23,7 +23,10 @@ const KO_WANSUNG = new Set(readFileSync(new URL('../../src/data/ko-wansung.txt',
 // syllable the audit still called broken, so the warning never cleared.
 // 뱡: 뱡뱡면 (biangbiang noodles, Xi'an) — the gate held a correct Opus
 // translation of xi-an-beiyuanmen on it (2026-09-28 A/B).
-export const KO_EXTENDED_OK = new Set([...'웻똠쩻뻄뻭녓얙뻉뜽냣셱췩뱡']);
+// 녤: 아녤리 (Agnelli — Turin's Pinacoteca Agnelli on the Lingotto roof), the
+// standard spelling; the fixer deleted turin-club-to-club-c2c-festival for it
+// on 2026-10-05 and every retranslation wrote it again.
+export const KO_EXTENDED_OK = new Set([...'웻똠쩻뻄뻭녓얙뻉뜽냣셱췩뱡녤']);
 // Whole words, for a syllable that is a typo everywhere else: 됭 is 된 mangled
 // in 됭장 (Codex, 10-03), but 베르됭 (Verdun — Nicholas of Verdun, goldsmith of
 // Cologne's Shrine of the Three Kings) is the standard spelling; the Cologne

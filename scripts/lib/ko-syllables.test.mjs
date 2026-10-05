@@ -42,3 +42,7 @@ test('the same broken syllable twice is reported once', () => {
 test('됭 is allowed only inside 베르됭 — 됭장 is still a typo (Codex, 10-03)', () => {
   assert.deepEqual(koBrokenSyllables('됭장찌개'), ['됭 — 됭장찌개']);
 });
+
+test('allows 아녤리 (Agnelli) — the fixer deleted the Turin translation for it every publish (10-05)', () => {
+  assert.deepEqual(koBrokenSyllables('옥상에 오르면 아녤리 미술관과 라 피스타'), []);
+});
