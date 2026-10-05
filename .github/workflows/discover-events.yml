@@ -45,6 +45,7 @@ jobs:
       # Translate the new event guides into ko/ja/es/zh before committing (events
       # are posts too). Resumable + continue-on-error — see publish.yml.
       - name: Translate new events (ko/ja/es/zh)
+        id: translate
         continue-on-error: true
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -63,11 +64,40 @@ jobs:
           WAIT=$(( 360 - 30 - 70 - ELAPSED ))
           if [ "$WAIT" -lt 30 ]; then
             echo "batch skipped: job at ${ELAPSED} min, only ${WAIT} min to spare"
-            TRANSLATE_BATCH=0 node scripts/translate-posts.mjs
+            TRANSLATE_BATCH=0 node scripts/translate-posts.mjs 2>&1 | tee /tmp/translate.log
           else
             echo "batch wait budget: ${WAIT} min (job at ${ELAPSED} min)"
-            TRANSLATE_BATCH_WAIT_MIN=$WAIT node scripts/translate-posts.mjs
+            TRANSLATE_BATCH_WAIT_MIN=$WAIT node scripts/translate-posts.mjs 2>&1 | tee /tmp/translate.log
           fi
+
+      # The step above is continue-on-error, and until 2026-10-05 nothing said
+      # when it failed: that morning the prepaid API credit ran out mid-run, three
+      # translations were lost, and no message went anywhere. The next publish
+      # re-queues them — but only once there is credit again, so say which wall
+      # it was. Same wording as publish.yml's soft-fail note.
+      - name: Warn on translation failures
+        if: steps.translate.outcome == 'failure'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          [ -z "$TELEGRAM_BOT_TOKEN" ] && exit 0
+          SUM=$(grep -ho "TRANSLATE_SUMMARY.*" /tmp/translate.log 2>/dev/null | tail -1)
+          if grep -q "credit balance is too low" /tmp/translate.log 2>/dev/null; then
+            WHY='원인: Anthropic API 선불 크레딧이 바닥났습니다. 저절로 풀리지 않으니 콘솔 Plans & Billing에서 충전(또는 자동 충전 켜기)해 주세요. 충전 뒤 다음 발행이 빠진 번역을 채웁니다.'
+          elif grep -q "reached your specified API usage limits" /tmp/translate.log 2>/dev/null; then
+            WHY='원인: Anthropic API 월 사용 한도에 도달했습니다. 한도가 풀리면 다음 실행이 자동으로 채웁니다.'
+          else
+            # A few gate refusals are the gate working (publish.yml stays quiet
+            # about those too); the next publish retries them. Only a pile is news.
+            FAILED=$(echo "$SUM" | grep -o "failed=[0-9]*" | cut -d= -f2)
+            [ "${FAILED:-0}" -lt 5 ] && { echo "translate: ${FAILED:-0} failure(s), below the alert floor"; exit 0; }
+            WHY='빠진 번역은 다음 발행(16:19)이 다시 시도합니다. 같은 경고가 이틀 연속이면 확인이 필요합니다.'
+          fi
+          TXT=$(printf '⚠️ 행사 발굴: 번역 일부 실패\n%s\n\n%s' "${SUM:-요약 없음}" "$WHY")
+          curl -s "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode "text=$TXT" >/dev/null || true
 
       - name: Build hero photo-wall thumbnails
         run: node scripts/build-wall.mjs
@@ -143,6 +173,24 @@ jobs:
             sleep $((attempt * 5))
           done
           if [ "$pushed" != 1 ]; then echo "Could not push after retries"; exit 1; fi
+
+      # Measure the new events' hero widths now, not at the nightly scan. A
+      # region whose only guide is a just-published event shared that event's
+      # photo as og:image until the night's probe — 768px, 968px and 319px
+      # heroes on Gurugram, Pushkar and Surin (10-05), Oaxaca the night
+      # before. pickOgPhoto skips a hero only once it is MEASURED narrow. The
+      # scan probes only posts it has not seen, so this costs a few requests.
+      - name: Measure new hero widths
+        if: steps.gate.outcome == 'success'
+        continue-on-error: true
+        run: |
+          node scripts/scan-hero-widths.mjs | tail -5
+          git config user.name "content-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/hero-width-queue.json data/visual-audit.json src/content/posts
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "chore: hero widths of new events ($(date -u +%Y-%m-%d))"
+          bash scripts/git-push-retry.sh
 
       # Committed last and on its own: Claude calls keep happening after the main
       # commit step (repairs, translations), and a runner forgets everything.

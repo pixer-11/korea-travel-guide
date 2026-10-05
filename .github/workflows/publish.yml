@@ -880,6 +880,20 @@ jobs:
             bash scripts/git-push-retry.sh
           fi
 
+      # Today's posts' hero widths, measured now rather than by the nightly
+      # scan: until a hero is MEASURED narrow, pickOgPhoto lets a hub share it
+      # (Gurugram/Pushkar/Surin 10-05, Oaxaca 10-04). Only unseen posts are
+      # probed. Same step as discover-events.yml.
+      - name: Measure new hero widths
+        if: always()
+        continue-on-error: true
+        run: |
+          node scripts/scan-hero-widths.mjs | tail -5
+          git add data/hero-width-queue.json data/visual-audit.json src/content/posts
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "chore: hero widths of new posts ($(date -u +%Y-%m-%d))"
+          bash scripts/git-push-retry.sh
+
       # A hold and a published page are a contradiction, and for fifteen days
       # nothing was looking at the contradiction: a cancelled concert stayed live
       # and the social picker advertised it (2026-09-07). Runs with the content
@@ -1363,6 +1377,10 @@ jobs:
             if grep -qh "reached your specified API usage limits" /tmp/translate.log /tmp/gen.log 2>/dev/null; then
               WHEN=$(grep -ho "regain access on [0-9-]* at [0-9:]* UTC" /tmp/translate.log /tmp/gen.log 2>/dev/null | head -1)
               WHY=$(printf '\n\n원인 확인: Anthropic API 사용 한도(월 상한)에 도달했습니다. 키 만료가 아니라 한도이며, 한도가 풀리면(%s) 다음 실행이 자동으로 채웁니다. 더 빨리 재개하려면 Anthropic 콘솔에서 상한을 올려 주세요.' "${WHEN:-콘솔의 리셋 시각}")
+            # The prepaid balance is a different wall: it never lifts by itself
+            # (2026-10-05, discover-events lost three translations to it).
+            elif grep -qh "credit balance is too low" /tmp/translate.log /tmp/gen.log 2>/dev/null; then
+              WHY=$(printf '\n\n원인 확인: Anthropic API 선불 크레딧이 바닥났습니다. 월 한도와 달리 저절로 풀리지 않으니, 콘솔 Plans & Billing에서 충전(또는 자동 충전 켜기)해 주세요. 충전 뒤 다음 실행이 빠진 것을 채웁니다.')
             fi
             # 모든 줄이 게이트 거부면 고장이 아니라 가드가 일한 것이다. 같은 문장으로
             # 알리면 픽서님이 매일 밤 "실패" 를 읽게 되고, 진짜 실패도 같이 묻힌다.
