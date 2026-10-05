@@ -586,7 +586,11 @@ const jsonLd = {
   .es-cta-card dl div { display: flex; justify-content: space-between; gap: 1rem; font-size: 0.86rem; }
   .es-cta-card dt { color: var(--muted); }
   .es-cta-card dd { margin: 0; font-weight: 700; text-align: right; }
-  .es-disc { margin: 0.7rem 0 0; font-size: 0.74rem; color: var(--muted); text-align: center; line-height: 1.5; }
+  /* .es-cta .es-disc, not .es-disc: the disclosure sits in the light card
+     INSIDE the dark band, and `.es-cta p` (cream text for the band) outranked
+     a bare .es-disc — the affiliate disclosure was cream on near-white on all
+     120 eSIM pages in light mode (2026-10-05 audit). */
+  .es-cta .es-disc, .es-disc { margin: 0.7rem 0 0; font-size: 0.74rem; color: var(--muted); text-align: center; line-height: 1.5; }
 
   .es-faq { display: grid; grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.4fr); gap: 1.5rem; }
   .es-faq-item { background: var(--surface); border-radius: var(--r-md); margin-bottom: 0.5rem; padding: 0 1rem; }

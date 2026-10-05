@@ -517,6 +517,14 @@ export function regionRedirects() {
     // is applied instead of quietly bypassed. When the refresh re-reads the
     // rating the page comes back on the URL that already ranks.
     ['tokyo-smith-wollensky-ginza', 'tokyo-smith-wollensky'],
+    // Same event published twice (2026-10-05 audit): the anchor-word twin
+    // check compared "edc" with "electric", "5sos" with "5 seconds", and missed
+    // city aliases (Pasay/Manila, Lombok/Mandalika). Two newer copies carried a
+    // wrong date; the older ones are right. The newer twin of each retires.
+    ['incheon-electric-daisy-carnival-edc-korea-2026', 'incheon-edc-korea-electric-daisy-carnival'],
+    ['goyang-charlie-puth-concert', 'goyang-charlie-puth-seoul-2026'],
+    ['pasay-5-seconds-of-summer-everyone-s-a-star-world-tour', 'manila-5sos-everyone-s-a-star-world-tour'],
+    ['lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia', 'mandalika-pertamina-grand-prix-of-indonesia-motogp-mandalika'],
   ];
   // Resolve one hop at build time: when the KEPT twin is itself quarantined,
   // pointing at it produced a 301→301 chain ending wherever the draft rule

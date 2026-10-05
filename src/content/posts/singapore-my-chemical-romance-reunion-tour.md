@@ -1,12 +1,12 @@
 ---
 title: 'My Chemical Romance Reunion Tour: Dates, Tickets & Venue (Singapore)'
-description: My Chemical Romance Reunion Tour in Singapore, Singapore — November 2026. What it is, when and where, and how to plan around it.
+description: My Chemical Romance plays the Singapore Indoor Stadium on November 10 and 11, 2026, moved from April. Dates, venue, tickets and getting there.
 country: Singapore
 region: Singapore
 category: event
 pubDate: '2026-09-09'
-eventStartDate: '2026-11-01'
-eventEndDate: '2026-11-30'
+eventStartDate: '2026-11-10'
+eventEndDate: '2026-11-11'
 eventRecurring: false
 eventPerformer:
   name: My Chemical Romance
@@ -24,37 +24,38 @@ gallery: []
 tags:
   - singapore
   - event
-quickAnswer: The My Chemical Romance Reunion Tour returns to Singapore in November 2026, with the show postponed from its original date and already sold out. No venue swap has been reported, so treat the originally listed arena as the working plan and confirm timing and tickets on the official tour site before making travel plans.
+quickAnswer: My Chemical Romance plays two nights at the Singapore Indoor Stadium on November 10 and 11, 2026. The show was first set for April 28, 2026 and moved to November, and a second night was added on demand. Doors open at 6:30 pm and the show starts at 8 pm. Stadium MRT on the Circle Line is the nearest station.
 faq:
   - q: Is the My Chemical Romance Singapore show still happening?
-    a: Yes. The concert was postponed to November 2026 rather than cancelled, and the listing shows it as sold out for that rescheduled date.
+    a: Yes. It moved from April 28, 2026 to November 10, 2026 at the Singapore Indoor Stadium, and a second show was added on November 11. Tickets bought for April carried over to November 10.
   - q: Can I still get tickets if it's sold out?
     a: Check the official ticketing partner listed on the tour's own site for any available inventory, and avoid overpaying on unofficial resale sites.
   - q: Which venue is the show at?
-    a: Large touring shows in Singapore typically play the Singapore Indoor Stadium or a comparable arena. Confirm the exact venue and address on the official event listing.
+    a: The Singapore Indoor Stadium in Kallang, for both nights.
   - q: How do I get to the venue?
-    a: Singapore's MRT network serves the major arenas directly. Confirm the nearest station and exit on the official venue page, and allow extra walking time through the crowd near the entrance.
+    a: Take the Circle Line to Stadium MRT station, a short walk from the arena, and allow extra time for the crowd at the entrance.
   - q: What should I bring or leave at home?
     a: Bring a small bag or none at all, since bag checks are standard at arena entrances. Leave large water bottles and bulky items behind to speed up security.
 aiGenerated: true
 draft: false
+eventVenue: Singapore Indoor Stadium
 ---
 
 My Chemical Romance last played Singapore more than ten years ago, so this date carries a different weight than an average tour stop. The band built its following on emo and post-hardcore records like "Three Cheers for Sweet Revenge" and "The Black Parade", records that turned arena shows into communal singalongs. A Singapore return, even a postponed one, is the kind of booking local fans have been asking about for a decade.
 
 ## Where things stand with the date
 
-The show was originally scheduled earlier and has since been pushed to November 2026. This is a postponement, not a cancellation, and the listing is already marked sold out. That combination, a moved date plus a sold-out status, means demand has stayed high through the delay rather than cooling off.
+The show was first scheduled for April 28, 2026 and moved to November 10, 2026 as part of the band's rescheduled Southeast Asia dates. Demand held through the delay: a second night was added on November 11, and tickets bought for April carried over to November 10 without any action.
 
-Because the exact day within November 2026 is the detail most likely to need double-checking, do not build flights or hotel bookings around a specific date you saw somewhere secondhand. Go to the official tour site or the promoter's Singapore event page and confirm timing and tickets there before you commit to anything nonrefundable.
+Doors open at 6:30 pm and the show starts at 8 pm on both nights. Check the official listing with Sistic, the Singapore ticketing partner, for any late change before you book anything nonrefundable.
 
 ## Venue and getting there
 
-Singapore's arena-scale touring shows land almost exclusively at a small handful of venues, most often the Singapore Indoor Stadium or a similar large indoor arena depending on the promoter's booking. Confirm the exact venue on the official listing, since large touring productions can differ in room from the original announcement to the rescheduled date.
+Both nights are at the Singapore Indoor Stadium in Kallang, the city's main indoor arena for touring acts.
 
-Whichever arena is listed, plan around Singapore's MRT system rather than driving. Venues in this category typically sit a short walk from a station on the Circle Line or a connecting line, with clear signage directing concertgoers from the platform to the arena entrance on show nights.
+Plan around Singapore's MRT rather than driving. Stadium station on the Circle Line is a short walk from the arena, with signage directing concertgoers from the platform to the entrance on show nights.
 
-- Check the official venue page for the specific MRT station and exit
+- Stadium MRT (Circle Line) is the nearest station; follow the exit signs for the Indoor Stadium
 - Budget extra time for the walk from station to arena, since crowds bottleneck at the final approach
 - Ride-hailing pickup after the show is usually slow; a nearby MRT station is often faster than waiting for a car
 

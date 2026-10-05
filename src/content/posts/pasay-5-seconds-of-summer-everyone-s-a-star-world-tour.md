@@ -40,7 +40,8 @@ faq:
   - q: What else is near the arena?
     a: The Mall of Asia's bayside promenade for sunset, the MOA Eye ferris wheel, and the SMX Convention Center are all in the same complex. CCP Complex and Roxas Boulevard are a short drive north.
 aiGenerated: true
-draft: false
+draft: true
+heldFinal: 'duplicate of manila-5sos-everyone-s-a-star-world-tour: the same two nights at SM Mall of Asia Arena, filed under the Pasay alias. Retired 2026-10-05, its URL 301s to the kept twin.'
 ---
 
 ## Two nights on the bay

@@ -5,38 +5,15 @@
 // discover-events.mjs writeDiscovered()의 것과 같은 수식 — 수식이 바뀌면
 // 이 파일도 같이 바꿔야 한다(한쪽만 바꾸면 예방과 검증이 갈라진다).
 //   node scripts/lib/event-dedupe.test.mjs
-import { keyToken, tokens as nameTokens, ANCHOR_STOP } from './commons.mjs';
-import { eventSchemaName } from '../../src/lib/eventName.mjs';
+// 2026-10-05: the rule moved to lib/event-twin.mjs, shared by discover-events
+// and validate-content — this file now checks the shared rule against the
+// 08-20 cases instead of keeping its own copy of the formula.
+import { eventKey, isEventTwin } from './event-twin.mjs';
 
-const mkExisting = ({ title, country, region, start, end }) => {
-  const schemaName = eventSchemaName(title);
-  return {
-    country, region: String(region).toLowerCase(),
-    anchor: keyToken(schemaName, `${region} ${country}`) || '',
-    toks: new Set(nameTokens(schemaName).filter((t) => !ANCHOR_STOP.has(t) && !/^(19|20)\d{2}$/.test(t))),
-    start: start || '', end: end || start || '',
-  };
-};
-
+const mkExisting = ({ title, country, region, start, end }) => eventKey({ title, country, region, start, end });
 const isDup = (cand, existing) => {
-  const schemaName = eventSchemaName(cand.title);
-  const a = keyToken(schemaName, `${cand.city} ${cand.country}`) || '';
-  const toks = new Set(nameTokens(schemaName).filter((t) => !ANCHOR_STOP.has(t) && !/^(19|20)\d{2}$/.test(t)));
-  const s0 = cand.start || '';
-  const e0 = cand.end || s0;
-  const near = (x, y) => x && y && Math.abs(new Date(x) - new Date(y)) <= 3 * 864e5;
-  const overlap = (ev) => {
-    if (!s0 || !ev.start) return true;
-    return near(s0, ev.start) || (s0 <= (ev.end || ev.start) && ev.start <= e0);
-  };
-  return existing.some((ev) => {
-    if (ev.country !== cand.country || !overlap(ev)) return false;
-    if (a && ev.anchor && a === ev.anchor) return true;
-    const shared = [...toks].some((t) => ev.toks.has(t));
-    if (shared) return ev.region === String(cand.city).toLowerCase();
-    if ((!toks.size || !ev.toks.size) && ev.region === String(cand.city).toLowerCase()) return true;
-    return false;
-  });
+  const k = eventKey({ title: cand.title, country: cand.country, region: cand.city, start: cand.start, end: cand.end });
+  return existing.some((ev) => isEventTwin(k, ev));
 };
 
 // 08-20 실제 라이브 원본들

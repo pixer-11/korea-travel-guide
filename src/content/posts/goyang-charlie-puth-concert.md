@@ -40,7 +40,8 @@ faq:
   - q: Where can I eat near the venue?
     a: The La Festa and Western Dom shopping streets near Jeongbalsan Station on Line 3 have plenty of restaurants and cafés. Ilsan Lake Park is close by if you want a walk before the show.
 aiGenerated: true
-draft: false
+draft: true
+heldFinal: 'duplicate of goyang-charlie-puth-seoul-2026 with a wrong date: Charlie Puth plays Goyang Stadium on Oct 11, 2026 (Songkick, Bandsintown); this copy said Oct 17-18. Retired 2026-10-05, its URL 301s to the kept twin.'
 ---
 
 ## Two nights in Ilsan

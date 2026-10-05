@@ -22,7 +22,7 @@ import { offTopicToken } from './lib/offtopic.mjs';
 import { topicKey, FILLER } from './lib/topic-key.mjs';
 import { liveTwinOf, noteLive } from './lib/live-twin.mjs';
 import { readFrontmatter } from './lib/frontmatter-edit.mjs';
-import { keyToken } from './lib/commons.mjs';
+import { eventKey, isEventTwin } from './lib/event-twin.mjs';
 import { identityRejection } from './lib/photo-verdict.mjs';
 import { clampBusynessHours } from '../src/lib/hours.mjs';
 // Counts CJK by character, so a spaceless Japanese paragraph is measurable too.
@@ -160,6 +160,7 @@ export function parsePost(f, t) {
     faq: Array.isArray(fm.faq) ? fm.faq : [],
     eventStart: fm.eventStartDate || '',
     eventEnd: fm.eventEndDate || fm.eventStartDate || '',
+    eventVenue: fm.eventVenue || '',
     gallery: (fm.gallery || []).map((g) => g && g.url).filter(Boolean),
     heroCredit: (fm.heroImage && fm.heroImage.credit) || '',
     rating: (fm.place && fm.place.rating) || 0,
@@ -749,19 +750,20 @@ async function main() {
     // Stop" vs "2026 World Tour") and their sorted tokens never matched. The
     // act's anchor word, the country, and overlapping dates identify an event no
     // matter how the discovery run phrased it that day.
-    const evs = posts.filter((p) => p.category === 'event' && p.eventStart);
-    const near = (a, b) => Math.abs(new Date(a) - new Date(b)) <= 3 * 864e5;
+    // One rule with the discovery run since 2026-10-05 (lib/event-twin.mjs):
+    // the anchor-only check here missed "EDC" vs "Electric Daisy Carnival",
+    // a date a week off, and the same arena filed under Manila and Pasay.
+    const evs = posts.filter((p) => p.category === 'event' && p.eventStart)
+      .map((p) => ({ p, k: eventKey({ title: p.title, country: p.country, region: p.region, start: p.eventStart, end: p.eventEnd, venue: p.eventVenue }) }));
     for (let i = 0; i < evs.length; i++) {
       for (let j = i + 1; j < evs.length; j++) {
-        const a = evs[i], b = evs[j];
-        const anchor = keyToken(a.title);
-        if (!anchor || anchor !== keyToken(b.title) || a.country !== b.country) continue;
-        const overlap = near(a.eventStart, b.eventStart) || (String(a.eventStart) <= String(b.eventEnd) && String(b.eventStart) <= String(a.eventEnd));
-        if (!overlap) continue;
-        const sameDates = String(a.eventStart) === String(b.eventStart) && String(a.eventEnd) === String(b.eventEnd);
+        const { p: a, k: ka } = evs[i], { p: b, k: kb } = evs[j];
+        if (!isEventTwin(ka, kb)) continue;
+        const anchor = ka.anchor || kb.anchor || 'same event';
+        const sameDates = ka.start === kb.start && ka.end === kb.end;
         issues.push(sameDates
           ? `DUPLICATE event coverage (${anchor}): ${a.f}, ${b.f}`
-          : `CONTRADICTORY event dates (${anchor}, ${a.eventStart}~${a.eventEnd} vs ${b.eventStart}~${b.eventEnd}): ${a.f}, ${b.f}`);
+          : `CONTRADICTORY event dates (${anchor}, ${ka.start}~${ka.end} vs ${kb.start}~${kb.end}): ${a.f}, ${b.f}`);
       }
     }
   }

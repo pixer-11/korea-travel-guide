@@ -42,7 +42,8 @@ faq:
   - q: Where can I buy tickets safely?
     a: Buy through the official MotoGP and Mandalika circuit channels, which list the current ticket types and prices. Avoid resellers you can't verify.
 aiGenerated: true
-draft: false
+draft: true
+heldFinal: 'duplicate of mandalika-pertamina-grand-prix-of-indonesia-motogp-mandalika: the same race at the Mandalika circuit, filed under Lombok. Retired 2026-10-05, its URL 301s to the kept twin.'
 ---
 
 ## A street-style track beside the sea

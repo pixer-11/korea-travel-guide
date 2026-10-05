@@ -83,6 +83,18 @@ export const RS_CITIES = {
     { city: "Kuala Lumpur", slug: "kuala-lumpur", n: 10 },
     { city: "Penang", slug: "penang", n: 4 },
   ],
+  // Added 2026-10-05 (Mexico joined after the 10-04 match). Same three rules,
+  // pages opened: MX$ and addressCountry Mexico. Merida is left out — its slug
+  // mixes Mérida, Spain stores in (only 1 Mexican store); Oaxaca, Tulum and
+  // Puerto Vallarta show more stores live than the sitemap's 1-2, but the
+  // rule is the sitemap count, so they wait for it.
+  "Mexico": [
+    { city: "Mexico City", slug: "mexico-city", n: 22 },
+    { city: "Guadalajara", slug: "guadalajara", n: 15 },
+    { city: "Cancun", slug: "cancun", n: 4 },
+    { city: "Playa del Carmen", slug: "playa-del-carmen", n: 3 },
+    { city: "Monterrey", slug: "monterrey", n: 3 },
+  ],
   "Philippines": [
     { city: "Manila", slug: "manila", n: 6 },
   ],

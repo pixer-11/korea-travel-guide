@@ -22,8 +22,9 @@ import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cos
 import { makeTitle } from './lib/titles.mjs';
 import matter from 'gray-matter';
 import { topicKey } from './lib/topic-key.mjs';
-import { keyToken, tokens as nameTokens, ANCHOR_STOP } from './lib/commons.mjs';
-import { eventSchemaName, eventProperName, eventAcronym } from '../src/lib/eventName.mjs';
+import { keyToken, tokens as nameTokens } from './lib/commons.mjs';
+import { eventKey, isEventTwin } from './lib/event-twin.mjs';
+import { eventProperName, eventAcronym } from '../src/lib/eventName.mjs';
 import { normalizeOffer, normalizePerformer } from '../src/lib/eventOffers.mjs';
 import yaml from 'js-yaml';
 import { slugify } from './lib/slugify.mjs';
@@ -65,21 +66,33 @@ const EVENTS_PER_COUNTRY = Number(process.env.EVENTS_PER_COUNTRY ?? 4);
 // web search as events, so they cost the daily Places quota nothing.
 const HOTSPOTS_PER_COUNTRY = Number(process.env.HOTSPOTS_PER_COUNTRY ?? 4);
 
-async function searchJson(prompt) {
+// Sonnet 5 reasons unless told not to, and the reasoning is drawn from
+// max_tokens before a word of the answer: on 10-05, 11 of 20 country searches
+// ended at max_tokens — four with ZERO characters of text — and each was read
+// as "no events". The UK and Mexico had never had an event post. Off where the
+// model allows it (Opus 5.5 / Fable cannot turn it off, so they get headroom
+// instead), and a reply that is still cut is retried once with twice the room.
+const CAN_DISABLE_THINKING = !/opus-5-5|fable-5|mythos-5/.test(MODEL);
+const searchParams = (prompt, maxTokens) => ({
+  model: MODEL,
+  max_tokens: maxTokens,
+  ...(CAN_DISABLE_THINKING ? { thinking: { type: 'disabled' } } : {}),
+  tools: [{ type: 'web_search_20250305', name: 'web_search', max_uses: 4 }],
+  messages: [{ role: 'user', content: prompt }],
+});
+const listIn = (text) => {
+  // From the first [ to the last ] — prose before or after the list is not the list.
+  const a = text.indexOf('['), b = text.lastIndexOf(']');
+  if (a < 0 || b <= a) return null;
+  try { const arr = JSON.parse(text.slice(a, b + 1).replace(/```/g, '')); return Array.isArray(arr) ? arr : null; } catch { return null; }
+};
+
+async function searchJson(prompt, maxTokens = 12000, retried = false) {
   let msg;
   try {
-    msg = await client.messages.create({
-      model: MODEL,
-      // Raised from 1600 on 2026-08-25: the prompt now also asks for ticket
-      // page, free/paid and performer, and a truncated reply loses the whole
-      // discovery batch, not one field.
-      // 4000 since 2026-09-24: the event prompt now asks for up to MAX_CANDIDATES
-      // (8) items of ~15 fields each, and at 2200 a full list would be cut
-      // mid-JSON — which parses as nothing and silently zeroes the country.
-      max_tokens: 4000,
-      tools: [{ type: 'web_search_20250305', name: 'web_search', max_uses: 4 }],
-      messages: [{ role: 'user', content: prompt }],
-    });
+    // 1600 → 4000 (09-24, eight ~15-field items) → 12000 (10-05): a ceiling,
+    // not a spend — only the tokens written are billed.
+    msg = await client.messages.create(searchParams(prompt, maxTokens));
   } catch (e) {
     // Thrown on, not swallowed: an API failure returned [] here, so with every
     // search down (529s) each country read "0 found", the run's failure guard
@@ -89,18 +102,18 @@ async function searchJson(prompt) {
     throw e;
   }
   const text = msg.content.filter((b) => b.type === 'text').map((b) => b.text).join('').trim();
-  const jsonStr = text.replace(/^[\s\S]*?(\[)/, '$1').replace(/```/g, '').trim();
   // Eight, not four, since 2026-09-09. The list costs one search whatever its
   // length, and by now most countries' first four are events we already cover —
   // the run log is a column of "already covered; skipping". A longer list is
   // free candidates, and the write path still gates every one of them.
-  try { const arr = JSON.parse(jsonStr); return Array.isArray(arr) ? arr.slice(0, MAX_CANDIDATES) : []; }
-  catch {
-    // Say so. On 09-16 Thailand, China and Vietnam each logged "0 event(s)" with
-    // no other line, so an empty search and an unparseable one looked the same.
-    console.log(`  ⚠️  search reply was not a JSON list (${msg.stop_reason}, ${text.length} chars) — treating as empty`);
-    return [];
-  }
+  const arr = listIn(text);
+  if (arr) return arr.slice(0, MAX_CANDIDATES);
+  // A cut or unparseable reply is NOT "no events". It used to return [] here,
+  // so attempt() counted a success and the run ended green with half the
+  // countries silently skipped. Retry once with more room, then fail loudly.
+  console.log(`  ⚠️  search reply was not a JSON list (${msg.stop_reason}, ${text.length} chars)${retried ? '' : ' — retrying with more room'}`);
+  if (!retried) return searchJson(prompt, maxTokens * 2, true);
+  throw new Error(`search reply unusable twice (${msg.stop_reason}, ${text.length} chars)`);
 }
 
 const discoverEvents = (country) =>
@@ -218,26 +231,17 @@ async function writeDiscovered(item, ctx) {
   // "Formula 1 Italian Grand Prix" has NO distinctive token (every word is an
   // anchor stop-word), which is exactly how the Monza twin slipped both the
   // topicKey equality here and validate's anchor rule.
+  // The rule lives in lib/event-twin.mjs, shared with validate-content (it
+  // gained a venue match and a 10-day window on 2026-10-05: four live twins
+  // slipped the city-string and 3-day assumptions).
+  const candKey = kind === 'event' ? eventKey({
+    title, country, region: item.city,
+    start: isIsoDate(item.startDate) ? item.startDate : '',
+    end: isIsoDate(item.endDate) ? item.endDate : '',
+    venue: typeof item.venue === 'string' ? item.venue : '',
+  }) : null;
   if (kind === 'event' && eventAnchors) {
-    const schemaName = eventSchemaName(title);
-    const a = keyToken(schemaName, `${item.city} ${country}`) || '';
-    const toks = new Set(nameTokens(schemaName).filter((t) => !ANCHOR_STOP.has(t) && !/^(19|20)\d{2}$/.test(t)));
-    const s0 = isIsoDate(item.startDate) ? item.startDate : '';
-    const e0 = isIsoDate(item.endDate) ? item.endDate : s0;
-    const near = (x, y) => x && y && Math.abs(new Date(x) - new Date(y)) <= 3 * 864e5;
-    const overlap = (ev) => {
-      if (!s0 || !ev.start) return true; // no dates to compare — same name+place is enough
-      return near(s0, ev.start) || (s0 <= (ev.end || ev.start) && ev.start <= e0);
-    };
-    const twin = eventAnchors.find((ev) => {
-      if (ev.country !== country || !overlap(ev)) return false;
-      if (a && ev.anchor && a === ev.anchor) return true;
-      const shared = [...toks].some((t) => ev.toks.has(t));
-      if (shared) return ev.region === String(item.city).toLowerCase();
-      // generic-title side (no distinctive tokens at all): same city + dates
-      if ((!toks.size || !ev.toks.size) && ev.region === String(item.city).toLowerCase()) return true;
-      return false;
-    });
+    const twin = eventAnchors.find((ev) => isEventTwin(candKey, ev));
     if (twin) {
       console.log(`    ↩︎  "${item.name}" — already covered (${twin.anchor || 'same city+dates'}); skipping before generation`);
       return false;
@@ -417,16 +421,7 @@ async function writeDiscovered(item, ctx) {
   const safeBody = String(body).replace(/(^|[^\\])~/g, '$1\\~');
   await writeFile(join(POSTS_DIR, `${slug}.md`), frontmatter(data) + safeBody + '\n', 'utf8');
   existing.add(slug); done.add(key); existingTopics.add(tkey);
-  if (kind === 'event' && eventAnchors) {
-    const schemaName = eventSchemaName(title);
-    eventAnchors.push({
-      country, region: String(item.city).toLowerCase(),
-      anchor: keyToken(schemaName, `${item.city} ${country}`) || '',
-      toks: new Set(nameTokens(schemaName).filter((t) => !ANCHOR_STOP.has(t) && !/^(19|20)\d{2}$/.test(t))),
-      start: isIsoDate(item.startDate) ? item.startDate : '',
-      end: isIsoDate(item.endDate) ? item.endDate : (isIsoDate(item.startDate) ? item.startDate : ''),
-    });
-  }
+  if (kind === 'event' && eventAnchors) eventAnchors.push(candKey);
   console.log(`    ✅ [${kind}] ${slug}`);
   return true;
 }
@@ -458,14 +453,10 @@ async function main() {
     try {
       const { data } = matter(await readFile(join(POSTS_DIR, f), 'utf8'));
       if (data.category !== 'event' || !data.title) continue;
-      const schemaName = eventSchemaName(data.title);
-      eventAnchors.push({
-        country: data.country, region: String(data.region || '').toLowerCase(),
-        anchor: keyToken(schemaName, `${data.region || ''} ${data.country || ''}`) || '',
-        toks: new Set(nameTokens(schemaName).filter((t) => !ANCHOR_STOP.has(t) && !/^(19|20)\d{2}$/.test(t))),
-        start: data.eventStartDate ? String(data.eventStartDate).slice(0, 10) : '',
-        end: data.eventEndDate ? String(data.eventEndDate).slice(0, 10) : '',
-      });
+      // eventKey reads a Date as a date — String(Date).slice(0, 10) gave
+      // "Sat Oct 03" for every unquoted YAML date.
+      eventAnchors.push(eventKey({ title: data.title, country: data.country, region: data.region,
+        start: data.eventStartDate, end: data.eventEndDate, venue: data.eventVenue }));
     } catch {}
   }
   // Site-wide set of hero images already in use (URL + photo-id) → no dupes.

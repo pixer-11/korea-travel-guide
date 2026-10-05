@@ -35,7 +35,8 @@ faq:
   - q: Do I need ID at EDC Korea?
     a: Bring your passport. The legal drinking age in Korea is 19, and ID checks for alcohol are common. Check the official site for entry and prohibited-item rules.
 aiGenerated: true
-draft: false
+draft: true
+heldFinal: 'duplicate of incheon-edc-korea-electric-daisy-carnival with a wrong date: EDC Korea 2026 was Oct 3-4 at Inspire (DJ Mag, EDMTunes, Klook); this copy said Oct 11. Retired 2026-10-05, its URL 301s to the kept twin.'
 ---
 
 ## An island, an arena, a carnival
