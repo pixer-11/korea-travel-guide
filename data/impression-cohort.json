@@ -93,5 +93,24 @@
     "after": 181,
     "delta": -0.28174603174603174,
     "level": "insufficient"
+  },
+  {
+    "measured": "2026-10-02",
+    "window": {
+      "prev": {
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-25"
+      },
+      "next": {
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-02"
+      }
+    },
+    "size": 14,
+    "survived": 12,
+    "before": 252,
+    "after": 181,
+    "delta": -0.28174603174603174,
+    "level": "insufficient"
   }
 ]
