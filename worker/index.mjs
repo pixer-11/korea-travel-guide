@@ -439,7 +439,8 @@ async function handleKlookGo(request) {
   // markets after mainland China (funnel audit 10-05: 63 TW/HK visits a
   // month). Same path, verified: /zh-TW/destination/c13-seoul/ is served in
   // Traditional Chinese. Mainland readers are untouched.
-  const ctry = request.headers.get('cf-ipcountry') || '';
+  // request.cf.country is set by Cloudflare itself; the header is the fallback.
+  const ctry = request.cf?.country || request.headers.get('cf-ipcountry') || '';
   const trad = ctry === 'TW' ? 'zh-TW' : ctry === 'HK' || ctry === 'MO' ? 'zh-HK' : '';
   if (trad) dest = dest.replace(/^(https:\/\/(?:www\.)?klook\.com)\/zh-CN\//, `$1/${trad}/`);
   const subId = explicitSubId(reqUrl) ?? subIdFromReferer(request.headers.get('referer'));
