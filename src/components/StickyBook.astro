@@ -8,8 +8,10 @@ import { getLangFromUrl, useTranslations, klookLocale } from '../i18n/utils';
 import { klookCityDest } from '../lib/klookCities';
 import { tiqetsCityUrl } from '../lib/tiqets-link.mjs';
 import { hotelUrl } from '../lib/hotel-link.mjs';
-interface Props { city: string; country?: string; place?: string }
-const { city, country, place } = Astro.props;
+interface Props { city: string; country?: string; place?: string; stayFirst?: boolean }
+// stayFirst: an upcoming event's reader needs a bed near the venue more than a
+// tour — the desktop sidebar already leads with the stay (funnel audit, 10-05).
+const { city, country, place, stayFirst = false } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 // A specific PLACE has no destination page, so it stays a search; a mapped
@@ -22,8 +24,17 @@ const klook = tiqetsCityUrl({ city, country, lang, subId: 'sticky_bar' }) ?? `/g
 const hotel = hotelUrl({ submarker: 'sticky_bar', locale: klookLocale(lang), place: city, country });
 ---
 <div class="sticky-book" data-affiliate-placement="sticky-bar" data-sticky-book hidden aria-hidden="true">
-  <a class="sb-btn sb-primary" href={klook} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> {t('widget.toursLabel')}</a>
-  <a class="sb-btn" href={hotel} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> {t('widget.hotelsShort')}</a>
+  {stayFirst ? (
+    <>
+      <a class="sb-btn sb-primary" href={hotel} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> {t('widget.hotelsShort')}</a>
+      <a class="sb-btn" href={klook} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> {t('widget.toursLabel')}</a>
+    </>
+  ) : (
+    <>
+      <a class="sb-btn sb-primary" href={klook} target="_blank" rel="sponsored noopener"><Emoji name="admission-tickets" /> {t('widget.toursLabel')}</a>
+      <a class="sb-btn" href={hotel} target="_blank" rel="sponsored noopener"><Emoji name="hotel" /> {t('widget.hotelsShort')}</a>
+    </>
+  )}
 </div>
 
 <script>

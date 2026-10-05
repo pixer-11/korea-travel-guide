@@ -234,8 +234,15 @@ const ticketable = ['attraction', 'trendy', 'hidden-gem'].includes(d.category);
 // The place's own Tiqets product page where one was matched and checked
 // (TIQETS_VENUE, 10-04): "Tickets for the Colosseum" went to all of Rome.
 const tiqetsVenue = ticketable ? tiqetsVenueUrl({ postId: post.id, lang, subId: 'post_place' }) : null;
-const klookPlace = tiqetsVenue ?? (p?.name && !tiqetsTop
-  ? `/go/klook?to=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${p.name}`)}`
+// A Klook search on the venue's own name only where one can plausibly sell
+// something: a landmark-size attraction (5,000+ reviews) with no Tiqets
+// product. Cafés, small spots and free promenades got "Tickets & tours for
+// (KURARIE)" — a Seoul café searched on Klook — or for Cheonggyecheon; those
+// now get the city's tours card instead (funnel audit, 2026-10-05).
+const venueSearchable = d.category === 'attraction' && !!p?.name && !tiqetsTop && (p?.userRatingsTotal ?? 0) >= 5000;
+const venueTickets = !!tiqetsVenue || venueSearchable;
+const klookPlace = tiqetsVenue ?? (venueSearchable
+  ? `/go/klook?to=${encodeURIComponent(`https://www.klook.com/${klookLocale(lang)}/search/?query=${p!.name}`)}`
   : klookTop);
 
 // Currency-neutral relative price scale (like Google Maps' $–$$$$ worldwide).
@@ -373,7 +380,7 @@ const gettingThereId = gtIdx < 0
 //     box's "upcoming events / month" links already assume.
 //   place guide → the venue's own tickets when it is a ticketed kind of place,
 //     the city's tours otherwise (unchanged).
-const sideAffiliate = !d.region && !(ticketable && p?.name)
+const sideAffiliate = !d.region && !venueTickets
   ? null
   : isEvent && isEventPast(d)
     ? { href: klookTop, title: ps('ps.cardCity').replace('{city}', regionLabel), placement: 'post-sidebar-ended' }
@@ -384,7 +391,7 @@ const sideAffiliate = !d.region && !(ticketable && p?.name)
           kind: 'stay' as const,
           placement: 'post-sidebar-stay',
         }
-      : ticketable && p?.name
+      : venueTickets
         ? { href: klookPlace, title: t('post.ticketsFor').replace('{place}', placeLabel) }
         : { href: klookTop, title: ps('ps.cardCity').replace('{city}', regionLabel) };
 const fmtDate = (x: Date) => x.toLocaleDateString(localeCodes[lang], { year: 'numeric', month: 'long', day: 'numeric' });
@@ -1168,5 +1175,5 @@ const saveExtra = tripExtra(post);
     }
   </script>
 
-  <StickyBook city={d.region} country={d.country} place={p?.name} />
+  <StickyBook city={d.region} country={d.country} place={venueSearchable ? p?.name : undefined} stayFirst={isEvent && !isEventPast(d)} />
 </BaseLayout>
