@@ -227,7 +227,7 @@ function dayRouteUrl(posts: any[]): string | null {
 // Same Klook affiliate builder as PlanTrip.astro — mapped city → curated
 // destination page, unmapped → search fallback.
 const klookDayHref = tiqetsCityUrl({ city: d.city, country: d.country, lang, subId: 'itinerary_tours' })
-  ?? `/go/klook?to=${encodeURIComponent(klookCityDest(d.city, klookLocale(lang)))}`;
+  ?? `/go/klook?to=${encodeURIComponent(klookCityDest(d.city, klookLocale(lang), d.country))}`;
 
 // ---- Resolve every day's stops once, up front (throws loudly on any gap). ----
 const days = d.itinerary.map((day: any, di: number) => {

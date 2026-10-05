@@ -1,4 +1,5 @@
 ---
+import { buildToday } from '../lib/buildDay.mjs';
 import TypesetPlate from './TypesetPlate.astro';
 import { render } from 'astro:content';
 import {
@@ -186,14 +187,14 @@ const wtgCard = (() => {
   const facts = (countryFactsData as any).countries?.[country];
   const climate = facts?.climate;
   if (!Array.isArray(climate) || climate.length !== 12) return null;
-  const m = new Date().getUTCMonth() + 1;
+  const m = buildToday().getUTCMonth() + 1;
   const now = climate.find((c: any) => c.m === m);
   const best = bestMonth(climate);
   if (!now || !best) return null;
   const monthName = (mm: number) => new Date(Date.UTC(2026, mm - 1, 15)).toLocaleDateString(localeCodes[lang], { month: 'long', timeZone: 'UTC' });
   // The build's month and the next: the sidebar shows the reader's
   // (lib/readerMonth — the build still says last month early on the 1st).
-  const buildD = new Date();
+  const buildD = buildToday();
   const variants = [buildD, prevMonthUTC(buildD), nextMonthUTC(buildD)].map((d) => {
     const mm = d.getUTCMonth() + 1;
     const c = climate.find((x: any) => x.m === mm);
@@ -227,7 +228,7 @@ const wtgPastEventLabel = wtgPastEventHref
 // search link — places have no destination page.
 // Europe / US / Middle East: Tiqets city page (src/lib/tiqets-link.mjs).
 const tiqetsTop = tiqetsCityUrl({ city: d.region, country: d.country, lang, subId: 'post_tours' });
-const klookTop = tiqetsTop ?? `/go/klook?to=${encodeURIComponent(klookCityDest(d.region, klookLocale(lang)))}`;
+const klookTop = tiqetsTop ?? `/go/klook?to=${encodeURIComponent(klookCityDest(d.region, klookLocale(lang), d.country))}`;
 // Place-specific "get tickets" link (the sidebar card) — only for ticketable
 // categories, keyed to the venue name itself.
 const ticketable = ['attraction', 'trendy', 'hidden-gem'].includes(d.category);
@@ -252,7 +253,11 @@ const priceLabels = [t('post.free'), '$', '$$', '$$$', '$$$$'];
 // schema.org priceRange stays English regardless of the page's language.
 const priceLabelsSchema = ['Free', '$', '$$', '$$$', '$$$$'];
 const stars = p?.rating ? '★'.repeat(Math.round(p.rating)) + '☆'.repeat(5 - Math.round(p.rating)) : null;
-const updated = d.updatedDate ?? d.pubDate;
+// Never before publication: refresh.mjs stamps a date-only updatedDate
+// (midnight UTC), so a post refreshed on the day it was published said
+// dateModified 00:00 < datePublished 14:14 in its Article JSON-LD — 148 posts
+// (2026-10-05). Same calendar day either way, so the byline is unchanged.
+const updated = d.updatedDate && d.updatedDate.getTime() > d.pubDate.getTime() ? d.updatedDate : d.pubDate;
 // Static map facade (lib/osmTile.mjs): four OSM tiles around the place, a
 // CSS pin, the whole thing a link to Google Maps. Pages that outrank ours
 // show a map; an iframe on every guide would cost LCP/INP (2026-08-23).

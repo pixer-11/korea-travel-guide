@@ -10109,6 +10109,11 @@
       "blurb": "莱比锡将几个世纪以来沉淀下来的商贸之城底蕴,与欧洲最具活力的创意与创业氛围融为一体。昔日恢弘的19世纪建筑,如今摇身一变,成为画廊、独立音乐演出场所和热闹咖啡馆文化的聚集地。这座曾在东西分裂时代略显沉寂的城市,如今已重新崛起,成为德国变化最快的城市之一,吸引着来自世界各地的年轻人纷至沓来,却依然保留着其优雅的历史底色。",
       "getting": "大多数旅客会飞抵莱比锡/哈勒机场(LEJ),然后乘坐城市轻轨S-Bahn(S5或S5X线)直达莱比锡中央车站,车程约15分钟。这座中央车站以建筑占地面积计算,是欧洲最大的火车站,同时也是莱比锡连接德国各地长途与区域列车的交通枢纽。",
       "days": "建议安排2到3天时间,从容地游览历史城区、重点博物馆,并体验这座城市的音乐与咖啡馆文化。"
+    },
+    "ko": {
+      "blurb": "라이프치히는 수백 년에 걸친 유서 깊은 상업 도시의 저력과 유럽에서 손꼽히게 역동적인 창작·스타트업 신(scene)이 한데 어우러진 도시다. 19세기에 세워진 웅장한 건축물들은 이제 갤러리와 인디 음악 공연장, 활기 넘치는 카페 문화의 터전이 되었다. 한때 분단 시절의 쇠락한 변두리 도시였던 라이프치히는 오늘날 독일에서 가장 빠르게 변모하는 도시 중 하나로 다시 떠올라, 유서 깊고 아름다운 구도심의 정취를 잃지 않으면서도 젊고 국제적인 사람들을 끌어모으고 있다.",
+      "getting": "대부분의 여행자는 라이프치히/할레 공항(LEJ)으로 입국한 뒤, S반(S5 또는 S5X 노선)을 타고 약 15분 만에 라이프치히 중앙역(Hauptbahnhof)까지 곧장 이동한다. 바닥 면적 기준으로 유럽 최대 규모를 자랑하는 이 중앙역은 독일 전역을 잇는 장거리 및 지역 철도의 중심 허브 역할도 하고 있다.",
+      "days": "역사 지구와 주요 박물관을 둘러보고, 도시의 음악·카페 문화도 여유 있게 즐기려면 2~3일 정도를 잡는 것이 좋다."
     }
   },
   "Heidelberg": {
@@ -10482,6 +10487,11 @@
       "blurb": "巴亚尔塔港是哈利斯科州太平洋沿岸的一座度假城市,鹅卵石街道、滨海的马莱孔(Malecón)步道与郁郁葱葱的马德雷山脉(Sierra Madre)丘陵在这里相遇,共同环抱着班德拉斯湾(Banderas Bay)的广阔海岸线。20世纪60年代,这座城市因成为电影取景地而声名鹊起,此后逐渐发展为墨西哥最热门的海滨度假胜地之一,既保留了浪漫区(Zona Romántica)的老城风情,也拥有瓦拉塔码头区(Marina Vallarta)和新瓦拉塔(Nuevo Vallarta)的度假酒店群。",
       "getting": "大多数游客会搭乘航班抵达巴亚尔塔港古斯塔沃·迪亚斯·奥尔达斯国际机场(PVR),该机场位于市中心以北几公里处,沿200号公路可达。从机场出发,持牌出租车、网约车和当地巴士均可前往酒店区和市中心,车程通常约15到35分钟,具体视路况和目的地而定。",
       "days": "建议安排约3到5天时间,以轻松的节奏游览海滩、马莱孔步道和浪漫区;如果还想沿纳亚里特河滨(Riviera Nayarit)海岸安排一日游,则需预留更多时间。"
+    },
+    "ko": {
+      "blurb": "푸에르토 바야르타는 할리스코주의 태평양 연안 휴양 도시로, 돌길과 해변을 따라 이어지는 말레콘 산책로, 그리고 시에라 마드레 산기슭의 울창한 숲이 반데라스만의 넓은 해안선과 맞닿아 있는 곳이다. 1960년대 영화 촬영지로 이름을 알리기 시작한 이곳은 이후 멕시코를 대표하는 해변 휴양지 중 하나로 성장했으며, 소나 로만티카의 구시가 정취와 마리나 바야르타·누에보 바야르타의 리조트 지구가 공존하는 매력을 지니고 있다.",
+      "getting": "대부분의 여행객은 시내 북쪽으로 200번 고속도로를 따라 몇 킬로미터 떨어진 곳에 위치한 푸에르토 바야르타의 리센시아도 구스타보 디아스 오르다스 국제공항(PVR)을 이용해 입국한다. 공항에서는 공인 택시, 차량 호출 서비스, 지역 버스를 이용해 호텔 존이나 시내로 이동할 수 있으며, 교통 상황과 목적지에 따라 보통 15분에서 35분 정도 소요된다.",
+      "days": "해변과 말레콘, 소나 로만티카를 여유롭게 둘러보려면 대략 3일에서 5일 정도를 계획하는 것이 좋으며, 리비에라 나야리트 해안을 따라 당일치기 여행을 추가하고 싶다면 며칠 더 일정을 늘리는 것이 좋다."
     }
   },
   "San Miguel de Allende": {
@@ -10563,6 +10573,222 @@
       "blurb": "洛斯卡沃斯坐落在下加利福尼亚半岛的最南端,索诺拉沙漠在这里与科尔特斯海相遇,造就了花岗岩拱门、仙人掌点缀的山丘以及温暖平静的海水交织而成的独特景观。这片区域其实是“一体两面”:一边是卡波圣卢卡斯(Cabo San Lucas)光鲜亮丽的码头与夜生活,另一边是圣何塞德尔卡沃(San José del Cabo)悠然静谧的殖民时代风情,二者由度假村林立的海岸地带——“旅游走廊”(Tourist Corridor)串联在一起。",
       "getting": "几乎所有游客都会飞抵洛斯卡沃斯国际机场(SJD),该机场位于圣何塞德尔卡沃以北,距卡波圣卢卡斯约45分钟车程。由于网约车在机场并不总能可靠接驾,旅客通常会选择预订好的接送班车、持牌出租车或公共巴士,前往圣何塞德尔卡沃、旅游走廊或卡波圣卢卡斯。",
       "days": "建议安排约4-7天的行程:先在卡波圣卢卡斯的海滩与码头区尽情放松,再探索圣何塞德尔卡沃的画廊街区,同时预留时间参加观鲸之旅或沿海岸线一日游等活动。"
+    }
+  },
+  "Frankfurt am Main": {
+    "en": {
+      "blurb": "Frankfurt am Main is Germany's financial capital, a city where glass skyscrapers rise over a reconstructed medieval old town on the banks of the river Main. It is a place of contrasts: bankers in high towers, apple wine taverns in Sachsenhausen, and one of Europe's busiest transit crossroads at its edge.",
+      "getting": "Most travellers arrive via Frankfurt Airport (FRA), which has its own long-distance ICE railway station directly beneath the terminals as well as a regional station for S-Bahn and local trains. From there it is a ~15 minute ride into Frankfurt Hauptbahnhof, the city's central station and one of Germany's busiest rail hubs.",
+      "days": "Plan for ~1-2 days to cover the old town, riverside museums and skyline viewpoints, with Frankfurt also working well as a brief stopover between longer journeys."
+    },
+    "ko": {
+      "blurb": "프랑크푸르트 암 마인은 독일 금융의 중심지로, 마인강 변에 복원된 중세 구시가지 위로 유리 마천루가 솟아 있는 도시입니다. 고층 빌딩 속 은행가들과 작센하우젠의 사과주 선술집, 그리고 유럽에서 손꼽히게 분주한 교통의 요지가 공존하는, 그야말로 대조의 도시라 할 수 있습니다.",
+      "getting": "대부분의 여행자는 프랑크푸르트 공항(FRA)을 통해 도착합니다. 터미널 바로 아래에는 장거리 ICE 열차가 다니는 역이 있고, S반 및 지역 열차를 위한 별도의 역도 마련되어 있습니다. 공항에서 약 15분이면 독일에서 손꼽히게 분주한 철도 허브이자 프랑크푸르트의 중앙역인 프랑크푸르트 중앙역(Frankfurt Hauptbahnhof)에 도착할 수 있습니다.",
+      "days": "구시가지와 강변 박물관, 스카이라인을 조망할 수 있는 전망 포인트를 둘러보려면 1~2일 정도를 계획하시면 좋습니다. 프랑크푸르트는 장거리 여정 사이에 잠시 들르기에도 좋은 도시입니다."
+    },
+    "ja": {
+      "blurb": "フランクフルト・アム・マインはドイツの金融首都。マイン川のほとりに再建された中世の旧市街が広がり、その上にガラス張りの高層ビル群がそびえ立つ街です。高層タワーで働く銀行員たちと、ザクセンハウゼン地区のアップフェルヴァイン(りんご酒)酒場、そして街の外縁に広がるヨーロッパ屈指の交通の要衝——さまざまな顔を併せ持つ、対照的な魅力にあふれた都市です。",
+      "getting": "多くの旅行者はフランクフルト国際空港(FRA)から入ります。空港にはターミナル直下に長距離ICE列車専用の駅があるほか、S-Bahnや近郊列車が発着する地域駅も併設されています。そこから約15分で、ドイツ屈指の鉄道ハブであり市の中心駅であるフランクフルト中央駅(Hauptbahnhof)まで到着します。",
+      "days": "旧市街や川沿いの美術館・博物館、スカイラインを望むビューポイントを巡るなら、1〜2日程度を見込んでおくとよいでしょう。長距離移動の合間に立ち寄る短期滞在先としても、フランクフルトは好立地です。"
+    },
+    "es": {
+      "blurb": "Fráncfort del Meno es la capital financiera de Alemania, una ciudad donde los rascacielos de cristal se alzan sobre un casco antiguo medieval reconstruido, a orillas del río Meno. Es un lugar de contrastes: banqueros en torres de altura, tabernas de sidra de manzana en Sachsenhausen, y uno de los cruces de transporte más transitados de Europa en sus límites.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto de Fráncfort (FRA), que cuenta con su propia estación de tren de larga distancia ICE justo debajo de las terminales, además de una estación regional para trenes S-Bahn y de cercanías. Desde allí, el trayecto hasta la Frankfurt Hauptbahnhof, la estación central de la ciudad y uno de los nudos ferroviarios más concurridos de Alemania, dura unos 15 minutos.",
+      "days": "Se recomienda dedicar entre 1 y 2 días para recorrer el casco antiguo, los museos junto al río y los miradores sobre el perfil urbano; Fráncfort también funciona muy bien como breve escala entre trayectos más largos."
+    },
+    "zh": {
+      "blurb": "美因河畔法兰克福是德国的金融之都,玻璃幕墙的摩天大楼矗立在美因河畔重建的中世纪老城之上。这是一座充满反差的城市:高耸写字楼里是西装革履的银行家,萨克森豪森区的苹果酒酒馆里是惬意的市井生活,而城市边缘则坐落着欧洲最繁忙的交通枢纽之一。",
+      "getting": "大多数旅客通过法兰克福机场(FRA)抵达,航站楼下方设有直达的ICE长途铁路车站,另有一座区域车站供S-Bahn市郊列车及其他本地列车停靠。从机场乘车约15分钟即可抵达法兰克福中央车站(Frankfurt Hauptbahnhof),这里是全城的交通中枢,也是德国最繁忙的铁路枢纽之一。",
+      "days": "建议安排1-2天时间,游览老城区、沿河博物馆群以及眺望天际线的观景点;法兰克福交通便利,也非常适合作为长途旅程之间的短暂中转停留地。"
+    }
+  },
+  "Gurugram": {
+    "en": {
+      "blurb": "Gurugram, often called the Millennium City, is a glass-and-steel satellite of Delhi where Fortune 500 towers and shopping malls rise beside older farmland villages. Known locally as Cyber City, it has grown from a sleepy Haryana town into one of India's busiest corporate and nightlife districts, packed with office parks, rooftop bars and the sprawling Cyber Hub dining strip.",
+      "getting": "Gurugram has no airport of its own, so travellers fly into Delhi's Indira Gandhi International Airport (DEL), roughly 15 to 20 km away, and continue by road or metro, a trip that typically takes ~30 to 45 minutes depending on traffic. The Delhi Metro's Yellow Line runs directly to the city, terminating at Millennium City Centre station, from where the elevated Rapid Metro continues into Cyber City and the Golf Course Road business belt.",
+      "days": "Allow ~1-2 days to cover Gurugram's core: Cyber Hub's dining and nightlife, the malls and markets, and a look at its contrast of high-rise business districts against older village lanes."
+    },
+    "ko": {
+      "blurb": "흔히 '밀레니엄 시티'라 불리는 구루그람은 델리 외곽에 자리한 유리와 철골로 이루어진 위성 도시로, 포춘 500대 기업의 고층 빌딩과 쇼핑몰이 오래된 농경 마을과 나란히 자리하고 있다. 현지에서는 '사이버 시티'로도 알려진 이곳은 한적한 하리아나주의 소도시에서 인도에서 손꼽히게 바쁜 비즈니스 및 나이트라이프 지역으로 성장했으며, 오피스 단지와 루프탑 바, 그리고 광활하게 펼쳐진 사이버 허브 다이닝 거리로 가득하다.",
+      "getting": "구루그람에는 자체 공항이 없기 때문에, 여행자들은 약 15~20km 떨어진 델리의 인디라 간디 국제공항(DEL)으로 입국한 뒤 도로나 지하철을 이용해 이동하며, 교통 상황에 따라 보통 30~45분 정도 소요된다. 델리 메트로 옐로우 라인이 시내까지 직행으로 연결되며 밀레니엄 시티 센터역에서 종점을 이루는데, 이곳에서 고가로 운행되는 래피드 메트로로 환승하면 사이버 시티와 골프 코스 로드 비즈니스 지구까지 이어진다.",
+      "days": "구루그람의 핵심 명소를 둘러보려면 1~2일 정도가 적당하다. 사이버 허브의 다이닝과 나이트라이프, 쇼핑몰과 시장들, 그리고 고층 비즈니스 지구와 오래된 마을 골목이 대조를 이루는 풍경을 함께 즐길 수 있다."
+    },
+    "ja": {
+      "blurb": "グルグラムは「ミレニアム・シティ」とも呼ばれる、デリー郊外に広がるガラスと鋼鉄の近未来都市です。フォーチュン500企業の高層ビルやショッピングモールが、昔ながらの農村の集落とすぐ隣り合って立ち並んでいます。地元では「サイバーシティ」としても知られ、かつては静かなハリヤーナー州の町だったこの地は、今やインド屈指のビジネス拠点かつナイトライフの中心地へと変貌を遂げました。オフィスパークや屋上バー、広大な飲食エリア「サイバーハブ」が立ち並び、常に活気にあふれています。",
+      "getting": "グルグラム自体には空港がないため、旅行者はまずデリーのインディラ・ガンディー国際空港(DEL)を利用します。空港からグルグラムまでは約15〜20kmほどの距離で、道路または地下鉄で移動することになり、交通状況にもよりますが所要時間はおよそ30〜45分です。デリーメトロのイエローラインは市内まで直通しており、終点のミレニアム・シティ・センター駅からは、高架を走るラピッドメトロに乗り換えることで、サイバーシティやゴルフコース・ロード沿いのビジネス街までアクセスできます。",
+      "days": "グルグラムの主要な見どころを巡るには、1〜2日ほど見ておくとよいでしょう。サイバーハブでの食事やナイトライフを楽しみつつ、モールやマーケットを巡り、高層ビルが立ち並ぶビジネス街と昔ながらの村の路地という対照的な表情を味わうことができます。"
+    },
+    "es": {
+      "blurb": "Gurugram, a menudo llamada la Ciudad del Milenio, es un satélite de Delhi hecho de vidrio y acero, donde las torres de empresas Fortune 500 y los centros comerciales se alzan junto a antiguos pueblos agrícolas. Conocida localmente como Cyber City, pasó de ser una tranquila localidad de Haryana a convertirse en uno de los distritos corporativos y de vida nocturna más activos de la India, repleto de parques empresariales, bares en azoteas y la extensa zona gastronómica de Cyber Hub.",
+      "getting": "Gurugram no cuenta con aeropuerto propio, así que los viajeros llegan al Aeropuerto Internacional Indira Gandhi de Delhi (DEL), ubicado a unos 15-20 km, y continúan por carretera o en metro, un trayecto que suele tomar entre 30 y 45 minutos según el tráfico. La Línea Amarilla del Metro de Delhi va directamente hasta la ciudad y termina en la estación Millennium City Centre, desde donde el Rapid Metro elevado continúa hacia Cyber City y la zona empresarial de Golf Course Road.",
+      "days": "Se recomienda dedicar entre 1 y 2 días para recorrer lo esencial de Gurugram: la oferta gastronómica y la vida nocturna de Cyber Hub, los centros comerciales y mercados, y el contraste entre sus modernos distritos empresariales de rascacielos y las calles de sus pueblos más antiguos."
+    },
+    "zh": {
+      "blurb": "古鲁格拉姆常被称为\"千禧之城\",是德里旁一座玻璃幕墙与钢筋construction林立的卫星城市——财富500强企业的摩天大楼和购物中心,与古老的农耕村落比邻而立。当地人更习惯称它为\"赛博城\"(Cyber City),它已从哈里亚纳邦一座默默无闻的小镇,蜕变为印度最繁忙的商业与夜生活中心之一,遍布写字楼园区、屋顶酒吧,以及规模庞大的Cyber Hub餐饮街区。",
+      "getting": "古鲁格拉姆本身没有机场,游客通常需先飞抵德里的英迪拉·甘地国际机场(DEL),该机场距市区约15至20公里,再转乘公路或地铁前往,视路况而定,全程约需30至45分钟。德里地铁黄线可直达市区,终点站为\"千禧城中心站\"(Millennium City Centre),从这里换乘高架轻轨\"捷运地铁\"(Rapid Metro),即可继续前往赛博城及高尔夫球场路商务带。",
+      "days": "建议预留1至2天时间,畅游古鲁格拉姆的精华地带:在Cyber Hub享受美食与夜生活、逛遍各大商场与市集,并亲身感受摩天商务区与old式村落街巷之间鲜明的对比风貌。"
+    }
+  },
+  "Bathurst": {
+    "en": {
+      "blurb": "Bathurst is Australia's oldest inland settlement, founded in 1815 on the Wiradjuri lands west of the Blue Mountains, and its gold rush past still lines the streets with ornate 19th century architecture. For many visitors, though, the city is defined by Mount Panorama, the public road that doubles as a world famous racing circuit and draws huge crowds every year for the Bathurst 1000.",
+      "getting": "The reliable way in is by rail: Bathurst railway station sits on the Main Western line, with the Sydney Trains \"Bathurst Bullet\" and NSW TrainLink regional services linking it to Sydney's Central Station in roughly 3.5 to 4 hours. Coach services and the Great Western Highway also connect Bathurst to Sydney and the Blue Mountains for travellers driving or arriving via the regional bus network.",
+      "days": "Plan on ~2 to 3 days to take in the historic city centre, Mount Panorama and its motor racing museum, and the surrounding Central Tablelands countryside at an easy pace."
+    },
+    "ko": {
+      "blurb": "배서스트(Bathurst)는 1815년 블루마운틴 서쪽의 위라주리(Wiradjuri) 원주민 땅에 세워진 호주 최초의 내륙 정착지로, 골드러시 시절의 흔적이 지금도 거리 곳곳에 남아 19세기풍의 화려한 건축물들을 이루고 있습니다. 하지만 많은 방문객들에게 이 도시를 대표하는 것은 단연 마운트 파노라마(Mount Panorama)입니다. 평소에는 일반 도로로 쓰이지만 세계적으로 유명한 레이싱 서킷으로 변신하는 이곳은 매년 배서스트 1000(Bathurst 1000) 대회 때마다 엄청난 인파를 불러 모읍니다.",
+      "getting": "가장 확실한 방법은 기차를 이용하는 것입니다. 배서스트 기차역은 메인 웨스턴(Main Western) 노선에 위치해 있으며, 시드니 트레인스(Sydney Trains)의 \"배서스트 불릿(Bathurst Bullet)\"과 NSW 트레인링크(TrainLink)의 지역 열차가 시드니 센트럴역(Central Station)과 이곳을 약 3시간 30분에서 4시간 만에 연결해 줍니다. 직접 운전하거나 지역 버스망을 이용하는 여행객이라면, 고속버스 노선과 그레이트 웨스턴 하이웨이(Great Western Highway)를 통해서도 배서스트와 시드니, 블루마운틴을 오갈 수 있습니다.",
+      "days": "역사적인 시내 중심가와 마운트 파노라마 및 그 안의 모터레이싱 박물관, 그리고 주변의 센트럴 테이블랜드(Central Tablelands) 전원 지역을 여유롭게 둘러보려면 2~3일 정도를 계획하는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "バサーストはオーストラリア最古の内陸入植地で、1815年、ブルーマウンテンズ西方のウィラジュリの人々の土地に築かれました。ゴールドラッシュ時代の面影は今も色濃く残り、街には19世紀の装飾的な建築物が立ち並んでいます。とはいえ、多くの旅行者にとってこの街の象徴といえばマウント・パノラマでしょう。公道でありながら世界的に有名なレーシングサーキットとしても使われ、毎年「バサースト1000」には大勢の観客が詰めかけます。",
+      "getting": "バサーストへの定番のアクセス手段は鉄道です。バサースト駅はメイン・ウェスタン線沿いにあり、シドニー・トレインズの「バサースト・ブレット」やNSWトレインリンクの地域路線を利用すれば、シドニーのセントラル駅からおよそ3.5~4時間で結ばれています。また、車で向かう場合や地方バス網を利用する場合は、長距離バスやグレート・ウェスタン・ハイウェイを使ってシドニーやブルーマウンテンズとバサーストを行き来することもできます。",
+      "days": "歴史あるシティセンター、マウント・パノラマとそのモータースポーツ博物館、そして周辺に広がるセントラル・テーブルランズの田園風景をのんびり楽しむなら、2~3日ほど見ておくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Bathurst es el asentamiento del interior más antiguo de Australia, fundado en 1815 en tierras wiradjuri al oeste de las Blue Mountains, y su pasado ligado a la fiebre del oro aún se refleja en las calles, con una arquitectura ornamentada del siglo XIX. Sin embargo, para muchos visitantes, la ciudad se identifica sobre todo con Mount Panorama, la vía pública que se transforma en un circuito de carreras de fama mundial y que atrae a multitudes cada año durante el Bathurst 1000.",
+      "getting": "La forma más segura de llegar es en tren: la estación de Bathurst se encuentra en la Main Western Line, y tanto el \"Bathurst Bullet\" de Sydney Trains como los servicios regionales de NSW TrainLink la conectan con la estación Central de Sídney en aproximadamente 3,5 a 4 horas. Los servicios de autobús y la Great Western Highway también enlazan Bathurst con Sídney y las Blue Mountains, ideales para quienes viajan en coche o llegan a través de la red regional de autobuses.",
+      "days": "Se recomienda dedicar entre 2 y 3 días para recorrer con calma el centro histórico de la ciudad, Mount Panorama con su museo de automovilismo, y el paisaje rural circundante de los Central Tablelands."
+    },
+    "zh": {
+      "blurb": "巴瑟斯特（Bathurst）是澳大利亚历史最悠久的内陆定居点，1815年建立于蓝山以西的维拉杜里（Wiradjuri）原住民土地上。昔日淘金热的痕迹至今仍留存在街道两旁华丽的19世纪建筑中。不过，对许多游客来说，这座城市最著名的标志是帕诺拉马山（Mount Panorama）——一条既是公共道路、又是世界知名赛车赛道的传奇路线，每年吸引大批车迷前来观看巴瑟斯特1000赛车赛（Bathurst 1000）。",
+      "getting": "前往巴瑟斯特，最稳妥的方式是乘坐火车：巴瑟斯特火车站位于主西线（Main Western line）上，悉尼火车公司（Sydney Trains）运营的“巴瑟斯特子弹号”（Bathurst Bullet）以及新南威尔士州连线（NSW TrainLink）的区域列车都可直达悉尼中央车站（Central Station），车程约3.5至4小时。此外，长途客车和大西部公路（Great Western Highway）也将巴瑟斯特与悉尼及蓝山地区相连，方便自驾或乘坐区域巴士前来的游客。",
+      "days": "建议安排约2至3天时间，从容游览历史悠久的市中心、帕诺拉马山及其赛车博物馆，并顺道探索周边中央高地（Central Tablelands）的田园风光。"
+    }
+  },
+  "Ravenna": {
+    "en": {
+      "blurb": "Ravenna holds eight UNESCO World Heritage monuments within its compact centre, their walls shimmering with the finest early Christian and Byzantine mosaics anywhere in the world. Once capital of the Western Roman Empire and later of the Byzantine Exarchate, this quiet Emilia-Romagna city packs an outsized dose of history into a few easy walking streets.",
+      "getting": "The usual route is to fly into Bologna Airport (BLQ), then take a regional train from Bologna Centrale, a journey of a bit over an hour direct, though some services require a change at Faenza. Ravenna's own train station sits close to the historic centre, so no onward transfer is needed on arrival.",
+      "days": "Allow ~2 days: one for the core mosaic sites of San Vitale and Galla Placidia, and a second for the outlying basilicas and a slower wander through the old town."
+    },
+    "ko": {
+      "blurb": "라벤나는 아담한 구시가지 안에 유네스코 세계유산 기념물을 무려 여덟 곳이나 품고 있으며, 그 벽면은 세계 어디에서도 볼 수 없는 최고 수준의 초기 그리스도교 및 비잔틴 모자이크로 찬란하게 빛난다. 한때 서로마 제국의 수도였고 훗날 비잔틴 라벤나 총독부의 중심지였던 이 에밀리아로마냐의 조용한 도시는, 몇 개의 걷기 편한 거리 안에 엄청난 양의 역사를 응축하고 있다.",
+      "getting": "가장 일반적인 경로는 볼로냐 공항(BLQ)으로 입국한 뒤, 볼로냐 첸트랄레 역에서 지역열차를 타는 것이다. 직행이면 한 시간 남짓이면 도착하지만, 일부 열차는 파엔차에서 환승이 필요하다. 라벤나 기차역은 구시가지 바로 근처에 있어서, 도착 후 별도의 이동 수단 없이 바로 걸어서 시내로 들어갈 수 있다.",
+      "days": "약 2일 정도를 잡는 것이 좋다. 첫째 날은 산비탈레 성당과 갈라 플라치디아 묘당 등 핵심 모자이크 유적을 둘러보고, 둘째 날은 외곽의 바실리카들을 방문한 뒤 느긋하게 구시가지를 산책하며 마무리하면 된다."
+    },
+    "ja": {
+      "blurb": "ラヴェンナのコンパクトな旧市街には、ユネスコ世界遺産に登録された建造物が8つも集まっており、その壁面を彩るのは世界でも類を見ないほど見事な初期キリスト教・ビザンチン様式のモザイクです。かつて西ローマ帝国の首都として、その後はビザンチン総督府の拠点として栄えたこの静かなエミリア=ロマーニャ州の街には、気軽に歩き回れるわずかな通りの中に、ずしりと重い歴史が凝縮されています。",
+      "getting": "定番ルートは、まずボローニャ空港（BLQ）に到着し、ボローニャ中央駅から地域列車に乗り換える方法です。直通なら1時間強の道のりですが、便によってはファエンツァでの乗り換えが必要になります。ラヴェンナ駅は旧市街のすぐそばにあるため、到着後に改めて移動する必要はありません。",
+      "days": "目安として2日ほど見ておきましょう。1日目はサン・ヴィターレ聖堂やガッラ・プラチディア廟といった必見のモザイクを堪能し、2日目は郊外に点在するバシリカ（聖堂）を巡りつつ、旧市街をのんびり散策するのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Rávena alberga ocho monumentos declarados Patrimonio de la Humanidad por la UNESCO dentro de su compacto centro histórico, con muros que resplandecen gracias a los mosaicos paleocristianos y bizantinos más bellos de todo el mundo. Antigua capital del Imperio Romano de Occidente y, más tarde, del Exarcado bizantino, esta tranquila ciudad de Emilia-Romaña concentra una dosis descomunal de historia en apenas un puñado de calles que se recorren fácilmente a pie.",
+      "getting": "Lo habitual es volar hasta el aeropuerto de Bolonia (BLQ) y luego tomar un tren regional desde Bologna Centrale, un trayecto directo de poco más de una hora, aunque algunos servicios requieren hacer trasbordo en Faenza. La estación de tren de Rávena está muy cerca del centro histórico, así que al llegar no hace falta ningún traslado adicional.",
+      "days": "Conviene reservar unos 2 días: uno para los principales mosaicos de San Vitale y Galla Placidia, y otro para las basílicas de las afueras y un paseo más pausado por el casco antiguo."
+    },
+    "zh": {
+      "blurb": "拉文纳小巧的城区内坐落着八处联合国教科文组织世界遗产古迹，墙壁上镶嵌着举世无双的早期基督教与拜占庭马赛克杰作，熠熠生辉。这座如今静谧的艾米利亚-罗马涅小城，曾是西罗马帝国的都城，后又成为拜占庭总督区的中心，短短几条步行可达的街巷之间，浓缩了一段厚重非凡的历史。",
+      "getting": "常见的路线是先飞抵博洛尼亚机场（BLQ），再从博洛尼亚中央车站搭乘区域列车前往，直达车程一个多小时，不过部分班次需要在法恩扎（Faenza）换乘。拉文纳火车站距离历史中心很近，抵达后无需再转乘其他交通工具。",
+      "days": "建议安排约2天行程：第一天游览圣维塔莱教堂（San Vitale）和加拉·普拉奇迪亚陵墓（Galla Placidia）等核心马赛克景点，第二天前往城郊的几座教堂，再悠闲地漫步老城区。"
+    }
+  },
+  "Pushkar": {
+    "en": {
+      "blurb": "Pushkar is a holy desert town wrapped around a sacred lake said to have formed where Brahma dropped a lotus; its 52 bathing ghats and rare Brahma temple draw pilgrims year round. Beyond the ritual bathing and bell-ringing at dawn, the town is edged by camel grounds and Aravalli hills, famous worldwide for the November camel and livestock fair.",
+      "getting": "Most travellers fly into Jaipur International Airport (JAI), the nearest major airport, then continue by road (~3 hours) via Ajmer. By train, Ajmer Junction is the closest well-connected railhead, with Pushkar roughly a 30 minute taxi or bus ride beyond it over the Aravalli ridge.",
+      "days": "1 to 2 days is enough to walk the ghats, visit the Brahma temple and wander the bazaar, though travellers timing their trip around the camel fair often stay 3 to 4 days."
+    },
+    "ko": {
+      "blurb": "푸쉬카르는 신성한 호수를 품은 사막의 성지로, 이 호수는 브라흐마가 연꽃을 떨어뜨린 자리에 생겨났다고 전해집니다. 52개의 목욕 가트(계단식 욕장)와 인도에서 보기 드문 브라흐마 사원이 있어 연중 순례자들의 발길이 끊이지 않습니다. 새벽녘 몸을 씻으며 울리는 종소리를 지나면, 마을 주변으로는 낙타 시장터와 아라발리 구릉이 펼쳐지는데, 특히 11월에 열리는 낙타·가축 축제로 전 세계에 이름이 알려져 있습니다.",
+      "getting": "대부분의 여행자는 가장 가까운 주요 공항인 자이푸르 국제공항(JAI)을 이용한 뒤, 아즈메르를 거쳐 육로로 약 3시간을 이동합니다. 기차를 이용할 경우에는 교통이 편리한 아즈메르 분기역(Ajmer Junction)이 가장 가까운 역이며, 여기서 아라발리 능선을 넘어 푸쉬카르까지 택시나 버스로 약 30분이 더 걸립니다.",
+      "days": "가트를 거닐고 브라흐마 사원을 둘러본 뒤 바자르를 구경하는 정도라면 1~2일이면 충분합니다. 다만 낙타 축제 시기에 맞춰 일정을 잡는 여행자라면 보통 3~4일 정도 머무릅니다."
+    },
+    "ja": {
+      "blurb": "プシュカルは、聖なる湖を囲むように広がる砂漠の聖地です。この湖は、ブラフマー神が蓮の花を落とした場所にできたと伝えられています。52のガートと、世界でも珍しいブラフマー寺院があることから、一年を通して多くの巡礼者が訪れます。夜明けの沐浴や鐘の音に彩られる宗教行事だけでなく、町の周囲にはラクダの放牧地やアラヴァリ山脈が広がり、11月に開催されるラクダ・家畜市は世界的にも有名です。",
+      "getting": "多くの旅行者は、最寄りの主要空港であるジャイプール国際空港(JAI)を利用し、そこからアジュメールを経由して陸路で約3時間かけてプシュカルへ向かいます。鉄道を利用する場合は、アジュメール・ジャンクション駅が最も便利な最寄り駅で、そこからアラヴァリ山脈の尾根を越えてタクシーかバスで約30分の距離にプシュカルがあります。",
+      "days": "ガート巡りやブラフマー寺院の参拝、バザール散策を楽しむだけなら1〜2日あれば十分ですが、ラクダ市の時期に合わせて訪れる旅行者は、3〜4日滞在することが多いです。"
+    },
+    "es": {
+      "blurb": "Pushkar es una sagrada ciudad del desierto que rodea un lago sagrado, el cual se dice que se formó donde Brahma dejó caer una flor de loto; sus 52 ghats de baño y su singular templo de Brahma atraúdo (atraen) peregrinos durante todo el año. Más allá de los baños rituales y el repicar de campanas al amanecer, la ciudad está bordeada por terrenos para camellos y las colinas Aravalli, famosa en todo el mundo por la feria de camellos y ganado que se celebra en noviembre.",
+      "getting": "La mayoría de los viajeros llega en avión al Aeropuerto Internacional de Jaipur (JAI), el aeropuerto importante más cercano, y luego continúa por carretera (unas 3 horas) pasando por Ajmer. En tren, la estación de Ajmer Junction es la terminal ferroviaria mejor conectada más próxima, desde donde Pushkar queda a unos 30 minutos en taxi o autobús, cruzando la sierra de Aravalli.",
+      "days": "Con 1 o 2 días es suficiente para recorrer los ghats, visitar el templo de Brahma y pasear por el bazar, aunque los viajeros que planean su visita coincidiendo con la feria de camellos suelen quedarse entre 3 y 4 días."
+    },
+    "zh": {
+      "blurb": "普什卡是一座环绕着圣湖而建的沙漠圣城，相传梵天曾在此落下一朵莲花，湖泊由此形成。城中52座沐浴台阶与罕见的梵天神庙终年吸引着络绎不绝的朝圣者。除了黎明时分的沐浴净身与钟声齐鸣外，小镇周边还分布着骆驼交易场与阿拉瓦利丘陵，每年十一月举办的骆驼牲畜集市更是闻名全球。",
+      "getting": "大多数旅客会先飞抵最近的主要机场——斋浦尔国际机场（JAI），再经陆路前往阿杰梅尔，全程约3小时车程。若乘火车，阿杰梅尔枢纽站是交通最便利的最近车站，从那里翻过阿拉瓦利山脊，乘出租车或巴士约30分钟即可抵达普什卡。",
+      "days": "1到2天足以漫步各处沐浴台阶、参观梵天神庙并逛逛集市；不过若正值骆驼集市期间前来，许多旅客会选择停留3到4天。"
+    }
+  },
+  "Sitges": {
+    "en": {
+      "blurb": "Sitges is a Mediterranean beach town just south of Barcelona, long nicknamed the \"St. Tropez of Spain\" for its Art Nouveau mansions, palm-lined promenade and glamorous reputation. It mixes a historic old quarter of narrow lanes and modernist museums with golden sands, a famously relaxed, gay-friendly nightlife scene and one of Europe's leading film festivals.",
+      "getting": "The nearest airport is Barcelona-El Prat (BCN), and Sitges has its own station on the Rodalies R2 Sud commuter line, with direct trains to and from the airport and central Barcelona taking roughly 25 to 35 minutes. There is no metro link, so rail or the regional coach services are the standard way in, with taxis the quickest door-to-door option.",
+      "days": "~2 days covers the old town, main beaches and a museum or two, with a third day useful for a slower pace or a side trip into the Penedès wine country."
+    },
+    "ko": {
+      "blurb": "시체스는 바르셀로나 바로 남쪽에 자리한 지중해 해변 마을로, 아르누보 양식의 저택들과 야자수가 늘어선 산책로, 화려한 명성 덕분에 오래전부터 \"스페인의 생트로페\"라는 애칭으로 불려왔다. 좁은 골목길과 모더니즘 박물관이 어우러진 유서 깊은 구시가지와 황금빛 모래사장, 느긋하면서도 게이 친화적인 것으로 유명한 나이트라이프, 그리고 유럽을 대표하는 영화제 중 하나가 한데 어우러진 곳이다.",
+      "getting": "가장 가까운 공항은 바르셀로나-엘프라트 공항(BCN)이며, 시체스에는 자체 역이 있어 로달리에스(Rodalies) R2 Sud 통근 열차 노선이 지난다. 공항 및 바르셀로나 시내와 직행 열차로 연결되며 소요 시간은 약 25~35분이다. 지하철 노선은 없기 때문에 기차나 지역 코치버스를 이용하는 것이 일반적이며, 가장 빠르게 문 앞까지 가고 싶다면 택시가 최선의 선택이다.",
+      "days": "구시가지와 주요 해변, 박물관 한두 곳을 둘러보는 데는 약 2일이면 충분하며, 좀 더 여유롭게 즐기거나 페네데스(Penedès) 와인 산지로 당일치기 여행을 다녀오고 싶다면 3일째를 추가하는 것도 좋다."
+    },
+    "ja": {
+      "blurb": "シッチェスはバルセロナのすぐ南に位置する地中海沿岸のビーチタウンで、アール・ヌーヴォー様式の邸宅群、ヤシ並木の海岸遊歩道、そして華やかな雰囲気から、長らく「スペインのサントロペ」と呼ばれてきました。細い路地が入り組む歴史あるオールドタウンやモダニズム建築の美術館と、黄金色のビーチ、ゲイフレンドリーでのんびりとした夜の街の雰囲気、そしてヨーロッパ屈指の映画祭が共存する魅力的な街です。",
+      "getting": "最寄り空港はバルセロナ・エル・プラット空港(BCN)。シッチェスにはロダリエスR2 Sud線の駅があり、空港やバルセロナ中心部との間を結ぶ直通列車で所要約25〜35分です。地下鉄の乗り入れはないため、鉄道または地域バスが一般的なアクセス手段で、タクシーなら最も早く目的地まで直行できます。",
+      "days": "旧市街、主要ビーチ、美術館1〜2館を巡るなら2日程度が目安です。3日目があれば、よりゆったりとした滞在に加え、ペネデス・ワイン産地への小旅行にも充てられます。"
+    },
+    "es": {
+      "blurb": "Sitges es una localidad costera del Mediterráneo situada justo al sur de Barcelona, conocida desde hace tiempo como el \"Saint-Tropez español\" por sus mansiones modernistas, su paseo marítimo bordeado de palmeras y su fama de destino glamuroso. Combina un casco antiguo de calles estrechas y museos modernistas con playas doradas, un ambiente nocturno célebre por su estilo relajado y gay-friendly, y uno de los festivales de cine más importantes de Europa.",
+      "getting": "El aeropuerto más cercano es el de Barcelona-El Prat (BCN), y Sitges cuenta con su propia estación dentro de la línea de cercanías Rodalies R2 Sud, con trenes directos desde y hacia el aeropuerto y el centro de Barcelona que tardan aproximadamente entre 25 y 35 minutos. No hay conexión de metro, así que el tren o los autocares regionales son la forma habitual de llegar, mientras que el taxi es la opción más rápida de puerta a puerta.",
+      "days": "Con unos 2 días es suficiente para recorrer el casco antiguo, las playas principales y uno o dos museos, aunque un tercer día viene bien para ir con más calma o hacer una escapada a la comarca vinícola del Penedès."
+    },
+    "zh": {
+      "blurb": "西切斯（Sitges）是巴塞罗那南郊的一座地中海海滨小镇，长期以来被誉为“西班牙的圣特罗佩”，这得益于其新艺术风格的豪宅、棕榈树夹道的海滨大道，以及一贯摩登迷人的名声。小镇既有老城区的蜿蜒窄巷和现代主义博物馆，又有金色沙滩，还以悠闲自在、对同志友好的夜生活和欧洲顶级电影节之一而闻名。",
+      "getting": "最近的机场是巴塞罗那埃尔普拉特机场（BCN），西切斯本身设有Rodalies R2 Sud市郊线车站，有直达列车往返机场和巴塞罗那市中心，车程约25至35分钟。当地没有地铁连接，因此火车或区域大巴是通常的出行方式，而出租车则是最快捷的点对点选择。",
+      "days": "大约2天即可游览老城区、主要海滩和一两座博物馆，若想放慢节奏，或顺道前往佩内德斯（Penedès）葡萄酒产区，不妨安排第三天行程。"
+    }
+  },
+  "Surin": {
+    "en": {
+      "blurb": "Surin is Thailand's elephant capital, home to the Kuy people whose skill at capturing and training elephants has been renowned for centuries and now headlines the annual Surin Elephant Round up. Beyond the festival crowds, this low-key Isan provincial town serves as the gateway to the elephant village of Ban Tha Klang and the wider rice-farming heartland of the northeast.",
+      "getting": "Surin has its own railway station at the end of Thanasarn Road, with direct State Railway of Thailand services from Bangkok's Krung Thep Aphiwat Central Terminal taking ~8 hours; the town has no airport of its own, so flyers typically land at Buri Ram or Ubon Ratchathani and finish the trip by train or bus. Long-distance buses from Bangkok's Mo Chit terminal cover the same route in a similar timeframe.",
+      "days": "Most visitors base themselves in Surin for ~1-2 days to cover the town and a side trip to the elephant village, stretching to 3 days if timing the visit around the November Elephant Round-up festival."
+    },
+    "ko": {
+      "blurb": "수린은 태국의 코끼리 수도로 불리는 곳으로, 수 세기에 걸쳐 코끼리를 포획하고 길들이는 기술로 명성을 쌓아온 꾸이족의 터전입니다. 이러한 전통은 오늘날 매년 열리는 수린 코끼리 라운드업 축제의 핵심을 이루고 있습니다. 축제 기간의 인파를 벗어나면, 이 소박한 이싼 지방 소도시는 코끼리 마을인 반 타 클랑과 드넓은 동북부 쌀농사 지대로 향하는 관문 역할을 합니다.",
+      "getting": "수린에는 타나산 로드 끝자락에 자체 기차역이 있어, 방콕 끄룽텝 아피왓 중앙역에서 태국 국영철도(State Railway of Thailand) 직행 열차를 타면 약 8시간이 걸립니다. 수린에는 자체 공항이 없기 때문에, 비행기로 이동하는 여행객은 보통 부리람이나 우본랏차타니 공항에 내린 뒤 기차나 버스로 나머지 구간을 이동합니다. 방콕 모칫 터미널에서 출발하는 장거리 버스도 비슷한 소요 시간으로 같은 구간을 운행합니다.",
+      "days": "대부분의 여행객은 수린 시내와 코끼리 마을 당일치기 여행을 포함해 약 1~2일 정도 머무르며, 11월 코끼리 라운드업 축제 일정에 맞춰 방문할 경우에는 3일까지 일정을 늘리기도 합니다."
+    },
+    "ja": {
+      "blurb": "スリンはタイ屈指の「象の里」として知られ、何世紀にもわたって象を捕らえ調教する技術を受け継いできたクイ族の故郷でもあります。その伝統は今や毎年開催される「スリン・エレファント・ラウンドアップ」の目玉として注目を集めています。祭りの賑わいから一歩離れると、このイサーン地方らしい素朴な県庁所在地は、象使いの村バーン・タークランや、米作りが盛んな東北タイの農村地帯への玄関口としての顔も持っています。",
+      "getting": "スリンにはタナサーン通りの突き当たりに自前の鉄道駅があり、バンコクのクルンテープ・アピワット中央駅からタイ国鉄の直通列車で約8時間かかります。町自体には空港がないため、飛行機を利用する場合は通常ブリーラムかウボンラーチャターニーの空港に降り立ち、そこから鉄道かバスで仕上げの移動をすることになります。バンコクのモーチット・バスターミナルからの長距離バスも、ほぼ同じ所要時間でこのルートをカバーしています。",
+      "days": "多くの旅行者は、町の散策と象の村への小旅行を組み合わせて、スリンに1〜2日ほど滞在します。11月のエレファント・ラウンドアップ祭りに合わせて訪れる場合は、3日程度に延ばすのがおすすめです。"
+    },
+    "es": {
+      "blurb": "Surin es la capital elefante de Tailandia, hogar del pueblo kuy, cuya habilidad para capturar y adiestrar elefantes es célebre desde hace siglos y hoy protagoniza el famoso Surin Elephant Round-up anual. Más allá del bullicio festivalero, esta tranquila ciudad provincial de Isan funciona como puerta de entrada al pueblo elefante de Ban Tha Klang y al extenso corazón arrocero del noreste del país.",
+      "getting": "Surin cuenta con su propia estación de tren al final de Thanasarn Road, con servicios directos de la State Railway of Thailand desde la Krung Thep Aphiwat Central Terminal de Bangkok que tardan unas 8 horas; la ciudad no tiene aeropuerto propio, así que quienes viajan en avión suelen aterrizar en Buri Ram o Ubon Ratchathani y completar el trayecto en tren o autobús. Los autobuses de larga distancia desde la terminal Mo Chit de Bangkok cubren la misma ruta en un tiempo similar.",
+      "days": "La mayoría de los visitantes se queda en Surin entre 1 y 2 días para recorrer la ciudad y hacer una excursión al pueblo elefante, ampliando la estancia a 3 días si se planea la visita en torno al festival Elephant Round-up de noviembre."
+    },
+    "zh": {
+      "blurb": "素辇是泰国的大象之都,库伊族世代居住于此,他们驯象、训象的技艺闻名已久,如今更是一年一度素辇大象节的重头戏。抛开节庆期间的人潮,这座低调的伊森府城平日里更像是一个门户,通向他克兰大象村,以及泰国东北部广袤的稻作腹地。",
+      "getting": "素辇在他那讪路(Thanasarn Road)尽头设有自己的火车站,泰国国家铁路从曼谷廊曼的空提阿披瓦中央车站(Krung Thep Aphiwat Central Terminal)开出直达班次,车程约8小时;素辇本身没有机场,乘飞机前来的游客通常会先飞抵武里南(Buri Ram)或乌汶叻差他尼(Ubon Ratchathani),再转乘火车或巴士完成剩余行程。从曼谷挽纳(Mo Chit)客运站出发的长途巴士,耗时与火车大致相当。",
+      "days": "大多数游客会在素辇停留约1-2天,用来游览市区并顺道前往大象村;如果想赶上11月举行的大象节,行程可以延长至3天。"
+    }
+  },
+  "Zaragoza": {
+    "en": {
+      "blurb": "Zaragoza sits almost exactly halfway between Madrid and Barcelona on the banks of the Ebro, a city whose Mudejar towers, Roman ruins and the vast Basilica del Pilar are often overshadowed by its two famous neighbours. It rewards travellers who stop rather than pass through, offering a dense, walkable old town without the crowds of the coast or the capital.",
+      "getting": "Most visitors arrive by train at Zaragoza-Delicias, a stop on the Madrid-Barcelona high-speed AVE line, with journeys of around 1h15 from Madrid and around 1h30 from Barcelona. Zaragoza does have its own airport (ZAZ) about 16km from the centre, but it handles relatively few scheduled passenger flights, so flying into Madrid or Barcelona and continuing by train is usually the more reliable route.",
+      "days": "~1-2 days is enough to cover the Basilica del Pilar, the Aljafería palace and the compact historic centre on foot."
+    },
+    "ja": {
+      "blurb": "サラゴサはエブロ川のほとりに広がる街で、ちょうどマドリードとバルセロナのほぼ中間に位置しています。ムデハル様式の塔やローマ遺跡、そして壮大なピラール聖母大聖堂を擁しながらも、両隣の有名都市の陰に隠れがちな存在です。しかし、通り過ぎるのではなく立ち寄る旅行者には、海岸沿いの街や首都のような人混みのない、歩いて回れる密度の濃い旧市街がその魅力を存分に返してくれます。",
+      "getting": "多くの旅行者は、マドリード・バルセロナ間を結ぶ高速鉄道AVEの停車駅であるサラゴサ・デリシアス駅に列車で到着します。所要時間はマドリードから約1時間15分、バルセロナから約1時間30分です。サラゴサには中心部から約16kmのところに独自の空港(ZAZ)がありますが、定期旅客便の発着は比較的少ないため、マドリードかバルセロナに空路で入り、そこから列車で向かう方が一般的に確実な行き方です。",
+      "days": "ピラール聖母大聖堂、アルハフェリア宮殿、そしてこぢんまりとした歴史地区を徒歩で回るなら、1〜2日あれば十分です。"
+    },
+    "es": {
+      "blurb": "Zaragoza se asienta casi justo a medio camino entre Madrid y Barcelona, a orillas del Ebro, una ciudad cuyas torres mudéjares, ruinas romanas y la imponente Basílica del Pilar quedan a menudo eclipsadas por sus dos célebres vecinas. Premia a quienes deciden detenerse en lugar de limitarse a pasar de largo, con un casco antiguo denso y perfecto para recorrer a pie, lejos de las aglomeraciones de la costa o de la capital.",
+      "getting": "La mayoría de los visitantes llegan en tren a Zaragoza-Delicias, parada de la línea de alta velocidad AVE Madrid-Barcelona, con trayectos de alrededor de 1h15 desde Madrid y unos 1h30 desde Barcelona. Zaragoza cuenta con su propio aeropuerto (ZAZ), a unos 16 km del centro, aunque opera relativamente pocos vuelos comerciales regulares, por lo que volar a Madrid o Barcelona y continuar en tren suele ser la opción más fiable.",
+      "days": "Con 1-2 días basta para recorrer la Basílica del Pilar, el palacio de la Aljafería y el compacto centro histórico a pie."
+    },
+    "zh": {
+      "blurb": "萨拉戈萨坐落在埃布罗河畔,位置几乎正好是马德里和巴塞罗那之间的中点。这座城市拥有摩尔风格的穆德哈尔塔楼、古罗马遗迹,以及宏伟的皮拉尔圣母大教堂,却常常被两座名气更大的邻城所掩盖。对于愿意停下脚步、而不是匆匆路过的旅行者来说,萨拉戈萨会给出丰厚的回报——这里有一片紧凑、适合步行的老城区,却没有沿海城市或首都那般拥挤的人潮。",
+      "getting": "大多数游客会选择乘火车抵达萨拉戈萨-德利西亚斯站(Zaragoza-Delicias),这里是马德里至巴塞罗那高速AVE线上的一站,从马德里出发约需1小时15分钟,从巴塞罗那出发约需1小时30分钟。萨拉戈萨本身也有机场(ZAZ),距市中心约16公里,但定期客运航班相对较少,因此通常更可靠的方式是先飞往马德里或巴塞罗那,再转乘火车前往。",
+      "days": "大约1-2天时间,就足以步行游览皮拉尔圣母大教堂、阿尔哈费里亚宫以及紧凑精致的历史城区。"
+    },
+    "ko": {
+      "blurb": "사라고사는 마드리드와 바르셀로나 사이, 에브로 강변에 자리한 도시로 그 거리는 양쪽 도시에서 거의 정확히 절반 지점이다. 무데하르 양식의 탑들, 로마 시대 유적, 그리고 웅장한 필라르 성모 대성당을 품고 있지만, 이 모든 매력은 유명한 두 이웃 도시에 가려지기 일쑤다. 하지만 그냥 스쳐 지나가지 않고 잠시 머무는 여행자에게는 충분히 보답하는 곳으로, 해안 도시나 수도에서 느껴지는 인파 없이 촘촘하고 걷기 좋은 구시가지를 선사한다.",
+      "getting": "대부분의 방문객은 마드리드-바르셀로나 고속철도(AVE) 노선의 정차역인 사라고사-델리시아스(Zaragoza-Delicias) 역을 통해 기차로 도착한다. 마드리드에서는 약 1시간 15분, 바르셀로나에서는 약 1시간 30분이 소요된다. 사라고사에도 자체 공항(ZAZ)이 시내에서 약 16km 떨어진 곳에 있지만, 정기 여객 노선이 많지 않은 편이라 마드리드나 바르셀로나로 입국한 뒤 기차로 이동하는 방법이 보통 더 안정적이다.",
+      "days": "필라르 성모 대성당, 알하페리아 궁전, 그리고 아담한 구시가지를 도보로 둘러보기에는 1~2일이면 충분하다."
     }
   }
 }

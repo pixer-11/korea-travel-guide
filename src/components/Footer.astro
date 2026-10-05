@@ -2,9 +2,10 @@
 import Logo from './Logo.astro';
 import { SITE } from '../siteConfig';
 import { getLangFromUrl, useTranslations, localizePath } from '../i18n/utils';
+import { buildToday } from '../lib/buildDay.mjs';
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
-const year = new Date().getFullYear();
+const year = buildToday().getUTCFullYear();
 ---
 
 <footer class="site-footer">

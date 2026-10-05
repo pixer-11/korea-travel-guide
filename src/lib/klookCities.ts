@@ -15,9 +15,10 @@ export interface KlookCity { id: number; slug: string; country: string; widget?:
 export const KLOOK_CITY: Record<string, KlookCity> = {
   // Alias entries (2026-08-07 revenue audit): post regions whose name differs
   // from Klook's slug but whose page is verifiably the same place. Candidates
-  // Miami (not in Klook's sitemap at all) and Washington DC (Klook's
-  // c84912-washington is Washington STATE — Seattle on the page) were REJECTED;
-  // a search fallback beats a confidently wrong destination.
+  // Miami (not in Klook's sitemap then) and Washington DC (Klook's
+  // c84912-washington is Washington STATE — Seattle on the page) were REJECTED
+  // on 08-07; both are mapped below since 10-05, to the right pages.
+  // A search fallback beats a confidently wrong destination.
   "New Delhi": { id: 145, slug: 'delhi', country: 'India' },
   "Bordeaux": { id: 318, slug: 'bordeaux-south-west', country: 'France' },
   "Koh Samui": { id: 702414, slug: 'ko-samui', country: 'Thailand' },
@@ -159,14 +160,198 @@ export const KLOOK_CITY: Record<string, KlookCity> = {
   "Hue": { id: 35, slug: 'hue', country: "Vietnam" },
   "Nha Trang": { id: 208, slug: 'nha-trang', country: "Vietnam" },
   "Phu Quoc": { id: 130, slug: 'phu-quoc', country: "Vietnam" },
+  // ── 2026-10-05 refresh: regions added since 08-13 fell back to the
+  // robots-disallowed search page (full audit). Same method as 08-07 — Klook's
+  // sitemap-city-plain_en-us.xml joined to post regions; a slug listed twice
+  // (Portland, Perth, Hsinchu, Cambridge) or a same-name place elsewhere is not
+  // mapped. Miami and Washington DC are in the sitemap now (c198, c166) and
+  // their pages were checked to be the US cities.
+  // Exact sitemap slug:
+  "Adelaide": { id: 89, slug: 'adelaide', country: "Australia" },
+  "Alanya": { id: 32303, slug: 'alanya', country: "Turkey" },
+  "Alice Springs": { id: 20214, slug: 'alice-springs', country: "Australia" },
+  "Amritsar": { id: 301, slug: 'amritsar', country: "India" },
+  "Austin": { id: 99418, slug: 'austin', country: "United States" },
+  "Avignon": { id: 143700, slug: 'avignon', country: "France" },
+  "Bacolod": { id: 480, slug: 'bacolod', country: "Philippines" },
+  "Baguio": { id: 365498, slug: 'baguio', country: "Philippines" },
+  "Bath": { id: 374, slug: 'bath', country: "United Kingdom" },
+  "Belfast": { id: 291, slug: 'belfast', country: "United Kingdom" },
+  "Berlin": { id: 103, slug: 'berlin', country: "Germany" },
+  "Brisbane": { id: 70, slug: 'brisbane', country: "Australia" },
+  "Bursa": { id: 29490, slug: 'bursa', country: "Turkey" },
+  "Byron Bay": { id: 517, slug: 'byron-bay', country: "Australia" },
+  "Cairns": { id: 73, slug: 'cairns', country: "Australia" },
+  "Cameron Highlands": { id: 488, slug: 'cameron-highlands', country: "Malaysia" },
+  "Canberra": { id: 435, slug: 'canberra', country: "Australia" },
+  "Cardiff": { id: 293, slug: 'cardiff', country: "United Kingdom" },
+  "Chennai": { id: 274, slug: 'chennai', country: "India" },
+  "Chiayi": { id: 436, slug: 'chiayi', country: "Taiwan" },
+  "Colmar": { id: 700761, slug: 'colmar', country: "France" },
+  "Cologne": { id: 79171, slug: 'cologne', country: "Germany" },
+  "Coron": { id: 112652, slug: 'coron', country: "Philippines" },
+  "Da Lat": { id: 207, slug: 'da-lat', country: "Vietnam" },
+  "Darwin": { id: 95, slug: 'darwin', country: "Australia" },
+  "Dresden": { id: 22901, slug: 'dresden', country: "Germany" },
+  "Dumaguete": { id: 148, slug: 'dumaguete', country: "Philippines" },
+  "Edinburgh": { id: 200, slug: 'edinburgh', country: "United Kingdom" },
+  "El Nido": { id: 365356, slug: 'el-nido', country: "Philippines" },
+  "Fethiye": { id: 61798, slug: 'fethiye', country: "Turkey" },
+  "Frankfurt": { id: 112049, slug: 'frankfurt', country: "Germany" },
+  "Fremantle": { id: 702822, slug: 'fremantle', country: "Australia" },
+  "Genoa": { id: 321, slug: 'genoa', country: "Italy" },
+  "Glasgow": { id: 294, slug: 'glasgow', country: "United Kingdom" },
+  "Gold Coast": { id: 72, slug: 'gold-coast', country: "Australia" },
+  "Guanajuato": { id: 26421, slug: 'guanajuato', country: "Mexico" },
+  "Gurugram": { id: 15743, slug: 'gurugram', country: "India" },
+  "Ha Giang": { id: 22489, slug: 'ha-giang', country: "Vietnam" },
+  "Hamburg": { id: 353, slug: 'hamburg', country: "Germany" },
+  "Harbin": { id: 182, slug: 'harbin', country: "China" },
+  "Honolulu": { id: 703335, slug: 'honolulu', country: "United States" },
+  "Hua Hin": { id: 125, slug: 'hua-hin', country: "Thailand" },
+  "Iloilo": { id: 481, slug: 'iloilo', country: "Philippines" },
+  "Inverness": { id: 372, slug: 'inverness', country: "United Kingdom" },
+  "Kanchanaburi": { id: 254, slug: 'kanchanaburi', country: "Thailand" },
+  "Khiva": { id: 10071, slug: 'khiva', country: "Uzbekistan" },
+  "Kobe": { id: 135, slug: 'kobe', country: "Japan" },
+  "Kolkata": { id: 271, slug: 'kolkata', country: "India" },
+  "Kuantan": { id: 365089, slug: 'kuantan', country: "Malaysia" },
+  "Kuching": { id: 16814, slug: 'kuching', country: "Malaysia" },
+  "Lijiang": { id: 12291, slug: 'lijiang', country: "China" },
+  "Liverpool": { id: 295, slug: 'liverpool', country: "United Kingdom" },
+  "London": { id: 106, slug: 'london', country: "United Kingdom" },
+  "Los Cabos": { id: 16830, slug: 'los-cabos', country: "Mexico" },
+  "Lucca": { id: 99807, slug: 'lucca', country: "Italy" },
+  "Malang": { id: 521, slug: 'malang', country: "Indonesia" },
+  "Manchester": { id: 296, slug: 'manchester', country: "United Kingdom" },
+  "Medan": { id: 338, slug: 'medan', country: "Indonesia" },
+  "Melbourne": { id: 69, slug: 'melbourne', country: "Australia" },
+  "Mexico City": { id: 5238, slug: 'mexico-city', country: "Mexico" },
+  "Munich": { id: 118, slug: 'munich', country: "Germany" },
+  "Naha": { id: 13641, slug: 'naha', country: "Japan" },
+  "Nantes": { id: 223132, slug: 'nantes', country: "France" },
+  "Nashville": { id: 71287, slug: 'nashville', country: "United States" },
+  "Nikko": { id: 29364, slug: 'nikko', country: "Japan" },
+  "Ninh Binh": { id: 30135, slug: 'ninh-binh', country: "Vietnam" },
+  "Oaxaca": { id: 10473, slug: 'oaxaca', country: "Mexico" },
+  "Oxford": { id: 297, slug: 'oxford', country: "United Kingdom" },
+  "Pasay": { id: 26286, slug: 'pasay', country: "Philippines" },
+  "Philadelphia": { id: 80779, slug: 'philadelphia', country: "United States" },
+  "Phnom Penh": { id: 44, slug: 'phnom-penh', country: "Cambodia" },
+  "Pisa": { id: 409, slug: 'pisa', country: "Italy" },
+  "Playa del Carmen": { id: 544, slug: 'playa-del-carmen', country: "Mexico" },
+  "Puebla": { id: 7105, slug: 'puebla', country: "Mexico" },
+  "Puerto Princesa": { id: 88695, slug: 'puerto-princesa', country: "Philippines" },
+  "Puerto Vallarta": { id: 9722, slug: 'puerto-vallarta', country: "Mexico" },
+  "Pushkar": { id: 302, slug: 'pushkar', country: "India" },
+  "Putrajaya": { id: 7086, slug: 'putrajaya', country: "Malaysia" },
+  "Ravenna": { id: 20969, slug: 'ravenna', country: "Italy" },
+  "Rishikesh": { id: 54891, slug: 'rishikesh', country: "India" },
+  "Saitama": { id: 20814, slug: 'saitama', country: "Japan" },
+  "Samarkand": { id: 706911, slug: 'samarkand', country: "Uzbekistan" },
+  "San Diego": { id: 330, slug: 'san-diego', country: "United States" },
+  "San Miguel de Allende": { id: 19640, slug: 'san-miguel-de-allende', country: "Mexico" },
+  "Santiago de Compostela": { id: 69794, slug: 'santiago-de-compostela', country: "Spain" },
+  "Sanya": { id: 22772, slug: 'sanya', country: "China" },
+  "Sapa": { id: 290, slug: 'sapa', country: "Vietnam" },
+  "Segovia": { id: 15091, slug: 'segovia', country: "Spain" },
+  "Selcuk": { id: 61877, slug: 'selcuk', country: "Turkey" },
+  "Sepang": { id: 365432, slug: 'sepang', country: "Malaysia" },
+  "Siem Reap": { id: 10, slug: 'siem-reap', country: "Cambodia" },
+  "Sihanoukville": { id: 279, slug: 'sihanoukville', country: "Cambodia" },
+  "Sukhothai": { id: 255, slug: 'sukhothai', country: "Thailand" },
+  "Sydney": { id: 68, slug: 'sydney', country: "Australia" },
+  "Tagaytay": { id: 111159, slug: 'tagaytay', country: "Philippines" },
+  "Takayama": { id: 9316, slug: 'takayama', country: "Japan" },
+  "Tangerang": { id: 30210, slug: 'tangerang', country: "Indonesia" },
+  "Tashkent": { id: 4494, slug: 'tashkent', country: "Uzbekistan" },
+  "Toulouse": { id: 206478, slug: 'toulouse', country: "France" },
+  "Tulum": { id: 17463, slug: 'tulum', country: "Mexico" },
+  "Ubud": { id: 703018, slug: 'ubud', country: "Indonesia" },
+  "Yilan": { id: 42, slug: 'yilan', country: "Taiwan" },
+  "York": { id: 299, slug: 'york', country: "United Kingdom" },
+  "Zamboanga City": { id: 15709, slug: 'zamboanga-city', country: "Philippines" },
+  "Zaragoza": { id: 89775, slug: 'zaragoza', country: "Spain" },
+  "Zhangjiajie": { id: 161, slug: 'zhangjiajie', country: "China" },
+  // Country confirmed on the Klook page itself:
+  "Birmingham": { id: 700008, slug: 'birmingham', country: "United Kingdom" },
+  "Boston": { id: 167, slug: 'Boston', country: "United States" },
+  "Brighton": { id: 464, slug: 'brighton', country: "United Kingdom" },
+  "Can Tho": { id: 5661, slug: 'can-tho-mekong-delta', country: "Vietnam" },
+  "Cordoba": { id: 496, slug: 'cordoba', country: "Spain" },
+  "Guadalajara": { id: 25743, slug: 'guadalajara', country: "Mexico" },
+  "Ha Long Bay": { id: 486, slug: 'halong', country: "Vietnam" },
+  "Hobart": { id: 16897, slug: 'hobart', country: "Australia" },
+  "Miami": { id: 198, slug: 'Miami', country: "United States" },
+  "Mui Ne": { id: 556, slug: 'phan-thiet-mui-ne', country: "Vietnam" },
+  "Pai": { id: 702661, slug: 'pai', country: "Thailand" },
+  "Palermo": { id: 370, slug: 'palermo', country: "Italy" },
+  "Sunshine Coast": { id: 171, slug: 'sunshine-coast', country: "Australia" },
+  "Taiping": { id: 365414, slug: 'taiping', country: "Malaysia" },
+  "Toledo": { id: 473, slug: 'toledo', country: "Spain" },
+  "Washington DC": { id: 166, slug: 'Washington-DC', country: "United States" },
+  // Klook spells it differently (Bengaluru = bangalore, Malacca = melaka…):
+  "Battambang": { id: 6244, slug: 'battambang-province', country: "Cambodia" },
+  "Bengaluru": { id: 195, slug: 'bangalore', country: "India" },
+  "Chamonix": { id: 700232, slug: 'chamonix-mont-blanc', country: "France" },
+  "Frankfurt am Main": { id: 112049, slug: 'frankfurt', country: "Germany" },
+  "Goa": { id: 178, slug: 'Goa', country: "India" },
+  "Kochi": { id: 151, slug: 'cochin', country: "India" },
+  "Kumamoto": { id: 4351, slug: 'kumamoto-prefecture', country: "Japan" },
+  "Malacca": { id: 276, slug: 'melaka', country: "Malaysia" },
+  "Nagasaki": { id: 7057, slug: 'nagasaki-prefecture', country: "Japan" },
+  "Tongyeong": { id: 24598, slug: 'tongyeong-si', country: "South Korea" },
+  // Districts and sub-areas -> the city or area Klook sells them under:
+  "Aberdeen": { id: 2, slug: 'hong-kong', country: "Hong Kong" },
+  "Bugis": { id: 6, slug: 'singapore', country: "Singapore" },
+  "Bukit Timah": { id: 6, slug: 'singapore', country: "Singapore" },
+  "Causeway Bay": { id: 2, slug: 'hong-kong', country: "Hong Kong" },
+  "Central": { id: 2, slug: 'hong-kong', country: "Hong Kong" },
+  "Civic District": { id: 6, slug: 'singapore', country: "Singapore" },
+  "Deira": { id: 78, slug: 'dubai', country: "United Arab Emirates" },
+  "Dempsey Hill": { id: 6, slug: 'singapore', country: "Singapore" },
+  "Downtown Dubai": { id: 78, slug: 'dubai', country: "United Arab Emirates" },
+  "Dubai Marina": { id: 78, slug: 'dubai', country: "United Arab Emirates" },
+  "Jiufen": { id: 6488, slug: 'new-taipei', country: "Taiwan" },
+  "Jordan": { id: 2, slug: 'hong-kong', country: "Hong Kong" },
+  "Jumeirah": { id: 78, slug: 'dubai', country: "United Arab Emirates" },
+  "Jurong": { id: 6, slug: 'singapore', country: "Singapore" },
+  "Katong": { id: 6, slug: 'singapore', country: "Singapore" },
+  "Kennedy Town": { id: 2, slug: 'hong-kong', country: "Hong Kong" },
+  "Koh Phi Phi": { id: 63, slug: 'krabi', country: "Thailand" },
+  "Komodo": { id: 522, slug: 'labuan-bajo', country: "Indonesia" },
+  "Lantau Island": { id: 2, slug: 'hong-kong', country: "Hong Kong" },
+  "Mandalika": { id: 14443, slug: 'central-lombok', country: "Indonesia" },
+  "Mong Kok": { id: 2, slug: 'hong-kong', country: "Hong Kong" },
+  "North Point": { id: 2, slug: 'hong-kong', country: "Hong Kong" },
+  "Nusa Penida": { id: 8, slug: 'bali', country: "Indonesia" },
+  "Palm Jumeirah": { id: 78, slug: 'dubai', country: "United Arab Emirates" },
+  "Pingxi": { id: 6488, slug: 'new-taipei', country: "Taiwan" },
+  "Saadiyat Island": { id: 131, slug: 'abu-dhabi', country: "United Arab Emirates" },
+  "Sai Kung": { id: 2, slug: 'hong-kong', country: "Hong Kong" },
+  "Sha Tin": { id: 2, slug: 'hong-kong', country: "Hong Kong" },
+  "Sheung Wan": { id: 2, slug: 'hong-kong', country: "Hong Kong" },
+  "Stanley": { id: 2, slug: 'hong-kong', country: "Hong Kong" },
+  "Sun Moon Lake": { id: 25303, slug: 'nantou', country: "Taiwan" },
+  "Taroko Gorge": { id: 20, slug: 'hualien', country: "Taiwan" },
+  "Tiong Bahru": { id: 6, slug: 'singapore', country: "Singapore" },
+  "Tsim Sha Tsui": { id: 2, slug: 'hong-kong', country: "Hong Kong" },
+  "Wan Chai": { id: 2, slug: 'hong-kong', country: "Hong Kong" },
 };
 
 // City-level Klook landing URL: the curated destination page when the city is
 // mapped, the search page only as a last resort (Klook's robots.txt disallows
 // /search/, so a mapped city must never fall back to it).
-export function klookCityDest(city: string, locale: string): string {
-  const m = KLOOK_CITY[city];
-  return m
-    ? `https://www.klook.com/${locale}/destination/c${m.id}-${m.slug}/`
-    : `https://www.klook.com/${locale}/search/?query=${encodeURIComponent(city)}`;
+//
+// `country` (2026-10-05): an unmapped district of a city-state — Hong Kong's
+// Jordan, Central, Aberdeen; Singapore's Katong — sent tours to a bare search
+// for "Jordan" (the country) or "Aberdeen" (Scotland) while the same page's
+// hotel link already said "Jordan Hong Kong". A country that is itself a key
+// here is a city-state, so its district goes to the city-state's destination;
+// anywhere else the search carries the country, as the hotel link does.
+export function klookCityDest(city: string, locale: string, country?: string): string {
+  const m = KLOOK_CITY[city] ?? (country ? KLOOK_CITY[country] : undefined);
+  if (m) return `https://www.klook.com/${locale}/destination/c${m.id}-${m.slug}/`;
+  const q = country && country !== city ? `${city} ${country}` : city;
+  return `https://www.klook.com/${locale}/search/?query=${encodeURIComponent(q)}`;
 }

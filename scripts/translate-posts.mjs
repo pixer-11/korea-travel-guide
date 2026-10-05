@@ -33,7 +33,7 @@ import { reflow } from '../src/lib/paragraphs.mjs';
 import { koMangledSyllables } from './lib/ko-syllables.mjs';
 // The nightly audit and this write gate judge wrong-language output by the
 // SAME rules — a detector the writer does not consult is a warning, not a gate.
-import { scriptLeakFlags } from './lib/translation-leak.mjs';
+import { scriptLeakFlags, scriptGlue } from './lib/translation-leak.mjs';
 import { findToolSpill } from './lib/tool-spill.mjs';
 import { namedIds, translatable } from './lib/translate-scope.mjs';
 import { runBatch, REPLACEMENT_CHAR } from './lib/claude-batch.mjs';
@@ -443,6 +443,23 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1, pre = null
       return translateOne(langCode, srcId, data, hash, attempt + 1);
     }
     throw new Error(`English words left in ${langCode} output after ${attempt} attempts: ${drops.slice(0, 5).join(', ')}`);
+  }
+
+  // A Hangul word glued into Japanese or Chinese — 「协재海水浴场」 reached a
+  // <title>, its h1 and JSON-LD; 15 ja/zh files carried one (2026-10-05). The
+  // paragraph check further down needs ten Hangul letters and reads the body
+  // only, so it never saw a two-letter slip in a title. Retried like the other
+  // slips; on the third attempt it is kept and logged, not thrown — a word in
+  // the wrong script is a typo, a missing translation is an English page.
+  const glueText = [out.title, out.description, out.quickAnswer, out.body,
+    ...(Array.isArray(out.faq) ? out.faq.flatMap((f) => [f?.q, f?.a]) : [])].filter(Boolean).join('\n');
+  const glue = scriptGlue(langCode, glueText);
+  if (glue.length) {
+    if (attempt < 3) {
+      console.log(`     ↻ ${langCode}/${srcId} — Korean glued into ${langCode} (${glue.slice(0, 2).join(', ')}), retrying (attempt ${attempt + 1})`);
+      return translateOne(langCode, srcId, data, hash, attempt + 1);
+    }
+    console.log(`     ⚠ ${langCode}/${srcId} — still has Korean glued in after ${attempt} attempts: ${glue.slice(0, 3).join(', ')} (written)`);
   }
 
   // A ** that does not render. fixCjkBold (at write time, below) repairs the

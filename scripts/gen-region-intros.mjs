@@ -114,8 +114,13 @@ async function translateOne(region, en, lang) {
       role: 'user',
       content:
         `Translate this travel-hub intro for ${region} into ${LANG_NAMES[lang]}. ` +
-        `Native-quality (not literal); keep airport codes/proper nouns. Call submit_translation.\n\n` +
-        JSON.stringify(en),
+        `Native-quality (not literal); keep airport codes/proper nouns. ` +
+        `Put each section in its own field of submit_translation (blurb, getting, days) as plain text.\n\n` +
+        // Labelled sections, not JSON.stringify(en): shown JSON, the model wrote
+        // JSON back INTO the blurb field — 6 of 9 Korean replies for Leipzig,
+        // Puerto Vallarta and Zaragoza, which left those hubs without Korean for
+        // days. Labelled, 0 of 9 (measured 2026-10-05).
+        Object.entries(en).map(([k, v]) => `${k.toUpperCase()}:\n${v}`).join('\n\n'),
     }],
   });
   // Same guard as the English path: a missing or literal-"undefined" field must
@@ -144,12 +149,22 @@ async function translateOne(region, en, lang) {
   return kept;
 }
 
-/** Translations for the requested languages; a language that fails is absent. */
+/**
+ * Translations for the requested languages; a language that fails is absent.
+ * Each language gets three tries in the same run: the failures (an incomplete
+ * reply, a stub, a tool spill) are stochastic by this file's own account, but
+ * one try a day left Leipzig without Korean from 10-02 to 10-05.
+ */
 async function translate(region, en, langs) {
   const out = {};
-  const results = await Promise.all(
-    langs.map((lang) => translateOne(region, en, lang).then((v) => [lang, v], (e) => [lang, null, e])),
-  );
+  const tryLang = async (lang) => {
+    let last;
+    for (let i = 0; i < 3; i++) {
+      try { return [lang, await translateOne(region, en, lang)]; } catch (e) { last = e; }
+    }
+    return [lang, null, last];
+  };
+  const results = await Promise.all(langs.map(tryLang));
   for (const [lang, value, err] of results) {
     if (value) out[lang] = value;
     else console.log(`     ⚠️  ${region}/${lang}: ${String(err?.message ?? 'failed').slice(0, 80)}`);
@@ -201,7 +216,7 @@ async function main() {
   if (DRY) { todo.forEach((x) => console.log(`   ${x.region}: ${x.needsEnglish ? 'EN + all' : x.langs.join(', ')}`)); return; }
   if (!todo.length) return;
 
-  let done = 0, failed = 0;
+  let done = 0, failed = 0, short = 0;
   const queue = [...todo];
   await Promise.all(Array.from({ length: CONCURRENCY }, async () => {
     for (;;) {
@@ -228,8 +243,9 @@ async function main() {
         // Report what actually landed, not what was attempted — the old line
         // said "✅ added" for languages that never arrived.
         const got = wanted.filter((l) => merged[l]);
-        const short = wanted.filter((l) => !merged[l]);
-        console.log(`  ${short.length ? '⚠️ ' : '✅'} ${region}, ${country} (${got.join(', ') || 'none'})${short.length ? ` — still missing ${short.join(', ')}` : ''}`);
+        const missing = wanted.filter((l) => !merged[l]);
+        if (missing.length) short++;
+        console.log(`  ${missing.length ? '⚠️ ' : '✅'} ${region}, ${country} (${got.join(', ') || 'none'})${missing.length ? ` — still missing ${missing.join(', ')}` : ''}`);
       } catch (e) {
         failed++;
         console.log(`  ⚠️  ${region}: ${e.message.slice(0, 90)}`);
@@ -239,7 +255,11 @@ async function main() {
 
   // Single atomic write at the end (workers share `store` in-process).
   await writeFile(JSON_PATH, JSON.stringify(store, null, 2) + '\n', 'utf8');
-  console.log(`\n📦 ${done} added · ${failed} failed → ${JSON_PATH}`);
+  console.log(`\n📦 ${done} added · ${failed} failed · ${short} still short a language → ${JSON_PATH}`);
+  // A region left without a language shows its English blurb and meta
+  // description on that language's hub. This used to exit 0, so publish.yml's
+  // soft-fail line ("지역 소개") never fired and nobody heard (2026-10-05).
+  if (failed || short) process.exitCode = 1;
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });

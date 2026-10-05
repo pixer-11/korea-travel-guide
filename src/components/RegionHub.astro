@@ -326,7 +326,7 @@ const dayTripHub = buildDayTrips(allPosts).find((h) => h.city === region) ?? nul
 
       {posts.length > 0 && (
         <>
-          <Tours city={region} />
+          <Tours city={region} country={country} />
           <Hotels city={region} country={country} />
           <PlanTrip city={region} country={country} />
           {wtgCountryHref && (

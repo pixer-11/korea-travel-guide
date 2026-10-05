@@ -51,7 +51,7 @@ const countries = Object.keys(facts)
   .sort();
 
 const today = buildToday().toISOString().slice(0, 10); // lib/buildDay.mjs
-const in14 = new Date(Date.now() + 13 * 86400000).toISOString().slice(0, 10);
+const in14 = new Date(buildToday().getTime() + 13 * 86400000).toISOString().slice(0, 10);
 
 // The default country is the first one that actually has something to say in the
 // default window, not the first alphabetically (the 2026-09-06 build defaulted to

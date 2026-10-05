@@ -75,3 +75,31 @@ test('official-source link lists are still exempt', () => {
   assert.equal(isLinkList(list), true);
   assert.deepEqual(types('zh', `## 参考\n\n${list}`), []);
 });
+
+// scriptGlue — word-level slips the paragraph check is blind to (2026-10-05).
+test('scriptGlue catches Hangul glued into Japanese or Chinese', async () => {
+  const { scriptGlue } = await import('./translation-leak.mjs');
+  // real live strings
+  for (const [lang, s] of [
+    ['ja', 'アルカサバ要塞、헤네ラリフェ宮殿を巡ります。'],
+    ['ja', '1720年창업のカフェ・フローリアン'],
+    ['ja', '案内표示に従って進みます'],
+    ['zh', '协재海水浴场：济州岛旅行指南'],
+    ['zh', '坡州헤이리艺术村'],
+  ]) assert.ok(scriptGlue(lang, s).length > 0, `${lang}: ${s}`);
+});
+
+test('scriptGlue leaves native names with a gloss, quotes, and other languages alone', async () => {
+  const { scriptGlue } = await import('./translation-leak.mjs');
+  for (const [lang, s] of [
+    ['ja', '住所は九南路41番길(Gunam-ro 41beon-gil)です'],
+    ['zh', '갓바위（笠岩）位于八公山'],
+    ['ja', '草堂純豆腐(초당순두부)が名物'],
+    ['ja', '看板には「더 주세요」と書かれています'],
+    ['zh', '日本的「ポケモンセンター」很受欢迎'],
+    ['zh', '牛かつもと村位于福冈PARCO'], // Japanese signage kept in Chinese: a style choice
+    ['ja', 'ソウル の 明洞 と 홍대 を歩く'],
+    ['ko', '협재해수욕장은 제주 서쪽에 있습니다'],
+    ['es', 'La playa de Hyeopjae'],
+  ]) assert.deepEqual(scriptGlue(lang, s), [], `${lang}: ${s}`);
+});

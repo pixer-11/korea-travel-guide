@@ -85,3 +85,24 @@ export function scriptLeakFlags(lang, body) {
   }
   return flags;
 }
+
+// Word-level: a Hangul word glued INTO Japanese or Chinese text — 「헤네ラリフェ」,
+// 「1720年창업の」, 「协재海水浴场」 in a <title>. scriptLeakFlags above is paragraph-level and needs
+// more than ten Hangul letters, so a two-letter slip never reached it, in the
+// body or anywhere else (found 2026-10-05: 15 ja/zh files, 4 of them titles).
+// Kana inside Chinese is NOT flagged: Japanese shop and street names kept as
+// signage (「牛かつもと村」, 「赤レンガ倉庫」) are normal practice there, and a
+// rule that retried them would trade a style choice for missing pages.
+// Same exemptions as the paragraph check (cleanParagraph): a native name with
+// its gloss in parentheses, quoted signage, links. Returns the offending runs
+// with a little context, [] when clean.
+const GLUE_HANGUL = /[가-힣]+(?=[ぁ-んァ-ヶ一-鿿])|(?<=[ぁ-んァ-ヶ一-鿿])[가-힣]+/g;
+export function scriptGlue(lang, text) {
+  if (lang !== 'ja' && lang !== 'zh') return [];
+  const out = [];
+  for (const raw of String(text ?? '').replace(/\r\n/g, '\n').split(/\n+/)) {
+    const p = cleanParagraph(raw);
+    for (const m of p.matchAll(GLUE_HANGUL)) out.push(p.slice(Math.max(0, m.index - 3), m.index + m[0].length + 3));
+  }
+  return out;
+}

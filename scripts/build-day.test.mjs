@@ -23,6 +23,22 @@ test('page code takes "today" from lib/buildDay.mjs, not the clock', () => {
   assert.deepEqual(bad, []);
 });
 
+// 10-05 audit: the rule above only matched the literal `today = new Date()`, so
+// `const now = new Date()` (country hub event counts), `Date.now() + 13 days`
+// (what's-closed window) and eight more slipped past it. A component's server
+// code — its frontmatter, not its <script> blocks, which are the reader's-date
+// layer — never reads the wall clock.
+test('no .astro frontmatter reads the wall clock', () => {
+  const bad = [];
+  for (const p of walk(SRC).filter((x) => x.endsWith('.astro'))) {
+    const fm = readFileSync(p, 'utf8').replace(/\r\n/g, '\n').match(/^---\n([\s\S]*?)\n---/)?.[1] ?? '';
+    fm.split('\n').forEach((l, i) => {
+      if (/new Date\(\)|Date\.now\(\)/.test(l) && !/^\s*\/\//.test(l)) bad.push(`${p.slice(SRC.length)}:${i + 2}`);
+    });
+  }
+  assert.deepEqual(bad, [], 'use buildToday() from lib/buildDay.mjs');
+});
+
 test('the build day holds across midnight UTC (Codex, 10-04)', async () => {
   process.env.WA_BUILD_DAY = '2026-10-02';
   const { eventGroupOf } = await import('../src/lib/eventGroups.mjs');

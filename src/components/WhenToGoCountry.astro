@@ -1,4 +1,5 @@
 ---
+import { buildToday } from '../lib/buildDay.mjs';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { siteHref } from '../lib/urls.mjs';
 import PostCard from './PostCard.astro';
@@ -129,7 +130,7 @@ const jsonLd = {
         { '@type': 'PropertyValue', name: 'Monthly precipitation', unitText: 'mm' },
       ],
       ...(first.climateYears && {
-        temporalCoverage: `${new Date().getUTCFullYear() - first.climateYears}/${new Date().getUTCFullYear() - 1}`,
+        temporalCoverage: `${buildToday().getUTCFullYear() - first.climateYears}/${buildToday().getUTCFullYear() - 1}`,
       }),
       ...(first.climateCity && { spatialCoverage: { '@type': 'Place', name: first.climateCity } }),
       isBasedOn: 'https://power.larc.nasa.gov/',

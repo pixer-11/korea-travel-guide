@@ -7,10 +7,10 @@
 import Emoji from './Emoji.astro';
 import { getLangFromUrl, useTranslations, klookLocale } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
-import { KLOOK_CITY } from '../lib/klookCities';
+import { KLOOK_CITY, klookCityDest } from '../lib/klookCities';
 import { tiqetsCityUrl, affiliateBrand } from '../lib/tiqets-link.mjs';
-interface Props { city: string }
-const { city } = Astro.props;
+interface Props { city: string; country?: string }
+const { city, country } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 const cityLabel = localizePlace(city, lang);
@@ -37,14 +37,12 @@ const src = mapped?.widget
 // earned: of 138 clicks to date, 93 arrived with an empty SubID purely because
 // almost no link set one.
 const subId = `tours_${city.toLowerCase().replace(/[^a-z0-9]+/g, '_')}`;
-const klookDest = mapped
-  ? `https://www.klook.com/${klookLocale(lang)}/destination/c${mapped.id}-${mapped.slug}/`
-  : city
-  ? `https://www.klook.com/${klookLocale(lang)}/search/?query=${encodeURIComponent(city)}`
-  : null;
+// One rule for every surface (klookCityDest): a city-state's district goes to
+// the city-state, an unmapped city searches with its country (2026-10-05).
+const klookDest = city ? klookCityDest(city, klookLocale(lang), country) : null;
 // Europe / US / Middle East cities go to Tiqets instead (src/lib/tiqets-link.mjs,
 // 2026-10-01): same click, higher rate, and Klook's inventory there is thin.
-const klookHref = tiqetsCityUrl({ city, lang, subId }) ?? (klookDest
+const klookHref = tiqetsCityUrl({ city, country, lang, subId }) ?? (klookDest
   ? `/go/klook?to=${encodeURIComponent(klookDest)}&sub_id=${encodeURIComponent(subId)}`
   : 'https://klook.tpx.lv/2NXPH8MA');
 const brand = affiliateBrand(klookHref, lang);

@@ -4,6 +4,7 @@
 // beside it (src/pages/data/) run the same functions, so the page and the
 // downloads cannot disagree. One URL, not a week-by-week grid: indexing has
 // been rationed since 2026-07-25, so new template pages would reach nobody.
+import { buildToday } from '../lib/buildDay.mjs';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { heroOf, TOOL_OG } from '../lib/toolOgPhoto.mjs';
@@ -40,7 +41,7 @@ const fmt = (iso: string, opts: Intl.DateTimeFormatOptions) =>
 // 12월 27일" wrapped onto two lines on a phone (2026-09-24 visual check).
 // …but only for THIS year: "2월 8일 – 2월 14일" left the reader guessing
 // which February. Next year's ranges carry the year once, at the end.
-const thisYear = String(new Date().getUTCFullYear());
+const thisYear = String(buildToday().getUTCFullYear());
 const fmtRange = (a: string, b: string) => {
   const md = (x: string) => fmt(x, { month: 'short', day: 'numeric' });
   if (a.slice(0, 4) === b.slice(0, 4)) {

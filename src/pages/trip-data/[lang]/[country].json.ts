@@ -8,6 +8,7 @@ import { wikimediaThumb } from '../../../lib/wikimediaThumb.mjs';
 import { venueTimeZone } from '../../../lib/venue-tz.mjs';
 import { slugifyRegion } from '../../../lib/slug';
 import { klookCityDest } from '../../../lib/klookCities';
+import { tiqetsCityUrl } from '../../../lib/tiqets-link.mjs';
 import { hotelUrl } from '../../../lib/hotel-link.mjs';
 import countriesData from '../../../../data/countries.json';
 import esimFacts from '../../../../data/esim-facts.json';
@@ -101,7 +102,10 @@ export async function GET({ params }: { params: { lang: Lang; country: string } 
           slugs: [...new Set((it.data.itinerary ?? []).flatMap((day: any) => (day.stops ?? []).map((s: any) => s.slug)))],
         })),
       prep: {
-        tickets: `/go/klook?to=${encodeURIComponent(klookCityDest(regionEn, klookLocale(lang)))}`,
+        // Same routing as the region's own pages: Tiqets where it has the city,
+        // Klook otherwise (2026-10-05 audit — this link alone skipped Tiqets).
+        tickets: tiqetsCityUrl({ city: regionEn, country: countryEn, lang, subId: 'mytrip_tickets' })
+          ?? `/go/klook?to=${encodeURIComponent(klookCityDest(regionEn, klookLocale(lang), countryEn))}`,
         esim: esimHref,
         pickup: 'https://kiwitaxi.tpx.lv/yRbl5tIp?sub_id=mytrip_pickup',
         hotel: hotelUrl({ submarker: 'mytrip', locale: klookLocale(lang), place: regionEn, country: countryEn }),

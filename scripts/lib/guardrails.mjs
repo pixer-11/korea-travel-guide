@@ -67,7 +67,12 @@ export function checkPlace(place, { country } = {}) {
   // coordinates at all is the same failure: there is nothing to file it by.
   if (country) {
     const inside = insideCountry(country, place.lat, place.lng);
-    if (typeof place.lat !== 'number' || typeof place.lng !== 'number') {
+    // No box for the country means the check did not run, and a check that
+    // did not look must not pass: Australia, the UK, Germany and Mexico were
+    // added after the boxes and went unchecked for weeks (2026-10-05).
+    if (!BBOX[country]) {
+      reasons.push(`no bbox for ${country} — add it to data/country-bbox.json`);
+    } else if (typeof place.lat !== 'number' || typeof place.lng !== 'number') {
       reasons.push(`no coordinates to place it in ${country}`);
     } else if (inside === false) {
       reasons.push(`coordinates ${place.lat},${place.lng} are outside ${country}`);

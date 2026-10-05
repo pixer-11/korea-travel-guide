@@ -1,4 +1,5 @@
 ---
+import { buildToday } from '../lib/buildDay.mjs';
 import { getCollection } from 'astro:content';
 import Logo from './Logo.astro';
 import Flag from './Flag.astro';
@@ -29,7 +30,7 @@ const topLangs = (Object.keys(languages) as Lang[]).map((l) => ({
   active: l === lang,
 }));
 // 빌드 시각 = 사이트가 실제로 갱신된 날. 매일 자동 발행되므로 지어낸 값이 아니다.
-const builtOn = new Date().toLocaleDateString(
+const builtOn = buildToday().toLocaleDateString(
   ({ en: 'en-GB', ko: 'ko-KR', ja: 'ja-JP', es: 'es-ES', zh: 'zh-CN' })[lang] ?? 'en-GB',
   { year: 'numeric', month: 'short', day: 'numeric' }
 );

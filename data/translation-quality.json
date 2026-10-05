@@ -7727,13 +7727,6 @@
   "worst": "ロビーや共用スペースは、まるで座ってくつろぐことを許された小さな博物館のような雰異気です。",
   "at": "2026-08-15T02:44:21.394Z"
  },
- "ja/alishan-alishan-forest-railway-garage-park": {
-  "hash": "90d318a5bb06",
-  "score": 0,
-  "registerBreak": false,
-  "worst": "",
-  "at": "2026-08-23T08:55:09.502Z"
- },
  "ja/alishan-alishan-national-forest-recreation-area": {
   "hash": "fa061359f699",
   "score": 1,
@@ -8924,13 +8917,6 @@
   "worst": "千件を優に超える来館者からの評価をもとにした4.3前後という評点を見ても、商業地区の一角にありながら本格的な美術館としての魅力をしっかり備えていることがうかがえます。",
   "at": "2026-08-16T11:02:47.795Z"
  },
- "ja/busan-namaste-haeundae": {
-  "hash": "de1569e95d89",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "ビーチでのアクティビティの合間に5分だけ立ち寄るつもりで訪れるのはよくある失敗です。",
-  "at": "2026-08-15T06:23:58.362Z"
- },
  "ja/busan-oryukdo-skywalk": {
   "hash": "1c02df8464aa",
   "score": 1,
@@ -9952,13 +9938,6 @@
   "registerBreak": false,
   "worst": "西側の葦原の木道は最も静かな区間で、葦のざわめきと水鳥だけの世界が広がり、夏の夜に噴水の水流が光と録音音楽に合わせて動き",
   "at": "2026-08-15T02:51:34.707Z"
- },
- "ja/granada-alhambra": {
-  "hash": "84a27a975262",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "約158,000件のレビューで4.8という評価は伊達ではなく、その理由は繊細な漆喰細工やタイル装飾...",
-  "at": "2026-08-15T02:51:36.187Z"
  },
  "ja/granada-generalife": {
   "hash": "659e11c6992a",
@@ -14538,13 +14517,6 @@
   "worst": "ここは名実ともに、昔からヴェネツィアの本当のメインストリートです。",
   "at": "2026-08-15T08:43:33.537Z"
  },
- "ja/venice-piazza-san-marco": {
-  "hash": "bd4cd855d943",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "金色モザイクのドームとビザンチン様式の外観はイタリアの他のどこにも見られないもの——これは...歴史の遺産です。",
-  "at": "2026-08-15T03:12:13.379Z"
- },
  "ja/venice-saint-mark-s-basilica": {
   "hash": "97dfbc516c79",
   "score": 1,
@@ -14670,13 +14642,6 @@
   "registerBreak": false,
   "worst": "最大規模かつ最も修復が進んでいるため、最大のインパクトを求めるなら最後に取っておきましょう。",
   "at": "2026-08-15T03:12:47.982Z"
- },
- "ja/yeosu-keunkkeut-lighthouse": {
-  "hash": "294cb1705744",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "124件のレビューで評価4.3を獲得しており、英語圏の地図にはほとんど載らないものの、地元や国内の旅行者の間では根強い人気があることがうかがえます。",
-  "at": "2026-08-15T03:12:50.716Z"
  },
  "ja/yilan-diu-diu-dang-forest-park": {
   "hash": "74679a811d11",
@@ -24163,13 +24128,6 @@
   "worst": "很对付这一带金融从业者和设计园区访客的胃口",
   "at": "2026-08-15T12:02:03.838Z"
  },
- "zh/chuncheon-1-5-dakgalbi": {
-  "hash": "12596845c176",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "这可以说是每顿达吉比的“隐藏第二幕”，甚至可能是整餐中最精彩的部分。",
-  "at": "2026-08-16T11:22:23.034Z"
- },
  "zh/chuncheon-gangchon-rail-park": {
   "hash": "e1732292b8dc",
   "score": 1,
@@ -25401,13 +25359,6 @@
   "registerBreak": false,
   "worst": "工作日无论上午还是下午都相对清静,因为整个上午9点到下午6点的时段人都不多。",
   "at": "2026-08-15T03:57:51.231Z"
- },
- "zh/jeju-hyeopjae-beach": {
-  "hash": "a9c166a84222",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "这也是为什么这里的海水呈现出明亮的turquoise(青绿色),而非济州岛其他地方常见的深色调",
-  "at": "2026-08-15T03:57:30.095Z"
  },
  "zh/jeju-jeju-national-museum": {
   "hash": "56651b0420b9",
@@ -27369,13 +27320,6 @@
   "worst": "你不是站在平台上远眺风景，而是走在风景之上、脊线之巅。",
   "at": "2026-08-15T04:08:50.019Z"
  },
- "zh/paju-heyri-art-village": {
-  "hash": "cb246d50b69b",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "헤이리由此诞生。",
-  "at": "2026-08-15T10:52:17.059Z"
- },
  "zh/paju-the-third-tunnel": {
   "hash": "26ce9793c5ce",
   "score": 1,
@@ -27823,13 +27767,6 @@
   "registerBreak": false,
   "worst": "经实测数据显示，这里最清静的时段是早上7点到9点，工作日和周末皆是如此",
   "at": "2026-08-15T04:11:24.996Z"
- },
- "zh/rome-luna": {
-  "hash": "1ba3f8aa6bd3",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "由于巴贝里尼广场本身是个大型交通环岛，与历史中心深处那些步行专用区不同，这里打车或叫网约车上下客都很方便。",
-  "at": "2026-08-15T07:03:00.072Z"
  },
  "zh/rome-roman-forum": {
   "hash": "a97fcab712ab",

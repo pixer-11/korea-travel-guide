@@ -32,7 +32,7 @@ const cityLabel = localizePlace(city, lang);
 // setup. A mapped city lands on its curated destination page (search is
 // robots-disallowed and converts worse); unmapped falls back to search.
 const klookHref = city
-  ? tiqetsCityUrl({ city, country, lang, subId: 'plantrip_tours' }) ?? `/go/klook?to=${encodeURIComponent(klookCityDest(city, klookLocale(lang)))}`
+  ? tiqetsCityUrl({ city, country, lang, subId: 'plantrip_tours' }) ?? `/go/klook?to=${encodeURIComponent(klookCityDest(city, klookLocale(lang), country))}`
   : 'https://klook.tpx.lv/2NXPH8MA';
 
 const esimSlug = country ? countriesData.countries.find((c) => c.name === country)?.slug : undefined;

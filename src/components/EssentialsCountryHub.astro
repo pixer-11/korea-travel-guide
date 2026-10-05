@@ -1,4 +1,5 @@
 ---
+import { buildToday } from '../lib/buildDay.mjs';
 import { getCollection, render } from 'astro:content';
 import { siteHref } from '../lib/urls.mjs';
 import BaseLayout from '../layouts/BaseLayout.astro';
@@ -133,8 +134,8 @@ const pct = (v: number) => ((v - tMin) / Math.max(1, tMax - tMin)) * 100;
 
 // Each holiday once — its next date — within the coming year. The old list ran
 // two calendar years together, so Christmas and Boxing Day showed twice.
-const todayIso = new Date().toISOString().slice(0, 10);
-const yearAhead = new Date(Date.now() + 365 * 86400000).toISOString().slice(0, 10);
+const todayIso = buildToday().toISOString().slice(0, 10); // lib/buildDay
+const yearAhead = new Date(buildToday().getTime() + 365 * 86400000).toISOString().slice(0, 10);
 const seenHoliday = new Set<string>();
 const holidays = (facts.holidays ?? [])
   .filter((h: any) => h.date >= todayIso && h.date < yearAhead)
@@ -584,7 +585,10 @@ const cityTone = ['tone-green', 'tone-brown', 'tone-sand'];
 
   {/* The highest-planning-intent pages on the site: someone reading a
       country's visa and money rules is booking. */}
-  <PlanTrip city={countryLabel} country={d.country} />
+  {/* English name: PlanTrip localizes the label itself and needs the English
+      key for its partner links — a localized label sent ko/ja/es/zh readers to
+      a Klook search for "싱가포르" instead of the Singapore page (2026-10-05). */}
+  <PlanTrip city={d.country} country={d.country} />
 
   <Newsletter
     lang={lang}

@@ -29,12 +29,18 @@ jobs:
 
       # Posts to Telegram only when the cohort actually falls — a weekly "all fine"
       # message would train the owner to stop reading the channel.
+      # !cancelled(): the report step exits 1 when its Telegram send fails
+      # (deliberate, c5b91d68f) — AFTER it wrote the page ledger. Without this the
+      # cohort audit and the ledger commit below were skipped and that week's data
+      # left with the runner (2026-10-05 audit). The job still ends red.
       - run: node scripts/audit-impression-cohort.mjs
+        if: ${{ !cancelled() }}
         env: *gsc
 
       # The ledger is the point: a few months of these turn the alarm thresholds
       # from one observation into a measured baseline.
       - name: commit the two gsc ledgers
+        if: ${{ !cancelled() }}
         run: |
           git config user.name  "content-bot"
           git config user.email "bot@users.noreply.github.com"

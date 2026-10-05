@@ -1,4 +1,5 @@
 ---
+import { buildToday } from '../lib/buildDay.mjs';
 import { getCollection, render } from 'astro:content';
 import { siteHref } from '../lib/urls.mjs';
 import BaseLayout from '../layouts/BaseLayout.astro';
@@ -171,7 +172,7 @@ const monthBlocks = Array.from({ length: 12 }, (_, i) => {
   };
 });
 // The build's month; the script moves to the reader's own month on load.
-const buildMonth = new Date().getUTCMonth() + 1;
+const buildMonth = buildToday().getUTCMonth() + 1;
 
 // ── Luggage: country guides that carry a "Luggage storage" section, linked
 // to it (the country page ids its extra sections by position: ess-more-N) ──

@@ -143,11 +143,11 @@ const pageUrl = siteHref(Astro.url.pathname, Astro.site);
 
 const countryEventCount = posts.filter((p) => p.data.category === 'event').length;
 const eventsHref = countryEventCount >= 2 ? localizePath(`/events/${country.slug}`, lang) : localizePath('/events', lang);
-const now = new Date();
+const now = buildToday(); // one build day (lib/buildDay) — counts, month label, hero
 const evCounts = eventCounts(posts, now);
 const leadCity = (country.regions ?? [])[0] ?? country.name;
 const klookCountry = tiqetsCityUrl({ city: leadCity, country: country.name, lang, subId: 'dest_hub_tours' })
-  ?? `/go/klook?to=${encodeURIComponent(klookCityDest(leadCity, klookLocale(lang)))}`;
+  ?? `/go/klook?to=${encodeURIComponent(klookCityDest(leadCity, klookLocale(lang), country.name))}`;
 const hotelCountry = hotelUrl({ submarker: 'dest_hub', locale: klookLocale(lang), place: country.name });
 
 // ── Summary cells: each one only when its value and its target both exist ──

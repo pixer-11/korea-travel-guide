@@ -18,7 +18,7 @@ const t = useTranslations(lang);
 // CITY goes to its curated destination page (search is robots-disallowed).
 const klookTo = place
   ? `https://www.klook.com/${klookLocale(lang)}/search/?query=${encodeURIComponent(place)}`
-  : klookCityDest(city, klookLocale(lang));
+  : klookCityDest(city, klookLocale(lang), country);
 // Tiqets cities: the city page (Tiqets has no verified per-place search link).
 const klook = tiqetsCityUrl({ city, country, lang, subId: 'sticky_bar' }) ?? `/go/klook?to=${encodeURIComponent(klookTo)}`;
 const hotel = hotelUrl({ submarker: 'sticky_bar', locale: klookLocale(lang), place: city, country });
