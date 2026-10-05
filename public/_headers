@@ -1,3 +1,13 @@
+# Security headers for every response — and ONLY security headers. The note
+# below is why there is no catch-all: Cloudflare merges /* into each specific
+# rule, and a Cache-Control here would land in front of the immutable ones.
+# Nothing in this block touches caching, so that trap cannot come back. No
+# X-Frame-Options / frame-ancestors: /embed/ widgets are meant to be framed by
+# other sites (2026-10-05 audit). HSTS is a Cloudflare dashboard setting.
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+
 # Content-hashed and immutable assets. These were being revalidated on every
 # navigation because nothing set a max-age.
 #
@@ -8,11 +18,9 @@
 # own default, which is already revalidate-always.
 /_astro/*
   Cache-Control: public, max-age=31536000, immutable
-  X-Content-Type-Options: nosniff
 
 /wall/*
   Cache-Control: public, max-age=31536000, immutable
-  X-Content-Type-Options: nosniff
 
 /fonts/*
   Cache-Control: public, max-age=31536000, immutable
@@ -36,4 +44,3 @@
 /api/*
   Access-Control-Allow-Origin: *
   Cache-Control: public, max-age=86400
-  X-Content-Type-Options: nosniff

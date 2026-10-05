@@ -95,15 +95,28 @@ label{display:block;font-weight:600;margin:.9rem 0 .3rem}select,input{width:100%
 button{margin-top:1.2rem;width:100%;padding:.7rem;border:0;border-radius:9px;background:#c8443a;color:#fff;font-weight:700;font-size:1rem;cursor:pointer}
 button.ghost{background:transparent;color:#8a2f28;border:1px solid #d8d2c4;margin-top:.6rem}
 .ok{background:#eaf5ea;border:1px solid #bcd9bc;border-radius:8px;padding:.6rem .8rem}</style></head><body>
-<div class="card"><h1>Newsletter preferences</h1><p class="dim">${email}</p>${note}
+<div class="card"><h1>Newsletter preferences</h1><p class="dim">${esc(email)}</p>${note}
 <form method="POST" action="/preferences">
-<input type="hidden" name="e" value="${email}"><input type="hidden" name="s" value="${sig}">
-<label>Region focus / 관심 지역</label><input name="region" value="${region || ''}" placeholder="e.g. seoul (blank = global picks)">
+<input type="hidden" name="e" value="${esc(email)}"><input type="hidden" name="s" value="${esc(sig)}">
+<label>Region focus / 관심 지역</label><input name="region" value="${esc(region || '')}" placeholder="e.g. seoul (blank = global picks)">
 <label>Language / 언어</label><select name="lang">${langOpts}</select>
 <button name="action" value="save">Save preferences</button>
 <button class="ghost" name="action" value="unsubscribe">Unsubscribe / 구독 해지</button>
 </form></div></body></html>`;
 }
+
+// The page echoes the address, the signature and a stored region back into
+// HTML; region is set by a public form, so all three are escaped (10-05 audit:
+// `"><script>` as a region rendered as markup). It also carries a one-click
+// unsubscribe, so it is never framed and never leaks its signed URL onward.
+const esc = (v) => String(v ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const PREFS_HEADERS = {
+  'Content-Type': 'text/html; charset=utf-8',
+  'X-Frame-Options': 'DENY',
+  'Content-Security-Policy': "frame-ancestors 'none'",
+  'Referrer-Policy': 'no-referrer',
+  'X-Content-Type-Options': 'nosniff',
+};
 
 async function handlePreferences(request, env) {
   if (!env.MAILERLITE_API_TOKEN || !env.NEWSLETTER_LINK_SECRET) {
@@ -117,7 +130,9 @@ async function handlePreferences(request, env) {
     sig = String(form.get('s') || '');
     action = String(form.get('action') || 'save');
     region = String(form.get('region') || '').trim().toLowerCase() || null;
+    if (region && !FIELD_OK.region(region)) region = null;
     lang = String(form.get('lang') || 'en');
+    if (!FIELD_OK.lang(lang)) lang = 'en';
   } else {
     email = url.searchParams.get('e') || '';
     sig = url.searchParams.get('s') || '';
@@ -129,13 +144,13 @@ async function handlePreferences(request, env) {
     if (action === 'unsubscribe') {
       // MailerLite: set status unsubscribed via upsert.
       await ml(env, '/subscribers', { method: 'POST', body: JSON.stringify({ email, status: 'unsubscribed' }) });
-      return new Response(prefsHtml({ email, region, lang, sig, unsubbed: true }), { headers: { 'Content-Type': 'text/html; charset=utf-8' } });
+      return new Response(prefsHtml({ email, region, lang, sig, unsubbed: true }), { headers: PREFS_HEADERS });
     }
     await ml(env, '/subscribers', {
       method: 'POST',
       body: JSON.stringify({ email, fields: { region, lang } }),
     });
-    return new Response(prefsHtml({ email, region, lang, sig, saved: true }), { headers: { 'Content-Type': 'text/html; charset=utf-8' } });
+    return new Response(prefsHtml({ email, region, lang, sig, saved: true }), { headers: PREFS_HEADERS });
   }
 
   // GET — load current fields to prefill.
@@ -144,7 +159,7 @@ async function handlePreferences(request, env) {
     const { data } = await ml(env, `/subscribers/${encodeURIComponent(email)}`);
     cur = data?.fields || {};
   } catch { /* new/unknown subscriber — empty form */ }
-  return new Response(prefsHtml({ email, region: cur.region, lang: cur.lang, sig }), { headers: { 'Content-Type': 'text/html; charset=utf-8' } });
+  return new Response(prefsHtml({ email, region: cur.region, lang: cur.lang, sig }), { headers: PREFS_HEADERS });
 }
 
 // ── Telegram webhook (owner-only remote control) ─────────────
@@ -224,28 +239,49 @@ async function handleTelegram(request, env) {
 const ML_FORM = 'https://assets.mailerlite.com/jsonp/2523042/forms/193609989933237794/subscribe';
 const SIGNUP_GROUP = 'Newsletter Subscribers';
 let signupGroupId = null; // cached per isolate
+// What a public, unauthenticated POST may set (2026-10-05 audit): the form
+// sends region slugs, a site language and a short source tag — nothing else
+// reaches MailerLite, and nothing longer than a field needs.
+const FIELD_OK = {
+  region: (v) => v === '__global__' || /^[a-z0-9-]{1,40}(,[a-z0-9-]{1,40}){0,5}$/.test(v),
+  lang: (v) => Object.prototype.hasOwnProperty.call(LANGS, v),
+  signup_source: (v) => /^[a-z0-9_-]{1,40}$/.test(v),
+  itinerary_url: (v) => /^https:\/\/wanderatlasguides\.com\/(?:(?:ko|ja|es|zh)\/)?itinerary\/[a-z0-9-]+\/?$/.test(v),
+};
+const SITE_ORIGINS = new Set(['https://wanderatlasguides.com', 'https://www.wanderatlasguides.com']);
+
 async function handleSubscribe(request, env) {
+  // A browser always sends Origin on a cross-site POST; a form on another site
+  // signing strangers up is refused. (A script can omit it — the rate limit
+  // below is for that.)
+  const origin = request.headers.get('Origin');
+  if (origin && !SITE_ORIGINS.has(origin)) return Response.json({ success: false, error: 'forbidden' }, { status: 403 });
+  // Five signups a minute per address is far above any reader and far below a
+  // bombing script. The binding is optional: without it this is a no-op.
+  if (env.SUBSCRIBE_RL) {
+    const { success } = await env.SUBSCRIBE_RL.limit({ key: request.headers.get('cf-connecting-ip') || 'unknown' });
+    if (!success) return Response.json({ success: false, error: 'rate-limited' }, { status: 429 });
+  }
   const form = await request.formData().catch(() => null);
-  const email = String(form?.get('fields[email]') || '');
-  if (!/.+@.+\..+/.test(email)) return Response.json({ success: false, error: 'invalid-email' }, { status: 400 });
+  const email = String(form?.get('fields[email]') || '').trim();
+  if (email.length > 254 || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) return Response.json({ success: false, error: 'invalid-email' }, { status: 400 });
 
   if (env.MAILERLITE_API_TOKEN) {
     const fields = {};
     // itinerary_url: set by the itinerary-page lead magnet; the welcome
     // automation uses it to link the subscriber back to the exact plan.
+    // Every field is checked against FIELD_OK; a field that fails is dropped
+    // and the signup still goes through.
     for (const k of ['region', 'lang', 'signup_source', 'itinerary_url']) {
-      const v = String(form.get(`fields[${k}]`) || '');
-      if (v) fields[k] = v;
+      const v = String(form.get(`fields[${k}]`) || '').trim();
+      if (v && FIELD_OK[k](v)) fields[k] = v;
     }
     // itinerary_url lands as a LINK in the welcome email. The form only ever
     // sends our own itinerary paths, but the endpoint is public — a crafted
     // POST could plant an arbitrary external URL and turn our welcome mail
     // into a phishing carrier. Accept only our own /itinerary/ pages; anything
-    // else is dropped (signup still proceeds, just without the deep link).
-    if (fields.itinerary_url &&
-        !/^https:\/\/wanderatlasguides\.com\/(?:(?:ko|ja|es|zh)\/)?itinerary\/[a-z0-9-]+\/?$/.test(fields.itinerary_url)) {
-      delete fields.itinerary_url;
-    }
+    // else is dropped (signup still proceeds, just without the deep link) —
+    // FIELD_OK.itinerary_url above.
     if (!signupGroupId) {
       try {
         const g = await ml(env, `/groups?filter[name]=${encodeURIComponent(SIGNUP_GROUP)}&limit=100`);
@@ -285,11 +321,14 @@ async function handleSubscribe(request, env) {
       console.warn('subscribe: refused to reactivate an unsubscribed address');
       return Response.json({ success: false, error: 'unsubscribed' }, { status: 409 });
     }
+    // An ACTIVE subscriber's preferences are theirs: a public POST naming their
+    // address must not rewrite them (anyone could). Only the group is sent;
+    // changes go through the signed /preferences link.
     const upsert = (f) => ml(env, '/subscribers', {
       method: 'POST',
       body: JSON.stringify({
         email,
-        fields: f,
+        ...(keepStatus ? {} : { fields: f }),
         ...(signupGroupId ? { groups: [signupGroupId] } : {}),
         ...(keepStatus ? {} : { status: 'unconfirmed' }),
       }),
@@ -308,7 +347,10 @@ async function handleSubscribe(request, env) {
           return Response.json({ success: true });
         } catch { /* fall through to the real error */ }
       }
-      return Response.json({ success: false, error: String(e.message).slice(0, 120) }, { status: 502 });
+      // The upstream message (MailerLite's own error body) goes to the log,
+      // not to an anonymous caller.
+      console.warn(`subscribe: upsert failed — ${String(e.message).slice(0, 200)}`);
+      return Response.json({ success: false, error: 'upstream' }, { status: 502 });
     }
   }
 
@@ -477,10 +519,19 @@ export default {
       if (pathname === '/tg' && request.method === 'POST') return await handleTelegram(request, env);
       if (pathname === '/api/subscribe' && request.method === 'POST') return await handleSubscribe(request, env);
     } catch (e) {
-      return new Response(`error: ${e.message}`, { status: 500 });
+      // Logged, not echoed: e.message can carry an upstream API's response body.
+      console.error(`worker: ${pathname} failed — ${String(e?.message || e).slice(0, 300)}`);
+      return new Response('Something went wrong. Please try again later.', { status: 500 });
     }
     // Anything else (incl. the site's own 404 page) — serve static assets.
-    const res = await env.ASSETS.fetch(request);
+    let res = await env.ASSETS.fetch(request);
+    // A MISSING hashed asset still got /_astro/*'s "max-age=31536000,
+    // immutable" from _headers, so a stylesheet requested by a page from the
+    // previous deploy was cached as a 404 for a year (2026-10-05 audit).
+    if (res.status === 404 && pathname.startsWith('/_astro/')) {
+      res = new Response(res.body, res);
+      res.headers.set('Cache-Control', 'no-store');
+    }
     // Slash-less URLs of REDIRECTED posts 404ed: the assets layer auto-corrects
     // trailing slashes only for pages that exist, and _redirects entries match
     // exact paths — so /posts/<retired-slug> (no slash) fell straight to 404

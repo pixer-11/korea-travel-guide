@@ -383,6 +383,23 @@ jobs:
             --data-urlencode chat_id="$TELEGRAM_CHAT_ID" \
             --data-urlencode "text@/tmp/split-msg.txt" >/dev/null || true
 
+      # Cloudflare refuses a version over its static-file cap (code 10304) — the
+      # Free plan's 20,000 did it on 10-01 and the site is on Workers Paid
+      # (100,000) since. Nothing counted before the upload, so the only warning
+      # would be a rejected deploy. Count the way wrangler does (every file in
+      # dist), warn at 80%, stop at the cap with a reason a person can act on.
+      # ~20.8k on 2026-10-05, growing ~300-400 a day.
+      - name: Check the static file count against the Workers cap
+        run: |
+          N=$(find dist -type f | wc -l)
+          echo "static files in dist: $N / 100000"
+          echo "static files in dist: $N / 100000" >> "$GITHUB_STEP_SUMMARY"
+          if [ "$N" -gt 100000 ]; then
+            echo "::error::Workers asset limit: $N/100000 — check the plan, or reduce wall/embed files"; exit 1
+          elif [ "$N" -gt 80000 ]; then
+            echo "::warning::Workers asset count $N is over 80% of the 100,000 cap"
+          fi
+
       # Ships the dist that was just verified above. Same wrangler command
       # Cloudflare's own builder ran ("npx wrangler deploy"), same wrangler.jsonc,
       # so the result is byte-identical to what it used to publish.
