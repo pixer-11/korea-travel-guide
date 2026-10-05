@@ -33,6 +33,23 @@ test('a held post goes to its hub, in every language, slash or not', async () =>
   }
 });
 
+test('HEAD gets the same redirect, and the query string travels (Codex, 10-05)', async () => {
+  const head = await worker.fetch(new Request('https://wanderatlasguides.com/posts/seoul-held-cafe/', { method: 'HEAD' }), env);
+  assert.equal(head.status, 302);
+  const q = await get('/ko/posts/seoul-held-cafe/?utm_source=ig&x=1');
+  assert.equal(q.headers.get('location'), 'https://wanderatlasguides.com/ko/regions/seoul/?utm_source=ig&x=1');
+});
+
+test('the table is read per rescue, so a new deploy is seen without a fresh isolate', async () => {
+  let table = { 'a-held': 'seoul' };
+  const e2 = { ASSETS: { fetch: async (req) => (new URL(req.url).pathname === '/quarantine-redirects.json' ? new Response(JSON.stringify(table)) : new Response('', { status: 404 })) } };
+  const go = (p) => worker.fetch(new Request(`https://wanderatlasguides.com${p}`), e2);
+  assert.equal((await go('/posts/a-held/')).status, 302);
+  table = { 'b-held': 'busan' };
+  assert.equal(new URL((await go('/posts/b-held/')).headers.get('location')).pathname, '/regions/busan/');
+  assert.equal((await go('/posts/a-held/')).status, 404, 'released post is no longer redirected');
+});
+
 test('live pages, unknown posts and other paths are untouched', async () => {
   assert.equal((await get('/posts/live-post/')).status, 200);
   assert.equal((await get('/posts/never-existed/')).status, 404);

@@ -417,17 +417,24 @@ async function handleKlookGo(request) {
 }
 
 // ── quarantine table ─────────────────────────────────────────
-// dist/quarantine-redirects.json, { slug: regionSlug | '' }, read once per
-// isolate. A missing or broken table means "no rescue", never an error page.
-let quarantineTable = null;
+// dist/quarantine-redirects.json, { slug: regionSlug | '' }. Read on each
+// rescue, not cached in the isolate: Cloudflare may keep an isolate across an
+// assets-only deploy, and a cached table would then miss newly held posts
+// (Codex, 10-05). It is one static-asset read, and only on would-be 404s of a
+// post URL. A missing or broken table means "no rescue", never an error page.
+//
+// This path relies on requests with no matching asset reaching the worker,
+// which holds for compatibility_date 2025-01-01 (wrangler.jsonc). Moving it
+// past 2025-04-01 changes navigation routing: re-check this rescue then.
 async function quarantineTarget(env, request, slug) {
-  if (!quarantineTable) {
-    quarantineTable = env.ASSETS.fetch(new Request(new URL('/quarantine-redirects.json', request.url)))
-      .then((r) => (r.ok ? r.json() : {}))
-      .catch(() => ({}));
+  try {
+    const r = await env.ASSETS.fetch(new Request(new URL('/quarantine-redirects.json', request.url)));
+    if (!r.ok) return null;
+    const table = await r.json();
+    return Object.prototype.hasOwnProperty.call(table, slug) ? String(table[slug] ?? '') : null;
+  } catch {
+    return null;
   }
-  const table = await quarantineTable;
-  return Object.prototype.hasOwnProperty.call(table, slug) ? String(table[slug] ?? '') : null;
 }
 
 // ── router ───────────────────────────────────────────────────
@@ -474,20 +481,24 @@ export default {
     // the browser to the slashed path once; its next request hits _redirects.
     // The slashed variant of a truly-missing page still 404s normally, so no
     // loop is possible.
-    if (res.status === 404 && request.method === 'GET') {
+    if (res.status === 404 && (request.method === 'GET' || request.method === 'HEAD')) {
       const url = new URL(request.url);
       // A quarantined post: back to its region hub with a 302 (the build's
       // quarantineRedirectMap; it was five _redirects lines a post until those
-      // passed Cloudflare's 2,000-rule cap, 2026-10-05). Slashless or not.
+      // passed Cloudflare's 2,000-rule cap, 2026-10-05). Slashless or not, GET
+      // or HEAD (link checkers ask with HEAD), query string kept — the static
+      // rule did both (Codex, 10-05).
       const held = /^(\/(?:ko|ja|es|zh))?\/posts\/([^/]+)\/?$/.exec(url.pathname);
       if (held) {
         const to = await quarantineTarget(env, request, held[2]);
         if (to !== null) {
           const p = held[1] || '';
-          return Response.redirect(new URL(to ? `${p}/regions/${to}/` : `${p}/`, url).toString(), 302);
+          const dest = new URL(to ? `${p}/regions/${to}/` : `${p}/`, url);
+          dest.search = url.search;
+          return Response.redirect(dest.toString(), 302);
         }
       }
-      if (!url.pathname.endsWith('/') && !/\.[a-z0-9]+$/i.test(url.pathname)) {
+      if (request.method === 'GET' && !url.pathname.endsWith('/') && !/\.[a-z0-9]+$/i.test(url.pathname)) {
         url.pathname += '/';
         return Response.redirect(url.toString(), 301);
       }
