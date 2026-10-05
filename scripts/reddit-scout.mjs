@@ -42,7 +42,10 @@ const MAX_CARDS = 3;
 // our event guides are written for. Neither was on the list.
 const SUBS = [
   'JapanTravel', 'JapanTravelTips', 'koreatravel',
-  'ThailandTourism', 'VietnamTravel', 'kpophelp', 'travel', 'solotravel', 'Shoestring',
+  'ThailandTourism', 'VietnamTravel', 'kpophelp', 'travel', 'solotravel',
+  // Shoestring removed 2026-10-05: the account was permanently banned there on
+  // 10-01 (mod message, no rule named). A card for a sub we cannot post in is
+  // wasted, and posting there from any other account is ban evasion.
 ];
 const TOPIC = /crowd|busy|queue|line|when to (go|visit)|best time|itinerary|worth it|how (long|many days)|first time|avoid|concert|venue|stadium|arena|getting (to|there)|stay near|grab/i;
 
