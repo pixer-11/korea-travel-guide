@@ -17,6 +17,8 @@
 // write logs and moves on, it never skips or reshapes the report below.
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { getAccessToken, query, telegram, day, serviceAccount } from './lib/gsc.mjs';
+import { bingWeekLine } from './lib/bing.mjs';
+import { makeNavigationalTest, guidePlaces } from './lib/navigational.mjs';
 
 const LEDGER_PATH = 'data/gsc-page-performance.json';
 
@@ -70,13 +72,15 @@ async function refreshPagePerformanceLedger(token, siteUrl) {
   }
 }
 
+
 async function main() {
   const sa = serviceAccount();
   if (!sa) return;
   const GSC_SITE_URL = process.env.GSC_SITE_URL;
 
   // GSC data lags ~2 days; ask for the 7 days ending 2 days ago.
-  const endDate = day(-2), startDate = day(-9);
+  // Seven days inclusive: day(-9)..day(-2) was eight (Codex, 2026-10-05).
+  const endDate = day(-2), startDate = day(-8);
 
   let token, totals, queries, pages;
   try {
@@ -120,8 +124,11 @@ async function main() {
   const shortPage = (u) => decodeURIComponent(String(u).replace(/^https?:\/\/[^/]+/, '')).slice(0, 48) || '/';
 
   const lines = [
-    `🔎 Wander Atlas — 구글 검색 리포트 (${startDate} ~ ${endDate})`,
-    `👆 클릭 ${t.clicks} · 👀 노출 ${t.impressions} · CTR ${(t.ctr * 100).toFixed(1)}% · 평균순위 ${t.position.toFixed(1)}위`,
+    `🔎 Wander Atlas — 검색 리포트 (${startDate} ~ ${endDate})`,
+    `🇬 구글: 👆 클릭 ${t.clicks} · 👀 노출 ${t.impressions} · CTR ${(t.ctr * 100).toFixed(1)}% · 평균순위 ${t.position.toFixed(1)}위`,
+    // Bing, same window: Google read 0 clicks while Bing gave 228 the same
+    // week (2026-10-04) and the report only ever showed Google.
+    await bingWeekLine(process.env.BING_API_KEY),
   ];
 
   if (topQ.length) {
@@ -137,10 +144,25 @@ async function main() {
     lines.push('', '🎯 2페이지권 검색어: 없음 (11~20위에 노출 5회 이상인 검색어가 없다)');
   }
 
-  if (seenUnclicked.length) {
+  // A query that is just a business's name (plus "reviews", "location"...) is
+  // someone looking for its map pin or own page: no click on a guide is normal
+  // and no title fixes it (lib/navigational.mjs). Listed apart, so the advice
+  // under the first list only covers queries a title could answer.
+  let isNav = () => false;
+  try {
+    const common = JSON.parse(readFileSync('data/common-words.json', 'utf8')).words;
+    isNav = makeNavigationalTest(guidePlaces('src/content/posts'), common);
+  } catch (e) { console.error(`navigational test unavailable: ${e.message}`); }
+  const answerable = seenUnclicked.filter((r) => !isNav(r.keys[0]));
+  const byName = seenUnclicked.filter((r) => isNav(r.keys[0]));
+  if (answerable.length) {
     lines.push('', '👀 1페이지에 보이는데 아무도 안 누른 검색어:');
-    for (const r of seenUnclicked) lines.push(`  • ${r.keys[0]} — ${r.position.toFixed(1)}위, 노출 ${r.impressions}, 클릭 0`);
+    for (const r of answerable) lines.push(`  • ${r.keys[0]} — ${r.position.toFixed(1)}위, 노출 ${r.impressions}, 클릭 0`);
     lines.push('  → 검색 결과에 뜨는 제목·설명이 이 검색어에 답하지 않는 경우가 많다');
+  }
+  if (byName.length) {
+    lines.push('', '🏷️ 1페이지·클릭 0이지만 가게 이름 검색 (지도·공식 페이지를 찾는 검색이라 정상, 제목으로 못 고친다):');
+    for (const r of byName) lines.push(`  • ${r.keys[0]} — ${r.position.toFixed(1)}위, 노출 ${r.impressions}`);
   }
 
   const topPages = (pages.rows ?? []).slice().sort((a, b) => b.clicks - a.clicks || b.impressions - a.impressions);
@@ -149,9 +171,14 @@ async function main() {
     for (const r of topPages.slice(0, 5)) lines.push(`  • ${shortPage(r.keys[0])} — 클릭 ${r.clicks}, 노출 ${r.impressions}`);
   }
 
-  const text = lines.join('\n');
+  // Telegram refuses a message over 4,096 characters and the whole report is
+  // lost (Codex, 2026-10-05): long query lines are clipped and the list is
+  // cut at a line boundary, saying so.
+  let text = lines.map((l) => (l.length > 300 ? `${l.slice(0, 297)}…` : l)).join('\n');
+  if (text.length > 3900) text = `${text.slice(0, text.lastIndexOf('\n', 3850))}\n…(길어서 줄임)`;
   console.log(text);
   await telegram(text);
 }
 
-main().catch((e) => console.error(e));
+// A report that failed to send must fail the run, not end green.
+main().catch((e) => { console.error(e); process.exitCode = 1; });

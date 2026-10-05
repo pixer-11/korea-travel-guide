@@ -25,6 +25,7 @@ jobs:
           GSC_SITE_URL: ${{ secrets.GSC_SITE_URL }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          BING_API_KEY: ${{ secrets.BING_API_KEY }}
 
       # Posts to Telegram only when the cohort actually falls — a weekly "all fine"
       # message would train the owner to stop reading the channel.
