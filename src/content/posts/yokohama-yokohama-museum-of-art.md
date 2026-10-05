@@ -1,18 +1,18 @@
 ---
-title: 'Yokohama Museum of Art: Travel Guide (4.2★)'
+title: "Yokohama Museum of Art: Travel Guide (4.2★)"
 description: Yokohama Museum of Art sits in Minatomirai, a short walk from Minatomirai Station or Sakuragicho Station, and pairs a striking Kenzo Tange building with a collection running from Matisse and Picasso to contemporary Japanese art. 4.2★ (2,825 reviews) — what visitors say, hours, and tips.
 country: Japan
 region: Yokohama
 category: attraction
-pubDate: '2026-08-05T11:19:51.627Z'
+pubDate: "2026-08-05T11:19:51.627Z"
 heroImage:
   url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Yokohama_museum_of_art.JPG/1920px-Yokohama_museum_of_art.JPG
-  credit: 'Photo: TYORON2 / Wikimedia Commons (CC BY-SA 3.0)'
+  credit: "Photo: TYORON2 / Wikimedia Commons (CC BY-SA 3.0)"
   license: wikimedia
   source: https://commons.wikimedia.org/wiki/File:Yokohama_museum_of_art.JPG
 gallery:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Yokohama_Museum_of_Art_2009.jpg/1920px-Yokohama_Museum_of_Art_2009.jpg
-    credit: 'Photo: Wiiii / Wikimedia Commons (CC BY-SA 3.0)'
+    credit: "Photo: Wiiii / Wikimedia Commons (CC BY-SA 3.0)"
     license: wikimedia
     source: https://commons.wikimedia.org/wiki/File:Yokohama_Museum_of_Art_2009.jpg
 place:
@@ -27,15 +27,11 @@ place:
   lng: 139.63064749999998
   busyness:
     updated: 2026-08-05T00:00:00.000Z
-    weekdayQuiet:
-      - 18
     weekdayBusy:
       - 12
       - 13
       - 14
       - 15
-    weekendQuiet:
-      - 18
     weekendBusy:
       - 11
       - 12
@@ -44,17 +40,26 @@ place:
       - 15
       - 16
     venueId: ven_634f5476537143347871425241474763315654525555574a496843
+  phone: +81 45-221-0300
+  openingHours:
+    - "Monday: 10:00 AM – 6:00 PM"
+    - "Tuesday: 10:00 AM – 6:00 PM"
+    - "Wednesday: 10:00 AM – 6:00 PM"
+    - "Thursday: Closed"
+    - "Friday: 10:00 AM – 6:00 PM"
+    - "Saturday: 10:00 AM – 6:00 PM"
+    - "Sunday: 10:00 AM – 6:00 PM"
 tags:
   - yokohama
   - museum
-quickAnswer: Yokohama Museum of Art sits in Minatomirai, a short walk from Minatomirai Station or Sakuragicho Station, and pairs a striking Kenzo Tange building with a collection running from Matisse and Picasso to contemporary Japanese art. Weekends between 11am and 5pm are the busiest stretch, so if you can, aim for the last hour or two before closing (quietest window is 6pm–7pm) for a calmer visit. Budget 1.5–2 hours, and check the museum's current hours and any special-exhibition ticket prices before you go, since these change with each show.
+quickAnswer: Yokohama Museum of Art sits in Minatomirai, a short walk from Minatomirai Station or Sakuragicho Station, and pairs a striking Kenzo Tange building with a collection running from Matisse and Picasso to contemporary Japanese art. Weekends between 11am and 5pm are the busiest stretch, so if you can, aim for the last hour before closing (quietest window is 5pm–6pm) for a calmer visit. Budget 1.5–2 hours, and check the museum's current hours and any special-exhibition ticket prices before you go, since these change with each show.
 faq:
   - q: How do I get to Yokohama Museum of Art?
     a: Take the Minatomirai Line to Minatomirai Station and walk about 3–5 minutes via the Queen's Square exit, or walk about 10 minutes from JR Sakuragicho Station across the Landmark Plaza decks.
   - q: How long should I plan to spend there?
     a: Around 1.5 to 2 hours covers the permanent collection and a special exhibition at a comfortable pace; add more if the current special show is large.
   - q: When is it quietest?
-    a: Both weekdays and weekends see the calmest galleries between 6pm and 7pm. Avoid arriving on weekends between 11am and 5pm, when it's busiest.
+    a: Both weekdays and weekends see the calmest galleries between 5pm and 6pm, right before closing. Avoid arriving on weekends between 11am and 5pm, when it's busiest.
   - q: What's the museum known for?
     a: A wide-ranging collection spanning Matisse, Picasso, Dalí and Kandinsky through to contemporary Japanese painting and photography, housed in a landmark Kenzo Tange building.
   - q: What else is nearby?
@@ -83,7 +88,7 @@ Look for how the museum uses that history: pieces referencing the port's 19th-ce
 
 ## When to go
 
-The crowd pattern here is genuinely useful to know before you plan your day. Weekends get busy between 11am and 5pm, which is exactly when most visitors (families, tourists combining it with a Minatomirai stroll, school groups) pack the galleries. Both weekdays and weekends quiet down noticeably between 6pm and 7pm, so if the museum's hours that day extend into early evening, that's your window for near-empty galleries and easier viewing distance from the paintings.
+The crowd pattern here is genuinely useful to know before you plan your day. Weekends get busy between 11am and 5pm, which is exactly when most visitors (families, tourists combining it with a Minatomirai stroll, school groups) pack the galleries. Both weekdays and weekends quiet down noticeably between 5pm and 6pm, so that's your window for near-empty galleries and easier viewing distance from the paintings before closing.
 
 Because operating hours can shift with exhibitions and season, confirm the current closing time before you go, arriving too close to closing without checking could cut your visit short.
 

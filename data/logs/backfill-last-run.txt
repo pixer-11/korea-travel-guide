@@ -1,33 +1,21 @@
 Places 예산: backfill 몫 25회 (오늘 사용 16/100)
 Priority: 218 itinerary stop(s) queued first
-  – berlin-mustafa-s-gemuse-kebap.md: nothing new (resting 60d)
-  – guadalajara-plaza-de-la-liberacion.md: nothing new (resting 60d)
+  – istanbul-sultanahmet-square.md: nothing new (resting 60d)
+  – brighton-roti-king-brighton.md: nothing new (resting 60d)
+  – jakarta-jakarta-old-town.md: nothing new (resting 60d)
+  – mexico-city-coyoacan-market.md: nothing new (resting 60d)
+  – monterrey-paseo-santa-lucia.md: nothing new (resting 60d)
+  – tulum-gran-cenote.md: nothing new (resting 60d)
+  – cologne-severinstorburg.md: nothing new (resting 60d)
   – guanajuato-monumento-al-pipila.md: nothing new (resting 60d)
-  🚫 little-india-former-house-of-tan-teng-niah.md: CLOSED_TEMPORARILY — quarantined (draft), not backfilled
-  – merida-monumento-a-la-patria.md: nothing new (resting 60d)
-  – playa-del-carmen-portal-maya.md: nothing new (resting 60d)
-  – puerto-vallarta-gringo-gulch.md: nothing new (resting 60d)
-  ✓ venice-doge-s-palace.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 19h (venue not open then); weekendQuiet: dropped 19,20,21,22h (venue not open then)
-  – venice-grand-canal.md: nothing new (resting 60d)
-  – venice-piazza-san-marco.md: nothing new (resting 60d)
-  ✓ venice-saint-mark-s-basilica.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 9,17h (venue not open then); weekendQuiet: dropped 9,17h (venue not open then)
-  – verona-arena-di-verona.md: nothing new (resting 60d)
-  – vigan-plaza-padre-jose-burgos.md: nothing new (resting 60d)
-  – wan-chai-golden-bauhinia-square.md: nothing new (resting 60d)
-  – wan-chai-wan-chai-temporary-promenade.md: nothing new (resting 60d)
-  ✓ washington-dc-national-mall.md +phone +7h hours
-  – xi-an-bell-tower-of-xi-an.md: nothing new (resting 60d)
-  ✓ xi-an-xi-an-museum.md +phone +7h hours
-  – xi-an-xingqinggong-park.md: nothing new (resting 60d)
-  – xian-ancient-city-wall.md: nothing new (resting 60d)
-  ✓ xian-emperor-qinshihuang-s-mausoleum-site-museum.md +phone +7h hours
-  – yilan-diu-diu-dang-forest-park.md: nothing new (resting 60d)
-  ✓ yogyakarta-taman-sari-tourist-village.md +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 15h (venue not open then); weekendQuiet: dropped 15h (venue not open then) — nothing left
-  – yokohama-yokohama-chinatown.md: nothing new (resting 60d)
-  ✓ yokohama-yokohama-mazu-miao.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 19h (venue not open then); weekendQuiet: dropped 19h (venue not open then)
+  – leipzig-clara-zetkin-park.md: nothing new (resting 60d)
+  – little-india-former-house-of-tan-teng-niah.md: nothing new (resting 60d)
+  – munich-english-garden.md: nothing new (resting 60d)
+  – yogyakarta-taman-sari-tourist-village.md: nothing new (resting 60d)
+  ✓ yokohama-yokohama-museum-of-art.md +phone +7h hours
+    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 18h (venue not open then) — nothing left; weekendQuiet: dropped 18h (venue not open then) — nothing left
+  – york-york-city-walls.md: nothing new (resting 60d)
+  – zhangjiajie-tianmenshan-temple.md: nothing new (resting 60d)
+  – zhangjiajie-zhangjiajie-national-forest-park.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 7, backlog-updated 7, already-complete 1269, no-new-data 586, no-place 566, closed-quarantined 1, quota-429 0, api-error 0, api-calls 25, remaining-askable 6 (APPLIED).
+BACKFILL RESULT: updated 1, backlog-updated 1, already-complete 1310, no-new-data 598, no-place 661, closed-quarantined 0, quota-429 0, api-error 0, api-calls 16, remaining-askable 0 (APPLIED).
