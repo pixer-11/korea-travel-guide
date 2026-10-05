@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: leipzig-clara-zetkin-park
-srcHash: '72b6bf02268f'
+srcHash: 'c15b11ff08c0'
 title: 克拉拉·蔡特金公园：莱比锡旅行指南（4.7★）
-description: 克拉拉·蔡特金公园（Clara-Zetkin-Park）是莱比锡市中心附近的大型公园，从内城（Innenstadt）往西南步行即到，夹在南郊区（Südvorstadt）和施莱乌西格（Schleußig）两个街区之间，24小时开放，免费入园。评分4.7★（10,027条评价），游客口碑、开放时间和实用贴士都在这里。
+description: 克拉拉·蔡特金公园（Clara-Zetkin-Park）是莱比锡市中心附近的大型公园，从内城（Innenstadt）往西南步行即到，夹在南郊区（Südvorstadt）和施莱乌西格（Schleußig）两个街区之间，24小时开放，免费入园。评分4.7★（10,029条评价），游客口碑、开放时间和实用贴士都在这里。
 quickAnswer: 克拉拉·蔡特金公园（Clara-Zetkin-Park）是莱比锡市中心附近的大型公园，从内城（Innenstadt）往西南步行即到，位于南郊区（Südvorstadt）和施莱乌西格（Schleußig）两个街区之间，24小时开放，免费入园。园内有林间小径，有夏季举办音乐会的历史音乐亭，还有露天咖啡馆和舒伯特纪念碑。周末11am至8pm人最多，想独享草坪的话，最好在11am之前或8pm之后前往。
 faq:
   - q: 什么时候去克拉拉·蔡特金公园最清静？

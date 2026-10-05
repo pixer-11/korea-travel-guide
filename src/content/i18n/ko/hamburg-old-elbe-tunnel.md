@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: hamburg-old-elbe-tunnel
-srcHash: 'ec9be5bbccff'
+srcHash: '6191267c1e02'
 title: '구 엘베 터널: 함부르크 여행 가이드 (4.7★)'
-description: 구 엘베 터널(St. Pauli Elbtunnel)은 함부르크 장크트파울리-란둥스브뤼켄(St. Pauli-Landungsbrücken)에서 엘베강 밑을 지나 남쪽 강변의 슈타인베르더(Steinwerder)까지 이어지며, 24시간 개방되는 곳으로 안내되어 있습니다. 4.7★(리뷰 39,887개)를 받은 이곳의 방문객 후기와 운영 시간, 여행 팁을 정리했습니다.
+description: 구 엘베 터널(St. Pauli Elbtunnel)은 함부르크 장크트파울리-란둥스브뤼켄(St. Pauli-Landungsbrücken)에서 엘베강 밑을 지나 남쪽 강변의 슈타인베르더(Steinwerder)까지 이어지며, 24시간 개방되는 곳으로 안내되어 있습니다. 4.7★(리뷰 39,896개)를 받은 이곳의 방문객 후기와 운영 시간, 여행 팁을 정리했습니다.
 quickAnswer: 구 엘베 터널(St. Pauli Elbtunnel)은 함부르크 장크트파울리-란둥스브뤼켄(St. Pauli-Landungsbrücken)에서 엘베강 밑을 지나 남쪽 강변의 슈타인베르더(Steinwerder)까지 이어지며, 24시간 개방되는 곳으로 안내되어 있습니다. 평일에는 오전 7시부터 오후 11시까지 한산합니다. 주말에는 오전 10시부터 오후 11시까지 사람이 몰리므로 오전 7시에서 8시 사이에 가는 것이 좋습니다. 터널을 걸어서 왕복하고 건너편에서 스카이라인까지 감상하려면 1시간 정도 잡아 두십시오.
 faq:
   - q: 구 엘베 터널은 언제 가야 가장 한산합니까?

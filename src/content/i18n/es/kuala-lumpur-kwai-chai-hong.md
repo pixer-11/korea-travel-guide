@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: kuala-lumpur-kwai-chai-hong
-srcHash: '0520aff5b48c'
+srcHash: 'f89ff71eafb9'
 title: 'Kwai Chai Hong: guía de viaje de Kuala Lumpur (4.3★)'
-description: En pleno barrio chino de Kuala Lumpur, junto a Lorong Panggung y a pocos pasos de la calle Petaling y de la estación de Pasar Seni, se esconde Kwai Chai Hong, un antiguo callejón trasero hoy restaurado. Con 4.3★ (4,277 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos útiles.
+description: En pleno barrio chino de Kuala Lumpur, junto a Lorong Panggung y a pocos pasos de la calle Petaling y de la estación de Pasar Seni, se esconde Kwai Chai Hong, un antiguo callejón trasero hoy restaurado. Con 4.3★ (4,302 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos útiles.
 quickAnswer: En pleno barrio chino de Kuala Lumpur, junto a Lorong Panggung y a pocos pasos de la calle Petaling y de la estación de Pasar Seni, se esconde Kwai Chai Hong, un antiguo callejón trasero hoy restaurado. Abre todos los días de 9 a. m. a medianoche. Entre semana conviene ir de 9 a. m. a 11 a. m.; los fines de semana, de 9 a. m. a 10 a. m. Es mejor evitar las tardes y noches del fin de semana (de 1 p. m. a 11 p. m.), cuando se concentra más gente.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Kwai Chai Hong?

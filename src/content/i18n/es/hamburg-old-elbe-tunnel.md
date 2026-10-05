@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: hamburg-old-elbe-tunnel
-srcHash: 'ec9be5bbccff'
+srcHash: '6191267c1e02'
 title: 'Antiguo Túnel del Elba: guía de viaje de Hamburgo (4.7★)'
-description: Bajo el Elba, el Antiguo Túnel del Elba (St. Pauli Elbtunnel) une St. Pauli-Landungsbrücken, en Hamburgo, con Steinwerder, en la orilla sur, y figura como abierto las 24 horas. Con 4.7★ (39,887 reseñas), aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
+description: Bajo el Elba, el Antiguo Túnel del Elba (St. Pauli Elbtunnel) une St. Pauli-Landungsbrücken, en Hamburgo, con Steinwerder, en la orilla sur, y figura como abierto las 24 horas. Con 4.7★ (39,896 reseñas), aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: Bajo el Elba, el Antiguo Túnel del Elba (St. Pauli Elbtunnel) une St. Pauli-Landungsbrücken, en Hamburgo, con Steinwerder, en la orilla sur, y figura como abierto las 24 horas. Entre semana hay poca gente de 7 a. m. a 11 p. m. El fin de semana conviene ir entre las 7 a. m. y las 8 a. m., ya que la afluencia aumenta de 10 a. m. a 11 p. m. Calcule alrededor de una hora para hacer el trayecto de ida y vuelta y contemplar el perfil de la ciudad desde la otra orilla.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Antiguo Túnel del Elba?

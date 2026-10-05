@@ -1,46 +1,53 @@
 ---
-title: "Auerbachs Keller: Where to Eat in Leipzig (4.4★)"
-description: "Auerbachs Keller is a Saxon cellar restaurant under the Mädler-Passage on Grimmaische Straße in central Leipzig, a few steps from the Markt. 4.4★ (10,150 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Leipzig"
-category: "restaurant"
-pubDate: "2026-10-03T12:52:00.568Z"
+title: 'Auerbachs Keller: Where to Eat in Leipzig (4.4★)'
+description: >-
+  Auerbachs Keller is a Saxon cellar restaurant under the Mädler-Passage on
+  Grimmaische Straße in central Leipzig, a few steps from the Markt. 4.4★
+  (10,164 reviews) — what visitors say, hours, and tips.
+country: Germany
+region: Leipzig
+category: restaurant
+pubDate: '2026-10-03T12:52:00.568Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/e/e4/Szene_aus_Faust_-_Auerbachs_Keller_Leipzig_-_panoramio.jpg"
-  credit: "Photo: Appaloosa_LE / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Szene_aus_Faust_-_Auerbachs_Keller_Leipzig_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/e/e4/Szene_aus_Faust_-_Auerbachs_Keller_Leipzig_-_panoramio.jpg
+  credit: 'Photo: Appaloosa_LE / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Szene_aus_Faust_-_Auerbachs_Keller_Leipzig_-_panoramio.jpg
+  via: act
   focus:
     x: 45
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/459498492_N_VfTqOmhOAGqvLTlGZun5Y4yhK-N7bgzR97pPpKSIA.jpg"
-    credit: "Photo: Foursquare user content (Auerbachs Keller)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4b7bac0cf964a520756a2fe3"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/459498492_N_VfTqOmhOAGqvLTlGZun5Y4yhK-N7bgzR97pPpKSIA.jpg
+    credit: 'Photo: Foursquare user content (Auerbachs Keller)'
+    license: foursquare
+    source: 'https://foursquare.com/v/4b7bac0cf964a520756a2fe3'
 place:
-  id: "ChIJq4gT_yP4pkcRaivi1YYzVns"
-  name: "Auerbachs Keller"
-  address: "Grimmaische Str. 2-4, 04109 Leipzig, Germany"
+  id: ChIJq4gT_yP4pkcRaivi1YYzVns
+  name: Auerbachs Keller
+  address: 'Grimmaische Str. 2-4, 04109 Leipzig, Germany'
   rating: 4.4
-  userRatingsTotal: 10150
+  userRatingsTotal: 10164
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=8887347568869256042&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8887347568869256042&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.3396848
   lng: 12.3754921
-  phone: "+49 341 216100"
+  phone: +49 341 216100
   openingHours:
-    - "Monday: 12:00 – 10:00 PM"
-    - "Tuesday: 5:00 – 10:00 PM"
-    - "Wednesday: 5:00 – 10:00 PM"
-    - "Thursday: 12:00 – 10:00 PM"
-    - "Friday: 12:00 – 11:00 PM"
-    - "Saturday: 12:00 – 11:00 PM"
-    - "Sunday: 12:00 – 10:00 PM"
+    - 'Monday: 12:00 – 10:00 PM'
+    - 'Tuesday: 5:00 – 10:00 PM'
+    - 'Wednesday: 5:00 – 10:00 PM'
+    - 'Thursday: 12:00 – 10:00 PM'
+    - 'Friday: 12:00 – 11:00 PM'
+    - 'Saturday: 12:00 – 11:00 PM'
+    - 'Sunday: 12:00 – 10:00 PM'
   busyness:
-    updated: 2026-10-03
+    updated: 2026-10-03T00:00:00.000Z
     weekdayQuiet:
       - 21
       - 22
@@ -65,24 +72,47 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_736e567a5959316976696152636b703450795f546734714a496843"
+    venueId: ven_736e567a5959316976696152636b703450795f546734714a496843
 tags:
-  - "leipzig"
-  - "local restaurant"
-quickAnswer: "Auerbachs Keller is a Saxon cellar restaurant under the Mädler-Passage on Grimmaische Straße in central Leipzig, a few steps from the Markt. It is best known as the tavern Goethe put into Faust. For the calmest table, come on a weekday between 9pm and 11pm. Avoid weekends between 12pm and 8pm, and remember it only opens at 5pm on Tuesdays and Wednesdays."
+  - leipzig
+  - local restaurant
+quickAnswer: >-
+  Auerbachs Keller is a Saxon cellar restaurant under the Mädler-Passage on
+  Grimmaische Straße in central Leipzig, a few steps from the Markt. It is best
+  known as the tavern Goethe put into Faust. For the calmest table, come on a
+  weekday between 9pm and 11pm. Avoid weekends between 12pm and 8pm, and
+  remember it only opens at 5pm on Tuesdays and Wednesdays.
 faq:
-  - q: "When is the quietest time to visit Auerbachs Keller?"
-    a: "On weekdays it is calmest between 9pm and 11pm. Avoid weekends between 12pm and 8pm, which are the busiest hours. The restaurant closes at 10pm Monday to Thursday, so a late weekday table on those nights gives you about an hour."
-  - q: "Is Auerbachs Keller open for lunch every day?"
-    a: "No. On Tuesdays and Wednesdays it opens at 5pm and closes at 10pm. On Monday, Thursday and Sunday it serves from 12pm to 10pm, and on Friday and Saturday from 12pm to 11pm."
-  - q: "How do I get to Auerbachs Keller?"
-    a: "It is at Grimmaische Str. 2-4, reached through the Mädler-Passage arcade. The closest station is Leipzig Markt on the S-Bahn City-Tunnel, and Leipzig Hauptbahnhof is roughly a 10-minute walk."
-  - q: "Do I need to book a table?"
-    a: "Book for weekend lunches, December evenings during the Christmas market, and for groups. On a weekday evening you may be able to walk in, but a booking is safer because tour groups use the main hall."
-  - q: "What is the Faust connection?"
-    a: "Goethe drank here as a law student in Leipzig in the 1760s and later set a scene of Faust in the cellar. You can see the legend in the paintings of the barrel ride in the historic rooms and in the 1913 bronze statues at the arcade entrance. People rub Faust's foot on the statue for luck."
+  - q: When is the quietest time to visit Auerbachs Keller?
+    a: >-
+      On weekdays it is calmest between 9pm and 11pm. Avoid weekends between
+      12pm and 8pm, which are the busiest hours. The restaurant closes at 10pm
+      Monday to Thursday, so a late weekday table on those nights gives you
+      about an hour.
+  - q: Is Auerbachs Keller open for lunch every day?
+    a: >-
+      No. On Tuesdays and Wednesdays it opens at 5pm and closes at 10pm. On
+      Monday, Thursday and Sunday it serves from 12pm to 10pm, and on Friday and
+      Saturday from 12pm to 11pm.
+  - q: How do I get to Auerbachs Keller?
+    a: >-
+      It is at Grimmaische Str. 2-4, reached through the Mädler-Passage arcade.
+      The closest station is Leipzig Markt on the S-Bahn City-Tunnel, and
+      Leipzig Hauptbahnhof is roughly a 10-minute walk.
+  - q: Do I need to book a table?
+    a: >-
+      Book for weekend lunches, December evenings during the Christmas market,
+      and for groups. On a weekday evening you may be able to walk in, but a
+      booking is safer because tour groups use the main hall.
+  - q: What is the Faust connection?
+    a: >-
+      Goethe drank here as a law student in Leipzig in the 1760s and later set a
+      scene of Faust in the cellar. You can see the legend in the paintings of
+      the barrel ride in the historic rooms and in the 1913 bronze statues at
+      the arcade entrance. People rub Faust's foot on the statue for luck.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-05'
 ---
 
 ## Down the Steps from the Mädler-Passage

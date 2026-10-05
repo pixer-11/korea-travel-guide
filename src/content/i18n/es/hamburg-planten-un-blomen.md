@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: hamburg-planten-un-blomen
-srcHash: '29d987c6240e'
+srcHash: '09c775762421'
 title: 'Planten un Blomen: guía de viaje de Hamburgo (4.8★)'
-description: En pleno centro de Hamburgo, entre la estación de Dammtor y los pabellones feriales de la Messe, se extiende Planten un Blomen, un parque público de acceso gratuito que abre todos los días de 7 de la mañana a 11 de la noche. Con 4.8★ (26,971 reseñas), reunimos aquí opiniones de visitantes, horarios y consejos.
+description: En pleno centro de Hamburgo, entre la estación de Dammtor y los pabellones feriales de la Messe, se extiende Planten un Blomen, un parque público de acceso gratuito que abre todos los días de 7 de la mañana a 11 de la noche. Con 4.8★ (26,977 reseñas), reunimos aquí opiniones de visitantes, horarios y consejos.
 quickAnswer: En pleno centro de Hamburgo, entre la estación de Dammtor y los pabellones feriales de la Messe, se extiende Planten un Blomen, un parque público de acceso gratuito que abre todos los días de 7 de la mañana a 11 de la noche. De día merecen la visita el Jardín Japonés con su casa de té, la rosaleda y los invernaderos tropicales. En verano conviene quedarse hasta que anochece para ver los conciertos de agua y luz sobre el Parksee.
 faq:
   - q: ¿Cuál es el horario de Planten un Blomen?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: kolkata-bow-barracks
-srcHash: '254e4a0d748a'
+srcHash: 'e1ecd3bebe91'
 title: 'Bow Barracks: guía de viaje de Calcuta (4.5★)'
-description: En Bow Street, en pleno centro de Calcuta, se esconde Bow Barracks, un pequeño barrio residencial angloindio a pocos minutos a pie de Bowbazar y de la estación de metro Central. Con 4.5★ (1,556 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
+description: En Bow Street, en pleno centro de Calcuta, se esconde Bow Barracks, un pequeño barrio residencial angloindio a pocos minutos a pie de Bowbazar y de la estación de metro Central. Con 4.5★ (1,557 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: En Bow Street, en pleno centro de Calcuta, se encuentra Bow Barracks, un pequeño barrio residencial angloindio situado a pocos minutos a pie de Bowbazar y de la estación de metro Central. Sus bloques de ladrillo rojo pueden recorrerse a cualquier hora. Todos los días, la calma reina entre las 7am y las 10am. La mayor afluencia llega los fines de semana, de 1pm a 11pm, y el ambiente más animado se vive durante la semana de Navidad.
 faq:
   - q: ¿Cómo se llega a Bow Barracks?

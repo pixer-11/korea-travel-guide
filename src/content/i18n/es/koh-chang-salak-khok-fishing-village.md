@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: koh-chang-salak-khok-fishing-village
-srcHash: 'a6a37351c191'
+srcHash: 'd915f70decca'
 title: 'Aldea pesquera de Salak Khok: guía de viaje de Koh Chang (4.3★)'
-description: En la tranquila costa sureste de Koh Chang, la aldea pesquera de Salak Khok reúne casas sobre pilotes en una bahía bordeada de manglares. Se llega por una pasarela de madera y se recorre en kayak. Tiene una valoración de 4.3★ (431 reseñas); aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
+description: En la tranquila costa sureste de Koh Chang, la aldea pesquera de Salak Khok reúne casas sobre pilotes en una bahía bordeada de manglares. Se llega por una pasarela de madera y se recorre en kayak. Tiene una valoración de 4.3★ (432 reseñas); aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: En la tranquila costa sureste de Koh Chang, la aldea pesquera de Salak Khok reúne casas sobre pilotes en una bahía bordeada de manglares. Se llega por una pasarela de madera y se recorre en kayak. Abre todos los días de 8am a 5pm, y las horas más tranquilas van de 8am a 10am. Los fines de semana conviene evitar la franja de 11am a 4pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Salak Khok?

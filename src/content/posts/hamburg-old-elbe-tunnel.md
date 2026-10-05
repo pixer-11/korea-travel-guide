@@ -1,44 +1,53 @@
 ---
-title: "Old Elbe Tunnel: Hamburg Travel Guide (4.7★)"
-description: "The Old Elbe Tunnel (St. Pauli Elbtunnel) runs under the Elbe from St. Pauli-Landungsbrücken in Hamburg to Steinwerder on the south bank, and it's listed as open 24 hours. 4.7★ (39,887 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Hamburg"
-category: "attraction"
-pubDate: "2026-10-05T07:41:44.870Z"
+title: 'Old Elbe Tunnel: Hamburg Travel Guide (4.7★)'
+description: >-
+  The Old Elbe Tunnel (St. Pauli Elbtunnel) runs under the Elbe from St.
+  Pauli-Landungsbrücken in Hamburg to Steinwerder on the south bank, and it's
+  listed as open 24 hours. 4.7★ (39,896 reviews) — what visitors say, hours, and
+  tips.
+country: Germany
+region: Hamburg
+category: attraction
+pubDate: '2026-10-05T07:41:44.870Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Alter_Elbtunnel_Hamburg_menschenleer.jpg/1920px-Alter_Elbtunnel_Hamburg_menschenleer.jpg"
-  credit: "Photo: Thomas Wolf, www.foto-tw.de / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Alter_Elbtunnel_Hamburg_menschenleer.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Alter_Elbtunnel_Hamburg_menschenleer.jpg/1920px-Alter_Elbtunnel_Hamburg_menschenleer.jpg
+  credit: 'Photo: Thomas Wolf, www.foto-tw.de / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Alter_Elbtunnel_Hamburg_menschenleer.jpg
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/7/71/Eingangsgeb%C3%A4ude_zum_Alten_Elbe_Tunnel.jpg"
-    credit: "Photo: Martina Nolte / Wikimedia Commons (CC BY-SA 3.0 de)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Eingangsgeb%C3%A4ude_zum_Alten_Elbe_Tunnel.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/7/71/Eingangsgeb%C3%A4ude_zum_Alten_Elbe_Tunnel.jpg
+    credit: 'Photo: Martina Nolte / Wikimedia Commons (CC BY-SA 3.0 de)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Eingangsgeb%C3%A4ude_zum_Alten_Elbe_Tunnel.jpg
 place:
-  id: "ChIJt5u_5QyPsUcRycCU6-zwZ9c"
-  name: "Old Elbe Tunnel"
-  address: "Bei den St. Pauli-Landungsbrücken, 20359 Hamburg, Germany"
+  id: ChIJt5u_5QyPsUcRycCU6-zwZ9c
+  name: Old Elbe Tunnel
+  address: 'Bei den St. Pauli-Landungsbrücken, 20359 Hamburg, Germany'
   rating: 4.7
-  userRatingsTotal: 39887
-  googleMapsUrl: "https://maps.google.com/?cid=15521639541111046345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 39896
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15521639541111046345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 53.5458861
   lng: 9.9665878
-  phone: "+49 40 115"
+  phone: +49 40 115
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-10-05
+    updated: 2026-10-05T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -59,24 +68,44 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_63395a777a2d365543637952635573507951355f7535744a496843"
+    venueId: ven_63395a777a2d365543637952635573507951355f7535744a496843
 tags:
-  - "hamburg"
-  - "historic site"
-quickAnswer: "The Old Elbe Tunnel (St. Pauli Elbtunnel) runs under the Elbe from St. Pauli-Landungsbrücken in Hamburg to Steinwerder on the south bank, and it's listed as open 24 hours. Weekdays are quiet from 7am to 11pm. On weekends, go between 7am and 8am, because crowds build from 10am to 11pm. Allow about an hour for the walk there and back plus the skyline view from the far side."
+  - hamburg
+  - historic site
+quickAnswer: >-
+  The Old Elbe Tunnel (St. Pauli Elbtunnel) runs under the Elbe from St.
+  Pauli-Landungsbrücken in Hamburg to Steinwerder on the south bank, and it's
+  listed as open 24 hours. Weekdays are quiet from 7am to 11pm. On weekends, go
+  between 7am and 8am, because crowds build from 10am to 11pm. Allow about an
+  hour for the walk there and back plus the skyline view from the far side.
 faq:
-  - q: "When is the quietest time to visit the Old Elbe Tunnel?"
-    a: "On weekdays it's quiet from 7am to 11pm. On weekends, the calm window is 7am to 8am. Avoid weekends between 10am and 11pm, which is the busiest stretch."
-  - q: "How do I get to the Old Elbe Tunnel?"
-    a: "Take the U3, S1 or S3 to Landungsbrücken station. The domed entrance building is across the road, beside the St. Pauli-Landungsbrücken pier halls."
-  - q: "How long does it take to walk through?"
-    a: "Each tube is a little over 400 metres long, so it takes about 10 minutes each way. Allow around an hour if you want to look at the tiles and enjoy the skyline view from Steinwerder."
-  - q: "Is it open at night?"
-    a: "The listing shows it open 24 hours every day. Renovation work sometimes closes one tube or a lift, so check before a late visit."
-  - q: "What else can I combine it with?"
-    a: "A HADAG harbour ferry from the Landungsbrücken piers makes a good loop with the tunnel. St. Michaelis, the Rickmer Rickmers museum ship and the Elbphilharmonie are all within walking distance on the north bank."
+  - q: When is the quietest time to visit the Old Elbe Tunnel?
+    a: >-
+      On weekdays it's quiet from 7am to 11pm. On weekends, the calm window is
+      7am to 8am. Avoid weekends between 10am and 11pm, which is the busiest
+      stretch.
+  - q: How do I get to the Old Elbe Tunnel?
+    a: >-
+      Take the U3, S1 or S3 to Landungsbrücken station. The domed entrance
+      building is across the road, beside the St. Pauli-Landungsbrücken pier
+      halls.
+  - q: How long does it take to walk through?
+    a: >-
+      Each tube is a little over 400 metres long, so it takes about 10 minutes
+      each way. Allow around an hour if you want to look at the tiles and enjoy
+      the skyline view from Steinwerder.
+  - q: Is it open at night?
+    a: >-
+      The listing shows it open 24 hours every day. Renovation work sometimes
+      closes one tube or a lift, so check before a late visit.
+  - q: What else can I combine it with?
+    a: >-
+      A HADAG harbour ferry from the Landungsbrücken piers makes a good loop
+      with the tunnel. St. Michaelis, the Rickmer Rickmers museum ship and the
+      Elbphilharmonie are all within walking distance on the north bank.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-05'
 ---
 
 ## Down Through the Copper Dome

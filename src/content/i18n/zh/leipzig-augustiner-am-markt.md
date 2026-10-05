@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: leipzig-augustiner-am-markt
-srcHash: '69477b2a1d09'
+srcHash: '57d0f80a6509'
 title: Augustiner Am Markt：莱比锡美食去处（4.3★）
-description: Augustiner Am Markt是一家巴伐利亚风味餐厅，位于莱比锡中心集市广场Markt 5-6号，正对旧市政厅，供应香肠、冷食拼盘、啤酒和糕点。评分4.3★（5,310条评价），附食客评价、营业时间和实用贴士。
+description: Augustiner Am Markt是一家巴伐利亚风味餐厅，位于莱比锡中心集市广场Markt 5-6号，正对旧市政厅，供应香肠、冷食拼盘、啤酒和糕点。评分4.3★（5,318条评价），附食客评价、营业时间和实用贴士。
 quickAnswer: Augustiner Am Markt是一家巴伐利亚风味餐厅，坐落在莱比锡中心集市广场的Markt 5-6号，与旧市政厅隔着广场相望，主打香肠、冷食拼盘、啤酒和糕点。餐厅每天上午10点营业到午夜，工作日上午10点至12点人最少。周末下午1点到晚上10点是最热闹的时段，建议避开。
 faq:
   - q: 什么时候去Augustiner Am Markt人最少？

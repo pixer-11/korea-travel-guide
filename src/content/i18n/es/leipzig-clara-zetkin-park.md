@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: leipzig-clara-zetkin-park
-srcHash: '72b6bf02268f'
+srcHash: 'c15b11ff08c0'
 title: 'Clara-Zetkin-Park: guía de viaje de Leipzig (4.7★)'
-description: El Clara-Zetkin-Park es el gran parque central de Leipzig. Se llega dando un paseo corto hacia el suroeste desde el centro (Innenstadt), entre los barrios de Südvorstadt y Schleußig, y permanece abierto las 24 horas con entrada gratuita. Tiene una valoración de 4.7★ (10,027 reseñas); aquí encontrará opiniones de visitantes, horarios y consejos.
+description: El Clara-Zetkin-Park es el gran parque central de Leipzig. Se llega dando un paseo corto hacia el suroeste desde el centro (Innenstadt), entre los barrios de Südvorstadt y Schleußig, y permanece abierto las 24 horas con entrada gratuita. Tiene una valoración de 4.7★ (10,029 reseñas); aquí encontrará opiniones de visitantes, horarios y consejos.
 quickAnswer: A un paseo corto al suroeste del centro (Innenstadt), entre los barrios de Südvorstadt y Schleußig, se extiende el Clara-Zetkin-Park, el gran parque central de Leipzig. Abre las 24 horas y la entrada es gratuita. Entre sus atractivos figuran senderos boscosos, un templete histórico donde se celebran conciertos en verano, un café al aire libre y un monumento a Schubert. Los fines de semana, la mayor afluencia se concentra de 11am a 8pm; si prefiere disfrutar del césped casi en solitario, acuda antes de las 11am o después de las 8pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Clara-Zetkin-Park?

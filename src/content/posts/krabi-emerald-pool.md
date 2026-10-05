@@ -1,44 +1,52 @@
 ---
-title: "Emerald Pool: Krabi Travel Guide (4.3★)"
-description: "Emerald Pool (Sa Morakot) sits in Khlong Thom District, Krabi, about an hour's drive southeast of Krabi Town and Ao Nang. 4.3★ (13,990 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Krabi"
-category: "hidden-gem"
-pubDate: "2026-09-30T07:50:11.619Z"
+title: 'Emerald Pool: Krabi Travel Guide (4.3★)'
+description: >-
+  Emerald Pool (Sa Morakot) sits in Khlong Thom District, Krabi, about an hour's
+  drive southeast of Krabi Town and Ao Nang. 4.3★ (14,002 reviews) — what
+  visitors say, hours, and tips.
+country: Thailand
+region: Krabi
+category: hidden-gem
+pubDate: '2026-09-30T07:50:11.619Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/c/ca/Emerald_pool_park%2C_Krabi_province%2C_Thailand_2018_6.jpg"
-  credit: "Photo: Karelj / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Emerald_pool_park,_Krabi_province,_Thailand_2018_6.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/c/ca/Emerald_pool_park%2C_Krabi_province%2C_Thailand_2018_6.jpg
+  credit: 'Photo: Karelj / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Emerald_pool_park,_Krabi_province,_Thailand_2018_6.jpg
+  via: act
   focus:
     x: 50
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/c/c9/Emerald_pool_park%2C_Krabi_provicne%2C_Thailand_2018_4.jpg"
-    credit: "Photo: Karelj / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Emerald_pool_park,_Krabi_provicne,_Thailand_2018_4.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/c/c9/Emerald_pool_park%2C_Krabi_provicne%2C_Thailand_2018_4.jpg
+    credit: 'Photo: Karelj / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Emerald_pool_park,_Krabi_provicne,_Thailand_2018_4.jpg
 place:
-  id: "ChIJ_6eLjQ0cUjAR7kXSfRh6n60"
-  name: "Emerald Pool"
-  address: "Khlong Thom Nuea, Khlong Thom District, Krabi 81120, Thailand"
+  id: ChIJ_6eLjQ0cUjAR7kXSfRh6n60
+  name: Emerald Pool
+  address: 'Khlong Thom Nuea, Khlong Thom District, Krabi 81120, Thailand'
   rating: 4.3
-  userRatingsTotal: 13990
-  googleMapsUrl: "https://maps.google.com/?cid=12510852535467263470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 14002
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12510852535467263470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 7.9250768
   lng: 99.2681506
   openingHours:
-    - "Monday: 8:30 AM – 4:30 PM"
-    - "Tuesday: 8:30 AM – 4:30 PM"
-    - "Wednesday: 8:30 AM – 4:30 PM"
-    - "Thursday: 8:30 AM – 4:30 PM"
-    - "Friday: 8:30 AM – 4:30 PM"
-    - "Saturday: 8:30 AM – 4:30 PM"
-    - "Sunday: 8:30 AM – 4:30 PM"
+    - 'Monday: 8:30 AM – 4:30 PM'
+    - 'Tuesday: 8:30 AM – 4:30 PM'
+    - 'Wednesday: 8:30 AM – 4:30 PM'
+    - 'Thursday: 8:30 AM – 4:30 PM'
+    - 'Friday: 8:30 AM – 4:30 PM'
+    - 'Saturday: 8:30 AM – 4:30 PM'
+    - 'Sunday: 8:30 AM – 4:30 PM'
   busyness:
-    updated: 2026-09-30
+    updated: 2026-09-30T00:00:00.000Z
     weekdayQuiet:
       - 9
     weekdayBusy:
@@ -51,24 +59,43 @@ place:
       - 12
       - 13
       - 14
-    venueId: "ven_30366e3668526653586b3752416a556330516a4c65365f4a496843"
+    venueId: ven_30366e3668526653586b3752416a556330516a4c65365f4a496843
 tags:
-  - "krabi"
-  - "old quarter"
-quickAnswer: "Emerald Pool (Sa Morakot) sits in Khlong Thom District, Krabi, about an hour's drive southeast of Krabi Town and Ao Nang. It's a spring-fed mineral pool in lowland rainforest, reached along a wooden boardwalk, and it opens daily 8:30am to 4:30pm. Get there between 9am and 10am, the quietest hour every day, and stay clear of weekends from 11am to 3pm, when the tour vans pile in."
+  - krabi
+  - old quarter
+quickAnswer: >-
+  Emerald Pool (Sa Morakot) sits in Khlong Thom District, Krabi, about an hour's
+  drive southeast of Krabi Town and Ao Nang. It's a spring-fed mineral pool in
+  lowland rainforest, reached along a wooden boardwalk, and it opens daily
+  8:30am to 4:30pm. Get there between 9am and 10am, the quietest hour every day,
+  and stay clear of weekends from 11am to 3pm, when the tour vans pile in.
 faq:
-  - q: "When is the quietest time to visit Emerald Pool?"
-    a: "9am to 10am, on weekdays and at weekends. On weekends, try not to arrive between 11am and 3pm, when tour groups crowd the pool."
-  - q: "What are Emerald Pool's opening hours?"
-    a: "It's open every day from 8:30am to 4:30pm. It doesn't close on any day of the week."
-  - q: "How do I get to Emerald Pool from Ao Nang or Krabi Town?"
-    a: "It's in Khlong Thom District, roughly an hour or more by road. Most people join a day tour, hire a private driver, or rent a car or scooter. There's parking at the entrance."
-  - q: "Can you swim in the Blue Pool as well?"
-    a: "No. You can swim at Emerald Pool, but the Blue Pool (Sa Nam Phut) further up the trail is for looking only. Its colour also changes with the light and recent rain."
-  - q: "How long should I spend there, and what's nearby?"
-    a: "Allow two to three hours for the boardwalk, a swim and the Blue Pool. The Khlong Thom hot springs are a short drive away, and many tours also add Wat Tham Suea (Tiger Cave Temple)."
+  - q: When is the quietest time to visit Emerald Pool?
+    a: >-
+      9am to 10am, on weekdays and at weekends. On weekends, try not to arrive
+      between 11am and 3pm, when tour groups crowd the pool.
+  - q: What are Emerald Pool's opening hours?
+    a: >-
+      It's open every day from 8:30am to 4:30pm. It doesn't close on any day of
+      the week.
+  - q: How do I get to Emerald Pool from Ao Nang or Krabi Town?
+    a: >-
+      It's in Khlong Thom District, roughly an hour or more by road. Most people
+      join a day tour, hire a private driver, or rent a car or scooter. There's
+      parking at the entrance.
+  - q: Can you swim in the Blue Pool as well?
+    a: >-
+      No. You can swim at Emerald Pool, but the Blue Pool (Sa Nam Phut) further
+      up the trail is for looking only. Its colour also changes with the light
+      and recent rain.
+  - q: 'How long should I spend there, and what''s nearby?'
+    a: >-
+      Allow two to three hours for the boardwalk, a swim and the Blue Pool. The
+      Khlong Thom hot springs are a short drive away, and many tours also add
+      Wat Tham Suea (Tiger Cave Temple).
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-05'
 ---
 
 ## Water the colour of its name

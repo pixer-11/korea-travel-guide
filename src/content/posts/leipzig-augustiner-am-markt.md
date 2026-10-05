@@ -1,42 +1,48 @@
 ---
-title: "Augustiner Am Markt: Where to Eat in Leipzig (4.3★)"
-description: "Augustiner Am Markt is a Bavarian restaurant at Markt 5-6 on Leipzig's main market square, facing the Old Town Hall, serving sausages, cold snack boards, beer and pastries. 4.3★ (5,310 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Leipzig"
-category: "restaurant"
-pubDate: "2026-10-04T13:39:44.899Z"
+title: 'Augustiner Am Markt: Where to Eat in Leipzig (4.3★)'
+description: >-
+  Augustiner Am Markt is a Bavarian restaurant at Markt 5-6 on Leipzig's main
+  market square, facing the Old Town Hall, serving sausages, cold snack boards,
+  beer and pastries. 4.3★ (5,318 reviews) — what visitors say, hours, and tips.
+country: Germany
+region: Leipzig
+category: restaurant
+pubDate: '2026-10-04T13:39:44.899Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2024-04-06_Markt_6_in_Leipzig_Augustiner_am_Markt.jpg/3840px-2024-04-06_Markt_6_in_Leipzig_Augustiner_am_Markt.jpg"
-  credit: "Photo: Bernd Schwabe in Hannover / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:2024-04-06_Markt_6_in_Leipzig_Augustiner_am_Markt.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2024-04-06_Markt_6_in_Leipzig_Augustiner_am_Markt.jpg/3840px-2024-04-06_Markt_6_in_Leipzig_Augustiner_am_Markt.jpg
+  credit: 'Photo: Bernd Schwabe in Hannover / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:2024-04-06_Markt_6_in_Leipzig_Augustiner_am_Markt.jpg
+  via: act
   focus:
     x: 32
-    y: 20
+    'y': 20
 gallery: []
 place:
-  id: "ChIJo5NFaCH4pkcRxjUN_ZfYWPo"
-  name: "Augustiner Am Markt"
-  address: "Markt 5-6, 04109 Leipzig, Germany"
+  id: ChIJo5NFaCH4pkcRxjUN_ZfYWPo
+  name: Augustiner Am Markt
+  address: 'Markt 5-6, 04109 Leipzig, Germany'
   rating: 4.3
-  userRatingsTotal: 5310
+  userRatingsTotal: 5318
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=18039406454729684422&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=18039406454729684422&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.3412369
   lng: 12.374704699999999
-  phone: "+49 341 24770177"
+  phone: +49 341 24770177
   openingHours:
-    - "Monday: 10:00 AM – 12:00 AM"
-    - "Tuesday: 10:00 AM – 12:00 AM"
-    - "Wednesday: 10:00 AM – 12:00 AM"
-    - "Thursday: 10:00 AM – 12:00 AM"
-    - "Friday: 10:00 AM – 12:00 AM"
-    - "Saturday: 10:00 AM – 12:00 AM"
-    - "Sunday: 10:00 AM – 12:00 AM"
+    - 'Monday: 10:00 AM – 12:00 AM'
+    - 'Tuesday: 10:00 AM – 12:00 AM'
+    - 'Wednesday: 10:00 AM – 12:00 AM'
+    - 'Thursday: 10:00 AM – 12:00 AM'
+    - 'Friday: 10:00 AM – 12:00 AM'
+    - 'Saturday: 10:00 AM – 12:00 AM'
+    - 'Sunday: 10:00 AM – 12:00 AM'
   busyness:
-    updated: 2026-10-04
+    updated: 2026-10-04T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 11
@@ -61,24 +67,45 @@ place:
       - 19
       - 20
       - 21
-    venueId: "ven_6f505759665a5f4e556a7852636b7034484361464e356f4a496843"
+    venueId: ven_6f505759665a5f4e556a7852636b7034484361464e356f4a496843
 tags:
-  - "leipzig"
-  - "street food"
-quickAnswer: "Augustiner Am Markt is a Bavarian restaurant at Markt 5-6 on Leipzig's main market square, facing the Old Town Hall, serving sausages, cold snack boards, beer and pastries. It is open every day from 10am to midnight, and it is calmest on weekdays between 10am and 12pm. Avoid weekends between 1pm and 10pm, when it is at its busiest."
+  - leipzig
+  - street food
+quickAnswer: >-
+  Augustiner Am Markt is a Bavarian restaurant at Markt 5-6 on Leipzig's main
+  market square, facing the Old Town Hall, serving sausages, cold snack boards,
+  beer and pastries. It is open every day from 10am to midnight, and it is
+  calmest on weekdays between 10am and 12pm. Avoid weekends between 1pm and
+  10pm, when it is at its busiest.
 faq:
-  - q: "When is the quietest time to visit Augustiner Am Markt?"
-    a: "On weekdays it is calmest between 10am and 12pm. Try not to arrive on a weekend between 1pm and 10pm, which is its busiest stretch. If you are visiting on a Saturday or Sunday, arriving when it opens at 10am is your best bet."
-  - q: "What are the opening hours?"
-    a: "It is open daily from 10am to midnight, Monday through Sunday, with no closing day."
-  - q: "How do I get there by public transport?"
-    a: "Take the S-Bahn through the City-Tunnel to Leipzig Markt station, which comes up onto the square. From Leipzig Hauptbahnhof it is about a ten-minute walk south through the old town."
-  - q: "What kind of food does it serve?"
-    a: "It is a Bavarian-style restaurant serving traditional sausages, cold snack boards, beer and pastries. Expect hearty food meant for sharing, at mid-range prices."
-  - q: "What else is nearby?"
-    a: "The Altes Rathaus is directly across the square. Mädler-Passage with Auerbachs Keller, the Thomaskirche and the Nikolaikirche are all within about five minutes on foot."
+  - q: When is the quietest time to visit Augustiner Am Markt?
+    a: >-
+      On weekdays it is calmest between 10am and 12pm. Try not to arrive on a
+      weekend between 1pm and 10pm, which is its busiest stretch. If you are
+      visiting on a Saturday or Sunday, arriving when it opens at 10am is your
+      best bet.
+  - q: What are the opening hours?
+    a: >-
+      It is open daily from 10am to midnight, Monday through Sunday, with no
+      closing day.
+  - q: How do I get there by public transport?
+    a: >-
+      Take the S-Bahn through the City-Tunnel to Leipzig Markt station, which
+      comes up onto the square. From Leipzig Hauptbahnhof it is about a
+      ten-minute walk south through the old town.
+  - q: What kind of food does it serve?
+    a: >-
+      It is a Bavarian-style restaurant serving traditional sausages, cold snack
+      boards, beer and pastries. Expect hearty food meant for sharing, at
+      mid-range prices.
+  - q: What else is nearby?
+    a: >-
+      The Altes Rathaus is directly across the square. Mädler-Passage with
+      Auerbachs Keller, the Thomaskirche and the Nikolaikirche are all within
+      about five minutes on foot.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-05'
 ---
 
 ## A Munich beer hall facing Leipzig's Old Town Hall

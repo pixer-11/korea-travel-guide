@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: kuala-lumpur-kwai-chai-hong
-srcHash: '0520aff5b48c'
+srcHash: 'f89ff71eafb9'
 title: 鬼仔巷：吉隆坡旅行指南（4.3★）
-description: 鬼仔巷（Kwai Chai Hong）是吉隆坡唐人街一条修复后的后巷，入口在Lorong Panggung，步行不远就能到茨厂街和Pasar Seni站。评分4.3★（4,277条评价），本文汇总游客评价、开放时间和游览建议。
+description: 鬼仔巷（Kwai Chai Hong）是吉隆坡唐人街一条修复后的后巷，入口在Lorong Panggung，步行不远就能到茨厂街和Pasar Seni站。评分4.3★（4,302条评价），本文汇总游客评价、开放时间和游览建议。
 quickAnswer: 鬼仔巷（Kwai Chai Hong）是吉隆坡唐人街一条修复后的后巷，入口在Lorong Panggung，从茨厂街和Pasar Seni站步行过去都不远。这里每天上午9点开放，午夜12点关闭。工作日建议上午9点至11点前往，周末建议上午9点至10点前往。周末下午1点至晚上11点人最多，最好错开。
 faq:
   - q: 什么时候去鬼仔巷人最少？

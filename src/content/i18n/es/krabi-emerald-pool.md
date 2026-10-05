@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: krabi-emerald-pool
-srcHash: 'a45325b11d2b'
+srcHash: 'bd3f0ca5924c'
 title: 'Emerald Pool (Sa Morakot): guía de viaje de Krabi (4.3★)'
-description: A cerca de una hora en coche al sureste de Krabi Town y Ao Nang, en el distrito de Khlong Thom (Krabi), se encuentra la Emerald Pool (Sa Morakot). Con una valoración de 4.3★ (13,990 reseñas), le contamos qué opinan los visitantes, cuál es el horario y le damos algunos consejos.
+description: A cerca de una hora en coche al sureste de Krabi Town y Ao Nang, en el distrito de Khlong Thom (Krabi), se encuentra la Emerald Pool (Sa Morakot). Con una valoración de 4.3★ (14,002 reseñas), le contamos qué opinan los visitantes, cuál es el horario y le damos algunos consejos.
 quickAnswer: La Emerald Pool (Sa Morakot) se encuentra en el distrito de Khlong Thom, en Krabi, a cerca de una hora en coche al sureste de Krabi Town y Ao Nang. Se trata de una poza mineral que se alimenta de un manantial y que está en plena selva de tierras bajas. Se llega a ella por una pasarela de madera y abre todos los días de 8:30am a 4:30pm. La franja más tranquila de cada día va de las 9am a las 10am, así que le conviene llegar entonces. Evite los fines de semana entre las 11am y las 3pm, porque es cuando llegan en masa las furgonetas de las excursiones.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la Emerald Pool?

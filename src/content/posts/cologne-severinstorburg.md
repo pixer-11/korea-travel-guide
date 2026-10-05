@@ -1,48 +1,72 @@
 ---
-title: "Severinstorburg: Cologne Travel Guide (4.5★)"
-description: "Severinstorburg is a medieval city gate on Chlodwigplatz in Cologne's Südstadt, at the southern end of Severinstraße. 4.5★ (1,209 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Cologne"
-category: "attraction"
-pubDate: "2026-10-05T07:43:07.656Z"
+title: 'Severinstorburg: Cologne Travel Guide (4.5★)'
+description: >-
+  Severinstorburg is a medieval city gate on Chlodwigplatz in Cologne's
+  Südstadt, at the southern end of Severinstraße. 4.5★ (1,210 reviews) — what
+  visitors say, hours, and tips.
+country: Germany
+region: Cologne
+category: attraction
+pubDate: '2026-10-05T07:43:07.656Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/2023-01-28-Severinstorburg-3707.jpg/3840px-2023-01-28-Severinstorburg-3707.jpg"
-  credit: "Photo: Superbass / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:2023-01-28-Severinstorburg-3707.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/2023-01-28-Severinstorburg-3707.jpg/3840px-2023-01-28-Severinstorburg-3707.jpg
+  credit: 'Photo: Superbass / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:2023-01-28-Severinstorburg-3707.jpg'
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJ80SCLU8kv0cRKMrixnQISIg"
-  name: "Severinstorburg"
-  address: "Chlodwigpl. 19, 50678 Köln, Germany"
+  id: ChIJ80SCLU8kv0cRKMrixnQISIg
+  name: Severinstorburg
+  address: 'Chlodwigpl. 19, 50678 Köln, Germany'
   rating: 4.5
-  userRatingsTotal: 1209
-  googleMapsUrl: "https://maps.google.com/?cid=9820108285127346728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1210
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9820108285127346728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 50.921990199999996
   lng: 6.95941
-  phone: "+49 177 6768885"
+  phone: +49 177 6768885
 tags:
-  - "cologne"
-  - "historic site"
-quickAnswer: "Severinstorburg is a medieval city gate on Chlodwigplatz in Cologne's Südstadt, at the southern end of Severinstraße. It's one of only three gates left from the city's old ring of fortifications. You can see it from outside at any time, but the inside is mostly used for private events, so check before you count on getting in."
+  - cologne
+  - historic site
+quickAnswer: >-
+  Severinstorburg is a medieval city gate on Chlodwigplatz in Cologne's
+  Südstadt, at the southern end of Severinstraße. It's one of only three gates
+  left from the city's old ring of fortifications. You can see it from outside
+  at any time, but the inside is mostly used for private events, so check before
+  you count on getting in.
 faq:
-  - q: "How do I get to Severinstorburg by public transport?"
-    a: "Take Stadtbahn line 15 or 16 to Chlodwigplatz. The gate stands on the square directly above the station."
-  - q: "Can I go inside Severinstorburg?"
-    a: "Not reliably. Its three rooms are mainly hired out for weddings, parties and corporate events, so contact the venue before you go if seeing the interior matters to you."
-  - q: "How long should I spend there?"
-    a: "About 15 to 20 minutes covers a walk around the outside and some photos. Combine it with Severinstraße, St. Severin and the Rheinauhafen for a half-day in the Südstadt."
-  - q: "What else is nearby?"
-    a: "St. Severin basilica is a few minutes up Severinstraße. The Volksgarten park is just south-west, and the Rheinauhafen, the Chocolate Museum and the Bayenturm are a short walk east towards the Rhine."
-  - q: "Can I walk there from Cologne Cathedral?"
-    a: "Yes. Head south down Hohe Straße and carry on along Severinstraße. It's roughly a 30 to 40 minute walk and ends right at the gate."
+  - q: How do I get to Severinstorburg by public transport?
+    a: >-
+      Take Stadtbahn line 15 or 16 to Chlodwigplatz. The gate stands on the
+      square directly above the station.
+  - q: Can I go inside Severinstorburg?
+    a: >-
+      Not reliably. Its three rooms are mainly hired out for weddings, parties
+      and corporate events, so contact the venue before you go if seeing the
+      interior matters to you.
+  - q: How long should I spend there?
+    a: >-
+      About 15 to 20 minutes covers a walk around the outside and some photos.
+      Combine it with Severinstraße, St. Severin and the Rheinauhafen for a
+      half-day in the Südstadt.
+  - q: What else is nearby?
+    a: >-
+      St. Severin basilica is a few minutes up Severinstraße. The Volksgarten
+      park is just south-west, and the Rheinauhafen, the Chocolate Museum and
+      the Bayenturm are a short walk east towards the Rhine.
+  - q: Can I walk there from Cologne Cathedral?
+    a: >-
+      Yes. Head south down Hohe Straße and carry on along Severinstraße. It's
+      roughly a 30 to 40 minute walk and ends right at the gate.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-05'
 ---
 
 ## A gate that outlived its wall

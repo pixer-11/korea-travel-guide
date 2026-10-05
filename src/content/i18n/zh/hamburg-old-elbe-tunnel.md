@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: hamburg-old-elbe-tunnel
-srcHash: 'ec9be5bbccff'
+srcHash: '6191267c1e02'
 title: 老易北河隧道：汉堡旅行指南（4.7★）
-description: 老易北河隧道（St. Pauli Elbtunnel）从汉堡圣保利登陆桥出发，穿过易北河河底，通往南岸的施泰因韦尔德，标注为24小时开放。评分4.7★（39,887条评价），本文汇总游客评价、开放时间与实用贴士。
+description: 老易北河隧道（St. Pauli Elbtunnel）从汉堡圣保利登陆桥出发，穿过易北河河底，通往南岸的施泰因韦尔德，标注为24小时开放。评分4.7★（39,896条评价），本文汇总游客评价、开放时间与实用贴士。
 quickAnswer: 老易北河隧道（St. Pauli Elbtunnel）从汉堡圣保利登陆桥（St. Pauli-Landungsbrücken）下到易北河河底，一路通往南岸的施泰因韦尔德（Steinwerder），标注为24小时开放。工作日从早上7点到晚上11点人都不多。周末上午10点到晚上11点人流密集，最好在早上7点至8点之间前往。往返步行，再到对岸看看城市天际线，留出1小时左右比较从容。
 faq:
   - q: 什么时候去老易北河隧道人最少？

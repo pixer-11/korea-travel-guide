@@ -1,40 +1,46 @@
 ---
-title: "Salak Khok Fishing Village: Koh Chang Travel Guide (4.3★)"
-description: "Salak Khok Fishing Village sits on the quieter southeast coast of Koh Chang: a stilt-house community on a mangrove-lined bay, reached by a wooden boardwalk and explored by kayak. 4.3★ (431 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Koh Chang"
-category: "hidden-gem"
-pubDate: "2026-09-29T07:43:48.493Z"
+title: 'Salak Khok Fishing Village: Koh Chang Travel Guide (4.3★)'
+description: >-
+  Salak Khok Fishing Village sits on the quieter southeast coast of Koh Chang: a
+  stilt-house community on a mangrove-lined bay, reached by a wooden boardwalk
+  and explored by kayak. 4.3★ (432 reviews) — what visitors say, hours, and
+  tips.
+country: Thailand
+region: Koh Chang
+category: hidden-gem
+pubDate: '2026-09-29T07:43:48.493Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Salak_Khok_Fishing_Village_bay.jpg/3840px-Salak_Khok_Fishing_Village_bay.jpg"
-  credit: "Photo: Tang2bar / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Salak_Khok_Fishing_Village_bay.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Salak_Khok_Fishing_Village_bay.jpg/3840px-Salak_Khok_Fishing_Village_bay.jpg
+  credit: 'Photo: Tang2bar / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Salak_Khok_Fishing_Village_bay.jpg'
+  via: act
   focus:
     x: 68
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJMeejQVcWBDERhGLaP2p52o4"
-  name: "Salak Khok Fishing Village"
-  address: "29JW+WM7, Koh Chang Tai, Ko Chang District, Trat 23170, Thailand"
+  id: ChIJMeejQVcWBDERhGLaP2p52o4
+  name: Salak Khok Fishing Village
+  address: '29JW+WM7, Koh Chang Tai, Ko Chang District, Trat 23170, Thailand'
   rating: 4.3
-  userRatingsTotal: 431
-  googleMapsUrl: "https://maps.google.com/?cid=10293673395553460868&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 432
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10293673395553460868&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 12.0322798
   lng: 102.3966658
   openingHours:
-    - "Monday: 8:00 AM – 5:00 PM"
-    - "Tuesday: 8:00 AM – 5:00 PM"
-    - "Wednesday: 8:00 AM – 5:00 PM"
-    - "Thursday: 8:00 AM – 5:00 PM"
-    - "Friday: 8:00 AM – 5:00 PM"
-    - "Saturday: 8:00 AM – 5:00 PM"
-    - "Sunday: 8:00 AM – 5:00 PM"
+    - 'Monday: 8:00 AM – 5:00 PM'
+    - 'Tuesday: 8:00 AM – 5:00 PM'
+    - 'Wednesday: 8:00 AM – 5:00 PM'
+    - 'Thursday: 8:00 AM – 5:00 PM'
+    - 'Friday: 8:00 AM – 5:00 PM'
+    - 'Saturday: 8:00 AM – 5:00 PM'
+    - 'Sunday: 8:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-09-29
+    updated: 2026-09-29T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -47,24 +53,38 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_346f3235703250614c476852454442576356516a65654d4a496843"
+    venueId: ven_346f3235703250614c476852454442576356516a65654d4a496843
 tags:
-  - "koh chang"
-  - "old quarter"
-quickAnswer: "Salak Khok Fishing Village sits on the quieter southeast coast of Koh Chang: a stilt-house community on a mangrove-lined bay, reached by a wooden boardwalk and explored by kayak. It is open daily from 8am to 5pm and is calmest between 8am and 10am. On weekends, avoid 11am to 4pm."
+  - koh chang
+  - old quarter
+quickAnswer: >-
+  Salak Khok Fishing Village sits on the quieter southeast coast of Koh Chang: a
+  stilt-house community on a mangrove-lined bay, reached by a wooden boardwalk
+  and explored by kayak. It is open daily from 8am to 5pm and is calmest between
+  8am and 10am. On weekends, avoid 11am to 4pm.
 faq:
-  - q: "When is the quietest time to visit Salak Khok?"
-    a: "Between 8am and 10am, on weekdays and weekends. Avoid 11am to 4pm on weekends, the busiest window."
-  - q: "What are the opening hours?"
-    a: "8am to 5pm every day of the week, including Sunday."
-  - q: "How do I get there from the west coast beaches?"
-    a: "Drive north past the ferry piers, then south along the east coast road. The coastal road does not connect the two sides in the south. A scooter, rental car or pre-booked taxi works best."
-  - q: "How long should I spend there?"
-    a: "One to two hours for the boardwalk and a meal. Allow half a day if you add a kayak trip and a stop at nearby Salak Phet."
-  - q: "Do I need kayaking experience?"
-    a: "No. The bay and mangrove channels are sheltered and flat. Go at mid to high tide, because low tide leaves parts of the bay too shallow to paddle."
+  - q: When is the quietest time to visit Salak Khok?
+    a: >-
+      Between 8am and 10am, on weekdays and weekends. Avoid 11am to 4pm on
+      weekends, the busiest window.
+  - q: What are the opening hours?
+    a: '8am to 5pm every day of the week, including Sunday.'
+  - q: How do I get there from the west coast beaches?
+    a: >-
+      Drive north past the ferry piers, then south along the east coast road.
+      The coastal road does not connect the two sides in the south. A scooter,
+      rental car or pre-booked taxi works best.
+  - q: How long should I spend there?
+    a: >-
+      One to two hours for the boardwalk and a meal. Allow half a day if you add
+      a kayak trip and a stop at nearby Salak Phet.
+  - q: Do I need kayaking experience?
+    a: >-
+      No. The bay and mangrove channels are sheltered and flat. Go at mid to
+      high tide, because low tide leaves parts of the bay too shallow to paddle.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-05'
 ---
 
 ## Planks, Posts and Mangrove Roots

@@ -1,44 +1,51 @@
 ---
-title: "Berlin Cathedral: Travel Guide (4.6★)"
-description: "Berlin Cathedral (Berliner Dom) stands on Museum Island in Berlin-Mitte, on the Lustgarten next to the U5 Museumsinsel station. 4.6★ (47,942 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Berlin"
-category: "attraction"
-pubDate: "2026-10-05T07:40:47.607Z"
+title: 'Berlin Cathedral: Travel Guide (4.6★)'
+description: >-
+  Berlin Cathedral (Berliner Dom) stands on Museum Island in Berlin-Mitte, on
+  the Lustgarten next to the U5 Museumsinsel station. 4.6★ (47,952 reviews) —
+  what visitors say, hours, and tips.
+country: Germany
+region: Berlin
+category: attraction
+pubDate: '2026-10-05T07:40:47.607Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/141227_Berliner_Dom.jpg/1920px-141227_Berliner_Dom.jpg"
-  credit: "Photo: Ansgar Koreng / Wikimedia Commons (CC BY 3.0 de)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:141227_Berliner_Dom.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/141227_Berliner_Dom.jpg/1920px-141227_Berliner_Dom.jpg
+  credit: 'Photo: Ansgar Koreng / Wikimedia Commons (CC BY 3.0 de)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:141227_Berliner_Dom.jpg'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/a/ae/View_from_Humboldtbox_-_Berlin_Cathedral.jpg"
-    credit: "Photo: A.Savin / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:View_from_Humboldtbox_-_Berlin_Cathedral.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/a/ae/View_from_Humboldtbox_-_Berlin_Cathedral.jpg
+    credit: 'Photo: A.Savin / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:View_from_Humboldtbox_-_Berlin_Cathedral.jpg
 place:
-  id: "ChIJS9HC895RqEcR_IovsNVoDng"
-  name: "Berlin Cathedral"
-  address: "Am Lustgarten, 10178 Berlin, Germany"
+  id: ChIJS9HC895RqEcR_IovsNVoDng
+  name: Berlin Cathedral
+  address: 'Am Lustgarten, 10178 Berlin, Germany'
   rating: 4.6
-  userRatingsTotal: 47942
-  googleMapsUrl: "https://maps.google.com/?cid=8650967201218530044&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 47952
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8650967201218530044&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 52.5190608
   lng: 13.401078
-  phone: "+49 30 20269136"
+  phone: +49 30 20269136
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 5:00 PM"
-    - "Sunday: 12:00 – 5:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 5:00 PM'
+    - 'Sunday: 12:00 – 5:00 PM'
   busyness:
-    updated: 2026-10-05
+    updated: 2026-10-05T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -51,24 +58,44 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_676e446f564e73766f495f5263457152353938434839534a496843"
+    venueId: ven_676e446f564e73766f495f5263457152353938434839534a496843
 tags:
-  - "berlin"
-  - "historic site"
-quickAnswer: "Berlin Cathedral (Berliner Dom) stands on Museum Island in Berlin-Mitte, on the Lustgarten next to the U5 Museumsinsel station. One ticket covers the main church with its 7,269-pipe organ, the 270-step climb to the dome walkway and the Hohenzollern crypt. The best time to go is 9am–11am on a weekday or 9am–10am on Saturday; avoid weekends from 11am–5pm, when it is busiest."
+  - berlin
+  - historic site
+quickAnswer: >-
+  Berlin Cathedral (Berliner Dom) stands on Museum Island in Berlin-Mitte, on
+  the Lustgarten next to the U5 Museumsinsel station. One ticket covers the main
+  church with its 7,269-pipe organ, the 270-step climb to the dome walkway and
+  the Hohenzollern crypt. The best time to go is 9am–11am on a weekday or
+  9am–10am on Saturday; avoid weekends from 11am–5pm, when it is busiest.
 faq:
-  - q: "When is the quietest time to visit Berlin Cathedral?"
-    a: "Weekdays from 9am to 11am, and Saturdays from 9am to 10am. Try not to come at weekends between 11am and 5pm, the busiest stretch. On Sunday it opens only at 12pm, so the whole visiting day falls in that busy window."
-  - q: "How do I get to Berlin Cathedral?"
-    a: "Take the U5 to Museumsinsel, a few minutes' walk away. Buses 100 and 300 stop at Lustgarten, right in front. Hackescher Markt S-Bahn station (S3, S5, S7, S9) is about ten minutes' walk across the Spree."
-  - q: "How long should I spend at Berlin Cathedral?"
-    a: "Allow one and a half to two hours to see the Sermon Church, climb the 270 steps to the dome walkway and walk through the Hohenzollern crypt."
-  - q: "What are the opening hours?"
-    a: "Monday to Friday 9am–6pm, Saturday 9am–5pm and Sunday 12pm–5pm. Services and concerts can close parts of the building, so check the official calendar before you go."
-  - q: "Is the dome climb hard?"
-    a: "It is 270 steps on a staircase that gets narrow in places, with no lift to the top. Most reasonably fit visitors manage it in 20 to 30 minutes, including the walk around the outside of the dome."
+  - q: When is the quietest time to visit Berlin Cathedral?
+    a: >-
+      Weekdays from 9am to 11am, and Saturdays from 9am to 10am. Try not to come
+      at weekends between 11am and 5pm, the busiest stretch. On Sunday it opens
+      only at 12pm, so the whole visiting day falls in that busy window.
+  - q: How do I get to Berlin Cathedral?
+    a: >-
+      Take the U5 to Museumsinsel, a few minutes' walk away. Buses 100 and 300
+      stop at Lustgarten, right in front. Hackescher Markt S-Bahn station (S3,
+      S5, S7, S9) is about ten minutes' walk across the Spree.
+  - q: How long should I spend at Berlin Cathedral?
+    a: >-
+      Allow one and a half to two hours to see the Sermon Church, climb the 270
+      steps to the dome walkway and walk through the Hohenzollern crypt.
+  - q: What are the opening hours?
+    a: >-
+      Monday to Friday 9am–6pm, Saturday 9am–5pm and Sunday 12pm–5pm. Services
+      and concerts can close parts of the building, so check the official
+      calendar before you go.
+  - q: Is the dome climb hard?
+    a: >-
+      It is 270 steps on a staircase that gets narrow in places, with no lift to
+      the top. Most reasonably fit visitors manage it in 20 to 30 minutes,
+      including the walk around the outside of the dome.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-05'
 ---
 
 ## A green dome over the Lustgarten

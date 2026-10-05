@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: koh-tao-mae-haad-pier
-srcHash: '07e083d751a1'
+srcHash: '7589e92821d4'
 title: 'Muelle de Mae Haad: guía de viaje de Koh Tao (4.1★)'
-description: 'En la aldea de Mae Haad, en la costa oeste de Koh Tao, se encuentra el muelle de Mae Haad, principal terminal de ferris de la isla, con catamaranes y barcos nocturnos hacia Chumphon, Surat Thani, Koh Phangan y Koh Samui. 4.1★ (2,850 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En la aldea de Mae Haad, en la costa oeste de Koh Tao, se encuentra el muelle de Mae Haad, principal terminal de ferris de la isla, con catamaranes y barcos nocturnos hacia Chumphon, Surat Thani, Koh Phangan y Koh Samui. 4.1★ (2,858 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El muelle de Mae Haad (Mae Haad Pier) es la principal terminal de ferris de Koh Tao. Se encuentra en la aldea de Mae Haad, en la costa oeste de la isla, y desde allí salen catamaranes y barcos nocturnos hacia Chumphon, Surat Thani, Koh Phangan y Koh Samui. Permanece abierto las 24 horas, aunque los fines de semana entre las 8am y las 9pm se registra la mayor afluencia, de modo que conviene reservar tiempo adicional si se llega o se parte en esa franja.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el muelle de Mae Haad?

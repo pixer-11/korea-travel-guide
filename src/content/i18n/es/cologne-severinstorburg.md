@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: cologne-severinstorburg
-srcHash: '4ec4b95e6ce9'
+srcHash: 'bba3be0dbcd8'
 title: 'Severinstorburg: guía de viaje de Colonia (4.5★)'
-description: En la Chlodwigplatz del Südstadt de Colonia, donde termina la Severinstraße por el sur, se alza la Severinstorburg, una puerta medieval de la ciudad. Con 4.5★ (1,209 reseñas), reunimos aquí las opiniones de los visitantes, los horarios y algunos consejos.
+description: En la Chlodwigplatz del Südstadt de Colonia, donde termina la Severinstraße por el sur, se alza la Severinstorburg, una puerta medieval de la ciudad. Con 4.5★ (1,210 reseñas), reunimos aquí las opiniones de los visitantes, los horarios y algunos consejos.
 quickAnswer: En la Chlodwigplatz, en pleno Südstadt de Colonia y al final sur de la Severinstraße, se levanta la Severinstorburg, una puerta medieval de la ciudad. Es una de las tres únicas que quedan del antiguo cinturón de fortificaciones. El exterior puede contemplarse a cualquier hora; el interior, en cambio, se reserva casi siempre para eventos privados, así que conviene informarse antes de contar con poder entrar.
 faq:
   - q: ¿Cómo se llega a la Severinstorburg en transporte público?

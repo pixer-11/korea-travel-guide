@@ -1,40 +1,47 @@
 ---
-title: "Mae Haad Pier: Koh Tao Travel Guide (4.1★)"
-description: "Mae Haad Pier is the main ferry terminal on Koh Tao, sitting in Mae Haad village on the island's west coast, where catamarans and night boats connect to Chumphon, Surat Thani, Koh Phangan and Koh Samui. 4.1★ (2,850 reviews) — what visitors say, hours, and tips."
-country: "Thailand"
-region: "Koh Tao"
-category: "hidden-gem"
-pubDate: "2026-09-29T07:51:51.312Z"
+title: 'Mae Haad Pier: Koh Tao Travel Guide (4.1★)'
+description: >-
+  Mae Haad Pier is the main ferry terminal on Koh Tao, sitting in Mae Haad
+  village on the island's west coast, where catamarans and night boats connect
+  to Chumphon, Surat Thani, Koh Phangan and Koh Samui. 4.1★ (2,858 reviews) —
+  what visitors say, hours, and tips.
+country: Thailand
+region: Koh Tao
+category: hidden-gem
+pubDate: '2026-09-29T07:51:51.312Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/3/3d/Haven_op_koh_tao-mae_haad_bay_-_panoramio.jpg"
-  credit: "Photo: Dirk Enthoven / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Haven_op_koh_tao-mae_haad_bay_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/3/3d/Haven_op_koh_tao-mae_haad_bay_-_panoramio.jpg
+  credit: 'Photo: Dirk Enthoven / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Haven_op_koh_tao-mae_haad_bay_-_panoramio.jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJFZTTJ46hVTAR0VfvlZxfc2A"
-  name: "Mae Haad Pier"
-  address: "3RMF+WP6, Ko Tao, Ko Pha-ngan District, Surat Thani 84280, Thailand"
+  id: ChIJFZTTJ46hVTAR0VfvlZxfc2A
+  name: Mae Haad Pier
+  address: '3RMF+WP6, Ko Tao, Ko Pha-ngan District, Surat Thani 84280, Thailand'
   rating: 4.1
-  userRatingsTotal: 2850
-  googleMapsUrl: "https://maps.google.com/?cid=6950003776097834961&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2858
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6950003776097834961&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 10.0847945
   lng: 99.8242748
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-09-29
+    updated: 2026-09-29T00:00:00.000Z
     weekdayBusy:
       - 8
       - 9
@@ -63,24 +70,48 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_41326366785a6c76665630524154566836344a54545a464a496843"
+    venueId: ven_41326366785a6c76665630524154566836344a54545a464a496843
 tags:
-  - "koh tao"
-  - "old quarter"
-quickAnswer: "Mae Haad Pier is the main ferry terminal on Koh Tao, sitting in Mae Haad village on the island's west coast, where catamarans and night boats connect to Chumphon, Surat Thani, Koh Phangan and Koh Samui. The pier is open 24 hours, but weekends between 8am and 9pm are the busiest stretch, so allow extra time if you're arriving or leaving then."
+  - koh tao
+  - old quarter
+quickAnswer: >-
+  Mae Haad Pier is the main ferry terminal on Koh Tao, sitting in Mae Haad
+  village on the island's west coast, where catamarans and night boats connect
+  to Chumphon, Surat Thani, Koh Phangan and Koh Samui. The pier is open 24
+  hours, but weekends between 8am and 9pm are the busiest stretch, so allow
+  extra time if you're arriving or leaving then.
 faq:
-  - q: "When is the quietest time to visit Mae Haad Pier?"
-    a: "The busiest period is weekends from 8am to 9pm, so avoid that window if you can. Weekdays, and the gaps between the main ferry departures, are calmer. The pier is open 24 hours."
-  - q: "Which ferries leave from Mae Haad Pier?"
-    a: "High-speed catamarans run from Mae Haad to Chumphon on the mainland, Koh Phangan, Koh Samui and Surat Thani, and there are slower overnight boats to the mainland. Lomprayah and Seatran Discovery have offices by the pier. Check current timetables with the operator, because they change with the season and sea conditions."
-  - q: "How do I get from Mae Haad Pier to Sairee Beach?"
-    a: "Sairee is just north of Mae Haad village. You can walk it with light luggage, or take one of the pickup taxis waiting at the pier. Agree the fare before you get in."
-  - q: "How early should I arrive for my ferry?"
-    a: "Arrive well before departure, and allow more time on weekends between 8am and 9pm, when lines at the offices are longest. You need to swap your voucher for a boarding pass or sticker and drop off your luggage before you board."
-  - q: "Can I stay near the pier?"
-    a: "Yes. Mae Haad village has accommodation, restaurants, dive shops, ATMs and convenience stores within a short walk of the jetty. It's a practical base if you have an early boat."
+  - q: When is the quietest time to visit Mae Haad Pier?
+    a: >-
+      The busiest period is weekends from 8am to 9pm, so avoid that window if
+      you can. Weekdays, and the gaps between the main ferry departures, are
+      calmer. The pier is open 24 hours.
+  - q: Which ferries leave from Mae Haad Pier?
+    a: >-
+      High-speed catamarans run from Mae Haad to Chumphon on the mainland, Koh
+      Phangan, Koh Samui and Surat Thani, and there are slower overnight boats
+      to the mainland. Lomprayah and Seatran Discovery have offices by the pier.
+      Check current timetables with the operator, because they change with the
+      season and sea conditions.
+  - q: How do I get from Mae Haad Pier to Sairee Beach?
+    a: >-
+      Sairee is just north of Mae Haad village. You can walk it with light
+      luggage, or take one of the pickup taxis waiting at the pier. Agree the
+      fare before you get in.
+  - q: How early should I arrive for my ferry?
+    a: >-
+      Arrive well before departure, and allow more time on weekends between 8am
+      and 9pm, when lines at the offices are longest. You need to swap your
+      voucher for a boarding pass or sticker and drop off your luggage before
+      you board.
+  - q: Can I stay near the pier?
+    a: >-
+      Yes. Mae Haad village has accommodation, restaurants, dive shops, ATMs and
+      convenience stores within a short walk of the jetty. It's a practical base
+      if you have an early boat.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-05'
 ---
 
 Nearly everyone's time on Koh Tao begins and ends on this concrete jetty. It pushes out from Mae Haad village into the Gulf of Thailand, and big catamarans pull in alongside it. Passengers come down the gangway two at a time while crew pass bags hand to hand onto the boards. Behind you there's a short strip of ticket offices, dive shops and pickup taxis, all squeezed between the water and the island's hills.

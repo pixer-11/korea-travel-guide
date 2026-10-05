@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: dusseldorf-kaiserpfalz-kaiserswerth
-srcHash: '6fbae5e14cd5'
+srcHash: '2265c2adeb1f'
 title: 'Kaiserpfalz Kaiserswerth: guía de viaje de Düsseldorf (4.6★)'
-description: En el barrio de Kaiserswerth, al norte de Düsseldorf, se alzan a orillas del Rin las ruinas de la Kaiserpfalz, un palacio imperial del siglo XII situado a una media hora del centro en el Stadtbahn U79. Con una valoración de 4.6★ (3,492 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
+description: En el barrio de Kaiserswerth, al norte de Düsseldorf, se alzan a orillas del Rin las ruinas de la Kaiserpfalz, un palacio imperial del siglo XII situado a una media hora del centro en el Stadtbahn U79. Con una valoración de 4.6★ (3,493 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: A orillas del Rin, en el barrio de Kaiserswerth, al norte de Düsseldorf, se conservan las ruinas de la Kaiserpfalz, un palacio imperial del siglo XII. Desde el centro se llega en una media hora con el Stadtbahn U79. Según Google, abre todos los días de 10am a 6pm, pero como el recinto funciona por temporadas, conviene consultar la web del Ayuntamiento de Düsseldorf antes de ir en invierno. Para recorrer solo las ruinas basta con una hora; si además quiere ver el casco antiguo de Kaiserswerth y pasear por la ribera, cuente con media jornada.
 faq:
   - q: ¿Cómo se llega a la Kaiserpfalz Kaiserswerth desde el centro de Düsseldorf?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: berlin-berlin-cathedral
-srcHash: '38c68bef89e0'
+srcHash: '936ed288b3c9'
 title: 'Catedral de Berlín: guía de viaje (4.6★)'
-description: En la Isla de los Museos, en pleno Berlín-Mitte, la Catedral de Berlín (Berliner Dom) se alza sobre el Lustgarten, junto a la estación Museumsinsel de la U5. Con 4.6★ (47,942 reseñas), aquí encontrará la opinión de los visitantes, los horarios y consejos prácticos.
+description: En la Isla de los Museos, en pleno Berlín-Mitte, la Catedral de Berlín (Berliner Dom) se alza sobre el Lustgarten, junto a la estación Museumsinsel de la U5. Con 4.6★ (47,952 reseñas), aquí encontrará la opinión de los visitantes, los horarios y consejos prácticos.
 quickAnswer: La Catedral de Berlín (Berliner Dom) se encuentra en la Isla de los Museos, en el distrito de Berlín-Mitte. Ocupa un lado del Lustgarten, al lado de la estación Museumsinsel de la U5. Con una sola entrada se visitan la iglesia principal y su órgano de 7,269 tubos, la pasarela de la cúpula, a la que se sube por 270 escalones, y la cripta de los Hohenzollern. Conviene ir entre semana de 9am a 11am, o bien el sábado de 9am a 10am. Los fines de semana, entre las 11am y las 5pm, hay más gente que nunca, así que es mejor evitar esa franja.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la Catedral de Berlín?

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: kolkata-bow-barracks
-srcHash: '254e4a0d748a'
+srcHash: 'e1ecd3bebe91'
 title: 加尔各答鲍兵营（Bow Barracks）旅行指南（4.5★）
-description: 鲍兵营位于加尔各答市中心的鲍街（Bow Street），是一片小小的英印裔聚居区，从鲍集市（Bowbazar）和Central地铁站步行几分钟即到。评分4.5★（1,556条评价）。本文汇总游客评价、开放时间和实用贴士。
+description: 鲍兵营位于加尔各答市中心的鲍街（Bow Street），是一片小小的英印裔聚居区，从鲍集市（Bowbazar）和Central地铁站步行几分钟即到。评分4.5★（1,557条评价）。本文汇总游客评价、开放时间和实用贴士。
 quickAnswer: 鲍兵营（Bow Barracks）位于加尔各答市中心的鲍街（Bow Street），是一片小小的英印裔聚居区，从鲍集市（Bowbazar）和Central地铁站步行几分钟即到。这里的一排排红砖楼全天都能进去走走。每天7am至10am最清静；周末1pm至11pm人最多；最热闹的则是圣诞周。
 faq:
   - q: 怎样去鲍兵营？

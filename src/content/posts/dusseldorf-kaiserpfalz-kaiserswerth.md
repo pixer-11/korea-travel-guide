@@ -1,59 +1,91 @@
 ---
-title: "Kaiserpfalz Kaiserswerth: Düsseldorf Travel Guide (4.6★)"
-description: "Kaiserpfalz Kaiserswerth is the ruin of a 12th-century imperial palace on the Rhine in Düsseldorf's northern Kaiserswerth district, about half an hour from the centre on the U79 Stadtbahn. 4.6★ (3,492 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Düsseldorf"
-category: "attraction"
-pubDate: "2026-10-05T07:46:05.733Z"
+title: 'Kaiserpfalz Kaiserswerth: Düsseldorf Travel Guide (4.6★)'
+description: >-
+  Kaiserpfalz Kaiserswerth is the ruin of a 12th-century imperial palace on the
+  Rhine in Düsseldorf's northern Kaiserswerth district, about half an hour from
+  the centre on the U79 Stadtbahn. 4.6★ (3,493 reviews) — what visitors say,
+  hours, and tips.
+country: Germany
+region: Düsseldorf
+category: attraction
+pubDate: '2026-10-05T07:46:05.733Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/1/14/Panopfalz-innen.jpg"
-  credit: "Photo: Ger1axg / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Panopfalz-innen.jpg"
+  url: 'https://upload.wikimedia.org/wikipedia/commons/1/14/Panopfalz-innen.jpg'
+  credit: 'Photo: Ger1axg / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Panopfalz-innen.jpg'
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kaiserpfalz-Kaiserswerth-2020-02.jpg/3840px-Kaiserpfalz-Kaiserswerth-2020-02.jpg"
-    credit: "Photo: Tuxyso / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Kaiserpfalz-Kaiserswerth-2020-02.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kaiserpfalz-Kaiserswerth-2020-02.jpg/3840px-Kaiserpfalz-Kaiserswerth-2020-02.jpg
+    credit: 'Photo: Tuxyso / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Kaiserpfalz-Kaiserswerth-2020-02.jpg
 place:
-  id: "ChIJV8j3ob23uEcRjZYNCRp04lM"
-  name: "Kaiserpfalz Kaiserswerth"
-  address: "Burgallee, 40489 Düsseldorf, Germany"
+  id: ChIJV8j3ob23uEcRjZYNCRp04lM
+  name: Kaiserpfalz Kaiserswerth
+  address: 'Burgallee, 40489 Düsseldorf, Germany'
   rating: 4.6
-  userRatingsTotal: 3492
-  googleMapsUrl: "https://maps.google.com/?cid=6044521305054484109&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3493
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6044521305054484109&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.29943
   lng: 6.731929
-  phone: "+49 211 22973077"
+  phone: +49 211 22973077
   openingHours:
-    - "Monday: 10:00 AM – 6:00 PM"
-    - "Tuesday: 10:00 AM – 6:00 PM"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: 10:00 AM – 6:00 PM'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
 tags:
-  - "düsseldorf"
-  - "historic site"
-quickAnswer: "Kaiserpfalz Kaiserswerth is the ruin of a 12th-century imperial palace on the Rhine in Düsseldorf's northern Kaiserswerth district, about half an hour from the centre on the U79 Stadtbahn. Google lists it as open 10am to 6pm every day, but it is a seasonal site, so check the City of Düsseldorf's website before a winter visit. Allow an hour for the ruin itself, or half a day with Kaiserswerth's old village and the riverbank."
+  - düsseldorf
+  - historic site
+quickAnswer: >-
+  Kaiserpfalz Kaiserswerth is the ruin of a 12th-century imperial palace on the
+  Rhine in Düsseldorf's northern Kaiserswerth district, about half an hour from
+  the centre on the U79 Stadtbahn. Google lists it as open 10am to 6pm every
+  day, but it is a seasonal site, so check the City of Düsseldorf's website
+  before a winter visit. Allow an hour for the ruin itself, or half a day with
+  Kaiserswerth's old village and the riverbank.
 faq:
-  - q: "How do I get to Kaiserpfalz Kaiserswerth from central Düsseldorf?"
-    a: "Take the U79 Stadtbahn from the Hauptbahnhof or Heinrich-Heine-Allee towards Duisburg and get off at Klemensplatz or Kaiserswerth, roughly 30 minutes. Then walk west through the old village to the river and Burgallee."
-  - q: "What are the opening hours?"
-    a: "Google lists 10am to 6pm every day of the week. It is a seasonal site, though, so check the City of Düsseldorf's website before visiting in the colder months."
-  - q: "How long should I spend there?"
-    a: "Around an hour covers the ruin. Add the Kaiserswerther Markt, the Basilica of St. Suitbertus and a stroll on the Rhine and you have a comfortable half day."
-  - q: "Is it suitable for children or visitors with limited mobility?"
-    a: "Children usually love clambering through it, but the paths are uneven with irregular steps and few railings, so keep little ones close. Wheelchair access inside the ruin is limited, though the riverside path outside is flat."
-  - q: "What else is nearby?"
-    a: "The Basilica of St. Suitbertus with the shrine of Saint Suitbert, the historic Kaiserswerther Markt, the Kaiserswerther Diakonie where Florence Nightingale trained, and the small Rhine ferry across to Langst in Meerbusch."
+  - q: How do I get to Kaiserpfalz Kaiserswerth from central Düsseldorf?
+    a: >-
+      Take the U79 Stadtbahn from the Hauptbahnhof or Heinrich-Heine-Allee
+      towards Duisburg and get off at Klemensplatz or Kaiserswerth, roughly 30
+      minutes. Then walk west through the old village to the river and
+      Burgallee.
+  - q: What are the opening hours?
+    a: >-
+      Google lists 10am to 6pm every day of the week. It is a seasonal site,
+      though, so check the City of Düsseldorf's website before visiting in the
+      colder months.
+  - q: How long should I spend there?
+    a: >-
+      Around an hour covers the ruin. Add the Kaiserswerther Markt, the Basilica
+      of St. Suitbertus and a stroll on the Rhine and you have a comfortable
+      half day.
+  - q: Is it suitable for children or visitors with limited mobility?
+    a: >-
+      Children usually love clambering through it, but the paths are uneven with
+      irregular steps and few railings, so keep little ones close. Wheelchair
+      access inside the ruin is limited, though the riverside path outside is
+      flat.
+  - q: What else is nearby?
+    a: >-
+      The Basilica of St. Suitbertus with the shrine of Saint Suitbert, the
+      historic Kaiserswerther Markt, the Kaiserswerther Diakonie where Florence
+      Nightingale trained, and the small Rhine ferry across to Langst in
+      Meerbusch.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-05'
 ---
 
 ## Black stone at the water's edge

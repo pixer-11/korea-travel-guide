@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: leipzig-auerbachs-keller
-srcHash: '1222e6c99cec'
+srcHash: '9af00ce9c66f'
 title: 'Auerbachs Keller: dónde comer en Leipzig (4.4★)'
-description: 'Bajo el pasaje Mädler-Passage, en la Grimmaische Straße y a pocos pasos del Markt, se encuentra Auerbachs Keller, restaurante sajón en una bodega del centro de Leipzig. 4.4★ (10,150 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Bajo el pasaje Mädler-Passage, en la Grimmaische Straße y a pocos pasos del Markt, se encuentra Auerbachs Keller, restaurante sajón en una bodega del centro de Leipzig. 4.4★ (10,164 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En pleno centro de Leipzig, a pocos pasos del Markt, Auerbachs Keller ocupa una bodega bajo el pasaje Mädler-Passage, en la Grimmaische Straße, y sirve cocina sajona. Su mayor fama le viene de ser la taberna que Goethe incluyó en el Fausto. Si busca una mesa tranquila, lo ideal es ir entre semana de 9pm a 11pm. Conviene evitar los fines de semana entre las 12pm y las 8pm, y no olvide que los martes y los miércoles no abre hasta las 5pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Auerbachs Keller?

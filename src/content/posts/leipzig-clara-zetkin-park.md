@@ -1,44 +1,53 @@
 ---
-title: "Clara-Zetkin-Park: Leipzig Travel Guide (4.7★)"
-description: "Clara-Zetkin-Park is Leipzig's big central park, an easy walk south-west of the Innenstadt between the Südvorstadt and Schleußig neighbourhoods, open 24 hours with free entry. 4.7★ (10,027 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Leipzig"
-category: "attraction"
-pubDate: "2026-10-05T07:49:38.890Z"
+title: 'Clara-Zetkin-Park: Leipzig Travel Guide (4.7★)'
+description: >-
+  Clara-Zetkin-Park is Leipzig's big central park, an easy walk south-west of
+  the Innenstadt between the Südvorstadt and Schleußig neighbourhoods, open 24
+  hours with free entry. 4.7★ (10,029 reviews) — what visitors say, hours, and
+  tips.
+country: Germany
+region: Leipzig
+category: attraction
+pubDate: '2026-10-05T07:49:38.890Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/%2820211027%29_Clara_Zetkin_Park_Leipzig_02.jpg/3840px-%2820211027%29_Clara_Zetkin_Park_Leipzig_02.jpg"
-  credit: "Photo: Roy Zuo / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:(20211027)_Clara_Zetkin_Park_Leipzig_02.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/%2820211027%29_Clara_Zetkin_Park_Leipzig_02.jpg/3840px-%2820211027%29_Clara_Zetkin_Park_Leipzig_02.jpg
+  credit: 'Photo: Roy Zuo / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:(20211027)_Clara_Zetkin_Park_Leipzig_02.jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Leipzig_-_Clara-Zetkin-Park_ost_09_ies.jpg/3840px-Leipzig_-_Clara-Zetkin-Park_ost_09_ies.jpg"
-    credit: "Photo: Frank Vincentz / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Leipzig_-_Clara-Zetkin-Park_ost_09_ies.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Leipzig_-_Clara-Zetkin-Park_ost_09_ies.jpg/3840px-Leipzig_-_Clara-Zetkin-Park_ost_09_ies.jpg
+    credit: 'Photo: Frank Vincentz / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Leipzig_-_Clara-Zetkin-Park_ost_09_ies.jpg
 place:
-  id: "ChIJvakDS51LqEcRtPCPIKTj_Is"
-  name: "Clara-Zetkin-Park"
-  address: "Mitte, 04107 Leipzig, Germany"
+  id: ChIJvakDS51LqEcRtPCPIKTj_Is
+  name: Clara-Zetkin-Park
+  address: 'Mitte, 04107 Leipzig, Germany'
   rating: 4.7
-  userRatingsTotal: 10027
-  googleMapsUrl: "https://maps.google.com/?cid=10087187559463514292&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 10029
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10087187559463514292&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.3303921
   lng: 12.359057
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-10-05
+    updated: 2026-10-05T00:00:00.000Z
     weekdayBusy:
       - 15
       - 16
@@ -57,24 +66,46 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_73495f6a544b4950435074526345714c313553446b61764a496843"
+    venueId: ven_73495f6a544b4950435074526345714c313553446b61764a496843
 tags:
-  - "leipzig"
-  - "park"
-quickAnswer: "Clara-Zetkin-Park is Leipzig's big central park, an easy walk south-west of the Innenstadt between the Südvorstadt and Schleußig neighbourhoods, open 24 hours with free entry. It has woodland paths, a historic bandstand for summer concerts, an open-air café and a Schubert monument. Weekends are busiest from 11am to 8pm, so come before 11am or after 8pm if you want the lawns to yourself."
+  - leipzig
+  - park
+quickAnswer: >-
+  Clara-Zetkin-Park is Leipzig's big central park, an easy walk south-west of
+  the Innenstadt between the Südvorstadt and Schleußig neighbourhoods, open 24
+  hours with free entry. It has woodland paths, a historic bandstand for summer
+  concerts, an open-air café and a Schubert monument. Weekends are busiest from
+  11am to 8pm, so come before 11am or after 8pm if you want the lawns to
+  yourself.
 faq:
-  - q: "When is the quietest time to visit Clara-Zetkin-Park?"
-    a: "Weekend crowd data shows the busiest period is 11am–8pm. The quiet weekend window is listed as 7am–11pm, so go before 11am or after 8pm for the calmest experience. No weekday data is available."
-  - q: "How do I get to Clara-Zetkin-Park from Leipzig city centre?"
-    a: "Walk south-west from the Neues Rathaus through Johannapark, which takes roughly 15 to 20 minutes. You can also take tram 10 or 11 along Karl-Liebknecht-Straße and walk west into the park."
-  - q: "Is Clara-Zetkin-Park open at night?"
-    a: "Yes. The park is listed as open 24 hours every day, and summer evenings at the Sachsenbrücke are popular."
-  - q: "How long should I spend in the park?"
-    a: "One to two hours covers a loop along Anton-Bruckner-Allee past the bandstand, the Schubert monument and the café. Give it longer if you want a picnic or an evening at the Sachsenbrücke."
-  - q: "What is there to do nearby?"
-    a: "Johannapark adjoins the north end and leads back to the Neues Rathaus. The Südvorstadt's Karl-Liebknecht-Straße to the east has bars and restaurants, Schleußig lies across the flood channel to the west, and the Scheibenholz racecourse is on the southern edge."
+  - q: When is the quietest time to visit Clara-Zetkin-Park?
+    a: >-
+      Weekend crowd data shows the busiest period is 11am–8pm. The quiet weekend
+      window is listed as 7am–11pm, so go before 11am or after 8pm for the
+      calmest experience. No weekday data is available.
+  - q: How do I get to Clara-Zetkin-Park from Leipzig city centre?
+    a: >-
+      Walk south-west from the Neues Rathaus through Johannapark, which takes
+      roughly 15 to 20 minutes. You can also take tram 10 or 11 along
+      Karl-Liebknecht-Straße and walk west into the park.
+  - q: Is Clara-Zetkin-Park open at night?
+    a: >-
+      Yes. The park is listed as open 24 hours every day, and summer evenings at
+      the Sachsenbrücke are popular.
+  - q: How long should I spend in the park?
+    a: >-
+      One to two hours covers a loop along Anton-Bruckner-Allee past the
+      bandstand, the Schubert monument and the café. Give it longer if you want
+      a picnic or an evening at the Sachsenbrücke.
+  - q: What is there to do nearby?
+    a: >-
+      Johannapark adjoins the north end and leads back to the Neues Rathaus. The
+      Südvorstadt's Karl-Liebknecht-Straße to the east has bars and restaurants,
+      Schleußig lies across the flood channel to the west, and the Scheibenholz
+      racecourse is on the southern edge.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-05'
 ---
 
 Leipzig's centre is ringed by trams and traffic. Walk south-west for a quarter of an hour, though, and the city gives way to old trees, wide lawns and slow water. Clara-Zetkin-Park is where the city spends its free time: joggers on the gravel loops, students on blankets, families heading for the bandstand. It is open around the clock and costs nothing to enter.

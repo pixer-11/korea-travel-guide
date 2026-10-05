@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: leipzig-augustiner-am-markt
-srcHash: '69477b2a1d09'
+srcHash: '57d0f80a6509'
 title: 'Augustiner Am Markt: dónde comer en Leipzig (4.3★)'
-description: En plena plaza del Mercado de Leipzig, frente al Antiguo Ayuntamiento, el restaurante bávaro Augustiner Am Markt (Markt 5-6) sirve salchichas, tablas de fiambres, cerveza y bollería. Con una valoración de 4.3★ (5,310 reseñas), recogemos aquí la opinión de los visitantes, el horario y algunos consejos.
+description: En plena plaza del Mercado de Leipzig, frente al Antiguo Ayuntamiento, el restaurante bávaro Augustiner Am Markt (Markt 5-6) sirve salchichas, tablas de fiambres, cerveza y bollería. Con una valoración de 4.3★ (5,318 reseñas), recogemos aquí la opinión de los visitantes, el horario y algunos consejos.
 quickAnswer: En plena plaza del Mercado de Leipzig, frente al Antiguo Ayuntamiento, se encuentra el Augustiner Am Markt (Markt 5-6). Este restaurante bávaro sirve salchichas, tablas de fiambres, cerveza y bollería. Abre todos los días de 10am a medianoche. Los días laborables, entre las 10am y las 12pm, es cuando hay más tranquilidad. Conviene evitar los fines de semana entre la 1pm y las 10pm, que es cuando más gente acude.
 faq:
   - q: ¿A qué hora hay menos gente en el Augustiner Am Markt?
