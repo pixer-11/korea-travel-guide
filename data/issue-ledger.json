@@ -1,17 +1,5 @@
 {
-  "validate-content": {
-    "ENDED-EVENT-ADVICE kuala-lumpur-kuala-lumpur-standard-chartered-marathon.md": {
-      "since": "2026-10-05",
-      "last": "2026-10-05",
-      "seen": 1
-    }
-  },
-  "audit-translations": {
-    "broken-bold posts/zh/hobart-mona.md": {
-      "since": "2026-10-05",
-      "last": "2026-10-05",
-      "seen": 1
-    }
-  },
+  "validate-content": {},
+  "audit-translations": {},
   "audit-hours-claims": {}
 }
