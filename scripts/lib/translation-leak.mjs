@@ -106,3 +106,16 @@ export function scriptGlue(lang, text) {
   }
   return out;
 }
+
+// An FAQ question the translator left in English while translating its answer
+// (2026-10-05: ten posts). ko/ja/zh: no Hangul, kana or Han at all. es: the
+// question is the source question verbatim.
+export function untranslatedQuestion(lang, q, srcQ) {
+  const s = String(q ?? '').trim();
+  if (!s) return false;
+  if (lang === 'ko') return !/[가-힣]/.test(s);
+  if (lang === 'ja') return !/[ぁ-んァ-ヶ一-鿿]/.test(s);
+  if (lang === 'zh') return !/[一-鿿]/.test(s);
+  if (lang === 'es') return !!srcQ && s === String(srcQ).trim();
+  return false;
+}

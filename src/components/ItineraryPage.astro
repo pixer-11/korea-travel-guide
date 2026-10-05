@@ -922,8 +922,11 @@ const coverImage = mosaic[0]?.src;
   .itin-save-hint a { color: var(--accent); font-weight: 700; text-decoration: none; }
   .itin-save-hint a:hover { text-decoration: underline; }
 
+  /* Under the sticky site header (z-index 50, 65px measured), not behind it: at top 0
+     the Day buttons slid beneath the header and could not be clicked once the
+     page scrolled (2026-10-05 audit). The day sections clear both bars. */
   .itin-day-nav {
-    position: sticky; top: 0; z-index: 20; display: flex; gap: 0.4rem; flex-wrap: wrap;
+    position: sticky; top: 65px; z-index: 20; display: flex; gap: 0.4rem; flex-wrap: wrap;
     margin: 1.2rem 0; padding: 0.6rem 0.2rem; background: color-mix(in srgb, var(--surface) 92%, transparent);
     backdrop-filter: blur(6px); border-bottom: 1px solid var(--line-soft);
   }
@@ -933,7 +936,8 @@ const coverImage = mosaic[0]?.src;
   }
   .itin-day-nav a:hover, .itin-day-nav a:focus-visible { background: var(--accent-fill); color: #fff; border-color: var(--accent-fill); }
 
-  .itin-day { margin: 2.2rem 0; scroll-margin-top: 4.5rem; }
+  .itin-day { margin: 2.2rem 0; scroll-margin-top: calc(65px + 4rem); }
+  @media (max-width: 640px) { .itin-day { scroll-margin-top: calc(65px + 7.5rem); } } /* the bar wraps to two rows */
   .itin-day-title { font-family: var(--font-display); margin-bottom: 0.3rem; }
   .itin-day-date { font-family: var(--font-body); font-weight: 500; font-size: 0.62em; color: var(--ink-soft); }
   .itin-day-intro { color: var(--ink-soft); margin-bottom: 1.2rem; max-width: 68ch; }

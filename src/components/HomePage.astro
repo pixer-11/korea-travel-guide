@@ -1040,4 +1040,22 @@ const editorCountries = EDITOR_VISITED.filter((v) => !v.region).length;
     .hv3-stats dt { font-size: 1.25rem; }
     .hv3-stats dd { font-size: 0.72rem; }
   }
+
+  /* Dark mode: the light tints above sit behind text that turns light in dark
+     mode (var(--ink), var(--gold-text)) — "good this month" pills and the
+     verdict line measured 1.06:1 (2026-10-05 audit). Same dark tints and the
+     same double rule (system dark unless forced light; forced dark) as the
+     other redesigned pages. */
+  @media (prefers-color-scheme: dark) {
+    :global(:root:not([data-theme='light'])) .hv3-pill.b-g,
+    :global(:root:not([data-theme='light'])) .hv3-verdict.b-g { background: #2b3524; }
+    :global(:root:not([data-theme='light'])) .aff,
+    :global(:root:not([data-theme='light'])) .hv3-c-esim { background: #3a2e1a; }
+    :global(:root:not([data-theme='light'])) .hv3-hol { background: #3a2620; }
+  }
+  :global(:root[data-theme='dark']) .hv3-pill.b-g,
+  :global(:root[data-theme='dark']) .hv3-verdict.b-g { background: #2b3524; }
+  :global(:root[data-theme='dark']) .aff,
+  :global(:root[data-theme='dark']) .hv3-c-esim { background: #3a2e1a; }
+  :global(:root[data-theme='dark']) .hv3-hol { background: #3a2620; }
 </style>

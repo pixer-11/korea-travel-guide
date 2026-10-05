@@ -103,3 +103,14 @@ test('scriptGlue leaves native names with a gloss, quotes, and other languages a
     ['es', 'La playa de Hyeopjae'],
   ]) assert.deepEqual(scriptGlue(lang, s), [], `${lang}: ${s}`);
 });
+
+test('untranslatedQuestion: an English FAQ question beside a translated answer', async () => {
+  const { untranslatedQuestion } = await import('./translation-leak.mjs');
+  assert.equal(untranslatedQuestion('zh', 'Do I need a reservation at The Pink Door?'), true);
+  assert.equal(untranslatedQuestion('zh', '需要提前预订The Pink Door吗？'), false);
+  assert.equal(untranslatedQuestion('ko', 'How long should I plan to spend at the museum?'), true);
+  assert.equal(untranslatedQuestion('ko', '박물관에서 얼마나 시간을 잡아야 하나요?'), false);
+  assert.equal(untranslatedQuestion('ja', 'How long does a visit take?'), true);
+  assert.equal(untranslatedQuestion('es', 'How long does a visit take?', 'How long does a visit take?'), true);
+  assert.equal(untranslatedQuestion('es', '¿Cuánto dura la visita?', 'How long does a visit take?'), false);
+});

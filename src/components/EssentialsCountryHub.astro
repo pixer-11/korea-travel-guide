@@ -241,7 +241,7 @@ const cityTone = ['tone-green', 'tone-brown', 'tone-sand'];
     <header class:list={['ess-hero', { 'has-photo': !!heroSrc }]}>
       {heroSrc && <img class="ess-hero-img" src={heroSrc} alt="" style={`object-position:${heroFocus}`} fetchpriority="high" decoding="async" />}
       <div class="ess-hero-body">
-        <nav class="ess-crumbs" aria-label="breadcrumb">
+        <nav class="ess-crumbs" aria-label={t('a11y.breadcrumb')}>
           <a href={localizePath('/', lang)}>{t('post.home')}</a><span aria-hidden="true">·</span>
           <a href={localizePath('/essentials', lang)}>{t('ess.label')}</a><span aria-hidden="true">·</span>
           <strong>{countryLabel}</strong>

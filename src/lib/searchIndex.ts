@@ -8,6 +8,7 @@
 // Each entry keeps the English name as `a` (alias): a reader on /ja/ who types
 // "Kyoto" still lands on /ja/regions/kyoto/, and the localized name is what
 // they see.
+import { postHref } from './postHref';
 import type { Lang } from '../i18n/utils';
 import { localizePath } from '../i18n/utils';
 import { localizePlace } from '../i18n/places';
@@ -59,7 +60,7 @@ export function buildSearchIndex({ lang, posts, countries, translations = [] }: 
       t: shown,
       a: english,
       s: `${L(p.data.region)}, ${L(p.data.country ?? 'South Korea')}`,
-      u: localizePath(`/posts/${p.id}/`, lang),
+      u: postHref(p.id, lang, titleOf, true), // English when this language has no translation yet
       k: p.data.category === 'event' ? 'Event' : 'Guide',
     });
   }

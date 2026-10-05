@@ -62,7 +62,7 @@ const CITY_T = {
 <BaseLayout title={t('trip.title')} description={t('trip.dek')} lang={lang} localized={true} noindex={true}>
   <div class="mt" data-mt data-lang={lang} data-strings={strings} data-dest={localizePath('/destinations', lang)}>
     <div class="wrap">
-      <nav class="mt-crumbs" aria-label="breadcrumb">
+      <nav class="mt-crumbs" aria-label={t('a11y.breadcrumb')}>
         <a href={localizePath('/', lang)}>{t('post.home')}</a><span aria-hidden="true">·</span><span class="mt-here">{t('trip.title')}</span>
       </nav>
 

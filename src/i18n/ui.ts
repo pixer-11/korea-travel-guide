@@ -91,6 +91,7 @@ export const ui = {
     'footer.contact': 'Contact',
     'footer.privacy': 'Privacy',
     'footer.terms': 'Terms',
+    'footer.socialNav': 'Wander Atlas on social media',
 
     'home.tagline': 'Your guide to the world.',
     'home.metaTitle': 'Wander Atlas — Editor-Reviewed Travel Guides with Real Crowd Data',
@@ -758,6 +759,7 @@ export const ui = {
     'footer.contact': '문의하기',
     'footer.privacy': '개인정보처리방침',
     'footer.terms': '이용약관',
+    'footer.socialNav': 'Wander Atlas 소셜 미디어',
 
     'home.tagline': '세계를 여행하는 당신을 위한 안내서.',
     'home.metaTitle': 'Wander Atlas — 혼잡 시간까지 검증한 나라별 여행 가이드',
@@ -1412,6 +1414,7 @@ export const ui = {
     'footer.contact': 'お問い合わせ',
     'footer.privacy': 'プライバシー',
     'footer.terms': '利用規約',
+    'footer.socialNav': 'Wander AtlasのSNS',
 
     'home.tagline': '世界へ旅するあなたのガイド。',
     'home.metaTitle': 'Wander Atlas — 混雑データまで検証した国別旅行ガイド',
@@ -2066,6 +2069,7 @@ export const ui = {
     'footer.contact': 'Contacto',
     'footer.privacy': 'Privacidad',
     'footer.terms': 'Términos',
+    'footer.socialNav': 'Wander Atlas en redes sociales',
 
     'home.tagline': 'Tu guía para descubrir el mundo.',
     'home.metaTitle': 'Wander Atlas — Guías de viaje verificadas con datos reales de afluencia',
@@ -2720,6 +2724,7 @@ export const ui = {
     'footer.contact': '联系我们',
     'footer.privacy': '隐私政策',
     'footer.terms': '使用条款',
+    'footer.socialNav': 'Wander Atlas 社交媒体',
 
     'home.tagline': '带你看世界的旅行指南。',
     'home.metaTitle': 'Wander Atlas — 附真实人流数据的编辑审核旅行指南',

@@ -33,7 +33,7 @@ import { reflow } from '../src/lib/paragraphs.mjs';
 import { koMangledSyllables } from './lib/ko-syllables.mjs';
 // The nightly audit and this write gate judge wrong-language output by the
 // SAME rules — a detector the writer does not consult is a warning, not a gate.
-import { scriptLeakFlags, scriptGlue } from './lib/translation-leak.mjs';
+import { scriptLeakFlags, scriptGlue, untranslatedQuestion } from './lib/translation-leak.mjs';
 import { findToolSpill } from './lib/tool-spill.mjs';
 import { namedIds, translatable } from './lib/translate-scope.mjs';
 import { runBatch, REPLACEMENT_CHAR } from './lib/claude-batch.mjs';
@@ -494,6 +494,14 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1, pre = null
     ((data.faq?.length ?? 0) > 0 &&
      (Array.isArray(out.faq) ? out.faq.filter((f) => f?.q && f?.a).length : 0) < data.faq.length
       ? `faq(${Array.isArray(out.faq) ? out.faq.length : 0}/${data.faq.length})`
+      : null) ??
+    // The QUESTION left in English with a translated answer: the count above
+    // passed, the file got a fresh srcHash, and ten pages served English
+    // questions in the visible FAQ and in FAQPage JSON-LD (2026-10-05 audit).
+    // CJK: a question with no CJK letter is English. es: a question identical
+    // to the source's is untranslated.
+    (Array.isArray(out.faq) && out.faq.some((f, i) => untranslatedQuestion(langCode, f?.q, data.faq?.[i]?.q))
+      ? 'faq(질문이 영어)'
       : null);
   // An ended event that still reads as upcoming. The prompt says this plainly
   // (line ~140) and the model still does it: re-translating 26 such files on

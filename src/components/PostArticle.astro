@@ -906,7 +906,7 @@ const saveExtra = tripExtra(post);
       <div class="book-cta">
         <span class="book-cta-label">{t('post.eventEnded')}</span>
         <div class="book-cta-btns">
-          <a class="book-btn book-btn-primary" href="/events"><Emoji name="admission-tickets" /> {t('post.upcomingEvents')}</a>
+          <a class="book-btn book-btn-primary" href={localizePath('/events/', lang)}><Emoji name="admission-tickets" /> {t('post.upcomingEvents')}</a>
           <a class="book-btn" href="#newsletter"><Emoji name="wrapped-gift" /> {t('post.eventUpdates')}</a>
         </div>
         {/* A finished event is still a crawled page — 90 of them, and events are

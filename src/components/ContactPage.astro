@@ -302,7 +302,7 @@ const bodyOf = (k: Kind) => k.fields.filter(Boolean).map((f) => `${f}\n\n`).join
   .ct-hero { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 32px; align-items: center; }
   .ct-hero h1 { font-family: var(--font-display); font-size: clamp(2.1rem, 4.8vw, 3.1rem); line-height: 1.15; margin: 12px 0; }
   .ct-hero h1 span, .ct-hero h1 em { display: block; }
-  .ct-hero h1 em { font-style: normal; color: var(--ct-brown); }
+  .ct-hero h1 em { font-style: normal; color: var(--brown-text); }
   @media (prefers-color-scheme: dark) { .ct-hero h1 em { color: var(--cta); } }
   .ct-dek { color: var(--ink-soft); line-height: 1.75; margin: 0 0 18px; }
   .ct-mail { display: flex; align-items: center; gap: 10px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-pill); padding: 6px 6px 6px 6px; max-width: 470px; }
@@ -336,7 +336,7 @@ const bodyOf = (k: Kind) => k.fields.filter(Boolean).map((f) => `${f}\n\n`).join
   .ct-how ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
   .ct-how li { display: flex; gap: 10px; align-items: center; font-size: .92rem; }
   .ct-how li i { width: 20px; height: 20px; border-radius: 50%; background: var(--ct-green); display: grid; place-items: center; flex: none; }
-  .ct-more-link { display: inline-block; margin-top: 16px; font-size: .86rem; font-weight: 700; color: var(--ct-brown); text-decoration: none; }
+  .ct-more-link { display: inline-block; margin-top: 16px; font-size: .86rem; font-weight: 700; color: var(--brown-text); text-decoration: none; }
   .ct-draft { background: var(--ct-sand); border-radius: 20px; padding: 18px 20px; display: grid; gap: 8px; }
   .ct-row { display: flex; align-items: center; gap: 10px; margin: 0; font-size: .86rem; flex-wrap: wrap; }
   .ct-row > span { width: 72px; color: var(--muted); flex: none; }

@@ -156,7 +156,7 @@ const jsonLd = {
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 
   <article class="es" data-esim={country.slug}>
-    <nav class="es-crumbs" aria-label="breadcrumb">
+    <nav class="es-crumbs" aria-label={t('a11y.breadcrumb')}>
       <a href={localizePath('/', lang)}>{t('post.home')}</a> · <a href={localizePath('/tools/esim/', lang)}>{t('esim.indexTitle')}</a> · <span>{countryLabel}</span>
     </nav>
 

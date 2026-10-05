@@ -12319,13 +12319,6 @@
   "worst": "1911年建造の白い大理石造りのボザール様式の建物は、まるでワシントンD.C.からそのまま移されてきたかのように佇んでいます。",
   "at": "2026-08-15T03:02:13.426Z"
  },
- "ja/new-orleans-oak-alley-plantation": {
-  "hash": "2b4c3821b539",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "壮麗な正面ポーチからわずか数百メートル先にあるその小屋まで歩くこと自体が、この場所を訪れる意味なのです。",
-  "at": "2026-08-15T03:02:14.810Z"
- },
  "ja/new-orleans-octavia-books": {
   "hash": "31a5b6c0b1a3",
   "score": 1,
@@ -13676,13 +13669,6 @@
   "registerBreak": false,
   "worst": "座ったり体を伸ばしたりできる木陰や小さな芝生",
   "at": "2026-08-15T03:07:35.971Z"
- },
- "ja/sha-tin-ten-thousand-buddhas-monastery": {
-  "hash": "3d4df6536fbe",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "賢く訪れるコツは秘密を探すことではなく、タイミングを見極めることです。",
-  "at": "2026-08-15T03:07:49.585Z"
  },
  "ja/shakhrisabz-ak-saray-palace": {
   "hash": "ca47eddb0071",
@@ -15615,13 +15601,6 @@
   "registerBreak": false,
   "worst": "진짜 담력 시험대라 할 만해서, 사람들은 그 위에 아예 엎드려 유리 너머로 자기 신발을 사진 찍거나, 아예 발조차 딛지 않으려 하기도 합니다.",
   "at": "2026-09-14T14:15:45.712Z"
- },
- "ko/bangkok-national-museum-bangkok": {
-  "hash": "f26f144732b6",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "방콕 국립박물관은 1782년 부왕(副王)을 위해 지어진 \"전궁\"... 이곳은 목적에 맞게 지어진 전시관이 아니라 실제 왕실 건축물",
-  "at": "2026-09-14T15:43:24.429Z"
  },
  "ko/bangkok-piscari": {
   "hash": "066d328ddb70",
@@ -17638,13 +17617,6 @@
   "registerBreak": false,
   "worst": "그라나다 주민들과 재방문객들은 이 티켓 예약이야말로 전체 방문 과정에서 가장 어려운 부분이라는 것을, 걷는 것보다 더 어렵다는 것을 잘 알고 있습니다.",
   "at": "2026-09-14T15:43:09.974Z"
- },
- "ko/granada-parque-de-las-ciencias": {
-  "hash": "a3ddae3ca72c",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "티켓을 사기도 전에 이 건물 자체가 내부에 무엇이 있는지 이미 말해줍니다.",
-  "at": "2026-08-15T06:04:41.248Z"
  },
  "ko/guangzhou-chen-clan-ancestral-hall": {
   "hash": "6155742ce3f1",
@@ -20047,13 +20019,6 @@
   "worst": "말 그대로 그렇습니다.",
   "at": "2026-08-15T02:29:04.036Z"
  },
- "ko/new-york-american-museum-of-natural-history": {
-  "hash": "7a3386310f23",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "그야말로 규모에 압도되는 총체적 경험이라 할 수 있는데, 밀스타인 해양 생물관 천장에 매달린 대왕고래는 길이가 94피트에 달해",
-  "at": "2026-08-15T02:29:05.925Z"
- },
  "ko/new-york-balthazar": {
   "hash": "faf0fbbee910",
   "score": 1,
@@ -21244,13 +21209,6 @@
   "worst": "이 동네는 셰프들이 한국식 소울푸드를 재해석하는 것으로 유명해졌습니다 — 새롭게 변주한 떡볶이, 한우 요리...",
   "at": "2026-08-15T02:35:26.267Z"
  },
- "ko/seoul-london-bagel-museum": {
-  "hash": "daa2d5a02a0d",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "이곳은 서울의 '오픈런' 문화 한가운데 자리하고 있는데, 이는 매일같이 수요가 공급을 앞지르는 매장이 문을 열자마자 달려가는 것을 가리키는 한국식 표현입니다.",
-  "at": "2026-08-15T02:35:28.315Z"
- },
  "ko/seoul-myeongdong-shopping-street": {
   "hash": "d9de34a18d54",
   "score": 1,
@@ -21712,13 +21670,6 @@
   "registerBreak": false,
   "worst": "",
   "at": "2026-08-15T02:38:42.445Z"
- },
- "ko/suzhou-lion-grove-garden": {
-  "hash": "0a678dbb1b07",
-  "score": 1,
-  "registerBreak": true,
-  "worst": "스지린(Lion Grove Garden)에서 모퉁이를 돌면 길이 갑자기 길이 아니게 되는 순간이 온다",
-  "at": "2026-08-15T06:20:44.393Z"
  },
  "ko/suzhou-master-of-the-nets-garden": {
   "hash": "2b4d7f89088f",
@@ -27978,13 +27929,6 @@
   "worst": "没有人会专程为了一面贴满旧口香糖的墙来安排行程,可你现在却站在这里,举着手机,又想笑又觉得有点恶心",
   "at": "2026-08-15T04:12:19.974Z"
  },
- "zh/seattle-the-pink-door": {
-  "hash": "31a6c68b4413",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "这种极繁主义的意大利风情堂馆美学，照理说不该协调，却出奇地和谐",
-  "at": "2026-08-15T04:12:20.103Z"
- },
  "zh/segovia-alcazar-de-segovia": {
   "hash": "b9c3e32d6e8e",
   "score": 1,
@@ -28782,13 +28726,6 @@
   "registerBreak": false,
   "worst": "这里在数万条点评中保持着4.2的高评分，说明即便2018年拍卖迁走之后，它的人气依然不减",
   "at": "2026-08-15T07:06:45.940Z"
- },
- "zh/tokyo-fuglen-tokyo": {
-  "hash": "1c381c8ffd09",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "由于这家店分成白天与夜晚两种截然不同的模式——白天是咖啡馆，夜晚是酒吧——如果时间允许",
-  "at": "2026-08-15T04:17:45.495Z"
  },
  "zh/tokyo-ise-sueyoshi": {
   "hash": "8e6c727e58c0",

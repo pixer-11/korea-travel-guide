@@ -27,6 +27,10 @@
      --accent measures 4.37:1 on the paper background (AA wants 4.5) and --gold
      2.93:1. These two exist ONLY for text; fills keep --accent. */
   --accent-text: #a5352c;
+  /* Brown for TEXT (the 10-01 redesigns' #7a3b1d). Their own --X-brown tokens
+     are also fills behind white text, so they cannot turn light in dark mode;
+     text reads this one instead (2026-10-05 audit: 1.6-2.0:1 on dark). */
+  --brown-text: #7a3b1d;
   --gold-text: #8a6414;
   --line-strong: #b3a689; /* interactive borders — --line is 1.23:1, invisible */
   --accent-soft: #f6e3df;
@@ -92,6 +96,7 @@ html.dark {
     --accent: #e0685c;
     --accent-deep: #c8534a;
     --accent-text: #ef8d80; /* dark bg wants LIGHTER text, not deeper */
+    --brown-text: #eaa57a;
     --gold-text: #d6ab5c;   /* passes on the dark background as-is */
     --line-strong: #5c5240;
     --accent-soft: #33221f;
