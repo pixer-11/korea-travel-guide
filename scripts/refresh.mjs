@@ -25,6 +25,7 @@
 //
 //  Runs unattended. Without keys it reports what it would do and exits.
 // ─────────────────────────────────────────────────────────────
+import { isAlwaysVisitable } from './lib/always-visitable.mjs';
 import './lib/env.mjs';
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
@@ -134,7 +135,7 @@ async function main() {
       changed = true;
     }
 
-    if (fresh.businessStatus && fresh.businessStatus !== 'OPERATIONAL' && !parsed.data.draft) {
+    if (fresh.businessStatus && fresh.businessStatus !== 'OPERATIONAL' && !parsed.data.draft && !isAlwaysVisitable(place.id)) {
       parsed.data.draft = true; // auto-unpublish closed venues
       changed = true;
       unpublished++;

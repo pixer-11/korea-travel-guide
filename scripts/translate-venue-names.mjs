@@ -16,6 +16,7 @@
 //
 //   node scripts/translate-venue-names.mjs           # tops up the file
 //   node scripts/translate-venue-names.mjs --dry     # lists what's missing, no API call
+import { thinkingOff } from './lib/thinking.mjs'; // reasoning off for a mechanical call (2026-10-05)
 import './lib/env.mjs';
 import Anthropic from '@anthropic-ai/sdk';
 import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
@@ -117,7 +118,7 @@ const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY, maxRetries
 
 async function translateBatch(batch) {
   const msg = await client.messages.create({
-    model: MODEL, max_tokens: 16000,
+    model: MODEL, ...thinkingOff(MODEL), max_tokens: 16000,
     tools: [TOOL], tool_choice: { type: 'tool', name: 'submit_names' },
     messages: [{ role: 'user', content: promptFor(batch) }],
   });

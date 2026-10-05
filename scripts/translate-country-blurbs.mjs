@@ -10,6 +10,7 @@
 //
 //   node scripts/translate-country-blurbs.mjs           # fill what's missing
 //   node scripts/translate-country-blurbs.mjs --force   # re-translate everything
+import { thinkingOff } from './lib/thinking.mjs'; // reasoning off for a mechanical call (2026-10-05)
 import './lib/env.mjs';
 import Anthropic from '@anthropic-ai/sdk';
 import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
@@ -52,7 +53,7 @@ for (const c of countries) {
 
   try {
     const msg = await client.messages.create({
-      model: MODEL,
+      model: MODEL, ...thinkingOff(MODEL),
       max_tokens: 700,
       tools: [TOOL],
       tool_choice: { type: 'tool', name: 'submit_blurbs' },

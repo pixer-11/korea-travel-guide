@@ -26,6 +26,7 @@
 //
 //  Env: ANTHROPIC_API_KEY. DRY=1, LIMIT (default all), CONCURRENCY (default 4).
 // ─────────────────────────────────────────────────────────────
+import { thinkingOff } from './lib/thinking.mjs'; // reasoning off for a mechanical call (2026-10-05)
 import './lib/env.mjs';
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { join } from 'node:path';
@@ -63,7 +64,7 @@ const submitTool = {
 
 async function askFacts(name, city, country, startDate) {
   const msg = await client.messages.create({
-    model: MODEL,
+    model: MODEL, ...thinkingOff(MODEL),
     // 1600 still truncated 3 of 85 on 2026-08-25 — a few festivals return
     // very long search results. 2400 covers those without inviting waste:
     // the reply is a short tool call, so unused budget costs nothing.

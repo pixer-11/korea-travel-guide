@@ -18,6 +18,7 @@
 // itinerary pages' closed-day warning chips, so they matter more than an
 // arbitrary A-Z sweep reaching them eventually. Only the ORDER changes: skip
 // rules, --limit, and the quota-streak stop are untouched.
+import { isAlwaysVisitable } from './lib/always-visitable.mjs';
 import './lib/env.mjs'; // MUST be first — loads .env before places.mjs reads the API key
 import { editFrontmatter, readFrontmatter, DELETE } from './lib/frontmatter-edit.mjs';
 import { readdir, readFile, writeFile } from 'node:fs/promises';
@@ -234,7 +235,7 @@ async function main() {
     // failure path (429/403/network) exited above, so a transient error can
     // never unpublish anything. The weekly refresh job does the same for posts
     // that already have both fields and therefore never reach this loop.
-    if (raw.businessStatus && raw.businessStatus !== 'OPERATIONAL') {
+    if (raw.businessStatus && raw.businessStatus !== 'OPERATIONAL' && !isAlwaysVisitable(id)) {
       closed++;
       console.log(`  🚫 ${f}: ${raw.businessStatus} — quarantined (draft), not backfilled`);
       if (APPLY && !/^draft:\s*true/m.test(t)) {

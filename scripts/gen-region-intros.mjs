@@ -15,6 +15,7 @@
 //  Env: ANTHROPIC_API_KEY. LIMIT (default all), CONCURRENCY (default 4), DRY=1.
 //  Usage: node scripts/gen-region-intros.mjs
 // ─────────────────────────────────────────────────────────────
+import { thinkingOff } from './lib/thinking.mjs'; // reasoning off for a mechanical call (2026-10-05)
 import './lib/env.mjs';
 import { HOUSE_STYLE } from './lib/prose-style.mjs';
 import { readFile, writeFile, readdir } from 'node:fs/promises';
@@ -71,7 +72,7 @@ const toolArgs = (msg, name) => {
 
 async function genEnglish(region, country) {
   const msg = await client.messages.create({
-    model: MODEL,
+    model: MODEL, ...thinkingOff(MODEL),
     // Same budget lesson as the organizer backfill (2026-08-25).
     max_tokens: 1600,
     tools: [{ type: 'web_search_20250305', name: 'web_search', max_uses: 3 }, submitIntroTool],
@@ -106,7 +107,7 @@ async function genEnglish(region, country) {
 
 async function translateOne(region, en, lang) {
   const msg = await client.messages.create({
-    model: MODEL,
+    model: MODEL, ...thinkingOff(MODEL),
     max_tokens: 1500,
     tools: [submitTranslationTool],
     tool_choice: { type: 'tool', name: 'submit_translation' },

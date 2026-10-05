@@ -13,6 +13,7 @@
 // event is discovered.
 //   node scripts/build-event-names.mjs           # fill in what's missing
 //   node scripts/build-event-names.mjs --force   # redo everything
+import { thinkingOff } from './lib/thinking.mjs'; // reasoning off for a mechanical call (2026-10-05)
 import './lib/env.mjs';
 import Anthropic from '@anthropic-ai/sdk';
 import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
@@ -50,7 +51,7 @@ const TOOL = {
 
 async function translateBatch(langName, names) {
   const msg = await client.messages.create({
-    model: MODEL,
+    model: MODEL, ...thinkingOff(MODEL),
     max_tokens: 2000,
     tools: [TOOL],
     tool_choice: { type: 'tool', name: 'submit_names' },

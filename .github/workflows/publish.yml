@@ -773,7 +773,7 @@ jobs:
           # essentials-topics-i18n / static-pages-i18n: their translators joined
           # this workflow on 2026-09-02; unstaged, a re-translation would be
           # produced every night and dropped every night.
-          git add data/places-budget.json data/topic-yield.json data/visual-audit.json data/translation-quality.json src/content/posts src/content/i18n data/published.json public/wall data/wall.json src/i18n/places.json src/i18n/country-blurbs.json src/i18n/regions.json src/i18n/holidays.json src/content/itineraries src/content/itineraries-i18n data/itineraries-state.json data/logs/itinerary-last-run.txt data/country-facts.json data/essentials-facts.json src/content/essentials src/content/essentials-i18n src/content/essentials-topics-i18n src/content/static-pages-i18n
+          git add data/places-budget.json data/topic-yield.json data/visual-audit.json data/translation-quality.json $( [ -f data/hours-fix-failed.json ] && echo data/hours-fix-failed.json ) src/content/posts src/content/i18n data/published.json public/wall data/wall.json src/i18n/places.json src/i18n/country-blurbs.json src/i18n/regions.json src/i18n/holidays.json src/content/itineraries src/content/itineraries-i18n data/itineraries-state.json data/logs/itinerary-last-run.txt data/country-facts.json data/essentials-facts.json src/content/essentials src/content/essentials-i18n src/content/essentials-topics-i18n src/content/static-pages-i18n
           # Count PUBLISHED and HELD separately. The gate flips a defective new
           # post to draft before this commit, and format-post-list already skips
           # drafts — but this count didn't, so the report said "새 글 6개" over

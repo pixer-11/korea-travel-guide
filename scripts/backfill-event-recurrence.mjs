@@ -16,6 +16,7 @@
 //
 //  Env: ANTHROPIC_API_KEY. DRY=1, LIMIT (default all), CONCURRENCY (default 4).
 // ─────────────────────────────────────────────────────────────
+import { thinkingOff } from './lib/thinking.mjs'; // reasoning off for a mechanical call (2026-10-05)
 import './lib/env.mjs';
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { join } from 'node:path';
@@ -48,7 +49,7 @@ const submitTool = {
 
 async function askRecurrence(name, city, country) {
   const msg = await client.messages.create({
-    model: MODEL,
+    model: MODEL, ...thinkingOff(MODEL),
     // Same budget lesson as the organizer backfill (2026-08-25): a search-backed
     // reply spends most of the allowance before it reaches the tool call.
     max_tokens: 1600,

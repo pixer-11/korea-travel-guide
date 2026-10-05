@@ -97,6 +97,14 @@ POPULARITY: you MUST obey facts.localSignals when it is present:
 
 Submit via the submit_guide tool. Body = GitHub-flavored Markdown. Length and section count follow the SHAPE line in the request (compact / standard / expansive — vary section TITLES too; "Why go", "Getting there", "How to visit like a local" every time is a template smell). ALWAYS include one section of behavioural how-to-visit guidance, titled for this place. No H1 title, no frontmatter, no hero image, no FAQ inside the body (FAQ is a separate field).`;
 
+// The same ~13k characters of instructions (and the tool definition rendered
+// before them) went out at full price on every call — about 60% of each
+// writer request, ~1,900 calls a month, and no cache_control anywhere in the
+// repo (cost review, 2026-10-05). Marked cacheable, the next call within five
+// minutes reads it at a tenth of the price; the text the model sees is
+// unchanged. claude-meter books cache_w/cache_r already.
+const SYSTEM_CACHED = [{ type: 'text', text: SYSTEM, cache_control: { type: 'ephemeral' } }];
+
 const TOOL = {
   name: 'submit_guide',
   description: 'Submit the finished travel guide in structured form.',
@@ -239,7 +247,7 @@ ${JSON.stringify(facts, null, 2)}`;
   let msg = await client.messages.create({
     model: MODEL,
     max_tokens: MAX_TOKENS,
-    system: SYSTEM,
+    system: SYSTEM_CACHED,
     tools: [TOOL],
     tool_choice: TOOL_CHOICE,
     messages: history,
@@ -255,7 +263,7 @@ ${JSON.stringify(facts, null, 2)}`;
       { role: 'user', content: 'Submit that guide by calling the submit_guide tool now. Do not reply with plain text.' },
     ];
     msg = await client.messages.create({
-      model: MODEL, max_tokens: MAX_TOKENS, system: SYSTEM, tools: [TOOL],
+      model: MODEL, max_tokens: MAX_TOKENS, system: SYSTEM_CACHED, tools: [TOOL],
       tool_choice: TOOL_CHOICE,
       messages: history,
     });
@@ -272,7 +280,7 @@ ${JSON.stringify(facts, null, 2)}`;
   if (residue) {
     console.log('  (event draft promises the future: "' + residue + '" - asking for a timeless rewrite)');
     const again = await client.messages.create({
-      model: MODEL, max_tokens: MAX_TOKENS, system: SYSTEM, tools: [TOOL],
+      model: MODEL, max_tokens: MAX_TOKENS, system: SYSTEM_CACHED, tools: [TOOL],
       tool_choice: TOOL_CHOICE,
       messages: timelessRetryMessages(history, msg, toolUse.id, residue),
     });
@@ -291,7 +299,7 @@ ${JSON.stringify(facts, null, 2)}`;
   if (tell) {
     console.log('  (draft uses "' + tell + '" - asking for a plain-words rewrite)');
     const again = await client.messages.create({
-      model: MODEL, max_tokens: MAX_TOKENS, system: SYSTEM, tools: [TOOL],
+      model: MODEL, max_tokens: MAX_TOKENS, system: SYSTEM_CACHED, tools: [TOOL],
       tool_choice: TOOL_CHOICE,
       messages: tellRetryMessages(history, msg, toolUse.id, tell),
     });

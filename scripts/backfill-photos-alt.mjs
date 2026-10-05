@@ -26,6 +26,7 @@
 //  neither), ANTHROPIC_API_KEY (vision), LIMIT (default 300), DRY=1.
 //  Usage: node scripts/backfill-photos-alt.mjs
 // ─────────────────────────────────────────────────────────────
+import { isAlwaysVisitable } from './lib/always-visitable.mjs';
 import './lib/env.mjs';
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { existsSync, readFileSync } from 'node:fs';
@@ -681,7 +682,7 @@ for (const f of files) {
     // rather have one fewer page than send you to a locked door". A better
     // photo is not evidence the doors reopened; only the refresh can say that.
     const closed = wasDraft && !!data.place?.businessStatus
-      && data.place.businessStatus !== 'OPERATIONAL';
+      && data.place.businessStatus !== 'OPERATIONAL' && !isAlwaysVisitable(data.place?.id);
     if (closed) data.heldReason = data.heldReason || 'closed';
     // A post carrying heldFinal is a DECISION someone wrote down — "rated 3.9,
     // under the floor", "the show was cancelled", "no photo of this venue

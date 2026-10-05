@@ -16,6 +16,7 @@
 //
 //  Env: ANTHROPIC_API_KEY. DRY=1, LIMIT (default all), CONCURRENCY (default 4).
 // ─────────────────────────────────────────────────────────────
+import { thinkingOff } from './lib/thinking.mjs'; // reasoning off for a mechanical call (2026-10-05)
 import './lib/env.mjs';
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { join } from 'node:path';
@@ -51,7 +52,7 @@ const REJECT = /wander\s*atlas|unknown|n\/a|not (?:specified|available|found)|va
 
 async function askOrganizer(name, city, country) {
   const msg = await client.messages.create({
-    model: MODEL,
+    model: MODEL, ...thinkingOff(MODEL),
     // 900 truncated 2 of 15 replies on 2026-08-25 — a web_search answer carries
     // the search results into the response budget, so the tool call at the end
     // is what gets cut. Same failure the translation judge had at 600 (08-16).

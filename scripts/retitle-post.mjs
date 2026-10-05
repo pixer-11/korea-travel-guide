@@ -16,6 +16,7 @@
 //    node scripts/retitle-post.mjs --file=retitles.json [--dry]
 //      retitles.json: [{ "slug": "...", "title": "...", "description": "..." }]
 // ─────────────────────────────────────────────────────────────
+import { thinkingOff } from './lib/thinking.mjs'; // reasoning off for a mechanical call (2026-10-05)
 import './lib/env.mjs';
 import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
@@ -43,7 +44,7 @@ const TOOL = {
 
 async function translateFields(lang, title, description, placeName) {
   const msg = await client.messages.create({
-    model: MODEL, max_tokens: 400, tools: [TOOL], tool_choice: { type: 'tool', name: TOOL.name },
+    model: MODEL, ...thinkingOff(MODEL), max_tokens: 400, tools: [TOOL], tool_choice: { type: 'tool', name: TOOL.name },
     messages: [{ role: 'user', content:
 `Translate a travel guide's page TITLE and META DESCRIPTION into ${LANGS[lang]}.
 Rules: natural written ${LANGS[lang]} as a local travel site would phrase it; keep the venue name "${placeName}" recognisable (established local rendering if one exists, otherwise keep it and add the original in parentheses on first mention if a reader would need it to find the place); keep numbers, ratings and the ★ exactly; the title stays one line and under 70 characters where the language allows; the description stays under 160 characters; no added facts, no translator's note.

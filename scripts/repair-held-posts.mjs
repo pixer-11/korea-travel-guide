@@ -20,7 +20,8 @@
 // region — or any other defect — intact, and a dead checker read as "clean".
 //
 //   node scripts/repair-held-posts.mjs           (used by publish.yml, after the gate)
-import { readFileSync, writeFileSync, readdirSync } from 'fs';
+import { readFileSync, writeFileSync, readdirSync, existsSync } from 'fs';
+import { createHash } from 'crypto';
 import { editFrontmatter, readFrontmatter, DELETE } from './lib/frontmatter-edit.mjs';
 import { liveTwinIndex, liveTwinOf, noteLive } from './lib/live-twin.mjs';
 import { isRatingHold, FLOOR, RECOVER } from './lib/rating-floor.mjs';
@@ -155,7 +156,16 @@ if (!before.length) { console.log('수리할 격리 글 없음'); process.exit(0
 console.log(`격리 글 ${before.length}편 수리 시도: ${before.join(', ')}` +
   (healed.length ? ` (영업시간 수리 없이 사유 재검사만 필요: ${healed.join(', ')})` : ''));
 
-if (flagged.length) run(`node scripts/fix-hours-claims.mjs --drafts --only=${flagged.join(',')}`);
+// An hours fix that already failed on this exact file is not retried until the
+// file changes (its body, its hours, anything). Two posts failed the same
+// Claude rewrite twice a day from 10-02 — publish and backfill each paid for
+// it, and each time "수리 후에도 영업시간 모순 남음" (cost review, 2026-10-05).
+const HOURS_MEMO = 'data/hours-fix-failed.json';
+const hoursMemo = (() => { try { return JSON.parse(readFileSync(HOURS_MEMO, 'utf8')); } catch { return {}; } })();
+const fileHash = (slug) => createHash('sha1').update(readFileSync(join(DIR, `${slug}.md`), 'utf8')).digest('hex').slice(0, 16);
+const toFix = flagged.filter((s) => hoursMemo[s] !== fileHash(s));
+if (flagged.length > toFix.length) console.log(`영업시간 수리 생략 ${flagged.length - toFix.length}편 — 같은 내용으로 이미 실패함(${HOURS_MEMO})`);
+if (toFix.length) run(`node scripts/fix-hours-claims.mjs --drafts --only=${toFix.join(',')}`);
 
 // Re-check each recorded reason once, lazily. A result is {still: Set} or
 // {crashed: true}; a crash clears nobody.
@@ -239,12 +249,29 @@ for (const slug of before) {
   console.log(`  ✓ ${slug} — 수리 완료(${toClear.join('+')} 전부 통과), 재발행`);
 }
 
-if (repaired.length) {
+// Remember an hours fix that did not take, keyed to the file as it now is.
+{
+  const still = verdicts.get('hours')?.still;
+  let memoChanged = false;
+  for (const s of flagged) {
+    const failedNow = still ? still.has(s) : !repaired.includes(s);
+    if (failedNow && existsSync(join(DIR, `${s}.md`))) { hoursMemo[s] = fileHash(s); memoChanged = true; }
+    else if (hoursMemo[s]) { delete hoursMemo[s]; memoChanged = true; }
+  }
+  if (memoChanged) writeFileSync(HOURS_MEMO, JSON.stringify(hoursMemo, null, 1) + '\n');
+}
+
+// Only a post whose English the hours fixer REWROTE needs its four
+// translations redone. A post released because its recorded reason re-checked
+// clean has the same prose as its translations — forcing them cost four Opus
+// calls a day on the Tan Teng Niah loop (cost review, 2026-10-05).
+const rewritten = repaired.filter((s) => flagged.includes(s));
+if (rewritten.length) {
   // The English prose changed; the four translations must follow or the fixed
   // sentence ships in one language and the wrong one in four.
-  const targets = repaired.flatMap((s) => ['ko', 'ja', 'es', 'zh'].map((l) => `${l}/${s}`)).join(',');
+  const targets = rewritten.flatMap((s) => ['ko', 'ja', 'es', 'zh'].map((l) => `${l}/${s}`)).join(',');
   run(`node scripts/translate-posts.mjs --force --only=${targets}`);
-  console.log(`번역 4개 언어 갱신: ${repaired.length}편`);
+  console.log(`번역 4개 언어 갱신: ${rewritten.length}편`);
 }
 
 if (twinned.length) {

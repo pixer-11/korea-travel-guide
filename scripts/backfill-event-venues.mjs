@@ -13,6 +13,7 @@
 //
 //  Env: ANTHROPIC_API_KEY. DRY=1, LIMIT, PHOTOLESS=1 (only posts with no hero).
 // ─────────────────────────────────────────────────────────────
+import { thinkingOff } from './lib/thinking.mjs'; // reasoning off for a mechanical call (2026-10-05)
 import './lib/env.mjs';
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { join } from 'node:path';
@@ -43,7 +44,7 @@ const tool = {
 
 async function readVenue(name, city, country, body) {
   const msg = await client.messages.create({
-    model: MODEL, max_tokens: 300, tools: [tool], tool_choice: { type: 'tool', name: 'submit_venue' },
+    model: MODEL, ...thinkingOff(MODEL), max_tokens: 300, tools: [tool], tool_choice: { type: 'tool', name: 'submit_venue' },
     messages: [{ role: 'user', content:
       `Article about the event "${name}" in ${city}, ${country}. Which specific VENUE does the article itself name as where it takes place — a stadium, arena, circuit, park, hall or square? ` +
       `Answer ONLY from the text below. Copy the venue name as written. If the text names no specific venue (only the city, or "various locations"), answer null. Do not guess.\n\n${body.slice(0, 6000)}` }],
