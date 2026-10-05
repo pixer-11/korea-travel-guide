@@ -408,7 +408,7 @@ for (const f of files) {
         });
       } catch {}
       if (!pick?.url || pick.license !== 'wikimedia') break; // placeholder → no candidates left
-      const foreign = foreignInFilename(pick.url, { known: knownTok, anchor, via: pick.via, geo: geoTokens(world), name: properName, acronym: eventAcronym(venueName), performer: data.eventPerformer?.name || '', country: data.country || '' });
+      const foreign = foreignInFilename(pick.url, { known: knownTok, anchor, via: pick.via, geo: geoTokens(world), name: properName, acronym: eventAcronym(venueName), performer: data.eventPerformer?.name || '', country: data.country || '', region: data.region || '' });
       // resolveHero already marked the reject in `seen`, so the next round
       // surfaces a different file rather than this one again.
       if (foreign) { budget.refused(); console.log(`   ${slug}: candidate skipped — filename names another act (${foreign})`); continue; }

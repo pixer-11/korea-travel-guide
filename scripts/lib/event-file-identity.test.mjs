@@ -267,9 +267,9 @@ test('a file that names the performer in full is that act, wherever it was shot'
 // 2026-10-06: 장소에 묶인 행사(마라톤·컵·축제)는 예전 회차는 되지만, 다른 나라의
 // 같은 종류 행사는 다른 행사다. 비전은 "행사 종류"만 봐서 다 통과시켰다.
 test('a place-bound event refuses the same kind of event in another country, and another kind', () => {
-  const v = (title, region, country, file) => foreignInFilename(U(file), {
+  const v = (title, region, country, file, via = 'act') => foreignInFilename(U(file), {
     known: known(title.split(':')[0], region, country), anchor: keyToken(title.split(':')[0], `${region} ${country}`),
-    via: 'act', geo: REAL_GEO, name: eventProperName(title.split(':')[0]), country,
+    via, geo: REAL_GEO, name: eventProperName(title.split(':')[0]), country, region,
   });
   const wrong = [
     ['Florence Marathon: Dates', 'Florence', 'Italy', '2016_London_Marathon_IMGP1634_(27323159926).jpg'],
@@ -287,4 +287,23 @@ test('a place-bound event refuses the same kind of event in another country, and
     ['Evanescence Madrid 2026: Dates', 'Madrid', 'Spain', 'Evanescence at concert in San Petersburg.jpg'],
   ];
   for (const c of right) assert.equal(v(...c), '', c[3]);
+});
+
+// Codex 10-06: 이름 앞에 붙은 고정 지명(부산·항저우) 대신 다른 도시가 있으면 다른 행사,
+// 개최지가 바뀌는 대회의 예전 회차와 도시 표기 없는 예전 회차는 그대로 통과.
+test('a name that leads with its city refuses another city; travelling events and city-less past editions pass', async () => {
+  const { fileNamesPerformer } = await import('./event-file-identity.mjs');
+  const v = (title, region, country, file, via = 'act') => foreignInFilename(U(file), {
+    known: known(title, region, country), anchor: keyToken(title, `${region} ${country}`),
+    via, geo: REAL_GEO, name: eventProperName(title), country, region,
+  });
+  assert.notEqual(v('Busan International Film Festival (BIFF)', 'Busan', 'South Korea', 'Tokyo International Film Festival 2019.jpg', 'phrase'), '');
+  assert.notEqual(v('Hangzhou Marathon', 'Hangzhou', 'China', 'Beijing Marathon 2019.jpg'), '');
+  assert.equal(v('Busan International Film Festival (BIFF)', 'Busan', 'South Korea', 'IU for Broker open talk at Busan International Film Festival.jpg', 'phrase'), '');
+  assert.equal(v('Rugby League World Cup 2026 Final', 'Brisbane', 'Australia', 'Rugby League World Cup 2013 London.jpg'), '');
+  assert.equal(v('Incheon Pentaport Rock Festival 2026', 'Incheon', 'South Korea', '2015 Pentaport Rock Festival.jpg'), '');
+  assert.equal(v('PGL Major Singapore 2026', 'Singapore', 'Singapore', 'PGL CS2 Major Copenhagen 2024 stage - 02.jpg'), '');
+  // 3글자 대문자 가수 이름(BTS)도 가수 이름으로 인정 — 다른 도시 공연 사진 허용
+  assert.equal(fileNamesPerformer(U('BTS_in_Seoul_2019.jpg'), 'BTS'), true);
+  assert.equal(fileNamesPerformer(U('Bts_logo_wall.jpg'), 'bts'), false);
 });

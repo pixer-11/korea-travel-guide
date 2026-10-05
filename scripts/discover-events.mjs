@@ -296,7 +296,7 @@ async function writeDiscovered(item, ctx) {
       allowUnsplash: false,
     });
     if (cat === 'event' && pick?.url && pick.license === 'wikimedia') {
-      const foreign = foreignInFilename(pick.url, { known: knownTok, anchor, via: pick.via, geo: WORLD_GEO, name: eventProperName(item.name), acronym: eventAcronym(item.name), performer: typeof item.performer === 'string' ? item.performer : '', country });
+      const foreign = foreignInFilename(pick.url, { known: knownTok, anchor, via: pick.via, geo: WORLD_GEO, name: eventProperName(item.name), acronym: eventAcronym(item.name), performer: typeof item.performer === 'string' ? item.performer : '', country, region: item.city || '' });
       if (foreign) { console.log(`   ${item.name}: file names another act (${foreign}) — next`); continue; }
     }
     hero = pick;

@@ -174,10 +174,25 @@ export function homeGeoTokens(country) {
   }
   return COUNTRY_GEO.get(country) ?? new Set();
 }
+// The words of every country NAME — a country is not "another city".
+let COUNTRY_NAMES = null;
+function countryNameTokens() {
+  if (!COUNTRY_NAMES) {
+    COUNTRY_NAMES = new Set();
+    try {
+      const w = JSON.parse(readFileSync(join(ROOT_DIR, 'data/countries.json'), 'utf8'));
+      const regionWords = new Set((w.countries || []).flatMap((c) => (c.regions || []).flatMap((r) => tokens(r))));
+      // A city-state is both: "Singapore Standard Chartered Marathon" names a city.
+      for (const c of w.countries || []) for (const t of tokens(c.name)) if (!regionWords.has(t)) COUNTRY_NAMES.add(t);
+    } catch {}
+  }
+  return COUNTRY_NAMES;
+}
 // Place-name tokens too ambiguous to mean "another city": "South entrance of
 // the National Tennis Center" is Beijing, not South Korea.
 const AMBIG_PLACE = new Set(['south', 'north', 'east', 'west', 'new', 'city', 'town', 'san', 'santa', 'saint', 'port', 'bay',
-  'island', 'islands', 'old', 'great', 'little', 'upper', 'lower', 'central', 'kota', 'beach', 'lake', 'mount', 'hill']);
+  'island', 'islands', 'old', 'great', 'little', 'upper', 'lower', 'central', 'kota', 'beach', 'lake', 'mount', 'hill',
+  'international', 'national', 'royal', 'metropolitan', 'grand', 'world', 'asia', 'asian', 'europe', 'european']);
 
 // Words that make a file a different KIND of event when the post's own title
 // lacks them: an ultramarathon is not a dance festival, a wheelchair final is
@@ -203,7 +218,9 @@ export function fileNamesPerformer(url, performer, { singleWord = true } = {}) {
   const words = fileWords(url).filter((t) => !/\d/.test(t));
   if (run.length === 1) {
     const w = run[0];
-    return singleWord && w.length >= 4 && !isCommonAnchor(w) && words.includes(w);
+    // Short acts styled in capitals (BTS, EXO, XG) are names, not words.
+    const styledName = /^[A-Z0-9]{2,5}$/.test(String(performer).trim());
+    return singleWord && (styledName || (w.length >= 4 && !isCommonAnchor(w))) && words.includes(w);
   }
   const contiguous = (r, ws) => {
     for (let i = 0; i + r.length <= ws.length; i++) if (r.every((t, j) => ws[i + j] === t)) return true;
@@ -229,7 +246,7 @@ export function fileNamesPerformer(url, performer, { singleWord = true } = {}) {
 // Vegetarian Festival NN.jpg" were refused as "names another act (face
 // piercing)" until this existed (2026-08-30). See namesTheEvent for why the
 // bare anchor token is not enough.
-export function foreignInFilename(url, { known, anchor = '', via = '', geo = null, name = '', acronym = '', performer = '', country = '' }) {
+export function foreignInFilename(url, { known, anchor = '', via = '', geo = null, name = '', acronym = '', performer = '', country = '', region = '' }) {
   // A file that names the act in full is the act, wherever and whenever it
   // was shot (fileNamesPerformer). Multi-word names only here: a lone first
   // name ("Khalid") is too common to clear "State Minister Khalid, Dhaka".
@@ -254,6 +271,49 @@ export function foreignInFilename(url, { known, anchor = '', via = '', geo = nul
   // forgives a leftover PLACE name (a past edition held elsewhere), which for a
   // film festival would hand the Busan post a Tokyo International Film Festival
   // photo. Same words, different festival.
+  // A PLACE-BOUND event — a marathon, a cup, a festival, not a touring act — is
+  // held where it is held: its past edition is right (the owner's second tier),
+  // the same KIND of event elsewhere is a different event. Vision only asks
+  // "is this a marathon?", and on 2026-10-06 it approved the 2016 London
+  // Marathon for Florence, the Singapore marathon for Kuala Lumpur, England's
+  // wheelchair team for Brisbane's final, Indonesian drums for Kuching and an
+  // ultramarathon runner for the ULTRA Taiwan dance festival. Three rules,
+  // judged from the event's own NAME (Codex, 10-06):
+  //   1. a name that carries its place (Busan International Film Festival,
+  //      Florence Marathon, Hangzhou Marathon) needs that place in the file —
+  //      or the acronym. Tokyo's film festival and Beijing's marathon are out,
+  //      though both cities are "known places";
+  //   2. a name without a place that travels (World Cup, Asian Games) may show
+  //      a past edition anywhere — "Rugby League World Cup 2013 London";
+  //   3. otherwise another country's place name refuses the file.
+  // And a kind of event the title lacks (marathon, wheelchair, youth…) refuses
+  // it everywhere. Venue finds are exempt: they are identified by the venue.
+  // A touring act keeps the old rule — its other cities are its other nights —
+  // and an act's name alone ("Evanescence Madrid 2026") counts as one: 24
+  // concert posts carry no eventPerformer field.
+  const actLike = performer || /\b(concerts?|tours?|live|fan ?meet(ing)?|showcase|recital)\b/i.test(name);
+  if (!actLike && via !== 'venue') {
+    const home = homeGeoTokens(country);
+    const regionToks = new Set(tokens(region));
+    const isCity = (t) => !AMBIG_PLACE.has(t) && !countryNameTokens().has(t) && ((geo && geo.has(t)) || regionToks.has(t) || home.has(t));
+    // The FIXED place is the one the name LEADS with ("Busan International
+    // Film Festival", "Florence Marathon"); a trailing one is this year's host
+    // ("PGL Major Singapore", "ChinaJoy 2026 (Shanghai)"), and a past edition
+    // elsewhere is right for those.
+    const lead = allWords(name).filter((w) => !/\d/.test(w) && w !== 'the').slice(0, 2);
+    const locality = lead.filter(isCity);
+    const byAcronym = acronym && ft.includes(String(acronym).toLowerCase());
+    // Refuse only when the file names ANOTHER city instead: "2015 Pentaport
+    // Rock Festival" for the Incheon one carries no city and is its past edition.
+    const otherCity = ft.filter((t) => isCity(t) && !locality.includes(t) && !regionToks.has(t));
+    if (locality.length && !byAcronym && !locality.some((t) => ft.includes(t)) && otherCity.length) return `not ${locality.join(' ')}: ${otherCity.join(' ')}`;
+    const placeBound = /\b(marathon|race|run|cup|final|games|championships?|open|festival|fest|fair|carnival|parade|expo|matsuri|derby|regatta|league)\b/i.test(name);
+    const travelling = /\b(world|asian|games|olympics?|paralympics?|commonwealth|championships?|cup|euro\w*|major)\b/i.test(name);
+    const otherPlace = placeBound && !locality.length && !travelling
+      ? leftovers.filter((t) => geo && geo.has(t) && !home.has(t) && !AMBIG_PLACE.has(t)) : [];
+    const otherKind = ft.filter((t) => OTHER_KIND.has(t) && !known.has(t));
+    if (otherPlace.length || otherKind.length) return [...otherPlace, ...otherKind].join(' ');
+  }
   if (via === 'acronym') {
     if (acronym && ft.includes(String(acronym).toLowerCase())) return '';
     if (namesTheEvent(ft, name, geo)) return '';
@@ -285,28 +345,6 @@ export function foreignInFilename(url, { known, anchor = '', via = '', geo = nul
   // selby"). Place names and scene words are not counted against either: a
   // past edition was held somewhere, and every photo was taken from an angle.
   const anchorIsName = anchor && !isCommonAnchor(anchor);
-  // A PLACE-BOUND event — a marathon, a cup, a festival, not a touring act —
-  // is held where it is held. Its past edition is right (the owner's second
-  // tier); the same KIND of event elsewhere is a different event. Two holes
-  // let those through on 2026-10-06: a leftover place name was forgiven as
-  // "where a past edition was held" ("2016 London Marathon" for the Florence
-  // Marathon, "Gendang Minangkabau Indonesia" for Kuching's Gendang festival,
-  // "England wheelchair rugby league" for Brisbane's World Cup final), and a
-  // sport word the title does not have was ignored ("Taipei Ultra Marathon"
-  // for the ULTRA Taiwan dance festival). A touring act keeps the old rule:
-  // its other cities are its other nights.
-  // The place rule only where the title SAYS the event is place-bound: an
-  // act's name alone ("Evanescence Madrid 2026") is a touring act whose
-  // St Petersburg show is the right photo (24 concert posts carry no
-  // eventPerformer field, so its absence proves nothing).
-  const actLike = performer || /\b(concerts?|tours?|live|fan ?meet(ing)?|showcase|recital)\b/i.test(name);
-  const placeBound = /\b(marathon|race|run|cup|final|games|championships?|open|festival|fest|fair|carnival|parade|expo|matsuri|derby|regatta|league)\b/i.test(name);
-  if (!actLike) {
-    const home = homeGeoTokens(country);
-    const otherPlace = placeBound ? leftovers.filter((t) => geo && geo.has(t) && !home.has(t) && !AMBIG_PLACE.has(t)) : [];
-    const otherKind = ft.filter((t) => OTHER_KIND.has(t) && !known.has(t));
-    if (otherPlace.length || otherKind.length) return [...otherPlace, ...otherKind].join(' ');
-  }
   if (anchor && fileNamesAnchor(url, anchor)) {
     const rest = leftovers.filter((t) => !SCENE_WORDS.has(t) && !(geo && geo.has(t)));
     if (rest.length <= (anchorIsName ? 4 : 1)) return '';

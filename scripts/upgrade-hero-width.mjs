@@ -153,7 +153,7 @@ for (const slug of SLUGS) {
         });
       } catch {}
       if (!pick?.url || pick.license !== 'wikimedia') break;
-      const foreign = foreignInFilename(pick.url, { known: knownTok, anchor, via: pick.via, geo: geoTokens(), name: properName, performer: data.eventPerformer?.name || '', country: data.country || '' });
+      const foreign = foreignInFilename(pick.url, { known: knownTok, anchor, via: pick.via, geo: geoTokens(), name: properName, performer: data.eventPerformer?.name || '', country: data.country || '', region: data.region || '' });
       if (foreign) { budget.refused(); console.log(`   ${slug}: candidate skipped — filename names another act (${foreign})`); continue; }
       budget.accepted();
       cands.push(pick);
