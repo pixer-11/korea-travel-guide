@@ -1,61 +1,63 @@
 ---
 lang: es
 slug: nagoya-asian-games-2026
-srcHash: 'cc6ca13e30c1'
-title: 'Juegos Asiáticos 2026: Fechas, Entradas y Sede (Nagoya)'
-description: Los Juegos Asiáticos 2026 se celebran en Nagoya, Japón, del 19 de septiembre al 4 de octubre de 2026. Qué son, cuándo y dónde tienen lugar, y cómo organizar el viaje.
-quickAnswer: La 20.ª edición de los Juegos Asiáticos se disputa del 19 de septiembre al 4 de octubre de 2026 en toda la prefectura de Aichi, con Nagoya, Japón, como sede central. La venta de entradas, el calendario completo por deporte y sede, y los detalles de las ceremonias de apertura y clausura se darán a conocer a través de los canales oficiales de los Juegos Asiáticos 2026 y del comité organizador Aichi-Nagoya; conviene consultarlos antes de reservar vuelos u hoteles. El estadio principal de Nagoya y sus pabellones, junto con sedes satélite repartidas por distintas ciudades de Aichi, acogerán las competiciones durante estas casi dos semanas y media.
+srcHash: '12c2dcebdb11'
+title: 'Juegos Asiáticos 2026: fechas, entradas y sedes (Nagoya)'
+description: Las fechas anunciadas para los Juegos Asiáticos 2026 de Nagoya (Japón) eran del 19 de septiembre al 4 de octubre de 2026. Las sedes se repartían por la prefectura de Aichi, y el estadio principal y los pabellones de Nagoya eran el eje.
+quickAnswer: Las fechas anunciadas para la 20.ª edición de los Juegos Asiáticos eran del 19 de septiembre al 4 de octubre de 2026. Las sedes se repartían por toda la prefectura de Aichi, con Nagoya (Japón) como centro. El comité organizador de los Juegos Asiáticos 2026 y Aichi-Nagoya se encargaba de la venta de entradas, del calendario completo por deporte y sede y de los detalles de las ceremonias de apertura y clausura. Según el plan, las competiciones se repartirían entre el estadio principal y los pabellones de Nagoya y varias sedes satélite en otras ciudades de Aichi. Los Juegos durarían unas dos semanas y media.
 faq:
-  - q: ¿Cuáles son las fechas exactas de los Juegos Asiáticos 2026?
-    a: Del 19 de septiembre al 4 de octubre de 2026, celebrados en toda la prefectura de Aichi con Nagoya como ciudad sede central.
-  - q: ¿Dónde puedo comprar entradas?
-    a: Al momento de escribir esto, los detalles de las entradas aún no se habían definido. Cuando se abra la venta, hay que comprarlas únicamente a través de los sitios web oficiales de los Juegos Asiáticos 2026 y del comité organizador Aichi-Nagoya.
-  - q: ¿Cómo llego a Nagoya desde Tokio u Osaka?
-    a: El Tokaido Shinkansen conecta Tokio con Nagoya en unos 100 minutos, y Osaka con Nagoya en unos 50 minutos.
-  - q: ¿Todos los eventos se celebran en la propia Nagoya?
-    a: 'No: las sedes están repartidas por toda la prefectura de Aichi, incluidas ciudades satélite como Toyota y Okazaki, así que conviene revisar la ubicación específica de cada evento y sumar tiempo de desplazamiento.'
-  - q: ¿Cuál es la mejor manera de moverse durante los Juegos?
-    a: Conseguir una tarjeta IC (Manaca, Suica o Pasmo) para el metro y los autobuses; las líneas Higashiyama y Sakura-dori cubren la mayoría de las sedes del centro de Nagoya.
+  - q: ¿Cuáles eran las fechas exactas de los Juegos Asiáticos 2026?
+    a: Del 19 de septiembre al 4 de octubre de 2026. Las sedes estaban repartidas por la prefectura de Aichi, y Nagoya era la ciudad anfitriona principal.
+  - q: ¿Dónde se vendían las entradas?
+    a: Los organizadores todavía estaban cerrando el sistema de venta. Las entradas las vendía el comité organizador de los Juegos Asiáticos 2026 y Aichi-Nagoya, no las plataformas de reventa.
+  - q: ¿Cómo se llega a Nagoya desde Tokio u Osaka?
+    a: El Tokaido Shinkansen une Tokio con Nagoya en unos 100 minutos. Desde Osaka, el trayecto dura unos 50 minutos.
+  - q: ¿Estaban todas las sedes en la propia ciudad de Nagoya?
+    a: No. Las sedes se repartían por la prefectura de Aichi, incluidas ciudades satélite como Toyota y Okazaki. Llegar a las sesiones de esas ciudades suponía más tiempo de viaje.
+  - q: ¿Cuál era la mejor forma de moverse durante los Juegos?
+    a: Las tarjetas IC (Manaca, Suica o Pasmo) sirven en el metro y en los autobuses. Las líneas Higashiyama y Sakura-dori llegan a la mayoría de las sedes del centro de Nagoya.
 ---
 
 ## Por qué importan estos Juegos
 
-Nagoya está a punto de convertirse en el centro deportivo de Asia. Del 19 de septiembre al 4 de octubre de 2026, la 20.ª edición de los Juegos Asiáticos reunirá a atletas de todo el continente: es el mayor evento multideportivo de la región, más grande incluso de lo que mucha gente imagina que son unos Juegos Olímpicos si se mide por el número de países participantes.
+Las fechas de la 20.ª edición de los Juegos Asiáticos en Nagoya eran del 19 de septiembre al 4 de octubre de 2026. Se trata del mayor acontecimiento multideportivo de la región y reúne a deportistas de todo el continente. Por número de países participantes, supera incluso la imagen que muchos tienen de unos Juegos Olímpicos.
 
-Se nota el ambiente antes de asistir a una sola prueba: pancartas en las farolas de la avenida Otsu-dori, voluntarios con cortavientos a juego en la estación de Nagoya, relojes de cuenta atrás en las galerías comerciales. La prefectura de Aichi lleva años preparándose para este momento, y cuando llegue la llama olímpica, toda la región estará volcada en el evento.
+Los preparativos de la ciudad anfitriona se concibieron a escala regional. Había pancartas en las farolas de la avenida Otsu-dori, voluntarios con cortavientos a juego en la estación de Nagoya y relojes de cuenta atrás en las galerías comerciales. La prefectura de Aichi llevaba años preparándose para esta cita, y toda la región quedó integrada en el proyecto.
 
 ## Cómo llegar a Nagoya
 
-Nagoya se encuentra en la línea Tokaido Shinkansen, a unos 100 minutos de Tokio y a menos de una hora de Osaka en los trenes más rápidos. El aeropuerto internacional de Chubu Centrair, situado en una isla artificial en la bahía de Ise, es la principal puerta de entrada para los visitantes internacionales y está conectado con la estación de Nagoya por tren en unos 30 minutos.
+Nagoya se encuentra en la línea del Tokaido Shinkansen. Con los trenes más rápidos, el trayecto dura unos 100 minutos desde Tokio y menos de una hora desde Osaka. La principal puerta de entrada para los visitantes internacionales es el Aeropuerto Internacional Chubu Centrair, construido sobre una isla artificial en la bahía de Ise. Desde allí, el tren llega a la estación de Nagoya en unos 30 minutos.
 
-Una vez en la ciudad, la red de metro (las líneas Higashiyama y Sakura-dori son las más utilizadas) llega a la mayoría de los barrios céntricos. Las sedes se reparten por toda la prefectura de Aichi, no solo por Nagoya, así que conviene calcular tiempo extra de desplazamiento para los eventos que se celebren en ciudades satélite como Toyota u Okazaki.
+Dentro de la ciudad, la red de metro llega a la mayoría de los barrios céntricos, y las líneas Higashiyama y Sakura-dori son las que más trabajo hacen. El plan de sedes abarcaba toda la prefectura de Aichi y no solo el municipio de Nagoya. Por eso, las pruebas en ciudades satélite como Toyota u Okazaki suponen más tiempo de transporte.
 
-- Shinkansen: Tokio-Nagoya en unos 100 min, Osaka-Nagoya en unos 50 min
-- Aeropuerto de Chubu Centrair → estación de Nagoya: unos 30 min en tren Meitetsu
-- Metro local: las líneas Higashiyama y Sakura-dori cubren el centro de la ciudad
+- Shinkansen: Tokio–Nagoya en \~100 min; Osaka–Nagoya en \~50 min
+- Del aeropuerto Chubu Centrair a la estación de Nagoya: \~30 min en tren de Meitetsu
+- Metro: las líneas Higashiyama y Sakura-dori cubren el centro de la ciudad
 
 ## Qué esperar en las sedes
 
-Todavía se está terminando de definir qué pabellones acogerán cada deporte, así que cualquier listado de sedes que se encuentre en internet debe tomarse como provisional hasta que el comité organizador lo confirme. Lo que sí es seguro es que la infraestructura deportiva de Nagoya —construida a lo largo de décadas de acoger torneos nacionales— será la columna vertebral del evento, complementada con instalaciones nuevas o renovadas repartidas por Aichi.
+El comité organizador todavía estaba decidiendo qué pabellón acogería cada deporte. Lo que sí estaba claro era la base del plan. Nagoya lleva décadas organizando torneos nacionales y ha reunido una amplia red de instalaciones deportivas. Esas instalaciones serían el núcleo, y se sumarían recintos nuevos o renovados en distintos puntos de Aichi.
 
-Se puede esperar el programa habitual de los Juegos Asiáticos: atletismo, natación, artes marciales, deportes de equipo y una amplia variedad de disciplinas que no siempre entran en el programa olímpico, desde el kabaddi hasta el sepaktakraw. Esa diversidad es parte del atractivo: se puede presenciar un deporte que nunca se había visto y, al salir, tomarse un ramen.
+El programa incluía las disciplinas habituales de los Juegos Asiáticos: atletismo, natación, artes marciales y deportes de equipo. También figuraba una amplia variedad de pruebas que no siempre entran en el programa olímpico, del kabaddi al sepaktakraw. Esa diversidad forma parte del atractivo: deportes poco conocidos en el calendario y una barra de ramen a pocos pasos de los accesos.
 
 ## Entradas y planificación
 
-Al momento de escribir esto, la venta de entradas, los niveles de precios y el calendario detallado de eventos aún no se habían publicado por completo. No conviene fiarse de listas de precios de segunda mano ni de sitios de reventa, salvo para hacerse una idea aproximada del costo.
+La venta de entradas, las categorías de precios y el calendario detallado de pruebas aún no se habían publicado por completo. Las listas de precios de segunda mano y las webs de reventa solo daban una idea aproximada.
 
-Antes de reservar vuelos u hoteles, hay que confirmar fechas, sedes y detalles de las entradas directamente en los sitios web oficiales de los Juegos Asiáticos 2026 y del comité organizador Aichi-Nagoya. Son las únicas fuentes que reflejarán cambios de última hora en el calendario, los horarios de las sesiones y los canales de reventa autorizados.
+El comité organizador de los Juegos Asiáticos 2026 y Aichi-Nagoya se encargaba de los horarios de las sesiones, de la asignación de sedes y de la reventa autorizada. También gestionaba cualquier cambio de última hora en el calendario.
 
-- Confirmar: sede exacta de cada deporte
-- Confirmar: fecha de apertura de venta de entradas y precios
-- Confirmar: ubicación y acceso a las ceremonias de apertura y clausura
+Estos detalles quedaban en manos de los organizadores:
 
-## Cómo visitar la ciudad como un local
+- La sede concreta de cada deporte
+- La fecha de salida a la venta y los precios de las entradas
+- El lugar de las ceremonias de apertura y clausura y el acceso a ellas
 
-Los habitantes de Nagoya afrontan los grandes eventos con calma práctica más que con frenesí: se puede esperar filas eficientes, no aglomeraciones caóticas. Las tarjetas de transporte IC (Manaca, o las de alcance nacional como Suica y Pasmo) funcionan en el metro, los autobuses y la mayoría de las tiendas de conveniencia, así que conviene conseguir una nada más llegar en lugar de andar lidiando con billetes en efectivo.
+## Cómo vivirlos como un vecino de Nagoya
 
-Es probable que comer cerca de las sedes implique largas filas durante los descansos de las sesiones con más público; los locales evitan esto comiendo un poco alejados de la calle principal, a cinco minutos a pie de las puertas del estadio, donde los precios se mantienen normales y siempre hay mesas libres. Vale la pena buscar las especialidades propias de Nagoya en lugar de conformarse con la oferta genérica de los puestos del estadio.
+Los habitantes de Nagoya afrontan los grandes acontecimientos con una calma práctica, sin frenesí. Las colas son ordenadas y no se forman aglomeraciones caóticas. Las tarjetas IC de transporte sirven en el metro, en el autobús y en la mayoría de las tiendas de conveniencia. Además de la Manaca local, se aceptan Suica y Pasmo, que son válidas en todo el país. Es mucho más cómodo que pelearse con billetes en efectivo.
 
-Conviene evitar llegar a una sede justo a la hora de inicio programada de la sesión, en la medida de lo posible. Los locales siempre dejan un margen, ya que las filas de los controles de seguridad se alargan rápidamente en los 30 minutos previos a las sesiones más concurridas. Los trenes son puntuales al minuto, pero eso también significa que perder uno cuesta tiempo real; conviene revisar el horario del último tren de regreso si se va a asistir a un evento nocturno en una sede de una ciudad satélite.
+En los descansos de las sesiones con más público, comer cerca de las sedes implica largas colas. Los vecinos lo evitan alejándose un poco de la calle principal. A cinco minutos a pie de los accesos del estadio, los precios son normales y hay mesas libres. Aquí la fama de la ciudad viene de las especialidades de Nagoya y no de la comida genérica de los puestos del estadio.
 
-El error más común entre los visitantes probablemente sea dar por hecho que todas las sedes están dentro del centro de Nagoya. Muchas no lo están: hay que calcular una hora extra de desplazamiento para los eventos que se celebren en ciudades periféricas de Aichi.
+En los 30 minutos anteriores a las sesiones importantes, las colas del control de seguridad crecen muy deprisa. Por eso, los vecinos se dejan un margen en lugar de presentarse justo a la hora de inicio. Los trenes son de una puntualidad absoluta, pero eso también significa que perder uno cuesta un tiempo considerable. En las pruebas nocturnas de las ciudades satélite, los últimos trenes de regreso son decisivos.
+
+Muchos visitantes suponen que todas las sedes están en el centro de Nagoya. En realidad, muchas no lo estaban, y las pruebas en las ciudades más alejadas de Aichi suponían una hora más de viaje.

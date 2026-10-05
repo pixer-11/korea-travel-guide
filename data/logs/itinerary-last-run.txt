@@ -1,4 +1,3 @@
-SKIP new city "Paris" — weekly new-city cap (2/7d) reached
 SKIP new city "San Francisco" — weekly new-city cap (2/7d) reached
 SKIP new city "Seattle" — weekly new-city cap (2/7d) reached
 SKIP new city "Washington DC" — weekly new-city cap (2/7d) reached
@@ -44,6 +43,10 @@ New Orleans, United States — 17 qualifying post(s), variants: 3
 New York, United States — 16 qualifying post(s), variants: 3
   = New York 3d — unchanged, skipping
 
+Paris, France — 13 qualifying post(s), variants: 3
+  ⚠ Paris 3d — validator found 3 prose-fixable issue(s); correcting once
+NEW_ITINERARY: Paris 3d
+
 Siem Reap, Cambodia — 16 qualifying post(s), variants: 3
   = Siem Reap 3d — unchanged, skipping
 
@@ -51,7 +54,7 @@ Singapore, Singapore — 78 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
   = Singapore 5d — unchanged, skipping
 
-Done. Nothing changed.
+Done.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0

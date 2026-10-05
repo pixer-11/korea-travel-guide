@@ -1,73 +1,71 @@
 ---
 lang: es
 slug: paris-prix-de-l-arc-de-triomphe
-srcHash: '6c3267690dc4'
-title: 'Prix de l''Arc de Triomphe: fechas, entradas y sede (París)'
-description: El Prix de l'Arc de Triomphe se celebra en París del 3 al 4 de octubre de 2026. Qué es, cuándo y dónde se disputa, y cómo organizar la visita.
-quickAnswer: El Prix de l'Arc de Triomphe se celebra en el hipódromo de Paris-Longchamp los días 3 y 4 de octubre de 2026, y la gran carrera se disputa el domingo. Las entradas van desde el acceso general al césped hasta las gradas y los paquetes de hospitalidad; conviene confirmar horarios y entradas en las webs oficiales de France Galop y Paris-Longchamp antes de reservar. El día del Arco conviene llegar con bastante antelación a la hora de salida, ya que el acceso por el Bois de Boulogne se congestiona.
+srcHash: '36d97b28fc62'
+title: 'Prix de l''Arc de Triomphe: fechas, entradas y recinto (París)'
+description: Las fechas anunciadas para el Prix de l'Arc de Triomphe eran el 3 y 4 de octubre de 2026, en el Hipódromo de Paris-Longchamp, con la gran carrera el domingo 4 de octubre.
+quickAnswer: Las fechas anunciadas para el Prix de l'Arc de Triomphe eran el 3 y 4 de octubre de 2026, en el Hipódromo de Paris-Longchamp, con la gran carrera el domingo. Las entradas iban desde el acceso general al césped hasta las localidades de tribuna y los paquetes de hospitalidad, y se vendían a través de France Galop y Paris-Longchamp. El hipódromo se encuentra dentro del Bosque de Bolonia (Bois de Boulogne), en el extremo occidental de París. Los días de carreras, una lanzadera gratuita lo comunicaba con Porte Maillot y Porte d'Auteuil.
 faq:
-  - q: ¿Cuándo es exactamente el Prix de l'Arc de Triomphe en 2026?
-    a: La reunión se celebra los días 3 y 4 de octubre de 2026 en el hipódromo de Paris-Longchamp, y el Arco propiamente dicho se disputa el domingo 4 de octubre.
-  - q: ¿Cómo se llega al hipódromo de Paris-Longchamp?
-    a: "Toma la línea 1 de metro hasta Porte Maillot (salida 6) o la línea 10 hasta Porte d'Auteuil (salida 1) y sube al autobús lanzadera gratuito de los días de carreras. El domingo la primera sale a las 10:30 y pasan cada 15 minutos aproximadamente; la última de vuelta sale del hipódromo a las 21:30."
+  - q: ¿Cuándo era exactamente el Prix de l'Arc de Triomphe en 2026?
+    a: Las fechas anunciadas para la reunión eran el 3 y 4 de octubre de 2026, en el Hipódromo de Paris-Longchamp. El Arc se corría el domingo 4 de octubre.
+  - q: ¿Cómo se llega al Hipódromo de Paris-Longchamp?
+    a: La línea 1 de metro llega a Porte Maillot (salida 6) y la línea 10 a Porte d'Auteuil (salida 1). Los días de carreras, un autobús lanzadera gratuito une ambas estaciones con el hipódromo. El domingo, la primera lanzadera figuraba a las 10:30, con salidas cada 15 minutos aproximadamente, y la última de regreso partía del hipódromo a las 21:30.
   - q: ¿Cuánto cuestan las entradas y dónde se compran?
-    a: El precio varía según la categoría, desde las zonas generales de césped hasta las gradas y los asientos de hospitalidad, y cambia de un año a otro. Conviene confirmar las entradas y los precios vigentes en las webs oficiales de France Galop y Paris-Longchamp.
-  - q: ¿Conviene ir el sábado o el domingo?
-    a: El domingo es imprescindible para ver el Arco en sí, pero la jornada del sábado es más tranquila y económica si se prefiere evitar la máxima afluencia del domingo.
-  - q: ¿Cuánto tiempo conviene reservar para la visita al hipódromo?
-    a: 'Conviene reservar la mayor parte de la tarde y parte de la noche: hay que llegar al menos 90 minutos antes de la hora de salida del Arco para ver el paddock y hacerse con un buen sitio antes de que la afluencia alcance su punto máximo.'
+    a: El precio depende de la categoría, desde las zonas generales de césped hasta los asientos de tribuna y de hospitalidad, y cambia de un año a otro. Las entradas se vendían a través de France Galop y Paris-Longchamp.
+  - q: ¿Qué día conviene más, el sábado o el domingo?
+    a: El domingo se corría el propio Arc, junto con otras carreras de Grupo 1. El programa del sábado es el más tranquilo y económico de los dos días, lejos de las grandes multitudes del domingo.
+  - q: ¿Cuánto tiempo hay que calcular para la visita al hipódromo?
+    a: La mayoría de los aficionados dedica al programa del Arc buena parte de la tarde y del anochecer. La salida del Arc estaba programada a las 16:05, hora de París, como quinta de las diez carreras del domingo, y el paddock se llena de espectadores mucho antes de cada prueba.
 ---
 
-## Por qué importa el Arco
+## Por qué importa el Arc
 
-Una vez al año, el hipódromo de Paris-Longchamp se convierte en el centro del mundo del pura sangre a nivel global. El Qatar Prix de l'Arc de Triomphe es la carrera de llano más rica de Europa, y el fin de semana que la rodea convierte el Bois de Boulogne en un remolino de sombreros, cámaras y boletos de apuestas.
+Una vez al año, el Hipódromo de Paris-Longchamp se convierte en el epicentro mundial de los purasangres. El Qatar Prix de l'Arc de Triomphe es la carrera lisa mejor dotada de Europa, y durante el fin de semana que la rodea el Bosque de Bolonia (Bois de Boulogne) se llena de sombreros, cámaras y boletos de apuestas. La magnitud del acontecimiento se percibe incluso antes de ver un caballo: autocares al ralentí en la carretera de acceso, lectores de entradas que pitan por oleadas y el murmullo grave de un público llegado de una docena de países.
 
-La magnitud del evento se percibe antes incluso de ver un caballo: autocares con el motor en marcha en la vía de acceso, lectores de entradas pitando sin parar, y el murmullo constante de una multitud llegada de una decena de países.
-
-La carrera en sí dura apenas dos minutos y medio. Todo lo demás —la moda, los bares de champán, el rugido del público cuando el pelotón entra en la recta final— es el verdadero espectáculo.
+La carrera en sí dura unos dos minutos y medio. El verdadero espectáculo está en todo lo demás: la moda, los bares de champán y el rugido del público cuando los caballos encaran la recta final.
 
 ## Cómo llegar a Paris-Longchamp
 
-El hipódromo se encuentra dentro del Bois de Boulogne, en el extremo occidental de la ciudad, y llegar hasta allí forma parte del ritual.
+La pista se encuentra dentro del Bosque de Bolonia, en el extremo occidental de la ciudad, y el propio trayecto forma parte del ritual.
 
-- **Línea 1 de metro** hasta Porte Maillot (salida 6), y desde allí el autobús lanzadera gratuito hasta el hipódromo
-- **Línea 10 de metro** hasta Porte d'Auteuil (salida 1), y la misma lanzadera gratuita; el domingo la primera sale a las 10:30 y pasan cada 15 minutos aproximadamente
-- **A la vuelta**: la última lanzadera sale del hipódromo a las 21:30, y quien llegue en bicicleta tiene un aparcamiento gratuito y vigilado
+- **Línea 1 de metro** hasta Porte Maillot (salida 6) y, desde allí, el autobús lanzadera gratuito que conecta con el hipódromo los días de carreras
+- **Línea 10 de metro** hasta Porte d'Auteuil (salida 1) y, desde allí, la misma lanzadera gratuita; el domingo, la primera figuraba a las 10:30, con salidas cada 15 minutos aproximadamente
+- **Regreso**: la última lanzadera sale del hipódromo a las 21:30, y quienes llegan en bicicleta disponen de un aparcamiento gratuito y vigilado
 
-Sea cual sea la ruta elegida, conviene calcular tiempo de sobra: el tránsito peatonal por el Bois puede formar cuellos de botella una hora antes de la primera carrera, sobre todo el día del Arco, el 4 de octubre.
+Una hora antes de la primera carrera, el paso de peatones por el bosque puede formar cuellos de botella, sobre todo el mismo día del Arc, el 4 de octubre.
 
-## Los dos días: sábado y domingo
+## Las dos jornadas: sábado y domingo
 
-La reunión se extiende durante dos jornadas, del 3 al 4 de octubre de 2026, y el Arco se disputa el domingo.
+Las fechas anunciadas eran el 3 y 4 de octubre de 2026, y el Arc encabezaba el programa del domingo.
 
-El sábado, primera jornada del fin de semana, es más tranquilo y económico: una buena opción para ver la pista y los caballos sin la densidad de público del domingo. El domingo es el gran día, con varias carreras del Grupo 1 encadenadas a lo largo de la tarde que van preparando el terreno hasta llegar al Arco como colofón.
+El sábado, primera jornada del fin de semana, es el día más tranquilo y económico: permite conocer la pista y los caballos sin la aglomeración del domingo. El domingo es la gran cita, con varias carreras de Grupo 1 encadenadas a lo largo de la tarde y el Arc como colofón.
 
-Si solo se dispone de un día, el domingo es innegociable para presenciar el Arco. Ahora bien, para quien busque una experiencia más relajada en el hipódromo, el sábado es la mejor opción.
+Para quien solo dispone de un día, el domingo es la jornada del propio Arc. El sábado ofrece una experiencia del hipódromo más serena y relajada.
 
-## Entradas y dónde ver la carrera
+## Entradas y dónde ver las carreras
 
-Paris-Longchamp ofrece varias categorías de visualización, desde el acceso general al césped hasta los asientos de grada y las zonas privadas de hospitalidad con vistas al último tramo de la recta.
+Paris-Longchamp ofrece varias categorías de localidades: desde el acceso general al césped hasta asientos en tribuna y zonas privadas de hospitalidad con vistas al tramo final de la recta.
 
-Los precios y los paquetes varían según la categoría y cambian de un año a otro, así que no conviene fiarse de capturas de pantalla antiguas ni de comentarios en foros. Antes de organizar la visita en torno a un precio o una puerta de acceso concretos, hay que confirmar los horarios y las entradas en las webs oficiales de France Galop y Paris-Longchamp.
+Los precios y los paquetes varían según la categoría y cambian de un año a otro, de modo que las capturas de pantalla antiguas y los mensajes de foros sirven de poco como referencia. Las entradas para la reunión de 2026 se vendían a través de France Galop y Paris-Longchamp.
 
-Las zonas de acceso general se llenan de gente, pero dejan margen para moverse entre el paddock, las salas de apuestas y la valla de la pista. Las entradas de grada y hospitalidad se agotan más rápido dado el perfil internacional de la carrera, así que conviene resolver el tema de los asientos antes de cerrar los vuelos.
+Las zonas de acceso general se llenan, pero dejan margen para moverse entre el paddock, las salas de apuestas y la valla de la pista. Dado el prestigio internacional de la carrera, las entradas de tribuna y de hospitalidad son las que antes se agotan.
 
-## Qué ver más allá de la carrera
+## Qué ver además de la carrera
 
-Merece la pena llegar temprano a Longchamp independientemente de las carreras. El paddock de ensillado congrega un denso círculo de espectadores antes de cada prueba: es ahí donde uno se acerca más a los caballos y puede ver a los entrenadores dar las últimas instrucciones a los jinetes.
+Longchamp ofrece mucho más que las propias carreras. Antes de cada prueba, el paddock de ensillado reúne un nutrido corro de espectadores. Es allí donde más cerca se está de los caballos y donde se ve a los entrenadores dar las últimas instrucciones a los jinetes.
 
-La grada, remodelada en 2018, es una larga estructura de cristal y acero con una terraza en la azotea desde la que, en un día despejado, se divisa la Torre Eiffel a lo lejos. Entre carrera y carrera, el césped se llena de grupos de pícnic y puestos de champán, mientras una pantalla gigante repite cada llegada a cámara lenta para quien se la haya perdido en directo.
+La tribuna, rediseñada en 2018, es una larga estructura de vidrio y acero coronada por una terraza desde la que, en los días despejados, se divisa a lo lejos la Torre Eiffel. Entre carrera y carrera, el césped se llena de grupos de pícnic y puestos de champán, y una pantalla gigante repite cada llegada a cámara lenta para quien se la haya perdido en directo.
 
-La moda también forma parte del espectáculo, sobre todo el día del Arco, cuando el público se decanta por abrigos entallados y sombreros elaborados en lugar del estilo deportivo habitual en otros hipódromos europeos.
+La moda también forma parte del espectáculo, sobre todo el día del Arc. Ese día el público se decanta por abrigos de corte sastre y sombreros elaborados, lejos de la ropa deportiva habitual en otros hipódromos europeos.
 
-## Cómo visitarlo como un local
+## Cómo vivirlo como un habitual
 
-Los aficionados que acuden todos los años consideran la jornada del sábado la jugada de iniciados: menos gente, transporte más sencillo y una ocasión real de ver bien a los caballos sin el tumulto del domingo.
+Para los aficionados que acuden cada año, el programa del sábado es la opción de los entendidos: menos público, un transporte más cómodo y la ocasión de ver bien a los caballos sin el gentío del domingo.
 
-- Apostar en efectivo o con tarjeta en las ventanillas del PMU (pari-mutuel) del propio hipódromo; una pequeña apuesta "each-way" a un nombre que guste es práctica habitual, no solo cosa de apostadores serios
-- Llegar al menos 90 minutos antes de la hora de salida del Arco para recorrer el paddock y hacerse con un sitio junto a la valla de la recta final
-- Vestir un punto más elegante de lo que parezca necesario, sobre todo en las zonas de grada y hospitalidad, ya que el Arco tiende a un ambiente distinguido
-- Llevar una capa ligera de abrigo sea cual sea el pronóstico, porque las tardes de octubre en Longchamp refrescan en cuanto el sol se oculta tras las gradas
-- Salir del parque por Porte d'Auteuil en lugar de volver sobre los pasos hacia la entrada principal, ya que ese acceso se despeja más rápido en cuanto termina la última carrera
+- Las apuestas se pagan en efectivo o con tarjeta en las ventanillas de apuestas mutuas del hipódromo (PMU); una pequeña apuesta a ganador y colocado por un nombre que guste es lo habitual, y no solo entre los apostantes serios
+- Los noventa minutos anteriores a la salida del Arc son el mejor momento para recorrer el paddock y hacerse con un sitio junto a la valla de la recta final
+- La vestimenta es un punto más elegante que en la mayoría de los hipódromos; el Arc invita a arreglarse, especialmente en las zonas de tribuna y de hospitalidad
+- Una prenda ligera de abrigo nunca sobra, diga lo que diga el pronóstico: en octubre, las tardes en Longchamp refrescan en cuanto el sol se oculta tras las tribunas
+- Al terminar la última carrera, Porte d'Auteuil se despeja antes que la entrada principal
 
-Hágase lo que se haga, no conviene dejar la apuesta del Arco para el último momento: el Arco sale a las 16:05, hora de París, como la quinta de las diez carreras del domingo, y las colas en las ventanillas del PMU alcanzan su punto máximo en los veinte minutos previos a la salida.
+La salida del Arc estaba programada a las 16:05, hora de París. Era la quinta de las diez carreras del domingo, y las colas en las ventanillas del PMU alcanzan su punto álgido en los veinte minutos anteriores a la salida.

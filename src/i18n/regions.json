@@ -10790,5 +10790,59 @@
       "getting": "대부분의 방문객은 마드리드-바르셀로나 고속철도(AVE) 노선의 정차역인 사라고사-델리시아스(Zaragoza-Delicias) 역을 통해 기차로 도착한다. 마드리드에서는 약 1시간 15분, 바르셀로나에서는 약 1시간 30분이 소요된다. 사라고사에도 자체 공항(ZAZ)이 시내에서 약 16km 떨어진 곳에 있지만, 정기 여객 노선이 많지 않은 편이라 마드리드나 바르셀로나로 입국한 뒤 기차로 이동하는 방법이 보통 더 안정적이다.",
       "days": "필라르 성모 대성당, 알하페리아 궁전, 그리고 아담한 구시가지를 도보로 둘러보기에는 1~2일이면 충분하다."
     }
+  },
+  "Cozumel": {
+    "en": {
+      "blurb": "Cozumel is a Caribbean island off Mexico's Yucatán coast, best known for the Mesoamerican reef system that runs along its western shore. The protected marine park here draws divers and snorkellers year-round for its coral walls, drift dives and clear, warm water.",
+      "getting": "Most travellers fly into Cozumel International Airport (CZM) directly, or arrive via the passenger ferry from Playa del Carmen on the mainland, a crossing of roughly ~40 minutes. Cancun International Airport is the nearest major mainland hub for those connecting onward by ferry.",
+      "days": "~3-5 days is typical, enough time for several dives or snorkel trips along the reef plus a day to explore San Miguel town and the island's beach clubs."
+    },
+    "ko": {
+      "blurb": "코수멜은 멕시코 유카탄 해안에서 떨어진 카리브해의 섬으로, 서쪽 해안을 따라 펼쳐진 메소아메리카 산호초로 가장 잘 알려져 있습니다. 이곳의 해양보호구역은 맑고 따뜻한 바닷물과 산호 벽, 드리프트 다이빙 코스 덕분에 일년 내내 다이버와 스노클러들의 발길이 끊이지 않습니다.",
+      "getting": "대부분의 여행객은 코수멜 국제공항(CZM)으로 직항편을 이용하거나, 본토의 플라야 델 카르멘에서 출발하는 여객선을 타고 섬에 도착합니다. 배로는 약 40분 정도 소요됩니다. 페리를 이용해 본토로 이동하려는 경우, 가장 가까운 주요 공항은 칸쿤 국제공항입니다.",
+      "days": "보통 3~5일 정도 머무르는 것이 적당하며, 이 기간이면 산호초를 따라 여러 차례 다이빙이나 스노클링을 즐기고도 하루 정도는 산 미겔 시내와 섬의 비치클럽을 둘러볼 여유가 있습니다."
+    },
+    "ja": {
+      "blurb": "コスメルは、メキシコのユカタン半島沖に浮かぶカリブ海の島で、西岸沿いに広がるメソアメリカ landに属するサンゴ礁帯で知られています。この一帯は海洋保護区に指定されており、美しいサンゴの壁やドリフトダイビングが楽しめる透明度抜群の暖かい海を求めて、一年を通じてダイバーやシュノーケラーたちが訪れます。",
+      "getting": "多くの旅行者は、コスメル国際空港（CZM）へ直接飛行機で向かうか、本土プラヤ・デル・カルメンから出ている旅客フェリーを利用して島に渡ります。フェリーでの所要時間はおよそ40分です。フェリーで本土と行き来する場合、最寄りの主要空港はカンクン国際空港になります。",
+      "days": "滞在日数の目安は3〜5日程度。サンゴ礁沿いで複数回のダイビングやシュノーケリングを楽しみ、さらに1日はサン・ミゲルの街歩きや島内のビーチクラブ巡りに充てるのにちょうど良い長さです。"
+    },
+    "es": {
+      "blurb": "Cozumel es una isla caribeña frente a la costa de Yucatán, en México, famosa sobre todo por el sistema de arrecifes mesoamericanos que recorre su litoral occidental. El parque marino protegido que rodea la isla atrae todo el año a buceadores y aficionados al esnórquel, gracias a sus paredes de coral, sus corrientes para dive-drift y sus aguas cálidas y cristalinas.",
+      "getting": "La mayoría de los viajeros llega directamente al Aeropuerto Internacional de Cozumel (CZM), aunque también es posible arribar en el ferry de pasajeros desde Playa del Carmen, en tierra firme, con una travesía de unos ~40 minutos. El Aeropuerto Internacional de Cancún es el principal centro de conexiones en el continente para quienes luego toman el ferry hacia la isla.",
+      "days": "Lo habitual es quedarse entre ~3 y 5 días, tiempo suficiente para hacer varias inmersiones o salidas de esnórquel por el arrecife, además de dedicar una jornada a recorrer el pueblo de San Miguel y disfrutar de los clubes de playa de la isla."
+    },
+    "zh": {
+      "blurb": "科苏梅尔岛是墨西哥尤卡坦半岛海岸外的一座加勒比海岛屿，以沿其西岸延伸的中美洲大堡礁闻名。这片受保护的海洋公园全年都吸引着潜水和浮潜爱好者，只为那绮丽的珊瑚礁壁、刺激的漂流潜水，以及清澈温暖的海水。",
+      "getting": "大多数游客会直接飞抵科苏梅尔国际机场（CZM），也有人选择从大陆的普拉亚德尔卡门搭乘客运渡轮前往，航程约40分钟左右。对于需要转乘渡轮的旅客而言，坎昆国际机场是大陆一侧最近的主要枢纽机场。",
+      "days": "通常建议安排3至5天的行程，这样既有充裕时间沿着珊瑚礁进行几次潜水或浮潜，也能留出一天漫步圣米格尔小镇，体验岛上的海滩俱乐部。"
+    }
+  },
+  "Cancun": {
+    "en": {
+      "blurb": "Cancun is Mexico's purpose-built Caribbean resort city, a narrow barrier island of all-inclusive hotels strung along turquoise water and white sand, with a separate mainland downtown for everyday Mexican life. It also serves as the main gateway to the wider Riviera Maya, including Tulum, Playa del Carmen and the ancient Maya ruins scattered through the Yucatan interior.",
+      "getting": "Most travellers arrive via Cancun International Airport (CUN), located a few kilometres inland from the coast. From there, the Hotel Zone is reached by taxi, private transfer or ADO bus service, with the drive typically taking ~20 to 45 minutes depending on traffic and destination.",
+      "days": "Allow 3 to 5 days to settle into beach and resort life, with an extra day or two if you plan to day-trip to nearby ruins or other Riviera Maya towns."
+    },
+    "ko": {
+      "blurb": "칸쿤은 멕시코가 작정하고 만들어낸 카리브해의 휴양 도시로, 에메랄드빛 바다와 하얀 백사장을 따라 올인클루시브 호텔들이 길게 늘어선 좁은 섬 지형(호텔 존)이 그 중심을 이룹니다. 여기서 바다 건너 본토 쪽에는 평범한 멕시코인들의 삶이 펼쳐지는 다운타운이 따로 자리잡고 있죠. 또한 칸쿤은 툴룸, 플라야 델 카르멘을 비롯해 유카탄 반도 곳곳에 흩어진 고대 마야 유적지까지, 리비에라 마야 일대를 둘러보기 위한 관문 역할도 톡톡히 해냅니다.",
+      "getting": "대부분의 여행자는 해안에서 몇 킬로미터 떨어진 내륙에 위치한 칸쿤 국제공항(CUN)을 통해 입국합니다. 공항에서 호텔 존까지는 택시, 프라이빗 транс퍼, 또는 ADO 버스를 이용할 수 있으며, 교통 상황과 목적지에 따라 보통 20~45분 정도 소요됩니다.",
+      "days": "해변과 리조트에서의 여유로운 시간을 만끽하려면 3~5일 정도를 계획하시고, 근교 유적지나 리비에라 마야의 다른 마을로 당일치기 여행을 다녀올 계획이라면 하루이틀 정도 더 여유를 두는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "カンクンは、メキシコが一から作り上げたカリブ海のリゾート都市。ターコイズブルーの海と白砂のビーチ沿いに、オールインクルーシブのホテルが立ち並ぶ細長い砂州と、メキシコ人の日常生活が息づく本土側のダウンタウンという、2つの顔を持つ。さらに、トゥルムやプラヤ・デル・カルメン、ユカタン半島内陸に点在する古代マヤ遺跡など、広大なリビエラ・マヤ地方への玄関口としての役割も担っている。",
+      "getting": "多くの旅行者は、海岸から内陸へ数キロ入ったところにあるカンクン国際空港(CUN)から到着する。空港からホテルゾーンへは、タクシー、プライベート送迎、またはADOバスを利用でき、所要時間は交通状況や目的地によって異なるものの、おおむね20〜45分程度となる。",
+      "days": "ビーチとリゾート生活にじっくり浸るなら3〜5日ほど見ておきたい。近郊の遺跡や他のリビエラ・マヤの町へ日帰りで足を延ばす予定があるなら、さらに1〜2日追加しておくとよいだろう。"
+    },
+    "es": {
+      "blurb": "Cancún es la ciudad balneario caribeña que México construyó a medida: una estrecha isla barrera llena de hoteles todo incluido a lo largo de aguas turquesas y arena blanca, junto a un centro urbano independiente en tierra firme donde transcurre la vida cotidiana mexicana. También funciona como la principal puerta de entrada a la Riviera Maya en su conjunto, incluyendo Tulum, Playa del Carmen y las antiguas ruinas mayas repartidas por el interior de Yucatán.",
+      "getting": "La mayoría de los viajeros llega por el Aeropuerto Internacional de Cancún (CUN), ubicado a pocos kilómetros tierra adentro desde la costa. Desde allí, se llega a la Zona Hotelera en taxi, traslado privado o autobús ADO, con un trayecto que suele tomar entre 20 y 45 minutos según el tráfico y el destino.",
+      "days": "Conviene reservar de 3 a 5 días para disfrutar del ritmo de playa y resort, sumando uno o dos días más si planeas hacer excursiones de un día a ruinas cercanas u otros pueblos de la Riviera Maya."
+    },
+    "zh": {
+      "blurb": "坎昆是墨西哥专为度假而生的加勒比海滨城市,坐落在一条狭长的堰洲岛上,沿着土耳其蓝海水和白沙滩分布着一家家全包式酒店;与此同时,岛对面的大陆市区则保留着墨西哥人日常生活的烟火气。坎昆同时也是通往更广阔的玛雅海岸地区的主要门户,从图伦、卡门海滩,到散落在尤卡坦内陆各处的古玛雅遗址,都可由此出发。",
+      "getting": "大多数游客经坎昆国际机场(CUN)抵达,机场位于距海岸几公里的内陆地区。从机场前往酒店区可选择出租车、私人接送服务或ADO巴士,车程一般在20到45分钟左右,具体视路况和目的地而定。",
+      "days": "建议预留3到5天时间尽情享受海滩与度假村生活;如果计划前往附近的玛雅遗址或玛雅海岸沿线其他小镇一日游,最好再多留出一两天时间。"
+    }
   }
 }

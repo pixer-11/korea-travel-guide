@@ -1,71 +1,71 @@
 ---
 lang: es
 slug: hanoi-techcombank-hanoi-international-marathon
-srcHash: '9bfb91f09eb6'
-title: 'Maratón Internacional de Hanói Techcombank: fechas, entradas y sede (Hanói)'
-description: El Maratón Internacional de Hanói Techcombank se celebra en Hanói, Vietnam, el 4 de octubre de 2026. Qué es, cuándo y dónde se disputa, y cómo organizar tu viaje en torno a él.
-quickAnswer: El Maratón Internacional de Hanói Techcombank vuelve al Casco Antiguo (Old Quarter) de Hanói el 4 de octubre de 2026, en su quinta edición, con distancias de 5K, 10K, media maratón y maratón completo. La salida y la meta se ubican cerca del núcleo histórico, en torno al lago Hoan Kiem, así que conviene planear el hotel y los desplazamientos teniendo en cuenta los cortes de tráfico en el Casco Antiguo esa mañana. Antes de reservar vuelos u hoteles, confirma horarios y entradas en la web oficial del evento.
+srcHash: '995d9a8de1ca'
+title: 'Maratón Internacional Techcombank de Hanói: fechas, inscripciones y sede (Hanói)'
+description: El Maratón Internacional Techcombank de Hanói (Vietnam) tenía fecha el 4 de octubre de 2026, con pruebas de 5K, 10K, media maratón y maratón completa por el Barrio Antiguo.
+quickAnswer: 'El Maratón Internacional Techcombank de Hanói llegaba a su quinta edición con fecha anunciada el 4 de octubre de 2026. Su escenario era el Barrio Antiguo de Hanói, y el programa incluía cuatro distancias: 5K, 10K, media maratón y maratón completa. La salida y la meta se encontraban en el núcleo histórico que rodea el lago Hoan Kiem, cuyas calles se cerraban al tráfico la mañana de la carrera.'
 faq:
-  - q: ¿Cuándo se celebra el Maratón Internacional de Hanói Techcombank?
-    a: La carrera está prevista para el 4 de octubre de 2026, en su quinta edición. Confirma la fecha exacta y cualquier cambio de programa en la web oficial del evento antes de reservar el viaje.
-  - q: ¿Qué distancias puedo correr?
-    a: 'Hay cuatro opciones: 5K, 10K, media maratón (21,1K) y maratón completo (42,2K), todas ellas la misma mañana, con horarios de salida escalonados según la distancia.'
-  - q: ¿Dónde están la salida y la meta de la carrera?
-    a: El recorrido atraviesa el Casco Antiguo (Old Quarter) de Hanói y pasa junto a lugares históricos cercanos al lago Hoan Kiem. Confirma los puntos exactos de salida y meta, así como el mapa de cortes de tráfico, en la web oficial del evento.
-  - q: ¿Cómo puedo moverme por Hanói la mañana de la carrera?
-    a: Prevé que las calles del Casco Antiguo permanezcan cerradas al tráfico desde primera hora de la mañana hasta bien entrada la mañana. Dentro de la zona de cierre, caminar suele ser más fiable que usar taxis o aplicaciones de transporte, así que, si es posible, aloja a una distancia que puedas cubrir a pie.
-  - q: ¿Es octubre una buena época para visitar Hanói por la carrera?
-    a: Sí. A principios de octubre, Hanói entra en su temporada más fresca y seca, tras el monzón de verano, lo que resulta más agradable tanto para correr como para ver la carrera que los meses húmedos del verano.
+  - q: ¿Cuándo era el Maratón Internacional Techcombank de Hanói?
+    a: La carrera tenía fecha el 4 de octubre de 2026. Era su quinta edición, y las cuatro distancias se disputaban esa misma mañana.
+  - q: ¿Qué distancias había?
+    a: 'Había cuatro opciones: 5K, 10K, media maratón (21,1K) y maratón completa (42,2K). Todas se corrían la misma mañana, y cada distancia tenía su propia hora de salida.'
+  - q: ¿Dónde estaban la salida y la meta?
+    a: El recorrido previsto atravesaba el Barrio Antiguo de Hanói y pasaba junto a los lugares históricos cercanos al lago Hoan Kiem. La zona de salida y meta tenía como eje el propio lago.
+  - q: ¿Cómo era moverse por Hanói la mañana de la carrera?
+    a: Las calles del Barrio Antiguo se cerraban al tráfico desde primera hora hasta media mañana. Dentro de la zona de cortes, ir a pie solía resultar más fiable que el taxi o las aplicaciones de transporte, y la mayoría de los hoteles del núcleo histórico se encuentran a poca distancia andando del lago.
+  - q: ¿Era octubre una buena época para visitar Hanói con motivo de la carrera?
+    a: Sí. A comienzos de octubre ya ha pasado el monzón de verano y Hanói entra en su estación más fresca y seca. Tanto para correr como para animar desde la acera, estas semanas resultan más agradables que los húmedos meses del verano.
 ---
 
-## En qué consiste realmente la carrera
+## Qué es realmente esta carrera
 
-Se trata de la carrera anual más importante de Hanói, que se celebra cada mes de octubre. Cuatro distancias salen la misma mañana: 5K, 10K, media maratón y maratón completo. El recorrido atraviesa el Casco Antiguo (Old Quarter) y pasa junto a los lugares históricos de la ciudad, de modo que los corredores dejan atrás fachadas de la época colonial francesa, puertas de templos y paseos junto al lago, en lugar de recorrer un distrito de negocios anónimo.
+Ninguna otra carrera en ruta de Hanói reúne a tanta gente a lo largo del año, y su cita es cada mes de octubre. En una misma mañana se disputan cuatro distancias: 5K, 10K, media maratón y maratón completa. El trazado recorre el Barrio Antiguo y los lugares históricos de la ciudad. Por eso, en lugar de cruzar un distrito financiero sin personalidad, el corredor avanza entre fachadas de la época colonial francesa, puertas de templos y paseos a orillas del lago.
 
-Techcombank, un gran banco vietnamita, es el patrocinador principal que da nombre a la prueba, algo habitual en las carreras más importantes del país. Precisamente ese patrocinio explica que el evento haya ido ganando un nivel internacional a lo largo de cinco ediciones, atrayendo tanto a corredores de clubes vietnamitas como a viajeros que organizan su visita en torno al fin de semana de la carrera.
+El nombre de Techcombank corresponde al patrocinador principal, un gran banco vietnamita, algo habitual en las carreras en ruta más importantes del país. Gracias a ese patrocinio, a lo largo de cinco ediciones la prueba ha reunido un pelotón de nivel internacional. A ella acuden tanto corredores de clubes vietnamitas como viajeros que organizan su viaje en torno al fin de semana de la carrera.
 
-## Dónde se ubican la salida y la meta
+## Dónde estaban la salida y la meta
 
-La carrera se organiza en torno al Casco Antiguo de Hanói, la densa trama de calles estrechas al norte del lago Hoan Kiem. Es de esperar que la zona de salida y meta se sitúe cerca del propio lago, ya que resulta el punto natural para una prueba de este tamaño en el centro de Hanói. Las calles de este distrito ya son estrechas y con muchas direcciones únicas en un día normal, así que la mañana de la carrera secciones enteras quedan cerradas al tráfico.
+La carrera gira en torno al Barrio Antiguo de Hanói, esa densa cuadrícula de calles estrechas que se extiende al norte del lago Hoan Kiem. La zona de salida y meta se situó junto al propio lago, el punto de reunión natural para una prueba de estas dimensiones en el centro de la ciudad. En este distrito las calles ya son estrechas en un día normal y muchas tienen un único sentido de circulación, de modo que la mañana de la carrera se cortaban al tráfico tramos enteros.
 
-- Si quieres llegar a pie hasta la salida, aloja en el Casco Antiguo o en los alrededores del lago Hoan Kiem.
-- Espera cortes de tráfico desde primera hora de la mañana hasta bien entrada la mañana, mientras llegan los últimos corredores del maratón completo.
-- Los taxis y las aplicaciones de transporte tienen dificultades para llegar a los hoteles situados dentro de la zona de cierre; caminar suele ser más rápido que ir en coche esa mañana.
+- El Barrio Antiguo y la orilla del lago Hoan Kiem eran las zonas desde las que se llegaba a pie a la salida
+- Los cortes previstos abarcaban desde primera hora hasta media mañana, de modo que cubrían también a los últimos en terminar la maratón completa
+- A los taxis y a los vehículos de las aplicaciones de transporte les costaba llegar a los hoteles situados dentro de la zona cortada, y esa mañana caminar solía ser más rápido que ir en coche
 
-Confirma la línea de salida exacta, la de meta y el mapa de cortes de tráfico en la web oficial del evento. Para una carrera de este tamaño, conviene comprobar la logística a pie de calle directamente allí en lugar de guiarse por ediciones anteriores.
+Los planos de cortes varían de una edición a otra, porque los bucles exactos por el casco antiguo cambian con el recorrido. Lo que nunca cambia es el lago: sea cual sea el trazado del año, la carrera siempre vuelve a la orilla del Hoan Kiem.
 
-## Las cuatro distancias, y para quién son
+## Las cuatro distancias y a quién se dirigían
 
-Los corredores eligen entre 5K, 10K, media maratón (21,1K) y maratón completo (42,2K), todas con salida la misma mañana. El 5K y el 10K son ideales para los visitantes que quieren vivir el recorrido y el ambiente sin llevar detrás un bloque de entrenamiento exigente. La media maratón y el maratón completo atraen al público más serio, incluidos liebres (pacers) y participantes internacionales que buscan marcas de clasificación o mejores tiempos personales.
+Los corredores podían elegir entre 5K, 10K, media maratón (21,1K) y maratón completa (42,2K), todas con salida la misma mañana. El 5K y el 10K se adaptaban bien al visitante que quería conocer el recorrido y vivir el ambiente sin haber pasado por un entrenamiento exigente. La media y la maratón completa atraían al pelotón más competitivo, con liebres y participantes internacionales que buscaban marcas de clasificación o récords personales.
 
-Como las cuatro carreras comparten calles y una franja horaria comprimida por la mañana, los horarios de salida se escalonan según la distancia. Consulta el programa oficial para conocer los horarios exactos de cada tanda, en lugar de suponer que hay un único disparo de salida para todos.
+Como las cuatro pruebas compartían calles y un horario matinal muy ajustado, cada distancia salía a una hora distinta. No había un único pistoletazo para todos, sino una tanda propia por distancia.
 
-## Corriendo junto a mil años de historia de la ciudad
+## Mil años de ciudad a pie de carrera
 
-Lo que diferencia este recorrido de la mayoría de los maratones internacionales es lo que se ve a lo largo del camino, no solo la distancia recorrida. El Casco Antiguo de Hanói tiene casi mil años de historia como corazón comercial original de la ciudad, y el trazado está pensado para que los corredores pasen junto a sus templos, sus edificios de la época colonial y el propio lago, en lugar de rodearlos.
+Frente a la mayoría de las maratones internacionales, lo que distingue a esta no es tanto la distancia como lo que se ve por el camino. El Barrio Antiguo de Hanói fue el corazón comercial original de la ciudad y tiene alrededor de mil años de historia. El trazado está pensado para llevar a los corredores junto a sus templos, sus edificios coloniales y el propio lago, en lugar de rodearlos.
 
-Es probable que la Torre de la Tortuga (Turtle Tower), situada en su pequeña isla del lago Hoan Kiem, aparezca como referencia visual cerca de la salida o de la meta, dada su ubicación en el extremo del distrito.
+En el límite del barrio, sobre su pequeño islote en el lago Hoan Kiem, se alza la Torre de la Tortuga, una referencia visual muy próxima a la salida y la meta.
 
-Más que un circuito rápido y llano pensado para marcas personales, esto es un recorrido turístico en movimiento: callejones estrechos se abren brevemente hacia el lago para luego volver a cerrarse entre las típicas casas-tubo del Casco Antiguo. Quienes persigan un tiempo concreto de meta deben saber que los giros cerrados y el mobiliario urbano del barrio histórico añaden una dificultad técnica que no encontrarían en un maratón de avenidas anchas.
+Más que un circuito llano y rápido para batir marcas, se trata de una visita turística en movimiento. Las callejuelas se abren durante unos instantes hacia el lago y luego vuelven a estrecharse entre las casas tubo que dan fama al Barrio Antiguo. Las curvas cerradas y el mobiliario urbano del casco antiguo añaden una dificultad técnica que no tendría una maratón urbana de grandes avenidas.
 
-## Cómo llegar a Hanói para el fin de semana de la carrera
+## Cómo llegar a Hanói el fin de semana de la carrera
 
-El aeropuerto internacional de Noi Bai es la puerta de entrada a Hanói, conectado con el Casco Antiguo en taxi o en autobús del aeropuerto, según el tráfico. Octubre cae dentro de la temporada seca y más fresca de Hanói, una vez que se disipa la humedad del monzón de verano y antes de que llegue el frío húmedo del invierno, lo que en parte explica que la carrera se programe a principios de octubre.
+La puerta de entrada a Hanói es el Aeropuerto Internacional de Noi Bai, comunicado con el Barrio Antiguo en taxi o en autobús, según el tráfico. Octubre coincide con la estación seca y más fresca de la ciudad: la humedad del monzón de verano ya ha remitido y aún no ha llegado el frío húmedo del invierno. Ese es uno de los motivos por los que la carrera se fija a comienzos de octubre.
 
-Reserva con antelación alojamiento en el Casco Antiguo o junto al lago Hoan Kiem para el fin de semana de la carrera. Las habitaciones cercanas al recorrido se agotan rápido entre la comunidad corredora, tanto por los grupos de clubes vietnamitas que viajan desde otras ciudades como por los participantes internacionales que organizan su viaje a Hanói en torno al maratón.
+El fin de semana de la carrera, las habitaciones del Barrio Antiguo y de la orilla del lago Hoan Kiem se llenan enseguida. Las ocupa la comunidad corredora: grupos de clubes vietnamitas que llegan desde otras ciudades y participantes internacionales que organizan su viaje a Hanói en torno a la maratón.
 
 ## Inscripción y recogida de dorsales
 
-En Vietnam, los organizadores de maratones suelen montar una feria o un punto de recogida de dorsales en los días previos a la carrera, donde los corredores retiran su número de dorsal, el chip de cronometraje y el kit del día de la prueba. La web oficial del evento es la fuente de referencia para conocer el lugar exacto de recogida de dorsales, las fechas y los plazos de inscripción para cada distancia.
+En Vietnam, los organizadores de maratones suelen montar una feria del corredor o un punto de recogida de dorsales en los días previos a la carrera. Allí cada participante retira su dorsal, el chip de cronometraje y la bolsa del corredor. Los puntos de recogida suelen estar en el centro, y cada distancia tiene su propio plazo de inscripción.
 
-No des por hecho que la inscripción online internacional permanece abierta hasta el último momento. Los maratones vietnamitas de esta magnitud suelen limitar el número de plazas por distancia, y los cupos de la media maratón y del maratón completo se agotan antes que los del 5K y el 10K. Confirma horarios y entradas en la web oficial con bastante antelación respecto a la fecha prevista de tu viaje.
+La inscripción internacional en línea no siempre permanece abierta hasta el último momento. Las maratones vietnamitas de este tamaño suelen limitar el número de plazas por distancia, y la media y la maratón completa se agotan antes que el 5K y el 10K.
 
-## Animando desde la orilla del lago Hoan Kiem
+## Animar desde la orilla del Hoan Kiem
 
-Si no vas a correr, la orilla del lago es el lugar más fácil para ver la carrera. El paseo pavimentado que rodea el lago Hoan Kiem ofrece a los espectadores una línea de visión continua mientras los corredores van pasando en cada vuelta, y las calles de alrededor cuentan con cafeterías donde sentarse y ver desfilar a los participantes entre tanda y tanda.
+Para quienes no corrían, la orilla del lago era el lugar más cómodo para seguir la carrera. El paseo pavimentado que rodea el lago Hoan Kiem ofrece al público una visión continua del paso de los corredores en cada vuelta. En las calles de alrededor hay cafeterías donde sentarse y ver el pelotón entre una oleada de corredores y la siguiente.
 
-- Llega temprano para conseguir un buen sitio junto al lago, antes de que los cortes de tráfico dificulten cruzar la ciudad.
-- El café vietnamita con hielo (ca phe sua da) de algún puesto callejero es la forma habitual en que los locales se preparan para una mañana de espectáculo.
-- Espera que el ambiente se intensifique a medida que se acercan a la meta los líderes de la media maratón y del maratón completo, normalmente un par de horas después de que arranquen las primeras tandas.
+- Los sitios junto al lago se ocupaban pronto, antes de que los cortes de tráfico complicaran cruzar la ciudad
+- Entre los vecinos, lo habitual para aguantar una mañana de animación es un café helado vietnamita (ca phe sua da) de algún puesto callejero
+- El ambiente se intensifica cuando los primeros de la media y de la maratón completa se acercan a la meta, normalmente un par de horas después de la salida de las primeras tandas
 
-Lleva efectivo en billetes pequeños para los vendedores callejeros de los alrededores del lago, ya que muchos de los puestos más pequeños de café y aperitivos cercanos al recorrido no aceptan tarjeta.
+Alrededor del lago conviene llevar billetes pequeños, ya que muchos de los puestos de café y tentempiés cercanos al recorrido no aceptan tarjeta.

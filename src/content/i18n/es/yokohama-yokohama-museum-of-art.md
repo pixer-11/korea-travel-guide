@@ -1,55 +1,59 @@
 ---
 lang: es
 slug: yokohama-yokohama-museum-of-art
-srcHash: '8172e7bc1318'
-title: 'Museo de Arte de Yokohama: Guía de viaje (4.2★)'
-description: 'El Museo de Arte de Yokohama se encuentra en Minatomirai, a poca distancia a pie de la estación de Minatomirai o de la estación de Sakuragicho, y combina un llamativo edificio de Kenzo Tange con una colección que va desde Matisse y Picasso hasta el arte japonés contemporáneo. 4.2★ (2825 opiniones): qué dicen los visitantes, horarios y consejos.'
-quickAnswer: El Museo de Arte de Yokohama se encuentra en Minatomirai, a poca distancia a pie de la estación de Minatomirai o de la estación de Sakuragicho, y combina un llamativo edificio de Kenzo Tange con una colección que va desde Matisse y Picasso hasta el arte japonés contemporáneo. Los fines de semana entre las 11:00 y las 17:00 son el tramo más concurrido, así que, si puedes, procura ir en la última hora o dos antes del cierre (la franja más tranquila es de 18:00 a 19:00) para una visita más relajada. Calcula entre 1,5 y 2 horas, y consulta el horario actual del museo y los precios de entrada de las exposiciones especiales antes de ir, ya que cambian con cada muestra.
+srcHash: 'dd98863bb248'
+title: 'Museo de Arte de Yokohama: guía de viaje (4.2★)'
+description: 'A pocos minutos a pie de las estaciones de Minatomirai y Sakuragicho, el Museo de Arte de Yokohama ocupa un llamativo edificio de Kenzo Tange en el barrio de Minatomirai y reúne una colección que va de Matisse y Picasso al arte japonés contemporáneo. 4.2★ (2,825 reseñas): opiniones de los visitantes, horarios y consejos.'
+quickAnswer: A pocos minutos a pie de las estaciones de Minatomirai y Sakuragicho, en pleno barrio de Minatomirai, el Museo de Arte de Yokohama combina un llamativo edificio de Kenzo Tange con una colección que abarca desde Matisse y Picasso hasta el arte japonés contemporáneo. La mayor afluencia se concentra los fines de semana entre las 11am y las 5pm. Si su agenda lo permite, vaya en la última hora antes del cierre, la franja más tranquila (5pm–6pm), para recorrerlo con calma. Reserve entre 1.5 y 2 horas para la visita. Antes de ir, compruebe el horario vigente y el precio de las entradas a las exposiciones temporales, ya que ambos cambian con cada muestra.
 faq:
   - q: ¿Cómo se llega al Museo de Arte de Yokohama?
-    a: Toma la línea Minatomirai hasta la estación de Minatomirai y camina unos 3–5 minutos por la salida señalizada hacia Queen's Square, o camina unos 10 minutos desde la estación JR de Sakuragicho cruzando las pasarelas de Landmark Plaza.
-  - q: ¿Cuánto tiempo debería planear pasar allí?
-    a: Entre 1,5 y 2 horas alcanza para recorrer la colección permanente y una exposición especial a un ritmo cómodo; añade más tiempo si la muestra especial en curso es grande.
+    a: Con la línea Minatomirai hasta la estación de Minatomirai, desde donde se tarda unos 3–5 minutos a pie por la salida de Queen's Square. Otra opción es salir de la estación JR de Sakuragicho y caminar unos 10 minutos por las pasarelas de Landmark Plaza.
+  - q: ¿Cuánto tiempo conviene reservar para la visita?
+    a: Con 1.5 a 2 horas se recorren sin prisas la colección permanente y una exposición temporal. Si la muestra temporal del momento es grande, calcule algo más.
   - q: ¿Cuándo hay menos gente?
-    a: Tanto en días de semana como en fines de semana, las salas están más tranquilas entre las 18:00 y las 19:00. Evita llegar los fines de semana entre las 11:00 y las 17:00, que es cuando hay más afluencia.
+    a: Las salas están más tranquilas entre las 5pm y las 6pm, justo antes del cierre, tanto entre semana como en fin de semana. Conviene no llegar los fines de semana entre las 11am y las 5pm, cuando se concentra la mayor afluencia.
   - q: ¿Por qué es conocido el museo?
-    a: Por una colección muy amplia que abarca desde Matisse, Picasso, Dalí y Kandinsky hasta la pintura y fotografía japonesa contemporánea, alojada en un edificio emblemático de Kenzo Tange.
+    a: Por una colección muy variada que reúne obras de Matisse, Picasso, Dalí y Kandinsky junto a pintura y fotografía japonesas contemporáneas, todo ello en un emblemático edificio de Kenzo Tange.
   - q: ¿Qué más hay cerca?
-    a: La Yokohama Landmark Tower, el parque de diversiones Cosmo World y el Cup Noodles Museum están todos a poca distancia a pie, en el distrito de Minatomirai.
+    a: En el propio distrito de Minatomirai, a poca distancia a pie, se encuentran la Yokohama Landmark Tower, el parque de atracciones Cosmo World y el Museo del Cup Noodles (Cup Noodles Museum).
 ---
 
 ## Por qué ir
 
-Llegas al Museo de Arte de Yokohama esperando encontrar un museo de arte regional y, en cambio, te encuentras de pie en un vestíbulo de proporciones catedralicias, simétrico y de tonos pálidos, con suelos de piedra gris que parecen absorber el sonido de los pasos. Es el diseño de Kenzo Tange de finales de los años ochenta, parte de la gran remodelación del frente marítimo de Minatomirai 21, y el propio edificio ya justifica la visita antes incluso de ver un solo cuadro.
+Quien llega al Museo de Arte de Yokohama esperando un museo regional más se topa con un vestíbulo de proporciones catedralicias. Es simétrico y de tonos claros, y su suelo de piedra gris parece amortiguar el eco de los pasos. Lo diseñó Kenzo Tange a finales de los años ochenta dentro del gran proyecto de renovación del frente marítimo de Minatomirai 21, y el edificio ya justifica la visita antes incluso de ver un solo lienzo.
 
-En el interior, la colección permanente pasa de Matisse y Picasso a Dalí y Kandinsky, y a la vuelta de una esquina se adentra en la fotografía y la pintura japonesa de posguerra y contemporánea: una red deliberadamente amplia que premia el paseo pausado más que el enfoque de "lista de tareas".
+La colección permanente recorre a Matisse, Picasso, Dalí y Kandinsky para adentrarse después en la fotografía y la pintura japonesas de posguerra y contemporáneas. Es una selección intencionadamente amplia, que se disfruta más paseando sin prisa que tachando obras de una lista.
 
 ## Cómo llegar
 
-El museo se encuentra en el distrito de Minatomirai, en el barrio de Nishi (Nishi Ward), la zona ganada al mar en Yokohama con centros de convenciones, centros comerciales y la noria Cosmo Clock 21. La parada más cercana es la estación de Minatomirai, en la línea Minatomirai, a unos 3–5 minutos a pie por la salida señalizada hacia Queen's Square.
+El museo se encuentra en el distrito de Minatomirai, en el barrio de Nishi. Esta zona portuaria ganada al mar reúne centros de convenciones, centros comerciales y la noria Cosmo Clock 21. La parada más cercana es la estación de Minatomirai, de la línea Minatomirai, a unos 3–5 minutos a pie por la salida señalizada hacia Queen's Square. Si viene del centro de Yokohama o hace transbordo desde las líneas de JR, también le sirve la estación de Sakuragicho (línea JR Negishi). Desde allí son unos 10 minutos a pie por las pasarelas peatonales de Landmark Plaza.
 
-Si vienes del centro de Yokohama o haces transbordo desde las líneas JR, también sirve la estación de Sakuragicho (línea JR Negishi), a unos 10 minutos a pie cruzando las pasarelas peatonales de Landmark Plaza. Ambos trayectos son llanos, están cubiertos en buena parte por los pasillos del centro comercial y son fáciles de seguir incluso en una primera visita, algo útil en una tarde húmeda de verano en Yokohama o en un día de lluvia.
+Los dos trayectos son llanos y fáciles de seguir aunque sea su primera visita. Además, buena parte del camino discurre a cubierto por los pasillos de los centros comerciales, algo muy de agradecer en las húmedas tardes del verano de Yokohama o en un día de lluvia.
 
-## Qué ver dentro
+## Qué ver en el interior
 
-Tómate tiempo para mirar hacia arriba tanto como miras las obras: solo el gran vestíbulo, con su claraboya de bóveda de cañón y sus columnatas de piedra, marca un tono de solemnidad tranquila que no se encuentra en la mayoría de los museos contemporáneos. Las salas están organizadas para que el recorrido vaya de los grandes maestros modernos occidentales a la pintura japonesa Nihonga y Yoga, y de ahí a la fotografía, uno de los puntos fuertes de la colección gracias a la historia de Yokohama como uno de los primeros puertos de Japón abiertos al comercio extranjero.
+Merece la pena mirar hacia arriba tanto como a las obras. El gran vestíbulo, con su lucernario abovedado y sus columnatas de piedra, crea por sí solo un ambiente de sobria solemnidad poco habitual en los museos contemporáneos. El recorrido empieza con los maestros modernos occidentales y continúa con la pintura japonesa de estilo Nihonga y Yoga para terminar en la fotografía. Esta última es uno de los puntos fuertes de la colección, ya que Yokohama fue uno de los primeros puertos de Japón abiertos al comercio exterior.
 
-Presta atención a cómo el museo aprovecha esa historia: obras que hacen referencia a la apertura del puerto en el siglo XIX conviven con instalaciones contemporáneas mucho más recientes. Las exposiciones especiales rotan con regularidad en las salas de la planta baja, y a menudo traen grandes muestras itinerantes, así que lo que se exhibe más allá de la colección principal cambia a lo largo del año.
+Fíjese en cómo el museo aprovecha esa historia, con piezas que evocan la apertura del puerto en el siglo XIX junto a instalaciones contemporáneas mucho más recientes. Las salas de la planta baja acogen exposiciones temporales que se renuevan con frecuencia, a menudo con grandes préstamos de otras instituciones. Por eso, lo que puede verse además de la colección principal va cambiando a lo largo del año.
 
 ## Cuándo ir
 
-El patrón de afluencia aquí es realmente útil de conocer antes de planear el día. Los fines de semana se llena entre las 11:00 y las 17:00, justo cuando la mayoría de los visitantes —familias, turistas que lo combinan con un paseo por Minatomirai, grupos escolares— colman las salas. Tanto en días de semana como en fines de semana, la afluencia baja notablemente entre las 18:00 y las 19:00, así que, si el horario del museo ese día se extiende hasta primera hora de la noche, esa es tu ventana para ver las salas casi vacías y disfrutar de mayor distancia frente a los cuadros.
+Antes de organizar el día, conviene conocer cómo se reparte aquí la afluencia. Los fines de semana, entre las 11am y las 5pm, las salas se llenan de familias, grupos escolares y turistas que combinan la visita con un paseo por Minatomirai. Tanto entre semana como en fin de semana, el ambiente se calma bastante entre las 5pm y las 6pm. Esa es la franja ideal para encontrar las salas casi vacías y contemplar los cuadros a la distancia que uno quiera antes del cierre.
 
-Como el horario de apertura puede variar según las exposiciones y la temporada, confirma la hora de cierre actual antes de ir; llegar demasiado cerca del cierre sin comprobarlo podría acortar tu visita.
+El horario puede variar según la exposición y la temporada, así que confirme la hora de cierre antes de ir. Si llega demasiado tarde sin haberlo comprobado, la visita podría quedarse corta.
 
 ## Cómo visitarlo como un local
 
-Trátalo como una parada de última hora de la tarde en lugar de un plan para la mañana: quienes trabajan cerca suelen pasar después de las 16:00 o 17:00 en lugar de enfrentarse a la avalancha de última hora de la mañana los fines de semana. Compra tu entrada en la taquilla o mediante el sistema de venta en línea del propio museo, si está disponible para la muestra actual; las exposiciones especiales suelen requerir una entrada separada o combinada con la de la colección permanente, así que decide antes de hacer la fila si quieres ver ambas.
+En lugar de convertirlo en el plan central de la mañana, déjelo para última hora de la tarde. Muchos de los que trabajan por la zona se pasan después de las 4 o las 5pm y así evitan la aglomeración de las mañanas del fin de semana. Puede comprar la entrada en taquilla o, si está disponible para la exposición del momento, en el sistema de venta en línea del propio museo.
 
-En la taquilla y en la tienda del museo se aceptan tanto efectivo como tarjeta, aunque lo habitual por rapidez es pagar acercando la tarjeta o usando una tarjeta de transporte IC (Suica/PASMO). Vale la pena usar las taquillas para abrigos cerca de la entrada: las salas son amplias y no querrás cargar una bolsa por ellas. El error más común entre los turistas es tratar esto como una parada rápida de 30 minutos entre otras atracciones de Minatomirai; la colección y las exposiciones especiales juntas ocupan cómodamente entre 90 minutos y dos horas, así que calcula el tiempo en consecuencia en lugar de apresurarte en las últimas salas.
+Las exposiciones temporales suelen requerir una entrada aparte o combinada con la colección permanente, así que decida antes de hacer cola si quiere ver ambas.
 
-Si el español —o el inglés, en tu caso— no es tu lengua materna, suele haber textos murales y audioguías en inglés para la colección permanente, aunque la cobertura de traducción varía en las exposiciones especiales.
+En la taquilla y en la tienda del museo se acepta tanto efectivo como tarjeta, aunque lo habitual es pagar con tarjeta sin contacto o con una tarjeta IC de transporte (Suica/PASMO) para ir más rápido. Use las taquillas para abrigos situadas junto a la entrada. Las salas son amplias y no le apetecerá recorrerlas cargando con un bolso. El error más común entre los turistas es tomarlo como una parada rápida de 30 minutos entre otros puntos de interés de Minatomirai.
+
+Entre la colección y las exposiciones temporales se llenan sin esfuerzo entre 90 minutos y dos horas, así que calcule bien el tiempo para no recorrer a la carrera las últimas salas.
+
+Si no habla japonés, sepa que la colección permanente suele contar con cartelas en inglés y audioguías. En las exposiciones temporales, en cambio, la oferta de traducciones varía.
 
 ## Alrededores
 
-Una vez que sales de nuevo a la calle, Minatomirai invita a quedarse más tiempo: la Yokohama Landmark Tower y su mirador, el parque de diversiones Cosmo World con su noria orientada hacia el puerto, y el Cup Noodles Museum están todos a poca distancia a pie, lo que convierte esta zona en un conjunto natural para pasar media jornada o el día completo, más que en una parada aislada.
+Al salir, Minatomirai invita a quedarse más tiempo. A poca distancia a pie se encuentran la Yokohama Landmark Tower con su mirador, el parque de atracciones Cosmo World con su noria frente al puerto y el Museo del Cup Noodles (Cup Noodles Museum). Todo ello permite dedicar a la zona media jornada o el día entero en lugar de hacer una visita aislada.

@@ -1,34 +1,34 @@
 ---
 lang: es
 slug: goyang-lany-concert
-srcHash: 'f2eebeb43e43'
+srcHash: '301d3ddf23d3'
 title: 'Concierto de LANY: fechas, entradas y recinto (Goyang)'
-description: LANY ofrecerá dos conciertos en Goyang los días 3 y 4 de octubre de 2026. Ambos tendrán lugar en KINTEX, el gran centro de exposiciones de Ilsan, situado al noroeste de Seúl.
-quickAnswer: LANY actuará en Goyang dos noches seguidas, los días 3 y 4 de octubre de 2026, en KINTEX. Este gran centro de exposiciones se encuentra en Ilsan, al noroeste de Seúl. Para llegar, tome la línea GTX-A hasta la estación de Kintex o la línea 3 del metro de Seúl hasta Daehwa. Lleve un pasaporte con el mismo nombre que figura en su entrada. El horario, el pabellón y las entradas deben confirmarse en el sitio oficial.
+description: LANY tenía anunciadas dos noches en KINTEX, el centro de exposiciones de Ilsan, al noroeste de Seúl, los días 3 y 4 de octubre de 2026.
+quickAnswer: Las fechas anunciadas para LANY eran el 3 y el 4 de octubre de 2026, con dos noches en KINTEX, el gran centro de exposiciones de Ilsan, justo al noroeste de Seúl. El recinto está junto a la estación Kintex de la línea GTX-A, y la línea 3 del metro de Seúl llega hasta Daehwa. En los conciertos coreanos es habitual cotejar el nombre que figura en la entrada con un documento de identidad con foto, que en el caso de los visitantes extranjeros es el pasaporte.
 faq:
-  - q: ¿Cuándo y dónde actúa LANY en Goyang?
-    a: LANY ofrecerá dos conciertos los días 3 y 4 de octubre de 2026 en KINTEX, situado en la zona de Ilsan, en Goyang, cerca de Seúl. El pabellón concreto, la hora de apertura de puertas y la de comienzo deben confirmarse en el sitio oficial y en la plataforma de venta.
-  - q: ¿Cómo se llega a KINTEX desde Seúl?
-    a: La ruta más rápida es la línea GTX-A hasta la estación de Kintex, que se encuentra junto al complejo. La otra opción es la línea 3 del metro de Seúl hasta la estación de Daehwa, desde donde se continúa a pie o con un breve trayecto en taxi. Consulte el horario del último tren antes del concierto.
-  - q: ¿Necesito el pasaporte para entrar?
-    a: Llévelo. En los conciertos coreanos es habitual comprobar que el nombre de la entrada coincide con un documento de identidad con fotografía, que en el caso de los visitantes extranjeros suele ser el pasaporte. Revise la confirmación de su reserva para saber qué documentos se admiten y si hay normas para recoger las entradas en el recinto.
-  - q: ¿Cómo funciona el acceso a la pista en los conciertos coreanos?
-    a: Las entradas de pista suelen llevar un número de acceso. El personal llama a los asistentes por bloques de números, de modo que su posición depende de ese número y no de la hora a la que llegue. Esté en la zona de la cola a tiempo para cuando llamen a su bloque.
-  - q: ¿Dónde conviene alojarse para el concierto de LANY en KINTEX?
-    a: Si se aloja en Ilsan, en los alrededores de KINTEX o del Parque del Lago de Ilsan, se ahorrará las aglomeraciones del regreso nocturno a Seúl. Muy cerca están las calles La Festa y Western Dom, con multitud de sitios para comer antes y después del concierto.
+  - q: ¿Cuándo y dónde era el concierto de LANY en Goyang?
+    a: 'LANY tenía programados dos conciertos en KINTEX, en la zona de Ilsan (Goyang), cerca de Seúl, los días 3 y 4 de octubre de 2026. KINTEX es el Centro Internacional de Exposiciones de Corea (Korea International Exhibition Center): dos grandes edificios feriales cuyos pabellones se transforman en pistas de concierto.'
+  - q: ¿Cómo se llegaba a KINTEX desde Seúl?
+    a: La vía más rápida era la línea GTX-A hasta la estación Kintex, situada junto al complejo. La otra opción era la línea 3 del metro de Seúl hasta la estación de Daehwa y, desde allí, seguir a pie o en un breve trayecto en taxi. La línea 3 es más lenta, pero conecta directamente con Jongno, Gyeongbokgung y Gangnam.
+  - q: ¿Hacía falta el pasaporte para entrar?
+    a: Por lo general, sí. En los conciertos coreanos suele comprobarse que el nombre de la entrada coincida con un documento de identidad con foto, y para los visitantes extranjeros ese documento suele ser el pasaporte. Las confirmaciones de compra especificaban qué documentos se aceptaban y las normas para recoger las entradas en el propio recinto.
+  - q: ¿Cómo funciona el acceso a pista en los conciertos coreanos?
+    a: Las entradas de pista suelen llevar un número de acceso. El personal llama a los números por bloques, de modo que el sitio en la pista lo decide ese número y no la hora de llegada. Cada bloque entra en el momento en que se le llama.
+  - q: ¿Qué zona de alojamiento convenía para el concierto de LANY en KINTEX?
+    a: Alojarse en el propio Ilsan, en los alrededores de KINTEX o del parque del lago de Ilsan, evitaba el trayecto nocturno de vuelta a través de Seúl. La zona cuenta con hoteles de negocios a poca distancia de los pabellones, ya sea a pie o en un taxi corto. Muy cerca, las calles de La Festa y Western Dom reúnen numerosos sitios para comer.
 ---
 
 ## Dos noches en Ilsan
 
-Los días 3 y 4 de octubre de 2026, LANY actuará en Goyang. La banda estadounidense de pop ha anunciado dos conciertos en KINTEX, el Centro Internacional de Exposiciones de Corea. El recinto está en Ilsanseo-gu, la parte de Goyang construida como ciudad nueva planificada. Desde el centro de Seúl se tarda aproximadamente una hora en metro.
+Las fechas anunciadas de LANY en Goyang eran el 3 y el 4 de octubre de 2026. La banda de pop estadounidense anunció dos conciertos en KINTEX, el Centro Internacional de Exposiciones de Corea (Korea International Exhibition Center). El recinto se encuentra en Ilsanseo-gu, la parte de Goyang que se levantó como ciudad nueva planificada, a cerca de una hora en metro del centro de Seúl.
 
-KINTEX no se diseñó como estadio. Lo forman dos enormes edificios de exposiciones, el Centro de Exposiciones 1 (Exhibition Center 1) y el Centro de Exposiciones 2 (Exhibition Center 2). Cuando hay un concierto, sus pabellones se transforman en salas con un escenario en uno de los extremos, una pista llana para el público de pie y varios bloques de asientos. Esa distribución condiciona la experiencia, porque la visibilidad depende mucho más de la sección que en un estadio con gradas inclinadas.
+KINTEX no es un pabellón concebido para conciertos. Se trata de dos enormes edificios feriales, el Exhibition Center 1 y el Exhibition Center 2, cuyos pabellones se convierten en salas de concierto con el escenario en un extremo, una pista plana para el público de pie y varios bloques de asientos. Esa disposición condiciona la velada: la visibilidad depende mucho más de la zona elegida que en un estadio con gradas inclinadas.
 
-Cada concierto tiene sus propias condiciones, desde el pabellón asignado hasta la hora de apertura de puertas y el plano de asientos. El horario, el pabellón y las entradas deben confirmarse en el sitio oficial y en la plataforma de venta.
+Los detalles del recinto cambian de un concierto a otro, entre ellos el pabellón utilizado, la hora de apertura de puertas y el plano de asientos.
 
-## Por qué LANY llena un recinto así
+## Por qué LANY llena una sala así
 
-La banda se formó en Los Ángeles en 2014, y su nombre es la abreviatura de «LA to NY». Su vocalista, Paul Klein, compone ese pop de desamor cuyas letras el público se sabe de memoria. Cuente con una pista coreando a pleno pulmón canciones como estas:
+La banda nació en Los Ángeles en 2014, y su nombre es la abreviatura de «LA to NY». Su vocalista, Paul Klein, compone ese pop de desamor que el público canta palabra por palabra. Estas son algunas de las canciones capaces de llenar una pista:
 
 - "ILYSB"
 - "Malibu Nights"
@@ -36,54 +36,54 @@ La banda se formó en Los Ángeles en 2014, y su nombre es la abreviatura de «L
 - "Thru These Tears"
 - "Anything 4 U"
 
-LANY lleva años girando intensamente por Asia, y el público coreano tiene fama de ser ruidoso y de conocer cada palabra cuando actúan artistas occidentales. Prepárese para una sala que corea los estribillos con más fuerza que los altavoces y que enciende las linternas de los móviles en las baladas. El repertorio cambia de una gira a otra e incluso de una noche a otra, así que ninguna canción está garantizada.
+LANY lleva años recorriendo Asia de gira, y el público coreano tiene fama de entregarse a pleno pulmón con los artistas occidentales y de saberse cada letra. En salas como esta, los estribillos se corean más fuerte que el propio equipo de sonido y, en las baladas, se encienden las linternas de los móviles. El repertorio varía de una gira a otra y de una noche a otra, así que ninguna canción concreta está garantizada.
 
 ## Cómo llegar a KINTEX
 
-KINTEX queda lo bastante lejos de Seúl como para que convenga elegir bien la ruta. Hay tres opciones fiables.
+KINTEX está lo bastante lejos de Seúl como para que la elección de la ruta importe. Hay tres opciones fiables.
 
-- **GTX-A hasta la estación de Kintex.** Es la conexión más rápida desde la estación de Seúl y desde Yeonsinnae. La estación se encuentra junto al complejo de exposiciones.
-- **Línea 3 del metro de Seúl hasta la estación de Daehwa.** Daehwa es la terminal occidental de la línea 3. Desde allí se llega a KINTEX a pie o con un breve trayecto en autobús o taxi. Es más lenta que la GTX-A, pero tiene conexión directa con Jongno, Gyeongbokgung y Gangnam.
-- **Taxi.** Resérvelo a través de Kakao T. Al terminar la noche, los puntos de recogida se saturan, por lo que conviene fijar uno a unas cuantas manzanas de las salidas.
+- **GTX-A hasta la estación Kintex.** Es la conexión más rápida desde la estación de Seúl y desde Yeonsinnae. La estación queda justo al lado del complejo ferial.
+- **Línea 3 del metro de Seúl hasta la estación de Daehwa.** Daehwa es la terminal occidental de la línea 3. Desde allí se llega a KINTEX a pie o con un breve trayecto en autobús o taxi. La línea 3 es más lenta que la GTX-A, pero conecta directamente con Jongno, Gyeongbokgung y Gangnam.
+- **Taxi.** La aplicación habitual es Kakao T. Al final de la noche, los puntos de recogida se abarrotan, y muchos fans fijan uno a unas cuantas manzanas de las salidas.
 
-Para validar el viaje utilice una tarjeta T-money, que se vende y se recarga en las tiendas de conveniencia. Si llega en avión, el aeropuerto de Gimpo está mucho más cerca de Ilsan que el de Incheon. Desde ambos aeropuertos salen autobuses limusina en dirección a la zona de Ilsan.
+La tarjeta T-money, que se vende y se recarga en las tiendas de conveniencia, sirve en ambas líneas ferroviarias. Para quien llega en avión, el aeropuerto de Gimpo está mucho más cerca de Ilsan que el de Incheon. Desde los dos aeropuertos salen autobuses limusina hacia la zona de Ilsan.
 
-## El control de identidad en la entrada
+## El control de identidad en la puerta
 
-Aquí es donde muchos seguidores extranjeros se llevan una sorpresa. En los conciertos coreanos es habitual comprobar en la entrada que el nombre del titular de la entrada coincide con un documento de identidad con fotografía. Para un visitante extranjero, ese documento suele ser el pasaporte. Es posible que no le dejen pasar con la captura de pantalla de una entrada comprada a nombre de otra persona.
+Este es el detalle que sorprende a muchos fans extranjeros. En los conciertos coreanos es habitual cotejar en el acceso el nombre del titular de la entrada con un documento de identidad con foto. Para un visitante extranjero, ese documento suele ser el pasaporte. Es posible que no se permita el paso a quien presente la captura de pantalla de una entrada comprada a nombre de otra persona.
 
-Compre en la plataforma oficial que indique el anuncio del promotor. Muchas plataformas coreanas cuentan con una web global o en inglés para compradores del extranjero. Algunas emiten entradas que hay que recoger en una taquilla el mismo día, lo que supone hacer otra cola antes de la principal. Lea con atención la confirmación de su reserva para conocer las condiciones de recogida y los documentos admitidos.
+Las entradas se vendieron a través de la plataforma oficial que indicaba el anuncio del promotor. Muchas plataformas coreanas tienen una web global o en inglés para compradores del extranjero. Algunas emiten entradas que se recogen en una taquilla el mismo día, lo que supone hacer otra cola antes de la principal. Las confirmaciones de compra detallaban las normas de recogida y los documentos aceptados.
 
-## Números de entrada y funcionamiento de la cola
+## Los números de pista y el funcionamiento de la cola
 
-En Corea, las entradas de pista suelen llevar un número de acceso. El personal llama a los asistentes por bloques de números: con un número bajo quedará cerca de la valla, y con uno alto, más atrás. Llegar temprano no le hará avanzar. Lo que cuenta es presentarse cuando llamen a su bloque.
+En Corea, las entradas de pista suelen llevar un número de acceso. El personal llama a los números por bloques: con un número bajo se queda cerca de la valla, y con uno alto, más atrás. Llegar pronto no adelanta a nadie en el orden. Lo que cuenta es estar presente cuando llaman al bloque correspondiente.
 
-Así suelen organizar la jornada los seguidores:
+Así suelen organizarse los fans ese día:
 
-- **Primero, la mercancía oficial.** En los conciertos de KINTEX, las colas de los puestos de mercancía suelen formarse mucho antes de la apertura de puertas. Compre pronto o renuncie a ello.
-- **Equipaje ligero.** Las normas sobre bolsos cambian según el concierto, y las taquillas próximas a los grandes recintos se llenan enseguida. Una bandolera pequeña le ahorrará complicaciones.
-- **Pago con tarjeta o con el móvil.** Los datáfonos coreanos y las tiendas de conveniencia aceptan tarjetas internacionales casi en todas partes. Lleve algo de efectivo para la comida callejera.
-- **Cultura de la cola.** Las filas son ordenadas y las dirige el personal. Está mal visto empujar hacia delante cuando llaman a los bloques, y el personal le hará volver a su sitio.
+- **Merchandising.** En los conciertos de KINTEX, las colas de merchandising suelen abrirse mucho antes que las puertas.
+- **Bolsos.** Las normas sobre bolsos cambian según el concierto, y las taquillas de los alrededores de los grandes recintos se agotan enseguida. Un bolso pequeño en bandolera ahorra complicaciones.
+- **Pago con tarjeta o con el móvil.** Los datáfonos coreanos y las tiendas de conveniencia aceptan tarjetas internacionales casi en todas partes. Algo de efectivo viene bien para la comida callejera.
+- **Cultura de la cola.** Las filas son ordenadas y las dirige el personal. Empujar hacia delante cuando llaman a los bloques está mal visto, y el personal manda atrás a quien lo hace.
 
-Quienes tengan entrada con asiento pueden llegar más cerca del comienzo. Aun así, las entradas a los pabellones pueden quedar a bastante distancia del vestíbulo principal, así que conviene ir con margen.
+Quienes tienen entrada con asiento disponen de más margen de horario. Eso sí, los accesos a los pabellones pueden quedar a un buen paseo del vestíbulo principal.
 
 ## El problema del último tren
 
-La distancia entre Ilsan y Seúl es la particularidad horaria que marca este concierto. Más de dos mil personas salen a la vez de un pabellón y se dirigen a las mismas pocas estaciones, y la mayoría intenta además regresar al otro lado de la ciudad.
+La distancia entre Ilsan y Seúl es la particularidad horaria que marca cualquier concierto en este recinto. Más de dos mil personas salen a la vez de un pabellón rumbo a las mismas pocas estaciones, y la mayoría tiene que cruzar después la ciudad.
 
-Antes del concierto, consulte las últimas salidas tanto de la GTX-A desde la estación de Kintex como de la línea 3 desde Daehwa. Aplicaciones coreanas como Naver Map y KakaoMap ofrecen esta información en inglés. Si los bises se alargan y pierde el tren, le espera un largo trayecto en taxi hasta Seúl. Además, con tanta demanda resulta difícil encontrar un taxi a la salida del recinto.
+Las dos salidas clave son el último GTX-A desde la estación Kintex y el último tren de la línea 3 desde Daehwa. Aplicaciones coreanas como Naver Map y KakaoMap muestran sus horarios en inglés. Si el bis termina tarde y se pierde el tren, toca un largo trayecto en taxi hasta Seúl, y con la demanda disparada cuesta encontrar uno justo a la salida del recinto.
 
-Una solución sencilla es dormir en Ilsan. En la zona de Kintex y del parque del lago hay hoteles de negocios a los que se llega a pie o con un breve trayecto en taxi desde los pabellones. Así evitará por completo las prisas y podrá despertarse junto al lago.
+Una solución sencilla es dormir en Ilsan. En la zona de Kintex y del parque del lago hay hoteles de negocios a poca distancia de los pabellones, a pie o en un taxi corto. Así se evita por completo la carrera nocturna y, por la mañana, el lago queda a dos pasos.
 
-## Qué hacer cerca de KINTEX antes y después
+## Alrededores de KINTEX, antes y después
 
-Los alrededores de KINTEX resultan más agradables de lo que cabría esperar de un distrito de exposiciones. Ilsan se construyó como ciudad planificada, con amplias avenidas, calles comerciales de edificios bajos y un gran lago en el centro.
+Las calles que rodean KINTEX resultan más agradables de lo que cabría esperar de un distrito ferial. Ilsan se construyó como ciudad planificada, con amplias avenidas, calles comerciales de edificios bajos y un gran lago en el centro.
 
-- **Parque del Lago de Ilsan (Hosu Park).** Este gran lago artificial está rodeado por un circuito para pasear y montar en bicicleta. Es ideal para dar un paseo antes del concierto.
-- **La Festa y Western Dom.** Son dos calles comerciales y gastronómicas al aire libre cerca de la estación de Jeongbalsan. Abundan en ellas los restaurantes de barbacoa coreana y de pollo frito, así como los bares que abren hasta tarde.
-- **Hyundai Department Store Kintex.** Estos grandes almacenes se encuentran junto al recinto y tienen una zona de restauración en las plantas inferiores. Son prácticos para comer algo rápido sin salir de la zona.
-- **One Mount.** Complejo comercial y de ocio situado junto a KINTEX, con un parque acuático y otro de nieve, ambos cubiertos.
+- **Parque del lago de Ilsan (Hosu Park).** Un gran lago artificial rodeado por un circuito para caminar e ir en bicicleta. Ideal para dar un paseo.
+- **La Festa y Western Dom.** Dos calles comerciales y gastronómicas al aire libre cerca de la estación de Jeongbalsan, repletas de locales de barbacoa coreana, pollo frito y bares abiertos hasta tarde.
+- **Hyundai Department Store Kintex.** Unos grandes almacenes contiguos al recinto, con zona de restauración en las plantas inferiores. Resultan prácticos para comer algo rápido sin salir de la zona.
+- **One Mount.** Un complejo comercial y de ocio junto a KINTEX, con un parque acuático y otro de nieve, ambos cubiertos.
 
-Si quiere aprovechar el día, la zona de Paju queda a poca distancia en coche hacia el norte. Tanto el área de Imjingak, cerca de la frontera, como la ciudad del libro de Paju (Paju Book City) son buenas excursiones diurnas antes de un concierto por la noche.
+A poca distancia en coche hacia el norte se encuentra la zona de Paju, con el área de Imjingak, cerca de la frontera, y la ciudad del libro de Paju (Paju Book City).
 
-Lo esencial no cambia, sea cual sea la noche. Lleve el documento de identidad que coincida con su entrada, conozca su número de acceso a la pista y sepa qué tren le llevará de vuelta. Confirme el horario y las entradas en el sitio oficial.
+Lo esencial era lo mismo para las dos noches: un documento de identidad que coincidiera con el nombre de la entrada, el número de pista y el último tren de vuelta.

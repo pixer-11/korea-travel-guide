@@ -4228,6 +4228,18 @@
   "reason": "publish gate: Exterior of the actual Mandalay Bus venue in Canberra",
   "at": "2026-09-30T14:07:46.200Z"
  },
+ "cancun-interactive-aquarium-cancun\u0001https://upload.wikimedia.org/wikipedia/commons/2/20/Interactive_Aquarium_Canc%C3%BAn_-_panoramio.jpg": {
+  "slug": "cancun-interactive-aquarium-cancun",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior shows Aquarium signage at night, representative hero shot",
+  "at": "2026-10-05T16:18:43.224Z"
+ },
+ "cancun-yamil-lu-um\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Yamiluum1.JPG/1920px-Yamiluum1.JPG": {
+  "slug": "cancun-yamil-lu-um",
+  "verdict": "MATCH",
+  "reason": "publish gate: Mayan ruins with ocean and Cancun skyline, representative view",
+  "at": "2026-10-05T16:21:55.058Z"
+ },
  "cannes-abbaye-de-lerins\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/%D0%9B%D0%B5%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0_%D0%B8_%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2_%D0%AD%D1%81%D1%82%D0%B5%D1%80%D0%B5%D0%BB%D1%8C.jpg/1920px-%D0%9B%D0%B5%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0_%D0%B8_%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2_%D0%AD%D1%81%D1%82%D0%B5%D1%80%D0%B5%D0%BB%D1%8C.jpg": {
   "slug": "cannes-abbaye-de-lerins",
   "verdict": "MATCH",
@@ -5539,6 +5551,12 @@
   "reason": "Coron lagoon with boats, limestone cliffs",
   "reasonKo": "코론 석회암 절벽과 보트",
   "at": "2026-08-12T14:02:57.200Z"
+ },
+ "cozumel-margaritaville-cozumel\u0001https://upload.wikimedia.org/wikipedia/commons/c/cf/Margaritaville_Cozumel_2023.jpg": {
+  "slug": "cozumel-margaritaville-cozumel",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Margaritaville Cozumel with signage and patrons",
+  "at": "2026-10-05T16:26:27.311Z"
  },
  "da-lat-da-lat-market\u0001https://upload.wikimedia.org/wikipedia/commons/9/90/Dalat_market%2C_Vietnam.jpg": {
   "slug": "da-lat-da-lat-market",
@@ -7260,6 +7278,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Plaza fountain with Guadalajara Cathedral, representative hero shot",
   "at": "2026-10-04T07:43:45.589Z"
+ },
+ "guadalajara-regional-museum-of-guadalajara\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Museo_Regional_de_Guadalajara_III.jpg/3840px-Museo_Regional_de_Guadalajara_III.jpg": {
+  "slug": "guadalajara-regional-museum-of-guadalajara",
+  "verdict": "MATCH",
+  "reason": "publish gate: Colonial courtyard arcade, representative of museum's architecture",
+  "at": "2026-10-05T16:19:58.921Z"
  },
  "guanajuato-monumento-al-pipila\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Monumento_al_P%C3%ADpila_en_Guanajuato%2C_Guanajuato_09.jpg/3840px-Monumento_al_P%C3%ADpila_en_Guanajuato%2C_Guanajuato_09.jpg": {
   "slug": "guanajuato-monumento-al-pipila",
@@ -13096,6 +13120,12 @@
   "reason": "release check: Park with fountains, grass, and pathways matches waterfront park setting",
   "at": "2026-08-11T04:13:04.874Z"
  },
+ "los-cabos-cultural-pavilion-of-the-republic\u0001https://upload.wikimedia.org/wikipedia/commons/3/38/Cultural_Pavilion_of_the_Republic%2C_Cabo_San_Luca.jpg": {
+  "slug": "los-cabos-cultural-pavilion-of-the-republic",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of the distinctive cultural pavilion building, representative view",
+  "at": "2026-10-05T16:15:15.586Z"
+ },
  "los-cabos-museum-of-natural-history-in-cabo-san-lucas\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Museo_de_Historia_Natural_de_Cabo_San_Lucas_Nov_2024_03.jpg/1920px-Museo_de_Historia_Natural_de_Cabo_San_Lucas_Nov_2024_03.jpg": {
   "slug": "los-cabos-museum-of-natural-history-in-cabo-san-lucas",
   "verdict": "MATCH",
@@ -14065,6 +14095,18 @@
   "reason": "publish gate: Recognizable Monumento a la Patria monument in Merida",
   "at": "2026-10-04T07:45:56.147Z"
  },
+ "merida-palacio-de-la-musica\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Vista_del_Palacio_de_la_M%C3%BAsica%2C_M%C3%A9rida%2C_Yucat%C3%A1n_12.jpg/3840px-Vista_del_Palacio_de_la_M%C3%BAsica%2C_M%C3%A9rida%2C_Yucat%C3%A1n_12.jpg": {
+  "slug": "merida-palacio-de-la-musica",
+  "verdict": "MATCH",
+  "reason": "publish gate: Distinctive modern architecture exterior, plausible venue hero shot",
+  "at": "2026-10-05T16:17:31.821Z"
+ },
+ "mexico-city-basilica-of-our-lady-of-guadalupe\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mexico_city_Insigne_y_Nacional_Bas%C3%ADlica_de_Santa_Mar%C3%ADa_de_Guadalupe.JPG/1920px-Mexico_city_Insigne_y_Nacional_Bas%C3%ADlica_de_Santa_Mar%C3%ADa_de_Guadalupe.JPG": {
+  "slug": "mexico-city-basilica-of-our-lady-of-guadalupe",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Basilica complex, representative hero shot",
+  "at": "2026-10-05T16:23:19.616Z"
+ },
  "mexico-city-coyoacan-market\u0001https://upload.wikimedia.org/wikipedia/commons/9/9f/Coyoacan_Market.jpg": {
   "slug": "mexico-city-coyoacan-market",
   "verdict": "MATCH",
@@ -14076,6 +14118,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Clear exterior view of Mexico City Metropolitan Cathedral",
   "at": "2026-10-04T07:39:51.633Z"
+ },
+ "mexico-city-museo-nacional-de-antropologia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/M%C3%A1scara_prehisp%C3%A1nica_-_Museo_Nacional_de_Antropolog%C3%ADa_%28M%C3%A9xico%29_08.jpg/3840px-M%C3%A1scara_prehisp%C3%A1nica_-_Museo_Nacional_de_Antropolog%C3%ADa_%28M%C3%A9xico%29_08.jpg": {
+  "slug": "mexico-city-museo-nacional-de-antropologia",
+  "verdict": "MATCH",
+  "reason": "publish gate: Artifact mask, plausible museum exhibit at Antropología",
+  "at": "2026-10-05T16:21:17.860Z"
  },
  "mexico-city-palacio-de-bellas-artes\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bellas_Artes_01.jpg/1920px-Bellas_Artes_01.jpg": {
   "slug": "mexico-city-palacio-de-bellas-artes",
@@ -17836,6 +17884,18 @@
   "reasonKo": "교황궁 외관, 탑, 광장 명확히 보임",
   "at": "2026-08-03T14:35:57.228Z"
  },
+ "puebla-africam-safari\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Common_Eland_Africam.jpg/1920px-Common_Eland_Africam.jpg": {
+  "slug": "puebla-africam-safari",
+  "verdict": "MATCH",
+  "reason": "publish gate: Safari park with animals and visitor cars, matches venue type",
+  "at": "2026-10-05T16:14:26.986Z"
+ },
+ "puebla-el-patio-de-san-luis\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Patio_principal_%28fragmentos_de_piedra%29_en_el_Convento_de_San_Miguel_Arc%C3%A1ngel_en_Huejotzingo_07.jpg/3840px-Patio_principal_%28fragmentos_de_piedra%29_en_el_Convento_de_San_Miguel_Arc%C3%A1ngel_en_Huejotzingo_07.jpg": {
+  "slug": "puebla-el-patio-de-san-luis",
+  "verdict": "MATCH",
+  "reason": "publish gate: Colonial arched courtyard matches restaurant's patio setting",
+  "at": "2026-10-05T16:29:07.323Z"
+ },
  "puebla-la-casa-del-mendrugo\u0001https://upload.wikimedia.org/wikipedia/commons/a/a0/Casa_del_Mendrugo_%281%29.jpg": {
   "slug": "puebla-la-casa-del-mendrugo",
   "verdict": "MATCH",
@@ -17847,6 +17907,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior facade of museum building with banner, flags",
   "at": "2026-10-04T07:50:22.171Z"
+ },
+ "puebla-museo-internacional-del-barroco\u0001https://upload.wikimedia.org/wikipedia/commons/e/e0/Museo_Internacional_del_Barroco.jpg": {
+  "slug": "puebla-museo-internacional-del-barroco",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of distinctive Museo Internacional del Barroco architecture",
+  "at": "2026-10-05T16:24:06.885Z"
  },
  "puerto-princesa-immaculate-conception-cathedral\u0001https://upload.wikimedia.org/wikipedia/commons/7/75/The_Immaculate_Conception_Cathedral_-_panoramio_%282%29.jpg": {
   "slug": "puerto-princesa-immaculate-conception-cathedral",
@@ -17878,6 +17944,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Hillside view with buildings overlooking Puerto Vallarta bay",
   "at": "2026-10-04T07:46:52.424Z"
+ },
+ "puerto-vallarta-pancho-s-takos\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Pancho%27s_Takos%2C_Puerto_Vallarta%2C_2021.jpg/3840px-Pancho%27s_Takos%2C_Puerto_Vallarta%2C_2021.jpg": {
+  "slug": "puerto-vallarta-pancho-s-takos",
+  "verdict": "MATCH",
+  "reason": "publish gate: Table of tacos and salsas, representative restaurant dish photo",
+  "at": "2026-10-05T16:27:38.508Z"
  },
  "putrajaya-putra-mosque\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Masjid_Putra%2C_Putrajaya%2C_Malaysia.jpg/1920px-Masjid_Putra%2C_Putrajaya%2C_Malaysia.jpg": {
   "slug": "putrajaya-putra-mosque",
@@ -18571,6 +18643,12 @@
   "reason": "Famous Victorian houses with SF skyline backdrop",
   "reasonKo": "샌프란시스코 스카이라인 배경의 유명한 빅토리아식 주택",
   "at": "2026-08-05T15:00:41.959Z"
+ },
+ "san-miguel-de-allende-canada-de-la-virgen\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ca%C3%B1ada_de_La_Virgen_Complex_A_01.jpg/1920px-Ca%C3%B1ada_de_La_Virgen_Complex_A_01.jpg": {
+  "slug": "san-miguel-de-allende-canada-de-la-virgen",
+  "verdict": "MATCH",
+  "reason": "publish gate: Archaeological ruins consistent with Cañada de la Virgen site",
+  "at": "2026-10-05T16:24:55.080Z"
  },
  "san-miguel-de-allende-charco-del-ingenio\u0001https://upload.wikimedia.org/wikipedia/commons/c/cd/Rainbow_Charco_del_Ingenio_-_panoramio.jpg": {
   "slug": "san-miguel-de-allende-charco-del-ingenio",
