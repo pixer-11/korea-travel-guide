@@ -1,5 +1,5 @@
 ---
-title: 'Parco di: Monza Travel Guide'
+title: 'Parco di Monza: Travel Guide (4.7★)'
 description: >-
   Parco di Monza is one of Europe's largest walled parks (around 700 hectares),
   wrapping the Villa Reale and the Autodromo Nazionale Monza.

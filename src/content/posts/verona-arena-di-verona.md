@@ -1,5 +1,5 @@
 ---
-title: "Arena di: Verona Travel Guide (4.7★)"
+title: 'Arena di Verona: Travel Guide (4.7★)'
 description: "Arena di Verona sits on Piazza Bra in the center of Verona, and it's both a first-century Roman amphitheater and the venue for a summer opera season that draws crowds from across Europe. 4.7★ (170,484 reviews) — what visitors say, hours, and tips."
 country: "Italy"
 region: "Verona"

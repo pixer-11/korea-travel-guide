@@ -1,5 +1,5 @@
 ---
-title: 'Reggia di: Monza Travel Guide'
+title: 'Reggia di Monza: Travel Guide (4.6★)'
 description: >-
   The Reggia di Monza is a vast neoclassical royal palace just north of Milan,
   open Wednesday–Friday 2:30–7:30pm and weekends (Saturday 10:30am–6:30pm,

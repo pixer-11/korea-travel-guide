@@ -1,5 +1,5 @@
 ---
-title: "Portici di: Bologna Travel Guide (4.7★)"
+title: 'Portici di Bologna: Travel Guide (4.7★)'
 description: "Portici di Bologna is the city's network of covered arcades, and Piazza Cavour in central Bologna, a short walk south of Piazza Maggiore, is one of the best places to start. 4.7★ (928 reviews) — what visitors say, hours, and tips."
 country: "Italy"
 region: "Bologna"

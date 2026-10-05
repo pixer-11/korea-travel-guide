@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: bologna-portici-di-bologna
-srcHash: '5e5945582b34'
+srcHash: 'c387e00a1872'
 title: 'Pórticos de Bolonia (Portici di Bologna): guía de viaje (4.7★)'
 description: 'Los pórticos de Bolonia forman una extensa red de galerías cubiertas que recorre la ciudad, y uno de los mejores puntos para empezar a descubrirlos es la Piazza Cavour, en pleno centro, a pocos pasos al sur de la Piazza Maggiore. 4.7★ (928 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Los pórticos de Bolonia forman una extensa red de galerías cubiertas que recorre la ciudad, y uno de los mejores puntos para empezar a descubrirlos es la Piazza Cavour, en pleno centro, a pocos pasos al sur de la Piazza Maggiore. Como son calles públicas, permanecen abiertos las 24 horas todos los días y pasear por ellos no cuesta nada. Para el centro bastan dos horas; si también quiere subir por el largo pórtico que lleva a San Luca, reserve media jornada.

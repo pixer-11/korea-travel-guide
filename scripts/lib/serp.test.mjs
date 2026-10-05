@@ -75,3 +75,13 @@ test('makeTitle appends the star badge only within the 60-char budget', () => {
     'Shwi: Where to Eat in Paris'
   );
 });
+
+test('makeTitle keeps Italian and other connectors attached to the city (Bing audit, 10-05)', async () => {
+  const { makeTitle } = await import('./titles.mjs');
+  for (const [name, region] of [['Arena di Verona', 'Verona'], ['Portici di Bologna', 'Bologna'], ['Reggia di Monza', 'Monza'], ['Parco Nazionale delle Cinque Terre', 'Cinque Terre'], ['Schloss von Berlin', 'Berlin']]) {
+    const t = makeTitle(name, { region, category: 'attraction' });
+    assert.ok(t.startsWith(`${name}:`), `${name} → ${t}`);
+  }
+  // The echo is still stripped when what remains stands alone.
+  assert.equal(makeTitle('Flavors Grill Abu Dhabi', { region: 'Abu Dhabi', category: 'restaurant' }), 'Flavors Grill: Where to Eat in Abu Dhabi');
+});

@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: verona-arena-di-verona
-srcHash: '5ca052601c4f'
+srcHash: 'ca59e2f2cecc'
 title: 'Arena di Verona: Guía de viaje (4,7★)'
 description: 'La Arena di Verona se alza en la Piazza Bra, en pleno centro de Verona: es a la vez un anfiteatro romano del siglo I y el escenario de una temporada estival de ópera que atrae a público de toda Europa. 4,7★ (170.484 reseñas): lo que dicen los visitantes, horarios y consejos.'
 quickAnswer: 'La Arena di Verona se alza en la Piazza Bra, en pleno centro de Verona: es a la vez un anfiteatro romano del siglo I y el escenario de una temporada estival de ópera que atrae a público de toda Europa. Fuera de la temporada operística, conviene ir a primera hora de la mañana o a última de la tarde para contemplar con tranquilidad la piedra; en julio y agosto, hay que reservar las entradas de ópera con semanas de antelación. Es un lugar extremadamente concurrido, así que conviene organizar la visita en torno a las multitudes en lugar de esperar evitarlas.'

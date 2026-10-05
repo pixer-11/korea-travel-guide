@@ -1,5 +1,5 @@
 ---
-title: 'Parco Nazionale delle: Cinque Terre Travel Guide (4.7★)'
+title: 'Parco Nazionale delle Cinque Terre: Travel Guide (4.7★)'
 description: >-
   Cinque Terre National Park is five cliffside villages — Monterosso, Vernazza,
   Corniglia, Manarola, Riomaggiore — linked by hiking trails, trains and boats
