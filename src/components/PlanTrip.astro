@@ -35,6 +35,8 @@ const klookHref = city
   ? tiqetsCityUrl({ city, country, lang, subId: 'plantrip_tours' }) ?? `/go/klook?to=${encodeURIComponent(klookCityDest(city, klookLocale(lang)))}`
   : 'https://klook.tpx.lv/2NXPH8MA';
 
+const esimSlug = country ? countriesData.countries.find((c) => c.name === country)?.slug : undefined;
+const esimGuide = !!esimSlug && !!(esimFacts as Record<string, unknown>)[esimSlug];
 const services: { icon: string; label: string; desc: string; href: string; internal?: boolean; placement?: string }[] = [
   { icon: 'admission-tickets', label: t('widget.toursLabel'), desc: city ? t('widget.toursDescCity').replace('{city}', cityLabel) : t('widget.toursDesc'), href: klookHref },
   // Same Klook hotel search the standalone Hotels block uses (SubID
@@ -48,14 +50,13 @@ const services: { icon: string; label: string; desc: string; href: string; inter
   // 404'd ever since. Corrected + verified: 302 → kiwitaxi.com, tpo …-754088.
   // (Owner's Welcome Pickups link https://tpx.lv/DR9LOcP9 also works — spare.)
   { icon: 'taxi', label: t('widget.transferLabel'), desc: t('widget.transferDesc'), href: 'https://kiwitaxi.tpx.lv/yRbl5tIp?sub_id=plantrip_pickup' },
-  // eSIM: countries with their own /tools/esim guide funnel through it (an
-  // internal money page converts better than a bare external link, and every
-  // post becomes an interlink to it); everywhere else keeps the Yesim link.
+  // eSIM: straight to Yesim (18%, 90-day cookie). It used to go through our
+  // /tools/esim guide first, and about one reader a month made the second
+  // hop (funnel audit, 2026-10-05). The guide stays linked as a small line
+  // under the grid, so every post still interlinks it.
   ...(() => {
-    const esimSlug = country ? countriesData.countries.find((c) => c.name === country)?.slug : undefined;
-    const hasGuide = esimSlug && (esimFacts as Record<string, unknown>)[esimSlug];
-    return [hasGuide
-      ? { icon: 'antenna-bars', label: t('widget.esimLabel'), desc: t('widget.esimDesc'), href: localizePath(`/tools/esim/${esimSlug}`, lang), internal: true }
+    return [esimGuide
+      ? { icon: 'antenna-bars', label: t('widget.esimLabel'), desc: t('widget.esimDesc'), href: `https://yesim.tpx.lv/KABevuVe?sub_id=${encodeURIComponent(`plantrip_esim_${esimSlug}`)}` }
       // SubID so this fallback is separable from the guide pages in the
       // Travelpayouts report. Confirmed 2026-08-07 that SubIDs do record: of
       // 138 clicks, 93 arrived with an empty one purely because most links
@@ -87,5 +88,8 @@ const services: { icon: string; label: string; desc: string; href: string; inter
       </a>
     ))}
   </div>
+  {esimGuide && (
+    <p class="plan-guide"><a href={localizePath(`/tools/esim/${esimSlug}/`, lang)}>{t('esim.hubCard').replace('{country}', localizePlace(country, lang))} →</a></p>
+  )}
   <p class="tp-disclosure">{t('widget.affDisclosure').replace('{site}', SITE.name)}</p>
 </section>
