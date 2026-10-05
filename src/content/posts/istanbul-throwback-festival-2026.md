@@ -12,7 +12,6 @@ eventPerformer:
   name: Haddaway
   kind: person
 eventFactsAsked: true
-gallery: []
 tags:
   - istanbul
   - event
@@ -30,6 +29,16 @@ faq:
     a: Bring layers. Mid-November evenings are cool and often damp, and it's dark by around 5pm. A light jacket you can carry or check indoors works best.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/2014333222408_2014-11-29_Sunshine_Live_-_Die_90er_Live_on_Stage_-_Sven_-_1D_X_-_0580_-_DV3P5579_mod.jpg/3840px-2014333222408_2014-11-29_Sunshine_Live_-_Die_90er_Live_on_Stage_-_Sven_-_1D_X_-_0580_-_DV3P5579_mod.jpg
+  credit: 'Photo: Sven Mandel / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:2014333222408_2014-11-29_Sunshine_Live_-_Die_90er_Live_on_Stage_-_Sven_-_1D_X_-_0580_-_DV3P5579_mod.jpg
+  focus:
+    x: 53
+    'y': 25
+    top: 17
+    bottom: 33
 ---
 
 ## A Friday night set in 1993

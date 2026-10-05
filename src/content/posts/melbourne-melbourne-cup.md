@@ -12,7 +12,6 @@ eventVenue: Flemington Racecourse
 eventOrganizer:
   name: Victoria Racing Club
 eventFactsAsked: true
-gallery: []
 tags:
   - melbourne
   - event
@@ -30,6 +29,14 @@ faq:
     a: The Melbourne Cup is part of the Spring Racing Carnival. Derby Day falls on the Saturday before it, Oaks Day on the Thursday after, and Stakes Day closes the week.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/8/88/2013_Melbourne_Cup_%2810705853945%29.jpg
+  credit: 'Photo: Chris Phutully from Australia / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:2013_Melbourne_Cup_(10705853945).jpg
+  focus:
+    x: 50
+    'y': 30
 ---
 
 ## A 3,200-metre race, a whole city on holiday

@@ -13,7 +13,6 @@ eventOrganizer:
   name: Rugby League World Cup 2026
   url: https://www.rlwc2026.com
 eventFactsAsked: true
-gallery: []
 tags:
   - brisbane
   - event

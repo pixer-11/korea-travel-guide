@@ -13,7 +13,6 @@ eventPerformer:
   name: Joji
   kind: person
 eventFactsAsked: true
-gallery: []
 tags:
   - singapore
   - event
@@ -31,6 +30,16 @@ faq:
     a: Yes. Changi Airport is one MRT stop from Expo on the East-West Line branch, so the venue works well if you fly in or out around the show.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/2/2c/Joji_Performing_Live_in_2018.png
+  credit: 'Photo: Samuel Kenwright / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Joji_Performing_Live_in_2018.png
+  focus:
+    x: 56
+    'y': 49
+    top: 44
+    bottom: 54
 ---
 
 ## Two nights out east

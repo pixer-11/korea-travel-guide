@@ -13,7 +13,6 @@ eventOffers:
   free: true
   currency: TWD
 eventFactsAsked: true
-gallery: []
 tags:
   - taichung
   - event
@@ -31,6 +30,14 @@ faq:
     a: Bring a picnic mat, a light layer for cooler October evenings, a compact umbrella and an EasyCard for buses and convenience stores. Plan to take your rubbish home, since public bins are scarce.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/4/4b/View_from_Civic_Square_of_Taichung.jpg
+  credit: 'Photo: Tbatb / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:View_from_Civic_Square_of_Taichung.jpg
+  focus:
+    x: 50
+    'y': 45
 ---
 
 ## Ten nights on the lawn

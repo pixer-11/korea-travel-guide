@@ -15,7 +15,6 @@ eventOrganizer:
 eventOffers:
   url: https://ultrataiwan.com
 eventFactsAsked: true
-gallery: []
 tags:
   - taipei
   - event

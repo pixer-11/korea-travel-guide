@@ -15,15 +15,6 @@ eventOrganizer:
 eventOffers:
   url: https://registration.kl-marathon.com/
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/8/81/Singapore_Standard_Chartered_Marathon_2013.jpg
-  credit: 'Photo: ProjectManhattan / Wikimedia Commons (CC BY-SA 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Singapore_Standard_Chartered_Marathon_2013.jpg
-  focus:
-    x: 50
-    'y': 50
-gallery: []
 tags:
   - kuala lumpur
   - event
@@ -41,6 +32,14 @@ faq:
     a: Central Market (Pasar Seni), Petaling Street, Kwai Chai Hong, Masjid Jamek and the River of Life promenade are all a short walk away. Nearby mamak and kopitiam spots serve nasi lemak, roti canai and teh tarik.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Dataran_Merdeka%2C_Kuala_Lumpur_%282%29.jpg/3840px-Dataran_Merdeka%2C_Kuala_Lumpur_%282%29.jpg
+  credit: 'Photo: Radosław Botev / Wikimedia Commons (CC BY 3.0 pl)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Dataran_Merdeka,_Kuala_Lumpur_(2).jpg
+  focus:
+    x: 50
+    'y': 50
 ---
 ## A start line on Independence Square
 

@@ -13,7 +13,6 @@ eventPerformer:
   name: BABYMONSTER
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - jakarta
   - event
@@ -31,6 +30,16 @@ faq:
     a: Bring your ticket, original ID, a charged official lightstick, a compact poncho for October rain and a QRIS-ready payment app or small rupiah notes. Check the official banned-items list first, because GBK venues run bag checks.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/3/3c/Ahyeon_20260905_Manila.jpg
+  credit: 'Photo: Farouk Azim / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Ahyeon_20260905_Manila.jpg
+  focus:
+    x: 49
+    'y': 23
+    top: 14
+    bottom: 32
 ---
 
 ## October 17, Senayan

@@ -15,7 +15,6 @@ eventOffers:
   free: true
   currency: MYR
 eventFactsAsked: true
-gallery: []
 tags:
   - kuching
   - event
@@ -33,6 +32,14 @@ faq:
     a: A compact umbrella or rain jacket, because late October brings frequent evening downpours. Bring modest clothing, insect repellent and some cash for food stalls along Main Bazaar.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/4/42/Kuching_Waterfront_Panorama.jpg
+  credit: 'Photo: Jin / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_Panorama.jpg
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## Drums on the Sarawak River

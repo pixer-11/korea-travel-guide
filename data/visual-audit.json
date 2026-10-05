@@ -3679,6 +3679,42 @@
   "reason": "publish gate: Parkland waterway with boardwalk and Brisbane skyline view",
   "at": "2026-10-01T07:45:08.415Z"
  },
+ "brisbane-rugby-league-world-cup-2026-final\u0001https://upload.wikimedia.org/wikipedia/commons/0/01/Keith_Bell_%28rugby_league%29.png": {
+  "slug": "brisbane-rugby-league-world-cup-2026-final",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated portrait, not event, team or venue",
+  "at": "2026-10-05T18:16:06.995Z"
+ },
+ "brisbane-rugby-league-world-cup-2026-final\u0001https://upload.wikimedia.org/wikipedia/commons/0/03/Rugby_League_World_Cup_%2810699923634%29.jpg": {
+  "slug": "brisbane-rugby-league-world-cup-2026-final",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Photo of old documents, not rugby event or venue",
+  "at": "2026-10-05T17:43:09.616Z"
+ },
+ "brisbane-rugby-league-world-cup-2026-final\u0001https://upload.wikimedia.org/wikipedia/commons/1/1c/John_Holmes_statue_at_Headingley_Rugby_League_stadium.jpg": {
+  "slug": "brisbane-rugby-league-world-cup-2026-final",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Statue of rugby player, not rugby league event/venue",
+  "at": "2026-10-05T18:16:10.644Z"
+ },
+ "brisbane-rugby-league-world-cup-2026-final\u0001https://upload.wikimedia.org/wikipedia/commons/5/56/Wayne_Bennett_rugby_league_coach.jpg": {
+  "slug": "brisbane-rugby-league-world-cup-2026-final",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated person/event, not Rugby League World Cup or venue",
+  "at": "2026-10-05T18:15:59.469Z"
+ },
+ "brisbane-rugby-league-world-cup-2026-final\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/England_wheelchair_rugby_league_team_celebrating_at_Old_Trafford.jpg/3840px-England_wheelchair_rugby_league_team_celebrating_at_Old_Trafford.jpg": {
+  "slug": "brisbane-rugby-league-world-cup-2026-final",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed 2026-10-06: other-event — England's wheelchair rugby league team at Old Trafford, not this final",
+  "at": "2026-10-05T18:12:41.833Z"
+ },
+ "brisbane-rugby-league-world-cup-2026-final\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Rugby_2026-05-02.jpg/3840px-Rugby_2026-05-02.jpg": {
+  "slug": "brisbane-rugby-league-world-cup-2026-final",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Concert band photo, unrelated to rugby league event",
+  "at": "2026-10-05T18:16:21.988Z"
+ },
  "brisbane-the-collective-markets\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/The_Collective_Market_South_Bank%2C_Brisbane.jpg/3840px-The_Collective_Market_South_Bank%2C_Brisbane.jpg": {
   "slug": "brisbane-the-collective-markets",
   "verdict": "MATCH",
@@ -5653,6 +5689,12 @@
   "reason": "hand-reviewed 2026-10-05: other-event — Commons: 'Latin Night 2018. Afro-Pfingsten-Festival ... La Mambanegra in der grossen Reithalle Winterthur', categories 'Afro-Pfingsten' and 'Concerts in Winterthur'. It shows a different band at a different festival in S",
   "at": "2026-10-05T08:36:33.108Z"
  },
+ "da-nang-vietnam-latin-xperience-2026\u0001https://upload.wikimedia.org/wikipedia/commons/7/76/Pigneau_de_Behaine_Annamite_Latin_Dictionary.jpg": {
+  "slug": "da-nang-vietnam-latin-xperience-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Image of old dictionary page, unrelated to event",
+  "at": "2026-10-05T17:44:18.732Z"
+ },
  "da-nang-xliii-specialty-coffee\u0001https://fastly.4sqi.net/img/general/original/24440652_FBS5VhcSoxdBBz31BcLrQSBrgT1-YdmEFqPQq6_SHAY.jpg": {
   "slug": "da-nang-xliii-specialty-coffee",
   "verdict": "MATCH",
@@ -6424,6 +6466,12 @@
   "reason": "Cathedral of Santa Maria del Fiore, Florence skyline",
   "at": "2026-07-25T02:42:45.234Z"
  },
+ "florence-florence-marathon\u0001https://live.staticflickr.com/56/117155985_dadda037f3_k.jpg": {
+  "slug": "florence-florence-marathon",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Marathon race with finish line in Florence piazza",
+  "at": "2026-10-05T18:17:43.697Z"
+ },
  "florence-florence-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/0/0d/2015-04-26_RK_London_Marathon_0101_%2820582134921%29.jpg": {
   "slug": "florence-florence-marathon",
   "verdict": "MISMATCH",
@@ -6441,6 +6489,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed 2026-10-05: other-event — The Commons file is 'London Marathon 2017', an elite women's runner on Westferry Road, Millwall, London (category 2017 London Marathon). It was matched only because the runner is Florence Kiplagat. It shows a different r",
   "at": "2026-10-05T08:36:33.108Z"
+ },
+ "florence-florence-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2016_London_Marathon_IMGP1634_%2827323159926%29.jpg/3840px-2016_London_Marathon_IMGP1634_%2827323159926%29.jpg": {
+  "slug": "florence-florence-marathon",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed 2026-10-06: other-event — the 2016 London Marathon, not Florence",
+  "at": "2026-10-05T18:12:41.830Z"
  },
  "florence-galleria-dell-accademia-di-firenze\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Busts_displayed_at_Galleria_dell%E2%80%99Accademia_di_Firenze.jpg/1920px-Busts_displayed_at_Galleria_dell%E2%80%99Accademia_di_Firenze.jpg": {
   "slug": "florence-galleria-dell-accademia-di-firenze",
@@ -7203,6 +7257,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed 2026-10-05: city — This is a Panoramio shot of Seonghyeon-ro, Ilsandong-gu, Goyang (categories Goyang; Golf in South Korea). The image shows a golf driving-range building with netting behind farm fields. It shows neither Khalid nor the KIN",
   "at": "2026-10-05T08:36:33.108Z"
+ },
+ "goyang-si-khalid-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Khalid_World_Pride_DC_03.jpg/1920px-Khalid_World_Pride_DC_03.jpg": {
+  "slug": "goyang-si-khalid-concert",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Performer on stage with microphone at concert",
+  "at": "2026-10-05T17:35:28.242Z"
  },
  "goyang-the-weeknd-hyundai-card-super-concert-28\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_Weeknd_at_Bumbershoot_2015_%2821367628469%29.jpg/1920px-The_Weeknd_at_Bumbershoot_2015_%2821367628469%29.jpg": {
   "slug": "goyang-the-weeknd-hyundai-card-super-concert-28",
@@ -9432,6 +9492,12 @@
   "reason": "patrol replace: Volleyball event, but appears to be CEV EuroVolley 2021 Plov",
   "at": "2026-08-22T14:34:32.424Z"
  },
+ "istanbul-filmekimi\u0001https://upload.wikimedia.org/wikipedia/commons/2/28/Kad%C4%B1k%C3%B6y_sinemas%C4%B1nda_Filmekimi.jpg": {
+  "slug": "istanbul-filmekimi",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Cinema interior with Filmekimi branding visible",
+  "at": "2026-10-05T17:48:57.443Z"
+ },
  "istanbul-grand-bazaar\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sample_of_Tee_-_Grand_Bazaar.JPG/1920px-Sample_of_Tee_-_Grand_Bazaar.JPG": {
   "slug": "istanbul-grand-bazaar",
   "verdict": "MATCH",
@@ -9631,6 +9697,12 @@
   "reason": "patrol reject: Japanese izakaya storefront, unrelated to Istanbul festival",
   "at": "2026-10-05T15:10:42.376Z"
  },
+ "istanbul-throwback-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/2014333222408_2014-11-29_Sunshine_Live_-_Die_90er_Live_on_Stage_-_Sven_-_1D_X_-_0580_-_DV3P5579_mod.jpg/3840px-2014333222408_2014-11-29_Sunshine_Live_-_Die_90er_Live_on_Stage_-_Sven_-_1D_X_-_0580_-_DV3P5579_mod.jpg": {
+  "slug": "istanbul-throwback-festival-2026",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Performer on stage at event venue",
+  "at": "2026-10-05T17:36:10.062Z"
+ },
  "istanbul-throwback-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Throwback_20240114_122519.jpg/1920px-Throwback_20240114_122519.jpg": {
   "slug": "istanbul-throwback-festival-2026",
   "verdict": "MISMATCH",
@@ -9820,6 +9892,24 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: identity: Commons places this in Paris, post says Jakarta",
   "at": "2026-10-05T15:11:53.224Z"
+ },
+ "jakarta-babymonster-jakarta-concert\u0001https://upload.wikimedia.org/wikipedia/commons/0/0a/Ruka_at_KLIA_20-06-2025.jpg": {
+  "slug": "jakarta-babymonster-jakarta-concert",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: No evidence this is BABYMONSTER or concert event",
+  "at": "2026-10-05T17:38:36.213Z"
+ },
+ "jakarta-babymonster-jakarta-concert\u0001https://upload.wikimedia.org/wikipedia/commons/3/3c/Ahyeon_20260905_Manila.jpg": {
+  "slug": "jakarta-babymonster-jakarta-concert",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Performance photo of concert act on stage",
+  "at": "2026-10-05T17:38:45.877Z"
+ },
+ "jakarta-babymonster-jakarta-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ruka_and_Chiquita_20-06-2025.jpg/3840px-Ruka_and_Chiquita_20-06-2025.jpg": {
+  "slug": "jakarta-babymonster-jakarta-concert",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Random airport photo, not BABYMONSTER concert or venue",
+  "at": "2026-10-05T17:38:33.634Z"
  },
  "jakarta-bartiga\u0001https://fastly.4sqi.net/img/general/original/12811903_QYZGOEnsjnoalRboeVhzRLv3B6m8j7YNl_K6xsOAyDU.jpg": {
   "slug": "jakarta-bartiga",
@@ -11897,6 +11987,30 @@
   "reason": "patrol reject: Night cityscape with car, not the izakaya venue",
   "at": "2026-10-01T23:29:52.124Z"
  },
+ "kuala-lumpur-kuala-lumpur-standard-chartered-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/8/81/Singapore_Standard_Chartered_Marathon_2013.jpg": {
+  "slug": "kuala-lumpur-kuala-lumpur-standard-chartered-marathon",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed 2026-10-06: other-event — the Singapore Standard Chartered Marathon 2013, not Kuala Lumpur",
+  "at": "2026-10-05T18:12:41.835Z"
+ },
+ "kuala-lumpur-kuala-lumpur-standard-chartered-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/a/a6/2_Beach_St_%28Standard_Chartered%29.jpg": {
+  "slug": "kuala-lumpur-kuala-lumpur-standard-chartered-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Historic building, not marathon event or venue",
+  "at": "2026-10-05T18:20:44.458Z"
+ },
+ "kuala-lumpur-kuala-lumpur-standard-chartered-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Dataran_Merdeka%2C_Kuala_Lumpur_%282%29.jpg/3840px-Dataran_Merdeka%2C_Kuala_Lumpur_%282%29.jpg": {
+  "slug": "kuala-lumpur-kuala-lumpur-standard-chartered-marathon",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Dataran Merdeka venue, distinctive Tudor architecture visibl",
+  "at": "2026-10-05T18:21:06.596Z"
+ },
+ "kuala-lumpur-kuala-lumpur-standard-chartered-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/2016_Kuala_Lumpur%2C_Dataran_Merdeka_%2802%29.jpg/3840px-2016_Kuala_Lumpur%2C_Dataran_Merdeka_%2802%29.jpg": {
+  "slug": "kuala-lumpur-kuala-lumpur-standard-chartered-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Random cityscape field, not marathon event or venue",
+  "at": "2026-10-05T18:20:55.276Z"
+ },
  "kuala-lumpur-kwai-chai-hong\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Kwai_Chai_Hong%2C_Kuala_Lumpur_in_May_2020_04.jpg/3840px-Kwai_Chai_Hong%2C_Kuala_Lumpur_in_May_2020_04.jpg": {
   "slug": "kuala-lumpur-kwai-chai-hong",
   "verdict": "MATCH",
@@ -12040,6 +12154,30 @@
   "reason": "Distinctive architecture matches Borneo Cultures Museum, Kuc",
   "reasonKo": "쿠칭 보르네오 문화박물관의 특징적 건축",
   "at": "2026-08-19T13:29:23.094Z"
+ },
+ "kuching-festival-gendang-sarawak-fgs-2026\u0001https://upload.wikimedia.org/wikipedia/commons/4/42/Kuching_Waterfront_Panorama.jpg": {
+  "slug": "kuching-festival-gendang-sarawak-fgs-2026",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Kuching Waterfront promenade, wet ground, architectural styl",
+  "at": "2026-10-05T18:22:24.340Z"
+ },
+ "kuching-festival-gendang-sarawak-fgs-2026\u0001https://upload.wikimedia.org/wikipedia/commons/5/5e/Kuching_Waterfront_%2817154158193%29.jpg": {
+  "slug": "kuching-festival-gendang-sarawak-fgs-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Chinese temple and fountain, not Kuching Waterfront festival venue",
+  "at": "2026-10-05T18:22:19.780Z"
+ },
+ "kuching-festival-gendang-sarawak-fgs-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Gendang_Minangkabau_Indonesia.jpg/3840px-Gendang_Minangkabau_Indonesia.jpg": {
+  "slug": "kuching-festival-gendang-sarawak-fgs-2026",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed 2026-10-06: other-event — Minangkabau drums in Indonesia, not the Sarawak festival",
+  "at": "2026-10-05T18:12:41.836Z"
+ },
+ "kuching-festival-gendang-sarawak-fgs-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Raiyani_Muharramah_Gendang_beleq_DSCF8502a.jpg/3840px-Raiyani_Muharramah_Gendang_beleq_DSCF8502a.jpg": {
+  "slug": "kuching-festival-gendang-sarawak-fgs-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in Indonesia, post says Malaysia",
+  "at": "2026-10-05T17:50:35.566Z"
  },
  "kuching-festival-gendang-sarawak-fgs-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gendang_Beleq_at_Erau.jpg/3840px-Gendang_Beleq_at_Erau.jpg": {
   "slug": "kuching-festival-gendang-sarawak-fgs-2026",
@@ -13132,6 +13270,24 @@
   "reason": "publish gate: Exterior facade of museum with clear signage, representative view",
   "at": "2026-10-04T13:22:14.931Z"
  },
+ "lucca-lucca-comics-and-games\u0001https://upload.wikimedia.org/wikipedia/commons/0/08/Winshluss_-_Lucca_Comics_%26_Games_2015.JPG": {
+  "slug": "lucca-lucca-comics-and-games",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Portrait unrelated to Lucca Comics event",
+  "at": "2026-10-05T18:24:17.243Z"
+ },
+ "lucca-lucca-comics-and-games\u0001https://upload.wikimedia.org/wikipedia/commons/1/12/J-Ax_-_Lucca_Comics_%26_Games_2016.jpg": {
+  "slug": "lucca-lucca-comics-and-games",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Portrait of man, not Lucca Comics event",
+  "at": "2026-10-05T18:24:11.465Z"
+ },
+ "lucca-lucca-comics-and-games\u0001https://upload.wikimedia.org/wikipedia/commons/3/32/Mark_Rein%C2%B7Hagen_-_Lucca_Comics_and_Games_2015.JPG": {
+  "slug": "lucca-lucca-comics-and-games",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Portrait of random person, not event/venue",
+  "at": "2026-10-05T18:24:07.367Z"
+ },
  "lucca-lucca-comics-and-games\u0001https://upload.wikimedia.org/wikipedia/commons/4/4b/Zerocalcare_-_Lucca_Comics_and_Games_2012.JPG": {
   "slug": "lucca-lucca-comics-and-games",
   "verdict": "MISMATCH",
@@ -13144,17 +13300,47 @@
   "reason": "patrol reject: audit: Portrait of person, not event/venue imagery",
   "at": "2026-10-01T23:30:43.262Z"
  },
+ "lucca-lucca-comics-and-games\u0001https://upload.wikimedia.org/wikipedia/commons/c/c2/Christopher_Paolini_-_Lucca_Comics_and_Games_2012.JPG": {
+  "slug": "lucca-lucca-comics-and-games",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Random portrait, no connection to Lucca Comics event",
+  "at": "2026-10-05T18:24:13.872Z"
+ },
+ "lucca-lucca-comics-and-games\u0001https://upload.wikimedia.org/wikipedia/commons/c/cf/Andrea_Angiolino_-_Lucca_Comics_and_Games_2015.JPG": {
+  "slug": "lucca-lucca-comics-and-games",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic portrait, not representative of event imagery",
+  "at": "2026-10-05T17:51:05.014Z"
+ },
  "lucca-lucca-comics-and-games\u0001https://upload.wikimedia.org/wikipedia/commons/d/d1/Tuono_Pettinato_-_Lucca_Comics_and_Games_2012.JPG": {
   "slug": "lucca-lucca-comics-and-games",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Generic portrait with mic, not event-specific",
   "at": "2026-10-01T23:30:37.267Z"
  },
+ "lucca-lucca-comics-and-games\u0001https://upload.wikimedia.org/wikipedia/commons/d/d5/Emma_R%C3%ADos_-_Lucca_Comics_and_Games_2015.JPG": {
+  "slug": "lucca-lucca-comics-and-games",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic portrait, no connection to Lucca Comics and Games event",
+  "at": "2026-10-05T17:51:15.634Z"
+ },
  "lucca-lucca-comics-and-games\u0001https://upload.wikimedia.org/wikipedia/commons/d/da/Michael_Menzel_-_Lucca_Comics_and_Games_2015.JPG": {
   "slug": "lucca-lucca-comics-and-games",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Generic portrait, no connection to the event shown",
   "at": "2026-10-01T23:30:39.551Z"
+ },
+ "lucca-lucca-comics-and-games\u0001https://upload.wikimedia.org/wikipedia/commons/f/f8/Kamui_Fujiwara_-_Lucca_Comics_and_Games_2015.JPG": {
+  "slug": "lucca-lucca-comics-and-games",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Portrait of person, not event venue or act",
+  "at": "2026-10-05T17:51:09.580Z"
+ },
+ "lucca-lucca-comics-and-games\u0001https://upload.wikimedia.org/wikipedia/commons/f/f9/Maiko_Katagiri_-_Lucca_Comics_and_Games_2012.jpg": {
+  "slug": "lucca-lucca-comics-and-games",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Portrait costume, unrelated to event venue/context",
+  "at": "2026-10-05T17:51:13.329Z"
  },
  "lucca-lucca-comics-and-games\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Das_gros_hertzogthum_Florentz_und_die_Republic_Lucca_-_gestochen_und_su_finden_bey_Johann_George_Schreibern_in_Leipzig._%28to_%28IA_dr_das-gros-hertzogthum-florentz-und-die-republic-lucca-gestochen-und-su-fin-11208028%29.jpg/1280px-thumbnail.jpg": {
   "slug": "lucca-lucca-comics-and-games",
@@ -14064,6 +14250,18 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows temple exterior with roof and gate, representative view",
   "at": "2026-10-01T07:41:54.493Z"
+ },
+ "melbourne-melbourne-cup\u0001https://upload.wikimedia.org/wikipedia/commons/8/88/2013_Melbourne_Cup_%2810705853945%29.jpg": {
+  "slug": "melbourne-melbourne-cup",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Melbourne Cup event at Flemington Racecourse, crowd visible",
+  "at": "2026-10-05T17:52:18.445Z"
+ },
+ "melbourne-melbourne-cup\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2013_Melbourne_Cup_Parade_%2810664156714%29.jpg/3840px-2013_Melbourne_Cup_Parade_%2810664156714%29.jpg": {
+  "slug": "melbourne-melbourne-cup",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Street parade scene, not Melbourne Cup horse racing event",
+  "at": "2026-10-05T17:52:13.518Z"
  },
  "melbourne-melbourne-museum\u0001https://upload.wikimedia.org/wikipedia/commons/a/af/Melbourne_Museum_%28217000837%29.jpeg": {
   "slug": "melbourne-melbourne-museum",
@@ -18070,6 +18268,18 @@
   "reason": "Power lines and desert landscape, not restaurant",
   "at": "2026-07-25T02:48:26.332Z"
  },
+ "ravenna-ravenna-marathon-maratona-di-ravenna-citta-d-arte\u0001https://upload.wikimedia.org/wikipedia/commons/9/95/Broome_St_and_Main_St%2C_Marathon%2C_New_York.jpg": {
+  "slug": "ravenna-ravenna-marathon-maratona-di-ravenna-citta-d-arte",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: US snowy street scene, unrelated to Ravenna Marathon",
+  "at": "2026-10-05T17:57:35.641Z"
+ },
+ "ravenna-ravenna-marathon-maratona-di-ravenna-citta-d-arte\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Marathon_-_windmill.jpg/3840px-Marathon_-_windmill.jpg": {
+  "slug": "ravenna-ravenna-marathon-maratona-di-ravenna-citta-d-arte",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Rural windmill scene, unrelated to marathon event in Ravenna",
+  "at": "2026-10-05T17:57:30.861Z"
+ },
  "rishikesh-parmarth-niketan-ashram\u0001https://fastly.4sqi.net/img/general/original/11878062_yBy9u1ZFlQk2ecjDq2ohPoJjo-rdkKvvJpZPEXk58eI.jpg": {
   "slug": "rishikesh-parmarth-niketan-ashram",
   "verdict": "MATCH",
@@ -18720,17 +18930,59 @@
   "reason": "publish gate: Exterior view of San Telmo Museum building complex",
   "at": "2026-09-04T10:51:13.893Z"
  },
+ "san-sebastian-zurich-san-sebastian-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/e/e2/Lake-Zurich-Swim.jpg": {
+  "slug": "san-sebastian-zurich-san-sebastian-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: This is a map diagram, not a photo",
+  "at": "2026-10-05T18:30:41.176Z"
+ },
  "san-sebastian-zurich-san-sebastian-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Zurich_airport_bike_box.jpg/3840px-Zurich_airport_bike_box.jpg": {
   "slug": "san-sebastian-zurich-san-sebastian-marathon",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Airport interior with box, unrelated to marathon event",
   "at": "2026-10-01T23:37:11.590Z"
  },
+ "san-sebastian-zurich-san-sebastian-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Zurich%2C_ON.jpg/3840px-Zurich%2C_ON.jpg": {
+  "slug": "san-sebastian-zurich-san-sebastian-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic street scene, not marathon or Spain related",
+  "at": "2026-10-05T18:30:48.047Z"
+ },
+ "san-sebastian-zurich-san-sebastian-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Flughafen_Zurich%2C_Zurich_%28Ank_Kumar%29_09.jpg/3840px-Flughafen_Zurich%2C_Zurich_%28Ank_Kumar%29_09.jpg": {
+  "slug": "san-sebastian-zurich-san-sebastian-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Airport scene at night, unrelated to marathon event",
+  "at": "2026-10-05T17:58:33.253Z"
+ },
+ "san-sebastian-zurich-san-sebastian-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Airport_Shopping_area_at_Zurich_Airport_%282013%29.jpg/3840px-Airport_Shopping_area_at_Zurich_Airport_%282013%29.jpg": {
+  "slug": "san-sebastian-zurich-san-sebastian-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Indoor mall scene, unrelated to marathon event",
+  "at": "2026-10-05T17:58:45.874Z"
+ },
+ "san-sebastian-zurich-san-sebastian-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flughafen_Zurich%2C_Zurich_%28Ank_Kumar%29_01.jpg/3840px-Flughafen_Zurich%2C_Zurich_%28Ank_Kumar%29_01.jpg": {
+  "slug": "san-sebastian-zurich-san-sebastian-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Zurich airport, wrong city for San Sebastián marathon",
+  "at": "2026-10-05T17:58:18.404Z"
+ },
  "san-sebastian-zurich-san-sebastian-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/At_the_Zurich_Airport._Switzerland.jpg/3840px-At_the_Zurich_Airport._Switzerland.jpg": {
   "slug": "san-sebastian-zurich-san-sebastian-marathon",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Chocolate shop interior, unrelated to marathon event",
   "at": "2026-10-01T23:37:05.868Z"
+ },
+ "san-sebastian-zurich-san-sebastian-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coop_shopping_%26_Check-In_at_Zurich_Airport_%282015%29.jpg/3840px-Coop_shopping_%26_Check-In_at_Zurich_Airport_%282015%29.jpg": {
+  "slug": "san-sebastian-zurich-san-sebastian-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Airport interior, not marathon event or athletes",
+  "at": "2026-10-05T18:30:36.696Z"
+ },
+ "san-sebastian-zurich-san-sebastian-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flughafen_Zurich%2C_Zurich_%28Ank_Kumar%29_04.jpg/3840px-Flughafen_Zurich%2C_Zurich_%28Ank_Kumar%29_04.jpg": {
+  "slug": "san-sebastian-zurich-san-sebastian-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Zurich airport, not San Sebastián marathon related",
+  "at": "2026-10-05T17:58:14.919Z"
  },
  "san-sebastian-zurich-san-sebastian-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Zurich_airport_img_3324.jpg/3840px-Zurich_airport_img_3324.jpg": {
   "slug": "san-sebastian-zurich-san-sebastian-marathon",
@@ -20842,6 +21094,18 @@
   "reason": "patrol replace: Omakase plating, nigiri, premium presentation, Singapore fin",
   "at": "2026-09-17T22:25:06.376Z"
  },
+ "singapore-joji-solaris-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/2/2c/Joji_Performing_Live_in_2018.png": {
+  "slug": "singapore-joji-solaris-world-tour",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Concert performer on stage with modern venue lighting",
+  "at": "2026-10-05T17:36:58.404Z"
+ },
+ "singapore-joji-solaris-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/9/9c/Cosplay_of_Filthy_Frank%2C_Anime_Central%2C_2017_%2833992932604%29.jpg": {
+  "slug": "singapore-joji-solaris-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Random person with clock, not Joji or venue",
+  "at": "2026-10-05T17:36:46.496Z"
+ },
  "singapore-lau-pa-sat\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Lau_Pa_Sat_Singapore_2.jpg/1920px-Lau_Pa_Sat_Singapore_2.jpg": {
   "slug": "singapore-lau-pa-sat",
   "verdict": "MATCH",
@@ -21066,6 +21330,18 @@
   "verdict": "MATCH",
   "reason": "event-mode back-audit: Photo of The Weeknd, the performer for this tour",
   "at": "2026-08-07T13:04:55.984Z"
+ },
+ "sitges-sitges-film-festival\u0001https://upload.wikimedia.org/wikipedia/commons/f/f7/Peter_Brunner_at_the_Sitges_Film_Festival%2C_2021.jpg": {
+  "slug": "sitges-sitges-film-festival",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Film festival performer at event venue, award in hand",
+  "at": "2026-10-05T18:02:33.990Z"
+ },
+ "sitges-sitges-film-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Robert_Engund_Sitges_film_festival_with_fan_Johanna_Sunring.jpg/3840px-Robert_Engund_Sitges_film_festival_with_fan_Johanna_Sunring.jpg": {
+  "slug": "sitges-sitges-film-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Random selfie of people, not festival event imagery",
+  "at": "2026-10-05T18:02:27.870Z"
  },
  "sokcho-local-restaurant\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sk%C3%A1ro%C5%A1_-_Local_restaurant_and_pub_on_Poto%C4%8Dn%C3%A1_street%2C_slightly_upstreet_from_the_local_shopping_centre_%28May_2026%29_02.jpg/3840px-Sk%C3%A1ro%C5%A1_-_Local_restaurant_and_pub_on_Poto%C4%8Dn%C3%A1_street%2C_slightly_upstreet_from_the_local_shopping_centre_%28May_2026%29_02.jpg": {
   "slug": "sokcho-local-restaurant",
@@ -21679,6 +21955,24 @@
   "reason": "patrol reject: Plated dish shot, not the venue itself",
   "at": "2026-09-17T22:25:12.169Z"
  },
+ "taichung-taichung-jazz-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/4/4b/View_from_Civic_Square_of_Taichung.jpg": {
+  "slug": "taichung-taichung-jazz-festival-2026",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Taichung Civic Square with distinctive white building",
+  "at": "2026-10-05T18:04:22.298Z"
+ },
+ "taichung-taichung-jazz-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/d/db/Jazz_in_2019.jpg": {
+  "slug": "taichung-taichung-jazz-festival-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Wrestling event photo, unrelated to jazz festival, has watermark",
+  "at": "2026-10-05T18:04:12.480Z"
+ },
+ "taichung-taichung-jazz-festival-2026\u0001https://upload.wikimedia.org/wikipedia/commons/f/f1/Jazz_2017.jpg": {
+  "slug": "taichung-taichung-jazz-festival-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated person, not jazz festival or venue",
+  "at": "2026-10-05T18:04:16.088Z"
+ },
  "taichung-taichung-lecheng-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Caisson_ceiling_of_the_Taichung_Lecheng_Temple_20241206.jpg/3840px-Caisson_ceiling_of_the_Taichung_Lecheng_Temple_20241206.jpg": {
   "slug": "taichung-taichung-lecheng-temple",
   "verdict": "MATCH",
@@ -22035,6 +22329,24 @@
   "reason": "Trendy café breakfast spread, modern plating style",
   "reasonKo": "세련된 카페 조식, 현대적 플레이팅",
   "at": "2026-08-03T14:40:10.677Z"
+ },
+ "taipei-ultra-taiwan-2026\u0001https://upload.wikimedia.org/wikipedia/commons/a/a9/Wei_Jiahong_%40_2023_Taipei_Ultra_Marathon.jpg": {
+  "slug": "taipei-ultra-taiwan-2026",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed 2026-10-06: other-event — a runner at the Taipei Ultra Marathon, not the ULTRA dance festival",
+  "at": "2026-10-05T18:12:41.838Z"
+ },
+ "taipei-ultra-taiwan-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Genuine_16AIpro_Ultra_on_the_stage_20260322b.jpg/3840px-Genuine_16AIpro_Ultra_on_the_stage_20260322b.jpg": {
+  "slug": "taipei-ultra-taiwan-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Laptop unrelated to music festival event",
+  "at": "2026-10-05T18:04:54.214Z"
+ },
+ "taipei-ultra-taiwan-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Genuine_16AIpro_Ultra_on_the_stage_20260322a.jpg/3840px-Genuine_16AIpro_Ultra_on_the_stage_20260322a.jpg": {
+  "slug": "taipei-ultra-taiwan-2026",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Laptop unrelated to music festival event",
+  "at": "2026-10-05T18:04:59.753Z"
  },
  "taipei-urban-paradise\u0001https://fastly.4sqi.net/img/general/original/222946688_iLLZka6kkcQoy6-XEfcRDsVI0k9g7RbKYZvI9U9xkB0.jpg": {
   "slug": "taipei-urban-paradise",
@@ -23382,6 +23694,54 @@
   "verdict": "MATCH",
   "reason": "publish gate: Clear facade view of Royal Palace of Turin exterior",
   "at": "2026-08-26T08:14:28.404Z"
+ },
+ "turin-torino-city-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/3/39/Rivalta_di_Torino_municipio.JPG": {
+  "slug": "turin-torino-city-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows municipal building, not marathon event or venue",
+  "at": "2026-10-05T18:06:58.725Z"
+ },
+ "turin-torino-city-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/4/44/City_Angels_a_Torino_assistono_senzatetto.JPG": {
+  "slug": "turin-torino-city-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows humanitarian aid scene, not marathon event",
+  "at": "2026-10-05T18:35:35.295Z"
+ },
+ "turin-torino-city-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/7/72/CITTAMETROPOLITANA_TORINO_%281%29.png": {
+  "slug": "turin-torino-city-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: This is a logo, not a marathon photo",
+  "at": "2026-10-05T18:06:49.523Z"
+ },
+ "turin-torino-city-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Piazzale_Grande_Torino%2C_Turin%2C_Italy.jpg/3840px-Piazzale_Grande_Torino%2C_Turin%2C_Italy.jpg": {
+  "slug": "turin-torino-city-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows sculptures and buildings, not marathon venue or event",
+  "at": "2026-10-05T18:36:05.636Z"
+ },
+ "turin-torino-city-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Divisione_militare_di_Torino._Provincia_di_Torino.jpg/3840px-Divisione_militare_di_Torino._Provincia_di_Torino.jpg": {
+  "slug": "turin-torino-city-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: This is an antique map, not event or venue photo",
+  "at": "2026-10-05T18:35:38.341Z"
+ },
+ "turin-torino-city-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Unioni_Torino_26.png/3840px-Unioni_Torino_26.png": {
+  "slug": "turin-torino-city-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: This is a map diagram, not marathon photo",
+  "at": "2026-10-05T18:36:01.895Z"
+ },
+ "turin-torino-city-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Torino_%28Unsplash%29.jpg/3840px-Torino_%28Unsplash%29.jpg": {
+  "slug": "turin-torino-city-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Street scene in Turin, not marathon event or venue",
+  "at": "2026-10-05T18:06:55.822Z"
+ },
+ "turin-torino-city-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Torino-at-night.jpg/3840px-Torino-at-night.jpg": {
+  "slug": "turin-torino-city-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Turin skyline, not marathon event or venue",
+  "at": "2026-10-05T18:07:04.684Z"
  },
  "ubud-bali-bird-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Balibirdpark.jpg/1920px-Balibirdpark.jpg": {
   "slug": "ubud-bali-bird-park",

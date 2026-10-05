@@ -11,7 +11,6 @@ eventRecurring: true
 eventOrganizer:
   name: Festival Internacional de Cinema Fantàstic de Catalunya
 eventFactsAsked: true
-gallery: []
 tags:
   - sitges
   - event
@@ -29,6 +28,16 @@ faq:
     a: Many films screen in their original language with subtitles. Check each session's subtitle language in the official programme before you book.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/f/f7/Peter_Brunner_at_the_Sitges_Film_Festival%2C_2021.jpg
+  credit: 'Photo: Isabella Hasenauer / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Peter_Brunner_at_the_Sitges_Film_Festival,_2021.jpg
+  focus:
+    x: 53
+    'y': 16
+    top: 6
+    bottom: 26
 ---
 
 ## Eleven days of horror by the sea

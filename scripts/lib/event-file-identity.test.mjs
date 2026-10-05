@@ -263,3 +263,28 @@ test('a file that names the performer in full is that act, wherever it was shot'
   assert.equal(fileNamesPerformer(U('Avenged Sevenfold - Paris 2023 (4).jpg'), 'Avenged Sevenfold'), true);
   assert.equal(fileNamesPerformer(U('Old football in Jakarta.jpg'), 'Avenged Sevenfold'), false);
 });
+
+// 2026-10-06: 장소에 묶인 행사(마라톤·컵·축제)는 예전 회차는 되지만, 다른 나라의
+// 같은 종류 행사는 다른 행사다. 비전은 "행사 종류"만 봐서 다 통과시켰다.
+test('a place-bound event refuses the same kind of event in another country, and another kind', () => {
+  const v = (title, region, country, file) => foreignInFilename(U(file), {
+    known: known(title.split(':')[0], region, country), anchor: keyToken(title.split(':')[0], `${region} ${country}`),
+    via: 'act', geo: REAL_GEO, name: eventProperName(title.split(':')[0]), country,
+  });
+  const wrong = [
+    ['Florence Marathon: Dates', 'Florence', 'Italy', '2016_London_Marathon_IMGP1634_(27323159926).jpg'],
+    ['Kuala Lumpur Standard Chartered Marathon: Dates', 'Kuala Lumpur', 'Malaysia', 'Singapore_Standard_Chartered_Marathon_2013.jpg'],
+    ['Rugby League World Cup 2026 Final: Dates', 'Brisbane', 'Australia', 'England_wheelchair_rugby_league_team_celebrating_at_Old_Trafford.jpg'],
+    ['Festival Gendang Sarawak (FGS) 2026: Dates', 'Kuching', 'Malaysia', 'Gendang_Minangkabau_Indonesia.jpg'],
+    ['ULTRA Taiwan 2026: Dates', 'Taipei', 'Taiwan', 'Wei_Jiahong_@_2023_Taipei_Ultra_Marathon.jpg'],
+  ];
+  for (const c of wrong) assert.notEqual(v(...c), '', c[3]);
+  const right = [
+    ['Melbourne Cup: Dates', 'Melbourne', 'Australia', '2013_Melbourne_Cup_(10705853945).jpg'],
+    ['Sitges Film Festival: Dates', 'Sitges', 'Spain', 'Peter_Brunner_at_the_Sitges_Film_Festival,_2021.jpg'],
+    ['China Open Tennis: Dates', 'Beijing', 'China', 'South_entrance_of_National_Tennis_Center_during_2024_China_Open_(20241005).jpg'],
+    // 투어 가수는 다른 도시가 정상 — 공연자 표시가 없어도
+    ['Evanescence Madrid 2026: Dates', 'Madrid', 'Spain', 'Evanescence at concert in San Petersburg.jpg'],
+  ];
+  for (const c of right) assert.equal(v(...c), '', c[3]);
+});

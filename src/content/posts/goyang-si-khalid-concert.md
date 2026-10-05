@@ -13,7 +13,6 @@ eventPerformer:
   name: Khalid
   kind: person
 eventFactsAsked: true
-gallery: []
 tags:
   - goyang-si
   - event
@@ -31,6 +30,16 @@ faq:
     a: Yes. Ilsan Lake Park is nearby and makes an easy daytime addition, and the Ilsan district has considerably more dining options than the Kintex grounds themselves.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Khalid_World_Pride_DC_03.jpg/1920px-Khalid_World_Pride_DC_03.jpg
+  credit: 'Photo: Thesavagenorwegian / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Khalid_World_Pride_DC_03.jpg
+  focus:
+    x: 43
+    'y': 33
+    top: 29
+    bottom: 37
 ---
 
 ## What's happening and where

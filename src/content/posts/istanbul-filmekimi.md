@@ -10,7 +10,6 @@ eventEndDate: '2026-10-18'
 eventRecurring: true
 eventVenue: Atlas 1948 and three other cinemas
 eventFactsAsked: true
-gallery: []
 tags:
   - istanbul
   - event
@@ -28,6 +27,14 @@ faq:
     a: The most anticipated titles often do, especially on the opening weekend, because most films get only one or two screenings. Book your top choices first through the official İKSV site.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/2/28/Kad%C4%B1k%C3%B6y_sinemas%C4%B1nda_Filmekimi.jpg
+  credit: 'Photo: Antoloji / wikimedia (BY-SA)'
+  license: openverse-cc
+  source: https://commons.wikimedia.org/w/index.php?curid=104799206
+  focus:
+    x: 50
+    'y': 45
 ---
 
 Ten days in October, a handful of cinemas, and a programme made up of the year's festival-circuit films. That's Filmekimi, Istanbul's autumn film showcase. It's one of the main cultural events of the city's season. The 2026 edition runs **October 9-18**, with screenings at **Atlas 1948** and three other cinemas around Istanbul.

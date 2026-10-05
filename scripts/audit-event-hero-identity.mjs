@@ -39,6 +39,11 @@ import { readFileSync, readdirSync, existsSync, writeFileSync, mkdirSync } from 
 import { join } from 'node:path';
 import matter from 'gray-matter';
 import { requireExamined } from './lib/examined.mjs';
+import { fileNamesPerformer } from './lib/event-file-identity.mjs';
+
+// Heroes the patrol took from the performer's own Commons category.
+const PROOF = 'data/performer-category-heroes.json';
+const performerProof = existsSync(PROOF) ? JSON.parse(readFileSync(PROOF, 'utf8')) : {};
 
 const DIR = 'src/content/posts';
 const BASELINE = 'data/event-hero-identity-reviewed.json';
@@ -109,6 +114,12 @@ for (const f of readdirSync(DIR).filter((f) => f.endsWith('.md'))) {
   // scored two hits for one word and walked past review.
   const hit = [...new Set(toks(title).filter((t) => fileToks.has(t)))];
   if (hit.length >= 2) continue;   // the filename names this event; nothing to review
+  // The owner's rule (09-07): any photo of the performer is right for their
+  // post. A file that names the act in full, or one the patrol took from the
+  // act's own Commons category, is that — The Weeknd at Coachella 2012 for
+  // his Hong Kong date was reported here as unreviewed (2026-10-06).
+  if (fileNamesPerformer(url, fm?.eventPerformer?.name)) continue;
+  if (performerProof[slug]?.url === url) continue;
 
   // The baseline stores the full URL. Storing the width-stripped filename made
   // an original Commons file called 800px-Portrait.jpg indistinguishable from a

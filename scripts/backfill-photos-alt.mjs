@@ -34,7 +34,7 @@ import matter from 'gray-matter';
 import yaml from 'js-yaml';
 import { loadUsedImageUrls, resolveHero, eventTopic, EVENT_HERO_MIN_WIDTH } from './lib/images.mjs';
 import { probeWidth, upsizeFlickr, widthVerdict, UNUSABLE_WIDTH } from './lib/image-width.mjs';
-import { keyToken, tokens, COMMON_ANCHOR } from './lib/commons.mjs';
+import { keyToken, tokens, COMMON_ANCHOR, performerCategoryPhotos } from './lib/commons.mjs';
 import { foreignInFilename, geoTokens, fileNamesPerformer } from './lib/event-file-identity.mjs';
 import { candidateBudget, DEAD_END_REFUSALS, SHARED_HERO_WANT } from './lib/candidate-budget.mjs';
 import { eventProperName, eventAcronym } from '../src/lib/eventName.mjs';
@@ -197,6 +197,10 @@ const rewriteList = [];
 // Seven strikes used to DELETE the post. It now only stops searching — see the
 // block near the bottom of this file for the measurement that changed the rule.
 const RETRY_FILE = 'data/photo-retry.json';
+// Heroes found through the performer's Commons category, with that category
+// (read by audit-event-hero-identity).
+const PERFORMER_PROOF = 'data/performer-category-heroes.json';
+const performerProof = existsSync(PERFORMER_PROOF) ? JSON.parse(readFileSync(PERFORMER_PROOF, 'utf8')) : {};
 // GIVE_UP_AFTER and the pause rule live in lib/photo-queue-order.mjs, next to
 // isPausedTonight and its tests, so the threshold and the rule cannot drift.
 const retryCount = existsSync(RETRY_FILE) ? JSON.parse(readFileSync(RETRY_FILE, 'utf8')) : {};
@@ -404,7 +408,7 @@ for (const f of files) {
         });
       } catch {}
       if (!pick?.url || pick.license !== 'wikimedia') break; // placeholder → no candidates left
-      const foreign = foreignInFilename(pick.url, { known: knownTok, anchor, via: pick.via, geo: geoTokens(world), name: properName, acronym: eventAcronym(venueName), performer: data.eventPerformer?.name || '' });
+      const foreign = foreignInFilename(pick.url, { known: knownTok, anchor, via: pick.via, geo: geoTokens(world), name: properName, acronym: eventAcronym(venueName), performer: data.eventPerformer?.name || '', country: data.country || '' });
       // resolveHero already marked the reject in `seen`, so the next round
       // surfaces a different file rather than this one again.
       if (foreign) { budget.refused(); console.log(`   ${slug}: candidate skipped — filename names another act (${foreign})`); continue; }
@@ -418,6 +422,24 @@ for (const f of files) {
       cands.push(pick);
     }
     if (budget.streak >= DEAD_END_REFUSALS) console.log(`   ${slug}: search looks lost — ${budget.streak} refusals in a row, stopping rather than pushing junk at vision`);
+    // Performer category tier (2026-10-06, 픽서님: 가수 글은 그 가수의 어떤 사진이든).
+    // The files Commons FILES under the act — Category:Khalid (singer),
+    // Category:Haddaway. Membership is the identity, so a stage shot named
+    // "Sunshine Live - Die 90er … DV3P5579" counts, and a text search's
+    // namesakes (a Bangladeshi minister called Khalid) never enter. Vision,
+    // width and the used-photo rule still apply below.
+    const performer = data.eventPerformer?.name;
+    if (performer && cands.length < 4) {
+      try {
+        for (const o of await performerCategoryPhotos(performer, { limit: 10 })) {
+          if (cands.length >= 4) break;
+          if (judgedWrong(slug, o.url, data.category)) continue;
+          if (isUsedImage(used, o.url)) continue;
+          console.log(`   ${slug}: performer category candidate (${o.category}) — "${String(o.title).slice(0, 60)}"`);
+          cands.push(o);
+        }
+      } catch {}
+    }
     // Openverse act tier (2026-08-29, 픽서님: "유명 가수는 다른 공연 사진이라도").
     // Commons often holds only tiny files of a touring act — Richard Marx:
     // two files, 343/370px — while Flickr's CC pool (reached through
@@ -617,7 +639,7 @@ for (const f of files) {
       // A file that names the performer is that act on some other night: the
       // owner's rule is any photo of the singer or band (2026-10-06 — Avenged
       // Sevenfold's Paris shows were refused as "post says Jakarta").
-      : isEvent && (cand.via === 'phrase' || cand.via === 'openverse-act' || fileNamesPerformer(cand.url, data.eventPerformer?.name))
+      : isEvent && (cand.via === 'phrase' || cand.via === 'openverse-act' || cand.via === 'performer-category' || fileNamesPerformer(cand.url, data.eventPerformer?.name))
         // openverse-act: identity was the act's name in the uploader's title,
         // and a tour photo's PLACE is some past city — place-testing it is
         // wrong by construction, same as the phrase case above.
@@ -630,6 +652,10 @@ for (const f of files) {
     }
     if (DRY) { console.log(`  · would fix ${slug} ← ${cand.url.slice(0, 70)}`); done = true; fixed++; break; }
     data.heroImage = { url: cand.url, credit: cand.credit, license: cand.license, source: cand.source, ...(vis.focus ? { focus: vis.focus } : {}) };
+    // The proof a category find carries is the CATEGORY, not the filename —
+    // written down so audit-event-hero-identity can see it (a Haddaway stage
+    // shot is named "Sunshine Live - Die 90er …").
+    if (cand.via === 'performer-category') performerProof[slug] = { url: cand.url, category: cand.category, at: new Date().toISOString() };
     // The verdict store is what validate-content trusts: without this line the
     // patrol's own vision-approved replacements were reported as UNVERIFIED-
     // PHOTO the same evening (2026-08-08, nine of them).
@@ -805,6 +831,7 @@ for (const [slug, n] of Object.entries(retryCount)) {
   console.log(`  ⏸️  ${slug}: no photo after ${n} nights — search paused, post kept (was: deleted)`);
 }
 if (!DRY) await writeFile(RETRY_FILE, JSON.stringify(retryCount, null, 1) + '\n', 'utf8');
+if (!DRY) await writeFile(PERFORMER_PROOF, JSON.stringify(performerProof, null, 1) + '\n', 'utf8');
 
 console.log(`\n📦 scanned ${scanned} target(s): ${fixed} fixed · ${undrafted} republished · ${unfixed} need venue-rewrite`);
 if (rewriteList.length) console.log('REWRITE_LIST ' + rewriteList.join(','));

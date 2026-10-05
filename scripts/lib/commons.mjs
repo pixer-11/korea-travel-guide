@@ -317,7 +317,10 @@ const PERFORMER_SUFFIXES = ['singer', 'musician', 'band', 'group', 'rapper', 'So
 export async function performerCategoryPhotos(name, { limit = 8 } = {}) {
   const n = String(name ?? '').trim();
   if (!n) return [];
-  for (const cat of [...PERFORMER_SUFFIXES.map((s) => `${n} (${s})`), n]) {
+  // Category titles are case-sensitive past the first letter: an act styled
+  // in capitals (BABYMONSTER) is filed as Category:Babymonster.
+  const spellings = [...new Set([n, /^[^a-z]+$/.test(n) ? n[0] + n.slice(1).toLowerCase() : n])];
+  for (const cat of spellings.flatMap((sp) => [...PERFORMER_SUFFIXES.map((s) => `${sp} (${s})`), sp])) {
     const url = 'https://commons.wikimedia.org/w/api.php?action=query&format=json' +
       '&generator=categorymembers&gcmtype=file&gcmlimit=50&gcmtitle=' + encodeURIComponent(`Category:${cat}`) +
       '&prop=imageinfo&iiprop=url|extmetadata|mime|size&iiurlwidth=2400&origin=*';

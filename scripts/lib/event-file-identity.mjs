@@ -37,6 +37,9 @@
 // the sibling event they exist to keep out.
 import { tokens, allWords, ANCHOR_STOP, COMMON_ANCHOR, isCommonAnchor } from './commons.mjs';
 import { GEO_STOP } from './images.mjs';
+import { readFileSync } from 'node:fs';
+import { join } from 'node:path';
+import { fileURLToPath } from 'node:url';
 
 // The `geo` set for foreignInFilename: hub cities plus every country and
 // region the site covers (loadWorld() from commons-identity), as tokens.
@@ -153,6 +156,35 @@ function namesTheEvent(ft, name, geo) {
   return false;
 }
 
+// Place words of the post's OWN country (its name and its regions). A place
+// in the same country is not "another event's city" — George Town's festival
+// shot is labelled "Georgetown, Penang". Read lazily from data/countries.json;
+// when it cannot be read the set is empty and every place counts (the rule
+// errs toward refusing, never toward passing blind).
+const ROOT_DIR = fileURLToPath(new URL('../../', import.meta.url));
+let COUNTRY_GEO = null;
+export function homeGeoTokens(country) {
+  if (!country) return new Set();
+  if (!COUNTRY_GEO) {
+    COUNTRY_GEO = new Map();
+    try {
+      const w = JSON.parse(readFileSync(join(ROOT_DIR, 'data/countries.json'), 'utf8'));
+      for (const c of w.countries || []) COUNTRY_GEO.set(c.name, new Set([...tokens(c.name), ...(c.regions || []).flatMap((r) => tokens(r))]));
+    } catch {}
+  }
+  return COUNTRY_GEO.get(country) ?? new Set();
+}
+// Place-name tokens too ambiguous to mean "another city": "South entrance of
+// the National Tennis Center" is Beijing, not South Korea.
+const AMBIG_PLACE = new Set(['south', 'north', 'east', 'west', 'new', 'city', 'town', 'san', 'santa', 'saint', 'port', 'bay',
+  'island', 'islands', 'old', 'great', 'little', 'upper', 'lower', 'central', 'kota', 'beach', 'lake', 'mount', 'hill']);
+
+// Words that make a file a different KIND of event when the post's own title
+// lacks them: an ultramarathon is not a dance festival, a wheelchair final is
+// not the men's final.
+const OTHER_KIND = new Set(['marathon', 'ultramarathon', 'triathlon', 'duathlon', 'wheelchair', 'paralympic', 'paralympics',
+  'junior', 'juniors', 'youth', 'masters', 'veterans', 'women', 'womens', 'relay', 'walkathon']);
+
 // Does the FILE name the performer (frontmatter eventPerformer.name)? The
 // owner's rule since 09-07: a singer's or band's post may carry ANY photo of
 // that act — another city's show, another year, off stage. Before this the
@@ -197,7 +229,7 @@ export function fileNamesPerformer(url, performer, { singleWord = true } = {}) {
 // Vegetarian Festival NN.jpg" were refused as "names another act (face
 // piercing)" until this existed (2026-08-30). See namesTheEvent for why the
 // bare anchor token is not enough.
-export function foreignInFilename(url, { known, anchor = '', via = '', geo = null, name = '', acronym = '', performer = '' }) {
+export function foreignInFilename(url, { known, anchor = '', via = '', geo = null, name = '', acronym = '', performer = '', country = '' }) {
   // A file that names the act in full is the act, wherever and whenever it
   // was shot (fileNamesPerformer). Multi-word names only here: a lone first
   // name ("Khalid") is too common to clear "State Minister Khalid, Dhaka".
@@ -253,6 +285,28 @@ export function foreignInFilename(url, { known, anchor = '', via = '', geo = nul
   // selby"). Place names and scene words are not counted against either: a
   // past edition was held somewhere, and every photo was taken from an angle.
   const anchorIsName = anchor && !isCommonAnchor(anchor);
+  // A PLACE-BOUND event — a marathon, a cup, a festival, not a touring act —
+  // is held where it is held. Its past edition is right (the owner's second
+  // tier); the same KIND of event elsewhere is a different event. Two holes
+  // let those through on 2026-10-06: a leftover place name was forgiven as
+  // "where a past edition was held" ("2016 London Marathon" for the Florence
+  // Marathon, "Gendang Minangkabau Indonesia" for Kuching's Gendang festival,
+  // "England wheelchair rugby league" for Brisbane's World Cup final), and a
+  // sport word the title does not have was ignored ("Taipei Ultra Marathon"
+  // for the ULTRA Taiwan dance festival). A touring act keeps the old rule:
+  // its other cities are its other nights.
+  // The place rule only where the title SAYS the event is place-bound: an
+  // act's name alone ("Evanescence Madrid 2026") is a touring act whose
+  // St Petersburg show is the right photo (24 concert posts carry no
+  // eventPerformer field, so its absence proves nothing).
+  const actLike = performer || /\b(concerts?|tours?|live|fan ?meet(ing)?|showcase|recital)\b/i.test(name);
+  const placeBound = /\b(marathon|race|run|cup|final|games|championships?|open|festival|fest|fair|carnival|parade|expo|matsuri|derby|regatta|league)\b/i.test(name);
+  if (!actLike) {
+    const home = homeGeoTokens(country);
+    const otherPlace = placeBound ? leftovers.filter((t) => geo && geo.has(t) && !home.has(t) && !AMBIG_PLACE.has(t)) : [];
+    const otherKind = ft.filter((t) => OTHER_KIND.has(t) && !known.has(t));
+    if (otherPlace.length || otherKind.length) return [...otherPlace, ...otherKind].join(' ');
+  }
   if (anchor && fileNamesAnchor(url, anchor)) {
     const rest = leftovers.filter((t) => !SCENE_WORDS.has(t) && !(geo && geo.has(t)));
     if (rest.length <= (anchorIsName ? 4 : 1)) return '';

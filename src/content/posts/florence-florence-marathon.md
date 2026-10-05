@@ -29,6 +29,16 @@ faq:
     a: The Lungarno embankments give more room and longer views than the narrow streets near the Duomo. Piazza Santa Croce is the most crowded spot. Watch earlier on the course, then walk to the finish to meet your runner.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://live.staticflickr.com/56/117155985_dadda037f3_k.jpg
+  credit: 'Photo: Charlie Brewer / flickr (BY-SA)'
+  license: openverse-cc
+  source: https://www.flickr.com/photos/11827916@N00/117155985
+  focus:
+    x: 21
+    'y': 40
+    top: 36
+    bottom: 44
 ---
 
 ## 42 kilometres through a Renaissance postcard
