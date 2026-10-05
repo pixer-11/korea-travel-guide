@@ -62,3 +62,23 @@ test('CI 가 이 감사를 부른다', () => {
   const pkg = JSON.parse(readFileSync(new URL('../../package.json', import.meta.url), 'utf8'));
   assert.match(pkg.scripts.ci, /audit-pii\.mjs/, 'npm run ci 가 개인정보 감사를 부르지 않는다');
 });
+
+// 10-05: credential shapes. Built at runtime so no key-shaped string sits in
+// this file in plain text.
+test('credential shapes are caught; ordinary text is not', () => {
+  const A = 'A' + 'Iza';
+  const g = 'gh' + 'p_';
+  const fake = {
+    google: `X-Goog-Api-Key: ${A}${'x'.repeat(35)}`,
+    github: `token ${g}${'a1'.repeat(18)}`,
+    anthropic: `ANTHROPIC_API_KEY=${'sk-' + 'ant-'}${'b'.repeat(30)}`,
+    telegram: `bot${'123456789'}:${'AA'}${'c'.repeat(33)}/sendMessage`,
+  };
+  for (const [k, v] of Object.entries(fake)) assert.ok(piiFindings(v).length > 0, k);
+  assert.deepEqual(piiFindings('the AIza prefix alone, a gh_ word, sk-ant docs, 12:00 AA meeting'), []);
+});
+
+test('the operator mail id is refused, the public pen name is not', () => {
+  assert.ok(piiFindings(`contact ${'pixer' + '.vtm'}@example.com`).length > 0);
+  assert.deepEqual(piiFindings('Pixer (픽서) edits every guide; korea-travel-guide.pixer-vtm.workers.dev'), []);
+});

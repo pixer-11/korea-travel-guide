@@ -47,7 +47,11 @@ const linksFor = (lang) => {
   const base = lang === 'en' ? SITE : `${SITE}/${lang}`;
   return {
     site: SITE, cta: base,
-    unsubscribe: `${SITE}/unsubscribe`, prefs: `${SITE}/preferences`,
+    // MailerLite fills these per subscriber. The bare /unsubscribe was a 404 and
+    // the unsigned /preferences a 403 — no working opt-out in any newsletter
+    // footer until 2026-10-05. A campaign is one HTML per group, so a
+    // per-subscriber signed link cannot be baked in; MailerLite's own can.
+    unsubscribe: '{$unsubscribe}', prefs: '{$preferences}',
     story: (s) => `${base}/posts/${s}`, event: (s) => `${base}/posts/${s}`,
   };
 };

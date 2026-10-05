@@ -34,3 +34,7 @@ dist-discover/
 
 # run locks (see add-essentials-section.mjs)
 data/logs/.*.lock
+
+# Claude Code writes every approved command here, keys included — a Places key
+# sat in the public repo from 07-21 to 10-05. Local only.
+.claude/settings.local.json

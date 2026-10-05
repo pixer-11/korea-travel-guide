@@ -168,8 +168,9 @@ function render(lang) {
     <p style="font-family:Helvetica,Arial,sans-serif;font-size:12.5px;color:${P.soft};margin:10px 0 0;">${esc(c.sign)}</p>
   </td></tr>
   <tr><td style="background:${P.ink};color:#a79e8f;font-family:Helvetica,Arial,sans-serif;font-size:11px;line-height:1.8;text-align:center;padding:26px 40px;">
-    <a href="${esc(`${SITE}/preferences`)}" style="color:#d6ab5c;text-decoration:none;">${esc(c.prefs)}</a> ·
-    <a href="${esc(`${SITE}/unsubscribe`)}" style="color:#d6ab5c;text-decoration:none;">${esc(c.unsubscribe)}</a>
+    <!-- MailerLite's per-subscriber links; the site's /unsubscribe 404s and /preferences needs a signature (2026-10-05). -->
+    <a href="{$preferences}" style="color:#d6ab5c;text-decoration:none;">${esc(c.prefs)}</a> ·
+    <a href="{$unsubscribe}" style="color:#d6ab5c;text-decoration:none;">${esc(c.unsubscribe)}</a>
     <div style="color:#6a635a;font-size:10px;margin-top:12px;">Wander Atlas · wanderatlasguides.com</div>
   </td></tr>
 </table>

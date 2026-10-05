@@ -17,12 +17,21 @@ const BANNED_HASHES = new Set([
   '1e8d38c4edf46b4509cc60d5bf44158d', // 운영자 실명(이름)
   'd91ae1926faa9910bca6574bf6406609', // 링크드인 슬러그 전체
   'cc71103d44e289ea5adbf9f19f981802', // 링크드인 슬러그 꼬리
+  'b247730bb97ac6ff63df5a61780fa9fd', // 운영자 개인 메일 아이디(10-05: 위키미디어 UA 두 곳·제출키트에 있었다)
   ...String(process.env.PII_EXTRA_HASHES || '').split(',').map((s) => s.trim()).filter(Boolean),
 ]);
 
 // 값이 아니라 **모양**으로 잡는 것들 — 여기 적어도 유출이 아니다.
 const SHAPES = [
   [/linkedin\.com\/in\/[A-Za-z0-9._-]+/gi, '링크드인 프로필 주소'],
+  // 자격증명 — 10-05 감사: 구글 Places 키가 07-21부터 공개 저장소의
+  // .claude/settings.local.json 에 있었다(승인한 curl 명령이 그대로 기록됨).
+  // 이 검사는 실명·링크드인만 봤다. 값이 아니라 모양이라 여기 적어도 유출이 아니다.
+  [/AIza[0-9A-Za-z_-]{35}/g, '구글 API 키'],
+  [/\bgh[pousr]_[A-Za-z0-9]{36,}|\bgithub_pat_[A-Za-z0-9_]{50,}/g, '깃허브 토큰'],
+  [/\bsk-ant-[A-Za-z0-9_-]{20,}/g, '앤트로픽 API 키'],
+  // 주소 속에서는 "bot<토큰>" 으로 붙어 나오므로 단어 경계가 아니라 "앞이 숫자가 아님".
+  [/(?<![0-9])\d{8,10}:AA[0-9A-Za-z_-]{30,}/g, '텔레그램 봇 토큰'],
 ];
 
 import { createHash } from 'node:crypto';

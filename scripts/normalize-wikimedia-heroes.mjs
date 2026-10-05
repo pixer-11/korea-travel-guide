@@ -34,7 +34,7 @@ import { dropGalleryCopiesOfHero } from './lib/gallery-dedupe.mjs';
 import { writeAuditStore } from './lib/visual-audit-store.mjs';
 
 const POSTS = 'src/content/posts';
-const UA = 'WanderAtlasHeroNormalise/1.0 (pixer.vtm@gmail.com)';
+const UA = 'WanderAtlasHeroNormalise/1.0 (hello@wanderatlasguides.com)';
 const API = 'https://commons.wikimedia.org/w/api.php';
 const DRY = process.env.DRY === '1';
 // ONLY_ORIGINALS=1 limits the run to heroes that hotlink an original file —

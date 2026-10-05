@@ -26,7 +26,7 @@ import { tokens } from './commons.mjs';
 const API = 'https://commons.wikimedia.org/w/api.php';
 // Wikimedia asks for a real UA and throttles hard on parallel/browser-UA
 // requests — a prior sweep got 528 spurious 429s that read as dead images.
-const UA = 'WanderAtlasPhotoIdentity/1.0 (https://wanderatlasguides.com; pixer.vtm@gmail.com)';
+const UA = 'WanderAtlasPhotoIdentity/1.0 (https://wanderatlasguides.com; hello@wanderatlasguides.com)';
 const BATCH = 40; // API caps titles at 50 per request
 
 /**
