@@ -343,6 +343,9 @@ test('an instruction the reader can no longer act on is flagged', () => {
     'Ticketing details had not been locked in this far out.',
     'The exact method was not confirmed at publication time.',
     'The lineup was not set at the time of writing.',
+    // Still advice: the trip TO the event.
+    'Read the race rules before travelling to Kuala Lumpur.',
+    'Confirm your bib number before you go.',
   ]) assert.ok(ADVICE_IMPERATIVE.test(s), s);
 });
 
@@ -359,6 +362,9 @@ test('the record of what was planned, and evergreen facts, are not advice', () =
     'Locals typically arrive at the arena complex a good hour before doors.',
     'Regulars arrive early to beat the parking crunch.',
     'Fans who plan ahead usually stay on Yas Island.',
+    // The trip home, after the event (Kuala Lumpur marathon, 10-05).
+    'Faster runners sometimes treat the shorter Saturday races as a shakeout before travelling home.',
+    'Many runners rest a day before going back.',
   ]) assert.ok(!ADVICE_IMPERATIVE.test(s), s);
 });
 

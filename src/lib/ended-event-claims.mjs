@@ -157,5 +157,8 @@ export const OFFENDING_CLAIM = new RegExp(`${FUTURE_PROMISE.source}|${FABRICATED
 // are the record, not the advice. So is a habit: "locals typically arrive an
 // hour before doors" describes the crowd, and the lookbehind lets the habitual
 // adverbs and the crowd nouns through — an editorial run on 2026-09-03 refused
-// Abu Dhabi's guide for exactly that sentence.
-export const ADVICE_IMPERATIVE = /\b(?:always|please)?\s*(?<!\b(?:the|a|published|travel|their|your|our|its|this|that|official|typically|usually|often|generally|routinely|regulars|locals|fans|visitors|concertgoers|who|to)\s)(?:check|confirm|verify|double-check|watch|monitor|book|plan|arrive|expect)\b[^.\n]{0,60}\b(?:before|closer|official|announcement|ahead|early)\b|\bbefore\s+(?:you\s+)?(?:book|booking|travel|travelling|traveling|go|going|finali[sz]e|finali[sz]ing)\b|\bas of this writing\b|\bat publication time\b|\bthis far out\b|\bat the time of (?:this )?writing\b/i;
+// Abu Dhabi's guide for exactly that sentence. "Before travelling home" is the
+// trip out of the event, not the trip to it: "Faster runners treat the Saturday
+// races as a shakeout before travelling home" (the Kuala Lumpur marathon,
+// 2026-10-05) describes the field and was flagged the day after the race.
+export const ADVICE_IMPERATIVE =/\b(?:always|please)?\s*(?<!\b(?:the|a|published|travel|their|your|our|its|this|that|official|typically|usually|often|generally|routinely|regulars|locals|fans|visitors|concertgoers|who|to)\s)(?:check|confirm|verify|double-check|watch|monitor|book|plan|arrive|expect)\b[^.\n]{0,60}\b(?:before|closer|official|announcement|ahead|early)\b|\bbefore\s+(?:you\s+)?(?:book|booking|travel|travelling|traveling|go|going|finali[sz]e|finali[sz]ing)\b(?!\s+(?:home|back)\b)|\bas of this writing\b|\bat publication time\b|\bthis far out\b|\bat the time of (?:this )?writing\b/i;
