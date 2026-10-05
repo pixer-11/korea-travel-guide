@@ -26,7 +26,7 @@ faq:
 
 ## 怎样前往亨特广场
 
-从爱丁堡市中心大部分地方走过去都��远：
+从爱丁堡市中心大部分地方走过去都不远：
 
 - **爱丁堡威弗利车站（Edinburgh Waverley）：** 从Market Street或王子街（Princes Street）出口出站，沿北桥往上走。全程上坡，约需10分钟。
 - **圣吉尔斯大教堂（St Giles' Cathedral）：** 沿高街往东走几分钟即到。

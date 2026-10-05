@@ -28,7 +28,7 @@ faq:
 
 弗莱明顿赛马场位于墨尔本内城西北部，紧邻马里比农河（Maribyrnong River）。每逢赛日，赛场还会启用专属的火车站台。
 
-- **火车**：赛日专线从南十字星站��Southern Cross）和弗林德斯街站（Flinders Street）发车，直达赛场门口的弗莱明顿赛马场站（Flemington Racecourse）。上车时用myki卡刷卡即可。
+- **火车**：赛日专线从南十字星站（Southern Cross）和弗林德斯街站（Flinders Street）发车，直达赛场门口的弗莱明顿赛马场站（Flemington Racecourse）。上车时用myki卡刷卡即可。
 - **有轨电车**：57路沿赛马场路（Racecourse Road）行驶，下车后步行不远就到。
 - **自驾**：停车位有限，最后一场比赛结束后，离场道路会严重拥堵。如果打算投注喝酒，就别开车了。
 - **出租车/网约车**：请在指定的上下客区乘降。离场时需要做好长时间等车的准备。

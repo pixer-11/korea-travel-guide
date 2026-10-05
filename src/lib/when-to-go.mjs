@@ -64,13 +64,32 @@ export function whenToGo(country, month, { countryFacts, events = [], posts = []
   const rains = climate.map((c) => c.rain);
   const yearRain = rains.reduce((a, b) => a + b, 0);
 
-  // Holidays inside this month, in any year the dataset covers, de-duplicated by
-  // name so "New Year's Day" doesn't appear once per year on the same page.
-  const seen = new Set();
-  const holidays = (facts.holidays ?? [])
-    .filter((h) => Number(h.date.slice(5, 7)) === month)
-    .filter((h) => (seen.has(h.name) ? false : (seen.add(h.name), true)))
-    .sort((a, b) => a.date.localeCompare(b.date));
+  // Holidays of the COMING instance of this month only: this year's if the month
+  // has not ended yet, otherwise next year's — and within the current month, the
+  // days still ahead. One page, one year, the one a reader can still plan for.
+  // Until 2026-10-05 this kept every year the dataset covers and de-duplicated by
+  // name, keeping the first: Korea's February page printed the 2026 Seollal
+  // (already past) beside the 2027 substitute holiday, with no year shown, and
+  // 143 of 190 holiday pages listed at least one date already gone. Movable
+  // holidays (lunar, Islamic, Easter) were simply wrong for the next trip.
+  // The dataset is this year + next, refreshed monthly, so the coming instance
+  // of every month is always inside it.
+  // The current month whose holidays are all behind us (Germany's October on the
+  // 5th, after Unity Day) moves to next year's October rather than showing none.
+  const today = new Date(now);
+  const todayIso = today.toISOString().slice(0, 10);
+  const thisMonth = today.getUTCMonth() + 1;
+  const inMonth = (y) => {
+    const prefix = `${y}-${String(month).padStart(2, '0')}-`;
+    const seen = new Set();
+    return (facts.holidays ?? [])
+      .filter((h) => h.date.startsWith(prefix) && h.date >= todayIso)
+      .sort((a, b) => a.date.localeCompare(b.date))
+      .filter((h) => (seen.has(h.name) ? false : (seen.add(h.name), true)));
+  };
+  const y0 = today.getUTCFullYear();
+  let holidays = inMonth(month >= thisMonth ? y0 : y0 + 1);
+  if (!holidays.length && month === thisMonth) holidays = inMonth(y0 + 1);
 
   // Event POSTS for this country+month — the site's best-performing page class
   // (2026-08 audit: best impressions/page and clicks/page), linked from its

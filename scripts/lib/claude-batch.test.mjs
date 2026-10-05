@@ -3,7 +3,7 @@
 //   node --test scripts/lib/claude-batch.test.mjs
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { runBatch, CANCEL_WAIT_MIN } from './claude-batch.mjs';
+import { runBatch, CANCEL_WAIT_MIN, REPLACEMENT_CHAR } from './claude-batch.mjs';
 import { meterTally } from './claude-meter.mjs';
 
 const msg = (text) => ({
@@ -100,6 +100,40 @@ test('a batch that breaks while waiting is cancelled, not left to bill twice', a
   const got = await runBatch(c, items, quiet);
   assert.equal(got.size, 0);
   assert.equal(c.calls.cancelled, true);
+});
+
+// 2026-10-05: the SDK's results iterator decoded each network chunk on its own,
+// so a letter cut by a chunk boundary became U+FFFD — 523 translations carried
+// one. This server cuts 「돌아오나요」 inside 아 on purpose.
+test('results are decoded whole: a letter split across network chunks survives', async () => {
+  const { createServer } = await import('node:http');
+  const line = JSON.stringify({ custom_id: 'r0', result: { type: 'succeeded', message: msg('돌아오나요?') } }) + '\n';
+  const bytes = Buffer.from(line, 'utf8');
+  const cut = bytes.indexOf(Buffer.from('아', 'utf8')) + 1; // inside the 3-byte letter
+  const server = createServer((req, res) => {
+    res.writeHead(200, { 'content-type': 'application/x-jsonl' });
+    res.write(bytes.subarray(0, cut));
+    setTimeout(() => res.end(bytes.subarray(cut)), 20);
+  });
+  await new Promise((r) => server.listen(0, r));
+  try {
+    const c = fakeClient();
+    c.apiKey = 'test-key';
+    const url = `http://127.0.0.1:${server.address().port}/results`;
+    c.beta.messages.batches.retrieve = async () => ({ id: 'b1', processing_status: 'ended', request_counts: {}, results_url: url });
+    const got = await runBatch(c, items, quiet);
+    assert.equal(got.get('ko/a-very-long-slug')?.content[0].text, '돌아오나요?');
+  } finally {
+    server.close();
+  }
+});
+
+test('a reply carrying U+FFFD is not used — that job goes direct', async () => {
+  const got = await runBatch(fakeClient({ results: [
+    { custom_id: 'r0', result: { type: 'succeeded', message: msg(`돌${REPLACEMENT_CHAR}${REPLACEMENT_CHAR}오나요?`) } },
+    { custom_id: 'r1', result: { type: 'succeeded', message: msg('戻りますか') } },
+  ] }), items, quiet);
+  assert.deepEqual([...got.keys()], ['ja/a-very-long-slug']);
 });
 
 test('batch results are booked at half price', async () => {

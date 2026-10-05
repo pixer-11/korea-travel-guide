@@ -36,7 +36,7 @@ import { koMangledSyllables } from './lib/ko-syllables.mjs';
 import { scriptLeakFlags } from './lib/translation-leak.mjs';
 import { findToolSpill } from './lib/tool-spill.mjs';
 import { namedIds, translatable } from './lib/translate-scope.mjs';
-import { runBatch } from './lib/claude-batch.mjs';
+import { runBatch, REPLACEMENT_CHAR } from './lib/claude-batch.mjs';
 import { loadRecords, patchFor, patchPrompt, applyEdits, EDIT_TOOL } from './lib/prose-patch.mjs';
 import { unescapeEntities } from './lib/unescape-entities.mjs';
 
@@ -377,6 +377,18 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1, pre = null
       return translateOne(langCode, srcId, data, hash, attempt + 1);
     }
     throw new Error(`tool-call spill in ${spill.join(', ')} after ${attempt} attempts`);
+  }
+  // A broken letter (U+FFFD). The batch reader cut multi-byte letters at network
+  // chunk boundaries for eight days (lib/claude-batch.mjs) and 523 translations
+  // shipped with one; nothing here looked. Whatever produces it next — a patch
+  // applied to an already-broken file, another decoder — it is never written.
+  // The English source is clean, so any U+FFFD in the reply is ours to refuse.
+  if (out && JSON.stringify(out).includes(REPLACEMENT_CHAR) && !JSON.stringify(data).includes(REPLACEMENT_CHAR)) {
+    if (attempt < 3) {
+      console.log(`     ↻ ${langCode}/${srcId} — broken letter (U+FFFD) in the reply, retranslating (attempt ${attempt + 1})`);
+      return translateOne(langCode, srcId, data, hash, attempt + 1);
+    }
+    throw new Error(`broken letter (U+FFFD) in ${langCode} output after ${attempt} attempts — not written`);
   }
   // An EMPTY answer is stochastic, exactly like the malformed and mangled-
   // syllable cases below — and it was the only one of the three that gave up on

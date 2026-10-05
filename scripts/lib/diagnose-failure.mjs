@@ -28,6 +28,18 @@ const SIGNATURES = [
     selfHeals: true,
   },
   {
+    id: 'anthropic-credit-exhausted',
+    // "400 … Your credit balance is too low to access the Anthropic API. Please
+    // go to Plans & Billing to upgrade or purchase credits." — the PREPAID
+    // balance, not the monthly cap above: it never lifts by itself. Seen on
+    // 2026-10-05 (discover-events run 37244072496): three translations failed
+    // and the stock "usually temporary" line would have told the owner to wait.
+    re: /credit balance is too low to access the Anthropic API/,
+    cause: () => 'Anthropic API 선불 크레딧이 바닥났습니다. 월 한도와 달리 저절로 풀리지 않습니다 — ' +
+      '콘솔 Plans & Billing에서 충전(또는 자동 충전 켜기)해야 다음 실행부터 재개됩니다.',
+    selfHeals: false,
+  },
+  {
     id: 'anthropic-overloaded',
     re: /"type":"(?:overloaded_error|rate_limit_error)"|529 .*overloaded/,
     cause: () => 'Anthropic API가 일시적으로 과부하/속도제한 상태였습니다. 다음 실행에서 저절로 회복됩니다.',

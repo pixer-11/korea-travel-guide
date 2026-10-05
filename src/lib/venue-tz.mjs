@@ -41,10 +41,10 @@ export const REGION_TZ = {
   'United States': {
     'New York': ET, Boston: ET, Miami: ET, 'Washington DC': ET, Philadelphia: ET,
     'East Rutherford': ET, Foxborough: ET,
-    Chicago: CT, 'New Orleans': CT, Austin: CT, Nashville: CT,
+    Chicago: CT, 'New Orleans': CT, Austin: CT, Nashville: CT, 'Kansas City': CT,
     'Los Angeles': PT, 'San Francisco': PT, 'Las Vegas': PT, Seattle: PT,
     'San Diego': PT, Portland: PT, Gardena: PT,
-    Honolulu: 'Pacific/Honolulu',
+    Honolulu: 'Pacific/Honolulu', Tempe: 'America/Phoenix', // Arizona keeps no daylight time
     // Arlington (TX or VA?) and Sturgis (SD or MI?) are deliberately absent.
   },
   Indonesia: {
@@ -58,7 +58,7 @@ export const REGION_TZ = {
   // 1시간 어긋난다. 바이런베이는 퀸즐랜드 경계 바로 아래 NSW 라 시드니 시간,
   // 앨리스스프링스는 노던 준주라 다윈 시간(2026-09-28).
   Australia: {
-    Sydney: SYD, Canberra: SYD, 'Byron Bay': SYD, Melbourne: 'Australia/Melbourne',
+    Sydney: SYD, Canberra: SYD, 'Byron Bay': SYD, Bathurst: SYD, Melbourne: 'Australia/Melbourne',
     Brisbane: BNE, 'Gold Coast': BNE, 'Sunshine Coast': BNE, Cairns: BNE,
     Perth: PER, Fremantle: PER, Adelaide: 'Australia/Adelaide', Hobart: 'Australia/Hobart',
     Darwin: DRW, 'Alice Springs': DRW,

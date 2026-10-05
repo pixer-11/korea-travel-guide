@@ -3712,5 +3712,35 @@
     "ja": "クリスマス",
     "es": "Navidad",
     "zh": "圣诞节"
+  },
+  "Hong Kong|The day following Good Friday": {
+    "ko": "성금요일 다음 날",
+    "ja": "聖金曜日の翌日",
+    "es": "Día siguiente al Viernes Santo",
+    "zh": "耶稣受难节翌日"
+  },
+  "Hong Kong|The day following Tomb-Sweeping Day": {
+    "ko": "청명절 다음 날",
+    "ja": "清明節の翌日",
+    "es": "Día siguiente al Festival de Qingming",
+    "zh": "清明节翌日"
+  },
+  "Hong Kong|The day following Easter Monday": {
+    "ko": "부활절 월요일 다음 날",
+    "ja": "イースターマンデーの翌日",
+    "es": "Día siguiente al Lunes de Pascua",
+    "zh": "复活节星期一翌日"
+  },
+  "Hong Kong|The day following the Buddha's Birthday": {
+    "ko": "석가탄신일 다음 날",
+    "ja": "釈迦誕生日の翌日",
+    "es": "Día siguiente al Cumpleaños de Buda",
+    "zh": "佛诞翌日"
+  },
+  "Hong Kong|The day following Double Ninth Festival": {
+    "ko": "중양절 다음 날",
+    "ja": "重陽節の翌日",
+    "es": "Día siguiente al Festival de Chong Yang",
+    "zh": "重阳节翌日"
   }
 }

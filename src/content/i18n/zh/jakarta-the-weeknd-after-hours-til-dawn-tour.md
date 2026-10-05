@@ -4,7 +4,7 @@ slug: jakarta-the-weeknd-after-hours-til-dawn-tour
 srcHash: '710928436cf0'
 title: 威肯（The Weeknd）“After Hours Til Dawn”巡演雅加达站观演须知
 description: 威肯“After Hours Til Dawn”巡演原定于2026年9月26日至27日登陆雅加达国际体育场，这也是该巡演在东南亚的首站。
-quickAnswer: 威肯（The Weeknd）的AFTER HOURS TIL DAWN世界巡演原定于2026年9月26日至27日在雅加达国际体育场（Jakarta International Stadium，简称JIS）连演两晚，这是该巡演在东南亚的第一站。两场演���集中在北雅加达，从外地赶来的乐迷需要在当地住上好几晚。具体入场时间、曲目安排和票档划分都没有对外公布。雅加达站由Live Nation Indonesia与威肯的巡演团队共同操办。
+quickAnswer: 威肯（The Weeknd）的AFTER HOURS TIL DAWN世界巡演原定于2026年9月26日至27日在雅加达国际体育场（Jakarta International Stadium，简称JIS）连演两晚，这是该巡演在东南亚的第一站。两场演出都集中在北雅加达，从外地赶来的乐迷需要在当地住上好几晚。具体入场时间、曲目安排和票档划分都没有对外公布。雅加达站由Live Nation Indonesia与威肯的巡演团队共同操办。
 faq:
   - q: 官方公布的演出日期和场馆是什么？
     a: 原定于2026年9月26日和27日在北雅加达丹戎不碌（Tanjung Priok）的雅加达国际体育场（JIS）举行，这是该巡演在东南亚的首站。
@@ -42,7 +42,7 @@ JIS位于北雅加达的丹戎不碌（Tanjung Priok），是一座专门兴建�
 
 ## 周边住宿与餐饮
 
-丹戎不碌本身是一片仍在运作的港区，酒店和面向游客的餐厅都不多，所以到这里看演出的人一般会住在中雅加达，或是克拉帕加丁（Kelapa Gading）一带。克拉帕加丁以商场和住宅区为主，距体育场约20至30分钟车程，餐厅、酒店和24小时便利店十分密集。想避开体育场周边人潮吃顿演出前���晚饭，这里也是不错的备选。
+丹戎不碌本身是一片仍在运作的港区，酒店和面向游客的餐厅都不多，所以到这里看演出的人一般会住在中雅加达，或是克拉帕加丁（Kelapa Gading）一带。克拉帕加丁以商场和住宅区为主，距体育场约20至30分钟车程，餐厅、酒店和24小时便利店十分密集。想避开体育场周边人潮吃顿演出前的晚饭，这里也是不错的备选。
 
 ## 像本地人一样观演
 

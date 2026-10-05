@@ -20,6 +20,39 @@ import { meterRecord } from './claude-meter.mjs';
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
+import { REPLACEMENT_CHAR } from './replacement-char.mjs';
+export { REPLACEMENT_CHAR };
+
+// The batch results file, decoded as ONE piece of text.
+//
+// The SDK's own iterator (client.beta.messages.batches.results, @anthropic-ai/sdk
+// 0.30.1) decodes every network chunk on its own with Buffer.toString() —
+// internal/decoders/line.js decodeText — so a Hangul, kana, hanzi or accented
+// letter whose bytes straddle a chunk boundary comes out as U+FFFD. From the
+// first batch run (2026-09-27) to 10-05 that wrote 775 broken lines into 523
+// translations, about 100 files a day, and they shipped: 「嘉義旧監��」 in a
+// Japanese <title>, 「돌��오나요?」 in a Korean FAQ and its JSON-LD. Reading the
+// whole body with res.text() decodes it once, so no letter can be cut.
+// A client without a key (the unit tests' fake) still uses the SDK iterator;
+// runBatch drops any message that carries U+FFFD either way.
+async function* batchResults(client, batch) {
+  if (batch.results_url && client.apiKey) {
+    const res = await fetch(batch.results_url, {
+      headers: {
+        'x-api-key': client.apiKey,
+        'anthropic-version': '2023-06-01',
+        'anthropic-beta': 'message-batches-2024-09-24',
+      },
+    });
+    if (!res.ok) throw new Error(`batch results ${res.status}`);
+    for (const line of (await res.text()).split('\n')) {
+      if (line.trim()) yield JSON.parse(line);
+    }
+    return;
+  }
+  yield* await client.beta.messages.batches.results(batch.id);
+}
+
 // How long a cancelled batch gets to finish what it already started. Workflows
 // that budget their time (discover-events.yml) reserve exactly this much.
 export const CANCEL_WAIT_MIN = 30;
@@ -70,15 +103,19 @@ export async function runBatch(client, items, opts = {}) {
         return got;
       }
     }
-    for await (const r of await client.beta.messages.batches.results(batch.id)) {
+    let garbled = 0;
+    for await (const r of batchResults(client, batch)) {
       if (r?.result?.type !== 'succeeded') continue;
       const id = byCid.get(r.custom_id);
       const msg = r.result.message;
       if (!id || !msg) continue;
       meterRecord(msg, new Date(), 0.5);
+      // Paid for, but not used: a reply with a broken letter goes direct like
+      // any request the batch did not return.
+      if (JSON.stringify(msg.content).includes(REPLACEMENT_CHAR)) { garbled++; continue; }
       got.set(id, msg);
     }
-    log(`batch ${batch.id}: ${got.size}/${items.length} succeeded (${JSON.stringify(batch.request_counts)})`);
+    log(`batch ${batch.id}: ${got.size}/${items.length} succeeded (${JSON.stringify(batch.request_counts)})${garbled ? ` — ${garbled} dropped for a broken letter (U+FFFD), going direct` : ''}`);
   } catch (e) {
     log(`batch failed (${String(e?.message || e).slice(0, 160)}) — ${got.size} usable, the rest goes direct`);
     // The caller is about to pay for all of it directly; a batch left running

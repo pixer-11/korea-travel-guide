@@ -54,7 +54,7 @@ La tienda y las mesas comparten el mismo espacio, por lo que conviene tener en c
 - **Trate la cerámica con cuidado.** Si duda ante una pieza frágil, pregunte al personal antes de cogerla y no apoye bolsas sobre las superficies de exposición.
 - **Hable en voz baja.** Muchos clientes vienen buscando tranquilidad, y en dos plantas silenciosas el sonido se propaga con facilidad.
 - **Pida permiso antes de una sesión de fotos larga** en las estanterías de la galería. Hacer una foto rápida del café con el móvil es lo habitual; instalar un trípode entre las vitrinas, no.
-- **Pago:** en las cafeterías de Singapur se suele aceptar tarjeta y PayNow, y no es costumbre dejar propina. Si se aplica un cargo por servicio, figurar�� en la cuenta.
+- **Pago:** en las cafeterías de Singapur se suele aceptar tarjeta y PayNow, y no es costumbre dejar propina. Si se aplica un cargo por servicio, figurará en la cuenta.
 - **Reservas:** consulte primero las redes sociales o la ficha del propio Mozmoji para conocer el horario vigente y las normas para sentarse. Las cafeterías nuevas y muy fotografiadas suelen modificar su horario y esas normas durante los primeros meses.
 
 El barrio chino recibe más visitantes los fines de semana que entre semana. Si busca la tranquilidad que dio fama al local, lo más seguro es ir un día laborable.

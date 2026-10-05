@@ -8,7 +8,7 @@ quickAnswer: Hando Champs-Élysées 是巴黎第八区的一家日本料理餐�
 faq:
   - q: Hando Champs-Élysées 在哪里？离哪个地铁站最近？
     a: 餐厅位于第八区，靠近香榭丽舍大街。地铁1号线从大道下方经过，沿线有乔治五世站（George V）、富兰克林·D·罗斯福站（Franklin D. Roosevelt，另有9号线）和戴高乐-星形广场站（Charles de Gaulle–Étoile，另有2号线、6号线及 RER A 线）。出发前请先核实具体门牌地址，再从三站中选最近的一站。
-  - q: ��要订位吗？
+  - q: 需要订位吗？
     a: 强烈建议订位。这是一家2026年开业的旗舰店，而巴黎市中心的新餐厅往往很早就被订满。请通过餐厅官网或社交账号订位，同时确认营业日。
   - q: 主厨是谁？这家餐厅有什么特别之处？
     a: 厨房由主厨 Chiharu Takada 掌管。室内设计出自 Studio Friedman & Versace，将日本元素与巴黎式的设计感融为一体。Hando 称这里是旗下最新、也最具野心的门店。

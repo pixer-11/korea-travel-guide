@@ -26,7 +26,7 @@ faq:
 
 ## 从鲍集市走进来
 
-这片街区��在本廷克街（Bentinck Street）和吉德伦金大道（Chittaranjan Avenue）之间，紧挨着鲍集市成排的金饰店。坐地铁来最方便：
+这片街区夹在本廷克街（Bentinck Street）和吉德伦金大道（Chittaranjan Avenue）之间，紧挨着鲍集市成排的金饰店。坐地铁来最方便：
 
 - **Central**（蓝线）：步行距离最短，途中要穿过鲍集市街。
 - **Chandni Chowk**（蓝线）：往南穿过电子市场，路稍远一些。

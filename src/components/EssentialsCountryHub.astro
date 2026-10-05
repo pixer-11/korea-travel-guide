@@ -189,6 +189,16 @@ const topCities = [...cityCounts.entries()]
 const countryItineraries = (await getCollection('itineraries', ({ data }) => !data.draft))
   .filter((it) => it.data.country === d.country)
   .slice(0, 4);
+// The itinerary's title in the reader's language — the same lookup the
+// destination and region hubs use. This hub printed the English title on all
+// four localized versions (found 2026-10-05) while the page it links to was
+// translated.
+const itinTranslations =
+  lang === 'en'
+    ? new Map<string, any>()
+    : new Map((await getCollection('itinerariesI18n', ({ data }) => data.lang === lang))
+        .map((e) => [e.data.slug, e.data]));
+const itinTitle = (it: any) => itinTranslations.get(it.id)?.title ?? it.data.title;
 
 // ── Hero photo: the country's best wide hero, with its credit (CC licences
 // require it) and the focus point the vision check recorded. ──
@@ -563,7 +573,7 @@ const cityTone = ['tone-green', 'tone-brown', 'tone-sand'];
             )}
             {countryItineraries.length > 0 && (
               <ul class="ess-links">
-                {countryItineraries.map((it: any) => <li><a href={localizePath(`/itinerary/${it.id}`, lang)}>{it.data.title}</a></li>)}
+                {countryItineraries.map((it: any) => <li><a href={localizePath(`/itinerary/${it.id}`, lang)}>{itinTitle(it)}</a></li>)}
               </ul>
             )}
           </section>

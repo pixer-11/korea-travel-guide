@@ -26,7 +26,7 @@ faq:
 
 ## 交通
 
-雅加达有两座主要机场。苏加诺-哈��国际机场（Soekarno-Hatta International Airport，CGK）位于唐格朗（Tangerang），距市中心约20–35公里，实际远近视路况而定；规模较小的哈利姆·珀达纳库苏玛机场（Halim Perdanakusuma Airport，HLP）则离雅加达南部和东部更近。雅加达交通拥堵严重，高峰时段打车进城可能要熬上两个小时，因此从CGK出发，搭乘Damri机场大巴或Railink机场快线（开往BNI City / Sudirman Baru站）进城，时间最有保障。
+雅加达有两座主要机场。苏加诺-哈达国际机场（Soekarno-Hatta International Airport，CGK）位于唐格朗（Tangerang），距市中心约20–35公里，实际远近视路况而定；规模较小的哈利姆·珀达纳库苏玛机场（Halim Perdanakusuma Airport，HLP）则离雅加达南部和东部更近。雅加达交通拥堵严重，高峰时段打车进城可能要熬上两个小时，因此从CGK出发，搭乘Damri机场大巴或Railink机场快线（开往BNI City / Sudirman Baru站）进城，时间最有保障。
 
 进城之后，想不依赖汽车前往大多数活动场地，最方便的是雅加达地铁（MRT Jakarta，南北线）和TransJakarta快速公交网络。往届Pestapora都在大型户外场地举办，可同时容纳数万名观众在多个舞台间流动；入场排队、安检包袋以及在舞台之间步行，都会占去不少时间。
 

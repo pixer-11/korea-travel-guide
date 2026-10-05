@@ -32,7 +32,7 @@ Pese a su nombre, la estatua de lo alto no es Diana. Aun así, la denominación 
 
 ## Lo que la cúpula hace con el sonido
 
-Colóquese en el centro del pabellón y diga algo en voz normal: la cúpula le devolverá la voz directamente desde arriba. Los músicos callejeros llevan años aprovechando este efecto. Muchos días, bajo los arcos, toca un violinista o un violonchelista, o canta algún intérprete, porque aquí un solo instrumento llena el espacio como lo haría en otro lugar un peque��o conjunto.
+Colóquese en el centro del pabellón y diga algo en voz normal: la cúpula le devolverá la voz directamente desde arriba. Los músicos callejeros llevan años aprovechando este efecto. Muchos días, bajo los arcos, toca un violinista o un violonchelista, o canta algún intérprete, porque aquí un solo instrumento llena el espacio como lo haría en otro lugar un pequeño conjunto.
 
 Por lo general, la música se oye ya desde los senderos, antes de llegar al pabellón. Si alguien está tocando, es preferible sentarse en los escalones o en algún banco cercano en lugar de quedarse de pie bajo los arcos: son estrechos y por ellos pasa gente continuamente.
 

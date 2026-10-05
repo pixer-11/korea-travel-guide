@@ -177,3 +177,26 @@ test('열두 달 강수가 똑같으면 비는 점수에 0을 보탠다 (옛 공
   const mc = monthComfort(flat);
   assert.ok(mc.every((x) => Math.abs(x.score - 0.225) < 1e-9 && x.band === 'good'), mc.map((x) => x.score).join(','));
 });
+
+// 2026-10-05: 2월 한국 페이지가 이미 지난 2026 설날(2/16~18)과 2027 대체휴일(2/9)을
+// 연도 표시 없이 나란히 보여줬다(연휴 있는 190페이지 중 143페이지가 지난 날짜 포함).
+// 이제 오늘부터 1년 안의 다음 회차만 — 한 페이지에는 한 해만 나온다.
+test('연휴는 다음 회차만: 지난 해와 다음 해가 섞이지 않는다', async () => {
+  const { whenToGo } = await import('./when-to-go.mjs');
+  const climate = Array.from({ length: 12 }, (_, i) => ({ m: i + 1, hi: 10, lo: 0, rain: 50 }));
+  const holidays = [
+    { date: '2026-02-16', name: 'Seollal Eve' }, { date: '2026-02-17', name: 'Seollal' }, { date: '2026-02-18', name: 'Day after Seollal' },
+    { date: '2027-02-06', name: 'Seollal Eve' }, { date: '2027-02-07', name: 'Seollal' }, { date: '2027-02-08', name: 'Day after Seollal' },
+    { date: '2027-02-09', name: 'Alternative holiday for Seollal' },
+  ];
+  const countryFacts = { countries: { Testland: { climate, holidays } } };
+  const dates = (now) => whenToGo('Testland', 2, { countryFacts, now: Date.parse(now) }).holidays.map((h) => h.date);
+  assert.deepEqual(dates('2026-10-05T12:00:00Z'), ['2027-02-06', '2027-02-07', '2027-02-08', '2027-02-09']);
+  assert.deepEqual(dates('2026-01-10T12:00:00Z'), ['2026-02-16', '2026-02-17', '2026-02-18']);
+  // 그 달 안에서 빌드하면 그 달의 남은 날만 — 내년 날짜가 끼어들지 않는다.
+  assert.deepEqual(dates('2026-02-17T12:00:00Z'), ['2026-02-17', '2026-02-18']);
+  // 이번 달인데 남은 연휴가 없으면 내년 그 달(2/20 빌드 → 2027 설날).
+  assert.deepEqual(dates('2026-02-20T12:00:00Z'), ['2027-02-06', '2027-02-07', '2027-02-08', '2027-02-09']);
+  // 그 달이 지났으면 내년 그 달.
+  assert.deepEqual(dates('2026-03-01T12:00:00Z'), ['2027-02-06', '2027-02-07', '2027-02-08', '2027-02-09']);
+});

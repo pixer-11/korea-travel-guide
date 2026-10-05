@@ -6,7 +6,7 @@ import Flag from './Flag.astro';
 import { hotelUrl } from '../lib/hotel-link.mjs';
 import Emoji from './Emoji.astro';
 import Newsletter from './Newsletter.astro';
-import { isEventPast, eventSortValue } from '../lib/eventStatus';
+import { isEventPast, eventSortValue, buildToday } from '../lib/eventStatus';
 import { slugifyRegion } from '../lib/slug';
 import { useTranslations, localizePath, klookLocale, localeCodes, type Lang } from '../i18n/utils';
 import { eligibleCountries, monthComfort } from '../lib/when-to-go.mjs';
@@ -157,7 +157,17 @@ const hotelCountry = hotelUrl({ submarker: 'dest_hub', locale: klookLocale(lang)
 // here, none typed in.
 type Cell = { key: string; icon: string; label: string; value: string; sub: string; href: string; mv?: { key: string; label: string; value: string }[] };
 const comfortYear = hasWtg ? (monthComfort(facts?.climate) ?? []) : [];
-const nextEvent = upcomingEvents.find((p) => p.data.eventStartDate) ?? null;
+// "Next" is the next event to START, from the whole country list — not the
+// first not-yet-ended one. upcomingEvents sorts running events first (their
+// sort key is their start), so Turkey's hub said "Next: Yoko Ono · Jun 25" in
+// October for an exhibition open since June, and seven other hubs did the same
+// (2026-10-05). That list is also cut to six, which could hide the real next
+// one behind six long runs. The build day decides, like the rest of the hub.
+const buildDayIso = buildToday().toISOString().slice(0, 10);
+const startIso = (p: any) => new Date(p.data.eventStartDate).toISOString().slice(0, 10);
+const nextEvent = posts
+  .filter((p) => p.data.category === 'event' && p.data.eventStartDate && startIso(p) >= buildDayIso)
+  .sort((a, b) => new Date(a.data.eventStartDate).getTime() - new Date(b.data.eventStartDate).getTime())[0] ?? null;
 const esimCarriers = carrierLine(esimCountries().find((c: any) => c.slug === country.slug)?.facts?.carriers).split(' · ').filter(Boolean).slice(0, 3).join(' · ');
 const entryTags = h('cellEntryValue').split(/\s*[·・]\s*/).filter(Boolean);
 const cells: Cell[] = [];

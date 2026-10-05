@@ -17,10 +17,22 @@ import sys
 import holidays
 
 
+# The package's default category is "public", which for Hong Kong is the
+# statutory list. The GENERAL holidays (what banks, government offices and
+# schools close for, and what a traveller means) are "optional" there, and only
+# that list has Good Friday and the day after: the switch from Nager.Date on
+# 2026-09-24 dropped both (found 2026-10-05). "optional" ALONE, not with
+# "public": the union names shared days twice (Easter Monday + the day after
+# Tomb-Sweeping Day on 2026-04-06).
+CATEGORIES = {"HK": ("optional",)}
+
+
 def names(iso2, years, language):
     kw = {"years": years}
     if language:
         kw["language"] = language
+    if iso2 in CATEGORIES:
+        kw["categories"] = CATEGORIES[iso2]
     return holidays.country_holidays(iso2, **kw)
 
 

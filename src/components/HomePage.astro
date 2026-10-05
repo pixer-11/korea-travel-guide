@@ -13,7 +13,7 @@ import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/u
 import { homeT } from '../i18n/home-strings';
 import { eventSchemaName } from '../lib/eventName';
 import { editorHasTraveled, EDITOR_VISITED } from '../lib/editorVisited';
-import { localizePlace, localizeVenue } from '../i18n/places';
+import { localizePlace, localizeVenueOrTitle } from '../i18n/places';
 import { loadCardTranslations, cardHelpers } from '../i18n/cards';
 import { pickRepHeroUrl, tileSize } from '../lib/repImage';
 import { wallFor } from '../lib/wall';
@@ -135,7 +135,7 @@ const wallPool = posts.filter(
 const wallTiles = roundRobinByCountry(shuffle(wallPool), 14).map((p) => ({
   img: wallFor(p.data.heroImage!.url),
   href: card.href(p.id, true),
-  name: localizeVenue(p.data.place?.name ?? '', lang) || card.title(p.id, p.data.title),
+  name: localizeVenueOrTitle(p.data.place?.name, card.title(p.id, p.data.title), lang),
   where: `${localizePlace(p.data.region, lang)} · ${localizePlace(countryOf(p), lang)}`,
 }));
 const wallRow1 = wallTiles.slice(0, 7);
@@ -586,7 +586,7 @@ const editorCountries = EDITOR_VISITED.filter((v) => !v.region).length;
               {crowdDemo && (
                 <div class="crowd-panel" data-crowd-tz={demoTz && !demoTz.multi ? demoTz.tz : ''} data-crowd-city={demoTz && !demoTz.multi ? localizePlace(demoTz.city, lang) : ''} data-now-tpl={H('nowIn')}>
                   <div class="crowd-panel-head">
-                    <b>{localizeVenue(crowdDemo.data.place?.name ?? '', lang) || crowdDemo.data.place?.name}</b>
+                    <b>{localizeVenueOrTitle(crowdDemo.data.place?.name, card.title(crowdDemo.id, crowdDemo.data.title), lang)}</b>
                     <span>{t('home.crowd.panelMeta')}</span>
                   </div>
                   {demoGroups.map((g, gi) => (

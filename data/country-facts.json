@@ -4331,19 +4331,24 @@
           "localName": "農曆年初三"
         },
         {
-          "date": "2026-04-05",
-          "name": "Tomb-Sweeping Day",
-          "localName": "清明節"
+          "date": "2026-04-03",
+          "name": "Good Friday",
+          "localName": "耶穌受難節"
+        },
+        {
+          "date": "2026-04-04",
+          "name": "The day following Good Friday",
+          "localName": "耶穌受難節翌日"
         },
         {
           "date": "2026-04-06",
-          "name": "Easter Monday",
-          "localName": "復活節星期一"
+          "name": "The day following Tomb-Sweeping Day",
+          "localName": "清明節翌日"
         },
         {
           "date": "2026-04-07",
-          "name": "Tomb-Sweeping Day (observed)",
-          "localName": "清明節（補假）"
+          "name": "The day following Easter Monday",
+          "localName": "復活節星期一翌日"
         },
         {
           "date": "2026-05-01",
@@ -4351,14 +4356,9 @@
           "localName": "勞動節"
         },
         {
-          "date": "2026-05-24",
-          "name": "The Buddha's Birthday",
-          "localName": "佛誕"
-        },
-        {
           "date": "2026-05-25",
-          "name": "The Buddha's Birthday (observed)",
-          "localName": "佛誕（補假）"
+          "name": "The day following the Buddha's Birthday",
+          "localName": "佛誕翌日"
         },
         {
           "date": "2026-06-19",
@@ -4381,14 +4381,9 @@
           "localName": "國慶日"
         },
         {
-          "date": "2026-10-18",
-          "name": "Double Ninth Festival",
-          "localName": "重陽節"
-        },
-        {
           "date": "2026-10-19",
-          "name": "Double Ninth Festival (observed)",
-          "localName": "重陽節（補假）"
+          "name": "The day following Double Ninth Festival",
+          "localName": "重陽節翌日"
         },
         {
           "date": "2026-12-25",
@@ -4419,6 +4414,16 @@
           "date": "2027-02-09",
           "name": "The fourth day of Chinese New Year",
           "localName": "農曆年初四"
+        },
+        {
+          "date": "2027-03-26",
+          "name": "Good Friday",
+          "localName": "耶穌受難節"
+        },
+        {
+          "date": "2027-03-27",
+          "name": "The day following Good Friday",
+          "localName": "耶穌受難節翌日"
         },
         {
           "date": "2027-03-29",
@@ -4471,14 +4476,9 @@
           "localName": "聖誕節"
         },
         {
-          "date": "2027-12-26",
+          "date": "2027-12-27",
           "name": "The first weekday after Christmas Day",
           "localName": "聖誕節後第一個周日"
-        },
-        {
-          "date": "2027-12-27",
-          "name": "The first weekday after Christmas Day (observed)",
-          "localName": "聖誕節後第一個周日（補假）"
         }
       ]
     },

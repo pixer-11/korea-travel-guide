@@ -35,7 +35,7 @@ Cómo llegar:
 
 ## Diciembre en Gurugram
 
-A principios de diciembre, las noches en Delhi NCR son frescas y secas. También suelen estar cubiertas de bruma, ya que en esta época del año la calidad del aire en toda la región es normalmente mala. Le resultar�� útil llevar:
+A principios de diciembre, las noches en Delhi NCR son frescas y secas. También suelen estar cubiertas de bruma, ya que en esta época del año la calidad del aire en toda la región es normalmente mala. Le resultará útil llevar:
 
 - Una chaqueta ligera o una sudadera para cuando caiga la noche
 - Una mascarilla N95 reutilizable para la llegada y la salida a pie

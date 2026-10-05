@@ -109,3 +109,17 @@ test('적발 0건이면 이 서명에 걸리지 않는다 — 다른 이유로 �
   const d = diagnose('PII_AUDIT_FAIL count=0\nsomething else exploded');
   assert.notEqual(d.id, 'pii-in-repo');
 });
+
+// discover-events, run 37244072496, 2026-10-05 — the prepaid balance, not the cap.
+const CREDIT_OUT = `2026-10-05T00:58:33.9120000Z   ⚠️  zh/jakarta-babymonster-jakarta-concert — 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."}}
+2026-10-05T00:58:34.2000000Z ##[error]Process completed with exit code 1.`;
+
+test('the 10-05 empty credit balance is named and NOT marked self-healing', () => {
+  const d = diagnose(CREDIT_OUT);
+  assert.equal(d.id, 'anthropic-credit-exhausted');
+  assert.match(d.cause, /선불 크레딧/);
+  assert.match(d.cause, /충전/);
+  assert.equal(d.selfHeals, false);
+  // and the monthly cap is still told apart from it
+  assert.equal(diagnose(SPEND_CAP).id, 'anthropic-usage-limit');
+});

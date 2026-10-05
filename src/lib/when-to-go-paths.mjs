@@ -8,6 +8,7 @@ import countryFacts from '../../data/country-facts.json';
 import eventsData from '../../data/events.json';
 import countriesData from '../../data/countries.json';
 import { MONTHS, monthSlug, eligibleCountries, whenToGo } from './when-to-go.mjs';
+import { buildToday } from './buildDay.mjs';
 
 /** [{ countrySlug, month, data }] for every country with a full climate record. */
 export async function whenToGoPages() {
@@ -28,7 +29,9 @@ export async function whenToGoPages() {
     const countrySlug = slugOf.get(country);
     if (!countrySlug) continue; // not a destination we publish — no page
     for (const month of MONTHS) {
-      const data = whenToGo(country, month, { countryFacts, events: eventsData, posts });
+      // One build day everywhere (lib/buildDay): the holiday window and the
+      // event grace period move with the build, not with the build's wall clock.
+      const data = whenToGo(country, month, { countryFacts, events: eventsData, posts, now: buildToday().getTime() });
       if (!data) continue;
       // Lean DTOs: the full post objects would ship the whole frontmatter into
       // every month page's props five times over.

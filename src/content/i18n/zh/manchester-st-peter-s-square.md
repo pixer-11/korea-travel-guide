@@ -4,7 +4,7 @@ slug: manchester-st-peter-s-square
 srcHash: '68fd2b70189b'
 title: 曼彻斯特圣彼得广场旅行指南（4.6★）
 description: 圣彼得广场（St. Peter's Square）是曼彻斯特市中心最重要的市民广场。圆顶的中央图书馆、市政厅扩建楼和阵亡将士纪念碑环绕四周，全市最繁忙的Metrolink轻轨站就设在广场中央。评分4.6★（2,852条评价），本文汇总游客评价、开放时间和实用贴士。
-quickAnswer: 圣彼得广场（St. Peter's Square）是曼彻斯特市中心最重要的市民广场。圆顶的中央图书馆、市政厅扩建楼和阵亡将士纪念碑环绕四周，全市最繁忙的Metrolink轻轨站就设在广场中央。广场全年无休，全天开放。只看广场和几处纪念碑，留出30分钟就够了；如果还想进��书馆参观，建议预留90分钟。
+quickAnswer: 圣彼得广场（St. Peter's Square）是曼彻斯特市中心最重要的市民广场。圆顶的中央图书馆、市政厅扩建楼和阵亡将士纪念碑环绕四周，全市最繁忙的Metrolink轻轨站就设在广场中央。广场全年无休，全天开放。只看广场和几处纪念碑，留出30分钟就够了；如果还想进图书馆参观，建议预留90分钟。
 faq:
   - q: 乘坐公共交通怎么去圣彼得广场？
     a: 乘坐Metrolink轻轨到圣彼得广场站（St Peter's Square）即可。车站就在广场内，大部分线路都在此停靠。从牛津路火车站（Oxford Road）步行约10分钟，从曼彻斯特皮卡迪利站（Manchester Piccadilly）步行约15分钟。
@@ -38,7 +38,7 @@ faq:
 
 圣彼得广场的Metrolink轻轨站就设在广场正中。轻轨网络的大部分线路都经过这里，从皮卡迪利（Piccadilly）、维多利亚（Victoria）、迪恩斯盖特-卡斯尔菲尔德（Deansgate-Castlefield）和媒体城（MediaCityUK）方向开来的列车都会在此停靠。也可以选择步行：从牛津路站（Oxford Road）过来约10分钟，从皮卡迪利站过来约15分钟。
 
-米德兰酒店（Midland Hotel）位于彼得街（Peter Street），过个路口就���；阿尔伯特广场（Albert Square）在市政厅扩建楼后面；往西走一小段便是迪恩斯盖特（Deansgate）。
+米德兰酒店（Midland Hotel）位于彼得街（Peter Street），过个路口就到；阿尔伯特广场（Albert Square）在市政厅扩建楼后面；往西走一小段便是迪恩斯盖特（Deansgate）。
 
 ## 文明游览小贴士
 

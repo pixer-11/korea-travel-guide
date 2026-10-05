@@ -53,8 +53,11 @@ const rainLine = data.wettest
   ? t('wtg.driest')
   : fill('wtg.rainRank', { rank: ordinal(data.rainRank), share: data.rainShare });
 
+// With the year: the list is each holiday's NEXT date (lib/when-to-go), so a
+// page built mid-month can hold this year's remaining days and next year's
+// earlier ones — without the year, a reader cannot tell which is which.
 const holidayDate = (iso: string) =>
-  new Intl.DateTimeFormat(localeCodes[lang], { month: 'long', day: 'numeric', timeZone: 'UTC' })
+  new Intl.DateTimeFormat(localeCodes[lang], { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' })
     .format(new Date(iso + 'T00:00:00Z'));
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';

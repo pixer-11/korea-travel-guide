@@ -20,7 +20,7 @@ faq:
 
 ## 德里首都圈的第一夜
 
-这是 Fred again.. 首次登上印度的舞台。这位英国制作人兼 DJ 之所以圈粉无数，靠的是 *Actual Life* 系列专辑、在伦敦录制并收获数百万播放量的 Boiler Room 演出，以及与 Skrillex 和 Four Tet 的联合演出。2026年12月5日，巡演将在古尔冈（Gurugram）开幕，之后还会前往孟买和班加罗尔��
+这是 Fred again.. 首次登上印度的舞台。这位英国制作人兼 DJ 之所以圈粉无数，靠的是 *Actual Life* 系列专辑、在伦敦录制并收获数百万播放量的 Boiler Room 演出，以及与 Skrillex 和 Four Tet 的联合演出。2026年12月5日，巡演将在古尔冈（Gurugram）开幕，之后还会前往孟买和班加罗尔。
 
 他的现场由语音备忘录、随手捕捉的音频片段和全场大合唱式的高潮段落拼接而成。《Delilah (pull me out of this)》《Marea (we've lost dancing)》和《Rumble》这几首，现场观众多半都能跟着唱。我们掌握的信息里尚未列出暖场嘉宾和演出时间表，具体流程请留意官网公布。
 

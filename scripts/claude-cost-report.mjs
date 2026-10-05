@@ -28,6 +28,30 @@ export function readLedger(path = LEDGER) {
   return rows;
 }
 
+// The account's monthly spend limit (Anthropic console), shared with the crypto
+// pipeline and hand-run scripts, which this ledger does not see.
+export const MONTHLY_CAP = Number(process.env.CLAUDE_MONTHLY_CAP || 800);
+
+/**
+ * Month-to-date spend and a straight-line forecast against the monthly limit.
+ * Every other cost line looks one day back; the limit is monthly and hits as a
+ * silent 400 on every workflow at once (08-31). On 2026-10-05 the first five
+ * days of October were $134 on this ledger alone — on pace for ~$830 against
+ * $800 — and nothing said so. The limit resets 00:00 UTC on the 1st, so the
+ * month is the UTC month of each row's timestamp, not the KST day.
+ */
+export function monthLine(rows, now = new Date(), cap = MONTHLY_CAP) {
+  const ym = now.toISOString().slice(0, 7);
+  const sum = sumRows(rows.filter((r) => String(r.ts || '').slice(0, 7) === ym));
+  if (!sum.calls) return '';
+  const start = Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), 1);
+  const days = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth() + 1, 0)).getUTCDate();
+  const elapsed = Math.max(1, (now.getTime() - start) / 86400e3);
+  const forecast = (sum.usd / elapsed) * days;
+  const warn = forecast > cap * 0.85 ? ' ⚠️ 한도 근접 — 콘솔 상한을 올리거나 작업을 줄일 때' : '';
+  return `📆 이번 달 누적 $${sum.usd.toFixed(0)} / 한도 $${cap} · 월말 예상 $${forecast.toFixed(0)} (자동 작업 장부 기준, 크립토·수동 실행 제외)${warn}`;
+}
+
 export function report(rows, { run, attempt, day } = {}) {
   const lines = [];
   if (run) {
@@ -44,6 +68,8 @@ export function report(rows, { run, attempt, day } = {}) {
     const y = kstDay(new Date(Date.now() - 86400e3));
     const all = sumRows(rows.filter((r) => r.day === y));
     if (all.calls) lines.push(costLine(all, `📅 어제(${y.slice(5)}) 자동 작업 전체 Claude 비용`));
+    const m = monthLine(rows);
+    if (m) lines.push(m);
   } else {
     const d = day || kstDay();
     const l = costLine(sumRows(rows.filter((r) => r.day === d)), `💸 ${d.slice(5)} Claude 비용`);

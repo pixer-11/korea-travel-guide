@@ -63,7 +63,7 @@ Los horarios de apertura y de las exhibiciones varían según la temporada. En l
 
 ## Entradas, charlas y cómo recorrer el edificio
 
-Con un poco de planificaci��n, la visita resulta mucho más cómoda.
+Con un poco de planificación, la visita resulta mucho más cómoda.
 
 - **Compre por internet.** SEA LIFE vende las entradas en su web oficial, donde figura el precio vigente. Comprarlas con antelación le ahorra hacer cola en taquilla con niños impacientes.
 - **Fotografíe el programa.** Nada más entrar, haga una foto al panel con los horarios de charlas y exhibiciones, y organice después en torno a ellos la visita al túnel y a las salas más pequeñas.

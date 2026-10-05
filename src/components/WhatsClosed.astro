@@ -19,8 +19,7 @@ import { getCollection } from 'astro:content';
 import { heroOf, TOOL_OG } from '../lib/toolOgPhoto.mjs';
 import { useTranslations, localizePath, localeCodes, type Lang } from '../i18n/utils';
 import { localizeHoliday } from '../i18n/holidays';
-import { localizePlace, localizeVenue } from '../i18n/places';
-import { shortPlaceLabel } from '../lib/placeLabel.mjs';
+import { localizePlace, localizeVenueOrTitle } from '../i18n/places';
 import { closuresInRange, holidaysInRange, closedWeekdaysOf } from '../lib/whats-closed.mjs';
 import { renderResults, spanOf, MAX_GRID_DAYS } from '../lib/whats-closed-view.mjs';
 import countryFacts from '../../data/country-facts.json';
@@ -62,13 +61,14 @@ const saysSomething = (c: string) =>
   closuresInRange(posts, { country: c, fromISO: today, toISO: in14 }).length > 0;
 const initial = countries.find(saysSomething) ?? countries[0] ?? '';
 
-const venueLabel = (p: any) => {
-  const fallback = p.data.place?.name ?? String(p.data.title).split(':')[0].trim();
-  const dict = localizeVenue(fallback, lang);
-  if (dict !== fallback) return dict;                     // the dictionary knew it
-  const translated = i18nTitles.get(p.id.replace(/\.md$/, ''));
-  return translated ? shortPlaceLabel(translated, lang) || fallback : fallback;
-};
+// Dictionary, then the translated title, then English — the shared rule in
+// i18n/places.ts (moved there on 2026-10-05 when the home rebuilt this trap).
+const venueLabel = (p: any) =>
+  localizeVenueOrTitle(
+    p.data.place?.name ?? String(p.data.title).split(':')[0].trim(),
+    i18nTitles.get(p.id.replace(/\.md$/, '')),
+    lang,
+  );
 
 const DAY_INDEX: Record<string, number> = {
   Sunday: 0, Monday: 1, Tuesday: 2, Wednesday: 3, Thursday: 4, Friday: 5, Saturday: 6,
