@@ -153,6 +153,26 @@ flags('ended event whose date arrived as a Date object', 'ENDED-EVENT-FUTURE-TEN
 });
 flags('event with no start date', 'EVENT missing', { category: 'event', eventStart: '', eventEnd: '' });
 
+// 보고만 하는 실행(이벤트 발굴)은 어제 끝난 행사를 건너뛴다 — 수리는 그날
+// 07:19 UTC 발행이 하고, 못 고친 것은 발행이 경보한다(2026-10-05, 13줄 헛경보).
+// 수리 목록·관문은 유예 없이 끝나는 즉시 봐야 하므로 기본값은 0.
+const endedYesterday = { category: 'event', eventStart: '2026-08-01', eventEnd: '2026-08-03', body: 'Confirm timing and tickets on the official site before you go.' };
+cases.push(['유예 1일: 어제 끝난 행사는 보고하지 않는다', () => {
+  const out = run(endedYesterday, { endedGraceDays: 1 });
+  return has(out, 'ENDED-EVENT') ? `유예가 안 먹었다: ${out.join(' | ')}` : null;
+}]);
+cases.push(['유예 1일: 그저께 끝난 행사는 여전히 보고한다', () => {
+  const out = run({ ...endedYesterday, eventEnd: '2026-08-02' }, { endedGraceDays: 1 });
+  return has(out, 'ENDED-EVENT-ADVICE') ? null : `수리 뒤에도 남은 것을 놓쳤다: ${out.join(' | ') || '(clean)'}`;
+}]);
+flags('유예 없음(기본): 어제 끝난 행사를 바로 잡는다', 'ENDED-EVENT-ADVICE', endedYesterday);
+// 걸린 문구에 문단 바꿈이 들어가면 경보가 두 줄로 쪼개져 "대상 미상" 이 됐다.
+cases.push(['걸린 문구의 줄바꿈은 한 줄로 접는다', () => {
+  const out = run({ ...endedYesterday, body: 'The ring sits in the park.\n\nConfirm the day-by-day schedule on the official site.' });
+  const hit = out.find((i) => i.startsWith('ENDED-EVENT-ADVICE'));
+  return hit && !/\n/.test(hit) ? null : `줄바꿈이 남았다: ${JSON.stringify(out)}`;
+}]);
+
 // ── 낡은 가격 주장 ───────────────────────────────────────────
 clean('a fresh price claim is fine', { pubDate: '2026-06-01', body: 'A plate runs about 80 baht.' });
 flags('a price claim older than a year', 'STALE-PRICE-CLAIM', { pubDate: '2025-01-01', body: 'A plate runs about 80 baht.' });

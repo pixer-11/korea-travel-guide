@@ -160,11 +160,17 @@ jobs:
       - name: Validate content integrity
         id: validate
         continue-on-error: true
+        # This run reports and repairs nothing. An event that ended yesterday
+        # (UTC) is publish.yml's to repair at 07:19 UTC, after which that job
+        # alerts on whatever is left — see ENDED_GRACE_DAYS in validate-content.
+        env:
+          ENDED_GRACE_DAYS: 1
         run: node scripts/validate-content.mjs
 
       - name: Warn on content issues
         if: steps.validate.outcome == 'failure'
         env:
+          ENDED_GRACE_DAYS: 1
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |

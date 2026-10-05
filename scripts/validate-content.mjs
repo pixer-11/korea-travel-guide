@@ -227,7 +227,7 @@ export const EDITOR_NOTE = /\[(?:this |the )?(?:sentence|paragraph|line|text|cla
 
 const PROMPT_LEAK = /^(?:Below is|Here is|Here's) the (?:markdown |full |complete )?(?:body|article|guide|text)\b|^(?:Sure|Certainly)[,!]\s|^As an AI\b/i;
 
-export function postProblems(p, { today = new Date().toISOString().slice(0, 10), verdicts = {} } = {}) {
+export function postProblems(p, { today = new Date().toISOString().slice(0, 10), verdicts = {}, endedGraceDays = 0 } = {}) {
   const issues = [];
 
   if (p.body && PROMPT_LEAK.test(p.body.trimStart())) {
@@ -430,7 +430,15 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10),
   // Still deliberately narrow: it must promise a FUTURE act OF THE EVENT. A
   // timeless descriptive future ("street circuits mean the cars will run through
   // the city") is not flagged.
-  if (p.category === 'event' && p.eventEnd && isoDay(p.eventEnd) < today) {
+  // endedGraceDays (ENDED_GRACE_DAYS) is for a run that only REPORTS. The
+  // repair for this class runs in publish.yml at 07:19 UTC, which re-validates
+  // and alerts on whatever it could not fix. discover-events validates at
+  // ~01:00 UTC, after the UTC day turns but before that repair — so on every
+  // run it alerted on each event that had ended the day before (13 lines for
+  // ten guides on 2026-10-05, all ended 10-04 and all due a repair six hours
+  // later). The repair lists (alt-photos, publish) and the publish gate never
+  // set it; they must see an event the moment it ends.
+  if (p.category === 'event' && p.eventEnd && isoDay(p.eventEnd) < today && daysBetween(isoDay(p.eventEnd), today) > endedGraceDays) {
     // Every reader-visible prose surface, not just the body.
     const surfaces = [
       ['prose', p.body],
@@ -453,7 +461,10 @@ export function postProblems(p, { today = new Date().toISOString().slice(0, 10),
       for (const [where, text] of surfaces) {
         const m = String(text || '').match(pattern);
         if (m) {
-          issues.push(`ENDED-EVENT-${label}: ${p.f} — ended ${isoDay(p.eventEnd)} but the ${where} still says "${m[0]}"`);
+          // Folded: ADVICE_IMPERATIVE's leading \s* can take a paragraph break,
+          // and a newline inside the quote split the line in two — ko-report
+          // read the tail as a second issue with no file ("대상 미상", 10-05).
+          issues.push(`ENDED-EVENT-${label}: ${p.f} — ended ${isoDay(p.eventEnd)} but the ${where} still says "${m[0].replace(/\s+/g, ' ').trim()}"`);
           break;
         }
       }
@@ -704,7 +715,8 @@ async function main() {
     );
   } catch { /* no audit file yet — every suspicion is reported, which is the safe default */ }
 
-  for (const p of posts) issues.push(...postProblems(p, { verdicts }));
+  const endedGraceDays = Number(process.env.ENDED_GRACE_DAYS) || 0;
+  for (const p of posts) issues.push(...postProblems(p, { verdicts, endedGraceDays }));
   issues.push(...stubBodyProblems(posts));
 
   // Translations: one rule only (see translationDisclosureProblems above).
