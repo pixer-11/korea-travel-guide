@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: manchester-people-s-history-museum
-srcHash: '3d1e5de76377'
+srcHash: '9f8693768e06'
 title: 'People''s History Museum: guía de viaje de Mánchester (4.5★)'
-description: El People's History Museum se encuentra en Left Bank, en el barrio de Spinningfields de Mánchester, a orillas del río Irwell. Con 4.5★ (3,832 reseñas), le contamos qué opinan los visitantes, los horarios y algunos consejos.
+description: El People's History Museum se encuentra en Left Bank, en el barrio de Spinningfields de Mánchester, a orillas del río Irwell. Con 4.5★ (3,835 reseñas), le contamos qué opinan los visitantes, los horarios y algunos consejos.
 quickAnswer: El People's History Museum se encuentra en Left Bank, en el barrio de Spinningfields de Mánchester, a orillas del río Irwell. Es el museo nacional de la democracia del Reino Unido y ocupa una antigua estación de bombeo eduardiana. Abre todos los días, salvo los martes, de 10am a 5pm. La visita lleva unas dos horas. Los fines de semana conviene llegar a primera hora, ya que la franja de mayor afluencia va de 1pm a 4pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el People's History Museum?

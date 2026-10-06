@@ -1,52 +1,82 @@
 ---
-title: "Two Temple Place: London Travel Guide (4.6★)"
-description: "Two Temple Place is a neo-Gothic Victorian mansion on the Victoria Embankment in Temple, London, a short walk from Temple Underground station. 4.6★ (1,215 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "London"
-category: "attraction"
-pubDate: "2026-10-03T07:41:06.315Z"
+title: 'Two Temple Place: London Travel Guide (4.6★)'
+description: >-
+  Two Temple Place is a neo-Gothic Victorian mansion on the Victoria Embankment
+  in Temple, London, a short walk from Temple Underground station. 4.6★ (1,216
+  reviews) — what visitors say, hours, and tips.
+country: United Kingdom
+region: London
+category: attraction
+pubDate: '2026-10-03T07:41:06.315Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Two_Temple_Place_London_%282%29.jpg/3840px-Two_Temple_Place_London_%282%29.jpg"
-  credit: "Photo: Ricardalovesmonuments / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Two_Temple_Place_London_(2).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Two_Temple_Place_London_%282%29.jpg/3840px-Two_Temple_Place_London_%282%29.jpg
+  credit: 'Photo: Ricardalovesmonuments / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Two_Temple_Place_London_(2).jpg'
+  via: act
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Two_Temple_Place%2C_Astor_House_-_Atrium_skylight_01.jpg"
-    credit: "Photo: Acabashi / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Two_Temple_Place,_Astor_House_-_Atrium_skylight_01.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/9/9e/Two_Temple_Place%2C_Astor_House_-_Atrium_skylight_01.jpg
+    credit: 'Photo: Acabashi / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Two_Temple_Place,_Astor_House_-_Atrium_skylight_01.jpg
 place:
-  id: "ChIJPZeCZbQEdkgRfqLg9TGuo0Q"
-  name: "Two Temple Place"
-  address: "2 Temple Pl, Temple, London WC2R 3BD, UK"
+  id: ChIJPZeCZbQEdkgRfqLg9TGuo0Q
+  name: Two Temple Place
+  address: '2 Temple Pl, Temple, London WC2R 3BD, UK'
   rating: 4.6
-  userRatingsTotal: 1215
-  googleMapsUrl: "https://maps.google.com/?cid=4945988345384706686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1216
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4945988345384706686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.511635299999995
   lng: -0.1122429
-  phone: "+44 20 7836 3715"
+  phone: +44 20 7836 3715
 tags:
-  - "london"
-  - "historic site"
-quickAnswer: "Two Temple Place is a neo-Gothic Victorian mansion on the Victoria Embankment in Temple, London, a short walk from Temple Underground station. It opens to the public mainly for its annual winter exhibition of publicly owned British art, so check the official site for season dates before you go. Allow about an hour for the art, the oak-panelled Great Hall and the carved staircase."
+  - london
+  - historic site
+quickAnswer: >-
+  Two Temple Place is a neo-Gothic Victorian mansion on the Victoria Embankment
+  in Temple, London, a short walk from Temple Underground station. It opens to
+  the public mainly for its annual winter exhibition of publicly owned British
+  art, so check the official site for season dates before you go. Allow about an
+  hour for the art, the oak-panelled Great Hall and the carved staircase.
 faq:
-  - q: "How do I get to Two Temple Place?"
-    a: "Take the District or Circle line to Temple station. It comes out onto Temple Place, and the house is a few steps east along the same street, by the Victoria Embankment."
-  - q: "Is Two Temple Place open all year?"
-    a: "No. It opens to the public mainly for its annual exhibition season, traditionally early in the year, and is used for events and private hire the rest of the time. Check the official website for this year's dates and opening days before you go."
-  - q: "How long should I spend there?"
-    a: "About an hour covers the exhibition plus the carved staircase and the Great Hall. Allow longer if you're going to a talk or want to study the woodwork closely."
-  - q: "What is there to see besides the art?"
-    a: "The building itself: a neo-Gothic mansion built in the 1890s for William Waldorf Astor. Look for the oak panelling, the staircase carved with Three Musketeers figures, the hammerbeam roof in the Great Hall and the gilded Santa Maria weathervane on the roof."
-  - q: "What else is nearby?"
-    a: "Victoria Embankment Gardens, Somerset House and the Courtauld Gallery are a few minutes west. Temple Church and the Inns of Court are just east, and the Royal Courts of Justice face the Strand."
+  - q: How do I get to Two Temple Place?
+    a: >-
+      Take the District or Circle line to Temple station. It comes out onto
+      Temple Place, and the house is a few steps east along the same street, by
+      the Victoria Embankment.
+  - q: Is Two Temple Place open all year?
+    a: >-
+      No. It opens to the public mainly for its annual exhibition season,
+      traditionally early in the year, and is used for events and private hire
+      the rest of the time. Check the official website for this year's dates and
+      opening days before you go.
+  - q: How long should I spend there?
+    a: >-
+      About an hour covers the exhibition plus the carved staircase and the
+      Great Hall. Allow longer if you're going to a talk or want to study the
+      woodwork closely.
+  - q: What is there to see besides the art?
+    a: >-
+      The building itself: a neo-Gothic mansion built in the 1890s for William
+      Waldorf Astor. Look for the oak panelling, the staircase carved with Three
+      Musketeers figures, the hammerbeam roof in the Great Hall and the gilded
+      Santa Maria weathervane on the roof.
+  - q: What else is nearby?
+    a: >-
+      Victoria Embankment Gardens, Somerset House and the Courtauld Gallery are
+      a few minutes west. Temple Church and the Inns of Court are just east, and
+      the Royal Courts of Justice face the Strand.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-06'
 ---
 
 ## A stone house built for one very rich man

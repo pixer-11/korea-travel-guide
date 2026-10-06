@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: madrid-puerta-de-alcala
-srcHash: '01645735769c'
+srcHash: 'f7c7aafb2b4e'
 title: 'Puerta de Alcalá: guía de viaje de Madrid (4.7★)'
-description: En pleno distrito de Retiro, junto a la entrada principal del parque del Buen Retiro, se alza el arco de triunfo neoclásico de la Puerta de Alcalá, en el centro de la glorieta de la plaza de la Independencia. Con 4.7★ (63,749 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y algunos consejos.
+description: En pleno distrito de Retiro, junto a la entrada principal del parque del Buen Retiro, se alza el arco de triunfo neoclásico de la Puerta de Alcalá, en el centro de la glorieta de la plaza de la Independencia. Con 4.7★ (63,841 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y algunos consejos.
 quickAnswer: En el centro de la glorieta de la plaza de la Independencia, dentro del distrito madrileño de Retiro y a un paso de la entrada principal del parque del Buen Retiro, se levanta la Puerta de Alcalá, un arco de triunfo neoclásico. Puede verse a cualquier hora y sin entrada. Si quiere fotografiarla sin aglomeraciones, acérquese entre semana de 7 a 9 de la mañana, o de 7 a 10 los fines de semana. Conviene evitar las tardes y noches del fin de semana, de la 1 de la tarde a las 11 de la noche.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la Puerta de Alcalá?

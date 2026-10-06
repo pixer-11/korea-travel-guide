@@ -1,36 +1,45 @@
 ---
-title: "The Beatles Statues: Liverpool Travel Guide (4.7★)"
-description: "The Beatles Statues stand at Pier Head on the Liverpool waterfront: four larger-than-life bronzes by Andy Edwards, unveiled in 2015, with the Royal Liver Building behind them. 4.7★ (8,024 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Liverpool"
-category: "hidden-gem"
-pubDate: "2026-09-30T14:24:01.899Z"
+title: 'The Beatles Statues: Liverpool Travel Guide (4.7★)'
+description: >-
+  The Beatles Statues stand at Pier Head on the Liverpool waterfront: four
+  larger-than-life bronzes by Andy Edwards, unveiled in 2015, with the Royal
+  Liver Building behind them. 4.7★ (8,052 reviews) — what visitors say, hours,
+  and tips.
+country: United Kingdom
+region: Liverpool
+category: hidden-gem
+pubDate: '2026-09-30T14:24:01.899Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Ringo%2CPaul%2CGeorge_%26_John._%28The_Beatles%29_-_The_Beatles_statues%2C_Hard_Days_Night_Hotel%2C_North_John_Street_%26_Mathew_Street%2C_Liverpool_%282015-11-11_16.15.18_by_Loco_Steve%29.jpg/3840px-thumbnail.jpg"
-  credit: "Photo: Loco Steve from Bromley , UK / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ringo,Paul,George_%26_John._(The_Beatles)_-_The_Beatles_statues,_Hard_Days_Night_Hotel,_North_John_Street_%26_Mathew_Street,_Liverpool_(2015-11-11_16.15.18_by_Loco_Steve).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Ringo%2CPaul%2CGeorge_%26_John._%28The_Beatles%29_-_The_Beatles_statues%2C_Hard_Days_Night_Hotel%2C_North_John_Street_%26_Mathew_Street%2C_Liverpool_%282015-11-11_16.15.18_by_Loco_Steve%29.jpg/3840px-thumbnail.jpg
+  credit: 'Photo: Loco Steve from Bromley , UK / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Ringo,Paul,George_%26_John._(The_Beatles)_-_The_Beatles_statues,_Hard_Days_Night_Hotel,_North_John_Street_%26_Mathew_Street,_Liverpool_(2015-11-11_16.15.18_by_Loco_Steve).jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Beatles_statue%2C_The_Beatles_Shop%2C_Mathew_Street.jpg/3840px-Beatles_statue%2C_The_Beatles_Shop%2C_Mathew_Street.jpg"
-    credit: "Photo: Rodhullandemu / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Beatles_statue,_The_Beatles_Shop,_Mathew_Street.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Beatles_statue%2C_The_Beatles_Shop%2C_Mathew_Street.jpg/3840px-Beatles_statue%2C_The_Beatles_Shop%2C_Mathew_Street.jpg
+    credit: 'Photo: Rodhullandemu / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Beatles_statue,_The_Beatles_Shop,_Mathew_Street.jpg
 place:
-  id: "ChIJK-wXJy0he0gR9DkVg0NZfqw"
-  name: "The Beatles Statues"
-  address: "Pier Head, Liverpool L3 1BY, UK"
+  id: ChIJK-wXJy0he0gR9DkVg0NZfqw
+  name: The Beatles Statues
+  address: 'Pier Head, Liverpool L3 1BY, UK'
   rating: 4.7
-  userRatingsTotal: 8024
-  googleMapsUrl: "https://maps.google.com/?cid=12429470168086034932&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 8052
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12429470168086034932&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 53.4045079
   lng: -2.9964135
   busyness:
-    updated: 2026-09-30
+    updated: 2026-09-30T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 21
@@ -56,7 +65,7 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_7771665a4e3067566b4439526730656830794a58772d4b4a496843"
+    venueId: ven_7771665a4e3067566b4439526730656830794a58772d4b4a496843
   openingHours:
     - 'Monday: Open 24 hours'
     - 'Tuesday: Open 24 hours'
@@ -66,22 +75,43 @@ place:
     - 'Saturday: Open 24 hours'
     - 'Sunday: Open 24 hours'
 tags:
-  - "liverpool"
-  - "hidden gem"
-quickAnswer: "The Beatles Statues stand at Pier Head on the Liverpool waterfront: four larger-than-life bronzes by Andy Edwards, unveiled in 2015, with the Royal Liver Building behind them. They're open-air and you can visit any time. Weekdays between 7am and 11pm are the quiet window, so try to avoid weekends from 10am to 7pm, when the photo queue is at its longest."
+  - liverpool
+  - hidden gem
+quickAnswer: >-
+  The Beatles Statues stand at Pier Head on the Liverpool waterfront: four
+  larger-than-life bronzes by Andy Edwards, unveiled in 2015, with the Royal
+  Liver Building behind them. They're open-air and you can visit any time.
+  Weekdays between 7am and 11pm are the quiet window, so try to avoid weekends
+  from 10am to 7pm, when the photo queue is at its longest.
 faq:
-  - q: "Where exactly are The Beatles Statues in Liverpool?"
-    a: "They stand at Pier Head (Liverpool L3 1BY) on the waterfront promenade by the River Mersey, in front of the Royal Liver Building and close to the Mersey Ferries terminal and the Museum of Liverpool."
-  - q: "When is the quietest time to visit?"
-    a: "On weekdays, the quiet window is 7am to 11pm. On weekends, avoid 10am to 7pm, the busiest stretch. Going before 10am or after 7pm usually gets you a shorter photo queue."
-  - q: "How do I get there by public transport?"
-    a: "The nearest station is James Street on the Merseyrail network, a short walk down to the river. From Liverpool Lime Street you can walk it in roughly 20 to 25 minutes, or change onto Merseyrail to James Street."
-  - q: "How long should I spend at the statues?"
-    a: "Allow about 15 to 20 minutes to walk round the figures, find details like the acorns in John's hand and take photos. Plan for longer on a weekend, when you may have to wait your turn."
-  - q: "What else is nearby for Beatles fans?"
-    a: "The Beatles Story at Royal Albert Dock is a few minutes' walk south, the Museum of Liverpool is next to Pier Head, and Mathew Street with the Cavern Club is about 10 to 15 minutes inland on foot."
+  - q: Where exactly are The Beatles Statues in Liverpool?
+    a: >-
+      They stand at Pier Head (Liverpool L3 1BY) on the waterfront promenade by
+      the River Mersey, in front of the Royal Liver Building and close to the
+      Mersey Ferries terminal and the Museum of Liverpool.
+  - q: When is the quietest time to visit?
+    a: >-
+      On weekdays, the quiet window is 7am to 11pm. On weekends, avoid 10am to
+      7pm, the busiest stretch. Going before 10am or after 7pm usually gets you
+      a shorter photo queue.
+  - q: How do I get there by public transport?
+    a: >-
+      The nearest station is James Street on the Merseyrail network, a short
+      walk down to the river. From Liverpool Lime Street you can walk it in
+      roughly 20 to 25 minutes, or change onto Merseyrail to James Street.
+  - q: How long should I spend at the statues?
+    a: >-
+      Allow about 15 to 20 minutes to walk round the figures, find details like
+      the acorns in John's hand and take photos. Plan for longer on a weekend,
+      when you may have to wait your turn.
+  - q: What else is nearby for Beatles fans?
+    a: >-
+      The Beatles Story at Royal Albert Dock is a few minutes' walk south, the
+      Museum of Liverpool is next to Pier Head, and Mathew Street with the
+      Cavern Club is about 10 to 15 minutes inland on foot.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-06'
 ---
 
 ## Four men mid-stride on the waterfront

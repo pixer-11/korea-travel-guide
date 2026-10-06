@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: london-kensington-gardens
-srcHash: 'e90081207ee0'
+srcHash: '5e89e3926ef1'
 title: 'Kensington Gardens: guía de viaje de Londres (4.7★)'
-description: En el barrio de Kensington, al oeste de Londres, se encuentra el parque real de Kensington Gardens, que abre todos los días de 6am a 9:30pm. Dentro de sus límites están el Palacio de Kensington, el Albert Memorial, la estatua de Peter Pan y el parque infantil en memoria de Diana, princesa de Gales. Tiene una valoración de 4.7★ (30,802 reseñas); aquí encontrará la opinión de los visitantes, los horarios y consejos prácticos.
+description: En el barrio de Kensington, al oeste de Londres, se encuentra el parque real de Kensington Gardens, que abre todos los días de 6am a 9:30pm. Dentro de sus límites están el Palacio de Kensington, el Albert Memorial, la estatua de Peter Pan y el parque infantil en memoria de Diana, princesa de Gales. Tiene una valoración de 4.7★ (30,812 reseñas); aquí encontrará la opinión de los visitantes, los horarios y consejos prácticos.
 quickAnswer: Kensington Gardens es un parque real situado en Kensington, al oeste de Londres, y abre todos los días de 6am a 9:30pm. En su interior se encuentran el Palacio de Kensington (Kensington Palace), el Albert Memorial, la estatua de Peter Pan y el parque infantil en memoria de Diana, princesa de Gales (Diana, Princess of Wales Memorial Playground). Las estaciones de metro más próximas son Queensway y Lancaster Gate, en la línea Central, y High Street Kensington, en las líneas Circle y District. La franja más tranquila va de 7am a 9pm. Los fines de semana conviene evitar el tramo de 11am a 7pm, que es cuando más gente acude.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Kensington Gardens?

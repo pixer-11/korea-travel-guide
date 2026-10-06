@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: london-the-british-museum
-srcHash: '114dae29d38e'
+srcHash: 'd5aaac62ce2a'
 title: 大英博物馆伦敦旅行指南（4.5★）
-description: 大英博物馆坐落在伦敦市中心布卢姆斯伯里（Bloomsbury）的大罗素街（Great Russell Street），从托特纳姆法院路站和霍尔本站步行过去都不远。评分4.5★（3,063条评价），本文汇总游客评价、开放时间和参观建议。
+description: 大英博物馆坐落在伦敦市中心布卢姆斯伯里（Bloomsbury）的大罗素街（Great Russell Street），从托特纳姆法院路站和霍尔本站步行过去都不远。评分4.5★（3,066条评价），本文汇总游客评价、开放时间和参观建议。
 quickAnswer: 大英博物馆坐落在伦敦市中心布卢姆斯伯里（Bloomsbury）的大罗素街（Great Russell Street），从托特纳姆法院路站和霍尔本站走过去都不远。工作日开馆期间人最少，什么时候去都行。周末建议上午10点一开门就进馆，赶在中午12点至下午4点的高峰之前走进展厅深处。
 faq:
   - q: 什么时候去大英博物馆人最少？

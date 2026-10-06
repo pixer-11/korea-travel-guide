@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: manchester-manchester-museum
-srcHash: '43b9b0f7749f'
+srcHash: '8426dd17eccf'
 title: 'Museo de Mánchester (Manchester Museum): guía de viaje (4.7★)'
-description: En pleno campus de la Universidad de Mánchester, sobre Oxford Road y a pocos minutos a pie al sur del centro, se encuentra el Museo de Mánchester. Con 4.7★ (10,884 reseñas), recogemos las opiniones de los visitantes, sus horarios y algunos consejos.
+description: En pleno campus de la Universidad de Mánchester, sobre Oxford Road y a pocos minutos a pie al sur del centro, se encuentra el Museo de Mánchester. Con 4.7★ (10,907 reseñas), recogemos las opiniones de los visitantes, sus horarios y algunos consejos.
 quickAnswer: A pocos minutos a pie al sur del centro, el Museo de Mánchester (Manchester Museum) ocupa un edificio de Oxford Road dentro del campus de la Universidad de Mánchester. La entrada es gratuita y en sus salas le esperan dinosaurios, momias egipcias y colecciones de culturas de todo el mundo. Los momentos más tranquilos son los sábados de 8am a 10am y los miércoles de 5pm a 6pm. Conviene evitar las tardes del fin de semana, de 12pm a 5pm, y no olvidar que los lunes permanece cerrado.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Museo de Mánchester?

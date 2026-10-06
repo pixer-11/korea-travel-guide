@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: manchester-fletcher-moss-botanical-gardens
-srcHash: 'd5d1d69c2f55'
+srcHash: '9d1e49a21ff3'
 title: 曼彻斯特旅行指南：弗莱彻·莫斯植物园
-description: 弗莱彻·莫斯植物园（Fletcher Moss Botanical Gardens）位于曼彻斯特南部迪兹伯里的Stenner Lane，是一座免费开放的公共园林，每天7:00至20:30开放。评分4.7★（3,698条评价）。本文汇总游客评价、开放时间与游览建议。
+description: 弗莱彻·莫斯植物园（Fletcher Moss Botanical Gardens）位于曼彻斯特南部迪兹伯里的Stenner Lane，是一座免费开放的公共园林，每天7:00至20:30开放。评分4.7★（3,702条评价）。本文汇总游客评价、开放时间与游览建议。
 quickAnswer: 弗莱彻·莫斯植物园（Fletcher Moss Botanical Gardens）位于曼彻斯特南部迪兹伯里的Stenner Lane，是一座免费开放的公共园林，每天7:00至20:30开放。工作日7:00至20:00游人都不多。周末10:00至18:00是高峰时段，建议7:00至9:00之间前往。
 faq:
   - q: 什么时候去弗莱彻·莫斯植物园人最少？

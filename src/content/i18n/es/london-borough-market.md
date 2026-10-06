@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: london-borough-market
-srcHash: '28ba8e6b2a9a'
+srcHash: '81a3903fd03d'
 title: 'Borough Market: dónde comer en Londres (4.6★)'
-description: Bajo los viaductos ferroviarios contiguos a la estación de London Bridge, en Southwark (SE1 9AH), se encuentra Borough Market, el mercado gastronómico más conocido de Londres. Con 4.6★ (131,255 reseñas), repasamos qué opinan los visitantes, su horario y algunos consejos.
+description: Bajo los viaductos ferroviarios contiguos a la estación de London Bridge, en Southwark (SE1 9AH), se encuentra Borough Market, el mercado gastronómico más conocido de Londres. Con 4.6★ (131,361 reseñas), repasamos qué opinan los visitantes, su horario y algunos consejos.
 quickAnswer: Borough Market, el mercado gastronómico más conocido de Londres, ocupa el espacio bajo los viaductos ferroviarios contiguos a la estación de London Bridge, en Southwark (SE1 9AH). Abre de martes a domingo y cierra los lunes. La mayoría de la gente come de pie lo que compra en los puestos de comida caliente. Lo ideal es ir una mañana entre semana. El fin de semana conviene evitar la franja de 11am–5pm; si no queda otro remedio, la hora más tranquila es el sábado de 4pm–5pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Borough Market?

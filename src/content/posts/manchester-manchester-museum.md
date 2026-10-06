@@ -1,40 +1,45 @@
 ---
-title: "Manchester Museum: Travel Guide (4.7★)"
-description: "Manchester Museum sits on Oxford Road in the University of Manchester campus, a short walk south of the city centre. 4.7★ (10,884 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Manchester"
-category: "attraction"
-pubDate: "2026-09-30T14:00:31.253Z"
+title: 'Manchester Museum: Travel Guide (4.7★)'
+description: >-
+  Manchester Museum sits on Oxford Road in the University of Manchester campus,
+  a short walk south of the city centre. 4.7★ (10,907 reviews) — what visitors
+  say, hours, and tips.
+country: United Kingdom
+region: Manchester
+category: attraction
+pubDate: '2026-09-30T14:00:31.253Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/The_Manchester_Museum.jpg/1920px-The_Manchester_Museum.jpg"
-  credit: "Photo: DrPhoenix / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:The_Manchester_Museum.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/The_Manchester_Museum.jpg/1920px-The_Manchester_Museum.jpg
+  credit: 'Photo: DrPhoenix / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:The_Manchester_Museum.jpg'
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJO2PUe42xe0gRKzSAz2D0FiE"
-  name: "Manchester Museum"
-  address: "Oxford Rd, Manchester M13 9PL, UK"
+  id: ChIJO2PUe42xe0gRKzSAz2D0FiE
+  name: Manchester Museum
+  address: 'Oxford Rd, Manchester M13 9PL, UK'
   rating: 4.7
-  userRatingsTotal: 10884
-  googleMapsUrl: "https://maps.google.com/?cid=2384361749374579755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 10907
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2384361749374579755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 53.4664686
   lng: -2.2342519
-  phone: "+44 161 275 2648"
+  phone: +44 161 275 2648
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 9:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 8:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 9:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 8:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-09-30
+    updated: 2026-09-30T00:00:00.000Z
     weekdayQuiet:
       - 17
     weekdayBusy:
@@ -52,24 +57,47 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_4569463044327a41537a4b52673065783234655550324f4a496843"
+    venueId: ven_4569463044327a41537a4b52673065783234655550324f4a496843
 tags:
-  - "manchester"
-  - "top attraction"
-quickAnswer: "Manchester Museum sits on Oxford Road in the University of Manchester campus, a short walk south of the city centre. Entry is free, and you'll find dinosaurs, Egyptian mummies and world cultures inside. It's quietest on Saturdays from 8am to 10am and on Wednesdays from 5pm to 6pm. Avoid weekend afternoons from 12pm to 5pm, and remember it's closed on Mondays."
+  - manchester
+  - top attraction
+quickAnswer: >-
+  Manchester Museum sits on Oxford Road in the University of Manchester campus,
+  a short walk south of the city centre. Entry is free, and you'll find
+  dinosaurs, Egyptian mummies and world cultures inside. It's quietest on
+  Saturdays from 8am to 10am and on Wednesdays from 5pm to 6pm. Avoid weekend
+  afternoons from 12pm to 5pm, and remember it's closed on Mondays.
 faq:
-  - q: "When is the quietest time to visit Manchester Museum?"
-    a: "On the weekend it's quietest from 8am to 10am, and only Saturday opens that early. On weekdays the quietest window is 5pm to 6pm, which only works on Wednesday because that's the one late opening, until 9pm. Try to avoid weekend afternoons from 12pm to 5pm, when it's busiest."
-  - q: "What are the opening hours, and is it open on Mondays?"
-    a: "It's closed on Mondays. From Tuesday to Friday and on Sunday it opens 10am to 5pm, except Wednesday, when it stays open until 9pm. Saturday runs from 8am to 5pm."
-  - q: "How do I get to Manchester Museum?"
-    a: "It's on Oxford Road (M13 9PL) on the University of Manchester campus. Manchester Oxford Road station is about a 15-minute walk away. Buses heading south along Oxford Road from Piccadilly Gardens or St Peter's Square stop nearby."
-  - q: "How long should I spend there?"
-    a: "Allow two to three hours to see the dinosaurs, the Egyptian galleries and the newer South Asia and Chinese Culture galleries. Families with young children often manage a focused 90 minutes."
-  - q: "What else is nearby?"
-    a: "The Whitworth art gallery and Whitworth Park are about 15 minutes' walk south along Oxford Road. Beyond them, the Curry Mile on Wilmslow Road in Rusholme is good for a meal."
+  - q: When is the quietest time to visit Manchester Museum?
+    a: >-
+      On the weekend it's quietest from 8am to 10am, and only Saturday opens
+      that early. On weekdays the quietest window is 5pm to 6pm, which only
+      works on Wednesday because that's the one late opening, until 9pm. Try to
+      avoid weekend afternoons from 12pm to 5pm, when it's busiest.
+  - q: 'What are the opening hours, and is it open on Mondays?'
+    a: >-
+      It's closed on Mondays. From Tuesday to Friday and on Sunday it opens 10am
+      to 5pm, except Wednesday, when it stays open until 9pm. Saturday runs from
+      8am to 5pm.
+  - q: How do I get to Manchester Museum?
+    a: >-
+      It's on Oxford Road (M13 9PL) on the University of Manchester campus.
+      Manchester Oxford Road station is about a 15-minute walk away. Buses
+      heading south along Oxford Road from Piccadilly Gardens or St Peter's
+      Square stop nearby.
+  - q: How long should I spend there?
+    a: >-
+      Allow two to three hours to see the dinosaurs, the Egyptian galleries and
+      the newer South Asia and Chinese Culture galleries. Families with young
+      children often manage a focused 90 minutes.
+  - q: What else is nearby?
+    a: >-
+      The Whitworth art gallery and Whitworth Park are about 15 minutes' walk
+      south along Oxford Road. Beyond them, the Curry Mile on Wilmslow Road in
+      Rusholme is good for a meal.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-06'
 ---
 
 ## A Gothic Front Door on Oxford Road

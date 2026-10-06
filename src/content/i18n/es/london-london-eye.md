@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: london-london-eye
-srcHash: '3679fe30152a'
+srcHash: '9265ec9c7a1e'
 title: 'London Eye: guía de viaje (4.5★)'
-description: El London Eye se alza en la orilla sur, junto a County Hall. Se llega con un breve paseo desde la estación de Waterloo o cruzando el puente de Westminster (Westminster Bridge) desde la estación de Westminster. Valoración de 4.5★ (205,117 reseñas), con opiniones de visitantes, horarios y consejos.
+description: El London Eye se alza en la orilla sur, junto a County Hall. Se llega con un breve paseo desde la estación de Waterloo o cruzando el puente de Westminster (Westminster Bridge) desde la estación de Westminster. Valoración de 4.5★ (205,346 reseñas), con opiniones de visitantes, horarios y consejos.
 quickAnswer: El London Eye se alza en la orilla sur del Támesis (South Bank), junto a County Hall. Se llega con un breve paseo desde la estación de Waterloo o cruzando el puente de Westminster (Westminster Bridge) desde la estación de Westminster. Abre todos los días de 11am a 6pm y cada vuelta dura unos 30 minutos. Para hacer menos cola, lo más sencillo es reservar por internet una franja horaria antes de ir.
 faq:
   - q: ¿Cuál es la estación de metro más cercana al London Eye?

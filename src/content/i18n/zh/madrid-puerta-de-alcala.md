@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: madrid-puerta-de-alcala
-srcHash: '01645735769c'
+srcHash: 'f7c7aafb2b4e'
 title: 马德里阿尔卡拉门（Puerta de Alcalá）旅行指南（4.7★）
-description: 阿尔卡拉门是一座新古典主义凯旋门，矗立在马德里丽池区独立广场（Plaza de la Independencia）环岛中央，紧邻丽池公园正门。评分4.7★（63,749条评价），本文汇总游客评价、开放时间与游览建议。
+description: 阿尔卡拉门是一座新古典主义凯旋门，矗立在马德里丽池区独立广场（Plaza de la Independencia）环岛中央，紧邻丽池公园正门。评分4.7★（63,841条评价），本文汇总游客评价、开放时间与游览建议。
 quickAnswer: 阿尔卡拉门是一座新古典主义凯旋门，矗立在马德里丽池区独立广场环岛中央，紧挨着丽池公园（Parque del Buen Retiro）正门。这里全天开放，无需门票。想避开人潮拍照，工作日请在早上7点至9点前往，周末则在早上7点至10点；周末13点至23点人最多，最好避开。
 faq:
   - q: 什么时候去阿尔卡拉门人最少？

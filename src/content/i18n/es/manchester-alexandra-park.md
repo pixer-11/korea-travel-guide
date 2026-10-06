@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: manchester-alexandra-park
-srcHash: '728420a14c98'
+srcHash: '77f68d3f8c4f'
 title: 'Alexandra Park: guía de viaje de Mánchester (4.6★)'
-description: En el sur de Mánchester, entre Whalley Range y Moss Side, el parque victoriano Alexandra Park ocupa 60 acres en Russell Street. Tiene un lago, campos deportivos y zonas de juego infantiles, y abre todos los días de 6am a medianoche. Con una valoración de 4.6★ (4,569 reseñas), aquí encontrará las opiniones de los visitantes, el horario y varios consejos.
+description: En el sur de Mánchester, entre Whalley Range y Moss Side, el parque victoriano Alexandra Park ocupa 60 acres en Russell Street. Tiene un lago, campos deportivos y zonas de juego infantiles, y abre todos los días de 6am a medianoche. Con una valoración de 4.6★ (4,571 reseñas), aquí encontrará las opiniones de los visitantes, el horario y varios consejos.
 quickAnswer: En el sur de Mánchester, entre Whalley Range y Moss Side, el parque victoriano Alexandra Park ocupa 60 acres en Russell Street. Cuenta con un lago, campos deportivos y zonas de juego infantiles, y abre todos los días de 6am a medianoche. Entre semana el ambiente es tranquilo durante toda la franja de 7am–11pm. El fin de semana, en cambio, la mayor afluencia se concentra de 8am–6pm, así que conviene ir temprano o al anochecer si se quieren tener los senderos casi para uno mismo.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Alexandra Park?

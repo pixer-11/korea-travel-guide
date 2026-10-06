@@ -1,45 +1,54 @@
 ---
-title: "Alexandra Park: Manchester Travel Guide (4.6★)"
-description: "Alexandra Park is a 60-acre Victorian park on Russell Street in south Manchester, between Whalley Range and Moss Side, with a lake, sports pitches and play areas, and it is open 6am to midnight every day. 4.6★ (4,569 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Manchester"
-category: "attraction"
-pubDate: "2026-10-03T07:48:03.946Z"
+title: 'Alexandra Park: Manchester Travel Guide (4.6★)'
+description: >-
+  Alexandra Park is a 60-acre Victorian park on Russell Street in south
+  Manchester, between Whalley Range and Moss Side, with a lake, sports pitches
+  and play areas, and it is open 6am to midnight every day. 4.6★ (4,571 reviews)
+  — what visitors say, hours, and tips.
+country: United Kingdom
+region: Manchester
+category: attraction
+pubDate: '2026-10-03T07:48:03.946Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/June_evening_at_dusk_in_Alexandra_Park%2C_Manchester_01.jpg/3840px-June_evening_at_dusk_in_Alexandra_Park%2C_Manchester_01.jpg"
-  credit: "Photo: Ridiculopathy / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:June_evening_at_dusk_in_Alexandra_Park,_Manchester_01.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/June_evening_at_dusk_in_Alexandra_Park%2C_Manchester_01.jpg/3840px-June_evening_at_dusk_in_Alexandra_Park%2C_Manchester_01.jpg
+  credit: 'Photo: Ridiculopathy / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:June_evening_at_dusk_in_Alexandra_Park,_Manchester_01.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/June_evening_at_dusk_in_Alexandra_Park%2C_Manchester_03.jpg/3840px-June_evening_at_dusk_in_Alexandra_Park%2C_Manchester_03.jpg"
-    credit: "Photo: Ridiculopathy / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:June_evening_at_dusk_in_Alexandra_Park,_Manchester_03.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/June_evening_at_dusk_in_Alexandra_Park%2C_Manchester_03.jpg/3840px-June_evening_at_dusk_in_Alexandra_Park%2C_Manchester_03.jpg
+    credit: 'Photo: Ridiculopathy / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:June_evening_at_dusk_in_Alexandra_Park,_Manchester_03.jpg
 place:
-  id: "ChIJ8wIHyRyye0gRkB00Vn8uNuw"
-  name: "Alexandra Park"
-  address: "180 Russell St, Manchester M16 7JL, UK"
+  id: ChIJ8wIHyRyye0gRkB00Vn8uNuw
+  name: Alexandra Park
+  address: '180 Russell St, Manchester M16 7JL, UK'
   rating: 4.6
-  userRatingsTotal: 4569
-  googleMapsUrl: "https://maps.google.com/?cid=17020842966135348624&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4571
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17020842966135348624&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 53.451169199999995
   lng: -2.2499688
-  phone: "+44 161 234 4343"
+  phone: +44 161 234 4343
   openingHours:
-    - "Monday: 6:00 AM – 12:00 AM"
-    - "Tuesday: 6:00 AM – 12:00 AM"
-    - "Wednesday: 6:00 AM – 12:00 AM"
-    - "Thursday: 6:00 AM – 12:00 AM"
-    - "Friday: 6:00 AM – 12:00 AM"
-    - "Saturday: 6:00 AM – 12:00 AM"
-    - "Sunday: 6:00 AM – 12:00 AM"
+    - 'Monday: 6:00 AM – 12:00 AM'
+    - 'Tuesday: 6:00 AM – 12:00 AM'
+    - 'Wednesday: 6:00 AM – 12:00 AM'
+    - 'Thursday: 6:00 AM – 12:00 AM'
+    - 'Friday: 6:00 AM – 12:00 AM'
+    - 'Saturday: 6:00 AM – 12:00 AM'
+    - 'Sunday: 6:00 AM – 12:00 AM'
   busyness:
-    updated: 2026-10-03
+    updated: 2026-10-03T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -61,24 +70,41 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_77754e75386e563030426b5267306579795279484977384a496843"
+    venueId: ven_77754e75386e563030426b5267306579795279484977384a496843
 tags:
-  - "manchester"
-  - "park"
-quickAnswer: "Alexandra Park is a 60-acre Victorian park on Russell Street in south Manchester, between Whalley Range and Moss Side, with a lake, sports pitches and play areas, and it is open 6am to midnight every day. Weekdays stay calm through the whole 7am–11pm window. At weekends the busy stretch runs 8am–6pm, so come early or in the evening if you want the paths to yourself."
+  - manchester
+  - park
+quickAnswer: >-
+  Alexandra Park is a 60-acre Victorian park on Russell Street in south
+  Manchester, between Whalley Range and Moss Side, with a lake, sports pitches
+  and play areas, and it is open 6am to midnight every day. Weekdays stay calm
+  through the whole 7am–11pm window. At weekends the busy stretch runs 8am–6pm,
+  so come early or in the evening if you want the paths to yourself.
 faq:
-  - q: "When is the quietest time to visit Alexandra Park?"
-    a: "On weekdays it stays quiet across the whole 7am–11pm window. At weekends the busiest period is 8am–6pm, so for a calm visit go before 8am or after 6pm."
-  - q: "What are Alexandra Park's opening hours?"
-    a: "It is listed as open 6am to midnight, every day of the week."
-  - q: "How do I get to Alexandra Park from Manchester city centre?"
-    a: "The park is about three kilometres south of the centre, on Princess Road. Buses running along Princess Road stop near its eastern edge. The address is 180 Russell St, M16 7JL."
-  - q: "How long should I spend at Alexandra Park?"
-    a: "Allow about an hour for a loop of the lake and perimeter. Give it longer if you're using the play areas or the sports facilities."
-  - q: "When is the Caribbean Carnival at Alexandra Park?"
-    a: "The Manchester Caribbean Carnival is held here each August. Exact dates and access arrangements change from year to year, so check the official carnival website before you go."
+  - q: When is the quietest time to visit Alexandra Park?
+    a: >-
+      On weekdays it stays quiet across the whole 7am–11pm window. At weekends
+      the busiest period is 8am–6pm, so for a calm visit go before 8am or after
+      6pm.
+  - q: What are Alexandra Park's opening hours?
+    a: 'It is listed as open 6am to midnight, every day of the week.'
+  - q: How do I get to Alexandra Park from Manchester city centre?
+    a: >-
+      The park is about three kilometres south of the centre, on Princess Road.
+      Buses running along Princess Road stop near its eastern edge. The address
+      is 180 Russell St, M16 7JL.
+  - q: How long should I spend at Alexandra Park?
+    a: >-
+      Allow about an hour for a loop of the lake and perimeter. Give it longer
+      if you're using the play areas or the sports facilities.
+  - q: When is the Caribbean Carnival at Alexandra Park?
+    a: >-
+      The Manchester Caribbean Carnival is held here each August. Exact dates
+      and access arrangements change from year to year, so check the official
+      carnival website before you go.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-06'
 ---
 
 ## A Victorian layout that still works

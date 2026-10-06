@@ -1,41 +1,47 @@
 ---
-title: "Marktplatz: Leipzig Travel Guide (4.6★)"
-description: "Marktplatz Leipzig is the city's main square in the Altstadt, framed by the Renaissance Old Town Hall and sitting directly above Leipzig Markt S-Bahn station. 4.6★ (22,868 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Leipzig"
-category: "attraction"
-pubDate: "2026-10-05T07:38:46.339Z"
+title: 'Marktplatz: Leipzig Travel Guide (4.6★)'
+description: >-
+  Marktplatz Leipzig is the city's main square in the Altstadt, framed by the
+  Renaissance Old Town Hall and sitting directly above Leipzig Markt S-Bahn
+  station. 4.6★ (22,872 reviews) — what visitors say, hours, and tips.
+country: Germany
+region: Leipzig
+category: attraction
+pubDate: '2026-10-05T07:38:46.339Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Leipzig-Weihnachtsmarkt-Marktplatz-S%C3%BCdWest-Ecke-DJI_0235-360x180G-PanoS-02-12-2025.jpg/3840px-Leipzig-Weihnachtsmarkt-Marktplatz-S%C3%BCdWest-Ecke-DJI_0235-360x180G-PanoS-02-12-2025.jpg"
-  credit: "Photo: Joachim Köhler / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Leipzig-Weihnachtsmarkt-Marktplatz-S%C3%BCdWest-Ecke-DJI_0235-360x180G-PanoS-02-12-2025.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Leipzig-Weihnachtsmarkt-Marktplatz-S%C3%BCdWest-Ecke-DJI_0235-360x180G-PanoS-02-12-2025.jpg/3840px-Leipzig-Weihnachtsmarkt-Marktplatz-S%C3%BCdWest-Ecke-DJI_0235-360x180G-PanoS-02-12-2025.jpg
+  credit: 'Photo: Joachim Köhler / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Leipzig-Weihnachtsmarkt-Marktplatz-S%C3%BCdWest-Ecke-DJI_0235-360x180G-PanoS-02-12-2025.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJE9iKUiH4pkcRUEpfEErdYP4"
-  name: "Marktplatz Leipzig"
-  address: "Markt 1A, 04109 Leipzig, Germany"
+  id: ChIJE9iKUiH4pkcRUEpfEErdYP4
+  name: Marktplatz Leipzig
+  address: 'Markt 1A, 04109 Leipzig, Germany'
   rating: 4.6
-  userRatingsTotal: 22868
-  googleMapsUrl: "https://maps.google.com/?cid=18329893793569917520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 22872
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=18329893793569917520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.3406151
   lng: 12.374696499999999
-  phone: "+49 341 1235929"
+  phone: +49 341 1235929
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-10-05
+    updated: 2026-10-05T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -61,24 +67,44 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_345059647245456670455552636b70344869554b6939454a496843"
+    venueId: ven_345059647245456670455552636b70344869554b6939454a496843
 tags:
-  - "leipzig"
-  - "historic site"
-quickAnswer: "Marktplatz Leipzig is the city's main square in the Altstadt, framed by the Renaissance Old Town Hall and sitting directly above Leipzig Markt S-Bahn station. It is open 24 hours and costs nothing to walk across. For a quiet look, come between 7am and 9am on a weekday, and avoid weekends between 11am and 9pm, when it is at its busiest."
+  - leipzig
+  - historic site
+quickAnswer: >-
+  Marktplatz Leipzig is the city's main square in the Altstadt, framed by the
+  Renaissance Old Town Hall and sitting directly above Leipzig Markt S-Bahn
+  station. It is open 24 hours and costs nothing to walk across. For a quiet
+  look, come between 7am and 9am on a weekday, and avoid weekends between 11am
+  and 9pm, when it is at its busiest.
 faq:
-  - q: "When is the quietest time to visit Marktplatz Leipzig?"
-    a: "Weekdays between 7am and 9am are the calmest. On weekends, avoid 11am to 9pm, which is when the square is busiest."
-  - q: "How do I get to Marktplatz Leipzig?"
-    a: "Take the S-Bahn to Leipzig Markt station, whose exits come up right onto the square. From Leipzig Hauptbahnhof it is one S-Bahn stop or about a ten-minute walk south."
-  - q: "Is the square open at night?"
-    a: "Yes. It is a public square and open 24 hours, and the Old Town Hall is lit after dark. The museum inside keeps its own hours, so check its official site."
-  - q: "When is the Christmas market on the Marktplatz?"
-    a: "It usually runs from late November until just before Christmas, with huts filling the square in front of the Old Town Hall. Check the city's official site for this year's dates."
-  - q: "What is nearby?"
-    a: "The Naschmarkt and Alte Börse are directly behind the town hall. The Mädler Passage with Auerbachs Keller, the Thomaskirche and the Nikolaikirche are all a few minutes away on foot."
+  - q: When is the quietest time to visit Marktplatz Leipzig?
+    a: >-
+      Weekdays between 7am and 9am are the calmest. On weekends, avoid 11am to
+      9pm, which is when the square is busiest.
+  - q: How do I get to Marktplatz Leipzig?
+    a: >-
+      Take the S-Bahn to Leipzig Markt station, whose exits come up right onto
+      the square. From Leipzig Hauptbahnhof it is one S-Bahn stop or about a
+      ten-minute walk south.
+  - q: Is the square open at night?
+    a: >-
+      Yes. It is a public square and open 24 hours, and the Old Town Hall is lit
+      after dark. The museum inside keeps its own hours, so check its official
+      site.
+  - q: When is the Christmas market on the Marktplatz?
+    a: >-
+      It usually runs from late November until just before Christmas, with huts
+      filling the square in front of the Old Town Hall. Check the city's
+      official site for this year's dates.
+  - q: What is nearby?
+    a: >-
+      The Naschmarkt and Alte Börse are directly behind the town hall. The
+      Mädler Passage with Auerbachs Keller, the Thomaskirche and the
+      Nikolaikirche are all a few minutes away on foot.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-06'
 ---
 
 ## A town hall that fills one whole side

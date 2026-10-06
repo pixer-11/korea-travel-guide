@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: leipzig-stadtgeschichtliches-museum-leipzig-altes-rathaus
-srcHash: '665661baee7b'
+srcHash: '13f6c2fbd507'
 title: 'Museo de Historia de la Ciudad de Leipzig (Stadtgeschichtliches Museum Leipzig), Antiguo Ayuntamiento: guía de viaje'
-description: 'El Museo de Historia de la Ciudad de Leipzig ocupa el Antiguo Ayuntamiento (Altes Rathaus), un edificio renacentista situado en el Markt, la plaza central de Leipzig, justo encima de la estación de S-Bahn Leipzig Markt. 4.7★ (1,788 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Museo de Historia de la Ciudad de Leipzig ocupa el Antiguo Ayuntamiento (Altes Rathaus), un edificio renacentista situado en el Markt, la plaza central de Leipzig, justo encima de la estación de S-Bahn Leipzig Markt. 4.7★ (1,790 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Museo de Historia de la Ciudad de Leipzig (Stadtgeschichtliches Museum Leipzig) se encuentra en el Antiguo Ayuntamiento (Altes Rathaus), un edificio renacentista que se alza en el Markt, la plaza central de la ciudad. Justo debajo está la estación de S-Bahn Leipzig Markt. Abre de martes a domingo, de 10am a 6pm, y cierra los lunes. Para recorrer las salas históricas y la colección conviene reservar entre 90 minutos y dos horas.
 faq:
   - q: ¿Abre los lunes el Museo de Historia de la Ciudad, en el Antiguo Ayuntamiento?

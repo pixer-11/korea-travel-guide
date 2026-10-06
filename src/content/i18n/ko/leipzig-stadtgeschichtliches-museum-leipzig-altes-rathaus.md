@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: leipzig-stadtgeschichtliches-museum-leipzig-altes-rathaus
-srcHash: '665661baee7b'
+srcHash: '13f6c2fbd507'
 title: 라이프치히 시립역사박물관 구시청사 여행 가이드
-description: 라이프치히 시립역사박물관(Stadtgeschichtliches Museum Leipzig)은 도심 한복판 마르크트 광장에 선 르네상스 양식 구시청사(Altes Rathaus) 안에 자리한 도시 역사박물관이며, 바로 아래에 에스반 라이프치히 마르크트역이 있습니다. 평점 4.7★(리뷰 1,788개)를 받은 이곳의 방문객 후기와 운영 시간, 관람 팁을 정리했습니다.
+description: 라이프치히 시립역사박물관(Stadtgeschichtliches Museum Leipzig)은 도심 한복판 마르크트 광장에 선 르네상스 양식 구시청사(Altes Rathaus) 안에 자리한 도시 역사박물관이며, 바로 아래에 에스반 라이프치히 마르크트역이 있습니다. 평점 4.7★(리뷰 1,790개)를 받은 이곳의 방문객 후기와 운영 시간, 관람 팁을 정리했습니다.
 quickAnswer: 라이프치히 시립역사박물관(Stadtgeschichtliches Museum Leipzig)은 라이프치히 도심의 중심 광장인 마르크트(Markt)에 선 르네상스 양식 구시청사(Altes Rathaus) 안에 있는 도시 역사박물관입니다. 건물 바로 아래에 에스반 라이프치히 마르크트(Leipzig Markt)역이 있습니다. 화요일부터 일요일까지 오전 10시부터 오후 6시까지 문을 열고, 월요일은 휴관합니다. 역사적인 방들과 소장품을 둘러보려면 90분에서 2시간 정도를 잡으시면 됩니다.
 faq:
   - q: 구시청사의 시립역사박물관은 월요일에도 문을 여나요?

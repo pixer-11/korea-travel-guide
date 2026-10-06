@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: liverpool-liverpool-cathedral
-srcHash: 'b4624d877982'
+srcHash: 'f64d367c14d7'
 title: 'Catedral de Liverpool: guía de viaje (4.8★)'
-description: En lo alto de St James' Mount, al extremo sur de Hope Street y en pleno centro de Liverpool, se alza la catedral de la ciudad. Con 4.8★ (16,788 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
+description: En lo alto de St James' Mount, al extremo sur de Hope Street y en pleno centro de Liverpool, se alza la catedral de la ciudad. Con 4.8★ (16,812 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: En lo alto de St James' Mount, al extremo sur de Hope Street y en pleno centro de Liverpool, se alza la mayor catedral de Gran Bretaña. Bajo sus arcos góticos, los más altos del mundo, se accede a una torre a la que se puede subir. Abre todos los días de 10am a 6pm. Entre semana reina la calma durante toda la jornada, mientras que los fines de semana la afluencia alcanza su punto máximo de 12pm a 5pm; conviene, por tanto, ir un día laborable o llegar a la apertura de las 10am si va en sábado o domingo.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la Catedral de Liverpool?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: liverpool-the-beatles-statues
-srcHash: 'a900d47d096e'
+srcHash: '924d2f19d3d5'
 title: 'Las estatuas de los Beatles: guía de viaje de Liverpool (4.7★)'
-description: 'En Pier Head, junto al frente fluvial de Liverpool, se alzan las estatuas de los Beatles: cuatro bronces de Andy Edwards, algo mayores que el tamaño natural, inaugurados en 2015 con el Royal Liver Building como telón de fondo. Con 4.7★ (8,024 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos útiles.'
+description: 'En Pier Head, junto al frente fluvial de Liverpool, se alzan las estatuas de los Beatles: cuatro bronces de Andy Edwards, algo mayores que el tamaño natural, inaugurados en 2015 con el Royal Liver Building como telón de fondo. Con 4.7★ (8,052 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos útiles.'
 quickAnswer: 'En Pier Head, a orillas del frente fluvial de Liverpool, se alzan las estatuas de los Beatles: cuatro bronces de Andy Edwards, algo mayores que el tamaño natural, que se inauguraron en 2015 y tienen detrás el Royal Liver Building. Se encuentran al aire libre y pueden visitarse a cualquier hora. Entre semana, de 7am a 11pm, hay poca gente; conviene evitar, en cambio, los fines de semana de 10am a 7pm, cuando la cola para hacerse la foto alcanza su máxima longitud.'
 faq:
   - q: ¿Dónde se encuentran exactamente las estatuas de los Beatles en Liverpool?

@@ -1,44 +1,51 @@
 ---
-title: "The British Museum: London Travel Guide (4.5★)"
-description: "The British Museum sits on Great Russell Street in Bloomsbury, central London, a short walk from Tottenham Court Road and Holborn stations. 4.5★ (3,063 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "London"
-category: "hidden-gem"
-pubDate: "2026-09-30T14:17:52.885Z"
+title: 'The British Museum: London Travel Guide (4.5★)'
+description: >-
+  The British Museum sits on Great Russell Street in Bloomsbury, central London,
+  a short walk from Tottenham Court Road and Holborn stations. 4.5★ (3,066
+  reviews) — what visitors say, hours, and tips.
+country: United Kingdom
+region: London
+category: hidden-gem
+pubDate: '2026-09-30T14:17:52.885Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/British_Museum_from_NE_2.JPG/1920px-British_Museum_from_NE_2.JPG"
-  credit: "Photo: Ham / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:British_Museum_from_NE_2.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/British_Museum_from_NE_2.JPG/1920px-British_Museum_from_NE_2.JPG
+  credit: 'Photo: Ham / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:British_Museum_from_NE_2.JPG'
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/5/5a/British_Museum_Great_Court%2C_London%2C_UK_-_Diliff.jpg"
-    credit: "Photo: Diliff / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:British_Museum_Great_Court,_London,_UK_-_Diliff.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/5/5a/British_Museum_Great_Court%2C_London%2C_UK_-_Diliff.jpg
+    credit: 'Photo: Diliff / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:British_Museum_Great_Court,_London,_UK_-_Diliff.jpg
 place:
-  id: "ChIJB9OTMDIbdkgRp0JWbQGZsS8"
-  name: "The British Museum"
-  address: "Great Russell St, London WC1B 3DG, UK"
+  id: ChIJB9OTMDIbdkgRp0JWbQGZsS8
+  name: The British Museum
+  address: 'Great Russell St, London WC1B 3DG, UK'
   rating: 4.5
-  userRatingsTotal: 3063
-  googleMapsUrl: "https://maps.google.com/?cid=3436696222068785831&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 3066
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3436696222068785831&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.5194133
   lng: -0.1269566
-  phone: "+44 20 7323 8000"
+  phone: +44 20 7323 8000
   openingHours:
-    - "Monday: 10:00 AM – 5:00 PM"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 3:30 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 8:30 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: 10:00 AM – 5:00 PM'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 3:30 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 8:30 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-09-30
+    updated: 2026-09-30T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 16
@@ -50,24 +57,44 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_3853735a475162574a307052676b646249444d544f39424a496843"
+    venueId: ven_3853735a475162574a307052676b646249444d544f39424a496843
 tags:
-  - "london"
-  - "hidden gem"
-quickAnswer: "The British Museum sits on Great Russell Street in Bloomsbury, central London, a short walk from Tottenham Court Road and Holborn stations. Weekdays are the quietest time to visit, whenever the doors are open. At weekends, arrive at 10am and try to be deep in the galleries before the 12pm–4pm peak."
+  - london
+  - hidden gem
+quickAnswer: >-
+  The British Museum sits on Great Russell Street in Bloomsbury, central London,
+  a short walk from Tottenham Court Road and Holborn stations. Weekdays are the
+  quietest time to visit, whenever the doors are open. At weekends, arrive at
+  10am and try to be deep in the galleries before the 12pm–4pm peak.
 faq:
-  - q: "When is the quietest time to visit the British Museum?"
-    a: "Weekdays are quiet right across the measured 10am–6pm window, so any weekday hour it is open works. At weekends the calm stretch is 10am–11am. Avoid 12pm–4pm on Saturdays and Sundays, when it is busiest."
-  - q: "What are the British Museum's opening hours?"
-    a: "It opens at 10am every day. It closes at 5pm on Monday, Tuesday, Thursday, Saturday and Sunday, at 3:30pm on Wednesday and at 8:30pm on Friday."
-  - q: "How long do I need at the British Museum?"
-    a: "Allow two to three hours for the highlights: the Rosetta Stone (Room 4), the Parthenon sculptures (Room 18), the Egyptian mummies (Rooms 62–63) and Sutton Hoo (Room 41). A full day still only covers a fraction of the collection."
-  - q: "What is the nearest Tube station to the British Museum?"
-    a: "Tottenham Court Road (Central, Northern and Elizabeth lines) and Holborn (Central and Piccadilly lines) are both under ten minutes' walk away. Russell Square and Goodge Street are also close."
-  - q: "Do I need to book tickets for the British Museum?"
-    a: "The permanent collection is free, but the museum often recommends booking a timed entry slot on its official website. Special exhibitions are ticketed separately, and prices are listed on the official site."
+  - q: When is the quietest time to visit the British Museum?
+    a: >-
+      Weekdays are quiet right across the measured 10am–6pm window, so any
+      weekday hour it is open works. At weekends the calm stretch is 10am–11am.
+      Avoid 12pm–4pm on Saturdays and Sundays, when it is busiest.
+  - q: What are the British Museum's opening hours?
+    a: >-
+      It opens at 10am every day. It closes at 5pm on Monday, Tuesday, Thursday,
+      Saturday and Sunday, at 3:30pm on Wednesday and at 8:30pm on Friday.
+  - q: How long do I need at the British Museum?
+    a: >-
+      Allow two to three hours for the highlights: the Rosetta Stone (Room 4),
+      the Parthenon sculptures (Room 18), the Egyptian mummies (Rooms 62–63) and
+      Sutton Hoo (Room 41). A full day still only covers a fraction of the
+      collection.
+  - q: What is the nearest Tube station to the British Museum?
+    a: >-
+      Tottenham Court Road (Central, Northern and Elizabeth lines) and Holborn
+      (Central and Piccadilly lines) are both under ten minutes' walk away.
+      Russell Square and Goodge Street are also close.
+  - q: Do I need to book tickets for the British Museum?
+    a: >-
+      The permanent collection is free, but the museum often recommends booking
+      a timed entry slot on its official website. Special exhibitions are
+      ticketed separately, and prices are listed on the official site.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-06'
 ---
 
 Forty-odd Ionic columns line the front of a pale stone building on Great Russell Street, and a queue for the bag check shuffles through the forecourt below them. Robert Smirke designed this Greek Revival facade in the nineteenth century. The museum itself goes back further: it was founded in 1753, and it has been collecting the world ever since.

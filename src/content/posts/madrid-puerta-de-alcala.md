@@ -1,43 +1,51 @@
 ---
-title: "Puerta de Alcalá: Madrid Travel Guide (4.7★)"
-description: "The Puerta de Alcalá is a neoclassical triumphal arch in the middle of the Plaza de la Independencia roundabout in Madrid's Retiro district, right beside the main gate of Parque del Buen Retiro. 4.7★ (63,749 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "Madrid"
-category: "hidden-gem"
-pubDate: "2026-09-28T07:51:11.017Z"
+title: 'Puerta de Alcalá: Madrid Travel Guide (4.7★)'
+description: >-
+  The Puerta de Alcalá is a neoclassical triumphal arch in the middle of the
+  Plaza de la Independencia roundabout in Madrid's Retiro district, right beside
+  the main gate of Parque del Buen Retiro. 4.7★ (63,841 reviews) — what visitors
+  say, hours, and tips.
+country: Spain
+region: Madrid
+category: hidden-gem
+pubDate: '2026-09-28T07:51:11.017Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Puerta_de_Alcal%C3%A1_2025.jpg/1920px-Puerta_de_Alcal%C3%A1_2025.jpg"
-  credit: "Photo: Fernando Pascullo / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Puerta_de_Alcal%C3%A1_2025.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Puerta_de_Alcal%C3%A1_2025.jpg/1920px-Puerta_de_Alcal%C3%A1_2025.jpg
+  credit: 'Photo: Fernando Pascullo / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Puerta_de_Alcal%C3%A1_2025.jpg'
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Puerta_de_Alcal%C3%A1%2C_Madrid%2C_Espa%C3%B1a%2C_2017-05-18%2C_DD_14.jpg/3840px-Puerta_de_Alcal%C3%A1%2C_Madrid%2C_Espa%C3%B1a%2C_2017-05-18%2C_DD_14.jpg"
-    credit: "Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Puerta_de_Alcal%C3%A1,_Madrid,_Espa%C3%B1a,_2017-05-18,_DD_14.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Puerta_de_Alcal%C3%A1%2C_Madrid%2C_Espa%C3%B1a%2C_2017-05-18%2C_DD_14.jpg/3840px-Puerta_de_Alcal%C3%A1%2C_Madrid%2C_Espa%C3%B1a%2C_2017-05-18%2C_DD_14.jpg
+    credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Puerta_de_Alcal%C3%A1,_Madrid,_Espa%C3%B1a,_2017-05-18,_DD_14.jpg
 place:
-  id: "ChIJJ1KGSpooQg0R8YZKFDqLJ5g"
-  name: "Puerta de Alcalá"
-  address: "Pl. de la Independencia, s/n, Retiro, 28001 Madrid, Spain"
+  id: ChIJJ1KGSpooQg0R8YZKFDqLJ5g
+  name: Puerta de Alcalá
+  address: 'Pl. de la Independencia, s/n, Retiro, 28001 Madrid, Spain'
   rating: 4.7
-  userRatingsTotal: 63749
-  googleMapsUrl: "https://maps.google.com/?cid=10963884899421554417&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 63841
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=10963884899421554417&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 40.419992
   lng: -3.6887369999999997
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-09-28
+    updated: 2026-09-28T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -66,24 +74,45 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_67354a4c7144464b5a5938523067516f6f7053474b314a4a496843"
+    venueId: ven_67354a4c7144464b5a5938523067516f6f7053474b314a4a496843
 tags:
-  - "madrid"
-  - "old quarter"
-quickAnswer: "The Puerta de Alcalá is a neoclassical triumphal arch in the middle of the Plaza de la Independencia roundabout in Madrid's Retiro district, right beside the main gate of Parque del Buen Retiro. It never closes and there is no ticket. For photos without the crowds, go between 7am and 9am on weekdays or 7am and 10am at weekends, and avoid weekend afternoons and evenings from 1pm to 11pm."
+  - madrid
+  - old quarter
+quickAnswer: >-
+  The Puerta de Alcalá is a neoclassical triumphal arch in the middle of the
+  Plaza de la Independencia roundabout in Madrid's Retiro district, right beside
+  the main gate of Parque del Buen Retiro. It never closes and there is no
+  ticket. For photos without the crowds, go between 7am and 9am on weekdays or
+  7am and 10am at weekends, and avoid weekend afternoons and evenings from 1pm
+  to 11pm.
 faq:
-  - q: "When is the quietest time to visit the Puerta de Alcalá?"
-    a: "It's calmest between 7am and 9am on weekdays and between 7am and 10am at weekends. Avoid weekends from 1pm to 11pm, when the plaza is at its busiest."
-  - q: "Which metro station is closest?"
-    a: "Retiro (Line 2) is the nearest, a few minutes' walk east of the gate along Calle de Alcalá. Banco de España (Line 2) is another option: from the Cibeles fountain it's a short uphill walk."
-  - q: "Can you go inside or walk through the arch?"
-    a: "No. The gate stands on a fenced, planted island in the middle of the Plaza de la Independencia roundabout. You view it from the surrounding pavements and crossings, at any hour of day or night."
-  - q: "How long do I need there?"
-    a: "Fifteen to thirty minutes is enough to walk around the roundabout, study the carvings on both faces and take photos. Most people then carry on into Retiro Park or down to Cibeles."
-  - q: "Is it worth seeing at night?"
-    a: "Yes. The arch is floodlit after dark. Go on a weekday evening to avoid the weekend crowds, which last until 11pm."
+  - q: When is the quietest time to visit the Puerta de Alcalá?
+    a: >-
+      It's calmest between 7am and 9am on weekdays and between 7am and 10am at
+      weekends. Avoid weekends from 1pm to 11pm, when the plaza is at its
+      busiest.
+  - q: Which metro station is closest?
+    a: >-
+      Retiro (Line 2) is the nearest, a few minutes' walk east of the gate along
+      Calle de Alcalá. Banco de España (Line 2) is another option: from the
+      Cibeles fountain it's a short uphill walk.
+  - q: Can you go inside or walk through the arch?
+    a: >-
+      No. The gate stands on a fenced, planted island in the middle of the Plaza
+      de la Independencia roundabout. You view it from the surrounding pavements
+      and crossings, at any hour of day or night.
+  - q: How long do I need there?
+    a: >-
+      Fifteen to thirty minutes is enough to walk around the roundabout, study
+      the carvings on both faces and take photos. Most people then carry on into
+      Retiro Park or down to Cibeles.
+  - q: Is it worth seeing at night?
+    a: >-
+      Yes. The arch is floodlit after dark. Go on a weekday evening to avoid the
+      weekend crowds, which last until 11pm.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-06'
 ---
 
 ## Granite, limestone and a roundabout

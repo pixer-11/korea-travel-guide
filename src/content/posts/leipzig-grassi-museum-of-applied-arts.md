@@ -1,44 +1,52 @@
 ---
-title: "Grassi Museum of Applied Arts: Leipzig Travel Guide (4.6★)"
-description: "The Grassi Museum of Applied Arts sits on Johannisplatz in Leipzig, a short walk east of the old town, and holds ceramics, porcelain, furniture and silver from antiquity to contemporary design. 4.6★ (2,308 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Leipzig"
-category: "attraction"
-pubDate: "2026-10-04T13:25:44.582Z"
+title: 'Grassi Museum of Applied Arts: Leipzig Travel Guide (4.6★)'
+description: >-
+  The Grassi Museum of Applied Arts sits on Johannisplatz in Leipzig, a short
+  walk east of the old town, and holds ceramics, porcelain, furniture and silver
+  from antiquity to contemporary design. 4.6★ (2,309 reviews) — what visitors
+  say, hours, and tips.
+country: Germany
+region: Leipzig
+category: attraction
+pubDate: '2026-10-04T13:25:44.582Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Grassimuseum_Leipzig.jpg/1920px-Grassimuseum_Leipzig.jpg"
-  credit: "Photo: Appaloosa / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Grassimuseum_Leipzig.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Grassimuseum_Leipzig.jpg/1920px-Grassimuseum_Leipzig.jpg
+  credit: 'Photo: Appaloosa / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Grassimuseum_Leipzig.jpg'
   focus:
     x: 50
-    y: 55
+    'y': 55
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Pfeilerhalle_im_GRASSI_Museum_f%C3%BCr_Angewandte_Kunst.jpg/3840px-Pfeilerhalle_im_GRASSI_Museum_f%C3%BCr_Angewandte_Kunst.jpg"
-    credit: "Photo: Christoph Sandig / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Pfeilerhalle_im_GRASSI_Museum_f%C3%BCr_Angewandte_Kunst.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Pfeilerhalle_im_GRASSI_Museum_f%C3%BCr_Angewandte_Kunst.jpg/3840px-Pfeilerhalle_im_GRASSI_Museum_f%C3%BCr_Angewandte_Kunst.jpg
+    credit: 'Photo: Christoph Sandig / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Pfeilerhalle_im_GRASSI_Museum_f%C3%BCr_Angewandte_Kunst.jpg
 place:
-  id: "ChIJD3aw3Tv4pkcRq0D0iNWuVEI"
-  name: "Grassi Museum of Applied Arts"
-  address: "GRASSI Museum für Angewandte Kunst, Johannispl. 5-11, 04103 Leipzig, Germany"
+  id: ChIJD3aw3Tv4pkcRq0D0iNWuVEI
+  name: Grassi Museum of Applied Arts
+  address: 'GRASSI Museum für Angewandte Kunst, Johannispl. 5-11, 04103 Leipzig, Germany'
   rating: 4.6
-  userRatingsTotal: 2308
-  googleMapsUrl: "https://maps.google.com/?cid=4779637336695914667&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2309
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4779637336695914667&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.337334999999996
   lng: 12.388212
-  phone: "+49 341 2229100"
+  phone: +49 341 2229100
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 6:00 PM"
-    - "Wednesday: 10:00 AM – 8:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 8:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-10-04
+    updated: 2026-10-04T00:00:00.000Z
     weekdayQuiet:
       - 18
     weekdayBusy:
@@ -55,24 +63,45 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_49455675574e693044307152636b7034765433776133444a496843"
+    venueId: ven_49455675574e693044307152636b7034765433776133444a496843
 tags:
-  - "leipzig"
-  - "museum"
-quickAnswer: "The Grassi Museum of Applied Arts sits on Johannisplatz in Leipzig, a short walk east of the old town, and holds ceramics, porcelain, furniture and silver from antiquity to contemporary design. It's closed Mondays and stays open until 8pm on Wednesdays. The quietest time is 6pm–7pm on a weekday, which means Wednesday evening, and weekends are busiest from 11am to 6pm."
+  - leipzig
+  - museum
+quickAnswer: >-
+  The Grassi Museum of Applied Arts sits on Johannisplatz in Leipzig, a short
+  walk east of the old town, and holds ceramics, porcelain, furniture and silver
+  from antiquity to contemporary design. It's closed Mondays and stays open
+  until 8pm on Wednesdays. The quietest time is 6pm–7pm on a weekday, which
+  means Wednesday evening, and weekends are busiest from 11am to 6pm.
 faq:
-  - q: "When is the quietest time to visit the Grassi Museum of Applied Arts?"
-    a: "The quietest weekday window is 6pm–7pm. The museum only stays open past 6pm on Wednesday, when it closes at 8pm, so a Wednesday evening visit is the calmest option. Avoid weekends between 11am and 6pm, which are the busiest hours."
-  - q: "What are the opening days and hours?"
-    a: "It's closed on Monday. From Tuesday to Sunday it's open 10am to 6pm, except Wednesday, when it stays open until 8pm."
-  - q: "How long should I spend there?"
-    a: "Allow two to three hours for the applied arts collection. Plan on half a day if you add the Museum of Ethnography or the Museum of Musical Instruments, which share the building."
-  - q: "How do I get to the museum?"
-    a: "It's at Johannisplatz 5-11, just east of Leipzig's old town. Trams stop at Johannisplatz outside the door. On foot, it's a short walk from Augustusplatz or roughly 15 to 20 minutes from Leipzig Hauptbahnhof."
-  - q: "What is there to see nearby?"
-    a: "The Alter Johannisfriedhof, Leipzig's oldest surviving cemetery, is directly behind the museum. Augustusplatz, with the Gewandhaus and the Opera, is a short walk west."
+  - q: When is the quietest time to visit the Grassi Museum of Applied Arts?
+    a: >-
+      The quietest weekday window is 6pm–7pm. The museum only stays open past
+      6pm on Wednesday, when it closes at 8pm, so a Wednesday evening visit is
+      the calmest option. Avoid weekends between 11am and 6pm, which are the
+      busiest hours.
+  - q: What are the opening days and hours?
+    a: >-
+      It's closed on Monday. From Tuesday to Sunday it's open 10am to 6pm,
+      except Wednesday, when it stays open until 8pm.
+  - q: How long should I spend there?
+    a: >-
+      Allow two to three hours for the applied arts collection. Plan on half a
+      day if you add the Museum of Ethnography or the Museum of Musical
+      Instruments, which share the building.
+  - q: How do I get to the museum?
+    a: >-
+      It's at Johannisplatz 5-11, just east of Leipzig's old town. Trams stop at
+      Johannisplatz outside the door. On foot, it's a short walk from
+      Augustusplatz or roughly 15 to 20 minutes from Leipzig Hauptbahnhof.
+  - q: What is there to see nearby?
+    a: >-
+      The Alter Johannisfriedhof, Leipzig's oldest surviving cemetery, is
+      directly behind the museum. Augustusplatz, with the Gewandhaus and the
+      Opera, is a short walk west.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-06'
 ---
 
 ## Three museums behind one façade

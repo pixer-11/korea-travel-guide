@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: manchester-people-s-history-museum
-srcHash: '3d1e5de76377'
+srcHash: '9f8693768e06'
 title: 曼彻斯特人民历史博物馆旅行指南（4.5★）
-description: 人民历史博物馆位于曼彻斯特斯宾宁菲尔兹（Spinningfields）的左岸（Left Bank），紧邻艾尔韦尔河。评分4.5★（3,832条评价），这里汇集了游客评价、开放时间和参观建议。
+description: 人民历史博物馆位于曼彻斯特斯宾宁菲尔兹（Spinningfields）的左岸（Left Bank），紧邻艾尔韦尔河。评分4.5★（3,835条评价），这里汇集了游客评价、开放时间和参观建议。
 quickAnswer: 人民历史博物馆（People's History Museum）坐落在曼彻斯特斯宾宁菲尔兹（Spinningfields）的左岸（Left Bank），紧挨着艾尔韦尔河（River Irwell）。这座英国国家民主博物馆由一座爱德华时代的旧泵站改建而成，除周二外每天10am至5pm开放。参观大约需要两小时。周末1pm至4pm人最多，建议开门时就到。
 faq:
   - q: 什么时候去人民历史博物馆人最少？

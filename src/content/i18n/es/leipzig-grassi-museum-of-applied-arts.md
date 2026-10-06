@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: leipzig-grassi-museum-of-applied-arts
-srcHash: '5a29d428dccd'
+srcHash: '6121dcc9f6ba'
 title: 'Museo Grassi de Artes Aplicadas: guía de viaje de Leipzig (4.6★)'
-description: 'A pocos pasos al este del casco antiguo de Leipzig, en la Johannisplatz, el Museo Grassi de Artes Aplicadas reúne cerámica, porcelana, mobiliario y platería desde la Antigüedad hasta el diseño contemporáneo. 4.6★ (2,308 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'A pocos pasos al este del casco antiguo de Leipzig, en la Johannisplatz, el Museo Grassi de Artes Aplicadas reúne cerámica, porcelana, mobiliario y platería desde la Antigüedad hasta el diseño contemporáneo. 4.6★ (2,309 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: A pocos pasos al este del casco antiguo de Leipzig, en la Johannisplatz, el Museo Grassi de Artes Aplicadas (Grassi Museum für Angewandte Kunst) reúne cerámica, porcelana, mobiliario y platería desde la Antigüedad hasta el diseño contemporáneo. Cierra los lunes y los miércoles abre hasta las 8pm. Entre semana, la franja más tranquila es de 6pm–7pm, lo que en la práctica significa el miércoles por la tarde. Los fines de semana, la mayor afluencia se concentra entre las 11am y las 6pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Museo Grassi de Artes Aplicadas?

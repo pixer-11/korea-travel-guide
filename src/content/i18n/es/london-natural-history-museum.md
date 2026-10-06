@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: london-natural-history-museum
-srcHash: '8188d6c9bf01'
+srcHash: 'f2eb3d3c7fa2'
 title: 'Museo de Historia Natural de Londres: guía de viaje (4.6★)'
-description: El Museo de Historia Natural (Natural History Museum), en South Kensington, abre todos los días de 10:00 a 17:50 y la entrada general es gratuita. Con 4.6★ (39.471 reseñas), aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
+description: El Museo de Historia Natural (Natural History Museum), en South Kensington, abre todos los días de 10:00 a 17:50 y la entrada general es gratuita. Con 4.6★ (39.624 reseñas), aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: El Museo de Historia Natural (Natural History Museum), situado en el barrio londinense de South Kensington, abre todos los días de 10:00 a 17:50, y la entrada general es gratuita. La hora más tranquila, tanto entre semana como en fin de semana, va de 10:00 a 11:00, así que conviene llegar entonces. Los fines de semana entre las 12:00 y las 16:00 hay que evitarlos, porque es cuando más gente acude. Para ver los dinosaurios, la ballena del Hintze Hall y las Galerías de la Tierra, reserve entre tres y cuatro horas.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Museo de Historia Natural?

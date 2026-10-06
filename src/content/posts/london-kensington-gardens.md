@@ -1,45 +1,52 @@
 ---
-title: "Kensington Gardens: London Travel Guide (4.7★)"
-description: "Kensington Gardens is a royal park in Kensington, west London, open 6am–9:30pm every day, with Kensington Palace, the Albert Memorial, the Peter Pan statue and the Diana, Princess of Wales Memorial Playground all inside it. 4.7★ (30,802 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "London"
-category: "attraction"
-pubDate: "2026-10-03T07:46:57.455Z"
+title: 'Kensington Gardens: London Travel Guide (4.7★)'
+description: >-
+  Kensington Gardens is a royal park in Kensington, west London, open 6am–9:30pm
+  every day, with Kensington Palace, the Albert Memorial, the Peter Pan statue
+  and the Diana, Princess of Wales Memorial Playground all inside it. 4.7★
+  (30,812 reviews) — what visitors say, hours, and tips.
+country: United Kingdom
+region: London
+category: attraction
+pubDate: '2026-10-03T07:46:57.455Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Kensington_Gardens_Round_Pond.jpg/3840px-Kensington_Gardens_Round_Pond.jpg"
-  credit: "Photo: Toben / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Kensington_Gardens_Round_Pond.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Kensington_Gardens_Round_Pond.jpg/3840px-Kensington_Gardens_Round_Pond.jpg
+  credit: 'Photo: Toben / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Kensington_Gardens_Round_Pond.jpg'
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://fastly.4sqi.net/img/general/original/440298524_Ius2qj6gtAgA-Lsbb6nlHhrOvp9bKlK8our9WLZrga0.jpg"
-    credit: "Photo: Foursquare user content (Kensington Gardens)"
-    license: "foursquare"
-    source: "https://foursquare.com/v/4b7ffcd1f964a520e94830e3"
+  - url: >-
+      https://fastly.4sqi.net/img/general/original/440298524_Ius2qj6gtAgA-Lsbb6nlHhrOvp9bKlK8our9WLZrga0.jpg
+    credit: 'Photo: Foursquare user content (Kensington Gardens)'
+    license: foursquare
+    source: 'https://foursquare.com/v/4b7ffcd1f964a520e94830e3'
 place:
-  id: "ChIJPaOn4FAFdkgRfLe2KIKp7mI"
-  name: "Kensington Gardens"
-  address: "London, UK"
+  id: ChIJPaOn4FAFdkgRfLe2KIKp7mI
+  name: Kensington Gardens
+  address: 'London, UK'
   rating: 4.7
-  userRatingsTotal: 30802
-  googleMapsUrl: "https://maps.google.com/?cid=7128821636667979644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 30812
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7128821636667979644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.506986999999995
   lng: -0.179165
-  phone: "+44 300 061 2000"
+  phone: +44 300 061 2000
   openingHours:
-    - "Monday: 6:00 AM – 9:30 PM"
-    - "Tuesday: 6:00 AM – 9:30 PM"
-    - "Wednesday: 6:00 AM – 9:30 PM"
-    - "Thursday: 6:00 AM – 9:30 PM"
-    - "Friday: 6:00 AM – 9:30 PM"
-    - "Saturday: 6:00 AM – 9:30 PM"
-    - "Sunday: 6:00 AM – 9:30 PM"
+    - 'Monday: 6:00 AM – 9:30 PM'
+    - 'Tuesday: 6:00 AM – 9:30 PM'
+    - 'Wednesday: 6:00 AM – 9:30 PM'
+    - 'Thursday: 6:00 AM – 9:30 PM'
+    - 'Friday: 6:00 AM – 9:30 PM'
+    - 'Saturday: 6:00 AM – 9:30 PM'
+    - 'Sunday: 6:00 AM – 9:30 PM'
   busyness:
-    updated: 2026-10-03
+    updated: 2026-10-03T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -60,24 +67,46 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_496d37704b494b32654c6652676b64464146346e4f61504a496843"
+    venueId: ven_496d37704b494b32654c6652676b64464146346e4f61504a496843
 tags:
-  - "london"
-  - "park"
-quickAnswer: "Kensington Gardens is a royal park in Kensington, west London, open 6am–9:30pm every day, with Kensington Palace, the Albert Memorial, the Peter Pan statue and the Diana, Princess of Wales Memorial Playground all inside it. The nearest Tube stops are Queensway and Lancaster Gate (Central line) or High Street Kensington (Circle and District lines). The quiet window runs 7am–9pm, and at weekends you should avoid 11am–7pm, when it is busiest."
+  - london
+  - park
+quickAnswer: >-
+  Kensington Gardens is a royal park in Kensington, west London, open 6am–9:30pm
+  every day, with Kensington Palace, the Albert Memorial, the Peter Pan statue
+  and the Diana, Princess of Wales Memorial Playground all inside it. The
+  nearest Tube stops are Queensway and Lancaster Gate (Central line) or High
+  Street Kensington (Circle and District lines). The quiet window runs 7am–9pm,
+  and at weekends you should avoid 11am–7pm, when it is busiest.
 faq:
-  - q: "When is the quietest time to visit Kensington Gardens?"
-    a: "The quiet window is 7am–9pm on both weekdays and weekends. At weekends, avoid 11am–7pm, the busiest stretch. Early mornings after the 6am opening are the calmest."
-  - q: "What are the opening hours of Kensington Gardens?"
-    a: "The listed hours are 6am to 9:30pm, seven days a week. Kensington Palace and the Diana Memorial Playground set their own hours, so check those separately."
-  - q: "Which Tube station is closest to Kensington Gardens?"
-    a: "Queensway and Lancaster Gate (Central line) are on the north side. High Street Kensington (Circle and District lines) is nearest the palace. South Kensington works for the Albert Memorial via Exhibition Road."
-  - q: "How long should I spend in Kensington Gardens?"
-    a: "Two to three hours covers the Round Pond, the Italian Gardens, the Peter Pan statue and the Albert Memorial at an easy pace. Allow more with children or if you're touring Kensington Palace."
-  - q: "What is near Kensington Gardens?"
-    a: "Hyde Park and the Serpentine are just east across West Carriage Drive. The Royal Albert Hall is opposite the Albert Memorial. The South Kensington museums are a short walk south down Exhibition Road."
+  - q: When is the quietest time to visit Kensington Gardens?
+    a: >-
+      The quiet window is 7am–9pm on both weekdays and weekends. At weekends,
+      avoid 11am–7pm, the busiest stretch. Early mornings after the 6am opening
+      are the calmest.
+  - q: What are the opening hours of Kensington Gardens?
+    a: >-
+      The listed hours are 6am to 9:30pm, seven days a week. Kensington Palace
+      and the Diana Memorial Playground set their own hours, so check those
+      separately.
+  - q: Which Tube station is closest to Kensington Gardens?
+    a: >-
+      Queensway and Lancaster Gate (Central line) are on the north side. High
+      Street Kensington (Circle and District lines) is nearest the palace. South
+      Kensington works for the Albert Memorial via Exhibition Road.
+  - q: How long should I spend in Kensington Gardens?
+    a: >-
+      Two to three hours covers the Round Pond, the Italian Gardens, the Peter
+      Pan statue and the Albert Memorial at an easy pace. Allow more with
+      children or if you're touring Kensington Palace.
+  - q: What is near Kensington Gardens?
+    a: >-
+      Hyde Park and the Serpentine are just east across West Carriage Drive. The
+      Royal Albert Hall is opposite the Albert Memorial. The South Kensington
+      museums are a short walk south down Exhibition Road.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-06'
 ---
 
 ## A palace on one side, a pond below

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: leipzig-leipzig-panometer
-srcHash: '657b94493e51'
+srcHash: 'ca55df4db22c'
 title: 'Panometer de Leipzig: guía de viaje (4.5★)'
-description: El Panometer de Leipzig ocupa un antiguo gasómetro de ladrillo en Richard-Lehmann-Straße 114, en Leipzig-Süd. Con 4.5★ (9,800 reseñas), reunimos aquí opiniones de visitantes, horarios y consejos.
+description: El Panometer de Leipzig ocupa un antiguo gasómetro de ladrillo en Richard-Lehmann-Straße 114, en Leipzig-Süd. Con 4.5★ (9,809 reseñas), reunimos aquí opiniones de visitantes, horarios y consejos.
 quickAnswer: En Leipzig-Süd, concretamente en Richard-Lehmann-Straße 114, un antiguo gasómetro de ladrillo alberga el Panometer de Leipzig. En su interior, el artista Yadegar Asisi despliega un panorama de 360 grados sobre todo el muro circular, que se contempla desde una torre mirador situada en el centro. Entre semana reina la calma de 10am a 5pm. Los fines de semana conviene evitar la franja de 11am–4pm y llegar justo a la apertura, a las 10am.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Panometer de Leipzig?

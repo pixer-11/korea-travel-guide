@@ -1,59 +1,86 @@
 ---
-title: "London Eye: Travel Guide (4.5★)"
-description: "The London Eye stands on the South Bank beside County Hall, a short walk from Waterloo station or across Westminster Bridge from Westminster station. 4.5★ (205,117 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "London"
-category: "attraction"
-pubDate: "2026-09-30T13:57:57.462Z"
+title: 'London Eye: Travel Guide (4.5★)'
+description: >-
+  The London Eye stands on the South Bank beside County Hall, a short walk from
+  Waterloo station or across Westminster Bridge from Westminster station. 4.5★
+  (205,346 reviews) — what visitors say, hours, and tips.
+country: United Kingdom
+region: London
+category: attraction
+pubDate: '2026-09-30T13:57:57.462Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/London-Eye-2009.JPG/1920px-London-Eye-2009.JPG"
-  credit: "Photo: Khamtran / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:London-Eye-2009.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/London-Eye-2009.JPG/1920px-London-Eye-2009.JPG
+  credit: 'Photo: Khamtran / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:London-Eye-2009.JPG'
   focus:
     x: 50
-    y: 35
+    'y': 35
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/c/c9/London_Eye_at_Night_%28long_exposure%29.JPG"
-    credit: "Photo: Martin Falbisoner / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:London_Eye_at_Night_(long_exposure).JPG"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/c/c9/London_Eye_at_Night_%28long_exposure%29.JPG
+    credit: 'Photo: Martin Falbisoner / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:London_Eye_at_Night_(long_exposure).JPG
 place:
-  id: "ChIJc2nSALkEdkgRkuoJJBfzkUI"
-  name: "London Eye"
-  address: "Riverside Building, County Hall, Westminster Bridge Rd, London SE1 7PB, UK"
+  id: ChIJc2nSALkEdkgRkuoJJBfzkUI
+  name: London Eye
+  address: 'Riverside Building, County Hall, Westminster Bridge Rd, London SE1 7PB, UK'
   rating: 4.5
-  userRatingsTotal: 205117
-  googleMapsUrl: "https://maps.google.com/?cid=4796882358840715922&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 205346
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4796882358840715922&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.5031864
   lng: -0.11951919999999999
-  phone: "+44 20 7967 8021"
+  phone: +44 20 7967 8021
   openingHours:
-    - "Monday: 11:00 AM – 6:00 PM"
-    - "Tuesday: 11:00 AM – 6:00 PM"
-    - "Wednesday: 11:00 AM – 6:00 PM"
-    - "Thursday: 11:00 AM – 6:00 PM"
-    - "Friday: 11:00 AM – 6:00 PM"
-    - "Saturday: 11:00 AM – 6:00 PM"
-    - "Sunday: 11:00 AM – 6:00 PM"
+    - 'Monday: 11:00 AM – 6:00 PM'
+    - 'Tuesday: 11:00 AM – 6:00 PM'
+    - 'Wednesday: 11:00 AM – 6:00 PM'
+    - 'Thursday: 11:00 AM – 6:00 PM'
+    - 'Friday: 11:00 AM – 6:00 PM'
+    - 'Saturday: 11:00 AM – 6:00 PM'
+    - 'Sunday: 11:00 AM – 6:00 PM'
 tags:
-  - "london"
-  - "top attraction"
-quickAnswer: "The London Eye stands on the South Bank beside County Hall, a short walk from Waterloo station or across Westminster Bridge from Westminster station. It runs daily from 11am to 6pm, one rotation takes about 30 minutes, and booking a timed slot online before you arrive is the simplest way to cut down on queuing."
+  - london
+  - top attraction
+quickAnswer: >-
+  The London Eye stands on the South Bank beside County Hall, a short walk from
+  Waterloo station or across Westminster Bridge from Westminster station. It
+  runs daily from 11am to 6pm, one rotation takes about 30 minutes, and booking
+  a timed slot online before you arrive is the simplest way to cut down on
+  queuing.
 faq:
-  - q: "What is the nearest Tube station to the London Eye?"
-    a: "Waterloo (Jubilee, Northern, Bakerloo, Waterloo & City lines) is about a 5 to 10 minute walk away. Westminster, across Westminster Bridge, and Embankment, across the Golden Jubilee Bridges, are also close."
-  - q: "What are the London Eye's opening hours?"
-    a: "It's open every day, 11am to 6pm. Check the official site before you go in case of maintenance closures or special events."
-  - q: "How long does the London Eye take?"
-    a: "One rotation takes about 30 minutes. Allow around an hour including the security check and boarding queue."
-  - q: "Do I need to book in advance?"
-    a: "It isn't required, but it's strongly recommended. A timed online ticket saves you the ticket-desk queue, and fast-track tickets shorten the boarding line too."
-  - q: "What else is nearby?"
-    a: "The SEA LIFE London Aquarium is in the same County Hall building, and Jubilee Gardens and the Southbank Centre are right next door. The Houses of Parliament, Big Ben and Westminster Abbey are across Westminster Bridge."
+  - q: What is the nearest Tube station to the London Eye?
+    a: >-
+      Waterloo (Jubilee, Northern, Bakerloo, Waterloo & City lines) is about a 5
+      to 10 minute walk away. Westminster, across Westminster Bridge, and
+      Embankment, across the Golden Jubilee Bridges, are also close.
+  - q: What are the London Eye's opening hours?
+    a: >-
+      It's open every day, 11am to 6pm. Check the official site before you go in
+      case of maintenance closures or special events.
+  - q: How long does the London Eye take?
+    a: >-
+      One rotation takes about 30 minutes. Allow around an hour including the
+      security check and boarding queue.
+  - q: Do I need to book in advance?
+    a: >-
+      It isn't required, but it's strongly recommended. A timed online ticket
+      saves you the ticket-desk queue, and fast-track tickets shorten the
+      boarding line too.
+  - q: What else is nearby?
+    a: >-
+      The SEA LIFE London Aquarium is in the same County Hall building, and
+      Jubilee Gardens and the Southbank Centre are right next door. The Houses
+      of Parliament, Big Ben and Westminster Abbey are across Westminster
+      Bridge.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-06'
 ---
 
 ## A slow half-hour over Westminster

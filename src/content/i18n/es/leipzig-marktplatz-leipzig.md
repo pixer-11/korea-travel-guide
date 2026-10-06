@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: leipzig-marktplatz-leipzig
-srcHash: '990cb0b2b522'
+srcHash: 'e13e29f8be59'
 title: 'Marktplatz de Leipzig: guía de viaje (4.6★)'
-description: 'En pleno casco antiguo (Altstadt), la Marktplatz es la plaza principal de Leipzig: la preside el Antiguo Ayuntamiento renacentista y bajo ella se encuentra la estación de S-Bahn Leipzig Markt. 4.6★ (22,868 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En pleno casco antiguo (Altstadt), la Marktplatz es la plaza principal de Leipzig: la preside el Antiguo Ayuntamiento renacentista y bajo ella se encuentra la estación de S-Bahn Leipzig Markt. 4.6★ (22,872 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En pleno casco antiguo (Altstadt) se encuentra la Marktplatz, la plaza principal de Leipzig. La preside el Antiguo Ayuntamiento renacentista y justo debajo está la estación de S-Bahn Leipzig Markt. Permanece abierta las 24 horas y pasear por ella no cuesta nada. Si busca tranquilidad, visítela un día laborable entre las 7am y las 9am. Los fines de semana, de 11am a 9pm, es cuando más gente hay, así que conviene evitar esa franja.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la Marktplatz de Leipzig?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: manchester-fletcher-moss-botanical-gardens
-srcHash: 'd5d1d69c2f55'
+srcHash: '9d1e49a21ff3'
 title: 'Jardín Botánico Fletcher Moss (Fletcher Moss Botanical Gardens): guía de viaje de Mánchester'
-description: En Stenner Lane, en el barrio de Didsbury, al sur de Mánchester, se encuentra el Jardín Botánico Fletcher Moss, un jardín público de acceso gratuito que abre todos los días de 7am a 8:30pm. Tiene una valoración de 4.7★ (3,698 reseñas). Aquí encontrará las opiniones de los visitantes, el horario y varios consejos.
+description: En Stenner Lane, en el barrio de Didsbury, al sur de Mánchester, se encuentra el Jardín Botánico Fletcher Moss, un jardín público de acceso gratuito que abre todos los días de 7am a 8:30pm. Tiene una valoración de 4.7★ (3,702 reseñas). Aquí encontrará las opiniones de los visitantes, el horario y varios consejos.
 quickAnswer: En Stenner Lane, en el barrio de Didsbury, al sur de Mánchester, se encuentra el Jardín Botánico Fletcher Moss, un jardín público de acceso gratuito que abre todos los días de 7am a 8:30pm. Entre semana hay poca gente de 7am a 8pm. Los fines de semana conviene ir entre las 7am y las 9am, ya que de 10am a 6pm es cuando más visitantes hay.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Jardín Botánico Fletcher Moss?

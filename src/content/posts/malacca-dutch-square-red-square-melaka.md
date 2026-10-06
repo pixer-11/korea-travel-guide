@@ -1,44 +1,51 @@
 ---
-title: "Dutch Square (Red Square) Melaka: Malacca Travel Guide"
-description: "Dutch Square (Red Square) Melaka sits in Banda Hilir, at the edge of the Melaka River opposite Jonker Street, and it is open to walk through 24 hours a day. 4.4★ (4,397 reviews) — what visitors say, hours, and tips."
-country: "Malaysia"
-region: "Malacca"
-category: "hidden-gem"
-pubDate: "2026-09-28T15:44:05.648Z"
+title: 'Dutch Square (Red Square) Melaka: Malacca Travel Guide'
+description: >-
+  Dutch Square (Red Square) Melaka sits in Banda Hilir, at the edge of the
+  Melaka River opposite Jonker Street, and it is open to walk through 24 hours a
+  day. 4.4★ (4,411 reviews) — what visitors say, hours, and tips.
+country: Malaysia
+region: Malacca
+category: hidden-gem
+pubDate: '2026-09-28T15:44:05.648Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Melaka%2C_Malaysia_-_Dutch_Square_or_Red_Square%2C_March_2023.jpg/3840px-Melaka%2C_Malaysia_-_Dutch_Square_or_Red_Square%2C_March_2023.jpg"
-  credit: "Photo: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Melaka,_Malaysia_-_Dutch_Square_or_Red_Square,_March_2023.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Melaka%2C_Malaysia_-_Dutch_Square_or_Red_Square%2C_March_2023.jpg/3840px-Melaka%2C_Malaysia_-_Dutch_Square_or_Red_Square%2C_March_2023.jpg
+  credit: 'Photo: Sharon Hahn Darlin / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Melaka,_Malaysia_-_Dutch_Square_or_Red_Square,_March_2023.jpg
+  via: act
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Malacca_Red_Clock_Tower.jpg/3840px-Malacca_Red_Clock_Tower.jpg"
-    credit: "Photo: Natalie.Thoo / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Malacca_Red_Clock_Tower.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Malacca_Red_Clock_Tower.jpg/3840px-Malacca_Red_Clock_Tower.jpg
+    credit: 'Photo: Natalie.Thoo / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Malacca_Red_Clock_Tower.jpg'
 place:
-  id: "ChIJ--gR1N3x0TER9UPh4KKBRFY"
-  name: "Dutch Square (Red Square) Melaka"
-  address: "Banda Hilir, 75200 Melaka, Malaysia"
+  id: ChIJ--gR1N3x0TER9UPh4KKBRFY
+  name: Dutch Square (Red Square) Melaka
+  address: 'Banda Hilir, 75200 Melaka, Malaysia'
   rating: 4.4
-  userRatingsTotal: 4397
-  googleMapsUrl: "https://maps.google.com/?cid=6216235922235671541&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 4411
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=6216235922235671541&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 2.1943663
   lng: 102.2489861
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-09-28
+    updated: 2026-09-28T00:00:00.000Z
     weekdayQuiet:
       - 7
     weekdayBusy:
@@ -66,24 +73,44 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_594652424b4b34685055395245543078334e3152672d2d4a496843"
+    venueId: ven_594652424b4b34685055395245543078334e3152672d2d4a496843
 tags:
-  - "malacca"
-  - "old quarter"
-quickAnswer: "Dutch Square (Red Square) Melaka sits in Banda Hilir, at the edge of the Melaka River opposite Jonker Street, and it is open to walk through 24 hours a day. Go on a weekday between 7am and 8am for the emptiest square and the softest light on the maroon walls. Avoid weekends between 11am and 5pm, when it is at its busiest."
+  - malacca
+  - old quarter
+quickAnswer: >-
+  Dutch Square (Red Square) Melaka sits in Banda Hilir, at the edge of the
+  Melaka River opposite Jonker Street, and it is open to walk through 24 hours a
+  day. Go on a weekday between 7am and 8am for the emptiest square and the
+  softest light on the maroon walls. Avoid weekends between 11am and 5pm, when
+  it is at its busiest.
 faq:
-  - q: "When is the quietest time to visit Dutch Square?"
-    a: "On weekdays it's quietest from 7am to 8am. Skip weekends from 11am to 5pm, the busiest stretch of the week."
-  - q: "Is Dutch Square open at night?"
-    a: "Yes. The square is open 24 hours a day, every day. After dark the trishaws switch on their LED lights. The Stadthuys museum and Christ Church keep their own hours, so check those before you go."
-  - q: "How do I get to Dutch Square from Melaka Sentral?"
-    a: "Take Panorama Melaka bus 17, which stops at Dutch Square, or book a Grab to the Stadthuys. From Kuala Lumpur, take a long-distance bus from TBS to Melaka Sentral first."
-  - q: "How long should I spend there?"
-    a: "About 45 minutes covers the square itself. Allow two to three hours if you're visiting the Stadthuys museum and walking up St Paul's Hill to Porta de Santiago."
-  - q: "What is near Dutch Square?"
-    a: "Jonker Street is just over the Melaka River bridge, and its night market runs Friday to Sunday evenings. The ruins of St Paul's Church and Porta de Santiago are a short walk up and over the hill behind the Stadthuys."
+  - q: When is the quietest time to visit Dutch Square?
+    a: >-
+      On weekdays it's quietest from 7am to 8am. Skip weekends from 11am to 5pm,
+      the busiest stretch of the week.
+  - q: Is Dutch Square open at night?
+    a: >-
+      Yes. The square is open 24 hours a day, every day. After dark the trishaws
+      switch on their LED lights. The Stadthuys museum and Christ Church keep
+      their own hours, so check those before you go.
+  - q: How do I get to Dutch Square from Melaka Sentral?
+    a: >-
+      Take Panorama Melaka bus 17, which stops at Dutch Square, or book a Grab
+      to the Stadthuys. From Kuala Lumpur, take a long-distance bus from TBS to
+      Melaka Sentral first.
+  - q: How long should I spend there?
+    a: >-
+      About 45 minutes covers the square itself. Allow two to three hours if
+      you're visiting the Stadthuys museum and walking up St Paul's Hill to
+      Porta de Santiago.
+  - q: What is near Dutch Square?
+    a: >-
+      Jonker Street is just over the Melaka River bridge, and its night market
+      runs Friday to Sunday evenings. The ruins of St Paul's Church and Porta de
+      Santiago are a short walk up and over the hill behind the Stadthuys.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-06'
 ---
 
 ## Maroon walls, a clock and a fountain

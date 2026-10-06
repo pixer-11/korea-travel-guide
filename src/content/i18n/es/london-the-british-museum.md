@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: london-the-british-museum
-srcHash: '114dae29d38e'
+srcHash: 'd5aaac62ce2a'
 title: 'Museo Británico: guía de viaje por Londres (4.5★)'
-description: 'El Museo Británico se encuentra en Great Russell Street, en el barrio londinense de Bloomsbury, a pocos minutos a pie de las estaciones de Tottenham Court Road y Holborn. 4.5★ (3,063 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'El Museo Británico se encuentra en Great Russell Street, en el barrio londinense de Bloomsbury, a pocos minutos a pie de las estaciones de Tottenham Court Road y Holborn. 4.5★ (3,066 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Museo Británico (British Museum) se encuentra en Great Russell Street, en pleno Bloomsbury, en el centro de Londres. Las estaciones de Tottenham Court Road y Holborn quedan a pocos minutos a pie. Entre semana siempre hay poca gente, sea cual sea la hora de apertura. Si va en fin de semana, conviene llegar a las 10am para estar ya bien adentro de las salas antes de la hora punta, de 12pm a 4pm.
 faq:
   - q: ¿Cuándo hay menos gente en el Museo Británico?

@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: london-borough-market
-srcHash: '28ba8e6b2a9a'
+srcHash: '81a3903fd03d'
 title: 伦敦博罗市场美食指南（4.6★）
 description: 博罗市场（Borough Market）是伦敦最负盛名的食品市场，坐落在萨瑟克区（Southwark）伦敦桥站旁的铁路高架桥下（SE1 9AH）。这里评分4.6★，共有131,255条评价。本文汇总游客口碑、营业时间和实用贴士。
 quickAnswer: 博罗市场（Borough Market）位于萨瑟克区（Southwark）伦敦桥站旁的铁路高架桥下（SE1 9AH），是伦敦名气最大的食品市场。市场周二至周日营业，周一休市。大多数人在熟食摊买了吃的就站着吃。最好挑工作日上午去。周末尽量避开上午11点至下午5点；如果只能周末去，周六下午4点至5点人最少。

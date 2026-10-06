@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: leipzig-leipzig-panometer
-srcHash: '657b94493e51'
+srcHash: 'ca55df4db22c'
 title: 莱比锡全景馆旅行指南（4.5★）
-description: 莱比锡全景馆由一座旧砖砌储气罐改建而成，位于莱比锡南区Richard-Lehmann-Straße 114。这里评分4.5★（9,800条评价），本文汇总游客评价、开放时间和参观建议。
+description: 莱比锡全景馆由一座旧砖砌储气罐改建而成，位于莱比锡南区Richard-Lehmann-Straße 114。这里评分4.5★（9,809条评价），本文汇总游客评价、开放时间和参观建议。
 quickAnswer: 莱比锡全景馆（Panometer Leipzig）由一座旧砖砌储气罐改建而成，地址是莱比锡南区（Leipzig-Süd）Richard-Lehmann-Straße 114。馆内圆形内墙上环绕着艺术家亚德加·阿西西（Yadegar Asisi）创作的360度全景画，游客可登上中央观景塔观赏。工作日10:00–17:00人都不多；周末11:00–16:00最好避开，不如赶在10:00开门时入场。
 faq:
   - q: 什么时候去莱比锡全景馆人最少？

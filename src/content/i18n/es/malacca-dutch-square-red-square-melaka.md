@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: malacca-dutch-square-red-square-melaka
-srcHash: 'e9381767d1f7'
+srcHash: 'e2d2f954fcb5'
 title: 'Plaza Holandesa (Plaza Roja) de Melaka: guía de viaje de Malaca'
-description: En Banda Hilir, a orillas del río Melaka y frente a Jonker Street, se encuentra la Plaza Holandesa (Plaza Roja) de Melaka, que puede recorrerse a pie las 24 horas del día. Con una valoración de 4.4★ (4,397 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
+description: En Banda Hilir, a orillas del río Melaka y frente a Jonker Street, se encuentra la Plaza Holandesa (Plaza Roja) de Melaka, que puede recorrerse a pie las 24 horas del día. Con una valoración de 4.4★ (4,411 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: La Plaza Holandesa (Dutch Square), también llamada Plaza Roja, se encuentra en Banda Hilir, a orillas del río Melaka y frente a Jonker Street. Puede recorrerse a pie las 24 horas del día. Si quiere encontrarla casi vacía y ver sus muros granates bañados por la luz más suave, vaya entre semana, de 7am a 8am. Evite los fines de semana de 11am a 5pm, cuando se registra la mayor afluencia.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la Plaza Holandesa?

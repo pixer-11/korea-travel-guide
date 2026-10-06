@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: manchester-alexandra-park
-srcHash: '728420a14c98'
+srcHash: '77f68d3f8c4f'
 title: 曼彻斯特亚历山德拉公园旅行指南（4.6★）
-description: 亚历山德拉公园（Alexandra Park）位于曼彻斯特南部的罗素街（Russell Street），地处沃利兰奇与莫斯赛德之间。这座维多利亚时代的公园占地60英亩，园内有湖泊、运动场和儿童游乐区，每天6am至午夜开放。公园评分4.6★（4,569条评价），本文汇总游客评价、开放时间和游览建议。
+description: 亚历山德拉公园（Alexandra Park）位于曼彻斯特南部的罗素街（Russell Street），地处沃利兰奇与莫斯赛德之间。这座维多利亚时代的公园占地60英亩，园内有湖泊、运动场和儿童游乐区，每天6am至午夜开放。公园评分4.6★（4,571条评价），本文汇总游客评价、开放时间和游览建议。
 quickAnswer: 亚历山德拉公园（Alexandra Park）位于曼彻斯特南部的罗素街（Russell Street），夹在沃利兰奇（Whalley Range）和莫斯赛德（Moss Side）之间。这座维多利亚时代的公园占地60英亩，园内有湖泊、运动场和儿童游乐区，每天6am至午夜开放。工作日从7am到11pm都很清静。周末8am–6pm游人最多，想独享园中小径，不妨早点来，或者傍晚再来。
 faq:
   - q: 什么时候去亚历山德拉公园人最少？

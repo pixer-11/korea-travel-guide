@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: leipzig-stadtgeschichtliches-museum-leipzig-altes-rathaus
-srcHash: '665661baee7b'
+srcHash: '13f6c2fbd507'
 title: 莱比锡城市历史博物馆·旧市政厅旅行指南
-description: 莱比锡城市历史博物馆设在旧市政厅内。这座文艺复兴风格的市政厅坐落于莱比锡的中心广场集市广场，正下方就是莱比锡集市城铁站。评分4.7★（1,788 条评价），本文汇总游客评价、开放时间和参观建议。
+description: 莱比锡城市历史博物馆设在旧市政厅内。这座文艺复兴风格的市政厅坐落于莱比锡的中心广场集市广场，正下方就是莱比锡集市城铁站。评分4.7★（1,790 条评价），本文汇总游客评价、开放时间和参观建议。
 quickAnswer: 莱比锡城市历史博物馆（Stadtgeschichtliches Museum Leipzig）设在旧市政厅（Altes Rathaus）内。这座文艺复兴风格的市政厅坐落于莱比锡的中心广场集市广场（Markt），正下方就是莱比锡集市城铁站（Leipzig Markt）。博物馆周二至周日上午10点至下午6点开放，周一闭馆。参观历史厅室和馆藏，建议预留90分钟到两小时。
 faq:
   - q: 旧市政厅里的城市历史博物馆周一开放吗？

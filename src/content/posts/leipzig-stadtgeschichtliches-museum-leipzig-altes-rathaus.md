@@ -1,60 +1,85 @@
 ---
-title: "Stadtgeschichtliches Museum Leipzig, Altes Rathaus: Travel Guide"
-description: "The Stadtgeschichtliches Museum Leipzig, Altes Rathaus, is the city history museum inside the Renaissance town hall on the Markt, Leipzig's central square, and Leipzig Markt S-Bahn station is directly beneath it. 4.7★ (1,788 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Leipzig"
-category: "attraction"
-pubDate: "2026-10-02T14:14:47.714Z"
+title: 'Stadtgeschichtliches Museum Leipzig, Altes Rathaus: Travel Guide'
+description: >-
+  The Stadtgeschichtliches Museum Leipzig, Altes Rathaus, is the city history
+  museum inside the Renaissance town hall on the Markt, Leipzig's central
+  square, and Leipzig Markt S-Bahn station is directly beneath it. 4.7★ (1,790
+  reviews) — what visitors say, hours, and tips.
+country: Germany
+region: Leipzig
+category: attraction
+pubDate: '2026-10-02T14:14:47.714Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Eingang_stadtgeschichtliches_Museum_Leipzig_%28altes_Rathaus%29_-_panoramio.jpg"
-  credit: "Photo: Appaloosa_LE / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Eingang_stadtgeschichtliches_Museum_Leipzig_(altes_Rathaus)_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/b1/Eingang_stadtgeschichtliches_Museum_Leipzig_%28altes_Rathaus%29_-_panoramio.jpg
+  credit: 'Photo: Appaloosa_LE / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Eingang_stadtgeschichtliches_Museum_Leipzig_(altes_Rathaus)_-_panoramio.jpg
+  via: act
   focus:
     x: 48
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Leipzig_-_Markt_-_Altes_Rathaus_%2B_Stadtgeschichtliches_Museum_01_ies.jpg/3840px-Leipzig_-_Markt_-_Altes_Rathaus_%2B_Stadtgeschichtliches_Museum_01_ies.jpg"
-    credit: "Photo: Frank Vincentz / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Leipzig_-_Markt_-_Altes_Rathaus_%2B_Stadtgeschichtliches_Museum_01_ies.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Leipzig_-_Markt_-_Altes_Rathaus_%2B_Stadtgeschichtliches_Museum_01_ies.jpg/3840px-Leipzig_-_Markt_-_Altes_Rathaus_%2B_Stadtgeschichtliches_Museum_01_ies.jpg
+    credit: 'Photo: Frank Vincentz / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Leipzig_-_Markt_-_Altes_Rathaus_%2B_Stadtgeschichtliches_Museum_01_ies.jpg
 place:
-  id: "ChIJs_lSViH4pkcR0Opua2Vm_Rg"
-  name: "Stadtgeschichtliches Museum Leipzig, Altes Rathaus"
-  address: "Markt 1, 04109 Leipzig, Germany"
+  id: ChIJs_lSViH4pkcR0Opua2Vm_Rg
+  name: 'Stadtgeschichtliches Museum Leipzig, Altes Rathaus'
+  address: 'Markt 1, 04109 Leipzig, Germany'
   rating: 4.7
-  userRatingsTotal: 1788
-  googleMapsUrl: "https://maps.google.com/?cid=1800708011798227664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1790
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1800708011798227664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.340421
   lng: 12.3753479
-  phone: "+49 341 9651340"
+  phone: +49 341 9651340
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 6:00 PM"
-    - "Wednesday: 10:00 AM – 6:00 PM"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: 10:00 AM – 6:00 PM'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
 tags:
-  - "leipzig"
-  - "top attraction"
-quickAnswer: "The Stadtgeschichtliches Museum Leipzig, Altes Rathaus, is the city history museum inside the Renaissance town hall on the Markt, Leipzig's central square, and Leipzig Markt S-Bahn station is directly beneath it. It's open Tuesday to Sunday from 10am to 6pm and closed on Mondays. Plan on 90 minutes to two hours for the historic rooms and the collection."
+  - leipzig
+  - top attraction
+quickAnswer: >-
+  The Stadtgeschichtliches Museum Leipzig, Altes Rathaus, is the city history
+  museum inside the Renaissance town hall on the Markt, Leipzig's central
+  square, and Leipzig Markt S-Bahn station is directly beneath it. It's open
+  Tuesday to Sunday from 10am to 6pm and closed on Mondays. Plan on 90 minutes
+  to two hours for the historic rooms and the collection.
 faq:
-  - q: "Is the Stadtgeschichtliches Museum in the Altes Rathaus open on Mondays?"
-    a: "No. It's closed on Mondays and open Tuesday to Sunday, 10am to 6pm."
-  - q: "How do I get there by public transport?"
-    a: "Take the S-Bahn to Leipzig Markt, a City-Tunnel station right under the square. You can also walk from Leipzig Hauptbahnhof in about 10 minutes."
-  - q: "How long should I spend inside?"
-    a: "Allow 90 minutes to two hours to see the Festsaal, the Ratsstube, the treasury and the collection properly."
-  - q: "Can I see the famous Bach portrait here?"
-    a: "The museum owns Elias Gottlob Haussmann's 1746 portrait of Johann Sebastian Bach. Check with the museum before you go to make sure it's on display."
-  - q: "What's nearby?"
-    a: "The Alte Börse and Naschmarkt are directly behind the building. Mädler-Passage with Auerbachs Keller is a few steps away, and the Thomaskirche and Nikolaikirche are each about five minutes' walk."
+  - q: Is the Stadtgeschichtliches Museum in the Altes Rathaus open on Mondays?
+    a: 'No. It''s closed on Mondays and open Tuesday to Sunday, 10am to 6pm.'
+  - q: How do I get there by public transport?
+    a: >-
+      Take the S-Bahn to Leipzig Markt, a City-Tunnel station right under the
+      square. You can also walk from Leipzig Hauptbahnhof in about 10 minutes.
+  - q: How long should I spend inside?
+    a: >-
+      Allow 90 minutes to two hours to see the Festsaal, the Ratsstube, the
+      treasury and the collection properly.
+  - q: Can I see the famous Bach portrait here?
+    a: >-
+      The museum owns Elias Gottlob Haussmann's 1746 portrait of Johann
+      Sebastian Bach. Check with the museum before you go to make sure it's on
+      display.
+  - q: What's nearby?
+    a: >-
+      The Alte Börse and Naschmarkt are directly behind the building.
+      Mädler-Passage with Auerbachs Keller is a few steps away, and the
+      Thomaskirche and Nikolaikirche are each about five minutes' walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-06'
 ---
 
 ## A town hall that never quite lines up

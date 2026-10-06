@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: london-two-temple-place
-srcHash: '005c64b00c65'
+srcHash: '6f45e81c0013'
 title: 'Two Temple Place: guía de viaje de Londres (4.6★)'
-description: A pocos pasos de la estación de metro de Temple, en pleno Victoria Embankment londinense, se alza Two Temple Place, una mansión victoriana de estilo neogótico. Con una valoración de 4.6★ (1,215 reseñas), aquí encontrará la opinión de los visitantes, los horarios y consejos prácticos.
+description: A pocos pasos de la estación de metro de Temple, en pleno Victoria Embankment londinense, se alza Two Temple Place, una mansión victoriana de estilo neogótico. Con una valoración de 4.6★ (1,216 reseñas), aquí encontrará la opinión de los visitantes, los horarios y consejos prácticos.
 quickAnswer: A pocos pasos de la estación de metro de Temple, en el Victoria Embankment de Londres, se encuentra Two Temple Place, una mansión victoriana de estilo neogótico. Sus puertas se abren al público sobre todo durante la exposición anual de invierno, dedicada a arte británico de titularidad pública, por lo que conviene consultar las fechas de la temporada en la web oficial antes de ir. Calcule aproximadamente una hora para recorrer las obras, el Gran Salón (Great Hall) revestido de roble y la escalera tallada.
 faq:
   - q: ¿Cómo se llega a Two Temple Place?

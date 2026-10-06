@@ -1,45 +1,53 @@
 ---
-title: "Natural History Museum: London Travel Guide (4.6★)"
-description: "The Natural History Museum in South Kensington, London, opens daily from 10:00am to 5:50pm, and general admission is free. 4.6★ (39,471 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "London"
-category: "attraction"
-pubDate: "2026-10-02T07:51:19.735Z"
+title: 'Natural History Museum: London Travel Guide (4.6★)'
+description: >-
+  The Natural History Museum in South Kensington, London, opens daily from
+  10:00am to 5:50pm, and general admission is free. 4.6★ (39,624 reviews) — what
+  visitors say, hours, and tips.
+country: United Kingdom
+region: London
+category: attraction
+pubDate: '2026-10-02T07:51:19.735Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Natural_History_Museum_Main_Hall%2C_London%2C_UK_-_Diliff.jpg/3840px-Natural_History_Museum_Main_Hall%2C_London%2C_UK_-_Diliff.jpg"
-  credit: "Photo: Diliff / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Natural_History_Museum_Main_Hall,_London,_UK_-_Diliff.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Natural_History_Museum_Main_Hall%2C_London%2C_UK_-_Diliff.jpg/3840px-Natural_History_Museum_Main_Hall%2C_London%2C_UK_-_Diliff.jpg
+  credit: 'Photo: Diliff / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Natural_History_Museum_Main_Hall,_London,_UK_-_Diliff.jpg
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Natural_History_Museum_London_South_Facade_2020_01.jpg/3840px-Natural_History_Museum_London_South_Facade_2020_01.jpg"
-    credit: "Photo: Julian Herzog (Website) / Wikimedia Commons (CC BY 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Natural_History_Museum_London_South_Facade_2020_01.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Natural_History_Museum_London_South_Facade_2020_01.jpg/3840px-Natural_History_Museum_London_South_Facade_2020_01.jpg
+    credit: 'Photo: Julian Herzog (Website) / Wikimedia Commons (CC BY 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Natural_History_Museum_London_South_Facade_2020_01.jpg
 place:
-  id: "ChIJPy8Y5kIFdkgRxGSXw4Xjt3s"
-  name: "Natural History Museum"
-  address: "Cromwell Rd, South Kensington, London SW7 5BD, UK"
+  id: ChIJPy8Y5kIFdkgRxGSXw4Xjt3s
+  name: Natural History Museum
+  address: 'Cromwell Rd, South Kensington, London SW7 5BD, UK'
   rating: 4.6
-  userRatingsTotal: 39471
-  googleMapsUrl: "https://maps.google.com/?cid=8914844151054820548&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 39624
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=8914844151054820548&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.496714999999995
   lng: -0.17636720000000003
-  phone: "+44 20 7942 5000"
+  phone: +44 20 7942 5000
   openingHours:
-    - "Monday: 10:00 AM – 5:50 PM"
-    - "Tuesday: 10:00 AM – 5:50 PM"
-    - "Wednesday: 10:00 AM – 5:50 PM"
-    - "Thursday: 10:00 AM – 5:50 PM"
-    - "Friday: 10:00 AM – 5:50 PM"
-    - "Saturday: 10:00 AM – 5:50 PM"
-    - "Sunday: 10:00 AM – 5:50 PM"
+    - 'Monday: 10:00 AM – 5:50 PM'
+    - 'Tuesday: 10:00 AM – 5:50 PM'
+    - 'Wednesday: 10:00 AM – 5:50 PM'
+    - 'Thursday: 10:00 AM – 5:50 PM'
+    - 'Friday: 10:00 AM – 5:50 PM'
+    - 'Saturday: 10:00 AM – 5:50 PM'
+    - 'Sunday: 10:00 AM – 5:50 PM'
   busyness:
-    updated: 2026-10-02
+    updated: 2026-10-02T00:00:00.000Z
     weekdayQuiet:
       - 10
     weekendQuiet:
@@ -49,24 +57,42 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_7333746a5834775853477852676b6446496b35593879504a496843"
+    venueId: ven_7333746a5834775853477852676b6446496b35593879504a496843
 tags:
-  - "london"
-  - "museum"
-quickAnswer: "The Natural History Museum in South Kensington, London, opens daily from 10:00am to 5:50pm, and general admission is free. Arrive between 10am and 11am, its quietest hour on both weekdays and weekends, and avoid weekends from 12pm to 4pm, when it is at its busiest. Allow three to four hours to see the dinosaurs, the whale in Hintze Hall and the Earth Galleries."
+  - london
+  - museum
+quickAnswer: >-
+  The Natural History Museum in South Kensington, London, opens daily from
+  10:00am to 5:50pm, and general admission is free. Arrive between 10am and
+  11am, its quietest hour on both weekdays and weekends, and avoid weekends from
+  12pm to 4pm, when it is at its busiest. Allow three to four hours to see the
+  dinosaurs, the whale in Hintze Hall and the Earth Galleries.
 faq:
-  - q: "When is the quietest time to visit the Natural History Museum?"
-    a: "Between 10am and 11am, on both weekdays and weekends. That is the first hour after opening. Avoid weekends from 12pm to 4pm, which are the busiest hours."
-  - q: "What are the opening hours?"
-    a: "10:00am to 5:50pm, seven days a week."
-  - q: "Do I need to book?"
-    a: "General admission is free. Booking a free timed slot on the official website is recommended, especially at weekends and in school holidays. Ticketed exhibitions such as Wildlife Photographer of the Year are booked and priced separately. The current price is on the official site."
-  - q: "What's the nearest Tube station?"
-    a: "South Kensington, on the District, Circle and Piccadilly lines. A signed pedestrian subway runs from the station to the Exhibition Road entrance."
-  - q: "How long should I spend there?"
-    a: "Allow three to four hours for Hintze Hall, the Dinosaurs gallery, the Earth Galleries and Mammals. Families often stay most of the day. The Science Museum and the V&A are next door if you have time left."
+  - q: When is the quietest time to visit the Natural History Museum?
+    a: >-
+      Between 10am and 11am, on both weekdays and weekends. That is the first
+      hour after opening. Avoid weekends from 12pm to 4pm, which are the busiest
+      hours.
+  - q: What are the opening hours?
+    a: '10:00am to 5:50pm, seven days a week.'
+  - q: Do I need to book?
+    a: >-
+      General admission is free. Booking a free timed slot on the official
+      website is recommended, especially at weekends and in school holidays.
+      Ticketed exhibitions such as Wildlife Photographer of the Year are booked
+      and priced separately. The current price is on the official site.
+  - q: What's the nearest Tube station?
+    a: >-
+      South Kensington, on the District, Circle and Piccadilly lines. A signed
+      pedestrian subway runs from the station to the Exhibition Road entrance.
+  - q: How long should I spend there?
+    a: >-
+      Allow three to four hours for Hintze Hall, the Dinosaurs gallery, the
+      Earth Galleries and Mammals. Families often stay most of the day. The
+      Science Museum and the V&A are next door if you have time left.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-06'
 ---
 
 ## Under the whale in Hintze Hall
