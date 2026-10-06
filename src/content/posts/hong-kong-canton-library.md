@@ -1,7 +1,7 @@
 ---
 title: 'Canton Library: Where to Eat in Hong Kong'
 description: Canton Library is a modern-heritage Cantonese restaurant on the 29th floor of One Peking in Tsim Sha Tsui, Hong Kong, built around Lingnan flavours rather than the usual banquet-hall format.
-country: China
+country: Hong Kong
 region: Hong Kong
 category: restaurant
 pubDate: '2026-10-04'

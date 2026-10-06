@@ -36,6 +36,7 @@ import { isImageAllowed } from './lib/guardrails.mjs';
 import { verifyHeroImage, recordHeroVerdict } from './lib/vision-check.mjs';
 import { foreignInFilename, geoTokens } from './lib/event-file-identity.mjs';
 import { loadWorld } from './lib/commons-identity.mjs';
+import { ownCountry } from './lib/country-of-city.mjs';
 
 // Place-name tokens for the filename identity audit (a past host city in a
 // file name is WHERE an edition was held, not another act).
@@ -198,13 +199,18 @@ async function loadDone() {
 }
 
 async function writeDiscovered(item, ctx) {
-  const { country, kind, existing, done, existingTopics, eventAnchors } = ctx;
+  const { kind, existing, done, existingTopics, eventAnchors } = ctx;
   if (!item?.name || !item?.city) return false;
   // Multi-stage events can come back with a messy "city" like
   // "Nice (finish) / various French stages". A "/" there becomes the post's
   // region and breaks the /regions/[region] route on a clean build, so reduce it
   // to the primary city (drop anything after a "/", "(", ";" or ",").
   item.city = String(item.city).split(/\s*[/(;]/)[0].split(',')[0].trim() || item.city;
+  // The city decides the country, not the search that found it: China's search
+  // returned a Hong Kong restaurant on 2026-10-05 and it was filed under China
+  // (lib/country-of-city — an exact region match in one other country only).
+  const country = ownCountry(item.city, ctx.country, ctx.countries || []);
+  if (country !== ctx.country) console.log(`   ${item.city}: filed under ${country}, not ${ctx.country}`);
   const cat = kind === 'event' ? 'event'
     : ['restaurant', 'trendy', 'hidden-gem'].includes(item.category) ? item.category : 'trendy';
   const key = `${kind}:${slugify(`${country}-${item.name}`)}`;
@@ -485,7 +491,7 @@ async function main() {
     }
   };
   for (const c of active) {
-    const ctx = { country: c.name, existing, done, existingTopics, usedImages, eventAnchors };
+    const ctx = { country: c.name, countries, existing, done, existingTopics, usedImages, eventAnchors };
     let ev = 0, hs = 0;
     for (const item of await attempt(`${c.name} event discovery`, () => discoverEvents(c.name), [])) {
       if (ev >= EVENTS_PER_COUNTRY) break;

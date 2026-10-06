@@ -1,7 +1,7 @@
 ---
 title: 'Commune Maison: Hong Kong Travel Guide'
 description: 'Commune Maison in Hong Kong, China — a new/trending spot: what it is, where it is, and how to visit.'
-country: China
+country: Hong Kong
 region: Hong Kong
 category: trendy
 pubDate: '2026-09-09'
