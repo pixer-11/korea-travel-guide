@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04",
+  "updated": "2026-10-06",
   "countries": {
     "South Korea": {
       "climate": [
@@ -5344,80 +5344,80 @@
       "climate": [
         {
           "m": 1,
-          "hi": 2,
-          "lo": -3,
-          "rain": 57
-        },
-        {
-          "m": 2,
-          "hi": 5,
+          "hi": 3,
           "lo": -2,
-          "rain": 49
-        },
-        {
-          "m": 3,
-          "hi": 9,
-          "lo": 0,
-          "rain": 42
-        },
-        {
-          "m": 4,
-          "hi": 13,
-          "lo": 3,
-          "rain": 41
-        },
-        {
-          "m": 5,
-          "hi": 18,
-          "lo": 8,
           "rain": 55
         },
         {
+          "m": 2,
+          "hi": 6,
+          "lo": -1,
+          "rain": 48
+        },
+        {
+          "m": 3,
+          "hi": 10,
+          "lo": 1,
+          "rain": 40
+        },
+        {
+          "m": 4,
+          "hi": 14,
+          "lo": 4,
+          "rain": 30
+        },
+        {
+          "m": 5,
+          "hi": 19,
+          "lo": 8,
+          "rain": 36
+        },
+        {
           "m": 6,
-          "hi": 24,
-          "lo": 13,
-          "rain": 74
+          "hi": 26,
+          "lo": 14,
+          "rain": 64
         },
         {
           "m": 7,
-          "hi": 25,
-          "lo": 14,
-          "rain": 70
+          "hi": 26,
+          "lo": 15,
+          "rain": 77
         },
         {
           "m": 8,
-          "hi": 25,
-          "lo": 14,
-          "rain": 80
+          "hi": 26,
+          "lo": 15,
+          "rain": 51
         },
         {
           "m": 9,
-          "hi": 21,
-          "lo": 10,
-          "rain": 58
+          "hi": 22,
+          "lo": 11,
+          "rain": 38
         },
         {
           "m": 10,
-          "hi": 15,
-          "lo": 6,
-          "rain": 58
+          "hi": 16,
+          "lo": 7,
+          "rain": 56
         },
         {
           "m": 11,
-          "hi": 7,
-          "lo": 1,
-          "rain": 45
+          "hi": 8,
+          "lo": 2,
+          "rain": 47
         },
         {
           "m": 12,
           "hi": 4,
-          "lo": -1,
-          "rain": 52
+          "lo": 0,
+          "rain": 49
         }
       ],
-      "climateCity": "Dresden",
-      "climateLat": 51.052996199999995,
-      "climateLng": 13.7339266,
+      "climateCity": "Berlin",
+      "climateLat": 52.5190608,
+      "climateLng": 13.401078,
       "climateYears": 10,
       "holidays": [
         {
@@ -5588,8 +5588,8 @@
         }
       ],
       "climateCity": "Mexico City",
-      "climateLat": 19.4343942,
-      "climateLng": -99.13308239999999,
+      "climateLat": 19.4847584,
+      "climateLng": -99.1178893,
       "climateYears": 10,
       "holidays": [
         {
@@ -5661,6 +5661,210 @@
           "date": "2027-12-25",
           "name": "Christmas Day",
           "localName": "Navidad"
+        }
+      ]
+    },
+    "Macau": {
+      "holidays": [
+        {
+          "date": "2026-01-01",
+          "name": "New Year's Day",
+          "localName": "元旦"
+        },
+        {
+          "date": "2026-02-17",
+          "name": "Chinese New Year's Day",
+          "localName": "農曆正月初一"
+        },
+        {
+          "date": "2026-02-18",
+          "name": "The second day of Chinese New Year",
+          "localName": "農曆正月初二"
+        },
+        {
+          "date": "2026-02-19",
+          "name": "The third day of Chinese New Year",
+          "localName": "農曆正月初三"
+        },
+        {
+          "date": "2026-04-03",
+          "name": "Good Friday",
+          "localName": "耶穌受難日"
+        },
+        {
+          "date": "2026-04-04",
+          "name": "The Day before Easter",
+          "localName": "復活節前日"
+        },
+        {
+          "date": "2026-04-05",
+          "name": "Tomb-Sweeping Day",
+          "localName": "清明節"
+        },
+        {
+          "date": "2026-05-01",
+          "name": "Labor Day",
+          "localName": "勞動節"
+        },
+        {
+          "date": "2026-05-24",
+          "name": "The Buddha's Birthday",
+          "localName": "佛誕節"
+        },
+        {
+          "date": "2026-06-19",
+          "name": "Dragon Boat Festival",
+          "localName": "端午節"
+        },
+        {
+          "date": "2026-09-26",
+          "name": "The Day following Mid-Autumn Festival",
+          "localName": "中秋節翌日"
+        },
+        {
+          "date": "2026-10-01",
+          "name": "National Day of the People's Republic of China",
+          "localName": "中華人民共和國國慶日"
+        },
+        {
+          "date": "2026-10-02",
+          "name": "The day following National Day of the People's Republic of China",
+          "localName": "中華人民共和國國慶日翌日"
+        },
+        {
+          "date": "2026-10-18",
+          "name": "Double Ninth Festival",
+          "localName": "重陽節"
+        },
+        {
+          "date": "2026-11-02",
+          "name": "All Souls' Day",
+          "localName": "追思節"
+        },
+        {
+          "date": "2026-12-08",
+          "name": "Immaculate Conception",
+          "localName": "聖母無原罪瞻禮"
+        },
+        {
+          "date": "2026-12-20",
+          "name": "Macao S.A.R. Establishment Day",
+          "localName": "澳門特別行政區成立紀念日"
+        },
+        {
+          "date": "2026-12-22",
+          "name": "Winter Solstice",
+          "localName": "冬至"
+        },
+        {
+          "date": "2026-12-24",
+          "name": "Christmas Eve",
+          "localName": "聖誕節前日"
+        },
+        {
+          "date": "2026-12-25",
+          "name": "Christmas Day",
+          "localName": "聖誕節"
+        },
+        {
+          "date": "2027-01-01",
+          "name": "New Year's Day",
+          "localName": "元旦"
+        },
+        {
+          "date": "2027-02-06",
+          "name": "Chinese New Year's Day",
+          "localName": "農曆正月初一"
+        },
+        {
+          "date": "2027-02-07",
+          "name": "The second day of Chinese New Year",
+          "localName": "農曆正月初二"
+        },
+        {
+          "date": "2027-02-08",
+          "name": "The third day of Chinese New Year",
+          "localName": "農曆正月初三"
+        },
+        {
+          "date": "2027-03-26",
+          "name": "Good Friday",
+          "localName": "耶穌受難日"
+        },
+        {
+          "date": "2027-03-27",
+          "name": "The Day before Easter",
+          "localName": "復活節前日"
+        },
+        {
+          "date": "2027-04-05",
+          "name": "Tomb-Sweeping Day",
+          "localName": "清明節"
+        },
+        {
+          "date": "2027-05-01",
+          "name": "Labor Day",
+          "localName": "勞動節"
+        },
+        {
+          "date": "2027-05-13",
+          "name": "The Buddha's Birthday",
+          "localName": "佛誕節"
+        },
+        {
+          "date": "2027-06-09",
+          "name": "Dragon Boat Festival",
+          "localName": "端午節"
+        },
+        {
+          "date": "2027-09-16",
+          "name": "The Day following Mid-Autumn Festival",
+          "localName": "中秋節翌日"
+        },
+        {
+          "date": "2027-10-01",
+          "name": "National Day of the People's Republic of China",
+          "localName": "中華人民共和國國慶日"
+        },
+        {
+          "date": "2027-10-02",
+          "name": "The day following National Day of the People's Republic of China",
+          "localName": "中華人民共和國國慶日翌日"
+        },
+        {
+          "date": "2027-10-08",
+          "name": "Double Ninth Festival",
+          "localName": "重陽節"
+        },
+        {
+          "date": "2027-11-02",
+          "name": "All Souls' Day",
+          "localName": "追思節"
+        },
+        {
+          "date": "2027-12-08",
+          "name": "Immaculate Conception",
+          "localName": "聖母無原罪瞻禮"
+        },
+        {
+          "date": "2027-12-20",
+          "name": "Macao S.A.R. Establishment Day",
+          "localName": "澳門特別行政區成立紀念日"
+        },
+        {
+          "date": "2027-12-22",
+          "name": "Winter Solstice",
+          "localName": "冬至"
+        },
+        {
+          "date": "2027-12-24",
+          "name": "Christmas Eve",
+          "localName": "聖誕節前日"
+        },
+        {
+          "date": "2027-12-25",
+          "name": "Christmas Day",
+          "localName": "聖誕節"
         }
       ]
     }

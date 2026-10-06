@@ -24,7 +24,9 @@ import holidays
 # 2026-09-24 dropped both (found 2026-10-05). "optional" ALONE, not with
 # "public": the union names shared days twice (Easter Monday + the day after
 # Tomb-Sweeping Day on 2026-04-06).
-CATEGORIES = {"HK": ("optional",)}
+# Macau is built the same way: "public" is ten statutory days without
+# Christmas or Good Friday; the general holidays are "optional" (2026-10-06).
+CATEGORIES = {"HK": ("optional",), "MO": ("optional",)}
 
 # The UK's no-subdivision set is only what all four nations share, which drops
 # Easter Monday and the late-summer bank holiday — days England, Wales and

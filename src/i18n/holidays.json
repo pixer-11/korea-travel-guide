@@ -407,6 +407,60 @@
     "zh": "圣灵降临节星期一",
     "es": "Lunes de Pentecostés"
   },
+  "Germany|Ascension Day": {
+    "ko": "예수 승천 대축일",
+    "ja": "キリスト昇天祭",
+    "es": "Día de la Ascensión",
+    "zh": "耶稣升天节"
+  },
+  "Germany|Christmas Day": {
+    "ko": "크리스마스",
+    "ja": "クリスマス",
+    "es": "Navidad",
+    "zh": "圣诞节"
+  },
+  "Germany|Easter Monday": {
+    "ko": "부활절 월요일",
+    "ja": "イースターマンデー",
+    "es": "Lunes de Pascua",
+    "zh": "复活节星期一"
+  },
+  "Germany|German Unity Day": {
+    "ko": "독일 통일의 날",
+    "ja": "ドイツ統一の日",
+    "es": "Día de la Unidad Alemana",
+    "zh": "德国统一日"
+  },
+  "Germany|Good Friday": {
+    "ko": "성금요일",
+    "ja": "聖金曜日",
+    "es": "Viernes Santo",
+    "zh": "耶稣受难日"
+  },
+  "Germany|Labor Day": {
+    "ko": "노동절",
+    "ja": "メーデー",
+    "es": "Día del Trabajo",
+    "zh": "劳动节"
+  },
+  "Germany|New Year's Day": {
+    "ko": "신정",
+    "ja": "元日",
+    "es": "Año Nuevo",
+    "zh": "元旦"
+  },
+  "Germany|Pentecost Monday": {
+    "ko": "성령강림절 월요일",
+    "ja": "聖霊降臨祭の月曜日",
+    "es": "Lunes de Pentecostés",
+    "zh": "圣灵降临节星期一"
+  },
+  "Germany|Second Day of Christmas": {
+    "ko": "크리스마스 둘째 날",
+    "ja": "クリスマス第2祝日",
+    "es": "Segundo día de Navidad",
+    "zh": "圣诞节第二天"
+  },
   "Hong Kong|Boxing Day": {
     "ko": "크리스마스 다음날",
     "ja": "クリスマスの翌日",
@@ -550,6 +604,36 @@
     "ja": "中秋節翌日",
     "es": "Día siguiente al Festival del Medio Otoño",
     "zh": "中秋节翌日"
+  },
+  "Hong Kong|The day following Double Ninth Festival": {
+    "ko": "중양절 다음 날",
+    "ja": "重陽節の翌日",
+    "es": "Día siguiente al Festival de Chong Yang",
+    "zh": "重阳节翌日"
+  },
+  "Hong Kong|The day following Easter Monday": {
+    "ko": "부활절 월요일 다음 날",
+    "ja": "イースターマンデーの翌日",
+    "es": "Día siguiente al Lunes de Pascua",
+    "zh": "复活节星期一翌日"
+  },
+  "Hong Kong|The day following Good Friday": {
+    "ko": "성금요일 다음 날",
+    "ja": "聖金曜日の翌日",
+    "es": "Día siguiente al Viernes Santo",
+    "zh": "耶稣受难节翌日"
+  },
+  "Hong Kong|The day following Tomb-Sweeping Day": {
+    "ko": "청명절 다음 날",
+    "ja": "清明節の翌日",
+    "es": "Día siguiente al Festival de Qingming",
+    "zh": "清明节翌日"
+  },
+  "Hong Kong|The day following the Buddha's Birthday": {
+    "ko": "석가탄신일 다음 날",
+    "ja": "釈迦誕生日の翌日",
+    "es": "Día siguiente al Cumpleaños de Buda",
+    "zh": "佛诞翌日"
   },
   "Hong Kong|The first weekday after Christmas Day": {
     "ko": "크리스마스 다음 평일",
@@ -1409,6 +1493,126 @@
     "zh": "春分之日",
     "es": "Día del Equinoccio de Primavera"
   },
+  "Macau|All Souls' Day": {
+    "ko": "위령의 날",
+    "ja": "万霊節",
+    "es": "Día de los Fieles Difuntos",
+    "zh": "追思节"
+  },
+  "Macau|Chinese New Year's Day": {
+    "ko": "춘절(설)",
+    "ja": "旧正月",
+    "es": "Año Nuevo Chino",
+    "zh": "农历新年"
+  },
+  "Macau|Christmas Day": {
+    "ko": "크리스마스",
+    "ja": "クリスマス",
+    "es": "Navidad",
+    "zh": "圣诞节"
+  },
+  "Macau|Christmas Eve": {
+    "ko": "크리스마스 이브",
+    "ja": "クリスマスイブ",
+    "es": "Nochebuena",
+    "zh": "圣诞节前夕"
+  },
+  "Macau|Double Ninth Festival": {
+    "ko": "중양절",
+    "ja": "重陽節",
+    "es": "Festival de Doble Nueve (Chong Yang)",
+    "zh": "重阳节"
+  },
+  "Macau|Dragon Boat Festival": {
+    "ko": "단오",
+    "ja": "端午節",
+    "es": "Festival del Barco del Dragón",
+    "zh": "端午节"
+  },
+  "Macau|Good Friday": {
+    "ko": "성금요일",
+    "ja": "聖金曜日",
+    "es": "Viernes Santo",
+    "zh": "耶稣受难日"
+  },
+  "Macau|Immaculate Conception": {
+    "ko": "성모 무원죄 잉태 대축일",
+    "ja": "無原罪の聖母",
+    "es": "Inmaculada Concepción",
+    "zh": "圣母无原罪瞻礼"
+  },
+  "Macau|Labor Day": {
+    "ko": "노동절",
+    "ja": "労働節",
+    "es": "Día del Trabajo",
+    "zh": "劳动节"
+  },
+  "Macau|Macao S.A.R. Establishment Day": {
+    "ko": "마카오 특별행정구 수립 기념일",
+    "ja": "マカオ特別行政区成立記念日",
+    "es": "Día del Establecimiento de la RAE de Macao",
+    "zh": "澳门特别行政区成立纪念日"
+  },
+  "Macau|National Day of the People's Republic of China": {
+    "ko": "중화인민공화국 국경절",
+    "ja": "中華人民共和国国慶節",
+    "es": "Día Nacional de la República Popular China",
+    "zh": "中华人民共和国国庆节"
+  },
+  "Macau|New Year's Day": {
+    "ko": "신정",
+    "ja": "元日",
+    "es": "Año Nuevo",
+    "zh": "元旦"
+  },
+  "Macau|The Buddha's Birthday": {
+    "ko": "부처님 오신 날",
+    "ja": "釈迦誕生日",
+    "es": "Cumpleaños de Buda",
+    "zh": "佛诞节"
+  },
+  "Macau|The Day before Easter": {
+    "ko": "부활절 전날",
+    "ja": "復活祭の前日",
+    "es": "Sábado Santo",
+    "zh": "复活节前日"
+  },
+  "Macau|The Day following Mid-Autumn Festival": {
+    "ko": "중추절 다음날",
+    "ja": "中秋節翌日",
+    "es": "Día siguiente al Festival del Medio Otoño",
+    "zh": "中秋节翌日"
+  },
+  "Macau|The day following National Day of the People's Republic of China": {
+    "ko": "중국 국경절 다음날",
+    "ja": "国慶節翌日",
+    "es": "Día siguiente a la Fiesta Nacional de la República Popular China",
+    "zh": "中华人民共和国国庆日翌日"
+  },
+  "Macau|The second day of Chinese New Year": {
+    "ko": "춘절 이튿날",
+    "ja": "旧正月二日目",
+    "es": "Segundo día del Año Nuevo Chino",
+    "zh": "农历年初二"
+  },
+  "Macau|The third day of Chinese New Year": {
+    "ko": "춘절 사흗날",
+    "ja": "旧正月三日目",
+    "es": "Tercer día del Año Nuevo Chino",
+    "zh": "农历年初三"
+  },
+  "Macau|Tomb-Sweeping Day": {
+    "ko": "청명절",
+    "ja": "清明節",
+    "es": "Festival Qingming",
+    "zh": "清明节"
+  },
+  "Macau|Winter Solstice": {
+    "ko": "동지",
+    "ja": "冬至",
+    "es": "Solsticio de Invierno",
+    "zh": "冬至"
+  },
   "Malaysia|Awal Muharram": {
     "ko": "이슬람력 새해",
     "zh": "伊斯兰新年",
@@ -1780,6 +1984,48 @@
     "ja": "ウェーサク祭(振替休日)",
     "es": "Vesak",
     "zh": "卫塞节"
+  },
+  "Mexico|Benito Juárez's birthday": {
+    "ko": "베니토 후아레스 탄생일",
+    "ja": "ベニート・フアレス生誕記念日",
+    "es": "Natalicio de Benito Juárez",
+    "zh": "贝尼托·华雷斯诞辰"
+  },
+  "Mexico|Christmas Day": {
+    "ko": "크리스마스",
+    "ja": "クリスマス",
+    "es": "Navidad",
+    "zh": "圣诞节"
+  },
+  "Mexico|Constitution Day": {
+    "ko": "멕시코 헌법 기념일",
+    "ja": "メキシコ憲法記念日",
+    "es": "Día de la Constitución",
+    "zh": "墨西哥宪法日"
+  },
+  "Mexico|Independence Day": {
+    "ko": "멕시코 독립기념일",
+    "ja": "メキシコ独立記念日",
+    "es": "Día de la Independencia",
+    "zh": "墨西哥独立日"
+  },
+  "Mexico|Labor Day": {
+    "ko": "노동절",
+    "ja": "メーデー",
+    "es": "Día del Trabajo",
+    "zh": "劳动节"
+  },
+  "Mexico|New Year's Day": {
+    "ko": "신정",
+    "ja": "元日",
+    "es": "Año Nuevo",
+    "zh": "元旦"
+  },
+  "Mexico|Revolution Day": {
+    "ko": "멕시코 혁명 기념일",
+    "ja": "メキシコ革命記念日",
+    "es": "Día de la Revolución",
+    "zh": "墨西哥革命纪念日"
   },
   "Philippines|All Saints' Day": {
     "ko": "만성절",
@@ -3299,11 +3545,23 @@
     "es": "Navidad (trasladada)",
     "zh": "圣诞节(顺延假期)"
   },
+  "United Kingdom|Easter Monday": {
+    "ko": "부활절 월요일",
+    "ja": "イースターマンデー",
+    "es": "Lunes de Pascua",
+    "zh": "复活节星期一"
+  },
   "United Kingdom|Good Friday": {
     "ko": "성금요일",
     "ja": "聖金曜日",
     "es": "Viernes Santo",
     "zh": "耶稣受难日"
+  },
+  "United Kingdom|Late Summer Bank Holiday": {
+    "ko": "서머 뱅크 홀리데이",
+    "ja": "サマー・バンク・ホリデー",
+    "es": "Día festivo de finales de verano",
+    "zh": "夏末银行假日"
   },
   "United Kingdom|May Day": {
     "ko": "노동절",
@@ -3616,143 +3874,5 @@
     "ja": "テト3日目",
     "es": "Tercer día del Tet",
     "zh": "大年初三"
-  },
-  "Germany|New Year's Day": {
-    "ko": "신정",
-    "ja": "元日",
-    "es": "Año Nuevo",
-    "zh": "元旦"
-  },
-  "Germany|Good Friday": {
-    "ko": "성금요일",
-    "ja": "聖金曜日",
-    "es": "Viernes Santo",
-    "zh": "耶稣受难日"
-  },
-  "Germany|Easter Monday": {
-    "ko": "부활절 월요일",
-    "ja": "イースターマンデー",
-    "es": "Lunes de Pascua",
-    "zh": "复活节星期一"
-  },
-  "Germany|Labor Day": {
-    "ko": "노동절",
-    "ja": "メーデー",
-    "es": "Día del Trabajo",
-    "zh": "劳动节"
-  },
-  "Germany|Ascension Day": {
-    "ko": "예수 승천 대축일",
-    "ja": "キリスト昇天祭",
-    "es": "Día de la Ascensión",
-    "zh": "耶稣升天节"
-  },
-  "Germany|Pentecost Monday": {
-    "ko": "성령강림절 월요일",
-    "ja": "聖霊降臨祭の月曜日",
-    "es": "Lunes de Pentecostés",
-    "zh": "圣灵降临节星期一"
-  },
-  "Germany|German Unity Day": {
-    "ko": "독일 통일의 날",
-    "ja": "ドイツ統一の日",
-    "es": "Día de la Unidad Alemana",
-    "zh": "德国统一日"
-  },
-  "Germany|Christmas Day": {
-    "ko": "크리스마스",
-    "ja": "クリスマス",
-    "es": "Navidad",
-    "zh": "圣诞节"
-  },
-  "Germany|Second Day of Christmas": {
-    "ko": "크리스마스 둘째 날",
-    "ja": "クリスマス第2祝日",
-    "es": "Segundo día de Navidad",
-    "zh": "圣诞节第二天"
-  },
-  "Mexico|New Year's Day": {
-    "ko": "신정",
-    "ja": "元日",
-    "es": "Año Nuevo",
-    "zh": "元旦"
-  },
-  "Mexico|Constitution Day": {
-    "ko": "멕시코 헌법 기념일",
-    "ja": "メキシコ憲法記念日",
-    "es": "Día de la Constitución",
-    "zh": "墨西哥宪法日"
-  },
-  "Mexico|Benito Juárez's birthday": {
-    "ko": "베니토 후아레스 탄생일",
-    "ja": "ベニート・フアレス生誕記念日",
-    "es": "Natalicio de Benito Juárez",
-    "zh": "贝尼托·华雷斯诞辰"
-  },
-  "Mexico|Labor Day": {
-    "ko": "노동절",
-    "ja": "メーデー",
-    "es": "Día del Trabajo",
-    "zh": "劳动节"
-  },
-  "Mexico|Independence Day": {
-    "ko": "멕시코 독립기념일",
-    "ja": "メキシコ独立記念日",
-    "es": "Día de la Independencia",
-    "zh": "墨西哥独立日"
-  },
-  "Mexico|Revolution Day": {
-    "ko": "멕시코 혁명 기념일",
-    "ja": "メキシコ革命記念日",
-    "es": "Día de la Revolución",
-    "zh": "墨西哥革命纪念日"
-  },
-  "Mexico|Christmas Day": {
-    "ko": "크리스마스",
-    "ja": "クリスマス",
-    "es": "Navidad",
-    "zh": "圣诞节"
-  },
-  "Hong Kong|The day following Good Friday": {
-    "ko": "성금요일 다음 날",
-    "ja": "聖金曜日の翌日",
-    "es": "Día siguiente al Viernes Santo",
-    "zh": "耶稣受难节翌日"
-  },
-  "Hong Kong|The day following Tomb-Sweeping Day": {
-    "ko": "청명절 다음 날",
-    "ja": "清明節の翌日",
-    "es": "Día siguiente al Festival de Qingming",
-    "zh": "清明节翌日"
-  },
-  "Hong Kong|The day following Easter Monday": {
-    "ko": "부활절 월요일 다음 날",
-    "ja": "イースターマンデーの翌日",
-    "es": "Día siguiente al Lunes de Pascua",
-    "zh": "复活节星期一翌日"
-  },
-  "Hong Kong|The day following the Buddha's Birthday": {
-    "ko": "석가탄신일 다음 날",
-    "ja": "釈迦誕生日の翌日",
-    "es": "Día siguiente al Cumpleaños de Buda",
-    "zh": "佛诞翌日"
-  },
-  "Hong Kong|The day following Double Ninth Festival": {
-    "ko": "중양절 다음 날",
-    "ja": "重陽節の翌日",
-    "es": "Día siguiente al Festival de Chong Yang",
-    "zh": "重阳节翌日"
-  },
-  "United Kingdom|Easter Monday": {
-    "ko": "부활절 월요일",
-    "ja": "イースターマンデー",
-    "es": "Lunes de Pascua",
-    "zh": "复活节星期一"
-  },
-  "United Kingdom|Late Summer Bank Holiday": {
-    "ko": "서머 뱅크 홀리데이",
-    "ja": "サマー・バンク・ホリデー",
-    "es": "Día festivo de finales de verano",
-    "zh": "夏末银行假日"
   }
 }

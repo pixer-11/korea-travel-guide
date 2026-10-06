@@ -13,6 +13,7 @@ export const ESIM_REGION_OF = {
   china: 'eastAsia',
   taiwan: 'eastAsia',
   'hong-kong': 'eastAsia',
+  macau: 'eastAsia',
   // Southeast & South Asia
   thailand: 'southAsia',
   vietnam: 'southAsia',

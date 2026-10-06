@@ -646,6 +646,31 @@
         "Cozumel"
       ],
       "continent": "North America"
+    },
+    {
+      "name": "Macau",
+      "iso2": "mo",
+      "priority": 23,
+      "slug": "macau",
+      "flag": "🇲🇴",
+      "active": true,
+      "blurb": "A compact city where Portuguese tiled squares, Cantonese temples and egg-tart bakeries sit minutes from the Cotai resorts. A Special Administrative Region of China with its own pataca, entry rules and open internet.",
+      "regions": [
+        "Macau",
+        "Macau Peninsula",
+        "Taipa",
+        "Taipa Village",
+        "Cotai",
+        "Coloane",
+        "Coloane Village",
+        "Barra",
+        "NAPE",
+        "St. Lazarus Quarter",
+        "Guia",
+        "Fisherman's Wharf",
+        "Hac Sa"
+      ],
+      "continent": "Asia"
     }
   ]
 }

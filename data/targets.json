@@ -1594,6 +1594,230 @@
       "topic": "Toyosu Market",
       "category": "restaurant",
       "query": "Toyosu Market Tokyo Japan"
+    },
+    {
+      "country": "Macau",
+      "region": "Macau Peninsula",
+      "topic": "Ruins of St. Paul's",
+      "category": "attraction",
+      "query": "Ruins of St. Paul's Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "Macau Peninsula",
+      "topic": "Senado Square",
+      "category": "attraction",
+      "query": "Senado Square Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "Macau Peninsula",
+      "topic": "Monte Fort",
+      "category": "attraction",
+      "query": "Mount Fortress Monte Fort Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "Macau Peninsula",
+      "topic": "Macau Museum",
+      "category": "attraction",
+      "query": "Macau Museum Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "Macau Peninsula",
+      "topic": "St. Dominic's Church",
+      "category": "attraction",
+      "query": "St. Dominic's Church Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "Macau Peninsula",
+      "topic": "Lou Kau Mansion",
+      "category": "hidden-gem",
+      "query": "Lou Kau Mansion Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "Macau Peninsula",
+      "topic": "Red Market",
+      "category": "hidden-gem",
+      "query": "Red Market Mercado Vermelho Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "Macau Peninsula",
+      "topic": "Lin Fung Temple",
+      "category": "hidden-gem",
+      "query": "Lin Fung Temple Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "Macau Peninsula",
+      "topic": "Camões Garden",
+      "category": "attraction",
+      "query": "Camoes Garden Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "Macau Peninsula",
+      "topic": "Macau Tower",
+      "category": "attraction",
+      "query": "Macau Tower Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "Macau Peninsula",
+      "topic": "Margaret's Café e Nata",
+      "category": "restaurant",
+      "query": "Margaret's Cafe e Nata Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "Macau Peninsula",
+      "topic": "Wong Chi Kei",
+      "category": "restaurant",
+      "query": "Wong Chi Kei congee noodle Senado Square Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "Barra",
+      "topic": "A-Ma Temple",
+      "category": "attraction",
+      "query": "A-Ma Temple Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "Barra",
+      "topic": "Mandarin's House",
+      "category": "attraction",
+      "query": "Mandarin's House Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "Barra",
+      "topic": "Lilau Square",
+      "category": "hidden-gem",
+      "query": "Lilau Square Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "Barra",
+      "topic": "Penha Hill",
+      "category": "hidden-gem",
+      "query": "Our Lady of Penha Chapel Penha Hill Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "Barra",
+      "topic": "Restaurante Litoral",
+      "category": "restaurant",
+      "query": "Restaurante Litoral Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "Guia",
+      "topic": "Guia Fortress",
+      "category": "attraction",
+      "query": "Guia Fortress and Lighthouse Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "NAPE",
+      "topic": "Kun Iam Statue",
+      "category": "attraction",
+      "query": "Kun Iam Statue Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "NAPE",
+      "topic": "Macau Grand Prix Museum",
+      "category": "attraction",
+      "query": "Macau Grand Prix Museum Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "St. Lazarus Quarter",
+      "topic": "St. Lazarus Church",
+      "category": "hidden-gem",
+      "query": "St. Lazarus Church Albergue SCM Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "Fisherman's Wharf",
+      "topic": "Macau Fisherman's Wharf",
+      "category": "attraction",
+      "query": "Macau Fisherman's Wharf Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "Taipa Village",
+      "topic": "Taipa Houses Museum",
+      "category": "attraction",
+      "query": "Taipa Houses Museum Casas Museu Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "Taipa Village",
+      "topic": "Rua do Cunha",
+      "category": "hidden-gem",
+      "query": "Rua do Cunha food street Taipa Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "Taipa Village",
+      "topic": "António Restaurant",
+      "category": "restaurant",
+      "query": "Antonio Restaurant Taipa Village Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "Cotai",
+      "topic": "The Venetian Macao",
+      "category": "trendy",
+      "query": "The Venetian Macao Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "Cotai",
+      "topic": "Wynn Palace",
+      "category": "trendy",
+      "query": "Wynn Palace Cotai Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "Coloane Village",
+      "topic": "Lord Stow's Bakery",
+      "category": "restaurant",
+      "query": "Lord Stow's Bakery Coloane Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "Coloane Village",
+      "topic": "Chapel of St. Francis Xavier",
+      "category": "attraction",
+      "query": "Chapel of St Francis Xavier Coloane Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "Coloane",
+      "topic": "Giant Panda Pavilion",
+      "category": "attraction",
+      "query": "Macao Giant Panda Pavilion Seac Pai Van Park Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "Hac Sa",
+      "topic": "Hac Sa Beach",
+      "category": "attraction",
+      "query": "Hac Sa Beach Macau"
+    },
+    {
+      "country": "Macau",
+      "region": "Hac Sa",
+      "topic": "Fernando's Restaurant",
+      "category": "restaurant",
+      "query": "Fernando's Restaurant Hac Sa Macau"
     }
   ]
 }

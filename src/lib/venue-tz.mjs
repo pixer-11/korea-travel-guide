@@ -26,6 +26,7 @@ export const COUNTRY_TZ = {
   Turkey: 'Europe/Istanbul',
   Singapore: 'Asia/Singapore',
   'Hong Kong': 'Asia/Hong_Kong',
+  Macau: 'Asia/Macau',
   Uzbekistan: 'Asia/Tashkent',
   Cambodia: 'Asia/Phnom_Penh',
   'United Kingdom': 'Europe/London',

@@ -45,6 +45,7 @@ export const KLOOK_CITY: Record<string, KlookCity> = {
   "Guilin": { id: 62, slug: 'guilin', country: "China" },
   "Hangzhou": { id: 19190, slug: 'hangzhou', country: "China" },
   "Hong Kong": { id: 2, slug: 'hong-kong', country: "Hong Kong" }, // own country since 2026-08-13 (was region of China)
+  "Macau": { id: 3, slug: 'macau', country: "Macau" }, // own country since 2026-10-06; Klook sitemap c3-macau; its districts reach it through the city-state rule
   "Qingdao": { id: 14950, slug: 'qingdao', country: "China" },
   "Shenzhen": { id: 23301, slug: 'shenzhen', country: "China" },
   "Suzhou": { id: 16549, slug: 'suzhou', country: "China" },

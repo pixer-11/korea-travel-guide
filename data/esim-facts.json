@@ -390,5 +390,20 @@
       "Download offline maps before a road trip to ruins, cenotes or mountain towns, and save your bus tickets and hotel addresses on the phone.",
       "Cancun and the rest of Quintana Roo run one hour ahead of Mexico City all year, so check the local time on tour and bus bookings when you travel between the two."
     ]
+  },
+  "macau": {
+    "name": "Macau",
+    "carriers": [
+      "CTM",
+      "3 Macau",
+      "China Telecom (Macau)"
+    ],
+    "intro": "Macau has three mobile networks: CTM, 3 Macau (Hutchison) and China Telecom (Macau). It is its own telecom market, separate from both Hong Kong and mainland China, so the thing to check before you buy is whether a regional plan names Macau at all: many Hong Kong and China plans stop at the border.",
+    "coverage": "The whole territory is small: the peninsula, Taipa, Cotai and Coloane together are a short bus or taxi ride end to end, and the networks serve all of it. Free public WiFi runs under the FreeWiFi.MO name, so a modest data plan covers a typical stay.",
+    "tips": [
+      "If you arrive on the ferry or bridge bus from Hong Kong, confirm your eSIM covers Macau separately: a Hong Kong-only plan leaves you offline the moment you land.",
+      "A trip that continues into mainland China (Zhuhai is next door) needs a plan that covers the mainland too, and Google services do not work there; save the maps you need while still in Macau.",
+      "Look for the FreeWiFi.MO network at tourist sites and public buildings to save data."
+    ]
   }
 }

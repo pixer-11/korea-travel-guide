@@ -25,6 +25,7 @@ export const COUNTRY_TIME: Record<string, { tz: string; city: string; multi?: bo
   TR: { tz: 'Europe/Istanbul', city: 'Istanbul' },
   SG: { tz: 'Asia/Singapore', city: 'Singapore' },
   HK: { tz: 'Asia/Hong_Kong', city: 'Hong Kong' },
+  MO: { tz: 'Asia/Macau', city: 'Macau' },
   UZ: { tz: 'Asia/Tashkent', city: 'Tashkent' },
   KH: { tz: 'Asia/Phnom_Penh', city: 'Phnom Penh' },
   AU: { tz: 'Australia/Sydney', city: 'Sydney', multi: true },

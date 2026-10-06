@@ -880,6 +880,7 @@ const COUNTRY_LANG = {
   // Cantonese + English are both official and reviews arrive in both, so an
   // English review is not evidence of a tourist — same reasoning as Singapore.
   'Hong Kong': null,
+  Macau: null, // Cantonese and Portuguese are both official; city-state like Hong Kong
   // 영어권이라 영어 리뷰가 관광객이라는 증거가 못 된다 — 미국과 같은 이유(2026-09-28).
   Australia: null,
   // 영어권이라 영어 리뷰가 관광객이라는 증거가 못 된다 — 호주와 같은 이유(2026-09-30).

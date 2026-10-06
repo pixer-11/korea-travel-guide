@@ -1042,5 +1042,44 @@
       ]
     },
     "_srcHash": "95dcaedccc04f42e"
+  },
+  "macau": {
+    "ko": {
+      "intro": "마카오에는 CTM, 3 마카오(Hutchison), China Telecom (Macau)까지 세 개의 이동통신사가 있습니다. 마카오는 홍콩, 중국 본토와는 완전히 분리된 독자적인 통신 시장이기 때문에, eSIM을 구매하기 전에 해당 지역 플랜에 마카오가 포함되어 있는지부터 반드시 확인해야 합니다. 홍콩이나 중국 본토용 플랜 중 상당수는 국경에서 적용이 끊기는 경우가 많습니다.",
+      "coverage": "마카오는 영토 전체가 작아서, 반도 지역, 타이파(Taipa), 코타이(Cotai), 콜로안(Coloane)을 다 합쳐도 버스나 택시로 끝에서 끝까지 금방 이동할 수 있을 정도이며, 통신사들은 이 전 지역을 빠짐없이 커버합니다. 무료 공공 WiFi는 FreeWiFi.MO라는 이름으로 제공되므로, 적당한 수준의 데이터 플랜만으로도 일반적인 여행 기간 동안 충분합니다.",
+      "tips": [
+        "홍콩에서 페리나 대교 버스를 타고 입국한다면, eSIM이 마카오를 별도로 커버하는지 꼭 확인하세요. 홍콩 전용 플랜이라면 마카오에 도착하는 순간 데이터가 끊길 수 있습니다.",
+        "중국 본토(바로 옆의 주하이 등)까지 이어지는 여행이라면 본토까지 커버하는 플랜이 필요하며, 그곳에서는 구글 서비스가 작동하지 않으므로 필요한 지도는 마카오에 있을 때 미리 저장해 두세요.",
+        "관광지와 공공시설에서는 FreeWiFi.MO 네트워크를 찾아 접속하면 데이터를 절약할 수 있습니다."
+      ]
+    },
+    "ja": {
+      "intro": "マカオには、CTM、3マカオ(ハチソン)、中国電信(マカオ)という3つのモバイルネットワークがあります。マカオは香港や中国本土とは別個の独立した通信市場なので、購入前に確認すべきなのは、そのリージョナルプランがそもそもマカオを対象に含んでいるかどうかという点です。香港や中国本土向けのプランの多くは、国境を越えると使えなくなります。",
+      "coverage": "マカオの国土はとても小さく、マカオ半島、タイパ、コタイ、コロアンを合わせても、端から端までバスやタクシーですぐに移動できる広さです。各ネットワークはこのエリア全体をカバーしています。また、「FreeWiFi.MO」という名称で無料の公衆WiFiも利用できるため、控えめなデータプランでも通常の滞在には十分です。",
+      "tips": [
+        "香港からフェリーや橋を渡るバスで到着する場合は、eSIMがマカオを別途カバーしているか確認しておきましょう。香港専用のプランでは、到着した瞬間にオフラインになってしまいます。",
+        "隣接する珠海など中国本土へ旅を続ける予定がある場合は、本土もカバーするプランが必要です。また、中国本土ではGoogleのサービスが利用できないため、必要な地図情報はマカオにいるうちに保存しておきましょう。",
+        "観光スポットや公共施設では「FreeWiFi.MO」のネットワークを探して接続すれば、データ通信量の節約になります。"
+      ]
+    },
+    "es": {
+      "intro": "Macao cuenta con tres redes móviles: CTM, 3 Macau (Hutchison) y China Telecom (Macau). Es un mercado de telecomunicaciones propio, independiente tanto de Hong Kong como de China continental, así que lo que hay que verificar antes de comprar es si un plan regional menciona Macao explícitamente: muchos planes de Hong Kong y de China se detienen en la frontera.",
+      "coverage": "Todo el territorio es pequeño: la península, Taipa, Cotai y Coloane juntas se recorren de punta a punta en un corto trayecto en autobús o taxi, y las redes dan cobertura a todo. El WiFi público gratuito funciona bajo el nombre FreeWiFi.MO, así que un plan de datos modesto alcanza para una estadía típica.",
+      "tips": [
+        "Si llegas en el ferry o en el autobús del puente desde Hong Kong, confirma que tu eSIM cubra Macao por separado: un plan exclusivo de Hong Kong te deja sin conexión apenas desembarcas.",
+        "Un viaje que continúe hacia China continental (Zhuhai está justo al lado) necesita un plan que también cubra el continente, y allí los servicios de Google no funcionan; guarda los mapas que necesites mientras todavía estés en Macao.",
+        "Busca la red FreeWiFi.MO en sitios turísticos y edificios públicos para ahorrar datos."
+      ]
+    },
+    "zh": {
+      "intro": "澳门拥有三家移动网络运营商:澳门电讯(CTM)、澳门三(和记)以及中国电信(澳门)。澳门是一个独立的电信市场,与香港和中国内地均不相同,因此在购买之前要确认区域套餐是否明确包含澳门:许多香港和内地的套餐一过边境就失效了。",
+      "coverage": "澳门整体面积不大:澳门半岛、氹仔、路氹和路环之间搭巴士或打车很快就能往返,三家网络都覆盖这些区域。政府提供的免费公共WiFi以“FreeWiFi.MO”为名运营,因此一般的流量套餐就足以应付典型的旅程。",
+      "tips": [
+        "如果你是搭渡轮或跨海大桥巴士从香港抵达,请务必确认你的eSIM单独覆盖澳门:仅限香港的套餐会让你一落地就断网。",
+        "如果行程会继续深入中国内地(珠海就在隔壁),需要选择同时覆盖内地的套餐,而且Google相关服务在内地无法使用,记得在澳门时就先保存好需要的地图。",
+        "在景点和公共建筑内寻找“FreeWiFi.MO”网络连接,可以节省流量。"
+      ]
+    },
+    "_srcHash": "ca300c8cc221e24c"
   }
 }

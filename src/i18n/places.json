@@ -203,6 +203,12 @@
     "es": "Barcelona",
     "zh": "巴塞罗那"
   },
+  "Barra": {
+    "ko": "바라",
+    "ja": "バラ",
+    "es": "Barra",
+    "zh": "妈阁"
+  },
   "Bath": {
     "ko": "바스",
     "ja": "バース",
@@ -557,6 +563,18 @@
     "es": "Colmar",
     "zh": "科尔马"
   },
+  "Coloane": {
+    "ko": "콜로안",
+    "ja": "路環島",
+    "es": "Coloane",
+    "zh": "路环"
+  },
+  "Coloane Village": {
+    "ko": "콜로안 빌리지",
+    "ja": "路環村",
+    "es": "Coloane Village",
+    "zh": "路环村"
+  },
   "Cologne": {
     "ko": "쾰른",
     "ja": "ケルン",
@@ -574,6 +592,12 @@
     "ja": "コロン",
     "es": "Coron",
     "zh": "科隆"
+  },
+  "Cotai": {
+    "ko": "코타이",
+    "ja": "コタイ",
+    "es": "Cotai",
+    "zh": "路氹"
   },
   "Cozumel": {
     "ko": "코수멜",
@@ -718,6 +742,12 @@
     "ja": "フェティエ",
     "es": "Fethiye",
     "zh": "费特希耶"
+  },
+  "Fisherman's Wharf": {
+    "ko": "피셔맨스 워프",
+    "ja": "フィッシャーマンズワーフ",
+    "es": "Fisherman's Wharf",
+    "zh": "渔人码头"
   },
   "Florence": {
     "ko": "피렌체",
@@ -875,6 +905,12 @@
     "es": "Cantón",
     "zh": "广州"
   },
+  "Guia": {
+    "ko": "기아",
+    "ja": "東望洋",
+    "es": "Guia",
+    "zh": "东望洋"
+  },
   "Guilin": {
     "ko": "구이린",
     "ja": "桂林",
@@ -910,6 +946,12 @@
     "ja": "ハロン湾",
     "es": "Bahía de Ha Long",
     "zh": "下龙湾"
+  },
+  "Hac Sa": {
+    "ko": "학사",
+    "ja": "黒沙",
+    "es": "Hac Sa",
+    "zh": "黑沙"
   },
   "Hamburg": {
     "ko": "함부르크",
@@ -1421,6 +1463,18 @@
     "es": "Lyon",
     "zh": "里昂"
   },
+  "Macau": {
+    "ko": "마카오",
+    "ja": "マカオ",
+    "es": "Macao",
+    "zh": "澳门"
+  },
+  "Macau Peninsula": {
+    "ko": "마카오 반도",
+    "ja": "マカオ半島",
+    "es": "península de Macao",
+    "zh": "澳门半岛"
+  },
   "Madrid": {
     "ko": "마드리드",
     "ja": "マドリード",
@@ -1624,6 +1678,12 @@
     "ja": "マラガ",
     "es": "Málaga",
     "zh": "马拉加"
+  },
+  "NAPE": {
+    "ko": "나페",
+    "ja": "新口岸",
+    "es": "NAPE",
+    "zh": "新口岸"
   },
   "Nagasaki": {
     "ko": "나가사키",
@@ -2255,6 +2315,12 @@
     "es": "España",
     "zh": "西班牙"
   },
+  "St. Lazarus Quarter": {
+    "ko": "성 라자루 지구",
+    "ja": "聖ラザロ地区",
+    "es": "Barrio de San Lázaro",
+    "zh": "望德堂区"
+  },
   "Stanley": {
     "ko": "스탠리",
     "ja": "スタンレー",
@@ -2356,6 +2422,18 @@
     "ja": "台南",
     "es": "Tainan",
     "zh": "台南"
+  },
+  "Taipa": {
+    "ko": "타이파",
+    "ja": "タイパ",
+    "es": "Taipa",
+    "zh": "氹仔"
+  },
+  "Taipa Village": {
+    "ko": "타이파 빌리지",
+    "ja": "タイパ村",
+    "es": "Taipa Village",
+    "zh": "氹仔旧城区"
   },
   "Taipei": {
     "ko": "타이베이",
