@@ -665,6 +665,24 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': graph };
 // "when is X 2027" as the next edition approaches.
 const noindexPost = isEventPast(d) && !isRecurringEvent;
 
+// The ended box says WHEN, in the reader's language (2026-10-06). Event guides
+// are now written to stay true after the event (writer.mjs EVENT_TIMELESS_RULE),
+// so they are no longer rewritten into the past tense when it ends; the dated
+// notice at the top is what tells a late reader "this was October 3-4, 2026".
+const endedDates = (() => {
+  if (!isEventPast(d) || !d.eventStartDate) return '';
+  try {
+    const fmt = new Intl.DateTimeFormat(localeCodes[lang], { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' });
+    const s = new Date(d.eventStartDate), e = new Date(d.eventEndDate || d.eventStartDate);
+    const range = fmt.formatRange(s, e);
+    // ICU writes a ja/zh RANGE numerically ("2026/10/03～2026/10/04") even
+    // when asked for the long month; join two long dates instead.
+    if (!/\//.test(range)) return range;
+    const a = fmt.format(s), b = fmt.format(e);
+    return a === b ? a : `${a}${lang === 'zh' ? '至' : '～'}${b}`;
+  } catch { return ''; }
+})();
+
 // Where the ticket button actually goes. The organizer's site was the best
 // we had on 2026-08-23; since 08-25 the discovery/backfill pair stores the
 // event's OWN ticketing page (eventOffers.url), which is a click closer to
@@ -904,7 +922,7 @@ const saveExtra = tripExtra(post);
         phone's sticky bar and "Plan your trip" carry those). */}
     {isEvent && (isEventPast(d) ? (
       <div class="book-cta">
-        <span class="book-cta-label">{t('post.eventEnded')}</span>
+        <span class="book-cta-label">{endedDates ? t('post.eventEndedDates').replace('{dates}', endedDates) : t('post.eventEnded')}</span>
         <div class="book-cta-btns">
           <a class="book-btn book-btn-primary" href={localizePath('/events/', lang)}><Emoji name="admission-tickets" /> {t('post.upcomingEvents')}</a>
           <a class="book-btn" href="#newsletter"><Emoji name="wrapped-gift" /> {t('post.eventUpdates')}</a>
