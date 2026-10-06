@@ -37,9 +37,13 @@ import yaml from 'js-yaml';
 import { endsMidThought } from '../src/lib/rewrite-guard.mjs';
 import { OFFENDING_CLAIM, ADVICE_IMPERATIVE } from '../src/lib/ended-event-claims.mjs';
 import { inventedOutcomes, ownEditionOutcomes } from './lib/invented-outcomes.mjs';
+import { srcHashOfPostFile } from './lib/src-hash.mjs';
+import { fieldDiff, recordRepair, pruneRecords, loadRecords, saveRecords } from './lib/prose-patch.mjs';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
 const DRY = process.env.DRY === '1';
+const patches = loadRecords();
+let patchesDirty = false;
 const SLUGS = (process.env.SLUGS || '').split(',').map((s) => s.trim()).filter(Boolean);
 const TODAY = new Date().toISOString().slice(0, 10);
 // An editorial rewrite of a whole article, not a clerical tense shift: the
@@ -224,8 +228,17 @@ for (const file of (await readdir(POSTS)).filter((f) => f.endsWith('.md')).sort(
   }
   const nextFm = { ...cur.fm, description: out.description, quickAnswer: out.quickAnswer, faq: faq.map((x, i) => ({ ...x, a: out.faq[i] })) };
   const fmOut = yaml.dump(nextFm, { lineWidth: -1, noRefs: true, sortKeys: false });
-  await writeFile(abs, `---\n${fmOut}---\n${out.body}\n`.replace(/\n/g, EOL), 'utf8');
+  const nextRaw = `---\n${fmOut}---\n${out.body}\n`;
+  await writeFile(abs, nextRaw.replace(/\n/g, EOL), 'utf8');
+  // Record what changed so the next translation run patches the four
+  // languages instead of re-translating each in full (lib/prose-patch docOf:
+  // description, Quick Answer, FAQ and body as one text; 2026-10-06 cost
+  // review — about ten of these a day, forty full Opus translations).
+  recordRepair(patches, slug, srcHashOfPostFile(curRaw), srcHashOfPostFile(nextRaw),
+    fieldDiff({ ...cur.fm, body }, { ...nextFm, body: out.body }));
+  patchesDirty = true;
 }
+if (!DRY && patchesDirty) saveRecords(pruneRecords(patches));
 
 console.log(`\n📦 ended events scanned ${scanned} · rewritten ${fixed} · refused ${refused.length}${DRY ? ' (DRY)' : ''}`);
 for (const r of refused) console.log(`   ✋ ${r.file}: ${r.problems.join(' | ').slice(0, 300)}`);

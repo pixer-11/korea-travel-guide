@@ -99,7 +99,14 @@ test('wiring: the repair records, the audit commits the record, the translator p
   // Only inside the stale branch: --only/--force name files that are WRONG, and
   // those must be translated in full, not patched.
   const branch = tr.slice(tr.indexOf('if (!FORCE && !ONLY.length) {'), tr.indexOf('jobs.push({ lang, id, data, hash });'));
-  assert.match(branch, /const patch = patchFor\(PATCHES\[id\], stored, hash\);/);
+  assert.match(branch, /const found = patchFor\(PATCHES\[id\], stored, hash\);/);
+  assert.match(branch, /const patch = found && patchIsCheaper\(found, docOf\(data\)\) \? found : null;/);
+  // 2026-10-06: the ended-event rewrite records its change too, and the two
+  // workflows it runs in commit the record (it is translated the NEXT day).
+  const ended = read('scripts/repair-ended-event-editorial.mjs');
+  assert.match(ended, /recordRepair\(patches, slug, srcHashOfPostFile\(curRaw\), srcHashOfPostFile\(nextRaw\),\s*fieldDiff\(/);
+  assert.match(ended, /if \(!DRY && patchesDirty\) saveRecords\(pruneRecords\(patches\)\)/);
+  for (const wf of ['publish.yml', 'alt-photos.yml']) assert.match(read(`.github/workflows/${wf}`), /git add [^\n]*data\/prose-patches\.json/, wf);
   // The batch must send a patch job the PATCH request: sending it translateParams
   // would pay for a full translation, see no edits, and pay again (Codex, 09-28).
   assert.match(tr, /params: j\.patch \? patchParams\(j\.lang, j\) : translateParams\(j\.lang, j\.data\)/);
@@ -123,4 +130,85 @@ test('cleanRepairOutput strips the echoed prompt separator and refuses new fence
   assert.deepEqual(cleanRepairOutput(body, body), { out: body });
   // A new one anywhere else is refused.
   assert.ok('reason' in cleanRepairOutput('## Why go\n---\nText here.\n\n---\n\nMore.', body));
+});
+
+// 2026-10-06: the ended-event rewrite edits the description, Quick Answer and
+// FAQ answers as well as the body. Patches now work on all of them as one
+// marked text; anything that disturbs a marker falls back to full translation.
+test('docOf and fieldsOf round-trip every translatable field', async () => {
+  const { docOf, fieldsOf } = await import('./prose-patch.mjs');
+  const f = { description: '설명', quickAnswer: '한 줄 답', faq: [{ q: '언제?', a: '10월.' }, { q: '어디?', a: '광장.\n두 줄.' }], body: '첫 문단.\n\n## 제목\n\n둘째 문단.' };
+  assert.deepEqual(fieldsOf(docOf(f), 2), f);
+  assert.deepEqual(fieldsOf(docOf({ ...f, faq: [] }), 0), { ...f, faq: [] });
+});
+
+test('fieldsOf refuses a doc whose markers or FAQ shape were disturbed', async () => {
+  const { docOf, fieldsOf } = await import('./prose-patch.mjs');
+  const f = { description: 'd', quickAnswer: 'q', faq: [{ q: 'Q1', a: 'A1' }], body: 'b' };
+  const doc = docOf(f);
+  assert.equal(fieldsOf(doc, 2), null, 'wrong FAQ count');
+  assert.equal(fieldsOf(doc.replace('@@QUICK ANSWER@@\n\n', ''), 1), null, 'a marker removed');
+  assert.equal(fieldsOf(doc.replace('Q: Q1\nA: A1', 'A1 only'), 1), null, 'Q/A prefixes lost');
+  assert.equal(fieldsOf('stray\n\n' + doc, 1), null, 'text before the first marker');
+  assert.equal(fieldsOf(doc.replace(/\nb$/, '\n'), 1), null, 'empty body');
+});
+
+test('a description/FAQ/body change is patched end to end', async () => {
+  const { docOf, fieldsOf } = await import('./prose-patch.mjs');
+  const enBefore = { description: 'Tickets go on sale soon.', quickAnswer: 'It runs in May.', faq: [{ q: 'When?', a: 'May 2026, dates TBA.' }], body: 'Intro.\n\nBook early.' };
+  const enAfter = { description: 'Tickets were sold through the venue.', quickAnswer: 'It ran in May.', faq: [{ q: 'When?', a: 'It was set for May 2026.' }], body: 'Intro.\n\nIt was set for May.' };
+  const diff = paragraphDiff(docOf(enBefore), docOf(enAfter));
+  // markers and the unchanged intro are not part of the change
+  assert.ok(diff.removed.every((p) => !p.startsWith('@@')) && !diff.removed.includes('Intro.'));
+  assert.equal(diff.removed.length, 4); assert.equal(diff.added.length, 4);
+  const ko = { title: 't', description: '곧 판매.', quickAnswer: '5월 개최.', faq: [{ q: '언제?', a: '2026년 5월, 미정.' }], body: '소개.\n\n일찍 예약.' };
+  const edits = [{ find: '곧 판매.', replace: '공연장에서 판매되었다.' }, { find: '5월 개최.', replace: '5월에 열렸다.' }, { find: '2026년 5월, 미정.', replace: '2026년 5월로 예정되어 있었다.' }, { find: '일찍 예약.', replace: '5월로 예정되어 있었다.' }];
+  const out = fieldsOf(applyEdits(docOf(ko), edits), 1);
+  assert.deepEqual(out, { description: '공연장에서 판매되었다.', quickAnswer: '5월에 열렸다.', faq: [{ q: '언제?', a: '2026년 5월로 예정되어 있었다.' }], body: '소개.\n\n5월로 예정되어 있었다.' });
+  // an edit that eats a marker is refused, so the caller translates in full
+  assert.equal(fieldsOf(applyEdits(docOf(ko), [{ find: '곧 판매.\n\n@@QUICK ANSWER@@', replace: '판매.' }]), 1), null);
+});
+
+test('the recorded hashes match the file on disk whatever its line endings', async () => {
+  const { srcHashOfPostFile } = await import('./src-hash.mjs');
+  const raw = '---\ntitle: T\ndescription: D\nquickAnswer: Q\nfaq:\n  - q: A?\n    a: B.\n---\nBody one.\n\nBody two.\n';
+  assert.equal(srcHashOfPostFile(raw), srcHashOfPostFile(raw.replace(/\n/g, '\r\n')));
+});
+
+// Measured 2026-10-06: patching a rewrite of most of the page wrote twice the
+// output tokens of a full translation. Small repairs patch; big ones do not.
+test('a patch is used only while it is cheaper than a full translation', async () => {
+  const { patchIsCheaper, docOf } = await import('./prose-patch.mjs');
+  const body = Array.from({ length: 30 }, (_, i) => `Paragraph ${i} of the guide, with a sentence or two of ordinary length in it.`).join('\n\n');
+  const doc = docOf({ description: 'd', quickAnswer: 'q', faq: [], body });
+  const one = { removed: ['Paragraph 3 of the guide, with a sentence or two of ordinary length in it.'], added: ['Paragraph 3, reworded.'] };
+  assert.equal(patchIsCheaper(one, doc), true);
+  const most = { removed: body.split('\n\n').slice(0, 26), added: body.split('\n\n').slice(0, 26).map((p) => p + ' Past tense now.') };
+  assert.equal(patchIsCheaper(most, doc), false);
+  assert.equal(patchIsCheaper(one, ''), false);
+});
+
+// Codex, 10-06 — three ways a patch could have shipped a wrong translation.
+test('a sentence swapped between fields is still recorded as a change', async () => {
+  const { fieldDiff, paragraphDiff, docOf } = await import('./prose-patch.mjs');
+  const a = { description: 'Tickets were priced at 20 dollars.', quickAnswer: 'Doors were listed as 6pm.', faq: [], body: 'One.\n\nTwo.' };
+  const b = { description: 'Doors were listed as 6pm.', quickAnswer: 'Tickets were priced at 20 dollars.', faq: [], body: 'One.\n\nTwo changed.' };
+  // the old pooled diff lost the swap…
+  assert.equal(paragraphDiff(docOf(a), docOf(b)).removed.length, 1);
+  // …the field-tagged one keeps it
+  const d = fieldDiff(a, b);
+  assert.equal(d.removed.length, 3);
+  assert.ok(d.removed.some((p) => p.startsWith('[DESCRIPTION]')) && d.removed.some((p) => p.startsWith('[QUICK ANSWER]')));
+});
+
+test('a FAQ section carrying a second Q/A pair is refused', async () => {
+  const { docOf, fieldsOf } = await import('./prose-patch.mjs');
+  const doc = docOf({ description: 'd', quickAnswer: 'q', faq: [{ q: '¿Cuándo?', a: 'A las seis.' }], body: 'b' });
+  assert.equal(fieldsOf(doc.replace('A las seis.', 'A las seis.\nQ: ¿Otra?\nA: Otra respuesta.'), 1), null);
+});
+
+test('the translator refuses a patch that empties the description or Quick Answer', async () => {
+  const { readFileSync } = await import('node:fs');
+  const tr = readFileSync(new URL('../translate-posts.mjs', import.meta.url), 'utf8');
+  assert.match(tr, /for \(const k of \['description', 'quickAnswer'\]\) \{\s*if \(String\(job\.data\?\.\[k\] \?\? ''\)\.trim\(\) && !fields\[k\]\) throw/);
 });

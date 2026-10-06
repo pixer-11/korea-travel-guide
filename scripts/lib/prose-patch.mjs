@@ -39,6 +39,88 @@ export function paragraphDiff(oldBody, newBody) {
   return { removed, added };
 }
 
+// Every translatable field as ONE text, so a repair that edits the
+// description, the Quick Answer or a FAQ answer can be patched like a body
+// paragraph. The ended-event rewrite (repair-ended-event-editorial) touches
+// all four, about ten posts a day, and each one used to cost four full Opus
+// translations the next morning (cost review, 2026-10-06). Marker lines
+// separate the fields; a patch that disturbs one is refused by fieldsOf and
+// the translation is redone in full, exactly as before.
+const MARK = (name) => `@@${name}@@`;
+const MARK_LINE = /^@@([A-Z0-9 ]+)@@$/;
+
+/** The translatable fields (title excluded) as one marked text. */
+export function docOf({ description = '', quickAnswer = '', faq = [], body = '' } = {}) {
+  const parts = [MARK('DESCRIPTION'), String(description).trim(), MARK('QUICK ANSWER'), String(quickAnswer).trim()];
+  (faq || []).forEach((x, i) => parts.push(MARK(`FAQ ${i + 1}`), `Q: ${String(x?.q ?? '').trim()}\nA: ${String(x?.a ?? '').trim()}`));
+  parts.push(MARK('BODY'), String(body).replace(/\r\n/g, '\n').trim());
+  return parts.join('\n\n');
+}
+
+/**
+ * Back from docOf's text to the fields, or null when the markers are not
+ * exactly the ones docOf wrote for `faqCount` questions (an edit that touched
+ * a marker, merged two fields or dropped a question).
+ */
+export function fieldsOf(doc, faqCount) {
+  const lines = String(doc).split('\n');
+  const sections = [];
+  for (const line of lines) {
+    const m = MARK_LINE.exec(line.trim());
+    if (m) sections.push({ name: m[1], text: [] });
+    else if (sections.length) sections.at(-1).text.push(line);
+    else if (line.trim()) return null; // text before the first marker
+  }
+  const want = ['DESCRIPTION', 'QUICK ANSWER', ...Array.from({ length: faqCount }, (_, i) => `FAQ ${i + 1}`), 'BODY'];
+  if (sections.map((s) => s.name).join('|') !== want.join('|')) return null;
+  const text = (s) => s.text.join('\n').trim();
+  const faq = [];
+  for (const s of sections.slice(2, 2 + faqCount)) {
+    // Exactly one Q line and one A line: a second "Q:"/"A:" pair written
+    // inside an answer would otherwise ride along as part of it (Codex, 10-06).
+    const t = text(s);
+    if ((t.match(/^Q:/gm) || []).length !== 1 || (t.match(/^A:/gm) || []).length !== 1) return null;
+    const m = /^Q:\s*([\s\S]*?)\nA:\s*([\s\S]*)$/.exec(t);
+    if (!m || !m[1].trim() || !m[2].trim()) return null;
+    faq.push({ q: m[1].trim(), a: m[2].trim() });
+  }
+  const body = text(sections.at(-1));
+  if (!body) return null;
+  return { description: text(sections[0]), quickAnswer: text(sections[1]), faq, body };
+}
+
+/**
+ * paragraphDiff over every field, each paragraph tagged with its field. A
+ * plain diff of two docOf texts compares one pool of paragraphs, so a sentence
+ * that moved from the description to the Quick Answer (and one that moved the
+ * other way) cancelled out and the change was never recorded: the translator
+ * would have kept both stale fields under a fresh hash (Codex, 10-06).
+ */
+export function fieldDiff(before, after) {
+  const tagged = (f) => {
+    const out = [`[DESCRIPTION] ${String(f.description ?? '').trim()}`, `[QUICK ANSWER] ${String(f.quickAnswer ?? '').trim()}`];
+    (f.faq || []).forEach((x, i) => out.push(`[FAQ ${i + 1}] Q: ${String(x?.q ?? '').trim()} A: ${String(x?.a ?? '').trim()}`));
+    return [...out, String(f.body ?? '').replace(/\r\n/g, '\n').trim()].join('\n\n');
+  };
+  return paragraphDiff(tagged(before), tagged(after));
+}
+
+/**
+ * Is patching cheaper than translating in full? A patch answers with find AND
+ * replace text for every changed sentence, on top of reading the whole
+ * translation, so past about a quarter of the document it costs more. Measured
+ * 2026-10-06 on a real ended-event rewrite (LANY, 26 of ~35 paragraphs
+ * changed): the Korean patch wrote 6,951 output tokens where a full
+ * translation writes ~3,500. Small repairs — a sentence or two, the weekly
+ * prose fix — stay well under the line.
+ */
+export const PATCH_MAX_SHARE = 0.25;
+export function patchIsCheaper(patch, englishDoc) {
+  const changed = [...(patch?.removed || []), ...(patch?.added || [])].reduce((n, p) => n + String(p).length, 0);
+  const whole = String(englishDoc || '').length;
+  return whole > 0 && changed / 2 <= whole * PATCH_MAX_SHARE;
+}
+
 const MAX_STEPS = 12;
 
 /**
@@ -173,6 +255,7 @@ RULES
 - Each "find" is copied exactly from the CURRENT ${langName.toUpperCase()} TEXT below, occurs there exactly once, and is as short as it can be while unique (a sentence or a clause, not a paragraph).
 - Each "replace" is natural ${langName} in the same voice. Register: ${register} An empty "replace" deletes.
 - Keep numbers, names, links and markdown exactly as they are unless the English change is about them.
+- Lines like @@DESCRIPTION@@, @@QUICK ANSWER@@, @@FAQ 1@@ and @@BODY@@ mark where each field starts. Never include one in a "find" or a "replace", and keep each FAQ's "Q:" and "A:" prefixes.
 
 CURRENT ${langName.toUpperCase()} TEXT
 ${translationBody}`;

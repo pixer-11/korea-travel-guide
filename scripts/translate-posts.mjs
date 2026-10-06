@@ -37,7 +37,7 @@ import { scriptLeakFlags, scriptGlue, untranslatedQuestion } from './lib/transla
 import { findToolSpill } from './lib/tool-spill.mjs';
 import { namedIds, translatable } from './lib/translate-scope.mjs';
 import { runBatch, REPLACEMENT_CHAR } from './lib/claude-batch.mjs';
-import { loadRecords, patchFor, patchPrompt, applyEdits, EDIT_TOOL } from './lib/prose-patch.mjs';
+import { loadRecords, patchFor, patchPrompt, applyEdits, EDIT_TOOL, docOf, fieldsOf, patchIsCheaper } from './lib/prose-patch.mjs';
 import { unescapeEntities } from './lib/unescape-entities.mjs';
 
 const POSTS = fileURLToPath(new URL('../src/content/posts/', import.meta.url));
@@ -311,7 +311,7 @@ function patchParams(langCode, job) {
     tool_choice: toolChoice('submit_edits'),
     messages: [{
       role: 'user',
-      content: patchPrompt(langName, REGISTER[langName] ?? `natural written ${langName}`, job.patch, job.cur.body) + toolOnly('submit_edits'),
+      content: patchPrompt(langName, REGISTER[langName] ?? `natural written ${langName}`, job.patch, docOf(job.cur)) + toolOnly('submit_edits'),
     }],
   };
 }
@@ -339,11 +339,21 @@ async function patchedReply(job, msg) {
     const m = msg || await client.messages.create(patchParams(job.lang, job));
     if (m.stop_reason === 'max_tokens') throw new Error('patch reply cut at max_tokens');
     const edits = m.content.find((c) => c.type === 'tool_use')?.input?.edits;
-    const body = applyEdits(job.cur.body, edits);
-    if (body === null) throw new Error('an edit did not match the translation exactly once');
+    // The whole translation as one marked text (lib/prose-patch docOf), so a
+    // repair that changed the description, Quick Answer or a FAQ answer is
+    // patched too, not only one that changed the body (2026-10-06).
+    const doc = applyEdits(docOf(job.cur), edits);
+    if (doc === null) throw new Error('an edit did not match the translation exactly once');
+    const fields = fieldsOf(doc, (job.cur.faq || []).length);
+    if (!fields) throw new Error('an edit disturbed a field marker or a FAQ entry');
+    // An emptied field would be back-filled downstream (the description from
+    // the title) and stamped current: refuse it (Codex, 10-06).
+    for (const k of ['description', 'quickAnswer']) {
+      if (String(job.data?.[k] ?? '').trim() && !fields[k]) throw new Error(`the patch emptied the ${k}`);
+    }
     if (edits.length) patchStats.patched++; else patchStats.unchanged++;
     console.log(`     ✎ ${job.lang}/${job.id} — patched with ${edits.length} edit(s) instead of re-translating`);
-    return { stop_reason: 'tool_use', content: [{ type: 'tool_use', input: { ...job.cur, body } }] };
+    return { stop_reason: 'tool_use', content: [{ type: 'tool_use', input: { ...job.cur, ...fields } }] };
   } catch (e) {
     patchStats.fellBack++;
     console.log(`     ↻ ${job.lang}/${job.id} — patch unusable (${String(e.message).slice(0, 80)}), translating in full`);
@@ -705,7 +715,11 @@ for (const f of files) {
         const stored = storedHash(existing);
         if (stored === null || stored === hash) continue;
         // Stale because the weekly prose repair edited a sentence or two: patch.
-        const patch = patchFor(PATCHES[id], stored, hash);
+        // Only when it is cheaper: a rewrite of most of the page (an ended
+        // event) is translated in full — patching it cost twice as much.
+        const found = patchFor(PATCHES[id], stored, hash);
+        const patch = found && patchIsCheaper(found, docOf(data)) ? found : null;
+        if (found && !patch) patchStats.tooBig = (patchStats.tooBig || 0) + 1;
         const cur = patch && readTranslation(existing);
         if (cur) {
           jobs.push({ lang, id, data, hash, patch, cur });
@@ -779,6 +793,6 @@ console.log(`\nDone. ${done} translated, ${failed} failed.`);
 // that gets ignored, which is how the real problems that week went unread.
 console.log(`TRANSLATE_SUMMARY done=${done} failed=${failed} jobs=${jobs.length}`);
 if (jobs.some((j) => j.patch)) {
-  console.log(`TRANSLATE_PATCH patched=${patchStats.patched} unchanged=${patchStats.unchanged} fell_back=${patchStats.fellBack}`);
+  console.log(`TRANSLATE_PATCH patched=${patchStats.patched} unchanged=${patchStats.unchanged} fell_back=${patchStats.fellBack} too_big=${patchStats.tooBig || 0}`);
 }
 if (failed) process.exitCode = 1;
