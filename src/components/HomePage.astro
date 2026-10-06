@@ -344,10 +344,17 @@ const itinMeta = (it: any) => {
 };
 
 // ── Countries by region, each with its photo ────────────────────────────────
+// A country added but not yet published shows as a "coming soon" tile, the way
+// the continent and destinations pages show it (owner, 10-06: Macau was added
+// and the home list simply left it out). Not a link: its country page is built
+// with its first guide. Its eSIM page exists from day one, so that link stays.
+const soonCountries = countries
+  .filter((c) => c.active !== false && c.count === 0)
+  .map((c) => ({ slug: c.slug, name: localizePlace(c.name, lang), iso2: c.iso2, guides: 0, esim: esimSlugs.has(c.slug), soon: true, img: '' }));
 const groups = GROUP_ORDER.map((g) => ({
   key: g,
   label: H(({ east: 'gEast', sea: 'gSea', meca: 'gMeca', europe: 'gEurope', amoc: 'gAmoc', africa: 'gAfrica' } as const)[g as 'east']),
-  items: pickCountries
+  items: [...pickCountries, ...soonCountries]
     .filter((c) => homeGroup(countriesData.countries.find((x) => x.slug === c.slug)?.continent, c.iso2) === g)
     .sort((a, b) => b.guides - a.guides),
 })).filter((g) => g.items.length);
@@ -625,10 +632,17 @@ const editorCountries = EDITOR_VISITED.filter((v) => !v.region).length;
           <div class="hv3-ctry">
             {g.items.map((c) => (
               <div class="hv3-c">
+                {(c as any).soon ? (
+                  <div class="hv3-c-main hv3-c-soon">
+                    <span class="hv3-c-noimg"><Flag code={c.iso2} /></span>
+                    <span class="hv3-c-txt"><b>{c.name}</b><small>{t('home.comingSoon')}</small></span>
+                  </div>
+                ) : (
                 <a class="hv3-c-main" href={P(`/destinations/${c.slug}/`)}>
                   {c.img ? <img src={c.img} alt="" width="160" height="107" loading="lazy" /> : <span class="hv3-c-noimg"><Flag code={c.iso2} /></span>}
                   <span class="hv3-c-txt"><b>{c.name}</b><small>{guidesLabel(c.guides)}</small></span>
                 </a>
+                )}
                 {c.esim && <a class="hv3-c-esim" href={P(`/tools/esim/${c.slug}/`)} aria-label={`${c.name} eSIM`}>eSIM</a>}
               </div>
             ))}
@@ -987,6 +1001,8 @@ const editorCountries = EDITOR_VISITED.filter((v) => !v.region).length;
   .hv3-c { position: relative; }
   .hv3-c-main { display: flex; align-items: center; gap: 0.7rem; padding: 0.4rem; border-radius: var(--r-md); background: var(--surface); border: 1px solid var(--line); text-decoration: none; color: var(--ink); min-width: 0; }
   .hv3-c-main:hover { border-color: var(--cta); box-shadow: var(--shadow-sm); }
+  .hv3-c-soon { border-style: dashed; color: var(--muted); }
+  .hv3-c-soon:hover { border-color: var(--line); box-shadow: none; }
   .hv3-c-main img, .hv3-c-noimg { width: 64px; height: 48px; border-radius: 10px; object-fit: cover; flex: none; background: var(--bg-tint); display: grid; place-items: center; }
   .hv3-c-txt { display: grid; min-width: 0; }
   .hv3-c-txt b { font-size: 0.95rem; overflow-wrap: anywhere; }
