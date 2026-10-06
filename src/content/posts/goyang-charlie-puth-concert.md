@@ -54,14 +54,6 @@ heldFinal: >-
   duplicate of goyang-charlie-puth-seoul-2026 with a wrong date: Charlie Puth
   plays Goyang Stadium on Oct 11, 2026 (Songkick, Bandsintown); this copy said
   Oct 17-18. Retired 2026-10-05, its URL 301s to the kept twin.
-heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Seonghyeon-ro%2C_Ilsandong-gu%2C_Goyang-si%2C_Gyeonggi-do%2C_South_Korea_-_panoramio.jpg/3840px-Seonghyeon-ro%2C_Ilsandong-gu%2C_Goyang-si%2C_Gyeonggi-do%2C_South_Korea_-_panoramio.jpg'
-  credit: 'Photo: rajapaksha87@yahoo.c… / Wikimedia Commons (CC BY 3.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Seonghyeon-ro,_Ilsandong-gu,_Goyang-si,_Gyeonggi-do,_South_Korea_-_panoramio.jpg'
-  focus:
-    x: 50
-    y: 45
 gallery: []
 ---
 

@@ -58,14 +58,6 @@ heldFinal: >-
   duplicate of mandalika-pertamina-grand-prix-of-indonesia-motogp-mandalika: the
   same race at the Mandalika circuit, filed under Lombok. Retired 2026-10-05,
   its URL 301s to the kept twin.
-heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Lombok_Island_and_Mount_Rinjani_from_Gili_Meno_Island%2C_Indonesia.jpg/3840px-Lombok_Island_and_Mount_Rinjani_from_Gili_Meno_Island%2C_Indonesia.jpg'
-  credit: 'Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Lombok_Island_and_Mount_Rinjani_from_Gili_Meno_Island,_Indonesia.jpg'
-  focus:
-    x: 50
-    y: 45
 gallery: []
 ---
 
