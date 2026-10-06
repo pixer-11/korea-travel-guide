@@ -31869,5 +31869,89 @@
   "registerBreak": false,
   "worst": "不妨把店名看作一种表态，说明这里的料理心之所向，而不是对某道特定菜品的承诺。",
   "at": "2026-10-06T07:55:47.053Z"
+ },
+ "es/barra-lilau-square": {
+  "hash": "9652d2f5f0a9",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-06T14:54:52.994Z"
+ },
+ "es/coloane-a-ma-cultural-village": {
+  "hash": "9f4dc8d38efe",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "donde se vende.",
+  "at": "2026-10-06T14:54:55.609Z"
+ },
+ "es/coloane-macao-giant-panda-pavilion": {
+  "hash": "25aca62be449",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Avance a lo largo del v",
+  "at": "2026-10-06T14:54:56.712Z"
+ },
+ "ja/barra-lilau-square": {
+  "hash": "ca5c7a2e721b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "風順堂街（Rua de São Lourenço）から下ってくるスクーターには特に注意が必要です。",
+  "at": "2026-10-06T14:54:57.876Z"
+ },
+ "ja/coloane-a-ma-cultural-village": {
+  "hash": "47bc2a6dd506",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "文化村は伝統的な中国寺院の様式で造られていて、瓦屋根と朱塗りの柱が特徴です。",
+  "at": "2026-10-06T14:54:59.062Z"
+ },
+ "ja/coloane-macao-giant-panda-pavilion": {
+  "hash": "ca46044e45e6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "行き先は「石排灣郊野公園」と伝え、運転手が迷うようなら漢字表記の「石排灣郊野公園」を見せましょう。",
+  "at": "2026-10-06T14:55:00.408Z"
+ },
+ "ko/barra-lilau-square": {
+  "hash": "576ef9d469b9",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 한 문장에 광장의 이야기가 모두 담겨 있다고 해도 과언이 아닙니다.",
+  "at": "2026-10-06T14:55:01.647Z"
+ },
+ "ko/coloane-a-ma-cultural-village": {
+  "hash": "096dbe1712ec",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "층과 층 사이에는 계단이 있으니 각오하시는 것이 좋습니다.",
+  "at": "2026-10-06T14:55:05.017Z"
+ },
+ "ko/coloane-macao-giant-panda-pavilion": {
+  "hash": "0d31909d41ba",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "숨은 명소라기보다는 이미 널리 알려진 관광지입니다.",
+  "at": "2026-10-06T14:55:14.324Z"
+ },
+ "zh/barra-lilau-square": {
+  "hash": "47cca4e60a73",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "想要融入其中，可以留意以下几点",
+  "at": "2026-10-06T14:55:53.219Z"
+ },
+ "zh/coloane-a-ma-cultural-village": {
+  "hash": "083342dd3145",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "工作日从上午9点开门到下午6点关门都很清静，什么时候来都可以。",
+  "at": "2026-10-06T14:55:22.552Z"
+ },
+ "zh/coloane-macao-giant-panda-pavilion": {
+  "hash": "3a43a11675d4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "熊猫馆依着路环石排湾郊野公园的绿色山坡而建。",
+  "at": "2026-10-06T14:55:23.856Z"
  }
 }

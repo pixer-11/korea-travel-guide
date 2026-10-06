@@ -10871,5 +10871,329 @@
       "getting": "距离看古最近的机场是位于登巴萨（Denpasar）的伍拉·赖国际机场（DPS），大约在看古以南15到20公里处。目前没有火车或直达公交车前往镇上，游客通常选择打车、使用打车软件或提前预订私人接送服务。路况顺畅时车程约30分钟，但高峰时段可能延长至90分钟左右。",
       "days": "建议安排4到5天时间，体验主要冲浪点、漫步稻田、泡吧海滩俱乐部，并抽空去一趟海神庙（Tanah Lot）。不过很多游客一旦适应了这里悠闲的生活节奏，往往会待得更久。"
     }
+  },
+  "Barra": {
+    "en": {
+      "blurb": "Barra sits at the southern tip of the Macau peninsula, where the old inner harbour meets Sai Van Lake and the city's oldest working temple still faces the water. Named for the A-Ma Temple, a shrine to the sea goddess Mazu dating back to 1488, this is the quarter where Macau's maritime past is most visible: fishing-village lanes, the Maritime Museum and fort ramparts sit alongside the modern transit hub that has made the district a gateway rather than a backwater.",
+      "getting": "Barra station, the terminus of the Macau Light Rapid Transit's Taipa line, connects the district directly to Macau International Airport (MFM) in around 25 minutes; buses from the regional hub and taxis from the ferry terminals also serve the A-Ma Temple area. The Barra Public Transport Interchange beneath the station links trains, buses and taxis for onward travel across the peninsula and to Taipa.",
+      "days": "~1 day is enough to cover Barra's core sights, the A-Ma Temple, Barra Square and the Maritime Museum, at an unhurried pace, with time left for a waterfront walk toward Macau Tower."
+    },
+    "ko": {
+      "blurb": "바라(Barra)는 마카오 반도 남단, 옛 내항이 사이반 호수(Sai Van Lake)와 만나는 지점에 자리하고 있으며, 이곳에는 마카오에서 가장 오래된 현역 사원이 여전히 바다를 마주하고 서 있다. 1488년까지 역사가 거슬러 올라가는 바다의 여신 마주(Mazu)를 모시는 사당, 아마사원(A-Ma Temple)에서 이름을 따온 이 지역은 마카오의 해양 역사가 가장 생생하게 남아 있는 곳이다. 어촌 마을의 골목길, 해사박물관(Maritime Museum), 요새 성벽이 현대적인 교통 허브와 나란히 공존하면서, 이 지역은 변두리가 아닌 관문으로 거듭났다.",
+      "getting": "바라역은 마카오 경전철(Macau Light Rapid Transit) 타이파(Taipa) 노선의 종착역으로, 약 25분 만에 마카오국제공항(MFM)과 이 지역을 직접 연결한다. 지역 교통 허브에서 출발하는 버스와 페리터미널에서 출발하는 택시 역시 아마사원 일대를 오간다. 역 아래에 위치한 바라 대중교통 환승센터(Barra Public Transport Interchange)에서는 기차, 버스, 택시가 모두 연결되어 반도 전역 및 타이파로의 이동이 가능하다.",
+      "days": "아마사원, 바라광장(Barra Square), 해사박물관 등 바라의 핵심 명소를 여유롭게 둘러보는 데는 하루 정도면 충분하며, 마카오타워(Macau Tower) 방향으로 해안 산책을 즐길 시간도 남는다."
+    },
+    "ja": {
+      "blurb": "バラ地区はマカオ半島の南端に位置し、古い内港とサイ・ヴァン湖(西湾湖)が出会う場所にあり、マカオ最古の現役寺院が今も海に向かって建っています。1488年に遡る海の女神マズ(媽祖)を祀るA-Ma寺院(媽閣廟)にちなんで名付けられたこの地区は、マカオの海洋の歴史が最も色濃く残るエリアです。漁村の面影を残す路地、海事博物館、そして砦の城壁が、この地区を辺境ではなく玄関口へと変えた近代的な交通拠点と隣り合って存在しています。",
+      "getting": "マカオ・ライトラピッドトランジット(軽軌)タイパ線の終着駅であるバラ駅は、マカオ国際空港(MFM)と約25分で直結しています。地域バスターミナルからのバスやフェリーターミナルからのタクシーも、A-Ma寺院エリアへのアクセス手段として利用できます。駅の下に位置するバラ公共交通インターチェンジでは、電車、バス、タクシーが結節しており、半島内の他エリアやタイパへの乗り継ぎも便利です。",
+      "days": "バラ地区の主要な見どころ、A-Ma寺院、バラ広場、海事博物館を無理のないペースで巡るなら、1日あれば十分です。さらに時間があれば、マカオタワーに向かって海沿いを散策する余裕もあります。"
+    },
+    "es": {
+      "blurb": "Barra se encuentra en el extremo sur de la península de Macao, donde el antiguo puerto interior se une al lago Sai Van y el templo en funcionamiento más antiguo de la ciudad sigue mirando hacia el mar. Su nombre proviene del Templo de A-Ma, un santuario dedicado a Mazu, la diosa del mar, que data de 1488, y es aquí donde el pasado marítimo de Macao se percibe con mayor claridad: callejones de antiguos pueblos de pescadores, el Museo Marítimo y las murallas de un fuerte conviven con el moderno centro de transporte que ha convertido al barrio en una verdadera puerta de entrada, dejando atrás su imagen de zona apartada.",
+      "getting": "La estación de Barra, término de la línea Taipa del Metro Ligero de Macao (MLM), conecta el barrio directamente con el Aeropuerto Internacional de Macao (MFM) en unos 25 minutos; también llegan autobuses desde el centro regional de transporte y taxis desde las terminales de ferry hasta la zona del Templo de A-Ma. El Intercambiador de Transporte Público de Barra, situado bajo la estación, conecta trenes, autobuses y taxis para continuar el viaje hacia el resto de la península y hacia Taipa.",
+      "days": "Con alrededor de un día es suficiente para recorrer, sin prisas, los puntos imprescindibles de Barra: el Templo de A-Ma, la Plaza de Barra y el Museo Marítimo, y aún queda tiempo para dar un paseo junto al mar en dirección a la Torre de Macao."
+    },
+    "zh": {
+      "blurb": "妈阁位于澳门半岛最南端,内港在这里与西湾湖交汇,澳门历史最悠久、至今仍香火不断的庙宇也面朝着这片海水。这片街区因妈阁庙而得名——始建于1488年、供奉海神妈祖的古庙——是澳门海洋历史风貌保存最完整的角落：渔村小巷、海事博物馆与炮台城墙,与如今的现代交通枢纽比邻而立,让这里从昔日的边陲渔港,蜕变为通达四方的门户。",
+      "getting": "妈阁站是澳门轻轨氹仔线的终点站,乘车约25分钟即可直达澳门国际机场(MFM);此外,来自各区枢纽的巴士和由码头出发的的士也可抵达妈阁庙一带。车站下方的妈阁公共运输交汇处集合了轻轨、巴士与的士,方便旅客转乘前往澳门半岛各区及氹仔。",
+      "days": "以悠闲的步调游览妈阁庙、妈阁庙前地与海事博物馆等核心景点,约一天时间便已足够,还能余出空档沿海边漫步,一路走向澳门旅游塔。"
+    }
+  },
+  "Coloane": {
+    "en": {
+      "blurb": "Coloane is Macau's quiet, green southern corner: a former pirate-haunted fishing island now joined to the rest of the territory by reclaimed land, where a pastel-painted village, a baroque chapel and pine-backed beaches stand in deliberate contrast to the casino skyline across the water. It is the closest thing Macau has to a slow afternoon, with narrow lanes, old bakeries and small temples replacing neon and slot machines.",
+      "getting": "Coloane has no airport or station of its own; travellers reach it overland from Macau International Airport (MFM) or the Taipa and Macau Peninsula hubs, typically by public bus (routes serving Coloane Village and Seac Pai Van Park are run by Transmac and TCM) or by taxi, with the ride from the airport taking roughly 15 to 20 minutes depending on traffic and route. There is no rail line directly into Coloane, so the Macau LRT is only useful as far as the nearby Taipa stations, from which a bus or taxi covers the final stretch.",
+      "days": "Plan on around 1 day to cover Coloane's highlights at an easy pace, enough time for the village, chapel, waterfront and a beach stop, with an extra half day if you want to linger over the beaches or hiking trails."
+    },
+    "ko": {
+      "blurb": "콜로안은 마카오 남쪽 끝에 자리한 조용하고 푸르른 지역이다. 한때 해적이 출몰하던 어촌 섬이었지만 지금은 매립지를 통해 마카오 본토와 이어져 있으며, 파스텔톤 건물이 늘어선 마을과 바로크 양식의 성당, 소나무가 둘러싼 해변이 맞은편에 펼쳐진 카지노 스카이라인과 의도적으로 대비를 이룬다. 좁은 골목길과 오래된 빵집, 작은 사원들이 네온사인과 슬롯머신을 대신하는 이곳은 마카오에서 느긋한 오후를 보내기에 가장 가까운 곳이다.",
+      "getting": "콜로안에는 자체 공항이나 역이 없어, 마카오 국제공항(MFM)이나 타이파·마카오 반도 허브에서 육로로 이동해야 한다. 보통 대중버스(콜로안 빌리지와 세악파이반 공원을 오가는 노선은 트란스막과 TCM이 운행한다)나 택시를 이용하며, 공항에서는 교통 상황과 경로에 따라 대략 15~20분 정도 소요된다. 콜로안까지 직접 연결되는 철도는 없기 때문에 마카오 경전철(LRT)은 인근 타이파 역까지만 이용할 수 있고, 그 이후에는 버스나 택시로 나머지 구간을 이동하게 된다.",
+      "days": "콜로안의 주요 명소를 여유롭게 둘러보려면 하루 정도를 잡으면 된다. 마을과 성당, 해안가, 해변 방문까지 충분히 즐길 수 있는 시간이며, 해변에서 더 머물거나 하이킹 코스를 걷고 싶다면 반나절 정도를 추가하는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "コロアネ(路環)は、マカオ南部に残る静かで緑豊かなエリアだ。かつては海賊が出没した漁村の島だったが、今では埋め立て地によって他の地域と陸続きになっている。パステルカラーの村並み、バロック様式の礼拝堂、松林を背にしたビーチが、対岸に広がるカジノの摩天楼とはあえて一線を画す景観を見せている。ネオンやスロットマシンの代わりに、狭い路地、昔ながらのパン屋、小さな寺院が点在し、マカオの中でもっとも「ゆったりとした午後」を味わえる場所と言えるだろう。",
+      "getting": "コロアネには空港も鉄道駅もないため、マカオ国際空港(MFM)やタイパ、マカオ半島側の拠点から陸路でアクセスするのが基本となる。コロアネ・ビレッジやセアック・パイ・バン公園を結ぶ路線バス(Transmac社やTCM社が運行)、またはタクシーが一般的な移動手段で、空港からは交通状況やルートにもよるがおおよそ15~20分ほどかかる。コロアネまで直接乗り入れる鉄道路線はないため、マカオLRTは近隣のタイパ駅までの利用にとどまり、そこから先はバスかタクシーで向かうことになる。",
+      "days": "コロアネの見どころをゆったりと巡るなら、目安として1日ほど見ておくとよい。村並みの散策、礼拝堂、ウォーターフロント、そしてビーチ立ち寄りまでをカバーできる時間だ。ビーチでのんびり過ごしたり、ハイキングコースを歩いたりしたい場合は、さらに半日ほど余分に確保しておくことをおすすめする。"
+    },
+    "es": {
+      "blurb": "Coloane es el rincón sur de Macao: tranquilo, verde y con un pasado de piratas, hoy unido al resto del territorio por terrenos ganados al mar. Aquí, un pueblo de fachadas pastel, una capilla de estilo barroco y playas bordeadas de pinos contrastan a propósito con el horizonte de casinos que se ve al otro lado del agua. Es lo más parecido que tiene Macao a una tarde sin prisas, con callejones estrechos, panaderías de toda la vida y pequeños templos que sustituyen al neón y a las máquinas tragamonedas.",
+      "getting": "Coloane no cuenta con aeropuerto ni estación propia; se llega por tierra desde el Aeropuerto Internacional de Macao (MFM) o desde los núcleos de Taipa y la Península de Macao, normalmente en autobús público (las rutas que cubren el Pueblo de Coloane y el Parque Seac Pai Van están operadas por Transmac y TCM) o en taxi, con un trayecto desde el aeropuerto de unos 15 a 20 minutos según el tráfico y la ruta elegida. No hay ninguna línea de tren que llegue directamente a Coloane, así que el LRT de Macao solo resulta útil hasta las estaciones cercanas de Taipa, desde donde un autobús o un taxi completan el último tramo.",
+      "days": "Basta con 1 día para recorrer lo más destacado de Coloane con calma: tiempo suficiente para el pueblo, la capilla, el paseo marítimo y una parada en la playa, más medio día extra si se quiere disfrutar con más tiempo de las playas o las rutas de senderismo."
+    },
+    "zh": {
+      "blurb": "路环是澳门宁静葱郁的南端一隅：这座昔日海盗出没的渔岛,如今已随填海造地与澳门本土相连。色彩柔和的小村、巴洛克风格的教堂,以及松林环抱的海滩,与对岸的赌场天际线形成鲜明而刻意的对比。狭窄的巷弄、老字号饼店和小庙宇,取代了霓虹灯与老虎机,这里是澳门最接近\"悠闲午后\"的所在。",
+      "getting": "路环本身没有机场或车站,游客需从澳门国际机场(MFM)或氹仔、澳门半岛等交通枢纽经陆路前往,通常乘坐公共巴士(由新福利及澳巴营运,路线途经路环市区及石排湾郊野公园)或的士,从机场出发车程约15至20分钟,视路况及路线而定。由于没有铁路直达路环,澳门轻轨仅能抵达附近的氹仔各站,之后仍需转乘巴士或的士完成最后一段路程。",
+      "days": "以轻松的步调游览路环的主要景点,安排约1天即可,足够时间逛村落、参观教堂、漫步海滨及到海滩走走;若想在沙滩多待或走走郊游径，不妨多预留半天。"
+    }
+  },
+  "Coloane Village": {
+    "en": {
+      "blurb": "Coloane Village is Macau's quietest corner, a cluster of pastel Portuguese-style facades, incense-filled temples and narrow lanes that once sheltered pirates along the South China Sea. It feels worlds away from the Cotai Strip's casino towers, trading neon for village bakeries, waterfront calçada promenades and the hilltop Chapel of St. Francis Xavier.",
+      "getting": "Most travellers arrive via public bus from central Macau, Taipa or the Cotai resort area; routes such as the 21A, 25 and 26A run to Coloane Village, with the journey taking roughly ~30 to 60 minutes depending on the starting point. Macau International Airport (MFM) is the region's main gateway, and from there buses or taxis provide the onward connection to the village.",
+      "days": "Half a day is enough to wander the village centre, temples and waterfront, while a full day allows time to add nearby Hac Sa or Cheoc Van beaches and the Seac Pai Van Park area."
+    },
+    "ko": {
+      "blurb": "콜로안 빌리지는 마카오에서 가장 한적한 동네로, 파스텔톤의 포르투갈풍 건물들과 향 내음이 은은하게 퍼지는 사원들, 그리고 한때 남중국해의 해적들이 몸을 숨기던 좁은 골목길이 어우러진 곳이다. 코타이 스트립의 번쩍이는 카지노 타워와는 전혀 다른 세상으로, 네온사인 대신 소박한 마을 빵집들과 해변을 따라 이어지는 칼사다 산책로, 그리고 언덕 위에 자리한 성 프란치스코 하비에르 성당이 그 자리를 채운다.",
+      "getting": "대부분의 여행객은 마카오 중심가, 타이파 또는 코타이 리조트 지역에서 출발하는 대중버스를 이용해 이곳을 찾는다. 21A, 25, 26A번 등의 버스 노선이 콜로안 빌리지까지 운행되며, 출발지에 따라 대략 30분에서 1시간 정도 소요된다. 마카오 국제공항(MFM)이 이 지역의 주요 관문 역할을 하며, 공항에서는 버스나 택시를 이용해 마을까지 이동할 수 있다.",
+      "days": "마을 중심가와 사원, 해안 산책로를 둘러보는 데는 반나절이면 충분하다. 하루를 온전히 투자한다면 인근의 하크사 해변이나 초크반 해변, 그리고 섹파이반 공원까지 여유 있게 돌아볼 수 있다."
+    },
+    "ja": {
+      "blurb": "路環村はマカオでもっとも静かな一角。パステルカラーのポルトガル風建築、お香の香り漂う寺院、そしてかつて南シナ海の海賊たちが身を潜めたという細い路地が、ひっそりと軒を連ねています。コタイ地区のネオン輝くカジノタワー群とは別世界で、代わりにあるのは素朴なパン屋、海沿いに続くカルサーダ(石畳)の遊歩道、そして丘の上に立つ聖フランシスコ・ザビエル教会です。",
+      "getting": "多くの旅行者は、マカオ中心部やタイパ、コタイのリゾートエリアから路線バスで路環村を訪れます。21A系統、25系統、26A系統などが路環村まで運行しており、出発地点によって所要時間はおよそ30分から60分です。マカオ国際空港(MFM)がこの地域の主要な玄関口で、空港からはバスまたはタクシーで村まで乗り継ぐことができます。",
+      "days": "村の中心部や寺院、海沿いの散策だけなら半日で十分ですが、丸一日かければ近くの黒沙(ハックサー)ビーチや竹湾(チョクワン)ビーチ、石排湾郊野公園エリアまで足を延ばす余裕もできます。"
+    },
+    "es": {
+      "blurb": "El poblado de Coloane es el rincón más tranquilo de Macao, un conjunto de fachadas de estilo portugués en tonos pastel, templos cargados de incienso y callejuelas estrechas que antaño dieron refugio a piratas a lo largo del Mar de la China Meridional. Se siente a años luz de las torres de casinos de Cotai Strip, cambiando el neón por panaderías de pueblo, paseos de calçada frente al mar y la Capilla de San Francisco Javier en lo alto de la colina.",
+      "getting": "La mayoría de los viajeros llega en autobús público desde el centro de Macao, Taipa o la zona de resorts de Cotai; líneas como la 21A, 25 y 26A llegan hasta el poblado de Coloane, con un trayecto de entre ~30 y 60 minutos según el punto de partida. El Aeropuerto Internacional de Macao (MFM) es la principal puerta de entrada a la región, y desde allí autobuses o taxis permiten continuar el viaje hasta el poblado.",
+      "days": "Medio día basta para pasear por el centro del poblado, sus templos y el paseo frente al mar, mientras que un día completo permite sumar las cercanas playas de Hac Sa o Cheoc Van, además de la zona del Parque Seac Pai Van."
+    },
+    "zh": {
+      "blurb": "路环市区是澳门最静谧的一隅,粉彩色的葡式建筑鳞次栉比,香烟缭绕的庙宇与狭窄的小巷交织,昔日曾是南海海盗的藏身之所。这里与路氹城灯火通明的赌场高楼仿佛两个世界,取而代之的是村中的老字号饼店、沿海的石仔路长廊,以及山丘上的圣方济各圣堂。",
+      "getting": "大部分游客会从澳门市区、氹仔或路氹酒店区搭乘公共巴士前往,21A、25、26A等路线均可直达路环市区,车程视出发地点而定,大约需要30至60分钟。澳门国际机场(MFM)是本地区的主要门户,抵达后可转乘巴士或的士前往路环。",
+      "days": "半天时间足以漫步村中心、参观庙宇并沿海岸走走;若安排一整天,还可以顺道前往附近的黑沙或竹湾海滩,以及石排湾郊野公园一带。"
+    }
+  },
+  "Cotai": {
+    "en": {
+      "blurb": "Cotai is Macau's purpose-built resort strip, a reclaimed stretch of land between Taipa and Coloane where vast integrated casino resorts, luxury malls and replica landmarks sit side by side. It is less a traditional neighbourhood than a concentrated entertainment zone, built from scratch over the last two decades to rival Las Vegas.",
+      "getting": "Most travellers arrive via Macau International Airport or by ferry into the nearby Taipa Ferry Terminal, both only a short ride from the resort strip. Within Macau, the Taipa line of the Macau Light Rapid Transit connects directly into Cotai, with Cotai West and Cotai East stations stopping right outside the main resorts; buses and taxis also run frequently from the regional hub.",
+      "days": "Allow ~1 to 2 days to cover Cotai's main resorts, shows and dining without rushing between them."
+    },
+    "ko": {
+      "blurb": "코타이는 마카오가 야심 차게 조성한 리조트 밀집 지구로, 타이파와 콜로안 사이 매립지에 거대한 복합 카지노 리조트와 명품 쇼핑몰, 세계적 랜드마크를 본뜬 건축물들이 나란히 들어서 있다. 전통적인 의미의 동네라기보다는 지난 20여 년간 맨땅에서 조성되어 라스베이거스에 견줄 만한 엔터테인먼트 특구에 가깝다.",
+      "getting": "대부분의 여행자는 마카오국제공항(MFM)을 통해 입국하거나 인근 타이파 페리터미널을 통해 페리로 도착하며, 두 곳 모두 리조트 지구까지 차로 금방 닿는다. 마카오 내에서는 마카오 경전철(LRT) 타이파 노선이 코타이로 바로 연결되는데, 코타이 웨스트역과 코타이 이스트역이 주요 리조트 바로 앞에 정차한다. 이 외에도 버스와 택시가 주요 교통 거점에서 수시로 운행된다.",
+      "days": "코타이의 주요 리조트와 공연, 레스토랑을 여유 있게 둘러보려면 1~2일 정도 일정을 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "コタイは、タイパ島とコロアネ島の間の埋立地に築かれた、マカオ屈指の統合リゾート地区だ。巨大なカジノリゾート、高級モール、世界の名所を模したランドマークが隙間なく並び立つ。昔ながらの街というより、この20年でラスベガスに対抗すべくゼロから造り上げられた、娯楽が凝縮されたエリアと言ったほうが近い。",
+      "getting": "多くの旅行者はマカオ国際空港、あるいは近隣のタイパ・フェリーターミナルへのフェリーを利用して到着するが、いずれもリゾート地区までは目と鼻の先だ。マカオ国内では、マカオ・ライトレール（LRT）のタイパ線がコタイに直結しており、コタイ・ウエスト駅とコタイ・イースト駅は主要リゾートのすぐそばに停車する。バスやタクシーも、地域の交通拠点から頻繁に運行している。",
+      "days": "コタイの主要リゾート、ショー、食事を慌ただしくならずに巡るには、1～2日ほど見ておくとよい。"
+    },
+    "es": {
+      "blurb": "Cotai es la franja de resorts construida desde cero en Macao, un terreno ganado al mar entre Taipa y Coloane donde conviven enormes complejos de casinos integrados, centros comerciales de lujo y réplicas de monumentos emblemáticos. Más que un barrio tradicional, es una zona de entretenimiento concentrado, levantada prácticamente de la nada en las últimas dos décadas para rivalizar con Las Vegas.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional de Macao o en ferry hasta la cercana Terminal de Ferries de Taipa, ambos a muy poca distancia de la franja de resorts. Dentro de Macao, la línea Taipa del Metro Ligero de Macao (MLR) conecta directamente con Cotai, con las estaciones Cotai West y Cotai East ubicadas justo frente a los principales resorts; también hay autobuses y taxis frecuentes desde el centro de transporte regional.",
+      "days": "Conviene reservar entre 1 y 2 días para recorrer con calma los principales resorts, espectáculos y restaurantes de Cotai, sin tener que correr de uno a otro."
+    },
+    "zh": {
+      "blurb": "路氹是澳门专为度假娱乐打造的核心地带,坐落在氹仔与路环之间这片填海而成的土地上，大型综合度假村、豪华购物商场与各式地标复刻建筑比邻而立。与其说它是一个传统意义上的社区，不如说是一片高度集中的娱乐区，短短二十年间从零建起，志在与拉斯维加斯一较高下。",
+      "getting": "大多数游客经澳门国际机场抵达，或乘船在邻近的氹仔客运码头上岸，两地距离路氹度假区都只需很短的车程。在澳门境内，澳门轻轨氹仔线可直达路氹，路氹西站与路氹东站就设在各大型度假村门口；此外，公交车与出租车也从各交通枢纽频繁往返于此。",
+      "days": "建议预留1至2天时间，从容游览路氹的各大度假村、表演秀及美食，无需匆忙赶场。"
+    }
+  },
+  "Guia": {
+    "en": {
+      "blurb": "Guia Hill is the highest point on the Macau Peninsula, crowned by a 17th-century fortress, a chapel with rare frescoes blending Chinese and Western motifs, and a 19th-century lighthouse considered the oldest on the China coast. The summit's park and 360-degree views over the city, Taipa and Coloane, and on clear days toward Zhuhai, make it one of Macau's most atmospheric vantage points.",
+      "getting": "Most travellers arrive via Macau International Airport (MFM), then make their way to the historic peninsula by taxi, bus or light rail before reaching the hill itself. From central Macau, Guia Hill is typically reached on foot, by taxi, or via the cable car from Flora Garden, with the surrounding streets and MTR Racecourse Station also within easy walking distance.",
+      "days": "A visit to the fortress, chapel, lighthouse and park generally takes ~1 to 2 hours, making it an easy half-day add-on alongside nearby peninsula sights."
+    },
+    "ko": {
+      "blurb": "기아 언덕(Guia Hill)은 마카오 반도에서 가장 높은 지점으로, 17세기에 세워진 요새와 중국과 서양의 모티프가 어우러진 희귀한 프레스코화가 남아 있는 예배당, 그리고 중국 해안에서 가장 오래된 것으로 여겨지는 19세기 등대가 자리하고 있습니다. 정상의 공원에서는 마카오 시내와 타이파, 콜로안이 360도로 펼쳐지며, 맑은 날에는 주하이까지 바라볼 수 있어 마카오에서 가장 운치 있는 전망 명소 중 하나로 꼽힙니다.",
+      "getting": "대부분의 여행객은 마카오 국제공항(MFM)을 통해 도착한 뒤, 택시나 버스, 경전철을 이용해 역사 지구인 반도로 이동한 다음 언덕으로 향합니다. 마카오 시내 중심부에서는 도보나 택시, 혹은 플로라 가든(Flora Garden)에서 출발하는 케이블카를 이용해 기아 언덕에 오르는 것이 일반적이며, 주변 거리와 MTR 경마장역(Racecourse Station)에서도 도보로 쉽게 접근할 수 있습니다.",
+      "days": "요새, 예배당, 등대, 공원을 둘러보는 데는 대개 1~2시간 정도면 충분해, 인근 반도 명소들과 함께 반나절 일정으로 가볍게 다녀오기 좋습니다."
+    },
+    "ja": {
+      "blurb": "ギア要塞山（ギア・ヒル）はマカオ半島で最も標高の高い丘で、17世紀に築かれた要塞をはじめ、中国と西洋の意匠が溶け合う貴重なフレスコ画が残る礼拝堂、そして中国沿岸部最古とされる19世紀建造の灯台が頂に立っています。山頂の公園からはマカオ市街やタイパ、コロアネを見渡す360度のパノラマが広がり、晴れた日には珠海まで望めることもあり、マカオ屈指の情緒あふれる展望スポットとなっています。",
+      "getting": "多くの旅行者はマカオ国際空港（MFM）に到着した後、タクシーやバス、ライトレールを利用して歴史地区であるマカオ半島へと向かい、そこからギア・ヒルを目指します。マカオ中心部からは、徒歩やタクシーのほか、フローラ庭園（フラワー・シティ・ガーデン）からのロープウェイでも気軽にアクセスでき、周辺の通りやMTRの競馬場駅からも徒歩圏内です。",
+      "days": "要塞、礼拝堂、灯台、公園を一通り巡るには1～2時間ほどが目安で、半島内の周辺観光スポットと組み合わせて気軽に立ち寄れる、半日コースにぴったりの見どころです。"
+    },
+    "es": {
+      "blurb": "La Colina de Guia es el punto más alto de la península de Macao, coronada por una fortaleza del siglo XVII, una capilla con frescos poco comunes que fusionan motivos chinos y occidentales, y un faro del siglo XIX considerado el más antiguo de la costa china. El parque de la cima y sus vistas de 360 grados sobre la ciudad, Taipa y Coloane —y, en días despejados, hacia Zhuhai— la convierten en uno de los miradores con más encanto de Macao.",
+      "getting": "La mayoría de los viajeros llega por el Aeropuerto Internacional de Macao (MFM) y desde allí se dirige a la histórica península en taxi, autobús o tren ligero antes de subir a la colina. Desde el centro de Macao, lo habitual es llegar a la Colina de Guia a pie, en taxi o en el teleférico que parte del Jardim da Flora, ya que las calles circundantes y la estación de MTR Racecourse también quedan a poca distancia caminando.",
+      "days": "Visitar la fortaleza, la capilla, el faro y el parque suele llevar entre 1 y 2 horas, lo que lo convierte en un complemento ideal para medio día junto con otros atractivos cercanos de la península."
+    },
+    "zh": {
+      "blurb": "松山（东望洋山）是澳门半岛的最高点，山顶上坐落着一座建于17世纪的炮台、一座内有罕见中西合璧壁画的小教堂，以及一座19世纪的灯塔——它被认为是中国沿海最古老的灯塔。山顶公园视野开阔，可将澳门市区、氹仔和路环尽收眼底，天气晴朗时甚至能远眺珠海，是澳门最具韵味的观景胜地之一。",
+      "getting": "大多数游客会先抵达澳门国际机场（MFM），再乘搭的士、巴士或轻轨前往历史悠久的澳门半岛，然后再上山游览。从澳门市中心出发，前往松山通常可以步行、乘的士，或搭乘花园前往的缆车；此外，周边街道及轻轨马场站也都在步行可达的范围内。",
+      "days": "参观炮台、小教堂、灯塔及山顶公园一般需时约1至2小时，非常适合作为半日游，与附近澳门半岛的其他景点一同安排游览。"
+    }
+  },
+  "Hac Sa": {
+    "en": {
+      "blurb": "Hac Sa is Macau's best known beach, famous for its dark, volcanic-hued sand on the southern coast of Coloane island. It draws visitors less for swimming than for its laid-back barbecue pits, seaside park and the Portuguese classic Fernando's, making it feel worlds away from the casinos of the peninsula.",
+      "getting": "Most travellers reach Hac Sa by public bus from central Macau or from Macau International Airport (MFM), changing where needed onto routes that run out to Coloane; the ride typically takes ~40-60 minutes depending on the starting point. Taxis cover the same distance in ~10-15 minutes and are a common alternative for those arriving at the airport or ferry terminal.",
+      "days": "Half a day is enough to cover the beach, a seafront walk and a meal at one of the nearby Macanese restaurants, while a full day allows time to also explore Coloane Village nearby."
+    },
+    "ko": {
+      "blurb": "흑사해변(Hac Sa)은 마카오에서 가장 잘 알려진 해변으로, 콜로안(Coloane)섬 남쪽 해안에 자리하며 화산재가 섞인 듯한 짙은 색 모래로 유명하다. 수영을 즐기러 오는 사람보다는 여유롭게 바비큐를 즐기거나 해변 공원을 거닐고, 포르투갈 음식의 대명사인 페르난도스(Fernando's)를 맛보러 찾는 이들이 많아, 반도 지역의 카지노들과는 완전히 다른 세상처럼 느껴진다.",
+      "getting": "대부분의 여행자는 마카오 시내나 마카오국제공항(MFM)에서 대중버스를 이용해 흑사해변까지 이동하며, 필요한 경우 콜로안으로 가는 노선으로 환승한다. 출발지에 따라 소요 시간은 대략 40~60분 정도다. 택시를 이용하면 같은 거리를 10~15분 만에 갈 수 있어, 공항이나 페리터미널에서 도착한 여행자들이 자주 선택하는 대안이다.",
+      "days": "해변 산책과 바닷가 길 걷기, 그리고 인근 마카오 음식점에서의 식사까지 즐기려면 반나절이면 충분하다. 하루 전체를 할애하면 가까운 콜로안 빌리지(Coloane Village)까지 둘러볼 여유가 생긴다."
+    },
+    "ja": {
+      "blurb": "黒沙（ハクサー）ビーチはマカオで最も有名なビーチで、コロアネ島南岸に広がる火山由来の黒い砂浜が特徴です。海水浴目的というよりも、のんびりとしたバーベキュー場や海沿いの公園、ポルトガル料理の名店「フェルナンズ」を目当てに訪れる人が多く、カジノが立ち並ぶ半島エリアとはまったく違う、どこか別世界のような雰囲気が漂っています。",
+      "getting": "多くの旅行者は、マカオ中心部やマカオ国際空港（MFM）から路線バスを利用して黒沙ビーチへ向かいます。必要に応じてコロアネ島方面行きのバスに乗り換える形になり、出発地点にもよりますが所要時間はおよそ40～60分程度です。タクシーを使えば同じ距離をおよそ10～15分で移動でき、空港やフェリーターミナルから直接向かう場合によく利用される手段です。",
+      "days": "ビーチ散策と海沿いの散歩、そして近隣のマカオ料理店での食事だけなら、半日あれば十分楽しめます。1日かけて訪れれば、近くのコロアネ・ビレッジ（路環村）もあわせてゆっくり散策する時間が取れます。"
+    },
+    "es": {
+      "blurb": "Hac Sa es la playa más conocida de Macao, famosa por su arena oscura de origen volcánico, situada en la costa sur de la isla de Coloane. Más que para nadar, la gente acude aquí por sus relajadas zonas de barbacoa, el parque junto al mar y el clásico portugués Fernando's, lo que hace que se sienta a años luz de los casinos de la península.",
+      "getting": "La mayoría de los viajeros llega a Hac Sa en autobús público desde el centro de Macao o desde el Aeropuerto Internacional de Macao (MFM), haciendo transbordo cuando es necesario a las líneas que llegan hasta Coloane; el trayecto suele tardar entre 40 y 60 minutos, según el punto de partida. Los taxis cubren la misma distancia en unos 10 a 15 minutos y son una alternativa habitual para quienes llegan desde el aeropuerto o la terminal de ferris.",
+      "days": "Medio día alcanza para disfrutar de la playa, dar un paseo junto al mar y comer en alguno de los restaurantes macaenses cercanos, mientras que un día completo permite además explorar la cercana Aldea de Coloane."
+    },
+    "zh": {
+      "blurb": "黑沙是澳门最负盛名的海滩，位于路环岛南岸，以其深色的火山岩沙粒而闻名。比起游泳戏水，更多游客是为了这里悠闲的烧烤场地、临海公园，以及葡式经典餐厅安德鲁而来，让人仿佛远离了澳门半岛的赌场喧嚣，别有一番天地。",
+      "getting": "大多数游客会从澳门市区或澳门国际机场（MFM）乘坐公共巴士前往黑沙，视出发地点需要换乘开往路环的线路，车程一般约需40至60分钟。出租车走同样的路线约需10至15分钟，对于从机场或码头抵达的游客来说，是常见的替代选择。",
+      "days": "安排半天时间，便足以逛逛海滩、沿海散散步，再到附近一家澳门本地餐厅用餐；若想顺道探访附近的路环市区，建议安排一整天行程。"
+    }
+  },
+  "Macau Peninsula": {
+    "en": {
+      "blurb": "Macau Peninsula is the historic heart of the territory, a dense tangle of Portuguese colonial squares, baroque church facades and incense-filled temples set against neon-lit casino towers. It packs centuries of East-meets-West history, UNESCO-listed streets and some of Asia's most intense gaming floors into just a few square kilometres.",
+      "getting": "Most travellers arrive via Macau International Airport (MFM) on Taipa Island, then reach the Peninsula by taxi or bus through the connecting bridges or tunnel, a trip of roughly 15 to 25 minutes. Many visitors instead come by high-speed ferry from Hong Kong, docking at the Peninsula's Outer Harbour Ferry Terminal after a crossing of around an hour.",
+      "days": "Plan on ~2 days to properly explore the Peninsula's historic centre, temples and food streets, with an extra day if you want to linger over its casinos and museums."
+    },
+    "ko": {
+      "blurb": "마카오 반도는 이 지역의 역사적 심장부로, 포르투갈 식민지 시대의 광장과 바로크 양식 성당, 향 연기 자욱한 사원들이 네온 불빛 가득한 카지노 타워와 뒤섞여 독특한 풍경을 이룬다. 불과 몇 제곱킬로미터 안에 수백 년에 걸친 동서양의 만남, 유네스코 세계유산 거리, 그리고 아시아에서 손꼽히는 치열한 카지노 게임장이 빼곡히 들어차 있다.",
+      "getting": "대부분의 여행객은 타이파 섬에 위치한 마카오 국제공항(MFM)으로 입국한 뒤, 연결 다리나 터널을 통해 택시나 버스로 반도까지 이동하며, 소요 시간은 대략 15~25분 정도다. 또 다른 많은 방문객들은 홍콩에서 고속 페리를 타고 와, 약 1시간의 항해 끝에 반도의 외항 페리터미널에 도착하기도 한다.",
+      "days": "역사 지구와 사원, 먹자골목을 제대로 둘러보려면 2일 정도를 계획하는 것이 좋으며, 카지노와 박물관까지 여유롭게 즐기고 싶다면 하루를 더 추가하는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "マカオ半島はこの地の歴史的な中心地であり、ポルトガル植民地時代の広場やバロック様式の教会ファサード、お香の香り漂う寺院が入り組むように広がり、そのすぐ背後にはネオン輝くカジノタワーがそびえ立つ。わずか数平方キロメートルの中に、東西文化が交わる幾世紀もの歴史、ユネスコ世界遺産に登録された街並み、そしてアジア屈指の熱気を誇るカジノフロアがぎゅっと詰め込まれている。",
+      "getting": "多くの旅行者はタイパ島にあるマカオ国際空港（MFM）に到着し、そこから橋やトンネルを経由してタクシーやバスで半島へ向かう。所要時間はおよそ15～25分だ。香港から高速フェリーで訪れる旅行者も多く、約1時間の船旅の後、半島のアウターハーバー・フェリーターミナルに到着する。",
+      "days": "半島の歴史地区や寺院、グルメストリートをじっくり巡るには2日ほど見ておきたい。カジノや博物館巡りも楽しみたいなら、もう1日プラスするとよいだろう。"
+    },
+    "es": {
+      "blurb": "La Península de Macao es el corazón histórico del territorio, un denso entramado de plazas coloniales portuguesas, fachadas de iglesias barrocas y templos envueltos en incienso, todo ello enmarcado por torres de casinos iluminadas de neón. En apenas unos pocos kilómetros cuadrados concentra siglos de historia donde Oriente se encuentra con Occidente, calles declaradas Patrimonio de la Humanidad por la UNESCO y algunas de las salas de juego más vertiginosas de Asia.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional de Macao (MFM), en la isla de Taipa, y desde allí se dirige a la Península en taxi o autobús cruzando los puentes o el túnel de conexión, un trayecto de aproximadamente 15 a 25 minutos. Muchos otros optan por el ferry de alta velocidad desde Hong Kong, que atraca en la Terminal de Ferries del Puerto Exterior de la Península tras una travesía de alrededor de una hora.",
+      "days": "Conviene reservar unos 2 días para explorar con calma el centro histórico de la Península, sus templos y calles gastronómicas, y sumar un día más si se quiere disfrutar sin prisas de sus casinos y museos."
+    },
+    "zh": {
+      "blurb": "澳门半岛是这片土地历史底蕴最深厚的地方,葡式殖民风情的广场、巴洛克式教堂立面与香火缭绕的庙宇在此交织,与霓虹闪烁的赌场高楼相映成趣。短短几平方公里之内,浓缩了数百年中西交融的历史、列入世界遗产名录的街区,以及亚洲最热闹刺激的博彩场所。",
+      "getting": "大多数旅客会先抵达位于凼仔岛的澳门国际机场(MFM),再乘坐出租车或巴士,经由连接大桥或隧道前往半岛,车程约15至25分钟。也有不少游客选择从香港乘坐高速渡轮前来,航程约一小时,在半岛的外港客运码头靠岸。",
+      "days": "建议安排约2天时间,细细游览半岛的历史城区、庙宇和美食街;若想悠闲地逛逛赌场和博物馆,不妨多留一天。"
+    }
+  },
+  "Macau": {
+    "en": {
+      "blurb": "Macau packs Portuguese colonial squares, baroque church ruins and neon-lit casino towers onto a peninsula and two small islands at the mouth of the Pearl River Delta. It is one of the few places on earth where egg tarts and cobblestone plazas sit a short walk from some of the largest gaming floors in the world.",
+      "getting": "Most travellers arrive by ferry from Hong Kong, a crossing of around an hour to Macau's Outer Harbour or Taipa terminals, or fly directly into Macau International Airport (MFM) on Taipa island. There is no rail line into Macau itself, so overland travellers typically reach it by crossing on foot or by bus from the regional hub of Zhuhai at the Border Gate, or via the Hong Kong-Zhuhai-Macau Bridge.",
+      "days": "Two to three days is enough to cover the historic centre, a casino resort or two and a taste of the local food scene, though it is compact enough to see as a long day trip from Hong Kong."
+    },
+    "ko": {
+      "blurb": "마카오는 포르투갈 식민지 시대의 광장, 바로크 양식 성당의 폐허, 그리고 네온 불빛이 화려한 카지노 타워들을 주강 삼각주 어귀에 자리한 반도와 두 개의 작은 섬 위에 응축해 놓은 도시다. 에그타르트와 돌이 깔린 광장이 세계 최대 규모의 카지노 홀과 불과 몇 걸음 거리에 공존하는, 지구상에서 몇 안 되는 곳 중 하나다.",
+      "getting": "대부분의 여행자는 홍콩에서 페리를 타고 약 1시간을 건너 마카오 외항 또는 타이파 터미널로 도착하거나, 타이파섬에 위치한 마카오 국제공항(MFM)으로 직접 비행기를 타고 들어온다. 마카오 자체에는 철도 노선이 없기 때문에, 육로로 이동하는 여행자는 보통 인근 거점 도시인 주하이에서 국경 게이트를 걸어서 건너거나 버스로 이동하며, 홍콩-주하이-마카오 대교를 이용하기도 한다.",
+      "days": "역사 지구와 카지노 리조트 한두 곳, 그리고 현지 먹거리를 맛보기에는 2~3일이면 충분하며, 워낙 작은 지역이라 홍콩에서 당일치기 여행으로도 둘러볼 수 있다."
+    },
+    "ja": {
+      "blurb": "マカオは、珠江デルタの河口に浮かぶ半島とふたつの小島に、ポルトガル植民地時代の広場、バロック様式の教会跡、そしてネオン輝くカジノタワーをぎゅっと詰め込んだ街だ。石畳の広場やエッグタルトの香りが、世界屈指の規模を誇るカジノフロアのすぐそばに息づいている――そんな光景に出会える場所は、世界でもそう多くはない。",
+      "getting": "多くの旅行者は香港からフェリーで訪れる。マカオ・アウターハーバーまたはタイパのフェリーターミナルまで、所要時間は約1時間だ。あるいは、タイパ島にあるマカオ国際空港（MFM）へ直接空路で入る方法もある。マカオ内には鉄道が通っていないため、陸路で向かう場合は、隣接する中国の拠点都市・珠海から関閘（ボーダーゲート）を徒歩またはバスで越境するか、港珠澳大橋（香港・珠海・マカオ大橋）を利用するのが一般的だ。",
+      "days": "歴史地区をめぐり、カジノリゾートを1～2軒訪れ、地元グルメを味わうなら2～3日あれば十分だ。コンパクトな街なので、香港からの日帰り旅行先としても楽しめる。"
+    },
+    "es": {
+      "blurb": "Macao reúne en un solo lugar plazas coloniales portuguesas, ruinas de iglesias barrocas y torres de casinos iluminadas de neón, todo ello repartido entre una península y dos pequeñas islas en la desembocadura del Delta del Río de las Perlas. Es uno de los pocos rincones del mundo donde las tartaletas de huevo y las plazas empedradas conviven a pocos pasos de algunos de los salones de juego más grandes del planeta.",
+      "getting": "La mayoría de los viajeros llega en ferry desde Hong Kong, una travesía de aproximadamente una hora hasta las terminales de Outer Harbour o Taipa en Macao, o bien vuela directamente al Aeropuerto Internacional de Macao (MFM), situado en la isla de Taipa. Macao no cuenta con conexión ferroviaria propia, de modo que quienes llegan por tierra suelen hacerlo a pie o en autobús cruzando desde la ciudad fronteriza de Zhuhai por el Portón Fronterizo (Border Gate), o a través del puente Hong Kong-Zhuhai-Macao.",
+      "days": "Con dos o tres días es suficiente para recorrer el centro histórico, visitar uno o dos complejos de casinos y probar la gastronomía local, aunque Macao es lo bastante compacta como para conocerla también en una larga excursión de un día desde Hong Kong."
+    },
+    "zh": {
+      "blurb": "澳门坐落于珠江口的一个半岛和两座小岛之上，将葡式殖民广场、巴洛克教堂遗迹与霓虹闪烁的赌场高楼融为一体。放眼全球，很少有地方能像这里一样，蛋挞香气与石子广场仅一步之遥，便连接着世界上数一数二的豪华赌场。",
+      "getting": "大多数游客选择从香港乘船前往，航程约一小时，可抵达澳门外港或氹仔码头；也可以直接飞抵氹仔岛上的澳门国际机场（MFM）。澳门本身没有铁路线，因此经陆路前往的旅客通常会从内地枢纽城市珠海经拱北口岸步行或乘巴士入境，又或是经由港珠澳大桥往返。",
+      "days": "两到三天足以游览历史城区、体验一两家度假赌场，并品尝当地美食；不过澳门地方不大，若时间有限，也完全可以把它当作香港出发的一日长途游。"
+    }
+  },
+  "NAPE": {
+    "en": {
+      "blurb": "NAPE (Novos Aterros do Porto Exterior) is a reclaimed waterfront district on the Macau Peninsula, where I.M. Pei's cone-shaped Science Centre and the bronze Kun Iam statue face the harbour just beyond rows of casino resorts. It sits beside Macau's historic UNESCO core, giving it a split identity: part neon-lit gaming strip, part quiet promenade and park.",
+      "getting": "Most travellers arrive via Macau International Airport (MFM), on Taipa, then take a taxi or hotel shuttle bus across to NAPE in around 15 to 20 minutes; the airport also has its own stop on Macau's light rail Taipa Line. Visitors coming from the Hong Kong or mainland ferry terminals, or the Portas do Cerco border crossing, can likewise reach NAPE by taxi or by local buses from these hubs.",
+      "days": "Half a day to a full day is enough to cover NAPE's waterfront sights and casinos, and it pairs easily with 1 to 2 days exploring the rest of the Macau Peninsula."
+    },
+    "ko": {
+      "blurb": "NAPE(신필혈 신도시 지구)는 마카오 반도의 간척지에 조성된 해안 지구로, 이오 밍 페이가 설계한 원뿔 모양의 과학관과 청동 관음상이 카지노 리조트들 너머로 항구를 마주하고 있다. 유네스코 세계문화유산으로 지정된 마카오 구시가지 바로 옆에 위치해 있어, 네온사인이 번쩍이는 카지노 거리와 한적한 산책로·공원이 공존하는 이중적인 매력을 지니고 있다.",
+      "getting": "대부분의 여행객은 타이파에 위치한 마카오 국제공항(MFM)을 통해 입국한 뒤, 택시나 호텔 셔틀버스를 이용해 약 15~20분 만에 NAPE로 이동한다. 공항에는 마카오 경전철(LRT) 타이파선의 정류장도 있다. 홍콩이나 중국 본토발 페리 터미널, 또는 궁벽 국경 검문소(Portas do Cerco)를 통해 입국하는 여행객들도 마찬가지로 택시나 해당 거점에서 출발하는 시내버스를 이용해 NAPE에 도착할 수 있다.",
+      "days": "NAPE의 해안 명소와 카지노를 둘러보는 데는 반나절에서 하루면 충분하며, 마카오 반도의 나머지 지역을 1~2일 정도 더 둘러보는 일정과 함께 묶기에도 좋다."
+    },
+    "ja": {
+      "blurb": "NAPE(新口岸埋立地区)は、マカオ半島にある海沿いの新興エリアで、I.M.ペイ設計の円錐形の科学館と、観音像のブロンズ像が、カジノリゾート群の先に広がる港に向かって立っています。ユネスコ世界遺産にも登録されている旧市街のすぐそばに位置しているため、ネオン輝くカジノ街としての顔と、静かな遊歩道や公園が広がる顔という、二つの表情を併せ持つエリアとなっています。",
+      "getting": "多くの旅行者は、タイパ島にあるマカオ国際空港(MFM)を利用し、タクシーやホテルのシャトルバスで15〜20分ほどかけてNAPEへ向かいます。空港にはマカオのライトレール・タイパ線の駅もあります。香港やマカオ本土方面からのフェリーターミナル、または関閘(国境ゲート)を経由する旅行者も、同様にタクシーやこれらの拠点から出ている路線バスでNAPEに到着できます。",
+      "days": "NAPEの海沿いの見どころとカジノを巡るには、半日から1日あれば十分です。マカオ半島の他のエリアを観光する1〜2日間と組み合わせて楽しむのもおすすめです。"
+    },
+    "es": {
+      "blurb": "NAPE (Novos Aterros do Porto Exterior) es un barrio ganado al mar en la península de Macao, donde el cónico Centro de Ciencias de I.M. Pei y la estatua de bronce de Kun Iam dan al puerto, justo detrás de una hilera de resorts con casino. Se encuentra junto al casco histórico de Macao, declarado Patrimonio de la Humanidad por la UNESCO, lo que le confiere una identidad dual: por un lado, una franja de juego iluminada por neones; por otro, un tranquilo paseo marítimo y zonas verdes.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional de Macao (MFM), en Taipa, desde donde se toma un taxi o un autobús lanzadera de hotel hasta NAPE en unos 15 a 20 minutos; el aeropuerto también cuenta con su propia parada en la Línea Taipa del metro ligero de Macao. Quienes llegan desde las terminales de ferry de Hong Kong o de China continental, o por el paso fronterizo de Portas do Cerco, también pueden llegar a NAPE en taxi o en autobuses locales desde esos puntos.",
+      "days": "Medio día o un día completo bastan para recorrer los atractivos del paseo marítimo y los casinos de NAPE, y se combina fácilmente con 1 o 2 días dedicados a explorar el resto de la península de Macao."
+    },
+    "zh": {
+      "blurb": "NAPE（新口岸）是澳门半岛上的一片填海而成的海滨区域，贝聿铭设计的锥形澳门科学馆与青铜妈阁雕像般庄严的观音像隔海相望，背后则是一字排开的赌场酒店。由于紧邻澳门历史城区这一世界遗产核心区，NAPE也因此拥有双重气质：一边是霓虹闪烁的博彩娱乐带，一边是宁静悠然的海滨长廊与公园。",
+      "getting": "大多数游客会先抵达位于氹仔的澳门国际机场（MFM），再乘坐出租车或酒店穿梭巴士前往NAPE，车程约15到20分钟；机场本身也设有澳门轻轨氹仔线的站点，可直接搭乘轻轨前往。若是从香港或内地的客运码头，或是从关闸口岸入境，同样可以通过出租车或当地巴士抵达NAPE。",
+      "days": "游览NAPE的海滨景点和赌场，半天到一天时间就足够了，还可以轻松安排1到2天时间，顺道探索澳门半岛的其他区域。"
+    }
+  },
+  "St. Lazarus Quarter": {
+    "en": {
+      "blurb": "Tucked just northeast of the Ruins of St. Paul's, St. Lazarus Quarter is Macau's quietest historic parish: a tangle of cobbled \"calçada\" lanes lined with pastel colonial facades, converted into small galleries, studios and heritage buildings like the Albergue SCM. Far less crowded than Senado Square, it rewards slow wandering over quick sightseeing, with churches, courtyards and coffee shops tucked between restored Portuguese-era townhouses.",
+      "getting": "Most travellers arrive via Macau International Airport (MFM) on Taipa Island, taking the Light Rapid Transit or a public bus into the Macau Peninsula, then walking the final stretch; St. Lazarus Quarter sits around ~10-15 minutes on foot from the Ruins of St. Paul's and Senado Square, with no direct transit stop of its own.",
+      "days": "Half a day (~3-4 hours) is enough to wander its lanes, pop into a gallery or two and see the main churches, making it an easy add-on to a day spent around the historic centre."
+    },
+    "ko": {
+      "blurb": "성 라자로 성당 구역(St. Lazarus Quarter)은 성 바울 성당 유적 바로 북동쪽에 자리한, 마카오에서 가장 한적한 옛 교구 마을입니다. \"칼사다(calçada)\"라 불리는 돌 깔린 골목길을 따라 파스텔톤의 식민지풍 건물들이 늘어서 있고, 이들 중 상당수는 작은 갤러리와 스튜디오, 그리고 알베르게 SCM(Albergue SCM) 같은 유서 깊은 건축물로 탈바꿈했습니다. 세나도 광장에 비해 훨씬 한산한 이곳은 빠르게 둘러보기보다는 천천히 거닐 때 진가를 발휘하는 동네로, 복원된 포르투갈 시대 타운하우스들 사이사이에 교회와 중정, 카페들이 숨어 있습니다.",
+      "getting": "대부분의 여행객은 타이파 섬에 위치한 마카오 국제공항(MFM)을 통해 입국한 뒤, 경전철(LRT)이나 시내버스를 타고 마카오 반도로 이동한 다음 나머지 구간은 도보로 이동합니다. 성 라자로 성당 구역은 성 바울 성당 유적과 세나도 광장에서 도보로 약 10~15분 거리에 있으며, 별도의 직행 교통 정류장은 없습니다.",
+      "days": "반나절(약 3~4시간) 정도면 골목길을 거닐고 갤러리 한두 곳을 둘러본 뒤 주요 성당들까지 둘러보기에 충분합니다. 덕분에 역사 지구를 중심으로 하루 일정을 짤 때 부담 없이 더할 수 있는 코스입니다."
+    },
+    "ja": {
+      "blurb": "聖ラザロ地区は、聖ポール天主堂跡のすぐ北東に位置する、マカオで最も静かな歴史地区です。石畳の「カルサーダ」小路が入り組み、パステルカラーの植民地時代の建物が立ち並ぶ一帯には、アルベルゲSCMのような建物を改装した小さなギャラリーやアトリエが点在しています。セナド広場に比べると観光客の数はぐっと少なく、足早に見て回るというより、ゆっくりと散策してこそ魅力が味わえる場所。修復されたポルトガル統治時代の町家の合間には、教会や中庭、こぢんまりとしたカフェが隠れるように佇んでいます。",
+      "getting": "多くの旅行者は、タイパ島にあるマカオ国際空港（MFM）に到着し、そこからLRT（ライト・ラピッド・トランジット）や路線バスでマカオ半島へ移動した後、徒歩で向かうことになります。聖ラザロ地区自体には最寄りの公共交通の駅・停留所がなく、聖ポール天主堂跡やセナド広場から徒歩でおよそ10～15分ほどの距離にあります。",
+      "days": "半日（3～4時間程度）あれば、小路をゆっくり散策し、ギャラリーを1つ2つ覗いて、主要な教会を見て回るには十分です。歴史地区巡りの一日に、気軽に組み込める立ち寄りスポットと言えるでしょう。"
+    },
+    "es": {
+      "blurb": "Ubicado justo al noreste de las Ruinas de San Pablo, el Barrio de San Lázaro es la parroquia histórica más tranquila de Macao: un entramado de callejuelas empedradas, las típicas \"calçadas\", flanqueadas por fachadas coloniales de tonos pastel que hoy albergan pequeñas galerías, estudios de arte y edificios patrimoniales como el Albergue SCM. Mucho menos concurrido que la Plaza de Senado, este barrio premia el paseo pausado por encima del turismo exprés, con iglesias, patios y cafeterías escondidos entre casonas restauradas de la época portuguesa.",
+      "getting": "La mayoría de los viajeros llega por el Aeropuerto Internacional de Macao (MFM), en la isla de Taipa, y desde allí toma el Metro Ligero (LRT) o un autobús público hasta la Península de Macao, completando el trayecto final a pie; el Barrio de San Lázaro se encuentra a unos 10-15 minutos caminando desde las Ruinas de San Pablo y la Plaza de Senado, ya que no cuenta con parada de transporte propia.",
+      "days": "Medio día (entre 3 y 4 horas) es tiempo suficiente para recorrer sus callejuelas, asomarse a alguna galería y visitar las iglesias principales, lo que lo convierte en un complemento perfecto para una jornada dedicada al centro histórico."
+    },
+    "zh": {
+      "blurb": "圣老楞佐堂区（又称瘦狗井艺术区）坐落于大三巴牌坊东北侧不远处，是澳门最清幽的历史城区：蜿蜒的石仔路两旁，粉彩色的殖民时期建筑错落有致，许多已改建为小型画廊、艺术工作室，以及像仁慈堂婆仔屋这样的历史建筑。相比人潮涌动的议事亭前地，这里游客稀少得多，更适合放慢脚步细细漫游，而非走马观花——教堂、庭院与咖啡馆静静藏身于修复一新的葡式老宅之间，等待被慢慢发现。",
+      "getting": "大多数旅客会经由氹仔岛的澳门国际机场（MFM）抵达，再搭乘轻轨或公共巴士前往澳门半岛，最后一段路程则需步行。圣老楞佐堂区本身没有直达的公共交通站点，从大三巴牌坊或议事亭前地步行过去，大约只需10至15分钟。",
+      "days": "半天时间（约3至4小时）便足以漫步街巷、逛一两间画廊，并参观主要的教堂建筑。若已安排一天游览历史城区，不妨将这里作为顺路的延伸行程。"
+    }
+  },
+  "Taipa Village": {
+    "en": {
+      "blurb": "Taipa Village is Macau's most walkable old quarter: a compact grid of pastel Portuguese-Macanese townhouses, shrine-lined back lanes and egg tart bakeries wedged between the modern Cotai casino strip and the sea. It has kept a slower, small-town character that the surrounding mega-resorts have largely built over.",
+      "getting": "Macau International Airport (MFM) sits on Taipa itself, so most travellers reach the village by a short taxi ride or a public bus from the airport or from the regional hub at the Macau Peninsula/border gate, usually finishing with a brief walk into the pedestrian lanes around Rua do Cunha. The Macau LRT Taipa Line, running since December 2019, also serves the island, though buses remain the more direct option into the village core.",
+      "days": "Half a day to a full day is enough to cover the village's main streets, temples and food stalls at an easy pace."
+    },
+    "ko": {
+      "blurb": "타이파 빌리지는 마카오에서 가장 걷기 좋은 구시가지다. 파스텔톤의 포르투갈-마카오풍 타운하우스와 사당이 늘어선 골목길, 에그타르트 빵집들이 촘촘히 들어차 있으며, 현대적인 코타이 카지노 지구와 바다 사이에 끼어 있다. 주변을 뒤덮은 대형 리조트들과 달리, 이곳은 여전히 느긋하고 아기자기한 소도시의 정취를 간직하고 있다.",
+      "getting": "마카오 국제공항(MFM)이 타이파 섬 안에 있어서, 대부분의 여행자는 공항에서 짧은 택시 이동이나 버스를 이용해 마을에 도착한다. 마카오 반도나 국경 검문소 쪽 교통 거점에서 출발하는 버스도 이용할 수 있으며, 보통 루아 두 쿠냐(Rua do Cunha) 주변 보행자 골목까지는 짧은 도보로 마무리하게 된다. 2019년 12월부터 운행 중인 마카오 경전철(LRT) 타이파 노선도 섬을 지나가지만, 마을 중심부까지는 버스가 더 직행에 가까운 선택지다.",
+      "days": "반나절에서 하루 정도면 마을의 주요 거리와 사원, 먹거리 노점들을 여유롭게 둘러보기에 충분하다."
+    },
+    "ja": {
+      "blurb": "タイパ・ヴィレッジは、マカオで最も歩いて楽しめる旧市街だ。パステルカラーのポルトガル・マカニーズ様式の町家、祠が点在する裏路地、エッグタルトの店が、碁盤の目のようにぎゅっと詰まったコンパクトな一角に広がる。近代的なコタイのカジノ街と海に挟まれながらも、周囲の巨大リゾート群にほぼ呑み込まれることなく、昔ながらのゆったりとした下町情緒を今に残している。",
+      "getting": "マカオ国際空港(MFM)はタイパ島内にあるため、多くの旅行者は空港から、あるいはマカオ半島側の拠点や国境ゲート周辺からタクシーかバスで短時間のうちに村へ到着する。最後はクンハ通り(Rua do Cunha)周辺の歩行者専用路地まで、少し歩いて入っていく形になることが多い。2019年12月開業のマカオLRTタイパ線もこの島をカバーしているが、村の中心部へ直接向かうならバスの方が便利だ。",
+      "days": "半日あれば村の主要な通りや寺院、屋台グルメをひと通り楽しめるが、ゆったり巡るなら丸1日見ておくとちょうどいい。"
+    },
+    "es": {
+      "blurb": "La Villa de Taipa es el casco antiguo más transitable de Macao a pie: una compacta cuadrícula de casas portuguesas-macaenses de tonos pastel, callejones traseros salpicados de templos y pastelerías de tartaletas de huevo, encajada entre la moderna franja de casinos de Cotai y el mar. Ha conservado un ritmo de vida más pausado y un carácter de pueblo pequeño que los megacomplejos de alrededor han terminado por sepultar en buena parte.",
+      "getting": "El Aeropuerto Internacional de Macao (MFM) se encuentra en la propia isla de Taipa, así que la mayoría de los viajeros llegan a la villa en un breve trayecto de taxi o en autobús público, ya sea directamente desde el aeropuerto o desde el centro de conexiones de la Península de Macao/el puesto fronterizo, para terminar casi siempre con un corto paseo hasta las callejuelas peatonales en torno a la Rua do Cunha. El LRT de Macao, en su Línea Taipa operativa desde diciembre de 2019, también da servicio a la isla, aunque el autobús sigue siendo la opción más directa para llegar al corazón de la villa.",
+      "days": "Medio día, o como mucho un día completo, basta para recorrer con calma las calles principales, los templos y los puestos de comida de la villa."
+    },
+    "zh": {
+      "blurb": "氹仔旧城区是澳门最适合步行游览的老街区：一片由粉彩色葡式澳门老宅、庙宇林立的小巷和蛋挞店组成的紧凑街巷，恰好夹在现代化的路氹赌场区和大海之间。相较于周边拔地而起的巨型度假村，这里依然保留着悠闲的小镇风情，未被过度开发所吞没。",
+      "getting": "澳门国际机场（MFM）就坐落在氹仔岛上，因此大多数旅客只需搭乘短程出租车，或从机场、澳门半岛口岸等枢纽乘坐公交车，即可抵达氹仔旧城区，最后步行进入官也街一带的步行小巷即可。自2019年12月通车的澳门轻轨氹仔线也途经此岛，不过若想直达旧城区核心地带，公交车仍是更便捷的选择。",
+      "days": "只需半天到一天时间，便能悠闲地逛遍氹仔旧城区的主要街道、庙宇和各式小吃摊。"
+    }
+  },
+  "Taipa": {
+    "en": {
+      "blurb": "Taipa blends old and new Macau: a historic village of narrow lanes, Portuguese-era townhouses and egg tart bakeries sits just minutes from the glittering casino resorts of neighbouring Cotai. It is also home to Macau's own international airport, making it one of the territory's busiest crossroads for visitors arriving by air.",
+      "getting": "Most travellers arrive via Macau International Airport (MFM), which sits on Taipa itself and is linked to the rest of the territory by the Taipa line of the Macau Light Rapid Transit. From the airport or the regional ferry and bus terminals, buses and taxis provide the most reliable onward routes into Taipa Village and the Cotai resorts.",
+      "days": "Budget ~1 to 2 days to cover Taipa's heritage village, waterfront and nearby Cotai resorts at a relaxed pace."
+    },
+    "ko": {
+      "blurb": "타이파(Taipa)는 마카오의 옛 정취와 현대적인 화려함이 공존하는 곳이다. 좁은 골목길과 포르투갈 양식의 타운하우스, 에그타르트 빵집이 늘어선 유서 깊은 마을이 이웃한 코타이(Cotai)의 화려한 카지노 리조트 단지와 불과 몇 분 거리에 자리하고 있다. 또한 마카오 유일의 국제공항이 위치한 곳이기도 해서, 항공편으로 입국하는 방문객들에게 가장 분주한 관문 중 하나로 꼽힌다.",
+      "getting": "대부분의 여행객은 타이파 내에 위치한 마카오국제공항(MFM)을 통해 입국하며, 이 공항은 마카오 경전철(Light Rapid Transit)의 타이파 노선을 통해 마카오 전역과 연결된다. 공항이나 인근 페리 터미널, 버스 터미널에서 타이파 마을과 코타이 리조트 지역으로 이동할 때는 버스나 택시를 이용하는 것이 가장 확실하고 편리한 방법이다.",
+      "days": "타이파의 유서 깊은 마을과 해안가, 그리고 인근 코타이 리조트까지 여유롭게 둘러보려면 1~2일 정도를 계획하는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "タイパは、マカオの新旧の魅力が交差するエリアです。細い路地が入り組む古い村には、ポルトガル統治時代の面影を残すタウンハウスやエッグタルトの老舗が軒を連ね、そこからほんの数分で、隣接するコタイの煌びやかなカジノリゾート街へとたどり着きます。さらに、マカオ唯一の国際空港もこの地にあり、タイパは空路で訪れる旅行者にとって、まさにマカオ観光の玄関口となっています。",
+      "getting": "多くの旅行者は、タイパ島内にあるマカオ国際空港（MFM）から入境します。空港はマカオ軽軌（LRT）のタイパ線でマカオ各地と結ばれています。空港や、フェリーターミナル・バスターミナルからは、バスやタクシーを利用するのが、タイパ・ヴィレッジやコタイのリゾートエリアへ向かう最も確実な方法です。",
+      "days": "タイパの歴史的な旧市街、ウォーターフロント、そして近隣のコタイのリゾート街をのんびり巡るなら、1～2日ほど見ておくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Taipa combina lo antiguo y lo nuevo de Macao: un pueblo histórico de callejuelas estrechas, casas de estilo portugués y pastelerías de tartaletas de huevo se encuentra a solo minutos de los deslumbrantes resorts con casino de la vecina Cotai. Aquí también se ubica el aeropuerto internacional de Macao, lo que convierte a Taipa en uno de los puntos de entrada más transitados del territorio para los visitantes que llegan por vía aérea.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional de Macao (MFM), situado en la propia Taipa y conectado con el resto del territorio por la línea de Taipa del Metro Ligero de Macao (LRT). Desde el aeropuerto o desde las terminales regionales de ferry y autobuses, los autobuses y los taxis son la forma más segura de continuar el viaje hacia el Poblado de Taipa y los resorts de Cotai.",
+      "days": "Reserva entre 1 y 2 días para recorrer con calma el poblado histórico de Taipa, su paseo marítimo y los resorts cercanos de Cotai."
+    },
+    "zh": {
+      "blurb": "氹仔是新旧澳门交融之地：石板小巷、葡式老屋与蛋挞店铺林立的历史村落，与近在咫尺、灯火璀璨的路氹赌场度假区仅相隔几分钟车程。这里还坐落着澳门唯一的国际机场，使氹仔成为游客空中抵达澳门最繁忙的门户之一。",
+      "getting": "大多数旅客经澳门国际机场（MFM）抵达，机场本身就坐落在氹仔，并通过澳门轻轨氹仔线与澳门其他地区相连。无论是从机场出发，还是从区域客运码头和巴士总站出发，巴士与的士都是前往氹仔旧城区及路氹度假区最便捷可靠的交通方式。",
+      "days": "建议预留1至2天时间，以轻松的步调游览氹仔的历史村落、海滨风光以及邻近的路氹度假区。"
+    }
   }
 }

@@ -2814,6 +2814,12 @@
   "reason": "patrol replace: Plated dessert with whipped cream, citrus, trendy Barcelona ",
   "at": "2026-10-01T23:23:06.518Z"
  },
+ "barra-lilau-square\u0001https://upload.wikimedia.org/wikipedia/commons/1/1b/%E4%BA%9E%E5%A9%86%E4%BA%95%E5%89%8D%E5%9C%B0_Lilau_Square_-_panoramio.jpg": {
+  "slug": "barra-lilau-square",
+  "verdict": "MATCH",
+  "reason": "publish gate: Narrow Macau street with colonial buildings, plausible Lilau Square area",
+  "at": "2026-10-06T14:38:33.691Z"
+ },
  "bath-museum-of-bath-at-work\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Museum_of_Bath_at_Work.jpg/1920px-Museum_of_Bath_at_Work.jpg": {
   "slug": "bath-museum-of-bath-at-work",
   "verdict": "MATCH",
@@ -5597,6 +5603,24 @@
   "reason": "publish gate: Nighttime canal scene plausible for Colmar's old town",
   "at": "2026-09-10T07:41:01.680Z"
  },
+ "coloane-a-ma-cultural-village\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Rear_view_of_the_A-Ma_Cultural_Village_at_dusk%2C_Coloane%2C_Macau.jpg/3840px-Rear_view_of_the_A-Ma_Cultural_Village_at_dusk%2C_Coloane%2C_Macau.jpg": {
+  "slug": "coloane-a-ma-cultural-village",
+  "verdict": "MATCH",
+  "reason": "publish gate: Chinese temple-style roofline matches A-Ma Cultural Village architecture",
+  "at": "2026-10-06T14:30:14.468Z"
+ },
+ "coloane-macao-giant-panda-pavilion\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Macao_Giant_Panda_Pavilion%2CSeac_Pai_Van_Park_26-02-2023.jpg/3840px-Macao_Giant_Panda_Pavilion%2CSeac_Pai_Van_Park_26-02-2023.jpg": {
+  "slug": "coloane-macao-giant-panda-pavilion",
+  "verdict": "MATCH",
+  "reason": "publish gate: Pavilion exterior with panda statues, representative hero image",
+  "at": "2026-10-06T14:36:06.946Z"
+ },
+ "coloane-village-hac-sa-reservoir-barbecue-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hac_S%C3%A1_Reservoir_Natural_Park_barbecue_sites_23-02-2023.jpg/3840px-Hac_S%C3%A1_Reservoir_Natural_Park_barbecue_sites_23-02-2023.jpg": {
+  "slug": "coloane-village-hac-sa-reservoir-barbecue-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows picnic tables and BBQ pits at the park",
+  "at": "2026-10-06T14:29:43.130Z"
+ },
  "cologne-cologne-cathedral\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Cologne_Germany_Cologne-Cathedral-West-Facade-01.jpg/3840px-Cologne_Germany_Cologne-Cathedral-West-Facade-01.jpg": {
   "slug": "cologne-cologne-cathedral",
   "verdict": "MATCH",
@@ -5683,6 +5707,18 @@
   "reason": "Coron lagoon with boats, limestone cliffs",
   "reasonKo": "코론 석회암 절벽과 보트",
   "at": "2026-08-12T14:02:57.200Z"
+ },
+ "cotai-chelsea-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Chelsea_Garden_at_The_Londoner_Macao.jpg/3840px-Chelsea_Garden_at_The_Londoner_Macao.jpg": {
+  "slug": "cotai-chelsea-garden",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior entrance showing Chelsea Garden signage and corridor",
+  "at": "2026-10-06T14:41:23.929Z"
+ },
+ "cotai-the-cotai-strip\u0001https://upload.wikimedia.org/wikipedia/commons/5/51/Macau_Cotai_Strip_%2812469090953%29.jpg": {
+  "slug": "cotai-the-cotai-strip",
+  "verdict": "MATCH",
+  "reason": "publish gate: Night view of Cotai Strip with City of Dreams sign",
+  "at": "2026-10-06T14:26:23.403Z"
  },
  "cozumel-margaritaville-cozumel\u0001https://upload.wikimedia.org/wikipedia/commons/c/cf/Margaritaville_Cozumel_2023.jpg": {
   "slug": "cozumel-margaritaville-cozumel",
@@ -7644,6 +7680,12 @@
   "reasonKo": "광저우 월수공원 정문",
   "at": "2026-08-17T13:24:56.522Z"
  },
+ "guia-guia-fortress-and-lighthouse\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Guia_Fortress_23-02-2024%289%29.jpg/3840px-Guia_Fortress_23-02-2024%289%29.jpg": {
+  "slug": "guia-guia-fortress-and-lighthouse",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Guia Lighthouse and chapel, representative view",
+  "at": "2026-10-06T14:28:46.652Z"
+ },
  "guilin-elephant-trunk-hill\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Xiangshan_Scenic_Area_89468-Guilin_%2831130832628%29.jpg/1920px-Xiangshan_Scenic_Area_89468-Guilin_%2831130832628%29.jpg": {
   "slug": "guilin-elephant-trunk-hill",
   "verdict": "MATCH",
@@ -7845,6 +7887,18 @@
   "verdict": "MATCH",
   "reason": "Cave interior with stalactites, tourists, Ha Long Bay",
   "at": "2026-07-25T02:43:34.668Z"
+ },
+ "hac-sa-hac-sa-beach\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hac_Sa_Beach_and_Grand_Coloane_Resort_Macau_10-02-2023.jpg/1920px-Hac_Sa_Beach_and_Grand_Coloane_Resort_Macau_10-02-2023.jpg": {
+  "slug": "hac-sa-hac-sa-beach",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Hac Sa Beach with sand, water, and resort",
+  "at": "2026-10-06T14:36:47.043Z"
+ },
+ "hac-sa-hac-sa-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Barbecue_Area_at_Hac_Sa_Park.jpg/1920px-Barbecue_Area_at_Hac_Sa_Park.jpg": {
+  "slug": "hac-sa-hac-sa-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Park with playground, landscaping, matches Hac Sa Park",
+  "at": "2026-10-06T14:30:58.436Z"
  },
  "hamburg-hamburger-kunsthalle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Hamburger_Kunsthalle.jpg/1920px-Hamburger_Kunsthalle.jpg": {
   "slug": "hamburg-hamburger-kunsthalle",
@@ -13853,6 +13907,24 @@
   "reason": "Manhole cover, not venue-specific imagery",
   "at": "2026-07-25T02:46:17.289Z"
  },
+ "macau-a-ma-temple\u0001https://upload.wikimedia.org/wikipedia/commons/3/39/A_Ma_Temple_200907.jpg": {
+  "slug": "macau-a-ma-temple",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows A-Ma Temple entrance and grounds in Macau",
+  "at": "2026-10-06T14:27:09.947Z"
+ },
+ "macau-peninsula-lou-kau-mansion\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/20250806_Main_hall_of_the_Lou_Kau_Mansion.jpg/3840px-20250806_Main_hall_of_the_Lou_Kau_Mansion.jpg": {
+  "slug": "macau-peninsula-lou-kau-mansion",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative interior hall view of Lou Kau Mansion",
+  "at": "2026-10-06T14:37:53.933Z"
+ },
+ "macau-peninsula-senado-square\u0001https://upload.wikimedia.org/wikipedia/commons/2/2c/Senado_Square_in_Macau01.jpg": {
+  "slug": "macau-peninsula-senado-square",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Senado Square with Holy House of Mercy building",
+  "at": "2026-10-06T14:33:46.668Z"
+ },
  "madrid-barcelona-the-weeknd-after-hours-til-dawn-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/The_Weeknd_-_Live_at_Ippodromo_SNAI_La_Maura%2C_Milan_%28July_27%2C_2023%29.jpg/3840px-The_Weeknd_-_Live_at_Ippodromo_SNAI_La_Maura%2C_Milan_%28July_27%2C_2023%29.jpg": {
   "slug": "madrid-barcelona-the-weeknd-after-hours-til-dawn-tour",
   "verdict": "MATCH",
@@ -15119,6 +15191,12 @@
   "reason": "publish gate: Shows iconic blast furnace and park grounds at Fundidora",
   "at": "2026-10-04T07:48:36.938Z"
  },
+ "monterrey-macroplaza\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Macroplaza_de_Monterrey_y_alrededores_-_6.jpg/1920px-Macroplaza_de_Monterrey_y_alrededores_-_6.jpg": {
+  "slug": "monterrey-macroplaza",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view of Macroplaza Monterrey with landmark buildings",
+  "at": "2026-10-06T14:22:30.312Z"
+ },
  "monterrey-paseo-santa-lucia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Monterrey_HDR.jpg/1920px-Monterrey_HDR.jpg": {
   "slug": "monterrey-paseo-santa-lucia",
   "verdict": "MATCH",
@@ -15639,6 +15717,18 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Sun Moon Lake landscape with boats and mountains",
   "at": "2026-08-22T15:24:18.687Z"
+ },
+ "nape-macau-fisherman-s-wharf\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Macau_Fisherman%27s_Wharf_06-05-2023.jpg/3840px-Macau_Fisherman%27s_Wharf_06-05-2023.jpg": {
+  "slug": "nape-macau-fisherman-s-wharf",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Legend Palace Hotel at Macau Fisherman's Wharf waterfront",
+  "at": "2026-10-06T14:31:56.127Z"
+ },
+ "nape-templo-de-kun-iam\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/20250805_Templo_de_Kun_Iam_da_Taipa.jpg/3840px-20250805_Templo_de_Kun_Iam_da_Taipa.jpg": {
+  "slug": "nape-templo-de-kun-iam",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior facade of Kun Iam Temple shrine entrance",
+  "at": "2026-10-06T14:34:36.875Z"
  },
  "naples-archaeological-park-of-pompeii\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Amphitheatre%2C_Archaeological_Park_of_Pompeii%2C_Italy_%28PPL2-Enhanced%29_julesvernex2.jpg/1920px-Amphitheatre%2C_Archaeological_Park_of_Pompeii%2C_Italy_%28PPL2-Enhanced%29_julesvernex2.jpg": {
   "slug": "naples-archaeological-park-of-pompeii",
@@ -16706,6 +16796,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows cacti garden with colonial building, matches venue",
   "at": "2026-10-04T07:44:54.203Z"
+ },
+ "oaxaca-templo-de-santo-domingo-de-guzman\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Templo_de_Santo_Domingo_de_Guzm%C3%A1n%2C_Oaxaca_de_Ju%C3%A1rez.jpg/3840px-Templo_de_Santo_Domingo_de_Guzm%C3%A1n%2C_Oaxaca_de_Ju%C3%A1rez.jpg": {
+  "slug": "oaxaca-templo-de-santo-domingo-de-guzman",
+  "verdict": "MATCH",
+  "reason": "publish gate: Church facade visible with foreground plants, representative view",
+  "at": "2026-10-06T14:21:33.394Z"
  },
  "okinawa-chatan-steam-seafood\u0001https://fastly.4sqi.net/img/general/original/11141029_9576yXdaVYCMS2fYlxQsix84hZbWpCYcOjV6ZOhFw1w.jpg": {
   "slug": "okinawa-chatan-steam-seafood",
@@ -18411,6 +18507,12 @@
   "reasonKo": "사진이 320px로 너무 작음",
   "at": "2026-08-11T21:07:15.485Z"
  },
+ "playa-del-carmen-el-castillo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/El_Castillo_%2816682767642%29.jpg/3840px-El_Castillo_%2816682767642%29.jpg": {
+  "slug": "playa-del-carmen-el-castillo",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear representative view of El Castillo pyramid",
+  "at": "2026-10-06T14:20:35.048Z"
+ },
  "playa-del-carmen-portal-maya\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Portal_Maya_%28El_Cierre_del_Ciclo_de_la_Cuenta_Larga_Maya%29_by_Jos%C3%A9_Arturo_Tavares..._in_morning_twilight_-_Playa_del_Carmen%2C_Mexico_-_August_15%2C_2014_01.png/3840px-Portal_Maya_%28El_Cierre_del_Ciclo_de_la_Cuenta_Larga_Maya%29_by_Jos%C3%A9_Arturo_Tavares..._in_morning_twilight_-_Playa_del_Carmen%2C_Mexico_-_August_15%2C_2014_01.png": {
   "slug": "playa-del-carmen-portal-maya",
   "verdict": "MATCH",
@@ -18640,6 +18742,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Hillside view with buildings overlooking Puerto Vallarta bay",
   "at": "2026-10-04T07:46:52.424Z"
+ },
+ "puerto-vallarta-los-arcos\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Los_Arcos_de_Mismaloya.jpg/3840px-Los_Arcos_de_Mismaloya.jpg": {
+  "slug": "puerto-vallarta-los-arcos",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Los Arcos rock formations with arch, Puerto Vallarta",
+  "at": "2026-10-06T14:25:17.292Z"
  },
  "puerto-vallarta-pancho-s-takos\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Pancho%27s_Takos%2C_Puerto_Vallarta%2C_2021.jpg/3840px-Pancho%27s_Takos%2C_Puerto_Vallarta%2C_2021.jpg": {
   "slug": "puerto-vallarta-pancho-s-takos",
@@ -21926,6 +22034,18 @@
   "reason": "publish gate: Shows red lighthouse on breakwater, representative Sokcho harbor view",
   "at": "2026-10-02T07:41:42.247Z"
  },
+ "st-lazarus-quarter-ruins-of-saint-paul-s\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/%E5%A4%A7%E4%B8%89%E5%B7%B4%E7%89%8C%E5%9D%8A.jpg/1920px-%E5%A4%A7%E4%B8%89%E5%B7%B4%E7%89%8C%E5%9D%8A.jpg": {
+  "slug": "st-lazarus-quarter-ruins-of-saint-paul-s",
+  "verdict": "MATCH",
+  "reason": "publish gate: Iconic facade of Ruins of St. Paul's, Macau",
+  "at": "2026-10-06T14:23:38.555Z"
+ },
+ "st-lazarus-quarter-st-lazarus-church\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/St_Lazarus_Church_%E6%9C%9B%E5%BE%B7%E8%81%96%E6%AF%8D%E5%A0%82_-_panoramio.jpg/3840px-St_Lazarus_Church_%E6%9C%9B%E5%BE%B7%E8%81%96%E6%AF%8D%E5%A0%82_-_panoramio.jpg": {
+  "slug": "st-lazarus-quarter-st-lazarus-church",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of church building, representative hero shot",
+  "at": "2026-10-06T14:39:44.134Z"
+ },
  "stanley-stanley-main-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Stanley_Main_Street_Eastern_End.jpg/3840px-Stanley_Main_Street_Eastern_End.jpg": {
   "slug": "stanley-stanley-main-street",
   "verdict": "MATCH",
@@ -22649,6 +22769,30 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Hotel bedroom, not a restaurant venue",
   "at": "2026-09-14T22:41:23.921Z"
+ },
+ "taipa-vila-da-taipa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Vila_da_Taipa_13-02-2023%281%29.jpg/3840px-Vila_da_Taipa_13-02-2023%281%29.jpg": {
+  "slug": "taipa-vila-da-taipa",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows colonnade facade of Vila da Taipa clearly",
+  "at": "2026-10-06T14:28:00.007Z"
+ },
+ "taipa-village-rua-do-cunha\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Rua_do_Cunha_30-10-2023%281%29.jpg/3840px-Rua_do_Cunha_30-10-2023%281%29.jpg": {
+  "slug": "taipa-village-rua-do-cunha",
+  "verdict": "MATCH",
+  "reason": "publish gate: Busy street scene with shop signs, matches Rua do Cunha",
+  "at": "2026-10-06T14:40:43.910Z"
+ },
+ "taipa-village-taipa-central-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Taipa_Central_Park_30-11-2023.jpg/3840px-Taipa_Central_Park_30-11-2023.jpg": {
+  "slug": "taipa-village-taipa-central-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Park with greenery and skyline, representative view",
+  "at": "2026-10-06T14:32:48.790Z"
+ },
+ "taipa-village-taipa-houses\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Taipa_Houses_Museum_01.JPG/1920px-Taipa_Houses_Museum_01.JPG": {
+  "slug": "taipa-village-taipa-houses",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows colonial-style green house matching Taipa Houses architecture",
+  "at": "2026-10-06T14:35:17.546Z"
  },
  "taipei-addiction-aquatic-development\u0001https://fastly.4sqi.net/img/general/original/6400047_moki8Fk7EHLQzOjc53-GdMwq2ZZdk9WC1KaEkR7qW80.jpg": {
   "slug": "taipei-addiction-aquatic-development",
@@ -24195,6 +24339,12 @@
   "verdict": "MATCH",
   "reason": "patrol re-check: Waterfront promenade plaza with skyline view, consistent with venue",
   "at": "2026-08-16T20:35:40.804Z"
+ },
+ "tulum-el-castillo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/El_Castillo_front_view_-_Tulum_Maya_site%2C_QR.jpg/3840px-El_Castillo_front_view_-_Tulum_Maya_site%2C_QR.jpg": {
+  "slug": "tulum-el-castillo",
+  "verdict": "MATCH",
+  "reason": "publish gate: Matches El Castillo ruins at Tulum, representative view",
+  "at": "2026-10-06T14:24:25.264Z"
  },
  "tulum-gran-cenote\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Gran_cenote_Tulum_%2820767214144%29.jpg/3840px-Gran_cenote_Tulum_%2820767214144%29.jpg": {
   "slug": "tulum-gran-cenote",
