@@ -1,42 +1,5 @@
 {
-  "validate-content": {
-    "CONTRADICTORY goyang-charlie-puth-concert.md": {
-      "since": "2026-10-06",
-      "last": "2026-10-06",
-      "seen": 1
-    },
-    "CONTRADICTORY incheon-edc-korea-electric-daisy-carnival.md": {
-      "since": "2026-10-06",
-      "last": "2026-10-06",
-      "seen": 1
-    },
-    "DUPLICATE lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia.md": {
-      "since": "2026-10-06",
-      "last": "2026-10-06",
-      "seen": 1
-    },
-    "DUPLICATE manila-5sos-everyone-s-a-star-world-tour.md": {
-      "since": "2026-10-06",
-      "last": "2026-10-06",
-      "seen": 1
-    },
-    "REGION hong-kong-5-seconds-of-summer-everyone-s-a-star-world-tour.md": {
-      "since": "2026-10-06",
-      "last": "2026-10-06",
-      "seen": 1
-    }
-  },
-  "audit-translations": {
-    "broken-bold essentials/ja/macau.md": {
-      "since": "2026-10-06",
-      "last": "2026-10-06",
-      "seen": 1
-    },
-    "broken-bold essentials/zh/macau.md": {
-      "since": "2026-10-06",
-      "last": "2026-10-06",
-      "seen": 1
-    }
-  },
+  "validate-content": {},
+  "audit-translations": {},
   "audit-hours-claims": {}
 }
