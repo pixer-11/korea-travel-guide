@@ -490,6 +490,18 @@ jobs:
             # the page shows its prose — so it must not fail the publish.
             node scripts/build-essentials-facts.mjs || echo "필수정보 카드 추출 실패 — 해당 나라는 본문으로 표시됩니다."
           fi
+          # A language whose cards failed is stored as null and, until now, was
+          # retried only by the monthly refresh: Macau's ko/ja/es/zh cards failed
+          # on its first day (2026-10-06, a model hiccup — the rerun was clean)
+          # and the live check flagged four card-less pages the next morning.
+          # Retry just those languages while any are null; a retry is one
+          # translation call per country, so a stuck one costs cents a day and
+          # the live check keeps saying so.
+          NULLCARDS=$(node -e "const c=require('./data/essentials-facts.json');const m=c.countries||c;console.log(Object.entries(m).filter(([,v])=>v&&typeof v==='object'&&['ko','ja','es','zh'].some((l)=>v[l]===null)).map(([k])=>k).join(', '))")
+          if [ -n "$NULLCARDS" ]; then
+            echo "번역 카드가 빈 나라 재시도: $NULLCARDS"
+            node scripts/build-essentials-facts.mjs --retry-failed || echo "카드 재시도 실패 — 내일 다시 시도합니다."
+          fi
 
       # Public-holiday name glosses. src/i18n/holidays.ts says in its own comment
       # "Never English on a localized page", and that was false for 216 of 329

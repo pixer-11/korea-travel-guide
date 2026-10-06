@@ -8071,22 +8071,22 @@
           {
             "key": "entry",
             "title": "Visa-free 30–180 days",
-            "sub": "Length depends on nationality; confirm before flying"
+            "sub": "Depends on nationality; varies by passport"
           },
           {
             "key": "money",
-            "title": "Pay in patacas",
-            "sub": "HKD also widely accepted at 1:1 rate"
+            "title": "Pataca, HKD accepted",
+            "sub": "HKD widely accepted at 1:1 rate"
           },
           {
             "key": "season",
-            "title": "Oct–Apr best weather",
-            "sub": "19–27°C, lower humidity, no typhoon risk"
+            "title": "October to April best",
+            "sub": "Cooler, drier, no typhoon risk"
           },
           {
             "key": "transport",
-            "title": "Bus or Taipa light rail",
-            "sub": "Use a Macau Pass card for cheaper fares"
+            "title": "Bus & Taipa light rail",
+            "sub": "Use a Macau Pass card to save on fares"
           }
         ],
         "visa": {
@@ -8097,7 +8097,7 @@
               "who": "United Kingdom, Portugal, Republic of Ireland",
               "cost": "",
               "stay": "180 days",
-              "note": "No advance visa needed; officer stamps passport at border"
+              "note": "No advance visa needed, stamped on arrival"
             },
             {
               "name": "Visa-free 90 days",
@@ -8105,7 +8105,7 @@
               "who": "Australia, New Zealand, most EU states, Japan, South Korea, Brazil",
               "cost": "",
               "stay": "90 days",
-              "note": "No advance visa needed; officer stamps passport at border"
+              "note": "No advance visa needed, stamped on arrival"
             },
             {
               "name": "Visa-free 30 days",
@@ -8113,7 +8113,7 @@
               "who": "USA, Canada, most ASEAN nations",
               "cost": "",
               "stay": "30 days",
-              "note": "No advance visa needed; officer stamps passport at border"
+              "note": "No advance visa needed, stamped on arrival"
             },
             {
               "name": "Visa on arrival",
@@ -8121,17 +8121,17 @@
               "who": "Nationals not on visa-free list and not required to obtain visa in advance",
               "cost": "",
               "stay": "",
-              "note": "Discretionary; officers can refuse entry for insufficient funds or no onward travel proof"
+              "note": "Discretionary; can be refused for insufficient funds or no onward travel proof"
             }
           ],
           "warnings": [
             {
-              "title": "Visa on arrival refusals",
+              "title": "Visa on arrival not guaranteed",
               "text": "Travellers have been turned away for insufficient funds, lack of onward travel proof, or inconsistent answers."
             },
             {
-              "title": "Advance visa required",
-              "text": "Travellers from a small number of countries, including Vietnam and Sri Lanka, must apply for a visa in advance through a Chinese embassy or consulate."
+              "title": "Advance visa required for some",
+              "text": "Travellers from a small number of countries, including Vietnam and Sri Lanka, must apply in advance through a Chinese embassy or consulate."
             },
             {
               "title": "Cash declaration threshold",
@@ -8143,16 +8143,16 @@
           "rows": [],
           "tips": [
             {
-              "title": "Bus fare",
-              "text": "Flat cash fare, exact change required; Macau Pass reduces fare on ordinary and express 'X' routes with free or reduced transfers."
+              "title": "Buy a Macau Pass",
+              "text": "Costs around MOP 130 including a small non-refundable fee plus stored value; sold at 7-Eleven, Circle K, ferry terminals."
             },
             {
-              "title": "Light rail",
-              "text": "Taipa Line connects airport, ferry terminals and Cotai strip; Macau Pass fare is roughly half the cash price."
+              "title": "Bus fare needs exact change",
+              "text": "Standard cash fare is flat but no change is given; Macau Pass reduces fares on ordinary and X express routes."
             },
             {
-              "title": "Taxis limited",
-              "text": "Hard to flag at peak times and ride-hailing coverage is limited, so buses or LRT are more reliable for time-sensitive trips."
+              "title": "Taxis and ride-hailing limited",
+              "text": "Taxis can be hard to flag at peak times and ride-hailing coverage is limited, so buses or LRT are more reliable."
             }
           ]
         },
@@ -8160,19 +8160,19 @@
           "budget": null,
           "tips": [
             {
-              "title": "Currency",
-              "text": "Macanese Pataca is official; Hong Kong Dollar also widely accepted at 1:1 rate."
+              "title": "HKD accepted 1:1",
+              "text": "Hong Kong Dollar widely accepted at a 1:1 rate, though change usually given in MOP."
             },
             {
-              "title": "Cards vs cash",
-              "text": "Major cards accepted in hotels, casinos and large retailers, but smaller shops may require cash."
+              "title": "Cards vary by venue",
+              "text": "Visa, Mastercard, UnionPay accepted in hotels, casinos and large retailers; smaller shops may need cash."
             },
             {
-              "title": "Card surcharges",
-              "text": "Foreign card transactions may incur a 1–3% surcharge, and ATM withdrawals may carry additional fees."
+              "title": "Watch for surcharges",
+              "text": "Foreign card transactions may incur a 1–3% surcharge, and ATM withdrawals may carry extra fees."
             },
             {
-              "title": "Cash declaration",
+              "title": "Declare large cash amounts",
               "text": "Cash import or export over roughly MOP 120,000 (about USD 15,000) must be declared to customs."
             }
           ]
@@ -8185,14 +8185,24 @@
             11,
             12
           ],
-          "rows": []
+          "rows": [
+            {
+              "label": "October",
+              "sub": "Good weather plus Grand Prix and Fireworks Contest",
+              "best": [
+                10
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ]
         },
         "emergency": {
           "numbers": [
             {
               "number": "999",
               "label": "Police, Fire, Ambulance",
-              "note": "Shared single number for all emergencies"
+              "note": "Single number for all three services"
             },
             {
               "number": "110",
@@ -8207,22 +8217,670 @@
             {
               "number": "993",
               "label": "Judiciary Police serious crime",
-              "note": "Organised crime, gambling crimes, homicide, drug trafficking"
+              "note": "For organised crime, gambling crimes, homicide, drug trafficking"
             }
           ],
           "chips": [
             "Medical treatment not free for visitors",
-            "Get travel insurance",
+            "Get travel insurance before you go",
             "Pickpocketing rare but stay alert",
-            "Signal 8 means stay indoors",
+            "Follow typhoon Signal 8 advice",
             "Keep passport copy separate"
           ]
         }
       },
-      "ko": null,
-      "ja": null,
-      "es": null,
-      "zh": null
+      "ko": {
+        "summary": [
+          {
+            "title": "무비자 30~180일",
+            "sub": "국적에 따라 다름; 여권에 따라 상이",
+            "key": "entry"
+          },
+          {
+            "title": "파타카, 홍콩달러 통용",
+            "sub": "홍콩달러는 1:1 비율로 널리 통용",
+            "key": "money"
+          },
+          {
+            "title": "10월~4월이 최적",
+            "sub": "선선하고 건조하며 태풍 위험 없음",
+            "key": "season"
+          },
+          {
+            "title": "버스 & 타이파 경전철",
+            "sub": "마카오패스 카드로 요금 절약",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "무비자 180일",
+              "code": "",
+              "who": "영국, 포르투갈, 아일랜드",
+              "cost": "",
+              "stay": "180일",
+              "note": "사전 비자 불필요, 입국 시 도장 날인"
+            },
+            {
+              "name": "무비자 90일",
+              "code": "",
+              "who": "호주, 뉴질랜드, 대부분의 EU 국가, 일본, 한국, 브라질",
+              "cost": "",
+              "stay": "90일",
+              "note": "사전 비자 불필요, 입국 시 도장 날인"
+            },
+            {
+              "name": "무비자 30일",
+              "code": "",
+              "who": "미국, 캐나다, 대부분의 아세안 국가",
+              "cost": "",
+              "stay": "30일",
+              "note": "사전 비자 불필요, 입국 시 도장 날인"
+            },
+            {
+              "name": "도착 비자",
+              "code": "",
+              "who": "무비자 대상국이 아니며 사전 비자 취득 의무가 없는 국민",
+              "cost": "",
+              "stay": "",
+              "note": "재량에 따라 발급; 자금 부족이나 출국 증빙 미비 시 거부될 수 있음"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "도착 비자는 보장되지 않음",
+              "text": "자금 부족, 출국 증빙 미비, 일관성 없는 답변으로 입국이 거부된 사례가 있습니다."
+            },
+            {
+              "title": "일부 국가는 사전 비자 필수",
+              "text": "베트남, 스리랑카 등 일부 국가의 여행자는 중국 대사관이나 영사관을 통해 사전에 신청해야 합니다."
+            },
+            {
+              "title": "현금 신고 기준",
+              "text": "MOP 120,000(약 USD 15,000) 이상의 금액은 입국 시 신고해야 합니다."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "마카오패스 구매",
+              "text": "환불 불가 소액 수수료와 충전 금액을 포함해 약 MOP 130; 세븐일레븐, 서클K, 페리 터미널에서 판매."
+            },
+            {
+              "title": "버스 요금은 정확한 잔돈 필요",
+              "text": "현금 요금은 균일하지만 거스름돈은 주지 않음; 마카오패스는 일반 및 X 급행 노선 요금을 할인해 줌."
+            },
+            {
+              "title": "택시와 차량호출 서비스 제한적",
+              "text": "성수기에는 택시 잡기가 어렵고 차량호출 서비스 범위도 제한적이므로 버스나 경전철이 더 안정적."
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "홍콩달러 1:1 통용",
+              "text": "홍콩달러는 1:1 비율로 널리 통용되지만 거스름돈은 보통 파타카로 지급됨."
+            },
+            {
+              "title": "장소에 따라 카드 사용 다름",
+              "text": "비자, 마스터카드, 유니온페이는 호텔, 카지노, 대형 매장에서 사용 가능; 소규모 상점은 현금이 필요할 수 있음."
+            },
+            {
+              "title": "수수료 주의",
+              "text": "해외 카드 거래 시 1~3% 수수료가 부과될 수 있고 ATM 출금에도 추가 수수료가 있을 수 있음."
+            },
+            {
+              "title": "고액 현금 신고",
+              "text": "약 MOP 120,000(약 USD 15,000)을 초과하는 현금 반입·반출은 세관에 신고해야 합니다."
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "10월",
+              "sub": "좋은 날씨에 그랑프리와 불꽃놀이 대회까지",
+              "best": [
+                10
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": [
+            3,
+            4,
+            10,
+            11,
+            12
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "999",
+              "label": "경찰, 소방, 구급",
+              "note": "세 서비스 모두 단일 번호"
+            },
+            {
+              "number": "110",
+              "label": "관광 전화선 (중국 본토)",
+              "note": "999 콜센터로 연결됨"
+            },
+            {
+              "number": "112",
+              "label": "관광 전화선 (해외)",
+              "note": "999 콜센터로 연결됨"
+            },
+            {
+              "number": "993",
+              "label": "사법경찰 강력범죄",
+              "note": "조직범죄, 도박범죄, 살인, 마약밀매 담당"
+            }
+          ],
+          "chips": [
+            "방문객에게 의료 서비스는 무료가 아님",
+            "출발 전 여행자 보험 가입",
+            "소매치기는 드물지만 주의 필요",
+            "태풍 시그널 8 지침 준수",
+            "여권 사본 별도 보관"
+          ]
+        }
+      },
+      "ja": {
+        "summary": [
+          {
+            "title": "ビザ免除30~180日",
+            "sub": "国籍により異なる;パスポートによって異なる",
+            "key": "entry"
+          },
+          {
+            "title": "パタカ、香港ドルも使用可",
+            "sub": "香港ドルは1:1のレートで広く使用可能",
+            "key": "money"
+          },
+          {
+            "title": "10月~4月が最適",
+            "sub": "涼しく乾燥し台風の心配なし",
+            "key": "season"
+          },
+          {
+            "title": "バス&タイパ軽軌鉄道",
+            "sub": "マカオパスカードで運賃を節約",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "ビザ免除180日",
+              "code": "",
+              "who": "英国、ポルトガル、アイルランド",
+              "cost": "",
+              "stay": "180日",
+              "note": "事前ビザ不要、到着時にスタンプ"
+            },
+            {
+              "name": "ビザ免除90日",
+              "code": "",
+              "who": "オーストラリア、ニュージーランド、ほとんどのEU諸国、日本、韓国、ブラジル",
+              "cost": "",
+              "stay": "90日",
+              "note": "事前ビザ不要、到着時にスタンプ"
+            },
+            {
+              "name": "ビザ免除30日",
+              "code": "",
+              "who": "米国、カナダ、ほとんどのASEAN諸国",
+              "cost": "",
+              "stay": "30日",
+              "note": "事前ビザ不要、到着時にスタンプ"
+            },
+            {
+              "name": "到着時ビザ",
+              "code": "",
+              "who": "ビザ免除リストに含まれず、事前ビザ取得が義務付けられていない国民",
+              "cost": "",
+              "stay": "",
+              "note": "裁量による発給;資金不足や出国証明不備で拒否される場合あり"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "到着時ビザは保証されない",
+              "text": "資金不足、出国証明の欠如、回答の矛盾により入国を拒否された旅行者がいます。"
+            },
+            {
+              "title": "一部の国は事前ビザが必要",
+              "text": "ベトナムやスリランカなど一部の国からの旅行者は、中国大使館または領事館を通じて事前に申請する必要があります。"
+            },
+            {
+              "title": "現金申告の基準",
+              "text": "MOP 120,000(約USD 15,000)以上の金額は到着時に申告が必要です。"
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "マカオパスを購入",
+              "text": "返金不可の少額手数料とチャージ額を含め約MOP 130;セブンイレブン、サークルK、フェリーターミナルで販売。"
+            },
+            {
+              "title": "バス運賃は小銭が必要",
+              "text": "現金運賃は均一だがお釣りは出ない;マカオパスは通常路線とX急行路線の運賃を割引。"
+            },
+            {
+              "title": "タクシーと配車サービスは限定的",
+              "text": "ピーク時はタクシーを拾いにくく配車サービスの対応範囲も限られるため、バスやLRTの方が確実。"
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "香港ドルは1:1で使用可",
+              "text": "香港ドルは1:1のレートで広く使用可能だが、お釣りは通常パタカで渡される。"
+            },
+            {
+              "title": "カード利用は場所による",
+              "text": "Visa、Mastercard、銀聯はホテル、カジノ、大型店舗で利用可能;小規模な店は現金が必要な場合も。"
+            },
+            {
+              "title": "手数料に注意",
+              "text": "海外カードの取引には1~3%の手数料がかかる場合があり、ATM引き出しにも追加料金がかかることがあります。"
+            },
+            {
+              "title": "高額現金の申告",
+              "text": "約MOP 120,000(約USD 15,000)を超える現金の持ち込み・持ち出しは税関への申告が必要です。"
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "10月",
+              "sub": "良い天気に加えグランプリと花火大会も開催",
+              "best": [
+                10
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": [
+            3,
+            4,
+            10,
+            11,
+            12
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "999",
+              "label": "警察、消防、救急",
+              "note": "3つのサービス共通の単一番号"
+            },
+            {
+              "number": "110",
+              "label": "観光ホットライン(中国本土)",
+              "note": "999コールセンターに転送"
+            },
+            {
+              "number": "112",
+              "label": "観光ホットライン(海外)",
+              "note": "999コールセンターに転送"
+            },
+            {
+              "number": "993",
+              "label": "司法警察重大犯罪",
+              "note": "組織犯罪、賭博犯罪、殺人、麻薬密売を担当"
+            }
+          ],
+          "chips": [
+            "旅行者への医療は無料ではない",
+            "出発前に旅行保険に加入を",
+            "スリは稀だが注意を怠らない",
+            "台風シグナル8の指示に従う",
+            "パスポートのコピーは別に保管"
+          ]
+        }
+      },
+      "es": {
+        "summary": [
+          {
+            "title": "Sin visado 30–180 días",
+            "sub": "Depende de la nacionalidad; varía según el pasaporte",
+            "key": "entry"
+          },
+          {
+            "title": "Pataca y HKD aceptados",
+            "sub": "El HKD se acepta ampliamente a tasa 1:1",
+            "key": "money"
+          },
+          {
+            "title": "De octubre a abril es mejor",
+            "sub": "Más fresco, seco y sin riesgo de tifones",
+            "key": "season"
+          },
+          {
+            "title": "Autobús y tren ligero de Taipa",
+            "sub": "Usa una tarjeta Macau Pass para ahorrar en tarifas",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "Sin visado 180 días",
+              "code": "",
+              "who": "Reino Unido, Portugal, República de Irlanda",
+              "cost": "",
+              "stay": "180 días",
+              "note": "No se necesita visado previo, se sella a la llegada"
+            },
+            {
+              "name": "Sin visado 90 días",
+              "code": "",
+              "who": "Australia, Nueva Zelanda, la mayoría de países de la UE, Japón, Corea del Sur, Brasil",
+              "cost": "",
+              "stay": "90 días",
+              "note": "No se necesita visado previo, se sella a la llegada"
+            },
+            {
+              "name": "Sin visado 30 días",
+              "code": "",
+              "who": "EE. UU., Canadá, la mayoría de países de la ASEAN",
+              "cost": "",
+              "stay": "30 días",
+              "note": "No se necesita visado previo, se sella a la llegada"
+            },
+            {
+              "name": "Visado a la llegada",
+              "code": "",
+              "who": "Ciudadanos que no están en la lista de exención de visado y no necesitan obtenerlo con antelación",
+              "cost": "",
+              "stay": "",
+              "note": "Discrecional; puede denegarse por fondos insuficientes o falta de prueba de viaje posterior"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "El visado a la llegada no está garantizado",
+              "text": "Se ha rechazado a viajeros por fondos insuficientes, falta de prueba de viaje posterior o respuestas inconsistentes."
+            },
+            {
+              "title": "Visado previo requerido para algunos",
+              "text": "Los viajeros de un pequeño número de países, incluidos Vietnam y Sri Lanka, deben solicitarlo con antelación en una embajada o consulado chino."
+            },
+            {
+              "title": "Umbral de declaración de efectivo",
+              "text": "Cualquier cantidad igual o superior a MOP 120,000 (unos USD 15,000) debe declararse a la llegada."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "Compra una Macau Pass",
+              "text": "Cuesta alrededor de MOP 130 incluyendo una pequeña tarifa no reembolsable más saldo cargado; se vende en 7-Eleven, Circle K y terminales de ferry."
+            },
+            {
+              "title": "El pago del autobús requiere cambio exacto",
+              "text": "La tarifa en efectivo es fija pero no se da cambio; la Macau Pass reduce las tarifas en rutas ordinarias y exprés X."
+            },
+            {
+              "title": "Taxis y apps de transporte limitados",
+              "text": "Los taxis pueden ser difíciles de conseguir en horas punta y la cobertura de apps de transporte es limitada, por lo que el autobús o el LRT son más fiables."
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "HKD aceptado a tasa 1:1",
+              "text": "El dólar de Hong Kong se acepta ampliamente a una tasa de 1:1, aunque el cambio suele darse en MOP."
+            },
+            {
+              "title": "Las tarjetas varían según el lugar",
+              "text": "Visa, Mastercard y UnionPay se aceptan en hoteles, casinos y grandes comercios; en tiendas pequeñas puede necesitarse efectivo."
+            },
+            {
+              "title": "Atención a los recargos",
+              "text": "Las transacciones con tarjetas extranjeras pueden tener un recargo del 1–3%, y los retiros en cajeros pueden tener comisiones adicionales."
+            },
+            {
+              "title": "Declara grandes cantidades de efectivo",
+              "text": "La importación o exportación de efectivo por encima de aproximadamente MOP 120,000 (unos USD 15,000) debe declararse en aduanas."
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "Octubre",
+              "sub": "Buen clima además del Gran Premio y el Concurso de Fuegos Artificiales",
+              "best": [
+                10
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": [
+            3,
+            4,
+            10,
+            11,
+            12
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "999",
+              "label": "Policía, Bomberos, Ambulancia",
+              "note": "Número único para los tres servicios"
+            },
+            {
+              "number": "110",
+              "label": "Línea turística (China continental)",
+              "note": "Redirigida al centro de llamadas 999"
+            },
+            {
+              "number": "112",
+              "label": "Línea turística (desde el extranjero)",
+              "note": "Redirigida al centro de llamadas 999"
+            },
+            {
+              "number": "993",
+              "label": "Policía Judicial, delitos graves",
+              "note": "Para crimen organizado, delitos de juego, homicidio, tráfico de drogas"
+            }
+          ],
+          "chips": [
+            "La atención médica no es gratuita para visitantes",
+            "Contrata un seguro de viaje antes de salir",
+            "El carterismo es raro pero mantente alerta",
+            "Sigue las indicaciones de la Señal 8 de tifón",
+            "Guarda una copia del pasaporte por separado"
+          ]
+        }
+      },
+      "zh": {
+        "summary": [
+          {
+            "title": "免签30–180天",
+            "sub": "视国籍而定；因护照而异",
+            "key": "entry"
+          },
+          {
+            "title": "澳门元、港币通用",
+            "sub": "港币以1:1汇率广泛通用",
+            "key": "money"
+          },
+          {
+            "title": "10月至4月最佳",
+            "sub": "天气凉爽干燥，无台风风险",
+            "key": "season"
+          },
+          {
+            "title": "巴士与氹仔轻轨",
+            "sub": "使用澳门通卡可节省车费",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "免签180天",
+              "code": "",
+              "who": "英国、葡萄牙、爱尔兰共和国",
+              "cost": "",
+              "stay": "180天",
+              "note": "无需提前办签证，入境时盖章"
+            },
+            {
+              "name": "免签90天",
+              "code": "",
+              "who": "澳大利亚、新西兰、大多数欧盟国家、日本、韩国、巴西",
+              "cost": "",
+              "stay": "90天",
+              "note": "无需提前办签证，入境时盖章"
+            },
+            {
+              "name": "免签30天",
+              "code": "",
+              "who": "美国、加拿大、大多数东盟国家",
+              "cost": "",
+              "stay": "30天",
+              "note": "无需提前办签证，入境时盖章"
+            },
+            {
+              "name": "落地签证",
+              "code": "",
+              "who": "不在免签名单内且无需提前办理签证的国民",
+              "cost": "",
+              "stay": "",
+              "note": "可酌情拒签；资金不足或无后续行程证明可能被拒"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "落地签证不保证获批",
+              "text": "曾有旅客因资金不足、无后续行程证明或回答前后不一致而被拒绝入境。"
+            },
+            {
+              "title": "部分国家需提前办理签证",
+              "text": "包括越南和斯里兰卡在内的少数国家旅客，必须通过中国使领馆提前申请签证。"
+            },
+            {
+              "title": "现金申报门槛",
+              "text": "携带澳门币120,000元（约合15,000美元）及以上的现金须在入境时申报。"
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "购买澳门通卡",
+              "text": "费用约为澳门币130元，包含不可退还的少量手续费及储值金额；在7-Eleven、OK便利店、码头均有售。"
+            },
+            {
+              "title": "巴士车费需准备零钱",
+              "text": "现金票价固定但不设找零；澳门通卡可享普通线路及X快线的票价优惠。"
+            },
+            {
+              "title": "出租车及网约车有限",
+              "text": "高峰时段出租车较难拦到，网约车覆盖范围也有限，因此巴士或轻轨更可靠。"
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "港币按1:1通用",
+              "text": "港币以1:1汇率广泛通用，不过找零通常以澳门元支付。"
+            },
+            {
+              "title": "刷卡情况因场所而异",
+              "text": "酒店、赌场及大型商户接受Visa、万事达卡、银联；小商店可能需要现金。"
+            },
+            {
+              "title": "留意手续费",
+              "text": "境外卡交易可能产生1–3%的手续费，ATM取现也可能产生额外费用。"
+            },
+            {
+              "title": "大额现金需申报",
+              "text": "携带现金出入境超过约澳门币120,000元（约合15,000美元）须向海关申报。"
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "10月",
+              "sub": "天气宜人，还有大奖赛和烟花比赛",
+              "best": [
+                10
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": [
+            3,
+            4,
+            10,
+            11,
+            12
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "999",
+              "label": "警察、消防、救护车",
+              "note": "三项服务统一使用此号码"
+            },
+            {
+              "number": "110",
+              "label": "旅游热线（中国内地）",
+              "note": "转接至999呼叫中心"
+            },
+            {
+              "number": "112",
+              "label": "旅游热线（海外）",
+              "note": "转接至999呼叫中心"
+            },
+            {
+              "number": "993",
+              "label": "司法警察重案组",
+              "note": "负责有组织犯罪、赌博犯罪、凶杀、贩毒案件"
+            }
+          ],
+          "chips": [
+            "访客医疗不免费",
+            "出行前购买旅游保险",
+            "扒手较少见但仍需保持警惕",
+            "遵循台风8号信号相关建议",
+            "护照复印件应分开存放"
+          ]
+        }
+      }
     },
     "Malaysia": {
       "srcHash": "86a5ccc24be2",
