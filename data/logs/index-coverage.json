@@ -1,64 +1,64 @@
 {
-  "at": "2026-09-29T01:33:04.069Z",
+  "at": "2026-10-06T02:11:24.381Z",
   "results": [
     {
       "key": "when-to-go",
       "programmatic": true,
-      "pool": 228,
+      "pool": 250,
       "sampled": 60,
-      "indexed": 46,
+      "indexed": 41,
       "failed": 0,
       "denied": false,
       "causes": {
-        "notCrawled": 5,
+        "notCrawled": 7,
         "crawledOut": 0,
-        "unknown": 9,
-        "other": 0
+        "unknown": 11,
+        "other": 1
       }
     },
     {
       "key": "itinerary",
       "programmatic": true,
-      "pool": 18,
-      "sampled": 18,
+      "pool": 19,
+      "sampled": 19,
       "indexed": 2,
       "failed": 0,
       "denied": false,
       "causes": {
         "notCrawled": 5,
         "crawledOut": 0,
-        "unknown": 11,
+        "unknown": 12,
         "other": 0
       }
     },
     {
       "key": "esim",
       "programmatic": true,
-      "pool": 22,
-      "sampled": 22,
+      "pool": 25,
+      "sampled": 25,
       "indexed": 0,
       "failed": 0,
       "denied": false,
       "causes": {
-        "notCrawled": 0,
+        "notCrawled": 1,
         "crawledOut": 0,
-        "unknown": 22,
+        "unknown": 24,
         "other": 0
       }
     },
     {
       "key": "posts",
       "programmatic": false,
-      "pool": 1889,
+      "pool": 2254,
       "sampled": 60,
-      "indexed": 16,
+      "indexed": 11,
       "failed": 0,
       "denied": false,
       "causes": {
-        "notCrawled": 32,
+        "notCrawled": 40,
         "crawledOut": 0,
-        "unknown": 11,
-        "other": 1
+        "unknown": 7,
+        "other": 2
       }
     }
   ]
