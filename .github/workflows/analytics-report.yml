@@ -23,6 +23,12 @@ jobs:
       - uses: actions/setup-node@v5
         with:
           node-version: 24
+          cache: npm
+      # The report reads post front matter through lib/frontmatter-edit
+      # (gray-matter, js-yaml) since 2026-10-05; without an install the run died
+      # on 10-06 with ERR_MODULE_NOT_FOUND. scripts/workflow-deps.test.mjs now
+      # fails CI when an install-free job reaches a package.
+      - run: npm ci
       - name: Send analytics report to Telegram
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
