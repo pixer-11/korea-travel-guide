@@ -8064,6 +8064,166 @@
         }
       }
     },
+    "Macau": {
+      "srcHash": "9c05069fa83e",
+      "en": {
+        "summary": [
+          {
+            "key": "entry",
+            "title": "Visa-free 30–180 days",
+            "sub": "Length depends on nationality; confirm before flying"
+          },
+          {
+            "key": "money",
+            "title": "Pay in patacas",
+            "sub": "HKD also widely accepted at 1:1 rate"
+          },
+          {
+            "key": "season",
+            "title": "Oct–Apr best weather",
+            "sub": "19–27°C, lower humidity, no typhoon risk"
+          },
+          {
+            "key": "transport",
+            "title": "Bus or Taipa light rail",
+            "sub": "Use a Macau Pass card for cheaper fares"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "Visa-free 180 days",
+              "code": "",
+              "who": "United Kingdom, Portugal, Republic of Ireland",
+              "cost": "",
+              "stay": "180 days",
+              "note": "No advance visa needed; officer stamps passport at border"
+            },
+            {
+              "name": "Visa-free 90 days",
+              "code": "",
+              "who": "Australia, New Zealand, most EU states, Japan, South Korea, Brazil",
+              "cost": "",
+              "stay": "90 days",
+              "note": "No advance visa needed; officer stamps passport at border"
+            },
+            {
+              "name": "Visa-free 30 days",
+              "code": "",
+              "who": "USA, Canada, most ASEAN nations",
+              "cost": "",
+              "stay": "30 days",
+              "note": "No advance visa needed; officer stamps passport at border"
+            },
+            {
+              "name": "Visa on arrival",
+              "code": "",
+              "who": "Nationals not on visa-free list and not required to obtain visa in advance",
+              "cost": "",
+              "stay": "",
+              "note": "Discretionary; officers can refuse entry for insufficient funds or no onward travel proof"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "Visa on arrival refusals",
+              "text": "Travellers have been turned away for insufficient funds, lack of onward travel proof, or inconsistent answers."
+            },
+            {
+              "title": "Advance visa required",
+              "text": "Travellers from a small number of countries, including Vietnam and Sri Lanka, must apply for a visa in advance through a Chinese embassy or consulate."
+            },
+            {
+              "title": "Cash declaration threshold",
+              "text": "Any amount of MOP 120,000 or above (about USD 15,000) must be declared on arrival."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "Bus fare",
+              "text": "Flat cash fare, exact change required; Macau Pass reduces fare on ordinary and express 'X' routes with free or reduced transfers."
+            },
+            {
+              "title": "Light rail",
+              "text": "Taipa Line connects airport, ferry terminals and Cotai strip; Macau Pass fare is roughly half the cash price."
+            },
+            {
+              "title": "Taxis limited",
+              "text": "Hard to flag at peak times and ride-hailing coverage is limited, so buses or LRT are more reliable for time-sensitive trips."
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "Currency",
+              "text": "Macanese Pataca is official; Hong Kong Dollar also widely accepted at 1:1 rate."
+            },
+            {
+              "title": "Cards vs cash",
+              "text": "Major cards accepted in hotels, casinos and large retailers, but smaller shops may require cash."
+            },
+            {
+              "title": "Card surcharges",
+              "text": "Foreign card transactions may incur a 1–3% surcharge, and ATM withdrawals may carry additional fees."
+            },
+            {
+              "title": "Cash declaration",
+              "text": "Cash import or export over roughly MOP 120,000 (about USD 15,000) must be declared to customs."
+            }
+          ]
+        },
+        "season": {
+          "best": [
+            3,
+            4,
+            10,
+            11,
+            12
+          ],
+          "rows": []
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "999",
+              "label": "Police, Fire, Ambulance",
+              "note": "Shared single number for all emergencies"
+            },
+            {
+              "number": "110",
+              "label": "Tourist line (mainland China)",
+              "note": "Redirected to 999 call centre"
+            },
+            {
+              "number": "112",
+              "label": "Tourist line (overseas)",
+              "note": "Redirected to 999 call centre"
+            },
+            {
+              "number": "993",
+              "label": "Judiciary Police serious crime",
+              "note": "Organised crime, gambling crimes, homicide, drug trafficking"
+            }
+          ],
+          "chips": [
+            "Medical treatment not free for visitors",
+            "Get travel insurance",
+            "Pickpocketing rare but stay alert",
+            "Signal 8 means stay indoors",
+            "Keep passport copy separate"
+          ]
+        }
+      },
+      "ko": null,
+      "ja": null,
+      "es": null,
+      "zh": null
+    },
     "Malaysia": {
       "srcHash": "86a5ccc24be2",
       "en": {

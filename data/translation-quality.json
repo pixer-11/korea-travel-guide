@@ -31785,5 +31785,89 @@
   "registerBreak": false,
   "worst": "이렇게 하면 하루 내내 북쪽으로 이동하게 되어 대형 호텔 대부분이 있는 쪽으로 자연스럽게 돌아오게 됩니다.",
   "at": "2026-10-05T16:36:54.599Z"
+ },
+ "es/abu-dhabi-saikindo": {
+  "hash": "265712d7299d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El espacio se describe como íntimo. Conviene imaginar, por tanto, una sala reducida...",
+  "at": "2026-10-06T07:55:14.218Z"
+ },
+ "es/bangkok-cherry-olive-cocktail-club": {
+  "hash": "98473cf17537",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Pese a su reciente apertura, el local ya recibió el premio al Mejor Bar Nuevo",
+  "at": "2026-10-06T07:55:15.425Z"
+ },
+ "es/berlin-fukagawa": {
+  "hash": "a009811b9857",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Así funciona el formato de degustación de varios pases, y eso cambia la manera de organizar la velada",
+  "at": "2026-10-06T07:55:16.624Z"
+ },
+ "ja/abu-dhabi-saikindo": {
+  "hash": "98c7a2aece73",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "こぢんまりとした空間とされているので、ホテルの宴会場のような大きなレストランではなく、コンパクトな部屋を想像してください。",
+  "at": "2026-10-06T07:55:17.839Z"
+ },
+ "ja/bangkok-cherry-olive-cocktail-club": {
+  "hash": "b6b7381009a1",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "こうした受賞があるとたちまち注目が集まるので、静かな店内よりも混み合った様子を想定しておきましょう。",
+  "at": "2026-10-06T07:55:22.518Z"
+ },
+ "ja/berlin-fukagawa": {
+  "hash": "4be3571ea8d2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "名前はこの店の料理がどこに根ざしているかを示すものと考えてください。",
+  "at": "2026-10-06T07:55:27.304Z"
+ },
+ "ko/abu-dhabi-saikindo": {
+  "hash": "15dd4736300e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "아늑한 공간으로 소개되어 있으니 호텔 연회장 같은 대형 레스토랑보다는 아담한 공간을 떠올리시면 됩니다.",
+  "at": "2026-10-06T07:55:32.360Z"
+ },
+ "ko/bangkok-cherry-olive-cocktail-club": {
+  "hash": "2c15bad389d7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "문을 연 지 얼마 되지 않았는데도 2026 B.A.D. 어워즈에서 최우수 신규 바로 선정되었습니다.",
+  "at": "2026-10-06T07:55:33.560Z"
+ },
+ "ko/berlin-fukagawa": {
+  "hash": "53f67834bc67",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "식사 전에 되너 케밥은 참으시는 편이 좋습니다.",
+  "at": "2026-10-06T07:55:34.736Z"
+ },
+ "zh/abu-dhabi-saikindo": {
+  "hash": "2092b7ebe0f1",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "据介绍，这间餐厅的环境相当私密，所以别指望是酒店宴会厅那种规模的大餐厅，而是一间紧凑的小屋。",
+  "at": "2026-10-06T07:55:36.023Z"
+ },
+ "zh/bangkok-cherry-olive-cocktail-club": {
+  "hash": "4183bcc14a57",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "从两个车站都能步行到康文特路在是隆路一侧的路口。",
+  "at": "2026-10-06T07:55:45.917Z"
+ },
+ "zh/berlin-fukagawa": {
+  "hash": "539c3854ca59",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "不妨把店名看作一种表态，说明这里的料理心之所向，而不是对某道特定菜品的承诺。",
+  "at": "2026-10-06T07:55:47.053Z"
  }
 }

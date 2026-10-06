@@ -10844,5 +10844,32 @@
       "getting": "大多数游客经坎昆国际机场(CUN)抵达,机场位于距海岸几公里的内陆地区。从机场前往酒店区可选择出租车、私人接送服务或ADO巴士,车程一般在20到45分钟左右,具体视路况和目的地而定。",
       "days": "建议预留3到5天时间尽情享受海滩与度假村生活;如果计划前往附近的玛雅遗址或玛雅海岸沿线其他小镇一日游,最好再多留出一两天时间。"
     }
+  },
+  "Canggu": {
+    "en": {
+      "blurb": "Canggu is Bali's surf and rice-field town turned into Southeast Asia's leading digital nomad hub, where black-sand beach breaks sit a few minutes from coworking cafes and paddy-field footpaths. It draws a younger, laptop-and-longboard crowd rather than the resort-style tourism of Seminyak or Nusa Dua further south.",
+      "getting": "The nearest airport is Ngurah Rai International Airport (DPS) in Denpasar, roughly 15 to 20 kilometres south of Canggu. There is no train or direct public bus into town, so travellers rely on a taxi, ride-hailing app or pre-booked private transfer, a trip that takes ~30 minutes in light traffic but can stretch to ~90 minutes at peak times.",
+      "days": "Plan ~4 to 5 days to cover the main surf breaks, rice-field walks, beach clubs and a side trip to Tanah Lot, though many visitors end up staying far longer once the slower pace takes hold."
+    },
+    "ko": {
+      "blurb": "창구는 원래 서핑과 논으로 유명했던 발리의 작은 마을이었지만, 지금은 동남아시아를 대표하는 디지털 노마드의 중심지로 변신했습니다. 검은 모래 해변의 파도가 치는 곳에서 몇 분만 걸으면 코워킹 카페와 논길 산책로를 만날 수 있죠. 남쪽의 스미냑이나 누사두아 같은 리조트형 관광지와는 달리, 창구는 노트북과 롱보드를 함께 챙기는 좀 더 젊은 여행자들을 끌어모읍니다.",
+      "getting": "가장 가까운 공항은 덴파사르에 위치한 응우라라이 국제공항(DPS)으로, 창구에서 남쪽으로 약 15~20km 떨어져 있습니다. 시내까지 연결되는 기차나 직행 대중버스는 없기 때문에, 택시나 차량 호출 앱, 또는 미리 예약한 전용 픽업 서비스를 이용하는 것이 일반적입니다. 교통이 원활하면 약 30분이면 도착하지만, 혼잡한 시간대에는 90분 가까이 걸릴 수도 있습니다.",
+      "days": "주요 서핑 포인트와 논길 산책, 비치 클럽, 그리고 따나롯 당일치기 여행까지 둘러보려면 4~5일 정도를 잡는 것이 좋습니다. 다만 창구 특유의 여유로운 분위기에 빠져들다 보면 예상보다 훨씬 오래 머무르게 되는 여행자들이 많습니다."
+    },
+    "ja": {
+      "blurb": "チャングーはもともとバリ島のサーフィンと田園風景の町だったが、今や東南アジアを代表するデジタルノマドの拠点へと姿を変えた。黒砂のビーチブレイクから数分の距離に、コワーキングカフェや田んぼのあぜ道が広がっている。南にあるスミニャックやヌサドゥアのようなリゾート型観光地とは違い、ここに集まるのはノートパソコンとロングボードを抱えた、より若い旅行者たちだ。",
+      "getting": "最寄り空港はデンパサールにあるングラ・ライ国際空港(DPS)で、チャングーまでは南へ約15〜20kmの距離だ。電車や町へ直通の公共バスはないため、タクシーや配車アプリ、事前予約の送迎サービスを利用するのが一般的。交通量が少なければ所要時間は約30分だが、ピーク時には90分近くかかることもある。",
+      "days": "主要なサーフポイントや田園散策、ビーチクラブ巡り、タナロット寺院への小旅行を一通り楽しむなら4〜5日ほど見ておきたい。とはいえ、チャングーのゆったりとした空気に触れると、予定よりずっと長く滞在してしまう旅行者も少なくない。"
+    },
+    "es": {
+      "blurb": "Canggu es el pueblo balinés de surf y arrozales que se ha convertido en el principal epicentro de nómadas digitales del sudeste asiático, donde las playas de arena negra con buenas olas quedan a solo unos minutos de cafés para trabajar y senderos entre campos de arroz. Atrae a un público más joven, de portátil y longboard, muy distinto al turismo de resorts que domina Seminyak o Nusa Dua, más al sur.",
+      "getting": "El aeropuerto más cercano es el Aeropuerto Internacional Ngurah Rai (DPS), en Denpasar, a unos 15-20 kilómetros al sur de Canggu. No hay tren ni autobús público directo hasta el pueblo, así que lo habitual es tomar un taxi, usar una app de transporte o reservar un traslado privado con antelación; el trayecto dura unos 30 minutos con tráfico fluido, pero puede alargarse hasta 90 minutos en horas punta.",
+      "days": "Conviene reservar entre 4 y 5 días para recorrer las principales playas de surf, pasear entre los arrozales, disfrutar de los beach clubs y hacer una escapada a Tanah Lot, aunque muchos viajeros terminan quedándose mucho más tiempo una vez que se dejan llevar por el ritmo pausado del lugar."
+    },
+    "zh": {
+      "blurb": "看古（Canggu）曾是巴厘岛一个以冲浪和稻田闻名的小镇，如今已蜕变为东南亚首屈一指的数字游民聚集地。这里的黑沙滩浪点，距离联合办公咖啡馆和穿梭于稻田间的小径仅几分钟路程。相比南边水明漾（Seminyak）或努沙杜瓦（Nusa Dua）那种度假村式的游客氛围，看古吸引的更多是带着笔记本电脑和冲浪板的年轻一代。",
+      "getting": "距离看古最近的机场是位于登巴萨（Denpasar）的伍拉·赖国际机场（DPS），大约在看古以南15到20公里处。目前没有火车或直达公交车前往镇上，游客通常选择打车、使用打车软件或提前预订私人接送服务。路况顺畅时车程约30分钟，但高峰时段可能延长至90分钟左右。",
+      "days": "建议安排4到5天时间，体验主要冲浪点、漫步稻田、泡吧海滩俱乐部，并抽空去一趟海神庙（Tanah Lot）。不过很多游客一旦适应了这里悠闲的生活节奏，往往会待得更久。"
+    }
   }
 }

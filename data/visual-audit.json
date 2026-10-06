@@ -4348,6 +4348,12 @@
   "reason": "publish gate: Exterior shows Aquarium signage at night, representative hero shot",
   "at": "2026-10-05T16:18:43.224Z"
  },
+ "cancun-xcaret-park\u0001https://upload.wikimedia.org/wikipedia/commons/2/27/The_Beach_at_Xcaret_Park.jpg": {
+  "slug": "cancun-xcaret-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Beach with palm trees, plausible Caribbean Cancun resort scene",
+  "at": "2026-10-06T07:44:25.763Z"
+ },
  "cancun-yamil-lu-um\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Yamiluum1.JPG/1920px-Yamiluum1.JPG": {
   "slug": "cancun-yamil-lu-um",
   "verdict": "MATCH",
@@ -6397,6 +6403,12 @@
   "reason": "publish gate: Park with path, trees, benches matches Hofgarten setting",
   "at": "2026-10-02T14:13:42.312Z"
  },
+ "dusseldorf-japanese-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Saihouji-kokedera01.jpg/1920px-Saihouji-kokedera01.jpg": {
+  "slug": "dusseldorf-japanese-garden",
+  "verdict": "MATCH",
+  "reason": "publish gate: Plausible Japanese garden scene with moss, trees, pond",
+  "at": "2026-10-06T07:39:48.618Z"
+ },
  "dusseldorf-kaiserpfalz-kaiserswerth\u0001https://upload.wikimedia.org/wikipedia/commons/1/14/Panopfalz-innen.jpg": {
   "slug": "dusseldorf-kaiserpfalz-kaiserswerth",
   "verdict": "MATCH",
@@ -6659,6 +6671,12 @@
   "verdict": "MATCH",
   "reason": "event-mode back-audit: Concert stage photo of BTS performers, correct event type",
   "at": "2026-08-07T13:03:11.527Z"
+ },
+ "frankfurt-bethmann-park\u0001https://upload.wikimedia.org/wikipedia/commons/b/b8/Von-Bethmann-Park_Frankfurt-Main_Blumenbeete.JPG": {
+  "slug": "frankfurt-bethmann-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Park garden with flowers and trees, representative view",
+  "at": "2026-10-06T07:40:33.193Z"
  },
  "frankfurt-frankfurter-romer\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Frankfurter_R%C3%B6mer_2019.jpg/3840px-Frankfurter_R%C3%B6mer_2019.jpg": {
   "slug": "frankfurt-frankfurter-romer",
@@ -7459,6 +7477,18 @@
   "reason": "patrol replace: Fine dining plating, modern kitchen, Guadalajara style",
   "at": "2026-10-05T21:33:26.955Z"
  },
+ "guadalajara-guadalajara-s-cathedral\u0001https://upload.wikimedia.org/wikipedia/commons/5/5f/Cathedral_of_Guadalajara%2C_Mexico_-_Gente_En_Movimiento_%2859822788%29.jpg": {
+  "slug": "guadalajara-guadalajara-s-cathedral",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear view of Guadalajara Cathedral's iconic twin spires",
+  "at": "2026-10-06T07:41:20.431Z"
+ },
+ "guadalajara-jardin-hidalgo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Jard%C3%ADn_Hidalgo_Tlaquepaque_de_noche.jpg/1920px-Jard%C3%ADn_Hidalgo_Tlaquepaque_de_noche.jpg": {
+  "slug": "guadalajara-jardin-hidalgo",
+  "verdict": "MATCH",
+  "reason": "publish gate: Plaza gazebo at night, representative view of Jardín Hidalgo",
+  "at": "2026-10-06T07:59:42.632Z"
+ },
  "guadalajara-plaza-de-la-liberacion\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Guadalajara%2C_Jalisco%2C_Mexico_%282021%29_-_020.jpg/1920px-Guadalajara%2C_Jalisco%2C_Mexico_%282021%29_-_020.jpg": {
   "slug": "guadalajara-plaza-de-la-liberacion",
   "verdict": "MATCH",
@@ -7470,6 +7500,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Colonial courtyard arcade, representative of museum's architecture",
   "at": "2026-10-05T16:19:58.921Z"
+ },
+ "guanajuato-mercado-hidalgo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Mercado_Hidalgo_en_Guanajuato.jpg/3840px-Mercado_Hidalgo_en_Guanajuato.jpg": {
+  "slug": "guanajuato-mercado-hidalgo",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior market hall view, representative of Mercado Hidalgo",
+  "at": "2026-10-06T08:02:03.702Z"
  },
  "guanajuato-monumento-al-pipila\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Monumento_al_P%C3%ADpila_en_Guanajuato%2C_Guanajuato_09.jpg/3840px-Monumento_al_P%C3%ADpila_en_Guanajuato%2C_Guanajuato_09.jpg": {
   "slug": "guanajuato-monumento-al-pipila",
@@ -14623,6 +14659,12 @@
   "reason": "publish gate: Exterior facade of NGV with signage and entrance shown",
   "at": "2026-09-30T14:11:18.585Z"
  },
+ "merida-dzibilchaltun\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Dzibilchaltun%2C_Temple_of_the_Seven_Dolls_%2814363090911%29.jpg/1920px-Dzibilchaltun%2C_Temple_of_the_Seven_Dolls_%2814363090911%29.jpg": {
+  "slug": "merida-dzibilchaltun",
+  "verdict": "MATCH",
+  "reason": "publish gate: Mayan temple structure matching Dzibilchaltún's Temple of the Seven Dolls",
+  "at": "2026-10-06T07:42:42.540Z"
+ },
  "merida-la-chaya-maya\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/La_Chaya_Maya%2C_exterior%2C_M%C3%A9rida%2C_Yucat%C3%A1n_June_2024.jpg/3840px-La_Chaya_Maya%2C_exterior%2C_M%C3%A9rida%2C_Yucat%C3%A1n_June_2024.jpg": {
   "slug": "merida-la-chaya-maya",
   "verdict": "MATCH",
@@ -14641,6 +14683,12 @@
   "reason": "publish gate: Distinctive modern architecture exterior, plausible venue hero shot",
   "at": "2026-10-05T16:17:31.821Z"
  },
+ "merida-parque-de-santa-ana\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Parque_de_Santa_Ana_nocturno%2C_M%C3%A9rida%2C_Yucat%C3%A1n_06.jpg/3840px-Parque_de_Santa_Ana_nocturno%2C_M%C3%A9rida%2C_Yucat%C3%A1n_06.jpg": {
+  "slug": "merida-parque-de-santa-ana",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows park plaza with church, trees, holiday lights at night",
+  "at": "2026-10-06T08:00:56.439Z"
+ },
  "mexico-city-bar-nino\u0001https://fastly.4sqi.net/img/general/original/70783217_idvlBFGIpXr8-83tmIrCcHc9DgvvStk4ey4kx7cXME4.jpg": {
   "slug": "mexico-city-bar-nino",
   "verdict": "MATCH",
@@ -14658,6 +14706,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Aerial view of Basilica complex, representative hero shot",
   "at": "2026-10-05T16:23:19.616Z"
+ },
+ "mexico-city-bosque-de-chapultepec\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Puerta_de_los_leones_en_Chapultepec_2.jpg/1920px-Puerta_de_los_leones_en_Chapultepec_2.jpg": {
+  "slug": "mexico-city-bosque-de-chapultepec",
+  "verdict": "MATCH",
+  "reason": "publish gate: Iconic gated entrance with lion statues to Chapultepec park",
+  "at": "2026-10-06T07:38:30.211Z"
  },
  "mexico-city-cobarde\u0001https://fastly.4sqi.net/img/general/original/21597530_fzCD51Gl9WHEDXt91uGRnP9nHcPSGOPmYcn40qELZfI.jpg": {
   "slug": "mexico-city-cobarde",
@@ -18508,6 +18562,12 @@
   "reason": "publish gate: Safari park with animals and visitor cars, matches venue type",
   "at": "2026-10-05T16:14:26.986Z"
  },
+ "puebla-catedral-de-puebla\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Catedral_de_Puebla_%28fachada%29%2C_nov22.jpg/3840px-Catedral_de_Puebla_%28fachada%29%2C_nov22.jpg": {
+  "slug": "puebla-catedral-de-puebla",
+  "verdict": "MATCH",
+  "reason": "publish gate: Cathedral facade, representative exterior view of landmark",
+  "at": "2026-10-06T07:37:42.796Z"
+ },
  "puebla-el-patio-de-san-luis\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Patio_principal_%28fragmentos_de_piedra%29_en_el_Convento_de_San_Miguel_Arc%C3%A1ngel_en_Huejotzingo_07.jpg/3840px-Patio_principal_%28fragmentos_de_piedra%29_en_el_Convento_de_San_Miguel_Arc%C3%A1ngel_en_Huejotzingo_07.jpg": {
   "slug": "puebla-el-patio-de-san-luis",
   "verdict": "MATCH",
@@ -18531,6 +18591,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior view of distinctive Museo Internacional del Barroco architecture",
   "at": "2026-10-05T16:24:06.885Z"
+ },
+ "puebla-parque-ecologico\u0001https://upload.wikimedia.org/wikipedia/commons/f/f4/Parque_Ecol%C3%B3gico_Revoluci%C3%B3n_Mexicana_5.jpg": {
+  "slug": "puebla-parque-ecologico",
+  "verdict": "MATCH",
+  "reason": "publish gate: Lake with birds and trees, fits ecological park scene",
+  "at": "2026-10-06T07:45:22.760Z"
  },
  "puerto-princesa-immaculate-conception-cathedral\u0001https://upload.wikimedia.org/wikipedia/commons/7/75/The_Immaculate_Conception_Cathedral_-_panoramio_%282%29.jpg": {
   "slug": "puerto-princesa-immaculate-conception-cathedral",
@@ -19297,6 +19363,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior of historic building with statue, matches venue",
   "at": "2026-10-04T07:47:43.805Z"
+ },
+ "san-miguel-de-allende-parroquia-de-san-miguel-arcangel\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Vista_desde_la_carretera_de_la_Parroquia_de_San_Miguel_Arc%C3%A1ngel.JPG/3840px-Vista_desde_la_carretera_de_la_Parroquia_de_San_Miguel_Arc%C3%A1ngel.JPG": {
+  "slug": "san-miguel-de-allende-parroquia-de-san-miguel-arcangel",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows the Parroquia's distinctive spires in San Miguel skyline",
+  "at": "2026-10-06T07:43:38.343Z"
  },
  "san-sebastian-alderdi-eder-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Alderdi_Eder_Parkea.jpg/3840px-Alderdi_Eder_Parkea.jpg": {
   "slug": "san-sebastian-alderdi-eder-park",
@@ -25117,6 +25189,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Aerial view of Yokohama Red Brick Warehouse complex",
   "at": "2026-09-22T07:42:49.173Z"
+ },
+ "york-black-wheat-club\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Black_Wheat_Club_York_Apr26.jpg/3840px-Black_Wheat_Club_York_Apr26.jpg": {
+  "slug": "york-black-wheat-club",
+  "verdict": "MATCH",
+  "reason": "publish gate: Storefront exterior clearly showing venue name and signage",
+  "at": "2026-10-06T07:42:03.279Z"
  },
  "york-clifford-s-tower-york\u0001https://upload.wikimedia.org/wikipedia/commons/e/ee/York_Castle_Clifford%27s_Tower_2007.jpg": {
   "slug": "york-clifford-s-tower-york",
