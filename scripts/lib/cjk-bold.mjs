@@ -44,7 +44,10 @@ const PUNCT = /\*\*([^*\n]+?)([、。，,.:：;；!！?？…·]+)\*\*(?=[^\s*]|
 // CLOSING ** of `**「神々の小径」**(センティエロ)` as an opener because a paren
 // happened to follow it. That line's test caught it. A quote is ambidextrous
 // and needs naming; a paren is not, and the pairs already listed suffice.
-const LEAD = /\*\*(["'「『（【〈《〔“‘]+)(?=[^\s*])/g;
+// "+" and "#" too: a dialling code (**+853**) opens with ASCII punctuation, so
+// after a CJK letter the ** cannot open — the Macau essentials guide showed
+// literal stars in ja and zh on its first day (2026-10-06). +**853** renders.
+const LEAD = /\*\*(["'「『（【〈《〔“‘+#]+)(?=[^\s*])/g;
 const TRAIL = /(["'」』）】〉》〕”’]+)\*\*/g;
 
 // *italic* inside or against a bold span. CJK typesetting has no italics, and a

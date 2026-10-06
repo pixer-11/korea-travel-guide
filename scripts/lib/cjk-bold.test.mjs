@@ -186,3 +186,16 @@ test('two bold spans glued by a full-width colon are repaired', () => {
   assert.equal(out, '- **KRL通勤铁路**：**Palmerah**站位于GBK西侧边缘。');
   assert.equal(rendersBold(out), true);
 });
+
+// 2026-10-06: the Macau essentials guide, ja and zh — a dialling code in bold
+// right after a CJK letter.
+test('a bold span that opens with + after a CJK letter is repaired', () => {
+  for (const line of ['マカオの国際電話番号(国番号)は**+853**です', '澳门的国际长途区号为**+853**。']) {
+    assert.equal(rendersBold(line), false, line);
+    const out = fixCjkBoldLine(line);
+    assert.equal(rendersBold(out), true, out);
+    assert.ok(out.includes('+**853**'), out);
+  }
+  // a span that already renders is left alone
+  assert.equal(fixCjkBoldLine('Call **+853** first.'), 'Call **+853** first.');
+});
