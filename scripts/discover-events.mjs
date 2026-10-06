@@ -58,13 +58,14 @@ const MAX_CANDIDATES = Number(process.env.MAX_CANDIDATES ?? 8);
 // the tightest cap on our best-performing page type; four is not a volume push,
 // it is the mix following the numbers.
 const EVENTS_PER_COUNTRY = Number(process.env.EVENTS_PER_COUNTRY ?? 4);
-// Raised with events on 2026-09-09, on Bing's numbers rather than Google's.
-// Per published page Bing clicks: trendy 0.57, event 0.42, hidden-gem 0.31,
-// restaurant 0.29, attraction 0.30 — and trendy converts at 19% against the
-// famous-landmark 1.3%, because a new cafe is a query nobody else answers while
-// "Venice Grand Canal" belongs to Wikipedia. Hotspots come from the same weekly
-// web search as events, so they cost the daily Places quota nothing.
-const HOTSPOTS_PER_COUNTRY = Number(process.env.HOTSPOTS_PER_COUNTRY ?? 4);
+// OFF since 2026-10-06 (owner: halve the Claude bill to ~$400/month). Raised
+// on 2026-09-09 when Bing gave trendy 0.57 clicks per page against events
+// 0.42; a month later, over every published post, it is event 0.68 against
+// trendy 0.055 — a twelfth. A hotspot costs what an event costs (search,
+// writer, four translations), and each run wrote ~50 of them beside ~50
+// events. At 0 the hotspot web search is skipped too, not just its posts.
+// Set HOTSPOTS_PER_COUNTRY to bring them back.
+const HOTSPOTS_PER_COUNTRY = Number(process.env.HOTSPOTS_PER_COUNTRY ?? 0);
 
 // Sonnet 5 reasons unless told not to, and the reasoning is drawn from
 // max_tokens before a word of the answer: on 10-05, 11 of 20 country searches
@@ -486,7 +487,8 @@ async function main() {
       if (ev >= EVENTS_PER_COUNTRY) break;
       if (await attempt(`${c.name} event "${item?.name ?? '?'}"`, () => writeDiscovered(item, { ...ctx, kind: 'event' }), false)) { ev++; total++; }
     }
-    for (const item of await attempt(`${c.name} hotspot discovery`, () => discoverHotspots(c.name), [])) {
+    const hotspots = HOTSPOTS_PER_COUNTRY > 0 ? await attempt(`${c.name} hotspot discovery`, () => discoverHotspots(c.name), []) : [];
+    for (const item of hotspots) {
       if (hs >= HOTSPOTS_PER_COUNTRY) break;
       if (await attempt(`${c.name} hotspot "${item?.name ?? '?'}"`, () => writeDiscovered(item, { ...ctx, kind: 'hotspot' }), false)) { hs++; total++; }
     }

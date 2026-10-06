@@ -30,7 +30,9 @@ export function readLedger(path = LEDGER) {
 
 // The account's monthly spend limit (Anthropic console), shared with the crypto
 // pipeline and hand-run scripts, which this ledger does not see.
-export const MONTHLY_CAP = Number(process.env.CLAUDE_MONTHLY_CAP || 800);
+// $400 since 2026-10-06 (owner: halve the bill). The account's own limit may be
+// higher; this is the budget the daily report warns against.
+export const MONTHLY_CAP = Number(process.env.CLAUDE_MONTHLY_CAP || 400);
 
 /**
  * Month-to-date spend and a straight-line forecast against the monthly limit.

@@ -1,5 +1,5 @@
 {
-  "postsPerRun": 16,
+  "postsPerRun": 10,
   "backfillPerRun": 25,
   "setAt": "2026-09-09",
   "revisitAt": "2026-10-07",
@@ -22,5 +22,13 @@
     "heldFor": "13 days",
     "result": "no indexation recovery; crawl rate halved; queue grew"
   },
-  "backfillNote": "25, not -1. The pre-registered restoreTo says 'ramp', meaning the 25/35/50-by-week logic in backfill.yml - but that ramp counts weeks from data/fill-phase.json's switchedAt, and that clock kept running through the 13-day pause. Handing it -1 today lands on week 4 = 50 per run, which with postsPerRun 16 would be ~66 posts/day: more than three times the ~20/day this site published before the throttle, in one step. That is not a restore. So the ramp is re-entered at its first step by hand. Raise to 35 after a week and 50 after two IF the crawl rate is responding - the number to watch is Googlebot requests/day, which is 81 today and was 162 before the throttle."
+  "backfillNote": "25, not -1. The pre-registered restoreTo says 'ramp', meaning the 25/35/50-by-week logic in backfill.yml - but that ramp counts weeks from data/fill-phase.json's switchedAt, and that clock kept running through the 13-day pause. Handing it -1 today lands on week 4 = 50 per run, which with postsPerRun 16 would be ~66 posts/day: more than three times the ~20/day this site published before the throttle, in one step. That is not a restore. So the ramp is re-entered at its first step by hand. Raise to 35 after a week and 50 after two IF the crawl rate is responding - the number to watch is Googlebot requests/day, which is 81 today and was 162 before the throttle.",
+  "costDecision": {
+    "setAt": "2026-10-06",
+    "by": "owner: \"월 $400 정도로 절반 가까이 줄였으면\" (Claude API, was ~$800/mo at the October pace)",
+    "postsPerRun": "16 -> 10. Generator already fills the country with fewest posts, then its emptiest city, so fewer posts still go to thin cities (241 regions have <=5 posts) rather than piling onto capitals.",
+    "backfillPerRun": "unchanged (25): only Mexico is still below 58 and will finish on its own; owner wants new places to keep growing, and filling a NEW country costs ~$30 for 58 posts, so new countries/cities fit inside the budget.",
+    "why": "Bing per published post (10-06): event 0.68 clicks, attraction 0.12, hidden-gem 0.12, restaurant 0.07, trendy 0.055. Google gave posts published since August 7 impressions in a month. Translation (Opus, five languages - owner decision 08-28) is 55% of spend, so spend follows post count.",
+    "revisit": "2026-11-06: read data/claude-cost.jsonl month total; if under ~$400 and Bing clicks per new post hold, consider 12."
+  }
 }
