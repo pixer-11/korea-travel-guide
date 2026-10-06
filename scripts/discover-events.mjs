@@ -252,7 +252,11 @@ async function writeDiscovered(item, ctx) {
     name: item.name, city: item.city, date: item.date, country, summary: item.summary,
     guidance:
       kind === 'event'
-        ? 'Time-sensitive event discovered via web search. Use the given facts, state the date as announced, and tell readers to confirm exact dates, venue, and tickets on the official source — phrased TIMELESSLY, as a standing instruction ("Confirm timing and tickets on the official site"), never as a date-relative promise. The page stays online after the event, so NEVER write "closer to the date/event", "will be announced/confirmed", "have not been confirmed yet", "tickets go on sale", "lineup has yet to", or "once released". Do not invent lineup, prices, or times.'
+        // 2026-10-06: this used to ask for the standing instruction "Confirm
+        // timing and tickets on the official site" — the sentence the
+        // ended-event ADVICE check flags, so 162 of 166 upcoming guides were
+        // due a rewrite the day they ended. Say where the facts live, as a fact.
+        ? 'Time-sensitive event discovered via web search. Use the given facts and state the date as announced. The page stays online after the event, so every sentence must still be true the day after it ends: say where dates, venue and tickets are published as a FACT ("The organiser publishes the dates and ticket links on its official site"), naming the organiser or ticketing platform when the facts name it, and give practical tips as what attendees usually do ("Fans typically arrive an hour before doors"), never as an instruction to the reader. NEVER write "confirm/check/verify ... before", "book ahead", "arrive early", "closer to the date/event", "will be announced/confirmed", "have not been confirmed yet", "tickets go on sale", "lineup has yet to", or "once released". Do not invent lineup, prices, or times.'
         : 'Recently-opened / trending spot discovered via web search. Use the given facts; describe what it is, where, and why it stands out. Tell readers to confirm hours and reservations before visiting. Do not invent a menu, prices, or exact hours you were not given.',
   };
   const { body, quickAnswer, faq } = await writeArticle({ title, region: item.city, country, category: cat, facts });

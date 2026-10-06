@@ -8,7 +8,7 @@ import Anthropic from '@anthropic-ai/sdk';
 import './claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { firstTell } from './ai-tells.mjs';
 import { reflow } from '../../src/lib/paragraphs.mjs';
-import { FUTURE_PROMISE } from '../../src/lib/ended-event-claims.mjs';
+import { FUTURE_PROMISE, FABRICATED_AVAILABILITY, ADVICE_IMPERATIVE } from '../../src/lib/ended-event-claims.mjs';
 
 const MODEL = process.env.WRITER_MODEL || 'claude-opus-5-5';
 
@@ -141,7 +141,15 @@ const TOOL = {
 // Born clean instead: the writer is told to phrase confirmations timelessly,
 // and the output is checked against the same pattern the validator and the
 // repair tool share. One retry naming the residue, then ship with a log line.
-export const EVENT_TIMELESS_RULE = 'EVENT PAGES STAY ONLINE AFTER THE EVENT. Phrase every "confirm on the official source" instruction TIMELESSLY ("Confirm timing and tickets on the official site"), never relative to the date. Do NOT write: "closer to the date/event", "will be announced/confirmed/released", "has/have not been confirmed/announced yet", "tickets go on sale", "the lineup has yet to", "once released". State what is known; do not promise future updates.';
+// 2026-10-06: the rule above used to PRESCRIBE "Confirm timing and tickets on
+// the official site" — the very sentence ADVICE_IMPERATIVE (added 09-04) flags
+// once the event ends. 162 of 166 upcoming event guides carried it, so nearly
+// every event cost an Opus rewrite and four full translations the day after
+// it ended. Facts and habits stay true afterwards; instructions do not.
+export const EVENT_TIMELESS_RULE = 'EVENT PAGES STAY ONLINE AFTER THE EVENT, so every sentence must still be true the day after it ends. ' +
+  '(1) Never instruct the reader to check, confirm, verify, watch, book, plan or arrive before, early or ahead: that advice is stale the morning after. Say where the information lives as a FACT instead ("The organiser publishes the dates, venue and ticket links on its official site"; name the organiser or ticketing platform when your facts name it), and give practical tips as what attendees usually do ("Fans typically arrive an hour before doors", "Visitors usually stay in Ilsan"), not as commands ("Arrive early", "Book ahead"). ' +
+  '(2) Do NOT write: "closer to the date/event", "will be announced/confirmed/released", "has/have not been confirmed/announced yet", "tickets go on sale", "the lineup has yet to", "once released", "TBA", "TBC", "as of this writing", "this far out". ' +
+  '(3) Do NOT say details were published, confirmed or listed on official sites or channels: nobody here verified that. State what is known; do not promise future updates.';
 
 /**
  * The retry conversation, shaped the way the API demands: the assistant turn
@@ -174,7 +182,7 @@ export function timelessRetryMessages(prior, firstMsg, toolUseId, residue) {
       role: 'user',
       content: [
         { type: 'tool_result', tool_use_id: toolUseId, content: 'Draft received. Revision requested below.' },
-        { type: 'text', text: 'Your draft contains the phrase "' + residue + '", which becomes a stale instruction the day after the event. Resubmit the whole guide with every forward-looking promise removed or rephrased timelessly, changing nothing else. ' + EVENT_TIMELESS_RULE },
+        { type: 'text', text: 'Your draft contains the phrase "' + residue + '", which becomes stale or false the day after the event. Resubmit the whole guide with every such sentence rephrased as a fact or as what attendees usually do, changing nothing else. ' + EVENT_TIMELESS_RULE },
       ],
     },
   ];
@@ -201,11 +209,18 @@ export function tellRetryMessages(prior, firstMsg, toolUseId, tell) {
 }
 
 /** First forward-looking phrase in a written guide's fields, or null when clean. */
+// All three ended-event checks the validator runs (FUTURE-TENSE, FABRICATED-
+// AVAILABILITY, ADVICE), on every surface it reads. It used to be the first
+// one only, so the born-clean gate passed the ADVICE sentence its own rule
+// asked for (2026-10-06).
+const BORN_STALE = [FUTURE_PROMISE, FABRICATED_AVAILABILITY, ADVICE_IMPERATIVE];
 export function eventFuturePromise(out) {
-  const fields = [out?.quickAnswer, out?.body, ...(Array.isArray(out?.faq) ? out.faq.map((f) => f?.a) : [])];
+  const fields = [out?.quickAnswer, out?.description, out?.body, ...(Array.isArray(out?.faq) ? out.faq.map((f) => f?.a) : [])];
   for (const t of fields) {
-    const m = String(t || '').match(FUTURE_PROMISE);
-    if (m) return m[0];
+    for (const re of BORN_STALE) {
+      const m = String(t || '').match(re);
+      if (m) return m[0].replace(/\s+/g, ' ').trim();
+    }
   }
   return null;
 }

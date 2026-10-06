@@ -9,12 +9,24 @@ test('08-22 실제 사례 — quickAnswer·FAQ의 미래 약속을 잡는다', (
   assert.match(eventFuturePromise({ quickAnswer: 'x', body: 'Additional acts may be announced closer to the date.', faq: [] }), /closer to the date/);   // the passive branch (09-03) now claims "announced closer to the date"
 });
 
+// 2026-10-06: this test used to call "Confirm timing and tickets on the official
+// site" and "Arrive early" the clean shape — the two sentences the validator's
+// ADVICE check flags the day the event ends (162 of 166 upcoming guides). The
+// clean shape is a fact about where the information lives, and tips told as
+// what attendees usually do.
 test('시간 무관 문구는 통과한다 (태어날 때 깨끗한 글의 모양)', () => {
   assert.equal(eventFuturePromise({
-    quickAnswer: 'Sonu Nigam plays Etihad Arena on August 21, 2026. Confirm timing and tickets on the official site.',
-    body: 'Doors open at 6pm. Arrive early — Yas Island access roads fill fast on concert nights.',
+    quickAnswer: 'Sonu Nigam plays Etihad Arena on August 21, 2026. The promoter publishes timing and ticket links on its official site.',
+    body: 'Doors open at 6pm. Fans typically arrive early, because Yas Island access roads fill fast on concert nights.',
     faq: [{ q: 'Is the date confirmed?', a: 'August 21 is the announced date; the official site is the authority for any change.' }],
   }), null);
+});
+
+test('독자에게 하는 지시와 확인 안 된 공지 주장도 태어날 때 잡는다', () => {
+  assert.match(eventFuturePromise({ quickAnswer: 'Confirm timing and tickets on the official site.', body: '', faq: [] }), /Confirm timing and tickets on the official/);
+  assert.match(eventFuturePromise({ quickAnswer: 'x', body: 'Book accommodation early; rooms near the arena sell out.', faq: [] }), /Book accommodation early/);
+  assert.match(eventFuturePromise({ quickAnswer: 'x', body: '', faq: [{ q: 'Where?', a: 'Set times were published on the official site.' }] }), /published on the official/);
+  assert.match(eventFuturePromise({ quickAnswer: 'x', description: 'Check the venue before you go.', body: '', faq: [] }), /Check the venue before/);
 });
 
 // 2026-08-27: the retry conversation itself killed the run — the assistant
