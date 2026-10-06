@@ -10,16 +10,15 @@ eventEndDate: '2026-12-05'
 eventRecurring: true
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/1/10/1st_Miss_Charm_pageant.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/d/dd/1st_Miss_Charm_pageant_%282%29.jpg
   credit: 'Photo: Kementerian Luar Negeri Republik Indonesia (Ministry of / Wikimedia Commons (Public domain)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:1st_Miss_Charm_pageant.jpg
+  source: https://commons.wikimedia.org/wiki/File:1st_Miss_Charm_pageant_(2).jpg
   focus:
-    x: 47
-    'y': 27
-    top: 12
+    x: 76
+    'y': 39
+    top: 36
     bottom: 42
-gallery: []
 tags:
   - ho chi minh city
   - event

@@ -1,44 +1,43 @@
 ---
-title: "Ekamra Haat: Bhubaneswar Travel Guide (4.3★)"
-description: "Ekamra Haat in Bhubaneswar is a permanent open-air crafts bazaar on Madhusudan Marg in Unit 3, Ekamra Vihar, where artisan stalls sell Odisha's handloom textiles, paintings and metalwork. 4.3★ (9,257 reviews) — what visitors say, hours, and tips."
-country: "India"
-region: "Bhubaneswar"
-category: "hidden-gem"
-pubDate: "2026-09-25T07:43:13.630Z"
+title: 'Ekamra Haat: Bhubaneswar Travel Guide (4.3★)'
+description: Ekamra Haat in Bhubaneswar is a permanent open-air crafts bazaar on Madhusudan Marg in Unit 3, Ekamra Vihar, where artisan stalls sell Odisha's handloom textiles, paintings and metalwork. 4.3★ (9,257 reviews) — what visitors say, hours, and tips.
+country: India
+region: Bhubaneswar
+category: hidden-gem
+pubDate: '2026-09-25T07:43:13.630Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/7/75/Odia_Handicraft_At_Ekamra_haat_Bhubaneswar.jpg"
-  credit: "Photo: Psubhashish / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Odia_Handicraft_At_Ekamra_haat_Bhubaneswar.jpg"
-  via: "act"
+  url: https://fastly.4sqi.net/img/general/original/1409541796_EwGt0GBxXADToZUxMJ1icXHQ5s5j8iMYCZtiR2rE1qs.jpg
+  credit: 'Photo: Foursquare user content (Ekamra Haat)'
+  license: foursquare
+  source: https://foursquare.com/v/4d985f68942ba093fe25838c
   focus:
-    x: 40
-    y: 40
+    x: 35
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/0/0c/Ekamra_haat_Bhubaneswar_Odisha2.jpg"
-    credit: "Photo: Subhashish Panigrahi / Wikimedia Commons (CC BY 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Ekamra_haat_Bhubaneswar_Odisha2.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/0/0c/Ekamra_haat_Bhubaneswar_Odisha2.jpg
+    credit: 'Photo: Subhashish Panigrahi / Wikimedia Commons (CC BY 3.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Ekamra_haat_Bhubaneswar_Odisha2.jpg
 place:
-  id: "ChIJ3VTsFlenGToR8Xl1R9cZ-NQ"
-  name: "Ekamra Haat"
-  address: "7RHR+73M, Unit 3, Madhusudan Marg, Ekamra Vihar, UNIT- 9, Bhubaneswar, Odisha 751001, India"
+  id: ChIJ3VTsFlenGToR8Xl1R9cZ-NQ
+  name: Ekamra Haat
+  address: 7RHR+73M, Unit 3, Madhusudan Marg, Ekamra Vihar, UNIT- 9, Bhubaneswar, Odisha 751001, India
   rating: 4.3
   userRatingsTotal: 9257
-  googleMapsUrl: "https://maps.google.com/?cid=15346044142672509425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=15346044142672509425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 20.278212099999998
   lng: 85.84018449999999
   openingHours:
-    - "Monday: 11:00 AM – 9:00 PM"
-    - "Tuesday: 11:00 AM – 9:00 PM"
-    - "Wednesday: 11:00 AM – 9:00 PM"
-    - "Thursday: 11:00 AM – 9:00 PM"
-    - "Friday: 11:00 AM – 9:00 PM"
-    - "Saturday: 11:00 AM – 9:00 PM"
-    - "Sunday: 11:00 AM – 9:00 PM"
+    - 'Monday: 11:00 AM – 9:00 PM'
+    - 'Tuesday: 11:00 AM – 9:00 PM'
+    - 'Wednesday: 11:00 AM – 9:00 PM'
+    - 'Thursday: 11:00 AM – 9:00 PM'
+    - 'Friday: 11:00 AM – 9:00 PM'
+    - 'Saturday: 11:00 AM – 9:00 PM'
+    - 'Sunday: 11:00 AM – 9:00 PM'
   busyness:
-    updated: 2026-09-25
+    updated: 2026-09-25T00:00:00.000Z
     weekdayQuiet:
       - 11
     weekdayBusy:
@@ -50,22 +49,22 @@ place:
       - 18
       - 19
       - 20
-    venueId: "ven_514e2d5a633952316c5838526f54476e656c46735456334a496843"
+    venueId: ven_514e2d5a633952316c5838526f54476e656c46735456334a496843
 tags:
-  - "bhubaneswar"
-  - "local market"
-quickAnswer: "Ekamra Haat in Bhubaneswar is a permanent open-air crafts bazaar on Madhusudan Marg in Unit 3, Ekamra Vihar, where artisan stalls sell Odisha's handloom textiles, paintings and metalwork. It opens every day from 11am to 9pm. The quietest window is 11am–12pm on weekdays and weekends, and weekend crowds build from 2pm to 9pm."
+  - bhubaneswar
+  - local market
+quickAnswer: Ekamra Haat in Bhubaneswar is a permanent open-air crafts bazaar on Madhusudan Marg in Unit 3, Ekamra Vihar, where artisan stalls sell Odisha's handloom textiles, paintings and metalwork. It opens every day from 11am to 9pm. The quietest window is 11am–12pm on weekdays and weekends, and weekend crowds build from 2pm to 9pm.
 faq:
-  - q: "When is the quietest time to visit Ekamra Haat?"
-    a: "11am–12pm, right after opening, on both weekdays and weekends. On weekends, try not to arrive between 2pm and 9pm, when the compound is at its busiest."
-  - q: "What are Ekamra Haat's opening hours?"
-    a: "It opens every day of the week from 11am to 9pm, weekends included."
-  - q: "How do I get to Ekamra Haat?"
-    a: "It is on Madhusudan Marg in Unit 3, Ekamra Vihar. It's a short auto-rickshaw or app-cab ride from Bhubaneswar railway station and a quick drive from Biju Patnaik International Airport. Give drivers the plus code 7RHR+73M."
-  - q: "What can I buy at Ekamra Haat?"
-    a: "Look for Odisha's signature crafts: Pattachitra cloth paintings, palm-leaf engravings, Sambalpuri ikat and Bomkai saris, Cuttack silver filigree (tarakasi), Pipili appliqué and dhokra brass. Stalls change over time, so what's on offer varies."
-  - q: "How long should I spend there?"
-    a: "About an hour to ninety minutes to walk the whole loop, or longer if you are choosing textiles. It fits easily into a day with the Old Town temples."
+  - q: When is the quietest time to visit Ekamra Haat?
+    a: 11am–12pm, right after opening, on both weekdays and weekends. On weekends, try not to arrive between 2pm and 9pm, when the compound is at its busiest.
+  - q: What are Ekamra Haat's opening hours?
+    a: It opens every day of the week from 11am to 9pm, weekends included.
+  - q: How do I get to Ekamra Haat?
+    a: It is on Madhusudan Marg in Unit 3, Ekamra Vihar. It's a short auto-rickshaw or app-cab ride from Bhubaneswar railway station and a quick drive from Biju Patnaik International Airport. Give drivers the plus code 7RHR+73M.
+  - q: What can I buy at Ekamra Haat?
+    a: 'Look for Odisha''s signature crafts: Pattachitra cloth paintings, palm-leaf engravings, Sambalpuri ikat and Bomkai saris, Cuttack silver filigree (tarakasi), Pipili appliqué and dhokra brass. Stalls change over time, so what''s on offer varies.'
+  - q: How long should I spend there?
+    a: About an hour to ninety minutes to walk the whole loop, or longer if you are choosing textiles. It fits easily into a day with the Old Town temples.
 aiGenerated: true
 draft: false
 ---

@@ -27,6 +27,14 @@ faq:
     a: Watch from the arcades near Piazza Castello or along Via Roma, then take Metro Line 1 south toward Lingotto to catch runners on the industrial part of the course. Surface buses are diverted on race day, so the metro is the more reliable option.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/e/e2/Piazza_Castello_Turin_2-12-24.jpg
+  credit: 'Photo: Jeanne Griffin / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Piazza_Castello_Turin_2-12-24.jpg
+  focus:
+    x: 50
+    'y': 45
 ---
 
 ## Piazza Castello at the start line

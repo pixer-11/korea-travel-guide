@@ -17,6 +17,9 @@ heroImage:
   credit: 'Photo: Trantuonglam / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
   source: 'https://commons.wikimedia.org/wiki/File:Bai-sao-phu-quoc-tuonglamphotos.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - phu quoc

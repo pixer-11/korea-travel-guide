@@ -2316,7 +2316,9 @@
   "taipa-village-rua-do-cunha\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Rua_do_Cunha_30-10-2023%281%29.jpg/3840px-Rua_do_Cunha_30-10-2023%281%29.jpg": 3840,
   "taipa-village-taipa-central-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Taipa_Central_Park_30-11-2023.jpg/3840px-Taipa_Central_Park_30-11-2023.jpg": 3840,
   "taipa-village-taipa-houses\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Taipa_Houses_Museum_01.JPG/1920px-Taipa_Houses_Museum_01.JPG": 1920,
-  "tulum-el-castillo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/El_Castillo_front_view_-_Tulum_Maya_site%2C_QR.jpg/3840px-El_Castillo_front_view_-_Tulum_Maya_site%2C_QR.jpg": 3840
+  "tulum-el-castillo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/El_Castillo_front_view_-_Tulum_Maya_site%2C_QR.jpg/3840px-El_Castillo_front_view_-_Tulum_Maya_site%2C_QR.jpg": 3840,
+  "dusseldorf-japanese-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Japanischer_Garten_%28Japanese_Garden%29_in_Nordpark_in_D%C3%BCsseldorf_during_the_Dokomi_2022_anime_convention.jpg/3840px-Japanischer_Garten_%28Japanese_Garden%29_in_Nordpark_in_D%C3%BCsseldorf_during_the_Dokomi_2022_anime_convention.jpg": 3840,
+  "turin-torino-city-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/e/e2/Piazza_Castello_Turin_2-12-24.jpg": 2448
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -2641,35 +2643,19 @@
    "flaggedAt": "2026-09-24",
    "lastResult": "no-wider"
   },
-  "ho-chi-minh-city-miss-charm-2026": {
-   "width": 1024,
-   "attempts": 0,
-   "nextTry": "2026-09-24",
-   "flaggedAt": "2026-09-24"
-  },
   "istanbul-lina-anatolian-kitchen": {
    "width": 1024,
-   "attempts": 0,
-   "nextTry": "2026-09-24",
-   "flaggedAt": "2026-09-24"
+   "attempts": 1,
+   "nextTry": "2026-10-13",
+   "flaggedAt": "2026-09-24",
+   "lastResult": "no-wider"
   },
   "kyoto-kurama-fire-festival": {
    "width": 1024,
-   "attempts": 0,
-   "nextTry": "2026-09-24",
-   "flaggedAt": "2026-09-24"
-  },
-  "seoul-diana-krall-concert": {
-   "width": 902,
-   "attempts": 0,
-   "nextTry": "2026-09-24",
-   "flaggedAt": "2026-09-24"
-  },
-  "bhubaneswar-ekamra-haat": {
-   "width": 1072,
-   "attempts": 0,
-   "nextTry": "2026-09-25",
-   "flaggedAt": "2026-09-25"
+   "attempts": 1,
+   "nextTry": "2026-10-13",
+   "flaggedAt": "2026-09-24",
+   "lastResult": "no-wider"
   },
   "chennai-koyambedu-market": {
    "width": 1024,
@@ -2918,5 +2904,5 @@
    "flaggedAt": "2026-10-05"
   }
  },
- "updated": "2026-10-06T15:00:20.758Z"
+ "updated": "2026-10-06T23:19:16.069Z"
 }

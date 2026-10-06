@@ -14,16 +14,15 @@ eventPerformer:
   kind: person
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/7/7d/Diana_krall.jpg
-  credit: 'Photo: Chris Govias / Wikimedia Commons (CC BY-SA 4.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/3/34/Diana_Krall_at_Apollo_40th_anniversary_841721.jpg
+  credit: 'Photo: Bill Ingalls / Wikimedia Commons (Public domain)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Diana_krall.jpg
+  source: https://commons.wikimedia.org/wiki/File:Diana_Krall_at_Apollo_40th_anniversary_841721.jpg
   focus:
-    x: 41
-    'y': 35
-    top: 9
-    bottom: 60
-gallery: []
+    x: 43
+    'y': 28
+    top: 10
+    bottom: 45
 tags:
   - seoul
   - event

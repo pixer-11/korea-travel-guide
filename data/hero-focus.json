@@ -5830,5 +5830,13 @@
    "x": 50,
    "y": 50
   }
+ },
+ "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bai-sao-phu-quoc-tuonglamphotos.jpg/3840px-Bai-sao-phu-quoc-tuonglamphotos.jpg": {
+  "w": 3840,
+  "h": 2160,
+  "focus": {
+   "x": 50,
+   "y": 40
+  }
  }
 }

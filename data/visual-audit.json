@@ -3184,6 +3184,12 @@
   "reason": "publish gate: Soviet War Memorial in Tiergarten park, Berlin",
   "at": "2026-10-05T07:51:19.781Z"
  },
+ "bhubaneswar-ekamra-haat\u0001https://fastly.4sqi.net/img/general/original/1409541796_EwGt0GBxXADToZUxMJ1icXHQ5s5j8iMYCZtiR2rE1qs.jpg": {
+  "slug": "bhubaneswar-ekamra-haat",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Shows handicraft stalls and pathway, representative of Ekamra Haat",
+  "at": "2026-10-06T23:19:16.057Z"
+ },
  "bhubaneswar-ekamra-haat\u0001https://upload.wikimedia.org/wikipedia/commons/7/75/Odia_Handicraft_At_Ekamra_haat_Bhubaneswar.jpg": {
   "slug": "bhubaneswar-ekamra-haat",
   "verdict": "MATCH",
@@ -3690,6 +3696,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: identity: credit names \"Fresh Sushi Co\", post is \"+81 Sushi Kappo\"",
   "at": "2026-10-01T23:25:05.581Z"
+ },
+ "brisbane-81-sushi-kappo\u0001https://fastly.4sqi.net/img/general/original/4624004_1rMA7FtrzbrL8ZXyItqxBc3g0Y2Qfo-XxxN70udsxE8.jpg": {
+  "slug": "brisbane-81-sushi-kappo",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Close-up product-style food shot, not venue setting",
+  "at": "2026-10-06T23:12:17.915Z"
  },
  "brisbane-81-sushi-kappo\u0001https://fastly.4sqi.net/img/general/original/4897630_UhW6ud-9Fvr5Yliu2iJmc2S5g0J_tAFve2OogfHlh5I.jpg": {
   "slug": "brisbane-81-sushi-kappo",
@@ -6445,6 +6457,12 @@
   "reason": "publish gate: Plausible Japanese garden scene with moss, trees, pond",
   "at": "2026-10-06T07:39:48.618Z"
  },
+ "dusseldorf-japanese-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Japanischer_Garten_%28Japanese_Garden%29_in_Nordpark_in_D%C3%BCsseldorf_during_the_Dokomi_2022_anime_convention.jpg/3840px-Japanischer_Garten_%28Japanese_Garden%29_in_Nordpark_in_D%C3%BCsseldorf_during_the_Dokomi_2022_anime_convention.jpg": {
+  "slug": "dusseldorf-japanese-garden",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Japanese garden with pond, visitors, authentic landscaping",
+  "at": "2026-10-06T23:12:44.099Z"
+ },
  "dusseldorf-kaiserpfalz-kaiserswerth\u0001https://upload.wikimedia.org/wikipedia/commons/1/14/Panopfalz-innen.jpg": {
   "slug": "dusseldorf-kaiserpfalz-kaiserswerth",
   "verdict": "MATCH",
@@ -7344,6 +7362,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows fortress wall along mountain ridge, representative view",
   "at": "2026-09-21T07:41:35.263Z"
+ },
+ "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Charlie_Puth_al_Poble_Espanyol_%2889469%29.jpg/3840px-Charlie_Puth_al_Poble_Espanyol_%2889469%29.jpg": {
+  "slug": "goyang-charlie-puth-concert",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Concert performance on stage with keyboard player",
+  "at": "2026-10-06T23:12:54.111Z"
  },
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Charlie_Puth_al_Poble_Espanyol_%2836250%29.jpg/3840px-Charlie_Puth_al_Poble_Espanyol_%2836250%29.jpg": {
   "slug": "goyang-charlie-puth-concert",
@@ -8394,6 +8418,12 @@
   "verdict": "MATCH",
   "reason": "editor-shot on site 2026-08-15; signboard and street number 27 in frame",
   "at": "2026-08-15T01:07:39.700Z"
+ },
+ "ho-chi-minh-city-miss-charm-2026\u0001https://upload.wikimedia.org/wikipedia/commons/d/dd/1st_Miss_Charm_pageant_%282%29.jpg": {
+  "slug": "ho-chi-minh-city-miss-charm-2026",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Pageant stage with contestants, matches Miss Charm event type",
+  "at": "2026-10-06T23:18:26.548Z"
  },
  "ho-chi-minh-city-museum-of-ho-chi-minh-city\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/B%E1%BA%A3o_t%C3%A0ng_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh_7.jpg/1920px-B%E1%BA%A3o_t%C3%A0ng_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh_7.jpg": {
   "slug": "ho-chi-minh-city-museum-of-ho-chi-minh-city",
@@ -13161,7 +13191,7 @@
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
   "verdict": "MATCH",
   "reason": "patrol replace: MotoGP rider and bike at circuit paddock",
-  "at": "2026-10-05T21:36:06.195Z"
+  "at": "2026-10-06T23:14:36.236Z"
  },
  "lombok-mount-rinjani-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lembah_Torean_Rinjani.jpg/1920px-Lembah_Torean_Rinjani.jpg": {
   "slug": "lombok-mount-rinjani-national-park",
@@ -15017,8 +15047,8 @@
  "milan-procaccini\u0001https://live.staticflickr.com/95/217582569_52ea43359f_k.jpg": {
   "slug": "milan-procaccini",
   "verdict": "MISMATCH",
-  "reason": "patrol reject: Shows a monument and cracked sphere, not restaurant",
-  "at": "2026-10-06T00:58:17.552Z"
+  "reason": "patrol reject: Shows cemetery monument/sculpture, not a restaurant",
+  "at": "2026-10-06T23:15:37.864Z"
  },
  "milan-procaccini\u0001https://upload.wikimedia.org/wikipedia/commons/4/4c/9431_-_Milano_-_S._Angelo_-_Camillo_Procaccini%2C_Sposalizio_della_Vergine_-_Foto_Giovanni_Dall%27Orto_22-Apr-2007.jpg": {
   "slug": "milan-procaccini",
@@ -17634,6 +17664,12 @@
   "verdict": "MISMATCH",
   "reason": "Bridge landmark, not restaurant interior/exterior",
   "at": "2026-07-25T02:47:48.880Z"
+ },
+ "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/2/27/5_Seconds_of_Summer_2014.jpg": {
+  "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Band at event backdrop with sponsor logos",
+  "at": "2026-10-06T23:16:24.414Z"
  },
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/5_Seconds_of_Summer_First_USA_Acoustic_IMG_3665_%2814665446017%29.jpg/3840px-5_Seconds_of_Summer_First_USA_Acoustic_IMG_3665_%2814665446017%29.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
@@ -20415,6 +20451,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Aerial view shows Deoksugung palace grounds with Seoul skyline",
   "at": "2026-09-19T07:38:01.605Z"
+ },
+ "seoul-diana-krall-concert\u0001https://upload.wikimedia.org/wikipedia/commons/3/34/Diana_Krall_at_Apollo_40th_anniversary_841721.jpg": {
+  "slug": "seoul-diana-krall-concert",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Performer singing at microphone, valid concert hero photo",
+  "at": "2026-10-06T23:19:12.099Z"
  },
  "seoul-dongdaemun-design-plaza-ddp\u0001https://fastly.4sqi.net/img/general/original/6109091_MR_6XqItW7wF-4PPdnvqSw1vJ3w_SvAjQ0sZkrJUB_U.jpg": {
   "slug": "seoul-dongdaemun-design-plaza-ddp",
@@ -24456,6 +24498,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: This is a logo, not a marathon photo",
   "at": "2026-10-05T18:06:49.523Z"
+ },
+ "turin-torino-city-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/e/e2/Piazza_Castello_Turin_2-12-24.jpg": {
+  "slug": "turin-torino-city-marathon",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Piazza Castello, Turin - correct venue",
+  "at": "2026-10-06T23:18:05.841Z"
  },
  "turin-torino-city-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Piazzale_Grande_Torino%2C_Turin%2C_Italy.jpg/3840px-Piazzale_Grande_Torino%2C_Turin%2C_Italy.jpg": {
   "slug": "turin-torino-city-marathon",
