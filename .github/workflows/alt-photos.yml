@@ -277,6 +277,10 @@ jobs:
 
       - name: Fill the rest with a photo of their city
         if: steps.gate.outputs.on == 'true'
+        # Vision now confirms a Commons pick is a view of the place (2026-10-06:
+        # a dog breed named after Phu Quoc and a palace fresco got through).
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node scripts/fill-event-city-heroes.mjs | tee /tmp/cityhero.log
 
       # Written 2026-08-15 for the owner's "모든 사진 부분에서 그렇게 되어야지"
@@ -349,6 +353,9 @@ jobs:
         if: steps.gate.outputs.on == 'true'
         run: |
           node scripts/requarantine-mismatches.mjs
+          # heldFinal is a decision too, and the same rebase dropped four on
+          # 2026-10-06 (twins republished beside their hold line).
+          node scripts/reassert-held-final.mjs
           node scripts/release-photoless-events.mjs
           node scripts/build-wall.mjs
           git add src/content/posts public/wall data/wall.json

@@ -38,3 +38,12 @@ test('출처 꼬리는 문자열 끝에서 찾는다 — 본문에 "/ Wikimedia 
   const tricky = 'Photo: Ad Meskens You are free to use this picture for any purpose as long as you credit its author, Ad Meskens. Example: © Ad Meskens / Wikimedia Commons If you use this work outside Wikimedia please say so. / Wikimedia Commons (CC BY-SA 4.0)';
   assert.equal(shortCredit(tricky), 'Photo: Ad Meskens / Wikimedia Commons (CC BY-SA 4.0)');
 });
+
+// 2026-10-06: an uploader with no user page comes through as wiki link markup.
+test('wiki link markup in the artist field leaves only the name', () => {
+  assert.equal(shortArtist('[//commons.wikimedia.org/wiki/User:Trantuonglam Trantuonglam]'), 'Trantuonglam');
+  assert.equal(shortArtist('[//commons.wikimedia.org/wiki/User:Trantuonglam]'), 'Trantuonglam');
+  assert.equal(shortArtist('[[User:Jane Doe|Jane Doe]]'), 'Jane Doe');
+  assert.equal(shortArtist('[[w:en:User:Psubhashish|Subhashish Panigrahi'), 'Subhashish Panigrahi');
+  assert.equal(shortArtist('Kiran Bowers'), 'Kiran Bowers');
+});

@@ -31,6 +31,12 @@ import { commonsBest, tokens, cleanCommonsUrl } from './lib/commons.mjs';
 import { identityRejection } from './lib/photo-verdict.mjs';
 import { isMeasurementFailure } from './lib/audit-verdict.mjs';
 import { isUsedImage, markUsedImage } from './lib/hero-url.mjs';
+import { verifyHeroImage } from './lib/vision-check.mjs';
+
+// A file that names an EVENT is that event's photo, not the city's: "Santander
+// La Mezza di Torino 2017" (a half marathon) went onto the Torino City
+// Marathon on 2026-10-06. The city tier is for views of the place.
+const NAMES_AN_EVENT = /\b(marathon|maratona|maraton|mezza|half|race|run|festival|fest|concert|tour|cup|championship|games|parade|carnival|match|derby|gala|expo|fair)\b/i;
 
 const DIR = 'src/content/posts';
 const DRY = process.argv.includes('--dry');
@@ -89,6 +95,14 @@ for (const t of targets) {
       const name = fileOf(hit.url).toLowerCase();
       if (!regionTokens.some((tk) => name.includes(tk))) continue;
       if (isUsedImage(used, hit.url)) continue;
+      if (NAMES_AN_EVENT.test(name.replace(/[_-]+/g, ' '))) continue;
+      // The filename names the region, which a dog breed ("Speckled tongue of
+      // the Phu Quoc Ridgeback") or a palace fresco does too. Vision answers
+      // the one question the name cannot: is this a view of the place? It
+      // fails closed (no key, an outage: no pick), and a person still reads
+      // the result in audit-event-hero-identity the next morning.
+      const vis = DRY ? { ok: true } : await verifyHeroImage({ url: hit.url, name: `a view of ${region}`, category: 'city, landscape or landmark view', region, country });
+      if (!vis.ok) { console.log(`  · ${t.slug.slice(0, 46)}: ${fileOf(hit.url).slice(0, 40)} — vision: ${String(vis.reason).slice(0, 70)}`); continue; }
       pick = { url: hit.url, credit: hit.credit, source: hit.source };
       break;
     }

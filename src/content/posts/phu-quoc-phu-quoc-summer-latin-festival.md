@@ -13,13 +13,10 @@ eventRecurring: false
 eventVenue: Mercury Resort and Villas
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/6/6b/Speckled_tongue_of_the_Phu_Quoc_Ridgeback.jpg'
-  credit: 'Photo: Frank Fox / Wikimedia Commons (CC BY-SA 4.0)'
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bai-sao-phu-quoc-tuonglamphotos.jpg/3840px-Bai-sao-phu-quoc-tuonglamphotos.jpg'
+  credit: 'Photo: Trantuonglam / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Speckled_tongue_of_the_Phu_Quoc_Ridgeback.jpg'
-  focus:
-    x: 45
-    y: 50
+  source: 'https://commons.wikimedia.org/wiki/File:Bai-sao-phu-quoc-tuonglamphotos.jpg'
 gallery: []
 tags:
   - phu quoc

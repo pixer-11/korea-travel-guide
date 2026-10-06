@@ -27,14 +27,6 @@ faq:
     a: Watch from the arcades near Piazza Castello or along Via Roma, then take Metro Line 1 south toward Lingotto to catch runners on the industrial part of the course. Surface buses are diverted on race day, so the metro is the more reliable option.
 aiGenerated: true
 draft: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/6/6f/Santander_La_Mezza_di_Torino_2017.jpg
-  credit: 'Photo: Prof.lumacorno / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Santander_La_Mezza_di_Torino_2017.jpg
-  focus:
-    x: 50
-    'y': 50
 ---
 
 ## Piazza Castello at the start line

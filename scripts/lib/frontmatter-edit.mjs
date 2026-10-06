@@ -109,7 +109,11 @@ export function editFrontmatter(raw, changes) {
   const applied = new Set();
   let skipUnder = null;
 
-  for (const line of m[1].split('\n')) {
+  // Split on either line ending. Splitting a CRLF file on '\n' kept a '\r' on
+  // every line, and the rebuild below then wrote its own '---\n' around them:
+  // one file, two line endings, and a script that splits on the file's ending
+  // found no front matter at all (fill-event-city-heroes, 2026-10-06).
+  for (const line of m[1].split(/\r?\n/)) {
     const indent = /^(\s*)/.exec(line)[1].length;
 
     if (skipUnder !== null) {
@@ -133,7 +137,9 @@ export function editFrontmatter(raw, changes) {
     out.push(serialise(k, changes[k]));
   }
 
-  const text = `---\n${out.join('\n')}\n---\n${body}`;
+  // The file's own line ending, throughout (see the split above).
+  const eol = /\r\n/.test(m[0]) ? '\r\n' : '\n';
+  const text = `---${eol}${out.join('\n').replace(/\r?\n/g, eol)}${eol}---${eol}${body}`;
 
   // Verify against the ORIGINAL. Checking that the three flags we set came back
   // is not verification — it is the check that passed while the body was being

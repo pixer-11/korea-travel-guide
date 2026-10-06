@@ -17117,6 +17117,12 @@
   "reason": "hand-reviewed 2026-10-05: other-event — Commons: 'Berlin Marathon 2007', category 'Berlin-Marathon 2007'. The image shows runners in Berlin, a different marathon in a different country from the Palermo Marathon.",
   "at": "2026-10-05T08:36:33.108Z"
  },
+ "palermo-palermo-marathon-maratona-internazionale-di-palermo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Affresco_di_Gioacchino_Martorana_Palazzo_Butera_Palermo_quadrato.jpg/3840px-Affresco_di_Gioacchino_Martorana_Palazzo_Butera_Palermo_quadrato.jpg": {
+  "slug": "palermo-palermo-marathon-maratona-internazionale-di-palermo",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed 2026-10-06: not this event or city — a painted ceiling fresco in Palazzo Butera, not a view of Palermo",
+  "at": "2026-10-06T08:26:40.925Z"
+ },
  "palermo-quattro-canti\u0001https://fastly.4sqi.net/img/general/original/7271324_ps_AdjJlCbAX6gfir0da8IX14ynpK5Q1wggHQlijVvU.jpg": {
   "slug": "palermo-quattro-canti",
   "verdict": "MATCH",
@@ -18150,6 +18156,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: width: 960px < 1024",
   "at": "2026-09-24T22:46:55.799Z"
+ },
+ "phu-quoc-phu-quoc-summer-latin-festival\u0001https://upload.wikimedia.org/wikipedia/commons/6/6b/Speckled_tongue_of_the_Phu_Quoc_Ridgeback.jpg": {
+  "slug": "phu-quoc-phu-quoc-summer-latin-festival",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed 2026-10-06: not this event or city — a close-up of a Phu Quoc Ridgeback dog, not a view of Phu Quoc",
+  "at": "2026-10-06T08:26:40.921Z"
  },
  "phu-quoc-phu-quoc-summer-latin-festival\u0001https://upload.wikimedia.org/wikipedia/commons/6/6e/Latin_dictionary.jpg": {
   "slug": "phu-quoc-phu-quoc-summer-latin-festival",
@@ -24285,9 +24297,9 @@
  },
  "turin-torino-city-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/6/6f/Santander_La_Mezza_di_Torino_2017.jpg": {
   "slug": "turin-torino-city-marathon",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Turin Marathon street scene with Santander branding",
-  "at": "2026-10-05T21:44:40.431Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed 2026-10-06: not this event or city — the Santander La Mezza di Torino half marathon, a different race",
+  "at": "2026-10-06T08:26:40.926Z"
  },
  "turin-torino-city-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/7/72/CITTAMETROPOLITANA_TORINO_%281%29.png": {
   "slug": "turin-torino-city-marathon",

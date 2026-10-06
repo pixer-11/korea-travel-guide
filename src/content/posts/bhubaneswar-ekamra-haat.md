@@ -16,7 +16,7 @@ heroImage:
     y: 40
 gallery:
   - url: "https://upload.wikimedia.org/wikipedia/commons/0/0c/Ekamra_haat_Bhubaneswar_Odisha2.jpg"
-    credit: "Photo: [[w:en:UserSubhashish Panigrahi:Psubhashish|Subhashish / Wikimedia Commons (CC BY 3.0)"
+    credit: "Photo: Subhashish Panigrahi / Wikimedia Commons (CC BY 3.0)"
     license: "wikimedia"
     source: "https://commons.wikimedia.org/wiki/File:Ekamra_haat_Bhubaneswar_Odisha2.jpg"
 place:

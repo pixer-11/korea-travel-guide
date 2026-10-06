@@ -30,7 +30,17 @@ const FILE_CREDIT = /File:[^:]+:\s*([^\n]{2,40}?)(?=\s+File:|$)/gi;
 
 /** The person behind a long Commons `Artist` blob. Pure. */
 export function shortArtist(artist) {
-  const s = String(artist ?? '').replace(/\s+/g, ' ').trim();
+  // Wiki link markup survives the HTML strip when an uploader's page does not
+  // exist: "[//commons.wikimedia.org/wiki/User:Trantuonglam Trantuonglam]" was
+  // cut to "[//commons.wikimedia.org/wiki/User:Trantuonglam" and printed as the
+  // photographer (Phu Quoc, 2026-10-06). Keep the link text, or the user name.
+  const s = String(artist ?? '')
+    .replace(/\[(?:https?:)?\/\/\S+\s+([^\]]+)\]/g, '$1')
+    .replace(/\[(?:https?:)?\/\/\S*?User:([^\s\]/]+)\]/g, '$1')
+    .replace(/\[\[(?:[^\]|]*\|)?([^\]]+)\]\]/g, '$1')
+    // …and a piped wiki link cut before its closing brackets.
+    .replace(/\[\[[^\]|]*\|/g, '')
+    .replace(/\s+/g, ' ').trim();
   if (!s) return '';
   if (s.length <= MAX) return s;
 

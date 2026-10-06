@@ -102,3 +102,14 @@ test('splitFrontmatter ends at the first line that IS ---, not a --- inside a va
   assert.match(crlf.fm, /busyness/);
   assert.deepEqual(splitFrontmatter('no frontmatter here'), { fm: '', body: 'no frontmatter here' });
 });
+
+// 2026-10-06: a CRLF file came back with '---\n' around CRLF lines — two line
+// endings in one file — and fill-event-city-heroes then found no front matter.
+test('the file keeps its own line ending, CRLF or LF, all the way through', async () => {
+  const { editFrontmatter, DELETE } = await import('./frontmatter-edit.mjs');
+  const crlf = '---\r\ntitle: T\r\nheroImage:\r\n  url: x\r\ngallery: []\r\ndescription: >-\r\n  long line\r\n---\r\nBody one.\r\n\r\nTwo.\r\n';
+  const out = editFrontmatter(crlf, { heroImage: DELETE, draft: true });
+  assert.ok(!/[^\r]\n/.test(out), JSON.stringify(out.slice(0, 80)));
+  const lf = editFrontmatter(crlf.replace(/\r\n/g, '\n'), { draft: true });
+  assert.ok(!lf.includes('\r'));
+});
