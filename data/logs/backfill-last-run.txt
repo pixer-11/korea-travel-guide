@@ -1,21 +1,21 @@
-Places 예산: backfill 몫 25회 (오늘 사용 16/100)
-Priority: 218 itinerary stop(s) queued first
-  – istanbul-sultanahmet-square.md: nothing new (resting 60d)
-  – brighton-roti-king-brighton.md: nothing new (resting 60d)
-  – jakarta-jakarta-old-town.md: nothing new (resting 60d)
-  – mexico-city-coyoacan-market.md: nothing new (resting 60d)
-  – monterrey-paseo-santa-lucia.md: nothing new (resting 60d)
-  – tulum-gran-cenote.md: nothing new (resting 60d)
+Places 예산: backfill 몫 25회 (오늘 사용 33/100)
+Priority: 229 itinerary stop(s) queued first
+  – guanajuato-mercado-hidalgo.md: nothing new (resting 60d)
+  – koh-chang-salak-khok-fishing-village.md: nothing new (resting 60d)
+  – koh-tao-mae-haad-pier.md: nothing new (resting 60d)
+  – kolkata-bow-barracks.md: nothing new (resting 60d)
+  – krabi-emerald-pool.md: nothing new (resting 60d)
+  – liverpool-the-beatles-statues.md: nothing new (resting 60d)
+  – madrid-puerta-de-alcala.md: nothing new (resting 60d)
+  – malacca-dutch-square-red-square-melaka.md: nothing new (resting 60d)
+  – cancun-yamil-lu-um.md: nothing new (resting 60d)
   – cologne-severinstorburg.md: nothing new (resting 60d)
-  – guanajuato-monumento-al-pipila.md: nothing new (resting 60d)
+  – frankfurt-bethmann-park.md: nothing new (resting 60d)
   – leipzig-clara-zetkin-park.md: nothing new (resting 60d)
-  – little-india-former-house-of-tan-teng-niah.md: nothing new (resting 60d)
-  – munich-english-garden.md: nothing new (resting 60d)
-  – yogyakarta-taman-sari-tourist-village.md: nothing new (resting 60d)
-  ✓ yokohama-yokohama-museum-of-art.md +phone +7h hours
-    ⏰ busyness clamped to the new hours: weekdayQuiet: dropped 18h (venue not open then) — nothing left; weekendQuiet: dropped 18h (venue not open then) — nothing left
-  – york-york-city-walls.md: nothing new (resting 60d)
-  – zhangjiajie-tianmenshan-temple.md: nothing new (resting 60d)
-  – zhangjiajie-zhangjiajie-national-forest-park.md: nothing new (resting 60d)
+  – london-two-temple-place.md: nothing new (resting 60d)
+  – merida-dzibilchaltun.md: nothing new (resting 60d)
+  – merida-parque-de-santa-ana.md: nothing new (resting 60d)
+  – mexico-city-basilica-of-our-lady-of-guadalupe.md: nothing new (resting 60d)
+  – puebla-catedral-de-puebla.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 1, backlog-updated 1, already-complete 1310, no-new-data 598, no-place 661, closed-quarantined 0, quota-429 0, api-error 0, api-calls 16, remaining-askable 0 (APPLIED).
+BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 1330, no-new-data 605, no-place 661, closed-quarantined 0, quota-429 0, api-error 0, api-calls 17, remaining-askable 0 (APPLIED).
