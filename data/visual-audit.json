@@ -1957,6 +1957,12 @@
   "reason": "event-mode back-audit: Concert stage photo of performer, correct event type",
   "at": "2026-08-07T13:02:42.445Z"
  },
+ "bangkok-dusit-central-park-rooftop-bar\u0001https://fastly.4sqi.net/img/general/original/10689845_KrNH3R7CkqqykdHXpDs0ty9s6hST1sYILp5wg6BV95Q.jpg": {
+  "slug": "bangkok-dusit-central-park-rooftop-bar",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Thai temple with funeral wreaths, not a rooftop bar",
+  "at": "2026-10-06T00:55:26.827Z"
+ },
  "bangkok-dusit-central-park-rooftop-bar\u0001https://fastly.4sqi.net/img/general/original/25932610_JBdINV32LgavadURIfXzFnu5Cn7bWpd-BI-u1OYRX9c.jpg": {
   "slug": "bangkok-dusit-central-park-rooftop-bar",
   "verdict": "MISMATCH",
@@ -5627,6 +5633,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Interior wall with Moorish-style carvings, plausible synagogue detail",
   "at": "2026-09-29T07:40:06.642Z"
+ },
+ "cordoba-mercado-victoria\u0001https://fastly.4sqi.net/img/general/original/59395_0hHOiVGML0gVmx8rTaSpzpX-w8MrZLut-ObJcUWFOEY.jpg": {
+  "slug": "cordoba-mercado-victoria",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Interior decor of market with hanging rose decorations",
+  "at": "2026-10-06T01:01:36.204Z"
  },
  "cordoba-mercado-victoria\u0001https://upload.wikimedia.org/wikipedia/commons/7/71/Mercado_Victoria_La_Gamba_de_ORO_Stand_de_pescado_y_marisco.jpg": {
   "slug": "cordoba-mercado-victoria",
@@ -13130,9 +13142,9 @@
  },
  "london-kid\u0001https://fastly.4sqi.net/img/general/original/137091017_yVo5olZ-BL-GrpV678Hslo-5r4ZufLQtFhAiUT2eYsg.jpg": {
   "slug": "london-kid",
-  "verdict": "WEAK",
-  "reason": "patrol replace: Fine dining dish, plausible London venue but generic",
-  "at": "2026-10-05T21:36:20.622Z"
+  "verdict": "MATCH",
+  "reason": "patrol re-check: Plated dishes on table, plausible restaurant venue photo",
+  "at": "2026-10-06T00:56:49.189Z"
  },
  "london-legado\u0001https://fastly.4sqi.net/img/general/original/7413000_TnyrXNoS0aJWh9nyW0Udm76Bco32z50BoKwt50p0tQU.jpg": {
   "slug": "london-legado",
@@ -13581,6 +13593,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Portrait of speaker, unrelated to comics/games event",
   "at": "2026-10-05T21:37:29.543Z"
+ },
+ "lucca-lucca-comics-and-games\u0001https://upload.wikimedia.org/wikipedia/commons/b/b1/Glen_Hansard%27s_guitar_-_Lucca_Comics_%26_Games_2015.JPG": {
+  "slug": "lucca-lucca-comics-and-games",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Guitar musician unrelated to comics/games convention event",
+  "at": "2026-10-06T00:57:38.879Z"
  },
  "lucca-lucca-comics-and-games\u0001https://upload.wikimedia.org/wikipedia/commons/c/c2/Christopher_Paolini_-_Lucca_Comics_and_Games_2012.JPG": {
   "slug": "lucca-lucca-comics-and-games",
@@ -14873,8 +14891,8 @@
  "milan-procaccini\u0001https://live.staticflickr.com/95/217582569_52ea43359f_k.jpg": {
   "slug": "milan-procaccini",
   "verdict": "MISMATCH",
-  "reason": "patrol reject: Shows cemetery monument and broken sculpture, not restaurant",
-  "at": "2026-10-05T21:38:15.901Z"
+  "reason": "patrol reject: Shows a monument and cracked sphere, not restaurant",
+  "at": "2026-10-06T00:58:17.552Z"
  },
  "milan-procaccini\u0001https://upload.wikimedia.org/wikipedia/commons/4/4c/9431_-_Milano_-_S._Angelo_-_Camillo_Procaccini%2C_Sposalizio_della_Vergine_-_Foto_Giovanni_Dall%27Orto_22-Apr-2007.jpg": {
   "slug": "milan-procaccini",

@@ -1,59 +1,58 @@
 ---
-title: "Mercado Victoria: Cordoba Travel Guide (4.3★)"
-description: "Mercado Victoria is a gastro market on Paseo de la Victoria in Córdoba's Centro, on the edge of the Jardines de la Victoria and a short walk from the Judería. 4.3★ (25,126 reviews) — what visitors say, hours, and tips."
-country: "Spain"
-region: "Cordoba"
-category: "hidden-gem"
-pubDate: "2026-09-24T07:53:25.366Z"
+title: 'Mercado Victoria: Cordoba Travel Guide (4.3★)'
+description: Mercado Victoria is a gastro market on Paseo de la Victoria in Córdoba's Centro, on the edge of the Jardines de la Victoria and a short walk from the Judería. 4.3★ (25,126 reviews) — what visitors say, hours, and tips.
+country: Spain
+region: Cordoba
+category: hidden-gem
+pubDate: '2026-09-24T07:53:25.366Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/7/71/Mercado_Victoria_La_Gamba_de_ORO_Stand_de_pescado_y_marisco.jpg"
-  credit: "Photo: Lagambadeoro / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Mercado_Victoria_La_Gamba_de_ORO_Stand_de_pescado_y_marisco.jpg"
-  via: "act"
+  url: https://fastly.4sqi.net/img/general/original/59395_0hHOiVGML0gVmx8rTaSpzpX-w8MrZLut-ObJcUWFOEY.jpg
+  credit: 'Photo: Foursquare user content (Mercado Victoria)'
+  license: foursquare
+  source: https://foursquare.com/v/516b2060e4b0ea0f603ed1d3
   focus:
-    x: 60
-    y: 50
+    x: 55
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Fachada_del_Mercado_Victoria.jpg/3840px-Fachada_del_Mercado_Victoria.jpg"
-    credit: "Photo: Mercado Victoria / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Fachada_del_Mercado_Victoria.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Fachada_del_Mercado_Victoria.jpg/3840px-Fachada_del_Mercado_Victoria.jpg
+    credit: 'Photo: Mercado Victoria / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Fachada_del_Mercado_Victoria.jpg
 place:
-  id: "ChIJxZ05g2HfbA0RFVZGKxqQxR8"
-  name: "Mercado Victoria"
-  address: "P.º de la Victoria, s/nº, Centro, 14004 Córdoba, Spain"
+  id: ChIJxZ05g2HfbA0RFVZGKxqQxR8
+  name: Mercado Victoria
+  address: P.º de la Victoria, s/nº, Centro, 14004 Córdoba, Spain
   rating: 4.3
   userRatingsTotal: 25126
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=2289394427657344533&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=2289394427657344533&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 37.8838259
   lng: -4.7852631
-  phone: "+34 957 29 07 07"
+  phone: +34 957 29 07 07
   openingHours:
-    - "Monday: 9:00 AM – 2:00 AM"
-    - "Tuesday: 9:00 AM – 1:00 AM"
-    - "Wednesday: 9:00 AM – 1:00 AM"
-    - "Thursday: 9:00 AM – 1:00 AM"
-    - "Friday: 9:00 AM – 2:00 AM"
-    - "Saturday: 9:00 AM – 2:00 AM"
-    - "Sunday: 9:00 AM – 1:00 AM"
+    - 'Monday: 9:00 AM – 2:00 AM'
+    - 'Tuesday: 9:00 AM – 1:00 AM'
+    - 'Wednesday: 9:00 AM – 1:00 AM'
+    - 'Thursday: 9:00 AM – 1:00 AM'
+    - 'Friday: 9:00 AM – 2:00 AM'
+    - 'Saturday: 9:00 AM – 2:00 AM'
+    - 'Sunday: 9:00 AM – 1:00 AM'
 tags:
-  - "cordoba"
-  - "local market"
-quickAnswer: "Mercado Victoria is a gastro market on Paseo de la Victoria in Córdoba's Centro, on the edge of the Jardines de la Victoria and a short walk from the Judería. Its stands sell Andalusian tapas, deli plates and sherry-style wines, and it's open every day from 9am until 1am (2am on Mondays, Fridays and Saturdays). It's very popular, so plan around Spanish meal times if you want a table."
+  - cordoba
+  - local market
+quickAnswer: Mercado Victoria is a gastro market on Paseo de la Victoria in Córdoba's Centro, on the edge of the Jardines de la Victoria and a short walk from the Judería. Its stands sell Andalusian tapas, deli plates and sherry-style wines, and it's open every day from 9am until 1am (2am on Mondays, Fridays and Saturdays). It's very popular, so plan around Spanish meal times if you want a table.
 faq:
-  - q: "Where exactly is Mercado Victoria in Córdoba?"
-    a: "It's on Paseo de la Victoria in the Centro district (postcode 14004), next to the Jardines de la Victoria on the western edge of the historic centre. The Puerta de Almodóvar and the Judería are a short walk south."
-  - q: "What are the opening hours?"
-    a: "It opens at 9am every day. It closes at 1am Tuesday to Thursday and on Sunday, and at 2am on Monday, Friday and Saturday."
-  - q: "How does ordering work?"
-    a: "Each stand is separate. You order and pay at every counter you use, then carry your food to the shared tables in the middle. Seating is first come, first served."
-  - q: "How long should I spend there?"
-    a: "An hour is enough for a few tapas and a drink. Allow longer at dinner on weekends, when finding a seat can take time."
-  - q: "How far is it from the Mezquita and the train station?"
-    a: "The Mezquita-Catedral is about 15 minutes' walk through the Judería. Córdoba's main railway and bus stations are roughly 15 minutes' walk north."
+  - q: Where exactly is Mercado Victoria in Córdoba?
+    a: It's on Paseo de la Victoria in the Centro district (postcode 14004), next to the Jardines de la Victoria on the western edge of the historic centre. The Puerta de Almodóvar and the Judería are a short walk south.
+  - q: What are the opening hours?
+    a: It opens at 9am every day. It closes at 1am Tuesday to Thursday and on Sunday, and at 2am on Monday, Friday and Saturday.
+  - q: How does ordering work?
+    a: Each stand is separate. You order and pay at every counter you use, then carry your food to the shared tables in the middle. Seating is first come, first served.
+  - q: How long should I spend there?
+    a: An hour is enough for a few tapas and a drink. Allow longer at dinner on weekends, when finding a seat can take time.
+  - q: How far is it from the Mezquita and the train station?
+    a: The Mezquita-Catedral is about 15 minutes' walk through the Judería. Córdoba's main railway and bus stations are roughly 15 minutes' walk north.
 aiGenerated: true
 draft: false
 ---
