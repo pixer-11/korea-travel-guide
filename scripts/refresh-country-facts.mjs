@@ -21,6 +21,7 @@ import { execFileSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import matter from 'gray-matter';
+import { climateIssues } from './check-climate-plausible.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
@@ -41,6 +42,12 @@ const median = (a) => { const s = [...a].sort((x, y) => x - y); return s[Math.fl
 // this site covers most — the one with the most published guides — at a real
 // venue's coordinates, and record its name so the page can say which city the
 // figures describe.
+//
+// It returns a ranked list of candidates per country, not one point (2026-10-07).
+// Macau's top region read a MERRA-2 cell that is mostly sea — August 30/29C, a
+// 1.5C day-night range — and nothing tried anywhere else. main() now walks this
+// list until a point passes check-climate-plausible, and each candidate carries
+// its own region name, so the label is always the place the figures came from.
 async function coordsByCountry() {
   const dir = join(ROOT, 'src', 'content', 'posts');
   const map = {};
@@ -55,19 +62,49 @@ async function coordsByCountry() {
       if (typeof place?.lat !== 'number' || typeof place?.lng !== 'number') continue;
       const region = data.region || country;
       (map[country] ??= new Map());
-      const cur = map[country].get(region) ?? { n: 0, lat: place.lat, lng: place.lng };
+      const cur = map[country].get(region) ?? { n: 0, pts: [] };
       cur.n += 1;
+      cur.pts.push({ lat: place.lat, lng: place.lng });
       map[country].set(region, cur);
     } catch {}
   }
   return Object.fromEntries(
     Object.entries(map)
-      .map(([country, regions]) => {
-        const [city, pt] = [...regions.entries()]
-          .sort((a, b) => b[1].n - a[1].n || a[0].localeCompare(b[0]))[0];
-        return [country, { lat: pt.lat, lng: pt.lng, city }];
-      })
+      .map(([country, regions]) => [country, [...regions.entries()]
+        .sort((a, b) => b[1].n - a[1].n || a[0].localeCompare(b[0]))
+        // Every venue, not just the region's first: its first may sit in a sea
+        // cell while another venue of the same city is on land. The region's
+        // first venue still leads, so a country that passes today keeps its point.
+        .flatMap(([city, r]) => r.pts.map((pt) => ({ ...pt, city })))])
   );
+}
+
+// POWER's meteorology grid is MERRA-2, 0.5° lat x 0.625° lng: two venues in the
+// same cell return identical figures (all 20 Macau venues did, to the decimal),
+// so asking twice only spends a request. Approximate on purpose — a misjudged
+// boundary costs one duplicate call, never a skipped cell that mattered.
+const cellOf = (pt) => `${Math.round(pt.lat / 0.5)}:${Math.round(pt.lng / 0.625)}`;
+const MAX_CELLS = 4;
+
+// Walk the candidates (most-covered region first) and keep the first point whose
+// figures pass the same plausibility check CI runs. When none does, return no
+// climate rather than the least-bad one: the pages hide the slot, which is
+// honest, where a sea cell's 29C August night or a neighbour city's figures
+// under this country's name are not.
+export async function pickClimate(country, candidates, fetchClimate = climate) {
+  const tried = [];
+  const seen = new Set();
+  for (const pt of candidates) {
+    const cell = cellOf(pt);
+    if (seen.has(cell)) continue;
+    if (seen.size >= MAX_CELLS) break;
+    seen.add(cell);
+    const months = await fetchClimate(pt.lat, pt.lng);
+    const issues = climateIssues(country, months, Math.abs(pt.lat));
+    if (!issues.length) return { pt, months, tried };
+    tried.push({ city: pt.city, lat: pt.lat, lng: pt.lng, issues });
+  }
+  return { pt: null, months: null, tried };
 }
 
 
@@ -155,20 +192,60 @@ function holidays(iso2) {
 
 async function main() {
   const { countries } = JSON.parse(await readFile(join(ROOT, 'data', 'countries.json'), 'utf8'));
+  // --only=Macau[,Taiwan] refreshes those countries and copies every other entry
+  // through untouched: re-checking one country must not rewrite twenty-four others.
+  const onlyArg = process.argv.find((a) => a.startsWith('--only='))?.slice(7);
+  const only = onlyArg ? new Set(onlyArg.split(',').map((x) => x.trim()).filter(Boolean)) : null;
+  for (const n of only ?? []) {
+    if (!countries.some((c) => c.active && c.name === n)) throw new Error(`--only: no active country named ${n}`);
+  }
   // Keep what is already known. A rate-limited run used to write an empty file
   // over good data: 17 countries lost their climate in one pass because the API
   // answered 429. A refresh that cannot fetch should change nothing.
   let prev = { countries: {} };
   try { prev = JSON.parse(await readFile(OUT, 'utf8')); } catch {}
   const coords = await coordsByCountry();
-  const out = { updated: new Date().toISOString().slice(0, 10), countries: {} };
+  // A one-country run leaves the file's date alone: the other entries are as
+  // old as they were.
+  const out = {
+    updated: only && prev.updated ? prev.updated : new Date().toISOString().slice(0, 10),
+    // A partial run starts from the whole previous map, inactive countries included.
+    countries: only ? { ...(prev.countries ?? {}) } : {},
+  };
 
   for (const c of countries.filter((c) => c.active)) {
+    if (only && !only.has(c.name)) continue;
     const entry = {};
-    const pt = coords[c.name];
-    if (pt) {
-      try {
-        entry.climate = await climate(pt.lat, pt.lng);
+    const candidates = coords[c.name];
+    if (candidates?.length) {
+      let picked = null;
+      try { picked = await pickClimate(c.name, candidates); }
+      catch (e) {
+        console.log(`  ⚠️  ${c.name} climate: ${e.message} — keeping the previous figures`);
+        const old = prev.countries?.[c.name];
+        // Kept only if they would pass today: a fetch failure must not
+        // resurrect figures the checker now rejects (Macau's sea cell).
+        // The coordinates travel with them, or the checker loses its latitude.
+        const oldLat = typeof old?.climateLat === 'number' ? Math.abs(old.climateLat) : null;
+        if (old?.climate?.length && !climateIssues(c.name, old.climate, oldLat).length) {
+          for (const k of ['climate', 'climateCity', 'climateLat', 'climateLng', 'climateYears']) entry[k] = old[k];
+        } else if (old?.climateRejected) {
+          entry.climateRejected = old.climateRejected;
+        }
+      }
+      if (picked && !picked.pt) {
+        // Written down, not just logged: publish.yml refills any country with
+        // no climate on every run, and without this marker it would re-ask
+        // POWER for Macau's sea cell daily. The monthly refresh retries it.
+        entry.climateRejected = {
+          checked: new Date().toISOString().slice(0, 10),
+          tried: picked.tried.map((t) => ({ city: t.city, lat: t.lat, lng: t.lng, issue: t.issues[0] })),
+        };
+        console.log(`  ⚠️  ${c.name} climate: no venue point gave plausible figures — publishing none (the pages hide the slot)`);
+        for (const t of picked.tried) console.log(`       ${t.city}: ${t.issues[0]}`);
+      } else if (picked) {
+        const pt = picked.pt;
+        entry.climate = picked.months;
         // Named on the page: "averages for Hanoi" is a claim a reader can check,
         // "for Vietnam" is not — and one city is all these figures ever were.
         entry.climateCity = pt.city ?? null;
@@ -181,11 +258,6 @@ async function main() {
         entry.climateLat = pt.lat;
         entry.climateLng = pt.lng;
         entry.climateYears = CLIMATE_YEARS;
-      }
-      catch (e) {
-        console.log(`  ⚠️  ${c.name} climate: ${e.message} — keeping the previous figures`);
-        const old = prev.countries?.[c.name];
-        if (old?.climate?.length) { entry.climate = old.climate; entry.climateCity = old.climateCity; entry.climateYears = old.climateYears; }
       }
     } else {
       console.log(`  ·  ${c.name}: no post coordinates yet — climate skipped`);
@@ -203,4 +275,7 @@ async function main() {
   console.log(`\n📦 wrote data/country-facts.json`);
 }
 
-main().catch((e) => { console.error(e); process.exit(1); });
+// Run only as a script: the test imports pickClimate without touching the network.
+if (process.argv[1] && process.argv[1].endsWith('refresh-country-facts.mjs')) {
+  main().catch((e) => { console.error(e); process.exit(1); });
+}

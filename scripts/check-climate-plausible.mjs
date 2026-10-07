@@ -29,6 +29,21 @@ export function seasonalSwingBounds(absLat) {
   return { min: 8, max: 45 };                    // 온대·냉대: 계절이 반드시 있다
 }
 
+// 하루 일교차(그 달 평균 최고 − 평균 최저)의 12개월 평균 하한.
+// 2026-10-07 마카오: 8월 30/29도, 1월 19/17도 — 연중 일교차 1.5도로 공개됐다.
+// 마카오 글 20편의 좌표가 전부 NASA POWER(MERRA-2, 0.5°×0.625°)의 같은 격자
+// 하나로 떨어지는데, 그 격자는 대부분 바다다(격자 고도 6.2m). 물은 낮과 밤의
+// 온도가 거의 같으니 일교차가 사라진다. 하노이(2026-09-09)와 같은 부류인데 그때
+// 만든 검사는 계절폭만 봤고, 마카오는 계절은 있어서(19→30도) 통과했다.
+// 같은 파일의 실측: 필리핀(일로일로) 3.25, 싱가포르 4.17, 홍콩 5.25 — 육지 격자는
+// 적도 섬나라도 3도를 넘는다. 3도 미만은 "바다를 읽었다"로 본다.
+export const MIN_DIURNAL = 3;
+
+export function meanDiurnal(climate) {
+  if (!Array.isArray(climate) || !climate.length) return null;
+  return climate.reduce((s, m) => s + (m.hi - m.lo), 0) / climate.length;
+}
+
 export function climateIssues(country, climate, absLat) {
   const out = [];
   if (!Array.isArray(climate) || climate.length !== 12) {
@@ -40,6 +55,11 @@ export function climateIssues(country, climate, absLat) {
     if (!(m.hi > m.lo)) out.push(`${country} ${m.m}월: 최고(${m.hi})가 최저(${m.lo}) 이하`);
     if (m.hi > 55 || m.lo < -45) out.push(`${country} ${m.m}월: 기온이 지구 범위 밖 (${m.lo}~${m.hi})`);
     if (m.rain < 0 || m.rain > 2000) out.push(`${country} ${m.m}월: 강수 ${m.rain}mm`);
+  }
+  // 위도와 무관한 검사라 좌표를 몰라도 돈다.
+  const diurnal = meanDiurnal(climate);
+  if (diurnal != null && diurnal < MIN_DIURNAL) {
+    out.push(`${country}: 하루 일교차가 연평균 ${diurnal.toFixed(1)}도뿐 — 낮과 밤이 같다. 바다 격자를 읽었을 가능성 (마카오 사례 2026-10-07)`);
   }
   if (absLat != null) {
     const swing = Math.max(...his) - Math.min(...his);
@@ -98,5 +118,5 @@ if (isCli) {
     console.log(`\nCLIMATE-IMPLAUSIBLE: ${issues.length}건 — 해당 나라의 기준 좌표(climateCity)를 확인할 것.`);
     process.exit(1);
   }
-  console.log('  ✓ 계절폭·범위 모두 위도와 앞뒤가 맞는다.');
+  console.log('  ✓ 계절폭·일교차·범위 모두 위도와 앞뒤가 맞는다.');
 }

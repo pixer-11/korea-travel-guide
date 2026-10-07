@@ -3,7 +3,7 @@
 // 진짜 사건을 잡는지 알 수 없다.
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { climateIssues, seasonalSwingBounds } from './check-climate-plausible.mjs';
+import { climateIssues, seasonalSwingBounds, meanDiurnal, MIN_DIURNAL } from './check-climate-plausible.mjs';
 
 const mk = (his, los, rain = 100) => his.map((hi, i) => ({ m: i + 1, hi, lo: los[i], rain }));
 
@@ -63,4 +63,37 @@ test('적도대의 기대 연교차는 좁고, 고위도는 넓다', () => {
   assert.ok(seasonalSwingBounds(5).max < seasonalSwingBounds(45).max);
   assert.equal(seasonalSwingBounds(5).min, 0);
   assert.ok(seasonalSwingBounds(45).min >= 8);
+});
+
+// 2026-10-07: 마카오가 바다 격자를 읽었다. 계절은 있어서(19→30도) 위 계절 검사를
+// 통과했고, 낮과 밤이 같다는 것은 아무도 안 봤다. 아래 값은 그날 라이브였던 실측이다.
+const MACAU_SEA = mk([19, 19, 21, 24, 27, 29, 30, 30, 30, 28, 24, 20],
+                     [17, 17, 20, 23, 26, 28, 29, 29, 28, 26, 22, 18]);
+// 같은 파일의 이웃·적도 나라 — 육지 격자는 일교차가 3도를 넘는다(역방향).
+const HONG_KONG = mk([20, 21, 24, 27, 29, 30, 31, 30, 30, 28, 25, 21],
+                     [13, 14, 18, 21, 24, 27, 27, 27, 26, 23, 19, 14]);
+const SINGAPORE = mk([29, 29, 30, 31, 31, 30, 30, 30, 30, 30, 29, 29],
+                     [25, 24, 25, 26, 27, 26, 26, 26, 26, 26, 26, 25]);
+const ILOILO = mk([29, 29, 31, 32, 32, 30, 29, 29, 29, 29, 29, 29],
+                  [25, 25, 25, 27, 28, 27, 27, 27, 27, 27, 27, 26]);
+
+test('마카오 바다 격자 값을 잡는다 — 일교차 1.5도', () => {
+  const hits = climateIssues('Macau', MACAU_SEA, 22.15);
+  assert.ok(hits.some((h) => /바다 격자/.test(h)), JSON.stringify(hits));
+});
+
+test('일교차 검사는 위도를 몰라도 돈다', () => {
+  assert.ok(climateIssues('Macau', MACAU_SEA, null).some((h) => /바다 격자/.test(h)));
+});
+
+test('홍콩·싱가포르·일로일로는 잡지 않는다 (역방향)', () => {
+  assert.deepEqual(climateIssues('Hong Kong', HONG_KONG, 22.28), []);
+  assert.deepEqual(climateIssues('Singapore', SINGAPORE, 1.3), []);
+  assert.deepEqual(climateIssues('Philippines', ILOILO, 10.7), []);
+});
+
+test('일교차 평균은 12개월 hi−lo 의 평균이다', () => {
+  assert.equal(meanDiurnal(MACAU_SEA), 1.5);
+  assert.ok(meanDiurnal(SINGAPORE) > MIN_DIURNAL);
+  assert.equal(meanDiurnal([]), null);
 });

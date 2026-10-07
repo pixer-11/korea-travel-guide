@@ -459,7 +459,9 @@ jobs:
             const ess = fs.existsSync('src/content/essentials')
               ? fs.readdirSync('src/content/essentials').map((f) => f.replace('.md', ''))
               : [];
-            const noClimate = cs.filter((c) => !((cf[c.name] || {}).climate || []).length);
+            // climateRejected = checked and every venue point read implausible
+            // figures (Macau, a sea cell): not missing, the monthly refresh retries.
+            const noClimate = cs.filter((c) => !((cf[c.name] || {}).climate || []).length && !(cf[c.name] || {}).climateRejected);
             const noEssentials = cs.filter((c) => !ess.includes(c.slug));
             console.log(JSON.stringify({
               climate: noClimate.map((c) => c.name),
@@ -471,7 +473,10 @@ jobs:
             echo "기후·공휴일: 빠진 나라 없음 — 건너뜁니다."
           else
             python3 -m pip install --quiet -r scripts/requirements-holidays.txt
-            node scripts/refresh-country-facts.mjs
+            # Only the missing ones: a full pass here re-asked every country
+            # daily for as long as one of them stayed without climate.
+            ONLY=$(echo "$MISSING" | node -e "process.stdout.write(JSON.parse(require('fs').readFileSync(0,'utf8')).climate.join(','))")
+            node scripts/refresh-country-facts.mjs "--only=$ONLY"
           fi
           if echo "$MISSING" | grep -q '"essentials":\[\]'; then
             echo "나라 실용정보: 빠진 나라 없음 — 건너뜁니다."
