@@ -15847,13 +15847,6 @@
   "worst": "이는 전 세계 % 아라비카 매장에서 공통된 방식입니다.",
   "at": "2026-09-28T07:58:54.562Z"
  },
- "ko/beijing-china-open-tennis": {
-  "hash": "0b92005b9550",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "차이나 오픈 단골 관람객들은 대회 초반 며칠 동안 외곽 코트야말로 진짜 볼거리라고 입을 모읍니다.",
-  "at": "2026-09-07T13:34:12.649Z"
- },
  "ko/beijing-forbidden-city": {
   "hash": "25c7a25472cd",
   "score": 1,
@@ -31953,5 +31946,89 @@
   "registerBreak": false,
   "worst": "熊猫馆依着路环石排湾郊野公园的绿色山坡而建。",
   "at": "2026-10-06T14:55:23.856Z"
+ },
+ "es/coloane-camoes-garden": {
+  "hash": "6a0d760713e0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Su busto de bronce, que es lo que la mayoría de los visitantes viene a ver, se alza en una",
+  "at": "2026-10-07T07:49:54.526Z"
+ },
+ "es/coloane-kun-iam-temple-coloane": {
+  "hash": "08f29d76c819",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "el día 19 del 9.º mes lunar, en conmemoración de su renuncia",
+  "at": "2026-10-07T07:49:55.591Z"
+ },
+ "es/coloane-poly-mgm-museum": {
+  "hash": "db87e26999a6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Sábados y domingos: 10am–7pm",
+  "at": "2026-10-07T07:50:02.888Z"
+ },
+ "ja/coloane-camoes-garden": {
+  "hash": "2bf0b8b04af7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "鳥の近くでは声を落としましょう。飼い主は鳥同士がさえずりを聞き合えるようにかごをつるしています。",
+  "at": "2026-10-07T07:50:04.184Z"
+ },
+ "ja/coloane-kun-iam-temple-coloane": {
+  "hash": "343df4fb6b18",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-07T07:50:05.191Z"
+ },
+ "ja/coloane-poly-mgm-museum": {
+  "hash": "fa82948a0566",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "運営母体は名前のとおりで、北京の保利芸術博物館を手がける国有企業・中国保利集団とMGMが共同で運営しています。",
+  "at": "2026-10-07T07:50:06.473Z"
+ },
+ "ko/coloane-camoes-garden": {
+  "hash": "6c5c5fbd1056",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "공원 주변에는 아담하고 조용한 문화유산이 모여 있으며, 공원은 그 한가운데에 있습니다.",
+  "at": "2026-10-07T07:50:07.890Z"
+ },
+ "ko/coloane-kun-iam-temple-coloane": {
+  "hash": "fdef85c23a77",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "쿤얌은 자비를 상징하는 보살인 관음을 광둥어로 부르는 이름입니다.",
+  "at": "2026-10-07T07:50:15.133Z"
+ },
+ "ko/coloane-poly-mgm-museum": {
+  "hash": "4292f089c417",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "운영 주체는 이름에서도 드러납니다. 베이징 폴리 예술박물관을 운영하는 국유 기업 중국 폴리 그룹이 MGM과",
+  "at": "2026-10-07T07:50:23.531Z"
+ },
+ "zh/coloane-camoes-garden": {
+  "hash": "e699cd79296d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "要是坐巴士跑去路环村找它，只会白跑一趟，到了另一座岛上也找不到公园。",
+  "at": "2026-10-07T07:50:24.856Z"
+ },
+ "zh/coloane-kun-iam-temple-coloane": {
+  "hash": "b92af976729e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "除了观音，村民还供奉海上女神天后，以及渔民的守护神谭公。三座庙相距不远，步行就能走遍。",
+  "at": "2026-10-07T07:50:26.145Z"
+ },
+ "zh/coloane-poly-mgm-museum": {
+  "hash": "ef5ed53213f4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "博物馆还是和半岛行程搭配更合适，它正好处在历史城区和海滨之间。",
+  "at": "2026-10-07T07:50:27.305Z"
  }
 }

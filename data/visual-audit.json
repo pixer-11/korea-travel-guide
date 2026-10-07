@@ -5621,11 +5621,29 @@
   "reason": "publish gate: Chinese temple-style roofline matches A-Ma Cultural Village architecture",
   "at": "2026-10-06T14:30:14.468Z"
  },
+ "coloane-camoes-garden\u0001https://upload.wikimedia.org/wikipedia/commons/d/d8/Entrance_of_Camoes_Garden.jpg": {
+  "slug": "coloane-camoes-garden",
+  "verdict": "MATCH",
+  "reason": "publish gate: Garden entrance gate, representative view of Camoes Garden",
+  "at": "2026-10-07T07:45:36.998Z"
+ },
+ "coloane-kun-iam-temple-coloane\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Templo_antigo_de_Kun_Iam_em_Coloane_15-10-2024%282%29.jpg/3840px-Templo_antigo_de_Kun_Iam_em_Coloane_15-10-2024%282%29.jpg": {
+  "slug": "coloane-kun-iam-temple-coloane",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows temple entrance and incense burner, representative of venue",
+  "at": "2026-10-07T07:43:07.509Z"
+ },
  "coloane-macao-giant-panda-pavilion\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Macao_Giant_Panda_Pavilion%2CSeac_Pai_Van_Park_26-02-2023.jpg/3840px-Macao_Giant_Panda_Pavilion%2CSeac_Pai_Van_Park_26-02-2023.jpg": {
   "slug": "coloane-macao-giant-panda-pavilion",
   "verdict": "MATCH",
   "reason": "publish gate: Pavilion exterior with panda statues, representative hero image",
   "at": "2026-10-06T14:36:06.946Z"
+ },
+ "coloane-poly-mgm-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Poly_MGM_Museum%2C_December_24%2C_2024_133.jpg/3840px-Poly_MGM_Museum%2C_December_24%2C_2024_133.jpg": {
+  "slug": "coloane-poly-mgm-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Grand interior atrium representative of Poly MGM Museum building",
+  "at": "2026-10-07T07:39:01.022Z"
  },
  "coloane-village-hac-sa-reservoir-barbecue-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hac_S%C3%A1_Reservoir_Natural_Park_barbecue_sites_23-02-2023.jpg/3840px-Hac_S%C3%A1_Reservoir_Natural_Park_barbecue_sites_23-02-2023.jpg": {
   "slug": "coloane-village-hac-sa-reservoir-barbecue-park",
@@ -7923,6 +7941,24 @@
   "verdict": "MATCH",
   "reason": "publish gate: Park with playground, landscaping, matches Hac Sa Park",
   "at": "2026-10-06T14:30:58.436Z"
+ },
+ "hac-sa-lou-lim-ioc-garden\u0001https://upload.wikimedia.org/wikipedia/commons/6/66/Lou_lim_ioc.JPG": {
+  "slug": "hac-sa-lou-lim-ioc-garden",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows garden entrance gate with name plaque clearly visible",
+  "at": "2026-10-07T07:44:48.714Z"
+ },
+ "hac-sa-macao-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Macau_Museum.jpg/1920px-Macau_Museum.jpg": {
+  "slug": "hac-sa-macao-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior building with visible 'Museu de Macau' signage",
+  "at": "2026-10-07T07:38:03.637Z"
+ },
+ "hac-sa-na-tcha-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Templo_Na_Tcha%2C_Macao%2C_2013-08-08%2C_DD_01.jpg/1920px-Templo_Na_Tcha%2C_Macao%2C_2013-08-08%2C_DD_01.jpg": {
+  "slug": "hac-sa-na-tcha-temple",
+  "verdict": "MATCH",
+  "reason": "publish gate: Chinese temple exterior, plausible representative hero shot",
+  "at": "2026-10-07T07:42:05.505Z"
  },
  "hamburg-hamburger-kunsthalle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Hamburger_Kunsthalle.jpg/1920px-Hamburger_Kunsthalle.jpg": {
   "slug": "hamburg-hamburger-kunsthalle",
@@ -15748,6 +15784,12 @@
   "reason": "patrol replace: Sun Moon Lake landscape with boats and mountains",
   "at": "2026-08-22T15:24:18.687Z"
  },
+ "nape-flora-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Flora_Garden_03.jpg/1920px-Flora_Garden_03.jpg": {
+  "slug": "nape-flora-garden",
+  "verdict": "MATCH",
+  "reason": "publish gate: Garden with flowers and structure, representative of Flora Garden",
+  "at": "2026-10-07T07:46:28.021Z"
+ },
  "nape-macau-fisherman-s-wharf\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Macau_Fisherman%27s_Wharf_06-05-2023.jpg/3840px-Macau_Fisherman%27s_Wharf_06-05-2023.jpg": {
   "slug": "nape-macau-fisherman-s-wharf",
   "verdict": "MATCH",
@@ -16814,6 +16856,12 @@
   "reason": "Iconic beach with dramatic cliffs, Nusa Penida",
   "reasonKo": "누사페니다의 상징적인 해변",
   "at": "2026-08-13T14:04:33.347Z"
+ },
+ "oaxaca-el-llano\u0001https://upload.wikimedia.org/wikipedia/commons/9/95/El_llano%2C_oaxaca%2C_oaxaca_-_panoramio.jpg": {
+  "slug": "oaxaca-el-llano",
+  "verdict": "MATCH",
+  "reason": "publish gate: Plaza fountain with trees, representative of El Llano park",
+  "at": "2026-10-07T07:40:01.667Z"
  },
  "oaxaca-hierve-el-agua\u0001https://upload.wikimedia.org/wikipedia/commons/4/43/HierveElAguaMexico1.jpg": {
   "slug": "oaxaca-hierve-el-agua",
@@ -22812,11 +22860,29 @@
   "reason": "patrol reject: Hotel bedroom, not a restaurant venue",
   "at": "2026-09-14T22:41:23.921Z"
  },
+ "taipa-taipa-food-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Taipa_Ferry_Terminal_food_court_restaurants_13-10-2024%281%29.jpg/3840px-Taipa_Ferry_Terminal_food_court_restaurants_13-10-2024%281%29.jpg": {
+  "slug": "taipa-taipa-food-street",
+  "verdict": "MATCH",
+  "reason": "publish gate: Food court interior with Chinese signage, plausible food street",
+  "at": "2026-10-07T07:52:10.262Z"
+ },
  "taipa-vila-da-taipa\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Vila_da_Taipa_13-02-2023%281%29.jpg/3840px-Vila_da_Taipa_13-02-2023%281%29.jpg": {
   "slug": "taipa-vila-da-taipa",
   "verdict": "MATCH",
   "reason": "publish gate: Shows colonnade facade of Vila da Taipa clearly",
   "at": "2026-10-06T14:28:00.007Z"
+ },
+ "taipa-village-casa-de-nostalgia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/20260222_Casa_de_Nostalgia.jpg/3840px-20260222_Casa_de_Nostalgia.jpg": {
+  "slug": "taipa-village-casa-de-nostalgia",
+  "verdict": "MATCH",
+  "reason": "publish gate: Representative exterior of colonial building matching Taipa Village venue",
+  "at": "2026-10-07T07:41:14.974Z"
+ },
+ "taipa-village-pak-tai-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Pak_Tai_Temple_in_Taipa_18-10-2023.jpg/3840px-Pak_Tai_Temple_in_Taipa_18-10-2023.jpg": {
+  "slug": "taipa-village-pak-tai-temple",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows temple exterior facade, representative hero shot",
+  "at": "2026-10-07T07:43:53.727Z"
  },
  "taipa-village-rua-do-cunha\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Rua_do_Cunha_30-10-2023%281%29.jpg/3840px-Rua_do_Cunha_30-10-2023%281%29.jpg": {
   "slug": "taipa-village-rua-do-cunha",
