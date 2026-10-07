@@ -49,7 +49,7 @@ faq:
       Line 3 have plenty of restaurants and cafés. Ilsan Lake Park is close by
       if you want a walk before the show.
 aiGenerated: true
-draft: false
+draft: true
 heldFinal: >-
   duplicate of goyang-charlie-puth-seoul-2026 with a wrong date: Charlie Puth
   plays Goyang Stadium on Oct 11, 2026 (Songkick, Bandsintown); this copy said
