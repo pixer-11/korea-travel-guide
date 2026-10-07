@@ -57,6 +57,24 @@ test('a human-needed cause says so instead', () => {
   assert.match(alertText('X', 'u', log), /사람이 확인해야 하는 종류/);
 });
 
+test('a GitHub 500 on push is an outage, not a merge conflict (2026-10-08)', () => {
+  const log = [
+    '2026-10-07T15:08:56.6235543Z remote: Internal Server Error        ',
+    "2026-10-07T15:08:56.6240339Z  ! [remote rejected]   HEAD -> main (Internal Server Error)",
+    "2026-10-07T15:08:56.6241085Z error: failed to push some refs to 'https://github.com/pixer-11/korea-travel-guide'",
+    '2026-10-07T15:10:32.5735458Z ##[error]could not push to main after 5 attempts',
+  ].join('\n');
+  const d = diagnose(log);
+  assert.equal(d.id, 'github-outage');
+  assert.equal(d.selfHeals, true);
+  assert.doesNotMatch(alertText('X', 'u', log), /겹쳐/);
+});
+
+test('a real rejected push without a 5xx is still a conflict', () => {
+  const log = "2026-01-01T00:00:00Z  ! [rejected]        main -> main (non-fast-forward)\nerror: failed to push some refs to 'x'";
+  assert.equal(diagnose(log).id, 'git-conflict');
+});
+
 test('an unknown failure keeps the old wording but adds the evidence line', () => {
   const log = '2026-01-01T00:00:00Z something nobody has a signature for\n##[error]Process completed with exit code 7.';
   const d = diagnose(log);

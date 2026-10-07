@@ -69,6 +69,16 @@ const SIGNATURES = [
     selfHeals: false,
   },
   {
+    // 2026-10-08: GitHub 자체 장애(Git Operations incident)로 push 가 5번 다
+    // "remote rejected (Internal Server Error)" 를 받았는데, 아래 충돌 규칙의
+    // "failed to push some refs" 에 걸려 "같은 파일이 겹쳤다"고 오진했다.
+    // 충돌보다 먼저 봐야 한다 — 같은 로그에 둘 다 찍힌다.
+    id: 'github-outage',
+    re: /remote rejected\][^\n]*\((?:Internal Server Error|Service Unavailable|Bad Gateway)\)|remote: Internal Server Error|The requested URL returned error: 5\d\d/,
+    cause: () => 'GitHub 서버 장애로 저장(푸시)이 거부됐습니다. 우리 쪽 문제가 아니며, GitHub이 복구되면 다음 실행에서 풀립니다.',
+    selfHeals: true,
+  },
+  {
     id: 'git-conflict',
     re: /CONFLICT \(content\)|Automatic merge failed|non-fast-forward|failed to push some refs/,
     cause: () => '다른 작업과 같은 파일이 겹쳐 저장(푸시)에 실패했습니다. 대개 다음 실행에서 풀립니다.',
