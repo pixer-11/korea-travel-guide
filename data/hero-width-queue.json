@@ -2328,7 +2328,8 @@
   "seoul-diana-krall-concert\u0001https://upload.wikimedia.org/wikipedia/commons/3/34/Diana_Krall_at_Apollo_40th_anniversary_841721.jpg": 2736,
   "taipa-taipa-food-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Taipa_Ferry_Terminal_food_court_restaurants_13-10-2024%281%29.jpg/3840px-Taipa_Ferry_Terminal_food_court_restaurants_13-10-2024%281%29.jpg": 3840,
   "taipa-village-casa-de-nostalgia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/20260222_Casa_de_Nostalgia.jpg/3840px-20260222_Casa_de_Nostalgia.jpg": 3840,
-  "taipa-village-pak-tai-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Pak_Tai_Temple_in_Taipa_18-10-2023.jpg/3840px-Pak_Tai_Temple_in_Taipa_18-10-2023.jpg": 3840
+  "taipa-village-pak-tai-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Pak_Tai_Temple_in_Taipa_18-10-2023.jpg/3840px-Pak_Tai_Temple_in_Taipa_18-10-2023.jpg": 3840,
+  "nonthaburi-f-forever-1st-world-tour-in-bangkok\u0001https://upload.wikimedia.org/wikipedia/commons/d/db/Oasis_Live_Forever_Concert_In_Taipei.jpg": 3008
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -2424,8 +2425,8 @@
   },
   "bali-oryn": {
    "width": 1080,
-   "attempts": 7,
-   "nextTry": "2026-10-07",
+   "attempts": 8,
+   "nextTry": "2026-10-14",
    "flaggedAt": "2026-08-19",
    "lastResult": "no-wider"
   },
@@ -2494,8 +2495,8 @@
   },
   "nagoya-asian-games-2026": {
    "width": 960,
-   "attempts": 5,
-   "nextTry": "2026-10-07",
+   "attempts": 6,
+   "nextTry": "2026-10-14",
    "flaggedAt": "2026-09-02",
    "lastResult": "no-wider"
   },
@@ -2606,22 +2607,22 @@
   },
   "hong-kong-fello": {
    "width": 1080,
-   "attempts": 2,
-   "nextTry": "2026-10-07",
+   "attempts": 3,
+   "nextTry": "2026-10-14",
    "flaggedAt": "2026-09-18",
    "lastResult": "no-wider"
   },
   "hiroshima-hiroshima-botanical-garden": {
    "width": 800,
-   "attempts": 2,
-   "nextTry": "2026-10-07",
+   "attempts": 3,
+   "nextTry": "2026-10-14",
    "flaggedAt": "2026-09-19",
    "lastResult": "no-wider"
   },
   "hiroshima-nagataya": {
    "width": 1024,
-   "attempts": 2,
-   "nextTry": "2026-10-07",
+   "attempts": 3,
+   "nextTry": "2026-10-14",
    "flaggedAt": "2026-09-19",
    "lastResult": "no-wider"
   },
@@ -2914,5 +2915,5 @@
    "flaggedAt": "2026-10-05"
   }
  },
- "updated": "2026-10-07T07:56:55.197Z"
+ "updated": "2026-10-07T23:51:36.176Z"
 }

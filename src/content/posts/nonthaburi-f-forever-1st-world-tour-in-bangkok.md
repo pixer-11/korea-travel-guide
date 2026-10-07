@@ -8,15 +8,15 @@ pubDate: '2026-07-29'
 eventStartDate: '2026-08-01'
 eventEndDate: '2026-08-02'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jacob_Forever_2019--06-09.jpg/1920px-Jacob_Forever_2019--06-09.jpg
-  credit: 'Photo: Escla / Wikimedia Commons (CC BY-SA 4.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/d/db/Oasis_Live_Forever_Concert_In_Taipei.jpg
+  credit: 'Photo: 黃 zero / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Jacob_Forever_2019--06-09.jpg
+  source: https://commons.wikimedia.org/wiki/File:Oasis_Live_Forever_Concert_In_Taipei.jpg
   focus:
-    x: 31
-    'y': 22
-    top: 14
-    bottom: 30
+    x: 38
+    'y': 11
+    top: 2
+    bottom: 20
 tags:
   - nonthaburi
   - event
@@ -34,7 +34,6 @@ faq:
     a: Tickets were sold through the tour's official ticketing partner and IMPACT Arena's own channels. For a high-demand reunion run across two nights, unofficial resale listings carry a real risk of inflated prices or invalid tickets.
 aiGenerated: true
 eventRecurring: false
-draft: true
 ---
 ## Why this stop matters
 

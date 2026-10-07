@@ -13,6 +13,14 @@ eventEndDate: '2026-10-11'
 eventRecurring: true
 eventVenue: INSPIRE Arena
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/d/dc/South_Korea%2C_Incheon%2C_Songdo_%2804%29%2C_apartment_blocks_and_school.jpg'
+  credit: 'Photo: Vincent van Zeijst / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:South_Korea,_Incheon,_Songdo_(04),_apartment_blocks_and_school.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - incheon
@@ -51,7 +59,7 @@ faq:
       for alcohol are common. Check the official site for entry and
       prohibited-item rules.
 aiGenerated: true
-draft: true
+draft: false
 heldFinal: >-
   duplicate of incheon-edc-korea-electric-daisy-carnival with a wrong date: EDC
   Korea 2026 was Oct 3-4 at Inspire (DJ Mag, EDMTunes, Klook); this copy said

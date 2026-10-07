@@ -7393,6 +7393,12 @@
   "reason": "patrol replace: Concert performance, plausible Charlie Puth event",
   "at": "2026-10-05T21:33:21.091Z"
  },
+ "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Charlie_Puth_al_Poble_Espanyol_%2857304%29.jpg/3840px-Charlie_Puth_al_Poble_Espanyol_%2857304%29.jpg": {
+  "slug": "goyang-charlie-puth-concert",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Concert stage performance, plausible Charlie Puth event",
+  "at": "2026-10-07T23:43:22.224Z"
+ },
  "goyang-charlie-puth-seoul-2026\u0001https://upload.wikimedia.org/wikipedia/commons/8/86/Charlie_Puth_2017_%28cropped%29.jpg": {
   "slug": "goyang-charlie-puth-seoul-2026",
   "verdict": "MISMATCH",
@@ -13226,8 +13232,8 @@
  "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alvaro_Bautista-motogp-2015.JPG/3840px-Alvaro_Bautista-motogp-2015.JPG": {
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
   "verdict": "MATCH",
-  "reason": "patrol replace: MotoGP rider and bike at circuit paddock",
-  "at": "2026-10-06T23:14:36.236Z"
+  "reason": "patrol replace: MotoGP rider and motorcycle at circuit pit garage",
+  "at": "2026-10-07T23:45:23.200Z"
  },
  "lombok-mount-rinjani-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lembah_Torean_Rinjani.jpg/1920px-Lembah_Torean_Rinjani.jpg": {
   "slug": "lombok-mount-rinjani-national-park",
@@ -15083,8 +15089,8 @@
  "milan-procaccini\u0001https://live.staticflickr.com/95/217582569_52ea43359f_k.jpg": {
   "slug": "milan-procaccini",
   "verdict": "MISMATCH",
-  "reason": "patrol reject: Shows cemetery monument/sculpture, not a restaurant",
-  "at": "2026-10-06T23:15:37.864Z"
+  "reason": "patrol reject: Shows cemetery monument and broken sphere, not restaurant",
+  "at": "2026-10-07T23:46:50.663Z"
  },
  "milan-procaccini\u0001https://upload.wikimedia.org/wikipedia/commons/4/4c/9431_-_Milano_-_S._Angelo_-_Camillo_Procaccini%2C_Sposalizio_della_Vergine_-_Foto_Giovanni_Dall%27Orto_22-Apr-2007.jpg": {
   "slug": "milan-procaccini",
@@ -16787,6 +16793,12 @@
   "reason": "patrol reject: Generic drummer, not the specific tour's performers",
   "at": "2026-08-22T19:55:23.405Z"
  },
+ "nonthaburi-f-forever-1st-world-tour-in-bangkok\u0001https://upload.wikimedia.org/wikipedia/commons/d/db/Oasis_Live_Forever_Concert_In_Taipei.jpg": {
+  "slug": "nonthaburi-f-forever-1st-world-tour-in-bangkok",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Live concert performance, guitarist on stage",
+  "at": "2026-10-07T23:48:40.677Z"
+ },
  "nonthaburi-f-forever-1st-world-tour-in-bangkok\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jacob_Forever_2019--06-09.jpg/1920px-Jacob_Forever_2019--06-09.jpg": {
   "slug": "nonthaburi-f-forever-1st-world-tour-in-bangkok",
   "verdict": "MISMATCH",
@@ -17716,8 +17728,8 @@
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/2/27/5_Seconds_of_Summer_2014.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
   "verdict": "MATCH",
-  "reason": "patrol replace: Band at event backdrop with sponsor logos",
-  "at": "2026-10-06T23:16:24.414Z"
+  "reason": "patrol replace: Band members at event backdrop with sponsor logos",
+  "at": "2026-10-07T23:49:41.598Z"
  },
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/5_Seconds_of_Summer_First_USA_Acoustic_IMG_3665_%2814665446017%29.jpg/3840px-5_Seconds_of_Summer_First_USA_Acoustic_IMG_3665_%2814665446017%29.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
@@ -20002,6 +20014,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Traditional Asian pavilion architecture, not Seminyak trendy venue",
   "at": "2026-10-01T23:37:20.197Z"
+ },
+ "seminyak-32do-bali\u0001https://fastly.4sqi.net/img/general/original/314926_81VI52YSHckUinWyAZwSwAPnADb6XAO5QvreDyNVBSk.jpg": {
+  "slug": "seminyak-32do-bali",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Close-up plated dish, not representative venue view",
+  "at": "2026-10-07T23:50:03.815Z"
  },
  "seminyak-32do-bali\u0001https://fastly.4sqi.net/img/general/original/314926_H2TcfIkYmCJOKqxghu0xyx0h1Z2B-CJEL7OU0a22qqs.jpg": {
   "slug": "seminyak-32do-bali",
@@ -24680,6 +24698,12 @@
   "reason": "Iconic dome fountain at Saheliyon ki Bari, Udaipur",
   "reasonKo": "우다이푸르 사헬리욘 키 바리의 상징적 분수",
   "at": "2026-08-03T14:41:09.973Z"
+ },
+ "uluwatu-my-dear-clara\u0001https://fastly.4sqi.net/img/general/original/504861612_kdoOE7FPCKxwqO79rzse7qgZFvDutud3ueOA2_e3vh4.jpg": {
+  "slug": "uluwatu-my-dear-clara",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Logo decal on wall, not venue photo",
+  "at": "2026-10-07T23:50:55.403Z"
  },
  "urgench-ulli-hovli\u0001https://upload.wikimedia.org/wikipedia/commons/7/7d/Ulli_hovli_majmuasi_21.jpg": {
   "slug": "urgench-ulli-hovli",
