@@ -1,56 +1,83 @@
 ---
-title: "Xcaret Park: Cancun Travel Guide (4.8★)"
-description: "Xcaret Park is on the coast just south of Playa del Carmen, about an hour's drive down Highway 307 from Cancun. 4.8★ (118,448 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Cancun"
-category: "attraction"
-pubDate: "2026-10-06T07:44:33.749Z"
+title: 'Xcaret Park: Cancun Travel Guide (4.8★)'
+description: >-
+  Xcaret Park is on the coast just south of Playa del Carmen, about an hour's
+  drive down Highway 307 from Cancun. 4.8★ (118,448 reviews) — what visitors
+  say, hours, and tips.
+country: Mexico
+region: Cancun
+category: attraction
+pubDate: '2026-10-06T07:44:33.749Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/2/27/The_Beach_at_Xcaret_Park.jpg"
-  credit: "Photo: FeldBum / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:The_Beach_at_Xcaret_Park.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/27/The_Beach_at_Xcaret_Park.jpg
+  credit: 'Photo: FeldBum / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:The_Beach_at_Xcaret_Park.jpg'
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery: []
 place:
-  id: "ChIJU3DYrW1ETo8RpQkYkh7oQoA"
-  name: "Xcaret Park"
-  address: "Carretera Chetumal, Puerto Juarez km 282-Int B, Colonia Rancho Xcaret, Juárez, 77580 Playa del Carmen, Q.R., Mexico"
+  id: ChIJU3DYrW1ETo8RpQkYkh7oQoA
+  name: Xcaret Park
+  address: >-
+    Carretera Chetumal, Puerto Juarez km 282-Int B, Colonia Rancho Xcaret,
+    Juárez, 77580 Playa del Carmen, Q.R., Mexico
   rating: 4.8
-  userRatingsTotal: 118448
-  googleMapsUrl: "https://maps.google.com/?cid=9242204603315390885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 118472
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9242204603315390885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 20.5809134
   lng: -87.119698
-  phone: "+52 998 883 3143"
+  phone: +52 998 883 3143
   openingHours:
-    - "Monday: 8:30 AM – 10:00 PM"
-    - "Tuesday: 8:30 AM – 10:00 PM"
-    - "Wednesday: 8:30 AM – 10:00 PM"
-    - "Thursday: 8:30 AM – 10:00 PM"
-    - "Friday: 8:30 AM – 10:00 PM"
-    - "Saturday: 8:30 AM – 10:00 PM"
-    - "Sunday: 8:30 AM – 10:00 PM"
+    - 'Monday: 8:30 AM – 10:00 PM'
+    - 'Tuesday: 8:30 AM – 10:00 PM'
+    - 'Wednesday: 8:30 AM – 10:00 PM'
+    - 'Thursday: 8:30 AM – 10:00 PM'
+    - 'Friday: 8:30 AM – 10:00 PM'
+    - 'Saturday: 8:30 AM – 10:00 PM'
+    - 'Sunday: 8:30 AM – 10:00 PM'
 tags:
-  - "cancun"
-  - "park"
-quickAnswer: "Xcaret Park is on the coast just south of Playa del Carmen, about an hour's drive down Highway 307 from Cancun. It's open daily from 8:30 AM to 10:00 PM, and you'll want the whole day: arrive at opening, swim the underground rivers in the morning, and stay for the evening show. Book online before you go, and bring only biodegradable sunscreen."
+  - cancun
+  - park
+quickAnswer: >-
+  Xcaret Park is on the coast just south of Playa del Carmen, about an hour's
+  drive down Highway 307 from Cancun. It's open daily from 8:30 AM to 10:00 PM,
+  and you'll want the whole day: arrive at opening, swim the underground rivers
+  in the morning, and stay for the evening show. Book online before you go, and
+  bring only biodegradable sunscreen.
 faq:
-  - q: "How far is Xcaret Park from Cancun?"
-    a: "It's near Playa del Carmen, roughly 75 km south of Cancun's hotel zone on Highway 307. By car or shuttle it's about an hour without traffic. You can also take an ADO bus to Playa del Carmen and a short taxi from there."
-  - q: "What are Xcaret's opening hours?"
-    a: "Xcaret Park is open every day from 8:30 AM to 10:00 PM. There's no weekly closing day."
-  - q: "How long should I spend at Xcaret?"
-    a: "Give it the whole day. Most visitors arrive at opening and stay through the evening show, *Xcaret México Espectacular*, which is the park's last big event of the day."
-  - q: "Can I bring my own sunscreen?"
-    a: "Only biodegradable sunscreen. Regular sunscreen isn't allowed in the rivers or the snorkelling inlet, because it harms the reef and freshwater ecosystems."
-  - q: "How do I avoid the crowds at Xcaret?"
-    a: "It's a very popular park, so plan to share it. Getting there at the 8:30 AM opening and doing the underground rivers first is the best way to stay ahead of the tour coaches that arrive later in the morning."
+  - q: How far is Xcaret Park from Cancun?
+    a: >-
+      It's near Playa del Carmen, roughly 75 km south of Cancun's hotel zone on
+      Highway 307. By car or shuttle it's about an hour without traffic. You can
+      also take an ADO bus to Playa del Carmen and a short taxi from there.
+  - q: What are Xcaret's opening hours?
+    a: >-
+      Xcaret Park is open every day from 8:30 AM to 10:00 PM. There's no weekly
+      closing day.
+  - q: How long should I spend at Xcaret?
+    a: >-
+      Give it the whole day. Most visitors arrive at opening and stay through
+      the evening show, *Xcaret México Espectacular*, which is the park's last
+      big event of the day.
+  - q: Can I bring my own sunscreen?
+    a: >-
+      Only biodegradable sunscreen. Regular sunscreen isn't allowed in the
+      rivers or the snorkelling inlet, because it harms the reef and freshwater
+      ecosystems.
+  - q: How do I avoid the crowds at Xcaret?
+    a: >-
+      It's a very popular park, so plan to share it. Getting there at the 8:30
+      AM opening and doing the underground rivers first is the best way to stay
+      ahead of the tour coaches that arrive later in the morning.
 aiGenerated: true
 draft: true
 heldReason: wrong-region
+updatedDate: '2026-10-07'
 ---
 
 ## Water That Runs Through Rock

@@ -1,59 +1,82 @@
 ---
-title: "Mercado Hidalgo: Guanajuato Travel Guide (4.5★)"
-description: "Mercado Hidalgo is Guanajuato's cast-iron market hall from the 1910s, on Avenida Juárez at the western edge of the historic centre. 4.5★ (8,162 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Guanajuato"
-category: "hidden-gem"
-pubDate: "2026-10-06T08:02:05.687Z"
+title: 'Mercado Hidalgo: Guanajuato Travel Guide (4.5★)'
+description: >-
+  Mercado Hidalgo is Guanajuato's cast-iron market hall from the 1910s, on
+  Avenida Juárez at the western edge of the historic centre. 4.5★ (8,165
+  reviews) — what visitors say, hours, and tips.
+country: Mexico
+region: Guanajuato
+category: hidden-gem
+pubDate: '2026-10-06T08:02:05.687Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Mercado_Hidalgo_en_Guanajuato.jpg/3840px-Mercado_Hidalgo_en_Guanajuato.jpg"
-  credit: "Photo: Chencho Nopales / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Mercado_Hidalgo_en_Guanajuato.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Mercado_Hidalgo_en_Guanajuato.jpg/3840px-Mercado_Hidalgo_en_Guanajuato.jpg
+  credit: 'Photo: Chencho Nopales / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Mercado_Hidalgo_en_Guanajuato.jpg'
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Mercado_Hidalgo%2C_Guanajuato_Capital_63.jpg/3840px-Mercado_Hidalgo%2C_Guanajuato_Capital_63.jpg"
-    credit: "Photo: Juan Carlos Fonseca Mata / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Mercado_Hidalgo,_Guanajuato_Capital_63.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Mercado_Hidalgo%2C_Guanajuato_Capital_63.jpg/3840px-Mercado_Hidalgo%2C_Guanajuato_Capital_63.jpg
+    credit: 'Photo: Juan Carlos Fonseca Mata / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Mercado_Hidalgo,_Guanajuato_Capital_63.jpg
 place:
-  id: "ChIJjQ2UmiZ1K4QR5PxTzOrPqvU"
-  name: "Mercado Hidalgo"
-  address: "Av. Benito Juárez Mercado, Hidalgo, 36000 Guanajuato, Gto., Mexico"
+  id: ChIJjQ2UmiZ1K4QR5PxTzOrPqvU
+  name: Mercado Hidalgo
+  address: 'Av. Benito Juárez Mercado, Hidalgo, 36000 Guanajuato, Gto., Mexico'
   rating: 4.5
-  userRatingsTotal: 8162
-  googleMapsUrl: "https://maps.google.com/?cid=17702189892690509028&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 8165
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17702189892690509028&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 21.017469
   lng: -101.25813079999999
   openingHours:
-    - "Monday: 8:00 AM – 8:00 PM"
-    - "Tuesday: 8:00 AM – 8:00 PM"
-    - "Wednesday: 8:00 AM – 8:00 PM"
-    - "Thursday: 8:00 AM – 8:00 PM"
-    - "Friday: 8:00 AM – 8:00 PM"
-    - "Saturday: 8:00 AM – 8:00 PM"
-    - "Sunday: 8:00 AM – 8:00 PM"
+    - 'Monday: 8:00 AM – 8:00 PM'
+    - 'Tuesday: 8:00 AM – 8:00 PM'
+    - 'Wednesday: 8:00 AM – 8:00 PM'
+    - 'Thursday: 8:00 AM – 8:00 PM'
+    - 'Friday: 8:00 AM – 8:00 PM'
+    - 'Saturday: 8:00 AM – 8:00 PM'
+    - 'Sunday: 8:00 AM – 8:00 PM'
 tags:
-  - "guanajuato"
-  - "local market"
-quickAnswer: "Mercado Hidalgo is Guanajuato's cast-iron market hall from the 1910s, on Avenida Juárez at the western edge of the historic centre. It is open daily from 8am to 8pm. Eat at the ground-floor fondas, then climb to the upper gallery for straw hats, baskets and crafts."
+  - guanajuato
+  - local market
+quickAnswer: >-
+  Mercado Hidalgo is Guanajuato's cast-iron market hall from the 1910s, on
+  Avenida Juárez at the western edge of the historic centre. It is open daily
+  from 8am to 8pm. Eat at the ground-floor fondas, then climb to the upper
+  gallery for straw hats, baskets and crafts.
 faq:
-  - q: "What are Mercado Hidalgo's opening hours?"
-    a: "It is open every day from 8am to 8pm, including Saturday and Sunday."
-  - q: "How do I get to Mercado Hidalgo from Jardín de la Unión?"
-    a: "Walk west along Avenida Juárez for about 15 minutes, past Teatro Juárez and Plaza de la Paz. The market's clock tower faces the avenue, almost opposite Templo de Belén."
-  - q: "What should I eat at Mercado Hidalgo?"
-    a: "Try enchiladas mineras, Guanajuato's signature dish, at one of the ground-floor fondas. Also try a guacamaya sandwich with chicharrón. For sweets, look for charamuscas and cajeta."
-  - q: "How long should I spend there?"
-    a: "About an hour covers a meal and a walk through both floors. Allow longer if you want to shop the craft stalls in the upstairs gallery."
-  - q: "What is near Mercado Hidalgo?"
-    a: "Templo de Belén is across the street. The Alhóndiga de Granaditas, the site of an 1810 independence battle and now a museum, is a short uphill walk north."
+  - q: What are Mercado Hidalgo's opening hours?
+    a: 'It is open every day from 8am to 8pm, including Saturday and Sunday.'
+  - q: How do I get to Mercado Hidalgo from Jardín de la Unión?
+    a: >-
+      Walk west along Avenida Juárez for about 15 minutes, past Teatro Juárez
+      and Plaza de la Paz. The market's clock tower faces the avenue, almost
+      opposite Templo de Belén.
+  - q: What should I eat at Mercado Hidalgo?
+    a: >-
+      Try enchiladas mineras, Guanajuato's signature dish, at one of the
+      ground-floor fondas. Also try a guacamaya sandwich with chicharrón. For
+      sweets, look for charamuscas and cajeta.
+  - q: How long should I spend there?
+    a: >-
+      About an hour covers a meal and a walk through both floors. Allow longer
+      if you want to shop the craft stalls in the upstairs gallery.
+  - q: What is near Mercado Hidalgo?
+    a: >-
+      Templo de Belén is across the street. The Alhóndiga de Granaditas, the
+      site of an 1810 independence battle and now a museum, is a short uphill
+      walk north.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-07'
 ---
 
 ## Iron, glass and a clock tower

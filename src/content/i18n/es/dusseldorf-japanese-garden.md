@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: dusseldorf-japanese-garden
-srcHash: '16ce360c490d'
+srcHash: 'a1e7e632396e'
 title: 'Jardín Japonés de Düsseldorf: guía de viaje (4.4★)'
 description: 'En pleno Nordpark, dentro del distrito norte de Düsseldorf (Stadtbezirk 5), se encuentra el Jardín Japonés, en Kaiserswerther Str. Valoración de 4.4★ con 6,970 reseñas: opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Jardín Japonés (Japanischer Garten) de Düsseldorf ocupa un rincón del Nordpark, en el distrito norte de la ciudad (Stadtbezirk 5). Su dirección es Kaiserswerther Str. 380 y queda a pocos minutos a pie de la parada de metro (U-Bahn) Nordpark/Aquazoo, donde paran las líneas U78 y U79. Permanece abierto a todas horas, y recorrerlo con calma lleva entre 30 y 60 minutos. Conviene evitar los fines de semana entre las 11am y las 7pm, que es cuando más gente hay.

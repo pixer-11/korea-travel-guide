@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: coloane-macao-giant-panda-pavilion
-srcHash: 'cbfe863219f8'
+srcHash: '1c71497a6ead'
 title: 'Pabellón del Panda Gigante de Macao: guía de viaje de Coloane (4.5★)'
-description: 'En Coloane, dentro del Parque de Seac Pai Van (Estrada de Seac Pai Van) y a un corto trayecto en autobús al sur de la franja de casinos de Cotai, se encuentra el Pabellón del Panda Gigante de Macao. Valoración de 4.5★ (2,049 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En Coloane, dentro del Parque de Seac Pai Van (Estrada de Seac Pai Van) y a un corto trayecto en autobús al sur de la franja de casinos de Cotai, se encuentra el Pabellón del Panda Gigante de Macao. Valoración de 4.5★ (2,051 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: El Pabellón del Panda Gigante de Macao (Macao Giant Panda Pavilion) se encuentra en Coloane, dentro del Parque de Seac Pai Van (Estrada de Seac Pai Van). Llegar desde la franja de casinos de Cotai supone un corto trayecto en autobús hacia el sur. Abre de martes a domingo, de 10am a 1pm y de 2pm a 5pm, y cierra los lunes. Lo ideal es llegar a las 10am, cuando los pandas suelen estar comiendo y en movimiento; a última hora de la tarde lo más probable es encontrarlos dormidos.
 faq:
   - q: ¿Cuál es el horario del Pabellón del Panda Gigante de Macao?

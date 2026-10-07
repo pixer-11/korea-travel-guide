@@ -1,9 +1,9 @@
 ---
 lang: ja
 slug: dusseldorf-japanese-garden
-srcHash: '16ce360c490d'
+srcHash: 'a1e7e632396e'
 title: デュッセルドルフ「日本庭園」旅行ガイド（4.4★）
-description: デュッセルドルフ北部の第5区（Stadtbezirk 5）、Kaiserswerther Str.にあるノルトパーク（Nordpark）の中に日本庭園があります。評価は4.4★（6,970件のレビュー）です。訪れた人の声や開園時間、見学のコツをまとめました。
+description: デュッセルドルフ北部の第5区（Stadtbezirk 5）、Kaiserswerther Str.にあるノルトパーク（Nordpark）の中に日本庭園があります。評価は4.4★（6,978件のレビュー）です。訪れた人の声や開園時間、見学のコツをまとめました。
 quickAnswer: デュッセルドルフの日本庭園は、市北部の第5区（Stadtbezirk 5）にあるノルトパーク（Nordpark）の中にあります。住所はKaiserswerther Str. 380です。U78・U79線のノルトパーク／アクアズー駅（Nordpark/Aquazoo）で降り、少し歩けば到着します。24時間開いており、ゆっくり一周するなら30〜60分ほどみておきましょう。いちばん混むのは週末の午前11時から午後7時までなので、この時間帯はなるべく避けてください。
 faq:
   - q: デュッセルドルフの日本庭園へはどう行けばよいですか？

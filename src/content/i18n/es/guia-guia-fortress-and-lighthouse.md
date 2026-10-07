@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: guia-guia-fortress-and-lighthouse
-srcHash: '730a3292a7ff'
+srcHash: '33442491d501'
 title: 'Fortaleza y Faro de Guia: guía de viaje (4.5★)'
-description: En lo alto de la colina de Guia, el punto más elevado de la península de Macao, se alzan la fortaleza y el faro, abiertos todos los días de 10 a. m. a 5 p. m. Con una valoración de 4.5★ (1002 reseñas), reunimos aquí opiniones de visitantes, horarios y consejos.
+description: En lo alto de la colina de Guia, el punto más elevado de la península de Macao, se alzan la fortaleza y el faro, abiertos todos los días de 10 a. m. a 5 p. m. Con una valoración de 4.5★ (1003 reseñas), reunimos aquí opiniones de visitantes, horarios y consejos.
 quickAnswer: En lo alto de la colina de Guia, el punto más elevado de la península de Macao, se encuentran la fortaleza y el faro, que abren todos los días de 10 a. m. a 5 p. m. Para subir puede tomar el breve Teleférico de Guia desde el Jardín de Flora o recorrer a pie la carretera de la colina. Una vez arriba, calcule alrededor de una hora para ver los frescos de la capilla, el faro de 1865 y las vistas del puerto.
 faq:
   - q: ¿Qué horario tienen la Fortaleza y el Faro de Guia?

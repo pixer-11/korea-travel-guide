@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: guadalajara-guadalajara-s-cathedral
-srcHash: '326b21515ad6'
+srcHash: 'c15cef01d3d2'
 title: 'Catedral de Guadalajara: guía de viaje (4.8★)'
-description: 'En plena Av. Alcalde, dentro de la Zona Centro que forma el casco histórico de Guadalajara, la Catedral abre todos los días de 8am a 8pm. 4.8★ (48,065 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En plena Av. Alcalde, dentro de la Zona Centro que forma el casco histórico de Guadalajara, la Catedral abre todos los días de 8am a 8pm. 4.8★ (48,089 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En plena Av. Alcalde, dentro de la Zona Centro que forma el casco histórico de Guadalajara, la Catedral abre todos los días de 8am a 8pm. Hay más tranquilidad entre semana de 8am a 11am y, los fines de semana, de 8am a 10am. Conviene evitar los sábados y domingos de 12pm a 8pm, que es cuando más gente acude.
 faq:
   - q: ¿A qué hora hay menos gente en la Catedral de Guadalajara?

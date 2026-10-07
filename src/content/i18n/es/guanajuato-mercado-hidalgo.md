@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: guanajuato-mercado-hidalgo
-srcHash: '30069d54c6c3'
+srcHash: '85a0584b058c'
 title: 'Mercado Hidalgo: guía de viaje de Guanajuato (4.5★)'
-description: Levantado en la década de 1910 con estructura de hierro fundido, el Mercado Hidalgo se alza sobre la Avenida Juárez, en el extremo poniente del centro histórico de Guanajuato. Con 4.5★ (8,162 reseñas), aquí encontrará qué opinan los visitantes, sus horarios y consejos prácticos.
+description: Levantado en la década de 1910 con estructura de hierro fundido, el Mercado Hidalgo se alza sobre la Avenida Juárez, en el extremo poniente del centro histórico de Guanajuato. Con 4.5★ (8,165 reseñas), aquí encontrará qué opinan los visitantes, sus horarios y consejos prácticos.
 quickAnswer: En la Avenida Juárez, en el extremo poniente del centro histórico, se encuentra el Mercado Hidalgo, la gran nave de hierro fundido que Guanajuato levantó en la década de 1910. Abre todos los días de 8am a 8pm. Lo ideal es comer primero en las fondas de la planta baja y después subir a la galería superior, donde se venden sombreros de palma, canastas y artesanías.
 faq:
   - q: ¿Cuál es el horario del Mercado Hidalgo?

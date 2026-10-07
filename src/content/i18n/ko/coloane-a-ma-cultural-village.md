@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: coloane-a-ma-cultural-village
-srcHash: 'eccf96fa9f61'
+srcHash: 'a36ac51781c9'
 title: '아마 문화촌: 콜로안 여행 가이드 (4.4★)'
-description: 아마 문화촌은 마카오 남부 콜로안 언덕 정상 부근의 Estrada do Alto de Coloane에 있습니다. 평점 4.4★(리뷰 324개)인 이곳의 방문객 후기와 운영 시간, 여행 팁을 정리했습니다.
+description: 아마 문화촌은 마카오 남부 콜로안 언덕 정상 부근의 Estrada do Alto de Coloane에 있습니다. 평점 4.4★(리뷰 325개)인 이곳의 방문객 후기와 운영 시간, 여행 팁을 정리했습니다.
 quickAnswer: 아마 문화촌은 마카오 남부 콜로안 언덕 정상 가까이, Estrada do Alto de Coloane에 자리하고 있습니다. 바다의 여신 아마를 모신 현대식 사원 단지로, 박물관과 기념품 가게도 함께 있습니다. 운영 시간은 매일 오전 9시부터 오후 6시까지입니다. 평일에는 하루 종일 한적합니다. 주말에는 오전 11시부터 오후 5시까지 가장 붐비므로 그 전인 오전 9시에서 11시 사이에 찾아가시기 바랍니다.
 faq:
   - q: 아마 문화촌을 가장 한적하게 둘러볼 수 있는 시간은 언제인가요?

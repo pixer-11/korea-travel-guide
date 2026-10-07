@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: coloane-a-ma-cultural-village
-srcHash: 'eccf96fa9f61'
+srcHash: 'a36ac51781c9'
 title: 路环妈祖文化村旅行指南（4.4★）
-description: 妈祖文化村位于澳门南部路环叠石塘山近山顶处，地址为高顶马路（Estrada do Alto de Coloane）。评分4.4★（324条评价），游客口碑、开放时间和游览贴士都在这里。
+description: 妈祖文化村位于澳门南部路环叠石塘山近山顶处，地址为高顶马路（Estrada do Alto de Coloane）。评分4.4★（325条评价），游客口碑、开放时间和游览贴士都在这里。
 quickAnswer: 妈祖文化村坐落在澳门南部路环叠石塘山近山顶处，地址为高顶马路（Estrada do Alto de Coloane）。这是一座供奉海神妈祖的新式庙宇建筑群，内设博物馆和纪念品店，每天上午9点至下午6点开放。工作日全天都很清静；周末上午11点到下午5点人最多，建议在上午9点到11点之间前往。
 faq:
   - q: 什么时候去妈祖文化村人最少？

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: dusseldorf-japanese-garden
-srcHash: '16ce360c490d'
+srcHash: 'a1e7e632396e'
 title: 杜塞尔多夫日本庭园旅行指南（4.4★）
-description: 杜塞尔多夫日本庭园坐落在城北第5区（Stadtbezirk 5）的北公园（Nordpark）内，地址为Kaiserswerther Str.。4.4★（6,970条评价）：游客评价、开放时间与游览贴士一览。
+description: 杜塞尔多夫日本庭园坐落在城北第5区（Stadtbezirk 5）的北公园（Nordpark）内，地址为Kaiserswerther Str.。4.4★（6,978条评价）：游客评价、开放时间与游览贴士一览。
 quickAnswer: 杜塞尔多夫日本庭园位于城北第5区（Stadtbezirk 5）的北公园（Nordpark）内，地址是Kaiserswerther Str. 380。乘地铁U78、U79线到Nordpark/Aquazoo站，下车步行片刻即到。庭园全天开放，慢慢绕一圈需要30到60分钟。周末11点到19点是人最多的时段，最好避开。
 faq:
   - q: 怎样前往杜塞尔多夫日本庭园？

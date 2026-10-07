@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: barra-lilau-square
-srcHash: '0ab041ce237a'
+srcHash: '71621409e7d6'
 title: 'Plaza de Lilau: guía de viaje de Barra (4.2★)'
-description: 'En el barrio de Barra, en Macao, la Plaza de Lilau es una pequeña plaza abierta a todas horas que rodea el antiguo manantial de Lilau y forma parte del Centro Histórico de Macao, declarado Patrimonio de la Humanidad por la UNESCO. 4.2★ (176 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En el barrio de Barra, en Macao, la Plaza de Lilau es una pequeña plaza abierta a todas horas que rodea el antiguo manantial de Lilau y forma parte del Centro Histórico de Macao, declarado Patrimonio de la Humanidad por la UNESCO. 4.2★ (177 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En el barrio de Barra, en Macao, la Plaza de Lilau es una pequeña plaza abierta a todas horas. Se formó alrededor del antiguo manantial de Lilau y pertenece al Centro Histórico de Macao, declarado Patrimonio de la Humanidad por la UNESCO. Con 15 a 30 minutos basta para recorrerla. Puede combinar la visita con la Casa del Mandarín, que está al lado, y con el Templo de A-Ma, a un breve paseo cuesta abajo.
 faq:
   - q: ¿Cómo se llega a la Plaza de Lilau?

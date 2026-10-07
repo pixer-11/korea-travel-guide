@@ -1,59 +1,88 @@
 ---
-title: "The Cotai Strip: Travel Guide (4.7★)"
-description: "The Cotai Strip in Cotai, Macau, is the row of giant hotel-casino resorts along Estrada do Istmo, and the best time to see it is after dark when the façades light up. 4.7★ (288 reviews) — what visitors say, hours, and tips."
-country: "Macau"
-region: "Cotai"
-category: "attraction"
-pubDate: "2026-10-06T14:26:29.390Z"
+title: 'The Cotai Strip: Travel Guide (4.7★)'
+description: >-
+  The Cotai Strip in Cotai, Macau, is the row of giant hotel-casino resorts
+  along Estrada do Istmo, and the best time to see it is after dark when the
+  façades light up. 4.7★ (289 reviews) — what visitors say, hours, and tips.
+country: Macau
+region: Cotai
+category: attraction
+pubDate: '2026-10-06T14:26:29.390Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/5/51/Macau_Cotai_Strip_%2812469090953%29.jpg"
-  credit: "Photo: travel oriented from Manila, Philippines / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Macau_Cotai_Strip_(12469090953).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/5/51/Macau_Cotai_Strip_%2812469090953%29.jpg
+  credit: >-
+    Photo: travel oriented from Manila, Philippines / Wikimedia Commons (CC
+    BY-SA 2.0)
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Macau_Cotai_Strip_(12469090953).jpg'
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/0/03/Cotai_Strip_2014.jpg"
-    credit: "Photo: Seader / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Cotai_Strip_2014.jpg"
+  - url: 'https://upload.wikimedia.org/wikipedia/commons/0/03/Cotai_Strip_2014.jpg'
+    credit: 'Photo: Seader / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Cotai_Strip_2014.jpg'
 place:
-  id: "ChIJq6qqqhtwATQRA73C3iPs-tM"
-  name: "The Cotai Strip"
-  address: "Estr. do Istmo, Macao"
+  id: ChIJq6qqqhtwATQRA73C3iPs-tM
+  name: The Cotai Strip
+  address: 'Estr. do Istmo, Macao'
   rating: 4.7
-  userRatingsTotal: 288
-  googleMapsUrl: "https://maps.google.com/?cid=15274780724985773315&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 289
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=15274780724985773315&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.1463625
   lng: 113.56372189999999
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "cotai"
-  - "top attraction"
-quickAnswer: "The Cotai Strip in Cotai, Macau, is the row of giant hotel-casino resorts along Estrada do Istmo, and the best time to see it is after dark when the façades light up. It's open 24 hours. Plan an evening of three to five hours to walk between The Venetian, The Parisian, The Londoner and City of Dreams, and get there on the free resort shuttles or the Taipa Line light rail."
+  - cotai
+  - top attraction
+quickAnswer: >-
+  The Cotai Strip in Cotai, Macau, is the row of giant hotel-casino resorts
+  along Estrada do Istmo, and the best time to see it is after dark when the
+  façades light up. It's open 24 hours. Plan an evening of three to five hours
+  to walk between The Venetian, The Parisian, The Londoner and City of Dreams,
+  and get there on the free resort shuttles or the Taipa Line light rail.
 faq:
-  - q: "How do I get to the Cotai Strip from the Macau ferry terminals?"
-    a: "Take one of the free resort shuttle buses from the Outer Harbour Ferry Terminal, Taipa Ferry Terminal or Border Gate. You can also ride the Taipa Line light rail to Cotai East or Cotai West station, or take a taxi."
-  - q: "What is the best time to visit the Cotai Strip?"
-    a: "Go in the evening, when the resort façades along Estrada do Istmo are lit up. The strip is open 24 hours, so you can arrive late afternoon, eat indoors and stay well into the night. Weekdays are usually less crowded than weekends and public holidays."
-  - q: "How long should I spend on the Cotai Strip?"
-    a: "Plan three to five hours for a first visit covering three or four resorts. Make it a full day if you add Taipa Village nearby or book a show."
-  - q: "Do I need to gamble or be 21 to visit?"
-    a: "No. The malls, restaurants, lobbies and outdoor areas are open to everyone. Only the gaming floors require you to be 21, so bring your passport in case you're asked for ID."
-  - q: "What is near the Cotai Strip?"
-    a: "Taipa Village, with its lanes around Rua do Cunha and the Taipa Houses-Museum, is just to the north. Coloane village and Hac Sa beach are a short taxi ride south, and the Lotus Bridge crossing to Hengqin is at the strip's western edge."
+  - q: How do I get to the Cotai Strip from the Macau ferry terminals?
+    a: >-
+      Take one of the free resort shuttle buses from the Outer Harbour Ferry
+      Terminal, Taipa Ferry Terminal or Border Gate. You can also ride the Taipa
+      Line light rail to Cotai East or Cotai West station, or take a taxi.
+  - q: What is the best time to visit the Cotai Strip?
+    a: >-
+      Go in the evening, when the resort façades along Estrada do Istmo are lit
+      up. The strip is open 24 hours, so you can arrive late afternoon, eat
+      indoors and stay well into the night. Weekdays are usually less crowded
+      than weekends and public holidays.
+  - q: How long should I spend on the Cotai Strip?
+    a: >-
+      Plan three to five hours for a first visit covering three or four resorts.
+      Make it a full day if you add Taipa Village nearby or book a show.
+  - q: Do I need to gamble or be 21 to visit?
+    a: >-
+      No. The malls, restaurants, lobbies and outdoor areas are open to
+      everyone. Only the gaming floors require you to be 21, so bring your
+      passport in case you're asked for ID.
+  - q: What is near the Cotai Strip?
+    a: >-
+      Taipa Village, with its lanes around Rua do Cunha and the Taipa
+      Houses-Museum, is just to the north. Coloane village and Hac Sa beach are
+      a short taxi ride south, and the Lotus Bridge crossing to Hengqin is at
+      the strip's western edge.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-07'
 ---
 
 Stand on the footbridge over Estrada do Istmo after sunset and turn slowly. On one side, a half-scale Eiffel Tower is lit gold. Behind you, a replica of Big Ben glows above The Londoner. Across the road, the steel lattice of Morpheus has a hole cut through its middle. None of this land existed a generation ago, and the buildings seem to know it.

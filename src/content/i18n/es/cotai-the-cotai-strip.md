@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: cotai-the-cotai-strip
-srcHash: '724e02defb59'
+srcHash: '9ba9a312f082'
 title: 'Cotai Strip: guía de viaje (4.7★)'
-description: 'En Cotai (Macao), a lo largo de la Estrada do Istmo, se alinean los gigantescos complejos de hoteles y casinos que forman el Cotai Strip, cuyo mejor momento llega al anochecer, con las fachadas iluminadas. 4.7★ (288 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En Cotai (Macao), a lo largo de la Estrada do Istmo, se alinean los gigantescos complejos de hoteles y casinos que forman el Cotai Strip, cuyo mejor momento llega al anochecer, con las fachadas iluminadas. 4.7★ (289 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En Cotai (Macao), a lo largo de la Estrada do Istmo, se alinean los gigantescos complejos de hoteles y casinos que forman el Cotai Strip. Conviene visitarlo al anochecer, cuando se iluminan las fachadas. Está abierto las 24 horas. Para recorrer a pie The Venetian, The Parisian, The Londoner y City of Dreams, reserve una velada de tres a cinco horas. Puede llegar en los autobuses lanzadera gratuitos de los complejos o en el metro ligero de la línea de Taipa (Taipa Line).
 faq:
   - q: ¿Cómo se llega al Cotai Strip desde las terminales de ferris de Macao?

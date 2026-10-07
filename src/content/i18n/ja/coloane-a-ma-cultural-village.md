@@ -1,9 +1,9 @@
 ---
 lang: ja
 slug: coloane-a-ma-cultural-village
-srcHash: 'eccf96fa9f61'
+srcHash: 'a36ac51781c9'
 title: 媽祖文化村(A-Ma Cultural Village):コロアン観光ガイド(4.4★)
-description: マカオ南部、コロアンの丘の頂上近くを通るEstrada do Alto de Coloane沿いにある媽祖文化村。評価4.4★(324件のレビュー)をもとに、訪れた人の声や開館時間、訪問のコツをご紹介します。
+description: マカオ南部、コロアンの丘の頂上近くを通るEstrada do Alto de Coloane沿いにある媽祖文化村。評価4.4★(325件のレビュー)をもとに、訪れた人の声や開館時間、訪問のコツをご紹介します。
 quickAnswer: 媽祖文化村は、マカオ南部のコロアンの丘の頂上近く、Estrada do Alto de Coloane沿いにあります。海の女神・媽祖を祀る近年建てられた寺院群で、博物館や土産物店も併設されています。開館は毎日午前9時〜午後6時です。平日は一日を通して静かです。週末は午前11時〜午後5時に混み合うため、その前の午前9時〜11時に訪れるのがおすすめです。
 faq:
   - q: 媽祖文化村がいちばん空いているのはいつですか?

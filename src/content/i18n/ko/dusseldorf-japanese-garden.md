@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: dusseldorf-japanese-garden
-srcHash: '16ce360c490d'
+srcHash: 'a1e7e632396e'
 title: 뒤셀도르프 일본 정원 여행 가이드 (4.4★)
-description: 뒤셀도르프 일본 정원은 도시 북부 제5구(Stadtbezirk 5)의 노르트파크 안, Kaiserswerther Str. 380에 있습니다. 평점 4.4★(리뷰 6,970개)를 받은 이곳의 방문객 후기와 운영 시간, 관람 팁을 정리했습니다.
+description: 뒤셀도르프 일본 정원은 도시 북부 제5구(Stadtbezirk 5)의 노르트파크 안, Kaiserswerther Str. 380에 있습니다. 평점 4.4★(리뷰 6,978개)를 받은 이곳의 방문객 후기와 운영 시간, 관람 팁을 정리했습니다.
 quickAnswer: 뒤셀도르프 일본 정원은 도시 북부 제5구(Stadtbezirk 5)에 자리한 노르트파크(Nordpark) 안에 있습니다. 주소는 Kaiserswerther Str. 380이며, U78·U79호선이 서는 노르트파크/아쿠아추(Nordpark/Aquazoo) 지하철역에서 조금만 걸으면 닿습니다. 24시간 개방하고, 천천히 한 바퀴 도는 데 30~60분쯤 걸립니다. 가장 붐비는 주말 11am~7pm 시간대는 되도록 피하시기 바랍니다.
 faq:
   - q: 뒤셀도르프 일본 정원은 어떻게 가나요?

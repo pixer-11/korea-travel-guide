@@ -1,7 +1,7 @@
 ---
 lang: zh
 slug: guadalajara-guadalajara-s-cathedral
-srcHash: '326b21515ad6'
+srcHash: 'c15cef01d3d2'
 title: 瓜达拉哈拉主教座堂旅行指南（4.8★）
 description: 瓜达拉哈拉主教座堂坐落在瓜达拉哈拉老城核心中心区（Zona Centro）的阿尔卡尔德大道（Av. Alcalde）上，每天早上8点至晚上8点开放。评分4.8★，共48,065条评价。本文汇总游客评价、开放时间和参观建议。
 quickAnswer: 瓜达拉哈拉主教座堂坐落在瓜达拉哈拉老城核心中心区（Zona Centro）的阿尔卡尔德大道（Av. Alcalde）上，每天早上8点至晚上8点开放。工作日早上8点到11点、周末早上8点到10点人最少。周末中午12点到晚上8点是最拥挤的时段，最好避开。

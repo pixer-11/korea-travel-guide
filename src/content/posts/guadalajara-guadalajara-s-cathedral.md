@@ -1,45 +1,53 @@
 ---
-title: "Guadalajara's Cathedral: Travel Guide (4.8★)"
-description: "Guadalajara's Cathedral stands on Av. Alcalde in Zona Centro, the historic core of Guadalajara, and is open daily from 8am to 8pm. 4.8★ (48,065 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Guadalajara"
-category: "attraction"
-pubDate: "2026-10-06T07:41:24.415Z"
+title: 'Guadalajara''s Cathedral: Travel Guide (4.8★)'
+description: >-
+  Guadalajara's Cathedral stands on Av. Alcalde in Zona Centro, the historic
+  core of Guadalajara, and is open daily from 8am to 8pm. 4.8★ (48,089 reviews)
+  — what visitors say, hours, and tips.
+country: Mexico
+region: Guadalajara
+category: attraction
+pubDate: '2026-10-06T07:41:24.415Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Cathedral_of_Guadalajara%2C_Mexico_-_Gente_En_Movimiento_%2859822788%29.jpg"
-  credit: "Photo: Francisco Javier González / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Cathedral_of_Guadalajara,_Mexico_-_Gente_En_Movimiento_(59822788).jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/5/5f/Cathedral_of_Guadalajara%2C_Mexico_-_Gente_En_Movimiento_%2859822788%29.jpg
+  credit: 'Photo: Francisco Javier González / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Cathedral_of_Guadalajara,_Mexico_-_Gente_En_Movimiento_(59822788).jpg
+  via: act
   focus:
     x: 50
-    y: 30
+    'y': 30
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/9/92/Guadalajara_cathedral_and_trolley.jpg"
-    credit: "Photo: ERPN / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Guadalajara_cathedral_and_trolley.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/9/92/Guadalajara_cathedral_and_trolley.jpg
+    credit: 'Photo: ERPN / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Guadalajara_cathedral_and_trolley.jpg
 place:
-  id: "ChIJP_YoqfqxKIQRGmkQq82y3CU"
-  name: "Guadalajara's Cathedral"
-  address: "Av. Alcalde 10, Zona Centro, 44100 Guadalajara, Jal., Mexico"
+  id: ChIJP_YoqfqxKIQRGmkQq82y3CU
+  name: Guadalajara's Cathedral
+  address: 'Av. Alcalde 10, Zona Centro, 44100 Guadalajara, Jal., Mexico'
   rating: 4.8
-  userRatingsTotal: 48065
-  googleMapsUrl: "https://maps.google.com/?cid=2728252070687697178&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 48089
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2728252070687697178&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 20.677034000000003
   lng: -103.34698399999999
-  phone: "+52 33 3613 7168"
+  phone: +52 33 3613 7168
   openingHours:
-    - "Monday: 8:00 AM – 8:00 PM"
-    - "Tuesday: 8:00 AM – 8:00 PM"
-    - "Wednesday: 8:00 AM – 8:00 PM"
-    - "Thursday: 8:00 AM – 8:00 PM"
-    - "Friday: 8:00 AM – 8:00 PM"
-    - "Saturday: 8:00 AM – 8:00 PM"
-    - "Sunday: 8:00 AM – 8:00 PM"
+    - 'Monday: 8:00 AM – 8:00 PM'
+    - 'Tuesday: 8:00 AM – 8:00 PM'
+    - 'Wednesday: 8:00 AM – 8:00 PM'
+    - 'Thursday: 8:00 AM – 8:00 PM'
+    - 'Friday: 8:00 AM – 8:00 PM'
+    - 'Saturday: 8:00 AM – 8:00 PM'
+    - 'Sunday: 8:00 AM – 8:00 PM'
   busyness:
-    updated: 2026-10-06
+    updated: 2026-10-06T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -56,24 +64,40 @@ place:
       - 17
       - 18
       - 19
-    venueId: "ven_55433379323871516b6d475251494b787166716f595f504a496843"
+    venueId: ven_55433379323871516b6d475251494b787166716f595f504a496843
 tags:
-  - "guadalajara"
-  - "historic site"
-quickAnswer: "Guadalajara's Cathedral stands on Av. Alcalde in Zona Centro, the historic core of Guadalajara, and is open daily from 8am to 8pm. It's calmest from 8am to 11am on weekdays and 8am to 10am on weekends. Try to avoid weekends from 12pm to 8pm, when it's at its busiest."
+  - guadalajara
+  - historic site
+quickAnswer: >-
+  Guadalajara's Cathedral stands on Av. Alcalde in Zona Centro, the historic
+  core of Guadalajara, and is open daily from 8am to 8pm. It's calmest from 8am
+  to 11am on weekdays and 8am to 10am on weekends. Try to avoid weekends from
+  12pm to 8pm, when it's at its busiest.
 faq:
-  - q: "When is the quietest time to visit Guadalajara's Cathedral?"
-    a: "On weekdays it's calmest from 8am to 11am. On weekends it's calmest from 8am to 10am. Avoid weekends from 12pm to 8pm, the busiest stretch."
-  - q: "What are the opening hours?"
-    a: "It's open every day from 8am to 8pm. Mass is held through the day, so parts of the nave may be in use when you arrive."
-  - q: "How do I get there by public transport?"
-    a: "Take Line 3 of the Mi Tren light rail to Guadalajara Centro station. The cathedral is a short walk away, at Av. Alcalde 10 in Zona Centro."
-  - q: "How long should I spend there?"
-    a: "Allow 20 to 30 minutes inside. Add about an hour to walk the four surrounding plazas and look into the Palacio de Gobierno."
-  - q: "What else is nearby?"
-    a: "Plaza de Armas and the Palacio de Gobierno with its Orozco murals are on the south side. Teatro Degollado is to the east, and the Hospicio Cabañas and Mercado San Juan de Dios are at the far end of Plaza Tapatía."
+  - q: When is the quietest time to visit Guadalajara's Cathedral?
+    a: >-
+      On weekdays it's calmest from 8am to 11am. On weekends it's calmest from
+      8am to 10am. Avoid weekends from 12pm to 8pm, the busiest stretch.
+  - q: What are the opening hours?
+    a: >-
+      It's open every day from 8am to 8pm. Mass is held through the day, so
+      parts of the nave may be in use when you arrive.
+  - q: How do I get there by public transport?
+    a: >-
+      Take Line 3 of the Mi Tren light rail to Guadalajara Centro station. The
+      cathedral is a short walk away, at Av. Alcalde 10 in Zona Centro.
+  - q: How long should I spend there?
+    a: >-
+      Allow 20 to 30 minutes inside. Add about an hour to walk the four
+      surrounding plazas and look into the Palacio de Gobierno.
+  - q: What else is nearby?
+    a: >-
+      Plaza de Armas and the Palacio de Gobierno with its Orozco murals are on
+      the south side. Teatro Degollado is to the east, and the Hospicio Cabañas
+      and Mercado San Juan de Dios are at the far end of Plaza Tapatía.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-07'
 ---
 
 ## Two yellow spires over Zona Centro

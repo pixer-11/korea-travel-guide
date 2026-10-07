@@ -1,41 +1,47 @@
 ---
-title: "A-Ma Cultural Village: Coloane Travel Guide (4.4★)"
-description: "A-Ma Cultural Village sits near the top of Coloane Hill, on Estrada do Alto de Coloane in southern Macau. 4.4★ (324 reviews) — what visitors say, hours, and tips."
-country: "Macau"
-region: "Coloane"
-category: "attraction"
-pubDate: "2026-10-06T14:30:25.455Z"
+title: 'A-Ma Cultural Village: Coloane Travel Guide (4.4★)'
+description: >-
+  A-Ma Cultural Village sits near the top of Coloane Hill, on Estrada do Alto de
+  Coloane in southern Macau. 4.4★ (325 reviews) — what visitors say, hours, and
+  tips.
+country: Macau
+region: Coloane
+category: attraction
+pubDate: '2026-10-06T14:30:25.455Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Rear_view_of_the_A-Ma_Cultural_Village_at_dusk%2C_Coloane%2C_Macau.jpg/3840px-Rear_view_of_the_A-Ma_Cultural_Village_at_dusk%2C_Coloane%2C_Macau.jpg"
-  credit: "Photo: JaydenChao / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Rear_view_of_the_A-Ma_Cultural_Village_at_dusk,_Coloane,_Macau.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Rear_view_of_the_A-Ma_Cultural_Village_at_dusk%2C_Coloane%2C_Macau.jpg/3840px-Rear_view_of_the_A-Ma_Cultural_Village_at_dusk%2C_Coloane%2C_Macau.jpg
+  credit: 'Photo: JaydenChao / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Rear_view_of_the_A-Ma_Cultural_Village_at_dusk,_Coloane,_Macau.jpg
+  via: act
   focus:
     x: 30
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJHZW6hC9wATQR0SIbJWM0-zU"
-  name: "A-Ma Cultural Village"
-  address: "Estrada do Alto de Coloane, Estr. do Alto de Coloane, Macao"
+  id: ChIJHZW6hC9wATQR0SIbJWM0-zU
+  name: A-Ma Cultural Village
+  address: 'Estrada do Alto de Coloane, Estr. do Alto de Coloane, Macao'
   rating: 4.4
-  userRatingsTotal: 324
-  googleMapsUrl: "https://maps.google.com/?cid=3889760303593497297&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 325
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3889760303593497297&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.1226774
   lng: 113.5632706
-  phone: "+853 2857 1999"
+  phone: +853 2857 1999
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:00 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-10-06
+    updated: 2026-10-06T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -50,24 +56,39 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_557a2d304d574a62495330525154417739436836575a484a496843"
+    venueId: ven_557a2d304d574a62495330525154417739436836575a484a496843
 tags:
-  - "coloane"
-  - "top attraction"
-quickAnswer: "A-Ma Cultural Village sits near the top of Coloane Hill, on Estrada do Alto de Coloane in southern Macau. It is a modern temple complex for the sea goddess A-Ma, with a museum and souvenir shops, open daily 9am to 6pm. Weekdays are quiet all day; at weekends, come between 9am and 11am, before the 11am to 5pm crush."
+  - coloane
+  - top attraction
+quickAnswer: >-
+  A-Ma Cultural Village sits near the top of Coloane Hill, on Estrada do Alto de
+  Coloane in southern Macau. It is a modern temple complex for the sea goddess
+  A-Ma, with a museum and souvenir shops, open daily 9am to 6pm. Weekdays are
+  quiet all day; at weekends, come between 9am and 11am, before the 11am to 5pm
+  crush.
 faq:
-  - q: "When is the quietest time to visit A-Ma Cultural Village?"
-    a: "Weekdays stay quiet from 9am to 6pm. At weekends the calmest window is 9am to 11am; avoid 11am to 5pm, when it is busiest."
-  - q: "What are the opening hours?"
-    a: "It is open every day of the week, 9am to 6pm."
-  - q: "How do I get to A-Ma Cultural Village?"
-    a: "Take a taxi to Estrada do Alto de Coloane and ask for the A-Ma statue, or hike up on the Coloane Trail network. Sort out how you'll get down before you go, because taxis at the top are scarce."
-  - q: "How long should I spend there?"
-    a: "About an hour covers the temple halls, the museum and the views of the A-Ma Statue."
-  - q: "What else is nearby?"
-    a: "Coloane Village with the Chapel of St Francis Xavier, Hac Sa Beach and the pandas at Seac Pai Van Park are all on Coloane island."
+  - q: When is the quietest time to visit A-Ma Cultural Village?
+    a: >-
+      Weekdays stay quiet from 9am to 6pm. At weekends the calmest window is 9am
+      to 11am; avoid 11am to 5pm, when it is busiest.
+  - q: What are the opening hours?
+    a: 'It is open every day of the week, 9am to 6pm.'
+  - q: How do I get to A-Ma Cultural Village?
+    a: >-
+      Take a taxi to Estrada do Alto de Coloane and ask for the A-Ma statue, or
+      hike up on the Coloane Trail network. Sort out how you'll get down before
+      you go, because taxis at the top are scarce.
+  - q: How long should I spend there?
+    a: >-
+      About an hour covers the temple halls, the museum and the views of the
+      A-Ma Statue.
+  - q: What else is nearby?
+    a: >-
+      Coloane Village with the Chapel of St Francis Xavier, Hac Sa Beach and the
+      pandas at Seac Pai Van Park are all on Coloane island.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-07'
 ---
 
 ## A temple built for the goddess of the sea

@@ -1,25 +1,31 @@
 ---
 title: 'Japanese Garden: Düsseldorf Travel Guide (4.4★)'
-description: The Japanese Garden in Düsseldorf sits inside Nordpark in the city's northern district (Stadtbezirk 5), at Kaiserswerther Str. 4.4★ (6,970 reviews) — what visitors say, hours, and tips.
+description: >-
+  The Japanese Garden in Düsseldorf sits inside Nordpark in the city's northern
+  district (Stadtbezirk 5), at Kaiserswerther Str. 4.4★ (6,978 reviews) — what
+  visitors say, hours, and tips.
 country: Germany
 region: Düsseldorf
 category: attraction
 pubDate: '2026-10-06T07:39:50.604Z'
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Japanischer_Garten_%28Japanese_Garden%29_in_Nordpark_in_D%C3%BCsseldorf_during_the_Dokomi_2022_anime_convention.jpg/3840px-Japanischer_Garten_%28Japanese_Garden%29_in_Nordpark_in_D%C3%BCsseldorf_during_the_Dokomi_2022_anime_convention.jpg
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Japanischer_Garten_%28Japanese_Garden%29_in_Nordpark_in_D%C3%BCsseldorf_during_the_Dokomi_2022_anime_convention.jpg/3840px-Japanischer_Garten_%28Japanese_Garden%29_in_Nordpark_in_D%C3%BCsseldorf_during_the_Dokomi_2022_anime_convention.jpg
   credit: 'Photo: Robert von Oliva (naruciakk) / Wikimedia Commons (CC0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Japanischer_Garten_(Japanese_Garden)_in_Nordpark_in_D%C3%BCsseldorf_during_the_Dokomi_2022_anime_convention.jpg
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Japanischer_Garten_(Japanese_Garden)_in_Nordpark_in_D%C3%BCsseldorf_during_the_Dokomi_2022_anime_convention.jpg
   focus:
     x: 50
     'y': 50
 place:
   id: ChIJtb2Xixe2uEcRTXLUzSiHwvQ
   name: Japanese Garden
-  address: Kaiserswerther Str. 380, 40474 Düsseldorf-Stadtbezirk 5, Germany
+  address: 'Kaiserswerther Str. 380, 40474 Düsseldorf-Stadtbezirk 5, Germany'
   rating: 4.4
-  userRatingsTotal: 6970
-  googleMapsUrl: https://maps.google.com/?cid=17636807700057977421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  userRatingsTotal: 6978
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17636807700057977421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 51.2565628
   lng: 6.744292499999999
@@ -51,19 +57,36 @@ place:
 tags:
   - düsseldorf
   - park
-quickAnswer: The Japanese Garden in Düsseldorf sits inside Nordpark in the city's northern district (Stadtbezirk 5), at Kaiserswerther Str. 380, a short walk from the Nordpark/Aquazoo U-Bahn stop on lines U78 and U79. It's open around the clock, and an unhurried loop takes 30 to 60 minutes. Try not to come on a weekend between 11am and 7pm, which is when it's busiest.
+quickAnswer: >-
+  The Japanese Garden in Düsseldorf sits inside Nordpark in the city's northern
+  district (Stadtbezirk 5), at Kaiserswerther Str. 380, a short walk from the
+  Nordpark/Aquazoo U-Bahn stop on lines U78 and U79. It's open around the clock,
+  and an unhurried loop takes 30 to 60 minutes. Try not to come on a weekend
+  between 11am and 7pm, which is when it's busiest.
 faq:
   - q: How do I get to the Japanese Garden in Düsseldorf?
-    a: Take U-Bahn line U78 or U79 to Nordpark/Aquazoo, then walk a few minutes into Nordpark. The address is Kaiserswerther Str. 380, 40474 Düsseldorf.
+    a: >-
+      Take U-Bahn line U78 or U79 to Nordpark/Aquazoo, then walk a few minutes
+      into Nordpark. The address is Kaiserswerther Str. 380, 40474 Düsseldorf.
   - q: When is the quietest time to visit?
-    a: 'We only have measured data for the busy period: weekends from 11am to 7pm. Avoid that window. At the weekend, arriving before 11am is your best bet.'
+    a: >-
+      We only have measured data for the busy period: weekends from 11am to 7pm.
+      Avoid that window. At the weekend, arriving before 11am is your best bet.
   - q: How long should I spend there?
-    a: A slow loop of the garden takes 30 to 60 minutes. Add an hour or two if you also want to walk Nordpark or visit the Aquazoo Löbbecke Museum next door.
+    a: >-
+      A slow loop of the garden takes 30 to 60 minutes. Add an hour or two if
+      you also want to walk Nordpark or visit the Aquazoo Löbbecke Museum next
+      door.
   - q: Is the garden open every day?
-    a: Yes. It's listed as open 24 hours, seven days a week. Daylight is still the best time to go, because the paths run close to the water.
+    a: >-
+      Yes. It's listed as open 24 hours, seven days a week. Daylight is still
+      the best time to go, because the paths run close to the water.
   - q: What's the best season to see it?
-    a: Autumn for maple colour, spring for fresh green and flowering shrubs. Winter shows off the stonework and the shape of the pond.
+    a: >-
+      Autumn for maple colour, spring for fresh green and flowering shrubs.
+      Winter shows off the stonework and the shape of the pond.
 aiGenerated: true
+updatedDate: '2026-10-07'
 ---
 
 ## A pocket of Japan inside Nordpark

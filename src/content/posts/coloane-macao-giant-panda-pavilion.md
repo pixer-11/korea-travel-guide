@@ -1,60 +1,89 @@
 ---
-title: "Macao Giant Panda Pavilion: Coloane Travel Guide (4.5★)"
-description: "The Macao Giant Panda Pavilion sits inside Seac Pai Van Park on Estrada de Seac Pai Van in Coloane, a short bus ride south of the Cotai casino strip. 4.5★ (2,049 reviews) — what visitors say, hours, and tips."
-country: "Macau"
-region: "Coloane"
-category: "attraction"
-pubDate: "2026-10-06T14:36:24.930Z"
+title: 'Macao Giant Panda Pavilion: Coloane Travel Guide (4.5★)'
+description: >-
+  The Macao Giant Panda Pavilion sits inside Seac Pai Van Park on Estrada de
+  Seac Pai Van in Coloane, a short bus ride south of the Cotai casino strip.
+  4.5★ (2,051 reviews) — what visitors say, hours, and tips.
+country: Macau
+region: Coloane
+category: attraction
+pubDate: '2026-10-06T14:36:24.930Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Macao_Giant_Panda_Pavilion%2CSeac_Pai_Van_Park_26-02-2023.jpg/3840px-Macao_Giant_Panda_Pavilion%2CSeac_Pai_Van_Park_26-02-2023.jpg"
-  credit: "Photo: LN9267 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Macao_Giant_Panda_Pavilion,Seac_Pai_Van_Park_26-02-2023.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Macao_Giant_Panda_Pavilion%2CSeac_Pai_Van_Park_26-02-2023.jpg/3840px-Macao_Giant_Panda_Pavilion%2CSeac_Pai_Van_Park_26-02-2023.jpg
+  credit: 'Photo: LN9267 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Macao_Giant_Panda_Pavilion,Seac_Pai_Van_Park_26-02-2023.jpg
+  via: act
   focus:
     x: 55
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Macao_Giant_Panda_Pavilion%2CSeac_Pai_Van_Park_souvenir_shop_26-02-2023%284%29.jpg/3840px-Macao_Giant_Panda_Pavilion%2CSeac_Pai_Van_Park_souvenir_shop_26-02-2023%284%29.jpg"
-    credit: "Photo: LN9267 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Macao_Giant_Panda_Pavilion,Seac_Pai_Van_Park_souvenir_shop_26-02-2023(4).jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Macao_Giant_Panda_Pavilion%2CSeac_Pai_Van_Park_souvenir_shop_26-02-2023%284%29.jpg/3840px-Macao_Giant_Panda_Pavilion%2CSeac_Pai_Van_Park_souvenir_shop_26-02-2023%284%29.jpg
+    credit: 'Photo: LN9267 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Macao_Giant_Panda_Pavilion,Seac_Pai_Van_Park_souvenir_shop_26-02-2023(4).jpg
 place:
-  id: "ChIJC1y24zpwATQRIfTrLsOn88I"
-  name: "Macao Giant Panda Pavilion"
-  address: "Estr. de Seac Pai Van, Macao"
+  id: ChIJC1y24zpwATQRIfTrLsOn88I
+  name: Macao Giant Panda Pavilion
+  address: 'Estr. de Seac Pai Van, Macao'
   rating: 4.5
-  userRatingsTotal: 2049
-  googleMapsUrl: "https://maps.google.com/?cid=14047756119446385697&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2051
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=14047756119446385697&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.126634
   lng: 113.558979
-  phone: "+853 2888 0087"
+  phone: +853 2888 0087
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM"
-    - "Wednesday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM"
-    - "Thursday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM"
-    - "Friday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM"
-    - "Saturday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM"
-    - "Sunday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM'
+    - 'Thursday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM'
+    - 'Friday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM'
+    - 'Saturday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM'
+    - 'Sunday: 10:00 AM – 1:00 PM, 2:00 – 5:00 PM'
 tags:
-  - "coloane"
-  - "Giant Panda Pavilion"
-quickAnswer: "The Macao Giant Panda Pavilion sits inside Seac Pai Van Park on Estrada de Seac Pai Van in Coloane, a short bus ride south of the Cotai casino strip. It opens Tuesday to Sunday, 10am to 1pm and 2pm to 5pm, and is closed on Mondays. Come at 10am, when the pandas are usually eating and moving around, rather than in the late afternoon when they tend to be asleep."
+  - coloane
+  - Giant Panda Pavilion
+quickAnswer: >-
+  The Macao Giant Panda Pavilion sits inside Seac Pai Van Park on Estrada de
+  Seac Pai Van in Coloane, a short bus ride south of the Cotai casino strip. It
+  opens Tuesday to Sunday, 10am to 1pm and 2pm to 5pm, and is closed on Mondays.
+  Come at 10am, when the pandas are usually eating and moving around, rather
+  than in the late afternoon when they tend to be asleep.
 faq:
-  - q: "When is the Macao Giant Panda Pavilion open?"
-    a: "Tuesday to Sunday, 10am to 1pm and 2pm to 5pm, with a one-hour closure at lunchtime. It is closed all day on Mondays."
-  - q: "What time of day are the pandas most active?"
-    a: "Pandas are typically fed and at their most active in the morning, so arriving at the 10am opening gives you the best chance of seeing them eat and move around. They often sleep through the afternoon."
-  - q: "How do I get to the pavilion?"
-    a: "It is inside Seac Pai Van Park on Estrada de Seac Pai Van in Coloane. Public buses including 21A and 26A stop at the park, and a taxi from the Cotai resorts is a short ride. Once inside the park, follow the signs uphill to the pavilion."
-  - q: "How long should I spend there?"
-    a: "Allow 30 minutes to an hour for the pavilion and its exhibits. Give it half a day if you also walk Seac Pai Van Park or carry on to Coloane Village."
-  - q: "What else is nearby?"
-    a: "Coloane Village and the Chapel of St. Francis Xavier are a short ride south. Hac Sa Beach and the A-Ma statue on Coloane Hill are also close, and the Cotai casino strip is just to the north."
+  - q: When is the Macao Giant Panda Pavilion open?
+    a: >-
+      Tuesday to Sunday, 10am to 1pm and 2pm to 5pm, with a one-hour closure at
+      lunchtime. It is closed all day on Mondays.
+  - q: What time of day are the pandas most active?
+    a: >-
+      Pandas are typically fed and at their most active in the morning, so
+      arriving at the 10am opening gives you the best chance of seeing them eat
+      and move around. They often sleep through the afternoon.
+  - q: How do I get to the pavilion?
+    a: >-
+      It is inside Seac Pai Van Park on Estrada de Seac Pai Van in Coloane.
+      Public buses including 21A and 26A stop at the park, and a taxi from the
+      Cotai resorts is a short ride. Once inside the park, follow the signs
+      uphill to the pavilion.
+  - q: How long should I spend there?
+    a: >-
+      Allow 30 minutes to an hour for the pavilion and its exhibits. Give it
+      half a day if you also walk Seac Pai Van Park or carry on to Coloane
+      Village.
+  - q: What else is nearby?
+    a: >-
+      Coloane Village and the Chapel of St. Francis Xavier are a short ride
+      south. Hac Sa Beach and the A-Ma statue on Coloane Hill are also close,
+      and the Cotai casino strip is just to the north.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-07'
 ---
 
 ## Bamboo, glass and a hillside in Coloane
