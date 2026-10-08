@@ -49,7 +49,17 @@ export function monthLine(rows, now = new Date(), cap = MONTHLY_CAP) {
   const start = Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), 1);
   const days = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth() + 1, 0)).getUTCDate();
   const elapsed = Math.max(1, (now.getTime() - start) / 86400e3);
-  const forecast = (sum.usd / elapsed) * days;
+  // Straight-line over the month until a week has passed; after that, the
+  // month so far + the LAST 7 DAYS' pace for the days left. The month average
+  // keeps charging for days before a cost cut: on 10-09 it said $875 because
+  // Oct 1-5 ($153) predated the 10-06 cuts, while the last week ran ~$24/day.
+  // A 7-day window holds both weekly discovery runs, so it is not flattered.
+  let forecast = (sum.usd / elapsed) * days;
+  if (elapsed >= 7) {
+    const weekAgo = now.getTime() - 7 * 86400e3;
+    const week = sumRows(rows.filter((r) => { const t = Date.parse(r.ts || ''); return t > weekAgo && t <= now.getTime(); }));
+    forecast = sum.usd + (week.usd / 7) * (days - elapsed);
+  }
   const warn = forecast > cap * 0.85 ? ' ⚠️ 한도 근접 — 콘솔 상한을 올리거나 작업을 줄일 때' : '';
   return `📆 이번 달 누적 $${sum.usd.toFixed(0)} / 한도 $${cap} · 월말 예상 $${forecast.toFixed(0)} (자동 작업 장부 기준, 크립토·수동 실행 제외)${warn}`;
 }
