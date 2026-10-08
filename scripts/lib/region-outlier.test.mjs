@@ -264,7 +264,6 @@ test('고정 표본: 09-02 수리 전 24편을 이번 발행분으로 재생하�
     'bugis-supertree-grove',                        // cluster: Marina Bay
     'central-avenue-of-stars-hk',                   // address: Tsim Sha Tsui
     'clarke-quay-artscience-museum',                // cluster: Marina Bay
-    'dempsey-hill-pasar-geylang-serai',             // Path 3 (10-08): 두 편짜리 Dempsey Hill 에서 먼 곳
     'fujairah-shees-park',                         // address: Sharjah
     'jordan-hong-kong-heritage-museum',             // address: Sha Tin
     'jordan-victoria-peak-garden',                  // cluster: Central
@@ -275,9 +274,9 @@ test('고정 표본: 09-02 수리 전 24편을 이번 발행분으로 재생하�
     'sai-kung-hong-kong-space-museum',              // address: Tsim Sha Tsui
     'sha-tin-hong-kong-science-museum',             // address: Tsim Sha Tsui
   ];
-  // 못 잡는 9편(주소가 어떤 라이브 구역도 안 부르고, 3편 이상 무리 안에 있지도
+  // 못 잡는 10편(주소가 어떤 라이브 구역도 안 부르고, 3편 이상 무리 안에 있지도
   // 않다): al-barsha-dubai-gold-souk(Al Ras) · al-barsha-hindu-temple-dubai(Jebel Ali)
-  // · saadiyat-island-hudayriyat-island
+  // · saadiyat-island-hudayriyat-island · dempsey-hill-pasar-geylang-serai("Singapore", 피어 1편)
   // · bugis-lee-kong-chian…(Conservatory Dr) · jumeirah-dubai-old-village(Al Hamriya)
   // · east-coast-national-museum-of-singapore(Stamford Rd) · jordan-jordan-valley-park
   // (Cha Liu Au) · jumeirah-zabeel-park(Zabeel) · tiong-bahru-national-gallery-singapore.
@@ -390,13 +389,13 @@ test('regionAtBirth: 검색 구역과 다른 곳의 후보는 증거가 가리�
 
 test('regionExcuse: 자기 구역에 대한 지어낸 해명을 잡고, 정직한 대도시권 설명은 넘긴다 (10-08)', async () => {
   const { regionExcuse } = await import('./region-outlier.mjs');
-  for (const [text, region] of [
+  for (const [text, region, name] of [
     ['The Macao Museum, often listed under Hac Sa, actually sits inside Mount Fortress.', 'Hac Sa'],
     ['Old Hong Kong is often listed under Kennedy Town, but it is a themed zone inside Ocean Park.', 'Kennedy Town'],
-    ["It's usually filed under greater Mong Kok on maps and reviews.", 'Mong Kok'],
-    ['El Castillo is not in Playa del Carmen. It stands at Chichén Itzá.', 'Playa del Carmen'],
+    ["Lai Chi Kok is technically its own neighbourhood but it's usually filed under greater Mong Kok on maps.", 'Mong Kok'],
+    ['El Castillo is not in Playa del Carmen. It stands at Chichén Itzá.', 'Playa del Carmen', 'El Castillo'],
     ['About that "Hac Sa" label: the museum is on the peninsula.', 'Hac Sa'],
-  ]) assert.ok(regionExcuse(text, region), text);
+  ]) assert.ok(regionExcuse(text, region, name), text);
   for (const [text, region] of [
     ['The temple sits in Bellevue, not in Seattle proper, so plan your drive.', 'Seattle'],
     ['Exit at Xujing East, which you may see listed under its old name.', 'Shanghai'],
@@ -412,4 +411,22 @@ test('Path 0: 본문이 스스로 구역을 부정하면 피어·좌표 없이�
   const hits = findRegionOutliers([p]);
   assert.equal(hits.length, 1);
   assert.equal(hits[0].evidence.kind, 'prose');
+});
+
+test('regionExcuse 역방향 (코덱스 10-08 재현 4건)', async () => {
+  const { regionExcuse } = await import('./region-outlier.mjs');
+  assert.equal(regionExcuse('Hac Sa Beach is correctly listed under Hac Sa in the visitor index.', 'Hac Sa'), null);
+  assert.equal(regionExcuse('This cafe is in Seattle. The airport is not in Seattle.', 'Seattle', 'Elm Coffee'), null);
+  assert.equal(regionExcuse('The cafe is in York, not in York Road.', 'York', 'Bettys'), null);
+  assert.ok(regionExcuse('Shilin Residence Park is in Taipei, not New Taipei.', 'New Taipei', 'Shilin Residence Park'));
+});
+
+test('Path 3 역방향: 자기 구역 글이 1편뿐이면 퍼짐을 못 재니 판정하지 않는다 (코덱스 10-08)', () => {
+  const posts = [
+    { file: 'k1.md', country: 'Cambodia', region: 'Kampot', lat: 10.61, lng: 104.18, address: 'Kampot, Cambodia' },
+    { file: 'p1.md', country: 'Cambodia', region: 'Kep', lat: 10.6588, lng: 104.0513, address: 'Phumi Pôpôk Vil, Cambodia' },
+    { file: 'p2.md', country: 'Cambodia', region: 'Kep', lat: 10.6299, lng: 104.0174, address: 'Cambodia' },
+    { file: 'bokor.md', country: 'Cambodia', region: 'Kampot', lat: 10.6221, lng: 104.0266, address: 'Phumi Pôpôk Vil, Cambodia' },
+  ];
+  assert.deepEqual(findRegionOutliers(posts).map((h) => h.post.file), []);
 });

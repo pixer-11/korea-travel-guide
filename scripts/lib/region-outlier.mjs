@@ -234,7 +234,7 @@ export function findRegionOutliers(posts, opts = {}) {
 
     // Path 0 — the guide says so itself (regionExcuse). Needs no peers and no
     // coordinates: a new country's first guides are exactly where it fires.
-    const excuse = p.prose ? regionExcuse(p.prose, p.region) : null;
+    const excuse = p.prose ? regionExcuse(p.prose, p.region, p.name) : null;
     if (excuse) { out.push({ post: p, ...geo, evidence: { kind: 'prose', excerpt: excuse } }); continue; }
 
     // Path 1 — the address alone. "Sai Kung, New Territories" under region
@@ -265,7 +265,9 @@ export function findRegionOutliers(posts, opts = {}) {
     // The spread factor of (a) applies too: Kampot's two guides lie 15 km
     // apart, and Bokor Hill Station 24 km out is still Kampot province — it
     // only "sat in" Kep because two Bokor-mountain guides are filed under Kep.
-    if (centre && centre.n < o.minPeers && !mentions(p.address, p.region)
+    // Two peers at least: one has no spread to measure, and a lone Kampot guide
+    // 17 km from Bokor held the correct Bokor guide (Codex 10-08).
+    if (centre && centre.n >= 2 && centre.n < o.minPeers && !mentions(p.address, p.region)
         && distanceKm > o.thinFarKm && distanceKm > o.spreadFactor * centre.spreadKm) {
       let best = null;
       for (const r of live) {
@@ -341,19 +343,35 @@ export function findRegionOutliers(posts, opts = {}) {
  * its old name" or "the 'trendy' tag fits" say nothing about the label.
  * @returns {string|null} the offending excerpt
  */
-export function regionExcuse(text, region) {
+// Codex 10-08, each reproduced: a listing with no contradiction ("correctly
+// listed under Hac Sa") is not an excuse; a denial about something else ("The
+// airport is not in Seattle") or a street ("not in York Road") is not about
+// the guide; and "in Taipei, not New Taipei" denies without the word "in".
+const CONTRA = /\b(?:but|actually|however|though|although|instead|not|isn't|wrong)\b/i;
+export function regionExcuse(text, region, name = '') {
   if (!text || !region) return null;
   const r = escapeRe(String(region));
-  const re = new RegExp(
-    `(?:listed|filed|tagged|labell?ed|grouped|placed|put)\\s+under\\s+(?:the\\s+)?(?:broader\\s+|greater\\s+)?["“'‘]?${r}(?![\\p{L}\\p{N}])`
-    + `|["“'‘]${r}["”'’]\\s+(?:label|tag|listing|mix-up)`
-    // "not in Seattle proper" is an honest metro-area note (Bellevue), not an excuse.
-    + `|\\b(?:isn't|is\\s+not|not)\\s+(?:actually\\s+|really\\s+)?in\\s+${r}(?![\\p{L}\\p{N}])(?!\\s+proper\\b)`,
-    'iu',
-  );
+  const end = `(?![\\p{L}\\p{N}])${STREET}`;
   const s = String(text);
-  const m = re.exec(s);
-  return m ? s.slice(Math.max(0, m.index - 50), m.index + m[0].length + 30).replace(/\s+/g, ' ').trim() : null;
+  const excerpt = (m) => s.slice(Math.max(0, m.index - 50), m.index + m[0].length + 30).replace(/\s+/g, ' ').trim();
+  // The sentence a denial sits in must be about the guide's own venue: it
+  // names it, or its subject is a pronoun standing for it.
+  const nameWord = String(name).split(/[^\p{L}\p{N}]+/u).find((w) => w.length >= 4 && !/^(the|park|temple|museum|garden|street|market)$/i.test(w));
+  const aboutVenue = (i) => {
+    const start = Math.max(s.lastIndexOf('. ', i), s.lastIndexOf('\n', i), s.lastIndexOf('? ', i), s.lastIndexOf('! ', i)) + 1;
+    const sentence = s.slice(start, i).trim();
+    return /^(?:it|it's|it is|this|that)\b/i.test(sentence) || (nameWord && mentions(sentence, nameWord));
+  };
+  const listed = new RegExp(`(?:listed|filed|tagged|labell?ed|grouped|placed|put)\\s+under\\s+(?:the\\s+)?(?:broader\\s+|greater\\s+)?["“'‘]?${r}${end}`, 'giu');
+  for (const m of s.matchAll(listed)) {
+    if (CONTRA.test(s.slice(Math.max(0, m.index - 80), m.index + m[0].length + 160))) return excerpt(m);
+  }
+  const label = new RegExp(`["“'‘]${r}["”'’]\\s+(?:label|tag|listing|mix-up)`, 'iu').exec(s);
+  if (label) return excerpt(label);
+  // "not in Seattle proper" is an honest metro-area note (Bellevue), not an excuse.
+  const denial = new RegExp(`\\b(?:isn't|is\\s+not|not)\\s+(?:actually\\s+|really\\s+)?in\\s+${r}${end}(?!\\s+proper\\b)|,\\s*not\\s+(?:in\\s+)?${r}${end}(?!\\s+proper\\b)`, 'giu');
+  for (const m of s.matchAll(denial)) if (aboutVenue(m.index)) return excerpt(m);
+  return null;
 }
 
 /**

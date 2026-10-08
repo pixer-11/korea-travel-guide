@@ -23,6 +23,7 @@ export function loadRegionPosts(dir, scope = new Set(), { prose = false } = {}) 
       lat: data.place?.lat,
       lng: data.place?.lng,
       address: data.place?.address ? String(data.place.address) : '',
+      name: data.place?.name ? String(data.place.name) : '',
       draft: data.draft === true,
       inScope: scope.has(file),
       ...(prose ? {
