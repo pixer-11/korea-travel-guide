@@ -10,7 +10,23 @@
 //    marker short link and rel="sponsored";
 //  - no horizontal scroll on a phone.
 // Run: node scripts/live/flights-page.mjs [base]
-import { launch, BASE, verdict } from './lib.mjs';
+import { launch, BASE, verdict, ROOT } from './lib.mjs';
+import { execSync } from 'node:child_process';
+
+// Not deployed yet is not broken. The 00:52 KST run on 2026-10-09 failed all
+// five languages because the redesign, committed at 23:57, was still in the
+// build queue — the live page was the old one. When the live build predates
+// the last change to the page or this check, say so and stop.
+{
+  const [, liveAt] = (await (await fetch(`${BASE}/build.txt?t=${Date.now()}`)).text()).trim().split(/\s+/);
+  let pageAt = NaN;
+  try { pageAt = Number(execSync('git log -1 --format=%ct -- src/components/FlightsPage.astro scripts/live/flights-page.mjs', { cwd: ROOT }).toString().trim()); } catch {}
+  // Six hours at most: a deploy stuck for longer is a failure worth hearing about.
+  if (Number.isFinite(Number(liveAt)) && Number.isFinite(pageAt) && Number(liveAt) < pageAt && Date.now() / 1000 - pageAt < 6 * 3600) {
+    console.log(`⚠ the flights page change (${new Date(pageAt * 1000).toISOString()}) is not live yet (build ${new Date(Number(liveAt) * 1000).toISOString()}) — skipped, not failed`);
+    process.exit(0);
+  }
+}
 
 const b = await launch();
 const errs = [];

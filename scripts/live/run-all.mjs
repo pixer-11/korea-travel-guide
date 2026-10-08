@@ -27,6 +27,7 @@ const CHECKS = [
   ['country-coverage.mjs', '나라별 허브 데이터(경고만)'],
   ['header-nav.mjs', '상단 메뉴'],
   ['home-v3.mjs', '홈 v3(사진 벽·3갈래 선택기·연휴·나라 사진)×5개 언어'],
+  ['home-wall-click.mjs', '홈 사진 벽 클릭이 겨냥한 글을 연다'],
   ['regressions-2026-10-01.mjs', '10-01 회귀 묶음'],
   ['audit-2026-10-05.mjs', '10-05 전수검증 회귀(깨진 글자·헤더·별칭 허브·분석·팝업·제목·가입 Origin)'],
   ['events-now.mjs', '이벤트 진행 중'],

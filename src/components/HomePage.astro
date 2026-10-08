@@ -929,8 +929,12 @@ const editorCountries = EDITOR_VISITED.filter((v) => !v.region).length;
   .wall-rows:hover .wall-row { animation-play-state: paused; }
   /* Keyboard: the moving copy can hold the focused tile offscreen (row 2 starts
      at -50%), so on focus the rows stop, sit at rest and scroll to it. */
-  .wall-rows:focus-within { overflow-x: auto; scrollbar-width: none; }
-  .wall-rows:focus-within .wall-row { animation: none; transform: none; }
+  /* Keyboard focus only (:focus-visible), never a mouse press: a click focuses
+     the link too, and with :focus-within the row jumped to rest between
+     mousedown and mouseup, so the release landed on another tile or none —
+     the wall "stopped and did not open" for every mouse user (픽서님 10-09). */
+  .wall-rows:has(.wall-tile:focus-visible) { overflow-x: auto; scrollbar-width: none; }
+  .wall-rows:has(.wall-tile:focus-visible) .wall-row { animation: none; transform: none; }
 
   .hv3-card { background: var(--surface); color: var(--ink); border-radius: var(--r-lg); box-shadow: var(--shadow-lg); padding: 0.55rem 1.1rem 1.05rem; }
   .hv3-tabs { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0.3rem; background: var(--bg-tint); border-radius: var(--r-pill); padding: 0.25rem; margin: 0.45rem 0 0.9rem; }
