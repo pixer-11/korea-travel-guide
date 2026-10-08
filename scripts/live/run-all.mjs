@@ -39,6 +39,7 @@ const CHECKS = [
   ['wtg-photos.mjs', '언제 갈까 나라 사진'],
   ['affiliate-surfaces.mjs', '제휴 링크 위치(짐보관·명소·호주)'],
   ['esim-pages.mjs', 'eSIM 나라 페이지(추천기·내 폰 확인·체크리스트·SubID)×5개 언어'],
+  ['flights-page.mjs', '항공권 페이지(목적지 칩·월별 띠·기본 출발지·가격 미표기)×5개 언어'],
   ['essentials-hub.mjs', '필수정보 허브'],
   ['checklist.mjs', '체크리스트'],
   ['essentials-countries.mjs', '나라별 필수정보 전수'],

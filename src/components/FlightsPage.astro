@@ -3,122 +3,517 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { siteHref } from '../lib/urls.mjs';
 import Emoji from './Emoji.astro';
 import { SITE } from '../siteConfig';
-import { useTranslations, type Lang } from '../i18n/utils';
+import { useTranslations, localizePath, type Lang } from '../i18n/utils';
+import { homeT } from '../i18n/home-strings';
+import { localizePlace } from '../i18n/places';
+import { bandString } from '../lib/home-data.mjs';
+import { MONTH_SLUGS } from '../lib/when-to-go.mjs';
+import { buildToday } from '../lib/buildDay.mjs';
+import countriesData from '../../data/countries.json';
+import countryFacts from '../../data/country-facts.json';
 
-// Shared flights page for /flights (en) + /[lang]/flights. The Aviasales search
-// widget stays in place; only the surrounding copy is localized.
+// Shared flights page for /flights (en) + /[lang]/flights.
+//
+// 2026-10-08 redesign from the "항공권 개선안" mock. Kept from the mock: a
+// two-column hero with the search beside the promise, a default departure
+// city per language (the widget otherwise guessed the reader's IP — a Korean
+// reader in Vietnam saw SGN), destination chips that load the search with that
+// destination, a 12-month "good month" strip, "what to sort next" tiles and a
+// FAQ. Left out on purpose: every fare number (route averages, the price bars,
+// "Tue–Wed 15–25% cheaper", "6–8 weeks ahead") — the mock's own note says they
+// were placeholders, fares change by the minute and this site never prints a
+// price it did not measure; and the fare-alert e-mail, which would promise a
+// mail nothing sends. The month strip is when-to-go's own climate verdict
+// (monthComfort), named with the one city its record comes from.
 interface Props { lang: Lang }
 const { lang } = Astro.props;
 const t = useTranslations(lang);
+const H = homeT(lang);
+const P = (p: string) => localizePath(p, lang);
 
 const T = {
   en: {
-    metaTitle: 'Flights — Find real-time fares to anywhere',
-    metaDesc: `Search live flight prices with ${SITE.name}. Pick your departure and destination and compare fares in your local currency.`,
-    eyebrow: 'Fares', h1: 'Find your flight',
-    dek: "Search live prices across hundreds of airlines and agencies. Pick where you're flying from and where you're headed — fares show in your local currency.",
+    metaTitle: 'Cheap flights — search fares and pick the right month to go',
+    metaDesc: `Search live fares across airlines and agencies, then check which months are actually pleasant at your destination. Free, no markup — ${SITE.name}.`,
+    eyebrow: 'Flights', h1a: 'Find a flight,', h1b: 'and the right month to go',
+    dek: 'Search live fares across hundreds of airlines and agencies. Below, pick a destination to load it into the search and see which months are pleasant there.',
+    checks: ['Same price as the booking site — no markup', 'Compares airlines and agencies in one search', 'You book with the seller directly — we never see your card'],
+    destH: 'Popular destinations', destSub: 'Tap one: it goes into the search above and its month guide opens below.',
+    nowLabel: 'This month', bestLabel: 'Best months',
+    monthsH: '{country}: which months are pleasant?', basis: 'Weather record: {city} · {years}-year averages. Tap a month for that month’s guide.',
+    allMonths: 'Full {country} month guide →', pickPrompt: 'Pick a destination above to see its year.',
+    tipsH: 'Before you book',
     tips: [
-      ['How it works', 'Enter your nearest airport and destination. We send you to the booking site with the best fare — you book there directly.'],
-      ['Prices in your currency', "Fares are shown in the currency of the country you're browsing from, so there's no mental math at checkout."],
-      ['Flexible dates save money', 'If your dates can move, try a few options — midweek departures are often meaningfully cheaper.'],
+      ['Search a few dates', 'If your dates can move, compare a few departure days — the result page also shows a price calendar for the whole month.'],
+      ['Check the total, not the headline', 'Low fares often leave out checked bags and seat selection. Open the fare details before you pay.'],
+      ['Prices are in your currency', 'Fares show in the currency of the country you browse from, so there is no conversion at checkout.'],
     ],
-    trust: 'Real-time lowest-fare comparison · No markup — the same price as the booking site',
+    nextH: 'After the flight', nextSub: 'Things travellers sort right after booking. Marked items are partner links.',
+    next: [
+      ['antenna-bars', 'eSIM data', 'Country-by-country plans and setup', '/tools/esim/', false],
+      ['taxi', 'Airport pickup', 'Fixed-price transfer to your hotel', 'https://kiwitaxi.tpx.lv/yRbl5tIp?sub_id=flights_next_pickup', true],
+      ['passport-control', 'Entry & visas', 'What each country asks for at the border', '/essentials/visa/', false],
+      ['luggage', 'Luggage storage', 'Drop bags on arrival or checkout day', '/essentials/luggage-storage/', false],
+      ['spiral-calendar', 'Ready-made itineraries', 'Day-by-day plans for the city', '/itinerary/', false],
+    ],
+    partner: 'Partner',
+    faqH: 'Questions',
+    faq: [
+      ['Where does the search take me?', 'To Aviasales (Travelpayouts network), which compares airlines and agencies in real time. You choose a fare and book on the airline’s or agency’s own site; your payment never passes through us.'],
+      ['Is it more expensive through Wander Atlas?', 'No. The price is the same as going to the booking site directly. If you book, the site may pay us a commission, which keeps these guides free.'],
+      ['How is a “good month” decided?', 'From recent climate averages (NASA POWER) for one city per country, the city named under the strip: temperature close to comfortable and little rain rank best. It is about weather only, not fares or crowds.'],
+      ['Why are there no prices on this page?', 'Fares change by the minute and differ by date and seat. A number printed here would be wrong by the time you read it, so the live search shows the real fare.'],
+    ],
     disclosure: `Some links on this page are affiliate links. If you book through them, ${SITE.name} may earn a commission at no extra cost to you — it helps keep our guides free.`,
   },
   ko: {
-    metaTitle: '항공권 — 어디로든 실시간 요금 검색',
-    metaDesc: `${SITE.name}에서 실시간 항공권 가격을 검색하세요. 출발지와 도착지를 고르면 현지 통화로 요금을 비교해 드립니다.`,
-    eyebrow: '요금', h1: '항공권 찾기',
-    dek: '수백 개 항공사와 여행사의 실시간 가격을 검색하세요. 출발지와 도착지를 고르면 요금이 현지 통화로 표시됩니다.',
+    metaTitle: '항공권 최저가 검색 — 가기 좋은 달까지 한 번에',
+    metaDesc: `여러 항공사·여행사의 실시간 요금을 한 번에 검색하고, 목적지가 몇 월에 가기 좋은지도 바로 확인하세요. 추가 수수료 없음 — ${SITE.name}.`,
+    eyebrow: '항공권', h1a: '항공권 찾기,', h1b: '가기 좋은 달까지 한 번에',
+    dek: '수백 개 항공사와 여행사의 실시간 요금을 검색하세요. 아래에서 목적지를 고르면 검색창에 바로 들어가고, 그곳이 몇 월에 가기 좋은지도 보여 드립니다.',
+    checks: ['예약 사이트와 같은 가격 — 추가 수수료 0원', '항공사·여행사 요금을 한 번에 비교', '결제는 판매처에서 직접 — 카드 정보는 저희가 받지 않아요'],
+    destH: '인기 목적지', destSub: '누르면 위 검색창에 들어가고, 아래에 그곳의 월별 안내가 열립니다.',
+    nowLabel: '이번 달', bestLabel: '좋은 달',
+    monthsH: '{country}, 몇 월에 가기 좋을까요?', basis: '날씨 기준: {city} · 최근 {years}년 평균. 달을 누르면 그 달 안내로 갑니다.',
+    allMonths: '{country} 월별 안내 전체 →', pickPrompt: '위에서 목적지를 고르면 1년치가 보입니다.',
+    tipsH: '예약 전에',
     tips: [
-      ['이용 방법', '가까운 공항과 목적지를 입력하세요. 가장 저렴한 요금의 예약 사이트로 연결해 드리며, 예약은 그곳에서 바로 하시면 됩니다.'],
-      ['현지 통화로 표시되는 요금', '지금 접속한 나라의 통화로 요금이 표시되어, 결제할 때 환산할 필요가 없습니다.'],
-      ['날짜를 유연하게 하면 절약', '일정을 조정할 수 있다면 여러 옵션을 시도해 보세요 — 주중 출발이 훨씬 저렴한 경우가 많습니다.'],
+      ['날짜를 몇 개 바꿔 보세요', '일정을 옮길 수 있다면 출발일을 몇 개 비교해 보세요. 결과 화면에서 한 달 전체 요금 달력도 볼 수 있습니다.'],
+      ['표시 가격보다 총액', '최저가 요금은 위탁 수하물·좌석 지정이 빠진 경우가 많습니다. 결제 전에 요금 상세를 꼭 열어 보세요.'],
+      ['요금은 내 통화로', '지금 접속한 나라의 통화로 요금이 표시되어, 결제할 때 환산할 필요가 없습니다.'],
     ],
-    trust: '실시간 최저가 비교 · 추가 수수료 0원 — 예약 사이트 가격 그대로',
+    nextH: '항공권 다음에 챙길 것', nextSub: '예약 직후 많이 준비하는 것들입니다. 표시된 항목은 제휴 링크입니다.',
+    next: [
+      ['antenna-bars', 'eSIM·데이터', '나라별 요금제와 설치 방법', '/tools/esim/', false],
+      ['taxi', '공항 픽업', '숙소까지 고정 요금 이동', 'https://kiwitaxi.tpx.lv/yRbl5tIp?sub_id=flights_next_pickup', true],
+      ['passport-control', '비자·입국', '나라별 입국 때 필요한 것', '/essentials/visa/', false],
+      ['luggage', '짐 보관', '도착일·체크아웃 날 짐 맡기기', '/essentials/luggage-storage/', false],
+      ['spiral-calendar', '검증된 일정', '도시별 하루 단위 코스', '/itinerary/', false],
+    ],
+    partner: '제휴',
+    faqH: '자주 묻는 질문',
+    faq: [
+      ['검색하면 어디로 연결되나요?', 'Aviasales(Travelpayouts 네트워크)로 연결되어 항공사와 여행사 요금을 실시간으로 비교합니다. 요금을 고르면 항공사나 여행사 사이트에서 직접 예약하며, 결제 정보는 저희를 거치지 않습니다.'],
+      ['Wander Atlas를 거치면 더 비싸지나요?', '아니요. 예약 사이트에 직접 가는 것과 같은 가격입니다. 예약하시면 해당 사이트가 저희에게 수수료를 줄 수 있고, 이 수수료가 무료 가이드 운영에 쓰입니다.'],
+      ['"가기 좋은 달"은 무슨 기준인가요?', '나라마다 도시 한 곳의 최근 기후 평균(NASA POWER)으로 판정합니다. 기준 도시는 달력 아래에 적혀 있습니다. 기온이 쾌적하고 비가 적을수록 좋은 달입니다. 날씨만 본 것이고 항공권 가격이나 혼잡도는 반영하지 않습니다.'],
+      ['왜 이 페이지에는 가격이 없나요?', '항공권 요금은 분 단위로 바뀌고 날짜·좌석마다 다릅니다. 여기에 숫자를 적어 두면 읽는 순간 이미 틀린 값이 되므로, 실제 요금은 실시간 검색에서 확인하시게 했습니다.'],
+    ],
     disclosure: `이 페이지의 일부 링크는 제휴 링크입니다. 이 링크로 예약하시면 추가 비용 없이 ${SITE.name}가 수수료를 받을 수 있으며, 이는 무료 가이드 운영에 도움이 됩니다.`,
   },
   ja: {
-    metaTitle: '航空券 — どこへでもリアルタイム料金検索',
-    metaDesc: `${SITE.name}でリアルタイムの航空券価格を検索。出発地と目的地を選ぶと、現地通貨で料金を比較できます。`,
-    eyebrow: '運賃', h1: '航空券を探す',
-    dek: '何百もの航空会社と旅行代理店のリアルタイム価格を検索。出発地と目的地を選ぶと、料金が現地通貨で表示されます。',
+    metaTitle: '航空券の最安値検索 — 行きやすい月もひと目で',
+    metaDesc: `航空会社・旅行会社のリアルタイム運賃をまとめて検索し、目的地が何月に行きやすいかもすぐ確認。追加手数料なし — ${SITE.name}。`,
+    eyebrow: '航空券', h1a: '航空券を探す、', h1b: '行きやすい月もひと目で',
+    dek: '何百もの航空会社と旅行会社のリアルタイム運賃を検索できます。下で目的地を選ぶと検索欄に入り、何月に行きやすいかも表示します。',
+    checks: ['予約サイトと同じ価格 — 追加手数料なし', '航空会社と旅行会社をまとめて比較', '支払いは販売元で直接 — カード情報は当サイトに届きません'],
+    destH: '人気の目的地', destSub: 'タップすると上の検索欄に入り、下にその場所の月別ガイドが開きます。',
+    nowLabel: '今月', bestLabel: 'おすすめの月',
+    monthsH: '{country}、何月が行きやすい？', basis: '天気の基準：{city}・直近{years}年の平均。月をタップするとその月のガイドへ。',
+    allMonths: '{country}の月別ガイド一覧 →', pickPrompt: '上で目的地を選ぶと1年分が表示されます。',
+    tipsH: '予約の前に',
     tips: [
-      ['使い方', '最寄りの空港と目的地を入力してください。最安値の予約サイトへご案内します — 予約はそちらで直接どうぞ。'],
-      ['現地通貨で表示', 'ご覧になっている国の通貨で料金が表示されるので、支払い時に換算する必要はありません。'],
-      ['日程に幅を持たせると節約', '日程を動かせるなら、いくつか試してみてください — 平日出発はかなり安いことがよくあります。'],
+      ['日付をいくつか試す', '日程を動かせるなら出発日をいくつか比べてみてください。結果画面では1か月分の運賃カレンダーも見られます。'],
+      ['表示価格より総額を', '最安運賃は受託手荷物や座席指定が含まれないことが多いです。支払い前に運賃の詳細を開いて確認しましょう。'],
+      ['運賃はあなたの通貨で', 'アクセスしている国の通貨で表示されるので、支払い時に換算する必要はありません。'],
     ],
-    trust: 'リアルタイム最安値比較 · 追加手数料なし — 予約サイトの価格そのまま',
+    nextH: '航空券の次に準備すること', nextSub: '予約の直後によく手配するものです。印のある項目は提携リンクです。',
+    next: [
+      ['antenna-bars', 'eSIM・データ', '国別のプランと設定方法', '/tools/esim/', false],
+      ['taxi', '空港送迎', 'ホテルまで定額で移動', 'https://kiwitaxi.tpx.lv/yRbl5tIp?sub_id=flights_next_pickup', true],
+      ['passport-control', 'ビザ・入国', '国ごとの入国時に必要なもの', '/essentials/visa/', false],
+      ['luggage', '荷物預かり', '到着日・チェックアウト日に荷物を預ける', '/essentials/luggage-storage/', false],
+      ['spiral-calendar', '検証済みの旅程', '都市ごとの1日単位コース', '/itinerary/', false],
+    ],
+    partner: '提携',
+    faqH: 'よくある質問',
+    faq: [
+      ['検索するとどこにつながりますか？', 'Aviasales（Travelpayoutsネットワーク）につながり、航空会社と旅行会社の運賃をリアルタイムで比較します。運賃を選んだら航空会社や旅行会社のサイトで直接予約し、支払い情報は当サイトを通りません。'],
+      ['Wander Atlas経由だと高くなりますか？', 'いいえ。予約サイトに直接行くのと同じ価格です。予約されると当サイトに手数料が支払われることがあり、無料ガイドの運営に使われます。'],
+      ['「行きやすい月」は何が基準ですか？', '国ごとに1都市の直近の気候平均（NASA POWER）で判定しています。基準の都市はカレンダーの下に記載しています。気温が快適で雨が少ないほど良い月です。天気だけを見ており、運賃や混雑は反映していません。'],
+      ['なぜこのページに価格がないのですか？', '航空券の運賃は分単位で変わり、日付や座席でも異なります。ここに数字を載せると読んだ時点で古くなるため、実際の運賃はリアルタイム検索で確認していただく形にしました。'],
+    ],
     disclosure: `このページの一部リンクはアフィリエイトリンクです。このリンクから予約すると、追加料金なしで${SITE.name}が手数料を受け取ることがあり、無料ガイドの運営に役立ちます。`,
   },
   es: {
-    metaTitle: 'Vuelos — Encuentra tarifas en tiempo real a cualquier lugar',
-    metaDesc: `Busca precios de vuelos en tiempo real con ${SITE.name}. Elige tu salida y tu destino y compara tarifas en tu moneda local.`,
-    eyebrow: 'Tarifas', h1: 'Encuentra tu vuelo',
-    dek: 'Busca precios en tiempo real entre cientos de aerolíneas y agencias. Elige desde dónde vuelas y a dónde vas: las tarifas se muestran en tu moneda local.',
+    metaTitle: 'Vuelos baratos — busca tarifas y elige el mejor mes para ir',
+    metaDesc: `Busca tarifas en tiempo real entre aerolíneas y agencias, y mira qué meses son agradables en tu destino. Sin recargos — ${SITE.name}.`,
+    eyebrow: 'Vuelos', h1a: 'Encuentra tu vuelo', h1b: 'y el mejor mes para ir',
+    dek: 'Busca tarifas en tiempo real entre cientos de aerolíneas y agencias. Abajo, elige un destino para cargarlo en el buscador y ver qué meses son agradables allí.',
+    checks: ['El mismo precio que en la web de reserva, sin recargos', 'Compara aerolíneas y agencias en una sola búsqueda', 'Pagas directamente al vendedor: nunca vemos tu tarjeta'],
+    destH: 'Destinos populares', destSub: 'Toca uno: pasa al buscador de arriba y abajo se abre su guía por meses.',
+    nowLabel: 'Este mes', bestLabel: 'Mejores meses',
+    monthsH: '{country}: ¿qué meses son agradables?', basis: 'Tiempo de referencia: {city} · medias de {years} años. Toca un mes para ver su guía.',
+    allMonths: 'Guía completa por meses de {country} →', pickPrompt: 'Elige un destino arriba para ver su año.',
+    tipsH: 'Antes de reservar',
     tips: [
-      ['Cómo funciona', 'Introduce tu aeropuerto más cercano y tu destino. Te enviamos al sitio de reservas con la mejor tarifa; reservas allí directamente.'],
-      ['Precios en tu moneda', 'Las tarifas se muestran en la moneda del país desde el que navegas, así que no hay que hacer cuentas al pagar.'],
-      ['Fechas flexibles, más ahorro', 'Si puedes mover las fechas, prueba varias opciones: las salidas entre semana suelen ser bastante más baratas.'],
+      ['Prueba varias fechas', 'Si puedes mover las fechas, compara varios días de salida; la página de resultados también muestra un calendario de precios del mes.'],
+      ['Mira el total, no el titular', 'Las tarifas más bajas suelen excluir la maleta facturada y la elección de asiento. Abre el detalle antes de pagar.'],
+      ['Precios en tu moneda', 'Las tarifas se muestran en la moneda del país desde el que navegas, sin conversiones al pagar.'],
     ],
-    trust: 'Comparación de tarifas más baratas en tiempo real · Sin recargos: el mismo precio que en la web de reserva',
+    nextH: 'Después del vuelo', nextSub: 'Lo que suele organizarse justo después de reservar. Los elementos marcados son enlaces de socios.',
+    next: [
+      ['antenna-bars', 'Datos eSIM', 'Planes y configuración por país', '/tools/esim/', false],
+      ['taxi', 'Traslado desde el aeropuerto', 'Precio fijo hasta tu alojamiento', 'https://kiwitaxi.tpx.lv/yRbl5tIp?sub_id=flights_next_pickup', true],
+      ['passport-control', 'Entrada y visados', 'Lo que pide cada país en la frontera', '/essentials/visa/', false],
+      ['luggage', 'Consigna de equipaje', 'Deja las maletas al llegar o al salir', '/essentials/luggage-storage/', false],
+      ['spiral-calendar', 'Itinerarios listos', 'Planes día a día por ciudad', '/itinerary/', false],
+    ],
+    partner: 'Socio',
+    faqH: 'Preguntas',
+    faq: [
+      ['¿Adónde me lleva la búsqueda?', 'A Aviasales (red Travelpayouts), que compara aerolíneas y agencias en tiempo real. Eliges una tarifa y reservas en la web de la aerolínea o agencia; tu pago nunca pasa por nosotros.'],
+      ['¿Es más caro a través de Wander Atlas?', 'No. El precio es el mismo que yendo directamente a la web de reserva. Si reservas, esa web puede pagarnos una comisión, que mantiene gratis estas guías.'],
+      ['¿Cómo se decide un “buen mes”?', 'Con medias climáticas recientes (NASA POWER) de una ciudad por país, la que aparece bajo el calendario: temperatura agradable y poca lluvia puntúan mejor. Solo mide el tiempo, no precios ni multitudes.'],
+      ['¿Por qué no hay precios en esta página?', 'Las tarifas cambian cada minuto y varían según la fecha y el asiento. Una cifra impresa aquí ya estaría mal al leerla, así que el buscador en tiempo real muestra la tarifa real.'],
+    ],
     disclosure: `Algunos enlaces de esta página son de afiliados. Si reservas a través de ellos, ${SITE.name} puede ganar una comisión sin coste adicional para ti, y así mantenemos nuestras guías gratis.`,
   },
   zh: {
-    metaTitle: '机票——随时搜索前往任何地方的实时票价',
-    metaDesc: `在 ${SITE.name} 搜索实时机票价格。选择出发地和目的地，即可用当地货币比较票价。`,
-    eyebrow: '票价', h1: '查找航班',
-    dek: '在数百家航空公司和代理机构中搜索实时价格。选择出发地和目的地——票价将以你所在地的货币显示。',
+    metaTitle: '特价机票搜索——顺便看清哪个月最适合去',
+    metaDesc: `一次搜索多家航空公司与代理的实时票价，并查看目的地哪几个月气候宜人。不加价——${SITE.name}。`,
+    eyebrow: '机票', h1a: '查找机票，', h1b: '顺便选对出行月份',
+    dek: '在数百家航空公司和代理中搜索实时票价。在下方选择目的地，它会填入搜索框，同时显示那里哪几个月适合去。',
+    checks: ['与预订网站同价——不加价', '一次比较航空公司与代理', '直接向卖家付款——我们不会接触你的银行卡'],
+    destH: '热门目的地', destSub: '点一下：它会填入上方搜索框，下方展开该地的月份指南。',
+    nowLabel: '本月', bestLabel: '推荐月份',
+    monthsH: '{country}：哪几个月适合去？', basis: '天气依据：{city}·近{years}年平均。点月份可查看该月指南。',
+    allMonths: '{country}全年月份指南 →', pickPrompt: '在上方选择目的地即可查看全年。',
+    tipsH: '预订之前',
     tips: [
-      ['如何使用', '输入离你最近的机场和目的地。我们会将你引导至票价最优的预订网站——你在那里直接预订即可。'],
+      ['多试几个日期', '如果日期可以调整，比较几个出发日；结果页还能查看整月的票价日历。'],
+      ['看总价，不只看标价', '最低票价常不含托运行李和选座。付款前请打开票价详情确认。'],
       ['以你的货币显示', '票价以你浏览所在国家的货币显示，结账时无需换算。'],
-      ['灵活日期更省钱', '如果日期可以调整，不妨多试几个选项——工作日出发往往便宜不少。'],
     ],
-    trust: '实时最低价比较 · 不加价——与预订网站价格完全一致',
+    nextH: '买完机票之后', nextSub: '预订后常要安排的事。带标记的是合作链接。',
+    next: [
+      ['antenna-bars', 'eSIM·上网', '各国套餐与设置方法', '/tools/esim/', false],
+      ['taxi', '机场接送', '一口价送到住处', 'https://kiwitaxi.tpx.lv/yRbl5tIp?sub_id=flights_next_pickup', true],
+      ['passport-control', '签证·入境', '各国入境时需要什么', '/essentials/visa/', false],
+      ['luggage', '行李寄存', '抵达日或退房日寄存行李', '/essentials/luggage-storage/', false],
+      ['spiral-calendar', '现成行程', '各城市按天安排的路线', '/itinerary/', false],
+    ],
+    partner: '合作',
+    faqH: '常见问题',
+    faq: [
+      ['搜索后会跳转到哪里？', '跳转到 Aviasales（Travelpayouts 网络），实时比较航空公司与代理的票价。选好票价后在航空公司或代理网站直接预订，付款信息不会经过我们。'],
+      ['通过 Wander Atlas 会更贵吗？', '不会。价格与直接去预订网站相同。你预订后，该网站可能会付给我们佣金，用来维持这些免费指南。'],
+      ['“适合去的月份”依据是什么？', '依据每个国家一座城市的近年气候平均值（NASA POWER），该城市写在月份条下方：气温越舒适、雨越少，排名越靠前。只看天气，不涉及票价或人流。'],
+      ['为什么这页没有价格？', '机票价格每分钟都在变，也因日期和座位而异。印在这里的数字等你看到时可能已过时，所以真实票价请以实时搜索为准。'],
+    ],
     disclosure: `本页部分链接为联盟链接。通过它们预订，${SITE.name} 可能获得佣金，你无需支付额外费用——这有助于我们保持指南免费。`,
   },
 }[lang];
+
+// Default departure city per language: the reader of /ko/ is most likely
+// flying out of Seoul, /ja/ out of Tokyo. es/zh/en readers are spread over
+// too many countries to guess, so the widget keeps its own detection there.
+const ORIGIN: Partial<Record<Lang, string>> = { ko: 'SEL', ja: 'TYO' };
+const origin = ORIGIN[lang] ?? '';
+
+// Destinations: cities this site covers in depth, by metro IATA code. The
+// month strip is the COUNTRY's climate verdict (one city's record), so the
+// chip names the country beside the city and the strip names its record city.
+const DESTS: { code: string; city: string; country: string }[] = [
+  { code: 'TYO', city: 'Tokyo', country: 'Japan' },
+  { code: 'OSA', city: 'Osaka', country: 'Japan' },
+  { code: 'SEL', city: 'Seoul', country: 'South Korea' },
+  { code: 'TPE', city: 'Taipei', country: 'Taiwan' },
+  { code: 'HKG', city: 'Hong Kong', country: 'Hong Kong' },
+  { code: 'BKK', city: 'Bangkok', country: 'Thailand' },
+  { code: 'DAD', city: 'Da Nang', country: 'Vietnam' },
+  { code: 'SIN', city: 'Singapore', country: 'Singapore' },
+  { code: 'DPS', city: 'Bali', country: 'Indonesia' },
+  { code: 'PAR', city: 'Paris', country: 'France' },
+];
+const factsBy = (countryFacts as any).countries ?? countryFacts;
+const slugOf = Object.fromEntries((countriesData as any).countries.map((c: any) => [c.name, c.slug]));
+const BAND_KEY: Record<string, 'good' | 'fine' | 'fair' | 'harsh'> = { g: 'good', f: 'fine', a: 'fair', h: 'harsh' };
+const locale = lang === 'zh' ? 'zh-CN' : lang;
+const monthShort = Array.from({ length: 12 }, (_, i) =>
+  new Intl.DateTimeFormat(locale, { month: 'short', timeZone: 'UTC' }).format(new Date(Date.UTC(2026, i, 15))));
+const nowMonth = buildToday().getUTCMonth() + 1;
+const dests = DESTS
+  .filter((d) => d.code !== origin)
+  .map((d) => {
+    const f = factsBy[d.country];
+    const bands = bandString(f?.climate);
+    const slug = slugOf[d.country];
+    return {
+      ...d,
+      slug,
+      name: localizePlace(d.city, lang),
+      countryName: localizePlace(d.country, lang),
+      bands,
+      climateCity: f?.climateCity ? localizePlace(f.climateCity, lang) : '',
+      years: f?.climateYears ?? 10,
+      best: bands ? [...bands].map((b, i) => (b === 'g' ? monthShort[i] : '')).filter(Boolean).slice(0, 4) : [],
+      now: bands ? BAND_KEY[bands.charAt(nowMonth - 1)] : null,
+    };
+  });
+const wtg = (slug: string, m?: number) => P(`/tools/when-to-go/${slug}/${m ? `${MONTH_SLUGS[m - 1]}/` : ''}`);
+
+const widgetSrc = (dest = '') =>
+  `https://tpemd.com/content?currency=usd&trs=553157&shmarker=754088.flights_page&show_hotels=false&powered_by=true&locale=${lang}` +
+  `&searchUrl=www.aviasales.com%2Fsearch&primary_override=%23c8443a&color_button=%23c8443a&color_icons=%23857c6f&dark=%23201c17&light=%23FFFFFF` +
+  `&secondary=%23f4eee3&special=%23e6e1d6&color_focused=%23c8443a&border_radius=10&plain=true&promo_id=7879&campaign_id=100` +
+  (origin ? `&origin=${origin}` : '') + (dest ? `&destination=${dest}` : '');
 
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const pageUrl = siteHref(Astro.url.pathname, Astro.site);
 const jsonLd = {
   '@context': 'https://schema.org',
   '@graph': [
-    { '@type': 'CollectionPage', name: T.h1, description: T.dek, url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
+    { '@type': 'CollectionPage', name: `${T.h1a} ${T.h1b}`, description: T.metaDesc, url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
+    {
+      '@type': 'FAQPage',
+      mainEntity: T.faq.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: a } })),
+    },
   ],
 };
 ---
 
 <BaseLayout title={T.metaTitle} description={T.metaDesc} jsonLd={jsonLd} localized={true}>
-  <section class="page-hero">
-    <div class="wrap">
-      <p class="eyebrow"><Emoji name="airplane" /> {T.eyebrow}</p>
-      <h1>{T.h1}</h1>
-      <p>{T.dek}</p>
+  <section class="fl-hero">
+    <div class="wrap fl-hero-grid">
+      <div class="fl-hero-copy">
+        <p class="eyebrow"><Emoji name="airplane" /> {T.eyebrow}</p>
+        <h1>{T.h1a}<br /><span>{T.h1b}</span></h1>
+        <p class="fl-dek">{T.dek}</p>
+        <ul class="fl-checks">
+          {T.checks.map((c) => <li><span aria-hidden="true">✓</span>{c}</li>)}
+        </ul>
+      </div>
+      <div class="fl-search" id="fl-search">
+        <!-- locale follows the page language; origin is the language's home
+             city (ko/ja) and destination is set by the chips below. -->
+        <div class="tp-widget-card" id="fl-widget" data-src={widgetSrc()}>
+          <script is:inline async src={widgetSrc()} charset="utf-8"></script>
+        </div>
+      </div>
     </div>
   </section>
 
-  <section class="section">
+  <section class="section fl-dest">
     <div class="wrap">
-      <p class="tp-trust"><span>✓</span> {T.trust}</p>
-      <div class="tp-widget-card">
-        <!-- locale follows the page language — the widget ships ko/ja/es/zh string
-             bundles (verified by fetching the script per locale); hardcoded en
-             forced English UI on every localized page. -->
-        <script is:inline async src={`https://tpemd.com/content?currency=usd&trs=553157&shmarker=754088.flights_page&show_hotels=false&powered_by=true&locale=${lang}&searchUrl=www.aviasales.com%2Fsearch&primary_override=%23c8443a&color_button=%23c8443a&color_icons=%23857c6f&dark=%23201c17&light=%23FFFFFF&secondary=%23f4eee3&special=%23e6e1d6&color_focused=%23c8443a&border_radius=10&plain=true&promo_id=7879&campaign_id=100`} charset="utf-8"></script>
+      <h2>{T.destH}</h2>
+      <p class="fl-sub">{T.destSub}</p>
+      <div class="fl-chips">
+        {dests.map((d) => (
+          <button type="button" class="fl-chip" data-code={d.code} data-slug={d.slug} data-bands={d.bands} aria-controls="fl-months fl-search">
+            <span class="fl-chip-city">{d.name} <small>{d.code}</small></span>
+            <span class="fl-chip-country">{d.countryName}</span>
+            {d.now && <span class={`fl-pill b-${d.now}`}>{T.nowLabel}: {H(d.now)}</span>}
+          </button>
+        ))}
       </div>
 
-      <h2 class="sr-only">{t('a11y.list')}</h2>
-      <div class="tp-flights-tips">
+      <div class="fl-months" id="fl-months" aria-live="polite"
+        data-labels={JSON.stringify({ now: T.nowLabel, good: H('good'), fine: H('fine'), fair: H('fair'), harsh: H('harsh') })}>
+        <p class="fl-pick" data-empty>{T.pickPrompt}</p>
+        {dests.filter((d) => d.bands).map((d) => (
+          <div class="fl-year" data-for={d.code} hidden>
+            <h3>{T.monthsH.replace('{country}', d.countryName)}</h3>
+            <ol class="fl-strip">
+              {[...d.bands].map((b, i) => (
+                <li>
+                  <a class={`b-${BAND_KEY[b]}${i + 1 === nowMonth ? ' is-now' : ''}`} href={wtg(d.slug, i + 1)} title={H(BAND_KEY[b])}>
+                    <span>{monthShort[i]}</span>
+                  </a>
+                </li>
+              ))}
+            </ol>
+            <ul class="fl-legend">
+              {(['good', 'fine', 'fair', 'harsh'] as const).map((k) => <li><span class={`sw b-${k}`} aria-hidden="true"></span>{H(k)}</li>)}
+            </ul>
+            <p class="fl-basis">{T.basis.replace('{city}', d.climateCity).replace('{years}', String(d.years))}</p>
+            {d.best.length > 0 && <p class="fl-best"><strong>{T.bestLabel}:</strong> {d.best.join(' · ')}</p>}
+            <a class="fl-all" href={wtg(d.slug)}>{T.allMonths.replace('{country}', d.countryName)}</a>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section fl-tips-sec">
+    <div class="wrap">
+      <h2>{T.tipsH}</h2>
+      <div class="fl-tips">
         {T.tips.map(([h, p]) => (
-          <div>
+          <div class="fl-card">
             <h3>{h}</h3>
             <p>{p}</p>
           </div>
         ))}
       </div>
+    </div>
+  </section>
 
+  <section class="section fl-next-sec">
+    <div class="wrap">
+      <h2>{T.nextH}</h2>
+      <p class="fl-sub">{T.nextSub}</p>
+      <div class="fl-next">
+        {T.next.map(([icon, h, p, href, aff]) => (
+          aff
+            ? <a class="fl-tile" href={href as string} target="_blank" rel="sponsored noopener" data-affiliate-placement="flights-next">
+                <Emoji name={icon as string} /><strong>{h}</strong><span>{p}</span><em class="aff">{T.partner}</em>
+              </a>
+            : <a class="fl-tile" href={P(href as string)}>
+                <Emoji name={icon as string} /><strong>{h}</strong><span>{p}</span>
+              </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section fl-faq-sec">
+    <div class="wrap fl-faq-grid">
+      <h2>{T.faqH}</h2>
+      <div class="fl-faq">
+        {T.faq.map(([q, a], i) => (
+          <details open={i === 0}>
+            <summary>{q}</summary>
+            <p>{a}</p>
+          </details>
+        ))}
+      </div>
+    </div>
+    <div class="wrap">
       <p class="tp-disclosure">{T.disclosure}</p>
     </div>
   </section>
 </BaseLayout>
+
+<script>
+  // Chips: reload the search widget with that destination (the widget reads
+  // origin/destination from its own script URL — verified live 2026-10-08)
+  // and open the destination's month strip.
+  function init() {
+    const box = document.getElementById('fl-widget');
+    const months = document.getElementById('fl-months');
+    if (!box || !months) return;
+    const base = box.dataset.src || '';
+    // "This month" was decided at build time (UTC). A page built on the 31st
+    // and read on the 1st — or read in a later month before the next deploy —
+    // would name the wrong month, so the reader's own month wins here.
+    const KEY: Record<string, string> = { g: 'good', f: 'fine', a: 'fair', h: 'harsh' };
+    let labels: Record<string, string> = {};
+    try { labels = JSON.parse(months.dataset.labels || '{}'); } catch { /* keep build text */ }
+    const m = new Date().getMonth() + 1;
+    document.querySelectorAll<HTMLButtonElement>('.fl-chip').forEach((chip) => {
+      const k = KEY[(chip.dataset.bands || '').charAt(m - 1)];
+      const pill = chip.querySelector<HTMLElement>('.fl-pill');
+      if (!k || !pill || !labels[k]) return;
+      pill.className = `fl-pill b-${k}`;
+      pill.textContent = `${labels.now}: ${labels[k]}`;
+    });
+    months.querySelectorAll('.fl-strip').forEach((strip) => {
+      strip.querySelectorAll('a').forEach((a, i) => a.classList.toggle('is-now', i + 1 === m));
+    });
+    document.querySelectorAll<HTMLButtonElement>('.fl-chip').forEach((chip) => {
+      chip.addEventListener('click', () => {
+        const code = chip.dataset.code || '';
+        document.querySelectorAll('.fl-chip').forEach((c) => c.setAttribute('aria-pressed', String(c === chip)));
+        const url = new URL(base);
+        url.searchParams.set('destination', code);
+        box.replaceChildren();
+        const s = document.createElement('script');
+        s.async = true;
+        s.charset = 'utf-8';
+        s.src = url.toString();
+        box.appendChild(s);
+        let shown = false;
+        months.querySelectorAll<HTMLElement>('.fl-year').forEach((y) => {
+          const on = y.dataset.for === code;
+          y.hidden = !on;
+          shown ||= on;
+        });
+        const empty = months.querySelector<HTMLElement>('[data-empty]');
+        if (empty) empty.hidden = shown;
+        if (window.matchMedia('(max-width: 900px)').matches) {
+          document.getElementById('fl-search')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      });
+    });
+  }
+  init();
+</script>
+
+<style>
+  .fl-hero { padding-block: clamp(2rem, 5vw, 3.5rem); }
+  .fl-hero-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr); gap: clamp(1.5rem, 4vw, 3rem); align-items: center; }
+  .fl-hero h1 { font-family: var(--font-display); font-size: clamp(2rem, 4.4vw, 3.1rem); line-height: 1.12; margin: 0.4rem 0 0.9rem; }
+  .fl-hero h1 span { color: var(--accent-text); }
+  /* Korean breaks between words, not inside them ("한/번에"). Korean only:
+     keep-all on Japanese has no spaces to break at and overflowed (09-30). */
+  :global(html[lang='ko']) .fl-hero h1 { word-break: keep-all; }
+  .fl-dek { color: var(--ink-soft); font-size: 1.02rem; line-height: 1.6; margin: 0 0 1rem; }
+  .fl-checks { list-style: none; padding: 0; margin: 0; display: grid; gap: 0.45rem; font-size: 0.92rem; color: var(--ink-soft); }
+  .fl-checks li { display: flex; gap: 0.5rem; align-items: baseline; }
+  .fl-checks span { color: var(--pine); font-weight: 700; }
+  .fl-search .tp-widget-card { margin: 0; min-height: 220px; }
+
+  .fl-dest h2, .fl-tips-sec h2, .fl-next-sec h2, .fl-faq-sec h2 { font-family: var(--font-display); margin: 0 0 0.3rem; }
+  .fl-sub { color: var(--muted); margin: 0 0 1rem; font-size: 0.92rem; }
+  .fl-chips { display: grid; grid-template-columns: repeat(auto-fill, minmax(10.5rem, 1fr)); gap: 0.6rem; }
+  .fl-chip { display: grid; gap: 0.2rem; text-align: left; padding: 0.75rem 0.85rem; border-radius: var(--r-md);
+    border: 1px solid var(--line); background: var(--surface); color: var(--ink); cursor: pointer; font: inherit; }
+  .fl-chip:hover { border-color: var(--line-strong); box-shadow: var(--shadow-sm); }
+  .fl-chip[aria-pressed='true'] { border-color: var(--accent); box-shadow: 0 0 0 2px var(--accent-soft); }
+  .fl-chip-city { font-weight: 700; }
+  .fl-chip-city small { color: var(--muted); font-weight: 500; font-size: 0.72rem; margin-left: 0.2rem; }
+  .fl-chip-country { color: var(--muted); font-size: 0.82rem; }
+  .fl-pill { justify-self: start; font-size: 0.72rem; font-weight: 600; padding: 0.12rem 0.5rem; border-radius: var(--r-pill); border: 1px solid; margin-top: 0.2rem; }
+
+  .fl-months { margin-top: 1.1rem; padding: 1.1rem 1.2rem; border-radius: var(--r-lg); background: var(--surface-2); border: 1px solid var(--line-soft); }
+  .fl-pick { margin: 0; color: var(--muted); }
+  .fl-year h3 { margin: 0 0 0.75rem; font-size: 1.1rem; }
+  .fl-strip { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); gap: 0.3rem; }
+  .fl-strip a { display: flex; align-items: flex-end; justify-content: center; height: 3.4rem; border-radius: var(--r-sm); border: 1px solid;
+    text-decoration: none; font-size: 0.74rem; font-weight: 600; padding-bottom: 0.3rem; }
+  .fl-strip a.is-now { outline: 2px solid var(--ink); outline-offset: 2px; }
+  .fl-legend { list-style: none; padding: 0; margin: 0.7rem 0 0; display: flex; flex-wrap: wrap; gap: 0.4rem 1rem; font-size: 0.8rem; color: var(--ink-soft); }
+  .fl-legend li { display: flex; align-items: center; gap: 0.35rem; }
+  .sw { width: 0.8rem; height: 0.8rem; border-radius: 999px; border: 1px solid; display: inline-block; }
+  .fl-basis { margin: 0.6rem 0 0; font-size: 0.8rem; color: var(--muted); }
+  .fl-best { margin: 0.4rem 0 0; font-size: 0.9rem; }
+  .fl-all { display: inline-block; margin-top: 0.6rem; font-weight: 600; }
+
+  .fl-tips { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0.8rem; }
+  .fl-card { padding: 1rem 1.1rem; border-radius: var(--r-md); background: var(--surface); border: 1px solid var(--line-soft); }
+  .fl-card h3 { margin: 0 0 0.4rem; font-size: 1rem; }
+  .fl-card p { margin: 0; color: var(--ink-soft); font-size: 0.9rem; line-height: 1.55; }
+
+  .fl-next { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 0.7rem; }
+  .fl-tile { position: relative; display: grid; gap: 0.25rem; padding: 0.9rem; border-radius: var(--r-md); background: var(--surface);
+    border: 1px solid var(--line-soft); color: var(--ink); text-decoration: none; }
+  .fl-tile:hover { border-color: var(--line-strong); }
+  .fl-tile strong { font-size: 0.95rem; }
+  .fl-tile span { font-size: 0.82rem; color: var(--muted); }
+  .fl-tile .aff { position: absolute; top: 0.55rem; right: 0.6rem; font-size: 0.66rem; font-style: normal; font-weight: 700; color: var(--gold-text); }
+
+  .fl-faq-grid { display: grid; grid-template-columns: minmax(0, 0.8fr) minmax(0, 2fr); gap: 1.5rem; align-items: start; }
+  .fl-faq details { border: 1px solid var(--line-soft); border-radius: var(--r-md); background: var(--surface); padding: 0.75rem 1rem; margin-bottom: 0.5rem; }
+  .fl-faq summary { cursor: pointer; font-weight: 600; }
+  .fl-faq p { margin: 0.55rem 0 0; color: var(--ink-soft); font-size: 0.92rem; line-height: 1.6; }
+
+  /* Same four colours as the when-to-go pages (WhenToGoCountry.astro) —
+     one scale across the site, not a fourth set of greens. */
+  .b-good  { background: #8fa06a; color: #1d2812; border-color: #7c8d59; }
+  .b-fine  { background: #dfe8ce; color: #45573a; border-color: #c8d5b4; }
+  .b-fair  { background: #efab80; color: #63300f; border-color: #dd9366; }
+  .b-harsh { background: #7b451d; color: #f6e7d7; border-color: #663810; }
+  @media (prefers-color-scheme: dark) {
+    .b-good  { background: #5f7340; color: #f0f6e2; border-color: #85995b; }
+    .b-fine  { background: #3f4a35; color: #d3e0c1; border-color: #526043; }
+    .b-fair  { background: #b4763f; color: #2a1608; border-color: #c78d56; }
+    .b-harsh { background: #8c3f16; color: #ffe6d5; border-color: #a5522a; }
+  }
+
+  @media (max-width: 900px) {
+    .fl-hero-grid, .fl-faq-grid { grid-template-columns: 1fr; }
+    .fl-tips { grid-template-columns: 1fr; }
+    .fl-next { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .fl-strip { grid-template-columns: repeat(6, minmax(0, 1fr)); }
+  }
+</style>
