@@ -53,8 +53,7 @@ faq:
   - q: "What is there to do nearby?"
     a: "Hac Sa beach and the Hac Sa Sports and Recreation Park are right at the trailhead, and Fernando's Portuguese restaurant is on the beach. Coloane Village, with the Chapel of St. Francis Xavier and the original Lord Stow's Bakery, is a short ride west."
 aiGenerated: true
-draft: true
-heldReason: wrong-region
+draft: false
 ---
 
 ## Where the Black Sand Gives Out

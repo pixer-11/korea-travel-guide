@@ -1,62 +1,62 @@
 ---
 lang: es
 slug: new-taipei-shilin-residence-park
-srcHash: 'b2e7c9abd792'
-title: 'Parque de la Residencia de Shilin: Guía de viaje de Nuevo Taipéi (4,7★)'
-description: 'El Parque de la Residencia de Shilin se encuentra en el distrito de Shilin de Taipéi (la dirección figura técnicamente bajo la aldea de Fulin, aunque la mayoría de los visitantes llegan a través de Shilin y no de Nuevo Taipéi propiamente dicho) y abre todos los días de 8:00 a 18:00 con entrada gratuita a los jardines. 4,7★ (1488 reseñas): lo que dicen los visitantes, horarios y consejos.'
-quickAnswer: El Parque de la Residencia de Shilin se encuentra en el distrito de Shilin de Taipéi (la dirección figura técnicamente bajo la aldea de Fulin, aunque la mayoría de los visitantes llegan a través de Shilin y no de Nuevo Taipéi propiamente dicho) y abre todos los días de 8:00 a 18:00 con entrada gratuita a los jardines. El momento más tranquilo es a primera hora de la mañana entre semana, justo después de la apertura, antes de que lleguen los grupos turísticos y las excursiones escolares. Conviene reservar entre 45 y 90 minutos para recorrer los jardines chino y occidental, además de la propia antigua residencia.
+srcHash: '3fdd9a035bb4'
+title: 'Parque de la Residencia de Shilin: guía de viaje de Taipéi (4.7★)'
+description: El Parque de la Residencia de Shilin, en el distrito taipeiano de Shilin, abre todos los días de 8am a 6pm y la entrada a sus jardines es gratuita. Con una valoración de 4.7★ (1,488 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
+quickAnswer: En el distrito de Shilin, en Taipéi, se encuentra el Parque de la Residencia de Shilin, que abre a diario de 8am a 6pm y no cobra entrada por visitar sus jardines. El momento más tranquilo son las mañanas entre semana, nada más abrir, antes de que lleguen los grupos turísticos y las excursiones escolares. Conviene reservar entre 45 y 90 minutos para pasear por los jardines chino y occidental y recorrer la antigua residencia.
 faq:
-  - q: ¿Cuánto cuesta entrar al Parque de la Residencia de Shilin?
-    a: El acceso a las zonas ajardinadas suele ser gratuito, aunque el edificio de la antigua residencia puede tener un pequeño costo de entrada. Los precios pueden cambiar, así que conviene revisar la señalización a la llegada.
+  - q: ¿Cuánto cuesta la entrada al Parque de la Residencia de Shilin?
+    a: Por lo general, el acceso a los jardines es gratuito, aunque la antigua residencia puede cobrar una pequeña tarifa. Como los precios pueden variar, consulte los carteles de la entrada cuando llegue.
   - q: ¿Cuál es la estación de metro más cercana al Parque de la Residencia de Shilin?
-    a: La más cercana es la estación Shilin, en la línea roja (línea Tamsui-Xinbeitou), a unos 15-20 minutos a pie desde la entrada.
-  - q: ¿Cuál es el mejor momento para visitarlo y evitar las multitudes?
-    a: Las mañanas entre semana, poco después de la apertura a las 8:00, son las más tranquilas, ya que los grupos turísticos y las excursiones escolares suelen llegar más tarde en el día.
-  - q: ¿Cuánto tiempo conviene dedicarle a la visita?
-    a: La mayoría de los visitantes pasa entre 45 y 90 minutos recorriendo ambos jardines y la antigua residencia.
-  - q: ¿Cuál es la mejor temporada para ver las rosas?
-    a: La primavera, aproximadamente de marzo a mayo, es cuando el rosal está en plena floración, aunque también es la temporada de mayor afluencia en el parque.
+    a: La más próxima es la estación Shilin, en la línea roja (línea Tamsui-Xinbeitou). Desde allí hay unos 15-20 minutos a pie hasta la entrada.
+  - q: ¿Cuándo es mejor ir para evitar las aglomeraciones?
+    a: Las mañanas entre semana, poco después de la apertura de las 8am, son las más tranquilas. Los grupos turísticos y las excursiones escolares suelen llegar más tarde.
+  - q: ¿Cuánto tiempo conviene dedicar a la visita?
+    a: La mayoría de los visitantes emplea entre 45 y 90 minutos en recorrer ambos jardines y pasear por el interior de la antigua residencia.
+  - q: ¿Cuál es la mejor época para ver las rosas?
+    a: La rosaleda alcanza su plena floración en primavera, aproximadamente de marzo a mayo. Eso sí, también es la temporada de mayor afluencia del parque.
 ---
 
 ## Por qué ir
 
-El Parque de la Residencia de Shilin fue el antiguo hogar de Chiang Kai-shek y Soong Mei-ling, envuelto en uno de los jardines públicos mejor cuidados de Taipéi. Se llega atraído por la historia que guarda el lugar, pero uno se queda por las rosas.
+Rodeada por uno de los jardines públicos mejor cuidados de Taipéi, aquí se levanta la que fuera la casa de Chiang Kai-shek y Soong Mei-ling: el Parque de la Residencia de Shilin (Shilin Residence Park). Quizá lo atraiga su densa historia, pero lo que acaba reteniéndolo son las rosas.
 
-Los terrenos se dividen en dos ambientes bien diferenciados. A un lado, un jardín de estilo occidental y formal, con setos recortados, una fuente y una colección de rosas que alcanza su esplendor en primavera. Al otro, un jardín chino con un estanque, puentes arqueados y un pabellón que se refleja en aguas quietas. Basta caminar de uno a otro para notar el cambio de atmósfera de inmediato: la geometría cede paso a las curvas, y la simetría, a la asimetría.
+El recinto se divide en dos espacios de carácter muy distinto. A un lado se extiende un jardín formal de estilo occidental, con setos recortados, una fuente y una colección de rosas que luce en todo su esplendor en primavera. Al otro aguarda un jardín chino, donde un pabellón se refleja en las aguas quietas de un estanque cruzado por puentes en arco. Al pasar de uno a otro, el cambio de ambiente se percibe al instante: la geometría cede ante las curvas y la simetría, ante la asimetría.
 
 ## Cómo llegar
 
-El parque se encuentra en el distrito de Shilin, en la sección 5 de la calle Zhongshan North Road, en un callejón cercano al complejo de la Residencia Oficial de Shilin. La estación de metro más próxima es Shilin, en la línea roja (línea Tamsui-Xinbeitou); desde allí hay una caminata de unos 15-20 minutos, o bien un breve trayecto en autobús en dirección a la zona de la residencia.
+El parque se encuentra en el distrito de Shilin, en la sección 5 de la avenida Zhongshan Norte (Zhongshan North Road), al fondo de un callejón próximo al complejo de la Residencia Oficial de Shilin. La parada de metro más cercana es la estación Shilin, en la línea roja (línea Tamsui-Xinbeitou). Desde allí puede caminar unos 15-20 minutos o tomar un autobús que en poco tiempo lo dejará en la zona de la residencia.
 
-Muchos visitantes aprovechan la ocasión para combinar esta visita con una parada en el cercano Museo de Bellas Artes de Taipéi (Taipei Fine Arts Museum) o en el mercado nocturno de Shilin, ambos a una distancia razonable. Si se viene desde el centro de Taipéi, conviene calcular el tiempo de caminata o tomar un taxi corto desde la estación, ya que no siempre se puede confiar en la señalización peatonal, que suele ser escasa.
+Muchos visitantes aprovechan para acercarse también al Museo de Bellas Artes de Taipéi o al mercado nocturno de Shilin, ambos a una distancia razonable. Si viene desde el centro de Taipéi, tenga prevista la caminata desde la estación o un taxi rápido, porque las señales para peatones escasean y no conviene fiarse solo de ellas.
 
 ## Qué ver
 
-Conviene empezar por los jardines antes que por el edificio de la residencia, ya que el espacio exterior es lo que más recuerda la mayoría de los visitantes. Solo el rosal alberga cientos de variedades, y los bancos están colocados a propósito para poder sentarse y disfrutar del aroma, más que para limitarse a fotografiarlo.
+Empiece por los jardines y deje para después el edificio de la residencia, ya que lo que más se queda en la memoria de la mayoría es el espacio exterior. Solo en la rosaleda crecen cientos de variedades, y los bancos están dispuestos a propósito para que uno se siente a disfrutar del aroma en lugar de limitarse a hacer fotos.
 
-Dentro de la residencia, las salas restauradas permiten hacerse una idea de cómo vivía realmente la familia Chiang: un estilo modesto para tratarse de un jefe de Estado, aunque con pequeños detalles personales, como un antiguo piano y mobiliario de estudio. Las descripciones aquí se inclinan más hacia lo histórico que hacia lo suntuoso; se trata de una mirada íntima al poder, no de un recorrido palaciego.
+En el interior de la residencia, las estancias restauradas muestran cómo vivía realmente la familia Chiang. Para tratarse de un jefe de Estado, el conjunto resulta modesto, aunque no faltan pequeños detalles personales, como un viejo piano o los muebles del despacho. Las explicaciones se centran más en la historia que en el lujo: más que visitar un palacio, se asiste a una mirada íntima al poder.
 
-- Jardín occidental: fuente, rosas, césped cuidado
-- Jardín chino: estanque de carpas koi, puentes de piedra, pabellón
-- Antigua residencia: habitaciones y estudio conservados
+- Jardín occidental: fuente, rosas y céspedes impecables
+- Jardín chino: estanque de carpas koi, puentes de piedra y pabellón
+- Antigua residencia: dependencias privadas y despacho conservados
 - Invernadero: un rincón más pequeño y tranquilo que muchos visitantes pasan por alto
 
-Los fotógrafos suelen quedarse cerca del estanque a última hora de la tarde, cuando la luz se filtra en ángulo bajo entre los árboles y el agua adquiere un verde profundo y quieto.
+A última hora de la tarde, los fotógrafos suelen demorarse junto al estanque, cuando la luz se filtra rasante entre los árboles y el agua adquiere un verde profundo e inmóvil.
 
 ## Cuándo ir
 
-El parque abre todos los días de 8:00 a 18:00, así que conviene organizar la visita dentro de ese horario, ya que aquí nada funciona hasta tarde. La primavera, de marzo a mayo aproximadamente, es la temporada alta para las rosas y también la de mayor afluencia.
+Como el parque abre todos los días de 8am a 6pm y aquí nada funciona hasta tarde, organice la visita dentro de ese horario. La primavera, aproximadamente de marzo a mayo, es la temporada alta de las rosas y también la época de mayor afluencia.
 
-Las mañanas entre semana, justo después de la apertura a las 8:00, suelen ser las más tranquilas, antes de que los autobuses turísticos y los grupos escolares llenen los senderos. Si el objetivo es fotografiar los jardines sin gente de por medio, ese es el momento ideal.
+Las mañanas entre semana, justo después de la apertura de las 8am, suelen ser las más tranquilas, antes de que los autobuses turísticos y los grupos escolares llenen los senderos. Si su intención es fotografiar los jardines sin gente en el encuadre, esa primera franja es su mejor oportunidad.
 
-Las tardes de verano en Taipéi son calurosas y húmedas, así que si la visita se planea entre junio y agosto, conviene apuntar a la primera hora o dos tras la apertura, o a la última hora antes del cierre.
+En verano, las tardes de Taipéi son calurosas y húmedas. Si viaja entre junio y agosto, procure ir durante la primera o las dos primeras horas tras la apertura, o bien en la última hora antes del cierre.
 
 ## Cómo visitarlo como un local
 
-Conviene pensarlo primero como un paseo por un jardín y solo después como un sitio histórico; así es como lo usan la mayoría de los visitantes recurrentes. Lo ideal es hacer un recorrido pausado por ambos jardines y, luego, decidir si queda tiempo o interés para el interior de la residencia.
+Plantéese la visita ante todo como un paseo por los jardines y, en segundo lugar, como un sitio histórico; así lo disfruta la mayoría de quienes repiten. Dé una vuelta sin prisas por ambos jardines y decida después si le queda tiempo o interés para ver el interior de la residencia.
 
-La entrada a los jardines suele ser gratuita, aunque el edificio de la residencia puede requerir un pequeño boleto; conviene confirmar el precio vigente en la entrada, ya que puede variar. El efectivo es útil para los quioscos que hay en el lugar, aunque hoy en día la mayor parte de Taipéi funciona bien con tarjeta y pagos móviles.
+La entrada a los jardines suele ser gratuita, aunque es posible que el edificio de la residencia exija una pequeña entrada. Como el precio puede cambiar, confírmelo en la taquilla. Para los quioscos del recinto conviene llevar efectivo, si bien hoy en día casi todo Taipéi acepta tarjeta y pago con el móvil.
 
-Las normas de comportamiento aquí son sencillas: hay que mantenerse en los senderos señalizados dentro del jardín chino, bajar la voz cerca del estanque, donde la gente suele sentarse a leer o dibujar, y no tocar ni cortar las rosas. El error más común entre los turistas es recorrer todo en veinte minutos; conviene bajar el ritmo, ya que esto no es una parada para tachar de una lista.
+Las normas de comportamiento son sencillas: en el jardín chino no se salga de los senderos señalizados, hable en voz baja cerca del estanque, donde la gente se sienta a leer o dibujar, y no corte ni toque las rosas. El error más habitual de los turistas es recorrerlo todo en veinte minutos. Tómese su tiempo: este no es un lugar para tachar de una lista.
 
-Para quienes buscan un momento de tranquilidad poco frecuente, el invernadero y el extremo más alejado del jardín chino, cerca del pabellón, reciben muchos menos visitantes que los principales rosales. No es exactamente un rincón secreto, pero sí el lugar al que suelen dirigirse los locales cuando quieren tener un banco para ellos solos.
+Si busca un momento de verdadera calma, diríjase al invernadero o al extremo más alejado del jardín chino, junto al pabellón, que reciben muchos menos visitantes que los principales arriates de rosas. No se trata exactamente de un rincón secreto, pero es allí adonde se encaminan los vecinos cuando quieren un banco para ellos solos.

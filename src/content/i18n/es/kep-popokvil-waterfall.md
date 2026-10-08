@@ -1,58 +1,58 @@
 ---
 lang: es
 slug: kep-popokvil-waterfall
-srcHash: 'c7320120f4cb'
-title: 'Catarata Popokvil: Guía de Viaje de Kep (4,0★)'
-description: 'La catarata Popokvil se encuentra dentro del Parque Nacional Bokor, tras una carretera sinuosa por encima de Kep y Kampot, y no en el propio pueblo de Kep. 4,0★ (1.043 reseñas): lo que dicen los visitantes, horarios y consejos.'
-quickAnswer: La catarata Popokvil se encuentra dentro del Parque Nacional Bokor, tras una carretera sinuosa por encima de Kep y Kampot, y no en el propio pueblo de Kep. Se trata de una cascada de dos niveles dividida por un sendero peatonal, que registra su mayor afluencia en la temporada húmeda (aproximadamente de mayo a octubre), cuando el agua realmente fluye. Conviene ir temprano, ya que la niebla de montaña y la lluvia se intensifican en el parque a media tarde.
+srcHash: '887ad3efe0f7'
+title: 'Cascada Popokvil: guía de viaje de Kampot (4.0★)'
+description: En el Parque Nacional de Bokor, sobre la meseta que domina Kampot, se encuentra la cascada Popokvil. Con una valoración de 4.0★ (1,043 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y algunos consejos.
+quickAnswer: En el Parque Nacional de Bokor (Bokor National Park), sobre la meseta que domina Kampot, se encuentra la cascada Popokvil. Tiene dos niveles, separados por un sendero que se recorre a pie. Es durante la estación de lluvias, aproximadamente de mayo a octubre, cuando de verdad lleva agua y recibe más visitantes. Conviene ir temprano, porque a media tarde la niebla y la lluvia de montaña ya cubren el parque.
 faq:
-  - q: ¿Cómo se llega a la catarata Popokvil desde Kep?
-    a: El trayecto dura unos 40 minutos en coche desde el pueblo de Kep, pasando por Kampot y subiendo por la carretera de la meseta de Bokor. No hay autobús público, así que hay que alquilar una moto o contratar un tuk-tuk o coche desde Kampot.
-  - q: ¿Cuál es la mejor época para ver la catarata con agua?
-    a: Lo ideal es visitarla en temporada húmeda, aproximadamente de mayo a octubre, cuando ambos niveles corren con fuerza. En la temporada seca (noviembre-abril) el caudal puede reducirse a un hilo de agua o secarse por completo.
-  - q: ¿Cuánto tiempo conviene dedicarle a Popokvil?
-    a: Con una o dos horas basta para recorrer el sendero y ver ambos niveles. La mayoría de los visitantes la incluye en un circuito de medio día junto con la Estación de Montaña de Bokor y la iglesia cercana en lo alto de la colina.
+  - q: ¿Cómo se llega a la cascada Popokvil?
+    a: Hay que tomar la carretera que sube desde Kampot hasta la meseta de Bokor. Como no existe autobús público, lo más práctico es alquilar una moto o contratar en Kampot un tuk-tuk o un coche.
+  - q: ¿Cuál es la mejor época para ver la cascada con agua?
+    a: La estación de lluvias, aproximadamente de mayo a octubre, cuando ambos niveles bajan a pleno caudal. En la estación seca (de noviembre a abril), el agua puede quedarse en un hilo o desaparecer por completo.
+  - q: ¿Cuánto tiempo conviene dedicar a Popokvil?
+    a: Bastan una o dos horas para recorrer el sendero y ver los dos niveles. La mayoría de los visitantes la incluye en una ruta de media jornada junto con la antigua estación de montaña de Bokor (Bokor Hill Station) y la iglesia cercana, situada en lo alto de una colina.
   - q: ¿El parque está abierto todo el día?
-    a: El Parque Nacional Bokor figura como abierto las 24 horas, pero no hay iluminación ni servicios una vez cae la noche, y la carretera de montaña es mejor recorrerla de día, idealmente antes de que lleguen las nubes y la lluvia de la tarde.
-  - q: ¿Qué más hay cerca?
-    a: La abandonada Estación de Montaña de Bokor, una antigua iglesia católica y Wat Sampov Pram se encuentran en la misma carretera de acceso dentro del parque, lo que permite combinarlos fácilmente en una excursión de un día desde Kep o Kampot.
+    a: Oficialmente, el Parque Nacional de Bokor abre las 24 horas. Sin embargo, al caer la noche no hay iluminación ni servicios, y lo recomendable es recorrer la carretera de montaña con luz natural, a ser posible antes de que lleguen las nubes y la lluvia de la tarde.
+  - q: ¿Qué otros lugares hay cerca?
+    a: En la misma carretera de acceso, dentro del parque, se encuentran la abandonada estación de montaña de Bokor, una antigua iglesia católica y Wat Sampov Pram. Juntos forman una sencilla excursión de un día desde Kep o Kampot.
 ---
 
-## Cómo llegar al Parque Nacional Bokor
+## Cómo llegar al Parque Nacional de Bokor
 
-La catarata Popokvil no está en el propio Kep, sino en la meseta de Bokor, a la que se accede por una carretera pavimentada que asciende desde Kampot, a unos 40 minutos en coche del pueblo de Kep.
+La cascada Popokvil se encuentra en lo alto de la meseta de Bokor. Se accede a ella por una carretera asfaltada que asciende desde Kampot.
 
-La dirección (M352+GG2, Phumi Pôpôk Vil) se encuentra en pleno corazón del Parque Nacional Bokor, junto a los otros grandes atractivos del parque: la abandonada Estación de Montaña de Bokor, la antigua iglesia católica y Wat Sampov Pram. Dado que los cuatro se hallan sobre la misma carretera de acceso, la mayoría de los visitantes los combina en un solo recorrido.
+Su dirección (M352+GG2, Phumi Pôpôk Vil) queda en pleno corazón del Parque Nacional de Bokor, muy cerca de los demás grandes atractivos del parque: la abandonada estación de montaña de Bokor (Bokor Hill Station), la antigua iglesia católica y Wat Sampov Pram. Como los cuatro lugares comparten la misma carretera de acceso, la mayoría de los visitantes los recorre en una sola ruta.
 
-No existe autobús público que suba a la montaña. Las dos opciones realistas son alquilar una moto en Kampot o reservar un tuk-tuk turístico.
+Ningún autobús público sube a la montaña. En la práctica, solo hay dos opciones: alquilar una moto en Kampot o reservar un tuk-tuk con circuito organizado.
 
-## Qué encontrarás en la catarata
+## Qué encontrará en la cascada
 
-Popokvil es una cascada de dos niveles —uno superior y otro inferior— conectados por un sendero señalizado que atraviesa el bosque. Una escalera de madera con plataformas permite acercarse a las pozas sin necesidad de meterse en el agua.
+Popokvil tiene dos niveles, uno superior y otro inferior, y un sendero señalizado que atraviesa el bosque los une. Gracias a una escalera de madera y a varias plataformas, es posible acercarse a las pozas sin necesidad de meterse en el agua.
 
-Cerca de la entrada hay un amplio restaurante, muy útil considerando lo alejado que está el lugar de cualquier pueblo. Conviene llevar efectivo para la entrada, que se cobra en la puerta del parque y no en la propia catarata.
+Junto a la entrada hay un restaurante de buen tamaño, algo muy de agradecer teniendo en cuenta lo lejos que queda cualquier población. La entrada se paga en efectivo, y no en la propia cascada, sino en la puerta del parque.
 
-El caudal de agua varía enormemente según la temporada:
+El caudal varía muchísimo según la época del año:
 
-- Temporada húmeda (aproximadamente de mayo a octubre): cascadas plenas y ruidosas, que justifican el viaje
-- Temporada seca (noviembre-abril): el flujo se reduce a un hilo o se detiene por completo
+- Estación de lluvias (aproximadamente de mayo a octubre): cascadas caudalosas y estruendosas que justifican el viaje
+- Estación seca (de noviembre a abril): el agua se reduce a un hilo o deja de correr por completo
 
-Si el objetivo del viaje es específicamente la catarata, conviene comprobar en qué temporada se caerá antes de dedicarle el día.
+Si su principal motivo es ver la cascada, compruebe en qué estación viaja antes de reservarle un día entero.
 
-## Cuándo conviene ir
+## Cuándo visitarla
 
-El propio parque nunca cierra —figura como abierto las 24 horas todos los días—, aunque en la práctica esto es un tecnicismo: no hay iluminación ni servicios por la noche, y la carretera de montaña es mejor recorrerla de día.
+En teoría, el parque nunca cierra, ya que figura como abierto las 24 horas todos los días. En la realidad, sin embargo, por la noche no hay iluminación ni instalaciones, y la carretera, al ser de montaña, conviene recorrerla de día.
 
-La altitud de Bokor hace que el clima cambie con rapidez. Las mañanas suelen ser más despejadas; entre principios y mediados de la tarde, las nubes y la lluvia se instalan y pueden reducir la visibilidad en la meseta a casi nada.
+A la altitud de Bokor, el tiempo cambia con rapidez. Por la mañana el cielo suele estar más despejado, pero entre el comienzo y la mitad de la tarde llegan las nubes y la lluvia, que pueden dejar la meseta casi sin visibilidad.
 
-Con una valoración de 4 estrellas entre poco más de mil reseñas, el lugar goza de buena reputación, aunque se le describe más como una parada poco conocida que como un atractivo estelar; la mayoría de los itinerarios por la zona de Kampot lo tratan como una parada adicional tras la estación de montaña, más que como el plato fuerte.
+Con una valoración de 4 estrellas en algo más de mil reseñas, goza de buena reputación. Aun así, se la considera más bien un rincón poco conocido que una visita imprescindible, y la mayoría de los itinerarios por la zona de Kampot la tratan como una parada adicional tras la estación de montaña, no como el plato fuerte.
 
-## Cómo aprovechar al máximo una excursión de un día a Bokor
+## Cómo aprovechar al máximo la excursión a Bokor
 
-Popokvil funciona mejor como una parada dentro de un circuito de medio día, no como un viaje independiente. Se puede combinar con el casino en ruinas de la Estación de Montaña de Bokor y la iglesia en lo alto de la colina, ambos a poca distancia por la misma carretera.
+Popokvil luce más como parada dentro de una ruta de media jornada que como destino en sí misma. Lo ideal es combinarla con las ruinas del casino de la estación de montaña de Bokor y con la iglesia de la colina, ambas a pocos minutos en coche por la misma carretera.
 
-Conviene usar calzado con buen agarre. El sendero que baja hacia la catarata inferior tiene tramos de roca mojada y tierra compacta, resbaladizos incluso en época seca debido a la escorrentía y el musgo.
+Lleve calzado con buen agarre. El sendero que baja hasta el nivel inferior pasa por roca mojada y tierra compacta, y el agua de escorrentía y el musgo lo vuelven resbaladizo incluso cuando no llueve.
 
-Es recomendable repostar en Kampot antes de subir. Aparte del restaurante cerca de la entrada de la catarata, apenas hay nada más a lo largo de la ruta, y no existen gasolineras una vez que se entra en la carretera del parque.
+Llene el depósito en Kampot antes de subir. Aparte del restaurante de la entrada de la cascada, apenas hay nada a lo largo del recorrido, y una vez en la carretera del parque no encontrará ninguna gasolinera.
 
-Como no se trata tanto de un punto de encuentro para locales sino de una parada escénica para excursionistas de un día, no hay que esperar que resulte un lugar exclusivo. Es mejor llegar temprano, tanto por el clima más despejado como para adelantarse a los grupos turísticos que recorren el mismo circuito entre Kampot y Bokor.
+No espere un lugar exclusivo: más que un punto de reunión de la gente local, es una parada panorámica para excursionistas de un día. Procure llegar temprano, tanto para disfrutar de un tiempo más despejado como para adelantarse a los grupos organizados que hacen el mismo circuito entre Kampot y Bokor.

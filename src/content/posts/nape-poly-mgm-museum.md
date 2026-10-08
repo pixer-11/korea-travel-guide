@@ -50,8 +50,7 @@ faq:
   - q: "What's nearby to combine with a visit?"
     a: "Wynn Macau and the Grand Lisboa are next door. The Macau Tower and the Nam Van Lake waterfront are within walking distance, and the historic centre around Senado Square is a short walk north-west."
 aiGenerated: true
-draft: true
-heldReason: wrong-region
+draft: false
 ---
 
 ## Inside MGM Macau

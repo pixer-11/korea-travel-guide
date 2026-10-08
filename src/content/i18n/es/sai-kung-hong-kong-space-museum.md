@@ -1,65 +1,65 @@
 ---
 lang: es
 slug: sai-kung-hong-kong-space-museum
-srcHash: '0fb253c18927'
-title: 'Museo Espacial de Hong Kong: Guía de Viaje de Tsim Sha Tsui (4.2★)'
-description: 'El Museo Espacial de Hong Kong se encuentra en Salisbury Road, en Tsim Sha Tsui, justo frente al paseo marítimo de Kowloon. 4.2★ (6.972 reseñas): lo que dicen los visitantes, horarios y consejos.'
-quickAnswer: El Museo Espacial de Hong Kong se encuentra en Salisbury Road, en Tsim Sha Tsui, justo frente al paseo marítimo de Kowloon. Su cúpula ovoide sin ventanas alberga un planetario, un cine Omnimax y exhibiciones sobre el espacio, y permanece cerrado los martes. Los fines de semana concentran la mayor afluencia entre las 12:00 y las 19:00, así que conviene ir a primera hora, justo a la apertura de las 10:00.
+srcHash: 'c5dd2b819ce7'
+title: 'Museo del Espacio de Hong Kong: guía de viaje por Tsim Sha Tsui (4.2★)'
+description: En Salisbury Road, en pleno paseo marítimo de Kowloon (Tsim Sha Tsui), se alza el Museo del Espacio de Hong Kong. Con 4.2★ y 6,972 reseñas, reunimos aquí las opiniones de los visitantes, el horario y algunos consejos prácticos.
+quickAnswer: El Museo del Espacio de Hong Kong (Hong Kong Space Museum) se encuentra en Salisbury Road, en Tsim Sha Tsui, a orillas del puerto de Kowloon. Bajo su cúpula ovalada y sin ventanas hay un planetario, una sala Omnimax y varias exposiciones sobre el espacio. Cierra los martes. Los fines de semana registran la mayor afluencia entre las 12pm y las 7pm, de modo que conviene llegar a primera hora, justo cuando abre a las 10am.
 faq:
-  - q: ¿El Museo Espacial de Hong Kong está realmente en Sai Kung?
-    a: 'No: se encuentra en Salisbury Road, en Tsim Sha Tsui, Kowloon, aunque algunos listados de viajes regionales lo incluyen dentro del área más amplia de Sai Kung. Está justo sobre el paseo marítimo, junto al Centro Cultural de Hong Kong (Hong Kong Cultural Centre).'
+  - q: ¿Dónde está el Museo del Espacio de Hong Kong?
+    a: En Salisbury Road, en el barrio de Tsim Sha Tsui (Kowloon). Se levanta junto al Centro Cultural de Hong Kong, en pleno paseo marítimo.
   - q: ¿Cuál es el horario de apertura?
-    a: De 13:00 a 21:00 los lunes, miércoles, jueves y viernes; de 10:00 a 21:00 los sábados y domingos; cerrado todo el día los martes.
-  - q: ¿Cuál es el mejor momento para evitar las aglomeraciones?
-    a: Los fines de semana la mayor afluencia se da entre las 12:00 y las 19:00, así que conviene llegar justo a la apertura de las 10:00 los sábados o domingos, o bien visitar el museo un día laborable por la tarde, cuando hay menos gente.
-  - q: ¿Cuánto tiempo hay que reservar para la visita?
-    a: Entre una hora y media y dos horas alcanzan para recorrer ambas salas de exhibición y ver una función del Sky Show en el planetario.
+    a: Lunes, miércoles, jueves y viernes abre de 1pm a 9pm; sábados y domingos, de 10am a 9pm. Los martes permanece cerrado todo el día.
+  - q: ¿Cuándo conviene ir para evitar las aglomeraciones?
+    a: Entre las 12pm y las 7pm de los fines de semana es cuando más gente acude. Lo mejor es presentarse a las 10am del sábado o del domingo, en cuanto abren las puertas, o bien elegir una tarde entre semana, más tranquila.
+  - q: ¿Cuánto tiempo hay que dedicarle a la visita?
+    a: Con una hora y media o dos se pueden recorrer las dos salas de exposiciones y asistir a una sesión del planetario Sky Show.
   - q: ¿Cómo se llega en transporte público?
-    a: Se puede tomar el metro (MTR) hasta la estación de Tsim Sha Tsui y salir por la salida E o J, siguiendo las indicaciones hacia el Centro Cultural; otra opción es el Star Ferry desde Central, que deja a poca distancia a pie del museo.
+    a: En metro (MTR) hasta la estación de Tsim Sha Tsui, saliendo por la salida E o la J y siguiendo después las indicaciones hacia el Centro Cultural. Otra opción es tomar el Star Ferry desde Central, cuyo muelle queda a poca distancia a pie.
 ---
 
-## Cómo encontrar el "huevo" junto al paseo marítimo
+## Un huevo gigante a orillas del puerto
 
-No hay forma de confundir el edificio. Se trata de una cúpula pálida y sin ventanas, encajada entre el Centro Cultural de Hong Kong (Hong Kong Cultural Centre) y el embarcadero del Star Ferry, en Salisbury Road, Tsim Sha Tsui. Su forma curva fue diseñada específicamente para albergar en su interior la esfera del planetario.
+El edificio no tiene pérdida. Entre el Centro Cultural de Hong Kong (Hong Kong Cultural Centre) y el muelle del Star Ferry, en Salisbury Road (Tsim Sha Tsui), asoma una cúpula clara y sin ventanas. Su caparazón curvo se concibió expresamente para albergar en su interior la esfera de un planetario.
 
-El museo está justo sobre el paseo marítimo de Kowloon, lo cual es una ventaja: se puede combinar la visita con un paseo por la orilla del puerto y la Avenida de las Estrellas (Avenue of Stars) sin necesidad de desplazamientos adicionales.
+Como el museo se asienta en pleno frente marítimo de Kowloon, la visita puede combinarse sin desplazamientos adicionales con un paseo por el malecón del puerto y por la Avenida de las Estrellas (Avenue of Stars).
 
-La forma de cúpula no es un simple adorno, sino una solución estructural: envuelve con precisión la esfera de proyección del planetario, de modo que el teatro interior no necesita columnas de soporte.
+La forma de cúpula no responde a un capricho decorativo, sino a una lógica estructural. Al ceñirse a la esfera de proyección del planetario, permite que la sala interior prescinda por completo de columnas de apoyo.
 
-## Qué hay dentro de la cúpula
+## Qué hay bajo la cúpula
 
-El museo se divide en dos salas conectadas por el teatro central del Sky Show. Una de ellas corresponde a la Sala de Ciencias Espaciales, con exhibiciones sobre cohetes, satélites y la mecánica del vuelo espacial, pensadas para un público general y no solo para especialistas.
+El museo se divide en dos salas, unidas entre sí por el teatro central del Sky Show. A un lado se encuentra la Sala de Ciencias del Espacio, cuyas exposiciones sobre cohetes, satélites y los fundamentos de los vuelos espaciales están pensadas para el público general y no para especialistas.
 
-La otra mitad, la Sala de Astronomía, recorre la historia de los telescopios, el sistema solar y la manera en que los astrónomos han cartografiado el cielo a lo largo de los siglos. Hay estaciones interactivas donde se pueden manipular modelos y realizar experimentos sencillos, en lugar de limitarse a leer los paneles informativos.
+En la otra mitad, la Sala de Astronomía, el recorrido abarca los telescopios, el sistema solar y la manera en que los astrónomos han cartografiado el cielo a lo largo de los siglos. Además de leer los paneles, el visitante puede manipular maquetas y realizar sencillos experimentos en los puestos interactivos.
 
-El gran atractivo es el Sky Show: un programa de planetario y Omnimax que se proyecta sobre la superficie interior de la cúpula. Las funciones se suceden a lo largo del día y suelen combinar documentales de astronomía con, ocasionalmente, películas de formato narrativo. Conviene revisar el cartel del programa del día al llegar, ya que los horarios y los títulos van rotando.
+El gran atractivo, sin embargo, es el Sky Show, un programa de planetario y Omnimax que se proyecta sobre la superficie interior de la cúpula. Las sesiones se suceden a lo largo del día según un calendario fijo y suelen alternar documentales de astronomía con alguna que otra película de largometraje. Como los horarios y los títulos van cambiando, consulte al llegar el tablón con la programación del día.
 
-## Cómo organizarse con el horario
+## Cómo organizarse según el horario
 
-El museo mantiene un ritmo particular que conviene conocer antes de planear la visita:
+Antes de planificar la jornada, conviene conocer el horario del museo, que es bastante particular:
 
-- Lunes, miércoles, jueves y viernes: 13:00–21:00
-- Sábado y domingo: 10:00–21:00
+- Lunes, miércoles, jueves y viernes: 1:00pm–9:00pm
+- Sábados y domingos: 10:00am–9:00pm
 - Martes: cerrado todo el día
 
-Como entre semana el museo abre a la 1 de la tarde, no es una parada apta para la mañana salvo los fines de semana. Si se está recorriendo Tsim Sha Tsui por la mañana, conviene dejar el museo para primera hora de la tarde en días laborables, o bien convertirlo en la primera parada del día a las 10:00 un sábado o domingo.
+Dado que entre semana no abre hasta la 1pm, solo los fines de semana tiene sentido visitarlo por la mañana. Si dedica la mañana a recorrer Tsim Sha Tsui, reserve el museo para primera hora de la tarde en días laborables; el sábado o el domingo, en cambio, puede convertirlo en su primera parada a las 10am.
 
-## Cómo evitar la aglomeración del fin de semana
+## Cómo esquivar el gentío del fin de semana
 
-Se trata de uno de los museos más visitados de Kowloon, y los fines de semana registra una afluencia considerable, lejos de pasar desapercibido. Los sábados y domingos, el mayor volumen de visitantes suele darse entre el mediodía y primera hora de la tarde.
+Lejos de ser un rincón desconocido, este es uno de los museos más visitados de Kowloon y los fines de semana se llena. Sábados y domingos, la mayor afluencia suele concentrarse entre el mediodía y primera hora de la tarde.
 
-La mejor estrategia es llegar justo a la apertura de las 10:00 los fines de semana, lo que permite adelantarse a los grupos turísticos y a las familias que van llegando a medida que avanza la mañana. Si solo se puede visitar entre semana, la apertura a la 1 de la tarde ayuda a repartir la afluencia de forma natural, ya que no hay una entrada masiva al inicio del día.
+Lo más acertado es llegar a las 10am, justo cuando abre el fin de semana. Así se adelantará a los grupos organizados y a las familias, que van llegando a medida que se acerca el mediodía. Si solo puede ir entre semana, la apertura a la 1pm ya reparte de por sí a los visitantes, puesto que no hay aglomeración matinal.
 
-Las entradas para el Sky Show se venden por separado de la entrada general y pueden agotarse en los horarios más solicitados, sobre todo las tardes de fin de semana. Conviene comprar la entrada del Sky Show nada más llegar, incluso antes de recorrer las salas de exhibición, para no quedarse sin el horario preferido.
+Las entradas del Sky Show se venden aparte de la entrada general y pueden agotarse en los horarios más solicitados, sobre todo las tardes de fin de semana. Para no quedarse sin la sesión que prefiere, cómprelas nada más llegar, incluso antes de recorrer las salas de exposiciones.
 
 ## Cómo llegar y cómo pagar
 
-El museo está a poca distancia a pie de la estación de metro (MTR) de Tsim Sha Tsui, siguiendo las indicaciones hacia el Centro Cultural y el embarcadero del Star Ferry. Para quienes vienen desde la isla de Hong Kong, el Star Ferry desde Central deja a los pasajeros prácticamente en la puerta del museo.
+Desde la estación de metro (MTR) de Tsim Sha Tsui hay un corto paseo hasta el museo: basta con seguir las indicaciones hacia el Centro Cultural y el muelle del Star Ferry. Si viene desde la isla de Hong Kong, el Star Ferry que sale de Central lo dejará prácticamente a las puertas del museo.
 
-Las entradas, tanto la general como las del Sky Show, suelen comprarse en la taquilla o en las máquinas expendedoras del museo, y se aceptan tanto efectivo como tarjeta. Los precios son modestos en comparación con otros museos, aunque conviene confirmar las tarifas vigentes antes de ir, ya que pueden actualizarse.
+Tanto la entrada general como la del Sky Show suelen adquirirse en taquilla o en las máquinas expendedoras del propio museo, que aceptan efectivo y tarjeta. Los precios son módicos para lo que se estila en los museos, aunque se revisan de vez en cuando, así que confirme las tarifas vigentes antes de ir.
 
-## Cómo aprovechar al máximo la visita
+## Cómo sacar el máximo partido a la visita
 
-Conviene reservar entre una hora y media y dos horas: tiempo suficiente para recorrer ambas salas de exhibición y ver una función del Sky Show. Se puede combinar con un paseo por la cercana Avenida de las Estrellas o con un café en el Centro Cultural si queda algo de tiempo libre entre la llegada y el horario de la función.
+Calcule entre una hora y media y dos horas: tiempo suficiente para las dos salas de exposiciones y una sesión del Sky Show. Si le sobra un rato entre la llegada y el comienzo de su sesión, aprovéchelo para pasear por la vecina Avenida de las Estrellas o para tomar un café en el Centro Cultural.
 
-El museo también es una buena opción para los días de lluvia, dado que buena parte del resto del atractivo de Tsim Sha Tsui se encuentra al aire libre, junto al puerto.
+El museo es también un buen plan para los días de lluvia, ya que buena parte del encanto de Tsim Sha Tsui se disfruta al aire libre, junto al puerto.

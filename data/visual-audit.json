@@ -2838,11 +2838,23 @@
   "reason": "patrol replace: Plated dessert with whipped cream, citrus, trendy Barcelona ",
   "at": "2026-10-01T23:23:06.518Z"
  },
+ "barra-chapel-of-our-lady-of-penha\u0001https://upload.wikimedia.org/wikipedia/commons/6/6f/Chapel_of_Our_Lady_of_Penha%2C_Macau_-_panoramio.jpg": {
+  "slug": "barra-chapel-of-our-lady-of-penha",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior altar with statue, representative of chapel",
+  "at": "2026-10-08T14:47:42.635Z"
+ },
  "barra-lilau-square\u0001https://upload.wikimedia.org/wikipedia/commons/1/1b/%E4%BA%9E%E5%A9%86%E4%BA%95%E5%89%8D%E5%9C%B0_Lilau_Square_-_panoramio.jpg": {
   "slug": "barra-lilau-square",
   "verdict": "MATCH",
   "reason": "publish gate: Narrow Macau street with colonial buildings, plausible Lilau Square area",
   "at": "2026-10-06T14:38:33.691Z"
+ },
+ "barra-mandarin-s-house\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mandarin%27s_House%2C_2023_%2806%29.jpg/1920px-Mandarin%27s_House%2C_2023_%2806%29.jpg": {
+  "slug": "barra-mandarin-s-house",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior courtyard view of Mandarin's House, Macau",
+  "at": "2026-10-08T14:47:01.370Z"
  },
  "barra-maritime-museum\u0001https://upload.wikimedia.org/wikipedia/commons/6/6b/Macau_Maritime_Museum_-_panoramio.jpg": {
   "slug": "barra-maritime-museum",
@@ -5815,6 +5827,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Night view of Cotai Strip with City of Dreams sign",
   "at": "2026-10-06T14:26:23.403Z"
+ },
+ "cotai-the-venetian-macao\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/MC_%E6%BE%B3%E9%96%80_Macau_%E8%B7%AF%E6%B0%B9_Taipa_%E9%87%91%E5%85%89%E5%A4%A7%E9%81%93_Cotai_hotel_shuttle_view_November_2019_SS2_07_The_Venetian_Macao_bridge.jpg/1920px-MC_%E6%BE%B3%E9%96%80_Macau_%E8%B7%AF%E6%B0%B9_Taipa_%E9%87%91%E5%85%89%E5%A4%A7%E9%81%93_Cotai_hotel_shuttle_view_November_2019_SS2_07_The_Venetian_Macao_bridge.jpg": {
+  "slug": "cotai-the-venetian-macao",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Venetian Macao exterior with bridge and campanile",
+  "at": "2026-10-08T14:46:09.940Z"
  },
  "cozumel-margaritaville-cozumel\u0001https://upload.wikimedia.org/wikipedia/commons/c/cf/Margaritaville_Cozumel_2023.jpg": {
   "slug": "cozumel-margaritaville-cozumel",
@@ -14171,17 +14189,35 @@
   "reason": "publish gate: Shows A-Ma Temple entrance and grounds in Macau",
   "at": "2026-10-06T14:27:09.947Z"
  },
+ "macau-peninsula-lin-fung-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lin_Fung_Temple_Macau._Aug._2015._A.JPG/3840px-Lin_Fung_Temple_Macau._Aug._2015._A.JPG": {
+  "slug": "macau-peninsula-lin-fung-temple",
+  "verdict": "MATCH",
+  "reason": "publish gate: Temple entrance facade matches Lin Fung Temple, Macau",
+  "at": "2026-10-08T14:45:10.990Z"
+ },
  "macau-peninsula-lou-kau-mansion\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/20250806_Main_hall_of_the_Lou_Kau_Mansion.jpg/3840px-20250806_Main_hall_of_the_Lou_Kau_Mansion.jpg": {
   "slug": "macau-peninsula-lou-kau-mansion",
   "verdict": "MATCH",
   "reason": "publish gate: Representative interior hall view of Lou Kau Mansion",
   "at": "2026-10-06T14:37:53.933Z"
  },
+ "macau-peninsula-macau-museum-of-art\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Macao_Museum_of_Art_01.JPG/1920px-Macao_Museum_of_Art_01.JPG": {
+  "slug": "macau-peninsula-macau-museum-of-art",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of museum building with flags, plausible hero shot",
+  "at": "2026-10-08T14:49:21.713Z"
+ },
  "macau-peninsula-senado-square\u0001https://upload.wikimedia.org/wikipedia/commons/2/2c/Senado_Square_in_Macau01.jpg": {
   "slug": "macau-peninsula-senado-square",
   "verdict": "MATCH",
   "reason": "publish gate: Shows Senado Square with Holy House of Mercy building",
   "at": "2026-10-06T14:33:46.668Z"
+ },
+ "macau-peninsula-wong-chi-kei\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Largo_do_Senado_Wong_Chi_Kei_25-03-2023.jpg/3840px-Largo_do_Senado_Wong_Chi_Kei_25-03-2023.jpg": {
+  "slug": "macau-peninsula-wong-chi-kei",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior entrance with restaurant signage, representative storefront view",
+  "at": "2026-10-08T14:48:27.153Z"
  },
  "macau-red-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Red_Market%2C_Macau_-_interior.jpg/3840px-Red_Market%2C_Macau_-_interior.jpg": {
   "slug": "macau-red-market",
@@ -16023,6 +16059,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Garden with flowers and structure, representative of Flora Garden",
   "at": "2026-10-07T07:46:28.021Z"
+ },
+ "nape-macao-grand-prix-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Macao_Grand_Prix_Museum_20-07-2023.jpg/3840px-Macao_Grand_Prix_Museum_20-07-2023.jpg": {
+  "slug": "nape-macao-grand-prix-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior facade with museum name clearly shown",
+  "at": "2026-10-08T14:44:31.610Z"
  },
  "nape-macau-fisherman-s-wharf\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Macau_Fisherman%27s_Wharf_06-05-2023.jpg/3840px-Macau_Fisherman%27s_Wharf_06-05-2023.jpg": {
   "slug": "nape-macau-fisherman-s-wharf",

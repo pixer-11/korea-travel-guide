@@ -48,8 +48,7 @@ faq:
   - q: "Can you drink on the street in Lan Kwai Fong?"
     a: "Yes. Hong Kong has no general ban on drinking in public, so crowds commonly carry drinks from bars and convenience stores out onto the lane and D'Aguilar Street."
 aiGenerated: true
-draft: true
-heldReason: wrong-region
+draft: false
 ---
 
 ## A lane that tilts uphill

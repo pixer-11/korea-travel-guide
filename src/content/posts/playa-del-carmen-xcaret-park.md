@@ -75,8 +75,7 @@ faq:
       AM opening and doing the underground rivers first is the best way to stay
       ahead of the tour coaches that arrive later in the morning.
 aiGenerated: true
-draft: true
-heldReason: wrong-region
+draft: false
 updatedDate: '2026-10-07'
 ---
 

@@ -31920,11 +31920,11 @@
   "at": "2026-10-06T14:55:23.856Z"
  },
  "es/coloane-camoes-garden": {
-  "hash": "6a0d760713e0",
+  "hash": "121d1b7db7b7",
   "score": 1,
   "registerBreak": false,
-  "worst": "Su busto de bronce, que es lo que la mayoría de los visitantes viene a ver, se alza en una",
-  "at": "2026-10-07T07:49:54.526Z"
+  "worst": "Lejos de extenderse en llano, el jardín trepa por una pequeña colina.",
+  "at": "2026-10-08T14:57:19.113Z"
  },
  "es/coloane-kun-iam-temple-coloane": {
   "hash": "08f29d76c819",
@@ -31941,11 +31941,11 @@
   "at": "2026-10-07T07:50:02.888Z"
  },
  "ja/coloane-camoes-garden": {
-  "hash": "2bf0b8b04af7",
+  "hash": "ec4e610e4409",
   "score": 1,
   "registerBreak": false,
-  "worst": "鳥の近くでは声を落としましょう。飼い主は鳥同士がさえずりを聞き合えるようにかごをつるしています。",
-  "at": "2026-10-07T07:50:04.184Z"
+  "worst": "かごに入れた小鳥を連れてきて木に吊るす人もいます。これはマカオの古い公園で昔から続く習慣です。",
+  "at": "2026-10-08T14:57:21.462Z"
  },
  "ja/coloane-kun-iam-temple-coloane": {
   "hash": "343df4fb6b18",
@@ -31962,11 +31962,11 @@
   "at": "2026-10-07T07:50:06.473Z"
  },
  "ko/coloane-camoes-garden": {
-  "hash": "6c5c5fbd1056",
+  "hash": "a988bde6bdfa",
   "score": 1,
   "registerBreak": false,
-  "worst": "공원 주변에는 아담하고 조용한 문화유산이 모여 있으며, 공원은 그 한가운데에 있습니다.",
-  "at": "2026-10-07T07:50:07.890Z"
+  "worst": "역사학자들이 이를 입증한 적은 없지만, 공원의 이름은 이 전설에서 나왔습니다.",
+  "at": "2026-10-08T14:57:31.650Z"
  },
  "ko/coloane-kun-iam-temple-coloane": {
   "hash": "fdef85c23a77",
@@ -31983,11 +31983,11 @@
   "at": "2026-10-07T07:50:23.531Z"
  },
  "zh/coloane-camoes-garden": {
-  "hash": "e699cd79296d",
+  "hash": "5fd70fed14b2",
   "score": 1,
   "registerBreak": false,
-  "worst": "要是坐巴士跑去路环村找它，只会白跑一趟，到了另一座岛上也找不到公园。",
-  "at": "2026-10-07T07:50:24.856Z"
+  "worst": "把笼子挂起来，是为了让鸟儿彼此听到对方的歌声",
+  "at": "2026-10-08T14:57:36.864Z"
  },
  "zh/coloane-kun-iam-temple-coloane": {
   "hash": "b92af976729e",
@@ -32086,5 +32086,61 @@
   "registerBreak": false,
   "worst": "银河的中文名是\"澳门银河\"，粤语读作 Ou Mun Ngan Ho。",
   "at": "2026-10-08T09:58:29.296Z"
+ },
+ "es/bangkok-avenged-sevenfold-asia-tour-2026": {
+  "hash": "27676c59845b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Las colas de los puestos de productos avanzan despacio y suelen alcanzar su punto máximo justo al",
+  "at": "2026-10-08T14:57:17.868Z"
+ },
+ "es/coloane-village-bairro-iao-hon-municipal-market": {
+  "hash": "08528f70f34e",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-08T14:57:19.945Z"
+ },
+ "ja/coloane-village-bairro-iao-hon-municipal-market": {
+  "hash": "2c0c643c03d5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "マカオの公営市場は政府が運営する建物で、中には貸し出された店舗がずらりと並んでいます。",
+  "at": "2026-10-08T14:57:22.764Z"
+ },
+ "ja/coloane-village-hac-sa-reservoir-barbecue-park": {
+  "hash": "8cf45a6cfb18",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "もっと歩きごたえがほしい場合は、公園がコロアンの山道ネットワークの入口に位置しているので、そのまま森の奥へ進むこともできます。",
+  "at": "2026-10-08T14:57:24.145Z"
+ },
+ "ko/coloane-village-bairro-iao-hon-municipal-market": {
+  "hash": "118d6c8c5bbb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "기념품 가게도 영어 메뉴판도 없습니다.",
+  "at": "2026-10-08T14:57:32.870Z"
+ },
+ "ko/coloane-village-hac-sa-reservoir-barbecue-park": {
+  "hash": "a34f53891dd7",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-08T14:57:35.650Z"
+ },
+ "zh/coloane-village-bairro-iao-hon-municipal-market": {
+  "hash": "15e633908f35",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "场内的摊位对外出租，主要任务是保障周边居民的日常买菜需求。",
+  "at": "2026-10-08T14:57:42.162Z"
+ },
+ "zh/coloane-village-hac-sa-reservoir-barbecue-park": {
+  "hash": "8a1d4391f704",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "不少人专程前来，不为烧烤，就是冲着这条步道。",
+  "at": "2026-10-08T14:57:43.538Z"
  }
 }

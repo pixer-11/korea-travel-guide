@@ -50,8 +50,7 @@ faq:
   - q: "What else is nearby?"
     a: "A-Ma Temple is directly opposite. The Moorish Barracks, Lilau Square, the Mandarin's House and Penha Hill are all within roughly 15 minutes on foot."
 aiGenerated: true
-draft: true
-heldReason: wrong-region
+draft: false
 ---
 
 ## A white hull at the harbour mouth
