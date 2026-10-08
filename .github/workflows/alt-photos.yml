@@ -287,6 +287,15 @@ jobs:
             KEYS="$TENSE_KEYS" LIMIT=24 BATCH=8 node scripts/repair-flagged-translations.mjs 2>&1 | tail -6 || true
           fi
 
+      # A singer's guide wears the singer (픽서님 10-06/10-08): a live concert
+      # guide born wearing the arena gets the act's Commons-category photo when
+      # one passes vision. Each guide+hero pair is tried once (tried ledger).
+      - name: Give concert guides their act's photo
+        if: steps.gate.outputs.on == 'true'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/upgrade-performer-heroes.mjs | tail -25
+
       - name: Fill the rest with a photo of their city
         if: steps.gate.outputs.on == 'true'
         # Vision now confirms a Commons pick is a view of the place (2026-10-06:
@@ -335,7 +344,7 @@ jobs:
           # were staged, so every night's counts died with the runner (the clock
           # never advanced in CI) and a firing retirement would have shipped the
           # post deletion WITHOUT its redirect: a 404 where a 301 was promised.
-          git add src/content/posts src/content/i18n public/wall data/wall.json data/visual-audit.json data/photo-retry.json data/performer-category-heroes.json $( [ -f data/prose-patches.json ] && echo data/prose-patches.json ) data/retired-posts.json data/hero-width-queue.json data/hero-focus.json data/region-covers.json
+          git add src/content/posts src/content/i18n public/wall data/wall.json data/visual-audit.json data/photo-retry.json data/performer-category-heroes.json data/performer-upgrade-tried.json $( [ -f data/prose-patches.json ] && echo data/prose-patches.json ) data/retired-posts.json data/hero-width-queue.json data/hero-focus.json data/region-covers.json
           if git diff --staged --quiet; then
             echo "No photo changes."
           else

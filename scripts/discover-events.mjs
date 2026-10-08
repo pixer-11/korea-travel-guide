@@ -14,7 +14,7 @@
 // ─────────────────────────────────────────────────────────────
 import './lib/env.mjs';
 import { readFile, writeFile, readdir, mkdir } from 'node:fs/promises';
-import { existsSync } from 'node:fs';
+import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import Anthropic from '@anthropic-ai/sdk';
@@ -22,7 +22,8 @@ import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cos
 import { makeTitle } from './lib/titles.mjs';
 import matter from 'gray-matter';
 import { topicKey } from './lib/topic-key.mjs';
-import { keyToken, tokens as nameTokens } from './lib/commons.mjs';
+import { keyToken, tokens as nameTokens, performerCategoryPhotos, eventCategoryPhotos } from './lib/commons.mjs';
+import { isUsedImage } from './lib/hero-url.mjs';
 import { eventKey, isEventTwin } from './lib/event-twin.mjs';
 import { eventProperName, eventAcronym } from '../src/lib/eventName.mjs';
 import { normalizeOffer, normalizePerformer } from '../src/lib/eventOffers.mjs';
@@ -292,7 +293,33 @@ async function writeDiscovered(item, ctx) {
   ]);
   const anchor = cat === 'event' ? keyToken(item.name, `${item.city || ''} ${country || ''}`) : '';
   let hero = null;
-  for (let turn = 0; turn < (cat === 'event' ? 8 : 1); turn++) {
+  // Category photos FIRST, at birth (2026-10-08). A singer's guide used to be
+  // born wearing the arena (BABYMONSTER Bangkok → IMPACT Arena) because the
+  // text search answers with the venue, and the night patrol never revisits a
+  // live guide that has a photo — so the act's own photos, sitting in
+  // Category:Babymonster, never got a turn. The act's category, then the
+  // event's own (past editions), each vision-checked here; the first that
+  // passes is the hero, and its category is recorded as the identity proof
+  // audit-event-hero-identity reads. Nothing passes → the search below.
+  let preVerified = null;
+  if (cat === 'event') {
+    const performer = typeof item.performer === 'string' ? item.performer.trim() : '';
+    const pool = [];
+    try { if (performer) pool.push(...await performerCategoryPhotos(performer, { limit: 6 })); } catch {}
+    try { pool.push(...await eventCategoryPhotos(item.name, { region: item.city || '', limit: 6 })); } catch {}
+    let tried = 0;
+    for (const c of pool) {
+      if (tried >= 3) break;
+      if (isUsedImage(ctx.usedImages, c.url)) continue;
+      tried++;
+      const vis = await verifyHeroImage({ url: c.url, name: item.name, category: cat, region: item.city, country, eventMode: true, venue: eventVenue });
+      if (!vis.ok) { console.log(`   ${item.name}: category photo rejected (${vis.reason})`); continue; }
+      hero = c; preVerified = vis;
+      console.log(`   ${item.name}: hero from Category:${c.category}`);
+      break;
+    }
+  }
+  for (let turn = 0; !preVerified && turn < (cat === 'event' ? 8 : 1); turn++) {
     const pick = await resolveHero({
       namedVenue: item.name,
       venue: eventVenue,
@@ -328,7 +355,7 @@ async function writeDiscovered(item, ctx) {
   // event post is a fine outcome, a wrong photo is not. Fail closed: an
   // unverifiable image (API down) is treated as unverified and dropped.
   if (heroImage) {
-    const vis = await verifyHeroImage({
+    const vis = preVerified ?? await verifyHeroImage({
       url: heroImage.url, name: item.name, category: cat,
       region: item.city, country, eventMode: cat === 'event',
       venue: cat === 'event' && typeof item.venue === 'string' ? item.venue.trim() : '',
@@ -348,6 +375,14 @@ async function writeDiscovered(item, ctx) {
       // posts that were all held back at publish — a full generation each,
       // paid and shelved, for a field the vision call had already returned.
       if (vis.focus) heroImage = { ...heroImage, focus: vis.focus };
+      if (preVerified && hero?.category) {
+        try {
+          const p = 'data/performer-category-heroes.json';
+          const proof = existsSync(p) ? JSON.parse(readFileSync(p, 'utf8')) : {};
+          proof[slug] = { url: heroImage.url, category: hero.category, at: new Date().toISOString() };
+          writeFileSync(p, JSON.stringify(proof, null, 1) + String.fromCharCode(10));
+        } catch {}
+      }
     }
   }
 

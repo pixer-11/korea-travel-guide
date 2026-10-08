@@ -14,13 +14,15 @@ eventPerformer:
   kind: group
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Unifi_Arena_1st.jpg/3840px-Unifi_Arena_1st.jpg
-  credit: 'Photo: Hiroki.loh.st / Wikimedia Commons (CC BY-SA 4.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/4/44/Rora_20260905_Manila.jpg
+  credit: 'Photo: Farouk Azim / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Unifi_Arena_1st.jpg
+  source: https://commons.wikimedia.org/wiki/File:Rora_20260905_Manila.jpg
   focus:
-    x: 65
-    'y': 55
+    x: 46
+    'y': 24
+    top: 15
+    bottom: 33
 gallery: []
 tags:
   - kuala lumpur

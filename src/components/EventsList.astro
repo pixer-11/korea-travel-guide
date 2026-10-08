@@ -1,4 +1,5 @@
 ---
+import BrandPin from './BrandPin.astro';
 // The list half of both events hubs (/events/ and /events/<country>/), shared
 // so the two cannot drift. Redesign 2026-09-24:
 //
@@ -238,7 +239,7 @@ const row = (p: any, withBadge = true) => ({ p, cat: catOf(p), b: withBadge ? ba
                   <li hidden={endingCards.includes(p)} data-category={cat} data-start={iso(p.data.eventStartDate)} data-end={iso(p.data.eventEndDate)} data-tz={tzOf(p)} data-bt={b?.top} data-bd={b?.day}>
                     <a class="ev-row" href={card.href(p.id)}>
                       <span class="ev-badge ev-badge--now" aria-hidden="true"><span class="ev-badge-day">●</span></span>
-                      {((ph) => <span class="ev-thumb" aria-hidden="true">{ph && <img src={ph.src} alt="" loading="lazy" decoding="async" width="160" height="120" style={`object-position:${ph.pos}`} />}</span>)(photoOf(p))}
+                      {((ph) => <span class:list={['ev-thumb', !ph && 'ev-thumb--brand']} aria-hidden="true">{ph ? <img src={ph.src} alt="" loading="lazy" decoding="async" width="160" height="120" style={`object-position:${ph.pos}`} /> : <BrandPin size={26} />}</span>)(photoOf(p))}
                       <span class="ev-main">
                         <strong class="ev-name">{nameOf(p)}</strong>
                         <span class="ev-when">{whenOf(p)}{st && <> · <span data-left>{st.label}</span></>}</span>
@@ -324,7 +325,7 @@ const row = (p: any, withBadge = true) => ({ p, cat: catOf(p), b: withBadge ? ba
           <span class="ev-badge" aria-hidden="true">
             {b ? (<><span class="ev-badge-top">{b.top}</span><span class="ev-badge-day">{b.day}</span></>) : <span class="ev-badge-day">–</span>}
           </span>
-          {((ph) => <span class="ev-thumb" aria-hidden="true">{ph && <img src={ph.src} alt="" loading="lazy" decoding="async" width="160" height="120" style={`object-position:${ph.pos}`} />}</span>)(photoOf(p))}
+          {((ph) => <span class:list={['ev-thumb', !ph && 'ev-thumb--brand']} aria-hidden="true">{ph ? <img src={ph.src} alt="" loading="lazy" decoding="async" width="160" height="120" style={`object-position:${ph.pos}`} /> : <BrandPin size={26} />}</span>)(photoOf(p))}
           <span class="ev-main">
             <strong class="ev-name">{nameOf(p)}</strong>
             <span class="ev-when">{whenOf(p) || tbaLabel}</span>
@@ -400,7 +401,7 @@ const row = (p: any, withBadge = true) => ({ p, cat: catOf(p), b: withBadge ? ba
                     <span class="ev-badge" aria-hidden="true">
                       {b ? (<><span class="ev-badge-top">{b.top}</span><span class="ev-badge-day">{b.day}</span></>) : <span class="ev-badge-day">–</span>}
                     </span>
-                    {((ph) => <span class="ev-thumb" aria-hidden="true">{ph && <img src={ph.src} alt="" loading="lazy" decoding="async" width="160" height="120" style={`object-position:${ph.pos}`} />}</span>)(photoOf(p))}
+                    {((ph) => <span class:list={['ev-thumb', !ph && 'ev-thumb--brand']} aria-hidden="true">{ph ? <img src={ph.src} alt="" loading="lazy" decoding="async" width="160" height="120" style={`object-position:${ph.pos}`} /> : <BrandPin size={26} />}</span>)(photoOf(p))}
                     <span class="ev-main">
                       <strong class="ev-name">{nameOf(p)}</strong>
                       <span class="ev-when">{whenOf(p)}</span>
@@ -796,13 +797,15 @@ const row = (p: any, withBadge = true) => ({ p, cat: catOf(p), b: withBadge ? ba
   }
   .ev-badge-top { font-size: .68rem; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
   .ev-badge-day { font-size: 1.2rem; font-weight: 800; font-family: var(--font-display); }
-  /* A small photo of the guide (픽서님 10-08). No photo, an empty sand tile of
-     the same size — the rows stay aligned and nothing pretends to be the event. */
+  /* A small photo of the guide (픽서님 10-08). No photo, the brand pin on a sand
+     tile of the same size — the rows stay aligned and nothing pretends to be the event. */
   .ev-thumb {
     grid-row: span 2; align-self: center; display: block; width: 100%; aspect-ratio: 4 / 3;
     border-radius: 12px; overflow: hidden; background: var(--ev-sand);
   }
   .ev-thumb img { display: block; width: 100%; height: 100%; object-fit: cover; }
+  /* No photo anywhere: the brand pin, not an empty box (픽서님 10-08). */
+  .ev-thumb--brand { display: grid; place-items: center; }
   .ev-main { display: flex; flex-direction: column; gap: .1rem; min-width: 0; }
   .ev-meta { display: flex; flex-wrap: wrap; align-items: center; gap: .25rem .6rem; min-width: 0; }
   @media (min-width: 760px) {

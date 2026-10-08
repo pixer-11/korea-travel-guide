@@ -1,4 +1,5 @@
 ---
+import BrandPin from './BrandPin.astro';
 /* The cover a guide wears when it has no photograph.
 
    Nine live guides are published photoless on purpose (small venues with no
@@ -24,10 +25,13 @@ interface Props {
   size?: 'hero' | 'card';
 }
 const { kicker, name, meta, size = 'card' } = Astro.props;
+// The brand mark tops the plate (픽서님 10-08): a photoless card reads as ours,
+// not as a missing image.
 ---
 
 <div class:list={['typeset', `typeset--${size}`]} aria-hidden="true">
   <div class="typeset-plate">
+    <span class="typeset-brand"><BrandPin size={size === 'hero' ? 40 : 22} /><span class="typeset-wordmark">Wander Atlas</span></span>
     {kicker && <span class="typeset-kicker">{kicker}</span>}
     <strong class="typeset-name">{name}</strong>
     {meta && <span class="typeset-meta">{meta}</span>}

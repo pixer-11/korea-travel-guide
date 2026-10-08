@@ -33,13 +33,13 @@ faq:
 aiGenerated: true
 draft: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Palazzo_dello_Sport_%28Rome%29_in_2018.11.jpg/3840px-Palazzo_dello_Sport_%28Rome%29_in_2018.11.jpg
-  credit: 'Photo: CAPTAIN RAJU / Wikimedia Commons (Public domain)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Pause_Guitare_2015_dim_f-0504.jpg/3840px-Pause_Guitare_2015_dim_f-0504.jpg
+  credit: 'Photo: Gyrostat / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Palazzo_dello_Sport_(Rome)_in_2018.11.jpg
+  source: https://commons.wikimedia.org/wiki/File:Pause_Guitare_2015_dim_f-0504.jpg
   focus:
     x: 50
-    'y': 45
+    'y': 40
 ---
 
 ## One night under Nervi's dome

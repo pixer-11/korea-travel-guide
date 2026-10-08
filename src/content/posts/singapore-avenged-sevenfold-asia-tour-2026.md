@@ -33,13 +33,15 @@ faq:
 aiGenerated: true
 draft: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Singapore_Indoor_Stadium.jpg/1920px-Singapore_Indoor_Stadium.jpg
-  credit: 'Photo: Exec8 / Wikimedia Commons (CC BY-SA 4.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/6/68/Avenged_Sevenfold_in_Bercy_1.jpg
+  credit: 'Photo: Metalheart / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Singapore_Indoor_Stadium.jpg
+  source: https://commons.wikimedia.org/wiki/File:Avenged_Sevenfold_in_Bercy_1.jpg
   focus:
-    x: 50
-    'y': 45
+    x: 46
+    'y': 39
+    top: 35
+    bottom: 43
 ---
 ## Why this show matters
 

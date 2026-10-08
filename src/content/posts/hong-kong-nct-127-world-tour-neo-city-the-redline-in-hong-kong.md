@@ -13,12 +13,12 @@ eventPerformer:
   kind: group
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/b/b1/%EC%95%84%EB%9E%98_%EB%B9%9B%EB%82%98%EB%8A%94_%40LA_%28NCT_127%29_01.png
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/NCT_127_at_KBEE_2018_-_Moscow_Expo_Hallyu_Promotional_Ambassadors_Appointment_Ceremony_01.png/3840px-NCT_127_at_KBEE_2018_-_Moscow_Expo_Hallyu_Promotional_Ambassadors_Appointment_Ceremony_01.png
   credit: 'Photo: dispatchsns / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:%EC%95%84%EB%9E%98_%EB%B9%9B%EB%82%98%EB%8A%94_@LA_(NCT_127)_01.png
+  source: https://commons.wikimedia.org/wiki/File:NCT_127_at_KBEE_2018_-_Moscow_Expo_Hallyu_Promotional_Ambassadors_Appointment_Ceremony_01.png
   focus:
-    x: 44
+    x: 56
     'y': 18
     top: 10
     bottom: 25

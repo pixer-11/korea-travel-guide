@@ -15,13 +15,15 @@ eventPerformer:
   kind: group
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/8/8d/Hong_Kong_skyscrapers_in_a_night_of_typhoon.jpg'
-  credit: 'Photo: Wilfredor / Wikimedia Commons (CC0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/b/b1/Simple_Plan_%40_Janus_Landing.jpeg
+  credit: 'Photo: Nick Starr from Tampa Bay, Fl / Wikimedia Commons (CC BY-SA 2.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Hong_Kong_skyscrapers_in_a_night_of_typhoon.jpg'
+  source: https://commons.wikimedia.org/wiki/File:Simple_Plan_@_Janus_Landing.jpeg
   focus:
-    x: 50
-    y: 40
+    x: 66
+    'y': 28
+    top: 24
+    bottom: 32
 gallery: []
 tags:
   - hong kong

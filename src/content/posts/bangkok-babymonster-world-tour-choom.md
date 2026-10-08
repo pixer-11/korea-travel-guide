@@ -17,13 +17,15 @@ eventPerformer:
   kind: group
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/9/97/IMPACT_Arena.jpg
-  credit: 'Photo: Banphot Nuchleang (Octahedron80) / Wikimedia Commons (CC BY 3.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ruka_and_Chiquita_20-06-2025.jpg/3840px-Ruka_and_Chiquita_20-06-2025.jpg
+  credit: 'Photo: Farouk Azim / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:IMPACT_Arena.jpg
+  source: https://commons.wikimedia.org/wiki/File:Ruka_and_Chiquita_20-06-2025.jpg
   focus:
-    x: 50
-    'y': 40
+    x: 36
+    'y': 23
+    top: 13
+    bottom: 32
 gallery: []
 tags:
   - bangkok

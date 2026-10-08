@@ -14,13 +14,15 @@ eventPerformer:
   kind: group
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Taipei_Arena_20170813.jpg/1920px-Taipei_Arena_20170813.jpg'
-  credit: 'Photo: Solomon203 / Wikimedia Commons (CC BY-SA 4.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/6/6b/230127_XG_Music_Bank_02.png
+  credit: 'Photo: K-POPIT 케이팝잇 TV10 / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Taipei_Arena_20170813.jpg'
+  source: https://commons.wikimedia.org/wiki/File:230127_XG_Music_Bank_02.png
   focus:
-    x: 50
-    y: 40
+    x: 53
+    'y': 14
+    top: 2
+    bottom: 25
 gallery: []
 tags:
   - taipei

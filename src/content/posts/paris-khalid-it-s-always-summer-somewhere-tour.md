@@ -31,13 +31,15 @@ faq:
 aiGenerated: true
 draft: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Paris-Salle_Pleyel_P1260667.jpg/3840px-Paris-Salle_Pleyel_P1260667.jpg
-  credit: 'Photo: Ermell / Wikimedia Commons (CC BY-SA 4.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Khalid_World_Pride_DC_02.jpg/1920px-Khalid_World_Pride_DC_02.jpg
+  credit: 'Photo: Thesavagenorwegian / Wikimedia Commons (CC BY 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Paris-Salle_Pleyel_P1260667.jpg
+  source: https://commons.wikimedia.org/wiki/File:Khalid_World_Pride_DC_02.jpg
   focus:
-    x: 50
-    'y': 60
+    x: 36
+    'y': 33
+    top: 28
+    bottom: 38
 ---
 Khalid's tour is called It's Always Summer Somewhere, and the Paris stop lands at Salle Pleyel on October 18, 2026. That title is a deliberate contrast to the room he's playing: Salle Pleyel is one of the city's grand old concert halls, not a beach.
 

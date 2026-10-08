@@ -14,15 +14,15 @@ eventPerformer:
   kind: group
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/5sos-NZ4A4323.jpg/3840px-5sos-NZ4A4323.jpg
-  credit: 'Photo: Alex Goykhman / Wikimedia Commons (CC BY-SA 4.0)'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/5_Seconds_of_Summer_at_Enmore_Theatre%2C_Sydney%2C_30.04.14.jpg/3840px-5_Seconds_of_Summer_at_Enmore_Theatre%2C_Sydney%2C_30.04.14.jpg
+  credit: 'Photo: Sharkywoo / Wikimedia Commons (CC BY-SA 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:5sos-NZ4A4323.jpg
+  source: https://commons.wikimedia.org/wiki/File:5_Seconds_of_Summer_at_Enmore_Theatre,_Sydney,_30.04.14.jpg
   focus:
-    x: 64
-    'y': 15
-    top: 6
-    bottom: 24
+    x: 45
+    'y': 50
+    top: 47
+    bottom: 52
 gallery: []
 tags:
   - manila

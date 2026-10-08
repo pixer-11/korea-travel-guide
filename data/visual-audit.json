@@ -1691,6 +1691,12 @@
   "reason": "event publish gate: Shows IMPACT Arena venue exterior with signage",
   "at": "2026-10-08T00:33:52.120Z"
  },
+ "bangkok-babymonster-world-tour-choom\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ruka_and_Chiquita_20-06-2025.jpg/3840px-Ruka_and_Chiquita_20-06-2025.jpg": {
+  "slug": "bangkok-babymonster-world-tour-choom",
+  "verdict": "MATCH",
+  "reason": "performer upgrade: Performer photo appropriate for BABYMONSTER tour article",
+  "at": "2026-10-08T14:48:16.540Z"
+ },
  "bangkok-bangkok-international-festival-of-dance-music\u0001https://upload.wikimedia.org/wikipedia/commons/4/4f/Gonenim_music_and_dance_center1271.jpg": {
   "slug": "bangkok-bangkok-international-festival-of-dance-music",
   "verdict": "MISMATCH",
@@ -9055,6 +9061,12 @@
   "reason": "event publish gate: Group photo of NCT 127 members, valid hero",
   "at": "2026-10-08T01:16:33.930Z"
  },
+ "hong-kong-nct-127-world-tour-neo-city-the-redline-in-hong-kong\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/NCT_127_at_KBEE_2018_-_Moscow_Expo_Hallyu_Promotional_Ambassadors_Appointment_Ceremony_01.png/3840px-NCT_127_at_KBEE_2018_-_Moscow_Expo_Hallyu_Promotional_Ambassadors_Appointment_Ceremony_01.png": {
+  "slug": "hong-kong-nct-127-world-tour-neo-city-the-redline-in-hong-kong",
+  "verdict": "MATCH",
+  "reason": "performer upgrade: Group photo of NCT 127 members at event",
+  "at": "2026-10-08T14:49:47.244Z"
+ },
  "hong-kong-po-lin-monastery\u0001https://fastly.4sqi.net/img/general/original/12554873_18Z4VgZa4cRZ56nAgNcFrdrQFcgxPL3eifL_kAbRQ0E.jpg": {
   "slug": "hong-kong-po-lin-monastery",
   "verdict": "MATCH",
@@ -9074,6 +9086,12 @@
   "reason": "hero is only 592px wide — unusable as a banner",
   "reasonKo": "사진이 592px로 너무 작음",
   "at": "2026-10-01T23:40:19.596Z"
+ },
+ "hong-kong-simple-plan-bigger-than-you-think-tour\u0001https://upload.wikimedia.org/wikipedia/commons/b/b1/Simple_Plan_%40_Janus_Landing.jpeg": {
+  "slug": "hong-kong-simple-plan-bigger-than-you-think-tour",
+  "verdict": "MATCH",
+  "reason": "performer upgrade: Performer singing on stage, correct event type",
+  "at": "2026-10-08T14:50:16.558Z"
  },
  "hong-kong-socio\u0001https://fastly.4sqi.net/img/general/original/1379934504_WOvwQHGp-JjSBFxvkQAMg5uRyVNOwItad2AHuP_FF8g.jpg": {
   "slug": "hong-kong-socio",
@@ -12320,6 +12338,12 @@
   "reason": "event-mode back-audit: Performer singing on stage, matches concert event type",
   "at": "2026-08-07T13:03:46.184Z"
  },
+ "kuala-lumpur-babymonster-world-tour-choom\u0001https://upload.wikimedia.org/wikipedia/commons/4/44/Rora_20260905_Manila.jpg": {
+  "slug": "kuala-lumpur-babymonster-world-tour-choom",
+  "verdict": "MATCH",
+  "reason": "performer upgrade: Concert performer on stage, matches event type",
+  "at": "2026-10-08T14:50:48.678Z"
+ },
  "kuala-lumpur-batu-caves\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Batu_Caves_stairs_2022-05.jpg/1920px-Batu_Caves_stairs_2022-05.jpg": {
   "slug": "kuala-lumpur-batu-caves",
   "verdict": "MATCH",
@@ -14649,6 +14673,12 @@
   "verdict": "MATCH",
   "reason": "event-mode back-audit: MotoGP race pack action, valid event photo",
   "at": "2026-09-13T16:21:26.647Z"
+ },
+ "manila-5sos-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/5_Seconds_of_Summer_at_Enmore_Theatre%2C_Sydney%2C_30.04.14.jpg/3840px-5_Seconds_of_Summer_at_Enmore_Theatre%2C_Sydney%2C_30.04.14.jpg": {
+  "slug": "manila-5sos-everyone-s-a-star-world-tour",
+  "verdict": "MATCH",
+  "reason": "performer upgrade: Live 5SOS concert performance, valid for tour event",
+  "at": "2026-10-08T14:51:18.950Z"
  },
  "manila-5sos-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/5sos-NZ4A4323.jpg/3840px-5sos-NZ4A4323.jpg": {
   "slug": "manila-5sos-everyone-s-a-star-world-tour",
@@ -17771,6 +17801,12 @@
   "reason": "patrol replace: Salle Pleyel facade with venue name visible",
   "at": "2026-09-24T22:45:38.091Z"
  },
+ "paris-khalid-it-s-always-summer-somewhere-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Khalid_World_Pride_DC_02.jpg/1920px-Khalid_World_Pride_DC_02.jpg": {
+  "slug": "paris-khalid-it-s-always-summer-somewhere-tour",
+  "verdict": "MATCH",
+  "reason": "performer upgrade: Performer on stage at concert event, valid hero",
+  "at": "2026-10-08T14:51:34.009Z"
+ },
  "paris-kubaba\u0001https://fastly.4sqi.net/img/general/original/340651150__oE0Mn237pUeFfqfFHv1wfpyS_V30Umzf6F1exglkFw.jpg": {
   "slug": "paris-kubaba",
   "verdict": "MATCH",
@@ -19356,6 +19392,12 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Palazzo dello Sport exterior, Rome venue",
   "at": "2026-10-01T23:36:30.336Z"
+ },
+ "rome-bob-dylan-rome-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Pause_Guitare_2015_dim_f-0504.jpg/3840px-Pause_Guitare_2015_dim_f-0504.jpg": {
+  "slug": "rome-bob-dylan-rome-2026",
+  "verdict": "MATCH",
+  "reason": "performer upgrade: Bob Dylan tour shirt, concert crowd, relevant event photo",
+  "at": "2026-10-08T14:52:21.337Z"
  },
  "rome-colosseum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Colosseum_in_Rome-April_2007-1-_copie_2B.jpg/1920px-Colosseum_in_Rome-April_2007-1-_copie_2B.jpg": {
   "slug": "rome-colosseum",
@@ -21994,9 +22036,9 @@
  },
  "singapore-avenged-sevenfold-asia-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/6/68/Avenged_Sevenfold_in_Bercy_1.jpg": {
   "slug": "singapore-avenged-sevenfold-asia-tour-2026",
-  "verdict": "MISMATCH",
-  "reason": "patrol reject: identity: Commons places this in Paris, post says Singapore",
-  "at": "2026-08-29T02:32:58.306Z"
+  "verdict": "MATCH",
+  "reason": "performer upgrade: Concert performer on stage, fits band tour event",
+  "at": "2026-10-08T14:52:39.351Z"
  },
  "singapore-avenged-sevenfold-asia-tour-2026\u0001https://upload.wikimedia.org/wikipedia/commons/b/bc/Avenged_Sevenfold_in_Bercy_5.jpg": {
   "slug": "singapore-avenged-sevenfold-asia-tour-2026",
@@ -23566,6 +23608,12 @@
   "reason": "Chiang Kai-shek Memorial Hall, iconic Taipei landmark",
   "reasonKo": "타이베이 대표 랜드마크, 국부기념관",
   "at": "2026-08-06T03:08:03.941Z"
+ },
+ "taipei-xg-taipei-arena-concert\u0001https://upload.wikimedia.org/wikipedia/commons/6/6b/230127_XG_Music_Bank_02.png": {
+  "slug": "taipei-xg-taipei-arena-concert",
+  "verdict": "MATCH",
+  "reason": "performer upgrade: Group photo of XG members, valid performer hero image",
+  "at": "2026-10-08T14:53:01.292Z"
  },
  "taipei-xg-taipei-arena-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Taipei_Arena_20170813.jpg/1920px-Taipei_Arena_20170813.jpg": {
   "slug": "taipei-xg-taipei-arena-concert",
