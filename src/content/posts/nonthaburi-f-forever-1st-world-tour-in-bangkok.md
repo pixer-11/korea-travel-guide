@@ -7,16 +7,6 @@ category: event
 pubDate: '2026-07-29'
 eventStartDate: '2026-08-01'
 eventEndDate: '2026-08-02'
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/d/db/Oasis_Live_Forever_Concert_In_Taipei.jpg
-  credit: 'Photo: 黃 zero / Wikimedia Commons (CC BY-SA 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Oasis_Live_Forever_Concert_In_Taipei.jpg
-  focus:
-    x: 38
-    'y': 11
-    top: 2
-    bottom: 20
 tags:
   - nonthaburi
   - event

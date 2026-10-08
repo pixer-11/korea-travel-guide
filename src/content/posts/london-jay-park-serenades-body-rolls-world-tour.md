@@ -13,16 +13,6 @@ eventPerformer:
   name: Jay Park
   kind: person
 eventFactsAsked: true
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/e/e9/JAY_%28ENHYPEN%29_220624.jpg
-  credit: 'Photo: mang2goon / Wikimedia Commons (CC BY 3.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:JAY_(ENHYPEN)_220624.jpg
-  focus:
-    x: 46
-    'y': 20
-    top: 2
-    bottom: 37
 gallery: []
 tags:
   - london
