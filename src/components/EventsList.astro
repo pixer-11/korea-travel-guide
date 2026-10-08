@@ -238,6 +238,7 @@ const row = (p: any, withBadge = true) => ({ p, cat: catOf(p), b: withBadge ? ba
                   <li hidden={endingCards.includes(p)} data-category={cat} data-start={iso(p.data.eventStartDate)} data-end={iso(p.data.eventEndDate)} data-tz={tzOf(p)} data-bt={b?.top} data-bd={b?.day}>
                     <a class="ev-row" href={card.href(p.id)}>
                       <span class="ev-badge ev-badge--now" aria-hidden="true"><span class="ev-badge-day">●</span></span>
+                      {((ph) => <span class="ev-thumb" aria-hidden="true">{ph && <img src={ph.src} alt="" loading="lazy" decoding="async" width="160" height="120" style={`object-position:${ph.pos}`} />}</span>)(photoOf(p))}
                       <span class="ev-main">
                         <strong class="ev-name">{nameOf(p)}</strong>
                         <span class="ev-when">{whenOf(p)}{st && <> · <span data-left>{st.label}</span></>}</span>
@@ -323,6 +324,7 @@ const row = (p: any, withBadge = true) => ({ p, cat: catOf(p), b: withBadge ? ba
           <span class="ev-badge" aria-hidden="true">
             {b ? (<><span class="ev-badge-top">{b.top}</span><span class="ev-badge-day">{b.day}</span></>) : <span class="ev-badge-day">–</span>}
           </span>
+          {((ph) => <span class="ev-thumb" aria-hidden="true">{ph && <img src={ph.src} alt="" loading="lazy" decoding="async" width="160" height="120" style={`object-position:${ph.pos}`} />}</span>)(photoOf(p))}
           <span class="ev-main">
             <strong class="ev-name">{nameOf(p)}</strong>
             <span class="ev-when">{whenOf(p) || tbaLabel}</span>
@@ -398,6 +400,7 @@ const row = (p: any, withBadge = true) => ({ p, cat: catOf(p), b: withBadge ? ba
                     <span class="ev-badge" aria-hidden="true">
                       {b ? (<><span class="ev-badge-top">{b.top}</span><span class="ev-badge-day">{b.day}</span></>) : <span class="ev-badge-day">–</span>}
                     </span>
+                    {((ph) => <span class="ev-thumb" aria-hidden="true">{ph && <img src={ph.src} alt="" loading="lazy" decoding="async" width="160" height="120" style={`object-position:${ph.pos}`} />}</span>)(photoOf(p))}
                     <span class="ev-main">
                       <strong class="ev-name">{nameOf(p)}</strong>
                       <span class="ev-when">{whenOf(p)}</span>
@@ -779,7 +782,7 @@ const row = (p: any, withBadge = true) => ({ p, cat: catOf(p), b: withBadge ? ba
   .ev-rows { list-style: none; margin: 0; padding: 0; display: grid; gap: .55rem; }
   .ev-rows > li { border: 0; }
   .ev-row {
-    display: grid; grid-template-columns: 3rem minmax(0, 1fr); column-gap: .9rem; row-gap: .2rem;
+    display: grid; grid-template-columns: 3rem 4rem minmax(0, 1fr); column-gap: .8rem; row-gap: .2rem;
     align-items: start; padding: .65rem 1rem .65rem .65rem; text-decoration: none; color: inherit;
     background: var(--surface); border: 1px solid var(--line-soft); border-radius: 22px;
     transition: transform .15s ease, border-color .15s ease, box-shadow .15s ease;
@@ -793,10 +796,18 @@ const row = (p: any, withBadge = true) => ({ p, cat: catOf(p), b: withBadge ? ba
   }
   .ev-badge-top { font-size: .68rem; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
   .ev-badge-day { font-size: 1.2rem; font-weight: 800; font-family: var(--font-display); }
+  /* A small photo of the guide (픽서님 10-08). No photo, an empty sand tile of
+     the same size — the rows stay aligned and nothing pretends to be the event. */
+  .ev-thumb {
+    grid-row: span 2; align-self: center; display: block; width: 100%; aspect-ratio: 4 / 3;
+    border-radius: 12px; overflow: hidden; background: var(--ev-sand);
+  }
+  .ev-thumb img { display: block; width: 100%; height: 100%; object-fit: cover; }
   .ev-main { display: flex; flex-direction: column; gap: .1rem; min-width: 0; }
   .ev-meta { display: flex; flex-wrap: wrap; align-items: center; gap: .25rem .6rem; min-width: 0; }
   @media (min-width: 760px) {
-    .ev-row { grid-template-columns: 3.5rem minmax(0, 1fr) minmax(0, 13rem) 6.5rem; align-items: center; padding: .7rem 1.2rem .7rem .7rem; }
+    .ev-row { grid-template-columns: 3.5rem 5.5rem minmax(0, 1fr) minmax(0, 13rem) 6.5rem; align-items: center; padding: .7rem 1.2rem .7rem .7rem; }
+    .ev-thumb { grid-row: auto; }
     .ev-badge { grid-row: auto; width: 3.5rem; min-height: 3.5rem; }
     .ev-meta { display: contents; }
     /* .ev-tag carries align-self: start for the stacked phone layout; on the
