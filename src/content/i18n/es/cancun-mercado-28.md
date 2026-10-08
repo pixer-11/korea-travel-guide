@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: cancun-mercado-28
-srcHash: 'd7dd2596e1cc'
+srcHash: '8fc8a3b0d278'
 title: 'Mercado 28: guía de viaje de Cancún (4.3★)'
-description: En pleno centro de Cancún, a poca distancia en autobús o taxi de la Zona Hotelera, el Mercado 28 lleva décadas vendiendo recuerdos y artesanías, y abre todos los días de 9am a 7pm. Con 4.3★ (59,984 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.
+description: En pleno centro de Cancún, a poca distancia en autobús o taxi de la Zona Hotelera, el Mercado 28 lleva décadas vendiendo recuerdos y artesanías, y abre todos los días de 9am a 7pm. Con 4.3★ (59,988 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.
 quickAnswer: En pleno centro de Cancún, a poca distancia en autobús o taxi de la Zona Hotelera, el Mercado 28 lleva décadas vendiendo recuerdos y artesanías, y abre todos los días de 9am a 7pm. Merece la visita por su plata, sus hamacas y su ropa bordada, y también para sentarse a comer cocina yucateca en el patio interior, donde se concentran las fondas. Regatee con cortesía, lleve pesos y, si prefiere recorrer los pasillos con más calma, vaya por la mañana.
 faq:
   - q: ¿Cómo se llega al Mercado 28 desde la Zona Hotelera de Cancún?

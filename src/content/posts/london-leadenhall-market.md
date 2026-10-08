@@ -1,47 +1,73 @@
 ---
-title: "Leadenhall Market: London Travel Guide (4.4★)"
-description: "Leadenhall Market is a covered Victorian arcade off Gracechurch Street in the City of London (EC3), a short walk from Bank and Monument stations. 4.4★ (24,000 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "London"
-category: "hidden-gem"
-pubDate: "2026-10-08T10:00:18.522Z"
+title: 'Leadenhall Market: London Travel Guide (4.4★)'
+description: >-
+  Leadenhall Market is a covered Victorian arcade off Gracechurch Street in the
+  City of London (EC3), a short walk from Bank and Monument stations. 4.4★
+  (24,006 reviews) — what visitors say, hours, and tips.
+country: United Kingdom
+region: London
+category: hidden-gem
+pubDate: '2026-10-08T10:00:18.522Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Leadenhall_Market_In_London_-_Feb_2006_rotated.jpg/1920px-Leadenhall_Market_In_London_-_Feb_2006_rotated.jpg"
-  credit: "Photo: Diliff / Wikimedia Commons (CC BY 2.5)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Leadenhall_Market_In_London_-_Feb_2006_rotated.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Leadenhall_Market_In_London_-_Feb_2006_rotated.jpg/1920px-Leadenhall_Market_In_London_-_Feb_2006_rotated.jpg
+  credit: 'Photo: Diliff / Wikimedia Commons (CC BY 2.5)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Leadenhall_Market_In_London_-_Feb_2006_rotated.jpg
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJURt2jFIDdkgRsxERfqYhtSo"
-  name: "Leadenhall Market"
-  address: "Gracechurch St, London EC3V 1LT, UK"
+  id: ChIJURt2jFIDdkgRsxERfqYhtSo
+  name: Leadenhall Market
+  address: 'Gracechurch St, London EC3V 1LT, UK'
   rating: 4.4
-  userRatingsTotal: 24000
-  googleMapsUrl: "https://maps.google.com/?cid=3077402919340937651&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 24006
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3077402919340937651&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.512766
   lng: -0.0835289
-  phone: "+44 20 7606 3030"
+  phone: +44 20 7606 3030
 tags:
-  - "london"
-  - "old quarter"
-quickAnswer: "Leadenhall Market is a covered Victorian arcade off Gracechurch Street in the City of London (EC3), a short walk from Bank and Monument stations. Come on a weekday lunchtime or early evening for the buzz of City workers, or at the weekend for near-empty cobbles and clean photos, though many shops and bars close then. Allow 30 to 60 minutes, longer if you stop to eat or drink."
+  - london
+  - old quarter
+quickAnswer: >-
+  Leadenhall Market is a covered Victorian arcade off Gracechurch Street in the
+  City of London (EC3), a short walk from Bank and Monument stations. Come on a
+  weekday lunchtime or early evening for the buzz of City workers, or at the
+  weekend for near-empty cobbles and clean photos, though many shops and bars
+  close then. Allow 30 to 60 minutes, longer if you stop to eat or drink.
 faq:
-  - q: "What is the nearest station to Leadenhall Market?"
-    a: "Bank (Central, Northern, Waterloo & City lines and DLR) and Monument (District and Circle lines) are both about five minutes' walk away. Fenchurch Street and Liverpool Street are also close."
-  - q: "Is Leadenhall Market the Harry Potter location?"
-    a: "Yes. It was used for Diagon Alley in Harry Potter and the Philosopher's Stone. A blue door in nearby Bull's Head Passage served as the entrance to the Leaky Cauldron."
-  - q: "Is Leadenhall Market open at weekends?"
-    a: "You can walk through the arcades, but many shops, restaurants and bars close at weekends. That makes it quiet and good for photos. Check the official website for individual businesses' hours."
-  - q: "How long should I spend at Leadenhall Market?"
-    a: "Allow 30 to 60 minutes to walk the arcades and take photos. Leave longer if you plan to have lunch or a drink in one of the pubs."
-  - q: "What else is near Leadenhall Market?"
-    a: "The Lloyd's building is right behind it. The Gherkin, Sky Garden at 20 Fenchurch Street (book ahead) and the Monument to the Great Fire are all within about ten minutes' walk."
+  - q: What is the nearest station to Leadenhall Market?
+    a: >-
+      Bank (Central, Northern, Waterloo & City lines and DLR) and Monument
+      (District and Circle lines) are both about five minutes' walk away.
+      Fenchurch Street and Liverpool Street are also close.
+  - q: Is Leadenhall Market the Harry Potter location?
+    a: >-
+      Yes. It was used for Diagon Alley in Harry Potter and the Philosopher's
+      Stone. A blue door in nearby Bull's Head Passage served as the entrance to
+      the Leaky Cauldron.
+  - q: Is Leadenhall Market open at weekends?
+    a: >-
+      You can walk through the arcades, but many shops, restaurants and bars
+      close at weekends. That makes it quiet and good for photos. Check the
+      official website for individual businesses' hours.
+  - q: How long should I spend at Leadenhall Market?
+    a: >-
+      Allow 30 to 60 minutes to walk the arcades and take photos. Leave longer
+      if you plan to have lunch or a drink in one of the pubs.
+  - q: What else is near Leadenhall Market?
+    a: >-
+      The Lloyd's building is right behind it. The Gherkin, Sky Garden at 20
+      Fenchurch Street (book ahead) and the Monument to the Great Fire are all
+      within about ten minutes' walk.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-08'
 ---
 
 ## Glass, iron and cobbles

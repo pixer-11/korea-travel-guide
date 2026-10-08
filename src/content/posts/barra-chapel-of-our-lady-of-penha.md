@@ -1,56 +1,79 @@
 ---
-title: "Chapel of Our Lady of Penha: Barra Travel Guide (4.6★)"
-description: "The Chapel of Our Lady of Penha sits on the summit of Penha Hill in Barra, on Macau's southern peninsula. 4.6★ (693 reviews) — what visitors say, hours, and tips."
-country: "Macau"
-region: "Barra"
-category: "hidden-gem"
-pubDate: "2026-10-08T14:47:46.623Z"
+title: 'Chapel of Our Lady of Penha: Barra Travel Guide (4.6★)'
+description: >-
+  The Chapel of Our Lady of Penha sits on the summit of Penha Hill in Barra, on
+  Macau's southern peninsula. 4.6★ (695 reviews) — what visitors say, hours, and
+  tips.
+country: Macau
+region: Barra
+category: hidden-gem
+pubDate: '2026-10-08T14:47:46.623Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/6/6f/Chapel_of_Our_Lady_of_Penha%2C_Macau_-_panoramio.jpg"
-  credit: "Photo: Николай Максимович / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Chapel_of_Our_Lady_of_Penha,_Macau_-_panoramio.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/6f/Chapel_of_Our_Lady_of_Penha%2C_Macau_-_panoramio.jpg
+  credit: 'Photo: Николай Максимович / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Chapel_of_Our_Lady_of_Penha,_Macau_-_panoramio.jpg
+  via: act
   focus:
     x: 45
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJtw0jWvJ6ATQR1CM8fPIifB0"
-  name: "Chapel of Our Lady of Penha"
-  address: "Macao, Hilltop of Penha Hill"
+  id: ChIJtw0jWvJ6ATQR1CM8fPIifB0
+  name: Chapel of Our Lady of Penha
+  address: 'Macao, Hilltop of Penha Hill'
   rating: 4.6
-  userRatingsTotal: 693
-  googleMapsUrl: "https://maps.google.com/?cid=2124611549073777620&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 695
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2124611549073777620&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.186786299999998
   lng: 113.5351523
-  phone: "+853 2857 2801"
+  phone: +853 2857 2801
   openingHours:
-    - "Monday: 10:00 AM – 4:00 PM"
-    - "Tuesday: 10:00 AM – 4:00 PM"
-    - "Wednesday: 10:00 AM – 4:00 PM"
-    - "Thursday: 10:00 AM – 4:00 PM"
-    - "Friday: 10:00 AM – 4:00 PM"
-    - "Saturday: 10:00 AM – 4:00 PM"
-    - "Sunday: 10:00 AM – 4:00 PM"
+    - 'Monday: 10:00 AM – 4:00 PM'
+    - 'Tuesday: 10:00 AM – 4:00 PM'
+    - 'Wednesday: 10:00 AM – 4:00 PM'
+    - 'Thursday: 10:00 AM – 4:00 PM'
+    - 'Friday: 10:00 AM – 4:00 PM'
+    - 'Saturday: 10:00 AM – 4:00 PM'
+    - 'Sunday: 10:00 AM – 4:00 PM'
 tags:
-  - "barra"
-  - "Penha Hill"
-quickAnswer: "The Chapel of Our Lady of Penha sits on the summit of Penha Hill in Barra, on Macau's southern peninsula. It's a small Catholic church rebuilt in 1935, open daily from 10am to 4pm, with one of the widest free views over Nam Van Lake, the bridges and Taipa. Walk up from Lilau Square or A-Ma Temple and give it about an hour, views included."
+  - barra
+  - Penha Hill
+quickAnswer: >-
+  The Chapel of Our Lady of Penha sits on the summit of Penha Hill in Barra, on
+  Macau's southern peninsula. It's a small Catholic church rebuilt in 1935, open
+  daily from 10am to 4pm, with one of the widest free views over Nam Van Lake,
+  the bridges and Taipa. Walk up from Lilau Square or A-Ma Temple and give it
+  about an hour, views included.
 faq:
-  - q: "What are the opening hours of the Chapel of Our Lady of Penha?"
-    a: "It opens 10am to 4pm, seven days a week. Arrive by mid-afternoon so you have time inside before it closes."
-  - q: "How do I get to Penha Hill in Barra?"
-    a: "Walk up from Lilau Square or the Mandarin's House on Calçada da Penha, which takes about 10 to 15 minutes of steep climbing. You can also start from A-Ma Temple, or take a taxi near the top."
-  - q: "How long should I spend there?"
-    a: "About an hour covers the climb, the chapel and the terrace views. Add A-Ma Temple and the Lilau quarter and you have a relaxed half-day."
-  - q: "What can I see from the chapel terrace?"
-    a: "Nam Van Lake, the Macau Tower, the bridges to Taipa, the Inner Harbour and the Zhuhai skyline across the water."
-  - q: "What else is nearby?"
-    a: "A-Ma Temple, Lilau Square, the Mandarin's House and the Bishop's Residence next door are all within walking distance on the southern peninsula."
+  - q: What are the opening hours of the Chapel of Our Lady of Penha?
+    a: >-
+      It opens 10am to 4pm, seven days a week. Arrive by mid-afternoon so you
+      have time inside before it closes.
+  - q: How do I get to Penha Hill in Barra?
+    a: >-
+      Walk up from Lilau Square or the Mandarin's House on Calçada da Penha,
+      which takes about 10 to 15 minutes of steep climbing. You can also start
+      from A-Ma Temple, or take a taxi near the top.
+  - q: How long should I spend there?
+    a: >-
+      About an hour covers the climb, the chapel and the terrace views. Add A-Ma
+      Temple and the Lilau quarter and you have a relaxed half-day.
+  - q: What can I see from the chapel terrace?
+    a: >-
+      Nam Van Lake, the Macau Tower, the bridges to Taipa, the Inner Harbour and
+      the Zhuhai skyline across the water.
+  - q: What else is nearby?
+    a: >-
+      A-Ma Temple, Lilau Square, the Mandarin's House and the Bishop's Residence
+      next door are all within walking distance on the southern peninsula.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-08'
 ---
 
 ## A sailors' church on the peninsula's last hill

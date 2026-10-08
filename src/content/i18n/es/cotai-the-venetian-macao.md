@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: cotai-the-venetian-macao
-srcHash: 'bec4d714f5b1'
+srcHash: '6763ee6719e7'
 title: 'The Venetian Macao: guía de viaje de Cotai (4.5★)'
-description: 'En plena Cotai Strip de Macao se alza The Venetian Macao, un enorme complejo con casino cuyas habitaciones son todas suites. Valoración de 4.5★ (28,995 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'En plena Cotai Strip de Macao se alza The Venetian Macao, un enorme complejo con casino cuyas habitaciones son todas suites. Valoración de 4.5★ (28,997 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: En plena Cotai Strip, en Cotai (Macao), se alza The Venetian Macao, un enorme complejo con casino cuyas habitaciones son todas suites. Su gran reclamo son las Grand Canal Shoppes, donde las góndolas surcan canales interiores bajo un cielo pintado. Figura entre los complejos más visitados de Macao. Conviene reservar al menos dos horas para recorrer los canales y llegar en los autobuses lanzadera gratuitos de los hoteles. Si quiere hacer fotos sin multitudes, vaya a primera hora.
 faq:
   - q: ¿Cómo se llega a The Venetian Macao desde Hong Kong?

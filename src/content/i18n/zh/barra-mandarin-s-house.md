@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: barra-mandarin-s-house
-srcHash: '31213f36820d'
+srcHash: 'bacfd17604ee'
 title: 郑家大屋：妈阁旅行指南（4.4★）
-description: 郑家大屋位于澳门妈阁的龙头左巷（Travessa de António da Silva），离亚婆井前地只有几步路。评分4.4★（1,105条评价），这里汇总了游客评价、开放时间和参观建议。
+description: 郑家大屋位于澳门妈阁的龙头左巷（Travessa de António da Silva），离亚婆井前地只有几步路。评分4.4★（1,106条评价），这里汇总了游客评价、开放时间和参观建议。
 quickAnswer: 郑家大屋位于澳门妈阁的龙头左巷（Travessa de António da Silva），从亚婆井前地步行过去很近。这座经过修复的广府式家族大宅规模宏大，属于联合国教科文组织世界遗产“澳门历史城区”的一部分，馆内提供导赏服务。大屋每天上午10点至下午6点开放，逢周三闭馆，建议预留一到两小时参观。
 faq:
   - q: 郑家大屋哪天闭馆？

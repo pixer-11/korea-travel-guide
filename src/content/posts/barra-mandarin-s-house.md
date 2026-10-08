@@ -1,55 +1,79 @@
 ---
-title: "Mandarin's House: Barra Travel Guide (4.4★)"
-description: "Mandarin's House sits on Travessa de António da Silva in Barra, Macau, a short walk from Lilau Square. 4.4★ (1,105 reviews) — what visitors say, hours, and tips."
-country: "Macau"
-region: "Barra"
-category: "attraction"
-pubDate: "2026-10-08T14:47:04.356Z"
+title: 'Mandarin''s House: Barra Travel Guide (4.4★)'
+description: >-
+  Mandarin's House sits on Travessa de António da Silva in Barra, Macau, a short
+  walk from Lilau Square. 4.4★ (1,106 reviews) — what visitors say, hours, and
+  tips.
+country: Macau
+region: Barra
+category: attraction
+pubDate: '2026-10-08T14:47:04.356Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mandarin%27s_House%2C_2023_%2806%29.jpg/1920px-Mandarin%27s_House%2C_2023_%2806%29.jpg"
-  credit: "Photo: Bahnfrend / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Mandarin%27s_House,_2023_(06).jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mandarin%27s_House%2C_2023_%2806%29.jpg/1920px-Mandarin%27s_House%2C_2023_%2806%29.jpg
+  credit: 'Photo: Bahnfrend / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Mandarin%27s_House,_2023_(06).jpg'
   focus:
     x: 40
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJY7hKMvJ6ATQRBme1oAsJ8-M"
-  name: "Mandarin's House"
-  address: "MacaoAntonio da Silva10 Travessa de"
+  id: ChIJY7hKMvJ6ATQRBme1oAsJ8-M
+  name: Mandarin's House
+  address: MacaoAntonio da Silva10 Travessa de
   rating: 4.4
-  userRatingsTotal: 1105
-  googleMapsUrl: "https://maps.google.com/?cid=16425482211495864070&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1106
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=16425482211495864070&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.1887088
   lng: 113.5348894
-  phone: "+853 2896 8820"
+  phone: +853 2896 8820
   openingHours:
-    - "Monday: 10:00 AM – 6:00 PM"
-    - "Tuesday: 10:00 AM – 6:00 PM"
-    - "Wednesday: Closed"
-    - "Thursday: 10:00 AM – 6:00 PM"
-    - "Friday: 10:00 AM – 6:00 PM"
-    - "Saturday: 10:00 AM – 6:00 PM"
-    - "Sunday: 10:00 AM – 6:00 PM"
+    - 'Monday: 10:00 AM – 6:00 PM'
+    - 'Tuesday: 10:00 AM – 6:00 PM'
+    - 'Wednesday: Closed'
+    - 'Thursday: 10:00 AM – 6:00 PM'
+    - 'Friday: 10:00 AM – 6:00 PM'
+    - 'Saturday: 10:00 AM – 6:00 PM'
+    - 'Sunday: 10:00 AM – 6:00 PM'
 tags:
-  - "barra"
-  - "Mandarin's House"
-quickAnswer: "Mandarin's House sits on Travessa de António da Silva in Barra, Macau, a short walk from Lilau Square. It is a large, restored Guangdong-style family compound in the UNESCO-listed Historic Centre of Macao, with guided tours on offer. It opens 10am to 6pm every day except Wednesday, when it is closed, so allow one to two hours."
+  - barra
+  - Mandarin's House
+quickAnswer: >-
+  Mandarin's House sits on Travessa de António da Silva in Barra, Macau, a short
+  walk from Lilau Square. It is a large, restored Guangdong-style family
+  compound in the UNESCO-listed Historic Centre of Macao, with guided tours on
+  offer. It opens 10am to 6pm every day except Wednesday, when it is closed, so
+  allow one to two hours.
 faq:
-  - q: "What day is Mandarin's House closed?"
-    a: "It is closed on Wednesdays. Every other day of the week it opens from 10am to 6pm."
-  - q: "How do I get to Mandarin's House in Barra?"
-    a: "Take the LRT to Barra Station or a bus to the A-Ma Temple area, then walk uphill about ten minutes to Lilau Square. The house is on Travessa de António da Silva, just off the square. From Senado Square it is a 20 to 25 minute walk via St. Lawrence's Church."
-  - q: "How long should I spend there?"
-    a: "Allow one to two hours. The compound is large, with several courtyards and halls, and a guided tour adds time but explains the layout far better."
-  - q: "Are guided tours available?"
-    a: "Yes, guided tours are offered. Ask at the entrance or check the Macao Cultural Affairs Bureau website for current times and languages."
-  - q: "What else is nearby?"
-    a: "Lilau Square is right outside. The Moorish Barracks, A-Ma Temple, St. Lawrence's Church and St. Joseph's Seminary are all within a short walk, which makes for an easy half-day loop on foot."
+  - q: What day is Mandarin's House closed?
+    a: >-
+      It is closed on Wednesdays. Every other day of the week it opens from 10am
+      to 6pm.
+  - q: How do I get to Mandarin's House in Barra?
+    a: >-
+      Take the LRT to Barra Station or a bus to the A-Ma Temple area, then walk
+      uphill about ten minutes to Lilau Square. The house is on Travessa de
+      António da Silva, just off the square. From Senado Square it is a 20 to 25
+      minute walk via St. Lawrence's Church.
+  - q: How long should I spend there?
+    a: >-
+      Allow one to two hours. The compound is large, with several courtyards and
+      halls, and a guided tour adds time but explains the layout far better.
+  - q: Are guided tours available?
+    a: >-
+      Yes, guided tours are offered. Ask at the entrance or check the Macao
+      Cultural Affairs Bureau website for current times and languages.
+  - q: What else is nearby?
+    a: >-
+      Lilau Square is right outside. The Moorish Barracks, A-Ma Temple, St.
+      Lawrence's Church and St. Joseph's Seminary are all within a short walk,
+      which makes for an easy half-day loop on foot.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-08'
 ---
 
 ## A long grey wall on a quiet lane

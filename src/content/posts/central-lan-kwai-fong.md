@@ -1,54 +1,81 @@
 ---
 title: 'Lan Kwai Fong: Central Travel Guide (4.2★)'
-description: "Lan Kwai Fong is Central's densest nightlife block, a short walk east of Sheung Wan, where a sloping L-shaped lane and neighbouring D'Aguilar Street are packed with bars, clubs and restaurants. 4.2★ (10,372 reviews) — what visitors say, hours, and tips."
-country: "Hong Kong"
+description: >-
+  Lan Kwai Fong is Central's densest nightlife block, a short walk east of
+  Sheung Wan, where a sloping L-shaped lane and neighbouring D'Aguilar Street
+  are packed with bars, clubs and restaurants. 4.2★ (10,381 reviews) — what
+  visitors say, hours, and tips.
+country: Hong Kong
 region: Central
-category: "hidden-gem"
-pubDate: "2026-09-30T07:41:58.876Z"
+category: hidden-gem
+pubDate: '2026-09-30T07:41:58.876Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/LKF_Street_View01.jpg/1920px-LKF_Street_View01.jpg"
-  credit: "Photo: Wiki.lkfa / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:LKF_Street_View01.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/LKF_Street_View01.jpg/1920px-LKF_Street_View01.jpg
+  credit: 'Photo: Wiki.lkfa / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:LKF_Street_View01.jpg'
   focus:
     x: 40
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJsQIjhnwABDQRCTVTm-GVzn8"
-  name: "Lan Kwai Fong"
-  address: "1 Lan Kwai Fong, Central, Hong Kong Island, Hong Kong"
+  id: ChIJsQIjhnwABDQRCTVTm-GVzn8
+  name: Lan Kwai Fong
+  address: '1 Lan Kwai Fong, Central, Hong Kong Island, Hong Kong'
   rating: 4.2
-  userRatingsTotal: 10372
-  googleMapsUrl: "https://maps.google.com/?cid=9209463084225344777&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 10381
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=9209463084225344777&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.2810792
   lng: 114.1554797
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
   - central
   - old quarter
-quickAnswer: "Lan Kwai Fong is Central's densest nightlife block, a short walk east of Sheung Wan, where a sloping L-shaped lane and neighbouring D'Aguilar Street are packed with bars, clubs and restaurants. The streets themselves are open 24 hours, but individual bars set their own hours, so check each one before you go. It's heavily visited, so come early in the evening for a seat or late on a weekend for the full street-party crush."
+quickAnswer: >-
+  Lan Kwai Fong is Central's densest nightlife block, a short walk east of
+  Sheung Wan, where a sloping L-shaped lane and neighbouring D'Aguilar Street
+  are packed with bars, clubs and restaurants. The streets themselves are open
+  24 hours, but individual bars set their own hours, so check each one before
+  you go. It's heavily visited, so come early in the evening for a seat or late
+  on a weekend for the full street-party crush.
 faq:
-  - q: "Is Lan Kwai Fong in Sheung Wan or Central?"
-    a: "Its address is Central, on Hong Kong Island. From Sheung Wan it's an easy walk east along Queen's Road Central or Hollywood Road, roughly 15 to 20 minutes, so people staying in Sheung Wan often treat it as their local nightlife area."
-  - q: "What's the nearest MTR station?"
-    a: "Central Station, on the Island Line and Tsuen Wan Line. Take Exit D2 and walk uphill on D'Aguilar Street for a few minutes."
-  - q: "Is Lan Kwai Fong open all day?"
-    a: "The streets are open 24 hours, every day. Bars, clubs and restaurants each keep their own hours, so check a venue's schedule before you head there."
-  - q: "When is the best time to go?"
-    a: "Arrive in the early evening for a seat and happy-hour deals. Come later on Friday or Saturday for the full street-party atmosphere. Halloween and New Year's Eve are the busiest nights, with police-controlled entry."
-  - q: "Can you drink on the street in Lan Kwai Fong?"
-    a: "Yes. Hong Kong has no general ban on drinking in public, so crowds commonly carry drinks from bars and convenience stores out onto the lane and D'Aguilar Street."
+  - q: Is Lan Kwai Fong in Sheung Wan or Central?
+    a: >-
+      Its address is Central, on Hong Kong Island. From Sheung Wan it's an easy
+      walk east along Queen's Road Central or Hollywood Road, roughly 15 to 20
+      minutes, so people staying in Sheung Wan often treat it as their local
+      nightlife area.
+  - q: What's the nearest MTR station?
+    a: >-
+      Central Station, on the Island Line and Tsuen Wan Line. Take Exit D2 and
+      walk uphill on D'Aguilar Street for a few minutes.
+  - q: Is Lan Kwai Fong open all day?
+    a: >-
+      The streets are open 24 hours, every day. Bars, clubs and restaurants each
+      keep their own hours, so check a venue's schedule before you head there.
+  - q: When is the best time to go?
+    a: >-
+      Arrive in the early evening for a seat and happy-hour deals. Come later on
+      Friday or Saturday for the full street-party atmosphere. Halloween and New
+      Year's Eve are the busiest nights, with police-controlled entry.
+  - q: Can you drink on the street in Lan Kwai Fong?
+    a: >-
+      Yes. Hong Kong has no general ban on drinking in public, so crowds
+      commonly carry drinks from bars and convenience stores out onto the lane
+      and D'Aguilar Street.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-08'
 ---
 
 ## A lane that tilts uphill

@@ -3,7 +3,7 @@ lang: es
 slug: central-lan-kwai-fong
 srcHash: 'bddc3e79e590'
 title: 'Lan Kwai Fong: guía de viaje de Sheung Wan (4.2★)'
-description: 'A pocos minutos a pie al este de Sheung Wan, Lan Kwai Fong concentra la vida nocturna más intensa de Central: una callejuela en pendiente con forma de L y la vecina D''Aguilar Street reúnen bares, discotecas y restaurantes. 4.2★ (10,372 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'A pocos minutos a pie al este de Sheung Wan, Lan Kwai Fong concentra la vida nocturna más intensa de Central: una callejuela en pendiente con forma de L y la vecina D''Aguilar Street reúnen bares, discotecas y restaurantes. 4.2★ (10,381 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: A pocos minutos a pie al este de Sheung Wan, Lan Kwai Fong concentra la vida nocturna más intensa de Central. Tanto su callejuela en pendiente con forma de L como la vecina D'Aguilar Street están repletas de bares, discotecas y restaurantes. Las calles permanecen abiertas las 24 horas, aunque cada local fija su propio horario, por lo que conviene consultarlo antes de ir. Al tratarse de una zona muy concurrida, lo mejor es llegar a primera hora de la noche si se busca asiento, o bien tarde durante el fin de semana para vivir la fiesta callejera en todo su apogeo.
 faq:
   - q: ¿Lan Kwai Fong está en Sheung Wan o en Central?

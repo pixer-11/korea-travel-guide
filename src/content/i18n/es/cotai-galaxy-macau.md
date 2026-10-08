@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: cotai-galaxy-macau
-srcHash: '1c37e1c9d7f9'
+srcHash: '1c9db10d7396'
 title: 'GALAXY MACAU: guía de viaje por Cotai (4.5★)'
-description: Bajo una misma silueta de cúpulas doradas, GALAXY MACAU reúne en Cotai (Macao) varias marcas hoteleras, un casino, galerías comerciales, un spa y el parque acuático Grand Resort Deck. Con 4.5★ (15,111 reseñas), le contamos qué opinan los visitantes, los horarios y algunos consejos.
+description: Bajo una misma silueta de cúpulas doradas, GALAXY MACAU reúne en Cotai (Macao) varias marcas hoteleras, un casino, galerías comerciales, un spa y el parque acuático Grand Resort Deck. Con 4.5★ (15,112 reseñas), le contamos qué opinan los visitantes, los horarios y algunos consejos.
 quickAnswer: 'GALAXY MACAU es un gran complejo turístico integrado de Cotai, en Macao, que reúne bajo una misma silueta de cúpulas doradas varias marcas hoteleras, un casino, galerías comerciales, un spa y el parque acuático Grand Resort Deck. Para recorrer las zonas públicas basta con media jornada, y no conviene perderse el espectáculo del Fortune Diamond en el vestíbulo principal. Si le interesa la piscina de olas, reserve habitación: la terraza suele estar reservada a los huéspedes del hotel.'
 faq:
   - q: ¿Se puede usar la piscina de olas de Galaxy Macau sin alojarse en el hotel?

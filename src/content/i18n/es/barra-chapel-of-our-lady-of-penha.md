@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: barra-chapel-of-our-lady-of-penha
-srcHash: 'a5a1e198a891'
+srcHash: 'dc3109dbabac'
 title: 'Capilla de Nuestra Señora de la Penha: guía de viaje de Barra (4.6★)'
-description: En lo alto de la colina de la Penha, en el barrio de Barra, al sur de la península de Macao, se alza la Capilla de Nuestra Señora de la Penha. Con 4.6★ (693 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.
+description: En lo alto de la colina de la Penha, en el barrio de Barra, al sur de la península de Macao, se alza la Capilla de Nuestra Señora de la Penha. Con 4.6★ (695 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.
 quickAnswer: En la cima de la colina de la Penha, en el barrio de Barra, al sur de la península de Macao, se encuentra la Capilla de Nuestra Señora de la Penha. Esta pequeña iglesia católica, reconstruida en 1935, abre todos los días de 10 a. m. a 4 p. m. y regala gratuitamente una de las vistas más amplias sobre el lago Nam Van, los puentes y Taipa. Se sube a pie desde la plaza de Lilau o desde el Templo de A-Ma, y basta con una hora para recorrerla y disfrutar del panorama.
 faq:
   - q: ¿Cuál es el horario de la Capilla de Nuestra Señora de la Penha?

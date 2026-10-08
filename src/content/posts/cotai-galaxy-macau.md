@@ -1,52 +1,84 @@
 ---
-title: "GALAXY MACAU: Cotai Travel Guide (4.5★)"
-description: "GALAXY MACAU is a large integrated resort in Cotai, Macau, with several hotel brands, a casino, shopping promenades, a spa and the Grand Resort Deck water park under one gold-domed roofline. 4.5★ (15,111 reviews) — what visitors say, hours, and tips."
-country: "Macau"
-region: "Cotai"
-category: "hidden-gem"
-pubDate: "2026-10-08T07:38:55.373Z"
+title: 'GALAXY MACAU: Cotai Travel Guide (4.5★)'
+description: >-
+  GALAXY MACAU is a large integrated resort in Cotai, Macau, with several hotel
+  brands, a casino, shopping promenades, a spa and the Grand Resort Deck water
+  park under one gold-domed roofline. 4.5★ (15,112 reviews) — what visitors say,
+  hours, and tips.
+country: Macau
+region: Cotai
+category: hidden-gem
+pubDate: '2026-10-08T07:38:55.373Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/MC_%E6%BE%B3%E9%96%80_Macau_%E8%B7%AF%E6%B0%B9_Cotai_%E9%8A%80%E6%B2%B3_Galaxy_Macao_shopping_mall_%E6%B0%B4%E6%99%B6%E5%BB%B3_Crystal_Lobby_morning_November_2024_R12S_07.jpg/3840px-MC_%E6%BE%B3%E9%96%80_Macau_%E8%B7%AF%E6%B0%B9_Cotai_%E9%8A%80%E6%B2%B3_Galaxy_Macao_shopping_mall_%E6%B0%B4%E6%99%B6%E5%BB%B3_Crystal_Lobby_morning_November_2024_R12S_07.jpg"
-  credit: "Photo: JohnLEE Brothers / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:MC_%E6%BE%B3%E9%96%80_Macau_%E8%B7%AF%E6%B0%B9_Cotai_%E9%8A%80%E6%B2%B3_Galaxy_Macao_shopping_mall_%E6%B0%B4%E6%99%B6%E5%BB%B3_Crystal_Lobby_morning_November_2024_R12S_07.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/MC_%E6%BE%B3%E9%96%80_Macau_%E8%B7%AF%E6%B0%B9_Cotai_%E9%8A%80%E6%B2%B3_Galaxy_Macao_shopping_mall_%E6%B0%B4%E6%99%B6%E5%BB%B3_Crystal_Lobby_morning_November_2024_R12S_07.jpg/3840px-MC_%E6%BE%B3%E9%96%80_Macau_%E8%B7%AF%E6%B0%B9_Cotai_%E9%8A%80%E6%B2%B3_Galaxy_Macao_shopping_mall_%E6%B0%B4%E6%99%B6%E5%BB%B3_Crystal_Lobby_morning_November_2024_R12S_07.jpg
+  credit: 'Photo: JohnLEE Brothers / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:MC_%E6%BE%B3%E9%96%80_Macau_%E8%B7%AF%E6%B0%B9_Cotai_%E9%8A%80%E6%B2%B3_Galaxy_Macao_shopping_mall_%E6%B0%B4%E6%99%B6%E5%BB%B3_Crystal_Lobby_morning_November_2024_R12S_07.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/MC_%E6%BE%B3%E9%96%80_Macau_%E8%B7%AF%E6%B0%B9_Cotai_%E9%8A%80%E6%B2%B3_Galaxy_Macao_%E6%8E%A5%E8%BF%91%E6%B0%B4%E6%99%B6%E5%BB%B3_near_Crystal_Lobby_morning_November_2024_R12S_02.jpg/3840px-MC_%E6%BE%B3%E9%96%80_Macau_%E8%B7%AF%E6%B0%B9_Cotai_%E9%8A%80%E6%B2%B3_Galaxy_Macao_%E6%8E%A5%E8%BF%91%E6%B0%B4%E6%99%B6%E5%BB%B3_near_Crystal_Lobby_morning_November_2024_R12S_02.jpg"
-    credit: "Photo: JohnLEE Brothers / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:MC_%E6%BE%B3%E9%96%80_Macau_%E8%B7%AF%E6%B0%B9_Cotai_%E9%8A%80%E6%B2%B3_Galaxy_Macao_%E6%8E%A5%E8%BF%91%E6%B0%B4%E6%99%B6%E5%BB%B3_near_Crystal_Lobby_morning_November_2024_R12S_02.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/MC_%E6%BE%B3%E9%96%80_Macau_%E8%B7%AF%E6%B0%B9_Cotai_%E9%8A%80%E6%B2%B3_Galaxy_Macao_%E6%8E%A5%E8%BF%91%E6%B0%B4%E6%99%B6%E5%BB%B3_near_Crystal_Lobby_morning_November_2024_R12S_02.jpg/3840px-MC_%E6%BE%B3%E9%96%80_Macau_%E8%B7%AF%E6%B0%B9_Cotai_%E9%8A%80%E6%B2%B3_Galaxy_Macao_%E6%8E%A5%E8%BF%91%E6%B0%B4%E6%99%B6%E5%BB%B3_near_Crystal_Lobby_morning_November_2024_R12S_02.jpg
+    credit: 'Photo: JohnLEE Brothers / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:MC_%E6%BE%B3%E9%96%80_Macau_%E8%B7%AF%E6%B0%B9_Cotai_%E9%8A%80%E6%B2%B3_Galaxy_Macao_%E6%8E%A5%E8%BF%91%E6%B0%B4%E6%99%B6%E5%BB%B3_near_Crystal_Lobby_morning_November_2024_R12S_02.jpg
 place:
-  id: "ChIJOc1Nxg1wATQRx0DHIEuZlkQ"
-  name: "GALAXY MACAU"
-  address: "「澳門銀河™」綜合度假城, Estrada da Baia de Nossa Senhora da Esperanca, Macao"
+  id: ChIJOc1Nxg1wATQRx0DHIEuZlkQ
+  name: GALAXY MACAU
+  address: '「澳門銀河™」綜合度假城, Estrada da Baia de Nossa Senhora da Esperanca, Macao'
   rating: 4.5
-  userRatingsTotal: 15111
-  googleMapsUrl: "https://maps.google.com/?cid=4942306189037224135&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 15112
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4942306189037224135&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.149220399999997
   lng: 113.5537116
-  phone: "+853 2888 0888"
+  phone: +853 2888 0888
 tags:
-  - "cotai"
-  - "hidden gem"
-quickAnswer: "GALAXY MACAU is a large integrated resort in Cotai, Macau, with several hotel brands, a casino, shopping promenades, a spa and the Grand Resort Deck water park under one gold-domed roofline. Give the public areas half a day and catch the Fortune Diamond show in the main lobby. Book a room if you want the wave pool, because the deck is generally reserved for hotel guests."
+  - cotai
+  - hidden gem
+quickAnswer: >-
+  GALAXY MACAU is a large integrated resort in Cotai, Macau, with several hotel
+  brands, a casino, shopping promenades, a spa and the Grand Resort Deck water
+  park under one gold-domed roofline. Give the public areas half a day and catch
+  the Fortune Diamond show in the main lobby. Book a room if you want the wave
+  pool, because the deck is generally reserved for hotel guests.
 faq:
-  - q: "Can I use the Galaxy Macau wave pool without staying at the hotel?"
-    a: "Access to the Grand Resort Deck, including the Skytop Wave Pool and lazy river, is generally limited to guests of the resort's hotels. Check your room booking's inclusions or ask the hotel directly before you plan around it."
-  - q: "How do I get to Galaxy Macau?"
-    a: "The resort runs complimentary shuttle buses from Macau's main entry points, but routes have changed in recent years, so confirm them on Galaxy's official website first. The Taipa line of the Light Rapid Transit also serves Cotai, and taxis queue at the hotel driveways."
-  - q: "When is the Fortune Diamond show?"
-    a: "It runs on a set schedule in the Diamond Lobby of Galaxy Hotel and lasts a few minutes. Ask at the concierge or a guest services desk for the current showtimes when you arrive."
-  - q: "How long should I spend at Galaxy Macau?"
-    a: "Half a day covers the lobbies, the Fortune Diamond show and a snack crawl along Broadway Macau's food street. Hotel guests using the Grand Resort Deck can easily fill one or two full days."
-  - q: "What else is near Galaxy Macau?"
-    a: "The Venetian Macao, The Parisian and The Londoner are across Estrada do Istmo, and City of Dreams is nearby. Taipa Village, with Rua do Cunha and the Taipa Houses-Museum, is a short taxi ride north."
+  - q: Can I use the Galaxy Macau wave pool without staying at the hotel?
+    a: >-
+      Access to the Grand Resort Deck, including the Skytop Wave Pool and lazy
+      river, is generally limited to guests of the resort's hotels. Check your
+      room booking's inclusions or ask the hotel directly before you plan around
+      it.
+  - q: How do I get to Galaxy Macau?
+    a: >-
+      The resort runs complimentary shuttle buses from Macau's main entry
+      points, but routes have changed in recent years, so confirm them on
+      Galaxy's official website first. The Taipa line of the Light Rapid Transit
+      also serves Cotai, and taxis queue at the hotel driveways.
+  - q: When is the Fortune Diamond show?
+    a: >-
+      It runs on a set schedule in the Diamond Lobby of Galaxy Hotel and lasts a
+      few minutes. Ask at the concierge or a guest services desk for the current
+      showtimes when you arrive.
+  - q: How long should I spend at Galaxy Macau?
+    a: >-
+      Half a day covers the lobbies, the Fortune Diamond show and a snack crawl
+      along Broadway Macau's food street. Hotel guests using the Grand Resort
+      Deck can easily fill one or two full days.
+  - q: What else is near Galaxy Macau?
+    a: >-
+      The Venetian Macao, The Parisian and The Londoner are across Estrada do
+      Istmo, and City of Dreams is nearby. Taipa Village, with Rua do Cunha and
+      the Taipa Houses-Museum, is a short taxi ride north.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-08'
 ---
 
 ## Gold domes on the Cotai strip

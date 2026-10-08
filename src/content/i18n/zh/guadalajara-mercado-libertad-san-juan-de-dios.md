@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: guadalajara-mercado-libertad-san-juan-de-dios
-srcHash: 'cb5904c4706c'
+srcHash: 'f31124fdc54d'
 title: 瓜达拉哈拉旅行指南：自由市场（圣胡安德迪奥斯市场）
-description: 自由市场（Mercado Libertad - San Juan de Dios）位于瓜达拉哈拉圣胡安德迪奥斯街区、塔帕蒂亚广场东端，是一座共三层的大型室内市场，每天早上8点至晚上8点营业。评分4.4★（92,670条评价）。本文汇总游客评价、营业时间和实用贴士。
+description: 自由市场（Mercado Libertad - San Juan de Dios）位于瓜达拉哈拉圣胡安德迪奥斯街区、塔帕蒂亚广场东端，是一座共三层的大型室内市场，每天早上8点至晚上8点营业。评分4.4★（92,671条评价）。本文汇总游客评价、营业时间和实用贴士。
 quickAnswer: 自由市场（Mercado Libertad - San Juan de Dios）坐落在瓜达拉哈拉圣胡安德迪奥斯街区、塔帕蒂亚广场（Plaza Tapatía）东端，是一座共三层的大型室内市场，每天早上8点至晚上8点营业。建议先上美食层，尝尝比里亚炖肉和“淹没三明治”，再慢慢逛蔬果、甜食和手工艺品摊位。整趟最好预留两到三个小时。如果不想挤周末的人潮，可以选工作日上午前往。
 faq:
   - q: 自由市场几点开门？

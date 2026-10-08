@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: london-leadenhall-market
-srcHash: 'a733596f6793'
+srcHash: 'a8b4e1aba44e'
 title: 'Leadenhall Market: guía de viaje de Londres (4.4★)'
-description: En plena City de Londres (EC3), junto a Gracechurch Street y a pocos minutos a pie de las estaciones de Bank y Monument, se encuentra Leadenhall Market, una galería victoriana cubierta. Con una valoración de 4.4★ (24,000 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.
+description: En plena City de Londres (EC3), junto a Gracechurch Street y a pocos minutos a pie de las estaciones de Bank y Monument, se encuentra Leadenhall Market, una galería victoriana cubierta. Con una valoración de 4.4★ (24,006 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.
 quickAnswer: Leadenhall Market es una galería victoriana cubierta situada junto a Gracechurch Street, en la City de Londres (EC3), a poca distancia a pie de las estaciones de Bank y Monument. Si busca el bullicio de los oficinistas de la City, venga un día laborable a la hora de comer o a primera hora de la tarde. Los fines de semana, en cambio, los adoquines están casi desiertos y las fotos salen limpias, aunque muchas tiendas y bares permanecen cerrados. Calcule entre 30 y 60 minutos, o algo más si se detiene a comer o a tomar algo.
 faq:
   - q: ¿Cuál es la estación más cercana a Leadenhall Market?

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: barra-chapel-of-our-lady-of-penha
-srcHash: 'a5a1e198a891'
+srcHash: 'dc3109dbabac'
 title: 西望洋圣堂：妈阁旅游指南（4.6★）
-description: 西望洋圣堂坐落在澳门半岛南端妈阁一带的西望洋山顶。评分4.6★（693条评价），游客评价、开放时间和游览贴士都在这里。
+description: 西望洋圣堂坐落在澳门半岛南端妈阁一带的西望洋山顶。评分4.6★（695条评价），游客评价、开放时间和游览贴士都在这里。
 quickAnswer: 西望洋圣堂（Chapel of Our Lady of Penha）坐落在澳门半岛南端妈阁（Barra）一带的西望洋山（Penha Hill）顶上。这座小巧的天主教堂于1935年重建，每天10am至4pm开放。站在这里，南湾湖、几座跨海大桥和氹仔尽收眼底，是澳门视野最开阔的免费观景点之一。从亚婆井前地或妈阁庙步行上山即可，连同看风景在内，安排一小时左右就够了。
 faq:
   - q: 西望洋圣堂的开放时间是几点？

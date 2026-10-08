@@ -1,60 +1,90 @@
 ---
-title: "Mercado 28: Cancun Travel Guide (4.3★)"
-description: "Mercado 28 is a long-running souvenir and crafts market in downtown Cancún (El Centro), a short bus or taxi ride from the Hotel Zone, open daily 9am to 7pm. 4.3★ (59,984 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Cancun"
-category: "hidden-gem"
-pubDate: "2026-10-08T07:39:52.516Z"
+title: 'Mercado 28: Cancun Travel Guide (4.3★)'
+description: >-
+  Mercado 28 is a long-running souvenir and crafts market in downtown Cancún (El
+  Centro), a short bus or taxi ride from the Hotel Zone, open daily 9am to 7pm.
+  4.3★ (59,988 reviews) — what visitors say, hours, and tips.
+country: Mexico
+region: Cancun
+category: hidden-gem
+pubDate: '2026-10-08T07:39:52.516Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mercado_28_Cancun%2C_Mexico_Julio_2012_-_01.jpg/3840px-Mercado_28_Cancun%2C_Mexico_Julio_2012_-_01.jpg"
-  credit: "Photo: Kirt Edblom / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Mercado_28_Cancun,_Mexico_Julio_2012_-_01.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mercado_28_Cancun%2C_Mexico_Julio_2012_-_01.jpg/3840px-Mercado_28_Cancun%2C_Mexico_Julio_2012_-_01.jpg
+  credit: 'Photo: Kirt Edblom / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Mercado_28_Cancun,_Mexico_Julio_2012_-_01.jpg
+  via: act
   focus:
     x: 50
-    y: 45
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercado_28_Cancun%2C_Mexico_Julio_2012_-_03.jpg/3840px-Mercado_28_Cancun%2C_Mexico_Julio_2012_-_03.jpg"
-    credit: "Photo: Kirt Edblom / Wikimedia Commons (CC BY-SA 2.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Mercado_28_Cancun,_Mexico_Julio_2012_-_03.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercado_28_Cancun%2C_Mexico_Julio_2012_-_03.jpg/3840px-Mercado_28_Cancun%2C_Mexico_Julio_2012_-_03.jpg
+    credit: 'Photo: Kirt Edblom / Wikimedia Commons (CC BY-SA 2.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Mercado_28_Cancun,_Mexico_Julio_2012_-_03.jpg
 place:
-  id: "ChIJh15X1rLYzYURzLAWv5IOZAA"
-  name: "Mercado 28"
-  address: "Xel-ha Supermanzana 28 Manzana 13, 77509 Cancún, Q.R., Mexico"
+  id: ChIJh15X1rLYzYURzLAWv5IOZAA
+  name: Mercado 28
+  address: 'Xel-ha Supermanzana 28 Manzana 13, 77509 Cancún, Q.R., Mexico'
   rating: 4.3
-  userRatingsTotal: 59984
-  googleMapsUrl: "https://maps.google.com/?cid=28163521105014988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 59988
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=28163521105014988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 21.161160199999998
   lng: -86.8333935
-  phone: "+52 998 892 4303"
+  phone: +52 998 892 4303
   openingHours:
-    - "Monday: 9:00 AM – 7:00 PM"
-    - "Tuesday: 9:00 AM – 7:00 PM"
-    - "Wednesday: 9:00 AM – 7:00 PM"
-    - "Thursday: 9:00 AM – 7:00 PM"
-    - "Friday: 9:00 AM – 7:00 PM"
-    - "Saturday: 9:00 AM – 7:00 PM"
-    - "Sunday: 9:00 AM – 7:00 PM"
+    - 'Monday: 9:00 AM – 7:00 PM'
+    - 'Tuesday: 9:00 AM – 7:00 PM'
+    - 'Wednesday: 9:00 AM – 7:00 PM'
+    - 'Thursday: 9:00 AM – 7:00 PM'
+    - 'Friday: 9:00 AM – 7:00 PM'
+    - 'Saturday: 9:00 AM – 7:00 PM'
+    - 'Sunday: 9:00 AM – 7:00 PM'
 tags:
-  - "cancun"
-  - "local market"
-quickAnswer: "Mercado 28 is a long-running souvenir and crafts market in downtown Cancún (El Centro), a short bus or taxi ride from the Hotel Zone, open daily 9am to 7pm. Come for silver, hammocks, embroidered clothing and a sit-down Yucatecan lunch in the inner food courtyard. Bargain politely, carry pesos, and go in the morning if you want the aisles at their least hectic."
+  - cancun
+  - local market
+quickAnswer: >-
+  Mercado 28 is a long-running souvenir and crafts market in downtown Cancún (El
+  Centro), a short bus or taxi ride from the Hotel Zone, open daily 9am to 7pm.
+  Come for silver, hammocks, embroidered clothing and a sit-down Yucatecan lunch
+  in the inner food courtyard. Bargain politely, carry pesos, and go in the
+  morning if you want the aisles at their least hectic.
 faq:
-  - q: "How do I get to Mercado 28 from the Cancún Hotel Zone?"
-    a: "Take the R-1 or R-2 public bus along Boulevard Kukulcán toward downtown, get off near Avenida Tulum and walk a few blocks west. A taxi works too, but agree on the fare before you get in, because Cancún taxis are unmetered."
-  - q: "What are Mercado 28's opening hours?"
-    a: "It opens 9am to 7pm every day, with the same hours on weekends. Some stalls start closing a little before 7pm, so aim to arrive by mid-afternoon."
-  - q: "How long should I spend at Mercado 28?"
-    a: "About two hours covers it: an hour to browse and bargain in the stalls, and an hour for lunch in the inner food courtyard. You could add Parque de las Palapas or Mercado 23 nearby."
-  - q: "Can I bargain at Mercado 28?"
-    a: "Yes, haggling is expected. Treat the first price as an opening offer, stay friendly, and pay in pesos for the best deal. Only make an offer if you're really willing to buy."
-  - q: "What should I eat at Mercado 28?"
-    a: "In the courtyard restaurants, look for Yucatecan dishes such as cochinita pibil, panuchos, salbutes and sopa de lima, plus ceviche and shrimp cocktails. Check prices on the printed menu before you order."
+  - q: How do I get to Mercado 28 from the Cancún Hotel Zone?
+    a: >-
+      Take the R-1 or R-2 public bus along Boulevard Kukulcán toward downtown,
+      get off near Avenida Tulum and walk a few blocks west. A taxi works too,
+      but agree on the fare before you get in, because Cancún taxis are
+      unmetered.
+  - q: What are Mercado 28's opening hours?
+    a: >-
+      It opens 9am to 7pm every day, with the same hours on weekends. Some
+      stalls start closing a little before 7pm, so aim to arrive by
+      mid-afternoon.
+  - q: How long should I spend at Mercado 28?
+    a: >-
+      About two hours covers it: an hour to browse and bargain in the stalls,
+      and an hour for lunch in the inner food courtyard. You could add Parque de
+      las Palapas or Mercado 23 nearby.
+  - q: Can I bargain at Mercado 28?
+    a: >-
+      Yes, haggling is expected. Treat the first price as an opening offer, stay
+      friendly, and pay in pesos for the best deal. Only make an offer if you're
+      really willing to buy.
+  - q: What should I eat at Mercado 28?
+    a: >-
+      In the courtyard restaurants, look for Yucatecan dishes such as cochinita
+      pibil, panuchos, salbutes and sopa de lima, plus ceviche and shrimp
+      cocktails. Check prices on the printed menu before you order.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-08'
 ---
 
 ## Downtown Cancún, Not the Hotel Zone

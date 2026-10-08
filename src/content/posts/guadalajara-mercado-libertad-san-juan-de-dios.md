@@ -1,59 +1,91 @@
 ---
-title: "Mercado Libertad - San Juan de Dios: Guadalajara Travel Guide"
-description: "Mercado Libertad - San Juan de Dios is Guadalajara's huge three-level indoor market in the San Juan de Dios neighbourhood, at the east end of Plaza Tapatía, open daily from 8am to 8pm. 4.4★ (92,670 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Guadalajara"
-category: "hidden-gem"
-pubDate: "2026-10-08T07:44:36.009Z"
+title: 'Mercado Libertad - San Juan de Dios: Guadalajara Travel Guide'
+description: >-
+  Mercado Libertad - San Juan de Dios is Guadalajara's huge three-level indoor
+  market in the San Juan de Dios neighbourhood, at the east end of Plaza
+  Tapatía, open daily from 8am to 8pm. 4.4★ (92,671 reviews) — what visitors
+  say, hours, and tips.
+country: Mexico
+region: Guadalajara
+category: hidden-gem
+pubDate: '2026-10-08T07:44:36.009Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/2/26/Interior_del_Mercado_San_Juan_de_Dios.jpg"
-  credit: "Photo: ProtoplasmaKid / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Interior_del_Mercado_San_Juan_de_Dios.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/26/Interior_del_Mercado_San_Juan_de_Dios.jpg
+  credit: 'Photo: ProtoplasmaKid / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Interior_del_Mercado_San_Juan_de_Dios.jpg
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/d/d2/Mercado_Libertad_Guadalajara_interior_panorama_shot.jpg"
-    credit: "Photo: Digitaldreamer / Wikimedia Commons (CC BY-SA 2.0 de)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Mercado_Libertad_Guadalajara_interior_panorama_shot.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/d/d2/Mercado_Libertad_Guadalajara_interior_panorama_shot.jpg
+    credit: 'Photo: Digitaldreamer / Wikimedia Commons (CC BY-SA 2.0 de)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Mercado_Libertad_Guadalajara_interior_panorama_shot.jpg
 place:
-  id: "ChIJFVwZ-ICxKIQRAzVGpT436bM"
-  name: "Mercado Libertad - San Juan de Dios"
-  address: "C. Dionisio Rodríguez 52, San Juan de Dios, 44360 Guadalajara, Jal., Mexico"
+  id: ChIJFVwZ-ICxKIQRAzVGpT436bM
+  name: Mercado Libertad - San Juan de Dios
+  address: 'C. Dionisio Rodríguez 52, San Juan de Dios, 44360 Guadalajara, Jal., Mexico'
   rating: 4.4
-  userRatingsTotal: 92670
-  googleMapsUrl: "https://maps.google.com/?cid=12963953744563025155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 92671
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12963953744563025155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 20.6755148
   lng: -103.3398522
   openingHours:
-    - "Monday: 8:00 AM – 8:00 PM"
-    - "Tuesday: 8:00 AM – 8:00 PM"
-    - "Wednesday: 8:00 AM – 8:00 PM"
-    - "Thursday: 8:00 AM – 8:00 PM"
-    - "Friday: 8:00 AM – 8:00 PM"
-    - "Saturday: 8:00 AM – 8:00 PM"
-    - "Sunday: 8:00 AM – 8:00 PM"
+    - 'Monday: 8:00 AM – 8:00 PM'
+    - 'Tuesday: 8:00 AM – 8:00 PM'
+    - 'Wednesday: 8:00 AM – 8:00 PM'
+    - 'Thursday: 8:00 AM – 8:00 PM'
+    - 'Friday: 8:00 AM – 8:00 PM'
+    - 'Saturday: 8:00 AM – 8:00 PM'
+    - 'Sunday: 8:00 AM – 8:00 PM'
 tags:
-  - "guadalajara"
-  - "local market"
-quickAnswer: "Mercado Libertad - San Juan de Dios is Guadalajara's huge three-level indoor market in the San Juan de Dios neighbourhood, at the east end of Plaza Tapatía, open daily from 8am to 8pm. Go up to the food level for birria and tortas ahogadas, then browse the produce, sweets and crafts. Allow two to three hours, and try a weekday morning if you'd rather skip the weekend crowds."
+  - guadalajara
+  - local market
+quickAnswer: >-
+  Mercado Libertad - San Juan de Dios is Guadalajara's huge three-level indoor
+  market in the San Juan de Dios neighbourhood, at the east end of Plaza
+  Tapatía, open daily from 8am to 8pm. Go up to the food level for birria and
+  tortas ahogadas, then browse the produce, sweets and crafts. Allow two to
+  three hours, and try a weekday morning if you'd rather skip the weekend
+  crowds.
 faq:
-  - q: "What are Mercado Libertad's opening hours?"
-    a: "The market is open from 8am to 8pm every day of the week. It's a working market, though, and some stalls close before the doors do. If you're coming to shop, arrive well before evening."
-  - q: "How do I get to Mercado San Juan de Dios?"
-    a: "Take Line 2 of the metro to San Juan de Dios station, which is a short walk away. From the Cathedral (near Guadalajara Centro station on Line 3), you can walk east along Plaza Tapatía. The market is at the far end, beside Calzada Independencia."
-  - q: "What should I eat at the market?"
-    a: "Go up to the middle floor, where the fondas are. Order birria with consomé, a torta ahogada or pozole, and finish with jericalla. To drink, try a cold tejuino or a fresh juice."
-  - q: "How long should I spend there?"
-    a: "Allow two to three hours if you want to eat and walk all three floors. Add another hour or two to see Hospicio Cabañas nearby, and stop at Plaza de los Mariachis on the way out."
-  - q: "Can I pay by card, and is bargaining OK?"
-    a: "Bring cash in pesos, including small bills and coins, because only some stalls take cards. Polite bargaining is normal for crafts, leather and clothing. Don't bargain at food stalls or for produce."
+  - q: What are Mercado Libertad's opening hours?
+    a: >-
+      The market is open from 8am to 8pm every day of the week. It's a working
+      market, though, and some stalls close before the doors do. If you're
+      coming to shop, arrive well before evening.
+  - q: How do I get to Mercado San Juan de Dios?
+    a: >-
+      Take Line 2 of the metro to San Juan de Dios station, which is a short
+      walk away. From the Cathedral (near Guadalajara Centro station on Line 3),
+      you can walk east along Plaza Tapatía. The market is at the far end,
+      beside Calzada Independencia.
+  - q: What should I eat at the market?
+    a: >-
+      Go up to the middle floor, where the fondas are. Order birria with
+      consomé, a torta ahogada or pozole, and finish with jericalla. To drink,
+      try a cold tejuino or a fresh juice.
+  - q: How long should I spend there?
+    a: >-
+      Allow two to three hours if you want to eat and walk all three floors. Add
+      another hour or two to see Hospicio Cabañas nearby, and stop at Plaza de
+      los Mariachis on the way out.
+  - q: 'Can I pay by card, and is bargaining OK?'
+    a: >-
+      Bring cash in pesos, including small bills and coins, because only some
+      stalls take cards. Polite bargaining is normal for crafts, leather and
+      clothing. Don't bargain at food stalls or for produce.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-08'
 ---
 
 ## Three Floors Under a Concrete Roof

@@ -1,55 +1,84 @@
 ---
-title: "Senado Square: Macau Peninsula Travel Guide (4.3★)"
-description: "Senado Square (Largo do Senado) is the open-24-hours main square of the Macau Peninsula, at the heart of the UNESCO-listed Historic Centre of Macao, just off Avenida de Almeida Ribeiro. 4.3★ (15,579 reviews) — what visitors say, hours, and tips."
-country: "Macau"
-region: "Macau Peninsula"
-category: "attraction"
-pubDate: "2026-10-06T14:34:01.656Z"
+title: 'Senado Square: Macau Peninsula Travel Guide (4.3★)'
+description: >-
+  Senado Square (Largo do Senado) is the open-24-hours main square of the Macau
+  Peninsula, at the heart of the UNESCO-listed Historic Centre of Macao, just
+  off Avenida de Almeida Ribeiro. 4.3★ (15,589 reviews) — what visitors say,
+  hours, and tips.
+country: Macau
+region: Macau Peninsula
+category: attraction
+pubDate: '2026-10-06T14:34:01.656Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/2/2c/Senado_Square_in_Macau01.jpg"
-  credit: "Photo: Kounosu / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Senado_Square_in_Macau01.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/2c/Senado_Square_in_Macau01.jpg
+  credit: 'Photo: Kounosu / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Senado_Square_in_Macau01.jpg'
+  via: act
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJhSGVke96ATQR91vVZIEul-0"
-  name: "Senado Square"
-  address: "11 Largo do Senado, Macao"
+  id: ChIJhSGVke96ATQR91vVZIEul-0
+  name: Senado Square
+  address: '11 Largo do Senado, Macao'
   rating: 4.3
-  userRatingsTotal: 15579
-  googleMapsUrl: "https://maps.google.com/?cid=17120203641749593079&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 15589
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=17120203641749593079&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.193533400000003
   lng: 113.5397593
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "macau peninsula"
-  - "top attraction"
-quickAnswer: "Senado Square (Largo do Senado) is the open-24-hours main square of the Macau Peninsula, at the heart of the UNESCO-listed Historic Centre of Macao, just off Avenida de Almeida Ribeiro. It is one of the busiest places in Macau, so go early in the morning or late at night for photos. Leave 30 to 60 minutes for the square, then walk uphill to the Ruins of St. Paul's."
+  - macau peninsula
+  - top attraction
+quickAnswer: >-
+  Senado Square (Largo do Senado) is the open-24-hours main square of the Macau
+  Peninsula, at the heart of the UNESCO-listed Historic Centre of Macao, just
+  off Avenida de Almeida Ribeiro. It is one of the busiest places in Macau, so
+  go early in the morning or late at night for photos. Leave 30 to 60 minutes
+  for the square, then walk uphill to the Ruins of St. Paul's.
 faq:
-  - q: "How do I get to Senado Square from the Macau ferry terminal?"
-    a: "Many visitors ride a free casino shuttle to the Lisboa area and walk about 10 minutes west along Avenida de Almeida Ribeiro. Public buses also stop on Almeida Ribeiro, right at the foot of the square. Taxi drivers know it as Largo do Senado, or 議事亭前地 in Chinese."
-  - q: "When is the best time to visit Senado Square?"
-    a: "The square is open 24 hours. Early morning and late evening are the quietest, because day-trippers and tour groups mostly arrive from late morning. For a busier atmosphere, go during Chinese New Year, Mid-Autumn or Christmas, when the square is decorated."
-  - q: "How long should I spend at Senado Square?"
-    a: "Allow 30 to 60 minutes for the square, the Leal Senado courtyard and St. Dominic's Church. Add an hour or two if you walk up to the Ruins of St. Paul's and stop to eat along the way."
-  - q: "How far is Senado Square from the Ruins of St. Paul's?"
-    a: "It's about a 10-minute walk uphill. Go past St. Dominic's Church and follow the signs through lanes like Rua de São Paulo, which are lined with almond cookie and jerky shops."
-  - q: "Can I pay with Hong Kong dollars around Senado Square?"
-    a: "Yes. Hong Kong dollars are widely accepted, usually at par with the pataca, though change often comes back in patacas. Many shops also accept mobile payment."
+  - q: How do I get to Senado Square from the Macau ferry terminal?
+    a: >-
+      Many visitors ride a free casino shuttle to the Lisboa area and walk about
+      10 minutes west along Avenida de Almeida Ribeiro. Public buses also stop
+      on Almeida Ribeiro, right at the foot of the square. Taxi drivers know it
+      as Largo do Senado, or 議事亭前地 in Chinese.
+  - q: When is the best time to visit Senado Square?
+    a: >-
+      The square is open 24 hours. Early morning and late evening are the
+      quietest, because day-trippers and tour groups mostly arrive from late
+      morning. For a busier atmosphere, go during Chinese New Year, Mid-Autumn
+      or Christmas, when the square is decorated.
+  - q: How long should I spend at Senado Square?
+    a: >-
+      Allow 30 to 60 minutes for the square, the Leal Senado courtyard and St.
+      Dominic's Church. Add an hour or two if you walk up to the Ruins of St.
+      Paul's and stop to eat along the way.
+  - q: How far is Senado Square from the Ruins of St. Paul's?
+    a: >-
+      It's about a 10-minute walk uphill. Go past St. Dominic's Church and
+      follow the signs through lanes like Rua de São Paulo, which are lined with
+      almond cookie and jerky shops.
+  - q: Can I pay with Hong Kong dollars around Senado Square?
+    a: >-
+      Yes. Hong Kong dollars are widely accepted, usually at par with the
+      pataca, though change often comes back in patacas. Many shops also accept
+      mobile payment.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-08'
 ---
 
 Black and white stones ripple under your feet in waves, like a tide drawn on the ground. Pastel façades in mustard, rose and cream line both sides and lead you uphill. A fountain marks the middle. Senado Square is the main square of the Macau Peninsula, and it is laid out to pull you through it rather than keep you standing still.

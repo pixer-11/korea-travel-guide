@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: macau-peninsula-senado-square
-srcHash: '38d01b0c6c9b'
+srcHash: '2af552e0b57b'
 title: 'Plaza del Senado: guía de viaje de la península de Macao (4.3★)'
-description: En pleno Centro Histórico de Macao, declarado Patrimonio de la Humanidad por la UNESCO, la plaza del Senado (Largo do Senado) es la plaza principal de la península y permanece abierta las 24 horas, a dos pasos de la avenida de Almeida Ribeiro. Con 4.3★ (15,579 reseñas), reunimos aquí opiniones de visitantes, horarios y consejos.
+description: En pleno Centro Histórico de Macao, declarado Patrimonio de la Humanidad por la UNESCO, la plaza del Senado (Largo do Senado) es la plaza principal de la península y permanece abierta las 24 horas, a dos pasos de la avenida de Almeida Ribeiro. Con 4.3★ (15,589 reseñas), reunimos aquí opiniones de visitantes, horarios y consejos.
 quickAnswer: Abierta las 24 horas, la plaza del Senado (Largo do Senado) es la plaza principal de la península de Macao y el corazón del Centro Histórico de Macao, inscrito en la lista de la UNESCO. Se encuentra junto a la avenida de Almeida Ribeiro. Como figura entre los lugares más concurridos de la ciudad, conviene ir a primera hora de la mañana o ya entrada la noche si se quieren buenas fotos. Basta con reservarle entre 30 y 60 minutos antes de subir a pie hasta las Ruinas de San Pablo.
 faq:
   - q: ¿Cómo se llega a la plaza del Senado desde la terminal de ferris de Macao?

@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: london-portobello-road-market
-srcHash: 'bd49cef502b7'
+srcHash: '0181b757bd78'
 title: 'Mercado de Portobello Road: guía de viaje de Londres (4.5★)'
-description: El mercado de Portobello Road recorre Notting Hill de sur a norte, en Londres W11. Con una valoración de 4.5★ (29,335 reseñas), reunimos aquí opiniones de visitantes, horarios y consejos.
+description: El mercado de Portobello Road recorre Notting Hill de sur a norte, en Londres W11. Con una valoración de 4.5★ (29,338 reseñas), reunimos aquí opiniones de visitantes, horarios y consejos.
 quickAnswer: El mercado de Portobello Road recorre Notting Hill de sur a norte, en Londres W11. Lo ideal es empezar por el extremo de Notting Hill Gate, donde se concentran los puestos de antigüedades, y subir a pie hasta la Westway y Golborne Road. La franja más tranquila va de 8am a 10am, sea cual sea el día. Conviene evitar los fines de semana entre las 10am y las 6pm, cuando en la zona de antigüedades no cabe un alfiler.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el mercado de Portobello Road?

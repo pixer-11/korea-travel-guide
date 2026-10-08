@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: guadalajara-mercado-libertad-san-juan-de-dios
-srcHash: 'cb5904c4706c'
+srcHash: 'f31124fdc54d'
 title: 'Mercado Libertad - San Juan de Dios: guía de viaje de Guadalajara'
-description: 'En el barrio de San Juan de Dios, al extremo oriente de la Plaza Tapatía, se levanta el Mercado Libertad - San Juan de Dios: un enorme mercado cubierto de tres niveles que abre todos los días de 8am a 8pm. Con 4.4★ (92,670 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.'
+description: 'En el barrio de San Juan de Dios, al extremo oriente de la Plaza Tapatía, se levanta el Mercado Libertad - San Juan de Dios: un enorme mercado cubierto de tres niveles que abre todos los días de 8am a 8pm. Con 4.4★ (92,671 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.'
 quickAnswer: En el barrio de San Juan de Dios, al extremo oriente de la Plaza Tapatía, se encuentra el Mercado Libertad - San Juan de Dios, el enorme mercado cubierto de tres niveles de Guadalajara, abierto a diario de 8am a 8pm. Suba primero al nivel de comida para probar la birria y las tortas ahogadas; después recorra con calma los puestos de frutas y verduras, dulces y artesanías. Reserve entre dos y tres horas para la visita y, si prefiere evitar las multitudes del fin de semana, vaya una mañana entre semana.
 faq:
   - q: ¿Cuál es el horario del Mercado Libertad?

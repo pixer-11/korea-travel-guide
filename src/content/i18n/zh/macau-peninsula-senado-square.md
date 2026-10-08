@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: macau-peninsula-senado-square
-srcHash: '38d01b0c6c9b'
+srcHash: '2af552e0b57b'
 title: 议事亭前地：澳门半岛旅游攻略（4.3★）
-description: 议事亭前地（Largo do Senado）是澳门半岛的中心广场，全天24小时开放。广场紧邻新马路（Avenida de Almeida Ribeiro），位于列入联合国教科文组织世界遗产名录的澳门历史城区核心地带。评分4.3★（15,579条评价），本文汇总游客评价、开放时间和实用贴士。
+description: 议事亭前地（Largo do Senado）是澳门半岛的中心广场，全天24小时开放。广场紧邻新马路（Avenida de Almeida Ribeiro），位于列入联合国教科文组织世界遗产名录的澳门历史城区核心地带。评分4.3★（15,589条评价），本文汇总游客评价、开放时间和实用贴士。
 quickAnswer: 议事亭前地（Largo do Senado）是澳门半岛的中心广场，全天24小时开放。广场紧邻新马路（Avenida de Almeida Ribeiro），位于列入联合国教科文组织世界遗产名录的澳门历史城区核心地带。这里是全澳门人最多的地方之一，想拍照最好清晨或深夜前往。在广场逛上30到60分钟，再沿坡步行去大三巴牌坊即可。
 faq:
   - q: 从澳门码头怎么去议事亭前地？

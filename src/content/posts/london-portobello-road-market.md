@@ -1,44 +1,50 @@
 ---
-title: "Portobello Road Market: London Travel Guide (4.5★)"
-description: "Portobello Road Market runs north through Notting Hill, London W11. 4.5★ (29,335 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "London"
-category: "hidden-gem"
-pubDate: "2026-10-08T07:47:59.979Z"
+title: 'Portobello Road Market: London Travel Guide (4.5★)'
+description: >-
+  Portobello Road Market runs north through Notting Hill, London W11. 4.5★
+  (29,338 reviews) — what visitors say, hours, and tips.
+country: United Kingdom
+region: London
+category: hidden-gem
+pubDate: '2026-10-08T07:47:59.979Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Portobello_Road_Market_in_London%2C_spring_2013_%284%29.JPG/3840px-Portobello_Road_Market_in_London%2C_spring_2013_%284%29.JPG"
-  credit: "Photo: Chmee2 / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Portobello_Road_Market_in_London,_spring_2013_(4).JPG"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Portobello_Road_Market_in_London%2C_spring_2013_%284%29.JPG/3840px-Portobello_Road_Market_in_London%2C_spring_2013_%284%29.JPG
+  credit: 'Photo: Chmee2 / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Portobello_Road_Market_in_London,_spring_2013_(4).JPG
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/c/c8/Portobello.market.london.arp.jpg"
-    credit: "Photo: Wikimedia Commons contributor / Wikimedia Commons (Public domain)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Portobello.market.london.arp.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/c/c8/Portobello.market.london.arp.jpg
+    credit: 'Photo: Wikimedia Commons contributor / Wikimedia Commons (Public domain)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Portobello.market.london.arp.jpg'
 place:
-  id: "ChIJG1YB2m4RdkgRsetv9D40NGY"
-  name: "Portobello Road Market"
-  address: "London W11 1LJ, UK"
+  id: ChIJG1YB2m4RdkgRsetv9D40NGY
+  name: Portobello Road Market
+  address: 'London W11 1LJ, UK'
   rating: 4.5
-  userRatingsTotal: 29335
-  googleMapsUrl: "https://maps.google.com/?cid=7364568735651195825&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 29338
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7364568735651195825&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 51.5170002
   lng: -0.205847
   openingHours:
-    - "Monday: 8:00 AM – 7:00 PM"
-    - "Tuesday: 8:00 AM – 7:00 PM"
-    - "Wednesday: 8:00 AM – 7:00 PM"
-    - "Thursday: 8:00 AM – 7:00 PM"
-    - "Friday: 8:00 AM – 7:00 PM"
-    - "Saturday: 8:00 AM – 7:00 PM"
-    - "Sunday: 8:00 AM – 7:00 PM"
+    - 'Monday: 8:00 AM – 7:00 PM'
+    - 'Tuesday: 8:00 AM – 7:00 PM'
+    - 'Wednesday: 8:00 AM – 7:00 PM'
+    - 'Thursday: 8:00 AM – 7:00 PM'
+    - 'Friday: 8:00 AM – 7:00 PM'
+    - 'Saturday: 8:00 AM – 7:00 PM'
+    - 'Sunday: 8:00 AM – 7:00 PM'
   busyness:
-    updated: 2026-10-08
+    updated: 2026-10-08T00:00:00.000Z
     weekdayQuiet:
       - 8
       - 9
@@ -54,24 +60,45 @@ place:
       - 15
       - 16
       - 17
-    venueId: "ven_59474e303444397674657352676b6452346d32425931474a496843"
+    venueId: ven_59474e303444397674657352676b6452346d32425931474a496843
 tags:
-  - "london"
-  - "local market"
-quickAnswer: "Portobello Road Market runs north through Notting Hill, London W11. Start at the Notting Hill Gate end, among the antiques stalls, and walk up to the Westway and Golborne Road. The quietest window is 8am to 10am on any day; avoid weekends between 10am and 6pm, when the antiques stretch is shoulder to shoulder."
+  - london
+  - local market
+quickAnswer: >-
+  Portobello Road Market runs north through Notting Hill, London W11. Start at
+  the Notting Hill Gate end, among the antiques stalls, and walk up to the
+  Westway and Golborne Road. The quietest window is 8am to 10am on any day;
+  avoid weekends between 10am and 6pm, when the antiques stretch is shoulder to
+  shoulder.
 faq:
-  - q: "When is the quietest time to visit Portobello Road Market?"
-    a: "Between 8am and 10am, on both weekdays and weekends. Avoid weekends from 10am to 6pm, which is the busiest stretch."
-  - q: "Which Tube station is best for Portobello Road Market?"
-    a: "Notting Hill Gate (Central, Circle and District lines) puts you at the antiques end. Ladbroke Grove (Hammersmith & City and Circle lines) is closer to the food stalls, the Westway and Golborne Road. Arrive at one and leave from the other."
-  - q: "What day is best for antiques?"
-    a: "Saturday, when the antiques dealers fill the southern end between Chepstow Villas and Elgin Crescent. The street is listed as open daily from 8am to 7pm, but far fewer stalls trade on weekdays."
-  - q: "How long should I spend at Portobello Road Market?"
-    a: "Plan two to three hours to walk from Notting Hill Gate to Golborne Road at a browsing pace. Allow more if you want to dig through the antiques arcades or stop for lunch."
-  - q: "What's nearby?"
-    a: "The Notting Hill Bookshop on Blenheim Crescent and the Electric Cinema are both just off the market or on it. Holland Park and Kensington Gardens are both a short walk south of Notting Hill Gate."
+  - q: When is the quietest time to visit Portobello Road Market?
+    a: >-
+      Between 8am and 10am, on both weekdays and weekends. Avoid weekends from
+      10am to 6pm, which is the busiest stretch.
+  - q: Which Tube station is best for Portobello Road Market?
+    a: >-
+      Notting Hill Gate (Central, Circle and District lines) puts you at the
+      antiques end. Ladbroke Grove (Hammersmith & City and Circle lines) is
+      closer to the food stalls, the Westway and Golborne Road. Arrive at one
+      and leave from the other.
+  - q: What day is best for antiques?
+    a: >-
+      Saturday, when the antiques dealers fill the southern end between Chepstow
+      Villas and Elgin Crescent. The street is listed as open daily from 8am to
+      7pm, but far fewer stalls trade on weekdays.
+  - q: How long should I spend at Portobello Road Market?
+    a: >-
+      Plan two to three hours to walk from Notting Hill Gate to Golborne Road at
+      a browsing pace. Allow more if you want to dig through the antiques
+      arcades or stop for lunch.
+  - q: What's nearby?
+    a: >-
+      The Notting Hill Bookshop on Blenheim Crescent and the Electric Cinema are
+      both just off the market or on it. Holland Park and Kensington Gardens are
+      both a short walk south of Notting Hill Gate.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-08'
 ---
 
 ## A Street That Changes as You Walk

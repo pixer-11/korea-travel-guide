@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: london-portobello-road-market
-srcHash: 'bd49cef502b7'
+srcHash: '0181b757bd78'
 title: 伦敦波托贝洛路市集旅行指南（4.5★）
-description: 波托贝洛路市集位于伦敦W11区，自南向北贯穿诺丁山，评分4.5★（29,335条评价）。本文汇总游客评价、开放时间与实用贴士。
+description: 波托贝洛路市集位于伦敦W11区，自南向北贯穿诺丁山，评分4.5★（29,338条评价）。本文汇总游客评价、开放时间与实用贴士。
 quickAnswer: 波托贝洛路市集（Portobello Road Market）位于伦敦W11区，自南向北贯穿诺丁山。建议从诺丁山门一端的古董摊位逛起，一路向北走到西路高架（Westway）和戈尔本路（Golborne Road）。无论哪天，人最少的时段都是早上8点到10点；周末10点到下午6点古董街段人挤人，最好避开。
 faq:
   - q: 什么时候去波托贝洛路市集人最少？

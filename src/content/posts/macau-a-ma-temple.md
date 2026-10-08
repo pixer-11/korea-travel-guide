@@ -1,40 +1,44 @@
 ---
-title: "A-Ma Temple: Macau Travel Guide (4.4★)"
-description: "A-Ma Temple sits at Barra, on the southern tip of the Macau Peninsula, and is the city's oldest temple, built in 1488 for the sea goddess A-Ma. 4.4★ (1,985 reviews) — what visitors say, hours, and tips."
-country: "Macau"
-region: "Macau"
-category: "attraction"
-pubDate: "2026-10-06T14:27:16.934Z"
+title: 'A-Ma Temple: Macau Travel Guide (4.4★)'
+description: >-
+  A-Ma Temple sits at Barra, on the southern tip of the Macau Peninsula, and is
+  the city's oldest temple, built in 1488 for the sea goddess A-Ma. 4.4★ (1,989
+  reviews) — what visitors say, hours, and tips.
+country: Macau
+region: Macau
+category: attraction
+pubDate: '2026-10-06T14:27:16.934Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/3/39/A_Ma_Temple_200907.jpg"
-  credit: "Photo: WiNG / Wikimedia Commons (CC BY 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:A_Ma_Temple_200907.jpg"
+  url: 'https://upload.wikimedia.org/wikipedia/commons/3/39/A_Ma_Temple_200907.jpg'
+  credit: 'Photo: WiNG / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:A_Ma_Temple_200907.jpg'
   focus:
     x: 20
-    y: 55
+    'y': 55
 gallery: []
 place:
-  id: "ChIJixIYnvR6ATQRHlAMDraIehs"
-  name: "A-Ma Temple"
-  address: "Macao"
+  id: ChIJixIYnvR6ATQRHlAMDraIehs
+  name: A-Ma Temple
+  address: Macao
   rating: 4.4
-  userRatingsTotal: 1985
-  googleMapsUrl: "https://maps.google.com/?cid=1980045301683867678&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1989
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1980045301683867678&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 22.1861677
   lng: 113.5312759
-  phone: "+853 2836 6866"
+  phone: +853 2836 6866
   openingHours:
-    - "Monday: 7:00 AM – 6:00 PM"
-    - "Tuesday: 7:00 AM – 6:00 PM"
-    - "Wednesday: 7:00 AM – 6:00 PM"
-    - "Thursday: 7:00 AM – 6:00 PM"
-    - "Friday: 7:00 AM – 6:00 PM"
-    - "Saturday: 7:00 AM – 6:00 PM"
-    - "Sunday: 7:00 AM – 6:00 PM"
+    - 'Monday: 7:00 AM – 6:00 PM'
+    - 'Tuesday: 7:00 AM – 6:00 PM'
+    - 'Wednesday: 7:00 AM – 6:00 PM'
+    - 'Thursday: 7:00 AM – 6:00 PM'
+    - 'Friday: 7:00 AM – 6:00 PM'
+    - 'Saturday: 7:00 AM – 6:00 PM'
+    - 'Sunday: 7:00 AM – 6:00 PM'
   busyness:
-    updated: 2026-10-06
+    updated: 2026-10-06T00:00:00.000Z
     weekdayQuiet:
       - 7
       - 8
@@ -53,24 +57,41 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_736865496172444d416c48525154413652766e594978694a496843"
+    venueId: ven_736865496172444d416c48525154413652766e594978694a496843
 tags:
-  - "macau"
-  - "top attraction"
-quickAnswer: "A-Ma Temple sits at Barra, on the southern tip of the Macau Peninsula, and is the city's oldest temple, built in 1488 for the sea goddess A-Ma. It is open daily from 7am to 6pm. Come between 7am and 10am on weekdays (7am to 9am at weekends) and avoid weekends from 11am to 5pm, when the narrow hillside paths are at their most crowded."
+  - macau
+  - top attraction
+quickAnswer: >-
+  A-Ma Temple sits at Barra, on the southern tip of the Macau Peninsula, and is
+  the city's oldest temple, built in 1488 for the sea goddess A-Ma. It is open
+  daily from 7am to 6pm. Come between 7am and 10am on weekdays (7am to 9am at
+  weekends) and avoid weekends from 11am to 5pm, when the narrow hillside paths
+  are at their most crowded.
 faq:
-  - q: "When is the quietest time to visit A-Ma Temple?"
-    a: "Weekdays from 7am to 10am and weekends from 7am to 9am. Avoid weekends between 11am and 5pm, when it is busiest."
-  - q: "What are A-Ma Temple's opening hours?"
-    a: "It is open daily, including weekends, from 7am to 6pm."
-  - q: "How do I get to A-Ma Temple?"
-    a: "Head for Barra, at the southern tip of the Macau Peninsula. The Barra station on the Macau Light Rapid Transit is nearby, many buses end at Barra, and Senado Square is about a 25 to 30 minute walk away through the old quarter."
-  - q: "How long should I spend there?"
-    a: "Allow 45 minutes to an hour to climb through all the pavilions. Add another hour or so if you visit the Maritime Museum across the square."
-  - q: "Is there a dress code or etiquette to follow?"
-    a: "There is no strict dress code, but modest clothing is courteous. Step over the raised thresholds rather than on them, don't point at deity statues, and ask before photographing people who are praying."
+  - q: When is the quietest time to visit A-Ma Temple?
+    a: >-
+      Weekdays from 7am to 10am and weekends from 7am to 9am. Avoid weekends
+      between 11am and 5pm, when it is busiest.
+  - q: What are A-Ma Temple's opening hours?
+    a: 'It is open daily, including weekends, from 7am to 6pm.'
+  - q: How do I get to A-Ma Temple?
+    a: >-
+      Head for Barra, at the southern tip of the Macau Peninsula. The Barra
+      station on the Macau Light Rapid Transit is nearby, many buses end at
+      Barra, and Senado Square is about a 25 to 30 minute walk away through the
+      old quarter.
+  - q: How long should I spend there?
+    a: >-
+      Allow 45 minutes to an hour to climb through all the pavilions. Add
+      another hour or so if you visit the Maritime Museum across the square.
+  - q: Is there a dress code or etiquette to follow?
+    a: >-
+      There is no strict dress code, but modest clothing is courteous. Step over
+      the raised thresholds rather than on them, don't point at deity statues,
+      and ask before photographing people who are praying.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-08'
 ---
 
 ## The goddess who gave Macau its name

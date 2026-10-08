@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: macau-a-ma-temple
-srcHash: '2e99382a53d1'
+srcHash: 'e249f3a0aedf'
 title: 'Templo de A-Ma: guía de viaje de Macao (4.4★)'
-description: En Barra, en el extremo sur de la península de Macao, se alza el templo de A-Ma, el más antiguo de la ciudad, levantado en 1488 en honor de la diosa del mar A-Ma. Con 4.4★ (1,985 reseñas), le contamos qué opinan los visitantes, cuál es su horario y algunos consejos.
+description: En Barra, en el extremo sur de la península de Macao, se alza el templo de A-Ma, el más antiguo de la ciudad, levantado en 1488 en honor de la diosa del mar A-Ma. Con 4.4★ (1,989 reseñas), le contamos qué opinan los visitantes, cuál es su horario y algunos consejos.
 quickAnswer: En Barra, en el extremo sur de la península de Macao, se alza el templo de A-Ma, el más antiguo de la ciudad, levantado en 1488 en honor de la diosa del mar A-Ma. Abre todos los días de 7am a 6pm. Lo ideal es acudir entre semana de 7am a 10am, o de 7am a 9am los fines de semana. Conviene evitar los fines de semana de 11am a 5pm, cuando sus estrechos senderos de ladera registran la mayor afluencia.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el templo de A-Ma?
