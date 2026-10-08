@@ -11195,5 +11195,275 @@
       "getting": "大多数旅客经澳门国际机场（MFM）抵达，机场本身就坐落在氹仔，并通过澳门轻轨氹仔线与澳门其他地区相连。无论是从机场出发，还是从区域客运码头和巴士总站出发，巴士与的士都是前往氹仔旧城区及路氹度假区最便捷可靠的交通方式。",
       "days": "建议预留1至2天时间，以轻松的步调游览氹仔的历史村落、海滨风光以及邻近的路氹度假区。"
     }
+  },
+  "Cuttack": {
+    "en": {
+      "blurb": "Cuttack is Odisha's \"Millennium City,\" a riverine former capital wedged between the Mahanadi and Kathajodi rivers where silver filigree artisans (tarkashi) still work from tiny workshops near Chaudhury Bazaar. Its history stretches back over a thousand years, layered with the ruins of Barabati Fort and the annual riverside Bali Jatra festival that recalls the city's old maritime trade links.",
+      "getting": "The nearest airport is Bhubaneswar's Biju Patnaik International Airport (BBI), roughly 30km away, from where buses or trains cover the final stretch into the city. Cuttack also has its own major railway junction, Cuttack Junction (CTC), on the East Coast Railway network, with direct connections to Kolkata, Delhi, Mumbai and Chennai.",
+      "days": "Plan on ~1 day to cover the compact old town's highlights, including Barabati Fort, the filigree workshops and the riverside, with an extra day if combining it with nearby Bhubaneswar."
+    },
+    "ko": {
+      "blurb": "커택(Cuttack)은 오디샤의 '밀레니엄 시티'로 불리는 곳으로, 마하나디강과 카타조디강 사이에 자리한 유서 깊은 옛 수도입니다. 차우두리 바자르 인근의 작은 공방에서는 지금도 은세공 장인들이 전통 필리그리 기법인 '타르카시'로 섬세한 은세공품을 만들어내고 있습니다. 천 년이 넘는 역사를 간직한 이 도시에는 바라바티 요새의 폐허가 남아 있으며, 매년 강변에서 열리는 발리 자트라 축제는 한때 번성했던 해상 교역의 전성기를 떠올리게 합니다.",
+      "getting": "가장 가까운 공항은 약 30km 떨어진 부바네스와르의 비주 파트나이크 국제공항(BBI)으로, 이곳에서 버스나 기차를 이용해 커택까지 이동할 수 있습니다. 커택에는 이스트코스트 철도망에 속한 주요 기차역인 커택 분기역(CTC)도 있어, 콜카타, 델리, 뭄바이, 첸나이와 직통으로 연결됩니다.",
+      "days": "바라바티 요새, 필리그리 공방, 강변 지역 등 아담한 구시가지의 주요 명소를 둘러보는 데는 하루 정도면 충분하며, 인근 부바네스와르와 함께 묶어 여행한다면 하루 더 일정을 추가하는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "カタックはオディシャ州の「ミレニアム・シティ」と呼ばれる、マハナディ川とカタジョディ川に挟まれた河畔のかつての州都です。チャウドリー・バザール近くの小さな工房では、銀細工の繊細な技「タルカシ」を受け継ぐ職人たちが今も腕を振るっています。その歴史は千年以上前に遡り、バラバティ砦の遺跡や、かつての海上交易の繁栄を今に伝える河畔の年次祭り「バリ・ジャトラ」など、幾重もの時代の足跡が重なり合っています。",
+      "getting": "最寄り空港はビジュ・パトナイク国際空港(BBI、ブバネシュワル)で、カタックまでは約30km。空港からはバスや鉄道を乗り継いで市内へ向かいます。カタック自体にも主要な鉄道駅、カタック・ジャンクション(CTC)があり、東海岸鉄道網の要衝として、コルカタ、デリー、ムンバイ、チェンナイへ直通列車が運行されています。",
+      "days": "こぢんまりとした旧市街の主要スポット、バラバティ砦や銀細工の工房、川沿いの風景などを巡るには、1日あれば十分です。近郊のブバネシュワルと組み合わせて周遊する場合は、もう1日プラスすることをおすすめします。"
+    },
+    "es": {
+      "blurb": "Cuttack es la \"Ciudad del Milenio\" de Odisha, una antigua capital ribereña encajada entre los ríos Mahanadi y Kathajodi, donde los artesanos de la filigrana de plata (tarkashi) siguen trabajando en pequeños talleres cerca de Chaudhury Bazaar. Su historia se remonta a más de mil años atrás, con capas que incluyen las ruinas del Fuerte Barabati y el festival ribereño anual de Bali Jatra, que evoca los antiguos vínculos comerciales marítimos de la ciudad.",
+      "getting": "El aeropuerto más cercano es el Aeropuerto Internacional Biju Patnaik de Bhubaneswar (BBI), a unos 30 km de distancia, desde donde autobuses o trenes cubren el tramo final hasta la ciudad. Cuttack también cuenta con su propio nudo ferroviario importante, Cuttack Junction (CTC), dentro de la red de East Coast Railway, con conexiones directas a Calcuta, Delhi, Bombay y Chennai.",
+      "days": "Calcula aproximadamente 1 día para recorrer lo más destacado del compacto casco antiguo, incluyendo el Fuerte Barabati, los talleres de filigrana y la ribera del río, y suma un día extra si lo combinas con la cercana Bhubaneswar."
+    },
+    "zh": {
+      "blurb": "卡塔克是奥里萨邦的\"千年之城\"，这座古老的前首府坐落在默哈讷迪河与卡塔乔迪河之间的河网地带，精美的银丝细工（tarkashi）至今仍由乔杜里市场附近的小作坊里的工匠们手工打造。这座城市的历史可追溯千年以上，巴拉巴蒂堡的遗迹与每年在河畔举行的巴利亚特拉节层层叠叠地诉说着往昔，后者正是为纪念这座城市昔日海上贸易往来而设立的。",
+      "getting": "最近的机场是比贾帕特奈克国际机场（BBI），位于布巴内什瓦尔，距卡塔克约30公里，抵达后可乘巴士或火车完成最后一段路程进城。卡塔克本身也有一个重要的铁路枢纽——卡塔克火车站（CTC），隶属东海岸铁路网络，可直达加尔各答、德里、孟买和金奈。",
+      "days": "游览紧凑的老城区精华景点（包括巴拉巴蒂堡、银丝细工作坊和河畔风光）大约需要1天时间，如果打算与邻近的布巴内什瓦尔一同游览，建议多留一天。"
+    }
+  },
+  "Dallas": {
+    "en": {
+      "blurb": "Dallas is a sprawling Texan metropolis built on oil wealth and reinvention, where gleaming downtown skyscrapers sit alongside sprawling suburbs, sprawling highways and a skyline that has come to symbolise modern Sun Belt ambition. It mixes serious museums and historic sites, including the Sixth Floor Museum at Dealey Plaza, with a thriving food, arts and nightlife scene spread across distinct districts like Deep Ellum, Bishop Arts and Uptown.",
+      "getting": "Most travellers arrive via Dallas/Fort Worth International Airport (DFW), the region's main hub; from Terminal A, the DART Orange Line light rail runs directly into downtown Dallas in ~50 minutes. Taxis and rideshares cover the same ~20 mile route faster, typically in ~25-45 minutes, and are the more practical choice for late-night arrivals since rail service does not run 24 hours.",
+      "days": "Plan on ~3-4 days to cover downtown's museums and historic sites, a couple of the city's distinct neighbourhood districts, and a bit of breathing room for its spread-out food and entertainment scene."
+    },
+    "ko": {
+      "blurb": "댈러스는 석유로 쌓은 부와 끊임없는 재창조 위에 세워진 광활한 텍사스 대도시로, 번쩍이는 다운타운 마천루가 끝없이 펼쳐진 교외 지역, 거대한 고속도로망과 공존하며 오늘날 선벨트의 야망을 상징하는 스카이라인을 이루고 있다. 딜리 플라자의 식스 플로어 박물관을 비롯한 묵직한 박물관과 역사 유적지가 있는가 하면, 딥 엘럼, 비숍 아츠, 업타운처럼 개성 뚜렷한 지구마다 활기찬 음식·예술·나이트라이프 문화가 펼쳐진다.",
+      "getting": "대부분의 여행자는 이 지역의 관문인 댈러스/포트워스 국제공항(DFW)을 통해 도착한다. 터미널 A에서 DART 오렌지 라인 경전철을 타면 약 50분 만에 댈러스 다운타운까지 바로 갈 수 있다. 택시나 차량 공유 서비스는 같은 약 20마일 구간을 더 빠르게, 보통 25~45분 정도에 주파하며, 경전철이 24시간 운행하지 않기 때문에 늦은 밤 도착 시에는 이쪽이 더 현실적인 선택이다.",
+      "days": "다운타운의 박물관과 역사 유적지, 개성 있는 동네 몇 곳, 그리고 곳곳에 흩어진 음식·엔터테인먼트 명소를 여유 있게 즐기려면 약 3~4일 정도 일정을 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "ダラスは、石油がもたらした富と絶え間ない再生の上に築かれたテキサスの大都市だ。輝くダウンタウンの高層ビル群の周囲には広大な郊外と幾重にも伸びるハイウェイが広がり、そのスカイラインは現代のサンベルト的野心の象徴となっている。ディーリー・プラザにある「シックスフロア・ミュージアム」をはじめとする本格的な博物館や史跡がある一方で、ディープ・エラム、ビショップ・アーツ、アップタウンといった個性豊かなエリアには、活気あるグルメ、アート、ナイトライフのシーンが広がっている。",
+      "getting": "多くの旅行者は、この地域の玄関口であるダラス・フォートワース国際空港(DFW)を利用する。ターミナルAからはDART(ダラス高速輸送公社)のオレンジラインが運行しており、ダウンタウン・ダラスまで直通で約50分。タクシーやライドシェアも同じ約20マイルのルートをより速く、おおよそ25〜45分でカバーでき、鉄道が24時間運行していないため、深夜到着の場合はこちらがより現実的な選択肢となる。",
+      "days": "ダウンタウンの博物館や史跡を巡り、個性的な街区をいくつか訪れ、さらに市内に点在するグルメやエンターテインメントを楽しむ余裕も持たせるなら、滞在日数は3〜4日ほどを見ておくとよい。"
+    },
+    "es": {
+      "blurb": "Dallas es una extensa metrópolis tejana forjada a partir de la riqueza petrolera y la constante reinvención, donde relucientes rascacielos del centro conviven con suburbios interminables y autopistas que se extienden hasta donde alcanza la vista, en un perfil urbano que se ha convertido en símbolo de la ambición moderna del Sun Belt. La ciudad combina museos de peso y sitios históricos, como el Sixth Floor Museum en Dealey Plaza, con una vibrante escena gastronómica, artística y nocturna repartida por distritos muy diferentes entre sí, como Deep Ellum, Bishop Arts y Uptown.",
+      "getting": "La mayoría de los viajeros llega por el Aeropuerto Internacional de Dallas/Fort Worth (DFW), el principal hub de la región; desde la Terminal A, la línea naranja del DART (tren ligero) llega directamente al centro de Dallas en unos 50 minutos. Los taxis y los servicios de transporte privado cubren esa misma distancia de unas 20 millas en menos tiempo, por lo general entre 25 y 45 minutos, y son la opción más práctica para llegadas de madrugada, ya que el servicio de tren no funciona las 24 horas.",
+      "days": "Conviene reservar entre 3 y 4 días para recorrer los museos y sitios históricos del centro, visitar un par de los distritos y barrios más característicos de la ciudad, y tener algo de margen para disfrutar con calma de su dispersa oferta gastronómica y de entretenimiento."
+    },
+    "zh": {
+      "blurb": "达拉斯是一座在石油财富与不断自我重塑中崛起的德州大都会，市中心的摩天大楼熠熠生辉，与四处延展的郊区、纵横交错的高速公路交相辉映，其天际线已成为阳光地带现代雄心的象征。这里既有严肃厚重的博物馆和历史遗迹——比如迪利广场的六楼博物馆，也有在深埃勒姆（Deep Ellum）、主教艺术区（Bishop Arts）和市区北角（Uptown）等各具特色的街区中蓬勃兴盛的美食、艺术与夜生活。",
+      "getting": "大多数游客经由达拉斯/沃斯堡国际机场（DFW）抵达，这里是该地区的主要枢纽。从航站楼A出发，DART橙线轻轨可直达达拉斯市中心，车程约50分钟。出租车和网约车走的是同一条约20英里的路线，速度更快，通常需25-45分钟，由于轻轨并非24小时运营，深夜抵达时打车是更实际的选择。",
+      "days": "建议安排约3-4天的行程，用来游览市中心的博物馆和历史遗迹，走访几个各具特色的街区，并留出一些从容的时间，去体验这座城市分布广泛的美食与娱乐场景。"
+    }
+  },
+  "Guwahati": {
+    "en": {
+      "blurb": "Guwahati sits on the banks of the Brahmaputra river and is widely known as the Gateway to Northeast India, a title earned by its role as the region's main transit and trade hub. The city blends riverside temples, like the hilltop Kamakhya Temple, with the everyday bustle of a growing commercial centre for the seven sister states.",
+      "getting": "Most travellers arrive via Lokpriya Gopinath Bordoloi International Airport (GAU), located about 20km from the city centre and serving as the primary airport for Northeast India. Guwahati railway station (GHY), in the heart of the city, is the region's main rail hub, with the nearby Kamakhya Junction handling many long-distance services as well.",
+      "days": "~2 days is enough to cover Guwahati's temples, riverfront and museums, though many travellers pass through for a day or two en route to the rest of Northeast India."
+    },
+    "ko": {
+      "blurb": "구와하티는 브라마푸트라 강변에 자리한 도시로, 동북인도로 통하는 관문이라는 별칭으로 널리 알려져 있다. 이 별칭은 이 지역의 주요 교통 및 교역 중심지 역할을 해온 데서 비롯된 것이다. 언덕 위에 자리한 카마키아 사원을 비롯한 강변의 사원들과, 일곱 자매 주(州)의 상업 중심지로 성장해가는 도시의 활기찬 일상이 한데 어우러져 있는 곳이다.",
+      "getting": "대부분의 여행자는 로크프리야 고피나트 보르돌로이 국제공항(GAU)을 통해 도착한다. 시내에서 약 20km 떨어진 이 공항은 동북인도를 대표하는 관문 공항 역할을 하고 있다. 시내 중심부에 위치한 구와하티 기차역(GHY)은 이 지역 최대의 철도 거점이며, 인근의 카마키아 분기역 또한 많은 장거리 열차를 처리하고 있다.",
+      "days": "구와하티의 사원과 강변, 박물관을 둘러보는 데는 2일 정도면 충분하지만, 많은 여행자들이 동북인도의 다른 지역으로 떠나기 전 하루이틀 정도 머물다 가는 경유지로 이곳을 찾기도 한다."
+    },
+    "ja": {
+      "blurb": "ガウハティはブラマプトラ川のほとりに広がる街で、「北東インドの玄関口」として広く知られています。これはこの地域最大の交通・貿易の拠点としての役割から生まれた呼び名です。丘の上に建つカマキヤ寺院をはじめとする川辺の寺院群と、セブン・シスターズ諸州の商業の中心地として発展を続ける街の活気ある日常が、この街の中で自然に溶け合っています。",
+      "getting": "多くの旅行者は、市街地から約20km離れた場所にあるロクプリヤ・ゴピナート・ボルドロイ国際空港(GAU)を利用して訪れます。この空港は北東インド全体の玄関口としての役割を担っています。市街中心部にあるガウハティ駅(GHY)はこの地域の鉄道網の中心であり、近隣のカマキヤ・ジャンクション駅も多くの長距離列車の発着を担っています。",
+      "days": "ガウハティの寺院群、川沿いの風景、博物館を巡るには2日ほどあれば十分です。ただし、多くの旅行者は北東インドの他の地域へ向かう途中、1〜2日ほど滞在する形で立ち寄っています。"
+    },
+    "es": {
+      "blurb": "Guwahati se extiende a orillas del río Brahmaputra y es ampliamente conocida como la Puerta de Entrada al Noreste de India, un título que ha ganado por su papel como principal centro de tránsito y comercio de la región. La ciudad combina templos junto al río, como el Templo de Kamakhya, situado en lo alto de una colina, con el bullicio cotidiano de un centro comercial en pleno crecimiento para los siete estados hermanos.",
+      "getting": "La mayoría de los viajeros llega a través del Aeropuerto Internacional Lokpriya Gopinath Bordoloi (GAU), ubicado a unos 20 km del centro de la ciudad y que funciona como el principal aeropuerto del Noreste de India. La estación de tren de Guwahati (GHY), en pleno corazón de la ciudad, es el mayor nudo ferroviario de la región, y la cercana Kamakhya Junction también gestiona numerosos servicios de larga distancia.",
+      "days": "Con unos 2 días es suficiente para recorrer los templos, el paseo junto al río y los museos de Guwahati, aunque muchos viajeros solo pasan por la ciudad uno o dos días de camino hacia el resto del Noreste de India."
+    },
+    "zh": {
+      "blurb": "瓜哈蒂坐落在布拉马普特拉河畔，素有\"印度东北部门户\"之称——这一美誉源于其作为该地区主要交通与贸易枢纽的地位。这座城市既有依河而建的寺庙，比如坐落在山顶的卡马克亚神庙，也有作为\"七姐妹邦\"日益繁荣的商业中心所特有的热闹氛围，两者相得益彰。",
+      "getting": "大多数游客通过洛克普里亚·戈皮纳特·波尔多洛伊国际机场（GAU）抵达，该机场距市中心约20公里，是印度东北部的主要航空枢纽。位于市中心的瓜哈蒂火车站（GHY）是该地区最重要的铁路枢纽，附近的卡马克亚枢纽站也承担着大量长途列车业务。",
+      "days": "大约2天时间便足以游览瓜哈蒂的寺庙、河滨风光和各类博物馆，不过许多旅行者只是在前往印度东北部其他地区途中，在此停留一两天。"
+    }
+  },
+  "Indian Wells": {
+    "en": {
+      "blurb": "Indian Wells is a small, upscale desert resort city in California's Coachella Valley, known for manicured golf courses, luxury hotels and the Indian Wells Tennis Garden. Each March the city's population swells for the BNP Paribas Open, one of tennis's most prestigious non-major tournaments, drawing fans to its stadium courts and practice facilities.",
+      "getting": "The nearest commercial airport is Palm Springs International Airport (PSP), located roughly 12 to 17 miles away depending on the part of town, with no direct public transit link, so most visitors rent a car or take a taxi or rideshare for the ~20 to 30 minute journey. Travellers coming from further afield typically connect through PSP via major hubs, or drive in from Los Angeles or San Diego, each around 2 to 3 hours away by car.",
+      "days": "Allow 2 to 3 days to cover the golf resorts, spa hotels and tennis facilities at a relaxed pace, or longer during the March tournament when the Tennis Garden becomes the main focus of a visit."
+    },
+    "ko": {
+      "blurb": "인디언 웰스는 캘리포니아 코첼라 밸리에 위치한 작고 고급스러운 사막 휴양 도시로, 잘 정돈된 골프 코스와 럭셔리 호텔, 그리고 인디언 웰스 테니스 가든으로 유명하다. 매년 3월에는 테니스 메이저 대회 다음으로 손꼽히는 권위 있는 대회인 BNP 파리바 오픈이 열리면서 도시 인구가 크게 늘어나며, 전 세계 팬들이 경기장과 연습 시설을 찾아 몰려든다.",
+      "getting": "가장 가까운 상업 공항은 팜스프링스 국제공항(PSP)으로, 시내 위치에 따라 약 12~17마일(약 19~27km) 떨어져 있다. 직통 대중교통이 없기 때문에 대부분의 방문객은 렌터카를 이용하거나 택시, 라이드셰어를 타고 약 20~30분을 이동한다. 더 먼 지역에서 오는 여행객은 보통 주요 허브 공항을 거쳐 PSP로 연결편을 이용하거나, 로스앤젤레스나 샌디에이고에서 차로 약 2~3시간을 달려 직접 오기도 한다.",
+      "days": "골프 리조트와 스파 호텔, 테니스 시설을 여유롭게 둘러보려면 2~3일 정도가 적당하며, 3월 대회 기간에는 테니스 가든이 방문의 중심이 되므로 더 길게 일정을 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "インディアンウェルズは、カリフォルニア州コーチェラバレーにある小さな高級砂漠リゾート都市で、手入れの行き届いたゴルフコース、高級ホテル、そしてインディアンウェルズ・テニスガーデンで知られています。毎年3月には、テニス界で最も権威あるグランドスラーム級の大会の一つ、BNPパリバ・オープンの開催に合わせて街の人口が一気に膨れ上がり、スタジアムコートや練習施設に多くのファンが詰めかけます。",
+      "getting": "最寄りの商業空港はパームスプリングス国際空港（PSP）で、市内のエリアにもよりますが、インディアンウェルズまでは約12〜17マイルの距離があります。公共交通機関による直通の便はないため、ほとんどの旅行者はレンタカーを利用するか、タクシーやライドシェアで約20〜30分かけて移動します。遠方から訪れる旅行者は、主要ハブ空港を経由してPSPに乗り継ぐか、車で約2〜3時間のロサンゼルスやサンディエゴから直接向かうのが一般的です。",
+      "days": "ゴルフリゾートやスパホテル、テニス施設をのんびり巡るなら2〜3日は見ておきましょう。3月の大会期間中は、テニスガーデンが訪問の目玉となるため、さらに長めの滞在がおすすめです。"
+    },
+    "es": {
+      "blurb": "Indian Wells es una pequeña y elegante ciudad turística del desierto, ubicada en el Valle de Coachella, California, conocida por sus impecables campos de golf, sus hoteles de lujo y el Indian Wells Tennis Garden. Cada mes de marzo, la población de la ciudad se multiplica con motivo del BNP Paribas Open, uno de los torneos de tenis no grandes más prestigiosos, que atrae a aficionados a sus pistas de estadio y a sus instalaciones de entrenamiento.",
+      "getting": "El aeropuerto comercial más cercano es el Aeropuerto Internacional de Palm Springs (PSP), situado a unas 12-17 millas (entre 19 y 27 km) de distancia según la zona de la ciudad, sin conexión directa de transporte público, por lo que la mayoría de los visitantes alquila un coche o toma un taxi o servicio de transporte privado para un trayecto de entre 20 y 30 minutos aproximadamente. Quienes llegan desde más lejos suelen conectar hacia el PSP a través de los principales aeropuertos de enlace, o bien conducir desde Los Ángeles o San Diego, ambos a unas 2-3 horas en coche.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer con calma los resorts de golf, los hoteles con spa y las instalaciones de tenis, o más tiempo durante el torneo de marzo, cuando el Tennis Garden se convierte en el centro indiscutible de la visita."
+    },
+    "zh": {
+      "blurb": "印第安维尔斯（Indian Wells）是加州科切拉谷（Coachella Valley）中一座小巧精致的高档沙漠度假城市，以修剪齐整的高尔夫球场、豪华酒店以及印第安维尔斯网球花园（Indian Wells Tennis Garden）而闻名。每年三月，这座城市都会因法国巴黎银行公开赛（BNP Paribas Open）而人气爆棚——作为网坛最负盛名的非大满贯赛事之一，它吸引着大批网球迷涌入球场看台与训练场地。",
+      "getting": "距离这里最近的商业机场是棕榈泉国际机场（Palm Springs International Airport，机场代码PSP），根据所在城区不同，车程大约12到17英里，且没有直达的公共交通，因此大多数游客会选择租车，或乘坐出租车／网约车前往，车程约20到30分钟。从更远地方前来的游客，通常会经由各大枢纽机场转机至PSP，也有人选择自驾前往，从洛杉矶或圣地亚哥出发，车程各约2到3小时。",
+      "days": "若想以轻松的节奏游览当地的高尔夫度假村、水疗酒店和网球设施，建议安排2到3天时间；而若恰逢三月赛事期间，网球花园会成为此行的重头戏，不妨多留几天细细体验。"
+    }
+  },
+  "Lucknow": {
+    "en": {
+      "blurb": "Lucknow is the capital of Uttar Pradesh, famed for its Nawabi-era monuments, refined Awadhi cuisine and a courtly culture of poetry, music and etiquette still visible in its old quarters. Grand landmarks like the Bara Imambara sit alongside colonial-era railway architecture, giving the city a layered, unhurried charm distinct from India's more frenetic metros.",
+      "getting": "Lucknow is served by Chaudhary Charan Singh International Airport (LKO) in Amausi, with the Lucknow Metro's Red Line running directly from the terminal into the city centre in about 20 to 25 minutes. The city's main railway hub, Charbagh (station code LKO), connects Lucknow by rail to most major Indian cities, and taxis or autos are readily available from both the airport and the station.",
+      "days": "Plan on ~2 to 3 days to see Lucknow's main monuments, old city bazaars and sample its signature cuisine at a comfortable pace."
+    },
+    "ko": {
+      "blurb": "러크나우는 우타르프라데시주의 주도로, 나와브 왕조 시대의 기념 건축물들과 정교한 아와디 요리, 그리고 구시가지 곳곳에 여전히 남아 있는 시와 음악, 예법을 중시하던 궁정 문화로 유명하다. 바라 이맘바라 같은 웅장한 랜드마크들이 식민지 시대의 철도 건축물과 나란히 자리 잡고 있어, 인도의 다른 분주한 대도시들과는 사뭇 다른, 켜켜이 쌓인 세월의 멋과 여유로운 매력을 지닌 도시다.",
+      "getting": "러크나우는 아마우시에 위치한 차우다리 차란 싱 국제공항(LKO)을 통해 오갈 수 있으며, 러크나우 메트로 레드 라인이 공항 터미널에서 시내 중심부까지 약 20~25분 만에 직결된다. 도시의 주요 철도 거점인 차르바그역(역 코드 LKO)은 인도 주요 도시 대부분과 철도로 연결되어 있고, 공항과 역 모두에서 택시나 오토릭샤를 쉽게 이용할 수 있다.",
+      "days": "러크나우의 주요 기념물과 구시가지 시장을 둘러보고 이 도시의 대표 요리를 여유롭게 맛보려면 2~3일 정도를 계획하는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "ラクナウはウッタル・プラデーシュ州の州都で、ナワーブ時代の壮麗な建築群、洗練されたアワディ料理、そして詩歌や音楽、礼節を重んじる宮廷文化の名残が旧市街に今も息づく街として知られています。バラ・イマームバーラーのような壮大な建造物が、イギリス統治時代の鉄道建築と隣り合って佇む様子は、インドの他の慌ただしい大都市とは一線を画す、幾層にも重なったゆったりとした魅力を感じさせます。",
+      "getting": "ラクナウへの玄関口は、アマウシにあるチャウドリー・チャラン・シン国際空港(LKO)です。ラクナウ・メトロのレッドラインがターミナルから市内中心部まで直通で結んでおり、所要時間は約20~25分。市内の主要鉄道駅チャールバーグ駅(駅コードLKO)はインド各地の主要都市と鉄道で結ばれており、空港・駅ともにタクシーやオートリクシャーが容易に利用できます。",
+      "days": "ラクナウの主要な見どころや旧市街のバザールを巡り、名物料理をゆっくり味わうには、2~3日程度の滞在がおすすめです。"
+    },
+    "es": {
+      "blurb": "Lucknow es la capital de Uttar Pradesh, célebre por sus monumentos de la era Nawabi, su refinada gastronomía Awadhi y una cultura cortesana de poesía, música y etiqueta que aún se percibe en sus barrios antiguos. Grandes hitos como el Bara Imambara conviven con la arquitectura ferroviaria de la época colonial, confiriendo a la ciudad un encanto pausado y con muchas capas, bien distinto del de las metrópolis más frenéticas de la India.",
+      "getting": "Lucknow cuenta con el Aeropuerto Internacional Chaudhary Charan Singh (LKO), en Amausi, desde donde la Línea Roja del Metro de Lucknow conecta directamente la terminal con el centro de la ciudad en unos 20 a 25 minutos. Charbagh, la principal estación ferroviaria de la ciudad (código LKO), enlaza Lucknow por tren con la mayoría de las grandes ciudades de la India, y tanto en el aeropuerto como en la estación es fácil encontrar taxis o autorriksás.",
+      "days": "Conviene reservar unos 2 a 3 días para recorrer con calma los principales monumentos de Lucknow, pasear por los bazares del casco antiguo y degustar su gastronomía característica."
+    },
+    "zh": {
+      "blurb": "勒克瑙是北方邦的首府，以纳瓦布时代的历史古迹、精致的阿瓦德美食，以及至今仍在老城区依稀可见的诗歌、音乐与宫廷礼仪文化而闻名。大巴拉伊玛姆巴拉等宏伟地标与殖民时期的铁路建筑交相辉映，赋予这座城市一种层次丰富、从容不迫的独特韵味，与印度其他节奏飞快的大都市截然不同。",
+      "getting": "勒克瑙由位于阿毛西的乔杜里·查兰·辛格国际机场（LKO）提供航空服务，勒克瑙地铁红线可直接从航站楼通往市中心，车程约20至25分钟。该市的主要铁路枢纽恰尔巴格车站（站点代码LKO）将勒克瑙与印度大多数主要城市以铁路相连，机场和火车站均可轻松打到出租车或嘟嘟车（auto）。",
+      "days": "建议安排约2至3天时间，从容游览勒克瑙的主要古迹和老城集市，并细细品尝当地的招牌美食。"
+    }
+  },
+  "Motegi": {
+    "en": {
+      "blurb": "Motegi is a quiet town in the hills of Tochigi Prefecture, known globally for the Mobility Resort Motegi circuit (formerly Twin Ring Motegi), home to Japan's MotoGP round and a Honda-built racing and theme park complex. Beyond the track, the area settles into rural Japan: river valleys, the small Moka Railway steam line, and the kind of countryside pace that contrasts sharply with Tokyo, roughly 2 to 3 hours away.",
+      "getting": "Most travellers reach Motegi via Utsunomiya Station, which has Shinkansen links from Tokyo, followed by a bus or taxi to the town or circuit; an alternative is the Moka Railway, a local line that terminates at Motegi Station itself. There is no direct train from central Tokyo, so journeys typically run ~2 to 4 hours depending on the connection chosen.",
+      "days": "Plan on 1 day for a focused circuit or museum visit, or 2 days if combining Motegi with the surrounding countryside and a ride on the Moka Railway."
+    },
+    "ko": {
+      "blurb": "모테기는 도치기현 산간에 자리한 조용한 마을로, 일본 MotoGP 개최지이자 혼다가 조성한 레이싱 테마파크 복합단지인 모빌리티 리조트 모테기(옛 트윈 링 모테기) 서킷으로 세계적으로 알려져 있다. 서킷을 벗어나면 풍경은 전형적인 일본 시골로 바뀐다. 강을 따라 펼쳐진 계곡, 소박한 증기기관차가 다니는 모카 철도, 그리고 약 2~3시간 거리의 도쿄와는 확연히 다른 한적한 시골의 리듬이 이곳을 채운다.",
+      "getting": "대부분의 여행자는 도쿄에서 신칸센으로 연결되는 우쓰노미야역을 거쳐, 버스나 택시로 모테기 시내나 서킷까지 이동한다. 또 다른 방법은 모테기역이 종점인 지방 노선 모카 철도를 이용하는 것이다. 도쿄 중심부에서 바로 가는 직통 열차는 없기 때문에, 어떤 경로를 선택하느냐에 따라 보통 2~4시간 정도가 소요된다.",
+      "days": "서킷이나 박물관 관람에 집중한다면 1일 일정이면 충분하고, 주변 시골 풍경과 모카 철도 탑승까지 함께 즐기고 싶다면 2일 일정을 추천한다."
+    },
+    "ja": {
+      "blurb": "茂木は栃木県の山あいに広がる静かな町で、世界的には「モビリティリゾートもてぎ」(旧ツインリンクもてぎ)のサーキットで知られています。ここは日本で開催されるMotoGPの舞台であり、ホンダが手がけるレース施設とテーマパークが一体となった複合エリアでもあります。サーキットを離れれば、川沿いの渓谷や小さな真岡鐵道のSL路線など、昔ながらの日本の田園風景が広がり、東京からおよそ2~3時間という距離にもかかわらず、都会とはまったく異なるのんびりとした時間が流れています。",
+      "getting": "多くの旅行者は、東京から新幹線でアクセスできる宇都宮駅を経由し、そこからバスやタクシーで町やサーキットへ向かいます。もう一つの行き方として、茂木駅を終着駅とするローカル線「真岡鐵道」を利用する方法もあります。東京都心からの直通列車はないため、選ぶ経路によって所要時間はおよそ2~4時間となります。",
+      "days": "サーキットや博物館を集中して楽しむだけなら1日で十分ですが、周辺の田園地帯を巡ったり真岡鐵道に乗ったりと茂木の魅力を幅広く味わいたいなら、2日間の滞在がおすすめです。"
+    },
+    "es": {
+      "blurb": "Motegi es un pueblo tranquilo enclavado en las colinas de la prefectura de Tochigi, conocido mundialmente por el circuito Mobility Resort Motegi (antes Twin Ring Motegi), sede de la ronda japonesa de MotoGP y de un complejo de parque temático y carreras construido por Honda. Más allá del circuito, la zona se adentra en el Japón rural: valles fluviales, la pequeña línea de tren a vapor Moka Railway y un ritmo de campo que contrasta claramente con el de Tokio, a unas 2 o 3 horas de distancia.",
+      "getting": "La mayoría de los viajeros llegan a Motegi a través de la estación de Utsunomiya, que cuenta con conexiones de Shinkansen desde Tokio, y desde allí toman un autobús o un taxi hasta el pueblo o el circuito; otra opción es el Moka Railway, una línea local que termina justo en la estación de Motegi. No existe un tren directo desde el centro de Tokio, por lo que el trayecto suele durar entre 2 y 4 horas, según la conexión elegida.",
+      "days": "Calcula 1 día si solo quieres visitar el circuito o el museo, o 2 días si deseas combinar Motegi con el campo circundante y un paseo en el Moka Railway."
+    },
+    "zh": {
+      "blurb": "茂木町是栃木县群山间的一座宁静小镇，因Mobility Resort Motegi赛道（原Twin Ring Motegi）而闻名世界，这里是日本MotoGP分站赛的举办地，也是本田打造的赛车主题乐园综合体所在地。除了赛道之外，这一带便回归到日本乡村的本色：河谷风光、小巧的真冈铁道蒸汽小火车，以及那种与东京截然不同的悠闲节奏——而东京距此也不过约2到3小时车程。",
+      "getting": "大多数游客前往茂木，会先搭乘新干线从东京抵达宇都宫站，再转乘巴士或出租车前往茂木町或赛道。另一种方式是乘坐真冈铁道——这条地方线路的终点正是茂木站。由于没有从东京市区直达的列车，视所选换乘方式不同，全程通常需要约2到4小时。",
+      "days": "如果只想专心逛逛赛道或博物馆，安排1天即可；若想把茂木与周边乡村风光结合起来，再体验一趟真冈铁道，则建议安排2天行程。"
+    }
+  },
+  "Nanjing": {
+    "en": {
+      "blurb": "Nanjing is a city where history sits heavily in the landscape: former imperial capital, Ming dynasty walls still ringing the old town, and a somber modern memory shaped by its wartime past. Today it balances that weight with riverside parks, a famous mausoleum complex, and a relaxed, less frenetic pace than Shanghai or Beijing.",
+      "getting": "Most travellers fly into Nanjing Lukou International Airport (NKG), around ~35km south of the city centre, connected to downtown by Metro Line S1 or airport shuttle buses. For those coming overland, Nanjing South Railway Station is the city's main high-speed rail hub, with frequent services to Shanghai (as fast as ~1 hour) and Beijing, making rail the most common approach from other major Chinese cities.",
+      "days": "Plan on ~2-3 days to cover the city walls, Ming Xiaoling Mausoleum and Sun Yat-sen Mausoleum, plus the Nanjing Massacre Memorial Hall and a stroll around Xuanwu Lake."
+    },
+    "ko": {
+      "blurb": "난징은 역사가 묵직하게 켜켜이 쌓인 도시다. 한때 제국의 수도였고, 명나라 때 세워진 성벽이 여전히 구시가지를 둘러싸고 있으며, 전쟁의 아픈 과거가 만들어낸 숙연한 현대의 기억도 함께 품고 있다. 오늘날 난징은 강변 공원과 유명한 능 단지, 그리고 상하이나 베이징보다 한결 여유롭고 느긋한 분위기로 그 무게를 담담히 풀어낸다.",
+      "getting": "대부분의 여행자는 시내에서 남쪽으로 약 35km 떨어진 난징 루커우 국제공항(NKG)을 이용하며, 지하철 S1호선이나 공항 셔틀버스로 시내까지 이동할 수 있다. 육로로 이동하는 경우 난징난(남역)역이 시의 주요 고속철도 허브로, 상하이까지 최단 약 1시간, 베이징까지도 자주 운행되는 노선이 있어 다른 중국 주요 도시에서 올 때는 철도가 가장 일반적인 교통수단이다.",
+      "days": "성벽, 명효릉과 중산릉, 그리고 난징대학살기념관과 쉬안우호 호수 산책까지 둘러보려면 약 2~3일 정도를 계획하는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "南京は、歴史の重みがそのまま街並みに刻み込まれた都市だ。かつての王朝の都であり、旧市街を今も囲む明代の城壁が残る一方、戦争の記憶が深く刻まれた近代史も背負っている。そうした重厚さを抱えながらも、今の南京は川辺の公園や有名な陵墓群を擁し、上海や北京に比べてどこかのんびりとした、肩の力が抜けた空気が流れる街になっている。",
+      "getting": "多くの旅行者は南京禄口国際空港(NKG)を利用する。市中心部から南へ約35kmの場所にあり、地下鉄S1号線または空港シャトルバスで市内へアクセスできる。陸路で訪れる場合、南京南駅が市内最大の高速鉄道ターミナルとなっており、上海(最速で約1時間)や北京への便が頻発している。他の中国主要都市からは、鉄道でのアクセスが最も一般的だ。",
+      "days": "城壁、明孝陵、中山陵、そして南京大虐殺紀念館の見学に加え、玄武湖の散策も楽しむなら、2〜3日程度の滞在を見込んでおくとよい。"
+    },
+    "es": {
+      "blurb": "Nanjing es una ciudad donde la historia pesa sobre el paisaje: antigua capital imperial, con las murallas de la dinastía Ming que todavía rodean el casco viejo, y una memoria moderna marcada por el sombrío pasado de la guerra. Hoy en día equilibra ese peso con parques junto al río, un célebre complejo de mausoleos y un ritmo más relajado y menos frenético que el de Shanghái o Pekín.",
+      "getting": "La mayoría de los viajeros llega al Aeropuerto Internacional de Nanjing Lukou (NKG), situado a unos 35 km al sur del centro de la ciudad, conectado con el centro mediante la Línea S1 del metro o autobuses lanzadera del aeropuerto. Para quienes llegan por tierra, la Estación de Ferrocarril de Nanjing Sur es el principal nodo de alta velocidad de la ciudad, con servicios frecuentes a Shanghái (en apenas ~1 hora) y Pekín, lo que convierte al tren en la forma más habitual de llegar desde otras grandes ciudades chinas.",
+      "days": "Conviene reservar entre 2 y 3 días para recorrer las murallas de la ciudad, el Mausoleo Ming Xiaoling y el Mausoleo de Sun Yat-sen, además del Memorial de la Masacre de Nanjing y un paseo junto al Lago Xuanwu."
+    },
+    "zh": {
+      "blurb": "南京是一座历史厚重的城市：这里曾是六朝古都，明代城墙至今仍环绕着老城区，而那段战时岁月也为这座城市留下了一段沉重的现代记忆。如今的南京，以滨江公园、著名的陵寝建筑群，以及比上海、北京更为悠闲从容的生活节奏，与这份历史重量相互调和。",
+      "getting": "大多数游客会选择飞抵南京禄口国际机场（NKG），该机场位于市中心以南约35公里处，可通过地铁S1号线或机场大巴前往市区。若选择陆路前往，南京南站是这座城市的高铁枢纽，开往上海（最快约1小时）和北京的班次十分密集，因此乘坐高铁也是从中国其他主要城市前往南京最常见的方式。",
+      "days": "建议安排2-3天时间，游览明城墙、明孝陵与中山陵，再参观侵华日军南京大屠杀遇难同胞纪念馆，并沿玄武湖漫步闲逛。"
+    }
+  },
+  "Nanterre": {
+    "en": {
+      "blurb": "Nanterre sits just west of Paris, prefecture of the Hauts-de-Seine department and home to one of France's largest university campuses alongside a slice of the glass-towered La Défense business district. It is a place where Gallic-era history, high-rise commerce and student life sit side by side rather than a conventional sightseeing stop.",
+      "getting": "Nanterre has no airport of its own, so travellers typically fly into Paris and connect via RER A, which serves Nanterre-Université, Nanterre-Préfecture and Nanterre-Ville directly from central Paris stations like Auber and Charles de Gaulle-Étoile. The town's newest rail link, Nanterre-La Folie, opened in 2024 as the western terminus of RER E, giving a second fast route in from the city centre.",
+      "days": "Most visitors cover Nanterre's university quarter, La Défense fringe and historic centre comfortably in a single day trip from Paris, with ~1-2 days allowing time for museums and parks without rushing."
+    },
+    "ko": {
+      "blurb": "낭테르는 파리 서쪽에 자리한 오드센(Hauts-de-Seine) 주의 도청 소재지로, 프랑스 최대 규모의 대학 캠퍼스 중 하나와 유리 고층 빌딩이 즐비한 라데팡스(La Défense) 업무 지구의 일부를 함께 품고 있는 도시입니다. 갈리아 시대의 역사와 고층 빌딩가의 상업 활동, 그리고 대학생들의 활기가 한데 어우러져 있어, 전형적인 관광 명소라기보다는 독특한 매력을 지닌 곳이라 할 수 있습니다.",
+      "getting": "낭테르에는 자체 공항이 없기 때문에, 보통 파리로 입국한 뒤 RER A선을 이용해 이동합니다. 이 노선은 오베르(Auber)나 샤를 드골-에투알(Charles de Gaulle-Étoile) 같은 파리 중심부 역에서 출발해 낭테르-위니베르시테(Nanterre-Université), 낭테르-프레펙튀르(Nanterre-Préfecture), 낭테르-빌(Nanterre-Ville)까지 직통으로 연결됩니다. 2024년에는 RER E선의 서쪽 종착역인 낭테르-라폴리(Nanterre-La Folie)역이 새로 개통되어, 파리 중심부에서 낭테르로 향하는 또 하나의 빠른 경로가 생겼습니다.",
+      "days": "대부분의 여행자는 대학가와 라데팡스 인근 지역, 그리고 역사적인 구시가지를 파리에서 당일치기로 편안하게 둘러볼 수 있습니다. 박물관이나 공원까지 여유롭게 즐기고 싶다면 1~2일 정도 일정을 잡는 것이 좋습니다."
+    },
+    "ja": {
+      "blurb": "ナンテールはパリ西郊、オー=ド=セーヌ県の県庁所在地にあたる街で、フランス屈指の規模を誇る大学キャンパスを擁するほか、高層ビル群が立ち並ぶラ・デファンス地区の一角も含んでいます。ガリア時代に遡る歴史と、超高層ビルが象徴するビジネスの顔、そして学生たちの日常が混じり合う、いわゆる観光地然としたスポットとは一線を画す場所です。",
+      "getting": "ナンテールには空港がないため、通常はパリの空港に到着してからRER A線で向かうことになります。この路線はオーベールやシャルル・ド・ゴール=エトワールといったパリ中心部の駅から、ナンテール・ユニヴェルシテ、ナンテール・プレフェクチュール、ナンテール・ヴィルの各駅へ直通しています。さらに2024年には新たな鉄道アクセスとしてナンテール・ラ・フォリー駅が開業し、RER E線の西側終着駅として市中心部からもう一つの速達ルートを提供しています。",
+      "days": "多くの旅行者は、大学エリア、ラ・デファンス周辺、そして歴史地区を、パリからの日帰り旅行で無理なく巡ることができます。博物館や公園もじっくり楽しみたいなら、1~2日ほど滞在すると余裕を持って回れるでしょう。"
+    },
+    "es": {
+      "blurb": "Nanterre se encuentra justo al oeste de París, es prefectura del departamento de Hauts-de-Seine y alberga uno de los campus universitarios más grandes de Francia, además de una parte del distrito de negocios de rascacielos de La Défense. Se trata de un lugar donde la historia de la época gala, el comercio de altos edificios y la vida estudiantil conviven, más que un destino turístico convencional.",
+      "getting": "Nanterre no cuenta con aeropuerto propio, por lo que los viajeros suelen volar a París y llegar en el RER A, que conecta directamente Nanterre-Université, Nanterre-Préfecture y Nanterre-Ville con estaciones del centro de París como Auber y Charles de Gaulle-Étoile. La conexión ferroviaria más reciente de la ciudad, Nanterre-La Folie, abrió en 2024 como terminal occidental del RER E, ofreciendo una segunda ruta rápida desde el centro de la capital.",
+      "days": "La mayoría de los visitantes recorre el barrio universitario de Nanterre, los límites de La Défense y el centro histórico cómodamente en una excursión de un solo día desde París, aunque dedicar entre 1 y 2 días permite disfrutar de los museos y parques sin prisas."
+    },
+    "zh": {
+      "blurb": "楠泰尔位于巴黎西郊，是上塞纳省的省会，不仅拥有法国规模最大的大学校园之一，还与玻璃幕墙林立的拉德芳斯商务区接壤。这里高卢时代的历史遗迹、摩天写字楼与学生生活交织并存，更像是一处值得细细品味的城市角落，而非传统意义上的观光景点。",
+      "getting": "楠泰尔本身没有机场，游客通常先飞抵巴黎，再转乘RER A线前往，该线路从Auber和Charles de Gaulle-Étoile等巴黎市中心车站出发，直达楠泰尔大学站（Nanterre-Université）、楠泰尔省府站（Nanterre-Préfecture）和楠泰尔市区站（Nanterre-Ville）。当地最新的铁路枢纽楠泰尔拉佛利站（Nanterre-La Folie）已于2024年启用，作为RER E线的西端终点站，为往返市中心提供了第二条快捷通道。",
+      "days": "大多数游客只需从巴黎出发，花上一天时间，就能轻松游览楠泰尔的大学城区、拉德芳斯边缘地带和历史城区；若想从容参观博物馆和公园，不妨安排1到2天，节奏会更加惬意。"
+    }
+  },
+  "Tokorozawa": {
+    "en": {
+      "blurb": "Tokorozawa is best known as the birthplace of Japanese aviation, with its former airfield preserved inside a park that now houses the Tokorozawa Aviation Museum. The city blends this heritage with a thoroughly modern side: a bustling Saitama commuter hub ringed by woodland, anime and pop culture sites, and the striking Tokorozawa Sakura Town complex.",
+      "getting": "Tokorozawa has no airport of its own; travellers reach it by train from central Tokyo, typically on the Seibu Ikebukuro Line from Ikebukuro Station or the Seibu Shinjuku Line from Seibu-Shinjuku Station, with the ride taking around 30 minutes. It is not served by the Shinkansen, so rail via these private Seibu lines is the standard access route.",
+      "days": "A single day is enough to cover the aviation museum and park, with a second day allowing time for Sakura Town, nearby nature spots, and the city's shopping and dining streets."
+    },
+    "ko": {
+      "blurb": "도코로자와는 일본 항공의 발상지로 가장 잘 알려진 도시로, 옛 비행장 부지가 공원으로 보존되어 그 안에 도코로자와 항공발상기념관이 들어서 있습니다. 이러한 역사적 유산과 함께 도시는 매우 현대적인 면모도 지니고 있는데, 사이타마의 번화한 통근 거점이면서 주변은 숲으로 둘러싸여 있고, 애니메이션과 팝 컬처 명소, 그리고 독특한 외관의 도코로자와 사쿠라타운 복합단지가 자리하고 있습니다.",
+      "getting": "도코로자와에는 자체 공항이 없어, 여행자들은 도쿄 도심에서 기차를 타고 이동합니다. 보통 이케부쿠로역에서 세이부 이케부쿠로선을, 또는 세이부신주쿠역에서 세이부신주쿠선을 이용하며, 소요 시간은 약 30분입니다. 신칸센은 운행하지 않으므로, 이 세이부 사철 노선을 이용하는 것이 일반적인 접근 방법입니다.",
+      "days": "하루면 항공발상기념관과 공원을 둘러보기에 충분하며, 이틀째에는 사쿠라타운과 인근 자연 명소, 그리고 도시의 쇼핑 및 맛집 거리를 즐길 시간을 가질 수 있습니다."
+    },
+    "ja": {
+      "blurb": "所沢は「日本の航空発祥の地」として知られる街で、かつての飛行場跡は公園として整備され、現在は所沢航空記念館が建っています。こうした歴史的な背景を持ちながらも、所沢はすっかり現代的な顔も併せ持っています。埼玉有数の通勤拠点として賑わう一方、周囲は緑豊かな雑木林に囲まれ、アニメ・ポップカルチャーゆかりのスポットや、ひときわ目を引く複合施設「ところざわサクラタウン」も点在しています。",
+      "getting": "所沢に空港はないため、東京都心からは鉄道でのアクセスが基本となります。池袋駅からは西武池袋線、西武新宿駅からは西武新宿線を利用するのが一般的で、所要時間はいずれも約30分です。新幹線は通っていないため、これら西武の私鉄路線を使うのが定番のルートです。",
+      "days": "航空記念館と公園を巡るだけなら1日あれば十分ですが、2日あればところざわサクラタウンや近隣の自然スポット、市内のショッピング街やグルメ通りを楽しむ余裕も生まれます。"
+    },
+    "es": {
+      "blurb": "Tokorozawa es conocida principalmente como la cuna de la aviación japonesa, ya que su antiguo campo de vuelo se conserva dentro de un parque que alberga hoy el Museo de Aviación de Tokorozawa. La ciudad combina este legado histórico con una faceta totalmente moderna: es un animado núcleo de cercanías de Saitama, rodeado de bosques, lugares dedicados al anime y a la cultura pop, y el llamativo complejo Tokorozawa Sakura Town.",
+      "getting": "Tokorozawa no cuenta con aeropuerto propio, así que se llega en tren desde el centro de Tokio, normalmente por la línea Seibu Ikebukuro desde la estación de Ikebukuro o por la línea Seibu Shinjuku desde la estación de Seibu-Shinjuku, con un trayecto de unos 30 minutos. No está conectada por el Shinkansen, por lo que estas líneas privadas de Seibu son la vía de acceso habitual.",
+      "days": "Con un solo día es suficiente para visitar el museo de aviación y el parque, mientras que un segundo día permite disfrutar con calma de Sakura Town, los parajes naturales cercanos y las calles de tiendas y restaurantes de la ciudad."
+    },
+    "zh": {
+      "blurb": "所泽市最为人熟知的身份,是日本航空事业的发源地。曾经的机场旧址如今被完整保留在一座公园之中,园内还设有所泽航空发祥纪念馆。与这段历史底蕴相映成趣的,是这座城市十足现代的另一面:作为埼玉县繁忙的通勤枢纽,所泽被片片林地环绕,城中遍布动漫与流行文化景点,还坐落着令人眼前一亮的\"所泽樱花城\"综合设施。",
+      "getting": "所泽本身没有机场,前往当地需从东京市区乘坐电车,通常可在池袋站搭乘西武池袋线,或在西武新宿站搭乘西武新宿线,车程约30分钟。由于新干线并不经停此地,乘坐这两条西武私铁线路是前往所泽的标准方式。",
+      "days": "安排一天时间,即可游览航空纪念馆与公园;若多留一天,则可从容探访樱花城、周边的自然景点,以及市内热闹的购物与美食街区。"
+    }
+  },
+  "Trường Yên": {
+    "en": {
+      "blurb": "Trường Yên is the quiet commune in Ninh Bình Province that holds Hoa Lư, Vietnam's first national capital, where 10th century temples to the Đinh and Lê dynasty kings sit beneath a ring of limestone karsts. It is a place where history and landscape are inseparable: ancient citadel walls give way to the same rice paddies and river caves that define the wider Trang An region.",
+      "getting": "There is no airport or rail line directly into Trường Yên; travellers fly into Hanoi's Nội Bài International Airport (HAN) and then continue ~90km south by train to Ninh Bình Station or by road, before a short local taxi or motorbike transfer to the Hoa Lư site. Buses and private cars from Hanoi's southern bus stations also run directly to Ninh Bình City or the nearby Trang An wharf, from where Trường Yên is a quick onward hop.",
+      "days": "Most visitors cover Trường Yên's temples and citadel remains in half a day, often as part of a longer 2-4 day Ninh Bình itinerary that pairs it with Trang An, Tam Coc, and Bái Đính Pagoda."
+    },
+    "ko": {
+      "blurb": "쯔엉옌(Trường Yên)은 닌빈성(Ninh Bình Province)에 자리한 조용한 마을로, 베트남 최초의 수도였던 호아르(Hoa Lư)가 있는 곳이다. 이곳에는 딘(Đinh) 왕조와 레(Lê) 왕조 왕들을 기리는 10세기 사원들이 석회암 카르스트 봉우리들에 둘러싸여 있다. 역사와 풍경이 하나로 얽혀 있는 곳으로, 고대 성벽을 지나면 짱안(Trang An) 일대를 이루는 것과 같은 논과 강동굴 풍경이 펼쳐진다.",
+      "getting": "쯔엉옌에는 공항이나 철도가 직접 연결되어 있지 않다. 여행자들은 하노이(Hanoi)의 노이바이 국제공항(Nội Bài International Airport, HAN)으로 입국한 뒤, 남쪽으로 약 90km 떨어진 닌빈역(Ninh Bình Station)까지 기차나 육로로 이동하고, 이어서 짧은 택시나 오토바이 이동을 통해 호아르 유적지에 도착한다. 하노이 남부 버스터미널에서 출발하는 버스와 전용 차량도 닌빈 시내나 인근 짱안 선착장까지 직행으로 운행되며, 그곳에서 쯔엉옌까지는 금방 이동할 수 있다.",
+      "days": "대부분의 방문객은 반나절 정도면 쯔엉옌의 사원들과 성벽 유적을 둘러볼 수 있으며, 흔히 짱안, 땀꼭(Tam Coc), 바이딘 사원(Bái Đính Pagoda)과 함께 묶어 2~4일 일정의 닌빈 여행 코스로 즐기는 경우가 많다."
+    },
+    "ja": {
+      "blurb": "チュオンイエンは、ニンビン省にひっそりと佇む集落でありながら、ベトナム最初の都であったホアルーを擁する歴史の町だ。10世紀に築かれたディン朝・レ朝の王を祀る寺院群が、石灰岩カルストの山並みに抱かれるように建っている。ここでは歴史と自然が切り離せないものとして息づいており、古の城壁は、トゥラン・アン一帯を特徴づける水田や川沿いの洞窟へとそのまま溶け込んでいく。",
+      "getting": "チュオンイエンへ直接乗り入れる空港や鉄道はない。旅行者はまずハノイのノイバイ国際空港(HAN)に到着し、そこから南へ約90km、鉄道でニンビン駅まで向かうか、陸路で移動した後、タクシーやバイクタクシーに乗り換えてホアルー遺跡まで短時間の移動をすることになる。ハノイ南部のバスターミナルからは、ニンビン市街やトゥラン・アン船着き場へ直行するバスや自家用車のサービスもあり、そこからチュオンイエンへはすぐに移動できる。",
+      "days": "チュオンイエンの寺院群と城跡を巡るには、半日ほどあれば十分だ。多くの旅行者は、トゥラン・アン、タムコック、バイディン寺院などと組み合わせた2〜4日間のニンビン周遊プランの一部として訪れている。"
+    },
+    "es": {
+      "blurb": "Trường Yên es la apacible comuna de la provincia de Ninh Bình que alberga Hoa Lư, la primera capital nacional de Vietnam, donde templos del siglo X dedicados a los reyes de las dinastías Đinh y Lê se alzan bajo un anillo de picos kársticos de piedra caliza. Es un lugar donde la historia y el paisaje son inseparables: las antiguas murallas de la ciudadela dan paso a los mismos arrozales y cuevas fluviales que caracterizan a la región de Trang An.",
+      "getting": "Trường Yên no cuenta con aeropuerto ni línea ferroviaria propia; los viajeros llegan al Aeropuerto Internacional de Nội Bài (HAN) en Hanói y luego recorren unos 90 km hacia el sur en tren hasta la estación de Ninh Bình, o bien por carretera, para finalmente tomar un breve traslado en taxi o moto hasta el yacimiento de Hoa Lư. Desde las estaciones de autobuses del sur de Hanói también salen autobuses y coches privados directos a la ciudad de Ninh Bình o al cercano embarcadero de Trang An, desde donde Trường Yên queda a un corto trayecto.",
+      "days": "La mayoría de los visitantes recorre los templos y los restos de la ciudadela de Trường Yên en medio día, a menudo como parte de un itinerario más amplio de 2 a 4 días por Ninh Bình que combina esta visita con Trang An, Tam Coc y la Pagoda Bái Đính."
+    },
+    "zh": {
+      "blurb": "长安社是宁平省一处安静的乡镇，坐落着越南首个国都华闾古城。10世纪丁朝与黎朝历代帝王的庙宇，静静伫立在一圈石灰岩喀斯特山峰的环抱之下。在这里，历史与风光密不可分：古老的城墙遗迹之外，便是与整个长安风景区一脉相承的稻田与河洞。",
+      "getting": "长安社本身没有机场或铁路直达，游客通常先飞抵河内内排国际机场（HAN），再向南行驶约90公里，乘火车抵达宁平站，或走陆路前往，最后换乘出租车或摩托车短途转乘至华闾古迹。此外，从河内南部客运站出发的长途汽车及私人包车，也可直达宁平市区或附近的长安码头，从那里再转车前往长安社，路程很短。",
+      "days": "大多数游客只需半天时间，便能游览完长安社的庙宇与古城遗址，通常会将其纳入为期2至4天的宁平行程之中，与长安风景区、三谷及拜顶寺一同游览。"
+    }
   }
 }

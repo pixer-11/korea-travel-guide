@@ -1,63 +1,63 @@
 ---
 lang: es
 slug: beijing-china-open-tennis
-srcHash: '6b8aa6b151ce'
-title: 'China Open (tenis): fechas, entradas y sede (Pekín)'
-description: El China Open (tenis) se celebra en Pekín, China, del 30 de septiembre al 6 de octubre de 2026. Qué es, cuándo y dónde se juega, y cómo organizar la visita.
-quickAnswer: El China Open de tenis regresa al National Tennis Center de Pekín del 30 de septiembre al 6 de octubre de 2026, con los cuadros masculino (ATP) y femenino (WTA) disputándose de forma simultánea durante esa semana. Las entradas se venden por sesión (sesiones de día y de noche en distintas pistas), y la sede se encuentra dentro del Olympic Green, de fácil acceso en metro. Conviene confirmar el calendario exacto de partidos y las categorías de entradas en la web oficial del China Open antes de reservar el viaje.
+srcHash: 'e8eb09b1efe9'
+title: 'Abierto de China (tenis): fechas, entradas y sede (Pekín)'
+description: 'Abierto de China (tenis) en Pekín, China: del 30 de septiembre al 6 de octubre de 2026. El torneo combinado de la ATP y la WTA tenía como sede prevista el Centro Nacional de Tenis.'
+quickAnswer: Las fechas anunciadas para el Abierto de China 2026 eran del 30 de septiembre al 6 de octubre. La sede era el Centro Nacional de Tenis de Pekín, y el torneo masculino de la ATP y el femenino de la WTA coincidían en una misma semana. Las entradas se vendían por sesiones, y las diurnas y las nocturnas correspondían a pistas distintas. El recinto se encuentra dentro del Parque Olímpico y tiene buen acceso en metro.
 faq:
-  - q: ¿Cuáles son las fechas exactas del China Open 2026?
-    a: El torneo se disputa del 30 de septiembre al 6 de octubre de 2026, con los partidos del ATP y la WTA superponiéndose a lo largo de esa semana. Conviene confirmar el calendario diario en la web oficial del China Open.
-  - q: ¿Dónde se celebra el China Open?
-    a: Se disputa en el National Tennis Center, dentro del Olympic Green de Pekín, el mismo complejo construido para los Juegos Olímpicos de 2008, junto al Nido de Pájaro y el Cubo de Agua.
-  - q: ¿Cómo se llega al National Tennis Center?
-    a: Se puede tomar la Línea 8 de metro hasta la estación Olympic Green y cruzar el parque a pie, o bien usar las estaciones Anzhen Xili o Beitucheng, en las Líneas 5, 8 o 10, para una caminata más larga.
-  - q: ¿Cómo se venden las entradas del China Open?
-    a: Las entradas se venden por sesión (de día o de noche) en lugar de como un pase único de acceso total. Los pases de recinto para las primeras rondas suelen ser más económicos que los asientos de estadio para las finales.
-  - q: ¿Cuántos días conviene planificar para la visita?
-    a: Con un solo día alcanza para ver varios partidos, pero el recinto es grande y las pistas suelen tener partidos simultáneos, por lo que muchos asistentes reparten su visita en dos días o más si quieren seguir ambos circuitos.
+  - q: ¿Cuáles eran las fechas exactas del Abierto de China 2026?
+    a: Las fechas anunciadas eran del 30 de septiembre al 6 de octubre de 2026. Los partidos de la ATP y de la WTA coincidían a lo largo de toda esa semana. El orden de juego de cada día suele publicarse con apenas unos días de antelación.
+  - q: ¿Dónde se disputa el Abierto de China?
+    a: Su sede es el Centro Nacional de Tenis, en el Parque Olímpico de Pekín. Es el mismo complejo que se construyó para los Juegos Olímpicos de 2008, junto al Nido de Pájaro y el Cubo de Agua.
+  - q: ¿Cómo se llega al Centro Nacional de Tenis?
+    a: La línea 8 del metro llega hasta la estación Olympic Green, desde donde se cruza el parque a pie. Las estaciones Anzhen Xili y Beitucheng, en las líneas 5, 8 o 10, son otra opción, aunque el paseo es más largo.
+  - q: ¿Cómo se vendían las entradas del Abierto de China?
+    a: 'No había un abono único con acceso a todo: las entradas se vendían por sesiones, diurnas o nocturnas. Para las primeras rondas, los pases de recinto suelen costar menos que las localidades del estadio para las finales.'
+  - q: ¿Cuántos días hacían falta para la visita?
+    a: Con un solo día bastaba para ver varios partidos. Sin embargo, el recinto es amplio y en sus pistas se juega a la vez, así que muchos de los asistentes que querían seguir ambos circuitos repartían su visita en dos o más días.
 ---
 
-El China Open es una de las paradas más importantes del circuito asiático de pista dura y uno de los pocos torneos combinados en los que los principales circuitos masculino y femenino comparten sede la misma semana. En 2026 esa semana va del 30 de septiembre al 6 de octubre, con los partidos del ATP y la WTA superponiéndose en las pistas del National Tennis Center en lugar de disputarse como torneos separados uno tras otro.
+El Abierto de China (China Open) es una de las grandes paradas de la gira asiática en pista dura. Además, es uno de los pocos torneos combinados en los que los mejores circuitos masculino y femenino comparten recinto durante la misma semana. Para 2026, las fechas anunciadas eran del 30 de septiembre al 6 de octubre. Los partidos de la ATP y de la WTA coincidían en las pistas del Centro Nacional de Tenis, en lugar de repartirse en dos torneos seguidos.
 
-## La sede: el National Tennis Center
+## La sede: el Centro Nacional de Tenis
 
-Todo se desarrolla dentro del National Tennis Center, que forma parte del complejo Olympic Green construido para los Juegos Olímpicos de Pekín de 2008. El elemento central es la llamada "Diamond Court", un estadio con forma de pétalo de loto con capacidad para unas 10.000 personas, alrededor del cual se agrupan las pistas exteriores donde se disputan las primeras rondas.
+El torneo se disputa en el Centro Nacional de Tenis (National Tennis Center), dentro del complejo del Parque Olímpico (Olympic Green) que se construyó para los Juegos Olímpicos de Pekín 2008. Su pieza central es la Diamond Court, un estadio con forma de pétalos de loto y capacidad para unas 10.000 personas. A su alrededor se agrupan las pistas exteriores, donde se juegan las primeras rondas.
 
-Llegar hasta allí es sencillo gracias al metro de Pekín:
+Llegar en el metro de Pekín es sencillo:
 
-- Se puede tomar la Línea 8 hasta la estación Olympic Green y luego caminar por el parque, pasando junto al Nido de Pájaro (Bird's Nest) y el Cubo de Agua (Water Cube).
-- También es posible bajarse en las estaciones Anzhen Xili o Beitucheng, en las Líneas 5, 8 o 10, aunque desde allí el trayecto a pie es más largo o requiere un taxi corto.
-- Sea cual sea la ruta elegida, hay que contar con una caminata de 10 a 15 minutos desde la salida más cercana, ya que el centro de tenis se ubica hacia el fondo del recinto del Olympic Green.
+- La línea 8 llega hasta la estación Olympic Green, y desde allí se cruza el parque a pie, pasando junto al Nido de Pájaro (Bird's Nest) y el Cubo de Agua (Water Cube).
+- Otra opción son las estaciones Anzhen Xili o Beitucheng, en las líneas 5, 8 o 10, aunque desde ellas el paseo es más largo o hay que tomar un taxi para un trayecto corto.
+- El centro de tenis está en la parte trasera del Parque Olímpico, así que, sea cual sea la ruta, desde la salida más cercana hay entre 10 y 15 minutos a pie.
 
-Conviene llegar con tiempo de sobra los días de cuartos y semifinales, cuando el tránsito de gente por el parque se intensifica.
+Los días de cuartos de final y de semifinales son los que más gente atraviesa el parque.
 
-## Cómo cuadran las fechas con los partidos
+## Qué partidos se jugaban cada día
 
-Tanto el cuadro masculino del ATP 500 como el femenino del WTA 1000 se disputan dentro de la ventana del 30 de septiembre al 6 de octubre, aunque no necesariamente empiezan y terminan el mismo día. Por lo general, las primeras rondas llenan simultáneamente las pistas exteriores, mientras que la pista central alberga una mezcla de partidos de ambos circuitos hasta que, ya hacia el final de la semana, las finales de cada torneo se disputan por separado.
+Tanto el cuadro masculino del ATP 500 como el femenino del WTA 1000 quedaban dentro del periodo del 30 de septiembre al 6 de octubre. Aun así, no tenían por qué empezar y terminar los mismos días. En las primeras rondas suelen jugarse partidos a la vez en todas las pistas exteriores. Mientras tanto, el estadio principal alterna encuentros de ambos circuitos hasta el final de la semana, cuando las finales de cada uno se disputan por separado.
 
-Como el calendario varía de un año a otro y los horarios de los partidos solo se publican con pocos días de antelación, conviene tomar las fechas anteriores como el marco general del torneo y no como un itinerario día por día. Una vez decididos los días de asistencia, hay que confirmar el orden de juego diario y los horarios concretos de los partidos en la web oficial del China Open.
+El calendario cambia de un año a otro y los horarios de los partidos se publican con apenas unos días de antelación. Por eso, esas fechas solo marcan el principio y el final del torneo, no el programa de cada jornada.
 
-## Comprar las entradas
+## Venta de entradas
 
-Las entradas se venden por sesión, no como un pase único de acceso total, de modo que hay que elegir un día concreto (o una franja de día o de noche, según la ronda) para acceder a las pistas que estén en juego en ese momento. Los pases de recinto para las primeras rondas suelen ser la opción más económica, ya que permiten moverse entre las pistas exteriores y ver varios partidos.
+No había un abono único con acceso a todo: las entradas se vendían por sesiones. Según la ronda, cada entrada valía para un día concreto o solo para la sesión diurna o la nocturna, y permitía entrar en todas las pistas donde hubiera juego. En las primeras rondas, los pases de recinto suelen ser la forma más económica de entrar, ya que con ellos se puede pasar de una pista exterior a otra y ver varios partidos.
 
-Las sesiones de la semana de finales en la pista central cuestan más y se agotan más rápido, sobre todo los partidos de fin de semana. Tanto la reventa como la venta oficial suelen estar activas en los días previos al torneo, por lo que conviene tener en cuenta lo siguiente:
+En la semana de las finales, las sesiones del estadio son más caras y se agotan antes, sobre todo las del fin de semana. En las semanas anteriores al torneo suele haber tanto venta oficial como reventa:
 
-- Comprar a través del socio oficial de venta de entradas del torneo para evitar precios de reventa inflados.
-- Decidir de antemano si se prefiere un asiento en el estadio o un pase de recinto, ya que tienen precios y sistemas de venta distintos.
-- Confirmar los precios y la disponibilidad actuales directamente en la web oficial, puesto que estos detalles cambian de un año a otro.
+- El socio oficial de venta de entradas del torneo vende a precio nominal, y en la reventa los precios son más altos.
+- Las localidades del estadio y los pases de recinto tienen precios propios y se venden por separado.
+- Los precios y la disponibilidad varían de un año a otro.
 
-## Cómo seguir el cuadro como un habitual
+## El cuadro, visto por los habituales
 
-Los aficionados que siguen el China Open año tras año consideran que el verdadero espectáculo, durante los primeros días, está en las pistas exteriores. Allí, con un simple pase de recinto, es posible situarse cerca de la línea de fondo sin coste adicional y ver de cerca a jugadores que, de cara al fin de semana, quedarán inaccesibles tras la seguridad del estadio.
+Para los habituales del Abierto de China, el verdadero espectáculo de los primeros días está en las pistas exteriores. Con un pase de recinto, allí uno puede colocarse junto a la línea de fondo sin pagar nada más. Así se ve de cerca a jugadores que, llegado el fin de semana, solo se dejan ver tras el control de seguridad del estadio.
 
-Es necesario llevar el pasaporte o algún documento de identidad para el control de seguridad de la entrada al recinto; la revisión de bolsos es habitual y similar a la de cualquier gran evento deportivo internacional en Pekín. La oferta de comida y bebida dentro del recinto se limita en su mayoría a cadenas chinas de comida rápida informal y algunos puestos occidentales, por lo que no es el lugar indicado para una comida sentada.
+En los controles de seguridad de la entrada se pide pasaporte o documento de identidad. Los bolsos se revisan como en cualquier gran acontecimiento deportivo internacional en Pekín. Para comer y beber hay sobre todo cadenas chinas de comida rápida y unos pocos puestos de comida occidental, así que no es un lugar para sentarse a comer con calma.
 
-La mayoría de los asistentes con experiencia prefieren repartir su visita a lo largo de la semana en vez de intentar verlo todo en un solo día, ya que el recinto es grande y los partidos de distintas pistas suelen coincidir en horario.
+Los asistentes más veteranos no intentan verlo todo en un solo día, sino que reparten sus visitas a lo largo de la semana. El recinto es grande y a menudo se juega a la vez en varias pistas.
 
 ## Más allá de las pistas
 
-Como el National Tennis Center se encuentra dentro del Olympic Green, es fácil combinar un partido con una jornada más completa de turismo. El Nido de Pájaro (Estadio Nacional) y el Cubo de Agua (Centro Nacional de Natación) están a poca distancia a pie y ambos permanecen abiertos al público como atracciones turísticas durante todo el año.
+Como el Centro Nacional de Tenis está dentro del Parque Olímpico, es fácil combinar un partido con otras visitas en el mismo día. El Nido de Pájaro (Estadio Nacional) y el Cubo de Agua (Centro Acuático Nacional) están a poca distancia a pie, y ambos siguen abiertos todo el año como atracciones turísticas.
 
-Para quienes planeen dedicarle el día completo, conviene llegar con tiempo suficiente para visitar alguno de esos monumentos antes de la sesión de tenis y dejar el partido para la tarde o la noche. Antes de salir, hay que confirmar los horarios y las entradas tanto del torneo como de las atracciones del Olympic Green en sus respectivas webs oficiales.
+Estos dos monumentos no dependen del torneo y tienen sus propios horarios y entradas. Una mañana en cualquiera de ellos combina bien con una sesión de tarde o de noche en las pistas.

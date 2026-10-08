@@ -605,6 +605,12 @@
     "es": "Cozumel",
     "zh": "科苏梅尔"
   },
+  "Cuttack": {
+    "ko": "커택",
+    "ja": "カタック",
+    "es": "Cuttack",
+    "zh": "卡塔克"
+  },
   "Da Lat": {
     "ko": "달랏",
     "ja": "ダラット",
@@ -622,6 +628,12 @@
     "ja": "大邱",
     "es": "Daegu",
     "zh": "大邱"
+  },
+  "Dallas": {
+    "ko": "댈러스",
+    "ja": "ダラス",
+    "es": "Dallas",
+    "zh": "达拉斯"
   },
   "Damyang": {
     "ko": "담양",
@@ -923,6 +935,12 @@
     "es": "Gurugram",
     "zh": "古尔冈"
   },
+  "Guwahati": {
+    "ko": "구와하티",
+    "ja": "グワハティ",
+    "es": "Guwahati",
+    "zh": "古瓦哈提"
+  },
   "Gyeongju": {
     "ko": "경주",
     "ja": "慶州",
@@ -1078,6 +1096,12 @@
     "ja": "インド",
     "es": "India",
     "zh": "印度"
+  },
+  "Indian Wells": {
+    "ko": "인디언웰스",
+    "ja": "インディアンウェルズ",
+    "es": "Indian Wells",
+    "zh": "印第安维尔斯"
   },
   "Indonesia": {
     "ko": "인도네시아",
@@ -1457,6 +1481,12 @@
     "es": "Lucca",
     "zh": "卢卡"
   },
+  "Lucknow": {
+    "ko": "러크나우",
+    "ja": "ラクナウ",
+    "es": "Lucknow",
+    "zh": "勒克瑙"
+  },
   "Lyon": {
     "ko": "리옹",
     "ja": "リヨン",
@@ -1649,6 +1679,12 @@
     "es": "Monza",
     "zh": "蒙扎"
   },
+  "Motegi": {
+    "ko": "모테기",
+    "ja": "茂木",
+    "es": "Motegi",
+    "zh": "茂木"
+  },
   "Mount Bromo": {
     "ko": "브로모산",
     "ja": "ブロモ山",
@@ -1708,6 +1744,18 @@
     "ja": "ナマンガン",
     "es": "Namangán",
     "zh": "纳曼干"
+  },
+  "Nanjing": {
+    "ko": "난징",
+    "ja": "南京",
+    "es": "Nankín",
+    "zh": "南京"
+  },
+  "Nanterre": {
+    "ko": "낭테르",
+    "ja": "ナンテール",
+    "es": "Nanterre",
+    "zh": "楠泰尔"
   },
   "Nantes": {
     "ko": "낭트",
@@ -2519,6 +2567,12 @@
     "es": "Tiong Bahru",
     "zh": "中峇鲁"
   },
+  "Tokorozawa": {
+    "ko": "도코로자와",
+    "ja": "所沢",
+    "es": "Tokorozawa",
+    "zh": "所泽"
+  },
   "Tokushima": {
     "ko": "도쿠시마",
     "ja": "徳島",
@@ -2554,6 +2608,12 @@
     "ja": "トラブゾン",
     "es": "Trebisonda",
     "zh": "特拉布宗"
+  },
+  "Trường Yên": {
+    "ko": "쯔엉옌",
+    "ja": "チュオンイェン",
+    "es": "Trường Yên",
+    "zh": "长安（长安镇）"
   },
   "Tseung Kwan O": {
     "ko": "쩡관아오",
