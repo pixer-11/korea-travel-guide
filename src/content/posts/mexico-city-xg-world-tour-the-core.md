@@ -15,7 +15,6 @@ eventPerformer:
   name: XG
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - mexico city
   - event
@@ -33,6 +32,16 @@ faq:
     a: Most visitors stay in Roma Norte, Condesa, Juárez, Polanco or the Centro Histórico and travel north for the show. The Centro and Polanco are the easier of these for getting home by Metro.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/6/6b/230127_XG_Music_Bank_02.png
+  credit: 'Photo: K-POPIT 케이팝잇 TV10 / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:230127_XG_Music_Bank_02.png
+  focus:
+    x: 53
+    'y': 11
+    top: 2
+    bottom: 20
 ---
 
 ## A Sunday night in Azcapotzalco

@@ -10,6 +10,14 @@ eventEndDate: '2026-10-11'
 eventRecurring: true
 eventVenue: Jarasum Island
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/d/da/Hoban-ro%2C_Gapyeong-eup%2C_Gapyeong-gun%2C_Gyeonggi-do%2C_South_Korea_-_panoramio.jpg'
+  credit: 'Photo: Phong Phat G / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Hoban-ro,_Gapyeong-eup,_Gapyeong-gun,_Gyeonggi-do,_South_Korea_-_panoramio.jpg'
+  focus:
+    x: 55
+    y: 45
 gallery: []
 tags:
   - gapyeong

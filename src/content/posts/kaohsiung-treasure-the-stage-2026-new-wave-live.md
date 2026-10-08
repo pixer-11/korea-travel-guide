@@ -16,6 +16,14 @@ eventPerformer:
   name: TREASURE
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kaohsiung_Taiwan_Kaohsiung-Confucius-Temple-01.jpg/3840px-Kaohsiung_Taiwan_Kaohsiung-Confucius-Temple-01.jpg'
+  credit: 'Photo: CEphoto, Uwe Aranas / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Kaohsiung_Taiwan_Kaohsiung-Confucius-Temple-01.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - kaohsiung

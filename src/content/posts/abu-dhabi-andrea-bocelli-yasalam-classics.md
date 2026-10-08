@@ -18,7 +18,6 @@ eventPerformer:
   name: Andrea Bocelli
   kind: person
 eventFactsAsked: true
-gallery: []
 tags:
   - abu dhabi
   - event
@@ -36,6 +35,16 @@ faq:
     a: The Yas Bay waterfront restaurants are next to the arena. Ferrari World, Yas Waterworld, Warner Bros. World, Yas Mall and Yas Marina Circuit are all on the same island.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/7/7a/Concierto_Andrea_Bocelli_%2848720880911%29.jpg
+  credit: 'Photo: InfoGibraltar / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Concierto_Andrea_Bocelli_(48720880911).jpg
+  focus:
+    x: 48
+    'y': 17
+    top: 10
+    bottom: 24
 ---
 
 ## A tenor on the Yas Bay waterfront

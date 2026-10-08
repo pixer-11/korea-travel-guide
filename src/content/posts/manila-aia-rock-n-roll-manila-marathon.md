@@ -10,6 +10,14 @@ eventEndDate: '2026-11-29'
 eventRecurring: true
 eventVenue: Luneta Park
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Iglesia_de_San_Miguel%2C_Manila%2C_Filipinas%2C_2023-08-27%2C_DD_29-31_HDR.jpg/3840px-Iglesia_de_San_Miguel%2C_Manila%2C_Filipinas%2C_2023-08-27%2C_DD_29-31_HDR.jpg'
+  credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Miguel,_Manila,_Filipinas,_2023-08-27,_DD_29-31_HDR.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - manila

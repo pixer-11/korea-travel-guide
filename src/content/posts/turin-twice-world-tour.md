@@ -13,7 +13,6 @@ eventPerformer:
   name: TWICE
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - turin
   - event
@@ -31,6 +30,16 @@ faq:
     a: Most stay around Porta Nuova or Piazza San Carlo in central Turin. That puts them close to restaurants and to transport out to the arena in Santa Rita.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Twice_in_Seattle.jpg/3840px-Twice_in_Seattle.jpg
+  credit: 'Photo: David Lee / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Twice_in_Seattle.jpg
+  focus:
+    x: 48
+    'y': 18
+    top: 10
+    bottom: 25
 ---
 
 ## TWICE in Turin, May 20, 2026

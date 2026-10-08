@@ -15,6 +15,14 @@ eventOffers:
   free: true
   currency: MXN
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/8/85/Mexico_City_Palacio_de_bellas_artes.jpg'
+  credit: 'Photo: Jeses / Wikimedia Commons (CC BY-SA 2.5)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Mexico_City_Palacio_de_bellas_artes.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - mexico city

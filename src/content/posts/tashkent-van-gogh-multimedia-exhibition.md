@@ -10,7 +10,6 @@ eventEndDate: '2026-06-09'
 eventRecurring: false
 eventVenue: Tashkent City Mall
 eventFactsAsked: true
-gallery: []
 tags:
   - tashkent
   - event
@@ -28,6 +27,14 @@ faq:
     a: Most visitors spend roughly 45 minutes to an hour and a half. Afterwards, many walk through Tashkent City Park, visit Alisher Navoi National Park, or take a taxi to Amir Temur Square or Chorsu Bazaar.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/a/a6/Tashkent_City_Mall_%28inside%29.jpg
+  credit: 'Photo: Muzaffar Murodovich / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Tashkent_City_Mall_(inside).jpg
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## Sunflowers off the escalator

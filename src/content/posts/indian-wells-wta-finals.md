@@ -15,7 +15,6 @@ eventOrganizer:
 eventOffers:
   url: https://www.wtatennis.com/tournaments/wta-finals/tickets
 eventFactsAsked: true
-gallery: []
 tags:
   - indian wells
   - event
@@ -33,6 +32,16 @@ faq:
     a: Only on changeovers. Ushers hold spectators at the entrances while games are in play, and people enter or leave after odd-numbered games.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/9/9e/WTA_Championships_2014_Sharapova.jpg
+  credit: 'Photo: Markushar / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:WTA_Championships_2014_Sharapova.jpg
+  focus:
+    x: 42
+    'y': 25
+    top: 21
+    bottom: 29
 ---
 
 ## Eight players, one desert week

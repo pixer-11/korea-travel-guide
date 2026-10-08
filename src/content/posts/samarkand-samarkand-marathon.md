@@ -10,7 +10,6 @@ eventEndDate: '2026-11-08'
 eventRecurring: true
 eventVenue: Registan Square
 eventFactsAsked: true
-gallery: []
 tags:
   - samarkand
   - event
@@ -28,6 +27,16 @@ faq:
     a: November is late autumn in Samarkand. Mornings are cool to cold and afternoons are milder and usually dry. Runners typically wear a throwaway layer at the start and bring a warm jacket for the finish.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/5/5f/Samarkand_Half_Marathon_1.jpg
+  credit: 'Photo: Art and Culture Development Foundation / wikimedia (BY-SA)'
+  license: openverse-cc
+  source: https://commons.wikimedia.org/w/index.php?curid=99472811
+  focus:
+    x: 37
+    'y': 23
+    top: 15
+    bottom: 30
 ---
 
 Three tiled facades frame the start line. Ulugh Beg Madrasa sits on the west side of Registan Square, Sher-Dor faces it from the east, and Tilya-Kori closes the square to the north. The Samarkand Marathon gathers its runners between them, and it brings them back there at the finish.

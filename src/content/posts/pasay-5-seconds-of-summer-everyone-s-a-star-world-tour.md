@@ -52,11 +52,19 @@ faq:
       and the SMX Convention Center are all in the same complex. CCP Complex and
       Roxas Boulevard are a short drive north.
 aiGenerated: true
-draft: true
+draft: false
 heldFinal: >-
   duplicate of manila-5sos-everyone-s-a-star-world-tour: the same two nights at
   SM Mall of Asia Arena, filed under the Pasay alias. Retired 2026-10-05, its
   URL 301s to the kept twin.
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Pasay_at_night.jpg/3840px-Pasay_at_night.jpg'
+  credit: 'Photo: Aaron Lucas / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Pasay_at_night.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 ---
 

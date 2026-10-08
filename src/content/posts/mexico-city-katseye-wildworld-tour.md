@@ -13,7 +13,6 @@ eventPerformer:
   name: KATSEYE
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - mexico city
   - event
@@ -31,6 +30,16 @@ faq:
     a: Many fans take Metro Line 9 from Velódromo. Others walk a few blocks away from the complex and order an Uber or DiDi from there, because pickups right outside the gates are slow and surge pricing is common.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/9/92/2025-12-13_Katseye_Beautiful_Chaos_Tour_08.jpg
+  credit: 'Photo: the CwE / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:2025-12-13_Katseye_Beautiful_Chaos_Tour_08.jpg
+  focus:
+    x: 40
+    'y': 47
+    top: 41
+    bottom: 52
 ---
 
 ## Two nights under the copper dome

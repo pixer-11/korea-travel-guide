@@ -13,7 +13,6 @@ eventPerformer:
   name: BABYMONSTER
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - singapore
   - event
@@ -31,6 +30,16 @@ faq:
     a: Kallang Wave Mall, right next to the stadium, has a food court and restaurants. For a hawker meal, Old Airport Road Food Centre is two stops away at Dakota MRT (CC8).
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ruka_and_Chiquita_20-06-2025.jpg/3840px-Ruka_and_Chiquita_20-06-2025.jpg
+  credit: 'Photo: Farouk Azim / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Ruka_and_Chiquita_20-06-2025.jpg
+  focus:
+    x: 38
+    'y': 22
+    top: 15
+    bottom: 28
 ---
 
 ## Two nights under the Kallang roof

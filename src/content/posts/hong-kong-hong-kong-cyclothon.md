@@ -12,6 +12,14 @@ eventOrganizer:
   name: Sun Hung Kai Properties
   url: https://www.shkp.com
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hong_Kong_Harbour_Night_2019-06-11.jpg/3840px-Hong_Kong_Harbour_Night_2019-06-11.jpg'
+  credit: 'Photo: Benh LIEU SONG (Flickr) / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Hong_Kong_Harbour_Night_2019-06-11.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - hong kong

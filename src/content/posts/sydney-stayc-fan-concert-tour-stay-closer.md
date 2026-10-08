@@ -13,7 +13,6 @@ eventPerformer:
   name: STAYC
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - sydney
   - event
@@ -31,6 +30,16 @@ faq:
     a: Sydney's CBD Koreatown runs along Pitt Street between Liverpool and Bathurst streets, close to Town Hall station, and has Korean barbecue, fried chicken and late-night bars. Strathfield in the inner west is the other big Korean dining area, right by Strathfield station.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/a/ab/STAYC_in_2020.png
+  credit: 'Photo: K-POPIT 케이팝잇 / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:STAYC_in_2020.png
+  focus:
+    x: 50
+    'y': 20
+    top: 5
+    bottom: 35
 ---
 
 ## Sunday 18 October: the last stop

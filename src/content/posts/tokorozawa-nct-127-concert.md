@@ -13,7 +13,6 @@ eventPerformer:
   name: NCT 127
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - tokorozawa
   - event
@@ -31,6 +30,16 @@ faq:
     a: Exits are staged, with crowds held outside Seibu-Kyujo-mae Station and released in waves, so waits of half an hour or more are common after a full dome concert.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/NCT_127_at_KBEE_2018_-_Moscow_Expo_Hallyu_Promotional_Ambassadors_Appointment_Ceremony_01.png/3840px-NCT_127_at_KBEE_2018_-_Moscow_Expo_Hallyu_Promotional_Ambassadors_Appointment_Ceremony_01.png
+  credit: 'Photo: dispatchsns / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:NCT_127_at_KBEE_2018_-_Moscow_Expo_Hallyu_Promotional_Ambassadors_Appointment_Ceremony_01.png
+  focus:
+    x: 54
+    'y': 23
+    top: 15
+    bottom: 30
 ---
 
 ## Two nights under a half-open roof

@@ -13,7 +13,6 @@ eventPerformer:
   name: Israel & New Breed
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - jakarta
   - event
@@ -31,6 +30,16 @@ faq:
     a: Kota Kasablanka has many restaurants and a food court on the floors below the hall. For something more local, Tebet's café and street-food area around Tebet Eco Park and Jalan Tebet Raya is nearby.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/8/83/Israel_Houghton_%28cropped%29.jpeg
+  credit: 'Photo: Sampanasyuk / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Israel_Houghton_(cropped).jpeg
+  focus:
+    x: 49
+    'y': 16
+    top: 7
+    bottom: 25
 ---
 
 ## A gospel tour lands in a South Jakarta mall

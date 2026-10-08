@@ -13,7 +13,6 @@ eventOffers:
   free: true
   currency: INR
 eventFactsAsked: true
-gallery: []
 tags:
   - varanasi
   - event
@@ -31,6 +30,14 @@ faq:
     a: Fly into Lal Bahadur Shastri International Airport at Babatpur, or take a train to Varanasi Junction (Cantt). Near the river you walk or take a cycle-rickshaw, because cars cannot enter the old lanes.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Diwali%2C_the_festival_of_lights.jpg/3840px-Diwali%2C_the_festival_of_lights.jpg
+  credit: 'Photo: Dew kodu pagli / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Diwali,_the_festival_of_lights.jpg
+  focus:
+    x: 50
+    'y': 45
 ---
 
 ## Five nights, one river

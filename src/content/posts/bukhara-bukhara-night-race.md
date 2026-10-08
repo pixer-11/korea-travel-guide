@@ -9,6 +9,14 @@ eventStartDate: '2026-11-01'
 eventEndDate: '2026-11-30'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ark_of_Bukhara_%28%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_%D0%90%D1%80%D0%BA._Buxoro_arki%29.jpg/3840px-Ark_of_Bukhara_%28%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_%D0%90%D1%80%D0%BA._Buxoro_arki%29.jpg'
+  credit: 'Photo: Petar Milošević / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Ark_of_Bukhara_(%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_%D0%90%D1%80%D0%BA._Buxoro_arki).jpg'
+  focus:
+    x: 35
+    y: 35
 gallery: []
 tags:
   - bukhara

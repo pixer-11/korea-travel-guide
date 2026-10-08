@@ -16,7 +16,6 @@ eventPerformer:
   name: BABYMONSTER
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - taipei
   - event
@@ -34,6 +33,16 @@ faq:
     a: Hotels along Nanjing East Road and around Zhongshan are popular because they sit on the green line, which runs direct to Taipei Arena Station.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/a/ac/Chiquita_at_KLIA_20-06-2025.jpg
+  credit: 'Photo: Farouk Azim / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Chiquita_at_KLIA_20-06-2025.jpg
+  focus:
+    x: 52
+    'y': 36
+    top: 20
+    bottom: 52
 ---
 
 ## Two nights at Taipei Arena

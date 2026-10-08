@@ -9,7 +9,6 @@ eventStartDate: '2026-11-15'
 eventEndDate: '2026-11-15'
 eventRecurring: true
 eventFactsAsked: true
-gallery: []
 tags:
   - trường yên
   - event
@@ -27,6 +26,14 @@ faq:
     a: The Hoa Lu ancient capital temples in Trường Yên, the Trang An sampan boat trip through limestone caves, Bai Dinh Pagoda, the Tam Coc river route, the steps up Mua Cave and the wetlands of Van Long Nature Reserve.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Trang_An_Scenic_Landscape_Complex%2C_northern_Vietnam_%28354%29_%2838540830421%29.jpg/3840px-Trang_An_Scenic_Landscape_Complex%2C_northern_Vietnam_%28354%29_%2838540830421%29.jpg
+  credit: 'Photo: Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Trang_An_Scenic_Landscape_Complex,_northern_Vietnam_(354)_(38540830421).jpg
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## Running between the limestone towers

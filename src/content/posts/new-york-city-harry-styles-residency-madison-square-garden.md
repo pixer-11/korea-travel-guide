@@ -26,13 +26,15 @@ aiGenerated: true
 draft: false
 eventRecurring: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Harry-Styles-en-Barcelona%2C-Love-On-Tour.jpg/960px-Harry-Styles-en-Barcelona%2C-Love-On-Tour.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/f/f9/Harry_Styles_%282026%29.jpg
   credit: 'Photo: Wilnel José Verdú Guerrero / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Harry-Styles-en-Barcelona,-Love-On-Tour.jpg
+  source: https://commons.wikimedia.org/wiki/File:Harry_Styles_(2026).jpg
   focus:
-    x: 40
-    'y': 40
+    x: 33
+    'y': 22
+    top: 17
+    bottom: 27
 eventOrganizer:
   name: Live Nation
   url: https://www.livenationentertainment.com

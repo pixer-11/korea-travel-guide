@@ -10,6 +10,14 @@ eventEndDate: '2026-11-08'
 eventRecurring: true
 eventVenue: Sanam Chai Road
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/f/f6/Bangkok_skytrain_sunset.jpg'
+  credit: 'Photo: User:Diliff / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Bangkok_skytrain_sunset.jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - bangkok

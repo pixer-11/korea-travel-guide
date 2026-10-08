@@ -10,6 +10,14 @@ eventEndDate: '2026-10-11'
 eventRecurring: true
 eventVenue: Mandalika International Street Circuit
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Lombok_Island_and_Mount_Rinjani_from_Gili_Meno_Island%2C_Indonesia.jpg/3840px-Lombok_Island_and_Mount_Rinjani_from_Gili_Meno_Island%2C_Indonesia.jpg'
+  credit: 'Photo: Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Lombok_Island_and_Mount_Rinjani_from_Gili_Meno_Island,_Indonesia.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - lombok

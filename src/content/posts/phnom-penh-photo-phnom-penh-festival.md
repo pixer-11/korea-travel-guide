@@ -9,6 +9,14 @@ eventStartDate: '2026-10-22'
 eventEndDate: '2026-11-22'
 eventRecurring: true
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Pawilon_Chanchhaya_%2802%29.jpg/3840px-2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Pawilon_Chanchhaya_%2802%29.jpg'
+  credit: 'Photo: Marcin Konsek / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:2016_Phnom_Penh,_Pa%C5%82ac_Kr%C3%B3lewski,_Pawilon_Chanchhaya_(02).jpg'
+  focus:
+    x: 50
+    y: 40
 gallery: []
 tags:
   - phnom penh

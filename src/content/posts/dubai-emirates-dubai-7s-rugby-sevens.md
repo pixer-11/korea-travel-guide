@@ -13,7 +13,6 @@ eventOrganizer:
   name: Emirates
   url: https://emiratesdubai7s.com/
 eventFactsAsked: true
-gallery: []
 tags:
   - dubai
   - event
@@ -31,6 +30,16 @@ faq:
     a: Yes. Costumes are a long-standing part of the weekend, and many groups turn up in matching outfits. Dubai's public decency norms still apply once you leave the venue.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/8/81/Land_Rover_at_the_2012_Dubai_Rugby_Sevens_%288243787670%29_v2.jpg
+  credit: 'Photo: Land Rover MENA Crop: User:Ham105 / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Land_Rover_at_the_2012_Dubai_Rugby_Sevens_(8243787670)_v2.jpg
+  focus:
+    x: 78
+    'y': 36
+    top: 32
+    bottom: 40
 ---
 
 ## Three days on Al Ain Road

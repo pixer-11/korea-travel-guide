@@ -22,13 +22,13 @@ faq:
     a: Both work, but its shareable starters like burrata and its cocktail-forward bar suit a group or a lively couple's night out better than a quiet, intimate dinner.
 aiGenerated: true
 heroImage:
-  url: https://fastly.4sqi.net/img/general/original/514034313_7EvZAVPngbb6bbbz_rxXDkKr3LoBXcfe2xRJ8lisXMU.jpg
-  credit: 'Photo: Foursquare user content (Cherry)'
-  license: foursquare
-  source: https://foursquare.com/v/68ce6747dc8f3b3c946efaa5
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Cherry_blossom_%40_Beaugrenelle_%40_Paris_%2826208557615%29.jpg/3840px-Cherry_blossom_%40_Beaugrenelle_%40_Paris_%2826208557615%29.jpg
+  credit: 'Photo: Guilhem Vellut from Paris, France / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Cherry_blossom_@_Beaugrenelle_@_Paris_(26208557615).jpg
   focus:
-    x: 45
-    'y': 55
+    x: 50
+    'y': 50
 ---
 
 ## What Cherry actually is

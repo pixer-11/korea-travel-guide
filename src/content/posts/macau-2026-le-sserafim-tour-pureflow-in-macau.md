@@ -13,7 +13,6 @@ eventPerformer:
   name: LE SSERAFIM
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - macau
   - event
@@ -31,6 +30,16 @@ faq:
     a: Taipa Village is a short ride from Cotai, with Macanese snacks and the Taipa Houses-Museum. On the peninsula, the UNESCO-listed Historic Centre of Macau includes the Ruins of St. Paul's, Senado Square and A-Ma Temple.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/0/0a/Le_Sserafim_at_the_2026_Golden_Disc_Awards.png
+  credit: 'Photo: https://www.youtube.com/@_TV10 / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Le_Sserafim_at_the_2026_Golden_Disc_Awards.png
+  focus:
+    x: 57
+    'y': 22
+    top: 10
+    bottom: 33
 ---
 
 ## Two nights on the Cotai Strip

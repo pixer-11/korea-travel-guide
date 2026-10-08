@@ -2562,13 +2562,6 @@
    "flaggedAt": "2026-09-02",
    "lastResult": "no-wider"
   },
-  "new-york-city-harry-styles-residency-madison-square-garden": {
-   "width": 960,
-   "attempts": 5,
-   "nextTry": "2026-10-08",
-   "flaggedAt": "2026-09-02",
-   "lastResult": "no-wider"
-  },
   "hue-hue-festival-2026-autumn-festival": {
    "width": 960,
    "attempts": 2,
@@ -2606,15 +2599,15 @@
   },
   "bali-motel-mexicola-uluwatu": {
    "width": 1080,
-   "attempts": 4,
-   "nextTry": "2026-10-08",
+   "attempts": 5,
+   "nextTry": "2026-10-15",
    "flaggedAt": "2026-09-10",
    "lastResult": "no-wider"
   },
   "dubai-suteki": {
    "width": 903,
-   "attempts": 4,
-   "nextTry": "2026-10-08",
+   "attempts": 5,
+   "nextTry": "2026-10-15",
    "flaggedAt": "2026-09-10",
    "lastResult": "no-wider"
   },
@@ -2629,13 +2622,6 @@
    "width": 785,
    "attempts": 1,
    "nextTry": "2026-09-17",
-   "flaggedAt": "2026-09-10",
-   "lastResult": "no-wider"
-  },
-  "paris-cherry-paris": {
-   "width": 1080,
-   "attempts": 4,
-   "nextTry": "2026-10-08",
    "flaggedAt": "2026-09-10",
    "lastResult": "no-wider"
   },
@@ -2729,12 +2715,6 @@
    "nextTry": "2026-10-13",
    "flaggedAt": "2026-09-24",
    "lastResult": "no-wider"
-  },
-  "chennai-koyambedu-market": {
-   "width": 1024,
-   "attempts": 0,
-   "nextTry": "2026-09-25",
-   "flaggedAt": "2026-09-25"
   },
   "florence-loggia-del-mercato-nuovo": {
    "width": 1024,

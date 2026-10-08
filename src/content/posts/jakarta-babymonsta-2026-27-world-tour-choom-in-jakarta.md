@@ -13,7 +13,6 @@ eventPerformer:
   name: BABYMONSTER
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - jakarta
   - event
@@ -31,6 +30,16 @@ faq:
     a: Ride-hailing prices surge and pickup points jam as the arena empties. Many fans walk to Senayan City or Plaza Senayan to get a ride, or queue for the MRT at Istora Mandiri. The MRT's last-train time varies by schedule.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/4/44/Rora_20260905_Manila.jpg
+  credit: 'Photo: Farouk Azim / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Rora_20260905_Manila.jpg
+  focus:
+    x: 48
+    'y': 25
+    top: 15
+    bottom: 35
 ---
 
 ## CHOOM lands in Senayan

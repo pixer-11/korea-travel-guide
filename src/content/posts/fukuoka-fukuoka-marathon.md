@@ -15,6 +15,14 @@ eventOrganizer:
 eventOffers:
   url: https://www.f-marathon.jp/en/news/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/1/19/Fukuoka_Japan_Temple_by_tylermhawkins.jpeg'
+  credit: 'Photo: Tyler Hawkins from Edmonton, Canada / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Fukuoka_Japan_Temple_by_tylermhawkins.jpeg'
+  focus:
+    x: 35
+    y: 40
 gallery: []
 tags:
   - fukuoka

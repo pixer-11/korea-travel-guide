@@ -13,7 +13,6 @@ eventPerformer:
   name: Jason Mraz
   kind: person
 eventFactsAsked: true
-gallery: []
 tags:
   - pasay
   - event
@@ -31,6 +30,16 @@ faq:
     a: Conrad Manila is inside the Mall of Asia complex. The Entertainment City resorts, including City of Dreams and Okada Manila, are a short ride south, and NAIA airport is close by.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flickr_-_moses_namkung_-_Jason_Mraz_1.jpg/3840px-Flickr_-_moses_namkung_-_Jason_Mraz_1.jpg
+  credit: 'Photo: Moses / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Flickr_-_moses_namkung_-_Jason_Mraz_1.jpg
+  focus:
+    x: 56
+    'y': 31
+    top: 15
+    bottom: 47
 ---
 
 ## A Tuesday night on Manila Bay

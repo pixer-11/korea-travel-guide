@@ -15,7 +15,6 @@ eventOrganizer:
 eventOffers:
   url: https://circuitoftheamericas.com
 eventFactsAsked: true
-gallery: []
 tags:
   - austin
   - event
@@ -33,6 +32,14 @@ faq:
     a: Sixth Street and Rainey Street for evenings out, South Congress Avenue, the Lady Bird Lake trail, the Congress Avenue Bridge bat flight at dusk, and Central Texas barbecue.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/2002_US_F1_Grand_Prix_-_Circuit_of_the_Americas%2C_Austin%2C_TX_%2854917351063%29.jpg/3840px-2002_US_F1_Grand_Prix_-_Circuit_of_the_Americas%2C_Austin%2C_TX_%2854917351063%29.jpg
+  credit: 'Photo: Alan LaRue / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:2002_US_F1_Grand_Prix_-_Circuit_of_the_Americas,_Austin,_TX_(54917351063).jpg
+  focus:
+    x: 55
+    'y': 50
 ---
 
 ## A hill, a hairpin and four days in October

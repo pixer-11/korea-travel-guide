@@ -13,6 +13,14 @@ eventPerformer:
   name: TXT (Tomorrow X Together)
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Macau_Tower_and_Sai_Van_Bridge_during_Blue_Hour.jpg/3840px-Macau_Tower_and_Sai_Van_Bridge_during_Blue_Hour.jpg'
+  credit: 'Photo: Jayden Chao / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Macau_Tower_and_Sai_Van_Bridge_during_Blue_Hour.jpg'
+  focus:
+    x: 25
+    y: 35
 gallery: []
 tags:
   - macau

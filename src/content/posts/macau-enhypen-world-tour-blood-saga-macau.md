@@ -13,7 +13,6 @@ eventPerformer:
   name: ENHYPEN
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - macau
   - event
@@ -31,6 +30,14 @@ faq:
     a: The concert is open to younger fans with a ticket. The casino floors inside Galaxy Macau are restricted to people 21 and over, so younger fans stick to the signed routes to the arena.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/2/2f/Galaxy_Macau_Rear.jpg
+  credit: 'Photo: Brenden Brain / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Galaxy_Macau_Rear.jpg
+  focus:
+    x: 30
+    'y': 55
 ---
 
 ## Three nights at Galaxy Arena

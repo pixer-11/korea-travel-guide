@@ -12,6 +12,14 @@ eventOrganizer:
   name: Badminton World Federation (BWF)
   url: https://bwfworldtour.bwfbadminton.com/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/c/c9/The_Residency%28Lucknow%29.jpg'
+  credit: 'Photo: Arpan Mahajan (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'File:The Residency(Lucknow).jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - lucknow

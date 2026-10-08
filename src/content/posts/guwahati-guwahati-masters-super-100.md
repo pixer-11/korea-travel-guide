@@ -13,6 +13,14 @@ eventOrganizer:
   name: Badminton World Federation (BWF)
   url: https://bwfworldtour.bwfbadminton.com/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Skyline_of_Guwahati.jpg/1280px-Skyline_of_Guwahati.jpg'
+  credit: 'Photo: Rishavnandi08 (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'File:Skyline of Guwahati.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - guwahati

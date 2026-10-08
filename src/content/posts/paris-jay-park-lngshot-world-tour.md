@@ -13,7 +13,6 @@ eventPerformer:
   name: Jay Park & LNGSHOT
   kind: group
 eventFactsAsked: true
-gallery: []
 tags:
   - paris
   - event
@@ -31,6 +30,16 @@ faq:
     a: It is one stop on Jay Park's 2026 world tour, with LNGSHOT. The tour launched earlier with a MIDEM LIVE show in Cannes.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/e/e6/Jay_Park_shirtless_at_concert.jpg
+  credit: 'Photo: 임윤아1 / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Jay_Park_shirtless_at_concert.jpg
+  focus:
+    x: 45
+    'y': 9
+    top: 0
+    bottom: 18
 ---
 
 ## A Tuesday night in the 19th

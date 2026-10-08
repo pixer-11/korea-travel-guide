@@ -30,6 +30,30 @@
   "reason": "publish gate: Shows actual dates market storefront with signage in Abu Dhabi",
   "at": "2026-09-21T08:14:24.459Z"
  },
+ "abu-dhabi-andrea-bocelli-yasalam-classics\u0001https://upload.wikimedia.org/wikipedia/commons/3/3e/Andrea_Bocelli_-_5315303241.jpg": {
+  "slug": "abu-dhabi-andrea-bocelli-yasalam-classics",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Blu-ray disc packaging photo, not event/performer photo",
+  "at": "2026-10-08T14:32:50.538Z"
+ },
+ "abu-dhabi-andrea-bocelli-yasalam-classics\u0001https://upload.wikimedia.org/wikipedia/commons/4/4e/President_Donald_Trump_with_Andrea_Bocelli.jpg": {
+  "slug": "abu-dhabi-andrea-bocelli-yasalam-classics",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Photo shows office interior, not concert venue or performer",
+  "at": "2026-10-08T14:32:53.959Z"
+ },
+ "abu-dhabi-andrea-bocelli-yasalam-classics\u0001https://upload.wikimedia.org/wikipedia/commons/7/7a/Concierto_Andrea_Bocelli_%2848720880911%29.jpg": {
+  "slug": "abu-dhabi-andrea-bocelli-yasalam-classics",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Classical performer on stage with orchestra",
+  "at": "2026-10-08T14:32:59.870Z"
+ },
+ "abu-dhabi-andrea-bocelli-yasalam-classics\u0001https://upload.wikimedia.org/wikipedia/commons/8/84/Donald_Trump_meets_with_Andrea_Bocelli_in_the_Oval_Office%2C_Friday%2C_October_17%2C_2025_-_2.jpg": {
+  "slug": "abu-dhabi-andrea-bocelli-yasalam-classics",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Official meeting room, not concert venue or event",
+  "at": "2026-10-08T14:32:57.091Z"
+ },
  "abu-dhabi-art-house-cafe\u0001https://fastly.4sqi.net/img/general/original/862678_9l59qYvHG6TUMtRzcgS91YY5D5mFWBywhgl2p1MM82o.jpg": {
   "slug": "abu-dhabi-art-house-cafe",
   "verdict": "MATCH",
@@ -1041,6 +1065,12 @@
   "reason": "publish gate: Iconic canopy structure with museum sign, exterior view",
   "at": "2026-09-10T07:46:19.533Z"
  },
+ "austin-f1-united-states-grand-prix\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/2002_US_F1_Grand_Prix_-_Circuit_of_the_Americas%2C_Austin%2C_TX_%2854917351063%29.jpg/3840px-2002_US_F1_Grand_Prix_-_Circuit_of_the_Americas%2C_Austin%2C_TX_%2854917351063%29.jpg": {
+  "slug": "austin-f1-united-states-grand-prix",
+  "verdict": "MATCH",
+  "reason": "patrol replace: F1 Red Bull Racing car at Circuit of Americas",
+  "at": "2026-10-08T14:33:07.809Z"
+ },
  "austin-formula-1-united-states-grand-prix\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Circuit_of_the_Americas_aerial_view_from_WN4430.jpg/3840px-Circuit_of_the_Americas_aerial_view_from_WN4430.jpg": {
   "slug": "austin-formula-1-united-states-grand-prix",
   "verdict": "MATCH",
@@ -1750,6 +1780,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Beach party scene, not dance/music festival stage",
   "at": "2026-09-09T21:55:56.095Z"
+ },
+ "bangkok-bangkok-marathon\u0001https://live.staticflickr.com/2543/4155525818_f639970553_b.jpg": {
+  "slug": "bangkok-bangkok-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Indoor expo booth, not marathon race or venue",
+  "at": "2026-10-08T14:33:24.640Z"
  },
  "bangkok-bigbang-world-tour-xx-cosmos-in-bangkok\u0001https://upload.wikimedia.org/wikipedia/commons/0/02/BIGBANG_%26_KIM_YUNA.jpg": {
   "slug": "bangkok-bigbang-world-tour-xx-cosmos-in-bangkok",
@@ -4947,6 +4983,12 @@
   "reasonKo": "첸나이 정부박물관 건물 외관",
   "at": "2026-08-11T14:03:04.895Z"
  },
+ "chennai-koyambedu-market\u0001https://fastly.4sqi.net/img/general/original/36991331_yXlCLIquyF93CFEmLG-BdlL4uL_9C1ANn9hcKVEswfI.jpg": {
+  "slug": "chennai-koyambedu-market",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Flower market scene matches Koyambedu's famous flower wholesale market",
+  "at": "2026-10-08T15:07:19.233Z"
+ },
  "chennai-koyambedu-market\u0001https://upload.wikimedia.org/wikipedia/commons/b/bd/Koyambedu_Market.jpg": {
   "slug": "chennai-koyambedu-market",
   "verdict": "MATCH",
@@ -5846,6 +5888,12 @@
   "reason": "publish gate: Exterior of Margaritaville Cozumel with signage and patrons",
   "at": "2026-10-05T16:26:27.311Z"
  },
+ "cuttack-odisha-masters-super-100\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Gulshan_nadeem_Odia_Anchor_from_Odisha.jpg/1920px-Gulshan_nadeem_Odia_Anchor_from_Odisha.jpg": {
+  "slug": "cuttack-odisha-masters-super-100",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Singer performing, unrelated to badminton tournament event",
+  "at": "2026-10-08T14:34:00.630Z"
+ },
  "da-lat-da-lat-market\u0001https://upload.wikimedia.org/wikipedia/commons/9/90/Dalat_market%2C_Vietnam.jpg": {
   "slug": "da-lat-da-lat-market",
   "verdict": "MATCH",
@@ -6379,6 +6427,18 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Airplane photo unrelated to Dubai Summer Surprises event",
   "at": "2026-08-20T20:00:33.420Z"
+ },
+ "dubai-emirates-dubai-7s-rugby-sevens\u0001https://upload.wikimedia.org/wikipedia/commons/3/37/Land_Rover_at_the_2012_Dubai_Rugby_Sevens_%288242712559%29.jpg": {
+  "slug": "dubai-emirates-dubai-7s-rugby-sevens",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Costumed people with tablet, not rugby event related",
+  "at": "2026-10-08T14:34:31.597Z"
+ },
+ "dubai-emirates-dubai-7s-rugby-sevens\u0001https://upload.wikimedia.org/wikipedia/commons/8/81/Land_Rover_at_the_2012_Dubai_Rugby_Sevens_%288243787670%29_v2.jpg": {
+  "slug": "dubai-emirates-dubai-7s-rugby-sevens",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Women's rugby sevens match at stadium venue",
+  "at": "2026-10-08T14:34:34.364Z"
  },
  "dubai-etihad-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/UAE_flat_with_Etihad_Museum_in_background%2C_Dubai%2C_UAE.jpg/3840px-UAE_flat_with_Etihad_Museum_in_background%2C_Dubai%2C_UAE.jpg": {
   "slug": "dubai-etihad-museum",
@@ -7006,6 +7066,18 @@
   "reason": "publish gate: Exterior of Fukuoka City Science Museum building, clearly labeled",
   "at": "2026-08-25T08:14:37.819Z"
  },
+ "fukuoka-fukuoka-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/8/87/Fukuoka_Marathon_Monument.jpg": {
+  "slug": "fukuoka-fukuoka-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Plaques and footprints monument, not marathon venue/course",
+  "at": "2026-10-08T14:35:03.088Z"
+ },
+ "fukuoka-fukuoka-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/a/a8/Fukuoka_International_Marathon_memorial_stele_and_winners_footprints.JPG": {
+  "slug": "fukuoka-fukuoka-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated monument/plaque scene, not marathon event or venue",
+  "at": "2026-10-08T14:35:04.763Z"
+ },
  "fukuoka-kushida-shrine\u0001https://fastly.4sqi.net/img/general/original/12766832_IcMEAA5hml2B6teo3DEQXdkEb9Ajqd-4GIqI62NAe5A.jpg": {
   "slug": "fukuoka-kushida-shrine",
   "verdict": "MATCH",
@@ -7483,6 +7555,12 @@
   "reason": "publish gate: Shows fortress wall along mountain ridge, representative view",
   "at": "2026-09-21T07:41:35.263Z"
  },
+ "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/6/67/Charlie_Puth_-_How_Long_%28Official_Single_Cover%29.jpg": {
+  "slug": "goyang-charlie-puth-concert",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Text-based album art, not photo of concert/venue",
+  "at": "2026-10-08T14:35:28.468Z"
+ },
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Charlie_Puth_al_Poble_Espanyol_%2889469%29.jpg/3840px-Charlie_Puth_al_Poble_Espanyol_%2889469%29.jpg": {
   "slug": "goyang-charlie-puth-concert",
   "verdict": "MATCH",
@@ -7492,8 +7570,8 @@
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Charlie_Puth_al_Poble_Espanyol_%2836250%29.jpg/3840px-Charlie_Puth_al_Poble_Espanyol_%2836250%29.jpg": {
   "slug": "goyang-charlie-puth-concert",
   "verdict": "MATCH",
-  "reason": "patrol replace: Concert performance, plausible Charlie Puth event",
-  "at": "2026-10-05T21:33:21.091Z"
+  "reason": "patrol replace: Concert performance on stage with band setup",
+  "at": "2026-10-08T14:35:31.166Z"
  },
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Charlie_Puth_al_Poble_Espanyol_%2857304%29.jpg/3840px-Charlie_Puth_al_Poble_Espanyol_%2857304%29.jpg": {
   "slug": "goyang-charlie-puth-concert",
@@ -8625,6 +8703,18 @@
   "reason": "publish gate: Shows entrance gate with park name sign, representative view",
   "at": "2026-08-20T08:32:57.269Z"
  },
+ "ho-chi-minh-city-techcombank-ho-chi-minh-city-international-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Techcombank%2C_Royal_City%2C_H%C3%A0_N%E1%BB%99i_001.JPG/1920px-Techcombank%2C_Royal_City%2C_H%C3%A0_N%E1%BB%99i_001.JPG": {
+  "slug": "ho-chi-minh-city-techcombank-ho-chi-minh-city-international-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows building/bank branch, not marathon event or runners",
+  "at": "2026-10-08T14:36:01.721Z"
+ },
+ "ho-chi-minh-city-techcombank-ho-chi-minh-city-international-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Techcombank%2C_Royal_City%2C_H%C3%A0_N%E1%BB%99i_002.JPG/1920px-Techcombank%2C_Royal_City%2C_H%C3%A0_N%E1%BB%99i_002.JPG": {
+  "slug": "ho-chi-minh-city-techcombank-ho-chi-minh-city-international-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Bank branch storefront, not marathon event photo",
+  "at": "2026-10-08T14:36:03.249Z"
+ },
  "ho-chi-minh-city-tonkin-specialty-coffee\u0001https://fastly.4sqi.net/img/general/original/1398311522_312mJ6sWjsRsnVfBTyNOPMpPiZMS4RVCwQuT99cnFxA.jpg": {
   "slug": "ho-chi-minh-city-tonkin-specialty-coffee",
   "verdict": "MATCH",
@@ -8894,6 +8984,12 @@
   "reason": "patrol re-check: Cocktails on table inside venue, consistent bar setting",
   "at": "2026-09-19T21:39:06.863Z"
  },
+ "hong-kong-hong-kong-cyclothon\u0001https://upload.wikimedia.org/wikipedia/commons/c/c2/Cyclothon.jpg": {
+  "slug": "hong-kong-hong-kong-cyclothon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: This is a promotional poster/graphic, not an event photo",
+  "at": "2026-10-08T14:36:18.488Z"
+ },
  "hong-kong-hong-kong-disneyland\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hong_Kong_Disneyland_Castle.jpg/1920px-Hong_Kong_Disneyland_Castle.jpg": {
   "slug": "hong-kong-hong-kong-disneyland",
   "verdict": "MATCH",
@@ -9079,6 +9175,24 @@
   "reason": "This is Shaolin Temple in China, not Po Lin Monastery Hong K",
   "reasonKo": "중국 소림사이지, 홍콩 보린사 아님",
   "at": "2026-08-13T14:04:06.324Z"
+ },
+ "hong-kong-prudential-hong-kong-tennis-open\u0001https://upload.wikimedia.org/wikipedia/commons/3/35/Prudential_Centre_201301.jpg": {
+  "slug": "hong-kong-prudential-hong-kong-tennis-open",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Generic office buildings, not tennis venue or event",
+  "at": "2026-10-08T14:37:32.052Z"
+ },
+ "hong-kong-prudential-hong-kong-tennis-open\u0001https://upload.wikimedia.org/wikipedia/commons/d/d0/Prudential_Centre_Atrium_201301.jpg": {
+  "slug": "hong-kong-prudential-hong-kong-tennis-open",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shopping mall interior, unrelated to tennis event/venue",
+  "at": "2026-10-08T14:37:33.659Z"
+ },
+ "hong-kong-prudential-hong-kong-tennis-open\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Prudential_Centre_03-09-2026.jpg/3840px-Prudential_Centre_03-09-2026.jpg": {
+  "slug": "hong-kong-prudential-hong-kong-tennis-open",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shopping mall food court, unrelated to tennis event",
+  "at": "2026-10-08T14:37:40.355Z"
  },
  "hong-kong-simple-plan-bigger-than-you-think-tour\u0001https://upload.wikimedia.org/wikipedia/commons/2/27/Simple_Plan_in_Agawam%2C_MA.jpeg": {
   "slug": "hong-kong-simple-plan-bigger-than-you-think-tour",
@@ -9759,6 +9873,12 @@
   "reason": "Sunset over Incheon waterfront, Wolmi Island visible",
   "at": "2026-07-25T02:44:29.967Z"
  },
+ "indian-wells-wta-finals\u0001https://upload.wikimedia.org/wikipedia/commons/9/9e/WTA_Championships_2014_Sharapova.jpg": {
+  "slug": "indian-wells-wta-finals",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Tennis player at professional indoor court venue",
+  "at": "2026-10-08T14:38:37.944Z"
+ },
  "inverness-fort-george\u0001https://upload.wikimedia.org/wikipedia/commons/5/5e/Fort_George%2C_2003_%281%29.JPG": {
   "slug": "inverness-fort-george",
   "verdict": "MATCH",
@@ -10403,6 +10523,24 @@
   "reason": "patrol reject: identity: Commons places this in Paris, post says Jakarta",
   "at": "2026-10-05T15:11:53.224Z"
  },
+ "jakarta-babymonsta-2026-27-world-tour-choom-in-jakarta\u0001https://upload.wikimedia.org/wikipedia/commons/0/0a/Ruka_at_KLIA_20-06-2025.jpg": {
+  "slug": "jakarta-babymonsta-2026-27-world-tour-choom-in-jakarta",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Random woman, not identifiable BABYMONSTA performer or venue",
+  "at": "2026-10-08T14:38:55.950Z"
+ },
+ "jakarta-babymonsta-2026-27-world-tour-choom-in-jakarta\u0001https://upload.wikimedia.org/wikipedia/commons/4/44/Rora_20260905_Manila.jpg": {
+  "slug": "jakarta-babymonsta-2026-27-world-tour-choom-in-jakarta",
+  "verdict": "MATCH",
+  "reason": "patrol replace: BABYMONSTA performer on stage, concert setting",
+  "at": "2026-10-08T14:38:58.912Z"
+ },
+ "jakarta-babymonsta-2026-27-world-tour-choom-in-jakarta\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ruka_and_Chiquita_20-06-2025.jpg/3840px-Ruka_and_Chiquita_20-06-2025.jpg": {
+  "slug": "jakarta-babymonsta-2026-27-world-tour-choom-in-jakarta",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Random candid airport photo, not BABYMONSTER performance or venue",
+  "at": "2026-10-08T14:38:53.966Z"
+ },
  "jakarta-babymonster-jakarta-concert\u0001https://upload.wikimedia.org/wikipedia/commons/0/0a/Ruka_at_KLIA_20-06-2025.jpg": {
   "slug": "jakarta-babymonster-jakarta-concert",
   "verdict": "MISMATCH",
@@ -10524,6 +10662,18 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Large concert stage with crowd, performer visible",
   "at": "2026-10-05T15:23:34.048Z"
+ },
+ "jakarta-israel-new-breed-til-the-whole-world-knows-tour\u0001https://upload.wikimedia.org/wikipedia/commons/6/61/A_new_breed_%285411625186%29.jpg": {
+  "slug": "jakarta-israel-new-breed-til-the-whole-world-knows-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated couple photo, not event performers or venue",
+  "at": "2026-10-08T14:39:11.585Z"
+ },
+ "jakarta-israel-new-breed-til-the-whole-world-knows-tour\u0001https://upload.wikimedia.org/wikipedia/commons/8/83/Israel_Houghton_%28cropped%29.jpeg": {
+  "slug": "jakarta-israel-new-breed-til-the-whole-world-knows-tour",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Performer with guitar on stage matches concert event",
+  "at": "2026-10-08T14:39:14.764Z"
  },
  "jakarta-jakarta-old-town\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Batavia_City_Hall_%28Jakarta_History_Museum%29_Fatahillah_Square_%282025%29_-_img_01.jpg/1920px-Batavia_City_Hall_%28Jakarta_History_Museum%29_Fatahillah_Square_%282025%29_-_img_01.jpg": {
   "slug": "jakarta-jakarta-old-town",
@@ -11592,6 +11742,24 @@
   "reason": "publish gate: Shows LOVE sculpture with Kaohsiung skyline, matches lookout name",
   "at": "2026-08-23T07:54:41.496Z"
  },
+ "kaohsiung-treasure-the-stage-2026-new-wave-live\u0001https://upload.wikimedia.org/wikipedia/commons/f/f4/Treasure_Island%2C_Ada_East_%28P1090935%29.jpg": {
+  "slug": "kaohsiung-treasure-the-stage-2026-new-wave-live",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated subject: life jackets stacked by pool",
+  "at": "2026-10-08T14:40:17.609Z"
+ },
+ "kaohsiung-treasure-the-stage-2026-new-wave-live\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Treasure_Island%2C_Ada_East_%28P1090929%29.jpg/3840px-Treasure_Island%2C_Ada_East_%28P1090929%29.jpg": {
+  "slug": "kaohsiung-treasure-the-stage-2026-new-wave-live",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated beach resort sign, not Kaohsiung Arena or event",
+  "at": "2026-10-08T14:40:15.408Z"
+ },
+ "kaohsiung-treasure-the-stage-2026-new-wave-live\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Treasure_Island_bench.jpg/3840px-Treasure_Island_bench.jpg": {
+  "slug": "kaohsiung-treasure-the-stage-2026-new-wave-live",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Wooden bench in forest, unrelated to concert event",
+  "at": "2026-10-08T14:40:20.828Z"
+ },
  "kas-kas\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/View_Kas.jpg/1920px-View_Kas.jpg": {
   "slug": "kas-kas",
   "verdict": "MATCH",
@@ -12484,6 +12652,30 @@
   "verdict": "MATCH",
   "reason": "release check: KL skyline with Petronas Towers, representative of Kuala Lumpur",
   "at": "2026-08-11T04:12:40.197Z"
+ },
+ "kuala-lumpur-jeong-eunji-solo-concert-asia-tour\u0001https://upload.wikimedia.org/wikipedia/commons/8/80/Yoon_Jeong-han_at_25th_Dream_Concert_01.png": {
+  "slug": "kuala-lumpur-jeong-eunji-solo-concert-asia-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Male performer shown, not Jeong Eunji",
+  "at": "2026-10-08T14:40:45.182Z"
+ },
+ "kuala-lumpur-jeong-eunji-solo-concert-asia-tour\u0001https://upload.wikimedia.org/wikipedia/commons/a/a2/Yoon_Jeong-han_at_25th_Dream_Concert_05.png": {
+  "slug": "kuala-lumpur-jeong-eunji-solo-concert-asia-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: This is a male performer, not Jeong Eunji",
+  "at": "2026-10-08T14:40:47.414Z"
+ },
+ "kuala-lumpur-jeong-eunji-solo-concert-asia-tour\u0001https://upload.wikimedia.org/wikipedia/commons/b/b4/Yoon_Jeong-han_at_25th_Dream_Concert_03.png": {
+  "slug": "kuala-lumpur-jeong-eunji-solo-concert-asia-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Different performer, not Jeong Eunji",
+  "at": "2026-10-08T14:40:38.755Z"
+ },
+ "kuala-lumpur-jeong-eunji-solo-concert-asia-tour\u0001https://upload.wikimedia.org/wikipedia/commons/e/ed/Yoon_Jeong-han_at_25th_Dream_Concert_06.png": {
+  "slug": "kuala-lumpur-jeong-eunji-solo-concert-asia-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in South Korea, post says Malaysia",
+  "at": "2026-10-08T14:40:42.518Z"
  },
  "kuala-lumpur-kapitan-s-club\u0001https://fastly.4sqi.net/img/general/original/5813125_RjP0tvKbIWkiJCDwCOSPzRTHydeWwrIgkOtzMQxmo9o.jpg": {
   "slug": "kuala-lumpur-kapitan-s-club",
@@ -13406,8 +13598,8 @@
  "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alvaro_Bautista-motogp-2015.JPG/3840px-Alvaro_Bautista-motogp-2015.JPG": {
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
   "verdict": "MATCH",
-  "reason": "patrol replace: MotoGP rider and motorcycle at circuit pit garage",
-  "at": "2026-10-07T23:45:23.200Z"
+  "reason": "patrol replace: MotoGP rider and bike at racing event",
+  "at": "2026-10-08T14:42:15.500Z"
  },
  "lombok-mount-rinjani-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lembah_Torean_Rinjani.jpg/1920px-Lembah_Torean_Rinjani.jpg": {
   "slug": "lombok-mount-rinjani-national-park",
@@ -14195,6 +14387,12 @@
   "reason": "Manhole cover, not venue-specific imagery",
   "at": "2026-07-25T02:46:17.289Z"
  },
+ "macau-2026-le-sserafim-tour-pureflow-in-macau\u0001https://upload.wikimedia.org/wikipedia/commons/0/0a/Le_Sserafim_at_the_2026_Golden_Disc_Awards.png": {
+  "slug": "macau-2026-le-sserafim-tour-pureflow-in-macau",
+  "verdict": "MATCH",
+  "reason": "patrol replace: LE SSERAFIM members at formal event appearance",
+  "at": "2026-10-08T14:42:46.647Z"
+ },
  "macau-26th-macau-food-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/25th_Macau_Food_Festival_food_30-11-2025.jpg/1920px-25th_Macau_Food_Festival_food_30-11-2025.jpg": {
   "slug": "macau-26th-macau-food-festival",
   "verdict": "MATCH",
@@ -14248,6 +14446,30 @@
   "verdict": "MATCH",
   "reason": "publish gate: Interior market view with produce stalls, representative of Red Market",
   "at": "2026-10-08T07:46:56.899Z"
+ },
+ "macau-txt-world-tour-steal-the-wind-macau\u0001https://upload.wikimedia.org/wikipedia/commons/1/1c/Security_txt.png": {
+  "slug": "macau-txt-world-tour-steal-the-wind-macau",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Screenshot of security.txt page, unrelated to event",
+  "at": "2026-10-08T14:45:24.372Z"
+ },
+ "macau-txt-world-tour-steal-the-wind-macau\u0001https://upload.wikimedia.org/wikipedia/commons/6/6c/Khalili_Collection_Islamic_Art_txt_0222.1.jpg": {
+  "slug": "macau-txt-world-tour-steal-the-wind-macau",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Repetitive text pattern image, unrelated to concert event",
+  "at": "2026-10-08T14:45:27.585Z"
+ },
+ "macau-txt-world-tour-steal-the-wind-macau\u0001https://upload.wikimedia.org/wikipedia/commons/7/7f/Galaxy_Macau_01.JPG": {
+  "slug": "macau-txt-world-tour-steal-the-wind-macau",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: audit: Photo shows Macau casino resort, not Galaxy Arena venue.",
+  "at": "2026-10-08T14:45:32.691Z"
+ },
+ "macau-txt-world-tour-steal-the-wind-macau\u0001https://upload.wikimedia.org/wikipedia/commons/9/98/Heinrich_Zille_Modellpause_Txt.jpg": {
+  "slug": "macau-txt-world-tour-steal-the-wind-macau",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Handwritten German text, unrelated to event or venue",
+  "at": "2026-10-08T14:45:29.768Z"
  },
  "madrid-barcelona-the-weeknd-after-hours-til-dawn-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/The_Weeknd_-_Live_at_Ippodromo_SNAI_La_Maura%2C_Milan_%28July_27%2C_2023%29.jpg/3840px-The_Weeknd_-_Live_at_Ippodromo_SNAI_La_Maura%2C_Milan_%28July_27%2C_2023%29.jpg": {
   "slug": "madrid-barcelona-the-weeknd-after-hours-til-dawn-tour",
@@ -15145,11 +15367,47 @@
   "reason": "publish gate: Exterior shows market sign and building, representative hero",
   "at": "2026-10-05T07:39:54.949Z"
  },
+ "mexico-city-day-of-the-dead-grand-parade-desfile-de-dia-de-muertos\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Alfeniques_of_day_of_the_dead.jpg/3840px-Alfeniques_of_day_of_the_dead.jpg": {
+  "slug": "mexico-city-day-of-the-dead-grand-parade-desfile-de-dia-de-muertos",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Craft figurines, not the parade or venue itself",
+  "at": "2026-10-08T14:47:45.761Z"
+ },
  "mexico-city-formula-1-mexico-city-grand-prix\u0001https://upload.wikimedia.org/wikipedia/commons/a/a0/2021_Mexico_City_Grand_Prix_%2851349315666%29.jpg": {
   "slug": "mexico-city-formula-1-mexico-city-grand-prix",
   "verdict": "MATCH",
   "reason": "event publish gate: F1 race car on track at event venue",
   "at": "2026-10-08T01:37:01.699Z"
+ },
+ "mexico-city-katseye-wildworld-tour\u0001https://upload.wikimedia.org/wikipedia/commons/5/59/2025-12-13_Katseye_Beautiful_Chaos_Tour_05.jpg": {
+  "slug": "mexico-city-katseye-wildworld-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Watermark text overlay on photo",
+  "at": "2026-10-08T14:48:00.251Z"
+ },
+ "mexico-city-katseye-wildworld-tour\u0001https://upload.wikimedia.org/wikipedia/commons/6/6e/2025-12-13_Katseye_Beautiful_Chaos_Tour_02.jpg": {
+  "slug": "mexico-city-katseye-wildworld-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Watermarks and overlay text present on photo",
+  "at": "2026-10-08T14:48:02.661Z"
+ },
+ "mexico-city-katseye-wildworld-tour\u0001https://upload.wikimedia.org/wikipedia/commons/7/72/2025-12-13_Katseye_Beautiful_Chaos_Tour_15.jpg": {
+  "slug": "mexico-city-katseye-wildworld-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Overlay text caption on image, not clean hero",
+  "at": "2026-10-08T14:47:58.369Z"
+ },
+ "mexico-city-katseye-wildworld-tour\u0001https://upload.wikimedia.org/wikipedia/commons/9/92/2025-12-13_Katseye_Beautiful_Chaos_Tour_08.jpg": {
+  "slug": "mexico-city-katseye-wildworld-tour",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Performance photo plausibly depicts KATSEYE concert act",
+  "at": "2026-10-08T14:48:05.541Z"
+ },
+ "mexico-city-katseye-wildworld-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gap_%26_Old_Navy_Times_Square_NYC_landscape.jpg/3840px-Gap_%26_Old_Navy_Times_Square_NYC_landscape.jpg": {
+  "slug": "mexico-city-katseye-wildworld-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Times Square street scene, unrelated to KATSEYE tour or venue",
+  "at": "2026-10-08T14:47:56.525Z"
  },
  "mexico-city-mexico-city-metropolitan-cathedral\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Catedral_y_Sagrario_Metropolitano_33.jpg/1920px-Catedral_y_Sagrario_Metropolitano_33.jpg": {
   "slug": "mexico-city-mexico-city-metropolitan-cathedral",
@@ -15186,6 +15444,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Aerial view of Templo Mayor archaeological site in Mexico City",
   "at": "2026-10-04T07:51:21.542Z"
+ },
+ "mexico-city-xg-world-tour-the-core\u0001https://upload.wikimedia.org/wikipedia/commons/6/6b/230127_XG_Music_Bank_02.png": {
+  "slug": "mexico-city-xg-world-tour-the-core",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Group photo consistent with concert tour promotion",
+  "at": "2026-10-08T14:48:30.942Z"
  },
  "miami-bayside-marketplace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bayside%2C_Miami%2C_Florida_June_2021_-_03.jpg/1920px-Bayside%2C_Miami%2C_Florida_June_2021_-_03.jpg": {
   "slug": "miami-bayside-marketplace",
@@ -15614,6 +15878,24 @@
   "reason": "Palace exterior and grounds match Reggia di Monza",
   "reasonKo": "몬차 왕궁의 외관과 정원과 일치",
   "at": "2026-08-03T14:32:17.730Z"
+ },
+ "motegi-motogp-japanese-grand-prix\u0001https://upload.wikimedia.org/wikipedia/commons/e/ee/Vladimir_leonov_motogp.jpg": {
+  "slug": "motegi-motogp-japanese-grand-prix",
+  "verdict": "MATCH",
+  "reason": "patrol replace: MotoGP motorcycle racing at circuit venue",
+  "at": "2026-10-08T14:50:52.982Z"
+ },
+ "motegi-motogp-japanese-grand-prix\u0001https://upload.wikimedia.org/wikipedia/commons/f/f4/MotoGP_motorcycles_in_Asakusa_Sensoji_%281%29.jpg": {
+  "slug": "motegi-motogp-japanese-grand-prix",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: MotoGP bikes at temple, not Motegi venue",
+  "at": "2026-10-08T14:50:49.199Z"
+ },
+ "motegi-motogp-japanese-grand-prix\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/MotoGP_motorcycles_in_Asakusa_Sensoji_%282%29.jpg/3840px-MotoGP_motorcycles_in_Asakusa_Sensoji_%282%29.jpg": {
+  "slug": "motegi-motogp-japanese-grand-prix",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: MotoGP bikes at Japanese temple, not Motegi venue",
+  "at": "2026-10-08T14:50:47.380Z"
  },
  "mount-bromo-bromo-tengger-semeru-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Andhika_bayu_nugraha-taman_nasional_bromo_tengger_semeru.jpg/1920px-Andhika_bayu_nugraha-taman_nasional_bromo_tengger_semeru.jpg": {
   "slug": "mount-bromo-bromo-tengger-semeru-national-park",
@@ -16740,6 +17022,12 @@
   "reason": "patrol replace: Harry Styles performing at MSG with stage setup",
   "at": "2026-08-09T04:27:33.853Z"
  },
+ "new-york-city-harry-styles-residency-madison-square-garden\u0001https://upload.wikimedia.org/wikipedia/commons/f/f9/Harry_Styles_%282026%29.jpg": {
+  "slug": "new-york-city-harry-styles-residency-madison-square-garden",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Performer on stage at concert, valid event hero",
+  "at": "2026-10-08T15:06:32.324Z"
+ },
  "new-york-city-harry-styles-residency-madison-square-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Harry-Styles-en-Barcelona%2C-Love-On-Tour.jpg/960px-Harry-Styles-en-Barcelona%2C-Love-On-Tour.jpg": {
   "slug": "new-york-city-harry-styles-residency-madison-square-garden",
   "verdict": "MATCH",
@@ -17615,6 +17903,12 @@
   "reason": "hand-reviewed 2026-10-06: not this event or city — a painted ceiling fresco in Palazzo Butera, not a view of Palermo",
   "at": "2026-10-06T08:26:40.925Z"
  },
+ "palermo-palermo-marathon-maratona-internazionale-di-palermo\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/XVIII_Maratona_internazionale_di_Palermo_-_Flickr_-_Rino_Porrovecchio.jpg/3840px-XVIII_Maratona_internazionale_di_Palermo_-_Flickr_-_Rino_Porrovecchio.jpg": {
+  "slug": "palermo-palermo-marathon-maratona-internazionale-di-palermo",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Marathon race with Puma branding visible",
+  "at": "2026-10-08T14:51:38.349Z"
+ },
  "palermo-quattro-canti\u0001https://fastly.4sqi.net/img/general/original/7271324_ps_AdjJlCbAX6gfir0da8IX14ynpK5Q1wggHQlijVvU.jpg": {
   "slug": "palermo-quattro-canti",
   "verdict": "MATCH",
@@ -17734,6 +18028,12 @@
   "reason": "patrol replace: Elegant French dining setup, upscale Paris restaurant",
   "at": "2026-09-10T21:53:30.846Z"
  },
+ "paris-cherry-paris\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Cherry_blossom_%40_Beaugrenelle_%40_Paris_%2826208557615%29.jpg/3840px-Cherry_blossom_%40_Beaugrenelle_%40_Paris_%2826208557615%29.jpg": {
+  "slug": "paris-cherry-paris",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Cherry blossom tree, plausible hero for Cherry-themed venue",
+  "at": "2026-10-08T15:06:58.988Z"
+ },
  "paris-danico\u0001https://fastly.4sqi.net/img/general/original/79897552_zPnBp7PcsUfoOBYUD0jaNJcjy7kM6b_P5uvGUAFZPqU.jpg": {
   "slug": "paris-danico",
   "verdict": "MATCH",
@@ -17776,6 +18076,18 @@
   "verdict": "MATCH",
   "reason": "publish gate: Aerial view clearly showing Jardin du Luxembourg gardens and palace",
   "at": "2026-09-09T07:37:50.957Z"
+ },
+ "paris-jay-park-lngshot-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/e/e6/Jay_Park_shirtless_at_concert.jpg": {
+  "slug": "paris-jay-park-lngshot-world-tour",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Performer on stage with microphone at concert",
+  "at": "2026-10-08T14:51:54.061Z"
+ },
+ "paris-jay-park-lngshot-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/f/f4/Blue_jay_in_PP_%2830960%29.jpg": {
+  "slug": "paris-jay-park-lngshot-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Bird photo, unrelated to concert event",
+  "at": "2026-10-08T14:51:51.046Z"
  },
  "paris-khalid-it-s-always-summer-somewhere-tour\u0001https://upload.wikimedia.org/wikipedia/commons/9/93/ROSO_-_by_Khalid_AlBusaidi.jpg": {
   "slug": "paris-khalid-it-s-always-summer-somewhere-tour",
@@ -18055,6 +18367,12 @@
   "reason": "patrol replace: Band members at event backdrop with sponsor logos",
   "at": "2026-10-07T23:49:41.598Z"
  },
+ "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/5_Seconds_of_Summer_at_Enmore_Theatre%2C_Sydney%2C_30.04.14.jpg/3840px-5_Seconds_of_Summer_at_Enmore_Theatre%2C_Sydney%2C_30.04.14.jpg": {
+  "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Concert performance matches 5SOS event type",
+  "at": "2026-10-08T14:52:18.211Z"
+ },
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/5_Seconds_of_Summer_First_USA_Acoustic_IMG_3665_%2814665446017%29.jpg/3840px-5_Seconds_of_Summer_First_USA_Acoustic_IMG_3665_%2814665446017%29.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
   "verdict": "MATCH",
@@ -18139,6 +18457,24 @@
   "verdict": "MATCH",
   "reason": "patrol replace: World Trade Center Manila interior reception desk",
   "at": "2026-08-22T15:20:13.259Z"
+ },
+ "pasay-jason-mraz-manila-2026\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flickr_-_moses_namkung_-_Jason_Mraz_1.jpg/3840px-Flickr_-_moses_namkung_-_Jason_Mraz_1.jpg": {
+  "slug": "pasay-jason-mraz-manila-2026",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Performer at concert event, plausible act",
+  "at": "2026-10-08T14:52:50.361Z"
+ },
+ "pasay-wave-to-earth-the-pieces-tour-manila\u0001https://upload.wikimedia.org/wikipedia/commons/4/48/Wave_form.png": {
+  "slug": "pasay-wave-to-earth-the-pieces-tour-manila",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Diagram illustration, not event or venue photo",
+  "at": "2026-10-08T14:54:18.211Z"
+ },
+ "pasay-wave-to-earth-the-pieces-tour-manila\u0001https://upload.wikimedia.org/wikipedia/commons/d/d3/A_surfer_at_the_wave_edit.jpg": {
+  "slug": "pasay-wave-to-earth-the-pieces-tour-manila",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Surfer in ocean, unrelated to concert event/venue",
+  "at": "2026-10-08T14:54:21.003Z"
  },
  "pattaya-mamamia-pattaya-street-noodles\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DFC_4688_Night_market_street_food_cart_in_Pattaya_Thailand_-_vendors_cooking_skewers_and_serving_customers_along_a_busy_sidewalk.jpg/1920px-DFC_4688_Night_market_street_food_cart_in_Pattaya_Thailand_-_vendors_cooking_skewers_and_serving_customers_along_a_busy_sidewalk.jpg": {
   "slug": "pattaya-mamamia-pattaya-street-noodles",
@@ -19751,6 +20087,12 @@
   "reasonKo": "레기스탄 광장의 세 개 마드라사",
   "at": "2026-08-13T14:04:43.093Z"
  },
+ "samarkand-samarkand-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/5/5f/Samarkand_Half_Marathon_1.jpg": {
+  "slug": "samarkand-samarkand-marathon",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Marathon finisher crossing finish line banner",
+  "at": "2026-10-08T14:55:53.674Z"
+ },
  "samarkand-shah-i-zinda-necropolis\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Shohi-Zinda_majmuasi_%28Shah-i-Zinda%2C_%D0%A8%D0%B0%D1%85%D0%B8-%D0%97%D0%B8%D0%BD%D0%B4%D0%B0%29.jpg/3840px-Shohi-Zinda_majmuasi_%28Shah-i-Zinda%2C_%D0%A8%D0%B0%D1%85%D0%B8-%D0%97%D0%B8%D0%BD%D0%B4%D0%B0%29.jpg": {
   "slug": "samarkand-shah-i-zinda-necropolis",
   "verdict": "MATCH",
@@ -21172,6 +21514,12 @@
   "reason": "publish gate: Park deck with picnic tables and pond, plausible Seoul Forest scene",
   "at": "2026-09-01T10:38:00.820Z"
  },
+ "seoul-seoul-light-hangang-bitseom-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Photo_by_Nodeul_Island.jpg/3840px-Photo_by_Nodeul_Island.jpg": {
+  "slug": "seoul-seoul-light-hangang-bitseom-festival",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Random concert performer, unrelated to this specific festival/venue",
+  "at": "2026-10-08T14:56:34.459Z"
+ },
  "seoul-stray-kids-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Stray_Kids_at_the_Music_Core_Mini_Fan_Meeting%2C_November_11%2C_2023.png/1920px-Stray_Kids_at_the_Music_Core_Mini_Fan_Meeting%2C_November_11%2C_2023.png": {
   "slug": "seoul-stray-kids-concert",
   "verdict": "MATCH",
@@ -22077,6 +22425,12 @@
   "reason": "patrol replace: Singapore Indoor Stadium exterior entrance, correct venue.",
   "at": "2026-08-31T23:40:18.237Z"
  },
+ "singapore-babymonster-world-tour-choom\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ruka_and_Chiquita_20-06-2025.jpg/3840px-Ruka_and_Chiquita_20-06-2025.jpg": {
+  "slug": "singapore-babymonster-world-tour-choom",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Plausibly shows BABYMONSTER members at event",
+  "at": "2026-10-08T14:58:59.189Z"
+ },
  "singapore-bigbang-xx-cosmos-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/b/b8/BIGBANG_Concert_0.TO.10_in_Seoul_-_5.jpg": {
   "slug": "singapore-bigbang-xx-cosmos-world-tour",
   "verdict": "MATCH",
@@ -22109,6 +22463,30 @@
   "verdict": "MISMATCH",
   "reason": "Image shows Marina Bay Sands, not a restaurant",
   "at": "2026-07-25T02:49:37.328Z"
+ },
+ "singapore-byd-singapore-international-marathon-standard-chartered-singapore-mara\u0001https://upload.wikimedia.org/wikipedia/commons/1/10/SIN_BYD_e6_SNF4771J_2023-10-26.jpg": {
+  "slug": "singapore-byd-singapore-international-marathon-standard-chartered-singapore-mara",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows a parked car, not the marathon event or venue",
+  "at": "2026-10-08T14:59:15.344Z"
+ },
+ "singapore-byd-singapore-international-marathon-standard-chartered-singapore-mara\u0001https://upload.wikimedia.org/wikipedia/commons/9/9b/Byd_Buses%2C_Singapore_0125.jpg": {
+  "slug": "singapore-byd-singapore-international-marathon-standard-chartered-singapore-mara",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows buses in Singapore, unrelated to marathon event",
+  "at": "2026-10-08T14:59:17.251Z"
+ },
+ "singapore-byd-singapore-international-marathon-standard-chartered-singapore-mara\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Byd_BC12A04_%28SG3102H%29%2C_Singapore_0125.jpg/3840px-Byd_BC12A04_%28SG3102H%29%2C_Singapore_0125.jpg": {
+  "slug": "singapore-byd-singapore-international-marathon-standard-chartered-singapore-mara",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows buses, not marathon event or venue",
+  "at": "2026-10-08T14:59:19.210Z"
+ },
+ "singapore-byd-singapore-international-marathon-standard-chartered-singapore-mara\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/BYD_e6_in_Singapore_front.jpg/3840px-BYD_e6_in_Singapore_front.jpg": {
+  "slug": "singapore-byd-singapore-international-marathon-standard-chartered-singapore-mara",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated subject: a parked car, not the marathon",
+  "at": "2026-10-08T14:59:21.228Z"
  },
  "singapore-casa-mori\u0001https://fastly.4sqi.net/img/general/original/4880533_gyFSZcqWwCF8ZEI4kLz9XqlfQ8mSFm8YKSy1Jtq2pv0.jpg": {
   "slug": "singapore-casa-mori",
@@ -23017,6 +23395,18 @@
   "reason": "patrol reject: identity: credit names \"The Theatre Bar at the End of the Wharf\", post is \"Stanley at Manly Wharf\"",
   "at": "2026-10-05T21:42:48.736Z"
  },
+ "sydney-stayc-fan-concert-tour-stay-closer\u0001https://upload.wikimedia.org/wikipedia/commons/0/09/STAYC_T1st_World_Tour_Dates.jpg": {
+  "slug": "sydney-stayc-fan-concert-tour-stay-closer",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Tour poster graphic, not a photo",
+  "at": "2026-10-08T15:00:51.699Z"
+ },
+ "sydney-stayc-fan-concert-tour-stay-closer\u0001https://upload.wikimedia.org/wikipedia/commons/a/ab/STAYC_in_2020.png": {
+  "slug": "sydney-stayc-fan-concert-tour-stay-closer",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Group photo plausibly depicts STAYC members",
+  "at": "2026-10-08T15:00:54.993Z"
+ },
  "sydney-watermans\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Watermans_Cove_Sydney.jpg/3840px-Watermans_Cove_Sydney.jpg": {
   "slug": "sydney-watermans",
   "verdict": "MATCH",
@@ -23329,6 +23719,18 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Close-up plated dish, no venue context shown",
   "at": "2026-09-10T21:54:26.271Z"
+ },
+ "taipei-babymonster-world-tour-choom\u0001https://upload.wikimedia.org/wikipedia/commons/0/0a/Ruka_at_KLIA_20-06-2025.jpg": {
+  "slug": "taipei-babymonster-world-tour-choom",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Candid fan photo, not a BABYMONSTER performer or venue",
+  "at": "2026-10-08T15:01:25.609Z"
+ },
+ "taipei-babymonster-world-tour-choom\u0001https://upload.wikimedia.org/wikipedia/commons/a/ac/Chiquita_at_KLIA_20-06-2025.jpg": {
+  "slug": "taipei-babymonster-world-tour-choom",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Performer at BABYMONSTER concert event",
+  "at": "2026-10-08T15:01:34.144Z"
  },
  "taipei-bar-mood-taipei\u0001https://fastly.4sqi.net/img/general/original/52893855_6KMe9AXyMbm7wpH3xDC7dSBZXvE8Hi3vCMdIHC2ueQ0.jpg": {
   "slug": "taipei-bar-mood-taipei",
@@ -24098,6 +24500,48 @@
   "reason": "publish gate: Aerial night view of Tashkent City Park, representative overview",
   "at": "2026-08-22T09:17:32.122Z"
  },
+ "tashkent-van-gogh-multimedia-exhibition\u0001https://upload.wikimedia.org/wikipedia/commons/a/a6/Tashkent_City_Mall_%28inside%29.jpg": {
+  "slug": "tashkent-van-gogh-multimedia-exhibition",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Interior of Tashkent City Mall, modern venue",
+  "at": "2026-10-08T15:03:19.690Z"
+ },
+ "tashkent-van-gogh-multimedia-exhibition\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Van_Halen_in_concert_%2820241474465%29.jpg/3840px-Van_Halen_in_concert_%2820241474465%29.jpg": {
+  "slug": "tashkent-van-gogh-multimedia-exhibition",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Concert band photo unrelated to Van Gogh exhibition",
+  "at": "2026-10-08T15:03:16.382Z"
+ },
+ "tashkent-van-gogh-multimedia-exhibition\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Van_Honthorst_Washington_October_2016-1.jpg/3840px-Van_Honthorst_Washington_October_2016-1.jpg": {
+  "slug": "tashkent-van-gogh-multimedia-exhibition",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Painting unrelated to Van Gogh multimedia exhibition venue",
+  "at": "2026-10-08T15:03:14.436Z"
+ },
+ "tashkent-walk-around-tashkent-tashkent-speaks\u0001https://upload.wikimedia.org/wikipedia/commons/8/82/Walk_around_Yoyogi.jpg": {
+  "slug": "tashkent-walk-around-tashkent-tashkent-speaks",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Skyscraper with clock, unrelated to Tashkent canal walk event",
+  "at": "2026-10-08T15:03:44.884Z"
+ },
+ "tashkent-walk-around-tashkent-tashkent-speaks\u0001https://upload.wikimedia.org/wikipedia/commons/e/ec/Walk_around_Hatsudai.jpg": {
+  "slug": "tashkent-walk-around-tashkent-tashkent-speaks",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Japanese cityscape alley, not Tashkent's Anhor Canal",
+  "at": "2026-10-08T15:03:43.050Z"
+ },
+ "tashkent-walk-around-tashkent-tashkent-speaks\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Walk_around_Shirokane.jpg/1920px-Walk_around_Shirokane.jpg": {
+  "slug": "tashkent-walk-around-tashkent-tashkent-speaks",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Random building facade, not Tashkent walk event venue",
+  "at": "2026-10-08T15:03:36.741Z"
+ },
+ "tashkent-walk-around-tashkent-tashkent-speaks\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Walk_around_Aoyama.jpg/3840px-Walk_around_Aoyama.jpg": {
+  "slug": "tashkent-walk-around-tashkent-tashkent-speaks",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Japanese street scene, not Tashkent's Anhor Canal",
+  "at": "2026-10-08T15:03:40.859Z"
+ },
  "tempe-filthy-animal\u0001https://fastly.4sqi.net/img/general/original/3889560_FTrSqea-sypNAwiCrodaKMEaXe4qihbcThzpqTRdsc4.jpg": {
   "slug": "tempe-filthy-animal",
   "verdict": "MATCH",
@@ -24161,6 +24605,12 @@
   "reason": "metadata veto: Commons names Tiong Bahru (vision said: Modern mall, not traditional market setting)",
   "reasonKo": null,
   "at": "2026-08-18T13:27:57.260Z"
+ },
+ "tokorozawa-nct-127-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/NCT_127_at_KBEE_2018_-_Moscow_Expo_Hallyu_Promotional_Ambassadors_Appointment_Ceremony_01.png/3840px-NCT_127_at_KBEE_2018_-_Moscow_Expo_Hallyu_Promotional_Ambassadors_Appointment_Ceremony_01.png": {
+  "slug": "tokorozawa-nct-127-concert",
+  "verdict": "MATCH",
+  "reason": "patrol replace: NCT 127 members at promotional event",
+  "at": "2026-10-08T15:03:57.344Z"
  },
  "tokushima-tokushima-awa-odori\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Awa-odori_2008_Tokushima.jpg/1920px-Awa-odori_2008_Tokushima.jpg": {
   "slug": "tokushima-tokushima-awa-odori",
@@ -24832,6 +25282,24 @@
   "reason": "patrol re-check: Iconic view of Sümela Monastery built into cliffside",
   "at": "2026-08-16T20:35:34.837Z"
  },
+ "truong-yen-trang-an-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Trang_-_Dugong_Roundabout_04_-_Sep_2024.jpg/3840px-Trang_-_Dugong_Roundabout_04_-_Sep_2024.jpg": {
+  "slug": "truong-yen-trang-an-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Fountain statue, unrelated to marathon event",
+  "at": "2026-10-08T15:04:52.721Z"
+ },
+ "truong-yen-trang-an-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Trang_-_Dugong_Roundabout_06_-_Sep_2024.jpg/3840px-Trang_-_Dugong_Roundabout_06_-_Sep_2024.jpg": {
+  "slug": "truong-yen-trang-an-marathon",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Fountain statue unrelated to marathon event",
+  "at": "2026-10-08T15:04:54.360Z"
+ },
+ "truong-yen-trang-an-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Trang_An_Scenic_Landscape_Complex%2C_northern_Vietnam_%28354%29_%2838540830421%29.jpg/3840px-Trang_An_Scenic_Landscape_Complex%2C_northern_Vietnam_%28354%29_%2838540830421%29.jpg": {
+  "slug": "truong-yen-trang-an-marathon",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Trang An karst landscape with limestone cliffs, water",
+  "at": "2026-10-08T15:04:58.713Z"
+ },
  "tsim-sha-tsui-hong-kong-palace-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hong_Kong_Palace_Museum_2022.jpg/1920px-Hong_Kong_Palace_Museum_2022.jpg": {
   "slug": "tsim-sha-tsui-hong-kong-palace-museum",
   "verdict": "MATCH",
@@ -25020,6 +25488,18 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Turin skyline, not marathon event or venue",
   "at": "2026-10-05T18:07:04.684Z"
+ },
+ "turin-twice-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/3/32/Twice_fried_tofu.jpg": {
+  "slug": "turin-twice-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Unrelated food image, not TWICE concert or venue",
+  "at": "2026-10-08T15:05:21.706Z"
+ },
+ "turin-twice-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Twice_in_Seattle.jpg/3840px-Twice_in_Seattle.jpg": {
+  "slug": "turin-twice-world-tour",
+  "verdict": "MATCH",
+  "reason": "patrol replace: TWICE performing on stage at concert event",
+  "at": "2026-10-08T15:05:24.596Z"
  },
  "ubud-bali-bird-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Balibirdpark.jpg/1920px-Balibirdpark.jpg": {
   "slug": "ubud-bali-bird-park",
@@ -25224,6 +25704,30 @@
   "verdict": "MATCH",
   "reason": "publish gate: Aerial view of Varanasi ghat with boats, riverfront, crowds",
   "at": "2026-09-13T07:54:23.394Z"
+ },
+ "varanasi-diwali-festival-of-lights\u0001https://upload.wikimedia.org/wikipedia/commons/1/17/Diwali_11.jpg": {
+  "slug": "varanasi-diwali-festival-of-lights",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Dance performance, not Varanasi Diwali or ghats",
+  "at": "2026-10-08T15:05:47.734Z"
+ },
+ "varanasi-diwali-festival-of-lights\u0001https://upload.wikimedia.org/wikipedia/commons/5/55/Diwali_in_Abu_Dhabi.jpg": {
+  "slug": "varanasi-diwali-festival-of-lights",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Romantic beach setup, not Varanasi Diwali or ghats",
+  "at": "2026-10-08T15:05:49.788Z"
+ },
+ "varanasi-diwali-festival-of-lights\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Diwali%2C_the_festival_of_lights.jpg/3840px-Diwali%2C_the_festival_of_lights.jpg": {
+  "slug": "varanasi-diwali-festival-of-lights",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Diwali decorations at Varanasi residence, festival lights",
+  "at": "2026-10-08T15:06:04.937Z"
+ },
+ "varanasi-diwali-festival-of-lights\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Varanasi_Diwali.jpg/3840px-Varanasi_Diwali.jpg": {
+  "slug": "varanasi-diwali-festival-of-lights",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows cremation ghat, not Diwali festival lighting event",
+  "at": "2026-10-08T15:05:59.602Z"
  },
  "varanasi-shri-kashi-vishwanath-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Shri_Kashi_Vishwanath_Temple_3.jpg/1920px-Shri_Kashi_Vishwanath_Temple_3.jpg": {
   "slug": "varanasi-shri-kashi-vishwanath-temple",

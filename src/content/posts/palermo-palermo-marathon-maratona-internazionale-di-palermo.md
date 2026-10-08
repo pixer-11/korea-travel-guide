@@ -9,7 +9,6 @@ eventStartDate: '2026-11-15'
 eventEndDate: '2026-11-15'
 eventRecurring: true
 eventFactsAsked: true
-gallery: []
 tags:
   - palermo
   - event
@@ -27,6 +26,14 @@ faq:
     a: Look for arancine (the Palermo name for fried rice balls), panelle in a sesame roll, sfincione and a freshly filled cannolo. The Ballarò, Capo and Vucciria markets are the classic places for street food.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/XVIII_Maratona_internazionale_di_Palermo_-_Flickr_-_Rino_Porrovecchio.jpg/3840px-XVIII_Maratona_internazionale_di_Palermo_-_Flickr_-_Rino_Porrovecchio.jpg
+  credit: 'Photo: Rino Porrovecchio from Palermo, Italy / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:XVIII_Maratona_internazionale_di_Palermo_-_Flickr_-_Rino_Porrovecchio.jpg
+  focus:
+    x: 50
+    'y': 40
 ---
 
 ## Mid-November, on Sicilian stone

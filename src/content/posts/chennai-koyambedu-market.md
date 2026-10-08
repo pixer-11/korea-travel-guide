@@ -1,39 +1,30 @@
 ---
 title: 'Koyambedu Market: Chennai Travel Guide (4.1★)'
-description: >-
-  Koyambedu Market is Chennai's huge wholesale market for vegetables, fruit and
-  flowers in Koyambedu, next to the CMBT bus terminus and a short walk from
-  Koyambedu Metro Station on the Green Line. 4.1★ (8,410 reviews) — what
-  visitors say, hours, and tips.
+description: Koyambedu Market is Chennai's huge wholesale market for vegetables, fruit and flowers in Koyambedu, next to the CMBT bus terminus and a short walk from Koyambedu Metro Station on the Green Line. 4.1★ (8,410 reviews) — what visitors say, hours, and tips.
 country: India
 region: Chennai
 category: hidden-gem
 pubDate: '2026-09-25T07:52:15.095Z'
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/b/bd/Koyambedu_Market.jpg'
-  credit: 'Photo: Sudhamshu Hebbar / Wikimedia Commons (CC BY 2.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Koyambedu_Market.jpg'
+  url: https://fastly.4sqi.net/img/general/original/36991331_yXlCLIquyF93CFEmLG-BdlL4uL_9C1ANn9hcKVEswfI.jpg
+  credit: 'Photo: Foursquare user content (Koyambedu Flower Market)'
+  license: foursquare
+  source: https://foursquare.com/v/4d532cac587ba35d5c775af6
   focus:
     x: 50
-    'y': 45
+    'y': 60
 gallery:
-  - url: >-
-      https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flowers_in_Koyambedu_Flower_market_%2853769%29.jpg/3840px-Flowers_in_Koyambedu_Flower_market_%2853769%29.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flowers_in_Koyambedu_Flower_market_%2853769%29.jpg/3840px-Flowers_in_Koyambedu_Flower_market_%2853769%29.jpg
     credit: 'Photo: Kaartic / Wikimedia Commons (CC BY-SA 3.0)'
     license: wikimedia
-    source: >-
-      https://commons.wikimedia.org/wiki/File:Flowers_in_Koyambedu_Flower_market_(53769).jpg
+    source: https://commons.wikimedia.org/wiki/File:Flowers_in_Koyambedu_Flower_market_(53769).jpg
 place:
   id: ChIJObBnI65mUjoRNNNxga_CEj0
   name: Koyambedu Market
-  address: >-
-    T/A-118, Anna Fruit Market, Wholesale Market Complex, Koyambedu, Chennai,
-    Tamil Nadu 600107, India
+  address: T/A-118, Anna Fruit Market, Wholesale Market Complex, Koyambedu, Chennai, Tamil Nadu 600107, India
   rating: 4.1
   userRatingsTotal: 8410
-  googleMapsUrl: >-
-    https://maps.google.com/?cid=4400793844941181748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  googleMapsUrl: https://maps.google.com/?cid=4400793844941181748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
   businessStatus: OPERATIONAL
   lat: 13.068890099999999
   lng: 80.1968305
@@ -49,39 +40,18 @@ place:
 tags:
   - chennai
   - local market
-quickAnswer: >-
-  Koyambedu Market is Chennai's huge wholesale market for vegetables, fruit and
-  flowers in Koyambedu, next to the CMBT bus terminus and a short walk from
-  Koyambedu Metro Station on the Green Line. It is listed as open 24 hours every
-  day. Wholesale trade is heaviest in the dark hours before dawn, when the
-  overnight trucks unload, so go early for the full spectacle and late morning
-  if you want more room to walk.
+quickAnswer: Koyambedu Market is Chennai's huge wholesale market for vegetables, fruit and flowers in Koyambedu, next to the CMBT bus terminus and a short walk from Koyambedu Metro Station on the Green Line. It is listed as open 24 hours every day. Wholesale trade is heaviest in the dark hours before dawn, when the overnight trucks unload, so go early for the full spectacle and late morning if you want more room to walk.
 faq:
   - q: What are Koyambedu Market's opening hours?
-    a: >-
-      It is listed as open 24 hours, every day of the week. Wholesale trading is
-      most intense before dawn, when overnight trucks unload their produce.
+    a: It is listed as open 24 hours, every day of the week. Wholesale trading is most intense before dawn, when overnight trucks unload their produce.
   - q: How do I get to Koyambedu Market by metro?
-    a: >-
-      Take the Green Line (Line 2) to Koyambedu Metro Station, the closest stop.
-      CMBT station on the same line is also nearby. For pre-dawn visits, take an
-      auto-rickshaw or ride-hail cab, because the metro is not running then.
+    a: Take the Green Line (Line 2) to Koyambedu Metro Station, the closest stop. CMBT station on the same line is also nearby. For pre-dawn visits, take an auto-rickshaw or ride-hail cab, because the metro is not running then.
   - q: Which section of Koyambedu Market is best for visitors?
-    a: >-
-      The flower market is the most striking, with heaps of jasmine, marigold
-      and rose sold by weight. The fruit section is the Anna Fruit Market block,
-      and the vegetable market is the largest area. You can walk all three in
-      about one and a half to two hours.
+    a: The flower market is the most striking, with heaps of jasmine, marigold and rose sold by weight. The fruit section is the Anna Fruit Market block, and the vegetable market is the largest area. You can walk all three in about one and a half to two hours.
   - q: Can I buy small quantities as a tourist?
-    a: >-
-      Koyambedu is mainly wholesale, but many traders will sell smaller amounts,
-      such as a little jasmine or a few mangoes, if you ask politely. Carry
-      small notes, because many foreign visitors cannot use UPI.
+    a: Koyambedu is mainly wholesale, but many traders will sell smaller amounts, such as a little jasmine or a few mangoes, if you ask politely. Carry small notes, because many foreign visitors cannot use UPI.
   - q: What should I wear to Koyambedu Market?
-    a: >-
-      Wear closed shoes you can wash. Floors are often wet and covered in
-      produce and flower waste, and during the October to December monsoon the
-      open areas can get muddy.
+    a: Wear closed shoes you can wash. Floors are often wet and covered in produce and flower waste, and during the October to December monsoon the open areas can get muddy.
 aiGenerated: true
 draft: false
 updatedDate: '2026-09-25'

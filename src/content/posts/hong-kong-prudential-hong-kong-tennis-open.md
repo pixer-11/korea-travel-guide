@@ -13,6 +13,14 @@ eventOrganizer:
   name: Hong Kong, China Tennis Association (HKCTA)
   url: https://www.hktennisopen.hk
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Hong_Kong_Night_Skyline.jpg/3840px-Hong_Kong_Night_Skyline.jpg'
+  credit: 'Photo: Base64, retouched by CarolSpears / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Hong_Kong_Night_Skyline.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - hong kong

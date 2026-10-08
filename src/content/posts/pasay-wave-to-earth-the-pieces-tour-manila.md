@@ -16,6 +16,14 @@ eventPerformer:
   name: wave to earth
   kind: group
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pasay_in_the_night_01.jpg/3840px-Pasay_in_the_night_01.jpg'
+  credit: 'Photo: Aaron Lucas / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Pasay_in_the_night_01.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - pasay

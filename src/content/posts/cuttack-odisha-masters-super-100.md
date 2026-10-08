@@ -12,6 +12,14 @@ eventOrganizer:
   name: Badminton World Federation (BWF)
   url: https://bwfworldtour.bwfbadminton.com/
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Shri_dadhibaman_Jew_temple_%2C_Asureswar%2C_Cuttack.jpg/1280px-Shri_dadhibaman_Jew_temple_%2C_Asureswar%2C_Cuttack.jpg'
+  credit: 'Photo: Adityajyoti (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'File:Shri dadhibaman Jew temple , Asureswar, Cuttack.jpg'
+  focus:
+    x: 50
+    y: 45
 gallery: []
 tags:
   - cuttack

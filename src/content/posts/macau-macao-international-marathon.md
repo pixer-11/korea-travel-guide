@@ -10,6 +10,14 @@ eventEndDate: '2026-12-06'
 eventRecurring: true
 eventVenue: Olympic Sports Centre Stadium
 eventFactsAsked: true
+heroImage:
+  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Panorama_of_Macau_Peninsula2021.jpg/3840px-Panorama_of_Macau_Peninsula2021.jpg'
+  credit: 'Photo: Charlie fong / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Panorama_of_Macau_Peninsula2021.jpg'
+  focus:
+    x: 50
+    y: 50
 gallery: []
 tags:
   - macau
