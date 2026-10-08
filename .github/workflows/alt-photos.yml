@@ -6,6 +6,13 @@ name: Alt-source photo backfill
 on:
   schedule:
     - cron: '35 19 * * *' # 19:35 UTC = 04:35 KST daily (fast no-op once backlog is clear)
+  # Right after event discovery (2026-10-08). Discovery runs at 05:37 KST,
+  # an hour AFTER this patrol's 04:35 slot, so every new event guide went live
+  # without a photo for a whole day — 45 of 85 on 10-08. Backlog only, no
+  # full sweep: this run exists for the new arrivals.
+  workflow_run:
+    workflows: ['Discover current events (web search)']
+    types: [completed]
   workflow_dispatch:
     inputs:
       slugs:
@@ -24,9 +31,14 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: alt-photos
+  cancel-in-progress: false
+
 jobs:
   backfill:
     runs-on: ubuntu-latest
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     steps:
       - uses: actions/checkout@v5
 
@@ -100,7 +112,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           SLUGS: ${{ github.event.inputs.slugs }}
           LIMIT: ${{ github.event.inputs.limit || '300' }}
-          AUDIT_ALL: ${{ github.event.inputs.audit_all == 'false' && '' || '1' }}
+          AUDIT_ALL: ${{ (github.event_name == 'workflow_run' || github.event.inputs.audit_all == 'false') && '' || '1' }}
         run: |
           set -o pipefail
           node scripts/backfill-photos-alt.mjs | tee /tmp/alt.log

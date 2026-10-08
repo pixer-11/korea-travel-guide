@@ -34,7 +34,7 @@ import matter from 'gray-matter';
 import yaml from 'js-yaml';
 import { loadUsedImageUrls, resolveHero, eventTopic, EVENT_HERO_MIN_WIDTH } from './lib/images.mjs';
 import { probeWidth, upsizeFlickr, widthVerdict, UNUSABLE_WIDTH } from './lib/image-width.mjs';
-import { keyToken, tokens, COMMON_ANCHOR, performerCategoryPhotos } from './lib/commons.mjs';
+import { keyToken, tokens, COMMON_ANCHOR, performerCategoryPhotos, eventCategoryPhotos } from './lib/commons.mjs';
 import { foreignInFilename, geoTokens, fileNamesPerformer } from './lib/event-file-identity.mjs';
 import { candidateBudget, DEAD_END_REFUSALS, SHARED_HERO_WANT } from './lib/candidate-budget.mjs';
 import { eventProperName, eventAcronym } from '../src/lib/eventName.mjs';
@@ -429,15 +429,38 @@ for (const f of files) {
     // namesakes (a Bangladeshi minister called Khalid) never enter. Vision,
     // width and the used-photo rule still apply below.
     const performer = data.eventPerformer?.name;
-    if (performer && cands.length < 4) {
+    // First in line, like the event category below (2026-10-08).
+    if (performer) {
       try {
+        const picked = [];
         for (const o of await performerCategoryPhotos(performer, { limit: 10 })) {
-          if (cands.length >= 4) break;
+          if (picked.length >= 3) break;
           if (judgedWrong(slug, o.url, data.category)) continue;
           if (isUsedImage(used, o.url)) continue;
           console.log(`   ${slug}: performer category candidate (${o.category}) — "${String(o.title).slice(0, 60)}"`);
-          cands.push(o);
+          picked.push(o);
         }
+        cands.unshift(...picked);
+      } catch {}
+    }
+    // Event category tier (2026-10-08, 픽서님: 같은 행사의 예전 사진도 된다).
+    // The event's own Commons category, past editions newest first — see
+    // eventCategoryPhotos. Lucca Comics & Games, the US Grand Prix, Dubai
+    // Sevens and Singapore's Deepavali all have one, and all four failed the
+    // text search for a week. Membership is the identity, as for a singer.
+    // Tried FIRST: the strongest identity there is, and a text search that
+    // filled the four slots with weaker finds used to keep it from ever running.
+    if (isEvent) {
+      try {
+        const picked = [];
+        for (const o of await eventCategoryPhotos(venueName, { region: data.region || '', limit: 10 })) {
+          if (picked.length >= 3) break;
+          if (judgedWrong(slug, o.url, data.category)) continue;
+          if (isUsedImage(used, o.url)) continue;
+          console.log(`   ${slug}: event category candidate (${o.category}) — "${String(o.title).slice(0, 60)}"`);
+          picked.push(o);
+        }
+        cands.unshift(...picked);
       } catch {}
     }
     // Openverse act tier (2026-08-29, 픽서님: "유명 가수는 다른 공연 사진이라도").
@@ -639,7 +662,7 @@ for (const f of files) {
       // A file that names the performer is that act on some other night: the
       // owner's rule is any photo of the singer or band (2026-10-06 — Avenged
       // Sevenfold's Paris shows were refused as "post says Jakarta").
-      : isEvent && (cand.via === 'phrase' || cand.via === 'openverse-act' || cand.via === 'performer-category' || fileNamesPerformer(cand.url, data.eventPerformer?.name))
+      : isEvent && (cand.via === 'phrase' || cand.via === 'openverse-act' || cand.via === 'performer-category' || cand.via === 'event-category' || fileNamesPerformer(cand.url, data.eventPerformer?.name))
         // openverse-act: identity was the act's name in the uploader's title,
         // and a tour photo's PLACE is some past city — place-testing it is
         // wrong by construction, same as the phrase case above.
@@ -655,7 +678,7 @@ for (const f of files) {
     // The proof a category find carries is the CATEGORY, not the filename —
     // written down so audit-event-hero-identity can see it (a Haddaway stage
     // shot is named "Sunshine Live - Die 90er …").
-    if (cand.via === 'performer-category') performerProof[slug] = { url: cand.url, category: cand.category, at: new Date().toISOString() };
+    if (cand.via === 'performer-category' || cand.via === 'event-category') performerProof[slug] = { url: cand.url, category: cand.category, at: new Date().toISOString() };
     // The verdict store is what validate-content trusts: without this line the
     // patrol's own vision-approved replacements were reported as UNVERIFIED-
     // PHOTO the same evening (2026-08-08, nine of them).

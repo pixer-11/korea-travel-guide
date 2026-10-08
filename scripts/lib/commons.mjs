@@ -339,6 +339,68 @@ export async function performerCategoryPhotos(name, { limit = 8 } = {}) {
   return [];
 }
 
+// Past editions of an EVENT, from the event's own Commons category (2026-10-08,
+// 픽서님: "예전에도 같은 행사가 있었다면 예전 사진을 넣어도 된다"). Lucca Comics &
+// Games failed seven nightly patrols: the text search found festival photos
+// titled with the guests in them ("… Robert Crumb"), and the filename rule
+// refused each as another act. Category:Lucca Comics & Games 2024 is the
+// event by membership, the same proof performerCategoryPhotos uses for a
+// singer. Year subcategories come first, newest first — a parent category
+// can also hold a series' old venues (United States Grand Prix → Watkins
+// Glen). A category is accepted only when every word of its title, years
+// aside, is in the event's name or region, and one of them is the event's.
+const singular = (w) => w.replace(/(?<=\w{3})s$/, '');
+const fileQuery = (title) => 'https://commons.wikimedia.org/w/api.php?action=query&format=json' +
+  '&generator=categorymembers&gcmtype=file&gcmlimit=50&gcmtitle=' + encodeURIComponent(title) +
+  '&prop=imageinfo&iiprop=url|extmetadata|mime|size&iiurlwidth=2400&origin=*';
+async function commonsJson(url) {
+  try { const r = await cfetch(url); return r.ok ? await r.json().catch(() => null) : null; } catch { return null; }
+}
+export function eventCategoryFits(title, name, region = '') {
+  const strip = (s) => String(s).replace(/\b(?:19|20)\d{2}\b/g, ' ').replace(/&/g, ' and ');
+  const words = tokens(strip(title)).map(singular);
+  const own = new Set(tokens(strip(name)).map(singular));
+  const place = new Set(tokens(region).map(singular));
+  return words.length > 0 && words.every((w) => own.has(w) || place.has(w)) && words.some((w) => own.has(w) && !place.has(w));
+}
+export async function eventCategoryPhotos(name, { region = '', limit = 8 } = {}) {
+  const n = String(name ?? '').trim();
+  if (!n) return [];
+  const bare = n.replace(/\s*\([^)]*\)\s*/g, ' ').replace(/\b7s\b/gi, 'Sevens').replace(/\s+/g, ' ').trim();
+  const exact = [...new Set([n, bare, n.replace(/\band\b/gi, '&'), bare.replace(/\band\b/gi, '&'), bare.replace(/^(?:F1|Formula 1|Formula One)\s+/i, '')])];
+  // Commons names an event its own way ("Dubai Sevens", "Deepavali in
+  // Singapore"), so search too: the bare name, and its first word with the city.
+  const queries = [...new Set([bare, region ? `${bare.split(' ')[0]} ${region}` : ''].filter(Boolean))];
+  const found = [];
+  for (const q of queries) {
+    const search = await commonsJson('https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srlimit=6&origin=*&srsearch=' + encodeURIComponent(q));
+    found.push(...(search?.query?.search ?? []).map((s) => s.title.replace(/^Category:/, '')));
+  }
+  const cats = [...new Set([...exact, ...found])].filter((c) => eventCategoryFits(c, n, region));
+  for (const cat of cats) {
+    const subs = await commonsJson('https://commons.wikimedia.org/w/api.php?action=query&format=json&list=categorymembers&cmtype=subcat&cmlimit=200&origin=*&cmtitle=' + encodeURIComponent(`Category:${cat}`));
+    const years = (subs?.query?.categorymembers ?? []).map((m) => m.title)
+      .filter((t) => /\b(?:19|20)\d{2}\b/.test(t) && eventCategoryFits(t.replace(/^Category:/, ''), n, region))
+      .sort((a, b) => Number(b.match(/\b(?:19|20)\d{2}\b/)[0]) - Number(a.match(/\b(?:19|20)\d{2}\b/)[0]))
+      .slice(0, 3);
+    const out = [];
+    for (const t of [...years, `Category:${cat}`]) {
+      const pages = (await commonsJson(fileQuery(t)))?.query?.pages ?? {};
+      out.push(...Object.values(pages).map(pageToCandidate).filter(Boolean).filter(usableFile)
+        .sort((a, b) => (b.w || 0) - (a.w || 0))
+        .map((c) => ({ ...c, via: 'event-category', category: t.replace(/^Category:/, '') })));
+      if (out.length >= limit) break;
+    }
+    // One file per series: the biggest files of Lucca 2025 were three frames
+    // of the same guest portrait ("… LCG25 - 1226 01/02/03"), and vision
+    // refused all three — the crowd and stand shots were never offered.
+    const stem = (t) => String(t).replace(/[\s_\-–()]*\d[\d\s_\-–()]*$/, '').trim().toLowerCase();
+    const uniq = out.filter((c, i) => out.findIndex((x) => x.url === c.url || stem(x.title) === stem(c.title)) === i);
+    if (uniq.length) return uniq.slice(0, limit);
+  }
+  return [];
+}
+
 // One Commons API page → a hero candidate, or null when it is not a photo.
 function pageToCandidate(p) {
   const ii = p.imageinfo?.[0];
