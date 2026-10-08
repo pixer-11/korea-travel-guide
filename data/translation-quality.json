@@ -6908,13 +6908,6 @@
   "worst": "que artistas internacionales reserven residencias de varias noches aquí forma parte de un cambio",
   "at": "2026-08-15T03:37:54.383Z"
  },
- "es/taipei-taipei-fringe-festival-2026": {
-  "hash": "f1d0755c9303",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "que abarca teatro de sala íntima (black-box), danza-teatro de creación colectiva, cabaret y espe",
-  "at": "2026-08-15T03:37:56.522Z"
- },
  "es/taipei-the-who-cafe": {
   "hash": "770cd2f8f176",
   "score": 1,
@@ -14146,13 +14139,6 @@
   "worst": "台北アリーナのすり鉢状の客席がステージに近く、中程度の座席区分からもスクリーンや照明機材がしっかり見え、遠くの小さな点として演者を見るだけということにはなりません。",
   "at": "2026-08-15T03:10:15.225Z"
  },
- "ja/taipei-taipei-fringe-festival-2026": {
-  "hash": "a75bb8ed123a",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "フリンジフェスティバルは中央集権的にプログラムが組まれるのではなく、アーティスト主導であるため、2026年のラインナップは春から夏にかけて段階的に発表される可能性が高く",
-  "at": "2026-08-15T03:10:26.208Z"
- },
  "ja/taipei-the-who-cafe": {
   "hash": "18cd2a786496",
   "score": 1,
@@ -15524,13 +15510,6 @@
   "registerBreak": false,
   "worst": "Jl. Riau — L.L.R.E. Martadinata의 식민지 시대 명칭 — 는 반둥을 대표하는 헤리티지 쇼핑 거리 중 하나로",
   "at": "2026-09-14T14:15:32.129Z"
- },
- "ko/bangkok-avenged-sevenfold-asia-tour-2026": {
-  "hash": "b9ec2f8953da",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "그만큼 지금 이 글을 읽고 계신 분들에게는 현실적인 셈법이 달라집니다.",
-  "at": "2026-09-14T14:15:41.171Z"
  },
  "ko/bangkok-bangkok-international-festival-of-dance-music": {
   "hash": "d4fa39412c17",
@@ -28615,13 +28594,6 @@
   "worst": "若目标是日落美景,建议至少提前30-45分钟抵达,留出时间攀爬、稍作喘息,并在巨石被占满之前抢占位置。",
   "at": "2026-08-15T04:16:44.288Z"
  },
- "zh/taipei-taipei-fringe-festival-2026": {
-  "hash": "1b7680287a22",
-  "score": 1,
-  "registerBreak": false,
-  "worst": "很多游客常犯的一个错误，就是想当然地认为字幕是标配，实际上这完全因演出而异。",
-  "at": "2026-08-15T09:25:36.835Z"
- },
  "zh/taipei-the-who-cafe": {
   "hash": "159b86833aa6",
   "score": 1,
@@ -32030,5 +32002,89 @@
   "registerBreak": false,
   "worst": "博物馆还是和半岛行程搭配更合适，它正好处在历史城区和海滨之间。",
   "at": "2026-10-07T07:50:27.305Z"
+ },
+ "es/brighton-the-lanes": {
+  "hash": "f078b3e38551",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "con escaparates repletos de anillos, relojes y platería antigua uno tras otro",
+  "at": "2026-10-08T09:57:47.199Z"
+ },
+ "es/cancun-mercado-28": {
+  "hash": "cb056c384ed5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "No se fíe de lo que le diga un mesero de palabra.",
+  "at": "2026-10-08T09:57:49.968Z"
+ },
+ "es/cotai-galaxy-macau": {
+  "hash": "d89376326306",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Consulte la carta expuesta en cada mostrador,",
+  "at": "2026-10-08T09:57:51.053Z"
+ },
+ "ja/brighton-the-lanes": {
+  "hash": "aa583d23c586",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "周りの路地より新しく造られた広場で、大通りからは入れず、建物のすき間を抜けてたどり着きます。",
+  "at": "2026-10-08T09:57:52.284Z"
+ },
+ "ja/cancun-mercado-28": {
+  "hash": "9644490c37fb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "アクセサリー玩具並みの値段がついているものは疑ってかかりましょう。",
+  "at": "2026-10-08T09:57:53.484Z"
+ },
+ "ja/cotai-galaxy-macau": {
+  "hash": "de0264e41022",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "家族連れがここを選ぶいちばんの理由が、このデッキです。",
+  "at": "2026-10-08T09:57:59.484Z"
+ },
+ "ko/brighton-the-lanes": {
+  "hash": "bd7e26cd51ed",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "중세의 흔적이 남은 것은 건물들 사이로 비좁고 구불구불하게 이어지는 길의 형태이며, 걷다 보면 자꾸 방향 감각을 잃게",
+  "at": "2026-10-08T09:58:07.262Z"
+ },
+ "ko/cancun-mercado-28": {
+  "hash": "8546628bea50",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "상인이 제시한 가격을 받아들였는데 그냥 떠나 버리는 것은 무례한 행동으로 여겨집니다.",
+  "at": "2026-10-08T09:58:08.450Z"
+ },
+ "ko/cotai-galaxy-macau": {
+  "hash": "363e502801ac",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "단체 관광객과 수영 가방을 든 가족 여행객, 회의 참석자, 본격적으로 게임을 즐기러 온 사람들이 같은 냉방 복도를 함께 오가는 곳이라고 생각하시면 됩니다.",
+  "at": "2026-10-08T09:58:10.007Z"
+ },
+ "zh/brighton-the-lanes": {
+  "hash": "d3bac348740d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "目光越过店铺放慢脚步，你会发现更多耐看之处",
+  "at": "2026-10-08T09:58:16.193Z"
+ },
+ "zh/cancun-mercado-28": {
+  "hash": "db0cb66f0439",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "因此，抵达或离开坎昆当天顺路逛逛也很方便。",
+  "at": "2026-10-08T09:58:17.314Z"
+ },
+ "zh/cotai-galaxy-macau": {
+  "hash": "a73f8284900d",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "银河的中文名是\"澳门银河\"，粤语读作 Ou Mun Ngan Ho。",
+  "at": "2026-10-08T09:58:29.296Z"
  }
 }

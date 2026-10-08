@@ -3733,6 +3733,12 @@
   "reason": "publish gate: Cluttered antique shop interior matches Snoopers Paradise vibe",
   "at": "2026-10-01T14:40:54.980Z"
  },
+ "brighton-the-lanes\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Brighton_2010_PD_054.JPG/1920px-Brighton_2010_PD_054.JPG": {
+  "slug": "brighton-the-lanes",
+  "verdict": "MATCH",
+  "reason": "publish gate: Street view of The Lanes with shops, Brighton signage",
+  "at": "2026-10-08T07:46:04.724Z"
+ },
  "brisbane-81-sushi-kappo\u0001https://fastly.4sqi.net/img/general/original/32870034_U5ykORQxYUVJrm8c2AiM7brixndxVTxGanpnHFzcTcg.jpg": {
   "slug": "brisbane-81-sushi-kappo",
   "verdict": "MISMATCH",
@@ -4407,6 +4413,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior shows Aquarium signage at night, representative hero shot",
   "at": "2026-10-05T16:18:43.224Z"
+ },
+ "cancun-mercado-28\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mercado_28_Cancun%2C_Mexico_Julio_2012_-_01.jpg/3840px-Mercado_28_Cancun%2C_Mexico_Julio_2012_-_01.jpg": {
+  "slug": "cancun-mercado-28",
+  "verdict": "MATCH",
+  "reason": "publish gate: Market stalls with vendor goods, plausible Cancun market exterior",
+  "at": "2026-10-08T07:39:51.528Z"
  },
  "cancun-xcaret-park\u0001https://upload.wikimedia.org/wikipedia/commons/2/27/The_Beach_at_Xcaret_Park.jpg": {
   "slug": "cancun-xcaret-park",
@@ -5687,6 +5699,12 @@
   "reason": "publish gate: Grand interior atrium representative of Poly MGM Museum building",
   "at": "2026-10-07T07:39:01.022Z"
  },
+ "coloane-village-bairro-iao-hon-municipal-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mercado_Municipal_do_Bairro_Iao_Hon_09-01-2024%281%29.jpg/3840px-Mercado_Municipal_do_Bairro_Iao_Hon_09-01-2024%281%29.jpg": {
+  "slug": "coloane-village-bairro-iao-hon-municipal-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of the actual municipal market building shown",
+  "at": "2026-10-08T10:01:14.856Z"
+ },
  "coloane-village-hac-sa-reservoir-barbecue-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hac_S%C3%A1_Reservoir_Natural_Park_barbecue_sites_23-02-2023.jpg/3840px-Hac_S%C3%A1_Reservoir_Natural_Park_barbecue_sites_23-02-2023.jpg": {
   "slug": "coloane-village-hac-sa-reservoir-barbecue-park",
   "verdict": "MATCH",
@@ -5785,6 +5803,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Interior entrance showing Chelsea Garden signage and corridor",
   "at": "2026-10-06T14:41:23.929Z"
+ },
+ "cotai-galaxy-macau\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/MC_%E6%BE%B3%E9%96%80_Macau_%E8%B7%AF%E6%B0%B9_Cotai_%E9%8A%80%E6%B2%B3_Galaxy_Macao_shopping_mall_%E6%B0%B4%E6%99%B6%E5%BB%B3_Crystal_Lobby_morning_November_2024_R12S_07.jpg/3840px-MC_%E6%BE%B3%E9%96%80_Macau_%E8%B7%AF%E6%B0%B9_Cotai_%E9%8A%80%E6%B2%B3_Galaxy_Macao_shopping_mall_%E6%B0%B4%E6%99%B6%E5%BB%B3_Crystal_Lobby_morning_November_2024_R12S_07.jpg": {
+  "slug": "cotai-galaxy-macau",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior shot of Galaxy Macau mall with fountain",
+  "at": "2026-10-08T07:38:55.392Z"
  },
  "cotai-the-cotai-strip\u0001https://upload.wikimedia.org/wikipedia/commons/5/51/Macau_Cotai_Strip_%2812469090953%29.jpg": {
   "slug": "cotai-the-cotai-strip",
@@ -6686,6 +6710,12 @@
   "reason": "Ancient ruins with Mediterranean landscape view",
   "reasonKo": "지중해 풍경이 보이는 고대 유적",
   "at": "2026-08-19T13:28:28.855Z"
+ },
+ "fisherman-s-wharf-maritime-museum\u0001https://upload.wikimedia.org/wikipedia/commons/6/6b/Macau_Maritime_Museum_-_panoramio.jpg": {
+  "slug": "fisherman-s-wharf-maritime-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Dragon boat display plausibly representing Maritime Museum exhibit",
+  "at": "2026-10-08T07:40:56.072Z"
  },
  "florence-basilica-of-santa-croce-in-florence\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/View_of_Basilica_of_Santa_Croce_from_Giotto%27s_Bell_Tower._Florence%2C_Italy.jpg/1920px-View_of_Basilica_of_Santa_Croce_from_Giotto%27s_Bell_Tower._Florence%2C_Italy.jpg": {
   "slug": "florence-basilica-of-santa-croce-in-florence",
@@ -7627,6 +7657,12 @@
   "reason": "publish gate: Plaza gazebo at night, representative view of Jardín Hidalgo",
   "at": "2026-10-06T07:59:42.632Z"
  },
+ "guadalajara-mercado-libertad-san-juan-de-dios\u0001https://upload.wikimedia.org/wikipedia/commons/2/26/Interior_del_Mercado_San_Juan_de_Dios.jpg": {
+  "slug": "guadalajara-mercado-libertad-san-juan-de-dios",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows market building exterior with plaza, representative of venue",
+  "at": "2026-10-08T07:44:31.021Z"
+ },
  "guadalajara-plaza-de-la-liberacion\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Guadalajara%2C_Jalisco%2C_Mexico_%282021%29_-_020.jpg/1920px-Guadalajara%2C_Jalisco%2C_Mexico_%282021%29_-_020.jpg": {
   "slug": "guadalajara-plaza-de-la-liberacion",
   "verdict": "MATCH",
@@ -7781,6 +7817,12 @@
   "reason": "Gate entrance of Yuexiu Park, Guangzhou",
   "reasonKo": "광저우 월수공원 정문",
   "at": "2026-08-17T13:24:56.522Z"
+ },
+ "guia-chapel-of-our-lady-of-guia\u0001https://upload.wikimedia.org/wikipedia/commons/6/66/Chapel_of_Our_Lady_of_Guia_%E8%81%96%E6%AF%8D%E9%9B%AA%E5%9C%B0%E6%AE%BF%E6%95%99%E5%A0%82_-_panoramio.jpg": {
+  "slug": "guia-chapel-of-our-lady-of-guia",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of the chapel, representative hero shot",
+  "at": "2026-10-08T07:41:37.729Z"
  },
  "guia-guia-fortress-and-lighthouse\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Guia_Fortress_23-02-2024%289%29.jpg/3840px-Guia_Fortress_23-02-2024%289%29.jpg": {
   "slug": "guia-guia-fortress-and-lighthouse",
@@ -7995,6 +8037,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows Hac Sa Beach with sand, water, and resort",
   "at": "2026-10-06T14:36:47.043Z"
+ },
+ "hac-sa-hac-sa-long-chao-kok-coastal-trail\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hac_S%C3%A1_Long_Chao_Kok_Coastal_Trail_19-02-2023%2822%29.jpg/3840px-Hac_S%C3%A1_Long_Chao_Kok_Coastal_Trail_19-02-2023%2822%29.jpg": {
+  "slug": "hac-sa-hac-sa-long-chao-kok-coastal-trail",
+  "verdict": "MATCH",
+  "reason": "publish gate: Coastal trail with railing, rocks, and sea view",
+  "at": "2026-10-08T07:43:01.983Z"
  },
  "hac-sa-hac-sa-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Barbecue_Area_at_Hac_Sa_Park.jpg/1920px-Barbecue_Area_at_Hac_Sa_Park.jpg": {
   "slug": "hac-sa-hac-sa-park",
@@ -13422,6 +13470,12 @@
   "reason": "event publish gate: Group photo of the performers themselves",
   "at": "2026-10-08T01:32:05.864Z"
  },
+ "london-leadenhall-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Leadenhall_Market_In_London_-_Feb_2006_rotated.jpg/1920px-Leadenhall_Market_In_London_-_Feb_2006_rotated.jpg": {
+  "slug": "london-leadenhall-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Authentic interior view of Leadenhall Market, representative and accurate",
+  "at": "2026-10-08T10:00:18.542Z"
+ },
  "london-legado\u0001https://fastly.4sqi.net/img/general/original/7413000_TnyrXNoS0aJWh9nyW0Udm76Bco32z50BoKwt50p0tQU.jpg": {
   "slug": "london-legado",
   "verdict": "MATCH",
@@ -13445,6 +13499,12 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Fine dining Indian cuisine, upscale plating, London restaura",
   "at": "2026-10-01T23:30:15.650Z"
+ },
+ "london-portobello-road-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Portobello_Road_Market_in_London%2C_spring_2013_%284%29.JPG/3840px-Portobello_Road_Market_in_London%2C_spring_2013_%284%29.JPG": {
+  "slug": "london-portobello-road-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Street market stall with clothes and goods, representative scene",
+  "at": "2026-10-08T07:47:50.995Z"
  },
  "london-the-british-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/British_Museum_from_NE_2.JPG/1920px-British_Museum_from_NE_2.JPG": {
   "slug": "london-the-british-museum",
@@ -14128,6 +14188,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Shows Senado Square with Holy House of Mercy building",
   "at": "2026-10-06T14:33:46.668Z"
+ },
+ "macau-red-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Red_Market%2C_Macau_-_interior.jpg/3840px-Red_Market%2C_Macau_-_interior.jpg": {
+  "slug": "macau-red-market",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior market view with produce stalls, representative of Red Market",
+  "at": "2026-10-08T07:46:56.899Z"
  },
  "madrid-barcelona-the-weeknd-after-hours-til-dawn-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/The_Weeknd_-_Live_at_Ippodromo_SNAI_La_Maura%2C_Milan_%28July_27%2C_2023%29.jpg/3840px-The_Weeknd_-_Live_at_Ippodromo_SNAI_La_Maura%2C_Milan_%28July_27%2C_2023%29.jpg": {
   "slug": "madrid-barcelona-the-weeknd-after-hours-til-dawn-tour",
@@ -14952,6 +15018,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior entrance with visible restaurant signage, representative facade view",
   "at": "2026-10-04T13:40:09.344Z"
+ },
+ "merida-mercado-merida\u0001https://upload.wikimedia.org/wikipedia/commons/0/09/El_mercado_-_M%C3%A9rida%2C_Yucat%C3%A1n%2C_2008.jpg": {
+  "slug": "merida-mercado-merida",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior market scene with produce stalls and shoppers",
+  "at": "2026-10-08T07:45:10.200Z"
  },
  "merida-monumento-a-la-patria\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Monumento_a_la_Patria%2C_M%C3%A9rida_Yucat%C3%A1n_-_panoramio.jpg/3840px-Monumento_a_la_Patria%2C_M%C3%A9rida_Yucat%C3%A1n_-_panoramio.jpg": {
   "slug": "merida-monumento-a-la-patria",
