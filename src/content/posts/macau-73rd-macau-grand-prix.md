@@ -11,6 +11,7 @@ eventRecurring: true
 eventVenue: Guia Circuit
 eventOrganizer:
   name: Sports Bureau of Macao SAR Government
+  url: https://www.sport.gov.mo
 eventOffers:
   url: https://www.macauticket.com/en/programme/P-056085
 eventFactsAsked: true

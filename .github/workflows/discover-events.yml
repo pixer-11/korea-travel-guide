@@ -120,6 +120,20 @@ jobs:
           CONCURRENCY: '2'
         run: node scripts/gen-region-intros.mjs
 
+      # The discovery search names an organizer but often no website for it, and
+      # Event schema then ships organizer without url — GSC flagged it on
+      # 2026-10-08 (60 live posts). Ask once for the named body's own site,
+      # stored only when confident and the site answers. Only url-less posts
+      # are asked, so a run with none costs nothing.
+      - name: Fill organizer websites for new events
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          URL_ONLY: '1'
+          SINCE_DAYS: '3'
+          CONCURRENCY: '2'
+        run: node scripts/backfill-event-organizer.mjs
+
       # Same gate publish.yml runs, same position: BEFORE the commit. This
       # workflow pushes to main on its own, and the night it was left ungated it
       # published four posts whose hero was the placeholder SVG — the exact

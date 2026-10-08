@@ -11,6 +11,7 @@ eventRecurring: false
 eventVenue: EVM Convention Center
 eventOrganizer:
   name: Three Angles Production
+  url: https://threeangles.asia/
 eventPerformer:
   name: izna
   kind: group

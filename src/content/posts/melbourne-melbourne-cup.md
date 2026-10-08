@@ -11,6 +11,7 @@ eventRecurring: true
 eventVenue: Flemington Racecourse
 eventOrganizer:
   name: Victoria Racing Club
+  url: https://www.vrc.com.au
 eventFactsAsked: true
 tags:
   - melbourne

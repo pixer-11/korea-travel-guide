@@ -11,6 +11,7 @@ eventRecurring: false
 eventVenue: Etihad Arena, Yas Island
 eventOrganizer:
   name: Yasalam Classics
+  url: https://www.abudhabigp.com/en/yasalam
 eventOffers:
   url: https://www.etihadarena.ae
 eventPerformer:

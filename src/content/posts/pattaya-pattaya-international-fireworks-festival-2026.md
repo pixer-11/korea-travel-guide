@@ -34,6 +34,7 @@ heroImage:
     'y': 50
 eventOrganizer:
   name: Pattaya City
+  url: https://www.pattaya.go.th
 eventOffers:
   free: true
   currency: THB

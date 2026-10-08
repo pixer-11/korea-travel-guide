@@ -11,6 +11,7 @@ eventRecurring: false
 eventVenue: Taipei Arena
 eventOrganizer:
   name: Source Music
+  url: https://www.sourcemusic.com/
 eventPerformer:
   name: LE SSERAFIM
   kind: group

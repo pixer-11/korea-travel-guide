@@ -36,6 +36,7 @@ draft: false
 eventRecurring: false
 eventOrganizer:
   name: Live Nation Middle East
+  url: https://www.livenation.me
 ---
 ## Why this show matters
 

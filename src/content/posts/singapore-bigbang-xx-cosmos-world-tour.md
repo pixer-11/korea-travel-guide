@@ -11,6 +11,7 @@ eventRecurring: false
 eventVenue: National Stadium
 eventOrganizer:
   name: AEG Presents Asia
+  url: https://asia.aegpresents.com/
 eventOffers:
   url: https://ticketmaster.sg/
 eventPerformer:

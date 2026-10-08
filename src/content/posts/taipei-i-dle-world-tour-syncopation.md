@@ -11,6 +11,7 @@ eventRecurring: false
 eventVenue: Taipei Dome
 eventOrganizer:
   name: Cube Entertainment
+  url: https://www.cubeent.co.kr
 eventPerformer:
   name: (G)I-DLE
   kind: group

@@ -35,6 +35,7 @@ heroImage:
     'y': 22
 eventOrganizer:
   name: Blu Blood Entertainment
+  url: https://blublood.com/
 ---
 ## Why this show mattered
 

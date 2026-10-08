@@ -11,6 +11,7 @@ eventRecurring: false
 eventVenue: Philippine Arena
 eventOrganizer:
   name: Live Nation PH
+  url: https://www.livenation.ph/
 eventPerformer:
   name: LANY
   kind: group

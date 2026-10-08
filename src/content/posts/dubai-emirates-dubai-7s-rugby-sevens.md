@@ -11,6 +11,7 @@ eventRecurring: true
 eventVenue: The Sevens Stadium
 eventOrganizer:
   name: Emirates
+  url: https://emiratesdubai7s.com/
 eventFactsAsked: true
 gallery: []
 tags:

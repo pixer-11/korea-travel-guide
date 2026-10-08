@@ -35,6 +35,7 @@ heroImage:
     'y': 45
 eventOrganizer:
   name: Proactiv Entertainment
+  url: https://www.proactiventertainment.com/
 eventOffers:
   url: https://www.ticketworld.com.ph
 eventPerformer:

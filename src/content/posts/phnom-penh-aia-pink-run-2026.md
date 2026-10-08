@@ -11,6 +11,7 @@ eventRecurring: true
 eventVenue: Botumvatey Pagoda Park
 eventOrganizer:
   name: AIA Cambodia
+  url: https://www.aia.com.kh
 eventOffers:
   url: https://www.cambodia-events.org/
 eventFactsAsked: true

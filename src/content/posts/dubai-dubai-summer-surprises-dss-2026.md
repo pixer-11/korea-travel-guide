@@ -37,6 +37,7 @@ eventRecurring: true
 photoless: true
 eventOrganizer:
   name: Dubai Festivals and Retail Establishment (DFRE)
+  url: https://www.dubaisummersurprises.com
 eventOffers:
   free: true
   currency: AED

@@ -35,6 +35,7 @@ photoless: true
 eventRecurring: false
 eventOrganizer:
   name: Live Nation and Star Planet
+  url: https://starplanet.com.my/
 ---
 ## Why this show matters
 

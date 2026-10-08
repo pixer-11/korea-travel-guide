@@ -11,6 +11,7 @@ eventRecurring: true
 eventVenue: Sai Van Lake Square
 eventOrganizer:
   name: Macao Food Festival Organizing Committee
+  url: https://www.uafbmm.org.mo/
 eventOffers:
   free: true
   currency: MOP

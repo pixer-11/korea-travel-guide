@@ -11,6 +11,7 @@ eventRecurring: true
 eventVenue: Yeouido Hangang Park
 eventOrganizer:
   name: Hanwha Group
+  url: https://www.hanwha.com/
 eventOffers:
   free: true
   currency: KRW

@@ -10,6 +10,7 @@ eventEndDate: '2026-09-30'
 eventRecurring: true
 eventOrganizer:
   name: Aloha Festivals
+  url: https://www.alohafestivals.com
 heroImage:
   url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Honolulu_Festival_2014_-_Aloha_Monarch_RKB_Hawaii_Festival_%2814099428763%29.jpg/3840px-Honolulu_Festival_2014_-_Aloha_Monarch_RKB_Hawaii_Festival_%2814099428763%29.jpg
   credit: 'Photo: Daniel Ramirez from Honolulu, USA / Wikimedia Commons (CC BY 2.0)'

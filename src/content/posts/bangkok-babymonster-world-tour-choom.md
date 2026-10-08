@@ -11,6 +11,7 @@ eventRecurring: false
 eventVenue: IMPACT Arena
 eventOrganizer:
   name: YG Entertainment
+  url: https://www.ygfamily.com/
 eventPerformer:
   name: BABYMONSTER
   kind: group

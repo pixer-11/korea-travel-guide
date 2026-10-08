@@ -11,6 +11,7 @@ eventRecurring: false
 eventVenue: Smart Araneta Coliseum
 eventOrganizer:
   name: Live Nation Philippines
+  url: https://www.livenation.ph
 eventPerformer:
   name: Zara Larsson
   kind: person

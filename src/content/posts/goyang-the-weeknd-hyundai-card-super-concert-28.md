@@ -11,6 +11,7 @@ eventRecurring: false
 eventVenue: Goyang Stadium
 eventOrganizer:
   name: Hyundai Card
+  url: https://www.hyundaicard.com/
 eventOffers:
   url: https://world.nol.com/en/ticket/places/26000511/products/26006903
 eventPerformer:

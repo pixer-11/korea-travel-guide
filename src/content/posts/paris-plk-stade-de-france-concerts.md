@@ -28,6 +28,7 @@ eventRecurring: false
 photoless: true
 eventOrganizer:
   name: Arachnée Productions
+  url: https://www.arachnee-productions.com/
 eventVenue: Stade de France
 eventOffers:
   url: https://www.stadefrance.com/en/ticket/plk-2

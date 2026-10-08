@@ -11,6 +11,7 @@ eventRecurring: false
 eventVenue: SM Mall of Asia Arena
 eventOrganizer:
   name: Live Nation Philippines
+  url: https://www.livenation.ph/
 eventPerformer:
   name: wave to earth
   kind: group

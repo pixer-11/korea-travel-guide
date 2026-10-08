@@ -11,6 +11,7 @@ eventRecurring: true
 eventVenue: Hangang Park (Jamwon and Gangseo)
 eventOrganizer:
   name: Future Hangang Project Headquarters
+  url: https://hangang.seoul.go.kr/
 eventOffers:
   free: true
   currency: KRW

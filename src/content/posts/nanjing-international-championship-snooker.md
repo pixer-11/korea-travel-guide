@@ -10,6 +10,7 @@ eventEndDate: '2026-11-07'
 eventRecurring: true
 eventOrganizer:
   name: World Snooker Tour
+  url: https://www.wst.tv/
 eventFactsAsked: true
 heroImage:
   url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Snooker_World_Championship_final.jpg/3840px-Snooker_World_Championship_final.jpg

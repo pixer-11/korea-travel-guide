@@ -11,6 +11,7 @@ eventRecurring: true
 eventVenue: Kuching Waterfront
 eventOrganizer:
   name: Jabatan Kebudayaan dan Kesenian Negara (JKKN)
+  url: https://portal.jkkn.gov.my
 eventOffers:
   free: true
   currency: MYR

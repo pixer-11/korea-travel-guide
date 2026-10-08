@@ -11,6 +11,7 @@ eventRecurring: false
 eventVenue: My Dinh National Stadium
 eventOrganizer:
   name: AEG Presents Asia, Carpa and VPBank, with YG Entertainment
+  url: https://carpaglobal.com/en/entertainment/project/bigbang-2026-2027-world-tour-xx-cosmos-in-hanoi-3/
 eventOffers:
   url: https://cticket.vn/en/event/bigbang2026worldtourinhanoi-tickets
 eventPerformer:

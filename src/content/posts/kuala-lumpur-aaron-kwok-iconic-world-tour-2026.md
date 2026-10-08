@@ -36,6 +36,7 @@ draft: false
 eventRecurring: false
 eventOrganizer:
   name: Jazzy Group
+  url: https://www.jazzygroup.com
 eventOffers:
   url: https://www.maiseat.com/en-US/shows/13248
 eventPerformer:

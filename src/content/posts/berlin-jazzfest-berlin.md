@@ -10,6 +10,7 @@ eventEndDate: '2026-11-01'
 eventRecurring: true
 eventOrganizer:
   name: Berliner Festspiele
+  url: https://www.berlinerfestspiele.de/
 eventFactsAsked: true
 heroImage:
   url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/49th_Berlin_Jazz_Fest_%28Jazzfest_Berlin%29_-_Berlin_-_Schaperstra%C3%9Fe_-_Haus_der_Berliner_Festspiele_-_Forecourt_-_November_1%2C_2013.jpg/3840px-49th_Berlin_Jazz_Fest_%28Jazzfest_Berlin%29_-_Berlin_-_Schaperstra%C3%9Fe_-_Haus_der_Berliner_Festspiele_-_Forecourt_-_November_1%2C_2013.jpg

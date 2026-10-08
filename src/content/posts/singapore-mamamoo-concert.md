@@ -36,6 +36,7 @@ draft: false
 eventRecurring: false
 eventOrganizer:
   name: CK Star Entertainment
+  url: https://ckstarentertainment.com/
 ---
 ## Why this show mattered
 

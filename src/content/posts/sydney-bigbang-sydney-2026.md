@@ -11,6 +11,7 @@ eventRecurring: false
 eventVenue: Accor Stadium
 eventOrganizer:
   name: Live Nation
+  url: https://www.livenation.com.au/
 eventPerformer:
   name: BIGBANG
   kind: group

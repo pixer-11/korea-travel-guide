@@ -36,6 +36,7 @@ heroImage:
     'y': 35
 eventOrganizer:
   name: George Town World Heritage Incorporated (GTWHI)
+  url: https://gtwhi.com.my/
 eventOffers:
   url: https://georgetownfestival.com/
 eventFactsAsked: true

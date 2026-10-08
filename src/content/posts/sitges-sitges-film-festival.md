@@ -10,6 +10,7 @@ eventEndDate: '2026-10-18'
 eventRecurring: true
 eventOrganizer:
   name: Festival Internacional de Cinema Fantàstic de Catalunya
+  url: https://sitgesfilmfestival.com
 eventFactsAsked: true
 tags:
   - sitges

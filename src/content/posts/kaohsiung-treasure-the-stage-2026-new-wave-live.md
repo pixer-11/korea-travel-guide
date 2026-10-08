@@ -11,6 +11,7 @@ eventRecurring: false
 eventVenue: Kaohsiung Arena
 eventOrganizer:
   name: YG Entertainment
+  url: https://www.ygfamily.com
 eventPerformer:
   name: TREASURE
   kind: group

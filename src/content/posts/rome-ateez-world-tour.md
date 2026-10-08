@@ -11,6 +11,7 @@ eventRecurring: false
 eventVenue: Rock in Roma (Wake N Lake - Wakeboard A Roma)
 eventOrganizer:
   name: Rock in Roma
+  url: https://www.rockinroma.com
 eventPerformer:
   name: ATEEZ
   kind: group

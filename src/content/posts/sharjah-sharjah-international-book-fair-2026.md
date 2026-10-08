@@ -11,6 +11,7 @@ eventRecurring: true
 eventVenue: Expo Centre Sharjah
 eventOrganizer:
   name: Sharjah Book Authority
+  url: https://sba.gov.ae/
 eventFactsAsked: true
 heroImage:
   url: https://upload.wikimedia.org/wikipedia/commons/8/80/%D9%85%D8%B9%D8%B1%D8%B6_%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A_%D9%84%D9%84%D9%83%D8%AA%D8%A7%D8%A8_Sharjah_International_Book_Fair_04.jpg

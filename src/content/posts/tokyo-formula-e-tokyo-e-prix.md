@@ -36,6 +36,7 @@ draft: false
 eventRecurring: true
 eventOrganizer:
   name: Sporting club VICIC (appointed by the Japan Automobile Federation, JAF)
+  url: http://www.japan-racing.jp/vicic/
 eventOffers:
   url: https://jp.fiaformulae.com/tickets
 eventFactsAsked: true

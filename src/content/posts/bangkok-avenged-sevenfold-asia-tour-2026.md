@@ -11,6 +11,7 @@ eventRecurring: false
 eventVenue: Thunder Dome
 eventOrganizer:
   name: VIJI Corp
+  url: https://www.vijicorp.com/
 eventOffers:
   url: https://www.ticketmelon.com/viji/a7x
 eventPerformer:

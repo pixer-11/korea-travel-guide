@@ -35,6 +35,7 @@ eventRecurring: true
 photoless: true
 eventOrganizer:
   name: Peaches. (피치스그룹코리아 / Peaches Group Korea)
+  url: https://www.peachesoneuniverse.com
 eventOffers:
   url: https://world.nol.com/en/ticket/places/25000155/products/26010020
 eventFactsAsked: true

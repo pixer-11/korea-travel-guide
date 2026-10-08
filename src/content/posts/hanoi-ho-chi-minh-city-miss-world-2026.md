@@ -26,6 +26,7 @@ aiGenerated: true
 eventRecurring: true
 eventOrganizer:
   name: Sen Vang Company (Golden Lotus Entertainment)
+  url: https://senvangvn.com/
 eventFactsAsked: true
 heroImage:
   url: https://upload.wikimedia.org/wikipedia/commons/8/80/Camille_Munro_at_Miss_World_2013_Talent_Competition.jpg

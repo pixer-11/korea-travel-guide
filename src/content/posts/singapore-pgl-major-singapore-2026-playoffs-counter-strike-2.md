@@ -11,6 +11,7 @@ eventRecurring: true
 eventVenue: Singapore Indoor Stadium
 eventOrganizer:
   name: PGL
+  url: https://pglesports.com
 eventFactsAsked: true
 heroImage:
   url: https://upload.wikimedia.org/wikipedia/commons/a/ac/PGL_CS2_Major_Copenhagen_2024_stage_-_02.jpg

@@ -36,6 +36,7 @@ draft: false
 eventRecurring: false
 eventOrganizer:
   name: Focus Istanbul Event Management
+  url: https://istanbulfestivali.com
 ---
 ## Why this show matters
 

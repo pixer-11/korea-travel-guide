@@ -35,6 +35,7 @@ heroImage:
     'y': 35
 eventOrganizer:
   name: Live Nation Philippines
+  url: https://www.livenation.ph/
 eventOffers:
   url: https://www.livenation.ph/event/post-malone-presents-the-big-stadium-world-tour-bulacan-tickets-edp1667396
 eventPerformer:

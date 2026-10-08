@@ -34,6 +34,7 @@ aiGenerated: true
 eventRecurring: true
 eventOrganizer:
   name: Badminton Association of India
+  url: https://www.badmintonindia.org/
 eventOffers:
   url: https://bwfworldchampionships.bwfbadminton.com/
 eventFactsAsked: true

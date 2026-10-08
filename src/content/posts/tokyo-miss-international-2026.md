@@ -11,6 +11,7 @@ eventRecurring: true
 eventVenue: Tokyo Dome City Hall
 eventOrganizer:
   name: International Culture Association
+  url: https://www.miss-international.org/en/
 eventFactsAsked: true
 tags:
   - tokyo

@@ -11,6 +11,7 @@ eventRecurring: true
 eventVenue: Fukuoka Kokusai Center
 eventOrganizer:
   name: Japan Sumo Association
+  url: https://www.sumo.or.jp/En/
 eventOffers:
   url: https://sumo.pia.jp
 eventFactsAsked: true

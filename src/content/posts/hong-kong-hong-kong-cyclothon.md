@@ -10,6 +10,7 @@ eventEndDate: '2026-10-11'
 eventRecurring: true
 eventOrganizer:
   name: Sun Hung Kai Properties
+  url: https://www.shkp.com
 eventFactsAsked: true
 gallery: []
 tags:

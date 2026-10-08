@@ -11,6 +11,7 @@ eventRecurring: true
 eventVenue: Mount Panorama Circuit
 eventOrganizer:
   name: Supercars
+  url: https://www.supercars.com
 eventFactsAsked: true
 heroImage:
   url: https://upload.wikimedia.org/wikipedia/commons/c/c7/Mount_Panorama%2C_Bathurst.jpg

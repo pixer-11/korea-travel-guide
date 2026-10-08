@@ -36,6 +36,7 @@ heroImage:
     'y': 35
 eventOrganizer:
   name: Garaca SAS
+  url: https://www.rockenseine.com/
 eventOffers:
   url: https://www.rockenseine.com
 eventFactsAsked: true

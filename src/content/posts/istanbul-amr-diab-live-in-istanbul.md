@@ -36,6 +36,7 @@ draft: false
 eventRecurring: false
 eventOrganizer:
   name: TemaCC
+  url: https://www.temacc.com/
 ---
 ## Why this show matters
 

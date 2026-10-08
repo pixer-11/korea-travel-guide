@@ -10,6 +10,7 @@ eventEndDate: '2026-10-25'
 eventRecurring: true
 eventOrganizer:
   name: motion events
+  url: https://www.motionevents.de/
 eventFactsAsked: true
 heroImage:
   url: https://upload.wikimedia.org/wikipedia/commons/e/e0/Frankfurt-Marathon-2018-0013.jpg
