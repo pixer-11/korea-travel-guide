@@ -37,6 +37,7 @@ import { verifyHeroImage, recordHeroVerdict } from './lib/vision-check.mjs';
 import { foreignInFilename, geoTokens } from './lib/event-file-identity.mjs';
 import { loadWorld } from './lib/commons-identity.mjs';
 import { ownCountry } from './lib/country-of-city.mjs';
+import { isPastEvent } from './lib/event-past.mjs';
 
 // Place-name tokens for the filename identity audit (a past host city in a
 // file name is WHERE an edition was held, not another act).
@@ -216,6 +217,10 @@ async function writeDiscovered(item, ctx) {
   const key = `${kind}:${slugify(`${country}-${item.name}`)}`;
   const slug = slugify(`${item.city}-${item.name}`);
   if (done.has(key) || existing.has(slug)) return false;
+  if (kind === 'event' && isPastEvent(item)) {
+    console.log(`    ⏭️  "${item.name}" — already over (${item.endDate || item.startDate}); not writing a new guide`);
+    return false;
+  }
 
   // "Dates, Tickets & Venue" replaced "What to Know" on 2026-08-07: GSC showed
   // event pages ranked 4-10 with CTR at half of expectation (EuroVolley: 449
