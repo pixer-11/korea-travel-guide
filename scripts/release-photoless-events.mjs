@@ -69,6 +69,11 @@ for (const f of files) {
   // heldReason/heldNote, where a round-trip keeps it — and this line honours it,
   // the way backfill-photos-alt and release-verified-quarantine already did.
   if (NON_PHOTO_HOLD.test(String(d.heldReason || ''))) { skipped.held++; continue; }
+  // heldFinal is the stronger record (a retired duplicate twin, a wrong date):
+  // on 10-08 this script republished four of them — Charlie Puth Goyang, EDC
+  // Incheon, MotoGP Lombok, 5SOS Pasay — and the duplicate/contradictory-date
+  // alarms came back the same night.
+  if (d.heldFinal) { skipped.held++; continue; }
 
   // A quarantined event that still carries a hero is carrying a REJECTED one.
   // The 2026-07-29 event batch was the last publish path without a vision

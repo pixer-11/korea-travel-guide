@@ -89,7 +89,7 @@ for (const f of readdirSync(DIR).filter((f) => f.endsWith('.md'))) {
 
   // A stated hold is a decision someone made for a reason that is not the
   // photo — cancelled, duplicate, wrong region. Never overridden here.
-  if (fm.data?.heldReason) continue;
+  if (fm.data?.heldReason || fm.data?.heldFinal) continue; // heldFinal: retired twins (10-08)
 
   const liveTwin = liveTwinOf(slug, fm.data, LIVE_TWINS);
   if (liveTwin) { why.push(`${slug}: ${liveTwin} already covers this venue`); continue; }

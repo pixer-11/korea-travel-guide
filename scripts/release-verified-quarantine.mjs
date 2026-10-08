@@ -77,6 +77,7 @@ for (const f of readdirSync(POSTS).filter((x) => x.endsWith('.md'))) {
 
   if (data.draft !== true) continue;                       // already live
   if (data.heldReason) { kept.push({ slug, why: `heldReason:${data.heldReason} — not a photo hold` }); continue; }
+  if (data.heldFinal) { kept.push({ slug, why: 'heldFinal — a recorded decision, not a photo hold' }); continue; }
   const url = data.heroImage?.url;
   if (!url || String(url).includes('placeholder')) { kept.push({ slug, why: 'no hero to verify' }); continue; }
 

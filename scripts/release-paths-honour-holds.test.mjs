@@ -16,6 +16,14 @@ test('every path that can publish a draft honours a non-photo hold', () => {
   }
 });
 
+// 2026-10-08: release-photoless-events read heldReason but not heldFinal and
+// republished four retired duplicate twins in one night.
+test('every path that can publish a draft honours heldFinal', () => {
+  for (const f of ['release-photoless-events.mjs', 'release-photoless-earners.mjs', 'backfill-photos-alt.mjs', 'release-verified-quarantine.mjs']) {
+    assert.match(src(`./${f}`), /heldFinal/, `${f} can republish a post whose hold is final`);
+  }
+});
+
 test('every path that can publish an event asks whether its twin is already live', () => {
   for (const f of ['release-photoless-events.mjs', 'backfill-photos-alt.mjs']) {
     assert.match(src(`./${f}`), /alreadyLive\(/, `${f} can publish a second guide to one event`);
