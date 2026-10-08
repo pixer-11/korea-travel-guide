@@ -1,11 +1,11 @@
 ---
-title: 'Xcaret Park: Cancun Travel Guide (4.8★)'
+title: 'Xcaret Park: Playa del Carmen Travel Guide (4.8★)'
 description: >-
   Xcaret Park is on the coast just south of Playa del Carmen, about an hour's
   drive down Highway 307 from Cancun. 4.8★ (118,448 reviews) — what visitors
   say, hours, and tips.
 country: Mexico
-region: Cancun
+region: Playa del Carmen
 category: attraction
 pubDate: '2026-10-06T07:44:33.749Z'
 heroImage:
@@ -41,7 +41,7 @@ place:
     - 'Saturday: 8:30 AM – 10:00 PM'
     - 'Sunday: 8:30 AM – 10:00 PM'
 tags:
-  - cancun
+  - playa del carmen
   - park
 quickAnswer: >-
   Xcaret Park is on the coast just south of Playa del Carmen, about an hour's

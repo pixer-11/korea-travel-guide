@@ -1,6 +1,6 @@
 ---
 lang: zh
-slug: fisherman-s-wharf-maritime-museum
+slug: barra-maritime-museum
 srcHash: 'eb5d04ef4b58'
 title: 澳门渔人码头·海事博物馆旅行指南（4.3★）
 description: 澳门海事博物馆常被归在渔人码头名下，实际位于妈阁庙前地1号（1 Largo do Pagode da Barra）。评分4.3★（249条评价），附游客评价、开放时间与参观建议。

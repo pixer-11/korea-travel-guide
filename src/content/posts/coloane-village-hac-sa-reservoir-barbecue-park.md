@@ -1,8 +1,8 @@
 ---
-title: "Hác Sá Reservoir Barbecue Park: Coloane Village Travel Guide"
+title: 'Hác Sá Reservoir Barbecue Park: Hac Sa Travel Guide (4.3★)'
 description: "Hác Sá Reservoir Barbecue Park sits on Estrada de Hac Sa in Coloane, Macau, a short walk inland from Hac Sa Beach. 4.3★ (165 reviews) — what visitors say, hours, and tips."
 country: "Macau"
-region: "Coloane Village"
+region: Hac Sa
 category: "attraction"
 pubDate: "2026-10-06T14:29:53.114Z"
 heroImage:
@@ -35,8 +35,8 @@ place:
     - "Saturday: Open 24 hours"
     - "Sunday: Open 24 hours"
 tags:
-  - "coloane village"
-  - "top attraction"
+  - hac sa
+  - top attraction
 quickAnswer: "Hác Sá Reservoir Barbecue Park sits on Estrada de Hac Sa in Coloane, Macau, a short walk inland from Hac Sa Beach. It pairs public barbecue pits with a walking path around the reservoir and a children's glass slide. Google lists it as open 24 hours, but you will get the most out of it on a dry daytime visit between October and December."
 faq:
   - q: "How do I get to Hác Sá Reservoir Barbecue Park?"

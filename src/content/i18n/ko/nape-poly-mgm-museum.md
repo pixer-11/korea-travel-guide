@@ -1,6 +1,6 @@
 ---
 lang: ko
-slug: coloane-poly-mgm-museum
+slug: nape-poly-mgm-museum
 srcHash: 'cc63a4a76a34'
 title: 폴리 MGM 박물관 콜로안 여행 가이드 (4.7★)
 description: 폴리 MGM 박물관(POLY MGM MUSEUM)은 콜로안으로 분류되어 있지만, 실제로는 마카오반도 나페(NAPE) 지구 쑨원 대로에 있는 MGM 마카오 L2층에 자리하고 있습니다. 콜로안 빌리지로 찾아가지 마십시오. 4.7★(리뷰 136개)를 받은 이곳의 방문객 평가와 운영 시간, 관람 요령을 정리했습니다.

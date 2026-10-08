@@ -1,8 +1,8 @@
 ---
-title: "Na Tcha Temple: Hac Sa Travel Guide (4.2★)"
-description: "Na Tcha Temple is sometimes filed under Hac Sa, but it does not stand by Coloane's black-sand beach. 4.2★ (190 reviews) — what visitors say, hours, and tips."
+title: 'Na Tcha Temple: Macau Peninsula Travel Guide (4.2★)'
+description: "Na Tcha Temple sits on the Macau peninsula, directly beside the Ruins of St. Paul's. 4.2★ (190 reviews) — what visitors say, hours, and tips."
 country: "Macau"
-region: "Hac Sa"
+region: Macau Peninsula
 category: "attraction"
 pubDate: "2026-10-07T07:42:09.494Z"
 heroImage:
@@ -25,12 +25,12 @@ place:
   lat: 22.1977241
   lng: 113.5406505
 tags:
-  - "hac sa"
-  - "historic site"
-quickAnswer: "Na Tcha Temple is sometimes filed under Hac Sa, but it does not stand by Coloane's black-sand beach. It sits on the Macau peninsula, directly beside the Ruins of St. Paul's, about a 10-minute uphill walk from Senado Square. Plan on 15 to 20 minutes, add the old city wall and the Na Tcha Exhibition Hall next door, and check opening times locally before you go."
+  - macau peninsula
+  - historic site
+quickAnswer: "Na Tcha Temple sits on the Macau peninsula, directly beside the Ruins of St. Paul's, about a 10-minute uphill walk from Senado Square. Plan on 15 to 20 minutes, add the old city wall and the Na Tcha Exhibition Hall next door, and check opening times locally before you go."
 faq:
-  - q: "Is Na Tcha Temple actually at Hac Sa beach?"
-    a: "No. Some listings put it under Hac Sa, but the temple is on the Macau peninsula, right beside the Ruins of St. Paul's. Hac Sa beach is on Coloane, a bus ride south."
+  - q: "Where is Na Tcha Temple?"
+    a: "On the Macau peninsula, right beside the Ruins of St. Paul's."
   - q: "How do I get to Na Tcha Temple?"
     a: "Walk uphill from Senado Square along Rua de São Domingos and Rua de São Paulo to the Ruins of St. Paul's. The temple is just behind the left side of the façade, about 10 minutes from the square."
   - q: "How long should I spend there?"
@@ -43,11 +43,9 @@ aiGenerated: true
 draft: false
 ---
 
-## Beside the façade, not the beach
+## Beside the façade
 
-Location is the first thing to sort out. Some listings put this temple under Hac Sa, the beach district on Coloane. Its map code actually puts it on the peninsula, tucked behind the left shoulder of the Ruins of St. Paul's.
-
-That is useful to know, because Hac Sa is a bus ride south across the bridges. If you are at the beach, you are in the wrong place. If you are on the steps of St. Paul's, you are about 30 seconds away.
+The temple is tucked behind the left shoulder of the Ruins of St. Paul's. If you are on the steps of St. Paul's, you are about 30 seconds away.
 
 ## A single room for a child god
 

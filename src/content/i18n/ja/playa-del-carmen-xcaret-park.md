@@ -1,6 +1,6 @@
 ---
 lang: ja
-slug: cancun-xcaret-park
+slug: playa-del-carmen-xcaret-park
 srcHash: 'c1095822b94b'
 title: シカレ・パーク：カンクン旅行ガイド（4.8★）
 description: シカレ・パーク（Xcaret Park）は、カンクンから国道307号線を南へ車で約1時間、プラヤ・デル・カルメンのすぐ南の海沿いにあります。評価は4.8★（118,448件のレビュー）。訪れた人の口コミ、営業時間、楽しみ方のコツをまとめました。

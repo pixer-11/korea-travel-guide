@@ -1,6 +1,6 @@
 ---
 lang: es
-slug: fisherman-s-wharf-maritime-museum
+slug: barra-maritime-museum
 srcHash: 'eb5d04ef4b58'
 title: 'Museo Marítimo: guía de viaje de Fisherman''s Wharf (4.3★)'
 description: Aunque figura en Fisherman's Wharf (Macao), el Museo Marítimo se encuentra en realidad en 1 Largo do Pagode da Barra. Con 4.3★ y 249 reseñas, aquí encontrará la opinión de los visitantes, los horarios y consejos prácticos.

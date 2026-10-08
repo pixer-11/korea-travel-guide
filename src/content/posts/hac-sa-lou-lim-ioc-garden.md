@@ -1,8 +1,8 @@
 ---
-title: "Lou Lim Ioc Garden: Hac Sa Travel Guide (4.4★)"
-description: "Lou Lim Ioc Garden is listed under Hac Sa, but it actually stands at 10 Estrada de Adolfo Loureiro on the Macau peninsula, not by Hac Sa beach in Coloane. 4.4★ (729 reviews) — what visitors say, hours, and tips."
+title: 'Lou Lim Ioc Garden: Macau Peninsula Travel Guide (4.4★)'
+description: "Lou Lim Ioc Garden stands at 10 Estrada de Adolfo Loureiro on the Macau peninsula, a short walk from Tap Seac Square. 4.4★ (729 reviews) — what visitors say, hours, and tips."
 country: "Macau"
-region: "Hac Sa"
+region: Macau Peninsula
 category: "attraction"
 pubDate: "2026-10-07T07:44:55.703Z"
 heroImage:
@@ -34,12 +34,12 @@ place:
     - "Saturday: 6:00 AM – 12:00 AM"
     - "Sunday: 6:00 AM – 12:00 AM"
 tags:
-  - "hac sa"
-  - "park"
-quickAnswer: "Lou Lim Ioc Garden is listed under Hac Sa, but it actually stands at 10 Estrada de Adolfo Loureiro on the Macau peninsula, not by Hac Sa beach in Coloane. It's a small, walled Suzhou-style garden with pavilions, a zigzag bridge and a lotus pond, and it's open daily from 6am to midnight. Plan on 45 minutes to an hour, and come early morning or after dark for the calmest visit."
+  - macau peninsula
+  - park
+quickAnswer: "Lou Lim Ioc Garden stands at 10 Estrada de Adolfo Loureiro on the Macau peninsula, a short walk from Tap Seac Square. It's a small, walled Suzhou-style garden with pavilions, a zigzag bridge and a lotus pond, and it's open daily from 6am to midnight. Plan on 45 minutes to an hour, and come early morning or after dark for the calmest visit."
 faq:
-  - q: "Is Lou Lim Ioc Garden actually in Hac Sa?"
-    a: "No. It's sometimes listed under Hac Sa, but the address is 10 Estrada de Adolfo Loureiro on the Macau peninsula, near Tap Seac Square. Hac Sa beach is on Coloane, a long drive south."
+  - q: "Where is Lou Lim Ioc Garden?"
+    a: "At 10 Estrada de Adolfo Loureiro on the Macau peninsula, near Tap Seac Square."
   - q: "What are the opening hours?"
     a: "It's open every day from 6:00am to 12:00am (midnight), with no weekly closing day."
   - q: "How long should I spend there?"
@@ -62,7 +62,7 @@ It's compact. You can walk the whole circuit in minutes, but the design is meant
 
 ## Where it really is
 
-First, get your bearings. Some listings put the garden under Hac Sa, the black-sand beach area on Coloane. The address, Estrada de Adolfo Loureiro, is on the Macau peninsula, a short walk from Tap Seac Square. Point a taxi driver or map app at the street address rather than "Hac Sa", or you'll end up at the wrong end of the territory.
+The address, Estrada de Adolfo Loureiro, is on the Macau peninsula, a short walk from Tap Seac Square. Point a taxi driver or map app at the street address.
 
 From Senado Square, walking north through the old streets takes roughly 20 minutes. Plenty of city buses stop along the surrounding avenues. Check a live route planner for the right line from your hotel.
 

@@ -1,6 +1,6 @@
 ---
 lang: ja
-slug: coloane-poly-mgm-museum
+slug: nape-poly-mgm-museum
 srcHash: 'cc63a4a76a34'
 title: 保利美高梅博物館（POLY MGM MUSEUM）：コロアン観光ガイド（4.7★）
 description: 保利美高梅博物館はコロアンの施設として掲載されていますが、実際の所在地はマカオ半島・新口岸（NAPE）地区の孫逸仙大馬路（Avenida Dr. Sun Yat Sen）にあるMGMマカオのL2フロアです。コロアンの村へ向かわないようご注意ください。評価は4.7★（136件のレビュー）。訪問者の声や開館時間、見学のコツをまとめました。

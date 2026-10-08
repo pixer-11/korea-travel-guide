@@ -1,6 +1,6 @@
 ---
 lang: zh
-slug: cancun-xcaret-park
+slug: playa-del-carmen-xcaret-park
 srcHash: 'c1095822b94b'
 title: 斯卡雷特公园（Xcaret Park）：坎昆旅行指南（4.8★）
 description: 斯卡雷特公园坐落在卡门海滩以南不远的海岸边，从坎昆沿307号公路南下约1小时车程。4.8★（118,448条评价），游客口碑、开放时间和游玩建议都在这里。

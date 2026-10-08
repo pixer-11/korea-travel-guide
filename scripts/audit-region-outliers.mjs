@@ -13,7 +13,9 @@
 //  포괄 라벨은 제외) — 원래 부류 그 자체. ② 부모·자식 이름이라도 자기 구역
 //  중앙점에서 멀면(1.5 km 초과 AND 퍼짐 4배 초과, 커밋 피어 3편 이상) 잡는다.
 //  ③ 좌표가 자기 구역에서 멀고 다른 구역 무리(커밋 3편 이상) 안 3 km 에 있으면
-//  잡는다. 거리만 쓰던 1차 규칙은 "Hong Kong"의 디즈니랜드 같은 정상 글 62편을
+//  잡는다. ④ 구역 피어가 1~2편뿐이어도 5 km 넘게 멀고(퍼짐 4배 초과) 다른 구역
+//  글이 3배 이상 가까우면 잡는다 — 새 나라 둘째 날의 빈틈(마카오 10-07).
+//  거리만 쓰던 1차 규칙은 "Hong Kong"의 디즈니랜드 같은 정상 글 62편을
 //  오탐했고, 거리를 전제한 2차 규칙은 수리한 24편 중 12편을 놓쳤다.
 //  게이트가 `heldReason: wrong-region` 으로 붙든다.
 //
@@ -31,11 +33,9 @@
 //  출력: `REGION-OUTLIER: <file>.md — <거리> km from the <region> centre; address names <other>` ·
 //  발견 시 exit 1. 아무것도 못 찾으면 한 줄 요약 후 exit 0.
 // ─────────────────────────────────────────────────────────────
-import { readdirSync, readFileSync } from 'node:fs';
-import { join } from 'node:path';
 import { execSync } from 'node:child_process';
-import matter from 'gray-matter';
 import { findRegionOutliers, DEFAULTS } from './lib/region-outlier.mjs';
+import { loadRegionPosts } from './lib/region-posts.mjs';
 import { requireExamined } from './lib/examined.mjs';
 
 const dirArg = process.argv.find((a) => a.startsWith('--dir='));
@@ -63,22 +63,7 @@ if (since) {
   }
 }
 
-const posts = [];
-for (const file of readdirSync(DIR)) {
-  if (!file.endsWith('.md')) continue;
-  let data;
-  try { ({ data } = matter(readFileSync(join(DIR, file), 'utf8'))); } catch { continue; } // validate-content reports unreadable files
-  posts.push({
-    file,
-    country: data.country ? String(data.country).trim() : '',
-    region: data.region ? String(data.region).trim() : '',
-    lat: data.place?.lat,
-    lng: data.place?.lng,
-    address: data.place?.address ? String(data.place.address) : '',
-    draft: data.draft === true,
-    inScope: scope.has(file),
-  });
-}
+const posts = loadRegionPosts(DIR, scope, { prose: true });
 
 // A venue whose OFFICIAL ADDRESS sits in another region while the guide is
 // genuinely about this one. The first case (2026-09-07) is Hat Noppharat Thara–
@@ -111,7 +96,9 @@ const held = INCLUDE_DRAFTS ? [] : allHits.filter((h) => h.post.draft);
 for (const h of held) console.log(`   (held draft, not counted) ${h.post.file}`);
 const hits = INCLUDE_DRAFTS ? allHits : allHits.filter((h) => !h.post.draft);
 for (const h of hits) {
-  const ev = h.evidence.kind === 'address'
+  const ev = h.evidence.kind === 'prose'
+    ? `the guide itself says "${h.evidence.excerpt}"`
+    : h.evidence.kind === 'address'
     ? `address names ${h.evidence.region}`
     : `sits ${h.evidence.km.toFixed(1)} km inside the ${h.evidence.region} cluster`;
   const geo = h.distanceKm == null
@@ -126,4 +113,4 @@ if (hits.length) {
 requireExamined(posts.length, '글', `${DIR} 가 비어 있나?`);
 console.log(`✓ region outliers: none among ${posts.length} posts` +
   (scope.size ? ` (${scope.size} in this run's scope, excluded from peers)` : '') +
-  ` — regions with < ${DEFAULTS.minPeers} committed posts skipped`);
+  ` — regions with < ${DEFAULTS.minPeers} committed posts judged by address, and by distance only beyond ${DEFAULTS.thinFarKm} km`);

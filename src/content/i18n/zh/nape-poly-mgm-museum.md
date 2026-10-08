@@ -1,6 +1,6 @@
 ---
 lang: zh
-slug: coloane-poly-mgm-museum
+slug: nape-poly-mgm-museum
 srcHash: 'cc63a4a76a34'
 title: 保利美高梅博物馆：路环旅游指南（4.7★）
 description: 保利美高梅博物馆虽然被归在路环名下，实际却位于澳门半岛新口岸孙逸仙大马路的澳门美高梅L2层，千万别跑去路环市区找。4.7★（136条评价），游客口碑、开放时间和实用贴士都在这里。

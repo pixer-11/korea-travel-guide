@@ -1,8 +1,8 @@
 ---
-title: "Macao Museum: Hac Sa Travel Guide (4.3★)"
-description: "The Macao Museum, often listed under Hac Sa, actually sits inside Mount Fortress (Fortaleza do Monte) on the Macau Peninsula, right above the Ruins of St. Paul's. Hac Sa beach is in Coloane, a separate bus trip south. 4.3★ (717 reviews) — what visitors say, hours, and tips."
+title: 'Macao Museum: Macau Peninsula Travel Guide (4.3★)'
+description: "The Macao Museum sits inside Mount Fortress (Fortaleza do Monte) on the Macau Peninsula, right above the Ruins of St. Paul's. 4.3★ (717 reviews) — what visitors say, hours, and tips."
 country: "Macau"
-region: "Hac Sa"
+region: Macau Peninsula
 category: "attraction"
 pubDate: "2026-10-07T07:38:03.618Z"
 heroImage:
@@ -34,12 +34,12 @@ place:
     - "Saturday: 10:00 AM – 6:00 PM"
     - "Sunday: 10:00 AM – 6:00 PM"
 tags:
-  - "hac sa"
-  - "museum"
-quickAnswer: "The Macao Museum, often listed under Hac Sa, actually sits inside Mount Fortress (Fortaleza do Monte) on the Macau Peninsula, right above the Ruins of St. Paul's. Hac Sa beach is in Coloane, a separate bus trip south. The museum opens 10am to 6pm Tuesday to Sunday and is closed Mondays, so plan on 1.5 to 2 hours, then walk out onto the fort's cannon terraces for the view."
+  - macau peninsula
+  - museum
+quickAnswer: "The Macao Museum sits inside Mount Fortress (Fortaleza do Monte) on the Macau Peninsula, right above the Ruins of St. Paul's. The museum opens 10am to 6pm Tuesday to Sunday and is closed Mondays, so plan on 1.5 to 2 hours, then walk out onto the fort's cannon terraces for the view."
 faq:
-  - q: "Is the Macao Museum actually at Hac Sa beach?"
-    a: "No. Some listings put it under Hac Sa, but it is at 112 Praceta do Museu de Macau, inside Mount Fortress on the Macau Peninsula, beside the Ruins of St. Paul's. Hac Sa beach is in Coloane, a bus ride south through Taipa."
+  - q: "Where exactly is the Macao Museum?"
+    a: "At 112 Praceta do Museu de Macau, inside Mount Fortress on the Macau Peninsula, beside the Ruins of St. Paul's."
   - q: "When is the Macao Museum open?"
     a: "Tuesday to Sunday, 10am to 6pm. It is closed all day Monday. Arriving at 10am usually puts you ahead of the midday crowds at St. Paul's below."
   - q: "How long should I spend there?"
@@ -58,11 +58,9 @@ The Macao Museum is underground. Most of its galleries are cut into the hill ben
 
 It opened in 1998, the year before Macau's handover from Portugal to China. You can feel that timing in the exhibits. The whole museum is an attempt to explain what this place was before the handover, and what it might keep afterwards.
 
-## About that "Hac Sa" label
+## Inside the Historic Centre
 
-Some listings file the museum under Hac Sa. Don't let that send you to the wrong island. Hac Sa is the black-sand beach on Coloane, at the southern end of Macau. The museum's address, 112 Praceta do Museu de Macau, is in the old centre of the peninsula.
-
-That address puts it inside the Historic Centre of Macao, the UNESCO World Heritage Site listed in 2005. The fortress itself is one of the listed monuments. So the museum gives you a reason to climb the hill most visitors only photograph from below.
+The museum's address, 112 Praceta do Museu de Macau, is in the old centre of the peninsula. That puts it inside the Historic Centre of Macao, the UNESCO World Heritage Site listed in 2005. The fortress itself is one of the listed monuments. So the museum gives you a reason to climb the hill most visitors only photograph from below.
 
 ## Three floors, three versions of Macau
 
@@ -98,11 +96,7 @@ Most tour groups stop at the ruins, take their photos and turn back down the hil
 
 Leave by around 5pm if you want time on the terraces. A late arrival can leave you rushing the top floor.
 
-## Pairing it with a trip to Hac Sa
-
-If Hac Sa brought you here, the two make a good day together. Spend the morning at the museum and the fort, then cross to Coloane in the afternoon. Buses run from the peninsula through Taipa down to Hac Sa beach. Check the route boards at the stop for current numbers.
-
-The contrast is the point. The museum explains the trading port and its dense Sino-Portuguese streets. Hac Sa shows the quieter, greener side of Macau, with dark sand, pine trees and open water. Seeing both on the same day gives you a better feel for the territory than staying in the casino districts.
+## What else is nearby
 
 If you have more time on the peninsula, these are all within walking distance of the fort:
 

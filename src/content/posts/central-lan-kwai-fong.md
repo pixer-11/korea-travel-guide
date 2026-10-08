@@ -1,8 +1,8 @@
 ---
-title: "Lan Kwai Fong: Sheung Wan Travel Guide (4.2★)"
+title: 'Lan Kwai Fong: Central Travel Guide (4.2★)'
 description: "Lan Kwai Fong is Central's densest nightlife block, a short walk east of Sheung Wan, where a sloping L-shaped lane and neighbouring D'Aguilar Street are packed with bars, clubs and restaurants. 4.2★ (10,372 reviews) — what visitors say, hours, and tips."
 country: "Hong Kong"
-region: "Sheung Wan"
+region: Central
 category: "hidden-gem"
 pubDate: "2026-09-30T07:41:58.876Z"
 heroImage:
@@ -33,8 +33,8 @@ place:
     - "Saturday: Open 24 hours"
     - "Sunday: Open 24 hours"
 tags:
-  - "sheung wan"
-  - "old quarter"
+  - central
+  - old quarter
 quickAnswer: "Lan Kwai Fong is Central's densest nightlife block, a short walk east of Sheung Wan, where a sloping L-shaped lane and neighbouring D'Aguilar Street are packed with bars, clubs and restaurants. The streets themselves are open 24 hours, but individual bars set their own hours, so check each one before you go. It's heavily visited, so come early in the evening for a seat or late on a weekend for the full street-party crush."
 faq:
   - q: "Is Lan Kwai Fong in Sheung Wan or Central?"

@@ -1,8 +1,8 @@
 ---
-title: "Bairro Iao Hon Municipal Market: Coloane Village Travel Guide"
-description: "Bairro Iao Hon Municipal Market is listed under Coloane Village, but it actually sits on Rua do Mercado de Iao Hon in the northern Macau peninsula, a long way from Coloane. 4.2★ (102 reviews) — what visitors say, hours, and tips."
+title: 'Bairro Iao Hon Municipal Market: Macau Peninsula Travel Guide'
+description: "Bairro Iao Hon Municipal Market sits on Rua do Mercado de Iao Hon in the northern Macau peninsula. 4.2★ (102 reviews) — what visitors say, hours, and tips."
 country: "Macau"
-region: "Coloane Village"
+region: Macau Peninsula
 category: "hidden-gem"
 pubDate: "2026-10-08T10:01:15.842Z"
 heroImage:
@@ -52,12 +52,12 @@ place:
       - 11
     venueId: "ven_594b44496c36763636685252515441374a7954353635574a496843"
 tags:
-  - "coloane village"
-  - "local market"
-quickAnswer: "Bairro Iao Hon Municipal Market is listed under Coloane Village, but it actually sits on Rua do Mercado de Iao Hon in the northern Macau peninsula, a long way from Coloane. It is a neighbourhood wet market, open daily from 7am to 8pm. On weekdays it stays quiet all day; at weekends, arrive between 7am and 9am and avoid 10am to 12pm."
+  - macau peninsula
+  - local market
+quickAnswer: "Bairro Iao Hon Municipal Market sits on Rua do Mercado de Iao Hon in the northern Macau peninsula. It is a neighbourhood wet market, open daily from 7am to 8pm. On weekdays it stays quiet all day; at weekends, arrive between 7am and 9am and avoid 10am to 12pm."
 faq:
-  - q: "Is Bairro Iao Hon Municipal Market in Coloane Village?"
-    a: "No. Its address is Rua do Mercado de Iao Hon in the northern Macau peninsula. Coloane Village is at the southern tip of Macau, so plan the two as separate trips."
+  - q: "Where is Bairro Iao Hon Municipal Market?"
+    a: "On Rua do Mercado de Iao Hon, in the Iao Hon neighbourhood of the northern Macau peninsula."
   - q: "When is the quietest time to visit?"
     a: "On weekdays it is quiet the whole time it is open, from 7am to 8pm. At weekends the quiet window is 7am to 9am. Avoid 10am to 12pm on Saturdays and Sundays, which is the busiest stretch."
   - q: "What are the opening hours?"
@@ -70,11 +70,9 @@ aiGenerated: true
 draft: false
 ---
 
-## First, the map problem
+## Where it is
 
-This market is not in Coloane Village. Its address, Rua do Mercado de Iao Hon, puts it in the Iao Hon neighbourhood of the northern Macau peninsula. Coloane is at the far southern tip of the territory, past Taipa and Cotai.
-
-If your day is planned around Coloane's chapel and waterfront, this is a separate outing. Pair it with sights on the northern peninsula instead.
+The address, Rua do Mercado de Iao Hon, puts the market in the Iao Hon neighbourhood of the northern Macau peninsula. Pair it with other sights on the northern peninsula.
 
 In Cantonese the market is 祐漢街市, Iao Hon gaai si. Showing those characters to a taxi driver works better than the Portuguese street name.
 

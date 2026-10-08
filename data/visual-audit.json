@@ -2844,6 +2844,12 @@
   "reason": "publish gate: Narrow Macau street with colonial buildings, plausible Lilau Square area",
   "at": "2026-10-06T14:38:33.691Z"
  },
+ "barra-maritime-museum\u0001https://upload.wikimedia.org/wikipedia/commons/6/6b/Macau_Maritime_Museum_-_panoramio.jpg": {
+  "slug": "barra-maritime-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Dragon boat display plausibly representing Maritime Museum exhibit",
+  "at": "2026-10-08T07:40:56.072Z"
+ },
  "bath-museum-of-bath-at-work\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Museum_of_Bath_at_Work.jpg/1920px-Museum_of_Bath_at_Work.jpg": {
   "slug": "bath-museum-of-bath-at-work",
   "verdict": "MATCH",
@@ -4420,12 +4426,6 @@
   "reason": "publish gate: Market stalls with vendor goods, plausible Cancun market exterior",
   "at": "2026-10-08T07:39:51.528Z"
  },
- "cancun-xcaret-park\u0001https://upload.wikimedia.org/wikipedia/commons/2/27/The_Beach_at_Xcaret_Park.jpg": {
-  "slug": "cancun-xcaret-park",
-  "verdict": "MATCH",
-  "reason": "publish gate: Beach with palm trees, plausible Caribbean Cancun resort scene",
-  "at": "2026-10-06T07:44:25.763Z"
- },
  "cancun-yamil-lu-um\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Yamiluum1.JPG/1920px-Yamiluum1.JPG": {
   "slug": "cancun-yamil-lu-um",
   "verdict": "MATCH",
@@ -4656,6 +4656,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Memorial arch entrance within the gardens, representative view",
   "at": "2026-08-23T08:00:38.514Z"
+ },
+ "central-lan-kwai-fong\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/LKF_Street_View01.jpg/1920px-LKF_Street_View01.jpg": {
+  "slug": "central-lan-kwai-fong",
+  "verdict": "MATCH",
+  "reason": "publish gate: Nightlife street scene matches Lan Kwai Fong bar district",
+  "at": "2026-09-30T07:41:55.891Z"
  },
  "central-mak-s-noodle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Causeway_Bay_Mak%3Bs_Noodle_21-01-2023.jpg/3840px-Causeway_Bay_Mak%3Bs_Noodle_21-01-2023.jpg": {
   "slug": "central-mak-s-noodle",
@@ -5693,12 +5699,6 @@
   "reason": "publish gate: Pavilion exterior with panda statues, representative hero image",
   "at": "2026-10-06T14:36:06.946Z"
  },
- "coloane-poly-mgm-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Poly_MGM_Museum%2C_December_24%2C_2024_133.jpg/3840px-Poly_MGM_Museum%2C_December_24%2C_2024_133.jpg": {
-  "slug": "coloane-poly-mgm-museum",
-  "verdict": "MATCH",
-  "reason": "publish gate: Grand interior atrium representative of Poly MGM Museum building",
-  "at": "2026-10-07T07:39:01.022Z"
- },
  "coloane-village-bairro-iao-hon-municipal-market\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mercado_Municipal_do_Bairro_Iao_Hon_09-01-2024%281%29.jpg/3840px-Mercado_Municipal_do_Bairro_Iao_Hon_09-01-2024%281%29.jpg": {
   "slug": "coloane-village-bairro-iao-hon-municipal-market",
   "verdict": "MATCH",
@@ -6710,12 +6710,6 @@
   "reason": "Ancient ruins with Mediterranean landscape view",
   "reasonKo": "지중해 풍경이 보이는 고대 유적",
   "at": "2026-08-19T13:28:28.855Z"
- },
- "fisherman-s-wharf-maritime-museum\u0001https://upload.wikimedia.org/wikipedia/commons/6/6b/Macau_Maritime_Museum_-_panoramio.jpg": {
-  "slug": "fisherman-s-wharf-maritime-museum",
-  "verdict": "MATCH",
-  "reason": "publish gate: Dragon boat display plausibly representing Maritime Museum exhibit",
-  "at": "2026-10-08T07:40:56.072Z"
  },
  "florence-basilica-of-santa-croce-in-florence\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/View_of_Basilica_of_Santa_Croce_from_Giotto%27s_Bell_Tower._Florence%2C_Italy.jpg/1920px-View_of_Basilica_of_Santa_Croce_from_Giotto%27s_Bell_Tower._Florence%2C_Italy.jpg": {
   "slug": "florence-basilica-of-santa-croce-in-florence",
@@ -16036,6 +16030,12 @@
   "reason": "publish gate: Shows Legend Palace Hotel at Macau Fisherman's Wharf waterfront",
   "at": "2026-10-06T14:31:56.127Z"
  },
+ "nape-poly-mgm-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Poly_MGM_Museum%2C_December_24%2C_2024_133.jpg/3840px-Poly_MGM_Museum%2C_December_24%2C_2024_133.jpg": {
+  "slug": "nape-poly-mgm-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Grand interior atrium representative of Poly MGM Museum building",
+  "at": "2026-10-07T07:39:01.022Z"
+ },
  "nape-templo-de-kun-iam\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/20250805_Templo_de_Kun_Iam_da_Taipa.jpg/3840px-20250805_Templo_de_Kun_Iam_da_Taipa.jpg": {
   "slug": "nape-templo-de-kun-iam",
   "verdict": "MATCH",
@@ -18873,6 +18873,12 @@
   "reason": "publish gate: Underground cave lagoon matches Río Secreto's iconic scenery",
   "at": "2026-10-04T07:52:24.840Z"
  },
+ "playa-del-carmen-xcaret-park\u0001https://upload.wikimedia.org/wikipedia/commons/2/27/The_Beach_at_Xcaret_Park.jpg": {
+  "slug": "playa-del-carmen-xcaret-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Beach with palm trees, plausible Caribbean Cancun resort scene",
+  "at": "2026-10-06T07:44:25.763Z"
+ },
  "pohang-homigot\u0001https://upload.wikimedia.org/wikipedia/commons/a/a3/Homigot_Lighthouse_from_New_Millennium_Memorial_Hall.jpg": {
   "slug": "pohang-homigot",
   "verdict": "MATCH",
@@ -21668,12 +21674,6 @@
   "verdict": "MATCH",
   "reason": "patrol re-check: Chinese archway entrance, plausible entrance to Hollywood Road Park",
   "at": "2026-08-12T21:03:50.808Z"
- },
- "sheung-wan-lan-kwai-fong\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/LKF_Street_View01.jpg/1920px-LKF_Street_View01.jpg": {
-  "slug": "sheung-wan-lan-kwai-fong",
-  "verdict": "MATCH",
-  "reason": "publish gate: Nightlife street scene matches Lan Kwai Fong bar district",
-  "at": "2026-09-30T07:41:55.891Z"
  },
  "sheung-wan-liang-yi-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/LiangYi-Exterior.jpg/1920px-LiangYi-Exterior.jpg": {
   "slug": "sheung-wan-liang-yi-museum",

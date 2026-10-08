@@ -45,6 +45,8 @@ export const DEFAULTS = Object.freeze({
   clusterKm: 3,       // (b) 다른 구역 무리로 인정할 최대 거리
   kinMinKm: 10,       // Path 1b: 부모·자식 이름 주소를 증거로 삼는 절대 거리(그 구역이 더 가깝지 않을 때)
   catchAllMinRegions: 2, // 이름이 이만큼의 다른 구역 주소에 들어가면 포괄 라벨
+  thinFarKm: 5,       // Path 3: 피어 1~2편인 구역에서 이만큼 멀면
+  thinRatio: 3,       // …다른 구역 글이 이 배수 이상 가까울 때 잡는다
 });
 
 const EARTH_KM = 6371;
@@ -230,6 +232,11 @@ export function findRegionOutliers(posts, opts = {}) {
     const distanceKm = centre && hasCoords(p) ? haversineKm(p.lat, p.lng, centre.lat, centre.lng) : null;
     const geo = { distanceKm, spreadKm: centre?.spreadKm ?? null, peers: centre?.n ?? 0 };
 
+    // Path 0 — the guide says so itself (regionExcuse). Needs no peers and no
+    // coordinates: a new country's first guides are exactly where it fires.
+    const excuse = p.prose ? regionExcuse(p.prose, p.region) : null;
+    if (excuse) { out.push({ post: p, ...geo, evidence: { kind: 'prose', excerpt: excuse } }); continue; }
+
     // Path 1 — the address alone. "Sai Kung, New Territories" under region
     // "Lantau Island" IS the original class; it needs no peers and no distance
     // (Codex second pass: the distance+3-peer precondition left 12 of the 24
@@ -245,6 +252,32 @@ export function findRegionOutliers(posts, opts = {}) {
 
     // Everything below needs (a): far from its own region.
     if (!hasCoords(p)) continue;
+
+    // Path 3 — a THIN own region (1–2 committed posts) and a post far beyond
+    // anything a district spans. (a) needs three peers, so a new country's
+    // second day was judged by nobody: Macau's "Hac Sa" had two guides on the
+    // beach when three peninsula sights 9 km north arrived under that label
+    // (2026-10-07), passed, and became the majority — the next real Hac Sa
+    // trail was then the "outlier" and was held (10-08). The dense-city worry
+    // that set minPeers (a Bugis post 0.5 km from Kampong Glam) is about
+    // proximity; this asks for thinFarKm from the own region AND a committed
+    // post of another region several times nearer — a different regime.
+    // The spread factor of (a) applies too: Kampot's two guides lie 15 km
+    // apart, and Bokor Hill Station 24 km out is still Kampot province — it
+    // only "sat in" Kep because two Bokor-mountain guides are filed under Kep.
+    if (centre && centre.n < o.minPeers && !mentions(p.address, p.region)
+        && distanceKm > o.thinFarKm && distanceKm > o.spreadFactor * centre.spreadKm) {
+      let best = null;
+      for (const r of live) {
+        if (r === p.region || related.has(r)) continue;
+        const c = regionCentre((groups.get(`${p.country}|${r}`) ?? []).filter((q) => q !== p));
+        if (!c) continue;
+        const d = haversineKm(p.lat, p.lng, c.lat, c.lng);
+        if (d <= o.clusterKm && d * o.thinRatio < distanceKm && (!best || d < best.km)) best = { region: r, km: d };
+      }
+      if (best) { out.push({ post: p, ...geo, evidence: { kind: 'cluster', region: best.region, km: best.km } }); continue; }
+    }
+
     const hit = regionOutlier(p, peers, o);
     if (!hit) continue;
 
@@ -295,4 +328,53 @@ export function findRegionOutliers(posts, opts = {}) {
     if (best) out.push({ post: p, ...hit, evidence: { kind: 'cluster', region: best.region, km: best.km } });
   }
   return out;
+}
+
+/**
+ * The writer's own testimony that the region is wrong. Handed a region its
+ * facts contradict, the model does not refuse — it explains: "The Macao Museum,
+ * often listed under Hac Sa, actually sits inside Mount Fortress", "Old Hong
+ * Kong is often listed under Kennedy Town, but it is a themed zone inside Ocean
+ * Park", "Shilin Residence Park … not New Taipei". No such listing exists; the
+ * label is ours. Nine guides shipped that way before anyone read one
+ * (2026-10-08). Only phrases about the post's OWN region count — "listed under
+ * its old name" or "the 'trendy' tag fits" say nothing about the label.
+ * @returns {string|null} the offending excerpt
+ */
+export function regionExcuse(text, region) {
+  if (!text || !region) return null;
+  const r = escapeRe(String(region));
+  const re = new RegExp(
+    `(?:listed|filed|tagged|labell?ed|grouped|placed|put)\\s+under\\s+(?:the\\s+)?(?:broader\\s+|greater\\s+)?["“'‘]?${r}(?![\\p{L}\\p{N}])`
+    + `|["“'‘]${r}["”'’]\\s+(?:label|tag|listing|mix-up)`
+    // "not in Seattle proper" is an honest metro-area note (Bellevue), not an excuse.
+    + `|\\b(?:isn't|is\\s+not|not)\\s+(?:actually\\s+|really\\s+)?in\\s+${r}(?![\\p{L}\\p{N}])(?!\\s+proper\\b)`,
+    'iu',
+  );
+  const s = String(text);
+  const m = re.exec(s);
+  return m ? s.slice(Math.max(0, m.index - 50), m.index + m[0].length + 30).replace(/\s+/g, ' ').trim() : null;
+}
+
+/**
+ * The same judgement at BIRTH, for one search candidate. The generator's
+ * template queries ("best museum in Hac Sa Macau") return venues from the
+ * whole city, and the searched region used to be written onto whatever came
+ * back — so the gate held the guide, or worse, the writer saw the address
+ * disagree and invented an explanation ("often listed under Hac Sa, but it
+ * actually sits on the peninsula", nine guides found 2026-10-08). Asking the
+ * gate's question before the slug, title and article exist lets the guide be
+ * born under the region its own address and coordinates name.
+ * `committed` = the live posts in the shape findRegionOutliers takes.
+ * @returns {string|null} the region the evidence names, or null to keep the searched one
+ */
+export function regionAtBirth(cand, { country, region }, committed, opts = {}) {
+  if (!country || !region || !cand) return null;
+  const me = {
+    file: '(candidate)', country, region, lat: cand.lat, lng: cand.lng,
+    address: cand.address ? String(cand.address) : '', draft: false, inScope: true,
+  };
+  const peers = committed.filter((p) => p.country === country && !p.draft);
+  const hit = findRegionOutliers([...peers, me], opts).find((h) => h.post === me);
+  return hit?.evidence?.region ?? null;
 }

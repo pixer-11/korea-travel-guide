@@ -82,7 +82,7 @@ The layout is compact and deliberate. A covered walkway zigzags over the water, 
 
 ## Finding it from Mong Kok
 
-The garden's address puts it in Lai Chi Kok, technically its own neighbourhood but close enough that it's usually filed under greater Mong Kok on maps and reviews. From Mong Kok MTR, it's a few stops on the Tsuen Wan line to Lai Chi Kok station, then a short walk.
+The garden's address puts it in Lai Chi Kok, its own neighbourhood a few MTR stops from Mong Kok. From Mong Kok MTR, it's a few stops on the Tsuen Wan line to Lai Chi Kok station, then a short walk.
 
 Locals also reach it via the Lai Chi Kok Park complex, since the garden sits inside or adjacent to that larger park depending on which entrance you use. If you're coming from Mong Kok on foot or by bus along Cheung Sha Wan Road, look for the park's tree line rather than a standalone gate; it blends into the surrounding green space until you're at the entrance.
 

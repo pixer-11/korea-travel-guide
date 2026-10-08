@@ -1,6 +1,6 @@
 ---
 lang: ko
-slug: fisherman-s-wharf-maritime-museum
+slug: barra-maritime-museum
 srcHash: 'eb5d04ef4b58'
 title: '마카오 해양박물관: 피셔맨스 워프 여행 가이드 (4.3★)'
 description: 마카오 피셔맨스 워프 항목에 올라 있는 해양박물관은 실제로는 1 Largo do Pagode da Barra에 있습니다. 평점 4.3★(리뷰 249개)인 이곳의 방문객 후기와 운영 시간, 관람 팁을 정리했습니다.

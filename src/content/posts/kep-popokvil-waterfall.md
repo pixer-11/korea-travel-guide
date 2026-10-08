@@ -1,8 +1,8 @@
 ---
-title: "Popokvil Waterfall: Kep Travel Guide (4.0★)"
-description: "Popokvil Waterfall sits inside Bokor National Park, a winding drive above Kep and Kampot rather than in Kep town itself. 4.0★ (1,043 reviews) — what visitors say, hours, and tips."
+title: 'Popokvil Waterfall: Kampot Travel Guide (4.0★)'
+description: "Popokvil Waterfall sits inside Bokor National Park, on the plateau above Kampot. 4.0★ (1,043 reviews) — what visitors say, hours, and tips."
 country: "Cambodia"
-region: "Kep"
+region: Kampot
 category: "hidden-gem"
 pubDate: "2026-09-23T12:51:34.239Z"
 heroImage:
@@ -35,12 +35,12 @@ place:
     - "Saturday: Open 24 hours"
     - "Sunday: Open 24 hours"
 tags:
-  - "kep"
-  - "old quarter"
-quickAnswer: "Popokvil Waterfall sits inside Bokor National Park, a winding drive above Kep and Kampot rather than in Kep town itself. It's a two-tier cascade split by a walking trail, busiest in the wet season (roughly May to October) when the water actually flows. Go early, since the park's mountain fog and rain build up by mid-afternoon."
+  - kampot
+  - old quarter
+quickAnswer: "Popokvil Waterfall sits inside Bokor National Park, on the plateau above Kampot. It's a two-tier cascade split by a walking trail, busiest in the wet season (roughly May to October) when the water actually flows. Go early, since the park's mountain fog and rain build up by mid-afternoon."
 faq:
-  - q: "How do I get to Popokvil Waterfall from Kep?"
-    a: "It's about a 40-minute drive from Kep town through Kampot and up the Bokor plateau road. There's no public bus; rent a motorbike or arrange a tuk-tuk/car from Kampot."
+  - q: "How do I get to Popokvil Waterfall?"
+    a: "Take the Bokor plateau road that climbs from Kampot. There's no public bus; rent a motorbike or arrange a tuk-tuk/car from Kampot."
   - q: "When is the best time to see the waterfall flowing?"
     a: "Aim for the wet season, roughly May to October, when both tiers run full. In the dry season (November–April) the water can slow to a trickle or dry up entirely."
   - q: "How long should I spend at Popokvil?"
@@ -55,7 +55,7 @@ draft: false
 
 ## Getting to Bokor National Park
 
-Popokvil Waterfall isn't in Kep proper. It's up on the Bokor plateau, reached by a paved road that climbs from Kampot, about 40 minutes' drive from Kep town.
+Popokvil Waterfall is up on the Bokor plateau, reached by a paved road that climbs from Kampot.
 
 The address (M352+GG2, Phumi Pôpôk Vil) sits deep inside Bokor National Park, alongside the park's other big draws: the abandoned Bokor Hill Station, the old Catholic church, and Wat Sampov Pram. Most visitors combine all four in one loop, since they're on the same access road.
 

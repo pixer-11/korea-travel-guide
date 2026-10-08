@@ -1,6 +1,6 @@
 ---
 lang: ko
-slug: sheung-wan-lan-kwai-fong
+slug: central-lan-kwai-fong
 srcHash: 'bddc3e79e590'
 title: '란콰이펑: 성완 여행 가이드 (4.2★)'
 description: 성완에서 동쪽으로 조금만 걸으면 닿는 란콰이펑은 센트럴에서 술집이 가장 빽빽하게 모인 곳입니다. 비탈진 ㄱ자 골목과 바로 옆 다길라 스트리트에 바와 클럽, 레스토랑이 가득합니다. 평점 4.2★(리뷰 10,372개)를 바탕으로 방문객 후기와 운영 시간, 여행 팁을 정리했습니다.

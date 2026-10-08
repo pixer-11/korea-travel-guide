@@ -1,8 +1,8 @@
 ---
-title: "POLY MGM MUSEUM: Coloane Travel Guide (4.7★)"
-description: "The POLY MGM MUSEUM is listed under Coloane, but it actually sits on level L2 of MGM Macau on Avenida Dr. Sun Yat Sen in the NAPE district of the Macau peninsula, so don't head to Coloane village to find it. 4.7★ (136 reviews) — what visitors say, hours, and tips."
+title: 'POLY MGM MUSEUM: NAPE Travel Guide (4.7★)'
+description: "The POLY MGM MUSEUM sits on level L2 of MGM Macau on Avenida Dr. Sun Yat Sen in the NAPE district of the Macau peninsula. 4.7★ (136 reviews) — what visitors say, hours, and tips."
 country: "Macau"
-region: "Coloane"
+region: NAPE
 category: "attraction"
 pubDate: "2026-10-07T07:39:02.010Z"
 heroImage:
@@ -35,12 +35,12 @@ place:
     - "Saturday: 10:00 AM – 7:00 PM"
     - "Sunday: 10:00 AM – 7:00 PM"
 tags:
-  - "coloane"
-  - "museum"
-quickAnswer: "The POLY MGM MUSEUM is listed under Coloane, but it actually sits on level L2 of MGM Macau on Avenida Dr. Sun Yat Sen in the NAPE district of the Macau peninsula, so don't head to Coloane village to find it. It's a compact, consistently well rated gallery of rotating Chinese art exhibitions, open 11am–7pm on weekdays and 10am–7pm on weekends. Plan on about an hour."
+  - nape
+  - museum
+quickAnswer: "The POLY MGM MUSEUM sits on level L2 of MGM Macau on Avenida Dr. Sun Yat Sen in the NAPE district of the Macau peninsula. It's a compact, consistently well rated gallery of rotating Chinese art exhibitions, open 11am–7pm on weekdays and 10am–7pm on weekends. Plan on about an hour."
 faq:
-  - q: "Is the POLY MGM MUSEUM actually in Coloane?"
-    a: "No. It's on level L2 of MGM Macau, Avenida Dr. Sun Yat Sen, in the NAPE district of the Macau peninsula. Coloane is a separate area about 20 to 30 minutes south by road."
+  - q: "Where is the POLY MGM MUSEUM?"
+    a: "On level L2 of MGM Macau, Avenida Dr. Sun Yat Sen, in the NAPE district of the Macau peninsula."
   - q: "What are the opening hours?"
     a: "Monday to Friday 11am–7pm, and Saturday and Sunday 10am–7pm. It's open every day of the week."
   - q: "How long should I spend there?"
@@ -54,11 +54,9 @@ draft: true
 heldReason: wrong-region
 ---
 
-## Not Where the Listing Says
+## Inside MGM Macau
 
-Start with the map, because it matters. The museum's address is MGM Macau, level L2, on Avenida Dr. Sun Yat Sen in NAPE, the reclaimed waterfront district of the Macau peninsula. Coloane is the green, low-rise island at the far southern end of Macau, a 20 to 30 minute drive away.
-
-So the "Coloane" tag will take you to the wrong island. Put MGM Macau into the taxi app instead. The name tells you who runs it: China Poly Group, the state-owned company behind Beijing's Poly Art Museum, together with MGM. You get museum-grade Chinese art exhibitions inside a casino resort.
+The museum's address is MGM Macau, level L2, on Avenida Dr. Sun Yat Sen in NAPE, the reclaimed waterfront district of the Macau peninsula. Put MGM Macau into the taxi app. The name tells you who runs it: China Poly Group, the state-owned company behind Beijing's Poly Art Museum, together with MGM. You get museum-grade Chinese art exhibitions inside a casino resort.
 
 ## Inside the Gallery
 
@@ -91,4 +89,4 @@ The resort setting comes with a few practical habits:
 - **Pay as Macau does:** patacas and Hong Kong dollars are both widely accepted around the resort, and so are major cards.
 - **Try a weekend morning.** Saturday and Sunday opening at 10am gives you the galleries before the resort's afternoon crowd builds up.
 
-If you really did want Coloane, save it for a separate half-day: the village square, the Chapel of St. Francis Xavier and Hac Sa beach are all at the island's southern tip. Combine the museum with the peninsula instead, where it sits between the historic centre and the waterfront.
+Combine the museum with the rest of the peninsula: it sits between the historic centre and the waterfront.

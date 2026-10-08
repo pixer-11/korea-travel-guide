@@ -1,12 +1,10 @@
 ---
-title: 'Shilin Residence Park: New Taipei Travel Guide (4.7★)'
+title: 'Shilin Residence Park: Taipei Travel Guide (4.7★)'
 description: >-
-  Shilin Residence Park sits in Taipei's Shilin District (address technically
-  listed under Fulin Village, though most visitors reach it via Shilin, not New
-  Taipei proper) and is open daily from 8am to 6pm with free admission to the
+  Shilin Residence Park sits in Taipei's Shilin District and is open daily from 8am to 6pm with free admission to the
   gardens. 4.7★ (1,488 reviews) — what visitors say, hours, and tips.
 country: Taiwan
-region: New Taipei
+region: Taipei
 category: attraction
 pubDate: '2026-08-23T07:58:04.542Z'
 heroImage:
@@ -48,12 +46,10 @@ place:
     - 'Saturday: 8:00 AM – 6:00 PM'
     - 'Sunday: 8:00 AM – 6:00 PM'
 tags:
-  - new taipei
+  - taipei
   - park
 quickAnswer: >-
-  Shilin Residence Park sits in Taipei's Shilin District (address technically
-  listed under Fulin Village, though most visitors reach it via Shilin, not New
-  Taipei proper) and is open daily from 8am to 6pm with free admission to the
+  Shilin Residence Park sits in Taipei's Shilin District and is open daily from 8am to 6pm with free admission to the
   gardens. It's quietest on weekday mornings right after opening, before tour
   groups and school trips arrive. Budget 45–90 minutes to wander the Chinese and
   Western gardens plus the former residence itself.

@@ -1,10 +1,10 @@
 ---
-title: 'Old Hong Kong: Kennedy Town Travel Guide'
+title: 'Old Hong Kong: Aberdeen Travel Guide'
 description: >-
-  Old Hong Kong is often listed under Kennedy Town, but it actually sits inside
-  Ocean Park on Wong Chuk Hang Road.
+  Old Hong Kong is a replica 1950s street inside Ocean Park on Wong Chuk Hang
+  Road, on the south side of Hong Kong Island.
 country: Hong Kong
-region: Kennedy Town
+region: Aberdeen
 category: hidden-gem
 pubDate: '2026-09-29T07:49:49.067Z'
 heroImage:
@@ -42,26 +42,23 @@ place:
     - 'Saturday: 10:00 AM – 6:30 PM'
     - 'Sunday: 10:00 AM – 6:30 PM'
 tags:
-  - kennedy town
+  - aberdeen
   - old quarter
 quickAnswer: >-
-  Old Hong Kong is often listed under Kennedy Town, but it actually sits inside
-  Ocean Park on Wong Chuk Hang Road. It is a replica streetscape of
-  mid-20th-century Hong Kong, with antique trams and old-style shopfronts. From
-  Kennedy Town, take the MTR Island Line to Admiralty, then the South Island
-  Line one stop to Ocean Park. It is open Monday and Thursday to Sunday and
+  Old Hong Kong sits inside Ocean Park on Wong Chuk Hang Road. It is a replica
+  streetscape of mid-20th-century Hong Kong, with antique trams and old-style
+  shopfronts. Take the MTR South Island Line from Admiralty one stop to Ocean
+  Park. It is open Monday and Thursday to Sunday and
   closed on Tuesdays and Wednesdays.
 faq:
-  - q: Is Old Hong Kong actually in Kennedy Town?
+  - q: Where is Old Hong Kong?
     a: >-
-      No. It is often listed under Kennedy Town, but it is a themed zone inside
-      Ocean Park at 180 Wong Chuk Hang Road, on the south side of Hong Kong
-      Island.
-  - q: How do I get to Old Hong Kong from Kennedy Town?
+      It is a themed zone inside Ocean Park at 180 Wong Chuk Hang Road, on the
+      south side of Hong Kong Island.
+  - q: How do I get to Old Hong Kong?
     a: >-
-      Take the MTR Island Line from Kennedy Town Station to Admiralty. Change to
-      the South Island Line and ride one stop to Ocean Park Station, which is
-      next to the park entrance.
+      Take the MTR to Admiralty, change to the South Island Line and ride one
+      stop to Ocean Park Station, which is next to the park entrance.
   - q: Which days is Old Hong Kong open?
     a: >-
       It opens 10:00am to 6:00pm on Monday, Thursday and Friday, and 10:00am to
@@ -82,19 +79,18 @@ updatedDate: '2026-10-04'
 
 ## A 1950s street inside a theme park
 
-Start with the location, because it trips people up. Old Hong Kong isn't in Kennedy Town. It is a themed zone inside Ocean Park, at 180 Wong Chuk Hang Road on the island's south side. You walk through the park gates first, then into a stage-set version of the city your grandparents might remember.
+Old Hong Kong is a themed zone inside Ocean Park, at 180 Wong Chuk Hang Road on the island's south side. You walk through the park gates first, then into a stage-set version of the city your grandparents might remember.
 
 Everything here is built to look like mid-20th-century Hong Kong. You'll find antique trams parked along the street, painted shop signs and narrow frontages styled after the old-school shops that once lined Western District. It is a replica, not a heritage site. Treat it as a photo walk and a snack stop between rides, not a museum.
 
-## Getting there from Kennedy Town
+## Getting there
 
-The trip takes one change and is easy.
+The trip is easy from anywhere on the MTR.
 
-- Board the MTR **Island Line** at Kennedy Town Station, heading east.
-- Change at **Admiralty** to the **South Island Line**.
+- Ride to **Admiralty** and change to the **South Island Line**.
 - Ride one stop to **Ocean Park Station**. The park entrance is right beside the exit.
 
-Before you leave Kennedy Town, have a look at the real thing. The city's double-decker trams, known locally as the "ding ding", run to their western terminus in Kennedy Town. Seeing those first makes the replica trams at Old Hong Kong much more fun to compare.
+The city's real double-decker trams, known locally as the "ding ding", still run along the north shore of the island. Riding one before you go makes the replica trams at Old Hong Kong much more fun to compare.
 
 ## Opening days and planning your time
 
@@ -115,4 +111,4 @@ A little background makes the street much more interesting. Here is how to get t
 - **Go early or late.** Most visitors head straight for the big rides, so the replica street can feel busy or quiet depending on where the crowd has moved. If you want empty tram photos, walking through near opening or near closing is the safest reasoning.
 - **Know your expectations.** Reviews are mixed-to-positive. People who enjoy it treat it as nostalgia and scenery. People who complain expected a full attraction.
 
-Afterwards, ride the MTR back to Kennedy Town and walk the Belcher Bay waterfront. There you'll see the streets this zone is imitating, still in everyday use.
+Afterwards, the older streets of Western District on the north shore show the kind of shopfronts this zone is imitating, still in everyday use.

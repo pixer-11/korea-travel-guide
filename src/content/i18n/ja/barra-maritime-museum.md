@@ -1,6 +1,6 @@
 ---
 lang: ja
-slug: fisherman-s-wharf-maritime-museum
+slug: barra-maritime-museum
 srcHash: 'eb5d04ef4b58'
 title: マカオ海事博物館：フィッシャーマンズ・ワーフ旅行ガイド（4.3★）
 description: マカオのフィッシャーマンズ・ワーフの項目に載っている海事博物館ですが、実際の所在地は1 Largo do Pagode da Barraです。評価は4.3★（口コミ249件）。訪れた人の声や開館時間、見学のコツをまとめました。

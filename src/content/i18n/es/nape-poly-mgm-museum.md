@@ -1,6 +1,6 @@
 ---
 lang: es
-slug: coloane-poly-mgm-museum
+slug: nape-poly-mgm-museum
 srcHash: 'cc63a4a76a34'
 title: 'POLY MGM MUSEUM: guía de viaje de Coloane (4.7★)'
 description: 'Aunque figura en Coloane, el POLY MGM MUSEUM se encuentra en realidad en la planta L2 del MGM Macau, en la Avenida Dr. Sun Yat Sen del distrito de NAPE, en la península de Macao, así que no lo busque en el pueblo de Coloane. 4.7★ (136 reseñas): opiniones de los visitantes, horarios y consejos.'

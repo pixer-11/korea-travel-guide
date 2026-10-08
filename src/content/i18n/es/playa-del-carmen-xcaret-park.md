@@ -1,6 +1,6 @@
 ---
 lang: es
-slug: cancun-xcaret-park
+slug: playa-del-carmen-xcaret-park
 srcHash: 'c1095822b94b'
 title: 'Parque Xcaret: guía de viaje desde Cancún (4.8★)'
 description: Al sur de Playa del Carmen, junto al mar y a cerca de una hora de Cancún por la carretera 307, se encuentra el Parque Xcaret. Con una valoración de 4.8★ (118,448 reseñas), le contamos qué opinan los visitantes, cuál es su horario y algunos consejos útiles.

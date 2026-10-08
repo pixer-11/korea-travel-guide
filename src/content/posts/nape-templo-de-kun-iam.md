@@ -1,8 +1,8 @@
 ---
-title: "Templo de Kun Iam: NAPE Travel Guide (4.5★)"
-description: "Templo de Kun Iam, listed under NAPE in Macau and standing on Avenida do Coronel Mesquita, is a Ming-era Buddhist temple dedicated to the Goddess of Mercy. 4.5★ (353 reviews) — what visitors say, hours, and tips."
+title: 'Templo de Kun Iam: Macau Peninsula Travel Guide (4.5★)'
+description: "Templo de Kun Iam, on Avenida do Coronel Mesquita in the Mong Ha area of the Macau peninsula, is a Ming-era Buddhist temple dedicated to the Goddess of Mercy. 4.5★ (353 reviews) — what visitors say, hours, and tips."
 country: "Macau"
-region: "NAPE"
+region: Macau Peninsula
 category: "attraction"
 pubDate: "2026-10-06T14:34:52.863Z"
 heroImage:
@@ -48,9 +48,9 @@ place:
       - 14
     venueId: "ven_34436c7535777a7a44574e5251544137425344686161684a496843"
 tags:
-  - "nape"
-  - "Kun Iam Statue"
-quickAnswer: "Templo de Kun Iam, listed under NAPE in Macau and standing on Avenida do Coronel Mesquita, is a Ming-era Buddhist temple dedicated to the Goddess of Mercy. It has three halls in a row, a back garden shaded by banyans and the stone table where the 1844 Treaty of Wangxia was signed. It's open daily from 7am to 4pm. Go between 7am and 9am on weekdays, or 7am and 8am at weekends, and skip weekends from 10am to 3pm, when it's busiest."
+  - macau peninsula
+  - historic site
+quickAnswer: "Templo de Kun Iam, on Avenida do Coronel Mesquita in the Mong Ha area of the Macau peninsula, is a Ming-era Buddhist temple dedicated to the Goddess of Mercy. It has three halls in a row, a back garden shaded by banyans and the stone table where the 1844 Treaty of Wangxia was signed. It's open daily from 7am to 4pm. Go between 7am and 9am on weekdays, or 7am and 8am at weekends, and skip weekends from 10am to 3pm, when it's busiest."
 faq:
   - q: "When is the quietest time to visit Templo de Kun Iam?"
     a: "On weekdays it's quietest between 7am and 9am. At weekends, aim for 7am to 8am. Stay away on weekends from 10am to 3pm, which is the busiest stretch."
@@ -59,7 +59,7 @@ faq:
   - q: "How long should I spend there?"
     a: "Allow 45 minutes to an hour for the three halls and the banyan garden. Add time if you want to try the fortune sticks or sit in the garden."
   - q: "How do I get there?"
-    a: "The temple is on Avenida do Coronel Mesquita, a short walk from NAPE. Several city buses stop at the Kun Iam Temple stop, and a taxi from Senado Square takes about ten minutes."
+    a: "The temple is on Avenida do Coronel Mesquita in the Mong Ha area of the northern peninsula. Several city buses stop at the Kun Iam Temple stop, and a taxi from Senado Square takes about ten minutes."
   - q: "What else is nearby?"
     a: "Lin Fung Temple, Mong Ha Hill, Lou Lim Ieoc Garden and Sun Yat-sen Memorial House are all close by. Together they make an easy half-day in northern Macau."
 aiGenerated: true
@@ -111,7 +111,7 @@ A small donation box sits near the altars, and dropping in a few coins is the us
 
 ## Getting there and what's nearby
 
-The temple is on Avenida do Coronel Mesquita in the Mong Ha area, a short walk from the hotels and waterfront of NAPE. Several city buses stop at the "Kun Iam Temple" stop out front, and a taxi from the Senado Square area takes about ten minutes.
+The temple is on Avenida do Coronel Mesquita in the Mong Ha area of the northern peninsula. Several city buses stop at the "Kun Iam Temple" stop out front, and a taxi from the Senado Square area takes about ten minutes.
 
 You can join it with a few neighbours for a half-day in northern Macau:
 

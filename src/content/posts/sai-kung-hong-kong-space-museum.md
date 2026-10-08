@@ -58,8 +58,8 @@ tags:
   - "museum"
 quickAnswer: "The Hong Kong Space Museum sits on Salisbury Road in Tsim Sha Tsui, right on the Kowloon harbourfront. Its windowless egg-shaped dome houses a planetarium, Omnimax theatre and space exhibits, and it's closed Tuesdays. Weekends draw the biggest crowds between 12pm and 7pm, so aim for a morning slot right at 10am opening."
 faq:
-  - q: "Is the Hong Kong Space Museum actually in Sai Kung?"
-    a: "No, it's on Salisbury Road in Tsim Sha Tsui, Kowloon, though some regional travel listings file it under the broader Sai Kung area. It sits right on the harbourfront next to the Hong Kong Cultural Centre."
+  - q: "Where is the Hong Kong Space Museum?"
+    a: "On Salisbury Road in Tsim Sha Tsui, Kowloon. It sits right on the harbourfront next to the Hong Kong Cultural Centre."
   - q: "What are the opening hours?"
     a: "1pm–9pm Monday, Wednesday, Thursday and Friday; 10am–9pm Saturday and Sunday; closed all day Tuesday."
   - q: "When is the best time to avoid crowds?"

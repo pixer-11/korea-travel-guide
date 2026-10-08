@@ -1,8 +1,8 @@
 ---
-title: "Maritime Museum: Fisherman's Wharf Travel Guide (4.3★)"
-description: "The Maritime Museum listed under Fisherman's Wharf, Macau, is actually at 1 Largo do Pagode da Barra. 4.3★ (249 reviews) — what visitors say, hours, and tips."
+title: 'Maritime Museum: Barra Travel Guide (4.3★)'
+description: "The Maritime Museum is at 1 Largo do Pagode da Barra, on the Barra waterfront facing A-Ma Temple. 4.3★ (249 reviews) — what visitors say, hours, and tips."
 country: "Macau"
-region: "Fisherman's Wharf"
+region: Barra
 category: "attraction"
 pubDate: "2026-10-08T07:40:58.059Z"
 heroImage:
@@ -35,12 +35,12 @@ place:
     - "Saturday: 10:00 AM – 6:00 PM"
     - "Sunday: 10:00 AM – 6:00 PM"
 tags:
-  - "fisherman's wharf"
-  - "museum"
-quickAnswer: "The Maritime Museum listed under Fisherman's Wharf, Macau, is actually at 1 Largo do Pagode da Barra. That is the Barra waterfront facing A-Ma Temple, not the Fisherman's Wharf complex in the Outer Harbour. It opens 10am to 6pm every day except Tuesday, when it is closed. Allow 1 to 1.5 hours, and pair it with A-Ma Temple just across the square."
+  - barra
+  - museum
+quickAnswer: "The Maritime Museum is at 1 Largo do Pagode da Barra, on the Barra waterfront facing A-Ma Temple. It opens 10am to 6pm every day except Tuesday, when it is closed. Allow 1 to 1.5 hours, and pair it with A-Ma Temple just across the square."
 faq:
-  - q: "Is the Maritime Museum actually at Fisherman's Wharf?"
-    a: "No. Its address is 1 Largo do Pagode da Barra, on the Barra waterfront opposite A-Ma Temple. The Fisherman's Wharf complex is on the other side of the peninsula in the Outer Harbour. Ask for A-Ma Temple (Ma Kok Miu) to get there."
+  - q: "Where is the Maritime Museum?"
+    a: "At 1 Largo do Pagode da Barra, on the Barra waterfront opposite A-Ma Temple. Ask for A-Ma Temple (Ma Kok Miu) to get there."
   - q: "What days is the Maritime Museum closed?"
     a: "It closes on Tuesdays. Every other day, Monday included, it opens from 10am to 6pm."
   - q: "How long should I spend there?"
@@ -60,13 +60,9 @@ The museum stands right on the water. A pale, angular building sits at the south
 
 Inside, the subject is narrow and deep: the fishing communities of the South China coast and the sea routes that made Macau. It has been here a long time. It also sits slightly off the main tourist circuit, so the galleries are often far calmer than the temple courtyard a minute's walk away.
 
-## Which Fisherman's Wharf?
+## Finding it
 
-Clear up one thing before you set off. Map apps and listings sometimes file this museum under Fisherman's Wharf. That name belongs to the themed waterfront complex in the Outer Harbour, near the ferry terminal and the NAPE casino strip.
-
-The museum is nowhere near it. Its address is 1 Largo do Pagode da Barra, in the Barra district on the opposite side of the peninsula. Send a taxi driver to "Fisherman's Wharf" and you will end up on the wrong coast.
-
-Ask instead for the Maritime Museum by A-Ma Temple. The Chinese name of the temple, Ma Kok Miu, is the landmark every driver knows.
+The address is 1 Largo do Pagode da Barra, in the Barra district at the southern tip of the peninsula. Ask for the Maritime Museum by A-Ma Temple. The Chinese name of the temple, Ma Kok Miu, is the landmark every driver knows.
 
 ## Three floors of junks, nets and navigators
 

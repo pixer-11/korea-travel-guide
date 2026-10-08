@@ -67,6 +67,9 @@ let USED_IMAGE_URLS = new Set();
 // (≈ hero search + 2-4 vision calls + writer call) thrown away per hit.
 let EXISTING_SLUGS = new Set();
 let USED_TOPIC_KEYS = new Set();
+// Committed posts in the region gate's shape, for regionAtBirth() — read once
+// per run, so this run's own guides are never each other's alibi.
+let REGION_POSTS = [];
 // Posts whose in-body photo failed for a TRANSIENT reason this run (Commons
 // 429 after retries, a fetch that threw). Retried once at the end of the run
 // by retryInBodyPhotos(); a miss there is final and the weekly patrol's job.
@@ -304,6 +307,10 @@ async function main() {
   const usedTopicKeys = await loadUsedTopicKeys();
   EXISTING_SLUGS = existing;
   USED_TOPIC_KEYS = usedTopicKeys;
+  {
+    const { loadRegionPosts } = await import('./lib/region-posts.mjs');
+    REGION_POSTS = loadRegionPosts(POSTS_DIR);
+  }
 
   // Per-country fill cap. When TARGET_PER_COUNTRY is set (e.g. the backfill
   // workflow uses 58), a country that already has that many published guides is
@@ -946,11 +953,24 @@ async function buildLivePost(target) {
   let place = null;
   let hero = null;
   LAST_HERO_VERDICT = null;
+  const { regionAtBirth } = await import('./lib/region-outlier.mjs');
+  const searched = target;
   for (const cand of results) {
+    target = searched;
     if (!checkPlace(cand, { country: target.country }).ok) continue;
     // English-site guard: a name with no Latin letters would make a Hangul slug.
     if (!/[a-z0-9]/i.test(cand.name || '')) continue;
     if (cand.id && USED_PLACE_IDS.has(cand.id)) continue;
+    // The region is the venue's, not the query's. A template search for "best
+    // museum in Hac Sa Macau" answered with the Macao Museum on the peninsula,
+    // and the guide was filed under Hac Sa — then the writer, seeing the
+    // address disagree, invented "often listed under Hac Sa" (2026-10-08).
+    // Ask the region gate now, before the slug, title and article exist.
+    const moved = regionAtBirth(cand, target, REGION_POSTS);
+    if (moved && moved !== target.region) {
+      console.log(`  🧭  "${cand.name}" — searched under ${target.region}, but its address/coordinates say ${moved}; filing it there`);
+      target = { ...searched, region: moved };
+    }
     // Already a post under this slug, or the same landmark under another
     // wording? Decide NOW, before the hero search, vision checks and writer
     // call — the same two checks the finished post faces below, moved up.

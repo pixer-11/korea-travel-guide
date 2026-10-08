@@ -1,8 +1,8 @@
 ---
-title: "El Castillo: Playa del Carmen Travel Guide (4.9★)"
+title: 'El Castillo: Merida Travel Guide (4.9★)'
 description: "El Castillo is the step pyramid at the centre of Chichén Itzá in Tinum, Yucatán, a day trip of roughly two and a half to three hours by road from Playa del Carmen. 4.9★ (25,151 reviews) — what visitors say, hours, and tips."
 country: "Mexico"
-region: "Playa del Carmen"
+region: Merida
 category: "attraction"
 pubDate: "2026-10-06T14:20:35.029Z"
 heroImage:
@@ -49,8 +49,8 @@ place:
       - 15
     venueId: "ven_4577374342777843323033523859553467726a6a5579494a496843"
 tags:
-  - "playa del carmen"
-  - "historic site"
+  - merida
+  - historic site
 quickAnswer: "El Castillo is the step pyramid at the centre of Chichén Itzá in Tinum, Yucatán, a day trip of roughly two and a half to three hours by road from Playa del Carmen. The site is open daily from 8am to 4pm. The quietest hour is 8am–9am every day; weekends stay busy from 10am to 4pm."
 faq:
   - q: "How far is El Castillo from Playa del Carmen?"
@@ -75,7 +75,7 @@ At the foot of the north stairway, two carved serpent heads rest on the ground. 
 
 ## Getting there from Playa del Carmen
 
-El Castillo is not in Playa del Carmen. It stands at Chichén Itzá, next to the village of Pisté in the municipality of Tinum, Yucatán. Coming from the Riviera Maya, most people take Highway 180D, the toll road towards Mérida.
+El Castillo stands at Chichén Itzá, next to the village of Pisté in the municipality of Tinum, Yucatán. Coming from the Riviera Maya, most people take Highway 180D, the toll road towards Mérida.
 
 - **Drive:** about 2.5–3 hours each way. Pisté has the nearest hotels if you'd rather sleep close by.
 - **Bus:** ADO runs services from Playa del Carmen. Check the schedule, because the timings don't always fit a morning arrival.

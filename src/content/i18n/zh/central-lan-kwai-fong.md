@@ -1,6 +1,6 @@
 ---
 lang: zh
-slug: sheung-wan-lan-kwai-fong
+slug: central-lan-kwai-fong
 srcHash: 'bddc3e79e590'
 title: 兰桂坊：上环旅游指南（4.2★）
 description: 兰桂坊位于上环以东，步行不远即到，是中环酒吧最密集的夜生活街区。一条L形斜巷和相邻的德己立街上，酒吧、夜店与餐厅挤得满满当当。评分4.2★（10,372条评价），本文汇总游客评价、开放时间与实用贴士。

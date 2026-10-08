@@ -1,8 +1,8 @@
 ---
-title: "Camoes Garden: Coloane Travel Guide (4.2★)"
-description: "Camoes Garden is often filed under Coloane, but it actually sits on the Macau Peninsula at Praça de Luís de Camões, about a 10-minute walk from the Ruins of St. Paul's, not in Coloane village. 4.2★ (515 reviews) — what visitors say, hours, and tips."
+title: 'Camoes Garden: Macau Peninsula Travel Guide (4.2★)'
+description: "Camoes Garden sits on the Macau Peninsula at Praça de Luís de Camões, about a 10-minute walk from the Ruins of St. Paul's. 4.2★ (515 reviews) — what visitors say, hours, and tips."
 country: "Macau"
-region: "Coloane"
+region: Macau Peninsula
 category: "attraction"
 pubDate: "2026-10-07T07:45:44.987Z"
 heroImage:
@@ -33,12 +33,12 @@ place:
     - "Saturday: 6:00 AM – 12:00 AM"
     - "Sunday: 6:00 AM – 12:00 AM"
 tags:
-  - "coloane"
-  - "park"
-quickAnswer: "Camoes Garden is often filed under Coloane, but it actually sits on the Macau Peninsula at Praça de Luís de Camões, about a 10-minute walk from the Ruins of St. Paul's, not in Coloane village. It's open daily from 6am to midnight. Go early in the morning for the shade and the exercise crowd, and allow an hour to take in the bronze bust of Camões plus the Casa Garden and Old Protestant Cemetery next door."
+  - macau peninsula
+  - park
+quickAnswer: "Camoes Garden sits on the Macau Peninsula at Praça de Luís de Camões, about a 10-minute walk from the Ruins of St. Paul's. It's open daily from 6am to midnight. Go early in the morning for the shade and the exercise crowd, and allow an hour to take in the bronze bust of Camões plus the Casa Garden and Old Protestant Cemetery next door."
 faq:
-  - q: "Is Camoes Garden actually in Coloane?"
-    a: "No. Some listings put it under Coloane, but it's on the Macau Peninsula at Praça de Luís de Camões, about a 10-minute walk north of the Ruins of St. Paul's."
+  - q: "Where is Camoes Garden?"
+    a: "On the Macau Peninsula at Praça de Luís de Camões, about a 10-minute walk north of the Ruins of St. Paul's."
   - q: "What are the opening hours?"
     a: "It's open every day from 6:00am to midnight, with the same hours seven days a week."
   - q: "How long should I spend there?"
@@ -51,11 +51,9 @@ aiGenerated: true
 draft: false
 ---
 
-## Not in Coloane, and that matters
+## Finding it
 
-Start with the map, because the listing misleads. Camoes Garden turns up in some directories under Coloane. It is actually on the Macau Peninsula, at the top of Praça de Luís de Camões in Santo António parish.
-
-If you take a bus out to Coloane village looking for it, you'll end up on the wrong island with no garden. Set your map to the peninsula. It's a short uphill walk past St. Anthony's Church from the Ruins of St. Paul's.
+Camoes Garden is on the Macau Peninsula, at the top of Praça de Luís de Camões in Santo António parish. It's a short uphill walk past St. Anthony's Church from the Ruins of St. Paul's.
 
 ## A hillside of roots and granite
 
@@ -100,4 +98,4 @@ The garden stays open until midnight every day of the week. The evening is coole
 
 Several city bus routes stop at Praça de Luís de Camões, right at the entrance. Check the current numbers on the stop display or the DSAT transport app. On foot from Senado Square, follow the signs to the Ruins of St. Paul's. Then continue north along Rua de Santo António for about 10 minutes.
 
-Taxis know it as the Camões Garden or 白鴿巢. Showing the Chinese characters to the driver saves confusion, especially because of the Coloane mix-up.
+Taxis know it as the Camões Garden or 白鴿巢. Showing the Chinese characters to the driver saves confusion.

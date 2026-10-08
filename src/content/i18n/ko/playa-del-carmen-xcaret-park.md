@@ -1,6 +1,6 @@
 ---
 lang: ko
-slug: cancun-xcaret-park
+slug: playa-del-carmen-xcaret-park
 srcHash: 'c1095822b94b'
 title: '스카렛 파크: 칸쿤 여행 가이드 (4.8★)'
 description: 스카렛 파크는 칸쿤에서 307번 고속도로를 따라 남쪽으로 차로 1시간쯤 달리면 나오는 플라야 델 카르멘 바로 남쪽 해안에 있습니다. 4.8★(리뷰 118,448개)를 받은 이곳의 방문객 후기와 운영 시간, 여행 팁을 정리했습니다.

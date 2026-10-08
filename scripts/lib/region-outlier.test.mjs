@@ -264,7 +264,8 @@ test('고정 표본: 09-02 수리 전 24편을 이번 발행분으로 재생하�
     'bugis-supertree-grove',                        // cluster: Marina Bay
     'central-avenue-of-stars-hk',                   // address: Tsim Sha Tsui
     'clarke-quay-artscience-museum',                // cluster: Marina Bay
-    'fujairah-shees-park',                          // address: Sharjah
+    'dempsey-hill-pasar-geylang-serai',             // Path 3 (10-08): 두 편짜리 Dempsey Hill 에서 먼 곳
+    'fujairah-shees-park',                         // address: Sharjah
     'jordan-hong-kong-heritage-museum',             // address: Sha Tin
     'jordan-victoria-peak-garden',                  // cluster: Central
     'kampong-glam-telok-blangah-hill-park',         // cluster: Sentosa
@@ -274,9 +275,9 @@ test('고정 표본: 09-02 수리 전 24편을 이번 발행분으로 재생하�
     'sai-kung-hong-kong-space-museum',              // address: Tsim Sha Tsui
     'sha-tin-hong-kong-science-museum',             // address: Tsim Sha Tsui
   ];
-  // 못 잡는 10편(주소가 어떤 라이브 구역도 안 부르고, 3편 이상 무리 안에 있지도
+  // 못 잡는 9편(주소가 어떤 라이브 구역도 안 부르고, 3편 이상 무리 안에 있지도
   // 않다): al-barsha-dubai-gold-souk(Al Ras) · al-barsha-hindu-temple-dubai(Jebel Ali)
-  // · saadiyat-island-hudayriyat-island · dempsey-hill-pasar-geylang-serai("Singapore")
+  // · saadiyat-island-hudayriyat-island
   // · bugis-lee-kong-chian…(Conservatory Dr) · jumeirah-dubai-old-village(Al Hamriya)
   // · east-coast-national-museum-of-singapore(Stamford Rd) · jordan-jordan-valley-park
   // (Cha Liu Au) · jumeirah-zabeel-park(Zabeel) · tiong-bahru-national-gallery-singapore.
@@ -324,4 +325,91 @@ test('Path 1b: 부모 구역에 더 가깝거나 10 km 넘게 떨어졌으면 �
   const arts = { file: 'arts.md', country: 'Taiwan', region: 'Alishan', lat: 23.5570, lng: 120.4280, address: 'Minxiong Township, Chiayi County', draft: true };
   const hits = findRegionOutliers([...alishan, ...chiayi, arts]);
   assert.ok(hits.find((h) => h.post.file === 'arts.md'), 'a guide 37 km out whose address names Chiayi must still be held');
+});
+
+// 2026-10-08: a new country's thin regions were judged by nobody. Real Macau
+// coordinates — two Hac Sa guides on the beach, peninsula sights 9 km north.
+test('Path 3: 피어 1~2편인 구역에서 아주 멀고 다른 구역 글 곁이면 잡는다 (마카오 10-07)', () => {
+  const hacSa = [
+    { file: 'beach.md', country: 'Macau', region: 'Hac Sa', lat: 22.1217, lng: 113.5713, address: 'Hac Sa Beach, Macao' },
+    { file: 'park.md', country: 'Macau', region: 'Hac Sa', lat: 22.1179, lng: 113.5690, address: 'Estr. Nova de Hac Sa, Macao' },
+  ];
+  const peninsula = [
+    { file: 'loukau.md', country: 'Macau', region: 'Macau Peninsula', lat: 22.1942, lng: 113.5412, address: '7 Tv. da Se, Macao' },
+    { file: 'senado.md', country: 'Macau', region: 'Macau Peninsula', lat: 22.1935, lng: 113.5398, address: '11 Largo do Senado, Macao' },
+  ];
+  const museum = { file: 'museum.md', country: 'Macau', region: 'Hac Sa', lat: 22.1972, lng: 113.5422, address: '112 Praceta do Museu de Macau, Macao', inScope: true };
+  const trail = { file: 'trail.md', country: 'Macau', region: 'Hac Sa', lat: 22.1158, lng: 113.5736, address: '4H8F+8C7, Macao', inScope: true };
+  const hits = findRegionOutliers([...hacSa, ...peninsula, museum, trail]);
+  const m = hits.find((h) => h.post.file === 'museum.md');
+  assert.ok(m, 'a peninsula museum filed under Hac Sa must be held');
+  assert.equal(m.evidence.region, 'Macau Peninsula');
+  assert.equal(hits.find((h) => h.post.file === 'trail.md'), undefined, 'the real Hac Sa trail passes');
+});
+
+test('Path 3 역방향: 넓게 퍼진 두 편짜리 구역(캄폿)의 먼 글은 넘긴다', () => {
+  const kampot = [
+    { file: 'k1.md', country: 'Cambodia', region: 'Kampot', lat: 10.6100, lng: 104.1800, address: 'Kampot, Cambodia' },
+    { file: 'k2.md', country: 'Cambodia', region: 'Kampot', lat: 10.7200, lng: 104.2800, address: 'Kampot, Cambodia' },
+  ];
+  const kep = [
+    { file: 'p1.md', country: 'Cambodia', region: 'Kep', lat: 10.6588, lng: 104.0513, address: 'Phumi Pôpôk Vil, Cambodia' },
+    { file: 'p2.md', country: 'Cambodia', region: 'Kep', lat: 10.6299, lng: 104.0174, address: 'Cambodia' },
+  ];
+  const bokor = { file: 'bokor.md', country: 'Cambodia', region: 'Kampot', lat: 10.6221, lng: 104.0266, address: 'Phumi Pôpôk Vil, Cambodia' };
+  assert.equal(findRegionOutliers([...kampot, ...kep, bokor]).find((h) => h.post.file === 'bokor.md'), undefined);
+  // 촘촘한 도시의 근접(0.5 km)은 여전히 판정하지 않는다.
+  const bugis = [{ file: 'b1.md', country: 'Singapore', region: 'Bugis', lat: 1.3000, lng: 103.8550, address: 'Singapore' }];
+  const glam = [
+    { file: 'g1.md', country: 'Singapore', region: 'Kampong Glam', lat: 1.3020, lng: 103.8590, address: 'Singapore' },
+    { file: 'g2.md', country: 'Singapore', region: 'Kampong Glam', lat: 1.3025, lng: 103.8600, address: 'Singapore' },
+  ];
+  const near = { file: 'near.md', country: 'Singapore', region: 'Bugis', lat: 1.3015, lng: 103.8585, address: 'Singapore', inScope: true };
+  assert.equal(findRegionOutliers([...bugis, ...glam, near]).length, 0);
+});
+
+test('regionAtBirth: 검색 구역과 다른 곳의 후보는 증거가 가리키는 구역으로 태어난다', async () => {
+  const { regionAtBirth } = await import('./region-outlier.mjs');
+  const committed = [
+    { file: 'beach.md', country: 'Macau', region: 'Hac Sa', lat: 22.1217, lng: 113.5713, address: 'Hac Sa Beach, Macao', draft: false },
+    { file: 'park.md', country: 'Macau', region: 'Hac Sa', lat: 22.1179, lng: 113.5690, address: 'Estr. Nova de Hac Sa, Macao', draft: false },
+    { file: 'loukau.md', country: 'Macau', region: 'Macau Peninsula', lat: 22.1942, lng: 113.5412, address: '7 Tv. da Se, Macao', draft: false },
+    { file: 'senado.md', country: 'Macau', region: 'Macau Peninsula', lat: 22.1935, lng: 113.5398, address: '11 Largo do Senado, Macao', draft: false },
+    { file: 'far.md', country: 'Hong Kong', region: 'Central', lat: 22.28, lng: 114.16, address: 'Central', draft: false },
+  ];
+  const museum = { lat: 22.1972, lng: 113.5422, address: '112 Praceta do Museu de Macau, Macao' };
+  assert.equal(regionAtBirth(museum, { country: 'Macau', region: 'Hac Sa' }, committed), 'Macau Peninsula');
+  const trail = { lat: 22.1158, lng: 113.5736, address: '4H8F+8C7, Macao' };
+  assert.equal(regionAtBirth(trail, { country: 'Macau', region: 'Hac Sa' }, committed), null);
+  // 주소가 다른 구역을 부르면 피어 없이도 옮긴다.
+  assert.equal(regionAtBirth({ lat: 22.12, lng: 113.57, address: '1918 Estr. de Hac Sa, Macao' }, { country: 'Macau', region: 'Coloane Village' }, committed), 'Hac Sa');
+  // 좌표 없는 후보·나라 없는 대상은 건드리지 않는다.
+  assert.equal(regionAtBirth({ address: 'Macao' }, { country: 'Macau', region: 'Hac Sa' }, committed), null);
+  assert.equal(regionAtBirth(museum, { region: 'Hac Sa' }, committed), null);
+});
+
+test('regionExcuse: 자기 구역에 대한 지어낸 해명을 잡고, 정직한 대도시권 설명은 넘긴다 (10-08)', async () => {
+  const { regionExcuse } = await import('./region-outlier.mjs');
+  for (const [text, region] of [
+    ['The Macao Museum, often listed under Hac Sa, actually sits inside Mount Fortress.', 'Hac Sa'],
+    ['Old Hong Kong is often listed under Kennedy Town, but it is a themed zone inside Ocean Park.', 'Kennedy Town'],
+    ["It's usually filed under greater Mong Kok on maps and reviews.", 'Mong Kok'],
+    ['El Castillo is not in Playa del Carmen. It stands at Chichén Itzá.', 'Playa del Carmen'],
+    ['About that "Hac Sa" label: the museum is on the peninsula.', 'Hac Sa'],
+  ]) assert.ok(regionExcuse(text, region), text);
+  for (const [text, region] of [
+    ['The temple sits in Bellevue, not in Seattle proper, so plan your drive.', 'Seattle'],
+    ['Exit at Xujing East, which you may see listed under its old name.', 'Shanghai'],
+    ['The "trendy" tag fits: considered interiors.', 'Sharjah'],
+    ['Hac Sa Beach is the black-sand beach of Coloane.', 'Hac Sa'],
+    ['It is not in Seoulsan, a different place.', 'Seoul'],
+  ]) assert.equal(regionExcuse(text, region), null, text);
+});
+
+test('Path 0: 본문이 스스로 구역을 부정하면 피어·좌표 없이도 잡는다', () => {
+  const p = { file: 'x.md', country: 'Macau', region: 'Hac Sa', address: 'Macao', inScope: true,
+    prose: 'The Macao Museum, often listed under Hac Sa, actually sits inside Mount Fortress.' };
+  const hits = findRegionOutliers([p]);
+  assert.equal(hits.length, 1);
+  assert.equal(hits[0].evidence.kind, 'prose');
 });

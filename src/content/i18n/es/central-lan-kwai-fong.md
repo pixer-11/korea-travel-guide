@@ -1,6 +1,6 @@
 ---
 lang: es
-slug: sheung-wan-lan-kwai-fong
+slug: central-lan-kwai-fong
 srcHash: 'bddc3e79e590'
 title: 'Lan Kwai Fong: guía de viaje de Sheung Wan (4.2★)'
 description: 'A pocos minutos a pie al este de Sheung Wan, Lan Kwai Fong concentra la vida nocturna más intensa de Central: una callejuela en pendiente con forma de L y la vecina D''Aguilar Street reúnen bares, discotecas y restaurantes. 4.2★ (10,372 reseñas): opiniones de los visitantes, horarios y consejos.'
