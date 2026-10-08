@@ -19,6 +19,7 @@ import sharp from 'sharp';
 import yaml from 'js-yaml';
 import { cropWindowTop, focusKey } from './lib/head-box.mjs';
 import { imageFetch } from './lib/image-fetch.mjs';
+import { wikimediaThumb } from '../src/lib/wikimediaThumb.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
@@ -102,7 +103,14 @@ async function main() {
   // served immutable for a year, so a re-cut under the same name must be a
   // new URL) — see wall.ts for the 2026-08-23 case.
   const withCut = (p, f) => p + (focusKey(f) ? `?c=${focusKey(f).replace(/[^a-z0-9]+/gi, '-')}` : '');
-  for (const { url, focus } of urls) {
+  // Two passes: a hero that failed (throttled) in pass 1 is tried once more
+  // after a pause, when the remote host has cooled down. Counted as failed
+  // only if pass 2 fails too.
+  let queue = [...urls];
+  for (let pass = 1; pass <= 2 && queue.length; pass++) {
+  if (pass === 2) { console.log(`\n↻ retrying ${queue.length} throttled hero(es) after a pause`); await sleep(30000); }
+  const retry = [];
+  for (const { url, focus } of queue) {
     const name = `${hash(url)}.webp`;
     const outPath = join(OUT_DIR, name);
     const publicPath = `/wall/${name}`;
@@ -122,7 +130,13 @@ async function main() {
         // empty that way (the same nine rebuilt 9/9 minutes later, from the
         // same files — the photos were fine, the moment was not). politeFetch
         // honours Retry-After, same as mirror-og-images and backfill-hero-focus.
-        const res = await imageFetch(url, { ua: UA, tries: 3, baseMs: 3000 });
+        // Fetch a 1280px rendition, not the stored hero (often 3840px). The
+        // card is 640×427; a 3840 original is ~10× the bytes, and on
+        // 2026-10-08 the discovery run's 40 big downloads drew HTTP 429 on two
+        // new event heroes even after 3 polite retries — two blank cards. The
+        // thumb NAME stays the hash of the stored URL (wall.ts looks it up by
+        // that), only the download gets smaller. Never upscales (see helper).
+        const res = await imageFetch(wikimediaThumb(url, 1280), { ua: UA, tries: 3, baseMs: 3000 });
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         buf = Buffer.from(await res.arrayBuffer());
       }
@@ -167,9 +181,12 @@ async function main() {
       console.log(`  ✓ ${name}`);
       if (!url.startsWith('/')) await sleep(350); // be polite to remote hosts only
     } catch (e) {
+      if (pass === 1 && !url.startsWith('/')) { retry.push({ url, focus }); console.log(`  … ${url.slice(0, 64)} — ${e.message} (will retry)`); continue; }
       failed++;
       console.log(`  ⚠️  ${url.slice(0, 64)} — ${e.message}`);
     }
+  }
+  queue = retry;
   }
 
   await writeFile(CUT_WITH, JSON.stringify(cutWith, null, 0) + '\n', 'utf8');

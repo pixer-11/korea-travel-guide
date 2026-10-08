@@ -42,9 +42,9 @@ export const REGION_TZ = {
   'United States': {
     'New York': ET, Boston: ET, Miami: ET, 'Washington DC': ET, Philadelphia: ET,
     'East Rutherford': ET, Foxborough: ET,
-    Chicago: CT, 'New Orleans': CT, Austin: CT, Nashville: CT, 'Kansas City': CT,
+    Chicago: CT, 'New Orleans': CT, Austin: CT, Nashville: CT, 'Kansas City': CT, Dallas: CT,
     'Los Angeles': PT, 'San Francisco': PT, 'Las Vegas': PT, Seattle: PT,
-    'San Diego': PT, Portland: PT, Gardena: PT,
+    'San Diego': PT, Portland: PT, Gardena: PT, 'Indian Wells': PT,
     Honolulu: 'Pacific/Honolulu', Tempe: 'America/Phoenix', // Arizona keeps no daylight time
     // Arlington (TX or VA?) and Sturgis (SD or MI?) are deliberately absent.
   },
