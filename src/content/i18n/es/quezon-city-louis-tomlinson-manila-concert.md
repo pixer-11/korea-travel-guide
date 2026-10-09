@@ -3,11 +3,11 @@ lang: es
 slug: quezon-city-louis-tomlinson-manila-concert
 srcHash: 'd53dcafac1f8'
 title: 'Concierto de Louis Tomlinson en Manila: fecha, entradas y recinto (Quezon City)'
-description: Louis Tomlinson actuará en Manila el October 17, 2026 en el Smart Araneta Coliseum de Cubao (Quezon City), el pabellón cubierto por una cúpula al que los vecinos llaman el Big Dome.
-quickAnswer: Louis Tomlinson actuará en Manila el October 17, 2026 en el Smart Araneta Coliseum de Cubao (Quezon City), el pabellón cubierto por una cúpula al que los vecinos llaman el Big Dome. La forma más cómoda de llegar es en el MRT-3 o el LRT-2 hasta la estación Araneta Center–Cubao. Antes de comprar, compruebe el horario, la distribución de asientos y la venta de entradas en la web oficial y en los canales del promotor.
+description: Louis Tomlinson actuará en Manila el 17 de octubre de 2026 en el Smart Araneta Coliseum de Cubao (Quezon City), el pabellón cubierto por una cúpula al que los vecinos llaman el Big Dome.
+quickAnswer: Louis Tomlinson actuará en Manila el 17 de octubre de 2026 en el Smart Araneta Coliseum de Cubao (Quezon City), el pabellón cubierto por una cúpula al que los vecinos llaman el Big Dome. La forma más cómoda de llegar es en el MRT-3 o el LRT-2 hasta la estación Araneta Center–Cubao. Antes de comprar, compruebe el horario, la distribución de asientos y la venta de entradas en la web oficial y en los canales del promotor.
 faq:
   - q: ¿Cuándo y dónde es el concierto de Louis Tomlinson en Manila?
-    a: Está anunciado para el October 17, 2026 en el Smart Araneta Coliseum, en Araneta City (Cubao, Quezon City). Confirme el horario exacto en la web oficial y en el anuncio del promotor.
+    a: Está anunciado para el 17 de octubre de 2026 en el Smart Araneta Coliseum, en Araneta City (Cubao, Quezon City). Confirme el horario exacto en la web oficial y en el anuncio del promotor.
   - q: ¿Cuál es la mejor forma de llegar al Smart Araneta Coliseum?
     a: Tome el MRT-3 o el LRT-2 hasta la estación Araneta Center–Cubao y, desde allí, camine hasta el Coliseum atravesando o bordeando el Gateway Mall. Las noches de concierto, el tren suele ser más rápido que ir en coche por la EDSA.
   - q: ¿Dónde conviene comprar las entradas?
@@ -20,7 +20,7 @@ faq:
 
 ## Una antigua voz de One Direction bajo el Big Dome
 
-El October 17, 2026, Louis Tomlinson se sube al escenario en Manila. El concierto tendrá lugar en el Smart Araneta Coliseum de Quezon City, un pabellón circular coronado por una cúpula que, desde su inauguración en 1960, acoge por costumbre las grandes veladas bajo techo del área metropolitana de Manila.
+El 17 de octubre de 2026, Louis Tomlinson se sube al escenario en Manila. El concierto tendrá lugar en el Smart Araneta Coliseum de Quezon City, un pabellón circular coronado por una cúpula que, desde su inauguración en 1960, acoge por costumbre las grandes veladas bajo techo del área metropolitana de Manila.
 
 Tras su etapa como cantante de One Direction, Tomlinson ha ido construyendo una sólida trayectoria en solitario. Con sus discos *Walls* y *Faith in the Future*, sus directos adquirieron un sonido de guitarras muy presente y con aires de britpop. Cuente con un público que se sabe todas las letras, incluidos los seguidores de la época de 1D que lo acompañan desde el principio.
 
@@ -28,7 +28,7 @@ Tras su etapa como cantante de One Direction, Tomlinson ha ido construyendo una 
 
 Estos son los datos anunciados:
 
-- **Fecha:** October 17, 2026
+- **Fecha:** 17 de octubre de 2026
 - **Recinto:** Smart Araneta Coliseum, Araneta City, Cubao, Quezon City
 - **Artista:** Louis Tomlinson
 

@@ -3,11 +3,11 @@ lang: es
 slug: naha-naha-great-tug-of-war
 srcHash: 'a7af3a333f83'
 title: 'Gran Tira y Afloja de Naha: fechas, entradas y ubicación (Naha)'
-description: El Gran Tira y Afloja de Naha se celebra el October 11, 2026 en Naha (Okinawa), en el cruce de Kumoji de la Ruta 58. La entrada es libre y no hace falta entrada.
-quickAnswer: El Gran Tira y Afloja de Naha se celebra el October 11, 2026 en Naha (Okinawa), en el cruce de Kumoji de la Ruta 58. Es gratuito y no se necesitan entradas. Lo más práctico es bajarse del monorraíl Yui Rail en Kencho-mae o en Asahibashi y llegar a pie hasta la cuerda. Antes de salir, conviene consultar los horarios en la web oficial.
+description: El Gran Tira y Afloja de Naha se celebra el 11 de octubre de 2026 en Naha (Okinawa), en el cruce de Kumoji de la Ruta 58. La entrada es libre y no hace falta entrada.
+quickAnswer: El Gran Tira y Afloja de Naha se celebra el 11 de octubre de 2026 en Naha (Okinawa), en el cruce de Kumoji de la Ruta 58. Es gratuito y no se necesitan entradas. Lo más práctico es bajarse del monorraíl Yui Rail en Kencho-mae o en Asahibashi y llegar a pie hasta la cuerda. Antes de salir, conviene consultar los horarios en la web oficial.
 faq:
   - q: ¿Cuándo se celebra el Gran Tira y Afloja de Naha en 2026?
-    a: Tendrá lugar el domingo October 11, 2026, coincidiendo con el fin de semana del Festival de Naha. En la web oficial del festival se confirman los horarios de inicio y cualquier aplazamiento por mal tiempo.
+    a: Tendrá lugar el domingo 11 de octubre de 2026, coincidiendo con el fin de semana del Festival de Naha. En la web oficial del festival se confirman los horarios de inicio y cualquier aplazamiento por mal tiempo.
   - q: ¿Hay que comprar entradas para el Gran Tira y Afloja de Naha?
     a: No. El acceso es gratuito y no existen entradas. El público puede seguirlo desde la calle y sumarse al tirón agarrando las cuerdas laterales.
   - q: ¿Dónde se celebra exactamente y cómo se llega?
@@ -26,7 +26,7 @@ De la soga principal salen, como si fueran costillas, cientos de cuerdas lateral
 
 ## Fecha, entradas y el cruce de Kumoji
 
-En 2026, el tirón se celebra el domingo **October 11, 2026**. Suele coincidir con el puente del Día del Deporte de Japón y forma parte del Festival de Naha, de programa más amplio.
+En 2026, el tirón se celebra el domingo **11 de octubre de 2026**. Suele coincidir con el puente del Día del Deporte de Japón y forma parte del Festival de Naha, de programa más amplio.
 
 - **Entradas:** no hay. El acceso es gratuito y el público puede verlo desde la calle y participar en el tirón.
 - **Lugar:** cruce de Kumoji (久茂地交差点), en la Ruta 58, en el centro de Naha. Queda a poca distancia a pie del extremo occidental de Kokusai-dori.

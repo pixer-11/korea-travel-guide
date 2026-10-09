@@ -3,11 +3,11 @@ lang: es
 slug: jakarta-babymonster-jakarta-concert
 srcHash: '72ad26a14478'
 title: 'Concierto de BABYMONSTER en Yakarta: fechas, entradas y recinto (Yakarta)'
-description: BABYMONSTER actuará en Yakarta el October 17, 2026. El concierto será en el Indonesia Arena, dentro del complejo deportivo Gelora Bung Karno, en Senayan (Yakarta Central).
-quickAnswer: BABYMONSTER actuará en Yakarta el October 17, 2026. El concierto será en el Indonesia Arena, dentro del complejo deportivo Gelora Bung Karno, en Senayan (Yakarta Central). Consulte en la web oficial del promotor las entradas, la hora de inicio y las normas de acceso. Para llegar, lo más cómodo es tomar el MRT hasta la estación de Istora Mandiri, con lo que se ahorrará casi todo el tráfico de Senayan.
+description: BABYMONSTER actuará en Yakarta el 17 de octubre de 2026. El concierto será en el Indonesia Arena, dentro del complejo deportivo Gelora Bung Karno, en Senayan (Yakarta Central).
+quickAnswer: BABYMONSTER actuará en Yakarta el 17 de octubre de 2026. El concierto será en el Indonesia Arena, dentro del complejo deportivo Gelora Bung Karno, en Senayan (Yakarta Central). Consulte en la web oficial del promotor las entradas, la hora de inicio y las normas de acceso. Para llegar, lo más cómodo es tomar el MRT hasta la estación de Istora Mandiri, con lo que se ahorrará casi todo el tráfico de Senayan.
 faq:
   - q: ¿Cuándo y dónde es el concierto de BABYMONSTER en Yakarta?
-    a: El concierto será el October 17, 2026 en el Indonesia Arena, situado en el complejo deportivo Gelora Bung Karno (GBK) de Senayan, en Yakarta Central. La hora de inicio y los detalles de acceso deben confirmarse en la web oficial del promotor.
+    a: El concierto será el 17 de octubre de 2026 en el Indonesia Arena, situado en el complejo deportivo Gelora Bung Karno (GBK) de Senayan, en Yakarta Central. La hora de inicio y los detalles de acceso deben confirmarse en la web oficial del promotor.
   - q: ¿Cuál es la mejor forma de llegar al Indonesia Arena?
     a: Lo más práctico es tomar la línea Norte–Sur del MRT hasta la estación de Istora Mandiri y cruzar a pie el recinto del GBK. También le sirven la estación de MRT de Senayan, el Corredor 1 de TransJakarta (parada Gelora Bung Karno) y la estación de KRL de Palmerah. En coche, la Jalan Sudirman avanza muy despacio las noches de concierto y, a determinadas horas, rige la restricción de circulación por matrícula par e impar.
   - q: ¿Necesito un documento de identidad para entrar o para canjear la entrada?
@@ -18,9 +18,9 @@ faq:
     a: No olvide la entrada y el documento de identidad original. Lleve también el bastón luminoso oficial bien cargado, un poncho plegable para la lluvia de octubre y una aplicación de pago compatible con QRIS o billetes pequeños de rupias. Como en los recintos del GBK se revisan los bolsos, consulte antes la lista oficial de objetos prohibidos.
 ---
 
-## October 17, Senayan
+## 17 de octubre, Senayan
 
-La cita es el October 17, 2026. Ese día, BABYMONSTER, el grupo femenino de siete integrantes de YG Entertainment, lleva su espectáculo al Indonesia Arena de Yakarta (Jakarta). Lo forman Ruka, Pharita, Asa, Ahyeon, Rami, Rora y Chiquita.
+La cita es el 17 de octubre de 2026. Ese día, BABYMONSTER, el grupo femenino de siete integrantes de YG Entertainment, lleva su espectáculo al Indonesia Arena de Yakarta (Jakarta). Lo forman Ruka, Pharita, Asa, Ahyeon, Rami, Rora y Chiquita.
 
 La fecha y el recinto anunciados son lo único fijo, así que conviene organizar todo lo demás en torno a ellos. La hora de inicio, las categorías de entradas y las normas de acceso deben confirmarse en la web oficial del promotor y en los canales oficiales de BABYMONSTER, que son las únicas fuentes fiables.
 

@@ -3,11 +3,11 @@ lang: es
 slug: quezon-city-izna-manila-debut-concert
 srcHash: 'f59cf2da7bee'
 title: 'Concierto debut de izna en Manila: fechas, entradas y recinto (Ciudad Quezón)'
-description: El grupo femenino de K-pop izna ofrecerá su primer concierto en Filipinas el sábado, October 17, 2026, en el EVM Convention Center de Ciudad Quezón, como parte de la gira 'WHO DAT GIRL?'.
-quickAnswer: El sábado, October 17, 2026, el grupo femenino de K-pop izna ofrecerá su primer concierto en Filipinas. La cita será en el EVM Convention Center de Ciudad Quezón (Quezon City) y forma parte de la gira 'WHO DAT GIRL?' Concert Tour. Las categorías de entrada, los precios y los planos de asientos deben consultarse en la página oficial de venta, nunca en la de los revendedores. Lo habitual entre los fans es llegar en Grab o en la línea MRT-3, con tiempo de sobra por el tráfico que satura EDSA los sábados.
+description: El grupo femenino de K-pop izna ofrecerá su primer concierto en Filipinas el sábado, 17 de octubre de 2026, en el EVM Convention Center de Ciudad Quezón, como parte de la gira 'WHO DAT GIRL?'.
+quickAnswer: El sábado, 17 de octubre de 2026, el grupo femenino de K-pop izna ofrecerá su primer concierto en Filipinas. La cita será en el EVM Convention Center de Ciudad Quezón (Quezon City) y forma parte de la gira 'WHO DAT GIRL?' Concert Tour. Las categorías de entrada, los precios y los planos de asientos deben consultarse en la página oficial de venta, nunca en la de los revendedores. Lo habitual entre los fans es llegar en Grab o en la línea MRT-3, con tiempo de sobra por el tráfico que satura EDSA los sábados.
 faq:
   - q: ¿Cuándo y dónde se celebra el concierto debut de izna en Manila?
-    a: Tendrá lugar el sábado, October 17, 2026, en el EVM Convention Center de Ciudad Quezón, dentro del Gran Manila. Es la parada filipina del grupo en su gira 'WHO DAT GIRL?' Concert Tour.
+    a: Tendrá lugar el sábado, 17 de octubre de 2026, en el EVM Convention Center de Ciudad Quezón, dentro del Gran Manila. Es la parada filipina del grupo en su gira 'WHO DAT GIRL?' Concert Tour.
   - q: ¿Cómo se llega al EVM Convention Center?
     a: La mayoría de los fans pide un Grab con la dirección del recinto que figura impresa en la entrada. Otros recorren EDSA en la línea MRT-3 y cubren el último tramo con un trayecto corto. Como los sábados el tráfico en EDSA es muy denso, el viaje suele durar más de lo que indica el mapa.
   - q: ¿Dónde se consultan los precios y los planos de asientos?
@@ -20,7 +20,7 @@ faq:
 
 ## Una primera noche en Manila
 
-Lo de izna no se quedó en un programa de telerrealidad. El grupo nació en *I-LAND 2: N/a*, el programa de supervivencia de Mnet, y debutó a finales de 2024 bajo el sello WAKEONE. El sábado, October 17, 2026, la gira 'WHO DAT GIRL?' Concert Tour llega a Ciudad Quezón (Quezon City) con el concierto con el que el grupo debuta en Filipinas.
+Lo de izna no se quedó en un programa de telerrealidad. El grupo nació en *I-LAND 2: N/a*, el programa de supervivencia de Mnet, y debutó a finales de 2024 bajo el sello WAKEONE. El sábado, 17 de octubre de 2026, la gira 'WHO DAT GIRL?' Concert Tour llega a Ciudad Quezón (Quezon City) con el concierto con el que el grupo debuta en Filipinas.
 
 Al tratarse de la gira de debut, la noche se sostiene más en la energía del público que en el despliegue escénico. El escenario es el de un centro de convenciones y no el de un estadio, así que desde la pista las integrantes se ven más de cerca. El público filipino de K-pop tiene fama de corear los cánticos de apoyo a pleno pulmón y sin equivocarse en una sola palabra, y la primera visita de un grupo joven suele avivar aún más ese entusiasmo.
 

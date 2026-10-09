@@ -3,7 +3,7 @@ lang: es
 slug: bangkok-bigbang-world-tour-xx-cosmos-in-bangkok
 srcHash: 'cc373dc370e6'
 title: 'BIGBANG World Tour [XX : COSMOS] en Bangkok: fecha, entradas y recinto'
-description: 'La gira mundial de BIGBANG [XX : COSMOS] llega a Bangkok el November 7, 2026 y se celebrará en el Estadio Nacional Rajamangala, en la zona de Hua Mak.'
+description: 'La gira mundial de BIGBANG [XX : COSMOS] llega a Bangkok el 7 de noviembre de 2026 y se celebrará en el Estadio Nacional Rajamangala, en la zona de Hua Mak.'
 quickAnswer: 'El 7 de noviembre de 2026, la gira mundial de BIGBANG [XX : COSMOS] hará escala en Bangkok, concretamente en el Estadio Nacional Rajamangala (Rajamangala National Stadium), situado en la zona de Hua Mak. Es la parada tailandesa de la gira 2026-2027 del grupo. Las entradas y los planos de asientos los distribuye el promotor del espectáculo a través de sus canales oficiales. Como ninguna línea ferroviaria para junto a las puertas del estadio, la mayoría de los fans llega en el Airport Rail Link y completa el último tramo con un breve trayecto en taxi o en Grab.'
 faq:
   - q: '¿Cuándo y dónde actúa BIGBANG con [XX : COSMOS] en Bangkok?'

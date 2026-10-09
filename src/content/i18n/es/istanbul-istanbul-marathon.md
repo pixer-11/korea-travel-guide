@@ -3,11 +3,11 @@ lang: es
 slug: istanbul-istanbul-marathon
 srcHash: '9525597c11ca'
 title: 'Maratón de Estambul: fechas, inscripción y recorrido (Estambul)'
-description: La 48.ª edición del Maratón de Estambul se celebra el November 1, 2026. Sale de las inmediaciones del Puente de los Mártires del 15 de Julio, en la orilla asiática, y llega a Sultanahmet, en la ciudad vieja.
-quickAnswer: El Maratón de Estambul 2026 se celebra el November 1, 2026. En esta 48.ª edición, la salida está junto al Puente de los Mártires del 15 de Julio (15 July Martyrs Bridge), en la orilla asiática, y la meta se sitúa en Sultanahmet, en el casco antiguo de la ciudad. Para consultar la inscripción, los dorsales, los horarios de salida y los cortes de tráfico, conviene acudir a la web oficial del Maratón de Estambul.
+description: La 48.ª edición del Maratón de Estambul se celebra el 1 de noviembre de 2026. Sale de las inmediaciones del Puente de los Mártires del 15 de Julio, en la orilla asiática, y llega a Sultanahmet, en la ciudad vieja.
+quickAnswer: El Maratón de Estambul 2026 se celebra el 1 de noviembre de 2026. En esta 48.ª edición, la salida está junto al Puente de los Mártires del 15 de Julio (15 July Martyrs Bridge), en la orilla asiática, y la meta se sitúa en Sultanahmet, en el casco antiguo de la ciudad. Para consultar la inscripción, los dorsales, los horarios de salida y los cortes de tráfico, conviene acudir a la web oficial del Maratón de Estambul.
 faq:
   - q: ¿Cuándo se celebra el Maratón de Estambul 2026?
-    a: La 48.ª edición del Maratón de Estambul se disputa el November 1, 2026. Los horarios de salida y la información sobre las tandas figuran en la web oficial del Maratón de Estambul.
+    a: La 48.ª edición del Maratón de Estambul se disputa el 1 de noviembre de 2026. Los horarios de salida y la información sobre las tandas figuran en la web oficial del Maratón de Estambul.
   - q: ¿Dónde están la salida y la meta del Maratón de Estambul?
     a: La salida se sitúa junto al Puente de los Mártires del 15 de Julio, en la orilla asiática. Desde allí, la carrera cruza el Bósforo hasta Europa y termina en Sultanahmet, en la ciudad vieja. Por el camino pasa por el Palacio de Dolmabahçe y el Puente de Gálata.
   - q: ¿Cómo me inscribo o consigo dorsal para el Maratón de Estambul?
@@ -20,7 +20,7 @@ faq:
 
 ## Una carrera que sale de un continente
 
-La línea de salida está en Asia. El November 1, 2026 se disputa el Maratón de Estambul 2026, que alcanza así su 48.ª edición. Los corredores se concentran en las inmediaciones del Puente de los Mártires del 15 de Julio (15 July Martyrs Bridge). Es el puente colgante que cruza el Bósforo y al que casi todo el mundo sigue llamando «el primer puente».
+La línea de salida está en Asia. El 1 de noviembre de 2026 se disputa el Maratón de Estambul 2026, que alcanza así su 48.ª edición. Los corredores se concentran en las inmediaciones del Puente de los Mártires del 15 de Julio (15 July Martyrs Bridge). Es el puente colgante que cruza el Bósforo y al que casi todo el mundo sigue llamando «el primer puente».
 
 Los primeros kilómetros transcurren sobre el tablero del puente. El resto del año solo circulan por él vehículos de autopista y está prohibido el paso a pie, pero la mañana de la carrera queda en manos de los corredores. A sus pies se ven el agua, los transbordadores y los minaretes de la orilla europea. Antes de que en otras carreras se haya completado siquiera la vuelta de calentamiento, aquí ya se ha llegado a Europa.
 

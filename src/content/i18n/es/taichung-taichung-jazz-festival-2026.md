@@ -3,11 +3,11 @@ lang: es
 slug: taichung-taichung-jazz-festival-2026
 srcHash: '7ce43c098975'
 title: 'Festival de Jazz de Taichung 2026: fechas, entradas y recinto (Taichung)'
-description: El Festival de Jazz de Taichung 2026 se celebrará del October 16-25, 2026 en la Plaza Cívica de Taichung, en el distrito de Xitun.
-quickAnswer: Del October 16-25, 2026, la Plaza Cívica de Taichung (Taichung Civic Square), situada en el distrito de Xitun, acoge el Festival de Jazz de Taichung 2026. Entre los artistas anunciados figuran el trío cubano de Alfredo Rodríguez y el trío italiano de Alessio Menconi. Conviene consultar en la web oficial del festival los horarios, el programa completo y la información sobre entradas, si las hubiera.
+description: El Festival de Jazz de Taichung 2026 se celebrará del 16–25 de octubre de 2026 en la Plaza Cívica de Taichung, en el distrito de Xitun.
+quickAnswer: Del 16–25 de octubre de 2026, la Plaza Cívica de Taichung (Taichung Civic Square), situada en el distrito de Xitun, acoge el Festival de Jazz de Taichung 2026. Entre los artistas anunciados figuran el trío cubano de Alfredo Rodríguez y el trío italiano de Alessio Menconi. Conviene consultar en la web oficial del festival los horarios, el programa completo y la información sobre entradas, si las hubiera.
 faq:
   - q: ¿Cuándo se celebra el Festival de Jazz de Taichung 2026?
-    a: Las fechas anunciadas son del October 16-25, 2026. Los horarios de cada jornada se publican en la web oficial del festival.
+    a: Las fechas anunciadas son del 16–25 de octubre de 2026. Los horarios de cada jornada se publican en la web oficial del festival.
   - q: ¿Dónde tiene lugar el festival?
     a: En la Plaza Cívica de Taichung, en el distrito de Xitun, muy cerca del bulevar Taiwán (Taiwan Boulevard). Desde el Museo Nacional de Ciencias Naturales se llega a la plaza a través del Corredor Verde de la Caligrafía (Calligraphy Greenway).
   - q: ¿Hace falta entrada?
@@ -22,7 +22,7 @@ faq:
 
 Frente al escenario se extiende una gran explanada de hierba. La Plaza Cívica de Taichung (Taichung Civic Square) es un amplio espacio llano de césped y pavimento en el distrito de Xitun, rodeado de torres de viviendas y comercios. Durante el Festival de Jazz de Taichung se transforma en un recinto de conciertos al aire libre donde el público, en lugar de apiñarse en filas de butacas, se reparte por la hierba delante del escenario.
 
-Según lo anunciado, la edición de 2026 se celebrará del **October 16-25, 2026**. Organizado por las autoridades culturales de Taichung, es uno de los festivales de jazz urbanos con más trayectoria de Taiwán. La mayoría de los años combina grupos taiwaneses con figuras internacionales en gira.
+Según lo anunciado, la edición de 2026 se celebrará del **16–25 de octubre de 2026**. Organizado por las autoridades culturales de Taichung, es uno de los festivales de jazz urbanos con más trayectoria de Taiwán. La mayoría de los años combina grupos taiwaneses con figuras internacionales en gira.
 
 ## Quién actúa en 2026
 

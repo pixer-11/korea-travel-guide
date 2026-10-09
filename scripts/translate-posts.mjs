@@ -29,6 +29,7 @@ import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
 import { fixCjkBold, brokenBoldLine, literalBoldCount } from './lib/cjk-bold.mjs';
+import { localizeEnglishDates } from './lib/localize-dates.mjs';
 import { reflow } from '../src/lib/paragraphs.mjs';
 import { koMangledSyllables } from './lib/ko-syllables.mjs';
 // The nightly audit and this write gate judge wrong-language output by the
@@ -627,6 +628,14 @@ async function translateOne(langCode, srcId, data, hash, attempt = 1, pre = null
   out.quickAnswer = unescapeEntities(out.quickAnswer);
   if (Array.isArray(out.faq)) out.faq = out.faq.map((f) => (f && typeof f === 'object' ? { ...f, q: unescapeEntities(f.q), a: unescapeEntities(f.a) } : f));
 
+  // An English date the model left as it was ("November 22, 2026에") becomes
+  // the language's own date — a rewrite, not a model call (lib/localize-dates, 10-09).
+  const D = (t) => (typeof t === 'string' ? localizeEnglishDates(t, langCode) : t);
+  out.title = D(out.title);
+  out.description = D(out.description);
+  out.quickAnswer = D(out.quickAnswer);
+  out.body = D(out.body);
+  if (Array.isArray(out.faq)) out.faq = out.faq.map((f) => (f && typeof f === 'object' ? { ...f, q: D(f.q), a: D(f.a) } : f));
   const fm = {
     lang: langCode,
     slug: srcId,

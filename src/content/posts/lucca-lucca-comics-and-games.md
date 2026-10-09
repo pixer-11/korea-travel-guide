@@ -1,22 +1,22 @@
 ---
 title: 'Lucca Comics and Games: Dates, Tickets & Venue (Lucca)'
-description: Lucca Comics and Games 2026 is scheduled for November 13-18, 2026, and it runs inside and around the Renaissance walls of Lucca's historic centre in Tuscany.
+description: Lucca Comics and Games 2026 is scheduled for October 28 to November 1, 2026, and it runs inside and around the Renaissance walls of Lucca's historic centre in Tuscany.
 country: Italy
 region: Lucca
 category: event
 pubDate: '2026-10-01'
-eventStartDate: '2026-11-13'
-eventEndDate: '2026-11-18'
+eventStartDate: '2026-10-28'
+eventEndDate: '2026-11-01'
 eventRecurring: true
 eventFactsAsked: true
 gallery: []
 tags:
   - lucca
   - event
-quickAnswer: Lucca Comics and Games 2026 is scheduled for November 13-18, 2026, and it runs inside and around the Renaissance walls of Lucca's historic centre in Tuscany. You need a ticket for the exhibition pavilions in the piazzas, but the streets themselves are open to everyone. Book your bed early and come by train to Lucca station, just south of the walls. Confirm timing and tickets on the official site.
+quickAnswer: Lucca Comics and Games 2026 is scheduled for October 28 to November 1, 2026, and it runs inside and around the Renaissance walls of Lucca's historic centre in Tuscany. You need a ticket for the exhibition pavilions in the piazzas, but the streets themselves are open to everyone. Book your bed early and come by train to Lucca station, just south of the walls. Confirm timing and tickets on the official site.
 faq:
   - q: When is Lucca Comics and Games 2026?
-    a: The 2026 edition is announced for November 13-18, 2026, in the historic centre of Lucca, Tuscany. Confirm the exact dates and daily programme on the official Lucca Comics and Games site.
+    a: The 2026 edition is announced for October 28 to November 1, 2026, in the historic centre of Lucca, Tuscany. Confirm the exact dates and daily programme on the official Lucca Comics and Games site.
   - q: Do I need a ticket to go to Lucca Comics and Games?
     a: You need one for the exhibition pavilions and ticketed areas, where the publishers, game studios and artists' tables are. The streets, piazzas and walls of Lucca are open to everyone, and much of the cosplay happens there. Ticket types and prices are listed on the official site.
   - q: How do I get to Lucca Comics and Games by train?
@@ -41,7 +41,7 @@ heroImage:
 
 Most conventions happen in a hall. This one fills a medieval city.
 
-For the 2026 edition, announced for **November 13-18, 2026**, Lucca Comics and Games spreads through the old centre of Lucca. It is one of the largest comics, games and pop-culture gatherings in the world. Exhibitor pavilions go up in the squares, and Via Fillungo turns into a slow river of capes, armour and foam swords.
+For the 2026 edition, announced for **October 28 to November 1, 2026**, Lucca Comics and Games spreads through the old centre of Lucca. It is one of the largest comics, games and pop-culture gatherings in the world. Exhibitor pavilions go up in the squares, and Via Fillungo turns into a slow river of capes, armour and foam swords.
 
 The setting is the whole point. Lucca's brick Renaissance walls run in an unbroken loop around the centre, and the event sits inside that ring. You walk between game publishers and comic artists along streets laid out in Roman times. You pass Romanesque church fronts on the way.
 

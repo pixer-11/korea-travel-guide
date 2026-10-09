@@ -3,11 +3,11 @@ lang: es
 slug: tokyo-jason-mraz-asia-tour
 srcHash: '88bf1e2ebb5b'
 title: 'Gira asiática de Jason Mraz: fechas, entradas y recinto (Tokio)'
-description: Jason Mraz regresa a Japón tras siete años de ausencia. Su gira asiática hace parada en el Tokyo Garden Theater de Ariake (Tokio) y en el Festival Hall de Osaka los días November 10-11, 2026.
-quickAnswer: Jason Mraz vuelve a actuar en Japón por primera vez en siete años. Dentro de su gira asiática, tocará en el Tokyo Garden Theater de Ariake (Tokio) y en el Festival Hall de Osaka los días November 10-11, 2026. Para llegar a Ariake puede tomar la línea Yurikamome hasta la estación de Ariake-tennis-no-mori o la línea Rinkai hasta la estación de Kokusai-Tenjijo. Consulte en la web oficial qué noche corresponde a Tokio y compre allí sus entradas, sin recurrir a otros canales.
+description: Jason Mraz regresa a Japón tras siete años de ausencia. Su gira asiática hace parada en el Tokyo Garden Theater de Ariake (Tokio) y en el Festival Hall de Osaka los días 10–11 de noviembre de 2026.
+quickAnswer: Jason Mraz vuelve a actuar en Japón por primera vez en siete años. Dentro de su gira asiática, tocará en el Tokyo Garden Theater de Ariake (Tokio) y en el Festival Hall de Osaka los días 10–11 de noviembre de 2026. Para llegar a Ariake puede tomar la línea Yurikamome hasta la estación de Ariake-tennis-no-mori o la línea Rinkai hasta la estación de Kokusai-Tenjijo. Consulte en la web oficial qué noche corresponde a Tokio y compre allí sus entradas, sin recurrir a otros canales.
 faq:
   - q: ¿Cuándo y dónde actúa Jason Mraz en Japón?
-    a: La gira pasa por Japón los días November 10-11, 2026, con una noche en el Tokyo Garden Theater de Ariake y otra en el Festival Hall de Osaka. En la página oficial de la gira podrá comprobar qué fecha corresponde a cada ciudad.
+    a: La gira pasa por Japón los días 10–11 de noviembre de 2026, con una noche en el Tokyo Garden Theater de Ariake y otra en el Festival Hall de Osaka. En la página oficial de la gira podrá comprobar qué fecha corresponde a cada ciudad.
   - q: ¿Cuál es la estación más cercana al Tokyo Garden Theater?
     a: La más próxima es Ariake-tennis-no-mori, en la línea Yurikamome. La otra opción principal es la estación de Kokusai-Tenjijo, en la línea Rinkai, aunque desde allí el paseo es algo más largo.
   - q: ¿Cómo puede comprar entradas un visitante extranjero?
@@ -20,7 +20,7 @@ faq:
 
 ## Siete años después, dos noches de regreso
 
-Hacía siete años que Jason Mraz no actuaba en Japón. Esta etapa de su gira asiática pone fin a la espera con dos fechas, November 10-11, 2026: una noche en el Tokyo Garden Theater y otra en el Festival Hall de Osaka.
+Hacía siete años que Jason Mraz no actuaba en Japón. Esta etapa de su gira asiática pone fin a la espera con dos fechas, 10–11 de noviembre de 2026: una noche en el Tokyo Garden Theater y otra en el Festival Hall de Osaka.
 
 El anuncio ofrece ambas fechas juntas, sin precisar qué noche corresponde a cada ciudad. Antes de reservar hotel o plaza en el shinkansen, consulte la página oficial de la gira. Al tratarse de un recorrido tan breve, quienes quieran asistir a los dos conciertos tendrán que desplazarse de una ciudad a otra con muy poco margen.
 

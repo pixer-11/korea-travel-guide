@@ -3,11 +3,11 @@ lang: es
 slug: ha-long-halong-bay-heritage-marathon
 srcHash: '22800311383b'
 title: 'Halong Bay Heritage Marathon: fechas, inscripciones y sede (Ha Long)'
-description: La Halong Bay Heritage Marathon se celebrará el November 22, 2026 en Ha Long (Vietnam). Es una carrera internacional afiliada a la AIMS que recorre la costa de la bahía de Ha Long.
-quickAnswer: La Halong Bay Heritage Marathon se celebrará el November 22, 2026 en Ha Long (Vietnam). Es una carrera internacional afiliada a la AIMS que recorre la costa de la bahía de Ha Long. En la web oficial de la prueba podrá confirmar el punto de salida, las distancias y las inscripciones. Reserve hotel en Ha Long con antelación, porque el fin de semana de la carrera la ciudad se llena.
+description: La Halong Bay Heritage Marathon se celebrará el 22 de noviembre de 2026 en Ha Long (Vietnam). Es una carrera internacional afiliada a la AIMS que recorre la costa de la bahía de Ha Long.
+quickAnswer: La Halong Bay Heritage Marathon se celebrará el 22 de noviembre de 2026 en Ha Long (Vietnam). Es una carrera internacional afiliada a la AIMS que recorre la costa de la bahía de Ha Long. En la web oficial de la prueba podrá confirmar el punto de salida, las distancias y las inscripciones. Reserve hotel en Ha Long con antelación, porque el fin de semana de la carrera la ciudad se llena.
 faq:
   - q: ¿Cuándo se celebra la Halong Bay Heritage Marathon?
-    a: La fecha anunciada es el November 22, 2026, en Ha Long (Vietnam). Consulte el horario exacto en la web oficial de la carrera.
+    a: La fecha anunciada es el 22 de noviembre de 2026, en Ha Long (Vietnam). Consulte el horario exacto en la web oficial de la carrera.
   - q: ¿Dónde está la salida?
     a: El recorrido bordea la costa de la bahía de Ha Long. Son los organizadores quienes fijan el lugar de salida y de llegada, así que antes de reservar hotel conviene mirar en la web oficial si queda en la zona de Bai Chay o en la de Hon Gai.
   - q: ¿Cómo se llega a Ha Long desde Hanói?
@@ -26,7 +26,7 @@ Para el corredor exigente, el dato clave es la afiliación a la AIMS. Gracias a 
 
 ## Fecha, inscripciones y línea de salida
 
-La fecha anunciada para la carrera es el **November 22, 2026**. Los organizadores son quienes determinan el lugar de salida y de llegada, las distancias disponibles y el precio de la inscripción. Consulte horarios, sede e inscripciones en la web oficial de la prueba, y adquiera el dorsal únicamente a través de ella o de los socios que allí se indiquen.
+La fecha anunciada para la carrera es el **22 de noviembre de 2026**. Los organizadores son quienes determinan el lugar de salida y de llegada, las distancias disponibles y el precio de la inscripción. Consulte horarios, sede e inscripciones en la web oficial de la prueba, y adquiera el dorsal únicamente a través de ella o de los socios que allí se indiquen.
 
 El agua divide Ha Long en dos mitades:
 
