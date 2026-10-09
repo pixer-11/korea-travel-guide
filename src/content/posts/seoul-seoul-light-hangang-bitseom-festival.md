@@ -34,6 +34,14 @@ faq:
     a: Noryangjin Fish Market is one subway stop away at Noryangjin Station (Lines 1 and 9). Yeouido Hangang Park is just downstream on the south bank.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/1/18/Nodeulseom_%2814005438206%29.jpg
+  credit: 'Photo: travel oriented from Seoul, South Korea / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Nodeulseom_(14005438206).jpg
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## An island lit from the water

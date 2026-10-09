@@ -27,6 +27,14 @@ faq:
     a: Yas Bay's waterfront restaurants are right outside. Yas Marina Circuit, Ferrari World Abu Dhabi, Yas Waterworld, Warner Bros. World Abu Dhabi and Yas Mall are all on Yas Island too.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Yas_Bay_Waterfront%2C_Yas_Island%2C_Abu_Dhabi.jpg/3840px-Yas_Bay_Waterfront%2C_Yas_Island%2C_Abu_Dhabi.jpg
+  credit: 'Photo: Oleg Yunakov / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Yas_Bay_Waterfront,_Yas_Island,_Abu_Dhabi.jpg
+  focus:
+    x: 68
+    'y': 70
 ---
 
 ## A tribute show on the Yas Bay waterfront

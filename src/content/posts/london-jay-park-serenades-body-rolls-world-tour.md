@@ -30,6 +30,16 @@ faq:
     a: Boxpark Wembley, beside Wembley Park station, has food stalls and bars. The London Designer Outlet next to the arena has chain restaurants.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/2/2e/Jay_Park_performing.jpg
+  credit: 'Photo: 임윤아1 / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Jay_Park_performing.jpg
+  focus:
+    x: 39
+    'y': 22
+    top: 2
+    bottom: 42
 ---
 
 ## One night in Wembley

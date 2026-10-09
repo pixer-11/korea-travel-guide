@@ -30,6 +30,16 @@ faq:
     a: The Honda Collection Hall in the circuit grounds displays Honda's racing and road machines. Mashiko, a pottery town, is a short drive away. Nikko's shrines are an easy rail trip from Utsunomiya.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Marc_M%C3%A1rquez_leads_the_pack_2019_Motegi.jpeg/3840px-Marc_M%C3%A1rquez_leads_the_pack_2019_Motegi.jpeg
+  credit: 'Photo: Box Repsol / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Marc_M%C3%A1rquez_leads_the_pack_2019_Motegi.jpeg
+  focus:
+    x: 35
+    'y': 43
+    top: 40
+    bottom: 46
 ---
 
 Motegi's grandstands back onto cedar-covered hills, and a disused concrete oval loops around much of the road course. Engines echo between the trees for three days. In 2026 the MotoGP World Championship comes here on October 2-4, and the round opens the Asia-Pacific leg of the season.

@@ -24,6 +24,14 @@ faq:
     a: Tickets were sold through the tour's official ticketing partner and IMPACT Arena's own channels. For a high-demand reunion run across two nights, unofficial resale listings carry a real risk of inflated prices or invalid tickets.
 aiGenerated: true
 eventRecurring: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/9/92/Impact_Arena_Muang_Thong_Thani_at_nighttime.jpg
+  credit: 'Photo: Reversemos.sapanaht / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Impact_Arena_Muang_Thong_Thani_at_nighttime.jpg
+  focus:
+    x: 50
+    'y': 40
 ---
 ## Why this stop matters
 

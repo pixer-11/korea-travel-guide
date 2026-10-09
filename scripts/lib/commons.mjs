@@ -314,6 +314,9 @@ export async function commonsCandidates(query, limit = 10, subject = '', near = 
 // Disambiguated categories first; the bare name is tried last, and Commons
 // keeps a bare category empty when the name is shared (Category:Khalid: 0).
 const OFFSTAGE = /\b(airport|KLIA|ICN|Incheon International|Gimpo|Narita|Haneda|arrival|departure|departing|arriving)\b/i;
+// A title that says the act is performing goes first: Jay Park's 2023 sub-category
+// is a spirits-company event ("Won Spirits CEO Jay Park"), his 2012 one a stage.
+const ONSTAGE = /\b(perform\w*|concert|stage|live|singing|sings|tour|festival|showcase|music bank|inkigayo|countdown|fancon|fan meeting)\b/i;
 const PERFORMER_SUFFIXES = ['singer', 'musician', 'band', 'group', 'rapper', 'South Korean group', 'Japanese group', 'DJ', 'composer'];
 export async function performerCategoryPhotos(name, { limit = 8 } = {}) {
   const n = String(name ?? '').trim();
@@ -322,21 +325,33 @@ export async function performerCategoryPhotos(name, { limit = 8 } = {}) {
   // in capitals (BABYMONSTER) is filed as Category:Babymonster.
   const spellings = [...new Set([n, /^[^a-z]+$/.test(n) ? n[0] + n.slice(1).toLowerCase() : n])];
   for (const cat of spellings.flatMap((sp) => [...PERFORMER_SUFFIXES.map((s) => `${sp} (${s})`), sp])) {
-    const url = 'https://commons.wikimedia.org/w/api.php?action=query&format=json' +
-      '&generator=categorymembers&gcmtype=file&gcmlimit=50&gcmtitle=' + encodeURIComponent(`Category:${cat}`) +
-      '&prop=imageinfo&iiprop=url|extmetadata|mime|size&iiurlwidth=2400&origin=*';
-    let pages = null;
-    try {
-      const r = await cfetch(url);
-      if (r.ok) pages = (await r.json().catch(() => null))?.query?.pages ?? null;
-    } catch {}
-    const found = Object.values(pages || {}).map(pageToCandidate).filter(Boolean)
-      .filter(usableFile)
+    // The act's own files, then its sub-categories that carry its name (2026-10-09:
+    // Category:Jay Park holds two files, a signboard among them, while his stage
+    // photos sit in "Jay Park by year" → "Jay Park in 2014" — the London guide
+    // was left with ENHYPEN's Jay because the act's real photos were never reached).
+    const own = allWords(cat.replace(/\s*\(.*\)$/, ''));
+    const named = (t) => own.every((w) => allWords(t).includes(w)) && !/signature|logo|autograph/i.test(t);
+    const titles = [`Category:${cat}`];
+    for (let i = 0; i < titles.length && titles.length < 12; i++) {
+      if (i > 0 && !/\b(?:19|20)\d{2}\b|by year/i.test(titles[i])) continue; // descend only year groupings
+      const subs = (await commonsJson('https://commons.wikimedia.org/w/api.php?action=query&format=json&list=categorymembers&cmtype=subcat&cmlimit=50&origin=*&cmtitle=' + encodeURIComponent(titles[i])))?.query?.categorymembers ?? [];
+      for (const m of subs) if (named(m.title) && !titles.includes(m.title)) titles.push(m.title);
+    }
+    // newest year first among the sub-categories
+    const yearOf = (t) => Number((t.match(/\b(?:19|20)\d{2}\b/) || [0])[0]);
+    const ordered = [titles[0], ...titles.slice(1).sort((a, b) => yearOf(b) - yearOf(a))];
+    const all = [];
+    for (const t of ordered) {
+      const pages = (await commonsJson(fileQuery(t)))?.query?.pages ?? {};
+      all.push(...Object.values(pages).map(pageToCandidate).filter(Boolean).filter(usableFile));
+      if (all.length >= 150) break; // every year, so a 2012 stage shot can outrank a 2023 office one
+    }
+    const found = all.filter((c, i) => all.findIndex((x) => x.url === c.url) === i)
       // Stage shots before airport ones, then biggest first: an act's category is
       // full of arrival photos ("Chiquita at KLIA"), the largest files, and vision
       // passes them as "the performer" — a concert guide should show a stage
       // (BABYMONSTER Taipei and Bangkok, 2026-10-09).
-      .sort((a, b) => (OFFSTAGE.test(a.title) - OFFSTAGE.test(b.title)) || ((b.w || 0) - (a.w || 0)))
+      .sort((a, b) => (OFFSTAGE.test(a.title) - OFFSTAGE.test(b.title)) || (ONSTAGE.test(b.title) - ONSTAGE.test(a.title)) || ((b.w || 0) - (a.w || 0)))
       .map((c) => ({ ...c, via: 'performer-category', category: cat }));
     if (found.length) return found.slice(0, limit);
   }
@@ -420,6 +435,15 @@ export async function eventCategoryPhotos(name, { region = '', limit = 8 } = {})
     if (uniq.length) return uniq.slice(0, limit);
   }
   return [];
+}
+
+/** One named Commons file as a hero candidate ("File:" optional), or null. */
+export async function commonsFileCandidate(title) {
+  const t = /^File:/i.test(title) ? title : `File:${title}`;
+  const u = 'https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url|extmetadata|mime|size&iiurlwidth=2400&origin=*&titles=' + encodeURIComponent(t);
+  const pages = (await commonsJson(u))?.query?.pages ?? {};
+  const p = Object.values(pages)[0];
+  return p && !p.missing ? pageToCandidate(p) : null;
 }
 
 // One Commons API page → a hero candidate, or null when it is not a photo.

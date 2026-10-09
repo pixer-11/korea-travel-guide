@@ -108,6 +108,12 @@
   "reason": "hand-reviewed: TAEMIN at a 2015 K-POP concert on a tribute show he is not in",
   "at": "2026-10-09T10:49:45.816Z"
  },
+ "abu-dhabi-k-pop-fever-etihad-arena\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Yas_Bay_Waterfront%2C_Yas_Island%2C_Abu_Dhabi.jpg/3840px-Yas_Bay_Waterfront%2C_Yas_Island%2C_Abu_Dhabi.jpg": {
+  "slug": "abu-dhabi-k-pop-fever-etihad-arena",
+  "verdict": "MATCH",
+  "reason": "hand-picked: Yas Bay, where Etihad Arena stands — Aerial view shows Etihad Arena venue in Abu Dhabi",
+  "at": "2026-10-09T11:46:35.850Z"
+ },
  "abu-dhabi-khalifa-park\u0001https://upload.wikimedia.org/wikipedia/commons/a/a4/Khalifa_Park_Abu_Dhabi_-_panoramio_%2816%29.jpg": {
   "slug": "abu-dhabi-khalifa-park",
   "verdict": "MATCH",
@@ -13764,6 +13770,12 @@
   "reason": "event publish gate: ITZY performing live on tour stage with branding",
   "at": "2026-10-08T01:30:28.446Z"
  },
+ "london-jay-park-serenades-body-rolls-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/2/2e/Jay_Park_performing.jpg": {
+  "slug": "london-jay-park-serenades-body-rolls-world-tour",
+  "verdict": "MATCH",
+  "reason": "hand-picked: Jay Park on stage — Performer Jay Park singing into mic, valid hero",
+  "at": "2026-10-09T11:46:30.728Z"
+ },
  "london-jay-park-serenades-body-rolls-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/e/e9/JAY_%28ENHYPEN%29_220624.jpg": {
   "slug": "london-jay-park-serenades-body-rolls-world-tour",
   "verdict": "MISMATCH",
@@ -16011,6 +16023,12 @@
   "reason": "patrol reject: MotoGP bikes at Japanese temple, not Motegi venue",
   "at": "2026-10-08T14:50:47.380Z"
  },
+ "motegi-motogp-japanese-grand-prix\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Marc_M%C3%A1rquez_leads_the_pack_2019_Motegi.jpeg/3840px-Marc_M%C3%A1rquez_leads_the_pack_2019_Motegi.jpeg": {
+  "slug": "motegi-motogp-japanese-grand-prix",
+  "verdict": "MATCH",
+  "reason": "hand-picked: the 2019 Japanese Grand Prix at Motegi — MotoGP race action, representative of event type",
+  "at": "2026-10-09T11:46:47.273Z"
+ },
  "mount-bromo-bromo-tengger-semeru-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Andhika_bayu_nugraha-taman_nasional_bromo_tengger_semeru.jpg/1920px-Andhika_bayu_nugraha-taman_nasional_bromo_tengger_semeru.jpg": {
   "slug": "mount-bromo-bromo-tengger-semeru-national-park",
   "verdict": "MATCH",
@@ -17482,6 +17500,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Random guitarist, unrelated to this specific tour/act",
   "at": "2026-08-22T19:55:20.572Z"
+ },
+ "nonthaburi-f-forever-1st-world-tour-in-bangkok\u0001https://upload.wikimedia.org/wikipedia/commons/9/92/Impact_Arena_Muang_Thong_Thani_at_nighttime.jpg": {
+  "slug": "nonthaburi-f-forever-1st-world-tour-in-bangkok",
+  "verdict": "MATCH",
+  "reason": "hand-picked: the concert's own venue — Impact Arena venue in Nonthaburi, event location",
+  "at": "2026-10-09T11:46:41.004Z"
  },
  "nonthaburi-f-forever-1st-world-tour-in-bangkok\u0001https://upload.wikimedia.org/wikipedia/commons/a/af/BOYS_FOREVER_%2830442716360%29.jpg": {
   "slug": "nonthaburi-f-forever-1st-world-tour-in-bangkok",
@@ -21645,6 +21669,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Park deck with picnic tables and pond, plausible Seoul Forest scene",
   "at": "2026-09-01T10:38:00.820Z"
+ },
+ "seoul-seoul-light-hangang-bitseom-festival\u0001https://upload.wikimedia.org/wikipedia/commons/1/18/Nodeulseom_%2814005438206%29.jpg": {
+  "slug": "seoul-seoul-light-hangang-bitseom-festival",
+  "verdict": "MATCH",
+  "reason": "hand-picked: Nodeul Island, the festival's venue — Shows Han River island area in Seoul, plausible venue",
+  "at": "2026-10-09T11:47:46.889Z"
  },
  "seoul-seoul-light-hangang-bitseom-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Interior_view_of_the_main_hall_of_Bongeunsa_temple_in_Seoul_South_Korea.jpg/3840px-Interior_view_of_the_main_hall_of_Bongeunsa_temple_in_Seoul_South_Korea.jpg": {
   "slug": "seoul-seoul-light-hangang-bitseom-festival",
