@@ -1,6 +1,6 @@
 {
   "_note": "Search-engine ownership tokens rendered as <meta> tags in the page head (src/layouts/BaseLayout.astro). Each value is the content= string the engine gives you, or empty. naver: Naver Search Advisor (searchadvisor.naver.com) → 사이트 등록 → HTML 태그 → naver-site-verification. The site's Korean pages are its largest real audience (/ko/ leads the top pages) and Naver, not Google, is where Korean readers search; only IndexNow reaches it today. google/bing are here for completeness; both are verified by other means already.",
-  "naver": "",
+  "naver": "a785cbba6b087b891891ffbfdb7ce81c82a44de3",
   "google": "",
   "bing": ""
 }
