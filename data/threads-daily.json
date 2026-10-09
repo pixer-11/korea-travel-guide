@@ -79,29 +79,37 @@
     "hong-kong-the-weeknd-after-hours-til-dawn-tour",
     "melbourne-melbourne-cup",
     "tokyo-miss-international-2026",
-    "chamonix-parc-de-merlet"
+    "chamonix-parc-de-merlet",
+    "berlin-neues-museum"
   ],
-  "lastSentDay": "2026-10-09",
+  "lastSentDay": "2026-10-10",
   "material": {
-    "day": "2026-10-09",
-    "slug": "chamonix-parc-de-merlet",
-    "title": "Parc de Merlet: Chamonix Travel Guide (4.6★)",
+    "day": "2026-10-10",
+    "slug": "berlin-neues-museum",
+    "title": "Neues Museum: Berlin Travel Guide (4.5★)",
     "urls": [
-      "https://wanderatlasguides.com/og/social/2026-10-09-chamonix-parc-de-merlet-1.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-09-chamonix-parc-de-merlet-2.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-09-chamonix-parc-de-merlet-3.jpg",
-      "https://wanderatlasguides.com/og/social/2026-10-09-chamonix-parc-de-merlet-4.jpg"
+      "https://wanderatlasguides.com/og/social/2026-10-10-berlin-neues-museum-1.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-10-berlin-neues-museum-2.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-10-berlin-neues-museum-3.jpg",
+      "https://wanderatlasguides.com/og/social/2026-10-10-berlin-neues-museum-4.jpg"
     ],
-    "igCaption": "Marmots sunning by the trail, chamois watching from the trees, and Mont Blanc towering across the valley — Parc de Merlet above Les Houches is 1.5 to 2.5 hours of hillside wandering with a 4.6★ reputation to match.\n\n#ParcdeMerlet #Chamonix #France #travelguide #travel #wanderatlas #ParcDeMerlet #FranceTravel #MontBlanc #HikingTrails\n📷 Photo: Florian Pépellin / Wikimedia Commons (CC BY-SA 4.0)\n📷 Photo: Foursquare user content (Le Parc De Merlet)",
-    "thOption": "Marmots practically pose by the trail, but chamois and ibex keep their distance near the treeline. Would you bring binoculars or just hope for a lucky sighting?",
-    "link": "https://wanderatlasguides.com/posts/chamonix-parc-de-merlet/"
+    "igCaption": "A bombed-out shell rebuilt around its own scars, home to a 3,300-year-old queen who still can't be photographed. Give it two to three hours and don't skip the Bronze Age gold hat upstairs.\n\n#NeuesMuseum #Berlin #Germany #travelguide #travel #wanderatlas #MuseumIsland #Nefertiti #TravelGuide #GermanyTravel\n📷 Photo: Janericloebe / Wikimedia Commons (Public domain)\n📷 Photo: Laurens R. Krol / Wikimedia Commons (CC BY 4.0)\n📷 Photo: Roy Zuo / Wikimedia Commons (CC BY-SA 4.0)",
+    "thOption": "Nefertiti's bust is nearly 3,300 years old and one eye was never inlaid. Would you have noticed without being told?",
+    "link": "https://wanderatlasguides.com/posts/berlin-neues-museum/"
   },
   "social": {
-    "thDay": "2026-10-09",
-    "thId": "18118417516762182",
+    "thDay": "2026-10-10",
+    "thId": "17955914730256360",
     "igDay": "2026-10-09",
     "igId": "18019720868731445",
-    "thSlug": "chamonix-parc-de-merlet",
-    "igSlug": "chamonix-parc-de-merlet"
+    "thSlug": "berlin-neues-museum",
+    "igSlug": "chamonix-parc-de-merlet",
+    "history": [
+      {
+        "day": "2026-10-10",
+        "slug": "berlin-neues-museum",
+        "thId": "17955914730256360"
+      }
+    ]
   }
 }
