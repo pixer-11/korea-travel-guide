@@ -39,6 +39,7 @@ import { fileURLToPath } from 'node:url';
 import { bingLines } from './lib/bing-report.mjs';
 import { audienceLines } from './lib/report-audience.mjs';
 import { botSurge } from './lib/bot-surge.mjs';
+import { loadPostsForIndexRequests, pickIndexRequests, indexRequestLines } from './lib/index-request-list.mjs';
 const readJson = (rel) => {
   try { return JSON.parse(readFileSync(fileURLToPath(new URL(rel, import.meta.url)), 'utf8')); }
   catch { return {}; }
@@ -378,6 +379,17 @@ async function main() {
     L.push('', ...bing.lines);
   } else if (bing?.error) {
     L.push('', `⚠️ 빙 수집 실패: ${bing.error}`);
+  }
+
+  // Ten pages for the owner to hand to Google's "Request indexing" today
+  // (lib/index-request-list.mjs). The only direct lever on a frozen index;
+  // a failure here is a missing section, never a missing report.
+  try {
+    const today = new Date(Date.now() + 9 * 3600e3).toISOString().slice(0, 10); // KST day
+    const picked = pickIndexRequests(loadPostsForIndexRequests(fileURLToPath(new URL('../src/content/posts/', import.meta.url))), today);
+    L.push('', ...indexRequestLines(picked, today));
+  } catch (e) {
+    L.push('', `⚠️ 색인 요청 목록 생성 실패: ${String(e.message).slice(0, 80)}`);
   }
 
   // Surface a half-failure instead of silently dropping a section.

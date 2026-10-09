@@ -31,10 +31,16 @@ const arg = (k) => process.argv.find((a) => a.startsWith(`--${k}=`))?.split('=')
 const DRY = process.argv.includes('--dry');
 const FILE = arg('file');
 if (!FILE) { console.error('usage: node scripts/retitle-post.mjs --file=retitles.json [--dry]'); process.exit(1); }
-if (!process.env.ANTHROPIC_API_KEY) { console.error('ANTHROPIC_API_KEY missing'); process.exit(1); }
+// An item may carry its own translations — `i18n: { ko: { title, description }, … }`
+// — written by the editor rather than the model (2026-10-09: seven ranking
+// pages retitled from a session with no API key). Then no model call is made
+// for that language, and the key is only required when some item lacks them.
+const itemsEarly = JSON.parse(readFileSync(FILE, 'utf8'));
+const needsModel = itemsEarly.some((it) => ['ko', 'ja', 'es', 'zh'].some((l) => !it.i18n?.[l]?.title || !it.i18n?.[l]?.description));
+if (needsModel && !process.env.ANTHROPIC_API_KEY) { console.error('ANTHROPIC_API_KEY missing (some items have no i18n fields)'); process.exit(1); }
 const MODEL = process.env.TRANSLATE_MODEL || 'claude-sonnet-5';
 const LANGS = { ko: 'Korean', ja: 'Japanese', es: 'Spanish', zh: 'Simplified Chinese' };
-const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY, maxRetries: 6 });
+const client = needsModel ? new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY, maxRetries: 6 }) : null;
 
 const TOOL = {
   name: 'submit_fields',
@@ -57,7 +63,7 @@ DESCRIPTION: ${description}` }],
   return { title: String(use.input.title).trim(), description: String(use.input.description).trim() };
 }
 
-const items = JSON.parse(readFileSync(FILE, 'utf8'));
+const items = itemsEarly;
 let done = 0, translated = 0, failed = 0;
 for (const it of items) {
   const enPath = join(ROOT, 'src', 'content', 'posts', `${it.slug}.md`);
@@ -74,7 +80,10 @@ for (const it of items) {
     const tp = join(ROOT, 'src', 'content', 'i18n', lang, `${it.slug}.md`);
     if (!existsSync(tp)) continue;
     try {
-      const f = await translateFields(lang, it.title, it.description, placeName);
+      const given = it.i18n?.[lang];
+      const f = given?.title && given?.description
+        ? { title: String(given.title).trim(), description: String(given.description).trim() }
+        : await translateFields(lang, it.title, it.description, placeName);
       let t = readFileSync(tp, 'utf8');
       t = setFrontmatterField(t, 'title', f.title);
       t = setFrontmatterField(t, 'description', f.description);

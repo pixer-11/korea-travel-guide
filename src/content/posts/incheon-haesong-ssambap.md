@@ -1,9 +1,6 @@
 ---
-title: 'Haesong Ssambap: Where to Eat in Incheon'
-description: >-
-  Haesong Ssambap is a large, well-known ssambap (leaf-wrap rice) restaurant in
-  Jung-gu, Incheon, near Incheon International Airport — a practical, satisfying
-  stop before an early flight or right after landing.
+title: 'Haesong Ssambap, Incheon: Menu, Hours and Airport Access'
+description: 'Large, well-known ssambap (leaf-wrap rice) restaurant in Jung-gu near Incheon Airport: what the set includes, opening hours, and how to fit it in before or after a flight.'
 country: South Korea
 region: Incheon
 category: restaurant

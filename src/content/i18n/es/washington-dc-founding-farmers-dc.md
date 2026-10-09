@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: washington-dc-founding-farmers-dc
-srcHash: '1d49406959ea'
-title: 'Founding Farmers DC: dónde comer en Washington DC'
-description: Founding Farmers DC, en 1924 Pennsylvania Ave NW cerca de Foggy Bottom/George Washington University, es un local americano de la granja a la mesa conocido por sus bizcochos de buttermilk, el chicken and waffles y su brunch de todo el día — cuenta con esperar, ya que es uno de los restaurantes con más reseñas de la ciudad (más de 23,000 reseñas, 4.5 estrellas).
+srcHash: 'f6376b002cce'
+title: 'Founding Farmers DC: carta, horarios y consejos para el brunch'
+description: 'Restaurante americano de la granja a la mesa en 1924 Pennsylvania Ave NW, junto a Foggy Bottom: biscuits, chicken and waffles, brunch todo el día, horarios y cómo evitar la espera.'
 quickAnswer: Founding Farmers DC, en 1924 Pennsylvania Ave NW cerca de Foggy Bottom/George Washington University, es un local americano de la granja a la mesa conocido por sus bizcochos de buttermilk, el chicken and waffles y su brunch de todo el día — cuenta con esperar, ya que es uno de los restaurantes con más reseñas de la ciudad (más de 23,000 reseñas, 4.5 estrellas). Ve entre semana antes del mediodía o después de las 2pm para evitar lo peor de las multitudes, y reserva con anticipación para el brunch de fin de semana.
 faq:
   - q: ¿Necesito reservar en Founding Farmers DC?

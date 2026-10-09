@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: incheon-haesong-ssambap
-srcHash: '1fe2c8fce11b'
-title: 'Haesong Ssambap: dónde comer en Incheon'
-description: 'Haesong Ssambap es un restaurante de ssambap (arroz envuelto en hojas) grande y muy conocido en Jung-gu, Incheon, cerca del Aeropuerto Internacional de Incheon: una parada práctica y satisfactoria antes de un vuelo temprano o justo después de aterrizar.'
+srcHash: '8d52b1b00b0a'
+title: 'Haesong Ssambap (Incheon): carta, horarios y acceso desde el aeropuerto'
+description: 'Gran restaurante de ssambap (arroz envuelto en hojas) en Jung-gu, cerca del aeropuerto de Incheon: qué incluye el menú, horarios y cómo encajarlo antes o después de un vuelo.'
 quickAnswer: 'Haesong Ssambap es un restaurante de ssambap (arroz envuelto en hojas) grande y muy conocido en Jung-gu, Incheon, cerca del Aeropuerto Internacional de Incheon: una parada práctica y satisfactoria antes de un vuelo temprano o justo después de aterrizar. Puede esperar una mesa llena de banchan, hojas de lechuga y perilla, carne o pescado a la parrilla y doenjang-jjigae, todo por un precio moderado por persona. Conviene ir fuera del horario punta (12–13 h y 18–19:30 h) para evitar esperas, y llegar con hambre, ya que las raciones están pensadas para compartir.'
 faq:
   - q: ¿Cómo se llega a Haesong Ssambap desde el Aeropuerto Internacional de Incheon?

@@ -1,9 +1,6 @@
 ---
-title: 'Vandal Restaurant | Elevated Global Street Food: Where to Eat in Lombok'
-description: >-
-  Vandal Restaurant is a globally-inspired street-food kitchen on Jl. Raya Kuta
-  in Kuta Lombok, a short walk or scooter ride from most guesthouses in the
-  area.
+title: 'Vandal Restaurant, Kuta Lombok: Menu, Hours and Quiet Times'
+description: 'Globally inspired street food on Jl. Raya Kuta, Kuta Lombok: what to order, opening hours, the quieter hours to walk in, and how to get there from the guesthouses.'
 country: Indonesia
 region: Lombok
 category: restaurant
