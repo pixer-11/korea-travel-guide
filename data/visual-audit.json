@@ -5942,6 +5942,12 @@
   "reason": "publish gate: Shows Venetian Macao exterior with bridge and campanile",
   "at": "2026-10-08T14:46:09.940Z"
  },
+ "cotai-wynn-palace\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Wynn_Palace_Macau_2016.jpg/1920px-Wynn_Palace_Macau_2016.jpg": {
+  "slug": "cotai-wynn-palace",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Wynn Palace exterior with signage and fountain show",
+  "at": "2026-10-09T14:29:29.968Z"
+ },
  "cozumel-margaritaville-cozumel\u0001https://upload.wikimedia.org/wikipedia/commons/c/cf/Margaritaville_Cozumel_2023.jpg": {
   "slug": "cozumel-margaritaville-cozumel",
   "verdict": "MATCH",

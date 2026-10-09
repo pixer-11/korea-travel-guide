@@ -32198,5 +32198,40 @@
   "registerBreak": false,
   "worst": "记得拉好包的拉链。斜坡上推挤很危险，要顺着人流走，别逆着挤。",
   "at": "2026-10-09T08:32:09.819Z"
+ },
+ "es/goyang-the-weeknd-hyundai-card-super-concert-28": {
+  "hash": "2f377a7bb2d5",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "lo que normalmente obliga a elegir entre una camiseta y un buen sitio en la pista",
+  "at": "2026-10-09T14:31:07.283Z"
+ },
+ "es/cotai-wynn-palace": {
+  "hash": "12b3622a71d4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "El estilo informal elegante sirve para cualquier espacio.",
+  "at": "2026-10-09T14:31:15.240Z"
+ },
+ "ja/cotai-wynn-palace": {
+  "hash": "b9d9a6d040f2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "赤と金の曲線が目を引くタワーが、Avenida da Nave Desportiva沿いに建つウィン・パレスです。",
+  "at": "2026-10-09T14:31:20.300Z"
+ },
+ "ko/cotai-wynn-palace": {
+  "hash": "cc35fe7f3e0e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "주중에 방문하거나 낮 시간에 호숫가를 찾으면 사람들이 훨씬 덜 찍힌 사진으로 꽃 장식을 담을 수 있습니다.",
+  "at": "2026-10-09T14:31:21.655Z"
+ },
+ "zh/cotai-wynn-palace": {
+  "hash": "d1446019e859",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "由于人气太旺，周末晚上和中国公众假期人流最多，观光缆车的队伍和餐厅订位都会最先爆满。",
+  "at": "2026-10-09T14:31:31.242Z"
  }
 }
