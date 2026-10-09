@@ -215,6 +215,64 @@ t('충돌 해소로 커밋이 텅 비면 건너뛰고 계속한다', () => {
   } finally { rmSync(r.root, { recursive: true, force: true }); }
 });
 
+t('rebase 가 뒤집은 결정(보류 옆의 draft: false)을 밀기 전에 되돌린다', () => {
+  // 2026-10-06 의 모양 그대로. 원격(다른 봇)은 프론트매터 위쪽에 heldFinal 줄을
+  // 추가했고, 우리는 아래쪽 draft 를 false 로 바꿨다. 두 변경은 떨어져 있어
+  // 충돌 없이 합쳐지고, -X ours 는 관여하지 않는다 — 합쳐진 트리에는 보류 줄과
+  // draft: false 가 나란히 남는다. 그 상태로 밀면 보류된 글이 라이브가 된다.
+  const r = makeRepos();
+  try {
+    const post = join(r.work, 'src', 'content', 'posts', 'x.md');
+    mkdirSync(join(r.work, 'src', 'content', 'posts'), { recursive: true });
+    const seed = ['---', 'title: X', 'a: 1', 'b: 2', 'c: 3', 'd: 4', 'e: 5', 'draft: true', '---', 'body', ''].join('\n');
+    writeFileSync(post, seed);
+    git(r.work, 'add', '-A'); git(r.work, 'commit', '-m', 'post');
+    git(r.work, 'push', 'origin', 'main');
+
+    // 재선언기 대역: 실제 reassert-held-final 과 같은 규칙(heldFinal 이면 draft: true).
+    mkdirSync(join(r.work, 'scripts'), { recursive: true });
+    writeFileSync(join(r.work, 'scripts', 'reassert-held-final.mjs'), [
+      "import { readFileSync, writeFileSync } from 'node:fs';",
+      "const p = 'src/content/posts/x.md';",
+      'const raw = readFileSync(p, "utf8");',
+      'if (/^heldFinal:/m.test(raw) && /^draft: false/m.test(raw)) writeFileSync(p, raw.replace(/^draft: false/m, "draft: true"));',
+      '',
+    ].join('\n'));
+    mkdirSync(join(r.work, 'node_modules', 'gray-matter'), { recursive: true });
+    git(r.work, 'add', 'scripts'); git(r.work, 'commit', '-m', 'reasserter');
+
+    // 우리 커밋: 공개로 전환.
+    writeFileSync(post, seed.replace('draft: true', 'draft: false'));
+    git(r.work, 'add', '-A'); git(r.work, 'commit', '-m', 'release');
+    // 원격: 그 사이 다른 봇이 영구 보류를 기록.
+    pushFromElsewhereWith(r, 'hold', (d) => {
+      writeFileSync(join(d, 'src', 'content', 'posts', 'x.md'), seed.replace('title: X', 'title: X\nheldFinal: twin'));
+    });
+
+    const res = runScript(r.work);
+    if (!res.ok) return `실패: ${res.out}`;
+    const pushed = git(r.work, 'show', 'origin/main:src/content/posts/x.md');
+    if (!/^heldFinal: twin/m.test(pushed)) return `보류 줄이 사라짐:\n${pushed}`;
+    if (!/^draft: true/m.test(pushed)) return `보류인데 draft: true 가 아님 (밀기 전 재선언이 안 됨):\n${pushed}`;
+    return res.out.includes('되돌려 커밋했다') ? null : `재선언 커밋 로그가 없음: ${res.out}`;
+  } finally { rmSync(r.root, { recursive: true, force: true }); }
+});
+
+t('재선언기가 없거나 node_modules 가 없으면 조용히 건너뛰고 민다', () => {
+  // data/ 만 커밋하는 가벼운 잡과, 글을 건드리지만 npm ci 가 없는 잡 — 둘 다
+  // 전처럼 밀려야 한다. 재선언은 추가 안전핀이지 새 실패 경로가 아니다.
+  const r = makeRepos();
+  try {
+    mkdirSync(join(r.work, 'src', 'content', 'posts'), { recursive: true });
+    writeFileSync(join(r.work, 'src', 'content', 'posts', 'y.md'), '---\ntitle: Y\n---\n');
+    git(r.work, 'add', '-A'); git(r.work, 'commit', '-m', 'content without tooling');
+    pushFromElsewhere(r, 'z');
+    const res = runScript(r.work);
+    if (!res.ok) return `실패: ${res.out}`;
+    return res.out.includes('결정 재선언 건너뜀') ? null : `건너뜀 안내가 없음: ${res.out}`;
+  } finally { rmSync(r.root, { recursive: true, force: true }); }
+});
+
 let fail = 0;
 for (const [name, fn] of cases) {
   let err;
