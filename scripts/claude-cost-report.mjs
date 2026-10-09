@@ -30,9 +30,12 @@ export function readLedger(path = LEDGER) {
 
 // The account's monthly spend limit (Anthropic console), shared with the crypto
 // pipeline and hand-run scripts, which this ledger does not see.
-// $400 since 2026-10-06 (owner: halve the bill). The account's own limit may be
-// higher; this is the budget the daily report warns against.
-export const MONTHLY_CAP = Number(process.env.CLAUDE_MONTHLY_CAP || 400);
+// $400 since 2026-10-06 (owner: halve the bill); $600 since 2026-10-09 (owner
+// chose to keep event discovery twice a week — the best-earning content per
+// Bing click — over cutting it to fit $400; the post-cut pace is ~$550-600).
+// The account's own limit may be higher; this is the budget the daily report
+// warns against.
+export const MONTHLY_CAP = Number(process.env.CLAUDE_MONTHLY_CAP || 600);
 
 /**
  * Month-to-date spend and a straight-line forecast against the monthly limit.
