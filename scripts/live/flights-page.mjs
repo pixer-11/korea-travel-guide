@@ -79,6 +79,10 @@ const ph = await b.newPage({ viewport: { width: 375, height: 812 } });
 ph.on('pageerror', (e) => errs.push(e.message));
 await ph.goto(`${BASE}/ja/flights/`, { waitUntil: 'networkidle' });
 const sw = await ph.evaluate(() => document.documentElement.scrollWidth);
+// The date-stacking rule went into the widget's shadow root (10-09: weekday cut).
+await ph.waitForTimeout(3000);
+const fit = await ph.evaluate(() => !!document.querySelector('#fl-widget tp-cascoon')?.shadowRoot?.querySelector('style[data-wa-fit]'));
+check(fit, 'phone: date-fit rule inside the search widget');
 check(sw <= 376, `phone no horizontal scroll (${sw}px)`);
 await ph.close();
 await b.close();

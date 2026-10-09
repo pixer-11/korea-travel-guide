@@ -409,10 +409,39 @@ const jsonLd = {
   // Chips: reload the search widget with that destination (the widget reads
   // origin/destination from its own script URL — verified live 2026-10-08)
   // and open the destination's month strip.
+  // The widget draws inside an open shadow root our CSS cannot reach. Below
+  // ~880px of its own width it puts the two date fields side by side, ~120px
+  // each on a phone, and "16 10월, 금요일" needs ~131px plus the icon — the
+  // weekday was cut (owner, 10-09). A smaller font did not save it, so when the
+  // widget is narrow the two dates stack, each on its own full-width row.
+  // Keyed to the widget's width (container query), not the screen's. If the
+  // widget renames these classes the rule simply matches nothing.
+  const DATE_FIT = '.app{container-type:inline-size}' +
+    '@container (max-width: 880px){.root .date-range-picker{display:grid!important;grid-template-columns:1fr!important;gap:8px!important}' +
+    '.root .date-range-picker>.form-datepicker{width:100%!important;max-width:none!important}}';
+  function fitDates(box: HTMLElement) {
+    const tryOnce = () => {
+      const sr = box.querySelector('tp-cascoon')?.shadowRoot;
+      if (!sr) return false;
+      if (!sr.querySelector('style[data-wa-fit]')) {
+        const st = document.createElement('style');
+        st.dataset.waFit = '';
+        st.textContent = DATE_FIT;
+        sr.appendChild(st);
+      }
+      return true;
+    };
+    if (tryOnce()) return;
+    const mo = new MutationObserver(() => { if (tryOnce()) mo.disconnect(); });
+    mo.observe(box, { childList: true, subtree: true });
+    setTimeout(() => mo.disconnect(), 20000);
+  }
+
   function init() {
     const box = document.getElementById('fl-widget');
     const months = document.getElementById('fl-months');
     if (!box || !months) return;
+    fitDates(box);
     const base = box.dataset.src || '';
     // "This month" was decided at build time (UTC). A page built on the 31st
     // and read on the 1st — or read in a later month before the next deploy —
@@ -454,6 +483,7 @@ const jsonLd = {
         s.charset = 'utf-8';
         s.src = url.toString();
         box.appendChild(s);
+        fitDates(box);
         let shown = false;
         months.querySelectorAll<HTMLElement>('.fl-year').forEach((y) => {
           const on = y.dataset.for === code;
@@ -473,14 +503,17 @@ const jsonLd = {
 
 <style>
   .fl-hero { padding-block: clamp(2rem, 5vw, 3.5rem); }
-  .fl-hero-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr); gap: clamp(1.5rem, 4vw, 3rem); align-items: center; }
+  /* One column: the search gets the full width. Beside the copy (the mock's
+     two-column hero) the widget had ~550px and cut the dates to "16 10월, 금요"
+     (owner, 10-09) — it needs ~900px to show a weekday in full. */
+  .fl-hero-grid { display: grid; grid-template-columns: minmax(0, 1fr); gap: clamp(1.2rem, 3vw, 2rem); }
   .fl-hero h1 { font-family: var(--font-display); font-size: clamp(2rem, 4.4vw, 3.1rem); line-height: 1.12; margin: 0.4rem 0 0.9rem; }
   .fl-hero h1 span { color: var(--accent-text); }
   /* Korean breaks between words, not inside them ("한/번에"). Korean only:
      keep-all on Japanese has no spaces to break at and overflowed (09-30). */
   :global(html[lang='ko']) .fl-hero h1 { word-break: keep-all; }
-  .fl-dek { color: var(--ink-soft); font-size: 1.02rem; line-height: 1.6; margin: 0 0 1rem; }
-  .fl-checks { list-style: none; padding: 0; margin: 0; display: grid; gap: 0.45rem; font-size: 0.92rem; color: var(--ink-soft); }
+  .fl-dek { color: var(--ink-soft); font-size: 1.02rem; line-height: 1.6; margin: 0 0 1rem; max-width: 46rem; }
+  .fl-checks { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 0.45rem 1.4rem; font-size: 0.92rem; color: var(--ink-soft); }
   .fl-checks li { display: flex; gap: 0.5rem; align-items: baseline; }
   .fl-checks span { color: var(--pine); font-weight: 700; }
   .fl-search .tp-widget-card { margin: 0; min-height: 220px; }
