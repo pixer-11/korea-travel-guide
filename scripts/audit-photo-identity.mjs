@@ -32,6 +32,8 @@ import matter from 'gray-matter';
 import { commonsTitle, fetchCommonsMeta, judgeIdentity, judgeFoursquareCredit, makeJudgedIndex } from './lib/commons-identity.mjs';
 import { requireExamined } from './lib/examined.mjs';
 import { writeAuditStore } from './lib/visual-audit-store.mjs';
+import { loadHeroPins, isPinnedHero } from './lib/hero-pins.mjs';
+const HERO_PINS = loadHeroPins();
 
 const POSTS = 'src/content/posts';
 const JUDGED = 'data/photo-identity-judged.json';
@@ -62,6 +64,7 @@ const stock = [];      // Unsplash — a rule violation whatever it shows
 for (const f of files) {
   const slug = f.replace(/\.md$/, '');
   if (ONLY.length && !ONLY.includes(slug)) continue;
+  if (isPinnedHero(HERO_PINS, slug)) continue; // a person chose this hero (lib/hero-pins, 10-09)
   let d;
   try { d = matter(await readFile(join(POSTS, f), 'utf8')).data; } catch { continue; }
   if (d.draft === true) continue; // quarantined posts show nobody anything

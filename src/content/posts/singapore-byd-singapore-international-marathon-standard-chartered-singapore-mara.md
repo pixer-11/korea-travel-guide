@@ -30,6 +30,14 @@ faq:
     a: December is hot, humid and in the monsoon season, so showers are common. Long-distance races in Singapore traditionally start before dawn to avoid the worst of the heat.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Singapore_Standard_Chartered_Marathon_2013_finishing.jpg/3840px-Singapore_Standard_Chartered_Marathon_2013_finishing.jpg
+  credit: 'Photo: ProjectManhattan / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Singapore_Standard_Chartered_Marathon_2013_finishing.jpg
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## A Gold Label race in the tropics

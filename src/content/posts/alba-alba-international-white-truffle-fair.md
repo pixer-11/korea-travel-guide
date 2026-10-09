@@ -27,6 +27,14 @@ faq:
     a: A fresh white truffle keeps only a few days, so eat it soon. Wrap it in paper, keep it in a closed jar in the fridge, and check your home country's import rules before you fly.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/f/f6/Black_Truffles_-_Fiera_del_Tartufo_-_Alba_-_Province_of_Cuneo%2C_Italy_-_21_Nov._2010.jpg
+  credit: 'Photo: Irene Grassi from Italy / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Black_Truffles_-_Fiera_del_Tartufo_-_Alba_-_Province_of_Cuneo,_Italy_-_21_Nov._2010.jpg
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## Eight weeks of truffle season

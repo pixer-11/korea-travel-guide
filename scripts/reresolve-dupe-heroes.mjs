@@ -24,6 +24,8 @@ import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { join } from 'node:path';
 import matter from 'gray-matter';
 import { heroUrlOf, imageIdentity, isUsedImage, markUsedImage, heroKeeper } from './lib/hero-url.mjs';
+import { loadHeroPins, isPinnedHero } from './lib/hero-pins.mjs';
+const HERO_PINS = loadHeroPins();
 import { resolveHero, eventTopic } from './lib/images.mjs';
 import { isImageAllowed } from './lib/guardrails.mjs';
 import { verifyHeroImage } from './lib/vision-check.mjs';
@@ -93,7 +95,8 @@ if (!dupes.length) {
 // The earliest post keeps the photo it has been wearing; later ones re-resolve.
 const targets = [];
 for (const g of dupes) {
-  const keeper = heroKeeper(g.map((p) => ({ slug: p.slug, pubDate: p.data.pubDate })));
+  // A guide whose hero a person chose keeps it; the others move (lib/hero-pins, 10-09).
+  const keeper = g.find((p) => isPinnedHero(HERO_PINS, p.slug)) ?? heroKeeper(g.map((p) => ({ slug: p.slug, pubDate: p.data.pubDate })));
   const sorted = [...g].sort((a, b) => (a.slug === keeper.slug ? -1 : b.slug === keeper.slug ? 1 : a.slug.localeCompare(b.slug)));
   console.log(`\n⧉ ${sorted.length} posts share ${sorted[0].url.slice(0, 70)}`);
   console.log(`   keeps it: ${sorted[0].slug}`);

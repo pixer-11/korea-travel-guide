@@ -40,6 +40,8 @@ import { isMeasurementFailure } from './lib/audit-verdict.mjs';
 import { identityRejection } from './lib/photo-verdict.mjs';
 import { editFrontmatter } from './lib/frontmatter-edit.mjs';
 import matter from 'gray-matter';
+import { loadHeroPins, isPinnedHero } from './lib/hero-pins.mjs';
+const HERO_PINS = loadHeroPins();
 
 // Overridable so the test can run this exact script against a scratch folder —
 // the 2026-09-23 duplicate-key bug only shows up when the real write path runs.
@@ -60,6 +62,7 @@ for (const f of (await readdir(POSTS)).filter((x) => x.endsWith('.md'))) {
   const url = data.heroImage?.url;
   if (!url) continue;
   const slug = f.replace(/\.md$/, '');
+  if (isPinnedHero(HERO_PINS, slug, url)) continue; // a person's decision (lib/hero-pins, 10-09)
   const exact = store[`${slug}\x01${url}`];
   // A row that records a failed download is not a judgement about the photo;
   // the weekly prune forgets it, but this runs nightly and must not act on it

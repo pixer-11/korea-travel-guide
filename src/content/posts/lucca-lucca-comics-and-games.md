@@ -27,6 +27,14 @@ faq:
     a: Pisa, Viareggio and Florence all have direct or easy train links to Lucca, so they are practical bases when rooms inside the walls are full.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Lucca_Comics_%26_Games_2021_-_Folla_alla_fontana.jpg/3840px-Lucca_Comics_%26_Games_2021_-_Folla_alla_fontana.jpg
+  credit: 'Photo: Syrio / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Lucca_Comics_%26_Games_2021_-_Folla_alla_fontana.jpg
+  focus:
+    x: 50
+    'y': 50
 ---
 
 ## A convention with ramparts

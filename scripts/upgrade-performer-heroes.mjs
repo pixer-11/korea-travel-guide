@@ -24,6 +24,8 @@ import { fileNamesPerformer } from './lib/event-file-identity.mjs';
 import { verifyHeroImage, recordHeroVerdict } from './lib/vision-check.mjs';
 import { editFrontmatter } from './lib/frontmatter-edit.mjs';
 import { isUsedImage, markUsedImage, unmarkUsedImage } from './lib/hero-url.mjs';
+import { loadHeroPins, isPinnedHero } from './lib/hero-pins.mjs';
+const HERO_PINS = loadHeroPins();
 
 const DIR = 'src/content/posts';
 const DRY = process.argv.includes('--dry');
@@ -49,6 +51,7 @@ let swapped = 0, kept = 0, skipped = 0;
 for (const { f, slug, raw, data } of posts) {
   const act = data.eventPerformer?.name;
   if (data.category !== 'event' || data.draft === true || !act) continue;
+  if (isPinnedHero(HERO_PINS, slug)) continue; // a person chose this one (lib/hero-pins)
   const cur = data.heroImage?.url || '';
   if (cur && (proof[slug]?.url === cur || fileNamesPerformer(cur, act))) continue; // already the act
   if (!cur) continue; // a photoless guide is the photo patrol's — it tries the act first now

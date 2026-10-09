@@ -218,6 +218,7 @@ jobs:
         run: |
           node scripts/scan-hero-widths.mjs | tail -5
           node scripts/reassert-held-final.mjs || true
+          node scripts/reassert-hero-pins.mjs || true
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"
           git add data/hero-width-queue.json data/visual-audit.json src/content/posts

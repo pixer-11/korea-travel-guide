@@ -60,6 +60,7 @@ jobs:
         run: |
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"
+          node scripts/reassert-hero-pins.mjs || true # hand-picked heroes stay (data/hero-pins.json, 10-09)
           git add src/content/posts public/wall data/wall.json
           if git diff --staged --quiet; then
             echo "No hero changes."

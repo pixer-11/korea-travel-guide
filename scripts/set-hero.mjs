@@ -7,7 +7,7 @@
 // event the person's reading is also recorded as reviewed, so the identity
 // audit does not ask again about a photo a person chose.
 //
-//   node scripts/set-hero.mjs <slug> "File:Jay Park performing.jpg" [--why="the act on stage"]
+//   node scripts/set-hero.mjs <slug> "File:Jay Park performing.jpg" [--why="the act on stage"] [--city]
 import './lib/env.mjs';
 import { readFileSync, writeFileSync, readdirSync, existsSync } from 'node:fs';
 import matter from 'gray-matter';
@@ -15,6 +15,7 @@ import { commonsFileCandidate } from './lib/commons.mjs';
 import { verifyHeroImage, recordHeroVerdict } from './lib/vision-check.mjs';
 import { editFrontmatter } from './lib/frontmatter-edit.mjs';
 import { isUsedImage, markUsedImage } from './lib/hero-url.mjs';
+import { loadHeroPins, saveHeroPins } from './lib/hero-pins.mjs';
 
 const [slug, file] = process.argv.slice(2);
 const why = (process.argv.find((a) => a.startsWith('--why=')) || '').slice(6) || 'chosen by hand';
@@ -37,10 +38,21 @@ if ((cand.w || 0) < 1200) console.log(`⚠ ${file}: ${cand.w}px wide — under t
 const raw = readFileSync(path, 'utf8');
 const { data } = matter(raw);
 const isEvent = data.category === 'event';
-const vis = await verifyHeroImage({ url: cand.url, name: data.place?.name || data.title, category: data.category, region: data.region, country: data.country, eventMode: isEvent, venue: data.eventVenue || '' });
+// --city: the owner's third tier for an event with no photo of its own — a view
+// of the city it is held in, asked the way fill-event-city-heroes asks (event-
+// mode vision refuses a skyline as "not the event", correctly).
+const CITY = process.argv.includes('--city');
+const vis = CITY
+  ? await verifyHeroImage({ url: cand.url, name: `a view of ${data.region}`, category: 'city, landscape or landmark view', region: data.region, country: data.country })
+  : await verifyHeroImage({ url: cand.url, name: data.place?.name || data.title, category: data.category, region: data.region, country: data.country, eventMode: isEvent, venue: data.eventVenue || '' });
 if (!vis.ok) { console.log(`✗ vision refused it: ${vis.reason}`); process.exit(1); }
 
-writeFileSync(path, editFrontmatter(raw, { heroImage: { url: cand.url, credit: cand.credit, license: cand.license, source: cand.source, ...(vis.focus ? { focus: vis.focus } : {}) } }));
+const hero = { url: cand.url, credit: cand.credit, license: cand.license, source: cand.source, ...(vis.focus ? { focus: vis.focus } : {}) };
+writeFileSync(path, editFrontmatter(raw, { heroImage: hero }));
+// The decision is pinned, so no patrol or audit changes it later (lib/hero-pins).
+const pins = loadHeroPins();
+pins[slug] = { ...hero, why, at: new Date().toISOString() };
+saveHeroPins(pins);
 await recordHeroVerdict(slug, cand.url, 'MATCH', `hand-picked: ${why} — ${String(vis.reason || '').slice(0, 100)}`);
 if (isEvent) {
   const R = 'data/event-hero-identity-reviewed.json';

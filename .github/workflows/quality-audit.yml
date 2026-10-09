@@ -113,6 +113,7 @@ jobs:
           # nothing. Same class as data/visual-audit.json (fixed 09-09) and
           # og-width-probes (09-10) — a tool that remembers nothing repeats
           # itself.
+          node scripts/reassert-hero-pins.mjs || true # hand-picked heroes stay (data/hero-pins.json, 10-09)
           git add src/content/posts public/venue-photos public/wall data/wall.json data/places-budget.json data/quality-audit-skip.json
           if git diff --staged --quiet; then
             echo "committed=0" >> "$GITHUB_OUTPUT"

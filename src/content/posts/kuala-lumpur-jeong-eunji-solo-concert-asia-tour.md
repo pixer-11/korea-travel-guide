@@ -31,6 +31,16 @@ faq:
     a: LaLaport BBCC is in the same development. Petaling Street in Chinatown is about ten minutes' walk past Merdeka station, and the Jalan Alor food street is to the north toward Bukit Bintang.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/c/ce/20141027-Apink-%EA%B2%BD%ED%9D%AC%EB%8C%80-%EA%B5%AD%EC%A0%9C%EC%BA%A0-%EC%B6%95%EC%A0%9C_%28Jung_Eun-ji%29.jpg
+  credit: 'Photo: 캐비지 / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:20141027-Apink-%EA%B2%BD%ED%9D%AC%EB%8C%80-%EA%B5%AD%EC%A0%9C%EC%BA%A0-%EC%B6%95%EC%A0%9C_(Jung_Eun-ji).jpg
+  focus:
+    x: 43
+    'y': 25
+    top: 7
+    bottom: 42
 ---
 
 ## One voice, one standing hall

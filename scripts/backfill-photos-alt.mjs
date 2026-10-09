@@ -49,6 +49,8 @@ import { identityRejection } from './lib/photo-verdict.mjs';
 import { imageIdentity, isUsedImage, markUsedImage, unmarkUsedImage, heroKeeper } from './lib/hero-url.mjs';
 import { orderPhotoQueue, isPausedTonight, GIVE_UP_AFTER } from './lib/photo-queue-order.mjs';
 import { writeAuditStore } from './lib/visual-audit-store.mjs';
+import { loadHeroPins, isPinnedHero } from './lib/hero-pins.mjs';
+const HERO_PINS = loadHeroPins();
 
 const POSTS = 'src/content/posts';
 const DRY = process.env.DRY === '1';
@@ -222,6 +224,8 @@ for (const f of files) {
   if (fixed + unfixed >= LIMIT) break;
   const slug = f.replace(/\.md$/, '');
   if (ONLY.length && !ONLY.includes(slug)) continue;
+  // A hero a person chose is not this patrol's to re-judge (lib/hero-pins, 10-09).
+  if (isPinnedHero(HERO_PINS, slug)) continue;
   if (!ONLY.length && isPausedTonight(retryCount[slug], slug)) { pausedSkipped++; continue; }
   const path = `${POSTS}/${f}`;
   const { data, content } = matter(await readFile(path, 'utf8'));

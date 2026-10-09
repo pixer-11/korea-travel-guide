@@ -25,6 +25,8 @@ import matter from 'gray-matter';
 import yaml from 'js-yaml';
 import { sendTelegram } from './lib/telegram.mjs';
 import { writeAuditStore } from './lib/visual-audit-store.mjs';
+import { loadHeroPins, isPinnedHero } from './lib/hero-pins.mjs';
+const HERO_PINS = loadHeroPins();
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const POSTS_DIR = join(ROOT, 'src', 'content', 'posts');
@@ -81,6 +83,9 @@ for (const f of files) {
   if (checked >= LIMIT) break;
   const slug = f.replace(/\.md$/, '');
   if (argSlugs && !argSlugs.has(slug)) continue;
+  // A hero a person chose is not re-judged: a vision call per night, and a
+  // MISMATCH here is what the re-quarantine strips (lib/hero-pins, 10-09).
+  if (isPinnedHero(HERO_PINS, slug)) continue;
   let data;
   try { ({ data } = matter(await readFile(join(POSTS_DIR, f), 'utf8'))); } catch { continue; }
   const hero = data.heroImage;

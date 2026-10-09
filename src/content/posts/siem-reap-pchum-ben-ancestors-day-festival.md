@@ -31,6 +31,14 @@ faq:
     a: Angkor Archaeological Park stays open, and most hotels and larger restaurants keep operating. Some family-run shops and stalls close because staff travel home for the holidays.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/01-Wat_Bo_Siem_Reap-NglL-06615.jpg/3840px-01-Wat_Bo_Siem_Reap-NglL-06615.jpg
+  credit: 'Photo: No(0)GoodNamesLeft / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:01-Wat_Bo_Siem_Reap-NglL-06615.jpg
+  focus:
+    x: 50
+    'y': 40
 ---
 
 ## A lunar fortnight for the dead

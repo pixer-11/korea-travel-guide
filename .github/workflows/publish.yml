@@ -785,6 +785,8 @@ jobs:
           # A remote-first rebase in another bot's push can republish a post
           # whose heldFinal records that it stays down (2026-10-06): restore it.
           node scripts/reassert-held-final.mjs || true
+          # Hand-picked heroes (data/hero-pins.json) survive every bot edit (10-09).
+          node scripts/reassert-hero-pins.mjs || true
           git config user.name "content-bot"
           git config user.email "bot@users.noreply.github.com"
           # country-facts.json and the essentials guides are here because the

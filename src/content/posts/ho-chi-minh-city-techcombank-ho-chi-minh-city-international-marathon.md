@@ -29,6 +29,14 @@ faq:
     a: Independence Palace, Notre-Dame Cathedral Basilica, the Saigon Central Post Office, Book Street and the Saigon Zoo and Botanical Gardens are all a short walk from Le Duan.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Nguyen_Hue_Pedestrian_Boulevard_%2837163950285%29.jpg/3840px-Nguyen_Hue_Pedestrian_Boulevard_%2837163950285%29.jpg
+  credit: 'Photo: Terrazzo from Vernon Hills, IL, USA / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Nguyen_Hue_Pedestrian_Boulevard_(37163950285).jpg
+  focus:
+    x: 60
+    'y': 40
 ---
 
 ## A city that runs before sunrise

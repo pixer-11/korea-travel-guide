@@ -664,6 +664,12 @@
   "reason": "publish gate: Monument with statues and inscription, representative hero view",
   "at": "2026-08-21T08:12:36.807Z"
  },
+ "alba-alba-international-white-truffle-fair\u0001https://upload.wikimedia.org/wikipedia/commons/f/f6/Black_Truffles_-_Fiera_del_Tartufo_-_Alba_-_Province_of_Cuneo%2C_Italy_-_21_Nov._2010.jpg": {
+  "slug": "alba-alba-international-white-truffle-fair",
+  "verdict": "MATCH",
+  "reason": "hand-picked: the truffle fair itself, 2010 — Black truffles display from Alba fair, matches event type",
+  "at": "2026-10-09T12:41:55.918Z"
+ },
  "alba-alba-international-white-truffle-fair\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Skyline_alba_02.jpg/1280px-Skyline_alba_02.jpg": {
   "slug": "alba-alba-international-white-truffle-fair",
   "verdict": "MISMATCH",
@@ -8781,6 +8787,12 @@
   "reason": "patrol reject: Bank branch storefront, not marathon event photo",
   "at": "2026-10-08T14:36:03.249Z"
  },
+ "ho-chi-minh-city-techcombank-ho-chi-minh-city-international-marathon\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Nguyen_Hue_Pedestrian_Boulevard_%2837163950285%29.jpg/3840px-Nguyen_Hue_Pedestrian_Boulevard_%2837163950285%29.jpg": {
+  "slug": "ho-chi-minh-city-techcombank-ho-chi-minh-city-international-marathon",
+  "verdict": "MATCH",
+  "reason": "hand-picked: central Ho Chi Minh City, the race's city (no photo of the race exists on Commons) — Night cityscape with Times Square tower, representative of HCMC",
+  "at": "2026-10-09T12:44:43.388Z"
+ },
  "ho-chi-minh-city-tonkin-specialty-coffee\u0001https://fastly.4sqi.net/img/general/original/1398311522_312mJ6sWjsRsnVfBTyNOPMpPiZMS4RVCwQuT99cnFxA.jpg": {
   "slug": "ho-chi-minh-city-tonkin-specialty-coffee",
   "verdict": "MATCH",
@@ -12434,6 +12446,12 @@
   "reason": "patrol reject: Museum horn artifact, unrelated to Whirling Dervishes Festival",
   "at": "2026-10-01T23:29:34.689Z"
  },
+ "konya-mevlana-festival-whirling-dervishes-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Whirling_Dervishes_in_Konya.jpg/3840px-Whirling_Dervishes_in_Konya.jpg": {
+  "slug": "konya-mevlana-festival-whirling-dervishes-festival",
+  "verdict": "MATCH",
+  "reason": "hand-picked: the Sema ceremony in Konya — Dervishes in ceremonial attire, representative of the event",
+  "at": "2026-10-09T12:42:19.778Z"
+ },
  "konya-mevlana-festival-whirling-dervishes-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Konya_Mevlana_Museum_nefir_3899.jpg/3840px-Konya_Mevlana_Museum_nefir_3899.jpg": {
   "slug": "konya-mevlana-festival-whirling-dervishes-festival",
   "verdict": "MISMATCH",
@@ -12772,6 +12790,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: identity: Commons places this in South Korea, post says Malaysia",
   "at": "2026-10-08T23:53:31.379Z"
+ },
+ "kuala-lumpur-jeong-eunji-solo-concert-asia-tour\u0001https://upload.wikimedia.org/wikipedia/commons/c/ce/20141027-Apink-%EA%B2%BD%ED%9D%AC%EB%8C%80-%EA%B5%AD%EC%A0%9C%EC%BA%A0-%EC%B6%95%EC%A0%9C_%28Jung_Eun-ji%29.jpg": {
+  "slug": "kuala-lumpur-jeong-eunji-solo-concert-asia-tour",
+  "verdict": "MATCH",
+  "reason": "hand-picked: Jeong Eun-ji on stage — Performer singing with mic, concert context",
+  "at": "2026-10-09T12:42:37.165Z"
  },
  "kuala-lumpur-jeong-eunji-solo-concert-asia-tour\u0001https://upload.wikimedia.org/wikipedia/commons/e/ed/Yoon_Jeong-han_at_25th_Dream_Concert_06.png": {
   "slug": "kuala-lumpur-jeong-eunji-solo-concert-asia-tour",
@@ -14349,6 +14373,12 @@
   "verdict": "MISMATCH",
   "reason": "hand-reviewed 2026-10-05: other — Commons: an 18th-century hand-colored map of the Duchy of Florence and the Republic of Lucca by J.G. Schreiber (David Rumsey Collection). The image is an atlas page scan that mostly shows Tuscany. It is not a photo of th",
   "at": "2026-10-05T08:36:33.108Z"
+ },
+ "lucca-lucca-comics-and-games\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Lucca_Comics_%26_Games_2021_-_Folla_alla_fontana.jpg/3840px-Lucca_Comics_%26_Games_2021_-_Folla_alla_fontana.jpg": {
+  "slug": "lucca-lucca-comics-and-games",
+  "verdict": "MATCH",
+  "reason": "hand-picked: the festival crowd, 2021 — Crowd with costumes at Lucca walls, matches event",
+  "at": "2026-10-09T12:43:09.233Z"
  },
  "lyon-ayla\u0001https://fastly.4sqi.net/img/general/original/36586_cccPMIefbRlsxaAfqrmvYLsEnO8oYxWso1Q4bcLq2AA.jpg": {
   "slug": "lyon-ayla",
@@ -22341,6 +22371,12 @@
   "reason": "publish gate: Interior market stalls with produce, representative of Old Market",
   "at": "2026-08-22T09:13:49.093Z"
  },
+ "siem-reap-pchum-ben-ancestors-day-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/01-Wat_Bo_Siem_Reap-NglL-06615.jpg/3840px-01-Wat_Bo_Siem_Reap-NglL-06615.jpg": {
+  "slug": "siem-reap-pchum-ben-ancestors-day-festival",
+  "verdict": "MATCH",
+  "reason": "hand-picked: Wat Bo, a Siem Reap pagoda — Pchum Ben is kept at the pagodas — Khmer temple rooftops consistent with Siem Reap architecture",
+  "at": "2026-10-09T12:44:55.843Z"
+ },
  "siem-reap-phnom-bakheng-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Phnom_Bakheng_temple_at_Angkor%2C_Cambodia.jpg/3840px-Phnom_Bakheng_temple_at_Angkor%2C_Cambodia.jpg": {
   "slug": "siem-reap-phnom-bakheng-temple",
   "verdict": "MATCH",
@@ -22668,6 +22704,12 @@
   "reason": "patrol reject: Shows buses in Singapore, unrelated to marathon event",
   "at": "2026-10-08T14:59:17.251Z"
  },
+ "singapore-byd-singapore-international-marathon-standard-chartered-singapore-mara\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Singapore_Standard_Chartered_Marathon_2013_finishing.jpg/3840px-Singapore_Standard_Chartered_Marathon_2013_finishing.jpg": {
+  "slug": "singapore-byd-singapore-international-marathon-standard-chartered-singapore-mara",
+  "verdict": "MATCH",
+  "reason": "hand-picked: the 2013 edition's finish — Marathon finish line scene with Standard Chartered branding visible",
+  "at": "2026-10-09T12:43:16.122Z"
+ },
  "singapore-byd-singapore-international-marathon-standard-chartered-singapore-mara\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/BYD_e6_in_Singapore_rear.jpg/3840px-BYD_e6_in_Singapore_rear.jpg": {
   "slug": "singapore-byd-singapore-international-marathon-standard-chartered-singapore-mara",
   "verdict": "MISMATCH",
@@ -22736,6 +22778,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Visible photographer watermark/credit overlaid on image",
   "at": "2026-10-01T23:38:37.296Z"
+ },
+ "singapore-deepavali-diwali-little-india-festival\u0001https://upload.wikimedia.org/wikipedia/commons/d/df/Little_India_Singapore_Deepavali_2013.jpg": {
+  "slug": "singapore-deepavali-diwali-little-india-festival",
+  "verdict": "MATCH",
+  "reason": "hand-picked: Deepavali in Little India, 2013 — Little India street decorated with Deepavali lights at night",
+  "at": "2026-10-09T12:43:22.343Z"
  },
  "singapore-deepavali-diwali-little-india-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/1_singapore_national_day_parade_2011_fireworks.jpg/3840px-1_singapore_national_day_parade_2011_fireworks.jpg": {
   "slug": "singapore-deepavali-diwali-little-india-festival",
@@ -24799,6 +24847,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Bicycle parking garage, unrelated to Tashkent canal walk event",
   "at": "2026-10-08T23:57:25.546Z"
+ },
+ "tashkent-walk-around-tashkent-tashkent-speaks\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Anhor_kanali_va_O%CA%BBrda_ko%CA%BBprigi.jpg/3840px-Anhor_kanali_va_O%CA%BBrda_ko%CA%BBprigi.jpg": {
+  "slug": "tashkent-walk-around-tashkent-tashkent-speaks",
+  "verdict": "MATCH",
+  "reason": "hand-picked: the Anhor canal at Urda, the walk's route — Shows Anhor Canal embankment and bridge, plausible venue view",
+  "at": "2026-10-09T12:41:50.361Z"
  },
  "tempe-filthy-animal\u0001https://fastly.4sqi.net/img/general/original/3889560_FTrSqea-sypNAwiCrodaKMEaXe4qihbcThzpqTRdsc4.jpg": {
   "slug": "tempe-filthy-animal",

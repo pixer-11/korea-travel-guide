@@ -155,6 +155,7 @@ jobs:
           # contains a single i18n file — so the English figure moved while its
           # four translations kept the old one, and the srcHash re-stamp meant to
           # spare a re-translation never survived to be read.
+          node scripts/reassert-hero-pins.mjs || true # hand-picked heroes stay (data/hero-pins.json, 10-09)
           git add src/content/posts src/content/i18n data/translation-quality.json \
                   data/refresh-cursor.json data/visual-audit.json data/places-budget.json \
                   data/common-words.json

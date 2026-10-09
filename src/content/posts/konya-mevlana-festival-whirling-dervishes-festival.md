@@ -27,6 +27,16 @@ faq:
     a: The easiest route is the high-speed YHT train from Ankara, which takes under two hours, with connections from Istanbul. Konya Airport also has domestic flights, mainly from Istanbul.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Whirling_Dervishes_in_Konya.jpg/3840px-Whirling_Dervishes_in_Konya.jpg
+  credit: 'Photo: Tahirceylan / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Whirling_Dervishes_in_Konya.jpg
+  focus:
+    x: 53
+    'y': 22
+    top: 18
+    bottom: 25
 ---
 
 ## Seven Hundred Years of Turning

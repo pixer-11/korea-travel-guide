@@ -28,6 +28,14 @@ faq:
     a: Mustaqillik Square sits beside the route, and the Tashkent metro's ornate stations are a short ride away. For food, try plov at lunchtime, or tea, samsa and shashlik in the evening.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Anhor_kanali_va_O%CA%BBrda_ko%CA%BBprigi.jpg/3840px-Anhor_kanali_va_O%CA%BBrda_ko%CA%BBprigi.jpg
+  credit: 'Photo: Jamshid Nurkulov / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Anhor_kanali_va_O%CA%BBrda_ko%CA%BBprigi.jpg
+  focus:
+    x: 50
+    'y': 40
 ---
 
 ## A city told from the canal bank

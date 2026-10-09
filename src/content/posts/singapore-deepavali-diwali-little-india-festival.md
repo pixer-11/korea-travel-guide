@@ -31,6 +31,14 @@ faq:
     a: Cover your shoulders and knees, and be ready to remove your shoes at the entrance of temples such as Sri Veeramakaliamman Temple. Ask before photographing people at prayer.
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/d/df/Little_India_Singapore_Deepavali_2013.jpg
+  credit: 'Photo: Public domain: Use these pix for any purpose / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Little_India_Singapore_Deepavali_2013.jpg
+  focus:
+    x: 45
+    'y': 25
 ---
 
 ## Serangoon Road after dark
