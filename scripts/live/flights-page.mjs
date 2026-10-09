@@ -48,6 +48,12 @@ for (const lang of Object.keys(ORIGIN)) {
   const text = main.replace(/<script[\s\S]*?<\/script>/g, '').replace(/<[^>]+>/g, ' ');
   const price = text.match(/[$₩¥€£]\s?\d|[1-9][\d,.]*\s?(?:원|円|元|€|USD|EUR|KRW|JPY|dólares)|\d+만원/); // "0원" (no markup) is not a fare
   check(!price, `${lang} prints no fare${price ? ` — found "${price[0]}"` : ''}`);
+  // 10-09 additions from the mock: breadcrumb (+ BreadcrumbList), newsletter,
+  // and long-weekend quick dates where the departure city is set (ko/ja).
+  check(/class="crumbs fl-crumbs"/.test(html) && /BreadcrumbList/.test(html), `${lang} breadcrumb`);
+  check(/class="nl-dek"/.test(html), `${lang} newsletter block`);
+  const hol = (html.match(/class="fl-hol-btn"/g) || []).length;
+  check(ORIGIN[lang] ? hol >= 1 : hol === 0, `${lang} ${hol} long-weekend buttons`);
   check(/kiwitaxi\.tpx\.lv\/yRbl5tIp/.test(html) && /rel="sponsored noopener"/.test(html), `${lang} pickup partner link intact`);
   for (const m of main.matchAll(/href="(\/[^"#]*)"/g)) hrefs.add(m[1]);
 }

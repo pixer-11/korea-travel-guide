@@ -6,7 +6,8 @@ import { SITE } from '../siteConfig';
 import { useTranslations, localizePath, type Lang } from '../i18n/utils';
 import { homeT } from '../i18n/home-strings';
 import { localizePlace } from '../i18n/places';
-import { bandString } from '../lib/home-data.mjs';
+import { bandString, longWeekends } from '../lib/home-data.mjs';
+import Newsletter from './Newsletter.astro';
 import { MONTH_SLUGS } from '../lib/when-to-go.mjs';
 import { buildToday } from '../lib/buildDay.mjs';
 import countriesData from '../../data/countries.json';
@@ -57,6 +58,7 @@ const T = {
       ['spiral-calendar', 'Ready-made itineraries', 'Day-by-day plans for the city', '/itinerary/', false],
     ],
     partner: 'Partner',
+    nlH: 'Still deciding where to go?', nlDek: 'One travel guide a week — when places are at their best and the practical details that save a trip. Not a fare alert. No spam; unsubscribe anytime.',
     faqH: 'Questions',
     faq: [
       ['Where does the search take me?', 'To Aviasales (Travelpayouts network), which compares airlines and agencies in real time. You choose a fare and book on the airline’s or agency’s own site; your payment never passes through us.'],
@@ -91,6 +93,7 @@ const T = {
       ['spiral-calendar', '검증된 일정', '도시별 하루 단위 코스', '/itinerary/', false],
     ],
     partner: '제휴',
+    nlH: '어디로 갈지 고민 중이라면', nlDek: '매주 한 편, 가기 좋은 때와 현지에서 쓸모 있는 정보를 담은 여행 가이드를 보내 드려요. 요금 알림은 아니에요. 스팸 없이, 언제든 구독 취소할 수 있습니다.',
     faqH: '자주 묻는 질문',
     faq: [
       ['검색하면 어디로 연결되나요?', 'Aviasales(Travelpayouts 네트워크)로 연결되어 항공사와 여행사 요금을 실시간으로 비교합니다. 요금을 고르면 항공사나 여행사 사이트에서 직접 예약하며, 결제 정보는 저희를 거치지 않습니다.'],
@@ -125,6 +128,7 @@ const T = {
       ['spiral-calendar', '検証済みの旅程', '都市ごとの1日単位コース', '/itinerary/', false],
     ],
     partner: '提携',
+    nlH: '行き先を迷っているなら', nlDek: '毎週1本、行きやすい時期と現地で役立つ情報をまとめた旅行ガイドをお届けします。運賃アラートではありません。スパムはなく、いつでも解除できます。',
     faqH: 'よくある質問',
     faq: [
       ['検索するとどこにつながりますか？', 'Aviasales（Travelpayoutsネットワーク）につながり、航空会社と旅行会社の運賃をリアルタイムで比較します。運賃を選んだら航空会社や旅行会社のサイトで直接予約し、支払い情報は当サイトを通りません。'],
@@ -159,6 +163,7 @@ const T = {
       ['spiral-calendar', 'Itinerarios listos', 'Planes día a día por ciudad', '/itinerary/', false],
     ],
     partner: 'Socio',
+    nlH: '¿Aún decides adónde ir?', nlDek: 'Una guía de viaje a la semana: cuándo es mejor ir y los detalles prácticos que salvan un viaje. No es una alerta de precios. Sin spam; cancela cuando quieras.',
     faqH: 'Preguntas',
     faq: [
       ['¿Adónde me lleva la búsqueda?', 'A Aviasales (red Travelpayouts), que compara aerolíneas y agencias en tiempo real. Eliges una tarifa y reservas en la web de la aerolínea o agencia; tu pago nunca pasa por nosotros.'],
@@ -193,6 +198,7 @@ const T = {
       ['spiral-calendar', '现成行程', '各城市按天安排的路线', '/itinerary/', false],
     ],
     partner: '合作',
+    nlH: '还在想去哪儿？', nlDek: '每周一篇旅行指南：什么时候去最合适，以及当地真正有用的实用信息。这不是票价提醒。绝无垃圾邮件，随时可退订。',
     faqH: '常见问题',
     faq: [
       ['搜索后会跳转到哪里？', '跳转到 Aviasales（Travelpayouts 网络），实时比较航空公司与代理的票价。选好票价后在航空公司或代理网站直接预订，付款信息不会经过我们。'],
@@ -279,12 +285,36 @@ const widgetSrc = (dest = '') =>
   `&secondary=%23f4eee3&special=%23e6e1d6&color_focused=%23c8443a&border_radius=10&plain=true&promo_id=7879&campaign_id=100` +
   (origin ? `&origin=${origin}` : '') + (dest ? `&destination=${dest}` : '');
 
+// Long weekends at home (the mock's "한글날 연휴 · 성탄절 연휴" quick dates), for
+// the two languages whose departure city is set (ko=Seoul, ja=Tokyo). Real
+// public holidays (country-facts, the `holidays` package) through the home
+// page's own longWeekends; a tap fills the widget's departure_date/return_date
+// (verified live 10-09 — `depart_date` is ignored). Past ones are dropped in
+// the reader's browser too.
+const HOL_MARKET: Partial<Record<Lang, string>> = { ko: 'South Korea', ja: 'Japan' };
+const holLabel: Partial<Record<Lang, string>> = { ko: '연휴 날짜로 바로 채우기', ja: '連休の日程ですぐ入力' };
+const holFmt = new Intl.DateTimeFormat(locale, { month: 'numeric', day: 'numeric', weekday: 'short', timeZone: 'UTC' });
+const holDay = (iso: string) => holFmt.format(new Date(`${iso}T12:00:00Z`));
+const holidays = HOL_MARKET[lang]
+  ? longWeekends(factsBy[HOL_MARKET[lang]!]?.holidays ?? [], {
+      fromISO: new Date(buildToday().getTime() + 86400000).toISOString().slice(0, 10), limit: 6,
+    }).filter((h) => h.start > buildToday().toISOString().slice(0, 10)).slice(0, 4) // not one already under way
+  : [];
+
+const crumbHome = t('post.home');
 const site = Astro.site?.toString().replace(/\/$/, '') ?? '';
 const pageUrl = siteHref(Astro.url.pathname, Astro.site);
 const jsonLd = {
   '@context': 'https://schema.org',
   '@graph': [
     { '@type': 'CollectionPage', name: `${T.h1a} ${T.h1b}`, description: T.metaDesc, url: pageUrl, isPartOf: { '@id': `${site}/#site` } },
+    {
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: crumbHome, item: siteHref(P('/'), Astro.site) },
+        { '@type': 'ListItem', position: 2, name: T.eyebrow, item: pageUrl },
+      ],
+    },
     {
       '@type': 'FAQPage',
       mainEntity: T.faq.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: a } })),
@@ -297,6 +327,9 @@ const jsonLd = {
   <section class="fl-hero">
     <div class="wrap fl-hero-grid">
       <div class="fl-hero-copy">
+        <nav class="crumbs fl-crumbs" aria-label={t('a11y.breadcrumb')}>
+          <a href={P('/')}>{crumbHome}</a> <span>/</span> <span aria-current="page">{T.eyebrow}</span>
+        </nav>
         <p class="eyebrow"><Emoji name="airplane" /> {T.eyebrow}</p>
         <h1>{T.h1a}<br /><span>{T.h1b}</span></h1>
         <p class="fl-dek">{T.dek}</p>
@@ -310,6 +343,16 @@ const jsonLd = {
         <div class="tp-widget-card" id="fl-widget" data-src={widgetSrc()}>
           <script is:inline async src={widgetSrc()} charset="utf-8"></script>
         </div>
+        {holidays.length > 0 && (
+          <div class="fl-hol">
+            <span class="fl-hol-h">{holLabel[lang]}</span>
+            {holidays.map((h) => (
+              <button type="button" class="fl-hol-btn" data-from={h.start} data-to={h.end} aria-controls="fl-search">
+                <strong>{h.localName}</strong> {holDay(h.start)} – {holDay(h.end)}
+              </button>
+            ))}
+          </div>
+        )}
       </div>
     </div>
   </section>
@@ -387,6 +430,8 @@ const jsonLd = {
     </div>
   </section>
 
+  <Newsletter lang={lang} heading={T.nlH} dek={T.nlDek} />
+
   <section class="section fl-faq-sec">
     <div class="wrap fl-faq-grid">
       <h2>{T.faqH}</h2>
@@ -443,6 +488,35 @@ const jsonLd = {
     if (!box || !months) return;
     fitDates(box);
     const base = box.dataset.src || '';
+    // One reload for both controls, so a destination chip keeps the dates a
+    // holiday button set and the other way round.
+    const pick = { dest: '', from: '', to: '' };
+    const reload = () => {
+      const url = new URL(base);
+      if (pick.dest) url.searchParams.set('destination', pick.dest);
+      if (pick.from) url.searchParams.set('departure_date', pick.from);
+      if (pick.to) url.searchParams.set('return_date', pick.to);
+      box.replaceChildren();
+      const s = document.createElement('script');
+      s.async = true;
+      s.charset = 'utf-8';
+      s.src = url.toString();
+      box.appendChild(s);
+      fitDates(box);
+    };
+    // Holiday buttons: drop any that have started by the reader's date.
+    const todayIso = new Date(Date.now() - new Date().getTimezoneOffset() * 60000).toISOString().slice(0, 10);
+    document.querySelectorAll<HTMLButtonElement>('.fl-hol-btn').forEach((btn) => {
+      if ((btn.dataset.from || '') <= todayIso) { btn.hidden = true; return; }
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.fl-hol-btn').forEach((x) => x.setAttribute('aria-pressed', String(x === btn)));
+        pick.from = btn.dataset.from || '';
+        pick.to = btn.dataset.to || '';
+        reload();
+      });
+    });
+    const hol = document.querySelector<HTMLElement>('.fl-hol');
+    if (hol && !hol.querySelector('.fl-hol-btn:not([hidden])')) hol.hidden = true;
     // "This month" was decided at build time (UTC). A page built on the 31st
     // and read on the 1st — or read in a later month before the next deploy —
     // would name the wrong month, so the reader's own month wins here.
@@ -475,15 +549,8 @@ const jsonLd = {
       chip.addEventListener('click', () => {
         const code = chip.dataset.code || '';
         document.querySelectorAll('.fl-chip').forEach((c) => c.setAttribute('aria-pressed', String(c === chip)));
-        const url = new URL(base);
-        url.searchParams.set('destination', code);
-        box.replaceChildren();
-        const s = document.createElement('script');
-        s.async = true;
-        s.charset = 'utf-8';
-        s.src = url.toString();
-        box.appendChild(s);
-        fitDates(box);
+        pick.dest = code;
+        reload();
         let shown = false;
         months.querySelectorAll<HTMLElement>('.fl-year').forEach((y) => {
           const on = y.dataset.for === code;
@@ -517,6 +584,15 @@ const jsonLd = {
   .fl-checks li { display: flex; gap: 0.5rem; align-items: baseline; }
   .fl-checks span { color: var(--pine); font-weight: 700; }
   .fl-search .tp-widget-card { margin: 0; min-height: 220px; }
+  .fl-crumbs { justify-content: flex-start; margin-bottom: 0.6rem; }
+  .fl-hol { display: flex; flex-wrap: wrap; align-items: center; gap: 0.45rem; margin-top: 0.8rem; }
+  .fl-hol[hidden], .fl-hol-btn[hidden] { display: none; }
+  .fl-hol-h { font-size: 0.82rem; color: var(--muted); margin-right: 0.2rem; }
+  .fl-hol-btn { font: inherit; font-size: 0.82rem; padding: 0.35rem 0.75rem; border-radius: var(--r-pill); border: 1px solid var(--line);
+    background: var(--surface); color: var(--ink-soft); cursor: pointer; }
+  .fl-hol-btn strong { color: var(--ink); font-weight: 600; margin-right: 0.15rem; }
+  .fl-hol-btn:hover { border-color: var(--line-strong); }
+  .fl-hol-btn[aria-pressed='true'] { border-color: var(--accent); box-shadow: 0 0 0 2px var(--accent-soft); }
 
   .fl-dest h2, .fl-tips-sec h2, .fl-next-sec h2, .fl-faq-sec h2 { font-family: var(--font-display); margin: 0 0 0.3rem; }
   .fl-sub { color: var(--muted); margin: 0 0 1rem; font-size: 0.92rem; }
