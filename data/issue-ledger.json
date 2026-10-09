@@ -1,16 +1,5 @@
 {
-  "validate-content": {
-    "DUPLICATE bangkok-babymonster-world-tour-choom.md": {
-      "since": "2026-10-09",
-      "last": "2026-10-09",
-      "seen": 1
-    },
-    "DUPLICATE mexico-city-xg-world-tour-the-core.md": {
-      "since": "2026-10-09",
-      "last": "2026-10-09",
-      "seen": 1
-    }
-  },
+  "validate-content": {},
   "audit-translations": {},
   "audit-hours-claims": {}
 }
