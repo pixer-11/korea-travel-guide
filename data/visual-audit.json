@@ -7651,6 +7651,12 @@
   "reason": "patrol replace: Concert performance with stage setup and backdrop",
   "at": "2026-10-08T23:52:20.230Z"
  },
+ "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_1.jpg/3840px-Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_1.jpg": {
+  "slug": "goyang-charlie-puth-concert",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Concert performance with stage lighting, audience present",
+  "at": "2026-10-09T23:25:59.830Z"
+ },
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Charlie_Puth_al_Poble_Espanyol_%2857304%29.jpg/3840px-Charlie_Puth_al_Poble_Espanyol_%2857304%29.jpg": {
   "slug": "goyang-charlie-puth-concert",
   "verdict": "MATCH",
@@ -12657,6 +12663,12 @@
   "reason": "publish gate: Exterior facade of Central Market clearly shown with signage",
   "at": "2026-09-23T08:04:15.821Z"
  },
+ "kuala-lumpur-curiosite\u0001https://fastly.4sqi.net/img/general/original/48458031_2B09aU3V8qpVSA3J5Sgo-UyWqUj5awdBdqylV3TGJ20.jpg": {
+  "slug": "kuala-lumpur-curiosite",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Table-top dish photo, not representative venue hero shot",
+  "at": "2026-10-09T23:27:07.488Z"
+ },
  "kuala-lumpur-eric-chou-odyssey-stars-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Eric_Chou.jpg/3840px-Eric_Chou.jpg": {
   "slug": "kuala-lumpur-eric-chou-odyssey-stars-world-tour",
   "verdict": "MATCH",
@@ -13726,6 +13738,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Showroom street motorcycle, not MotoGP race or venue",
   "at": "2026-10-05T21:36:02.850Z"
+ },
+ "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/e/ee/Vladimir_leonov_motogp.jpg": {
+  "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
+  "verdict": "MATCH",
+  "reason": "patrol replace: MotoGP racer at circuit with safety barriers",
+  "at": "2026-10-09T23:27:52.117Z"
  },
  "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alvaro_Bautista-motogp-2015.JPG/3840px-Alvaro_Bautista-motogp-2015.JPG": {
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
@@ -18547,6 +18565,18 @@
   "reason": "patrol replace: Band members at event backdrop with sponsor logos",
   "at": "2026-10-07T23:49:41.598Z"
  },
+ "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/9/93/5_Seconds_of_Summer_11_15_2014_-25_%2815187260193%29.jpg": {
+  "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Visible photographer watermark overlaid on image",
+  "at": "2026-10-09T23:28:46.324Z"
+ },
+ "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/e/e2/5_Seconds_of_Summer_at_The_O2_Arena%2C_London%2C_2_April_2026_%2801%29.jpg": {
+  "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Concert stage with performers and dramatic lighting",
+  "at": "2026-10-09T23:28:49.619Z"
+ },
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/5_Seconds_of_Summer_at_Enmore_Theatre%2C_Sydney%2C_30.04.14.jpg/3840px-5_Seconds_of_Summer_at_Enmore_Theatre%2C_Sydney%2C_30.04.14.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
   "verdict": "MATCH",
@@ -19956,6 +19986,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Isolated packshot-style dish, not showing venue",
   "at": "2026-09-09T21:59:52.675Z"
+ },
+ "rome-cracco-roma\u0001https://fastly.4sqi.net/img/general/original/8274401_U7r1T2RFyyEDj7J1hiyshdUWSWOyJHfGFcspuwrpHDw.jpg": {
+  "slug": "rome-cracco-roma",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Isolated pasta display, not representative restaurant venue photo",
+  "at": "2026-10-09T23:28:58.718Z"
  },
  "rome-cracco-roma\u0001https://fastly.4sqi.net/img/general/original/8274401_nxjxQbVEwys9HeNu82WftnG3XutpGNFtXYsin9ObpzI.jpg": {
   "slug": "rome-cracco-roma",

@@ -2555,8 +2555,8 @@
   },
   "cameron-highlands-sam-poh-temple": {
    "width": 674,
-   "attempts": 7,
-   "nextTry": "2026-10-09",
+   "attempts": 8,
+   "nextTry": "2026-10-16",
    "flaggedAt": "2026-08-20",
    "lastResult": "no-wider"
   },
@@ -2569,29 +2569,29 @@
   },
   "hong-kong-montana": {
    "width": 1080,
-   "attempts": 6,
-   "nextTry": "2026-10-09",
+   "attempts": 7,
+   "nextTry": "2026-10-16",
    "flaggedAt": "2026-08-28",
    "lastResult": "no-wider"
   },
   "kuala-lumpur-niji-sushi-izakaya": {
    "width": 1080,
-   "attempts": 6,
-   "nextTry": "2026-10-09",
+   "attempts": 7,
+   "nextTry": "2026-10-16",
    "flaggedAt": "2026-08-28",
    "lastResult": "no-wider"
   },
   "lyon-ayla": {
    "width": 1008,
-   "attempts": 6,
-   "nextTry": "2026-10-09",
+   "attempts": 7,
+   "nextTry": "2026-10-16",
    "flaggedAt": "2026-08-28",
    "lastResult": "no-wider"
   },
   "madrid-el-campero": {
    "width": 1080,
-   "attempts": 6,
-   "nextTry": "2026-10-09",
+   "attempts": 7,
+   "nextTry": "2026-10-16",
    "flaggedAt": "2026-08-28",
    "lastResult": "no-wider"
   },
@@ -2632,8 +2632,8 @@
   },
   "jakarta-erre-urrechu": {
    "width": 1080,
-   "attempts": 5,
-   "nextTry": "2026-10-09",
+   "attempts": 6,
+   "nextTry": "2026-10-16",
    "flaggedAt": "2026-09-03",
    "lastResult": "no-wider"
   },
@@ -2988,5 +2988,5 @@
    "flaggedAt": "2026-10-05"
   }
  },
- "updated": "2026-10-09T14:34:35.790Z"
+ "updated": "2026-10-09T23:30:36.888Z"
 }
