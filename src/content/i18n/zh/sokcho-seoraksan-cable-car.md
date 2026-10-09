@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: sokcho-seoraksan-cable-car
-srcHash: 'b66ad282924e'
-title: 雪岳山缆车：束草旅行指南
-description: 雪岳山缆车从小公园（Sogongwon Park）附近的下站出发，直达雪岳山权金城要塞所在的山脊。
+srcHash: 'd4c734b50997'
+title: '雪岳山缆车（束草）：营业时间、排队与最佳乘坐时间'
+description: '从小公园到权金城山脊约六分钟：营业时间、为何要早到，以及缆车与山脊的景致。'
 quickAnswer: 雪岳山缆车从小公园（Sogongwon Park）附近的下站出发，约6分钟便可抵达雪岳山（Mt. Gwonggeumseong，海拔约705米）上的权金城（Gwongeumseong Fortress）要塞山脊，省去数小时陡峭爬山之苦。建议早上9点前到达，或选择工作日前往，以避开排队购票的长龙；往返全程（含前往要塞观景点的短程攀爬）预计需1至1.5小时。10月中下旬秋高气爽的清晨，是俯瞰雪岳山国立公园与东海的最佳观景时机。
 faq:
   - q: 缆车单程需要多长时间？

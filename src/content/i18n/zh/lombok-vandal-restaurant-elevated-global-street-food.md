@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: lombok-vandal-restaurant-elevated-global-street-food
-srcHash: '6165eb6c947b'
-title: Vandal Restaurant：升级版环球街头美食——龙目岛库塔美食指南
-description: Vandal Restaurant 是一家融合环球风味的街头美食餐厅，位于库塔龙目（Kuta Lombok）的 Jl. Raya Kuta 大街上，从这一带大多数民宿步行或骑摩托车都能很快到达。
+srcHash: '8675d258e9f8'
+title: 'Vandal Restaurant（龙目岛库塔）：菜单、营业时间与清静时段'
+description: '龙目岛库塔Jl. Raya Kuta上的环球街头美食餐厅：点什么、营业时间、较清静的时段，以及从民宿如何前往。'
 quickAnswer: Vandal Restaurant 是一家融合环球风味的街头美食餐厅，位于库塔龙目（Kuta Lombok）的 Jl. Raya Kuta 大街上，从这一带大多数民宿步行或骑摩托车都能很快到达。这里评分 4.7（243 条评价），适合在游览库塔海滩前后来一顿轻松的晚餐——建议工作日傍晚早些时候到访，此时座位最宽松，出品也最新鲜。
 faq:
   - q: 没有车怎么去 Vandal Restaurant？

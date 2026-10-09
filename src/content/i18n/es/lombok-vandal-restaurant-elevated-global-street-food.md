@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: lombok-vandal-restaurant-elevated-global-street-food
-srcHash: '6165eb6c947b'
-title: 'Vandal Restaurant | Comida callejera global con un toque elevado: dónde comer en Lombok'
-description: Vandal Restaurant es una cocina de comida callejera de inspiración global situada en Jl. Raya Kuta, en Kuta Lombok, a poca distancia a pie o en moto desde la mayoría de los alojamientos de la zona.
+srcHash: '8675d258e9f8'
+title: 'Vandal Restaurant (Kuta, Lombok): carta, horarios y horas tranquilas'
+description: 'Comida callejera de inspiración global en Jl. Raya Kuta, Kuta Lombok: qué pedir, horarios, las horas más tranquilas y cómo llegar desde los alojamientos.'
 quickAnswer: Vandal Restaurant es una cocina de comida callejera de inspiración global situada en Jl. Raya Kuta, en Kuta Lombok, a poca distancia a pie o en moto desde la mayoría de los alojamientos de la zona. Tiene una calificación de 4.7 sobre 243 reseñas y resulta ideal para una cena tranquila antes o después de explorar las playas de Kuta. Lo mejor es ir a primera hora de la tarde en un día de semana, cuando el ambiente es más calmado y la cocina ofrece sus platos más frescos.
 faq:
   - q: ¿Cómo llego a Vandal Restaurant sin coche?

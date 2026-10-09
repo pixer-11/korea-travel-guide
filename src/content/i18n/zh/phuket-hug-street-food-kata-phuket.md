@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: phuket-hug-street-food-kata-phuket
-srcHash: '2d32789f3d1f'
-title: 卡塔海滩美食推荐：Hug Street Food，普吉岛街头小吃好去处
-description: Hug Street Food 是卡塔（Karon 分区）一家评分很高的街头小吃摊，规模不大，走的是家常路线，位置就在卡塔海滩（Kata Beach）主街道旁的 Thanon Kake Kwan 路上。
+srcHash: 'c11eec762621'
+title: 'Hug Street Food（普吉岛卡塔）：菜单、营业时间与清静时段'
+description: '卡塔海滩主街旁的小型高分泰式街头小吃店：泰式炒河粉、青木瓜沙拉、炭烤肉，营业时间，以及容易有座位的时段。'
 quickAnswer: Hug Street Food 是卡塔（Karon 分区）一家评分很高的街头小吃摊，规模不大，走的是家常路线，位置就在卡塔海滩主街道旁的 Thanon Kake Kwan 路上。这里主打泰式经典小吃——泰式炒河粉、青木瓜沙拉、烤肉串、咖喱——现做现卖，价格实惠，最适合赶在日落人潮涌向海滩路之前，早早来吃一顿晚饭。凭借 421 条以上评论积累出的 4.8 分好评，这里更适合当作一站式的快速美食体验，而非正襟危坐的奢华大餐，建议饿着肚子过来，并做好和别人拼桌或坐高脚凳的准备。
 faq:
   - q: 怎么去卡塔的 Hug Street Food？

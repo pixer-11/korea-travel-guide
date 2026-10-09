@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: sokcho-seoraksan-cable-car
-srcHash: 'b66ad282924e'
-title: 'Teleférico de Seoraksan: Guía de viaje de Sokcho'
-description: El teleférico de Seoraksan lleva a los visitantes desde la estación base, cerca del parque Sogongwon, hasta la cresta de la Fortaleza de Gwongeumseong en el monte.
+srcHash: 'd4c734b50997'
+title: 'Teleférico de Seoraksan (Sokcho): horarios, colas y mejor hora'
+description: 'Del parque Sogongwon a la cresta de Gwongeumseong en unos seis minutos: horarios, por qué llegar temprano y cómo es el trayecto y la cresta.'
 quickAnswer: El teleférico de Seoraksan lleva a los visitantes desde la estación base, cerca del parque Sogongwon, hasta la cresta de la Fortaleza de Gwongeumseong en el monte Gwonggeumseong (unos 705 m) en aproximadamente 6 minutos, ahorrando horas de caminata empinada. Llega temprano (antes de las 9 a.m.) o visita un día de semana para evitar las largas filas para comprar boletos, y calcula entre 1 y 1.5 horas de ida y vuelta, incluida la breve subida al mirador de la fortaleza. Las mañanas despejadas de otoño (mediados a finales de octubre) ofrecen la mejor visibilidad sobre el Parque Nacional de Seoraksan y el Mar del Este.
 faq:
   - q: ¿Cuánto dura el trayecto en teleférico?

@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: washington-dc-founding-farmers-dc
-srcHash: '1d49406959ea'
-title: Founding Farmers DC：华盛顿特区美食推荐
-description: Founding Farmers DC 位于1924 Pennsylvania Ave NW，靠近福吉谷（Foggy Bottom）/乔治·华盛顿大学，是一家主打农场到餐桌理念的美式餐厅，以白脱牛奶饼干闻名。
+srcHash: 'f6376b002cce'
+title: 'Founding Farmers DC：菜单、营业时间与早午餐攻略'
+description: '雾谷附近1924 Pennsylvania Ave NW的农场直供美式餐厅：酪乳比司吉、炸鸡华夫、全天早午餐、营业时间，以及如何避开排队。'
 quickAnswer: Founding Farmers DC 位于1924 Pennsylvania Ave NW，靠近福吉谷（Foggy Bottom）/乔治·华盛顿大学，是一家主打农场到餐桌理念的美式餐厅，以白脱牛奶饼干（buttermilk biscuits）、炸鸡华夫饼和全天供应的brunch闻名——由于这是全城点评数最多的餐厅之一（超过23,000条点评，4.5星评分），前往时要做好排队的心理准备。建议工作日中午12点前或下午2点后前往，以避开人流高峰；周末brunch则务必提前预订。
 faq:
   - q: 在 Founding Farmers DC 用餐需要预订吗？

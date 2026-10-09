@@ -1,6 +1,6 @@
 ---
-title: 'Seoraksan Cable Car: Sokcho Travel Guide'
-description: "The Seoraksan Cable Car whisks visitors from the base station near Sogongwon Park up to Gwongeumseong Fortress ridge on Mt. Gwonggeumseong (about 705m) in roughly 6 minutes, saving hours of steep hiking."
+title: 'Seoraksan Cable Car, Sokcho: Hours, Queues and Best Time to Ride'
+description: 'The cable car from Sogongwon Park up to Gwongeumseong ridge in about six minutes: opening hours, why to arrive early, and what the ride and the ridge are like.'
 region: Sokcho
 country: South Korea
 category: attraction
