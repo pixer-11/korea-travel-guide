@@ -38,6 +38,9 @@ on:
       - 'Daily analytics report (Telegram)'
       - 'Discover current events (web search)'
       - 'Pinterest auto-pin'
+      # 2026-10-09 full review: the one scheduled workflow that neither reports
+      # for itself nor appeared here.
+      - 'Pinterest weekly analytics'
       - 'Personal-info guard'
       - 'Quality audit (intl venues)'
       - 'Refresh country facts (climate + holidays)'

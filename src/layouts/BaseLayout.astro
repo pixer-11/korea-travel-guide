@@ -98,6 +98,9 @@ const alternates = localized
 // TYPE must say so too: the day the first null landed, astro check failed CI
 // on this cast (2026-08-20, the "new store format, sweep every reader" rule).
 import ogMirror from '../../data/og-mirror.json';
+import adsData from '../../data/ads.json';
+import siteVerification from '../../data/site-verification.json';
+import { adsEnabled, adsenseLoaderSrc } from '../lib/ads.mjs';
 const mirrored = (u: string) => (ogMirror as Record<string, string | null>)[u] ?? u;
 const ogImage = new URL(mirrored(image || '/og-default.jpg'), Astro.site);
 const siteName = SITE.name;
@@ -251,6 +254,12 @@ const orgLd = {
     <title>{title.includes(siteName) ? title : (fitsWidth(`${title} · ${siteName}`, 60) ? `${title} · ${siteName}` : title)}</title>
     <meta name="description" content={description} />
     {!isNotFound && <link rel="canonical" href={canonical} />}
+    <!-- Search-engine ownership tokens (data/site-verification.json). Empty
+         values render nothing. Naver is the one that matters: Korean readers
+         are the site's largest real audience and Naver is where they search. -->
+    {siteVerification.naver && <meta name="naver-site-verification" content={siteVerification.naver} />}
+    {siteVerification.google && <meta name="google-site-verification" content={siteVerification.google} />}
+    {siteVerification.bing && <meta name="msvalidate.01" content={siteVerification.bing} />}
     {alternates.map((a) => <link rel="alternate" hreflang={a.hreflang} href={a.href} />)}
     {localized && <link rel="alternate" hreflang="x-default" href={siteHref(localizePath(canonicalPath, 'en'), Astro.site)} />}
     <!-- Allow large image previews (required for Google Discover cards) -->
@@ -317,6 +326,16 @@ const orgLd = {
         document.head.appendChild(s);
       })();
     </script>}
+
+    <!-- Ad network loader (data/ads.json, src/lib/ads.mjs). Renders nothing
+         until a publisher id is set there; then AdSense Auto ads on every
+         indexable page, never on noindex pages or the 404. async, so it never
+         blocks. Consent defaults above are unchanged: ad storage stays denied,
+         so ads serve non-personalised until the owner revisits the privacy
+         policy together with that default. -->
+    {!noAnalytics && !noindex && !isNotFound && adsEnabled(adsData) && (
+      <script is:inline async src={adsenseLoaderSrc(adsData)} crossorigin="anonymous"></script>
+    )}
 
     {
       jsonLd && (

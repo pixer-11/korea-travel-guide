@@ -11,6 +11,7 @@ import { computeDayTrips } from './src/lib/dayTrips.mjs';
 import { parseSourceFile } from './scripts/lib/src-hash.mjs';
 import { mergeRedirectRules } from './src/lib/redirect-rules.mjs';
 import { REGION_ALIAS } from './src/lib/region-alias.mjs';
+import { adsTxtLines } from './src/lib/ads.mjs';
 import { MONTHS, monthSlug, eligibleCountries, whenToGo } from './src/lib/when-to-go.mjs';
 import { isIndexableMonthPage, monthPageSignals } from './src/lib/thin-page-policy.mjs';
 // Region URLs switched from raw `region.toLowerCase()` (spaces left as %20 on 32
@@ -828,6 +829,17 @@ export default defineConfig({
     }),
     regionRedirectsIntegration(),
     { name: 'build-day', hooks: { 'astro:build:done': ({ dir }) => writeFileSync(fileURLToPath(new URL('build-day.txt', dir)), BUILD_DAY + String.fromCharCode(10)) } },
+    // /ads.txt from data/ads.json (src/lib/ads.mjs). Written only when a network
+    // is configured; an ads.txt that names nobody is a crawl error, not a signal.
+    {
+      name: 'ads-txt',
+      hooks: {
+        'astro:build:done': ({ dir }) => {
+          const lines = adsTxtLines(JSON.parse(readFileSync(new URL('./data/ads.json', import.meta.url), 'utf8')));
+          if (lines.length) writeFileSync(fileURLToPath(new URL('ads.txt', dir)), lines.join(String.fromCharCode(10)) + String.fromCharCode(10));
+        },
+      },
+    },
     trailingSlashIntegration(),
     sitemapSplitIntegration(),
   ],

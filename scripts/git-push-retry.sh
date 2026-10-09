@@ -128,6 +128,52 @@ frontmatter_ok_to_push() {
   return 0
 }
 
+# rebase 로 합쳐진 트리에서 "결정"을 다시 세운 뒤에 민다.
+#
+# 격리(draft: true), 영구 보류(heldFinal), 사람이 고른 대표사진(hero-pins)은
+# 어느 한 실행의 생성물이 아니라 기록된 결정이다. 그런데 이 결정들은 글
+# 파일의 프론트매터에 적히고, 그 파일을 다른 봇이 같은 밤에 건드린다. rebase 가
+# 두 변경을 깔끔히 합치면(충돌이 아니라서 -X ours 도 관여하지 않는다) 원격의
+# `heldFinal:` 줄 옆에 우리 쪽 `draft: false` 가 나란히 살아남는다 — 2026-10-06
+# 쌍둥이 4편이 그렇게 재공개됐고, 2026-09-23 에는 격리 2건이 그렇게 풀렸다.
+#
+# 지금까지의 수리는 alt-photos.yml 이 "다음 날" 재선언 커밋을 올리는 것이었다
+# (30일간 13건). 그 사이 하루는 결정이 뒤집힌 채로 라이브다. 결정이 뒤집히는
+# 지점은 정확히 여기, rebase 직후이므로 여기서 되돌린다. 커밋 전 검사가 아니라
+# 합쳐진 트리를 보는 유일한 자리다.
+#
+# 조건: 이 푸시가 글 마크다운을 건드릴 때만(가벼운 data/ 잡은 무관), 그리고
+# 재선언 스크립트를 실행할 수 있을 때만(npm ci 가 없으면 건너뛰되 말한다).
+# 재선언이 바꾼 것이 있으면 별도 커밋으로 올린다 — amend 는 HEAD 가 원격 커밋
+# 그 자체일 때(우리 커밋이 전부 skip 된 경우) 남의 커밋을 고쳐 쓰게 된다.
+reassert_decisions_after_rebase() {
+  if ! git diff --name-only "origin/$BRANCH" HEAD -- src/content/posts 2>/dev/null | grep -qE '\.md$'; then
+    return 0
+  fi
+  if [ ! -d node_modules/gray-matter ]; then
+    echo "  ↳ 결정 재선언 건너뜀 — node_modules 없음 (이 워크플로는 글을 건드리는데 npm ci 가 없다)"
+    return 0
+  fi
+  local s ran=0
+  for s in scripts/requarantine-mismatches.mjs scripts/reassert-held-final.mjs scripts/reassert-hero-pins.mjs; do
+    [ -f "$s" ] || continue
+    ran=1
+    if ! node "$s" > /tmp/reassert.log 2>&1; then
+      echo "::warning::$s 가 실패했다 — 이 결정은 이번 푸시에서 재선언되지 않는다"
+      tail -5 /tmp/reassert.log
+    fi
+  done
+  [ "$ran" = "1" ] || return 0
+  if git diff --quiet -- src/content/posts; then
+    return 0
+  fi
+  git add -- src/content/posts
+  local n
+  n=$(git diff --cached --name-only -- src/content/posts | wc -l | tr -d ' ')
+  git commit -q -m "fix: re-assert ${n} decision(s) the rebase dropped (draft holds, hero pins)" || return 0
+  echo "  ↳ rebase 가 뒤집은 결정 ${n}편을 되돌려 커밋했다"
+}
+
 for attempt in 1 2 3 4 5; do
   git fetch origin "$BRANCH" || true
   rebased=0
@@ -143,6 +189,7 @@ for attempt in 1 2 3 4 5; do
     fi
   fi
   if [ "$rebased" = "1" ]; then
+    reassert_decisions_after_rebase
     if ! frontmatter_ok_to_push; then exit 1; fi
     if git push origin "HEAD:$BRANCH"; then
       echo "pushed (attempt $attempt)"
