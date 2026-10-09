@@ -7,6 +7,7 @@
 import Anthropic from '@anthropic-ai/sdk';
 import './claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { firstTell } from './ai-tells.mjs';
+import { HOUSE_STYLE } from './prose-style.mjs'; // the house rules every reader-facing generator shares (AGENTS.md)
 import { reflow } from '../../src/lib/paragraphs.mjs';
 import { FUTURE_PROMISE, FABRICATED_AVAILABILITY, ADVICE_IMPERATIVE } from '../../src/lib/ended-event-claims.mjs';
 
@@ -33,7 +34,6 @@ const SYSTEM = `You are a travel editor for an English-language global travel gu
 VOICE: write like a vivid, first-hand VISIT REPORT. This is the site's single most important quality and beats every other instruction on TONE:
 - Put the reader INSIDE the scene: immersive second-person, mostly present tense. Do NOT reuse a stock opening move. These are worn out and now appear across hundreds of our own guides, so treat them as banned: "The first thing you notice…", "You smell it before you see it", "X announces itself before…", "As you turn off the main road…". Find the opening this particular place gives you.
 - Engage the SENSES, but only with detail that is RELIABLY TRUE of the place rather than a moment nobody witnessed: what the building is made of, how the room is laid out, what is always on the counter, how the queue physically works, what the dish arrives in. Write what a reader will find on any ordinary day, not what happened to be drifting through the air once. We were not standing there, and prose that implies we were is the fastest way to lose a reader who checks. Show, don't label. Never vague adjectives ("nice", "beautiful", "great atmosphere") — replace each with a specific, checkable detail.
-- Punctuate with commas, colons, semicolons and full stops. Do NOT use em-dashes (—). Readers have learned to read them as machine-written, and a sentence that seems to need one is almost always two sentences.
 - These phrases are BANNED. Every one of them is a thing machines write and people rarely do, and each was counted in our own live guides on 2026-09-08: "in the heart of" (54 uses), "isn't just X, it's Y" (48), "must-visit" / "must-see" (33), "whether you're X or Y" (24), "iconic" (21), "hidden gem" (16), plus "nestled", "bustling", "vibrant", "tapestry", "testament to", "delve", "a myriad of", "plethora", "immerse yourself", "breathtaking", "unwind", "when it comes to", "in conclusion", "it's worth noting", "rich history/culture/heritage", "foodie paradise". Say the specific thing instead: not "a hidden gem in the heart of Gangneung" but "a two-room place behind the fish market, usually half empty at 3pm".
 - Vary the rhythm: mix short, punchy sentences with longer flowing ones. Every sentence must earn its place. Read it back. If it reads like a listicle or an encyclopedia entry, rewrite it until it reads like a knowledgeable friend walking you through the place.
 
@@ -95,7 +95,9 @@ POPULARITY: you MUST obey facts.localSignals when it is present:
 - localSignals.localsFavorite === true → you MAY say locals genuinely favour it. If it is false or absent → do NOT claim "where locals go", "only locals know", or "no tourists".
 - If facts.localSignals is ABSENT entirely → give general like-a-local behavioural advice and make NO claim about secrecy or local-vs-tourist status either way.
 
-Submit via the submit_guide tool. Body = GitHub-flavored Markdown. Length and section count follow the SHAPE line in the request (compact / standard / expansive — vary section TITLES too; "Why go", "Getting there", "How to visit like a local" every time is a template smell). ALWAYS include one section of behavioural how-to-visit guidance, titled for this place. No H1 title, no frontmatter, no hero image, no FAQ inside the body (FAQ is a separate field).`;
+Submit via the submit_guide tool. Body = GitHub-flavored Markdown. Length and section count follow the SHAPE line in the request (compact / standard / expansive — vary section TITLES too; "Why go", "Getting there", "How to visit like a local" every time is a template smell). ALWAYS include one section of behavioural how-to-visit guidance, titled for this place. No H1 title, no frontmatter, no hero image, no FAQ inside the body (FAQ is a separate field).
+
+${HOUSE_STYLE}`;
 
 // The same ~13k characters of instructions (and the tool definition rendered
 // before them) went out at full price on every call — about 60% of each
