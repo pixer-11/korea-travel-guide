@@ -12,6 +12,7 @@
 // ─────────────────────────────────────────────────────────────
 import { loadTokens, saveTokens, refreshTokens, igPublish, thPublish, threadsText, isIgDay, TOKEN_FILE } from './meta-social.mjs';
 import { existsSync } from 'node:fs';
+import { recordPublished, collectSocialInsights, insightsLines } from './social-insights.mjs';
 
 const kstDay = () => new Date(Date.now() + 9 * 3600e3).toISOString().slice(0, 10);
 
@@ -104,6 +105,7 @@ export async function runSocialPublish(state, { force = false } = {}) {
     try {
       const r = await thPublish({ token: tokens.th.token, text: threadsText(m.thOption, m.link), imageUrls: m.urls });
       s.thDay = day; s.thSlug = m.slug; s.thId = r.id;
+      recordPublished(s, { day, slug: m.slug, thId: r.id });
       done.push(`스레드 ✅ (${m.urls.length}장) ${r.permalink || '(게시됨: ' + r.id + ')'}`);
     } catch (e) { failed.push(`스레드 ✗ ${String(e.message).slice(0, 160)}`); }
   }
@@ -112,6 +114,7 @@ export async function runSocialPublish(state, { force = false } = {}) {
     try {
       const r = await igPublish({ token: tokens.ig.token, imageUrls: m.urls, caption: m.igCaption });
       s.igDay = day; s.igSlug = m.slug; s.igId = r.id;
+      recordPublished(s, { day, slug: m.slug, igId: r.id });
       done.push(`인스타 ✅ instagram.com/${r.username} (캐러셀 ${m.urls.length}장)`);
     } catch (e) { failed.push(`인스타 ✗ ${String(e.message).slice(0, 160)}`); }
   }
@@ -121,6 +124,11 @@ export async function runSocialPublish(state, { force = false } = {}) {
     ...done,
     ...failed.map((f) => `⚠️ ${f} — 다음 아침 시도에서 자동 재시도`),
   ];
+  // Seven-day performance of earlier posts, read once each (lib/social-insights).
+  // Measured AFTER today's publish so a slow Meta answer can never delay the
+  // post, and absorbed entirely: a missing number is a line, not a red job.
+  const measured = await collectSocialInsights(s, tokens, { today: day });
+  lines.push(...insightsLines(measured));
   if (!wantIg && s.igDay !== day) lines.push('인스타는 오늘 쉬는 날(월·수·금만 게시)');
   await tg(lines.join('\n'));
   console.log(`SOCIAL_SUMMARY th=${s.thDay === day ? 'ok' : 'pending'} ig=${isIgDay() ? (s.igDay === day ? 'ok' : 'pending') : 'off-day'} failed=${failed.length}`);
