@@ -1,4 +1,5 @@
 SKIP new city "Macau" — weekly new-city cap (2/7d) reached
+SKIP new city "Macau Peninsula" — weekly new-city cap (2/7d) reached
 SKIP new city "San Francisco" — weekly new-city cap (2/7d) reached
 SKIP new city "Seattle" — weekly new-city cap (2/7d) reached
 SKIP new city "Washington DC" — weekly new-city cap (2/7d) reached
@@ -25,7 +26,7 @@ Busan, South Korea — 13 qualifying post(s), variants: 3
 Dubai, United Arab Emirates — 13 qualifying post(s), variants: 3
   = Dubai 3d — unchanged, skipping
 
-Hong Kong, Hong Kong — 87 qualifying post(s), variants: 3, 5
+Hong Kong, Hong Kong — 89 qualifying post(s), variants: 3, 5
   = Hong Kong 3d — unchanged, skipping
   = Hong Kong 5d — unchanged, skipping
 

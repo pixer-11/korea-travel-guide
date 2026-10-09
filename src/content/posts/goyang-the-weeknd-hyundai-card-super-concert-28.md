@@ -1,6 +1,6 @@
 ---
 title: 'The Weeknd – Hyundai Card Super Concert 28: Dates, Tickets & Venue (Goyang)'
-description: The Weeknd – Hyundai Card Super Concert 28 in Goyang, South Korea — October 7-8, 2026. What it is, when and where, and how to plan around it.
+description: The Weeknd – Hyundai Card Super Concert 28 in Goyang, South Korea — October 7-8, 2026, the After Hours Til Dawn tour at Goyang Stadium.
 country: South Korea
 region: Goyang
 category: event
@@ -19,61 +19,61 @@ eventPerformer:
   kind: person
 eventFactsAsked: true
 heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_Weeknd_at_Bumbershoot_2015_%2821367628469%29.jpg/1920px-The_Weeknd_at_Bumbershoot_2015_%2821367628469%29.jpg'
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_Weeknd_at_Bumbershoot_2015_%2821367628469%29.jpg/1920px-The_Weeknd_at_Bumbershoot_2015_%2821367628469%29.jpg
   credit: 'Photo: Kayla Johnson from Seattle, United States / Wikimedia Commons (CC BY 2.0)'
   license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:The_Weeknd_at_Bumbershoot_2015_(21367628469).jpg'
+  source: https://commons.wikimedia.org/wiki/File:The_Weeknd_at_Bumbershoot_2015_(21367628469).jpg
   focus:
     x: 35
-    y: 27
+    'y': 27
     top: 8
     bottom: 45
 gallery: []
 tags:
   - goyang
   - event
-quickAnswer: The Weeknd's Hyundai Card Super Concert 28 brings the After Hours Til Dawn stadium tour to Goyang Stadium for two sold-out nights, October 7 and 8, 2026, his first South Korea dates in eight years. Both shows are already sold out, so tickets now mean resale or official exchange platforms only. Confirm timing and tickets on the official site before making any travel plans around Goyang Stadium.
+quickAnswer: The Weeknd's Hyundai Card Super Concert 28 was set for two nights at Goyang Stadium, October 7 and 8, 2026, bringing the After Hours Til Dawn stadium tour to South Korea for his first dates there in eight years. Tickets were sold through primary ticketing, with official resale and exchange platforms as the other route to a seat. Goyang Stadium sits northwest of Seoul, roughly 30-40 minutes from the city centre.
 faq:
   - q: Are tickets still available for The Weeknd in Goyang?
-    a: Both October 7 and 8, 2026 shows at Goyang Stadium are sold out through primary ticketing. Check official resale/exchange systems or Hyundai Card's concert page for legitimate releases.
+    a: Tickets for the October 7 and 8, 2026 shows at Goyang Stadium were sold through primary ticketing, with official resale and exchange systems and Hyundai Card's concert page as the other routes to a seat.
   - q: How do I get to Goyang Stadium from Seoul?
-    a: Take Seoul Subway Line 3 to Wondang Station, then walk or use the event shuttle. By taxi, expect 30-40 minutes from central Seoul depending on traffic, longer on show nights.
+    a: Seoul Subway Line 3 runs to Wondang Station, a short walk from the stadium, and event shuttles cover the same gap. By taxi it is 30-40 minutes from central Seoul depending on traffic, longer on show nights.
   - q: What is Hyundai Card Super Concert 28?
-    a: It's the 28th installment of Hyundai Card's Super Concert series, which brings major international acts to Korea; this edition is The Weeknd's After Hours Til Dawn stadium tour.
+    a: It's the 28th installment of Hyundai Card's Super Concert series, which brings major international acts to Korea; this edition was The Weeknd's After Hours Til Dawn stadium tour.
   - q: When was The Weeknd last in South Korea?
-    a: These October 2026 Goyang shows are his first Korean concerts in eight years.
+    a: His last Korean concerts were in 2018, which made the October 2026 Goyang dates his first in the country in eight years.
   - q: What else is near Goyang Stadium?
-    a: Ilsan Lake Park and the Western Seoul suburb of Ilsan are a short taxi ride away, useful for a meal or hotel before or after the show.
+    a: Ilsan Lake Park and the western Seoul suburb of Ilsan are a short taxi ride away, with plenty of restaurants and hotels.
 aiGenerated: true
 draft: false
 ---
-
-Two nights, one artist, eight years since his last Korean shows. That's the entire pitch for Hyundai Card Super Concert 28, and it sold out anyway.
+Two nights, one artist, eight years since his last Korean shows. That was the whole pitch for Hyundai Card Super Concert 28.
 
 ## The show itself
 
-The Weeknd plays Goyang Stadium on October 7 and 8, 2026, both dates under the After Hours Til Dawn stadium tour banner. This is a Hyundai Card Super Concert, the credit card company's long-running series that has previously brought Coldplay, Ed Sheeran and Beyoncé to Korea. It marks The Weeknd's first Korean appearance since 2018. Both nights are stadium-scale productions, so expect the tour's full staging: no stripped-down arena set.
+The Weeknd was set to play Goyang Stadium on October 7 and 8, 2026, both dates under the After Hours Til Dawn stadium tour banner. This is a Hyundai Card Super Concert, the credit card company's long-running series that has previously brought Coldplay, Ed Sheeran and Beyoncé to Korea. The dates were his first Korean concerts since 2018. Both nights were billed as stadium-scale productions with the tour's full staging rather than a stripped-down arena set.
 
 ## Getting to Goyang Stadium
 
 Goyang Stadium sits in Goyang, a satellite city northwest of Seoul in Gyeonggi Province, roughly 30-40 minutes from central Seoul by car or subway depending on traffic and transfers. The venue is a multi-purpose stadium used for football and large-scale concerts, so it has the infrastructure for stadium crowds: multiple gates, large parking areas, and nearby subway access.
 
 - Nearest station: Wondang Station on Seoul Subway Line 3, then a short walk or shuttle
-- Alternative: taxi from Ilsan or Daehwa if arriving from Seoul hotels
-- Expect road closures and heavy shuttle/taxi queues on show nights given the stadium's capacity
+- Alternative: taxi from Ilsan or Daehwa for anyone coming from Seoul hotels
+- Road closures and long shuttle and taxi queues are normal on show nights at a stadium this size
 
-Arrive with buffer time on both dates: October 7 and 8 fall on a Wednesday and Thursday in 2026, so plan around weekday traffic into Goyang if you're commuting from Seoul.
+October 7 and 8 fall on a Wednesday and Thursday in 2026, which puts both dates squarely in weekday traffic for anyone travelling out from Seoul.
 
 ## Tickets and resale reality
 
-Both shows are sold out through primary channels. That leaves official resale or exchange platforms as the realistic route, if the promoter or Hyundai Card offers one, or secondary marketplaces at markup. Confirm timing and tickets on the official site and on Hyundai Card's own concert page before trusting any third-party seller. Never buy tickets through unofficial social media resale posts; Korean stadium shows have a history of counterfeit QR codes circulating close to sold-out dates.
+Tickets were sold through primary ticketing. Beyond that, the realistic routes to a seat are official resale or exchange platforms, where the promoter or Hyundai Card runs one, and secondary marketplaces at a markup. Unofficial social media resale posts are the risky end of that market: Korean stadium shows have a history of counterfeit QR codes circulating around high-demand dates.
 
 ## Getting in without a scalper markup
 
-Sold-out stadium shows in Korea usually still move through official cancellation/exchange systems in the days before the event, where fans who can't attend release seats back through the ticketing platform rather than reselling privately. Checking the original ticketing site's exchange or cancellation-ticket function periodically is the safest way to find a legitimate seat.
+Sold-out stadium shows in Korea usually still move seats through official cancellation and exchange systems in the days before the event, where fans who can't attend release tickets back through the ticketing platform rather than reselling privately. The original ticketing site's exchange or cancellation-ticket function is the safest source of a legitimate seat.
 
-- Bring physical ID matching the ticket holder's name; Korean stadium concerts frequently enforce ID checks at gates for high-demand shows
-- Mobile tickets are standard; screenshots are usually rejected, so keep the ticketing app installed and logged in
-- Arrive at least 60-90 minutes before doors for stadium-scale security and bag checks
-- Merchandise lines form early and move slowly; if merch matters more than a good spot on the floor, prioritize that queue first
+- Physical ID matching the ticket holder's name is standard; Korean stadium concerts frequently enforce ID checks at the gates for high-demand shows
+- Mobile tickets are the norm and screenshots are usually rejected, so entry depends on the ticketing app itself
+- Queues for stadium-scale security and bag checks tend to build 60-90 minutes before doors
+- Merchandise lines form early and move slowly, which usually means choosing between a shirt and a good spot on the floor
 
+That trade-off is familiar to anyone who has done a stadium night in Korea, and Goyang is no exception.

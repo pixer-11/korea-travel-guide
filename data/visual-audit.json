@@ -3100,6 +3100,12 @@
   "reason": "publish gate: Iconic exterior of Titanic Belfast building shown clearly",
   "at": "2026-09-30T14:16:32.135Z"
  },
+ "belfast-ulster-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ulster_Museum_3.JPG/1920px-Ulster_Museum_3.JPG": {
+  "slug": "belfast-ulster-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior view of Ulster Museum building, representative shot",
+  "at": "2026-10-09T07:48:54.378Z"
+ },
  "bengaluru-403-forbidden\u0001https://upload.wikimedia.org/wikipedia/commons/a/ab/403_Forbidden_error.png": {
   "slug": "bengaluru-403-forbidden",
   "verdict": "MISMATCH",
@@ -3243,6 +3249,12 @@
   "verdict": "MATCH",
   "reason": "event publish gate: LE SSERAFIM performers posing for fans at event",
   "at": "2026-10-08T01:33:40.614Z"
+ },
+ "berlin-markthalle-neun\u0001https://upload.wikimedia.org/wikipedia/commons/a/ab/Markthalle_Neun_08.02.2015_16-21-31.JPG": {
+  "slug": "berlin-markthalle-neun",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior food stall view, representative of market venue",
+  "at": "2026-10-09T07:43:39.090Z"
  },
  "berlin-mustafa-s-gemuse-kebap\u0001https://upload.wikimedia.org/wikipedia/commons/0/02/Warteschlange_an_Mustafa%27s_Gem%C3%BCse_Kebap_%28Berlin%2C_2018%29.jpg": {
   "slug": "berlin-mustafa-s-gemuse-kebap",
@@ -3430,6 +3442,12 @@
   "reason": "Gourmet pintxos display, typical Bilbao cuisine",
   "reasonKo": "빌바오 특식 핀초스 진열",
   "at": "2026-08-04T11:57:23.749Z"
+ },
+ "birmingham-birmingham-museum-art-gallery\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Birmingham_Museum_and_Art_Gallery.jpg/1920px-Birmingham_Museum_and_Art_Gallery.jpg": {
+  "slug": "birmingham-birmingham-museum-art-gallery",
+  "verdict": "MATCH",
+  "reason": "publish gate: Birmingham Council House/clock tower, part of museum complex",
+  "at": "2026-10-09T07:47:55.116Z"
  },
  "birmingham-blacklock-birmingham\u0001https://fastly.4sqi.net/img/general/original/3266906_hfRkIwgVk_mY4Z3plO7Dgwhu-j6gamdhtk3VyrRbE8o.jpg": {
   "slug": "birmingham-blacklock-birmingham",
@@ -3780,6 +3798,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Storefront exterior of Meo Plants & Cafe, Brighton",
   "at": "2026-10-01T14:56:25.697Z"
+ },
+ "brighton-noodles-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Noodles_Street%2C_London_Road%2C_Brighton_2026-04-24.jpg/3840px-Noodles_Street%2C_London_Road%2C_Brighton_2026-04-24.jpg": {
+  "slug": "brighton-noodles-street",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior storefront of Noodles Street restaurant, representative view",
+  "at": "2026-10-09T07:41:17.577Z"
  },
  "brighton-preston-manor-and-preston-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cherry_Blossom_Walk_-_Preston_Park.jpg/3840px-Cherry_Blossom_Walk_-_Preston_Park.jpg": {
   "slug": "brighton-preston-manor-and-preston-park",
@@ -4741,6 +4765,12 @@
   "reason": "Iconic incense coils of Man Mo Temple, Central",
   "reasonKo": "맨모 사원의 상징적 향 소용돌이",
   "at": "2026-08-19T13:28:21.224Z"
+ },
+ "central-pottinger-street\u0001https://upload.wikimedia.org/wikipedia/commons/2/25/Pottinger_Street.JPG": {
+  "slug": "central-pottinger-street",
+  "verdict": "MATCH",
+  "reason": "publish gate: Street market scene matches Pottinger Street in Central, HK",
+  "at": "2026-10-09T07:38:07.263Z"
  },
  "central-stone-slab-street\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Pottinger_Street_stone_steps_at_the_bottom.JPG/3840px-Pottinger_Street_stone_steps_at_the_bottom.JPG": {
   "slug": "central-stone-slab-street",
@@ -7157,6 +7187,12 @@
   "verdict": "MATCH",
   "reason": "release check: Genuine yatai food stall scene, plausible Fukuoka night market venue",
   "at": "2026-08-11T04:11:57.794Z"
+ },
+ "fussen-hohenschwangau-castle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Schloss_Hohenschwangau_2021.jpg/1920px-Schloss_Hohenschwangau_2021.jpg": {
+  "slug": "fussen-hohenschwangau-castle",
+  "verdict": "MATCH",
+  "reason": "publish gate: Clear exterior view of the actual castle",
+  "at": "2026-10-09T07:47:00.496Z"
  },
  "fussen-hohes-schloss\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hohes-Schloss-Fuessen-JR-E-5578-2021-07-04.jpg/3840px-Hohes-Schloss-Fuessen-JR-E-5578-2021-07-04.jpg": {
   "slug": "fussen-hohes-schloss",
@@ -14501,6 +14537,12 @@
   "reason": "publish gate: Shows Senado Square with Holy House of Mercy building",
   "at": "2026-10-06T14:33:46.668Z"
  },
+ "macau-peninsula-walls-of-macau\u0001https://upload.wikimedia.org/wikipedia/commons/e/e8/Old_City_Walls_of_Macau_%E6%BE%B3%E9%96%80%E8%88%8A%E5%9F%8E%E7%89%86_-_panoramio.jpg": {
+  "slug": "macau-peninsula-walls-of-macau",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows historic wall and temple gate, representative of Macau walls",
+  "at": "2026-10-09T07:40:20.749Z"
+ },
  "macau-peninsula-wong-chi-kei\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Largo_do_Senado_Wong_Chi_Kei_25-03-2023.jpg/3840px-Largo_do_Senado_Wong_Chi_Kei_25-03-2023.jpg": {
   "slug": "macau-peninsula-wong-chi-kei",
   "verdict": "MATCH",
@@ -16443,6 +16485,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior facade with museum name clearly shown",
   "at": "2026-10-08T14:44:31.610Z"
+ },
+ "nape-macao-science-center\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Centro_de_Ciencia%2C_Macao%2C_2013-08-08%2C_DD_11.jpg/1920px-Centro_de_Ciencia%2C_Macao%2C_2013-08-08%2C_DD_11.jpg": {
+  "slug": "nape-macao-science-center",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of Macao Science Center, recognisable cone building",
+  "at": "2026-10-09T07:42:14.479Z"
  },
  "nape-macau-fisherman-s-wharf\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Macau_Fisherman%27s_Wharf_06-05-2023.jpg/3840px-Macau_Fisherman%27s_Wharf_06-05-2023.jpg": {
   "slug": "nape-macau-fisherman-s-wharf",
@@ -23467,6 +23515,12 @@
   "reason": "publish gate: Aerial view of Darling Harbour with Sydney skyline",
   "at": "2026-09-28T16:58:09.957Z"
  },
+ "sydney-glebe-markets\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Part_of_Glebe_Markets_April_2026.jpg/3840px-Part_of_Glebe_Markets_April_2026.jpg": {
+  "slug": "sydney-glebe-markets",
+  "verdict": "MATCH",
+  "reason": "publish gate: Outdoor market stalls with crowd, plausible Glebe Markets scene",
+  "at": "2026-10-09T07:44:40.137Z"
+ },
  "sydney-hans-zimmer-live\u0001https://upload.wikimedia.org/wikipedia/commons/2/24/Hans_Zimmer_live_-_Loire_Cotler_the_voice_of_Dune.jpg": {
   "slug": "sydney-hans-zimmer-live",
   "verdict": "MISMATCH",
@@ -23783,6 +23837,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Representative exterior of colonial building matching Taipa Village venue",
   "at": "2026-10-07T07:41:14.974Z"
+ },
+ "taipa-village-dra-laurinda-m-esparteiro-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Dra._Laurinda_M._Esparteiro_Viewing_Platform_%28Cross_Garden%29_26-02-2024.jpg/3840px-Dra._Laurinda_M._Esparteiro_Viewing_Platform_%28Cross_Garden%29_26-02-2024.jpg": {
+  "slug": "taipa-village-dra-laurinda-m-esparteiro-garden",
+  "verdict": "MATCH",
+  "reason": "publish gate: Garden paths, greenery, palm trees representative of this park",
+  "at": "2026-10-09T07:39:19.592Z"
  },
  "taipa-village-pak-tai-temple\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Pak_Tai_Temple_in_Taipa_18-10-2023.jpg/3840px-Pak_Tai_Temple_in_Taipa_18-10-2023.jpg": {
   "slug": "taipa-village-pak-tai-temple",

@@ -31934,11 +31934,11 @@
   "at": "2026-10-07T07:49:55.591Z"
  },
  "es/nape-poly-mgm-museum": {
-  "hash": "db87e26999a6",
+  "hash": "0878031c8992",
   "score": 1,
   "registerBreak": false,
-  "worst": "Sábados y domingos: 10am–7pm",
-  "at": "2026-10-07T07:50:02.888Z"
+  "worst": "Pague como se hace en Macao: en todo el complejo se aceptan tanto patacas como dólares",
+  "at": "2026-10-09T08:31:43.196Z"
  },
  "ja/coloane-camoes-garden": {
   "hash": "ec4e610e4409",
@@ -31955,11 +31955,11 @@
   "at": "2026-10-07T07:50:05.191Z"
  },
  "ja/nape-poly-mgm-museum": {
-  "hash": "fa82948a0566",
+  "hash": "f6ce370114da",
   "score": 1,
   "registerBreak": false,
-  "worst": "運営母体は名前のとおりで、北京の保利芸術博物館を手がける国有企業・中国保利集団とMGMが共同で運営しています。",
-  "at": "2026-10-07T07:50:06.473Z"
+  "worst": "カジノフロアやショッピングアーケードを通り過ぎるにつれて喧騒が遠のき、ギャラリーらしい静けさに包まれます。",
+  "at": "2026-10-09T08:31:52.091Z"
  },
  "ko/coloane-camoes-garden": {
   "hash": "a988bde6bdfa",
@@ -31976,11 +31976,11 @@
   "at": "2026-10-07T07:50:15.133Z"
  },
  "ko/nape-poly-mgm-museum": {
-  "hash": "4292f089c417",
+  "hash": "a0240e147e5c",
   "score": 1,
   "registerBreak": false,
-  "worst": "운영 주체는 이름에서도 드러납니다. 베이징 폴리 예술박물관을 운영하는 국유 기업 중국 폴리 그룹이 MGM과",
-  "at": "2026-10-07T07:50:23.531Z"
+  "worst": "운영 주체는 이름에 그대로 드러나 있습니다.",
+  "at": "2026-10-09T08:32:07.507Z"
  },
  "zh/coloane-camoes-garden": {
   "hash": "5fd70fed14b2",
@@ -31997,11 +31997,11 @@
   "at": "2026-10-07T07:50:26.145Z"
  },
  "zh/nape-poly-mgm-museum": {
-  "hash": "ef5ed53213f4",
+  "hash": "6faa1efc76cb",
   "score": 1,
   "registerBreak": false,
-  "worst": "博物馆还是和半岛行程搭配更合适，它正好处在历史城区和海滨之间。",
-  "at": "2026-10-07T07:50:27.305Z"
+  "worst": "从馆名就能看出它的运营方：一方是中国保利集团，这家国企也是北京保利艺术博物馆的幕后主人；另一方则是美高梅。",
+  "at": "2026-10-09T08:32:11.142Z"
  },
  "es/brighton-the-lanes": {
   "hash": "f078b3e38551",
@@ -32142,5 +32142,61 @@
   "registerBreak": false,
   "worst": "不少人专程前来，不为烧烤，就是冲着这条步道。",
   "at": "2026-10-08T14:57:43.538Z"
+ },
+ "es/barra-maritime-museum": {
+  "hash": "ecda3e91d456",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Este detalle sorprende a quienes dan por hecho, como en buena parte de Europa, que los museos",
+  "at": "2026-10-09T08:31:36.166Z"
+ },
+ "es/central-lan-kwai-fong": {
+  "hash": "9cac3d6ae606",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "no hablar de los bares",
+  "at": "2026-10-09T08:31:37.219Z"
+ },
+ "ja/barra-maritime-museum": {
+  "hash": "2e15a1af78cd",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "開館日は月曜日と水曜日〜日曜日で、時間は10am〜6pmです。",
+  "at": "2026-10-09T08:31:49.509Z"
+ },
+ "ja/central-lan-kwai-fong": {
+  "hash": "8e137a9e98d2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "現在、大型の祝日の夜に警察が柵の設置や一方通行の歩行規制、入口の封鎖などで厳しく人の流れを管理しているのは、この事故があったからです。",
+  "at": "2026-10-09T08:31:50.741Z"
+ },
+ "ko/barra-maritime-museum": {
+  "hash": "b7dea7f49354",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "계단처럼 층진 지붕선이 흔히 배의 돛에 비유됩니다.",
+  "at": "2026-10-09T08:31:57.898Z"
+ },
+ "ko/central-lan-kwai-fong": {
+  "hash": "1c7e56d21fc4",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "이 성장 과정과 깊이 얽힌 인물이 사업가 앨런 제먼(Allan Zeman)입니다.",
+  "at": "2026-10-09T08:32:03.466Z"
+ },
+ "zh/barra-maritime-museum": {
+  "hash": "9143f6f4d209",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "展品说明有中文、葡文和英文三种。多数游客会逛60到90分钟，船模爱好者待得更久也不奇怪。",
+  "at": "2026-10-09T08:32:08.647Z"
+ },
+ "zh/central-lan-kwai-fong": {
+  "hash": "df1747c3c3bb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "记得拉好包的拉链。斜坡上推挤很危险，要顺着人流走，别逆着挤。",
+  "at": "2026-10-09T08:32:09.819Z"
  }
 }
