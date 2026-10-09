@@ -1,41 +1,47 @@
 ---
-title: "Heavenly Queen Temple: Melbourne Travel Guide (4.7★)"
-description: "Heavenly Queen Temple is at 20 Joseph Rd in Footscray, in Melbourne's inner west, and it's an easy walk from Footscray Station. 4.7★ (796 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Melbourne"
-category: "attraction"
-pubDate: "2026-10-01T07:41:57.481Z"
+title: 'Heavenly Queen Temple: Melbourne Travel Guide (4.7★)'
+description: >-
+  Heavenly Queen Temple is at 20 Joseph Rd in Footscray, in Melbourne's inner
+  west, and it's an easy walk from Footscray Station. 4.7★ (800 reviews) — what
+  visitors say, hours, and tips.
+country: Australia
+region: Melbourne
+category: attraction
+pubDate: '2026-10-01T07:41:57.481Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/6/68/Heavenly_Queen_Temple%2C_Footscray%2C_Victoria%2C_Australia_2013.jpg"
-  credit: "Photo: Danflood / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Heavenly_Queen_Temple,_Footscray,_Victoria,_Australia_2013.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/68/Heavenly_Queen_Temple%2C_Footscray%2C_Victoria%2C_Australia_2013.jpg
+  credit: 'Photo: Danflood / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Heavenly_Queen_Temple,_Footscray,_Victoria,_Australia_2013.jpg
+  via: act
   focus:
     x: 40
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJLQQSTZld1moRkphlVzEMw6s"
-  name: "Heavenly Queen Temple"
-  address: "20 Joseph Rd, Footscray VIC 3011, Australia"
+  id: ChIJLQQSTZld1moRkphlVzEMw6s
+  name: Heavenly Queen Temple
+  address: '20 Joseph Rd, Footscray VIC 3011, Australia'
   rating: 4.7
-  userRatingsTotal: 796
-  googleMapsUrl: "https://maps.google.com/?cid=12376749607003461778&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 800
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12376749607003461778&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -37.7987173
   lng: 144.91418919999998
-  phone: "+61 3 9687 3606"
+  phone: +61 3 9687 3606
   openingHours:
-    - "Monday: 9:30 AM – 3:30 PM"
-    - "Tuesday: 9:30 AM – 3:30 PM"
-    - "Wednesday: 9:30 AM – 3:30 PM"
-    - "Thursday: 9:30 AM – 3:30 PM"
-    - "Friday: 9:30 AM – 3:30 PM"
-    - "Saturday: 9:30 AM – 4:00 PM"
-    - "Sunday: 9:30 AM – 4:00 PM"
+    - 'Monday: 9:30 AM – 3:30 PM'
+    - 'Tuesday: 9:30 AM – 3:30 PM'
+    - 'Wednesday: 9:30 AM – 3:30 PM'
+    - 'Thursday: 9:30 AM – 3:30 PM'
+    - 'Friday: 9:30 AM – 3:30 PM'
+    - 'Saturday: 9:30 AM – 4:00 PM'
+    - 'Sunday: 9:30 AM – 4:00 PM'
   busyness:
-    updated: 2026-10-01
+    updated: 2026-10-01T00:00:00.000Z
     weekdayQuiet:
       - 10
       - 14
@@ -46,24 +52,43 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_7336774d457a566c68706b526f6d31646c5a545351514c4a496843"
+    venueId: ven_7336774d457a566c68706b526f6d31646c5a545351514c4a496843
 tags:
-  - "melbourne"
-  - "historic site"
-quickAnswer: "Heavenly Queen Temple is at 20 Joseph Rd in Footscray, in Melbourne's inner west, and it's an easy walk from Footscray Station. It's a working Chinese temple to Mazu, the sea goddess. Go on a weekday between 10am and 3pm for the calmest visit, and avoid weekends from 10am to 4pm, when it's busiest."
+  - melbourne
+  - historic site
+quickAnswer: >-
+  Heavenly Queen Temple is at 20 Joseph Rd in Footscray, in Melbourne's inner
+  west, and it's an easy walk from Footscray Station. It's a working Chinese
+  temple to Mazu, the sea goddess. Go on a weekday between 10am and 3pm for the
+  calmest visit, and avoid weekends from 10am to 4pm, when it's busiest.
 faq:
-  - q: "When is the quietest time to visit Heavenly Queen Temple?"
-    a: "Weekdays between 10am and 3pm are the calmest. The busiest time is weekends from 10am to 4pm, so if you have to go on a Saturday or Sunday, arrive right at the 9:30am opening."
-  - q: "What are the opening hours?"
-    a: "It opens at 9:30am every day. It closes at 3:30pm Monday to Friday and at 4pm on Saturday and Sunday."
-  - q: "How do I get there by public transport?"
-    a: "Take a Sunbury, Werribee or Williamstown line train to Footscray Station. It's a few stops from Southern Cross and Flinders Street. From there it's a short walk south to 20 Joseph Rd, near the Maribyrnong River."
-  - q: "How long should I spend there, and what should I wear?"
-    a: "Allow 30 to 45 minutes. It's a working place of worship, so cover your shoulders, avoid very short shorts, keep your voice down and ask before photographing anyone who is praying."
-  - q: "What else is nearby?"
-    a: "Footscray Market and the Vietnamese restaurants on and around Hopkins Street are a short walk away. The Maribyrnong River path and Footscray Wharf are close by if you want a riverside walk afterwards."
+  - q: When is the quietest time to visit Heavenly Queen Temple?
+    a: >-
+      Weekdays between 10am and 3pm are the calmest. The busiest time is
+      weekends from 10am to 4pm, so if you have to go on a Saturday or Sunday,
+      arrive right at the 9:30am opening.
+  - q: What are the opening hours?
+    a: >-
+      It opens at 9:30am every day. It closes at 3:30pm Monday to Friday and at
+      4pm on Saturday and Sunday.
+  - q: How do I get there by public transport?
+    a: >-
+      Take a Sunbury, Werribee or Williamstown line train to Footscray Station.
+      It's a few stops from Southern Cross and Flinders Street. From there it's
+      a short walk south to 20 Joseph Rd, near the Maribyrnong River.
+  - q: 'How long should I spend there, and what should I wear?'
+    a: >-
+      Allow 30 to 45 minutes. It's a working place of worship, so cover your
+      shoulders, avoid very short shorts, keep your voice down and ask before
+      photographing anyone who is praying.
+  - q: What else is nearby?
+    a: >-
+      Footscray Market and the Vietnamese restaurants on and around Hopkins
+      Street are a short walk away. The Maribyrnong River path and Footscray
+      Wharf are close by if you want a riverside walk afterwards.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-09'
 ---
 
 Joseph Road is not where you'd expect to find a goddess of the sea. It's a stretch of Footscray close to the Maribyrnong River, where apartment blocks are going up on what used to be industrial land. Then you reach number 20. Red and gold take over, incense smoke rises from the forecourt, and a Chinese temple is going about its day.

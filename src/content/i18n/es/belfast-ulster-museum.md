@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: belfast-ulster-museum
-srcHash: 'ab107b69d034'
+srcHash: '1e2241852290'
 title: 'Museo del Ulster (Ulster Museum): guía de viaje de Belfast (4,7★)'
-description: En pleno Jardín Botánico, al sur de Belfast y a diez minutos a pie de la estación de tren de Botanic, el Museo del Ulster reúne arte irlandés, historia natural y la historia de Irlanda del Norte. Con una valoración de 4,7★ (5.948 reseñas), aquí encontrará las opiniones de los visitantes, el horario y varios consejos.
+description: En pleno Jardín Botánico, al sur de Belfast y a diez minutos a pie de la estación de tren de Botanic, el Museo del Ulster reúne arte irlandés, historia natural y la historia de Irlanda del Norte. Con una valoración de 4,7★ (5.950 reseñas), aquí encontrará las opiniones de los visitantes, el horario y varios consejos.
 quickAnswer: El Museo del Ulster (Ulster Museum) se encuentra dentro del Jardín Botánico (Botanic Gardens), al sur de Belfast, a diez minutos a pie de la estación de tren de Botanic. Sus colecciones abarcan el arte irlandés, la historia natural y la historia de Irlanda del Norte. Abre de martes a domingo, de 10:00 a 17:00, y cierra los lunes. Como los fines de semana la mayor afluencia se concentra entre las 11:00 y las 17:00, lo recomendable es llegar el sábado o el domingo a la hora de apertura, a las 10:00.
 faq:
   - q: ¿Cuándo hay menos gente en el Museo del Ulster?

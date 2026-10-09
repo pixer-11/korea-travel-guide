@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: melbourne-heavenly-queen-temple
-srcHash: '283f55c31dc8'
+srcHash: '65dc36520203'
 title: 墨尔本天后宫旅行指南（4.7★）
-description: 天后宫位于墨尔本内西区的富士贵（Footscray），地址是20 Joseph Rd，从富士贵站步行即可轻松到达。4.7★（796条评价），本文汇总游客评价、开放时间和参观建议。
+description: 天后宫位于墨尔本内西区的富士贵（Footscray），地址是20 Joseph Rd，从富士贵站步行即可轻松到达。4.7★（800条评价），本文汇总游客评价、开放时间和参观建议。
 quickAnswer: 天后宫位于墨尔本内西区的富士贵（Footscray），地址是20 Joseph Rd，从富士贵站步行即可轻松到达。这是一座供奉海神妈祖的中式庙宇，至今仍有信众前来上香。想清静参观，建议选工作日10am至3pm前往；周末10am至4pm人最多，最好避开。
 faq:
   - q: 什么时候去天后宫人最少？

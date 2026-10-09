@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: birmingham-birmingham-museum-art-gallery
-srcHash: '3eb7839e095e'
+srcHash: 'ba1ee919cd71'
 title: 'Museo y Galería de Arte de Birmingham: guía de viaje (4.5★)'
-description: En Chamberlain Square, en pleno centro de Birmingham y a unos 10 minutos a pie de la estación de Birmingham New Street, se alza el Museo y Galería de Arte de Birmingham. Con una valoración de 4.5★ (10,840 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos útiles.
+description: En Chamberlain Square, en pleno centro de Birmingham y a unos 10 minutos a pie de la estación de Birmingham New Street, se alza el Museo y Galería de Arte de Birmingham. Con una valoración de 4.5★ (10,841 reseñas), aquí encontrará las opiniones de los visitantes, los horarios y consejos útiles.
 quickAnswer: El Museo y Galería de Arte de Birmingham (Birmingham Museum & Art Gallery) se encuentra en Chamberlain Square, en el centro de la ciudad, a unos 10 minutos a pie de la estación de Birmingham New Street. Su fama se debe a la pintura prerrafaelita, a la Sala Redonda (Round Room), coronada por una cúpula, y al oro anglosajón del tesoro de Staffordshire (Staffordshire Hoard). Abre de martes a domingo, de 10 a. m. a 5 p. m., y cierra los lunes. Si va en fin de semana, conviene llegar a las 10 a. m., porque entre las 11 a. m. y las 5 p. m. las salas registran la mayor afluencia.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Museo y Galería de Arte de Birmingham?

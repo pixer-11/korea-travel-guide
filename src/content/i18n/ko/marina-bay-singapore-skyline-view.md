@@ -1,9 +1,9 @@
 ---
 lang: ko
 slug: marina-bay-singapore-skyline-view
-srcHash: '6e4e4f43b9a6'
+srcHash: '90789bfafcd9'
 title: '싱가포르 스카이라인 뷰: 마리나베이 여행 가이드 (4.8★)'
-description: 싱가포르 스카이라인 뷰(Singapore Skyline View)는 마리나베이의 마리나베이샌즈 쪽, 10 Bayfront Ave에 있는 수변 전망 명소입니다. 입장료가 없고 24시간 열려 있습니다. 평점 4.8★(리뷰 377개)를 받은 이곳의 방문객 후기와 운영 시간, 둘러보기 팁을 정리했습니다.
+description: 싱가포르 스카이라인 뷰(Singapore Skyline View)는 마리나베이의 마리나베이샌즈 쪽, 10 Bayfront Ave에 있는 수변 전망 명소입니다. 입장료가 없고 24시간 열려 있습니다. 평점 4.8★(리뷰 379개)를 받은 이곳의 방문객 후기와 운영 시간, 둘러보기 팁을 정리했습니다.
 quickAnswer: 싱가포르 스카이라인 뷰(Singapore Skyline View)는 마리나베이의 마리나베이샌즈 쪽, 10 Bayfront Ave에 자리한 수변 전망 명소입니다. 입장료가 없고 24시간 개방됩니다. 물 건너편 정면으로 중심업무지구의 고층 빌딩과 풀러턴 호텔, 멀라이언이 펼쳐집니다. 여유롭게 보려면 주말 아침에 가시는 것이 좋습니다. 주말 4pm–11pm은 사람이 몰리는 시간대이니 피하시기 바랍니다.
 faq:
   - q: 싱가포르 스카이라인 뷰까지 어떻게 가나요?

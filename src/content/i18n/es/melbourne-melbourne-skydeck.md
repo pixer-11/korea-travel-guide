@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: melbourne-melbourne-skydeck
-srcHash: '410868db1ef9'
+srcHash: 'a21957ff45bc'
 title: 'Melbourne Skydeck: guía de viaje (4.5★)'
-description: En la planta 88 de la Eureka Tower, en 7 Riverside Quay (Southbank), se encuentra el Melbourne Skydeck, el mirador público más alto de la ciudad. Con una valoración de 4.5★ (17,571 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
+description: En la planta 88 de la Eureka Tower, en 7 Riverside Quay (Southbank), se encuentra el Melbourne Skydeck, el mirador público más alto de la ciudad. Con una valoración de 4.5★ (17,602 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.
 quickAnswer: En la planta 88 de la Eureka Tower, en 7 Riverside Quay (Southbank), se encuentra el Melbourne Skydeck, el mirador público más alto de la ciudad. Entre semana, el momento más tranquilo abarca de 12pm a 9pm. Los fines de semana conviene ir entre las 8pm y las 9pm y evitar la hora punta, que va de 2pm a 9pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Melbourne Skydeck?

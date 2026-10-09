@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: manchester-st-peter-s-square
-srcHash: '68fd2b70189b'
+srcHash: '7301753162e9'
 title: 'St. Peter''s Square: guía de viaje de Mánchester (4.6★)'
-description: 'Rodeada por la cúpula de la Biblioteca Central, la Ampliación del Ayuntamiento y el Cenotafio, St. Peter''s Square es la gran plaza cívica del centro de Mánchester y la atraviesa la parada de Metrolink con más tráfico de la ciudad. Valoración de 4.6★ (2,852 reseñas): opiniones de los visitantes, horarios y consejos.'
+description: 'Rodeada por la cúpula de la Biblioteca Central, la Ampliación del Ayuntamiento y el Cenotafio, St. Peter''s Square es la gran plaza cívica del centro de Mánchester y la atraviesa la parada de Metrolink con más tráfico de la ciudad. Valoración de 4.6★ (2,858 reseñas): opiniones de los visitantes, horarios y consejos.'
 quickAnswer: Rodeada por la cúpula de la Biblioteca Central, la Ampliación del Ayuntamiento y el Cenotafio, St. Peter's Square es la gran plaza cívica del centro de Mánchester. Por ella pasa la parada de Metrolink con más tráfico de la ciudad. Permanece abierta a todas horas y todos los días. Para recorrer la plaza y sus monumentos bastan 30 minutos, pero conviene reservar 90 si se quiere entrar en la biblioteca.
 faq:
   - q: ¿Cómo se llega a St. Peter's Square en transporte público?

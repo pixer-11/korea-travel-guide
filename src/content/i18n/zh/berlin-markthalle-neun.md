@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: berlin-markthalle-neun
-srcHash: 'f34b7d3df821'
+srcHash: '93f4d904f3c4'
 title: 第九市场大厅（Markthalle Neun）：柏林旅行指南（4.4★）
-description: 第九市场大厅（Markthalle Neun）是一座建于19世纪的红砖市场大厅，位于柏林克罗伊茨贝格区的Eisenbahnstraße，从格尔利茨车站（Görlitzer Bahnhof，U1/U3）步行约五分钟即到。厅内美食摊位和生产者摊档林立，还摆着一排排供大家拼桌的长桌。评分4.4★（20,425条评价），本文汇总游客评价、营业时间和实用建议。
+description: 第九市场大厅（Markthalle Neun）是一座建于19世纪的红砖市场大厅，位于柏林克罗伊茨贝格区的Eisenbahnstraße，从格尔利茨车站（Görlitzer Bahnhof，U1/U3）步行约五分钟即到。厅内美食摊位和生产者摊档林立，还摆着一排排供大家拼桌的长桌。评分4.4★（20,428条评价），本文汇总游客评价、营业时间和实用建议。
 quickAnswer: 第九市场大厅（Markthalle Neun）是一座建于19世纪的红砖市场大厅，位于柏林克罗伊茨贝格区的Eisenbahnstraße，从格尔利茨车站（Görlitzer Bahnhof，U1/U3）步行约五分钟即到。厅内美食摊位和生产者摊档林立，还摆着一排排拼桌用的长桌。工作日人相对少，周六上午11点至晚上7点人最多。周一至周六上午9点至晚上8点营业；周四有晚间街头美食活动，营业至晚上10点；周日闭馆。
 faq:
   - q: 什么时候去第九市场大厅人最少？

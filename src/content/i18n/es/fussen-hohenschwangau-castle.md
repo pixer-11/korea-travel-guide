@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: fussen-hohenschwangau-castle
-srcHash: '2e68d92c2aad'
+srcHash: 'd51fb47e11e7'
 title: 'Castillo de Hohenschwangau: guía de viaje de Füssen (4.6★)'
-description: A unos 4 km de Füssen, en el pueblo del mismo nombre, se alza el castillo de Hohenschwangau. Con una valoración de 4.6★ (38,477 reseñas), le contamos qué opinan los visitantes, cuál es el horario y qué conviene saber antes de ir.
+description: A unos 4 km de Füssen, en el pueblo del mismo nombre, se alza el castillo de Hohenschwangau. Con una valoración de 4.6★ (38,482 reseñas), le contamos qué opinan los visitantes, cuál es el horario y qué conviene saber antes de ir.
 quickAnswer: El castillo de Hohenschwangau se encuentra en el pueblo homónimo, a unos 4 km de Füssen. Fue la residencia de infancia del rey Luis II, y sus muros son de un amarillo ocre inconfundible. Su interior solo puede recorrerse en una visita guiada con hora fija. Abre todos los días de 9am a 4:30pm. Los momentos más tranquilos son de 9am a 11am entre semana y de 9am a 10am los fines de semana. Conviene evitar las tardes de sábado y domingo, de 12pm a 4pm.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el castillo de Hohenschwangau?

@@ -1,44 +1,50 @@
 ---
-title: "Hohenschwangau Castle: Füssen Travel Guide (4.6★)"
-description: "Hohenschwangau Castle sits in the village of Hohenschwangau, about 4 km from Füssen. 4.6★ (38,477 reviews) — what visitors say, hours, and tips."
-country: "Germany"
-region: "Füssen"
-category: "attraction"
-pubDate: "2026-10-09T07:47:07.487Z"
+title: 'Hohenschwangau Castle: Füssen Travel Guide (4.6★)'
+description: >-
+  Hohenschwangau Castle sits in the village of Hohenschwangau, about 4 km from
+  Füssen. 4.6★ (38,482 reviews) — what visitors say, hours, and tips.
+country: Germany
+region: Füssen
+category: attraction
+pubDate: '2026-10-09T07:47:07.487Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Schloss_Hohenschwangau_2021.jpg/1920px-Schloss_Hohenschwangau_2021.jpg"
-  credit: "Photo: Thomas Wolf, www.foto-tw.de / Wikimedia Commons (CC BY-SA 3.0 de)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Schloss_Hohenschwangau_2021.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Schloss_Hohenschwangau_2021.jpg/1920px-Schloss_Hohenschwangau_2021.jpg
+  credit: 'Photo: Thomas Wolf, www.foto-tw.de / Wikimedia Commons (CC BY-SA 3.0 de)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Schloss_Hohenschwangau_2021.jpg'
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Castillo_de_Hohenschwangau%2C_F%C3%BCssen%2C_Alemania%2C_2012-10-06%2C_DD_01.jpg/3840px-Castillo_de_Hohenschwangau%2C_F%C3%BCssen%2C_Alemania%2C_2012-10-06%2C_DD_01.jpg"
-    credit: "Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Castillo_de_Hohenschwangau,_F%C3%BCssen,_Alemania,_2012-10-06,_DD_01.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Castillo_de_Hohenschwangau%2C_F%C3%BCssen%2C_Alemania%2C_2012-10-06%2C_DD_01.jpg/3840px-Castillo_de_Hohenschwangau%2C_F%C3%BCssen%2C_Alemania%2C_2012-10-06%2C_DD_01.jpg
+    credit: 'Photo: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Castillo_de_Hohenschwangau,_F%C3%BCssen,_Alemania,_2012-10-06,_DD_01.jpg
 place:
-  id: "ChIJh24YuUn2nEcRGNZJt6DvLDE"
-  name: "Hohenschwangau Castle"
-  address: "Alpseestraße 30, 87645 Schwangau-Hohenschwangau, Germany"
+  id: ChIJh24YuUn2nEcRGNZJt6DvLDE
+  name: Hohenschwangau Castle
+  address: 'Alpseestraße 30, 87645 Schwangau-Hohenschwangau, Germany'
   rating: 4.6
-  userRatingsTotal: 38477
-  googleMapsUrl: "https://maps.google.com/?cid=3543470480382613016&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 38482
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=3543470480382613016&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 47.5556743
   lng: 10.7363804
-  phone: "+49 8362 930830"
+  phone: +49 8362 930830
   openingHours:
-    - "Monday: 9:00 AM – 4:30 PM"
-    - "Tuesday: 9:00 AM – 4:30 PM"
-    - "Wednesday: 9:00 AM – 4:30 PM"
-    - "Thursday: 9:00 AM – 4:30 PM"
-    - "Friday: 9:00 AM – 4:30 PM"
-    - "Saturday: 9:00 AM – 4:30 PM"
-    - "Sunday: 9:00 AM – 4:30 PM"
+    - 'Monday: 9:00 AM – 4:30 PM'
+    - 'Tuesday: 9:00 AM – 4:30 PM'
+    - 'Wednesday: 9:00 AM – 4:30 PM'
+    - 'Thursday: 9:00 AM – 4:30 PM'
+    - 'Friday: 9:00 AM – 4:30 PM'
+    - 'Saturday: 9:00 AM – 4:30 PM'
+    - 'Sunday: 9:00 AM – 4:30 PM'
   busyness:
-    updated: 2026-10-09
+    updated: 2026-10-09T00:00:00.000Z
     weekdayQuiet:
       - 9
       - 10
@@ -49,24 +55,45 @@ place:
       - 13
       - 14
       - 15
-    venueId: "ven_45444c764436744a5a4e475263456e326e5575593432684a496843"
+    venueId: ven_45444c764436744a5a4e475263456e326e5575593432684a496843
 tags:
-  - "füssen"
-  - "museum"
-quickAnswer: "Hohenschwangau Castle sits in the village of Hohenschwangau, about 4 km from Füssen. It's the ochre-yellow childhood home of King Ludwig II, and you can only see the inside on a timed guided tour. The listed hours are 9am to 4:30pm daily, it's calmest from 9am to 11am on weekdays and 9am to 10am at weekends, and you should avoid weekend afternoons from 12pm to 4pm."
+  - füssen
+  - museum
+quickAnswer: >-
+  Hohenschwangau Castle sits in the village of Hohenschwangau, about 4 km from
+  Füssen. It's the ochre-yellow childhood home of King Ludwig II, and you can
+  only see the inside on a timed guided tour. The listed hours are 9am to 4:30pm
+  daily, it's calmest from 9am to 11am on weekdays and 9am to 10am at weekends,
+  and you should avoid weekend afternoons from 12pm to 4pm.
 faq:
-  - q: "When is the quietest time to visit Hohenschwangau Castle?"
-    a: "Between 9am and 11am on weekdays, and between 9am and 10am at weekends. Avoid weekends from 12pm to 4pm, which is the busiest stretch."
-  - q: "Can I buy tickets at the castle itself?"
-    a: "No. Tickets with timed entry are sold at the Hohenschwangau Ticket Center in the village and on the official online ticketing site. Booking online ahead is strongly advised, especially in summer."
-  - q: "How do I get to Hohenschwangau from Füssen?"
-    a: "Take bus 73 or 78 from outside Füssen station to Hohenschwangau, a few kilometres away. From the village it's a steep walk of about 15 to 20 minutes up to the castle, or you can take a horse-drawn carriage when they're running."
-  - q: "How long does the castle visit take?"
-    a: "The guided tour lasts about half an hour. With the ticket centre, the climb and the gardens, plan on about two hours. Add the Alpsee walk or Neuschwanstein to make it a half or full day."
-  - q: "Should I visit Hohenschwangau or Neuschwanstein?"
-    a: "Ideally both, on a combined ticket. Hohenschwangau is the furnished family home where Ludwig II grew up. Neuschwanstein is the unfinished castle he built himself across the valley."
+  - q: When is the quietest time to visit Hohenschwangau Castle?
+    a: >-
+      Between 9am and 11am on weekdays, and between 9am and 10am at weekends.
+      Avoid weekends from 12pm to 4pm, which is the busiest stretch.
+  - q: Can I buy tickets at the castle itself?
+    a: >-
+      No. Tickets with timed entry are sold at the Hohenschwangau Ticket Center
+      in the village and on the official online ticketing site. Booking online
+      ahead is strongly advised, especially in summer.
+  - q: How do I get to Hohenschwangau from Füssen?
+    a: >-
+      Take bus 73 or 78 from outside Füssen station to Hohenschwangau, a few
+      kilometres away. From the village it's a steep walk of about 15 to 20
+      minutes up to the castle, or you can take a horse-drawn carriage when
+      they're running.
+  - q: How long does the castle visit take?
+    a: >-
+      The guided tour lasts about half an hour. With the ticket centre, the
+      climb and the gardens, plan on about two hours. Add the Alpsee walk or
+      Neuschwanstein to make it a half or full day.
+  - q: Should I visit Hohenschwangau or Neuschwanstein?
+    a: >-
+      Ideally both, on a combined ticket. Hohenschwangau is the furnished family
+      home where Ludwig II grew up. Neuschwanstein is the unfinished castle he
+      built himself across the valley.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-09'
 ---
 
 ## A yellow castle on a wooded knoll

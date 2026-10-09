@@ -1,40 +1,46 @@
 ---
-title: "Birmingham Museum & Art Gallery: Travel Guide (4.5★)"
-description: "Birmingham Museum & Art Gallery sits on Chamberlain Square in Birmingham city centre, about a 10-minute walk from Birmingham New Street station. 4.5★ (10,840 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Birmingham"
-category: "attraction"
-pubDate: "2026-10-09T07:48:03.104Z"
+title: 'Birmingham Museum & Art Gallery: Travel Guide (4.5★)'
+description: >-
+  Birmingham Museum & Art Gallery sits on Chamberlain Square in Birmingham city
+  centre, about a 10-minute walk from Birmingham New Street station. 4.5★
+  (10,841 reviews) — what visitors say, hours, and tips.
+country: United Kingdom
+region: Birmingham
+category: attraction
+pubDate: '2026-10-09T07:48:03.104Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Birmingham_Museum_and_Art_Gallery.jpg/1920px-Birmingham_Museum_and_Art_Gallery.jpg"
-  credit: "Photo: Brummie1885 / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Birmingham_Museum_and_Art_Gallery.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Birmingham_Museum_and_Art_Gallery.jpg/1920px-Birmingham_Museum_and_Art_Gallery.jpg
+  credit: 'Photo: Brummie1885 / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Birmingham_Museum_and_Art_Gallery.jpg
   focus:
     x: 45
-    y: 40
+    'y': 40
 gallery: []
 place:
-  id: "ChIJo0dMkYy8cEgRRJR-gJ-142Y"
-  name: "Birmingham Museum & Art Gallery"
-  address: "Chamberlain Sq, Birmingham B3 3DH, UK"
+  id: ChIJo0dMkYy8cEgRRJR-gJ-142Y
+  name: Birmingham Museum & Art Gallery
+  address: 'Chamberlain Sq, Birmingham B3 3DH, UK'
   rating: 4.5
-  userRatingsTotal: 10840
-  googleMapsUrl: "https://maps.google.com/?cid=7413969108242175044&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 10841
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=7413969108242175044&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 52.480111
   lng: -1.903462
-  phone: "+44 121 348 8000"
+  phone: +44 121 348 8000
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-10-09
+    updated: 2026-10-09T00:00:00.000Z
     weekdayBusy:
       - 11
       - 12
@@ -48,24 +54,43 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_593234312d4a672d524a52526745633879596b4d64306f4a496843"
+    venueId: ven_593234312d4a672d524a52526745633879596b4d64306f4a496843
 tags:
-  - "birmingham"
-  - "museum"
-quickAnswer: "Birmingham Museum & Art Gallery sits on Chamberlain Square in Birmingham city centre, about a 10-minute walk from Birmingham New Street station. It's known for its Pre-Raphaelite paintings, the domed Round Room and the Anglo-Saxon gold of the Staffordshire Hoard. It opens Tuesday to Sunday, 10am to 5pm, and is closed Mondays; on weekends, come at 10am, because the galleries are at their busiest from 11am to 5pm."
+  - birmingham
+  - museum
+quickAnswer: >-
+  Birmingham Museum & Art Gallery sits on Chamberlain Square in Birmingham city
+  centre, about a 10-minute walk from Birmingham New Street station. It's known
+  for its Pre-Raphaelite paintings, the domed Round Room and the Anglo-Saxon
+  gold of the Staffordshire Hoard. It opens Tuesday to Sunday, 10am to 5pm, and
+  is closed Mondays; on weekends, come at 10am, because the galleries are at
+  their busiest from 11am to 5pm.
 faq:
-  - q: "When is the quietest time to visit Birmingham Museum & Art Gallery?"
-    a: "There's no measured quiet window, but weekends are busiest from 11am to 5pm. On a Saturday or Sunday, arrive when the doors open at 10am to see the Staffordshire Hoard before the crowds build."
-  - q: "Is Birmingham Museum & Art Gallery open on Mondays?"
-    a: "No. It's closed on Mondays and open Tuesday to Sunday, 10am to 5pm."
-  - q: "How do I get there from Birmingham New Street?"
-    a: "Walk about 10 minutes through the city centre to Chamberlain Square, beside Victoria Square and the Town Hall. You can also take the West Midlands Metro to the Town Hall stop."
-  - q: "How long should I spend there?"
-    a: "Allow two to three hours for the Staffordshire Hoard, the Round Room and the Pre-Raphaelite galleries. Start no later than 3pm, because it closes at 5pm."
-  - q: "Are all the galleries open?"
-    a: "The museum reopened in stages after building repairs, so some rooms may still be closed. Check the official website before you go for which galleries are open and any ticketed exhibitions."
+  - q: When is the quietest time to visit Birmingham Museum & Art Gallery?
+    a: >-
+      There's no measured quiet window, but weekends are busiest from 11am to
+      5pm. On a Saturday or Sunday, arrive when the doors open at 10am to see
+      the Staffordshire Hoard before the crowds build.
+  - q: Is Birmingham Museum & Art Gallery open on Mondays?
+    a: 'No. It''s closed on Mondays and open Tuesday to Sunday, 10am to 5pm.'
+  - q: How do I get there from Birmingham New Street?
+    a: >-
+      Walk about 10 minutes through the city centre to Chamberlain Square,
+      beside Victoria Square and the Town Hall. You can also take the West
+      Midlands Metro to the Town Hall stop.
+  - q: How long should I spend there?
+    a: >-
+      Allow two to three hours for the Staffordshire Hoard, the Round Room and
+      the Pre-Raphaelite galleries. Start no later than 3pm, because it closes
+      at 5pm.
+  - q: Are all the galleries open?
+    a: >-
+      The museum reopened in stages after building repairs, so some rooms may
+      still be closed. Check the official website before you go for which
+      galleries are open and any ticketed exhibitions.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-09'
 ---
 
 ## Under the clock tower on Chamberlain Square

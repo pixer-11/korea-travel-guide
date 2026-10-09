@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: merida-la-chaya-maya
-srcHash: 'fc12b6fc8398'
+srcHash: '7106db24b8d7'
 title: La Chaya Maya：梅里达用餐好去处（4.5★）
-description: La Chaya Maya是梅里达老城区（Centro）一家人气极高的尤卡坦风味餐厅，位于Calle 57与Calle 62交汇处，紧挨圣卢西亚公园（Parque Santa Lucía），每天早上7点至晚上11点营业。4.5★（26,308条评价），本文汇总食客评价、营业时间与实用贴士。
+description: La Chaya Maya是梅里达老城区（Centro）一家人气极高的尤卡坦风味餐厅，位于Calle 57与Calle 62交汇处，紧挨圣卢西亚公园（Parque Santa Lucía），每天早上7点至晚上11点营业。4.5★（26,319条评价），本文汇总食客评价、营业时间与实用贴士。
 quickAnswer: La Chaya Maya是梅里达老城区（Centro）一家人气极高的尤卡坦风味餐厅，坐落在Calle 57与Calle 62交汇处，就在圣卢西亚公园（Parque Santa Lucía）旁边，每天早上7点至晚上11点营业。想避开晚餐高峰的排队，不妨早餐时段或下午三四点来。吃完往南走几个街区，就到大广场（Plaza Grande）了。
 faq:
   - q: La Chaya Maya在梅里达的具体位置在哪里？

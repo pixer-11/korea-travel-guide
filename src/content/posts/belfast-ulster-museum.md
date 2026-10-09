@@ -1,40 +1,46 @@
 ---
-title: "Ulster Museum: Belfast Travel Guide (4.7★)"
-description: "The Ulster Museum sits inside Botanic Gardens in south Belfast, a ten-minute walk from Botanic railway station, and covers Irish art, natural history and the story of Northern Ireland. 4.7★ (5,948 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Belfast"
-category: "attraction"
-pubDate: "2026-10-09T07:49:03.368Z"
+title: 'Ulster Museum: Belfast Travel Guide (4.7★)'
+description: >-
+  The Ulster Museum sits inside Botanic Gardens in south Belfast, a ten-minute
+  walk from Botanic railway station, and covers Irish art, natural history and
+  the story of Northern Ireland. 4.7★ (5,950 reviews) — what visitors say,
+  hours, and tips.
+country: United Kingdom
+region: Belfast
+category: attraction
+pubDate: '2026-10-09T07:49:03.368Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ulster_Museum_3.JPG/1920px-Ulster_Museum_3.JPG"
-  credit: "Photo: Bazonka / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Ulster_Museum_3.JPG"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ulster_Museum_3.JPG/1920px-Ulster_Museum_3.JPG
+  credit: 'Photo: Bazonka / Wikimedia Commons (CC BY-SA 3.0)'
+  license: wikimedia
+  source: 'https://commons.wikimedia.org/wiki/File:Ulster_Museum_3.JPG'
   focus:
     x: 55
-    y: 45
+    'y': 45
 gallery: []
 place:
-  id: "ChIJ2XBr8u4IYUgRp-Da33URhrM"
-  name: "Ulster Museum"
-  address: "Belfast BT9 5AB, UK"
+  id: ChIJ2XBr8u4IYUgRp-Da33URhrM
+  name: Ulster Museum
+  address: 'Belfast BT9 5AB, UK'
   rating: 4.7
-  userRatingsTotal: 5948
-  googleMapsUrl: "https://maps.google.com/?cid=12936046177632837799&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 5950
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=12936046177632837799&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 54.582422799999996
   lng: -5.9353219
-  phone: "+44 28 9044 0000"
+  phone: +44 28 9044 0000
   openingHours:
-    - "Monday: Closed"
-    - "Tuesday: 10:00 AM – 5:00 PM"
-    - "Wednesday: 10:00 AM – 5:00 PM"
-    - "Thursday: 10:00 AM – 5:00 PM"
-    - "Friday: 10:00 AM – 5:00 PM"
-    - "Saturday: 10:00 AM – 5:00 PM"
-    - "Sunday: 10:00 AM – 5:00 PM"
+    - 'Monday: Closed'
+    - 'Tuesday: 10:00 AM – 5:00 PM'
+    - 'Wednesday: 10:00 AM – 5:00 PM'
+    - 'Thursday: 10:00 AM – 5:00 PM'
+    - 'Friday: 10:00 AM – 5:00 PM'
+    - 'Saturday: 10:00 AM – 5:00 PM'
+    - 'Sunday: 10:00 AM – 5:00 PM'
   busyness:
-    updated: 2026-10-09
+    updated: 2026-10-09T00:00:00.000Z
     weekendBusy:
       - 11
       - 12
@@ -42,24 +48,42 @@ place:
       - 14
       - 15
       - 16
-    venueId: "ven_4d72685255333361442d705267555949347538724258324a496843"
+    venueId: ven_4d72685255333361442d705267555949347538724258324a496843
 tags:
-  - "belfast"
-  - "museum"
-quickAnswer: "The Ulster Museum sits inside Botanic Gardens in south Belfast, a ten-minute walk from Botanic railway station, and covers Irish art, natural history and the story of Northern Ireland. It opens Tuesday to Sunday, 10am to 5pm, and is closed Mondays. Weekends get busiest between 11am and 5pm, so on a Saturday or Sunday aim for the 10am opening."
+  - belfast
+  - museum
+quickAnswer: >-
+  The Ulster Museum sits inside Botanic Gardens in south Belfast, a ten-minute
+  walk from Botanic railway station, and covers Irish art, natural history and
+  the story of Northern Ireland. It opens Tuesday to Sunday, 10am to 5pm, and is
+  closed Mondays. Weekends get busiest between 11am and 5pm, so on a Saturday or
+  Sunday aim for the 10am opening.
 faq:
-  - q: "When is the quietest time to visit the Ulster Museum?"
-    a: "We only have data for the busy period: weekends from 11am to 5pm. To avoid that, go on a weekday from Tuesday to Friday. If you have to go at the weekend, arrive at the 10am opening."
-  - q: "Is the Ulster Museum open on Mondays?"
-    a: "No. It's closed on Mondays and open Tuesday to Sunday, 10am to 5pm."
-  - q: "How long do I need at the Ulster Museum?"
-    a: "Two to three hours covers the highlights: Takabuti, the Girona treasure, the dinosaur skeleton, the Troubles gallery and the Irish art. If you read everything closely, plan on half a day."
-  - q: "How do I get to the Ulster Museum from Belfast city centre?"
-    a: "Take the train to Botanic station and walk about ten minutes through Botanic Gardens. Alternatively, walk about 25 minutes south from City Hall via Botanic Avenue."
-  - q: "What is near the Ulster Museum?"
-    a: "The museum stands at the edge of Botanic Gardens, so the Palm House and Tropical Ravine are steps away. Queen's University's Lanyon Building is close by, and so are the cafés on Botanic Avenue."
+  - q: When is the quietest time to visit the Ulster Museum?
+    a: >-
+      We only have data for the busy period: weekends from 11am to 5pm. To avoid
+      that, go on a weekday from Tuesday to Friday. If you have to go at the
+      weekend, arrive at the 10am opening.
+  - q: Is the Ulster Museum open on Mondays?
+    a: 'No. It''s closed on Mondays and open Tuesday to Sunday, 10am to 5pm.'
+  - q: How long do I need at the Ulster Museum?
+    a: >-
+      Two to three hours covers the highlights: Takabuti, the Girona treasure,
+      the dinosaur skeleton, the Troubles gallery and the Irish art. If you read
+      everything closely, plan on half a day.
+  - q: How do I get to the Ulster Museum from Belfast city centre?
+    a: >-
+      Take the train to Botanic station and walk about ten minutes through
+      Botanic Gardens. Alternatively, walk about 25 minutes south from City Hall
+      via Botanic Avenue.
+  - q: What is near the Ulster Museum?
+    a: >-
+      The museum stands at the edge of Botanic Gardens, so the Palm House and
+      Tropical Ravine are steps away. Queen's University's Lanyon Building is
+      close by, and so are the cafés on Botanic Avenue.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-09'
 ---
 
 ## Two buildings in one

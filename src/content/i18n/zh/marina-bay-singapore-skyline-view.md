@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: marina-bay-singapore-skyline-view
-srcHash: '6e4e4f43b9a6'
+srcHash: '90789bfafcd9'
 title: 新加坡天际线观景点：滨海湾旅行指南（4.8★）
-description: 新加坡天际线观景点位于滨海湾金沙一侧的10 Bayfront Ave，是一处免费的水岸观景点，全天24小时开放。这里评分4.8★（377条评价），本文汇总游客评价、开放时间和实用贴士。
+description: 新加坡天际线观景点位于滨海湾金沙一侧的10 Bayfront Ave，是一处免费的水岸观景点，全天24小时开放。这里评分4.8★（379条评价），本文汇总游客评价、开放时间和实用贴士。
 quickAnswer: 新加坡天际线观景点（Singapore Skyline View）位于滨海湾金沙一侧的10 Bayfront Ave，免费开放，全天24小时不关门。站在这里隔水望去，中央商务区的高楼、富丽敦酒店和鱼尾狮都在正对面。想要清静，建议周末上午来。周末4pm–11pm人最多，最好错开。
 faq:
   - q: 怎么去新加坡天际线观景点？

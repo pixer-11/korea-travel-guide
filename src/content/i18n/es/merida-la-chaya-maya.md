@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: merida-la-chaya-maya
-srcHash: 'fc12b6fc8398'
+srcHash: '7106db24b8d7'
 title: 'La Chaya Maya: dónde comer en Mérida (4.5★)'
-description: Frente al Parque Santa Lucía, en el Centro de Mérida, La Chaya Maya es un restaurante de cocina yucateca muy concurrido que abre todos los días de 7am a 11pm, en la esquina de la Calle 57 con la Calle 62. Con 4.5★ (26,308 reseñas), le contamos qué opinan los visitantes, cuáles son sus horarios y algunos consejos útiles.
+description: Frente al Parque Santa Lucía, en el Centro de Mérida, La Chaya Maya es un restaurante de cocina yucateca muy concurrido que abre todos los días de 7am a 11pm, en la esquina de la Calle 57 con la Calle 62. Con 4.5★ (26,319 reseñas), le contamos qué opinan los visitantes, cuáles son sus horarios y algunos consejos útiles.
 quickAnswer: En la esquina de la Calle 57 con la Calle 62, junto al Parque Santa Lucía, en el Centro de Mérida, se encuentra La Chaya Maya, un restaurante de cocina yucateca muy concurrido que abre todos los días de 7am a 11pm. Para ahorrarse la espera de la hora de la cena, conviene ir a desayunar o a media tarde. Después, basta con caminar unas cuadras hacia el sur para llegar a la Plaza Grande.
 faq:
   - q: ¿Dónde se encuentra exactamente La Chaya Maya en Mérida?

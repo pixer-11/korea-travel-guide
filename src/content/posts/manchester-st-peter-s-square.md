@@ -1,59 +1,89 @@
 ---
-title: "St. Peter's Square: Manchester Travel Guide (4.6★)"
-description: "St. Peter's Square is Manchester city centre's main civic square, framed by the domed Central Library, the Town Hall Extension and the Cenotaph, with the city's busiest Metrolink tram stop running through it. 4.6★ (2,852 reviews) — what visitors say, hours, and tips."
-country: "United Kingdom"
-region: "Manchester"
-category: "attraction"
-pubDate: "2026-10-03T07:41:52.919Z"
+title: 'St. Peter''s Square: Manchester Travel Guide (4.6★)'
+description: >-
+  St. Peter's Square is Manchester city centre's main civic square, framed by
+  the domed Central Library, the Town Hall Extension and the Cenotaph, with the
+  city's busiest Metrolink tram stop running through it. 4.6★ (2,858 reviews) —
+  what visitors say, hours, and tips.
+country: United Kingdom
+region: Manchester
+category: attraction
+pubDate: '2026-10-03T07:41:52.919Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Paulownia_trees_in_leaf_at_St_Peter%27s_Square%2C_Manchester_01.jpg/3840px-Paulownia_trees_in_leaf_at_St_Peter%27s_Square%2C_Manchester_01.jpg"
-  credit: "Photo: Ridiculopathy / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Paulownia_trees_in_leaf_at_St_Peter%27s_Square,_Manchester_01.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Paulownia_trees_in_leaf_at_St_Peter%27s_Square%2C_Manchester_01.jpg/3840px-Paulownia_trees_in_leaf_at_St_Peter%27s_Square%2C_Manchester_01.jpg
+  credit: 'Photo: Ridiculopathy / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Paulownia_trees_in_leaf_at_St_Peter%27s_Square,_Manchester_01.jpg
+  via: act
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Paulownia_trees_in_leaf_at_St_Peter%27s_Square%2C_Manchester_02.jpg/3840px-Paulownia_trees_in_leaf_at_St_Peter%27s_Square%2C_Manchester_02.jpg"
-    credit: "Photo: Ridiculopathy / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Paulownia_trees_in_leaf_at_St_Peter%27s_Square,_Manchester_02.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Paulownia_trees_in_leaf_at_St_Peter%27s_Square%2C_Manchester_02.jpg/3840px-Paulownia_trees_in_leaf_at_St_Peter%27s_Square%2C_Manchester_02.jpg
+    credit: 'Photo: Ridiculopathy / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Paulownia_trees_in_leaf_at_St_Peter%27s_Square,_Manchester_02.jpg
 place:
-  id: "ChIJR0yvi8Kxe0gRDYQxevgWiBI"
-  name: "St. Peter's Square"
-  address: "St Peter's Square, Manchester M1 5AN, UK"
+  id: ChIJR0yvi8Kxe0gRDYQxevgWiBI
+  name: St. Peter's Square
+  address: 'St Peter''s Square, Manchester M1 5AN, UK'
   rating: 4.6
-  userRatingsTotal: 2852
-  googleMapsUrl: "https://maps.google.com/?cid=1335342545973117965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 2858
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1335342545973117965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 53.478290699999995
   lng: -2.2433634
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "manchester"
-  - "historic site"
-quickAnswer: "St. Peter's Square is Manchester city centre's main civic square, framed by the domed Central Library, the Town Hall Extension and the Cenotaph, with the city's busiest Metrolink tram stop running through it. It's open all day, every day; give it 30 minutes for the square and memorials, or 90 minutes if you go inside the library."
+  - manchester
+  - historic site
+quickAnswer: >-
+  St. Peter's Square is Manchester city centre's main civic square, framed by
+  the domed Central Library, the Town Hall Extension and the Cenotaph, with the
+  city's busiest Metrolink tram stop running through it. It's open all day,
+  every day; give it 30 minutes for the square and memorials, or 90 minutes if
+  you go inside the library.
 faq:
-  - q: "How do I get to St. Peter's Square by public transport?"
-    a: "Take the Metrolink to St Peter's Square stop, which is in the square itself and served by most lines. Oxford Road rail station is about a 10-minute walk away, and Manchester Piccadilly is about 15 minutes."
-  - q: "How long should I spend there?"
-    a: "Around 30 minutes covers the Cenotaph, St Peter's Cross and the Pankhurst statue. Allow 90 minutes if you go inside Central Library and walk to the Peterloo Memorial."
-  - q: "Is St. Peter's Square open at night?"
-    a: "Yes, the square is public space and open 24 hours a day, every day. Central Library inside the square has its own opening hours, so check them before you go."
-  - q: "What is the connection to the Peterloo Massacre?"
-    a: "The square is part of the old St Peter's Field, where cavalry attacked a reform rally on 16 August 1819. Jeremy Deller's Peterloo Memorial from 2019 is a few minutes' walk away, beside Manchester Central."
-  - q: "What's nearby?"
-    a: "Manchester Town Hall and Albert Square are directly behind the Town Hall Extension. The Midland Hotel is on Peter Street opposite, and Deansgate is a short walk west."
+  - q: How do I get to St. Peter's Square by public transport?
+    a: >-
+      Take the Metrolink to St Peter's Square stop, which is in the square
+      itself and served by most lines. Oxford Road rail station is about a
+      10-minute walk away, and Manchester Piccadilly is about 15 minutes.
+  - q: How long should I spend there?
+    a: >-
+      Around 30 minutes covers the Cenotaph, St Peter's Cross and the Pankhurst
+      statue. Allow 90 minutes if you go inside Central Library and walk to the
+      Peterloo Memorial.
+  - q: Is St. Peter's Square open at night?
+    a: >-
+      Yes, the square is public space and open 24 hours a day, every day.
+      Central Library inside the square has its own opening hours, so check them
+      before you go.
+  - q: What is the connection to the Peterloo Massacre?
+    a: >-
+      The square is part of the old St Peter's Field, where cavalry attacked a
+      reform rally on 16 August 1819. Jeremy Deller's Peterloo Memorial from
+      2019 is a few minutes' walk away, beside Manchester Central.
+  - q: What's nearby?
+    a: >-
+      Manchester Town Hall and Albert Square are directly behind the Town Hall
+      Extension. The Midland Hotel is on Peter Street opposite, and Deansgate is
+      a short walk west.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-09'
 ---
 
 ## Stone, trams and a rotunda

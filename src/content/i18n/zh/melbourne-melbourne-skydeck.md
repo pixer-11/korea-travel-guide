@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: melbourne-melbourne-skydeck
-srcHash: '410868db1ef9'
+srcHash: 'a21957ff45bc'
 title: 尤里卡天台（Melbourne Skydeck）旅行指南（4.5★）
-description: 尤里卡天台位于南岸区7 Riverside Quay的尤里卡大厦88层，是墨尔本对公众开放的最高观景点。评分4.5★（17,571条评价）。本文汇总游客评价、开放时间和实用贴士。
+description: 尤里卡天台位于南岸区7 Riverside Quay的尤里卡大厦88层，是墨尔本对公众开放的最高观景点。评分4.5★（17,602条评价）。本文汇总游客评价、开放时间和实用贴士。
 quickAnswer: 尤里卡天台（Melbourne Skydeck）位于南岸区（Southbank）7 Riverside Quay的尤里卡大厦88层，是全城对公众开放的最高观景点。工作日中午12点至晚上9点人都不多。周末建议晚上8点至9点前往，下午2点至晚上9点是高峰，最好避开。
 faq:
   - q: 什么时候去尤里卡天台人最少？

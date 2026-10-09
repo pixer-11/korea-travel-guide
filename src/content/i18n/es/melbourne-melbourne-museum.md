@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: melbourne-melbourne-museum
-srcHash: '9044aded5bad'
+srcHash: 'cd1b86865ed8'
 title: 'Museo de Melbourne (Melbourne Museum): guía de viaje (4.6★)'
-description: En los Jardines Carlton (Carlton Gardens), junto al Edificio Real de Exposiciones, declarado Patrimonio de la Humanidad, se alza el Museo de Melbourne, abierto todos los días de 9am a 5pm. Con una valoración de 4.6★ (19,895 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.
+description: En los Jardines Carlton (Carlton Gardens), junto al Edificio Real de Exposiciones, declarado Patrimonio de la Humanidad, se alza el Museo de Melbourne, abierto todos los días de 9am a 5pm. Con una valoración de 4.6★ (19,971 reseñas), le contamos qué opinan los visitantes, sus horarios y algunos consejos.
 quickAnswer: En el barrio de Carlton, dentro de los Jardines Carlton (Carlton Gardens) y al lado del Edificio Real de Exposiciones (Royal Exhibition Building), declarado Patrimonio de la Humanidad, se encuentra el Museo de Melbourne (Melbourne Museum), que abre todos los días de 9am a 5pm. Entre semana se disfruta de tranquilidad durante toda la jornada, de 9am a 5pm. El fin de semana conviene llegar entre las 9am y las 10am, ya que de 11am a 5pm suele haber mucha gente.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Museo de Melbourne?

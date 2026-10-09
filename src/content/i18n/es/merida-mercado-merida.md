@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: merida-mercado-merida
-srcHash: 'e973f4e13a08'
+srcHash: '67ba640e34a7'
 title: 'Mercado Mérida: guía de viaje de Mérida (4.4★)'
-description: El Mercado Mérida, en el Centro de Mérida, goza de muy buenas reseñas y abre de lunes a sábado de 7:00 AM a 7:30 PM y los domingos de 7:00 AM a 4:00 PM. Con 4.4★ (1,599 reseñas), aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
+description: El Mercado Mérida, en el Centro de Mérida, goza de muy buenas reseñas y abre de lunes a sábado de 7:00 AM a 7:30 PM y los domingos de 7:00 AM a 4:00 PM. Con 4.4★ (1,600 reseñas), aquí encontrará la opinión de los visitantes, los horarios y algunos consejos.
 quickAnswer: El Mercado Mérida, en el Centro de Mérida, goza de muy buenas reseñas y abre de lunes a sábado de 7:00 AM a 7:30 PM y los domingos de 7:00 AM a 4:00 PM. Le conviene ir por la mañana, cuando el ambiente es más fresco y tanto los productos como la comida preparada están en su mejor momento. No olvide llevar billetes de pesos de baja denominación.
 faq:
   - q: ¿Cuál es el horario del Mercado Mérida?

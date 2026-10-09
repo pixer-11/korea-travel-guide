@@ -1,55 +1,77 @@
 ---
-title: "Mercado Mérida: Merida Travel Guide (4.4★)"
-description: "Mercado Mérida is a well-reviewed market in Centro, Mérida, open 7:00 AM to 7:30 PM Monday to Saturday and 7:00 AM to 4:00 PM on Sunday. 4.4★ (1,599 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Merida"
-category: "hidden-gem"
-pubDate: "2026-10-08T07:45:16.187Z"
+title: 'Mercado Mérida: Merida Travel Guide (4.4★)'
+description: >-
+  Mercado Mérida is a well-reviewed market in Centro, Mérida, open 7:00 AM to
+  7:30 PM Monday to Saturday and 7:00 AM to 4:00 PM on Sunday. 4.4★ (1,600
+  reviews) — what visitors say, hours, and tips.
+country: Mexico
+region: Merida
+category: hidden-gem
+pubDate: '2026-10-08T07:45:16.187Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/0/09/El_mercado_-_M%C3%A9rida%2C_Yucat%C3%A1n%2C_2008.jpg"
-  credit: "Photo: Ricardo Molina Peña / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:El_mercado_-_M%C3%A9rida,_Yucat%C3%A1n,_2008.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/0/09/El_mercado_-_M%C3%A9rida%2C_Yucat%C3%A1n%2C_2008.jpg
+  credit: 'Photo: Ricardo Molina Peña / Wikimedia Commons (CC BY-SA 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:El_mercado_-_M%C3%A9rida,_Yucat%C3%A1n,_2008.jpg
+  via: act
   focus:
     x: 50
-    y: 55
+    'y': 55
 gallery: []
 place:
-  id: "ChIJK7w8VWNxVo8RxcFbc4RCPCc"
-  name: "Mercado Mérida"
-  address: "Centro, 97000 Mérida, Yuc., Mexico"
+  id: ChIJK7w8VWNxVo8RxcFbc4RCPCc
+  name: Mercado Mérida
+  address: 'Centro, 97000 Mérida, Yuc., Mexico'
   rating: 4.4
-  userRatingsTotal: 1599
-  googleMapsUrl: "https://maps.google.com/?cid=2827207802720338373&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 1600
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=2827207802720338373&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 20.9622399
   lng: -89.6205626
   openingHours:
-    - "Monday: 7:00 AM – 7:30 PM"
-    - "Tuesday: 7:00 AM – 7:30 PM"
-    - "Wednesday: 7:00 AM – 7:30 PM"
-    - "Thursday: 7:00 AM – 7:30 PM"
-    - "Friday: 7:00 AM – 7:30 PM"
-    - "Saturday: 7:00 AM – 7:30 PM"
-    - "Sunday: 7:00 AM – 4:00 PM"
+    - 'Monday: 7:00 AM – 7:30 PM'
+    - 'Tuesday: 7:00 AM – 7:30 PM'
+    - 'Wednesday: 7:00 AM – 7:30 PM'
+    - 'Thursday: 7:00 AM – 7:30 PM'
+    - 'Friday: 7:00 AM – 7:30 PM'
+    - 'Saturday: 7:00 AM – 7:30 PM'
+    - 'Sunday: 7:00 AM – 4:00 PM'
 tags:
-  - "merida"
-  - "local market"
-quickAnswer: "Mercado Mérida is a well-reviewed market in Centro, Mérida, open 7:00 AM to 7:30 PM Monday to Saturday and 7:00 AM to 4:00 PM on Sunday. Go in the morning for the coolest air and the freshest produce and cooked food, and bring small peso notes."
+  - merida
+  - local market
+quickAnswer: >-
+  Mercado Mérida is a well-reviewed market in Centro, Mérida, open 7:00 AM to
+  7:30 PM Monday to Saturday and 7:00 AM to 4:00 PM on Sunday. Go in the morning
+  for the coolest air and the freshest produce and cooked food, and bring small
+  peso notes.
 faq:
-  - q: "What are Mercado Mérida's opening hours?"
-    a: "Monday to Saturday it's open from 7:00 AM to 7:30 PM. On Sunday it opens at 7:00 AM and closes early, at 4:00 PM."
-  - q: "Where exactly is Mercado Mérida?"
-    a: "It's in Centro, Mérida's historic core around the Plaza Grande (postcode 97000). The listed address doesn't include a street number, so pin it in a maps app before you go."
-  - q: "What's the best time to go?"
-    a: "Go in the morning, not long after 7:00 AM. It's cooler then, the produce is freshest and the cooked-food stalls still have their full daily batch."
-  - q: "How long should I spend there?"
-    a: "About 45 minutes to an hour covers a full lap, a plate of regional food and some shopping for spices like recado."
-  - q: "Do vendors take cards?"
-    a: "Assume cash. Small peso notes and coins are the most practical way to pay at market stalls."
+  - q: What are Mercado Mérida's opening hours?
+    a: >-
+      Monday to Saturday it's open from 7:00 AM to 7:30 PM. On Sunday it opens
+      at 7:00 AM and closes early, at 4:00 PM.
+  - q: Where exactly is Mercado Mérida?
+    a: >-
+      It's in Centro, Mérida's historic core around the Plaza Grande (postcode
+      97000). The listed address doesn't include a street number, so pin it in a
+      maps app before you go.
+  - q: What's the best time to go?
+    a: >-
+      Go in the morning, not long after 7:00 AM. It's cooler then, the produce
+      is freshest and the cooked-food stalls still have their full daily batch.
+  - q: How long should I spend there?
+    a: >-
+      About 45 minutes to an hour covers a full lap, a plate of regional food
+      and some shopping for spices like recado.
+  - q: Do vendors take cards?
+    a: >-
+      Assume cash. Small peso notes and coins are the most practical way to pay
+      at market stalls.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-09'
 ---
 
 ## A Centro market that keeps market hours

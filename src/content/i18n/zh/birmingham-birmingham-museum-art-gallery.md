@@ -1,9 +1,9 @@
 ---
 lang: zh
 slug: birmingham-birmingham-museum-art-gallery
-srcHash: '3eb7839e095e'
+srcHash: 'ba1ee919cd71'
 title: 伯明翰博物馆与美术馆旅行指南（4.5★）
-description: 伯明翰博物馆与美术馆位于伯明翰市中心的张伯伦广场，从伯明翰新街站步行过去约10分钟。评分4.5★（10,840条评价），本文汇总游客口碑、开放时间和参观建议。
+description: 伯明翰博物馆与美术馆位于伯明翰市中心的张伯伦广场，从伯明翰新街站步行过去约10分钟。评分4.5★（10,841条评价），本文汇总游客口碑、开放时间和参观建议。
 quickAnswer: 伯明翰博物馆与美术馆（Birmingham Museum & Art Gallery）坐落在伯明翰市中心的张伯伦广场（Chamberlain Square），从伯明翰新街站（Birmingham New Street）步行约10分钟即到。馆内最有名的是拉斐尔前派画作、穹顶圆厅（Round Room），以及斯塔福德郡宝藏（Staffordshire Hoard）中的盎格鲁-撒克逊黄金。博物馆周二至周日上午10点至下午5点开放，周一闭馆。上午11点至下午5点是周末展厅人最多的时段，周末前往最好上午10点就到。
 faq:
   - q: 什么时候去伯明翰博物馆与美术馆人最少？

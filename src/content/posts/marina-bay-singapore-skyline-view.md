@@ -1,44 +1,52 @@
 ---
-title: "Singapore Skyline View: Marina Bay Travel Guide (4.8★)"
-description: "Singapore Skyline View is a free, open-24-hours waterfront viewpoint at 10 Bayfront Ave on the Marina Bay Sands side of Marina Bay. 4.8★ (377 reviews) — what visitors say, hours, and tips."
-country: "Singapore"
-region: "Marina Bay"
-category: "hidden-gem"
-pubDate: "2026-10-02T07:45:51.668Z"
+title: 'Singapore Skyline View: Marina Bay Travel Guide (4.8★)'
+description: >-
+  Singapore Skyline View is a free, open-24-hours waterfront viewpoint at 10
+  Bayfront Ave on the Marina Bay Sands side of Marina Bay. 4.8★ (379 reviews) —
+  what visitors say, hours, and tips.
+country: Singapore
+region: Marina Bay
+category: hidden-gem
+pubDate: '2026-10-02T07:45:51.668Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Singapore_%28SG%29%2C_Marina_Bay%2C_Night_View_--_2019_--_4573-81.jpg/3840px-Singapore_%28SG%29%2C_Marina_Bay%2C_Night_View_--_2019_--_4573-81.jpg"
-  credit: "Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Singapore_(SG),_Marina_Bay,_Night_View_--_2019_--_4573-81.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Singapore_%28SG%29%2C_Marina_Bay%2C_Night_View_--_2019_--_4573-81.jpg/3840px-Singapore_%28SG%29%2C_Marina_Bay%2C_Night_View_--_2019_--_4573-81.jpg
+  credit: 'Photo: Dietmar Rabich / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:Singapore_(SG),_Marina_Bay,_Night_View_--_2019_--_4573-81.jpg
+  via: act
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Singapore_Marina_Bay_Dusk_2018-02-27.jpg/3840px-Singapore_Marina_Bay_Dusk_2018-02-27.jpg"
-    credit: "Photo: Benh LIEU SONG (Flickr) / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Singapore_Marina_Bay_Dusk_2018-02-27.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Singapore_Marina_Bay_Dusk_2018-02-27.jpg/3840px-Singapore_Marina_Bay_Dusk_2018-02-27.jpg
+    credit: 'Photo: Benh LIEU SONG (Flickr) / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Singapore_Marina_Bay_Dusk_2018-02-27.jpg
 place:
-  id: "ChIJOScA0tkZ2jERRqSy4_FqfD4"
-  name: "Singapore Skyline View"
-  address: "10 Bayfront Ave, Marina Bay Sands, Singapore 018956"
+  id: ChIJOScA0tkZ2jERRqSy4_FqfD4
+  name: Singapore Skyline View
+  address: '10 Bayfront Ave, Marina Bay Sands, Singapore 018956'
   rating: 4.8
-  userRatingsTotal: 377
-  googleMapsUrl: "https://maps.google.com/?cid=4502591314603451462&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 379
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=4502591314603451462&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 1.2842867
   lng: 103.85842749999999
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-10-02
+    updated: 2026-10-02T00:00:00.000Z
     weekendQuiet:
       - 7
       - 20
@@ -47,24 +55,46 @@ place:
       - 20
       - 21
       - 22
-    venueId: "ven_34446671465f347953715252456a325a6b74304163534f4a496843"
+    venueId: ven_34446671465f347953715252456a325a6b74304163534f4a496843
 tags:
-  - "marina bay"
-  - "old quarter"
-quickAnswer: "Singapore Skyline View is a free, open-24-hours waterfront viewpoint at 10 Bayfront Ave on the Marina Bay Sands side of Marina Bay. It looks straight across the water at the Central Business District towers, the Fullerton Hotel and the Merlion. Go on weekend mornings for space, and avoid 4pm–11pm on weekends, which is when it fills up."
+  - marina bay
+  - old quarter
+quickAnswer: >-
+  Singapore Skyline View is a free, open-24-hours waterfront viewpoint at 10
+  Bayfront Ave on the Marina Bay Sands side of Marina Bay. It looks straight
+  across the water at the Central Business District towers, the Fullerton Hotel
+  and the Merlion. Go on weekend mornings for space, and avoid 4pm–11pm on
+  weekends, which is when it fills up.
 faq:
-  - q: "How do I get to Singapore Skyline View?"
-    a: "Take the MRT to Bayfront Station on the Circle or Downtown Line. Follow the signs to The Shoppes at Marina Bay Sands and go out the waterfront side to the promenade at 10 Bayfront Ave. You can also walk over the Helix Bridge from the Marina Centre side."
-  - q: "When is the quietest time to visit?"
-    a: "There's no weekday data. On weekends the quietest window is listed as 7am–9pm, and the busiest is 4pm–11pm, so weekend mornings are the best bet. Avoid weekend evenings if you want space at the railing."
-  - q: "Is it open at night?"
-    a: "Yes. It's open 24 hours every day. That means you can come late for the lit-up skyline after the 4pm–11pm weekend rush has cleared."
-  - q: "How long should I spend there?"
-    a: "Twenty minutes is enough for the view and photos. Give it about an hour if you're waiting for sunset, the night lights or the Spectra show. Check the Marina Bay Sands official site for current showtimes."
-  - q: "What else is nearby?"
-    a: "The ArtScience Museum is right beside it, and the Helix Bridge, Gardens by the Bay and the Sands SkyPark Observation Deck are all within walking distance. The Merlion and the Fullerton Hotel are on the other side of the bay loop."
+  - q: How do I get to Singapore Skyline View?
+    a: >-
+      Take the MRT to Bayfront Station on the Circle or Downtown Line. Follow
+      the signs to The Shoppes at Marina Bay Sands and go out the waterfront
+      side to the promenade at 10 Bayfront Ave. You can also walk over the Helix
+      Bridge from the Marina Centre side.
+  - q: When is the quietest time to visit?
+    a: >-
+      There's no weekday data. On weekends the quietest window is listed as
+      7am–9pm, and the busiest is 4pm–11pm, so weekend mornings are the best
+      bet. Avoid weekend evenings if you want space at the railing.
+  - q: Is it open at night?
+    a: >-
+      Yes. It's open 24 hours every day. That means you can come late for the
+      lit-up skyline after the 4pm–11pm weekend rush has cleared.
+  - q: How long should I spend there?
+    a: >-
+      Twenty minutes is enough for the view and photos. Give it about an hour if
+      you're waiting for sunset, the night lights or the Spectra show. Check the
+      Marina Bay Sands official site for current showtimes.
+  - q: What else is nearby?
+    a: >-
+      The ArtScience Museum is right beside it, and the Helix Bridge, Gardens by
+      the Bay and the Sands SkyPark Observation Deck are all within walking
+      distance. The Merlion and the Fullerton Hotel are on the other side of the
+      bay loop.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-09'
 ---
 
 ## Where the water does the framing

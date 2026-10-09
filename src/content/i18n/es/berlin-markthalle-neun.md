@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: berlin-markthalle-neun
-srcHash: 'f34b7d3df821'
+srcHash: '93f4d904f3c4'
 title: 'Markthalle Neun: guía de viaje de Berlín (4.4★)'
-description: En plena Eisenbahnstraße, en el barrio berlinés de Kreuzberg y a cinco minutos a pie de Görlitzer Bahnhof (U1/U3), se alza la Markthalle Neun, un mercado cubierto de ladrillo del siglo XIX lleno de puestos de comida, productores y largas mesas compartidas. Con una valoración de 4.4★ (20,425 reseñas), le contamos qué opinan los visitantes, cuáles son sus horarios y algunos consejos.
+description: En plena Eisenbahnstraße, en el barrio berlinés de Kreuzberg y a cinco minutos a pie de Görlitzer Bahnhof (U1/U3), se alza la Markthalle Neun, un mercado cubierto de ladrillo del siglo XIX lleno de puestos de comida, productores y largas mesas compartidas. Con una valoración de 4.4★ (20,428 reseñas), le contamos qué opinan los visitantes, cuáles son sus horarios y algunos consejos.
 quickAnswer: En plena Eisenbahnstraße, en el barrio berlinés de Kreuzberg y a cinco minutos a pie de Görlitzer Bahnhof (U1/U3), se encuentra la Markthalle Neun, un mercado cubierto de ladrillo del siglo XIX que reúne puestos de comida, productores y largas mesas compartidas. Entre semana el ambiente es tranquilo; los sábados, en cambio, la mayor afluencia se concentra de 11am a 7pm. Abre de lunes a sábado de 9am a 8pm, aunque los jueves alarga el horario hasta las 10pm para recibir al público de la sesión nocturna de comida callejera. Los domingos permanece cerrado.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar la Markthalle Neun?

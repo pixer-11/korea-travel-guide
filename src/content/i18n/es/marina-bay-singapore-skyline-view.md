@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: marina-bay-singapore-skyline-view
-srcHash: '6e4e4f43b9a6'
+srcHash: '90789bfafcd9'
 title: 'Singapore Skyline View: guía de viaje de Marina Bay (4.8★)'
-description: Singapore Skyline View es un mirador gratuito junto al agua, abierto las 24 horas, situado en 10 Bayfront Ave, en la orilla de Marina Bay donde se alza Marina Bay Sands. Tiene una valoración de 4.8★ (377 reseñas). Aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
+description: Singapore Skyline View es un mirador gratuito junto al agua, abierto las 24 horas, situado en 10 Bayfront Ave, en la orilla de Marina Bay donde se alza Marina Bay Sands. Tiene una valoración de 4.8★ (379 reseñas). Aquí encontrará las opiniones de los visitantes, los horarios y consejos prácticos.
 quickAnswer: En 10 Bayfront Ave, en la orilla de Marina Bay donde se alza Marina Bay Sands, se encuentra Singapore Skyline View, un mirador gratuito junto al agua que permanece abierto las 24 horas. Desde allí se contemplan de frente, al otro lado de la bahía, los rascacielos del distrito financiero (Central Business District), el hotel Fullerton y el Merlion. Si busca tranquilidad, vaya los fines de semana por la mañana. Evite en cambio la franja de 4pm–11pm del sábado y el domingo, cuando el lugar se llena.
 faq:
   - q: ¿Cómo se llega a Singapore Skyline View?

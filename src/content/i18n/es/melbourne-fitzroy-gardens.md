@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: melbourne-fitzroy-gardens
-srcHash: 'b7299009195a'
+srcHash: '08522d214f28'
 title: 'Fitzroy Gardens: guía de viaje de Melbourne (4.7★)'
-description: 'En Wellington Parade, en East Melbourne, se extiende Fitzroy Gardens, un parque histórico de 26 hectáreas abierto las 24 horas y a pocos minutos a pie de la estación Parliament. Tiene una valoración de 4.7★ (7,132 reseñas): aquí encontrará la opinión de los visitantes, los horarios y consejos útiles.'
+description: 'En Wellington Parade, en East Melbourne, se extiende Fitzroy Gardens, un parque histórico de 26 hectáreas abierto las 24 horas y a pocos minutos a pie de la estación Parliament. Tiene una valoración de 4.7★ (7,135 reseñas): aquí encontrará la opinión de los visitantes, los horarios y consejos útiles.'
 quickAnswer: En Wellington Parade, en East Melbourne, se extiende Fitzroy Gardens, un parque histórico de 26 hectáreas abierto las 24 horas y a pocos minutos a pie de la estación Parliament. Conviene reservar una o dos horas para recorrer sus avenidas de olmos y visitar Cooks' Cottage, el Conservatorio y la aldea Tudor en miniatura. Los fines de semana, quien llegue entre las 7am y las 8am lo tendrá casi para sí solo; en cambio, es mejor evitar la franja de 10am a 7pm, la de mayor afluencia.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar Fitzroy Gardens?

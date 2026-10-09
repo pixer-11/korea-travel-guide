@@ -1,9 +1,9 @@
 ---
 lang: es
 slug: melbourne-heavenly-queen-temple
-srcHash: '283f55c31dc8'
+srcHash: '65dc36520203'
 title: 'Templo de la Reina del Cielo (Heavenly Queen Temple): guía de viaje de Melbourne (4.7★)'
-description: El Templo de la Reina del Cielo se encuentra en 20 Joseph Rd, en Footscray, en el oeste interior de Melbourne, a poca distancia a pie de la estación de Footscray. Con 4.7★ (796 reseñas), le contamos qué opinan los visitantes, cuáles son sus horarios y qué conviene saber antes de ir.
+description: El Templo de la Reina del Cielo se encuentra en 20 Joseph Rd, en Footscray, en el oeste interior de Melbourne, a poca distancia a pie de la estación de Footscray. Con 4.7★ (800 reseñas), le contamos qué opinan los visitantes, cuáles son sus horarios y qué conviene saber antes de ir.
 quickAnswer: El Templo de la Reina del Cielo (Heavenly Queen Temple) está en 20 Joseph Rd, en Footscray, en el oeste interior de Melbourne, y se llega cómodamente a pie desde la estación de Footscray. Es un templo chino en activo dedicado a Mazu, la diosa del mar. Si busca tranquilidad, vaya entre semana de 10am a 3pm. Los fines de semana, de 10am a 4pm, se registra la mayor afluencia, así que conviene evitar esa franja.
 faq:
   - q: ¿Cuál es el momento más tranquilo para visitar el Templo de la Reina del Cielo?

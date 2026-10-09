@@ -1,44 +1,51 @@
 ---
-title: "Fitzroy Gardens: Melbourne Travel Guide (4.7★)"
-description: "Fitzroy Gardens is a 26-hectare historic park on Wellington Parade in East Melbourne, a short walk from Parliament Station and open 24 hours. 4.7★ (7,132 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Melbourne"
-category: "attraction"
-pubDate: "2026-10-01T07:48:45.881Z"
+title: 'Fitzroy Gardens: Melbourne Travel Guide (4.7★)'
+description: >-
+  Fitzroy Gardens is a 26-hectare historic park on Wellington Parade in East
+  Melbourne, a short walk from Parliament Station and open 24 hours. 4.7★ (7,135
+  reviews) — what visitors say, hours, and tips.
+country: Australia
+region: Melbourne
+category: attraction
+pubDate: '2026-10-01T07:48:45.881Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/AUS_Melbourne%2C_Melbourne%2C_Fitzroy_Gardens_006.jpg/1920px-AUS_Melbourne%2C_Melbourne%2C_Fitzroy_Gardens_006.jpg"
-  credit: "Photo: -wuppertaler / Wikimedia Commons (CC BY 4.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:AUS_Melbourne,_Melbourne,_Fitzroy_Gardens_006.jpg"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/AUS_Melbourne%2C_Melbourne%2C_Fitzroy_Gardens_006.jpg/1920px-AUS_Melbourne%2C_Melbourne%2C_Fitzroy_Gardens_006.jpg
+  credit: 'Photo: -wuppertaler / Wikimedia Commons (CC BY 4.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:AUS_Melbourne,_Melbourne,_Fitzroy_Gardens_006.jpg
   focus:
     x: 50
-    y: 50
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fitzroy_Gardens_Playground.jpg/3840px-Fitzroy_Gardens_Playground.jpg"
-    credit: "Photo: Shkuru Afshar / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Fitzroy_Gardens_Playground.jpg"
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fitzroy_Gardens_Playground.jpg/3840px-Fitzroy_Gardens_Playground.jpg
+    credit: 'Photo: Shkuru Afshar / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: 'https://commons.wikimedia.org/wiki/File:Fitzroy_Gardens_Playground.jpg'
 place:
-  id: "ChIJX6ytzMNC1moREIYxBXZWBA8"
-  name: "Fitzroy Gardens"
-  address: "Wellington Parade, East Melbourne VIC 3002, Australia"
+  id: ChIJX6ytzMNC1moREIYxBXZWBA8
+  name: Fitzroy Gardens
+  address: 'Wellington Parade, East Melbourne VIC 3002, Australia'
   rating: 4.7
-  userRatingsTotal: 7132
-  googleMapsUrl: "https://maps.google.com/?cid=1082084875369022992&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  userRatingsTotal: 7135
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=1082084875369022992&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -37.812721499999995
   lng: 144.9800679
-  phone: "+61 3 9658 9658"
+  phone: +61 3 9658 9658
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
   busyness:
-    updated: 2026-10-01
+    updated: 2026-10-01T00:00:00.000Z
     weekdayQuiet:
       - 22
     weekdayBusy:
@@ -60,24 +67,45 @@ place:
       - 16
       - 17
       - 18
-    venueId: "ven_384142575a584278594945526f6d31434e4d7a747936584a496843"
+    venueId: ven_384142575a584278594945526f6d31434e4d7a747936584a496843
 tags:
-  - "melbourne"
-  - "park"
-quickAnswer: "Fitzroy Gardens is a 26-hectare historic park on Wellington Parade in East Melbourne, a short walk from Parliament Station and open 24 hours. Plan an hour or two for the elm avenues, Cooks' Cottage, the Conservatory and the model Tudor village. Come at 7am–8am on weekends to have it mostly to yourself, and avoid 10am–7pm on weekends, when it is at its busiest."
+  - melbourne
+  - park
+quickAnswer: >-
+  Fitzroy Gardens is a 26-hectare historic park on Wellington Parade in East
+  Melbourne, a short walk from Parliament Station and open 24 hours. Plan an
+  hour or two for the elm avenues, Cooks' Cottage, the Conservatory and the
+  model Tudor village. Come at 7am–8am on weekends to have it mostly to
+  yourself, and avoid 10am–7pm on weekends, when it is at its busiest.
 faq:
-  - q: "When is the quietest time to visit Fitzroy Gardens?"
-    a: "On weekends it is quietest from 7am to 8am. On weekdays the quietest window is 10pm to 11pm, though the cottage and Conservatory are closed by then. Avoid 10am to 7pm on weekends, which is the busiest stretch."
-  - q: "How do I get to Fitzroy Gardens by public transport?"
-    a: "Take a City Loop train to Parliament Station, exit via Macarthur Street and walk east a few minutes. Jolimont Station is near the southeast corner, and trams 48 and 75 run along Wellington Parade."
-  - q: "Is Fitzroy Gardens open all the time?"
-    a: "The park is open 24 hours, every day. Cooks' Cottage and the Conservatory have their own hours, so check the City of Melbourne website before planning around them."
-  - q: "How long should I spend at Fitzroy Gardens?"
-    a: "Allow one to two hours to walk the main avenues and see Cooks' Cottage, the Conservatory, the Tudor Village and the Fairies' Tree. Add more time if you go inside the cottage or stay for a picnic."
-  - q: "What is near Fitzroy Gardens?"
-    a: "Treasury Gardens is directly west, St Patrick's Cathedral is a short walk north, and the Melbourne Cricket Ground is about 15 minutes south through Yarra Park."
+  - q: When is the quietest time to visit Fitzroy Gardens?
+    a: >-
+      On weekends it is quietest from 7am to 8am. On weekdays the quietest
+      window is 10pm to 11pm, though the cottage and Conservatory are closed by
+      then. Avoid 10am to 7pm on weekends, which is the busiest stretch.
+  - q: How do I get to Fitzroy Gardens by public transport?
+    a: >-
+      Take a City Loop train to Parliament Station, exit via Macarthur Street
+      and walk east a few minutes. Jolimont Station is near the southeast
+      corner, and trams 48 and 75 run along Wellington Parade.
+  - q: Is Fitzroy Gardens open all the time?
+    a: >-
+      The park is open 24 hours, every day. Cooks' Cottage and the Conservatory
+      have their own hours, so check the City of Melbourne website before
+      planning around them.
+  - q: How long should I spend at Fitzroy Gardens?
+    a: >-
+      Allow one to two hours to walk the main avenues and see Cooks' Cottage,
+      the Conservatory, the Tudor Village and the Fairies' Tree. Add more time
+      if you go inside the cottage or stay for a picnic.
+  - q: What is near Fitzroy Gardens?
+    a: >-
+      Treasury Gardens is directly west, St Patrick's Cathedral is a short walk
+      north, and the Melbourne Cricket Ground is about 15 minutes south through
+      Yarra Park.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-09'
 ---
 
 ## Elm avenues on a flag-shaped plan

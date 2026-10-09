@@ -1,57 +1,80 @@
 ---
-title: "La Chaya Maya: Where to Eat in Merida (4.5★)"
-description: "La Chaya Maya is a very popular Yucatecan-style restaurant on Calle 57 at Calle 62, beside Parque Santa Lucía in Mérida's Centro, and it is open 7am to 11pm every day. 4.5★ (26,308 reviews) — what visitors say, hours, and tips."
-country: "Mexico"
-region: "Merida"
-category: "restaurant"
-pubDate: "2026-10-04T13:40:25.329Z"
+title: 'La Chaya Maya: Where to Eat in Merida (4.5★)'
+description: >-
+  La Chaya Maya is a very popular Yucatecan-style restaurant on Calle 57 at
+  Calle 62, beside Parque Santa Lucía in Mérida's Centro, and it is open 7am to
+  11pm every day. 4.5★ (26,319 reviews) — what visitors say, hours, and tips.
+country: Mexico
+region: Merida
+category: restaurant
+pubDate: '2026-10-04T13:40:25.329Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/La_Chaya_Maya%2C_exterior%2C_M%C3%A9rida%2C_Yucat%C3%A1n_June_2024.jpg/3840px-La_Chaya_Maya%2C_exterior%2C_M%C3%A9rida%2C_Yucat%C3%A1n_June_2024.jpg"
-  credit: "Photo: edenpictures / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:La_Chaya_Maya,_exterior,_M%C3%A9rida,_Yucat%C3%A1n_June_2024.jpg"
-  via: "act"
+  url: >-
+    https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/La_Chaya_Maya%2C_exterior%2C_M%C3%A9rida%2C_Yucat%C3%A1n_June_2024.jpg/3840px-La_Chaya_Maya%2C_exterior%2C_M%C3%A9rida%2C_Yucat%C3%A1n_June_2024.jpg
+  credit: 'Photo: edenpictures / Wikimedia Commons (CC BY 2.0)'
+  license: wikimedia
+  source: >-
+    https://commons.wikimedia.org/wiki/File:La_Chaya_Maya,_exterior,_M%C3%A9rida,_Yucat%C3%A1n_June_2024.jpg
+  via: act
   focus:
     x: 52
-    y: 30
+    'y': 30
 gallery: []
 place:
-  id: "ChIJtzCcrGFxVo8RZLu9elke5cE"
-  name: "La Chaya Maya"
-  address: "C. 57 x 62, Parque Santa Lucia, Centro, 97000 Mérida, Yuc., Mexico"
+  id: ChIJtzCcrGFxVo8RZLu9elke5cE
+  name: La Chaya Maya
+  address: 'C. 57 x 62, Parque Santa Lucia, Centro, 97000 Mérida, Yuc., Mexico'
   rating: 4.5
-  userRatingsTotal: 26308
+  userRatingsTotal: 26319
   priceLevel: 2
-  googleMapsUrl: "https://maps.google.com/?cid=13971606788647009124&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: >-
+    https://maps.google.com/?cid=13971606788647009124&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 20.9699203
   lng: -89.62389189999999
-  phone: "+52 999 928 4780"
+  phone: +52 999 928 4780
   openingHours:
-    - "Monday: 7:00 AM – 11:00 PM"
-    - "Tuesday: 7:00 AM – 11:00 PM"
-    - "Wednesday: 7:00 AM – 11:00 PM"
-    - "Thursday: 7:00 AM – 11:00 PM"
-    - "Friday: 7:00 AM – 11:00 PM"
-    - "Saturday: 7:00 AM – 11:00 PM"
-    - "Sunday: 7:00 AM – 11:00 PM"
+    - 'Monday: 7:00 AM – 11:00 PM'
+    - 'Tuesday: 7:00 AM – 11:00 PM'
+    - 'Wednesday: 7:00 AM – 11:00 PM'
+    - 'Thursday: 7:00 AM – 11:00 PM'
+    - 'Friday: 7:00 AM – 11:00 PM'
+    - 'Saturday: 7:00 AM – 11:00 PM'
+    - 'Sunday: 7:00 AM – 11:00 PM'
 tags:
-  - "merida"
-  - "local restaurant"
-quickAnswer: "La Chaya Maya is a very popular Yucatecan-style restaurant on Calle 57 at Calle 62, beside Parque Santa Lucía in Mérida's Centro, and it is open 7am to 11pm every day. Come for breakfast or a mid-afternoon meal to skip the main dinner wait. Then walk a few blocks south to the Plaza Grande."
+  - merida
+  - local restaurant
+quickAnswer: >-
+  La Chaya Maya is a very popular Yucatecan-style restaurant on Calle 57 at
+  Calle 62, beside Parque Santa Lucía in Mérida's Centro, and it is open 7am to
+  11pm every day. Come for breakfast or a mid-afternoon meal to skip the main
+  dinner wait. Then walk a few blocks south to the Plaza Grande.
 faq:
-  - q: "Where exactly is La Chaya Maya in Mérida?"
-    a: "It's at Calle 57 and Calle 62, beside Parque Santa Lucía in the Centro. That's a short walk north of the Plaza Grande along Calle 60."
-  - q: "What are the opening hours?"
-    a: "It's open daily from 7:00 AM to 11:00 PM, so you can come for breakfast, lunch or dinner any day of the week."
-  - q: "How do I avoid waiting for a table?"
-    a: "Breakfast and mid-afternoon are usually easier than peak lunch or dinner, because this is one of Mérida's most-reviewed restaurants. At busy times you give your name to the host at the door and wait to be called."
-  - q: "How much time should I allow?"
-    a: "About an hour for a full meal. Add more on a Thursday night if you plan to stay for the Serenata Yucateca in Parque Santa Lucía."
-  - q: "What is nearby?"
-    a: "Parque Santa Lucía and its stone love seats are right outside. The Plaza Grande, the cathedral and Parque Hidalgo are a few blocks south along Calle 60."
+  - q: Where exactly is La Chaya Maya in Mérida?
+    a: >-
+      It's at Calle 57 and Calle 62, beside Parque Santa Lucía in the Centro.
+      That's a short walk north of the Plaza Grande along Calle 60.
+  - q: What are the opening hours?
+    a: >-
+      It's open daily from 7:00 AM to 11:00 PM, so you can come for breakfast,
+      lunch or dinner any day of the week.
+  - q: How do I avoid waiting for a table?
+    a: >-
+      Breakfast and mid-afternoon are usually easier than peak lunch or dinner,
+      because this is one of Mérida's most-reviewed restaurants. At busy times
+      you give your name to the host at the door and wait to be called.
+  - q: How much time should I allow?
+    a: >-
+      About an hour for a full meal. Add more on a Thursday night if you plan to
+      stay for the Serenata Yucateca in Parque Santa Lucía.
+  - q: What is nearby?
+    a: >-
+      Parque Santa Lucía and its stone love seats are right outside. The Plaza
+      Grande, the cathedral and Parque Hidalgo are a few blocks south along
+      Calle 60.
 aiGenerated: true
 draft: false
+updatedDate: '2026-10-09'
 ---
 
 ## A corner of Santa Lucía

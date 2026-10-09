@@ -1,7 +1,7 @@
 ---
 lang: es
 slug: melbourne-national-gallery-of-victoria
-srcHash: '66599a03f293'
+srcHash: '0015bc0a842b'
 title: 'Galería Nacional de Victoria (National Gallery of Victoria): guía de viaje de Melbourne (4.7★)'
 description: La Galería Nacional de Victoria se encuentra en St Kilda Road, en el barrio de Southbank (Melbourne). Desde la estación de Flinders Street se llega en unos 10 minutos a pie hacia el sur, cruzando el puente Princes. Tiene una valoración de 4.7★ con 26,244 reseñas. Aquí encontrará las opiniones de los visitantes, el horario y varios consejos.
 quickAnswer: La Galería Nacional de Victoria (National Gallery of Victoria) se encuentra en St Kilda Road, en el barrio de Southbank (Melbourne). Desde la estación de Flinders Street se llega en unos 10 minutos a pie hacia el sur, cruzando el puente Princes (Princes Bridge). Abre todos los días de 10am a 5pm. Entre semana hay poca gente durante todo el horario de apertura, así que conviene ir esos días. Los fines de semana, en cambio, la afluencia crece desde el mediodía hasta el cierre, por lo que es mejor no llegar más tarde de esa hora.
