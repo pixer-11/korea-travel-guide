@@ -62,7 +62,7 @@ A script that spends outside the ledger starves the 16:19 publish run, which has
 - **Run the full suite.** `node --test scripts/lib/foo.test.mjs` passing means nothing here — the
   repo has cross-cutting guards (a linter that rejects invisible characters in source, a workflow
   auditor, a dependency linter) that only fire on the whole run. Bare `node --test` finds ~1,900
-  tests (1,916 on 2026-10-09) and all pass; if your run says otherwise, re-run before reporting it. Reporting a failure that
+  tests (1,928 on 2026-10-09) and all pass; if your run says otherwise, re-run before reporting it. Reporting a failure that
   is not there, and filing it under "pre-existing, unrelated to my change", is worse than reporting
   nothing: it launders a real failure into background noise.
 - **Live over local.** `dist2/` may be weeks stale. Judging from a build artifact without checking

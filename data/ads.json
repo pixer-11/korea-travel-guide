@@ -1,0 +1,5 @@
+{
+  "_note": "Ad-network switch (src/lib/ads.mjs). Paste the AdSense publisher id (ca-pub-…) into adsense.client and the next build loads the AdSense script on every indexable page and writes /ads.txt. Leave it empty to stay ad-free. Before switching on: (1) apply at adsense.google.com with the id, (2) update the 'does not currently display ads' sentence in src/content/static-pages/privacy.md and its four translations, (3) turn on Auto ads in the AdSense dashboard. Other networks (Mediavine Journey needs 10k sessions/month and the GA4 property that is already in place) go in extraAdsTxt as the lines they give you.",
+  "adsense": { "client": "" },
+  "extraAdsTxt": []
+}
