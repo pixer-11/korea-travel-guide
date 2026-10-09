@@ -313,6 +313,7 @@ export async function commonsCandidates(query, limit = 10, subject = '', near = 
 // Seoul show (2026-10-06, owner: a singer's post may carry any photo of them).
 // Disambiguated categories first; the bare name is tried last, and Commons
 // keeps a bare category empty when the name is shared (Category:Khalid: 0).
+const OFFSTAGE = /\b(airport|KLIA|ICN|Incheon International|Gimpo|Narita|Haneda|arrival|departure|departing|arriving)\b/i;
 const PERFORMER_SUFFIXES = ['singer', 'musician', 'band', 'group', 'rapper', 'South Korean group', 'Japanese group', 'DJ', 'composer'];
 export async function performerCategoryPhotos(name, { limit = 8 } = {}) {
   const n = String(name ?? '').trim();
@@ -331,8 +332,11 @@ export async function performerCategoryPhotos(name, { limit = 8 } = {}) {
     } catch {}
     const found = Object.values(pages || {}).map(pageToCandidate).filter(Boolean)
       .filter(usableFile)
-      // biggest first: the banner wants the sharpest of the act's photos
-      .sort((a, b) => (b.w || 0) - (a.w || 0))
+      // Stage shots before airport ones, then biggest first: an act's category is
+      // full of arrival photos ("Chiquita at KLIA"), the largest files, and vision
+      // passes them as "the performer" — a concert guide should show a stage
+      // (BABYMONSTER Taipei and Bangkok, 2026-10-09).
+      .sort((a, b) => (OFFSTAGE.test(a.title) - OFFSTAGE.test(b.title)) || ((b.w || 0) - (a.w || 0)))
       .map((c) => ({ ...c, via: 'performer-category', category: cat }));
     if (found.length) return found.slice(0, limit);
   }
@@ -356,12 +360,29 @@ const fileQuery = (title) => 'https://commons.wikimedia.org/w/api.php?action=que
 async function commonsJson(url) {
   try { const r = await cfetch(url); return r.ok ? await r.json().catch(() => null) : null; } catch { return null; }
 }
+// Event-type words name a KIND of event, not one: a category made only of them
+// ("Music festivals") is every festival. Codex 10-09, reproduced: that title,
+// "UK Grand Prix" for the US one (the two-letter word was dropped), and
+// "Marathons in Bangkok" for the Bangkok Marathon all fitted.
+const EVENT_KIND = new Set(['music', 'festival', 'fest', 'marathon', 'maratona', 'half', 'race', 'run', 'grand', 'prix',
+  'concert', 'tour', 'world', 'international', 'internazionale', 'game', 'cup', 'championship', 'fair', 'show', 'live',
+  'open', 'master', 'super', 'night', 'event', 'parade', 'carnival', 'expo', 'fan', 'meeting', 'art', 'film', 'day', 'week', 'light']);
+const CAT_GLUE = new Set(['the', 'of', 'in', 'and', 'at', 'de', 'di', 'la', 'le', 'del', 'du', 'des', 'el']);
 export function eventCategoryFits(title, name, region = '') {
   const strip = (s) => String(s).replace(/\b(?:19|20)\d{2}\b/g, ' ').replace(/&/g, ' and ');
-  const words = tokens(strip(title)).map(singular);
-  const own = new Set(tokens(strip(name)).map(singular));
-  const place = new Set(tokens(region).map(singular));
-  return words.length > 0 && words.every((w) => own.has(w) || place.has(w)) && words.some((w) => own.has(w) && !place.has(w));
+  // Every word, short ones too — "UK" and "US" are the whole difference.
+  const raw = allWords(strip(title)).filter((w) => !CAT_GLUE.has(w));
+  const words = raw.map(singular);
+  const own = new Set(allWords(strip(name)).map(singular));
+  const place = new Set(allWords(region).map(singular));
+  if (!words.length || !words.every((w) => own.has(w) || place.has(w))) return false;
+  // One word that is this event's own name (Lucca "comics", "United States", "Deepavali").
+  const distinctive = words.some((w) => own.has(w) && !place.has(w) && !EVENT_KIND.has(w));
+  if (distinctive) return true;
+  // Otherwise only the city can name it (Dubai Sevens, Maratona di Palermo) — and not
+  // with a plural kind word, which makes it a collection: "Marathons in Bangkok".
+  if (raw.some((w, i) => w !== words[i] && EVENT_KIND.has(words[i]))) return false;
+  return words.some((w) => place.has(w) && own.has(w));
 }
 export async function eventCategoryPhotos(name, { region = '', limit = 8 } = {}) {
   const n = String(name ?? '').trim();

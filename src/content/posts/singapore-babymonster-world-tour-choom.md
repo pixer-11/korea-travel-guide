@@ -31,15 +31,15 @@ faq:
 aiGenerated: true
 draft: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/4/44/Rora_20260905_Manila.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/5/5a/Ahyeon_20260905_Manila_2.jpg
   credit: 'Photo: Farouk Azim / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Rora_20260905_Manila.jpg
+  source: https://commons.wikimedia.org/wiki/File:Ahyeon_20260905_Manila_2.jpg
   focus:
-    x: 48
-    'y': 24
-    top: 15
-    bottom: 32
+    x: 39
+    'y': 37
+    top: 16
+    bottom: 58
 ---
 
 ## Two nights under the Kallang roof

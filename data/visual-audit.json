@@ -1715,6 +1715,12 @@
   "reason": "patrol replace: Avenged Sevenfold press panel, Bangkok event",
   "at": "2026-08-31T23:20:31.541Z"
  },
+ "bangkok-babymonster-world-tour-choom\u0001https://upload.wikimedia.org/wikipedia/commons/3/3c/Ahyeon_20260905_Manila.jpg": {
+  "slug": "bangkok-babymonster-world-tour-choom",
+  "verdict": "MATCH",
+  "reason": "performer stage photo (hand-assigned, distinct per city): Performer from BABYMONSTER group, valid event hero photo",
+  "at": "2026-10-09T00:38:29.718Z"
+ },
  "bangkok-babymonster-world-tour-choom\u0001https://upload.wikimedia.org/wikipedia/commons/9/97/IMPACT_Arena.jpg": {
   "slug": "bangkok-babymonster-world-tour-choom",
   "verdict": "MATCH",
@@ -22503,6 +22509,12 @@
   "reason": "performer upgrade: Performer singing on stage at concert event",
   "at": "2026-10-08T23:59:16.973Z"
  },
+ "singapore-babymonster-world-tour-choom\u0001https://upload.wikimedia.org/wikipedia/commons/5/5a/Ahyeon_20260905_Manila_2.jpg": {
+  "slug": "singapore-babymonster-world-tour-choom",
+  "verdict": "MATCH",
+  "reason": "performer stage photo (hand-assigned, distinct per city): Performer photo, valid for BABYMONSTER tour event hero",
+  "at": "2026-10-09T00:38:37.246Z"
+ },
  "singapore-babymonster-world-tour-choom\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ruka_and_Chiquita_20-06-2025.jpg/3840px-Ruka_and_Chiquita_20-06-2025.jpg": {
   "slug": "singapore-babymonster-world-tour-choom",
   "verdict": "MATCH",
@@ -23833,6 +23845,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Candid fan photo, not a BABYMONSTER performer or venue",
   "at": "2026-10-08T15:01:25.609Z"
+ },
+ "taipei-babymonster-world-tour-choom\u0001https://upload.wikimedia.org/wikipedia/commons/6/60/Pharita_Summer_Sonic_2026.jpg": {
+  "slug": "taipei-babymonster-world-tour-choom",
+  "verdict": "MATCH",
+  "reason": "performer stage photo (hand-assigned, distinct per city): Performer photo valid for BABYMONSTER tour event hero",
+  "at": "2026-10-09T00:38:32.555Z"
  },
  "taipei-babymonster-world-tour-choom\u0001https://upload.wikimedia.org/wikipedia/commons/a/ac/Chiquita_at_KLIA_20-06-2025.jpg": {
   "slug": "taipei-babymonster-world-tour-choom",

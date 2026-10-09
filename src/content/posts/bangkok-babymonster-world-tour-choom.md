@@ -17,14 +17,14 @@ eventPerformer:
   kind: group
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ruka_and_Chiquita_20-06-2025.jpg/3840px-Ruka_and_Chiquita_20-06-2025.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/3/3c/Ahyeon_20260905_Manila.jpg
   credit: 'Photo: Farouk Azim / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Ruka_and_Chiquita_20-06-2025.jpg
+  source: https://commons.wikimedia.org/wiki/File:Ahyeon_20260905_Manila.jpg
   focus:
-    x: 36
+    x: 51
     'y': 23
-    top: 13
+    top: 14
     bottom: 32
 gallery: []
 tags:

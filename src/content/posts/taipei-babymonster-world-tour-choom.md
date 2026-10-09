@@ -34,15 +34,15 @@ faq:
 aiGenerated: true
 draft: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/a/ac/Chiquita_at_KLIA_20-06-2025.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/6/60/Pharita_Summer_Sonic_2026.jpg
   credit: 'Photo: Farouk Azim / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Chiquita_at_KLIA_20-06-2025.jpg
+  source: https://commons.wikimedia.org/wiki/File:Pharita_Summer_Sonic_2026.jpg
   focus:
-    x: 52
-    'y': 36
-    top: 20
-    bottom: 52
+    x: 41
+    'y': 29
+    top: 10
+    bottom: 47
 ---
 
 ## Two nights at Taipei Arena

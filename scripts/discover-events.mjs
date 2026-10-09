@@ -23,7 +23,7 @@ import { makeTitle } from './lib/titles.mjs';
 import matter from 'gray-matter';
 import { topicKey } from './lib/topic-key.mjs';
 import { keyToken, tokens as nameTokens, performerCategoryPhotos, eventCategoryPhotos } from './lib/commons.mjs';
-import { isUsedImage } from './lib/hero-url.mjs';
+import { isUsedImage, markUsedImage } from './lib/hero-url.mjs';
 import { eventKey, isEventTwin } from './lib/event-twin.mjs';
 import { eventProperName, eventAcronym } from '../src/lib/eventName.mjs';
 import { normalizeOffer, normalizePerformer } from '../src/lib/eventOffers.mjs';
@@ -314,7 +314,9 @@ async function writeDiscovered(item, ctx) {
       tried++;
       const vis = await verifyHeroImage({ url: c.url, name: item.name, category: cat, region: item.city, country, eventMode: true, venue: eventVenue });
       if (!vis.ok) { console.log(`   ${item.name}: category photo rejected (${vis.reason})`); continue; }
-      hero = c; preVerified = vis;
+      // Reserve it now: two cities' guides for one act would otherwise both take
+      // the act's first passing photo in the same run (Codex, 10-09).
+      hero = c; preVerified = vis; markUsedImage(ctx.usedImages, c.url);
       console.log(`   ${item.name}: hero from Category:${c.category}`);
       break;
     }

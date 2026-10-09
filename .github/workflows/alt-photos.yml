@@ -112,7 +112,9 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           SLUGS: ${{ github.event.inputs.slugs }}
           LIMIT: ${{ github.event.inputs.limit || '300' }}
-          AUDIT_ALL: ${{ (github.event_name == 'workflow_run' || github.event.inputs.audit_all == 'false') && '' || '1' }}
+          # '0', not '': `cond && '' || '1'` is always '1' because '' is falsy, so the
+          # backlog-only runs (and the manual audit_all=false) did full sweeps (Codex, 10-09).
+          AUDIT_ALL: ${{ (github.event_name == 'workflow_run' || github.event.inputs.audit_all == 'false') && '0' || '1' }}
         run: |
           set -o pipefail
           node scripts/backfill-photos-alt.mjs | tee /tmp/alt.log
