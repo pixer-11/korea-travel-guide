@@ -1,49 +1,48 @@
 ---
-title: "Alun - Alun: Surabaya Travel Guide (4.8★)"
-description: "Alun - Alun Surabaya is the city's public square on Jl. Gubernur Suryo in Embong Kaliasin, Genteng, central Surabaya, set beside the colonial Balai Pemuda building and a short walk from Jalan Tunjungan. 4.8★ (12,582 reviews) — what visitors say, hours, and tips."
-country: "Indonesia"
-region: "Surabaya"
-category: "hidden-gem"
-pubDate: "2026-09-28T07:50:13.613Z"
+title: 'Alun - Alun: Surabaya Travel Guide (4.8★)'
+description: Alun - Alun Surabaya is the city's public square on Jl. Gubernur Suryo in Embong Kaliasin, Genteng, central Surabaya, set beside the colonial Balai Pemuda building and a short walk from Jalan Tunjungan. 4.8★ (12,582 reviews) — what visitors say, hours, and tips.
+country: Indonesia
+region: Surabaya
+category: hidden-gem
+pubDate: '2026-09-28T07:50:13.613Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/d/d8/Balai_Pemuda_%28Simpangsche_Soci%C3%ABteit%29_Alun-Alun_Surabaya.jpg"
-  credit: "Photo: Darrent Tse / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Balai_Pemuda_(Simpangsche_Soci%C3%ABteit)_Alun-Alun_Surabaya.jpg"
-  via: "act"
+  url: https://fastly.4sqi.net/img/general/original/3675959_vAvJ-7xXuWeTjXiFJP2BPdtkWtL3VwYmiYkA-XFmPiI.jpg
+  credit: 'Photo: Foursquare user content (Alun-Alun Surabaya)'
+  license: foursquare
+  source: https://foursquare.com/v/618ba8b4ce10886c8878f0c9
   focus:
-    x: 50
-    y: 50
+    x: 55
+    'y': 45
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/4/45/Plaza_dan_Balai_Pemuda_Alun-alun_Surabaya.jpg"
-    credit: "Photo: Darrent Tse / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Plaza_dan_Balai_Pemuda_Alun-alun_Surabaya.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/4/45/Plaza_dan_Balai_Pemuda_Alun-alun_Surabaya.jpg
+    credit: 'Photo: Darrent Tse / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Plaza_dan_Balai_Pemuda_Alun-alun_Surabaya.jpg
 place:
-  id: "ChIJlYXv3iz51y0RLLhpJ0iVitM"
-  name: "Alun - Alun Surabaya"
-  address: "Jl. Gubernur Suryo, Embong Kaliasin, Kec. Genteng, Surabaya, Jawa Timur 60271, Indonesia"
+  id: ChIJlYXv3iz51y0RLLhpJ0iVitM
+  name: Alun - Alun Surabaya
+  address: Jl. Gubernur Suryo, Embong Kaliasin, Kec. Genteng, Surabaya, Jawa Timur 60271, Indonesia
   rating: 4.8
   userRatingsTotal: 12582
-  googleMapsUrl: "https://maps.google.com/?cid=15243160025920288812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=15243160025920288812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -7.264280899999999
   lng: 112.74553010000001
 tags:
-  - "surabaya"
-  - "old quarter"
-quickAnswer: "Alun - Alun Surabaya is the city's public square on Jl. Gubernur Suryo in Embong Kaliasin, Genteng, central Surabaya, set beside the colonial Balai Pemuda building and a short walk from Jalan Tunjungan. It's well known and busy, so plan an evening visit after the heat drops, pair it with Tunjungan and Gedung Negara Grahadi, and check current opening times and events before you go."
+  - surabaya
+  - old quarter
+quickAnswer: Alun - Alun Surabaya is the city's public square on Jl. Gubernur Suryo in Embong Kaliasin, Genteng, central Surabaya, set beside the colonial Balai Pemuda building and a short walk from Jalan Tunjungan. It's well known and busy, so plan an evening visit after the heat drops, pair it with Tunjungan and Gedung Negara Grahadi, and check current opening times and events before you go.
 faq:
-  - q: "Where exactly is Alun-Alun Surabaya?"
-    a: "On Jl. Gubernur Suryo in Embong Kaliasin, Genteng district, central Surabaya, next to the colonial Balai Pemuda building. Search 'Alun-Alun Surabaya' or 'Balai Pemuda' in Gojek or Grab."
-  - q: "When is the best time to visit?"
-    a: "Late afternoon and evening, when the heat eases and the square fills with families out walking. Opening times for the indoor level aren't published reliably, so check the city government's channels before going."
-  - q: "How long should I spend there?"
-    a: "About 45 minutes to an hour for the square itself. Allow a full evening if you walk on to Jalan Tunjungan and Gedung Negara Grahadi."
-  - q: "Is it a quiet, undiscovered spot?"
-    a: "No. It is one of Surabaya's best-known public spaces and gets busy, especially on weekends and event nights. Weekdays are the better bet if you want calmer photographs."
-  - q: "What else is nearby?"
-    a: "Gedung Negara Grahadi on the same road, Jalan Tunjungan's colonial shopping street, and Hotel Majapahit, site of the 1945 flag-tearing incident. All are within walking distance."
+  - q: Where exactly is Alun-Alun Surabaya?
+    a: On Jl. Gubernur Suryo in Embong Kaliasin, Genteng district, central Surabaya, next to the colonial Balai Pemuda building. Search 'Alun-Alun Surabaya' or 'Balai Pemuda' in Gojek or Grab.
+  - q: When is the best time to visit?
+    a: Late afternoon and evening, when the heat eases and the square fills with families out walking. Opening times for the indoor level aren't published reliably, so check the city government's channels before going.
+  - q: How long should I spend there?
+    a: About 45 minutes to an hour for the square itself. Allow a full evening if you walk on to Jalan Tunjungan and Gedung Negara Grahadi.
+  - q: Is it a quiet, undiscovered spot?
+    a: No. It is one of Surabaya's best-known public spaces and gets busy, especially on weekends and event nights. Weekdays are the better bet if you want calmer photographs.
+  - q: What else is nearby?
+    a: Gedung Negara Grahadi on the same road, Jalan Tunjungan's colonial shopping street, and Hotel Majapahit, site of the 1945 flag-tearing incident. All are within walking distance.
 aiGenerated: true
 draft: false
 ---

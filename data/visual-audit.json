@@ -105,8 +105,8 @@
  "abu-dhabi-k-pop-fever-etihad-arena\u0001https://upload.wikimedia.org/wikipedia/commons/1/1b/Taemin_at_K-POP_Concert_in_October_2015_02.jpg": {
   "slug": "abu-dhabi-k-pop-fever-etihad-arena",
   "verdict": "MATCH",
-  "reason": "event publish gate: Performer photo valid for K-pop event hero",
-  "at": "2026-10-08T00:52:21.310Z"
+  "reason": "patrol replace: K-pop performer on stage with venue lighting",
+  "at": "2026-10-08T23:51:57.100Z"
  },
  "abu-dhabi-khalifa-park\u0001https://upload.wikimedia.org/wikipedia/commons/a/a4/Khalifa_Park_Abu_Dhabi_-_panoramio_%2816%29.jpg": {
   "slug": "abu-dhabi-khalifa-park",
@@ -3560,6 +3560,12 @@
   "reason": "Piazza Maggiore Bologna, distinctive architecture visible",
   "at": "2026-07-27T12:45:42.718Z"
  },
+ "bologna-portici-di-bologna\u0001https://fastly.4sqi.net/img/general/original/59730158_pTpaqQ-jCyqwYRiG_3plHBbtwy6HBsFgJIzBqiybWYE.jpg": {
+  "slug": "bologna-portici-di-bologna",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Shows arcade ceiling frescoes, representative of Bologna's porticos",
+  "at": "2026-10-08T23:58:00.416Z"
+ },
  "bologna-portici-di-bologna\u0001https://upload.wikimedia.org/wikipedia/commons/1/1e/Bologna%2C_Portici_di_via_S.Isaia.JPG": {
   "slug": "bologna-portici-di-bologna",
   "verdict": "MATCH",
@@ -6863,6 +6869,12 @@
   "reasonKo": "박물관 내부, 고전 흉상 전시",
   "at": "2026-08-05T14:59:42.428Z"
  },
+ "florence-loggia-del-mercato-nuovo\u0001https://fastly.4sqi.net/img/general/original/3426465_9n0WBiWqMDZ3TTqldbVNz8OZAu5IA1Sv_jXNZpLNg4A.jpg": {
+  "slug": "florence-loggia-del-mercato-nuovo",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Shows the loggia's arcade and columns, representative view",
+  "at": "2026-10-08T23:57:48.659Z"
+ },
  "florence-loggia-del-mercato-nuovo\u0001https://upload.wikimedia.org/wikipedia/commons/8/8f/Firenze-mercato.jpg": {
   "slug": "florence-loggia-del-mercato-nuovo",
   "verdict": "MATCH",
@@ -7570,8 +7582,8 @@
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Charlie_Puth_al_Poble_Espanyol_%2836250%29.jpg/3840px-Charlie_Puth_al_Poble_Espanyol_%2836250%29.jpg": {
   "slug": "goyang-charlie-puth-concert",
   "verdict": "MATCH",
-  "reason": "patrol replace: Concert performance on stage with band setup",
-  "at": "2026-10-08T14:35:31.166Z"
+  "reason": "patrol replace: Concert performance with stage setup and backdrop",
+  "at": "2026-10-08T23:52:20.230Z"
  },
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Charlie_Puth_al_Poble_Espanyol_%2857304%29.jpg/3840px-Charlie_Puth_al_Poble_Espanyol_%2857304%29.jpg": {
   "slug": "goyang-charlie-puth-concert",
@@ -8764,6 +8776,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Representative courtyard view of historic site architecture",
   "at": "2026-10-03T07:38:45.694Z"
+ },
+ "hobart-elizabeth-street-pier\u0001https://fastly.4sqi.net/img/general/original/33215919_iEKr7RFrkvJ_O0d8u9SD8SmO-auQld8mtyWFlzQbJ_A.jpg": {
+  "slug": "hobart-elizabeth-street-pier",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Shows Hobart waterfront pier area with boats and city",
+  "at": "2026-10-08T23:58:05.263Z"
  },
  "hobart-elizabeth-street-pier\u0001https://upload.wikimedia.org/wikipedia/commons/1/12/Morning_View_Elizabeth_pier_2011.jpg": {
   "slug": "hobart-elizabeth-street-pier",
@@ -10534,6 +10552,12 @@
   "verdict": "MATCH",
   "reason": "patrol replace: BABYMONSTA performer on stage, concert setting",
   "at": "2026-10-08T14:38:58.912Z"
+ },
+ "jakarta-babymonsta-2026-27-world-tour-choom-in-jakarta\u0001https://upload.wikimedia.org/wikipedia/commons/8/8e/Rora_Summer_Sonic_2026.jpg": {
+  "slug": "jakarta-babymonsta-2026-27-world-tour-choom-in-jakarta",
+  "verdict": "MATCH",
+  "reason": "performer upgrade: BABYMONSTER performer singing on stage, valid hero",
+  "at": "2026-10-08T23:59:05.079Z"
  },
  "jakarta-babymonsta-2026-27-world-tour-choom-in-jakarta\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ruka_and_Chiquita_20-06-2025.jpg/3840px-Ruka_and_Chiquita_20-06-2025.jpg": {
   "slug": "jakarta-babymonsta-2026-27-world-tour-choom-in-jakarta",
@@ -12653,11 +12677,23 @@
   "reason": "release check: KL skyline with Petronas Towers, representative of Kuala Lumpur",
   "at": "2026-08-11T04:12:40.197Z"
  },
+ "kuala-lumpur-jeong-eunji-solo-concert-asia-tour\u0001https://upload.wikimedia.org/wikipedia/commons/1/19/Yoon_Jeong-han_at_25th_Dream_Concert_04.png": {
+  "slug": "kuala-lumpur-jeong-eunji-solo-concert-asia-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: This is a male performer, not Jeong Eunji",
+  "at": "2026-10-08T23:53:39.233Z"
+ },
  "kuala-lumpur-jeong-eunji-solo-concert-asia-tour\u0001https://upload.wikimedia.org/wikipedia/commons/8/80/Yoon_Jeong-han_at_25th_Dream_Concert_01.png": {
   "slug": "kuala-lumpur-jeong-eunji-solo-concert-asia-tour",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Male performer shown, not Jeong Eunji",
   "at": "2026-10-08T14:40:45.182Z"
+ },
+ "kuala-lumpur-jeong-eunji-solo-concert-asia-tour\u0001https://upload.wikimedia.org/wikipedia/commons/9/96/Yoon_Jeong-han_at_25th_Dream_Concert_09.png": {
+  "slug": "kuala-lumpur-jeong-eunji-solo-concert-asia-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Different performer, not Jeong Eunji",
+  "at": "2026-10-08T23:53:37.158Z"
  },
  "kuala-lumpur-jeong-eunji-solo-concert-asia-tour\u0001https://upload.wikimedia.org/wikipedia/commons/a/a2/Yoon_Jeong-han_at_25th_Dream_Concert_05.png": {
   "slug": "kuala-lumpur-jeong-eunji-solo-concert-asia-tour",
@@ -12665,11 +12701,23 @@
   "reason": "patrol reject: This is a male performer, not Jeong Eunji",
   "at": "2026-10-08T14:40:47.414Z"
  },
+ "kuala-lumpur-jeong-eunji-solo-concert-asia-tour\u0001https://upload.wikimedia.org/wikipedia/commons/a/ac/Yoon_Jeong-han_at_25th_Dream_Concert_07.png": {
+  "slug": "kuala-lumpur-jeong-eunji-solo-concert-asia-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in South Korea, post says Malaysia",
+  "at": "2026-10-08T23:53:35.012Z"
+ },
  "kuala-lumpur-jeong-eunji-solo-concert-asia-tour\u0001https://upload.wikimedia.org/wikipedia/commons/b/b4/Yoon_Jeong-han_at_25th_Dream_Concert_03.png": {
   "slug": "kuala-lumpur-jeong-eunji-solo-concert-asia-tour",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Different performer, not Jeong Eunji",
   "at": "2026-10-08T14:40:38.755Z"
+ },
+ "kuala-lumpur-jeong-eunji-solo-concert-asia-tour\u0001https://upload.wikimedia.org/wikipedia/commons/b/bb/Yoon_Jeong-han_at_25th_Dream_Concert_02.png": {
+  "slug": "kuala-lumpur-jeong-eunji-solo-concert-asia-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: identity: Commons places this in South Korea, post says Malaysia",
+  "at": "2026-10-08T23:53:31.379Z"
  },
  "kuala-lumpur-jeong-eunji-solo-concert-asia-tour\u0001https://upload.wikimedia.org/wikipedia/commons/e/ed/Yoon_Jeong-han_at_25th_Dream_Concert_06.png": {
   "slug": "kuala-lumpur-jeong-eunji-solo-concert-asia-tour",
@@ -13598,8 +13646,8 @@
  "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alvaro_Bautista-motogp-2015.JPG/3840px-Alvaro_Bautista-motogp-2015.JPG": {
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
   "verdict": "MATCH",
-  "reason": "patrol replace: MotoGP rider and bike at racing event",
-  "at": "2026-10-08T14:42:15.500Z"
+  "reason": "patrol replace: MotoGP rider and bike at racing circuit",
+  "at": "2026-10-08T23:54:12.767Z"
  },
  "lombok-mount-rinjani-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lembah_Torean_Rinjani.jpg/1920px-Lembah_Torean_Rinjani.jpg": {
   "slug": "lombok-mount-rinjani-national-park",
@@ -13671,8 +13719,20 @@
  "london-jay-park-serenades-body-rolls-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/e/e9/JAY_%28ENHYPEN%29_220624.jpg": {
   "slug": "london-jay-park-serenades-body-rolls-world-tour",
   "verdict": "MATCH",
-  "reason": "event publish gate: Clear portrait of performer Jay Park for event hero",
-  "at": "2026-10-08T01:32:44.631Z"
+  "reason": "patrol replace: Portrait of performer consistent with concert event",
+  "at": "2026-10-08T23:54:32.325Z"
+ },
+ "london-jay-park-serenades-body-rolls-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/f/f4/Blue_jay_in_PP_%2830960%29.jpg": {
+  "slug": "london-jay-park-serenades-body-rolls-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Image shows a bird, unrelated to concert event",
+  "at": "2026-10-08T23:54:29.364Z"
+ },
+ "london-jay-park-serenades-body-rolls-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Riviera_jaypark.jpg/1280px-Riviera_jaypark.jpg": {
+  "slug": "london-jay-park-serenades-body-rolls-world-tour",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Photo of a sign/marquee, not performer or venue",
+  "at": "2026-10-08T23:54:27.394Z"
  },
  "london-kensington-gardens\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Kensington_Gardens_Round_Pond.jpg/3840px-Kensington_Gardens_Round_Pond.jpg": {
   "slug": "london-kensington-gardens",
@@ -17390,8 +17450,8 @@
  "nonthaburi-f-forever-1st-world-tour-in-bangkok\u0001https://upload.wikimedia.org/wikipedia/commons/d/db/Oasis_Live_Forever_Concert_In_Taipei.jpg": {
   "slug": "nonthaburi-f-forever-1st-world-tour-in-bangkok",
   "verdict": "MATCH",
-  "reason": "patrol replace: Live concert performance, guitarist on stage",
-  "at": "2026-10-07T23:48:40.677Z"
+  "reason": "patrol replace: Concert performer with guitar, event archive photo",
+  "at": "2026-10-08T23:55:57.642Z"
  },
  "nonthaburi-f-forever-1st-world-tour-in-bangkok\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jacob_Forever_2019--06-09.jpg/1920px-Jacob_Forever_2019--06-09.jpg": {
   "slug": "nonthaburi-f-forever-1st-world-tour-in-bangkok",
@@ -18372,6 +18432,12 @@
   "verdict": "MATCH",
   "reason": "patrol replace: Concert performance matches 5SOS event type",
   "at": "2026-10-08T14:52:18.211Z"
+ },
+ "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/5_Seconds_of_Summer_First_USA_Acoustic_IMG_3639_%2814665452017%29.jpg/3840px-5_Seconds_of_Summer_First_USA_Acoustic_IMG_3639_%2814665452017%29.jpg": {
+  "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Concert stage with professional lighting setup",
+  "at": "2026-10-08T23:56:14.891Z"
  },
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/5_Seconds_of_Summer_First_USA_Acoustic_IMG_3665_%2814665446017%29.jpg/3840px-5_Seconds_of_Summer_First_USA_Acoustic_IMG_3665_%2814665446017%29.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
@@ -19863,6 +19929,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Close view of Pantheon's exterior dome and cornice detail",
   "at": "2026-09-20T07:38:28.533Z"
+ },
+ "rome-portico-of-octavia\u0001https://fastly.4sqi.net/img/general/original/1598040_xX789MFwIzr8TVVD3uDm3hcqHDro4CA5Znd7Xy7vYjM.jpg": {
+  "slug": "rome-portico-of-octavia",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Shows the actual Portico of Octavia ruins in Rome",
+  "at": "2026-10-08T23:57:53.464Z"
  },
  "rome-portico-of-octavia\u0001https://upload.wikimedia.org/wikipedia/commons/d/dd/Portico_of_Octavia_upper_detail_%285832983656%29.jpg": {
   "slug": "rome-portico-of-octavia",
@@ -22425,6 +22497,12 @@
   "reason": "patrol replace: Singapore Indoor Stadium exterior entrance, correct venue.",
   "at": "2026-08-31T23:40:18.237Z"
  },
+ "singapore-babymonster-world-tour-choom\u0001https://upload.wikimedia.org/wikipedia/commons/4/44/Rora_20260905_Manila.jpg": {
+  "slug": "singapore-babymonster-world-tour-choom",
+  "verdict": "MATCH",
+  "reason": "performer upgrade: Performer singing on stage at concert event",
+  "at": "2026-10-08T23:59:16.973Z"
+ },
  "singapore-babymonster-world-tour-choom\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ruka_and_Chiquita_20-06-2025.jpg/3840px-Ruka_and_Chiquita_20-06-2025.jpg": {
   "slug": "singapore-babymonster-world-tour-choom",
   "verdict": "MATCH",
@@ -22470,11 +22548,29 @@
   "reason": "patrol reject: Shows a parked car, not the marathon event or venue",
   "at": "2026-10-08T14:59:15.344Z"
  },
+ "singapore-byd-singapore-international-marathon-standard-chartered-singapore-mara\u0001https://upload.wikimedia.org/wikipedia/commons/2/22/%28SGP-Singapore%29_Showcar_BYD_Seal_No-plate_2024-10-24.jpg": {
+  "slug": "singapore-byd-singapore-international-marathon-standard-chartered-singapore-mara",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Car showroom display, not marathon event or venue",
+  "at": "2026-10-08T23:56:49.269Z"
+ },
+ "singapore-byd-singapore-international-marathon-standard-chartered-singapore-mara\u0001https://upload.wikimedia.org/wikipedia/commons/6/63/%28SGP-Singapore%29_Showcar_BYD_Seal_No-plate_2024-10-29.jpg": {
+  "slug": "singapore-byd-singapore-international-marathon-standard-chartered-singapore-mara",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows a car, not marathon event or venue",
+  "at": "2026-10-08T23:56:52.416Z"
+ },
  "singapore-byd-singapore-international-marathon-standard-chartered-singapore-mara\u0001https://upload.wikimedia.org/wikipedia/commons/9/9b/Byd_Buses%2C_Singapore_0125.jpg": {
   "slug": "singapore-byd-singapore-international-marathon-standard-chartered-singapore-mara",
   "verdict": "MISMATCH",
   "reason": "patrol reject: Shows buses in Singapore, unrelated to marathon event",
   "at": "2026-10-08T14:59:17.251Z"
+ },
+ "singapore-byd-singapore-international-marathon-standard-chartered-singapore-mara\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/BYD_e6_in_Singapore_rear.jpg/3840px-BYD_e6_in_Singapore_rear.jpg": {
+  "slug": "singapore-byd-singapore-international-marathon-standard-chartered-singapore-mara",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Photo of an unrelated parked car, not marathon event",
+  "at": "2026-10-08T23:56:47.741Z"
  },
  "singapore-byd-singapore-international-marathon-standard-chartered-singapore-mara\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Byd_BC12A04_%28SG3102H%29%2C_Singapore_0125.jpg/3840px-Byd_BC12A04_%28SG3102H%29%2C_Singapore_0125.jpg": {
   "slug": "singapore-byd-singapore-international-marathon-standard-chartered-singapore-mara",
@@ -22487,6 +22583,12 @@
   "verdict": "MISMATCH",
   "reason": "patrol reject: Unrelated subject: a parked car, not the marathon",
   "at": "2026-10-08T14:59:21.228Z"
+ },
+ "singapore-byd-singapore-international-marathon-standard-chartered-singapore-mara\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/%28SGP-Singapore%29_Showcar_BYD_M6_No-plate_2024-10-29.jpg/3840px-%28SGP-Singapore%29_Showcar_BYD_M6_No-plate_2024-10-29.jpg": {
+  "slug": "singapore-byd-singapore-international-marathon-standard-chartered-singapore-mara",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Car showroom display, not marathon event or venue",
+  "at": "2026-10-08T23:56:50.853Z"
  },
  "singapore-casa-mori\u0001https://fastly.4sqi.net/img/general/original/4880533_gyFSZcqWwCF8ZEI4kLz9XqlfQ8mSFm8YKSy1Jtq2pv0.jpg": {
   "slug": "singapore-casa-mori",
@@ -23133,6 +23235,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior storefront with clear SEA LIFE Sunshine Coast signage",
   "at": "2026-09-28T17:09:00.040Z"
+ },
+ "surabaya-alun-alun-surabaya\u0001https://fastly.4sqi.net/img/general/original/3675959_vAvJ-7xXuWeTjXiFJP2BPdtkWtL3VwYmiYkA-XFmPiI.jpg": {
+  "slug": "surabaya-alun-alun-surabaya",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Shows colonial-style building plausibly matching Surabaya venue",
+  "at": "2026-10-08T23:58:09.816Z"
  },
  "surabaya-alun-alun-surabaya\u0001https://upload.wikimedia.org/wikipedia/commons/d/d8/Balai_Pemuda_%28Simpangsche_Soci%C3%ABteit%29_Alun-Alun_Surabaya.jpg": {
   "slug": "surabaya-alun-alun-surabaya",
@@ -24542,6 +24650,30 @@
   "reason": "patrol reject: Japanese street scene, not Tashkent's Anhor Canal",
   "at": "2026-10-08T15:03:40.859Z"
  },
+ "tashkent-walk-around-tashkent-tashkent-speaks\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Walk_around_Takebashi.jpg/3840px-Walk_around_Takebashi.jpg": {
+  "slug": "tashkent-walk-around-tashkent-tashkent-speaks",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Shows unrelated bridge/river scene, not Tashkent venue",
+  "at": "2026-10-08T23:57:24.114Z"
+ },
+ "tashkent-walk-around-tashkent-tashkent-speaks\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Walk_around_Oimachi.jpg/3840px-Walk_around_Oimachi.jpg": {
+  "slug": "tashkent-walk-around-tashkent-tashkent-speaks",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Japanese street scene, not Tashkent Anhor Canal",
+  "at": "2026-10-08T23:57:22.786Z"
+ },
+ "tashkent-walk-around-tashkent-tashkent-speaks\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Walk_around_Ebisu.jpg/3840px-Walk_around_Ebisu.jpg": {
+  "slug": "tashkent-walk-around-tashkent-tashkent-speaks",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Japanese storage shed, unrelated to Tashkent event",
+  "at": "2026-10-08T23:57:32.923Z"
+ },
+ "tashkent-walk-around-tashkent-tashkent-speaks\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Walk_around_Y%C5%8Dga.jpg/3840px-Walk_around_Y%C5%8Dga.jpg": {
+  "slug": "tashkent-walk-around-tashkent-tashkent-speaks",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Bicycle parking garage, unrelated to Tashkent canal walk event",
+  "at": "2026-10-08T23:57:25.546Z"
+ },
  "tempe-filthy-animal\u0001https://fastly.4sqi.net/img/general/original/3889560_FTrSqea-sypNAwiCrodaKMEaXe4qihbcThzpqTRdsc4.jpg": {
   "slug": "tempe-filthy-animal",
   "verdict": "MATCH",
@@ -24605,6 +24737,12 @@
   "reason": "metadata veto: Commons names Tiong Bahru (vision said: Modern mall, not traditional market setting)",
   "reasonKo": null,
   "at": "2026-08-18T13:27:57.260Z"
+ },
+ "tokorozawa-nct-127-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/NCT_127_going_to_a_Music_Bank_recording_in_March_2018.png/3840px-NCT_127_going_to_a_Music_Bank_recording_in_March_2018.png": {
+  "slug": "tokorozawa-nct-127-concert",
+  "verdict": "MATCH",
+  "reason": "performer upgrade: Photo of the group NCT 127 performers",
+  "at": "2026-10-08T23:59:43.824Z"
  },
  "tokorozawa-nct-127-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/NCT_127_at_KBEE_2018_-_Moscow_Expo_Hallyu_Promotional_Ambassadors_Appointment_Ceremony_01.png/3840px-NCT_127_at_KBEE_2018_-_Moscow_Expo_Hallyu_Promotional_Ambassadors_Appointment_Ceremony_01.png": {
   "slug": "tokorozawa-nct-127-concert",

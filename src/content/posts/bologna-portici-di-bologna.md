@@ -1,57 +1,56 @@
 ---
 title: 'Portici di Bologna: Travel Guide (4.7★)'
-description: "Portici di Bologna is the city's network of covered arcades, and Piazza Cavour in central Bologna, a short walk south of Piazza Maggiore, is one of the best places to start. 4.7★ (928 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Bologna"
-category: "hidden-gem"
-pubDate: "2026-09-28T15:52:42.555Z"
+description: Portici di Bologna is the city's network of covered arcades, and Piazza Cavour in central Bologna, a short walk south of Piazza Maggiore, is one of the best places to start. 4.7★ (928 reviews) — what visitors say, hours, and tips.
+country: Italy
+region: Bologna
+category: hidden-gem
+pubDate: '2026-09-28T15:52:42.555Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bologna%2C_Portici_di_via_S.Isaia.JPG"
-  credit: "Photo: Antigene1 / Wikimedia Commons (CC BY-SA 3.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Bologna,_Portici_di_via_S.Isaia.JPG"
-  via: "act"
+  url: https://fastly.4sqi.net/img/general/original/59730158_pTpaqQ-jCyqwYRiG_3plHBbtwy6HBsFgJIzBqiybWYE.jpg
+  credit: 'Photo: Foursquare user content (Portici Del Bologna)'
+  license: foursquare
+  source: https://foursquare.com/v/64e9ef3627feea3a50dace81
   focus:
     x: 50
-    y: 45
+    'y': 30
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/1/14/Bologna_-_Portici_di_Bologna_-_202109090920.jpg"
-    credit: "Photo: Nivesfra67 / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Bologna_-_Portici_di_Bologna_-_202109090920.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/1/14/Bologna_-_Portici_di_Bologna_-_202109090920.jpg
+    credit: 'Photo: Nivesfra67 / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Bologna_-_Portici_di_Bologna_-_202109090920.jpg
 place:
-  id: "ChIJeZQK0I7Vf0cReaaG9u9Eb-o"
-  name: "Portici di Bologna"
-  address: "P.za Cavour, 40121 Bologna BO, Italy"
+  id: ChIJeZQK0I7Vf0cReaaG9u9Eb-o
+  name: Portici di Bologna
+  address: P.za Cavour, 40121 Bologna BO, Italy
   rating: 4.7
   userRatingsTotal: 928
-  googleMapsUrl: "https://maps.google.com/?cid=16892796524713911929&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=16892796524713911929&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 44.4911203
   lng: 11.3436002
   openingHours:
-    - "Monday: Open 24 hours"
-    - "Tuesday: Open 24 hours"
-    - "Wednesday: Open 24 hours"
-    - "Thursday: Open 24 hours"
-    - "Friday: Open 24 hours"
-    - "Saturday: Open 24 hours"
-    - "Sunday: Open 24 hours"
+    - 'Monday: Open 24 hours'
+    - 'Tuesday: Open 24 hours'
+    - 'Wednesday: Open 24 hours'
+    - 'Thursday: Open 24 hours'
+    - 'Friday: Open 24 hours'
+    - 'Saturday: Open 24 hours'
+    - 'Sunday: Open 24 hours'
 tags:
-  - "bologna"
-  - "old quarter"
-quickAnswer: "Portici di Bologna is the city's network of covered arcades, and Piazza Cavour in central Bologna, a short walk south of Piazza Maggiore, is one of the best places to start. The porticoes are public streets, open 24 hours every day and free to walk. Give yourself two hours for the centre, or half a day if you add the long portico climb to San Luca."
+  - bologna
+  - old quarter
+quickAnswer: Portici di Bologna is the city's network of covered arcades, and Piazza Cavour in central Bologna, a short walk south of Piazza Maggiore, is one of the best places to start. The porticoes are public streets, open 24 hours every day and free to walk. Give yourself two hours for the centre, or half a day if you add the long portico climb to San Luca.
 faq:
-  - q: "Where do the Portici di Bologna start?"
-    a: "There's no single entrance, because the porticoes line streets across the whole centre. Piazza Cavour, a few minutes' walk south of Piazza Maggiore, is a good place to start. From there, Via Farini leads toward the Archiginnasio."
-  - q: "Are the porticoes open at night?"
-    a: "Yes. They are public streets, open 24 hours every day, and the central stretches are lit after dark."
-  - q: "How long does the walk to San Luca take?"
-    a: "The portico runs about 3.8 km from Porta Saragozza to the sanctuary, under 666 arches. Most people take around an hour going up, and the steepest part begins after the Arco del Meloncello."
-  - q: "How much time should I set aside?"
-    a: "Two hours covers the main central porticoes, including Piazza Cavour, the Archiginnasio, Strada Maggiore and Via Zamboni. Allow half a day if you add San Luca."
-  - q: "Why are the porticoes UNESCO-listed?"
-    a: "UNESCO listed twelve stretches in 2021 because Bologna's porticoes are unusual for their length, their continuity and their age. They have been required on new buildings since a city statute of 1288."
+  - q: Where do the Portici di Bologna start?
+    a: There's no single entrance, because the porticoes line streets across the whole centre. Piazza Cavour, a few minutes' walk south of Piazza Maggiore, is a good place to start. From there, Via Farini leads toward the Archiginnasio.
+  - q: Are the porticoes open at night?
+    a: Yes. They are public streets, open 24 hours every day, and the central stretches are lit after dark.
+  - q: How long does the walk to San Luca take?
+    a: The portico runs about 3.8 km from Porta Saragozza to the sanctuary, under 666 arches. Most people take around an hour going up, and the steepest part begins after the Arco del Meloncello.
+  - q: How much time should I set aside?
+    a: Two hours covers the main central porticoes, including Piazza Cavour, the Archiginnasio, Strada Maggiore and Via Zamboni. Allow half a day if you add San Luca.
+  - q: Why are the porticoes UNESCO-listed?
+    a: UNESCO listed twelve stretches in 2021 because Bologna's porticoes are unusual for their length, their continuity and their age. They have been required on new buildings since a city statute of 1288.
 aiGenerated: true
 draft: false
 ---

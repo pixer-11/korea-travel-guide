@@ -1,32 +1,31 @@
 ---
-title: "Elizabeth Street Pier: Hobart Travel Guide (4.5★)"
-description: "Elizabeth Street Pier sits on Franklin Wharf on Hobart's Sullivans Cove waterfront. 4.5★ (421 reviews) — what visitors say, hours, and tips."
-country: "Australia"
-region: "Hobart"
-category: "attraction"
-pubDate: "2026-09-28T17:05:22.470Z"
+title: 'Elizabeth Street Pier: Hobart Travel Guide (4.5★)'
+description: Elizabeth Street Pier sits on Franklin Wharf on Hobart's Sullivans Cove waterfront. 4.5★ (421 reviews) — what visitors say, hours, and tips.
+country: Australia
+region: Hobart
+category: attraction
+pubDate: '2026-09-28T17:05:22.470Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/1/12/Morning_View_Elizabeth_pier_2011.jpg"
-  credit: "Photo: Michael Coghlan / Wikimedia Commons (CC BY-SA 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Morning_View_Elizabeth_pier_2011.jpg"
-  via: "act"
+  url: https://fastly.4sqi.net/img/general/original/33215919_iEKr7RFrkvJ_O0d8u9SD8SmO-auQld8mtyWFlzQbJ_A.jpg
+  credit: 'Photo: Foursquare user content (Elizabeth Street Pier)'
+  license: foursquare
+  source: https://foursquare.com/v/4c78de63794e224b36906328
   focus:
     x: 50
-    y: 45
+    'y': 50
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/4/4a/CG_Elizabeth_St_Pier_Hobart_Feb_2015.jpg"
-    credit: "Photo: Chuq / Wikimedia Commons (CC BY-SA 4.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:CG_Elizabeth_St_Pier_Hobart_Feb_2015.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/4/4a/CG_Elizabeth_St_Pier_Hobart_Feb_2015.jpg
+    credit: 'Photo: Chuq / Wikimedia Commons (CC BY-SA 4.0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:CG_Elizabeth_St_Pier_Hobart_Feb_2015.jpg
 place:
-  id: "ChIJZ94W-oZ1bqoRKAeZVX8sEII"
-  name: "Elizabeth Street Pier"
-  address: "Unit 22/4 Franklin Whrf, Hobart TAS 7000, Australia"
+  id: ChIJZ94W-oZ1bqoRKAeZVX8sEII
+  name: Elizabeth Street Pier
+  address: Unit 22/4 Franklin Whrf, Hobart TAS 7000, Australia
   rating: 4.5
   userRatingsTotal: 421
-  googleMapsUrl: "https://maps.google.com/?cid=9372039749966563112&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=9372039749966563112&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: -42.88438670000001
   lng: 147.3345886
   openingHours:
@@ -38,20 +37,20 @@ place:
     - 'Saturday: Open 24 hours'
     - 'Sunday: Open 24 hours'
 tags:
-  - "hobart"
-  - "top attraction"
-quickAnswer: "Elizabeth Street Pier sits on Franklin Wharf on Hobart's Sullivans Cove waterfront. It's a long pier building with waterside restaurants and bars on the ground floor and accommodation upstairs, a few minutes' walk from Constitution Dock, Brooke Street Pier and Salamanca Place. Give it an hour for a meal and a walk along the wharves, and check each venue's hours before you go."
+  - hobart
+  - top attraction
+quickAnswer: Elizabeth Street Pier sits on Franklin Wharf on Hobart's Sullivans Cove waterfront. It's a long pier building with waterside restaurants and bars on the ground floor and accommodation upstairs, a few minutes' walk from Constitution Dock, Brooke Street Pier and Salamanca Place. Give it an hour for a meal and a walk along the wharves, and check each venue's hours before you go.
 faq:
-  - q: "Where exactly is Elizabeth Street Pier?"
-    a: "It's on Franklin Wharf on Hobart's Sullivans Cove waterfront, at the bottom of Elizabeth Street. Constitution Dock and Brooke Street Pier are right next to it, and Salamanca Place is a short walk south."
-  - q: "How long should I spend there?"
-    a: "Around an hour covers a meal and a stroll to the end of the pier. Set aside half a day if you're adding Salamanca Place, the Tasmanian Museum and Art Gallery or Constitution Dock."
-  - q: "Do I need to book a restaurant on the pier?"
-    a: "It's smart to book for Friday and Saturday dinners, and during late December and June when the yacht race and Dark Mofo bring crowds. Weekday lunches are usually easier without a booking. Opening hours differ by venue, so check each one before you go."
-  - q: "Is there parking nearby?"
-    a: "Street parking near the waterfront is limited and fills up quickly. It's usually easier to park in a CBD car park and walk down Elizabeth Street to the water."
-  - q: "What's the best time of year to visit?"
-    a: "Summer brings long evenings and the Sydney to Hobart Yacht Race finish around New Year. Winter has Dark Mofo in June. The wind off the Derwent can be cold in any season, so bring a layer."
+  - q: Where exactly is Elizabeth Street Pier?
+    a: It's on Franklin Wharf on Hobart's Sullivans Cove waterfront, at the bottom of Elizabeth Street. Constitution Dock and Brooke Street Pier are right next to it, and Salamanca Place is a short walk south.
+  - q: How long should I spend there?
+    a: Around an hour covers a meal and a stroll to the end of the pier. Set aside half a day if you're adding Salamanca Place, the Tasmanian Museum and Art Gallery or Constitution Dock.
+  - q: Do I need to book a restaurant on the pier?
+    a: It's smart to book for Friday and Saturday dinners, and during late December and June when the yacht race and Dark Mofo bring crowds. Weekday lunches are usually easier without a booking. Opening hours differ by venue, so check each one before you go.
+  - q: Is there parking nearby?
+    a: Street parking near the waterfront is limited and fills up quickly. It's usually easier to park in a CBD car park and walk down Elizabeth Street to the water.
+  - q: What's the best time of year to visit?
+    a: Summer brings long evenings and the Sydney to Hobart Yacht Race finish around New Year. Winter has Dark Mofo in June. The wind off the Derwent can be cold in any season, so bring a layer.
 aiGenerated: true
 draft: false
 ---

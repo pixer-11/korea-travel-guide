@@ -31,15 +31,15 @@ faq:
 aiGenerated: true
 draft: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ruka_and_Chiquita_20-06-2025.jpg/3840px-Ruka_and_Chiquita_20-06-2025.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/4/44/Rora_20260905_Manila.jpg
   credit: 'Photo: Farouk Azim / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Ruka_and_Chiquita_20-06-2025.jpg
+  source: https://commons.wikimedia.org/wiki/File:Rora_20260905_Manila.jpg
   focus:
-    x: 38
-    'y': 22
+    x: 48
+    'y': 24
     top: 15
-    bottom: 28
+    bottom: 32
 ---
 
 ## Two nights under the Kallang roof

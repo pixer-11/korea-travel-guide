@@ -1,8 +1,6 @@
 ---
 title: 'Charlie Puth Concert: Dates, Tickets & Venue (Goyang)'
-description: >-
-  The Charlie Puth Concert in Goyang is two nights at Goyang Stadium, October
-  17-18, 2026, as part of his world tour.
+description: The Charlie Puth Concert in Goyang is two nights at Goyang Stadium, October 17-18, 2026, as part of his world tour.
 country: South Korea
 region: Goyang
 category: event
@@ -18,43 +16,31 @@ eventFactsAsked: true
 tags:
   - goyang
   - event
-quickAnswer: >-
-  The Charlie Puth Concert in Goyang is two nights at Goyang Stadium, October
-  17-18, 2026, as part of his world tour. The stadium is in Ilsanseo-gu, a short
-  walk from Daehwa Station at the end of Seoul Subway Line 3. Confirm timing,
-  seating and tickets on the official site and the authorised ticketing partner.
+quickAnswer: The Charlie Puth Concert in Goyang is two nights at Goyang Stadium, October 17-18, 2026, as part of his world tour. The stadium is in Ilsanseo-gu, a short walk from Daehwa Station at the end of Seoul Subway Line 3. Confirm timing, seating and tickets on the official site and the authorised ticketing partner.
 faq:
   - q: When and where is the Charlie Puth concert in Goyang?
-    a: >-
-      It is two nights at Goyang Stadium in Goyang, South Korea, on October 17
-      and 18, 2026, as part of his world tour. Confirm exact timing on the
-      official site.
+    a: It is two nights at Goyang Stadium in Goyang, South Korea, on October 17 and 18, 2026, as part of his world tour. Confirm exact timing on the official site.
   - q: How do I get to Goyang Stadium by subway?
-    a: >-
-      Take Seoul Subway Line 3 to Daehwa Station, the end of the line. The
-      stadium is a short walk from there, next to KINTEX. The ride from central
-      Seoul takes about an hour.
+    a: Take Seoul Subway Line 3 to Daehwa Station, the end of the line. The stadium is a short walk from there, next to KINTEX. The ride from central Seoul takes about an hour.
   - q: Do I need my passport to get in?
-    a: >-
-      Bring it. Korean ticketing often names the ticket holder, and foreign
-      buyers may have to collect tickets at an on-site booth where staff check
-      ID against the booking.
+    a: Bring it. Korean ticketing often names the ticket holder, and foreign buyers may have to collect tickets at an on-site booth where staff check ID against the booking.
   - q: Is Goyang Stadium indoors?
-    a: >-
-      No, it is an open-air stadium. Mid-October evenings get cool, so bring a
-      layer and a light rain jacket rather than an umbrella.
+    a: No, it is an open-air stadium. Mid-October evenings get cool, so bring a layer and a light rain jacket rather than an umbrella.
   - q: Where can I eat near the venue?
-    a: >-
-      The La Festa and Western Dom shopping streets near Jeongbalsan Station on
-      Line 3 have plenty of restaurants and cafés. Ilsan Lake Park is close by
-      if you want a walk before the show.
+    a: The La Festa and Western Dom shopping streets near Jeongbalsan Station on Line 3 have plenty of restaurants and cafés. Ilsan Lake Park is close by if you want a walk before the show.
 aiGenerated: true
 draft: true
-heldFinal: >-
-  duplicate of goyang-charlie-puth-seoul-2026 with a wrong date: Charlie Puth
-  plays Goyang Stadium on Oct 11, 2026 (Songkick, Bandsintown); this copy said
-  Oct 17-18. Retired 2026-10-05, its URL 301s to the kept twin.
-gallery: []
+heldFinal: 'duplicate of goyang-charlie-puth-seoul-2026 with a wrong date: Charlie Puth plays Goyang Stadium on Oct 11, 2026 (Songkick, Bandsintown); this copy said Oct 17-18. Retired 2026-10-05, its URL 301s to the kept twin.'
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Charlie_Puth_al_Poble_Espanyol_%2836250%29.jpg/3840px-Charlie_Puth_al_Poble_Espanyol_%2836250%29.jpg
+  credit: 'Photo: Brunnaiz / Wikimedia Commons (CC BY-SA 4.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Charlie_Puth_al_Poble_Espanyol_(36250).jpg
+  focus:
+    x: 56
+    'y': 41
+    top: 36
+    bottom: 46
 ---
 
 ## Two nights in Ilsan

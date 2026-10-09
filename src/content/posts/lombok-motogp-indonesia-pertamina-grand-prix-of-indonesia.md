@@ -1,10 +1,6 @@
 ---
-title: >-
-  MotoGP Indonesia (Pertamina Grand Prix of Indonesia): Dates, Tickets & Venue
-  (Lombok)
-description: >-
-  MotoGP Indonesia (Pertamina Grand Prix of Indonesia) runs October 9-11, 2026
-  at the Pertamina Mandalika International Circuit near Kuta, Central Lombok.
+title: 'MotoGP Indonesia (Pertamina Grand Prix of Indonesia): Dates, Tickets & Venue (Lombok)'
+description: MotoGP Indonesia (Pertamina Grand Prix of Indonesia) runs October 9-11, 2026 at the Pertamina Mandalika International Circuit near Kuta, Central Lombok.
 country: Indonesia
 region: Lombok
 category: event
@@ -15,50 +11,38 @@ eventRecurring: true
 eventVenue: Pertamina Mandalika International Street Circuit
 eventOrganizer:
   name: Dorna Sports / Mandalika Grand Prix Association
-  url: 'https://www.motogp.com'
+  url: https://www.motogp.com
 eventOffers:
-  url: 'https://motogppremier.motogp.com/2026-motogp-indonesia'
+  url: https://motogppremier.motogp.com/2026-motogp-indonesia
 eventFactsAsked: true
 tags:
   - lombok
   - event
-quickAnswer: >-
-  MotoGP Indonesia (Pertamina Grand Prix of Indonesia) runs October 9-11, 2026
-  at the Pertamina Mandalika International Circuit near Kuta, Central Lombok.
-  Buy tickets only through the official channels, and book accommodation in Kuta
-  Mandalika or Praya early, because rooms near the track are limited. Confirm
-  timing and tickets on the official MotoGP and Mandalika circuit sites.
+quickAnswer: MotoGP Indonesia (Pertamina Grand Prix of Indonesia) runs October 9-11, 2026 at the Pertamina Mandalika International Circuit near Kuta, Central Lombok. Buy tickets only through the official channels, and book accommodation in Kuta Mandalika or Praya early, because rooms near the track are limited. Confirm timing and tickets on the official MotoGP and Mandalika circuit sites.
 faq:
   - q: When is MotoGP Indonesia 2026?
-    a: >-
-      The Pertamina Grand Prix of Indonesia is scheduled for October 9-11, 2026.
-      Confirm session timing on the official MotoGP site.
+    a: The Pertamina Grand Prix of Indonesia is scheduled for October 9-11, 2026. Confirm session timing on the official MotoGP site.
   - q: Where is the Mandalika circuit?
-    a: >-
-      The Pertamina Mandalika International Circuit is in the Mandalika zone
-      next to Kuta, on Lombok's south coast in Central Lombok. Lombok
-      International Airport at Praya is about a half-hour drive away.
+    a: The Pertamina Mandalika International Circuit is in the Mandalika zone next to Kuta, on Lombok's south coast in Central Lombok. Lombok International Airport at Praya is about a half-hour drive away.
   - q: Where should I stay for the race?
-    a: >-
-      Kuta Mandalika is closest and books up first. Praya is near the airport
-      and has more availability. Senggigi and the Gili Islands have plenty of
-      rooms, but you'll face long transfers each day.
+    a: Kuta Mandalika is closest and books up first. Praya is near the airport and has more availability. Senggigi and the Gili Islands have plenty of rooms, but you'll face long transfers each day.
   - q: Which day should I attend?
-    a: >-
-      Friday practice is the quietest day. Saturday has qualifying and the
-      Sprint. Sunday has the main Grand Prix, along with the biggest crowds and
-      the most traffic.
+    a: Friday practice is the quietest day. Saturday has qualifying and the Sprint. Sunday has the main Grand Prix, along with the biggest crowds and the most traffic.
   - q: Where can I buy tickets safely?
-    a: >-
-      Buy through the official MotoGP and Mandalika circuit channels, which list
-      the current ticket types and prices. Avoid resellers you can't verify.
+    a: Buy through the official MotoGP and Mandalika circuit channels, which list the current ticket types and prices. Avoid resellers you can't verify.
 aiGenerated: true
 draft: true
-heldFinal: >-
-  duplicate of mandalika-pertamina-grand-prix-of-indonesia-motogp-mandalika: the
-  same race at the Mandalika circuit, filed under Lombok. Retired 2026-10-05,
-  its URL 301s to the kept twin.
-gallery: []
+heldFinal: 'duplicate of mandalika-pertamina-grand-prix-of-indonesia-motogp-mandalika: the same race at the Mandalika circuit, filed under Lombok. Retired 2026-10-05, its URL 301s to the kept twin.'
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alvaro_Bautista-motogp-2015.JPG/3840px-Alvaro_Bautista-motogp-2015.JPG
+  credit: 'Photo: Alberto-g-rovi / Wikimedia Commons (CC BY 3.0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Alvaro_Bautista-motogp-2015.JPG
+  focus:
+    x: 50
+    'y': 23
+    top: 17
+    bottom: 29
 ---
 
 ## A street-style track beside the sea

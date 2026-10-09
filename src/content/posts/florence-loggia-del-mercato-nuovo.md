@@ -1,62 +1,62 @@
 ---
-title: "Loggia del Mercato Nuovo: Florence Travel Guide (4.3★)"
-description: "The Loggia del Mercato Nuovo is a 16th-century covered market in central Florence, between Piazza della Repubblica and the Ponte Vecchio, and it is famous for the bronze boar fountain known as Il Porcellino. 4.3★ (4,581 reviews) — what visitors say, hours, and tips."
-country: "Italy"
-region: "Florence"
-category: "hidden-gem"
-pubDate: "2026-09-26T07:50:54.692Z"
+title: 'Loggia del Mercato Nuovo: Florence Travel Guide (4.3★)'
+description: The Loggia del Mercato Nuovo is a 16th-century covered market in central Florence, between Piazza della Repubblica and the Ponte Vecchio, and it is famous for the bronze boar fountain known as Il Porcellino. 4.3★ (4,581 reviews) — what visitors say, hours, and tips.
+country: Italy
+region: Florence
+category: hidden-gem
+pubDate: '2026-09-26T07:50:54.692Z'
 heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Firenze-mercato.jpg"
-  credit: "Photo: Dan Kamminga / Wikimedia Commons (CC BY 2.0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Firenze-mercato.jpg"
+  url: https://fastly.4sqi.net/img/general/original/3426465_9n0WBiWqMDZ3TTqldbVNz8OZAu5IA1Sv_jXNZpLNg4A.jpg
+  credit: 'Photo: Foursquare user content (Loggia del Mercato Nuovo)'
+  license: foursquare
+  source: https://foursquare.com/v/70da9f0d84e741f140ce4229
   focus:
     x: 50
-    y: 40
+    'y': 40
 gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Loggia_del_Mercato_Nuovo%2C_Florence%2C_Italy.jpg/3840px-Loggia_del_Mercato_Nuovo%2C_Florence%2C_Italy.jpg"
-    credit: "Photo: Julian Lupyan / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Loggia_del_Mercato_Nuovo,_Florence,_Italy.jpg"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Loggia_del_Mercato_Nuovo%2C_Florence%2C_Italy.jpg/3840px-Loggia_del_Mercato_Nuovo%2C_Florence%2C_Italy.jpg
+    credit: 'Photo: Julian Lupyan / Wikimedia Commons (CC0)'
+    license: wikimedia
+    source: https://commons.wikimedia.org/wiki/File:Loggia_del_Mercato_Nuovo,_Florence,_Italy.jpg
 place:
-  id: "ChIJHUmwTQBUKhMRJUdZXpc3ndk"
-  name: "Loggia del Mercato Nuovo"
-  address: "Piazza del Mercato Nuovo, 50123 Firenze FI, Italy"
+  id: ChIJHUmwTQBUKhMRJUdZXpc3ndk
+  name: Loggia del Mercato Nuovo
+  address: Piazza del Mercato Nuovo, 50123 Firenze FI, Italy
   rating: 4.3
   userRatingsTotal: 4581
-  googleMapsUrl: "https://maps.google.com/?cid=15680750600836433701&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  businessStatus: "OPERATIONAL"
+  googleMapsUrl: https://maps.google.com/?cid=15680750600836433701&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+  businessStatus: OPERATIONAL
   lat: 43.7699893
   lng: 11.254278099999999
-  phone: "+39 339 327 1143"
+  phone: +39 339 327 1143
   openingHours:
-    - "Monday: 9:00 AM – 6:00 PM"
-    - "Tuesday: 9:00 AM – 6:00 PM"
-    - "Wednesday: 9:00 AM – 6:00 PM"
-    - "Thursday: 9:00 AM – 6:00 PM"
-    - "Friday: 9:00 AM – 6:00 PM"
-    - "Saturday: 9:00 AM – 6:00 PM"
-    - "Sunday: 9:00 AM – 6:09 PM"
+    - 'Monday: 9:00 AM – 6:00 PM'
+    - 'Tuesday: 9:00 AM – 6:00 PM'
+    - 'Wednesday: 9:00 AM – 6:00 PM'
+    - 'Thursday: 9:00 AM – 6:00 PM'
+    - 'Friday: 9:00 AM – 6:00 PM'
+    - 'Saturday: 9:00 AM – 6:00 PM'
+    - 'Sunday: 9:00 AM – 6:09 PM'
   busyness:
-    updated: 2026-09-26
+    updated: 2026-09-26T00:00:00.000Z
     weekendQuiet:
       - 9
-    venueId: "ven_6b646e336370585a64554a524d684b55425154776d55484a496843"
+    venueId: ven_6b646e336370585a64554a524d684b55425154776d55484a496843
 tags:
-  - "florence"
-  - "local market"
-quickAnswer: "The Loggia del Mercato Nuovo is a 16th-century covered market in central Florence, between Piazza della Repubblica and the Ponte Vecchio, and it is famous for the bronze boar fountain known as Il Porcellino. It opens daily from 9am to 6pm, and on weekends it is quietest from 9am to 10am. That hour is your best chance of rubbing the boar's snout without a queue behind you."
+  - florence
+  - local market
+quickAnswer: The Loggia del Mercato Nuovo is a 16th-century covered market in central Florence, between Piazza della Repubblica and the Ponte Vecchio, and it is famous for the bronze boar fountain known as Il Porcellino. It opens daily from 9am to 6pm, and on weekends it is quietest from 9am to 10am. That hour is your best chance of rubbing the boar's snout without a queue behind you.
 faq:
-  - q: "When is the quietest time to visit the Loggia del Mercato Nuovo?"
-    a: "On weekends the quietest window is 9am to 10am, right when it opens. After that, walking groups and a line at the Porcellino fountain build up through the day."
-  - q: "What are the opening hours?"
-    a: "It is listed as open daily from 9am to 6pm, and a few minutes later on Sunday. Market stalls may pack up at slightly different times, so plan to arrive well before closing."
-  - q: "What is the Porcellino tradition?"
-    a: "You rub the bronze boar's snout so that you'll return to Florence. Then you drop a coin from its mouth. If the coin falls through the grate below, it means good luck. The coins are collected for charity."
-  - q: "Is the Porcellino statue the original?"
-    a: "No. The bronze at the loggia is a modern replica. Pietro Tacca's original 17th-century casting is kept indoors at the Museo Bardini on the other side of the Arno."
-  - q: "What is nearby?"
-    a: "Ponte Vecchio is about five minutes south. Piazza della Repubblica is at the top of Via Calimala, and Orsanmichele, Palazzo Davanzati and Piazza della Signoria are each a few minutes' walk away."
+  - q: When is the quietest time to visit the Loggia del Mercato Nuovo?
+    a: On weekends the quietest window is 9am to 10am, right when it opens. After that, walking groups and a line at the Porcellino fountain build up through the day.
+  - q: What are the opening hours?
+    a: It is listed as open daily from 9am to 6pm, and a few minutes later on Sunday. Market stalls may pack up at slightly different times, so plan to arrive well before closing.
+  - q: What is the Porcellino tradition?
+    a: You rub the bronze boar's snout so that you'll return to Florence. Then you drop a coin from its mouth. If the coin falls through the grate below, it means good luck. The coins are collected for charity.
+  - q: Is the Porcellino statue the original?
+    a: No. The bronze at the loggia is a modern replica. Pietro Tacca's original 17th-century casting is kept indoors at the Museo Bardini on the other side of the Arno.
+  - q: What is nearby?
+    a: Ponte Vecchio is about five minutes south. Piazza della Repubblica is at the top of Via Calimala, and Orsanmichele, Palazzo Davanzati and Piazza della Signoria are each a few minutes' walk away.
 aiGenerated: true
 draft: false
 ---

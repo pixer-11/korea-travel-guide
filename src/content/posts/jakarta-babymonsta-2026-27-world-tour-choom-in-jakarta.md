@@ -31,15 +31,15 @@ faq:
 aiGenerated: true
 draft: false
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/4/44/Rora_20260905_Manila.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/8/8e/Rora_Summer_Sonic_2026.jpg
   credit: 'Photo: Farouk Azim / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Rora_20260905_Manila.jpg
+  source: https://commons.wikimedia.org/wiki/File:Rora_Summer_Sonic_2026.jpg
   focus:
-    x: 48
-    'y': 25
+    x: 46
+    'y': 31
     top: 15
-    bottom: 35
+    bottom: 46
 ---
 
 ## CHOOM lands in Senayan
