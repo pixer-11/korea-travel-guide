@@ -40,7 +40,7 @@ for (const lang of Object.keys(ORIGIN)) {
   const html = await (await fetch(BASE + path)).text();
   const chips = (html.match(/class="fl-chip"/g) || []).length;
   const years = (html.match(/class="fl-year"/g) || []).length;
-  check(chips >= 8 && years >= 8, `${lang} ${chips} destination chips, ${years} month strips`);
+  check(chips >= 15 && years >= 15, `${lang} ${chips} destination chips, ${years} month strips`);
   const src = html.match(/data-src="([^"]+)"/)?.[1]?.replace(/&amp;/g, '&') ?? '';
   const o = new URL(src || 'https://x/').searchParams.get('origin') ?? '';
   check(o === ORIGIN[lang], `${lang} default origin "${o}" (want "${ORIGIN[lang]}")`);
@@ -59,14 +59,20 @@ check(hrefs.size > 40 && dead.length === 0, `${hrefs.size} page links, ${dead.le
 const pg = await b.newPage({ viewport: { width: 1300, height: 900 } });
 pg.on('pageerror', (e) => errs.push(e.message));
 await pg.goto(`${BASE}/ko/flights/`, { waitUntil: 'networkidle' });
-await pg.click('.fl-chip[data-code="BKK"]');
+// The chips are re-ranked by month (10-09): the first ten shown, best weather
+// first. Then click whichever is first.
+const vis = await pg.$$eval('.fl-chip:not([hidden])', (cs) => cs.map((c) => c.dataset.bands.charAt(new Date().getMonth())));
+const rank = { g: 0, f: 1, a: 2, h: 3 };
+check(vis.length === 10 && vis.every((v, i) => i === 0 || rank[vis[i - 1]] <= rank[v]), `10 chips shown, best weather first (${vis.join('')})`);
+const code = await pg.$eval('.fl-chip:not([hidden])', (c) => c.dataset.code);
+await pg.click(`.fl-chip[data-code="${code}"]`);
 await pg.waitForTimeout(500);
 const st = await pg.evaluate(() => ({
   src: document.querySelector('#fl-widget script')?.getAttribute('src') ?? '',
   open: [...document.querySelectorAll('.fl-year')].filter((y) => !y.hidden).map((y) => y.dataset.for),
 }));
-check(/destination=BKK/.test(st.src) && /origin=SEL/.test(st.src), `chip → widget ${st.src.match(/(origin|destination)=\w+/g)?.join(' ')}`);
-check(st.open.length === 1 && st.open[0] === 'BKK', `chip opens only its year (${st.open.join(',')})`);
+check(new RegExp(`destination=${code}`).test(st.src) && /origin=SEL/.test(st.src), `chip → widget ${st.src.match(/(origin|destination)=\w+/g)?.join(' ')}`);
+check(st.open.length === 1 && st.open[0] === code, `chip opens only its year (${st.open.join(',')})`);
 await pg.close();
 
 const ph = await b.newPage({ viewport: { width: 375, height: 812 } });
