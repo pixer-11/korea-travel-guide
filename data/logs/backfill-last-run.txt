@@ -1,13 +1,16 @@
-Places 예산: backfill 몫 25회 (오늘 사용 12/100)
+Places 예산: backfill 몫 25회 (오늘 사용 10/100)
 Priority: 229 itinerary stop(s) queued first
-  – brighton-the-lanes.md: nothing new (resting 60d)
+  – cotai-the-venetian-macao.md: nothing new (resting 60d)
+  – bologna-portici-di-bologna.md: nothing new (resting 60d)
+  – central-lan-kwai-fong.md: nothing new (resting 60d)
+  – central-pottinger-street.md: nothing new (resting 60d)
   – cotai-galaxy-macau.md: nothing new (resting 60d)
   – guadalajara-mercado-libertad-san-juan-de-dios.md: nothing new (resting 60d)
-  – guanajuato-mercado-hidalgo.md: nothing new (resting 60d)
-  – hac-sa-hac-sa-long-chao-kok-coastal-trail.md: nothing new (resting 60d)
   – london-leadenhall-market.md: nothing new (resting 60d)
   – london-portobello-road-market.md: nothing new (resting 60d)
-  – merida-mercado-merida.md: nothing new (resting 60d)
-  – cotai-the-cotai-strip.md: nothing new (resting 60d)
+  – macau-peninsula-lin-fung-temple.md: nothing new (resting 60d)
+  – surabaya-alun-alun-surabaya.md: nothing new (resting 60d)
+  – hobart-elizabeth-street-pier.md: nothing new (resting 60d)
+  – macau-peninsula-senado-square.md: nothing new (resting 60d)
 
-BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 1354, no-new-data 629, no-place 746, closed-quarantined 0, quota-429 0, api-error 0, api-calls 9, remaining-askable 0 (APPLIED).
+BACKFILL RESULT: updated 0, backlog-updated 0, already-complete 1368, no-new-data 632, no-place 746, closed-quarantined 0, quota-429 0, api-error 0, api-calls 12, remaining-askable 0 (APPLIED).
