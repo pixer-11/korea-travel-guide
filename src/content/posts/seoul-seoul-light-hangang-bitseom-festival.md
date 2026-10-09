@@ -16,14 +16,6 @@ eventOffers:
   free: true
   currency: KRW
 eventFactsAsked: true
-heroImage:
-  url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Interior_view_of_the_main_hall_of_Bongeunsa_temple_in_Seoul_South_Korea.jpg/3840px-Interior_view_of_the_main_hall_of_Bongeunsa_temple_in_Seoul_South_Korea.jpg'
-  credit: 'Photo: Basile Morin / Wikimedia Commons (CC BY-SA 4.0)'
-  license: wikimedia
-  source: 'https://commons.wikimedia.org/wiki/File:Interior_view_of_the_main_hall_of_Bongeunsa_temple_in_Seoul_South_Korea.jpg'
-  focus:
-    x: 50
-    y: 50
 gallery: []
 tags:
   - seoul

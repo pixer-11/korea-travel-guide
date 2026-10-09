@@ -39,7 +39,7 @@ import { readFileSync, readdirSync, existsSync, writeFileSync, mkdirSync } from 
 import { join } from 'node:path';
 import matter from 'gray-matter';
 import { requireExamined } from './lib/examined.mjs';
-import { fileNamesPerformer } from './lib/event-file-identity.mjs';
+import { fileNamesPerformer, fileShowsPlace } from './lib/event-file-identity.mjs';
 
 // Heroes the patrol took from the performer's own Commons category.
 const PROOF = 'data/performer-category-heroes.json';
@@ -120,6 +120,9 @@ for (const f of readdirSync(DIR).filter((f) => f.endsWith('.md'))) {
   // his Hong Kong date was reported here as unreviewed (2026-10-06).
   if (fileNamesPerformer(url, fm?.eventPerformer?.name)) continue;
   if (performerProof[slug]?.url === url) continue;
+  // A view of the event's own city or venue is the owner's third tier, not
+  // another event's photo (2026-10-09: most of the 34 daily lines were these).
+  if (fileShowsPlace(url, { region: fm?.region, venue: fm?.eventVenue })) continue;
 
   // The baseline stores the full URL. Storing the width-stripped filename made
   // an original Commons file called 800px-Portrait.jpg indistinguishable from a

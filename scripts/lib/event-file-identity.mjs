@@ -92,6 +92,30 @@ export function fileTokens(url) {
   return fileWords(url).filter((w) => w.length > 2);
 }
 
+// A file that names an EVENT is that event's photo, not the place's ("Santander
+// La Mezza di Torino 2017" on the Torino City Marathon, 2026-10-06). Shared by
+// the city tier (fill-event-city-heroes) and the identity audit.
+export const NAMES_AN_EVENT = /\b(marathon|maratona|maraton|mezza|half|race|run|festival|fest|concert|tour|cup|championship|games|parade|carnival|match|derby|gala|expo|fair)\b/i;
+const VENUE_GENERIC = new Set(['stadium', 'arena', 'hall', 'centre', 'center', 'theatre', 'theater', 'park', 'expo', 'convention', 'exhibition', 'dome', 'square', 'national', 'international', 'the']);
+
+/**
+ * Is this hero a view of the event's PLACE rather than of some other event?
+ * The owner's third tier (2026-09-11) is "the best photo of the city", and the
+ * venue is the event's own place too — Uber Arena for a Berlin show, AsiaWorld-
+ * Expo for a Hong Kong tour. Such a file was reported every day as "maybe
+ * another event's photo" (34 lines on 2026-10-09, ~29 of them city or venue
+ * views). True when the file names the venue (a distinctive word of it), or
+ * names the whole city and no event at all.
+ */
+export function fileShowsPlace(url, { region = '', venue = '' } = {}) {
+  const words = new Set(fileTokens(url));
+  const venueWords = tokens(venue).filter((w) => !VENUE_GENERIC.has(w));
+  if (venueWords.length && venueWords.some((w) => words.has(w))) return true;
+  const cityWords = tokens(region);
+  if (!cityWords.length || !cityWords.every((w) => words.has(w))) return false;
+  return !NAMES_AN_EVENT.test(fileWords(url).join(' '));
+}
+
 // Does the FILE name the act? Normally the anchor is one token and this is a
 // containment test. But keyToken deliberately keeps a hyphenated lead word
 // WHOLE — the anchor for "U-Know … Yunho" must not fall to the meaningless

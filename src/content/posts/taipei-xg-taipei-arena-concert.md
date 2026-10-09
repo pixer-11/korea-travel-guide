@@ -14,15 +14,15 @@ eventPerformer:
   kind: group
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/6/6b/230127_XG_Music_Bank_02.png
+  url: https://upload.wikimedia.org/wikipedia/commons/2/24/230127_XG_Music_Bank_01.png
   credit: 'Photo: K-POPIT 케이팝잇 TV10 / Wikimedia Commons (CC BY 3.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:230127_XG_Music_Bank_02.png
+  source: https://commons.wikimedia.org/wiki/File:230127_XG_Music_Bank_01.png
   focus:
     x: 53
-    'y': 14
-    top: 2
-    bottom: 25
+    'y': 23
+    top: 15
+    bottom: 30
 gallery: []
 tags:
   - taipei

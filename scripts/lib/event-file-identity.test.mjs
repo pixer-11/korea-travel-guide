@@ -307,3 +307,18 @@ test('a name that leads with its city refuses another city; travelling events an
   assert.equal(fileNamesPerformer(U('BTS_in_Seoul_2019.jpg'), 'BTS'), true);
   assert.equal(fileNamesPerformer(U('Bts_logo_wall.jpg'), 'bts'), false);
 });
+
+// 2026-10-09: a view of the event's own city or venue is the third tier, not
+// another event's photo — and another act's or another race's photo still is.
+test('fileShowsPlace: 도시·행사장 풍경은 통과, 다른 행사·사람 사진은 아니다', async () => {
+  const { fileShowsPlace } = await import('./event-file-identity.mjs');
+  const C = 'https://upload.wikimedia.org/wikipedia/commons/a/ab/';
+  assert.ok(fileShowsPlace(C + 'Bangkok_skytrain_sunset.jpg', { region: 'Bangkok' }));
+  assert.ok(fileShowsPlace(C + 'Uber_Arena_Berlin_2024.jpg', { region: 'Berlin', venue: 'Uber Arena' }));
+  assert.ok(fileShowsPlace(C + 'HK_AsiaWorld-Expo_2007.jpg', { region: 'Hong Kong', venue: 'AsiaWorld-Expo' }));
+  assert.equal(fileShowsPlace(C + 'Oasis_Live_Forever_Concert_In_Taipei.jpg', { region: 'Nonthaburi' }), false);
+  assert.equal(fileShowsPlace(C + 'Santander_La_Mezza_di_Torino_2017.jpg', { region: 'Torino' }), false, 'a file that names an event is that event');
+  assert.equal(fileShowsPlace(C + 'JAY_(ENHYPEN)_220624.jpg', { region: 'London', venue: 'OVO Arena Wembley' }), false);
+  assert.equal(fileShowsPlace(C + 'Vladimir_leonov_motogp.jpg', { region: 'Motegi', venue: 'Mobility Resort Motegi' }), false);
+  assert.equal(fileShowsPlace(C + 'Some_Arena_2019.jpg', { region: 'Seoul', venue: 'KSPO Arena' }), false, 'a generic venue word alone is not the venue');
+});

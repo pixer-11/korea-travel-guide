@@ -24,16 +24,6 @@ faq:
     a: Tickets were sold through the tour's official ticketing partner and IMPACT Arena's own channels. For a high-demand reunion run across two nights, unofficial resale listings carry a real risk of inflated prices or invalid tickets.
 aiGenerated: true
 eventRecurring: false
-heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/d/db/Oasis_Live_Forever_Concert_In_Taipei.jpg
-  credit: 'Photo: 黃 zero / Wikimedia Commons (CC BY-SA 2.0)'
-  license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Oasis_Live_Forever_Concert_In_Taipei.jpg
-  focus:
-    x: 38
-    'y': 12
-    top: 2
-    bottom: 22
 ---
 ## Why this stop matters
 

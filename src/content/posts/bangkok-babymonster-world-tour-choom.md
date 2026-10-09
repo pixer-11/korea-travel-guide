@@ -17,15 +17,15 @@ eventPerformer:
   kind: group
 eventFactsAsked: true
 heroImage:
-  url: https://upload.wikimedia.org/wikipedia/commons/3/3c/Ahyeon_20260905_Manila.jpg
+  url: https://upload.wikimedia.org/wikipedia/commons/7/71/Rora_20260905_Manila_2.jpg
   credit: 'Photo: Farouk Azim / Wikimedia Commons (CC BY-SA 4.0)'
   license: wikimedia
-  source: https://commons.wikimedia.org/wiki/File:Ahyeon_20260905_Manila.jpg
+  source: https://commons.wikimedia.org/wiki/File:Rora_20260905_Manila_2.jpg
   focus:
-    x: 51
-    'y': 23
-    top: 14
-    bottom: 32
+    x: 46
+    'y': 38
+    top: 26
+    bottom: 50
 gallery: []
 tags:
   - bangkok

@@ -104,9 +104,9 @@
  },
  "abu-dhabi-k-pop-fever-etihad-arena\u0001https://upload.wikimedia.org/wikipedia/commons/1/1b/Taemin_at_K-POP_Concert_in_October_2015_02.jpg": {
   "slug": "abu-dhabi-k-pop-fever-etihad-arena",
-  "verdict": "MATCH",
-  "reason": "patrol replace: K-pop performer on stage with venue lighting",
-  "at": "2026-10-08T23:51:57.100Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: TAEMIN at a 2015 K-POP concert on a tribute show he is not in",
+  "at": "2026-10-09T10:49:45.816Z"
  },
  "abu-dhabi-khalifa-park\u0001https://upload.wikimedia.org/wikipedia/commons/a/a4/Khalifa_Park_Abu_Dhabi_-_panoramio_%2816%29.jpg": {
   "slug": "abu-dhabi-khalifa-park",
@@ -1721,6 +1721,12 @@
   "reason": "performer stage photo (hand-assigned, distinct per city): Performer from BABYMONSTER group, valid event hero photo",
   "at": "2026-10-09T00:38:29.718Z"
  },
+ "bangkok-babymonster-world-tour-choom\u0001https://upload.wikimedia.org/wikipedia/commons/7/71/Rora_20260905_Manila_2.jpg": {
+  "slug": "bangkok-babymonster-world-tour-choom",
+  "verdict": "MATCH",
+  "reason": "performer stage photo, replaced a duplicate: Performer singing on stage, correct for tour article",
+  "at": "2026-10-09T10:47:06.518Z"
+ },
  "bangkok-babymonster-world-tour-choom\u0001https://upload.wikimedia.org/wikipedia/commons/9/97/IMPACT_Arena.jpg": {
   "slug": "bangkok-babymonster-world-tour-choom",
   "verdict": "MATCH",
@@ -1730,8 +1736,8 @@
  "bangkok-babymonster-world-tour-choom\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ruka_and_Chiquita_20-06-2025.jpg/3840px-Ruka_and_Chiquita_20-06-2025.jpg": {
   "slug": "bangkok-babymonster-world-tour-choom",
   "verdict": "MATCH",
-  "reason": "performer upgrade: Performer photo appropriate for BABYMONSTER tour article",
-  "at": "2026-10-08T14:48:16.540Z"
+  "reason": "performer photo, replaced a duplicate: Performer visible, plausible event photo, no watermark",
+  "at": "2026-10-09T10:46:33.178Z"
  },
  "bangkok-bangkok-international-festival-of-dance-music\u0001https://upload.wikimedia.org/wikipedia/commons/4/4f/Gonenim_music_and_dance_center1271.jpg": {
   "slug": "bangkok-bangkok-international-festival-of-dance-music",
@@ -13760,9 +13766,9 @@
  },
  "london-jay-park-serenades-body-rolls-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/e/e9/JAY_%28ENHYPEN%29_220624.jpg": {
   "slug": "london-jay-park-serenades-body-rolls-world-tour",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Portrait of performer consistent with concert event",
-  "at": "2026-10-08T23:54:32.325Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: ENHYPEN's Jay, not Jay Park",
+  "at": "2026-10-09T10:49:46.055Z"
  },
  "london-jay-park-serenades-body-rolls-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/f/f4/Blue_jay_in_PP_%2830960%29.jpg": {
   "slug": "london-jay-park-serenades-body-rolls-world-tour",
@@ -15989,9 +15995,9 @@
  },
  "motegi-motogp-japanese-grand-prix\u0001https://upload.wikimedia.org/wikipedia/commons/e/ee/Vladimir_leonov_motogp.jpg": {
   "slug": "motegi-motogp-japanese-grand-prix",
-  "verdict": "MATCH",
-  "reason": "patrol replace: MotoGP motorcycle racing at circuit venue",
-  "at": "2026-10-08T14:50:52.982Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: a rider at another race, not the Japanese Grand Prix",
+  "at": "2026-10-09T10:49:46.555Z"
  },
  "motegi-motogp-japanese-grand-prix\u0001https://upload.wikimedia.org/wikipedia/commons/f/f4/MotoGP_motorcycles_in_Asakusa_Sensoji_%281%29.jpg": {
   "slug": "motegi-motogp-japanese-grand-prix",
@@ -17503,9 +17509,9 @@
  },
  "nonthaburi-f-forever-1st-world-tour-in-bangkok\u0001https://upload.wikimedia.org/wikipedia/commons/d/db/Oasis_Live_Forever_Concert_In_Taipei.jpg": {
   "slug": "nonthaburi-f-forever-1st-world-tour-in-bangkok",
-  "verdict": "MATCH",
-  "reason": "patrol replace: Concert performer with guitar, event archive photo",
-  "at": "2026-10-08T23:55:57.642Z"
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: an Oasis concert in Taipei, another act",
+  "at": "2026-10-09T10:49:46.306Z"
  },
  "nonthaburi-f-forever-1st-world-tour-in-bangkok\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jacob_Forever_2019--06-09.jpg/1920px-Jacob_Forever_2019--06-09.jpg": {
   "slug": "nonthaburi-f-forever-1st-world-tour-in-bangkok",
@@ -21640,6 +21646,12 @@
   "reason": "publish gate: Park deck with picnic tables and pond, plausible Seoul Forest scene",
   "at": "2026-09-01T10:38:00.820Z"
  },
+ "seoul-seoul-light-hangang-bitseom-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Interior_view_of_the_main_hall_of_Bongeunsa_temple_in_Seoul_South_Korea.jpg/3840px-Interior_view_of_the_main_hall_of_Bongeunsa_temple_in_Seoul_South_Korea.jpg": {
+  "slug": "seoul-seoul-light-hangang-bitseom-festival",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Bongeunsa main hall interior, nothing of the Hangang light festival",
+  "at": "2026-10-09T10:49:46.797Z"
+ },
  "seoul-seoul-light-hangang-bitseom-festival\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Photo_by_Nodeul_Island.jpg/3840px-Photo_by_Nodeul_Island.jpg": {
   "slug": "seoul-seoul-light-hangang-bitseom-festival",
   "verdict": "MISMATCH",
@@ -24196,6 +24208,12 @@
   "reason": "Chiang Kai-shek Memorial Hall, iconic Taipei landmark",
   "reasonKo": "타이베이 대표 랜드마크, 국부기념관",
   "at": "2026-08-06T03:08:03.941Z"
+ },
+ "taipei-xg-taipei-arena-concert\u0001https://upload.wikimedia.org/wikipedia/commons/2/24/230127_XG_Music_Bank_01.png": {
+  "slug": "taipei-xg-taipei-arena-concert",
+  "verdict": "MATCH",
+  "reason": "performer photo, replaced a duplicate: Group photo of performers for concert event",
+  "at": "2026-10-09T10:46:42.067Z"
  },
  "taipei-xg-taipei-arena-concert\u0001https://upload.wikimedia.org/wikipedia/commons/6/6b/230127_XG_Music_Bank_02.png": {
   "slug": "taipei-xg-taipei-arena-concert",

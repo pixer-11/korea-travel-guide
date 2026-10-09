@@ -36,7 +36,7 @@ import { verifyHeroImage } from './lib/vision-check.mjs';
 // A file that names an EVENT is that event's photo, not the city's: "Santander
 // La Mezza di Torino 2017" (a half marathon) went onto the Torino City
 // Marathon on 2026-10-06. The city tier is for views of the place.
-const NAMES_AN_EVENT = /\b(marathon|maratona|maraton|mezza|half|race|run|festival|fest|concert|tour|cup|championship|games|parade|carnival|match|derby|gala|expo|fair)\b/i;
+import { NAMES_AN_EVENT } from './lib/event-file-identity.mjs';
 
 const DIR = 'src/content/posts';
 const DRY = process.argv.includes('--dry');
