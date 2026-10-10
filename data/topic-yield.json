@@ -2,99 +2,99 @@
  "_note": "Per-topic search→post yield, written by scripts/generate.mjs (scripts/lib/topic-yield.mjs). Seeded 2026-08-23 from the 08-17..23 publish/bulk logs; counts halve past 200 so recent runs weigh more.",
  "topics": {
   "local restaurant": {
-   "attempts": 94,
+   "attempts": 95,
    "hits": 13
   },
   "historic site": {
-   "attempts": 101,
+   "attempts": 102,
    "hits": 66
   },
   "park": {
-   "attempts": 118,
-   "hits": 75
+   "attempts": 119,
+   "hits": 76
   },
   "viewpoint": {
-   "attempts": 66,
+   "attempts": 67,
    "hits": 9
   },
   "art gallery": {
-   "attempts": 61,
+   "attempts": 62,
    "hits": 9
   },
   "night view": {
-   "attempts": 56,
+   "attempts": 57,
    "hits": 8
   },
   "waterfront": {
-   "attempts": 45,
+   "attempts": 46,
    "hits": 5
   },
   "museum": {
-   "attempts": 186,
-   "hits": 112
+   "attempts": 187,
+   "hits": 113
   },
   "noodles": {
-   "attempts": 52,
+   "attempts": 53,
    "hits": 1
   },
   "old quarter": {
-   "attempts": 101,
-   "hits": 48
+   "attempts": 102,
+   "hits": 49
   },
   "local market": {
-   "attempts": 190,
+   "attempts": 191,
    "hits": 76
   },
   "bookshop": {
-   "attempts": 31,
+   "attempts": 32,
    "hits": 6
   },
   "seafood": {
-   "attempts": 70,
+   "attempts": 71,
    "hits": 3
   },
   "hidden gem": {
-   "attempts": 105,
-   "hits": 69
+   "attempts": 106,
+   "hits": 70
   },
   "breakfast": {
-   "attempts": 47,
+   "attempts": 48,
    "hits": 4
   },
   "trendy cafe": {
-   "attempts": 118,
+   "attempts": 119,
    "hits": 10
   },
   "street food": {
-   "attempts": 101,
+   "attempts": 102,
    "hits": 18
   },
   "bakery": {
-   "attempts": 37,
+   "attempts": 38,
    "hits": 2
   },
   "bar": {
-   "attempts": 36,
-   "hits": 0
-  },
-  "vegetarian": {
-   "attempts": 41,
-   "hits": 2
-  },
-  "concept cafe": {
-   "attempts": 33,
-   "hits": 0
-  },
-  "top attraction": {
-   "attempts": 81,
-   "hits": 64
-  },
-  "grill": {
    "attempts": 37,
    "hits": 0
   },
+  "vegetarian": {
+   "attempts": 42,
+   "hits": 2
+  },
+  "concept cafe": {
+   "attempts": 34,
+   "hits": 0
+  },
+  "top attraction": {
+   "attempts": 82,
+   "hits": 64
+  },
+  "grill": {
+   "attempts": 38,
+   "hits": 0
+  },
   "design shop": {
-   "attempts": 32,
+   "attempts": 33,
    "hits": 0
   },
   "Sisowath Quay Riverside": {
@@ -324,7 +324,27 @@
   "Fernando's Restaurant": {
    "attempts": 1,
    "hits": 0
+  },
+  "Matsuyama Castle": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Ishiteji Temple": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Dogo Onsen Honkan": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Dogo Park": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Shiki Memorial Museum": {
+   "attempts": 1,
+   "hits": 0
   }
  },
- "updated": "2026-10-10T13:53:36.565Z"
+ "updated": "2026-10-10T14:59:54.089Z"
 }

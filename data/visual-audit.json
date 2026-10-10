@@ -15456,6 +15456,30 @@
   "reason": "patrol reject: audit: Generic bar interior, no identifying Tigermilk features visi",
   "at": "2026-09-26T22:07:29.745Z"
  },
+ "matsuyama-dogo-onsen-main-building\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dogo_Onsen_Honkan_%28Main_building%29%2C_%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89_%E6%9C%AC%E9%A4%A8_-_panoramio_%288%29.jpg/3840px-Dogo_Onsen_Honkan_%28Main_building%29%2C_%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89_%E6%9C%AC%E9%A4%A8_-_panoramio_%288%29.jpg": {
+  "slug": "matsuyama-dogo-onsen-main-building",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Dogo Onsen main building with traditional architecture at dusk",
+  "at": "2026-10-10T14:59:54.045Z"
+ },
+ "matsuyama-ehime-museum-of-art\u0001https://upload.wikimedia.org/wikipedia/commons/5/57/The_Museum_of_Art%2C_EHIME_-_panoramio_%281%29.jpg": {
+  "slug": "matsuyama-ehime-museum-of-art",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows museum exterior with name stone marker visible",
+  "at": "2026-10-10T14:59:54.016Z"
+ },
+ "matsuyama-matsuyama-castle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Matsuyama_Castle.jpg/3840px-Matsuyama_Castle.jpg": {
+  "slug": "matsuyama-matsuyama-castle",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Matsuyama Castle exterior, representative view for visitors",
+  "at": "2026-10-10T14:59:53.975Z"
+ },
+ "matsuyama-matsuyama-general-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Matsuyama_Central_Park_Pool.jpg/3840px-Matsuyama_Central_Park_Pool.jpg": {
+  "slug": "matsuyama-matsuyama-general-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows modern park building with grounds, plausible hero image",
+  "at": "2026-10-10T14:59:54.072Z"
+ },
  "medan-maha-vihara-maitreya\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Vihara_Maitreya.jpg/1920px-Vihara_Maitreya.jpg": {
   "slug": "medan-maha-vihara-maitreya",
   "verdict": "MATCH",

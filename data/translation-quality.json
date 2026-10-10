@@ -32324,5 +32324,75 @@
   "registerBreak": false,
   "worst": "2026年の会期は10月7日〜9日の3日間で、諏訪神社、アーケード近くのお旅所、屋外ステージの公会堂前広場を巡りながら市内を移動する構成でした。",
   "at": "2026-10-10T13:56:01.101Z"
+ },
+ "es/matsuyama-ehime-museum-of-art": {
+  "hash": "421046389204",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "De martes a domingo abre a las 9:40am y cierra a las 6pm, con el mismo horario todos los días.",
+  "at": "2026-10-10T15:02:27.982Z"
+ },
+ "ja/matsuyama-dogo-onsen-main-building": {
+  "hash": "deb52f95b924",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-10T15:02:34.359Z"
+ },
+ "ja/matsuyama-ehime-museum-of-art": {
+  "hash": "ea19a7ccb085",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "あまり知られていない魅力が、ワークショップです。",
+  "at": "2026-10-10T15:02:35.429Z"
+ },
+ "ja/matsuyama-matsuyama-castle": {
+  "hash": "caf40c9ddf8e",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-10T15:02:36.516Z"
+ },
+ "ko/matsuyama-dogo-onsen-main-building": {
+  "hash": "4de60f076b3c",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "유동 인구를 측정해 보면 평일과 주말 모두 오전 7시~오후 11시가 비교적 한산한 시간대로 나타나므로",
+  "at": "2026-10-10T15:02:43.302Z"
+ },
+ "ko/matsuyama-ehime-museum-of-art": {
+  "hash": "5319a8a7e9b1",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "주소를 보면 입구는 신관 1층에 있습니다. 공원을 가로지르며 입구를 찾을 때 알아 두면 도움이 됩니다.",
+  "at": "2026-10-10T15:02:44.792Z"
+ },
+ "ko/matsuyama-matsuyama-castle": {
+  "hash": "19aa64dc12c6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "산비탈과 나 사이를 가로막는 것은 무릎 앞의 안전 바 하나뿐입니다.",
+  "at": "2026-10-10T15:02:53.246Z"
+ },
+ "zh/matsuyama-dogo-onsen-main-building": {
+  "hash": "feb63d83b319",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "作为四国评价数量最多的景点之一，这里可谈不上什么秘境。",
+  "at": "2026-10-10T15:02:59.261Z"
+ },
+ "zh/matsuyama-ehime-museum-of-art": {
+  "hash": "4c1fa4ab138e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "按编辑简介的说法，这里汇集了日本与海外的艺术作品。",
+  "at": "2026-10-10T15:03:05.407Z"
+ },
+ "zh/matsuyama-matsuyama-castle": {
+  "hash": "85978ed52ed8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "天守阁每天9:00 AM开放，4:30 PM关闭，全年无休。",
+  "at": "2026-10-10T15:03:06.382Z"
  }
 }

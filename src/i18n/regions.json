@@ -11492,5 +11492,32 @@
       "getting": "大多数游客会搭乘沿友谊大马路行驶的公交车前往，1A、3路和3A路等线路都在门口设站；也可以乘坐从澳门外港客运码头、关闸口岸和氹仔客运码头出发的免费酒店穿梭巴士。若是乘飞机抵达，航班会降落在氹仔的澳门国际机场（MFM），之后再转乘的士或巴士（约15-25分钟）前往位于澳门半岛一侧海港边的渔人码头。",
       "days": "半天时间足够逛完这些主题街道、拍照留念并享用一餐，因此大多数人会把这里和澳门其他景点搭配游览几个小时，而不会专程花上一整天。"
     }
+  },
+  "Matsuyama": {
+    "en": {
+      "blurb": "Matsuyama is the largest city in Shikoku and the historic capital of Ehime Prefecture, built around one of Japan's finest surviving feudal-era castles. It is best known for Dogo Onsen, one of the country's oldest hot spring towns, and for the languid, literary atmosphere immortalised in Natsume Soseki's novel \"Botchan\".",
+      "getting": "Most travellers fly into Matsuyama Airport (MYJ), the main gateway to Ehime Prefecture, then take a limousine bus into the city; services run roughly every 20 minutes to JR Matsuyama Station and Matsuyama City Station, taking around 20 to 25 minutes. From elsewhere in Japan, the usual rail route is via the Shinkansen to Okayama, then the JR Shiokaze limited express on the JR Yosan Line into Matsuyama, a journey of around 2.5 to 3 hours from Okayama.",
+      "days": "~2 to 3 days is enough to cover the castle, Dogo Onsen and the downtown Okaido and Gintengai districts at an easy pace, with an extra day if you plan to branch out to the Seto Inland Sea coast or nearby islands."
+    },
+    "ko": {
+      "blurb": "마쓰야마는 시코쿠에서 가장 큰 도시이자 에히메현의 유서 깊은 중심지로, 일본에 현존하는 가장 훌륭한 봉건시대 성곽 중 하나를 중심으로 발전해 왔다. 일본에서 가장 오래된 온천 마을 중 하나인 도고온센으로 잘 알려져 있으며, 나쓰메 소세키의 소설 「도련님(봇창)」에 그려진 느긋하고 문학적인 분위기로도 유명하다.",
+      "getting": "대부분의 여행객은 에히메현의 관문인 마쓰야마공항(MYJ)으로 입국한 뒤 리무진 버스를 이용해 시내로 이동한다. 버스는 약 20분 간격으로 운행되며, JR마쓰야마역과 마쓰야마시역까지 20~25분 정도 걸린다. 일본 다른 지역에서 올 경우에는 보통 신칸센으로 오카야마까지 간 다음, JR요산선의 특급 시오카제 열차로 환승해 마쓰야마로 들어오는 철도 경로를 이용하며, 오카야마에서 약 2시간 30분에서 3시간이 소요된다.",
+      "days": "성과 도고온센, 그리고 번화가인 오카이도와 긴텐가이 지역을 여유롭게 둘러보려면 2~3일이면 충분하며, 세토내해 연안이나 인근 섬까지 다녀올 계획이라면 하루 정도 더 잡는 것이 좋다."
+    },
+    "ja": {
+      "blurb": "松山は四国最大の都市であり、愛媛県の歴史的中心地として、日本に残る名城のひとつを中心に発展してきました。国内屈指の歴史を誇る温泉街・道後温泉、そして夏目漱石の小説『坊っちゃん』にも描かれた、どこかのんびりとした文学の香り漂う町としても知られています。",
+      "getting": "多くの旅行者は、愛媛県の玄関口である松山空港(MYJ)を利用し、そこからリムジンバスで市内へ向かいます。バスはおよそ20分おきに運行しており、JR松山駅や松山市駅までは20~25分ほどで到着します。日本国内の他の地域からは、新幹線で岡山まで行き、そこからJR予讃線の特急「しおかぜ」に乗り換えて松山へ向かうのが一般的なルートで、岡山からはおよそ2時間半~3時間の道のりです。",
+      "days": "松山城、道後温泉、そして大街道・銀天街といった中心市街地をゆったり巡るなら、2~3日あれば十分です。瀬戸内海沿岸や周辺の島々まで足を延ばす予定がある場合は、もう1日多めに見ておくとよいでしょう。"
+    },
+    "es": {
+      "blurb": "Matsuyama es la ciudad más grande de Shikoku y la histórica capital de la prefectura de Ehime, construida en torno a uno de los castillos feudales mejor conservados de Japón. Es conocida sobre todo por Dogo Onsen, una de las aguas termales más antiguas del país, y por el ambiente apacible y literario que Natsume Soseki inmortalizó en su novela \"Botchan\".",
+      "getting": "La mayoría de los viajeros llega al aeropuerto de Matsuyama (MYJ), la principal puerta de entrada a la prefectura de Ehime, y desde allí toma un autobús limusina hacia la ciudad; hay servicios cada 20 minutos aproximadamente hasta la estación de JR Matsuyama y la estación de Matsuyama City, con un trayecto de unos 20 a 25 minutos. Desde otros puntos de Japón, la ruta habitual en tren es tomar el Shinkansen hasta Okayama y luego el expreso limitado JR Shiokaze de la línea JR Yosan hasta Matsuyama, un viaje de unas 2,5 a 3 horas desde Okayama.",
+      "days": "Con unos 2 o 3 días es suficiente para visitar el castillo, Dogo Onsen y los barrios comerciales de Okaido y Gintengai sin prisas, y conviene sumar un día más si se piensa explorar la costa del Mar Interior de Seto o las islas cercanas."
+    },
+    "zh": {
+      "blurb": "松山市是四国最大的城市，也是爱媛县历史悠久的中心城市，城内坐落着日本现存最精美的封建时代城堡之一——松山城。这里最为人熟知的，是日本历史最悠久的温泉乡之一道后温泉，以及夏目漱石在小说《哥儿》中所描绘的那种悠闲而充满文学气息的氛围。",
+      "getting": "大多数游客会搭乘飞机抵达松山机场（MYJ），这是前往爱媛县的主要空中门户，再转乘机场利木津巴士进入市区；巴士大约每20分钟一班，开往JR松山站和松山市站，车程约20到25分钟。若从日本其他地区前来，通常的铁路路线是先乘新干线到冈山，再转乘JR予讃线的\"潮风号\"特快列车前往松山，从冈山出发全程约需2.5到3小时。",
+      "days": "安排2到3天时间，便足以从容游览松山城、道后温泉以及市区的大街道和银天街一带；如果还计划前往濑户内海沿岸或周边岛屿，建议再多留一天。"
+    }
   }
 }
