@@ -703,6 +703,12 @@
   "reason": "publish gate: Historic stone buildings with tin roofs, matches site",
   "at": "2026-09-28T16:56:27.846Z"
  },
+ "alice-springs-anzac-hill\u0001https://fastly.4sqi.net/img/general/original/8906098_1wmLqvjGPwYmwunsGYEtxQvSSSEDC0W3KJFcoBqQ6_s.jpg": {
+  "slug": "alice-springs-anzac-hill",
+  "verdict": "MATCH",
+  "reason": "width upgrade: Shows ANZAC Hill monument with flags, representative hero shot",
+  "at": "2026-10-10T22:53:32.525Z"
+ },
  "alice-springs-anzac-hill\u0001https://upload.wikimedia.org/wikipedia/commons/8/8a/Anzac_hill_stairs.jpg": {
   "slug": "alice-springs-anzac-hill",
   "verdict": "MATCH",
@@ -7711,6 +7717,12 @@
   "reason": "patrol replace: Concert performance with stage lighting, audience present",
   "at": "2026-10-09T23:25:59.830Z"
  },
+ "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_2.jpg/3840px-Charlie_Puth%2C_Regency_Ballroom%2C_San_Francisco_%28Nine_Track_Mind_Tour%29_2.jpg": {
+  "slug": "goyang-charlie-puth-concert",
+  "verdict": "MATCH",
+  "reason": "patrol replace: Performer on stage at concert venue",
+  "at": "2026-10-10T22:50:24.106Z"
+ },
  "goyang-charlie-puth-concert\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Charlie_Puth_al_Poble_Espanyol_%2857304%29.jpg/3840px-Charlie_Puth_al_Poble_Espanyol_%2857304%29.jpg": {
   "slug": "goyang-charlie-puth-concert",
   "verdict": "MATCH",
@@ -13802,8 +13814,8 @@
  "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alvaro_Bautista-motogp-2015.JPG/3840px-Alvaro_Bautista-motogp-2015.JPG": {
   "slug": "lombok-motogp-indonesia-pertamina-grand-prix-of-indonesia",
   "verdict": "MATCH",
-  "reason": "patrol replace: MotoGP rider and bike at racing circuit",
-  "at": "2026-10-08T23:54:12.767Z"
+  "reason": "patrol replace: MotoGP rider and bike at circuit paddock",
+  "at": "2026-10-10T22:51:54.421Z"
  },
  "lombok-mount-rinjani-national-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lembah_Torean_Rinjani.jpg/1920px-Lembah_Torean_Rinjani.jpg": {
   "slug": "lombok-mount-rinjani-national-park",
@@ -18677,7 +18689,7 @@
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
   "verdict": "MATCH",
   "reason": "patrol replace: Concert stage with professional lighting setup",
-  "at": "2026-10-08T23:56:14.891Z"
+  "at": "2026-10-10T22:52:27.364Z"
  },
  "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/5_Seconds_of_Summer_First_USA_Acoustic_IMG_3665_%2814665446017%29.jpg/3840px-5_Seconds_of_Summer_First_USA_Acoustic_IMG_3665_%2814665446017%29.jpg": {
   "slug": "pasay-5-seconds-of-summer-everyone-s-a-star-world-tour",
@@ -22779,6 +22791,24 @@
   "reason": "patrol replace: Plausibly shows BABYMONSTER members at event",
   "at": "2026-10-08T14:58:59.189Z"
  },
+ "singapore-bar-kap-house-of-tan-yeok-nee\u0001https://fastly.4sqi.net/img/general/original/13010698_V9HLqmUHRy_CL-TucVqq3D9EFLquoOzbl-R0jPplGuI.jpg": {
+  "slug": "singapore-bar-kap-house-of-tan-yeok-nee",
+  "verdict": "WEAK",
+  "reason": "patrol replace: Cocktails shown, but venue identity unconfirmed",
+  "at": "2026-10-10T22:52:48.889Z"
+ },
+ "singapore-bar-kap-house-of-tan-yeok-nee\u0001https://fastly.4sqi.net/img/general/original/50416807_3-a4oz4mglnNIVu0xz9eh-sq0GgYcbXbJmNIIlvLtmc.jpg": {
+  "slug": "singapore-bar-kap-house-of-tan-yeok-nee",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Close-up of drink glass, not venue's interior/exterior",
+  "at": "2026-10-10T22:52:44.129Z"
+ },
+ "singapore-bar-kap-house-of-tan-yeok-nee\u0001https://fastly.4sqi.net/img/general/original/50416807_u3PP9WL-sT8GKuw9oELtSObkvkVY5JaHEeBymDSk7CY.jpg": {
+  "slug": "singapore-bar-kap-house-of-tan-yeok-nee",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Close-up whisky tasting glasses, not representative venue view",
+  "at": "2026-10-10T22:52:45.840Z"
+ },
  "singapore-bigbang-xx-cosmos-world-tour\u0001https://upload.wikimedia.org/wikipedia/commons/b/b8/BIGBANG_Concert_0.TO.10_in_Seoul_-_5.jpg": {
   "slug": "singapore-bigbang-xx-cosmos-world-tour",
   "verdict": "MATCH",
@@ -26729,6 +26759,12 @@
   "verdict": "MISMATCH",
   "reason": "Ancient temple, not coffee shop interior/exterior",
   "at": "2026-07-25T02:50:54.988Z"
+ },
+ "yogyakarta-hong-kong-street-foods\u0001https://upload.wikimedia.org/wikipedia/commons/7/74/Hong_Kong_Street_Food.jpg": {
+  "slug": "yogyakarta-hong-kong-street-foods",
+  "verdict": "MISMATCH",
+  "reason": "patrol reject: Chinese market stall, not Yogyakarta restaurant",
+  "at": "2026-10-10T22:53:00.305Z"
  },
  "yogyakarta-hong-kong-street-foods\u0001https://upload.wikimedia.org/wikipedia/commons/7/79/Hong_Kong_Street_Food_market.jpg": {
   "slug": "yogyakarta-hong-kong-street-foods",

@@ -2471,7 +2471,8 @@
   "takamatsu-kagawa-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/150504_The_Kagawa_Museum_Takamatsu_Kagawa_pref_Japan02s3.jpg/3840px-150504_The_Kagawa_Museum_Takamatsu_Kagawa_pref_Japan02s3.jpg": 3840,
   "takamatsu-ritsurin-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ritsurin_park16s3200.jpg/1920px-Ritsurin_park16s3200.jpg": 1920,
   "takamatsu-takamatsu-castle-park\u0001https://upload.wikimedia.org/wikipedia/commons/1/1e/Takamatsu-Castle.jpg": 1632,
-  "matsuyama-matsuyama-general-park\u0001https://upload.wikimedia.org/wikipedia/commons/8/8a/Matsuyama_General_Park_20240703_%284%29.jpg": 3600
+  "matsuyama-matsuyama-general-park\u0001https://upload.wikimedia.org/wikipedia/commons/8/8a/Matsuyama_General_Park_20240703_%284%29.jpg": 3600,
+  "singapore-bar-kap-house-of-tan-yeok-nee\u0001https://fastly.4sqi.net/img/general/original/13010698_V9HLqmUHRy_CL-TucVqq3D9EFLquoOzbl-R0jPplGuI.jpg": 1440
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -2658,8 +2659,8 @@
   },
   "mumbai-mokai": {
    "width": 906,
-   "attempts": 5,
-   "nextTry": "2026-10-10",
+   "attempts": 6,
+   "nextTry": "2026-10-17",
    "flaggedAt": "2026-09-03",
    "lastResult": "no-wider"
   },
@@ -2756,8 +2757,8 @@
   },
   "sharjah-arabian-fish-house-restaurant-cafe-al-hirah-beach-sharjah": {
    "width": 1055,
-   "attempts": 2,
-   "nextTry": "2026-10-10",
+   "attempts": 3,
+   "nextTry": "2026-10-17",
    "flaggedAt": "2026-09-19",
    "lastResult": "no-wider"
   },
@@ -2770,8 +2771,8 @@
   },
   "bali-sana-uluwatu": {
    "width": 1080,
-   "attempts": 1,
-   "nextTry": "2026-10-10",
+   "attempts": 2,
+   "nextTry": "2026-10-17",
    "flaggedAt": "2026-09-24",
    "lastResult": "no-wider"
   },
@@ -2795,12 +2796,6 @@
    "nextTry": "2026-10-13",
    "flaggedAt": "2026-09-24",
    "lastResult": "no-wider"
-  },
-  "alice-springs-anzac-hill": {
-   "width": 640,
-   "attempts": 0,
-   "nextTry": "2026-09-29",
-   "flaggedAt": "2026-09-29"
   },
   "new-delhi-purana-qila": {
    "width": 1024,
@@ -3007,5 +3002,5 @@
    "flaggedAt": "2026-10-05"
   }
  },
- "updated": "2026-10-10T20:32:33.781Z"
+ "updated": "2026-10-10T22:53:32.537Z"
 }

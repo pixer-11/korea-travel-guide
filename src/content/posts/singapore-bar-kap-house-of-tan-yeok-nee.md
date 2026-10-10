@@ -5,7 +5,6 @@ country: Singapore
 region: Singapore
 category: trendy
 pubDate: '2026-09-09'
-gallery: []
 tags:
   - singapore
   - new & trending
@@ -22,7 +21,14 @@ faq:
   - q: Should I confirm hours before visiting?
     a: Yes. As a recently opened venue in a heritage-protected building, opening hours and booking details are best confirmed directly before you go rather than assumed.
 aiGenerated: true
-draft: true
+heroImage:
+  url: https://fastly.4sqi.net/img/general/original/13010698_V9HLqmUHRy_CL-TucVqq3D9EFLquoOzbl-R0jPplGuI.jpg
+  credit: 'Photo: Foursquare user content (Bar Kap)'
+  license: foursquare
+  source: https://foursquare.com/v/6a103a9b1f5c827b0ccbeeb0
+  focus:
+    x: 50
+    'y': 50
 ---
 
 Walk along Penang Road past the shopping malls and office towers of the Dhoby Ghaut stretch, and the House of Tan Yeok Nee still stops people mid-stride. It's one of the last surviving traditional Teochew courtyard mansions in Singapore, built in the 1880s for a wealthy gambier and pepper trader, and its granite pillars and swooping roofline look nothing like the glass buildings around it.
