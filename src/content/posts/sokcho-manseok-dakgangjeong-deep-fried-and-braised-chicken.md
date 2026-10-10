@@ -57,7 +57,7 @@ It's the kind of place travelers add to a Sokcho food itinerary alongside squid 
 
 ## Getting there
 
-The restaurant sits at 72 Cheongchohoban-ro, in Sokcho's Jo-yang-dong neighborhood, close to the Cheongchoho Lake area on the city's east side, the same general district visitors pass through en route to Sokcho Beach and the lakeside walking paths. Sokcho doesn't have a subway system, so most visitors arrive by intercity bus from Seoul's Dong Seoul Bus Terminal (roughly 2–2.5 hours depending on traffic and route) into Sokcho Express Bus Terminal or Sokcho Intercity Bus Terminal, then take a short taxi ride or local bus toward Cheongchoho.
+The restaurant sits at 72 Cheongchohoban-ro, in Sokcho's Joyang-dong neighborhood, close to the Cheongchoho Lake area on the city's east side, the same general district visitors pass through en route to Sokcho Beach and the lakeside walking paths. Sokcho doesn't have a subway system, so most visitors arrive by intercity bus from Seoul's Dong Seoul Bus Terminal (roughly 2–2.5 hours depending on traffic and route) into Sokcho Express Bus Terminal or Sokcho Intercity Bus Terminal, then take a short taxi ride or local bus toward Cheongchoho.
 
 If you're driving from Seoul via the Seoul-Yangyang Expressway, plan for the same rough travel time and use the address directly in your navigation app, since exact street-level directions can shift with local development.
 

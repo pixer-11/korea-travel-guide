@@ -602,6 +602,36 @@
    }
   ]
  },
+ "goyang-bukhansanseong-fortress": {
+  "steps": [
+   {
+    "from": "885596fa7aa4",
+    "to": "624fba0928dd",
+    "at": "2026-10-10T14:36:36.779Z",
+    "removed": [
+     "[FAQ 1] Q: How do I get to Bukhansanseong Fortress from Seoul or central Goyang? A: Take a bus to the Bukhansanseong trailhead area near Sanggye-dong in Deogyang-gu, Goyang; there's no direct subway stop at the entrance. Drivers can use paid lots near the entrance village, though these fill on clear weekends.",
+     "This entrance sits on the Goyang side of the park, in Deogyang-gu, distinct from the more famous Bukhansan approaches used by Seoul hikers coming from Gupabal or Suyu stations. There's no subway stop at the gate itself; the practical route is a bus to the Bukhansanseong trailhead area near the village of Sanggye-dong, then walking in past the fortress ticket booth and information center. Drivers can use the paid lots near the entrance village, though spaces fill fast once a clear weekend arrives."
+    ],
+    "added": [
+     "[FAQ 1] Q: How do I get to Bukhansanseong Fortress from Seoul or central Goyang? A: Take a bus to the Bukhansanseong trailhead area in Bukhan-dong, Deogyang-gu, Goyang; there's no direct subway stop at the entrance. Drivers can use paid lots near the entrance village, though these fill on clear weekends.",
+     "This entrance sits on the Goyang side of the park, in Deogyang-gu, distinct from the more famous Bukhansan approaches used by Seoul hikers coming from Gupabal or Suyu stations. There's no subway stop at the gate itself; the practical route is a bus to the Bukhansanseong trailhead area in Bukhan-dong, then walking in past the fortress ticket booth and information center. Drivers can use the paid lots near the entrance village, though spaces fill fast once a clear weekend arrives."
+    ]
+   },
+   {
+    "from": "624fba0928dd",
+    "to": "54e101fb09dc",
+    "at": "2026-10-10T14:39:05.019Z",
+    "removed": [
+     "[DESCRIPTION] Bukhansanseong Fortress in Goyang is the 1700s mountain-wall circuit that climbs the northern side of Bukhansan National Park, reachable via the Bukhansanseong trailhead near Sanggye or Dulle-gil bus stops in Deogyang-gu. 4.5★ (865 reviews) — what visitors say, hours, and tips.",
+     "[QUICK ANSWER] Bukhansanseong Fortress in Goyang is the 1700s mountain-wall circuit that climbs the northern side of Bukhansan National Park, reachable via the Bukhansanseong trailhead near Sanggye or Dulle-gil bus stops in Deogyang-gu. Best time is early morning on a weekday, spring or autumn, when the granite ridges and pine forest aren't sharing the trail with weekend crowds. Budget half a day if you want to walk even one full gate-to-gate stretch rather than just the entrance section."
+    ],
+    "added": [
+     "[DESCRIPTION] Bukhansanseong Fortress in Goyang is the 1700s mountain-wall circuit that climbs the northern side of Bukhansan National Park, reachable by bus to the Bukhansanseong trailhead in Bukhan-dong, Deogyang-gu. 4.5★ (865 reviews) — what visitors say, hours, and tips.",
+     "[QUICK ANSWER] Bukhansanseong Fortress in Goyang is the 1700s mountain-wall circuit that climbs the northern side of Bukhansan National Park, reachable by bus to the Bukhansanseong trailhead in Bukhan-dong, Deogyang-gu. Best time is early morning on a weekday, spring or autumn, when the granite ridges and pine forest aren't sharing the trail with weekend crowds. Budget half a day if you want to walk even one full gate-to-gate stretch rather than just the entrance section."
+    ]
+   }
+  ]
+ },
  "goyang-the-weeknd-hyundai-card-super-concert-28": {
   "steps": [
    {
@@ -1116,6 +1146,21 @@
    }
   ]
  },
+ "sokcho-manseok-dakgangjeong-deep-fried-and-braised-chicken": {
+  "steps": [
+   {
+    "from": "9a634f1dae4e",
+    "to": "f179c89bf17b",
+    "at": "2026-10-10T14:36:36.781Z",
+    "removed": [
+     "The restaurant sits at 72 Cheongchohoban-ro, in Sokcho's Jo-yang-dong neighborhood, close to the Cheongchoho Lake area on the city's east side, the same general district visitors pass through en route to Sokcho Beach and the lakeside walking paths. Sokcho doesn't have a subway system, so most visitors arrive by intercity bus from Seoul's Dong Seoul Bus Terminal (roughly 2–2.5 hours depending on traffic and route) into Sokcho Express Bus Terminal or Sokcho Intercity Bus Terminal, then take a short taxi ride or local bus toward Cheongchoho."
+    ],
+    "added": [
+     "The restaurant sits at 72 Cheongchohoban-ro, in Sokcho's Joyang-dong neighborhood, close to the Cheongchoho Lake area on the city's east side, the same general district visitors pass through en route to Sokcho Beach and the lakeside walking paths. Sokcho doesn't have a subway system, so most visitors arrive by intercity bus from Seoul's Dong Seoul Bus Terminal (roughly 2–2.5 hours depending on traffic and route) into Sokcho Express Bus Terminal or Sokcho Intercity Bus Terminal, then take a short taxi ride or local bus toward Cheongchoho."
+    ]
+   }
+  ]
+ },
  "taipei-taipei-fringe-festival-2026": {
   "steps": [
    {
@@ -1163,6 +1208,44 @@
      "Locals treat fringe season as a grazing exercise rather than a single big outing: they pick two or three shows across different nights rather than trying to see everything, since venues are spread across the city and back-to-back scheduling is tight. Audiences generally arrive close to showtime, as fringe venues are small and informal and there's rarely the pre-show queue culture of major theaters, though popular late-run shows can sell out.",
      "Payment at smaller venues sometimes leans cash or mobile transfer rather than card, so a few NT dollars come in handy. Tipping isn't expected at Taiwanese theater venues. For anyone with limited Mandarin, dance, physical theater, and visual or cabaret-style shows travel further than dialogue-heavy drama, and companies are usually open to questions about English support by email or message (many list contact info on their event pages). A common tourist mistake is assuming supertitles are guaranteed when in fact they vary show by show.",
      "A fringe evening pairs easily with a wander through Huashan 1914 Creative Park's galleries and cafés, or Ximending's theater and live-music strip, both of which keep the same independent-arts energy going before or after a show."
+    ]
+   }
+  ]
+ },
+ "yeosu-bokchun-restaurant": {
+  "steps": [
+   {
+    "from": "752606d95762",
+    "to": "fb700525bae9",
+    "at": "2026-10-10T14:42:17.002Z",
+    "removed": [
+     "[FAQ 1] Q: How do I get to Bokchun Restaurant without a car? A: Take a taxi from Yeosu Expo Station or central Yeosu into the Gyodong-dong neighborhood; it's a short, inexpensive ride (around 10–15 minutes) from the main train/bus terminals. Public bus routes also serve the older downtown, but a taxi is simplest if you don't read Korean bus signage.",
+     "The restaurant sits at 5-8 Gyodongnam 1-gil, in the Gyodong-dong area of central Yeosu, walkable from the old Yeosu city center rather than the newer Yeosu Expo Station side of town. If you're coming from Yeosu Expo Station (the KTX/train terminus near Yeosu Ocean Park and the Expo grounds), plan on a short taxi ride (roughly 10–15 minutes) or a bus into the older downtown, since this neighborhood predates the Expo-era development."
+    ],
+    "added": [
+     "[FAQ 1] Q: How do I get to Bokchun Restaurant without a car? A: Take a taxi from Yeosu Expo Station or central Yeosu into the Gyo-dong neighborhood; it's a short, inexpensive ride (around 10–15 minutes) from the main train/bus terminals. Public bus routes also serve the older downtown, but a taxi is simplest if you don't read Korean bus signage.",
+     "The restaurant sits at 5-8 Gyodongnam 1-gil, in the Gyo-dong area of central Yeosu, walkable from the old Yeosu city center rather than the newer Yeosu Expo Station side of town. If you're coming from Yeosu Expo Station (the KTX/train terminus near Yeosu Ocean Park and the Expo grounds), plan on a short taxi ride (roughly 10–15 minutes) or a bus into the older downtown, since this neighborhood predates the Expo-era development."
+    ]
+   }
+  ]
+ },
+ "yeosu-ungcheon-beach-park": {
+  "steps": [
+   {
+    "from": "4a1de1d9af71",
+    "to": "b5cfe1236719",
+    "at": "2026-10-10T14:36:36.775Z",
+    "removed": [
+     "[DESCRIPTION] Ungcheon Beach Park in Yeosu's Sicheon-dong neighborhood is a long, open waterfront strip best visited in the early morning, when it's calmest between 7am and 8am on both weekdays and weekends. 4.4★ (2,088 reviews) — what visitors say, hours, and tips.",
+     "[QUICK ANSWER] Ungcheon Beach Park in Yeosu's Sicheon-dong neighborhood is a long, open waterfront strip best visited in the early morning, when it's calmest between 7am and 8am on both weekdays and weekends. It's open 24 hours daily, and the park stays busy from 11am to 10pm on weekends, so an early or after-dark visit is your best bet for breathing room. Come for the flat walking path along the water, the view toward the sea, and easy access from central Yeosu.",
+     "[FAQ 4] Q: How do I get to Ungcheon Beach Park? A: It's located at 37-26 Yeulmaru-ro in Sicheon-dong, Yeosu, easily reached by taxi or local bus from central Yeosu or Yeosu Expo Station.",
+     "Ungcheon Beach Park sits in Sicheon-dong, on the eastern side of Yeosu, along Yeulmaru-ro. It's a straightforward taxi or local bus ride from central Yeosu and from Yeosu Expo Station, and there's no complicated entrance to find since the park runs open along the road itself."
+    ],
+    "added": [
+     "[DESCRIPTION] Ungcheon Beach Park in Yeosu's Sijeon-dong neighborhood is a long, open waterfront strip best visited in the early morning, when it's calmest between 7am and 8am on both weekdays and weekends. 4.4★ (2,088 reviews) — what visitors say, hours, and tips.",
+     "[QUICK ANSWER] Ungcheon Beach Park in Yeosu's Sijeon-dong neighborhood is a long, open waterfront strip best visited in the early morning, when it's calmest between 7am and 8am on both weekdays and weekends. It's open 24 hours daily, and the park stays busy from 11am to 10pm on weekends, so an early or after-dark visit is your best bet for breathing room. Come for the flat walking path along the water, the view toward the sea, and easy access from central Yeosu.",
+     "[FAQ 4] Q: How do I get to Ungcheon Beach Park? A: It's located at 37-26 Yeulmaru-ro in Sijeon-dong, Yeosu, easily reached by taxi or local bus from central Yeosu or Yeosu Expo Station.",
+     "Ungcheon Beach Park sits in Sijeon-dong, on the eastern side of Yeosu, along Yeulmaru-ro. It's a straightforward taxi or local bus ride from central Yeosu and from Yeosu Expo Station, and there's no complicated entrance to find since the park runs open along the road itself."
     ]
    }
   ]

@@ -1,53 +1,57 @@
 ---
 lang: es
 slug: sokcho-manseok-dakgangjeong-deep-fried-and-braised-chicken
-srcHash: '9a634f1dae4e'
-title: 'Manseok Dakgangjeong (pollo frito y glaseado): Dónde comer en Sokcho'
-description: Manseok Dakgangjeong es toda una institución en Sokcho para probar el dakgangjeong —trozos de pollo frito bañados en un glaseado dulce, picante y con ajo— y se encuentra cerca de la zona del lago Cheongchoho de Sokcho.
-quickAnswer: Manseok Dakgangjeong es toda una institución en Sokcho para probar el dakgangjeong —trozos de pollo frito bañados en un glaseado dulce, picante y con ajo— y se encuentra cerca de la zona del lago Cheongchoho (Cheongchoho) de Sokcho. Es un lugar informal, de precio moderado (nivel de precio 2) y con una valoración de alrededor de 4.0 sobre más de 2.300 reseñas, así que hay que contar con esperar en las horas de mayor afluencia. Pide una ración entera para compartir, opta por "mitad picante, mitad original" si no te decides, y acompáñalo con arroz o disfrútalo como anju (comida para acompañar bebidas) con una cerveza bien fría.
+srcHash: 'f179c89bf17b'
+title: 'Manseok Dakgangjeong (pollo frito y braseado): dónde comer en Sokcho'
+description: Cerca del lago Cheongchoho, Manseok Dakgangjeong es toda una institución en Sokcho. Allí se sirve el dakgangjeong, unos bocados de pollo frito envueltos en un glaseado dulce, picante y con mucho ajo.
+quickAnswer: Cerca del lago Cheongchoho, Manseok Dakgangjeong es toda una institución en Sokcho. Allí se sirve el dakgangjeong, unos bocados de pollo frito envueltos en un glaseado dulce, picante y con mucho ajo. Es un local informal de precio moderado (nivel 2) y tiene una valoración de alrededor de 4.0 en más de 2,300 reseñas, así que en las horas punta de las comidas es probable que tenga que esperar. Lo mejor es pedir una ración entera para compartir. Si no se decide, pídala «mitad picante, mitad original». Puede acompañarla con arroz o tomarla como anju (tapa para beber) con una cerveza bien fría.
 faq:
-  - q: ¿Cómo llego a Manseok Dakgangjeong sin coche?
-    a: Toma un autobús interurbano hasta la Terminal de Autobuses Express de Sokcho (Sokcho Express) o la Terminal de Autobuses Interurbanos, y desde ahí un taxi corto (unos 10-15 minutos) o un autobús local hacia la zona del lago Cheongchoho, donde se encuentra el restaurante, en Cheongchohoban-ro.
+  - q: ¿Cómo se llega a Manseok Dakgangjeong sin coche?
+    a: Tome un autobús interurbano hasta la Terminal de Autobuses Exprés o la Terminal de Autobuses Interurbanos de Sokcho. Desde allí, un trayecto corto en taxi (unos 10-15 minutos) o un autobús urbano le llevará hacia el lago Cheongchoho. El restaurante está en Cheongchohoban-ro.
   - q: ¿Cuánto cuesta el dakgangjeong aquí?
-    a: 'El nivel de precio es medio (moderado/nivel 2) para la zona: una ración para compartir cuesta más que una comida rápida individual, pero resulta razonable para repartir entre 2-3 personas, algo similar a otros restaurantes coreanos informales de Sokcho.'
-  - q: ¿Cuánto tiempo debería reservar para la visita?
-    a: Calcula entre 45 minutos y una hora, incluyendo una posible espera en horas punta; la comida en sí se come rápido una vez que la sirven.
-  - q: ¿Qué hay cerca para combinar con la comida aquí?
-    a: Los senderos junto al lago Cheongchoho y la playa de Sokcho (Sokcho Beach) están a poca distancia, lo que convierte este lugar en una parada natural para el almuerzo o la cena antes o después de recorrer el lago o de dirigirte hacia el Parque Nacional Seoraksan.
-  - q: ¿Es mejor para almorzar, cenar o como lugar para tomar algo?
-    a: 'Funciona para ambas cosas: pídelo con arroz como comida completa, o tómalo como anju (comida para acompañar bebidas) con cerveza o soju por la noche, que es una forma habitual en que los coreanos disfrutan el dakgangjeong.'
+    a: El precio es intermedio para la zona (moderado, nivel 2). Una ración para compartir cuesta más que un menú individual de comida rápida, pero resulta razonable si se divide entre 2-3 personas. Los precios son parecidos a los de otros restaurantes coreanos informales de Sokcho.
+  - q: ¿Cuánto tiempo hay que reservar para la visita?
+    a: Calcule entre 45 minutos y una hora, contando con una posible espera en las horas punta. Una vez servida, la comida se come rápido.
+  - q: ¿Qué hay cerca para combinar con la comida?
+    a: Los paseos junto al lago Cheongchoho y la playa de Sokcho quedan a poca distancia. Por eso es una parada lógica para comer o cenar antes o después de recorrer la orilla del lago o de ir hacia el Parque Nacional de Seoraksan.
+  - q: ¿Es mejor para comer, para cenar o para tomar algo?
+    a: Sirve para todo. Con arroz es una comida completa. Por la noche también puede tomarse como anju (tapa) con cerveza o soju, que es una forma muy habitual de disfrutar el dakgangjeong entre los coreanos.
 ---
 
 ## Por qué ir
 
-El dakgangjeong —pollo frito dos veces hasta que la piel queda crujiente y luego bañado en un glaseado pegajoso, dulce, con ajo y chile— es uno de los platos reconfortantes por excelencia de la provincia de Gangwon-do, y Sokcho es una de las ciudades más asociadas con hacerlo bien. Manseok Dakgangjeong se ha ganado una clientela fiel (con una valoración de alrededor de 4.0 sobre más de 2.000 reseñas) precisamente porque logra el equilibrio por el que se juzga cualquier versión de este plato: un exterior crujiente que se rompe al morderlo, carne jugosa y una salsa dulce y sabrosa con el picante justo para que sigas queriendo más.
+El dakgangjeong es uno de los platos reconfortantes más emblemáticos de Gangwon-do. El pollo se fríe dos veces hasta que la piel cruje y después se baña en un glaseado pegajoso y dulce de ajo y guindilla. Pocas ciudades tienen tanta fama de prepararlo bien como Sokcho. Manseok Dakgangjeong se ha ganado una clientela fiel, con una valoración de alrededor de 4.0 en bastante más de 2,000 reseñas, y lo ha logrado precisamente porque domina el equilibrio por el que se juzga cualquier versión de este plato.
 
-Es el tipo de lugar que los viajeros añaden a su itinerario gastronómico en Sokcho junto a los platos de calamar y el marisco fresco, pero que ofrece algo más contundente y pensado para compartir.
+Su pollo es muy crujiente por fuera y jugoso por dentro, y la salsa combina lo dulce y lo salado con el punto justo de picante para que uno siga picando.
+
+Los viajeros suelen incluirlo en su ruta gastronómica por Sokcho junto a los platos de calamar y el marisco fresco. Lo que ofrece, sin embargo, es más contundente y se presta mejor a compartir.
 
 ## Cómo llegar
 
-El restaurante se encuentra en 72 Cheongchohoban-ro, en el barrio de Jo-yang-dong de Sokcho, cerca de la zona del lago Cheongchoho, en el lado este de la ciudad —el mismo distrito general por el que pasan los visitantes camino a la playa de Sokcho (Sokcho Beach) y los senderos junto al lago—. Sokcho no cuenta con sistema de metro, así que la mayoría de los visitantes llegan en autobús interurbano desde la Terminal de Autobuses de Dong Seoul en Seúl (aproximadamente 2-2.5 horas según el tráfico y la ruta) hasta la Terminal de Autobuses Express de Sokcho o la Terminal de Autobuses Interurbanos de Sokcho, y desde allí toman un taxi corto o un autobús local hacia Cheongchoho.
+El restaurante está en 72 Cheongchohoban-ro, en el barrio de Joyang-dong. Queda cerca del lago Cheongchoho, en el este de la ciudad, la misma zona por la que pasan los visitantes de camino a la playa de Sokcho y a los paseos junto al lago. Sokcho no tiene metro. Por eso la mayoría de los visitantes llega en autobús interurbano desde la Terminal de Autobuses de Dong Seoul (Dong Seoul Bus Terminal), en Seúl, un trayecto de unas 2–2.5 horas según el tráfico y la ruta.
 
-Si conduces desde Seúl por la autopista Seoul-Yangyang, calcula un tiempo de viaje similar y utiliza la dirección directamente en tu aplicación de navegación, ya que las indicaciones exactas a nivel de calle pueden variar con el desarrollo local.
+Los autobuses paran en la Terminal de Autobuses Exprés de Sokcho (Sokcho Express Bus Terminal) o en la Terminal de Autobuses Interurbanos de Sokcho (Sokcho Intercity Bus Terminal). Desde allí basta con un trayecto corto en taxi o en autobús urbano hacia Cheongchoho.
+
+Si viene en coche desde Seúl por la autopista Seúl-Yangyang, el tiempo de viaje es más o menos el mismo. Conviene introducir la dirección directamente en la aplicación de navegación, porque las indicaciones exactas pueden variar con las obras de la zona.
 
 ## Qué comer
 
-El plato que da nombre al lugar, el dakgangjeong, es la razón para entrar. La mayoría de las versiones en Sokcho se sirven en una ración grande para compartir; muchos restaurantes como este ofrecen una opción "mitad y mitad" para que puedas probar el glaseado original de soja y ajo junto a una versión más picante en un mismo pedido.
+El motivo de la visita es el plato que da nombre al local, el dakgangjeong. En Sokcho se suele servir en una ración grande para compartir. Muchos restaurantes como este ofrecen la opción «mitad y mitad», así que en un mismo pedido podrá probar el glaseado original de soja y ajo y una versión más picante con guindilla. Los trozos de pollo llevan hueso y no son tiras deshuesadas. Así se prepara tradicionalmente este plato, y es una de las razones por las que se come con las manos.
 
-Espera trozos de pollo con hueso (no tiras de pechuga sin hueso), algo habitual en este plato y parte de la razón por la que tradicionalmente se come con las manos. Acompáñalo con un bol de arroz para convertirlo en una comida completa, o disfrútalo como anju —comida para acompañar bebidas— con cerveza o soju, que es como muchos coreanos lo piden.
-
-Las raciones suelen ser generosas, así que un grupo de dos o tres personas puede compartir cómodamente un pedido junto con una guarnición de rábano encurtido (chicken-mu) para contrarrestar lo intenso del sabor.
+Si lo acompaña con un cuenco de arroz, tendrá una comida completa. También puede tomarlo como anju, es decir, como tapa para acompañar la cerveza o el soju, que es como lo piden muchos coreanos. Las raciones suelen ser generosas. Entre dos o tres personas se puede compartir sin problema un solo pedido, junto con una guarnición de rábano encurtido (chicken-mu) que ayuda a contrarrestar la contundencia del plato.
 
 ## Cuándo ir
 
-La hora del almuerzo (aproximadamente de 11:30 a. m. a 1:30 p. m.) y la cena (de 6 a 8 p. m.) son los momentos de mayor afluencia, especialmente los fines de semana y durante las temporadas altas de turismo en Sokcho: la temporada de playa en verano (julio-agosto) y la temporada de hojas otoñales cerca del Parque Nacional Seoraksan (octubre).
+Las franjas con más gente son la comida (aproximadamente de 11:30 a.m.–1:30 p.m.) y la cena (de 6–8 p.m.). Sobre todo se llena los fines de semana y en las temporadas altas de Sokcho, que son el verano de playa (July–August) y la avalancha de visitantes que llega con el follaje otoñal al cercano Parque Nacional de Seoraksan (October). Si tiene un horario flexible, intente comer temprano o tarde un día laborable para evitar las esperas más largas.
 
-Si tu horario es flexible, procura almorzar temprano o tarde entre semana para evitar las esperas más largas. El invierno y principios de la primavera suelen ser más tranquilos en general para la escena gastronómica de Sokcho, lo que los convierte en una época más relajada para probar lugares populares como este sin largas colas.
+El invierno y el principio de la primavera suelen ser más tranquilos en los restaurantes de Sokcho en general. Es buen momento para probar locales populares como este sin hacer una cola larga.
 
 ## Cómo visitarlo como un local
 
-Como se trata de un lugar consolidado y muy visitado, más que un hallazgo poco conocido, la estrategia más inteligente a nivel local es cuidar el horario, no buscar el secretismo: llega justo a la apertura o durante el bajón de media tarde (entre las 2 y las 4 p. m.) para saltarte la cola, ya que el dakgangjeong se mantiene bien incluso como un almuerzo algo más tardío.
+No se trata de un secreto bien guardado, sino de un local consolidado y muy concurrido. Por eso, la mejor estrategia de los locales es elegir bien el momento. Llegue justo a la hora de apertura o en la calma de media tarde (hacia las 2–4 p.m.) para evitar la cola, ya que el dakgangjeong funciona perfectamente como almuerzo algo tardío.
 
-Espera cola durante las horas habituales de comida y no te sorprendas si los asientos son compartidos o ajustados: se trata de un local informal y de rotación rápida, no de un sitio para reservas prolongadas. Hoy en día el pago en Corea es mayoritariamente con tarjeta o pago móvil, aunque sigue siendo prudente llevar algo de efectivo como respaldo para los restaurantes locales más pequeños.
+En las horas habituales de comida cuente con tener que esperar, y no le extrañe que las mesas sean compartidas o estén muy juntas. Es un sitio informal donde las mesas se renuevan rápido, no un lugar para reservar y quedarse de sobremesa.
 
-Pide señalando la foto del menú o simplemente diciendo "dakgangjeong"; no hace falta un coreano elaborado. El error más común entre los visitantes es pedir una ración pequeña esperando porciones individuales como en las cadenas de pollo frito de otros países; aquí las raciones están pensadas para compartir, así que pide una talla menos de lo que normalmente pedirías por persona y añade guarniciones si en la mesa todavía queda hambre. No te saltes el rábano encurtido: está ahí precisamente para equilibrar el dulzor del glaseado.
+Hoy en día, en Corea se paga casi siempre con tarjeta o con el móvil. Aun así, conviene llevar algo de efectivo por si algún restaurante pequeño de la zona no acepta otro medio de pago. Para pedir basta con señalar la foto del menú o decir simplemente «dakgangjeong», sin necesidad de dominar el coreano. El error más habitual entre los visitantes es pedir una ración pequeña creyendo que será individual, como en las cadenas de pollo frito de otros países.
+
+Aquí las raciones están pensadas para compartir. Pida un tamaño menos de lo que pediría normalmente por persona y añada guarniciones si la mesa se queda con hambre. No renuncie al rábano encurtido, que está ahí precisamente para equilibrar el dulzor del glaseado.

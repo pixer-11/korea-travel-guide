@@ -1,6 +1,6 @@
 ---
 title: "Ungcheon Beach Park: Yeosu Travel Guide (4.4★)"
-description: "Ungcheon Beach Park in Yeosu's Sicheon-dong neighborhood is a long, open waterfront strip best visited in the early morning, when it's calmest between 7am and 8am on both weekdays and weekends. 4.4★ (2,088 reviews) — what visitors say, hours, and tips."
+description: "Ungcheon Beach Park in Yeosu's Sijeon-dong neighborhood is a long, open waterfront strip best visited in the early morning, when it's calmest between 7am and 8am on both weekdays and weekends. 4.4★ (2,088 reviews) — what visitors say, hours, and tips."
 country: "South Korea"
 region: "Yeosu"
 category: "attraction"
@@ -55,7 +55,7 @@ place:
 tags:
   - "yeosu"
   - "park"
-quickAnswer: "Ungcheon Beach Park in Yeosu's Sicheon-dong neighborhood is a long, open waterfront strip best visited in the early morning, when it's calmest between 7am and 8am on both weekdays and weekends. It's open 24 hours daily, and the park stays busy from 11am to 10pm on weekends, so an early or after-dark visit is your best bet for breathing room. Come for the flat walking path along the water, the view toward the sea, and easy access from central Yeosu."
+quickAnswer: "Ungcheon Beach Park in Yeosu's Sijeon-dong neighborhood is a long, open waterfront strip best visited in the early morning, when it's calmest between 7am and 8am on both weekdays and weekends. It's open 24 hours daily, and the park stays busy from 11am to 10pm on weekends, so an early or after-dark visit is your best bet for breathing room. Come for the flat walking path along the water, the view toward the sea, and easy access from central Yeosu."
 faq:
   - q: "What are the opening hours for Ungcheon Beach Park?"
     a: "It's open 24 hours every day of the week, with no admission gate, so you can visit at any time that suits your schedule."
@@ -64,7 +64,7 @@ faq:
   - q: "When should I avoid visiting if I don't like crowds?"
     a: "Try to avoid weekends from 11am to 10pm, when the park is busiest with local families and groups enjoying the waterfront."
   - q: "How do I get to Ungcheon Beach Park?"
-    a: "It's located at 37-26 Yeulmaru-ro in Sicheon-dong, Yeosu, easily reached by taxi or local bus from central Yeosu or Yeosu Expo Station."
+    a: "It's located at 37-26 Yeulmaru-ro in Sijeon-dong, Yeosu, easily reached by taxi or local bus from central Yeosu or Yeosu Expo Station."
   - q: "How long should I plan to spend here?"
     a: "Budget 30 to 60 minutes for a walk along the promenade, longer if you want to sit, picnic, or watch the sunset over the water."
 aiGenerated: true
@@ -95,7 +95,7 @@ If you want space to actually breathe and take photos without people in every fr
 
 ## Getting there and getting oriented
 
-Ungcheon Beach Park sits in Sicheon-dong, on the eastern side of Yeosu, along Yeulmaru-ro. It's a straightforward taxi or local bus ride from central Yeosu and from Yeosu Expo Station, and there's no complicated entrance to find since the park runs open along the road itself.
+Ungcheon Beach Park sits in Sijeon-dong, on the eastern side of Yeosu, along Yeulmaru-ro. It's a straightforward taxi or local bus ride from central Yeosu and from Yeosu Expo Station, and there's no complicated entrance to find since the park runs open along the road itself.
 
 Give yourself 30 to 60 minutes for a proper walk end to end, longer if you plan to sit, picnic, or watch the sunset. It pairs naturally with other waterfront stops along Yeosu's coast if you're stringing together a half-day of harbor views.
 

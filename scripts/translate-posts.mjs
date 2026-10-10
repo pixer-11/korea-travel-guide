@@ -172,6 +172,7 @@ RULES
   rewrite freedom above changes SENTENCE STRUCTURE, not the register.
 - KEEP EXACTLY AS-IS: numbers, prices, ratings, dates, times, addresses, station/line/exit numbers, URLs.
 - Proper nouns (venue, station, neighbourhood, city names): use the established local rendering if one exists; otherwise keep the original. Where a reader would need it to find the place, keep the original in parentheses on first mention.
+- Korean neighbourhood, street and village names (-dong, -ro, -gil, -ri) in Japanese or Chinese: use Chinese characters only when they are the place's real, widely published hanja (明洞, 仁寺洞, 南浦洞); never build characters from the sound. When unsure, write katakana (Japanese) or keep the romanised name (Chinese).
 - Preserve markdown structure exactly: the same "##" headings (translated text), lists, bold, and links with unchanged URLs.
 - Keep the same number of FAQ items, in the same order.
 - Do not add, remove, or embellish facts. Do not add a translator's note.

@@ -1,6 +1,6 @@
 ---
 title: "Bukhansanseong Fortress: Goyang Travel Guide (4.5★)"
-description: "Bukhansanseong Fortress in Goyang is the 1700s mountain-wall circuit that climbs the northern side of Bukhansan National Park, reachable via the Bukhansanseong trailhead near Sanggye or Dulle-gil bus stops in Deogyang-gu. 4.5★ (865 reviews) — what visitors say, hours, and tips."
+description: "Bukhansanseong Fortress in Goyang is the 1700s mountain-wall circuit that climbs the northern side of Bukhansan National Park, reachable by bus to the Bukhansanseong trailhead in Bukhan-dong, Deogyang-gu. 4.5★ (865 reviews) — what visitors say, hours, and tips."
 country: "South Korea"
 region: "Goyang"
 category: "attraction"
@@ -28,10 +28,10 @@ place:
 tags:
   - "goyang"
   - "historic site"
-quickAnswer: "Bukhansanseong Fortress in Goyang is the 1700s mountain-wall circuit that climbs the northern side of Bukhansan National Park, reachable via the Bukhansanseong trailhead near Sanggye or Dulle-gil bus stops in Deogyang-gu. Best time is early morning on a weekday, spring or autumn, when the granite ridges and pine forest aren't sharing the trail with weekend crowds. Budget half a day if you want to walk even one full gate-to-gate stretch rather than just the entrance section."
+quickAnswer: "Bukhansanseong Fortress in Goyang is the 1700s mountain-wall circuit that climbs the northern side of Bukhansan National Park, reachable by bus to the Bukhansanseong trailhead in Bukhan-dong, Deogyang-gu. Best time is early morning on a weekday, spring or autumn, when the granite ridges and pine forest aren't sharing the trail with weekend crowds. Budget half a day if you want to walk even one full gate-to-gate stretch rather than just the entrance section."
 faq:
   - q: "How do I get to Bukhansanseong Fortress from Seoul or central Goyang?"
-    a: "Take a bus to the Bukhansanseong trailhead area near Sanggye-dong in Deogyang-gu, Goyang; there's no direct subway stop at the entrance. Drivers can use paid lots near the entrance village, though these fill on clear weekends."
+    a: "Take a bus to the Bukhansanseong trailhead area in Bukhan-dong, Deogyang-gu, Goyang; there's no direct subway stop at the entrance. Drivers can use paid lots near the entrance village, though these fill on clear weekends."
   - q: "How long does it take to walk the fortress trail?"
     a: "A short visit to the entrance gate and nearest wall section can take an hour or two. Walking gate to gate along the ridge, including Daedongmun and the smaller ammun, typically takes several hours round trip, so plan half a day if you want the full experience."
   - q: "Is Bukhansanseong crowded like the main Bukhansan trails?"
@@ -51,7 +51,7 @@ Long stretches survive in stone; other sections have been reconstructed. You're 
 
 ## Getting to the Deogyang-gu side
 
-This entrance sits on the Goyang side of the park, in Deogyang-gu, distinct from the more famous Bukhansan approaches used by Seoul hikers coming from Gupabal or Suyu stations. There's no subway stop at the gate itself; the practical route is a bus to the Bukhansanseong trailhead area near the village of Sanggye-dong, then walking in past the fortress ticket booth and information center. Drivers can use the paid lots near the entrance village, though spaces fill fast once a clear weekend arrives.
+This entrance sits on the Goyang side of the park, in Deogyang-gu, distinct from the more famous Bukhansan approaches used by Seoul hikers coming from Gupabal or Suyu stations. There's no subway stop at the gate itself; the practical route is a bus to the Bukhansanseong trailhead area in Bukhan-dong, then walking in past the fortress ticket booth and information center. Drivers can use the paid lots near the entrance village, though spaces fill fast once a clear weekend arrives.
 
 Because this is the Goyang-facing flank of the mountain, it tends to draw a different crowd than the Seoul-side trails: more regional day-trippers, fewer large tour groups. That matches its current reputation as a quieter way into Bukhansan rather than the default one.
 

@@ -1,53 +1,59 @@
 ---
 lang: es
 slug: yeosu-bokchun-restaurant
-srcHash: '752606d95762'
+srcHash: 'fb700525bae9'
 title: 'Restaurante Bokchun: dónde comer en Yeosu'
-description: El restaurante Bokchun es un local de toda la vida en el casco antiguo de Yeosu (barrio de Gyodong), conocido por su contundente cocina casera al estilo de Jeollanam-do, especialmente por sus guisos de pescado y sus mesas repletas de banchan.
-quickAnswer: El restaurante Bokchun es un local de toda la vida en el casco antiguo de Yeosu (barrio de Gyodong), conocido por su contundente cocina casera al estilo de Jeollanam-do, especialmente por sus guisos de pescado y sus mesas repletas de banchan. Con una puntuación de 4.2 sobre 941 reseñas y precios de gama media, lo mejor es visitarlo a la hora del almuerzo entre semana, para evitar el ajetreo de la cena y ver los banchan en su punto más fresco. Conviene reservar entre 45 y 60 minutos y combinar la visita con un paseo por las cercanas calles de mercado de Jongpo o Gyodong.
+description: En el casco antiguo de Yeosu, en la zona de Gyodong, el Restaurante Bokchun lleva años sirviendo una contundente cocina casera al estilo de Jeolla del Sur (Jeollanam-do). Su fama se debe sobre todo a sus guisos de pescado y a sus abundantes surtidos de banchan.
+quickAnswer: 'En el casco antiguo de Yeosu, en la zona de Gyodong, el Restaurante Bokchun lleva años sirviendo una contundente cocina casera al estilo de Jeolla del Sur (Jeollanam-do). Su fama se debe sobre todo a sus guisos de pescado y a sus abundantes surtidos de banchan. Tiene una puntuación de 4.2 sobre 941 reseñas y precios moderados. Conviene ir a almorzar un día laborable: así se evita la aglomeración de la cena y los banchan se sirven en su punto más fresco. Calcule entre 45 y 60 minutos y aproveche para pasear después por las calles de mercado cercanas de Jongpo o de Gyodong.'
 faq:
-  - q: ¿Cómo llego al restaurante Bokchun sin coche?
-    a: Tome un taxi desde la estación de Yeosu Expo (Yeosu Expo Station) o desde el centro de Yeosu hasta el barrio de Gyodong-dong; es un trayecto corto y económico (unos 10-15 minutos) desde las principales terminales de tren y autobús. También hay líneas de autobús público que llegan al casco antiguo, pero el taxi es la opción más sencilla si no se lee la señalización en coreano.
+  - q: ¿Cómo se llega al Restaurante Bokchun sin coche?
+    a: Lo más práctico es tomar un taxi desde la estación Yeosu Expo (Yeosu Expo Station) o desde el centro de Yeosu hasta el barrio de Gyo-dong. Desde las principales terminales de tren y autobús, el trayecto es corto y económico (unos 10–15 minutos). También hay líneas de autobús urbano que llegan al casco antiguo, pero el taxi resulta más sencillo si no sabe leer los rótulos de los autobuses en coreano.
   - q: ¿Cuánto cuesta una comida?
-    a: El precio se sitúa en un nivel medio (aproximadamente un '2' sobre 4 en la escala habitual), típico de un restaurante coreano de mariscos y comida casera. Lo normal son menús o platos para compartir con un precio por persona, en lugar de una carta con precios elevados, aunque conviene confirmar los precios actuales al llegar, ya que pueden variar.
-  - q: ¿Cuál es el mejor momento para ir y evitar esperas?
-    a: El almuerzo entre semana es el horario más tranquilo. El servicio de cena y los fines de semana, especialmente durante la temporada turística de verano en Yeosu y las fechas del festival de fuegos artificiales, suelen ser los momentos de más afluencia.
-  - q: ¿Cuánto tiempo debo reservar para la comida?
-    a: Calcule unos 45-60 minutos para una comida completa sentado con banchan, más tiempo si va en un grupo grande y comparten varios platos.
-  - q: ¿Qué hay cerca para combinar con la visita?
-    a: Las antiguas calles de mercado de Gyodong y Jongpo están a poca distancia a pie, y las vistas nocturnas emblemáticas de Yeosu, el puente de Dolsan (Dolsan Bridge) y la isla de Odongdo (Odongdo Island), quedan a un corto trayecto en taxi, lo que convierte este lugar en una buena opción para cenar temprano antes de dirigirse al paseo marítimo al anochecer.
+    a: Sus precios son moderados (aproximadamente un «2» sobre 4 en las escalas de precios habituales), lo normal en un restaurante coreano de marisco y cocina casera. Lo habitual son menús o platos para compartir con precio por persona, no una carta de platos sueltos cara. Aun así, como los precios pueden variar, conviene confirmarlos al llegar.
+  - q: ¿Cuál es el mejor momento para ir sin tener que esperar?
+    a: La franja más tranquila es el almuerzo de los días laborables. Las cenas y los fines de semana suelen ser los momentos de mayor afluencia, sobre todo durante la temporada turística de verano en Yeosu y en las fechas del festival de fuegos artificiales.
+  - q: ¿Cuánto tiempo hay que reservar para la comida?
+    a: Para una comida completa con banchan, calcule unos 45–60 minutos. Si va en un grupo grande y comparten varios platos, necesitará más tiempo.
+  - q: ¿Qué hay cerca para completar la visita?
+    a: A poca distancia a pie se encuentran las antiguas calles de mercado de Gyodong y Jongpo. Las vistas nocturnas más emblemáticas de Yeosu, en el puente Dolsan y la isla Odongdo, quedan a un corto trayecto en taxi. Por eso este restaurante es una buena opción para cenar temprano antes de acercarse al paseo marítimo por la noche.
 ---
 
 ## Por qué ir
 
-Jeollanam-do está considerada, en general, la provincia más obsesionada con la comida de toda Corea del Sur, y Yeosu, ciudad portuaria de la costa sur, hereda esa fama con mesas cargadas de marisco y repletas de banchan (guarniciones). El restaurante Bokchun, escondido en el barrio de Gyodong, en el casco antiguo de Yeosu, se ha ganado con los años una sólida clientela local, algo que se refleja en su puntuación de 4.2 sobre 941 reseñas.
+Jeolla del Sur (Jeollanam-do) tiene fama de ser la provincia surcoreana más apasionada por la buena mesa. Yeosu, ciudad portuaria de la costa sur, hereda esa reputación con comidas dominadas por el marisco y repletas de banchan, como se llama a las guarniciones. En el barrio de Gyodong, en pleno casco antiguo de Yeosu, el Restaurante Bokchun se ha ganado con los años una clientela local fiel, como demuestra su puntuación de 4.2 sobre 941 reseñas.
 
-Es el tipo de local donde la cocina se inclina hacia lo tradicional y no hacia lo tendencioso: guisos, pescado a la parrilla o estofado, y una generosa selección de guarniciones compartidas que se rellenan sin parar, en lugar de un único plato estrella.
+Aquí la cocina apuesta más por la tradición que por las modas. En lugar de un único plato estrella, lo que se encuentra son guisos, pescado a la parrilla o estofado y un generoso surtido de guarniciones para compartir que se repone sin cesar.
 
 ## Cómo llegar
 
-El restaurante se encuentra en 5-8 Gyodongnam 1-gil, en la zona de Gyodong-dong, en el centro de Yeosu, a poca distancia a pie del casco histórico de la ciudad, más que del lado moderno de la estación de Yeosu Expo. Si se viene desde la estación de Yeosu Expo (Yeosu Expo Station), la terminal de KTX/tren cercana al Yeosu Ocean Park y al recinto de la Expo, hay que contar con un breve trayecto en taxi (unos 10-15 minutos) o en autobús hasta el casco antiguo, ya que este barrio es anterior al desarrollo urbanístico de la era de la Expo.
+El restaurante se encuentra en 5-8 Gyodongnam 1-gil, en la zona de Gyo-dong, en el centro de Yeosu. Se llega a pie desde el antiguo centro de la ciudad, pero queda lejos de la parte más moderna, la que rodea la estación Yeosu Expo (Yeosu Expo Station). Esta estación es la terminal del KTX y de los trenes y está junto al Yeosu Ocean Park y el recinto de la Expo.
 
-Gyodong es un distrito histórico, residencial y de mercado, así que hay que esperar calles estrechas, poco espacio para aparcar y un paisaje urbano más local y sin pulir que el de la franja turística del paseo marítimo.
+Si sale desde allí, cuente con un breve trayecto en taxi (de unos 10–15 minutos) o tome un autobús hasta el casco antiguo, pues este barrio es anterior a la urbanización de la época de la Expo.
 
-## Qué ver y comer
+Gyodong es un barrio histórico, residencial y de mercados. Sus calles son estrechas, hay poco aparcamiento y el ambiente es más local y menos cuidado que el del paseo marítimo turístico.
 
-La comida gira en torno a un plato principal de pescado o marisco, normalmente un guiso (al estilo jjigae o maeuntang) preparado con lo más fresco del día, acompañado de una amplia variedad de banchan típicos de la región: verduras aliñadas, encurtidos, preparaciones de marisco seco y fresco, y arroz. Los restaurantes de Jeollanam-do son famosos en todo el país por no escatimar en guarniciones, y la reputación y el nivel de precios de Bokchun (gama media, un "2" en una escala habitual del 1 al 4) apuntan a una experiencia casera que llena la mesa, más que a un formato de carta individual.
+## Qué ver y qué comer
 
-Como las raciones y los banchan suelen pensarse para compartir, este es un lugar más adecuado para dos o más comensales que para comer algo rápido en solitario.
+La comida suele girar en torno a un plato principal de pescado o marisco. Lo habitual es un guiso, al estilo del jjigae o del maeuntang, preparado con el producto fresco del día. Lo acompaña un amplio despliegue de los banchan propios de la región: verduras aliñadas, encurtidos, preparaciones de marisco seco y fresco, y arroz. Los restaurantes de Jeolla del Sur son célebres en todo el país por su generosidad con las guarniciones.
 
-Después de comer, conviene pasear por la zona de Gyodong y Jongpo, donde las calles de mercado más antiguas y los callejones residenciales ofrecen una imagen de la ciudad más auténtica que el paseo marítimo reconstruido de la Expo. La famosa vista nocturna de Yeosu, con el puente de Dolsan (Dolsan Bridge) y la isla de Odongdo (Odongdo Island) iluminados, queda a un corto trayecto en taxi y combina bien con una cena temprana aquí.
+A juzgar por la reputación de Bokchun y por su nivel de precios, que es moderado (un «2» en la escala habitual del 1 al 4), cabe esperar una mesa repleta y una experiencia casera, más que una carta de platos sueltos.
+
+Como las raciones y los banchan suelen estar pensados para compartir, el local es más adecuado para dos o más comensales que para un bocado rápido en solitario.
+
+Después de comer, nada mejor que dar un paseo por los alrededores de Gyodong y Jongpo. Las antiguas calles de mercado y los callejones residenciales de Yeosu reflejan el carácter de la ciudad con mucha más autenticidad que el paseo marítimo reconstruido de la Expo. Las famosas vistas nocturnas de Yeosu, con el puente Dolsan iluminado y la isla Odongdo, quedan a un corto trayecto en taxi, así que encajan muy bien tras una cena temprana en este restaurante.
 
 ## Cuándo ir
 
-El almuerzo entre semana es el momento más sencillo para conseguir mesa sin esperar, y además permite ver los banchan recién servidos, en lugar de los restos de un servicio de cena anterior. Yeosu recibe un fuerte flujo de turismo nacional en verano (julio-agosto) por sus paisajes costeros y sus vistas nocturnas, así como en torno a las fechas del Festival Internacional de Fuegos Artificiales de Yeosu, por lo que un restaurante como este, aunque esté en un barrio más antiguo, puede notar cierta afluencia extra en esos periodos de mayor demanda.
+El almuerzo de un día laborable es el momento más sencillo para conseguir mesa sin esperar. Además, permite ver los banchan recién servidos y no ya mermados por el turno de cena anterior. En verano (julio–agosto), Yeosu recibe una gran afluencia de turismo nacional atraído por su paisaje costero y sus vistas nocturnas, y lo mismo ocurre en torno a las fechas del Festival Internacional de Fuegos Artificiales de Yeosu.
 
-La primavera y el otoño son estaciones más tranquilas, con un clima más suave para el paseo de ida y vuelta al restaurante.
+En esas temporadas altas, incluso un restaurante de un barrio antiguo como este puede verse desbordado. La primavera y el otoño son más tranquilos, y su clima suave hace más agradable el paseo de ida y vuelta.
 
-## Cómo visitarlo como un local
+## Cómo comer como un local
 
-El pedido suele tomarse en la propia mesa, no en un mostrador, y el pago casi siempre se hace al final de la comida, con tarjeta o en efectivo, en una pequeña caja situada a la entrada (no se espera ni se practica la propina en los restaurantes coreanos, así que no conviene dejar dinero de más). Si no se sabe qué pedir, preguntar al personal "오늘 뭐가 좋아요?" (oneul mwoga joayo, "¿qué está bueno hoy?") es una forma habitual entre los locales de dejarse guiar por la pesca fresca del día en lugar de elegir a ciegas en el menú.
+Por lo general, se pide desde la mesa y no en un mostrador. Casi siempre se paga al final, con tarjeta o en efectivo, en una pequeña caja junto a la entrada. En los restaurantes coreanos no se acostumbra a dejar propina, así que no deje nada de más. Si no sabe qué pedir, puede preguntar al personal «오늘 뭐가 좋아요?» (oneul mwoga joayo), es decir, «¿qué está bueno hoy?».
 
-El error más común entre los visitantes aquí es pedir de menos: los banchan se pueden rellenar y ya están incluidos, así que no hay problema en pedir "더 주세요" (deo juseyo, "más, por favor") de la guarnición que más guste, en lugar de dar por hecho que las raciones son fijas. Como se trata de un restaurante de barrio residencial y no de una zona turística, no hay que esperar menú en inglés ni personal que lo hable; llevar guardada la dirección o el nombre del restaurante en coreano en el teléfono facilita mucho las cosas a la hora de mostrárselo a un taxista.
+Es la forma habitual en que los clientes locales se dejan guiar por la pesca del día en lugar de elegir a ciegas en la carta.
 
-Es recomendable ir con hambre y, si es posible, acompañado de una o dos personas más, ya que el formato basado en banchan premia compartir la mesa frente a comer en solitario.
+El error más frecuente de los visitantes es quedarse cortos. Los banchan están incluidos y se reponen, así que, si alguna guarnición le gusta, puede pedir más diciendo «더 주세요» (deo juseyo), que significa «más, por favor»; no dé por hecho que las raciones son fijas. Al tratarse de un restaurante de barrio residencial y no de zona turística, no cuente con una carta en inglés ni con personal que lo hable.
+
+Para llegar sin complicaciones, conviene llevar guardados en el móvil la dirección o el nombre del restaurante en coreano y enseñárselos al taxista. Venga con hambre y, a ser posible, acompañado de una o dos personas, porque un formato tan rico en guarniciones se disfruta mucho más compartiendo que comiendo solo.

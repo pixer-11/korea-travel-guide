@@ -32,7 +32,7 @@ tags:
 quickAnswer: Bokchun Restaurant is a long-running local spot in Yeosu's old downtown (Gyodong area) known for hearty Jeollanam-do-style home cooking, especially fish-based stews and banchan spreads. With a 4.2 rating across 941 reviews and mid-range pricing, it's best visited at lunch on a weekday to avoid the dinner rush and to see the banchan at its freshest. Budget 45–60 minutes and pair it with a stroll through nearby Jongpo or Gyodong market streets.
 faq:
   - q: How do I get to Bokchun Restaurant without a car?
-    a: Take a taxi from Yeosu Expo Station or central Yeosu into the Gyodong-dong neighborhood; it's a short, inexpensive ride (around 10–15 minutes) from the main train/bus terminals. Public bus routes also serve the older downtown, but a taxi is simplest if you don't read Korean bus signage.
+    a: Take a taxi from Yeosu Expo Station or central Yeosu into the Gyo-dong neighborhood; it's a short, inexpensive ride (around 10–15 minutes) from the main train/bus terminals. Public bus routes also serve the older downtown, but a taxi is simplest if you don't read Korean bus signage.
   - q: How much does a meal cost?
     a: It's priced at a mid-range level (roughly a '2' out of 4 on standard price tiers), typical for a Korean home-style seafood restaurant. Expect set meals or shared dishes priced per person rather than steep à la carte pricing, but confirm current menu prices on arrival since they can shift.
   - q: What's the best time to visit to avoid a wait?
@@ -54,7 +54,7 @@ It's the kind of place where the cooking style leans traditional rather than tre
 
 ## Getting there
 
-The restaurant sits at 5-8 Gyodongnam 1-gil, in the Gyodong-dong area of central Yeosu, walkable from the old Yeosu city center rather than the newer Yeosu Expo Station side of town. If you're coming from Yeosu Expo Station (the KTX/train terminus near Yeosu Ocean Park and the Expo grounds), plan on a short taxi ride (roughly 10–15 minutes) or a bus into the older downtown, since this neighborhood predates the Expo-era development.
+The restaurant sits at 5-8 Gyodongnam 1-gil, in the Gyo-dong area of central Yeosu, walkable from the old Yeosu city center rather than the newer Yeosu Expo Station side of town. If you're coming from Yeosu Expo Station (the KTX/train terminus near Yeosu Ocean Park and the Expo grounds), plan on a short taxi ride (roughly 10–15 minutes) or a bus into the older downtown, since this neighborhood predates the Expo-era development.
 
 Gyodong is a historic residential and market district, so expect narrow streets, small parking, and a more local, unpolished streetscape than the waterfront tourist strip.
 
