@@ -22,7 +22,8 @@
     "Turkey": "1103100571170816362",
     "Australia": "1103100571170824743",
     "United Kingdom": "1103100571170833551",
-    "Macau": "1103100571170862899"
+    "Macau": "1103100571170862899",
+    "Mexico": "1103100571170872293"
   },
   "pinned": {
     "amalfi-coast-positano": "1103100502523648064",
@@ -415,7 +416,10 @@
     "macau-73rd-macau-grand-prix": "1103100502528936003",
     "macau-macao-international-marathon": "1103100502528936006",
     "macau-txt-world-tour-steal-the-wind-macau": "1103100502528936008",
-    "manila-aia-rock-n-roll-manila-marathon": "1103100502528936009"
+    "manila-aia-rock-n-roll-manila-marathon": "1103100502528936009",
+    "mexico-city-katseye-wildworld-tour": "1103100502528980933",
+    "mexico-city-xg-world-tour-the-core": "1103100502528980936",
+    "milan-aespa-synk-compl-xity-world-tour": "1103100502528980938"
   },
   "magnetPinned": {
     "magnet:itinerary:bangkok-3-days": "1103100502524165822",
@@ -436,6 +440,7 @@
     "magnet:itinerary:dubai-3-days": "1103100502527418715",
     "magnet:itinerary:tokyo-5-days": "1103100502527461686",
     "magnet:itinerary:istanbul-3-days": "1103100502527938095",
-    "magnet:itinerary:paris-3-days": "1103100502528600053"
+    "magnet:itinerary:paris-3-days": "1103100502528600053",
+    "magnet:itinerary:brighton-3-days": "1103100502528980927"
   }
 }
