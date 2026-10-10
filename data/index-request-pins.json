@@ -1,0 +1,12 @@
+{
+  "_note": "Slugs that go FIRST in the morning report's '색인 요청 10건' list until their 'until' date (scripts/lib/index-request-list.mjs). For pages that changed in a way Google must re-read soon: a retitle, a restored post. Remove a row when it has been requested, or let it expire.",
+  "pins": [
+    { "slug": "incheon-wolmi-theme-park", "until": "2026-10-17", "why": "retitled 10-09, pos 6.8, 276 imp, 0 clicks" },
+    { "slug": "lombok-vandal-restaurant-elevated-global-street-food", "until": "2026-10-17", "why": "retitled 10-09, pos 6.7, 224 imp, 0 clicks" },
+    { "slug": "phuket-hug-street-food-kata-phuket", "until": "2026-10-17", "why": "retitled 10-09, pos 5, 186 imp, 0 clicks" },
+    { "slug": "incheon-haesong-ssambap", "until": "2026-10-17", "why": "retitled 10-09, pos 8.2" },
+    { "slug": "washington-dc-founding-farmers-dc", "until": "2026-10-17", "why": "retitled 10-09, pos 10" },
+    { "slug": "daegu-nazar-kebab", "until": "2026-10-17", "why": "retitled 10-09, pos 9" },
+    { "slug": "sokcho-seoraksan-cable-car", "until": "2026-10-17", "why": "retitled 10-09, pos 3.6" }
+  ]
+}
