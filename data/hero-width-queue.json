@@ -2462,7 +2462,11 @@
   "fussen-walderlebniszentrum-ziegelwies\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Baumkronenweg_Walderlebniszentrum_Ziegelwies_06.jpg/3840px-Baumkronenweg_Walderlebniszentrum_Ziegelwies_06.jpg": 3840,
   "fussen-benediktinerkloster-st-mang\u0001https://upload.wikimedia.org/wikipedia/commons/3/3e/Benediktinerkloster_St._Mang_-_panoramio_%281%29.jpg": 3264,
   "belfast-peace-wall-belfast\u0001https://upload.wikimedia.org/wikipedia/commons/a/ad/The_Alexandra_Park_peace_wall%2C_Belfast_-_panoramio.jpg": 2592,
-  "sydney-chinatown-sydney\u0001https://upload.wikimedia.org/wikipedia/commons/2/2b/The_Sydney_Chinatown_in_Dixon_Street.jpg": 2302
+  "sydney-chinatown-sydney\u0001https://upload.wikimedia.org/wikipedia/commons/2/2b/The_Sydney_Chinatown_in_Dixon_Street.jpg": 2302,
+  "matsuyama-dogo-onsen-main-building\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dogo_Onsen_Honkan_%28Main_building%29%2C_%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89_%E6%9C%AC%E9%A4%A8_-_panoramio_%288%29.jpg/3840px-Dogo_Onsen_Honkan_%28Main_building%29%2C_%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89_%E6%9C%AC%E9%A4%A8_-_panoramio_%288%29.jpg": 3840,
+  "matsuyama-ehime-museum-of-art\u0001https://upload.wikimedia.org/wikipedia/commons/5/57/The_Museum_of_Art%2C_EHIME_-_panoramio_%281%29.jpg": 1600,
+  "matsuyama-matsuyama-castle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Matsuyama_Castle.jpg/3840px-Matsuyama_Castle.jpg": 3840,
+  "matsuyama-matsuyama-general-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Matsuyama_Central_Park_Pool.jpg/3840px-Matsuyama_Central_Park_Pool.jpg": 3840
  },
  "queue": {
   "abu-dhabi-art-house-cafe": {
@@ -2998,5 +3002,5 @@
    "flaggedAt": "2026-10-05"
   }
  },
- "updated": "2026-10-10T13:57:24.684Z"
+ "updated": "2026-10-10T15:11:06.720Z"
 }
