@@ -46,6 +46,18 @@ jobs:
           set -o pipefail
           node scripts/indexnow-submit.mjs 2>&1 | tee /tmp/indexnow.log
 
+      # Direct submission on top of IndexNow (2026-10-10). Bing's IndexNow
+      # Insights read 33.4K submitted, 2.6K crawled, 2K indexed: IndexNow
+      # announces a URL, the Submission API gets it fetched. The site's quota
+      # is 100/day; the script reads the remaining quota itself, so the second
+      # run of the day submits nothing. A refused batch is a warning, never a
+      # red job (scripts/lib/bing-submit.mjs).
+      - name: Bing URL Submission API (daily quota, Japanese pages first)
+        if: success()
+        env:
+          BING_API_KEY: ${{ secrets.BING_API_KEY }}
+        run: node scripts/bing-submit-urls.mjs 2>&1 | tee -a /tmp/indexnow.log
+
       - name: Commit the submission state
         if: success()
         run: |
