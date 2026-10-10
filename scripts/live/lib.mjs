@@ -24,6 +24,30 @@ export const BASE = (process.argv[2] || process.env.LIVE_BASE || 'https://wander
 
 const BLOCK = (url) => isAnalyticsRequest(url.href);
 
+// One slow page load is not a broken site. 2026-10-10 22:47 KST: the header
+// check's first page.goto hit Playwright's 30 s limit once, the other 22
+// checks — the same pages included — passed, and an alert went out for
+// nothing. A navigation that times out is tried once more with 60 s; a page
+// that is really down or hanging times out twice and still fails.
+function retrySlowGoto(page) {
+  if (page.__waRetry) return page;
+  page.__waRetry = true;
+  const goto = page.goto.bind(page);
+  page.goto = async (url, opts = {}) => {
+    try {
+      return await goto(url, opts);
+    } catch (e) {
+      if (e?.name !== 'TimeoutError') throw e;
+      console.log(`  (slow load, trying once more: ${url})`);
+      // The timed-out load is still in flight; going to the same URL over it
+      // is answered net::ERR_ABORTED. Clear it first.
+      await goto('about:blank').catch(() => {});
+      return goto(url, { ...opts, timeout: Math.max(60_000, opts.timeout || 0) });
+    }
+  };
+  return page;
+}
+
 export async function launch() {
   const channel = process.env.PW_CHANNEL || (process.platform === 'win32' ? 'msedge' : 'chrome');
   const b = await chromium.launch({ channel });
@@ -53,6 +77,9 @@ export async function launch() {
       XMLHttpRequest.prototype.open = function (m, u, ...rest) { if (isRum(u)) muted.add(this); return open.call(this, m, u, ...rest); };
       XMLHttpRequest.prototype.send = function (...a) { if (muted.has(this)) { window.__waMutedBeacons++; return undefined; } return xsend.apply(this, a); };
     }, CF_RUM_SOURCE);
+    ctx.on('page', retrySlowGoto);
+    const newPage = ctx.newPage.bind(ctx);
+    ctx.newPage = async () => retrySlowGoto(await newPage());
     return ctx;
   };
   b.newPage = async (opts) => {
