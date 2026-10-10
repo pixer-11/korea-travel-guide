@@ -42,7 +42,7 @@
    "hits": 50
   },
   "local market": {
-   "attempts": 192,
+   "attempts": 193,
    "hits": 76
   },
   "bookshop": {
@@ -394,5 +394,5 @@
    "hits": 0
   }
  },
- "updated": "2026-10-10T16:55:40.624Z"
+ "updated": "2026-10-10T17:46:00.519Z"
 }
