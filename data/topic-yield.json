@@ -2,7 +2,7 @@
  "_note": "Per-topic search→post yield, written by scripts/generate.mjs (scripts/lib/topic-yield.mjs). Seeded 2026-08-23 from the 08-17..23 publish/bulk logs; counts halve past 200 so recent runs weigh more.",
  "topics": {
   "local restaurant": {
-   "attempts": 89,
+   "attempts": 94,
    "hits": 13
   },
   "historic site": {
@@ -326,5 +326,5 @@
    "hits": 0
   }
  },
- "updated": "2026-10-10T07:42:43.611Z"
+ "updated": "2026-10-10T13:53:36.565Z"
 }
