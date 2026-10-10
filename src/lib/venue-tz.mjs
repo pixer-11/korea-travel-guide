@@ -36,6 +36,7 @@ export const COUNTRY_TZ = {
 const ET = 'America/New_York', CT = 'America/Chicago', PT = 'America/Los_Angeles';
 const WIB = 'Asia/Jakarta', WITA = 'Asia/Makassar';
 const CDMX = 'America/Mexico_City', CUN = 'America/Cancun';
+const ULN = 'Asia/Ulaanbaatar', HOVD = 'Asia/Hovd';
 const SYD = 'Australia/Sydney', BNE = 'Australia/Brisbane', PER = 'Australia/Perth', DRW = 'Australia/Darwin';
 
 export const REGION_TZ = {
@@ -72,6 +73,15 @@ export const REGION_TZ = {
     Monterrey: 'America/Monterrey', Merida: 'America/Merida',
     Cancun: CUN, 'Playa del Carmen': CUN, Tulum: CUN, Cozumel: CUN,
     'Los Cabos': 'America/Mazatlan',
+  },
+  // 몽골은 시간대가 둘이다. IANA tzdata(zone1970.tab)가 Asia/Hovd 로 두는 서부
+  // 3개 아이막(바얀울기·호브드·옵스)은 울란바토르보다 1시간 늦다 — 울기·호브드가 거기다.
+  // 나머지(테렐지·하르호린·흡스굴·고비 등)는 Asia/Ulaanbaatar. 서머타임 없음(2026-10-11).
+  Mongolia: {
+    Ulaanbaatar: ULN, Terelj: ULN, 'Tsonjin Boldog': ULN, 'Khustai National Park': ULN,
+    Kharkhorin: ULN, Tsetserleg: ULN, 'Lake Khuvsgul': ULN, Murun: ULN,
+    Dalanzadgad: ULN, 'Gobi Gurvansaikhan National Park': ULN, Erdenet: ULN, Darkhan: ULN,
+    Olgii: HOVD, Khovd: HOVD,
   },
 };
 

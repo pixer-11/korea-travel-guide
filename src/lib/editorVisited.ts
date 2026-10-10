@@ -34,7 +34,7 @@ export const EDITOR_VISITED: VisitedPlace[] = [
   { place: 'Macau', continent: 'Asia' }, // own country since 2026-10-06
   { place: 'China', continent: 'Asia' },
   { place: 'Taiwan', continent: 'Asia' },
-  { place: 'Mongolia', continent: 'Asia' },
+  { place: 'Mongolia', continent: 'Asia' }, // own country since 2026-10-11
   { place: 'France', continent: 'Europe' },
   { place: 'Spain', continent: 'Europe' },
   { place: 'Georgia', continent: 'Europe' },

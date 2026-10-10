@@ -405,5 +405,21 @@
       "A trip that continues into mainland China (Zhuhai is next door) needs a plan that covers the mainland too, and Google services do not work there; save the maps you need while still in Macau.",
       "Look for the FreeWiFi.MO network at tourist sites and public buildings to save data."
     ]
+  },
+  "mongolia": {
+    "name": "Mongolia",
+    "carriers": [
+      "Mobicom",
+      "Unitel",
+      "Skytel",
+      "G-Mobile"
+    ],
+    "intro": "Mongolia has four mobile networks: Mobicom, Unitel, Skytel and G-Mobile. Mobicom and Unitel both sell tourist data packages as an eSIM straight from their own websites (Mobicom calls it Tourist, Unitel calls it Tour SIM), so you can be connected before you land. A travel eSIM from an international seller rides on these same networks; check which one it names before you buy.",
+    "coverage": "Signal is strongest in Ulaanbaatar and the towns. Mobicom states that its 4G reaches all 21 provinces and all 330 soum (district) centres; away from those settlements coverage is thinner and depends on the network, so plan for stretches without signal on long drives across the steppe or the Gobi.",
+    "tips": [
+      "Mobicom's Tourist number is data only: it cannot make or receive calls apart from Mobicom's own help line, 2222, which has English support. If you need a phone number for drivers or guesthouses, choose a plan that includes calls.",
+      "Download offline maps and save your camp and driver contacts before leaving Ulaanbaatar for the Gobi, Kharkhorin or Lake Khuvsgul, in case part of the drive has no signal.",
+      "Olgii and Khovd in the far west run one hour behind Ulaanbaatar, so check the local time on flights and tour pick-ups when you travel between the two."
+    ]
   }
 }

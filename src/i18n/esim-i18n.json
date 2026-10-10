@@ -1081,5 +1081,44 @@
       ]
     },
     "_srcHash": "ca300c8cc221e24c"
+  },
+  "mongolia": {
+    "ko": {
+      "intro": "몽골에는 모비콤(Mobicom), 유니텔(Unitel), 스카이텔(Skytel), 지모바일(G-Mobile) 이렇게 네 개의 이동통신사가 있습니다. 모비콤과 유니텔은 모두 자사 웹사이트에서 eSIM 형태로 여행자용 데이터 패키지를 판매하고 있어서(모비콤은 'Tourist', 유니텔은 'Tour SIM'이라는 이름으로 운영), 몽골에 도착하기 전에 미리 연결을 준비할 수 있습니다. 해외 판매처에서 구매하는 여행용 eSIM도 결국 이 통신사들의 망을 이용하는 것이니, 구매 전에 어느 통신사를 사용하는지 꼭 확인하세요.",
+      "coverage": "신호는 울란바토르와 주요 도시에서 가장 강합니다. 모비콤에 따르면 자사의 4G는 21개 전 아이막(도)과 330개 솜(군) 중심지 전역에 닿는다고 하지만, 이런 거주지에서 벗어나면 커버리지가 약해지고 통신사에 따라 차이가 있으므로, 초원이나 고비 사막을 장거리로 이동할 때는 신호가 끊기는 구간이 있을 것을 대비해야 합니다.",
+      "tips": [
+        "모비콤의 Tourist 번호는 데이터 전용으로, 모비콤 자체 고객센터 번호인 2222(영어 상담 가능)를 제외하고는 전화를 걸거나 받을 수 없습니다. 운전기사나 게스트하우스와 연락할 전화번호가 필요하다면 통화가 포함된 요금제를 선택하세요.",
+        "울란바토르를 떠나 고비, 하르호린(카라코룸), 흡스굴 호수로 향하기 전에 오프라인 지도를 미리 다운로드하고 캠프와 운전기사의 연락처를 저장해 두세요. 이동 구간 중 일부는 신호가 전혀 잡히지 않을 수 있습니다.",
+        "서쪽 끝에 위치한 울기와 호브드는 울란바토르보다 1시간 느린 시간대를 사용하므로, 두 지역을 오갈 때는 항공편과 투어 픽업 시간을 현지 시각 기준으로 꼭 확인하세요."
+      ]
+    },
+    "ja": {
+      "intro": "モンゴルには4つの携帯通信会社があります。Mobicom、Unitel、Skytel、G-Mobileです。MobicomとUnitelはどちらも、観光客向けのデータパッケージを自社サイトからeSIMとして直接販売しており(Mobicomは「Tourist」、Unitelは「Tour SIM」という名称です)、現地到着前にあらかじめ通信環境を整えておくことができます。海外の販売元から購入する旅行者向けeSIMも、結局はこれらと同じ通信網を利用する形になるので、購入前にどのネットワークを使用しているか確認しておきましょう。",
+      "coverage": "電波が最も強いのはウランバートルと各地方の町です。Mobicomによれば、同社の4Gは21のすべての県と330のすべてのソム(郡)の中心部をカバーしているとのことですが、こうした集落を離れると電波状況は弱くなり、どの通信会社を使っているかによっても差が出ます。ステップ地帯やゴビ砂漠を長距離移動する際には、電波が届かない区間があることを想定しておきましょう。",
+      "tips": [
+        "MobicomのTouristはデータ通信専用です。Mobicomのサポート窓口である2222番(英語対応あり)以外、電話の発着信はできません。ドライバーや宿泊先と電話番号でやり取りする必要がある場合は、通話機能付きのプランを選びましょう。",
+        "ウランバートルからゴビ砂漠、ハルホリン、フブスグル湖へ向かう前に、オフラインマップをダウンロードし、キャンプやドライバーの連絡先を保存しておきましょう。移動中に電波が届かない区間がある場合に備えるためです。",
+        "最西部のウルギーとホブドは、ウランバートルより1時間遅れた時間帯で動いています。両地域間を移動する際は、フライトやツアーの送迎時刻について、現地時間をよく確認してください。"
+      ]
+    },
+    "es": {
+      "intro": "Mongolia cuenta con cuatro redes móviles: Mobicom, Unitel, Skytel y G-Mobile. Tanto Mobicom como Unitel venden paquetes de datos para turistas en formato eSIM directamente desde sus propios sitios web (Mobicom lo llama Tourist y Unitel lo llama Tour SIM), por lo que puedes estar conectado antes incluso de aterrizar. Una eSIM de viaje de un proveedor internacional funciona sobre estas mismas redes, así que conviene comprobar cuál de ellas utiliza antes de comprarla.",
+      "coverage": "La señal es más fuerte en Ulán Bator y en las ciudades. Mobicom asegura que su cobertura 4G llega a las 21 provincias y a los 330 centros de soum (distrito); fuera de estos núcleos de población, la cobertura es más limitada y depende de la red, por lo que conviene prever tramos sin señal en los trayectos largos por la estepa o el Gobi.",
+      "tips": [
+        "El plan Tourist de Mobicom es solo de datos: no permite hacer ni recibir llamadas, salvo a la línea de ayuda propia de Mobicom, el 2222, que ofrece atención en inglés. Si necesitas un número de teléfono para contactar con conductores o casas de huéspedes, elige un plan que incluya llamadas.",
+        "Descarga mapas sin conexión y guarda los contactos de tu campamento y de tu conductor antes de salir de Ulán Bator hacia el Gobi, Kharkhorin o el lago Khuvsgul, por si parte del trayecto se queda sin señal.",
+        "Olgii y Khovd, en el extremo occidental, van una hora por detrás de Ulán Bator, así que conviene revisar la hora local en los vuelos y en las recogidas de las excursiones cuando viajes entre ambas zonas."
+      ]
+    },
+    "zh": {
+      "intro": "蒙古共有四家移动网络运营商:Mobicom、Unitel、Skytel 和 G-Mobile。Mobicom 和 Unitel 都直接在各自官网上出售旅游数据套餐的eSIM(Mobicom称其为“Tourist”,Unitel则称为“Tour SIM”),因此你可以在落地前就提前开通网络。国际卖家提供的旅行eSIM也是接入这几家本地网络,购买前请确认它具体使用的是哪一家。",
+      "coverage": "信号在乌兰巴托及各城镇最强。Mobicom表示其4G网络已覆盖全部21个省及全部330个苏木(区)中心;而在这些聚居点之外,信号会变弱,具体情况因网络而异,因此在横穿草原或戈壁的长途自驾中,要做好一段路程没有信号的准备。",
+      "tips": [
+        "Mobicom的Tourist套餐仅支持数据流量:除了Mobicom自家提供英语服务的客服热线2222外,无法拨打或接听电话。如果你需要一个号码联系司机或客栈,请选择包含通话功能的套餐。",
+        "从乌兰巴托出发前往戈壁、哈尔和林(Kharkhorin)或库苏古尔湖(Lake Khuvsgul)之前,请提前下载离线地图并保存好营地和司机的联系方式,以防途中部分路段没有信号。",
+        "位于最西端的乌列盖(Olgii)和科布多(Khovd)比乌兰巴托晚一小时,因此在两地之间往返乘坐航班或安排接送时,请注意核对当地时间。"
+      ]
+    },
+    "_srcHash": "42de8ffca89a71c5"
   }
 }

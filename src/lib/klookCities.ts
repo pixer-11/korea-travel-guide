@@ -269,6 +269,7 @@ export const KLOOK_CITY: Record<string, KlookCity> = {
   "Toulouse": { id: 206478, slug: 'toulouse', country: "France" },
   "Tulum": { id: 17463, slug: 'tulum', country: "Mexico" },
   "Ubud": { id: 703018, slug: 'ubud', country: "Indonesia" },
+  "Ulaanbaatar": { id: 4365, slug: 'ulaanbaatar', country: "Mongolia" }, // 2026-10-11: c4365-ulaanbaatar in the en-US, ko, ja, es and zh-cn city sitemaps
   "Yilan": { id: 42, slug: 'yilan', country: "Taiwan" },
   "York": { id: 299, slug: 'york', country: "United Kingdom" },
   "Zamboanga City": { id: 15709, slug: 'zamboanga-city', country: "Philippines" },

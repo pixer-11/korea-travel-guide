@@ -26,6 +26,7 @@ export const COUNTRY_TIME: Record<string, { tz: string; city: string; multi?: bo
   SG: { tz: 'Asia/Singapore', city: 'Singapore' },
   HK: { tz: 'Asia/Hong_Kong', city: 'Hong Kong' },
   MO: { tz: 'Asia/Macau', city: 'Macau' },
+  MN: { tz: 'Asia/Ulaanbaatar', city: 'Ulaanbaatar', multi: true }, // Olgii and Khovd run on Asia/Hovd, an hour behind
   UZ: { tz: 'Asia/Tashkent', city: 'Tashkent' },
   KH: { tz: 'Asia/Phnom_Penh', city: 'Phnom Penh' },
   AU: { tz: 'Australia/Sydney', city: 'Sydney', multi: true },

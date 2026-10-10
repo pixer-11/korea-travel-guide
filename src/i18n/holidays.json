@@ -2027,6 +2027,60 @@
     "es": "Día de la Revolución",
     "zh": "墨西哥革命纪念日"
   },
+  "Mongolia|Children's Day": {
+    "ko": "어린이날",
+    "ja": "こどもの日",
+    "es": "Día del Niño",
+    "zh": "儿童节"
+  },
+  "Mongolia|Genghis Khan's Birthday": {
+    "ko": "칭기즈 칸 탄신일",
+    "ja": "チンギス・ハーン生誕記念日",
+    "es": "Natalicio de Gengis Kan",
+    "zh": "成吉思汗诞辰纪念日"
+  },
+  "Mongolia|International Women's Day": {
+    "ko": "세계 여성의 날",
+    "ja": "国際女性デー",
+    "es": "Día Internacional de la Mujer",
+    "zh": "国际妇女节"
+  },
+  "Mongolia|Lunar New Year": {
+    "ko": "차강사르",
+    "ja": "ツァガーンサル",
+    "es": "Año Nuevo lunar (Tsagaan Sar)",
+    "zh": "白月节（查干萨日）"
+  },
+  "Mongolia|National Festival and People's Revolution Anniversary": {
+    "ko": "나담 축제",
+    "ja": "ナーダム（人民革命記念日）",
+    "es": "Naadam",
+    "zh": "那达慕大会"
+  },
+  "Mongolia|National Freedom and Independence Day": {
+    "ko": "자유 독립 기념일",
+    "ja": "独立記念日",
+    "es": "Día de la Libertad y la Independencia Nacional",
+    "zh": "国家自由独立日"
+  },
+  "Mongolia|New Year's Day": {
+    "ko": "신정",
+    "ja": "元日",
+    "es": "Año Nuevo",
+    "zh": "元旦"
+  },
+  "Mongolia|Republic Day": {
+    "ko": "공화국 선포 기념일",
+    "ja": "共和国記念日",
+    "es": "Día de la República",
+    "zh": "共和国日"
+  },
+  "Mongolia|The Buddha's Birthday": {
+    "ko": "부처님 오신 날",
+    "ja": "釈迦の誕生日",
+    "es": "Natalicio de Buda",
+    "zh": "佛诞节"
+  },
   "Philippines|All Saints' Day": {
     "ko": "만성절",
     "ja": "諸聖人の日",

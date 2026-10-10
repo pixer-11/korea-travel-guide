@@ -26,6 +26,9 @@ import holidays
 # Tomb-Sweeping Day on 2026-04-06).
 # Macau is built the same way: "public" is ten statutory days without
 # Christmas or Good Friday; the general holidays are "optional" (2026-10-06).
+# Mongolia (MN) stays on the default "public": those are the statutory days
+# off (Tsagaan Sar, Naadam, Independence Day ...). Its other category,
+# "workday", is commemorative days on which offices stay open (2026-10-11).
 CATEGORIES = {"HK": ("optional",), "MO": ("optional",)}
 
 # The UK's no-subdivision set is only what all four nations share, which drops

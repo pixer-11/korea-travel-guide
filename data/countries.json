@@ -674,6 +674,32 @@
         "Hac Sa"
       ],
       "continent": "Asia"
+    },
+    {
+      "name": "Mongolia",
+      "iso2": "mn",
+      "priority": 24,
+      "slug": "mongolia",
+      "flag": "🇲🇳",
+      "active": true,
+      "blurb": "Ger camps on open steppe, Buddhist monasteries, the dunes and ice canyon of the Gobi and the clear waters of Lake Khuvsgul, with Ulaanbaatar as the one big city. Most travel beyond it means long drives on unpaved tracks, and the far west runs an hour behind the capital.",
+      "regions": [
+        "Ulaanbaatar",
+        "Terelj",
+        "Tsonjin Boldog",
+        "Khustai National Park",
+        "Kharkhorin",
+        "Tsetserleg",
+        "Lake Khuvsgul",
+        "Murun",
+        "Dalanzadgad",
+        "Gobi Gurvansaikhan National Park",
+        "Erdenet",
+        "Darkhan",
+        "Olgii",
+        "Khovd"
+      ],
+      "continent": "Asia"
     }
   ]
 }

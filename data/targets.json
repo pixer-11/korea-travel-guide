@@ -1958,6 +1958,216 @@
       "topic": "Sapa Stone Church",
       "category": "attraction",
       "query": "Holy Rosary Church Sa Pa stone church"
+    },
+    {
+      "country": "Mongolia",
+      "region": "Ulaanbaatar",
+      "topic": "Gandan Monastery",
+      "category": "attraction",
+      "query": "Gandantegchinlen Monastery Ulaanbaatar Mongolia"
+    },
+    {
+      "country": "Mongolia",
+      "region": "Ulaanbaatar",
+      "topic": "Sükhbaatar Square",
+      "category": "attraction",
+      "query": "Sükhbaatar Square Ulaanbaatar Mongolia"
+    },
+    {
+      "country": "Mongolia",
+      "region": "Ulaanbaatar",
+      "topic": "Chinggis Khaan National Museum",
+      "category": "attraction",
+      "query": "Chinggis Khaan National Museum Ulaanbaatar"
+    },
+    {
+      "country": "Mongolia",
+      "region": "Ulaanbaatar",
+      "topic": "Zaisan Memorial",
+      "category": "attraction",
+      "query": "Zaisan Memorial Ulaanbaatar"
+    },
+    {
+      "country": "Mongolia",
+      "region": "Ulaanbaatar",
+      "topic": "Bogd Khan Palace Museum",
+      "category": "attraction",
+      "query": "Bogd Khan Winter Palace Museum Ulaanbaatar"
+    },
+    {
+      "country": "Mongolia",
+      "region": "Ulaanbaatar",
+      "topic": "Choijin Lama Temple Museum",
+      "category": "attraction",
+      "query": "Choijin Lama Temple Museum Ulaanbaatar"
+    },
+    {
+      "country": "Mongolia",
+      "region": "Ulaanbaatar",
+      "topic": "National Museum of Mongolia",
+      "category": "attraction",
+      "query": "National Museum of Mongolia Ulaanbaatar"
+    },
+    {
+      "country": "Mongolia",
+      "region": "Ulaanbaatar",
+      "topic": "Central Museum of Mongolian Dinosaurs",
+      "category": "attraction",
+      "query": "Central Museum of Mongolian Dinosaurs Ulaanbaatar"
+    },
+    {
+      "country": "Mongolia",
+      "region": "Ulaanbaatar",
+      "topic": "Zanabazar Museum of Fine Arts",
+      "category": "hidden-gem",
+      "query": "Zanabazar Museum of Fine Arts Ulaanbaatar"
+    },
+    {
+      "country": "Mongolia",
+      "region": "Ulaanbaatar",
+      "topic": "Dashchoilin Monastery",
+      "category": "hidden-gem",
+      "query": "Dashchoilin Monastery Ulaanbaatar"
+    },
+    {
+      "country": "Mongolia",
+      "region": "Ulaanbaatar",
+      "topic": "Narantuul Market",
+      "category": "hidden-gem",
+      "query": "Narantuul Market Ulaanbaatar"
+    },
+    {
+      "country": "Mongolia",
+      "region": "Ulaanbaatar",
+      "topic": "State Department Store",
+      "category": "trendy",
+      "query": "State Department Store Ulaanbaatar Peace Avenue"
+    },
+    {
+      "country": "Mongolia",
+      "region": "Terelj",
+      "topic": "Turtle Rock",
+      "category": "attraction",
+      "query": "Turtle Rock Gorkhi-Terelj National Park Mongolia"
+    },
+    {
+      "country": "Mongolia",
+      "region": "Terelj",
+      "topic": "Aryabal Meditation Temple",
+      "category": "attraction",
+      "query": "Aryapala Meditation Temple Terelj Mongolia"
+    },
+    {
+      "country": "Mongolia",
+      "region": "Terelj",
+      "topic": "Gorkhi-Terelj National Park",
+      "category": "attraction",
+      "query": "Gorkhi-Terelj National Park Mongolia"
+    },
+    {
+      "country": "Mongolia",
+      "region": "Tsonjin Boldog",
+      "topic": "Chinggis Khaan Equestrian Statue",
+      "category": "attraction",
+      "query": "Chinggis Khaan Statue Complex Tsonjin Boldog Mongolia"
+    },
+    {
+      "country": "Mongolia",
+      "region": "Khustai National Park",
+      "topic": "Khustai National Park",
+      "category": "attraction",
+      "query": "Hustai National Park visitor center Mongolia"
+    },
+    {
+      "country": "Mongolia",
+      "region": "Kharkhorin",
+      "topic": "Erdene Zuu Monastery",
+      "category": "attraction",
+      "query": "Erdene Zuu Monastery Kharkhorin Mongolia"
+    },
+    {
+      "country": "Mongolia",
+      "region": "Kharkhorin",
+      "topic": "Kharakhorum Museum",
+      "category": "attraction",
+      "query": "Kharakhorum Museum Kharkhorin Mongolia"
+    },
+    {
+      "country": "Mongolia",
+      "region": "Kharkhorin",
+      "topic": "Karakorum Turtle Rock",
+      "category": "hidden-gem",
+      "query": "Turtle Rock Kharkhorin Karakorum Mongolia"
+    },
+    {
+      "country": "Mongolia",
+      "region": "Tsetserleg",
+      "topic": "Zayain Gegeenii Süm",
+      "category": "attraction",
+      "query": "Zayain Gegeenii Sum Monastery Museum Tsetserleg Arkhangai"
+    },
+    {
+      "country": "Mongolia",
+      "region": "Lake Khuvsgul",
+      "topic": "Lake Khövsgöl",
+      "category": "attraction",
+      "query": "Lake Khuvsgul Khatgal Mongolia"
+    },
+    {
+      "country": "Mongolia",
+      "region": "Lake Khuvsgul",
+      "topic": "Khatgal",
+      "category": "hidden-gem",
+      "query": "Khatgal village Khuvsgul Mongolia"
+    },
+    {
+      "country": "Mongolia",
+      "region": "Murun",
+      "topic": "Uushigiin Uver Deer Stones",
+      "category": "hidden-gem",
+      "query": "Uushigiin Uver deer stones Murun Mongolia"
+    },
+    {
+      "country": "Mongolia",
+      "region": "Dalanzadgad",
+      "topic": "Gobi Museum of Nature and History",
+      "category": "hidden-gem",
+      "query": "South Gobi Museum of Nature and History Dalanzadgad"
+    },
+    {
+      "country": "Mongolia",
+      "region": "Gobi Gurvansaikhan National Park",
+      "topic": "Khongoryn Els",
+      "category": "attraction",
+      "query": "Khongoryn Els sand dunes Gobi Mongolia"
+    },
+    {
+      "country": "Mongolia",
+      "region": "Gobi Gurvansaikhan National Park",
+      "topic": "Yolyn Am",
+      "category": "attraction",
+      "query": "Yolyn Am ice canyon Gobi Gurvansaikhan Mongolia"
+    },
+    {
+      "country": "Mongolia",
+      "region": "Erdenet",
+      "topic": "Friendship Monument",
+      "category": "hidden-gem",
+      "query": "Friendship Monument Erdenet Mongolia"
+    },
+    {
+      "country": "Mongolia",
+      "region": "Darkhan",
+      "topic": "Kharagiin Monastery",
+      "category": "hidden-gem",
+      "query": "Kharagiin Monastery Darkhan Mongolia"
+    },
+    {
+      "country": "Mongolia",
+      "region": "Olgii",
+      "topic": "Olgii Central Mosque",
+      "category": "hidden-gem",
+      "query": "Ulgii Central Mosque Bayan-Olgii Mongolia"
     }
   ]
 }

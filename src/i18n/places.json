@@ -629,6 +629,12 @@
     "es": "Daegu",
     "zh": "大邱"
   },
+  "Dalanzadgad": {
+    "ko": "달란자드가드",
+    "ja": "ダランザドガド",
+    "es": "Dalanzadgad",
+    "zh": "达兰扎达加德"
+  },
   "Dallas": {
     "ko": "댈러스",
     "ja": "ダラス",
@@ -646,6 +652,12 @@
     "ja": "丹陽",
     "es": "Danyang",
     "zh": "丹阳"
+  },
+  "Darkhan": {
+    "ko": "다르항",
+    "ja": "ダルハン",
+    "es": "Darkhan",
+    "zh": "达尔汗"
   },
   "Darwin": {
     "ko": "다윈",
@@ -742,6 +754,12 @@
     "ja": "エルニド",
     "es": "El Nido",
     "zh": "艾尔尼多"
+  },
+  "Erdenet": {
+    "ko": "에르데네트",
+    "ja": "エルデネト",
+    "es": "Erdenet",
+    "zh": "额尔登特"
   },
   "Fergana": {
     "ko": "페르가나",
@@ -880,6 +898,12 @@
     "ja": "ゴア",
     "es": "Goa",
     "zh": "果阿"
+  },
+  "Gobi Gurvansaikhan National Park": {
+    "ko": "고비 구르반사이한 국립공원",
+    "ja": "ゴビ・グルワンサイハン国立公園",
+    "es": "Parque Nacional Gobi Gurvansaikhan",
+    "zh": "戈壁古尔班赛罕国家公园"
   },
   "Gold Coast": {
     "ko": "골드코스트",
@@ -1283,11 +1307,29 @@
     "es": "Kep",
     "zh": "白马市"
   },
+  "Kharkhorin": {
+    "ko": "하르호린",
+    "ja": "ハラホリン",
+    "es": "Kharkhorin",
+    "zh": "哈拉和林"
+  },
   "Khiva": {
     "ko": "히바",
     "ja": "ヒヴァ",
     "es": "Jiva",
     "zh": "希瓦"
+  },
+  "Khovd": {
+    "ko": "호브드",
+    "ja": "ホブド",
+    "es": "Khovd",
+    "zh": "科布多"
+  },
+  "Khustai National Park": {
+    "ko": "후스타이 국립공원",
+    "ja": "フスタイ国立公園",
+    "es": "Parque Nacional Khustai",
+    "zh": "呼斯台国家公园"
   },
   "Kobe": {
     "ko": "고베",
@@ -1408,6 +1450,12 @@
     "ja": "ラブアンバジョ",
     "es": "Labuan Bajo",
     "zh": "拉布安巴焦"
+  },
+  "Lake Khuvsgul": {
+    "ko": "흡스굴 호수",
+    "ja": "フブスグル湖",
+    "es": "Lago Khuvsgul",
+    "zh": "库苏古尔湖"
   },
   "Langkawi": {
     "ko": "랑카위",
@@ -1613,6 +1661,12 @@
     "es": "Marsella",
     "zh": "马赛"
   },
+  "Matsuyama": {
+    "ko": "마쓰야마",
+    "ja": "松山",
+    "es": "Matsuyama",
+    "zh": "松山"
+  },
   "Medan": {
     "ko": "메단",
     "ja": "メダン",
@@ -1667,6 +1721,12 @@
     "es": "Mong Kok",
     "zh": "旺角"
   },
+  "Mongolia": {
+    "ko": "몽골",
+    "ja": "モンゴル",
+    "es": "Mongolia",
+    "zh": "蒙古"
+  },
   "Mont Saint-Michel": {
     "ko": "몽생미셸",
     "ja": "モン・サン・ミッシェル",
@@ -1714,6 +1774,12 @@
     "ja": "ミュンヘン",
     "es": "Múnich",
     "zh": "慕尼黑"
+  },
+  "Murun": {
+    "ko": "무릉",
+    "ja": "ムルン",
+    "es": "Murun",
+    "zh": "木伦"
   },
   "Málaga": {
     "ko": "말라가",
@@ -1877,11 +1943,23 @@
     "es": "Oaxaca",
     "zh": "瓦哈卡"
   },
+  "Okayama": {
+    "ko": "오카야마",
+    "ja": "岡山",
+    "es": "Okayama",
+    "zh": "冈山"
+  },
   "Okinawa": {
     "ko": "오키나와",
     "ja": "沖縄",
     "es": "Okinawa",
     "zh": "冲绳"
+  },
+  "Olgii": {
+    "ko": "울기",
+    "ja": "ウルギー",
+    "es": "Olgii",
+    "zh": "乌列盖"
   },
   "Orchard Road": {
     "ko": "오차드로드",
@@ -2519,6 +2597,12 @@
     "es": "Taiyuan",
     "zh": "太原"
   },
+  "Takamatsu": {
+    "ko": "다카마쓰",
+    "ja": "高松",
+    "es": "Takamatsu",
+    "zh": "高松"
+  },
   "Takayama": {
     "ko": "다카야마",
     "ja": "高山",
@@ -2548,6 +2632,12 @@
     "ja": "テンピ",
     "es": "Tempe",
     "zh": "坦佩"
+  },
+  "Terelj": {
+    "ko": "테렐지",
+    "ja": "テレルジ",
+    "es": "Terelj",
+    "zh": "特勒吉"
   },
   "Termez": {
     "ko": "테르메즈",
@@ -2621,6 +2711,12 @@
     "es": "Trường Yên",
     "zh": "长安（长安镇）"
   },
+  "Tsetserleg": {
+    "ko": "체체를렉",
+    "ja": "ツェツェルレグ",
+    "es": "Tsetserleg",
+    "zh": "车车尔勒格"
+  },
   "Tseung Kwan O": {
     "ko": "쩡관아오",
     "ja": "将軍澗",
@@ -2632,6 +2728,12 @@
     "ja": "尖沙咀",
     "es": "Tsim Sha Tsui",
     "zh": "尖沙咀"
+  },
+  "Tsonjin Boldog": {
+    "ko": "천진벌덕",
+    "ja": "ツォンジン・ボルドグ",
+    "es": "Tsonjin Boldog",
+    "zh": "宗金博尔多格"
   },
   "Tulum": {
     "ko": "툴룸",
@@ -2662,6 +2764,12 @@
     "ja": "ウダイプル",
     "es": "Udaipur",
     "zh": "乌代浦尔"
+  },
+  "Ulaanbaatar": {
+    "ko": "울란바토르",
+    "ja": "ウランバートル",
+    "es": "Ulán Bator",
+    "zh": "乌兰巴托"
   },
   "Uluwatu": {
     "ko": "울루와투",
@@ -2830,23 +2938,5 @@
     "ja": "張家界",
     "es": "Zhangjiajie",
     "zh": "张家界"
-  },
-  "Matsuyama": {
-    "ko": "마쓰야마",
-    "ja": "松山",
-    "es": "Matsuyama",
-    "zh": "松山"
-  },
-  "Takamatsu": {
-    "ko": "다카마쓰",
-    "ja": "高松",
-    "es": "Takamatsu",
-    "zh": "高松"
-  },
-  "Okayama": {
-    "ko": "오카야마",
-    "ja": "岡山",
-    "es": "Okayama",
-    "zh": "冈山"
   }
 }
