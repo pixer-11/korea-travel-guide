@@ -32326,11 +32326,11 @@
   "at": "2026-10-10T13:56:01.101Z"
  },
  "es/matsuyama-ehime-museum-of-art": {
-  "hash": "421046389204",
+  "hash": "5721e62911cf",
   "score": 1,
   "registerBreak": false,
-  "worst": "De martes a domingo abre a las 9:40am y cierra a las 6pm, con el mismo horario todos los días.",
-  "at": "2026-10-10T15:02:27.982Z"
+  "worst": "...las puertas se abren a las 9:40am y se cierran a las 6pm.",
+  "at": "2026-10-10T20:25:30.738Z"
  },
  "ja/matsuyama-dogo-onsen-main-building": {
   "hash": "deb52f95b924",
@@ -32340,18 +32340,18 @@
   "at": "2026-10-10T15:02:34.359Z"
  },
  "ja/matsuyama-ehime-museum-of-art": {
-  "hash": "ea19a7ccb085",
+  "hash": "b800e51597ca",
   "score": 1,
   "registerBreak": false,
-  "worst": "あまり知られていない魅力が、ワークショップです。",
-  "at": "2026-10-10T15:02:35.429Z"
+  "worst": "住所表記によると、入口は新館の1階にあります。公園を横切って入口を探すときに、覚えておくと役立ちます。",
+  "at": "2026-10-10T20:25:46.037Z"
  },
  "ja/matsuyama-matsuyama-castle": {
-  "hash": "caf40c9ddf8e",
+  "hash": "6d165531b545",
   "score": 0,
   "registerBreak": false,
   "worst": "",
-  "at": "2026-10-10T15:02:36.516Z"
+  "at": "2026-10-10T20:25:46.938Z"
  },
  "ko/matsuyama-dogo-onsen-main-building": {
   "hash": "4de60f076b3c",
@@ -32361,18 +32361,18 @@
   "at": "2026-10-10T15:02:43.302Z"
  },
  "ko/matsuyama-ehime-museum-of-art": {
-  "hash": "5319a8a7e9b1",
+  "hash": "eb1dfe93a060",
   "score": 1,
   "registerBreak": false,
-  "worst": "주소를 보면 입구는 신관 1층에 있습니다. 공원을 가로지르며 입구를 찾을 때 알아 두면 도움이 됩니다.",
-  "at": "2026-10-10T15:02:44.792Z"
+  "worst": "한 건물 안에서 두 가지 방식의 관람을 즐길 수 있다고 생각하고 계획을 세우시기 바랍니다.",
+  "at": "2026-10-10T20:25:55.210Z"
  },
  "ko/matsuyama-matsuyama-castle": {
-  "hash": "19aa64dc12c6",
+  "hash": "5557b3f7a11c",
   "score": 1,
   "registerBreak": false,
-  "worst": "산비탈과 나 사이를 가로막는 것은 무릎 앞의 안전 바 하나뿐입니다.",
-  "at": "2026-10-10T15:02:53.246Z"
+  "worst": "메이지 시대의 성곽 철거와 전쟁 중 공습 속에서도 에도 시대 건물을 온전히 지켜 낸 천수각은 이 12곳이 전부입니다.",
+  "at": "2026-10-10T20:25:59.782Z"
  },
  "zh/matsuyama-dogo-onsen-main-building": {
   "hash": "feb63d83b319",
@@ -32382,18 +32382,18 @@
   "at": "2026-10-10T15:02:59.261Z"
  },
  "zh/matsuyama-ehime-museum-of-art": {
-  "hash": "4c1fa4ab138e",
+  "hash": "478b9d685002",
   "score": 1,
   "registerBreak": false,
-  "worst": "按编辑简介的说法，这里汇集了日本与海外的艺术作品。",
-  "at": "2026-10-10T15:03:05.407Z"
+  "worst": "按照地址，入口设在新馆一楼。穿过公园找入口时，记住这一点会省事不少。",
+  "at": "2026-10-10T20:26:06.612Z"
  },
  "zh/matsuyama-matsuyama-castle": {
-  "hash": "85978ed52ed8",
+  "hash": "292c2004525c",
   "score": 1,
   "registerBreak": false,
-  "worst": "天守阁每天9:00 AM开放，4:30 PM关闭，全年无休。",
-  "at": "2026-10-10T15:03:06.382Z"
+  "worst": "建造年代从细节上就能看出来，值得留意的有：",
+  "at": "2026-10-10T20:26:15.026Z"
  },
  "es/naoshima-chichu-art-museum": {
   "hash": "90084f8e5aea",
@@ -32478,5 +32478,40 @@
   "registerBreak": false,
   "worst": "所以别拿钢笔或水笔写生",
   "at": "2026-10-10T16:06:59.128Z"
+ },
+ "es/matsuyama-matsuyama-castle": {
+  "hash": "a8d8d31aff08",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Entre semana, la franja más tranquila va de 9am a 10am.",
+  "at": "2026-10-10T20:25:35.434Z"
+ },
+ "es/matsuyama-matsuyama-general-park": {
+  "hash": "0ba15b8fb8fb",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "En transporte público, puede tomar la línea Takahama de Iyotetsu hasta la estación",
+  "at": "2026-10-10T20:26:57.535Z"
+ },
+ "ja/matsuyama-matsuyama-general-park": {
+  "hash": "b857c1a3ab94",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "自撮りのために枝を引き寄せると、冷ややかな視線を浴びることになります。",
+  "at": "2026-10-10T20:25:48.058Z"
+ },
+ "ko/matsuyama-matsuyama-general-park": {
+  "hash": "04cdbf0b3699",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "언덕을 오른 보람은 탁 트인 공간에 있습니다.",
+  "at": "2026-10-10T20:26:05.485Z"
+ },
+ "zh/matsuyama-matsuyama-general-park": {
+  "hash": "3417034add93",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "想弄明白这座城市如何夹在群山与大海之间，没有比这里更好的地方了。",
+  "at": "2026-10-10T20:26:21.958Z"
  }
 }

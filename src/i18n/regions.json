@@ -11546,5 +11546,32 @@
       "getting": "多数旅行者选择乘火车前往:从大阪出发,先搭乘新干线到冈山,再换乘JR\"濑户大桥线\"(Marine Liner)抵达JR高松站,全程大约需要2到3小时。高松机场(TAK)也有国内航线及少量国际航班,机场巴士可直达市区。",
       "days": "建议安排约2天行程:足够游览栗林公园、在拱廊商店街里来一场乌冬面巡礼,再花半天时间乘渡轮前往附近的某座艺术岛屿。"
     }
+  },
+  "Naoshima": {
+    "en": {
+      "blurb": "Naoshima is a small island in the Seto Inland Sea that has transformed itself into one of the world's most concentrated open-air art destinations, blending Tadao Ando-designed museums, James Turrell installations and Yayoi Kusama's giant polka-dot pumpkin into a landscape of fishing villages and quiet coastline. It rewards slow travel: visitors cycle between galleries, converted bathhouses and outdoor sculptures scattered across a place still shaped by its everyday rhythms as a Setouchi fishing community.",
+      "getting": "Naoshima has no airport of its own; the nearest is Takamatsu Airport (TAK), from which travellers continue by bus or train to a ferry port. Most visitors reach the island by ferry from either Uno Port near Okayama (~20 minutes) or Takamatsu Port on Shikoku (~50 minutes, or ~25 minutes by high-speed boat), both arriving at Miyanoura Port.",
+      "days": "Plan on ~2 days to take in the main museums, art houses and a couple of villages at an unrushed pace, or a single long day if you are focusing only on one or two sites near Miyanoura."
+    },
+    "ko": {
+      "blurb": "나오시마는 세토 내해에 떠 있는 작은 섬으로, 안도 다다오가 설계한 미술관들과 제임스 터렐의 설치 작품, 쿠사마 야요이의 거대한 땡땡이 호박 조각을 어촌 마을과 고요한 해안 풍경 속에 녹여내며 세계에서 가장 밀도 높은 야외 미술 여행지로 거듭났다. 이곳은 느긋하게 돌아볼수록 매력이 커지는 곳이다. 방문객들은 자전거를 타고 갤러리와 옛 목욕탕을 개조한 공간, 섬 곳곳에 흩어진 야외 조각 작품들을 오가며, 여전히 세토우치 어촌 특유의 일상적인 리듬이 살아 있는 풍경을 만나게 된다.",
+      "getting": "나오시마에는 자체 공항이 없으며, 가장 가까운 공항은 다카마쓰 공항(TAK)으로, 이곳에서 버스나 기차를 타고 페리 선착장까지 이동해야 한다. 대부분의 방문객은 오카야마 인근의 우노항(약 20분)이나 시코쿠의 다카마쓰항(일반 페리 약 50분, 고속선 약 25분)에서 출발하는 페리를 이용해 섬에 도착하며, 두 항로 모두 미야노우라항에 닿는다.",
+      "days": "여유롭게 주요 미술관과 아트 하우스, 한두 개의 마을까지 둘러보려면 약 2일 정도를 잡는 것이 좋다. 미야노우라 인근의 한두 곳만 집중적으로 볼 계획이라면 하루 종일 알차게 보내는 일정도 가능하다."
+    },
+    "ja": {
+      "blurb": "直島は瀬戸内海に浮かぶ小さな島でありながら、世界でも有数の密度を誇る野外アートの聖地へと姿を変えた場所です。安藤忠雄が手がけた美術館群、ジェームズ・タレルのインスタレーション、草間彌生の巨大な水玉模様のかぼちゃなどが、漁村の風景や穏やかな海岸線に溶け込むように点在しています。じっくりと時間をかけて巡ってこそ魅力が増す島で、訪れる人々は自転車を使い、ギャラリーや銭湯を改装した施設、屋外彫刻などを巡りながら、今なお瀬戸内の漁師町としての日常の営みが息づく土地の空気を味わうことができます。",
+      "getting": "直島には空港がなく、最寄りの空港は高松空港(TAK)です。そこからバスや電車でフェリー乗り場へ向かうことになります。多くの旅行者は、岡山側の宇野港(所要約20分)、または四国の高松港(フェリーで約50分、高速船なら約25分)からフェリーに乗り、どちらも宮浦港に到着します。",
+      "days": "主要な美術館やアートハウス、いくつかの集落をゆったりと巡るなら2日程度を見込んでおくとよいでしょう。宮浦港周辺の1〜2か所に絞って訪れるだけなら、長めの1日でも十分楽しめます。"
+    },
+    "es": {
+      "blurb": "Naoshima es una pequeña isla en el Mar Interior de Seto que se ha convertido en uno de los destinos de arte al aire libre más concentrados del mundo, combinando museos diseñados por Tadao Ando, instalaciones de James Turrell y la gigante calabaza de lunares de Yayoi Kusama con un paisaje de pueblos pesqueros y costas tranquilas. Es una isla que premia los viajes sin prisa: los visitantes se desplazan en bicicleta entre galerías, antiguas casas de baños reconvertidas y esculturas al aire libre repartidas por un lugar que todavía conserva el ritmo cotidiano de una comunidad pesquera de Setouchi.",
+      "getting": "Naoshima no tiene aeropuerto propio; el más cercano es el Aeropuerto de Takamatsu (TAK), desde donde los viajeros continúan en autobús o tren hasta un puerto de ferris. La mayoría de los visitantes llega a la isla en ferry desde el Puerto de Uno, cerca de Okayama (unos 20 minutos), o desde el Puerto de Takamatsu en Shikoku (unos 50 minutos, o unos 25 minutos en barco de alta velocidad), ambos con llegada al Puerto de Miyanoura.",
+      "days": "Conviene reservar unos 2 días para recorrer con calma los principales museos, casas de arte y un par de pueblos, o bien un solo día largo si solo se quiere visitar uno o dos lugares cerca de Miyanoura."
+    },
+    "zh": {
+      "blurb": "直岛是濑户内海上的一座小岛，如今已蜕变为世界上艺术密度最高的露天艺术胜地之一。安藤忠雄设计的美术馆、詹姆斯·特瑞尔的光影装置，以及草间弥生那只巨大的波点南瓜，与渔村风情和静谧海岸线交融在一起，构成了一幅独特的风景。这里最适合慢慢游览：游客们骑着自行车穿梭于各个美术馆、由老澡堂改造的艺术空间，以及散落各处的户外雕塑之间，而这一切，依旧保留着濑户内渔村日常生活的质朴节奏。",
+      "getting": "直岛本身没有机场，最近的机场是高松机场（TAK），从那里可以转乘巴士或电车前往渡轮码头。大多数游客选择乘坐渡轮前往直岛，可从冈山附近的宇野港出发（约20分钟），也可从四国的高松港出发（普通船约50分钟，高速船约25分钟），两条航线均抵达宫浦港。",
+      "days": "如果想不紧不慢地游览主要美术馆、艺术之家以及一两个村落，建议安排约2天时间；若只想参观宫浦港附近的一两个景点，安排一整天也足够了。"
+    }
   }
 }
