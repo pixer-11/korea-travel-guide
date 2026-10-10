@@ -32233,5 +32233,89 @@
   "registerBreak": false,
   "worst": "由于人气太旺，周末晚上和中国公众假期人流最多，观光缆车的队伍和餐厅订位都会最先爆满。",
   "at": "2026-10-09T14:31:31.242Z"
+ },
+ "es/belfast-cave-hill-country-park": {
+  "hash": "62d82d2cc44b",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Las cuevas: son cinco y fueron excavadas por la mano del hombre en el acantilado, quizá par",
+  "at": "2026-10-10T07:46:42.456Z"
+ },
+ "es/belfast-peace-wall-belfast": {
+  "hash": "ab82cd3467cc",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Considere el horario indicado, de 7am a 7pm, como el periodo en que la zona está abierta...",
+  "at": "2026-10-10T07:46:50.835Z"
+ },
+ "es/berlin-alexanderplatz": {
+  "hash": "388b6d54f398",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-10T07:46:51.807Z"
+ },
+ "ja/belfast-cave-hill-country-park": {
+  "hash": "f1810089a725",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "もっとも空いている時間帯は8時〜20時、もっとも混む時間帯は10時〜20時とされています。",
+  "at": "2026-10-10T07:46:58.521Z"
+ },
+ "ja/belfast-peace-wall-belfast": {
+  "hash": "71fcda79f4f8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "この界隈では、セルティックやレンジャーズのシャツが宗派的な意味を帯びます。",
+  "at": "2026-10-10T07:47:08.913Z"
+ },
+ "ja/berlin-alexanderplatz": {
+  "hash": "4a84acf8a606",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-10T07:47:09.949Z"
+ },
+ "ko/belfast-cave-hill-country-park": {
+  "hash": "6dd1ac847823",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "가장 한산한 시간대는 오전 8시~오후 8시, 가장 붐비는 시간대는 오전 10시~오후 8시였습니다.",
+  "at": "2026-10-10T07:47:15.849Z"
+ },
+ "ko/belfast-peace-wall-belfast": {
+  "hash": "59f37e61b3a9",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "안내된 7am~7pm은 이 일대가 열려 있고 사람들이 오가는 시간대로 여기시고, 방문 일정도 그 안에서 잡으시기 바랍니다.",
+  "at": "2026-10-10T07:47:23.912Z"
+ },
+ "ko/berlin-alexanderplatz": {
+  "hash": "9e2030b30ad6",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "공식적으로 무신론을 내세운 국가로서는 전혀 의도하지 않은 결과였습니다.",
+  "at": "2026-10-10T07:47:30.165Z"
+ },
+ "zh/belfast-cave-hill-country-park": {
+  "hash": "5aeb1ec192b0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "最清静的时段是8am–8pm，最拥挤的时段是10am–8pm",
+  "at": "2026-10-10T07:48:20.389Z"
+ },
+ "zh/belfast-peace-wall-belfast": {
+  "hash": "7fbc2464fc8e",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "公布的早上7点至晚上7点，可以视为这一带开放、有人气的时段，游览请安排在这个时间范围内。",
+  "at": "2026-10-10T07:47:41.899Z"
+ },
+ "zh/berlin-alexanderplatz": {
+  "hash": "be1fe12597d0",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "广场上设有警务站，人称“亚历山大警务站”（Alexwache），足见市政府对此的重视。",
+  "at": "2026-10-10T07:47:43.578Z"
  }
 }

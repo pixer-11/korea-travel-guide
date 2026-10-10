@@ -1,3 +1,4 @@
+SKIP new city "Lyon" — weekly new-city cap (2/7d) reached
 SKIP new city "Macau" — weekly new-city cap (2/7d) reached
 SKIP new city "Macau Peninsula" — weekly new-city cap (2/7d) reached
 SKIP new city "San Francisco" — weekly new-city cap (2/7d) reached
@@ -20,6 +21,11 @@ Bali, Indonesia — 13 qualifying post(s), variants: 3
 Barcelona, Spain — 15 qualifying post(s), variants: 3
   = Barcelona 3d — unchanged, skipping
 
+Brighton, United Kingdom — 12 qualifying post(s), variants: 3
+  ⚠ Brighton 3d — guard found 1 hours/price + 0 rain-leak issue(s) on first pass; retrying once
+  ⚠ Brighton 3d — validator found 1 prose-fixable issue(s); correcting once
+NEW_ITINERARY: Brighton 3d
+
 Busan, South Korea — 13 qualifying post(s), variants: 3
   = Busan 3d — unchanged, skipping
 
@@ -35,9 +41,6 @@ Istanbul, Turkey — 12 qualifying post(s), variants: 3
 
 Los Angeles, United States — 16 qualifying post(s), variants: 3
   = Los Angeles 3d — unchanged, skipping
-
-Lyon, France — 15 qualifying post(s), variants: 3
-  · Lyon 3d — skipped: day 2 totals only 219 min (floor 240) and no further sight can be added to it
 
 New Orleans, United States — 17 qualifying post(s), variants: 3
   = New Orleans 3d — unchanged, skipping
@@ -55,7 +58,7 @@ Singapore, Singapore — 78 qualifying post(s), variants: 3, 5
   = Singapore 3d — unchanged, skipping
   = Singapore 5d — unchanged, skipping
 
-Done. Nothing changed.
+Done.
 
 🗺️  Un-park: 0 republished · 0 still held
 UNPARK_SUMMARY freed=0 held=0

@@ -1,66 +1,66 @@
 ---
 lang: es
 slug: nagasaki-nagasaki-kunchi
-srcHash: '2facac0cc1fb'
-title: 'Nagasaki Kunchi: Fechas, entradas y sede (Nagasaki)'
-description: El Nagasaki Kunchi se celebra en Nagasaki, Japón, del 7 al 9 de octubre de 2026. Qué es, cuándo y dónde se celebra, y cómo organizar la visita.
-quickAnswer: El Nagasaki Kunchi 2026 se celebra del 7 al 9 de octubre en el santuario Suwa (Suwa Shrine), en Nagasaki, aunque también hay actuaciones en el Otabisho y en la plaza Kokaido, en pleno centro de la ciudad. Los detalles sobre los asientos de pago y las zonas de visualización reservada se publican en los sitios oficiales del Nagasaki Kunchi y de turismo de la ciudad de Nagasaki, así que conviene confirmar allí las fechas exactas, la disposición de cada sede y las entradas antes de reservar el viaje. Las mayores aglomeraciones suelen darse en las funciones de mediodía del 7 y el 9 de octubre, cuando el recinto del santuario se llena antes que en ningún otro momento.
+srcHash: '78974116da05'
+title: 'Nagasaki Kunchi: fechas, entradas y recintos (Nagasaki)'
+description: Las fechas anunciadas para el Nagasaki Kunchi, en Nagasaki (Japón), eran del 7 al 9 de octubre de 2026. El santuario Suwa era el centro del festival, con actuaciones también en Otabisho y en la plaza Kokaido.
+quickAnswer: Las fechas anunciadas para el Nagasaki Kunchi 2026 eran del 7 al 9 de octubre. El escenario principal era el santuario Suwa (Suwa Shrine), en Nagasaki, y Otabisho y la plaza Kokaido (Kokaido Plaza), en pleno centro, acogían otras actuaciones. En el santuario Suwa había asientos de pago y localidades reservadas, mientras que en otros puntos de la ciudad las actuaciones podían verse gratis desde la calle. En este festival, el recinto del santuario suele llenarse antes que ningún otro lugar con las actuaciones de mediodía de los días 7 y 9 de octubre.
 faq:
-  - q: ¿Cuándo se celebra exactamente el Nagasaki Kunchi en 2026?
-    a: El festival tiene lugar del 7 al 9 de octubre de 2026, con actuaciones repartidas entre el santuario Suwa, el Otabisho y la plaza Kokaido. Conviene confirmar el programa día a día en el sitio oficial del Nagasaki Kunchi, ya que los horarios de las funciones varían según la sede y la jornada.
-  - q: ¿Cuál es el mejor lugar para verlo gratis?
-    a: El Otabisho y la plaza Kokaido ofrecen zonas de visualización gratuita a pie de calle mientras pasan las procesiones, y las escalinatas y terrazas de piedra alrededor del santuario Suwa también sirven como puntos de observación sin entrada una vez que se llenan las zonas de asientos principales.
-  - q: ¿Hace falta entrada para el santuario Suwa?
-    a: Los asientos principales para las actuaciones en el santuario Suwa son reservados o de pago, a diferencia de las zonas de visualización gratuita que hay en otros puntos de la ciudad. Conviene revisar el sitio oficial para conocer la disposición de asientos y las entradas vigentes.
-  - q: ¿Cómo se va de una sede a otra del festival?
-    a: La red de tranvías de Nagasaki conecta las galerías comerciales del centro, cerca de la plaza Kokaido y el Otabisho, con la zona situada al pie del santuario Suwa, y además la mayoría de los puntos se pueden recorrer a pie gracias a lo compacto del centro de la ciudad.
+  - q: ¿Qué fechas se anunciaron para el Nagasaki Kunchi 2026?
+    a: Las fechas fijadas eran del 7 al 9 de octubre de 2026, con actuaciones repartidas entre el santuario Suwa, Otabisho y la plaza Kokaido. Los horarios variaban según el recinto y el día.
+  - q: ¿Cuál era el mejor sitio para verlo gratis?
+    a: En Otabisho y en la plaza Kokaido, las comitivas podían verse gratis a pie de calle a su paso. Cuando se llenaban los asientos principales, las escalinatas de piedra y las terrazas que rodean el santuario Suwa servían también como miradores sin entrada.
+  - q: ¿Hacía falta entrada para el santuario Suwa?
+    a: Los asientos principales para las actuaciones del santuario Suwa eran de pago o con reserva. Nada tenían que ver con los puntos de observación gratuitos repartidos por el resto de la ciudad.
+  - q: ¿Cómo se iba de un recinto a otro?
+    a: El tranvía de Nagasaki une las galerías comerciales del centro, cercanas a la plaza Kokaido y a Otabisho, con la zona situada al pie del santuario Suwa. Como el centro de la ciudad es pequeño, a la mayoría de los recintos también se puede llegar andando.
   - q: ¿Se ven las mismas actuaciones todos los años?
-    a: No. Los antiguos barrios (kumi) de Nagasaki se turnan para presentar las danzas y las carrozas siguiendo un ciclo de varios años, así que el programa concreto de 2026 dependerá de qué distritos les toque actuar ese año.
+    a: No. Los barrios históricos de Nagasaki, llamados kumi, se turnan en ciclos de varios años para presentar las danzas y las carrozas. Por eso, el programa de 2026 dependía de los distritos a los que les correspondía actuar ese año.
 ---
 
-El Nagasaki Kunchi no es un único espectáculo en un único lugar. Durante tres días, del 7 al 9 de octubre de 2026, el festival se desplaza por la ciudad entre el santuario Suwa (Suwa Shrine), el santuario de descanso Otabisho, cerca de la galería cubierta, y el escenario al aire libre de la plaza Kokaido (Kokaido Plaza); cada sede tiene su propio público y su propia perspectiva sobre unas mismas actuaciones.
+El Nagasaki Kunchi no se reduce a un único espectáculo en un único lugar. Las fechas anunciadas para la edición de 2026 eran del 7 al 9 de octubre: tres días de recorrido por la ciudad entre el santuario Suwa (Suwa Shrine), el santuario de reposo de Otabisho, junto a la galería comercial cubierta, y el escenario al aire libre de la plaza Kokaido (Kokaido Plaza). Cada uno de estos lugares reúne a su propio público y ofrece una perspectiva distinta de las mismas actuaciones.
 
 ## Qué es realmente el festival
 
-Kunchi significa "el noveno día", en referencia a la fecha del antiguo calendario lunar en que solía caer el festival, que se celebra de una u otra forma desde el siglo XVII. Lo que lo distingue de otros festivales sintoístas de otoño en Japón es la mezcla cultural que llevan incorporada sus propias actuaciones.
+*Kunchi* significa «el noveno día». El nombre alude a la fecha del antiguo calendario lunar en que se celebraba antiguamente el festival, que existe de una forma u otra desde el siglo XVII. Entre los festivales sintoístas del otoño japonés, lo que lo distingue es la mezcla de influencias que impregna sus propias actuaciones.
 
-Durante siglos, Nagasaki fue el único puerto de Japón abierto al mundo exterior, y las danzas del Kunchi lo reflejan. Se pueden ver danzas del dragón de clara herencia china, carrozas con influencia holandesa y procesiones que evocan los barcos mercantes portugueses, todo ello junto a rituales sintoístas más convencionales. Ningún otro matsuri japonés bebe de una mezcla semejante.
+Durante siglos, Nagasaki fue el único puerto de Japón abierto al exterior, y las danzas del Kunchi lo reflejan. Junto a los ritos sintoístas más habituales, el festival incluye danzas del dragón de clara ascendencia china, carrozas de inspiración holandesa y comitivas que evocan los barcos mercantes portugueses. Ningún otro *matsuri* japonés reúne exactamente esta combinación.
 
-## Los barrios rotativos: por qué el espectáculo cambia cada año
+## Los barrios que se turnan: por qué el espectáculo cambia cada año
 
-Este es el detalle que suele desconcertar a quien visita el festival por primera vez: el Nagasaki Kunchi no repite el mismo programa cada año. Los antiguos barrios de la ciudad, llamados *kumi*, se turnan para presentar las danzas y carrozas del festival siguiendo un ciclo de varios años, de modo que las actuaciones concretas de 2026 dependerán de qué barrios les toque actuar ese año.
+Hay un detalle que desconcierta a quienes acuden por primera vez: el Nagasaki Kunchi no repite el mismo programa cada año. Los distritos históricos de la ciudad, llamados *kumi*, se turnan en ciclos de varios años para presentar las danzas y las carrozas. Las actuaciones concretas de 2026 dependían de los barrios a los que les tocaba participar.
 
-Cada kumi participante ensaya durante meses y aporta su pieza distintiva, ya sea una danza del dragón, una carroza en forma de barco arrastrada a mano o una unidad de desfile de estilo holandés. Esa rotación explica también por qué los vecinos vuelven año tras año en lugar de considerar que "ya lo han visto". Para saber qué barrios actuarán en 2026, hay que consultar ese dato con la organización oficial del festival, ya que no existe un guion anual fijo.
+Cada *kumi* participante ensaya durante meses y aporta su propia pieza emblemática: puede ser una danza del dragón, una carroza con forma de barco arrastrada a mano o una sección del desfile de estilo holandés. Gracias a esta rotación, los vecinos vuelven año tras año en lugar de considerarlo algo que basta con ver una vez. La relación de distritos para 2026 la decidían los organizadores del festival, sin ajustarse a ningún guion anual fijo.
 
 ## El santuario Suwa: el escenario principal
 
-El santuario Suwa, al final de una larga escalinata de piedra en las colinas sobre el centro de Nagasaki, es el eje espiritual de todo el evento y el lugar donde tienen lugar sus actuaciones más solemnes. En su recinto se ubican las zonas de asientos reservados o de pago para las danzas principales, diferentes de la visualización gratuita disponible en otros puntos de la ciudad a pie de calle.
+En lo alto de una larga escalinata de piedra, sobre las colinas que dominan el centro de Nagasaki, el santuario Suwa es el eje espiritual de todo el festival y acoge sus actuaciones más solemnes. Para las danzas principales, el recinto dispone de zonas de asientos de pago o con reserva, a diferencia de las paradas a pie de calle del resto de la ciudad, donde el espectáculo puede verse gratis.
 
-Subir hasta el santuario requiere caminar un buen trecho; la escalinata de acceso forma parte de la experiencia, pero conviene calcular tiempo extra si se viaja en grupo o hay alguna limitación de movilidad. Llegar bien antes de la hora prevista de una actuación es la única forma real de conseguir una buena vista, ya que las zonas de asientos se llenan de delante hacia atrás.
+Subir hasta el santuario exige caminar un buen trecho. La escalinata de acceso forma parte de la experiencia, aunque los grupos y las personas con movilidad reducida la suben más despacio. Los asientos se van ocupando de delante hacia atrás, de modo que las mejores vistas suelen ser para quienes llegan con bastante antelación al comienzo de cada actuación.
 
-## Otabisho y la plaza Kokaido: donde se reúne el público gratuito
+## Otabisho y la plaza Kokaido: donde se concentra el público que no paga
 
-No todos los puntos de observación del Kunchi requieren entrada. El Otabisho, el "santuario de descanso" situado a mitad del recorrido procesional tradicional, y la plaza Kokaido acogen actuaciones más fáciles de alcanzar a pie desde el centro de Nagasaki, y suelen atraer multitudes densas pero manejables sin necesidad de entrada.
+No todos los puntos de observación del Kunchi exigen entrada. También hay actuaciones en Otabisho, el «santuario de reposo» situado a mitad del recorrido procesional tradicional, y en la plaza Kokaido. A ambos lugares se llega a pie con más facilidad desde el centro de Nagasaki, y suelen reunir a un público de pie numeroso, aunque llevadero.
 
-En estos puntos es donde se puede ver más de cerca las carrozas y las procesiones de danzas del dragón mientras recorren la ciudad, en lugar de presenciarlas desde un escenario fijo. Conviene prepararse para estar de pie largos ratos; si se piensa ocupar un sitio durante horas antes de que pase una procesión, es buena idea llevar algo para sentarse.
+En estos puntos, el espectador no contempla las actuaciones sobre un escenario fijo, sino que ve más de cerca las carrozas y las comitivas de la danza del dragón mientras recorren la ciudad. Aquí lo habitual es pasar mucho rato de pie, y los asiduos suelen llevar algo para sentarse mientras guardan el sitio durante horas a la espera de que pase una comitiva.
 
-## Cómo leer las escalinatas del santuario: encontrar sitio sin entrada
+## Las escalinatas del santuario: dónde situarse sin entrada
 
-La escalinata de piedra del santuario Suwa y las terrazas de su entorno no son solo un camino de acceso: también funcionan como espacio informal de observación. Los vecinos y quienes repiten visita suelen usar ciertos rellanos y escalones laterales como puntos de vista gratuitos una vez que se llenan las zonas de asientos de pago situadas más abajo.
+La escalinata de piedra del santuario Suwa y las terrazas que la rodean no son solo una vía de acceso: también funcionan como espacio informal para ver el festival. Cuando se llenan las zonas de asientos de pago situadas más abajo, los vecinos y los visitantes habituales utilizan algunos rellanos y escalones laterales como miradores gratuitos.
 
-- Llegar al menos una hora antes de la actuación prevista si se busca un sitio gratuito con buena vista hacia el escenario principal
-- Llevar un cojín ligero o un asiento plegable, ya que los escalones de piedra son duros y la espera se alarga
-- Dejar libre la escalinata central para el tránsito del personal y del santuario, situándose a los lados en lugar de bloquear el centro
-- Estar atento a las indicaciones del personal, que suele dirigir a las multitudes sobrantes hacia terrazas de observación secundarias durante las franjas de mayor afluencia
+- Los sitios gratuitos con vistas al escenario principal suelen quedarse para quienes llegan al menos una hora antes de cada actuación
+- Los asiduos llevan un cojín ligero o una esterilla plegable, porque los escalones de piedra son duros y las sesiones, largas
+- El centro de la escalinata principal se mantiene despejado para el paso de los fieles y del personal, y el público se coloca a los lados
+- En las franjas de mayor afluencia, el personal suele dirigir al público que no cabe hacia las terrazas secundarias
 
-## Cómo llegar y moverse entre las sedes
+## Cómo llegar y desplazarse entre los recintos
 
-Gracias a lo compacto del trazado urbano de Nagasaki, los puntos clave del festival quedan a poca distancia a pie entre sí y de la red de tranvías de la ciudad, una de las formas más sencillas de moverse durante el festival cuando las calles cercanas al santuario se llenan de gente. El santuario Suwa se encuentra al norte del centro urbano principal, mientras que la plaza Kokaido y el Otabisho están más cerca de las galerías comerciales y la zona del canal por donde ya suele pasar la mayoría de los visitantes.
+Nagasaki es una ciudad compacta, así que los principales escenarios del festival quedan a poca distancia a pie entre sí y de la red de tranvía. Durante el festival, cuando las calles próximas al santuario se llenan de peatones, el tranvía es una de las formas más cómodas de moverse. El santuario Suwa se encuentra al norte del núcleo principal del centro, mientras que la plaza Kokaido y Otabisho quedan más cerca de las galerías comerciales y de la zona del canal, por donde pasa ya la mayoría de los visitantes.
 
-Como el festival atrae visitantes de toda la región de Kyushu y de más allá durante estos tres días, es de esperar que el alojamiento y la capacidad de los tranvías de Nagasaki, habitualmente holgados, se noten más ajustados de lo normal para un fin de semana de otoño. Reservar alojamiento y confirmar la ruta entre sedes antes del 7 de octubre evita apuros una vez que llega la afluencia de público.
+El festival atrae durante sus tres días a visitantes de toda la isla de Kiushu y de más lejos, por lo que el alojamiento y el tranvía de Nagasaki suelen ir más justos que un fin de semana otoñal cualquiera.
 
-## Confirmar los detalles que cambian cada año
+## Los detalles que cambian de una edición a otra
 
-La estructura de las entradas, los asientos reservados en el santuario Suwa, los horarios exactos de cada jornada y qué barrios kumi actuarán en 2026 son aspectos gestionados directamente por la organización del festival y la oficina de turismo de la ciudad de Nagasaki. Conviene confirmar los horarios y las entradas en el sitio oficial antes de cerrar el viaje, ya que la disposición de los asientos y los programas diarios son justo el tipo de detalle que resulta fácil malinterpretar a través de fuentes de segunda mano.
+En 2026, la venta de entradas, los asientos reservados del santuario Suwa, los horarios de cada jornada y la elección de los *kumi* participantes corrían a cargo de los organizadores del festival y de la oficina de turismo de la ciudad de Nagasaki. Los horarios de las actuaciones variaban según el recinto y el día.
 
-Si se planea organizar todo un día alrededor de una sola actuación, merece la pena consultar esa fuente oficial dos veces: una al hacer los primeros planes y otra poco antes de viajar, para asegurarse de que el horario que se maneja coincide con lo publicado en ese momento.
+La distribución de los asientos y los horarios diarios cambian de un año a otro. Por eso, los relatos de quienes asistieron a un Kunchi anterior rara vez coinciden con el programa de una edición posterior.

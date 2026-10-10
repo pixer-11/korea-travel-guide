@@ -3106,6 +3106,18 @@
   "reason": "publish gate: Storefront exterior/interior of Black Sheep Coffee shop",
   "at": "2026-10-01T14:59:01.499Z"
  },
+ "belfast-cave-hill-country-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/PXL_20231217_111500863_Cave_Hill_Country_Park-_Belfast_Castle_%26_Cave_Hill_Trail-_10-Cave_Hill_Cave.jpg/3840px-PXL_20231217_111500863_Cave_Hill_Country_Park-_Belfast_Castle_%26_Cave_Hill_Trail-_10-Cave_Hill_Cave.jpg": {
+  "slug": "belfast-cave-hill-country-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows hillside cave entrance, representative of Cave Hill Park",
+  "at": "2026-10-10T07:42:43.575Z"
+ },
+ "belfast-peace-wall-belfast\u0001https://upload.wikimedia.org/wikipedia/commons/a/ad/The_Alexandra_Park_peace_wall%2C_Belfast_-_panoramio.jpg": {
+  "slug": "belfast-peace-wall-belfast",
+  "verdict": "MATCH",
+  "reason": "publish gate: Mural-covered dividing wall matches Belfast peace wall imagery",
+  "at": "2026-10-10T07:42:43.473Z"
+ },
  "belfast-the-dome\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/The_Dome%2C_Victoria_Square%2C_Belfast_06.jpg/3840px-The_Dome%2C_Victoria_Square%2C_Belfast_06.jpg": {
   "slug": "belfast-the-dome",
   "verdict": "MATCH",
@@ -3231,6 +3243,12 @@
   "reason": "Building matches museum signage and architecture",
   "reasonKo": "박물관 간판과 건축물이 일치",
   "at": "2026-08-15T13:10:58.962Z"
+ },
+ "berlin-alexanderplatz\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Alexanderplatz_in_Berlin_-_Panorama.jpg/3840px-Alexanderplatz_in_Berlin_-_Panorama.jpg": {
+  "slug": "berlin-alexanderplatz",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows Alexanderplatz square with TV Tower, representative view",
+  "at": "2026-10-10T07:42:43.400Z"
  },
  "berlin-berlin-cathedral\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/141227_Berliner_Dom.jpg/1920px-141227_Berliner_Dom.jpg": {
   "slug": "berlin-berlin-cathedral",
@@ -3473,6 +3491,12 @@
   "reason": "patrol replace: Steak dinner with fries at upscale restaurant",
   "at": "2026-10-01T23:24:30.194Z"
  },
+ "birmingham-cannon-hill-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Cannon_Hill_Park.jpg/1920px-Cannon_Hill_Park.jpg": {
+  "slug": "birmingham-cannon-hill-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Park lake with trees, representative of Cannon Hill Park",
+  "at": "2026-10-10T07:42:43.548Z"
+ },
  "birmingham-lapworth-museum-of-geology\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Lapworth_Museum.jpg/1920px-Lapworth_Museum.jpg": {
   "slug": "birmingham-lapworth-museum-of-geology",
   "verdict": "MATCH",
@@ -3484,6 +3508,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior with clear National SEA LIFE Centre signage",
   "at": "2026-09-30T14:12:02.873Z"
+ },
+ "birmingham-shri-venkateswara-balaji-temple-tividale\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Gopuram_and_vimana_at_Shri_Venkateswara_%28Balaji%29_Temple_United_Kingdom.jpg/3840px-Gopuram_and_vimana_at_Shri_Venkateswara_%28Balaji%29_Temple_United_Kingdom.jpg": {
+  "slug": "birmingham-shri-venkateswara-balaji-temple-tividale",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows temple gopuram architecture matching Hindu temple venue type",
+  "at": "2026-10-10T07:42:43.450Z"
  },
  "bocaue-post-malone-live-in-manila\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Post_Malone_%2828688652561%29.jpg/3840px-Post_Malone_%2828688652561%29.jpg": {
   "slug": "bocaue-post-malone-live-in-manila",
@@ -3847,11 +3877,23 @@
   "reason": "publish gate: Cluttered antique shop interior matches Snoopers Paradise vibe",
   "at": "2026-10-01T14:40:54.980Z"
  },
+ "brighton-starfish-coffee\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Starfish_%26_Coffee%2C_Brighton_2023-08-04.jpg/3840px-Starfish_%26_Coffee%2C_Brighton_2023-08-04.jpg": {
+  "slug": "brighton-starfish-coffee",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior shot of Starfish & Coffee building, Brighton",
+  "at": "2026-10-10T07:42:43.498Z"
+ },
  "brighton-the-lanes\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Brighton_2010_PD_054.JPG/1920px-Brighton_2010_PD_054.JPG": {
   "slug": "brighton-the-lanes",
   "verdict": "MATCH",
   "reason": "publish gate: Street view of The Lanes with shops, Brighton signage",
   "at": "2026-10-08T07:46:04.724Z"
+ },
+ "brighton-tofu-vegan-brighton\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tofu_Vegan%2C_Meeting_House_Lane%2C_Brighton_2026-04-10.jpg/3840px-Tofu_Vegan%2C_Meeting_House_Lane%2C_Brighton_2026-04-10.jpg": {
+  "slug": "brighton-tofu-vegan-brighton",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior courtyard with Tofu restaurant signage, matches venue",
+  "at": "2026-10-10T07:42:43.598Z"
  },
  "brisbane-81-sushi-kappo\u0001https://fastly.4sqi.net/img/general/original/32870034_U5ykORQxYUVJrm8c2AiM7brixndxVTxGanpnHFzcTcg.jpg": {
   "slug": "brisbane-81-sushi-kappo",
@@ -7212,6 +7254,12 @@
   "reason": "release check: Genuine yatai food stall scene, plausible Fukuoka night market venue",
   "at": "2026-08-11T04:11:57.794Z"
  },
+ "fussen-benediktinerkloster-st-mang\u0001https://upload.wikimedia.org/wikipedia/commons/3/3e/Benediktinerkloster_St._Mang_-_panoramio_%281%29.jpg": {
+  "slug": "fussen-benediktinerkloster-st-mang",
+  "verdict": "MATCH",
+  "reason": "publish gate: Exterior of monastery church with tower, representative view",
+  "at": "2026-10-10T07:42:43.427Z"
+ },
  "fussen-hohenschwangau-castle\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Schloss_Hohenschwangau_2021.jpg/1920px-Schloss_Hohenschwangau_2021.jpg": {
   "slug": "fussen-hohenschwangau-castle",
   "verdict": "MATCH",
@@ -7235,6 +7283,12 @@
   "verdict": "MATCH",
   "reason": "publish gate: Exterior view of restaurant building with visible sign",
   "at": "2026-10-03T12:53:09.101Z"
+ },
+ "fussen-walderlebniszentrum-ziegelwies\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Baumkronenweg_Walderlebniszentrum_Ziegelwies_06.jpg/3840px-Baumkronenweg_Walderlebniszentrum_Ziegelwies_06.jpg": {
+  "slug": "fussen-walderlebniszentrum-ziegelwies",
+  "verdict": "MATCH",
+  "reason": "publish gate: Forest walkway bridge with mountain view, matches nature attraction",
+  "at": "2026-10-10T07:42:43.524Z"
  },
  "gangneung-anmok-beach\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Anmok_beach_on_September_7th%2C_2017.jpg/3840px-Anmok_beach_on_September_7th%2C_2017.jpg": {
   "slug": "gangneung-anmok-beach",
@@ -23640,6 +23694,12 @@
   "verdict": "MATCH",
   "reason": "event publish gate: Shows Accor Stadium, the event venue in Sydney",
   "at": "2026-10-08T01:25:50.366Z"
+ },
+ "sydney-chinatown-sydney\u0001https://upload.wikimedia.org/wikipedia/commons/2/2b/The_Sydney_Chinatown_in_Dixon_Street.jpg": {
+  "slug": "sydney-chinatown-sydney",
+  "verdict": "MATCH",
+  "reason": "publish gate: Iconic Chinatown Sydney gateway arch, representative hero shot",
+  "at": "2026-10-10T07:42:43.359Z"
  },
  "sydney-darling-harbour\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/2019-04-10_Sydney_CBD_view_from_Pyrmont_at_sunset.jpg/1920px-2019-04-10_Sydney_CBD_view_from_Pyrmont_at_sunset.jpg": {
   "slug": "sydney-darling-harbour",

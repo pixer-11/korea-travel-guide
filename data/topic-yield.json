@@ -6,12 +6,12 @@
    "hits": 13
   },
   "historic site": {
-   "attempts": 198,
-   "hits": 128
+   "attempts": 101,
+   "hits": 66
   },
   "park": {
-   "attempts": 114,
-   "hits": 72
+   "attempts": 118,
+   "hits": 75
   },
   "viewpoint": {
    "attempts": 66,
@@ -38,8 +38,8 @@
    "hits": 1
   },
   "old quarter": {
-   "attempts": 199,
-   "hits": 93
+   "attempts": 101,
+   "hits": 48
   },
   "local market": {
    "attempts": 190,
@@ -58,8 +58,8 @@
    "hits": 69
   },
   "breakfast": {
-   "attempts": 46,
-   "hits": 3
+   "attempts": 47,
+   "hits": 4
   },
   "trendy cafe": {
    "attempts": 118,
@@ -78,8 +78,8 @@
    "hits": 0
   },
   "vegetarian": {
-   "attempts": 40,
-   "hits": 1
+   "attempts": 41,
+   "hits": 2
   },
   "concept cafe": {
    "attempts": 33,
@@ -326,5 +326,5 @@
    "hits": 0
   }
  },
- "updated": "2026-10-09T14:30:04.087Z"
+ "updated": "2026-10-10T07:42:43.611Z"
 }
