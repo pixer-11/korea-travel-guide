@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { indexRequestPool, pickIndexRequests, indexRequestLines, loadPostsForIndexRequests, PER_DAY } from './index-request-list.mjs';
+import { indexRequestPool, pickIndexRequests, indexRequestLines, loadPostsForIndexRequests, loadIndexRequestPins, PER_DAY } from './index-request-list.mjs';
 import { fileURLToPath } from 'node:url';
 
 const posts = [
@@ -50,4 +50,20 @@ test('loader reads the real posts directory into minimal records', () => {
   const pool = indexRequestPool(all, '2026-10-09');
   assert.ok(pool.length > 100, 'the pool of never-indexed posts is large');
   assert.ok(pool.every((x) => !x.draft && x.pubDate >= '2026-07-25'));
+});
+
+test('pins go first within their window and never count against the rotation', () => {
+  const many = Array.from({ length: 30 }, (_, i) => ({ slug: `p${String(i).padStart(2, '0')}`, category: 'attraction', pubDate: '2026-09-15', eventStartDate: '', draft: false }));
+  many.push({ slug: 'retitled', category: 'attraction', pubDate: '2026-07-21', eventStartDate: '', draft: false }); // pre-freeze: not in the pool
+  const withPins = pickIndexRequests(many, '2026-10-10', { pins: ['retitled', 'missing-slug'] }).map((p) => p.slug);
+  assert.equal(withPins[0], 'retitled');
+  assert.equal(withPins.length, PER_DAY);
+  const without = pickIndexRequests(many, '2026-10-10', { pins: [] }).map((p) => p.slug);
+  assert.deepEqual(withPins.slice(1), without.slice(0, PER_DAY - 1), 'the rotating window is the same, just one shorter');
+});
+
+test('the committed pins file loads and expired rows drop out', () => {
+  const now = loadIndexRequestPins('2026-10-10');
+  assert.ok(now.includes('incheon-wolmi-theme-park'));
+  assert.deepEqual(loadIndexRequestPins('2027-01-01'), []);
 });

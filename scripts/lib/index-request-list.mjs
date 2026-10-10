@@ -24,6 +24,15 @@ export const INDEX_FREEZE_DAY = '2026-07-25'; // nothing published after this ha
 export const PER_DAY = 10;
 export const EVENT_HORIZON_DAYS = 60;
 export const ROTATION_ANCHOR = '2026-10-10'; // first morning the list went out
+const PINS_FILE = new URL('../../data/index-request-pins.json', import.meta.url);
+
+/** Pinned slugs still inside their window: pages that changed and must be re-read first. */
+export function loadIndexRequestPins(today, file = PINS_FILE) {
+  try {
+    const j = JSON.parse(readFileSync(file, 'utf8'));
+    return (j.pins ?? []).filter((p) => p.slug && (!p.until || p.until >= today)).map((p) => p.slug);
+  } catch { return []; }
+}
 
 const field = (fm, key) => {
   const m = new RegExp(`^${key}:[ \\t]*(?:'((?:[^']|'')*)'|"([^"]*)"|([^\\n]+))`, 'm').exec(fm);
@@ -64,15 +73,22 @@ export function indexRequestPool(posts, today) {
 }
 
 /** Today's slice of the pool: PER_DAY URLs, rotating by day so a week lists 70 different pages. */
-export function pickIndexRequests(posts, today, { perDay = PER_DAY } = {}) {
-  const pool = indexRequestPool(posts, today);
-  if (!pool.length) return [];
+export function pickIndexRequests(posts, today, { perDay = PER_DAY, pins = loadIndexRequestPins(today) } = {}) {
+  // Pins first (a retitled page is worth nothing until Google re-reads it),
+  // the rotating window fills the rest. A pinned slug that is not a live post
+  // is ignored; pins never count against the rotation, so the day after they
+  // expire the window continues where it would have been.
+  const bySlug = new Map(posts.map((p) => [p.slug, p]));
+  const pinned = pins.map((s) => bySlug.get(s)).filter((p) => p && !p.draft).slice(0, perDay);
+  const pool = indexRequestPool(posts, today).filter((p) => !pinned.includes(p));
+  const room = perDay - pinned.length;
+  if (!pool.length || room <= 0) return pinned;
   // Counted from the day the list started, so day one is the top of the pool
   // (the soonest events), not an arbitrary point two thousand entries in.
   const dayIndex = Math.floor((Date.parse(`${today}T00:00:00Z`) - Date.parse(`${ROTATION_ANCHOR}T00:00:00Z`)) / 86400e3);
   const start = ((dayIndex * perDay) % pool.length + pool.length) % pool.length;
-  const out = [];
-  for (let i = 0; i < Math.min(perDay, pool.length); i++) out.push(pool[(start + i) % pool.length]);
+  const out = [...pinned];
+  for (let i = 0; i < Math.min(room, pool.length); i++) out.push(pool[(start + i) % pool.length]);
   return out;
 }
 
