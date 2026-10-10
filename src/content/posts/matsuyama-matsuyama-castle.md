@@ -3,7 +3,7 @@ title: "Matsuyama Castle: Travel Guide (4.5★)"
 description: "Matsuyama Castle sits on top of Mount Katsuyama in central Matsuyama, Ehime, and you reach it by chairlift, ropeway or a 20–30 minute walk up from the Okaido shopping street. 4.5★ (17,271 reviews) — what visitors say, hours, and tips."
 country: "Japan"
 region: "Matsuyama"
-category: "hidden-gem"
+category: attraction
 pubDate: "2026-10-10T14:59:53.936Z"
 heroImage:
   url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Matsuyama_Castle.jpg/3840px-Matsuyama_Castle.jpg"
@@ -14,11 +14,7 @@ heroImage:
   focus:
     x: 65
     y: 35
-gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bitchu_Matsuyama_Castle_1.JPG"
-    credit: "Photo: by Reggaeman / Wikimedia Commons (CC BY-SA 3.0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Bitchu_Matsuyama_Castle_1.JPG"
+gallery: []
 place:
   id: "ChIJG4z5T-vlTzURgnujh60lGEo"
   name: "Matsuyama Castle"
@@ -51,7 +47,7 @@ place:
 tags:
   - "matsuyama"
   - "hidden gem"
-quickAnswer: "Matsuyama Castle sits on top of Mount Katsuyama in central Matsuyama, Ehime, and you reach it by chairlift, ropeway or a 20–30 minute walk up from the Okaido shopping street. The keep is open 9:00 AM to 4:30 PM every day. On weekdays it's calmest from 9am to 10am, and on weekends you should avoid 11am to 3pm, when the crowds are heaviest."
+quickAnswer: "Matsuyama Castle sits on top of Mount Katsuyama in central Matsuyama, Ehime, and you reach it by chairlift, ropeway or a 20–30 minute walk up from the Okaido shopping street. The keep opens at 9:00 AM and closes at 5:00 PM for most of the year (5:30 PM in August, 4:30 PM in December and January); it shuts on the third Wednesday of December. On weekdays it's calmest from 9am to 10am, and on weekends you should avoid 11am to 3pm, when the crowds are heaviest."
 faq:
   - q: "When is the quietest time to visit Matsuyama Castle?"
     a: "On weekdays, 9am to 10am is the quietest window, so take the first lift up. On weekends, avoid 11am to 3pm, which is the busiest stretch."
@@ -102,7 +98,7 @@ Both lifts drop you about ten minutes' walk below the keep. You'll still climb s
 
 This place is well visited, so timing matters more than anything else. **On weekdays, the quietest window is 9am to 10am.** If you're on the first lift up, you can climb the keep's staircases without a line behind you. **On weekends, avoid 11am to 3pm.** That's when tour groups and families pile up at the gates and on the narrow interior stairs.
 
-The keep opens at 9:00 AM and closes at 4:30 PM every day of the week. Last entry comes before closing, so don't start up the hill late in the afternoon. Current ticket prices are posted at the ropeway station and the keep entrance.
+The keep opens at 9:00 AM. It closes at 5:00 PM for most of the year, at 5:30 PM in August and at 4:30 PM in December and January, and it shuts on the third Wednesday of December. Last entry comes before closing, so don't start up the hill late in the afternoon. Current ticket prices are posted at the ropeway station and the keep entrance.
 
 Inside the keep, follow these customs:
 

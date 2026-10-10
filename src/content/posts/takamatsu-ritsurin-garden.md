@@ -60,7 +60,7 @@ place:
 tags:
   - "takamatsu"
   - "top attraction"
-quickAnswer: "Ritsurin Garden is a 17th-century feudal lord's stroll garden in Ritsurin-chō, Takamatsu, about 2 km south of JR Takamatsu Station, with ponds, arched bridges, a teahouse and a wooden boat ride. It opens at 6am daily. Come between 7am and 9am for the quietest paths, and avoid 10am–4pm on weekends, when it is busiest."
+quickAnswer: "Ritsurin Garden is a 17th-century feudal lord's stroll garden in Ritsurin-chō, Takamatsu, about 2 km south of JR Takamatsu Station, with ponds, arched bridges, a teahouse and a wooden boat ride. Its hours change by month, from 5:30am–7pm in summer to 7am–5pm in December and January; in October it is 6am–5:30pm. Come between 7am and 9am for the quietest paths, and avoid 10am–4pm on weekends, when it is busiest."
 faq:
   - q: "When is the quietest time to visit Ritsurin Garden?"
     a: "Between 7am and 9am, on both weekdays and weekends. Avoid 10am–4pm on weekends, which is the busiest stretch."
@@ -96,9 +96,9 @@ Points to aim for:
 
 ## Beating the weekend crowds
 
-This is one of Shikoku's busiest sights. Plan your timing around that. The gates open at 6am every day, and the calmest window is 7am–9am on weekdays and weekends alike. On weekends, try not to arrive between 10am and 4pm, when groups fill the narrow bridges and the Hiraiho viewpoint.
+This is one of Shikoku's busiest sights. Plan your timing around that. Opening time changes by month (6am in October), and the calmest window is 7am–9am on weekdays and weekends alike. On weekends, try not to arrive between 10am and 4pm, when groups fill the narrow bridges and the Hiraiho viewpoint.
 
-An early start pays off twice. The ponds tend to be stillest in the morning, which is when Engetsu-kyō's reflection works best. Closing is 5:30pm, except Saturday, when the garden stays open until 6:30pm. Buy your ticket at the gate; current prices are posted there and on the official site.
+An early start pays off twice. The ponds tend to be stillest in the morning, which is when Engetsu-kyō's reflection works best. Closing time moves with the month too: 5:30pm in October, 7pm in summer and 5pm in winter. Buy your ticket at the gate; current prices are posted there and on the official site.
 
 Some etiquette that matters here:
 

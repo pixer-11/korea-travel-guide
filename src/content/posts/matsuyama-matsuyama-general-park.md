@@ -5,20 +5,7 @@ country: "Japan"
 region: "Matsuyama"
 category: "attraction"
 pubDate: "2026-10-10T14:59:57.059Z"
-heroImage:
-  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Matsuyama_Central_Park_Pool.jpg/3840px-Matsuyama_Central_Park_Pool.jpg"
-  credit: "Photo: Drivephotographer / Wikimedia Commons (CC0)"
-  license: "wikimedia"
-  source: "https://commons.wikimedia.org/wiki/File:Matsuyama_Central_Park_Pool.jpg"
-  via: "act"
-  focus:
-    x: 50
-    y: 55
-gallery:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/8/8a/Matsuyama_General_Park_20240703_%284%29.jpg"
-    credit: "Photo: CT-May / Wikimedia Commons (CC0)"
-    license: "wikimedia"
-    source: "https://commons.wikimedia.org/wiki/File:Matsuyama_General_Park_20240703_(4).jpg"
+gallery: []
 place:
   id: "ChIJTXNPKI_vTzURgza20MSMbww"
   name: "Matsuyama General Park"
@@ -68,6 +55,14 @@ faq:
     a: "Allow two to three hours for the tower, the paths and a picnic. With children using the large playground, it can take half a day."
 aiGenerated: true
 draft: false
+heroImage:
+  url: https://upload.wikimedia.org/wikipedia/commons/8/8a/Matsuyama_General_Park_20240703_%284%29.jpg
+  credit: 'Photo: CT-May / Wikimedia Commons (CC0)'
+  license: wikimedia
+  source: https://commons.wikimedia.org/wiki/File:Matsuyama_General_Park_20240703_(4).jpg
+  focus:
+    x: 65
+    'y': 40
 ---
 
 ## A hill on the city's western edge
@@ -94,7 +89,7 @@ Outside that window, the trees still give shade along the paths. In early summer
 
 ## When to come up
 
-It's open 9:00 AM–5:00 PM every day of the week. That rules out sunset and night views, so plan a daytime visit.
+The observation tower and park office keep 9:00 AM–5:00 PM hours, extended to 9:00 PM from July to September. The hilltop observation plaza was recognised as a Japan Night View Heritage site in 2022, so in summer the sunset and the lit-up city are part of the appeal.
 
 - **Weekdays:** quiet the whole time it's open, 9am–5pm. Any weekday slot works.
 - **Weekends:** busiest from 10am to 4pm. Try not to arrive in the middle of that window, because that's when families fill the playground and the paths.
@@ -104,11 +99,11 @@ For a full visit with the tower, a loop of the paths and a sit on the lawn, plan
 
 ## Getting up the hill
 
-The address is 1-chōme Asahigaoka, Matsuyama, Ehime. The park is outside the compact centre where the trams run. A car or taxi from central Matsuyama is the easiest option, and a taxi saves you the climb.
+The address is 1-chōme Asahigaoka, Matsuyama, Ehime. The park is outside the compact centre where the trams run. A car or taxi from central Matsuyama is the easiest option, and a taxi saves you the climb. By public transport, take the Iyotetsu Takahama Line to Kinuyama or Nishi-Kinuyama station and walk about 15 minutes, or city bus No. 10 to Matsuyama Sōgō Kōen-mae, about 5 minutes on foot.
 
 If you'd rather use public transport, check current Iyotetsu bus routes toward Asahigaoka before you set out. Expect an uphill walk from the stop. Drivers will find parking at the park.
 
-It works well as a half-day trip combined with Matsuyama Castle. See the castle from below in the morning, then look back at it from the tower in the afternoon. Just make sure you're through the gates well before 5pm.
+It works well as a half-day trip combined with Matsuyama Castle. See the castle from below in the morning, then look back at it from the tower in the afternoon. Outside July to September the tower closes at 5pm, so plan the afternoon around that.
 
 ## Picnic manners on the slope
 

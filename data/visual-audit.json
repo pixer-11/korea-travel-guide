@@ -15474,11 +15474,17 @@
   "reason": "publish gate: Shows Matsuyama Castle exterior, representative view for visitors",
   "at": "2026-10-10T14:59:53.975Z"
  },
- "matsuyama-matsuyama-general-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Matsuyama_Central_Park_Pool.jpg/3840px-Matsuyama_Central_Park_Pool.jpg": {
+ "matsuyama-matsuyama-general-park\u0001https://upload.wikimedia.org/wikipedia/commons/8/8a/Matsuyama_General_Park_20240703_%284%29.jpg": {
   "slug": "matsuyama-matsuyama-general-park",
   "verdict": "MATCH",
-  "reason": "publish gate: Shows modern park building with grounds, plausible hero image",
-  "at": "2026-10-10T14:59:54.072Z"
+  "reason": "hand-picked: Matsuyama General Park administration building, Commons file named for this park; was its verified gallery photo — Matches modern architecture of Matsuyama General Park facility",
+  "at": "2026-10-10T19:57:19.736Z"
+ },
+ "matsuyama-matsuyama-general-park\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Matsuyama_Central_Park_Pool.jpg/3840px-Matsuyama_Central_Park_Pool.jpg": {
+  "slug": "matsuyama-matsuyama-general-park",
+  "verdict": "MISMATCH",
+  "reason": "hand-reviewed: Matsuyama Central Park pool by the Ishite River (Commons GPS 33.8098,132.7463), 3.7 km from Matsuyama General Park — a different park",
+  "at": "2026-10-10T19:57:02.894Z"
  },
  "medan-maha-vihara-maitreya\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Vihara_Maitreya.jpg/1920px-Vihara_Maitreya.jpg": {
   "slug": "medan-maha-vihara-maitreya",

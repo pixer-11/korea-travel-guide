@@ -50,9 +50,9 @@ place:
       - 15
     venueId: "ven_777a6f53566d5a4569584352557a5575767935754857344a496843"
 tags:
-  - "takamatsu"
+  - "naoshima"
   - "museum"
-quickAnswer: "Chichu Art Museum sits on Naoshima, the art island a ferry ride from Takamatsu, and you need a timed ticket booked online in advance. It's open Tuesday to Sunday, 10am–5pm, and closed Mondays. Weekends are busy from 10am–4pm, so go on a weekday if you can, and plan on two to three hours plus the ferry."
+quickAnswer: "Chichu Art Museum sits on Naoshima, the art island a ferry ride from Takamatsu, and you need a timed ticket booked online in advance. It opens 10am–6pm from March to September and 10am–5pm from October to February, with last entry an hour before closing, and it closes on Mondays (on a Monday holiday it opens and closes the next day). Weekends are busy from 10am–4pm, so go on a weekday if you can, and plan on two to three hours plus the ferry."
 faq:
   - q: "When is the quietest time to visit Chichu Art Museum?"
     a: "Weekends are busy from 10am–4pm, which covers most of the opening day. A weekday visit, Tuesday to Friday, is the better choice. On weekends, book the earliest or latest slot available."
@@ -104,7 +104,7 @@ You can't just walk up and get in. Book a time slot on the official Chichu websi
 
 Weekends are busy all day, from 10am–4pm. In practice that's almost the whole time the museum is open. If your schedule allows, come on a weekday, Tuesday to Friday. The Turrell queues move faster then, and you may get a few minutes alone with the Monets.
 
-If you're stuck with a Saturday or Sunday, book the first or last slot you can get. Spend the gap between ferries outside the busiest hours. The museum is open 10am–5pm every day except Monday, and last entry comes before closing.
+If you're stuck with a Saturday or Sunday, book the first or last slot you can get. Spend the gap between ferries outside the busiest hours. From October to February the museum closes at 5pm (6pm from March to September), and last entry is an hour earlier.
 
 ## The garden and the rest of the south coast
 

@@ -104,6 +104,10 @@ for (const file of files) {
       minWidth: 1200,
       crossCheck: tokens(`${venue} ${d.region}`),
       minCross: 2,
+      // Only files shot near the venue (commons SAME_PLACE_KM). Without it a
+      // name match was enough: 10-11 Matsuyama Castle's gallery got Bitchu
+      // Matsuyama Castle, 150 km away in Okayama.
+      near: d.place?.lat != null && d.place?.lng != null ? { lat: d.place.lat, lng: d.place.lng } : null,
     });
     if (wiki?.url) candidates.push({ ...wiki, license: 'wikimedia' });
   } catch (e) {

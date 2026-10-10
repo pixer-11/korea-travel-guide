@@ -109,6 +109,10 @@ async function inBodyCandidates(place, target, heroUrl) {
       minWidth: 1200,
       crossCheck: tokens(`${place.name} ${target.region}`),
       minCross: 2,
+      // Only files shot near the venue (commons SAME_PLACE_KM). Without it a
+      // name match was enough: 10-11 Matsuyama Castle's gallery got Bitchu
+      // Matsuyama Castle, 150 km away in Okayama.
+      near: place.lat != null && place.lng != null ? { lat: place.lat, lng: place.lng } : null,
     });
     if (wiki?.url) cands.push({ ...wiki, license: 'wikimedia' });
     else why.push('commons: no match ≥1200px');

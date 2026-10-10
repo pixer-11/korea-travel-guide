@@ -41,7 +41,7 @@ place:
 tags:
   - "matsuyama"
   - "museum"
-quickAnswer: "The Ehime Museum of Art sits in Horinouchi Park in central Matsuyama, at the foot of the hill that Matsuyama Castle stands on, a short walk from the Minami-Horibata tram stop. It opens 9:40am–6pm Tuesday to Sunday and is closed on Mondays. Give it one to two hours, then walk up to the castle or take the tram to Dogo Onsen."
+quickAnswer: "The Ehime Museum of Art sits in Horinouchi Park in central Matsuyama, at the foot of the hill that Matsuyama Castle stands on, a short walk from the Minami-Horibata tram stop. It opens 9:40am–6pm. It usually closes on Mondays, but on the first Monday of each month and on Monday holidays it opens and closes the next day instead, and it closes from 29 December to 3 January. Give it one to two hours, then walk up to the castle or take the tram to Dogo Onsen."
 faq:
   - q: "Is the Ehime Museum of Art open on Mondays?"
     a: "No. It is closed every Monday. From Tuesday to Sunday it opens 9:40am–6pm."
@@ -94,7 +94,7 @@ Japanese museums run on quiet. People move slowly, talk in low voices and keep a
 
 ## When to go
 
-Mondays are the trap. The museum is closed every Monday, and plenty of visitors arrive at locked doors on that day. From Tuesday to Sunday the doors open at 9:40am and close at 6pm, the same hours every day.
+Mondays are the trap. The museum usually closes on Mondays, except on the first Monday of the month and on Monday holidays, when it opens and closes the following day instead. It also closes from 29 December to 3 January. When it is open, the doors open at 9:40am and close at 6pm.
 
 Two hours covers a special exhibition and a pass through the collection without rushing. The museum is also Matsuyama's best indoor stop when rain makes the castle climb less appealing.
 
@@ -109,4 +109,4 @@ The museum fits easily into a castle-and-onsen day. From the park, these are all
 - **Okaido and Ginten-gai**: covered shopping arcades just south and east, good for lunch.
 - **Dogo Onsen**: a straight tram ride east to the end of the line, home to the Dogo Onsen Honkan bathhouse.
 
-A good order is museum in the morning, castle at midday and Dogo in the evening. That works on any day except Monday.
+A good order is museum in the morning, castle at midday and Dogo in the evening. On a Monday, or the day after a holiday, check the museum's calendar first.

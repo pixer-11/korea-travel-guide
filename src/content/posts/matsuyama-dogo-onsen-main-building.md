@@ -3,7 +3,7 @@ title: "Dogo Onsen Main Building: Matsuyama Travel Guide (4.2★)"
 description: "Dogo Onsen Main Building in Matsuyama's Dogo district is a three-storey wooden bathhouse from 1894, open daily 6:00am to 11:00pm, a short walk from Dogo Onsen tram station. 4.2★ (16,758 reviews) — what visitors say, hours, and tips."
 country: "Japan"
 region: "Matsuyama"
-category: "hidden-gem"
+category: attraction
 pubDate: "2026-10-10T14:59:56.031Z"
 heroImage:
   url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dogo_Onsen_Honkan_%28Main_building%29%2C_%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89_%E6%9C%AC%E9%A4%A8_-_panoramio_%288%29.jpg/3840px-Dogo_Onsen_Honkan_%28Main_building%29%2C_%E9%81%93%E5%BE%8C%E6%B8%A9%E6%B3%89_%E6%9C%AC%E9%A4%A8_-_panoramio_%288%29.jpg"

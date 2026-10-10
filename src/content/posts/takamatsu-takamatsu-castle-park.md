@@ -58,14 +58,14 @@ place:
 tags:
   - "takamatsu"
   - "old quarter"
-quickAnswer: "Takamatsu Castle Park sits beside Kotoden Takamatsu-Chikko Station in central Takamatsu, about a five-minute walk from JR Takamatsu Station. It holds the stone walls, turrets and seawater moat of a castle first built in 1590. It opens 7am–5pm daily, and it's quietest from 7am to 9am. Avoid weekend afternoons, which stay busy from 10am to 5pm."
+quickAnswer: "Takamatsu Castle Park sits beside Kotoden Takamatsu-Chikko Station in central Takamatsu, about a five-minute walk from JR Takamatsu Station. It holds the stone walls, turrets and seawater moat of a castle completed in 1590. Gate times change by month (in October the west gate opens at 6am), and it's quietest from 7am to 9am. Avoid weekend afternoons, which stay busy from 10am until closing."
 faq:
   - q: "When is the quietest time to visit Takamatsu Castle Park?"
-    a: "It's quietest from 7am to 9am on both weekdays and weekends. On weekends it stays busy from 10am until the 5pm close, so arrive at opening if you want the paths to yourself."
+    a: "It's quietest from 7am to 9am on both weekdays and weekends. On weekends it stays busy from 10am until closing, so arrive at opening if you want the paths to yourself."
   - q: "How do I get to Takamatsu Castle Park?"
     a: "Kotoden Takamatsu-Chikko Station is right next to the park walls. JR Takamatsu Station and the Sunport ferry terminal are each a short walk away."
   - q: "What are the opening hours?"
-    a: "The park is listed as open 7am–5pm every day of the week. Leave yourself time before closing, because last entry is earlier than 5pm."
+    a: "Gate times change by month and differ between the west and east gates; in October the west gate opens at 6am. The park closes from 29 to 31 December, and last entry comes before closing."
   - q: "How long should I spend there?"
     a: "About an hour covers a loop of the moat, the Tenshudai keep base and the turrets. Allow longer if you go inside Hiunkaku or feed the sea bream."
   - q: "What's nearby?"
@@ -76,11 +76,11 @@ draft: false
 
 Takamatsu Castle sits right on the water. The moat is filled from the Seto Inland Sea, so it rises and falls with the tide, and sea bream swim in it. The Kotoden trains rattle past one edge of the walls, and the ferry terminal for Naoshima is a short walk from the other. Few castle sites in Japan sit this close to a working city.
 
-You won't find a soaring keep. That was pulled down in 1884. What remains is a park of stone ramparts, restored wooden turrets and a feudal lord's residence, laid out on a site first built in 1590. Locals call the place Tamamo Kōen.
+You won't find a soaring keep. That was pulled down in 1884. What remains is a park of stone ramparts, restored wooden turrets and a feudal lord's residence, laid out on a castle completed in 1590. Locals call the place Tamamo Kōen.
 
 ## A castle built on the sea
 
-The sea shaped the whole design. Ikoma Chikamasa started the castle in 1590 and set it on the shoreline. Seawater fed the moats, and ships could moor almost at the gates. It's counted among Japan's three great water castles, alongside Imabari and Nakatsu.
+The sea shaped the whole design. Ikoma Chikamasa began the castle in 1588, finished it in 1590 and set it on the shoreline. Seawater fed the moats, and ships could moor almost at the gates. It's counted among Japan's three great water castles, alongside Imabari and Nakatsu.
 
 From 1642 the Matsudaira clan ruled the Takamatsu domain from here. They were relatives of the Tokugawa shoguns and held the castle until the Meiji era. Much of the outer castle has since been swallowed by the modern city, including the station, the roads and the port. The inner core survives as the park.
 
@@ -110,13 +110,13 @@ You barely need directions. Kotoden Takamatsu-Chikko Station, the terminus of th
 
 If you arrive by ferry from Naoshima, Shodoshima or the other islands, the Sunport ferry terminal is also a short walk away. That makes the castle easy to fit in before or after a boat. The entrance and ticket window face the station side, and the current admission is posted there.
 
-## Timing the 7am opening
+## Timing an early visit
 
-The early opening hour is what sets this place apart. Gates open at 7am every day of the week and close at 5pm, which is earlier than many city parks. It's quietest between 7am and 9am on both weekdays and weekends. At that hour the paths around the Tenshudai are mostly empty, and you can walk the moat edge without weaving around groups.
+The early opening hour is what sets this place apart. Gate times change with the month and differ between the west and east gates; in October the west gate opens at 6am, earlier than many city parks. The park closes from 29 to 31 December. It's quietest between 7am and 9am on both weekdays and weekends. At that hour the paths around the Tenshudai are mostly empty, and you can walk the moat edge without weaving around groups.
 
-Weekends are a different story. From 10am right through to the 5pm close, the park stays busy, with families at the fish-feeding spots and tour groups on the ramparts. Try not to plan a slow weekend wander for the middle of the day. If a weekend is your only option, go at opening and you'll be done before the crowds build.
+Weekends are a different story. From 10am right through to closing, the park stays busy, with families at the fish-feeding spots and tour groups on the ramparts. Try not to plan a slow weekend wander for the middle of the day. If a weekend is your only option, go at opening and you'll be done before the crowds build.
 
-The 5pm close also catches people out. Late-afternoon light on the turrets looks tempting, but last entry comes before closing, so don't leave it until 4:45.
+Closing time, which also moves with the month, catches people out. Late-afternoon light on the turrets looks tempting, but last entry comes before closing, so don't leave it until 4:45.
 
 ## Paying, feeding and moving like the regulars
 
