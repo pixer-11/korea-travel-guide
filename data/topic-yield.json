@@ -2,7 +2,7 @@
  "_note": "Per-topic search→post yield, written by scripts/generate.mjs (scripts/lib/topic-yield.mjs). Seeded 2026-08-23 from the 08-17..23 publish/bulk logs; counts halve past 200 so recent runs weigh more.",
  "topics": {
   "local restaurant": {
-   "attempts": 96,
+   "attempts": 101,
    "hits": 14
   },
   "historic site": {
@@ -54,7 +54,7 @@
    "hits": 3
   },
   "hidden gem": {
-   "attempts": 107,
+   "attempts": 109,
    "hits": 71
   },
   "breakfast": {
@@ -62,7 +62,7 @@
    "hits": 4
   },
   "trendy cafe": {
-   "attempts": 119,
+   "attempts": 121,
    "hits": 10
   },
   "street food": {
@@ -86,7 +86,7 @@
    "hits": 0
   },
   "top attraction": {
-   "attempts": 83,
+   "attempts": 90,
    "hits": 65
   },
   "grill": {
@@ -352,7 +352,47 @@
   "Yashimaji Temple": {
    "attempts": 1,
    "hits": 0
+  },
+  "Gandan Monastery": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Turtle Rock": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Chinggis Khaan Equestrian Statue": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Khustai National Park": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Zayain Gegeenii Süm": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Lake Khövsgöl": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Khongoryn Els": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Karakorum Turtle Rock": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Khatgal": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Uushigiin Uver Deer Stones": {
+   "attempts": 1,
+   "hits": 0
   }
  },
- "updated": "2026-10-10T16:02:48.722Z"
+ "updated": "2026-10-10T16:55:40.624Z"
 }
