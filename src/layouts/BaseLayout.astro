@@ -173,6 +173,11 @@ const orgLd = {
 <html lang={htmlLang}>
   <head>
     <meta charset="utf-8" />
+    <!-- Bing reads the document language from this (and the Content-Language
+         header in public/_headers), not from hreflang; Naver reads lang/meta,
+         not hreflang either. Google keeps hreflang below. (Research 2026-10-10:
+         Bing is the one search engine sending clicks, so it gets its own signal.) -->
+    <meta http-equiv="content-language" content={htmlLang} />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     {/* Pinterest domain verification (business account "wander atlas") — enables
         rich pins + attribution on every pin pointing at this site. */}
