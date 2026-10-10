@@ -44,3 +44,18 @@
 /api/*
   Access-Control-Allow-Origin: *
   Cache-Control: public, max-age=86400
+
+# Document language per locale prefix, for Bing (reads Content-Language, not
+# hreflang) and Naver. No /* rule on purpose: Cloudflare merges /* into every
+# specific rule, and English pages carry the <meta http-equiv> instead.
+/ko/*
+  Content-Language: ko
+
+/ja/*
+  Content-Language: ja
+
+/es/*
+  Content-Language: es
+
+/zh/*
+  Content-Language: zh-Hans
