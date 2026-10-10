@@ -84,14 +84,13 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-28'
 ---
-
 Your shoes ring faintly on concrete, and there is nothing under the deck but the brown, slow-moving Brisbane River. The Riverwalk runs out over the water and follows the bend from the city towards New Farm. Office towers are at your back, and the Story Bridge's steel girders are ahead.
 
 It's one of the easiest ways to understand how Brisbane is laid out. It costs nothing, and you can walk it in running shoes or sandals.
 
 ## Where the path goes
 
-The city end sits around Eagle Street, at the listed address of 45D Eagle St, Brisbane City. From there the path heads downstream along the river's edge.
+The city end sits around Eagle Street. From there the path heads downstream along the river's edge.
 
 Heading towards New Farm, you pass:
 

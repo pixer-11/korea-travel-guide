@@ -81,7 +81,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-29'
 ---
-
 Stand on the Place de l'Aiguille du Midi and look straight up. The cables leave the station roof and run towards a granite needle so high it looks painted onto the sky. That needle is where you are going: 3,842 metres up, directly across the glaciers from Mont Blanc. The trip takes about twenty minutes. You start among Chamonix's bakeries and finish in air that makes a flight of stairs feel like work.
 
 ## Two lifts, one enormous gain
@@ -136,7 +135,7 @@ In summer, a separate gondola, the Panoramic Mont-Blanc, crosses the glaciers fr
 
 ## Getting your slot and boarding smoothly
 
-This is one of the most visited attractions in the French Alps, and the system is built to handle crowds. Here is how it works.
+This is one of the most visited attractions in the French Alps, and the system is built to handle crowds.
 
 - **Book a timed slot online.** The cable car is run by the Compagnie du Mont-Blanc. Their website sells tickets with a boarding time, and current prices are posted there and at the ticket office. In peak summer weeks, the walk-up slots can be gone before mid-morning.
 - **Think about a multi-lift pass.** Staying several days? The Mont Blanc Multipass covers this lift and others in the valley, including the Montenvers train to the Mer de Glace. Compare it against single tickets on the official site.

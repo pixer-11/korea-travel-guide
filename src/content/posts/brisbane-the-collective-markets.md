@@ -68,7 +68,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A street of makers beside the parklands
 
 Little Stanley Street is a short strip of cafés and restaurants on the edge of South Bank Parklands. Three days a week, a line of market stalls takes over its footpaths. On one side you have the restaurant terraces. Over the trees, a short walk away, are the lagoon at Streets Beach and the Wheel of Brisbane.
@@ -126,7 +125,7 @@ Prices aren't standard across stalls. Each maker sets their own and usually labe
 
 ## Dodging the weekend crush
 
-The numbers here are blunt. On weekends the market is at its busiest from 9am to 9pm, which covers the entire Saturday and Sunday trading day. So there's no quiet weekend window to aim for.
+The numbers here are blunt. Both Saturday and Sunday sessions tend to be busy throughout, so there isn't a reliable quiet window on either weekend day.
 
 If you want space to browse and time to talk to stallholders, Friday evening is the only session outside that weekend window. That makes it the best bet for a calmer look. If you can only come at the weekend, expect shoulder-to-shoulder footpaths and plan around them.
 

@@ -62,7 +62,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Rainforest to reef under one roof
 
 The route through the building follows water downhill. You start with the freshwater of Queensland's tropical north and end in the open ocean. Across 9 ecosystems it holds more than 16,000 specimens. For a first-time visitor that is a useful preview: the tanks show what the reef boats and rainforest tours will point at later.
@@ -83,7 +82,7 @@ The aquarium is open daily from 9:30am to 3:30pm. Check the official Cairns Aqua
 
 Our crowd data is clear about when to go. On weekdays, foot traffic stays light across the whole 9:30am–3:30pm stretch, so any time of day works.
 
-Weekends are harder. Try not to arrive between 11am and 2pm. That's when family groups fill the galleries and the eatery gets crowded. Go for the first part of the morning or come after 2pm, and you'll have more room at the glass for photos without other people's reflections.
+Weekends are harder. Try not to arrive in the middle of the day. That's when family groups fill the galleries and the eatery gets crowded. Go for the first part of the morning or come after 2pm, and you'll have more room at the glass for photos without other people's reflections.
 
 ## Getting more from your visit
 

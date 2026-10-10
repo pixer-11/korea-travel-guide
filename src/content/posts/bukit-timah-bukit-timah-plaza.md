@@ -99,7 +99,7 @@ Those classrooms shape the mood. After school and on weekends, parents wait on b
 
 ## Timing Your Visit Around the Classes
 
-Crowd levels here follow the school timetable. On weekdays the mall stays quiet from 10am to 10pm, so any hour works. That makes a weekday the easiest time to browse.
+Crowd levels here follow the school timetable. Weekdays tend to be quieter, so most hours work well. That makes a weekday the easiest time to browse.
 
 Weekends are different. Try to avoid visiting between 11am and 8pm, when enrichment classes, family grocery runs and lunch crowds all overlap. If the weekend is your only option, come between 9pm and 10pm. It's the quietest hour before the doors close at 10pm.
 

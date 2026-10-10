@@ -55,7 +55,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A library that outgrew its books
 
 Shoppers walk past this building every day without going in. The Old Library is a Victorian building of carved pale stone at the junction of The Hayes and Trinity Street. Most people heading into St David's Centre treat it as a landmark and keep walking.
@@ -103,7 +102,7 @@ Some practical habits:
 
 - **Check entry details** on the museum's official website before you go. Exhibitions and special events can change what's on.
 - **Pay by card.** Contactless works almost everywhere in central Cardiff, including the shop and the market stalls nearby.
-- **Pair it with lunch at Cardiff Market** afterwards. Welsh cakes from the griddle stalls are the classic order.
+- **Pair it with lunch at Cardiff Market** afterwards, where the stalls offer a good range of options.
 - **Say "diolch"** (thank you) if you want to try some Welsh. Staff and the people around you will notice.
 
 ## How long to give it

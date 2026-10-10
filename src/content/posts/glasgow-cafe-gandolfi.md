@@ -71,12 +71,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Wood, glass and a tall old room
 
 The furniture is the first draw. Cafe Gandolfi opened in 1979 inside a building on Albion Street that once belonged to Glasgow's old cheese market. The chairs, tables and benches were made by the Borders sculptor Tim Stead, in heavy, organic-looking timber. Every surface looks carved rather than assembled.
 
-Look up and you get high ceilings and coloured glass in the windows. The look is old-world bistro, not polished design hotel. There's a full bar, and vegetarians can choose properly rather than settle for one token plate. Prices are mid-range for central Glasgow, and the menu with current prices is posted at the door.
+Look up and you get high ceilings and coloured glass in the windows. The look is old-world bistro, not polished design hotel. There's a full bar, and vegetarians can choose properly rather than settle for one token plate. Prices are mid-range for central Glasgow.
 
 ## Finding Albion Street
 

@@ -99,16 +99,15 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-29'
 ---
-
 Stand at the corner where Rue des Marchands meets Rue Mercière and tip your head back. Above you is a corner oriel, a turret-like bay jutting from the first floor. Over it runs a wooden gallery, and every stretch of plaster between the timbers is painted. Maison Pfister has stood on this corner since 1537, making it one of the oldest houses in Colmar's old town. It is also one of the most photographed.
 
 It also happens to sit on an ordinary shopping street. That is the charm, and it is the reason people walk straight past it.
 
 ## A hatter's house from 1537
 
-The house was built for Ludwig Scherer, a hatter from Besançon who got rich enough to commission the most ambitious townhouse on the street. It dates from the early Alsatian Renaissance. You can see that in the way the stone ground floor gives way to timber and paint above. A merchant was advertising his success to everyone heading for the market.
+The house was built for Ludwig Scherer, who got rich enough to commission the most ambitious townhouse on the street. It dates from the early Alsatian Renaissance. You can see that in the way the stone ground floor gives way to timber and paint above. A merchant was advertising his success to everyone heading for the market.
 
-The name came much later. The Pfister family owned the house from the nineteenth century onward, and their name stuck. Today it is listed as a historical landmark.
+The name came much later. The Pfister family later owned the house, and their name stuck. Today it is listed as a historical landmark.
 
 ## Reading the painted façade
 

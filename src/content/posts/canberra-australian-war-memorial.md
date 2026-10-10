@@ -63,7 +63,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## The shrine at the end of the axis
 
 Start at the lake end of Anzac Parade and look up. The red gravel boulevard runs north past a line of national memorials to a sandstone building with a copper dome, and Mount Ainslie rises behind it. Walter Burley Griffin's land axis runs through here, so Parliament House faces the Memorial across Lake Burley Griffin.
@@ -87,7 +86,7 @@ The galleries below and behind hold:
 
 Crowd data points one way: weekdays between 10am and 4pm are the calmest. On weekends, try not to arrive between 11am and 3pm. That is peak time, when the Hall of Memory and the big aircraft galleries fill with people.
 
-On a Saturday, come at opening, walk the Commemorative Area first and leave the galleries until later. Opening hours are not listed here, so check the official site before you go.
+On a Saturday, come at opening, walk the Commemorative Area first and leave the galleries until later. Check the official site for current opening hours before you go.
 
 The Last Post Ceremony runs at closing time every day in the Commemorative Area. It tells the story of one person named on the Roll, followed by a bugler, and it draws a crowd of its own. Get to the Pool of Reflection early if you want to stand near the front.
 

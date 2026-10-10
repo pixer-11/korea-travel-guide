@@ -72,7 +72,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A house older than most of the city around it
 
 Mabini Street is plain concrete and tangled wiring. Then you reach a wall of coral stone under a roof of clay tiles. That is the Yap-San Diego Ancestral House. It was built in the late 1600s, which makes it one of the oldest homes still standing in the Philippines.
@@ -103,7 +102,7 @@ Once you're there, you can walk to the rest of old Cebu:
 - **Jesuit House of 1730:** a Jesuit residence from the colonial era, also in the Parian area
 - **Colon Street:** often called the oldest street in the Philippines, just beyond the district
 
-These make an easy half-day on foot. Start with the Yap-San Diego house, because it opens at 9am.
+These make an easy half-day on foot. Start at the Yap-San Diego house, since it's the first stop on this walk.
 
 ## Timing your visit around the crowds
 

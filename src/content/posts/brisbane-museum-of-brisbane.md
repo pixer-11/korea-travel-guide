@@ -60,7 +60,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Three floors above King George Square
 
 You reach this museum through a sandstone civic building. Brisbane City Hall was finished in 1930. Its columned front and clock tower face King George Square, and the museum occupies the third floor, above council offices and the domed auditorium.
@@ -99,7 +98,7 @@ The museum also runs guided tours of City Hall that explain its architecture and
 
 ## Booking the tower before the day fills
 
-Tower tour places are limited, so plan them before you do anything else. Here is how to get in without wasting time:
+Tower tour places are limited, so plan them before you do anything else. A few practical steps help:
 
 - **Book the clock tower first.** Reserve online or at the museum front desk on Level 3 as soon as you arrive. Then look around the galleries while you wait for your slot.
 - **Check prices at the source.** Entry, tour tickets and any charges for special exhibitions are listed on the museum's official website and at the front desk.

@@ -30,7 +30,6 @@ heroImage:
     x: 45
     'y': 45
 ---
-
 ## Upstairs from the tea house
 
 Your directions point at Rangoon Tea House, so look up. Namsu has recently moved into the space above it, near Thong Lor, and that makes the evening a short climb away from Burmese tea and snacks downstairs.
@@ -79,4 +78,4 @@ Rangoon Tea House is right downstairs, which gives you an easy opening move. Arr
 
 Afterwards, Thong Lor and neighbouring Ekkamai have plenty of bars for one more drink, many of them within a short ride. If you still want something Japanese, the soi is full of it. Sukhumvit's Japanese dining scene runs from here west toward Phrom Phong.
 
-Allow around two hours at Namsu itself. That's enough for several rounds of plates and a proper look at the sake list without rushing.
+Give yourself plenty of time at Namsu itself. That's enough for several rounds of plates and a proper look at the sake list without rushing.

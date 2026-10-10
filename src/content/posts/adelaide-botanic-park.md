@@ -72,7 +72,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Botanic Park has no flowerbeds to speak of. It's grass and giant trees, nothing else. Massive Moreton Bay figs spread their limbs low over the lawn, their grey buttress roots fanning out across the ground like poured concrete. The shade underneath is deep enough that the grass thins out under the canopy.
 
 This is the open, unfenced-feeling neighbour of the Adelaide Botanic Garden. The garden next door is for looking at plants. The park is for sitting under them.
@@ -120,7 +119,7 @@ The park works on a few simple habits. Use them and your visit will go smoothly:
 - **Take your rubbish out.** Bins fill quickly on busy weekends, and the birds will find anything you leave behind.
 - **Leave room for others.** On crowded weekend afternoons, people expect you not to fence off a whole stretch of shade.
 
-Timing makes the biggest difference. On weekdays, the park stays quiet right through from 8am to 5pm, so you can take your pick of the shade. Weekends are a different story. Try not to arrive after 11am on a Saturday or Sunday, because from then until 5pm the best spots under the figs are taken. If a weekend is your only option, come at opening and aim for 9am to 10am.
+Timing makes the biggest difference. On weekdays, the park stays quiet, so you can take your pick of the shade. Weekends are a different story. Try not to arrive after 11am on a Saturday or Sunday, because from then until 5pm the best spots under the figs are taken. If a weekend is your only option, come at opening and aim for 9am to 10am.
 
 ## Hours and how long to stay
 

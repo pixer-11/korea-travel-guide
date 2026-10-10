@@ -54,7 +54,7 @@ City Walk itself is walkable, low-rise, and built around pedestrian streets line
 
 ## Getting there and parking
 
-Coca-Cola Arena has its own multi-storey parking structure attached to City Walk, but on a big concert night it fills fast and exit queues afterward can stretch long. The nearest metro option is Business Bay Station on the Red Line, from which City Walk is a further taxi or ride-share hop rather than a direct walk.
+Coca-Cola Arena has its own multi-storey parking structure attached to City Walk, but on a big concert night it fills fast and exit queues afterward can stretch long. City Walk isn't a direct walk from the nearest metro stations, so most visitors relying on the metro still need a further taxi or ride-share hop to reach the arena.
 
 Most concertgoers arrive by taxi or ride-share directly to the City Walk drop-off point nearest the arena. From Downtown Dubai or Business Bay the drive is typically short, though the post-show crush puts thousands of people on the road at once.
 

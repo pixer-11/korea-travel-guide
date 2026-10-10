@@ -71,7 +71,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Robusta on Ann Street
 
 Most specialty cafés treat robusta as the bean to apologise for. Black Sheep Coffee built a whole brand on the opposite view. The London-founded chain has spent years making the case for good-quality robusta, and its "leave the herd behind" sheep logo is the joke behind it.
@@ -99,7 +98,7 @@ The menu follows the chain's standard lineup, so you can expect the familiar esp
 - **A flat white or latte.** Robusta's body and lower acidity hold up well under milk.
 - **A straight espresso.** This is the honest test if you've never tried robusta on purpose.
 - **Iced coffee.** It's a staple of the chain's menu, and robusta comes through clearly when it's chilled.
-- **A waffle or pastry.** Black Sheep is known for sweet waffles alongside its baked goods; check what's on the board at this branch.
+- **A pastry or baked good.** Check what's on the board at this branch.
 
 A heads-up on caffeine. Robusta usually carries noticeably more caffeine than arabica. If you're sensitive to it, a single shot will do more than you're used to.
 

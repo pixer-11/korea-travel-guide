@@ -116,7 +116,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-02'
 ---
-
 ## A roof you can stand on, 198 metres up
 
 Most skyscrapers keep their best floor behind a glass wall. Main Tower puts you outside, on an open platform at roughly 198 metres, with a railing and nothing above but the antenna mast. The wind at that height is real, and you feel it on your face.
@@ -135,7 +134,7 @@ Driving is a poor choice here. The banking district is dense, and the S-Bahn fro
 
 ## The airport-style check before the lift
 
-Your visit starts at street level, not at the top. Because this is a working bank tower, visitors pass through a security check much like an airport's. Bags go through a scanner, and you walk through a detector.
+Your visit starts at street level, not at the top. Because this is a working office tower, visitors pass through a security check much like an airport's. Bags go through a scanner, and you walk through a detector.
 
 Travel light. Large luggage and bulky bags can cause problems, so leave the suitcase at your hotel or in the lockers at the Hauptbahnhof. Pocket knives and similar items are best left behind entirely.
 
@@ -172,7 +171,7 @@ Last admission comes before the listed closing time, and weather can cut an even
 
 This is one of the most-reviewed sights in Frankfurt, and the bottleneck is the security check, not the platform. A few habits help:
 
-- **Buy tickets on the official website if offered.** The current price is posted there and at the ticket desk at the entrance. Booking ahead usually means less time standing at the counter.
+- **Buy tickets on the official website if offered.** Prices are posted on the website and at the ticket desk at the entrance. Booking ahead usually means less time standing at the counter.
 - **Have your bag ready to open**, and keep phones, keys and coins together so the scanner moves quickly.
 - **Pay by card.** Germany still leans on cash in small shops, but a major attraction like this takes cards at the desk.
 - **Bring a layer and hold your hat.** It is noticeably colder and windier on the roof than at street level, even in summer.

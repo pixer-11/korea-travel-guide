@@ -112,7 +112,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-03'
 ---
-
 ## Steingasse, between the bridge and the church
 
 Steingasse is a short street with a lot packed into it. At one end stands the twin-towered gate of the Alte Brücke over the Neckar. At the other end, the red sandstone of the Heiliggeistkirche rises over the Marktplatz.
@@ -151,7 +150,7 @@ For a group on a weekend evening, try to book ahead. Check the official website 
 
 Vetter's opens at 11am every day. It closes at midnight from Sunday to Thursday and at 1am on Friday and Saturday. That gives you plenty of choice, so the question is mostly how much noise you want.
 
-Weekdays are the easy option: 11am–11pm is the quietest stretch on both weekdays and weekends. The weekend crunch is what to avoid. Between 1pm and 11pm on Saturdays and Sundays the hall fills up, and finding seats for a group gets harder.
+Weekdays are the easy option: 11am–11pm is the quietest stretch. The weekend crunch is what to avoid. Between 1pm and 11pm on Saturdays and Sundays the hall fills up, and finding seats for a group gets harder.
 
 If a weekend is your only chance, an 11am lunch right at opening lets you get in before the 1pm rush. On a Friday or Saturday, the late hours until 1am are good for a nightcap after dinner elsewhere.
 

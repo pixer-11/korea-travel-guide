@@ -83,7 +83,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-03'
 ---
-
 Four storeys of sandstone with no roof, windows open to the sky, stand at the edge of Mason Cove. This is the Penitentiary. It started life as a flour mill and granary and was turned into convict cells in the 1850s. Bushfires gutted it in the late 1890s. It sits in the middle of the grounds, and you will walk past it again and again.
 
 Port Arthur ran as a penal station from 1830 to 1877. It is now one of the eleven places listed together as the Australian Convict Sites World Heritage property. The grounds cover a wide sweep of lawn, ruins and restored houses around the water. Expect to spend a full day here, not a quick stop.
@@ -127,7 +126,7 @@ The grounds are large and the slopes are grassy, with some steep paths up to the
 
 ## Respect on the grounds
 
-Port Arthur is a heavily visited, consistently well-rated landmark, and it gets treated as such. It is also a place of grief beyond the convict era. In 1996 a mass shooting killed 35 people here, and the Memorial Garden now stands at the site of the Broad Arrow Café, where many of them died.
+Port Arthur is a heavily visited, consistently well-rated landmark, but it deserves more care than that popularity might suggest. It is also a place of grief beyond the convict era. In 1996 a mass shooting killed 35 people here, and the Memorial Garden now stands at the site of the Broad Arrow Café, where many of them died.
 
 Some things visitors are asked to remember:
 

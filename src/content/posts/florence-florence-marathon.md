@@ -40,7 +40,6 @@ heroImage:
     top: 36
     bottom: 44
 ---
-
 ## 42 kilometres through a Renaissance postcard
 
 This is the 42nd edition. The Estra Firenze Marathon puts runners from around the world on the streets of Florence on 29 November 2026. The route is the city's highlight reel: Piazza del Duomo under Brunelleschi's dome, Piazza della Signoria beside Palazzo Vecchio, and across the Arno on Ponte Vecchio.
@@ -49,7 +48,7 @@ The finish is Piazza Santa Croce. It is a long, open rectangle facing the white,
 
 ## Getting to the course
 
-Most visitors arrive at Santa Maria Novella, Florence's main rail station. From there the historic centre is walkable, and Santa Croce is roughly 20 to 25 minutes on foot east across town.
+Most visitors arrive at Santa Maria Novella, Florence's main rail station. From there the historic centre is walkable, and Santa Croce is within walking distance across town.
 
 - **Florence Airport (Peretola):** tram line T2 runs into the centre near the station.
 - **Pisa Airport:** a regular train connection reaches Santa Maria Novella.
@@ -79,4 +78,4 @@ For spectators:
 
 Coffee works the local way. At a bar you drink espresso standing at the counter, and many places ask you to pay at the cassa (till) first and then hand over the receipt. Sitting at a table can cost more.
 
-For the post-race dinner, reserve a table. Trattorie near Santa Croce and across the river in Oltrarno fill with runners that evening. Bistecca alla fiorentina, ribollita and pappa al pomodoro are the classic Tuscan refuels. Leave a day for the Uffizi, but book that ticket separately in advance.
+For the post-race dinner, reserve a table. Trattorie near Santa Croce and across the river in Oltrarno fill with runners that evening, serving classic Tuscan dishes. Leave a day for the Uffizi, but book that ticket separately in advance.

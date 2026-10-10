@@ -66,7 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Domes Above the Old Steine
 
 From the Old Steine traffic you see the Royal Pavilion's pale onion domes and slim minarets rising over the garden trees. Nothing else on the English south coast looks like it. Just behind it are the Brighton Museum & Art Gallery and the Dome concert hall, so you are standing in the city's cultural quarter, a few minutes' walk from the sea.
@@ -77,7 +76,7 @@ The building started as a modest seaside villa for the Prince of Wales, the futu
 
 The tour runs through the state rooms in one direction. The look changes fast, and the rooms feel more theatrical than stately.
 
-- **The Banqueting Room**: the chandelier is the showpiece. It hangs from the claws of a silvered dragon under a ceiling painted with a giant plantain tree, and it weighs about a ton.
+- **The Banqueting Room**: a chandelier hangs from the claws of a silvered dragon under a ceiling painted with a giant plantain tree, and it weighs about a ton.
 - **The Music Room**: lotus-shaped glass lamps hang beneath a domed ceiling of gilded scales. The room was badly damaged by an arson attack in 1975 and took years of painstaking restoration.
 - **The Long Gallery**: the spine of the house. It is lined with pink and blue painted bamboo motifs, and the staircase rails look like bamboo but are made of cast iron.
 - **The upstairs bedrooms**: quieter and plainer. They include rooms associated with Queen Victoria, who never warmed to the place.
@@ -102,7 +101,7 @@ The most moving chapter came during the First World War. From 1914 the Pavilion 
 
 This is one of Brighton's most visited attractions, and the rooms are narrow enough that crowds slow the whole route. Weekends between 12pm and 5pm are the busiest time. If you arrive then, you will shuffle through the Banqueting Room behind other groups.
 
-The quietest window is 10am to 11am on weekdays, which lines up with opening time. Here is how to make the most of it:
+The quietest window is 10am to 11am on weekdays, which lines up with opening time. Here's how to make the most of it:
 
 - **Book a timed ticket online** before you travel. The current price is on the official Royal Pavilion & Garden website, where you can also check for concessions.
 - **Arrive for the 10am opening** and go straight through. Get the Banqueting Room and Music Room done before the late-morning groups catch up.

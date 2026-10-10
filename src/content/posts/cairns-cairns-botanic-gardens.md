@@ -66,7 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Rainforest at the end of a suburban street
 
 Edge Hill is mostly a quiet residential suburb. Then Collins Avenue runs into a wall of palms, gingers and buttress-rooted trees, and the gardens begin. Mount Whitfield rises steeply behind them, covered in forest, and planes on approach to Cairns Airport pass low overhead.
@@ -96,7 +95,7 @@ The Gondwana Evolutionary Trail runs through this part of the gardens. It walks 
 
 The best workout in Cairns starts at the edge of the gardens. The Red Arrow track climbs into Mount Whitfield Conservation Park and makes a loop of about 1.3km. Most of it is steep stairs and switchbacks under rainforest. A lookout partway up gives you a view across the city towards Trinity Inlet.
 
-It's a short walk but a sweaty one in tropical humidity. Carry water, wear shoes with grip, and allow 45 minutes to an hour. Fit walkers can take the much longer Blue Arrow circuit further into the conservation park. Many locals treat the Red Arrow as their regular early workout, so if you climb straight after the 7:30am opening you'll be sharing the steps with them.
+It's a short walk but a sweaty one in tropical humidity. Carry water, wear shoes with grip, and allow 45 minutes to an hour. Fit walkers can take the much longer Blue Arrow circuit further into the conservation park. Many locals treat the Red Arrow as their regular early workout, so expect to share the steps with them if you climb early in the morning.
 
 ## Getting to Edge Hill
 

@@ -65,7 +65,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 Low buildings sit on a grassy headland above the Arafura Sea, with the water visible across the lawn. The Museum and Art Gallery of the Northern Territory, usually called MAGNT, covers the Top End in one building. Its collections run from Aboriginal bark paintings and rock art to fossils, natural science and the boats that crossed the seas north of Darwin.
 
 It's among the best-reviewed attractions in the city. Expect company, especially on weekends.
@@ -77,7 +76,7 @@ Start with the art. The Aboriginal and Torres Strait Islander collections are th
 After the art, most visitors head for these:
 
 - **Cyclone Tracy.** This gallery covers the storm that flattened Darwin on Christmas Eve 1974. A darkened sound room plays a recording of the wind, and the noise stays with people long after they leave.
-- **Sweetheart.** This preserved saltwater crocodile is around five metres long. In the 1970s he became famous for attacking boats on the Finniss River region's waterways.
+- **Sweetheart.** This preserved saltwater crocodile is around five metres long. In the 1970s he became famous for attacking boats.
 - **Natural sciences.** Fossils and specimens of Top End wildlife, from marine life to birds.
 - **Maritime gallery.** Seafaring history, including vessels from the region's pearling and trading past.
 

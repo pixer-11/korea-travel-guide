@@ -122,7 +122,7 @@ Skip the side pavilions if you're short on time. Wanchun alone gives the full pa
 
 The park's south gate faces the Forbidden City's Shenwumen (North Gate) directly across the street, making it the natural next stop after a palace visit. Line 8 subway's Shichahai station is a 15-minute walk northwest; Line 6's Beihai North station is closer, about 10 minutes.
 
-The park covers 57 acres, laid out symmetrically around the central hill. Beyond the peaks, look for:
+The park is laid out symmetrically around the central hill. Beyond the peaks, look for:
 
 - Chonghua Palace and Fuxiang Pavilion, former imperial garden buildings on the east side
 - The locust tree site near the east gate

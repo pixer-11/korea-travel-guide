@@ -94,7 +94,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-02'
 ---
-
 ## Glass, palms and a Duke's old collection
 
 The Palmengarten opened in 1871. Frankfurt's citizens founded it after buying the exotic plants of the deposed Duke of Nassau, whose collection had stood at Biebrich. Garden architect Heinrich Siesmayer laid it out, and the street outside the main entrance carries his name.
@@ -126,6 +125,6 @@ This garden is popular with Frankfurt families, so plan around the crowds rather
 
 - **Do the glasshouses first.** Head for the Tropicarium and Palmenhaus as soon as you're through the gate. Those are where the queues build, and the outdoor lawns soak up crowds much better.
 - **Check prices and events online.** Current admission is listed on the official Palmengarten website and at the ticket desk. The site also lists the seasonal orchid and flower shows, which bring in more visitors on the days they run.
-- **Stay on the paths.** The beds are labelled scientific plantings, not picnic lawns. Germans tend to follow garden rules closely, and staff will tell you if you step off the path.
+- **Stay on the paths.** The beds are labelled scientific plantings, not picnic lawns. Staff ask visitors to keep off the beds, and will let you know if you step off the path.
 - **Dress in layers.** The tropical houses are hot and humid. You'll want to take a jacket off inside and put it back on outside.
 - **Leave by the far gate.** Exit on the northern side and you can walk straight into Grüneburgpark. It's a good way to end the visit without heading back through the main entrance.

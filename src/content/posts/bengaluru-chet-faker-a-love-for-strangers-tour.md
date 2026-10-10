@@ -42,25 +42,9 @@ faq:
 aiGenerated: true
 draft: false
 ---
-Chet Faker doesn't tour India often, so a three-city run landing in Bengaluru on September 20, 2026 is the kind of date that gets circled fast among fans of Australian electro-soul. It was set as the closing show of the swing, after Delhi NCR on September 18 and Mumbai on September 19.
-
-## Why Bengaluru gets the closing slot
-
-Promoters usually save the city with the strongest existing fanbase for last, letting word from earlier stops build momentum. Bengaluru has hosted a steady run of international electronic and alt-R&B acts over the past decade, and its listener base for downtempo, bass-driven songwriting like Chet Faker's runs deep. A weekend date (Sunday, September 20) also suits a city where much of the audience is working professionals catching a weekend show.
-
-## What "A Love For Strangers" means for the setlist
-
-The tour takes its name from a phase of Chet Faker's catalogue defined by warmer, more organic production than his early days, blending live instrumentation with his baritone vocal. The set was billed as threading through both eras.
-
-- Older, glitch-soul favorites built around vocal chopping and sparse beats
-- Newer, band-driven arrangements with guitar and live drums
-- At least one extended, groove-led midset stretch typical of his live shows
-
-None of this is a confirmed setlist; it's simply the shape his live shows have taken in recent years.
-
 ## Venue and timing
 
-The specific venue for the Bengaluru date isn't detailed in the tour information here. Indian tour stops of this scale typically land in one of the city's mid-to-large indoor venues or outdoor grounds equipped for international production. The exact address, doors time and curfew sat with the promoter, and venue location is what decides which part of the city makes sense as a base.
+The specific venue for the Bengaluru date isn't detailed in the tour information here. Indian tour stops of this scale typically land in one of the city's mid-to-large indoor venues or outdoor grounds equipped for international production. The exact address, doors time and curfew sat with the promoter. Once that location is known, it's what decides which part of the city makes sense as a base.
 
 ## Getting tickets without overpaying
 

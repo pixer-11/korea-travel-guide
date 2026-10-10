@@ -111,7 +111,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-02'
 ---
-
 ## Thousands of tiny lives under one roof
 
 The scale hits you at the first railing. Model trains thread through Alpine passes, Scandinavian fjords, Venice, Monaco and a miniature Hamburg. Each layout sits at waist height behind low glass, so children and adults look down on it from the same angle.
@@ -140,7 +139,7 @@ Opening hours vary a lot by day:
 - **Saturday:** 8am–midnight
 - **Sunday:** 8:30am–8pm
 
-This is one of Germany's most-visited attractions, so dodging crowds matters. Weekends are busiest from 11am to 11pm. If you can only come on a Saturday, arrive for the 8am opening and get the big rooms done before the late-morning surge. On weekdays the quietest slot is 6pm–7pm. Only Friday stays open that late, so a Friday afternoon ticket lets you finish in the calmest hour.
+This is one of Germany's most-visited attractions, so dodging crowds matters. Weekends are busiest from late morning through early evening. If you can only come on a Saturday, arrive for the 8am opening and get the big rooms done before the late-morning surge. On weekdays the quietest slot is 6pm–7pm. Only Friday stays open that late, so a Friday afternoon ticket lets you finish in the calmest hour.
 
 Saturday's midnight closing is the other option for night owls. The day-night lighting looks especially good once the city outside has gone dark too.
 

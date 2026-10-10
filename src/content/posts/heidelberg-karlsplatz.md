@@ -83,7 +83,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-03'
 ---
-
 ## Where Hauptstraße finally opens up
 
 For more than a kilometre, Hauptstraße squeezes you between shopfronts. Then, past Kornmarkt, the buildings pull back. You're standing on Karlsplatz, a broad rectangle of old-town paving, and Heidelberg Castle fills the hillside right above you.
@@ -99,7 +98,7 @@ Karlsplatz is framed by buildings, not shops. That's why it feels calmer than th
 - **The castle** above, its terraces and ruined towers clearly visible over the rooftops.
 - **Restaurant frontages** along the edges, where tables tend to move outdoors in warmer months.
 
-The square sits at Hauptstraße 214, at the point where the main pedestrian street runs out of its busiest stretch. Keep walking east and the old town thins out towards the Karlstor, the triumphal-arch gate at the edge of the Altstadt.
+The square sits where the main pedestrian street runs out of its busiest stretch. Keep walking east and the old town thins out towards the Karlstor, the triumphal-arch gate at the edge of the Altstadt.
 
 ## Getting to the castle end of the old town
 

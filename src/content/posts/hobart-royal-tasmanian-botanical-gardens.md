@@ -97,7 +97,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-03'
 ---
-
 ## A garden older than most of Hobart
 
 The gardens date from 1818. That makes them the second-oldest botanic garden in Australia, after Sydney's. The 14 hectares slope down the eastern flank of the Queens Domain towards the Derwent River. From most of the lawns you look across the water to the eastern shore, with the Tasman Bridge close by to the north.
@@ -126,7 +125,7 @@ There is a car park beside the main entrance on Lower Domain Road. On busy weeke
 
 The gates open at 8am and close at 5pm every day of the week. Last entry isn't the same as closing time, so aim to be heading back towards the gate by about 4:30pm.
 
-Weekdays are quiet from opening to close, which makes any weekday the easy choice. On weekends, the calmest window is 8am to 10am. Try not to arrive between 11am and 4pm on a Saturday or Sunday. That is when the lawns fill, the café queue grows and parking gets tight.
+Weekdays tend to be quieter overall, which makes any weekday the easy choice. On weekends, the calmest window is 8am to 10am. Try not to arrive between 11am and 4pm on a Saturday or Sunday. That is when the lawns fill, the café queue grows and parking gets tight.
 
 Season changes what you see. Spring, from September to November, brings blossom to the Japanese Garden and bulbs to the beds. Autumn, around April, turns the deciduous trees in the cool-climate plantings red and gold. Hobart winters are cold but rarely harsh, and the gardens stay open year-round.
 

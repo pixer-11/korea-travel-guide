@@ -94,7 +94,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-30'
 ---
-
 Cardiff's shopping streets run straight into a stone wall. At the top of St Mary Street, the traffic turns along Castle Street and a long curtain of masonry takes over, broken by a gatehouse and a clock tower. Cardiff Castle is not tucked away somewhere. It is the city's centre of gravity, and you reach it by walking out of a shop door.
 
 ## Three castles on one patch of ground
@@ -141,7 +140,7 @@ Allow two to three hours if you want the house, the keep and the tunnels. Add mo
 
 ## Getting through the gatehouse early
 
-The castle is well known and very busy, so beating the crowd matters more than any insider trick. Here is how to do it.
+The castle is well known and very busy, so beating the crowd matters more than any insider trick.
 
 - **Book online** through the official Cardiff Castle website where you can. Current ticket prices and tour options are listed there, and booking saves you from queuing at the gate.
 - **Check the Principality Stadium fixtures.** On rugby international or big concert days, the city centre fills with crowds, and the streets around the castle are packed.

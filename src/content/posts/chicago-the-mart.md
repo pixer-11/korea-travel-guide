@@ -82,7 +82,7 @@ Once inside, head straight to the information desk in the main lobby; the floor 
 
 - CTA Brown/Purple Line: Merchandise Mart stop, steps from the entrance
 - Walkable from River North and the Loop in under 15 minutes
-- Chicago Riverwalk runs along the building's south side
+- Chicago Riverwalk runs along the opposite bank of the river, facing the building's south side
 
 ## The weekday-only rhythm
 

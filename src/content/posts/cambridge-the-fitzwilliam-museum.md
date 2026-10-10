@@ -87,7 +87,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-30'
 ---
-
 ## Through the lions on Trumpington Street
 
 A row of Corinthian columns rises straight off the pavement. This is the Founder's Building, begun by George Basevi and finished by C.R. Cockerell. It exists because Richard, 7th Viscount Fitzwilliam, left his collection and library to the University of Cambridge in 1816.
@@ -112,7 +111,7 @@ Allow two to three hours to see it properly. If you have only one hour, choose b
 
 Weekends are the problem. The busiest stretch runs from 11am to 5pm on both Saturday and Sunday. On Sunday the doors don't open until 12:00, so that crowded stretch covers the whole of Sunday opening.
 
-Here is how the week plays out:
+Opening hours break down like this:
 
 - **Monday:** closed. This catches out plenty of day-trippers.
 - **Tuesday to Saturday:** open 10:00 AM to 5:00 PM.

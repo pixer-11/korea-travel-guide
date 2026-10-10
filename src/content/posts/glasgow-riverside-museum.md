@@ -93,7 +93,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-30'
 ---
-
 ## A zinc roof folded like a pleat
 
 Walk along the quay and the building shows you a jagged edge. Zaha Hadid designed it, and it opened in 2011 as the new home for Glasgow's transport collection. The zinc-clad roof zigzags in a series of peaks. From the side, it looks like a sawtooth or a folded sheet of metal.
@@ -147,6 +146,6 @@ Doors close at 5pm every day. Staff start moving people towards the exit a littl
 
 ## How long to give it
 
-Two hours covers the main hall at a comfortable pace. Add another 45 minutes or so if you board the Glenlee. If you're with children who find the interactive screens and the streets, three hours can go quickly.
+Two hours covers the main hall at a comfortable pace. Add another 45 minutes or so if you board the Glenlee. If you're with children who find the interactive screens and the streets fascinating, three hours can go quickly.
 
 Pair it with a walk along the Clyde, or with Kelvingrove for a full day in the West End. The two buildings make a strong contrast. Kelvingrove is red sandstone from 1901, and Riverside is folded metal from a century later.

@@ -107,7 +107,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-28'
 ---
-
 ## A street that runs on gold and neon
 
 Yaowarat Road bends through Samphanthawong like a spine. Everything else in Chinatown hangs off it in narrow sois and lanes. Vertical signs in Chinese and Thai lettering stack over the traffic, some of them wider than the shopfronts beneath.
@@ -148,7 +147,7 @@ Dishes worth looking for:
 - **Bird's nest soup:** sold from shopfronts with the dried nests in display cases
 - **Khanom pang:** toasted buns with sweet custard or pandan dips
 
-Street vendors in Bangkok often take Monday off. If eating is the point of your visit, choose another night.
+Stalls don't all keep the same schedule, so you may find a favorite vendor closed on any given night. If eating is the point of your visit, build in a backup night.
 
 ## Eating at the curb: how the stalls work
 

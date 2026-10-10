@@ -30,7 +30,6 @@ heroImage:
     x: 50
     'y': 75
 ---
-
 ## An address Barcelona already knows
 
 Few dining rooms in this city come with this much history. Osteria Condal opened in 2026 in the space once occupied by Tickets and Teatro, on the Sant Antoni side of Avinguda del Paral·lel. For a decade, Tickets was the tapas bar food travellers planned whole trips around.
@@ -69,7 +68,7 @@ Barcelona eats late, and a booking that seems early to you may be early for the 
 
 Card payment is standard in Barcelona restaurants, and contactless works almost everywhere. Tipping isn't expected the way it is in North America. Rounding up or leaving a small amount for good service is normal, and nobody will chase you for more.
 
-If you don't speak Spanish or Catalan, a simple *bona nit* (good evening, in Catalan) at the door is always received well. Ask for the bill with *el compte, si us plau*. It won't come until you ask, because lingering at the table is part of the meal here.
+If you don't speak Spanish or Catalan, a simple *bona nit* (good evening, in Catalan) at the door is always received well. Ask for the bill with a simple "the bill, please." It won't come until you ask, because lingering at the table is part of the meal here.
 
 ## Making an evening of the neighbourhood
 

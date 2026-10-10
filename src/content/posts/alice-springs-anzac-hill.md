@@ -69,7 +69,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A whole town laid out below you
 
 From the top you can see all of Alice Springs at once. The grid of the town centre sits right below the summit, with Todd Mall running through it and the sandy bed of the Todd River along its eastern edge. The MacDonnell Ranges fill the southern horizon as one long wall of rock.
@@ -94,7 +93,7 @@ Carry water on the walk, even in winter. The climb has no shade, and on summer a
 
 ## Timing it around the crowds
 
-The hill never closes, so when you go is up to you. The crowd pattern is clear, though. On weekends the summit is busy from 9am to 9pm. If you arrive in the middle of that window, expect a full car park and people all along the railing.
+The hill never closes, so when you go is up to you. The crowd pattern is clear, though. On weekends the summit sees a steady stream of visitors through the day. If you arrive in the middle of that window, expect a full car park and people all along the railing.
 
 On weekends, the calm window is 7am to 9am. The ranges are lit from the east then, and the temperature is still bearable in the warmer months. Early morning is also when the hill feels most like a quieter find than a tour-bus stop.
 

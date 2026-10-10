@@ -52,12 +52,11 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A Mughal house built in someone else's accent
 
 A carved stone bowl waits on the lawn before the facade. This is the Hauz-i-Jahangiri, cut from a single block of stone for Emperor Jahangir. Behind it runs a long red sandstone front with white marble inlay, domed chhatris on each corner and a deep central gateway.
 
-Akbar built the palace in the late 16th century, mainly for the women of the royal household. It is the largest residence in Agra Fort. Its name comes from Akbar's son and heir.
+Akbar built the palace in the late 16th century as one of the principal residences within Agra Fort. It is the largest residence in Agra Fort. Its name comes from Akbar's son and heir.
 
 ## Reading the stone
 

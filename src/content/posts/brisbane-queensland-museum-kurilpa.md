@@ -66,7 +66,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Concrete, whales and dinosaurs
 
 The building is part of Robin Gibson's Queensland Cultural Centre. It is pale, board-marked concrete, arranged in stacked terraces above the river at South Brisbane. Kurilpa is the traditional name for this stretch of the south bank, and the museum took it on as part of its title.
@@ -92,7 +91,7 @@ From the city, walk across Victoria Bridge from the end of Queen Street, which t
 
 ## Beating the weekend crowd
 
-The museum is well visited, and the crowds follow school and weekend patterns. On weekends, avoid arriving between 11am and 4pm, because that is when the galleries and SparkLab fill up. The best weekend option is to be at the door when it opens at 9:30am and head upstairs before the family groups arrive.
+The museum is well visited, and the crowds follow school and weekend patterns. On weekends, avoid arriving between 11am and 4pm, when the galleries and SparkLab are busiest. The best weekend option is to be at the door when it opens at 9:30am and head upstairs before the family groups arrive.
 
 On weekdays, the calmest hour is 4pm to 5pm. The museum closes at 5pm every day, so that hour is only long enough to see one or two galleries. A good plan is to spend the morning at the Queensland Art Gallery next door, then walk over for a quiet final hour.
 

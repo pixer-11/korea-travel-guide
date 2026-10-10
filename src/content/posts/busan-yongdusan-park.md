@@ -104,7 +104,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-30'
 ---
-
 ## Why Yongdusan Park anchors a Busan visit
 
 You climb out of the alleys of Nampo-dong and the city noise just drops away. Pigeons scatter off a stone plinth, cicadas buzz in summer, and suddenly you're under a canopy of pines instead of neon signs.
@@ -125,7 +124,7 @@ Because the park never closes, there's no gate and no ticket for the grounds the
 
 ## What to see once you're up top
 
-Busan Tower is the obvious anchor, rising 129 meters and visible from much of the old downtown. The observation deck gives you a sweep of Busan Harbor, the container cranes at the port, and on clear days the outline of Gwangalli and the hills beyond.
+Busan Tower is the obvious anchor, visible from much of the old downtown. The observation deck gives you a sweep of Busan Harbor, the container cranes at the port, and on clear days the outline of Gwangalli and the hills beyond.
 
 Below the tower, the park's paths are dotted with monuments worth slowing down for:
 
@@ -151,9 +150,8 @@ Yongdusan Park is one of central Busan's most visited attractions, so the goal i
 
 - Go early. Weekday mornings, or that narrow 7am-8am weekend window, are your best shot at empty pathways.
 - Skip the stairs if you're short on time, the escalators or the Lotte Department Store elevator save real effort.
-- Pay for the tower ticket at the counter; cash and card are both fine, and there's rarely a need to book ahead outside peak holiday weeks.
+- Buy the tower ticket on site, and there's rarely a need to book ahead outside peak holiday weeks.
 - Combine it with Nampo-dong and Gukje Market, both within walking distance, so the hill becomes one stop on a bigger loop rather than a separate trip.
 - The mistake most visitors make is arriving midday on a weekend expecting a peaceful hilltop walk. It's the busiest stretch of the whole week here.
 
 Because the park is open around the clock, there's genuine freedom to build it around the rest of your Busan day rather than the other way around.
-

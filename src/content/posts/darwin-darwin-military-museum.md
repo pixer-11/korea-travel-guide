@@ -93,7 +93,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-29'
 ---
-
 Out at East Point, the city drops away behind you and the road runs past grass, mangroves and the flat water of Fannie Bay. Then concrete appears among the trees: gun emplacements and bunkers built to face the Timor Sea. The Darwin Military Museum is built around them. You are standing on ground that was actually defended, and that shapes the whole visit.
 
 ## A museum on a real battery
@@ -122,9 +121,9 @@ If your trip falls in mid-February, check local event listings for commemorative
 
 ## Timing your visit around the crowds
 
-Measured foot traffic makes the choice simple. From 9:30am to 4pm on weekdays and Saturdays, the museum is at its quietest, and on Sundays, when it opens 10am–3pm, that same calm holds. The trouble spot is weekends from 11am to 2pm. That's when the busiest crowds build, and you can end up queuing for screens in the multimedia gallery.
+Measured foot traffic makes the choice simple. From 9:30am to 4pm on weekdays and Saturdays, the museum is at its quietest, and on Sundays, when it opens 10am–3pm, that same calm holds. Even within those quiet windows, the busiest stretch tends to be late morning into early afternoon, when you can end up queuing for screens in the multimedia gallery.
 
-Opening hours are not listed here, so check the museum's official website before you set out. Climate matters too. The dry season, roughly May to October, is the comfortable time to walk the outdoor displays. In the wet season, see the outdoor yard first thing, before the heat peaks.
+Check the museum's official website for the most current opening hours before you set out. Climate matters too. The dry season, roughly May to October, is the comfortable time to walk the outdoor displays. In the wet season, see the outdoor yard first thing, before the heat peaks.
 
 ## Getting out to East Point
 

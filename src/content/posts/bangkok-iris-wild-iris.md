@@ -30,7 +30,6 @@ heroImage:
     x: 45
     'y': 45
 ---
-
 ## Thirty Floors Above the Park
 
 Lumphini Park looks like a dark green carpet from up here. Iris & Wild Iris sits at the top of So/ Bangkok, across the 29th and 30th floors. The hotel stands at the corner where Rama IV Road meets North Sathorn Road, so the park lies directly below you, unblocked.
@@ -51,7 +50,7 @@ The menu, drinks list and prices haven't been confirmed for this guide, so check
 
 ## The Lumphini Hour
 
-Time your visit around dusk. Bangkok sits close to the equator, so the sun sets at roughly the same time all year, somewhere around six to half past six. That means a single booking can show you two views.
+Time your visit around dusk. Bangkok sits close to the equator, so the sun sets at roughly the same time all year, between six and half past six. That means a single booking can show you two views.
 
 Arrive while it's still light. The park below gives you its lake, its tree canopy and its jogging paths, with the towers of Silom stacked along the southern side. As the light fades, the green turns black and the roads around it light up in lines of headlights.
 

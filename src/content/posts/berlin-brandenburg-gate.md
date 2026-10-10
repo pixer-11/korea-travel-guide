@@ -76,7 +76,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-02'
 ---
-
 Twelve sandstone columns, six on each side, carry a flat entablature across the eastern end of the Tiergarten. On top, a goddess drives four bronze horses toward Unter den Linden. You approach across a wide cobbled square closed to traffic, with embassies and grand hotels on three sides. Nothing stands between you and the columns except other visitors.
 
 ## A gate built for peace
@@ -134,7 +133,7 @@ The square was rebuilt after reunification, and its buildings are worth a slow l
 
 ## Where to walk next
 
-The gate works best as one stop on a loop through central Berlin. The Reichstag, with its glass dome, is a few minutes' walk north; dome visits need advance registration on the Bundestag website. A short walk south brings you to the Memorial to the Murdered Jews of Europe, with its field of 2,711 concrete stelae.
+The gate works best as one stop on a loop through central Berlin. The Reichstag, with its glass dome, is a few minutes' walk north; dome visits need advance registration on the Bundestag website. A short walk south brings you to the Memorial to the Murdered Jews of Europe, with its field of concrete stelae.
 
 West of the gate, the Tiergarten opens up, and Straße des 17. Juni leads to the Victory Column. East, Unter den Linden runs past the Humboldt University and the State Opera towards Museum Island.
 

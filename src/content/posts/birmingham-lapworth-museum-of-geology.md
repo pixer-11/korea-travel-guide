@@ -62,7 +62,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Under the dome on Chancellor's Court
 
 You reach the Aston Webb Building across the red-brick semicircle of Chancellor's Court, with the domed Great Hall at its centre. The museum lives inside this Edwardian block, and the galleries are high-ceilinged and lit by tall windows. Glass cases run the length of the rooms.
@@ -84,7 +83,7 @@ Expect to spend 60 to 90 minutes. Families should allow longer, because many dis
 
 The hours change at the weekend. Monday to Friday it opens 10am to 4pm. Saturday and Sunday it opens later and closes later, 12pm to 5pm.
 
-The weekend is when it's calmest. Across the whole Saturday and Sunday opening window, 12pm to 5pm, crowd levels stay low. That makes a weekend afternoon the easy choice for unhurried time at the fossil cases. On weekdays the campus is busy with term-time students. Getting there by 10am gives you the most of the shorter day.
+The weekend is when it's calmest. Crowd levels tend to stay lower on weekend afternoons than during the week. That makes a weekend afternoon the easy choice for unhurried time at the fossil cases. On weekdays the campus is busy with term-time students. Getting there by 10am gives you the most of the shorter day.
 
 ## Getting in and around the campus
 

@@ -51,7 +51,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A staircase pretending to be a street
 
 Pottinger Street climbs hard. From the traffic and trams near Queen's Road Central it tilts uphill towards Hollywood Road. For most of the way you're on rough granite slabs set in shallow steps, not tarmac. Locals call it 石板街, *Shek Pan Gai*, "Stone Slab Street". That name tells you more than the official one does.
@@ -101,7 +100,7 @@ Weekday lunchtime brings Central's office crowds out onto the side streets. For 
 
 ## Making a morning of it
 
-Stone Slab Street sits in the middle of old Central's walking loop. It's barely known to most visitors, who ride the escalator one block over and never look down the steps. Give the street itself 15 to 30 minutes, then carry on:
+Stone Slab Street sits in the middle of old Central's walking loop. It's barely known to most visitors, who ride the escalator one block over and never look down the steps. Give the street itself a little time to browse, then carry on:
 
 - **Tai Kwun**, the restored Central Police Station compound on Hollywood Road, now an arts and heritage centre
 - **Graham Street market**, one of the city's oldest street markets, a short walk west

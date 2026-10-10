@@ -37,7 +37,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A bazaar that stays up all night
 
 Adana is a kebab city, and for one night a year it is a rakı city too. The World Rakı Festival takes over the lanes around the Kazancılar Bazaar, the old coppersmiths' quarter, and runs overnight. It is a street festival rather than a ticketed hall, and grills, tables, music and dancing spill across the streets.
@@ -46,7 +45,7 @@ Picture the old commercial core of Adana. Low stone and brick buildings line nar
 
 ## Dates and tickets for 2026
 
-The 2026 festival is on Saturday, December 12. The rule is easy to remember: it is held every year on the second Saturday night of December. Because it is overnight, the party carries on past midnight into Sunday morning.
+The rule is easy to remember: it is held every year on the second Saturday night of December. Because it is overnight, the party carries on past midnight into Sunday morning.
 
 Ticketing depends on how each venue organises its own night. The streets are public, but restaurants and meyhanes inside the area run their own tables and reservations. Confirm timing, venue boundaries and tickets on the official festival source, and book a table directly with any restaurant you have your heart set on.
 

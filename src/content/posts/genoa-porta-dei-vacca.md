@@ -85,7 +85,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-29'
 ---
-
 Two stone towers rise from the end of a narrow Genoese street, with a pointed arch between them. Via del Campo is barely wide enough for a delivery van, and it runs straight into that arch. Walk through and the medieval city ends. On the far side are the traffic of the port road and the open sky over the harbour.
 
 That sudden change is the reason to come. Porta dei Vacca gets far less attention than Porta Soprana, its better-known twin up the hill. Its location helps: it sits on the working edge of the old town, not on a postcard piazza.
@@ -130,7 +129,7 @@ On the metro, get off at **Darsena**, the stop by the old dock, and walk a few m
 
 ## Walking the caruggi with the Genoese
 
-The streets around the gate are a neighbourhood where people live, not a museum set. Here is how to fit in:
+The streets around the gate are a neighbourhood where people live, not a museum set. Here is how to blend in:
 
 - **Keep to one side.** Via del Campo is narrow, and residents with shopping bags and scooters have right of way. Step into a doorway to take photos.
 - **Photograph the stone, not the people.** People sitting in doorways and at shop counters did not agree to be in your picture.

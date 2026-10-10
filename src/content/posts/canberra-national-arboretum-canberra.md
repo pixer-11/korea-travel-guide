@@ -96,7 +96,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-01'
 ---
-
 ## A Hillside Planted in Rows
 
 From the top of the ridge, the slopes below are divided into neat blocks of trees. Each block is a separate forest. One holds cork oaks, another Himalayan cedars, and the next is a species you have probably never heard of. The effect is closer to a living atlas than a park.
@@ -142,7 +141,7 @@ The arboretum is busy, especially at weekends. The crowd data is simple: weekday
 These habits make a visit go more smoothly:
 
 - **Arrive at 9am on weekends.** The Village Centre opens then, and you get an hour before the rush
-- **Walk the hill first, eat later.** Weekday locals usually head up Dairy Farmers Hill in the cool of the morning, then come back for coffee
+- **Walk the hill first, eat later.** Climbing Dairy Farmers Hill in the cool of the morning avoids the heat, then come back for coffee
 - **Picnic on the lawns.** Families spread rugs on the grass below the Village Centre, which takes pressure off the café
 - **Pay by tap.** Cards and phone payments are standard across Canberra, and nobody expects a tip at the counter
 - **Pack sun and wind protection.** The young forests give little shade, and the ridge catches whatever wind is blowing

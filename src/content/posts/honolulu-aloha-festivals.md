@@ -84,6 +84,6 @@ Locals treat the Floral Parade as a claim-your-spot-early event. People turn up 
 - Cash is handy for food vendors at the Waikīkī block party; card acceptance can be inconsistent at smaller stalls.
 - Locals wear the parade rather than dress up for it, plumeria or maile lei are common, not costume.
 - Chant and protocol at the Royal Court investiture are treated with real reverence. This isn't a photo-op moment, and the crowd stays quiet during ceremonial parts.
-- The common tourist mistake is showing up right at the announced parade start; the best curb spots are gone by then. Locals stake ground at least an hour ahead.
+- The common tourist mistake is showing up right at the announced parade start; the best curb spots are gone by then.
 
 Public transit or walking beats driving on event days, closures make parking near the route unpredictable, and buses reroute around Kalākaua Avenue while the parade is in progress.

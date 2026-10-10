@@ -77,7 +77,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A side street off the Lanes
 
 Nile Street is short and easy to miss. It sits among the narrow alleys of The Lanes, Brighton's old twitten quarter, where jewellers and independent shops press close together. Number 10 is a few minutes on foot from Brighton Square and the Royal Pavilion, and about ten minutes downhill to the seafront.
@@ -97,7 +96,7 @@ Prices are mid-range. Current prices are on the menu at the counter and table, s
 
 ## Timing it to miss the rush
 
-Weekends fill up for most of the day. Try not to arrive between 11am and 9pm on Saturday or Sunday, because that's the busiest stretch. On a weekend, your best chance of a table is right at 9am opening, before the brunch crowd walks in from the station.
+Weekends fill up for most of the day. Try to avoid the busiest stretch on Saturday or Sunday if you want to skip the crowds. On a weekend, your best chance of a table is right at 9am opening, before the brunch crowd walks in from the station.
 
 On weekdays the quietest hour is 5pm–6pm. That only works on Thursday and Friday, since the café closes at 5pm on other weekdays. An early dinner at 5pm on a Thursday is the calmest way to eat here.
 

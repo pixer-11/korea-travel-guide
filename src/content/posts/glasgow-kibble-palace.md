@@ -67,7 +67,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## A palace that travelled by water
 
 Kibble Palace was never meant for Glasgow. Engineer John Kibble built it as a conservatory at his home in Coulport, on Loch Long. In 1873 he had it taken apart and shipped up the Clyde to the Botanic Gardens, where it was rebuilt and enlarged.
@@ -100,7 +99,7 @@ The glasshouse is open daily from 10am to 5:45pm, the same hours every day. Meas
 
 Weekends between 11am and 4pm are the time to avoid. That is when families and West End strollers fill the circular paths. The gardens outside close later than the glasshouse, so don't save Kibble for the end of a long afternoon walk.
 
-Despite the name, this is still an under-the-radar stop next to Glasgow's big museums. A few habits help:
+This remains a quieter stop next to Glasgow's big museums. A few habits help:
 
 - **Keep to the paths.** The beds and pond edges are fragile, and the statues are not for climbing.
 - **Photograph without blocking.** The paths are narrow, so step aside for tripods and prams.

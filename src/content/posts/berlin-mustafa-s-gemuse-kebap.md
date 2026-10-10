@@ -105,7 +105,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-03'
 ---
-
 ## A kiosk with a queue
 
 Look for the line before you look for the shop. Mustafa's Gemüse Kebap is a small kiosk on the pavement of Mehringdamm, one of Kreuzberg's main roads. There's no dining room to walk into. You order at a hatch, take the kebab and eat standing up or walk off with it.
@@ -127,7 +126,7 @@ It's a budget-friendly meal and a filling one. One kebab is plenty for lunch. If
 
 ## Working the Mehringdamm line
 
-Measured foot traffic makes timing easy. **On weekdays the kiosk is at its quietest from 11am to 11pm**, so a Monday to Thursday visit at almost any hour beats the weekend. **On weekends, come between 11am and 1pm.** Try not to turn up on a Saturday or Sunday between 1pm and 11pm; that's when the line stretches furthest down the pavement.
+Measured foot traffic makes timing easy. **On weekdays the kiosk is quietest outside the busiest lunch and dinner hours**, so a Monday to Thursday visit at almost any hour beats the weekend. **On weekends, come between 11am and 1pm.** Try not to turn up on a Saturday or Sunday between 1pm and 11pm; that's when the line stretches furthest down the pavement.
 
 How the queue works:
 
@@ -140,7 +139,7 @@ Have napkins ready and don't wear your best shirt. With vegetables, sauce and ch
 
 ## Hours that run late
 
-The schedule runs late into the night, and the kiosk is built for after-dark appetites. Monday to Wednesday it opens from 11am to 11:30pm. Thursday and Sunday it keeps going until 12:30am, both opening at 11am.
+The schedule runs late into the night, and the kiosk is built for after-dark appetites. Monday to Wednesday it opens from 11am to 11:30pm. On Thursday and Sunday it stays open even later into the night.
 
 Friday is the odd one out. The kiosk opens at **2pm** rather than 11am, so you can't make it a Friday lunch stop, but it stays open until 2:30am. Saturday runs the longest, from 11am through to 2:30am. That makes it an easy late stop after a night out in Kreuzberg.
 

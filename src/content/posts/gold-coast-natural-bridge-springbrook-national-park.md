@@ -101,7 +101,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-09-29'
 ---
-
 ## A creek that falls through a cave roof
 
 Cave Creek drops straight through a hole in a basalt ceiling. Over thousands of years the water wore through the rock, leaving a natural arch overhead and a dim cavern underneath. The cascade lands in a plunge pool you look at from the cave floor, with daylight coming in through the gap.
@@ -132,7 +131,7 @@ Phone reception drops out in the valley. Download your map before you leave the 
 
 Natural Bridge is well known, and it fills up. The calmest window is 7am–8am, every day of the week. At that hour you can often have the viewing platform to yourself.
 
-Don't turn up on a weekend between 10am and 10pm. That is the busiest stretch, and it covers both the daytime visitors and the after-dark glow-worm walkers. If you want the glow worms, a weekday evening will be less crowded than a Saturday.
+Don't turn up on a weekend. That is the busiest stretch, and it covers both the daytime visitors and the after-dark glow-worm walkers. If you want the glow worms, a weekday evening will be less crowded than a Saturday.
 
 Glow-worm etiquette is strict and easy to follow:
 

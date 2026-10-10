@@ -67,7 +67,6 @@ faq:
 aiGenerated: true
 draft: false
 ---
-
 ## Windows that are not windows
 
 Stand in the inner courtyard and count the oriel windows. Several of them are flat paint. Around 1500, the Prince-Bishops of Augsburg had the walls of their summer residence covered in illusionist architecture: painted window frames, bays and corner details that look carved until you get close. Your eye keeps getting caught out, and that is the point.
@@ -100,7 +99,7 @@ Weekends are the problem. Saturdays and Sundays stay busy for the whole 10am–5
 
 ## Moving through the castle
 
-The gallery rooms run one after another, and visitors take them in roughly the same order. If a room is crowded, keep going and loop back. Space tends to open up once a group has moved on. Here is how the visit usually goes:
+The gallery rooms run one after another, and visitors take them in roughly the same order. If a room is crowded, keep going and loop back. Space tends to open up once a group has moved on. Here are a few practical things to know:
 
 - **Tickets** are bought at the castle itself. Check the official Füssen museums website or the desk for current prices; none are listed here.
 - **Photography** rules can differ between the courtyard and the galleries. Look for signs before you take the camera out among the panel paintings.

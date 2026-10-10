@@ -94,7 +94,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-10-01'
 ---
-
 ## The steps where a government ended
 
 Start outside, on the front steps. In November 1975, Gough Whitlam stood here after his government was dismissed and told the crowd that nothing would save the Governor-General. Those steps face down the land axis toward Lake Burley Griffin. Behind you, the flagpole of the current Parliament House rises from Capital Hill.
@@ -152,4 +151,4 @@ A few habits help:
 - **Sit on the benches where you are allowed to.** Seeing the chamber from a backbencher's seat makes the room's scale clear.
 - **Save the rose gardens for last.** They are a calm place to sit after a few hours indoors.
 
-Australians usually pay by card or tap-and-go, and the café and shop work the same way. Tipping is not expected.
+The café and shop accept standard payment methods. Tipping is not expected.

@@ -78,7 +78,6 @@ aiGenerated: true
 draft: false
 updatedDate: '2026-08-30'
 ---
-
 ## Why go
 
 You come here for the moment the boardwalk peels away from the beach and juts out over open water. Waves slap the pylons beneath your feet, spray sometimes reaching the railing, while the Songdo cable car cabins slide silently overhead on their way to Amnam Park. It's a short walk, but it's a dramatic one.
@@ -91,7 +90,7 @@ Ahead, a squat lighthouse marks the turnaround point, and behind you the high-ri
 
 ## Getting there
 
-Songdo Cloud Trails sits in Amnam-dong, Seo-gu, right at Songdo Beach, Busan's first official beach resort, dating back to the 1910s.
+Songdo Cloud Trails sits in Amnam-dong, Seo-gu, right at Songdo Beach, Busan's first official beach resort.
 
 - Take Busan Subway Line 1 to Nampo Station, then transfer to a bus (buses 6, 7, 30, or 71 run toward Songdo Beach)
 - Taxis from Nampo-dong or Jagalchi take about 10–15 minutes
