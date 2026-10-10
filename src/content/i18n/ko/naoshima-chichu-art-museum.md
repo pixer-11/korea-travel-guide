@@ -1,6 +1,6 @@
 ---
 lang: ko
-slug: takamatsu-chichu-art-museum
+slug: naoshima-chichu-art-museum
 srcHash: '6a101299c2b1'
 title: '다카마쓰 여행 가이드: 지추 미술관 (4.4★)'
 description: 지추 미술관은 다카마쓰에서 배를 타고 건너가는 예술의 섬 나오시마에 있으며, 시간 지정 입장권을 미리 온라인으로 예약해야 합니다. 4.4★(리뷰 4,749개)를 받은 이곳의 방문객 후기와 운영 시간, 관람 팁을 정리했습니다.

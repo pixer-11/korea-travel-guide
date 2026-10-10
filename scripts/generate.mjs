@@ -678,7 +678,7 @@ export function buildRotatedQueue(targets, done, countries, seasonal = [], opts 
   const activeNames = new Set(countries.map((c) => c.name));
   targets.forEach((t) => {
     const ctry = t.country ?? 'South Korea';
-    if (activeNames.has(ctry)) add({ country: ctry, ...t });
+    if (activeNames.has(ctry)) add({ country: ctry, ...t, curated: true });
   });
   if (AUTO_EXPAND) {
     for (const c of countries) {
@@ -836,6 +836,12 @@ export function buildRotatedQueue(targets, done, countries, seasonal = [], opts 
     const want = String(onlyRegion).trim().toLowerCase();
     const before = queueOut.length;
     queueOut = queueOut.filter((t) => String(t.region || '').trim().toLowerCase() === want);
+    // A CITY run is a deliberate fill (the 10-10 pilot): the named places
+    // someone picked go first. On 10-10 Okayama's run spent its five searches
+    // on template queries ("traditional market in Okayama") while Korakuen and
+    // Okayama Castle waited, and Matsuyama got two template places instead of
+    // Ishiteji and Dogo Park. Stable: order inside each group is kept.
+    queueOut = [...queueOut.filter((t) => t.curated), ...queueOut.filter((t) => !t.curated)];
     console.log(`CITY="${onlyRegion}" → queue ${before} → ${queueOut.length}`);
   }
   if (process.env.QUEUE_DEBUG === '1') {

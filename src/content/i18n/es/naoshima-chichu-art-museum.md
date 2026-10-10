@@ -1,6 +1,6 @@
 ---
 lang: es
-slug: takamatsu-chichu-art-museum
+slug: naoshima-chichu-art-museum
 srcHash: '6a101299c2b1'
 title: 'Museo de Arte Chichu: guía de viaje desde Takamatsu (4.4★)'
 description: El Museo de Arte Chichu se encuentra en Naoshima, la isla del arte a la que se llega en ferri desde Takamatsu, y para visitarlo hay que reservar por internet una entrada con hora asignada. Con 4.4★ (4,749 reseñas), aquí encontrará las opiniones de los visitantes, el horario y consejos prácticos.

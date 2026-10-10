@@ -1,6 +1,6 @@
 ---
 lang: ja
-slug: takamatsu-chichu-art-museum
+slug: naoshima-chichu-art-museum
 srcHash: '6a101299c2b1'
 title: 地中美術館：高松発の旅行ガイド（4.4★）
 description: 地中美術館は、高松からフェリーで渡るアートの島・直島にあり、入館には事前のオンライン日時指定チケットが必要です。評価4.4★（4,749件のレビュー）。来館者の声、開館時間、訪問のコツをまとめました。

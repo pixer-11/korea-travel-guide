@@ -572,6 +572,13 @@ export function regionRedirects() {
   for (const p of ['', '/ko', '/ja', '/es', '/zh']) {
     lines.push(`${p}/posts/lijiang-lijiang-old-town/ ${p}/posts/lijiang-old-town-of-lijiang/ 301`);
   }
+  // Chichu Art Museum (2026-10-11): born in the Takamatsu pilot run tagged
+  // Takamatsu, though the museum is on Naoshima, a ferry ride away (its own
+  // text said so). Naoshima became a region of its own; the slug followed
+  // after one day live.
+  for (const p of ['', '/ko', '/ja', '/es', '/zh']) {
+    lines.push(`${p}/posts/takamatsu-chichu-art-museum/ ${p}/posts/naoshima-chichu-art-museum/ 301`);
+  }
   // Chinatown Singapore (2026-09-23): the guide was born tagged Marina Bay and
   // slugged from that tag; the region was corrected to Chinatown and the slug
   // followed. The old URL was never live — the publish gate held it at birth

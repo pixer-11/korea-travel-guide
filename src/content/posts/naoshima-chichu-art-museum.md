@@ -1,8 +1,8 @@
 ---
-title: "Chichu Art Museum: Takamatsu Travel Guide (4.4★)"
+title: 'Chichu Art Museum: Naoshima Travel Guide (4.4★)'
 description: "Chichu Art Museum sits on Naoshima, the art island a ferry ride from Takamatsu, and you need a timed ticket booked online in advance. 4.4★ (4,749 reviews) — what visitors say, hours, and tips."
 country: "Japan"
-region: "Takamatsu"
+region: Naoshima
 category: "attraction"
 pubDate: "2026-10-10T16:02:49.631Z"
 heroImage:

@@ -1,6 +1,6 @@
 ---
 lang: zh
-slug: takamatsu-chichu-art-museum
+slug: naoshima-chichu-art-museum
 srcHash: '6a101299c2b1'
 title: 地中美术馆：高松旅行指南（4.4★）
 description: 地中美术馆位于直岛。这座艺术之岛离高松只有一程渡轮的距离，参观须提前在网上预约分时段门票。4.4★（4,749条评价），这里汇总游客评价、开放时间和实用贴士。

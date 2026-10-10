@@ -2168,6 +2168,34 @@
       "topic": "Olgii Central Mosque",
       "category": "hidden-gem",
       "query": "Ulgii Central Mosque Bayan-Olgii Mongolia"
+    },
+    {
+      "country": "Japan",
+      "region": "Naoshima",
+      "topic": "Benesse House Museum",
+      "category": "attraction",
+      "query": "Benesse House Museum Naoshima"
+    },
+    {
+      "country": "Japan",
+      "region": "Naoshima",
+      "topic": "Lee Ufan Museum",
+      "category": "hidden-gem",
+      "query": "Lee Ufan Museum Naoshima"
+    },
+    {
+      "country": "Japan",
+      "region": "Naoshima",
+      "topic": "Art House Project",
+      "category": "hidden-gem",
+      "query": "Art House Project Honmura Naoshima"
+    },
+    {
+      "country": "Japan",
+      "region": "Naoshima",
+      "topic": "Yellow Pumpkin",
+      "category": "attraction",
+      "query": "Yayoi Kusama Yellow Pumpkin Naoshima"
     }
   ]
 }

@@ -16630,6 +16630,12 @@
   "reason": "patrol replace: Sun Moon Lake landscape with boats and mountains",
   "at": "2026-08-22T15:24:18.687Z"
  },
+ "naoshima-chichu-art-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/150505_Chichu_Art_Museum_Naoshima_Island_Kagawa_pref_Japan01s3.jpg/1920px-150505_Chichu_Art_Museum_Naoshima_Island_Kagawa_pref_Japan01s3.jpg": {
+  "slug": "naoshima-chichu-art-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows museum entrance wall and gate, consistent with venue",
+  "at": "2026-10-10T16:02:48.647Z"
+ },
  "nape-flora-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Flora_Garden_03.jpg/1920px-Flora_Garden_03.jpg": {
   "slug": "nape-flora-garden",
   "verdict": "MATCH",
@@ -24537,12 +24543,6 @@
   "verdict": "MATCH",
   "reason": "publish gate: Ornate Chinese gate entrance, plausible park landmark hero shot",
   "at": "2026-09-14T07:48:43.926Z"
- },
- "takamatsu-chichu-art-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/150505_Chichu_Art_Museum_Naoshima_Island_Kagawa_pref_Japan01s3.jpg/1920px-150505_Chichu_Art_Museum_Naoshima_Island_Kagawa_pref_Japan01s3.jpg": {
-  "slug": "takamatsu-chichu-art-museum",
-  "verdict": "MATCH",
-  "reason": "publish gate: Shows museum entrance wall and gate, consistent with venue",
-  "at": "2026-10-10T16:02:48.647Z"
  },
  "takamatsu-honetsukidori-ikkaku-takamatsu\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Honetsukidori_Ikkaku_-_Aug_5%2C_2012.jpg/3840px-Honetsukidori_Ikkaku_-_Aug_5%2C_2012.jpg": {
   "slug": "takamatsu-honetsukidori-ikkaku-takamatsu",
