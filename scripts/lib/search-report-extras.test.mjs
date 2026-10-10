@@ -63,3 +63,12 @@ test('frontmatter scalars without a YAML library', () => {
   assert.equal(frontmatterScalar(fm, 'q'), 'x');
   assert.equal(frontmatterScalar(fm, 'missing'), '');
 });
+
+test('bingQuotaLine reads the object-shaped quota answer and never throws', async () => {
+  const { bingQuotaLine } = await import('./bing.mjs');
+  assert.equal(await bingQuotaLine(''), '');
+  const ok = await bingQuotaLine('k', async () => ({ ok: true, json: async () => ({ d: { DailyQuota: 85, MonthlyQuota: 2400 } }) }));
+  assert.match(ok, /오늘 남음 85 · 이달 남음 2400/);
+  assert.match(await bingQuotaLine('k', async () => ({ ok: false, status: 401 })), /HTTP 401/);
+  assert.match(await bingQuotaLine('k', async () => { throw new Error('down'); }), /down/);
+});
