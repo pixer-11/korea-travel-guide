@@ -40,3 +40,27 @@ export async function bingWeekLine(key, fetchImpl = fetch) {
     return `🅱️ 빙: 조회 실패 — ${String(e.message).slice(0, 120)}`;
   }
 }
+
+/**
+ * Bing's URL Submission API quota, as one line. The quota is adaptive per
+ * domain (Bing raises it with verified age and impressions, up to 10,000/day),
+ * and it is the ceiling on how fast Bing will fetch what we hand it. IndexNow
+ * Insights on 2026-10-10 read 33.4K submitted, 2.6K crawled, 2K indexed: the
+ * gap is Bing's crawl, not our submission, and this number says how much
+ * direct submission Bing would still accept on top of IndexNow.
+ * The endpoint answers an OBJECT in `d`, unlike the stats calls, so it does
+ * not go through bingCall. Never throws: a line saying why there is none.
+ */
+export async function bingQuotaLine(key, fetchImpl = fetch) {
+  if (!key) return '';
+  try {
+    const r = await fetchImpl(`${API}/GetUrlSubmissionQuota?siteUrl=${encodeURIComponent(SITE)}&apikey=${encodeURIComponent(key)}`);
+    if (!r.ok) return `   └ URL 제출 할당량: 조회 실패 (HTTP ${r.status})`;
+    const d = (await r.json())?.d;
+    if (!d || typeof d !== 'object') return '   └ URL 제출 할당량: 응답 형식 불명';
+    const daily = d.DailyQuota ?? d.dailyQuota, monthly = d.MonthlyQuota ?? d.monthlyQuota;
+    return `   └ URL 제출 할당량(Submission API, IndexNow와 별도): 오늘 남음 ${daily ?? '?'} · 이달 남음 ${monthly ?? '?'}`;
+  } catch (e) {
+    return `   └ URL 제출 할당량: 조회 실패 — ${String(e.message).slice(0, 80)}`;
+  }
+}

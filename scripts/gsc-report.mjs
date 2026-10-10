@@ -17,7 +17,7 @@
 // write logs and moves on, it never skips or reshapes the report below.
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { getAccessToken, query, telegram, day, serviceAccount } from './lib/gsc.mjs';
-import { bingWeekLine } from './lib/bing.mjs';
+import { bingWeekLine, bingQuotaLine } from './lib/bing.mjs';
 import { makeNavigationalTest, guidePlaces } from './lib/navigational.mjs';
 
 const LEDGER_PATH = 'data/gsc-page-performance.json';
@@ -129,7 +129,8 @@ async function main() {
     // Bing, same window: Google read 0 clicks while Bing gave 228 the same
     // week (2026-10-04) and the report only ever showed Google.
     await bingWeekLine(process.env.BING_API_KEY),
-  ];
+    await bingQuotaLine(process.env.BING_API_KEY),
+  ].filter(Boolean);
 
   if (topQ.length) {
     lines.push('', '🏆 클릭 많은 검색어:');
