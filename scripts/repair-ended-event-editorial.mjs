@@ -50,7 +50,10 @@ const TODAY = new Date().toISOString().slice(0, 10);
 // brief asks for judgement about which sentence is a plan, which is history and
 // which is evergreen. Opus, with its default adaptive thinking, does that in
 // one pass; the cheaper model is what produced the hedge stacks.
-const MODEL = process.env.MODEL || 'claude-opus-5';
+// Opus 5.5 since 2026-10-10: the writer's and translator's model, a fifth
+// cheaper than Opus 5 ($4/$20 against $5/$25). This call forces no tool and
+// sets no thinking, the two things 5.5 refuses, so the request is unchanged.
+const MODEL = process.env.MODEL || 'claude-opus-5-5';
 
 if (!process.env.ANTHROPIC_API_KEY) { console.error('ANTHROPIC_API_KEY missing'); process.exit(1); }
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY, maxRetries: 6 });

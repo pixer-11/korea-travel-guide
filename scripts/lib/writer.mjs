@@ -248,9 +248,11 @@ const shapeFor = (title) => {
   return SHAPES[h % SHAPES.length];
 };
 
-export async function writeArticle({ apiKey, title, region, country, category, facts }) {
-  const client = new Anthropic({ apiKey: apiKey || process.env.ANTHROPIC_API_KEY, maxRetries: 6 });
-
+// The first request a guide sends, built in one place: a caller that sends many
+// guides' first requests through the Message Batches API at half price
+// (lib/claude-batch) must send byte-for-byte what writeArticle would, and hands
+// the reply back as `pre` (2026-10-10).
+export function writerRequest({ title, region, country, category, facts }) {
   const userPrompt = `Write a guide titled: "${title}"
 Destination: ${region}${country ? `, ${country}` : ''}
 Category: ${category}
@@ -258,17 +260,24 @@ ${shapeFor(title)}
 ${category === 'event' ? EVENT_TIMELESS_RULE + '\n' : ''}
 VERIFIED FACTS (use only these for specifics):
 ${JSON.stringify(facts, null, 2)}`;
-
-  // Every turn sent so far, in order. Retries below extend THIS, never a rebuilt copy.
-  let history = [{ role: 'user', content: userPrompt + TOOL_ONLY_NOTE }];
-  let msg = await client.messages.create({
+  return {
     model: MODEL,
     max_tokens: MAX_TOKENS,
     system: SYSTEM_CACHED,
     tools: [TOOL],
     tool_choice: TOOL_CHOICE,
-    messages: history,
-  });
+    messages: [{ role: 'user', content: userPrompt + TOOL_ONLY_NOTE }],
+  };
+}
+
+/** `pre`: the reply to writerRequest(same args) a batch already fetched, or null to ask now. */
+export async function writeArticle({ apiKey, title, region, country, category, facts, pre = null }) {
+  const client = new Anthropic({ apiKey: apiKey || process.env.ANTHROPIC_API_KEY, maxRetries: 6 });
+
+  const first = writerRequest({ title, region, country, category, facts });
+  // Every turn sent so far, in order. Retries below extend THIS, never a rebuilt copy.
+  let history = first.messages;
+  let msg = pre || await client.messages.create(first);
 
   let toolUse = msg.content.find((b) => b.type === 'tool_use');
   if (!toolUse && NO_FORCED_TOOL) {

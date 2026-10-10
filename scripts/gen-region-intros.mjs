@@ -23,6 +23,7 @@ import matter from 'gray-matter';
 import Anthropic from '@anthropic-ai/sdk';
 import './lib/claude-meter.mjs'; // counts this file's Claude spend into the cost ledger
 import { findToolSpill, stripCitations } from './lib/tool-spill.mjs';
+import { runBatch, batchWaitMin } from './lib/claude-batch.mjs';
 
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY, maxRetries: 6 });
 const MODEL = process.env.WRITER_MODEL || 'claude-sonnet-5';
@@ -70,8 +71,14 @@ const toolArgs = (msg, name) => {
   return b.input;
 };
 
-async function genEnglish(region, country) {
-  const msg = await client.messages.create({
+// `pre`: the reply to englishParams(region, country) a batch already fetched.
+async function genEnglish(region, country, pre = null) {
+  const msg = pre || await client.messages.create(englishParams(region, country));
+  return parseEnglish(msg);
+}
+
+function englishParams(region, country) {
+  return {
     model: MODEL, ...thinkingOff(MODEL),
     // Same budget lesson as the organizer backfill (2026-08-25).
     max_tokens: 1600,
@@ -88,7 +95,10 @@ async function genEnglish(region, country) {
         `When done, call submit_intro with: blurb (2 sentences, what makes ${region} distinct, vivid but factual), ` +
         `getting (1-2 sentences, how travellers actually reach it), days (1 sentence, how many days and what that covers).`,
     }],
-  });
+  };
+}
+
+function parseEnglish(msg) {
   const j = toolArgs(msg, 'submit_intro');
   // String(undefined) is the string "undefined", and that is exactly how the word
   // reached 11 live region pages — in the visible intro, the meta description AND
@@ -105,8 +115,14 @@ async function genEnglish(region, country) {
   return Object.fromEntries(Object.entries(out).filter(([, v]) => v));
 }
 
-async function translateOne(region, en, lang) {
-  const msg = await client.messages.create({
+// `pre`: the reply to translationParams(region, en, lang) a batch already fetched.
+async function translateOne(region, en, lang, pre = null) {
+  const msg = pre || await client.messages.create(translationParams(region, en, lang));
+  return parseTranslation(msg, en, lang);
+}
+
+function translationParams(region, en, lang) {
+  return {
     model: MODEL, ...thinkingOff(MODEL),
     max_tokens: 1500,
     tools: [submitTranslationTool],
@@ -123,7 +139,10 @@ async function translateOne(region, en, lang) {
         // days. Labelled, 0 of 9 (measured 2026-10-05).
         Object.entries(en).map(([k, v]) => `${k.toUpperCase()}:\n${v}`).join('\n\n'),
     }],
-  });
+  };
+}
+
+function parseTranslation(msg, en, lang) {
   // Same guard as the English path: a missing or literal-"undefined" field must
   // not be stored, or it renders as that word on the localized page.
   const fields = toolArgs(msg, 'submit_translation') || {};
@@ -156,12 +175,13 @@ async function translateOne(region, en, lang) {
  * reply, a stub, a tool spill) are stochastic by this file's own account, but
  * one try a day left Leipzig without Korean from 10-02 to 10-05.
  */
-async function translate(region, en, langs) {
+async function translate(region, en, langs, pre = new Map()) {
   const out = {};
   const tryLang = async (lang) => {
     let last;
     for (let i = 0; i < 3; i++) {
-      try { return [lang, await translateOne(region, en, lang)]; } catch (e) { last = e; }
+      // The first try may already be back from the batch; retries ask directly.
+      try { return [lang, await translateOne(region, en, lang, i === 0 ? pre.get(`${region}|${lang}`) ?? null : null)]; } catch (e) { last = e; }
     }
     return [lang, null, last];
   };
@@ -217,6 +237,37 @@ async function main() {
   if (DRY) { todo.forEach((x) => console.log(`   ${x.region}: ${x.needsEnglish ? 'EN + all' : x.langs.join(', ')}`)); return; }
   if (!todo.length) return;
 
+  // ── first requests through the Message Batches API (half price) ──
+  // 2026-10-10: every intro went out at full price. Now the new regions'
+  // English drafts go out as one batch, then every wanted translation as a
+  // second; each request is byte-for-byte the direct one, and whatever a batch
+  // does not return within its cap is asked directly in the loop below, as
+  // before (a failed English reply is asked again there too). INTROS_BATCH=0
+  // is the old path.
+  // The wait is re-read before each batch and is 0 when the job has no time
+  // for one (this runs after the translation step; lib/claude-batch batchWaitMin).
+  const useBatch = process.env.INTROS_BATCH !== '0';
+  const waitMin = () => (useBatch ? batchWaitMin(Number(process.env.INTROS_BATCH_WAIT_MIN || 20)) : 0);
+  const enOf = new Map();
+  let preTr = new Map();
+  const w0 = waitMin();
+  if (w0) {
+    const asks = todo.filter((x) => x.needsEnglish).map((x) => ({ id: x.region, params: englishParams(x.region, x.country) }));
+    for (const [region, msg] of await runBatch(client, asks, { waitMin: w0 })) {
+      try { enOf.set(region, parseEnglish(msg)); } catch (e) { console.log(`  (batched English for ${region} unusable: ${String(e.message).slice(0, 60)}; asking directly)`); }
+    }
+    const trAsks = [];
+    for (const x of todo) {
+      const en = x.needsEnglish ? enOf.get(x.region) : store[x.region]?.en;
+      if (!en) continue;
+      for (const lang of x.needsEnglish ? LANGS : x.langs) {
+        trAsks.push({ id: `${x.region}|${lang}`, params: translationParams(x.region, en, lang) });
+      }
+    }
+    const w = waitMin();
+    if (w) preTr = await runBatch(client, trAsks, { waitMin: w });
+  }
+
   let done = 0, failed = 0, short = 0;
   const queue = [...todo];
   await Promise.all(Array.from({ length: CONCURRENCY }, async () => {
@@ -227,13 +278,15 @@ async function main() {
       try {
         // The curated six keep their English in regions.ts; everyone else uses
         // what is stored (or is generated now).
-        const en = needsEnglish ? await genEnglish(region, country) : store[region]?.en;
+        const en = needsEnglish ? enOf.get(region) ?? await genEnglish(region, country) : store[region]?.en;
         // A curated region's English lives in regions.ts, which this script
         // never reads — report it rather than inventing a second source.
         if (!en) throw new Error('English source is in regions.ts — translate it by hand');
         // A brand-new region needs all four; an existing one only its gaps.
         const wanted = needsEnglish ? LANGS : item.langs;
-        const tr = await translate(region, en, wanted);
+        // A translation batched against English this loop then replaced (the
+        // batched English failed and was asked again) would not match it.
+        const tr = await translate(region, en, wanted, en === (needsEnglish ? enOf.get(region) : store[region]?.en) ? preTr : new Map());
         // Merge, never replace: a language that already had a translation keeps
         // it, so a retry can't overwrite good text with a worse second pass.
         const before = store[region] ?? {};

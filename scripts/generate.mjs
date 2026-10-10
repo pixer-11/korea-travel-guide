@@ -15,6 +15,7 @@
 //  you can see the whole flow without spending anything.
 // ─────────────────────────────────────────────────────────────
 import './lib/env.mjs'; // MUST be first — loads .env before other modules read process.env
+import './lib/claude-meter.mjs'; // the writer batch below builds its own SDK client
 import { underTargetLine } from './lib/under-target.mjs';
 import { makeTitle, makePlacelessTitle } from './lib/titles.mjs';
 import { clip, withRatingSignal } from './lib/serp.mjs';
@@ -76,6 +77,24 @@ let REGION_POSTS = [];
 const INBODY_RETRY = [];
 let INBODY_PENDING = null; // set by the in-body block, claimed at write time (needs the slug)
 let LAST_HERO_VERDICT = null; // { url, reason } of the hero the publish gate just approved
+// While on, buildLivePost stops where the writer would be called and returns a
+// PendingPost: the writer's arguments, and what turns its reply into the post.
+// main() asks for all the drafts in one half-price batch (2026-10-10).
+let DEFER_WRITER = false;
+// Slugs and topic keys of guides prepared but not yet written: the next target
+// in the same run must not prepare the same landmark again (it would be paid
+// for and then refused as a twin when the first one lands).
+const RESERVED = new Set();
+let LAST_SKIP_RESERVED = false; // a candidate was passed over only because it is RESERVED
+class PendingPost {
+  constructor(args, finish) { this.args = args; this.finish = finish; }
+}
+// `pre`: the batched reply to writerRequest(args), or null to ask now.
+async function writeThen(args, assembleFrom) {
+  const { writeArticle } = await import('./lib/writer.mjs');
+  const finish = async (pre) => assembleFrom(await writeArticle({ ...args, pre }));
+  return DEFER_WRITER ? new PendingPost(args, finish) : finish(null);
+}
 
 // The two in-body sources, with a reason for each empty hand.
 async function inBodyCandidates(place, target, heroUrl) {
@@ -386,17 +405,23 @@ async function main() {
   // stopping costs months of queue that cannot be rebuilt (found 2026-08-05).
   const TRANSIENT_STOP = 5;
   let transientRun = 0, transientTotal = 0;
-  for (const target of queue) {
-    if (published >= POSTS_PER_RUN) { STOP_REASON = 'target-reached'; break; }
+  // Guides prepared up to the writer, waiting for their batched draft.
+  let reserved = 0;
+  // One target, start to finish — or, while DEFER_WRITER is on, up to the
+  // writer, returned as a PendingPost. 'full' = the run's target is met,
+  // 'halt' = stop the run (budget, quota, an outage), anything else = go on.
+  async function step(target) {
+    if (published + reserved >= POSTS_PER_RUN) { STOP_REASON = 'target-reached'; return 'full'; }
     // Stop on our own ledger, not on Google's 429: the targets stay queued
     // and the next job still has its share of today's searches.
     if (USE_PLACES && !DUMMY && SEARCH_USED >= SEARCH_BUDGET) {
       STOP_REASON = 'search-budget';
       console.log(`  ⛔ 오늘 ${PLACES_JOB} 몫의 Places 검색 ${SEARCH_BUDGET}회를 다 썼습니다 — 여기서 멈춥니다 (남은 대상은 그대로 큐에; 다음 작업 몫은 남아 있음).`);
-      break;
+      return 'halt';
     }
     try {
       LAST_SKIP_TRANSIENT = false;
+      LAST_SKIP_RESERVED = false;
       const post = DUMMY
         ? buildDummyPost(target)
         : USE_PLACES
@@ -408,57 +433,148 @@ async function main() {
           transientTotal++;
           if (++transientRun >= TRANSIENT_STOP) {
             console.log(`  ⛔ ${TRANSIENT_STOP} consecutive vision-unavailable skips — stopping so the queue is not burned. Targets stay queued.`);
-            break;
+            return 'halt';
           }
           console.log(`  ⏳  "${target.query}" — vision unavailable, left in the queue for a retry`);
-          continue;
+          return null;
         }
         transientRun = 0;
+        // Its venue is a draft still in flight this run; whether that lands
+        // is unknown yet, so nothing was learned about this target either.
+        if (LAST_SKIP_RESERVED) {
+          console.log(`  ⏳  "${target.query}" — its venue is already being written this run; left in the queue`);
+          return null;
+        }
         done.add(target.query);
         if (USE_PLACES && !DUMMY) recordOutcome(yieldLedger, target.topic, false);
-        continue; // a real guardrail rejection — don't retry this daily
+        return null; // a real guardrail rejection — don't retry this daily
       }
       transientRun = 0;
-
-      if (existing.has(post.slug)) {
-        done.add(target.query);
-        console.log(`  ↩︎  exists: ${post.slug}`);
-        continue;
-      }
-
-      // Same landmark under a different place.id / word order (see
-      // postTopicKey). Marked done: the landmark IS covered, just not by
-      // this slug — retrying it daily would burn the same API calls forever.
-      const tKey = postTopicKey(post.markdown);
-      if (tKey && usedTopicKeys.has(tKey)) {
-        done.add(target.query);
-        console.log(`  ↩︎  topic twin of an existing post: ${post.slug}`);
-        continue;
-      }
-
-      await writeFile(join(POSTS_DIR, `${post.slug}.md`), post.markdown, 'utf8');
-      existing.add(post.slug);
-      if (tKey) usedTopicKeys.add(tKey);
-      done.add(target.query);
-      if (USE_PLACES && !DUMMY) recordOutcome(yieldLedger, target.topic, true);
-      published++;
-      console.log(`  ✅  published: ${post.slug}`);
-      if (INBODY_PENDING) { INBODY_RETRY.push({ slug: post.slug, ...INBODY_PENDING }); INBODY_PENDING = null; }
-      if (LAST_HERO_VERDICT && post.markdown.includes(LAST_HERO_VERDICT.url)) {
-        try {
-          const { recordHeroVerdict } = await import('./lib/vision-check.mjs');
-          await recordHeroVerdict(post.slug, LAST_HERO_VERDICT.url, 'MATCH', `publish gate: ${LAST_HERO_VERDICT.reason}`);
-        } catch (e) { console.log(`  (verdict not recorded: ${String(e.message).slice(0, 60)})`); }
-      }
-      LAST_HERO_VERDICT = null;
+      if (post instanceof PendingPost) return post;
+      await land(target, post);
     } catch (err) {
       console.log(`  ⚠️  error on "${target.query}": ${err.message.slice(0, 120)}`);
       if (/\b429\b|RESOURCE_EXHAUSTED|Quota exceeded/i.test(err.message)) {
         STOP_REASON = 'quota-429';
         console.log('  ⛔ Google Places daily quota exhausted — stopping this run (targets not marked done; will retry after reset).');
-        break;
+        return 'halt';
       }
     }
+    return null;
+  }
+
+  // A finished guide: the last duplicate checks, then the file.
+  async function land(target, post) {
+    if (existing.has(post.slug)) {
+      done.add(target.query);
+      console.log(`  ↩︎  exists: ${post.slug}`);
+      return;
+    }
+
+    // Same landmark under a different place.id / word order (see
+    // postTopicKey). Marked done: the landmark IS covered, just not by
+    // this slug — retrying it daily would burn the same API calls forever.
+    const tKey = postTopicKey(post.markdown);
+    if (tKey && usedTopicKeys.has(tKey)) {
+      done.add(target.query);
+      console.log(`  ↩︎  topic twin of an existing post: ${post.slug}`);
+      return;
+    }
+
+    await writeFile(join(POSTS_DIR, `${post.slug}.md`), post.markdown, 'utf8');
+    existing.add(post.slug);
+    if (tKey) usedTopicKeys.add(tKey);
+    done.add(target.query);
+    if (USE_PLACES && !DUMMY) recordOutcome(yieldLedger, target.topic, true);
+    published++;
+    console.log(`  ✅  published: ${post.slug}`);
+    if (INBODY_PENDING) { INBODY_RETRY.push({ slug: post.slug, ...INBODY_PENDING }); INBODY_PENDING = null; }
+    if (LAST_HERO_VERDICT && post.markdown.includes(LAST_HERO_VERDICT.url)) {
+      try {
+        const { recordHeroVerdict } = await import('./lib/vision-check.mjs');
+        await recordHeroVerdict(post.slug, LAST_HERO_VERDICT.url, 'MATCH', `publish gate: ${LAST_HERO_VERDICT.reason}`);
+      } catch (e) { console.log(`  (verdict not recorded: ${String(e.message).slice(0, 60)})`); }
+    }
+    LAST_HERO_VERDICT = null;
+  }
+
+  // ── the writer's first draft through the Message Batches API (half price) ──
+  // 2026-10-10: the writer is about a third of this script's bill and went out
+  // at full price one guide at a time. Now every target is first prepared up to
+  // the writer — the same Places, hero, vision and Details calls in the same
+  // order — then the drafts are asked for in one batch (lib/claude-batch;
+  // byte-for-byte the request writeArticle sends), and each guide is finished
+  // exactly as before. A batch that is late only costs time: what is not back
+  // within the cap is written directly. A prepared guide the last checks refuse
+  // leaves its slot open, and the plain loop below carries on through the rest
+  // of the queue the old way until the run's target is met.
+  // GENERATE_BATCH=0 is the old path.
+  let qi = 0;
+  let halted = false;
+  // Read before preparing: "Top up the held-back posts" runs this script late in
+  // the publish job, where a batch wait could push the commit past the runner's
+  // limit — there it may be 0, and everything goes direct as before.
+  const { runBatch, batchWaitMin } = await import('./lib/claude-batch.mjs');
+  const writerWait = batchWaitMin(Number(process.env.GENERATE_BATCH_WAIT_MIN || 25));
+  if (USE_PLACES && !DUMMY && process.env.GENERATE_BATCH !== '0' && writerWait) {
+    const pending = [];
+    DEFER_WRITER = true;
+    try {
+      for (; qi < queue.length; qi++) {
+        const r = await step(queue[qi]);
+        if (r === 'full') break;
+        if (r === 'halt') { halted = true; qi++; break; }
+        if (r instanceof PendingPost) {
+          // The globals the finish reads belong to THIS guide; park them with it.
+          pending.push({ target: queue[qi], post: r, inbody: INBODY_PENDING, verdict: LAST_HERO_VERDICT });
+          INBODY_PENDING = null; LAST_HERO_VERDICT = null;
+          reserved++;
+        }
+      }
+    } finally { DEFER_WRITER = false; }
+    if (STOP_REASON === 'target-reached') STOP_REASON = '';
+    if (pending.length) {
+      const { writerRequest } = await import('./lib/writer.mjs');
+      const { default: Anthropic } = await import('@anthropic-ai/sdk');
+      // Re-read: preparing took time, and with none left the drafts go direct.
+      const wait = batchWaitMin(writerWait);
+      const got = wait
+        ? await runBatch(
+          new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY, maxRetries: 6 }),
+          pending.map((p, i) => ({ id: String(i), params: writerRequest(p.post.args) })),
+          { waitMin: wait },
+        )
+        : new Map();
+      for (const [i, p] of pending.entries()) {
+        reserved--;
+        if (halted) {
+          // After a quota error nothing more is sent, as before: a draft the
+          // batch returned could still need a corrective request.
+          console.log(`  ⏳  "${p.target.query}" — quota stop; left in the queue`);
+          continue;
+        }
+        INBODY_PENDING = p.inbody; LAST_HERO_VERDICT = p.verdict;
+        try {
+          await land(p.target, await p.post.finish(got.get(String(i)) ?? null));
+        } catch (err) {
+          // As before: a writer failure leaves the target queued for the next run,
+          // and its venue is free again for any target that comes after.
+          console.log(`  ⚠️  error on "${p.target.query}": ${err.message.slice(0, 120)}`);
+          for (const k of p.post.reserved ?? []) RESERVED.delete(k);
+          // And a quota error ends the run as it always did.
+          if (/\b429\b|RESOURCE_EXHAUSTED|Quota exceeded/i.test(err.message)) {
+            STOP_REASON = 'quota-429';
+            halted = true;
+          }
+        } finally {
+          INBODY_PENDING = null; LAST_HERO_VERDICT = null;
+        }
+      }
+    }
+  }
+  for (; !halted && qi < queue.length; qi++) {
+    const r = await step(queue[qi]);
+    if (r === 'full' || r === 'halt') break;
   }
 
   await savePublished(done);
@@ -939,7 +1055,6 @@ function computeLocalSignals(raw, country) {
 async function buildLivePost(target) {
   const { searchPlaces, fetchPlaceReviewSignals } = await import('./lib/places.mjs');
   const { resolveHero, pickGallery } = await import('./lib/images.mjs');
-  const { writeArticle } = await import('./lib/writer.mjs');
   const { verifyHeroImage } = await import('./lib/vision-check.mjs');
 
   SEARCH_USED++; // one Text Search per target, budgeted in main()
@@ -976,11 +1091,18 @@ async function buildLivePost(target) {
     // call — the same two checks the finished post faces below, moved up.
     {
       const provisionalSlug = slugify(`${target.region}-${cand.name}`);
+      const provisionalKey = topicKey(makeTitle(cand.name, target, cand), target.region);
+      // Prepared earlier in this run but not written yet: that draft may still
+      // fail, so this target is NOT covered — it stays queued (see step()).
+      if (RESERVED.has(provisionalSlug) || (provisionalKey && RESERVED.has(provisionalKey))) {
+        LAST_SKIP_RESERVED = true;
+        console.log(`  ↩︎  "${cand.name}" — being prepared for this run already; trying next candidate`);
+        continue;
+      }
       if (EXISTING_SLUGS.has(provisionalSlug)) {
         console.log(`  ↩︎  "${cand.name}" — already published (${provisionalSlug}); trying next candidate`);
         continue;
       }
-      const provisionalKey = topicKey(makeTitle(cand.name, target, cand), target.region);
       if (provisionalKey && USED_TOPIC_KEYS.has(provisionalKey)) {
         console.log(`  ↩︎  "${cand.name}" — topic twin of an existing post; trying next candidate`);
         continue;
@@ -1211,11 +1333,14 @@ async function buildLivePost(target) {
     ...(crowdFacts && Object.values(crowdFacts).some(Boolean) && { crowdData: crowdFacts }),
   };
 
-  const { body, quickAnswer, faq } = await writeArticle({
-    title, region: target.region, country: target.country, category: target.category, facts,
-  });
-
-  return assemble(target, place, title, heroImage, gallery, { body, quickAnswer, faq });
+  const reservedKeys = DEFER_WRITER ? [slugify(`${target.region}-${place.name}`), topicKey(title, target.region)].filter(Boolean) : [];
+  for (const k of reservedKeys) RESERVED.add(k);
+  const out = await writeThen(
+    { title, region: target.region, country: target.country, category: target.category, facts },
+    ({ body, quickAnswer, faq }) => assemble(target, place, title, heroImage, gallery, { body, quickAnswer, faq }),
+  );
+  if (out instanceof PendingPost) out.reserved = reservedKeys;
+  return out;
 }
 
 // ── LIVE (no Places) path ────────────────────────────────────

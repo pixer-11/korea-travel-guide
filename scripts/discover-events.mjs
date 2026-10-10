@@ -31,7 +31,8 @@ import yaml from 'js-yaml';
 import { slugify } from './lib/slugify.mjs';
 import { clip } from './lib/serp.mjs';
 import { bracketsBalanced, endsInAbbreviation } from '../src/lib/sentence-boundary.mjs';
-import { writeArticle } from './lib/writer.mjs';
+import { writeArticle, writerRequest } from './lib/writer.mjs';
+import { runBatch, batchWaitMin } from './lib/claude-batch.mjs';
 import { resolveHero, loadUsedImageUrls, eventTopic } from './lib/images.mjs';
 import { isImageAllowed } from './lib/guardrails.mjs';
 import { verifyHeroImage, recordHeroVerdict } from './lib/vision-check.mjs';
@@ -91,12 +92,13 @@ const listIn = (text) => {
   try { const arr = JSON.parse(text.slice(a, b + 1).replace(/```/g, '')); return Array.isArray(arr) ? arr : null; } catch { return null; }
 };
 
-async function searchJson(prompt, maxTokens = 12000, retried = false) {
+// `pre`: the reply to searchParams(prompt, maxTokens) a batch already fetched.
+async function searchJson(prompt, maxTokens = 12000, retried = false, pre = null) {
   let msg;
   try {
     // 1600 → 4000 (09-24, eight ~15-field items) → 12000 (10-05): a ceiling,
     // not a spend — only the tokens written are billed.
-    msg = await client.messages.create(searchParams(prompt, maxTokens));
+    msg = pre || await client.messages.create(searchParams(prompt, maxTokens));
   } catch (e) {
     // Thrown on, not swallowed: an API failure returned [] here, so with every
     // search down (529s) each country read "0 found", the run's failure guard
@@ -120,8 +122,8 @@ async function searchJson(prompt, maxTokens = 12000, retried = false) {
   throw new Error(`search reply unusable twice (${msg.stop_reason}, ${text.length} chars)`);
 }
 
-const discoverEvents = (country) =>
-  searchJson(
+const discoverEvents = (country, pre = null) => searchJson(eventsPrompt(country), 12000, false, pre);
+const eventsPrompt = (country) => (
     `Search the web for NOTABLE, currently-UPCOMING events in ${country} over the next ~12 weeks that would draw international visitors: ` +
     // Famous-only was the wrong filter, and the file already knew it: the CTR
     // note above records events at position 24 with 1.15% CTR against generic
@@ -200,9 +202,14 @@ async function loadDone() {
   catch { return new Set(); }
 }
 
-async function writeDiscovered(item, ctx) {
+// Everything decided about a candidate BEFORE the writer is paid: the checks
+// that refuse it, and the title and facts the writer is given. Pure — nothing
+// in ctx is changed — so main() can run it ahead of time to pick the guides
+// whose first writer request goes out in one half-price batch (2026-10-10).
+// null = not written.
+function planDiscovered(item, ctx, log = console.log) {
   const { kind, existing, done, existingTopics, eventAnchors } = ctx;
-  if (!item?.name || !item?.city) return false;
+  if (!item?.name || !item?.city) return null;
   // Multi-stage events can come back with a messy "city" like
   // "Nice (finish) / various French stages". A "/" there becomes the post's
   // region and breaks the /regions/[region] route on a clean build, so reduce it
@@ -212,15 +219,15 @@ async function writeDiscovered(item, ctx) {
   // returned a Hong Kong restaurant on 2026-10-05 and it was filed under China
   // (lib/country-of-city — an exact region match in one other country only).
   const country = ownCountry(item.city, ctx.country, ctx.countries || []);
-  if (country !== ctx.country) console.log(`   ${item.city}: filed under ${country}, not ${ctx.country}`);
+  if (country !== ctx.country) log(`   ${item.city}: filed under ${country}, not ${ctx.country}`);
   const cat = kind === 'event' ? 'event'
     : ['restaurant', 'trendy', 'hidden-gem'].includes(item.category) ? item.category : 'trendy';
   const key = `${kind}:${slugify(`${country}-${item.name}`)}`;
   const slug = slugify(`${item.city}-${item.name}`);
-  if (done.has(key) || existing.has(slug)) return false;
+  if (done.has(key) || existing.has(slug)) return null;
   if (kind === 'event' && isPastEvent(item)) {
-    console.log(`    ⏭️  "${item.name}" — already over (${item.endDate || item.startDate}); not writing a new guide`);
-    return false;
+    log(`    ⏭️  "${item.name}" — already over (${item.endDate || item.startDate}); not writing a new guide`);
+    return null;
   }
 
   // "Dates, Tickets & Venue" replaced "What to Know" on 2026-08-07: GSC showed
@@ -236,7 +243,7 @@ async function writeDiscovered(item, ctx) {
   // variants ("ChinaJoy" vs "ChinaJoy 2026") that pass the exact-slug check above
   // but collapse to the same normalized topic key that validate-content uses.
   const tkey = topicKey(title, item.city);
-  if (existingTopics.has(tkey)) return false;
+  if (existingTopics.has(tkey)) return null;
   // Duplicate coverage, decided BEFORE any spend (writer + hero + vision + four
   // translations went to five rephrased twins on 2026-08-20). Same event =
   // same country, overlapping dates, and either the same anchor word, shared
@@ -256,8 +263,8 @@ async function writeDiscovered(item, ctx) {
   if (kind === 'event' && eventAnchors) {
     const twin = eventAnchors.find((ev) => isEventTwin(candKey, ev));
     if (twin) {
-      console.log(`    ↩︎  "${item.name}" — already covered (${twin.anchor || 'same city+dates'}); skipping before generation`);
-      return false;
+      log(`    ↩︎  "${item.name}" — already covered (${twin.anchor || 'same city+dates'}); skipping before generation`);
+      return null;
     }
   }
   const facts = {
@@ -271,7 +278,19 @@ async function writeDiscovered(item, ctx) {
         ? 'Time-sensitive event discovered via web search. Use the given facts and state the date as announced. The page stays online after the event, so every sentence must still be true the day after it ends: say where dates, venue and tickets are published as a FACT ("The organiser publishes the dates and ticket links on its official site"), naming the organiser or ticketing platform when the facts name it, and give practical tips as what attendees usually do ("Fans typically arrive an hour before doors"), never as an instruction to the reader. NEVER write "confirm/check/verify ... before", "book ahead", "arrive early", "closer to the date/event", "will be announced/confirmed", "have not been confirmed yet", "tickets go on sale", "lineup has yet to", or "once released". Do not invent lineup, prices, or times.'
         : 'Recently-opened / trending spot discovered via web search. Use the given facts; describe what it is, where, and why it stands out. Tell readers to confirm hours and reservations before visiting. Do not invent a menu, prices, or exact hours you were not given.',
   };
-  const { body, quickAnswer, faq } = await writeArticle({ title, region: item.city, country, category: cat, facts });
+  return { country, cat, key, slug, title, tkey, candKey, facts };
+}
+
+async function writeDiscovered(item, ctx) {
+  const { kind, existing, done, existingTopics, eventAnchors } = ctx;
+  const plan = planDiscovered(item, ctx);
+  if (!plan) return false;
+  const { country, cat, key, slug, title, tkey, candKey, facts } = plan;
+  const args = { title, region: item.city, country, category: cat, facts };
+  const pw = ctx.prewritten?.get(slug);
+  ctx.prewritten?.delete(slug);
+  const pre = pw && pw.prompt === writerRequest(args).messages[0].content ? pw.msg : null;
+  const { body, quickAnswer, faq } = await writeArticle({ ...args, pre });
   if (!body || body.length < 300) return false;
 
   // Try the event/venue's own imagery first (a concert's performer photo is fine
@@ -532,10 +551,61 @@ async function main() {
       return fallback;
     }
   };
+  // ── half price: first requests through the Message Batches API ──
+  // 2026-10-10: the country searches and the writer's first draft went out at
+  // full price one by one, ~$75 a month that the batch API halves (the request
+  // is byte-for-byte the same; lib/claude-batch). Batches usually end in 3-10
+  // minutes but have taken two hours (10-01), so each wait is capped and
+  // whatever is not back by then is asked directly, exactly as before — the
+  // cap only bounds the delay; it can never cost a guide. DISCOVER_BATCH=0 is
+  // the old path.
+  // The wait is re-read before each batch: it shrinks as the job runs on.
+  const useBatch = process.env.DISCOVER_BATCH !== '0';
+  const waitMin = () => (useBatch ? batchWaitMin(Number(process.env.DISCOVER_BATCH_WAIT_MIN || 25)) : 0);
+  let wait = waitMin();
+  const searched = wait
+    ? await runBatch(client, active.map((c) => ({ id: c.name, params: searchParams(eventsPrompt(c.name), 12000) })), { waitMin: wait })
+    : new Map();
+  // Every country's list first (a batched reply, else a direct search), then
+  // the guides each list would get, picked by the same checks writeDiscovered
+  // applies — on copies, so the real run below still decides everything.
+  const lists = new Map();
   for (const c of active) {
-    const ctx = { country: c.name, countries, existing, done, existingTopics, usedImages, eventAnchors };
+    lists.set(c.name, await attempt(`${c.name} event discovery`, () => discoverEvents(c.name, searched.get(c.name) ?? null), []));
+  }
+  // slug -> { msg, prompt }. The prompt is the request the reply answers; a
+  // candidate only takes a reply whose prompt is exactly its own, once — two
+  // list entries can share a slug, and the second must not wear the first's
+  // prose (Codex review, 10-10).
+  const prewritten = new Map();
+  wait = waitMin();
+  if (wait) {
+    const shadow = {
+      countries, existing: new Set(existing), done: new Set(done),
+      existingTopics: new Set(existingTopics), eventAnchors: [...eventAnchors], kind: 'event',
+    };
+    const asks = [];
+    for (const c of active) {
+      let n = 0;
+      for (const item of lists.get(c.name)) {
+        if (n >= EVENTS_PER_COUNTRY) break;
+        const it = { ...item };
+        const plan = planDiscovered(it, { ...shadow, country: c.name }, () => {});
+        if (!plan) continue;
+        n++;
+        shadow.existing.add(plan.slug); shadow.done.add(plan.key); shadow.existingTopics.add(plan.tkey);
+        if (plan.candKey) shadow.eventAnchors.push(plan.candKey);
+        asks.push({ id: plan.slug, params: writerRequest({ title: plan.title, region: it.city, country: plan.country, category: plan.cat, facts: plan.facts }) });
+      }
+    }
+    const promptOf = new Map(asks.map((a) => [a.id, a.params.messages[0].content]));
+    for (const [id, msg] of await runBatch(client, asks, { waitMin: wait })) prewritten.set(id, { msg, prompt: promptOf.get(id) });
+  }
+
+  for (const c of active) {
+    const ctx = { country: c.name, countries, existing, done, existingTopics, usedImages, eventAnchors, prewritten };
     let ev = 0, hs = 0;
-    for (const item of await attempt(`${c.name} event discovery`, () => discoverEvents(c.name), [])) {
+    for (const item of lists.get(c.name)) {
       if (ev >= EVENTS_PER_COUNTRY) break;
       if (await attempt(`${c.name} event "${item?.name ?? '?'}"`, () => writeDiscovered(item, { ...ctx, kind: 'event' }), false)) { ev++; total++; }
     }

@@ -3,7 +3,18 @@
 //   node --test scripts/lib/claude-batch.test.mjs
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { runBatch, CANCEL_WAIT_MIN, REPLACEMENT_CHAR } from './claude-batch.mjs';
+import { runBatch, CANCEL_WAIT_MIN, REPLACEMENT_CHAR, batchWaitMin } from './claude-batch.mjs';
+
+test('a batch wait never outruns the GitHub job', () => {
+  const t0 = 1_000_000;
+  const at = (min) => ({ now: (t0 + min * 60) * 1000, env: { JOB_T0: String(t0) } });
+  assert.equal(batchWaitMin(25, { env: {} }), 25); // local run: the cap
+  assert.equal(batchWaitMin(25, at(10)), 25); // early in the job: the cap
+  // 360 - 240 - 30 cancel - 70 reserve = 20 left
+  assert.equal(batchWaitMin(25, at(240)), 20);
+  assert.equal(batchWaitMin(25, at(256)), 0); // 4 left: not worth a batch
+  assert.equal(batchWaitMin(25, at(400)), 0); // already over
+});
 import { meterTally } from './claude-meter.mjs';
 
 const msg = (text) => ({

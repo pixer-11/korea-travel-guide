@@ -58,6 +58,23 @@ async function* batchResults(client, batch) {
 export const CANCEL_WAIT_MIN = 30;
 
 /**
+ * Minutes a caller may wait on a batch: its own cap, but never so long that a
+ * batch cancelled at the end (CANCEL_WAIT_MIN) plus `reserveMin` of direct work
+ * and the steps after it would outrun the GitHub job — 360 min from JOB_T0
+ * (epoch seconds, set by publish.yml and discover-events.yml). 0 = skip the
+ * batch and go direct. No JOB_T0 (a local run) = the cap.
+ * Every batching caller added on 2026-10-10 shares this, so a writer or intro
+ * batch late in a job cannot push the content commit past the runner's limit
+ * (Codex review: two 20-minute intro batches after a slow translation step).
+ */
+export function batchWaitMin(capMin, { reserveMin = 70, now = Date.now(), env = process.env } = {}) {
+  if (!env.JOB_T0) return capMin;
+  const left = 360 - (now / 1000 - Number(env.JOB_T0)) / 60 - CANCEL_WAIT_MIN - reserveMin;
+  const w = Math.min(capMin, Math.floor(left));
+  return w >= 5 ? w : 0;
+}
+
+/**
  * @param {any} client  an Anthropic SDK client
  * @param {Array<{ id: string, params: object }>} items  id must be unique
  * @param {{ waitMin?: number, cancelWaitMin?: number, pollSec?: number, log?: (s: string) => void }} [opts]
