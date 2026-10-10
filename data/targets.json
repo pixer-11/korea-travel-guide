@@ -1818,6 +1818,146 @@
       "topic": "Fernando's Restaurant",
       "category": "restaurant",
       "query": "Fernando's Restaurant Hac Sa Macau"
+    },
+    {
+      "country": "Japan",
+      "region": "Matsuyama",
+      "topic": "Matsuyama Castle",
+      "category": "attraction",
+      "query": "Matsuyama Castle Ehime"
+    },
+    {
+      "country": "Japan",
+      "region": "Matsuyama",
+      "topic": "Dogo Onsen Honkan",
+      "category": "attraction",
+      "query": "Dogo Onsen Honkan Matsuyama"
+    },
+    {
+      "country": "Japan",
+      "region": "Matsuyama",
+      "topic": "Ishiteji Temple",
+      "category": "hidden-gem",
+      "query": "Ishiteji Temple Matsuyama"
+    },
+    {
+      "country": "Japan",
+      "region": "Matsuyama",
+      "topic": "Dogo Park",
+      "category": "hidden-gem",
+      "query": "Dogo Park Yuzuki Castle ruins Matsuyama"
+    },
+    {
+      "country": "Japan",
+      "region": "Matsuyama",
+      "topic": "Shiki Memorial Museum",
+      "category": "attraction",
+      "query": "Shiki Memorial Museum Matsuyama"
+    },
+    {
+      "country": "Japan",
+      "region": "Takamatsu",
+      "topic": "Ritsurin Garden",
+      "category": "attraction",
+      "query": "Ritsurin Garden Takamatsu"
+    },
+    {
+      "country": "Japan",
+      "region": "Takamatsu",
+      "topic": "Tamamo Park",
+      "category": "attraction",
+      "query": "Tamamo Park Takamatsu Castle ruins"
+    },
+    {
+      "country": "Japan",
+      "region": "Takamatsu",
+      "topic": "Yashimaji Temple",
+      "category": "hidden-gem",
+      "query": "Yashimaji Temple Takamatsu"
+    },
+    {
+      "country": "Japan",
+      "region": "Takamatsu",
+      "topic": "Shikoku Mura",
+      "category": "hidden-gem",
+      "query": "Shikoku Mura open-air museum Takamatsu"
+    },
+    {
+      "country": "Japan",
+      "region": "Takamatsu",
+      "topic": "Kitahama Alley",
+      "category": "hidden-gem",
+      "query": "Kitahama Alley Takamatsu"
+    },
+    {
+      "country": "Japan",
+      "region": "Okayama",
+      "topic": "Korakuen Garden",
+      "category": "attraction",
+      "query": "Korakuen Garden Okayama"
+    },
+    {
+      "country": "Japan",
+      "region": "Okayama",
+      "topic": "Okayama Castle",
+      "category": "attraction",
+      "query": "Okayama Castle"
+    },
+    {
+      "country": "Japan",
+      "region": "Okayama",
+      "topic": "Kibitsu Shrine",
+      "category": "hidden-gem",
+      "query": "Kibitsu Shrine Okayama"
+    },
+    {
+      "country": "Japan",
+      "region": "Okayama",
+      "topic": "Okayama Orient Museum",
+      "category": "attraction",
+      "query": "Okayama Orient Museum"
+    },
+    {
+      "country": "Japan",
+      "region": "Okayama",
+      "topic": "Hayashibara Museum of Art",
+      "category": "hidden-gem",
+      "query": "Hayashibara Museum of Art Okayama"
+    },
+    {
+      "country": "Vietnam",
+      "region": "Sapa",
+      "topic": "Cat Cat Village",
+      "category": "attraction",
+      "query": "Cat Cat Village Sa Pa"
+    },
+    {
+      "country": "Vietnam",
+      "region": "Sapa",
+      "topic": "Muong Hoa Valley",
+      "category": "hidden-gem",
+      "query": "Muong Hoa Valley Sa Pa"
+    },
+    {
+      "country": "Vietnam",
+      "region": "Sapa",
+      "topic": "Fansipan Cable Car",
+      "category": "attraction",
+      "query": "Sun World Fansipan Legend cable car Sa Pa"
+    },
+    {
+      "country": "Vietnam",
+      "region": "Sapa",
+      "topic": "Ham Rong Mountain",
+      "category": "attraction",
+      "query": "Ham Rong Mountain Sa Pa"
+    },
+    {
+      "country": "Vietnam",
+      "region": "Sapa",
+      "topic": "Sapa Stone Church",
+      "category": "attraction",
+      "query": "Holy Rosary Church Sa Pa stone church"
     }
   ]
 }

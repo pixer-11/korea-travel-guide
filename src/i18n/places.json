@@ -2830,5 +2830,23 @@
     "ja": "張家界",
     "es": "Zhangjiajie",
     "zh": "张家界"
+  },
+  "Matsuyama": {
+    "ko": "마쓰야마",
+    "ja": "松山",
+    "es": "Matsuyama",
+    "zh": "松山"
+  },
+  "Takamatsu": {
+    "ko": "다카마쓰",
+    "ja": "高松",
+    "es": "Takamatsu",
+    "zh": "高松"
+  },
+  "Okayama": {
+    "ko": "오카야마",
+    "ja": "岡山",
+    "es": "Okayama",
+    "zh": "冈山"
   }
 }
