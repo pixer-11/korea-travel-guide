@@ -1,5 +1,31 @@
 {
   "validate-content": {},
   "audit-translations": {},
-  "audit-hours-claims": {}
+  "audit-hours-claims": {
+    "HOURS-CONTRADICTION matsuyama-matsuyama-castle.md": {
+      "since": "2026-10-10",
+      "last": "2026-10-10",
+      "seen": 1
+    },
+    "HOURS-CONTRADICTION matsuyama-matsuyama-general-park.md": {
+      "since": "2026-10-10",
+      "last": "2026-10-10",
+      "seen": 1
+    },
+    "HOURS-CONTRADICTION naoshima-chichu-art-museum.md": {
+      "since": "2026-10-10",
+      "last": "2026-10-10",
+      "seen": 1
+    },
+    "HOURS-CONTRADICTION takamatsu-ritsurin-garden.md": {
+      "since": "2026-10-10",
+      "last": "2026-10-10",
+      "seen": 1
+    },
+    "HOURS-CONTRADICTION takamatsu-takamatsu-castle-park.md": {
+      "since": "2026-10-10",
+      "last": "2026-10-10",
+      "seen": 1
+    }
+  }
 }
