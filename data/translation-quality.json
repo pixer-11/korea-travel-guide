@@ -32394,5 +32394,89 @@
   "registerBreak": false,
   "worst": "天守阁每天9:00 AM开放，4:30 PM关闭，全年无休。",
   "at": "2026-10-10T15:03:06.382Z"
+ },
+ "es/takamatsu-chichu-art-museum": {
+  "hash": "90084f8e5aea",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Los sábados y domingos hay mucha gente durante todo el día, de 10am–4pm",
+  "at": "2026-10-10T16:06:11.763Z"
+ },
+ "es/takamatsu-honetsukidori-ikkaku-takamatsu": {
+  "hash": "96fefa106c60",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "Las horas usan formato inglés ('5pm', '11am') en vez de 17:00/11:00, lo cual delata traducción.",
+  "at": "2026-10-10T16:06:13.408Z"
+ },
+ "es/takamatsu-kagawa-museum": {
+  "hash": "0ef7ed513177",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "de martes a domingo, de 9am–5pm.",
+  "at": "2026-10-10T16:06:14.412Z"
+ },
+ "ja/takamatsu-chichu-art-museum": {
+  "hash": "46fdaa483452",
+  "score": 0,
+  "registerBreak": false,
+  "worst": "",
+  "at": "2026-10-10T16:06:15.186Z"
+ },
+ "ja/takamatsu-honetsukidori-ikkaku-takamatsu": {
+  "hash": "1e99518e86ba",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "脂を受け止めてくれる一品も添えて、食事を締めくくりましょう。",
+  "at": "2026-10-10T16:06:19.296Z"
+ },
+ "ja/takamatsu-kagawa-museum": {
+  "hash": "be0df968ff3f",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "お殿様の庭園、その居城の海の堀、そして彼が治めた国の歴史を、夕方のフェリーに乗る前にひと通り味わえます。",
+  "at": "2026-10-10T16:06:25.281Z"
+ },
+ "ko/takamatsu-chichu-art-museum": {
+  "hash": "d38ae76ebca8",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "구름이 지나갈 때마다 전시실이 밝아졌다 어두워졌다 하기 때문에, 한낮에 보는 작품과 늦은 오후에 보는 작품은 사뭇 다르게 느껴집니다.",
+  "at": "2026-10-10T16:06:26.855Z"
+ },
+ "ko/takamatsu-honetsukidori-ikkaku-takamatsu": {
+  "hash": "7e99b2150f63",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "토요일 오전 11시에 암탉 다리 구이에 맥주 한 잔을 곁들이는 것도 다카마쓰에서라면 전혀 손색없는 점심입니다.",
+  "at": "2026-10-10T16:06:33.595Z"
+ },
+ "ko/takamatsu-kagawa-museum": {
+  "hash": "bd9ccef27766",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "가가와 박물관을 찾는다면 가장 좋은 이웃인 다카마쓰성도 함께 둘러보는 일정을 짜는 것이 좋습니다.",
+  "at": "2026-10-10T16:06:40.653Z"
+ },
+ "zh/takamatsu-chichu-art-museum": {
+  "hash": "52c22886f418",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "馆藏少而精，这是有意为之。",
+  "at": "2026-10-10T16:06:41.606Z"
+ },
+ "zh/takamatsu-honetsukidori-ikkaku-takamatsu": {
+  "hash": "72f11c567500",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "两种都点很常见，哪种更好吃的争论也就此有了答案。",
+  "at": "2026-10-10T16:06:48.503Z"
+ },
+ "zh/takamatsu-kagawa-museum": {
+  "hash": "93601f6952a2",
+  "score": 1,
+  "registerBreak": false,
+  "worst": "所以别拿钢笔或水笔写生",
+  "at": "2026-10-10T16:06:59.128Z"
  }
 }

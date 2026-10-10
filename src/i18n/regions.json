@@ -11519,5 +11519,32 @@
       "getting": "大多数游客会搭乘飞机抵达松山机场（MYJ），这是前往爱媛县的主要空中门户，再转乘机场利木津巴士进入市区；巴士大约每20分钟一班，开往JR松山站和松山市站，车程约20到25分钟。若从日本其他地区前来，通常的铁路路线是先乘新干线到冈山，再转乘JR予讃线的\"潮风号\"特快列车前往松山，从冈山出发全程约需2.5到3小时。",
       "days": "安排2到3天时间，便足以从容游览松山城、道后温泉以及市区的大街道和银天街一带；如果还计划前往濑户内海沿岸或周边岛屿，建议再多留一天。"
     }
+  },
+  "Takamatsu": {
+    "en": {
+      "blurb": "Takamatsu is Shikoku's main gateway, a compact port city built around the Michelin three-starred Ritsurin Garden and a devotion to Sanuki udon that borders on civic religion. It also serves as the launchpad for ferries into the Seto Inland Sea, where art islands like Naoshima and Teshima draw travellers out onto the water.",
+      "getting": "Most travellers arrive by train: from Osaka, take the Shinkansen to Okayama, then transfer to the JR Marine Liner into JR Takamatsu Station, a journey of roughly 2 to 3 hours. Takamatsu Airport (TAK) also has domestic and a handful of international flights, with buses from the regional hub running into the city centre.",
+      "days": "Plan on ~2 days: enough time for Ritsurin Garden, an udon crawl through the arcades, and a half-day ferry trip to one of the nearby art islands."
+    },
+    "ko": {
+      "blurb": "다카마쓰는 시코쿠로 들어가는 관문과도 같은 아담한 항구 도시로, 미쉐린 가이드 별 셋을 받은 리쓰린 공원을 중심으로 펼쳐져 있으며, 사누키 우동에 대한 사랑은 거의 시민 종교에 가까울 정도다. 또한 세토내해로 향하는 페리의 출발점이기도 해서, 나오시마와 테시마 같은 예술의 섬들이 여행자들을 바다로 이끈다.",
+      "getting": "대부분의 여행자는 기차로 다카마쓰에 도착한다. 오사카에서는 신칸센을 타고 오카야마로 간 뒤, JR 마린라이너로 환승해 JR 다카마쓰역까지 가면 되는데, 전체 여정은 대략 2~3시간 정도 걸린다. 다카마쓰 공항(TAK)에도 국내선과 소수의 국제선이 운항하며, 공항에서 시내까지는 버스로 이동할 수 있다.",
+      "days": "대략 2일 정도를 계획하면 좋다. 리쓰린 공원을 둘러보고, 아케이드 거리를 돌며 우동 맛집 탐방을 즐기고, 근처 예술의 섬 중 한 곳으로 반나절 페리 여행을 다녀올 수 있는 시간이다."
+    },
+    "ja": {
+      "blurb": "高松は四国の玄関口として知られる、こぢんまりとした港町。ミシュラン三つ星の栗林公園を中心に広がり、讃岐うどんへの愛は、もはや市民の信仰といってもいいほどだ。瀬戸内海へ渡るフェリーの発着地でもあり、直島や豊島といったアートの島々へ旅人たちを海の上へと誘う。",
+      "getting": "多くの旅行者は電車で訪れる。大阪からは新幹線で岡山まで行き、そこでJRマリンライナーに乗り換えてJR高松駅へ。所要時間はおよそ2〜3時間だ。高松空港(TAK)にも国内線や一部の国際線が発着しており、空港からはバスで市内中心部へアクセスできる。",
+      "days": "滞在目安は2日ほど。栗林公園を訪れ、アーケード街でうどん店を巡り、さらに半日かけて近隣のアートの島へフェリーで足を延ばす——それだけの時間があれば十分楽しめる。"
+    },
+    "es": {
+      "blurb": "Takamatsu es la puerta principal de Shikoku, una ciudad portuaria de tamaño manejable construida en torno al Jardín Ritsurin, galardonado con tres estrellas Michelin, y a una devoción por el udon de Sanuki que roza la religión popular. También funciona como punto de partida para los ferris que surcan el Mar Interior de Seto, donde islas dedicadas al arte como Naoshima y Teshima invitan a los viajeros a adentrarse en el agua.",
+      "getting": "La mayoría de los viajeros llega en tren: desde Osaka, se toma el Shinkansen hasta Okayama y luego se hace transbordo al JR Marine Liner hasta la estación de JR Takamatsu, un trayecto de aproximadamente 2 a 3 horas. El aeropuerto de Takamatsu (TAK) también cuenta con vuelos domésticos y algunos internacionales, con autobuses que conectan ese centro regional con el centro de la ciudad.",
+      "days": "Calcula unos 2 días: tiempo suficiente para recorrer el Jardín Ritsurin, hacer un recorrido por los puestos de udon en las galerías cubiertas, y disfrutar de una excursión de medio día en ferri a una de las islas de arte cercanas."
+    },
+    "zh": {
+      "blurb": "高松是四国的主要门户,一座以米其林三星级的栗林公园为中心、规模紧凑的港口城市,当地人对赞岐乌冬面的热爱近乎一种全民信仰。高松同时也是通往濑户内海的渡轮枢纽,直岛、丰岛等艺术岛屿正吸引着越来越多旅人乘船出海。",
+      "getting": "多数旅行者选择乘火车前往:从大阪出发,先搭乘新干线到冈山,再换乘JR\"濑户大桥线\"(Marine Liner)抵达JR高松站,全程大约需要2到3小时。高松机场(TAK)也有国内航线及少量国际航班,机场巴士可直达市区。",
+      "days": "建议安排约2天行程:足够游览栗林公园、在拱廊商店街里来一场乌冬面巡礼,再花半天时间乘渡轮前往附近的某座艺术岛屿。"
+    }
   }
 }

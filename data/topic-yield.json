@@ -2,15 +2,15 @@
  "_note": "Per-topic search→post yield, written by scripts/generate.mjs (scripts/lib/topic-yield.mjs). Seeded 2026-08-23 from the 08-17..23 publish/bulk logs; counts halve past 200 so recent runs weigh more.",
  "topics": {
   "local restaurant": {
-   "attempts": 95,
-   "hits": 13
+   "attempts": 96,
+   "hits": 14
   },
   "historic site": {
-   "attempts": 102,
+   "attempts": 103,
    "hits": 66
   },
   "park": {
-   "attempts": 119,
+   "attempts": 120,
    "hits": 76
   },
   "viewpoint": {
@@ -30,19 +30,19 @@
    "hits": 5
   },
   "museum": {
-   "attempts": 187,
-   "hits": 113
+   "attempts": 188,
+   "hits": 114
   },
   "noodles": {
    "attempts": 53,
    "hits": 1
   },
   "old quarter": {
-   "attempts": 102,
-   "hits": 49
+   "attempts": 103,
+   "hits": 50
   },
   "local market": {
-   "attempts": 191,
+   "attempts": 192,
    "hits": 76
   },
   "bookshop": {
@@ -54,8 +54,8 @@
    "hits": 3
   },
   "hidden gem": {
-   "attempts": 106,
-   "hits": 70
+   "attempts": 107,
+   "hits": 71
   },
   "breakfast": {
    "attempts": 48,
@@ -86,8 +86,8 @@
    "hits": 0
   },
   "top attraction": {
-   "attempts": 82,
-   "hits": 64
+   "attempts": 83,
+   "hits": 65
   },
   "grill": {
    "attempts": 38,
@@ -344,7 +344,15 @@
   "Shiki Memorial Museum": {
    "attempts": 1,
    "hits": 0
+  },
+  "Ritsurin Garden": {
+   "attempts": 1,
+   "hits": 0
+  },
+  "Yashimaji Temple": {
+   "attempts": 1,
+   "hits": 0
   }
  },
- "updated": "2026-10-10T14:59:54.089Z"
+ "updated": "2026-10-10T16:02:48.722Z"
 }

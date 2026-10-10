@@ -24538,6 +24538,36 @@
   "reason": "publish gate: Ornate Chinese gate entrance, plausible park landmark hero shot",
   "at": "2026-09-14T07:48:43.926Z"
  },
+ "takamatsu-chichu-art-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/150505_Chichu_Art_Museum_Naoshima_Island_Kagawa_pref_Japan01s3.jpg/1920px-150505_Chichu_Art_Museum_Naoshima_Island_Kagawa_pref_Japan01s3.jpg": {
+  "slug": "takamatsu-chichu-art-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Shows museum entrance wall and gate, consistent with venue",
+  "at": "2026-10-10T16:02:48.647Z"
+ },
+ "takamatsu-honetsukidori-ikkaku-takamatsu\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Honetsukidori_Ikkaku_-_Aug_5%2C_2012.jpg/3840px-Honetsukidori_Ikkaku_-_Aug_5%2C_2012.jpg": {
+  "slug": "takamatsu-honetsukidori-ikkaku-takamatsu",
+  "verdict": "MATCH",
+  "reason": "publish gate: Close-up of signature chicken dish on plate, in venue",
+  "at": "2026-10-10T16:02:48.710Z"
+ },
+ "takamatsu-kagawa-museum\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/150504_The_Kagawa_Museum_Takamatsu_Kagawa_pref_Japan02s3.jpg/3840px-150504_The_Kagawa_Museum_Takamatsu_Kagawa_pref_Japan02s3.jpg": {
+  "slug": "takamatsu-kagawa-museum",
+  "verdict": "MATCH",
+  "reason": "publish gate: Interior library/museum space, plausible representative hero shot",
+  "at": "2026-10-10T16:02:48.673Z"
+ },
+ "takamatsu-ritsurin-garden\u0001https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ritsurin_park16s3200.jpg/1920px-Ritsurin_park16s3200.jpg": {
+  "slug": "takamatsu-ritsurin-garden",
+  "verdict": "MATCH",
+  "reason": "publish gate: Japanese garden with pond, bridge, matches Ritsurin Garden",
+  "at": "2026-10-10T16:02:48.616Z"
+ },
+ "takamatsu-takamatsu-castle-park\u0001https://upload.wikimedia.org/wikipedia/commons/1/1e/Takamatsu-Castle.jpg": {
+  "slug": "takamatsu-takamatsu-castle-park",
+  "verdict": "MATCH",
+  "reason": "publish gate: Aerial view shows castle park grounds amid Takamatsu cityscape",
+  "at": "2026-10-10T16:02:48.693Z"
+ },
  "takayama-takayama-autumn-festival-hachiman-matsuri\u0001https://upload.wikimedia.org/wikipedia/commons/4/4d/20131009_09_Takayama_-_Autumn_festival_%2810477356645%29.jpg": {
   "slug": "takayama-takayama-autumn-festival-hachiman-matsuri",
   "verdict": "MATCH",

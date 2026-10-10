@@ -10338,6 +10338,789 @@
         }
       }
     },
+    "Mongolia": {
+      "srcHash": "259c64450aee",
+      "en": {
+        "summary": [
+          {
+            "key": "entry",
+            "title": "Visa-free for most",
+            "sub": "Up to 30 days (90 for US) through end of 2026"
+          },
+          {
+            "key": "money",
+            "title": "Cash is king",
+            "sub": "Tugrik only; cards limited outside Ulaanbaatar"
+          },
+          {
+            "key": "season",
+            "title": "Summer is best",
+            "sub": "June–August peak; Naadam July 11–13, 2026"
+          },
+          {
+            "key": "transport",
+            "title": "Buses need smart card",
+            "sub": "U Money card required; no metro yet"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "Visa-free (60 countries incl. US, Canada, Europe, Australia, NZ)",
+              "code": "",
+              "who": "Citizens of sixty exempt countries incl. US, Canada, most of Europe, Australia, NZ",
+              "cost": "Free",
+              "stay": "30 days (90 days for US)",
+              "note": "Policy runs through end of 2026; Australia/NZ need e-visa from 2027"
+            },
+            {
+              "name": "Hong Kong and Macau SAR visa-free",
+              "code": "",
+              "who": "Hong Kong and Macau SAR passport holders",
+              "cost": "Free",
+              "stay": "14 days",
+              "note": ""
+            },
+            {
+              "name": "e-Visa tourist",
+              "code": "K2",
+              "who": "Citizens of countries not on the visa-free list",
+              "cost": "",
+              "stay": "",
+              "note": "Processed within 3 working days (72 hours) via evisa.mn"
+            },
+            {
+              "name": "e-Visa event/cultural",
+              "code": "K4",
+              "who": "Visitors attending events or cultural activities",
+              "cost": "",
+              "stay": "",
+              "note": "Processed within 3 working days (72 hours) via evisa.mn"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "Passport validity",
+              "text": "All visitors must have a passport valid for at least 6 months from arrival."
+            },
+            {
+              "title": "Registration required",
+              "text": "Anyone staying more than 30 days must register with the Mongolia Immigration Agency within the first seven days of arrival."
+            },
+            {
+              "title": "Onward ticket checks",
+              "text": "Border officers commonly check for onward or return tickets."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "Load the U Money card",
+              "text": "Minimum load MNT 500, maximum MNT 90,000; cash is not accepted on buses."
+            },
+            {
+              "title": "Use local apps",
+              "text": "Google Maps and MAPS.ME for navigation, UBCab for taxis, UB Smart Bus for public transport."
+            },
+            {
+              "title": "No metro yet",
+              "text": "Construction of the Ulaanbaatar Metro begins June 2026, a single 19.4-kilometer line; not operational for visitors soon."
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "Only tugrik accepted",
+              "text": "No other currency is officially accepted in Mongolia besides the Mongolian tugrik."
+            },
+            {
+              "title": "Carry cash outside UB",
+              "text": "Cash remains the most widely used payment method, especially outside major cities."
+            },
+            {
+              "title": "Use Visa or Mastercard at ATMs",
+              "text": "ATMs commonly accept Visa, Mastercard, Maestro, Plus, and Cirrus; Amex, JCB, UnionPay, Diners, Discover, Rupay are not accepted."
+            },
+            {
+              "title": "Decline ATM conversion",
+              "text": "Declining the 'accept conversion' option uses your own bank's rate without a markup."
+            }
+          ]
+        },
+        "season": {
+          "best": [
+            6,
+            7,
+            8
+          ],
+          "rows": [
+            {
+              "label": "Summer / Naadam",
+              "sub": "Peak season nationwide, Naadam festival in Ulaanbaatar",
+              "best": [
+                6,
+                7,
+                8
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "103",
+              "label": "Ambulance",
+              "note": ""
+            },
+            {
+              "number": "101",
+              "label": "Fire",
+              "note": ""
+            },
+            {
+              "number": "102",
+              "label": "Police",
+              "note": "Includes traffic police"
+            }
+          ],
+          "chips": [
+            "112 may not reliably work",
+            "No helicopter medical evacuation",
+            "Mobile coverage patchy in rural areas"
+          ]
+        }
+      },
+      "ko": {
+        "summary": [
+          {
+            "title": "대부분 무비자",
+            "sub": "최대 30일(미국은 90일), 2026년 말까지 시행",
+            "key": "entry"
+          },
+          {
+            "title": "현금이 최고",
+            "sub": "투그릭만 사용; 울란바토르 외 지역은 카드 사용 제한",
+            "key": "money"
+          },
+          {
+            "title": "여름이 최적기",
+            "sub": "6~8월 성수기; 나담 축제 2026년 7월 11~13일",
+            "key": "season"
+          },
+          {
+            "title": "버스는 교통카드 필요",
+            "sub": "U Money 카드 필요; 아직 지하철 없음",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "무비자(미국, 캐나다, 유럽, 호주, 뉴질랜드 등 60개국)",
+              "code": "",
+              "who": "미국, 캐나다, 대부분의 유럽, 호주, 뉴질랜드 등 면제 대상 60개국 국민",
+              "cost": "무료",
+              "stay": "30일(미국은 90일)",
+              "note": "정책은 2026년 말까지 시행; 호주/뉴질랜드는 2027년부터 전자비자 필요"
+            },
+            {
+              "name": "홍콩 및 마카오 특별행정구 무비자",
+              "code": "",
+              "who": "홍콩 및 마카오 특별행정구 여권 소지자",
+              "cost": "무료",
+              "stay": "14일",
+              "note": ""
+            },
+            {
+              "name": "전자비자(관광)",
+              "code": "K2",
+              "who": "무비자 대상국이 아닌 국가의 국민",
+              "cost": "",
+              "stay": "",
+              "note": "evisa.mn을 통해 영업일 기준 3일(72시간) 이내 처리"
+            },
+            {
+              "name": "전자비자(행사/문화)",
+              "code": "K4",
+              "who": "행사 또는 문화 활동 참가자",
+              "cost": "",
+              "stay": "",
+              "note": "evisa.mn을 통해 영업일 기준 3일(72시간) 이내 처리"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "여권 유효기간",
+              "text": "모든 방문객은 입국일로부터 최소 6개월 이상 유효한 여권을 소지해야 합니다."
+            },
+            {
+              "title": "등록 필요",
+              "text": "30일 이상 체류하는 경우 입국 후 7일 이내에 몽골 출입국관리국에 등록해야 합니다."
+            },
+            {
+              "title": "귀국/연결 항공권 확인",
+              "text": "국경 심사관은 일반적으로 귀국 또는 연결 항공권을 확인합니다."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "U Money 카드 충전",
+              "text": "최소 충전액 MNT 500, 최대 MNT 90,000; 버스에서는 현금 사용 불가."
+            },
+            {
+              "title": "현지 앱 활용",
+              "text": "길찾기는 구글 맵과 MAPS.ME, 택시는 UBCab, 대중교통은 UB Smart Bus 이용."
+            },
+            {
+              "title": "아직 지하철 없음",
+              "text": "울란바토르 지하철 공사는 2026년 6월에 시작하며, 총 19.4km 단일 노선으로 당분간 방문객이 이용할 수 없습니다."
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "투그릭만 통용",
+              "text": "몽골 투그릭 외에 공식적으로 통용되는 통화는 없습니다."
+            },
+            {
+              "title": "울란바토르 외 지역에서는 현금 지참",
+              "text": "현금은 특히 대도시 외 지역에서 가장 널리 쓰이는 결제 수단입니다."
+            },
+            {
+              "title": "ATM에서는 Visa 또는 Mastercard 사용",
+              "text": "ATM은 보통 Visa, Mastercard, Maestro, Plus, Cirrus를 지원하며, Amex, JCB, UnionPay, Diners, Discover, Rupay는 지원하지 않습니다."
+            },
+            {
+              "title": "ATM 환전 옵션 거절",
+              "text": "'환전 수락' 옵션을 거절하면 가산금 없이 본인 은행의 환율이 적용됩니다."
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "여름 / 나담",
+              "sub": "전국 성수기, 울란바토르에서 나담 축제 개최",
+              "best": [
+                6,
+                7,
+                8
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": [
+            6,
+            7,
+            8
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "103",
+              "label": "구급차",
+              "note": ""
+            },
+            {
+              "number": "101",
+              "label": "소방",
+              "note": ""
+            },
+            {
+              "number": "102",
+              "label": "경찰",
+              "note": "교통경찰 포함"
+            }
+          ],
+          "chips": [
+            "112는 제대로 작동하지 않을 수 있음",
+            "헬기 의료 후송 없음",
+            "농촌 지역은 모바일 신호가 불안정함"
+          ]
+        }
+      },
+      "ja": {
+        "summary": [
+          {
+            "title": "多くの国はビザ免除",
+            "sub": "最長30日間(米国は90日間)、2026年末まで適用",
+            "key": "entry"
+          },
+          {
+            "title": "現金が主流",
+            "sub": "トゥグルグのみ使用可能、ウランバートル以外ではカード利用が限定的",
+            "key": "money"
+          },
+          {
+            "title": "夏がベストシーズン",
+            "sub": "6~8月がピーク; ナーダム祭は2026年7月11~13日",
+            "key": "season"
+          },
+          {
+            "title": "バス利用にはICカードが必要",
+            "sub": "U Moneyカードが必要; 地下鉄はまだ未開通",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "ビザ免除(米国、カナダ、ヨーロッパ、オーストラリア、NZなど60カ国)",
+              "code": "",
+              "who": "米国、カナダ、ヨーロッパの大半、オーストラリア、ニュージーランドなど免除対象60カ国の国民",
+              "cost": "無料",
+              "stay": "30日間(米国は90日間)",
+              "note": "この制度は2026年末まで継続; オーストラリア/ニュージーランドは2027年からeビザが必要"
+            },
+            {
+              "name": "香港・マカオ特別行政区ビザ免除",
+              "code": "",
+              "who": "香港・マカオ特別行政区旅券保持者",
+              "cost": "無料",
+              "stay": "14日間",
+              "note": ""
+            },
+            {
+              "name": "eビザ(観光)",
+              "code": "K2",
+              "who": "ビザ免除対象国以外の国民",
+              "cost": "",
+              "stay": "",
+              "note": "evisa.mnで営業日3日(72時間)以内に処理"
+            },
+            {
+              "name": "eビザ(イベント・文化活動)",
+              "code": "K4",
+              "who": "イベントや文化活動に参加する訪問者",
+              "cost": "",
+              "stay": "",
+              "note": "evisa.mnで営業日3日(72時間)以内に処理"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "パスポートの有効期限",
+              "text": "すべての訪問者は入国時点でパスポートの有効期間が6カ月以上残っている必要があります。"
+            },
+            {
+              "title": "登録が必要",
+              "text": "30日を超えて滞在する場合、入国から7日以内にモンゴル出入国管理局に登録する必要があります。"
+            },
+            {
+              "title": "出国・帰国便の確認",
+              "text": "入国審査官は出国便または帰国便のチケットを確認することが一般的です。"
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "U Moneyカードをチャージ",
+              "text": "最低チャージ額はMNT 500、最大はMNT 90,000; バスでは現金は使えません。"
+            },
+            {
+              "title": "現地アプリを活用",
+              "text": "地図はGoogleマップとMAPS.ME、タクシーはUBCab、公共交通機関はUB Smart Busを利用。"
+            },
+            {
+              "title": "地下鉄はまだ未開通",
+              "text": "ウランバートル地下鉄の建設は2026年6月に開始予定で、全長19.4キロメートルの単一路線; 当面は観光客は利用できません。"
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "トゥグルグのみ使用可能",
+              "text": "モンゴルではモンゴル・トゥグルグ以外の通貨は公式には通用しません。"
+            },
+            {
+              "title": "ウランバートル以外では現金を持参",
+              "text": "現金は特に大都市以外で最も広く使われる支払い方法です。"
+            },
+            {
+              "title": "ATMではVisaまたはMastercardを使用",
+              "text": "ATMは通常Visa、Mastercard、Maestro、Plus、Cirrusに対応していますが、Amex、JCB、UnionPay、Diners、Discover、Rupayは利用できません。"
+            },
+            {
+              "title": "ATMでの両替オプションは拒否",
+              "text": "「換算を承諾」オプションを拒否すると、手数料の上乗せなしに自分の銀行のレートが適用されます。"
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "夏 / ナーダム",
+              "sub": "全国的な最盛期、ウランバートルでナーダム祭が開催",
+              "best": [
+                6,
+                7,
+                8
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": [
+            6,
+            7,
+            8
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "103",
+              "label": "救急車",
+              "note": ""
+            },
+            {
+              "number": "101",
+              "label": "消防",
+              "note": ""
+            },
+            {
+              "number": "102",
+              "label": "警察",
+              "note": "交通警察を含む"
+            }
+          ],
+          "chips": [
+            "112は確実に機能しない場合がある",
+            "ヘリコプターによる医療搬送はなし",
+            "地方では携帯電話の電波が不安定"
+          ]
+        }
+      },
+      "es": {
+        "summary": [
+          {
+            "title": "Exención de visado para la mayoría",
+            "sub": "Hasta 30 días (90 para EE. UU.) hasta fines de 2026",
+            "key": "entry"
+          },
+          {
+            "title": "El efectivo es el rey",
+            "sub": "Solo tugrik; tarjetas limitadas fuera de Ulán Bator",
+            "key": "money"
+          },
+          {
+            "title": "El verano es la mejor época",
+            "sub": "Temporada alta de junio a agosto; Naadam del 11 al 13 de julio de 2026",
+            "key": "season"
+          },
+          {
+            "title": "Los autobuses requieren tarjeta inteligente",
+            "sub": "Se requiere tarjeta U Money; aún no hay metro",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "Exención de visado (60 países, incl. EE. UU., Canadá, Europa, Australia, NZ)",
+              "code": "",
+              "who": "Ciudadanos de sesenta países exentos, incl. EE. UU., Canadá, la mayor parte de Europa, Australia, Nueva Zelanda",
+              "cost": "Gratis",
+              "stay": "30 días (90 días para EE. UU.)",
+              "note": "La política está vigente hasta fines de 2026; Australia/NZ necesitarán e-visa a partir de 2027"
+            },
+            {
+              "name": "Exención de visado para RAE de Hong Kong y Macao",
+              "code": "",
+              "who": "Titulares de pasaporte de las RAE de Hong Kong y Macao",
+              "cost": "Gratis",
+              "stay": "14 días",
+              "note": ""
+            },
+            {
+              "name": "e-Visa turística",
+              "code": "K2",
+              "who": "Ciudadanos de países que no están en la lista de exención de visado",
+              "cost": "",
+              "stay": "",
+              "note": "Tramitada en 3 días hábiles (72 horas) a través de evisa.mn"
+            },
+            {
+              "name": "e-Visa para eventos/actividades culturales",
+              "code": "K4",
+              "who": "Visitantes que asisten a eventos o actividades culturales",
+              "cost": "",
+              "stay": "",
+              "note": "Tramitada en 3 días hábiles (72 horas) a través de evisa.mn"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "Validez del pasaporte",
+              "text": "Todos los visitantes deben tener un pasaporte válido por al menos 6 meses desde la llegada."
+            },
+            {
+              "title": "Registro obligatorio",
+              "text": "Quienes permanezcan más de 30 días deben registrarse ante la Agencia de Inmigración de Mongolia dentro de los primeros siete días desde su llegada."
+            },
+            {
+              "title": "Verificación de boleto de continuación",
+              "text": "Los agentes fronterizos suelen verificar los boletos de continuación o regreso."
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "Cargar la tarjeta U Money",
+              "text": "Carga mínima de MNT 500, máxima de MNT 90,000; no se acepta efectivo en los autobuses."
+            },
+            {
+              "title": "Usar aplicaciones locales",
+              "text": "Google Maps y MAPS.ME para navegación, UBCab para taxis, UB Smart Bus para transporte público."
+            },
+            {
+              "title": "Aún no hay metro",
+              "text": "La construcción del Metro de Ulán Bator comienza en junio de 2026, una única línea de 19.4 kilómetros; no estará operativo para los visitantes pronto."
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "Solo se acepta tugrik",
+              "text": "Ninguna otra moneda es oficialmente aceptada en Mongolia aparte del tugrik mongol."
+            },
+            {
+              "title": "Lleva efectivo fuera de Ulán Bator",
+              "text": "El efectivo sigue siendo el método de pago más utilizado, especialmente fuera de las grandes ciudades."
+            },
+            {
+              "title": "Usa Visa o Mastercard en los cajeros automáticos",
+              "text": "Los cajeros automáticos suelen aceptar Visa, Mastercard, Maestro, Plus y Cirrus; no se aceptan Amex, JCB, UnionPay, Diners, Discover ni Rupay."
+            },
+            {
+              "title": "Rechaza la conversión del cajero automático",
+              "text": "Rechazar la opción de 'aceptar conversión' aplica el tipo de cambio de tu propio banco sin recargo."
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "Verano / Naadam",
+              "sub": "Temporada alta en todo el país, festival Naadam en Ulán Bator",
+              "best": [
+                6,
+                7,
+                8
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": [
+            6,
+            7,
+            8
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "103",
+              "label": "Ambulancia",
+              "note": ""
+            },
+            {
+              "number": "101",
+              "label": "Bomberos",
+              "note": ""
+            },
+            {
+              "number": "102",
+              "label": "Policía",
+              "note": "Incluye policía de tránsito"
+            }
+          ],
+          "chips": [
+            "El 112 puede no funcionar de forma confiable",
+            "No hay evacuación médica en helicóptero",
+            "Cobertura móvil irregular en zonas rurales"
+          ]
+        }
+      },
+      "zh": {
+        "summary": [
+          {
+            "title": "大多数国家免签",
+            "sub": "最长30天(美国为90天),政策持续至2026年底",
+            "key": "entry"
+          },
+          {
+            "title": "现金为王",
+            "sub": "仅接受图格里克;乌兰巴托以外刷卡受限",
+            "key": "money"
+          },
+          {
+            "title": "夏季最佳",
+            "sub": "6月至8月为旺季;那达慕大会为2026年7月11日至13日",
+            "key": "season"
+          },
+          {
+            "title": "乘坐巴士需使用智能卡",
+            "sub": "需要U Money卡;目前尚无地铁",
+            "key": "transport"
+          }
+        ],
+        "visa": {
+          "cards": [
+            {
+              "name": "免签(含美国、加拿大、欧洲、澳大利亚、新西兰等60个国家)",
+              "code": "",
+              "who": "美国、加拿大、大部分欧洲国家、澳大利亚、新西兰等60个免签国家公民",
+              "cost": "免费",
+              "stay": "30天(美国为90天)",
+              "note": "该政策持续至2026年底;澳大利亚/新西兰自2027年起需办理电子签证"
+            },
+            {
+              "name": "香港及澳门特别行政区免签",
+              "code": "",
+              "who": "香港及澳门特别行政区护照持有人",
+              "cost": "免费",
+              "stay": "14天",
+              "note": ""
+            },
+            {
+              "name": "电子旅游签证",
+              "code": "K2",
+              "who": "不在免签名单上的国家公民",
+              "cost": "",
+              "stay": "",
+              "note": "通过evisa.mn办理,3个工作日(72小时)内完成"
+            },
+            {
+              "name": "电子签证(活动/文化)",
+              "code": "K4",
+              "who": "参加活动或文化活动的访客",
+              "cost": "",
+              "stay": "",
+              "note": "通过evisa.mn办理,3个工作日(72小时)内完成"
+            }
+          ],
+          "warnings": [
+            {
+              "title": "护照有效期",
+              "text": "所有访客的护照自抵达之日起必须至少有效6个月。"
+            },
+            {
+              "title": "需要登记",
+              "text": "停留超过30天者须在抵达后七天内向蒙古移民局登记。"
+            },
+            {
+              "title": "查验后续机票",
+              "text": "边境官员通常会查验后续行程或返程机票。"
+            }
+          ]
+        },
+        "transport": {
+          "rows": [],
+          "tips": [
+            {
+              "title": "充值U Money卡",
+              "text": "最低充值额为MNT 500,最高为MNT 90,000;巴士不接受现金。"
+            },
+            {
+              "title": "使用本地应用程序",
+              "text": "导航使用谷歌地图和MAPS.ME,打车使用UBCab,公共交通使用UB Smart Bus。"
+            },
+            {
+              "title": "目前尚无地铁",
+              "text": "乌兰巴托地铁建设将于2026年6月开工,为单一19.4公里线路;短期内游客尚无法使用。"
+            }
+          ]
+        },
+        "money": {
+          "budget": null,
+          "tips": [
+            {
+              "title": "仅接受图格里克",
+              "text": "蒙古官方只接受蒙古图格里克,不接受其他货币。"
+            },
+            {
+              "title": "乌兰巴托以外请携带现金",
+              "text": "现金仍是最常用的支付方式,尤其是在主要城市以外。"
+            },
+            {
+              "title": "在ATM使用Visa或万事达卡",
+              "text": "ATM通常接受Visa、万事达卡(Mastercard)、Maestro、Plus和Cirrus;不接受Amex、JCB、银联、大来卡(Diners)、Discover和Rupay。"
+            },
+            {
+              "title": "拒绝ATM货币转换",
+              "text": "拒绝「接受转换」选项可使用自己银行的汇率,不加收额外费用。"
+            }
+          ]
+        },
+        "season": {
+          "rows": [
+            {
+              "label": "夏季 / 那达慕",
+              "sub": "全国旺季,乌兰巴托举办那达慕大会",
+              "best": [
+                6,
+                7,
+                8
+              ],
+              "busy": [],
+              "avoid": []
+            }
+          ],
+          "best": [
+            6,
+            7,
+            8
+          ]
+        },
+        "emergency": {
+          "numbers": [
+            {
+              "number": "103",
+              "label": "救护车",
+              "note": ""
+            },
+            {
+              "number": "101",
+              "label": "消防",
+              "note": ""
+            },
+            {
+              "number": "102",
+              "label": "警察",
+              "note": "含交通警察"
+            }
+          ],
+          "chips": [
+            "112可能无法可靠使用",
+            "没有直升机医疗救援",
+            "农村地区手机信号不稳定"
+          ]
+        }
+      }
+    },
     "Philippines": {
       "srcHash": "331a75ed04cf",
       "en": {
